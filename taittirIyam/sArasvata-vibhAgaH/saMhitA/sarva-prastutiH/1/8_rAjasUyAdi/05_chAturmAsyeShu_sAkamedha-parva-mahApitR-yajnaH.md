@@ -1,6 +1,5 @@
 +++
 title = "०५ चातुर्मास्येषु साकमेधे पितृमेधादि"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -20,9 +19,9 @@ title = "०५ चातुर्मास्येषु साकमेधे
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमा॑य पितृ॒मते॑+++(←'ह्रस्वनुडभ्यां मतुप्')+++ पुरो॒डाशँ॒ षट्-क॑पाल॒न् निर्व॑पति,  
-पि॒तृभ्यो॑ बर्हि॒षद्भ्यो॑ धा॒नाᳶ,  
-पि॒तृभ्यो॑ ऽग्निष्व्-आ॒त्तेभ्यो॑ ऽभिवा॒न्या॑यै+++(=अन्यवत्स-दोह्या)+++ दु॒ग्धे म॒न्थम्+++(=द्रवयुक्तास् सक्तवः)+++ ।
+सो᳓माय पितृम᳓ते+++(←'ह्रस्वनुडभ्यां मतुप्')+++ पुरोडा᳓शँ ष᳓ट्-कपालन् नि᳓र्वपति,  
+पितृ᳓भ्यो बर्हिष᳓द्भ्यो धानाᳶ᳓,  
+पितृ᳓भ्यो ऽग्निष्व्-आत्ते᳓भ्यो ऽभिवान्या᳙यै+++(=अन्यवत्स-दोह्या)+++ दुग्धे᳓ मन्थ᳓म्+++(=द्रवयुक्तास् सक्तवः)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -53,14 +52,15 @@ for the Pitrs prepared by Agni he milks a beverage from a cow which has to be wo
 2हविश्शेषान् सम्प्लोम्नाय+++(=??)+++  
 पिण्डान् कृत्वा वेद्यास्त्रिसृषु स्रक्तिषु निदधाति पूर्वस्यां दक्षिणस्यां अपरस्यामिति - एतत्ते ततेत्यादि ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/etat_te_tata.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/etat_te_tata.md">
 <details open><summary><h5>एतत् ते तत ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तत् ते॑ तत॒ ये च॒ त्वाम् अनु॑।  
-[ए॒तत् ते॑] पितामह [ये च॒ त्वाम् अनु॑]।  
-[ए॒तत् ते॑] प्रपितामह॒ [ये च॒ त्वाम् अनु॑]।  
-अत्र॑ पितरो यथाभा॒गम्म॑न्दध्वम्  ।
+एत᳓त् ते तत ये᳓ च त्वा᳓म् अ᳓नु।  
+[एत᳓त् ते] पितामह [ये᳓ च त्वा᳓म् अ᳓नु]।  
+[एत᳓त् ते] प्रपितामह [ये᳓ च त्वा᳓म् अ᳓नु]।  
+अ᳓त्र पितरो यथाभाग᳓म् मन्दध्वम्  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -88,7 +88,7 @@ _____________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्र॑ पितरो यथाभा॒गम् म॑न्दध्वम्  ।
+अ᳓त्र पितरो यथाभाग᳓म् मन्दध्वम्  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -110,7 +110,11 @@ Rejoice therein, O fathers, according to your shares.
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/02_susandRshan_tvA.md">
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/02_susandRshan_tvA.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/02_susandRshan_tvA.md">
 <details open><summary><h5>02 सुसन्दृशन् त्वा ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
@@ -133,15 +137,17 @@ O bountiful one, fair to see;
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/03_pra_nUnam.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/03_pra_nUnam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-**प्र** नू॒नम् पू॒र्ण-व॑न्धुरस्+++(=रथाग्रः)+++  
-स्तु॒तो **या॑सि॒** वशाँ॒ अनु॑  ॥    
-**योजा॒** न्व् इ॑न्द्र ते॒ हरी॑ ॥ [7]
+**प्र᳓** नून᳓म् पूर्ण᳓-वन्धुरस्+++(=रथाग्रः)+++  
+स्तुतो᳓ **यासि** व᳓शाँ अ᳓नु  ॥    
+**यो᳓जा** न्व् इ᳙न्द्र ते ह᳓री ॥ [7]
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/03_pra_nUnam.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/03_pra_nUnam.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -167,11 +173,13 @@ Yoke, O Indra, thy two bay steeds [1].
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4गार्हपत्यमुपतिष्ठते - अक्षन्नमीमदन्तेति पञ्चपदया पङ्क्त्या । ह्यन्तः प्रथमः पादः ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/082/02_axannamImadanta_hyava.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/082/02_axannamImadanta_hyava.md">
 <details open><summary><h5>०२ अक्षन्नमीमदन्त ह्यव ...{Loading}...</h5></summary>
 
 **अ᳓क्षन्न्**+++(=भुक्तवन्तः)+++, **अ᳓मीमदन्त** ह्य् अ᳓व प्रिया᳓ **अधूषत**+++(=अकम्पयन् [=वक्तुम् अशक्नुवन्])+++ ।  
@@ -180,7 +188,8 @@ Yoke, O Indra, thy two bay steeds [1].
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/082/02_axannamImadanta_hyava.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/082/02_axannamImadanta_hyava.md">
 <details open><summary><h5>002 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -470,12 +479,12 @@ Die weisen, herrlich glänzenden, sie speisten jetzt, berauschten sich Und schü
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (इन्द्र) सभापते ! जो (ते) तेरे (हरी) धारण-आकर्षण करनेहारे वाहन वा घोड़े हैं उनको तू हमारे लिये (नु योज) शीघ्र युक्त कर, हे (स्वभानवः) स्वप्रकाशस्वरूप सूर्यादि के तुल्य (विप्राः) बुद्धिमान् लोगो ! आप (नविष्ठया) अतिशय नवीन (मती) बुद्धि के सहित होके (प्रियाः) प्रिय हूजिये, सबके लिये सब शास्त्रों की (हि) निश्चय से (अस्तोषत) प्रशंसा आप किया करिये, शत्रु और दुःखों को (अवाधूषत) छुड़ाइये, (अक्षन्) विद्यादि शुभगुणों में व्याप्त हूजिये, (अमीमदन्त) अतिशय करके आनन्दित हूजिये और हमको भी ऐसे ही कीजिये ॥ २ ॥
+पदार्थान्वयभाषाः -  हे (इन्द्र) सभापते ! जो (ते) तेरे (हरी) धारण-आकर्षण करनेहारे वाहन वा घोड़े हैं उनको तू हमारे लिये (नु योज) शीघ्र युक्त कर, हे (स्वभानवः) स्वप्रकाशस्वरूप सूर्यादि के तुल्य (विप्राः) बुद्धिमान् लोगो ! आप (नविष्ठया) अतिशय नवीन (मती) बुद्धि के सहित होके (प्रियाः) प्रिय हूजिये, सबके लिये सब शास्त्रों की (हि) निश्चय से (अस्तोषत) प्रशंसा आप किया करिये, शत्रु और दुःखों को (अवाधूषत) छुड़ाइये, (अक्षन्) विद्यादि शुभगुणों में व्याप्त हूजिये, (अमीमदन्त) अतिशय करके आनन्दित हूजिये और हमको भी ऐसे ही कीजिये ॥ २ ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  मनुष्यों को योग्य है कि श्रेष्ठ गुण-कर्म्म-स्वभावयुक्त सब प्रकार उत्तम आचरण करनेहारे सेना और सभापति तथा सत्योपदेशक आदि के गुणों की प्रशंसा और कर्मों से नवीन-नवीन विज्ञान और पुरुषार्थ को बढ़ाकर सदा प्रसन्नता से आनन्द का भोग करें ॥ २ ॥
+भावार्थभाषाः -  मनुष्यों को योग्य है कि श्रेष्ठ गुण-कर्म्म-स्वभावयुक्त सब प्रकार उत्तम आचरण करनेहारे सेना और सभापति तथा सत्योपदेशक आदि के गुणों की प्रशंसा और कर्मों से नवीन-नवीन विज्ञान और पुरुषार्थ को बढ़ाकर सदा प्रसन्नता से आनन्द का भोग करें ॥ २ ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
@@ -504,6 +513,7 @@ Die weisen, herrlich glänzenden, sie speisten jetzt, berauschten sich Und schü
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अन्वाहार्यपचनमुपतिष्ठते - अक्षन् पितर इति ॥ 
@@ -511,7 +521,10 @@ Die weisen, herrlich glänzenden, sie speisten jetzt, berauschten sich Und schü
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**अक्ष॑न्**+++(=भुक्तवन्तः)+++ पि॒तरो, **ऽमी॑मदन्त** पि॒तरो, **ऽती॑तृपन्त** पि॒तरो, **ऽमी॑मृजन्त** पि॒तरः॑  ॥  
+**अ᳓क्षन्**+++(=भुक्तवन्तः)+++ पित᳓रो,  
+**अ᳓मीमदन्त** पित᳓रो,  
+**अ᳓तीतृपन्त** पित᳓रो,  
+**अ᳓मीमृजन्त** पित᳓रः  ॥  
 </details>
 
 <details><summary>Keith</summary>
@@ -533,16 +546,18 @@ The Pitrs have eaten, the Pitrs have rejoiced, the Pitrs have been glad, the Pit
 
 6पितॄन् प्रवाहयति - परेतेति । पञ्चपदा बृहती ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/04_pareta_pitaras.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/04_pareta_pitaras.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-**परे॑त** पितरस् सोम्या  
-गम्भी॒रैᳶ प॒थिभिᳶ॑ पू॒र्व्यैः  ।   
-अथा॑ पि॒तॄन्त् सु॑वि॒दत्राँ॒  
-**अपी॑त** य॒मेन॒ ये स॑ध॒माद॒म् **मद॑न्ति**  ॥
+**प᳓रेत** पितरस् सोम्या  
+गम्भीरैᳶ᳓ पथि᳓भिᳶ पूर्व्यैः᳓  ।   
+अ᳓था पितॄ᳓न्त् सुविद᳓त्राँ  
+**अ᳓पीत** यमे᳓न ये᳓ सधमा᳓दम् **म᳓दन्ति**  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/04_pareta_pitaras.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/04_pareta_pitaras.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -565,20 +580,23 @@ Who carouse in company with Yama.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7अथ तैस्सह तं देशं गतम् इव कृत्वा मन आह्वयति - मन इति तिसृभिर्गायत्रीभिः ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/05_mano_nv.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/05_mano_nv.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 +++(पितॄन् अनु प्रेषितम्)+++  
-मनो॒ न्व् **आ हु॑वामहे**  
-नाराशँ॒सेन॒ स्तोमे॑न +++(←शाकले "सोमेन")+++ ।    
-पितृ॒णाञ् +++(←६.४.५ छन्दस्युभयथा)+++ च॒ च॒ मन्म॑भिः+++(=मननीयैः)+++  ॥
+म᳓नो न्व् **आ᳓ हुवामहे**  
+नाराशँसे᳓न स्तो᳓मेन +++(←शाकले "सोमेन")+++ ।    
+पि᳓तृणा᳓ञ् +++(←६.४.५ छन्दस्युभयथा)+++ च म᳓न्मभिः+++(=मननीयैः)+++  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/05_mano_nv.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/05_mano_nv.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -602,19 +620,22 @@ And the reverence of the Pitrs.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अथ द्वितीया ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/06_A_na.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/06_A_na.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-**आ** [8] न **एतु** मन॒ᳶ पुन॒ᳵ  
-क्रत्वे॒ दक्षा॑य जी॒वसे॑ ॥   
-ज्योक् च॒ सूर्य॑न् दृ॒शे  ॥
+**आ᳓** [8] न **एतु** म᳓नᳶ पु᳓नᳵ  
+क्र᳓त्वे द᳓क्षाय जीव᳓से ॥   
+ज्यो᳓क् च सू᳓र्यन् दृशे᳓  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/06_A_na.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/06_A_na.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -635,11 +656,13 @@ And that long we may see the sun.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9अथ तृतीया ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/vishvAsa-prastutiH/19/024/12_punar_naH_pitaro.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH/atharva/paippalAdam/saMhitA/vishvAsa-prastutiH/19/024/12_punar_naH_pitaro.md">
 <details open><summary><h5>१२ पुनर् नः पितरो ...{Loading}...</h5></summary>
 
 पुन॑र् नᳶ पि॒तरो॒ +++(तान् अनुगतं)+++ मनो॒  
@@ -647,7 +670,8 @@ And that long we may see the sun.
 जी॒वव्ँ व्रातँ॑+++(=समूहम्)+++ सचेमहि+++(=सेवेमहि)+++  ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/sarvASh_TIkAH/19/024/12_punar_naH_pitaro.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH/atharva/paippalAdam/saMhitA/sarvASh_TIkAH/19/024/12_punar_naH_pitaro.md">
 <details open><summary><h5>१२ पुनर् नः पितरो ...{Loading}...</h5></summary>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -663,6 +687,7 @@ May we belong to the band of the living.
 </details>
 </details>
 </div>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद॒न्तरि॑क्षम्पृथि॒वीमु॒त द्याय्ँयन्मा॒तर॑म्पि॒तरव्ँ॑वा जिहिँसि॒म ॥ अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ गार्ह॑पत्य॒ᳶ प्र मु॑ञ्चतु दुरि॒ता यानि॑ चकृ॒म क॒रोतु॒ माम॑ने॒नस॑म् ॥ [9]
@@ -672,18 +697,20 @@ May we belong to the band of the living.
 
 10गार्हपत्यसमीपं गच्छन् जपति - यदन्तरिक्षमिति षट्पदा शक्वरी । केचित् पङ्क्तिमाहुः ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/07_yad_antarikhSham.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/07_yad_antarikhSham.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यद् अ॒न्तरि॑क्षम् पृथि॒वीम् उ॒त द्याय्ँ  
-यन् मा॒तर॑म् पि॒तरव्ँ॑ वा **जिहिँसि॒म**  ॥    
-अ॒ग्निर् मा॒ तस्मा॒द् एन॑सो॒ ..   
-गार्ह॑पत्य॒ᳶ **प्र मु॑ञ्चतु** ..  
-दुरि॒ता यानि॑ **चकृ॒म** ..  
-**क॒रोतु॒** माम् अ॑ने॒नस॑म् ॥
+य᳓द् अन्त᳓रिक्षम् पृथिवी᳓म् उत᳓ द्याय्ँ᳓  
+य᳓न् मात᳓रम् पित᳓रव्ँ वा **जिहिँसिम᳓**  ॥    
+अग्नि᳓र् मा त᳓स्माद् ए᳓नसो ..   
+गा᳓र्हपत्यᳶ **प्र᳓ मुञ्चतु** ..  
+दुरिता᳓ या᳓नि **चकृम᳓** ..  
+**करो᳓तु** मा᳓म् अनेन᳓सम् ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/07_yad_antarikhSham.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/07_yad_antarikhSham.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
