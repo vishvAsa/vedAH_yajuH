@@ -1,6 +1,5 @@
 +++
 title = "०१ पवमानग्रहत्रयम्"
-
 +++
 विश्वेदेवा ऋषयः
 
@@ -9,14 +8,22 @@ title = "०१ पवमानग्रहत्रयम्"
 यो वै पव॑मानानामन्वारो॒हान्वि॒द्वान्यज॒तेऽनु॒ पव॑माना॒ना रो॑हति॒ न पव॑माने॒भ्योऽव॑च्छिद्यते
 </details>
 
+## ब्राह्मणम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै पव॑मानानामन्वारो॒हान्वि॒द्वान् यज॑ते  ।   
-
-अनु॒ पव॑माना॒ना रो॑हति ।  
-
-न पव॑माने॒भ्योऽव॑च्छिद्यते ।  
+यो᳓ वै᳓ प᳓वमानानाम् अन्वारोहा᳓न् विद्वा᳓न् य᳓जते  
+अ᳓नु प᳓वमानान् आ᳓ रोहति ।  
+न᳓ प᳓वमानेभ्यो᳓ ऽवच्छिद्यते ।  
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+[Brāhmaṇa Prologue]
+He who, knowing the ascents of the Pavamāna [Soma-chants], sacrifices, ascends after the Pavamāna-s; he is not severed from the Pavamāna-s."
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
@@ -32,10 +39,17 @@ title = "०१ पवमानग्रहत्रयम्"
 1यो वै पवमानानामित्यादि ॥ पवमानाः बहिष्पवमानादयः । 'पूङ्यजोश्शानन्' । तेषामन्वारोहाः तान् । यैरन्वारुह्यन्ते अनुक्रमेण प्राप्यन्ते तेषामन्वारोहाः मन्त्राः । तान् विद्वान्यजमानः पवमानानन्वारोहति । न पवमानेभ्योवच्छिद्यते ।
 </details>
 
+## श्येनः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्ये॒नो॑ऽसि गाय॒त्रछ॑न्दाः ।  
+श्येनो᳙ऽसि गायत्र᳓छन्दाः ।  
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+You are the Falcon, having the Gāyatrī meter;
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -49,8 +63,14 @@ title = "०१ पवमानग्रहत्रयम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनु॒ त्वा र॑भे ।  
+अ᳓नु त्वा᳓ रभे ।  
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+I grasp onto you. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -64,8 +84,14 @@ title = "०१ पवमानग्रहत्रयम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व॒स्ति मा॒ सम्पा॑रय।  
+स्वस्ति᳓ मा स᳓म्पारय।  
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Safely carry me across to the completion!
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -77,12 +103,19 @@ title = "०१ पवमानग्रहत्रयम्"
 किंच - मा स्वस्ति अविघ्नेन संपारय समाप्तकर्माणं कुरु । पार तीर कर्मसमाप्तौ ॥
 </details>
 
+## सुपर्णः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒प॒र्णो॑ऽसि  त्रि॒ष्टुप्छ॑न्दाः ।  
-अनु॒ त्वा र॑भे ।  
-स्व॒स्ति मा॒ सम्पा॑रय।   
+सुपर्णो᳙ऽसि  त्रिष्टु᳓प् छन्दाः ।  
+अ᳓नु त्वा᳓ रभे ।  
+स्वस्ति᳓ मा स᳓म्पारय।   
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+You are the Fair-Winged Bird (Golden Eagle), having the Triṣṭubh meter; I grasp onto you. Safely carry me across to the completion!
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -96,34 +129,67 @@ title = "०१ पवमानग्रहत्रयम्"
 2अथ माध्यन्दिने पवमाने अष्टम्यां स्तोत्रियायां प्रस्तुतायां वाचयति - सुपर्णोसीति ॥ सुपर्णः श्येनः वृद्धतरः शोभनपतनः । स एव त्वमसि । त्रिष्टुप्छन्दाः । गतमन्यत् ॥
 </details>
 
+## गृध्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सघा॑सि॒ जग॑तीछन्दाः ।  
-अनु॒ त्वा र॑भे ।  
+स᳓घा ऽसि ज᳓गतीछन्दाः ।  
+अ᳓नु त्वा᳓ रभे ।  
+स्वस्ति᳓ मा स᳓म्पारये᳓त्याह ।  
+</details>
 
-स्व॒स्ति मा॒ सम्पा॑र॒येत्या॑ह ।  
-ए॒ते वै पव॑मानानामन्वारो॒हाः ।  
-तान्य ए॒वव्ँवि॒द्वान्यज॒ते ।  
-अनु॒ पव॑माना॒ना रो॑हति ।  
-न पव॑माने॒भ्योऽव॑च्छिद्यते ।   
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+You are the Vulture, having the Jagatī meter; I grasp onto you. Safely carry me across to the completion!
 </details>
 
 <details><summary>मूलम्</summary>
 
 सघा॑सि॒ जग॑तीछन्दाः ।  
 अनु॒ त्वा र॑भे ।  
-
 स्व॒स्ति मा॒ सम्पा॑र॒येत्या॑ह ।  
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+3अथार्भवे पवमाने नवम्यां प्रस्तुतायां वाचयति - सघाऽसीति ॥ गृध्रो वा भासो वा सुपर्णादपि वृद्धतरः । स एव त्वमसि । जगतीछन्दाः । समानमन्यत् । 
+</details>
+
+## ब्राह्मणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एते᳓ वै᳓ प᳓वमानानाम् अन्वारोहाः᳓ ।  
+ता᳓न् य᳓ एवव्ँ᳓ विद्वा᳓न् य᳓जते  
+अ᳓नु प᳓वमानान् आ᳓ रोहति ।  
+न᳓ प᳓वमानेभ्यो᳓ ऽवच्छिद्यते ।   
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+[Brāhmaṇa Epilogue]
+...thus he says. These, verily, are the ascents of the Pavamāna chants. He who, knowing thus, sacrifices, ascends after the Pavamānas; he is not severed from the Pavamānas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 ए॒ते वै पव॑मानानामन्वारो॒हाः ।  
-तान्य ए॒वव्ँवि॒द्वान्यज॒ते ।  
+तान्य ए॒वव्ँवि॒द्वान्यजते ।  
 अनु॒ पव॑माना॒ना रो॑हति ।  
 न पव॑माने॒भ्योऽव॑च्छिद्यते ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-3अथार्भवे पवमाने नवम्यां प्रस्तुतायां वाचयति - सघाऽसीति ॥ गृध्रो वा भासो वा सुपर्णादपि वृद्धतरः । स एव त्वमसि । जगतीछन्दाः । समानमन्यत् । इत्याहेति । निगदव्याख्यातम् ॥
+इत्याहेति । निगदव्याख्यातम् ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+We hold that the original soma was Ephedra. Hence, the original soma was not a hallucinogen sensu stricto. However, the exhilaration it produced was mind-altering and conveyed the sense of a divine flight, like that of a soaring raptor. This meditation with the above yajuṣ-es provided a primer for that. There are three ascents of soma, which correspond to the three main Pavamāna stotra-s, the Bahiṣ-pavamāna, the Mādhyandina and Ārbhava. 
+
+The third incantation features the rare word (hapax?) saghā as the raptor. While indological translations render it as "vulture", it is not entirely clear what raptor was originally intended. It is evidently derived from the root $\sqrt{}$ sagh, to injure.
+</details>
+
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -133,8 +199,8 @@ title = "०१ पवमानग्रहत्रयम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै पव॑मानस्य॒ सन्त॑तिव्ँ॒वेद॑ ।  
-सर्व॒मायु॑रेति ।  
+यो᳓ वै᳓ प᳓वमानस्य स᳓न्ततिव्ँवे᳓द ।  
+स᳓र्वमा᳓युरेति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -150,9 +216,9 @@ title = "०१ पवमानग्रहत्रयम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न पु॒रायु॑ष॒ᳶ प्र मी॑यते ।  
-प॒शु॒मान्भ॑वति  ।  
-वि॒न्दते॑ प्र॒जाम् ।  
+न᳓ पुरा᳓युषᳶ प्र᳓ मीयते ।  
+पशुमा᳓न्भवति  ।  
+विन्द᳓ते प्रजा᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -169,7 +235,7 @@ title = "०१ पवमानग्रहत्रयम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पव॑मानस्य॒ ग्रहा॑ गृह्यन्ते ।
+प᳓वमानस्य ग्र᳓हा गृह्यन्ते ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -184,11 +250,11 @@ title = "०१ पवमानग्रहत्रयम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॒ वा अ॑स्यै॒तेऽगृ॑हीता द्रोणकल॒श आ॑धव॒नीयᳶ॑ पूत॒भृत् ।  
+अ᳓थ वा᳓ अस्यैते᳓ऽगृहीता द्रोणकलश᳓ आधवनी᳓यᳶ पूतभृ᳓त् ।  
 
-तान्यदगृ॑हीत्वोपाकु॒र्यात् ।  
-पव॑मानव्ँ॒वि च्छि॑न्द्यात्   ।  
-तव्ँवि॒च्छिद्य॑मानमध्व॒र्योᳶ प्रा॒णोऽनु॒ विच्छि॑द्येत।  
+ता᳓न्य᳓द᳓गृहीत्वोपाकुर्या᳓त् ।  
+प᳓वमानव्ँवि᳓ च्छिन्द्यात्   ।  
+तव्ँ᳓विच्छि᳓द्यमानमध्वर्योᳶ᳓ प्राणो᳓ऽनु वि᳓च्छिद्येत।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -207,14 +273,14 @@ title = "०१ पवमानग्रहत्रयम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒मगृ॑हीतोऽसि  प्र॒जाप॑तये॒ त्वेति॑ द्रोणकल॒शम॒भि मृ॑शेत् ।
+उपयाम᳓गृहीतोऽसि  प्रजा᳓पतये त्वे᳓ति द्रोणकलश᳓मभि᳓ मृशेत् ।
 
-+++(उ॒प॒या॒मगृ॑हीतोऽसि )+++इन्द्रा॑य॒ त्वेत्या॑ध॒व॒नीय॑म्
++++(उपयाम᳓गृहीतोऽसि )+++इ᳓न्द्राय त्वे᳓त्याधवनी᳓यम्
  +++(अभिमशेत् )+++ ।  
 
-+++(उ॒प॒या॒मगृ॑हीतोऽसि)+++विश्वे॑भ्यस्त्वा दे॒वेभ्य॒ इति॑ पूत॒भृत॑म् +++(अभिमशेत्)+++ ।  
++++(उपयाम᳓गृहीतोऽसि)+++वि᳓श्वेभ्यस्त्वा देवे᳓भ्य इ᳓ति पूतभृ᳓तम् +++(अभिमशेत्)+++ ।  
 
-पव॑मानमे॒व तत्सन्त॑नोति ।   
+प᳓वमानमेव᳓ त᳓त्स᳓न्तनोति ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -236,10 +302,10 @@ title = "०१ पवमानग्रहत्रयम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व॒मायु॑रेति ।  
-न पु॒रायु॑ष॒ᳶ प्र मी॑यते ।  
-प॒शु॒मान्भ॑वति ।
-वि॒न्दते॑ प्र॒जाम् ॥   
+स᳓र्वमा᳓युरेति ।  
+न᳓ पुरा᳓युषᳶ प्र᳓ मीयते ।  
+पशुमा᳓न्भवति ।
+विन्द᳓ते प्रजा᳓म् ॥   
 </details>
 
 <details><summary>मूलम्</summary>
