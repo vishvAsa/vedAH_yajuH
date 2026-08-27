@@ -142,6 +142,15 @@ You are the Fair-Winged Bird (Golden Eagle), having the Triṣṭubh meter; I gr
 You are the Vulture, having the Jagatī meter; I grasp onto you. Safely carry me across to the completion!
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The third incantation features the rare word (hapax?) saghā as the raptor. While indological translations render it as "vulture", it is not entirely clear what raptor was originally intended. It is evidently derived from the root $\sqrt{}$ sagh, to injure.
+
+Only two birds would be vR^iddhatara to suparNa: 
+Lammergeier or Cinereous Vulture
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 सघा॑सि॒ जग॑तीछन्दाः ।  
@@ -186,8 +195,6 @@ You are the Vulture, having the Jagatī meter; I grasp onto you. Safely carry me
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
 We hold that the original soma was Ephedra. Hence, the original soma was not a hallucinogen sensu stricto. However, the exhilaration it produced was mind-altering and conveyed the sense of a divine flight, like that of a soaring raptor. This meditation with the above yajuṣ-es provided a primer for that. There are three ascents of soma, which correspond to the three main Pavamāna stotra-s, the Bahiṣ-pavamāna, the Mādhyandina and Ārbhava. 
-
-The third incantation features the rare word (hapax?) saghā as the raptor. While indological translations render it as "vulture", it is not entirely clear what raptor was originally intended. It is evidently derived from the root $\sqrt{}$ sagh, to injure.
 </details>
 
 
