@@ -14,30 +14,10 @@ This makes us suspect it was not originally a text of the yajus tradition at all
 One candidate is the AV AraNyaka which was at least partly known down to the time of shaMkarAcharya. He cites the abhichArika incantation that opens it (though memory of that continues among atharvan-s and is deployed while opening certain abhichArika rites).
 </details>
 
-<details><summary>विश्वास-टिप्पनी - Video</summary>
 
-AyuShya/ ghRta sUkta - rudra, viShNu, prajApati, kArttikeya, brahma-s, ArdrA, invaka-s, mRgashiras
+<details><summary>विश्वास-टिप्पनी</summary>
 
-Source: [TW](https://youtu.be/DFmMzoc0JLk)
-
-आयुष्य-सूक्तम्, घृत-सूक्तम् - https://vishvasa.github.io/devaH/AryaH/hindukaH/classes/lokAntaram/Rk/naxatra-suuktam/
-
-00:00 - Intro
-01:30 - Provenance of the sUkta
-02:40 - Verse 1, pATha-bheda, rudra vs mRga-shiras (prajApati);
-07:00 - kRtti-vAsas, pinAkI
-08:45 - 2 brahma-s (rudra, prajApati),
-10:30 - 3rd brahma - viShNu, invakA
-13:50 - Verse 2 - rudra in Ardra, salila (milky way/ AkAshagangA)
-18:04 - Verse 3 - subrahmaNya, brahma-patnI-s (6 kRttikA-s), saptaRShi (7 sages), arundhati & vasiShTha,
-23:40 - Verse 4 - Wives - laxmI, pArvatI, sarasvatI (vAk, go, vidyA), ShaShThI
-27:40 - rudra not referred to as para-brahma
-28:40 - Verse 5 - dAxAyaNI-s - naxatra-s, tAra-s / stars
-30:40 - Verse 6 - rudra-s. Reminiscent of naxatra-sUkta verse to ArdrA/rudra - https://vishvasa.github.io/devaH/AryaH/hindukaH/classes/lokAntaram/Rk/naxatra-suuktam/
-35:05 - Verse 7 - para-brahma
-36:30 - Verse 8 - Divine beings
-37:30 - Verse 9 - viShNu in shravaNa naxatra & milky way
-41:50 - Conclusion
+video - [TW](/conversations/YT/shAnkaras/2026-04-25_shankara_on_viShNu_Aditya) ।
 </details>
 
 
