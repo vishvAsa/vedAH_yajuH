@@ -117,3 +117,13 @@ unicode_script: devanagari
 </details>
 
 </div>
+
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/09_sannihite_mUtrApurIShavAtakarmochchairbhAShAhAsaShThevanadantaskavananiHshRnkhaNabhruxepaNatAlananiShThyAnIti.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+संनिहिते मूत्रापुरीषवातकर्मोच्चैर्भाषाहासष्ठेवनदन्तस्कवननिःशृङ्खणभ्रुक्षेपणतालननिष्ठ्यानीति ९
+</details>
+
+</div>
