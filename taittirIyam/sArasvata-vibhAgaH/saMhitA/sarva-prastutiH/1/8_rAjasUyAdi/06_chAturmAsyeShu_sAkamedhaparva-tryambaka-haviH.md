@@ -1,6 +1,5 @@
 +++
 title = "०६ चातुर्मास्येषु साकमेधपर्व - त्र्यम्बकहविः"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -18,7 +17,7 @@ title = "०६ चातुर्मास्येषु साकमेधप
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(प्रतिस्त्रीकम्)+++ प्र॒ति॒पू॒रु॒षम् +++(इति)+++ एक॑कपाला॒न् निर्व॑प॒त्य्, +++(ततश्च)+++ एक॒म् अति॑रिक्तम्। 
++++(प्रतिस्त्रीकम्)+++ प्रतिपूरुष᳓म् +++(इति)+++ ए᳓ककपालान् नि᳓र्वपत्य्, +++(ततश्च)+++ ए᳓कम् अ᳓तिरिक्तम्। 
 </details>
 
 <details><summary>Keith</summary>
@@ -46,8 +45,8 @@ For each he offers on one potsherd, and one over.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याव॑न्तो गृ॒ह्याः॑ +++(वयं)+++ **स्मस्** -  
-तेभ्य॒ᳵ कम्+++(=सुखम्)+++ **अ॑करम्**  ।  
+या᳓वन्तो गृह्याः᳙ +++(वयं)+++ **स्मस्** -  
+तेभ्यᳵ क᳓म्+++(=सुखम्)+++ **अकरम्**  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -67,9 +66,9 @@ As many as we are of the house, to them have I made prosperity.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पशू॒नाँ **शर्मा॑सि**,   
-शर्म॒ यज॑मानस्य।  
-शर्म॑ मे **य॒च्छ** ।
+प᳓शूनाँ᳓ **श᳓र्मासि**,   
+शर्म य᳓जमानस्य।  
+श᳓र्म मे **यच्छ᳓** ।
 </details>
 
 <details><summary>Keith</summary>
@@ -99,8 +98,8 @@ give me protection.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एक॑ ए॒व रु॒द्रो  
-न द्वि॒तीया॑य तस्थे ।  
+ए᳓क एव᳓ रुद्रो᳓  
+न᳓ द्विती᳓याय तस्थे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -120,7 +119,7 @@ Rudra alone yieldeth to no second.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒खुस् ते॑ रुद्र प॒शुस् तञ् जु॑षस्व ।
+आखु᳓स् ते रुद्र पशु᳓स् त᳓ञ् जुषस्व ।
 </details>
 
 <details><summary>Keith</summary>
@@ -140,8 +139,8 @@ The mole is thy beast, O Rudra; rejoice in it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॑ रुद्र भा॒गस्,  
-स॒ह +++(साहचर्येण)+++ स्वस्रा ऽम्बि॑कया॒ तञ् जु॑षस्व।
+एष᳓ ते रुद्र भाग᳓स्,  
+सह᳓ +++(साहचर्येण)+++ स्व᳓स्रा᳓ ऽम्बिकया त᳓ञ् जुषस्व।
 </details>
 
 <details><summary>Keith</summary>
@@ -163,17 +162,19 @@ This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
 
 4ततश्च त्वत्प्रसादाद् अस्माकम् इत्थम् अस्त्व् इत्य् आशास्ते - भेषजं गव इति पङ्क्त्या पञ्चपदया ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-भेष॒जङ् गवे ऽश्वा॑य ..   
-पुरु॑षाय भेष॒जम् ।  
-अथो॑ अ॒स्मभ्य॑म् भेष॒जँ...     
-सुभे॑षजम् [10] यथाऽस॑ति  ॥   
-सु॒गम् मे॒षाय॑ मे॒ष्या॑ ॥
+भे᳓षज᳓ङ् ग᳓वे᳓ ऽश्वाय᳓ ..   
+पु᳓रुषाय भेषज᳓म् ।  
+अ᳓थो अस्म᳓भ्यम् भेषजँ᳓...     
+सु᳓भेष᳓ज᳓म् [10] य᳓था᳓ऽसति  ॥   
+सुग᳓म् मेषा᳓य मेष्या᳙ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -204,6 +205,7 @@ Good [1] for ram and sheep.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5इदानीम् आरोग्यानन्तरं धनसमृद्ध्य्-आदिकम् आशास्ते - अवाम्बेति। 
@@ -211,12 +213,12 @@ Good [1] for ram and sheep.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अवा॑म्ब रु॒द्रम् **अ॑दिम॒हि**+++(←दा)+++ ..    
-अव॑ दे॒वन् त्र्य॑म्बकम्  ॥   
-यथा॑ न॒श्+++(=अस्मान्)+++ श्रेय॑स॒ᳵ **करत्**  ..  
-यथा॑ नो॒ वस्य॑स॒ᳵ+++(=वसीयसः)+++ **करत्** ..  ।   
-यथा॑ नᳶ पशु॒मत॒ᳵ **कर॒त्** ..  
-यथा॑ नो **व्यवसा॒यया॑त्**  ॥
+अ᳓वाम्ब रुद्र᳓म् **अदिमहि᳓**+++(←दा)+++ ..    
+अ᳓व देव᳓न् त्र्यम्बकम्  ॥   
+य᳓था नश्+++(=अस्मान्)+++ श्रे᳓यसᳵ **क᳓र᳓त्**  ..  
+य᳓था नो व᳓स्यसᳵ+++(=वसीयसः)+++ **क᳓र᳓त्** ..  ।   
+य᳓था नᳶ पशुम᳓तᳵ **क᳓रत्** ..  
+य᳓था नो **व्यवसाय᳓यात्**  ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -263,7 +265,8 @@ That he may embolden us.
 
 6त्रिः प्रदक्षिणं परियन्ति - त्र्यम्बकमिति । 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/059/12_tryambakaM_yajAmahe.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/059/12_tryambakaM_yajAmahe.md">
 <details open><summary><h5>१२ त्र्यम्बकं यजामहे ...{Loading}...</h5></summary>
 
 त्र्यम्बकं यजामहे  
@@ -273,7 +276,8 @@ That he may embolden us.
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/059/12_tryambakaM_yajAmahe.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/059/12_tryambakaM_yajAmahe.md">
 <details open><summary><h5>012 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -298,10 +302,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)  
-popular;; epic anuṣṭubh (424)
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
 _________
 **Morph**  
 tryàmbakam ← tryàmbaka- (nominal stem)  
@@ -538,7 +542,7 @@ Den Triambaka verehren wir, den schönduftenden, Nahrung mehrenden. Wie eine Kü
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे मनुष्यो ! जिस (सुगन्धिम्) अच्छे प्रकार पुण्यरूपय यशयुक्त (पुष्टिवर्धनम्) पुष्टि बढ़ानेवाले (त्र्यम्बकम्) तीनों कालों में रक्षण करने वा तीन अर्थात् जीव, कारण और कार्य्यों की रक्षा करनेवाले परमेश्वर को हम लोग (यजामहे) उत्तम प्रकार प्राप्त होवें उसकी आप लोग भी उपासना करिये और जैसे मैं (बन्धनात्) बन्धन से (उर्वारुकमिव) ककड़ी के फल के सदृश (मृत्योः) मरण से (मुक्षीय) छूटूँ, वैसे आप लोग भी छूटिये जैसे मैं मुक्ति से न छूटूँ, वैसे आप भी (अमृतात्) मुक्ति की प्राप्ति से विरक्त (मा, आ) मत हूजिये ॥१२॥
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जिस (सुगन्धिम्) अच्छे प्रकार पुण्यरूपय यशयुक्त (पुष्टिवर्धनम्) पुष्टि बढ़ानेवाले (त्र्यम्बकम्) तीनों कालों में रक्षण करने वा तीन अर्थात् जीव, कारण और कार्य्यों की रक्षा करनेवाले परमेश्वर को हम लोग (यजामहे) उत्तम प्रकार प्राप्त होवें उसकी आप लोग भी उपासना करिये और जैसे मैं (बन्धनात्) बन्धन से (उर्वारुकमिव) ककड़ी के फल के सदृश (मृत्योः) मरण से (मुक्षीय) छूटूँ, वैसे आप लोग भी छूटिये जैसे मैं मुक्ति से न छूटूँ, वैसे आप भी (अमृतात्) मुक्ति की प्राप्ति से विरक्त (मा, आ) मत हूजिये ॥१२॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
@@ -572,6 +576,7 @@ Den Triambaka verehren wir, den schönduftenden, Nahrung mehrenden. Wie eine Kü
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7शुष्के स्थाणौ तान्बध्नाति - एष त इति ॥ 
@@ -579,7 +584,7 @@ Den Triambaka verehren wir, den schönduftenden, Nahrung mehrenden. Wie eine Kü
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॑ रुद्र भा॒गस्, तञ् जु॑षस्व  ।  
+एष᳓ ते रुद्र भाग᳓स्, त᳓ञ् जुषस्व  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -599,8 +604,8 @@ This is thy portion, O Rudra; rejoice in it;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेना॑व॒सेन॑ +++(दत्तान्नभागरूपेण)+++ प॒रो मूज॑व॒तो **ऽती॒ह्य्**,  
-अव॑तत-धन्वा॒ पिना॑क-हस्त॒ᳵ कृत्ति॑वासाः ॥ [11]
+ते᳓नावसे᳓न +++(दत्तान्नभागरूपेण)+++ परो᳓ मू᳓जवतो᳓ **ऽतीह्य्**,  
+अ᳓वतत-धन्वा पि᳓नाक-हस्तᳵ कृ᳓त्तिवासाः ॥ [11]
 </details>
 
 <details><summary>मूलम्</summary>
