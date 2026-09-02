@@ -3,9 +3,9 @@ title = "म॒ह॒ते क्ष॒त्त्राय॑"
 +++
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
-… म॒ह॒ते क्ष॒त्त्राय॑
-मह॒त आधि॑पत्याय  
-मह॒ते जान॑राज्यायै
+… महते᳓ क्षत्त्रा᳓य
+महत᳓ आ᳓धिपत्याय  
+महते᳓ जा᳓नराज्यायै
 </details>
 
 <details><summary>Keith</summary>
@@ -13,7 +13,6 @@ title = "म॒ह॒ते क्ष॒त्त्राय॑"
 to great lordship, to great overlordship, to great rule over the people.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
