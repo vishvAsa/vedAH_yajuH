@@ -1,6 +1,5 @@
 +++
 title = "०७ चातुर्मास्येषु शुनासीर्यपर्व"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -18,7 +17,7 @@ title = "०७ चातुर्मास्येषु शुनासीर
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्रा॒ग्नन् द्वाद॑शकपालव्ँ, वैश्वदे॒वञ् च॒रुम् …   
+ऐन्द्राग्न᳓न् द्वा᳓दशकपालव्ँ, वैश्वदेव᳓ञ् चरु᳓म् …   
 </details>
 
 <details><summary>Keith</summary>
@@ -43,7 +42,7 @@ title = "०७ चातुर्मास्येषु शुनासीर
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य शुना॒सीरा॑य पुरो॒डाश॒न् द्वाद॑शकपालम्  +++(निर्वपति)+++ ।
+इ᳓न्द्राय शुनासी᳓राय पुरोडा᳓शन् द्वा᳓दशकपालम्  +++(निर्वपति)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -63,8 +62,8 @@ a cake on twelve potsherds to Indra Śunasira,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒य॒व्य॑म् पय॑स्, सौ॒र्यम् एक॑कपालम्   +++(निर्वपति)+++   
-द्वादशग॒वँ सीर॒न्+++(=हलम्)+++ दक्षि॑णा।
+वायव्य᳙म् प᳓यस्, सौर्य᳓म् ए᳓ककपालम्   +++(निर्वपति)+++   
+द्वादशगवँ᳓ सी᳓रन्+++(=हलम्)+++ द᳓क्षिणा।
 </details>
 
 <details><summary>Keith</summary>
@@ -93,7 +92,7 @@ the sacrificial fee is a plough for twelve oxen.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आग्ने॒यम् अ॒ष्टाक॑पाल॒न् निर्व॑पति  ।   
+आग्नेय᳓म् अष्टा᳓कपालन् नि᳓र्वपति  ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -103,12 +102,12 @@ To Agni he offers on eight potsherds,
 
 <details><summary>मूलम्</summary>
 
-आग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति  ।   
+आ॒ग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति  ।   
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौ॒द्रङ् गा॑वीधु॒कञ्+++(=तृण-तण्डुलं)+++ च॒रुम्  +++(निर्वपति)+++   ।  
+रौद्र᳓ङ् गावीधुक᳓ञ्+++(=तृण-तण्डुलं)+++ चरु᳓म्  +++(निर्वपति)+++   ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -128,7 +127,7 @@ to Rudra an oblation of Gavidhuka,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्रन् दधि॑  ।  
+ऐन्द्र᳓न् द᳓धि  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -148,8 +147,8 @@ to Indra curds,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वारु॒णय्ँ य॑व॒मय॑ञ् च॒रुम्   +++(निर्वपति)+++   ।  
-व॒हिनी॑ धे॒नुर् दक्षि॑णा ।
+वारुणय्ँ᳓ यवम᳓यञ् चरु᳓म्   +++(निर्वपति)+++   ।  
+वहि᳓नी धेनु᳓र् द᳓क्षिणा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -160,7 +159,7 @@ the sacrificial fee is a cow for draught purposes.
 
 <details><summary>मूलम्</summary>
 
-वारु॒णय्ँय॑व॒मय॑ञ्च॒रुम्   +++(निर्वपति)+++   ।  
+वा॒रु॒णय्ँय॑व॒मय॑ञ्च॒रुम्   +++(निर्वपति)+++   ।  
 व॒हिनी॑ धे॒नुर्दक्षि॑णा ।
 </details>
 
@@ -180,15 +179,16 @@ the sacrificial fee is a cow for draught purposes.
 आज्येनैतान् व्याघारयतीति केचित् - ये देवाः पुरस्सद इत्यादिभिः ॥
 तत्र ये देवा इति पदद्वयं रक्षोहण इत्यादि च पूर्वत्र परत्र च पञ्चस्वप्य् अनुषज्यते ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/ye_devAH_purassadaH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/ye_devAH_purassadaH.md">
 <details open><summary><h5>ये दे॒वाᳶ पु॑र॒स्-सदो॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये दे॒वाᳶ पु॑र॒स्-सदो॒ऽग्नि-ने॑त्राः [रक्षो॒-हण॒स्,  
-ते नᳶ॑ पान्तु॒,  
-ते नो॑ऽवन्तु॒,  
-तेभ्यो॒ नम॒स्,  
-तेभ्य॒स् स्वाहा॑ ]
+ये᳓ देवाᳶ᳓ पुरस्-स᳓दोऽग्नि᳓-नेत्राः [रक्षो-ह᳓णस्,  
+ते᳓ नᳶ पान्तु,  
+ते᳓ नोऽवन्तु,  
+ते᳓भ्यो न᳓मस्,  
+ते᳓भ्यस् स्वा᳓हा ]
 </details>
 
 <details><summary>Keith</summary>
@@ -215,11 +215,11 @@ The gods that sit in the east, led by Agni;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[ये दे॒वाः] दक्षिण॒-सदो॑ य॒म-ने॑त्राः [रक्षो॒-हण॒स्,  
-ते नᳶ॑ पान्तु॒,  
-ते नो॑ऽवन्तु॒,  
-तेभ्यो॒ नम॒स्,  
-तेभ्य॒स् स्वाहा॑ ]
+[ये᳓ देवाः᳓] दक्षिण-स᳓दो यम᳓-नेत्राः [रक्षो-ह᳓णस्,  
+ते᳓ नᳶ पान्तु,  
+ते᳓ नोऽवन्तु,  
+ते᳓भ्यो न᳓मस्,  
+ते᳓भ्यस् स्वा᳓हा ]
 </details>
 
 <details><summary>Keith</summary>
@@ -229,7 +229,7 @@ that sit in the south, led by Yama;
 
 <details><summary>मूलम्</summary>
 
-[ये दे॒वाः] दक्षिण॒सदो॑ य॒मने॑त्राः [रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा॑ ]
+[ये दे॒वाः] द॑क्षिण॒सदो॑ य॒मने॑त्राः [रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा॑ ]
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -239,11 +239,11 @@ that sit in the south, led by Yama;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[ये दे॒वाः] पश्चा॒थ्-सद॑स् सवि॒तृ-ने॑त्राः [रक्षो॒-हण॒स्,  
-ते नᳶ॑ पान्तु॒,  
-ते नो॑ऽवन्तु॒,  
-तेभ्यो॒ नम॒स्,  
-तेभ्य॒स् स्वाहा॑ ]
+[ये᳓ देवाः᳓] पश्चात्-स᳓दस् सवितृ᳓-नेत्राः [रक्षो-ह᳓णस्,  
+ते᳓ नᳶ पान्तु,  
+ते᳓ नोऽवन्तु,  
+ते᳓भ्यो न᳓मस्,  
+ते᳓भ्यस् स्वा᳓हा ]
 </details>
 
 <details><summary>Keith</summary>
@@ -253,7 +253,7 @@ that sit in the west, led by Savitr;
 
 <details><summary>मूलम्</summary>
 
-[ये दे॒वाः] पश्चा॒त्सद॑स्सवि॒तृने॑त्राः [रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॒ नम॒स्तेभ्य॒स्स्वाहा॑]
+[ये दे॒वाः] प॑श्चा॒त्सद॑स्सवि॒तृने॑त्राः [रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॒ नम॒स्तेभ्य॒स्स्वाहा॑]
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -263,11 +263,11 @@ that sit in the west, led by Savitr;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[ये दे॒वाः] उत्तर॒-सदो॒ वरु॑ण-नेत्राः [रक्षो॒-हण॒स्,  
-ते नᳶ॑ पान्तु॒,  
-ते नो॑ऽवन्तु॒,  
-तेभ्यो॒ नम॒स्,  
-तेभ्य॒स् स्वाहा॑ ]
+[ये᳓ देवाः᳓] उत्तर-स᳓दो व᳓रुण-नेत्राः [रक्षो-ह᳓णस्,  
+ते᳓ नᳶ पान्तु,  
+ते᳓ नोऽवन्तु,  
+ते᳓भ्यो न᳓मस्,  
+ते᳓भ्यस् स्वा᳓हा ]
 </details>
 
 <details><summary>Keith</summary>
@@ -277,7 +277,7 @@ that sit in the north, led by Varuna;
 
 <details><summary>मूलम्</summary>
 
-[ये दे॒वाः] उत्तर॒सदो॒ वरु॑णनेत्राः [रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा॑ ]
+[ये दे॒वाः] उ॑त्तर॒सदो॒ वरु॑णनेत्राः [रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा॑ ]
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -287,11 +287,11 @@ that sit in the north, led by Varuna;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[ये दे॒वाः] उपरि॒-षदो॒ बृह॒स्-पति॑-नेत्राः रक्षो॒-हण॒स्,  
-ते नᳶ॑ पान्तु॒,  
-ते नो॑ऽवन्तु॒,  
-तेभ्यो॒ नम॒स्,  
-तेभ्य॒स् स्वाहा॑ ॥
+[ये᳓ देवाः᳓] उपरि-ष᳓दो बृ᳓हस्-प᳓ति-नेत्राः रक्षो-ह᳓णस्,  
+ते᳓ नᳶ पान्तु,  
+ते᳓ नोऽवन्तु,  
+ते᳓भ्यो न᳓मस्,  
+ते᳓भ्यस् स्वा᳓हा ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -301,7 +301,7 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 
 <details><summary>मूलम्</summary>
 
-[ये दे॒वाः] उपरि॒षदो॒ बृह॒स्पति॑नेत्राः रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॒ नम॒स्तेभ्य॒स्स्वाहा॥
+[ये दे॒वाः] उ॑परि॒षदो॒ बृह॒स्पति॑नेत्राः रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॒ नम॒स्तेभ्य॒स्स्वाहा॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -312,6 +312,7 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8उदवेषेण सर्वान् आहवनीयाङ्गारान्  
@@ -320,8 +321,8 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-समू॑ढँ॒ रक्षः॑ ।  
-सन्द॑ग्धँ॒ रक्षः॑ ।   
+स᳓मूढँ र᳓क्षः ।  
+स᳓न्दग्धँ र᳓क्षः ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -347,7 +348,7 @@ The Raksases are collected, the Raksases are burnt up;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒दम॒हँ रक्षो॒ऽभि सन्द॑हामि ।  
+इद᳓म् अहँ᳓ र᳓क्षोऽभि᳓ स᳓न्दहामि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -369,12 +370,13 @@ here do I burn up the Raksases.
 
 9-13अपरं पञ्चगृहीतं गृहीत्वा पञ्च स्रुवाहुतीरभिजुहोति - अग्नये रक्षोघ्ने स्वाहेति ॥ यमादिष्वपि चतुर्ष्वनुषज्यते । 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/agnaye_raxoghne_5.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/agnaye_raxoghne_5.md">
 <details open><summary><h5>अ॒ग्नये॑ रक्षो॒घ्ने 5 ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॑ रक्षो॒घ्ने स्वाहा॑   ।  
-य॒माय॑  [रक्षो॒घ्ने स्वाहा॑] ।
+अग्न᳓ये रक्षोघ्ने᳓ स्वा᳓हा   ।  
+यमा᳓य  [रक्षोघ्ने᳓ स्वा᳓हा] ।
 </details>
 
 <details><summary>Keith</summary>
@@ -395,10 +397,10 @@ To Agni, slayer of Raksases, hail!  To Yama,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒वि॒त्रे   [रक्षो॒घ्ने स्वाहा॑] ।  
-वरु॑णाय  [रक्षो॒घ्ने स्वाहा॑] ।   
-बृह॒स्पत॑ये  [रक्षो॒घ्ने स्वाहा॑] ।     
-दुव॑स्वते रक्षो॒घ्ने स्वाहा॑  ।
+सवित्रे᳓   [रक्षोघ्ने᳓ स्वा᳓हा] ।  
+व᳓रुणाय  [रक्षोघ्ने᳓ स्वा᳓हा] ।   
+बृ᳓हस्प᳓तये  [रक्षोघ्ने᳓ स्वा᳓हा] ।     
+दु᳓वस्वते रक्षोघ्ने᳓ स्वा᳓हा  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -423,9 +425,10 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रष्टि+++(=त्र्यश्व)+++-वा॒ही रथो॒ दक्षि॑णा ।
+प्रष्टि+++(=त्र्यश्व)+++-वाही᳓ र᳓थो द᳓क्षिणा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -435,7 +438,7 @@ The sacrificial fee is a chariot with three horses.
 
 <details><summary>मूलम्</summary>
 
-प्रष्टिवा॒ही रथो॒ दक्षि॑णा ।
+प्र॒ष्टि॒वा॒ही रथो॒ दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -459,13 +462,14 @@ The sacrificial fee is a chariot with three horses.
 
 14अथ व्युष्टायां पुनर[पुरा]ग्निहोत्रात् अपामार्गसक्तून् जुहोति - देवस्येति ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary><h5>देवस्य त्वा सवितुः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
-+++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
-पू॒ष्णो हस्ता॑भ्याम्…
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
++++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
+पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
 
 <details><summary>Keith</summary>
@@ -501,9 +505,10 @@ ______________
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‌… रक्ष॑सो व॒धञ्जु॑होमि ।
+‌… र᳓क्षसो वध᳓ञ् जुहोमि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -528,7 +533,7 @@ I offer (for) the death of the Raksases;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ह॒तँ रक्षः॑ ।
+हतँ᳓ र᳓क्षः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -548,7 +553,7 @@ the Raksases are slain
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव॑धिष्म॒ रक्षः॑ ।  
+अ᳓वधिष्म र᳓क्षः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -568,7 +573,7 @@ we have killed the Raksases.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् वस्ते॒+++(=परिधत्ते)+++ तद् दक्षि॑णा ॥ [13]
+य᳓द् व᳓स्ते+++(=परिधत्ते)+++ त᳓द् द᳓क्षिणा ॥ [13]
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
