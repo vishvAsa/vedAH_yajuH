@@ -14,7 +14,7 @@ And the reverence of the Pitrs.
 <details><summary>मूलम्</summary>
 
 मनो॒ न्वा हु॑वामहे नाराशँ॒सेन॒ स्तोमे॑न ।    
-पितृ॒णाञ् च॒ मन्म॑भिः  ॥
+पि॒तृ॒णाञ् च॒ मन्म॑भिः  ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

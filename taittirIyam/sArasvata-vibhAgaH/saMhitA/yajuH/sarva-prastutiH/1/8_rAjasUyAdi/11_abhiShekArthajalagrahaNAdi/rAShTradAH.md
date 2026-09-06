@@ -1,9 +1,8 @@
 +++
 title = "राष्ट्रदाः"
-
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h5>आपो देवीर् मधुमतीः ...{Loading}...</h5></summary>
 
 आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
@@ -12,7 +11,8 @@ title = "राष्ट्रदाः"
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h5>आपो देवीर् मधुमतीः ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
@@ -31,9 +31,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -53,7 +54,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>

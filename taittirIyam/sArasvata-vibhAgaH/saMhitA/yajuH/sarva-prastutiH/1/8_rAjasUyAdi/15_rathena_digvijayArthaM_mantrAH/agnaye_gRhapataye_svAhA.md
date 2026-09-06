@@ -4,14 +4,13 @@ title = "अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वा�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा॑ ।   
+अग्न᳓ये गृह᳓-पतये स्वा᳓हा ।   
 </details>
 
 <details><summary>Keith</summary>
 
 To Agni, lord of the house, hail! 
 </details>
-
 
 <details><summary>मूलम्</summary>
 

@@ -2,6 +2,13 @@
 title = "आपो देवीर् मधुमतीः"
 +++
 
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
