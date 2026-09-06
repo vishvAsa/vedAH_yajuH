@@ -89,6 +89,7 @@ For 2.5.2 and beyond in shrIdharasharma text: Where svara /accent of shrIdhara-s
   - Take care of errata.
   - Figures should be saved and shown at the right spots.
   - Translations post 14.4.1 are missing.
+- sAyaNa-bhAShya missing in 04/05/9.md 09/05/2.md 10/04/4.md 10/04/5.md 10/05/1.md 10/05/2.md 10/05/3.md 10/05/4.md
 - shrIdhara-sharmA
   - Figures should be saved and shown at the right spots.
 - There is some slight mismatch in Eggeling and Weber numberings (usually terminal brAhmaNa split into two), which should be reconciled after shrIdhara-mUla has been included.
