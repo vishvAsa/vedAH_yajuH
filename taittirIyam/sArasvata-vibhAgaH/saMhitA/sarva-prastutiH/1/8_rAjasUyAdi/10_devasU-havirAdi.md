@@ -1,6 +1,5 @@
 +++
 title = "१० देवसू-हविरादि"
-
 +++
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -16,9 +15,9 @@ title = "१० देवसू-हविरादि"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॑ गृ॒हप॑तये  
-पुरो॒डाश॑म् अ॒ष्टाक॑पाल॒न् निर्व॑पति  
-कृ॒ष्णानाव्ँ॑ व्रीही॒णाम् …  
+अग्न᳓ये गृह᳓पतये  
+पुरोडा᳓शम् अष्टा᳓कपालन् नि᳓र्वपति  
+कृष्णा᳓नाव्ँ व्रीहीणा᳓म् …  
 </details>
 
 <details><summary>Keith</summary>
@@ -40,8 +39,8 @@ To Agni, lord of the house, he offers a cake of black rice on eight potsherds;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… सोमा॑य॒ वन॒स्पत॑ये
-श्यामा॒कञ्च॒रुं …  
+… सो᳓माय व᳓नस्प᳓तये
+श्यामाक᳓ञ्चरुं᳓ …  
 </details>
 
 <details><summary>Keith</summary>
@@ -62,8 +61,9 @@ to Soma, lord of the forest, an oblation of millet;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॑वि॒त्रे स॒त्य-प्र॑सवाय पुरो॒डाश॒न् द्वाद॑शकपालम्  
-आशू॒नाव्ँ व्री॑ही॒णाँ …
+सवित्रे᳓ सत्य᳓-प्रसवाय  
+पुरोडा᳓शन् द्वा᳓दशकपालम्  
+आशूनाव्ँ᳓ व्रीहीणाँ᳓ …
 </details>
 
 <details><summary>Keith</summary>
@@ -84,7 +84,7 @@ to Savitr, of true instigation, a cake of swift-growing rice on twelve potsherds
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रु॒द्राय॑ पशु॒पत॑ये गावीधु॒कञ्+++(=तृणजन्यं)+++ च॒रुं…    
+रुद्रा᳓य पशुप᳓तये गावीधुक᳓ञ्+++(=तृणजन्यं)+++ चरुं᳓…    
 </details>
 
 <details><summary>Keith</summary>
@@ -104,7 +104,7 @@ to Rudra, lord of cattle, an oblation of Gavidhuka;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह॒स्पत॑ये वा॒चस्पत॑ये नैवा॒रञ् च॒रुम् …      
+बृ᳓हस्प᳓तये वाच᳓स्प᳓तये नैवार᳓ञ् चरु᳓म् …      
 </details>
 
 <details><summary>Keith</summary>
@@ -124,7 +124,7 @@ to Brhaspati, lord of speech, an oblation of wild rice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य ज्ये॒ष्ठाय॑ पुरो॒डाश॒म् एका॑दशकपालम्  म॒हाव्री॑हीणाम् …
+इ᳓न्द्राय ज्येष्ठा᳓य पुरोडा᳓शम् ए᳓कादशकपालम्  महा᳓व्रीहीणाम् …
 </details>
 
 <details><summary>Keith</summary>
@@ -146,7 +146,7 @@ to Indra, the noblest, a cake of large rice on eleven potsherds;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्राय॑ स॒त्याया॒ऽऽम्बाना॑ञ् च॒रुं       
+मित्रा᳓य सत्या᳓याऽऽम्बा᳓नाञ् चरुं᳓       
 </details>
 
 <details><summary>Keith</summary>
@@ -166,7 +166,7 @@ to Mitra, the true, an oblation of Amba grain,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरु॑णाय॒ धर्म॑पतये यव॒मय॑ञ् च॒रुम्॥      
+व᳓रुणाय ध᳓र्मपतये यवम᳓यञ् चरु᳓म्॥      
 </details>
 
 <details><summary>Keith</summary>
@@ -191,14 +191,14 @@ and to Varuna, lord of right, an oblation made of barley.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒वि॒ता त्वा॑ प्रस॒वानाँ॑ **सुवताम्**  
-अ॒ग्निर् गृ॒हप॑तीनाँ॒  
-सोमो॒ वन॒स्पती॑नाँ  
-रु॒द्रᳶ प॑शू॒नां [18] 
-बृह॒स्पति॑र् वा॒चाम्  
-इन्द्रो॑ ज्ये॒ष्ठाना॑म्  
-मि॒त्रस् स॒त्यानाव्ँ॒ 
-वरु॑णो॒ धर्म॑पतीनाम्॥
+सविता᳓ त्वा प्रसवा᳓नाँ **सुवताम्**  
+अग्नि᳓र् गृह᳓पतीनाँ  
+सो᳓मो व᳓नस्प᳓तीनाँ  
+रुद्रᳶ᳓ पशूनां᳓ [18] 
+बृ᳓हस्प᳓तिर् वाचा᳓म्  
+इ᳓न्द्रो ज्येष्ठा᳓नाम्  
+मित्र᳓स् सत्या᳓नाव्ँ 
+व᳓रुणो ध᳓र्मपतीनाम्॥
 </details>
 
 <details><summary>Keith</summary>
@@ -228,9 +228,9 @@ Varuna of lords of right.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये दे॑वा देव॒सुव॒स् **स्थ**  
-त इ॒मम् आ॑मुष्याय॒णम्  
-अ॑नमि॒त्राय॑  **सुवध्वम्** …     
+ये᳓ देवा देवसु᳓वस् **स्थ᳓**  
+त᳓ इम᳓म् आमुष्यायण᳓म्  
+अनमित्रा᳓य  **सुवध्वम्** …     
 </details>
 
 <details><summary>Keith</summary>
@@ -249,13 +249,14 @@ do ye instigate him, descendant of N. N., to freedom from foes,
 
 हे देवा अग्न्यादयो वरुणान्ताः ये यूयं देवसुवस्स्थ देवस्य दानादिगुणयुक्तस्य यजमानस्य सवितारः प्रेरकास्स्थ ते यूयं यस्मादेवं प्रसवादीनामनुज्ञातारः तस्मादिममामुष्यायणं सिंहवर्मणः पुत्रं नन्दिवर्माणम् अनमित्रायानमित्रत्वाय अविद्यमानशत्रुत्वाय सुवध्वम् । अनुजानीत अशत्रुमेनं कुरुतेत्यर्थः । इममामुष्यायणमिति सर्वनामद्वयं विशेषार्थमुपादीयते । अमुष्यशब्दान्नडादित्वात्फक् ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/mahate_xatrAya.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/mahate_xatrAya.md">
 <details open><summary><h5>म॒ह॒ते क्ष॒त्त्राय॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
-… म॒ह॒ते क्ष॒त्त्राय॑
-मह॒त आधि॑पत्याय  
-मह॒ते जान॑राज्यायै
+… महते᳓ क्षत्त्रा᳓य
+महत᳓ आ᳓धिपत्याय  
+महते᳓ जा᳓नराज्यायै
 </details>
 
 <details><summary>Keith</summary>
@@ -275,15 +276,17 @@ to great lordship, to great overlordship, to great rule over the people.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3यजमानायतने तिष्ठन् रत्निभ्यो जानपदेभ्यो ऽध्वर्युर् आवेदयते - एष व इति ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/eSha_vo_bharatA_rAjA.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/eSha_vo_bharatA_rAjA.md">
 <details open><summary><h5>ए॒ष वो॑ भरता॒ राजा॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
-ए॒ष वो॑ भरता॒ राजा॑ ।
+एष᳓ वो भरता रा᳓जा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -308,7 +311,7 @@ This is your king, O Bharatas;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमो॒ऽस्माक॑म् ब्राह्म॒णानाँ॒ राजा॑ ।+++(5)+++
+सो᳓मोऽस्मा᳓कम् ब्राह्मणा᳓नाँ रा᳓जा ।+++(5)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -327,6 +330,7 @@ Soma is the king of us Brahmans.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5यजमानो मुखं विमृष्टे - प्रति त्यदिति द्वाभ्यां वारुणीभ्यां त्रिष्टुब्भ्याम् ॥ 'महत ऋतस्य नाम' इति प्रथमाया अन्तः । द्वे अप्यनवसाने । 
@@ -336,16 +340,18 @@ Soma is the king of us Brahmans.
 
 प्रति॒ त्यन्नाम॑ रा॒ज्यम॑धायि॒ स्वान्त॒नुवव्ँ॒वरु॑णो अशिश्रे॒च्छुचे॑र्मि॒त्रस्य॒ व्रत्या॑ अभू॒माम॑न्महि मह॒त ऋ॒तस्य॒ नाम॒ सर्वे॒ व्राता॒ वरु॑णस्याभूव॒न्वि मि॒त्र एवै॒ररा॑तिमतारी॒दसू॑षुदन्त य॒ज्ञिया॑ ऋ॒तेन॒ व्यु॑ त्रि॒तो ज॑रि॒माण॑न्न आनड् 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-प्रति॒ त्यन् नाम॑ रा॒ज्यम् **अ॑धायि॒**  
-स्वान् त॒नुवव्ँ॒ वरु॑णो **अशिश्रेत्** ।   
-शुचे॑र् मि॒त्रस्य॒ व्रत्या॑ **अभू॒म**  
-+**अम॑न्महि** मह॒त ऋ॒तस्य॒ नाम॑ ॥
+प्र᳓ति त्य᳓न् ना᳓म राज्य᳓म् **अधायि**  
+स्वा᳓न् तनु᳓वव्ँ व᳓रुणो **अशिश्रेत्** ।   
+शु᳓चेर् मित्र᳓स्य व्र᳓त्या **अभूम᳓**  
++**अ᳓मन्महि** महत᳓ ऋत᳓स्य ना᳓म ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -368,16 +374,18 @@ We have magnified the name of the great holy order.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-सर्वे॒ व्राता॒ वरु॑णस्याभूव॒न्  
-वि मि॒त्र एवै॒र्+++(=आगमनैः)+++ अरा॑तिम् **अतारीत्** ।   
-**असू॑षुदन्त**+++(←षूद द्रववत् क्षरणे)+++ य॒ज्ञिया॑ ऋ॒तेन॒  
-**व्य्** उ॑ त्रि॒तो +++(ऽग्निः)+++ ज॑रि॒माण॑न् न+++(ः)+++ **आन॑ट्** +++(=प्रापयतु)+++॥
+स᳓र्वे व्रा᳓ता व᳓रुणस्याभूवन्  
+वि᳓ मित्र᳓ ए᳓वैर्+++(=आगमनैः)+++ अ᳓रातिम् **अतारीत्** ।   
+**अ᳓सूषुदन्त**+++(←षूद द्रववत् क्षरणे)+++ यज्ञि᳓या ऋते᳓न  
+**व्य्** उ᳙ त्रितो᳓ +++(ऽग्निः)+++ जरिमा᳓णन् न᳓+++(ः)+++ **आ᳓नट्** +++(=प्रापयतु)+++॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -402,11 +410,13 @@ Trita hath taken possession of our old age.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7-9त्रीन्विष्णुक्रमान् प्राचः क्रामति - विष्णोः क्रमोसीति ॥ व्याख्यातम् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md">
 <details open><summary><h5>विष्णोः क्रमः ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -415,7 +425,7 @@ Trita hath taken possession of our old age.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒ᳵ क्रमो॑ऽसि ।
+वि᳓ष्णोᳵ क्र᳓मोऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -435,7 +445,7 @@ Thou art the stepping of Visnu,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णोः॑ क्रा॒न्तम॑सि ।
+वि᳓ष्णोः क्रान्त᳓मसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -455,7 +465,7 @@ thou art the step of Visnu,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒र्विक्रा॑न्तमसि ।
+वि᳓ष्णोर्वि᳓क्रान्तमसि ।
 </details>
 
 <details><summary>Keith</summary>
