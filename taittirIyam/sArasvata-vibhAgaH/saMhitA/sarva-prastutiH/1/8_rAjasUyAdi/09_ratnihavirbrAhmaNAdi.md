@@ -181,7 +181,7 @@ To Varuna (he offers) on ten potsherds in the house of the minstrel; the sacrifi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मारुतँ᳓ सप्त᳓कपालम् 
+मारुतँ᳓ सप्त᳓-कपालम् 
 ग्रामण्यो᳙ गृहे᳓   +++(नि᳓र्वपति)+++।  
 पृ᳓श्ञिर् द᳓क्षिणा ।
 </details>
@@ -259,7 +259,7 @@ To the Aśvins (he offers) on two potsherds in the house of the charioteer; the 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पौष्ण᳓ञ् चरु᳓म्  
-भागदुघ᳓स्य गृहे᳓    +++(नि᳓र्वपति)+++।  
+भाग-दुघ᳓स्य गृहे᳓    +++(नि᳓र्वपति)+++।  
 
 श्यामो᳓ द᳓क्षिणा ।
 </details>
@@ -382,7 +382,7 @@ There is (an offering) to Mitra and Brhaspati;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… श्वेता᳓यै श्वेत᳓वत्सायै दुग्धे᳓ +++(बार्हस्पत्यः कर्तव्यः)+++,  
+… श्वेता᳓यै श्वेत᳓-वत्सायै दुग्धे᳓ +++(बार्हस्पत्यः कर्तव्यः)+++,  
 +++(मैत्रस् तु -)+++ स्वयम्+++(तञ्चनतो)+++-मूर्ते᳓  
 +++(बदरादि-संयोगेन)+++ स्वयम्-मथित᳓  
 +++(आतपे स्थापनेन स्वयं विलीनय्)+++ आ᳓ज्ये …  
