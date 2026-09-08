@@ -445,7 +445,7 @@ Thou art the stepping of Visnu,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि᳓ष्णोः क्रान्त᳓मसि ।
+वि᳓ष्णोः क्रान्त᳓म् असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -465,7 +465,7 @@ thou art the step of Visnu,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि᳓ष्णोर्वि᳓क्रान्तमसि ।
+वि᳓ष्णोर् वि᳓क्रान्तम् असि ।
 </details>
 
 <details><summary>Keith</summary>
