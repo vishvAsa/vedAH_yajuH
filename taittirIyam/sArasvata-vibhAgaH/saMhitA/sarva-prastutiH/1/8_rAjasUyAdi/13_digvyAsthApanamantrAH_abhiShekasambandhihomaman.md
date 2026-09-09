@@ -1,6 +1,5 @@
 +++
 title = "१३ दिग्व्यास्थापनमन्त्राः, अभिषेकसम्बन्धिहोममन्त्राः, पार्थाहुतिमन्त्राः, भूतानामवेष्टिमन्त्राः"
-
 +++
 
 विश्वेदेवा ऋषयः
@@ -13,10 +12,10 @@ title = "१३ दिग्व्यास्थापनमन्त्रा�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मिध॒म् +++(दिशम्)+++ **आति॑ष्ठ**,  
-गाय॒त्री त्वा॒ छन्द॑साम् **अवतु**  
-त्रि॒वृत् स्तोमो॑, रथन्त॒रँ साम॑  
-+अ॒ग्निर् दे॒वता॒, ब्रह्म॒ द्रवि॑णम्
+समि᳓धम् +++(दिशम्)+++ **आ᳓तिष्ठ**,  
+गायत्री᳓ त्वा छ᳓न्दसाम् **अवतु**  
+त्रिवृ᳓त् स्तो᳓मो, रथन्तरँ᳓ सा᳓म  
++अग्नि᳓र् देव᳓ता, ब्र᳓ह्म द्र᳓विणम्
 </details>
 
 <details><summary>Keith</summary>
@@ -48,16 +47,18 @@ Do I thou mount the kindling (quarter); let the Gayatri of metres help thee; the
 
 2दक्षिणां उग्रामिति ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-उ॒ग्राम् +++(दिशम्)+++ **आ ति॑ष्ठ**,  
-त्रि॒ष्टुप् त्वा॒ छन्द॑साम् **अवतु**  
-पञ्चद॒शस् स्तोमो॑, बृ॒हत् साम॑+  
-इन्द्रो॑ दे॒वता॑ क्ष॒त्त्रन् द्रवि॑णम्
+उग्रा᳓म् +++(दिशम्)+++ **आ᳓ तिष्ठ**,  
+त्रिष्टु᳓प् त्वा छ᳓न्दसाम् **अवतु**  
+पञ्चदश᳓स् स्तो᳓मो, बृह᳓त् सा᳓म+  
+इ᳓न्द्रो देव᳓ता क्षत्त्र᳓न् द्र᳓विणम्
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -77,12 +78,13 @@ Do thou mount the dread (quarter); let the Tristubh of metres help thee, the Pa�
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒राज॒म् +++(←राज्, दिशम्)+++ **आ ति॑ष्ठ॒**  
-जग॑ती त्वा॒ छन्द॑साम् **अवतु**  
-सप्त-द॒शस् स्तोमो॑, वैरू॒पँ साम॑,  
-म॒रुतो॑ दे॒वता॒, विड् द्रवि॑ण॒म् 
+विरा᳓जम् +++(←राज्, दिशम्)+++ **आ᳓ तिष्ठ**  
+ज᳓गती त्वा छ᳓न्दसाम् **अवतु**  
+सप्त-दश᳓स् स्तो᳓मो, वैरूपँ᳓ सा᳓म,  
+मरु᳓तो देव᳓ता, वि᳓ड् द्र᳓विणम् 
 </details>
 
 <details><summary>Keith</summary>
@@ -108,8 +110,8 @@ Do thou mount the shining (quarter); let the Jagati of metres help thee, the Sap
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उदी॑ची॒म् +++(दिशम्)+++ **आति॑ष्ठानु॒ष्टुप्** त्वा॒ [24] छन्द॑साम् **अवत्व्**  
-एकविँ॒शस् स्तोमो॑, वैरा॒जँ साम॑, मि॒त्रावरु॑णौ दे॒वता॒, बल॒न् द्रवि॑णम्
+उ᳓दीचीम् +++(दिशम्)+++ **आ᳓तिष्ठानुष्टु᳓प्** त्वा [24] छ᳓न्दसाम् **अवत्व्**  
+एकविँश᳓स् स्तो᳓मो, वैराजँ᳓ सा᳓म, मित्रा᳓व᳓रुणौ देव᳓ता, ब᳓लन् द्र᳓विणम्
 </details>
 
 <details><summary>Keith</summary>
@@ -137,11 +139,11 @@ Do thou mount the northern (quarter); let the Anustubh of metres help thee [1], 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्ध्वाम् **आ ति॑ष्ठ**,  
-प॒ङ्क्तिस् त्वा॒ छन्द॑साम् **अवतु**  
-त्रिणवत्रयस्त्रिँ॒शौ स्तोमौ॑  
-शाक्वर-रैव॒ते साम॑नी॒  
-बृह॒स्पति॑र् दे॒वता॒, वर्चो॒ द्रवि॑णम्
+ऊर्ध्वा᳓म् **आ᳓ तिष्ठ**,  
+पङ्क्ति᳓स् त्वा छ᳓न्दसाम् **अवतु**  
+त्रिणवत्रयस्त्रिँशौ᳓ स्तो᳓मौ  
+शाक्वर-रैवते᳓ सा᳓मनी  
+बृ᳓हस्प᳓तिर् देव᳓ता, व᳓र्चो द्र᳓विणम्
 </details>
 
 <details><summary>Keith</summary>
@@ -175,11 +177,11 @@ Do thou mount the zenith; let the Pañkti of metres help thee, the Trinava, and 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(चतुर्दश मरुद्-विशेषाः -)+++  
-ई॒-दृङ् चा॑न्या॒दृङ् चै॑ता॒दृङ् च॑  
-प्रति॒-दृङ्च॑ मि॒तश् च॒ सम्मि॑तश् च॒ सभ॑राः +++(इति ७)+++ ।  
-शु॒क्र-ज्यो॑तिश् च चि॒त्र-ज्यो॑तिश् च  
-स॒त्य-ज्यो॑तिश् च॒ ज्योति॑ष्माँश् च  
-स॒त्यश् च॑+ऋ॒त॒-पाश् चा॑त्य्-अँ॑हाः +++(इति ७)+++ ।
+ई-दृ᳓ङ् चान्यादृ᳓ङ् चैतादृ᳓ङ् च  
+प्रति-दृ᳓ङ्च मित᳓श् च स᳓म्मितश् च स᳓भराः +++(इति ७)+++ ।  
+शुक्र᳓-ज्योतिश् च चित्र᳓-ज्योतिश् च  
+सत्य᳓-ज्योतिश् च ज्यो᳓तिष्माँश् च  
+सत्य᳓श् च+ऋत-पा᳓श् चात्य्-अँहाः +++(इति ७)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -210,12 +212,12 @@ Of pure radiance, of varied radiance, of true radiance, the radiant, true, prote
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॒ स्वाहा॑ ।    
-सोमा॑य॒ स्वाहा॑ ।    
-स॒वि॒त्रे स्वाहा॑ ।    
-सर॑स्वत्यै॒ स्वाहा॑ ।   
-पू॒ष्णे स्वाहा॑ ।     
-बृह॒स्पत॑ये॒ स्वाहा॑ ।     
+अग्न᳓ये स्वा᳓हा ।    
+सो᳓माय स्वा᳓हा ।    
+सवित्रे᳓ स्वा᳓हा ।    
+स᳓रस्वत्यै स्वा᳓हा ।   
+पूष्णे᳓ स्वा᳓हा ।     
+बृ᳓हस्प᳓तये स्वा᳓हा ।     
 </details>
 
 <details><summary>Keith</summary>
@@ -241,12 +243,12 @@ To Pusan hail! To Brhaspati hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य॒ स्वाहा॑ ।    
-घोषा॑य॒ स्वाहा॑ ।  
-श्लोका॑य॒ स्वाहा॑ ।  
-अंँशा॑य॒ स्वाहा॑ ।   
-भगा॑य॒ स्वाहा॑ ।  
-क्षेत्र॑स्य॒ पत॑ये॒ स्वाहा॑ ।
+इ᳓न्द्राय स्वा᳓हा ।    
+घो᳓षाय स्वा᳓हा ।  
+श्लो᳓काय स्वा᳓हा ।  
+अंँ᳓शाय स्वा᳓हा ।   
+भ᳓गाय स्वा᳓हा ।  
+क्षे᳓त्रस्य प᳓तये स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -277,12 +279,12 @@ To verse hail! To Anśa hail! To Bhaga hail! To the lord of the field hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒थि॒व्यै स्वाहा॑ ।  
-अ॒न्तरि॑क्षाय॒ स्वाहा॑ ।  
-दि॒वे स्वाहा॑ ।   
-सूर्या॑य॒ स्वाहा॑ ।    
-च॒न्द्रम॑से॒ स्वाहा॑ ।   
-नक्ष॑त्रेभ्य॒स् स्वाहा॑ ।   
+पृथिव्यै᳓ स्वा᳓हा ।  
+अन्त᳓रिक्षाय स्वा᳓हा ।  
+दिवे᳓ स्वा᳓हा ।   
+सू᳓र्याय स्वा᳓हा ।    
+चन्द्र᳓मसे स्वा᳓हा ।   
+न᳓क्षत्रेभ्यस् स्वा᳓हा ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -307,12 +309,12 @@ To earth hail! To atmosphere hail! To sky hail! To the sun hail! To the moon hai
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒द्भ्यस् स्वाहा॑ ।  
-ओष॑धीभ्य॒स् स्वाहा॑ ।   
-वन॒स्-पति॑भ्य॒स् स्वाहा॑ ।   
-च॒रा॒च॒रेभ्य॒स् स्वाहा॑ ।   
-प॒रि॒प्ल॒वेभ्य॒स् स्वाहा॑ ।  
-स॒री॒-सृ॒पेभ्य॒स् स्वाहा॑ ॥ [26]  
+अद्भ्य᳓स् स्वा᳓हा ।  
+ओ᳓षधीभ्यस् स्वा᳓हा ।   
+व᳓नस्-प᳓तिभ्यस् स्वा᳓हा ।   
+चराचरे᳓भ्यस् स्वा᳓हा ।   
+परिप्लवे᳓भ्यस् स्वा᳓हा ।  
+सरी-सृपे᳓भ्यस् स्वा᳓हा ॥ [26]  
 </details>
 
 <details><summary>Keith</summary>

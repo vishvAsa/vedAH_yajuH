@@ -1,6 +1,5 @@
 +++
 title = "१५ रथेन दिग्विजयार्थं मन्त्राः"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -14,14 +13,15 @@ title = "१५ रथेन दिग्विजयार्थं मन्�
 
 1रथमुपावहरति - इन्द्रस्येति ॥ व्याख्यातम् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si.md">
 <details open><summary><h5>इन्द्र॑स्य॒ वज्रो॑ऽसि॒ ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
 <details open><summary><h10>इन्द्र॑स्य॒ वज्रो॑ऽसि॒ ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य॒ वज्रो॑ऽसि॒,  
-वार्त्र॑घ्नः ।
+इ᳓न्द्रस्य व᳓ज्रोऽसि,  
+वा᳓र्त्रघ्नः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -47,9 +47,10 @@ ______________
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वया॒ ऽयव्ँ वृ॒त्रव्ँ व॑ध्यात्  ॥
+त्व᳓या ऽयव्ँ᳓ वृत्रव्ँ᳓ वध्यात्  ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -72,6 +73,7 @@ ______________
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2प्रष्टिवाहिनं रथं युनक्ति - मित्रावरुणयोरिति ॥ 
@@ -79,9 +81,9 @@ ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रा-वरु॑णयोस् त्वा  
-प्रशा॒स्त्रोᳶ प्र॒शिषा॑ **युनज्मि**  
-य॒ज्ञस्य॒ योगे॑न ।
+मित्रा᳓-व᳓रुणयोस् त्वा  
+प्रशास्त्रोᳶ᳓ प्रशि᳓षा **युनज्मि**  
+यज्ञ᳓स्य यो᳓गेन ।
 </details>
 
 <details><summary>Keith</summary>
@@ -103,7 +105,8 @@ By the precept of Mitra and Varuna, the directors, I yoke thee with the yoking o
 
 3-5रथमभिप्रैति - विष्णोरित्यादि ॥ व्याख्यातम् ॥  
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md">
 <details open><summary><h5>विष्णोः क्रमः ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -112,7 +115,7 @@ By the precept of Mitra and Varuna, the directors, I yoke thee with the yoking o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒ᳵ क्रमो॑ऽसि ।
+वि᳓ष्णोᳵ क्र᳓मोऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -132,7 +135,7 @@ Thou art the stepping of Visnu,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णोः॑ क्रा॒न्तम॑सि ।
+वि᳓ष्णोः क्रान्त᳓मसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -152,7 +155,7 @@ thou art the step of Visnu,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒र्विक्रा॑न्तमसि ।
+वि᳓ष्णोर्वि᳓क्रान्तमसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -171,6 +174,7 @@ thou art the stride of Visnu.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6रथमातिष्ठति - मरुतामीति ॥ 
@@ -178,7 +182,7 @@ thou art the stride of Visnu.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒रुता॑म् प्रस॒वे **जे॑षम्**।
+मरु᳓ताम् प्रसवे᳓ **जेषम्**।
 </details>
 
 <details><summary>Keith</summary>
@@ -203,7 +207,7 @@ On the instigation of the Maruts may I conquer.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**आ॒प्तम्** मनः॑, **सम॒हम्** इ॑न्द्रि॒येण॑ वी॒र्ये॑ण ।
+**आप्त᳓म्** म᳓नः, **समह᳓म्** इन्द्रिये᳓ण वीर्ये᳙ण ।
 </details>
 
 <details><summary>Keith</summary>
@@ -232,8 +236,8 @@ May I be united with power and strength.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पशू॒नाम् म॒न्युर् **अ॑सि॒**  
-तवे॑व मे म॒न्युर् **भू॑यात्** ।
+प᳓शूना᳓म् मन्यु᳓र् **असि**  
+त᳓वेव मे मन्यु᳓र् **भूयात्** ।
 </details>
 
 <details><summary>Keith</summary>
@@ -258,7 +262,7 @@ Thou art the spirit of cattle; like them may my spirit be.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ मा॒त्रे पृ॑थि॒व्यै ।  
+न᳓मो मात्रे᳓ पृथिव्यै᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -283,8 +287,8 @@ Homage to mother earth;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**मा** ऽहम् मा॒तर॑म् पृथि॒वीँ **हिँ॑सिषम्**  ।  
-**मा** माम् मा॒ता पृ॑थि॒वी **हिँ॑सीत्** ।   
+**मा᳓** ऽह᳓म् मात᳓रम् पृथिवीँ᳓ **हिँसिषम्**  ।  
+**मा᳓** मा᳓म् माता᳓ पृथिवी᳓ **हिँसीत्** ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -310,7 +314,7 @@ may I not harm mother earth [1]; may mother earth harm me not.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इय॑द् अ॒स्य्, आयु॑र् अ॒स्य्, आयु॑र् मे धे॒हि ।
+इ᳓यद् अस्य्, आ᳓युर् अस्य्, आ᳓युर् मे धेहि᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -335,8 +339,8 @@ So great art thou, thou art life, bestow life upon me;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊर्ग् अ॑सि ।  
-ऊर्ज॑म् मे धेहि ।
+ऊ᳓र्ग् असि ।  
+ऊ᳓र्जम् मे धेहि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -362,9 +366,9 @@ thou art strength, bestow strength upon me;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-युङ्ङ् अ॑सि॑।  
-वर्चो॑ ऽसि ।  
-वर्चो॒ मयि॑ धेहि ।  
+यु᳓ङ्ङ् असि।  
+व᳓र्चो ऽसि ।  
+व᳓र्चो म᳓यि धेहि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -388,11 +392,12 @@ thou art the yoker; thou art radiance, bestow radiance upon me.
 
 14-17रथविमोचनीयं जुहोति - अग्नय इत्याद्याः ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/15_rathena_digvijayArthaM_mantrAH/agnaye_gRhapataye_svAhA.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/15_rathena_digvijayArthaM_mantrAH/agnaye_gRhapataye_svAhA.md">
 <details open><summary><h5>अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा॑ ।    ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा॑ ।   
+अग्न᳓ये गृह᳓-पतये स्वा᳓हा ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -411,11 +416,12 @@ To Agni, lord of the house, hail!
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमा॑य॒ वन॒स्-पत॑ये॒ स्वाहा॑ ।   
-इन्द्र॑स्य॒ बला॑य॒ स्वाहा॑ ।  
-म॒रुता॒म् ओज॑से॒ स्वाहा॑।   
+सो᳓माय व᳓नस्-प᳓तये स्वा᳓हा ।   
+इ᳓न्द्रस्य ब᳓लाय स्वा᳓हा ।  
+मरु᳓ताम् ओ᳓जसे स्वा᳓हा।   
 </details>
 
 <details><summary>Keith</summary>
@@ -439,7 +445,8 @@ To Soma, lord of the forest, hail! To Indra's strength hail! To the Maruts' forc
 
 18रथवाहने रथमादधाति - हंस इत्यतिजगत्या ॥ 'अतिच्छन्दसा दधाति' इत्यादि ब्राह्मणम् । 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
 <details open><summary><h5>01 हंसश् शुचिषद् ...{Loading}...</h5></summary>
 
 +++(अहं)+++ हँ॒सश् शु॑चि॒-षद्, वसु॑र् अन्तरिक्ष॒-सद्,  
@@ -448,7 +455,8 @@ To Soma, lord of the forest, hail! To Indra's strength hail! To the Maruts' forc
 अ॒ब्-जा, गो॒-जा, ऋ॑त॒-जा, अ॑द्रि॒-जा, ऋ॒तं बृ॒हत् ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
 <details open><summary><h5>01 हंसश् शुचिषद् ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
