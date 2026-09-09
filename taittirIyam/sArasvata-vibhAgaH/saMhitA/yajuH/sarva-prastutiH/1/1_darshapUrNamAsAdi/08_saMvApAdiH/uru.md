@@ -42,3 +42,7 @@ Be extended wide, let the lord of the sacrifice be extended wide.
 9प्रथयति - उर्विति ॥ उरु यथा भवति तथा प्रथस्व । यज्ञपतिः यजमानः अनेन तवोरुप्रथनेन उरु प्रथतां पश्वादिभिः । 'पत्यावैश्वर्ये' (पा.सू. 6.2.18) इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+प्रथस्व प्रसर। 
+</details>
