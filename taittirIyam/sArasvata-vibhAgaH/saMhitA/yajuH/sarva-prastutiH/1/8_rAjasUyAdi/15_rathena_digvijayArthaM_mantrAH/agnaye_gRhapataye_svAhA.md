@@ -17,6 +17,11 @@ To Agni, lord of the house, hail!
 अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा॑ ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3K । अ॒ग्नये॑ । गृ॒हप॑तय॒ इति॑ गृ॒ह-प॒त॒ये॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अग्नये गृहाणां निवासाधाराणां पात्रे । 

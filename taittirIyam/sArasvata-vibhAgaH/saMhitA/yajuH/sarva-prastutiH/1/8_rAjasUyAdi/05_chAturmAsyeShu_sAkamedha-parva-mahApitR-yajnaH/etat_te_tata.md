@@ -20,6 +20,11 @@ This for thee, O grandfather, great-grandfather, and for thy line
 ए॒तत्ते॑ तत॒ ये च॒ त्वामन्वे॒तत्ते॑ पितामह प्रपितामह॒ ये च॒ त्वामनु॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+2B । ए॒तत् । ते॒ । त॒त॒ । ये । च॒ । त्वाम् । अन्विति॑ । ए॒तत् । ते॒ । पि॒ता॒म॒ह॒ । प्र॒पि॒ता॒म॒हेति॑ प्र-पि॒ता॒म॒ह॒ । ये । च॒ । त्वाम् । अन्विति॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एनदन्नं ते तव भवतु हे तत तात ।  
@@ -48,6 +53,11 @@ Rejoice therein, O fathers, according to your shares.
 <details><summary>मूलम्</summary>
 
 अत्र॑ पितरो यथाभा॒गम्म॑न्दध्वम्  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अत्र॑ । पि॒त॒रः॒ । य॒था॒भा॒गमिति॑ यथा-भा॒गम् । म॒न्द॒ध्व॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

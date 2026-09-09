@@ -2,6 +2,7 @@
 title = "राष्ट्रदाः अमुष्मै"
 +++
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h5>आपो देवीर् मधुमतीः ...{Loading}...</h5></summary>
 
@@ -11,6 +12,7 @@ title = "राष्ट्रदाः अमुष्मै"
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h5>आपो देवीर् मधुमतीः ...{Loading}...</h5></summary>
@@ -45,6 +47,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
