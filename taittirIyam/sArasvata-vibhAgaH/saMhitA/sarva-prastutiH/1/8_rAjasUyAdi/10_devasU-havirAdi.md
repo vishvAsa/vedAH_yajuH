@@ -522,7 +522,7 @@ Thou art the stepping of Visnu,
 
 <details><summary>पद-पाठः</summary>
 
-6G । विष्णोः॑ । क्रमः॑ । अ॒सि॒ ।
+4G । विष्णोः॑ । क्रमः॑ । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -572,7 +572,7 @@ thou art the stride of Visnu.
 
 <details><summary>पद-पाठः</summary>
 
-विष्णोः॑ । विक्रा॑न्त॒मिति॒ वि-क्रा॒न्त॒म् । अ॒सि॒ ॥
+विष्णोः॑ । विक्रा॑न्त॒मिति॒ वि-क्रा॒न्त॒म् । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

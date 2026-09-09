@@ -572,7 +572,7 @@ Thou art the bolt of Indra [2] slaying foes;
 
 <details><summary>पद-पाठः</summary>
 
-5I । इन्द्र॑स्य । 1 । वज्रः॑ । अ॒सि॒ । वार्त्र॑घ्न॒ इति॒ वार्त्र॑-घ्नः॒ ।
+2B । इन्द्र॑स्य । वज्रः॑ । अ॒सि॒ । वार्त्र॑घ्न॒ इति॒ वार्त्र॑-घ्नः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
