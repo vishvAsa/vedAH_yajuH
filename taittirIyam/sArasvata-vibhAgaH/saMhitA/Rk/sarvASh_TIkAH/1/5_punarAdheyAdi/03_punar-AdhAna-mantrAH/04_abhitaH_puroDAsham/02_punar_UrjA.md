@@ -1,8 +1,6 @@
 +++
 title = "02 पुनर् ऊर्जा"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -15,6 +13,11 @@ Again guard us on all sides.
 
 पुन॑रू॒र्जा नि व॑र्तस्व॒ पुन॑रग्न इ॒षाऽऽयु॑षा ।  
 पुन॑र्नᳶ पाहि वि॒श्वतः॑  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2I । पुनः॑ । ऊ॒र्जा । नीति॑ । व॒र्त॒स्व॒ । पुनः॑ । अ॒ग्ने॒ । इ॒षा । आयु॑षा ॥ पुनः॑ । नः॒ । पा॒हि॒ । वि॒श्वतः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

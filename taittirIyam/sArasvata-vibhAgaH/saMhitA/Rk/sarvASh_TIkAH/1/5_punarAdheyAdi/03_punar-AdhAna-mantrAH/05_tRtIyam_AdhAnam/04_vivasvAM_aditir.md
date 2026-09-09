@@ -1,8 +1,6 @@
 +++
 title = "04 विवस्वां अदितिर्"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -12,6 +10,11 @@ Vivasvan, Aditi, Devajuti, may these Adityas rejoicing partake of our oblation.
 <details><summary>मूलम्</summary>
 
 विव॑स्वाँ॒ अदि॑ति॒र्देव॑जूति॒स्ते न॑ आदि॒त्या आज्य॑ञ्जुषा॒णा वि॑यन्तु ॥ [12]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विव॑स्वान् । अदि॑तिः । देव॑जूति॒रिति॒ देव॑-जू॒तिः॒ । ते । नः॒ । आ॒दि॒त्याः । आज्य॑म् । जु॒षा॒णाः । वि॒य॒न्तु॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
