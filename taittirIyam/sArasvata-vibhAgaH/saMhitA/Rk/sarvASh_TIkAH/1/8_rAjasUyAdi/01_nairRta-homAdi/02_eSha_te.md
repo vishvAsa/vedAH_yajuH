@@ -1,8 +1,6 @@
 +++
 title = "02 एष ते"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -14,6 +12,11 @@ Free him from evil. Hail!
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॑ निर्ऋते भा॒गो भूते॑ ह॒विष्म॑त्यसि मु॒ञ्चेममँह॑सः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+4 । ए॒षः । ते॒ । नि॒र्॒ऋ॒त॒ इति॑ निः-ऋ॒ते॒ । भा॒गः । भूते॑ । ह॒विष्म॑ती । अ॒सि॒ । मु॒ञ्च । इ॒मम् । अँह॑सः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
