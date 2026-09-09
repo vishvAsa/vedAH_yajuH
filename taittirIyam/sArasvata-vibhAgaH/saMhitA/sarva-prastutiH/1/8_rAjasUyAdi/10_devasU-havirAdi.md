@@ -30,6 +30,11 @@ To Agni, lord of the house, he offers a cake of black rice on eight potsherds;
 अ॒ग्नये॑ गृ॒हप॑तये पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पति  कृ॒ष्णानाव्ँ॑ व्रीही॒णाँ …
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+1A । अ॒ग्नये॑ । गृ॒हप॑तय॒ इति॑ गृ॒ह-प॒त॒ये॒ । पु॒रो॒डाश॑म् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । कृ॒ष्णाना॑म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 देवस्य यजमानस्यानुज्ञातारोग्न्यादयो देवसुवः । गृहाणां पतिस्स्वामी गृहपतिः । 'पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरत्वम् ।
@@ -54,6 +59,11 @@ to Soma, lord of the forest, an oblation of millet;
 श्यामा॒कञ्च॒रुम्  +++(निर्व॑पति)+++  ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+व्री॒ही॒णाम् । सोमा॑य । वन॒स्पत॑ये । श्या॒मा॒कम् । च॒रुम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वनानां पतिस्स्वामी वनस्पतिः । पारस्करादित्वात्सुट्, 'उभे वनस्पत्यादिषु' इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् । श्यामाकाः श्यामाकाख्याः ।
@@ -74,6 +84,11 @@ to Savitr, of true instigation, a cake of swift-growing rice on twelve potsherds
 <details><summary>मूलम्</summary>
 
 स॑वि॒त्रे स॒त्यप्र॑सवाय पुरो॒डाश॒न्द्वाद॑शकपालम्  आशू॒नाव्व्ँरी॑ही॒णाँ …
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒वि॒त्रे । स॒त्यप्र॑सवा॒येति॑ स॒त्य-प्र॒स॒वा॒य॒ । पु॒रो॒डाश॑म् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । आ॒शू॒नाम् । व्री॒ही॒णाम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -97,6 +112,11 @@ to Rudra, lord of cattle, an oblation of Gavidhuka;
 रु॒द्राय॑ पशु॒पत॑ये गावीधु॒कञ्च॒रुं      
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रु॒द्राय॑ । प॒शु॒पत॑य॒ इति॑ पशु-पत॑ये । गा॒वी॒धु॒कम् । च॒रुम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
  पशूनां पतिस्स्वमी पशुपतिः । 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । गावीधुकास्तृणतण्डुलाः ।
@@ -117,6 +137,11 @@ to Brhaspati, lord of speech, an oblation of wild rice;
 बृह॒स्पत॑ये वा॒चस्पत॑ये नैवा॒रञ् च॒रुम्        
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+बृह॒स्पत॑ये । वा॒चः । पत॑ये । नै॒वा॒रम् । च॒रुम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 बृहतां पतिः बृहस्पतिः । वनस्पतिवत्सुस्वटरौ । वाचस्पतये । 'सावेकाचः' इति षष्ठ्या उदात्तत्वम्, 'षष्ठ्याः पतिपुत्र' इति संहितायां सत्वम् । 'षष्ठीयुक्तच्छन्दसि वा' इति पत्युर्घित्वम् । नीवाराश्शुष्कजलाशयोत्थिताः ।
@@ -135,6 +160,11 @@ to Indra, the noblest, a cake of large rice on eleven potsherds;
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑य ज्ये॒ष्ठाय॑ पुरो॒डाश॒मेका॑दशकपालम्  म॒हाव्री॑हीणाम्       
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्रा॑य । ज्ये॒ष्ठाय॑ । पु॒रो॒डाश॑म् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । म॒हाव्री॑हीणा॒मिति॑ महा-व्री॒ही॒णा॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -159,6 +189,11 @@ to Mitra, the true, an oblation of Amba grain,
 मि॒त्राय॑ स॒त्याया॒ऽऽम्बाना॑ञ्च॒रुं       
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मि॒त्राय॑ । स॒त्याय॑ । आ॒म्बाना॑म् । च॒रुम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सत्यस्वरूपाय मित्राय ।
@@ -177,6 +212,11 @@ and to Varuna, lord of right, an oblation made of barley.
 <details><summary>मूलम्</summary>
 
 वरु॑णाय॒ धर्म॑पतये यव॒मय॑ञ्च॒रुम्॥   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वरु॑णाय । धर्म॑पतय॒ इति॒ धर्म॑-प॒त॒ये॒ । य॒व॒मय॒मिति॑ यव-मय॑म् । च॒रुम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -219,6 +259,11 @@ Varuna of lords of right.
 अ॒ग्निर्गृ॒हप॑तीनाँ॒ सोमो॒ वन॒स्पती॑नाँ रु॒द्रᳶ प॑शू॒नां [18]बृह॒स्पति॑र्वा॒चामिन्द्रो॑ ज्ये॒ष्ठाना॑म्मि॒त्रस्स॒त्यानाव्ँ॒वरु॑णो॒ धर्म॑पतीनाम्॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+2B । स॒वि॒ता । त्वा॒ । प्र॒स॒वाना॒मिति॑ प्र-स॒वाना॑म् । सु॒व॒ता॒म् । अ॒ग्निः । गृ॒हप॑तीना॒मिति॑ गृ॒ह-प॒ती॒ना॒म् । सोमः॑ । वन॒स्पती॑नाम् । रु॒द्रः । प॒शू॒नाम् । 1 । बृह॒स्पतिः॑ । वा॒चाम् । इन्द्रः॑ । ज्ये॒ष्ठाना॑म् । मि॒त्रः । स॒त्याना॑म् । वरु॑णः । धर्म॑पतीना॒मिति॒ धर्म॑-प॒ती॒ना॒म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अत्र प्रसवस्य प्राधान्यात् तृतीयस्सविता प्रथम असीत् । सर्वत्र तादर्थ्ये चतुर्थ्याष्षष्ठी । प्रसवानां प्रसवार्थं सर्वासु प्रवृत्तिष्वनुज्ञानार्थं सविता त्वां सुवतां प्रेरयतु । षू प्रेरणे, प्रेरणमनुज्ञैव । सर्वत्रानुज्ञातो भवेत्यर्यः । थाथादिना प्रसवशब्दोन्तोदात्तः ।
@@ -245,10 +290,16 @@ do ye instigate him, descendant of N. N., to freedom from foes,
 मह॒त आधि॑पत्याय मह॒ते जान॑राज्यायै 
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+2C । ये । दे॒वाः॒ । दे॒व॒सुव॒ इति॑ देव-सुवः॑ । स्थ । ते । इ॒मम् । आ॒मु॒ष्या॒य॒णम् । अ॒न॒मि॒त्राय॑ । सु॒व॒ध्व॒म् । म॒ह॒ते । क्ष॒त्राय॑ । म॒ह॒ते । आधि॑पत्या॒येत्याधि॑-प॒त्या॒य॒ । म॒ह॒ते । जान॑राज्या॒येति॒ जान॑-रा॒ज्या॒य॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे देवा अग्न्यादयो वरुणान्ताः ये यूयं देवसुवस्स्थ देवस्य दानादिगुणयुक्तस्य यजमानस्य सवितारः प्रेरकास्स्थ ते यूयं यस्मादेवं प्रसवादीनामनुज्ञातारः तस्मादिममामुष्यायणं सिंहवर्मणः पुत्रं नन्दिवर्माणम् अनमित्रायानमित्रत्वाय अविद्यमानशत्रुत्वाय सुवध्वम् । अनुजानीत अशत्रुमेनं कुरुतेत्यर्थः । इममामुष्यायणमिति सर्वनामद्वयं विशेषार्थमुपादीयते । अमुष्यशब्दान्नडादित्वात्फक् ।
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/mahate_xatrAya.md">
 <details open><summary><h5>म॒ह॒ते क्ष॒त्त्राय॑ ...{Loading}...</h5></summary>
@@ -270,6 +321,11 @@ to great lordship, to great overlordship, to great rule over the people.
 म॒ह॒ते क्ष॒त्राय॑ मह॒त आधि॑पत्याय मह॒ते जान॑राज्याय॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+म॒ह॒ते । क्ष॒त्राय॑ । म॒ह॒ते । आधि॑पत्या॒येत्याधि॑-प॒त्या॒य॒ । म॒ह॒ते । जान॑राज्या॒येति॒ जान॑-रा॒ज्या॒य॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 किञ्च - महते च क्षत्राय बलाय महते चाधिपत्याय स्वामित्वाय महते अविच्छिन्नाय च **जानराज्याय** जनानां राजा जनराजः तद्भावाय । उभयत्रापि गुणवचनत्वात् ष्यञ् । इममायुष्यायणं सुवध्वमित्येव । 'बृहन्महतोरुपसङ्ख्यानम्' इति महतो विभक्तेरुदात्तत्वम् ॥
@@ -281,6 +337,7 @@ to great lordship, to great overlordship, to great rule over the people.
 
 3यजमानायतने तिष्ठन् रत्निभ्यो जानपदेभ्यो ऽध्वर्युर् आवेदयते - एष व इति ॥ 
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/eSha_vo_bharatA_rAjA.md">
 <details open><summary><h5>ए॒ष वो॑ भरता॒ राजा॑ ...{Loading}...</h5></summary>
@@ -297,6 +354,11 @@ This is your king, O Bharatas;
 <details><summary>मूलम्</summary>
 
 ए॒ष वो॑ भरता॒ राजा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+3D । ए॒षः । वः॒ । भ॒र॒ताः॒ । राजा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -324,6 +386,11 @@ Soma is the king of us Brahmans.
 सोमो॒ऽस्माक॑म्ब्राह्म॒णानाँ॒ राजा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सोमः॑ । अ॒स्माक॑म् । ब्रा॒ह्म॒णाना॑म् । राजा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अस्माकं ब्राह्मणानां सोमो राजा, अधुना अयञ्चेति । सर्वदा सराजका एव वयमित्यभिप्रायः ॥
@@ -341,6 +408,7 @@ Soma is the king of us Brahmans.
 प्रति॒ त्यन्नाम॑ रा॒ज्यम॑धायि॒ स्वान्त॒नुवव्ँ॒वरु॑णो अशिश्रे॒च्छुचे॑र्मि॒त्रस्य॒ व्रत्या॑ अभू॒माम॑न्महि मह॒त ऋ॒तस्य॒ नाम॒ सर्वे॒ व्राता॒ वरु॑णस्याभूव॒न्वि मि॒त्र एवै॒ररा॑तिमतारी॒दसू॑षुदन्त य॒ज्ञिया॑ ऋ॒तेन॒ व्यु॑ त्रि॒तो ज॑रि॒माण॑न्न आनड् 
 </details>
 
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -350,6 +418,7 @@ Soma is the king of us Brahmans.
 +**अ᳓मन्महि** महत᳓ ऋत᳓स्य ना᳓म ॥
 </details>
 </div>
+
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -367,6 +436,11 @@ We have magnified the name of the great holy order.
 शुचे॑र्मि॒त्रस्य॒ व्रत्या॑ अभू॒माम॑न्महि मह॒त ऋ॒तस्य॒ नाम॑ ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+4E । प्रतीति॑ । त्यत् । नाम॑ । रा॒ज्यम् । अ॒धा॒यि॒ । स्वम् । त॒नुव॑म् । वरु॑णः । अ॒शि॒श्रे॒त् । शुचेः॑ । मि॒त्रस्य॑ । व्रत्याः॑ । अ॒भू॒म॒ । अम॑न्महि । म॒ह॒तः । ऋ॒तस्य॑ । नाम॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 त्यत् एतद्राज्यं नाम नमनीयं प्रत्यधायि मयि प्रतिहितं प्रतिष्ठितमभूत् । यद्वा - छान्दसो लुङ् । प्रतिधीयताम् । 'राज्यमेवास्मिन् प्रतीदधाति' इति ब्राह्मणम् । हेतुमाह - स्वामात्मीयां तनुवं शरीरं अनुज्ञातृस्वभावत्वं यस्माद्वरुणोशिश्रेत् आश्रितवानसीत् मम धर्मपतित्वाभ्यनुज्ञानं कृतवान् । तेन राज्यं प्रत्यधायीति । 'वरुणसवमेवावरुन्धे' इत्यादि ब्राह्मणम् । उदाहरणमात्रं वरुणग्रहणं सवित्रादीनां सर्वेषामपि देवसुवां यथा प्रसूतं राज्यं प्रत्यधायीति वेदितव्यम् । श्रयतेर्लुङि 'बहुलं छन्दसि' इति शपश्श्लुः ।   
@@ -374,6 +448,7 @@ We have magnified the name of the great holy order.
 </details>
 </details>
 </div>
+
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
@@ -384,6 +459,7 @@ We have magnified the name of the great holy order.
 **व्य्** उ᳙ त्रितो᳓ +++(ऽग्निः)+++ जरिमा᳓णन् न᳓+++(ः)+++ **आ᳓नट्** +++(=प्रापयतु)+++॥
 </details>
 </div>
+
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -401,6 +477,11 @@ Trita hath taken possession of our old age.
 असू॑षुदन्त य॒ज्ञिया॑ ऋ॒तेन॒ व्यु॑ त्रि॒तो ज॑रि॒माण॑न्न आन॑ट् ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+5F । सर्वे॑ । व्राताः॑ । वरु॑णस्य । अ॒भू॒व॒न् । वीति॑ । मि॒त्रः । एवैः॑ । अरा॑तिम् । अ॒ता॒री॒त् । असू॑षुदन्त । य॒ज्ञियाः॑ । ऋ॒तेन॑ । वीति॑ । उ॒ । त्रि॒तः । ज॒रि॒माण॑म् । नः॒ । आ॒न॒ट् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6अथ द्वितीया । किम्बहुना **सर्वे** ऋत्विजः **वरुणस्य व्राताः** कर्मयोग्या अभूवन् । छान्दसोऽङ् ।  
@@ -415,6 +496,7 @@ Trita hath taken possession of our old age.
 
 7-9त्रीन्विष्णुक्रमान् प्राचः क्रामति - विष्णोः क्रमोसीति ॥ व्याख्यातम् ॥
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md">
 <details open><summary><h5>विष्णोः क्रमः ...{Loading}...</h5></summary>
@@ -438,6 +520,11 @@ Thou art the stepping of Visnu,
 विष्णो॒ᳵ क्रमो॑ऽसि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+6G । विष्णोः॑ । क्रमः॑ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 विष्णोर्भगवत एव क्रमोसि गमनसाधनत्वात् । प्रकृष्टस्य विष्णोः क्रमरूपेण स्तूयते रथः विष्णोः क्रमवत् भविष्यसि जयहेतुरिति ।
@@ -458,6 +545,11 @@ thou art the step of Visnu,
 विष्णोः॑ क्रा॒न्तम॑सि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । क्रा॒न्तम् । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 विष्णोः क्रान्तमसि यत्पूर्वं विष्णुना कृतं क्रमणं, तदेव त्वमसि तद्वज्जयसाधनं भविष्यसि अस्माकम् ।
@@ -476,6 +568,11 @@ thou art the stride of Visnu.
 <details><summary>मूलम्</summary>
 
 विष्णो॒र्विक्रा॑न्तमसि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । विक्रा॑न्त॒मिति॒ वि-क्रा॒न्त॒म् । अ॒सि॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

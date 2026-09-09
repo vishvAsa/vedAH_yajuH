@@ -30,6 +30,11 @@ title = "०७ चातुर्मास्येषु शुनासीर
 ऐ॒न्द्रा॒ग्नन्द्वाद॑शकपालव्ँ वैश्वदे॒वञ्च॒रुम् …  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+1A । ऐ॒न्द्रा॒ग्नमित्यै॑न्द्र-अ॒ग्नम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । वै॒श्व॒दे॒वमिति॑ वैश्व-दे॒वम् । च॒रुम् ।
+</details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऐ॒न्द्रा॒ग्नन्द्वाद॑शकपालव्ँ वैश्वदे॒वञ्च॒रुमिन्द्रा॑य॒ शुना॒सीरा॑य पुरो॒डाश॒न्द्वाद॑शकपालव्ँवाय॒व्य॑म्पय॑स्सौ॒र्यमेक॑कपालन्द्वादशग॒वँ सीर॒न्दक्षि॑णाऽऽग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति रौ॒द्रङ्गा॑वीधु॒कञ्च॒रुमै॒न्द्रन्दधि॑ वारु॒णय्ँय॑व॒मय॑ञ्च॒रुव्ँव॒हिनी॑ धे॒नुर्दक्षि॑णा
@@ -55,6 +60,11 @@ a cake on twelve potsherds to Indra Śunasira,
 इन्द्रा॑य शुना॒सीरा॑य पुरो॒डाश॒न्द्वाद॑शकपालम्  +++(निर्वपति)+++ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इन्द्रा॑य । शुना॒सीरा॑य । पु॒रो॒डाश॑म् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 शुनो वायुः, सीर आदित्यः, ' तद्वानिन्द्र इहोच्यते, अभेदात्मत्वात् । मत्वर्थीयो वा लुप्यते । 'देवताद्वन्द्वे च' इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ।
@@ -76,6 +86,11 @@ the sacrificial fee is a plough for twelve oxen.
 
 वा॒य॒व्य॑म्पय॑स्सौ॒र्यमेक॑कपालम्   +++(निर्वपति)+++   
 द्वादशग॒वँ सीर॒न्दक्षि॑णा।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒य॒व्य॑म् । पयः॑ । सौ॒र्यम् । एक॑कपाल॒मित्येक॑-क॒पा॒ल॒म् । द्वा॒द॒श॒ग॒वमिति॑ द्वादश-ग॒वम् । सीर॑म् । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -105,6 +120,11 @@ To Agni he offers on eight potsherds,
 आ॒ग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति  ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+2B । आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रौद्र᳓ङ् गावीधुक᳓ञ्+++(=तृण-तण्डुलं)+++ चरु᳓म्  +++(निर्वपति)+++   ।  
@@ -118,6 +138,11 @@ to Rudra an oblation of Gavidhuka,
 <details><summary>मूलम्</summary>
 
 रौ॒द्रङ्गा॑वीधु॒कञ्च॒रुम्  +++(निर्वपति)+++   ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रौ॒द्रम् । गा॒वी॒धु॒कम् । च॒रुम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -138,6 +163,11 @@ to Indra curds,
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रन्दधि॑  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऐ॒न्द्रम् । दधि॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -163,6 +193,11 @@ the sacrificial fee is a cow for draught purposes.
 व॒हिनी॑ धे॒नुर्दक्षि॑णा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वा॒रु॒णम् । य॒व॒मय॒मिति॑ यव-मय॑म् । च॒रुम् । व॒हिनी॑ । धे॒नुः । दक्षि॑णा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वारुणो यवमयश्चरुश्चतुर्थः । 'द्व्यचश्छन्दसि' इति मयट् । तत्र वहिनी धेनुर्दक्षिणा । गतम् ।    
@@ -179,6 +214,7 @@ the sacrificial fee is a cow for draught purposes.
 आज्येनैतान् व्याघारयतीति केचित् - ये देवाः पुरस्सद इत्यादिभिः ॥
 तत्र ये देवा इति पदद्वयं रक्षोहण इत्यादि च पूर्वत्र परत्र च पञ्चस्वप्य् अनुषज्यते ।
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/ye_devAH_purassadaH.md">
 <details open><summary><h5>ये दे॒वाᳶ पु॑र॒स्-सदो॒ ...{Loading}...</h5></summary>
@@ -199,6 +235,11 @@ The gods that sit in the east, led by Agni;
 <details><summary>मूलम्</summary>
 
 ये दे॒वाᳶ पु॑र॒स्सदो॒ऽग्निने॑त्राः [रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा॑ ]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+3C । ये । दे॒वाः । पु॒र॒स्सद॒ इति॑ पुरः-सदः॑ । अ॒ग्निने॑त्रा॒ इत्य॒ग्नि-ने॒त्राः॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -232,6 +273,11 @@ that sit in the south, led by Yama;
 [ये दे॒वाः] द॑क्षिण॒सदो॑ य॒मने॑त्राः [रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा॑ ]
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+द॒क्षि॒ण॒सद॒ इति॑ दक्षिण-सदः॑ । य॒मने॑त्रा॒ इति॑ य॒म-ने॒त्राः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं ये देवाः दक्षिणसदः यमनेत्रा रक्षोहणः ते नः पान्तु ते नोवन्त्वित्यादि ।
@@ -254,6 +300,11 @@ that sit in the west, led by Savitr;
 <details><summary>मूलम्</summary>
 
 [ये दे॒वाः] प॑श्चा॒त्सद॑स्सवि॒तृने॑त्राः [रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॒ नम॒स्तेभ्य॒स्स्वाहा॑]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒श्चा॒त्सद॒ इति॑ पश्चात्-सदः॑ । स॒वि॒तृने॑त्रा॒ इति॑ सवि॒तृ-ने॒त्राः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -280,6 +331,11 @@ that sit in the north, led by Varuna;
 [ये दे॒वाः] उ॑त्तर॒सदो॒ वरु॑णनेत्राः [रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा॑ ]
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒त्त॒र॒सद॒ इत्यु॑त्तर-सदः॑ । वरु॑णनेत्रा॒ इति॒ वरु॑ण-ने॒त्राः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ये देवा उत्तरसदो वरुणनेत्राः रक्षोहण इत्यादि ।
@@ -302,6 +358,11 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 <details><summary>मूलम्</summary>
 
 [ये दे॒वाः] उ॑परि॒षदो॒ बृह॒स्पति॑नेत्राः रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॒ नम॒स्तेभ्य॒स्स्वाहा॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒रि॒षद॒ इत्यु॑परि-सदः॑ । बृह॒स्पति॑नेत्रा॒ इति॒ बृह॒स्पति॑-ने॒त्राः॒ । र॒क्षो॒हण॒ इति॑ रक्षः-हनः॑ । ते । नः॒ । पा॒न्तु॒ । ते । नः॒ । अ॒व॒न्तु॒ । तेभ्यः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -336,6 +397,11 @@ The Raksases are collected, the Raksases are burnt up;
 सन्द॑ग्धँ॒ रक्षः॑ ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+2D । समू॑ढ॒मिति॒ सम्-ऊ॒ढ॒म् । रक्षः॑ । सन्द॑ग्ध॒मिति॒ सम्-द॒ग्ध॒म् । रक्षः॑ ।
+</details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 समू॑ढँ॒ रक्ष॒स्सन्द॑ग्धँ॒ रक्ष॑ इ॒दम॒हँ रक्षो॒ऽभि सन्द॑हामि
@@ -361,6 +427,11 @@ here do I burn up the Raksases.
 इ॒दम॒हँ रक्षो॒ऽभि सन्द॑हामि ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इ॒दम् । अ॒हम् । रक्षः॑ । अ॒भि । समिति॑ । द॒हा॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मादहं रक्षः इदमहमाभिसन्दहामि आभिमुख्येन चैकीकृत्य चानेन दहामि । इदमिति क्रियाविशेषणम् ॥
@@ -370,6 +441,7 @@ here do I burn up the Raksases.
 
 9-13अपरं पञ्चगृहीतं गृहीत्वा पञ्च स्रुवाहुतीरभिजुहोति - अग्नये रक्षोघ्ने स्वाहेति ॥ यमादिष्वपि चतुर्ष्वनुषज्यते । 
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/agnaye_raxoghne_5.md">
 <details open><summary><h5>अ॒ग्नये॑ रक्षो॒घ्ने 5 ...{Loading}...</h5></summary>
@@ -388,6 +460,11 @@ To Agni, slayer of Raksases, hail!  To Yama,
 
 अ॒ग्नये॑ रक्षो॒घ्ने स्वाहा॑   ।  
 य॒माय॑  [रक्षो॒घ्ने स्वाहा॑] ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+3E । अ॒ग्नये॑ । र॒क्षो॒घ्न इति॑ रक्षः-घ्ने । स्वाहा॑ । य॒माय॑ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -413,6 +490,11 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 स॒वि॒त्रे   [रक्षो॒घ्ने स्वाहा॑] ।  
 वरु॑णाय  [रक्षो॒घ्ने स्वाहा॑] ।   
 बृह॒स्पत॑ये॒  दुव॑स्वते +++(=परिचर्यावते)+++ रक्षो॒घ्ने स्वाहा॑  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒वि॒त्रे । वरु॑णाय । बृह॒स्पत॑ये । दुव॑स्वते । र॒क्षो॒घ्न इति॑ रक्षः-घ्ने । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -441,6 +523,11 @@ The sacrificial fee is a chariot with three horses.
 प्र॒ष्टि॒वा॒ही रथो॒ दक्षि॑णा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+4F । प्र॒ष्टि॒वा॒हीति॑ प्रष्टि-वा॒ही । रथः॑ । दक्षि॑णा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अत्र प्रष्टिवाही रथो दक्षिणा ।  
@@ -462,6 +549,7 @@ The sacrificial fee is a chariot with three horses.
 
 14अथ व्युष्टायां पुनर[पुरा]ग्निहोत्रात् अपामार्गसक्तून् जुहोति - देवस्येति ॥ 
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary><h5>देवस्य त्वा सवितुः ...{Loading}...</h5></summary>
@@ -521,6 +609,11 @@ I offer (for) the death of the Raksases;
 ‌… रक्ष॑सो व॒धञ्जु॑होमि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+‌… । रक्ष॑सः । व॒धम् । जु॒हो॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 व्याख्यातम् । रक्षसो वधं वधहेतूनिमान् जुहोमीति ॥
@@ -546,6 +639,11 @@ the Raksases are slain
 ह॒तँ रक्षः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ह॒तम् । रक्षः॑ ।
+</details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16उत्तिष्ठति - अवधिष्म रक्ष इति ॥ 
@@ -566,6 +664,11 @@ we have killed the Raksases.
 अव॑धिष्म॒ रक्षः॑ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अव॑धिष्म । रक्षः॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हतवन्तो वयं रक्षः, तत्किमिदानीमास्म इत्युत्तिष्ठति ॥
@@ -584,6 +687,11 @@ The sacrificial fee is what he wears.
 <details><summary>मूलम्</summary>
 
 यद्वस्ते॒ तद्दक्षि॑णा ॥ [13]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+6 । यत् । वस्ते॑ । तत् । दक्षि॑णा ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
