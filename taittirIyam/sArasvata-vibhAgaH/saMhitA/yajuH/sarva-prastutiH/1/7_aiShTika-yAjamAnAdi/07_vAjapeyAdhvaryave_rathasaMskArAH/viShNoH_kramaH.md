@@ -9,14 +9,13 @@ title = "विष्णोः क्रमः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒ᳵ क्रमो॑ऽसि ।
+वि᳓ष्णोᳵ क्र᳓मोऽसि ।
 </details>
 
 <details><summary>Keith</summary>
 
 Thou art the stepping of Visnu,
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -30,7 +29,7 @@ Thou art the stepping of Visnu,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णोः॑ क्रा॒न्तम॑सि ।
+वि᳓ष्णोः क्रान्त᳓मसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -50,7 +49,7 @@ thou art the step of Visnu,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒र्विक्रा॑न्तमसि ।
+वि᳓ष्णोर् वि᳓क्रान्तमसि ।
 </details>
 
 <details><summary>Keith</summary>
