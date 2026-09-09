@@ -4,9 +4,11 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 
 विश्वेदेवा ऋषयः
 
+## ०१ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-1अभिषेकार्थं षोडश सप्तदश वा वायव्यैर्गृह्णाति -  
+1अभिषेकार्थं षोडश सप्तदश वा वायव्यैर् गृह्णाति -  
 अर्थेतस्थेत्येतैर्मन्त्रैः ॥  
 एतास्व् अप्सु  
 प्रथमम् आज्येन हुत्वा  
@@ -16,7 +18,7 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 तस्मिन्न् एव जले  
 तेनैव मन्त्रेण ग्रहं गृह्णाति ।   
 
-तत्र 'आपो देवीः' इत्यादिका त्रिष्टुप् सर्वत्रानुषज्यते ।
+तत्र 'आपो देवीः' इत्यादिका त्रिष्टुप् सर्वत्रानुषज्यते +++(पूर्वं वक्ष्यमाण-रीत्या)+++।
   
 'राष्ट्रदास्स्थ राष्ट्रं दत्त स्वाहा' इत्यन्तेन होमः,  
  'राष्ट्रदास्स्थ राष्ट्रममुष्मै दत्त' इत्यन्तेन ग्रहणम् ।  
@@ -36,6 +38,7 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 पर्णमयेन स्रुवेणेति केचित् ।  
 एवमुत्तरत्रापि होमग्रहणे सर्वत्र समानमन्त्रे कर्तव्ये ।
 </details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -133,6 +136,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+### ग्रहः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [अर्थे᳓तस्स्थ  ।]
@@ -192,6 +197,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+## ०२ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2पुन्नदस्य शोणादेर्वा जलं - अपाम्पतिरसीति ॥ 
@@ -291,10 +298,12 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[अ᳓पा᳓म्प᳓तिरसि  ।]
+[अपा᳓म् प᳓तिरसि  ।]
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -350,6 +359,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+## ०३ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अथ नद्यां पुरुषे पशौ वा तिष्ठति प्रतीपमन्य ऊर्मिर् युद्ध्यति,  
@@ -451,10 +462,12 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [वृ᳓षास्य् ऊर्मिः᳓  ।]
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -510,6 +523,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+## ०४ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथानुस्रोता य ऊर्मिस्तज्जलं गृह्णाति - वृषसेनोसीति ॥ 
@@ -609,10 +624,12 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [वृ᳓षसेनो᳙ऽसि  ।]
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -668,6 +685,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+## ०५ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथ कूप्या गृह्णाति - व्रजक्षितस्स्थ इति ॥ 
@@ -767,10 +786,12 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [व्र᳓जक्षि᳓तस् स्थ।]
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -826,6 +847,14 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+## ०६ 
+### होमः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+6प्रतीपोदकमावर्तजलं गृह्णाति - मरुतामोजस्स्थेति ॥ 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मरु᳓ताम् ओ᳓जस् स्थ  ।      
@@ -843,7 +872,7 @@ ye are the strength of the Maruts,
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-6प्रतीपोदकमावर्तजलं गृह्णाति - मरुतामोजस्स्थेति ॥ मरुतां वायूनामोजः बलं स्थ ; तेन निर्वृत्तत्वात् ॥
+मरुतां वायूनामोजः बलं स्थ ; तेन निर्वृत्तत्वात् ॥
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
@@ -920,10 +949,12 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [मरु᳓ताम् ओ᳓जस् स्थ  ।]
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -979,6 +1010,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+## ०७ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7आदित्ये दृश्यमाने यदा वर्षति तज्जलं गृह्णाति - सुर्यवर्चसस्स्थेति ॥ 
@@ -1078,10 +1111,12 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [सू᳓र्यवर्चसस् स्थ  ।]
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -1137,6 +1172,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+## ०८ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8यत्र कुत्र चित्प्रसन्नं जलं गृह्णाति - सूर्यत्वचसस्स्थेति ॥ 
@@ -1236,10 +1273,12 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [सू᳓र्य-त्वचसस् स्थ ।]
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -1295,6 +1334,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+## ०९ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9स्थावराणां गृह्णाति, ह्रादीर् वा - मान्दास् स्थेति ॥ 
@@ -1394,10 +1435,12 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [मा᳓न्दाः स्थ  ।]
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -1453,6 +1496,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+## १० 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10अवश्यायोदकं गृह्णाति -  वाशास्थेति ॥ 
@@ -1552,10 +1597,12 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [वा᳓शाः स्थ  ।]
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -1611,6 +1658,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+## ११ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11गोरुल्ब्याः गोर् गर्भवेष्टनगता आपो गृह्णाति -  शक्वरीस्स्थेति ॥ 
@@ -1710,10 +1759,12 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [श᳓क्वरीस् स्थ  ।]
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -1769,6 +1820,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+## १२ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12पयो गृह्णाति - विश्वभृतस्स्थेति ॥ 
@@ -1868,10 +1921,12 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [विश्वभृ᳓तस् स्थ ।]
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -1927,6 +1982,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+## १३ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13दधि गृह्णाति - जनभृतस्स्थेति ॥ 
@@ -2026,10 +2083,12 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जनभृ᳓तस्स्थ ।
+[जनभृ᳓तस्स्थ ।]
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -2085,6 +2144,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+## १४ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14घृतं गृह्णाति - अग्नेस्तेजस्यास्स्थेति ॥ 
@@ -2184,10 +2245,12 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [अग्ने᳓स् तेजस्याः᳙ स्थ  ।]
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -2243,6 +2306,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </div>
 
+## १५ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15-16मधु गृह्णाति - अपामोषधीनां रसस्थेति ॥ 
@@ -2347,6 +2412,66 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [अपा᳓मो᳓षधीनाँ र᳓सस्स्थ  ।]
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+
+आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
+ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
+याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
+याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तादृशीर्व **आपः** व्यापनस्वभावाः **देवीः** दीप्तिमतीः **मधुमतीः** मधुरसवतीः **अगृह्णन्** देवाः, ऋत्वीजो वा । **ऊर्जस्वतीः** बलवतीः **राजसूयाय** राजसूयार्थं राजसूये अभिषेकार्थम् **अगृह्णन् चितानाः** चिन्तयन्तीः राजसूयाभिनिष्पत्त्य्-उपाय-चिन्ताव्यापृताः । यद्वा - **राजसूयाय चिताना** देवा **अगृह्णन्** ।  
+राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
+चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
+याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
+</details>
+</details>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
+</details>
+
+<details><summary>Keith</summary>
+
+Ye are givers of the kingdom; give N. N. the kingdom.
+</details>
+
+<details><summary>मूलम्</summary>
+
+रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
+</details>
+</details>
+</div>
+
+### ग्रहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[अपा᳓म् ओ᳓षधीनाँ र᳓सस्स्थ  ।]      
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
