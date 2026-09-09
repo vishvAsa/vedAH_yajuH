@@ -38,7 +38,7 @@ Thou art the glittering of Soma; as thine may my glittering be.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अमृ᳓तम् असि  
+अमृ᳓तम् असि,  
 मृत्यो᳓र् मा पाहि ।
 </details>
 
@@ -65,7 +65,7 @@ Thou art ambrosia; from death protect me.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दिद्यो᳓न्+++(→विद्युतः)+++ मा पाहि᳓ ।
+दिद्यो᳓न्+++(→विद्युतः)+++ मा पाहि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -75,7 +75,7 @@ From the thunderbolt protect me.
 
 <details><summary>मूलम्</summary>
 
-दि॒द्योन्मा॑ पा॒हि ।
+दि॒द्योन्मा॑ पाहि ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

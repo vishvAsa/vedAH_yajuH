@@ -144,7 +144,7 @@ thou art the share of Soma.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक्रा᳓ वश् **शुक्रे᳓णो᳓त्पुनामि**
-चन्द्रा᳓श् चन्द्रे᳓ण᳓  
+चन्द्रा᳓श् चन्द्रे᳓ण  
 +अमृ᳓ता अमृ᳓तेन  
 [स्वा᳓हा, राजसू᳓याय चि᳓तानाः  ॥]  
 +++(केचिद् अत्र त्रीण्य् उत्पवनान्य् अनेनानुषङ्गेनाहुः॥)+++
@@ -185,7 +185,7 @@ The pure I purify you with the pure, the bright with the bright, the immortal wi
 **सध+++(=सह)+++-मा᳓दो** द्युम्नि᳓नीर् ऊ᳓र्ज एता᳓  
 अ᳓निभृष्टा अपस्यु᳓वो+++(=अपस्=कर्म-कामाः)+++ **व᳓सानः** ।    
 पस्त्या᳙सु+++(=गृह-भूतासु)+++ **चक्रे** व᳓रुणस् सध᳓स्थम्  
-अपाँ᳓ शि᳓शुः मातृ᳓तमास्व् अन्तः᳓  ॥
+अपाँ᳓ शि᳓शुर् मातृ᳓तमास्व् अन्तः᳓  ॥
 </details>
 </div>
 
@@ -249,7 +249,7 @@ Thou art the caul of kingly power,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षत्र᳓स्य यो᳓निर् असि᳓ ।
+क्षत्र᳓स्य यो᳓निर् असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -259,7 +259,7 @@ thou art the womb of kingly power.
 
 <details><summary>मूलम्</summary>
 
-क्ष॒त्रस्य॒ योनि॑र॒सि ।
+क्ष॒त्रस्य॒ योनि॑रसि ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -574,7 +574,7 @@ ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श᳓त्रुबा᳓धनास् स्थ   ।
+शत्रुबा᳓धनास् स्थ   ।
 </details>
 
 <details><summary>Keith</summary>
@@ -584,7 +584,7 @@ Ye are overcomers of foes.
 
 <details><summary>मूलम्</summary>
 
-शत्रु॒बाध॑नास्स्थ   ।
+श॒त्रु॒बाध॑नास्स्थ   ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -637,7 +637,7 @@ Protect me in front, protect me at the side, protect me from behind; from the qu
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 हि᳓रण्य-वर्णाव् उष᳓साव्ँ विरोके᳓+++(←रुच्)+++  
-ऽयस्-स्थूणाव् **उ᳓दितौ** सू᳓र्यस्य᳓ ।   
++अ᳓यस्-स्थूणाव् **उ᳓दितौ** सू᳓र्यस्य ।   
 **आ᳓रोहतव्ँ** वरुण मित्र +++(रथ/ख-)+++ग᳓र्तन्  
 त᳓तश् **चक्षाथाम्**+++(←चक्ष् वीक्षणे)+++ अ᳓दितिन् दि᳓तिञ् च ॥ [23]
 </details>
