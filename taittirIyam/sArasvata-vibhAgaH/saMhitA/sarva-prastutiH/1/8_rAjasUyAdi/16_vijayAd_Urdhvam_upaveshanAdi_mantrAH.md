@@ -371,7 +371,7 @@ Thou, O king, art the Brahman priest, thou art Indra of true force [1].
 
 <details><summary>पद-पाठः</summary>
 
-ब्रह्मा(३)न् । त्वम् । रा॒ज॒न् । ब्र॒ह्मा । अ॒सि॒ । इन्द्रः॑ । अ॒सि॒ । स॒त्यौजा॒ इति॑ स॒त्य-ओ॒जाः॒ । 1 । ब्रह्मा(३)न् ।
+त्वम् । रा॒ज॒न् । ब्र॒ह्मा । अ॒सि॒ । इन्द्रः॑ । अ॒सि॒ । स॒त्यौजा॒ इति॑ स॒त्य-ओ॒जाः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
