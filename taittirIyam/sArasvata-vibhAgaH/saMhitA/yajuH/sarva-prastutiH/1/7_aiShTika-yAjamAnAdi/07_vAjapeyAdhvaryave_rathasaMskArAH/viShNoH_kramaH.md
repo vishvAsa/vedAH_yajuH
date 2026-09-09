@@ -22,6 +22,11 @@ Thou art the stepping of Visnu,
 विष्णो॒ᳵ क्रमो॑ऽसि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+6G । विष्णोः॑ । क्रमः॑ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 विष्णोर्भगवत एव क्रमोसि गमनसाधनत्वात् । प्रकृष्टस्य विष्णोः क्रमरूपेण स्तूयते रथः विष्णोः क्रमवत् भविष्यसि जयहेतुरिति ।
@@ -42,6 +47,11 @@ thou art the step of Visnu,
 विष्णोः॑ क्रा॒न्तम॑सि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । क्रा॒न्तम् । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 विष्णोः क्रान्तमसि यत्पूर्वं विष्णुना कृतं क्रमणं, तदेव त्वमसि तद्वज्जयसाधनं भविष्यसि अस्माकम् ।
@@ -60,6 +70,11 @@ thou art the stride of Visnu.
 <details><summary>मूलम्</summary>
 
 विष्णो॒र्विक्रा॑न्तमसि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । विक्रा॑न्त॒मिति॒ वि-क्रा॒न्त॒म् । अ॒सि॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
