@@ -30,6 +30,11 @@ Thou art Mitra
 मि॒त्रो॑ऽसि ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+1A । मि॒त्रः । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मित्रो देवस्त्वमसि वैश्वदेवत्वादन्यतररूपत्वेन भेदेन स्तुतिः । यद्वा - हिंसायास्त्रासकस्तुतिस्त्वमसि ॥
@@ -53,6 +58,11 @@ thou art Varuna.
 <details><summary>मूलम्</summary>
 
 वरु॑णोऽसि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वरु॑णः । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -80,6 +90,11 @@ May I be united with the All-gods.
 सम॒हव्ँविश्वै॑र्दे॒वैः।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+2B । समिति॑ । अ॒हम् । विश्वैः॑ । दे॒वैः ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 समित्युपसर्गस्ससाधनां क्रियामाह । संहतोहं विश्वैर्देवैः । यद्वा - विश्वैर्देवैर्युक्तां त्वामहं संस्पृशामि ॥
@@ -105,6 +120,11 @@ Thou art the navel of kingly power,
 क्ष॒त्त्रस्य॒ नाभि॑रसि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3C । क्ष॒त्रस्य॑ । नाभिः॑ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 क्षत्रस्य बलस्य नाभिस्सन्नहनं त्वमसि । 'नहो भश्च इति इञ्प्रत्ययः ॥
@@ -128,6 +148,11 @@ thou are the womb of kingly power.
 <details><summary>मूलम्</summary>
 
 क्ष॒त्त्रस्य॒ योनि॑रसि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्ष॒त्रस्य॑ । योनिः॑ । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -163,6 +188,11 @@ May she hurt thee not; may she hurt me not.
 मा मा॑ हिँसीः ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+4D । स्यो॒नाम् । एति॑ । सी॒द॒ । सु॒षदा॒मिति॑ सु-सदा॑म् । एति॑ । सी॒द॒ । 5E । मा । त्वा॒ । हिँ॒सी॒त् । मा । मा॒ । हिँ॒सी॒त् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स्योनां सुखामासीद आस्थायास्व । सुषदां सुखेनासादनीयमासीद । खलि कृदुत्तरपदप्रकृतिस्वरत्वम् । सिवेरौणादिके नप्रत्यये ऊठि गुणे च स्योनेति भवति । मा त्वा हिंसीदियमासन्दी । तां च त्वं मा हिंसीः ॥
@@ -173,6 +203,7 @@ May she hurt thee not; may she hurt me not.
 7अनुमन्त्र्यमाणम् आसन्नम् अभिमन्त्रयते - निषसादेति गायत्र्या त्रिपदया ॥ 
 </details>
 
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/02_niShasAda_dhRtavrato.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -181,6 +212,7 @@ May she hurt thee not; may she hurt me not.
 सा᳓म्राज्याय सु-क्र᳓तुः॥
 </details>
 </div>
+
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/02_niShasAda_dhRtavrato.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -195,6 +227,11 @@ In the waters, with keen insight, for lordship.
 … निष॑साद धृ॒तव्र॑तो॒   
 वरु॑णᳶ प॒स्त्या॑स्वा ।  
 साम्रा॑ज्याय सु॒क्रतुः॑॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+… । 6F । नीति॑ । स॒सा॒द॒ । धृ॒तव्र॑त॒ इति॑ धृ॒त-व्र॒तः॒ । वरु॑णः । प॒स्त्या॑सु । एति॑ । साम्रा॑ज्या॒येति॒ साम्-रा॒ज्या॒य॒ । सु॒क्रतु॒रिति॑ सु-क्रतुः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -213,6 +250,7 @@ In the waters, with keen insight, for lordship.
 अध्वर्युं राजाभिमन्त्रयते - ब्रह्मा3न् इति ॥ 
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
 <details open><summary><h5>ब्रह्मान् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -228,6 +266,11 @@ O Brahman!
 <details><summary>मूलम्</summary>
 
 ब्रह्मा ३ न् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+7G । ब्रह्मा(३)न् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -259,6 +302,11 @@ Thou, O king, art the Brahman priest, thou art Savitr of true instigation.
 सवि॒ताऽसि॑ स॒त्यस॑वः ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+त्वम् । रा॒ज॒न् । ब्र॒ह्मा । अ॒सि॒ । स॒वि॒ता । अ॒सि॒ । स॒त्यस॑व॒ इति॑ स॒त्य-स॒वः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे राजन् त्वमेव ब्रह्मासि नाहम् । हेतुमाह - यतस्सविता सर्वस्य प्रेरकः अनुज्ञाता वा त्वमसि त्वदाज्ञया हि सर्वं प्रवर्तते । सत्यसवः सत्यानुज्ञः अमोघशासनः, अतस्त्वमेव ब्रह्मासि ॥
@@ -268,6 +316,7 @@ Thou, O king, art the Brahman priest, thou art Savitr of true instigation.
 
 10अथ ब्रह्माणमाम् अन्त्रयते - ब्रह्मा3न् इति ॥ व्याख्यातम् ॥
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
 <details open><summary><h5>ब्रह्मान् ...{Loading}...</h5></summary>
@@ -284,6 +333,11 @@ O Brahman!
 <details><summary>मूलम्</summary>
 
 ब्रह्मा ३ न् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+7G । ब्रह्मा(३)न् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -315,6 +369,11 @@ Thou, O king, art the Brahman priest, thou art Indra of true force [1].
 इन्द्रो॑ऽसि स॒त्यौजाः॑ [31]
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ब्रह्मा(३)न् । त्वम् । रा॒ज॒न् । ब्र॒ह्मा । अ॒सि॒ । इन्द्रः॑ । अ॒सि॒ । स॒त्यौजा॒ इति॑ स॒त्य-ओ॒जाः॒ । 1 । ब्रह्मा(३)न् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे राजन् त्वमेव ब्रह्मासि यतस्त्वमिन्द्रोसि सर्वस्येश्वरोसि । सत्यौजाः अवितथबलः ॥
@@ -324,6 +383,7 @@ Thou, O king, art the Brahman priest, thou art Indra of true force [1].
 
 12होतारमामन्त्रयते - ब्रह्मा3न् इति ॥
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
 <details open><summary><h5>ब्रह्मान् ...{Loading}...</h5></summary>
@@ -340,6 +400,11 @@ O Brahman!
 <details><summary>मूलम्</summary>
 
 ब्रह्मा ३ न् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+7G । ब्रह्मा(३)न् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -371,10 +436,16 @@ Thou, O king, art the Brahman priest; thou art Mitra, the kindly.
 मि॒त्रो॑ऽसि सु॒शेवः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+त्वम् । रा॒ज॒न् । ब्र॒ह्मा । अ॒सि॒ । मि॒त्रः । अ॒सि॒ । सु॒शेव॒ इति॑ सु-शेवः॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे राजन् त्वमेव ब्रह्मासि, यतो मित्रोसि शर्वस्य हिंसाभ्यस्त्रातासि । सुशेवस्सुसुखः । 'आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
 <details open><summary><h5>ब्रह्मान् ...{Loading}...</h5></summary>
@@ -391,6 +462,11 @@ O Brahman!
 <details><summary>मूलम्</summary>
 
 ब्रह्मा ३ न् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+7G । ब्रह्मा(३)न् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -405,6 +481,7 @@ O Brahman!
 14उद्गातारमामन्त्रयते - ब्रह्मा3न् इति ॥
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
 <details open><summary><h5>ब्रह्मान् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -420,6 +497,11 @@ O Brahman!
 <details><summary>मूलम्</summary>
 
 ब्रह्मा ३ न् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+7G । ब्रह्मा(३)न् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -450,6 +532,11 @@ Thou, O king, art the Brahman priest; thou art Varuna, of true rule.
 त्वँ रा॑जन्ब्र॒ह्माऽसि॒ वरु॑णोऽसि स॒त्यध॑र्मा  ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ब्रह्मा(३)न् । त्वम् । रा॒ज॒न् । ब्र॒ह्मा । अ॒सि॒ । वरु॑णः । अ॒सि॒ । स॒त्यध॒र्मेति॑ स॒त्य-ध॒र्मा॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे राजन् त्वमेव ब्रह्मासि, यतस्त्वं वरुणोसि वारयिता शत्रूणां पापचोरव्याघ्रादीनां वारयितासि । सत्यधर्मा सत्यस्वभावः । 'धर्मादनिच्केवलात्' ॥
@@ -459,6 +546,7 @@ Thou, O king, art the Brahman priest; thou art Varuna, of true rule.
 
 16ब्रह्मा स्फ्यं राज्ञे प्रयच्छति - इन्द्रस्येति ॥ व्याख्यातम् ।
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
 <details open><summary><h5>इन्द्र॑स्य॒ वज्रो॑ऽसि॒ ...{Loading}...</h5></summary>
@@ -480,6 +568,11 @@ Thou art the bolt of Indra [2] slaying foes;
 
 इन्द्र॑स्य॒ वज्रो॑ऽसि॒  
 वार्त्र॑घ्नः ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+5I । इन्द्र॑स्य । 1 । वज्रः॑ । अ॒सि॒ । वार्त्र॑घ्न॒ इति॒ वार्त्र॑-घ्नः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -507,6 +600,11 @@ with this subject to me.
 तेन॑ मे रध्य
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तेन॑ । मे॒ । र॒ध्य॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मात्तेन वज्रेण हेतुना मम दस्यून् रध्य नाशय । यद्वा - साधयाभिमतानीति । रध हिसासिद्ध्योः, दैवादिकः ॥
@@ -530,6 +628,11 @@ This king hath surmounted the quarters.
 <details><summary>मूलम्</summary>
 
 दिशो॒ऽभ्य॑यँ राजा॑ऽभूत् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+3I । दिशः॑ । अ॒भीति॑ । अ॒यम् । राजा॑ । अ॒भू॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -559,6 +662,11 @@ O thou of true rule!
 सुश्लो॒काँ ४ सुम॑ङ्ग॒लाँ ४ सत्य॑रा॒जा ३ न् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+4K । सुश्लो॒काँ(4) इति॒ सु-श्लो॒काँ(4) । सुम॑ङ्ग॒लाँ(4) इति॒ सु-म॒ङ्ग॒लाँ(4) । सत्य॑रा॒जा(३)निति॒ सत्य॑-रा॒जा(३)न् ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सङ्ग्रहीता भागदुघः क्षत्ता चेत्येते मङ्गल्यनामानः, एषामेतानि सुश्लोकादीनि नामानि, एतैरेत आमन्त्र्यन्ते । सुश्लोकः शोभनकीर्तिः ; धनेन राज्ञश्शोभनकीर्तिहेतुत्वात् । अहं सदा सुश्लोकस्स्यामित्याह्वातुरभिप्रायः । सुमङ्गलश्शोभनमङ्गलहेतुः । निरुपसृष्टाभिप्रेतार्थसिद्धिहेतुर्मङ्गलम् । सत्यराज्ञस्सत्यो रजा येन । राज्ञस्सत्यत्वहेतुः । 'आशिषमेवैतामाशास्ते' इत्यादिब्राह्मणम् । पूर्ववद्द्वौ उदात्तौ । 'अणोप्रगृह्यस्यानुनासिकः' इति प्रथमद्वितीययोरन्त्य(रूप)स्यानुनासिकः ॥
@@ -582,6 +690,11 @@ To the son of the waters hail!
 <details><summary>मूलम्</summary>
 
 अ॒पान्नप्त्रे॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+5L । अ॒पाम् । नप्त्रे॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -609,6 +722,11 @@ To the son of strength hail!
 ऊ॒र्जो नप्त्रे॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ऊ॒र्जः । नप्त्रे॑ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ऊर्गन्नं तस्य नप्त्रे चतुर्थाय स्वाहा । 'अन्नाद्बलं' बलान्मथनवेगः, ततोग्निरिति । 'सावेकचः' इत्यूर्जष्षष्ठ्युदात्ता ॥
@@ -619,6 +737,7 @@ To the son of strength hail!
 21पुनरेत्य गार्हपत्ये जुहोति - अग्नये गृहपतये स्वाहेति । गतम् ॥  
 अष्टमे षोडशोनुवाकः ॥  
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/15_rathena_digvijayArthaM_mantrAH/agnaye_gRhapataye_svAhA.md">
 <details open><summary><h5>अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा॑ ।    ...{Loading}...</h5></summary>
@@ -635,6 +754,11 @@ To Agni, lord of the house, hail!
 <details><summary>मूलम्</summary>
 
 अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा॑ ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+3K । अ॒ग्नये॑ । गृ॒हप॑तय॒ इति॑ गृ॒ह-प॒त॒ये॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

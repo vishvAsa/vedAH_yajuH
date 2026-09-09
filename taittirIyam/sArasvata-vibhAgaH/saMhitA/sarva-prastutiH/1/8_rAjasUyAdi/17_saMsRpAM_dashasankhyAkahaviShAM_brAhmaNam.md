@@ -26,6 +26,11 @@ He offers to Agni on eight potsherds; the sacrificial fee is gold.
 हिर॑ण्य॒न्दक्षि॑णा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+1 । आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । 2 । हिर॑ण्यम् । दक्षि॑णा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1एवमभिषेचनीये पञ्चम्यां संस्थिते दशपेयस्यागामिनो देवयननस्य पश्चात् संसृपां हविर्भिर्यजेत, तानि विदधाति - आग्नेयमष्टाकपालमिति ॥ षष्ठ्यामुपक्रमः । तत्र पूर्वंपूर्वं देवयजनमध्यवस्यति । यत्र पूर्वस्या आहवनीयः तत्र उत्तरस्या गार्हपत्यः । 
@@ -50,6 +55,11 @@ He offers to Agni on eight potsherds; the sacrificial fee is gold.
 व॒त्स॒त॒री दक्षि॑णा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सा॒र॒स्व॒तम् । च॒रुम् । व॒त्स॒त॒री । दक्षि॑णा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2श्वोभूते सारस्वतं चरुं निर्वपति ॥ आग्नेयस्याहवनीयायतने सारस्वतस्य गार्हपत्यायतनम् । एवमुत्तरत्र द्रष्टव्यम् । अत्र वत्सतरी द्वितीयं वयः प्राप्नुवन्ती गौर्दक्षिणा । 'वत्सोक्षा' इति ष्टरच् ॥
@@ -70,6 +80,11 @@ To Savitr (he offers) on twelve potsherds; the sacrificial fee is a speckled (ox
 
 सा॒वि॒त्रन्द्वाद॑शकपालम्  +++(निर्वपति)+++ ,    
 उ॒प॒ध्व॒स्तो +++(=शबलोक्षो)+++ दक्षि॑णा ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सा॒वि॒त्रम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । उ॒प॒ध्व॒स्त इत्यु॑प-ध्व॒स्तः । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -94,6 +109,11 @@ To Pusan (he offers) an oblation; the sacrificial fee is a dark (ox),
 श्या॒मो दक्षि॑णा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पौ॒ष्णम् । च॒रुम् । श्या॒मः । दक्षि॑णा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4श्वोभूते पौष्णं चरुं निर्वपति ॥ तत्र श्यामो गौर्दकिष्णा ॥
@@ -114,6 +134,11 @@ To Brhaspati (he offers) an oblation; the sacrificial fee is a white-backed (ox)
 
 बा॒र्र्ह॒स्प॒त्यञ्च॒रुम्  +++(निर्वपति)+++ ,   
 शि॒ति॒पृ॒ष्ठो  दक्षि॑णा ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बा॒र्ह॒स्प॒त्यम् । च॒रुम् । शि॒ति॒पृ॒ष्ठ इति॑ शिति-पृ॒ष्ठः । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -138,6 +163,11 @@ To Indra (he offers) on eleven potsherds; the sacrificial fee is a bull.
 ऋ॒ष॒भो दक्षि॑णा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ऐ॒न्द्रम् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । ऋ॒ष॒भः । दक्षि॑णा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6श्वोभूते ऐन्द्रमेकादशकपालं निर्वपति ॥ तत्र ऋषभो दक्षिणा ॥
@@ -158,6 +188,11 @@ To Varuna (he offers) on ten potsherds; the sacrificial fee is a great castrated
 
 वा॒रु॒णन्दश॑कपालम्  +++(निर्वपति)+++ ,  
 म॒हानि॑रष्टो॒ दक्षि॑णा ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒रु॒णम् । दश॑कपाल॒मिति॒ दश॑-क॒पा॒ल॒म् । म॒हानि॑रष्ट॒ इति॑ म॒हा-नि॒र॒ष्टः॒ । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -182,6 +217,11 @@ To Soma (he offers) an oblation; the sacrificial fee is a brown (ox).
 ब॒भ्रुर्दक्षि॑णा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सौ॒म्यम् । च॒रुम् । ब॒भ्रुः । दक्षि॑णा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8अथ दशपेये प्रक्रान्ते आतिथ्यया प्रचर्य उपसदां पुरस्तात्सौम्यं चरुं निर्वपति द्वादश्याम् ॥ तत्र बभ्रुश्श्वेतलोहितो गौर्दकिष्णा ॥
@@ -204,6 +244,11 @@ To Tvastr (he offers) on eight potsherds; the sacrificial fee is a white (ox)
 शु॒ण्ठो दक्षि॑णा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+त्वा॒ष्ट्रम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । शु॒ण्ठः । दक्षि॑णा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9श्वोभूते त्रयोदश्यां प्रवर्ग्योपसद्भ्यां प्रचर्य सुब्रह्मण्यान्ते त्वाष्ट्रमष्टाकपालं निर्वपति ॥ तत्र शुण्ठः अल्पकायो गौर्दक्षिणा ॥
@@ -224,6 +269,11 @@ To Vishnu (he offers) on three potsherds; the sacrificial fee is a dwarf (ox).
 
 वै॒ष्ण॒वन्त्रि॑कपा॒लम् +++(निर्वपति)+++ ,   
 वा॒म॒नो दक्षि॑णा ॥ [33]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वै॒ष्ण॒वम् । त्रि॒क॒पा॒लमिति॑ त्रि-क॒पा॒लम् । वा॒म॒नः । दक्षि॑णा ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
