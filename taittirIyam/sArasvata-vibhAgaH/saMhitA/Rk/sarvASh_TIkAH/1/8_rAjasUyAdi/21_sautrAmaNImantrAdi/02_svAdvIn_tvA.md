@@ -1,8 +1,6 @@
 +++
 title = "02 स्वाद्वीन् त्वा"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -12,6 +10,11 @@ the sacrificial fee is the northern drawer of the chariot stand.
 <details><summary>मूलम्</summary>
 
 स्वा॒द्वीन्त्वा॑ स्वा॒दुना॑ ती॒व्रान्ती॒व्रेणा॒मृता॑म॒मृते॑न सृ॒जामि॒ सम्
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+1A । स्वा॒द्वीम् । त्वा॒ । स्वा॒दुना॑ । ती॒व्रम् । ती॒व्रेण॑ । अ॒मृता॑म् । अ॒मृते॑न । सृ॒जामि॑ । समिति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

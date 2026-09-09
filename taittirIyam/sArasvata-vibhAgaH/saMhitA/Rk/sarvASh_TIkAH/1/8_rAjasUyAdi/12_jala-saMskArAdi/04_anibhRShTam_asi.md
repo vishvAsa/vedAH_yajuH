@@ -1,8 +1,6 @@
 +++
 title = "04 अनिभृष्टम् असि,"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -12,6 +10,11 @@ Friend of speech, born of heat, thou art undefeated;
 <details><summary>मूलम्</summary>
 
 अनि॑भृष्टमसि वा॒चो बन्धु॑स्तपो॒जाः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+3C । अनि॑भृष्ट॒मित्यनि॑-भृ॒ष्ट॒म् । अ॒सि॒ । वा॒चः । बन्धुः॑ । त॒पो॒जा इति॑ तपः-जाः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

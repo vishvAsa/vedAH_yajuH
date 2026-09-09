@@ -1,8 +1,6 @@
 +++
 title = "03 अनाधृष्टास् सीदतोर्जस्वतीर्"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -13,6 +11,11 @@ Bestowing great radiance upon the Ksatriya.
 <details><summary>मूलम्</summary>
 
 अना॑धृष्टास्सीद॒तोर्ज॑स्वती॒र्महि॒ वर्चः॑ क्ष॒त्रिया॑य॒ दध॑तीः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अना॑धृष्टा॒ इत्यना॑-धृ॒ष्टाः॒ । सी॒द॒त॒ । ऊर्ज॑स्वतीः । महि॑ । वर्चः॑ । क्ष॒त्रिया॑य । दध॑तीः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
