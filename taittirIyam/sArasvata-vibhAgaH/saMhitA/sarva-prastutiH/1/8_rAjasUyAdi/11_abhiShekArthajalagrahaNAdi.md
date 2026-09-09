@@ -1,13 +1,14 @@
 +++
 title = "११ अभिषेकार्थजलग्रहणादि"
-
 +++
 
 विश्वेदेवा ऋषयः
 
+## ०१ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-1अभिषेकार्थं षोडश सप्तदश वा वायव्यैर्गृह्णाति -  
+1अभिषेकार्थं षोडश सप्तदश वा वायव्यैर् गृह्णाति -  
 अर्थेतस्थेत्येतैर्मन्त्रैः ॥  
 एतास्व् अप्सु  
 प्रथमम् आज्येन हुत्वा  
@@ -17,7 +18,7 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 तस्मिन्न् एव जले  
 तेनैव मन्त्रेण ग्रहं गृह्णाति ।   
 
-तत्र 'आपो देवीः' इत्यादिका त्रिष्टुप् सर्वत्रानुषज्यते ।
+तत्र 'आपो देवीः' इत्यादिका त्रिष्टुप् सर्वत्रानुषज्यते +++(पूर्वं वक्ष्यमाण-रीत्या)+++।
   
 'राष्ट्रदास्स्थ राष्ट्रं दत्त स्वाहा' इत्यन्तेन होमः,  
  'राष्ट्रदास्स्थ राष्ट्रममुष्मै दत्त' इत्यन्तेन ग्रहणम् ।  
@@ -40,7 +41,7 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒र्थेत॑स्स्थ  ।
+अर्थे᳓तस् स्थ  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -57,17 +58,20 @@ Ye are active,
 
 मन्त्रार्थस्तु - अर्थेतस्स्थ हे आपः अर्थमरणीयं स्थानान्तरं यन्ति गच्छन्तीति अर्थेतः । एतेः क्विप् ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -87,9 +91,11 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+राष्ट्रदा᳓स्स्थ  
+राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -109,7 +115,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓म् अमु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -128,11 +134,15 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+### ग्रहः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[अ॒र्थेत॑स्स्थ  ।]
+[अर्थे᳓तस्स्थ  ।]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -143,6 +153,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -162,9 +173,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -183,6 +195,9 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+## ०२ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2पुन्नदस्य शोणादेर्वा जलं - अपाम्पतिरसीति ॥ 
@@ -190,7 +205,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपाम्पति॑रसि  ।      
+अपा᳓म ्प᳓तिरसि  ।      
 </details>
 
 <details><summary>Keith</summary>
@@ -200,14 +215,15 @@ thou art the lord of the waters,
 
 <details><summary>मूलम्</summary>
 
-अपाम्पति॑रसि  ।      
+अ॒पाम्पति॑रसि  ।      
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अपाम्पतिस्समुद्रः तदीया आप उच्यन्ते ; विकारे प्रकृतिशब्दात् । समुदायशब्दादेकवचनम् । शोणादीनां पुंस्त्वेन अपांपतित्वम् । 'ऊडिदम्' इति षष्ठ्या उदात्तत्वम् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -218,6 +234,7 @@ thou art the lord of the waters,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -237,9 +254,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -259,7 +277,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -278,11 +296,14 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[अपाम्पति॑रसि  ।]
+[अपा᳓म् प᳓तिरसि  ।]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -293,6 +314,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -312,9 +334,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -333,6 +356,9 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+## ०३ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अथ नद्यां पुरुषे पशौ वा तिष्ठति प्रतीपमन्य ऊर्मिर् युद्ध्यति,  
@@ -342,7 +368,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृषा॑स्य् ऊ॒र्मिः  ।     
+वृ᳓षास्य् ऊर्मिः᳓  ।     
 </details>
 
 <details><summary>Keith</summary>
@@ -359,7 +385,8 @@ thou art the male wave,
 
 वृषा वर्षिता वृष्टिहेतुत्वात् । प्रधाने[धानं]वा ; सङ्घातरूपत्वात् । ऊर्मिस्सङ्घातार्था अरणशीला वा ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -370,6 +397,7 @@ thou art the male wave,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -389,9 +417,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -411,7 +440,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -430,11 +459,14 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[वृषा॑स्य् ऊ॒र्मिः  ।]
+[वृ᳓षास्य् ऊर्मिः᳓  ।]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -445,6 +477,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -464,9 +497,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -485,6 +519,9 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+## ०४ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथानुस्रोता य ऊर्मिस्तज्जलं गृह्णाति - वृषसेनोसीति ॥ 
@@ -492,7 +529,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृ॑ष-से॒नो॑ऽसि  ।      
+वृ᳓ष-सेनो᳙ऽसि  ।      
 </details>
 
 <details><summary>Keith</summary>
@@ -509,7 +546,8 @@ thou art the male host,
 
 सेक्त्री सेना यस्य संघातत्वेन महत्त्वात् सेकसामर्थ्याच्च । छान्दसमन्तोदात्तत्वम् । केचित्तु - वृषास्यूर्मिरित्येतावता ऊर्मिजलं गृह्णाति, वृषसेनोसीति पल्वल्यमिति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -520,6 +558,7 @@ thou art the male host,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -539,9 +578,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -561,7 +601,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -580,11 +620,14 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[वृ॑षसे॒नो॑ऽसि  ।]
+[वृ᳓षसेनो᳙ऽसि  ।]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -595,6 +638,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -614,9 +658,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -635,6 +680,9 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+## ०५ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथ कूप्या गृह्णाति - व्रजक्षितस्स्थ इति ॥ 
@@ -642,7 +690,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्रज॒-क्षित॑स्+++(=आश्रयाः)+++ स्थ।      
+व्रज-क्षि᳓तस्+++(=आश्रयाः)+++ स्थ।      
 </details>
 
 <details><summary>Keith</summary>
@@ -652,14 +700,15 @@ ye are the pen-dwellers,
 
 <details><summary>मूलम्</summary>
 
-व्रज॒क्षित॑स्स्थ।      
+व्र॒ज॒क्षित॑स्स्थ।      
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 व्रजे वेष्टितेवकाशे क्षियन्ति निवसन्तीति व्रजक्षितः । क्षि निवासगत्योः ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -670,6 +719,7 @@ ye are the pen-dwellers,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -689,9 +739,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -711,7 +762,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -730,11 +781,14 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[व्रज॒क्षित॑स् स्थ।]
+[व्र᳓जक्षि᳓तस् स्थ।]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -745,6 +799,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -764,9 +819,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -785,9 +841,17 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+## ०६ 
+### होमः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+6प्रतीपोदकमावर्तजलं गृह्णाति - मरुतामोजस्स्थेति ॥ 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒रुता॒म् ओज॑स् स्थ  ।      
+मरु᳓ताम् ओ᳓जस् स्थ  ।      
 </details>
 
 <details><summary>Keith</summary>
@@ -802,9 +866,10 @@ ye are the strength of the Maruts,
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-6प्रतीपोदकमावर्तजलं गृह्णाति - मरुतामोजस्स्थेति ॥ मरुतां वायूनामोजः बलं स्थ ; तेन निर्वृत्तत्वात् ॥
+मरुतां वायूनामोजः बलं स्थ ; तेन निर्वृत्तत्वात् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -815,6 +880,7 @@ ye are the strength of the Maruts,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -834,9 +900,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -856,7 +923,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -875,11 +942,14 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[म॒रुता॒म् ओज॑स् स्थ  ।]
+[मरु᳓ताम् ओ᳓जस् स्थ  ।]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -890,6 +960,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -909,9 +980,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -930,6 +1002,9 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+## ०७ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7आदित्ये दृश्यमाने यदा वर्षति तज्जलं गृह्णाति - सुर्यवर्चसस्स्थेति ॥ 
@@ -937,7 +1012,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूर्य॑वर्चसस् स्थ  ।      
+सू᳓र्यवर्चसस् स्थ  ।      
 </details>
 
 <details><summary>Keith</summary>
@@ -954,7 +1029,8 @@ ye have the radiance of the sun,
 
 सूर्यं वर्चयन्ति भृशं दीपयन्ति । 'गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वञ्च' इत्यसुन् । सातपेहि वर्षे भृशमादित्यो दीप्यते । बहुव्रीहिर्वा सूर्यस्येव वर्चो येषामिति । सूर्यरश्मिसंयोगेन वर्चस्वित्वात् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -965,6 +1041,7 @@ ye have the radiance of the sun,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -984,9 +1061,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1006,7 +1084,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1025,11 +1103,14 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[सूर्य॑वर्चसस् स्थ  ।]
+[सू᳓र्यवर्चसस् स्थ  ।]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1040,6 +1121,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -1059,9 +1141,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1080,6 +1163,9 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+## ०८ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8यत्र कुत्र चित्प्रसन्नं जलं गृह्णाति - सूर्यत्वचसस्स्थेति ॥ 
@@ -1087,7 +1173,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूर्य॑-त्वचसस् स्थ ।     
+सू᳓र्य-त्वचसस् स्थ ।     
 </details>
 
 <details><summary>Keith</summary>
@@ -1104,7 +1190,8 @@ ye have the brightness of the sun,
 
 त्वच संवरणे, सुर्यं त्वचन्ति संवृण्वन्ति । पूर्ववदसुन् । यासु खलु निर्मलास्वप्सु रूपाणि परिदृश्यन्ते ताः खलु सूर्यरूपप्रकाशनं सूर्यमपि स्वमहिम्ना संवृण्वन्ति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1115,6 +1202,7 @@ ye have the brightness of the sun,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -1134,9 +1222,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1156,7 +1245,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1175,11 +1264,14 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[सूर्य॑-त्वचसस् स्थ ।]
+[सू᳓र्य-त्वचसस् स्थ ।]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1190,6 +1282,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -1209,9 +1302,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1230,6 +1324,9 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+## ०९ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9स्थावराणां गृह्णाति, ह्रादीर् वा - मान्दास् स्थेति ॥ 
@@ -1237,7 +1334,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मान्दाः॑ स्थ  ।      
+मा᳓न्दाः स्थ  ।      
 </details>
 
 <details><summary>Keith</summary>
@@ -1254,7 +1351,8 @@ ye are delightful,
 
 मन्दस्वभावाः । मां दत्तदेवेभ्य इति ह्रादं कुर्वाणाः, अशोष्या इत्यन्ये ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1265,6 +1363,7 @@ ye are delightful,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -1284,9 +1383,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1306,7 +1406,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1325,11 +1425,14 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[मान्दाः॑ स्थ  ।]
+[मा᳓न्दाः स्थ  ।]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1340,6 +1443,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -1359,9 +1463,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1380,6 +1485,9 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+## १० 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10अवश्यायोदकं गृह्णाति -  वाशास्थेति ॥ 
@@ -1387,7 +1495,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाशाः॑ स्थ  ।      
+वा᳓शाः स्थ  ।      
 </details>
 
 <details><summary>Keith</summary>
@@ -1404,7 +1512,8 @@ ye are obedient,
 
 वाशा वश्याः नीहारो हि नदीप्रवाहवन्मनुष्यगतिं न प्रतिबध्नाति ; ततो वश्यत्वम् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1415,6 +1524,7 @@ ye are obedient,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -1434,9 +1544,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1456,7 +1567,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1475,11 +1586,14 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[वाशाः॑ स्थ  ।]
+[वा᳓शाः स्थ  ।]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1490,6 +1604,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -1509,9 +1624,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1530,6 +1646,9 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+## ११ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11गोरुल्ब्याः गोर् गर्भवेष्टनगता आपो गृह्णाति -  शक्वरीस्स्थेति ॥ 
@@ -1537,7 +1656,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शक्व॑रीस् स्थ  ।      
+श᳓क्वरीस् स्थ  ।      
 </details>
 
 <details><summary>Keith</summary>
@@ -1554,7 +1673,8 @@ ye are powerful,
 
 गर्भसंरक्षणे शक्ताश्शक्वर्यः । 'वा छन्दसि' इति पूर्वसवार्णदीर्घत्वम् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1565,6 +1685,7 @@ ye are powerful,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -1584,9 +1705,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1606,7 +1728,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1625,11 +1747,14 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[शक्व॑रीस् स्थ  ।]
+[श᳓क्वरीस् स्थ  ।]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1640,6 +1765,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -1659,9 +1785,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1680,6 +1807,9 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+## १२ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12पयो गृह्णाति - विश्वभृतस्स्थेति ॥ 
@@ -1687,7 +1817,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒श्व॒भृत॑स् स्थ ।       
+विश्वभृ᳓तस् स्थ ।       
 </details>
 
 <details><summary>Keith</summary>
@@ -1704,7 +1834,8 @@ ye are all supporters,
 
 विश्वं बिभ्रति धारयन्ति वा पोषयन्ति वा विश्वभृतः, तद्रूपेण विवक्षितत्वात् बहुवचनं स्त्रीत्वं च ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1715,6 +1846,7 @@ ye are all supporters,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -1734,9 +1866,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1756,7 +1889,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1775,11 +1908,14 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[वि॒श्व॒भृत॑स् स्थ ।]
+[विश्वभृ᳓तस् स्थ ।]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1790,6 +1926,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -1809,9 +1946,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1830,6 +1968,9 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+## १३ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13दधि गृह्णाति - जनभृतस्स्थेति ॥ 
@@ -1837,7 +1978,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज॒न॒भृत॑स्स्थ ।     
+जनभृ᳓तस्स्थ ।     
 </details>
 
 <details><summary>Keith</summary>
@@ -1854,7 +1995,8 @@ ye are supporters of men,
 
 जनं बिभ्रर्तीति जनभृतः ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1865,6 +2007,7 @@ ye are supporters of men,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -1884,9 +2027,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1906,7 +2050,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1925,11 +2069,14 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज॒न॒भृत॑स्स्थ ।
+[जनभृ᳓तस्स्थ ।]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1940,6 +2087,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -1959,9 +2107,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1980,6 +2129,9 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+## १४ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14घृतं गृह्णाति - अग्नेस्तेजस्यास्स्थेति ॥ 
@@ -1987,7 +2139,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेस् ते॑ज॒स्याः॑ स्थ  ।      
+अग्ने᳓स् तेजस्याः᳙ स्थ  ।      
 </details>
 
 <details><summary>Keith</summary>
@@ -2004,7 +2156,8 @@ ye have the brilliance of Agni,
 
 अग्नेस्तेजसा सहितास्तेजस्याः गवादिर्द्रष्टव्यः । तेजसो वा निमित्तभूतास्तेजस्याः । 'गोद्व्यचः' इति यत् । तेजसि वा भवाः ; तदर्थं व्यापृतत्वात् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2015,6 +2168,7 @@ ye have the brilliance of Agni,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -2034,9 +2188,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -2056,7 +2211,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -2075,11 +2230,14 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+### ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[अ॒ग्नेस् ते॑ज॒स्याः॑ स्थ  ।]
+[अग्ने᳓स् तेजस्याः᳙ स्थ  ।]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2090,6 +2248,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -2109,9 +2268,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -2130,6 +2290,9 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
+## १५ 
+### होमः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15-16मधु गृह्णाति - अपामोषधीनां रसस्थेति ॥ 
@@ -2137,7 +2300,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पामोष॑धीनाँ॒ रस॑स्स्थ  ।      
+अपा᳓म् ओ᳓षधीनाँ र᳓सस्स्थ  ।      
 </details>
 
 <details><summary>Keith</summary>
@@ -2156,7 +2319,8 @@ ye are the sap of the waters, of the plants.
 
 इत्यष्टमे एकादशोनुवाकः ॥  
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2167,6 +2331,7 @@ ye are the sap of the waters, of the plants.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -2186,9 +2351,10 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -2208,7 +2374,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -2227,11 +2393,13 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[अ॒पामोष॑धीनाँ॒ रस॑स्स्थ  ।]
+[अपा᳓मो᳓षधीनाँ र᳓सस्स्थ  ।]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2242,6 +2410,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
@@ -2261,9 +2430,70 @@ Whereby they led Indra beyond his foes.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ - रा॒ष्ट्रम॒मुष्मै॑+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
+</details>
+
+<details><summary>Keith</summary>
+
+Ye are givers of the kingdom; give N. N. the kingdom.
+</details>
+
+<details><summary>मूलम्</summary>
+
+रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
+</details>
+</details>
+</div>
+
+### ग्रहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[अपा᳓म् ओ᳓षधीनाँ र᳓सस्स्थ  ।]      
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
+<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+
+आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
+ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
+याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
+याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तादृशीर्व **आपः** व्यापनस्वभावाः **देवीः** दीप्तिमतीः **मधुमतीः** मधुरसवतीः **अगृह्णन्** देवाः, ऋत्वीजो वा । **ऊर्जस्वतीः** बलवतीः **राजसूयाय** राजसूयार्थं राजसूये अभिषेकार्थम् **अगृह्णन् चितानाः** चिन्तयन्तीः राजसूयाभिनिष्पत्त्य्-उपाय-चिन्ताव्यापृताः । यद्वा - **राजसूयाय चिताना** देवा **अगृह्णन्** ।  
+राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
+चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
+याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
+</details>
+</details>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
 <details><summary>Keith</summary>

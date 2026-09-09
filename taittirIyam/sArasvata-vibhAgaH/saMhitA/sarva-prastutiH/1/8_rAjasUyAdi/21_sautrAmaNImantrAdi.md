@@ -1,6 +1,5 @@
 +++
 title = "२१ सौत्रामणीमन्त्रादि"
-
 +++
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -17,15 +16,17 @@ title = "२१ सौत्रामणीमन्त्रादि"
 1अथ राजसूयेनेष्ट्वा सौत्रामण्या यजेत, तामधिकृत्योच्यते । वैश्वदेवं काण्डम् ।  
 आसरेणावेक्षन् सोमं सम्पादयति - स्वद्वीमिति । 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/02_svAdvIn_tvA.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/02_svAdvIn_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-स्वा॒द्वीन् त्वा॑ स्वा॒दुना॑  
-ती॒व्रान् ती॒व्रेणा॒मृता॑म॒मृते॑न।  
-सृ॒जामि॒ सम्॥
+स्वाद्वी᳓न् त्वा स्वादु᳓ना  
+तीव्रा᳓न् तीव्रे᳓णामृ᳓ताममृ᳓तेन।  
+सृजा᳓मि स᳓म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/02_svAdvIn_tvA.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/02_svAdvIn_tvA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -49,6 +50,7 @@ the sacrificial fee is the northern drawer of the chariot stand.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2तामुपरिस्थितामभिमृशति - सोमोसीति ॥ 
@@ -56,10 +58,10 @@ the sacrificial fee is the northern drawer of the chariot stand.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमे॑न॒ सोमो॑ऽसि।
-अ॒श्विभ्या॑म् पच्यस्व।  
-सर॑स्वत्यै पच्यस्व ।  
-इन्द्रा॑य सु॒-त्राम्णे॑ पच्यस्व ।  
+सो᳓मेन सो᳓मोऽसि।
+अश्वि᳓भ्याम् पच्यस्व।  
+स᳓रस्वत्यै पच्यस्व ।  
+इ᳓न्द्राय सु-त्रा᳓म्णे पच्यस्व ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -89,15 +91,17 @@ thou art Soma; be ready for the Aśvins, be ready for Sarasvati, be ready for In
 
 3सुरां पुनाति वालेन - पुनात्विति गायत्र्या ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/03_punAtu_te.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/03_punAtu_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-**पु॒नातु॑** ते **परि॒स्रुतँ॒**  
-+++(सुरा-रूपं)+++ सोमँ॒ सूर्य॑स्य दुहि॒ता ।  
-वारे॑ण॒+++(=वालेन)+++ शश्व॑ता॒ **तना॑**+++(←तन्)+++  ॥
+**पुना᳓तु** ते **परिस्रु᳓तँ**  
++++(सुरा-रूपं)+++ सो᳓मँ सू᳓र्यस्य दुहिता᳓ ।  
+वा᳓रेण+++(=वालेन)+++ श᳓श्वता **त᳓ना**+++(←तन्)+++  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/03_punAtu_te.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/03_punAtu_te.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -132,19 +136,22 @@ With the eternal sieve.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4सोमातिपवितस्य सोम-वामिनो वा पुनाति - वायुरिति गायत्र्या च ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/04_vAyupH_pUtapH.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/04_vAyupH_pUtapH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-+++(वमने सादृश्येन)+++ वा॒युᳶ **पू॒तᳶ** प॒वित्रे॑ण  
-+++(वमनेन)+++ प्र॒त्यङ्क् सोमो॒ **अति॑द्रुतः** ।   
-इन्द्र॑स्य॒ युज्य॒स् सखा॑  ॥
++++(वमने सादृश्येन)+++ वायुᳶ᳓ **पूतᳶ᳓** पवि᳓त्रेण  
++++(वमनेन)+++ प्रत्य᳓ङ्क् सो᳓मो **अ᳓तिद्रुतः** ।   
+इ᳓न्द्रस्य यु᳓ज्यस् स᳓खा  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/04_vAyupH_pUtapH.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/04_vAyupH_pUtapH.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -170,20 +177,23 @@ Indra's dear friend.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5सुरा-ग्रहान् गृह्णाति - कुविदङ्गेति त्रिष्टुप् ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/05_kuvid_anga.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/05_kuvid_anga.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-कु॒विद् अ॒ङ्ग यव॑मन्तो॒ यव॑ञ् चि॒द्  
-यथा॒ **दान्त्य्**+++(←लवने)+++ अ॑नुपू॒र्वव्ँ **वि॒यूय॑**+++(←यु मिश्रणे ऽमिश्रणे च)+++ ।   
-इ॒ह+इहै॑षाङ् **कृणुत॒** भोज॑नानि॒  
-ये ब॒र्हिषो॒ नमो॑-वृक्ति॒न्+++(→व्यावृत्तिं)+++ **न ज॒ग्मुः**  ॥
+कुवि᳓द् अङ्ग᳓ य᳓वमन्तो य᳓वञ् चिद्  
+य᳓था **दा᳓न्त्य्**+++(←लवने)+++ अनुपूर्वव्ँ᳓ **वियू᳓य**+++(←यु मिश्रणे ऽमिश्रणे च)+++ ।   
+इह᳓+इ᳓हैषाङ् **कृणुत** भो᳓जनानि  
+ये᳓ बर्हि᳓षो न᳓मो-वृक्तिन्+++(→व्यावृत्तिं)+++ **न᳓ जग्मुः᳓**  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/05_kuvid_anga.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/05_kuvid_anga.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -219,6 +229,7 @@ Who have not gone to the reverential cutting of the straw.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथ त्रीन् पशून् विदधाति - आश्विनमिति ॥ 
@@ -226,9 +237,9 @@ Who have not gone to the reverential cutting of the straw.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒श्वि॒नन् धू॒म्रम् +++(वृषम्)+++ **आ ल॑भते**,  
-सारस्व॒तम् मे॒षम्,    
-ऐै॒न्द्रम् ऋ॑ष॒भम्  ।
+आश्विन᳓न् धूम्र᳓म् +++(वृषम्)+++ **आ᳓ लभते**,  
+सारस्वत᳓म् मेष᳓म्,    
+ऐ्᳓ऐन्द्र᳓म् ऋषभ᳓म्  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -255,9 +266,9 @@ To the Aśvins he sacrifices a dusky (ox), to Sarasvati a ram, to Indra a bull.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्रम् एका॑दश-कपाल॒न् निर्व॑पति  
-सावि॒त्रन् द्वा-द॑शकपालं,   
-वारु॒णन् दश॑-कपालम्।
+ऐन्द्र᳓म् ए᳓कादश-कपालन् नि᳓र्वपति  
+सावित्र᳓न् द्वा᳓-दशकपालं,   
+वारुण᳓न् द᳓श-कपालम्।
 </details>
 
 <details><summary>Keith</summary>
@@ -280,7 +291,7 @@ To Indra he offers on eleven potsherds, to Savitr on twelve potsherds, to Varuna
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑-प्रतीकाᳶ पितरस् तृप्णुत ।  
+सो᳓म-प्रतीकाᳶ पितरस् तृप्णुत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -300,7 +311,7 @@ O Pitrs, beaded by Soma, rejoice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वड॑बा॒ दक्षि॑णा  ॥[37]
+व᳓डबा द᳓क्षिणा  ॥[37]
 </details>
 
 <details><summary>Keith</summary>

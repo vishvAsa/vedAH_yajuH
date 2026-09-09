@@ -1,6 +1,5 @@
 +++
 title = "२२ काम्येष्टि-याज्यापुरोनुवाक्याः"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -22,16 +21,18 @@ title = "२२ काम्येष्टि-याज्यापुरोन
 
 1अथ याज्याकाण्डं वैश्वदेवम् । तत्र 'आग्नावैष्णवमेकादशपालं निर्वपेदभिचरन्त्सरस्वत्याज्यभागा स्याद्बार्हस्पत्यश्चरुः' इत्यस्याग्नावैष्णवस्य पुरोनुवाक्या - अग्नाविष्णू महीति त्रिष्टुप् ॥  
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/02_agnAviShNU_mahi.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/02_agnAviShNU_mahi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अग्ना॑-विष्णू॒ महि॒ तद् वा॑म् महि॒त्वव्ँ,  
-**वी॒तङ्** घृ॒तस्य॒ गुह्या॑नि॒ नाम॑ ।   
-दमे॑-दमे+++(=गृहेगृहे, ज्वालागणनया)+++ स॒प्त रत्ना॒ **दधा॑ना॒**   
-प्रति॑ वाञ् जि॒ह्वा घृ॒तम् **आ च॑रण्येत्**  ॥
+अ᳓ग्ना-विष्णू म᳓हि त᳓द् वाम् महित्वव्ँ᳓,  
+**वीत᳓ङ्** घृत᳓स्य गु᳓ह्यानि ना᳓म ।   
+द᳓मे-दमे+++(=गृहेगृहे, ज्वालागणनया)+++ सप्त᳓ र᳓त्ना **द᳓धाना**   
+प्र᳓ति वाञ् जिह्वा᳓ घृत᳓म् **आ᳓ चरण्येत्**  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/02_agnAviShNU_mahi.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/02_agnAviShNU_mahi.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -57,20 +58,23 @@ May your tongue move forth to the ghee.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2तत्रैव याज्या - अग्नाविष्णू इति त्रिष्टुप् ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/03_agnAviShNU_mahi.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/03_agnAviShNU_mahi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यव्ँ वाव्ँ॑  
-**वी॒थो** घृ॒तस्य॒ गुह्या॑ **जुषा॒णा** ।  
-दमे॑-दमे सुष्टु॒तीर् **वा॑वृधा॒ना**  
-प्रति॑ वाञ् जि॒ह्वा घृ॒तम् **उच्च॑रण्येत्**  ॥
+अ᳓ग्नाविष्णू म᳓हि धा᳓म प्रियव्ँ᳓ वाव्ँ  
+**वीथो᳓** घृत᳓स्य गु᳓ह्या **जुषाणा᳓** ।  
+द᳓मे-दमे सुष्टुती᳓र् **वावृधाना᳓**  
+प्र᳓ति वाञ् जिह्वा᳓ घृत᳓म् **उ᳓च्चरण्येत्**  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/03_agnAviShNU_mahi.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/03_agnAviShNU_mahi.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -99,7 +103,8 @@ May your tongue move forth to the ghee.
 
 3तत्रैव 'सरस्वत्याज्यभागा' इत्यत्र पुरोनुवाक्या - प्र ण इति गायत्री ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/061/04_pra_No.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/061/04_pra_No.md">
 <details open><summary><h5>०४ प्र णो ...{Loading}...</h5></summary>
 
 प्र᳓ णो देवी᳓ स᳓रस्वती  
@@ -107,7 +112,8 @@ May your tongue move forth to the ghee.
 धीना᳓म् **अवित्र्य् अ᳙वतु** ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/061/04_pra_No.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/061/04_pra_No.md">
 <details open><summary><h5>004 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -346,11 +352,13 @@ Es schirm der Andacht Schirmerin Sarasvati, die Göttin uns, Mit Kräften sie, d
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4तत्रैव याज्या - आ न इति त्रिष्टुप् ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/043/11_A_no.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/043/11_A_no.md">
 <details open><summary><h5>११ आ नो ...{Loading}...</h5></summary>
 
 आ᳓ नो दिवो᳓ बृहतः᳓ प᳓र्वताद्  
@@ -360,7 +368,8 @@ Es schirm der Andacht Schirmerin Sarasvati, die Göttin uns, Mit Kräften sie, d
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/043/11_A_no.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/043/11_A_no.md">
 <details open><summary><h5>011 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -703,7 +712,8 @@ Zu unserm Opfer komme her vom Himmel, vom hohen Berg Sarasvati, die hehre; Die b
 
 5अथ तत्रैव 'बार्हस्पत्यश्चरुः' इत्येतस्य पुरोनुवाक्या - बृहस्पत इति गायत्री ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/04_bRhaspate_juShasva.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/04_bRhaspate_juShasva.md">
 <details open><summary><h5>०४ बृहस्पते जुषस्व ...{Loading}...</h5></summary>
 
 बृ᳓हस्पते **जुष᳓स्व** नो  
@@ -712,7 +722,8 @@ Zu unserm Opfer komme her vom Himmel, vom hohen Berg Sarasvati, die hehre; Die b
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/04_bRhaspate_juShasva.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/04_bRhaspate_juShasva.md">
 <details open><summary><h5>004 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -930,11 +941,13 @@ Nimm, unsre Opfer gnädig an mit allen Göttern, Andachtsherr, Gib Schätze dem 
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6तत्रैव याज्या - एवा पित्र इति त्रिष्टुप् ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/050/06_evA_pitre.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/050/06_evA_pitre.md">
 <details open><summary><h5>०६ एवा पित्रे ...{Loading}...</h5></summary>
 
 एवा᳓ पित्रे᳓ विश्व᳓-देवाय वृ᳓ष्णे  
@@ -944,7 +957,8 @@ Nimm, unsre Opfer gnädig an mit allen Göttern, Andachtsherr, Gib Schätze dem 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/050/06_evA_pitre.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/050/06_evA_pitre.md">
 <details open><summary><h5>006 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -1235,7 +1249,7 @@ So lasst dem Stier, dem Vater aller Götter, voll Demuth uns durch Tränk' und O
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (बृहस्पते) बड़ों के पालन करनेवाले जैसे हम लोग (यज्ञैः) मिले हुए कर्मों से (विश्वदेवाय) संसार के प्रकाशक (वृष्णे) वृष्टि करने और (पित्रे) पालन करनेवाले के लिये (नमसा) सत्कार वा अन्न आदि से (हविर्भिः) ग्रहण करने योग्य उपदेश वा द्रव्यों से (विधेम) करें और अर्थात् क्रिया विधान करें तथा (सुप्रजाः) विद्या और विनयवाली श्रेष्ठ प्रजाओं से युक्त (वीरवन्तः) वीर पुत्रोंवाले (वयम्) हम लोग (रयीणाम्) धनों के (पतयः) स्वामी (स्याम) होवें (एवा) वैसे ही आप हूजिये ॥६॥
+पदार्थान्वयभाषाः -  हे (बृहस्पते) बड़ों के पालन करनेवाले जैसे हम लोग (यज्ञैः) मिले हुए कर्मों से (विश्वदेवाय) संसार के प्रकाशक (वृष्णे) वृष्टि करने और (पित्रे) पालन करनेवाले के लिये (नमसा) सत्कार वा अन्न आदि से (हविर्भिः) ग्रहण करने योग्य उपदेश वा द्रव्यों से (विधेम) करें और अर्थात् क्रिया विधान करें तथा (सुप्रजाः) विद्या और विनयवाली श्रेष्ठ प्रजाओं से युक्त (वीरवन्तः) वीर पुत्रोंवाले (वयम्) हम लोग (रयीणाम्) धनों के (पतयः) स्वामी (स्याम) होवें (एवा) वैसे ही आप हूजिये ॥६॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
@@ -1269,11 +1283,13 @@ So lasst dem Stier, dem Vater aller Götter, voll Demuth uns durch Tränk' und O
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7तत्रैव याज्या विकल्प्यते - बृहस्पत इपि त्रिष्टुप् ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/023/15_bRhaspate_ati.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/023/15_bRhaspate_ati.md">
 <details open><summary><h5>१५ बृहस्पते अति ...{Loading}...</h5></summary>
 
 बृ᳓हस्-पते **अ᳓ति** य᳓द् अर्यो᳓ **अ᳓र्हाद्**  
@@ -1283,7 +1299,8 @@ So lasst dem Stier, dem Vater aller Götter, voll Demuth uns durch Tränk' und O
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/023/15_bRhaspate_ati.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/023/15_bRhaspate_ati.md">
 <details open><summary><h5>015 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -1593,7 +1610,7 @@ Brihaspati, was recht dem Frommen werth gilt, was glänzend strahlt und wirksam 
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (तप्रजात) सत्याचरण में प्रकट (बृहस्पते) बड़ों के पालनेवाले विद्वान् (यत्) जो (अर्यः) ईश्वर (जनेषु) मनुष्यों में (अर्हात्) योग्य व्यवहार से (द्युमत्) प्रकाशवान् (क्रतुमत्) प्रशंसित प्रज्ञायुक्त वा (शवसा) बल से (यत्) जो (दीदयत्) प्रकाशकर्त्ता (अति,विभाति) अतीव प्रकाशित होता है (तत्) उस (चित्रम्) अद्भुत (द्रविणम्) धन को (अस्मासु) हम लोगों में (धेहि) स्थापन कीजिये ॥१५॥
+पदार्थान्वयभाषाः -  हे (तप्रजात) सत्याचरण में प्रकट (बृहस्पते) बड़ों के पालनेवाले विद्वान् (यत्) जो (अर्यः) ईश्वर (जनेषु) मनुष्यों में (अर्हात्) योग्य व्यवहार से (द्युमत्) प्रकाशवान् (क्रतुमत्) प्रशंसित प्रज्ञायुक्त वा (शवसा) बल से (यत्) जो (दीदयत्) प्रकाशकर्त्ता (अति,विभाति) अतीव प्रकाशित होता है (तत्) उस (चित्रम्) अद्भुत (द्रविणम्) धन को (अस्मासु) हम लोगों में (धेहि) स्थापन कीजिये ॥१५॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
@@ -1633,7 +1650,8 @@ Brihaspati, was recht dem Frommen werth gilt, was glänzend strahlt und wirksam 
 
 8'मैत्रावरुणमेककपालं निर्वपेद्वशायै काले' इत्यस्य पुरोनुवाक्या - आ न इति गायत्री ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/16_A_no.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/16_A_no.md">
 <details open><summary><h5>१६ आ नो ...{Loading}...</h5></summary>
 
 आ᳓ नो मित्रा-वरुणा  
@@ -1642,7 +1660,8 @@ Brihaspati, was recht dem Frommen werth gilt, was glänzend strahlt und wirksam 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/16_A_no.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/16_A_no.md">
 <details open><summary><h5>016 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -1890,11 +1909,13 @@ Benetzt, o Mitra-Varuna, mit Butter unsern Weideplatz, Mit Meth die Räume, Tref
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9तत्रैव याज्या - प्र बाहवेति त्रिष्टुप् ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/062/05_pra_bAhavA.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/062/05_pra_bAhavA.md">
 <details open><summary><h5>०५ प्र बाहवा ...{Loading}...</h5></summary>
 
 प्र᳓ बाह᳓वा+++(=बाहू)+++! **सिसृतं** जीव᳓से न  
@@ -1904,7 +1925,8 @@ Benetzt, o Mitra-Varuna, mit Butter unsern Weideplatz, Mit Meth die Räume, Tref
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/062/05_pra_bAhavA.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/062/05_pra_bAhavA.md">
 <details open><summary><h5>005 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2203,7 +2225,7 @@ O streckt die Arme vor, damit wir leben, besprengt mit fetter Nahrung unsre Wies
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (मित्रावरुणा) हे प्राणपानरूप वायो ! आप (नः) हमारे (जीवसे) जीवन के लिए (प्र) विशेषता से (बाहवा, सिसृतम्) प्राणापानरूप शक्ति को विस्तारित करें (आ) और (नः) हमारी (गव्यूतिम्) इन्द्रियों को (घृतेन, उक्षतम्) अपनी स्निग्धता से सुमार्ग में सिञ्चित करें, हे प्राणापान ! आप नित्य (युवाना) युवावस्था को प्राप्त हैं, इसलिए (नः, जने) हमारे जैसे मनुष्यों में (श्रवयतम्) ज्ञानगति बढ़ायें (आ) और (मे) हमारी (हवा, इमा) इन प्राणापानरूप आहुतियों को (श्रुतम्) प्रवाहित करें॥५॥
+पदार्थान्वयभाषाः -  (मित्रावरुणा) हे प्राणपानरूप वायो ! आप (नः) हमारे (जीवसे) जीवन के लिए (प्र) विशेषता से (बाहवा, सिसृतम्) प्राणापानरूप शक्ति को विस्तारित करें (आ) और (नः) हमारी (गव्यूतिम्) इन्द्रियों को (घृतेन, उक्षतम्) अपनी स्निग्धता से सुमार्ग में सिञ्चित करें, हे प्राणापान ! आप नित्य (युवाना) युवावस्था को प्राप्त हैं, इसलिए (नः, जने) हमारे जैसे मनुष्यों में (श्रवयतम्) ज्ञानगति बढ़ायें (आ) और (मे) हमारी (हवा, इमा) इन प्राणापानरूप आहुतियों को (श्रुतम्) प्रवाहित करें॥५॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
@@ -2234,7 +2256,8 @@ O streckt die Arme vor, damit wir leben, besprengt mit fetter Nahrung unsre Wies
 
 10अत्र मैत्रावरुणसोमारौद्रयोर्मध्ये कर्मान्तरं न श्रूयते, तेन लिङ्गक्रमाभ्यां याज्यार्थतायामसत्यां सोमारौद्रादिषु सामिधेन्यादिषु इतः परं काश्चिदृचो विनियुज्यन्ते ; यथासम्भवं  द्रष्टव्याः । 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/031/14_agniM_vaH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/031/14_agniM_vaH.md">
 <details open><summary><h5>१४ अग्निं वः ...{Loading}...</h5></summary>
 
 +++(ऋत्विग्यजमानाः!)+++  
@@ -2245,7 +2268,8 @@ O streckt die Arme vor, damit wir leben, besprengt mit fetter Nahrung unsre Wies
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/031/14_agniM_vaH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/031/14_agniM_vaH.md">
 <details open><summary><h5>014 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2474,7 +2498,8 @@ Den Agni preise ich zuerst mit Lied, den Gott der Schätze gibt, den Hort des Fe
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/031/15_maxU_devavato.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/031/15_maxU_devavato.md">
 <details open><summary><h5>१५ मक्षू देववतो ...{Loading}...</h5></summary>
 
 मक्षू᳓+++(=शीघ्रम्)+++ देव᳓वतो +++(यज्वनो)+++ र᳓थः  
@@ -2485,7 +2510,8 @@ Den Agni preise ich zuerst mit Lied, den Gott der Schätze gibt, den Hort des Fe
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/031/15_maxU_devavato.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/031/15_maxU_devavato.md">
 <details open><summary><h5>015 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2777,7 +2803,8 @@ Des Frommen Wagen wie ein Held eilt schnell voran in jedem Kampf; Wer recht der 
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/031/16_na_yajamAna.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/031/16_na_yajamAna.md">
 <details open><summary><h5>१६ न यजमान ...{Loading}...</h5></summary>
 
 न᳓ यजमान रिष्यसि  
@@ -2787,7 +2814,8 @@ Des Frommen Wagen wie ein Held eilt schnell voran in jedem Kampf; Wer recht der 
 अभी᳓द् अ᳓यज्वनो भुवत्
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/031/16_na_yajamAna.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/031/16_na_yajamAna.md">
 <details open><summary><h5>016 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -3068,7 +3096,8 @@ Nicht trifft dich Schaden, Opferer, nicht Somapresser, Frommer dich; Wer recht d
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/031/18_asadatra_suvIryamuta.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/031/18_asadatra_suvIryamuta.md">
 <details open><summary><h5>१८ असदत्र सुवीर्यमुत ...{Loading}...</h5></summary>
 
 **अ᳓सद्** अ᳓त्र सुवी᳓र्यम्  
@@ -3079,7 +3108,8 @@ Nicht trifft dich Schaden, Opferer, nicht Somapresser, Frommer dich; Wer recht d
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/031/18_asadatra_suvIryamuta.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/031/18_asadatra_suvIryamuta.md">
 <details open><summary><h5>018 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -3372,7 +3402,8 @@ Bei ihm muss Heldenfülle sein und schneller Rosse Vollbesitz; Wer recht der Gö
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/031/17_nakiShTaM_karmaNA.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/031/17_nakiShTaM_karmaNA.md">
 <details open><summary><h5>१७ नकिष्टं कर्मणा ...{Loading}...</h5></summary>
 
 **न᳓किष्** टं᳓ क᳓र्मणा **नशन्**  
@@ -3383,7 +3414,8 @@ Bei ihm muss Heldenfülle sein und schneller Rosse Vollbesitz; Wer recht der Gö
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/031/17_nakiShTaM_karmaNA.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/031/17_nakiShTaM_karmaNA.md">
 <details open><summary><h5>017 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -3687,7 +3719,8 @@ Niemand verletzet durch sein Thun, noch scheucht er den, noch wehrt ihn ab; Wer 
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/125/04_upa_xaranti.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/125/04_upa_xaranti.md">
 <details open><summary><h5>०४ उप क्षरन्ति ...{Loading}...</h5></summary>
 
 **उ᳓प क्षरन्ति** सि᳓न्धवो मयो-भु᳓व  
@@ -3697,7 +3730,8 @@ Niemand verletzet durch sein Thun, noch scheucht er den, noch wehrt ihn ab; Wer 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/125/04_upa_xaranti.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/125/04_upa_xaranti.md">
 <details open><summary><h5>004 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -4025,20 +4059,23 @@ Es rinnen lustbringende Ströme, die Milchtränke, hin zu dem, der geopfert hat,
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15'यो ब्रह्मवर्चसकामस्स्यात्तस्मा एतं सोमारौद्रं चरुं निर्वपेत्' इत्यस्य पुरोनुवाक्या - सोमारुद्रा वि वृहतमिति त्रिष्टुप् ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/04_somArudrA_vi.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/04_somArudrA_vi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-सोमा॑-रुद्रा॒ **वि वृ॑हतं॒**+++(←वृहू उद्यमने)+++ विषू॑ची॒म्+++(=विष्वग्गमनाम्)+++  
-अमी॑वा॒+++(=रोगः)+++ या नो॒ गय॑म्+++(=गृहं)+++ **आवि॒वेश॑** ।  
-आ॒रे+++(=दूरे)+++ **बा॑धेथां॒** निरृ॑तिं परा॒चैरᳵ  
-**कृ॒तञ्** चि॒द् एन॒ᳶ **प्रमु॑मुक्तम्** अ॒स्मत्  ॥
+सो᳓मा-रुद्रा **वि᳓ वृहतं**+++(←वृहू उद्यमने)+++ वि᳓षूचीम्+++(=विष्वग्गमनाम्)+++  
+अ᳓मीवा+++(=रोगः)+++ या᳓ नो ग᳓यम्+++(=गृहं)+++ **आविवे᳓श** ।  
+आरे᳓+++(=दूरे)+++ **बाधेथां** नि᳓रृतिं पराचै᳓रᳵ᳓  
+**कृत᳓ञ्** चिद् ए᳓नᳶ **प्र᳓मुमुक्तम्** अस्म᳓त्  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/04_somArudrA_vi.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/04_somArudrA_vi.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -4062,11 +4099,13 @@ Whatever sin we have done remove from us.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16तत्रैव याज्या - 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/074/03_somArudrA_yuvametAnyasme.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/074/03_somArudrA_yuvametAnyasme.md">
 <details open><summary><h5>०३ सोमारुद्रा युवमेतान्यस्मे ...{Loading}...</h5></summary>
 
 सो᳓मा-रुद्रा युव᳓म् एता᳓न्य् अस्मे᳓  
@@ -4076,7 +4115,8 @@ Whatever sin we have done remove from us.
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/074/03_somArudrA_yuvametAnyasme.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/074/03_somArudrA_yuvametAnyasme.md">
 <details open><summary><h5>003 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -4390,7 +4430,7 @@ O Soma-Rudra, alle Arzeneien, die wohlbekannten, legt in unsre Leiber; Macht fre
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (सोमारुद्रा) यज्ञ से शुद्ध किये हुए सोमलता और वायु के समान राजा और वैद्यो ! (युवम्) तुम (यत्) जो (नः) हमारे (तनूषु) शरीरों में (कृतम्) किया हुआ और (बद्धम्) लगा हुआ (एनः) कुपथ्यादि या अपराध (अस्ति) है उसे (अस्मत्) हम से (मुञ्चतम्) छुड़ाओ और हमारे रोगों को (अवस्यतम्) नष्ट करो तथा (अस्मे) हमारे (तनूषु) शरीरों में (विश्वा) समस्त (एतानि) ये (भेषजानि) औषधें (धत्तम्) स्थापन करो ॥३॥
+पदार्थान्वयभाषाः -  हे (सोमारुद्रा) यज्ञ से शुद्ध किये हुए सोमलता और वायु के समान राजा और वैद्यो ! (युवम्) तुम (यत्) जो (नः) हमारे (तनूषु) शरीरों में (कृतम्) किया हुआ और (बद्धम्) लगा हुआ (एनः) कुपथ्यादि या अपराध (अस्ति) है उसे (अस्मत्) हम से (मुञ्चतम्) छुड़ाओ और हमारे रोगों को (अवस्यतम्) नष्ट करो तथा (अस्मे) हमारे (तनूषु) शरीरों में (विश्वा) समस्त (एतानि) ये (भेषजानि) औषधें (धत्तम्) स्थापन करो ॥३॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
@@ -4431,7 +4471,8 @@ O Soma-Rudra, alle Arzeneien, die wohlbekannten, legt in unsre Leiber; Macht fre
 
 17यदि बिभीयद्दुश्चर्मा भविष्यामीति सोमापौष्णं चरुं निर्वपेत्' इत्यस्य पुरोनुवाक्या - सोमापूषणेति त्रिष्टुप् ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/040/01_somApUShaNA_jananA.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/040/01_somApUShaNA_jananA.md">
 <details open><summary><h5>०१ सोमापूषणा जनना ...{Loading}...</h5></summary>
 
 सो᳓मा-पूषणा **ज᳓नना** रयीणां᳓  
@@ -4441,7 +4482,8 @@ O Soma-Rudra, alle Arzeneien, die wohlbekannten, legt in unsre Leiber; Macht fre
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/040/01_somApUShaNA_jananA.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/040/01_somApUShaNA_jananA.md">
 <details open><summary><h5>001 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -4763,11 +4805,13 @@ x
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18तत्रैव याज्या - 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/040/02_imau_devau.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/040/02_imau_devau.md">
 <details open><summary><h5>०२ इमौ देवौ ...{Loading}...</h5></summary>
 
 इमौ᳓ देवौ᳓ **जा᳓यमानौ जुषन्त**+  
@@ -4777,7 +4821,8 @@ x
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/040/02_imau_devau.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/040/02_imau_devau.md">
 <details open><summary><h5>002 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 

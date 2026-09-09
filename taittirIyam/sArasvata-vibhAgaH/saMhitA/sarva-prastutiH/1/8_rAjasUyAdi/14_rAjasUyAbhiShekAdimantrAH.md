@@ -1,6 +1,5 @@
 +++
 title = "१४ राजसूयाभिषेकादिमन्त्राः"
-
 +++
 ६ महापङ्क्तिः
 १०, १२ त्रिष्टुप्
@@ -13,8 +12,8 @@ title = "१४ राजसूयाभिषेकादिमन्त्र�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑स्य॒ त्विषि॑र् असि॒  
-तवे॑व मे॒ त्विषि॑र् भूयात्  ।
+सो᳓मस्य त्वि᳓षिर् असि  
+त᳓वेव मे त्वि᳓षिर् भूयात्  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -39,8 +38,8 @@ Thou art the glittering of Soma; as thine may my glittering be.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒मृत॑म् असि  
-मृ॒त्योर् मा॑ पाहि ।
+अमृ᳓तम् असि,  
+मृत्यो᳓र् मा पाहि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -66,7 +65,7 @@ Thou art ambrosia; from death protect me.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि॒द्योन्+++(→विद्युतः)+++ मा॑ पा॒हि ।
+दिद्यो᳓न्+++(→विद्युतः)+++ मा पाहि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -76,7 +75,7 @@ From the thunderbolt protect me.
 
 <details><summary>मूलम्</summary>
 
-दि॒द्योन्मा॑ पा॒हि ।
+दि॒द्योन्मा॑ पाहि ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -96,7 +95,7 @@ From the thunderbolt protect me.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अवे॑ष्टा+++(←यज्)+++ दन्द॒शूकाः॑ ।
+अ᳓वेष्टा+++(←यज्)+++ दन्दशू᳓काः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -121,7 +120,7 @@ Propitiated are biting flies.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर॑स्त॒न् नमु॑चे॒श् शिरः॑  ॥
+नि᳓रस्तन् न᳓मुचेश् शि᳓रः  ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -143,18 +142,20 @@ Cast away is Namuci's head.
 
 6अभिषेकानवेक्षते - सोम इति षट्पदया त्रिष्टुभा ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-सोमो॒ राजा॒ वरु॑णो   
-दे॒वा ध॑र्म॒-सुव॑श् च॒ ये ।    
-ते ते॒ वाचँ॑ सुवन्तां॒    
-ते ते॑ प्रा॒णँ सु॑वन्तां॒  
-ते ते॒ चक्षु॑स् सुवन्तां॒   
-ते ते॒ श्रोत्रँ॑ सुवन्ताम् ॥
+सो᳓मो रा᳓जा व᳓रुणो   
+देवा᳓ धर्म-सु᳓वश् च ये᳓ ।    
+ते᳓ ते वा᳓चँ सुवन्तां    
+ते᳓ ते प्राणँ᳓ सुवन्तां  
+ते᳓ ते च᳓क्षुस् सुवन्तां   
+ते᳓ ते श्रो᳓त्रँ सुवन्ताम् ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -173,6 +174,7 @@ Soma, king Varuna, and the gods which instigate righteousness, may they instigat
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7अध्वर्युर् अभिषिञ्चति - सोमस्येति ॥ 
@@ -180,11 +182,11 @@ Soma, king Varuna, and the gods which instigate righteousness, may they instigat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑स्य त्वा **द्यु॒म्नेना॒भिषि॑ञ्चाम्य्**  
-अ॒ग्नेस् तेज॑सा॒  
-सूर्य॑स्य॒ वर्च॒सेन्द्र॑स्येन्द्रि॒येण॑  
-मि॒त्रावरु॑णयोर् वी॒र्ये॑ण  
-म॒रुता॒म् ओज॑सा      
+सो᳓मस्य त्वा **द्युम्ने᳓नाभि᳓षिञ्चाम्य्**  
+अग्ने᳓स् ते᳓जसा  
+सू᳓र्यस्य व᳓र्चसे᳓न्द्रस्येन्द्रिये᳓ण  
+मित्रा᳓व᳓रुणयोर् वीर्ये᳙ण  
+मरु᳓ताम् ओ᳓जसा      
 </details>
 
 <details><summary>Keith</summary>
@@ -205,8 +207,8 @@ With the glory of Soma I besprinkle thee, with the brilliance of Agni [1], with 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्ष॒त्त्राणा॑ङ् क्ष॒त्त्र-प॑तिर् असि  ।  
-अति॑ दि॒वस् पा॑हि   ।
+क्षत्त्रा᳓णाङ् क्षत्त्र᳓-पतिर् असि  ।  
+अ᳓ति दिव᳓स् पाहि   ।
 </details>
 
 <details><summary>Keith</summary>
@@ -229,17 +231,19 @@ Protect from the sky.
 
 8ऊर्ध्वं धारास्समुन्मार्ष्टि - समाववृत्रन्निति त्रिष्टुभा ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-**स॒माव॑वृत्रन्न्**+++(←वृत्)+++ अध॒राग् उदी॑ची॒र्  
-अहि॑म् +++(मेरु-)+++बु॒ध्निय॒म् अनु॑ **स॒ञ्चर॑न्तीः** ।    
-ताᳶ +++(axis-मेरु-)+++पर्व॑तस्य वृष॒भस्य॑+++(→मेघस्य)+++ पृ॒ष्ठे  
-नाव॑श्+++(→आपः)+++ **चरन्ति स्व॒-सिच॑+++(←सिच्)+++ इया॒नाः**  ॥   
+**समा᳓ववृत्रन्न्**+++(←वृत्)+++ अधरा᳓ग् उ᳓दीचीर्  
+अ᳓हिम् +++(मेरु-)+++बुध्नि᳓यम् अ᳓नु **सञ्च᳓रन्तीः** ।    
+ताᳶ᳓ +++(axis-मेरु-)+++प᳓र्वतस्य वृषभ᳓स्य+++(→मेघस्य)+++ पृष्ठे᳓  
+ना᳓वश्+++(→आपः)+++ **चरन्ति स्व-सि᳓च+++(←सिच्)+++ इयानाः᳓**  ॥   
 +++(अत्रापः कर्म-प्रवाह-रूपाः, यथैव [Socrates in Phaedo](/AgamaH/AryaH/mediterranian/platonism/plato/phaedo/))+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -266,6 +270,7 @@ The ships that pour spontaneously go ever.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9आग्नीध्रे प्ररेकं जुहोति - रुद्र यत्त इति ॥ 
@@ -273,9 +278,9 @@ The ships that pour spontaneously go ever.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रुद्र॒ यत्ते॒ क्रयी॒ परं॒ नाम॒  
-तस्मै॑ हु॒तम् **अ॑सि**।  
-य॒मेष्ट॑म्+++(=यमेन इष्टम् ←यज्)+++ असि ।  
+रु᳓द्र य᳓त्ते क्र᳓यी प᳓रं ना᳓म  
+त᳓स्मै हुत᳓म् **असि**।  
+यमे᳓ष्टम्+++(=यमेन इष्टम् ←यज्)+++ असि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -302,7 +307,8 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 
 10युवराजस्य प्रतिहितस्य गृहे जुहोति - प्रजापत इति त्रिष्टुभा ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
 <details open><summary><h2>१० प्रजापते न ...{Loading}...</h2></summary>
 
 प्र᳓जापते न᳓ त्व᳓द् +++(विश्वा जातानि→)+++ एता᳓न्य् अन्यो᳓  
@@ -311,7 +317,8 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म्॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
 <details open><summary><h2>010 ...{Loading}...</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 

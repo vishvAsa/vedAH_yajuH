@@ -1,6 +1,5 @@
 +++
 title = "१६ विजयाद् ऊर्ध्वम् उपवेशनादि - मन्त्राः"
-
 +++
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -18,7 +17,7 @@ title = "१६ विजयाद् ऊर्ध्वम् उपवेश�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रो॑ऽसि ।   
+मित्रो᳙ऽसि ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -43,7 +42,7 @@ Thou art Mitra
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरु॑णोऽसि ।
+व᳓रुणोऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -68,7 +67,7 @@ thou art Varuna.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् अ॒हव्ँ विश्वै॑र् दे॒वैः।
+स᳓म् अहव्ँ᳓ वि᳓श्वैर् देवैः᳓।
 </details>
 
 <details><summary>Keith</summary>
@@ -93,7 +92,7 @@ May I be united with the All-gods.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्ष॒त्त्रस्य॒ नाभि॑रसि ।
+क्षत्त्र᳓स्य ना᳓भिरसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -118,7 +117,7 @@ Thou art the navel of kingly power,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्ष॒त्त्रस्य॒ योनि॑र् असि ।
+क्षत्त्र᳓स्य यो᳓निर् असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -143,10 +142,10 @@ thou are the womb of kingly power.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्यो॒नाम् आ सी॑द ।   
-सु॒षदा॒म् आ सी॑द ।    
-मा त्वा॑ हिँसीत् ।  
-मा मा॑ हिँसीः ।  
+स्योना᳓म् आ᳓ सीद ।   
+सुष᳓दाम् आ᳓ सीद ।    
+मा᳓ त्वा हिँसीत् ।  
+मा᳓ मा हिँसीः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -173,15 +172,17 @@ May she hurt thee not; may she hurt me not.
 
 7अनुमन्त्र्यमाणम् आसन्नम् अभिमन्त्रयते - निषसादेति गायत्र्या त्रिपदया ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/02_niShasAda_dhRtavrato.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/02_niShasAda_dhRtavrato.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-**निष॑साद** धृ॒त-व्र॑तो॒  
-वरु॑णᳶ प॒स्त्या॑स्व्+++(=गृहेषु|अप्सु)+++ आ ।  
-साम्रा॑ज्याय सु॒-क्रतुः॑॥
+**नि᳓षसाद** धृत᳓-व्रतो  
+व᳓रुणᳶ पस्त्या᳙स्व्+++(=गृहेषु|अप्सु)+++ आ ।  
+सा᳓म्राज्याय सु-क्र᳓तुः॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/02_niShasAda_dhRtavrato.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/02_niShasAda_dhRtavrato.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -205,12 +206,14 @@ In the waters, with keen insight, for lordship.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अथ ऋत्विक्षु च सर्वतः पर्युपविष्टेषु  
 अध्वर्युं राजाभिमन्त्रयते - ब्रह्मा3न् इति ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
 <details open><summary><h5>ब्रह्मान् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -233,6 +236,7 @@ O Brahman!
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9अध्वर्युः प्रत्याह - त्वमिति ॥ 
@@ -240,8 +244,8 @@ O Brahman!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वँ रा॑जन् ब्र॒ह्मा ऽसि॑ ।   
-सवि॒ता ऽसि॑ स॒त्य-स॑वः ।   
+त्वँ᳓ राजन् ब्रह्मा᳓ ऽसि ।   
+स᳓विता᳓ ऽसि सत्य᳓-सवः ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -264,7 +268,8 @@ Thou, O king, art the Brahman priest, thou art Savitr of true instigation.
 
 10अथ ब्रह्माणमाम् अन्त्रयते - ब्रह्मा3न् इति ॥ व्याख्यातम् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
 <details open><summary><h5>ब्रह्मान् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -287,6 +292,7 @@ O Brahman!
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11ब्रह्मा प्रत्याह - त्वमिति ॥ 
@@ -294,8 +300,8 @@ O Brahman!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वँ रा॑जन् ब्र॒ह्माऽसि॑।    
-इन्द्रो॑ऽसि स॒त्यौजाः॑ [31]
+त्वँ᳓ राजन् ब्रह्मा᳓ऽसि।    
+इ᳓न्द्रोऽसि सत्यौ᳓जाः [31]
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -318,7 +324,8 @@ Thou, O king, art the Brahman priest, thou art Indra of true force [1].
 
 12होतारमामन्त्रयते - ब्रह्मा3न् इति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
 <details open><summary><h5>ब्रह्मान् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -341,6 +348,7 @@ O Brahman!
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13स प्रत्याह - त्वमिति ॥ 
@@ -348,8 +356,8 @@ O Brahman!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वँ रा॑जन् ब्र॒ह्माऽसि॑ ।   
-मि॒त्रो॑ऽसि सु॒-शेवः॑ ।
+त्वँ᳓ राजन् ब्रह्मा᳓ऽसि ।   
+मित्रो᳙ऽसि सु-शे᳓वः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -367,7 +375,8 @@ Thou, O king, art the Brahman priest; thou art Mitra, the kindly.
 
 हे राजन् त्वमेव ब्रह्मासि, यतो मित्रोसि शर्वस्य हिंसाभ्यस्त्रातासि । सुशेवस्सुसुखः । 'आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
 <details open><summary><h5>ब्रह्मान् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -390,11 +399,13 @@ O Brahman!
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14उद्गातारमामन्त्रयते - ब्रह्मा3न् इति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
 <details open><summary><h5>ब्रह्मान् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -417,6 +428,7 @@ O Brahman!
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15 स प्रत्याह - त्वमिति ॥ 
@@ -424,8 +436,8 @@ O Brahman!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वँ रा॑जन् ब्र॒ह्माऽसि॒,  
-वरु॑णोऽसि स॒त्य-ध॑र्मा  ।
+त्वँ᳓ राजन् ब्रह्मा᳓ऽसि,  
+व᳓रुणोऽसि सत्य᳓-धर्मा  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -447,12 +459,13 @@ Thou, O king, art the Brahman priest; thou art Varuna, of true rule.
 
 16ब्रह्मा स्फ्यं राज्ञे प्रयच्छति - इन्द्रस्येति ॥ व्याख्यातम् ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
 <details open><summary><h5>इन्द्र॑स्य॒ वज्रो॑ऽसि॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य॒ वज्रो॑ऽसि॒,  
-वार्त्र॑घ्नः ।
+इ᳓न्द्रस्य व᳓ज्रोऽसि,  
+वा᳓र्त्रघ्नः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -478,9 +491,10 @@ ______________
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेन॑ मे रध्य
+ते᳓न मे रध्य
 </details>
 
 <details><summary>Keith</summary>
@@ -505,7 +519,7 @@ with this subject to me.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दिशो॒ ऽभ्य् अ॑यँ राजा॑ **ऽभूत्** ।
+दि᳓शो ऽभ्य् अ᳙यँ᳓ रा᳓जा **ऽभूत्** ।
 </details>
 
 <details><summary>Keith</summary>
@@ -530,7 +544,7 @@ This king hath surmounted the quarters.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु-श्लो॒काँ४ सुम॑ङ्ग॒लाँ४ सत्य॑-रा॒जा३न् ।
+सु᳓-श्लोकाँ᳓४ सु᳓मङ्गलाँ᳓४ स᳓त्य-राजा᳓३न् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -557,7 +571,7 @@ O thou of true rule!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पान् नप्त्रे॒ स्वाहा॑ ।
+अपा᳓न् न᳓प्त्रे स्वा᳓हा ।
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -582,7 +596,7 @@ To the son of the waters hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्जो नप्त्रे॒ स्वाहा॑ ।
+ऊर्जो᳓ न᳓प्त्रे स्वा᳓हा ।
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -605,11 +619,12 @@ To the son of strength hail!
 21पुनरेत्य गार्हपत्ये जुहोति - अग्नये गृहपतये स्वाहेति । गतम् ॥  
 अष्टमे षोडशोनुवाकः ॥  
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/15_rathena_digvijayArthaM_mantrAH/agnaye_gRhapataye_svAhA.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/15_rathena_digvijayArthaM_mantrAH/agnaye_gRhapataye_svAhA.md">
 <details open><summary><h5>अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा॑ ।    ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा॑ ।   
+अग्न᳓ये गृह᳓-पतये स्वा᳓हा ।   
 </details>
 
 <details><summary>Keith</summary>
