@@ -14,8 +14,10 @@ title = "१५ रथेन दिग्विजयार्थं मन्�
 1रथमुपावहरति - इन्द्रस्येति ॥ व्याख्यातम् ॥
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si.md">
 <details open><summary><h5>इन्द्र॑स्य॒ वज्रो॑ऽसि॒ ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
 <details open><summary><h10>इन्द्र॑स्य॒ वज्रो॑ऽसि॒ ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -36,6 +38,11 @@ Thou art the bolt of Indra [2] slaying foes;
 
 इन्द्र॑स्य॒ वज्रो॑ऽसि॒  
 वार्त्र॑घ्नः ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । इन्द्र॑स्य । वज्रः॑ । अ॒सि॒ । वार्त्र॑घ्न॒ इति॒ वार्त्र॑-घ्नः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -63,6 +70,11 @@ with thee may he slay his foe.
 <details><summary>मूलम्</summary>
 
 त्वया॒ऽयव्ँवृ॒त्रव्ँव॑ध्यात्  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वया॑ । अ॒यम् । वृ॒त्रम् । व॒ध्या॒त् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -96,6 +108,11 @@ By the precept of Mitra and Varuna, the directors, I yoke thee with the yoking o
 मि॒त्रावरु॑णयोस्त्वा प्रशा॒स्त्रोᳶ प्र॒शिषा॑ युनज्मि य॒ज्ञस्य॒ योगे॑न ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+2B । मि॒त्रावरु॑णयो॒रिति॑ मि॒त्रा-वरु॑णयोः । त्वा॒ । प्र॒शा॒स्त्रोरिति॑ प्र-शा॒स्त्रोः । प्र॒शिषेति॑ प्र-शिषा॑ । यु॒न॒ज्मि॒ । य॒ज्ञस्य॑ । योगे॑न ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मित्रावरुणयोः प्रशास्त्रोः । औणादिकस्तृच्, तृच इडभावः । प्रशिषा प्रकृष्टेन शासनेनाज्ञया त्वां युनाज्मि । 'शास इदङ्हलोः' इतीत्वं, 'शासिवसिघसीनाम्' इति षत्वम् । यज्ञस्य योगेन हेतुना यज्ञे यथा युज्येतेति ॥
@@ -105,6 +122,7 @@ By the precept of Mitra and Varuna, the directors, I yoke thee with the yoking o
 
 3-5रथमभिप्रैति - विष्णोरित्यादि ॥ व्याख्यातम् ॥  
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md">
 <details open><summary><h5>विष्णोः क्रमः ...{Loading}...</h5></summary>
@@ -128,6 +146,11 @@ Thou art the stepping of Visnu,
 विष्णो॒ᳵ क्रमो॑ऽसि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+4G । विष्णोः॑ । क्रमः॑ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 विष्णोर्भगवत एव क्रमोसि गमनसाधनत्वात् । प्रकृष्टस्य विष्णोः क्रमरूपेण स्तूयते रथः विष्णोः क्रमवत् भविष्यसि जयहेतुरिति ।
@@ -148,6 +171,11 @@ thou art the step of Visnu,
 विष्णोः॑ क्रा॒न्तम॑सि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । क्रा॒न्तम् । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 विष्णोः क्रान्तमसि यत्पूर्वं विष्णुना कृतं क्रमणं, तदेव त्वमसि तद्वज्जयसाधनं भविष्यसि अस्माकम् ।
@@ -166,6 +194,11 @@ thou art the stride of Visnu.
 <details><summary>मूलम्</summary>
 
 विष्णो॒र्विक्रा॑न्तमसि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । विक्रा॑न्त॒मिति॒ वि-क्रा॒न्त॒म् । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -195,6 +228,11 @@ On the instigation of the Maruts may I conquer.
 म॒रुता॑म्प्रस॒वे जे॑षम्।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+4D । म॒रुता॑म् । प्र॒स॒व इति॑ प्र-स॒वे । जे॒ष॒म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मरुतां प्रसवे अनुज्ञायां सत्यां मरुद्भिरेवाहं जेषं जीयासं शत्रून् । जयतेर्लेटि 'सिब्बहुलं लेटि' इत्यडागमः, इतश्च लोपः ॥
@@ -219,6 +257,11 @@ May I be united with power and strength.
 <details><summary>मूलम्</summary>
 
 आ॒प्तम्मनः॑, सम॒हमि॑न्द्रि॒येण॑ वी॒र्ये॑ण ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+5E । आ॒प्तम् । मनः॑ । 6F । समिति॑ । अ॒हम् । इ॒न्द्रि॒येण॑ । वी॒र्ये॑ण ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -250,6 +293,11 @@ Thou art the spirit of cattle; like them may my spirit be.
 पशू॒नाम्म॒न्युर॑सि॒ तवे॑व मे म॒न्युर्भू॑यात् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+7G । प॒शू॒नाम् । म॒न्युः । अ॒सि॒ । तव॑ । इ॒व॒ । मे॒ । म॒न्युः । भू॒या॒त् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पशूनां मन्युर्दीप्तिरसि क्रोधजन्मा गृह्यते । प्रकृतिशब्देन विकार उच्यते 'पशूनां वा एष मन्युः । यद्वराहः' इति च ब्राह्मणम् । 'नामन्यतरस्याम्' इति नाम उदात्तत्वम् । तवेव ममापि मन्युर्भूयात् दीप्तिमान् स्याम् ॥
@@ -273,6 +321,11 @@ Homage to mother earth;
 <details><summary>मूलम्</summary>
 
 नमो॑ मा॒त्रे पृ॑थि॒व्यै ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+8 । नमः॑ । मा॒त्रे । पृ॒थि॒व्यै ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -302,6 +355,11 @@ may I not harm mother earth [1]; may mother earth harm me not.
 मा [29] माम्मा॒ता पृ॑थि॒वी हिँ॑सीत् ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मा । अ॒हम् । मा॒तर॑म् । पृ॒थि॒वीम् । हिँ॒सि॒ष॒म् । मा । 1 । माम् । मा॒ता । पृ॒थि॒वी । हिँ॒सी॒त् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मातरं पृथिवीं अहं मा हिंसिषं अनेन पादक्रमेण । न हि कश्चिन्मातरं हिनस्ति । पृथिवी च माता मा हिंसीत् । न हि कं चिदपि माता हिनस्ति ॥
@@ -325,6 +383,11 @@ So great art thou, thou art life, bestow life upon me;
 <details><summary>मूलम्</summary>
 
 इय॑द॒स्यायु॑र॒स्यायु॑र्मे धे॒हि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2I । इय॑त् । अ॒सि॒ । आयुः॑ । अ॒सि॒ । आयुः॑ । मे॒ । धे॒हि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -352,6 +415,11 @@ thou art strength, bestow strength upon me;
 
 ऊर्ग॑सि ।  
 ऊर्ज॑म्मे धेहि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऊर्क् । अ॒सि॒ । ऊर्ज॑म् । मे॒ । धे॒हि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -383,6 +451,11 @@ thou art the yoker; thou art radiance, bestow radiance upon me.
 वर्चो॒ मयि॑ धेहि ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+युङ्ङ् । अ॒सि॒ । वर्चः॑ । अ॒सि॒ । वर्चः॑ । मयि॑ । धे॒हि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 योजयतीति युङ्, युक्तो वा । सर्वत्र ऋत्विगादिना क्विन्, 'युजेरसमासे' इति नुम्, 'क्विन्प्रत्ययस्य' इति कुत्वम् । तस्मात्त्वं वर्चो दीप्तिरसि । दीप्त्या हि योग्यतां भजते तत्त्वं वर्चो मे धेहि स्थापय ॥
@@ -392,6 +465,7 @@ thou art the yoker; thou art radiance, bestow radiance upon me.
 
 14-17रथविमोचनीयं जुहोति - अग्नय इत्याद्याः ॥ 
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/15_rathena_digvijayArthaM_mantrAH/agnaye_gRhapataye_svAhA.md">
 <details open><summary><h5>अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा॑ ।    ...{Loading}...</h5></summary>
@@ -408,6 +482,11 @@ To Agni, lord of the house, hail!
 <details><summary>मूलम्</summary>
 
 अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा॑ ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+3K । अ॒ग्नये॑ । गृ॒हप॑तय॒ इति॑ गृ॒ह-प॒त॒ये॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -436,6 +515,11 @@ To Soma, lord of the forest, hail! To Indra's strength hail! To the Maruts' forc
 म॒रुता॒मोज॑से॒ स्वाहा॑।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3K । अ॒ग्नये॑ । गृ॒हप॑तय॒ इति॑ गृ॒ह-प॒त॒ये॒ । स्वाहा॑ । सोमा॑य । वन॒स्पत॑ये । स्वाहा॑ । इन्द्र॑स्य । बला॑य । स्वाहा॑ । म॒रुता॑म् । ओज॑से । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सोमाय वनानां वनप्रभवानां दारूणां पात्रे । 'इन्द्रस्य वज्रोसि' इत्युक्तं, तदात्मने मरुतामोजसे वेगाय ॥
@@ -445,6 +529,7 @@ To Soma, lord of the forest, hail! To Indra's strength hail! To the Maruts' forc
 
 18रथवाहने रथमादधाति - हंस इत्यतिजगत्या ॥ 'अतिच्छन्दसा दधाति' इत्यादि ब्राह्मणम् । 
 </details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
 <details open><summary><h5>01 हंसश् शुचिषद् ...{Loading}...</h5></summary>
@@ -456,12 +541,18 @@ To Soma, lord of the forest, hail! To Indra's strength hail! To the Maruts' forc
 </details>
 </div>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
 <details open><summary><h5>01 हंसश् शुचिषद् ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 हँ॒सश्शु॑चि॒षद्वसु॑रन्तरिक्ष॒सद्धोता॑ वेदि॒षदति॑थिर्दुरोण॒सत् ।  
 नृ॒षद्व॑र॒सदृ॑त॒सद्व्यो॑म॒सद॒ब्जा गो॒जा ऋ॑त॒जा अ॑द्रि॒जा ऋ॒तम्बृ॒हत् ॥ [30]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+4L । हँ॒सः । शु॒चि॒षदिति॑ शुचि-सत् । वसुः॑ । अ॒न्त॒रि॒क्ष॒सदित्य॑न्तरिक्ष-सत् । होता॑ । वे॒दि॒षदिति॑ वेदि-सत् । अति॑थिः । दु॒रो॒ण॒सदिति॑ दुरोण-सत् ॥ नृ॒षदिति॑ नृ-सत् । व॒र॒सदिति॑ वर-सत् । ऋ॒त॒सदित्यृ॑त-सत् । व्यो॒म॒सदिति॑ व्योम-सत् । अ॒ब्जा इत्य॑प्-जाः । गो॒जा इति॑ गो-जाः । ऋ॒त॒जा इत्यृ॑त-जाः । अ॒द्रि॒जा इत्य॑द्रि-जाः । ऋ॒तम् । बृ॒हत् ॥
 </details>
 
 <details><summary>Keith</summary>

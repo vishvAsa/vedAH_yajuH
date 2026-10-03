@@ -1,6 +1,5 @@
 +++
 title = "४६-४८ दक्षिणासङ्गतामन्त्राः (दाक्षिणहोमादिः)"
-
 +++
 १ गायत्री २-३ त्रिष्टुप् । सोमऋषिः
 
@@ -15,7 +14,9 @@ _______
 1अथ दाक्षिणं काण्डं सौम्यमेव । तत्र शौरीभ्याम् ऋग्भ्यां गार्हपत्ये जुहोति - उदुत्यमिति प्रथमा गायत्री, द्वितीया त्रिष्टुप् ॥  तत्र प्रथमा -
 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
+
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
 <details open><summary><h5>०१ उदु त्यं ...{Loading}...</h5></summary>
 
 उ᳓दु त्यं᳓ **जात᳓वेदसं**  
@@ -24,7 +25,9 @@ _______
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/01_udu_tyaM.md">
+
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/01_udu_tyaM.md">
 <details open><summary><h5>001 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -284,6 +287,7 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 </details>
 </details>
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'उदायुषा' इत्यत्र व्याख्याता । …  'सुवर्गाय वा एतानि लोकाय हूयन्ते यद्दाक्षिणानि' इत्यादि ब्राह्मणम् ॥
@@ -294,7 +298,9 @@ _______
 
 2अथ द्वितीया।  … 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
+
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
 <details open><summary><h5>०१ चित्रं देवानामुदगादनीकं ...{Loading}...</h5></summary>
 
 चित्रं᳓ देवा᳓नाम् **उ᳓दगाद्** अ᳓नीकं  
@@ -304,7 +310,9 @@ _______
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
+
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
 <details open><summary><h5>001 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -637,6 +645,7 @@ Es stieg empor der Götter lichtes Antlitz, das Auge Mitra's, Varuna's und Agni'
 </details>
 </details>
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ईदृशो भगवाननेन होमेनास्माकमभिमतं साधयत्विति ॥
@@ -647,7 +656,9 @@ _______
 
 3आग्नीध्रीये जुहोति - अग्ने नयेति त्रिष्टुभा ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/01_agne_naya.md">
+
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/01_agne_naya.md">
 <details open><summary><h5>०१ अग्ने नय ...{Loading}...</h5></summary>
 
 अ᳓ग्ने **न᳓य** सुप᳓था **राये᳓** अस्मा᳓न्  
@@ -657,7 +668,9 @@ _______
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/189/01_agne_naya.md">
+
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/189/01_agne_naya.md">
 <details open><summary><h5>001 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -1001,6 +1014,7 @@ Führ, Agni, uns auf schönem Pfad zum Reichthum der du, o Gott, die Werke alle 
 </details>
 </details>
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 व्याख्याता चेयं 'उभावाम्' इत्यत्र । 
@@ -1027,6 +1041,11 @@ Go to the sky, fly to heaven.
 दिव॑ङ्गच्छ॒ सुवᳶ॑ पत ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+4D । दिव॑म् । ग॒च्छ॒ । सुवः॑ । प॒त॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे हिरण्य दिवं गच्छ, दीप्तिं वा प्राप्नुहि । ततस्सुवरादित्यं पत गच्छ ॥
@@ -1037,14 +1056,18 @@ _______
 
 5दक्षिणा अभ्येति - रूपेणेति प्रथमया चतुर्दशाक्षरया ॥ 'अभ्यैमि वयसा वयः' इति द्वितीयः पादः । 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
+
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 रू॒पेण॑ [44] वो रू॒पम् ..  
 **अ॒भ्यैमि॒** वय॑सा॒ वयः॑ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
+
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -1055,6 +1078,11 @@ With my form [1] I approach your form; with my age your age.
 
 रू॒पेण॑ [44] वो रू॒पम् ..  
 अ॒भ्यैमि॒ वय॑सा॒ वयः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+5E । रू॒पेण॑ । 1 । वः॒ । रू॒पम् । अ॒भि । एति॑ । ए॒मि॒ । वय॑सा । वयः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1087,6 +1115,11 @@ May Tutha, all knowing, allot to you in the highest firmament.
 तु॒थो वो॑ वि॒श्ववे॑दा॒ वि भ॑जतु॒ वर्षि॑ष्ठे॒ अधि॒ नाके॑ ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+2F । तु॒थः । वः॒ । वि॒श्ववे॑दा॒ इति॑ वि॒श्व-वे॒दाः॒ । वीति॑ । भ॒ज॒तु॒ । वर्षि॑ष्ठे । अधीति॑ । नाके॑ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तुथो नामाग्निः, विश्ववेदाः विश्वस्य विभागादेर्वेदिता । पूर्ववदसुन्, पूर्वपदप्रकृतिस्वरत्वं च । स एव वः युष्मान्विभजतु । वर्षिष्ठे वृद्धतमे नाके सुखैकरूपे स्थाने यथा भवत्यर्थस्तथा वो विभजतु । यद्वा - वर्षिष्ठे नाकात्मन्यत्र स्थाने स एवागत्य वो विभजत्विति ॥
@@ -1102,7 +1135,9 @@ _______
 
 7सदोऽभ्येति - एतत्ते अग्ने इति मध्येज्योतिषा जगत्या । 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
+
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ए॒तत् ते॑ अग्ने॒ **राध॒ ऐति॒** सोम॑-च्युतम् ..   
@@ -1111,7 +1146,9 @@ _______
 य॒ज्ञस्य॑ प॒था सु॑वि॒ता+++(=सु+इता)+++ नय॑न्तीः ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
+
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -1127,6 +1164,11 @@ Leading prosperity by the path of the sacrifice.
 तन्मि॒त्रस्य॑ प॒था न॑य ।   
 ऋ॒तस्य॑ प॒था प्रेत॑ च॒न्द्रद॑क्षिणा ..   
 य॒ज्ञस्य॑ प॒था सु॑वि॒ता नय॑न्तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+3G । ए॒तत् । ते॒ । अ॒ग्ने॒ । राधः॑ । एति॑ । ए॒ति॒ । सोम॑च्युत॒मिति॒ सोम॑-च्यु॒त॒म् । 4 । तत् । मि॒त्रस्य॑ । प॒था । न॒य॒ । 5I । ऋ॒तस्य॑ । प॒था । प्रेति॑ । इ॒त॒ । च॒न्द्रद॑क्षिणा॒ इति॑ च॒न्द्र-द॒क्षि॒णाः॒ । य॒ज्ञस्य॑ । प॒था । सु॒वि॒ता । नय॑न्तीः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1148,7 +1190,9 @@ _______
 
 8आत्रेयमभ्यर्थयति - ब्राह्मणमिति ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
+
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **ब्रा॒ह्म॒णम्** अ॒द्य **रा॑ध्यास॒म्**+++(=साधयेयं)+++  
@@ -1156,7 +1200,9 @@ _______
 पैतृम॒त्यँ+++(←पितृमत् + ण्यः)+++ सु॒-धातु॑-दक्षिणम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
+
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -1166,6 +1212,11 @@ May I win a Brahman to-day, a seer and sprung from seers, of (famous) father and
 <details><summary>मूलम्</summary>
 
 ब्रा॒ह्म॒णम॒द्य रा॑ध्यास॒मृषि॑मार्षे॒यम्पि॑तृ॒मन्त॑म्पैतृम॒त्यँ सु॒धातु॑दक्षिणम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+6K । ब्रा॒ह्म॒णम् । अ॒द्य । रा॒ध्या॒स॒म् । ऋषि॑म् । आ॒र्षे॒यम् । पि॒तृ॒मन्त॒मिति॑ पितृ-मन्त॑म् । पै॒तृ॒म॒त्यमिति॑ पैतृ-म॒त्यम् । सु॒धातु॑दक्षिण॒मिति॑ सु॒धातु॑-द॒क्षि॒ण॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1199,6 +1250,11 @@ Gaze on the heaven, gaze on the atmosphere.
 वि सुव॒ᳶ पश्य॒ व्य॑न्तरि॑क्षम्  +++(पश्य)+++ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वि । 7L । वीति॑ । सुवः॑ । पश्य॑ । वीति॑ । अ॒न्तरि॑क्षम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सुवः स्वर्गमादित्यं वा विपश्य विशेषेण पश्य । अन्तरिक्षं च विपश्येत्येव ॥
@@ -1223,6 +1279,11 @@ Join those in the seat.
 <details><summary>मूलम्</summary>
 
 यत॑स्व  सद॒स्यैः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+8M । यत॑स्व । स॒द॒स्यैः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1259,6 +1320,11 @@ full of sweetness; enter the giver;
 मधु॑मतीᳶ प्रदा॒तार॒मा वि॑शत।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒स्मद्दा॑त्रा॒ इत्य॒स्मत्-दा॒त्राः॒ । दे॒व॒त्रेति॑ देव-त्रा । ग॒च्छ॒त॒ । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । प्र॒दा॒तार॒मिति॑ प्र-दा॒तार॑म् । एति॑ । वि॒श॒त॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **अस्मद्दात्रा** इति ॥ वयं दातारो यासां तादृश्यो यूयम् । छान्दसोच्समासान्तः । यद्वा - 'ऋतश्छन्दसि' इति कपि प्रतिषिद्धे छान्दसोकारोपजनः । देवत्रा देवान् गच्छत । 'देवमनुष्य' इति द्वितीयान्तात्राप्रत्ययः ।  
@@ -1285,6 +1351,11 @@ Be this complete for us.
 अन॑वहाया॒स्मान्दे॑व॒याने॑न प॒थेत॑ ।  
 सु॒कृताल्ँ॑ लो॒के सी॑दत ।  
 तन्न॑स्सँस्कृ॒तम् ॥ [45]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अन॑वहा॒येत्यन॑व-हा॒य॒ । अ॒स्मान् । दे॒व॒याने॒नेति॑ देव-याने॑न । प॒था । इ॒त॒ । सु॒कृता॒मिति॑ सु-कृता॑म् । लो॒के । सी॒द॒त॒ । 10O । तत् । नः॒ । सँ॒स्कृ॒तम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

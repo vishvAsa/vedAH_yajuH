@@ -26,6 +26,11 @@ Thou art the glittering of Soma; as thine may my glittering be.
 सोम॑स्य॒ त्विषि॑रसि॒ तवे॑व मे॒ त्विषि॑र्भूयात्  ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+1A । सोम॑स्य । त्विषिः॑ । अ॒सि॒ । तव॑ । इ॒व॒ । मे॒ । त्विषिः॑ । भू॒या॒त् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सोमस्य या त्विषिर्दीप्तिः सैव त्वमसि दीप्तत्वात् व्यापित्वाच्छान्तत्वाच्च । तवेव मे ममापि त्वीषिर्भूयात् दीप्ता व्यापिनी शान्ता चेत्याशास्ते ॥
@@ -53,6 +58,11 @@ Thou art ambrosia; from death protect me.
 अ॒मृत॑मसि मृ॒त्योर्मा॑ पाहि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒मृत॑म् । अ॒सि॒ । मृ॒त्योः । मा॒ । पा॒हि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अमृतममरणहेतुरसीति । मृत्योर्मा पाहिति । 'मृत्योर्वा एष वर्णः । यच्छार्दूलः' इति शार्दूलचर्मणोधस्तादन्तर्धानकरणेन मृत्योरन्तर्धानकरणमाशास्ते ॥
@@ -76,6 +86,11 @@ From the thunderbolt protect me.
 <details><summary>मूलम्</summary>
 
 दि॒द्योन्मा॑ पाहि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+3C । दि॒द्योत् । मा॒ । पा॒हि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -108,6 +123,11 @@ Propitiated are biting flies.
 अवे॑ष्टा दन्द॒शूकाः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+4D । अवे॑ष्टा॒ इत्यव॑-इ॒ष्टाः॒ । द॒न्द॒शूकाः॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अवेष्टाः विनाशिताः । अवपूर्वो यजिर्विनाशने । दन्दशूकाः दशनशीलास्सर्पादयः । 'यजजपदशां यङः' इत्यूकप्रत्ययः ॥
@@ -133,6 +153,11 @@ Cast away is Namuci's head.
 निर॑स्त॒न्नमु॑चे॒श्शिरः॑  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+5E । निर॑स्त॒मिति॒ निः-अ॒स्त॒म् । नमु॑चेः । शिरः॑ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 निरस्तं निष्कृष्यास्तं नमुचेश्शिरः न मुञ्चति पुरुषमिति नमुचिः अधर्मः । न मुञ्चत्यधर्ममिति वा नमुचिरसुरः बाधकः, तस्य शिरो निरस्तमनेन लोहितायसेन ॥
@@ -142,6 +167,7 @@ Cast away is Namuci's head.
 
 6अभिषेकानवेक्षते - सोम इति षट्पदया त्रिष्टुभा ॥ 
 </details>
+
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
@@ -155,6 +181,7 @@ Cast away is Namuci's head.
 </details>
 </div>
 
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
@@ -166,6 +193,11 @@ Soma, king Varuna, and the gods which instigate righteousness, may they instigat
 
 सोमो॒ राजा॒ वरु॑णो दे॒वा ध॑र्म॒सुव॑श्च॒ ये ।  
 ते ते॒ वाचँ॑ सुवन्ता॒न्ते ते॑ प्रा॒णँ सु॑वन्ता॒न्ते ते॒ चक्षु॑स्सुवन्ता॒न्ते ते॒ श्रोत्रँ॑ सुवन्ता॒म्
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+6F । सोमः॑ । राजा॑ । वरु॑णः । दे॒वाः । ध॒र्म॒सुव॒ इति॑ धर्म-सुवः॑ । च॒ । ये ॥ ते । ते॒ । वाच॑म् । सु॒व॒न्ता॒म् । ते । ते॒ । प्रा॒णमिति॑ प्र-अ॒नम् । सु॒व॒न्ता॒म् । ते । ते॒ । चक्षुः॑ । सु॒व॒न्ता॒म् । ते । ते॒ । श्रोत्र॑म् । सु॒व॒न्ता॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -200,6 +232,11 @@ With the glory of Soma I besprinkle thee, with the brilliance of Agni [1], with 
 तेज॑सा॒ सूर्य॑स्य॒ वर्च॒सेन्द्र॑स्येन्द्रि॒येण॑ मि॒त्रावरु॑णयोर्वी॒र्ये॑ण म॒रुता॒मोज॑सा        
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+7G । सोम॑स्य । त्वा॒ । द्यु॒म्नेन॑ । अ॒भीति॑ । सि॒ञ्चा॒मि॒ । अ॒ग्नेः । 1 । तेज॑सा । सूर्य॑स्य । वर्च॑सा । इन्द्र॑स्य । इ॒न्द्रि॒येण॑ । मि॒त्रावरु॑णयो॒रिति॑ मि॒त्रा-वरु॑णयोः । वी॒र्ये॑ण । म॒रुता॑म् । ओज॑सा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सोमस्य द्युम्नेन दीप्त्या सह यशसा वा त्वामभिसषिञ्चामि अस्योपरि क्षारयामि त्वाम् । अग्नेस्तेजसाभिषिञ्चामि त्वामित्येव । एवं मरुतामोजसेत्यादि निगदसिद्धम् ।
@@ -222,6 +259,11 @@ Protect from the sky.
 क्ष॒त्त्राणा॑ङ्क्ष॒त्त्रप॑तिर॒स्यति॑ दि॒वस्पा॑हि
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+2 । क्ष॒त्राणा॑म् । क्ष॒त्रप॑ति॒रिति॑ क्ष॒त्र-प॒तिः॒ । अ॒सि॒ । 3I । अतीति॑ । दि॒वः । पा॒हि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 क्षत्राणां बलानां सर्वेषामपि क्षत्रपतिरसि त्वं, न पुन रेकस्य पतित्वादित्यसमासेन प्रतिपाद्यते । 'गवामसि गोपतिः' इति यथा । स त्वं दिवः द्युमतस्सर्वान्सोमादीन् द्युलोकवासिनो वा सोमादीनतिक्रम्य एनं यजमानं पाहि । यद्वा - यजमान एवोच्यते, हे यजमान त्वामभिषिञ्चामीति । क्षत्राणां क्षत्रपतिरसि त्वं दीप्तिमतोतिक्रम्य लोकान् पाहि, दिवो वा उपरि पाहि । 'पातौ च बहुलम्' इति सत्वम् । कस्कादिर्वा द्रष्टव्यः ॥
@@ -231,6 +273,7 @@ Protect from the sky.
 
 8ऊर्ध्वं धारास्समुन्मार्ष्टि - समाववृत्रन्निति त्रिष्टुभा ॥ 
 </details>
+
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
@@ -242,6 +285,7 @@ Protect from the sky.
 +++(अत्रापः कर्म-प्रवाह-रूपाः, यथैव [Socrates in Phaedo](/AgamaH/AryaH/mediterranian/platonism/plato/phaedo/))+++
 </details>
 </div>
+
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -257,6 +301,11 @@ The ships that pour spontaneously go ever.
 
 स॒माव॑वृत्रन्नध॒रागुदी॑ची॒रहि॑म् बु॒ध्निय॒मनु॑ स॒ञ्चर॑न्तीः ।    
 ताᳶ पर्व॑तस्य वृष॒भस्य॑ पृ॒ष्ठे नाव॑श्चरन्ति स्व॒सिच॑ इया॒नाः  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+4K । स॒माव॑वृत्र॒न्निति॑ सम्-आव॑वृत्रन् । अ॒ध॒राक् । उदी॑चीः । अहि॑म् । बु॒ध्निय॑म् । अन्विति॑ । स॒ञ्चर॑न्ती॒रिति॑ सम्-चर॑न्तीः । ताः । पर्व॑तस्य । वृ॒ष॒भस्य॑ । पृ॒ष्ठे । नावः॑ । च॒र॒न्ति॒ । स्व॒सिच॒ इति॑ स्व-सिचः॑ । इ॒या॒नाः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -294,6 +343,11 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 रुद्र॒ यत्ते॒ क्रयी॒ पर॒न्नाम॒ तस्मै॑ हु॒तम॑सि य॒मेष्ट॑मसि ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+5L । रुद्र॑ । यत् । ते॒ । क्रयि॑ । पर॑म् । नाम॑ । तस्मै॑ । हु॒तम् । अ॒सि॒ । य॒मेष्ट॒मिति॑ य॒म-इ॒ष्ट॒म् । अ॒सि॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे रुद्र यत्ते तव रुद्रेत्यादिकं नामधेयं परमुत्कृष्टं **क्रयि** क्रीणात्यात्मसात्करोति विश्वमिति क्रयि । छान्दस इप्रत्ययः, छान्दसं सांहितिकं दीर्घत्वम् । करोत्यर्थे वा क्रीणातिः । 
@@ -308,6 +362,7 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 10युवराजस्य प्रतिहितस्य गृहे जुहोति - प्रजापत इति त्रिष्टुभा ॥ 
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
 <details open><summary><h2>१० प्रजापते न ...{Loading}...</h2></summary>
 
@@ -317,6 +372,7 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म्॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
 <details open><summary><h2>010 ...{Loading}...</h2></summary>
