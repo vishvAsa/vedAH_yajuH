@@ -39,6 +39,11 @@ Anumati he offers a cake on eight potsherds;
 अनु॑मत्यै पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पति ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+1 । अनु॑मत्या॒ इत्यनु॑-म॒त्यै॒ । पु॒रो॒डाश॑म् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तत्र राजसूये पवित्रेऽग्निष्टोमे पञ्चम्यां संस्थिते षष्ठीमारभ्यान्वहमनुमत्यादयोऽष्टौ यागास्सन्ति, तान्विदधाति - अनुमत्यै पुरोडाशमष्टाकपालं निर्वपतीत्यादि ॥ अनुब्राह्मणं च भवति - 'अष्टावेतानि हवींषि भवन्ति' इति । तत्र षष्ठ्यामानुमतमष्टाकपालं निर्वपति । या[यया] सर्वं क्रियते [साऽनुमतिः ।] अनुमतिरिति 'इयमेवास्मै राज्यमनुमन्यते' इत्यनुमत्यभिमानिनी वा काचिद्देवता पृथिवीत्वेन रूप्यते । 'तादौ च निति' इति गतेः प्रकृति-स्वरत्वम् । तस्यै पुरोडाशमष्टाकपालं निर्वपति तदुद्देशेन पृथक्करोति । अष्टसु कपालेषु संस्कृत इति तद्धितार्थे द्विगुः, 'द्विगोर्लुगनपत्ये' इति प्राग्दीव्यतीयस्य लुक्, 'अष्टनः कपाले हविष्युपसङ्ख्यानम्' इति पूर्वपदस्यात्वम्, 'इगन्त-काल-कपाल' इति पूर्वपदप्रकृतिस्वरत्वम् ।
@@ -57,6 +62,11 @@ the sacrificial fee is a cow.
 <details><summary>मूलम्</summary>
 
 धे॒नुर्दक्षि॑णा ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धे॒नुः । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -92,6 +102,11 @@ The (grains) which are thrown down to the west of the support he (offers) on one
 
 ये प्र॒त्यञ्च॒श्शम्या॑या अव॒शीय॑न्ते॒+++(=अवपतन्ति)+++   
 तन्नै॑र्ऋ॒तमेक॑कपालङ्कृ॒ष्णव्ँवासः॑ कृ॒ष्णतू॑ष॒न्दक्षि॑णा ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2 । ये । प्र॒त्यञ्चः॑ । शम्या॑याः । अ॒व॒शीय॑न्त॒ इत्य॑व-शीय॑न्ते । तम् । नै॒र्॒ऋ॒तमिति॑ नैः-ऋ॒तम् । एक॑कपाल॒मित्येक॑-क॒पा॒ल॒म् । कृ॒ष्णम् । वासः॑ । कृ॒ष्णतू॑ष॒मिति॑ कृ॒ष्ण-तू॒ष॒म् । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -131,6 +146,11 @@ Go away, hail! rejoicing in the oblation.
 +++(हे गार्हपत्य!)+++ वीहि॒ स्वाहाऽऽहु॑तिञ् जुषा॒णः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3 । वीति॑ । इ॒हि॒ । स्वाहा॑ । आहु॑ति॒मित्या-हु॒ति॒म् । जु॒षा॒णः ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **वीहि** विगच्छ विगच्छद्भिरस्माभिः विश्लिष्टो भव मास्माननूत्थाय बाधिष्ट ।
@@ -145,6 +165,7 @@ Go away, hail! rejoicing in the oblation.
 4 नैरृतं सर्वं जुहोति - एष त इति गायत्री । यजुरिति केचित् ॥ 
 </details>
 
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/01_nairRta-homAdi/02_eSha_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -153,6 +174,7 @@ Go away, hail! rejoicing in the oblation.
 **मुञ्चे᳓म᳓म्** अँ᳓हसः॥
 </details>
 </div>
+
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/01_nairRta-homAdi/02_eSha_te.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -166,6 +188,11 @@ Free him from evil. Hail!
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॑ निर्ऋते भा॒गो भूते॑ ह॒विष्म॑त्यसि मु॒ञ्चेममँह॑सः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+4 । ए॒षः । ते॒ । नि॒र्॒ऋ॒त॒ इति॑ निः-ऋ॒ते॒ । भा॒गः । भूते॑ । ह॒विष्म॑ती । अ॒सि॒ । मु॒ञ्च । इ॒मम् । अँह॑सः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -198,6 +225,11 @@ Honour to him who hath done this.
 स्वाहा॒ नमो॒ य इ॒दञ्च॒कार॑
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+5 । स्वाहा॑ । नमः॑ । यः । इ॒दम् । च॒कार॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स्वाहा स्वाहुतमिदमाज्यमस्तु, नमः नमस्कारश्चास्तु । (कतमस्मै) कस्मै? यो हवा इदमस्मत्प्रार्थितं चकार तथैव कृतवान्, निरृतिं यष्टुं गच्छतोऽस्मान् सोढ्वा अननूत्थाय अत्रैव शान्तोऽवस्थित इति यावत् । यद्वा - इदं विश्वं चराचरं जगच्चकार ॥
@@ -221,6 +253,11 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 <details><summary>मूलम्</summary>
 
 आदि॑त्य॒ञ्च॒रुन्निर्व॑पति॒ वरो॒ दक्षि॑णा ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+6 । आ॒दि॒त्यम् । च॒रुम् । निरिति॑ । व॒प॒ति॒ । वरः॑ । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -248,6 +285,11 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 
 आ॒ग्ना॒वै॒ष्ण॒वमेका॑दशकपालम्   +++(निर्वपति)+++ ॥   
 वाम॒नो व॒ही दक्षि॑णा।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+7 । आ॒ग्ना॒वै॒ष्ण॒वमित्या॑ग्ना-वै॒ष्ण॒वम् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । वा॒म॒नः । व॒ही । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -279,6 +321,11 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 हिर॑ण्य॒न्दक्षि॑णा।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+8 । अ॒ग्नी॒षो॒मीय॒मित्य॑ग्नी-सो॒मीय॑म् । 1 । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । हिर॑ण्यम् । दक्षि॑णा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'द्यावापृथिवीशुनासीर' इति छः । तत्र हिरण्यं दक्षिणा 'हिरण्यं दक्षिणा समृद्ध्यै' भवति ॥
@@ -306,6 +353,11 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 ऐ॒न्द्रमेका॑दशकपालम् +++(निर्वपति)+++ ।   
 
 ऋ॒ष॒भो व॒ही दक्षि॑णा  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2 । ऐ॒न्द्रम् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । ऋ॒ष॒भः । व॒ही । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -341,6 +393,11 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 ऋ॒ष॒भो व॒ही दक्षि॑णा।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3 । आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । ऐ॒न्द्रम् । दधि॑ । ऋ॒ष॒भः । व॒ही । दक्षि॑णा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ऋषभो वही दक्षिणा ॥
@@ -370,6 +427,11 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 प्र॒थ॒म॒जो व॒त्सो दक्षि॑णा  ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+4 । ऐ॒न्द्रा॒ग्नमित्यै॑न्द्र-अ॒ग्नम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । वै॒श्व॒दे॒वमिति॑ वैश्व-दे॒वम् । च॒रुम् । प्र॒थ॒म॒ज इति॑ प्रथम-जः । व॒त्सः । दक्षि॑णा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अत्र प्रथमजः प्रथमजातो वत्सो दक्षिणा ।
@@ -397,6 +459,11 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 सौ॒म्यँ श्या॑मा॒कञ्च॒रुम्  +++(निर्वपति)+++ ।   
 
 वासो॒ दक्षि॑णा  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सौ॒म्यम् । श्या॒मा॒कम् । च॒रुम् । वासः॑ । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -431,6 +498,11 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 सर॑स्वत्यै च॒रुम्  +++(निर्वपति)+++  ।  
 सर॑स्वते च॒रुम्  +++(निर्वपति)+++  ।  
 मि॒थु॒नौ गावौ॒ दक्षि॑णा ॥ [2]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+5 । सर॑स्वत्यै । च॒रुम् । सर॑स्वते । च॒रुम् । मि॒थु॒नौ । गावौ॑ । दक्षि॑णा ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

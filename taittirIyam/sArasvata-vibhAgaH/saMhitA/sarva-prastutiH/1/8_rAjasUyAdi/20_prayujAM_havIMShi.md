@@ -18,6 +18,11 @@ To Agni he offers on eight potsherds;
 आ॒ग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+1 । आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1तस्मिन्नपराह्णे षड्भिः प्रयुजां हविर्भिर्यजते, तानि विदधाति - आग्नेयमिति ॥ प्रयुजां हविर्भिर्यक्ष्ये इति सङ्कल्पः । षड्ढविष्क एको यज्ञ इति आग्नेयेष्ट्यन्ते सत्यान् दूतान् दक्षिणाद्रव्यहस्तान् प्रतिराजभ्यः प्रहिणोति । 'अभ्यषिक्षि राजाऽभूवम्' इति चावेदनं, आगतेषु दक्षिणाद्रव्याणि ऋत्विग्भ्य एव ददाति । ततस्सौम्यसावित्रबार्हस्पत्यत्वाष्ट्रवैश्वानराणि हवींषि ।
@@ -38,6 +43,11 @@ to Soma, an oblation;
 सौ॒म्यञ् च॒रुम् ।    
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+2 । सौ॒म्यम् । च॒रुम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सावित्र᳓न् द्वा᳓दशकपालम्  +++(निर्वपति)+++ ।
@@ -51,6 +61,11 @@ to Savitr on twelve potsherds;
 <details><summary>मूलम्</summary>
 
 सा॒वि॒त्रन्द्वाद॑शकपालम्  +++(निर्वपति)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+3 । सा॒वि॒त्रम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -68,6 +83,11 @@ to Brhaspati an oblation;
 बा॒र्र्ह॒स्प॒त्यञ्च॒रुम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+4 । बा॒र्ह॒स्प॒त्यम् । च॒रुम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वाष्ट्र᳓म् अष्टा᳓कपालम्  +++(निर्वपति)+++ ।  
@@ -81,6 +101,11 @@ to Tvastr on eight potsherds;
 <details><summary>मूलम्</summary>
 
 त्वा॒ष्ट्रम॒ष्टाक॑पालम्  +++(निर्वपति)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+5 । त्वा॒ष्ट्रम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -100,6 +125,11 @@ to (Agni) Vaiśvanara on twelve potsherds; the sacrificial fee is the southern d
 वै॒श्वा॒न॒रन्द्वाद॑शकपालम्  +++(निर्वपति)+++ ।  
 
 दक्षि॑णो रथवाहनवा॒हो दक्षि॑णा ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+6 । वै॒श्वा॒न॒रम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । 7 । दक्षि॑णः । र॒थ॒वा॒ह॒न॒वा॒ह इति॑ रथवाहन-वा॒हः । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -129,6 +159,11 @@ To Sarasvati he offers an oblation;
 
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+8 । सा॒र॒स्व॒तम् । च॒रुम् । निरिति॑ । व॒प॒ति॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2श्वोभूते सारस्वतादीभिः प्रयुजां हविर्भिर्यजते, तानि विदधाति - सारस्वतं चरुमित्यादि ॥ सारस्वतपौष्णमैत्रवारुणक्षैत्रपत्यादित्यानि हवींषि । 
@@ -149,6 +184,11 @@ to Pusan an oblation;
 पौ॒ष्णञ् च॒रुम्  +++(निर्वपति)+++ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+9 । पौ॒ष्णम् । च॒रुम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैत्र᳓ञ्चरु᳓म्  +++(निर्वपति)+++ ।
@@ -162,6 +202,11 @@ to Mitra an oblation;
 <details><summary>मूलम्</summary>
 
 मै॒त्रञ्चरुम्  +++(निर्वपति)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+10 । मै॒त्रम् । च॒रुम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -179,6 +224,11 @@ to Varuna an oblation;
 वा॒रु॒णञ्च॒रुम्   +++(निर्वपति)+++ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+11 । वा॒रु॒णम् । च॒रुम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षैत्रपत्य᳓ञ् चरु᳓म्   +++(निर्वपति)+++ ।
@@ -192,6 +242,11 @@ to the lord of the fields an oblation;
 <details><summary>मूलम्</summary>
 
 क्षै॒त्र॒प॒त्यञ्च॒रुम्   +++(निर्वपति)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+12 । क्षै॒त्र॒प॒त्यमिति॑ क्षैत्र-प॒त्यम् । च॒रुम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,6 +264,11 @@ to the Adityas an oblation;
 आ॒दि॒त्यञ्च॒रुम्  +++(निर्वपति)+++ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+13 । आ॒दि॒त्यम् । च॒रुम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓त्तरो रथवाहनवाहो᳓ +++(उक्षो)+++ द᳓क्षिणा ॥ [36]
@@ -222,6 +282,11 @@ the sacrificial fee is the northern drawer of the chariot stand.
 <details><summary>मूलम्</summary>
 
 उत्त॑रो रथवाहनवा॒हो दक्षि॑णा ॥ [36]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+14 । उत्त॑र॒ इत्युत्-त॒रः॒ । र॒थ॒वा॒ह॒न॒वा॒ह इति॑ रथवाहन-वा॒हः । दक्षि॑णा ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

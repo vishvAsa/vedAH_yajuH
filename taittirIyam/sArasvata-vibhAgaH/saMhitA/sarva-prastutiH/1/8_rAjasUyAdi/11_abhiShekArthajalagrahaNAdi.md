@@ -54,13 +54,20 @@ Ye are active,
 अ॒र्थेत॑स्स्थ  ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+1A । अ॒र्थेत॒ इत्य॑र्थ-इतः॑ । स्थ॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मन्त्रार्थस्तु - अर्थेतस्स्थ हे आपः अर्थमरणीयं स्थानान्तरं यन्ति गच्छन्तीति अर्थेतः । एतेः क्विप् ।
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -71,6 +78,7 @@ Ye are active,
 
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -108,6 +116,11 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
@@ -128,6 +141,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
@@ -142,8 +160,10 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [अर्थे᳓तस्स्थ  ।]
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -153,6 +173,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -189,6 +210,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
@@ -218,13 +244,20 @@ thou art the lord of the waters,
 अ॒पाम्पति॑रसि  ।      
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । पतिः॑ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अपाम्पतिस्समुद्रः तदीया आप उच्यन्ते ; विकारे प्रकृतिशब्दात् । समुदायशब्दादेकवचनम् । शोणादीनां पुंस्त्वेन अपांपतित्वम् । 'ऊडिदम्' इति षष्ठ्या उदात्तत्वम् ॥
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -234,6 +267,7 @@ thou art the lord of the waters,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -270,6 +304,11 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
@@ -290,6 +329,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
@@ -303,8 +347,10 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [अपा᳓म् प᳓तिरसि  ।]
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -314,6 +360,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -348,6 +395,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -381,13 +433,20 @@ thou art the male wave,
 वृषा॑स्यू॒र्मिः  ।     
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वृषा॑ । अ॒सि॒ । ऊ॒र्मिः ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वृषा वर्षिता वृष्टिहेतुत्वात् । प्रधाने[धानं]वा ; सङ्घातरूपत्वात् । ऊर्मिस्सङ्घातार्था अरणशीला वा ॥
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -397,6 +456,7 @@ thou art the male wave,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -433,6 +493,11 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
@@ -453,6 +518,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
@@ -466,8 +536,10 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [वृ᳓षास्य् ऊर्मिः᳓  ।]
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -477,6 +549,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -511,6 +584,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -542,13 +620,20 @@ thou art the male host,
 वृ॑षसे॒नो॑ऽसि  ।      
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वृ॒ष॒से॒न इति॑ वृष-से॒नः । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सेक्त्री सेना यस्य संघातत्वेन महत्त्वात् सेकसामर्थ्याच्च । छान्दसमन्तोदात्तत्वम् । केचित्तु - वृषास्यूर्मिरित्येतावता ऊर्मिजलं गृह्णाति, वृषसेनोसीति पल्वल्यमिति ॥
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -558,6 +643,7 @@ thou art the male host,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -594,6 +680,11 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
@@ -614,6 +705,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
@@ -627,8 +723,10 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [वृ᳓षसेनो᳙ऽसि  ।]
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -638,6 +736,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -672,6 +771,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -703,13 +807,20 @@ ye are the pen-dwellers,
 व्र॒ज॒क्षित॑स्स्थ।      
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+व्र॒ज॒क्षित॒ इति॑ व्रज-क्षितः॑ । स्थ॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 व्रजे वेष्टितेवकाशे क्षियन्ति निवसन्तीति व्रजक्षितः । क्षि निवासगत्योः ॥
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -719,6 +830,7 @@ ye are the pen-dwellers,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -755,6 +867,11 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
@@ -775,6 +892,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
@@ -788,8 +910,10 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [व्र᳓जक्षि᳓तस् स्थ।]
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -799,6 +923,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -833,6 +958,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -864,13 +994,20 @@ ye are the strength of the Maruts,
 म॒रुता॒मोज॑स्स्थ  ।      
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+म॒रुता॑म् । ओजः॑ । स्थ॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मरुतां वायूनामोजः बलं स्थ ; तेन निर्वृत्तत्वात् ॥
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -880,6 +1017,7 @@ ye are the strength of the Maruts,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -916,6 +1054,11 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
@@ -936,6 +1079,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
@@ -949,8 +1097,10 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [मरु᳓ताम् ओ᳓जस् स्थ  ।]
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -960,6 +1110,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -994,6 +1145,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1025,13 +1181,20 @@ ye have the radiance of the sun,
 सूर्य॑वर्चसस्स्थ  ।      
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सूर्य॑वर्चस॒ इति॒ सूर्य॑-व॒र्च॒सः॒ । स्थ॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सूर्यं वर्चयन्ति भृशं दीपयन्ति । 'गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वञ्च' इत्यसुन् । सातपेहि वर्षे भृशमादित्यो दीप्यते । बहुव्रीहिर्वा सूर्यस्येव वर्चो येषामिति । सूर्यरश्मिसंयोगेन वर्चस्वित्वात् ॥
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1041,6 +1204,7 @@ ye have the radiance of the sun,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1077,6 +1241,11 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
@@ -1097,6 +1266,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
@@ -1110,8 +1284,10 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [सू᳓र्यवर्चसस् स्थ  ।]
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1121,6 +1297,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1155,6 +1332,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1186,13 +1368,20 @@ ye have the brightness of the sun,
 सूर्य॑त्वचसस्स्थ ।     
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सूर्य॑त्वचस॒ इति॒ सूर्य॑-त्व॒च॒सः॒ । स्थ॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 त्वच संवरणे, सुर्यं त्वचन्ति संवृण्वन्ति । पूर्ववदसुन् । यासु खलु निर्मलास्वप्सु रूपाणि परिदृश्यन्ते ताः खलु सूर्यरूपप्रकाशनं सूर्यमपि स्वमहिम्ना संवृण्वन्ति ॥
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1202,6 +1391,7 @@ ye have the brightness of the sun,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1238,6 +1428,11 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
@@ -1258,6 +1453,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
@@ -1271,8 +1471,10 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [सू᳓र्य-त्वचसस् स्थ ।]
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1282,6 +1484,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1316,6 +1519,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1347,13 +1555,20 @@ ye are delightful,
 मान्दाः॑ स्थ  ।      
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मान्दाः॑ । स्थ॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मन्दस्वभावाः । मां दत्तदेवेभ्य इति ह्रादं कुर्वाणाः, अशोष्या इत्यन्ये ॥
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1363,6 +1578,7 @@ ye are delightful,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1399,6 +1615,11 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
@@ -1419,6 +1640,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
@@ -1432,8 +1658,10 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [मा᳓न्दाः स्थ  ।]
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1443,6 +1671,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1477,6 +1706,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1508,13 +1742,20 @@ ye are obedient,
 वाशाः॑ स्थ  ।      
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वाशाः॑ । स्थ॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वाशा वश्याः नीहारो हि नदीप्रवाहवन्मनुष्यगतिं न प्रतिबध्नाति ; ततो वश्यत्वम् ॥
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1524,6 +1765,7 @@ ye are obedient,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1560,6 +1802,11 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
@@ -1580,6 +1827,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
@@ -1593,8 +1845,10 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [वा᳓शाः स्थ  ।]
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1604,6 +1858,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1638,6 +1893,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1669,13 +1929,20 @@ ye are powerful,
 शक्व॑रीस्स्थ  ।      
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+शक्व॑रीः । स्थ॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 गर्भसंरक्षणे शक्ताश्शक्वर्यः । 'वा छन्दसि' इति पूर्वसवार्णदीर्घत्वम् ॥
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1685,6 +1952,7 @@ ye are powerful,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1721,6 +1989,11 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
@@ -1741,6 +2014,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
@@ -1754,8 +2032,10 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [श᳓क्वरीस् स्थ  ।]
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1765,6 +2045,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1799,6 +2080,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1830,13 +2116,20 @@ ye are all supporters,
 वि॒श्व॒भृत॑स्स्थ ।       
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वि॒श्व॒भृत॒ इति॑ विश्व-भृतः॑ । स्थ॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 विश्वं बिभ्रति धारयन्ति वा पोषयन्ति वा विश्वभृतः, तद्रूपेण विवक्षितत्वात् बहुवचनं स्त्रीत्वं च ॥
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1846,6 +2139,7 @@ ye are all supporters,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1882,6 +2176,11 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
@@ -1902,6 +2201,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
@@ -1915,8 +2219,10 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [विश्वभृ᳓तस् स्थ ।]
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1926,6 +2232,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1960,6 +2267,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1991,13 +2303,20 @@ ye are supporters of men,
 ज॒न॒भृत॑स्स्थ ।     
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ज॒न॒भृत॒ इति॑ जन-भृतः॑ । स्थ॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 जनं बिभ्रर्तीति जनभृतः ॥
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2007,6 +2326,7 @@ ye are supporters of men,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2043,6 +2363,11 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
@@ -2063,6 +2388,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
@@ -2076,8 +2406,10 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [जनभृ᳓तस्स्थ ।]
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2087,6 +2419,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2121,6 +2454,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2152,13 +2490,20 @@ ye have the brilliance of Agni,
 अ॒ग्नेस्ते॑ज॒स्याः॑ स्थ  ।      
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । ते॒ज॒स्याः॑ । स्थ॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अग्नेस्तेजसा सहितास्तेजस्याः गवादिर्द्रष्टव्यः । तेजसो वा निमित्तभूतास्तेजस्याः । 'गोद्व्यचः' इति यत् । तेजसि वा भवाः ; तदर्थं व्यापृतत्वात् ॥
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2168,6 +2513,7 @@ ye have the brilliance of Agni,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2204,6 +2550,11 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
@@ -2224,6 +2575,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
@@ -2237,8 +2593,10 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [अग्ने᳓स् तेजस्याः᳙ स्थ  ।]
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2248,6 +2606,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2282,6 +2641,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2313,6 +2677,11 @@ ye are the sap of the waters, of the plants.
 अ॒पामोष॑धीनाँ॒ रस॑स्स्थ  ।      
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । ओष॑धीनाम् । रसः॑ । स्थ॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अद्भ्य ओषधीभ्यश्च निष्पत्तेः ॥
@@ -2320,8 +2689,10 @@ ye are the sap of the waters, of the plants.
 इत्यष्टमे एकादशोनुवाकः ॥  
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2331,6 +2702,7 @@ ye are the sap of the waters, of the plants.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2367,6 +2739,11 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
@@ -2387,6 +2764,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
@@ -2399,8 +2781,10 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [अपा᳓मो᳓षधीनाँ र᳓सस्स्थ  ।]
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2410,6 +2794,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2444,6 +2829,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2459,8 +2849,10 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [अपा᳓म् ओ᳓षधीनाँ र᳓सस्स्थ  ।]      
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2470,6 +2862,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2504,6 +2897,11 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

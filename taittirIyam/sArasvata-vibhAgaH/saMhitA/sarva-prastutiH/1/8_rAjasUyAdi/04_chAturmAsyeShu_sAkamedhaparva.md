@@ -34,6 +34,11 @@ To Agni Anikavant he offers a cake on eight potsherds as the sun rises,
 अ॒ग्नयेऽनी॑कवते पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पति सा॒कँ सूर्ये॑णोद्य॒ता …  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+1A । अ॒ग्नये॑ । अनी॑कवत॒ इत्यनी॑क-व॒ते॒ । पु॒रो॒डाश॑म् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । सा॒कम् । सूर्ये॑ण । उ॒द्य॒तेत्यु॑त्-य॒ता ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'असौ वा आदित्यो ऽग्निर् अनीकवान् । तस्य रश्मयो ऽनीकानि' । यदा सूर्यश्चोदयं करोति, अध्वर्युश्च पुरोडाशं निर्वपति ;  
@@ -61,6 +66,11 @@ and to the Maruts as lords of the house he milks at evening an oblation of all (
 म॒रुद्भ्यो॑ गृहमे॒धिभ्य॒स्सर्वा॑सान्दु॒ग्धे सा॒यञ्च॒रुम्  +++(निर्वपति)+++  ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+म॒रुद्भ्य॒ इति॑ म॒रुत्-भ्यः॒ । सा॒न्त॒प॒नेभ्य॒ इति॒ साम्-त॒प॒नेभ्यः॑ । म॒ध्यन्दि॑ने । च॒रुम् । म॒रुद्भ्य॒ इति॑ म॒रुत्-भ्यः॒ । गृ॒ह॒मे॒धिभ्य॒ इति॑ गृहमे॒धि-भ्यः॒ । सर्वा॑साम् । दु॒ग्धे । सा॒यम् । च॒रुम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथ मध्यन्दिने मरुद्भ्यस्सान्तपनेभ्यश्चरुं निर्वपति । अह्नो मध्यं मध्यंदिनम् । 'मध्यो मध्यं दिनञ्चास्मात्' इति दिनञ्प्रत्ययः ? सम्यक्समन्ताच्च शोषणं सन्तपनं, तत्सम्बन्धिनस्सान्तपनाः सन्तापनसमर्थाश्शत्रूणाम् । 'तेऽसुराः पराजिता यन्तः' इत्यादि ब्राह्मणम् ।  
@@ -73,6 +83,7 @@ and to the Maruts as lords of the house he milks at evening an oblation of all (
 2अव्युष्टायां रजन्यां पूर्णदर्व्येण चरन्ति, शरनिष्कासस्य दर्वीं पूरयित्वा गार्हपत्ये जुहोति । तत्र पुरोनुवाक्या - पूर्णेत्यनुष्टुप् ॥
 </details>
 
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -82,6 +93,7 @@ and to the Maruts as lords of the house he milks at evening an oblation of all (
 इ᳓षम् ऊ᳓र्जँ शत-क्रतो  ॥
 </details>
 </div>
+
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -99,6 +111,11 @@ Let us barter food and strength.
 व॒स्नेव॒ वि क्री॑णावहा॒ इष॒मूर्जँ॑ शतक्रतो  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+2B । पू॒र्णा । द॒र्वि॒ । परेति॑ । प॒त॒ । सुपू॒र्णेति॒ सु-पू॒र्णा॒ । पुनः॑ । एति॑ । प॒त॒ ॥ व॒स्ना । इ॒व॒ । वीति॑ । क्री॒णा॒व॒है॒ । इष॑म् । ऊर्ज॑म् । श॒त॒क्र॒तो॒ इति॑ शत-क्र॒तो॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे **दर्वि पूर्णा** शरनिष्कासस्य पूरिता । 'वा दान्तशान्त' इति ण्यन्तस्य निपात्यते ।  
@@ -113,6 +130,7 @@ Let us barter food and strength.
 3अथ याज्या - देहीत्यनुष्टुप् ॥ 
 </details>
 
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -122,6 +140,7 @@ Let us barter food and strength.
 निहा᳓रं [5] नि᳓ हरामि ते  ॥
 </details>
 </div>
+
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -137,6 +156,11 @@ I shall accept thy offering [1].
 
 दे॒हि मे॒ ददा॑मि ते॒ नि मे॑ धेहि॒ नि ते॑ दधे ।    
 नि॒हार॒मिन्नि मे॑ हरा नि॒हार॑म् [5] +नि ह॑रामि ते  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+3C । दे॒हि । मे॒ । ददा॑मि । ते॒ । नीति॑ । मे॒ । धे॒हि॒ । नीति॑ । ते॒ । द॒धे॒ ॥ नि॒हार॒मिति॑ नि-हार॑म् । इत् । नीति॑ । मे॒ । ह॒र॒ । नि॒हार॒मिति॑ नि-हार॑म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -166,6 +190,11 @@ To the Maruts, the playful, he offers a cake on seven potsherds at the rising of
 <details><summary>मूलम्</summary>
 
 म॒रुद्भ्य॑ᳵ क्री॒डिभ्यᳶ॑ पुरो॒डाशँ॑ स॒प्तक॑पाल॒न्निर्व॑पति सा॒कँ सूर्ये॑णोद्य॒ता ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2D । म॒रुद्भ्य॒ इति॑ म॒रुत्-भ्यः॒ । क्री॒डिभ्य॒ इति॑ क्री॒डि-भ्यः॒ । पु॒रो॒डाश॑म् । स॒प्तक॑पाल॒मिति॑ स॒प्त-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । सा॒कम् । सूर्ये॑ण । उ॒द्य॒तेत्यु॑त्-य॒ता ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -205,6 +234,11 @@ to Viśvakarman on eleven potsherds.
 <details><summary>मूलम्</summary>
 
 आ॒ग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति सौ॒म्यञ्च॒रुँ सा॑वि॒त्रन्द्वाद॑शकपालँ सारस्व॒तञ्च॒रुम्पौ॒ष्णञ्च॒रुमै॑न्द्रा॒ग्नमेका॑दशकपालमै॒न्द्रञ्च॒रुव्ँ वै॑श्वकर्म॒णमेक॑कपालम् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । सौ॒म्यम् । च॒रुम् । सा॒वि॒त्रम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । सा॒र॒स्व॒तम् । च॒रुम् । पौ॒ष्णम् । च॒रुम् । ऐ॒न्द्रा॒ग्नमित्यै॑न्द्र-अ॒ग्नम् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । ऐ॒न्द्रम् । च॒रुम् । वै॒श्व॒क॒र्म॒णमिति॑ वैश्व-क॒र्म॒णम् । एक॑कपाल॒मित्येक॑-क॒पा॒ल॒म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

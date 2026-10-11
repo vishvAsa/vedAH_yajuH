@@ -26,6 +26,11 @@ To Agni he offers on eight potsherds; the sacrificial fee is gold.
 हिर॑ण्य॒न्दक्षि॑णा  ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+1 । आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । हिर॑ण्यम् । दक्षि॑णा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1अथ पञ्चहविषामवेष्ट्योदवस्यति, तां विदधाति - आग्नेयमित्यादि ॥ 'ईश्वरो वा एष दिशोनून्मदितोः' इत्यादि ब्राह्मणम् । आग्नेयैन्द्रवैश्वदेवमैत्रावरुणबार्हस्पत्यानि पञ्च हवींषि निर्वपति । हिरण्यऋषभपष्ठौहीवशाशितिपृष्ठेत्येतानि दक्षिणाकाले देयनि । सन्तिष्ठते दशपेयः । 'एतया दिशामवेष्ट्या तेजस्कामो ब्राह्मणो राजन्यो वा वैश्यो वा' इत्ययज्ञसंयुक्तं केचिदाहुः ॥
@@ -48,6 +53,11 @@ To Indra (he offers) on eleven potsherds; the sacrificial fee is a bull.
 ऋ॒ष॒भो दक्षि॑णा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+2 । ऐ॒न्द्रम् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । ऋ॒ष॒भः । दक्षि॑णा ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैश्वदेव᳓ञ् चरु᳓म्  +++(निर्वपति)+++  ।  
@@ -63,6 +73,11 @@ To the All-gods (he offers) an oblation; the sacrificial fee is a tawny heifer.
 
 वै॒श्व॒दे॒वञ्च॒रुम्  +++(निर्वपति)+++  ।  
 पि॒शङ्गी॑ पष्ठौ॒ही दक्षि॑णा   ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+3 । वै॒श्व॒दे॒वमिति॑ वैश्व-दे॒वम् । च॒रुम् । पि॒शङ्गी॑ । प॒ष्ठौ॒ही । दक्षि॑णा ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -82,6 +97,11 @@ To Mitra and Varuna (he offers) clotted curds; the sacrificial fee is a cow.
 व॒शा दक्षि॑णा  ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+4 । मै॒त्रा॒व॒रु॒णीमिति॑ मैत्रा-व॒रु॒णीम् । आ॒मिक्षा॑म् । व॒शा । दक्षि॑णा ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बार्र्हस्पत्य᳓ञ्चरु᳓म्  +++(निर्वपति)+++  ।   
@@ -99,6 +119,11 @@ To Brhaspati (he offers) an oblation; the sacrificial fee is a white-backed (ox)
 शि॒ति॒पृ॒ष्ठो दक्षि॑णा   ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+5 । बा॒र्ह॒स्प॒त्यम् । च॒रुम् । शि॒ति॒पृ॒ष्ठ इति॑ शिति-पृ॒ष्ठः । दक्षि॑णा ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्या᳓म् मल्हा᳓ङ् +++(अजां, यस्या ग्रीवायां मणिवन्मांसद्वयमवलम्बते)+++ गर्भि᳓णीम् आ᳓ लभते,  
@@ -113,6 +138,11 @@ To the Adityas he sacrifices a sheep in young, to the Maruts a dappled heifer.
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्याम्म॒ल्हाङ्ग॒र्भिणी॒मा ल॑भते मारु॒तीम्पृश्ञि॑म्पष्ठौ॒हीम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+6 । आ॒दि॒त्याम् । म॒ल्‌हाम् । ग॒र्भिणी॑म् । एति॑ । ल॒भ॒ते॒ । 7 । मा॒रु॒तीम् । पृश्ञि॑म् । प॒ष्ठौ॒हीम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -135,6 +165,11 @@ To the Aśvins and Pusan he offers a cake on twelve potsherds;
 अ॒श्विभ्या॑म् पू॒ष्णे पु॑रो॒डाश॒न् द्वा-द॑श-कपाल॒न् निर्व॑पति ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+8 । अ॒श्विभ्या॒मित्य॒श्वि-भ्या॒म् । पू॒ष्णे । पु॒रो॒डाश॑म् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3श्वोभूते द्वितीयायां सात्यदूतानां त्रिहविषेष्ट्या यजते, तां विदधाति - अश्विभ्यामित्यादि ॥ अश्विनौ पूषा च सम्भूय देवते । 'अश्विभ्यां पूष्णे जुष्टं निर्वपामि' इति निर्वापः । पूष्ण इत्याद्युदात्तनिवृत्तिस्वरेण चतुर्थ्या उदात्तत्वम् ।
@@ -153,6 +188,11 @@ to Sarasvati of true speech an oblation;
 <details><summary>मूलम्</summary>
 
 सर॑स्वते सत्य॒-वाचे॑ च॒रुम्  +++(निर्वपति)+++  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सर॑स्वते । स॒त्य॒वाच॒ इति॑ सत्य-वाचे॑ । च॒रुम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -179,6 +219,11 @@ the sacrificial fee is a dry skin bag and a bow with three arrows.
  +++(निर्वपति)+++ ।
 
  +++(स॒वि॒त्रे स॒त्यप्र॑सवाय)+++  तिसृध॒न्वँ शु॑ष्कदृ॒तिर्दक्षि॑णा ॥ [35]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒वि॒त्रे । स॒त्यप्र॑सवा॒येति॑ स॒त्य-प्र॒स॒वा॒य॒ । पु॒रो॒डाश॑म् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । 9 । ति॒सृ॒ध॒न्वमिति॑ तिसृ-ध॒न्वम् । शु॒ष्क॒दृ॒तिरिति॑ शुष्क-दृ॒तिः । दक्षि॑णा ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

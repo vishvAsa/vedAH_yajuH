@@ -30,6 +30,11 @@ For each he offers on one potsherd, and one over.
 प्र॒ति॒पू॒रु॒षमेक॑कपाला॒न्निर्व॑प॒त्येक॒मति॑रिक्तम्। 
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+1A । प्र॒ति॒पूरु॒षमिति॑ प्रति-पू॒रु॒षम् । एक॑कपाला॒नित्येक॑-क॒पा॒ला॒न् । निरिति॑ । व॒प॒ति॒ । एक॑म् । अति॑रिक्त॒मित्यति॑-रि॒क्त॒म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पूरुषं पूरुषं **प्रतिपूरुषं**, पुरुषशब्दपर्यायः पूरुषशब्दः । उपलक्षणत्वात् स्त्रियोपि गृह्यन्ते ।  
@@ -59,6 +64,11 @@ As many as we are of the house, to them have I made prosperity.
 याव॑न्तो गृ॒ह्याः॑ स्मस्तेभ्य॒ᳵ कम॑करम्  ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+2B । याव॑न्तः । गृ॒ह्याः॑ । स्मः । तेभ्यः॑ । कम् । अ॒क॒र॒म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 गृहे भवा **गृह्याः** । व्यत्ययेनाद्युदात्तत्वाभावः । **यावन्तः** यत्परिमाणा वयं **गृह्याः** पुमांसस्त्रियश्च **स्मो** भवामः; **तेभ्यस्** सर्वेभ्यो ऽस्मभ्यं **कं** सुखम् एभिस् त्र्यम्बकैर् **अकरं** करोमि । यद्वा - सर्वेभ्यस्सुखकरं त्रैय्यम्बकयागाख्यमेतत्कर्म करोमीति । छान्दसो लुङ् । 'मन्त्रे घस' इति च्लेर्लुक् । पुरुषव्यत्ययो वा, कं कुर्वीतेति । 
@@ -83,6 +93,11 @@ give me protection.
 प॒शू॒नाँ शर्मा॑सि॒,   
 शर्म॒ यज॑मानस्य।  
 शर्म॑ मे य॒च्छ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+3C । प॒शू॒नाम् । शर्म॑ । अ॒सि॒ । शर्म॑ । यज॑मानस्य । शर्म॑ । मे॒ । य॒च्छ॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -112,6 +127,11 @@ Rudra alone yieldeth to no second.
 एक॑ ए॒व रु॒द्रो न द्वि॒तीया॑य तस्थे ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+4D । एकः॑ । ए॒व । रु॒द्रः । न । द्वि॒तीया॑य । त॒स्थे॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 असहाय एव ऐश्वर्येण रुद्रः तुल्योत्कृष्टरहितः ; परस्मिन् पदे स्थितत्वात् । तदेव स्पष्टयति - न द्वितीयाय स्वव्यतिरिक्ताय कस्मैचिदपि तस्थे तिष्ठते आत्मानं प्रकाशयति । यथा द्वितीयेन स्वप्रभावो न परिच्च्छिद्यते तथैव सर्वदा भवति । तस्मात्सर्वदोत्कृष्टरहितत्वादेक एवेति । 'श्लाघह्नुङ्स्थाशपाम्' इति सम्प्रदानत्वम् । 'प्रकाशनस्थेयाख्ययोश्च' इत्यात्मनेपदम् । यद्वा - एक एव रुद्र इति निस्सामान्यमैश्वर्यं प्रतिपादयति । यस्मादेवं तस्मादेष देवः कदाचिदपि द्वितीयाय सहायाय न तस्थे सहायार्थं न तिष्ठतीति सहायापेक्षी न क्वचिदपि कार्येषु भवतीति ।
@@ -131,6 +151,11 @@ The mole is thy beast, O Rudra; rejoice in it.
 <details><summary>मूलम्</summary>
 
 आ॒खुस्ते॑ रुद्र प॒शुस्तञ्जु॑षस्व ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+5E । आ॒खुः । ते॒ । रु॒द्र॒ । प॒शुः । तम् । जु॒ष॒स्व॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -154,6 +179,11 @@ This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
 ए॒ष ते॑ रुद्र भा॒गस्स॒ह स्वस्राऽम्बि॑कया॒ तञ्जु॑षस्व।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+6F । ए॒षः । ते॒ । रु॒द्र॒ । भा॒गः । स॒ह । स्वस्रा॑ । अम्बि॑कया । तम् । जु॒ष॒स्व॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अपि च - हे रुद्र स एवाखूत्करस्थस्तव भागः सर्वत्रैयम्बकादानात्मकः ; तस्मात्तमपि भगवत्याम्बिकया देव्या सह जुषस्व । लक्षितलक्षणया स्वस्रा भगिनी लक्ष्यते । भगिन्या भगवत्या । यद्वा - स्वसृत्वेन सहजत्वं लक्ष्यते तेन चाविनाभावः । यद्वा - स्वमात्मानं सरति भजत इति स्वसा देहार्धभूता । पृषोदरादिः । सुष्ठु वात्मना अस्यते प्राप्यते इति स्वसा । असु गत्यादिषु, तस्मात् 'सुञ्यसेरृन्' इति ऋप्रत्ययः, व्युत्पत्त्यनवधारणान्ननिहन्यते ॥
@@ -163,6 +193,7 @@ This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
 
 4ततश्च त्वत्प्रसादाद् अस्माकम् इत्थम् अस्त्व् इत्य् आशास्ते - भेषजं गव इति पङ्क्त्या पञ्चपदया ॥ 
 </details>
+
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
@@ -174,6 +205,7 @@ This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
 सुग᳓म् मेषा᳓य मेष्या᳙ ॥
 </details>
 </div>
+
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -192,6 +224,11 @@ Good [1] for ram and sheep.
 अथो॑ अ॒स्मभ्य॑म्भेष॒जँ...     
 सुभे॑षजम् [10] यथाऽस॑ति  ॥   
 सु॒गम्मे॒षाय॑ मे॒ष्या॑ ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+7G । भे॒ष॒जम् । गवे॑ । अश्वा॑य । पुरु॑षाय । भे॒ष॒जम् । अथो॒ इति॑ । अ॒स्मभ्य॒मित्य॒स्म-भ्य॒म् । भे॒ष॒जम् । सुभे॑षज॒मिति॒ सु-भे॒ष॒ज॒म् । 1 । यथा॑ । अस॑ति ॥ सु॒गमिति॑ सु-गम् । मे॒षाय॑ । मे॒ष्यै॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -220,6 +257,11 @@ Good [1] for ram and sheep.
 <details><summary>मूलम्</summary>
 
 अवा॑म्ब रु॒द्रम॑दिम॒ह्यव॑ दे॒वन्त्र्य॑म्बकम्  ॥ यथा॑ न॒श्श्रेय॑स॒ᳵ कर॒द्यथा॑ नो॒ वस्य॑स॒ᳵ कर॒द्यथा॑ नᳶ पशु॒मत॒ᳵ कर॒द्यथा॑ नो व्यवसा॒यया॑त्  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2 । अवेति॑ । अ॒म्ब॒ । रु॒द्रम् । अ॒दि॒म॒हि॒ । अवेति॑ । दे॒वम् । त्र्य॑म्बक॒मिति॒ त्रि-अ॒म्ब॒क॒म् ॥ यथा॑ । नः॒ । श्रेय॑सः । कर॑त् । यथा॑ । नः॒ । वस्य॑सः । कर॑त् । यथा॑ । नः॒ । प॒शु॒मत॒ इति॑ पशु-मतः॑ । कर॑त् । यथा॑ । नः॒ । व्य॒व॒सा॒यया॒दिति॑ वि-अ॒व॒सा॒यया॑त् ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -257,6 +299,7 @@ That he may embolden us.
 6त्रिः प्रदक्षिणं परियन्ति - त्र्यम्बकमिति । 
 </details>
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/059/12_tryambakaM_yajAmahe.md">
 <details open><summary><h5>१२ त्र्यम्बकं यजामहे ...{Loading}...</h5></summary>
 
@@ -267,6 +310,7 @@ That he may embolden us.
 
 </details>
 </div>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/059/12_tryambakaM_yajAmahe.md">
 <details open><summary><h5>012 ...{Loading}...</h5></summary>
@@ -476,6 +520,7 @@ Like a cucumber from its stem, might I be freed from death, not from  deathlessn
 ᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
 <details open><summary><h7>09-12 ...{Loading}...</h7></summary>
 <details><summary>Jamison Brereton Notes</summary>
@@ -588,6 +633,11 @@ This is thy portion, O Rudra; rejoice in it;
 ए॒ष ते॑ रुद्र भा॒गस्तञ्जु॑षस्व  ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+4K । ए॒षः । ते॒ । रु॒द्र॒ । भा॒गः । तम् । जु॒ष॒स्व॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे भगवन् रुद्र एष तव भागः, तं जुषस्व गृहाण !
@@ -602,6 +652,11 @@ This is thy portion, O Rudra; rejoice in it;
 <details><summary>मूलम्</summary>
 
 तेना॑व॒सेन॑ प॒रो मूज॑व॒तोऽती॒ह्यव॑ततधन्वा॒ पिना॑कहस्त॒ᳵ कृत्ति॑वासाः ॥ [11]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तेन॑ । अ॒व॒सेन॑ । प॒रः । मूज॑वत॒ इति॒ मूज॑-व॒तः॒ । अतीति॑ । इ॒हि॒ । 5L । अव॑ततध॒न्वेत्यव॑तत-ध॒न्वा॒ । पिना॑कहस्त॒ इति॒ पिना॑क-ह॒स्तः॒ । कृत्ति॑वासा॒ इति॒ कृत्ति॑-वा॒साः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
