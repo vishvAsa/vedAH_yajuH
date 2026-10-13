@@ -64,10 +64,8 @@ Ye are active,
 मन्त्रार्थस्तु - अर्थेतस्स्थ हे आपः अर्थमरणीयं स्थानान्तरं यन्ति गच्छन्तीति अर्थेतः । एतेः क्विप् ।
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -78,7 +76,6 @@ Ye are active,
 
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -160,10 +157,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [अर्थे᳓तस्स्थ  ।]
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -173,7 +168,6 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -254,10 +248,8 @@ thou art the lord of the waters,
 अपाम्पतिस्समुद्रः तदीया आप उच्यन्ते ; विकारे प्रकृतिशब्दात् । समुदायशब्दादेकवचनम् । शोणादीनां पुंस्त्वेन अपांपतित्वम् । 'ऊडिदम्' इति षष्ठ्या उदात्तत्वम् ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -267,7 +259,6 @@ thou art the lord of the waters,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -347,10 +338,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [अपा᳓म् प᳓तिरसि  ।]
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -360,7 +349,6 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -443,10 +431,8 @@ thou art the male wave,
 वृषा वर्षिता वृष्टिहेतुत्वात् । प्रधाने[धानं]वा ; सङ्घातरूपत्वात् । ऊर्मिस्सङ्घातार्था अरणशीला वा ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -456,7 +442,6 @@ thou art the male wave,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -536,10 +521,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [वृ᳓षास्य् ऊर्मिः᳓  ।]
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -549,7 +532,6 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -630,10 +612,8 @@ thou art the male host,
 सेक्त्री सेना यस्य संघातत्वेन महत्त्वात् सेकसामर्थ्याच्च । छान्दसमन्तोदात्तत्वम् । केचित्तु - वृषास्यूर्मिरित्येतावता ऊर्मिजलं गृह्णाति, वृषसेनोसीति पल्वल्यमिति ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -643,7 +623,6 @@ thou art the male host,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -723,10 +702,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [वृ᳓षसेनो᳙ऽसि  ।]
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -736,7 +713,6 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -817,10 +793,8 @@ ye are the pen-dwellers,
 व्रजे वेष्टितेवकाशे क्षियन्ति निवसन्तीति व्रजक्षितः । क्षि निवासगत्योः ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -830,7 +804,6 @@ ye are the pen-dwellers,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -910,10 +883,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [व्र᳓जक्षि᳓तस् स्थ।]
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -923,7 +894,6 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1004,10 +974,8 @@ ye are the strength of the Maruts,
 मरुतां वायूनामोजः बलं स्थ ; तेन निर्वृत्तत्वात् ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1017,7 +985,6 @@ ye are the strength of the Maruts,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1097,10 +1064,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [मरु᳓ताम् ओ᳓जस् स्थ  ।]
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1110,7 +1075,6 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1191,10 +1155,8 @@ ye have the radiance of the sun,
 सूर्यं वर्चयन्ति भृशं दीपयन्ति । 'गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वञ्च' इत्यसुन् । सातपेहि वर्षे भृशमादित्यो दीप्यते । बहुव्रीहिर्वा सूर्यस्येव वर्चो येषामिति । सूर्यरश्मिसंयोगेन वर्चस्वित्वात् ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1204,7 +1166,6 @@ ye have the radiance of the sun,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1284,10 +1245,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [सू᳓र्यवर्चसस् स्थ  ।]
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1297,7 +1256,6 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1378,10 +1336,8 @@ ye have the brightness of the sun,
 त्वच संवरणे, सुर्यं त्वचन्ति संवृण्वन्ति । पूर्ववदसुन् । यासु खलु निर्मलास्वप्सु रूपाणि परिदृश्यन्ते ताः खलु सूर्यरूपप्रकाशनं सूर्यमपि स्वमहिम्ना संवृण्वन्ति ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1391,7 +1347,6 @@ ye have the brightness of the sun,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1471,10 +1426,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [सू᳓र्य-त्वचसस् स्थ ।]
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1484,7 +1437,6 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1565,10 +1517,8 @@ ye are delightful,
 मन्दस्वभावाः । मां दत्तदेवेभ्य इति ह्रादं कुर्वाणाः, अशोष्या इत्यन्ये ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1578,7 +1528,6 @@ ye are delightful,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1658,10 +1607,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [मा᳓न्दाः स्थ  ।]
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1671,7 +1618,6 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1752,10 +1698,8 @@ ye are obedient,
 वाशा वश्याः नीहारो हि नदीप्रवाहवन्मनुष्यगतिं न प्रतिबध्नाति ; ततो वश्यत्वम् ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1765,7 +1709,6 @@ ye are obedient,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1845,10 +1788,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [वा᳓शाः स्थ  ।]
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1858,7 +1799,6 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -1939,10 +1879,8 @@ ye are powerful,
 गर्भसंरक्षणे शक्ताश्शक्वर्यः । 'वा छन्दसि' इति पूर्वसवार्णदीर्घत्वम् ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -1952,7 +1890,6 @@ ye are powerful,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2032,10 +1969,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [श᳓क्वरीस् स्थ  ।]
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2045,7 +1980,6 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2126,10 +2060,8 @@ ye are all supporters,
 विश्वं बिभ्रति धारयन्ति वा पोषयन्ति वा विश्वभृतः, तद्रूपेण विवक्षितत्वात् बहुवचनं स्त्रीत्वं च ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2139,7 +2071,6 @@ ye are all supporters,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2219,10 +2150,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [विश्वभृ᳓तस् स्थ ।]
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2232,7 +2161,6 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2313,10 +2241,8 @@ ye are supporters of men,
 जनं बिभ्रर्तीति जनभृतः ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2326,7 +2252,6 @@ ye are supporters of men,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2406,10 +2331,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [जनभृ᳓तस्स्थ ।]
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2419,7 +2342,6 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2500,10 +2422,8 @@ ye have the brilliance of Agni,
 अग्नेस्तेजसा सहितास्तेजस्याः गवादिर्द्रष्टव्यः । तेजसो वा निमित्तभूतास्तेजस्याः । 'गोद्व्यचः' इति यत् । तेजसि वा भवाः ; तदर्थं व्यापृतत्वात् ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2513,7 +2433,6 @@ ye have the brilliance of Agni,
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2593,10 +2512,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [अग्ने᳓स् तेजस्याः᳙ स्थ  ।]
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2606,7 +2523,6 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2689,10 +2605,8 @@ ye are the sap of the waters, of the plants.
 इत्यष्टमे एकादशोनुवाकः ॥  
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2702,7 +2616,6 @@ ye are the sap of the waters, of the plants.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2781,10 +2694,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [अपा᳓मो᳓षधीनाँ र᳓सस्स्थ  ।]
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2794,7 +2705,6 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
@@ -2849,10 +2759,8 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [अपा᳓म् ओ᳓षधीनाँ र᳓सस्स्थ  ।]      
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
@@ -2862,7 +2770,6 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>

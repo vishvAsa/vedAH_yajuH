@@ -13,7 +13,6 @@ title = "१२ जलसंस्कारादि"
 1एवं गृहीत्वाथ वैतसे द्रोणकलशे ग्रहान् समवनयति - देवीराप इति ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/02_devIr_Apas.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -22,7 +21,6 @@ title = "१२ जलसंस्कारादि"
 म᳓हि व᳓र्चः क्षत्रि᳓याय **वन्वानाः᳓**+++(=याचमानाः)+++।
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/12_jala-saMskArAdi/02_devIr_Apas.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -58,7 +56,6 @@ Winning great radiance for the Ksatriya.
 2अन्तराहोतुर् धिष्ण्यं ब्राह्मणाच्छंसिनश् च सादयति - अनाधृष्टा इति ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/03_anAdhRShTAs_sIdatorjasvatIr.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -66,7 +63,6 @@ Winning great radiance for the Ksatriya.
 म᳓हि व᳓र्चः क्षत्रि᳓याय द᳓धतीः ।
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/12_jala-saMskArAdi/03_anAdhRShTAs_sIdatorjasvatIr.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -98,7 +94,6 @@ Bestowing great radiance upon the Ksatriya.
 3शतमानं हिरण्यं प्रग्रथ्नाति - अनिभृष्टमिति ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/04_anibhRShTam_asi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -106,7 +101,6 @@ Bestowing great radiance upon the Ksatriya.
 वाचो᳓ ब᳓न्धुस् तपो-जाः᳓ ।
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/12_jala-saMskArAdi/04_anibhRShTam_asi.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -210,7 +204,6 @@ The pure I purify you with the pure, the bright with the bright, the immortal wi
 6अथ पालाशादिषु पात्रेषु गृह्णाति - सधमाद इति त्रिष्टुभा ॥  
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/05_sadhamAdo_dyumninIr.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -220,7 +213,6 @@ The pure I purify you with the pure, the bright with the bright, the immortal wi
 अपाँ᳓ शि᳓शुर् मातृ᳓तमास्व् अन्तः᳓  ॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/12_jala-saMskArAdi/05_sadhamAdo_dyumninIr.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -501,7 +493,6 @@ notified is he, N. N., descendant of N. N., in this folk, this kingdom, for grea
 महते क्षत्रायेति व्याख्यातम् ॥    
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/mahate_xatrAya.md">
 <details open><summary><h5>म॒ह॒ते क्ष॒त्त्राय॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
@@ -540,7 +531,6 @@ to great lordship, to great overlordship, to great rule over the people.
 
 17सोमोस्माकमिति ॥ ब्रह्मणश्च जपो व्याख्यातः ॥
 </details>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/eSha_vo_bharatA_rAjA.md">
 <details open><summary><h5>ए॒ष वो॑ भरता॒ राजा॑ ...{Loading}...</h5></summary>
@@ -607,10 +597,8 @@ Soma is the king of us Brahmans.
 व्याख्यातं वाजपेये ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si.md">
 <details open><summary><h5>इन्द्र॑स्य॒ वज्रो॑ऽसि॒ ...{Loading}...</h5></summary>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
 <details open><summary><h10>इन्द्र॑स्य॒ वज्रो॑ऽसि॒ ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -755,7 +743,6 @@ Protect me in front, protect me at the side, protect me from behind; from the qu
 21बाहू उद्गृह्णाति - हिरण्यवर्णाविति त्रिष्टुभा ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/06_hiraNyavarNAv_uShasAv.N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -765,7 +752,6 @@ Protect me in front, protect me at the side, protect me from behind; from the qu
 त᳓तश् **चक्षाथाम्**+++(←चक्ष् वीक्षणे)+++ अ᳓दितिन् दि᳓तिञ् च ॥ [23]
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/12_jala-saMskArAdi/06_hiraNyavarNAv_uShasAv.N.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>

@@ -83,7 +83,6 @@ and to the Maruts as lords of the house he milks at evening an oblation of all (
 2अव्युष्टायां रजन्यां पूर्णदर्व्येण चरन्ति, शरनिष्कासस्य दर्वीं पूरयित्वा गार्हपत्ये जुहोति । तत्र पुरोनुवाक्या - पूर्णेत्यनुष्टुप् ॥
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -93,7 +92,6 @@ and to the Maruts as lords of the house he milks at evening an oblation of all (
 इ᳓षम् ऊ᳓र्जँ शत-क्रतो  ॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -130,7 +128,6 @@ Let us barter food and strength.
 3अथ याज्या - देहीत्यनुष्टुप् ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -140,7 +137,6 @@ Let us barter food and strength.
 निहा᳓रं [5] नि᳓ हरामि ते  ॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>

@@ -58,7 +58,6 @@ for the Pitrs prepared by Agni he milks a beverage from a cow which has to be wo
 पिण्डान् कृत्वा वेद्यास्त्रिसृषु स्रक्तिषु निदधाति पूर्वस्यां दक्षिणस्यां अपरस्यामिति - एतत्ते ततेत्यादि ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/etat_te_tata.md">
 <details open><summary><h5>एतत् ते तत ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -126,9 +125,7 @@ Rejoice therein, O fathers, according to your shares.
 </details>
 </div>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/02_susandRshan_tvA.md"> </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/02_susandRshan_tvA.md">
 <details open><summary><h5>02 सुसन्दृशन् त्वा ...{Loading}...</h5></summary>
@@ -159,7 +156,6 @@ O bountiful one, fair to see;
 </details>
 </div>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/03_pra_nUnam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -168,7 +164,6 @@ O bountiful one, fair to see;
 **यो᳓जा** न्व् इ᳙न्द्र ते ह᳓री ॥ [7]
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/03_pra_nUnam.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -207,7 +202,6 @@ Yoke, O Indra, thy two bay steeds [1].
 4गार्हपत्यमुपतिष्ठते - अक्षन्नमीमदन्तेति पञ्चपदया पङ्क्त्या । ह्यन्तः प्रथमः पादः ॥ 
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/082/02_axannamImadanta_hyava.md">
 <details open><summary><h5>०२ अक्षन्नमीमदन्त ह्यव ...{Loading}...</h5></summary>
 
@@ -217,7 +211,6 @@ Yoke, O Indra, thy two bay steeds [1].
 
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/082/02_axannamImadanta_hyava.md">
 <details open><summary><h5>002 ...{Loading}...</h5></summary>
@@ -582,7 +575,6 @@ The Pitrs have eaten, the Pitrs have rejoiced, the Pitrs have been glad, the Pit
 6पितॄन् प्रवाहयति - परेतेति । पञ्चपदा बृहती ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/04_pareta_pitaras.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -592,7 +584,6 @@ The Pitrs have eaten, the Pitrs have rejoiced, the Pitrs have been glad, the Pit
 **अ᳓पीत** यमे᳓न ये᳓ सधमा᳓दम् **म᳓दन्ति**  ॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/04_pareta_pitaras.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -628,7 +619,6 @@ Who carouse in company with Yama.
 7अथ तैस्सह तं देशं गतम् इव कृत्वा मन आह्वयति - मन इति तिसृभिर्गायत्रीभिः ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/05_mano_nv.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -638,7 +628,6 @@ Who carouse in company with Yama.
 पितृणा᳓ञ् +++(←६.४.५ छन्दस्युभयथा)+++ च म᳓न्मभिः+++(=मननीयैः)+++  ॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/05_mano_nv.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -675,7 +664,6 @@ And the reverence of the Pitrs.
 8अथ द्वितीया ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/06_A_na.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -684,7 +672,6 @@ And the reverence of the Pitrs.
 ज्यो᳓क् च सू᳓र्यन् दृशे᳓  ॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/06_A_na.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -718,7 +705,6 @@ And that long we may see the sun.
 9अथ तृतीया ॥ 
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH/atharva/paippalAdam/saMhitA/vishvAsa-prastutiH/19/024/12_punar_naH_pitaro.md">
 <details open><summary><h5>१२ पुनर् नः पितरो ...{Loading}...</h5></summary>
 
@@ -727,7 +713,6 @@ And that long we may see the sun.
 जी॒वव्ँ व्रातँ॑+++(=समूहम्)+++ सचेमहि+++(=सेवेमहि)+++  ॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH/atharva/paippalAdam/saMhitA/sarvASh_TIkAH/19/024/12_punar_naH_pitaro.md">
 <details open><summary><h5>१२ पुनर् नः पितरो ...{Loading}...</h5></summary>
@@ -756,7 +741,6 @@ May we belong to the band of the living.
 10गार्हपत्यसमीपं गच्छन् जपति - यदन्तरिक्षमिति षट्पदा शक्वरी । केचित् पङ्क्तिमाहुः ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/07_yad_antarikhSham.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -768,7 +752,6 @@ May we belong to the band of the living.
 **करो᳓तु** मा᳓म् अनेन᳓सम् ॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/07_yad_antarikhSham.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>

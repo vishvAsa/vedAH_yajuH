@@ -17,7 +17,6 @@ title = "२१ सौत्रामणीमन्त्रादि"
 आसरेणावेक्षन् सोमं सम्पादयति - स्वद्वीमिति । 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/02_svAdvIn_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -26,7 +25,6 @@ title = "२१ सौत्रामणीमन्त्रादि"
 सृजा᳓मि स᳓म्॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/02_svAdvIn_tvA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -104,7 +102,6 @@ thou art Soma; be ready for the Aśvins, be ready for Sarasvati, be ready for In
 3सुरां पुनाति वालेन - पुनात्विति गायत्र्या ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/03_punAtu_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -113,7 +110,6 @@ thou art Soma; be ready for the Aśvins, be ready for Sarasvati, be ready for In
 वा᳓रेण+++(=वालेन)+++ श᳓श्वता **त᳓ना**+++(←तन्)+++  ॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/03_punAtu_te.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -161,7 +157,6 @@ With the eternal sieve.
 4सोमातिपवितस्य सोम-वामिनो वा पुनाति - वायुरिति गायत्र्या च ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/04_vAyupH_pUtapH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -170,7 +165,6 @@ With the eternal sieve.
 इ᳓न्द्रस्य यु᳓ज्यस् स᳓खा  ॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/04_vAyupH_pUtapH.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -209,7 +203,6 @@ Indra's dear friend.
 5सुरा-ग्रहान् गृह्णाति - कुविदङ्गेति त्रिष्टुप् ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/05_kuvid_anga.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -219,7 +212,6 @@ Indra's dear friend.
 ये᳓ बर्हि᳓षो न᳓मो-वृक्तिन्+++(→व्यावृत्तिं)+++ **न᳓ जग्मुः᳓**  ॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/05_kuvid_anga.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>

@@ -61,7 +61,6 @@ and on one potsherd to Ka.
 2गृहीत-करम्भ-पात्रां पत्नीम् उदानयित्वा वाचयति प्रतिप्रस्थाता - प्रघास्यानिति । 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/02_praghAsyAn_havAmahe.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -70,7 +69,6 @@ and on one potsherd to Ka.
 करम्भे᳓ण+++(=दधि-सर्पिर्-मिश्रास् सक्तवः)+++ सजो᳓षसः ॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/02_praghAsyAn_havAmahe.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -107,7 +105,6 @@ Rejoicing in the mush.
 3यजमानः पुरोनुवाक्यामन्वाह - मो षूण इति । 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/03_mo_ShU.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -117,7 +114,6 @@ Rejoicing in the mush.
 हवि᳓ष्मतो मरु᳓तो +++(→मरुद्वतः)+++ **व᳓न्दते** गीः᳓  ॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/03_mo_ShU.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -182,7 +178,6 @@ Rich in oblation are the Maruts whom our song praises.
 यद्ग्रामे॒ यदर॑ण्ये॒ यत् स॒भायाय्ँ॒यदि॑न्द्रि॒ये । यच्छू॒द्रे यद॒र्य॑ एन॑श्चकृ॒मा व॒यम् । यदेक॒स्याधि॒ धर्म॑णि॒ तस्या॑व॒यज॑नमसि॒ स्वाहा॑ ॥  
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/04_yad_grAme.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -194,7 +189,6 @@ Rich in oblation are the Maruts whom our song praises.
 त᳓स्यावय᳓जनम् असि स्वा᳓हा  ॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/04_yad_grAme.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -234,7 +228,6 @@ Of that thou art the expiation; hail!
 5पृथग् गच्छन्ताव् अनुमन्त्रयेते पत्नीय-जमानौ - अक्रन्निति । 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/05_akran_karma.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -244,7 +237,6 @@ Of that thou art the expiation; hail!
 ऽस्तम् **प्रे᳓त** सु-दानवः ॥ [4]
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/05_akran_karma.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>

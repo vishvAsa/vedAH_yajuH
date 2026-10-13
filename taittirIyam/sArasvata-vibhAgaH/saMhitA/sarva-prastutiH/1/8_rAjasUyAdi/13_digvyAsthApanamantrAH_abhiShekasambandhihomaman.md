@@ -53,7 +53,6 @@ Do I thou mount the kindling (quarter); let the Gayatri of metres help thee; the
 2दक्षिणां उग्रामिति ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -63,7 +62,6 @@ Do I thou mount the kindling (quarter); let the Gayatri of metres help thee; the
 इ᳓न्द्रो देव᳓ता क्षत्त्र᳓न् द्र᳓विणम्
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>

@@ -168,7 +168,6 @@ Cast away is Namuci's head.
 6अभिषेकानवेक्षते - सोम इति षट्पदया त्रिष्टुभा ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -180,7 +179,6 @@ Cast away is Namuci's head.
 ते᳓ ते श्रो᳓त्रँ सुवन्ताम् ॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -274,7 +272,6 @@ Protect from the sky.
 8ऊर्ध्वं धारास्समुन्मार्ष्टि - समाववृत्रन्निति त्रिष्टुभा ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -285,7 +282,6 @@ Protect from the sky.
 +++(अत्रापः कर्म-प्रवाह-रूपाः, यथैव [Socrates in Phaedo](/AgamaH/AryaH/mediterranian/platonism/plato/phaedo/))+++
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -362,7 +358,6 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 10युवराजस्य प्रतिहितस्य गृहे जुहोति - प्रजापत इति त्रिष्टुभा ॥ 
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
 <details open><summary><h2>१० प्रजापते न ...{Loading}...</h2></summary>
 
@@ -372,7 +367,6 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म्॥
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
 <details open><summary><h2>010 ...{Loading}...</h2></summary>
