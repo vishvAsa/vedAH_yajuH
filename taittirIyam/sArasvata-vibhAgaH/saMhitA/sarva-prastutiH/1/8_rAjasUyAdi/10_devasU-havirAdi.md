@@ -300,7 +300,6 @@ do ye instigate him, descendant of N. N., to freedom from foes,
 हे देवा अग्न्यादयो वरुणान्ताः ये यूयं देवसुवस्स्थ देवस्य दानादिगुणयुक्तस्य यजमानस्य सवितारः प्रेरकास्स्थ ते यूयं यस्मादेवं प्रसवादीनामनुज्ञातारः तस्मादिममामुष्यायणं सिंहवर्मणः पुत्रं नन्दिवर्माणम् अनमित्रायानमित्रत्वाय अविद्यमानशत्रुत्वाय सुवध्वम् । अनुजानीत अशत्रुमेनं कुरुतेत्यर्थः । इममामुष्यायणमिति सर्वनामद्वयं विशेषार्थमुपादीयते । अमुष्यशब्दान्नडादित्वात्फक् ।
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/mahate_xatrAya.md">
 <details open><summary><h5>म॒ह॒ते क्ष॒त्त्राय॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
@@ -337,7 +336,6 @@ to great lordship, to great overlordship, to great rule over the people.
 
 3यजमानायतने तिष्ठन् रत्निभ्यो जानपदेभ्यो ऽध्वर्युर् आवेदयते - एष व इति ॥ 
 </details>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/eSha_vo_bharatA_rAjA.md">
 <details open><summary><h5>ए॒ष वो॑ भरता॒ राजा॑ ...{Loading}...</h5></summary>
@@ -408,7 +406,6 @@ Soma is the king of us Brahmans.
 प्रति॒ त्यन्नाम॑ रा॒ज्यम॑धायि॒ स्वान्त॒नुवव्ँ॒वरु॑णो अशिश्रे॒च्छुचे॑र्मि॒त्रस्य॒ व्रत्या॑ अभू॒माम॑न्महि मह॒त ऋ॒तस्य॒ नाम॒ सर्वे॒ व्राता॒ वरु॑णस्याभूव॒न्वि मि॒त्र एवै॒ररा॑तिमतारी॒दसू॑षुदन्त य॒ज्ञिया॑ ऋ॒तेन॒ व्यु॑ त्रि॒तो ज॑रि॒माण॑न्न आनड् 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -418,7 +415,6 @@ Soma is the king of us Brahmans.
 +**अ᳓मन्महि** महत᳓ ऋत᳓स्य ना᳓म ॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -449,7 +445,6 @@ We have magnified the name of the great holy order.
 </details>
 </div>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -459,7 +454,6 @@ We have magnified the name of the great holy order.
 **व्य्** उ᳙ त्रितो᳓ +++(ऽग्निः)+++ जरिमा᳓णन् न᳓+++(ः)+++ **आ᳓नट्** +++(=प्रापयतु)+++॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -496,7 +490,6 @@ Trita hath taken possession of our old age.
 
 7-9त्रीन्विष्णुक्रमान् प्राचः क्रामति - विष्णोः क्रमोसीति ॥ व्याख्यातम् ॥
 </details>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md">
 <details open><summary><h5>विष्णोः क्रमः ...{Loading}...</h5></summary>
