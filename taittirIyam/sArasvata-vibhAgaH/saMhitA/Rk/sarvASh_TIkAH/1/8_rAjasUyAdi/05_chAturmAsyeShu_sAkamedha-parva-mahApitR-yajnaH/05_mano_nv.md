@@ -1,8 +1,6 @@
 +++
 title = "05 मनो न्व्"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -15,6 +13,11 @@ And the reverence of the Pitrs.
 
 मनो॒ न्वा हु॑वामहे नाराशँ॒सेन॒ स्तोमे॑न ।    
 पि॒तृ॒णाञ् च॒ मन्म॑भिः  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+4G । मनः॑ । नु । एति॑ । हु॒वा॒म॒हे॒ । ना॒रा॒शँ॒सेन॑ । स्तोमे॑न । पि॒तृ॒णाम् । च॒ । मन्म॑भि॒रिति॒ मन्म॑-भिः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

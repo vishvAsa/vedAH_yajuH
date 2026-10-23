@@ -1,8 +1,6 @@
 +++
 title = "02 लेकस् सलेकस्"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -12,6 +10,11 @@ Leka, Salekha, Sulekha, may these Adityas rejoicing partake of our oblation;
 <details><summary>मूलम्</summary>
 
 लेक॒स्सले॑कस्सु॒लेक॒स्ते न॑ आदि॒त्या आज्य॑ञ्जुषा॒णा वि॑यन्तु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+4L । लेकः॑ । सले॑क॒ इति॒ स-ले॒कः॒ । सु॒लेक॒ इति॑ सु-लेकः॑ । ते । नः॒ । आ॒दि॒त्याः । आज्य॑म् । जु॒षा॒णाः । वि॒य॒न्तु॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

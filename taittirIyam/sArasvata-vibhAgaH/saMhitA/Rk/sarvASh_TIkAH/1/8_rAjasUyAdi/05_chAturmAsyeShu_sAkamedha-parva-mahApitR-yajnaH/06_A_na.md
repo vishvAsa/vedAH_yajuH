@@ -1,8 +1,6 @@
 +++
 title = "06 आ न"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -15,6 +13,11 @@ And that long we may see the sun.
 
 आ [8] +न॒ ए॒तु॒ मन॒ᳶ पुन॒ᳵ क्रत्वे॒ दक्षा॑य जी॒वसे॑ ॥   
 ज्योक्च॒ सूर्य॑न्दृ॒शे  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । 1 । नः॒ । ए॒तु॒ । मनः॑ । पुनः॑ । क्रत्वे॑ । दक्षा॑य । जी॒वसे॑ ॥ ज्योक् । च॒ । सूर्य॑म् । दृ॒शे ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

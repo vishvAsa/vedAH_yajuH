@@ -1,8 +1,6 @@
 +++
 title = "02 उग्राम् आ"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -12,6 +10,11 @@ Do thou mount the dread (quarter); let the Tristubh of metres help thee, the Pa�
 <details><summary>मूलम्</summary>
 
 उ॒ग्रामा ति॑ष्ठ त्रि॒ष्टुप्त्वा॒ छन्द॑सामवतु पञ्चद॒शस्स्तोमो॑ बृ॒हत्सामेन्द्रो॑ दे॒वता॑ क्ष॒त्त्रन्द्रवि॑णम्
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । उ॒ग्राम् । एति॑ । ति॒ष्ठ॒ । त्रि॒ष्टुप् । त्वा॒ । छन्द॑साम् । अ॒व॒तु॒ । प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः । स्तोमः॑ । बृ॒हत् । साम॑ । इन्द्रः॑ । दे॒वता॑ । क्ष॒त्रम् । द्रवि॑णम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

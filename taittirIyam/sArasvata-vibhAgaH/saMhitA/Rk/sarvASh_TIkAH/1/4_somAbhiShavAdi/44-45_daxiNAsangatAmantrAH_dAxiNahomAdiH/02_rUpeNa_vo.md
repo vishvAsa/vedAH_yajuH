@@ -1,8 +1,6 @@
 +++
 title = "02 रूपेण वो"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -13,6 +11,11 @@ With my form [1] I approach your form; with my age your age.
 
 रू॒पेण॑ [44] वो रू॒पम् ..  
 अ॒भ्यैमि॒ वय॑सा॒ वयः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+5E । रू॒पेण॑ । 1 । वः॒ । रू॒पम् । अ॒भि । एति॑ । ए॒मि॒ । वय॑सा । वयः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

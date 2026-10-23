@@ -1,8 +1,6 @@
 +++
 title = "04 ब्राह्मणम् अद्य"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -12,6 +10,11 @@ May I win a Brahman to-day, a seer and sprung from seers, of (famous) father and
 <details><summary>मूलम्</summary>
 
 ब्रा॒ह्म॒णम॒द्य रा॑ध्यास॒मृषि॑मार्षे॒यम्पि॑तृ॒मन्त॑म्पैतृम॒त्यँ सु॒धातु॑दक्षिणम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+6K । ब्रा॒ह्म॒णम् । अ॒द्य । रा॒ध्या॒स॒म् । ऋषि॑म् । आ॒र्षे॒यम् । पि॒तृ॒मन्त॒मिति॑ पितृ-मन्त॑म् । पै॒तृ॒म॒त्यमिति॑ पैतृ-म॒त्यम् । सु॒धातु॑दक्षिण॒मिति॑ सु॒धातु॑-द॒क्षि॒ण॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
