@@ -194,7 +194,6 @@ This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
 4ततश्च त्वत्प्रसादाद् अस्माकम् इत्थम् अस्त्व् इत्य् आशास्ते - भेषजं गव इति पङ्क्त्या पञ्चपदया ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -205,7 +204,6 @@ This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
 सुग᳓म् मेषा᳓य मेष्या᳙ ॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -299,7 +297,6 @@ That he may embolden us.
 6त्रिः प्रदक्षिणं परियन्ति - त्र्यम्बकमिति । 
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/059/12_tryambakaM_yajAmahe.md">
 <details open><summary><h5>१२ त्र्यम्बकं यजामहे ...{Loading}...</h5></summary>
 
@@ -310,7 +307,6 @@ That he may embolden us.
 
 </details>
 </div>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/059/12_tryambakaM_yajAmahe.md">
 <details open><summary><h5>012 ...{Loading}...</h5></summary>
@@ -520,7 +516,6 @@ Like a cucumber from its stem, might I be freed from death, not from  deathlessn
 ᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
 <details open><summary><h7>09-12 ...{Loading}...</h7></summary>
 <details><summary>Jamison Brereton Notes</summary>

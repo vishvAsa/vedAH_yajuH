@@ -203,7 +203,6 @@ May she hurt thee not; may she hurt me not.
 7अनुमन्त्र्यमाणम् आसन्नम् अभिमन्त्रयते - निषसादेति गायत्र्या त्रिपदया ॥ 
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/02_niShasAda_dhRtavrato.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -212,7 +211,6 @@ May she hurt thee not; may she hurt me not.
 सा᳓म्राज्याय सु-क्र᳓तुः॥
 </details>
 </div>
-
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/02_niShasAda_dhRtavrato.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -249,7 +247,6 @@ In the waters, with keen insight, for lordship.
 8अथ ऋत्विक्षु च सर्वतः पर्युपविष्टेषु  
 अध्वर्युं राजाभिमन्त्रयते - ब्रह्मा3न् इति ॥ 
 </details>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
 <details open><summary><h5>ब्रह्मान् ...{Loading}...</h5></summary>
@@ -317,7 +314,6 @@ Thou, O king, art the Brahman priest, thou art Savitr of true instigation.
 10अथ ब्रह्माणमाम् अन्त्रयते - ब्रह्मा3न् इति ॥ व्याख्यातम् ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
 <details open><summary><h5>ब्रह्मान् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -384,7 +380,6 @@ Thou, O king, art the Brahman priest, thou art Indra of true force [1].
 12होतारमामन्त्रयते - ब्रह्मा3न् इति ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
 <details open><summary><h5>ब्रह्मान् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -446,7 +441,6 @@ Thou, O king, art the Brahman priest; thou art Mitra, the kindly.
 हे राजन् त्वमेव ब्रह्मासि, यतो मित्रोसि शर्वस्य हिंसाभ्यस्त्रातासि । सुशेवस्सुसुखः । 'आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
 <details open><summary><h5>ब्रह्मान् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -480,7 +474,6 @@ O Brahman!
 
 14उद्गातारमामन्त्रयते - ब्रह्मा3न् इति ॥
 </details>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
 <details open><summary><h5>ब्रह्मान् ...{Loading}...</h5></summary>
@@ -546,7 +539,6 @@ Thou, O king, art the Brahman priest; thou art Varuna, of true rule.
 
 16ब्रह्मा स्फ्यं राज्ञे प्रयच्छति - इन्द्रस्येति ॥ व्याख्यातम् ।
 </details>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
 <details open><summary><h5>इन्द्र॑स्य॒ वज्रो॑ऽसि॒ ...{Loading}...</h5></summary>
@@ -737,7 +729,6 @@ To the son of strength hail!
 21पुनरेत्य गार्हपत्ये जुहोति - अग्नये गृहपतये स्वाहेति । गतम् ॥  
 अष्टमे षोडशोनुवाकः ॥  
 </details>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/15_rathena_digvijayArthaM_mantrAH/agnaye_gRhapataye_svAhA.md">
 <details open><summary><h5>अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा॑ ।    ...{Loading}...</h5></summary>
