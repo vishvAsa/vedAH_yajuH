@@ -99,7 +99,7 @@ title = "02 सप्तभिः पावमानीभिर् यदन्
 
 **साम-पवित्रम्**
 
-<div class="js_include" includetitle="false" newlevelforh1="b[]" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/vAmadevyam/">
+<div class="js_include" includetitle="false" newlevelforh1="b[]" unfilled url="/vedAH_sAma/trANDyam/paravastu-sAma/devaH/indraH/vAmadevyam/">
 <details open><summary><h1>वामदेव्यम् ...{Loading}...</h1></summary>
 
 ऋक्
