@@ -122,7 +122,7 @@ title = "०२ ब्रह्मचर्यम्"
 
 **साम-पवित्रम्**
 
-<div class="js_include" includetitle="false" newlevelforh1="b[]" unfilled="" url="/vedAH_sAma/paravastu-sAma/devaH/indraH/vAmadevyam/">
+<div class="js_include" includetitle="false" newlevelforh1="b[]" unfilled="" url="/vedAH_sAma/trANDyam/paravastu-sAma/devaH/indraH/vAmadevyam/">
 
 **ऋक्**
 
