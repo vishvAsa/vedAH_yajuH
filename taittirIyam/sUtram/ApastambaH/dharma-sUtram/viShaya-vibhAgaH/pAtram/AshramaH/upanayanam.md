@@ -302,7 +302,7 @@ unicode_script: devanagari
 
 **साम-पवित्रम्**
 
-<div class="js_include" includetitle="false" newlevelforh1="b[]" unfilled="" url="/vedAH_sAma/trANDyam/paravastu-sAma/devaH/indraH/vAmadevyam/">
+<div class="js_include" includetitle="false" newlevelforh1="b[]" unfilled="" url="/vedAH_sAma/tANDyam/paravastu-sAma/devaH/indraH/vAmadevyam/">
 
 **ऋक्**
 
