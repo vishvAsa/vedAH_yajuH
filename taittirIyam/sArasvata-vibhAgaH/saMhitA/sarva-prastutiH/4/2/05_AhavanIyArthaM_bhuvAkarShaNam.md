@@ -1,6 +1,5 @@
 +++
 title = "०५ आहवनीयार्थं भुवाकर्षणम्"
-
 +++
 ३, ६, १९ अनुष्टुप् ,
 २  द्विपदा त्रिष्टुप्,
@@ -118,6 +117,7 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 		यस्मादग्निद्वयं संयोज्य तस्मिन्संयुक्तेऽग्नौ विहरणमुत्तरकालीनं विविध-मनुष्ठानं करोति तस्माल्लोकेऽपि ब्राह्मणक्षत्त्रिययोः संयुक्तयोः सतोः पश्चाद्ब्राह्मणेन नियमितः क्षत्त्रियो विविधं शास्त्रीयं राज्यपरिपालनं प्राप्नोति ।  
  १८९८
 </details>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“मातेव पुत्रमिति शिक्यादुखां निरू(रु) ह्य” इति ।   पाठस्तु— मात्रेव पुत्रमिति ।
@@ -164,6 +164,7 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 
 रजसो रजःसदृशश्य धूमस्य पारेऽवसानेऽस्याग्नेः शुक्रं निर्मलं यज्ज्योतिरजायत तस्माज्ज्योतिर्द्विषोऽति द्वेष्टॄनतिक्रम्य नोऽस्मान्पर्षत्प्रीणयतु।   हे वैश्वानरोख्याग्ने त्वदीयं शिक्यं स्वाहा सुष्ठ्वाहुतम् ।
 </details>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—‘नैर्ऋतीरिष्टकाः कृष्णास्तिह्यस्तुषपक्वास्ताः शिक्यं रुक्मसूत्र-मासन्दीं चाऽऽदाय दक्षिणमपरमवान्तरदेशं गत्वा नमः सु ते निर्ऋत इति स्वकृत इरिणे प्रदरे वा शिक्यं निधाय” इति।   पाठस्तु--- नमः सु त इति ।
@@ -376,22 +377,240 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 तत्र प्रथमामाह— सीरा युञ्जन्तीति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/101/04_sIrA_yunjanti.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
+
+सी᳓रा युञ्जन्ति कव᳓यो  
+युगा᳓ वि᳓ तन्वते पृ᳓थक्  
+धी᳓रा देवे᳓षु सुम्नया᳓
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/101/04_sIrA_yunjanti.md">
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवा ऋत्विजो वा
+- ऋषिः - बुधः सौम्यः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+सी᳓रा युञ्जन्ति कव᳓यो  
+युगा᳓ वि᳓ तन्वते पृ᳓थक्  
+धी᳓रा देवे᳓षु सुम्नया᳓
+</details>
+
+<details><summary>तैत्तिरीयम् मूलम्</summary>
 
 सीरा॑ युञ्जन्ति क॒वयो॑ यु॒गा वि त॑न्वते॒ पृथ॑क् ।  
-धीरा॑ दे॒वेषु॑ सुम्न॒या ।  
+धीरा॑ दे॒वेषु॑ सुम्न॒या ।
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Vedaweb annotation</summary>
 
-सीरा॑ युञ्जन्ति क॒वयो॑ यु॒गा वि त॑न्वते॒ पृथ॑क् ।  
-धीरा॑ दे॒वेषु॑ सुम्न॒या ।  
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular
+_________
+**Morph**  
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sī́rā ← sī́ra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yuñjanti ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pŕ̥thak ← pŕ̥thak (invariable)  
+{}
+
+tanvate ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+yugā́ ← yugá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sumnayā́ ← sumnayā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-कवयः कृषिकर्माभिज्ञाः सीरा सीरं लाङ्गलं युञ्जन्ति सज्जी कुर्वन्तु ।   तथा युगा युगानि त्रिषु षट्सु वा कक्ष्याविशेषेष्वपेक्षितानि पृथग्वि-तन्वत एकैकं विस्तारयन्तु ।   कीदृशाः कवयः, धीरा धैर्ययुक्ता अनलसा इत्यर्थः ।   देवेषु देवताविशेषविषयेषु सुम्नया सुम्नं सुखमिच्छन्तीति सुम्नया ।  
+सीरा॑ । यु॒ञ्ज॒न्ति॒ । क॒वयः॑ । यु॒गा । वि । त॒न्व॒ते॒ । पृथ॑क् ।  
+धीराः॑ । दे॒वेषु॑ । सु॒म्न॒ऽया ॥
 </details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *sīrā* ← *sīra*
+- \[noun\], accusative, plural, neuter
+- “sīra \[word\]; plow.”
+
+_________
+
+- *yuñjanti* ← *yuj*
+- \[verb\], plural, Present indikative
+- “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
+    administer; compound; affect; add; concentrate; unite; join;
+    prosecute; combine; supply; compound; attach to; appoint; fill;
+    process; mobilize; mount; complement; eat; join; treat; coincide;
+    affect; challenge.”
+
+_________
+
+- *kavayo* ← *kavayaḥ* ← *kavi*
+- \[noun\], nominative, plural, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+
+_________
+
+- *yugā* ← *yuga*
+- \[noun\], accusative, plural, neuter
+- “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
+    \[word\]; Yuga; race.”
+
+_________
+
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+
+_________
+
+- *tanvate* ← *tan*
+- \[verb\], plural, Present indikative
+- “expand; perform; cause; increase; write; spread; produce; spread;
+    speak; propagate.”
+
+_________
+
+- *pṛthak*
+- \[adverb\]
+- “individually; apart; each; by the piece; independently; pṛthak
+    \[word\].”
+
+_________
+
+- *dhīrā* ← *dhīrāḥ* ← *dhīra*
+- \[noun\], nominative, plural, masculine
+- “expert; wise; intelligent; versed; adept.”
+
+_________
+
+- *deveṣu* ← *deva*
+- \[noun\], locative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *sumnayā*
+- \[adverb\]
+
+_________
+
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+कवयः- क्रान्तदर्शिनः। सीरा- कर्षणसाधनानि। युञ्जन्ति- योजयन्ति। युगा- युगान्। पृथक् वि  तन्वते- भिन्नप्रदेशान् कुर्वन्ति। धीराः- धारणाकुशलाः। सुम्नया- आनन्देन। देवेषु- द्योतनशक्तिषु  एवं हृदयकृषिभूम्यामुप्तं सद्भावनं समर्पयन्ति॥४॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**कवयः** मेधाविन ऋत्विजः **सीरा** सीराणि कर्षणसाधनानि **युञ्जन्ति** योजयन्ति । **युगा** युगान्यपि **पृथक्** परस्परं **वि** **तन्वते** भिन्नप्रदेशानि कुर्वन्ति । कीदृशाः कवयः । **देवेषु** विषये **धीराः** धीमन्तः । किमर्थम् । सुम्नया । सुम्नमिति सुखनाम । सुखेच्छया । सुम्नशब्दात् क्यजन्ताद्भावे ‘ अ प्रत्ययात्' इत्यकारप्रत्ययः । ‘सुपां सुलुक्' इति तृतीयाया आकारः । अथवा धीरा धीमन्तो देवेषु सुम्नया सुम्नेन । देवेषु सुखं भूयादिति । ‘सुपां सुलुक्' इति विभक्तेर्याजादेशः ॥
+
+_____________
+
+कवयः कृषिकर्माभिज्ञाः सीरा सीरं लाङ्गलं युञ्जन्ति सज्जी कुर्वन्तु ।   तथा युगा युगानि त्रिषु षट्सु वा कक्ष्याविशेषेष्वपेक्षितानि पृथग्वि-तन्वत एकैकं विस्तारयन्तु ।   कीदृशाः कवयः, धीरा धैर्ययुक्ता अनलसा इत्यर्थः ।   देवेषु देवताविशेषविषयेषु सुम्नया सुम्नं सुखमिच्छन्तीति सुम्नया ।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The wise (priests) harness the plural ughs, they lay the yokes apart, firmly devoted through the desire ofhappiness.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Happiness: sumnayā = to give plural asure to the gods
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+The poets hitch up the plows; they stretch the yokes across separately— the insightful ones in search of favor among the gods.
+</details>
+
+<details><summary>Griffith</summary>
+
+Wise, through desire of bliss from Gods, the skilful bind the traces fast, And lay the yokes on either side.
+</details>
+
+<details><summary>Geldner</summary>
+
+Die Seher schirren die Pflüge, sie stecken einzeln die Joche vor, die Kenner, um bei den Göttern Gunst zu erwirken.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Die es verstehen, spannen die Stränge an und legen die Joche gesondert auf, die weisen voll Liebe zu den Göttern.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Поэты запрягают плуги с сеялками,  
+По отдельности надевают хомуты  
+(Эти) мудрые ради благожелательности среди богов.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वे देवा ऋत्विजो वा
+- बुधः सौम्यः
+- गायत्री
+- षड्जः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (कवयः) कृषि कलाकार-किसान (सीरा) हल आदियों को (युञ्जन्ति) बैलों में जोड़ते हैं (युगा) जोतों-चरम साधनों-चरम पट्टियों को पृथक् पृथक् (वि तन्वते) बैलों से वितानित करते है-बाँधते हैं (धीराः) बुद्धिमान् वैज्ञानिक लोग (सुम्नया) स्वेच्छा से (देवेषु) विद्युत्-मेघ वायुवों के मन को युक्त करते हैं, खेती अच्छी सम्पन्न हो, इसके उपायों का चिन्तन करते हैं ॥४॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  खेती करने में कुशल किसान हलादियों को बैलों के साथ जोड़कर चर्मपट्टियों से बाँधकर खेती जोतें, वे बुद्धिमान् वर्षा के निमित्त वायु में मेघादि देवों के योग का चिन्तन खेती सम्पन्न होने के निमित्त करें, बोने और काटने में इनका ध्यान रखें ॥४॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (कवयः) कृषिवलाः-कृषकाः-(सीरा युञ्जन्ति) सीराणि हलादीनि योजयन्ति बलिवर्देषु (युगा पृथक् वि तन्वते) योक्त्राणि चर्मसाधनानि पृथक् पृथग्बलीवर्दिषु वितन्वन्ति-बध्नन्ति (धीराः सुम्नया-देवेषु) धीमन्तो वैज्ञानिका लोकेषु स्वेच्छया विद्युन्मेघमरुत्सु मनो युञ्जते यत् कृषिः सम्पन्ना स्यादिति चिन्तयन्ति तदुपायान् ॥४॥
+</details>
+
+</div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 

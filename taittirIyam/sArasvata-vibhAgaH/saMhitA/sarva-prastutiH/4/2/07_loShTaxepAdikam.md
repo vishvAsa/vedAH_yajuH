@@ -1,6 +1,5 @@
 +++
 title = "०७ लोष्टक्षेपादिकम्"
-
 +++
 १, ४, १३  
 त्रिष्टुप्,
@@ -20,22 +19,352 @@ title = "०७ लोष्टक्षेपादिकम्"
  १९२२ कर्षणे ये लोष्टाः परिमितक्षेत्राद्वहिः पतन्ति तान्पुनरन्तः पातयोदित्यर्थः ।    तत्र प्रथमामाह— मा नो हिँसीदिति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/09_mA_no.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
+
+मा᳓ नो हिंसीज् जनिता᳓ यः᳓ पृथिव्या᳓  
+यो᳓ वा दि᳓वं सत्य᳓धर्मा जजा᳓न  
+य᳓श् चाप᳓श् चन्द्रा᳓ बृहती᳓र् जजा᳓न  
+क᳓स्मै देवा᳓य हवि᳓षा विधेम
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/09_mA_no.md">
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - कः
+- ऋषिः - हिरण्यगर्भः प्राजापत्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+मा᳓ नो हिंसीज् जनिता᳓ यः᳓ पृथिव्या᳓  
+यो᳓ वा दि᳓वं सत्य᳓धर्मा जजा᳓न  
+य᳓श् चाप᳓श् चन्द्रा᳓ बृहती᳓र् जजा᳓न  
+क᳓स्मै देवा᳓य हवि᳓षा विधेम
+</details>
+
+<details><summary>तैत्तिरीयम् मूलम्</summary>
 
 मा नो॑ हिँसीज्जनि॒ता यᳶ पृ॑थि॒व्या यो वा॒ दिवँ॑ स॒त्यध॑र्मा ज॒जान॑ ।  
-यश्चा॒पश्च॒न्द्रा बृ॑ह॒तीर्ज॒जान॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ।  
+यश्चा॒पश्च॒न्द्रा बृ॑ह॒तीर्ज॒जान॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ।
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Vedaweb annotation</summary>
 
-मा नो॑ हिँसीज्जनि॒ता यᳶ पृ॑थि॒व्या यो वा॒ दिवँ॑ स॒त्यध॑र्मा ज॒जान॑ ।  
-यश्चा॒पश्च॒न्द्रा बृ॑ह॒तीर्ज॒जान॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ।  
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular;; repeated line
+_________
+**Morph**  
+hiṁsīt ← √hiṁs- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+janitā́ ← janitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dívam ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jajā́na ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+satyádharmā ← satyádharman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+br̥hatī́ḥ ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+candrā́ḥ ← candrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jajā́na ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+kásmai ← ká- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-यः प्रजापतिः पृथिव्या जनितोत्पादको यो वाप्रजा-पतिः सत्यधर्माऽवितथधारणशक्तिः सन्दिवं जजानोत्पादयामास ।   पुनरपि यः प्रजा-पतिश्चन्द्रा आह्लादकारिणीर्बृहतीर्बहुला अपो जजानोत्पादयामास, तादृशः प्रजा-पतिर्नोऽस्मान्मा हिंसीत् ।   तादृशाय कस्मै प्रजापतये हविषा विधेम परिचरेम ।  
+मा । नः॒ । हिं॒सी॒त् । ज॒नि॒ता । यः । पृ॒थि॒व्याः । यः । वा॒ । दिव॑म् । स॒त्यऽध॑र्मा । ज॒जान॑ ।  
+यः । च॒ । अ॒पः । च॒न्द्राः । बृ॒ह॒तीः । ज॒जान॑ । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *mā*
+- \[adverb\]
+- “not.”
+
+_________
+
+- *no* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+
+_________
+
+- *hiṃsīj* ← *hiṃsīt* ← *hiṃs*
+- \[verb\], singular, Aorist inj. (proh.)
+- “injure; kill; remove; harm; cure; damage.”
+
+_________
+
+- *janitā* ← *janitṛ*
+- \[noun\], nominative, singular, masculine
+- “father; janitṛ \[word\].”
+
+_________
+
+- *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
+- \[noun\], genitive, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+
+_________
+
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+
+_________
+
+- *divaṃ* ← *divam* ← *div*
+- \[noun\], accusative, singular
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+
+_________
+
+- *satyadharmā* ← *satya*
+- \[noun\]
+- “true; real; real; faithful; good.”
+
+_________
+
+- *satyadharmā* ← *dharmā* ← *dharman*
+- \[noun\], nominative, singular, masculine
+- “regulation; Dharma; law; property.”
+
+_________
+
+- *jajāna* ← *jan*
+- \[verb\], singular, Perfect indicative
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+
+_________
+
+- *yaś* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *cāpaś* ← *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *cāpaś* ← *apaḥ* ← *ap*
+- \[noun\], accusative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+
+_________
+
+- *candrā* ← *candrāḥ* ← *candra*
+- \[noun\], accusative, plural, feminine
+- “aglitter(p); shining.”
+
+_________
+
+- *bṛhatīr* ← *bṛhatīḥ* ← *bṛhat*
+- \[noun\], accusative, plural, feminine
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+
+_________
+
+- *jajāna* ← *jan*
+- \[verb\], singular, Perfect indicative
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+
+_________
+
+- *kasmai* ← *ka*
+- \[noun\], dative, singular, masculine
+- “what; who; ka \[pronoun\].”
+
+_________
+
+- *devāya* ← *deva*
+- \[noun\], dative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *haviṣā* ← *havis*
+- \[noun\], instrumental, singular, neuter
+- “Havya; offering; ghee; havis \[word\].”
+
+_________
+
+- *vidhema* ← *vidh*
+- \[verb\], plural, Present optative
+- “worship; offer.”
+
+_________
+
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+यः। पृथिव्याः- भूम्याः। जनिता- स्रष्टा। यः। सत्यधर्मा- सत्यमेव स्वधर्मतया दधानः। दिवम्-  नभः। जजान- ससर्ज। सः। नः- अस्मान्। मा हिंसीत्। यः। चन्द्राः- आह्लादकारिणीः। बृहतीः-  महतीः। अपः- उदकधाराः। जजान- ससर्ज॥९॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+स प्रजापतिः **नः** अस्मान् **मा** **हिंसीत्** मा बाधताम् । **यः** **पृथिव्याः** भूमेः **जनिता** जनयिता स्रष्टा । 'जनिता मन्त्रे ' इति णिलोपो निपात्यते । 'उदात्तयणो हल्पूर्वात् ' इति पृथिवीशब्दाद्विभक्तेरुदात्तत्वम् ॥ **यो** **वा** यश्च **सत्यधर्मा** सत्यमवितथं धर्म जगतो धारणं यस्य स तादृशः प्रजापतिः **दिवम्** अन्तरिक्षोपलक्षितान् सर्वान् लोकान् **जजान** जनयामास ॥  ‘ जनी प्रादुर्भावे '। णिचि वृद्धौ ‘जनीजॄष्क्नसुरञ्जः० ' इति मिरवात्  ‘ मिता हुस्वः' इति हुस्वत्वम् । ततो लिटि  ‘ °अमन्त्रे (पा. सू. ३. १. ३५) इति निषेधादाम्प्रत्ययाभावे तिपो णलि वृद्धौ ‘ लिति ' इति प्रत्ययात्पूर्वस्योदात्तत्वम् ॥ **यश्च** **बृहतीः** महतीः **चन्द्राः** आह्लादिनीः **अपः** उदकानि **जजान** जनयामास ॥  ‘ ऊडिदम् ' इत्यादिना अप्शब्दादुत्तरस्य शस उदात्तत्वम् ॥ तस्मै **कस्मै** इत्यादि गतम् ॥
+
+_____________
+
+यः प्रजापतिः पृथिव्या जनितोत्पादको यो वाप्रजा-पतिः सत्यधर्माऽवितथधारणशक्तिः सन्दिवं जजानोत्पादयामास ।   पुनरपि यः प्रजा-पतिश्चन्द्रा आह्लादकारिणीर्बृहतीर्बहुला अपो जजानोत्पादयामास, तादृशः प्रजा-पतिर्नोऽस्मान्मा हिंसीत् ।   तादृशाय कस्मै प्रजापतये हविषा विधेम परिचरेम ।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“May he do us no harm who is the parent of the earth, or who the unerring support (of the world) begatthe heaven, and who genitive rated the vast and delightful waters -- let us offer worship with an oblation to the divineKa.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Who genitive rated: **Yajus**. 12.102: **bṛhatī** = **prathamaḥ**, who first begat the delightful (āhlādikaḥ) water;
+
+Waters = men: **manuṣya** vā apaścandraḥ
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Let him not do us harm—he who is the progenitor of earth or who,  with foundations that are real, engendered heaven,  
+and who engendered the gleaming, lofty waters. – Who is the god to  
+whom we should do homage with our oblation?
+</details>
+
+<details><summary>Griffith</summary>
+
+Neer may he harm us who is earth's Begetter, nor he whose laws are sure, the heavens' Creator,  
+     He who brought forth the great and lucid waters. What God shall we adore with our oblation?
+</details>
+
+<details><summary>Geldner</summary>
+
+Nicht möge er uns schädigen, der der Schöpfer der Erde ist, oder der den Himmel erschaffen hat mit gültigen Gesetzen, und der die schimmernden hohen Gewässer erschaffen hat. - Wer ist der Gott, dem wir mit Opfer dienen sollen?
+</details>
+
+<details><summary>Grassmann</summary>
+
+Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Himmel zeugte, Und auch die lichten, mächtigen Gewässer, wem sollen wir als Gott mit Opfer dienen?
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Да не причинит нам вреда (тот), кто родитель земли  
+Или кто породил небо, (тот,) чьи законы истинны,  
+И кто породил высокие сверкающие воды –  
+Какого бога мы почтили жертвенным возлиянием?
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- कः
+- हिरण्यगर्भः प्राजापत्यः
+- त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यः) जो (पृथिव्याः) पृथिवी का (जनिता) उत्पादक (वा) और (यः) जो हि (सत्यधर्मा) सत्यनियमवाला परमात्मा (दिवम्) द्युलोक को (जजान) उत्पन्न करता है (च) और (यः) जो (बृहती) विस्तृत (चन्द्राः)आह्लाद करने-मन को भानेवाली (आपः) अन्तरिक्ष विभक्तियों को (जजान) उत्पन्न करता है (कस्मै...) पूर्ववत् ॥९॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  जिस परमात्मा ने पृथिवीलोक, द्युलोक, चन्द्रताराओं से भरा मन भानेवाला अन्तरिक्ष उत्पन्न किया है, उस सुखस्वरूप प्रजापति के लिये उपहाररूप में अपने आत्मा का समर्पण करना चाहिये ॥९॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यः) यः खलु (पृथिव्याः-जनिता) भूमेरुत्पादयिता (वा) अथ च “वा समुच्चयार्थे” [निरु० १।५] (यः) यो हि (सत्यधर्मा) सत्यनियमवान् (दिवं जजान) द्युलोकमुत्पादयति (च) अपि च (यः) यः खलु (बृहतीः-चन्द्राः-आपः-जजान) महतीराह्लादकारिणीरन्तरिक्षविभक्तिर्नक्षत्रयुताः ‘आपोऽन्तरिक्षनाम” [निघ० १।३] उत्पादयति (कस्मै....) पूर्ववत् ॥९॥
+</details>
+
+</div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -344,9 +673,7 @@ title = "०७ लोष्टक्षेपादिकम्"
 
   -  अथ द्वितीया - हे सोम तवाभिमातीनां पाप्मनां हन्तुः पयांसि पातव्यानि क्षीरादीनि संयन्तु संगच्छन्तां, वाजा अन्नानि च संयन्तु, वृष्णियानि वीर्याणि च संयन्तु । ततश्चाप्यायमानः अमरणत्वायास्माकं उत्तमानि श्रेयांसि अन्नानि धिष्व धारय देवार्थमस्मदर्थं वा ॥]
 
-
 </details>
-
 
 <details><summary>विनियोगसङ्ग्रहः</summary>
 

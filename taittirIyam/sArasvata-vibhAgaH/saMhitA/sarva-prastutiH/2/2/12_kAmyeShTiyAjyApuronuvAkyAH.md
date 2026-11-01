@@ -4,7 +4,6 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 
 विश्वेदेवा ऋषयः
 
-
 ८,१०, १३-१९, २१, २७ त्रिष्टुप्, ७,९,२०,२८-२९ गायत्री, ११,१२,२६ अनुष्टुप्, २४ उष्णिक्, पदपङ्क्तिर्वा, २५ पङ्क्तिः ।
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -263,23 +262,27 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 11अथ भूम्याश्चरोः पुरोनुवाक्या - बडित्थेत्यनुष्टुप् ॥ 
 </details>
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md" unfilled newLevelForH1="5" includeTitle="false">   
+ब᳓ड् इत्था᳓+++(त्थं)+++ प᳓र्वतानाङ्+++(→मेघानाम्)+++  
+खिद्र᳓म्+++(=छिद्रं →छेदनम्)+++ **बिभर्षि** पृथिवि ।  
+प्र᳓ या᳓ भूमि प्रवत्वति+++(=प्रवणवति)+++  
+मह्ना᳓+++(=महिम्ना)+++ +++(देवादीन्)+++ जिनो᳓षि+++(=तर्पयसि)+++ महिनि+++(=महति)+++ ।+++(र४)+++  
++++(अत्र देवप्रीत्या वृष्टिरिति चक्रम् उच्यते।)+++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-बडि॒त्था पर्व॑तानाङ्खि॒द्रम्बि॑भर्षि पृथिवि ।  
-प्र या भू॑मि प्रवत्वति म॒ह्ना जि॒नोषि॑ (65)  
-म॒हि॒नि॒ ।
-</details>
 </div>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md" unfilled newLevelForH1="5" includeTitle="false">   
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
+
 <details><summary>मूलम्</summary>
 
 बडि॒त्था पर्व॑तानाङ्खि॒द्रम्बि॑भर्षि पृथिवि ।  
-प्र या भू॑मि प्रवत्वति म॒ह्ना जि॒नोषि॑ (65)  
-म॒हि॒नि॒ ।
+प्र या भू॑मि प्रवत्वति म॒ह्ना जि॒नोषि॑ महिनि ।  
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+बडित्थेति ॥ बट् सत्यं इत्था इत्थं अनेन वक्ष्यमाणप्रकारेण पर्वतानां मेघानां खिद्रं छिद्रं छेदनं विभर्षि धारयसि करोषि हे पृथिवि । हे भूमि प्रवत्वति । प्रवणवति या त्वं मह्ना स्वेन महिम्ना प्रजिनोषि तर्पयसि । कान्? देवान् । हे महिनि । महति । ओषधीभिः पशुभिश्च देवा इज्यन्ते तेन च पार्थिवाः तैः च तृप्ता देवाः प्रवर्षणार्थं मेघान्भिन्दन्ति एतेन प्रकारेण पर्वतानां खिद्रं विभर्षीति ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -288,17 +291,16 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 
 केचिदाहुः - सत्यमित्थं पर्वतानां मेखलानं खिद्रं छेदनप्रवहमुदकं बिभर्षि । पृथुत्वात्प्रभूतं वर्षोदकं बिभर्षि । या त्वं प्रणवती प्रवणगामिना उदकेन मह्ना महता विश्वमिदं प्रकर्षेण जिनोषि तर्पयसि, अत एव महनीयासि ; अनेनैव क्रमेण सर्वहिरण्यादिलाभहेतुत्वात् ॥
 </details>
+
 </div>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_stomAsas_tvA.md" unfilled newLevelForH1="5" includeTitle="false">   
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_stomAsas_tvA.md">
 
 स्तोमा॑सस्त्वा विचारिणि॒  
 प्रति॑ष्टोभन्त्य् अ॒क्तुभिः॑ ।  
 प्र या वाज॒न् न हेष॑न्तम्  
 पे॒रुम् अस्य् अ॑स्य् अर्जुनि ।
-</details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -306,7 +308,7 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 12 तत्रैव याज्या - स्तोमासस्त्वेत्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_18/09_stomAsas_tvA.md" unfilled newLevelForH1="5" includeTitle="false">   
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_18/09_stomAsas_tvA.md">
 
 <details><summary>मूलम्</summary>
 
@@ -319,6 +321,7 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 हे भूमे विचारिणि विविधं चरणं गमनं भक्षणं वा विचारः । हे तद्वति, स्तोमासः स्तोमास्स्तोत्राणि प्रतिष्टोभन्ति प्रत्येकं प्रतिमुखा वा स्तुवन्ति । अक्तुभिस्त्वदीयैः कर्मभिः अपदानैस्स्तुतिभिः स्तोत्रभक्तिभिः या त्वं तथा स्तूयमाना हे अर्जुनि निर्मले । 'अन्यतो ङीष्' इति ङीष् । हेषन्तं शब्दवन्तं दुष्टं वाजन्न अश्वमिव यथा दुष्टो वाजीनिरर्थकान् शब्दान् करोति एव निरर्थकशब्दाभिधायिनं अमन्त्रार्थज्ञमिति ।   
 किञ्च - वाजमिव बलमिव पेरुं अश्वमिव पानशीलं उपलक्षणत्वात्पानाशनमात्रकृतार्थं अयज्ञार्हं पुरुषं प्रास्यसि त्वं खल्वर्जुनीति । सर्वे स्तोत्रादयस्त्वामेव स्तुवन्ति । तेषां च मध्ये वाजिनमिव हेषन्तमिव पेरुं त्वं नाद्रियसे तस्मात्तादृशानस्मान् त्वामेव स्तुवतो हिरण्यादिदानेन तृप्तान् कुर्विति । 'उपसर्गात्सुनोति' इत्यादिना स्तोभतेष्षत्वम् ॥
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -617,22 +620,358 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 26तत्रैव याज्या - उभे इति । पञ्चपदा पङ्क्तिः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/006/09_ubhe_sushchandra.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
+
+उभे᳓ सुश्चन्द्र सर्पि᳓षो  
+द᳓र्वी श्रीणीष आस᳓नि  
+उतो᳓ न उ᳓त् पुपूरिया  
+उक्थे᳓षु शवसस् पत  
+इ᳓षं स्तोतृ᳓भ्य आ᳓ भर
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/006/09_ubhe_sushchandra.md">
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - वसुश्रुत आत्रेयः
+- छन्दः - पङ्क्तिः
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+उभे᳓ सुश्चन्द्र सर्पि᳓षो  
+द᳓र्वी श्रीणीष आस᳓नि  
+उतो᳓ न उ᳓त् पुपूरिया  
+उक्थे᳓षु शवसस् पत  
+इ᳓षं स्तोतृ᳓भ्य आ᳓ भर
+</details>
+
+<details><summary>तैत्तिरीयम् मूलम्</summary>
 
 उ॒भे सु॑श्चन्द्र स॒र्पिषो॒ दर्वी॑ श्रीणीष आ॒सनि॑ ।  
 उ॒तो न॒ उत्पु॑पूर्या उ॒क्थेषु॑ शवसस्पत॒ इषँ॑ स्तो॒तृभ्य॒ आ भ॑र ।
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Vedaweb annotation</summary>
 
-उ॒भे सु॑श्चन्द्र स॒र्पिषो॒ दर्वी॑ श्रीणीष आ॒सनि॑ ।  
-उ॒तो न॒ उत्पु॑पूर्या उ॒क्थेषु॑ शवसस्पत॒ इषँ॑ स्तो॒तृभ्य॒ आ भ॑र ।
+_________
+**Strata**  
+Archaic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M  
+genre M;; repeated line
+_________
+**Morph**  
+sarpíṣaḥ ← sarpís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+suścandra ← suścandrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+āsáni ← āsán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dárvī ← dárvi- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+śrīṇīṣe ← √śrī- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pupūryāḥ ← √pr̥̄- 2 (root)  
+{number:SG, person:2, mood:OPT, tense:PRF, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śavasaḥ ← śávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ukthéṣu ← ukthá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒भे इति॑ । सु॒ऽच॒न्द्र॒ । स॒र्पिषः॑ । दर्वी॒ इति॑ । श्री॒णी॒षे॒ । आ॒सनि॑ ।  
+उ॒तो इति॑ । नः॒ । उत् । पु॒पू॒र्याः॒ । उ॒क्थेषु॑ । श॒व॒सः॒ । प॒ते॒ । इष॑म् । स्तो॒तृऽभ्यः॑ । आ । भ॒र॒ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *ubhe* ← *ubh*
+- \[noun\], accusative, dual, feminine
+- “both(a).”
+
+_________
+
+- *suścandra* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *suścandra* ← *ścandra*
+- \[noun\], vocative, singular, masculine
+- “shining; glistening; brilliant.”
+
+_________
+
+- *sarpiṣo* ← *sarpiṣaḥ* ← *sarpis*
+- \[noun\], genitive, singular, neuter
+- “ghee; clarified butter; sarpiḥprameha.”
+
+_________
+
+- *darvī*
+- \[noun\], accusative, dual, feminine
+- “darvī; ladle; hood.”
+
+_________
+
+- *śrīṇīṣa* ← *śrīṇīṣe* ← *śrī*
+- \[verb\], singular, Present indikative
+- “cook; boil; heat; cook; mix.”
+
+_________
+
+- *āsani* ← *āsan*
+- \[noun\], locative, singular, neuter
+- “mouth.”
+
+_________
+
+- *uto* ← *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+
+_________
+
+- *uto* ← *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+
+_________
+
+- *na* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *ut* ← *ud*
+- \[adverb\]
+- “up.”
+
+_________
+
+- *pupūryā* ← *pupūryāḥ* ← *pṛ*
+- \[verb\], singular, Perfect optative
+- “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
+    mix; complete.”
+
+_________
+
+- *uktheṣu* ← *uktha*
+- \[noun\], locative, plural, neuter
+- “hymn; praise; uktha \[word\]; encomium.”
+
+_________
+
+- *śavasas* ← *śavas*
+- \[noun\], genitive, singular, neuter
+- “strength; power; superiority.”
+
+_________
+
+- *pata* ← *pate* ← *pati*
+- \[noun\], vocative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+
+_________
+
+- *iṣaṃ* ← *iṣam* ← *iṣ*
+- \[noun\], accusative, singular, feminine
+- “refreshment; enjoyment; stores.”
+
+_________
+
+- *stotṛbhya* ← *stotṛbhyaḥ* ← *stotṛ*
+- \[noun\], dative, plural, masculine
+- “laudatory; worshiping.”
+
+_________
+
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *bhara* ← *bhṛ*
+- \[verb\], singular, Present imperative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+
+_________
+
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+सुश्चन्द्र- शोभनाह्लादक। उभे। सर्पिषः पूर्णे। दर्वी। आसने- आस्ये। श्रीणिषे- श्रयसि गृह्णासीति  भावः। उत- अपि च। शवसस्पते- शक्तिज। उक्थेषु- मन्त्रेषु। नः- अस्मान्। उत्पुपूर्याः-  उत्पूरय॥९॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सुश्चन्द्र** शोभनाह्लादन शोभनहिरण्य वाग्ने **उभे** **सर्पिषः** पूर्णे **दर्वी** जुहूपभृतौ **आसनि** आस्ये **श्रीणीषे** श्रयसि पचसि वा । **उतो** अपि च **नः** अस्मान् **उक्थेषु** यागेषु **उत्पुपूर्याः** उत्पूरय फलैः। हे **शवसस्पते** बलस्य पालयितः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे सुश्चन्द्र सुकान्त । 'सुपूर्वश्च चन्द्रपरः' इति शकारस्सांहितिक आगमः । दर्वी हनू सर्पिषस्सम्बन्धिन्यौ सर्पिस्संसिक्ते । दीर्यते भक्ष्यते अन्नमाभ्यामिति दर्वी । ते श्रीणीषे सदा सेवसे । यद्वा - उभे दर्वी । सर्पिषश्श्रीणीषे सर्पिः प्रापयसि सर्पिषा मिश्रीकुरुष्व । आसनि आस्ये । पद्दन्नादिना आसन्भावः । उतो अपि च हे शवसस्पते बलस्य पातः । 'षष्ठ्याः पतिपुत्र' इति सत्वम् । नः अस्माकं उक्थेषु स्तोत्रवत्सु यज्ञेषु उत्पुपूर्याः उच्छ्रितं पूरय सामर्थ्याद्धनं बलमेव वा अविशेषणात्सर्वम् । अनिरुक्तत्वात् प्रजातिरामन्त्र्यते । पूरी आप्यायने, लिङि 'बहुलं छन्दसि' इति शपश्श्लुः । किञ्च - इषमन्नं स्तोतृभ्य आभर स्तोतृभ्यः ऋत्विग्भ्यः आभर । 'हृग्रहोर्भः ' ॥
+
+हे सुश्चन्द सुष्ठवाह्लादकराऽऽसनि त्वदीय आस्ये सर्पिषः संबन्धिन्या उभे दर्वी दर्विसदृशे हनू श्रीणीषे, हनुपूरणपर्यन्तं सर्पिस्त्वयां प्रीतमित्यर्थः ।   उतो अपि च हे सवत्तस्पते बलस्याधिपत उक्थेषु शस्त्रवत्सु यज्ञेषु नोऽस्यान्पु ( नुत्पु ) पूर्या उत्कर्षेण पूरय प्रापयेत्यर्थः ।   स्तोतृभ्यो यजमानेभ्य इषमन्नमाभर संपादय ।
 </details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Giver of delight, you receive into your mouth the two ladles (full) of butter; so may you fulfil (our desires), lord of strength, at our solemn rites; bring, **Agni**, food to your adorers.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+**Yajus**. 15.43; the two ladles: termed **juhu** and upabhṛt, two ladles used for pouring the oiled butter upon the fire; or ubhe **darvi**, two **hands** serving as ladles
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+O you who are beautifully shimmering, you make the two spoonsful of  melted butter ready within your mouth,  
+and so you should fill us (with plenty) at our hymns, o lord of  
+vast power.  
+– Bring refreshment for the praise singers.
+</details>
+
+<details><summary>Griffith</summary>
+
+Thou, brilliant God, within thy mouth warmest both ladies of the oil.  
+     So fill us also, in our hymns, abundantly, O Lord of Strength,Bring food to those who sing thy praise.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+Thou warmest in thy mouth, O highly brilliant one, the two (sacrificial) ladles full of butter. And mayst thou fill us (with gifts) at our hymns, O lord of strength! Bring food to thy praisers!
+</details>
+
+<details><summary>Geldner</summary>
+
+Beide Löffel mit Schmelzbutter mischtest du in deinem Munde, du Schönglänzender. Schenke du auch uns voll ein für die Lieder, du Herr der Kraft! - Bring den Sängern gute Speise!
+</details>
+
+<details><summary>Grassmann</summary>
+
+In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiches Gut uns zu bei diesen Sprüchen, Herr der Kraft, den Sängern bringe Labetrunk.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Обе ложки топленого масла, о ярко сияющий,  
+Ты смешиваешь во рту.  
+И нам ты наполни с верхом  
+За гимны, о господин силы!  
+Принеси восхвалителям жертвенную усладу!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वसुश्रुत आत्रेयः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (सुश्चन्द्र) उत्तम सुवर्ण आदि ऐश्वर्य्य से युक्त (शवसः, पते) सेना के स्वामी ! जो आप (उभे) दोनों (दर्वी) पाक करने के साधानों अर्थात् चम्मचों को इकट्ठे करके (आसनि) मुख में अर्थात् अग्निमुख में (सर्पिषः) घृत आदि का (श्रीणीषे) पाक करते हो (उतो) और उससे (नः) हम लोगों को (उत्, पुपूर्याः) उत्तमता से शोभित करें वा पालें वह आप (उक्थेषु) प्रशंसित धर्म्मसम्बन्धी कर्म्मों में (स्तोतृभ्यः) पढ़ाने और पढ़नेवालों के लिये (इषम्) अन्न का (आ, भर) धारण करें ॥९॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो राजा सेना के भोजन के उत्तम प्रबन्ध को आरोग्य के लिये वैद्यों को रखता है, वही प्रशंसित होकर राज्य बढ़ाता है ॥९॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे सुश्चन्द्र शवसस्पते ! यत्स्त्वमुभे दर्वी घटयित्वाऽऽसनि सर्पिषः श्रीणीष उतो तेन नोऽस्मानुत्पुपूर्याः स त्वमुक्थेषु स्तोतृभ्य इषमा भर ॥९॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (उभे) (सुश्चन्द्र) सुष्ठुसुवर्णाद्यैश्वर्य्य (सर्पिषः) घृतादेः (दर्वी) दृणाति याभ्यां ते पाकसाधने (श्रीणीषे) पचसि (आसनि) आस्ये (उतो) (नः) अस्मान् (उत्) (पुपूर्याः) अलङ्कुर्याः पालयेः (उक्थेषु) प्रशंसितेषु धर्म्येषु कर्मसु (शवसः, पते) बलस्य सैन्यस्य स्वामिन् (इषम्) (स्तोतृभ्यः) अध्यापकाध्येतृभ्यः (आ) (भर) ॥९॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  यो राजा सैन्यस्य भोजनप्रबन्धमुत्तममारोग्याय वैद्यान् रक्षति स एव प्रशंसितो भूत्वा राज्यं वर्धयति ॥९॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो राजा सेनेची भोजन व्यवस्था व उत्तम आरोग्य यासाठी वैद्य बाळगतो, तोच प्रशंसित होऊन राज्य वाढवितो. ॥ ९ ॥
+</details>
+
+</div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

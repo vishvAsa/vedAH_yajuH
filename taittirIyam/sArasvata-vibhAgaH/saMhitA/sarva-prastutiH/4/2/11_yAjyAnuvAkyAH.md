@@ -1,6 +1,5 @@
 +++
 title = "११ याज्यानुवाक्याः"
-
 +++
 
 गायत्री, २,६, १० त्रिष्टुप् । विश्वेदावा ऋषयः
@@ -89,22 +88,267 @@ title = "११ याज्यानुवाक्याः"
 अथ मारुत्या आमिक्षायाः पुरोनुवाक्यामाह— मरुतो यस्य हीति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/086/01_maruto_yasya.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
+
+म᳓रुतो य᳓स्य हि᳓ क्ष᳓ये  
+पाथा᳓ दिवो᳓ विमहसः  
+स᳓ सुगोपा᳓तमो ज᳓नः
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/086/01_maruto_yasya.md">
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मरुतः
+- ऋषिः - गोतमो राहूगणः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+म᳓रुतो य᳓स्य हि᳓ क्ष᳓ये  
+पाथा᳓ दिवो᳓ विमहसः  
+स᳓ सुगोपा᳓तमो ज᳓नः
+</details>
+
+<details><summary>तैत्तिरीयम् मूलम्</summary>
 
 मरु॑तो॒ यस्य॒ हि [46]  क्षये॑ पा॒था दि॒वो वि॑महसः ।  
-स सु॑गो॒पात॑मो॒ जनः॑ ।  
+स सु॑गो॒पात॑मो॒ जनः॑ ।
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Vedaweb annotation</summary>
 
-मरु॑तो॒ यस्य॒ हि [46]  क्षये॑ पा॒था दि॒वो वि॑महसः ।  
-स सु॑गो॒पात॑मो॒ जनः॑ ।  
+_________
+**Strata**  
+Normal on metrical evidence alone
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+hí ← hí (invariable)  
+{}
+
+kṣáye ← kṣáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+márutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pāthá ← √pā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vimahasaḥ ← vímahas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sugopā́tamaḥ ← sugopā́tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-हे मरुतो दिवो द्युलोकादागता यूयं यस्य यजमानस्य क्षये गृहे पाथ रक्षां कुरुथ।   कीदृशा मरुतः, विमहसो विशिष्टं महस्तेजो येषान्ते विमहसः।   स जनस्तादृशो यजमानः सुगोपातमोऽतिशयेन रक्षको भवतु।  
+मरु॑तः । यस्य॑ । हि । क्षये॑ । पा॒थ । दि॒वः । वि॒ऽम॒ह॒सः॒ ।  
+सः । सु॒ऽगो॒पात॑मः । जनः॑ ॥
 </details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *maruto* ← *marutaḥ* ← *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+
+_________
+
+- *yasya* ← *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+
+_________
+
+- *kṣaye* ← *kṣaya*
+- \[noun\], locative, singular, masculine
+- “dwelling; house; kṣaya \[word\]; home; family.”
+
+_________
+
+- *pāthā* ← *pā*
+- \[verb\], plural, Present indikative
+- “protect; govern.”
+
+_________
+
+- *divo* ← *divaḥ* ← *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+
+_________
+
+- *vimahasaḥ* ← *vimahas*
+- \[noun\], nominative, plural, masculine
+
+_________
+
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *sugopātamo* ← *sugopātamaḥ* ← *sugopātama*
+- \[noun\], nominative, singular, masculine
+
+_________
+
+- *janaḥ* ← *jana*
+- \[noun\], nominative, singular, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+
+_________
+
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+दिवः- द्युलोकस्य। चित्ताकाशस्य वा। विमहसः- विशिष्टतेजसः। मरुतः। यस्य। क्षये- सदने।  पाथ- सोमं पिबथ रसमनुभवथ। सः। जनः। सुगोपातमः- सुष्ठु चिद्रश्मिपालकेषूत्तमो भवति॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **विमहसः** विशिष्टप्रकाशाः **मरुतः** **दिवः** अन्तरिक्षलोकादागत्य **यस्य** **हि** यस्य खलु यजमानस्य **क्षये** यज्ञगृहे **पाथ** सोमं पिबथ **सः** **जनः** जातो यजमानः **सुगोपातमः** शोभनैः पालकैरत्यन्तं युक्तो भवति ॥ पाथ।  ‘ पा पाने । लटि ‘बहुलं छन्दसि ' इति शपो लुक् । यद्वृत्तयोगादनिघातः । विमहसः । विशिष्टं महस्तेजो येषां ते तथोक्ताः । सुगोपातमः । शोभनो गोपा रक्षको यस्य स सुगोपाः । अतिशयेन सुगोपाः सुगोपातमः । तमपः पित्त्वादनुदात्तत्वे सति बहुव्रीहौ  ‘ नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वमेव शिष्यते ॥
+
+_____________
+
+हे मरुतो दिवो द्युलोकादागता यूयं यस्य यजमानस्य क्षये गृहे पाथ रक्षां कुरुथ।   कीदृशा मरुतः, विमहसो विशिष्टं महस्तेजो येषान्ते विमहसः।   स जनस्तादृशो यजमानः सुगोपातमोऽतिशयेन रक्षको भवतु।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The man in whose mansion, resplendent **Maruts**, descending from the sky, you drink (the libation), is provided with most able protectors.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+O Maruts of extensive might, certainly the man over whose dwelling  place you keep protective watch from heaven,  
+he has the best protector.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+I do not understand the function of hí here, which is doubly unusual in occurring both in a relative clause and in the initial clause of a hymn. Hettrich (Hypotaxe, p. 181) also finds it puzzling. Finding hí in the opening pāda of a hymn is not unprecedented (cf., e.g., IV.1.1, VI.1.1, VI.2.1), but the relative clause is a further complication.
+
+The abl. diváḥ is construed by Geldner and Renou with the voc. vimahasaḥ (Geldner “ihr ausgezeichneten (Mannen) des Himmels”), but we might expect it to lose its accent in the vocative phrase, like divo naraḥ (II.36.2, V.54.10) and divo duhitar (IV.51.10, etc.). It is better taken with √pā ‘protect’, which is elsewhere found with the ablative (e.g., X.158.1 sū́ryo no divás pātu), indicating the location of the protector and hence the direction from which the protection comes. So also Witzel Gotō.
+</details>
+
+<details><summary>Griffith</summary>
+
+THE best of guardians hath that man within whose dwelling place ye drink,  
+     O Maruts, giants of the sky.
+</details>
+
+<details><summary>Geldner</summary>
+
+Denn in wes Haus ihr Marut wachet, ihr ausgezeichneten Mannen des Himmels, der Mann ist am besten bewacht.
+</details>
+
+<details><summary>Grassmann</summary>
+
+In wessen Haus o Maruts ihr, des Himmels hohe Helden, trinkt, Der Mann geniesst den besten Schutz.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+О Маруты, у кого в доме  
+Вы стоите на страже, о могучие (мужи) неба,  
+Тот человек самый защищенный.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरुतः
+- गोतमो राहूगणः
+- गायत्री
+- षड्जः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर वह गृहस्थ कैसा हो, इस विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (विमहसः) नाना प्रकार पूजनीय कर्मों के कर्त्ता ! (दिवः) विद्यान्यायप्रकाशक तुम लोग (मरुतः) वायु के समान विद्वान् जन (यस्य) जिसके (क्षये) घर में (पाथ) रक्षक हो (सः हि) वही (सुगोपातमः) अच्छे प्रकार (जनः) मनुष्य होवे ॥ १ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जैसे प्राण के विना शरीरादि का रक्षण नहीं हो सकता, वैसे सत्योपदेशकर्त्ता के विना प्रजा की रक्षा नहीं होती ॥ १ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे विमहसो ! दिवो यूयं मरुतो यस्य क्षये पाथ स हि खलु सुगोपातमो जनो जायेत ॥ १ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनः स गृहस्थः कीदृश इत्युपदिश्यते ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (मरुतः) प्राणा इव प्रिया विद्वांसः (यस्य) (हि) खलु (क्षये) गृहे (पाथ) रक्षका भवथ। अत्र द्व्यचोऽतस्तिङ इति दीर्घः। (दिवः) विद्यान्यायप्रकाशकाः (विमहसः) विविधानि महांसि पूज्यानि कर्माणि येषां तत्सम्बुद्धौ (सः) (सुगोपातमः) अतिशयेन सुष्ठु स्वस्यान्येषां च रक्षकः (जनः) मनुष्यः ॥ १ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। यथा प्राणेन विना शरीरादिरक्षणं न सम्भवति, तथैव सत्योपदेशकेन विना प्रजारक्षणं न जायते ॥ १ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - विषयः</summary>
+
+या सूक्तात शरीरात स्थित असलेले प्राण इत्यादी वायू इच्छित सुख सिद्ध करून सर्वांचे रक्षण करतात. तसेच सभाध्यक्ष इत्यादींनी संपूर्ण राज्याचे यथायोग्य रक्षण करावे. या अर्थाच्या वर्णनाने या सूक्तात सांगितलेल्या अर्थाची मागील सूक्ताच्या अर्थाबरोबर एकरूपता जाणली पाहिजे. ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जसे प्राणाशिवाय शरीर इत्यादीचे रक्षण होऊ शकत नाही. तसे सत्य उपदेशकाशिवाय प्रजेचे रक्षण होत नाही. ॥ १ ॥
+</details>
+
+</div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -205,17 +449,17 @@ title = "११ याज्यानुवाक्याः"
 
 अथ कायमेककपालमित्यस्य पुरोनुवाक्यामाह— कया नश्र्वित्र इति।   
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
-<details open><summary><h5>०१ कया नश्चित्र ...{Loading}...</h5></summary>
 
 क᳓या नश् चित्र᳓ +++(→इन्द्रः)+++ **आ᳓ भुवद्**  
 **ऊती᳓** +++(=रक्षणम्/ तर्पणम् [तेन])+++, सदा᳓-वृधः +++(=वर्धमानः)+++ स᳓खा ।  
 क᳓या श᳓चिष्ठया +++(=प्रज्ञावता)+++ वृता᳓ +++(=वर्तनेन)+++ १
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/031/01_kayA_nashchitra.md">
-<details open><summary><h5>001 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -356,6 +600,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+चित्रः- असाधारणः। सदावृधः- सततं वर्धमानः। सखा- मित्रभूत इन्द्रः। कया- केन। नः-  अस्मान्। आ- आभिमुख्येन। भुवत्- भवति। कया- केन। वृता- वर्तनेन। शचिष्ठया- अतिशयेन  प्रज्ञावता कर्मणा भवति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सदावृधः** सदा वर्धमानः **चित्रः** चायनीयः पूजनीयः **सखा** मित्रभूत इन्द्रः **कया** **उती** ऊत्या तर्पणेन **नः** अस्मान् **आ** **भुवत्** आभिमुख्येन भवेत् । **शचिष्ठया** प्रज्ञावत्तमया प्रज्ञासहितमनुष्ठीयमानेन **कया** **वृता** केन वर्तनेन कर्मणा चाभिमुखो भवेत् ॥
@@ -419,7 +668,7 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  हे राजन् ! आपको चाहिये कि हम लोगों के साथ, वैसे कर्म्म करें कि जिनसे हम लोगों की प्रीति बढ़े ॥१॥
+भावार्थभाषाः -  हे राजन् ! आपको चाहिये कि हम लोगों के साथ, वैसे कर्म्म करें कि जिनसे हम लोगों की प्रीति बढ़े ॥१॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
@@ -451,8 +700,9 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 
 भावार्थभाषाः -  हे राजा! आमच्याबरोबर असे वाग की ज्यामुळे आमचे प्रेम वाढावे. ॥ १ ॥ ००
 </details>
-</details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यामाह- को अद्य युङ्क्त इति।   
@@ -602,22 +852,264 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 अथ द्वितीयाज्यभागस्य पुरोनुवाक्यामाह- वृपा सोम द्युमामिति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/064/01_vRShA_soma.md">
 
-वृषा॑ सोम द्यु॒माँ अ॑सि॒ वृषा॑ देव॒ वृष॑व्रतः ।  
-वृषा॒ धर्मा॑णि दधिषे ।  
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
+
+वृ᳓षा सोम द्युमाँ᳓ असि  
+वृ᳓षा देव वृ᳓षव्रतः  
+वृ᳓षा ध᳓र्माणि दधिषे
 </details>
 
-<details><summary>मूलम्</summary>
+</div>
 
-वृषा॑ सोम द्यु॒माँ अ॑सि॒ वृषा॑ देव॒ वृष॑व्रतः ।  
-वृषा॒ धर्मा॑णि दधिषे ।  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/064/01_vRShA_soma.md">
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - कश्यपः
+- छन्दः - गायत्री
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>Thomson & Solcum</summary>
+
+वृ᳓षा सोम द्युमाँ᳓ असि  
+वृ᳓षा देव वृ᳓षव्रतः  
+वृ᳓षा ध᳓र्माणि दधिषे
+</details>
+
+<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+वृषा॑ सोम द्यु॒माँ अ॑सि॒ वृषा॑ देव॒ वृष॑व्रतः ।  
+वृषा॒ धर्मा॑णि दधिषे ।
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+_________
+**Morph**  
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dyumā́n ← dyumánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣavrataḥ ← vŕ̥ṣavrata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadhiṣe ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+dhármāṇi ← dhárman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वृषा॑ । सो॒म॒ । द्यु॒ऽमान् । अ॒सि॒ । वृषा॑ । दे॒व॒ । वृष॑ऽव्रतः ।  
+वृषा॑ । धर्मा॑णि । द॒धि॒षे॒ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *vṛṣā* ← *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+
+_________
+
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+
+_________
+
+- *dyumāṃ* ← *dyumat*
+- \[noun\], nominative, singular, masculine
+- “bright; brilliant; brilliant; loud.”
+
+_________
+
+- *asi* ← *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *vṛṣā* ← *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+
+_________
+
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *vṛṣavrataḥ* ← *vṛṣa* ← *vṛṣan*
+- \[noun\], masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+
+_________
+
+- *vṛṣavrataḥ* ← *vrataḥ* ← *vrata*
+- \[noun\], nominative, singular, masculine
+- “vrata (vote); commandment; law; oath; command; rule; custom; vrata
+    \[word\]; rule; behavior.”
+
+_________
+
+- *vṛṣā* ← *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+
+_________
+
+- *dharmāṇi* ← *dharma*
+- \[noun\], accusative, plural, neuter
+- “Dharma; custom; dharma \[word\]; regulation; duty; Dharma; Dharma;
+    Dharma; Dharma; law; law; peculiarity; justice.”
+
+_________
+
+- *dadhiṣe* ← *dhā*
+- \[verb\], singular, Perfect indicative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+
+_________
+
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+सोम- रस। वृषा- वर्षकः। द्युमान्- दीप्तिमान्। वृषव्रतः- वर्षणनियतिसंपन्नः। असि- भवसि।  देव- हे लीलायुक्त। धर्माणि- धर्मान्। दधिषे- धारयसि॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सोम** **वृषा** वर्षकस्त्वं **द्युमान्** दीप्तिमान् **असि** । अपि च हे **देव** द्योतमान सोम **वृषा** त्वं **वृषव्रतः** वर्षणशीलकर्मासि । किंच हे सोम **वृषा** त्वं **धर्माणि** देवानां मनुष्याणां च हितानि कर्माणि **दधिषे** धारयसि ॥
+
+_____________
 
 हे सोम त्वं वृषा कामानां वर्षयिताऽसि।   द्युमान्दीप्तिमांश्चासि।   हे देव यस्मात्त्वं वृषा वर्षयिता तस्मात्वं वृषव्रतो वर्षणनिमित्तं व्रतं कर्म यस्य स वृषव्रतः।   किंच यस्मात्त्वं वृषा वर्षयिता तस्माद्धर्माणि पुण्यानि दधिषे।   हे सोम त्वं वृषा धारयिताऽसि।
+
+अथ द्वितीयाज्यभागस्य पुरोनुवाक्याम् आह— “वृषा सोमेति”।
+हे सोम त्वं वृषा कामानां वर्षयिता द्युमान् दीप्तिमांश् चासि।
+हे देव यस्मात् त्वं वृषा वर्षयिता तस्मात् त्वं वृष-व्रतो वर्ष-निमित्तं कर्म यस्यासौ वृष-व्रतः।
+किंच यस्मात् त्वं वृषा वर्षयिता तस्माद् धर्माणि पुण्यानि दधिषे धारयसि।
 </details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“You, **Soma**, are the bright sprinkler; you shining (Soma) are the sprinkler whose occupation is sprinkling; you, the sprinkler, sustain the rites (of men and gods).”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+A bull are you, Soma, a brilliant one—a bull following his bullish  commandments, o god.  
+As bull, you have established your own foundations.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+Oldenberg’s interpr. of vṛ́ṣā in c as a neut. pl. adj. with dhármāṇi seems both unnecessary and unlikely. I know of no other neut. forms of vṛ́ṣan- (the few cited by Oldenberg are not convincing), which suggests to me that, despite its widely accepted classification as an adj., the stem is synchronically a masc. noun, which, however, can be used as an adjunct strengthener of another noun, hence “bull X” as the equivalent of “bullish X” - a usage similar to English ‘horse’ as an augmentative, meaning ‘strong, large, coarse’ (as in, for ex., horseradish). See https://www.etymonline.com/word/horseradish Moreover, since nom. sg.
+
+vṛ́ṣā opens the two previous pādas of this vs., it seems unlikely that a morphologically different, and at the least very rare, phonologically identical form would open the third - esp. since, when a neut. adj. is required in the next vs. (2a), the deriv. vṛ́ṣṇya- is employed.
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/01-03.md">
+<details open><summary><h7>01-03 …{Loading}…</h7></summary>
+<details><summary>Jamison Brereton Notes</summary>
+
+As noted in the published introduction, this opening tṛca is marked by the identification of Soma and his attributes with a bull (vṛ́ṣan-). This theme is especially dominant in vss. 1 and 2: all three pādas of vs. 1 open vṛ́ṣā, with the bahuvrīhi vṛ́ṣa-vrataḥ ending the first hemistich; vs. 2 is even more insistent, with two forms of the stem (or deriv. vṛ́ṣṇya-) in each of the three pādas. By contrast, vs. 3 only nods at the theme: vṛ́ṣā appears once in 3a, though the final word of the vs., vṛdhi, may be meant to echo the word phonologically.
+</details>
+</details>
+</div>
+</details>
+
+<details><summary>Griffith</summary>
+
+Soma, thou art a splendid Steer, a Steer, O God, with steerlike sway:  
+     Thou as a Steer ordainest laws.
+</details>
+
+<details><summary>Geldner</summary>
+
+Soma, du bist der glänzende Bulle, du Gott, der Bulle wie ein Bulle wirkend; du, der Bulle, hast die Bräuche eingesetzt.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier empfängst du die Gebühr.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- कश्यपः
+- गायत्री
+- षड्जः
+</details>
+
+<details><summary>आर्यमुनि - विषयः</summary>
+
+अब परमात्मा के गुणों का वर्णन करते हैं।
+</details>
+
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सोम) हे सौम्यस्वभाव परमात्मन् ! (द्युमान्) आप दीप्तिमान् (असि)हैं(वृषा) तथा सब कामनाओं की वर्षा करनेवाले हैं। (देव) हे देव ! आप (वृषव्रतः) अर्थात् आनन्द की वृष्टिरूप शील को धारण किये हुए हैं तथा उपासकों के हृदयों को (वृषा) स्नेह सेसिञ्चनकरते हैं (वृषा धर्माणि दधिषे) और वर्षणशील धर्मों को धारण किये हुए हैं॥१॥
+</details>
+
+<details><summary>आर्यमुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  हे परमात्मन् ! आप नित्य शुद्ध-बुद्ध-मुक्त-स्वभाव हैं और आपकी मर्यादा में ही सब लोक-लोकान्तर स्थिर हैं। आप अपनी धर्ममर्यादा में हमको भी स्थिर कीजिये॥१॥
+</details>
+
+<details><summary>आर्यमुनि (सं) - विषयः</summary>
+
+अथ परमात्मनो गुणा वर्ण्यन्ते।
+</details>
+
+<details><summary>आर्यमुनि  (सं)- पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सोम) हे परमात्मन् ! त्वं (द्युमानसि) दीप्तिमानसि। तथा (वृषा) समस्ताभीष्टवर्षकोऽसि। तथोपासकानां हृदयानि (वृषा) स्नेहेन सिञ्चसि। (देव) हे दिव्यगुणसम्पन्न ! भवान् (वृषव्रतः) आनन्दवर्षणशीलं ददाति। (वृषा धर्माणि दधिषे) तथा वर्षणशीलधर्मधारकोऽस्ति ॥१॥
+</details>
+
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

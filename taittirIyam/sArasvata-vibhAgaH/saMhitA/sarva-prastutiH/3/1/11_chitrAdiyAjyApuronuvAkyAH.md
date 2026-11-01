@@ -1,6 +1,5 @@
 +++
 title = "११ चित्रादियाज्यापुरोनुवाक्याः"
-
 +++
 
 त्रिष्टुुप्, १,५,७,११-१२, २२,३३-३५ गायत्री,  
@@ -309,17 +308,22 @@ title = "११ चित्रादियाज्यापुरोनुव�
 
 16अथ तत्रैव याज्या - या सुपाणिरित्यनुष्टुप् ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/11_chitrAdiyAjyApuronuvAkyAH/47_yA_supANis.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 या सु॑पा॒णिस् स्व॑ङ्गु॒रिस्  
 सु॒-षूमा॑+++(←सू)+++ बहु॒-सूव॑री+++(←सू)+++ ।   
 तस्यै॑ वि॒श्-पत्नि॑यै ह॒विस्  
 सि॑नीवा॒ल्यै **जु॑होतन** ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/11_chitrAdiyAjyApuronuvAkyAH/47_yA_supANis.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 या सु॑पा॒णिस्स्व॑ङ्गु॒रिस्सु॒षूमा॑ बहु॒सूव॑री ।   
@@ -331,9 +335,12 @@ title = "११ चित्रादियाज्यापुरोनुव�
 या सुपाणिः शोभनहस्ता स्वङ्गुरिः शोभनाङ्गुलिः । कपिलकादित्वाल्लत्वविकल्पः, उभयत्रापि 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । सुषूमा सुष्ठु प्रसवित्री । सूतेः 'अन्येभ्योपि दृश्यते' इति मनिन्, गुणाभावश्छान्दसः, 'मनः' इति ङीप्रतिषेधः, कृदुत्तरपदप्रकृतिस्वरत्वम् । यद्वा - सूतेरौणादिको मनिन्प्रत्ययः । सुष्ठु सूमा सूतिः यस्य सुषूमा । बहुव्रीहौ 'सोर्मनसी' इत्युत्तरपदान्तोदात्तत्वम्, सुषामादित्वात् षत्वम् । बहुसूवरी बह्वीनां प्रजानां सवित्री । तेनैव क्वनिप्, 'वनो रच' ङीब्रेफौ, कृदुत्तरपदप्रकृतिस्वरत्वम् । तस्यै सिनीवाल्यै विश्पत्नियै विशां पालयित्र्यै । 'विश्पूर्वस्य' इति पत्युर्नकारः, 'अयस्मयादीनि छन्दसि' इति भत्वेन विशो जस्त्वाभावः, 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । हविर्जुहोतन जुहुत हे ऋत्विग्यजमानाः । 'तप्तनप्तनधनाश्च' इति तनबादेशः, पित्त्वेन ङित्त्वाभावाद्गुणः ॥
 ___________________
 18अथ द्वितीया - या सुपाणिः शोभनहस्ता स्वङ्गुरिः शोभनाङ्गुळिः सुषूमा शोभनप्रसूतिः बहुसूवरी बहूनामपत्यानां सवित्री । तस्यै विश्पत्नियै विशां पालयित्र्यै सिनीवाल्यै हविर्जुहोतनेति ॥
+
 </details>
 </details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17'ऐन्द्र उत्तमो भवति' इत्यस्यैन्द्रस्य पुरोनुवाक्या याज्या च - इन्द्रं वो विश्वतस्परीन्द्रं नर इति गायत्रीत्रिष्टुभौ । 
@@ -670,22 +677,228 @@ ___________________
 33अथोपहोमार्थाः तिस्रो गायत्र्यः - और्वभृगुवदित्याद्याः तत्र ॥ प्रथमा । 'शुचिम्' इति प्रथमपादान्तः । और्वाप्नवानौ भार्गवावृषी । यथोक्तं भृगूणां पञ्चार्षेयप्रवरे - 'जमदग्निवदौर्ववदप्नवानवच्च्यवनवद्भृगुवत्' इति । और्वश्चासौ भृगुश्च और्वभृगुः । भृगुरिति भार्गवोऽभेदेनोच्यते । यथा और्वो भार्गवोग्निमाह्वयत् यथा चाप्नवानोग्निं तद्वदहमपि अग्निं शुचिं समुद्रवाससं आह्वये आह्वयामि आजुहोमि वा । शपो लुक् । समुद्रे वासो यस्य स समुद्रवासाः । अन्तरिक्षे वसतीति के चित् । अपामाच्छादयितेत्यन्ये ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/102/06_A_savaM.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
+
+आ᳓ सवं᳓ सवितु᳓र् यथा  
+भ᳓गस्येव भुजिं᳓ हुवे  
+अग्निं᳓ समुद्र᳓वाससम्
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/102/06_A_savaM.md">
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - प्रयोगो भार्गव अग्निर्वा पावको बार्हस्पत्यः, अथवाग्नी गृहपतियविष्ठौ सहसः सुतौ तयोर्वान्यतरः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+आ᳓ सवं᳓ सवितु᳓र् यथा  
+भ᳓गस्येव भुजिं᳓ हुवे  
+अग्निं᳓ समुद्र᳓वाससम्
+</details>
+
+<details><summary>तैत्तिरीयम् मूलम्</summary>
 
 आ स॒वँ स॑वि॒तुर्य॑था॒ भग॑स्येव भु॒जिँ हु॑वे ।   
 अ॒ग्निँ स॑मु॒द्रवा॑ससम् ।
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Vedaweb annotation</summary>
 
-आ स॒वँ स॑वि॒तुर्य॑था॒ भग॑स्येव भु॒जिँ हु॑वे ।   
-अ॒ग्निँ स॑मु॒द्रवा॑ससम् ।
+_________
+**Strata**  
+Archaic
+
+_________
+**Pāda-label**  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+_________
+**Morph**  
+ā́ ← ā́ (invariable)  
+{}
+
+savám ← savá- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yathā ← yathā (invariable)  
+{}
+
+bhágasya ← bhága- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhujím ← bhují- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samudrávāsasam ← samudrávāsas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । स॒वम् । स॒वि॒तुः । य॒था॒ । भग॑स्यऽइव । भु॒जिम् । हु॒वे॒ ।  
+अ॒ग्निम् । स॒मु॒द्रऽवा॑ससम् ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *savaṃ* ← *savam* ← *sava*
+- \[noun\], accusative, singular, masculine
+- “yajña; command; impulse; direction; momentum.”
+
+_________
+
+- *savitur* ← *savituḥ* ← *savitṛ*
+- \[noun\], genitive, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+
+_________
+
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+
+_________
+
+- *bhagasyeva* ← *bhagasya* ← *bhaga*
+- \[noun\], genitive, singular, masculine
+- “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
+    well-being; happiness; overlord.”
+
+_________
+
+- *bhagasyeva* ← *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+
+_________
+
+- *bhujiṃ* ← *bhujim* ← *bhuji*
+- \[noun\], accusative, singular, feminine
+
+_________
+
+- *huve* ← *hvā*
+- \[verb\], singular, Present indikative
+- “raise; call on; call; summon.”
+
+_________
+
+- *agniṃ* ← *agnim* ← *agni*
+- \[noun\], accusative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *samudravāsasam* ← *samudra*
+- \[noun\], masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+
+_________
+
+- *samudravāsasam* ← *vāsasam* ← *vāsas*
+- \[noun\], accusative, singular, masculine
+- “clothing; fabric; garment; feather; dress; envelope.”
+
+_________
+
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+२    सवितुः- प्रेरकस्य सूर्यस्य। सवम्- अनुज्ञाम्। यथा- इव। भगस्य- सौभाग्याधिदैवतस्य। भुजिम्-  भोगम्। इव। स्थितं समुद्रवाससमग्निं हुवे॥६॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**सवितुः** प्रेरकस्य देवस्य **सवं** यथा प्रसवमिव **भगस्येव** **भुजिं** भगाख्यस्य देवस्य भोगमिव च **समुद्रवाससम्** **अग्निं** **हुवे** आह्वयामि ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 34द्वितीया - यथा सवितुस्सवमनुज्ञां आह्वयामि प्रार्थये, यथा च भगस्यादित्यस्य भुजिं भोगं प्रार्थये, तद्वदग्निं समुद्रवाससं हुवे । 'जवसवौ छन्दसि ' इत्यजन्तौ निपात्येते । भुजेरौणादिकः किप्रत्ययः, भुजिरिति । यद्वा - 'इक्स्तिपौ' इति धातुनिर्देशे विधीयमानोर्थनिर्देशेपि प्रवर्तते ॥
 </details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“I invoke **Agni** dwelling in th emidst of the sea, like the energy of **Savitā**, like the enjoyments granted byBhaga.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Like the energy of Savitā: savam **savituḥ** = prerakasya **devasya** prasavam; cf. 8.100.12; like theenjoyments granted by **Bhaga**: bhagasyeva bhujim = bhagākhyasya devasya bhogam iva; or, bhuji =like thefavour of Bhaga
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+As if upon the stimulus of Savitar, upon the benefit of Bhaga,  I call upon  
+Agni, whose garment is the sea.
+</details>
+
+<details><summary>Griffith</summary>
+
+As Savitar's productive Power, as him who sends down bliss, I call  
+     Agni who clothes him with the sea.
+</details>
+
+<details><summary>Geldner</summary>
+
+Ich rufe ihn an wie die Anweisung des Savitri, wie des Bhaga Wohltat, den Agni, der sich in das Meer einhüllt.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Ihn, der dem Trieb des Savitar und dem Genuss des Bhaga gleicht Agni, den meerumkleideten.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Как (призывают) побуждение Савитара,  
+Как наслаждение Бхаги, я зову  
+Агни, чья одежда – море.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- प्रयोगो भार्गव अग्निर्वा पावको बार्हस्पत्यः ; अथवाग्नी गृहपतियविष्ठौ सहसः सुतौ तयोर्वान्यतरः
+- गायत्री
+- षड्जः
+</details>
+
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
