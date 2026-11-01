@@ -6,6 +6,7 @@ title = "०३ अग्निसन्धानम्"
 अग्निसन्धानम् ( बोधायनीयम्)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+
 <details open><summary><h5>नमस् सदसे ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -265,13 +266,19 @@ title = "०३ अग्निसन्धानम्"
 
 तूणीं समिधमादधाति । उपस्थानं करिष्ये ॥
 
-यत्ते॑ अग्ने॒ तेजस्तेना॒हं ते॑ज॒स्वी भूयासम् ।  
-यत्ते॑ अग्ने॒ वर्चस्तेना॒हं व॑र्च॒स्वी भूयासम् ।  
-यत्ते॑ अग्ने हरस्तेना॒हँ ह॑रस्वी र्भूयासम् ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/5/03_viShNvatikramAH/yat_te_agne.md">
 
-मयि॑ मे॒धां मयि॑ प्र॒जां मय्यग्निस्तेजो॑ दधातु ।  
-मयि॑ मे॒धां मयि॑ प्र॒जां मयीन्द्र॑ इन्द्रियं द॑धातु ।  
-मयि॑ मे॒धां मयि॑ प्र॒जां मयि॒ सूर्यो भ्राजो॑ दधातु ॥ [[TODO:परिष्कार्यम्??]]
+यत्ते॑ अग्ने॒ तेजस्तेना॒हं ते॑ज॒स्वी भूयासम् ।
+यत्ते॑ अग्ने॒ वर्चस्तेना॒हं व॑र्च॒स्वी भूयासम् ।
+यत्ते॑ अग्ने हरस्तेना॒हँ ह॑रस्वी र्भूयासम् ॥
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/01_atigrAhyamantrAH/mayi_medhAm.md">
+
+मयि॑ मे॒धां मयि॑ प्र॒जां मय्यग्निस्तेजो॑ दधातु ।
+मयि॑ मे॒धां मयि॑ प्र॒जां मयीन्द्र॑ इन्द्रियं द॑धातु ।
+मयि॑ मे॒धां मयि॑ प्र॒जां मयि॒ सूर्यो भ्राजो॑ दधातु ॥
+</div>
 
 इति ।
 

@@ -11,6 +11,7 @@ title = "१४ कूश्माण्डहोमविधिः"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
 <details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+
 <details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -360,6 +361,7 @@ title = "१४ कूश्माण्डहोमविधिः"
 +++(अग्नये पवमानायेदं न मम)+++
 </details>
 </div>
+
 >
 > ४१. अग्ने॑ जा॒तान्प्रणु॑दानस्स॒पत्ना॒न्प्रत्यजा॑ताञ्जतवेदो नुदस्व ।  
 अ॒स्मे दी॑दिहि सु॒मना॒ अहे॑ळञ्छर्म॑न्ते स्याम त्रि॒वरू॑थ उ॒द्भौ स्वाहा॑ ॥ [[TODO:परिष्कार्यम्??]] 
@@ -585,9 +587,12 @@ title = "१४ कूश्माण्डहोमविधिः"
 </details>
 </div>
 > 
-> ओं भूस्स्वाहा॑ - (अग्नय इदं न मम) ॥  
-ओं भुव॒स्स्वाहा॑ - (वायव इदं न मम) ॥  
-ओँ सुव॒स्स्वाहा॑ ॥ (सूर्याय इदं न मम) ॥ [[TODO:परिष्कार्यम्??]] (१-३) ॥
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_3.md">
+
+ओं भूस्स्वाहा॑ - (अग्नय इदं न मम) ॥
+ओं भुव॒स्स्वाहा॑ - (वायव इदं न मम) ॥
+ओँ सुव॒स्स्वाहा॑ ॥ (सूर्याय इदं न मम) ॥  (१-३) ॥
+</div>
 >
 > यद॑स्य॒ कर्म॒णोऽत्यरी॑रिचं॒ यद्वा॒ न्यू॑नमि॒हाक॑रम् । अ॒ग्निष्टत्स्वि॑ष्ट॒कृद्वि॒द्वान् सर्वँ॒स्वि॑ष्टँ॒ सुहु॑तं करोतु॒ स्वाहा॑ ॥ (अग्नये स्विष्टकृत इदं न मम) [[TODO:परिष्कार्यम्??]] ॥ १ ॥
 
