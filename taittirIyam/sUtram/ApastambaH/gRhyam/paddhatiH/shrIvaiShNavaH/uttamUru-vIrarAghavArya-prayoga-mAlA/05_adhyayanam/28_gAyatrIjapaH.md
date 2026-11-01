@@ -15,8 +15,15 @@ title = "२८ गायत्रीजपः"
 
 इत्युक्त्वा (प्रातर्ध्यायामीति मन्त्रं परित्यज्य), यो देवस्सविताऽस्माकमित्यादिध्यानपर्यन्तं कृत्वा जपं कुर्यात् । जपावसाने त्रिः प्राणान् आयम्य, 
 
-> उ॒त्तमे॑ शिख॑रे दे॒वी॒ भू॒म्यां प॑र्वत॒मूर्ध॑नि ।  
-ब्रा॒ह्मणे॑भ्यो ह्य॑नुज्ञा॒नं॒ ग॒च्छ दे॑वि य॒थासु॑खम् ॥ [[TODO:परिष्कार्यम्??]] 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/30_uttame_shikhare.md">
+<details open><summary><h5>३० उत्तमे शिखरे ...{Loading}...</h5></summary>
+
+उत्तमे शिखरे देवी  
+भूम्यां पर्वतमूर्धनि ।  
+ब्राह्मणेभ्यो ह्य् अनुज्ञानङ्  
+गच्छ देवि यथासुखम् । (45)
+</details>
+</div>  
 
 इत्युद्वासयेत् ॥
 
