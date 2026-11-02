@@ -4,13 +4,13 @@ title: हेमन्तप्रत्यवरोहणम्
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_08_hemantapratyavarohaNam.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_08_hemantapratyavarohaNam.md">
 
 हेमन्तप्रत्यवरोहणम् +++(खट्वायाः)+++८  
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_09_uttareNa_yajuShA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_09_uttareNa_yajuShA.md">
 
 उत्तरेण यजुषा +++("प्रत्यवरूढो नो हेमन्तः"इत्यनेन)+++ प्रत्यवरुह्य  
 
@@ -24,25 +24,44 @@ unicode_script: devanagari
 उत्तरैर् +++("प्रतिक्षत्र"इत्यादिभिः पञ्चभिः)+++ दक्षिणैः पार्श्वैः नवस्वस्तरे+++(=तृणशय्यायाम्)+++ संविशन्ति ९  
 
 +++(नवस्वस्तरे संविशन् )+++  
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/03-07_pratixatre_pratitiShThAmi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/03_pratixatre_pratitiShThAmi.md">
 
-प्रति॑ क्ष॒त्रे, प्रति॑तिष्ठामि रा॒ष्ट्रे ।  
-प्रत्य् अश्वे॑षु॒, प्रति॑तिष्ठामि॒ गोषु॑ ।  
-प्रति॑ प्र॒जायां॒, प्रति॑तिष्ठामि॒ भव्ये॑+++(=मङ्गले)+++ ।  
-इ॒ह +++(स्वस्तरे)+++ धृति॑र्, इ॒ह विधृ॑तिः ।  
-इ॒ह रन्ति॑र्, इ॒ह रम॑तिः ।  
+प्र᳓ति क्षत्रे᳓, प्र᳓तितिष्ठामि राष्ट्रे᳓ ।  
 
 </div>
 
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/04_pratyashveShu_pratitiShThAmi.md">
+
+प्र᳓त्य् अ᳓श्वेषु, प्र᳓तितिष्ठामि गो᳓षु ।  
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_10_daxiNataH_pitottarA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/05_pratiprajAyAM_pratitiShThAmi.md">
+
+प्र᳓ति प्रजा᳓यां, प्र᳓तितिष्ठामि भ᳓व्ये+++(=मङ्गले)+++ ।  
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/06_iha_dhRtiH_vidhRtiH.md">
+
+इह᳓ +++(स्वस्तरे)+++ धृ᳓तिर्, इह᳓ वि᳓धृतिः ।  
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/07_iha_rantiH_ramatiH.md">
+
+इह᳓ र᳓न्तिर्, इह᳓ र᳓मतिः ।  
+
+</div>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_10_daxiNataH_pitottarA.md">
 
 दक्षिणतः पितोत्तरा मातैवम् अवशिष्टानां ज्येष्ठो ज्येष्ठो ऽनन्तरः १०  
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_11_sa.NhAyottarAbhyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_11_sa.NhAyottarAbhyAm.md">
 
 +++(किञ्चित्सुप्त्वा)+++ सं-हाय  
 उत्तराभ्यां +++("स्योना पृथिवि" "बडित्थे"त्येताभ्यां)+++ पृथिवीमभिमृशन्ति ११  
@@ -68,10 +87,9 @@ unicode_script: devanagari
 +++(अत्र देवप्रीत्या वृष्टिरिति चक्रम् उच्यते।)+++
 
 </div>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_12_evaM_saMveshanAdi.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_12_evaM_saMveshanAdi.md">
 
 एवं संवेशनादि त्रिः १२  
 

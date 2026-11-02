@@ -21,21 +21,41 @@ title = "०६ पिण्डप्रदानविधिः"
 ## मार्जनम्
 पूर्वेषु दर्भेषु -
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-04_mArjayantAm_mama_pitaraH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02_mArjayantAm_mama_pitaraH.md">
 
-मार्ज᳓यन्तां म᳓म पित᳓रो,  
-मार्ज᳓यन्तां म᳓म पितामहा᳓  
-मार्ज᳓यन्तां म᳓म प्रपितामहाः᳓ ।  
+मार्ज᳓यन्तां म᳓म पित᳓रो,
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/03_mArjayantAm_mama_pitAmahAH.md">
+
+मार्ज᳓यन्तां म᳓म पितामहा᳓
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/04_mArjayantAm_mama_prapitAmahAH.md">
+
+मार्ज᳓यन्तां म᳓म प्रपितामहाः᳓ ।
 
 </div>
 
 अपरेषु दर्भेषु -
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05-07_mArjayantAm_mama_mAtaraH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05_mArjayantAm_mama_mAtaraH.md">
 
-मार्ज᳓यन्तां म᳓म मात᳓रो,  
-मार्ज᳓यन्तां म᳓म पितामह्यो᳙,  
-मार्ज᳓यन्तां म᳓म प्रपितामह्यः᳙ ।  
+मार्ज᳓यन्तां म᳓म मात᳓रो,
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/06_mArjayantAm_mama_pitAmahyaH.md">
+
+मार्ज᳓यन्तां म᳓म पितामह्यो᳙,
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/07_mArjayantAm_mama_prapitAmahyaH.md">
+
+मार्ज᳓यन्तां म᳓म प्रपितामह्यः᳙ ।
 
 </div>
 
@@ -45,14 +65,75 @@ title = "०६ पिण्डप्रदानविधिः"
 [[140]]
 
 ## पिण्ड-स्थापनम्
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/08-19_etatte_tatAsau.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/08_etatte_tatAsau.md">
 
-एत᳓त्ते तताऽसौ+++(←नामनिर्देशः)+++, ये᳓ च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।  
-एत᳓त्ते पितामहाऽसौ+++(←नामनिर्देशः)+++, ये᳓ च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।  
-एत᳓त्ते प्रपितामहाऽसौ+++(←नामनिर्देशः)+++, ये᳓ च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।  
-एत᳓त्ते मातर् असौ+++(←नामनिर्देशः)+++, या᳓श् च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।  
-एत᳓त्ते पितामह्य् असौ+++(←नामनिर्देशः)+++, या᳓श् च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।  
+एत᳓त्ते तताऽसौ+++(←नामनिर्देशः)+++, ये᳓ च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/09_etatte_pitAmahAsau.md">
+
+एत᳓त्ते पितामहाऽसौ+++(←नामनिर्देशः)+++, ये᳓ च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/10_etatte_prapitAmahAsau.md">
+
+एत᳓त्ते प्रपितामहाऽसौ+++(←नामनिर्देशः)+++, ये᳓ च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/11_etatte_mAtarasau.md">
+
+एत᳓त्ते मातर् असौ+++(←नामनिर्देशः)+++, या᳓श् च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/12_etatte_pitAmahyasau.md">
+
+एत᳓त्ते पितामह्य् असौ+++(←नामनिर्देशः)+++, या᳓श् च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/13_etatte_prapitAmahyasau.md">
+
 एत᳓त्ते प्रपितामह्य् असौ+++(←नामनिर्देशः)+++, या᳓श् च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/14_mArjayantAm_mama_pitaraH.md">
+
+मार्ज᳓यन्तां म᳓म पित᳓रो,
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/15_mArjayantAm_mama_pitAmahAH.md">
+
+मार्ज᳓यन्तां म᳓म पितामहा᳓
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/16_mArjayantAm_mama_prapitAmahAH.md">
+
+मार्ज᳓यन्तां म᳓म प्रपितामहाः᳓ ।
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/17_mArjayantAm_mama_mAtaraH.md">
+
+मार्ज᳓यन्तां म᳓म मात᳓रो,
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/18_mArjayantAm_mama_pitAmahyaH.md">
+
+मार्ज᳓यन्तां म᳓म पितामह्यो᳙,
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/19_mArjayantAm_mama_prapitAmahyaH.md">
+
+मार्ज᳓यन्तां म᳓म प्रपितामह्यः᳙ ।
 
 </div>  
 
@@ -101,11 +182,21 @@ title = "०६ पिण्डप्रदानविधिः"
 
 पूर्वेषु दर्भेषु
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-04_mArjayantAm_mama_pitaraH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02_mArjayantAm_mama_pitaraH.md">
 
-मार्ज᳓यन्तां म᳓म पित᳓रो,  
-मार्ज᳓यन्तां म᳓म पितामहा᳓  
-मार्ज᳓यन्तां म᳓म प्रपितामहाः᳓ ।  
+मार्ज᳓यन्तां म᳓म पित᳓रो,
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/03_mArjayantAm_mama_pitAmahAH.md">
+
+मार्ज᳓यन्तां म᳓म पितामहा᳓
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/04_mArjayantAm_mama_prapitAmahAH.md">
+
+मार्ज᳓यन्तां म᳓म प्रपितामहाः᳓ ।
 
 </div>
 
@@ -114,11 +205,21 @@ title = "०६ पिण्डप्रदानविधिः"
 
 अपरेषु दर्भेषु -
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05-07_mArjayantAm_mama_mAtaraH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05_mArjayantAm_mama_mAtaraH.md">
 
-मार्ज᳓यन्तां म᳓म मात᳓रो,  
-मार्ज᳓यन्तां म᳓म पितामह्यो᳙,  
-मार्ज᳓यन्तां म᳓म प्रपितामह्यः᳙ ।  
+मार्ज᳓यन्तां म᳓म मात᳓रो,
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/06_mArjayantAm_mama_pitAmahyaH.md">
+
+मार्ज᳓यन्तां म᳓म पितामह्यो᳙,
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/07_mArjayantAm_mama_prapitAmahyaH.md">
+
+मार्ज᳓यन्तां म᳓म प्रपितामह्यः᳙ ।
 
 </div>
 

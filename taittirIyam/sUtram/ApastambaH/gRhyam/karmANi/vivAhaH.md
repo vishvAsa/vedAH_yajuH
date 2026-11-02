@@ -516,19 +516,53 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 अथैनामुत्तेरणाग्निं - दक्षिणेन पदा प्राचीमुदीचीं वा दिशमभि प्रक्रमयत्य् "एकमिष" इति ॥
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/07-13_ekamiShe_viShNustvA-nvetu.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/07_ekamiShe_viShNustvA-nvetu.md">
+<details open><summary><h2>०७ एकमिषे विष्णुस्त्वाऽन्वेतु ...{Loading}...</h2></summary>
 
-एक॑म् - इ॒षे+++(=अन्नाय)+++ विष्णु॒स्त्वाऽन्वे॑तु ।+++(५)+++  
-द्वे - ऊ॒र्जे+++(=बलाय)+++ विष्णु॒स्त्वाऽन्वे॑तु ।  
-त्रीणि॑ - व्र॒ताय॒ विष्णु॒स्त्वाऽन्वे॑तु ।  
-च॒त्वारि॒ - मायो॑+++(=सुख)+++भवाय॒ विष्णु॒स्त्वाऽन्वे॑तु ।  
-पञ्च॑ - प॒शुभ्यो॒ विष्णु॒स्त्वाऽन्वे॑तु ।  
-षड् - रा॒यस्पोषा॑य॒ विष्णु॒स्त्वाऽन्वे॑तु ।  
-स॒प्त - +++(यज्ञेषु)+++ स॒प्तभ्यो॒ होत्रा॑भ्यो॒ विष्णु॒स्त्वाऽन्वे॑तु ।  
+ए᳓कम् - इषे᳓+++(=अन्नाय)+++ वि᳓ष्णुस्  त्वा᳓ ऽन्वेतु ।+++(५)+++
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/08_dve_Urje_viShNustvA-nvetu.md">
+<details open><summary><h2>०८ द्वे ऊर्जे विष्णुस्त्वाऽन्वेतु ...{Loading}...</h2></summary>
+
+द्वे᳓ - ऊर्जे᳓+++(=बलाय)+++ वि᳓ष्णुस्  त्वा᳓ ऽन्वेतु ।
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/09_trINi_vratAya_viShNustvA-nvetu.md">
+<details open><summary><h2>०९ त्रीणि व्रताय विष्णुस्त्वाऽन्वेतु ...{Loading}...</h2></summary>
+
+त्री᳓णि - व्रता᳓य वि᳓ष्णुस्  त्वा᳓ ऽन्वेतु ।
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/10_chatvAri_mAyobhavAya.md">
+<details open><summary><h2>१० चत्वारि मायोभवाय विष्णुस्त्वाऽन्वेतु ...{Loading}...</h2></summary>
+
+चत्वा᳓रि - मा᳓यो+++(=सुख)+++भवाय वि᳓ष्णुस्  त्वा᳓ ऽन्वेतु ।
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/11_pancha_pashubhyo.md">
+<details open><summary><h2>११ पञ्च पशुभ्यो विष्णुस्त्वाऽन्वेतु ...{Loading}...</h2></summary>
+
+प᳓ञ्च - पशु᳓भ्यो वि᳓ष्णुस्  त्वा᳓ ऽन्वेतु ।
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/12_ShaD_rAyaspoShAya.md">
+<details open><summary><h2>१२ षड्रायस्पोषाय विष्णुस्त्वाऽन्वेतु ...{Loading}...</h2></summary>
+
+ष᳓ड् - राय᳓स्-पो᳓षाय वि᳓ष्णुस्  त्वा᳓ ऽन्वेतु ।
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/13_sapta_saptabhyo_hotrAbhyo.md">
+<details open><summary><h2>१३ सप्त सप्तभ्यो होत्राभ्यो विष्णुस्त्वाऽन्वेतु ...{Loading}...</h2></summary>
+
+सप्त᳓ - +++(यज्ञेषु)+++ सप्त᳓भ्यो हो᳓त्राभ्यो वि᳓ष्णुस्  त्वा᳓ ऽन्वेतु ।  
+
 +++(होता प्रशास्ता ब्राह्मणाच्छंसी पोता नेष्टाच्छावाक आग्नीध्र इत्येतास्सप्त होत्राः)+++  
-सखा॑यस् स॒प्तप॑दा अभूम ।  
-स॒ख्यन्ते॑ गमेयम् ।
+स᳓खायस् सप्त᳓पदा अभूम ।  
+सख्य᳓न्ते गमेयम् ।
 
++++(नायम् भागः २००३-तमे पुस्तके ऽस्ति। अध्येतव्यम्??)+++
+</details>
 </div>
 
 </div>
@@ -570,14 +604,23 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 प्राग्घोमात् प्रदक्षिणमग्निं कृत्वा, यथास्थानम् उपविश्यान्वारब्धायाम् उत्तरा +++(१६)+++ आहुतीर् जुहोति - "सोमाय जनिविदे स्वाहे"त्येतैः प्रतिमन्त्रम् ॥  
 
 ### षोडश प्रधानाहुतिमन्त्राः
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/01-03_somAya_janivide.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/01_somAya_janivide.md">
+<details open><summary><h2>०१ सोमाय जनिविदे ...{Loading}...</h2></summary>
 
-##### मन्त्रः
+सो᳓माय जनि+++(=जाया)+++वि᳓दे स्वा᳓हा ।
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/02_gandharvAya_janivide.md">
+<details open><summary><h2>०२ गन्धर्वाय जनिविदे ...{Loading}...</h2></summary>
 
-सोमा॑य जनि॒+++(=जाया)+++विदे॒ स्वाहा॑ ।  
-ग॒न्ध॒र्वाय॑ जनि॒विदे॒ स्वाहा॑ ।  
-अ॒ग्नये॑ जनि॒विदे॒ स्वाहा॑ ।  
+गन्धर्वा᳓य जनि-वि᳓दे स्वा᳓हा ।
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/03_agnaye_janivide.md">
+<details open><summary><h2>०३ अग्नये जनिविदे ...{Loading}...</h2></summary>
 
+अग्न᳓ये जनिवि᳓दे स्वा᳓हा ।
+</details>
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/04_kanyalA_pitRbhyo.md">
@@ -833,34 +876,66 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 +++(अश्मन)+++ आस्थापनम् ॥  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/08-11_tubhyamagre_paryavahanpunaH.md">
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/38_tubhyamagre_paryavahantsUryAM.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/08_tubhyamagre_paryavahan.md">
+<details open><summary><h2>०८ तुभ्यमग्रे पर्यवहन् ...{Loading}...</h2></summary>
 
-+++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](../../../../../../../../../../vedAH_Rk/static/shAkalam/saMhitA/vishvAsa-prastutiH/10/AdityaH/Rk/raibhy_AsId_anudeyI) दृश्या।)+++  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/38_tubhyamagre_paryavahantsUryAM.md">
+<details open><summary><h4>३८ तुभ्यमग्रे पर्यवहन्त्सूर्यां ...{Loading}...</h4></summary>
+
++++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](../../AdityaH/Rk/raibhy_AsId_anudeyI/) दृश्या।)+++  
 
 तु᳓भ्यम् +++(अग्नये)+++ अ᳓ग्रे +++(गन्धर्वाः)+++  प᳓र्यवहन्त्  
 सूर्यां᳓ वहतु᳓ना सह᳓ ।  
 पु᳓नः प᳓तिभ्यो जायां᳓ दा᳓+++(ः)+++  
 अग्ने प्रज᳓या सह᳓ ।+++(र५)+++  
 
+</details>
 </div>
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/09_punaH_patnImagniradAdAyuShA.md">
+<details open><summary><h2>०९ पुनः पत्नीमग्निरदाद् ...{Loading}...</h2></summary>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/39_punaH_patnImagniradAdAyuShA.md">
+<details open><summary><h4>३९ पुनः पत्नीमग्निरदादायुषा ...{Loading}...</h4></summary>
 
 पु᳓नः प᳓त्नीम् अग्नि᳓र् अदाद्  
 आ᳓युषा सह᳓ व᳓र्चसा ।  
 दीर्घायु᳓र् अस्या यः᳓ प᳓तिस्  
 स᳓ एतु शर᳓दश् शत᳓म् ॥+++(र५)+++  
 
+</details>
 </div>
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/10_vishvA_uta.md">
+<details open><summary><h2>१० विश्वा उत ...{Loading}...</h2></summary>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/03_vishvA_uta.md">
+<details open><summary><h4>०३ विश्वा उत ...{Loading}...</h4></summary>
 
 वि᳓श्वा उत᳓ त्व᳓या वयं᳓  
 धा᳓रा उदन्या᳙+++(=उदक-सम्बन्धिनीः)+++ इव ।  
 अ᳓तिगाहेमहि द्वि᳓षः ।+++(५)+++ 
 
+</details>
 </div>
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/11_AtiShThemamashmAnam.md">
+<details open><summary><h2>११ आतिष्ठेममश्मानम् ...{Loading}...</h2></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/01_AtiShThemamashmAnamashmeva_tva2m.md">
+<details open><summary><h4>०१ आ᳓ति᳓ष्ठे᳓म᳓म᳓श्मा᳓न᳓म᳓श्मे᳓व᳓ त्व᳓२म् ...{Loading}...</h4></summary>
+
+आ᳓तिष्ठेम᳓म् अ᳓श्मानम्  
+अ᳓श्मेव त्वँ᳓ स्थिरा᳓+++(रो पुंसि)+++ भव ।  
+अभि᳓तिष्ठ पृतन्यत᳓स्+++(=पृतनाकामान्)+++  
+स᳓हस्व पृतनायतः᳓+++(=पृतनाकामान्)+++ ।+++(र५)+++  
+
+</details>
+</div>
+</details>
 </div>
 
 </div>  
@@ -1697,24 +1772,46 @@ __________________
 ### शेष-होम-मन्त्राः  
 अग्नेरुपसमाधानाद्याज्यभागान्ते ऽन्वारब्धायाम् उत्तरा आहुतीर् +++(=सप्त प्रधानाहुतीर्जुहोति "अग्ने प्रायश्चित्ते"इत्येवमाद्याः)+++ हुत्वा जयादि प्रतिपद्यते।  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/03-06_agne_prAyashchitte.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/03_agne_prAyashchitte.md">
+<details open><summary><h2>०३ अग्ने प्रायश्चित्ते ...{Loading}...</h2></summary>
 
-अग्ने॑ प्रायश्+++(=विनाश)+++-चित्ते॒+++(=सन्धातः)+++! त्वन् दे॒वानां॒ प्राय॑श्चित्तिर् असि।  
-ब्राह्म॒णस् त्वा॑ ना॒थ-का॑मः॒ प्रप॑द्ये॒।  
-याऽस्यां प॑ति॒घ्नी त॒नूः प्र॑जा॒घ्नी प॑शु॒घ्नी ल॑क्ष्मि॒घ्नी, जा॑र॒घ्नीम् अ॑स्यै॒ ताङ् कृ॑णोमि॒ स्वाहा॑ ।+++(र५)+++  
+अ᳓ग्ने प्रायश्+++(=विनाश)+++-चित्ते+++(=सन्धातः)+++!  
+त्व᳓न् देवा᳓नां प्रा᳓यश्चित्तिर् असि।  
+ब्राह्मण᳓स् त्वा नाथ᳓-कामः प्र᳓पद्ये।  
+या᳓ऽस्यां᳓ पतिघ्नी᳓ तनूः᳓  
+प्रजाघ्नी᳓ पशुघ्नी᳓ लक्ष्मिघ्नी᳓,  
+जारघ्नी᳓म् अस्यै ता᳓ङ् कृणोमि स्वा᳓हा ।+++(र५)+++
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/04_vAyo_prAyashchitte.md">
+<details open><summary><h2>०४ वायो प्रायश्चित्ते ...{Loading}...</h2></summary>
 
-वायो॑ प्रायश्चित्ते॒! त्वन् दे॒वानां॒ प्राय॑श्चित्तिर् असि।  
-ब्राह्म॒णस् त्वा॑ ना॒थ-का॑मः॒ प्रप॑द्ये॒।  
-याऽस्यां प॑ति॒घ्नी त॒नूः प्र॑जा॒घ्नी प॑शु॒घ्नी ल॑क्ष्मि॒घ्नी, जा॑र॒घ्नीम् अ॑स्यै॒ ताङ् कृ॑णोमि॒ स्वाहा॑ ।+++(र५)+++  
+वा᳓यो प्रायश्चित्ते! त्व᳓न् देवा᳓नां प्रा᳓यश्चित्तिर् असि।  
+ब्राह्मण᳓स् त्वा नाथ᳓-कामः प्र᳓पद्ये।  
+या᳓ऽस्यां᳓ पतिघ्नी᳓ तनूः᳓  
+प्रजाघ्नी᳓ पशुघ्नी᳓ लक्ष्मिघ्नी᳓,  
+जारघ्नी᳓म् अस्यै ता᳓ङ् कृणोमि स्वा᳓हा ।+++(र५)+++
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/05_Aditya_prAyashchitte.md">
+<details open><summary><h2>०५ आदित्य प्रायश्चित्ते ...{Loading}...</h2></summary>
 
-आदि॑त्य प्रायश्चित्ते॒!  त्वन् दे॒वानां॒ प्राय॑श्चित्तिर् असि।  
-ब्राह्म॒णस् त्वा॑ ना॒थ-का॑मः॒ प्रप॑द्ये॒।  
-याऽस्यां प॑ति॒घ्नी त॒नूः प्र॑जा॒घ्नी प॑शु॒घ्नी ल॑क्ष्मि॒घ्नी, जा॑र॒घ्नीम् अ॑स्यै॒ ताङ् कृ॑णोमि॒ स्वाहा॑ ।+++(र५)+++
+आ᳓दित्य प्रायश्चित्ते!  त्व᳓न् देवा᳓नां प्रा᳓यश्चित्तिर् असि।  
+ब्राह्मण᳓स् त्वा नाथ᳓-कामः प्र᳓पद्ये।  
+या᳓ऽस्यां᳓ पतिघ्नी᳓ तनूः᳓  
+प्रजाघ्नी᳓ पशुघ्नी᳓ लक्ष्मिघ्नी᳓,  
+जारघ्नी᳓म् अस्यै ता᳓ङ् कृणोमि स्वा᳓हा ।+++(र५)+++
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/06_prajApati_prAyashchitte.md">
+<details open><summary><h2>०६ प्रजापते प्रायश्चित्ते ...{Loading}...</h2></summary>
 
-प्रजा॑पते प्रायश्चित्ते॒!  त्वन् दे॒वानां॒ प्राय॑श्चित्तिर् असि।  
-ब्राह्म॒णस् त्वा॑ ना॒थ-का॑मः॒ प्रप॑द्ये॒।  
-याऽस्यां प॑ति॒घ्नी त॒नूः प्र॑जा॒घ्नी प॑शु॒घ्नी ल॑क्ष्मि॒घ्नी, जा॑र॒घ्नीम् अ॑स्यै॒ ताङ् कृ॑णोमि॒ स्वाहा॑ ।+++(र५)+++
-
+प्र᳓जापते प्रायश्चित्ते!  
+त्व᳓न् देवा᳓नां प्रा᳓यश्चित्तिर् असि।  
+या᳓ऽस्यां᳓ पतिघ्नी᳓ तनूः᳓  
+प्रजाघ्नी᳓ पशुघ्नी᳓ लक्ष्मिघ्नी᳓,  
+जारघ्नी᳓म् अस्यै ता᳓ङ् कृणोमि स्वा᳓हा ।+++(र५)+++
+</details>
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/07_prasavashchopayAmashcha_kATashchArNavashcha.md">

@@ -222,11 +222,15 @@ title = "१४ नामकरणम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/14_nAmakaraNam/15_12_pravAsAdetya.md">
 
+
 प्रवासादेत्य पुत्रस्योत्तराभ्यामभिमन्त्रणं +++(=अङ्गादङ्गात्)+++  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/03_angAdangAtsambhavasi_hRdayAdadhi.md">
 
-अङ्गा॑दङ्गा॒त् संभ॑वसि॒ हृद॑या॒दधि॑ जायसे । वे॒दो वै पुत्र॒नामा॑ऽसि॒ स जी॑व श॒रद॑श्श॒तम् ।  
+अ᳓ङ्गाद् अङ्गात् सं᳓भवसि  
+हृ᳓दयाद् अ᳓धि **जायसे** ।  
+वेदो᳓ वै᳓ पु᳓त्र ना᳓माऽसि  
+स᳓ **जीव** शर᳓दश् शत᳓म् ।  
 
 </div>
 
@@ -236,78 +240,58 @@ title = "१४ नामकरणम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/04_ashmA_bhavetyeShA.md">
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/01_ashmA_bhava.md">
 
-अश्मा॑ भव पर॒शुर्भ॑व॒ हिर॑ण्य॒मस्तृ॑तं भव ।  
-प॒शू॒नान्त्वा॑ हिङ्का॒रेणा॒भि  जि॑घ्राम्य् असौ+++(→नामनिर्देशः)+++।
+अ᳓श्मा भव, परशु᳓र् भव  
+हि᳓रण्यम् अ᳓स्तृतं भव ।  
+पशूना᳓न् त्वा हिङ्कारे᳓णाभि᳓ जिघ्राम्य् असौ+++(→नामनिर्देशः)+++।
 
 </div>
 </div>
 
 ##### कर्णे जपः  
 उत्तरान्मन्त्रान् +++(=अग्निरायुष्मान् स वनस्पतिभिः)+++ जपेत् १२  
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05-09_agnirAyuShmAntsa_vanaspatibhirAyuShmAntena.md">
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-अ॒ग्निरायु॑ष्मा॒न्त्स वन॒स्पति॑भि॒रायु॑ष्मा॒न्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि॒ सोम॒ आयु॑ष्मा॒न्त्स ओष॑धीभिर्य॒ज्ञ आयु॑ष्मा॒न्त्स दक्षि॑णाभि॒र्ब्रह्मायु॑ष्म॒त्तद्ब्रा॑ह्म॒णैरायु॑ष्मद्दे॒वा आयु॑ष्मन्त॒स्ते॑ऽमृते॑न पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥ [40]
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md">
 
 +++(हे यजमान)+++  
-अ॒ग्निर् आयु॑ष्मा॒न् ,   
-स वन॒स्-पति॑भि॒र् आयु॑ष्मा॒न् ,   
-तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।
+अग्नि᳓र् आ᳓युष्मान् ,   
+स᳓ व᳓नस्-प᳓तिभिर् आ᳓युष्मान् ,   
+ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।
 
-सोम॒ आयु॑ष्मा॒न् स ओष॑धीभिर् [आयु॑ष्मा॒न् तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।]
-
-+++(हे यजमान)+++ य॒ज्ञ [आयु॑ष्मा॒न्], स दक्षि॑णाभि॒र् आयु॑ष्मा॒न्, [तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।]
-
-+++(हे यजमान)+++ ब्रह्मायु॑ष्म॒त्, तद्ब्रा॑ह्म॒णैरायु॑ष्मत् , [तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।]
-
-+++(हे यजमान)+++ दे॒वा आयु॑ष्मन्तः।  
-ते॒॑ऽमृते॑न [+आयु॑ष्मन्तः]  [तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।]  
-
-पि॒तर॒ आयु॑ष्मन्त॒स् ते स्व॒धयाऽऽयु॑ष्मन्त॒स्, तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि । 
-</details>
-
-<details><summary>मूलम्</summary>
-
-अ॒ग्निरायु॑ष्मा॒न् ,   
-स वन॒स्पति॑भि॒रायु॑ष्मा॒न् ,   
-तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ।
-
-सोम॒ आयु॑ष्मा॒न् ,
-स ओष॑धीभिर्य॒ज्ञ आयु॑ष्मा॒न्,
-
-स दक्षि॑णाभि॒र्ब्रह्मायु॑ष्म॒त्,
-
-तद्ब्रा॑ह्म॒णैरायु॑ष्मत् ,
-
-दे॒वा  आयु॑ष्मन्तः
-ते॑ऽमृते॑न  
-पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-अग्निरायुष्मान् दीर्घायुः । स वनस्पतिभिरायुष्मान् तैर्हेतुभिस्तैर्वासह । तेनायुषा उभयेनायुषा त्वामायुष्मन्तं करोमि दीर्घायुषं करोमि । हे यजमान सोमादिषु 'आयुष्मान्तेन' इत्याद्यनुषज्यते । सोम ओषधीभिः, यज्ञो दक्षिणाभिः ब्रह्म ब्राह्मणैः, देवा अमृतेन, पितरस्स्वधया ॥
-
-इति द्वितीये तृतीये दशमोनुवाकः ॥
-</details>
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md">
+
+सो᳓म आ᳓युष्मान् स᳓ ओ᳓षधीभिर् [आ᳓युष्मान् ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
+
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md">
+
++++(हे यजमान)+++ यज्ञ᳓ [आ᳓युष्मान्], स᳓ द᳓क्षिणाभिर् आ᳓युष्मान्, [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
+
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md">
+
++++(हे यजमान)+++ ब्र᳓ह्मा᳓युष्मत्, त᳓द्ब्राह्मणै᳓रा᳓युष्मत् , [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
+
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/09_devA_AyuShmantaH_amRutena.md">
+
++++(हे यजमान)+++ देवा᳓ आ᳓युष्मन्तः।  
+ते᳓ऽमृ᳓तेन [+आ᳓युष्मन्तः]  [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]  
+
+</div>
+
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/14_nAmakaraNam/15_12_pravAsAdetya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Oldenberg</summary>
 
 12. [^2]  When (the father) returns from a journey, he should address the child and kiss him on his head with the next two (verses, M. II, 14, 3. 4), and should murmur the next Mantras (II, 14, 5) into his right ear.
 
+
 [^2]:  Comp. above, Sūtra 1.
 </details>
-
 <details><summary>हरदत्तः</summary>
 
 **प्रवासाद्** आगत्य तु **उत्तराभ्यामभिमन्त्रणमवघ्राणं च** क्रमेण कर्तव्यम् ।
@@ -320,7 +304,6 @@ title = "१४ नामकरणम्"
 उत्तरे मन्त्राः "अग्निरायुष्मानिति पञ्चे"त्यादिष्टाः । तान् पुत्रस्य **दक्षिणे कर्णे जपेत्** ।
 मन्त्रग्रहणं क्रियते "अग्निरायुष्मानिति पञ्चे"त्यस्य पञ्चशब्दस्य मन्त्रेषु वृत्तिरिति प्रज्ञापनार्थम् ॥१२॥
 </details>
-
 <details><summary>सुदर्शनः</summary>
 
 **प्रवासादागत्योत्तराभ्यां** "अङ्गादङ्गात्" "अश्मा भव" इत्येताभ्यां **पुत्रस्याभिमन्त्रणं** कर्तव्यम् ।
@@ -331,12 +314,17 @@ title = "१४ नामकरणम्"
 ततः पुत्रस्य **दक्षिणे कर्णे उत्तरान्** "अग्निरायुष्मान् स वनस्पतिभिः" इत्यादिकान् सानुषङ्गान् पञ्च **मन्त्रान् जपेत्** ।
 एतच्च त्रयं प्रतिपुत्रमावर्तते ॥१२॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/14_nAmakaraNam/15_12_pravAsAdetya.md">
 
+<details><summary><h4>मूलम् …{Loading}…</h4></summary>
+
 प्रवासादेत्य पुत्रस्योत्तराभ्यामभिमन्त्रणं मूर्धन्यवघ्राणं दक्षिणे कर्ण उत्तरान् मन्त्रान् जपेत्।
+
+</details>
 
 </div>
 

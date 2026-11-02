@@ -13,6 +13,7 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_01_mAsishrAddhasyAparapaxe.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Oldenberg</summary>
 
 1. [^1]  The times for the monthly Śrāddha are in the second fortnight (of the month), as they are stated.
@@ -22,17 +23,29 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
-पुनरपि पाकयज्ञान्तरं पुरुषत्रयसम्प्रदानकं तादृशानामष्टकादीनां प्रकृतिभूतं मासिश्राद्धसंज्ञिकं पित्र्यं कर्मोपदिश्यते—
+पुनरपि पाकयज्ञान्तरं  
+पुरुषत्रयसम्प्रदानकं तादृशानाम् अष्टकादीनां प्रकृतिभूतं  
+मासि-श्राद्ध-संज्ञिकं पित्र्यं कर्मोपदिश्यते—
 </details>
 
 <details><summary>हरदत्तः</summary>
 
-**मासिश्राद्धं**नाम पित्र्यं कर्म मासि मासि कर्तव्यम् ।
-तत्र येऽपरपक्षे कालविशेषाः सामयाचारिकेषूपदिष्टाः "प्रथमेऽहनि क्रियमाणे (आप.ध.२-१६-७.) इत्यादयः अपरपक्षस्यापराह्णः श्रेयान्" (आप.श्रौ.२-१६-४.) इति च ते सर्वे **यथोपदेशं** यथा तत्रोपदिष्टाः तथैव मासि मासि प्रत्येतव्याः ।
-यद्यपि ते विशेषाः तस्मादेव वचनात् सिद्धाः तथापि तस्य कर्मणः प्रयोगविधानमित उत्तरं क्रियत इति ज्ञापनार्थमिदं वचनम् ।
+**मासिश्राद्धं**नाम पित्र्यं कर्म  
+मासि मासि कर्तव्यम् ।  
+तत्र येऽपरपक्षे कालविशेषाः सामयाचारिकेषूपदिष्टाः  
+"प्रथमेऽहनि क्रियमाणे" (आप.ध.२-१६-७.) इत्यादयः "अपरपक्षस्यापराह्णः श्रेयान्" (आप.श्रौ.२-१६-४.) इति च  
+ते सर्वे **यथोपदेशं** यथा तत्रोपदिष्टाः तथैव मासि मासि प्रत्येतव्याः ।
+
+यद्यपि ते विशेषाः  
+तस्मादेव वचनात् सिद्धाः  
+तथापि तस्य कर्मणः प्रयोगविधानम् इत उत्तरं क्रियत  
+इति ज्ञापनार्थमिदं वचनम् ।
 अन्यथा ज्ञापयेत शुचीन् मन्त्रवतः इत्यादि कस्मिन् कर्मणि विधीयत इति ।
+
 एवं तर्हि मासिश्राद्धस्यैतदेवाधिकारार्थमस्तु ।
-तस्मादिदमस्य प्रयोजनम्– मासपरिमाणमनपेक्ष्यापरपक्षवशेन पर्वकाला यथोपदेशं यथा स्युरिति ।
+तस्मादिदमस्य प्रयोजनम्–  
+मासपरिमाणम् अनपेक्ष्यापरपक्ष-वशेन  
+पर्वकाला यथोपदेशं यथा स्युर् इति ।
 तेन पूर्वस्मिन् पक्षे पञ्चदश्यामकृतश्राद्धस्यापरस्मिन् पक्षे प्रथमादिषु सर्वासु तिथिषु क्रिया भवति तत्तत्कामस्य ॥१॥
 </details>
 
@@ -41,16 +54,26 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 **मासिश्राद्धस्य** मासे मासे श्रद्धया कर्तव्यस्य ।
 **अपरपक्षे** कृष्णपक्षे ।
 **यथोपदेशं** "सर्वेष्वेवापरपक्षस्याहस्सु क्रियमाणे पितॄन् प्रीणाति ।
-कर्तुस्तु कालाभिनियमात् फलविशेषः" (आप.ध.२-१६-७.) इत्यादिधर्णशास्त्रसिद्धोपदेशानुसारेण काला भवन्ति ।
+"कर्तुस्तु कालाभिनियमात् फलविशेषः" (आप.ध.२-१६-७.) इत्यादिधर्णशास्त्रसिद्धोपदेशानुसारेण काला भवन्ति ।
 "अपरपक्षे यथोपदेशं कालाः, इति पुनर्वचनस्य प्रयोजनं "अपरपक्षे पित्र्याणि" (आप.गृ.१-७.) इत्यत्रोक्तम् ।
-केचित्— यस्यां तिथौ प्रथममुपक्रमस्तस्यामेवोत्तरे प्रयोग इति नियमो नास्ति; किन्तु पूर्णेऽपि मासे अपरपक्ष एव यथोपदेशं तिथ्यन्तरेऽपि नित्यः काम्यश्च प्रयोग इति ॥१॥
+केचित्—  
+यस्यां तिथौ प्रथमम् उपक्रमस्  
+तस्याम् एवोत्तरे प्रयोग इति नियमो नास्ति;  
+किन्तु पूर्णेऽपि मासे  
+अपरपक्ष एव यथोपदेशं तिथ्यन्तरेऽपि  
+नित्यः काम्यश्च प्रयोग इति ॥१॥
+</details>
 </details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_01_mAsishrAddhasyAparapaxe.md">
 
+<details><summary><h4>मूलम् …{Loading}…</h4></summary>
+
 मासिश्राद्धस्यापरपक्षे यथोपदेशं कालाः ।
+
+</details>
 
 </div>
 
@@ -64,6 +87,7 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_02_shuchIn_mantravato.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Oldenberg</summary>
 
 2. Let him feed, without regard of (worldly) purposes, pure Brāhmaṇas, versed in the Mantras, who are not connected with himself by consanguinity or by their Gotra or by the Mantras (such as his teacher or his pupils), an odd number, at least three.
@@ -154,12 +178,17 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 मातामहश्राद्धप्रयोगश्च स्मृत्यन्तरेभ्यो न्यायतश्च प्रत्येतव्यः ।
 तस्मात् सर्वस्य दौहित्रस्य पित्र्यवत् कर्तव्यमेवेति नियमाभावत् सूत्रकारभाष्यकारौ न ब्रूतः ॥२॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_02_shuchIn_mantravato.md">
 
+<details><summary><h4>मूलम् …{Loading}…</h4></summary>
+
 शुचीन् मन्त्रवतो योनिगोत्रमन्त्रासम्बन्धानयुग्माँस्त्र्यवराननर्थावेक्षो भोजयेत्।
+
+</details>
 
 </div>
 
@@ -171,71 +200,71 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/01_yanme_mAtA.md">
 
-यन् मे॑ मा॒ता प्रलु॑लोभ॒ चर॒त्य् अन॑नुव्रता,  
-तन् मे॒ रेतः॑ पि॒ता वृ॑ङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
-आ॒भुर्+++(←आभवतीति)+++ अ॒न्यो +++(बलेर् दूरम्)+++ ऽव॑पद्यताम्।+++(र५)+++  
-अ॒मुष्मै॒+++(←नामनिर्देशः)+++ स्वाहा॑।
+य᳓न् मे माता᳓ प्र᳓लुलोभ च᳓रत्य् अ᳓ननुव्रता,  
+त᳓न् मे रे᳓तः पिता᳓ वृङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
+आभु᳓र्+++(←आभवतीति)+++ अन्यो᳓ +++(बलेर् दूरम्)+++ ऽवपद्यताम्।+++(र५)+++  
+अमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा।
 
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/02_yAstiShThanti_yA.md">
 
-यास् तिष्ठ॑न्ति॒, या धाव॑न्ति॒,  
-या आ॑र्द्रो॒घ्नीः+++(=कूलादिघ्नीः)+++ परि॑त॒स्थुषीः॑ ।  
-अ॒द्भिर् विश्व॑स्य भ॒र्त्रीभि॑र्  
-अ॒न्तर् अ॒न्यं पि॒तुर् द॑धे॒, +++(र५)+++  
-ऽमुष्मै॒+++(←नामनिर्देशः)+++ स्वाहा॑ ।
+या᳓स् ति᳓ष्ठन्ति, या᳓ धा᳓वन्ति,  
+या᳓ आर्द्रोघ्नीः᳓+++(=कूलादिघ्नीः)+++ परितस्थु᳓षीः ।  
+अद्भि᳓र् वि᳓श्वस्य भर्त्री᳓भिर्  
+अन्त᳓र् अन्यं᳓ पितु᳓र् दधे, +++(र५)+++  
+ऽमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा ।
 
 </div>
 
 ###### पितामहाय
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/03_yanme_pitAmahI.md">
 
-यन् मे॑ पिताम॒ही प्रलु॑लोभ॒ चर॒त्य् अन॑नुव्रता,  
-तन् मे॒ रेतः॑ पिताम॒हो वृ॑ङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
-आ॒भुर्+++(←आभवतीति)+++ अ॒न्यो +++(बलेर् दूरम्)+++ ऽव॑पद्यताम्।  
-अ॒मुष्मै॒+++(←नामनिर्देशः)+++ स्वाहा॑।
+य᳓न् मे पितामही᳓ प्र᳓लुलोभ च᳓रत्य् अ᳓ननुव्रता,  
+त᳓न् मे रे᳓तः पितामहो᳓ वृङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
+आभु᳓र्+++(←आभवतीति)+++ अन्यो᳓ +++(बलेर् दूरम्)+++ ऽवपद्यताम्।  
+अमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा।
 
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/04_antardadhe_parvatairantarmahyA.md">
 
-अ॒न्तर् द॑धे॒ पर्व॑तैर्  
-अ॒न्तर् मह्या॑ पृथि॒व्या ।  
-आ॒भिर् दि॒ग्भिर् अ॑न॒न्ताभि॑र्  
-अ॒न्तर् अ॒न्यं पि॑ताम॒हाद् द॑धे॒  
-ऽमुष्मै॒ स्वाहा॑ ।
+अन्त᳓र् दधे प᳓र्वतैर्  
+अन्त᳓र् म᳓ह्या पृथिव्या᳓ ।  
+आभि᳓र् दिग्भि᳓र् अनन्ता᳓भिर्  
+अन्त᳓र् अन्यं᳓ पितामहा᳓द् दधे  
+ऽमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा ।
 
 </div>
 
 ###### प्रपितामहाय
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/05_yanme_prapitAmahI.md">
 
-यन् मे॑ प्रपिताम॒ही प्रलु॑लोभ॒ चर॒त्य् अन॑नुव्रता,  
-तन् मे॒ रेतः॑ प्रपिताम॒हो वृ॑ङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
-आ॒भुर्+++(←आभवतीति)+++ अ॒न्यो +++(बलेर् दूरम्)+++ ऽव॑पद्यताम्।  
-अ॒मुष्मै॒+++(←नामनिर्देशः)+++ स्वाहा॑।
+य᳓न् मे प्रपितामही᳓ प्रलुलो᳓भ+++(~~प्र᳓लुलोभ~~)+++ च᳓रत्य् अ᳓ननुव्रता,  
+त᳓न् मे रे᳓तः प्रपितामहो᳓ वृङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
+आभु᳓र्+++(←आभवतीति)+++ अन्यो᳓ +++(बलेर् दूरम्)+++ ऽवपद्यताम्।  
+अमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा।
 
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/06_antardadha_RtubhirahorAtraishcha.md">
 
-अ॒न्तर्द॑ध ऋ॒तुभि॑र्  
-अहोरा॒त्रैश् च॑ +++(काल)+++स॒न्धिभिः॑ ।  
-अ॒र्ध॒मा॒सैश् च॒ मासै॑श् च+  
-अ॒न्तर् अ॒न्यं प्र॑पिताम॒हाद् द॑धे॒  
-अ॒मुष्मै॒+++(←नामनिर्देशः)+++ स्वाहा॑।
+अन्त᳓र्दध ऋतु᳓भिर्  
+अहोरात्रै᳓श् च +++(काल)+++सन्धि᳓भिः ।  
+अर्धमासै᳓श् च मा᳓सैश् च+  
+अन्त᳓र् अन्यं᳓ प्रपितामहा᳓द् दधे  
+अमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा।
 
 </div>
 
 ###### अन्येभ्यः
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/07_ye_cheha.md">
 
-ये चे॒ह पि॒तरो॒ ये च॒ नेह॒  
-याँश् च॑ वि॒द्म याँ उ॑ च॒ न प्र॑ वि॒द्म ।  
-अग्ने॒ तान् वेत्थ॒ यदि॒  
-ते जा॑तवेद॒स् तया॑ प्र॒त्तँ+++(→प्रत्तया = प्रदत्तया)+++ स्व॒धया॑ मदन्तु॒  
-स्वाहा॑ ।  
+ये᳓ चेह᳓ पित᳓रो ये᳓ च ने᳓ह  
+याँ᳓श् च विद्म᳓ याँ᳓ उ च न᳓ प्र विद्म᳓ ।  
+अ᳓ग्ने ता᳓न् वे᳓त्थ  
+य᳓दि ते᳓ जातवेदस् त᳓या+++(→स्वधया)+++ प्रत्तँ᳓+++(→प्रत्तया = प्रदत्तया)+++ स्वध᳓या मदन्तु  
+स्वा᳓हा ।  
 
 </div>
 
@@ -243,6 +272,7 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_03_annasyottarAbhirjuhoti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Oldenberg</summary>
 
 3. He makes oblations of the food (prepared for the Brāhmaṇas) with the next (verses, II, 19,1-7);
@@ -298,12 +328,17 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 (म.स्मृ.३-२२१,२२२) इति मनुवचनेन व्युत्क्रमप्रमीतपित्रादिकस्यापि श्राद्धविधानात् ।
 ततश्च व्युत्क्रमाच्चेति निषेधः पाक्षिक इति निश्चयादधिकारोऽपि पाक्षिकोऽवगम्यते ॥३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_03_annasyottarAbhirjuhoti.md">
 
+<details><summary><h4>मूलम् …{Loading}…</h4></summary>
+
 अन्नस्योत्तराभिर्जुहोति ।
+
+</details>
 
 </div>
 
@@ -313,15 +348,39 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 आज्याहुतीरुत्तराः ४  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/08-13_svAhA_pitre.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/08_svAhA_pitre.md">
 
-- स्वाहा॑ पि॒त्रे
-- पि॒त्रे स्वाहा॒
-- स्वाहा॑ पि॒त्रे
-- पि॒त्रे स्वाहा॑ ।
-- स्व॒धा स्वाहा॒
+स्वा᳓हा पित्रे᳓
 
-- अग्नये॑ कव्य॒वाह॑नाय स्व॒धा स्वाहा॑ ।
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/09_pitre_svAhA.md">
+
+पित्रे᳓ स्वा᳓हा
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/10_svAhA_pitre.md">
+
+स्वा᳓हा पित्रे᳓
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/11_pitre_svAhA.md">
+
+पित्रे᳓ स्वा᳓हा ।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/12_svadhA_svAhA.md">
+
+स्वधा᳓ स्वा᳓हा
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/13_agnaye_kavyavAhanAya.md">
+
+अग्न᳓ये कव्यवा᳓हनाय स्वधा᳓ स्वा᳓हा ।
 
 </div>
 
@@ -329,6 +388,7 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_04_AjyAhutIruttarAH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Oldenberg</summary>
 
 4. Then the Ājya oblations (indicated by the) next (Mantras, II, 19, 8-13).
@@ -352,12 +412,16 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 एवमन्नहोमान् हुत्वा, अनन्तरम् **उत्तराः** "स्वाहा पित्रे" इत्याद्याष् **षडाज्याहुतीर्** जुहोति ॥४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_04_AjyAhutIruttarAH.md">
 
+<details><summary><h4>मूलम् …{Loading}…</h4></summary>
+
 आज्याहुतीरुत्तराः।
+</details>
 
 </div>
 
@@ -371,6 +435,7 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_05_etadvA_viparItam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Oldenberg</summary>
 
 5. Or invertedly (i.e. he offers Ājya with the verses referred to in Sūtra 3, and food with those referred to in Sūtra 4).
@@ -442,12 +507,17 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 यद्वा **विपरीतमेद्भवति** ,"यन्मे माता" इत्याद्याः पूर्वास्सप्ताज्याहुतयः, "स्वाहा पित्रे" इत्याद्या उत्तराष्षडन्नाहुतय इति ॥५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_05_etadvA_viparItam.md">
 
+<details><summary><h4>मूलम् …{Loading}…</h4></summary>
+
 एतद्वा विपरीतम् ।
+
+</details>
 
 </div>
 
@@ -459,23 +529,30 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/16_eSha_te.md">
 
-ए॒ष ते॑ तत॒ +++(स्वधासमुद्रः)+++ मधु॑माँ ऊ॒र्मिस् सर॑स्वा॒न्।  
-यावा॑न् अ॒ग्निश् च॑ पृथि॒वी च॒ ताव॑त्य् अस्य मा॒त्रा।  
-ताव॑तीन् त ए॒तां मात्रा॑न् ददामि।  
-यथा॒ ऽग्निर् अक्षि॒तो ऽनु॑पदस्त+++(=उपक्षयरहितः)+++, ए॒वं मह्यं॑+++(→मम)+++ पि॒त्रे ऽक्षि॒तो ऽनु॑पदस्तः स्व॒धा भ॑व॒
-तां त्वँ स्व॒धां तैस् स॒होप॑जीव॒, +र्चस् ते॑ महिमा।
+एष᳓ ते तत +++(स्वधासमुद्रः)+++  
+म᳓धुमाँ ऊर्मि᳓स् स᳓रस्वान्।  
+या᳓वान् अग्नि᳓श् च पृथिवी᳓ च  
+ता᳓वत्य् अस्य मा᳓त्रा+++(~~मात्रा᳓~~)+++।  
+ता᳓वतीन् त एतां᳓ मा᳓त्रान् ददामि।  
+य᳓था ऽग्नि᳓र् अ᳓क्षितो᳓ ऽनुपदस्त+++(=उपक्षयरहितः)+++,  
+एवं᳓ म᳓ह्यं+++(→मम)+++ पित्रे᳓ ऽक्षितो᳓ ऽनुपदस्तः स्वधा᳓ भव
+तां᳓ त्वँ᳓ स्वधां᳓ तै᳓स् सहो᳓पजीव, +र्च᳓स् ते महिमा᳓।
 
-ए॒ष ते॑ प्रपितामह॒ +++(स्वधासमुद्रः)+++ मधु॑माँ ऊ॒र्मिस् सर॑स्वा॒न्।  
-यावा॑न् वा॒युश् चा॒न्तरि॑क्षञ् च॒ ताव॑त्य् अस्य मा॒त्रा।  
-ताव॑तीन् त ए॒तां मात्रा॑न् ददामि।  
-यथा॑ वा॒युर् अक्षि॒तो ऽनु॑पदस्त+++(=उपक्षयरहितः)+++, ए॒वं मह्यं॑+++(→मम)+++ पिताम॒हायाक्षि॒तोऽनु॑पदस्तः स्व॒धा भ॑व।  
-तां त्वँ स्व॒धां तैस् स॒होप॑जीव॒, सामा॑नि ते महिमा।
+एष᳓ ते पितामह +++(स्वधासमुद्रः)+++ म᳓धुमाँ ऊर्मि᳓स् स᳓रस्वान्।  
+या᳓वान् वायु᳓श् चान्त᳓रिक्षञ् च  
+ता᳓वत्य् अस्य मा᳓त्रा+++(~~मात्रा᳓~~)+++।  
+ता᳓वतीन् त एतां᳓ मा᳓त्रान् ददामि।  
+य᳓था वायु᳓र् अ᳓क्षितो᳓ ऽनुपदस्त+++(=उपक्षयरहितः)+++,  
+एवं᳓ म᳓ह्यं+++(→मम)+++ पितामहा᳓या᳓क्षितो᳓ऽनुपदस्तः स्वधा᳓ भव।  
+तां᳓ त्वँ᳓ स्वधां᳓ तै᳓स् सहो᳓पजीव, सा᳓मानि ते महिमा᳓।
 
-ए॒ष ते॑ प्रपितामह॒ +++(स्वधासमुद्रः)+++ मधु॑माँ ऊ॒र्मिस् सर॑स्वा॒न्।  
-यावा॑न् आदि॒त्यश्च॒ द्यौश्च॒ ताव॑त्यस्य मा॒त्रा।  
-ताव॑तीन् त ए॒तां मात्रा॑न् ददामि।  
-यथा॑ ऽऽदि॒त्यो ऽक्षि॒तो ऽनु॑पदस्त+++(=उपक्षयरहितः)+++, ए॒वं मह्यं॑ प्रपिताम॒हायाऽक्षि॒तोऽनु॑पदस्तः स्व॒धा भ॑व।  
-तां त्वँ स्व॒धां तैस् स॒होप॑जीव॒, यजूँ॑षि ते महि॒मा ॥ (19)
+एष᳓ ते प्रपितामह +++(स्वधासमुद्रः)+++ म᳓धुमाँ ऊर्मि᳓स् स᳓रस्वान्।  
+या᳓वान् आदित्य᳓श् च द्यौ᳓श् च  
+ता᳓वत्यस्य मा᳓त्रा+++(~~मात्रा᳓~~)+++।  
+ता᳓वतीन् त एतां᳓ मा᳓त्रान् ददामि।  
+य᳓था ऽऽदित्यो᳓ ऽक्षितो᳓ ऽनुपदस्त+++(=उपक्षयरहितः)+++,  
+एवं᳓ म᳓ह्यं प्रपितामहा᳓या᳓ऽक्षितो᳓ऽनुपदस्तः स्वधा᳓ भव।  
+तां᳓ त्वँ᳓ स्वधां᳓ तै᳓स् सहो᳓पजीव, य᳓जूँषि ते महिमा᳓ ॥ (19)
 
 </div>
 
@@ -483,6 +560,7 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_06_sarvamuttarairabhimRshet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Oldenberg</summary>
 
 6. Let him touch the whole (food) with the next (formulas, II, 19, 14-16).
@@ -503,12 +581,17 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 अथ ब्राह्मणभोजनार्थं हविष्यमहविषयं च सर्वमन्नं **उत्तरैः** "एष ते तत मधुमान्" इत्येतैस्त्रिभिर्मन्त्रैः अभिमृशेत् ।
 एकयत्नेन सर्वस्याभिमर्शनासम्भवे मन्त्रावृत्तिः ; शेषिपरतन्त्रत्वाच्छेषाणाम् ॥६॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_06_sarvamuttarairabhimRshet.md">
 
+<details><summary><h4>मूलम् …{Loading}…</h4></summary>
+
 सर्वमुत्तरैरभिमृशेत् ।
+
+</details>
 
 </div>
 
@@ -522,6 +605,7 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_07_kLLiptAnvA_pratipUruSham.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Oldenberg</summary>
 
 7. Or the (single) prepared (portions of food destined) for the single Brāhmaṇas.
@@ -539,12 +623,16 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 अथवा–पित्राद्यर्थेभ्यो ब्राह्मणेभ्यः प्रतिपूरुषं भोजनपात्रेषु **कॢप्तान्** प्रकसल्पितान् भोज्यपदार्थान् एकैकेन मन्त्रेण यथालिङ्गमभिमृशेत् ।
 अत्रापि पित्रादेरेकैकस्य ब्राह्मणबहुत्वे युगपदभिमर्शनासम्भवे च तत्तन्मन्त्रावृत्तिः ॥७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_07_kLLiptAnvA_pratipUruSham.md">
 
+<details><summary><h4>मूलम् …{Loading}…</h4></summary>
+
 कॢप्तान्वा प्रतिपूरुषम् ।
+</details>
 
 </div>
 
@@ -556,15 +644,14 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/01_pRthivI_te.md">
 
-+++(हे अन्न -)+++ पृ॒थि॒वी ते॒ पात्रं॒,   
-द्यौर् अ॑पि॒धानम्।   
-ब्रह्म॑णस् त्वा॒ मुखे॑ जुहोमि।  
-ब्राह्म॒णाना॑न् त्वा प्राणापा॒नयो॑र् जुहोमि।  
++++(हे अन्न -)+++ पृथिवी᳓ ते पा᳓त्रं,   
+द्यौ᳓र् अपिधा᳓नम्।   
+ब्र᳓ह्मणस् त्वा मु᳓खे जुहोमि।  
+ब्राह्मणा᳓नान् त्वा प्राणापान᳓योर् जुहोमि।  
 
-भुक्तवतो ऽनुव्रज्य प्रदक्षिणीकृत्य  
-द्वैधं दक्षिणाग्रान् दर्भान् संस्तीर्य  
-+++(भुञ्जानानामपि तृप्तिरस्त्वित्याह -)+++ अक्षि॑तम् असि॒।  
-मैषां॑ क्षेष्ठा+++(←क्षी क्षये)+++ अ॒मुत्रा॒+++(→परलोके)+++ऽमुष्मि॑ल्ँ लो॒के +++(च ब्राह्मणानाम्)+++ ।
++++(भुक्तवतो ऽनुव्रज्य प्रदक्षिणीकृत्य, द्वैधं दक्षिणाग्रान् दर्भान् संस्तीर्य)+++  
++++(भुञ्जानानामपि तृप्तिरस्त्वित्याह -)+++ अ᳓क्षितम् असि।  
+मै᳓षां क्षेष्ठा+++(←क्षी क्षये)+++ अमु᳓त्रा+++(→परलोके)+++ऽमु᳓ष्मिल्ँ लोके᳓ +++(च ब्राह्मणानाम्)+++ ।
 
 </div>
 
@@ -572,6 +659,7 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_08_uttareNa_yajuShopasparshayitvA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Oldenberg</summary>
 
 8. Having caused them with the next (formula, II, 20, 1) to touch (the food, he gives it to them to eat).
@@ -611,12 +699,16 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 अत्र च मन्त्रे यद्यपि ब्राह्मणानामिति बहुवचनं तथापि युगपत् स्पर्शयितुमशक्यत्वात् प्रतिपूरुषं मन्त्रावृत्तिः, यथा— "वायवस्स्थ" (तै. सं.१-१-१.) इति मन्त्रः प्रतिवत्सम् ।
 एवंविधेषु बहुवचनं प्रयोगसाधुत्वार्थं, एकप्रयोगवचनप्रयोज्यानेकव्यक्त्यभिप्रायं वा ॥८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_08_uttareNa_yajuShopasparshayitvA.md">
 
+<details><summary><h4>मूलम् …{Loading}…</h4></summary>
+
 उत्तरेण यजुषोपस्पर्शयित्वा।
+</details>
 
 </div>
 
@@ -628,29 +720,114 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 +++(दर्भेष्व् अपो ददाति)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-04_mArjayantAm_mama_pitaraH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02_mArjayantAm_mama_pitaraH.md">
 
-मा॒र्जय॑न्तां॒ मम॑ पि॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒हा मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒हाः ।  
+मार्ज᳓यन्तां म᳓म पित᳓रो,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05-07_mArjayantAm_mama_mAtaraH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/03_mArjayantAm_mama_pitAmahAH.md">
 
-मा॒र्जय॑न्तां॒ मम॑ मा॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒ह्यो॑, मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒ह्यः॑ ।  
+मार्ज᳓यन्तां म᳓म पितामहा᳓
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/04_mArjayantAm_mama_prapitAmahAH.md">
+
+मार्ज᳓यन्तां म᳓म प्रपितामहाः᳓ ।
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05_mArjayantAm_mama_mAtaraH.md">
+
+मार्ज᳓यन्तां म᳓म मात᳓रो,
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/06_mArjayantAm_mama_pitAmahyaH.md">
+
+मार्ज᳓यन्तां म᳓म पितामह्यो᳙,
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/07_mArjayantAm_mama_prapitAmahyaH.md">
+
+मार्ज᳓यन्तां म᳓म प्रपितामह्यः᳙ ।
 
 </div>
 
 ##### उत्तरैर्दक्षिणापवर्गान् पिण्डान्दत्वा  
 उत्तरैर् दक्षिणापवर्गान् पिण्डान्दत्त्वा  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/08-19_etatte_tatAsau.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/08_etatte_tatAsau.md">
 
-ए॒तत्ते॑ तताऽसौ॒+++(←नामनिर्देशः)+++, ये च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
-ए॒तत्ते॑ पितामहाऽसौ॒+++(←नामनिर्देशः)+++, ये च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
-ए॒तत्ते॑ प्रपितामहाऽसौ॒+++(←नामनिर्देशः)+++, ये च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
-ए॒तत्ते॑ मातर् असौ॒+++(←नामनिर्देशः)+++, याश् च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
-ए॒तत्ते॑ पितामह्य् असौ॒+++(←नामनिर्देशः)+++, याश् च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
-ए॒तत्ते॑ प्रपितामह्य् असौ॒+++(←नामनिर्देशः)+++, याश् च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।
+एत᳓त्ते तताऽसौ+++(←नामनिर्देशः)+++, ये᳓ च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/09_etatte_pitAmahAsau.md">
+
+एत᳓त्ते पितामहाऽसौ+++(←नामनिर्देशः)+++, ये᳓ च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/10_etatte_prapitAmahAsau.md">
+
+एत᳓त्ते प्रपितामहाऽसौ+++(←नामनिर्देशः)+++, ये᳓ च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/11_etatte_mAtarasau.md">
+
+एत᳓त्ते मातर् असौ+++(←नामनिर्देशः)+++, या᳓श् च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/12_etatte_pitAmahyasau.md">
+
+एत᳓त्ते पितामह्य् असौ+++(←नामनिर्देशः)+++, या᳓श् च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/13_etatte_prapitAmahyasau.md">
+
+एत᳓त्ते प्रपितामह्य् असौ+++(←नामनिर्देशः)+++, या᳓श् च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/14_mArjayantAm_mama_pitaraH.md">
+
+मार्ज᳓यन्तां म᳓म पित᳓रो,
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/15_mArjayantAm_mama_pitAmahAH.md">
+
+मार्ज᳓यन्तां म᳓म पितामहा᳓
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/16_mArjayantAm_mama_prapitAmahAH.md">
+
+मार्ज᳓यन्तां म᳓म प्रपितामहाः᳓ ।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/17_mArjayantAm_mama_mAtaraH.md">
+
+मार्ज᳓यन्तां म᳓म मात᳓रो,
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/18_mArjayantAm_mama_pitAmahyaH.md">
+
+मार्ज᳓यन्तां म᳓म पितामह्यो᳙,
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/19_mArjayantAm_mama_prapitAmahyaH.md">
+
+मार्ज᳓यन्तां म᳓म प्रपितामह्यः᳙ ।
 
 </div>
 
@@ -658,26 +835,65 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 पूर्ववदुत्तरैरपो दत्त्वा  
 उत्तरैरुपस्थाय  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/20_-26_ye_cha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/20_ye_cha_votra.md">
 
-ये च॒ वो +++(पितरः)+++ ऽत्र॒, ये चा॒स्मास्व् आशँ॑सन्ते॒+++(→प्रार्थयन्ते स्वधाम्)+++  
-याश् च॒ वो ऽत्र॒ याश् चा॒स्मास्व् आशँ॑सन्ते॒,  
-ते च॑ +++(स्वधां)+++ वहन्तां॒,  
-ताश्च॑ +++(स्वधां)+++ वहन्ताम्।  
-तृप्य॑न्तु भवन्तः॒,  
-तृप्य॑न्तु भवत्यः॒।  
-तृप्य॑त॒ तृप्य॑त॒ तृप्य॑त ।
+ये᳓ च वो᳓ +++(पितरः)+++ ऽत्र,  
+ये᳓ चास्मा᳓स्व् आ᳓शँसन्ते+++(→प्रार्थयन्ते स्वधाम्)+++
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/21_yAsh_cha_votra.md">
+
+या᳓श् च वो᳓ ऽत्र  
+या᳓श् चास्मा᳓स्व् आ᳓शँसन्ते,
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/22_te_cha_vahantAm.md">
+
+ते᳓ च +++(स्वधां)+++ वहन्तां,
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/23_tAsh_cha_vahantAm.md">
+
+ता᳓श् च +++(स्वधां)+++ वहन्ताम्।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/24_tRpyantu_bhavantaH.md">
+
+तृ᳓प्यन्तु भवन्तः,
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/25_tRpyantu_bhavatyaH.md">
+
+तृ᳓प्यन्तु भवत्यः।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/26_tRpyata_tRpyata.md">
+
+तृ᳓प्यत तृ᳓प्यत तृ᳓प्यत ।
 
 </div>
 
 ##### उभयान् पिण्डान् परिषिञ्चति  
 उत्तरयोदपात्रेण त्रिः प्रसव्यं परिषिच्य  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/27_-28_putrAnpautrAnabhi_tarpayantIrApo.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/27_putrAnpautrAnabhi_tarpayantI.md">
 
-पु॒त्रान् पौत्रा॑न् अ॒भि त॒र्पय॑न्ती॒र् आपो॒ मधु॑मतीर् इ॒माः  
-स्व॒धां +++(मातृसहित)+++पि॒तृभ्यो॑ अ॒मृतं॒ दुहा॑ना॒ आपो॑ दे॒वीर् उ॒भयाँ॑स् तर्पयन्तु ।  
-तृप्य॑त॒ तृप्य॑त॒ तृप्य॑त ।  
+पुत्रा᳓न् पौ᳓त्रान् अभि᳓ तर्प᳓यन्तीर्  
+आ᳓पो म᳓धुमतीर् इमाः᳓  
+स्वधां᳓ +++(मातृसहित)+++पितृ᳓भ्यो अमृ᳓तं दु᳓हाना  
+आ᳓पो देवी᳓र् उभ᳓याँस् तर्पयन्तु ।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/28_tRpyata_tRpyata.md">
+
+तृ᳓प्यत तृ᳓प्यत तृ᳓प्यत ।
 
 </div>
 
@@ -691,7 +907,7 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/29_prANe_niviShTo-mRtam.md">
 
-प्रा॒णे निवि॑ष्टो॒ ऽमृतं॑+++(→अमरणहेतुमन्नं)+++ जुहोमि॒, ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ ।  
+प्राणे᳓ नि᳓विष्टो ऽमृ᳓तं+++(→अमरणहेतुमन्नं)+++ जुहोमि, ब्र᳓ह्मणि म आत्मा᳓ऽमृतत्वा᳓य ।  
 
 </div>
 
@@ -699,6 +915,7 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_09_bhuktavato-nuvrajya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Oldenberg</summary>
 
 9. When they have eaten (and gone away), he goes after them, circumambulates them, turning his right side towards them, spreads out southward-pointed Darbha grass in two different layers, pours water on it with the next (formulas, II, 20, 2-7), distributes the Piṇḍas, ending in the south, with the next (formulas, II, 20, 8-13), pours out water as before with the next (formulas, 14-19), worships (the ancestors) with the next (formulas, II, 20, 20-23), sprinkles with the next (verse, 24) water three times from right to left round (the Piṇḍas) with a water-pot, besprinkles the vessels, which are turned upside down, repeating the next Yajus (25) at least three times without taking breath, sets up the vessels two by two, cuts off (Avadānas) from all (portions of food), and eats of the remains at least one morsel with the next Yajus (26).
@@ -1132,11 +1349,16 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 </div>
 </details>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_09_bhuktavato-nuvrajya.md">
 
+<details><summary><h4>मूलम् …{Loading}…</h4></summary>
+
 भुक्तवतोऽनुव्रज्य प्रदक्षिणीकृत्य द्वैधं दक्षिणाग्रान् दर्भान् सँस्तीर्य तेषूत्तरैरपो दत्त्वोत्तरैर्दक्षिणापवर्गान् पिण्डान्दत्त्वा पूर्ववदुत्तरैरपो दत्त्वोत्तरैरुपस्थायोत्तरयोदपात्रेण त्रिः प्रसव्यं परिषिच्य न्युब्ज्य पात्राण्युत्तरं यजुरनवानं त्र्यवरार्ध्यमावर्तयित्वा प्रोक्ष्यपात्राणि द्वन्द्वमभ्युदाहृत्य सर्वतस्समवदायोत्तरेण यजुषा शेषस्य ग्रासवरार्ध्यं प्राश्नीयात् ।
+
+</details>
 
 </div>

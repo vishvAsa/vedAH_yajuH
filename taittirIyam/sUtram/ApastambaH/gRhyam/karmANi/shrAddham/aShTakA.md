@@ -39,11 +39,11 @@ unicode_script: devanagari
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/30_yA~n_janAH.md">
 
-यां जनाः॑ प्रति॒-नन्द॑न्ति॒  
-रात्रिं॑ धे॒नुम् इ॑वाय॒तीम् ।  
-सं॒व॒त्स॒रस्य॒ या पत्नी॒ +++(एकाष्टका)+++  
-सा नो॑ अस्तु सुमङ्ग॒ली  
-स्वाहा॑ ।  
+यां᳓ ज᳓नाः **प्रति-न᳓न्दन्ति**  
+रा᳓त्रिं धेनु᳓म् इवायती᳓म् ।  
+संवत्सर᳓स्य या᳓ प᳓त्नी +++(एकाष्टका)+++  
+सा᳓ नो **अस्तु** सुमङ्गली᳓  
+स्वा᳓हा ।  
 
 </div>
 
@@ -71,11 +71,11 @@ unicode_script: devanagari
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/31_vaha_vapAm.md">
 
-वह॑ व॒पां जा॑तवेदः पि॒तृभ्यो॒  
-यत्रै॒नान् वे॑त्थ॒ निहि॑तान् परा॒के+++(=दूरे)+++ ।  
-मेद॑सः॒ कूल्या॒+++(=नद्या)+++ उप॒ तान् क्ष॑रन्तु  
-स॒त्या ए॑षाम् आ॒शिष॑स् सन्तु॒ कामै॒स्  
-स्वाहा॑ ।  
+**व᳓ह** वपां᳓ जातवेदः पितृ᳓भ्यो  
+य᳓त्रैनान् **वे᳓त्थ नि᳓हितान्** पराके᳓+++(=दूरे)+++ ।  
+मे᳓दसः कू᳓ल्या+++(=नद्या)+++ उ᳓प ता᳓न् **क्षरन्तु**  
+सत्या᳓ एता᳓ आशि᳓षस् सन्तु का᳓मैस्  
+स्वा᳓हा ।  
 
 </div>
 
@@ -87,68 +87,71 @@ unicode_script: devanagari
 माँसोदनमुत्तराभिः ५  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/32_yA~n_janAH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/30_yA~n_janAH.md">
 
-यां जनाः॑ प्रति॒-नन्द॑न्ति॒  
-रात्रिं॑ धे॒नुम् इ॑वाय॒तीम् ।  
-सं॒व॒त्स॒रस्य॒ या पत्नी॒ +++(एकाष्टका)+++  
-सा नो॑ अस्तु सुमङ्ग॒ली॥  
+यां᳓ ज᳓नाः **प्रति-न᳓न्दन्ति**  
+रा᳓त्रिं धेनु᳓म् इवायती᳓म् ।  
+संवत्सर᳓स्य या᳓ प᳓त्नी +++(एकाष्टका)+++  
+सा᳓ नो **अस्तु** सुमङ्गली᳓  
+स्वा᳓हा ।  
 
+</div>
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/33_iyameva_sA.md">
 
-इ॒यम् +++(उषाः)+++ ए॒व सा या प्र॑थ॒मा व्यौच्छ॑द्+++(←उछीँ विवासे)+++  
-अ॒न्तर् अ॒स्याञ् +++(पृथिव्यां)+++ च॑रति॒ +++(आदित्यम्)+++ प्रवि॑ष्टा ।  
-व॒धूर् ज॑जान नव॒-गज्+++(गा)+++ जनि॑त्री॒  
-त्रय॑+++(←अग्निरे् एकः अश्विनौ द्वौ वपादेवाः)+++ एनाम् महि॒मान॑स् सचन्ते+++(=भजन्ते)+++ ॥
+इय᳓म् +++(उषाः)+++ एव᳓ सा᳓ या᳓ प्रथमा᳓ **व्यौ᳓च्छद्**+++(←उछीँ विवासे)+++  
+अन्त᳓र् अस्या᳓ञ् +++(पृथिव्यां)+++ **चरति +++(आदित्यम्)+++ प्र᳓विष्टा** ।  
+वधू᳓र् जजान नव-ग᳓ज्+++(गा)+++ ज᳓नित्री  
+त्र᳓य+++(←अग्निरे् एकः अश्विनौ द्वौ वपादेवाः)+++ एनाम् महिमा᳓नस् सचन्ते+++(=भजन्ते)+++ ॥
 
 </div>
 
 +++(मध्यमस्थाना द्युस्थाना चेति द्वे उषसौ)+++  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/34_ChandasvatI_uShasA.md">
 
-छन्द॑स्वती उ॒षसा॒+++(सौ)+++ पेपि॑शाने+++(=दीप्यमाने)+++  
-समा॒नय्ँ योनि॒म् +++(आदित्यं)+++ अनु॑ स॒ञ्चर॑न्ती ।  
-सूर्य॑पत्नी॒ वि च॑रतᳶ प्र-जान॒ती  
-के॒तुङ् कृ॑ण्वा॒ने अ॒जरे॒ भूरि॑रेतसा+++(सौ)+++ ॥
+छ᳓न्दस्वती उष᳓सा+++(सौ)+++ पे᳓पिशाने+++(=दीप्यमाने)+++  
+समानय्ँ᳓ यो᳓निम् +++(आदित्यं)+++ अ᳓नु सञ्च᳓रन्ती ।  
+सू᳓र्यपत्नी वि᳓ चरतᳶ प्र-जानती᳓  
+केतु᳓ङ् कृण्वाने᳓ अज᳓रे भू᳓रिरेतसा+++(सौ)+++ ॥
 
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/35_Rtasya_panthAmanu.md">
 
-ऋ॒तस्य॒ पन्था॒म् अनु॑ +++(कार्यभेदात्)+++ ति॒स्र आगु॒स्  
-त्रयो॑ घ॒र्मासो॒ अनु॒ ज्योति॒षा ऽगुः॑ ।  
-प्र॒जाम् एका॒ रक्ष॒त्य्, ऊर्ज॒म् एका॑  
-व्र॒तम् एका॑ रक्षति देवयू॒+++(=याजका)+++नाम् ॥
+ऋत᳓स्य प᳓न्थाम् अ᳓नु +++(कार्यभेदात्)+++ तिस्र᳓ आ᳓गुस्  
+त्र᳓यो घर्मा᳓सो अ᳓नु ज्यो᳓तिषा᳓ ऽगुः ।  
+प्रजा᳓म् ए᳓का र᳓क्षत्य्, ऊ᳓र्जम् ए᳓का  
+व्रत᳓म् ए᳓का रक्षति देवयूना᳓म् ॥
 
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/36_ekAShTakAm_pashyata.md">
 
-ए॒का॒ष्ट॒कां प॑श्यत॒ दोह॑माना॒म्  
-अन्नं॑ माँ॒सव॑द् घृ॒तव॑त् स्व॒धाव॑त् ।  
-तद् ब्रा॑ह्म॒णैर् अ॑तिपू॒तम् अ॑न॒न्तम् अ॑क्ष॒य्यम्  
-अ॒मुष्मि॑ल्ँ लो॒के स्फीतिं॑ गच्छतु मे पि॒तृभ्यः॒  
-स्वाहा॑ ।  
+एकाष्टकां᳓ पश्यत दो᳓हमानाम्  
+अ᳓न्नं माँस᳓वद् घृत᳓वत् स्वधा᳓वत् ।  
+त᳓द् ब्राह्मणै᳓र् अतिपूत᳓म् अनन्त᳓म् अक्षय्य᳓म्  
+अमु᳓ष्मिल्ँ लोके᳓ स्फी᳓तिं गच्छतु मे पितृ᳓भ्यः  
+स्वा᳓हा ।  
 
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/37_aulUkhalA_grAvANo.md">
 
-औ॒लू॒ख॒ला+++(=उलूखलाः)+++ ग्रावा॑णो॒ घोष॑म् अक्रत  
-ह॒विः कृ॒ण्वन्तः॑ परिवत्स॒रीण॑म् ।  
-ए॒का॒ष्ट॒के सु॑प्र॒जा वी॒रव॑न्तो  
-व॒यँ स्या॑म॒ पत॑यो रयी॒णाम्॥  
+औलूखला᳓+++(=उलूखलाः)+++ ग्रा᳓वाणो घो᳓षम् अक्रत  
+हविः᳓ कृण्व᳓न्तः परिवत्सरी᳓णम् ।  
+एकाष्टके᳓ सुप्रजा᳓ वीर᳓वन्तो  
+वयँ᳓ स्याम प᳓तयो रयीणा᳓म्॥  
 
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/38_ekAShTakA_tapasA.md">
 
-ए॒का॒ष्ट॒का तप॑सा॒ तप्य॑माना  
-संवत्स॒रस्य॒ पत्नी॑ दुदुहे॒ प्रपी॑ना ।+++(४)+++  
-तं दोह॒म् उप॑जीवाथ+++(=उपजीवत)+++ पि॒तर॑स्  
-स॒हस्र॑-धारम् अ॒मुष्मि॑ल्ँ लो॒के  
-स्वाहा॑ ॥ (20)  
+एकाष्टका᳓ त᳓पसा त᳓प्यमाना  
+संवत्सर᳓स्य प᳓त्नी दुदुहे प्र᳓पीना ।+++(४)+++  
+तं᳓ दो᳓हम् उ᳓पजीवाथ+++(=उपजीवत)+++ पित᳓रस्  
+सह᳓स्र-धारम् अमु᳓ष्मिल्ँ लोके᳓  
+स्वा᳓हा ॥ (20)  
 
 </div>
 
@@ -161,12 +164,12 @@ unicode_script: devanagari
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/01_ukthyashchAsyatirAtrashcha.md">
 
-+++(एकाष्टके!)+++ उ॒क्थ्य॑श् चास्य् अतिरा॒त्रश् च॑  
-साद्य॒स्क्रीश्+++(=सद्यस्क्र-क्रतुः)+++ छन्द॑सा स॒ह ।  
-अ॒पू॒प॒-घृ॒ताहु॑ते॒ नम॑स् ते  
-अस्तु माँस-पि॒प्पले॒+++(=फले)+++  
++++(एकाष्टके!)+++ उक्थ्य᳙श् चास्य् अतिरात्र᳓श् च  
+साद्यस्क्री᳓श्+++(=सद्यस्क्र-क्रतुः)+++ छ᳓न्दसा सह᳓ ।  
+अपूप-घृता᳓हुते न᳓मस् ते  
+अस्तु माँस-पिप्प᳓ले+++(=फले)+++  
 +++(तयोरन्यः पिप्पलं स्वाद्वत्ति इति दर्शनात्)+++  
-स्वाहा॑ ।  
+स्वा᳓हा ।  
 
 </div>
 
@@ -177,32 +180,56 @@ unicode_script: devanagari
 
 आज्याहुतीरुत्तराः ७  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/02-04_bhUH_pRthivyagninarchAmum.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/02_bhUH_pRthivyA.md">
 
-भूः- पृ॑थि॒व्य्+++(व्या)+++ अ॑ग्निना॑+ऋ॒चा ऽमुं मयि॒ कामं॒ नियु॑नज्मि॒ स्वाहा॑ ।  
-भुवो॑- वा॒युना॒ ऽन्तरि॑क्षेण॒ साम्ना॒ ऽमुं मयि॒ कामं॒ नियु॑नज्मि॒ स्वाहा॑ ।  
-स्व॑र्- दिवा॑ ऽऽदि॒त्येन॒ यजु॑षा॒ ऽमुं मयि॒ कामं॒ नियु॑नज्मि॒ स्वाहा॑ ।+++(५)+++  
+भूः᳓- पृथिव्य्+++(व्या)+++ अ᳙ग्नि᳓ना+ऋचा᳓  
+ऽमुं᳓ म᳓यि का᳓मं नि᳓युनज्मि स्वा᳓हा ।  
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/03_bhuvo_vAyunA.md">
+
+भु᳓वो - वायु᳓ना ऽन्त᳓रिक्षेण सा᳓म्ना  
+ऽमुं᳓ म᳓यि का᳓मं नि᳓युनज्मि स्वा᳓हा ।  
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/04_svar_divA.md">
+
+स्व᳓र् - दि᳓वा ऽऽदित्ये᳓न य᳓जुषा  
+ऽमुं᳓ म᳓यि का᳓मं नि᳓युनज्मि स्वा᳓हा ।+++(५)+++  
 
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/05_janadadbhiratharvAngirobhiramum_mayi.md">
 
-ज॒नद्+++(=व्याहृतिविशेषो यस् सामस्वपि श्रूयते। नारायणानुवाके तु जनः इति विसर्जनीयान्तं पठ्यते ॥)+++-  
-अ॒द्भिर् अथ॑र्वाङ्गि॒रोभि॑र् अ॒मुं मयि॒ कामं॒ नियु॑नज्मि॒ स्वाहा॑ ।  
+जन᳓द्+++(=व्याहृतिविशेषो यस् सामस्वपि श्रूयते। नारायणानुवाके तु जनः इति विसर्जनीयान्तं पठ्यते ॥)+++-  
+अद्भि᳓र् अ᳓थर्वाङ्गिरो᳓भिर्  
+अमुं᳓ म᳓यि का᳓मं नि᳓युनज्मि स्वा᳓हा ।  
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/06-07_rochanAyAjirAyAgnaye_devajAtave.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/06_rochanAyAjirAya.md">
 
-रो॒च॒नाय॑ +अ॒जि॒राय+++(←अज गतिक्षेपणयोः)+++ +अ॒ग्नये॑ दे॒व-जा॑तवे॒+++(=ज्ञात्रे)+++ स्वाहा॑ ।  
-के॒तवे॒+++(=ज्ञात्रे)+++ मन॑वे॒ ब्रह्म॑णे दे॒व-जा॑तवे॒+++(=ज्ञात्रे)+++ स्वाहा॑ ।  
+रोचना᳓य +अजिरा᳓य+++(←अज गतिक्षेपणयोः)+++ +अग्न᳓ये देव᳓-जातवे+++(=ज्ञात्रे)+++ स्वा᳓हा ।  
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/08-09_svadhA_svAhA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/07_ketave_manave.md">
 
-स्व॒धा स्वाहा॑ ।  
-अ॒ग्नये॑ कव्य॒वाह॑नाय स्व॒धा स्वाहा॑ ।  
+केत᳓वे+++(=ज्ञात्रे)+++ म᳓नवे ब्र᳓ह्मणे देव᳓-जातवे+++(=ज्ञात्रे)+++ स्वा᳓हा ।  
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/08_svadhA_svAhA.md">
+
+स्वधा᳓ स्वा᳓हा ।  
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/09_agnaye_kavyavAhanAya.md">
+
+अग्न᳓ये कव्यवा᳓हनाय स्वधा᳓ स्वा᳓हा ।  
 
 </div>
 

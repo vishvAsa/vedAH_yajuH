@@ -9,34 +9,43 @@ title = "१५ अन्नप्राशनम्"
 
 जन्मनोऽधि षष्ठे मासि ब्राह्मणान् भोजयित्वाऽऽशिषो वाचयित्वा दधि मधु घृतमोदनमिति सँसृज्योत्तरैर्मन्त्रैः कुमारं प्राशयेत् ।
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/11_-14_bhUrapAn_tvauShadhInAm.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/11_bhUrapAm_tvauShadhInAm.md">
 
-भूर् अ॒पां त्वौष॑धीनाँ॒ रसं॒ प्राश॑यामि।  
-शि॒वास्त॒ आप॒ ओष॑धयस् सन्त्व्,  
-अनमी॒वास्त॒ आप॒ ओष॑धयस् सन्त्व् असौ+++(→नामनिर्देशः)+++ ।  
-
-भुवो॒ऽपाँ …।  
-सुव॑र॒पां  …।  
-भूर्भुव॒स्सुव॑र॒पां …।  
-
-तैत्तिरेण माँसेनेत्य् एके २
+भू᳓र् अपां᳓ त्वौ᳓षधीनाँ र᳓सं प्रा᳓शयामि।  
+शिवा᳓स्त आ᳓प ओ᳓षधयस् सन्त्व्,  
+अनमीवा᳓स् त आ᳓प ओ᳓षधयस् सन्त्व् असौ+++(→नामनिर्देशः)+++ ।  
 
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/12_bhuvo-pAm_tvauShadhInAm.md">
+
+भु᳓वोऽपाँ᳓ …।  
+
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/13_suvarapAm_tvauShadhInAm.md">
+
+सु᳓वरपां᳓  …।  
+
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/14_bhUrbhuvaH_suvarapAm_tvauShadhInAm.md">
+
+भू᳓र्भु᳓वस्सु᳓वरपां᳓ …।  
+
+</div>
+
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/15_annaprAshanam/16_01_janmano-dhi_ShaShThe.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Oldenberg</summary>
 
 1. In the sixth month after the child's birth he serves food to Brāhmaṇas and causes them to pronounce auspicious wishes; then he should pour together curds, honey, ghee, and boiled rice, and should give (the mixture) to the boy to eat, with the next (four) Mantras (II, 14, 7-10);
 </details>
-
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अथान्नप्राशनमुपदिश्यते—
 </details>
-
 <details><summary>हरदत्तः</summary>
 
 [अथ कुमारस्यान्नप्राशनम् ।
@@ -56,7 +65,6 @@ title = "१५ अन्नप्राशनम्"
 सर्वान्त इत्यन्ये ।
 कुमारं इति वचनात् कुमार्या विधिवदन्नप्राशनं न भवति—आवृतैव कुमार्या (आश्व.गृ.१-१४-७.) इत्याश्वलायनवचनात् ॥१॥
 </details>
-
 <details><summary>सुदर्शनः</summary>
 
 **जन्मनोऽधि** जन्मन आरभ्य, दिवसगणनया **षष्ठे मासि** ।
@@ -69,12 +77,17 @@ title = "१५ अन्नप्राशनम्"
 सम्बुद्ध्या च नामग्रहणम् ।
 द्वितीयतृतीययोरपि "त्वौषधीनाम्" इत्यादेरनुषङ्गः ॥१॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/15_annaprAshanam/16_01_janmano-dhi_ShaShThe.md">
 
+<details><summary><h4>मूलम् …{Loading}…</h4></summary>
+
 जन्मनोऽधि षष्ठे मासि ब्राह्मणान् भोजयित्वाऽऽशिषो वाचयित्वा दधि मधु घृतमोदनमिति सँसृज्योत्तरैर्मन्त्रैः कुमारं प्राशयेत् ।
+
+</details>
 
 </div>
 

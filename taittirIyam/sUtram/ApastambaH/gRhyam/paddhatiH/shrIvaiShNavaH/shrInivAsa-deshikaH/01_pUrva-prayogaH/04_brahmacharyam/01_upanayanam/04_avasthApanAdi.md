@@ -55,20 +55,83 @@ title = "०४ अवस्थापनादि"
 
 (सू - उत्तरैर् दक्षिणे हस्ते गृहीत्वा)
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/03-12_agniShTe_hastamagrabhItsomaste.md">
-<details open><summary><h2>०३-१२ अग्निष्टे हस्तमग्रभीत्सोमस्ते ...{Loading}...</h2></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/03_agniShTe_hastamagrabhIt.md">
+<details open><summary><h2>०३ अग्निष्टे हस्तमग्रभीत् …{Loading}…</h2></summary>
 
-अ॒ग्निष् टे॒ हस्त॑म् **अग्रभी+++(ही)+++त्**।  
-सोम॑स् ते॒ हस्त॑म् **अग्रभीत्**।  
-स॒वि॒ता ते॒ हस्त॑म् **अग्रभीत्।**  
-सर॑स्वती ते॒ हस्त॑म् **अग्रभीत्।**  
-पू॒षा ते॒ हस्त॑म् **अग्रभीत्।**  
-अ॒र्य॒मा ते॒ हस्त॑म् **अग्रभीत्।**  
-अँशु॑स् ते॒ हस्त॑म् **अग्रभीत्।**  
-भग॑स् ते॒ हस्त॑म् **अग्रभीत्।**  
-मि॒त्रस् ते॒ हस्त॑म् **अग्रभीत्।**  
-मि॒त्रस् त्वम् **अ॑सि॒** धर्म॑णा॒,  
-ऽग्निर् आ॑चा॒र्यस् तव॑ ।+++(५)+++ 
+अग्नि᳓ष् टे ह᳓स्तम् **अग्रभी+++(ही)+++त्**।
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/04_somaSte_hastamagrabhIt.md">
+<details open><summary><h2>०४ सोमस्ते हस्तमग्रभीत् …{Loading}…</h2></summary>
+
+सो᳓मस् ते ह᳓स्तम् **अग्रभीत्**।
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/05_savitA_te_hastamagrabhIt.md">
+<details open><summary><h2>०५ सविता ते हस्तमग्रभीत् …{Loading}…</h2></summary>
+
+सविता᳓ ते ह᳓स्तम् **अग्रभीत्।**
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/06_sarasvatI_te_hastamagrabhIt.md">
+<details open><summary><h2>०६ सरस्वती ते हस्तमग्रभीत् …{Loading}…</h2></summary>
+
+स᳓रस्वती ते ह᳓स्तम् **अग्रभीत्।**
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/07_pUShA_te_hastamagrabhIt.md">
+<details open><summary><h2>०७ पूषा ते हस्तमग्रभीत् …{Loading}…</h2></summary>
+
+पूषा᳓ ते ह᳓स्तम् **अग्रभीत्।**
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/08_aryamA_te_hastamagrabhIt.md">
+<details open><summary><h2>०८ अर्यमा ते हस्तमग्रभीत् …{Loading}…</h2></summary>
+
+अर्यमा᳓ ते ह᳓स्तम् **अग्रभीत्।**
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/09_aMshuste_hastamagrabhIt.md">
+<details open><summary><h2>०९ अँशुस्ते हस्तमग्रभीत् …{Loading}…</h2></summary>
+
+अँ᳓शुस् ते ह᳓स्तम् **अग्रभीत्।**
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/10_bhagaste_hastamagrabhIt.md">
+<details open><summary><h2>१० भगस्ते हस्तमग्रभीत् …{Loading}…</h2></summary>
+
+भ᳓गस् ते ह᳓स्तम् **अग्रभीत्।**
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/11_mitraste_hastamagrabhIt.md">
+<details open><summary><h2>११ मित्रस्ते हस्तमग्रभीत् …{Loading}…</h2></summary>
+
+मित्र᳓स् ते ह᳓स्तम् **अग्रभीत्।**
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/12_mitrastvamasi_dharmaNA.md">
+<details open><summary><h2>१२ मित्रस्त्वमसि धर्मणा …{Loading}…</h2></summary>
+
+मित्र᳓स् त्व᳓म् **असि** ध᳓र्मणा,  
+ऽग्नि᳓र् आचार्य᳓स् त᳓व ।+++(५)+++
 
 </details>
 </div>
@@ -93,24 +156,116 @@ title = "०४ अवस्थापनादि"
 उदात्तः प्रथमान्तस् तु  
 नयेऽसाव् इति वर्जयेत् ॥ 
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/13_-23_agnaye_tvA.md">
-<details open><summary><h2>१३ -२३ अग्नये त्वा ...{Loading}...</h2></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/13_agnaye_tvA.md">
 
-+++(असौशब्दस्य स्थाने माणवकस्य नाम निर्देशः संबुद्ध्या, स्वरं विना ॥)+++  
+<details open><summary><h2>१३ अग्नये त्वा …{Loading}…</h2></summary>
 
-अ॒ग्नये॑ त्वा॒ परि॑ददाम्य्+++(→रक्षार्थे दानं परिदानम्)+++ असौ।  
-सोमा॑य त्वा॒ परि॑ददाम्य् असौ।  
-स॒वि॒त्रे त्वा॒ परि॑ददाम्य् असौ।  
-सर॑स्वत्यै त्वा॒ परि॑ददाम्य् असौ।  
-मृ॒त्यवे॑ त्वा॒ परि॑ददाम्य् असौ।  
-य॒माय॑ त्वा॒ परि॑ददाम्य् असौ।  
-ग॒दाय॑ त्वा॒ परि॑ददाम्य् असौ।  
-अन्त॑काय त्वा॒ परि॑ददाम्य् असौ।  
-अ॒द्भ्यस् त्वा॒ परि॑ददाम्य् असौ।  
-ओष॑धीभ्यस् त्वा॒ परि॑ददाम्य् असौ।  
-पृ॒थि॒व्यै त्वा॒ सवै॑श्वान॒रायै॒+++(←उदात्तद्वयम्??)+++ परि॑ददाम्य् असौ ।  
++++(असौशब्दस्य स्थाने माणवकस्य नाम निर्देशः संबुद्ध्या, स्वरं विना ॥)+++
+
+अग्न᳓ये त्वा प᳓रिददाम्य्+++(→रक्षार्थे दानं परिदानम्)+++ असौ।
 
 </details>
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/14_somAya_tvA.md">
+
+<details open><summary><h2>१४ सोमाय त्वा …{Loading}…</h2></summary>
+
+सो᳓माय त्वा प᳓रिददाम्य् असौ।
+
+</details>
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/15_savitre_tvA.md">
+
+<details open><summary><h2>१५ सवित्रे त्वा …{Loading}…</h2></summary>
+
+सवित्रे᳓ त्वा प᳓रिददाम्य् असौ।
+
+</details>
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/16_sarasvatyai_tvA.md">
+
+<details open><summary><h2>१६ सरस्वत्यै त्वा …{Loading}…</h2></summary>
+
+स᳓रस्वत्यै त्वा प᳓रिददाम्य् असौ।
+
+</details>
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/17_mRtyave_tvA.md">
+
+<details open><summary><h2>१७ मृत्यवे त्वा …{Loading}…</h2></summary>
+
+मृत्य᳓वे त्वा प᳓रिददाम्य् असौ।
+
+</details>
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/18_yamAya_tvA.md">
+
+<details open><summary><h2>१८ यमाय त्वा …{Loading}…</h2></summary>
+
+यमा᳓य त्वा प᳓रिददाम्य् असौ।
+
+</details>
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/19_gadAya_tvA.md">
+
+<details open><summary><h2>१९ गदाय त्वा …{Loading}…</h2></summary>
+
+गदा᳓य त्वा प᳓रिददाम्य् असौ।
+
+</details>
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/20_antakAya_tvA.md">
+
+<details open><summary><h2>२० अन्तकाय त्वा …{Loading}…</h2></summary>
+
+अ᳓न्तकाय त्वा प᳓रिददाम्य् असौ।
+
+</details>
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/21_adbhyaste_tvA.md">
+
+<details open><summary><h2>२१ अद्भ्यस्त्वा …{Loading}…</h2></summary>
+
+अद्भ्य᳓स् त्वा प᳓रिददाम्य् असौ।
+
+</details>
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/22_oShadhIbhyaste_tvA.md">
+
+<details open><summary><h2>२२ ओषधीभ्यस्त्वा …{Loading}…</h2></summary>
+
+ओ᳓षधीभ्यस् त्वा प᳓रिददाम्य् असौ।
+
+</details>
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/23_pRthivyai_tvA.md">
+
+<details open><summary><h2>२३ पृथिव्यै त्वा …{Loading}…</h2></summary>
+
+पृथिव्यै᳓ त्वा स᳓वैश्वानरा᳓यै+++(←उदात्तद्वयम्??)+++ प᳓रिददाम्य् असौ ।
+
+</details>
+
 </div>
 
 एतैर् एकादशभिर् मन्त्रैः  
@@ -186,6 +341,7 @@ title = "०४ अवस्थापनादि"
 
 </details>
 </div>
+
 <details><summary>तमिऴ्</summary>
 
 சொல்லி, அதற்கு மேலாக ஆசார்யன் திறந்த அஞ்ஜலியை வைத்துக் கொண்டிருக்கும்போது, ஒரு அன்னியனால் ஆசார்யன் அஞ்ஜலியில் விடும் ஜலத்தை ஆசார்யன் குமாரனின் அஞ்ஜலியில் விட்டு “ஸமுத்ராதூர்மி:" + '"ஆயந்" என்கிற மந்திரத்தைச் சொல்லி அவனை மூன்று தடவை ப்ரோக்ஷிக்க வேண்டும். இந்த மந்திரத்தையும் அவனுக்குச் சொல்லி வைக்க வேண்டும். "அக்நிஷ்டேஹஸ்தம் + அக்நிராசார்யஸ்தவ" என்கிற மந்த்ரங்களைச் சொல்லி குமாரனின் வலது கையைப் பிடிக்க வேண்டும். அக்நயே த்வா + ஸவைச்வாநராயை ப்ரிததாமி சர்மந்' என்கிற பதினோரு மந்திரங்களிலும் “அஸௌ" என்கிற [[TODO::परिष्कार्यम्??]]

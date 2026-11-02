@@ -22,24 +22,85 @@ title = "०७ उत्थापनम्"
 
 ‘स्मृतं च मे' इत्यादि 'सर्वव्रतो भूयासम्' इत्यन्तं वाचयेत् । 
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/02-10_smRtancha_me.md">
-<details open><summary><h2>०२-१० स्मृतञ्च मे ...{Loading}...</h2></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/02_smRtaM_cha_me.md">
+<details open><summary><h2>०२ स्मृतञ्च मे …{Loading}…</h2></summary>
 
-स्मृ॒तञ् च॒ मे, ऽस्मृ॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
-नि॒न्दा च॒ मे ऽनि॑न्दा च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तँ,  
-श्र॒द्धा च॒ मे ऽश्र॑द्धा च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
-वि॒द्या च॒ मे ऽवि॑द्या च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तँ,  
-श्रु॒तञ् च॒ मे ऽश्रु॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तँ,  
-स॒त्यञ् च॒ मे ऽनृ॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
-तप॑श् च॒ मे ऽत॑पश्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
-व्र॒तञ् च॒ मे ऽव्र॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
-
-यद् ब्रा॑ह्म॒णानां॒ ब्रह्म॑णि+++(=वेदविषये)+++ व्र॒तम्,  
-यद् अ॒ग्नेस् +++(→यातृत्वं)+++ सेन्द्र॑स्य॒ +++(→प्राधान्यम्)+++ सप्र॑जापतिकस्य॒ +++(→स्रष्टृत्वं)+++ सदे॑वस्य॒ +++(→दातृत्वादि)+++ सदे॑वराजस्य॒ सम॑नुष्यस्य॒ +++(→प्रियवचनादि)+++ सम॑नुष्यराजस्य॒ +++(→प्रजारक्षणम्)+++ सपि॑तृकस्य॒ +++(→पुत्रोत्पत्ति)+++ सपि॑तृराजस्य॒ +++(यमस्य → सर्वसमत्वं)+++ सग॑न्धर्वाप्सर॒स्कस्य॑ +++(→परिचरणकौशलम्, उदात्तद्वयम्?? )+++,  
-यन् म॑ आ॒त्मन॑ आ॒त्मनि॑ व्र॒तन्,  
-तेना॒हँ सर्व॑व्रतो भूयासम् ।  
+स्मृत᳓ञ् च मे, अ᳓स्मृतञ् च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
 
 </details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/03_nindA_cha_me.md">
+<details open><summary><h2>०३ निन्दा च मे …{Loading}…</h2></summary>
+
+निन्दा᳓ च मे, अ᳓निन्दा च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/04_shraddhA_cha_me.md">
+<details open><summary><h2>०४ श्रद्धा च मे …{Loading}…</h2></summary>
+
+श्रद्धा᳓ च मे, अ᳓श्रद्धा च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/05_vidyA_cha_me.md">
+<details open><summary><h2>०५ विद्या च मे …{Loading}…</h2></summary>
+
+विद्या᳓ च मे, अ᳓विद्या च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/06_shrutaM_cha_me.md">
+<details open><summary><h2>०६ श्रुतञ्च मे …{Loading}…</h2></summary>
+
+श्रुत᳓ञ् च मे, अ᳓श्रुतञ्च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/07_satyaM_cha_me.md">
+<details open><summary><h2>०७ सत्यञ्च मे …{Loading}…</h2></summary>
+
+सत्य᳓ञ् च मे, अ᳓नृतञ्च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/08_tapaShcha_me.md">
+<details open><summary><h2>०८ तपश्च मे …{Loading}…</h2></summary>
+
+त᳓पश् च मे, अ᳓तपश्च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/09_vrataM_cha_me.md">
+<details open><summary><h2>०९ व्रतञ्च मे …{Loading}…</h2></summary>
+
+व्रत᳓ञ् च मे, अ᳓व्रतञ्च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/10_yadbrAhmaNAnAM_brahmaNi.md">
+
+<details open><summary><h2>१० यद्ब्राह्मणानां ब्रह्मणि व्रतम् …{Loading}…</h2></summary>
+
+य᳓द् ब्राह्मणा᳓नां ब्र᳓ह्मणि+++(=वेदविषये)+++ व्रत᳓म्,  
+य᳓द् अग्ने᳓स् +++(→यातृत्वं)+++ से᳓न्द्रस्य +++(→प्राधान्यम्)+++ स᳓प्रजापतिकस्य +++(→स्रष्टृत्वं)+++  
+स᳓देवस्य +++(→दातृत्वादि)+++ स᳓देवराजस्य  
+स᳓मनुष्यस्य +++(→प्रियवचनादि)+++ स᳓मनुष्यराजस्य +++(→प्रजारक्षणम्)+++  
+स᳓पितृकस्य +++(→पुत्रोत्पत्ति)+++ स᳓पितृराजस्य +++(यमस्य → सर्वसमत्वं)+++  
+स᳓गन्धर्वाप्सरस्क᳓स्य +++(→परिचरणकौशलम्, उदात्तद्वयम्?? )+++,  
+य᳓न् म आत्म᳓न आत्म᳓नि व्रत᳓न्,  
+ते᳓नाहँ᳓ स᳓र्वव्रतो भूयासम् ।
+
+</details>
+
 </div>
 
 ## वर-दानम्
@@ -50,7 +111,7 @@ title = "०७ उत्थापनम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/01_agnaye_hiraNyam/">
 <details open><summary><h5>०१ अग्नये हिरण्यम् ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
 <details open><summary><h10>दे॒वस्य॑ त्वा सवि॒तुः प्रति॑गृह्णामि ...{Loading}...</h10></summary>
 <details><summary>मूलम् (संयुक्तम् आरण्यके)</summary>
 
@@ -58,7 +119,8 @@ title = "०७ उत्थापनम्"
 अ॒श्विनो॑र्बा॒हुभ्या॑म् ।  
 पू॒ष्णो हस्ता॑भ्यां॒ प्रति॑गृह्णामि ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary><h15>देवस्य त्वा सवितुः ...{Loading}...</h15></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -100,6 +162,7 @@ ______________
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रति॑गृह्णामि
@@ -111,6 +174,7 @@ ______________
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा॑ त्वा॒ वरु॑णो नयतु  
@@ -127,7 +191,8 @@ ______________
 
 हे हिरण्यात्मिके ! देवि! दक्षिणे! राजा वरुणः त्वां हिरण्यं अग्नये नयतु । तच्चेयमिष्टकाऽस्ति ।  
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
 <details open><summary><h10>तेना॑मृत॒त्वम॑श्याम् ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

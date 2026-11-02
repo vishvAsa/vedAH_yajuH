@@ -267,26 +267,51 @@ __________________
 
 +++(अगारम्)+++ सम्मितम्+++(=संकॢप्तं)+++ उत्तरैर्+++(="ब्रह्म च ते क्षत्रम्")+++ यथालिङ्गम् +++(अभिमन्त्रयते)+++६
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/06-11_brahma_cha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/06_brahma_cha_te_xatram.md">
 
-ब्रह्म॑ च ते क्ष॒त्रञ् च॒ पूर्वे॒ स्थूणे॑ अ॒भिर॑क्षतु ।  
-य॒ज्ञश् च॒ दक्षि॑णाश् च॒ दक्षि॑णे [स्थूणे॑ अ॒भिर॑क्षतु]।  
-इ॒षश् चो॒र्जश् +++(शारदौ मासौ)+++ चाप॑रे [स्थूणे॑ अ॒भिर॑क्षतु]।  
-मि॒त्रश् च॒ वरु॑ण॒श् चोत्त॑रे [स्थूणे॑ अ॒भिर॑क्षतु]।  
-ध॒र्मस् ते॒ स्थूणा॑राजः॒  
-श्रीस् ते॒ स्तूपः॑+++(=पृष्ठवंशः)+++ ।+++(५)+++  
+ब्र᳓ह्म च ते क्षत्र᳓ञ् च  
+पू᳓र्वे स्थू᳓णे अभि᳓रक्षतु ।  
 
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/07_yajnaH_cha_dakShiNAH.md">
+
+यज्ञ᳓श् च द᳓क्षिणाश् च  
+द᳓क्षिणे [स्थू᳓णे अभि᳓रक्षतु]।  
+
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/08_iShaH_chorjaH_cha.md">
+
+इष᳓श् चोर्ज᳓श् +++(शारदौ मासौ)+++ च  
++अ᳓परे [स्थू᳓णे अभि᳓रक्षतु]।  
+
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/09_mitraH_cha_varuNaH_cha.md">
+
+मित्र᳓श् च व᳓रुणश् च  
++उ᳓त्तरे [स्थू᳓णे अभि᳓रक्षतु]।  
+
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/10_dharmaH_te_sthUNA-rAjaH.md">
+
+धर्म᳓स् ते स्थू᳓णा-राजः  
+
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/11_shrIH_te_stUpaH.md">
+
+श्री᳓स् ते स्तू᳓पः+++(=पृष्ठवंशः)+++ ।+++(५)+++  
+
+</div>
+
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/17_gRhyanirmaNam/17_06_sammitamuttarairyathAlingam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Oldenberg</summary>
 
 6. The next (six) (Yajus formulas, II, 15, 6-11) over the (house when it is) finished, according to the characteristics contained in the single formulas.
 </details>
-
 <details><summary>हरदत्तः</summary>
 
 ततस्तदगारं **सम्मितं** संकॢप्तं **उत्तरैर्मन्त्रैः** "ब्रह्म च ते क्षत्र"मित्यादिभिष्षड्भिः ।
@@ -306,7 +331,6 @@ __________________
 तस्मादाकाङ्क्षैव नास्ति ।
 सन्निधानाच्च स्थूणाप्रतिपत्तिः ॥६॥
 </details>
-
 <details><summary>सुदर्शनः</summary>
 
 **सम्मितं** निर्मितमगारं **उत्तरैः** "ब्रह्म च ते क्षत्रं च" इत्यादिभिः पञ्चभिर्मन्त्रैः **यथालिङ्गं** मन्त्रलिङ्गावगतदिङ्मुखोऽभिमन्त्रयते । तत्र पञ्चमेन मध्यमाभिमुखः, अनन्वितत्वात् ।
@@ -319,11 +343,16 @@ __________________
 अपरे तु–नैवेह कस्यचिद् क्वचिदप्यनुषङ्गः; अनुषज्यमानस्य वैरूप्यात्, अन्तेऽपि च पाठाभावाच्च ।
 वाक्यसमाप्तिस्तु प्रकृततया बुद्धिस्थपदार्थान्वयात्सिध्यति, यथा(२)"इषे त्वा" (तै.सं.१-१-१.) इति मन्त्रस्य बुद्धिस्थच्छेदनान्वयात् छिनद्मीति वाक्यसमाप्तिरिति ॥६॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/17_gRhyanirmaNam/17_06_sammitamuttarairyathAlingam.md">
 
+<details><summary><h4>मूलम् …{Loading}…</h4></summary>
+
 सम्मितमुत्तरैर्यथालिङ्गम्।
+
+</details>
 
 </div>

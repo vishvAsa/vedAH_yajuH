@@ -79,13 +79,22 @@ title = "२० सर्पबलिः"
 पार्वणवद् आज्यभागान्ते स्थालीपाकाद् +धुत्वा  
 ऽञ्जलिनोत्तरैः प्रतिमन्त्रं +++(३)+++ किंशुकानि जुहोति ६  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/13-15_jagdho_mashako.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/13_jagdho_mashako_vitRuShTiH.md">
 
 जग्धो᳓ म᳓शको, जग्धा᳓ वि᳓तृष्टिर्, जग्धो᳓ व्यद्ध्वरः᳓ स्वा᳓हा ।  
+
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/14_jagdho_vyaddhvaro_mashakaH.md">
+
 जग्धो᳓ व्यद्ध्वरो᳓,  जग्धो᳓ म᳓शको,  जग्धा᳓ वि᳓तृष्टिस् स्वा᳓हा ।  
+
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/15_jagdha_vitRuShTir_mashakaH.md">
+
 जग्धा᳓ वि᳓तृष्टिर्, जग्धो᳓ व्यद्ध्वरो᳓, जग्धो᳓ म᳓शकस् स्वा᳓हा ॥ +++(र५ विन्यासे ऽत्र सर्पाकृतिः)+++
 
 </div>
+
 
 </div>
 
@@ -96,9 +105,9 @@ title = "२० सर्पबलिः"
 
 6. [^4]  After the ceremonies down to the Ājyabhāga oblations have been performed in the same way as at the fortnightly sacrifices, he sacrifices of the Sthālīpāka, and with each of the next (formulas, II, 16, 15-17) he offers with his joined hands Kiṃśuka flowers.
 
+
 [^4]:  Comp. above, III, 7, 2-3.
 </details>
-
 <details><summary>हरदत्तः</summary>
 
 सर्वं पार्वणवदित्त्युच्यते– स्थालीपाकादेव पार्वणवज् जुहोति, न किंशुकानीति । तेन तेष्व् अवदानकल्पो न भवति । स्विष्टकृतश् चावदानं तेभ्यो न भवति ।
@@ -115,7 +124,6 @@ title = "२० सर्पबलिः"
 प्रतिमन्त्रम् इत्त्य् उच्यते प्रतिमन्त्रं किंशुकानां बहुत्वं यथा स्याद् इति ।
 अन्यथा एकैकस्य किंशुकस्य होमः प्राप्नोति, यथा समिधाम् ॥६॥
 </details>
-
 <details><summary>सुदर्शनः</summary>
 
 ततः **पार्वण**वद् अग्नेर् उपसमाधाना**द्य्-आज्यभागान्ते** अग्निम-ुखान्त इत्यर्थः ; सर्वेष्व् औषध-हविष्केषु तन्त्रवत्सु कर्मसु अग्नि-मुखस्य विहितत्वात् ।

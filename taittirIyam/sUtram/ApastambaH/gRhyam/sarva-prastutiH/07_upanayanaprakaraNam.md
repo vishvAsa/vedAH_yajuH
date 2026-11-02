@@ -12,7 +12,6 @@ title = "०७ उपनयनप्रकरणम्"
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_01_upanayanaM_vyAkhyAsyAmaH.md">
-
 <details><summary>Oldenberg</summary>
 
 1. We shall explain the Upanayana (or initiation of the student).
@@ -44,7 +43,6 @@ title = "०७ उपनयनप्रकरणम्"
 किञ्च गृह्योपदिष्टकर्मसु गृहस्थस्यैवाधिकारो न ब्रह्मचारिण इत्येवंरूपं विशेषं ज्ञापयितुमप्रतिज्ञं विवाहमुपदिश्य उपनयनकल्पोपदेशः सप्रतिज्ञः क्रियते ।
 अस्य च कल्पस्य धर्मशास्त्रे "उपनयनं विद्यार्थस्य" (आप.ध.१-१-९.) इत्य त्रानुपदेशः सर्वचरणार्थतां निवर्तयितुमिति ॥१॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_01_upanayanaM_vyAkhyAsyAmaH.md">
@@ -62,7 +60,6 @@ title = "०७ उपनयनप्रकरणम्"
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_02_garbhAShTameShu_brAhmaNamupanayIta.md">
-
 <details><summary>Oldenberg</summary>
 
 2. Let him initiate a Brāhmaṇa in the eighth year after the conception,
@@ -109,7 +106,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 केचित्–गर्भाष्टम एव वर्षे, न तु षष्ठ-सप्तमयोः तयोर् गर्भाष्टमत्वाभावाद् इति । तन्न - बहुवचनानर्थक्यात् ॥२॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_02_garbhAShTameShu_brAhmaNamupanayIta.md">
@@ -130,7 +126,6 @@ title = "०७ उपनयनप्रकरणम्"
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_03_garbhaikAdasheShu_rAjanyam.md">
-
 <details><summary>Oldenberg</summary>
 
 3. A Rājanya in the eleventh, a Vaiśya in the twelfth year after the conception.
@@ -145,7 +140,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 +++(सम्पादकटिप्पानी - "सूत्रमेतद् अग्रिमे व्याख्यातम्" )+++
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_03_garbhaikAdasheShu_rAjanyam.md">
@@ -163,7 +157,6 @@ title = "०७ उपनयनप्रकरणम्"
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_04_vasanto_grIShmash.md">
-
 <details><summary>Oldenberg</summary>
 
 4. Spring, summer, autumn: these are the (fit) seasons (for the Upanayana), corresponding to the order of the castes.
@@ -193,7 +186,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 "गर्भाष्टमेषु ब्राह्मणम्" इत्यादिस् तु "अथ काम्यानि" (आप.ध.१-१-२०.) इत्यादि विधातुम् अनुवादः ॥४॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_04_vasanto_grIShmash.md">
@@ -213,25 +205,23 @@ title = "०७ उपनयनप्रकरणम्"
 
 हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n89/mode/2up)।
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/01_uShNena_vAyavudakenehyaditiH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/01_uShNena_vAyavudakenehyaditiH.md">
 
 +++(उष्णा आपः शीतास्वानयति)+++ उ॒ष्णेन॑ वायवुद॒केनेह्य्, अदि॑तिः॒ केशान्॑ **वपतु** ।
 
 </div>
 
 उत्तरया +++(आप उन्दन्त्विऽत्येतया)+++ शिर उनत्ति ५  
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/02_Apa_undantu.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/02_Apa_undantu.md">
 
 +++(शिरस उन्दनम् = आर्द्रीकरणम्)+++ आप॑ **उन्दन्तु** जी॒वसे॑  
 दीर्घायु॒त्वाय॒ वर्च॑से ।  
 ज्योक् च॒ सूर्यं॑ दृ॒शे ।
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_05_brAhmaNAn_bhojayitvAshiSho.md">
-
 <details><summary>Oldenberg</summary>
 
 5. (The boy's father) serves food to Brāhmaṇas and causes them to pronounce auspicious wishes, and serves food to the boy. (The teacher?) pours together, with the first Yajus (of the next Anuvāka, warm and cold) water, pouring the warm water into the cold, and moistens (the boy's) head with the next (verse; M. II, 1, 2).
@@ -279,7 +269,6 @@ title = "०७ उपनयनप्रकरणम्"
 ततस्ताभिरद्भिः "आप उन्दन्तु" इत्येतया कुमारस्य **शिर उनत्ति** ।
 प्रागारभ्य प्रदक्षिण**मुनत्ति** क्लेदयति ॥५॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_05_brAhmaNAn_bhojayitvAshiSho.md">
@@ -294,7 +283,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 त्रींस्त्रीन् दर्भान् अन्तर्धायोत्तराभिश् चतसृभिः +++("येनावपत्"इत्यादिभिः)+++ प्रतिमन्त्रं प्रतिदिशं प्रवपति ६  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/03_yenAvapatsavitA_xureNa.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/03_yenAvapatsavitA_xureNa.md">
 
 +++(प्राच्यान्दिशि)+++ **येनाव॑पत्** सवि॒ता क्षु॒रेण॒  
 सोम॑स्य॒ राज्ञो॒ वरु॑णस्य वि॒द्वान् ।  
@@ -304,7 +293,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/04_yena_pUShA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/04_yena_pUShA.md">
 
 +++(दक्षिणतः)+++ येन॑ पू॒षा बृह॒स्पते॑र् अ॒ग्नेर्  
 इन्द्र॑स्य॒ चाऽऽयु॒षे **ऽव॑पत्** ।  
@@ -313,7 +302,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/05_yena_bhUyashcharAtyayanjyokcha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/05_yena_bhUyashcharAtyayanjyokcha.md">
 
 +++(पश्चात्)+++ येन॒ भूय॒श् **चरा॑त्य्** अ॒यञ्,  
 ज्योक् च॒ **पश्या॑ति॒** सूर्य॑म् ।  
@@ -322,7 +311,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/06_yena_pUShA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/06_yena_pUShA.md">
 
 +++(उत्तरे)+++ येन॑ पू॒षा बृह॒स्पते॑र् अ॒ग्नेर्  
 इन्द्र॑स्य॒ चाऽऽयु॒षे **ऽव॑पत्** ।  
@@ -330,11 +319,9 @@ title = "०७ उपनयनप्रकरणम्"
 आयु॑षा॒ वर्च॑सा॒ यथा॒ ज्योक् सु॒मना॒ **असाः॑** ।
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_06_trIMstrIn.md">
-
 <details><summary>Oldenberg</summary>
 
 6. [^1]  Having put three Darbha blades into his hair (towards each of the four directions) (the teacher [?]) shaves his hair with the next four (verses; M. II, 1, 3-6) with the different Mantras, towards the different (four) directions.
@@ -368,7 +355,6 @@ title = "०७ उपनयनप्रकरणम्"
 तत्र प्रथमे मन्त्रे असाव् इत्यस्य स्थाने विष्णुशर्मेति कुमारस्य नामग्रहणम् ।
 चतुर्थे तु सम्बुद्ध्या ॥६॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_06_trIMstrIn.md">
@@ -383,18 +369,16 @@ title = "०७ उपनयनप्रकरणम्"
 
 वपन्तम् उत्तरया +++("यत् क्षुरेण" इत्य् एतया)+++ ऽनुमन्त्रयते दक्षिणतो माता ब्रह्मचारी वा ७  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/07_yatxureNa_marchayatA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/07_yatxureNa_marchayatA.md">
 
 +++(नापितम् अनुमन्त्रयति-)+++ यत् क्षु॒रेण॑ म॒र्चय॑ता +++(=तीक्ष्णेन)+++  
 सुपे॒शसा॒ वप्त्रा॒ **वप॑सि॒** केशान्॑ ।  
 **शुन्धि॒** शिरो॒, मास्यायुः॒ **प्रमो॑षीः** ।
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_07_vapantamuttarayAnumantrayate.md">
-
 <details><summary>Oldenberg</summary>
 
 7. [^2]  With the following (verse, M. II, 1, 7, somebody) addresses him while he is shaving.
@@ -415,7 +399,6 @@ title = "०७ उपनयनप्रकरणम्"
 अस्य कुमारस्यायुर् मा प्रमोषीरिति मध्यमपुरुषलिङ्गके ऽनुमन्त्रणे वपनव्यापृताचार्यकर्तृकत्वविरोधात् ।
 मातृब्रह्मचारिव्यतिरिक्तस्य प्रकृतस्याभावात् ॥७॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_07_vapantamuttarayAnumantrayate.md">
@@ -430,7 +413,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 आनडुहे शकृत्पिण्डे यवान् निधाय तस्मिन् केशान् उपयम्योत्तरया +++("उप्त्वाय केशा"नित्येतया)+++ उम्बर-मूले दर्भ-स्तम्बे वा निदधाति ८  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/08_uptvAya_keshAn.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/08_uptvAya_keshAn.md">
 
 **उ॒प्त्वास्य॒** केशा॒न् वरु॑णस्य॒ राज्ञो॒,  
 बृह॒स्पति॑स् सवि॒ता सोमो॑ अ॒ग्निः ।  
@@ -438,11 +421,9 @@ title = "०७ उपनयनप्रकरणम्"
 अन्त॒रा द्यावा॑पृथि॒वी अ॒पस् सुवः॑ ॥  
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_08_AnaDuhe_shakRtpiNDe.md">
-
 <details><summary>Oldenberg</summary>
 
 8. Towards the south, his mother or a Brahmacārin strews barley-grains on a lump of bull's dung; with this (dung) she catches up the hair (that is cut off), and puts it down with the next (verse; M. II, 1, 8) at the root of an Udumbara tree or in a tuft of Darbha grass.
@@ -465,7 +446,6 @@ title = "०७ उपनयनप्रकरणम्"
 तन्नैतद् वपनं नापितस् समापयतीत्यत्र वचनाभावात्, तत् कल्पनायां चानुपत्त्य् अभावात् ।
 प्रशब्दस्य निपातस्य प्रमाणान्तरावगतार्थद्योतकत्वात्, उक्तसूत्रभेदेन स्ववाक्योक्तस्यैव मात्रादेरनुमन्त्रणकर्तृत्वोपपत्तेश्च ॥८॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_08_AnaDuhe_shakRtpiNDe.md">
@@ -481,7 +461,7 @@ title = "०७ उपनयनप्रकरणम्"
 स्नातम् +++(शुचि-वाससं बद्ध-शिखं यज्ञोपवीतिनम्)+++ अग्नेर् उपसमाधानाद्य् आज्य-भागान्ते +++(शम्याः परिध्यर्थे, सकृत्पात्रप्रयोगः)+++  
 पालाशीं समिधम् उत्तरया +++("आयुर्दा देव"इत्येतया ऽऽचार्योक्तया)+++ ऽऽधाप्य  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/01_AyurdA_deva.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/01_AyurdA_deva.md">
 
 आ॒यु॒र्दा दे॑व ज॒रसं॑ गृणा॒नो  
 घृ॒त+++(√ क्षरणदीप्त्यो)+++-प्र॑तीको+++(=अवयवो)+++ घृ॒त-पृ॑ष्ठो अग्ने ।  
@@ -493,8 +473,8 @@ title = "०७ उपनयनप्रकरणम्"
 उत्तरेण अग्निं, दक्षिणेन पदा ऽश्मानम् आस्थापयत्य् - आतिष्ठेति ९  
 +++(तत्रैव चावस्थापनं यावत् तिष्ठति। )+++
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/02_AtiShThemamashmAnamashmeva_tva2m.md">
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/01_AtiShThemamashmAnamashmeva_tva2m.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/02_AtiShThemamashmAnamashmeva_tva2m.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/01_AtiShThemamashmAnamashmeva_tva2m.md">
 
 आति॑ष्ठे॒मम् अश्मा॑न॒म्  
 अश्मे॑व॒ त्वँ स्थि॒रा+++(रो पुंसि)+++ भ॑व ।  
@@ -503,11 +483,9 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_09_snAtam_agner.md">
-
 <details><summary>Oldenberg</summary>
 
 9. [^3]  After (the boy) has bathed, and (the ceremonies) from the putting (of wood) on (the fire) down to the Ājyabhāga oblations (have been performed), he causes him to put a piece of Palāśa wood on the fire with the next (verse; M. II, 2, 1), and makes him tread with his right foot on a stone to the north of the fire, with (the verse), 'Tread' (M. II, 2, 2).
@@ -548,7 +526,6 @@ title = "०७ उपनयनप्रकरणम्"
 अत एवोक्तं "मन्त्रमुक्त्वा"ऽऽधेहि जुहुधीति ब्रूयात्" इति ।
 शेषं व्यक्तम् ॥९॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_09_snAtam_agner.md">
@@ -560,68 +537,84 @@ title = "०७ उपनयनप्रकरणम्"
 ## १० १० वासः
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_10_vAsaH.md">
+<details open><summary><h3>१० १० वासः …{Loading}…</h3></summary>
 
 वासः सद्यःकृत्तोतम् +++(=सद्यः कृत्तम् ऊतं च - विनूतनम्)+++ उत्तराभ्याम् +++("रेवतीस्त्वे"त्येताभ्यां)+++ अभिमन्त्र्य  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/03-04_revatIstvA_vyaxNankRttikAshchAkRnta2m.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/03_revatIstvA_vyaxNan.md">
+<details open><summary><h5>०३ रेवतीस्त्वा व्यक्ष्णन् …{Loading}…</h5></summary>
 
-+++(नक्षत्रेषु)+++ रे॒वती॑स् त्वा॒ **व्य॑क्ष्ण॒न्**+++(=व्यध्वंसयन् [मेषादिभ्यः])+++  
-कृत्ति॑का॒श् **चाकृ॑न्तँस्** त्वा ।  
-धियो॑ **ऽवय॒न्न्**, अव॒ ग्न+++(=देवता)+++ **आ॑वृञ्जन्त्**+++(=अच्छिन्दन्)+++  
-स॒हस्र॒म् अन्ताँ॑+++(=दशासूत्राणि)+++ अ॒भितो॑ **अयच्छन्** ।  
++++(नक्षत्रेषु)+++ रेव᳓तीस् त्वा **व्य᳙क्ष्णन्**+++(=व्यध्वंसयन् [मेषादिभ्यः])+++  
+कृ᳓त्तिकाश् **चा᳓कृन्तँस्** त्वा ।  
+धि᳓यो **ऽवयन्न्**, अ᳓व ग्ना᳓+++(=देवता)+++ **अवृञ्जन्त्**+++(=अच्छिन्दन्)+++  
+सह᳓स्रम् अ᳓न्ताँ+++(=दशासूत्राणि)+++ अभि᳓तो **अयच्छन्** ।
 
-दे॒वीर् दे॒वाय॑ +++(वस्त्र)+++परि॒धी+++(धौ)+++ स॑वि॒त्रे ।  
-म॒हत् तद् आ॑साम् **अभवन्** महित्व॒नम्+++(=महत्वम्)+++ ।+++(र४)+++  
+</details>
+</div>
 
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/04_devIrddevAya_paridhI.md">
+<details open><summary><h5>०४ देवीर्देवाय परिधी सवित्रे …{Loading}…</h5></summary>
+
+देवी᳓र् देवा᳓य +++(वस्त्र)+++परिधी᳓+++(धौ)+++ सवित्रे᳓ ।  
+मह᳓त् त᳓द् आसाम् **अभवन्** महित्वन᳓म्+++(=महत्वम्)+++ ।+++(र४)+++
+
+</details>
 </div>  
 
 ##### वासः-परिधापनम्
 उत्तराभिस्तिसृभिः +++("या अकृन्त"न्नित्येताभिः)+++ परिधाप्य  
 
 +++(पूर्वमन्त्रस्योल्लेखो ऽत्र)+++  
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/05_yA_akRntannavayan.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/05_yA_akRntannavayan.md">
+<details open><summary><h5>०५ या अकृन्तन्नवयन् …{Loading}…</h5></summary>
 
-या **अकृ॑न्त॒न्न् अव॑य॒न्** या **अत॑न्वत॒**  
-याश् च॑ दे॒वीर् +++(वस्त्रस्य)+++ अन्ता॑न् अ॒भितो॑ **ऽददन्त**+++(←दद् दाने)+++ ।  
-तास् त्वा॑ दे॒वीर् ज॒रसे॒ **संव्य॑य॒न्त्व्**  
-आयु॑ष्मान् इ॒दं **परि॑धत्स्व॒** वासः॑ ।  
+या᳓ **अ᳓कृन्तन्न् अ᳓वयन्** या᳓ **अ᳓तन्वत**  
+या᳓श् च देवी᳓र् +++(वस्त्रस्य)+++ अ᳓न्तान् अभि᳓तो **ऽददन्त**+++(←दद् दाने)+++ ।  
+ता᳓स् त्वा देवी᳓र् जर᳓से **सं᳓व्ययन्त्व्**  
+आ᳓युष्मान् इदं᳓ **प᳓रिधत्स्व** वा᳓सः ।  
 
+</details>
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/06_paridhatta_dhatta.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/06_paridhatta_dhatta.md">
+<details open><summary><h5>०६ परिधत्त धत्त …{Loading}…</h5></summary>
 
-**परि॑धत्त धत्त॒** वास॑सैनँ  
-श॒तायु॑षं **कृणुत** दी॒र्घम् आयुः॑ ।  
-बृह॒स्पतिः॒ **प्राय॑च्छ॒द्** वास॑ ए॒तत्  
-सोमा॑य॒ राज्ञे॒ **परि॑धात॒वा** उ॑ ।  
+**प᳓रिधत्त धत्त** वा᳓ससैनँ  
+शता᳓युषं **कृणुत** दीर्घ᳓म् आ᳓युः ।  
+बृ᳓हस्प᳓तिः **प्रा᳓यच्छद्** वा᳓स एत᳓त्  
+सो᳓माय रा᳓ज्ञे **प᳓रिधातवा᳓** उ ।  
 
+</details>
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/07_jarA~N_gachChAsi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/07_jarA~N_gachChAsi.md">
+<details open><summary><h5>०७ जराङ् गच्छासि …{Loading}…</h5></summary>
 
-ज॒रां **ग॑च्छासि॒, परि॑धत्स्व॒** वासो॒  
-**भवा॑** कृष्टी॒नाम्+++(=मनुष्याणां)+++ अ॑भिशस्ति॒-पावा॑+++(ता)+++ ।  
-श॒तञ् च॑ **जीव** श॒रद॑स् सु॒वर्चा॑  
-रा॒यश् च॒ पोष॒म् उप॒ **संव्य॑यस्व** +++(वासो यथा रायस्पोषं भवति तथा)+++।  
+जरां᳓ **गच्छासि, प᳓रिधत्स्व** वा᳓सो  
+**भ᳓वा** कृष्टीना᳓म्+++(=मनुष्याणां)+++ अभिशस्ति-पा᳓वा+++(ता)+++ ।  
+शत᳓ञ् च **जीव** शर᳓दस् सुव᳓र्चा  
+राय᳓श् च पो᳓षम् उ᳓प **सं᳓व्ययस्व** +++(वासो यथा रायस्पोषं भवति तथा)+++।  
 
+</details>
 </div>
 
 परिहितम् उत्तरयानुमन्त्रयते +++("परीदं वास")+++ १०  
 
 +++(परिहितवन्तं कुमारम् उत्तरयानुमन्त्रयते)+++  
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/08_parIdaM_vAso.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/08_parIdaM_vAso.md">
+<details open><summary><h5>०८ परीदं वासो …{Loading}…</h5></summary>
 
-परी॒दं वासो॒ **अधि॑+++(+अ)+++धास्** स्व॒स्तये  
-**ऽभू॑र्** आपी॒नाम्+++(=आप्तानां)+++ अ॑भिशस्ति॒-पावा॑+++(ता!)+++ ।  
-श॒तञ् च॑ **जीव** श॒रदः॑ पुरू॒चीर्+++(=बहुगतीः)+++  
-वसू॑नि चा॒र्यो **वि॑भजासि॒+++(←स्वरः??)+++ जीव॑न्** ।  
+प᳓रीदं᳓ वा᳓सो **अ᳓धि+++(+अ)+++धास्** स्वस्त᳓ये  
++**अ᳓भूर्** आपीना᳓म्+++(=आप्तानां)+++ अभिशस्ति-पा᳓वा+++(ता!)+++ ।  
+शत᳓ञ् च **जीव** शर᳓दः पुरूची᳓र्+++(=बहुगतीः)+++  
+व᳓सूनि चार्यो᳓ **वि᳓भजासि+++(~~विभजासि~~)+++ जी᳓वन्** ।  
 
+</details>
 </div>
-
+</details>
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_10_vAsaH.md">
-
 <details><summary>Oldenberg</summary>
 
 10. Having recited the next two (verses; M. II. 2, 3. 4) over a garment that has been spun and woven on one day, and has caused him, with the next three (verses; M. II. 2, 5-7), to put it on, he recites over him, after he has put it on, the next (verse; M. II, 2, 8).
@@ -646,7 +639,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 एवंभूतं"रेवतीस्त्वा" इति द्वाभ्यामभिमन्त्र्य"या अकृन्तन्" इत्येताभिस् **तिसृभिः परिधाप्य परिहितं** कुमारं "परीदं वासः" (२)इत्यनया**ऽनुमन्त्रयते** ॥१०॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_10_vAsaH.md">
@@ -662,7 +654,7 @@ title = "०७ उपनयनप्रकरणम्"
 ##### मौञ्जी
 मौञ्जीं मेखलां त्रिवृतां+++(तं)+++ त्रिःप्रदक्षिणम् उत्तराभ्यां +++("इयं दुरुक्ता"दित्येताभ्यां कुमारोक्ताभ्यां)+++ परिवीय  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/09_iyan_duruktAtparibAdhamAnA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/09_iyan_duruktAtparibAdhamAnA.md">
 
 इ॒यं दुरु॑क्तात् **परि॒बाध॑माना॒**  
 शर्म॒ वरू॑थं+++(=वरणीयं)+++ **पुन॒ती** न॒ **आगा॑त्** ।  
@@ -671,7 +663,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/10_Rtasya_goptrI.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/10_Rtasya_goptrI.md">
 
 ऋ॒तस्य॑ **गो॒प्त्री**, तप॑सः **पर॒स्+++(=प्र)+++पी**+++(=पात्री)+++  
 घ्न॒ती रक्ष॒स् **सह॑माना॒** अरा॑तीः ।  
@@ -685,7 +677,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 +++(धर्मसूत्रेषु - "क्षत्र-वृद्धिम् इच्छन् वस्त्राण्य्, एवोभय-वृद्धिम् इच्छन्न् उभयमिति हि ब्राह्मणम् ९" इत्यादि विकल्पा उक्ताः। तस्मिन् पक्षे ऽजिनप्रतिनिधित्वेन प्रायेण ग्राह्यं वस्त्रम्। )+++
 
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/11_mitrasya_chaxurdharuNam.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/11_mitrasya_chaxurdharuNam.md">
 
 ##### ११ मित्रस्य चक्षुर्धरुणम् …{Loading}…
 
@@ -695,11 +687,9 @@ title = "०७ उपनयनप्रकरणम्"
 परी॒दं वा॒ज्य्+++(=अन्नवत्)+++ अजिन॑न् **दधे॒** ऽहम् ॥ (२)
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_11_maunjIm_mekhalAm.md">
-
 <details><summary>Oldenberg</summary>
 
 11. [^4]  He ties thrice around him, from left to right, a threefold-twisted girdle of Muñja grass with the next two (verses; M. II. 2, 9. 10), and (gives him) a skin as his outer garment with the next (verse; II, 2, 11).
@@ -732,7 +722,6 @@ title = "०७ उपनयनप्रकरणम्"
 ज्या राजन्यस्य"(आप.ध.१-२-३३,३४.) इत्यादीनां प्रदर्शनार्थम् ।
 **अजिनं**"कृष्णं ब्राह्मणस्य" (आप.ध.१-३-३) इत्यादि धर्मशास्त्रे विहितम् **उत्तरं वासः** करोति "मित्रस्य चक्षुः" इत्येतया ॥११॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_11_maunjIm_mekhalAm.md">
@@ -745,16 +734,20 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_12_uttareNAgnin_darbhAn.md">
 
+<details open><summary><h3>१० १२ उत्तरेणाग्निन् दर्भान् …{Loading}…</h3></summary>
+
 उदकाञ्जलिम् अस्मा अञ्जलाव् +++(प्रोक्षणार्थम्)+++ आनीयोत्तरया +++("समुद्रादूर्मि"रित्येतया)+++ त्रिः प्रोक्ष्य  +++(कुमार-कृत्यम् एतत्। आचार्यः प्रोक्षति तत इति विश्वासः। सकृत् मन्त्रेण, द्विस्तूष्णीम् ।)+++
 
 +++(प्रोक्षणमन्त्रः)+++  
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/02_samudrAdUrmirmadhumAM_udAradupAMshunA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/02_samudrAdUrmirmadhumAM_udAradupAMshunA.md">
+<details open><summary><h5>०२ समुद्रादूर्मिर्मधुमां उदारदुपांशुना …{Loading}…</h5></summary>
 
-स॒मु॒द्राद् ऊ॒र्मिर् मधु॑माँ॒ **उदा॑रद्** +++(=उदागमद् [एतैः प्रोक्षणबिन्दुभिः])+++  
-उपाँ॒शुना॒+++(=उपांशैः →अंशुनिभैः)+++ सम् अ॑मृत॒त्वम् **अ॑श्याम्** ।  
-इ॒मे नु ते र॒श्मय॒स् सूर्य॑स्य॒  
-येभि॑स् सपि॒त्वं+++(=समानपानं)+++ पि॒तरो॑ न॒ **आय॑न्** ।  
+समुद्रा᳓द् ऊर्मि᳓र् म᳓धुमाँ **उ᳓दारद्** +++(=उदागमद् [एतैः प्रोक्षणबिन्दुभिः])+++  
+उपाँशु᳓ना+++(=उपांशैः →अंशुनिभैः)+++ स᳓म् अमृतत्व᳓म् **अश्याम्** ।  
+इमे᳓ नु᳓ ते᳓ रश्म᳓यस् सू᳓र्यस्य  
+ये᳓भिस् सपित्वं᳓+++(=समानपानं)+++ पित᳓रो न **आ᳓यन्** ।  
 
+</details>
 </div>
 
 +++(यैः रश्मिभिस् सह वामदेवस्य पितरो सोमपानं कृतवन्तः , तत्कारणका बिन्दवो मयि पतिताः )+++
@@ -762,20 +755,85 @@ title = "०७ उपनयनप्रकरणम्"
 ##### हस्तग्रहणम्
 उत्तरैर् +++(अग्निष्टे हस्तमग्रमीदित्यादिभिः)+++ दक्षिणे हस्ते गृहीत्वा +++(- प्रतिमन्त्रं ग्रहणावृत्तिः)+++  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/03-12_agniShTe_hastamagrabhItsomaste.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/03_agniShTe_hastamagrabhIt.md">
+<details open><summary><h5>०३ अग्निष्टे हस्तमग्रभीत् …{Loading}…</h5></summary>
 
-अ॒ग्निष् टे॒ हस्त॑म् **अग्रभी+++(ही)+++त्**।  
-सोम॑स् ते॒ हस्त॑म् **अग्रभीत्**।  
-स॒वि॒ता ते॒ हस्त॑म् **अग्रभीत्।**  
-सर॑स्वती ते॒ हस्त॑म् **अग्रभीत्।**  
-पू॒षा ते॒ हस्त॑म् **अग्रभीत्।**  
-अ॒र्य॒मा ते॒ हस्त॑म् **अग्रभीत्।**  
-अँशु॑स् ते॒ हस्त॑म् **अग्रभीत्।**  
-भग॑स् ते॒ हस्त॑म् **अग्रभीत्।**  
-मि॒त्रस् ते॒ हस्त॑म् **अग्रभीत्।**  
-मि॒त्रस् त्वम् **अ॑सि॒** धर्म॑णा॒,  
-ऽग्निर् आ॑चा॒र्यस् तव॑ ।+++(५)+++ 
+अग्नि᳓ष् टे ह᳓स्तम् **अग्रभी+++(ही)+++त्**।
 
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/04_somaSte_hastamagrabhIt.md">
+<details open><summary><h5>०४ सोमस्ते हस्तमग्रभीत् …{Loading}…</h5></summary>
+
+सो᳓मस् ते ह᳓स्तम् **अग्रभीत्**।
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/05_savitA_te_hastamagrabhIt.md">
+<details open><summary><h5>०५ सविता ते हस्तमग्रभीत् …{Loading}…</h5></summary>
+
+सविता᳓ ते ह᳓स्तम् **अग्रभीत्।**
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/06_sarasvatI_te_hastamagrabhIt.md">
+<details open><summary><h5>०६ सरस्वती ते हस्तमग्रभीत् …{Loading}…</h5></summary>
+
+स᳓रस्वती ते ह᳓स्तम् **अग्रभीत्।**
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/07_pUShA_te_hastamagrabhIt.md">
+<details open><summary><h5>०७ पूषा ते हस्तमग्रभीत् …{Loading}…</h5></summary>
+
+पूषा᳓ ते ह᳓स्तम् **अग्रभीत्।**
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/08_aryamA_te_hastamagrabhIt.md">
+<details open><summary><h5>०८ अर्यमा ते हस्तमग्रभीत् …{Loading}…</h5></summary>
+
+अर्यमा᳓ ते ह᳓स्तम् **अग्रभीत्।**
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/09_aMshuste_hastamagrabhIt.md">
+<details open><summary><h5>०९ अँशुस्ते हस्तमग्रभीत् …{Loading}…</h5></summary>
+
+अँ᳓शुस् ते ह᳓स्तम् **अग्रभीत्।**
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/10_bhagaste_hastamagrabhIt.md">
+<details open><summary><h5>१० भगस्ते हस्तमग्रभीत् …{Loading}…</h5></summary>
+
+भ᳓गस् ते ह᳓स्तम् **अग्रभीत्।**
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/11_mitraste_hastamagrabhIt.md">
+<details open><summary><h5>११ मित्रस्ते हस्तमग्रभीत् …{Loading}…</h5></summary>
+
+मित्र᳓स् ते ह᳓स्तम् **अग्रभीत्।**
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/12_mitrastvamasi_dharmaNA.md">
+<details open><summary><h5>१२ मित्रस्त्वमसि धर्मणा …{Loading}…</h5></summary>
+
+मित्र᳓स् त्व᳓म् **असि** ध᳓र्मणा,  
+ऽग्नि᳓र् आचार्य᳓स् त᳓व ।+++(५)+++
+
+</details>
 </div>
 
 +++(कीदृशश्च सः? मित्रं देवा अब्रुवन्त - सोमं राजानं हनामेति। सो ऽब्रवीन् - नाहं सर्वस्य वा अहं मित्रम् अस्मि ।)+++
@@ -784,50 +842,126 @@ title = "०७ उपनयनप्रकरणम्"
 उत्तरैर् +++("अग्नये त्वा परिददामी"त्यादिभिः)+++ देवताभ्यः परीदाय  
 
 +++(असौशब्दस्य स्थाने माणवकस्य नाम निर्देशः संबुद्ध्या ॥)+++  
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/13_-23_agnaye_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/13_agnaye_tvA.md">
+<details open><summary><h5>१३ अग्नये त्वा …{Loading}…</h5></summary>
 
-+++(असौशब्दस्य स्थाने माणवकस्य नाम निर्देशः संबुद्ध्या, स्वरं विना ॥)+++  
++++(असौशब्दस्य स्थाने माणवकस्य नाम निर्देशः संबुद्ध्या, स्वरं विना ॥)+++
 
-अ॒ग्नये॑ त्वा॒ परि॑ददाम्य्+++(→रक्षार्थे दानं परिदानम्)+++ असौ।  
-सोमा॑य त्वा॒ परि॑ददाम्य् असौ।  
-स॒वि॒त्रे त्वा॒ परि॑ददाम्य् असौ।  
-सर॑स्वत्यै त्वा॒ परि॑ददाम्य् असौ।  
-मृ॒त्यवे॑ त्वा॒ परि॑ददाम्य् असौ।  
-य॒माय॑ त्वा॒ परि॑ददाम्य् असौ।  
-ग॒दाय॑ त्वा॒ परि॑ददाम्य् असौ।  
-अन्त॑काय त्वा॒ परि॑ददाम्य् असौ।  
-अ॒द्भ्यस् त्वा॒ परि॑ददाम्य् असौ।  
-ओष॑धीभ्यस् त्वा॒ परि॑ददाम्य् असौ।  
-पृ॒थि॒व्यै त्वा॒ सवै॑श्वान॒रायै॒+++(←उदात्तद्वयम्??)+++ परि॑ददाम्य् असौ ।  
+अग्न᳓ये त्वा प᳓रिददाम्य्+++(→रक्षार्थे दानं परिदानम्)+++ असौ।
 
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/14_somAya_tvA.md">
+<details open><summary><h5>१४ सोमाय त्वा …{Loading}…</h5></summary>
+
+सो᳓माय त्वा प᳓रिददाम्य् असौ।
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/15_savitre_tvA.md">
+<details open><summary><h5>१५ सवित्रे त्वा …{Loading}…</h5></summary>
+
+सवित्रे᳓ त्वा प᳓रिददाम्य् असौ।
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/16_sarasvatyai_tvA.md">
+<details open><summary><h5>१६ सरस्वत्यै त्वा …{Loading}…</h5></summary>
+
+स᳓रस्वत्यै त्वा प᳓रिददाम्य् असौ।
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/17_mRtyave_tvA.md">
+<details open><summary><h5>१७ मृत्यवे त्वा …{Loading}…</h5></summary>
+
+मृत्य᳓वे त्वा प᳓रिददाम्य् असौ।
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/18_yamAya_tvA.md">
+<details open><summary><h5>१८ यमाय त्वा …{Loading}…</h5></summary>
+
+यमा᳓य त्वा प᳓रिददाम्य् असौ।
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/19_gadAya_tvA.md">
+<details open><summary><h5>१९ गदाय त्वा …{Loading}…</h5></summary>
+
+गदा᳓य त्वा प᳓रिददाम्य् असौ।
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/20_antakAya_tvA.md">
+<details open><summary><h5>२० अन्तकाय त्वा …{Loading}…</h5></summary>
+
+अ᳓न्तकाय त्वा प᳓रिददाम्य् असौ।
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/21_adbhyaste_tvA.md">
+<details open><summary><h5>२१ अद्भ्यस्त्वा …{Loading}…</h5></summary>
+
+अद्भ्य᳓स् त्वा प᳓रिददाम्य् असौ।
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/22_oShadhIbhyaste_tvA.md">
+<details open><summary><h5>२२ ओषधीभ्यस्त्वा …{Loading}…</h5></summary>
+
+ओ᳓षधीभ्यस् त्वा प᳓रिददाम्य् असौ।
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/23_pRthivyai_tvA.md">
+<details open><summary><h5>२३ पृथिव्यै त्वा …{Loading}…</h5></summary>
+
+पृथिव्यै᳓ त्वा स᳓वैश्वानरा᳓यै+++(←उदात्तद्वयम्??)+++ प᳓रिददाम्य् असौ ।
+
+</details>
 </div>
 
 #### उपनयनम्
 उत्तरेण यजुषा +++("देवस्य त्वा सवितुः" इत्येतेन स्वसमीपं)+++ +उपनीय  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/24_devasya_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/24_devasya_tvA.md">
+<details open><summary><h5>२४ देवस्य त्वा …{Loading}…</h5></summary>
 
-दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒व+++(=अनुज्ञायाम्)+++ उप॑नये॒ ऽसौ +++(←नामनिर्देशः पूर्ववत् । केचित्तु - अन्तोदात्तस्य पाठात् आचार्यस्य नाम्नः प्रथमया निर्देशं मन्यन्ते ॥ )+++ ।  
+देव᳓स्य त्वा सवितुः᳓ प्रसव᳓+++(=अनुज्ञायाम्)+++ उ᳓पनये ऽसौ᳓ +++(←नामनिर्देशः पूर्ववत् । केचित्तु - अन्तोदात्तस्य पाठात् आचार्यस्य नाम्नः प्रथमया निर्देशं मन्यन्ते ॥ )+++ ।  
 
+</details>
 </div>
 
 सुप्रजा इति +++("सुपोषः पोषै"रित्येवमन्तम्)+++ दक्षिणे कर्णे जपति १२  
 
 +++(कर्णे जपः)+++
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/25_suprajAH_prajayA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/25_suprajAH_prajayA.md">
+<details open><summary><h5>२५ सुप्रजाः प्रजया …{Loading}…</h5></summary>
 
-सु॒प्र॒जाः प्र॒जया॑ **भूयास्**,  
-सु॒वीरो॑ वी॒रैस्,  
-सु॒वर्चा॒ वर्च॑सा,  
-सु॒पोषः॒ पोषैः॑ ।  
+सुप्रजाः᳓ प्रज᳓या **भूयास्**,  
+सुवी᳓रो वीरै᳓स्,  
+सुव᳓र्चा व᳓र्चसा,  
+सुपो᳓षः पो᳓षैः ।  
 +++(→सूपसर्ग-बहुव्रीहाव् उत्तरपदादिर् उदात्तः। )+++  
 
+</details>
 </div>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_12_uttareNAgnin_darbhAn.md">
-
 <details><summary>Oldenberg</summary>
 
 12. [^5]  To the north of the fire (the teacher) spreads out Darbha grass; on that he causes (the boy) to station himself with the next (verse; M. II. 3, 1), pours his joined hands full of water into (the boy's) joined hands, makes him sprinkle himself three times with the next (verse; M. II, 3, 2), takes hold of his right hand with the next (formulas; M. II, 3, 3-12), gives him with the next (formulas; M. II, 3, 13-23) in charge to the deities (mentioned in those Mantras), initiates him with the next Yajus (M. II, 3, 24), and murmurs into his right ear the (Mantra), 'Blessed with offspring' (II, 3, 25).
@@ -877,7 +1011,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 इति श्रीसुदर्शनाचार्यविरचिते गृह्यतात्पर्यदर्शने दशमः खण्डः ॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_12_uttareNAgnin_darbhAn.md">
@@ -893,16 +1026,14 @@ title = "०७ उपनयनप्रकरणम्"
 "ब्रह्मचर्यम् आगाम्" इति +++(सवित्रा प्रसूत इत्येवमन्तो मन्त्रः)+++ कुमार आह १  
 
 +++(कुमारस्य मन्त्रः)+++  
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/26_brahmacharyamAgAmupa_mAnayasva.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/26_brahmacharyamAgAmupa_mAnayasva.md">
 
 ब्र॒ह्म॒चर्य॒म् आगा॒म्, उप॒ माऽऽन॑यस्व, दे॒वेन॑ सवि॒त्रा प्रसू॑तः+++(=अनुज्ञातः)+++ ।  
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_01_brahmacharyamAgAmiti_kumAra.md">
-
 <details><summary>Oldenberg</summary>
 
 1. The boy says, 'I am come to be a student' (II, 3, 26).
@@ -917,7 +1048,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 व्यक्तम् ॥१॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_01_brahmacharyamAgAmiti_kumAra.md">
@@ -932,7 +1062,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 प्रष्टं परस्य प्रतिवचनं कुमारस्य २  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/27_ko_nAmAsi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/27_ko_nAmAsi.md">
 
 +++(आचार्यः-)+++ को नामा॑सि?  
 +++(ब्रह्मचारी-)+++ अ॒सौ+++(←नामनिर्देशः प्रथमया)+++ नामा॑ऽस्मि।  
@@ -940,11 +1070,9 @@ title = "०७ उपनयनप्रकरणम्"
 +++(ब्रह्मचारी-)+++ "प्रा॒णस्य॑ ब्रह्मचा॒र्य् अ॑स्मि अ॒सौ"+++(←स्वनामनिर्देशः प्रथमया)+++।
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_02_praShTam_parasya.md">
-
 <details><summary>Oldenberg</summary>
 
 2. The other (i.e. the teacher) has to ask; the boy has to answer (II, 3, 27-30).
@@ -975,7 +1103,6 @@ title = "०७ उपनयनप्रकरणम्"
 "कस्य ब्रह्मचार्यसि विष्णुशर्मन्?" इत्याचार्यः ।
 "प्राणस्य ब्रह्मचार्यस्मि" इति कुमारः ॥२॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_02_praShTam_parasya.md">
@@ -990,7 +1117,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 शेषं +++("एष ते देव सूर्ये")+++ परो +++(आचार्यः)+++ जपति ३  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/28_eSha_te.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/28_eSha_te.md">
 
 +++(आचार्यः-)+++ ए॒ष ते॑ देव सूर्य ब्रह्मचा॒री।  
 तं गो॑पाय, स॒ मा मृ॑त।  
@@ -999,11 +1126,9 @@ title = "०७ उपनयनप्रकरणम्"
 ताँ स्व॒स्तिम् अनु॒ **सञ्च॑रासौ**+++(←नामनिर्देशस्संबुद्ध्या)+++ ।
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_03_sheSham_paro.md">
-
 <details><summary>Oldenberg</summary>
 
 3. The other murmurs the rest (of the Anuvāka),
@@ -1019,7 +1144,6 @@ title = "०७ उपनयनप्रकरणम्"
 **शेषम्** अनुवाकशेषैकदेशं "विष्णुशर्मैष ते देव" इत्यादि "अनुसञ्चर विष्णुशर्मन्" इत्येवमन्तमाचार्यो जपति ।
 "अध्वनामध्वपते" इत्यस्य प्रत्यगाशिषो वाचनविधानात् ॥३॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_03_sheSham_paro.md">
@@ -1034,16 +1158,14 @@ title = "०७ उपनयनप्रकरणम्"
 
 प्रत्यगाशिषं +++(आत्मगाम्याशीःफलं यस्मिन्मन्त्रे,अध्वनामित्यारभ्य आ उपनयनसमाप्तेर्ये प्रत्यगाशिषो मन्त्राः"योगे"इत्यादयः )+++ चैनं वाचयति ४  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/29_addhvanAmaddhvapate_shreShThasyAddhvanaH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/29_addhvanAmaddhvapate_shreShThasyAddhvanaH.md">
 
 +++(ब्रह्मचारी सूर्यम् प्रति-)+++ अध्व॑नाम् अध्वपते॒ +++(सूर्य)+++ श्रेष्ठ॒स्याऽध्व॑नः॒ +++(ब्रह्मचर्यामार्गस्य)+++ पा॒रम् अ॑शीय ॥ (3)
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_04_pratyagAshiSha~n_chainam.md">
-
 <details><summary>Oldenberg</summary>
 
 4. And causes the boy to repeat (the Mantra) which contains wishes for himself (II, 3, 32).
@@ -1060,7 +1182,6 @@ title = "०७ उपनयनप्रकरणम्"
 जात्यभिप्रायमेकवचनम् ।
 अध्वनामित्यारभ्य आ उपनयनसमाप्तेर् ये प्रत्यगाशिषो मन्त्राः"योगे योगे" इत्यादयः, तान् सर्वान् कुमारं **वाचयति** ॥४॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_04_pratyagAshiSha~n_chainam.md">
@@ -1078,7 +1199,6 @@ title = "०७ उपनयनप्रकरणम्"
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_05_uktamAjyabhAgAntam.md">
-
 <details><summary>Oldenberg</summary>
 
 5. [^1]  (The rites) down to the Ājyabhāgas have been prescribed.
@@ -1095,7 +1215,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 +++(सम्पादकटिप्पनी - "सूत्रमेतद् अग्रिमे सूत्रे व्याख्यातम्" )+++
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_05_uktamAjyabhAgAntam.md">
@@ -1114,8 +1233,8 @@ title = "०७ उपनयनप्रकरणम्"
 
 +++(ते च सर्वे माणवकस्यैव । द्वितीयचतुर्थाव् आचार्यस्येत्येके ।)+++
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/01_yogeyoge_tavastaram.md">
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/030/07_yogeyoge_tavastaraM.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/01_yogeyoge_tavastaram.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/030/07_yogeyoge_tavastaraM.md">
 
 ####### ०७ योगेयोगे तवस्तरं …{Loading}…
 
@@ -1126,7 +1245,7 @@ title = "०७ उपनयनप्रकरणम्"
 </div>
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/02_imamagna_AyuShe.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/02_imamagna_AyuShe.md">
 
 ###### ०२ इममग्न आयुषे …{Loading}…
 
@@ -1139,8 +1258,8 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/03_shataminnu_sharado.md">
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/09_shataminnu_sharado.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/03_shataminnu_sharado.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/09_shataminnu_sharado.md">
 
 शत᳓म् इ᳓न् नु᳓ शर᳓दो अ᳓न्ति+++(कं)+++ देवा,  
 य᳓त्रा नश् **चक्रा᳓**+++(क्रुः)+++ जर᳓सन् तनू᳓नाम् ।  
@@ -1153,7 +1272,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/04_agniShTa_AyuH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/04_agniShTa_AyuH.md">
 
 अ॒ग्निष् ट॒ आयुः॑ प्र+++(कृष्ट)+++त॒रां **द॑धात्व्**  
 अ॒ग्निष् टे॒ पुष्टिं॑ प्रत॒रां **कृ॑णोतु** ।  
@@ -1164,7 +1283,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/05_medhAm_mahyamangiraso.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/05_medhAm_mahyamangiraso.md">
 
 मे॒धां मह्य॒म् अङ्गि॑रसो  
 मे॒धाँ स॑प्तऋ॒षयो॑ **ददुः** ।  
@@ -1175,7 +1294,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/06_apsarAsu_yA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/06_apsarAsu_yA.md">
 
 अ॒प्स॒रासु॒ या मे॒धा  
 ग॑न्ध॒र्वेषु॑ च॒ यद् यशः॑ ।  
@@ -1186,7 +1305,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 
 इमं᳓ मे वरुण श्रुधी +++(=श्रुणु)+++  
 ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च मृळय +++(=सुखय)+++।  
@@ -1194,7 +1313,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
 
 त᳓त् त्वा **यामि** ब्र᳓ह्मणा **व᳓न्दमानस्**  
 त᳓द् **आ᳓ शास्ते** य᳓जमानो हवि᳓र्भिः ।  
@@ -1203,7 +1322,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
 
 त्व᳓न् नो अग्ने व᳓रुणस्य विद्वा᳓न्  
 देव᳓स्य हे᳓डो᳓+++(=क्रोधो )+++ ऽव यासिसीष्ठाः+++(=यक्षीष्ठाः)+++ ।  
@@ -1214,7 +1333,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
 
 स᳓ त्व᳓न् नो अग्ने ऽवमो᳓+++(=मूलभूतो)+++ **भव**+ऊती᳓+++(त्या)+++  
 +++(“अग्निरवमो देवतानां विष्णुः परमः” इति ब्राह्मणम्)+++  
@@ -1226,7 +1345,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/16_tvamagne_ayA-syayA.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/16_tvamagne_ayA-syayA.md">
 
 ##### १६ त्वमग्ने अयाऽस्यया …{Loading}…
 
@@ -1236,11 +1355,9 @@ title = "०७ उपनयनप्रकरणम्"
 ऽया नो॑ **धेहि** भेष॒जम् ॥ (4)
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_06_atrainamuttarA_AhutIrhAvayitvA.md">
-
 <details><summary>Oldenberg</summary>
 
 6. Having then caused him to sacrifice the oblations (indicated in the) next (Mantras; M. II, 4, 1-11), he enters upon (the performance) of the Jaya and following oblations.
@@ -1280,7 +1397,6 @@ title = "०७ उपनयनप्रकरणम्"
 ततश्च अग्निर्भूतानामधिपतिस्समावतु" इत्यादीनां प्रत्यगाशिषामपि वाचनं न भवति ।
 नैव च हावनम् ॥६॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_06_atrainamuttarA_AhutIrhAvayitvA.md">
@@ -1297,16 +1413,14 @@ title = "०७ उपनयनप्रकरणम्"
 ऽपरेणाग्निम् उदग्-अग्रं कूर्चं निधाय  
 तस्मिन्न् उत्तरेण +++("राष्ट्रभृदसि"इत्यनेन)+++ यजुषोपनेता +++(आचार्यः)+++ +उपविशति ७  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/12_rAShTrabhRdasyAchAryAsandI_mA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/12_rAShTrabhRdasyAchAryAsandI_mA.md">
 
 +++(हे कूर्च!)+++ रा॒ष्ट्र॒भृद् अ॑स्य् आचार्याऽऽस॒न्दी, मा त्वद्+++(तः)+++ यो॑षम्+++(←यौतिः पृथग्भावे)+++ । 
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_07_pariShechanAnta~N.md">
-
 <details><summary>Oldenberg</summary>
 
 7. Having performed (the rites) down to the sprinkling (of water) round (the fire), he puts down, to the west of the fire, a bunch of northward-pointed grass; on that (the teacher) who performs the initiation, sits down with the next Yajus (M. II, 4, 12).
@@ -1331,7 +1445,6 @@ title = "०७ उपनयनप्रकरणम्"
 **उपनेता** आचार्यः ।
 शेषं व्यक्तम् ॥७॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_07_pariShechanAnta~N.md">
@@ -1349,7 +1462,6 @@ title = "०७ उपनयनप्रकरणम्"
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_08_purastAtpratya~N~NAsInaH_kumAro.md">
-
 <details><summary>Oldenberg</summary>
 
 8. The boy, sitting to the east (of him), facing the west, seizes with his right hand (the teacher's) right foot and says, 'Recite the Sāvitrī, Sir!'
@@ -1366,7 +1478,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 उपनेतुः **पुरस्तात् प्रायङ्मुखः** **आसीनः कुमारो दक्षिणेन पाणिना** उपनेतुर् **दक्षिणं पादं अन्वारभ्य** उपसंगृह्य **"सावित्रीं भो । अनुब्रूहि"** इति प्रार्थयते ॥८॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_08_purastAtpratya~N~NAsInaH_kumAro.md">
@@ -1381,8 +1492,8 @@ title = "०७ उपनयनप्रकरणम्"
 
 तस्मा अन्वाह - "तत् सवितुर्" इति ९  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/13_tatsaviturvareNyamityeShA.md">
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/13_tatsaviturvareNyamityeShA.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 
 त᳓त् सवितु᳓र् व᳓रेण्य᳓+++(णिय)+++म्  
 भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
@@ -1397,11 +1508,9 @@ title = "०७ उपनयनप्रकरणम्"
 </details>
 </div>
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_09_tasmA_anvAha.md">
-
 <details><summary>Oldenberg</summary>
 
 9. He recites (the Sāvitrī) to him, 'That (glorious splendour) of Savitṛ' (Taitt. Saṃh. I, 5, 6, 4; M. 4, 13);
@@ -1416,7 +1525,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 +++(सम्पादकटिप्पनी - "सूत्रमेतद् अग्रिमे सूत्रे व्याख्यातम्" )+++
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_09_tasmA_anvAha.md">
@@ -1434,7 +1542,6 @@ title = "०७ उपनयनप्रकरणम्"
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_10_pachCho-rdharchashastatassarvAm.md">
-
 <details><summary>Oldenberg</summary>
 
 10. Pāda by Pāda, hemistich by hemistich, and the whole (verse).
@@ -1467,7 +1574,6 @@ title = "०७ उपनयनप्रकरणम्"
 **ततः सर्वां** समस्तां अनवसानामित्यर्थः ।
 अत्र च सर्वानुवचनस्यादृष्टार्थत्वात्, ग्रहीतुमसमर्थस्यापि कुमारस्य सर्वा निगद्यते ॥१०॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_10_pachCho-rdharchashastatassarvAm.md">
@@ -1495,7 +1601,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 ओं सुव॒स्
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 
 त᳓त् सवितु᳓र् व᳓रेण्य᳓+++(णिय)+++म्  
 भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
@@ -1513,7 +1619,7 @@ title = "०७ उपनयनप्रकरणम्"
 ###### पुनः पूर्णोच्यते कैश्चित्
 ॐ भूर्-भुव॒स्-सुव॒स्
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 
 त᳓त् सवितु᳓र् व᳓रेण्य᳓+++(णिय)+++म्  
 भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
@@ -1527,11 +1633,9 @@ title = "०७ उपनयनप्रकरणम्"
 प्रा᳓नु᳓दा᳓त्त᳓त्वं᳓ ति᳓ङ᳓न्त᳓स्यो᳓दा᳓त्त᳓व᳓त्त्वा᳓त्। त᳓च्च᳓ य᳓त्का᳓र᳓स᳓द्भा᳓वा᳓त्।
 </details>
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_11_vyAhRtIrvihRtAH.md">
-
 <details><summary>Oldenberg</summary>
 
 11. (When repeating the Sāvitrī Pāda by Pāda, he pronounces) the Vyāhṛtis singly at the beginning or at the end of the Pādas;
@@ -1579,7 +1683,6 @@ title = "०७ उपनयनप्रकरणम्"
 ओं धियो यो नः प्रचोदयात् भुवः ॥
 ओं तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात् सुवः" इति ॥११॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_11_vyAhRtIrvihRtAH.md">
@@ -1594,18 +1697,16 @@ title = "०७ उपनयनप्रकरणम्"
 
 कुमार उत्तरेण +++("वृधमसौ सोभ्ये"त्यनेन, असावित्यनेन प्राणोऽभिधीयते)+++ मन्त्रेणोत्तरमोष्ठम् उपस्पृशते १२  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/14_avRdhamasau_saumya.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/14_avRdhamasau_saumya.md">
 
 +++(सावित्रीग्रहणात्)+++ अवृ॑धम् अ॒सौ+++(←प्राण-सम्बोधने)+++ सौ॑म्य प्रा॒ण, स्वं मे॑ गोपाय ।+++(५)+++
 
 +++(सम्बोधने स्वरः कथम्??)+++
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_12_kumAra_uttareNa.md">
-
 <details><summary>Oldenberg</summary>
 
 13. With the next Mantra (M. II, 4, 14) the boy touches his upper lip;
@@ -1629,7 +1730,6 @@ title = "०७ उपनयनप्रकरणम्"
 "श्यावान्तपर्यन्तावोष्ठावुपस्पृश्याचामेत्" (आप.ध.१-१६-१०.) इति वचनात्
 आचमनं तु कर्तव्यम् ॥१२॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_12_kumAra_uttareNa.md">
@@ -1644,16 +1744,14 @@ title = "०७ उपनयनप्रकरणम्"
 
 कर्णावुत्तरेण +++("ब्रह्मण आणी स्थ"इत्यनेन)+++ १३  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/15_brahmaNa_ANI.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/15_brahmaNa_ANI.md">
 
 +++(सावित्री)+++ब्रह्म॑ण+++(=मन्त्रस्य)+++ आ॒णी+++(=कीले)+++ स्थः॑ ॥+++(५)+++
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_13_karNAvuttareNa.md">
-
 <details><summary>Oldenberg</summary>
 
 14. With the next (II, 4, 15) both his ears;
@@ -1671,7 +1769,6 @@ title = "०७ उपनयनप्रकरणम्"
 स एव युगपद्धस्तद्वयेन स्वीयौ **कर्णौ** स्पृशति ।
 **उत्तरेण** "ब्रह्मण आणी स्थः" इति द्विवचनलिङ्गेन ॥१३॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_13_karNAvuttareNa.md">
@@ -1686,7 +1783,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 +++(पलाश-)+++दण्डमुत्तरेणाऽऽदत्ते +++("सुश्रवस्सुश्रवस"मित्यनेन)+++१४  
 
- <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/01_sushravassushravasam_mA.md">
+ <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/01_sushravassushravasam_mA.md">
 
 सु॒श्रव॑स् +++(पलाश!)+++ सु॒श्रव॑सं मा कुरु।+++(५)+++  
 यथा॒ त्वँ सु॒श्रव॑स् सु॒श्रवा॑ अस्य्,  
@@ -1695,11 +1792,9 @@ title = "०७ उपनयनप्रकरणम्"
 ए॒वम॒हं ब्रा॑ह्म॒णानां॒ ब्रह्म॑णो निधि-गो॒पो भू॑यासम् ।+++(५)+++  
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_14_daNDamuttareNA-.adatte.md">
-
 <details><summary>Oldenberg</summary>
 
 15. With the next (II, 5, 1) he takes up the staff.
@@ -1714,7 +1809,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 **उत्तरेण** "सुश्रवः" इत्यनेन ॥१४॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_14_daNDamuttareNA-.adatte.md">
@@ -1734,7 +1828,6 @@ title = "०७ उपनयनप्रकरणम्"
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_15_pAlAsho_daNDo.md">
-
 <details><summary>Oldenberg</summary>
 
 16. [^2]  The staff of a Brāhmaṇa is made of Palāśa wood, that of a Rājanya of a branch of the Nyagrodha tree, so that the downward-turned end (of the branch) forms the tip (of the staff), that of a Vaiśya of Bādara or Udumbara wood.
@@ -1761,7 +1854,6 @@ title = "०७ उपनयनप्रकरणम्"
 स्कन्धे जातः **स्कन्धजः ।
 अवाङग्रः** अवाचीनमग्रं यस्य दण्डस्य ॥१५॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_15_pAlAsho_daNDo.md">
@@ -1779,7 +1871,6 @@ title = "०७ उपनयनप्रकरणम्"
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_16_vArxo_daNDa.md">
-
 <details><summary>Oldenberg</summary>
 
 17. Some state (only), without any reference to caste, that the staff should be made of the wood of a tree:
@@ -1805,7 +1896,6 @@ title = "०७ उपनयनप्रकरणम्"
 धर्मशास्त्रे "पालाशो दण्डो ब्राह्मणस्य" (आप.ध.१.२.३८)इत्यादि पुनर्विधानं च "त्रैविद्यकं ब्रह्मचर्यं चरेत्" (आप.ध.१.१.२८) इत्युपनयनकालातिपत्तिप्रायश्चित्तानुष्ठानेऽपि तत्तद्वर्णेन तत्तद्दण्डधारणार्थम् ।
 केचित्–तत्रैव सर्वचरणार्थं विहितानां दण्डानां गृह्येऽनुवादः सर्वेषामुपादानेऽपि श्रुत्यैतन्मन्त्रविधानार्थ इति ॥१६॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_16_vArxo_daNDa.md">
@@ -1817,25 +1907,87 @@ title = "०७ उपनयनप्रकरणम्"
 ## ११ १७ स्मृतञ् च
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_17_smRta~n_cha.md">
+<details open><summary><h3>११ १७ स्मृतञ् च …{Loading}…</h3></summary>
 
 "स्मृतं च म" इत्य् एतद्वाचयित्वा
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/02-10_smRtancha_me.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/02_smRtaM_cha_me.md">
+<details open><summary><h5>०२ स्मृतञ्च मे …{Loading}…</h5></summary>
 
-स्मृ॒तञ् च॒ मे, ऽस्मृ॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
-नि॒न्दा च॒ मे ऽनि॑न्दा च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तँ,  
-श्र॒द्धा च॒ मे ऽश्र॑द्धा च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
-वि॒द्या च॒ मे ऽवि॑द्या च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तँ,  
-श्रु॒तञ् च॒ मे ऽश्रु॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तँ,  
-स॒त्यञ् च॒ मे ऽनृ॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
-तप॑श् च॒ मे ऽत॑पश्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
-व्र॒तञ् च॒ मे ऽव्र॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
+स्मृत᳓ञ् च मे, अ᳓स्मृतञ् च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
 
-यद् ब्रा॑ह्म॒णानां॒ ब्रह्म॑णि+++(=वेदविषये)+++ व्र॒तम्,  
-यद् अ॒ग्नेस् +++(→यातृत्वं)+++ सेन्द्र॑स्य॒ +++(→प्राधान्यम्)+++ सप्र॑जापतिकस्य॒ +++(→स्रष्टृत्वं)+++ सदे॑वस्य॒ +++(→दातृत्वादि)+++ सदे॑वराजस्य॒ सम॑नुष्यस्य॒ +++(→प्रियवचनादि)+++ सम॑नुष्यराजस्य॒ +++(→प्रजारक्षणम्)+++ सपि॑तृकस्य॒ +++(→पुत्रोत्पत्ति)+++ सपि॑तृराजस्य॒ +++(यमस्य → सर्वसमत्वं)+++ सग॑न्धर्वाप्सर॒स्कस्य॑ +++(→परिचरणकौशलम्, उदात्तद्वयम्?? )+++,  
-यन् म॑ आ॒त्मन॑ आ॒त्मनि॑ व्र॒तन्,  
-तेना॒हँ सर्व॑व्रतो भूयासम् ।  
+</details>
+</div>
 
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/03_nindA_cha_me.md">
+<details open><summary><h5>०३ निन्दा च मे …{Loading}…</h5></summary>
+
+निन्दा᳓ च मे, अ᳓निन्दा च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/04_shraddhA_cha_me.md">
+<details open><summary><h5>०४ श्रद्धा च मे …{Loading}…</h5></summary>
+
+श्रद्धा᳓ च मे, अ᳓श्रद्धा च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/05_vidyA_cha_me.md">
+<details open><summary><h5>०५ विद्या च मे …{Loading}…</h5></summary>
+
+विद्या᳓ च मे, अ᳓विद्या च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/06_shrutaM_cha_me.md">
+<details open><summary><h5>०६ श्रुतञ्च मे …{Loading}…</h5></summary>
+
+श्रुत᳓ञ् च मे, अ᳓श्रुतञ्च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/07_satyaM_cha_me.md">
+<details open><summary><h5>०७ सत्यञ्च मे …{Loading}…</h5></summary>
+
+सत्य᳓ञ् च मे, अ᳓नृतञ्च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/08_tapaShcha_me.md">
+<details open><summary><h5>०८ तपश्च मे …{Loading}…</h5></summary>
+
+त᳓पश् च मे, अ᳓तपश्च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/09_vrataM_cha_me.md">
+<details open><summary><h5>०९ व्रतञ्च मे …{Loading}…</h5></summary>
+
+व्रत᳓ञ् च मे, अ᳓व्रतञ्च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/10_yadbrAhmaNAnAM_brahmaNi.md">
+<details open><summary><h5>१० यद्ब्राह्मणानां ब्रह्मणि व्रतम् …{Loading}…</h5></summary>
+
+य᳓द् ब्राह्मणा᳓नां ब्र᳓ह्मणि+++(=वेदविषये)+++ व्रत᳓म्,  
+य᳓द् अग्ने᳓स् +++(→यातृत्वं)+++ से᳓न्द्रस्य +++(→प्राधान्यम्)+++ स᳓प्रजापतिकस्य +++(→स्रष्टृत्वं)+++  
+स᳓देवस्य +++(→दातृत्वादि)+++ स᳓देवराजस्य  
+स᳓मनुष्यस्य +++(→प्रियवचनादि)+++ स᳓मनुष्यराजस्य +++(→प्रजारक्षणम्)+++  
+स᳓पितृकस्य +++(→पुत्रोत्पत्ति)+++ स᳓पितृराजस्य +++(यमस्य → सर्वसमत्वं)+++  
+स᳓गन्धर्वाप्सरस्क᳓स्य +++(→परिचरणकौशलम्, उदात्तद्वयम्?? )+++,  
+य᳓न् म आत्म᳓न आत्म᳓नि व्रत᳓न्,  
+ते᳓नाहँ᳓ स᳓र्वव्रतो भूयासम् ।
+
+</details>
 </div>
 
 #### वरदानम्
@@ -1846,38 +1998,41 @@ title = "०७ उपनयनप्रकरणम्"
 
 +++(कुमारो वदति -)+++  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/11_udAyuShA_svAyuShodoShadhInAm.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/11_udAyuShA_svAyuShodoShadhInAm.md">
+<details open><summary><h5>११ उदायुषा स्वायुषोदोषधीनाम् …{Loading}…</h5></summary>
 
-उद् आयु॑षा स्वा॒युषा,  
-+उद् ओष॑धीनाँ॒ रसे॑न॒+,  
-+उत् प॒र्जन्य॑स्य॒ शुष्मे॑ण+++(=बलेन)++++  
-+उद् अ॑स्थाम्,  
-अ॒मृताँ॒+++(=देवान्)+++ अनु॑ ।  
+उ᳓द् आ᳓युषा स्वायु᳓षा,  
++उ᳓द् ओ᳓षधीनाँ र᳓सेन+,  
++उ᳓त् पर्ज᳓न्यस्य शु᳓ष्मेण+++(=बलेन)++++  
++उ᳓द् अस्थाम्,  
+अमृ᳓ताँ+++(=देवान्)+++ अ᳓नु ।  
 
+</details>
 </div>
 
 #### आदित्योपस्थानम्
 उत्तरैर् +++("तच्चक्षुर्देव हितम्")+++ आदित्यम् उपतिष्ठते १७  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md">
+<details open><summary><h5>१२ तच्चक्षुर्देवहितम् पुरस्ताच्छुक्रमुच्चरत् …{Loading}…</h5></summary>
 
-+++(सूर्यस्)+++ तच् चक्षु॑र् दे॒व+++(नि)+++हि॑तं पु॒रस्ता॑च् छु॒क्र+++(द्ध)+++म् उ॒च्चर॑त् -  
-पश्ये॑म श॒रद॑श् श॒तं  
-जीवे॑म श॒रद॑श् श॒तं  
-नन्दा॑म श॒रद॑श् श॒तं  
-मोदा॑म श॒रद॑श् श॒तं  
-भवा॑म श॒रद॑श् श॒तँ  
-शृ॒णवा॑म श॒रद॑श् श॒तं  
-प्रब्र॑वाम श॒रद॑श् श॒तम्  
-अजी॑ताः स्याम श॒रद॑श् श॒तं  
-ज्योक्+++(=दीर्घकालं)+++ च॒ सूर्य॑न् दृ॒शे ।  
++++(सूर्यस्)+++ त᳓च् च᳓क्षुर् देव᳓+++(नि)+++हितं पुर᳓स्ताच् छुक्र᳓+++(द्ध)+++म् उच्च᳓रत् -  
+प᳓श्येम शर᳓दश् शतं᳓  
+जी᳓वेम शर᳓दश् शतं᳓  
+न᳓न्दाम शर᳓दश् शतं᳓  
+मो᳓दाम शर᳓दश् शतं᳓  
+भ᳓वाम शर᳓दश् शतँ᳓  
+शृण᳓वाम शर᳓दश् शतं᳓  
+प्र᳓ब्रवाम शर᳓दश् शत᳓म्  
+अ᳓जीताः स्याम शर᳓दश् शतं᳓  
+ज्यो᳓क्+++(=दीर्घकालं)+++ च सू᳓र्यन् दृशे᳓ ।  
 
+</details>
 </div>
-
+</details>
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_17_smRta~n_cha.md">
-
 <details><summary>Oldenberg</summary>
 
 18. After (the teacher) has made him repeat (the formula), 'My memory' (M. II, 5, 2), and he has bestowed an optional gift on his teacher, and (the teacher) has made him arise with (the formula, M. II, 5, 3), 'Up, with life!' (the student) worships the sun with the next (Mantras; II, 5, 4).
@@ -1911,7 +2066,6 @@ title = "०७ उपनयनप्रकरणम्"
 केचित्–स्मृतसङ्कीर्तनादि पदार्थचतुष्टयमपि कुमारकर्तृकम् ।
 वाचयित्वोत्थाप्येति तु णिजर्थो हेतुरविवक्षितः, अन्यथा त्वसमानकर्तृकत्वात् वरदानमुपस्थानं चाचार्यकर्तृकं स्यात् तथा गुरुग्रहणं चौलादौ ब्रह्मणे वरदानार्थमिति ॥१७॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_17_smRta~n_cha.md">
@@ -1926,7 +2080,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 यं कामयेत +++(मत्)+++ नायमाच्छिद्येतेति, तम् उत्तरया +++("यस्मिन् भूतमि"त्येतया)+++ दक्षिणे हस्ते गृह्णीयात् १८  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/13_yasminbhUtancha_bhavyancha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/13_yasminbhUtancha_bhavyancha.md">
 
 यस्मि॑न् भू॒तञ् च॒ भव्य॑ञ् च॒  
 सर्वे॑ लो॒कास् स॒माहि॑ताः ।  
@@ -1935,11 +2089,9 @@ title = "०७ उपनयनप्रकरणम्"
 प्र॒जाप॑तिना त्वा॒ मह्यं॑ गृह्णाम्य् असौ+++(→नामनिर्देशः)+++ ॥
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_18_ya~N_kAmayeta.md">
-
 <details><summary>Oldenberg</summary>
 
 19. If (the teacher) wishes, 'May this (student) not be estranged from me,' let him take (the student) by the right hand with the next (verse; II, 5, 6).
@@ -1957,7 +2109,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 **यं** कुमारं **अयम्** आसमावर्तनान्मत्तो **न** च्छिद्येत न वियुज्येतेति **कामयेत, तमुत्तरया** "यस्मिन् भूतम्" इत्यनयर्चा सम्बुद्ध्या च नाम गृहीत्वा **दक्षिणे हस्ते गृह्णीयात्** यद्यमाचार्यश्चतुर्वेदी सर्वशास्त्रवित् अध्यापयितुं व्याख्यातुं च शक्नोति ॥१८॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_18_ya~N_kAmayeta.md">
@@ -1975,7 +2126,6 @@ title = "०७ उपनयनप्रकरणम्"
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_19_tryahametamagnin_dhArayanti.md">
-
 <details><summary>Oldenberg</summary>
 
 20. They keep that fire (used at the Upanayana) three days,
@@ -1990,7 +2140,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 स्पष्टमेतत् ॥१९॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_19_tryahametamagnin_dhArayanti.md">
@@ -2008,7 +2157,6 @@ title = "०७ उपनयनप्रकरणम्"
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_20_xAralavaNavarjana~n_cha.md">
-
 <details><summary>Oldenberg</summary>
 
 21. And (during that time) salted and pungent food should be avoided.
@@ -2029,7 +2177,6 @@ title = "०७ उपनयनप्रकरणम्"
 अत्र च त्र्यहम् इति नियमाद् धर्मशास्त्रे "यथा क्षार-लवण-मधु-मांसानि" (आप.१-४-६.) " इत्यनेन क्षार-लवणयोर् द्वयोर् निषेधः ।
 त्र्यहाद् ऊर्ध्वं पाक्षिकः । मध्वादेस् तु नित्य एव ॥२०॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_20_xAralavaNavarjana~n_cha.md">
@@ -2044,7 +2191,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 परि त्वेति परिमृज्य  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/01_pari_tvA-gne.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/01_pari_tvA-gne.md">
 
 प᳓रि त्वाऽग्ने प᳓रिमृजाम्य् आ᳓युषा च ध᳓नेन च ।  
 सुप्रजाः᳓ प्रज᳓या भूयासँ,  
@@ -2055,7 +2202,7 @@ title = "०७ उपनयनप्रकरणम्"
 #### समिदाधानम्
 तस्मिन्न् उत्तरैर् मन्त्रैस् +++("अग्नये समिध"मित्यादिभिः द्वादशभिः प्रतिमन्त्रं)+++ समिध आदध्यात् २१  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/02_agnaye_samidhamAhArSham.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/02_agnaye_samidhamAhArSham.md">
 
 अग्न᳓ये समि᳓धम् आ᳓हार्षं  
 बृहते᳓ जात᳓-वेदसे ।  
@@ -2065,28 +2212,28 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/03_edho-syedhiShImahi_svAhA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/03_edho-syedhiShImahi_svAhA.md">
 
 +++(हे समित्, अग्नेर्)+++ ए᳓धो+++(←इन्धी दीप्तौ)+++ ऽस्य्,  
 एधिषीम᳓हि स्वा᳓हा ।  
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/04_samidasi_samedhiShImahi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/04_samidasi_samedhiShImahi.md">
 
 समि᳓द् असि,  
 समेधिषीम᳓हि +++(अग्निं)+++ स्वा᳓हा ।  
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/05_tejosi_tejo.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/05_tejosi_tejo.md">
 
 ते᳓जोसि,  
 ते᳓जो म᳓यि धेहि स्वा᳓हा ।+++(५)+++ 
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/06_apo_adyAnvachAriSham.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/06_apo_adyAnvachAriSham.md">
 
 **अ᳓पो**+++(=कर्म)+++ अद्य᳓ +**अ᳓न्वचारिषँ**  
 +++(श्रद्धा)+++**र᳓सेन स᳓मसृक्ष्महि**+++(=संसृष्टो भवेयम्। समगन्महीति शाकले)+++ ।  
@@ -2095,34 +2242,34 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/07_sam_mA-gne.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/07_sam_mA-gne.md">
 
 सं᳓ माऽग्ने व᳓र्चसा सृज  
 प्रज᳓या च ध᳓नेन च स्वा᳓हा ।  
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/08_vidyunme_asya.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/08_vidyunme_asya.md">
 
 विद्यु᳓न्+++(र्)+++ मे अस्य देवा᳓  
 इ᳓न्द्रो विद्या᳓त् सह᳓र्षिभिः स्वा᳓हा ।+++(५)+++  
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/09_agnaye_bRhate.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/09_agnaye_bRhate.md">
 
 अग्न᳓ये बृहते᳓ ना᳓काय स्वा᳓हा ।  
 +++(दिविनाको नामाग्निः इति ब्राह्मणम् ।)+++
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/10_dyAvApRthivIbhyAM_svAhA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/10_dyAvApRthivIbhyAM_svAhA.md">
 
 द्या᳓वापृथिवी᳓भ्याँ स्वा᳓हा ।  
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/11_eShA_te.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/11_eShA_te.md">
 
 एषा᳓ ते अग्ने समि᳓त्,  
 त᳓या व᳓र्द्धस्व चा᳓प्यायस्व च,  
@@ -2130,7 +2277,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/12_yo_mA-gne.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/12_yo_mA-gne.md">
 
 यो᳓ माऽग्ने भागि᳓नँ सन्त᳓म्  
 अ᳓थाभाग᳓ञ् चि᳓कीर्षति ।  
@@ -2139,17 +2286,15 @@ title = "०७ उपनयनप्रकरणम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/13_samidhamAdhAyAgne_sarvavrato.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/13_samidhamAdhAyAgne_sarvavrato.md">
 
 समि᳓धम् आधा᳓याग्ने  
 स᳓र्वव्रतो भूयासँ स्वा᳓हा ।  
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_21_paritve_ti.md">
-
 <details><summary>Oldenberg</summary>
 
 22. Having wiped (with his hand wet) around (the fire) with (the formula), 'Around thee' (M. II, 6, 1), he should put (twelve) pieces of wood on that (fire) with the next Mantras (II, 6, 2-13).
@@ -2182,7 +2327,6 @@ title = "०७ उपनयनप्रकरणम्"
 परिसमूहनस्य "परित्वेति परिमृज्य" इति विधिः ।
 तथा धर्मशास्त्रे तु "समिद्धमग्निं पाणिना परिसमूहेन्न समूहन्या" (आप.ध.१-४-१८) इति गुणार्थोऽनुवादः ॥२१॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_21_paritve_ti.md">
@@ -2200,7 +2344,6 @@ title = "०७ उपनयनप्रकरणम्"
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_22_evamanyasminnapi.md">
-
 <details><summary>Oldenberg</summary>
 
 23. In the same way also on another (fire, when the Upanayana fire is kept no longer),  
@@ -2237,7 +2380,6 @@ title = "०७ उपनयनप्रकरणम्"
 तत्र यथा-कामी प्रक्रमेत ।
 तथा तस्मिन्न् "अन्यस्मिन्न् अपी"त्यारम्भात् उपनयनाग्नेस् त्र्यहाद् ऊर्ध्वम् अपि विकल्पेन धारणं, तत्रैव समिदाधानं चेति ॥२२॥+++(5)+++
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_22_evamanyasminnapi.md">
@@ -2252,7 +2394,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 उत्तरया +++("ब्रह्मचार्यसी"त्येतया)+++ सँशास्ति २३ +++(बाढमिति प्रतिवचनम् ।)+++  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/14_brahmachAryasy_apo-shAna.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/14_brahmachAryasy_apo-shAna.md">
 
 ब्रह्मचार्य् अ᳙सि।   
 (वटुः - बाढ᳓म्।) 
@@ -2274,11 +2416,9 @@ title = "०७ उपनयनप्रकरणम्"
 (वटुः - बाढ᳓म्।) 
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_23_uttarayA_sa.NshAsti.md">
-
 <details><summary>Oldenberg</summary>
 
 25. With the next (formula - M. II, 6, 14 - the teacher) instructs (the student in his duties).
@@ -2319,7 +2459,6 @@ title = "०७ उपनयनप्रकरणम्"
 संशासनान्ते च भिक्षाचरणम् ।
 अथास्मा अरिक्तं पात्रं प्रयच्छन्नाह — मातरमेवाग्रे भिक्षस्वेति (बौ.गृ.२-५-४०.) इति बौधायनगृह्यात् ।
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_23_uttarayA_sa.NshAsti.md">
@@ -2334,7 +2473,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 +++(त्र्यहं मन्त्रवत्-परिहितमेव)+++ वासश् चतुर्थीम्+++(चतुर्थाहोरात्रे अहन्येव)+++ उत्तरया +++("यस्य ते प्रथमवास्य"मित्येतया)+++ ऽऽदत्ते +++(=स्वीकरोति)+++  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/15_yasya_te.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/15_yasya_te.md">
 
 य᳓स्य ते प्रथमवास्यँ᳙+++(=प्रथमाच्छादितं)+++ **ह᳓रामस्**  
 तं᳓ त्वा वि᳓श्वे **अवन्तु** देवाः᳓ ।  
@@ -2348,7 +2487,6 @@ title = "०७ उपनयनप्रकरणम्"
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_24_vAsashchaturthImuttarayAdatte-nyatparidhApya.md">
-
 <details><summary>Oldenberg</summary>
 
 26. [^3]  On the fourth day (after the Upanayana the teacher) takes the garment (of the student) for himself with the next (verse; M. II, 6, 15), having made him put on another (garment).
@@ -2397,7 +2535,6 @@ title = "०७ उपनयनप्रकरणम्"
 इति श्रीसुदर्शनाचार्यकृतौ गृह्यसूत्रतात्पर्यदर्शने एकादशः खण्डः ॥
 समाप्तश्चतुर्थः पटलः ॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_24_vAsashchaturthImuttarayAdatte-nyatparidhApya.md">

@@ -42,7 +42,7 @@ title = "१० दिनान्तर-कर्माणि"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
 <details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
 <details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -73,7 +73,8 @@ title = "१० दिनान्तर-कर्माणि"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
 <details open><summary><h9>267 सप्रथ सभाम् ...{Loading}...</h9></summary>
 
 सप्र॑थ स॒भाम् मे॑ गोपाय ।  
@@ -87,6 +88,7 @@ title = "१० दिनान्तर-कर्माणि"
 
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
 <details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
 
@@ -110,18 +112,28 @@ title = "१० दिनान्तर-कर्माणि"
 "रेवतीस् त्वा",  
 इति द्वाभ्याम् अभिमन्त्र्य,  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/03-04_revatIstvA_vyaxNankRttikAshchAkRnta2m.md">
-<details open><summary><h2>०३-०४ रेवतीस्त्वा व्यक्ष्णन्कृत्तिकाश्चाकृन्त२म् ...{Loading}...</h2></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/03_revatIstvA_vyaxNan.md">
 
-+++(नक्षत्रेषु)+++ रे॒वती॑स् त्वा॒ **व्य॑क्ष्ण॒न्**+++(=व्यध्वंसयन् [मेषादिभ्यः])+++  
-कृत्ति॑का॒श् **चाकृ॑न्तँस्** त्वा ।  
-धियो॑ **ऽवय॒न्न्**, अव॒ ग्न+++(=देवता)+++ **आ॑वृञ्जन्त्**+++(=अच्छिन्दन्)+++  
-स॒हस्र॒म् अन्ताँ॑+++(=दशासूत्राणि)+++ अ॒भितो॑ **अयच्छन्** ।  
+<details open><summary><h2>०३ रेवतीस्त्वा व्यक्ष्णन् …{Loading}…</h2></summary>
 
-दे॒वीर् दे॒वाय॑ +++(वस्त्र)+++परि॒धी+++(धौ)+++ स॑वि॒त्रे ।  
-म॒हत् तद् आ॑साम् **अभवन्** महित्व॒नम्+++(=महत्वम्)+++ ।+++(र४)+++  
++++(नक्षत्रेषु)+++ रेव᳓तीस् त्वा **व्य᳙क्ष्णन्**+++(=व्यध्वंसयन् [मेषादिभ्यः])+++  
+कृ᳓त्तिकाश् **चा᳓कृन्तँस्** त्वा ।  
+धि᳓यो **ऽवयन्न्**, अ᳓व ग्ना᳓+++(=देवता)+++ **अवृञ्जन्त्**+++(=अच्छिन्दन्)+++  
+सह᳓स्रम् अ᳓न्ताँ+++(=दशासूत्राणि)+++ अभि᳓तो **अयच्छन्** ।
 
 </details>
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/04_devIrddevAya_paridhI.md">
+
+<details open><summary><h2>०४ देवीर्देवाय परिधी सवित्रे …{Loading}…</h2></summary>
+
+देवी᳓र् देवा᳓य +++(वस्त्र)+++परिधी᳓+++(धौ)+++ सवित्रे᳓ ।  
+मह᳓त् त᳓द् आसाम् **अभवन्** महित्वन᳓म्+++(=महत्वम्)+++ ।+++(र४)+++
+
+</details>
+
 </div>  
 
 "अकृन्तन्न् अवयन्न्" इति तिसृभिः परिधाप्य,  
@@ -136,6 +148,7 @@ title = "१० दिनान्तर-कर्माणि"
 
 </details>
 </div>
+
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/06_paridhatta_dhatta.md">
 <details open><summary><h2>०६ परिधत्त धत्त ...{Loading}...</h2></summary>
 
@@ -146,6 +159,7 @@ title = "१० दिनान्तर-कर्माणि"
 
 </details>
 </div>
+
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/07_jarA~N_gachChAsi.md">
 <details open><summary><h2>०७ जराङ् गच्छासि ...{Loading}...</h2></summary>
 
