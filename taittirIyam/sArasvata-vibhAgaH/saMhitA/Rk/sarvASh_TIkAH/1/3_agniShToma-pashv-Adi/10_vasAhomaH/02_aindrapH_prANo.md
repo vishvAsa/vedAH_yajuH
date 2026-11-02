@@ -3,11 +3,6 @@ title = "02 ऐन्द्रᳶ प्राणो"
 
 +++
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-2पशोर् अवदानानि सम्मृशति - ऐन्द्रः प्राण इत्यनुष्टुभा षट्पदया ॥
-</details>
-
 <details><summary>Keith</summary>
 
 May Indra's expiration be set in every limb;  

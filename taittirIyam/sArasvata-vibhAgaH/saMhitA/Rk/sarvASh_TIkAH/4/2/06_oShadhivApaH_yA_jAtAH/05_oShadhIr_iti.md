@@ -3,11 +3,6 @@ title = "05 \"ओषधीर्\" इति"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ चतुर्थीमाह– ओषधीरितीति ।
-</details>
-
 <details><summary>Keith</summary>
 
 'Plants', O ye mothers,  

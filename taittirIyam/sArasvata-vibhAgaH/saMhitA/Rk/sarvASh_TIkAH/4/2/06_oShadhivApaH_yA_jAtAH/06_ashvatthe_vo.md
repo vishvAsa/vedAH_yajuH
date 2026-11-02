@@ -3,11 +3,6 @@ title = "06 अश्वत्थे वो"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ पञ्चमीमाह– अश्वत्थे व इति ।
-</details>
-
 <details><summary>Keith</summary>
 
 In the Aśvattha is your seat,  

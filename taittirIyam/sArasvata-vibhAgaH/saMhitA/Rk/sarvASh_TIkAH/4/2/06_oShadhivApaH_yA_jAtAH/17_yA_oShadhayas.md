@@ -3,11 +3,6 @@ title = "17 या ओषधयस्"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ द्वितीयामाह— या ओषधय इति ।
-</details>
-
 <details><summary>Keith</summary>
 
 The [4] plants whose king is Soma,  

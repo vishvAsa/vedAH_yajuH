@@ -3,11 +3,6 @@ title = "08 आरात् ते"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ सप्तमीमाह–  २१३७ आरत्ते गोघ्न इति।
-</details>
-
 <details><summary>Keith</summary>
 
 From afar to thee, slayer of cows, and slayer of men,  

@@ -3,11 +3,6 @@ title = "09 \"निष्कृतिर्\" नाम"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथाष्टमीमाह— निष्कृतिर्नामेति ।
-</details>
-
 <details><summary>Keith</summary>
 
 Remover is your mother by name, And ye are helpers;  

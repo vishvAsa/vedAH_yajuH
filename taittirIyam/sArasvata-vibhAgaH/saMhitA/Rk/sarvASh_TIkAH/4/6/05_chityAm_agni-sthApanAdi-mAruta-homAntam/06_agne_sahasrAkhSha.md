@@ -3,11 +3,6 @@ title = "06 अग्ने सहस्राक्ष,"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ द्वितीयामाह— अग्ने सहस्राक्षेति।
-</details>
-
 <details><summary>Keith</summary>
 
 O Agni, of a thousand eyes [2], of a hundred heads,  

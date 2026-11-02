@@ -3,11 +3,6 @@ title = "03 पृथिव्या अहम्"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ तृतीयामाह— पृथिव्या अहमिति।
-</details>
-
 <details><summary>Keith</summary>
 
 From earth have I mounted to the atmosphere;  

@@ -3,11 +3,6 @@ title = "19 याश् चेदम्"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ चतुर्थीमाह— याश्चेदमिति ।
-</details>
-
 <details><summary>Keith</summary>
 
 Those that hear now  

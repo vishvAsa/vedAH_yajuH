@@ -3,11 +3,6 @@ title = "04 पुष्पावतीᳶ प्रसूवतीᳶ"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ तृतीयामाह– पुष्पावतीरिति ।
-</details>
-
 <details><summary>Keith</summary>
 
 With flowers, with shoots,  

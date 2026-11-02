@@ -3,11 +3,6 @@ title = "11 य एतावन्तश्"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ दशमीमाह— य एतावभ्तश्चेति।
-</details>
-
 <details><summary>Keith</summary>
 
 The Rudras that so many and yet more  

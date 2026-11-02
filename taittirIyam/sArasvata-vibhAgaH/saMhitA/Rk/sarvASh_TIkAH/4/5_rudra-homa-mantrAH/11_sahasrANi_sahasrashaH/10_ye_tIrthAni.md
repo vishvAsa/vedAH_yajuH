@@ -3,11 +3,6 @@ title = "10 ये तीर्थानि"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ नवमीमाह— ये तीर्थानिति।
-</details>
-
 <details><summary>Keith</summary>
 
 Those that resort to fords [1],  

@@ -3,11 +3,6 @@ title = "08 ये अन्नेषु"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ सप्तमीमाह- ये अन्नेष्विति।
-</details>
-
 <details><summary>Keith</summary>
 
 Those that assault men in their food  

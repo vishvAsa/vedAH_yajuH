@@ -3,11 +3,6 @@ title = "07 यद् अहव्ँ"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ षष्ठीमाह— यदहं वाजयन्निति ।
-</details>
-
 <details><summary>Keith</summary>
 
 In that in strength I seize  

@@ -3,11 +3,6 @@ title = "20 मा वो"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ पञ्चमीमाह— मा वो रिषादमिति ।
-</details>
-
 <details><summary>Keith</summary>
 
 May the digger of you come to no ill,  

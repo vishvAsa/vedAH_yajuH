@@ -4,11 +4,6 @@ title = "02 हविष्मतीर् इमा"
 +++
 
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-1वसतीवरीर्गृह्णाति - हविष्मतीरिति चतुष्पदया ॥ 'अनुष्टुभा गृह्णाति' इत्यादि ब्राह्मणम् । 
-</details>
-
 <details><summary>Keith</summary>
 
 These waters are rich in oblation,  

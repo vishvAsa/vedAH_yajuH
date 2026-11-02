@@ -3,11 +3,6 @@ title = "15 अश्वावतीं सोमवतीम्"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ चतुर्दशीमाह— अश्वावतीमिति ।
-</details>
-
 <details><summary>Keith</summary>
 
 Rich in steeds, rich in Soma,  

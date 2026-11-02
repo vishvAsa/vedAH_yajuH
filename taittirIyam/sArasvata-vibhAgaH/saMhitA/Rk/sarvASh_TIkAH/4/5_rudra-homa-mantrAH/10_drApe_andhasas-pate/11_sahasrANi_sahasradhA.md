@@ -3,11 +3,6 @@ title = "11 सहस्राणि सहस्रधा"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ द्वादशीमाह— सहस्राणीति।
-</details>
-
 <details><summary>Keith</summary>
 
 A thousandfold in thousands  

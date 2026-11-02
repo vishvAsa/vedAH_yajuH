@@ -3,11 +3,6 @@ title = "05 अग्ने प्रेहि"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ पञ्चमीमाह– अग्ने प्रेहीति।
-</details>
-
 <details><summary>Keith</summary>
 
 O Agni, advance, first of worshippers,  

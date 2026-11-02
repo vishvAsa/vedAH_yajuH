@@ -3,11 +3,6 @@ title = "09 ये पथाम्"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथाष्ठमीमाह ये पथामिति।
-</details>
-
 <details><summary>Keith</summary>
 
 Those that guard the paths,  

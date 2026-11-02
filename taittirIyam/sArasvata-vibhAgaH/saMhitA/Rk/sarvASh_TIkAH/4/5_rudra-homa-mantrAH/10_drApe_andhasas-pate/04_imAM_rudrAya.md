@@ -3,11 +3,6 @@ title = "04 इमां रुद्राय"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ तृतीयामाह— इमाँ रुद्रायेति।
-</details>
-
 <details><summary>Keith</summary>
 
 This prayer we offer up to the impetuous Rudra, With plaited hair, destroyer of men,  

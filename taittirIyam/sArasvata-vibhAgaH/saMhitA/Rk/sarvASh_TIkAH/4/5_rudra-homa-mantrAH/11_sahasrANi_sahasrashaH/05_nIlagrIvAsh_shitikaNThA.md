@@ -3,11 +3,6 @@ title = "05 नीलग्रीवाश् शितिकण्ठा"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ चतुर्थीमाह— नीलग्रीवा इति।
-</details>
-
 <details><summary>Keith</summary>
 
 The Rudras who abide in the sky,  

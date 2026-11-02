@@ -3,11 +3,6 @@ title = "12 अति विश्वाः"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथैकादशीमाह—  १९१६ अति विश्वा इति ।
-</details>
-
 <details><summary>Keith</summary>
 
 I Beyond all obstacles,  

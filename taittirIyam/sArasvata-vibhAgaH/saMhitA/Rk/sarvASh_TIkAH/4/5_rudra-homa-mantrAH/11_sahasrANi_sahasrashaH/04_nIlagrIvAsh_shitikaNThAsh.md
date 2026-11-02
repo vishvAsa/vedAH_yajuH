@@ -3,11 +3,6 @@ title = "04 नीलग्रीवाश् शितिकण्ठाश्"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ तृतीयामाह– नीलग्रीवा इति।
-</details>
-
 <details><summary>Keith</summary>
 
 The Śarvas of black necks, and white throats,  

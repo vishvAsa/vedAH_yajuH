@@ -3,11 +3,6 @@ title = "06 ये वृक्षेषु"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ पञ्चमीमाह— ये वृक्षेष्विति।
-</details>
-
 <details><summary>Keith</summary>
 
 Those who of black necks and ruddy,  

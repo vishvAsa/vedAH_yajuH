@@ -3,11 +3,6 @@ title = "13 यास् त"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ द्वादशीमाह— यास्त इति ।
-</details>
-
 <details><summary>Keith</summary>
 
 Those [3] that have mounted thy self, That have entered every limb,  

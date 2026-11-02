@@ -3,11 +3,6 @@ title = "02 ते ते"
 
 +++
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-11यूपं वैष्णवीभ्यामृग्भ्यां कल्प्यति स्थापयति - ते ते धामानि ... विष्णोः कर्माणि पश्यतेति ॥
-</details>
-
 <details><summary>Keith</summary>
 
 To these dwellings of thine are we fain+++(=apt)+++ to go,  

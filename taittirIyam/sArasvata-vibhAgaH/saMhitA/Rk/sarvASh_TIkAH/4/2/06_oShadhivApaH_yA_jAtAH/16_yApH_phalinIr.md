@@ -3,11 +3,6 @@ title = "16 याᳶ फलिनीर्"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथात्रैव विकल्पिताः षडृच आम्नायन्ते ।   तत्र प्रथमामाह— या फलिनीरिति ।
-</details>
-
 <details><summary>Keith</summary>
 
 The fruitful, the fruitless,  

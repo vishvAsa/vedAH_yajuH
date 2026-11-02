@@ -3,11 +3,6 @@ title = "09 परि णो"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ नवमीमाह— 		परि णो रुद्रस्येति।
-</details>
-
 <details><summary>Keith</summary>
 
 May the missile of Rudra spare us,  

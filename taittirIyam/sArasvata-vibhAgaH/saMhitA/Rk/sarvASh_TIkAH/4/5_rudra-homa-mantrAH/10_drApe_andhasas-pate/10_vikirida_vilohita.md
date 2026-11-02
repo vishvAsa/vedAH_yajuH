@@ -3,11 +3,6 @@ title = "10 विकिरिद विलोहित"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथैकादशीमाह—  विकिरिदेति।
-</details>
-
 <details><summary>Keith</summary>
 
 O blood-red scatterer,  

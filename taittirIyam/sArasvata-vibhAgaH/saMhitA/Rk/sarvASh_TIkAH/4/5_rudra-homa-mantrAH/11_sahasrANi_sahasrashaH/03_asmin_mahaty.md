@@ -3,11 +3,6 @@ title = "03 अस्मिन् महत्य्"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ द्वितीयामाह— अस्मिन्निति।
-</details>
-
 <details><summary>Keith</summary>
 
 The Bhavas in this great ocean,  

@@ -3,11 +3,6 @@ title = "21 ओषधयस् सव्ँवदन्ते"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ षष्ठीमाह— ओषधय इति ।
-</details>
-
 <details><summary>Keith</summary>
 
 The plants hold converse  

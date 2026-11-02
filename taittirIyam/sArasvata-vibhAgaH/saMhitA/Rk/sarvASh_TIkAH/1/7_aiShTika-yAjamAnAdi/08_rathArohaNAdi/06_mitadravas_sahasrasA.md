@@ -3,11 +3,6 @@ title = "06 मितद्रवस् सहस्रसा"
 
 +++
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-12मितद्रव इति परोष्णिक् अस्तारपङ्क्तिर्वा, 'परौ चेद्द्वादशाक्षरावास्तारपङ्क्तिः' इति ॥
-</details>
-
 <details><summary>Keith</summary>
 
 Strong limbed, winning a thousand,  

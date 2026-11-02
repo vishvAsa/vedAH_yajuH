@@ -3,11 +3,6 @@ title = "05 मृडा नो"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ चतुर्थमाह– मृडा नो रुद्रोतेति।
-</details>
-
 <details><summary>Keith</summary>
 
 Be merciful to us, O Rudra, and give us delight; With honour let us worship thee, destroyer of men;  

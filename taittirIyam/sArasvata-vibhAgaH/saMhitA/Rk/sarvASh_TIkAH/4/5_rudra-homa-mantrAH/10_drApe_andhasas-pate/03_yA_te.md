@@ -3,11 +3,6 @@ title = "03 या ते"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ द्वितीयामाह— या ते रुद्रेति।
-</details>
-
 <details><summary>Keith</summary>
 
 That auspicious form of thine, O Rudra,  

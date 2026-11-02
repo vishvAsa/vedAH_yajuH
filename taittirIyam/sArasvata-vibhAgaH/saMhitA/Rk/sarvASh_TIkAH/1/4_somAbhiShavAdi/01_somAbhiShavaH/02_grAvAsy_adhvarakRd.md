@@ -3,11 +3,6 @@ title = "02 ग्रावास्य् अध्वरकृद्"
 
 +++
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-2तमभिमन्त्रयते - ग्रावासीति त्रिष्टुभा पञ्चपदया ॥ यथोक्तं 'चतुर्भिरष्टाक्षरैः द्वादशाक्षरेण चैकेन त्रिष्टुप्'  इति ।
-</details>
-
 <details><summary>Keith</summary>
 
 Thou art the stone which maketh the sacrifice for the gods;  

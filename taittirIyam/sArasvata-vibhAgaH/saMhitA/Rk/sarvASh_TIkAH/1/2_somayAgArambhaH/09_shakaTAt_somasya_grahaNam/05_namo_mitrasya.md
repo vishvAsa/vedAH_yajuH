@@ -3,11 +3,6 @@ title = "05 नमो मित्रस्य"
 
 +++
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-5राजानं प्रत्युपतिष्ठते - नमो मित्रस्येति जगत्या ॥
-</details>
-
 <details><summary>Keith</summary>
 
 Honour to the radiance of Mitra and Varuna.  

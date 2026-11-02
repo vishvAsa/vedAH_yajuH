@@ -3,11 +3,6 @@ title = "11 उच् छुष्मा"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ दशमीमाह— उच्छुष्मा इति ।
-</details>
-
 <details><summary>Keith</summary>
 
 The strength of the plants hath arisen Like cows from the pasturage,  

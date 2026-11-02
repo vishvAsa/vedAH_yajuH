@@ -3,11 +3,6 @@ title = "02 अत्यन्यान् अगान्,"
 
 +++
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-1अतः परं पाशुकं काण्डं सोमार्षेयमेव । यूपार्थं वृक्षम् उपतिष्ठते - अत्यन्यानिति द्वादशाक्षर-त्रिपदया  महाबृहत्या । ताण्डिन एतां सतोबृहतीमाहुः, ऊर्ध्वबृहर्तीं बह्वृचाः ॥
-</details>
-
 <details><summary>Keith</summary>
 
 I have passed by some, I have not approached others.  

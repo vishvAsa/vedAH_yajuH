@@ -3,11 +3,6 @@ title = "14 साकय्ँ यक्ष्म"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ त्रयोदशीमाह— साकं यक्ष्मेति ।
-</details>
-
 <details><summary>Keith</summary>
 
 O disease, do thou fly forth  

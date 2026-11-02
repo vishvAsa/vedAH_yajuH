@@ -3,11 +3,6 @@ title = "07 मा नस्"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ षष्ठीमाह— मा नस्तोक इति।
-</details>
-
 <details><summary>Keith</summary>
 
 Harm us not in our children, our descendants, our life; Harm us not in our cattle, in our horses;  

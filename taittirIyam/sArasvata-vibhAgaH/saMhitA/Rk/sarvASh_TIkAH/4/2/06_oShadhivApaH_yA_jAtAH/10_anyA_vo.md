@@ -3,11 +3,6 @@ title = "10 अन्या वो"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ नवमीमाह— अन्या व इति ।
-</details>
-
 <details><summary>Keith</summary>
 
 Let one of you aid another,  

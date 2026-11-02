@@ -3,11 +3,6 @@ title = "07 आजुह्वानस् सुप्रतीकᳶ"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ तृतीयामाह— आजुह्वानः सुप्रतीक इति।
-</details>
-
 <details><summary>Keith</summary>
 
 Receiving offering, fair of face, O Agni;  

@@ -3,11 +3,6 @@ title = "05 ते नो"
 
 +++
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-11 ते नो अर्वन्त इति द्विपदा विराट् ।
-</details>
-
 <details><summary>Keith</summary>
 
 May the swift coursers, who hear the call,  

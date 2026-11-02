@@ -3,11 +3,6 @@ title = "07 ये भूतानाम्"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ षष्ठीमाह— ये भूतानामिति।
-</details>
-
 <details><summary>Keith</summary>
 
 The overlords of creatures,  

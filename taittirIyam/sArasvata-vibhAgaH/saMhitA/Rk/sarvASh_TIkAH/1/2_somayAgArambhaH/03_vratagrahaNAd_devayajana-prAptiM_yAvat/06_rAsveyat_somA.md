@@ -3,11 +3,6 @@ title = "06 रास्वेयत् सोमा"
 
 +++
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-6आहरन्तं दृष्ट्वा जपति - रास्वेति गायत्रीं त्रिपदाम् ॥
-</details>
-
 <details><summary>Keith</summary>
 
 O Soma, give so much, and bear more hither.  

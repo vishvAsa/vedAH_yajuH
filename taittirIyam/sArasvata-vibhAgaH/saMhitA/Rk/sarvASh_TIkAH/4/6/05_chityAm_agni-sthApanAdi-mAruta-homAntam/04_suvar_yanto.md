@@ -3,11 +3,6 @@ title = "04 सुवर् यन्तो"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ चतुर्थीमाह– सुवर्यन्तो नेति।
-</details>
-
 <details><summary>Keith</summary>
 
 Going to the heaven, they look not away;  

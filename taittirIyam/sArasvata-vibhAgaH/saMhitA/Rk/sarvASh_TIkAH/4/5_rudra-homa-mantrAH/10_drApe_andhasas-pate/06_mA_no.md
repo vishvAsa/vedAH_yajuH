@@ -3,11 +3,6 @@ title = "06 मा नो"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ पञ्चमीमाह— मा नो महान्तभिति।
-</details>
-
 <details><summary>Keith</summary>
 
 Neither our great, nor our small,  

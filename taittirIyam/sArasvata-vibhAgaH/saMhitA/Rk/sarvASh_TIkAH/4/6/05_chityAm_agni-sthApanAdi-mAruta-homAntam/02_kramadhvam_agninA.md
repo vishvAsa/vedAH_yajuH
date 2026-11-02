@@ -3,11 +3,6 @@ title = "02 क्रमध्वम् अग्निना"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ द्वितीयामाह— क्रमध्वमग्निनेति।
-</details>
-
 <details><summary>Keith</summary>
 
 Mount ye, with Agni, to the vault,  

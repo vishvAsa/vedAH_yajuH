@@ -3,11 +3,6 @@ title = "18 अवपतन्तीर् अवदन्"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ तृतीयामाह— अवपतन्तीरिति ।
-</details>
-
 <details><summary>Keith</summary>
 
 Falling from the sky  

@@ -3,11 +3,6 @@ title = "03 शतव्ँ वो"
 
 +++
 
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ द्वितीयामाह— शतं वो अम्बेति ।
-</details>
-
 <details><summary>Keith</summary>
 
 A hundred, O mother, are your abodes, A thousand too your shoots,  
