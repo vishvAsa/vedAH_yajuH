@@ -8,27 +8,156 @@ unicode_script: devanagari
 कल्पः- व्याहृतीर् उक्त्वा त्रिर् अभिहिंकृत्य अनवानम् अभिहिंकाराद् ऋचम् उपसंदधाति प्र वो वाजा अभिद्यव इत्य् एकादशेमाः सामिधेन्यः इति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/027/01_pra_vo.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
-प्र᳓ वो वा᳓जा अभि᳓द्यवः ।  
-हवि᳓ष्मन्तो घृता᳓च्या ।  
-देवा᳓ञ् जिगाति सुम्नयुः᳓ ।  
+प्र᳓ वो वा᳓जा अभि᳓द्यवो  
+हवि᳓ष्मन्तो घृता᳓चिया  
+देवा᳓ञ् जिगाति सुम्नयुः᳓
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/027/01_pra_vo.md">
+<details open><summary><h5>001 ...{Loading}...</h5></summary>
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - ऋतव अग्निर्वा
+- ऋषिः - गाथिनो विश्वामित्रः
+- छन्दः - गायत्री
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+प्र᳓ वो वा᳓जा अभि᳓द्यवो  
+हवि᳓ष्मन्तो घृता᳓चिया  
+देवा᳓ञ् जिगाति सुम्नयुः᳓
+</details>
+<details><summary>तैत्तिरीयम् मूलम्</summary>
 
 प्र वो॒ वाजा॑ अ॒भिद्य॑वः ।  
 ह॒विष्म॑न्तो घृ॒ताच्या॑ ।  
-दे॒वाञ्जि॑गाति सुम्न॒युः ।  
+दे॒वाञ्जि॑गाति सुम्न॒युः ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
 
-2'अन्तर्वेद्यन्यः पादो भवति बहिर्वेद्यन्यः' इत्यनेन क्रमेण तिष्ठन् सामिधेनीरन्वाह - प्रवो वाजा इत्याद्याः सर्वा गायत्र्यः ॥ हे ऋत्विग्यजमानाः! वः युष्माकं सामर्थ्येन वाजाः वाजनशीला मासा भवन्ति, अभिद्यवः अभिगतदीप्तयश्च, वृद्धिविशेषेण विलक्षणदीप्तयोऽर्धमासा भवन्ति । हविष्मन्तः हविर्भुजोऽग्न्यादयः देवा भवन्ति घृताच्या गवा सह । सा च घृताची भवति । अञ्चतेः क्विनि नकाराकारयोर्लुप्तयोः 'चौ' इति पूर्वपदस्य दीर्घवं, अन्तोदात्तत्वं च । यज्ञश्चायं देवान् जिगाति प्रकर्षेण गच्छति तेषां भोगहेतुर्भवति । गाङ् गतौ, व्यत्ययेन परस्मैपदम्, शपः लु:, अभ्यासस्य चेत्वम् । यद्वा - गा स्तुतौ, छन्दसि गतिकर्मा द्रष्टव्यः । सुम्नयुः सुखमात्मन इच्छन् । यजमानश्चायं देवान् प्रजिगातीत्येव । एवं 'इदमसीदमसि’ इति यज्ञफलभूतवाजादिसाधनतया तद्भावेन स्तुत्यस्य प्रियं धाम फलभोगस्थानमवरुन्धे ॥
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Strophic on metrical evidence alone
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+abhídyavaḥ ← abhídyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vā́jāḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ghr̥tā́cyā ← ghr̥tā́ñc- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+havíṣmantaḥ ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jigāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sumnayúḥ ← sumnayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
+प्र । वः॒ । वाजाः॑ । अ॒भिऽद्य॑वः । ह॒विष्म॑न्तः । घृ॒ताच्या॑ ।  
+दे॒वान् । जि॒गा॒ति॒ । सु॒म्न॒युः ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+
+_________
+
+- *vo* ← *vaḥ* ← *tvad*
+- \[noun\], genitive, plural
+- “you.”
+
+_________
+
+- *vājā* ← *vājāḥ* ← *vāja*
+- \[noun\], nominative, plural, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+
+_________
+
+- *abhidyavo* ← *abhidyavaḥ* ← *abhidyu*
+- \[noun\], nominative, plural, masculine
+- “celestial; brilliant.”
+
+_________
+
+- *haviṣmanto* ← *haviṣmantaḥ* ← *haviṣmat*
+- \[noun\], nominative, plural, masculine
+- “sacrificing.”
+
+_________
+
+- *ghṛtācyā* ← *ghṛtācī*
+- \[noun\], instrumental, singular, feminine
+- “Ghṛtācī.”
+
+_________
+
+- *devāñ* ← *devān* ← *deva*
+- \[noun\], accusative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *jigāti* ← *gā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); arrive.”
+
+_________
+
+- *sumnayuḥ* ← *sumnayu*
+- \[noun\], nominative, singular, masculine
+
+_________
+
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+हे ऋतवः। वः- युष्माकम्। वाजाः- गतयः। अभिद्यवः- दीप्तिमत्यः। घृताच्या-  पूतनवनीतोपलक्षितपूतभावनया। हविष्मन्तः- हव्ययुक्ताः। सुम्नयुः- सुखकामो यजमानः ऋतुभिः।  देवान्- देवताः। जिगाति- गच्छति॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे ऋतवः **वाजाः** । वजन्ति गच्छन्तीति वाजा मासाः । **अभिद्यवः** । अभितो द्यवो दिवसा येष्वित्यभिद्यवोऽर्धमासाश्च । **हविष्मन्तः** हविर्भाजो देवाः। **घृताच्या** । घृतमञ्चतीति घृताची गौः । तथा च तैत्तिरीयकं-- देवा हविष्मन्तो गौर्घृताची' (तै. सं.२.५.७.४) इति । यद्वा हविष्मन्तो हविषः क्षीरादेः प्रदातारः पशवो घृताच्या । घृतमञ्चति प्राप्नोतीति घृताची स्रुक् । तथा च वाजसनेयकं--- ‘ पशवो हविष्मन्तः स्रुग्घृताची' इति । तया घृताच्या सहिता हविष्मन्तो देवाः पशवश्च मासाश्चार्धमासाश्चेति सर्वे **वः** युष्माकं यजनार्थं प्रभवन्ति । तेषु वाजादिषु प्रभवत्सु सत्सु **सुम्नयुः** सुखमात्मन इच्छन् यजमानः **देवाञ्जिगाति** यज्ञद्वारा देवान् प्राप्नोति । उक्तार्थे तैत्तिरीय ब्राह्मणं- प्र वो वाजा इत्यन्वाह मासा वै वाजा अर्धमासा अभिद्यवो देवा हविष्मन्तो गौर्घृताची यज्ञो देवाञ्जिगाति यजमानः सुम्नयुः ' ( तै. सं. २, ५, ७. ४) इति ॥ अभिद्यवः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः । घृताच्या । ‘ घृ क्षरणदीप्त्योः '। अस्मात् । अञ्जिघृषिभ्यः क्तः' (उ. सू. ३. ३६९) इति कर्मणि क्तः । घृतमाज्यमञ्चतीति ' ऋत्विग्दधृक्' इत्यादिना क्विन् । **अनिदिताम्'** इत्युपधालोपः। 'अञ्चतेश्चोपसंख्यानम् ' इति ङीप् ।' चौ ' इति पूर्वपदान्तोदात्तत्वम् । जिगाति । गातिः गत्यर्थः । छान्दसो जुहोत्यादिः । निघातः । सुम्नयुः । सुम्नं सुखमात्मन इच्छन्निति" ‘सुप आत्मनः क्यच्' । 'क्याच्छन्दसि ' इत्युः । प्रत्ययस्वरः ॥
+
+
+_____________
 अनवानम् उच्छ्वसन्। तत्र प्रथमायाः पाठस् तु-  
 
 > प्र वो वाजा अभिद्यवः।  
@@ -38,30 +167,288 @@ unicode_script: devanagari
 इति।    
 
 हे देवा ये युष्मदीया ऋत्विग्-यजमानाः प्रवर्तन्ते। वाजा गमन-शीला मासा अभिद्यवो ऽभितः पूर्व-पक्ष-रूपेणोत्तर-पक्ष-रूपेण च दीप्यमाना अर्ध-मासा हविष्मन्तो हविर्-भाजो देवाश् च घृताच्या याग-साधन-भूत-घृत-प्रदया गवा सहानुकूलाः प्रवर्तन्ताम् इत्य् अध्याहारः।
-किंचायं यज्ञो देवाञ्जिगाति प्राप्नोतु। यजमानस्य सुम्नयुः सुखेच्छुर्भवतु। 
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अ᳓ग्न आ᳓याहि वीत᳓ये ।  
-गृणानो᳓ हव्य᳓दातये ।  
-नि᳓ हो᳓ता सत्सि बर्हि᳓षि ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
-अग्न॒ आया॑हि वी॒तये॑ ।  
-गृ॒णा॒नो ह॒व्यदा॑तये ।  
-नि होता॑ सत्सि ब॒र्हिषि॑ ।  
+किंचायं यज्ञो देवाञ्जिगाति प्राप्नोतु। यजमानस्य सुम्नयुः सुखेच्छुर्भवतु।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-2अग्न आयाहीति ॥ हे अग्ने! आयाहि आगच्छ वीतये तव पानाय, हव्यदातये हविषां च देवोभ्यो दानाय, गृणानः अहो प्रशस्तं कर्मेति शब्दयन् । कर्मणि वा छान्दसो यगभावः । स्तूयमानः । अथ आगत्य देवानां होता आह्वाता भूत्वा बर्हिषि यज्ञार्थं निषत्सि निषीद । छान्दसश्शपोलुक् । हव्यदातिशब्दोऽयं दासीभारादिर्द्रष्टव्यः ॥
+2'अन्तर्वेद्यन्यः पादो भवति बहिर्वेद्यन्यः' इत्यनेन क्रमेण तिष्ठन् सामिधेनीरन्वाह - प्रवो वाजा इत्याद्याः सर्वा गायत्र्यः ॥ हे ऋत्विग्यजमानाः! वः युष्माकं सामर्थ्येन वाजाः वाजनशीला मासा भवन्ति, अभिद्यवः अभिगतदीप्तयश्च, वृद्धिविशेषेण विलक्षणदीप्तयोऽर्धमासा भवन्ति । हविष्मन्तः हविर्भुजोऽग्न्यादयः देवा भवन्ति घृताच्या गवा सह । सा च घृताची भवति । अञ्चतेः क्विनि नकाराकारयोर्लुप्तयोः 'चौ' इति पूर्वपदस्य दीर्घवं, अन्तोदात्तत्वं च । यज्ञश्चायं देवान् जिगाति प्रकर्षेण गच्छति तेषां भोगहेतुर्भवति । गाङ् गतौ, व्यत्ययेन परस्मैपदम्, शपः लु:, अभ्यासस्य चेत्वम् । यद्वा - गा स्तुतौ, छन्दसि गतिकर्मा द्रष्टव्यः । सुम्नयुः सुखमात्मन इच्छन् । यजमानश्चायं देवान् प्रजिगातीत्येव । एवं 'इदमसीदमसि’ इति यज्ञफलभूतवाजादिसाधनतया तद्भावेन स्तुत्यस्य प्रियं धाम फलभोगस्थानमवरुन्धे ॥
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>Wilson</summary>
 
+_________
+**English translation:**  
+
+“The months, the half months, (the gods) who are the receivers of oblations, with the butter-yielding kine, preside over your rite; the sacrificer, desirous of prosperity, worships the gods.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+The months: pra vo vājā abhidyavo haviṣmanto ghṛtācyā: vājā = **māsāḥ**, months;
+
+Abhīdyavaḥ = arddha māsāḥ, half months;
+
+**Haviṣmanta** = having the **havis**. or oblation of butter; an epithet of **devāḥ**, gods (**Taittirīya** Samhitā 2.5.7.4); also explaiend by paśvaḥ, animals yielding milk, of which havis. ismade;
+
+**Ghṛtāci** = gau; another meaning is, **sruk**, a ladle; pra implies prabhavanti, all these preside over your sacrificing
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Forth to you (go) the heaven-bound prizes, bearing offerings, by the  ghee-filled (ladle).  
+He [=Agni?] goes to the gods, seeking their favor.
+</details>
+
+<details><summary>Griffith</summary>
+
+IN ladle dropping oil your food goes in oblation up to heaven,  
+     Goes to the Gods in search of bliss.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+Forward (goes) your 1 strength tending heavenward, rich in offerings, with the (ladle) full of ghee. To the gods goes (the worshipper) desirous of their favour.
+</details>
+
+<details><summary>Geldner</summary>
+
+Eure für die Himmelswelt bestimmten Ehrengaben, in Opferspenden bestehend, sollen mit dem Schmalzlöffel zum Vorschein kommen. Zu den Göttern geht er, ihre Gunst suchend.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Vor dringt eur Opfer himmelwärts, im Butterlöffel trankversehn, Zu Göttern eilt der gütige.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Пусть (двинутся) вперед ваши награды, предназначенные для неба.  
+Обильные жертвенным возлиянием, вместе с полной жира (ложкой)!  
+Он идет к богам, ища (их) расположения.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ऋतवोऽग्निर्वा
+- विश्वामित्रः
+- निचृद्गायत्री
+- षड्जः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब पन्द्रह ऋचावाले सत्ताईसवें सूक्त का प्रारम्भ है। उसके प्रथम मन्त्र से विद्वानों को क्या करना चाहिये, इस विषय को कहते हैं।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जो (वः) आप लोगों के (अभिद्यवः) चारों ओर से प्रकाशमान (हविष्मन्तः) बहुत सी देने योग्य वस्तुओं से युक्त (वाजाः) विज्ञान आदि पदार्थ (घृताच्या) जल को प्राप्त होनेवाली रात्रि के सहित वर्त्तमान हैं उनसे युक्त जो (सुम्नयुः) अपने सुख का अभिलाषी (देवान्) विद्वानों की (प्र, जिगाति) उत्तम प्रकार स्तुति करता है, उन विद्वानों और स्तुतिकारक उस पुरुष को आप लोग प्राप्त होओ ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जैसे दिन में पदार्थ सूखते और रात्रि में गीले होते हैं, उसी प्रकार जो अपने पदार्थ हैं, वे औरों के और जो औरों के हैं, वे अपने हैं, इस प्रकार सुख की इच्छा से विद्वानों का सङ्ग करना चाहिये ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे मनुष्यो ये वोऽभिद्यवो हविष्मन्तो वाजा घृताच्या सह वर्त्तन्ते तैर्युक्तो यः सुम्नयुर्देवान् प्रजिगाति तांस्तं च यूयं प्राप्नुत ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अथ विद्वद्भिः किं कार्यमित्याह।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (प्र) (वः) युष्माकम् (वाजाः) विज्ञानाद्यः पदार्थाः (अभिद्यवः) अभितः प्रकाशमानाः (हविष्मन्तः) बहूनि हवींषि देयानि वस्तूनि विद्यन्ते येषु ते (घृताच्या) या घृतमुदकमञ्चति प्राप्नोति तथा रात्र्या (देवान्) (जिगाति) स्तौति (सुम्नयुः) य आत्मनः सुम्नं सुखमिच्छुः ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  यथा दिवसे पदार्थाः शुष्का भवन्ति तथैव रात्रावार्द्रा जायन्ते तथैव ये स्वकीयाः पदार्थास्तेऽन्येषां येऽन्येषां ते स्वकीयाः सन्तीति सुखेच्छया विद्वत्सङ्गः कर्त्तव्यः ॥१॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - विषयः</summary>
+
+या सूक्तात अग्नी व विद्वानांच्या गुणांचे वर्णन असल्यामुळे या सूक्तात सांगितलेल्या अर्थाची पूर्व सूक्तार्थाबरोबर संगती जाणावी.
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जसे पदार्थ दिवसा सुकतात व रात्री ओलसर होतात त्याच प्रकारे जे पदार्थ आपले आहेत ते इतरांचे व जे इतरांचे ते आपले आहेत या प्रकारे सुखाच्या इच्छेने विद्वानांचा संग केला पाहिजे. ॥ १ ॥
+</details>
+
+</details>
+</div><div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/016/10_agna_A.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+अ᳓ग्न **आ᳓ याहि** वीत᳓ये +++(=हविर्भक्षणाय)+++  
+**गृणानो᳓** +++(=स्तूयमानः)+++ हव्य᳓दातये +++(देवेभ्यः)+++ ।  
+नि᳓ हो᳓ता **सत्सि** बर्हि᳓षि ।।
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/016/10_agna_A.md">
+<details open><summary><h5>010 ...{Loading}...</h5></summary>
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - भरद्वाजो बार्हस्पत्यः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+अ᳓ग्न आ᳓ याहि वीत᳓ये  
+गृणानो᳓ हव्य᳓दातये  
+नि᳓ हो᳓ता सत्सि बर्हि᳓षि
+</details>
+<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+अग्न॒ आया॑हि वी॒तये॑ ।  
+गृ॒णा॒नो ह॒व्यदा॑तये ।  
+नि होता॑ सत्सि ब॒र्हिषि॑ ।
+</details>
+
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Archaic
+
+_________
+**Pāda-label**  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+_________
+**Morph**  
+ā́ ← ā́ (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vītáye ← vītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+havyádātaye ← havyádāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+satsi ← √sad- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । आ । या॒हि॒ । वी॒तये॑ । गृ॒णा॒नः । ह॒व्यऽदा॑तये ।  
+नि । होता॑ । स॒त्सि॒ । ब॒र्हिषि॑ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *agna* ← *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *yāhi* ← *yā*
+- \[verb\], singular, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+
+_________
+
+- *vītaye* ← *vīti*
+- \[noun\], dative, singular, feminine
+
+_________
+
+- *gṛṇāno* ← *gṛṇānaḥ* ← *gṛ*
+- \[verb noun\], nominative, singular
+- “praise.”
+
+_________
+
+- *havyadātaye* ← *havya*
+- \[noun\], neuter
+- “Havya; offering; havya \[word\].”
+
+_________
+
+- *havyadātaye* ← *dātaye* ← *dāti*
+- \[noun\], dative, singular, feminine
+
+_________
+
+- *ni*
+- \[adverb\]
+- “back; down.”
+
+_________
+
+- *hotā* ← *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+
+_________
+
+- *satsi* ← *sad*
+- \[verb\], singular, Present indikative
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+
+_________
+
+- *barhiṣi* ← *barhis*
+- \[noun\], locative, singular, neuter
+- “Barhis; barhis \[word\].”
+
+_________
+
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। हव्यदातये- हव्यदानाय। गृणानः- स्तुतः सन्। वीतये- अनुभूतये। आ याहि- आगच्छ।  होता- देवाह्वाता सन्। बर्हिषि- दर्भासने चित्ताकाशे वा। नि- नितराम्। सत्सि- उपविश॥१०॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे अग्ने त्वम् **आ** **याहि** आगच्छ । किमर्थम् । **वीतये** हविषां भक्षणार्थम् । किंच **हव्यदातये** हव्यानि हवींषि देवेभ्यो दातुम् । **गृणानः** स्तूयमानस्त्वं **बर्हिषि** आस्तीर्णे दर्भे **होता** सन् **नि** **सत्सि** निषीद उपविश ॥ ॥ २२ ॥
+
+
+_____________
 तत्र द्वितीया सामिधेनी-मन्त्र-काण्ड एव पठिता-  
 > ‘अग्न आ याहि वीतये।  
 > गृणानो हव्य-दातये।  
@@ -69,10 +456,108 @@ unicode_script: devanagari
 
 इति।  
 
-हे ऽग्ने हव्य-दातये यजमानस्य हविर्-दानाय वीतये देवानां हविर्-भक्षणाय गृणानो यजमानो देवानां हविर् दास्यतीति भवद्भिर् भक्षणीयम् इति वदन्न् आयाहि। आगत्य च होताऽऽह्वाता भवन् बर्हिंषि यज्ञे निषत्सि निषीद। 
+हे ऽग्ने हव्य-दातये यजमानस्य हविर्-दानाय वीतये देवानां हविर्-भक्षणाय गृणानो यजमानो देवानां हविर् दास्यतीति भवद्भिर् भक्षणीयम् इति वदन्न् आयाहि। आगत्य च होताऽऽह्वाता भवन् बर्हिंषि यज्ञे निषत्सि निषीद।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2अग्न आयाहीति ॥ हे अग्ने! आयाहि आगच्छ वीतये तव पानाय, हव्यदातये हविषां च देवोभ्यो दानाय, गृणानः अहो प्रशस्तं कर्मेति शब्दयन् । कर्मणि वा छान्दसो यगभावः । स्तूयमानः । अथ आगत्य देवानां होता आह्वाता भूत्वा बर्हिषि यज्ञार्थं निषत्सि निषीद । छान्दसश्शपोलुक् । हव्यदातिशब्दोऽयं दासीभारादिर्द्रष्टव्यः ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Come, **Agni**, to the (sacrificial) fod; being lauded, (come) to convey the oblation (to the gods); sit down as the ministrant priest upon the sacred grass.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Agni, being hymned, travel hither to pursue (the oblations), to give the  oblations.  
+Sit down as Hotar on the ritual grass.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+Both Geldner and Renou supply ‘gods’ as the underlying object of vītáye, and this is supported by devávītaye in vs. 7 (and 41). But as in the previous hymn (VI.15.1, 14), I think the default object of √vī here is havyá-, suggested by the name Vīta-havya, the poet to whom VI.15 is ascribed. Here the havyá- can easily be extracted from the parallel purpose dative havyá-dātaye in b and its absence explained as gapping.
+
+However, the Geldner/Renou solution is certainly possible, and there are no major implications either way.
+</details>
+
+<details><summary>Griffith</summary>
+
+Come, Agni, lauded, to the feast; come to the offering of the gifts.  
+     As Priest be seated on the grass.
+</details>
+
+<details><summary>Geldner</summary>
+
+Agni! Komm besungen zur Götterladung, zur Opferausteilung. Setz dich als Hotri auf das Barhis!
+</details>
+
+<details><summary>Grassmann</summary>
+
+Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich auf die Streu.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+О Агни, приди для приглашения (богов),  
+Воспеваемый, для раздачи жертв!  
+Усядься, хотар, на жертвенную солому!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भरद्वाजो बार्हस्पत्यः
+- गायत्री
+- षड्जः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर विद्वानों को क्या करना चाहिये, इस विषय को कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (अग्ने) विद्वन् ! जिस कारण से आप (गृणानः) स्तुति करते हुए (होता) दाता (बर्हिषि) उत्तम सभा में (वीतये) विद्या आदि श्रेष्ठ गुणों की व्याप्ति के लिये और (हव्यदातये) देने योग्य के दान के लिये (नि, सत्सि) उत्तम प्रकार जानते हो इससे हम लोगों की उत्तम दीप्ति को (आ, याहि) सब प्रकार प्राप्त होओ ॥१०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जहाँ विद्वान् जन विद्या की वृद्धि करने की इच्छा करते हैं, वहाँ सब सुखी होते हैं ॥१०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे अग्ने ! यतस्त्वं गृणानो होता बर्हिषि वीतये हव्यदातये निषत्सि तस्मादस्माकं समिधमाऽऽयाहि ॥१०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनर्विद्वद्भिः किं कर्त्तव्यमित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अग्ने) विद्वन् (आ) (याहि) आगच्छ (वीतये) विद्यादिशुभगुणव्याप्तये (गृणानः) स्तुवन् (हव्यदातये) दातव्यदानाय (नि) (होता) दाता (सत्सि) समवैषि (बर्हिषि) उत्तमायां सभायाम् ॥१०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  यत्र विद्वांसो विद्यावृद्धिं चिकीर्षन्ति तत्र सर्वे सुखिनो भवन्ति ॥१०॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जेथे विद्वान विद्यावृद्धीची इच्छा करतात तेथे सर्वजण सुखी होतात. ॥ १० ॥
+</details>
+
+</details>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न् त्वा समि᳓द्भिर् अङ्गिरः ।  
 घृते᳓न वर्धयामसि ।  

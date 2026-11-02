@@ -3,35 +3,264 @@ title: ०७ हविषां याज्यानुवाक्याः
 unicode_script: devanagari
 
 ---
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/16_agnirmUrdhA_divaH.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
-अग्नि᳓र् मूर्धा᳓ दिवᳵ᳓ ककु᳓त् ।  
-प᳓तिᳶ पृथिव्या᳓ अय᳓म् ।  
-अपाँ᳓ रे᳓ताँसि जिन्वति ।  
+अग्नि᳓र् मूर्धा᳓ दिवः᳓ ककु᳓त्  
+प᳓तिः पृथिव्या᳓ अय᳓म् ।  
+अपां᳓ **रे᳓तांसि जिन्वति**+++(=प्रीणयति)+++ ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/044/16_agnirmUrdhA_divaH.md">
+<details open><summary><h5>016 ...{Loading}...</h5></summary>
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - विरूप आङ्गिरसः
+- छन्दः - गायत्री
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+अग्नि᳓र् मूर्धा᳓ दिवः᳓ ककु᳓त्  
+प᳓तिः पृथिविया᳓ अय᳓म्  
+अपां᳓ रे᳓तांसि जिन्वति
+</details>
+<details><summary>तैत्तिरीयम् मूलम्</summary>
 
 अ॒ग्निर्मू॒र्धा दि॒वᳵ क॒कुत् ।  
 पति॑ᳶ पृथि॒व्या अ॒यम् ।  
-अ॒पाँ रेताँ॑सि जिन्वति ।  
+अ॒पाँ रेताँ॑सि जिन्वति ।
+</details>
+
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal on metrical evidence alone
+
+_________
+**Pāda-label**  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+_________
+**Morph**  
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+kakút ← kakúd- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mūrdhā́ ← mūrdhán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+jinvati ← √ji- 2 ~ jinv- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rétāṁsi ← rétas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । मू॒र्धा । दि॒वः । क॒कुत् । पतिः॑ । पृ॒थि॒व्याः । अ॒यम् ।  
+अ॒पाम् । रेतां॑सि । जि॒न्व॒ति॒ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *agnir* ← *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *mūrdhā* ← *mūrdhan*
+- \[noun\], nominative, singular, masculine
+- “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
+
+_________
+
+- *divaḥ* ← *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+
+_________
+
+- *kakut* ← *kakud*
+- \[noun\], nominative, singular, feminine
+
+_________
+
+- *patiḥ* ← *pati*
+- \[noun\], nominative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+
+_________
+
+- *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
+- \[noun\], genitive, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+
+_________
+
+- *ayam* ← *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *apāṃ* ← *apām* ← *ap*
+- \[noun\], genitive, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+
+_________
+
+- *retāṃsi* ← *retas*
+- \[noun\], accusative, plural, neuter
+- “semen; sperm.”
+
+_________
+
+- *jinvati* ← *jinv*
+- \[verb\], singular, Present indikative
+- “enliven; animate.”
+
+_________
+
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+मूर्धा- शिरोभूतः। दिवः- नभसः। ककुत्- मुख्यः। पृथिव्याः- भूम्याः। पतिः- पालकः। अग्निः।  अपाम्- उदकानाम्। रेतांसि। जिन्वति- प्रीणयति॥१६॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**मूर्धा** देवानां श्रेष्ठः **दिवः** द्युलोकस्य **ककुत्** उच्छ्रितः **पृथिव्याः** च **पतिः** **अयम्** **अग्निः** **अपां** **रेतांसि** स्थावरजङ्गमात्मकानि भूतानि जिन्वति प्रीणयति ॥
+
+___________
+अयमग्निरादित्यरूपेण दिवो द्युलोकस्य ककुदुच्छ्रितो मूधां शिरःस्थानीयः, पृथिव्याः पतिर्दाहपकादिकारित्वेन पालकोऽप्ययम्।   किंच, अप रेतांस्युदककायांणिस्थात्वरजङ्गमशरीराणि जाठराग्निरूपेण जिन्वति प्रीणयति।
+
+
+_____________
+([अत्र](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/4/4) द्रष्टव्यम्।)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
+अयम् **अग्निर् मूर्धा** प्रधानभूतः **दिवः** द्युलोकस्य **ककुत्** उच्छ्रितः आत्मेत्यर्थः अर्यमात्मना **दिवो** मूर्धत्वेन वतत इति । अयमेव **पृथिव्याः पतिः** पाता; अग्निर् हि पृथिव्यात्मना वर्तते । सो ऽयम् **अपां रेतांसि** कार्यभूतानि स्थावरजङ्गमाख्यानि माध्यमिकाग्निरूपेण **जिन्वति** वृष्ट्या तर्पयति । 'ऊडिदम्' इति षष्ठ्या उदात्तत्वम् । 'उदात्तयणः' इति पृथिव्याः ॥
+_____________
+अयमग्निर्देवो दिवो मूर्धा प्रधानभूतः, पृथिव्याश्च ककुत् प्रधानः पतिः, अपां रेतांसि कार्यभूतानि भुवनानि जिन्वति प्रीणयतीति प्रथमा ॥
+
+
+_____________
 1अथ हविषां याज्यानुवाक्याः - अग्निर्मूर्धेत्याद्याः ॥ तत्रैव व्याख्याताः त्रयोदश । अग्निं स्विष्टकृतमिति याज्या स्विष्टकृतः ।  
 जुषतां हविः इत्यन्तं यजुः । शिष्टा त्रिष्टुप् ।  
 अग्नेयदद्येति तत्रैव व्याख्याता ॥
-
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>Wilson</summary>
 
-([अत्र](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/4/4) द्रष्टव्यम्।)
+_________
+**English translation:**  
 
+“**Agni**, the head (of the gods), the summit of heaven-- he the lord of the earth-- gladdens the seed of thewaters.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Seed: retāṃsi, the moveable andimmovable productions of the creative waters
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>Jamison Brereton</summary>
+
+Agni is the head, the peak of heaven; this (Agni) here is lord of the earth. He quickens the spawn of the waters.
+</details>
+
+<details><summary>Griffith</summary>
+
+Agni is head and height of heaven, the Master of the earth is he:  
+     He quickeneth the watere seed.
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+agni is the head and the axis of heaven, the lord of this earth. He makes the seed of water successful.
+</details>
+
+<details><summary>Keith</summary>
+
+Agni is the head of the sky, the height,  
+Lord of the earth here,  
+He quickeneth the seed of the waters.
+</details>
+
+<details><summary>Geldner</summary>
+
+Agni ist das Haupt, die Spitze des Himmels, er der Herr der Erde; er kräftigt den Samen der Gewässer.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser Samenguss.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Агни – глава неба, вершина;  
+Он хозяин земли,  
+Он оживляет семена вод.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- विरूप आङ्गिरसः
+- निचृद्गायत्री
+- षड्जः
+</details>
+
+<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अस्मिन्) इस (स्वध्वरे) हिंसारहित अथवा अहिंस्य (यज्ञे) ध्यानयज्ञ में (अग्निम्) सर्वाधार महेश की (आहुवे) स्तुति करता हूँ जो देव (ऊर्जः+नपातम्) बल और शक्ति का वर्धक है और (पावकशोचिषम्) पवित्र तेजोयुक्त है ॥१३॥
+</details>
+
+<details><summary>शिव शंकर शर्मा - भावार्थः</summary>
+
+भावार्थभाषाः -  अध्वर और यज्ञ दोनों शब्द एकार्थक हैं, तथापि यहाँ विशेषणवत् अध्वर शब्द प्रयुक्त हुआ है। भाव इसका यह है कि ईश्वर बलदाता है, उसकी उपासना से महान् बल प्राप्त होता है ॥१३॥
+</details>
+
+<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  स्वध्वरे=अन्यैरत्यन्तमहिंस्ये हिंसारहिते वा। अस्मिन् यज्ञे=ध्यानयज्ञे। अग्निं=सर्वाधारमीशमाहुवे=आह्वयामि स्तौमि। कीदृशम्। ऊर्जः=बलस्य। नपातं न पातयतीति नपातः। किन्तु बलस्य वर्धकमेव। पुनः। पावकशोचिषम्=पवित्रतेजस्कम् ॥१३॥
+</details>
+
+</details>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भु᳓वो यज्ञ᳓स्य र᳓जसश् च नेता᳓ ।  
 य᳓त्रा नियु᳓द्भिस् स᳓चसे शिवा᳓भिः ।  
@@ -250,29 +479,242 @@ unicode_script: devanagari
   -   टीका 12तत्रैव याज्या - प्र ससाहिषे इति त्रिष्टुप् ॥ हे इन्द्र पुरुहूत बहुभिराहूत शत्रून् प्रससाहिषे प्रकषेर्णाभिभवसि । छान्दसे लिटि 'तुजादानाम्' इत्यभ्यासस्य दीर्घत्वम् । यद्वा - अभ्यास योर्विपर्ययः । कस्मादेवमुच्यत इति चेत् ज्येष्ठः श्रेष्ठः प्रभूततमो वा ते तव शुष्मः बलम् । अत ख इहास्मिन् कर्मणि रातिः दानं हविषः तवैवास्तु त्वामेव यजामहे । 'मन्त्रे वृष' इति क्तिन उदात्तत्वम् । त्वं चास्मभ्यं दक्षिणेन हस्तेन वसूनि धनानि उदकादीनि आभर आहर । पूर्ववद्भत्वम्, 'अन्येषामपि दृश्यते' इति दक्षिणेत्यस्य दीर्घत्वम् । यस्मात्सिन्धूनां अपां रेवतीनां साधनानां पतिः पाता त्वमसि । रयेर्मतुब्बहुलम्' इति संप्रसारणत्वम् । यस्मात्पतिरसि, तस्मात्त्वमेब देहीत्युच्यते; बलत्त्वन्नाच्च तव दातुं नास्ति प्रतिबन्ध इति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/006/01_mahA_N_indro.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
-महाँ᳓ इ᳓न्द्रो य᳓ ओ᳓जसा ।  
+महाँ᳓ **इ᳓न्द्रो** य᳓ ओ᳓जसा-    
 पर्ज᳓न्यो वृष्टिमाँ᳓ इव ।  
-स्तो᳓मैर् वत्स᳓स्य वावृधे ।  
+स्तो᳓मैर् वत्स᳓स्य **वावृधे** ॥+++(4)+++
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/006/01_mahA_N_indro.md">
+<details open><summary><h5>001 ...{Loading}...</h5></summary>
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - वत्सः काण्वः
+- छन्दः - गायत्री
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+महाँ᳓ इ᳓न्द्रो य᳓ ओ᳓जसा  
+पर्ज᳓न्यो वृष्टिमाँ᳓ इव  
+स्तो᳓मैर् वत्स᳓स्य वावृधे
+</details>
+<details><summary>तैत्तिरीयम् मूलम्</summary>
 
 म॒हाँ इन्द्रो॒ य ओज॑सा ।  
 प॒र्जन्यो॑ वृष्टि॒माँ इ॑व ।  
-स्तोमै॑र्व॒त्सस्य॑ वावृधे ।  
+स्तोमै॑र्व॒त्सस्य॑ वावृधे ।
+</details>
+
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Strophic
+
+_________
+**Pāda-label**  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+_________
+**Morph**  
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+parjányaḥ ← parjánya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣṭimā́n ← vr̥ṣṭimánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vatsásya ← vatsá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒हान् । इन्द्रः॑ । यः । ओज॑सा । प॒र्जन्यः॑ । वृ॒ष्टि॒मान्ऽइ॑व ।  
+स्तोमैः॑ । व॒त्सस्य॑ । व॒वृ॒धे॒ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *mahāṃ* ← *mahat*
+- \[noun\], nominative, singular, masculine
+- “large; eminent; great; loud; dangerous; strong; long; high;
+    much(a); mahant \[word\]; ample; very; great; adult; important;
+    dark; high; abundant; violent; remarkable; mighty; big; long.”
+
+_________
+
+- *indro* ← *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+
+_________
+
+- *ya* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *ojasā* ← *ojas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+
+_________
+
+- *parjanyo* ← *parjanyaḥ* ← *parjanya*
+- \[noun\], nominative, singular, masculine
+- “cloud; Parjanya; Indra; nimbus.”
+
+_________
+
+- *vṛṣṭimāṃ* ← *vṛṣṭimat*
+- \[noun\], nominative, singular, masculine
+- “rain; raining; rainy.”
+
+_________
+
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+
+_________
+
+- *stomair* ← *stomaiḥ* ← *stoma*
+- \[noun\], instrumental, plural, masculine
+- “hymn; Stoma; stoma \[word\].”
+
+_________
+
+- *vatsasya* ← *vatsa*
+- \[noun\], genitive, singular, masculine
+- “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
+    son; male child.”
+
+_________
+
+- *vāvṛdhe* ← *vṛdh*
+- \[verb\], singular, Perfect indicative
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+
+_________
+
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+महान्- महात्मा। इन्द्रः- परमेश्वरः। वृष्टीशनदेवता आधिभौतिके। आध्यात्मिके तु अपां  मूलशक्तिधाराणां चित्तभूमिकायां स्रावक ईशनशक्तिभूतः। यः। वृष्टिमान् पर्जन्य इव। ओजसा-  बलेन। वत्सस्य- स्ववत्सभूतस्योपासकस्य। स्तोमैः- मन्त्रैः। वावृधे- वर्धते॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**यः** **इन्द्रः** **ओजसा** बलेन **महान्** सर्वेभ्योऽधिकः । क इव । **वृष्टिमानिव** । यथा वृष्ट्या युक्तः **पर्जन्यः** रसानां प्रार्जयिता देवो महान् स इवेत्यर्थः । स इन्द्रः **वत्सस्य** पुत्रस्थानीयस्य स्तोतुर्वत्सनाम्न एवर्षेः स्तोत्रैः **ववृधे** प्रवर्धते ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
+य **ओजसा** बलेन **महान् इन्द्रः** । पूर्ववद्रुत्वादि संहितायाम् । स **इन्द्रः**, **वत्सस्य** वत्सस्थानीयस्य यजमानस्य ऋषेर्वा वत्सनाम्नः, स्वभूतैस् तोमैस् **स्तोत्रैः वावृधे** वर्धताम् । 'छन्दसि लुङ्लिङ्लिटः' इति लिट् । 'तुजादीनां' इत्यभ्यासस्य दीर्घः । 
+
+क इव? **पर्जन्यो वृष्टिमानिव** यथा वृष्टिमान् पर्जन्योभिवर्धते लोकाभिवृद्ध्या तथेत्यर्थः । वृष्टिमानित्यस्व 'ह्रस्वनुङ्भ्यां मतुप्' इति मतुप उदात्तत्वम् । पूर्ववद्रुत्वादि संहितायाम् ॥
+
+
+_____________
 -  म॒हाँ इन्द्रो॒ य ओज॑सा प॒र्जन्यो॑ वृष्टि॒माँ इ॑व ।  
 स्तोमै॑र्व॒त्सस्य॑ वावृधे ॥
 
   -    टीका  1शुक्रपात्रेण माहेन्द्रं गृह्णाति - महानिति गायत्र्या त्रिपदया ॥ य ओजसा बलेन महान् इन्द्रः । पूर्ववद्रुत्वादि संहितायाम् । स इन्द्रः, वत्सस्य वत्सस्थानीयस्य यजमानस्य ऋषेर्वा वत्सनाम्नः, स्वभूतैस्तोमैस्स्तोत्रैः वावृधे वर्धताम् । 'छन्दसि लुङ्लिङ्लिटः' इति लिट् । 'तुजादीनां' इत्यभ्यासस्य दीर्घः । क इव? पर्जन्यो वृष्टिमानिव यथा वृष्टिमान् पर्जन्योभिवर्धते लोकाभिवृद्ध्या तथेत्यर्थः । वृष्टिमानित्यस्व 'ह्रस्वनुङ्भ्यां मतुप्' इति मतुप उदात्तत्वम् । पूर्ववद्रुत्वादि संहितायाम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“**Indra**, who is great in might like **Parjanya** the disributor of rain, is magnified by the praises o **Vatsa**.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Great Indra, who is like rain-bearing Parjanya in might,  
+has grown strong through the praises of Vatsa.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+Displaced iva in b; we might expect *parjánya iva vṛṣṭimā́n, which would also be metrically acceptable.
+</details>
+
+<details><summary>Griffith</summary>
+
+INDRA, great in his power and might, and like Parjanya rich in rain,  
+     Is magnified by Vatsa's lauds.
+</details>
+
+<details><summary>English</summary>
+
+Great is Indra who through his might  
+Is like Parjanya with the rain;  
+He waxeth with the praises of Vatsa.
+</details>
+
+<details><summary>Geldner</summary>
+
+Indra, der an Kraft groß ist wie der regenbringende Parjanya, hat sich an des Vatsa Lobliedern erbaut;
+</details>
+
+<details><summary>Grassmann</summary>
+
+Der grosse Indra, der an Kraft der regenschwangern Wolke gleicht, Erlabt an Vatsa's Liedern sich,
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Индра, который велик благодаря силе,  
+Словно грозовая туча, несущая дождь,  
+Возрос от восхвалений Ватсы,
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वत्सः काण्वः
+- गायत्री
+- षड्जः
+</details>
+
+</details>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाँ᳓ इ᳓न्द्रो नृव᳓द् आ᳓ चर्षणि-प्राः᳓ ॥13॥  
 उत᳓ द्वि-ब᳓र्हा अमिन᳓स् स᳓होभिः ।  
