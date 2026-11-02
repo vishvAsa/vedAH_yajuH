@@ -1,9 +1,9 @@
 +++
 title = "१२ आघारः"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/12_AghAraH">
-<details open><summary><h1>१२ आघारः ...{Loading}...</h1></summary>
+
+<details open><summary><h1>१२ आघारः …{Loading}…</h1></summary>
 
 १ एकपदा गायत्री, ८ द्विपदा गायत्री ।  प्रजापतिर्ऋषिः
 ____
@@ -243,16 +243,18 @@ ____
 
 आघारम् आघारयति
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 इ॒त +++(अस्माद् आघारात्)+++ इन्द्रो॑ अकृणोद् वी॒र्या॑णि समा॒रभ्य॑  
 +++(अयम् आघार)+++ ऊ॒र्ध्वो अ॑ध्व॒रो दि॑वि॒स्पृश॑म् ।   
 +++(आघारवद्)+++ अह्रु॑तो+++(=अकुटिलः)+++ य॒ज्ञो य॒ज्ञप॑ते॒र् इन्द्रा॑वा॒न् ।
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 Hence Indra wrought mighty deeds.  
@@ -288,6 +290,7 @@ Offered to Indra, hail!
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाहा॑ ।
@@ -409,4 +412,5 @@ be light united with light.
 
 इति द्वादशोनुवाकः  
 </details>
+
 </div>

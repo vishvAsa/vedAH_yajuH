@@ -1,9 +1,9 @@
 +++
 title = "१३ स्रुग्-व्यूहनादिः"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH">
-<details open><summary><h1>१३ स्रुग्-व्यूहनादिः ...{Loading}...</h1></summary>
+
+<details open><summary><h1>१३ स्रुग्-व्यूहनादिः …{Loading}…</h1></summary>
 
 १-२ अनुष्टुप्  
 १२ पुरस्तात् ज्योतिस्त्रिष्टुप्  
@@ -11,7 +11,6 @@ title = "१३ स्रुग्-व्यूहनादिः"
 प्रजापतिर्ऋषिः  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/vAjasya_mA.md">
-<details open><summary><h6>वाजस्य मा ...{Loading}...</h6></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1स्रुचौ व्यूहति - वाजस्येत्यनुष्टुब्भ्यां चतुष्पदाभ्याम् ॥
@@ -179,7 +178,6 @@ __________
 
 अथेन्द्राग्नी मम सपत्नान्विषूचीनान्सर्वतः पलायमानान्व्यस्यतां विनाशयेताम्। 
 </details>
-</details>
 </div>  
 
 ____
@@ -330,7 +328,7 @@ May I not brush offspring and the organ.
 <details><summary>प्रदीपसिंहः</summary>
 
 - (तृतीयतुरीयौ द्वादशाक्षरौ यस्यास्तां परोष्णिहेत्याचक्षते । इति....   
-  अष्टाक्षरः प्रथमः पादः । आचतुरक्षरतायाः प्रतिक्रमन्ति इति प्रथमद्वितीयौ पञ्चाक्षरवभूताम् य़ द्वादशाक्षर अष्टाक्षरतायाः प्रतिक्रामन्तीति तृतीयोष्टाक्षरो भूत् ।
+  अष्टाक्षरः प्रथमः पादः । आचतुरक्षरतायाः प्रतिक्रमन्ति इति प्रथमद्वितीयौ पञ्चाक्षरवभूताम् य़ द्वादशाक्षर अष्टाक्षरतायाः प्रतिक्रामन्तीति तृतीयोष्टाक्षरो भूत् ।
 - मैसूर् पुस्तके-तलटिप्पन्याम् - अष्टाक्षराः आ चतुरक्षरतायाः प्रतिक्रामन्ति इथि प्रथमद्वितीयौ पञ्चाक्षरावभूताम् । द्वादशाक्षराः आ अष्टाक्षरतायाः प्रतिक्रामन्ति इति तृतीयोष्टाक्षरोभूत् -इति पाठान्तराणि सन्ति)
 </details>
 
@@ -468,8 +466,9 @@ ____
 
 मध्यमं परिधिम् अनुप्रहरति
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/63_yam_paridhim.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 यम् प॑रि॒धिम् प॒र्यध॑त्था॒  
 अग्ने॑ +++(पादादित्वान्न निहन्यते स्वरः)+++ देव +++(दुष्टैः)+++ प॒णिभि॑र् वी॒यमा॑णः+++(=वेष्ट्यमानः)+++ ।  
@@ -477,8 +476,9 @@ ____
 नेद् ए॒ष त्वद्-अ॑पचे॒तया॑तै+++(=अपरक्तचेता भवेत्)+++ ॥
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/63_yam_paridhim.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 The fence which thou didst put round thee  
@@ -545,8 +545,9 @@ ____
 
 एतान् संस्रावेणाभिघारयति
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/73_sasrAvabhAgAs_sthaiShA.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 सँस्रा॒व+++(=जुहूपभृद्भ्यां सिच्यमान आज्य-शेषः)+++भा॑गास् स्थ+इ॒षा बृ॒हन्तᳶ॑  
 प्रस्तरे॒ष्ठा ब॑र्हि॒षद॑श् च दे॒वाः ।  
@@ -554,8 +555,9 @@ ____
 आ॒सद्या॒स्मिन् ब॒र्हिषि॑ मादयध्वम् ॥
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/73_sasrAvabhAgAs_sthaiShA.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 Ye are sharers in the remains (of the oblation), well nourished, mighty  
@@ -807,8 +809,8 @@ ____
 
 19समिष्टयजूंषि जुहोति - देवा इति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/devA_gAtuvidaH.md">
-<details open><summary><h6>देवा गातुविदः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा॑ गातुविदो+++(=गतिज्ञाः)+++ गा॒तुव्ँ+++(=मार्गं)+++ वि॒त्वा+++(=लब्ध्वा)+++ **गा॒तुम् इ॑त** +++(=गच्छत)+++।
@@ -908,9 +910,9 @@ in/or the wind, hail!
 
 ततः पश्चादिमं यज्ञं वाते सर्वक्रियाधारे धाः स्थापय । यस्मादयं यज्ञः प्रयुक्तः तत्रैव वाते स्थापय । 'वाताद्वा अध्वर्युर्यज्ञं प्रयुङ्क्ते' (तै.ब्रा. 3.3.9) इत्यादि ब्राह्मणम् । दधातेः लेटि 'बहुलं छन्दसि' (पा.सू. 2.4.73) इति शपो लुक्, 'इतश्च लोपः परस्मैपदेषु' (पा.सू. 3.4.98) इतीकारलोपः ॥
 </details>
-</details>
 </div>  
 
 इति त्रयोदशोनुवाकः ।  
 </details>
+
 </div>

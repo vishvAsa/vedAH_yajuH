@@ -1,9 +1,9 @@
 +++
 title = "२२ पशु-प्राणाप्यायनादि"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/09_pashu-prANApyAyanAdi">
-<details open><summary><h1>०९ पशु-प्राणाप्यायनादि ...{Loading}...</h1></summary>
+
+<details open><summary><h1>०९ पशु-प्राणाप्यायनादि …{Loading}…</h1></summary>
 
 पशोः प्राणानामाप्यायनम्, वपायागः  
 संज्ञपितस्य पशोर् वपवोत्खिदनम्
@@ -140,8 +140,9 @@ _______
 
 5पुनर् वागादीन् अभिमृशति - या ते प्राणानिति बृहत्या पञ्चपदया अष्टर्तुवसुषडष्टाक्षरया ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/09_pashu-prANApyAyanAdi/02_yA_te.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 या ते॑ प्रा॒णाञ् **छुग्** ज॒गाम    
 या चक्षु॒र्, या श्रोत्र॑म्   
@@ -150,13 +151,14 @@ _______
 तत् त॑ ए॒तेन॑ **शुन्धताम्**।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/09_pashu-prANApyAyanAdi/02_yA_te.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-5पुनर् वागादीन् अभिमृशति - या ते प्राणानिति बृहत्या पञ्चपदया अष्टर्तुवसुषडष्टाक्षरया ॥ 
+5पुनर् वागादीन् अभिमृशति - या ते प्राणानिति बृहत्या पञ्चपदया अष्टर्तुवसुषडष्टाक्षरया ॥
 </details>
 
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/09_pashu-prANApyAyanAdi/02_yA_te.md">
+<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 या ते॑ प्रा॒णाञ्छुग्ज॒गाम॒ या चक्षु॒र्या श्रोत्रय्ँ॒यत्ते॑ क्रू॒रय्ँयदास्थि॑त॒न्तत्त॒ आ प्या॑यता॒न्तत्त॑ ए॒तेन॑ शुन्धताम्
@@ -358,11 +360,22 @@ ________
 
 10वपाग्रहणदेशे प्राचीनाग्रं बर्हिर्निदधाति - ओषधे त्रायस्वैनमिति ॥ व्याख्यातम् ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md">
-<details open><summary><h6>ओषधे ...{Loading}...</h6></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ऊर्ध्वाग्रं बार्हिर् अनूच्छ्रयति - ओषधे त्रायस्वैनमिति ॥
+</details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+ओषध इति।
+
+कल्पः – 
+
+> ‘ऊर्ध्वाग्रं बर्हिर् अनूच्छ्रयति 'ओषधे त्रायस्वैनम्' इति। स्वधितिं तिर्यञ्चं निदधाति 'स्वधिते मैनं हिंसीर्' इति। प्रवपति 'देवश्रूर् एतानि प्र वप' इति’ 
+
+इति।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -402,8 +415,8 @@ O plant, protect him.
 
 10वपाग्रहणदेशे प्राचीनाग्रं बर्हिर्निदधाति - ओषधे त्रायस्वैनमिति ॥ व्याख्यातम् ॥
 </details>
-</details>
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10वपाग्रहणदेशे प्राचीनाग्रं बर्हिर्निदधाति - ओषधे त्रायस्वैनमिति ॥ व्याख्यातम् ॥
@@ -415,8 +428,8 @@ _______
 11स्वधितिं निदधाति - स्वधिते मैनं हिंसीरिति ॥ व्याख्यातमेव ॥
 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md">
-<details open><summary><h6>स्वधिते ...{Loading}...</h6></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4स्वधितिना तिर्यञ्चं प्रहरति
@@ -453,8 +466,13 @@ Axe, hurt him not.
 
 11स्वधितिं निदधाति - स्वधिते मैनं हिंसीरिति ॥ व्याख्यातमेव ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+स्वधितिः क्षुरः। देवेषु प्रसिद्धत्वेन श्रूयत इति देवश्रूर् देव-नापितस् तद्-रूपो ऽहं वपनं कुर्वे। एतानि केशादीनि।
 </details>
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 11स्वधितिं निदधाति - स्वधिते मैनं हिंसीरिति ॥ व्याख्यातमेव ॥
@@ -605,8 +623,8 @@ _______
 
 15अधस्ताद् वपरं परिवासयति - अच्छिन्न इति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/achChinnaH.md">
-<details open><summary><h6>अच्छिन्नः ...{Loading}...</h6></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15अधस्ताद् वपरं परिवासयति - अच्छिन्न इति ॥
@@ -637,8 +655,8 @@ uncut, with wealth of heroes, (give us) riches.
 9चतुरङ्गुलमग्रं चषालाय+++(=यूप-कटकाय)+++ प्रच्छेदयति - अच्छिन्न इति ॥ अच्छिन्नः । अद्व्ययपूर्वपदप्रकृतिस्वरत्यम् । रायः धनानि देहीति शेषः । यद्वा - अच्छिन्नो धनस्य सुवीरश्च भवेत्यध्याहारः । 'ऊडिदं' इत्यादिना तृतीयादेर्विभक्तेरुदात्तत्वं व्यत्ययेन न क्रियते । ईदृशस्त्वमेव नो रायः । शोभना वीराः पुत्रपौत्रादयोस्य यजमानस्य येन भवन्ति स सुवीरः । 'वीरवीर्यौ च' इत्युत्तरपदाद्युतात्त्वन् । यस्मात्त्वया यजमानस्य आयुष्मन्तः पूत्रादय उत्पद्यन्ते, तस्मात्तेषामभिवृद्ध्यर्थं अविच्छेदेन धनानि देहीति ॥
 
 </details>
-</details>
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 15अधस्ताद्वपरं परिवासयति - अच्छिन्न इति ॥ व्याख्यातम् ॥
@@ -649,8 +667,8 @@ _______
 
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव ।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
-<details open><summary><h6>उर्वन्तरिक्षम् ...{Loading}...</h6></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव ।
@@ -687,6 +705,14 @@ Fare along the wide atmosphere.
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव । 
 हे वपे उत्खेदनविबाधिते अधुना महान्तमन्तरिक्षाख्यं पन्थानं अनुगच्छेति विशेषः । 'क्रूरमिव वा एतत्करोति यद्वपामुत्खिदति' इत्यादि ब्राह्मणम् ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+उत्थापनम् आरभ्य पुनर् भूमौ स्थापन-पर्यन्तं सोमो ऽन्तरिक्षाधार इत्य् अभिप्रायं दर्शयति —
+
+> 'उर्व् अन्तरिक्षम् अन्व् इहीत्य्' आहान्तरिक्ष-देवत्यो ह्य् एतर्हि सोमः (सं. का. ६ प्र. १ अ. ११)  
+
+इति।
 </details>
 </div>
 _______
@@ -758,4 +784,5 @@ Hail! go to Urdhva-nabhas, offspring of the Maruts.
 इति तृतीये नवमोनुवाकः ॥  
 
 </details>
+
 </div>

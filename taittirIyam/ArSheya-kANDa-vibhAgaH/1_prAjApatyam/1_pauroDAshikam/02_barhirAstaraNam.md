@@ -1,9 +1,9 @@
 +++
 title = "०२ बर्हिरास्तरणम्"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam">
-<details open><summary><h1>०२ बर्हिरास्तरणम् ...{Loading}...</h1></summary>
+
+<details open><summary><h1>०२ बर्हिरास्तरणम् …{Loading}…</h1></summary>
 
 ३ त्रिष्टुप् , ८ एकपदा त्रिष्टुप् १८ एकपदा गायत्री । प्रजापतिर्ऋषिः
 
@@ -47,8 +47,8 @@ ____
 
 गार्हपत्ये प्रतितपति
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pratyuShTam.md">
-<details open><summary><h3>प्रत्युष्टं रक्षः ...{Loading}...</h3></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
@@ -82,7 +82,6 @@ The Raksas is burned up, the evil spirits are burned up.
 
 किञ्च, अरातयोपि प्रत्युष्टास्सन्तु । रातयो धनस्य दातारस्सुहृदः । 'कृत्यल्युटो बहुळम्' (पा.सू. 3.3.113) इति बहुलवचनात्कर्तरि क्तिन् । अतोन्येऽरातयः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) ॥
 </details>
-</details>
 </div>  
 
 ____
@@ -92,8 +91,9 @@ ____
 3गार्हपत्यप्रदेशादाहवनीयं गच्छति - प्रेयमिति त्रिष्टुभा ॥  
 वेदिं प्रत्यवेक्षमाणो मन्त्रशेषं ब्रवीति - "इह बह्रिर् आसदे"। 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/14_praiyam_agAd.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 प्र+इ॒यम् +++(अश्वपर्शोर् धारा)+++ **अ॑गाद्**, धि॒षणा॑+++(=धृष्टा [लवने], धीः)+++ ब॒र्हिर् अच्छ॒ +++(आप्तुं)+++  
 मनु॑ना कृ॒ता, स्व॒धया॒+++(→अश्वमांसेन)+++ वित॑ष्टा॒+++(=वितनूकृता)+++।  
@@ -101,8 +101,9 @@ ____
 +++(ब॒र्हिष॒स् समृ॑द्ध्यै॒, कर्म॒णोऽन॑पराधाय→)+++ दे॒वेभ्यो॒ जुष्ट॑म्, इ॒ह +++(वेद्यां)+++ ब॒र्हिर् आ॒सदे॑+++(=आसादयितव्यम्)+++।
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/14_praiyam_agAd.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 The Vedi hath come to the sacrificial straw,  
@@ -200,8 +201,8 @@ ____
 
 5दर्भस्तम्बमुन्मार्ष्टि - वर्षवृद्धमसीति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/varSha-vRddham.md">
-<details open><summary><h6>वर्षवृद्धम् ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व॒र्ष-वृ॑द्धम् असि।
@@ -225,7 +226,6 @@ Thou art made to grow by the rains.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वर्षेण वर्धितमसि । पूर्ववण्णिलुक् (उ.सू. 190) । 'तृतीया कर्मणि' (पा.सू. 6.2.48) इति पूर्वपदप्रकृतिस्वरत्वम् । वर्षशब्द उञ्छादित्वादन्तोदात्तः (पा.सू. 6.1.160) ॥
-</details>
 </details>
 </div>  
 
@@ -353,8 +353,8 @@ O divine straw, rise with a hundred shoots,
 
 आत्मानं प्रत्यभिमृशति
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/sahasra-valshAH.md">
-<details open><summary><h6>सहस्र-वल्शाः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒हस्र॑-वल्शाः॒+++(=प्ररोहाः)+++ वि व॒यँ रु॑हेम ।
@@ -380,7 +380,6 @@ Let us rise with a thousand shoots.
 9आत्मानं प्रत्यभिमृशति - सहस्रवल्शा इति त्रिष्टुभैकपदया ॥   
 वयमपि सहस्रवल्शाः पुत्रपौत्राद्यनेकप्ररोहवन्तो विरुहेम विरूढा भूयास्म । 'लिङ्याशिष्यङ्' (पा.सू. 3.1.86) इत्यङ्प्रत्ययः । यासुडादि (पा.सू. 3.4.103) । 'छन्दस्युभयथा' (पा.सू. 3.4.117) इति सार्वधातुकत्वादिय् । यस्य लोपः (पा.सू. 6.1.66) ॥
 </details>
-</details>
 </div>  
 
 ____
@@ -389,8 +388,8 @@ ____
 
 10प्रस्तरं निदधाति - पृथिव्या इति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pRthivyAH.md">
-<details open><summary><h6>पृथिव्याः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृ॒थि॒व्यास् स॒म्पृच॑ᳶ पाहि ।
@@ -414,7 +413,6 @@ Guard from the contact of earth.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ङीष उदात्तत्वात् 'उदात्तयणो हल्पूर्वात्' (पा.सू. 6.1.174) इति विभक्तेरुदात्तत्वम् । संपृचन्तीति संपृचः । 'क्विप्च' (पा.सू. 3.2.76) इति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) । नित्यसमासत्वाद्विभक्तिस्वराभावः । पृथिवीसम्पृक्तानस्मान्पाहि । दिविष्ठस्त्वम्, उपरि निधानात् ॥
-</details>
 </details>
 </div>
 
@@ -649,8 +647,8 @@ ____
 
 प्रत्यागच्छति
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
-<details open><summary><h3>उर्वन्तरिक्षम् ...{Loading}...</h3></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव ।
@@ -687,6 +685,14 @@ Fare along the wide atmosphere.
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव । 
 हे वपे उत्खेदनविबाधिते अधुना महान्तमन्तरिक्षाख्यं पन्थानं अनुगच्छेति विशेषः । 'क्रूरमिव वा एतत्करोति यद्वपामुत्खिदति' इत्यादि ब्राह्मणम् ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+उत्थापनम् आरभ्य पुनर् भूमौ स्थापन-पर्यन्तं सोमो ऽन्तरिक्षाधार इत्य् अभिप्रायं दर्शयति —
+
+> 'उर्व् अन्तरिक्षम् अन्व् इहीत्य्' आहान्तरिक्ष-देवत्यो ह्य् एतर्हि सोमः (सं. का. ६ प्र. १ अ. ११)  
+
+इति।
 </details>
 </div>  
 
@@ -724,4 +730,5 @@ Thou art going to the gods.
 इति द्वितीयोनुवाकः
 </details>
 </details>
+
 </div>

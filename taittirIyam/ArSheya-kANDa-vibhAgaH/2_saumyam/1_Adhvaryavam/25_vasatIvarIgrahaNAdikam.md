@@ -1,9 +1,9 @@
 +++
 title = "२५ वसतीवरीग्रहणादिकम्"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam">
-<details open><summary><h1>१२ वसतीवरीग्रहणादिकम् ...{Loading}...</h1></summary>
+
+<details open><summary><h1>१२ वसतीवरीग्रहणादिकम् …{Loading}…</h1></summary>
 
 वसतीवरीसंज्ञकानामपां ग्रहणम्  
 
@@ -22,8 +22,9 @@ _______
 
 ह॒विष्म॑तीरि॒मा आपो॑ ह॒विष्मा॑न्दे॒वो अ॑ध्व॒रो ह॒विष्माँ॒ आ वि॑वासति ह॒विष्माँ॑ अस्तु॒ सूर्यः॑ ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 ह॒विष्म॑तीर् इ॒मा +++(वसतीवरीसंज्ञा)+++ आपो॑  
 ह॒विष्मा॑न् दे॒वो अ॑ध्व॒रः ।   
@@ -31,13 +32,14 @@ _______
 **ह॒विष्माँ॑ अस्तु॒** सूर्यः॑ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-1वसतीवरीर्गृह्णाति - हविष्मतीरिति चतुष्पदया ॥ 'अनुष्टुभा गृह्णाति' इत्यादि ब्राह्मणम् । 
+1वसतीवरीर्गृह्णाति - हविष्मतीरिति चतुष्पदया ॥ 'अनुष्टुभा गृह्णाति' इत्यादि ब्राह्मणम् ।
 </details>
 
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
+<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 These waters are rich in oblation,  
@@ -249,4 +251,5 @@ Be watchful over the sacrifice.
 इति तृतीये द्वादशोनुवाकः ॥  
 
 </details>
+
 </div>

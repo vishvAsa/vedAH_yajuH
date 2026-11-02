@@ -1,9 +1,9 @@
 +++
 title = "२० पशूपाकरणम्"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam">
-<details open><summary><h1>०७ पशूपाकरणम् (अग्निमन्थनादि) ...{Loading}...</h1></summary>
+
+<details open><summary><h1>०७ पशूपाकरणम् (अग्निमन्थनादि) …{Loading}…</h1></summary>
 
 यूपे पशुनियोजनार्थं पशूपाकरणम् (अग्निमन्थनादि)
 
@@ -409,8 +409,9 @@ _______
 
 भव॑तं [12]न॒स्सम॑नसौ॒ समो॑कसावरे॒पसौ॑ ।  मा य॒ज्ञँ हिँ॑सिष्ट॒म्मा य॒ज्ञप॑तिञ्जातवेदसौ शि॒वौ भ॑वतम॒द्य नः॑ ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/02_bhavataM_nas.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 +++(मथिताग्ने, आहवनीयाग्ने च!)+++  
 भव॑तं न॒स् स-म॑नसौ॒  
@@ -420,8 +421,9 @@ _______
 शि॒वौ भ॑वतम् अ॒द्य नः॑ ॥
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/02_bhavataM_nas.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 Be ye of one mind for us,  
@@ -466,8 +468,9 @@ _______
 
 12प्रहृत्य स्रुवेणाभिजुहोति - अग्नावग्निरिति चतुष्पदया त्रिष्टुभा ॥
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/03_agnAv_agnish.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 अ॒ग्नाव् अ॒ग्निश् च॑रति॒ प्रवि॑ष्ट॒  
 ऋषी॑णाम् पु॒त्त्रो अ॑धिरा॒ज ए॒षः ।    
@@ -475,8 +478,9 @@ _______
 मा दे॒वाना॑म् मिथु॒या क॑र् भाग॒-धेय॑म् ॥ [13]
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/03_agnAv_agnish.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 The fire moveth entering into the fire,  
@@ -511,4 +515,5 @@ Do thou not spoil the share of the gods.
 इति तृतीये सप्तमोनुवाकः ॥  
 
 </details>
+
 </div>

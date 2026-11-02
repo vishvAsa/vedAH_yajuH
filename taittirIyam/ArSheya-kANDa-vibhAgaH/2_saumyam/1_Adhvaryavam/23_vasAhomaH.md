@@ -1,9 +1,9 @@
 +++
 title = "२३ वसाहोमः"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH">
-<details open><summary><h1>१० वसाहोमः ...{Loading}...</h1></summary>
+
+<details open><summary><h1>१० वसाहोमः …{Loading}…</h1></summary>
 
  सोमऋषिः
 
@@ -68,21 +68,18 @@ _______
 
 ऐ॒न्द्रᳶप्रा॒णो अङ्गे॑अङ्गे॒ नि दे॑ध्यदै॒न्द्रो॑ऽपा॒नो अङ्गे॑अङ्गे॒ वि बो॑भुव॒द्देव॑ त्वष्ट॒र्भूरि॑ ते॒ सँस॑मेतु॒ विषु॑रूपा॒ यत् सल॑क्ष्माणो॒ भव॑थ देव॒त्रा यन्त॒मव॑से॒ सखा॒योऽनु॑ त्वा मा॒ता पि॒तरो॑ मदन्तु॒ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 ऐ॒न्द्रᳶ प्रा॒णो अङ्गे॑अङ्गे॒ नि दे॑ध्यत्+++(←धीङ् आधारे)+++ ।  
 एै॒न्द्रो॑ऽपा॒नो अङ्गे॑अङ्गे॒ वि बो॑भुवत् ।  
 देव॑ त्वष्ट॒र् +++(पशोर्)+++ भूरि॑ ते॒ सँस॑मेतु ।
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-2पशोर् अवदानानि सम्मृशति - ऐन्द्रः प्राण इत्यनुष्टुभा षट्पदया ॥
-</details>
-
+<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 May Indra's expiration be set in every limb;  
@@ -126,15 +123,16 @@ O god Tvastr, let mind be united for thee,
 ________
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 +++(शरीर-खण्डानि!)+++ विषु॑रूपा॒ यत् **सल॑क्ष्माणो॒**+++(=सलक्षणा [हवीरूपेण])+++ **भव॑थ**,  
 दे॒व॒त्रा+++(=देवस्थानं)+++ यन्त॒म्, अव॑से॒, +++(तस्य पशोः)+++ सखा॑यः   
 अनु॑ त्वा मा॒ता-पि॒तरो॑ **मदन्तु** ।
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 When ye that are various become of one form;  
@@ -429,4 +427,5 @@ Homage to the quarters.
 इति तृतीये दशमोनुवाकः ॥  
 
 </details>
+
 </div>

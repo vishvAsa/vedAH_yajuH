@@ -1,9 +1,9 @@
 +++
 title = "२६ सोमावरोहणादिकम्"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam">
-<details open><summary><h1>१३ सोमावरोहणादिकम् ...{Loading}...</h1></summary>
+
+<details open><summary><h1>१३ सोमावरोहणादिकम् …{Loading}…</h1></summary>
 
 सोमावरोहणम्, +++(अभिषोतव्यस्य सोमस्य शकटादावुपावरोहः)+++  प्रचरणीहोमः, क्रतुकरणहोमः , अपां ग्रहणम्
 
@@ -217,7 +217,7 @@ let creatures descend to thee.
 ________
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/02_shRNotv_agnis.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 शृ॒णोत्व् अ॒ग्निस् स॒मिधा॒ हव॑म् मे  
 शृ॒ण्वन्त्व् आपो॑ धि॒षणा॑श्+++(=धृष्टा विद्याः)+++ च दे॒वीः ।  
@@ -225,13 +225,14 @@ ________
 शृ॒णोतु॑ दे॒वस् स॑वि॒ता हव॑म् मे ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/02_shRNotv_agnis.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-3एकधनादिलक्षणा अपो जिघृक्षन् स्रुचि चतुर्गृहीतं गृहीत्वा आहवनीये जुहोति - श्रुणोत्वग्निरिति त्रिष्टुभा चतुष्पदया ॥ 
+3एकधनादिलक्षणा अपो जिघृक्षन् स्रुचि चतुर्गृहीतं गृहीत्वा आहवनीये जुहोति - श्रुणोत्वग्निरिति त्रिष्टुभा चतुष्पदया ॥
 </details>
 
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/02_shRNotv_agnis.md">
+<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 Let Agni (kindled) with the kindling-stick hear my appeal, Let the waters hear, and the divine Dhisanas;  
@@ -267,7 +268,7 @@ Hearken, ye pressing stones, to the sacrifice of me the wise one, Let the god Sa
 ________
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/03_devIr_Apo.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 देवी॑र् आपो, अपान्नपा॒द्  
 य ऊ॒र्मि-ह॑वि॒ष्यः॑ ।  
@@ -276,13 +277,9 @@ ________
 शु॒क्रँ शु॑क्र॒पेभ्यो॒ येषा॑म् भा॒गस् स्थ॥
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/03_devIr_Apo.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-4अप्सु बर्हिः प्रास्याभिजुहोति - देवीराप इति यजुरन्तया गायत्र्या ॥ मदिन्तम इत्यन्तं व्याख्यातम् ।
-</details>
-
+<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 देवी॑रापो अपान्नपा॒द्य ऊ॒र्मिर्ह॑वि॒ष्य॑ इन्द्रि॒यावा॑न्म॒दिन्त॑मः
@@ -325,6 +322,7 @@ Pure to the drinkers of the pure, (to them) whose share ye are;
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाहा॑ ।
@@ -393,7 +391,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मु॒द्रस्य॒॑ वो ऽक्षि॑त्या॒ उन्न॑ये ।
+स॒मु॒द्रस्य॒॑ वो ऽक्षि॑त्या॒ उन्न॑ये ।
 </details>
 
 <details><summary>Keith</summary>
@@ -403,7 +401,7 @@ I draw you for the sustenance of the waters.
 
 <details><summary>मूलम्</summary>
 
-स॒मु॒द्रस्य॒॑ वोऽक्षि॑त्या॒ उन्न॑ये ।
+स॒मु॒द्रस्य॒॑ वोऽक्षि॑त्या॒ उन्न॑ये ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -419,20 +417,21 @@ I draw you for the sustenance of the waters.
 ________
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/04_yam_agne.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 **यम्** अ॑ग्ने पृ॒त्सु+++(=युद्धेषु)+++ मर्त्य॒म्  
 **आवो॒** वाजे॑षु॒+++(←वज्=स्पर्धासु)+++ यञ् जु॒नाः ।    
 **स यन्ता॒** शश्व॑ती॒र् **इषः॑** ॥ [23]
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/04_yam_agne.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-7क्रतुकरणं जुहोति - यमग्न इति त्रिपदया गायत्र्या ॥ 
+7क्रतुकरणं जुहोति - यमग्न इति त्रिपदया गायत्र्या ॥
 </details>
 
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/04_yam_agne.md">
+<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 That mortal, O Agni, whom thou hast helped in the battles, Whom thou hast strengthened in the contest for booty, He winneth I abiding strength.
@@ -459,4 +458,5 @@ That mortal, O Agni, whom thou hast helped in the battles, Whom thou hast streng
 इति तृतीये त्रयोदशोनुवाकः ॥
 
 </details>
+
 </div>

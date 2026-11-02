@@ -1,9 +1,9 @@
 +++
 title = "११ हविरासनादिः"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH">
-<details open><summary><h1>११ हविरासनादिः ...{Loading}...</h1></summary>
+
+<details open><summary><h1>११ हविरासनादिः …{Loading}…</h1></summary>
 
 इध्मबर्हिःपूर्वकं वेद्यां हविरासादनादिः।  
 १४ गायत्री, २० एकपदा त्रिष्टुप् ।
@@ -150,8 +150,8 @@ ____
 
 अन्तर्वेद्यूर्ध्वाग्रं बर्हिस्स्थापयित्वा प्रोक्षति
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/dive_tvA.md">
-<details open><summary><h3>दिवे त्वा ...{Loading}...</h3></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि॒वे त्वा॑  +++(प्रोक्षामि)+++ ।  
@@ -192,7 +192,6 @@ To sky thee, to atmosphere thee, to earth thee!
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4अन्तर्वेद्यूर्ध्वाग्रं बर्हिस्स्थापयित्वा प्रोक्षति - दिव इति ॥ अग्रमध्यमूलेषु क्रमेण प्रोक्षणम् । सर्वत्र प्रोक्षामीति शेषः । यागनिर्वृत्तिद्वारेण द्युप्रभृतीनां लोकानां धारणार्थं प्रोक्षणं भवति । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना दिव इति विभक्तेरुदात्तत्वम् । पृथिव्या इत्यादौ 'उदात्तयणो हल्पूर्वात्' (पा.सू. 6.1.174) इति विभक्तेरुदात्तत्वम् ॥
-</details>
 </details>
 </div>  
 
@@ -497,16 +496,18 @@ ____
 
 ऊर्ध्वे समिधाव् आदधाति
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/70_vItihotran_tvA.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 वी॒ति+++(=इष्ट)+++हो॑त्रन्+++(=ह्वानं)+++ त्वा कवे  
 द्यु॒मन्तँ॒ समि॑धीम॒हि ।  
 +++(हे)+++ अग्ने॑! बृ॒हन्त॑म् अध्व॒रे ॥
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/70_vItihotran_tvA.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 May we kindle thee, O wise one,    
@@ -640,8 +641,8 @@ Thou art named juhu
 
 15तत्र जुहूं सादयति - जुहूरिति ॥ असि घृताचीत्यादिकं वक्ष्यमाणं जुह्वादिभिः प्रत्येकमभिसम्बध्यते । हूयतेऽनयेति जुहूः । 'द्युतिगमिजुहोतीनां द्वे च' (पा.सू. 3.2.178) इति क्विप्, जुहोतेर्दीर्घश्च' (पा.भा. 3.2.178 वा 3) इति दीर्घोनुवर्तते । जुहूस्त्वमसि । त्वया खलु हूयते ।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
-<details open><summary><h6>घृताची ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
@@ -666,7 +667,6 @@ Loving the ghee, sit on thy dear seat with thy dear name.
 
 पुनश्च विशेष्यते - घृताची त्वम् घृतमञ्चति गच्छति धारकत्वेनेति घृताची । ऋत्विगादिना क्विप् (पा.सू. 3.2.49) । अनुनासिकलोपे 'अचः' (पा.सू. 6.4.138) इत्यकारलोपे 'चौ' (पा.सू. 6.3.138) इति दीर्घः ।  
 सा त्वं प्रियेण नाम्ना घृतसम्बन्धेन सर्वस्य प्रीतिहेतुना घृताचीति नाम्ना उपलक्षितासि । 'तासामेतदेव प्रियं नाम । यद्घृताची' (तै.ब्रा. 3.3.6) इत्यादि ब्राह्मणम् । ईदृशेन नाम्ना प्रिये सदसि प्रस्तराख्येऽस्मिन् सदने सीद । 'यजमानो वै प्रस्तरः' (तै.ब्रा. 3.3.6) । इति यजमानत्वसंस्तवान्नाममात्रेण प्रस्तरस्य प्रियत्वम् ॥
-</details>
 </details>
 </div>  
 
@@ -702,8 +702,8 @@ Thou art named upabhrt
 
 16उपभृतं सादयति - उपभृदिति ॥ उपेत्य जुहूं बिभर्तीति उपभृत् । 'अन्येभ्योपि दृश्यते' (पा.सू. 3.2.178) इति क्विप् । ईदृशी त्वमसि । समानमन्यत् ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
-<details open><summary><h6>घृताची ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
@@ -728,7 +728,6 @@ Loving the ghee, sit on thy dear seat with thy dear name.
 
 पुनश्च विशेष्यते - घृताची त्वम् घृतमञ्चति गच्छति धारकत्वेनेति घृताची । ऋत्विगादिना क्विप् (पा.सू. 3.2.49) । अनुनासिकलोपे 'अचः' (पा.सू. 6.4.138) इत्यकारलोपे 'चौ' (पा.सू. 6.3.138) इति दीर्घः ।  
 सा त्वं प्रियेण नाम्ना घृतसम्बन्धेन सर्वस्य प्रीतिहेतुना घृताचीति नाम्ना उपलक्षितासि । 'तासामेतदेव प्रियं नाम । यद्घृताची' (तै.ब्रा. 3.3.6) इत्यादि ब्राह्मणम् । ईदृशेन नाम्ना प्रिये सदसि प्रस्तराख्येऽस्मिन् सदने सीद । 'यजमानो वै प्रस्तरः' (तै.ब्रा. 3.3.6) । इति यजमानत्वसंस्तवान्नाममात्रेण प्रस्तरस्य प्रियत्वम् ॥
-</details>
 </details>
 </div>  
 
@@ -764,8 +763,8 @@ Thou art named dhruva.
 17ध्रुवां सादयति - ध्रुवेति ॥ ध्रुवा निश्चला । यत्रैव साद्यते तत्रैव धार्यते न चाल्यते प्राक्समिष्टयजुष इति ध्रुवा । तादृशी त्वमसि । शिष्टं स्पष्टम् ॥
 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
-<details open><summary><h6>घृताची ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
@@ -790,7 +789,6 @@ Loving the ghee, sit on thy dear seat with thy dear name.
 
 पुनश्च विशेष्यते - घृताची त्वम् घृतमञ्चति गच्छति धारकत्वेनेति घृताची । ऋत्विगादिना क्विप् (पा.सू. 3.2.49) । अनुनासिकलोपे 'अचः' (पा.सू. 6.4.138) इत्यकारलोपे 'चौ' (पा.सू. 6.3.138) इति दीर्घः ।  
 सा त्वं प्रियेण नाम्ना घृतसम्बन्धेन सर्वस्य प्रीतिहेतुना घृताचीति नाम्ना उपलक्षितासि । 'तासामेतदेव प्रियं नाम । यद्घृताची' (तै.ब्रा. 3.3.6) इत्यादि ब्राह्मणम् । ईदृशेन नाम्ना प्रिये सदसि प्रस्तराख्येऽस्मिन् सदने सीद । 'यजमानो वै प्रस्तरः' (तै.ब्रा. 3.3.6) । इति यजमानत्वसंस्तवान्नाममात्रेण प्रस्तरस्य प्रियत्वम् ॥
-</details>
 </details>
 </div>  
 
@@ -847,4 +845,5 @@ Protect the sacrifice, protect the lord of the sacrifice, protect me that conduc
 
 इति एकादशोनुवाकः  ।
 </details>
+
 </div>

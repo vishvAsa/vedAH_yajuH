@@ -1,9 +1,9 @@
 +++
 title = "०२ उपांशुग्रहः"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/02_upAMshugrahaH">
-<details open><summary><h1>०२ उपांशुग्रहः ...{Loading}...</h1></summary>
+
+<details open><summary><h1>०२ उपांशुग्रहः …{Loading}…</h1></summary>
 
 ग्रहग्रहणासादनादिमन्त्राः  
 सोमऋषिः
@@ -97,8 +97,8 @@ _______
 
 4प्रतिप्रस्थातुर् हस्ताद् ग्रहम् आदत्ते - स्वां कृतोसीति ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/svAnkRtosi.md">
-<details open><summary><h6>स्वाङ्कृतोऽसि ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाङ्-कृ॑तोऽसि।
@@ -208,8 +208,8 @@ _______
 8आहवनीयं प्रति गच्छति - उर्विति ॥ व्याख्यातम् । 'अन्तरिक्षदेवत्यो हि प्राणः' इत्यादि ब्राह्मणम्  ॥
 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
-<details open><summary><h11>उर्वन्तरिक्षम् ...{Loading}...</h11></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव ।
@@ -246,6 +246,14 @@ Fare along the wide atmosphere.
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव । 
 हे वपे उत्खेदनविबाधिते अधुना महान्तमन्तरिक्षाख्यं पन्थानं अनुगच्छेति विशेषः । 'क्रूरमिव वा एतत्करोति यद्वपामुत्खिदति' इत्यादि ब्राह्मणम् ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+उत्थापनम् आरभ्य पुनर् भूमौ स्थापन-पर्यन्तं सोमो ऽन्तरिक्षाधार इत्य् अभिप्रायं दर्शयति —
+
+> 'उर्व् अन्तरिक्षम् अन्व् इहीत्य्' आहान्तरिक्ष-देवत्यो ह्य् एतर्हि सोमः (सं. का. ६ प्र. १ अ. ११)  
+
+इति।
 </details>
 </div>  
 
@@ -326,7 +334,6 @@ This is thy birthplace;
 
 हे उपांशुसंस्राव एष आग्रयणस्थाल्याख्यस्ते तव योनिः स्थानम्, यत्र निहितस्त्वं यागसिद्ध्यै सम्पत्स्यसे । अतस्तं प्रविशेति शेषः ॥
 </details>
-</details>
 </div>  
 
 _______
@@ -357,4 +364,5 @@ to expiration thee!
 इति चतुर्थे द्वितीयः ॥  
 </details>
 </details>
+
 </div>

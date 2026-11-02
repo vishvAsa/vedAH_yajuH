@@ -1,9 +1,9 @@
 +++
 title = "१५ उपरव-निर्माणादिकम्"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam">
-<details open><summary><h1>०२ उपरवनिर्माणादिकम् ...{Loading}...</h1></summary>
+
+<details open><summary><h1>०२ उपरवनिर्माणादिकम् …{Loading}…</h1></summary>
 
 हविर्धान(अभ्यन्तर)गतोपरवनिर्माणम्
 
@@ -58,8 +58,8 @@ _______
 
 इदम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒ यन्न॑स्समा॒नो यमस॑मानो निच॒खाने॒दमे॑न॒मध॑रङ्करोमि॒ यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ गाय॒त्रेण॒ छन्द॒सा 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam/idam_aham.md">
-<details open><summary><h6>इदम् अहम् ...{Loading}...</h6></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इदम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒ यन्न॑स्समा॒नो यमस॑मानो निच॒खाने॒दमे॑न॒मध॑रङ्करोमि॒ यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ 
@@ -130,8 +130,8 @@ Here do I overthrow him who equal or unequal is ill-disposed to us.
 अत्र विश्वासप्रस्तुतौ मूले पि वाक्यविभागे दोषः भाति। निचखानेदम् इदं पूर्ववाक्यम् समाप्तमासीत् । इदम् इति पदम् अग्रिमवाक्यान्वयि । 
 किञ्च – एनमहमधरं अधोगतिं करोमि । इदमिति पूर्ववत्क्रियाविशेषणम् । इति टीका । अतः व्यत्यासः कृतः
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गाय॒त्रेण॒ छन्द॑सा ।
@@ -450,8 +450,8 @@ _______
 
 यवो॑ऽसि य॒वया॒स्मद्द्वेषो॑ य॒वयारा॑तीः 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md">
-<details open><summary><h6>यवोऽसि ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यवो॑ऽसि।  
@@ -501,8 +501,8 @@ bar evil spirits.
 
 13तेषु यवान्प्रस्कन्दयति - यवोसीति ॥ व्याख्यातम् । 'प्राणेष्वेवोर्जं दधाति' `इति ब्राह्मणम् ॥
 </details>
-</details>
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13तेषु यवान्प्रस्कन्दयति - यवोसीति ॥ व्याख्यातम् । 'प्राणेष्वेवोर्जं दधाति' `इति ब्राह्मणम् ॥
@@ -741,4 +741,5 @@ call forth to Indra with a great voice.
 इति तृतीये द्वितीयोनुवाकः ॥
 </details>
 </details>
+
 </div>

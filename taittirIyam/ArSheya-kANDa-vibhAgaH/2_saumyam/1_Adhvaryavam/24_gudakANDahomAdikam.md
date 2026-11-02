@@ -1,9 +1,9 @@
 +++
 title = "२४ गुदकाण्डहोमादिकम्"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam">
-<details open><summary><h1>११ गुदकाण्डहोमादिकम् ...{Loading}...</h1></summary>
+
+<details open><summary><h1>११ गुदकाण्डहोमादिकम् …{Loading}…</h1></summary>
 
 गुदकाण्डकरणक-उपयट्संज्ञका होमाः  
 सोमऋषिः
@@ -430,8 +430,9 @@ _______
 
 धाम्नो॑धाम्नो राजन्नि॒तो व॑रुण नो मुञ्च॒ यदापो॒ अघ्नि॑या॒ वरु॒णेति॒ शपा॑महे॒ ततो॑ वरुण नो मुञ्च ॥ [20]
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam/02_dhAmnodhAmno_rAjann.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 धाम्नो॑धाम्नो+++(=शृङ्खलाभ्यो)+++ राजन्न्  
 इ॒तो व॑रुण नो मुञ्च ।  
@@ -439,8 +440,9 @@ _______
 ततो॑ वरुण नो मुञ्च ॥
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam/02_dhAmnodhAmno_rAjann.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 धाम्नो॑धाम्नो+++(=शृङ्खलाभ्यो)+++ राजन्न्  
@@ -480,4 +482,5 @@ From whatever oath by the waters, by the kine, by Varuna, we have sworn, From th
 इति तृतीये एकादशोनुवाकः ॥  
 
 </details>
+
 </div>

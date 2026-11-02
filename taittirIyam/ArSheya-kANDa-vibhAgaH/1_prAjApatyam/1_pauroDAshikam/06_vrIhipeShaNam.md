@@ -1,16 +1,15 @@
 +++
 title = "०६ व्रीहिपेषणम्"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/06_vrIhipeShaNam">
-<details open><summary><h1>०६ व्रीहिपेषणम् ...{Loading}...</h1></summary>
+
+<details open><summary><h1>०६ व्रीहिपेषणम् …{Loading}…</h1></summary>
 
 १० एकपदा त्रिष्टुप्  प्रजापतिर्ऋषिः
 
 ____
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/avadhUtaM.md">
-<details open><summary><h6>अवधूतम् ...{Loading}...</h6></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णाजिनम् अवधूनोति
@@ -41,12 +40,11 @@ The Raksas is shaken off, the evil spirits are shaken off.
 6कृष्णाजिनमवधूनोति - अवधूतमिति यजुरादिकयैकपदया गायत्र्या ॥ अवधूतं विनाशितम् । शिष्टं व्यख्यातं प्रत्युष्टादि मन्त्रेण (तै.सं. 1.1.2) । 'गतिरनन्तरः' (पा.सू. 6.2.49) इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
-<details open><summary><h11>रक्षोऽराती ...{Loading}...</h11></summary>
 
 रक्षेर् असुनि अर्थविपर्यासः । 'क्षर मूर्छने' इत्यस्य वर्णविपर्यासो वा ।
 
 रातयो धनस्य दातारस्सुहृदः । 'कृत्यल्युटो बहुळम्' (पा.सू. 3.3.113) इति बहुलवचनात्कर्तरि क्तिन् । अतोन्येऽरातयः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) ॥
-</details>
+
 </div>
 </details>
 
@@ -89,8 +87,8 @@ Thou art the skin of Aditi, may the earth' recognize thee [1].
 
 7कृष्णाजिनमवस्तृणाति - अदित्या इति ॥ अदितिः अखण्डनीया । कर्मणि क्तिन्, अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) । अखण्डितायाः पृथिव्यास्त्वगिव प्रियतममसि, अतस्त्वामास्तीर्णां पृथिवी प्रतिवेत्तु आत्मन उपरि तवावस्थानमनुजानातु न न्यक्कारयतु । सा तु माऽवमंस्त । पृथिवीशब्दो ङीषन्तोन्तोदात्तः ॥
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदि॑त्या॒स्त्वग॑सि॒,  
@@ -127,7 +125,7 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि॒वस् स्क॑म्भ॒निर्+++(=धारयित्र्य्)+++ अ॑सि ।  
-प्रति॒ त्वा ऽदि॑त्या॒स् त्वँ +++(स्वस्या उपरि)+++ वे॑त्तु ।
+प्रति॒ त्वा ऽदि॑त्या॒स् त्वग् +++(स्वस्या उपरि)+++ वे॑त्तु ।
 +++('द्यावापृथिवी सहास्ताम्' (तै.ब्रा. 3.2.6) इत्यादि ब्राह्मणम् ॥)+++
 </details>
 
@@ -139,7 +137,7 @@ Thou art a bowl of rock, may the supporter of the sky recognize thee.
 <details><summary>मूलम्</summary>
 
 दि॒वस्स्क॑म्भ॒निर॑सि ।
-प्रति॒ त्वाऽदि॑त्या॒स्त्वँवे॑त्तु ।
+प्रति॒ त्वाऽदि॑त्या॒स्त्वग्वे॑त्तु ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +149,7 @@ Thou art a bowl of rock, may the supporter of the sky recognize thee.
 
 3शम्यां निदधाति - दिव इति ॥ 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना विभक्तेरुदात्तत्वम् । दिवो यागसाधनद्वारेण स्कम्भनिरसि धारयित्र्यसि । स्कभ्नातेः करणे ल्युटि (पा.सू. 3.3.117) ङीपि वर्णव्यत्ययेन ह्रस्वत्वम् । 'गर्भिणयो भवन्ति' (तै.सं. 2.1.2) इति यथा । यद्वा - 'वृतेश्च' (उ.सू. 263) इत्यत्र चकारस्यानुक्तसमुच्चयार्थत्वात् स्कभ्नातेरनिप्रत्ययः । सर्वत्रोञ्छादित्वात् (पा.सू. 6.1.160) अन्तोदात्तत्वम् ।
 
-हे शम्ये अदित्यास्त्वक्, एवंभूतां त्वां, अदित्यास्त्वँभूतं कृष्णाजिनं प्रतिवेत्तु अनुजानातु आत्मोपरि तवावस्थानम् । 'द्यावापृथिवी सहास्ताम्' (तै.ब्रा. 3.2.6) इत्यादि ब्राह्मणम् ॥
+हे शम्ये अदित्यास्त्वक्, एवंभूतां त्वां, अदित्यास्त्वग्भूतं कृष्णाजिनं प्रतिवेत्तु अनुजानातु आत्मोपरि तवावस्थानम् । 'द्यावापृथिवी सहास्ताम्' (तै.ब्रा. 3.2.6) इत्यादि ब्राह्मणम् ॥
 </details>
 
 ____
@@ -240,11 +238,11 @@ ____
 
 पुरोडाशीयानधिवपति
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-<details open><summary><h3>देवस्य त्वा सवितुः ...{Loading}...</h3></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
 पू॒ष्णो हस्ता॑भ्याम्…
 </details>
@@ -264,7 +262,7 @@ with the hands of Pusan.
 
 <details><summary>पद-पाठः</summary>
 
-दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
+3M । दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -280,8 +278,8 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … अधि॑वपामि।  
@@ -420,8 +418,8 @@ ____
 
 कृष्णाजिने पिष्टानि प्रस्कन्दयति
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitA.md">
-<details open><summary><h6>देवो वस् सविता ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वो व॑स् सवि॒ता हिर॑ण्यपाणि॒ᳶ प्रति॑गृह्णातु ॥ [8]
@@ -446,8 +444,8 @@ Let the god Savitr of golden hands, seize you.
 
 17तण्डुलान् प्रस्कन्दयति - देवो व इति ॥ देवस्सविता सर्वस्य प्रेरकः हिरण्यपाणिः हिरण्याभरणपाणिः युष्मान् प्रतिगृह्णातु प्रतिगृह्य रक्षतु । हिरण्यस्य विकारो वलयाङ्गुलीयकादिः पाण्योर्य स्येति समुदायविकारषष्ठ्या (पा.सू. 2.2.24 वा 13) विगृह्य 'सप्तम्युपमानपूर्वपदस्य बहुव्रीहिर्वाच्यो वाचोत्तरपदलोपश्च' (पा.सू. 2.2.24 वा 12) इति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । 'उशीरदाशेरकपालपलालशैवालश्यामाकशरीरशरावहृदयहिरण्यारण्यापत्यदेवराणाम्' (फि.सू. 67) इति हिरण्यशब्द आद्युदात्तः । 'अन्तरिक्षादिव' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ॥
 </details>
-</details>
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10कृष्णाजिने पिष्टानि प्रस्कन्दयति - देव इति ॥ व्याख्यातम् (तै.सं. 1.1.5 । 'अन्तरिक्षादिव वै' (तै.ब्रा. 3.2.6) इत्यादि ब्राह्मणम् ॥
@@ -455,4 +453,5 @@ Let the god Savitr of golden hands, seize you.
 
 इति षष्ठोनुवाकः
 </details>
+
 </div>

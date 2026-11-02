@@ -1,9 +1,9 @@
 +++
 title = "१४ मण्डप-निर्माणम्"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam">
-<details open><summary><h1>०१ मण्डप-निर्माणम् ...{Loading}...</h1></summary>
+
+<details open><summary><h1>०१ मण्डप-निर्माणम् …{Loading}…</h1></summary>
 
 सदो-मण्डप-निर्माणम्, हविर्धान-मण्टप-निर्माणम्
 
@@ -14,11 +14,11 @@ ________
 
 तत्रौदुम्बर्य-वट-परिलेखनार्थम् अभ्रिम्+++(=अग्नीध्र-खनित्रम्)+++ आदत्ते - देवस्य त्वेति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-<details open><summary><h3>देवस्य त्वा सवितुः ...{Loading}...</h3></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
 पू॒ष्णो हस्ता॑भ्याम्…
 </details>
@@ -38,7 +38,7 @@ with the hands of Pusan.
 
 <details><summary>पद-पाठः</summary>
 
-दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
+3M । दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -54,8 +54,8 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ द॑दे ।
@@ -145,8 +145,8 @@ ________
 
 तयावटं परिलिखति - परिलिखितमिति ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
-<details open><summary><h5>परिलिखितम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परि॑लिखितँ॒+++(=परिनाशितं)+++ रक्ष॒ᳶ  
@@ -202,8 +202,21 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 
 3अपिकृन्तमीत्यन्तो मन्त्रो व्याख्यातः ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+परिलिखितं नाशितं, रक्ष इति जात्य्-अभिप्रायेणैक-वचनम्। ग्रीवा इति व्यत्य्-अभिप्रायेण बहु-वचनम्। इदम् इति हस्ताभिनयः। कृन्तामि छिनद्मि।
+
+रक्षसः प्रसक्तिं पूर्वोक्तां स्मारयन् मन्त्रं व्याचष्टे –
+
+> काण्डे-काण्डे वै क्रियमाणे यज्ञं रक्षांसि जिघांसन्ति 'परिलिखितं रक्षः परिलिखिता अरातय' इत्य् आह रक्षसाम् अपहत्यै 'इदम् अहं रक्षसो ग्रीवा अपि कृन्तामि यो ऽस्मान् द्वेष्टि यं च वयं द्विष्म' इत्य् आह द्वौ वाव पुरुषौ यं चैव द्वेष्टि यश् चैनं द्वेष्टि तयोर् एवानन्तरायं ग्रीवाः कृन्तति (सं. का. ६ प्र. १ अ. ८) 
+
+इति।
+
+अनन्तरायं द्वयोर् मध्य एकतरस्याप्य् अन्तरायो यथा न भवति तथेत्य् अर्थः।
 </details>
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अपिकृन्तमीत्यन्तो मन्त्रो व्याख्यातः ॥
@@ -214,8 +227,8 @@ ________
 
 अग्रादारभ्यौदुम्बरीं प्रोक्षति - दिवे त्वेति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/dive_tvA.md">
-<details open><summary><h3>दिवे त्वा ...{Loading}...</h3></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि॒वे त्वा॑  +++(प्रोक्षामि)+++ ।  
@@ -257,8 +270,8 @@ To sky thee, to atmosphere thee, to earth thee!
 
 4अन्तर्वेद्यूर्ध्वाग्रं बर्हिस्स्थापयित्वा प्रोक्षति - दिव इति ॥ अग्रमध्यमूलेषु क्रमेण प्रोक्षणम् । सर्वत्र प्रोक्षामीति शेषः । यागनिर्वृत्तिद्वारेण द्युप्रभृतीनां लोकानां धारणार्थं प्रोक्षणं भवति । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना दिव इति विभक्तेरुदात्तत्वम् । पृथिव्या इत्यादौ 'उदात्तयणो हल्पूर्वात्' (पा.सू. 6.1.174) इति विभक्तेरुदात्तत्वम् ॥
 </details>
-</details>
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4-6 बर्हिःप्रोक्षणे व्याख्यातम् द्युलोकादिस्थित्यर्थं त्वां प्रोक्षामीत्यौदुम्बर्या अग्रमध्यमूलानि पृथक्पृथक्प्रोक्ष्यन्ते । 'परस्तादर्वाचीम्' इत्यादि ब्राह्मणम् ॥
@@ -269,8 +282,8 @@ ________
 
 7अवटे अपोवनयति - शुन्धतामिति ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/shundhantAm.md">
-<details open><summary><h6>शुन्धन्ताम् ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुन्ध॑ताल्ँ लो॒कᳶ पि॑तृ॒-षद॑नः ।
@@ -300,7 +313,6 @@ Pure be the world where the Pitrs sit.
 
 7अवटे अपोवनयति - शुन्धतामिति ॥ 
 </details>
-</details>
 </div>  
 
 ________
@@ -308,8 +320,8 @@ ________
 
 8अवटे यवान्प्रक्षिपति - यवोसीति ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md">
-<details open><summary><h6>यवोऽसि ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यवो॑ऽसि।  
@@ -359,7 +371,6 @@ bar evil spirits.
 
 13तेषु यवान्प्रस्कन्दयति - यवोसीति ॥ व्याख्यातम् । 'प्राणेष्वेवोर्जं दधाति' `इति ब्राह्मणम् ॥
 </details>
-</details>
 </div>  
 
 ________
@@ -367,8 +378,8 @@ ________
 
 9तस्मिन् व्यतिषज्य बर्हिर्-मुष्टिं निदधाति - पितृणामिति ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/pitRNAm.md">
-<details open><summary><h6>पितृणाम् ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पि॒तृ॒णाँ+++(=पितॄणाम्)+++ सद॑नमसि।  
@@ -398,7 +409,6 @@ Thou art the seat of the Pitrs.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6बर्हिर्हस्तं व्यतिषज्यावस्तृणाति - पितृणामिति ॥ व्याख्यातमेव । 'यद्बर्हिरनवस्तीर्य मिनुयात्पितृदेवत्यो निखातस्स्यात्' `इति ब्राह्मणम् ॥
-</details>
 </details>
 </div>  
 
@@ -487,8 +497,8 @@ ________
 
 12पुरीषेणौदुम्बरीं प्रदक्षिर्णं पर्यूहति - ब्रह्मवनिमिति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma-vanim.md">
-<details open><summary><h6>ब्रह्म-वनिम् ...{Loading}...</h6></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14प्रदक्षिणं पुरीषेण पर्यूहति - ब्रह्मवनिमिति ॥
@@ -526,7 +536,6 @@ Thee that art winner of Brahmans, winner of nobles, winner of fair offspring, wi
 
 14प्रदक्षिणं पुरीषेण पर्यूहति - ब्रह्मवनिमिति ॥ व्याख्यातम् ॥
 </details>
-</details>
 </div>  
 
 ________
@@ -535,8 +544,8 @@ _______
 
 13 मैत्रावरुणदण्डेन संहन्ति - ब्रह्म दृंहेति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma_dRMha.md">
-<details open><summary><h6>ब्रह्म द्रुंह ...{Loading}...</h6></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्रह्म॑ दृँह क्ष॒त्रन्दृँ॑ह प्र॒जान्दृँ॑ह रा॒यस्पोष॑न्दृँह
@@ -582,7 +591,6 @@ strengthen increase of wealth.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 15मैत्रावरुणदण्डेन संहन्ति - ब्रह्म दृंहेति ॥ व्याख्यातमेव ॥
-</details>
 </details>
 </div>  
 
@@ -678,8 +686,9 @@ the shade of all folk.
 
 16पार्श्वयोश्छदिर्निदधाति - विश्वजनस्येति ॥ विश्वजनस्य सर्वजनस्य छाया गृहमासि । 'विश्वजनस्य ह्येषा छाया' `इति ब्राह्मणम् । छायाशब्दो गृहनामसु निरुक्तकारैः पठ्यते ॥
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/02_pari_tvA.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 परि॑ त्वा गिर्वणो॒+++(=गिर्भिर् वननीयः)+++ गिर॑  
 इ॒मा भ॑वन्तु वि॒श्वतः॑ ।  
@@ -687,8 +696,9 @@ the shade of all folk.
 जुष्टा॑ भवन्तु॒ जुष्ट॑यः ॥
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/02_pari_tvA.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 May these our songs, O lover of song,
@@ -826,4 +836,5 @@ To Indra thee!
 इति तृतीये प्रथमोनुवाकः ॥
 
 </details>
+
 </div>

@@ -1,9 +1,9 @@
 +++
 title = "२० माहेन्द्रग्रहः"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/20_mAhendragrahaH">
-<details open><summary><h1>२० माहेन्द्रग्रहः ...{Loading}...</h1></summary>
+
+<details open><summary><h1>२० माहेन्द्रग्रहः …{Loading}…</h1></summary>
 
 गायत्री । सोमऋषिः
 
@@ -12,8 +12,9 @@ _______
 
 1शुक्रपात्रेण माहेन्द्रं गृह्णाति - महानिति गायत्र्या त्रिपदया ॥ 
 </details>
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/006/01_mahA_N_indro.md">
-<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+<details open><summary><h6>विश्वास-प्रस्तुतिः …{Loading}…</h6></summary>
 
 महाँ᳓ **इ᳓न्द्रो** य᳓ ओ᳓जसा-    
 पर्ज᳓न्यो वृष्टिमाँ᳓ इव ।  
@@ -21,8 +22,8 @@ _______
 
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/006/01_mahA_N_indro.md">
-<details open><summary><h6>001 ...{Loading}...</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -35,6 +36,13 @@ _______
 महाँ᳓ इ᳓न्द्रो य᳓ ओ᳓जसा  
 पर्ज᳓न्यो वृष्टिमाँ᳓ इव  
 स्तो᳓मैर् वत्स᳓स्य वावृधे
+</details>
+
+<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+म॒हाँ इन्द्रो॒ य ओज॑सा ।  
+प॒र्जन्यो॑ वृष्टि॒माँ इ॑व ।  
+स्तोमै॑र्व॒त्सस्य॑ वावृधे ।
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -157,6 +165,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+महान्- महात्मा। इन्द्रः- परमेश्वरः। वृष्टीशनदेवता आधिभौतिके। आध्यात्मिके तु अपां  मूलशक्तिधाराणां चित्तभूमिकायां स्रावक ईशनशक्तिभूतः। यः। वृष्टिमान् पर्जन्य इव। ओजसा-  बलेन। वत्सस्य- स्ववत्सभूतस्योपासकस्य। स्तोमैः- मन्त्रैः। वावृधे- वर्धते॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** **इन्द्रः** **ओजसा** बलेन **महान्** सर्वेभ्योऽधिकः । क इव । **वृष्टिमानिव** । यथा वृष्ट्या युक्तः **पर्जन्यः** रसानां प्रार्जयिता देवो महान् स इवेत्यर्थः । स इन्द्रः **वत्सस्य** पुत्रस्थानीयस्य स्तोतुर्वत्सनाम्न एवर्षेः स्तोत्रैः **ववृधे** प्रवर्धते ॥
@@ -225,18 +238,17 @@ Der grosse Indra, der an Kraft der regenschwangern Wolke gleicht, Erlabt an Vats
 - गायत्री
 - षड्जः
 </details>
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/20_mahendragrahaH/upayAmagRhItaH.md">
-<details open><summary><h6>उपयामगृहीतः ...{Loading}...</h6></summary>
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्योपयामगृहीतोसि महेन्द्राय त्वेति गृह्णाति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h11>उपयामगृहीतः ...{Loading}...</h11></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
@@ -262,8 +274,8 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महे॒न्द्राय॑ त्वा ।
@@ -300,7 +312,7 @@ This is thy birthplace; to Mahendra thee!
 
 ए॒ष ते॒ योनि॑र्महे॒न्द्राय॑ त्वा ॥ [21]
 </details>
-</details>
 </div>
 </details>
+
 </div>
