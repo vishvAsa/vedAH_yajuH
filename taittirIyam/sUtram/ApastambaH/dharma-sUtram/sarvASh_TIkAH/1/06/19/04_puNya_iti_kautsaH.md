@@ -5,10 +5,10 @@ title = "04 पुण्य इति कौत्सः"
 
 <details><summary>Bühler</summary>
 
-4. Kautsa declares, that it is he who is holy. [^3] 
+4. Kautsa declares, that it is he who is holy. [3] 
 
 
-[^3]:  'Holy' means not only 'following his lawful occupations,' but particularly 'practising austerities, reciting prayers, and offering burnt-oblations.'--Haradatta.
+[3]:  'Holy' means not only 'following his lawful occupations,' but particularly 'practising austerities, reciting prayers, and offering burnt-oblations.'--Haradatta.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

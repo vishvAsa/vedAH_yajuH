@@ -5,10 +5,10 @@ title = "18 नियमातिक्रमे चान्यस्मिन�
 
 <details><summary>Bühler</summary>
 
-18. Or if he has transgressed some other rule. [^8] 
+18. Or if he has transgressed some other rule. [8] 
 
 
-[^8]:  Manu XI, 200.
+[8]:  Manu XI, 200.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

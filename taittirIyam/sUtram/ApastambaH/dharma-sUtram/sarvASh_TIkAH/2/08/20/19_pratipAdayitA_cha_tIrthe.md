@@ -5,10 +5,10 @@ title = "19 प्रतिपादयिता च तीर्थे"
 
 <details><summary>Bühler</summary>
 
-19. And let him spend money on worthy (persons or objects). [^5] 
+19. And let him spend money on worthy (persons or objects). [5] 
 
 
-[^5]:  Manu XI, 6, and passim.
+[5]:  Manu XI, 6, and passim.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

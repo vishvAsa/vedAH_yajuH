@@ -5,10 +5,10 @@ title = "11 भस्मतुषाधिष्ठानम्"
 
 <details><summary>Bühler</summary>
 
-11. He shall avoid to tread on ashes or husks of grain. [^3] 
+11. He shall avoid to tread on ashes or husks of grain. [3] 
 
 
-[^3]:  Manu IV, 7 8.
+[3]:  Manu IV, 7 8.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

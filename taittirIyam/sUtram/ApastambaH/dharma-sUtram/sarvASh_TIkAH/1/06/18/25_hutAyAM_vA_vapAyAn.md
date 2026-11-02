@@ -5,10 +5,10 @@ title = "25 हुतायां वा वपायान्"
 
 <details><summary>Bühler</summary>
 
-25. Or after that the omentum of the victim (sacred to Agni and Soma) has been offered. [^16] 
+25. Or after that the omentum of the victim (sacred to Agni and Soma) has been offered. [16] 
 
 
-[^16]:  Aitareya-brāhmaṇa II, 1, 9.
+[16]:  Aitareya-brāhmaṇa II, 1, 9.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

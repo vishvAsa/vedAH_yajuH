@@ -5,10 +5,10 @@ title = "02 अनायुष्यन् त्वेवम्मुखस्�
 
 <details><summary>Bühler</summary>
 
-2. But they declare, that the life of the mother of that person who eats at this ceremony, his face turned in that direction, will be shortened. [^2] 
+2. But they declare, that the life of the mother of that person who eats at this ceremony, his face turned in that direction, will be shortened. [2] 
 
 
-[^2]:  'Therefore those whose mothers are alive should not perform this ceremony.'--Haradatta.
+[2]:  'Therefore those whose mothers are alive should not perform this ceremony.'--Haradatta.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

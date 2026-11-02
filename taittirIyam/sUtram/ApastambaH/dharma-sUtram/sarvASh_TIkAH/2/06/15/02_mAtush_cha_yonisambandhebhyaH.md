@@ -5,10 +5,10 @@ title = "02 मातुश् च योनिसम्बन्धेभ्य
 
 <details><summary>Bühler</summary>
 
-2. On account of the blood relations of his mother and (on account of those) of his father within six degrees, or, as far as the relationship is traceable, he shall bathe if they die, excepting children that have not completed their first year. [^2] 
+2. On account of the blood relations of his mother and (on account of those) of his father within six degrees, or, as far as the relationship is traceable, he shall bathe if they die, excepting children that have not completed their first year. [2] 
 
 
-[^2]:  Manu. V, 60; Yājñ. I, 53; Manu V, 60; Manu V, 58; Yājñ. III, 3.
+[2]:  Manu. V, 60; Yājñ. I, 53; Manu V, 60; Manu V, 58; Yājñ. III, 3.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -23,7 +23,7 @@ title = "02 मातुश् च योनिसम्बन्धेभ्य
 
 **यावता वा** ऽन्तरेण **सम्बन्धो ज्ञायते** स्मर्यते जन्मना नाम्ना वा "ऽमुष्याऽयम् अस्मत्-कूटस्थस्य वंश्य एवंनामे"ति । 
 
-तथा च मनुः —[^१] 
+तथा च मनुः —[१] 
 
 > सपिण्डता तु पुरुषे सप्तमे विनिवर्तते।  
 > समानोदकभावस्तु जन्मनाम्नोरवेदने ॥ इति ।  
@@ -32,5 +32,5 @@ title = "02 मातुश् च योनिसम्बन्धेभ्य
 **गर्भान्** बालान् **अपरि-संवत्सरान्** अपरिपूर्णसंवत्सरान् परिहाप्य वर्जयित्वा ।  
 बालेषु मृतेषु स्नानं न कर्तव्यम् इति ॥ २॥  
 
-[^१]: म० ५. ६..
+[१]: म० ५. ६..
 </details>

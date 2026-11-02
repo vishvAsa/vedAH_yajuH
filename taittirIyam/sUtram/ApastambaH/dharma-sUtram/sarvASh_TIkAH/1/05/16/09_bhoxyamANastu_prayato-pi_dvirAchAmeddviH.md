@@ -5,10 +5,10 @@ title = "09 भोक्ष्यमाणस्तु प्रयतोऽप�
 
 <details><summary>Bühler</summary>
 
-9. But if he is going to eat he shall, though pure, twice sip water, twice wipe (his mouth), and once touch (his lips). [^4] 
+9. But if he is going to eat he shall, though pure, twice sip water, twice wipe (his mouth), and once touch (his lips). [4] 
 
 
-[^4]:  Manu V, 138.
+[4]:  Manu V, 138.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

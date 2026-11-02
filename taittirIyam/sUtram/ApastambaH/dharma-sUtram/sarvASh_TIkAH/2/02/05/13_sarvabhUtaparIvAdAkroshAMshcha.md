@@ -5,10 +5,10 @@ title = "13 सर्वभूतपरीवादाक्रोशांश�
 
 <details><summary>Bühler</summary>
 
-13. (He shall not) blame or revile any creature. [^7] 
+13. (He shall not) blame or revile any creature. [7] 
 
 
-[^7]:  Haradatta states that 'speaking evil' is forbidden here once more in order that it should be particularly avoided.
+[7]:  Haradatta states that 'speaking evil' is forbidden here once more in order that it should be particularly avoided.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

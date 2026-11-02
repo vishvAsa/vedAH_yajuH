@@ -5,10 +5,10 @@ title = "02 ज्वलितां वा सूर्मिम्"
 
 <details><summary>Bühler</summary>
 
-2. Or he may die embracing a heated metal image of a woman. [^2] 
+2. Or he may die embracing a heated metal image of a woman. [2] 
 
 
-[^2]:  Manu XI, 104; Yājñ. III, 259.
+[2]:  Manu XI, 104; Yājñ. III, 259.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

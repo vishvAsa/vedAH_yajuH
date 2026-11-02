@@ -5,10 +5,10 @@ title = "11 अतिथीनेवाग्रे भोजयेत्"
 
 <details><summary>Bühler</summary>
 
-11. He shall give food to his guests first, [^9] 
+11. He shall give food to his guests first, [9] 
 
 
-[^9]:  Manu III, 115; Yājñ. I, 105.
+[9]:  Manu III, 115; Yājñ. I, 105.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

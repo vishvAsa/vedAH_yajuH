@@ -5,10 +5,10 @@ title = "17 परिक्रुष्टञ् च"
 
 <details><summary>Bühler</summary>
 
-17. Nor food offered by a general invitation (to all comers). [^10] 
+17. Nor food offered by a general invitation (to all comers). [10] 
 
 
-[^10]:  Manu IV, 209; Yājñ. I, 168.
+[10]:  Manu IV, 209; Yājñ. I, 168.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

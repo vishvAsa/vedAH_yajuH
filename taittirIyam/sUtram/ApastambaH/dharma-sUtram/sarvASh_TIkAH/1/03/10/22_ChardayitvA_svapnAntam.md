@@ -5,10 +5,10 @@ title = "22 छर्दयित्वा स्वप्नान्तम्"
 
 <details><summary>Bühler</summary>
 
-22. After having vomited (he shall not study) until he has slept. [^15] 
+22. After having vomited (he shall not study) until he has slept. [15] 
 
 
-[^15]:  Manu IV, 121.
+[15]:  Manu IV, 121.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

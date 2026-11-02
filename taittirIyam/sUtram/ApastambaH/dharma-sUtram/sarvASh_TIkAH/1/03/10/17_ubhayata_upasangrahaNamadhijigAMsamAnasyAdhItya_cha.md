@@ -5,10 +5,10 @@ title = "17 उभयत उपसङ्ग्रहणमधिजिगां�
 
 <details><summary>Bühler</summary>
 
-17. When a student desires to study or has finished his lesson, he shall at both occasions embrace the feet of his teacher. [^11] 
+17. When a student desires to study or has finished his lesson, he shall at both occasions embrace the feet of his teacher. [11] 
 
 
-[^11]:  Manu II, 73.
+[11]:  Manu II, 73.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -17,10 +17,10 @@ title = "17 उभयत उपसङ्ग्रहणमधिजिगां�
 उभयत उपसंग्रहणमधिजिगांसमानस्याधीत्य च ॥१७॥  
 
 **टीका**  
-उभयतः अध्ययनस्याऽऽदावन्ते च उपसंग्रहणं कर्तव्यं यथाक्रमं[^१]  
+उभयतः अध्ययनस्याऽऽदावन्ते च उपसंग्रहणं कर्तव्यं यथाक्रमं[१]  
 मध्ये तु कामस्याऽऽदाव् अधीत्यान्ते ॥ १७ ॥*  
 
-[^१]: अध्येतुकामस्येत्यादि ड पुस्तक एवास्ति ।  
+[१]: अध्येतुकामस्येत्यादि ड पुस्तक एवास्ति ।  
 
 *मनौ. २. ७३ श्लोको द्रष्टव्यः ।
 </details>

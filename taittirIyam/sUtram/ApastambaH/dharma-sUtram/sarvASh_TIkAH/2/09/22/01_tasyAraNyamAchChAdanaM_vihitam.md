@@ -5,10 +5,10 @@ title = "01 तस्यारण्यमाच्छादनं विहि�
 
 <details><summary>Bühler</summary>
 
-1. A dress of materials procured in the woods (skins or bark) is ordained for him. [^1] 
+1. A dress of materials procured in the woods (skins or bark) is ordained for him. [1] 
 
 
-[^1]:  22. Manu VI, 6.
+[1]:  22. Manu VI, 6.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

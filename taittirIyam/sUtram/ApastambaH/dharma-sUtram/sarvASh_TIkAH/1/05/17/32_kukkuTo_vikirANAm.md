@@ -5,10 +5,10 @@ title = "32 कुक्कुटो विकिराणाम्"
 
 <details><summary>Bühler</summary>
 
-32. Amongst birds that scratch with their feet for, food, the (tame) cock (must not be eaten). [^20] 
+32. Amongst birds that scratch with their feet for, food, the (tame) cock (must not be eaten). [20] 
 
 
-[^20]:  Yājñ. I, 176.
+[20]:  Yājñ. I, 176.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

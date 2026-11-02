@@ -5,10 +5,10 @@ title = "08 शक्तिविषये नाबहुपादमासन�
 
 <details><summary>Bühler</summary>
 
-8. Some declare that, if possible, the seat should have many feet. [^6] 
+8. Some declare that, if possible, the seat should have many feet. [6] 
 
 
-[^6]:  Haradatta states that this is also Āpastamba's opinion.
+[6]:  Haradatta states that this is also Āpastamba's opinion.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -17,7 +17,7 @@ title = "08 शक्तिविषये नाबहुपादमासन�
 शक्तिविषये नाऽबहुपादमासनं भवतीत्येक ॥ ८॥
 
 **टीका**  
-शक्तौ सत्यां अबहुपादमासनं न देयम् । किं तु बहुपादमेव पीठादिकमित्येके मन्यन्ते । [^१]स्वमतं त्वबहुपादमपीति ॥ ८ ॥  
+शक्तौ सत्यां अबहुपादमासनं न देयम् । किं तु बहुपादमेव पीठादिकमित्येके मन्यन्ते । [१]स्वमतं त्वबहुपादमपीति ॥ ८ ॥  
 
-[^१]: स्वयं त्वबहुपामप्यनुमन्यते इति च. पु.
+[१]: स्वयं त्वबहुपामप्यनुमन्यते इति च. पु.
 </details>

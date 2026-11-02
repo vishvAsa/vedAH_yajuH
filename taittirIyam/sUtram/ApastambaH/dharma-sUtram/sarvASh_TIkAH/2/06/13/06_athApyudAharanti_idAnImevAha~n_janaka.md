@@ -5,17 +5,17 @@ title = "06 अथाप्युदाहरन्ति इदानीमे�
 
 <details><summary>Bühler</summary>
 
-7. Now they quote also (the following Gāthā from the Veda): '(Having considered myself) formerly a father, I shall not now allow (any longer) my wives (to be approached by other men), since they have declared that a son belongs to the begetter in the world of Yama. The giver of the seed carries off the son after death in Yama's world; therefore they guard [^4]  their wives, fearing the seed of strangers. Carefully watch over (the procreation of) your children, lest stranger seed be sown on your soil. In the next world the son belongs to the begetter, an (imprudent) husband makes the (begetting of) children vain (for himself).'
+7. Now they quote also (the following Gāthā from the Veda): '(Having considered myself) formerly a father, I shall not now allow (any longer) my wives (to be approached by other men), since they have declared that a son belongs to the begetter in the world of Yama. The giver of the seed carries off the son after death in Yama's world; therefore they guard [4]  their wives, fearing the seed of strangers. Carefully watch over (the procreation of) your children, lest stranger seed be sown on your soil. In the next world the son belongs to the begetter, an (imprudent) husband makes the (begetting of) children vain (for himself).'
 
 
-[^4]:  According to Haradatta this Gāthā gives the sentiments of a husband who neglected to watch his wives, and who had heard from those learned in the law that the sons or his unfaithful wives would in the next world belong to their natural fathers, and that be would not derive any spiritual benefit from their oblations. He adds that this verse does not refer to or prevent the appointment of a eunuch's wife or of a childless widow to a relation. He also quotes a passage from the Śrauta-sūtra 1, 9, 7, in which the dvipitā, 'the son of two fathers,' is mentioned. But Haradatta's view cannot be reconciled with the statements made below, II, 10, 27, 2-7, p. 132 where the Niyoga, is plainly forbidden. Baudhāyana, who (II, 2, 3, 34) quotes the same Gāthā, reads in the first line the vocative 'janaka' instead of the nominative 'janakaḥ,' and in the fifth line 'pare bījāni' instead of 'parabījāni.' The commentator Govindasvāmin adds that the verses are addressed by the Ṛṣi Aupajaṅghani to king Janaka of Videha. The translation of the first line must therefore run thus: 'O Janaka, now I am jealous of my wives, (though I was) not so formerly,' &c. Baudhāyana's readings are probably the older ones, and Govindasvāmin's explanation the right one. See also Colebrooke, Digest, Book V, Text ccli.
+[4]:  According to Haradatta this Gāthā gives the sentiments of a husband who neglected to watch his wives, and who had heard from those learned in the law that the sons or his unfaithful wives would in the next world belong to their natural fathers, and that be would not derive any spiritual benefit from their oblations. He adds that this verse does not refer to or prevent the appointment of a eunuch's wife or of a childless widow to a relation. He also quotes a passage from the Śrauta-sūtra 1, 9, 7, in which the dvipitā, 'the son of two fathers,' is mentioned. But Haradatta's view cannot be reconciled with the statements made below, II, 10, 27, 2-7, p. 132 where the Niyoga, is plainly forbidden. Baudhāyana, who (II, 2, 3, 34) quotes the same Gāthā, reads in the first line the vocative 'janaka' instead of the nominative 'janakaḥ,' and in the fifth line 'pare bījāni' instead of 'parabījāni.' The commentator Govindasvāmin adds that the verses are addressed by the Ṛṣi Aupajaṅghani to king Janaka of Videha. The translation of the first line must therefore run thus: 'O Janaka, now I am jealous of my wives, (though I was) not so formerly,' &c. Baudhāyana's readings are probably the older ones, and Govindasvāmin's explanation the right one. See also Colebrooke, Digest, Book V, Text ccli.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
 
 **सूत्रम्**  
 अथाप्युदाहरन्ति —   
-इदानीमेवाहं [^४]जनकः स्त्रीणामीर्ष्यामि नो पुरा।  
+इदानीमेवाहं [४]जनकः स्त्रीणामीर्ष्यामि नो पुरा।  
 यदा यमस्य सादने जनयितुः पुत्रमब्रुवन् ।  
 रेतोधाः पुत्रं नयति परेत्य यमसादने ।  
 तस्माद्भार्यां रक्षन्ति बिभ्यन्तः पररेतसः ।  
@@ -50,7 +50,7 @@ title = "06 अथाप्युदाहरन्ति इदानीमे�
 व्यत्ययेनाऽयं कर्मणि कर्तृप्रत्ययः।  
 मा वाप्सत उप्तानि मा भूवन् । मोप्येरन् ।
 
-[^४]: 'जनक' इति सम्बुध्यन्ततया पठित बौ. ध. २. २. ३४-३६
+[४]: 'जनक' इति सम्बुध्यन्ततया पठित बौ. ध. २. २. ३४-३६
 
 
 कथम् इति ?  
@@ -58,7 +58,7 @@ title = "06 अथाप्युदाहरन्ति इदानीमे�
 परे पुरुषाः वः क्षेत्रे बीजानि मा वाप्सुरिति ।  
 +++(एतत्कुण्डान्तर्गतोभागः ख च पुस्तकयोरेवास्ति । तत्र 'कथमिति' इति नास्ति ।  )+++)  
 यस्मात् साम्पराये परलोके जनयितुरेव पुत्रफलं भवति  
-वेत्ता [^२१]परिणेता क्षेत्री तु  
+वेत्ता [२१]परिणेता क्षेत्री तु  
 एतं तन्तुं मोघं निष्प्रयोजनं कुरुते  
 आत्मसात्करोति।  
 
@@ -75,11 +75,11 @@ title = "06 अथाप्युदाहरन्ति इदानीमे�
 
 तथाचाचार्य एवाह —   
 
-> [^२२] 'यदि द्विपिता स्याद्  
+> [२२] 'यदि द्विपिता स्याद्  
 एकैकस्मिन् पिण्डे द्वौ द्वाव् उपलक्षये'द् 
 
 इति । याज्ञवल्क्योऽप्याह—  
-[^२३] 
+[२३] 
 
 > 'अपुत्रेण परक्षेत्रे  
 नियोगोत्पादितः सुतः ।  
@@ -90,7 +90,7 @@ title = "06 अथाप्युदाहरन्ति इदानीमे�
 
 नारदोऽपि—  
 
-> [^२४]द्व्यामुष्यायणको दद्याद्  
+> [२४]द्व्यामुष्यायणको दद्याद्  
 द्वाभ्यां पिण्डोदके पृथक् ।  
 रिक्थाद् अर्धं समादद्याद्  
 बीजक्षेत्रवतोस्तथा ॥'   
@@ -99,11 +99,11 @@ title = "06 अथाप्युदाहरन्ति इदानीमे�
 
 
 
-[^२१]: 'भार्याया लब्धा' इति ख. च. पु.  
+[२१]: 'भार्याया लब्धा' इति ख. च. पु.  
 
-[^२२]: आप० श्रौ० १. ९. ७.  
+[२२]: आप० श्रौ० १. ९. ७.  
 
-[^२३]: या० स्मृ० २. १३०.  
+[२३]: या० स्मृ० २. १३०.  
 
-[^२४]: नार० स्मृ० १३. ४३.
+[२४]: नार० स्मृ० १३. ४३.
 </details>

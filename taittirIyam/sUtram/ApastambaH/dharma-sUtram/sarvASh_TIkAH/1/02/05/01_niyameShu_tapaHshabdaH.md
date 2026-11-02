@@ -5,10 +5,10 @@ title = "01 नियमेषु तपःशब्दः"
 
 <details><summary>Bühler</summary>
 
-1. The word 'austerity' (must be understood to apply) to (the observance of) the rules (of studentship). [^1] 
+1. The word 'austerity' (must be understood to apply) to (the observance of) the rules (of studentship). [1] 
 
 
-[^1]:  5. Manu II, 164.
+[1]:  5. Manu II, 164.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

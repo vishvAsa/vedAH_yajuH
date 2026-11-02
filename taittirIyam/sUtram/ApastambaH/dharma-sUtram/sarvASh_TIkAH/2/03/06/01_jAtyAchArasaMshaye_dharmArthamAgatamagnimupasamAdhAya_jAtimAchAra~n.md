@@ -5,10 +5,10 @@ title = "01 जात्याचारसंशये धर्मार्थ�
 
 <details><summary>Bühler</summary>
 
-1. If he has any doubts regarding the caste and conduct of a person who has come to him in order to fulfil his duty (of learning the Veda), he shall kindle a fire (with the ceremonies prescribed for kindling the sacrificial fire) and ask him about his caste and conduct. [^1] 
+1. If he has any doubts regarding the caste and conduct of a person who has come to him in order to fulfil his duty (of learning the Veda), he shall kindle a fire (with the ceremonies prescribed for kindling the sacrificial fire) and ask him about his caste and conduct. [1] 
 
 
-[^1]:  
+[1]:  
 
     6. The person desirous to study addresses his teacher elect with the following Mantra:
     

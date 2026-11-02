@@ -5,10 +5,10 @@ title = "16 ब्राह्मणायानधीयानायासन�
 
 <details><summary>Bühler</summary>
 
-16. To a Brāhmaṇa who has not studied the Veda, a seat, water, and food must be given. But (the giver) shall not rise (to do him honour). [^12] 
+16. To a Brāhmaṇa who has not studied the Veda, a seat, water, and food must be given. But (the giver) shall not rise (to do him honour). [12] 
 
 
-[^12]:  Manu III, 99.
+[12]:  Manu III, 99.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

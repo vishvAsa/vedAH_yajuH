@@ -5,10 +5,10 @@ title = "05 अनुज्ञातेऽनुज्ञातारमेन�
 
 <details><summary>Bühler</summary>
 
-5. If he is forgiven (by the king), the guilt falls upon him who forgives him, [^5] 
+5. If he is forgiven (by the king), the guilt falls upon him who forgives him, [5] 
 
 
-[^5]:  Manu VIII, 317.
+[5]:  Manu VIII, 317.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

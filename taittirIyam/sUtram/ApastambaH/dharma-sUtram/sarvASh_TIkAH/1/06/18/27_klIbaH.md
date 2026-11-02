@@ -5,10 +5,10 @@ title = "27 क्लीबः"
 
 <details><summary>Bühler</summary>
 
-27. A eunuch (is a person whose food must not be eaten), [^17] 
+27. A eunuch (is a person whose food must not be eaten), [17] 
 
 
-[^17]:  Manu I V, 211; Yājñ. I, 161.
+[17]:  Manu I V, 211; Yājñ. I, 161.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

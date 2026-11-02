@@ -5,10 +5,10 @@ title = "05 अनाविःस्रगनुलेपणः स्यात�
 
 <details><summary>Bühler</summary>
 
-5. He shall not show himself adorned with a garland, or anointed with ointments. [^3] 
+5. He shall not show himself adorned with a garland, or anointed with ointments. [3] 
 
 
-[^3]:  Manu IV, 72.
+[3]:  Manu IV, 72.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

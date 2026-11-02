@@ -5,10 +5,10 @@ title = "13 अप्रतिकृष्टञ् च शक्तिविष
 
 <details><summary>Bühler</summary>
 
-13. Nor despicable, if he is able (to afford it). [^3] 
+13. Nor despicable, if he is able (to afford it). [3] 
 
 
-[^3]:  Manu IV, 34.
+[3]:  Manu IV, 34.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

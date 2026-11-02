@@ -5,10 +5,10 @@ title = "06 यथा क्षारलवणमधुमांसानीत�
 
 <details><summary>Bühler</summary>
 
-6. Such as pungent condiments, salt, honey, or meat (and the like). [^1] 
+6. Such as pungent condiments, salt, honey, or meat (and the like). [1] 
 
 
-[^1]:  4. See above, I, 1, 2, 23.
+[1]:  4. See above, I, 1, 2, 23.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

@@ -5,10 +5,10 @@ title = "16 सङ्घान्नमभोज्यम्"
 
 <details><summary>Bühler</summary>
 
-16. Food received from a multitude of givers must not be eaten, [^9] 
+16. Food received from a multitude of givers must not be eaten, [9] 
 
 
-[^9]:  Manu IV, 209.
+[9]:  Manu IV, 209.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

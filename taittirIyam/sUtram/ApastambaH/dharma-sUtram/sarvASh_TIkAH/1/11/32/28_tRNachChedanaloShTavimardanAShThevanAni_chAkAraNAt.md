@@ -5,10 +5,10 @@ title = "28 तृणच्छेदनलोष्टविमर्दना�
 
 <details><summary>Bühler</summary>
 
-28. He shall avoid cutting grass, crushing clods of earth, and spitting, without a particular reason, [^8] 
+28. He shall avoid cutting grass, crushing clods of earth, and spitting, without a particular reason, [8] 
 
 
-[^8]:  Manu IV, 70 and 71.
+[8]:  Manu IV, 70 and 71.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

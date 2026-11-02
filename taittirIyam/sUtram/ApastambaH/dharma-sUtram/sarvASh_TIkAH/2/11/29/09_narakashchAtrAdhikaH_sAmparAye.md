@@ -5,10 +5,10 @@ title = "09 नरकश्चात्राधिकः साम्परा�
 
 <details><summary>Bühler</summary>
 
-9. Besides, in that case, after death, hell (will be his punishment). [^7] 
+9. Besides, in that case, after death, hell (will be his punishment). [7] 
 
 
-[^7]:  Manu VIII, 89 seq.
+[7]:  Manu VIII, 89 seq.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -21,9 +21,9 @@ title = "09 नरकश्चात्राधिकः साम्परा�
 
 **टीका**  
 साम्परायः परलोकः, तत्र नरकश्च भवति, न तु,  
-[^५] राजभिर्धृतदण्डास्तु कृत्वा पापानि मानवाः ।  
+[५] राजभिर्धृतदण्डास्तु कृत्वा पापानि मानवाः ।  
 निर्मलास्स्वर्गमायान्ति सन्तस्सुकृतिनो यथा ॥  
 इत्यस्यायं विषय इति ॥९॥  
 
-[^५]: म० स्मृ० ८. ३१८,
+[५]: म० स्मृ० ८. ३१८,
 </details>

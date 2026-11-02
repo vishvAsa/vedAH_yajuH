@@ -5,10 +5,10 @@ title = "21 भिषक्"
 
 <details><summary>Bühler</summary>
 
-21. A (professional) physician is a person whose food must not be eaten, [^13] 
+21. A (professional) physician is a person whose food must not be eaten, [13] 
 
 
-[^13]:  Manu IV, 212; Yājñ. I, 162.
+[13]:  Manu IV, 212; Yājñ. I, 162.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

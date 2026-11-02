@@ -5,10 +5,10 @@ title = "16 अन्नसंस्कर्तारमाहूय व्र�
 
 <details><summary>Bühler</summary>
 
-16. (If the dinner has been finished before the arrival of the guest), he shall call his cook and give him rice or yava for (preparing a fresh meal for) the guest. [^10] 
+16. (If the dinner has been finished before the arrival of the guest), he shall call his cook and give him rice or yava for (preparing a fresh meal for) the guest. [10] 
 
 
-[^10]:  Manu III, 108.
+[10]:  Manu III, 108.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

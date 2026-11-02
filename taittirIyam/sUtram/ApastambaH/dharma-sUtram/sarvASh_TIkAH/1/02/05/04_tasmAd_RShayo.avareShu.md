@@ -5,10 +5,10 @@ title = "04 तस्माद् ऋषयो ऽवरेषु"
 
 <details><summary>Bühler</summary>
 
-4. On account of that (transgression of the rules of studentship) no Ṛṣis are born amongst the men of later ages. [^3] 
+4. On account of that (transgression of the rules of studentship) no Ṛṣis are born amongst the men of later ages. [3] 
 
 
-[^3]:  'Amongst the avaras means "amongst the men of modern times, those who live in the Kaliyuga." No Ṛṣis are born means "there are none who see (receive the revelation of) Mantras, Vedic texts."'--Haradatta.
+[3]:  'Amongst the avaras means "amongst the men of modern times, those who live in the Kaliyuga." No Ṛṣis are born means "there are none who see (receive the revelation of) Mantras, Vedic texts."'--Haradatta.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

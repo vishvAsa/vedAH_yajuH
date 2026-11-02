@@ -5,10 +5,10 @@ title = "12 सदा महान्तमपररात्रमुत्थ�
 
 <details><summary>Bühler</summary>
 
-12. Every day he shall rise in the last watch of the night, and standing near his teacher, salute him with (this) salutation: I, N. N., ho! (salute thee.) [^10] 
+12. Every day he shall rise in the last watch of the night, and standing near his teacher, salute him with (this) salutation: I, N. N., ho! (salute thee.) [10] 
 
 
-[^10]:  Manu II, 122 and 124.
+[10]:  Manu II, 122 and 124.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

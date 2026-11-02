@@ -5,10 +5,10 @@ title = "04 न खट्वायां सतोऽभिप्रसारण
 
 <details><summary>Bühler</summary>
 
-4. Some say, that it is not (sinful) to stretch out the feet (towards the teacher), if he be lying on a bed. [^3] 
+4. Some say, that it is not (sinful) to stretch out the feet (towards the teacher), if he be lying on a bed. [3] 
 
 
-[^3]:  'But, in Āpastamba's opinion, it is sinful even in this case.'--Haradatta.
+[3]:  'But, in Āpastamba's opinion, it is sinful even in this case.'--Haradatta.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

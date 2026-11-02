@@ -5,10 +5,10 @@ title = "19 अपि सत्सु"
 
 <details><summary>Bühler</summary>
 
-19. Nor if good men (have come). [^11] 
+19. Nor if good men (have come). [11] 
 
 
-[^11]:  Yājñ. I, 150.
+[11]:  Yājñ. I, 150.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

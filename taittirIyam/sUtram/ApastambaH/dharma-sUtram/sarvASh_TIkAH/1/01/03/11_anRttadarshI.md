@@ -5,22 +5,22 @@ title = "11 अनृत्तदर्शी"
 
 <details><summary>Bühler</summary>
 
-11. Let him not look at dancing. [^4] 
+11. Let him not look at dancing. [4] 
 
 
-[^4]:  Manu II, 178.
+[4]:  Manu II, 178.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
 
 **सूत्रम्**  
-[^२]अनृत्तदर्शी ॥ ११ ॥
+[२]अनृत्तदर्शी ॥ ११ ॥
 
 **टीका**  
 नृत्तं न पश्येत् ॥ ११ ॥  
 
 
-[^२]:
+[२]:
 
     इमे नियमा गोपथब्राह्मणे विहिताः
 

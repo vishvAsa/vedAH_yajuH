@@ -5,10 +5,10 @@ title = "05 परुषञ् चोभयोर् देवतानां"
 
 <details><summary>Bühler</summary>
 
-5. And he shall not speak evil of the gods or of the king. [^2] 
+5. And he shall not speak evil of the gods or of the king. [2] 
 
 
-[^2]:  Manu IV, 163.
+[2]:  Manu IV, 163.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

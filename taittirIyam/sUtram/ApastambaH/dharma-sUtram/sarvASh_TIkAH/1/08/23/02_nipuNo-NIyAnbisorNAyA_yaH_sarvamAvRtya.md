@@ -5,10 +5,10 @@ title = "02 निपुणोऽणीयान्बिसोर्णाय�
 
 <details><summary>Bühler</summary>
 
-2. He, who is intelligence itself and subtler than the thread of the lotus-fibre, pervades the universe, and who, unchangeable and larger than the earth, contains the universe; he, who is different from the knowledge of this world, obtained by the senses and identical with its objects, possesses the highest (form consisting of absolute knowledge). From him, who divides himself, spring all (created) bodies. He is the primary cause, he is eternal, he is unchangeable. [^1] 
+2. He, who is intelligence itself and subtler than the thread of the lotus-fibre, pervades the universe, and who, unchangeable and larger than the earth, contains the universe; he, who is different from the knowledge of this world, obtained by the senses and identical with its objects, possesses the highest (form consisting of absolute knowledge). From him, who divides himself, spring all (created) bodies. He is the primary cause, he is eternal, he is unchangeable. [1] 
 
 
-[^1]:  23. This Sūtra again contains a description of the Paramātman. The translation strictly follows the commentary, though the explanation, given in the latter, is open to objections.
+[1]:  23. This Sūtra again contains a description of the Paramātman. The translation strictly follows the commentary, though the explanation, given in the latter, is open to objections.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -19,16 +19,16 @@ title = "02 निपुणोऽणीयान्बिसोर्णाय�
 तस्मात्कायाःप्रभवन्ति सर्वे समूलं शाश्वतिकः स नित्यः ॥  
 
 **टीका**  
-निपुणो मेधावी चित्स्वरूपः । बिसोर्णाया बिसतन्तोरप्यणीयान् सूक्ष्मः। य सर्वमावृत्य व्याप्य तिष्ठति । यश्च पृथिव्या अपि वर्षीयान् प्रवृद्धतरः सर्वगतत्वादेव सर्वमारभ्य विष्टभ्य शेषित्वेनाऽधिष्ठाय तिष्ठति । ध्रुवः एकरूपः। अस्य जगतो यदिन्द्रियैर्ज्ञानं इन्द्रियजन्यं ज्ञानं तस्मात् । कीदृशात ? अनन्यस्य ज्ञेयात् , पञ्चम्यर्थे षष्ठी, ज्ञेयात् नीलपीताद्याकारादनन्यभूतं नीलपीताद्याकारं, तस्माद्विषज्ञानादन्य इत्यर्थः । श्रूयते च [^२] तस्माद्वा एतस्माद्विज्ञानमयात् । अन्योऽन्तर आत्माऽऽनन्दमय' इति ।  
-[^३] ज्ञानस्वरूपमत्यन्तनिर्मलं परमार्थतः ।  
-तमेवार्थस्वरूपेण भ्रान्तिदर्शनतस्स्थितम् ॥ इति पुराणम् ।  स्वभावतः स्वच्छस्य चिद्रूपस्यऽऽत्मनो नीलपीताद्याकारकालुष्यं तद्रूपाया बुद्धेरनुरागकृतं भ्रान्तमित्यर्थः। वैषयिकज्ञानादन्य इति विशेषणेन ज्ञानात्मक इत्यपि सिद्धम्। [^४] 'सत्यं ज्ञानमनन्तं ब्रह्मे'ति च श्रुतिः। एवंभूतस्याऽऽमा परमेष्ठी परमे स्वरूपे तिष्ठतीति । विभाज इत्यस्य परेण सम्बन्धः । विभजत्यात्मानं देवमनुष्यादिरूपेण नानाशरीरानुप्रवेशेनेति विभाक् । तस्माद्विभाजो निमित्तभूतात् सर्वे काया देवमनुष्यशरीराणि प्रभवन्ति उत्पद्यन्ते । स मूलं प्रपञ्चसृष्टेर्भोक्तृतया मूलकारणम् । स नित्यः अविनाशी । शाश्वतिक एकरूपः अविकारः ॥२॥  
+निपुणो मेधावी चित्स्वरूपः । बिसोर्णाया बिसतन्तोरप्यणीयान् सूक्ष्मः। य सर्वमावृत्य व्याप्य तिष्ठति । यश्च पृथिव्या अपि वर्षीयान् प्रवृद्धतरः सर्वगतत्वादेव सर्वमारभ्य विष्टभ्य शेषित्वेनाऽधिष्ठाय तिष्ठति । ध्रुवः एकरूपः। अस्य जगतो यदिन्द्रियैर्ज्ञानं इन्द्रियजन्यं ज्ञानं तस्मात् । कीदृशात ? अनन्यस्य ज्ञेयात् , पञ्चम्यर्थे षष्ठी, ज्ञेयात् नीलपीताद्याकारादनन्यभूतं नीलपीताद्याकारं, तस्माद्विषज्ञानादन्य इत्यर्थः । श्रूयते च [२] तस्माद्वा एतस्माद्विज्ञानमयात् । अन्योऽन्तर आत्माऽऽनन्दमय' इति ।  
+[३] ज्ञानस्वरूपमत्यन्तनिर्मलं परमार्थतः ।  
+तमेवार्थस्वरूपेण भ्रान्तिदर्शनतस्स्थितम् ॥ इति पुराणम् ।  स्वभावतः स्वच्छस्य चिद्रूपस्यऽऽत्मनो नीलपीताद्याकारकालुष्यं तद्रूपाया बुद्धेरनुरागकृतं भ्रान्तमित्यर्थः। वैषयिकज्ञानादन्य इति विशेषणेन ज्ञानात्मक इत्यपि सिद्धम्। [४] 'सत्यं ज्ञानमनन्तं ब्रह्मे'ति च श्रुतिः। एवंभूतस्याऽऽमा परमेष्ठी परमे स्वरूपे तिष्ठतीति । विभाज इत्यस्य परेण सम्बन्धः । विभजत्यात्मानं देवमनुष्यादिरूपेण नानाशरीरानुप्रवेशेनेति विभाक् । तस्माद्विभाजो निमित्तभूतात् सर्वे काया देवमनुष्यशरीराणि प्रभवन्ति उत्पद्यन्ते । स मूलं प्रपञ्चसृष्टेर्भोक्तृतया मूलकारणम् । स नित्यः अविनाशी । शाश्वतिक एकरूपः अविकारः ॥२॥  
 
 
-[^२]: तै० उ० २. ५.  
+[२]: तै० उ० २. ५.  
 
-[^३]: विष्णु पु० १.१.६  
+[३]: विष्णु पु० १.१.६  
 
-[^४]: तै० उ० २.१
+[४]: तै० उ० २.१
 </details>
 
 <details><summary>शङ्कराचार्य-विवरणम्</summary>

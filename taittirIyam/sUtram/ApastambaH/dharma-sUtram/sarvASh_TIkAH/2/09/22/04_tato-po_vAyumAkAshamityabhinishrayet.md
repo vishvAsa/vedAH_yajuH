@@ -5,10 +5,10 @@ title = "04 ततोऽपो वायुमाकाशमित्यभि�
 
 <details><summary>Bühler</summary>
 
-4. Next he shall live on water, (then) on air, then on ether. [^3] 
+4. Next he shall live on water, (then) on air, then on ether. [3] 
 
 
-[^3]:  'Then he shall live on ether, i.e. eat nothing at all.'--Haradatta. Manu VI, 31; Yājñ. III, 55.
+[3]:  'Then he shall live on ether, i.e. eat nothing at all.'--Haradatta. Manu VI, 31; Yājñ. III, 55.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

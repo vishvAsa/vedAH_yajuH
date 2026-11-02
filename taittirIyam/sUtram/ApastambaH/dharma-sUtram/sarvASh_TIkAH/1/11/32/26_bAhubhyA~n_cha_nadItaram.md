@@ -5,10 +5,10 @@ title = "26 बाहुभ्याञ् च नदीतरम्"
 
 <details><summary>Bühler</summary>
 
-26. And (let him avoid) to cross a river swimming. [^7] 
+26. And (let him avoid) to cross a river swimming. [7] 
 
 
-[^7]:  Manu IV, 77.
+[7]:  Manu IV, 77.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

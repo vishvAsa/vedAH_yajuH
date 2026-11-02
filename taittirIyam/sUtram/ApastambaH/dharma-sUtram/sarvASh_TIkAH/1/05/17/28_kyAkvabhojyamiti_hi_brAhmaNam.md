@@ -5,10 +5,10 @@ title = "28 क्याक्वभोज्यमिति हि ब्रा
 
 <details><summary>Bühler</summary>
 
-28. Mushrooms ought not to be eaten; that has been declared in a Brāhmaṇa; [^18] 
+28. Mushrooms ought not to be eaten; that has been declared in a Brāhmaṇa; [18] 
 
 
-[^18]:  Yājñ. I, 171.
+[18]:  Yājñ. I, 171.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

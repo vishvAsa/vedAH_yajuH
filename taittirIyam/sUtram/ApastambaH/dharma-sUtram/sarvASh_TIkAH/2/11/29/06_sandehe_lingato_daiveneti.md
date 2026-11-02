@@ -5,10 +5,10 @@ title = "06 सन्देहे लिङ्गतो दैवेनेति
 
 <details><summary>Bühler</summary>
 
-6. In doubtful cases (they shall give their decision) after having ascertained (the truth) by inference, ordeals, and the like (means). [^4] 
+6. In doubtful cases (they shall give their decision) after having ascertained (the truth) by inference, ordeals, and the like (means). [4] 
 
 
-[^4]:  'And the like, i.e. by cross-examination, &c.'--Haradatta.
+[4]:  'And the like, i.e. by cross-examination, &c.'--Haradatta.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

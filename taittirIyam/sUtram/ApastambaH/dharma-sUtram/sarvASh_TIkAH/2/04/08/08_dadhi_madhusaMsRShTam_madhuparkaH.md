@@ -5,10 +5,10 @@ title = "08 दधि मधुसंसृष्टम् मधुपर्क
 
 <details><summary>Bühler</summary>
 
-8. The Madhuparka shall consist of curds mixed with honey, or of milk mixed with honey. [^5] 
+8. The Madhuparka shall consist of curds mixed with honey, or of milk mixed with honey. [5] 
 
 
-[^5]:  Āśvalāyana Gṛhya-sūtra I, 24, 5 and 6.
+[5]:  Āśvalāyana Gṛhya-sūtra I, 24, 5 and 6.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -20,7 +20,7 @@ title = "08 दधि मधुसंसृष्टम् मधुपर्क
 कोऽसौ मधुपर्क इत्यत आह—  
 
 **टीका**  
-[^१]गृह्योक्तस्याऽनुवादोऽयमुत्तरविवक्षया ॥ ८ ॥   
+[१]गृह्योक्तस्याऽनुवादोऽयमुत्तरविवक्षया ॥ ८ ॥   
 
-[^१]: “दधिमध्विति संसृज्य—त्रिवृतमेके घृतं च । पंक्तिमेके धानास्सक्तूंश्च" इति गृह्ये उक्तम् ।
+[१]: “दधिमध्विति संसृज्य—त्रिवृतमेके घृतं च । पंक्तिमेके धानास्सक्तूंश्च" इति गृह्ये उक्तम् ।
 </details>

@@ -5,10 +5,10 @@ title = "08 गृहान्कृत्वा सदारः सप्रज
 
 <details><summary>Bühler</summary>
 
-8. (Afterwards) he shall build a dwelling, and dwell outside the village with his wife, his children, and his fires, [^5] 
+8. (Afterwards) he shall build a dwelling, and dwell outside the village with his wife, his children, and his fires, [5] 
 
 
-[^5]:  Manu VI, 3 seq.; Yājñ. III, 45.
+[5]:  Manu VI, 3 seq.; Yājñ. III, 45.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

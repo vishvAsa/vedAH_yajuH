@@ -5,10 +5,10 @@ title = "03 न प्रेक्षेत नग्नां"
 
 <details><summary>Bühler</summary>
 
-3. He shall not look at a naked woman. [^1] 
+3. He shall not look at a naked woman. [1] 
 
 
-[^1]:  7. Manu IV, 5 3: Yājñ. I, 13 5.
+[1]:  7. Manu IV, 5 3: Yājñ. I, 13 5.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

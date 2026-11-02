@@ -5,10 +5,10 @@ title = "07 यत्किञ् च समाहितो"
 
 <details><summary>Bühler</summary>
 
-7. And whatever else besides the Veda, (a student) who obeys the rules learns from his teacher, that brings the same reward as the Veda. [^6] 
+7. And whatever else besides the Veda, (a student) who obeys the rules learns from his teacher, that brings the same reward as the Veda. [6] 
 
 
-[^6]:  'Whatever else besides the Veda, such as poison-charms and the like,'--Haradatta.
+[6]:  'Whatever else besides the Veda, such as poison-charms and the like,'--Haradatta.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

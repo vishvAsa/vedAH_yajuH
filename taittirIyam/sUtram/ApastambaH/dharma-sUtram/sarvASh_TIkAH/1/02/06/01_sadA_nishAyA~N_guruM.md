@@ -5,10 +5,10 @@ title = "01 सदा निशायाङ् गुरुं"
 
 <details><summary>Bühler</summary>
 
-1. Every day he shall put his teacher to bed after having washed his (teacher's) feet and after having rubbed him. [^1] 
+1. Every day he shall put his teacher to bed after having washed his (teacher's) feet and after having rubbed him. [1] 
 
 
-[^1]:  6. Manu II, 209.
+[1]:  6. Manu II, 209.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

@@ -5,10 +5,10 @@ title = "01 खड्गोपस्तरणे खड्गमांसेन�
 
 <details><summary>Bühler</summary>
 
-1. (If) rhinoceros' meat (is given to Brāhmaṇas seated) on (seats covered with) the skin of a rhinoceros, (the Manes are satisfied) for a very long time. [^1] 
+1. (If) rhinoceros' meat (is given to Brāhmaṇas seated) on (seats covered with) the skin of a rhinoceros, (the Manes are satisfied) for a very long time. [1] 
 
 
-[^1]:  17. Manu III, 272; Yājñ. I, 259.
+[1]:  17. Manu III, 272; Yājñ. I, 259.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

@@ -5,10 +5,10 @@ title = "12 सभाः समाजांश् चागन्ता"
 
 <details><summary>Bühler</summary>
 
-12. Let him not go to assemblies (for gambling, &c.), nor to crowds (assembled at festivals). [^5] 
+12. Let him not go to assemblies (for gambling, &c.), nor to crowds (assembled at festivals). [5] 
 
 
-[^5]:  -13. Manu III, 179; Yājñ. I, 33.
+[5]:  -13. Manu III, 179; Yājñ. I, 33.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

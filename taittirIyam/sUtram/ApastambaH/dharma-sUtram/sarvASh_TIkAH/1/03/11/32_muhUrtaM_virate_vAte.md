@@ -5,10 +5,10 @@ title = "32 मुहूर्तं विरते वाते"
 
 <details><summary>Bühler</summary>
 
-32. After the wind has ceased, (the interruption of the recitation continues) for one muhūrta. [^18] 
+32. After the wind has ceased, (the interruption of the recitation continues) for one muhūrta. [18] 
 
 
-[^18]:  One muhūrta = 48 minutes.
+[18]:  One muhūrta = 48 minutes.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

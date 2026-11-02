@@ -5,10 +5,10 @@ title = "10 नासमयेन कृच्छ्रङ् कुर्वी
 
 <details><summary>Bühler</summary>
 
-10. Without a vow of obedience (a pupil) shall not study (nor a teacher teach) a difficult (new book) with the exception of (the texts called) Triḥsrāvaṇa and Triḥsahavacana. [^6] 
+10. Without a vow of obedience (a pupil) shall not study (nor a teacher teach) a difficult (new book) with the exception of (the texts called) Triḥsrāvaṇa and Triḥsahavacana. [6] 
 
 
-[^6]:  Manu II, 112.
+[6]:  Manu II, 112.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -24,7 +24,7 @@ title = "10 नासमयेन कृच्छ्रङ् कुर्वी
 आवार्योऽपि नाध्यापयेत् ।  
 तथा च मनुः—  
 
-> [^४] धर्मार्थौ यत्र न स्यातां  
+> [४] धर्मार्थौ यत्र न स्यातां  
 शुश्रूषा वापि तद्विधा ।  
 न तत्र विद्या वप्तव्या  
 शुभं बीजमिवोषरे' ॥ 
@@ -36,5 +36,5 @@ title = "10 नासमयेन कृच्छ्रङ् कुर्वी
 शुश्रूषा नाऽपेक्ष्या ।  
 ततोऽधिके सर्वत्रापेक्ष्येति ॥१०॥  
 
-[^४]: म० स्मृ० २. ११२.
+[४]: म० स्मृ० २. ११२.
 </details>

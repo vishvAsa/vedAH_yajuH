@@ -5,10 +5,10 @@ title = "22 आश्वमेधिकं वावभृथमवेत्य 
 
 <details><summary>Bühler</summary>
 
-22. Or he is freed (from his sin), if (after the twelve years' penance) he bathes (with the priests) at the end of a horse-sacrifice. [^9] 
+22. Or he is freed (from his sin), if (after the twelve years' penance) he bathes (with the priests) at the end of a horse-sacrifice. [9] 
 
 
-[^9]:  Manu XI, 83; Weber, Ind. Stud. X, 67.
+[9]:  Manu XI, 83; Weber, Ind. Stud. X, 67.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
