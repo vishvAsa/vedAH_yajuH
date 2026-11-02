@@ -8,7 +8,7 @@ title: १३ स्रुग्-व्यूहनादिः
 प्रजापतिर्ऋषिः  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/vAjasya_mA.md">
-<details open><summary><h5>वाजस्य मा ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1स्रुचौ व्यूहति - वाजस्येत्यनुष्टुब्भ्यां चतुष्पदाभ्याम् ॥
@@ -176,7 +176,7 @@ __________
 
 अथेन्द्राग्नी मम सपत्नान्विषूचीनान्सर्वतः पलायमानान्व्यस्यतां विनाशयेताम्। 
 </details>
-</details>
+
 </div>  
 
 ____
@@ -465,17 +465,27 @@ ____
 
 मध्यमं परिधिम् अनुप्रहरति
 </details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+14मध्यमं परिधिमनुप्रहरति - यमिति त्रिष्टुभा पुरस्ताज्ज्योतिषा वसुरुद्रेशभवाक्षरपदया ॥
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/63_yam_paridhim.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 यम् प॑रि॒धिम् प॒र्यध॑त्था॒  
 अग्ने॑ +++(पादादित्वान्न निहन्यते स्वरः)+++ देव +++(दुष्टैः)+++ प॒णिभि॑र् वी॒यमा॑णः+++(=वेष्ट्यमानः)+++ ।  
 तन् त॑ ए॒तम् अनु॒ जोष॑म्+++(=इष्टम्)+++ भरामि॒  
 नेद् ए॒ष त्वद्-अ॑पचे॒तया॑तै+++(=अपरक्तचेता भवेत्)+++ ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/63_yam_paridhim.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 The fence which thou didst put round thee  
@@ -497,11 +507,12 @@ That it be not removed from thee.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-14मध्यमं परिधिमनुप्रहरति - यमिति त्रिष्टुभा पुरस्ताज्ज्योतिषा वसुरुद्रेशभवाक्षरपदया ॥  
+  
 हे अग्ने । पादादित्वान्न निहन्यते । देव देवनादिगुणयुक्त । 'नामन्त्रिते समानाधिकरणे' (पा.सू. 8.1.73) इति पूर्वस्य विद्यमानवत्त्वात् निहन्यत एव । यं परिधिं पर्यधत्थाः परिहितवानसि । 'यद्वृत्तान्नित्यम्' (पा.सू. 8.1.66) इति निघाते निषिद्धे अट उदात्तत्वम्, 'तिङि चोदात्तवति' (पा.सू. 8.1.71) इति गतेर्निघातः, उदात्तवता तिङा गतिसमासः (पा.सू. 2.2.18) । परिधिशब्दः कृदुत्तरपदप्रकृतिस्वरेणान्तोदात्तः (पा.सू. 6.2.139) । सः पणिभिः पणिनामभिः असुरैः वीयमाणः वेष्ट्यमानः तेषां निवारणार्थं पर्यधत्थाः । व्येञः कर्मणि लकारः, व्यत्ययेन णकारः । वच्यादिसूत्रेण (पा.सू. 6.1.15) सम्प्रसारणम् ।    
 तमेतं मध्यमं परिधिं तव जोषमिष्टम् । कर्मणि घञ् (पा.सू. 3.3.19) । अनुभरामि त्वामेवानुगतं हरामि प्रहरामि । 'हृग्रहोर्भश्छन्दसि' (पा.सू. 8.2.32 वा 1) इति भत्वम् । युक्तमेव खल्वेवं कर्तुमित्याह - एषः अयं परिधिः एवं नाम तवाभिमतः त्वत्तो हेतोः नेदपचेतयातै नैवापरक्तचित्तो भवेत्; यद्ययं न प्रह्रियेत, उपेक्षितोऽहमनेनाग्निनेति त्वत्तोऽपचेतयेत । तस्मात्त्वय्येवैनमनुप्रहरामि । चित संचेतने, चुरादिः, अनुदात्तेत् (पा.सू. 1.3.2), तस्माल्लेटि 'लेटोऽडाटौ' (पा.सू. 3.4.94) इत्याडागमः, 'वैतोन्यत्र' (पा.सू. 3.4.96) इत्यैत्वम्, 'निपातैर्यत्' (पा.सू. 8.1.30) इत्यादिना निघातप्रतिषेधः, पूर्ववद्गतिनिघातसमासौ, णिचश्चित्त्वादुदात्तत्वम् (पा.सू. 6.1.163) ॥
 </details>
 </details>
+
 </div>
 
 ____
@@ -542,17 +553,22 @@ ____
 
 एतान् संस्रावेणाभिघारयति
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/73_sasrAvabhAgAs_sthaiShA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 सँस्रा॒व+++(=जुहूपभृद्भ्यां सिच्यमान आज्य-शेषः)+++भा॑गास् स्थ+इ॒षा बृ॒हन्तᳶ॑  
 प्रस्तरे॒ष्ठा ब॑र्हि॒षद॑श् च दे॒वाः ।  
 +++(स्तोत्ररूपम्)+++ इ॒माव्ँ वाच॑म् अ॒भि विश्वे॑ गृ॒णन्त॑ +++(=प्रशंसन्तः)+++  
 आ॒सद्या॒स्मिन् ब॒र्हिषि॑ मादयध्वम् ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/73_sasrAvabhAgAs_sthaiShA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Ye are sharers in the remains (of the oblation), well nourished, mighty  
@@ -586,6 +602,7 @@ Seated on this strew enjoy yourselves.
 ते विश्वेपि देवा देवनादिगुणयुक्ता यूयं, इमामस्मदीयां त्वद्विषयां स्तोत्ररूपां वाचं अभिगृणन्तः आभिमुख्येन शब्दयन्तः अहो सम्यगियं स्तुतिः कृतेत्येवं प्रशंसन्तः । 'अभिरभागे' (पा.सू. 1.4.91) इति लक्षणादिषु (पा.सू. 1.4.90) कर्मप्रवचनीयत्वम् । अस्मिन् बर्हिषि स्तीर्णे यज्ञे आसद्य उपविश्य मादयध्वं तृप्यत । मद तृप्तियोगे, चौरादिकः, आकुस्मीय आत्मनेपदी (आकुस्मादात्मनेपदिनः - गणसूत्रं - चित संचेतने इति धातौ) । आसद्येति कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना इदमस्सप्तम्या उदात्तत्वम् । 'स्रुचौ संप्रस्रावयति' (तै.ब्रा. 3.3.9) इत्यादि ब्राह्मणं । 'वैश्वदेव्यर्चा' (तै.ब्रा. 3.3.9) इत्यादि च ॥
 </details>
 </details>
+
 </div>
 
 ____
@@ -804,8 +821,9 @@ ____
 
 19समिष्टयजूंषि जुहोति - देवा इति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/devA_gAtuvidaH.md">
-<details open><summary><h5>देवा गातुविदः ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा॑ गातुविदो+++(=गतिज्ञाः)+++ गा॒तुव्ँ+++(=मार्गं)+++ वि॒त्वा+++(=लब्ध्वा)+++ **गा॒तुम् इ॑त** +++(=गच्छत)+++।
@@ -905,7 +923,7 @@ in/or the wind, hail!
 
 ततः पश्चादिमं यज्ञं वाते सर्वक्रियाधारे धाः स्थापय । यस्मादयं यज्ञः प्रयुक्तः तत्रैव वाते स्थापय । 'वाताद्वा अध्वर्युर्यज्ञं प्रयुङ्क्ते' (तै.ब्रा. 3.3.9) इत्यादि ब्राह्मणम् । दधातेः लेटि 'बहुलं छन्दसि' (पा.सू. 2.4.73) इति शपो लुक्, 'इतश्च लोपः परस्मैपदेषु' (पा.सू. 3.4.98) इतीकारलोपः ॥
 </details>
-</details>
+
 </div>  
 
 इति त्रयोदशोनुवाकः ।  

@@ -1,6 +1,5 @@
 +++
 title = "०७ वाजपेयाध्वर्यवे रथसंस्काराः"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -26,17 +25,22 @@ title = "०७ वाजपेयाध्वर्यवे रथसंस्
 1अथ वाजपेयकाण्डं सौम्यम् । तत्र सावित्रं जुहोति - देवसवितरिति जगत्या ॥  
 'सावित्रं जुहोति कर्मणःकर्मणः पुरस्तात्' इत्यादि ब्राह्मणम् ।
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/02_deva_savitapH.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 देव॑ सवित॒ᳶ प्रसु॑व, य॒ज्ञम् प्रसु॑व,  
 य॒ज्ञप॑ति॒म् भगा॑य, दि॒व्यो ग॑न्ध॒र्वः +++(यो ऽसि)+++।  
 के॒त॒+++(=ज्ञान)+++-पूᳵ केत॑न् नᳶ पुनातु  
 वा॒चस्पति॒र् वाच॑म्, +++(यो)+++ अ॒द्य स्व॑दाति+++(←स्वद्)+++ नः  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/02_deva_savitapH.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 O god Savitr, instigate the sacrifice, instigate the lord of the sacrifice for good luck; may the divine Gandharva who purifieth thoughts purify our thought; may the lord of speech to-day make sweet our utterance.
@@ -54,15 +58,17 @@ O god Savitr, instigate the sacrifice, instigate the lord of the sacrifice for g
 **केतपूः** केतस्यान्नस्य ज्ञानस्य वा प्रजाया वा शोधयिता वायुः सोस्माकं **केतं पुनातु** पवमानः **वाचस्पतिर्** देवः प्रजापतिर् मनो वा । सोपि **नो** ऽस्माकं **वाचं** अद्यास्मिन् कर्मणि **स्वदाति** स्वदयतु सुमतिं श्रवणीयां करोतु । लेट्याडागमः ॥
 </details>
 </details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2रथम् उपावहरति - इन्द्रस्येति यजुषा ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si.md">
-<details open><summary><h5>इन्द्र॑स्य॒ वज्रो॑ऽसि॒ ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
-<details open><summary><h10>इन्द्र॑स्य॒ वज्रो॑ऽसि॒ ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्र॑स्य॒ वज्रो॑ऽसि॒,  
@@ -83,6 +89,11 @@ Thou art the bolt of Indra [2] slaying foes;
 वार्त्र॑घ्नः ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+2B । इन्द्र॑स्य । वज्रः॑ । अ॒सि॒ । वार्त्र॑घ्न॒ इति॒ वार्त्र॑-घ्नः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इन्द्रस्य यो वज्रस्स एव त्वमसि । अमित्रवधसाधनत्वसामर्थ्यात् भाव [तद्भाव?] उपचर्यते । यद्वा - वजित्वा गतो [वज गतौ] वज्रः । औणादिको रः [रन्] । रथ उच्यते । इन्द्रस्य रथोसि [सीति] स्तूयते । इन्द्रस्य रथो विशेष्यते - वार्त्रघ्नः वृत्रघ्नोयं **वार्त्रघ्नः** । उत्सादित्वादञ् । यं रथमारुह्य वृत्रमसुरमिन्द्रो हतवान् स एव रथस्त्वमसीति । 
@@ -90,8 +101,8 @@ ______________
 यो वृत्रं हतवान् तस्येन्द्रस्य वज्रो वृत्रवधसाधनभूतो रथमसि ॥
 
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वया॒ ऽयव्ँ वृ॒त्रव्ँ व॑ध्यात्  ॥
@@ -109,29 +120,40 @@ with thee may he slay his foe.
 त्वया॒ऽयव्ँवृ॒त्रव्ँव॑ध्यात्  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+त्वया॑ । अ॒यम् । वृ॒त्रम् । व॒ध्या॒त् ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मात् **त्वयाऽयं** यजमानो **वृत्रं** वारकं छादयितारममित्रं **वध्यात्** । आशिषि लिङ् । 'हनो वध लिङि' इति वधादेशः ॥
 ______________
 तस्मात्तादृशेन **त्वयाऽयं** यजमानो **वृत्रं वध्याद्** इति ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अन्तर्वेद्य् अभ्यावर्तयति - वाजस्येति जगत्या ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/03_vAjasya_nu.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 वाज॑स्य॒ नु प्र॑स॒वे - मा॒तर॑म् म॒हीम्  
 अदि॑ति॒न् **नाम॒** वच॑सा **करामहे** ।   
 यस्या॑म् इ॒दव्ँ विश्व॒म् भुव॑नम् आवि॒वेश॒,  
 तस्या॑न् नो दे॒वस् स॑वि॒ता +++(रथस्य)+++ धर्म॑ साविषत्+++(←षू प्रसवे)+++  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/03_vAjasya_nu.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 On the instigation of strength, the mother, the mighty one,  
@@ -160,21 +182,28 @@ In her may the god Savitr instigate right for us.
 अ॒प्सु [32]अ॒न्तर॒मृत॑म॒प्सु भे॑ष॒जम॒पामु॒त  प्रश॑स्ति॒ष्वश्वा॑ भवथ वाजिनः ॥
 </details>
 </details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अश्वानप्सु स्नापयति - अप्स्वन्तरिति पुरउष्णिहा ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/04_aphsv_antar.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अ॒प्स्व् अ॑न्तर् अ॒मृत॑म्, अ॒प्सु भे॑ष॒जम्,  
 अ॒पाम् उ॒त प्रश॑स्ति॒षु … ।  
 अश्वा॑! भवथ वाजिनः!  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/04_aphsv_antar.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 In the waters [1] is ambrosia, in the waters is medicine;  
@@ -197,22 +226,29 @@ Be ye steeds, O ye that are strong.
 अत्र पादादित्वाद् **अश्वा** इति न निहन्यते । षाष्ठिकमामन्त्रिताद्युदात्तत्वम् ; तस्य च व्यत्ययेन विद्यमानवत्त्वाभावः । यद्वा - नाश्वा इत्यामन्त्रितम् । अपां प्रशस्तिष्वश्वा व्याप्तिमन्तो भवथ हे वाजिन इति । सर्वमिष्टं सिद्धम् । 'तादौ च निति' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
 </details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5 प्रष्टि-वाहिनं रथं युनक्ति - वायुर् वा त्वेत्यनुष्टुभा ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/05_vAyur_vA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 वा॒युर् वा॑ त्वा॒, मनु॑र् वा त्वा,  
 गन्ध॒र्वास् स॒प्त-विँ॑शतिः +++(खे नक्षत्राणि)+++।  
 ते अग्रे॒ +++(सौरम्)+++ अश्व॑म् आयुञ्ज॒न्  
 ते अ॑स्मिञ् ज॒वम् आद॑धुः  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/05_vAyur_vA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Or Vayu thee, or Manu thee,  
@@ -242,7 +278,9 @@ They placed swiftness in it.
 किञ्च - ते वाय्वादयोस्मिंस्त्वयि जवं वेगं चादधुः आदधतु । छान्दसो लिट् । वायुश्च त्वां मनुश्च त्वां गन्धर्वाश्च त्वामिति प्रत्येकं योगसम्बधख्यापनाय युष्मच्छब्दावृत्तिः ॥
 </details>
 </details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अश्व आमन्त्र्यते - 
@@ -252,16 +290,21 @@ They placed swiftness in it.
 
 अपा॑न्नपादाशुहेम॒न्य ऊ॒र्मिᳵ क॒कुद्मा॒न्प्रतू॑र्तिर्वाज॒सात॑म॒स्तेना॒यव्ँवाजँ॑ सेत्  ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/06_apAnnapAd_Ashuheman.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 +++(अश्व!)+++ अपा॑न्नपाद्! आशुहेम॒न्!  य ऊ॒र्मिᳵ ...   
 क॒कुद्मा॒न्, प्रतू॑र्तिर्, वाज॒सात॑मः ।  
 तेना॒यव्ँ वाजँ॑ सेत्+++(←सिध्)+++  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/06_apAnnapAd_Ashuheman.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Child of the waters, swift one,  
@@ -282,13 +325,16 @@ with it may he win the prize.
 अश्व आमन्त्र्यते - हे **अपान्नपात्** अपां नप्तश्चतुर्थः । यथा - 'अद्भ्यः पृथिवी पृथिव्या ओषधयः ओषधीभ्योन्नमन्नादश्वः' इति । हे आशुहेमन् आशुगन्तः । हि गतौ, 'अन्येभ्योपि दृश्यते' इति मनिन् । 'सुबामन्त्रिते' इति पराङ्गवद्भावात् षष्ठ्यामन्त्रितसस्मुदायस्य षाष्ठिकमामन्त्रिताद्युदात्तत्वम् । तस्य 'नामन्त्रिते समानाधिकरणे' इत्यविद्यमानत्त्वनिषेधात्परं न निहन्यते । ऊर्मिश्छादयिता अरणशीलो वा यस्तरङ्गः ककुद्मान् प्रधानभूतः ककुत्सम्बन्धी वा प्रतूर्तिः त्वयि प्रतीर्णः त्वामभिगतः । नसत्तनिषत्तादौ निष्ठायां निपातितं निष्ठावद्भावात्क्तिनोपि भवति, 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् । वाजसातमः अन्नस्य सम्भक्तृतमः दातृतमः । 'जनसनखन' इति विट्, 'विड्वनोः' इत्यात्वम् । तेन तादृशेनायं वाजमन्नं **सेत्** साधय यजमानस्य हे अश्व । लिङ्लेटोरन्यतरः, विकरणस्य लुक् । यद्वा - अयं यजमानः तेन त्वदीयेन वाजं सेत्साधयतु बध्नातु वा । षिञ् बन्धने ॥
 </details>
 </details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7विष्णुक्रमान् क्रमते, रथं यजमानोभ्येति - विष्णोरिति ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md">
-<details open><summary><h5>विष्णोः क्रमः ...{Loading}...</h5></summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विष्णो॒ᳵ क्रमो॑ऽसि॒ विष्णोः॑ क्रा॒न्तम॑सि॒  विष्णो॒र्विक्रा॑न्तमसि ।
@@ -296,7 +342,7 @@ with it may he win the prize.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒ᳵ क्रमो॑ऽसि ।
+वि᳓ष्णोᳵ क्र᳓मोऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -309,6 +355,11 @@ Thou art the stepping of Visnu,
 विष्णो॒ᳵ क्रमो॑ऽसि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+4G । विष्णोः॑ । क्रमः॑ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 विष्णोर्भगवत एव क्रमोसि गमनसाधनत्वात् । प्रकृष्टस्य विष्णोः क्रमरूपेण स्तूयते रथः विष्णोः क्रमवत् भविष्यसि जयहेतुरिति ।
@@ -316,7 +367,7 @@ Thou art the stepping of Visnu,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णोः॑ क्रा॒न्तम॑सि ।
+वि᳓ष्णोः क्रान्त᳓मसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -329,6 +380,11 @@ thou art the step of Visnu,
 विष्णोः॑ क्रा॒न्तम॑सि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । क्रा॒न्तम् । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 विष्णोः क्रान्तमसि यत्पूर्वं विष्णुना कृतं क्रमणं, तदेव त्वमसि तद्वज्जयसाधनं भविष्यसि अस्माकम् ।
@@ -336,7 +392,7 @@ thou art the step of Visnu,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒र्विक्रा॑न्तमसि ।
+वि᳓ष्णोर् वि᳓क्रान्तमसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -349,27 +405,38 @@ thou art the stride of Visnu.
 विष्णो॒र्विक्रा॑न्तमसि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । विक्रा॑न्त॒मिति॒ वि-क्रा॒न्त॒म् । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 विष्णोर्वीक्रान्तं विजयः, तदेव त्वमसि तद्वद्विजयसाधनत्वात् । पूर्ववद्गतिस्वरः ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8रथस्य चक्रे पक्षसी वाभिमृशति - अङ्काविति त्रिष्टुभा ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/07_ankau_nyankAv.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अ॒ङ्कौ+++(=लक्षणभूतौ)+++ न्य॒ङ्काव्+++(←नि+अञ्च्)+++ अ॒भितो॒ रथय्ँ॒ यौ +++(चक्रौ‌/ पक्षौ)+++   
 ध्वा॒न्तव्ँ+++(←ध्वन्)+++ वा॑ता॒ग्रम् अनु॑ स॒ञ्चर॑न्तौ ।  
 दू॒रे-हे॑तिर् इन्द्रि॒यावा॑न् पत॒त्री   
 ते नो॒ ऽग्नय॒ᳶ पप्र॑यᳶ पारयन्तु ॥ [33]
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/07_ankau_nyankAv.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 May the two Ankas, the two Nyankas, which are on either side of the chariot, Speeding on with the rushing wind,  
@@ -396,4 +463,5 @@ The fires which are furtherers, further us.
 इति सप्तमे सप्तमोनुवाकः ॥
 </details>
 </details>
+
 </div>

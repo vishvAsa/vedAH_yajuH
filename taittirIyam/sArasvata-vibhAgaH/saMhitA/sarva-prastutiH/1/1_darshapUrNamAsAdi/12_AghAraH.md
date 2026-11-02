@@ -240,16 +240,21 @@ ____
 
 आघारम् आघारयति
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 इ॒त +++(अस्माद् आघारात्)+++ इन्द्रो॑ अकृणोद् वी॒र्या॑णि समा॒रभ्य॑  
 +++(अयम् आघार)+++ ऊ॒र्ध्वो अ॑ध्व॒रो दि॑वि॒स्पृश॑म् ।   
 +++(आघारवद्)+++ अह्रु॑तो+++(=अकुटिलः)+++ य॒ज्ञो य॒ज्ञप॑ते॒र् इन्द्रा॑वा॒न् ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Hence Indra wrought mighty deeds.  
@@ -284,7 +289,9 @@ Offered to Indra, hail!
 कोस्य विशेषः यत एवमकरोत् ? इत्याह - इन्द्रावान् इन्द्रेण देवतया तद्वान् । 'अन्येषामपि दृश्यते' (पा.सू. 6.3.137) इति दीर्घः । यतोयमाघार इन्द्रावान् तस्मादयमेव खलु यज्ञपतेर्यजमानस्य । 'पत्यावैश्वर्ये' (पा.सू. 6.2.18) इति पूर्वपदप्रकृतिस्वरत्वम् । अह्रुतः अकुटिलः निश्चितफलो यज्ञः ।
 </details>
 </details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाहा॑ ।

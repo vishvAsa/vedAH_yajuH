@@ -1,7 +1,6 @@
 +++
 title = "०१ अग्निष्टोमे यजमानस्य क्षौरादिसंस्काराः"
 short_title = "०१ अग्निष्टोमे यजमानस्य"
-
 +++
 ०१ अग्निष्टोमे यजमानस्य क्षौरादिसंंस्काराः
 
@@ -150,11 +149,23 @@ ________
 
 2ऊर्ध्वाग्रं बर्हिरनुच्छ्रयति - ओषध इति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md">
-<details open><summary><h5>ओषधे ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ऊर्ध्वाग्रं बार्हिर् अनूच्छ्रयति - ओषधे त्रायस्वैनमिति ॥
+</details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+ओषध इति।
+
+कल्पः – 
+
+> ‘ऊर्ध्वाग्रं बर्हिर् अनूच्छ्रयति 'ओषधे त्रायस्वैनम्' इति। स्वधितिं तिर्यञ्चं निदधाति 'स्वधिते मैनं हिंसीर्' इति। प्रवपति 'देवश्रूर् एतानि प्र वप' इति’ 
+
+इति।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,7 +205,7 @@ O plant, protect him.
 
 10वपाग्रहणदेशे प्राचीनाग्रं बर्हिर्निदधाति - ओषधे त्रायस्वैनमिति ॥ व्याख्यातम् ॥
 </details>
-</details>
+
 </div>  
 
 ________
@@ -202,8 +213,9 @@ ________
 
 तस्मिन् बर्हिषि स्वधितिं तिर्यञ्चं निदधाति।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md">
-<details open><summary><h5>स्वधिते ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4स्वधितिना तिर्यञ्चं प्रहरति
@@ -240,7 +252,12 @@ Axe, hurt him not.
 
 11स्वधितिं निदधाति - स्वधिते मैनं हिंसीरिति ॥ व्याख्यातमेव ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+स्वधितिः क्षुरः। देवेषु प्रसिद्धत्वेन श्रूयत इति देवश्रूर् देव-नापितस् तद्-रूपो ऽहं वपनं कुर्वे। एतानि केशादीनि।
 </details>
+
 </div>  
 
 ________
@@ -324,14 +341,18 @@ ________
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 आपो॑ अ॒स्मान् मा॒तर॑श् शुन्धन्तु।+++(र४)+++  
 घृ॒तेन॑ नो घृत॒-पुवᳶ॑+++(→घृतपावकाः)+++ पुनन्तु ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Let the waters, the mothers, purify us,
@@ -354,7 +375,13 @@ With ghee let those that purify our ghee purify us.
 आपो मातरः मातृस्थानीयाः अस्मान् यजमानान् शुन्धन्तु शोधयन्तु ।  
 किञ्च - घृतेनोदकेन पुनन्तीति घृतपुवः । 'तन्वादीनां छन्दसि बहुलम्' इत्युवङादेशः, कृदुत्तरपदप्रकृतिस्वरत्वम् । पर्जन्यादय उच्यन्ते । ते चास्मान् घृतेनोदकेन पुनन्तु अपापान् कुर्वन्तु । घृ क्षरणे, घृतं क्षरणात् । 'अप्सु दीक्षातपसी' इत्यादि ब्राह्मणम् ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+आपस्तम्बस् त्व् एक-मन्त्रतां मन्यते। अस्मान् अस्मदीयान् यजमानान्। क्षरद् उदकम् अत्र घृतम्। तेन पुनन्ति पर्जन्यादयो घृतपुवः रिप्रं पापम्। इमा आपः सर्वं पापम् अस्मत्तो ऽपनयन्तु।
 </details>
+</details>
+
 </div>
 
 ________
@@ -722,16 +749,20 @@ ________
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/03_chitpatis_tvA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 चि॒त्-पति॑स् त्वा पुनातु ।  
 +++('मनो वै चित्पतिः' इति ब्राह्मणम् ।)+++  
 [अच्छि॑द्रेण प॒वित्रे॑ण॒  
 वसो॒स्सूर्य॑स्य र॒श्मिभिः॑।]
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/03_chitpatis_tvA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Let the lord of thought purify thee, let the lord of speech purify thee, let the god Savitr purify thee  
@@ -768,19 +799,56 @@ With the rays of the bright sun.
 
 **वसोर्** जगतां वासहेतोः **सूर्यस्य** मण्डलात्मनो **रश्मिभिः** जगतां शुद्धि-हेतुभिः **उत्पुनातु** । वसेः करणे उप्रत्ययः, (उ.सू. 10) स च नित् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+[[P200]]
+
+प्रथम-द्वितीय-मन्त्रयोर् 'अच्छिद्रेणेत्य्' अनुषज्यते। हे यजमान, चितां ज्ञानानां पतिर् मनो-देवस् त्वां पुनातु। वाचां शब्दानां पतिः सरस्वती, असौ वा आदित्यो ऽच्छिद्रं पवित्रं तद्-रूपो ऽयं दर्भ-स्तोमः। जगन्-निवास-हेतोः सूर्यस्य रश्मि-रूपा दर्भाः।
+
+दर्भ-स्तोम-विशिष्टं मार्जनं विधत्ते —
+
+> इन्द्रो वृत्रम् अहन्त् सो ऽपो ऽभ्यम्रियत तासां यन् मेध्यं यज्ञियं सद्-देवम् आसीत् तद् अपोदक्रामत् ते दर्भा अभवन् यद् दर्भ-पुञ्जीलैः पवयति या एव मेध्या यज्ञियाः सद्-देवा आपस् ताभिर् एवैनं पवयति (सं. का. ६ प्र. १ अ. १) 
+
+इति।
+
+मेध्यं शुद्धं, यज्ञियं यज्ञार्हं, सद्-देवं देवता-प्रियम्। उत्पवन-ब्राह्मणे दर्भोत्पत्तिर् व्याख्याता।
+
+दर्भ-स्तोमस्य संख्या-विशेषान् विधत्ते —
+
+> द्वाभ्यां पवयत्य् अहोरात्राभ्याम् एवैनं पवयति त्रिभिः पवयति त्रय इमे लोका एभिर् एवैनं लोकैः पवयति पञ्चभिः पवयति पञ्चाक्षरा पङ्क्तिः पाङ्क्तो यज्ञो यज्ञायैवैनं पवयति षड्भिः पवयति षड् वा ऋतव ऋतुभिर् एवैनं पवयति सप्तभिः पवयति सप्त छन्दांसि छन्दोभिर् एवैनं पवयति नवभिः पवयति नव वै पुरुषे प्राणाः स-प्राणम् एवैनं पवयत्य् एकविंशत्या पवयति दश हस्त्या अङ्गुलयो दश पद्या आत्मैकविंशो यावान् एव पुरुषस् तम् अपरिवर्गं पवयति (सं. का. ६ प्र. १ अ. १) 
+
+इति।
+
+“गायत्री त्रिष्टुब् जगत्य् अनुष्टुप् पङ्क्त्या सह। बृहत्य् उष्णिहा ककुत् सूचीभिः शिम्यन्तु त्वा” इति कश्चिन् मन्त्र आम्नायते। तत्रोष्णिक्-ककुभोर् अवान्तर-भेद-परित्यागेन सप्त च्छन्दांसि। संचार-स्थान-भूत-च्छिद्राभिप्रायेण प्राणानां नवत्वम्। अपरिवर्गं निःशेषम्। एकविंशति-पक्ष एवात्रानुष्ठेयः। “एकविंशत्या दर्भ-पुञ्जीलैः पवयति” इति बह्व्-ऋच-ब्राह्मण आम्नातत्वात्। तत्-प्रशंसार्थम् इतरे पक्षा अवयुत्यानुवादः।
+
+मन्त्रं व्याचष्टे —
+
+> चित्-पतिस् त्वा पुनात्व् इत्य् आह मनो वै चित्-पतिर् मनसैवैनं पवयति वाक्-पतिस् त्वा पुनात्व् इत्य् आह वाचैवैनं पवयति देवस् त्वा सविता पुनात्व् इत्य् आह सवितृ-प्रसूत एवैनं पवयति (सं. का. ६ प्र. १ अ. १) 
+
+इति।
+
+[[P201]]
 </details>
+</details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/04_vAkpatistvA_punAtu.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 +++('यद्धि मनसा ध्यायति तद्वाचा वदति' इति ब्राह्मणम् ।)+++  
 वा॒क्-पति॑स्त्वा पुनातु ।  
 [अच्छि॑द्रेण प॒वित्रे॑ण॒ +++(सूर्येण)+++ ।   
  वसो॒स्+++(=वासहेतोः)+++ सूर्य॑स्य र॒श्मिभिः॑  ॥]
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/04_vAkpatistvA_punAtu.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 let the lord of speech purify thee  
@@ -813,17 +881,23 @@ With the rays of the bright sun.
 **वसोर्** जगतां वासहेतोः **सूर्यस्य** मण्डलात्मनो **रश्मिभिः** जगतां शुद्धि-हेतुभिः **उत्पुनातु** । वसेः करणे उप्रत्ययः, (उ.सू. 10) स च नित् ।
 </details>
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/05_devas_tvA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 दे॒वस् त्वा॑ सवि॒ता पु॑ना॒त्व्  
 अच्छि॑द्रेण प॒वित्रे॑ण॒ +++(सूर्येण)+++ ।   
 वसो॒स्+++(=वासहेतोः)+++ सूर्य॑स्य र॒श्मिभिः॑ ।+++(र४)+++
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/05_devas_tvA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 let the god Savitr purify thee  
@@ -854,6 +928,7 @@ With the rays of the bright sun.
 **वसोर्** जगतां वासहेतोः **सूर्यस्य** मण्डलात्मनो **रश्मिभिः** जगतां शुद्धि-हेतुभिः **उत्पुनातु** । वसेः करणे उप्रत्ययः, (उ.सू. 10) स च नित् ।
 </details>
 </details>
+
 </div>
 
 ________
@@ -931,16 +1006,20 @@ ________
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/06_A_vo.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 आ वो॑ देवास ईमहे॒  
 सत्य॑-धर्माणो अध्व॒रे ।  
 यद् वो॑ देवास आगु॒रे+++(←गुर् उद्यमने)+++  
 यज्ञि॑यासो॒ हवा॑महे+++(=आह्वयामहे)+++ ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/06_A_vo.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 We approach you, O gods,  
@@ -971,7 +1050,13 @@ For that we ask you, O holy ones.
 हे देवासः । 'आज्जसेरसुक्' । वः युष्मान् आभिमुख्येन ईमहे याचामहे । ईङ् गतौ भौवादिकः छन्दसि याच्ञाकर्मा, 'बहुलम् छन्दसि' इति शपो लुक् । यद्वा - भजामहे । सत्यधर्माणः सदा सत्यशीलाः । 'धर्मादनिच्केवलात्' इति समासान्तः । किमर्थमित्यत आह - अध्वरे यज्ञे निमित्तभूते । 'निमित्तात्कर्मसंयोगे सप्तमी' । 'अध्वरसिद्ध्यर्थमीमहे । बहुव्रीहौ 'नञ् सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् ।  
 एवं देवान् याचित्वा इदानीं तस्याध्वरस्य प्रस्थानं देवेभ्यो निवेदयति - हे देवासः यज्ञियासः यज्ञार्हाः । 'यज्ञर्त्विग्भ्यां घखञौ' इति घप्रत्ययः, उभयत्रापि पूर्ववदसुक् । आगुरे उद्योगे यज्ञमारब्धुम् । गुरी उद्यमने, 'घञर्थे कविधानम्' इति कः, थाथादिस्वरेणान्तोदात्तत्वम् । यद्वा - क्विपि छान्दसं विभक्त्युदात्तत्वम्, चतुर्थी[परा?]द्युदात्तत्वम् । यद्यस्मात् वो युष्मान् हवामहे आह्वयामः । 'बहुळं छन्दसि' इति सम्प्रसारणम् । पूर्वस्यामन्त्रितस्याविद्यमानत्वान्निघाताभावः । 'अदुपदेशात्' इति लसार्वधातुकानुदात्तत्वम् । यस्मादेवं तस्मादस्माभिः प्रस्तूयतेध्वरः । अतस्तत्सिध्यर्थं याचामह इति ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+हे देवा, युष्माकं संबन्धिन्य् अस्मिन्न् अध्वरे वयं सत्य-धर्माणो ऽवश्यंभाव्य्-अनुष्ठान-परा आगच्छामः। हे यज्ञ-संबन्धिनो देवा, यस्माद् आगुरी कर्मोद्यमे युष्मान् आह्वास्यामस् तस्माद् वयम् अत्रागच्छामः।
 </details>
+</details>
+
 </div>
 
 ________

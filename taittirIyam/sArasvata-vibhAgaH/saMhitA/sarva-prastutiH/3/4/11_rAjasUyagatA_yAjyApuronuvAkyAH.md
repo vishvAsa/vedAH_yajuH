@@ -538,6 +538,11 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ तृतीयामाह— मित्रस्येति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
@@ -549,7 +554,7 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 
 <details><summary>सायण-टीका</summary>
 
-अथ तृतीयामाह— मित्रस्येति ।   चर्षणीधृतो मनुष्याणां धारयितुर्मित्रस्य देवस्य श्रवः श्रोतुं योग्यं यशो महदस्तीति शेषः।   सानसिं फलदानशीलं द्युम्नं द्रविणप्रदं चित्रश्रवस्तमं चित्रं श्रवः कीर्तिर्यस्यासौ चित्रश्रवाः, अतिशयेन तादृशस्तमेतादृशमुखारूपं स मित्रः पचत्विति शेषः।  
+चर्षणीधृतो मनुष्याणां धारयितुर्मित्रस्य देवस्य श्रवः श्रोतुं योग्यं यशो महदस्तीति शेषः।   सानसिं फलदानशीलं द्युम्नं द्रविणप्रदं चित्रश्रवस्तमं चित्रं श्रवः कीर्तिर्यस्यासौ चित्रश्रवाः, अतिशयेन तादृशस्तमेतादृशमुखारूपं स मित्रः पचत्विति शेषः।
 देवान्तरपरित्यागेन मित्रदेवताकमन्त्रस्वीकारे कारणं दर्शयति— “वारुण्युखाऽसीद्धा मैत्रियोपैति शान्त्यै” (सं. का. ५ प्र. १ अ. ७) इति।  
 अभिद्धा प्रज्वलिता येयमुखा सेयमुग्रत्वाद्वारुणी, तस्या मैत्र्यच शान्तिर्भ-वति।
 </details>

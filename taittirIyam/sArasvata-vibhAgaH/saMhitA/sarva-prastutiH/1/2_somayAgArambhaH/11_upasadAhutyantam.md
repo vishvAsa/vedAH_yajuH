@@ -1,6 +1,5 @@
 +++
 title = "११ उपसदाहुत्यन्तम्"
-
 +++
 सोम-करणक-करिष्यमाण-याग-विघ्न-कार्य्-असुर-पराभवार्थोपसद्-वर्णनम्  
 सोमऋषिः
@@ -405,15 +404,19 @@ ________
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 या ते॑ अग्ने ऽया+++(=अयसि/अस्यां [भुवि])+++श॒या [ त॒नूर्  
 वर्षि॑ष्ठा+++(=वृद्धतमा)+++ गह्वरे॒ष्ठोग्रव्ँ वचो॒ अपा॑वधीम्+++(→अपहन्मि)+++,,  
 त्वे॒षव्ँ+++(=दीप्तं/ क्रूरं)+++ वचो॒ अपा॑वधीँ॒ स्वाहा॑ ॥ ] ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 That form of thine, O Agni, which rests in iron  
@@ -442,18 +445,38 @@ the highest, that dwells in the cleft,
 
 त्वेषं दीप्तं क्रूरं राक्षसादिसमीरितं श्रुत्याभीतिजनकम् । 'एनश्च वैरहत्यं च त्वेषं वचः' इत्यादिब्राह्मणम् । एनस्विभिर्वीरहादिभिश्च प्रयोज्यत्वात् । तच्च वचोपावधीम् । तस्य प्रयोक्तारं च अपहन्मि त्वत्प्रसादान्नाशयेयम् । इदमुभयं तदर्थं तस्यै तन्वै स्वाहा सुहुतमिदमस्तु ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अत्र 'या ते अग्ने ऽयाशया रजाशया हराशया तनूर् वर्षिष्ठा गह्वरेष्ठेत्य्' एतादृशो मन्त्र आम्नातः। तस्मिन्न् अयाशयादि-पद-त्रयेण त्रयो मन्त्रा भवन्ति। तेषु प्रथम-मन्त्रे 'तनूर्' इत्यादिर् अनुषज्यते। द्वितीययोस् तु 'या ते अग्न' इति।
+
+[[P288]]
+
+'तनूर्' इति चोभयम् अनुषज्यते। तृतीये तु 'या ते अग्न' इत्य् अयम् एवानुषज्यते। तैर् एतैस् त्रिभिर् मन्त्रैस् त्रिषु दिनेषु क्रमेणोपसदाख्या आहुतयो होतव्याः। 
 </details>
+</details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 [या ते॑ अग्ने] रजा+++(=रजते/ऽन्तरिक्षे)+++-श॒या [ त॒नूर्  
 वर्षि॑ष्ठा+++(=वृद्धतमा)+++ गह्वरे॒ष्ठोग्रव्ँ वचो॒ अपा॑वधीम्+++(→अपहन्मि)+++,,  
 त्वे॒षव्ँ+++(=दीप्तं/ क्रूरं)+++ वचो॒ अपा॑वधीँ॒ स्वाहा॑ ॥ ] ।
 </details>
+
 </div>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+7द्वितीयस्यां जुहोति -
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 That form of thine, O Agni, which rests in silver  
@@ -475,7 +498,7 @@ the highest, that dwells in the cleft,
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-7द्वितीयस्यां जुहोति - या ते अग्ने रजाशया तनूरित्यादि ॥  
+ या ते अग्ने रजाशया तनूरित्यादि ॥  
 रजोन्तरिक्षं तस्मिन् शेत इति रजाशया मध्यमात्मिका । रजश्शब्दात्परस्यास्सप्तम्या डादेशः, पूर्ववदलुक् । शेषं समानम् ॥
 
 वर्षिष्ठा … ...{Loading}...
@@ -484,18 +507,34 @@ the highest, that dwells in the cleft,
 
 त्वेषं दीप्तं क्रूरं राक्षसादिसमीरितं श्रुत्याभीतिजनकम् । 'एनश्च वैरहत्यं च त्वेषं वचः' इत्यादिब्राह्मणम् । एनस्विभिर्वीरहादिभिश्च प्रयोज्यत्वात् । तच्च वचोपावधीम् । तस्य प्रयोक्तारं च अपहन्मि त्वत्प्रसादान्नाशयेयम् । इदमुभयं तदर्थं तस्यै तन्वै स्वाहा सुहुतमिदमस्तु ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अयसि शेत इत्य् अयाशया लोह-निर्मिता। तथा रजते शेत इति रजाशया। 
 </details>
+</details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 [या ते॑ अग्ने] हरा+++(=हिरण्ये‌/द्यवि)+++श॒या [ त॒नूर्  
 वर्षि॑ष्ठा+++(=वृद्धतमा)+++ गह्वरे॒ष्ठोग्रव्ँ वचो॒ अपा॑वधीम्+++(→अपहन्मि)+++,,  
 त्वे॒षव्ँ+++(=दीप्तं/ क्रूरं)+++ वचो॒ अपा॑वधीँ॒ स्वाहा॑ ॥ ] ।
 </details>
+
 </div>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+8तृतीयायां जुहोति -
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 That form of thine, O Agni, which rests in gold  
@@ -523,7 +562,7 @@ the highest, that dwells in the cleft,
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-8तृतीयायां जुहोति - हराशया तनूरित्यादि ॥  
+ हराशया तनूरित्यादि ॥  
 भौमान् रसान् हरतीति हरो द्युलोकः, तस्मिन्शेते हराशया सूर्यात्मिका । डादेशादि समानम् । यद्वा - या सेत्यध्याह्रियते । अपावधीमिति च पुरुषव्यत्ययः अपावधीदिति । सा उग्रं त्वेषं वचो अपहन्त्विति ।  
 शाखान्तरे च अपावधीदिति पाठः ।   
 'तेषामसुराणां तिस्रः पुरआसन्नयस्मय्यवमाथ रजताऽथ हरिणी' इति ब्राह्मणानुसारेणान्यथा व्याख्यायते । अयसि अयस्मय्यां पुरि शेत इत्ययाशया । डादेशादि समानम् । रजतं रजस्तन्मय्यां पुरि शेत इति रजाशया । हरितं हरस्तन्मय्यां पुरि शेत इति हराशया । गतमन्यत् ॥
@@ -534,7 +573,18 @@ the highest, that dwells in the cleft,
 
 त्वेषं दीप्तं क्रूरं राक्षसादिसमीरितं श्रुत्याभीतिजनकम् । 'एनश्च वैरहत्यं च त्वेषं वचः' इत्यादिब्राह्मणम् । एनस्विभिर्वीरहादिभिश्च प्रयोज्यत्वात् । तच्च वचोपावधीम् । तस्य प्रयोक्तारं च अपहन्मि त्वत्प्रसादान्नाशयेयम् । इदमुभयं तदर्थं तस्यै तन्वै स्वाहा सुहुतमिदमस्तु ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+हिरण्ये शेत इति हराशया। न वर्षिष्ठा वृद्ध-तमा। गह्वरे स्प्रष्टुम् अशक्ये तप्ते लोहे तप्त-रजते तप्त-हिरण्ये वा तिष्ठतीति गह्वरेष्ठा। अन्न-पानयोर् अलाभेन क्षुधितो ऽहं पिपासितो ऽहम् इत्य् उक्तिर् उग्रं वचस्, तद् एतद् ऐहिकम्। आमुष्मिकं तु त्वेषं दीपकं मनसः संताप-जनकं वचः। तत् तु जना इत्थं वदन्ति – अद्य गो-वधाद्य्-उपपातक-लक्षणम् एनः प्राप्तं, विद्वद्-ब्राह्मण-वधादि-रूपा वीर-हत्या प्राप्तेति। इदं तु पद-व्याख्यानम् अन्यत्र ब्राह्मणे स्पष्टम् आम्नातम् — 
+
+> “अशनया-पिपासे ह वा उग्रं वचः। एनश् च वैरहत्यं च त्वेषं वचः” 
+
+इति। अत्रायं वाक्यार्थः — हे अग्ने, या तवायाशया तनूस् तयाहं द्वे अपि वचसी अपावधीं नाशितवान् अस्मि। एवम् उत्तरयोर् अपि योज्यम्। तस्मा अग्नय इदं हुतम् अस्तु।
+
 </details>
+</details>
+
 </div>
 
 इति द्वितीये एकादशोनुवाकः

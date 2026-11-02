@@ -1,6 +1,5 @@
 +++
 title = "११ गुदकाण्डहोमादिकम्"
-
 +++
 
 गुदकाण्डकरणक-उपयट्संज्ञका होमाः  
@@ -428,17 +427,22 @@ _______
 
 धाम्नो॑धाम्नो राजन्नि॒तो व॑रुण नो मुञ्च॒ यदापो॒ अघ्नि॑या॒ वरु॒णेति॒ शपा॑महे॒ ततो॑ वरुण नो मुञ्च ॥ [20]
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam/02_dhAmnodhAmno_rAjann.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 धाम्नो॑धाम्नो+++(=शृङ्खलाभ्यो)+++ राजन्न्  
 इ॒तो व॑रुण नो मुञ्च ।  
 यद् "+++(श्रुणुत)+++ आपो॒ अघ्नि॑या॒ +++(→गावः)+++ वरु॒णे"ति॒ शपा॑महे॒  
 ततो॑ वरुण नो मुञ्च ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam/02_dhAmnodhAmno_rAjann.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 धाम्नो॑धाम्नो+++(=शृङ्खलाभ्यो)+++ राजन्न्  
@@ -473,6 +477,7 @@ From whatever oath by the waters, by the kine, by Varuna, we have sworn, From th
 निदर्शनं चैतत् प्रशस्तदेवतानामन्यासामपि । यथा - हे इर्श्वर, हे तपन, हे विधातरिति । तत्र लौकिकानां कृताद्युदात्तानामामन्त्रणपदानामिदमनुकरणम् । ततश्च सत्यपि पदात्परत्वे आमन्त्रितनिघातो न प्रवर्तते । न ह्यत्र मार्जयमाना अबादीनामन्त्रयन्ते । शप आक्रोशे स्वरितेत्त्वादात्मनेपदम् । यद्वा - 'शप उपालम्भने' इत्यात्मनेपदम् । वाचा शरीरस्पर्शनमुपालम्भः । अतोयमर्थः - हे आपः युष्मभ्यं शपामहे नेदमस्माभिर्ज्ञातमिति । एवं यच्छपामहे सत्यमिति वा विषये शोकावेगेन ततोपि पापादस्मान्मुञ्चेति । अघ्नियाशब्दो यत्प्रत्ययान्तोन्तोदात्तः । यथा 'पतिरघ्नियानाम्' इति । तस्य षाष्ठिकमामन्त्रिताद्युदात्तत्वम् । वरुणेत्यप्यघ्नियाशब्दानन्तरमामन्त्रितानुकरणत्वान्न निहन्यते, अन्यस्तु निहन्यत एव ॥
 </details>
 </details>
+
 </div>
 
 इति तृतीये एकादशोनुवाकः ॥  

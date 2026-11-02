@@ -1,6 +1,5 @@
 +++
 title = "०६ यूपस्य अवटे स्थापनम्"
-
 +++
 
 ११ त्रिष्टुप् १२-१३ गायत्र्यौ
@@ -56,8 +55,9 @@ _______
 
 4अवटे+++(=गर्ते)+++ ऽपोऽवनयति - शुन्धतामिति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/shundhantAm.md">
-<details open><summary><h5>शुन्धन्ताम् ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुन्ध॑ताल्ँ लो॒कᳶ पि॑तृ॒-षद॑नः ।
@@ -87,8 +87,9 @@ Pure be the world where the Pitrs sit.
 
 7अवटे अपोवनयति - शुन्धतामिति ॥ 
 </details>
-</details>
+
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4अवटेऽपोऽवनयति - शुन्धतामिति ॥ व्याख्यातम् ॥
@@ -99,8 +100,9 @@ _______
 
 5यवान्प्रस्कन्दयति - यवोसीति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md">
-<details open><summary><h5>यवोऽसि ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यवो॑ऽसि।  
@@ -150,8 +152,9 @@ bar evil spirits.
 
 13तेषु यवान्प्रस्कन्दयति - यवोसीति ॥ व्याख्यातम् । 'प्राणेष्वेवोर्जं दधाति' `इति ब्राह्मणम् ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5यवान्प्रस्कन्दयति - यवोसीति ॥ व्याख्यातमेव । 'ऊर्ग्वै यवो यजमानेन यूपस्सम्मितः' इत्यादि ब्राह्मणम् ॥
@@ -162,8 +165,9 @@ _______
 
 6बर्हिर्-हस्तं व्यतिषज्यावस्तृणाति - पितृणामिति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/pitRNAm.md">
-<details open><summary><h5>पितृणाम् ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पि॒तृ॒णाँ+++(=पितॄणाम्)+++ सद॑नमसि।  
@@ -194,8 +198,9 @@ Thou art the seat of the Pitrs.
 
 6बर्हिर्हस्तं व्यतिषज्यावस्तृणाति - पितृणामिति ॥ व्याख्यातमेव । 'यद्बर्हिरनवस्तीर्य मिनुयात्पितृदेवत्यो निखातस्स्यात्' `इति ब्राह्मणम् ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6बर्हिर्हस्तं व्यतिषज्यावस्तृणाति - पितृणामिति ॥ व्याख्यातमेव । 'यद्बर्हिरनवस्तीर्य मिनुयात्पितृदेवत्यो निखातस्स्यात्' `इति ब्राह्मणम् ॥
@@ -255,8 +260,9 @@ _______
 
 8यूपस्याग्रम् अनक्ति - देवस्त्वेति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/devas_tvA.md">
-<details open><summary><h5>देवस् त्वा ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वस् त्वा॑ सवि॒ता मध्वा॑ऽनक्तु ।
@@ -286,8 +292,9 @@ Let the god Savitr anoint thee with honey.
 
 8यूपस्याग्रमनक्ति - देवस्त्वेति ॥ व्याख्यातम् ॥  
 </details>
-</details>
+
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8यूपस्याग्रमनक्ति - देवस्त्वेति ॥ व्याख्यातम् ॥  
@@ -298,11 +305,23 @@ _______
 
 9चषालं प्रतिमुञ्चाति - सुपिप्पलाभ्य इति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/02_dIxA/supippalAH.md">
-<details open><summary><h5>सुपिप्पलाः ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9चषालं प्रतिमुञ्चाति - सुपिप्पलाभ्य इति ॥
+</details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सुपिप्पलाभ्य इति।
+
+कल्पः – 
+
+> ‘सुपिप्पलाभ्यस् त्वौषधीभ्य इत्य् अर्थे प्राप्ते शिरसि कण्डूयते’ 
+
+इति।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -336,8 +355,40 @@ For the plants with good berries thee!
 
 9चषालं प्रतिमुञ्चाति - सुपिप्पलाभ्य इति ॥ व्याख्यातमेव । शोभनफलानामोषधीनामर्थाय त्वां चषालं यूपस्याग्रे प्रतिमुञ्चामीति शेषः । 'तस्माच्छीर्षत ओषधयः फलं गृह्णन्ति' `इति ब्राह्मणम् ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+यदा कण्डूयन-प्रयोजनं प्रसक्तं तदा कण्डूयेत। हे शिरस्, त्वां शोभन-फलोपेतौषध्य्-अर्थं कण्डूये।
+
+पिप्पल-शब्द-सूचितम् आह —
+
+> सुपिप्पलाभ्यस् त्वौषधीभ्य इत्य् आह तस्माद् ओषधयः फलं गृह्णन्ति (सं. का. ६ प्र. १ अ. ३) 
+
+इति।
+
+विपक्ष-बाध-पुरःसरं द्वयं विधत्ते —
+
+> यद् धस्तेन कण्डूयेत पामनं-भावुकाः प्रजाः स्युर् यत् स्मयेत नग्नं-भावुकाः कृष्ण-विषाणया कण्डूयते ऽपिगृह्य स्मयते प्रजानां गोपीथाय (सं. का. ६ प्र. १ अ. ३) 
+
+इति।
+
+पामाख्य-रोग-युक्ता दारिद्र्येण वस्त्र-रहिताश् चेत्य् अर्थः।
+
+विपक्ष-बाध-पूर्वकं कृष्ण-विषाणायास् त्यागं विधत्ते –
+
+> न पुरा दक्षिणाभ्यो नेतोः 
+
+[[P218]]
+
+कृष्ण-विषाणाम् अवचृन्देद् यत् पुरा दक्षिणाभ्यो नेतोः कृष्ण-विषाणाम् अवचृन्देद् योनिः प्रजानां परापातुका स्यान् नीतासु दक्षिणासु चात्वाले कृष्ण-विषाणां प्रास्यति योनिर् वै यज्ञस्य चात्वालो योनिः कृष्ण-विषाणा योनाव् एव योनिं दधाति यज्ञस्य स-योनित्वाय (सं. का. ६ प्र. १ अ. ३) 
+
+इति।
+
+दक्षिणाभ्यो नेतोर् दक्षिणानाम् ऋत्विग्भिर् अपनयनात्। अवचृन्देत् परित्यजेत्। 'चात्वालाद् धिष्णियान् उपवपतीति' चात्वाल-नामकाद् गर्ताद् धिष्णियानाम् उत्पत्तेर् विधास्यमानत्वाच् चात्वालस्य यज्ञ-योनित्वम्।
 </details>
+
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9चषालं प्रतिमुञ्चाति - सुपिप्पलाभ्य इति ॥ व्याख्यातमेव । शोभनफलानामोषधीनामर्थाय त्वां चषालं यूपस्याग्रे प्रतिमुञ्चामीति शेषः । 'तस्माच्छीर्षत ओषधयः फलं गृह्णन्ति' `इति ब्राह्मणम् ॥
@@ -401,22 +452,22 @@ _______
 
 11यूपं वैष्णवीभ्यामृग्भ्यां कल्प्यति स्थापयति - ते ते धामानि ... विष्णोः कर्माणि पश्यतेति ॥
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/06_yUpasya_avaTe_sthApanam/02_te_te.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ते ते॒ धामा॑न्य् उश्मसि+++(=इच्छामो)+++ ग॒मध्ये॒+++(=गन्तुं)+++  
 गावो॒+++(→रश्मयः)+++ यत्र॒ भूरि॑-शृङ्गा अ॒यासः॑+++(=गमनशीलाः)+++ ।   
 अत्राह॒ तद्-उ॑रुगा॒यस्य॒ विष्णोः॑  
 पर॒मम् प॒दम् अव॑ भाति॒ भूरेः॑ ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/06_yUpasya_avaTe_sthApanam/02_te_te.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
-<details><summary>भास्करोक्त-विनियोगः</summary>
 
-11यूपं वैष्णवीभ्यामृग्भ्यां कल्प्यति स्थापयति - ते ते धामानि ... विष्णोः कर्माणि पश्यतेति ॥
-</details>
-
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 To these dwellings of thine are we fain+++(=apt)+++ to go,  
@@ -459,18 +510,23 @@ Of the wide-stepping Visnu, the mighty!
 धामानि पुनर्विशेष्यन्ते - अत्राह अत्रैव । अहेत्यवधारणे । येष्वेव धामसु उरुगायस्य उरुभिर्महात्माभिर्गीयत इत्युरिगायः । गायतेः कर्मणि घञ्, थाथादिस्वरेणोत्तरपदान्तोदात्तत्वम् । भूरेः महतो महाबलस्य विष्णोः विश्वं व्याप्नुवतः । 'विशेः किच्च' इति नुप्रत्ययः, तत्र हि निदिति वर्तते । यस्त्वं महाबलो महात्मभिस्स्तूयमानो विश्वं व्याप्नुवन्नभूः 'विचक्रमाणस्त्रेधोरुगायः' इति मन्त्रप्रसिद्धः तस्य तव तत्तादृशविक्रमकृत् परममुत्तमं पदंम् तदप्येष्वेव धामसु अवभाति दीप्यते, तस्मात्तानि धामानि गन्तुमुश्म इति । एवं प्रत्यक्षकृतोयं मन्त्रः । द्वितीयस्तेशब्दोस्मिन्पक्षे युष्मदादेशः । यद्वा - परोक्षकृत एवायम् । ते ते इति वीप्सा । तानि तानि धामानि गन्तुमुश्मः । 'नित्यवीप्सयोः' इति शेप्रत्ययान्तस्य द्विर्व- चनम्, ' अनुदात्तं च` इति द्वितीयस्यानुदात्तत्वम् । स्पष्टमन्यत् ॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/19_viShNoH_karmANi.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 वि᳓ष्णोः क᳓र्माणि पश्यत  
 य᳓तो व्रता᳓नि पस्पशे᳓+++(←स्पश बाधनस्पर्शनयोः)+++ ।  
 इ᳓न्द्रस्य यु᳓ज्यः स᳓खा ॥
 
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/19_viShNoH_karmANi.md">
-<details open><summary><h5>019 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -604,6 +660,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यतः- यस्मात् देवात्। व्रतानि- प्रकृतिनियतीः। पस्पशे- उपासकः हृदा स्पृशति। तस्य। विष्णोः-  सर्वव्यापकस्य। सर्वान्तर्यामिणः। कर्माणि- क्रमणकार्याणि। पश्यत- अनुभवत। इन्द्रस्य-  आत्मावरणभेदकशक्तेः। युज्यः- समाधिस्थः। युज समाधौ। सखा- मित्रभूतो विष्णुः॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ऋत्विगादयः **विष्णोः** **कर्माणि** पालनादीनि **पश्यत** । **यतः** यैः कर्मभिः **व्रतानि** अग्निहोत्रादीनि **पस्पशे** सर्वो यजमानः स्पृष्टवान् विष्णोरनुग्रहात् अनुतिष्ठति इत्यर्थः । तादृशो विष्णुः **इन्द्रस्य** **युज्यः** योज्यः अनुकूलः **सखा** भवति । विष्णोः इन्द्रानुकूल्यं त्वष्टा हतपुत्रः' इत्यनुवाके ‘अथ वै तर्हि विष्णुः ' ( तै. सं. २. ४. १२. २ ) इत्यादिना प्रपञ्चेन तैत्तिरीया आमनन्ति ॥ पस्पशे । ' स्पश बाधनस्पर्शनयोः । लिट् । द्विर्भावे ‘शर्पूर्वाः खयः' ( पा. सू. ७. ४. ६१ ) इति पकारः शिष्यते सकारो लुप्यते । यद्वृत्तयोगादनिघातः । युज्यः । युजेः बाहुलकात् क्यप् । कित्त्वाद्गुणाभावः । क्यपः पित्त्वादनुदात्तत्वम् । धातुस्वरः ॥
@@ -705,7 +766,7 @@ Des Vischnu Thaten schauet an, durch die die Ordnungen er sah, Des Indra eng ver
 
 भावार्थभाषाः -  ज्या कारणांपासून (प्रकृतीपासून) सर्वांचा मित्र असलेल्या जगदीश्वराने पृथ्वी इत्यादी लोक तसेच जीवांच्या साधनांसह शरीरे उत्पन्न केलेली आहेत, त्याद्वारे सर्व प्राणी आपापले कार्य करण्यास समर्थ होतात. ॥ १९ ॥
 </details>
-</details>
+
 </div>  
 
 _______
@@ -713,17 +774,21 @@ _______
 
 13चषालमीक्षते - तद्विष्णोरिति त्रिपदया गायत्र्या ॥
 </details>
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/20_tadviShNoH_paramaM.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 त᳓द्वि᳓ष्णोः परमं᳓ पदं᳓  
 स᳓दा **पश्यन्ति** सूर᳓यः ।  
 दिवी᳙व च᳓क्षुर्+++(→सूर्यः|श्रोणाः)+++ आ᳓ततम् ॥
 
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/20_tadviShNoH_paramaM.md">
-<details open><summary><h5>020 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -874,6 +939,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सूरयः- ज्योतिष्मन्तः। आत्मवन्त इत्यर्थः। दिवि- आकाशे। चक्षुरिव- निहितं चक्षुर्यथा  विस्तारभावं पश्यति। तथा। आततम्- वैकुण्ठम्। विष्णोः- व्यापनशीलस्य। सर्वान्तर्यामिणः।  परमं पदम्- सर्वश्रेष्ठं पदम्। तत्- यतः विष्णुर्विचक्रमे तत्। सदा- कालानवच्छिन्नत्वादनवरतम्।  पश्यन्ति- अनुभवन्ति॥२०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सूरयः** विद्वांस ऋत्विगादयः **विष्णोः** संबन्धि **परमम्** उत्कृष्टं **तत्** शास्त्रप्रसिद्धं **पदं** स्वर्गस्थानं शास्त्रदृष्ट्या सर्वदा **पश्यन्ति** । तत्र दृष्टान्तः । **दिवीव** । आकाशे यथा **आततं** सर्वतः प्रसृतं **चक्षुः** निरोधाभावेन विशदं पश्यति तद्वत् ॥ सदा । ‘सर्वैकान्य ' ( पा. सू. ५. ३. १५) इति दाप्रत्ययः । सर्वस्य सोऽन्यतरस्यां दि ' ( पा. सू. ५. ३. ६ ) इति सर्वशब्दस्य सभावः । व्यत्ययेनाद्युदात्तत्वम् । दिवि । ' उडिदम्' इत्यादिना विभक्तेरुदात्तत्वम् । ‘इवेन विभक्त्यलोपः पूर्वपदप्रकृतिस्वरत्वं च ' इति तदेव शिष्यते । चक्षुः । ‘नब्विषयस्य° ' इत्याद्युदात्तत्वम् । आततम् । तनोतेः कर्मणि क्तः ।' यस्य विभाषा ' इति इट्प्रतिषेधः । अनुदात्तोपदेश' इत्यादिना नलोपः । कृदुत्तरपदप्रकृतिस्वरत्वे प्राप्ते ‘ गतिरनन्तरः' इति गतेरुदात्तत्वम् ॥
@@ -992,7 +1062,7 @@ Auf ihn, des Vischnu höchsten Tritt; der wie des Himmels Auge glänzt, Schaun f
 
 टिप्पणी:   या मंत्रात ‘परमम्’ पदम् या पदाचा अर्थ युरोपियन विल्सन साहेबांनी स्वर्ग होऊ शकत नाही, असे म्हटले आहे. हा त्यांचा भ्रम आहे. कारण परमपदाचा अर्थ स्वर्गच आहे. ॥ २० ॥
 </details>
-</details>
+
 </div>
 
 _______
@@ -1005,8 +1075,9 @@ _______
 
 ब्र॒ह्म॒वनि॑न्त्वा क्षत्त्र॒वनिँ॑ सुप्रजा॒वनिँ॑ रायस्पोष॒वनि॒म्पर्यू॑हामि ।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma-vanim.md">
-<details open><summary><h5>ब्रह्म-वनिम् ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14प्रदक्षिणं पुरीषेण पर्यूहति - ब्रह्मवनिमिति ॥
@@ -1044,8 +1115,9 @@ Thee that art winner of Brahmans, winner of nobles, winner of fair offspring, wi
 
 14प्रदक्षिणं पुरीषेण पर्यूहति - ब्रह्मवनिमिति ॥ व्याख्यातम् ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 14प्रदक्षिणं पुरीषेण पर्यूहति - ब्रह्मवनिमिति ॥ व्याख्यातम् ॥
@@ -1056,8 +1128,9 @@ _______
 
 15मैत्रावरुणदण्डेन संहन्ति - ब्रह्म दृंहेति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma_dRMha.md">
-<details open><summary><h5>ब्रह्म द्रुंह ...{Loading}...</h5></summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्रह्म॑ दृँह क्ष॒त्रन्दृँ॑ह प्र॒जान्दृँ॑ह रा॒यस्पोष॑न्दृँह
@@ -1104,8 +1177,9 @@ strengthen increase of wealth.
 
 15मैत्रावरुणदण्डेन संहन्ति - ब्रह्म दृंहेति ॥ व्याख्यातमेव ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 15मैत्रावरुणदण्डेन संहन्ति - ब्रह्म दृंहेति ॥ व्याख्यातमेव ॥

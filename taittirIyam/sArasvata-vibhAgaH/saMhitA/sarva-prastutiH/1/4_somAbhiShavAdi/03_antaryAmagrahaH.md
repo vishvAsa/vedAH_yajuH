@@ -1,6 +1,5 @@
 +++
 title = "०३ अन्तर्यामग्रहः"
-
 +++
 
 सोमऋषिः
@@ -10,8 +9,9 @@ _______
 
 1उदित आदित्ये ऽन्तर्यामं गृह्णाति अतिधारया पवमानस्य राज्ञः - उपयामगृहीतोसि ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
@@ -37,7 +37,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
+
 </div>  
 
 _______
@@ -50,8 +50,10 @@ _______
 
 अ॒न्तर्य॑च्छ मघवन्पा॒हि सोम॑मुरु॒ष्य राय॒स्समिषो॑ यजस्वा॒न्तस्ते॑ दधामि॒ द्यावा॑पृथि॒वी अ॒न्तरु॒र्व॑न्तरि॑क्षँ स॒जोषा॑ दे॒वैरव॑रै॒ᳶ परै॑श्चान्तर्या॒मे म॑घवन्मादयस्व 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/02_antar_yachCha.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अ॒न्तर् **य॑च्छ**  मघवन् **पा॒हि++(=पिब)+++ सोम॑म्**   
 उरु॒ष्य+++(=रक्ष)+++ राय॒स्, सम् इषो॑ **यजस्व** +++(यजमानं प्रति)+++।  
@@ -62,9 +64,12 @@ _______
 स॒जोषा॑ दे॒वैर् अव॑रै॒ᳶ परै॑श् च+   
 +अन्तर्या॒मे +++(ग्रहे)+++ म॑घवन् **मादयस्व**
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/02_antar_yachCha.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 O bounteous one, restrain (it), protect Soma,  
@@ -104,6 +109,7 @@ O bounteous one, do thou rejoice in the Antaryama (cup).
 केचिदाहुः - हे मघवन् सोममिममन्तर्यच्छ तस्याधोदेशे निधाय तिरोहितं कुरु । तथा च कृत्वा पाहि रक्ष यथा न मे भ्रातृव्याः पश्येयुः । 'उरुष्य रायः' इत्यादि पूर्ववत् ॥
 </details>
 </details>
+
 </div>
 
 _______
@@ -111,8 +117,9 @@ _______
 
 3स्वां कृतोसीति ग्रहमादत्ते ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/svAnkRtosi.md">
-<details open><summary><h5>स्वाङ्कृतोऽसि ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाङ्-कृ॑तोऽसि।
@@ -222,8 +229,8 @@ _______
 8आहवनीयं प्रति गच्छति - उर्विति ॥ व्याख्यातम् । 'अन्तरिक्षदेवत्यो हि प्राणः' इत्यादि ब्राह्मणम्  ॥
 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
-<details open><summary><h10>उर्वन्तरिक्षम् ...{Loading}...</h10></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव ।
@@ -260,6 +267,14 @@ Fare along the wide atmosphere.
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव । 
 हे वपे उत्खेदनविबाधिते अधुना महान्तमन्तरिक्षाख्यं पन्थानं अनुगच्छेति विशेषः । 'क्रूरमिव वा एतत्करोति यद्वपामुत्खिदति' इत्यादि ब्राह्मणम् ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+उत्थापनम् आरभ्य पुनर् भूमौ स्थापन-पर्यन्तं सोमो ऽन्तरिक्षाधार इत्य् अभिप्रायं दर्शयति —
+
+> 'उर्व् अन्तरिक्षम् अन्व् इहीत्य्' आहान्तरिक्ष-देवत्यो ह्य् एतर्हि सोमः (सं. का. ६ प्र. १ अ. ११)  
+
+इति।
 </details>
 </div>  
 
@@ -340,8 +355,9 @@ This is thy birthplace;
 
 हे उपांशुसंस्राव एष आग्रयणस्थाल्याख्यस्ते तव योनिः स्थानम्, यत्र निहितस्त्वं यागसिद्ध्यै सम्पत्स्यसे । अतस्तं प्रविशेति शेषः ॥
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒पा॒नाय॑ त्वा ॥ [4]  

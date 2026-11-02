@@ -1,6 +1,5 @@
 +++
 title = "१० वसाहोमः"
-
 +++
 
  सोमऋषिः
@@ -66,21 +65,21 @@ _______
 
 ऐ॒न्द्रᳶप्रा॒णो अङ्गे॑अङ्गे॒ नि दे॑ध्यदै॒न्द्रो॑ऽपा॒नो अङ्गे॑अङ्गे॒ वि बो॑भुव॒द्देव॑ त्वष्ट॒र्भूरि॑ ते॒ सँस॑मेतु॒ विषु॑रूपा॒ यत् सल॑क्ष्माणो॒ भव॑थ देव॒त्रा यन्त॒मव॑से॒ सखा॒योऽनु॑ त्वा मा॒ता पि॒तरो॑ मदन्तु॒ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ऐ॒न्द्रᳶ प्रा॒णो अङ्गे॑अङ्गे॒ नि दे॑ध्यत्+++(←धीङ् आधारे)+++ ।  
 एै॒न्द्रो॑ऽपा॒नो अङ्गे॑अङ्गे॒ वि बो॑भुवत् ।  
 देव॑ त्वष्ट॒र् +++(पशोर्)+++ भूरि॑ ते॒ सँस॑मेतु ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
-<details><summary>भास्करोक्त-विनियोगः</summary>
 
-2पशोर् अवदानानि सम्मृशति - ऐन्द्रः प्राण इत्यनुष्टुभा षट्पदया ॥
-</details>
-
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 May Indra's expiration be set in every limb;  
@@ -119,20 +118,25 @@ O god Tvastr, let mind be united for thee,
 एतद् उक्तं भवति, यद् विकर्तने पश्वङ्गं विच्छिन्नम् अवशिष्टं तत्सर्वं त्वया आर्द्रतया एकीकार्यम् इति । एवं हि कृत्स्नेन पशुना यागः कृतो भवति । 'प्रसमुपोदः पादपूरणे' इति समो द्विर्वचनम् । 'अनुदात्तं च' इति द्वितीयस्यानुदात्तत्वम् ।
 </details>
 </details>
+
 </div>
 
 ________
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 +++(शरीर-खण्डानि!)+++ विषु॑रूपा॒ यत् **सल॑क्ष्माणो॒**+++(=सलक्षणा [हवीरूपेण])+++ **भव॑थ**,  
 दे॒व॒त्रा+++(=देवस्थानं)+++ यन्त॒म्, अव॑से॒, +++(तस्य पशोः)+++ सखा॑यः   
 अनु॑ त्वा मा॒ता-पि॒तरो॑ **मदन्तु** ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 When ye that are various become of one form;  
@@ -179,6 +183,7 @@ And thy father and mother rejoice.
 तदेवाह - **अवसे** रक्षणाय तव चात्मनश् च । तृप्त्यर्थं वा, अवतिर्हि तृप्तौ च पठ्यते । तस्मादसुन् । 'अनुमतमेवैनं मात्रा पित्रा सुवर्गं लोकं गमयति' ` इति च ब्राह्मणम् । मदि हर्षे दैवादिकः विकरणव्यत्ययेन शप् ॥
 </details>
 </details>
+
 </div>
 
 _______

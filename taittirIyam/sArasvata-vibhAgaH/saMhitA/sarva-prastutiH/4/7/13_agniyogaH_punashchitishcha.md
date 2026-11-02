@@ -1,6 +1,5 @@
 +++
 title = "१३ अग्नियोगः, पुनश्चितिश्च,"
-
 +++
 त्रिष्टुप् , ३ विराट् स्थाना, ५ शक्वरी, ६ जगती, ११-१३ अनुष्टुप्,
 अग्निर्ऋषिः
@@ -14,15 +13,20 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 “ पुरस्तात्प्रातरनुवाकादग्निं युनज्मीमिति तिसृभिरभिमृशन्नग्निं युनक्ति ” इति।  
 तत्र प्रथमामाह– अग्निं युनज्मीति।  
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/02_agniy.Nyunajmi_shavasA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अ॒ग्निय्ँयु॑नज्मि॒ शव॑सा घृ॒तेन॑ दि॒व्यँ सु॑प॒र्णव्ँवय॑सा बृ॒हन्त॑म् ।   
 तेन॑ व॒यम्प॑तेम ब्र॒ध्नस्य॑ वि॒ष्टपँ॒ सुवो॒ रुहा॑णा॒ अधि॒ नाक॑ उत्त॒मे ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/02_agniy.Nyunajmi_shavasA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अ॒ग्निय्ँयु॑नज्मि॒ शव॑सा घृ॒तेन॑ दि॒व्यँ सु॑प॒र्णव्ँवय॑सा बृ॒हन्त॑म् ।   
@@ -37,20 +41,27 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 कीदृशा वयम्, उत्तमे नाकेऽत्युत्कृष्टे स्वर्गलोके सबोऽधिरुहाणाः सुखप्रापकप्रदेशमधिरोढुकामाः।
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह– इमौ ते पक्षावति।  
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/06_imau_te.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 इ॒मौ ते॑ प॒क्षाव॒जरौ॑ पत॒त्रिणो॒ याभ्याँ॒ रक्षाँ॑स्यप॒हँस्य॑ग्ने ।   
 ताभ्या॑म्पतेम सु॒कृता॑मु लो॒कय्ँयत्रर्ष॑यᳶ प्रथम॒जा ये पु॑रा॒णाः ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/06_imau_te.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 इ॒मौ ते॑ प॒क्षाव॒जरौ॑ पत॒त्रिणो॒ याभ्याँ॒ रक्षाँ॑स्यप॒हँस्य॑ग्ने ।   
@@ -64,20 +75,27 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 ये पुराणा अनादिसिध्दा ऋषयो महर्षयः सन्ति ये च प्रथमजाः सृष्ट्यादावेवोत्पन्नास्तादृशा यत्र लोके निबसन्ति तं लोकं पतेम।
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तृतीयामाह – चिदसि समुद्रेति ।  
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/10_chidasi_samudrayonirindurdakhShashshyena.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 चिद॑सि समु॒द्रयो॑नि॒रिन्दु॒र्दक्ष॑श्श्ये॒न ऋ॒तावा॑ ।   
 हिर॑ण्यपक्षश्शकु॒नो भु॑र॒ण्युर्म॒हान्त्स॒धस्थे॑ ध्रु॒वः [24]  आ निष॑त्तः ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/10_chidasi_samudrayonirindurdakhShashshyena.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 चिद॑सि समु॒द्रयो॑नि॒रिन्दु॒र्दक्ष॑श्श्ये॒न ऋ॒तावा॑ ।   
@@ -90,20 +108,27 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 चिज्जगतश्चेतयिता यजमानौश्चितो वा ।   समुद्रयोनिर्यथा समुद्रः सर्वेषां जलग्रहाणां स्थानं तथा त्वं सर्वेषां क्रतूनां स्थानम्।   इन्दुः परमैश्वर्ययुक्तः।   दक्षः कर्मनिष्पादन कुशलः।   श्येनः पक्षिविशेषाकारः ।   ऋतावा सत्यवान्।   हिरण्यपक्षः सुवर्णं मयाभ्यां पक्षाभ्यामुपेतः।   शकुनः कामनादिभेदेन कङ्कादिपक्ष्याकारः।   भुरण्युः    २२५५ सर्वं भरितं क्षमः ।   महान्बह्वीभिरिष्टकाभिश्चितत्वात्प्रौढः।   सधःस्थ आदित्येन सहैकत्र स्थितियोग्ये मण्डले (ध्रुवः स्थिरः) ।   आनिषत्तः समन्तत उपविष्टः।
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः— “यज्ञायज्ञियस्य स्तोत्र एकयाऽप्रस्तुतं भवत्यथ नमस्ते अस्तु मा मा हिँ सीरिति द्वाभ्यामग्निमभिमृशति” इति।   तत्र प्रथमामाह– नमस्ते अस्त्विति।   
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/14_namaste_astu.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 नम॑स्ते अस्तु॒ मा मा॑ हिँसी॒र्विश्व॑स्य मू॒र्धन्नधि॑ तिष्ठसि श्रि॒तः ।   
 स॒मु॒द्रे ते॒ हृद॑यम॒न्तरायु॒र्द्यावा॑पृथि॒वी भुव॑ने॒ष्वर्पि॑ते ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/14_namaste_astu.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 नम॑स्ते अस्तु॒ मा मा॑ हिँसी॒र्विश्व॑स्य मू॒र्धन्नधि॑ तिष्ठसि श्रि॒तः ।   
@@ -115,21 +140,28 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 हेऽग्ने ते नमोऽस्तु।   त्वं कर्मणि त्वद्यागकारिणं मा मां मा हिंसीर्मा विनाशय।   त्वं विश्वस्य सर्वस्य जगतो मूर्धञ्शिरोवदुत्तमे चितिप्रदेशे श्रित आश्रितः सन्नधितिष्ठसि।   अधिको भूत्वा वर्तसे।   ते हृदयं त्वदीयं चित्तं समुद्रे वर्तते।   यद्वृष्टिद्वारेण समुद्रसमानं जलं संपादयिष्यामीत्येवं सर्वदा तवा नुग्रहः।   तथाऽन्तरायुस्त्वदीयचित्तस्य मध्ये सर्वेषां प्राणिनामायुस्तिष्ठति चिरं जीवन्त्वेते प्राणिन इति यदा स्मरसि तदानीं तेषामायुर्भवत्येव ।   किंच भुवनेषु सर्वेषु लोकेषु निमित्तभूतेषु द्यावापृथिवी अर्पिते उपरि द्यौरधो भूमिश्च त्वया स्थपिते।   एतयोर्मध्ये सर्वे लोकास्तिष्ठन्त्वित्येवं तवानुग्रहः।
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह– उद्नो दत्तोदघिमिति।   
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/18_udno_dattodadhimbhinta.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 उ॒द्नो द॑त्तोद॒धिम्भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑वत ।   
 दि॒वो मू॒र्धासि॑ पृथि॒व्या नाभि॒रूर्ग॒पामोष॑धीनाम् ।
 वि॒श्वायु॒श्शर्म॑ स॒प्रथा॒ नम॑स्प॒थे ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/18_udno_dattodadhimbhinta.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 उ॒द्नो द॑त्तोद॒धिम्भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑वत ।  
@@ -152,21 +184,28 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 यज्ञायज्ञियस्य स्तोत्रे ह्येकविंशः स्तोमो विहितः।   तिस्रो हि ऋच एकविंशतिसंख्यापूरणायाऽऽवर्तनीयाः।   तत्र हि विंशतिस्तोत्रीयासूक्तासु याऽन्ता (न्त्या) स्तोत्रीया तया स्तोत्रमप्रस्तुतमनुपक्रान्तं यदा भवति तदानीं मन्त्राभ्यामभिमृशेत्।   एवं सत्युत्तरकालभावी यज्ञः सर्वोऽप्येनं यजमानमुपनमति।   अपि च तदभिमर्शनं यज्ञनैरन्तर्याय संपद्यते।
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः— “ पुनश्चितिस्त्रिष्वर्थेषु श्रूयतेऽस्त्रवणार्थे समृद्ध्यर्थे संतानार्थे चास्रवणार्थं व्याख्यास्यामो यदीष्ट्या यदि पशुना यदि सोगेन यजेत योऽप्यस्य पुरोऽ–ग्निस्तमन्ववसाय यजेतापि वा येनर्षय इत्यष्ठौ नाना मन्त्रा उत्तरवेद्यामुपदध्यात् ” इति।  
 तत्र प्रथमामाह– येनर्षय इति।   
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/22_yenarShayastapasA_sattram.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 येनर्ष॑य॒स्तप॑सा स॒त्त्रम् [25]  आस॒तेन्धा॑ना अ॒ग्निँ सुव॑रा॒भर॑न्तः ।   
 तस्मि॑न्न॒हन्नि द॑धे॒ नाके॑ अ॒ग्निमे॒तय्ँयमा॒हुर्मन॑वस्स्ती॒र्णब॑र्हिषम् ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/22_yenarShayastapasA_sattram.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 येनर्ष॑य॒स्तप॑सा स॒त्त्रम् [25]  आस॒तेन्धा॑ना अ॒ग्निँ सुव॑रा॒भर॑न्तः ।   
@@ -178,20 +217,27 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 येन स्वगेंण निमित्तभूतेन पूर्वे महर्षयस्तपसा संतापयक्तेनाग्निना सत्रमासतानुष्ठितवन्तः ।   कीदृशा महर्षयः, अग्निमिन्धानाः प्रज्वलयन्तः ।   सुवराभरन्तः स्वर्गमाहर्तुं समुद्यताः अहमपि तस्मिन्नाके निमित्तभूते सति एतमग्निं निदधे स्थापयामि।   यमग्निं मनवः पूर्वे मनुष्याः स्तीर्णबर्हिषं प्रसारितयज्ञमाहुस्त मग्निं निदध इत्यन्वयः।
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह– तं पत्नीभिरिति।   
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/26_tampatnIbhiranu_gachChema.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 तम्पत्नी॑भि॒रनु॑ गच्छेम देवाᳶ पु॒त्रैर्भ्रातृ॑भिरु॒त वा॒ हिर॑ण्यैः ।   
 नाक॑ङ्गृह्णा॒नास्सु॑कृ॒तस्य॑ लो॒के तृ॒तीये॑ पृ॒ष्ठे अधि॑ रोच॒ने दि॒वः ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/26_tampatnIbhiranu_gachChema.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 तम्पत्नी॑भि॒रनु॑ गच्छेम देवाᳶ पु॒त्रैर्भ्रातृ॑भिरु॒त वा॒ हिर॑ण्यैः ।   
@@ -203,20 +249,27 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 हे देवा ऋत्विजः सर्वे वयं पत्न्यादिभिः सर्वैर्मनुष्यैरुत   २२५८ वा हिरण्यैर्हिरण्यदिभिः सर्वैः साधनद्गव्यैश्च सहितास्तमग्निमनुगच्छेमानुगताः सन्तः फलं प्राप्स्याम इत्बाशयः ।   स एव स्पष्टीक्रियतेदिवः पृष्ठे स्वर्गस्योपरि नाकं दुःखरहितं स्थानं गृह्णाना ग्रहीतुकामा वयमित्यर्थः।   कीदृशे दिवः पृष्ठे, सुकृतस्य लोके सम्यगनुष्ठितस्य कर्मणः फलभूते, तृतीये पृथिवीमारभ्य गणनायां त्रिसंख्यापूरके, अधिरोचनेऽधिकत्वेन दीप्यमाने।
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह– आ वाचो मध्यमेति।   
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/30_A_vAcho.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 आ वा॒चो मध्य॑मरुहद्भुर॒ण्युर॒यम॒ग्निस्सत्प॑ति॒श्चेकि॑तानः ।   
 पृ॒ष्ठे पृ॑थि॒व्या निहि॑तो॒ दवि॑द्युतदधस्प॒दङ्कृ॑णुते [26] ये पृ॑त॒न्यवः॑ ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/30_A_vAcho.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 आ वा॒चो मध्य॑मरुहद्भुर॒ण्युर॒यम॒ग्निस्सत्प॑ति॒श्चेकि॑तानः ।   
@@ -228,20 +281,27 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 अयगग्निर्वाचो मध्यमारुहत्स्तोत्ररूपाया वाचः प्रतिपाद्यमर्थमारूढः स्तोत्रगतसर्वगुणयुक्त इत्यर्थः।   कीदृशोऽग्निः, भुरण्युर्जनद्भरणशीलः।   सत्पतिः सतां पालकः।   चेकितानोऽभिज्ञानवान्।   स च पृथिव्याः पृष्ठे भूमेरुपरि निहितः स्थापितो दविद्युतदतिशयेन द्योतते।   ये तु विरोधिनः पृतन्यवोऽस्माभिः सह कलहं कर्तुमिच्छन्ति तानधस्पदं कृणुतेऽस्माकं पादस्याधस्तादर्वास्थितान्करोति।
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमाह– अयमग्निरिति।   
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/34_ayamagnirvIratamo_vayodhAssahasriyo.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अ॒यम॒ग्निर्वी॒रत॑मो वयो॒धास्स॑ह॒स्रियो॑ दीप्यता॒मप्र॑युच्छन् ।   
 वि॒भ्राज॑मानस्सरि॒रस्य॒ मध्य॒ उप॒ प्र या॑त दि॒व्यानि॒ धाम॑ ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/34_ayamagnirvIratamo_vayodhAssahasriyo.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अ॒यम॒ग्निर्वी॒रत॑मो वयो॒धास्स॑ह॒स्रियो॑ दीप्यता॒मप्र॑युच्छन् ।   
@@ -253,16 +313,27 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 अयमग्निर्दीप्यतामस्मिन्कर्मणि प्रकाशताम्।   कीदृशः, वरितमोऽतिशयेन शूरः।   वयोधा वयस आयुषः स्थापयिता।   सहस्त्रिय इष्टकासहस्रेण संपादितः।   अप्रयुच्छन्नस्मिन्कर्मणि प्रमादरहितः।   सरिरस्य जलस्य मध्ये विभ्राजमान और्वविद्युदादिरूपेण विशेषतः प्रकाशमानः।   हे ऋत्विग्यजमानास्तस्य प्रसादाद्दिव्यानि धाम स्थानानि उप प्रयात प्राप्नुत।
 </details>
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/37_sampra_chyavadhvamanu.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 सम्प्र च्य॑वध्व॒मनु॒ सम्प्र या॒ताग्ने॑ प॒थो दे॑व॒याना॑न्कृणुध्वम् ।   
 अ॒स्मिन्त्स॒धस्थे॒ अध्युत्त॑रस्मि॒न्विश्वे॑ देवा॒ यज॑मानश्च सीदत ।
 </details>
+
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ पञ्चमीमाह– सं प्र च्यवध्वमिति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/37_sampra_chyavadhvamanu.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 सम्प्र च्य॑वध्व॒मनु॒ सम्प्र या॒ताग्ने॑ प॒थो दे॑व॒याना॑न्कृणुध्वम् ।   
@@ -271,23 +342,30 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 
 <details><summary>सायण-टीका</summary>
 
-अथ पञ्चमीमाह– सं प्र च्यवध्वमिति।   हेऽग्ने त्वं विश्वेदेवा यजमानश्च सर्वे यूयं संप्रच्यवर्ध्य सम्यक्प्रच्यावयत, अस्य कर्मणो विघ्नं विनाशयतेत्यर्थः।   अनुसंप्रयासानुक्रमेण कर्मसिद्धिं प्राप्नुत।   ततो देवयानान्देवलोकप्राप्तिहेतून्पथो मार्गान्कृणुघ्वं कुरुत।   सधःस्थे सहस्थितियोग्येऽस्मिन्कर्मणि सीदतोत्तरस्मिल्ँ लोकेऽधिकत्वेन सीदत।
+हेऽग्ने त्वं विश्वेदेवा यजमानश्च सर्वे यूयं संप्रच्यवर्ध्य सम्यक्प्रच्यावयत, अस्य कर्मणो विघ्नं विनाशयतेत्यर्थः।   अनुसंप्रयासानुक्रमेण कर्मसिद्धिं प्राप्नुत।   ततो देवयानान्देवलोकप्राप्तिहेतून्पथो मार्गान्कृणुघ्वं कुरुत।   सधःस्थे सहस्थितियोग्येऽस्मिन्कर्मणि सीदतोत्तरस्मिल्ँ लोकेऽधिकत्वेन सीदत।
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठीमाह– येना सहस्रमिति।   
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/41_yenA_sahasrav.Nvahasi.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 येना॑ स॒हस्रव्ँ॒वह॑सि॒ येना॑ग्ने सर्ववेद॒सम् ।   
 तेने॒मय्ँ य॒ज्ञन्नो॑ वह देव॒यानो॒ यः [27]  उ॒त्त॒मः ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/41_yenA_sahasrav.Nvahasi.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 येना॑ स॒हस्रव्ँ॒वह॑सि॒ येना॑ग्ने सर्ववेद॒सम् ।   
@@ -299,22 +377,29 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 हेऽग्ने देवयानो देवप्रापको यस्त्वमुत्तमः स त्वं येन व्यापारेण सहस्रं वहसि सहस्रदक्षिणाकं यज्ञं निर्वहसि, तथा येन व्यापारेण सर्ववेदसं सर्वस्वदक्षिणाकं यज्ञं वहसि, तेन व्यापारेण नोऽस्मदीयमिमं यज्ञं वह देवान्प्रापय।   देवयान इत्यादिकं यज्ञविशेषणं वाऽस्तु।   यो यज्ञो देवान्प्राप्त उत्तमो भवति तमिमं यज्ञं वहेत्यर्थः
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तमीमाह–  २२५९ उद्वुध्यस्वाग्न इति।   
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **उद्बु॑ध्यस्वाग्ने॒** प्रति॑ जागृह्य्  
 एनम् इष्टा-पू॒र्ते सँसृ॑जेथाम॒यञ्च॑ ।   
 पुन॑ᳵ **कृ॒ण्वँस्** त्वा॑ पि॒तरय्ँ॒ युवा॑नम्  
 **अ॒न्वाताँ॑सी॒त्** त्वयि॒ तन्तु॑म् ए॒तम् ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 उद्बु॑ध्यस्वाग्ने॒ प्रति॑ जागृह्येनमिष्टापू॒र्ते सँसृ॑जेथाम॒यञ्च॑ ।   
@@ -326,20 +411,27 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 हेऽग्ने त्वमुद्बुध्यस्वास्माद्वेषये सावधानो भव।   एनं यजमानं प्रति जागृहि प्रतिदिनं जागारूकं सावधानं कुरु।   अयं च त्वं च मिलित्वेष्टापूर्ते श्रौतस्मार्तकर्मणी संसृजेथां संपादयतम्।   हे यजमान त्वां पितरं पालकं युवानं यौवनोपेतं पुनः कृण्वन्भूयो भूयः कुर्वन्नयमग्निस्त्वयि निमित्तभूते सत्येतं तन्तुं यज्ञप्रवाहमन्वातांसीदनुक्रमेण तनोतु संपादयतु।
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमीमाह– अयं ते योनिरिति।   
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/49_ayante_yonirRtviyo.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अ॒यन्ते॒ योनि॑र्ऋ॒त्वियो॒ यतो॑ जा॒तो अरो॑चथाः ।   
 तञ्जा॒नन्न॑ग्न॒ आ रो॒हाथा॑ नो वर्धया र॒यिम् ॥ [28]
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/49_ayante_yonirRtviyo.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अ॒यन्ते॒ योनि॑र्ऋ॒त्वियो॒ यतो॑ जा॒तो अरो॑चथाः ।   
@@ -363,7 +455,9 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 एतैर्मन्त्रै।   साध्यां पुनश्चितिं विधत्ते– “प्र वा एषोऽस्माल्लोकाच्च्यवते योऽग्निं चिनुते न वा एतस्यानिष्टक आहुतिरवकल्पते यां वा एषोऽनिष्टक आहुतिं जुहोति स्रवति वै सा ताँ स्रवन्तीं यज्ञोऽनुपरा भवति बज्ञं यजमानो यत्पुनश्चितिं चिनुत आहुतीनां प्रतिष्ठित्यै प्रत्याहुतयस्तिष्ठन्ति न यज्ञः पराभवति न यजमानः” [सं० का० ५ प्र० ४ अ० १०] इति।  
@@ -376,7 +470,6 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 यथा लोके सुप्तो व्याघ्रः केनचिन्मार्गे गच्छता पुरुषेण बोधितस्तमेव बोध यितारं मारयति, एवमयं क्रूरोऽग्निः पूर्वं चितः कथंचित्पुण्यवशात्सुप्तवच्छान्तो वर्तते।   स चेत्षुनश्चीयेत प्रबोधितव्याघ्रवन्मारयेत्।   तस्मान्न चेतव्येयं पुनश्चितिरिति पूर्वः पक्षः।   तमिमं पक्षमनादृत्य स्वपक्षमेव स्थापयति– “अथो खल्वाहुश्चेतव्येति यथा वसीयाँसं भागधेयेन बोधयति तादृगेव तत्” (सं० का० ५ प्र० ४ अ० १०) इति।  
 लोके धनाढ्यं प्रभुं चिरकालव्यवधानेन विस्मृतवन्तं भृत्यः पुनरप्युपायनमानीय यथा बोधयति, स च बोधित एवाभीष्टसिध्दिं करोति, एवमयं प्रभुराग्निः पुनश्चितः सन्नमीष्टं साधयतीति चेतव्येयं पुनश्चितिः।    तस्याः पुनश्चितेः समृद्धिहेतुत्वमुदाहरणमुखेन स्पष्टयति– “मनुरग्निमचिनुत तेन नाऽऽर्ध्नोत्स एतां पुनश्चितिमपश्यत्तामचिनुत तया वै स आर्घ्नोद्यत्पुनश्चितिं चिनुत ऋद्ध्यै” [सं० का० ५ प्र० ४ अ० १०] इति।  
 </details>
-
 
 <details><summary>विनियोगसङ्ग्रहः</summary>
 

@@ -1226,6 +1226,11 @@ Brihaspati, flieg' her mit deinem Wagen, Gespenster tödtend, jeden Feind verjag
 
 ## 05 गोत्रभिदं गोविदम् - त्रिष्टुप्
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ पञ्चमीमाह— गोत्रभिदभिति।
+</details>
+
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/06_gotrabhidaM_govidaM.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
@@ -1467,7 +1472,7 @@ _________
 
 **गोत्रभिदम्** । गा उदकानि त्रायन्त इति गोत्रा मेघाः । यद्वा गौर्भूमिः । तां त्रायन्त इति गोत्राः पर्वताः। तेषां भेत्तारं **गोविदम्** उदकस्य लब्धारं **वज्रबाहुं** वज्रहस्तम्। 'प्रहरणार्थेभ्यः (पा. सू. २. २. ३६. ४) इति परनिपातः । **जयन्तं** जयनशीलम् **अज्म** गमनशीलं शत्रुबलम् **ओजसा** बलेन जयन्तं यद्वा अज्म आजिं जयन्तमोजसा बलेन **प्रमृणन्तं** शत्रून् अभिभवन्तम् ईदृशं महानुभावम् **इमम्** इन्द्रं हे **सजाताः** सहोत्पन्ना योद्धारो यूयम् **अनु** वीरयध्वम् । एनमग्रतः कृत्वानु पश्चाद्वीरयध्वं वीरकर्मं युद्धं कुरुध्वम् । ‘शूर वीर विक्रान्तौ । वीरशब्दात् ‘तत्करोति तदाचष्टे इति णिच् । हे **सखायः** परस्परं सखिभूता यूयमिमम् **इन्द्रं** संरभमाणम् **अनु** **सं** **रभध्वम्**॥॥२२॥
 ____________
-अथ पञ्चमीमाह— 		गोत्रभिदभिति।  
+
 हे **सजाताः** समानजन्मानो ऽस्मदीया ज्ञातयो यूयम् **इम मिन्द्रमनुवरियध्वम्**।  
 अयम् इन्द्रः पुरतो वीरः शूरोऽभवत् पश्चाद् यूयं शूरा भवत।  
 हे **सखाय** इन्द्रम् **अनुसंरभध्वम्** इन्द्रः पुरसो युद्धं सम्यगारभतां पश्चाद् भवत आरभन्ताम्।  
@@ -3368,6 +3373,11 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/201_upa_preta.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ द्वितीयामाह– उप प्नेतेति।
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॒ प्रेत॒ जय॑ता नरस्स्थि॒रा व॑स्सन्तु बा॒हवः॑ ।  
@@ -3376,7 +3386,6 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 
 <details><summary>सायण-टीका</summary>
 
-अथ द्वितीयामाह– उप प्नेतेति।  
 हे नरोऽस्मदीयाः पुरुषा उपप्रेत परसैन्यस्य समीपे प्रकर्षेण यच्छत।  
 ततो जयत विजयं प्राप्नुत।  
 वो युष्माकं बाहवः स्वकीयायुवैः प्रहरणेषु स्थिराः सन्तु।  
@@ -3403,6 +3412,11 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/204_avasRShTA_parA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ तृतीयामाह— अवसृष्टेति।
+</details>
+
 <details><summary>मूलम्</summary>
 
 अव॑सृष्टा॒ परा॑ पत॒ शर॑व्ये॒ ब्रह्म॑सँशिता ।  
@@ -3411,7 +3425,6 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 
 <details><summary>सायण-टीका</summary>
 
-अथ तृतीयामाह— अवसृष्टेति।  
 हिंसिका हेतिः शरव्या।  
 हे शरव्ये ग्रह्मणा संशिता तीक्ष्णीकृता त्वमवसृष्टाऽस्माभिर्मुक्ता सती षरापत सहसा परसैन्यै पतिता भव।  
 पतित्वा अमित्राञ्शत्रून्नच्छ प्राप्नुहि।  
@@ -3440,6 +3453,11 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/207_marmANi_te.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ चतुर्थीमाह— मर्माणि त इति।
+</details>
+
 <details><summary>मूलम्</summary>
 
 मर्मा॑णि ते॒ वर्म॑भिश्छादयामि॒ सोम॑स्त्वा॒ राजा॒मृते॑ना॒भि व॑स्ताम् ।  
@@ -3448,7 +3466,6 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 
 <details><summary>सायण-टीका</summary>
 
-अथ चतुर्थीमाह— मर्माणि त इति।  
 हे यजमान ते तव मर्माणि वर्मभिः कवचैश्छादयामि।  
 सोमो रांजा त्वाममृतेन मरणनिवारकेण केनापि कवचविशेषेणाभिवस्ताममित आच्छादयतु।  
 ते तव **वरिवो** धनम् उरोर्वरीयोऽस्तु, अन्यदीयादधिकादप्यत्यन्तमधिकमस्तु।  

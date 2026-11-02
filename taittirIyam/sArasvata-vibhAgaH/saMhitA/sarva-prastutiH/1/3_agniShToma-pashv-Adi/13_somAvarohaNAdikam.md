@@ -1,6 +1,5 @@
 +++
 title = "१३ सोमावरोहणादिकम्"
-
 +++
 सोमावरोहणम्, +++(अभिषोतव्यस्य सोमस्य शकटादावुपावरोहः)+++  प्रचरणीहोमः, क्रतुकरणहोमः , अपां ग्रहणम्
 
@@ -214,21 +213,25 @@ let creatures descend to thee.
 ________
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/02_shRNotv_agnis.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 शृ॒णोत्व् अ॒ग्निस् स॒मिधा॒ हव॑म् मे  
 शृ॒ण्वन्त्व् आपो॑ धि॒षणा॑श्+++(=धृष्टा विद्याः)+++ च दे॒वीः ।  
 शृ॒णोत॑ ग्रावाणो वि॒दुषो॒ नु य॒ज्ञँ  
 शृ॒णोतु॑ दे॒वस् स॑वि॒ता हव॑म् मे ॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/02_shRNotv_agnis.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-3एकधनादिलक्षणा अपो जिघृक्षन् स्रुचि चतुर्गृहीतं गृहीत्वा आहवनीये जुहोति - श्रुणोत्वग्निरिति त्रिष्टुभा चतुष्पदया ॥ 
+3एकधनादिलक्षणा अपो जिघृक्षन् स्रुचि चतुर्गृहीतं गृहीत्वा आहवनीये जुहोति - श्रुणोत्वग्निरिति त्रिष्टुभा चतुष्पदया ॥
 </details>
 
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/02_shRNotv_agnis.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Let Agni (kindled) with the kindling-stick hear my appeal, Let the waters hear, and the divine Dhisanas;  
@@ -259,12 +262,14 @@ Hearken, ye pressing stones, to the sacrifice of me the wise one, Let the god Sa
 किञ्च - देवस्सविता सर्वस्य प्रेरकः मे मदीयं हवं शृणोतु । 'सवितृप्रसूत एव देवताभ्यो निवेद्यापोच्छैति' `इति ब्राह्मणम् । अग्न्यादयो मे हवं श्रुत्वा आगच्छन्तु, यज्ञं निर्वर्तयन्त्विति भावः ॥
 </details>
 </details>
+
 </div>
 
 ________
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/03_devIr_Apo.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 देवी॑र् आपो, अपान्नपा॒द्  
 य ऊ॒र्मि-ह॑वि॒ष्यः॑ ।  
@@ -272,14 +277,12 @@ ________
 **तन्** दे॒वेभ्यो॑ देव॒त्रा+++(=देवस्थाने)+++ **ध॑त्त**,  
 शु॒क्रँ शु॑क्र॒पेभ्यो॒ येषा॑म् भा॒गस् स्थ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/03_devIr_Apo.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
-<details><summary>भास्करोक्त-विनियोगः</summary>
 
-4अप्सु बर्हिः प्रास्याभिजुहोति - देवीराप इति यजुरन्तया गायत्र्या ॥ मदिन्तम इत्यन्तं व्याख्यातम् ।
-</details>
-
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 देवी॑रापो अपान्नपा॒द्य ऊ॒र्मिर्ह॑वि॒ष्य॑ इन्द्रि॒यावा॑न्म॒दिन्त॑मः
@@ -321,7 +324,9 @@ Pure to the drinkers of the pure, (to them) whose share ye are;
 पुनश्च विशेष्यते - शुक्रं सोमं सोमीभविष्यन्तम् । केभ्यः? शुक्रपेभ्यः देवानां मध्ये ये शुक्रपास्सोमपास्तेभ्यः । पुनश्च देवा विशेष्यन्ते - हे आपः येषां देवानां यूयं भागस्स्थ्य भागभूता भविष्यथ तेभ्यो धत्तेति । भागशब्दः 'कर्षात्वतः' इत्यन्तोदात्तः ॥
 </details>
 </details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाहा॑ ।
@@ -390,7 +395,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मु॒द्रस्य॒॑ वो ऽक्षि॑त्या॒ उन्न॑ये ।
+स॒मु॒द्रस्य॒॑ वो ऽक्षि॑त्या॒ उन्न॑ये ।
 </details>
 
 <details><summary>Keith</summary>
@@ -400,7 +405,7 @@ I draw you for the sustenance of the waters.
 
 <details><summary>मूलम्</summary>
 
-स॒मु॒द्रस्य॒॑ वोऽक्षि॑त्या॒ उन्न॑ये ।
+स॒मु॒द्रस्य॒॑ वोऽक्षि॑त्या॒ उन्न॑ये ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -416,20 +421,24 @@ I draw you for the sustenance of the waters.
 ________
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/04_yam_agne.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **यम्** अ॑ग्ने पृ॒त्सु+++(=युद्धेषु)+++ मर्त्य॒म्  
 **आवो॒** वाजे॑षु॒+++(←वज्=स्पर्धासु)+++ यञ् जु॒नाः ।    
 **स यन्ता॒** शश्व॑ती॒र् **इषः॑** ॥ [23]
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/04_yam_agne.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-7क्रतुकरणं जुहोति - यमग्न इति त्रिपदया गायत्र्या ॥ 
+7क्रतुकरणं जुहोति - यमग्न इति त्रिपदया गायत्र्या ॥
 </details>
 
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/04_yam_agne.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 That mortal, O Agni, whom thou hast helped in the battles, Whom thou hast strengthened in the contest for booty, He winneth I abiding strength.
@@ -451,6 +460,7 @@ That mortal, O Agni, whom thou hast helped in the battles, Whom thou hast streng
 'यद्यग्निष्टोमो जुहोति' `इति ब्राह्मणम् । हे अग्ने यं मर्त्यं पृत्सु सङ्ग्रामेषु आवः रक्षसि । 'छन्दसि लुङ्लङ्लिटः' इत्यवतेर्लङ्, आडागम उदात्तः ॥ 'मांस्पृत्स्नूनामुपसङ्ख्यानम्' इति पृतनाशब्दस्य पृद्भावः, 'सावेकाचः' इति विभक्तेरुदात्तत्वम् । कः पुनरसौ यं पृतनासु रक्षसीत्याह वाजेष्व् अन्नेषु निमित्तभूतेषु । 'निमित्तात्कर्मसंयोगे' इति सप्तमी । अन्नार्थं यं जुनाः गच्छसि । जु इति सौत्रो धातुः वेगितायां गतौ वर्तते, तस्मात्पूर्ववल्लुङ्, श्नाप्रत्ययः, 'बहुलं छन्दस्यमाङ्योगेपि' इत्यडभावः । हवींषि ग्रहीतुं यस्य सकाशं सदा गच्छसीत्यर्थः । स एव खलु त्वया सङ्ग्रामेषु रक्ष्यत्वेन ग्राह्यते । यश्च त्वयैवं रक्ष्यते स एव खलु त्वयानुगृहीतः यन्ता यमयिता वशीकर्ता ॥ 'न लुट् इति' निघातप्रतिषेधः, उदात्तनिवृत्तिस्वरो व्यत्ययेन प्रवर्तते । किं वशीकरिष्यतीत्याह - शश्वतीः नित्याः इषः अन्नादि प्रभूतं धनं प्राप्नोतीत्यर्थः । शश्वच्छब्दात् 'उगितश्च' इति ङीप् ॥
 </details>
 </details>
+
 </div>
 
 इति तृतीये त्रयोदशोनुवाकः ॥

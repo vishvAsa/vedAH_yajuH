@@ -76,8 +76,9 @@ ____
 
 गार्हपत्ये प्रतितपति
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pratyuShTam.md">
-<details open><summary><h2>प्रत्युष्टं रक्षः ...{Loading}...</h2></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
@@ -111,8 +112,9 @@ The Raksas is burned up, the evil spirits are burned up.
 
 किञ्च, अरातयोपि प्रत्युष्टास्सन्तु । रातयो धनस्य दातारस्सुहृदः । 'कृत्यल्युटो बहुळम्' (पा.सू. 3.3.113) इति बहुलवचनात्कर्तरि क्तिन् । अतोन्येऽरातयः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3प्रत्युष्टमिति प्रतितपनमन्त्रो व्याख्यातः (तै.सं. 1.1.2)॥
@@ -211,8 +213,9 @@ Thou art the oblation-holder that wavers not.
 
 यतस्त्वमेवंविधस्तस्माद्दृंहस्व । मा ह्वारिति व्याख्यातम् (तै.सं. 1.1.3) ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/dRMhasva.md">
-<details open><summary><h5>दृंहस्व ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृँह॑स्व+++(=दृढा भव)+++।  
@@ -244,7 +247,7 @@ Be firm, waver not.
 
 दृंहस्व वर्धस्व दृढा भव । दृहदृहि वृद्धौ, व्यत्ययेनात्मनेपदम् । केचिदाहुर्वर्धनायां वर्तत इति । यद्वा - दृंहगा इतिवत् ण्यन्तात्कर्मकर्तर्यात्मनेपदम् । पूर्ववद्यक्प्रतिषेधादि (पा.सू. 3.1.89 वा 1) । मा ह्वाः मा कुटिला भूः । ह्वृ कौटिल्ये, लुङ्मध्यमपुरुषैकवचने, सिचि वृद्धौ, 'बहुळं छन्दसि' (पा.सू. 7.3.97) इतीडभावे, हल्ङ्यादिलोपे 'रात्सस्य' (पा.सू. 8.2.24) इति सकारलोपः । अत्र 'चादिलोपे विभाषा' (पा.सू. 8.1.63) इति प्रथमा तिङ्विभक्तिर्न निहन्यते दृंह॑स्व॒ मा ह्वाः॒ इति ॥
 </details>
-</details>
+
 </div>
 
 ____
@@ -346,11 +349,12 @@ ____
 
 दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑ अश्विनो॑र्बा॒हुभ्या॑म् पू॒ष्णो हस्ता॑भ्याम॒ग्नये॒ जुष्ट॒न्निर्व॑पामि ।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-<details open><summary><h2>देवस्य त्वा सवितुः ...{Loading}...</h2></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
 पू॒ष्णो हस्ता॑भ्याम्…
 </details>
@@ -370,7 +374,7 @@ with the hands of Pusan.
 
 <details><summary>पद-पाठः</summary>
 
-दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
+3M । दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -386,8 +390,9 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‌… अ॒ग्नये॒ जुष्ट॒न् निर्व॑पामि ।    
@@ -414,11 +419,12 @@ ______________
 
 (**त्वाम् अग्नये** अग्न्यर्थं **जुष्टं** प्रियं **निर्वपामि** निष्कृष्य शूर्पे निक्षिपामि । …)
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-<details open><summary><h2>देवस्य त्वा सवितुः ...{Loading}...</h2></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
 पू॒ष्णो हस्ता॑भ्याम्…
 </details>
@@ -438,7 +444,7 @@ with the hands of Pusan.
 
 <details><summary>पद-पाठः</summary>
 
-दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
+3M । दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -454,8 +460,9 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … अ॒ग्नीषोमा॑भ्यां [जुष्ट॒न् निर्व॑पामि] ।
@@ -589,8 +596,9 @@ ____
 
 आहवनीयमन्वीक्षते
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/suvar_abhi.md">
-<details open><summary><h5>सुवर् अभि ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुव॑र् अ॒भि वि ख्ये॑षव्ँ+++(=अपश्यं)+++ वैश्वान॒रञ् ज्योतिः॑ ।
@@ -621,7 +629,7 @@ May I behold the light, the radiance for all men.
 
 13 आहवनीयमीक्षते - सुवरिति ॥ स्वर्गसाधनत्वेन स्तुतिः । विश्वेषां नराणां ज्योतिष्ट्वं नयतीति वैश्वानरं द्योतमानमाहवनीयमाभिमुख्येन पश्यामीति । व्याख्यातम् । ख्यातेराशिषि लिङि, 'लिङ्यशिष्यङ्' 'अतो येयः' ॥
 </details>
-</details>
+
 </div>  
 
 ____
@@ -664,8 +672,9 @@ ____
 
 उद्गच्छति
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
-<details open><summary><h2>उर्वन्तरिक्षम् ...{Loading}...</h2></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव ।
@@ -702,8 +711,18 @@ Fare along the wide atmosphere.
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव । 
 हे वपे उत्खेदनविबाधिते अधुना महान्तमन्तरिक्षाख्यं पन्थानं अनुगच्छेति विशेषः । 'क्रूरमिव वा एतत्करोति यद्वपामुत्खिदति' इत्यादि ब्राह्मणम् ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+उत्थापनम् आरभ्य पुनर् भूमौ स्थापन-पर्यन्तं सोमो ऽन्तरिक्षाधार इत्य् अभिप्रायं दर्शयति —
+
+> 'उर्व् अन्तरिक्षम् अन्व् इहीत्य्' आहान्तरिक्ष-देवत्यो ह्य् एतर्हि सोमः (सं. का. ६ प्र. १ अ. ११)  
+
+इति।
 </details>
+
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 15'उर्वन्तरिक्षमन्विहि' इति गमनमन्त्रो व्याख्यातः (तै.सं. 1.1.2) ॥
@@ -748,8 +767,9 @@ ____
 
 गार्हपत्यमभिमन्त्रयते
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/agne_havyam.md">
-<details open><summary><h5>अग्ने हव्यम् ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने॑ ह॒व्यँ र॑क्षस्व ॥ [6]
@@ -775,7 +795,7 @@ O Agni, guard the offering.
 17गार्हपत्यमभिमन्त्रयते - अग्न इति ॥ हे अग्ने गार्हपत्य, इदं हव्यं हवनाय निरुप्तं रक्षस्व । व्यत्ययेनात्मनेपदम् । 'छन्दसि च' (पा.सू. 5.1.67) इति यः ॥
 
 </details>
-</details>
+
 </div>  
 
 इति चतुर्थोनुवाकः ॥

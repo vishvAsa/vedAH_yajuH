@@ -1,21 +1,28 @@
 ---
 title: ०४ पर्यग्निकरणीया ऋचः
 unicode_script: devanagari
----
 
+---
 ## पशुहौत्रम्
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+1पर्यग्निकरणे मैत्रावरुणः प्रेषितो ब्रवीति - अग्निर्होता न इति ॥
+</details>
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/015/01_agnirhotA_no.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 **अग्नि᳓र्** हो᳓ता नो अध्वरे᳓  
 वाजी᳓ +++(अश्वस्)+++ स᳓न् **प᳓रि णीयते** ।  
 देवो᳓ देवे᳓षु यज्ञि᳓यः ॥
 
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/015/01_agnirhotA_no.md">
-<details open><summary><h5>001 ...{Loading}...</h5></summary>
 
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -30,13 +37,13 @@ unicode_script: devanagari
 वाजी᳓ स᳓न् प᳓रि णीयते  
 देवो᳓ देवे᳓षु यज्ञि᳓यः
 </details>
+
 <details><summary>तैत्तिरीयम् मूलम्</summary>
 
 अ॒ग्निर्होता॑ नो अध्व॒रे ।   
 वा॒जी सन्परि॑णीयते ।  
 दे॒वो दे॒वेषु॑ य॒ज्ञियः॑ ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -180,7 +187,7 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-1पर्यग्निकरणे मैत्रावरुणः प्रेषितो ब्रवीति - अग्निर्होता न इति ॥ तिस्रो गायत्र्यः ॥ अयमग्निः होता देवानां आह्वाता अध्वरे निमित्ते यज्ञसिद्धये वाजी अन्नवान् हविर्लक्षणस्यान्नस्य होता सन् शोभनः परिणीयते परितो नीयते । देवः दानादियुक्तः देवेषु मध्ये यज्ञियः यज्ञसम्पादनार्हः ॥
+तिस्रो गायत्र्यः ॥ अयमग्निः होता देवानां आह्वाता अध्वरे निमित्ते यज्ञसिद्धये वाजी अन्नवान् हविर्लक्षणस्यान्नस्य होता सन् शोभनः परिणीयते परितो नीयते । देवः दानादियुक्तः देवेषु मध्ये यज्ञियः यज्ञसम्पादनार्हः ॥
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -293,8 +300,9 @@ Herumgeführt wird bei dem Fest als Priester Agni wie ein Ross, Der Gott bei Gö
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा अग्नी सूर्यरूपाने सर्व व्यवहारांना प्राप्त करवितो तसेच विद्वान संपूर्ण मनोरथांना प्राप्त करवितो. ॥ १ ॥
 </details>
 
-</details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परि॑त्रिवि॒ष्ट्य॑ध्व॒रम् ।  
 यात्य॒ग्नी र॒थीरि॑व ।  
@@ -339,4 +347,3 @@ Herumgeführt wird bei dem Fest als Priester Agni wie ein Ross, Der Gott bei Gö
 इति तैत्तिरीयब्राह्मणे तृतीये षष्ठे पशुहौत्रे चतुर्थोऽनुवाकः ॥  
 
 </details>
-

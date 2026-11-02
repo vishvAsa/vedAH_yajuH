@@ -1,6 +1,5 @@
 +++
 title = "०४ रुद्रः - इमा रुद्राय"
-
 +++
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -87,17 +86,23 @@ title = "०४ रुद्रः - इमा रुद्राय"
 अर्ह॑न्नि॒दन्द॑यसे॒ विश्व॒मब्भु॑वम् ।  
 न वा ओजी॑यो रुद्र॒ त्वद॑स्ति । 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
-<details open><summary><h5>07 मा नस् ...{Loading}...</h5></summary>
 
-मा न॑स् तो॒के+++(=अपत्यमात्रे)+++ तन॑ये॒ मा न॒ आयु॑षि॒  
-मा नो॒ गोषु॒ **मा** नो॒ अश्वे॑षु **रीरिषः** ।   
-वी॒रान् **मा** नो॑ रुद्र **भामि॒तो+++(=क्रुद्धः)+++ व॑धीर्**  
-**ह॒विष्म॑न्तो॒ नम॑सा विधेम** ते ।
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
+
+मा᳓ नस् तोके᳓+++(=अपत्यमात्रे)+++ त᳓नये मा᳓ न आ᳓युषि  
+मा᳓ नो गो᳓षु **मा᳓** नो अ᳓श्वेषु **रीरिषः** ।   
+वीरा᳓न् **मा᳓** नो रुद्र **भामितो᳓+++(=क्रुद्धः)+++ वधीर्**  
+**हवि᳓ष्मन्तो न᳓मसा विधेम** ते ।
+
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ षष्ठीमाह— मा नस्तोक इति।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
-<details open><summary><h5>07 मा नस् ...{Loading}...</h5></summary>
+
 <details><summary>Keith</summary>
 
 Harm us not in our children, our descendants, our life; Harm us not in our cattle, in our horses;  
@@ -113,15 +118,15 @@ With oblations lot us serve thee with honour.
 
 <details><summary>सायण-टीका</summary>
 
-अथ षष्ठीमाह— मा नस्तोक इति।  
 हे रुद्र नोऽस्मदीये तोकेऽपत्यमात्रे तनये विशेषतः पुत्रे मा रीरिषो हिंसां मा कुरु।  
 नोऽस्मदीय आयुषि मा रीरिषः नोऽस्मदीयेषु गोषु मा रीरिषः।  
 नोऽस्मदीयेष्वश्वेषु मा रीरिषः।  
 **भामितः** क्रुद्धः सन्नोऽस्मदीयान्वीरान्भृत्यान्मा वधीः।  
 वयं हविष्मन्तो हविर्युक्तास्ते तुभ्यं नमसा नमस्कारेण विधेम परिचरेम।
 </details>
-</details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 22अथ हविषः पूरोनुवाक्यामाह - 

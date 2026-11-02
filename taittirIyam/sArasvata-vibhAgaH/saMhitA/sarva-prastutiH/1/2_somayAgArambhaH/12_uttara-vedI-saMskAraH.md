@@ -1,7 +1,6 @@
 +++
 title = "१२ उत्तर-वेदी-संस्कारः"
 short_title = "१२ उत्तरवेदीसंस्कारः"
-
 +++
 १२ उत्तर-वेदी-संस्कारः
 
@@ -290,8 +289,9 @@ ________
 
 उत्तरवेद्यां निवपति।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
-<details open><summary><h5>यत्ते ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् ते ऽना॑धृष्ट॒न् नाम॑ य॒ज्ञिय॒न् +++(नभ इत्यादि)+++ तेन॒ त्वा ऽऽद॑धे ।
@@ -318,8 +318,14 @@ Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 7-9उत्तरवेद्यां निवपति - यत्त इति ॥ हे अग्ने यत्ते तव अनाधृष्टमनभिभूतं केनचिदपि राक्षसादिना, यज्ञियं यज्ञार्हं यज्ञसम्पादनसमर्थं नाम नभ इत्येतत् । तेन त्वामादधे स्थापयामि । उत्तरवेद्यामाहवनीयधारणार्थं पुरीषात्मना त्वयैवायं धारयितुं शक्यते न हि त्वदन्यस्तद्धारयितुं समर्थः । तस्मादेतन्नाम बिभ्रदुत्तरवेद्यामात्मनो महिमानम् आहवनीयं धारयितुं सन्निहितो भूत्वा यज्ञं सम्पादयेति भावः ।
 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+यत् तवानाधृष्टं केनाप्य् अतिरस्कृतं नाम यज्ञ-संबद्धं तेन नाम्ना व्यवहृत्य त्वाम् उत्तर-वेद्याम् आदधे।
 </details>
+
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं द्वितीयं तृतीयं च करोति ।    
@@ -374,8 +380,9 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the second ea
 
 अयं तु विशेषः, द्वितीयपर्याये 'अग्ने अङ्गिरो यो द्वितीयस्यां पृथिव्यामसि' इति भवति । द्वितीया पृथिवी अन्तरिक्षम् ।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
-<details open><summary><h5>यत्ते ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् ते ऽना॑धृष्ट॒न् नाम॑ य॒ज्ञिय॒न् +++(नभ इत्यादि)+++ तेन॒ त्वा ऽऽद॑धे ।
@@ -402,7 +409,12 @@ Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 7-9उत्तरवेद्यां निवपति - यत्त इति ॥ हे अग्ने यत्ते तव अनाधृष्टमनभिभूतं केनचिदपि राक्षसादिना, यज्ञियं यज्ञार्हं यज्ञसम्पादनसमर्थं नाम नभ इत्येतत् । तेन त्वामादधे स्थापयामि । उत्तरवेद्यामाहवनीयधारणार्थं पुरीषात्मना त्वयैवायं धारयितुं शक्यते न हि त्वदन्यस्तद्धारयितुं समर्थः । तस्मादेतन्नाम बिभ्रदुत्तरवेद्यामात्मनो महिमानम् आहवनीयं धारयितुं सन्निहितो भूत्वा यज्ञं सम्पादयेति भावः ।
 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+यत् तवानाधृष्टं केनाप्य् अतिरस्कृतं नाम यज्ञ-संबद्धं तेन नाम्ना व्यवहृत्य त्वाम् उत्तर-वेद्याम् आदधे।
 </details>
+
 </div>  
 
 ________
@@ -416,7 +428,6 @@ ________
 अत्राग्ने अङ्गिरो यो द्वितीयस्याम् इत्य् आम्नातो द्वितीय-मन्त्रस् तस्याऽऽदौ विदेर् इत्यादिर् अनुषज्यते। अवसाने च पृथिव्याम् इत्यादिर् अनुषज्यते। तृतीयस्याम् इत्यादिश् चरम-मन्त्रस् तस्य विदेर् इत्यादिर् एवानुषज्यते। चात्वाल-स्थितायाः पृथिव्या अंश-भेदेन द्वितीयत्वं तृतीयत्वं च द्रष्टव्यम्।
 
 [[P308]]
-
 
 </details>
 
@@ -446,8 +457,9 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the third ear
 
 तृतीये तु, 'अग्ने अङ्गिरो यस्तृतीयस्यां पृथिव्यामसि' इति । तृतीया पृथिवी द्युलोकः पृथुत्वात्पृथिवी । समानमन्यत् । 'विदेरग्निर्नभो नामाग्ने अङ्गिर इति त्रिर्हरति' इति ब्राह्मणम् ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
-<details open><summary><h5>यत्ते ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् ते ऽना॑धृष्ट॒न् नाम॑ य॒ज्ञिय॒न् +++(नभ इत्यादि)+++ तेन॒ त्वा ऽऽद॑धे ।
@@ -474,7 +486,12 @@ Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 7-9उत्तरवेद्यां निवपति - यत्त इति ॥ हे अग्ने यत्ते तव अनाधृष्टमनभिभूतं केनचिदपि राक्षसादिना, यज्ञियं यज्ञार्हं यज्ञसम्पादनसमर्थं नाम नभ इत्येतत् । तेन त्वामादधे स्थापयामि । उत्तरवेद्यामाहवनीयधारणार्थं पुरीषात्मना त्वयैवायं धारयितुं शक्यते न हि त्वदन्यस्तद्धारयितुं समर्थः । तस्मादेतन्नाम बिभ्रदुत्तरवेद्यामात्मनो महिमानम् आहवनीयं धारयितुं सन्निहितो भूत्वा यज्ञं सम्पादयेति भावः ।
 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+यत् तवानाधृष्टं केनाप्य् अतिरस्कृतं नाम यज्ञ-संबद्धं तेन नाम्ना व्यवहृत्य त्वाम् उत्तर-वेद्याम् आदधे।
 </details>
+
 </div>  
 
 ________
@@ -545,6 +562,7 @@ ________
 
 प्रथयति।
 </details>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 उर्विति। कल्पः —
@@ -554,7 +572,7 @@ ________
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/uru.md">
-<details open><summary><h5>उरु ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒रु प्र॑थस्व ।  
@@ -592,7 +610,12 @@ Be extended wide, let the lord of the sacrifice be extended wide.
 
 9प्रथयति - उर्विति ॥ उरु यथा भवति तथा प्रथस्व । यज्ञपतिः यजमानः अनेन तवोरुप्रथनेन उरु प्रथतां पश्वादिभिः । 'पत्यावैश्वर्ये' (पा.सू. 6.2.18) इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+प्रथस्व प्रसर। 
 </details>
+
 </div>  
 
 ________
@@ -631,7 +654,6 @@ Thou art firm.
 ध्रुवा दृढा। 
 
 </details>
-
 
 ## अवोक्षणादिकम्
 
@@ -855,6 +877,7 @@ ________
 
 उत्तरवेदिम् अक्ष्णया=?? व्याघारयति।
 </details>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 सिंहीरसीति। कल्पः —
@@ -1294,7 +1317,6 @@ Thou art the ashes of Agni; thou art the rubble of Agni.
 <details><summary>सायण-टीका</summary>
 
 हे संभार-स्वरूप त्वम्-अग्नेर्-भासकं पूरकं चासि।
-
 
 </details>
 

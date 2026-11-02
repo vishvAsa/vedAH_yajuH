@@ -1,6 +1,5 @@
 +++
 title = "०१ सोमाभिषवः"
-
 +++
 (पात्रेषु रसग्रहणाय पूर्वम् उपावहृतस्य सोमस्याभिषवः)  
 सोमऋषिः
@@ -10,11 +9,12 @@ _______
 
 1अतः परं ग्रहकाण्डं सोमार्षेयम् । उपांशुसवनं ग्रावाणमादत्ते - आदद इति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-<details open><summary><h5>देवस्य त्वा सवितुः ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
 पू॒ष्णो हस्ता॑भ्याम्…
 </details>
@@ -34,7 +34,7 @@ with the hands of Pusan.
 
 <details><summary>पद-पाठः</summary>
 
-दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
+3M । दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -50,8 +50,9 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ द॑दे ।
@@ -82,8 +83,10 @@ _______
 
 ग्रावा॑स्यध्वर॒कृद्दे॒वेभ्यो॑ गम्भी॒रमि॒मम॑ध्व॒रङ्कृ॑ध्युत्त॒मेन॑ प॒विनेन्द्रा॑य॒ सोमँ॒ सुषु॑त॒म्मधु॑मन्त॒म्पय॑स्वन्तव्ँवृष्टि॒वनिम् 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/01_somAbhiShavaH/02_grAvAsy_adhvarakRd.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **ग्रावा॑स्य्** अध्वर॒कृद् - दे॒वेभ्यो॑  
 **गम्भी॒रम्** इ॒मम् अ॑ध्व॒रङ्,  
@@ -91,9 +94,12 @@ _______
 +इन्द्रा॑य॒ सोमँ॒ **सुषु॑त॒म्**  
 मधु॑मन्त॒म् पय॑स्वन्तव्ँ वृष्टि॒-वनिम्
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/01_somAbhiShavaH/02_grAvAsy_adhvarakRd.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Thou art the stone which maketh the sacrifice for the gods;  
@@ -114,12 +120,12 @@ rich in sweetness, in milk, bringing rain.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-2तमभिमन्त्रयते - ग्रावासीति त्रिष्टुभा पञ्चपदया ॥ यथोक्तं 'चतुर्भिरष्टाक्षरैः द्वादशाक्षरेण चैकेन त्रिष्टुप्'  इति ।
 हे उपांशुसवन अध्वरकृत् अध्वरस्य यज्ञस्य कर्ता आभिषवद्वारेण संपादयिता ग्रावा त्वमसि । एवं नाम प्रशस्तोसि । यद्वा - अध्वरकृत्यात् स्तोतव्यस्त्वमसि । गृणातेः स्तुतिकर्मणः 'अन्येभ्योपि दृश्यते' इति क्वनिप्, आडागमः, इत्वाभावश्च दृशिग्रहणात् । गिरतेर्वा, गिरति सोममभिषवकाल इति । स त्वं देवेभ्यो देवार्थम् । षष्ठ्यर्थे वा चतुर्थी । देवानां सम्बन्धिनं गम्भीरं गहनमिमं प्रस्तुतमध्वरं कृधि सम्पादय । करोतेर्लोटि 'बहुलं छन्दसि' इति शपो लुक्, 'श्रुशृणुपॄकृवृभ्यश्छन्दसि' इति हेर्धिभावः, पादादिरपि व्यत्ययेन निहन्यते । तदर्थं किं क्रियतामित्यत आह - उत्तमेनोत्कृष्टेन पविना पवनेन शोधनेन अभिषवात्मना तत्कर्तृकेण । इन्द्राय इन्द्रार्थं सोमं सुषुतं सुष्ठु अभिमतं कृधीत्यत्रापि सम्बध्यते । 'गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वम्, 'उपसर्गात्सुनोति' इति षत्वम् । यद्वा - इन्द्राय इन्द्रस्य यः पविर्वज्रः उत्तमस्तेन सोमं सुषुतं कुरु । तेनैव खल्विदं कृतं भवति, यत्त्वया क्रियत इति भावः । 'अच इः' इति पवतेरिप्रत्ययः । उत्तमशब्द उञ्छादिरन्तोदात्तः ।   
 
 सोमो विशेष्यते - मधुमन्तं मधुररसवन्तं स्वादुभूतम् पयस्वन्तं क्षीरवन्तम्, 'पयसा श्रीणाति' इति श्रवणात् । यद्वा - 'पयः पिबतेः प्यायतेर्वा' इति निर्वचनात् सेचनवन्तं वृद्धिमन्तं वा । उभयत्राप्यसुनि पीभावः । वृष्टिवनिं यागसाधनद्वारेण वृष्टेर्दातारं सम्भक्तारं वा । 'छन्दसि वनसन' इतीन्प्रत्ययः, कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
 </details>
+
 </div>
 
 _______
@@ -345,17 +351,22 @@ _______
 
 यत्ते॑ सोम दि॒वि ज्योति॒र्यत्पृ॑थि॒व्याय्ँ यदु॒राव॒न्तरि॑क्षे । तेना॒स्मै यज॑मानायो॒रु रा॒या कृ॒ध्यधि॑ दा॒त्रे वो॑चः ।
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/01_somAbhiShavaH/03_yat_te.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 यत् ते॑ सोम दि॒वि ज्योति॒र्  
 यत् पृ॑थि॒व्याय्ँ, यद् उ॒राव् अ॒न्तरि॑क्षे  ।  
 तेना॒स्मै यज॑मानायो॒रु  
 रा॒या **कृ॒ध्य्**, अधि॑ दा॒त्रे **वो॑चः**+++(←वच्)+++।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/01_somAbhiShavaH/03_yat_te.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 With thy light which is in the sky,  
@@ -372,7 +383,9 @@ be favourable to the giver.
 रु रा॒या कृ॒ध्यधि॑ दा॒त्रे वो॑चः।
 </details>
 </details>
+
 </div>
+
 <details><summary>प्रदीपसिंहः</summary>
 
 सतोबृहत्यां साधारणत एवम् भवति - ८ + ८ + १२ + ८ ।  

@@ -1,6 +1,5 @@
 +++
 title = "१० द्रापे॒ अन्ध॑सस्पते॒"
-
 +++
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -17,17 +16,22 @@ title = "१० द्रापे॒ अन्ध॑सस्पते॒"
 अथ दशमेऽनुवाक ऋग्-रूपा मन्त्रा उच्यन्यते।  
 तत्र प्रथमामृचमाह— द्रापे अन्धसस्पत इति।
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/02_drApe_andhasaspate.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 +++(सोमवद्)+++ द्रापे॒ अन्ध॑सस्-पते॒  
 दरि॑द्र॒न् नील॑लोहित ।   
 ए॒षाम् पुरु॑षाणाम्, ए॒षाम् प॑शू॒नाम्  
 **मा भेर् मा ऽरो॒**+++(←गतौ)+++ **मो** ए॑षा॒ङ् किञ्च॒न+**अम॑मत्**+++(←रुग्णम् अभूत्)+++ ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/02_drApe_andhasaspate.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 O chaser, lord of the Soma plants,  
@@ -58,18 +62,29 @@ Be not one of these injured.
 **मो आममन्** मैव रुग्णम् अभूत्।
 </details>
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/03_yA_te.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 या ते॑ रुद्र शि॒वा त॒नूश्  
 शि॒वा वि॒श्वाह॑+++(←अहो)+++-भेषजी ।   
 शि॒वा रु॒द्रस्य॑ भेष॒जी  
 तया॑ नो **मृड** जी॒वसे॑ ।
 </details>
+
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ द्वितीयामाह— या ते रुद्रेति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/03_yA_te.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 That auspicious form of thine, O Rudra,  
@@ -86,23 +101,33 @@ With that show mercy on us for life.
 
 <details><summary>सायण-टीका</summary>
 
-अथ द्वितीयामाह— या ते रुद्रेति।  
 हे रुद्र ते त्वदीया शिवा शान्ता तन्र्या विद्यते तया तन्वा नोऽस्माञ्जीवसे जीवयितुं मृड सुखय।  
 कथं तन्वा, शिवत्वं, तदुच्यतेय स्मादेवं विश्वाहमेषजी सर्वेष्वहःसु रोगदारिद्यादेरौषधवाद्विनाशहेतुस्तस्माच्छिवा।      २१३६ किंच, यस्माद्रुद्रस्य तादात्म्यप्राप्तये भेषज्यौषधरूपा ज्ञानप्रदानेन जन्ममरणादिदुःखं निवारयति तस्मादप्येषा शिवा ।
 </details>
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/04_imAM_rudrAya.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 इ॒माँ रु॒द्राय॑ त॒वसे॑ कप॒र्दिने॑  
 क्ष॒यद्-वी॑राय॒+++(←बहुव्रीहिः)+++ **प्र भ॑रामहे** म॒तिम् ।   
 यथा॑ न॒श् **शम् अस॑द्** द्वि॒पदे॒ चतु॑ष्पदे॒  
 विश्व॑म् पु॒ष्टङ् ग्रा॒मे॑ अस्मि॒न्न्  अना॑तुरम् ।
 </details>
+
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ तृतीयामाह— इमाँ रुद्रायेति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/04_imAM_rudrAya.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 This prayer we offer up to the impetuous Rudra, With plaited hair, destroyer of men,  
@@ -118,25 +143,35 @@ And that all in this village be prosperous [1] and free from ill.
 
 <details><summary>सायण-टीका</summary>
 
-अथ तृतीयामाह— इमाँ रुद्रायेति।  
 यथा येन प्रकारेण नोऽस्मदीयाय द्विपदे पुत्रपौत्रादिरूपाया मनुष्याय चतुष्पदे गोमहिष्यादिरूपाय पशवे च शमसत्सुखं स्यात्।  
 किंचस्मिन्ग्रामे विश्वं सर्वं प्राणिजातं पुष्टं सुखपूर्णमनातुरमुपद्रवरहितं च यथा भवति तथा मयं रुद्राय रुद्रार्थ इमां मतिं पूजाध्यानादिविषयां बुद्धिं प्रभरामहे प्रकर्षेण पोषयामः।  
 कीदृशाय रुद्राय, तवसे बलयुक्तायास्मदषेक्षितं कर्तुं समर्थायेत्यर्थः।  
 कपर्दिने जटाबन्धयुक्ताय तापसवेषायेत्यर्थः क्षयद्वीराय क्षीयमाणप्रतिपक्षपुरुषायान्यथाभानरूपपापविनाशहेतव इत्यर्थः।
 </details>
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/05_mRDA_no.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **मृ॒डा** नो॑ रु॒द्रोत नो॒ **मय॑स् कृधि**  
 क्ष॒यद्-वी॑राय॒ **नम॑सा विधेम** ते ।   
 यच् छञ् च॒ योश् च॒ मनु॑र् **आय॒जे** पि॒ता  
 तद् **अ॑श्याम॒** तव॑ रुद्र॒ **प्रणी॑तौ** ।
 </details>
+
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ चतुर्थमाह– मृडा नो रुद्रोतेति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/05_mRDA_no.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Be merciful to us, O Rudra, and give us delight; With honour let us worship thee, destroyer of men;  
@@ -152,25 +187,35 @@ May we attain that, O Rudra, under thy leadership.
 
 <details><summary>सायण-टीका</summary>
 
-अथ चतुर्थमाह– मृडा नो रुद्रोतेति।  
 हे रुद्र नोऽस्मान्मृडयेह लोके सुखय।  
 उतापि च नोऽस्माकं परलोकेऽपि मयः सुखं कृधि कुरु।  
 क्षयद्वीराय क्षपितास्मदीयपापाय ते तुभ्यं नमसा नमस्कारेण विधेम परिचरेम।  
 पिता पालको मनुः प्रजापतिः शं च सुखं च योश्च दुःखपृथग्भावं च यदायजे यत्किंचित्संपादितवांस्तत्सर्वं वयं हे रुद्र तव प्रणीतौ प्रणये स्नेहातिशये सत्यश्याम प्राप्नुयाम।
 </details>
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/06_mA_no.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 मा नो॑ म॒हान्त॑म् उ॒त मा नो॑ अर्भ॒कम्  
 मा न॒ उक्ष॑न्तम्+++(=प्रोक्षन्तं → युवानम्)+++ उ॒त मा न॑ उक्षि॒तम् ।   
 **मा** नो॑ **वधीᳶ** पि॒तर॒म् मोत मा॒तर॑म्  
 प्रि॒या **मा** न॑स् त॒नुवो रुद्र **री॒रि॒षः॒** ।
 </details>
+
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ पञ्चमीमाह— मा नो महान्तभिति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/06_mA_no.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Neither our great, nor our small,  
@@ -187,7 +232,6 @@ Injure not, O Rudra, our dear bodies [2].
 
 <details><summary>सायण-टीका</summary>
 
-अथ पञ्चमीमाह— मा नो महान्तभिति।  
 हे रुद्र नोऽस्मदीयं महान्तं स्थविरं पुरुषं मा रीरिषो मा हिंसीः।  
 उतापि च नोऽस्मदीयमर्भकं बालं मा रीरिषः।  
 किंच नोऽस्मदीयम् **उक्षन्तं** सेचन-समर्थं युवानं पुरुषं मा रीरिषः।  
@@ -197,18 +241,24 @@ Injure not, O Rudra, our dear bodies [2].
 नोऽस्मदीयाः प्रियाश्च तनुवः शरीराणि मा रीरिषः
 </details>
 </details>
-</div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-मा न॑स् तो॒के+++(=अपत्यमात्रे)+++ तन॑ये॒ मा न॒ आयु॑षि॒  
-मा नो॒ गोषु॒ **मा** नो॒ अश्वे॑षु **रीरिषः** ।   
-वी॒रान् **मा** नो॑ रुद्र **भामि॒तो+++(=क्रुद्धः)+++ व॑धीर्**  
-**ह॒विष्म॑न्तो॒ नम॑सा विधेम** ते ।
-</details>
 </div>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+मा᳓ नस् तोके᳓+++(=अपत्यमात्रे)+++ त᳓नये मा᳓ न आ᳓युषि  
+मा᳓ नो गो᳓षु **मा᳓** नो अ᳓श्वेषु **रीरिषः** ।   
+वीरा᳓न् **मा᳓** नो रुद्र **भामितो᳓+++(=क्रुद्धः)+++ वधीर्**  
+**हवि᳓ष्मन्तो न᳓मसा विधेम** ते ।
+</details>
+
+</div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Harm us not in our children, our descendants, our life; Harm us not in our cattle, in our horses;  
@@ -224,7 +274,6 @@ With oblations lot us serve thee with honour.
 
 <details><summary>सायण-टीका</summary>
 
-अथ षष्ठीमाह— मा नस्तोक इति।  
 हे रुद्र नोऽस्मदीये तोकेऽपत्यमात्रे तनये विशेषतः पुत्रे मा रीरिषो हिंसां मा कुरु।  
 नोऽस्मदीय आयुषि मा रीरिषः नोऽस्मदीयेषु गोषु मा रीरिषः।  
 नोऽस्मदीयेष्वश्वेषु मा रीरिषः।  
@@ -232,18 +281,29 @@ With oblations lot us serve thee with honour.
 वयं हविष्मन्तो हविर्युक्तास्ते तुभ्यं नमसा नमस्कारेण विधेम परिचरेम।
 </details>
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/08_ArAt_te.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **आ॒रात्**+++(=दूरं)+++ ते॑ गो॒-घ्न+++(य्)+++ उ॒त पू॑रुष॒-घ्ने +++(घोर-शरीरे)+++  
 क्ष॒यद्-वी॑राय **सु॒म्नम्** अ॒स्मे+++(=अस्मत्-कृते)+++ ते॑ **अस्तु** ।   
 **रक्षा॑** च नो॒ **अधि॑** च देव **ब्रू॒ह्य्**  
 अधा॑ च न॒श् **शर्म॑ यच्छ** द्वि॒-बर्हाः॑+++(=दृढ)+++ ।
 </details>
+
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ सप्तमीमाह–  २१३७ आरत्ते गोघ्न इति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/08_ArAt_te.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 From afar to thee, slayer of cows, and slayer of men,  
@@ -260,7 +320,6 @@ And grant us protection in abundance.
 
 <details><summary>सायण-टीका</summary>
 
-अथ सप्तमीमाह–  २१३७ आरत्ते गोघ्न इति।  
 **गोघ्ने** गोघ्नस्य **पुरुषघ्ने** पुत्रपौत्रादिषुरुषघ्नस्य  
 **क्षयद्वीराय** क्षपितभृत्यस्य **ते** तवोग्ररूपम्  
 **आराद् अस्तु** दूरे तिष्ठतु।  
@@ -272,19 +331,20 @@ And grant us protection in abundance.
 अध चापि च **द्विबर्हा** द्वयोर्लोकयोर्वर्धयिता त्वं शर्म यच्छसुखं देहि।
 </details>
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/033/11_stuhi_shrutaM.md">
-<details open><summary><h5>११ स्तुहि श्रुतं ...{Loading}...</h5></summary>
 
 **स्तुहि᳓ श्रुत᳓ङ्** +++(रथ-)+++गर्त-स᳓दय्ँ यु᳓वानम्  
 मृग᳓न् न᳓ भीम᳓म्, उपहत्नु᳓म् उग्र᳓म् ।   
 **मृडा᳓** जरित्रे᳓+++(=गायकाय)+++ रुद्र **स्त᳓वानो**+++(=स्तुतो)+++  
 अन्य᳓न् ते अस्म᳓न् **नि᳓ वपन्तु** से᳓नाः ।   
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/033/11_stuhi_shrutaM.md">
-<details open><summary><h5>011 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -521,6 +581,11 @@ _________
 ते त्वदीयाः सेना अस्मदन्यं वैरिणं निवपन्तु विनाशयन्तु
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+श्रुतम्- श्रुतिवेद्यम्। गर्तसदम्- अगाधप्राणे स्थितम्। युवानम्- तरुणम्। मृगं न भीमम्- सिंहमिव  भयङ्करम्। उपहत्नुम्- हन्तारम्। उग्रम्- उद्गूर्णम्। स्तुहि- कीर्तय। रुद्र- हे वेगाधिदैवत। स्तवानः-  स्तुतः सन्। जरित्रे- रसनिष्पादकम्। मृळ- आनन्दय। अस्मदन्यम्- अस्मद्विरोधिनम्। ते- तव।  सेनाः- गणाः। नि वपन्तु- निघ्नन्तु॥११॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -590,7 +655,7 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। जो राज्य बढ़ाने की इच्छा करें, वे सिंह के समान शत्रुओं में भयंकर और श्रेष्ठों में आनन्द देनेवालों का राजकार्य्य और सेना में सत्कार कर और उनको आज्ञा दे न्याय से निरन्तर राज्य की पालना करे ॥११॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। जो राज्य बढ़ाने की इच्छा करें, वे सिंह के समान शत्रुओं में भयंकर और श्रेष्ठों में आनन्द देनेवालों का राजकार्य्य और सेना में सत्कार कर और उनको आज्ञा दे न्याय से निरन्तर राज्य की पालना करे ॥११॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
@@ -617,19 +682,24 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जे राज्य वाढविण्याची इच्छा करतात त्यांनी शत्रूंबरोबर सिंहासारखे भयंकर रीतीने वागावे व श्रेष्ठांना आनंद देणाऱ्या लोकांचा राजकार्यात व सेनेमध्ये सत्कार करावा व न्यायाने निरंतर राज्याचे पालन करावे. ॥ ११ ॥
 </details>
-</details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/09_pari_No.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **परि॑** णो रु॒द्रस्य॑ हे॒तिर् **वृ॑णक्तु॒**  
 परि॑ +++(क्रोध-)+++त्वे॒षस्य॑ दुर्म॒तिर् अ॑घा॒योः +++(वृणक्तु)+++ ।   
 **अव॑ स्थि॒रा** म॒घव॑द्भ्यस् +++(धनूंषि)+++ **तनुष्व॒**  
 मीढ्व॑स् तो॒काय॒ तन॑याय मृडय ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/09_pari_No.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 May the missile of Rudra spare us,  
@@ -646,7 +716,6 @@ O bounteous one, be merciful to our children and descendants.
 
 <details><summary>सायण-टीका</summary>
 
-अथ नवमीमाह— 		परि णो रुद्रस्येति।  
 हन्यतेऽनयेति हेतिरायुधं, रुद्रस्य हेतिर्नोऽस्मान्परिवृणक्तु परितो वर्जितान्करोतु।  
 कदाचिदपिमा विध्यत्वित्यर्थः।  
 **त्वेषस्य** क्रोधोज्ज्वलितस्याघायोरघं पापं प्रहाररूपमिच्छतो रुद्रस्य या दुर्मतिरुग्रबुद्धिः साऽप्य स्मान्पारिवृणक्तु।  
@@ -654,20 +723,21 @@ O bounteous one, be merciful to our children and descendants.
 हे मीढ्वः कामानामभिवर्पक तोकायास्मत्पुत्राय तनयाय तदीयपुत्राय च मृडाय सुखं देहि।
 </details>
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/16/51_mIDhuShTama_shivatama.md">
-<details open><summary><h5>५१ मीढुष्टम शिवतम ...{Loading}...</h5></summary>
 
 मीढु॑ष्टम॒ शिव॑तम  
 शि॒वो न॑स् **सु॒मना॑ भव** ।   
 प॒र॒मे वृ॒क्ष आयु॑धन् **नि॒धाय॒**  
-कृत्तिव्ँ॒ **वसा॑न॒ आ च॑र॒**  
+कृत्ति॒व्ँ **वसा॑न॒ आ च॑र॒**  
 पिना॑कम् **बिभ्र॒द् आ ग॑हि** ।  
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/16/51_mIDhuShTama_shivatama.md">
-<details open><summary><h5>५१ मीढुष्टम शिवतम ...{Loading}...</h5></summary>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 मीढु॑ष्टम। मीढु॑स्त॒मेति॒ मीढुः॑ऽतम। शिव॑त॒मेति॒ शिव॑ऽतम। शि॒वः। नः॒। सु॒मना॒ इति॑ सु॒ऽमनाः॑। भ॒व॒। प॒र॒मे। वृ॒क्षे। आयु॑धम्। नि॒धायेति॑ नि॒ऽधाय॑। कृत्ति॑म्। वसा॑नः। आ। च॒र॒। पिना॑कम्। बिभ्र॑त्। आ। ग॒हि॒। ५१।
@@ -739,19 +809,29 @@ And approach us bearing the spear [4].
 
 भावार्थभाषाः -  सभा व सेनेचे अध्यक्ष इत्यादी आपल्या प्रजेचे कल्याण करणारे असावेत व दुष्टांसाठी अग्नीप्रमाणे तेजस्वी व दाहक असावेत. यामुळे सर्व लोक धार्मिक बनून अधर्माचे आचरण करणार नाहीत.
 </details>
-</details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/10_vikirida_vilohita.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 विकि॑रि-द॒ विलो॑हित॒  
 **नम॑स्** ते **अस्तु** भगवः ।   
 यास् ते॑ स॒हस्रँ॑ हे॒तयो॒  
 ऽन्यम् अ॒स्मन् **न्नि व॑पन्तु॒** ताः ।
 </details>
+
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथैकादशीमाह—  विकिरिदेति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/10_vikirida_vilohita.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 O blood-red scatterer,  
@@ -768,7 +848,6 @@ Smite down another than us.
 
 <details><summary>सायण-टीका</summary>
 
-अथैकादशीमाह—  विकिरिदेति।  
 कीर्यन्ते भक्तानां संनिधौ बहुधा प्रक्षिप्यन्त इति किरावो धनानि तानि ददातीति **किरिदः**।  
 विशेषेण किरिदो **विकिरिदः**।  
 विलोहितो लौहित्यरहितः श्वेत इत्यर्थः।  
@@ -786,18 +865,29 @@ Smite down another than us.
 ते तव सहस्र सहस्रसंख्याका हेतयो यान्यायुधानि सन्ति ताः सर्वा अस्मदन्यं विरोधिनं निवयन्तु विनाशयन्तु।
 </details>
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/11_sahasrANi_sahasradhA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 स॒हस्रा॑णि सहस्र॒धा  
 बा॑हु॒वोस् तव॑ हे॒तयः॑ ।   
 तासा॒म् ईशा॑नो भगवᳶ  
 **परा॒चीना॒** मुखा॑ **कृधि** ॥ [25]
 </details>
+
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ द्वादशीमाह— सहस्राणीति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/11_sahasrANi_sahasradhA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 A thousandfold in thousands  
@@ -814,7 +904,6 @@ The points of those which thou dost rule.
 
 <details><summary>सायण-टीका</summary>
 
-अथ द्वादशीमाह— सहस्राणीति।  
 हे रुद्र तव बाह्बोर्हस्तयोर्हेतयः सहस्रधा सहस्रप्रकाराः सहस्राणि सहस्रसंख्याका विद्यन्ते।  
 धनुः खड्गस्रिशूलमित्येवं जातिभेदेन सहस्रप्रकारत्वम्।  
 एकैस्या जातौ बहवः सहस्रसंख्याकाः हे भगवः षड्गुणोपेत त्वमीशानः समर्थः संस्तासां हेतीनां मुखा मुखानि शल्यानि पराचीना कृघ्यस्गसः पराङ्मुखानि कुरु॥
@@ -822,6 +911,7 @@ The points of those which thou dost rule.
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे चतुर्थप्रपाठके दशमोऽनुवाकः ॥ १० ॥
 </details>
 </details>
+
 </div>
 
 चतुर्थाष्टके पञ्चमप्रपाठके एकादशोऽनुवाकः

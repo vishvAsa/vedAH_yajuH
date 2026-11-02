@@ -12,11 +12,12 @@ ____
 
 पिष्टानि संवपति
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-<details open><summary><h2>देवस्य त्वा सवितुः ...{Loading}...</h2></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
 पू॒ष्णो हस्ता॑भ्याम्…
 </details>
@@ -36,7 +37,7 @@ with the hands of Pusan.
 
 <details><summary>पद-पाठः</summary>
 
-दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
+3M । दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -52,8 +53,9 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँ-व॑पामि ।
@@ -85,8 +87,10 @@ ____
 
 प्रणीता मदन्तीरानीयमानाः प्रतिमन्त्रयते
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/07_sam_Apo.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 सम् +++(प्रणीता-)+++आपो॑ +++(मदन्ती/क्वथित)+++अ॒द्भिर्॑ **अग्मत॒**  
 सम् +++(पिष्टरूपा)+++ ओष॑धयो॒ रसे॑न +++(→परस्पर-जिन्वनम् water cycle ब्राह्मणय् उक्तम्)+++।  
@@ -94,9 +98,12 @@ ____
 मधु॑मती॒र् +++(→ओषधीः)+++ मधु॑मतीभिस् **सृज्यध्वम्**  ॥
 
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/07_sam_Apo.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 The waters have joined with the waters, the plants with sap.  
@@ -125,6 +132,7 @@ Join ye rich ones with the moving ones, sweet ones with the sweet.
 एतदुक्तं भवति - हे आपः रेवत्यो मधुमत्यश्च यूयं जगतीभिर्मधुमतीभिश्च ओषधीभिस्संसृज्यध्वम्, इति । 'आपो वा ओषधीर्जिन्वन्ति' (तै.ब्रा. 3.2.8) इत्यादि, 'आपो वै रेवतीः' (तै.ब्रा. 3.2.8) इत्यादि च ब्राह्मणम् ॥
 </details>
 </details>
+
 </div>
 
 ____
@@ -330,8 +338,9 @@ ____
 
 प्रथयति
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/uru.md">
-<details open><summary><h5>उरु ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒रु प्र॑थस्व ।  
@@ -369,7 +378,12 @@ Be extended wide, let the lord of the sacrifice be extended wide.
 
 9प्रथयति - उर्विति ॥ उरु यथा भवति तथा प्रथस्व । यज्ञपतिः यजमानः अनेन तवोरुप्रथनेन उरु प्रथतां पश्वादिभिः । 'पत्यावैश्वर्ये' (पा.सू. 6.2.18) इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+प्रथस्व प्रसर। 
 </details>
+
 </div>  
 
 ____
@@ -491,8 +505,9 @@ ____
 
 गार्हपत्यम् अभिमन्त्रयते
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/agne_havyam.md">
-<details open><summary><h5>अग्ने हव्यम् ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने॑ ह॒व्यँ र॑क्षस्व ॥ [6]
@@ -518,8 +533,9 @@ O Agni, guard the offering.
 17गार्हपत्यमभिमन्त्रयते - अग्न इति ॥ हे अग्ने गार्हपत्य, इदं हव्यं हवनाय निरुप्तं रक्षस्व । व्यत्ययेनात्मनेपदम् । 'छन्दसि च' (पा.सू. 5.1.67) इति यः ॥
 
 </details>
-</details>
+
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13गार्हपत्यमभिमन्त्रयते - अग्न इति ॥ व्याख्यातम् (तै.सं. 1.1.4) ॥

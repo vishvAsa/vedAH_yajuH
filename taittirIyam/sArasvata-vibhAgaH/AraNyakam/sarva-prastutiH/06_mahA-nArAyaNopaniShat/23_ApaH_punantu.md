@@ -1,19 +1,22 @@
 +++
 title = "२३ आपः पुनन्तु"
-
 +++
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/23_ApaH_punantu/01_ApaH_punantu.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-आपः॑ पुनन्तु पृथि॒वीं  
-पृ॑थि॒वी पू॒ता पु॑नातु॒ माम् ।  
-+++(पृथि॒वीं)+++ पु॒नन्तु॒ ब्रह्म॑ण॒स्पति॒र्  
-ब्रह्म॑ +++(च)+++, +++(सा)+++ पू॒ता पु॑नातु॒ माम् ॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+आ᳓पः पुनन्तु पृथिवीं᳓  
+पृथिवी᳓ पूता᳓ पुनातु मा᳓म् ।  
++++(पृथिवीं)+++ पुन᳓न्तु ब्र᳓ह्मणस्प᳓तिर्  
+ब्र᳓ह्म +++(च)+++, +++(सा)+++ पूता᳓ पुनातु मा᳓म् ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/23_ApaH_punantu/01_ApaH_punantu.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स्नानकाले मन्त्रवदाचमने विनियोगः । 
@@ -43,19 +46,25 @@ title = "२३ आपः पुनन्तु"
 सा च तैः पूता मां पुनातु । 
 </details>
 </details>
-</div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/23_ApaH_punantu/03_yaduchChiShTam_abhojyay.N.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यद् उच्छि॑ष्ट॒म् अभो॑ज्यय्ँ॒  
-यद् वा॒ दुश्-च॑रितं॒ +++(~~दु॒श्चरि॑तं॒~~)+++ मम॑ ।  
-सर्वं॑ पुनन्तु॒ माम् आपो॑  
-ऽस॒ताञ् च॑ प्रति॒ग्रहँ॒+++(←कृद्-उत्तर-पद-प्रकृति-स्वरः)+++ स्वाहा॑ ॥ (38)
+</div>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/23_ApaH_punantu/03_yaduchChiShTam_abhojyay.N.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+य᳓द् उ᳓च्छिष्टम् अ᳓भोज्यय्ँ  
+य᳓द् वा दु᳓श्-चरितं +++(~~दुश्च᳓रितं~~)+++ म᳓म ।  
+स᳓र्वं पुनन्तु मा᳓म् आ᳓पो  
+ऽसता᳓ञ् च प्रतिग्र᳓हँ+++(←कृद्-उत्तर-पद-प्रकृति-स्वरः)+++ स्वा᳓हा ॥ (38)
 
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/23_ApaH_punantu/03_yaduchChiShTam_abhojyay.N.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 यदुच्छि॑ष्ट॒म् अभो॑ज्यय्ँ॒  
@@ -74,4 +83,5 @@ title = "२३ आपः पुनन्तु"
 इति याज्ञिक्युपनिषदि त्रयोविंशोऽनुवाकः ॥
 </details>
 </details>
+
 </div>

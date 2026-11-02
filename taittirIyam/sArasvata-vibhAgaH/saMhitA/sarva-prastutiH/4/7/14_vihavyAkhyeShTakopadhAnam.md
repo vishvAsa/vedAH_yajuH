@@ -349,6 +349,11 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ द्वितीयामाह– मम देबा इति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/14_vihavyAkhyeShTakopadhAnam/23_mama_devA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
@@ -360,7 +365,6 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 
 <details><summary>सायण-टीका</summary>
 
-अथ द्वितीयामाह– मम देबा इति।  
 सर्वे देवा मम विहवे मदीययज्ञे सन्तु तिष्ठन्तु ।  
 देवा एव विशेष्यन्ते – इन्द्रावन्त इन्द्रयुक्ता मरुतो मरुद्गणा विष्णुरग्निश्चेत्येषवाद्याः।  
 इदमुरु विस्तीर्णमन्तरिक्षं मम गोपं रक्षकमस्तु।  
@@ -383,6 +387,11 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ तृतीयामाह– मयि देवा इति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/14_vihavyAkhyeShTakopadhAnam/26_mayi_devA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
@@ -394,7 +403,6 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 
 <details><summary>सायण-टीका</summary>
 
-अथ तृतीयामाह– मयि देवा इति।  
 एते देवा मयि यजमाने द्रविणं धनमायजन्तां सर्वतः संपादयन्तु।  
 आशीराशास्यमानं फलं मय्यस्तु यजमाने सिद्धं भवतु।  
 तथा देवहूतिर्देवानामाह्वानं च मयि भवतु।  
@@ -781,6 +789,11 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ षष्ठीमाह– अग्निर्मन्युमिति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/14_vihavyAkhyeShTakopadhAnam/51_agnir_manyum.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
@@ -792,7 +805,7 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 
 <details><summary>सायण-टीका</summary>
 
-अथ षष्ठीमाह– अग्निर्मन्युमिति ।   अयमग्निर्मन्युं वैरिणां कोपं प्रतिनुदन्निराकुर्वन्पुरस्ता दस्माकं पुरतो गच्छत्विति शेषः ।   हेऽग्ने त्वमदव्यः केनाप्यहिंसितो गोपा रक्षणसमर्थः सन्नोऽस्मान्परिपत्हि सर्वतः पालय ।   तव पालने सति **ते** वैरिणः **प्रत्यञ्चः** प्रतिमुखाः विमुखा सन्तो **निगुतो** नितरां गमनशीलाः पलायनपराः पुनर्यन्तु भूयो भूयो यत्र क्वापि गच्छन्तु।   **एषां** वैरिणां **चित्तम्** अन्तःकरणं प्रबुधा **ऽमा विनेशत्** प्रबोधेन सह विनश्यतु।
+अयमग्निर्मन्युं वैरिणां कोपं प्रतिनुदन्निराकुर्वन्पुरस्ता दस्माकं पुरतो गच्छत्विति शेषः ।   हेऽग्ने त्वमदव्यः केनाप्यहिंसितो गोपा रक्षणसमर्थः सन्नोऽस्मान्परिपत्हि सर्वतः पालय ।   तव पालने सति **ते** वैरिणः **प्रत्यञ्चः** प्रतिमुखाः विमुखा सन्तो **निगुतो** नितरां गमनशीलाः पलायनपराः पुनर्यन्तु भूयो भूयो यत्र क्वापि गच्छन्तु।   **एषां** वैरिणां **चित्तम्** अन्तःकरणं प्रबुधा **ऽमा विनेशत्** प्रबोधेन सह विनश्यतु।
 </details>
 </details>
 
@@ -810,6 +823,11 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ सप्तमीमाह– धाता धातृणामिति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/14_vihavyAkhyeShTakopadhAnam/54_dhAtA_dhAtRNAm.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
@@ -821,7 +839,7 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 
 <details><summary>सायण-टीका</summary>
 
-अथ सप्तमीमाह– धाता धातृणामिति।   घातृणां जगत्कर्तॄणां दक्षप्रजापत्यादीनामपि धाता यः  स्रष्टा भुवनस्य लोकस्य पतिः पालकश्च।   तथाऽश्विनोमोभावश्विनौ बृहस्पतिश्चेत्येते देवा नोऽस्मदीयमिमं यज्ञं यजमानं च न्यर्थात्फलवैगुण्यलक्षणाद्वैयर्थ्यात्पान्तु रक्षन्तु।   कीदृशं यज्ञम्, देवं तत्तन्मन्त्रव्यवहारयुक्तं सवितारं महाफलजनकमभिमातिषाहं पापलक्षणस्याभिमातेररेरमिभवितारम्।
+घातृणां जगत्कर्तॄणां दक्षप्रजापत्यादीनामपि धाता यः  स्रष्टा भुवनस्य लोकस्य पतिः पालकश्च।   तथाऽश्विनोमोभावश्विनौ बृहस्पतिश्चेत्येते देवा नोऽस्मदीयमिमं यज्ञं यजमानं च न्यर्थात्फलवैगुण्यलक्षणाद्वैयर्थ्यात्पान्तु रक्षन्तु।   कीदृशं यज्ञम्, देवं तत्तन्मन्त्रव्यवहारयुक्तं सवितारं महाफलजनकमभिमातिषाहं पापलक्षणस्याभिमातेररेरमिभवितारम्।
 </details>
 </details>
 
@@ -1538,6 +1556,11 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ दशमीमाह– अर्वाञ्चमिन्द्रमिति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/14_vihavyAkhyeShTakopadhAnam/95_arvAncham_indram.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
@@ -1549,7 +1572,7 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 
 <details><summary>सायण-टीका</summary>
 
-अथ दशमीमाह– अर्वाञ्चमिन्द्रमिति।   य इन्द्रो गोजित्परकीयगवां जेता, तथा यो धनजित्परकीयधनस्य जेता, योऽश्वजीत्परकीयाश्वानां जेताऽस्ति, अर्वाञ्चमस्मदभिमुखं तमिन्द्रममुतोऽमुं यज्ञं निमित्तीकृत्य हवामह आह्वयामः।   हे इन्द्र विहवे विविधाह्वाने सति नोऽस्मदीयमिमं यज्ञं जुषस्व सेवस्य।   हरिनामकावश्वौ यस्य स हरिवान्।   हे हरिव इन्द्र त्वामस्य यजमानस्य **मेदिनं** स्नेहवन्तं कुर्मः।
+य इन्द्रो गोजित्परकीयगवां जेता, तथा यो धनजित्परकीयधनस्य जेता, योऽश्वजीत्परकीयाश्वानां जेताऽस्ति, अर्वाञ्चमस्मदभिमुखं तमिन्द्रममुतोऽमुं यज्ञं निमित्तीकृत्य हवामह आह्वयामः।   हे इन्द्र विहवे विविधाह्वाने सति नोऽस्मदीयमिमं यज्ञं जुषस्व सेवस्य।   हरिनामकावश्वौ यस्य स हरिवान्।   हे हरिव इन्द्र त्वामस्य यजमानस्य **मेदिनं** स्नेहवन्तं कुर्मः।
 </details>
 </details>
 

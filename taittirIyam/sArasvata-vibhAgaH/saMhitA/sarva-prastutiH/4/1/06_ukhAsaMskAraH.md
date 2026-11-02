@@ -1,6 +1,5 @@
 +++
 title = "०६ उखासंस्कारः"
-
 +++
 १४ शख्गुमत्यनुष्टुप्,
 १८ अनुष्टुप्, १५-१७८ गायत्री
@@ -260,15 +259,21 @@ title = "०६ उखासंस्कारः"
 
 कल्पः — ‘मित्रैतामुखां पचेति पच्यमानां तिसृभिर्मैत्रीभिरुपचरति’ इति।    
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/02_mitraitAm_ukhAm.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-मित्रै॒ताम् उ॒खाम् **प॑च**+ए॒षा मा भे॑दि ।  
-ए॒तान्ते॒ **परि॑ ददा॒म्य्** अभि॑त्त्यै ।
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/02_mitraitAm_ukhAm.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+मि᳓त्रैता᳓म् उखा᳓म् **पच**+एषा᳓ मा᳓ भेदि ।  
+एता᳓न्ते **प᳓रि ददाम्य्** अ᳓भित्त्यै ।
+
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/02_mitraitAm_ukhAm.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 मित्रै॒तामु॒खाम्प॑चै॒षा मा भे॑दि । ए॒तान्ते॒ परि॑ ददा॒म्यभि॑त्त्यै ।
@@ -283,17 +288,29 @@ title = "०६ उखासंस्कारः"
 एतामुखामभित्यै भेदाभावाय ते तुभ्यं परिददामि परित्राणाय ददामि।
 </details>
 </details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/03_abhImAm_mahinA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒भीमाम् [23]  म॑हि॒ना दिव॑म्  
-मि॒त्रो **ब॑भूव** स॒प्रथाः॑ ।  
-उ॒त श्रव॑सा पृथि॒वीम् ।
-</details>
 </div>
+
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/03_abhImAm_mahinA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अभी᳓मा᳓म् [23]  महिना᳓ दि᳓वम्  
+मित्रो᳓ **बभूव** सप्र᳓थाः ।  
+उत᳓ श्र᳓वसा पृथिवी᳓म् ।
+
+</details>
+
+</div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ द्वितीयामाह— अभिमामिति।
+</details>
+
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/03_abhImAm_mahinA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अ॒भीमाम् [23]  म॒हि॒ना दिव॑म्मि॒त्रो ब॑भूव स॒प्रथाः॑ ।  
@@ -302,20 +319,27 @@ title = "०६ उखासंस्कारः"
 
 <details><summary>सायण-टीका</summary>
 
-अथ द्वितीयामाह— अभिमामिति।   मित्र इमामुखामभिबभूवाभितः प्राप्तवान् ।   कीदृशो मित्रः, सप्रथाः सविस्तारः प्रचुरकीर्तिरित्यर्थः ।   कीदृशीमिमां, महिनां दिवं महिम्ना द्युलोक-सदृशीम् ।   उतापि च श्रवसा पृथिवीं श्रवणेन पृथिवीसदृशीम्।
+मित्र इमामुखामभिबभूवाभितः प्राप्तवान् ।   कीदृशो मित्रः, सप्रथाः सविस्तारः प्रचुरकीर्तिरित्यर्थः ।   कीदृशीमिमां, महिनां दिवं महिम्ना द्युलोक-सदृशीम् ।   उतापि च श्रवसा पृथिवीं श्रवणेन पृथिवीसदृशीम्।
 </details>
 </details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-मि॒त्रस्य॑ चर्षणी॒+++(मनुष्य)+++-**धृतः॒**  
-श्रवो॑+++(=श्रव्यो, शाकले अवो)+++ दे॒वस्य॑ **सान॒सिम्**+++(←सन् दाने)+++ ।  
-**स॒त्यं** चि॒त्र-श्र॑वस्तमम् ॥
-</details>
 </div>
+
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+मित्र᳓स्य चर्षणी+++(मनुष्य)+++-**धृ᳓तः**  
+श्र᳓वो+++(=श्रव्यो, शाकले अवो)+++ देव᳓स्य **सानसि᳓म्**+++(←सन् दाने)+++ ।  
+**सत्यं᳓** चित्र᳓-श्रवस्तमम् ॥
+
+</details>
+
+</div>
+
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 मि॒त्रस्य॑ चर्षणी॒धृत॒श्श्रवो॑ दे॒वस्य॑ सान॒सिम् ।  
@@ -324,7 +348,7 @@ title = "०६ उखासंस्कारः"
 
 <details><summary>सायण-टीका</summary>
 
-अथ तृतीयामाह— मित्रस्येति ।   चर्षणीधृतो मनुष्याणां धारयितुर्मित्रस्य देवस्य श्रवः श्रोतुं योग्यं यशो महदस्तीति शेषः।   सानसिं फलदानशीलं द्युम्नं द्रविणप्रदं चित्रश्रवस्तमं चित्रं श्रवः कीर्तिर्यस्यासौ चित्रश्रवाः, अतिशयेन तादृशस्तमेतादृशमुखारूपं स मित्रः पचत्विति शेषः।  
+चर्षणीधृतो मनुष्याणां धारयितुर्मित्रस्य देवस्य श्रवः श्रोतुं योग्यं यशो महदस्तीति शेषः।   सानसिं फलदानशीलं द्युम्नं द्रविणप्रदं चित्रश्रवस्तमं चित्रं श्रवः कीर्तिर्यस्यासौ चित्रश्रवाः, अतिशयेन तादृशस्तमेतादृशमुखारूपं स मित्रः पचत्विति शेषः।
 देवान्तरपरित्यागेन मित्रदेवताकमन्त्रस्वीकारे कारणं दर्शयति— “वारुण्युखाऽसीद्धा मैत्रियोपैति शान्त्यै” (सं. का. ५ प्र. १ अ. ७) इति।  
 अभिद्धा प्रज्वलिता येयमुखा सेयमुग्रत्वाद्वारुणी, तस्या मैत्र्यच शान्तिर्भ-वति।
 </details>
@@ -334,21 +358,29 @@ title = "०६ उखासंस्कारः"
 **मित्रस्य** **देवस्य** मित्रणादिकृतः **चर्षणीधृतः** मनुष्याणां धारयितुः **श्रवः** अन्नं यशो वा **सानसिं** सननीयं सर्वेषां, देयं वा सर्वेभ्यः । व्यत्ययेन 'स्वमोर्नपुंसकात्' इति लुक् ङि प्रवर्तते । **सत्यम्** अविनश्वरं **चित्रश्रवस्तमं** अतिशयेन चित्रं चायनीयं श्रवणमस्येति चायनीयः । यशस्तमं वा । तस्मात्त्वामेव यजामहे इति ॥
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः – “पक्वां देवस्त्वा सवितोद्वपत्वित्युद्वास्य” इति।   
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/05_devastvA_savitodvapatu.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-दे॒वस्त्वा॑ सवि॒तोद्व॑पतु  
-सुपा॒णिस् स्व॑ङ्गु॒रिः ।  
-सु॒बा॒हुर् उ॒त शक्त्या॑ ।
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/05_devastvA_savitodvapatu.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+देव᳓स् त्वा सवितो᳓द्वपतु  
+सु-पाणि᳓स् स्व्-अङ्गुरिः᳓ ।  
+सु-बाहु᳓र् उत᳓ श᳓क्त्या ।
+
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/05_devastvA_savitodvapatu.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 दे॒वस्त्वा॑ सवि॒तोद्व॑पतु सुपा॒णिस्स्व॑ङ्गु॒रिः ।  
@@ -361,7 +393,9 @@ title = "०६ उखासंस्कारः"
 १८१० सवित्रा प्रेरितः  सन्नेनां ब्रह्मणा मन्त्रेण देवताभिश्च सहो (द्वपत्यु) द्वपनं कृतवान्भवति।
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“अपद्यमाना पृथिव्याशा दिश आ पृणेत्युत्तरतः सिकतासु प्रति-ष्ठाप्य” इति।   

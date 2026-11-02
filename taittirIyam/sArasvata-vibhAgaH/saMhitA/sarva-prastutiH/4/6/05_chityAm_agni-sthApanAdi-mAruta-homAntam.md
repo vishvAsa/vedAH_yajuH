@@ -1,6 +1,5 @@
 +++
 title = "०५ चित्याम् अग्नि-स्थापनादि-मारुत-होमान्तम्"
-
 +++
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -29,18 +28,18 @@ title = "०५ चित्याम् अग्नि-स्थापना�
 
 - अथ गमनमन्त्राः - प्राचीमिति त्रिष्टुभौ । विक्रमस्वेति च गायत्री । 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/17/66_prAchImanu_pradisham.md">
-<details open><summary><h5>६६ प्राचीमनु प्रदिशम् ...{Loading}...</h5></summary>
 
 प्राची॒म् अनु॑ प्र॒दिश॒म् **प्रेहि॑** वि॒द्वान्  
 अ॒ग्नेर् अ॑ग्ने **पु॒रो** अ॑ग्निर् **भवे॒ह** ।  
 विश्वा॒ आशा॒ **दीद्या॑नो॒** **वि भा॒ह्य्**  
 ऊर्ज॑न् नो **धेहि** द्वि॒पदे॒ चतु॑ष्पदे ।  
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/17/66_prAchImanu_pradisham.md">
-<details open><summary><h5>६६ प्राचीमनु प्रदिशम् ...{Loading}...</h5></summary>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 प्राची॑म्। अनु॑। प्र॒दिश॒मिति॑ प्र॒ऽदिश॑म्। प्र। इ॒हि॒। वि॒द्वा॒न्। अ॒ग्नेः। अ॒ग्ने॒। पु॒रोऽअ॑ग्नि॒रिति॑ पु॒रःऽअ॑ग्निः। भ॒व॒। इ॒ह। विश्वाः॑। आशाः॑। दीद्या॑नः। वि। भा॒हि॒। ऊर्ज्ज॑म्। नः॒। धे॒हि॒। द्वि॒ऽपदे॑। चतु॑ष्पदे॑। चतुः॑पद॒ इति॒ चतुः॑ऽपदे। ६६।
@@ -108,19 +107,29 @@ Confer strength on our bipeds and quadrupeds.
 
 भावार्थभाषाः -  जे पूर्ण ब्रह्मचर्य पालन करतात व सर्व विद्यांचा अभ्यास करून युद्धविद्या जाणतात ते सर्वांच्या प्रशंसेस पात्र ठरतात असे लोक, माणसे व पशूंच्या खाण्याच्या पदार्थांची वृद्धी करून त्यांचे रक्षण करतात व आनंदात राहतात.
 </details>
-</details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/02_kramadhvam_agninA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **क्रम॑ध्वम्** अ॒ग्निना॒ नाक॒म्  
 उख्यँ॒ हस्ते॑षु॒ **बिभ्र॑तः** ।  
 दि॒वᳶ पृ॒ष्ठँ सुव॑र् **ग॒त्वा**  
 **मि॒श्रा** दे॒वेभि॑र् **आद्ध्वम्**+++(=उपविशत)+++ ।
 </details>
+
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ द्वितीयामाह— क्रमध्वमग्निनेति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/02_kramadhvam_agninA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Mount ye, with Agni, to the vault,  
@@ -137,23 +146,33 @@ Do ye eat, mingled with the gods.
 
 <details><summary>सायण-टीका</summary>
 
-अथ द्वितीयामाह— क्रमध्वमग्निनेति।  
 हे ऋत्विग्-यजमाना **नाकं** स्वर्गसाधनमुख्यमुखायां पूर्वं संपादितमग्निं हस्तेषु **बिभ्रतो** धारयन्तस् तेनाग्निना सह **क्रमध्वम्** अग्नेर् उपरि षादान्विक्षिपत।  
 ततो दिवः पृष्ठमाकाशस्योपरि वर्तमानं **सुवर् गत्वा** स्वर्गलोकं प्राप्य **देवेभिर्मिश्रा** देवैरेकीभूताः सन्तः **आध्वम्** उपविशत।
 </details>
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/03_pRthivyA_aham.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 पृ॒थि॒व्या अ॒हम् उद् अ॒न्तरि॑क्ष॒म् **आरु॑हम्**  
 अ॒न्तरि॑क्षा॒द् दिव॒म् **आरु॑हम्** ।  
 दि॒वो नाक॑स्य पृ॒ष्ठात्  
 सुव॒र् ज्योति॑र् **अगाम्** [21]  अ॒हम् ।
 </details>
+
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ तृतीयामाह— पृथिव्या अहमिति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/03_pRthivyA_aham.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 From earth have I mounted to the atmosphere;  
@@ -170,24 +189,34 @@ Have I attained the heaven, the light [1].
 
 <details><summary>सायण-टीका</summary>
 
-अथ तृतीयामाह— पृथिव्या अहमिति।  
 अहं यजमानः पृथिव्या उद्वव एतदन्तरिक्षमारुहमारूढोऽस्मि।  
 तस्मादेवान्तरिक्षादुद्धतो दिवमारुहं द्युलोकमारूढोऽस्मि।  
 दिवो द्युलोकसंबन्धी नाको दुःखरहितो यः प्रदेशस्तस्य पृष्ठादुपरिष्टात्स्वर्गलोकवासिज्योतिर्मण्डलमादित्यरूपमहमगां प्राप्तोऽस्गि यद्वा प्राप्स्यामि।
 </details>
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/04_suvar_yanto.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 सुव॒र् **यन्तो॒** **नापे॑क्षन्त॒**  
 **आ** द्याँ **रो॑हन्ति॒** रोद॑सी ।  
 य॒ज्ञय्ँ ये वि॒श्वतो॑-धारँ॒  
 सु-वि॑द्वाँसो **वितेनि॒रे** ।
 </details>
+
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ चतुर्थीमाह– सुवर्यन्तो नेति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/04_suvar_yanto.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Going to the heaven, they look not away;  
@@ -204,25 +233,35 @@ The sacrifice, streaming on every side.
 
 <details><summary>सायण-टीका</summary>
 
-अथ चतुर्थीमाह– सुवर्यन्तो नेति।  
 **ये** यजमानाः **सुविद्वांसः** सुष्ठु कमानुष्ठानप्रकारं जानन्तो **विश्वतो-धारं** सर्वस्य जगतो धारणहेतुं यमाग्निं **वितेनिरे** विस्तरेणानुतिष्ठन्ति ते यजमाना  
 **द्याम् अन्तरिक्षम् आरोहन्ति**।  
 तथा **रोदसी** द्यावा-पृथिव्याव् **आरोहन्ति**।  
 ततः **सुवर्यन्तः** स्वर्गनिवासमादित्यमण्डलं प्राप्नुवन्तो ऽन्यत्किमपि स्थानं नापेक्षन्ते ।
 </details>
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/05_agne_prehi.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अग्ने॒ **प्रेहि॑** प्रथ॒मो दे॑वय॒ताञ्  
 चक्षु॑र् दे॒वाना॑म् उ॒त मर्त्या॑नाम् ।  
 **इय॑क्षमाणा॒** भृगु॑भिस् स॒जोषा॒स्  
 सुव॑र् **यन्तु॒** यज॑मानास् स्व॒स्ति ।
 </details>
+
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ पञ्चमीमाह– अग्ने प्रेहीति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/05_agne_prehi.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 O Agni, advance, first of worshippers,  
@@ -239,30 +278,32 @@ Let the sacrificers go to heaven, to prosperity.
 
 <details><summary>सायण-टीका</summary>
 
-अथ पञ्चमीमाह– अग्ने प्रेहीति।  
 देवानात्मन इच्छतो देवयन्तो यजमानस्तेषामुपकाराय हेऽग्ने त्वं प्रथमः प्रेहि पुरतो गच्छ।  
 यतस्त्वं देवानां मनुष्याणां च चक्षुःस्थां नीयः।  
 लोके हि गच्छतः पुरुषस्य दृष्टिः पुरतो याति।  
 इयक्षमाणा यष्टुमि  २१८९ च्छन्तो यजमाना भृगुभिः सजोषा अनुष्ठानपरैर्भृगुनामकैर्मुनिभिः समानप्रियाः सन्तः स्वस्ति कर्मक्षमा यथा भवन्ति तथा सुवर्यन्तु।
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —    “नक्तोषासाऽग्ने सहस्राक्षेति द्वाभ्यां संहिताभ्यां दध्नः पूर्णामौदुम्वरीं स्वयमातृण्णायां जुहोति” इति।  
 तत्र प्रथमामाह— नक्तोषासेति।  
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/12/02_naktoShAsA_samanasA.md">
-<details open><summary><h5>०२ नक्तोषासा समनसा ...{Loading}...</h5></summary>
 
 नक्तो॒षासा॒ स-म॑नसा॒ विरू॑पे  
 **धा॒पये॑ते॒** शिशु॒म् एकँ॑ समी॒ची ।  
 द्यावा॒-क्षामा॑ रु॒क्मो अ॒न्तर् **विभा॑ति**  
 दे॒वा अ॒ग्निन् **धा॑रयन्** द्रविणो॒-दाः ।  
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/12/02_naktoShAsA_samanasA.md">
-<details open><summary><h5>०२ नक्तोषासा समनसा ...{Loading}...</h5></summary>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 नक्तो॒षासा॑। नक्तो॒षसेति॒ नक्तो॒षसा॑। सम॑न॒सेति॒ सऽम॑नसा। विरू॑पे॒ इति॒ विऽरू॑पे। धा॒पये॑ते॒ऽइति॑ धा॒पये॑ते। शिशु॑म्। एक॑म्। स॒मी॒ची इति॑ सम्ऽई॒ची। द्यावा॒क्षामा॑। रु॒क्मः। अ॒न्तः। वि। भा॒ति॒। दे॒वाः। अ॒ग्निम्। धा॒र॒य॒न्। द्र॒वि॒णो॒दा इति॑ द्रविणः॒ऽदाः। २।
@@ -344,19 +385,29 @@ ______________
 _______________
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. या सृष्टीत रात्र व दिवस वेगवेगळ्या रूपांत विद्यमान आहेत व जसे विद्युत सर्व पदार्थांत व्याप्त असते किंवा जशी भूमी व प्रकाश अति सहनशील असतात तसे माणसांनी विचारपूर्वक अत्यंत शुभगुणयुक्त बनून पुत्राप्रमाणे जगाचे पालन करावे.
 </details>
-</details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/06_agne_sahasrAkhSha.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अग्ने॑ सहस्राक्ष, शतमूर्धञ्  
 छ॒तन्ते॑ प्रा॒णास्, स॒हस्र॑म् अपा॒नाः ।  
 त्वँ सा॑ह॒स्रस्य॑ रा॒य **ई॑शिषे॒**  
 तस्मै॑ ते **विधेम॒** वाजा॑य॒ स्वाहा॑ ।
 </details>
+
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ द्वितीयामाह— अग्ने सहस्राक्षेति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/06_agne_sahasrAkhSha.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 O Agni, of a thousand eyes [2], of a hundred heads,  
@@ -374,7 +425,6 @@ To thee as such let us pay homage for strength, hail!
 
 <details><summary>सायण-टीका</summary>
 
-अथ द्वितीयामाह— अग्ने सहस्राक्षेति।  
 शतसहस्त्रशब्दा अपरिमिता (तत्वा) भिप्रायेण।  
 विश्वश्चक्षुरित्यादिमन्त्रोक्तमूर्तिरूपत्वेनायमग्निरत्र स्तूयते।  
 तस्मादक्षिमूर्धप्राणापाना हेऽग्ने तव बहबः तथा त्वं साहस्रस्य बहुसहस्रसमूहषरिमितस्य रायो धनस्येशिषे प्रभुर्भवसि।  
@@ -386,7 +436,9 @@ To thee as such let us pay homage for strength, hail!
 सु॒प॒र्णो॑ऽसि ग॒रुत्मा॑न्पृथि॒व्याँ सी॑द पृ॒ष्ठे पृ॑थि॒व्यास्सी॑द भा॒साऽन्तरि॑क्ष॒मा पृ॑ण॒ ज्योति॑षा॒ दिव॒मुत्त॑भान॒ तेज॑सा॒ दिश॒ उद्दृँ॑ह ।
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  
@@ -449,17 +501,27 @@ with thy brilliance make firm the quarters.
 ज्योतिषा स्वकीयेन सामर्थ्येन दिवं द्युलोकमुत्तभानोर्ध्वं स्तम्भितं कुरु।  
 तथा तेजसा स्वकीयेन सामर्थ्थेन दिशः प्राच्यादिका उद्दृंहोत्कर्षेण दृढी कुरु।  
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-**आ॒जुह्वा॑नस्**+++(=हूयमानः)+++ सु॒-प्रती॑कᳶ पु॒रस्ता॒द्  
-अग्ने॒ स्वाय्ँ योनि॒म् **आ सी॑द** सा॒ध्या+++(→ साधु॒या माध्यन्दिने)+++ ।  
-अ॒स्मिन्त् स॒ध-स्थे॒, अध्य् उत्त॑रस्मि॒न्   
-विश्वे॑ देवाः॒! यज॑मानश् च **सीदत** ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+**आजु᳓ह्वानस्**+++(=हूयमानः)+++ सु-प्र᳓तीकᳶ पुर᳓स्ताद्  
+अ᳓ग्ने स्वाय्ँ᳓ यो᳓निम् **आ᳓ सीद** साध्या᳓+++(→ साधुया माध्यन्दिने)+++ ।  
+अस्मि᳓न्त् सध᳓-स्थे, अ᳓ध्य् उ᳓त्तरस्मिन्   
+वि᳓श्वे देवाः! य᳓जमानश् च **सीदत** ।
 </details>
+
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ तृतीयामाह— आजुह्वानः सुप्रतीक इति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Receiving offering, fair of face, O Agni;  
@@ -476,30 +538,31 @@ O All-gods [3], do ye sit with the sacrificer.
 
 <details><summary>सायण-टीका</summary>
 
-अथ तृतीयामाह— आजुह्वानः सुप्रतीक इति।  
 हे **ऽग्ने** त्वम् **आजुह्वान** आभिमुख्येन हूयमानः **सुप्रतीकः** सुमुखः सन्  
 **पुरस्तात्** पूर्वस्यां दिशि **साध्या** साध्वीं समीचीनां  
 स्वां योनिं स्वकीयं स्थानमासीदाऽऽगत्य प्राप्नुहि।  
 हे विश्वे देवा यूयं यजमानश् चास्मिन् पुरोवर्तिनि सधस्थेऽग्निना सह स्थातुं योग्येऽध्युत्तरस्मिन्नधिकमुत्कृष्टे स्थाने सीदतोपविशत।  
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “प्रेद्धो अग्ने दीदिहि पुरो न इत्यौदुम्बरीं समिधमादधाति” इति।  
 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/001/03_preddho_agne.md">
-<details open><summary><h5>०३ प्रेद्धो अग्ने ...{Loading}...</h5></summary>
 
 **प्रे᳓द्धो** अग्ने **दीदिहि** पुरो᳓ नो᳓  
 ऽजस्रया सूर्म्या᳙+++(=ज्वलल्-लोह-स्थूणया)+++ यविष्ठ ।  
 त्वाँ᳓ **श᳓श्वन्त** **उ᳓प यन्ति** वा᳓जाः ।  
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/001/03_preddho_agne.md">
-<details open><summary><h5>003 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -663,6 +726,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यविष्ठ- युवतम। प्र- प्रकर्षेण। इद्धः- उद्दीपितः। नः- अस्माकम्। पुरः- पुरतः प्रत्यक्षतः।  अजस्रया- नित्यया। सूर्म्या- ज्वालया। दीदिहि- दीप्तो भव। त्वाम्। शश्वन्तः- बहूनि। वाजाः-  हव्यानि। उपयन्ति- उपगच्छन्ति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यविष्ठ** युवतम हे **अग्ने** **प्रेद्धः** प्रकर्षेण समिद्धस्त्वम् **अजस्रया** अशरणशीलया **सूर्म्या** ज्वालया **नः** अस्मदर्थं **पुरः** पुरस्तात् आहवनीयायतने **दीदिहि** दीप्यस्व । **त्वां** **शश्वन्तः** बहवः **वाजाः** अन्नानि हवींषि **उप** **यन्ति** उपगच्छन्ति ।
@@ -770,25 +838,26 @@ Entflammt, o Agni, strahle uns vor Augen mit deinem Licht, das nie verlischt, o 
 
 भावार्थभाषाः -  हे विद्वानांनो ! जो अग्नी अनादी स्वरूपाने प्रकृतीच्या अवयवात विद्युतरूपाने व्याप्त आहे, ज्याच्या विद्येमुळे पुष्कळ व्यवहार सिद्ध होतात त्याला निरंतर प्रकाशित करून धनधान्य इत्यादी ऐश्वर्य प्राप्त करा. ॥ ३ ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “विधेम ते परमे जन्मन्नग्न इति वैकङ्कतीम्” इति।  
 समिधमादधातीत्यनुवर्तते।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/009/03_vidhema_te.md">
-<details open><summary><h5>०३ विधेम ते ...{Loading}...</h5></summary>
 
 **विधे᳓म** ते परमे᳓ ज᳓न्मन्न् अग्ने  
 **विधे᳓म** स्तो᳓मैर् अ᳓वरे सध᳓-स्थे ।  
 य᳓स्माद् यो᳓नेर् उदा᳓रिथा+++(←ऋ गतौ)+++ **य᳓जे** तं᳓  
 प्र᳓ त्वे᳓ हवीं᳓षि **जुहुरे स᳓मिद्धे** ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/009/03_vidhema_te.md">
-<details open><summary><h5>003 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -1009,6 +1078,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। ते- तुभ्यम्। परमे जन्मन्- दिवि। विधेम- परिचरेम। स्तोमैः- मन्त्रैः। अवरे सधस्थे-  भूमौ। विधेम- परिचरेम। यस्मात्। योनेः- मूलात्। उदारिथ- उद्गतः। तम्। यजे- पूजयामि।  समिद्धे- सम्यगुद्दीपिते। त्वे- त्वयि। हवींषि- चरुपुरोडाशध्यानभावनादिहव्यानि। प्र- प्रकर्षेण।  जुहुरे- जुह्वति॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेअग्ने परमेउत्कृष्टेजन्मन् जायतेप्रादुर्भवत्यस्मिन्नितिजन्मस्थानन्द्यौः तस्मिन्द्युलोकेवस्थिताय- तेतुभ्यंविधेम स्तुतिभिःपरिचरेम अवरेद्युलोकादधस्तनेसधस्थेन्तरिक्षेस्थितायतुभ्यंस्तोमैः स्तोत्रै- र्विधेम परिचरेम यद्यस्माद्योनेः प्रुथिवीरूपातस्थानात्त्वम् उदास्थि उद्गतोसि प्रादुर्भूतोसि तम्पृथिवी- प्रदेशंयजेपूजयामि तत्रहिसमिद्धेसमिद्भिःसमिध्यमानेत्वेत्वयि हवींषिपुरोडाशादीनि प्रजुहुरेअध्व- र्य्वादयः प्रजुह्वति जुहोतोर्लिटिरूपम् ॥ ३ ॥
@@ -1124,23 +1198,29 @@ Wir huld'gen, Agni, dir in höchster Heimath, mit Liedern dir im untersten Berei
 
 भावार्थभाषाः -  जे शुभ कर्म करतात त्यांना श्रेष्ठ जन्म मिळतो. जे अधर्माचरण करतात त्यांना नीच जन्म प्राप्त होतो. विद्वान लोक प्रज्वलित अग्नीत सुगंधी पदार्थ टाकून जगावर उपकार करतात तसे ते सर्वांकडून या जन्मी किंवा जन्मजन्मान्तरी उपकृत होतात. ॥ ३ ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “ताँ सवितुर्वरेण्यस्य चित्रामिति शमीमयीम्” इति।
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/08_tAM_savitur.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ताँ स॑वि॒तुर् वरे॑ण्यस्य चि॒त्राम्   
 **आ** ऽहव्ँ **वृ॑णे** सुम॒तिव्ँ वि॒श्व-ज॑न्याम् ।  
 याम॑स्य॒ कण्वो॒ **अदु॑ह॒त्** प्रपी॑नाँ  
 स॒हस्र॑धाराम्  पय॑सा म॒हीङ् गाम् ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/08_tAM_savitur.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 ताँ स॑वि॒तुर्वरे॑ण्यस्य चि॒त्रामाहव्ँवृ॑णे सुम॒तिव्ँवि॒श्वज॑न्याम् ।  
@@ -1159,22 +1239,29 @@ Wir huld'gen, Agni, dir in höchster Heimath, mit Liedern dir im untersten Berei
 विश्वं जन्यमुत्पाद्यं यस्याः  सा विश्वजन्या तां जगदुत्पादनसमर्थामित्यर्थः।
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “द्वादशगृहीतेन स्त्रुचं पूरयित्वा सप्त ते अग्ने समिधः सप्त जिह्णा इति सप्तवत्या पूर्णाहुतिं जुहोति” इति।  
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-स॒प्त ते॑ अग्ने स॒मिध॑स्, स॒प्त जि॒ह्वास्  
-स॒प्त [11]  ऋष॑यस्, स॒प्त धाम॑ प्रि॒याणि॑ ।   
-स॒प्त होत्राः॑, सप्त॒धा त्वा॑ यजन्ति,  
-स॒प्त **योनी॒र् आ पृ॑णस्वा घृ॒तेन॑**  ॥
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+सप्त᳓ ते अग्ने समि᳓धस्, सप्त᳓ जिह्वा᳓स्  
+सप्त᳓ [11]  ऋ᳓षयस्, सप्त᳓ धा᳓म प्रिया᳓णि ।   
+सप्त᳓ हो᳓त्राः, सप्तधा᳓ त्वा यजन्ति,  
+सप्त᳓ **यो᳓नीर् आ᳓ पृणस्वा घृते᳓न**  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Seven are thy kindling-sticks, O Agni, seven thy tongues;  
@@ -1187,6 +1274,11 @@ Seven birthplaces with ghee do thou fill.
 
 स॒प्त ते॑ अग्ने स॒मिध॑स्स॒प्त जि॒ह्वास्स॒प्त [11]  ऋष॑यस्स॒प्त धाम॑ प्रि॒याणि॑ ।   
 स॒प्त होत्राः॑ सप्त॒धा त्वा॑ यजन्ति स॒प्त योनी॒रा पृ॑णस्वा घृ॒तेन॑  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+4 । स॒प्त । ते॒ । अ॒ग्ने॒ । स॒मिध॒ इति॑ सम्-इधः॑ । स॒प्त । जि॒ह्वाः । स॒प्त । 1 । ऋष॑यः । स॒प्त । धाम॑ । प्रि॒याणि॑ ॥ स॒प्त । होत्राः॑ । स॒प्त॒धेति॑ सप्त-धा । त्वा॒ । य॒ज॒न्ति॒ । स॒प्त । योनीः॑ । एति॑ । पृ॒ण॒स्व॒ । घृ॒तेन॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1212,7 +1304,9 @@ Seven birthplaces with ghee do thou fill.
 तादृशस्त्वं सप्त योनीराहवनीयादि ( द्युत्पति ) स्थानानि घृतेन सर्वतः पूरय।  
 </details>
 </details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —    
