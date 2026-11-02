@@ -3,6 +3,10 @@ title = "05 नीलग्रीवाश् शितिकण्ठा"
 
 +++
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ चतुर्थीमाह— नीलग्रीवा इति।
+</details>
 
 <details><summary>Keith</summary>
 
@@ -20,6 +24,5 @@ At a thousand leagues.}
 
 <details><summary>सायण-टीका</summary>
 
-अथ चतुर्थीमाह— नीलग्रीवा इति।  
 दिवमुपश्रिताः स्वर्गे वर्तमानाः।
 </details>
