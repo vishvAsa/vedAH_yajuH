@@ -12,12 +12,30 @@ title = "०७ सोमक्रयप्रकारः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्धिर॑ण्यम् अभवत् ।
-तस्मा॑द् अ॒द्भ्यो हिर॑ण्यम् पुनन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+That became gold.
 </details>
 
 <details><summary>मूलम्</summary>
 
 तद्धिर॑ण्यम् अभवत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॑द् अ॒द्भ्यो हिर॑ण्यम् पुनन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Therefore they purify gold forth from the waters.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॑द् अ॒द्भ्यो हिर॑ण्यम् पुनन्ति ।
 </details>
 
@@ -42,6 +60,11 @@ title = "०७ सोमक्रयप्रकारः"
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति॒ -  
 "कस्मा॑त् स॒त्याद् अ॑न॒स्थिके॑न प्र॒जाᳶ प्र॒वीय॑न्ते ऽस्थ॒न्वती॑र् जायन्त॒" इति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The theologians say, 'How is it that offspring are produced through that which is boneless, and yet are born with bones?'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -73,6 +96,11 @@ title = "०७ सोमक्रयप्रकारः"
 तस्मा॑द् अन॒स्थिके॑न प्र॒जाᳶ प्र वी॑यन्तेऽस्थ॒न्वती॑र्जायन्त।
 </details>
 
+<details><summary>Keith</summary>
+
+Because he offers the gold, placing it in the ghee, therefore are offspring produced, through that which is boneless, and yet are born with bones.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्धिर॑ण्यङ् घृ॒ते॑ऽव॒धाय॑ जु॒होति॒ ,
@@ -85,7 +113,6 @@ title = "०७ सोमक्रयप्रकारः"
 
 तस्मा॑त् । अ॒न॒स्थिके॑न । प्र॒जा इति॑ प्र-जाः । प्रेति॑ । वी॒य॒न्ते॒ । अ॒स्थ॒न्वती॒रित्य॑स्थन्न्-वतीः॑ । जा॒य॒न्ते॒ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -102,16 +129,46 @@ title = "०७ सोमक्रयप्रकारः"
 
 ए॒तद्वा अ॒ग्नेᳶ प्रि॒यन्धाम॒ यद्घृ॒तन् तेजो॒ हिर॑ण्यम् ।
 "इ॒यन्ते॑ शुक्र त॒नूर् , इ॒दव्ँ वर्च॒" इत्या॑ह ।  
-सते॑जसम् ए॒वैनँ॒ सत॑नुङ्करोति । [46]
-अथो॒ सम्भ॑रत्ये॒वैन॑म् ।
 </details>
 
+<details><summary>Keith</summary>
+
+The ghee is Agni's loved abode, the gold, is radiance. 'This is thy body, O pure one. This is thy splendour', he says;
+</details>
 
 <details><summary>मूलम्</summary>
 
 ए॒तद्वा अ॒ग्नेᳶ प्रि॒यन्धाम॒ यद्घृ॒तन् तेजो॒ हिर॑ण्यम् ।
 "इ॒यन्ते॑ शुक्र त॒नूर् , इ॒दव्ँ वर्च॒" इत्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सते॑जसम् ए॒वैनँ॒ सत॑नुङ्करोति । [46]
+</details>
+
+<details><summary>Keith</summary>
+
+verily he unites Agni with his radiance and his body [1];
+</details>
+
+<details><summary>मूलम्</summary>
+
+सते॑जसम् ए॒वैनँ॒ सत॑नुङ्करोति । [46]
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथो॒ सम्भ॑रत्ये॒वैन॑म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily also he makes him ready.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अथो॒ सम्भ॑रत्ये॒वैन॑म् ।
 </details>
 
@@ -138,12 +195,30 @@ title = "०७ सोमक्रयप्रकारः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदब॑द्धमवद॒ध्याद् गर्भा॑ᳶ प्र॒जाना॑म् परा॒पातु॑कास् स्युः ।  
-ब॒द्धमव॑ दधाति॒ , गर्भा॑णा॒न् धृत्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+If he were to deposit (the gold) without fastening it on, then the foetuses of offspring would be liable to miscarriage.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यदब॑द्धमवद॒ध्याद् गर्भा॑ᳶ प्र॒जाना॑म् परा॒पातु॑कास् स्युः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब॒द्धमव॑ दधाति॒ , गर्भा॑णा॒न् धृत्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+He deposits it fastening it on, to secure the foetuses.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ब॒द्धमव॑ दधाति॒ , गर्भा॑णा॒न् धृत्यै॑ ।
 </details>
 
@@ -151,9 +226,7 @@ title = "०७ सोमक्रयप्रकारः"
 
 यत् । अब॑द्धम् । अ॒व॒द॒ध्यादित्य॑व-द॒ध्यात् । गर्भाः॑ । प्र॒जाना॒मिति॑ प्र-जाना॑म् । प॒रा॒पातु॑का॒ इति॑ परा-पातु॑काः । स्युः॒ ।   
 ब॒द्धम् । अवेति॑ । द॒धा॒ति॒ । गर्भा॑णाम् । धृत्यै॑ । 
-
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -168,6 +241,11 @@ title = "०७ सोमक्रयप्रकारः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि॒ष्ट॒र्क्य॑म् बध्नाति , प्र॒जाना॑म् प्र॒जन॑नाय ।
+</details>
+
+<details><summary>Keith</summary>
+
+He fastens it so that it cannot be untied, for the production of offspring.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -195,19 +273,62 @@ title = "०७ सोमक्रयप्रकारः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाग्वा ए॒षा यत्सो॑म॒क्रय॑णी ।
-"जूर॑सी"त्या॑ह ।
-यद्धि मन॑सा॒ जव॑ते॒ , तद् वा॒चा वद॑ति ।
-धृ॒ता मन॒सेत्या॑ह॒ मन॑सा॒ हि वाग्धृ॒ता जुष्टा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The cow with which the Soma is bought is speech.
 </details>
 
 <details><summary>मूलम्</summary>
 
 वाग्वा ए॒षा यत्सो॑म॒क्रय॑णी ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "जूर॑सी"त्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art the strong', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"जूर॑सी"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यद्धि मन॑सा॒ जव॑ते॒ , तद् वा॒चा वद॑ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+for what he strengthens in his mind, that he expresses in speech.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्धि मन॑सा॒ जव॑ते॒ , तद् वा॒चा वद॑ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 धृ॒ता मन॒सेत्या॑ह॒ मन॑सा॒ हि वाग्धृ॒ता जुष्टा॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+'Grasped by mind', he says; for by mind is speech grasped.
+</details>
+
+<details><summary>मूलम्</summary>
+
+धृ॒ता मन॒सेत्या॑ह॒ मन॑सा॒ हि वाग्धृ॒ता जुष्टा॑ ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -216,7 +337,6 @@ title = "०७ सोमक्रयप्रकारः"
 यत् । हि । मन॑सा । जव॑ते । तत् । वा॒चा । वद॑ति ।  
 धृ॒ता । मन॑सा । इति॑ । आ॒ह॒ ।   
 मन॑सा । हि । वाक् । धृ॒ता ।  जुष्टा॑ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -233,18 +353,75 @@ title = "०७ सोमक्रयप्रकारः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्ण॑व॒ इत्या॑ह ।[47]  
-य॒ज्ञो वै विष्णुः॑ ।  
-य॒ज्ञायै॒वैना॒ञ् जुष्टा॑ङ्करोति ।   
-तस्या॑स् ते स॒त्यस॑वसᳶ प्रस॒व इत्या॑ह ।
-स॒वि॒तृ॒प्र॑सूताम् ए॒व वाच॒मव॑ रुन्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Acceptable to Visnu he says [2].
 </details>
 
 <details><summary>मूलम्</summary>
 
 विष्ण॑व॒ इत्या॑ह ।[47]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 य॒ज्ञो वै विष्णुः॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Visnu is the sacrifice;
+</details>
+
+<details><summary>मूलम्</summary>
+
+य॒ज्ञो वै विष्णुः॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य॒ज्ञायै॒वैना॒ञ् जुष्टा॑ङ्करोति ।   
+</details>
+
+<details><summary>Keith</summary>
+
+verily be makes her accept able to the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 य॒ज्ञायै॒वैना॒ञ् जुष्टा॑ङ्करोति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तस्या॑स् ते स॒त्यस॑वसᳶ प्रस॒व इत्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Through the impulse of thee, of true impulse', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्या॑स् ते स॒त्यस॑वसᳶ प्रस॒व इत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒वि॒तृ॒प्र॑सूताम् ए॒व वाच॒मव॑ रुन्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he wins speech which is impelled by Savitr.
+</details>
+
+<details><summary>मूलम्</summary>
+
 स॒वि॒तृ॒प्र॑सूताम् ए॒व वाच॒मव॑ रुन्धे ।
 </details>
 
@@ -256,8 +433,6 @@ title = "०७ सोमक्रयप्रकारः"
 तस्याः॑ । ते॒ । स॒त्यस॑वस॒ इति॑ स॒त्य-स॒व॒सः॒ । प्र॒स॒व इति॑ प्र-स॒वे । इति॑ । आ॒ह॒ । 
 स॒वि॒तृप्र॑सूता॒मिति॑ सवि॒तृ-प्र॒सू॒ता॒म् । ए॒व । वाच॑म् । अवेति॑ । रु॒न्द्धे॒ ।  
 </details>
-
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -272,16 +447,60 @@ title = "०७ सोमक्रयप्रकारः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काण्डे॑काण्डे॒ वै क्रि॒यमा॑णे य॒ज्ञँ रक्षाँ॑सि जिघाँसन्ति ।
-ए॒ष खलु॒ वा अर॑क्षोहत॒ᳶ पन्था॒ यो॑ऽग्नेश्च॒ सूर्य॑स्य च ।  
-"सूर्य॑स्य॒ चक्षु॒रारु॑हम् अ॒ग्नेर॒क्ष्णᳵ क॒नीनि॑का॒मि"त्या॑ह ।
-य ए॒वार॑क्षोहत॒ᳶ पन्था॒स्तँ स॒मारो॑हति [48]।  
+</details>
+
+<details><summary>Keith</summary>
+
+As each part is performed, the Raksases are fain to injure the sacrifice;
 </details>
 
 <details><summary>मूलम्</summary>
 
 काण्डे॑काण्डे॒ वै क्रि॒यमा॑णे य॒ज्ञँ रक्षाँ॑सि जिघाँसन्ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ए॒ष खलु॒ वा अर॑क्षोहत॒ᳶ पन्था॒ यो॑ऽग्नेश्च॒ सूर्य॑स्य च ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the path of Agni and Surya is one which the Raksases cannot injure.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒ष खलु॒ वा अर॑क्षोहत॒ᳶ पन्था॒ यो॑ऽग्नेश्च॒ सूर्य॑स्य च ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "सूर्य॑स्य॒ चक्षु॒रारु॑हम् अ॒ग्नेर॒क्ष्णᳵ क॒नीनि॑का॒मि"त्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'I have mounted the eye of the sun, the pupil of the eye of Agni', he says.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"सूर्य॑स्य॒ चक्षु॒रारु॑हम् अ॒ग्नेर॒क्ष्णᳵ क॒नीनि॑का॒मि"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य ए॒वार॑क्षोहत॒ᳶ पन्था॒स्तँ स॒मारो॑हति [48]।  
+</details>
+
+<details><summary>Keith</summary>
+
+He mounts the path which is not injured by the Raksases [3].
+</details>
+
+<details><summary>मूलम्</summary>
+
 य ए॒वार॑क्षोहत॒ᳶ पन्था॒स्तँ स॒मारो॑हति [48]।  
 </details>
 
@@ -294,9 +513,7 @@ title = "०७ सोमक्रयप्रकारः"
 सूर्य॑स्य । चक्षुः॑ । एति॑ । अ॒रु॒ह॒म् । अ॒ग्नेः । अ॒क्ष्णः । क॒नीनि॑काम् । इति॑ । आ॒ह॒ ।   
 
 यः । ए॒व । अर॑क्षोहत॒ इत्यर॑क्षः-ह॒तः॒ । पन्थाः॑ । तम् । स॒मारो॑ह॒तीति॑ सम्-आरो॑हति । [48]   
-
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -311,19 +528,62 @@ title = "०७ सोमक्रयप्रकारः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाग्वा ए॒षा यत्सो॑म॒क्रय॑णी ।
-"चिद॑सि म॒नाऽसी"त्या॑ह ।  
-शास्त्य् ए॒वैना॑मे॒तत् ।
-तस्मा॑च् छि॒ष्टाᳶ प्र॒जा जा॑यन्ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+The cow with which the Soma is bought is speech.
 </details>
 
 <details><summary>मूलम्</summary>
 
 वाग्वा ए॒षा यत्सो॑म॒क्रय॑णी ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "चिद॑सि म॒नाऽसी"त्या॑ह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art thought, thou art mind', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"चिद॑सि म॒नाऽसी"त्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 शास्त्य् ए॒वैना॑मे॒तत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he instructs her.
+</details>
+
+<details><summary>मूलम्</summary>
+
+शास्त्य् ए॒वैना॑मे॒तत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तस्मा॑च् छि॒ष्टाᳶ प्र॒जा जा॑यन्ते ।
 </details>
 
+<details><summary>Keith</summary>
+
+Therefore children are born instructed.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मा॑च् छि॒ष्टाᳶ प्र॒जा जा॑यन्ते ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -348,40 +608,185 @@ title = "०७ सोमक्रयप्रकारः"
 
 "चिद॑सी"त्या॑ह ।
 यद्धि मन॑सा चे॒तय॑ते॒ , तद् वा॒चा वद॑ति ।
-"म॒नाऽसी"त्या॑ह ।
-यद्धि मन॑साऽभि॒गच्छ॑ति॒ , तत् क॒रोति॑ ।  
-"धीर॑सी"त्या॑ह ।
-यद्धि मन॑सा॒ ध्याय॑ति॒ तद् वा॒चा वद॑ति [49]।  
-"दक्षि॑णाऽसी"त्या॑ह ।
-दक्षि॑णा॒ ह्ये॑षा ।
-"य॒ज्ञिया॒सी"त्या॑ह ।
-य॒ज्ञिया॑म् ए॒वैना॑ङ्करोति ।  
-"क्ष॒त्रिया॑ऽसी"त्या॑ह ।
-क्ष॒त्रिया॒ ह्ये॑षाऽदि॑तिरस्य् उभ॒यतः॑ ।  
-शी॒र्ष्णीत्या॑ह ।
-यदे॒वादि॒त्यᳶ प्रा॑य॒णीयो॑ य॒ज्ञाना॑मादि॒त्य उ॑दय॒नीय॒स् तस्मा॑दे॒वमा॑ह ।
 </details>
 
+<details><summary>Keith</summary>
 
+'Thou art thought', he says, for what one thinks in the mind one expresses in speech.
+</details>
 
 <details><summary>मूलम्</summary>
 
 "चिद॑सी"त्या॑ह ।
 यद्धि मन॑सा चे॒तय॑ते॒ , तद् वा॒चा वद॑ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "म॒नाऽसी"त्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art mind', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"म॒नाऽसी"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यद्धि मन॑साऽभि॒गच्छ॑ति॒ , तत् क॒रोति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+for what one grasps by the mind one performs.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्धि मन॑साऽभि॒गच्छ॑ति॒ , तत् क॒रोति॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "धीर॑सी"त्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art meditation', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"धीर॑सी"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यद्धि मन॑सा॒ ध्याय॑ति॒ तद् वा॒चा वद॑ति [49]।  
+</details>
+
+<details><summary>Keith</summary>
+
+for what one meditates with the mind one expresses in speech [4].
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्धि मन॑सा॒ ध्याय॑ति॒ तद् वा॒चा वद॑ति [49]।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "दक्षि॑णाऽसी"त्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art the gift (to the priests)', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"दक्षि॑णाऽसी"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दक्षि॑णा॒ ह्ये॑षा ।
+</details>
+
+<details><summary>Keith</summary>
+
+for (the cow) is the gift.
+</details>
+
+<details><summary>मूलम्</summary>
+
+दक्षि॑णा॒ ह्ये॑षा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "य॒ज्ञिया॒सी"त्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art of the sacrifice', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"य॒ज्ञिया॒सी"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 य॒ज्ञिया॑म् ए॒वैना॑ङ्करोति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he makes her fit for the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
+य॒ज्ञिया॑म् ए॒वैना॑ङ्करोति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "क्ष॒त्रिया॑ऽसी"त्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art of kingly power', he says,
+</details>
+
+<details><summary>मूलम्</summary>
+
+"क्ष॒त्रिया॑ऽसी"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 क्ष॒त्रिया॒ ह्ये॑षाऽदि॑तिरस्य् उभ॒यतः॑ ।  
 शी॒र्ष्णीत्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+for she is of kingly power. 'Thou art Aditi, double-headed', he says.
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्ष॒त्रिया॒ ह्ये॑षाऽदि॑तिरस्य् उभ॒यतः॑ ।  
+शी॒र्ष्णीत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यदे॒वादि॒त्यᳶ प्रा॑य॒णीयो॑ य॒ज्ञाना॑मादि॒त्य उ॑दय॒नीय॒स् तस्मा॑दे॒वमा॑ह ।
 </details>
 
+<details><summary>Keith</summary>
+
+In that to Aditi belong the opening and the concluding oblations of the sacrifices, therefore does he say that.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदे॒वादि॒त्यᳶ प्रा॑य॒णीयो॑ य॒ज्ञाना॑मादि॒त्य उ॑दय॒नीय॒स् तस्मा॑दे॒वमा॑ह ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -423,15 +828,245 @@ title = "०७ सोमक्रयप्रकारः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदब॑द्धा॒ स्यादय॑ता स्यात् ।  
-यत् प॑दिब॒द्धा +++(स्यात्)+++, ऽनु॒स्तर॑णी स्यात् ।  
-प्र॒मायु॑को॒ यज॑मानस् स्यात् ।[50]  
+</details>
+
+<details><summary>Keith</summary>
+
+If (the cow) were not bound, she would be unrestrained;
 </details>
 
 <details><summary>मूलम्</summary>
 
 यदब॑द्धा॒ स्यादय॑ता स्यात् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यत् प॑दिब॒द्धा +++(स्यात्)+++, ऽनु॒स्तर॑णी स्यात् ।  
 प्र॒मायु॑को॒ यज॑मानस् स्यात् ।[50]  
+</details>
+
+<details><summary>Keith</summary>
+
+if she were bound by the foot, she would be the funeral cow, and the sacrificer would be likely to perish [5].
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत् प॑दिब॒द्धा +++(स्यात्)+++, ऽनु॒स्तर॑णी स्यात् ।  
+प्र॒मायु॑को॒ यज॑मानस् स्यात् ।[50]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् क॑र्णगृही॒ता +++(स्यात्)+++, वार्त्र॑घ्नी स्यात् ।  
+स वा॒ऽन्यञ् जि॑नी॒यात् , तव्ँ वा॒ऽन्यो जि॑नीयात् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+If she were held by the ears, she would belong to Vrtrahan, and the sacrificer would oppress another, or another would oppress him.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत् क॑र्णगृही॒ता +++(स्यात्)+++, वार्त्र॑घ्नी स्यात् ।  
+स वा॒ऽन्यञ् जि॑नी॒यात् , तव्ँ वा॒ऽन्यो जि॑नीयात् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"मि॒त्रस्त्वा॑ प॒दि ब॑ध्ना॒त्वि"त्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'May Mitra bind thee by the foot', he says.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"मि॒त्रस्त्वा॑ प॒दि ब॑ध्ना॒त्वि"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मि॒त्रो वै शि॒वो दे॒वाना॒न् , तेनै॒वैना॑म् प॒दि ब॑ध्नाति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Mitra is the auspicious one of the gods; verily with his help he binds her by the foot.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मि॒त्रो वै शि॒वो दे॒वाना॒न् , तेनै॒वैना॑म् प॒दि ब॑ध्नाति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"पू॒षाध्व॑नᳶ पा॒त्वि"त्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'May Pusan guard the ways', he says.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"पू॒षाध्व॑नᳶ पा॒त्वि"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ॒यव्ँ वै पू॒षा ।
+</details>
+
+<details><summary>Keith</summary>
+
+Pusan is this (earth);
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒यव्ँ वै पू॒षा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ॒मामे॒वास्या॑ अधि॒पाम॑क॒स् , सम॑ष्ट्यै ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he makes her lady of this (earth), for the gaining thereof.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒मामे॒वास्या॑ अधि॒पाम॑क॒स् , सम॑ष्ट्यै ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"इन्द्रा॒याध्य॑क्षा॒ये"त्या॑ह  ।
+</details>
+
+<details><summary>Keith</summary>
+
+'For Indra the guardian!' he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"इन्द्रा॒याध्य॑क्षा॒ये"त्या॑ह  ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द्र॑मे॒वास्या॒ अध्य॑क्षङ् करोति ।[51]  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he makes Indra her guardian [6].
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्र॑मे॒वास्या॒ अध्य॑क्षङ् करोति ।[51]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अनु॑ त्वा मा॒ता म॑न्यता॒म् अनु॑ पि॒ते"त्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'May thy mother approve, thy father', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"अनु॑ त्वा मा॒ता म॑न्यता॒म् अनु॑ पि॒ते"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनु॑मतयै॒वैन॑या क्रीणाति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he buys with her approved.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनु॑मतयै॒वैन॑या क्रीणाति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"सा दे॑वि दे॒वमच्छे॒ही"त्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Go, O goddess, to the god', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"सा दे॑वि दे॒वमच्छे॒ही"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दे॒वी ह्ये॑षा दे॒वस् सोमः॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+for she is a goddess, and Soma is a god.
+</details>
+
+<details><summary>मूलम्</summary>
+
+दे॒वी ह्ये॑षा दे॒वस् सोमः॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"इन्द्रा॑य॒ सोम॒मि"त्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'To Indra Soma', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"इन्द्रा॑य॒ सोम॒मि"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द्रा॑य॒ हि सोम॑ आह्रि॒यते॑  ।
+</details>
+
+<details><summary>Keith</summary>
+
+for the Soma is borne to Indra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्रा॑य॒ हि सोम॑ आह्रि॒यते॑  ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -439,75 +1074,23 @@ title = "०७ सोमक्रयप्रकारः"
 यत् । अब॑द्धा । स्यात् । अय॑ता । स्या॒त् ।   
 यत् । प॒दि॒ब॒द्धेति॑ पदि-ब॒द्धा । अ॒नु॒स्तर॒णीत्य॑नु-स्तर॑णी । स्या॒त् ।   
 प्र॒मायु॑क॒ इति॑ प्र-मायु॑कः । यज॑मानः । स्या॒त् । [50]  
-
-
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 12यदित्यादि ॥ यदि नयनकाले एकहायनी अबद्धा स्यात् अयता अनियमिता स्यात् । उभयत्राप्यव्ययपूर्वपदप्रकृतिस्वरत्वम् । यदि पदिबद्धा पादेन वद्धा स्यात्, अनुस्तरणी स्यादित्यादि । व्याख्यातम् । 'तत्पुरुषे कृति बहुलम्' इत्यलुक्, 'पद्दन्' इति पद्भावः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-यत् क॑र्णगृही॒ता +++(स्यात्)+++, वार्त्र॑घ्नी स्यात् ।  
-स वा॒ऽन्यञ् जि॑नी॒यात् , तव्ँ वा॒ऽन्यो जि॑नीयात् ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
-यत् क॑र्णगृही॒ता +++(स्यात्)+++, वार्त्र॑घ्नी स्यात् ।  
-स वा॒ऽन्यञ् जि॑नी॒यात् , तव्ँ वा॒ऽन्यो जि॑नीयात् ।  
-</details>
-
-
 <details><summary>पद-पाठः</summary>
 
 यत् । क॒र्ण॒गृ॒ही॒तेति॑ कर्ण-गृ॒ही॒ता । वार्त्र॒घ्नीति॒ वार्त्र॑-घ्नी॒ । स्या॒त् ।   
 सः । वा॒ । अ॒न्यम् । जि॒नी॒यात् । तम् । वा॒ । अ॒न्यः । जि॒नी॒या॒त् ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यदि कर्णे गृहीता स्यात्, वार्त्रघ्नी स्यादित्यादि । व्याख्यातम् ।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-"मि॒त्रस्त्वा॑ प॒दि ब॑ध्ना॒त्वि"त्या॑ह ।
-मि॒त्रो वै शि॒वो दे॒वाना॒न् , तेनै॒वैना॑म् प॒दि ब॑ध्नाति ।  
-"पू॒षाध्व॑नᳶ पा॒त्वि"त्या॑ह ।
-इ॒यव्ँ वै पू॒षा ।
-इ॒मामे॒वास्या॑ अधि॒पाम॑क॒स् , सम॑ष्ट्यै ।  
-"इन्द्रा॒याध्य॑क्षा॒ये"त्या॑ह  ।
-इन्द्र॑मे॒वास्या॒ अध्य॑क्षङ् करोति ।[51]  
-"अनु॑ त्वा मा॒ता म॑न्यता॒म् अनु॑ पि॒ते"त्या॑ह ।
-अनु॑मतयै॒वैन॑या क्रीणाति ।  
-"सा दे॑वि दे॒वमच्छे॒ही"त्या॑ह ।
-दे॒वी ह्ये॑षा दे॒वस् सोमः॑ ।  
-"इन्द्रा॑य॒ सोम॒मि"त्या॑ह ।
-इन्द्रा॑य॒ हि सोम॑ आह्रि॒यते॑  ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-"मि॒त्रस्त्वा॑ प॒दि ब॑ध्ना॒त्वि"त्या॑ह ।
-मि॒त्रो वै शि॒वो दे॒वाना॒न् , तेनै॒वैना॑म् प॒दि ब॑ध्नाति ।  
-"पू॒षाध्व॑नᳶ पा॒त्वि"त्या॑ह ।
-इ॒यव्ँ वै पू॒षा ।
-इ॒मामे॒वास्या॑ अधि॒पाम॑क॒स् , सम॑ष्ट्यै ।  
-"इन्द्रा॒याध्य॑क्षा॒ये"त्या॑ह  ।
-इन्द्र॑मे॒वास्या॒ अध्य॑क्षङ् करोति ।[51]  
-"अनु॑ त्वा मा॒ता म॑न्यता॒म् अनु॑ पि॒ते"त्या॑ह ।
-अनु॑मतयै॒वैन॑या क्रीणाति ।  
-"सा दे॑वि दे॒वमच्छे॒ही"त्या॑ह ।
-दे॒वी ह्ये॑षा दे॒वस् सोमः॑ ।  
-"इन्द्रा॑य॒ सोम॒मि"त्या॑ह ।
-इन्द्रा॑य॒ हि सोम॑ आह्रि॒यते॑  ।
-</details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -547,17 +1130,91 @@ title = "०७ सोमक्रयप्रकारः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदे॒तद् यजु॒र्न ब्रू॒यात् , परा॑च्ये॒व सो॑म॒क्रय॑णीयाद् ।
-"रु॒द्रस्त्वाऽऽव॑र्तय॒त्वि"त्या॑ह ।  
-रु॒द्रो वै क्रू॒रो दे॒वाना॑म् ।[52]
-तमे॒वास्यै॑ प॒रस्ता॑द् दधा॒त्यावृ॑त्त्यै ।  
+</details>
+
+<details><summary>Keith</summary>
+
+If he were not to say that text, the cow with which the Soma is bought would go away.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यदे॒तद् यजु॒र्न ब्रू॒यात् , परा॑च्ये॒व सो॑म॒क्रय॑णीयाद् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "रु॒द्रस्त्वाऽऽव॑र्तय॒त्वि"त्या॑ह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'May Rudra guide thee hither', he says.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"रु॒द्रस्त्वाऽऽव॑र्तय॒त्वि"त्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रु॒द्रो वै क्रू॒रो दे॒वाना॑म् ।[52]
+</details>
+
+<details><summary>Keith</summary>
+
+Rudra is the harsh [7] one of the gods;
+</details>
+
+<details><summary>मूलम्</summary>
+
+रु॒द्रो वै क्रू॒रो दे॒वाना॑म् ।[52]
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तमे॒वास्यै॑ प॒रस्ता॑द् दधा॒त्यावृ॑त्त्यै ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he places him below her, for guiding hither.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तमे॒वास्यै॑ प॒रस्ता॑द् दधा॒त्यावृ॑त्त्यै ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्रू॒रमि॑व॒ वा ए॒तत्क॑रोति॒ , यद् रु॒द्रस्य॑ की॒र्तय॑ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He does as it were a harsh thing when he recites that (text) of Rudra's.
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्रू॒रमि॑व॒ वा ए॒तत्क॑रोति॒ , यद् रु॒द्रस्य॑ की॒र्तय॑ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"मि॒त्रस्य॑ प॒थे"त्या॑ह । शान्त्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+'In the path of Mitra', he says, for soothing.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"मि॒त्रस्य॑ प॒थे"त्या॑ह । शान्त्यै॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -573,18 +1230,6 @@ title = "०७ सोमक्रयप्रकारः"
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13यदेतदिति ॥ 'रुद्रस्त्वाऽऽवर्तयतु'36 इति यदेतद्यजुर्न ब्रूयात् पराची अनिवर्तमानैव सोमक्रयणीयात् गच्छेत् । पराङ्मुखी अञ्चतीति ऋत्विगादिना क्विनि 'अञ्चतेश्चोपसंख्यानम्' इति डीप्, 'अनिगन्तोञ्चतौ' इति गतेः प्रकृतिस्वरत्वम् । तस्मादेतस्य यजुषो वचनेन देवानां मध्ये क्रूरं अप्रधृष्यं पुरस्तादग्रतो दधाति स्थापयति आवृत्त्यै आवृत्त्यर्थमेवास्या एतत् भवति । अप्रधृष्यं देवमग्रतो दृष्ट्वा भयादावर्तते, न पराची गच्छतीत्यर्थः । 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-क्रू॒रमि॑व॒ वा ए॒तत्क॑रोति॒ , यद् रु॒द्रस्य॑ की॒र्तय॑ति ।  
-"मि॒त्रस्य॑ प॒थे"त्या॑ह । शान्त्यै॑ ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-क्रू॒रमि॑व॒ वा ए॒तत्क॑रोति॒ , यद् रु॒द्रस्य॑ की॒र्तय॑ति ।  
-"मि॒त्रस्य॑ प॒थे"त्या॑ह । शान्त्यै॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -611,16 +1256,47 @@ title = "०७ सोमक्रयप्रकारः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा॒चा वा ए॒ष वि क्री॑णीते॒ , यस् सो॑म॒क्रय॑ण्या ।  
-"स्व॒स्ति सोम॑सखा॒ पुन॒रेहि॑ स॒ह र॒य्ये"त्या॑ह ।
-वा॒चैव वि॒क्रीय॒ पुन॑रा॒त्मन्वाच॑न्ध॒त्ते ।
-अनु॑पदासुकाऽस्य॒ वाग्भ॑वति॒ , य ए॒वव्ँ वेद॑ ॥ [53]  
+</details>
+
+<details><summary>Keith</summary>
+
+He buys indeed by speech when he buys by the cow with which the Soma is bought.
 </details>
 
 <details><summary>मूलम्</summary>
 
 वा॒चा वा ए॒ष वि क्री॑णीते॒ , यस् सो॑म॒क्रय॑ण्या ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "स्व॒स्ति सोम॑सखा॒ पुन॒रेहि॑ स॒ह र॒य्ये"त्या॑ह ।
 वा॒चैव वि॒क्रीय॒ पुन॑रा॒त्मन्वाच॑न्ध॒त्ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+Hail! Return with Soma as thy comrade, with wealth', he says, verily having purchased by means of speech, he restores speech to himself.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"स्व॒स्ति सोम॑सखा॒ पुन॒रेहि॑ स॒ह र॒य्ये"त्या॑ह ।
+वा॒चैव वि॒क्रीय॒ पुन॑रा॒त्मन्वाच॑न्ध॒त्ते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनु॑पदासुकाऽस्य॒ वाग्भ॑वति॒ , य ए॒वव्ँ वेद॑ ॥ [53]  
+</details>
+
+<details><summary>Keith</summary>
+
+The speech of him who knows thus is not likely to fail.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अनु॑पदासुकाऽस्य॒ वाग्भ॑वति॒ , य ए॒वव्ँ वेद॑ ॥ [53]  
 </details>
 
@@ -632,10 +1308,10 @@ title = "०७ सोमक्रयप्रकारः"
 अनु॑पदासु॒केत्यनु॑प-दा॒सु॒का॒ । अ॒स्य॒ । वाक् । भ॒व॒ति॒ । यः । ए॒वम् । वेद॑ ॥ [53]  
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 14वाचा वा एष इत्यादि ॥ विरूपक्रयो विक्रयः, अयुक्तरूपत्वात् । अयमर्थः - सोमक्रयण्या सोमं क्रीणाति, एष यजमानः वाचा विक्रीणीते अयुक्तरूपं क्रयं करोति; एकहायन्याः वाक्त्वात् वाचो व्ययस्यायुक्तत्वात् । सोमः क्रीयतेऽनयेति सोमक्रयणी, तेन यः सोमक्रयण्या क्रीणाति तेनेति गम्यते । न हि क्रयकरणेन विक्रयः क्रियते । तस्मात् स्वस्तीत्यादिवचनेन कृत्वापि वाचारूपं क्रयं पुनरात्मन्येष धत्ते; पुनरादास्यमानत्वात् । वाचमपि दत्वा सोमस्तावत्क्रीयते इति । यद्वा - विशिष्टः क्रयो विक्रयः आलस्यादिश्लाघ्यत्वात् । अयमर्थः - यस्सोमक्रयण्या क्रीणाति एष खलु वाचा विक्रीणीते वाचमपि प्रदाय विशिष्टं क्रयं करोति, तस्मात्क्रयस्य वैशिष्ट्यार्थं वाचमेव तावद्दत्वा क्रयः क्रियते । पूनः क्रीते सोमे स्वस्त्यादिवचनेन आत्मनि वाचं धत्ते, क्रयश्च विशिष्टो भवति, वाचश्च व्ययो न कृतो भवति । एवमेतदर्थरूपं यो वेद तस्यानुपदासुका वाग्भवति उपक्षयशीला कदाचिदपि न भवति । दसु उपक्षये, छान्दस उकञ् । 'परिव्यवेभ्यः क्रियः' इति क्रीणातेरात्मनेपदम् । 'सावेकाचः' इति वाचस्तृतीयाया उदात्तत्वम् ॥
 
 इति षष्ठे प्रथमे सप्तमोनुवाकः ॥  
 </details>
+

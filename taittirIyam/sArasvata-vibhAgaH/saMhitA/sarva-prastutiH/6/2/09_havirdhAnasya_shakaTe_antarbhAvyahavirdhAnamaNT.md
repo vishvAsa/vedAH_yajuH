@@ -12,19 +12,136 @@ title = "०९ हविर्धानस्य शकटे अन्तर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब॒द्धमव॑ स्यति ।  
-व॒रु॒ण॒पा॒शा॒द् ए॒वैने॑ मुञ्चति ।   
-प्र णे॑नेक्ति॒ मेध्ये॑ ए॒वैने॑ करोति ।  
-सा॒वि॒त्रि॒यर्चा हु॒त्वा ह॑वि॒र्धाने॒ प्र व॑र्तयति ।  
-स॒वि॒तृप्र॑सूत ए॒वैने॒ प्र व॑र्तयति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He loosens the knot;
 </details>
 
 <details><summary>मूलम्</summary>
 
 ब॒द्धमव॑ स्यति ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 व॒रु॒ण॒पा॒शा॒द् ए॒वैने॑ मुञ्चति ।   
+</details>
+
+<details><summary>Keith</summary>
+
+verily he sets them free from the noose of Varuna;
+</details>
+
+<details><summary>मूलम्</summary>
+
+व॒रु॒ण॒पा॒शा॒द् ए॒वैने॑ मुञ्चति ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्र णे॑नेक्ति॒ मेध्ये॑ ए॒वैने॑ करोति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he makes them fit for the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्र णे॑नेक्ति॒ मेध्ये॑ ए॒वैने॑ करोति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सा॒वि॒त्रि॒यर्चा हु॒त्वा ह॑वि॒र्धाने॒ प्र व॑र्तयति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Having sacrificed with a verse to Savitr, he brings forward the oblation-holders;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा॒वि॒त्रि॒यर्चा हु॒त्वा ह॑वि॒र्धाने॒ प्र व॑र्तयति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स॒वि॒तृप्र॑सूत ए॒वैने॒ प्र व॑र्तयति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily on the instigation of Savitr he brings them forward.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒वि॒तृप्र॑सूत ए॒वैने॒ प्र व॑र्तयति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वरु॑णो॒ वा ए॒ष दु॒र्वाग् उ॑भ॒यतो॑ ब॒द्धो यदक्षः॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The axle which is tied on both sides is Varuna of evil speech;
+</details>
+
+<details><summary>मूलम्</summary>
+
+वरु॑णो॒ वा ए॒ष दु॒र्वाग् उ॑भ॒यतो॑ ब॒द्धो यदक्षः॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स यद् उ॒त्सर्जे॒द् यज॑मानस्य गृ॒हान् अ॒भ्युत्स॑र्जेत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+if it were to creak, it would creak against the house of the sacrificer.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स यद् उ॒त्सर्जे॒द् यज॑मानस्य गृ॒हान् अ॒भ्युत्स॑र्जेत् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सु॒वाग्दे॑व॒ दुर्याँ॒ आ व॒देत्या॑ह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'With fair voice, O god, do thou address the dwelling', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सु॒वाग्दे॑व॒ दुर्याँ॒ आ व॒देत्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गृ॒हा वै दुर्याः॑ । शान्त्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+the dwelling is the house; (verily it serves) for atonement.
+</details>
+
+<details><summary>मूलम्</summary>
+
+गृ॒हा वै दुर्याः॑ । शान्त्यै॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -35,30 +152,12 @@ title = "०९ हविर्धानस्य शकटे अन्तर�
 सा॒वि॒त्रि॒या । ऋ॒चा । हु॒त्वा । ह॒वि॒र्धाने॒ इति॑ हविः-धाने॑ । प्रेति॑ । व॒र्त॒य॒ति॒ ।    
 
 स॒वि॒तृप्र॑सूत॒ इति॑ सवि॒तृ-प्र॒सू॒तः॒ । ए॒व । ए॒ने॒ इति॑ । प्रेति॑ । व॒र्त॒य॒ति॒ ।    
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1बद्धमिति ॥ बद्धं हविर्धानयोरक्षमवस्यति मुञ्चतीति विधिः । वरुणपाशादेव एने हविर्धाने वरुणदेवते मुञ्चति । प्रणेनेक्ति क्षालयति । मेध्ये मेधार्हे एने करोति । सावित्र्यर्चा 'युञ्जते मन उत' इत्येतया सवितृप्रसूतः सवित्रा प्रसूतः सवित्राऽनुज्ञातः ।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-वरु॑णो॒ वा ए॒ष दु॒र्वाग् उ॑भ॒यतो॑ ब॒द्धो यदक्षः॑ ।  
-स यद् उ॒त्सर्जे॒द् यज॑मानस्य गृ॒हान् अ॒भ्युत्स॑र्जेत् ।  
-सु॒वाग्दे॑व॒ दुर्याँ॒ आ व॒देत्या॑ह ।  
-गृ॒हा वै दुर्याः॑ । शान्त्यै॑ ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-वरु॑णो॒ वा ए॒ष दु॒र्वाग् उ॑भ॒यतो॑ ब॒द्धो यदक्षः॑ ।  
-स यद् उ॒त्सर्जे॒द् यज॑मानस्य गृ॒हान् अ॒भ्युत्स॑र्जेत् ।  
-सु॒वाग्दे॑व॒ दुर्याँ॒ आ व॒देत्या॑ह ।  
-गृ॒हा वै दुर्याः॑ । शान्त्यै॑ ।
-</details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -85,16 +184,60 @@ title = "०९ हविर्धानस्य शकटे अन्तर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पत्न्य् - उपा॑नक्ति ।[45]  
-पत्नी॒ हि सर्व॑स्य मि॒त्रम् , मि॑त्र॒त्वाय॑ ।  
-यद् वै पत्नी॑ य॒ज्ञस्य॑ क॒रोति॑ मिथु॒नन् तत् ।   
-अथो॒ पत्नि॑या ए॒वैष य॒ज्ञस्या॑न्वार॒म्भो , ऽन॑वच्छित्त्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+The wife (of the sacrificer) [1] anoints (them),
 </details>
 
 <details><summary>मूलम्</summary>
 
 पत्न्य् - उपा॑नक्ति ।[45]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पत्नी॒ हि सर्व॑स्य मि॒त्रम् , मि॑त्र॒त्वाय॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+for the wife is every one's friend, for friendship.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पत्नी॒ हि सर्व॑स्य मि॒त्रम् , मि॑त्र॒त्वाय॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यद् वै पत्नी॑ य॒ज्ञस्य॑ क॒रोति॑ मिथु॒नन् तत् ।   
+</details>
+
+<details><summary>Keith</summary>
+
+The share of the wife in the sacrifice makes a pair;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद् वै पत्नी॑ य॒ज्ञस्य॑ क॒रोति॑ मिथु॒नन् तत् ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथो॒ पत्नि॑या ए॒वैष य॒ज्ञस्या॑न्वार॒म्भो , ऽन॑वच्छित्त्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily also the wife grasps the sacrifice that it may not be interrupted.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अथो॒ पत्नि॑या ए॒वैष य॒ज्ञस्या॑न्वार॒म्भो , ऽन॑वच्छित्त्यै ।
 </details>
 
@@ -121,16 +264,60 @@ title = "०९ हविर्धानस्य शकटे अन्तर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्त्म॑ना॒ वा अ॒न्वित्य॑ य॒ज्ञँ रक्षाँ॑सि जिघाँसन्ति ।  
-वै॒ष्ण॒वीभ्या॑म् ऋ॒ग्भ्याव्ँ वर्त्म॑नोर् जुहोति ।  
-य॒ज्ञो वै विष्णुः॑ ।
-य॒ज्ञादे॒व रक्षाँ॒स्यप॑ हन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Now the Raksases following in its track seek to injure the sacrifice;
 </details>
 
 <details><summary>मूलम्</summary>
 
 वर्त्म॑ना॒ वा अ॒न्वित्य॑ य॒ज्ञँ रक्षाँ॑सि जिघाँसन्ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वै॒ष्ण॒वीभ्या॑म् ऋ॒ग्भ्याव्ँ वर्त्म॑नोर् जुहोति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he makes a libation in the two tracks with Rc verses addressed to Visnu.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वै॒ष्ण॒वीभ्या॑म् ऋ॒ग्भ्याव्ँ वर्त्म॑नोर् जुहोति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 य॒ज्ञो वै विष्णुः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The sacrifice is Visnu;
+</details>
+
+<details><summary>मूलम्</summary>
+
+य॒ज्ञो वै विष्णुः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य॒ज्ञादे॒व रक्षाँ॒स्यप॑ हन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he drives away the Raksases from the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 य॒ज्ञादे॒व रक्षाँ॒स्यप॑ हन्ति ।
 </details>
 
@@ -141,7 +328,6 @@ title = "०९ हविर्धानस्य शकटे अन्तर�
 वै॒ष्ण॒वीभ्या॑म् । ऋ॒ग्भ्यामित्यृ॑क्-भ्याम् । वर्त्म॑नोः । जु॒हो॒ति॒ ।   
 य॒ज्ञः । वै । विष्णुः॑ ।   
 य॒ज्ञात् । ए॒व । रक्षाँ॑सि । अपेति॑ । ह॒न्ति॒ ।  
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -157,14 +343,45 @@ title = "०९ हविर्धानस्य शकटे अन्तर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हिर॑ण्यम् उ॒पास्य॑ जुहोति ।
-अ॒ग्नि॒वत्ये॒व जु॑होति ।  
-नान्धो॑ऽध्व॒र्युर्भव॑ति॒ , न य॒ज्ञँ रक्षाँ॑सि घ्नन्ति
+</details>
+
+<details><summary>Keith</summary>
+
+If the Adhvaryu were to pour the libation in (a place) without fire, the Adhvaryu would become blind, the Raksases would injure the sacrifice [2]. He puts gold down on it before making the libation;
 </details>
 
 <details><summary>मूलम्</summary>
 
 हिर॑ण्यम् उ॒पास्य॑ जुहोति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒ग्नि॒वत्ये॒व जु॑होति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he makes the libation in that which has fire;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्नि॒वत्ये॒व जु॑होति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नान्धो॑ऽध्व॒र्युर्भव॑ति॒ , न य॒ज्ञँ रक्षाँ॑सि घ्नन्ति
+</details>
+
+<details><summary>Keith</summary>
+
+the Adhvaryu does not become blind, the Raksases do not injure the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 नान्धो॑ऽध्व॒र्युर्भव॑ति॒ , न य॒ज्ञँ रक्षाँ॑सि घ्नन्ति
 </details>
 
@@ -195,7 +412,6 @@ title = "०९ हविर्धानस्य शकटे अन्तर�
 व्याख्यानमन्यत्र मृग्यम् गतम् इति टीकायां वर्तते । अतः पूर्वत्र स्थितः अस्य व्याख्याभागः अत्र योजनीयः
 </details>
 
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्राची॒ प्रेत॑मध्व॒रङ्क॒ल्पय॑न्ती॒ इत्या॑ह सुव॒र्गमे॒वैने॑ लो॒कङ्ग॑मय॒त्य्
@@ -204,12 +420,30 @@ title = "०९ हविर्धानस्य शकटे अन्तर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "प्राची॒ प्रेत॑मध्व॒रङ् क॒ल्पय॑न्ती॒" इत्या॑ह ।
-सु॒व॒र्गमे॒वैने॑ लो॒कङ् ग॑मयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Come ye two forward, ordaining the offering', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 "प्राची॒ प्रेत॑मध्व॒रङ् क॒ल्पय॑न्ती॒" इत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सु॒व॒र्गमे॒वैने॑ लो॒कङ् ग॑मयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he makes them go to the world of heaven.
+</details>
+
+<details><summary>मूलम्</summary>
+
 सु॒व॒र्गमे॒वैने॑ लो॒कङ् ग॑मयति ।
 </details>
 
@@ -233,14 +467,45 @@ title = "०९ हविर्धानस्य शकटे अन्तर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र॑ रमेथाव्ँ॒ वर्ष्म॑न् पृथि॒व्या इत्या॑ह ।
-वर्ष्म॒ ह्ये॑तत् पृ॑थि॒व्या यद् दे॑व॒यज॑नम् ।
-शिरो॒ वा ए॒तद् य॒ज्ञस्य॒ यद्ध॑वि॒र्धान॑म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+'There rejoice on the height of the earth ', he says,
 </details>
 
 <details><summary>मूलम्</summary>
 
 अत्र॑ रमेथाव्ँ॒ वर्ष्म॑न् पृथि॒व्या इत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वर्ष्म॒ ह्ये॑तत् पृ॑थि॒व्या यद् दे॑व॒यज॑नम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+for the place of sacrifice is the height of the earth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वर्ष्म॒ ह्ये॑तत् पृ॑थि॒व्या यद् दे॑व॒यज॑नम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शिरो॒ वा ए॒तद् य॒ज्ञस्य॒ यद्ध॑वि॒र्धान॑म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Now the oblation-holder is the head of the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 शिरो॒ वा ए॒तद् य॒ज्ञस्य॒ यद्ध॑वि॒र्धान॑म् ।
 </details>
 
@@ -265,14 +530,45 @@ title = "०९ हविर्धानस्य शकटे अन्तर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि॒वो वा॑ विष्णवु॒त वा॑ पृथि॒व्या इति॑ ।[47]  
-आ॒शीर्प॑दय॒र्चा दक्षि॑णस्य हवि॒र्धान॑स्य मे॒थीन्नि ह॑न्ति ।  
-शी॒र्ष॒त ए॒व य॒ज्ञस्य॒ यज॑मान आ॒शिषोऽव॑ रुन्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'From the sky, O Visnu, or from the earth' [3],
 </details>
 
 <details><summary>मूलम्</summary>
 
 दि॒वो वा॑ विष्णवु॒त वा॑ पृथि॒व्या इति॑ ।[47]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 आ॒शीर्प॑दय॒र्चा दक्षि॑णस्य हवि॒र्धान॑स्य मे॒थीन्नि ह॑न्ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+with this Rc verse which contains a blessing he strikes in the prop of the southern oblation-holder;
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒शीर्प॑दय॒र्चा दक्षि॑णस्य हवि॒र्धान॑स्य मे॒थीन्नि ह॑न्ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शी॒र्ष॒त ए॒व य॒ज्ञस्य॒ यज॑मान आ॒शिषोऽव॑ रुन्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily the sacrificer at the beginning of the sacrifice wins blessings.
+</details>
+
+<details><summary>मूलम्</summary>
+
 शी॒र्ष॒त ए॒व य॒ज्ञस्य॒ यज॑मान आ॒शिषोऽव॑ रुन्धे ।  
 </details>
 
@@ -296,13 +592,29 @@ title = "०९ हविर्धानस्य शकटे अन्तर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द॒ण्डो वा औ॑प॒रस् तृ॒तीय॑स्य हवि॒र्धान॑स्य वषट्का॒रेणाक्ष॑मच्छिनत् ।   
+</details>
 
-यत् तृ॒तीय॑ञ् छ॒दिर् ह॑वि॒र्धान॑योरुदाह्रि॒यते॑ , तृ॒तीय॑स्य हवि॒र्धान॒स्याव॑रुद्ध्यै ।
+<details><summary>Keith</summary>
+
+Now Danda Aupara split by the Vasat call the axle of the third oblation-holder;
 </details>
 
 <details><summary>मूलम्</summary>
 
 द॒ण्डो वा औ॑प॒रस् तृ॒तीय॑स्य हवि॒र्धान॑स्य वषट्का॒रेणाक्ष॑मच्छिनत् ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् तृ॒तीय॑ञ् छ॒दिर् ह॑वि॒र्धान॑योरुदाह्रि॒यते॑ , तृ॒तीय॑स्य हवि॒र्धान॒स्याव॑रुद्ध्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+the third cover put on the oblation-holder (serves) to make up the third oblation-holder,
+</details>
+
+<details><summary>मूलम्</summary>
 
 यत् तृ॒तीय॑ञ् छ॒दिर् ह॑वि॒र्धान॑योरुदाह्रि॒यते॑ , तृ॒तीय॑स्य हवि॒र्धान॒स्याव॑रुद्ध्यै ।
 </details>
@@ -313,7 +625,6 @@ title = "०९ हविर्धानस्य शकटे अन्तर�
 द॒ण्डः । वै । औ॒प॒रः । तृ॒तीय॑स्य । ह॒वि॒र्धान॒स्येति॑ हविः-धान॑स्य । व॒ष॒ट्का॒रेणेति॑ वषट्-का॒रेण॑ । अक्ष॑म् । अ॒च्छि॒न॒त् ।   
 
 यत् । तृ॒तीय॑म् । छ॒दिः । ह॒वि॒र्धान॑यो॒रिति॑ हविः-धान॑योः । उ॒दा॒ह्रि॒यत॒ इत्यु॑त्-आ॒ह्रि॒यते॑ । तृ॒तीय॑स्य । ह॒वि॒र्धान॒स्येति॑ हविः-धान॑स्य । अव॑रुद्ध्या॒ इत्यव॑-रु॒द्ध्यै॒ ।   
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -329,14 +640,45 @@ title = "०९ हविर्धानस्य शकटे अन्तर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिरो॒ वा ए॒तद्य॒ज्ञस्य॒ यद्ध॑वि॒र्धानम् ।
-विष्णो॑ र॒राट॑मसि॒ विष्णोः॑ पृ॒ष्ठम॒सीत्या॑ह ।
-तस्मा॑देताव॒द्धा शिरो॒ विष्यू॑तम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+The oblation-holder is the head of the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
 
 शिरो॒ वा ए॒तद्य॒ज्ञस्य॒ यद्ध॑वि॒र्धानम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 विष्णो॑ र॒राट॑मसि॒ विष्णोः॑ पृ॒ष्ठम॒सीत्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art the forehead of Visnu: thou art the back of Visnu', he says.
+</details>
+
+<details><summary>मूलम्</summary>
+
+विष्णो॑ र॒राट॑मसि॒ विष्णोः॑ पृ॒ष्ठम॒सीत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॑देताव॒द्धा शिरो॒ विष्यू॑तम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Therefore so often is the head divided.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॑देताव॒द्धा शिरो॒ विष्यू॑तम् ।
 </details>
 
@@ -360,16 +702,60 @@ title = "०९ हविर्धानस्य शकटे अन्तर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णो॒स् स्यूर॑सि॒ , विष्णो॑र्ध्रु॒वम॒सीत्या॑ह ।  
-वै॒ष्ण॒वँ हि दे॒वत॑या हवि॒र्धान॑म् ।  
-यम् प्र॑थ॒मङ् ग्र॒न्थिङ् ग्र॑थ्नी॒याद् , यत् तन्न वि॑स्रँ॒सये॒द् - अमे॑हेनाध्व॒र्युᳶ प्र मी॑येत ।  
-तस्मा॒त् स वि॒स्रस्यः॑ ॥ [48]  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art the string of Visnu; thou art the fixed point of Visnu', he says,
 </details>
 
 <details><summary>मूलम्</summary>
 
 विष्णो॒स् स्यूर॑सि॒ , विष्णो॑र्ध्रु॒वम॒सीत्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वै॒ष्ण॒वँ हि दे॒वत॑या हवि॒र्धान॑म् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+for the oblation-holder is connected with Visnu as its deity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वै॒ष्ण॒वँ हि दे॒वत॑या हवि॒र्धान॑म् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यम् प्र॑थ॒मङ् ग्र॒न्थिङ् ग्र॑थ्नी॒याद् , यत् तन्न वि॑स्रँ॒सये॒द् - अमे॑हेनाध्व॒र्युᳶ प्र मी॑येत ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Now the knot which he first ties, if he were not to unloose it, the Adhvaryu would perish from suppression of urine;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यम् प्र॑थ॒मङ् ग्र॒न्थिङ् ग्र॑थ्नी॒याद् , यत् तन्न वि॑स्रँ॒सये॒द् - अमे॑हेनाध्व॒र्युᳶ प्र मी॑येत ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॒त् स वि॒स्रस्यः॑ ॥ [48]  
+</details>
+
+<details><summary>Keith</summary>
+
+therefore it must be unloosed.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॒त् स वि॒स्रस्यः॑ ॥ [48]  
 </details>
 

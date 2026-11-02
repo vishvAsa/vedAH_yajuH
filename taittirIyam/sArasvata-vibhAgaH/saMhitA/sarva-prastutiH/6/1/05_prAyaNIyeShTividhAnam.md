@@ -14,6 +14,11 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 दे॒वा वै दे॑व॒यज॑नम् अध्यव॒साय॒ दिशो॒ न प्राजा॑न॒न् , ते ऽ३॒॑न्यो॑न्यम् उपा॑धावन् ।
 </details>
 
+<details><summary>Keith</summary>
+
+The gods, having fixed up a place of sacrifice, could not distinguish the quarters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा वै दे॑व॒यज॑नम् अध्यव॒साय॒ दिशो॒ न प्राजा॑न॒न् , ते ऽ३॒॑न्यो॑न्यम् उपा॑धावन् ।
@@ -39,6 +44,11 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 त्वया॒ प्र जा॑नाम॒ त्वयेति॒ , तेऽदि॑त्याँ॒ सम॑ध्रियन्त॒ , त्वया॒ प्र जा॑ना॒मेति॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+They ran up to one another, (saying) 'By thee shall we distinguish them, by thee.' They fixed upon Aditi, (saying, 'By thee shall we distinguish them.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वया॒ प्र जा॑नाम॒ त्वयेति॒ , तेऽदि॑त्याँ॒ सम॑ध्रियन्त॒ , त्वया॒ प्र जा॑ना॒मेति॑ ।
@@ -49,9 +59,7 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 त्वया॑ । प्रेति॑ । जा॒ना॒म॒ । त्वया॑ । इति॑ ।  
 ते । अदि॑त्याम् । समिति॑ । अ॒ध्रि॒य॒न्त॒ ।  
 त्वया॑ । प्रेति॑ । जा॒ना॒म॒ । इति॑ ।   
-
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -66,11 +74,18 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साब्र॑वी॒द् - "वरव्ँ॑ वृणै॒ मत् प्रा॑यणा ए॒व वो॑ य॒ज्ञा मदु॑दयना अस॒न्न्"इति॑ ।  
+तस्मा॑द् आदि॒त्यᳶ प्रा॑य॒णीयो॑ य॒ज्ञाना॑म् आदि॒त्य उ॑दय॒नीयः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+She said, 'Let me choose a guerdon. Let the opening oblation in the sacrifice be mine, and the concluding oblation be mine.' Therefore the opening oblation of the sacrifice belongs to Aditi, and the concluding oblation belongs to Aditi.
 </details>
 
 <details><summary>मूलम्</summary>
 
 साब्र॑वी॒द् - "वरव्ँ॑ वृणै॒ मत् प्रा॑यणा ए॒व वो॑ य॒ज्ञा मदु॑दयना अस॒न्न्"इति॑ ।  
+तस्मा॑द् आदि॒त्यᳶ प्रा॑य॒णीयो॑ य॒ज्ञाना॑म् आदि॒त्य उ॑दय॒नीयः॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -80,20 +95,9 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 मत्प्रा॑यणा॒ इति॒ मत्-प्रा॒य॒णाः॒ । ए॒व । वः॒ । य॒ज्ञाः । मदु॑दयना॒ इति॒ मत्-उ॒द॒य॒नाः॒ । अ॒स॒न् । इति॑ । 
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अधुना अदितिः दिशः प्रज्ञापयितुमना अब्रवीत् - वरं वृणै युष्मत्तः युष्माकं दिशः प्रज्ञापयिष्यामि यूयमिदमनुज्ञातुमर्हथ । कः पुनर्वर इत्याह - मत्वप्रायण इति ॥ प्रासंगिकमुदयनीयविषयं देवताविधानं, समानन्यायत्वात् । प्रयन्ति प्रारभंन्तेऽनेनेति प्रायणं प्रारम्भः देवता । उद्यन्ति उत्तिष्ठन्ति संस्थापयन्त्यनेनेति उदयनं समाप्तिः देवता । उभत्रापि करणे ल्युट्, सामान्यविवक्षया नपुंसकत्वम् । अहं प्रायणं येषामहमुदयनं येषामिति बहुव्रीहिः, 'त्वमावेकवचने' इति मादेशः । युष्माकं यज्ञाः मत्प्रायणा मदुदयना असन् सन्त्विति साऽब्रवीत्, वरं च देवेभ्यो लब्धवती ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तस्मा॑द् आदि॒त्यᳶ प्रा॑य॒णीयो॑ य॒ज्ञाना॑म् आदि॒त्य उ॑दय॒नीयः॑ ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-तस्मा॑द् आदि॒त्यᳶ प्रा॑य॒णीयो॑ य॒ज्ञाना॑म् आदि॒त्य उ॑दय॒नीयः॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,18 +119,75 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च॑ दे॒वता॑ यजति॒ पञ्च॒ दिशो॑ , दि॒शाम् प्रज्ञा॑त्यै [34] ।  
-अथो॒ पञ्चा॑क्षरा प॒ङ्क्तिᳶ । पाङ्क्तो॑ य॒ज्ञः । य॒ज्ञमे॒वाव॑ रुन्धे ।  
-पथ्याँ॑ स्व॒स्तिम् अ॑यजन् , प्राची॑मे॒व तया॒ दिश॒म् प्राजा॑नन् ।  
-अ॒ग्निना॑ दक्षि॒णा , सोमे॑न प्र॒तीचीँ॑ , सवि॒त्रोदी॑ची॒म् , अदि॑त्यो॒र्ध्वाम्  +++( प्राजानन्)+++।
-पथ्याँ॑ स्व॒स्तिय्ँ य॑जति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to five gods; there are five quarters, (and so it serves) for the distinction of the quarters [1].
 </details>
 
 <details><summary>मूलम्</summary>
 
 पञ्च॑ दे॒वता॑ यजति॒ पञ्च॒ दिशो॑ , दि॒शाम् प्रज्ञा॑त्यै [34] ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अथो॒ पञ्चा॑क्षरा प॒ङ्क्तिᳶ । पाङ्क्तो॑ य॒ज्ञः । य॒ज्ञमे॒वाव॑ रुन्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Now the Pankti is of five elements, the sacrifice is fivefold; verily he wins the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथो॒ पञ्चा॑क्षरा प॒ङ्क्तिᳶ । पाङ्क्तो॑ य॒ज्ञः । य॒ज्ञमे॒वाव॑ रुन्धे ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पथ्याँ॑ स्व॒स्तिम् अ॑यजन् , प्राची॑मे॒व तया॒ दिश॒म् प्राजा॑नन् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+They made sacrifice to Pathya Svasti. The eastern quarter they distinguished by her,
+</details>
+
+<details><summary>मूलम्</summary>
+
+पथ्याँ॑ स्व॒स्तिम् अ॑यजन् , प्राची॑मे॒व तया॒ दिश॒म् प्राजा॑नन् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒ग्निना॑ दक्षि॒णा , सोमे॑न प्र॒तीचीँ॑ , सवि॒त्रोदी॑ची॒म् , अदि॑त्यो॒र्ध्वाम्  +++( प्राजानन्)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+by Agni the southern, by Soma the western, by Savitr the northern, by Aditi the zenith.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्निना॑ दक्षि॒णा , सोमे॑न प्र॒तीचीँ॑ , सवि॒त्रोदी॑ची॒म् , अदि॑त्यो॒र्ध्वाम्  +++( प्राजानन्)+++।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पथ्याँ॑ स्व॒स्तिय्ँ य॑जति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to Pathya Svasti;
+</details>
+
+<details><summary>मूलम्</summary>
+
 पथ्याँ॑ स्व॒स्तिय्ँ य॑जति ।
 </details>
 
@@ -155,24 +216,120 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राची॑मे॒व तया॒ दिश॒म् प्र जा॑नाति ।
-पथ्याँ॑ स्व॒स्तिमि॒ष्ट्वा ऽग्नीषोमौ॑ यजति ।
-चक्षु॑षी॒ वा ए॒ते य॒ज्ञस्य॒ ,
-यद् अ॒ग्नीषोमौ॒ ताभ्या॑म् ए॒वानु॑ पश्यति [35]।  
-अ॒ग्नीषोमा॑व् इ॒ष्ट्वा स॑वि॒तारय्ँ॑ यजति ।
-स॒वि॒तृप्र॑सूत ए॒वानु॑ पश्यति ।  
-स॒वि॒तार॑म् इ॒ष्ट्वाऽदि॑तिय्ँ यजति ।
-इ॒यव्ँ वा अदि॑तिर् अ॒स्यामे॒व प्र॑ति॒ष्ठायानु॑ पश्यति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he distinguishes the eastern quarter.
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्राची॑मे॒व तया॒ दिश॒म् प्र जा॑नाति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पथ्याँ॑ स्व॒स्तिमि॒ष्ट्वा ऽग्नीषोमौ॑ यजति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Having offered to Pathya Svasti, he offers to Agni and Soma.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पथ्याँ॑ स्व॒स्तिमि॒ष्ट्वा ऽग्नीषोमौ॑ यजति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 चक्षु॑षी॒ वा ए॒ते य॒ज्ञस्य॒ ,
+</details>
+
+<details><summary>Keith</summary>
+
+Agni and Soma indeed are the eyes of the sacrificer;
+</details>
+
+<details><summary>मूलम्</summary>
+
+चक्षु॑षी॒ वा ए॒ते य॒ज्ञस्य॒ ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यद् अ॒ग्नीषोमौ॒ ताभ्या॑म् ए॒वानु॑ पश्यति [35]।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he sees with them [2].
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद् अ॒ग्नीषोमौ॒ ताभ्या॑म् ए॒वानु॑ पश्यति [35]।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒ग्नीषोमा॑व् इ॒ष्ट्वा स॑वि॒तारय्ँ॑ यजति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Having offered to Agni and Soma, he offers to Savitr;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्नीषोमा॑व् इ॒ष्ट्वा स॑वि॒तारय्ँ॑ यजति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स॒वि॒तृप्र॑सूत ए॒वानु॑ पश्यति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily on the instigation of Savitr he sees.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒वि॒तृप्र॑सूत ए॒वानु॑ पश्यति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स॒वि॒तार॑म् इ॒ष्ट्वाऽदि॑तिय्ँ यजति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Having offered to Savitr, he offers to Aditi;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒वि॒तार॑म् इ॒ष्ट्वाऽदि॑तिय्ँ यजति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ॒यव्ँ वा अदि॑तिर् अ॒स्यामे॒व प्र॑ति॒ष्ठायानु॑ पश्यति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Aditi indeed is this (earth); verily taking his stand on it he sees.
+</details>
+
+<details><summary>मूलम्</summary>
+
 इ॒यव्ँ वा अदि॑तिर् अ॒स्यामे॒व प्र॑ति॒ष्ठायानु॑ पश्यति ।
 </details>
 
@@ -193,7 +350,6 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 इ॒यम् । वै । अदि॑तिः । अ॒स्याम् । ए॒व । प्र॒ति॒ष्ठायेति॑ प्रति-स्थाय॑ । अन्विति॑ । प॒श्य॒ति॒ ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5प्राचीमेवेत्यादीनि फलानि ॥ अग्नीषोमौ । 'ईदग्नेः' इतीत्वम्, 'अग्नेस्तुत्स्तोमसोमाः' इति षत्वम्; 'देवताद्वन्द्वे च' इति द्वयोर्युगपत्प्रकृतिस्वरत्वम् । चक्षुषी इत्यादि । यज्ञचक्षुर्भूताभ्यां ताभ्यामनुपश्यति अनुक्रमेण जानाति, अनन्तरे दिशौ दक्षिणां प्रतीचीं च जानाति । सवितृप्रसूतः सवित्रा प्रेरितः अनुज्ञातो षा अनन्तरामुदींची दिशं जानाति । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । इयमित्यादि । अस्यां पृथिव्यां प्रतिष्ठाय प्रतिष्ठितो भूत्वा अनन्तरामूर्ध्वां दिशं जानाति । अत्र सर्वत्रेष्ट्वेति क्त्वाप्रत्ययेन यष्टव्यानां देवतानां क्रमं दर्शयति ॥
@@ -207,12 +363,30 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदि॑तिमि॒ष्ट्वा मा॑रु॒तीम् ऋच॒म् अन्वा॑ह - म॒रुतो॒ वै दे॒वानाव्ँ॒ विशः॑ ।  
-दे॒व॒वि॒शङ् खलु॒ वै कल्प॑मानम् मनुष्यवि॒शम् अनु॑ कल्पते । यन् मा॑रु॒तीम् ऋच॑म् अ॒न्वाह॑ वि॒शाङ्कॢप्त्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Having offered to Aditi, he repeats the verse to the Maruts. The Maruts are the subjects of the gods.
 </details>
 
 <details><summary>मूलम्</summary>
 
 अदि॑तिमि॒ष्ट्वा मा॑रु॒तीम् ऋच॒म् अन्वा॑ह - म॒रुतो॒ वै दे॒वानाव्ँ॒ विशः॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दे॒व॒वि॒शङ् खलु॒ वै कल्प॑मानम् मनुष्यवि॒शम् अनु॑ कल्पते । यन् मा॑रु॒तीम् ऋच॑म् अ॒न्वाह॑ वि॒शाङ्कॢप्त्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+As the subjects of the gods are in harmony, so he brings the human subjects into harmony.' In that he repeats the verse to the Maruts, it is to bring subjects into harmony.
+</details>
+
+<details><summary>मूलम्</summary>
+
 दे॒व॒वि॒शङ् खलु॒ वै कल्प॑मानम् मनुष्यवि॒शम् अनु॑ कल्पते । यन् मा॑रु॒तीम् ऋच॑म् अ॒न्वाह॑ वि॒शाङ्कॢप्त्यै॑ ।
 </details>
 
@@ -225,7 +399,6 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 दे॒व॒वि॒शमिति॑ देव-वि॒शम् । खलु॑ । वै । कल्प॑मानम् । म॒नु॒ष्य॒वि॒शमिति॑ मनुष्य-वि॒शम् । अन्विति॑ । क॒ल्प॒ते॒ । 
 
 यत् । मा॒रु॒तीम् । ऋच॑म् । अ॒न्वाहेत्य॑नु-आह॑ । वि॒शाम् । कॢप्त्यै॑ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -244,11 +417,15 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति - "प्रया॒जव॑दननूया॒जम् प्रा॑य॒णीय॑ङ् का॒र्य॑म् अनूया॒जव॑द् अप्रया॒जम् मु॑दय॒नीयम्"इति॑  ।[36]
 </details>
 
+<details><summary>Keith</summary>
+
+The theologians say, 'The opening oblation should be performed with a fore-offering, but without an after-offering; the concluding oblation should be performed with all after-offering [3], but without a fore-offering.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति - "प्रया॒जव॑दननूया॒जम् प्रा॑य॒णीय॑ङ् का॒र्य॑म् अनूया॒जव॑द् अप्रया॒जम् मु॑दय॒नीयम्"इति॑  ।[36]
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -257,7 +434,6 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 
 प्र॒या॒जव॒दिति॑ प्रया॒ज-व॒त् । अ॒न॒नू॒या॒जमित्यन॑नु-या॒जम् । प्रा॒य॒णीय॒मिति॑ प्र-अ॒य॒नीय॑म् । का॒र्य॑म् । अ॒नू॒या॒जव॒दित्य॑नूया॒ज-व॒त् । [36]  अ॒प्र॒या॒जमित्य॑प्र-या॒जम् । उ॒द॒य॒नीय॒मित्यु॑त्-अ॒य॒नीय॑म् । इति॑ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -273,6 +449,11 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 
 इ॒मे वै प्र॑या॒जा, अ॒मी अ॑नूया॒जाः ।
 सै॒व सा य॒ज्ञस्य॒ सन्त॑तिः ।
+</details>
+
+<details><summary>Keith</summary>
+
+These are the fore-offerings, and these the after-offerings, and this is the course of the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -300,13 +481,31 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् तथा॒ न का॒र्य॑म् , आ॒त्मा वै प्र॑या॒जाᳶ प्र॒जा ऽनू॑या॒जाः । यत् प्र॑या॒जान् अ॑न्तरि॒याद् , आ॒त्मान॑म् अ॒न्तरि॑या॒द् , यद॑नूया॒जान् अ॑न्तरि॒यात् , प्र॒जाम् अ॒न्तरि॑यात् ।  
-यत॒ᳵ खलु॒ वै य॒ज्ञस्य॒ वित॑तस्य॒ न क्रि॒यते॒ तदनु॑ य॒ज्ञᳶ परा॑ भवति ।
-य॒ज्ञम् प॑रा॒भव॑न्तय्ँ॒ यज॑मा॒नोऽनु॑ परा॑भवति ।[37]  
+</details>
+
+<details><summary>Keith</summary>
+
+This is not to be followed. The fore offerings are the self; the after-offerings the offspring. If he were to omit the fore-offerings, he would omit the self; if he were to omits the after-offerings, he would omit offspring.
 </details>
 
 <details><summary>मूलम्</summary>
 
 तत् तथा॒ न का॒र्य॑म् , आ॒त्मा वै प्र॑या॒जाᳶ प्र॒जा ऽनू॑या॒जाः । यत् प्र॑या॒जान् अ॑न्तरि॒याद् , आ॒त्मान॑म् अ॒न्तरि॑या॒द् , यद॑नूया॒जान् अ॑न्तरि॒यात् , प्र॒जाम् अ॒न्तरि॑यात् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत॒ᳵ खलु॒ वै य॒ज्ञस्य॒ वित॑तस्य॒ न क्रि॒यते॒ तदनु॑ य॒ज्ञᳶ परा॑ भवति ।
+य॒ज्ञम् प॑रा॒भव॑न्तय्ँ॒ यज॑मा॒नोऽनु॑ परा॑भवति ।[37]  
+</details>
+
+<details><summary>Keith</summary>
+
+In so far as the whole of the sacrifice is not performed, in so far does the sacrifice come to ruin, and the sacrificer comes to ruin along with the sacrifice [4].
+</details>
+
+<details><summary>मूलम्</summary>
+
 यत॒ᳵ खलु॒ वै य॒ज्ञस्य॒ वित॑तस्य॒ न क्रि॒यते॒ तदनु॑ य॒ज्ञᳶ परा॑ भवति ।
 य॒ज्ञम् प॑रा॒भव॑न्तय्ँ॒ यज॑मा॒नोऽनु॑ परा॑भवति ।[37]  
 </details>
@@ -319,7 +518,6 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 
 य॒ज्ञम् । प॒रा॒भव॑न्त॒मिति॑ परा-भव॑न्तम् । यज॑मानः । अन्विति॑ । [37]  परेति॑ । भ॒व॒ति॒ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -334,14 +532,45 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒या॒जव॑द् ए॒वानू॑या॒जव॑त् प्राय॒णीय॑ङ् का॒र्य॑म् , प्रया॒जव॑द् अनूया॒जव॑द् उदय॒नीय॒न् ,
-न आत्मान॑म् अन्त॒रेति॒ , न प्र॒जाम् ।
-न य॒ज्ञᳶ प॑रा॒भव॑ति॒ , न यज॑मानः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Verily the opening oblation should be performed with both fore- and after-offerings, and the concluding oblation should be performed both with fore- and after offerings.
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्र॒या॒जव॑द् ए॒वानू॑या॒जव॑त् प्राय॒णीय॑ङ् का॒र्य॑म् , प्रया॒जव॑द् अनूया॒जव॑द् उदय॒नीय॒न् ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 न आत्मान॑म् अन्त॒रेति॒ , न प्र॒जाम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+He does not omit the self, nor offspring;
+</details>
+
+<details><summary>मूलम्</summary>
+
+न आत्मान॑म् अन्त॒रेति॒ , न प्र॒जाम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न य॒ज्ञᳶ प॑रा॒भव॑ति॒ , न यज॑मानः ।
+</details>
+
+<details><summary>Keith</summary>
+
+the sacrifice does not come to ruin, nor the sacrificer.
+</details>
+
+<details><summary>मूलम्</summary>
+
 न य॒ज्ञᳶ प॑रा॒भव॑ति॒ , न यज॑मानः ।
 </details>
 
@@ -365,15 +594,32 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा॒य॒णीय॑स्य निष्का॒स उ॑दय॒नीय॑म् अ॒भि निर्व॑पति॒ ,
-सैव सा य॒ज्ञस्य॒ सन्त॑तिः ।
+</details>
+
+<details><summary>Keith</summary>
+
+He offers the concluding oblation in the scrapings of the opening oblation;
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रा॒य॒णीय॑स्य निष्का॒स उ॑दय॒नीय॑म् अ॒भि निर्व॑पति॒ ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सैव सा य॒ज्ञस्य॒ सन्त॑तिः ।
 </details>
 
+<details><summary>Keith</summary>
+
+this is the course of the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सैव सा य॒ज्ञस्य॒ सन्त॑तिः ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -395,6 +641,11 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 याᳶ प्रा॑य॒णीय॑स्य या॒ज्या॑ यत्ता उ॑दय॒नीय॑स्य या॒ज्याः॑ कु॒र्यात् , परा॑ङ् अ॒मुल्ँ लो॒कम् आ रो॑हेत् प्र॒मायु॑कस् स्यात् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Now if he were to make the Yajya verses of the opening libation the Yajya verses of the concluding libation, he would mount to the other world away from this, and would be liable to die.
+</details>
+
 <details><summary>मूलम्</summary>
 
 याᳶ प्रा॑य॒णीय॑स्य या॒ज्या॑ यत्ता उ॑दय॒नीय॑स्य या॒ज्याः॑ कु॒र्यात् , परा॑ङ् अ॒मुल्ँ लो॒कम् आ रो॑हेत् प्र॒मायु॑कस् स्यात् ।
@@ -404,7 +655,6 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 
 याः । प्रा॒य॒णीय॒स्येति॑ प्र-अ॒य॒नीय॑स्य । या॒ज्याः॑ । यत् । ताः । उ॒द॒य॒नीय॒स्येत्यु॑त्-अ॒य॒नीय॑स्य । या॒ज्याः॑ । कु॒र्यात् । पराङ्॑ । अ॒मुम् । लो॒कम् । एति॑ । रो॒हे॒त् । प्र॒मायु॑क॒ इति॑ प्र-मायु॑कः । स्या॒त् । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -419,12 +669,30 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याᳶ प्रा॑य॒णीय॑स्य पुरोनुवा॒क्या॑स् , ता उ॑दय॒नीय॑स्य या॒ज्याः॑ करोत्य् ,
-अ॒स्मिन्न् ए॒व लो॒के प्रति॑ तिष्ठति ॥ [38]  
+</details>
+
+<details><summary>Keith</summary>
+
+The Puronuvakya verses of the opening libation should be made the Yajya verses of the concluding libation;
 </details>
 
 <details><summary>मूलम्</summary>
 
 याᳶ प्रा॑य॒णीय॑स्य पुरोनुवा॒क्या॑स् , ता उ॑दय॒नीय॑स्य या॒ज्याः॑ करोत्य् ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒स्मिन्न् ए॒व लो॒के प्रति॑ तिष्ठति ॥ [38]  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he finds support in this world.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अ॒स्मिन्न् ए॒व लो॒के प्रति॑ तिष्ठति ॥ [38]  
 </details>
 
@@ -439,3 +707,4 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 
 इति षष्ठे प्रथमे पञ्चमोनुवाकः ॥  
 </details>
+

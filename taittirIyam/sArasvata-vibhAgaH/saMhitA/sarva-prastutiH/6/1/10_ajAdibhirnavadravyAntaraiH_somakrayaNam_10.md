@@ -17,13 +17,17 @@ title = "१० अजादिभिर्नवद्रव्यान्त�
 गोस्तु म॑हि॒मान॒न् नाव॑ तिरेत् ।
 </details>
 
+<details><summary>Keith</summary>
+
+If he were to barter (it) in response (to the words), 'Let me buy with one-sixteenth (of the cow) from thee, with one-eighth', he would make the Soma not worth a cow, the sacrificer not worth a cow, the Adhvaryu not, worth a cow, but he would not depreciate the mightiness of the cow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत् "क॒लया॑ ते श॒फेन॑ ते क्रीणा॒नी"ति॑   
 पणे॒तागो॑अर्घँ॒ सोम॑ङ् कु॒र्याद् , अगो॑अर्घय्ँ॒ यज॑मान॒म् , अगो॑अर्घमध्व॒र्युम् ।  
 गोस्तु म॑हि॒मान॒न् नाव॑ तिरेत् ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -50,17 +54,34 @@ title = "१० अजादिभिर्नवद्रव्यान्त�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "गवा॑ ते क्रीणा॒नी"त्ये॒व ब्रू॑यात् ।  
-गोअ॒र्घमे॒व सोम॑ङ्क॒रोति॑ , गोअ॒र्घय्ँ यज॑मानङ् , गोअ॒र्घम॑ध्व॒र्युम् ।   
-न गोर्म॑हि॒मान॒मव॑ तिरति ।
+</details>
+
+<details><summary>Keith</summary>
+
+'With a cow let me buy from thee', verily he should say;
 </details>
 
 <details><summary>मूलम्</summary>
 
 "गवा॑ ते क्रीणा॒नी"त्ये॒व ब्रू॑यात् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गोअ॒र्घमे॒व सोम॑ङ्क॒रोति॑ , गोअ॒र्घय्ँ यज॑मानङ् , गोअ॒र्घम॑ध्व॒र्युम् ।   
 न गोर्म॑हि॒मान॒मव॑ तिरति ।
 </details>
 
+<details><summary>Keith</summary>
+
+verily he makes the Soma worth a cow, the sacrificer worth ### a cow, the Adhvaryu worth a cow, yet still he does not depreciate the mightiness of the cow.
+</details>
+
+<details><summary>मूलम्</summary>
+
+गोअ॒र्घमे॒व सोम॑ङ्क॒रोति॑ , गोअ॒र्घय्ँ यज॑मानङ् , गोअ॒र्घम॑ध्व॒र्युम् ।   
+न गोर्म॑हि॒मान॒मव॑ तिरति ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -85,29 +106,183 @@ title = "१० अजादिभिर्नवद्रव्यान्त�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒जया॑ क्रीणाति । सत॑पसमे॒वैन॑ङ् क्रीणाति ।  
-हिर॑ण्येन क्रीणाति । सशु॑क्रमे॒वैन॑ङ् क्रीणाति ।[66]  
-धे॒न्वा क्री॑णाति । साशि॑रमे॒वैन॑ङ् क्रीणाति ।  
-ऋ॒ष॒भेण॑ क्रीणाति । सेन्द्र॑मे॒वैन॑ङ् क्रीणाति ।  
-अ॒न॒डुहा॑ क्रीणाति । वह्नि॒र्वा अ॑न॒ड्वान् ।  
-वह्नि॑नै॒व वह्नि॑ य॒ज्ञस्य॑ क्रीणाति ।  
-मि॒थु॒नाभ्या॑ङ्क्रीणाति । मि॒थु॒नस्याव॑रुद्ध्यै ।  
-वास॑सा क्रीणाति । स॒र्व॒दे॒वत्यव्ँ॑ वै वासः॑ ।  
-सर्वा॑भ्य ए॒वैन॑न्दे॒वता॑भ्यᳵ क्रीणाति ।  
-दश॒ सम्प॑द्यन्ते॒ ।
+</details>
+
+<details><summary>Keith</summary>
+
+He buys (it) with a she-goat; verily he buys it full of fervour;
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒जया॑ क्रीणाति । सत॑पसमे॒वैन॑ङ् क्रीणाति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हिर॑ण्येन क्रीणाति । सशु॑क्रमे॒वैन॑ङ् क्रीणाति ।[66]  
+</details>
+
+<details><summary>Keith</summary>
+
+he buys (it) with gold; verily he buys it bright [1];
+</details>
+
+<details><summary>मूलम्</summary>
+
+हिर॑ण्येन क्रीणाति । सशु॑क्रमे॒वैन॑ङ् क्रीणाति ।[66]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 धे॒न्वा क्री॑णाति । साशि॑रमे॒वैन॑ङ् क्रीणाति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he buys (it) with a milch cow; verily he buys it with milk for the mixing:
+</details>
+
+<details><summary>मूलम्</summary>
+
+धे॒न्वा क्री॑णाति । साशि॑रमे॒वैन॑ङ् क्रीणाति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ऋ॒ष॒भेण॑ क्रीणाति । सेन्द्र॑मे॒वैन॑ङ् क्रीणाति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he buys (it) with a bull; verily he buys it with Indra;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऋ॒ष॒भेण॑ क्रीणाति । सेन्द्र॑मे॒वैन॑ङ् क्रीणाति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒न॒डुहा॑ क्रीणाति । वह्नि॒र्वा अ॑न॒ड्वान् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he buys (it) with a draught ox, the draught ox is the bearer;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒न॒डुहा॑ क्रीणाति । वह्नि॒र्वा अ॑न॒ड्वान् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वह्नि॑नै॒व वह्नि॑ य॒ज्ञस्य॑ क्रीणाति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily by the bearer he buys the bearer of the sacrifice;
+</details>
+
+<details><summary>मूलम्</summary>
+
+वह्नि॑नै॒व वह्नि॑ य॒ज्ञस्य॑ क्रीणाति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मि॒थु॒नाभ्या॑ङ्क्रीणाति । मि॒थु॒नस्याव॑रुद्ध्यै ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he buys with two as a pair, to win a pair;
+</details>
+
+<details><summary>मूलम्</summary>
+
+मि॒थु॒नाभ्या॑ङ्क्रीणाति । मि॒थु॒नस्याव॑रुद्ध्यै ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वास॑सा क्रीणाति । स॒र्व॒दे॒वत्यव्ँ॑ वै वासः॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he buys with a garment, the garment is connected with all the gods;
+</details>
+
+<details><summary>मूलम्</summary>
+
+वास॑सा क्रीणाति । स॒र्व॒दे॒वत्यव्ँ॑ वै वासः॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सर्वा॑भ्य ए॒वैन॑न्दे॒वता॑भ्यᳵ क्रीणाति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he buys it for all the gods.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वा॑भ्य ए॒वैन॑न्दे॒वता॑भ्यᳵ क्रीणाति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दश॒ सम्प॑द्यन्ते॒ ।
+</details>
+
+<details><summary>Keith</summary>
+
+These,, make up ten.
+</details>
+
+<details><summary>मूलम्</summary>
+
+दश॒ सम्प॑द्यन्ते॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दशा॑क्षरा वि॒राट् ।
+अन्नव्ँ॑ वि॒राट् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The Viraj has ten syllables, the Viraj is food;
+</details>
+
+<details><summary>मूलम्</summary>
+
+दशा॑क्षरा वि॒राट् ।
+अन्नव्ँ॑ वि॒राट् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वि॒राजै॒वान्नाद्य॒मव॑ रुन्धे ।[67]  
+</details>
+
+<details><summary>Keith</summary>
+
+verily by the Viraj he wins proper food [2].
+</details>
+
+<details><summary>मूलम्</summary>
+
+वि॒राजै॒वान्नाद्य॒मव॑ रुन्धे ।[67]  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,26 +306,10 @@ title = "१० अजादिभिर्नवद्रव्यान्त�
 दश॑ । समिति॑ । प॒द्य॒न्ते॒ । 
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अजयेत्यादयो विधयः ॥ सतपसं सयज्ञमेव सोमं क्रीणाति । मन्त्रे 'तपसस्तनूः' इत्यजाया अभिधानात् । हिरण्येनेति । सशुक्रं सरसम् । धन्वेति । साशिरं सपोळम् । ऋषभेणेति । सेन्द्रम् । इन्द्रो हि देवर्षभः वर्षिता च कामानाम् । अनडुहेति । वह्निर्वा अनड्वान् । अनो वहतीत्यनड्वान्, पृषोदरादिः । वह्निना अनोवोढ्रा अनडुहा यज्ञस्य वोढारं सोमं क्रीणाति । 'सुपां सुलुक्' - इति द्वितीयाया लुक् । मिथुनाभ्यामिति । गतम् । वाससेति । सर्वदेवत्यत्वमुक्तम् । सर्वाभ्यो देवताभ्यः सर्व देवतार्थमेनं क्रीणाति । यद्वा - सर्व देवतासकाशादेनं क्रीणाति । दश संपद्यन्ते इत्यादि । गवा वत्सेन च सह दश भवन्त्यजादयः ।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-दशा॑क्षरा वि॒राट् ।
-अन्नव्ँ॑ वि॒राट् ।  
-वि॒राजै॒वान्नाद्य॒मव॑ रुन्धे ।[67]  
-</details>
-
-<details><summary>मूलम्</summary>
-
-दशा॑क्षरा वि॒राट् ।
-अन्नव्ँ॑ वि॒राट् ।  
-वि॒राजै॒वान्नाद्य॒मव॑ रुन्धे ।[67]  
-</details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -179,21 +338,33 @@ title = "१० अजादिभिर्नवद्रव्यान्त�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "तप॑सस् त॒नूर॑सि प्र॒जाप॑ते॒र्वर्ण॒" इत्या॑ह ।  
-
 प॒शुभ्य॑ ए॒व तद॑ध्व॒र्युर्नि ह्नु॑ते ,  
- 
 आ॒त्मनोऽना॑व्रस्काय॒ गच्छ॑ति ,
+</details>
 
-श्रिय॒म् प्र प॒शूना॑प्नोति॒ य ए॒वव्ँ वेद॑ ।    
+<details><summary>Keith</summary>
+
+'Thou art the bodily form of penance, Prajapati's kind', he says, verily the Adhvaryu makes atonement to the cattle, that he may not be cut off.
 </details>
 
 <details><summary>मूलम्</summary>
 
 "तप॑सस् त॒नूर॑सि प्र॒जाप॑ते॒र्वर्ण॒" इत्या॑ह ।  
-
 प॒शुभ्य॑ ए॒व तद॑ध्व॒र्युर्नि ह्नु॑ते ,  
-
 आ॒त्मनोऽना॑व्रस्काय॒ गच्छ॑ति ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रिय॒म् प्र प॒शूना॑प्नोति॒ य ए॒वव्ँ वेद॑ ।    
+</details>
+
+<details><summary>Keith</summary>
+
+He attains prosperity, be obtains cattle who knows thus.
+</details>
+
+<details><summary>मूलम्</summary>
 
 श्रिय॒म् प्र प॒शूना॑प्नोति॒ य ए॒वव्ँ वेद॑ ।  
 </details>
@@ -205,7 +376,6 @@ title = "१० अजादिभिर्नवद्रव्यान्त�
 प॒शुभ्य॒ इति॑ प॒शु-भ्यः॒ । ए॒व । तत् । अ॒ध्व॒र्युः । नीति॑ । ह्नु॒ते॒ ।   
 आ॒त्मनः॑ । अना॑व्रस्का॒येत्यना॑-व्र॒स्का॒य॒ । गच्छ॑ति ।   
 श्रिय॑म् । प्रेति॑ । प॒शून् । आ॒प्नो॒ति॒ । यः । ए॒वम् । वेद॑ ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -223,11 +393,15 @@ title = "१० अजादिभिर्नवद्रव्यान्त�
 "शु॒क्रन्ते॑ शु॒क्रेण॑ क्रीणा॒मी"त्या॑ह  यथाय॒जुर् ए॒वैतत् ।
 </details>
 
+<details><summary>Keith</summary>
+
+'The bright with the bright for thee I buy', he says that is according to the text.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "शु॒क्रन्ते॑ शु॒क्रेण॑ क्रीणा॒मी"त्या॑ह  यथाय॒जुर् ए॒वैतत् ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -249,22 +423,38 @@ title = "१० अजादिभिर्नवद्रव्यान्त�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वा वै येन॒ हिर॑ण्येन॒ सोम॒मक्री॑ण॒न् , तद॑भी॒षहा॒ पुन॒राद॑दत॒ -  "को हि तेज॑सा विक्रे॒ष्यत॒ "इति॑ ।  
-येन॒ हिर॑ण्येन सोम॑ङ्क्रीणी॒यात् , तद॑भी॒षहा॒ पुन॒रा द॑दीत॒ , तेज॑ ए॒वात्मन्ध॑त्ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+The gods retook by force the gold where with they purchased the Soma, saying, 'Who shall barter brilliance?'
 </details>
 
 <details><summary>मूलम्</summary>
 
 दे॒वा वै येन॒ हिर॑ण्येन॒ सोम॒मक्री॑ण॒न् , तद॑भी॒षहा॒ पुन॒राद॑दत॒ -  "को हि तेज॑सा विक्रे॒ष्यत॒ "इति॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 येन॒ हिर॑ण्येन सोम॑ङ्क्रीणी॒यात् , तद॑भी॒षहा॒ पुन॒रा द॑दीत॒ , तेज॑ ए॒वात्मन्ध॑त्ते ।
 </details>
 
+<details><summary>Keith</summary>
+
+The gold by which [3] he buys the Soma he should retake by force; verily he bestows brilliance upon himself.
+</details>
+
+<details><summary>मूलम्</summary>
+
+येन॒ हिर॑ण्येन सोम॑ङ्क्रीणी॒यात् , तद॑भी॒षहा॒ पुन॒रा द॑दीत॒ , तेज॑ ए॒वात्मन्ध॑त्ते ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
 दे॒वाः । वै । येन॑ । हिर॑ण्येन । सोम॑म् । अक्री॑णन् । तत् । अ॒भी॒षहेत्य॑भि-सहा॑ । पुनः॑ । एति॑ । अद॑दत । कः । हि । तेज॑सा । वि॒क्रे॒ष्यत॒ इति॑ वि-क्रे॒ष्यते॑ । इति॑ ।  
 
 येन॑ । हिर॑ण्येन । [68]  सोम॑म् । क्री॒णी॒यात् । तत् । अ॒भी॒षहेत्य॑भि-सहा॑ । पुनः॑ । एति॑ । द॒दी॒त॒ । तेजः॑ । ए॒व । आ॒त्मन् । ध॒त्ते॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -280,18 +470,32 @@ title = "१० अजादिभिर्नवद्रव्यान्त�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अस्मे ज्योति॑स् - सोमविक्र॒यिणि॒ तम॒" इत्या॑ह ।  
+</details>
 
-ज्योति॑रे॒व यज॑माने दधाति ।  
+<details><summary>Keith</summary>
 
-तम॑सा॒ सोमविक्र॒यिण॑मर्पयति ।
+'Ours be light, darkness be on the Soma seller', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 "अस्मे ज्योति॑स् - सोमविक्र॒यिणि॒ तम॒" इत्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्योति॑रे॒व यज॑माने दधाति ।  
+तम॑सा॒ सोमविक्र॒यिण॑मर्पयति ।
+</details>
 
+<details><summary>Keith</summary>
+
+verily he places light in the sacrificer, and bestows darkness on the Soma-seller.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्योति॑रे॒व यज॑माने दधाति ।  
 तम॑सा॒ सोमविक्र॒यिण॑मर्पयति ।
 </details>
 
@@ -301,9 +505,7 @@ title = "१० अजादिभिर्नवद्रव्यान्त�
 
 ज्योतिः॑ । ए॒व । यज॑माने । द॒धा॒ति॒ ।   
 तम॑सा । सो॒म॒वि॒क्र॒यिण॒मिति॑ सोम-वि॒क्र॒यिण॑म् । अ॒र्प॒य॒ति॒ । 
-
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -318,22 +520,47 @@ title = "१० अजादिभिर्नवद्रव्यान्त�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदनु॑पग्रथ्य ह॒न्याद् द॑न्द॒शूका॒स्ताँ समाँ॑ स॒र्पास्स्युः॑ ।   
+</details>
 
-"इ॒दम॒हँ स॒र्पाणा॑न् दन्द॒शूका॑नाङ् ग्री॒वा उप॑ ग्रथ्ना॒मी"त्या॑ह ।  
+<details><summary>Keith</summary>
 
-अद॑न्दशूका॒स्ताँ समाँ॑ स॒र्पा भ॑वन्ति ,  
-
-तम॑सा सोमविक्र॒यिणव्ँ॑ विध्यति ।
+If he were to strike (the Soma seller) without inter twining (the flock of wool), then the serpents would bite during that year.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यदनु॑पग्रथ्य ह॒न्याद् द॑न्द॒शूका॒स्ताँ समाँ॑ स॒र्पास्स्युः॑ ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इ॒दम॒हँ स॒र्पाणा॑न् दन्द॒शूका॑नाङ् ग्री॒वा उप॑ ग्रथ्ना॒मी"त्या॑ह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thus do I intertwine the necks of the biting serpents', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"इ॒दम॒हँ स॒र्पाणा॑न् दन्द॒शूका॑नाङ् ग्री॒वा उप॑ ग्रथ्ना॒मी"त्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद॑न्दशूका॒स्ताँ समाँ॑ स॒र्पा भ॑वन्ति ,  
+तम॑सा सोमविक्र॒यिणव्ँ॑ विध्यति ।
+</details>
 
+<details><summary>Keith</summary>
+
+the serpents do not bite that year, he pierces the Soma-seller with darkness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अद॑न्दशूका॒स्ताँ समाँ॑ स॒र्पा भ॑वन्ति ,  
 तम॑सा सोमविक्र॒यिणव्ँ॑ विध्यति ।
 </details>
 
@@ -347,7 +574,6 @@ title = "१० अजादिभिर्नवद्रव्यान्त�
 
 तम॑सा । सो॒म॒वि॒क्र॒यिण॒मिति॑ सोम-वि॒क्र॒यिण॑म् । वि॒ध्य॒ति॒ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -363,19 +589,59 @@ title = "१० अजादिभिर्नवद्रव्यान्त�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "स्वान॑ भ्राजे"त्या॑ह ।
-ए॒ते वा अ॒मुष्मिल्ँ॑ लो॒के सोम॑मरक्ष॒न् , तेभ्योऽधि॒ सोम॒माऽऽह॑रन् ।[69]  
+</details>
 
-यदे॒तेभ्य॑स् सोम॒क्रय॑णा॒न्नानु॑दि॒शेदक्री॑तोऽस्य॒ सोम॑स् स्या॒न्नास्यै॒ते॑ऽमुष्मिल्ँ॑ लो॒के सोमँ॑ रक्षेयुः ।  
+<details><summary>Keith</summary>
 
-यदे॒तेभ्य॑स् सोम॒क्रय॑णाननुदि॒शति॑  क्री॒तो॑ऽस्य॒ सोमो॑ भवत्य् - ए॒ते॑ऽस्या॒मुष्मिल्ँ॑ लो॒के सोमँ॑ रक्षन्ति ॥ [70]  
+'O Svana [4], Bhraja', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 "स्वान॑ भ्राजे"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ए॒ते वा अ॒मुष्मिल्ँ॑ लो॒के सोम॑मरक्ष॒न् , तेभ्योऽधि॒ सोम॒माऽऽह॑रन् ।[69]  
+</details>
+
+<details><summary>Keith</summary>
+
+they indeed in yonder world guarded the Soma; from them they grasped the Soma;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒ते वा अ॒मुष्मिल्ँ॑ लो॒के सोम॑मरक्ष॒न् , तेभ्योऽधि॒ सोम॒माऽऽह॑रन् ।[69]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदे॒तेभ्य॑स् सोम॒क्रय॑णा॒न्नानु॑दि॒शेदक्री॑तोऽस्य॒ सोम॑स् स्या॒न्नास्यै॒ते॑ऽमुष्मिल्ँ॑ लो॒के सोमँ॑ रक्षेयुः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+if he were not to indicate to them those that serve as the price of Soma, he would not have purchased the Soma, and they would not guard the Sonia for him in yonder world.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदे॒तेभ्य॑स् सोम॒क्रय॑णा॒न्नानु॑दि॒शेदक्री॑तोऽस्य॒ सोम॑स् स्या॒न्नास्यै॒ते॑ऽमुष्मिल्ँ॑ लो॒के सोमँ॑ रक्षेयुः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदे॒तेभ्य॑स् सोम॒क्रय॑णाननुदि॒शति॑  क्री॒तो॑ऽस्य॒ सोमो॑ भवत्य् - ए॒ते॑ऽस्या॒मुष्मिल्ँ॑ लो॒के सोमँ॑ रक्षन्ति ॥ [70]  
+</details>
+
+<details><summary>Keith</summary>
+
+In that he indicates to them those that serve as the price of Soma, he really purchases the Soma, and they guard the Soma for him in yonder world.
+</details>
+
+<details><summary>मूलम्</summary>
 
 यदे॒तेभ्य॑स् सोम॒क्रय॑णाननुदि॒शति॑  क्री॒तो॑ऽस्य॒ सोमो॑ भवत्य् - ए॒ते॑ऽस्या॒मुष्मिल्ँ॑ लो॒के सोमँ॑ रक्षन्ति ॥ [70]  
 </details>
@@ -390,10 +656,7 @@ title = "१० अजादिभिर्नवद्रव्यान्त�
 यत् । ए॒तेभ्यः॑ । सो॒म॒क्रय॑णा॒निति॑ सोम-क्रय॑णान् । न । अ॒नु॒दि॒शेदित्य॑नु-दि॒शेत् । अक्री॑तः । अ॒स्य॒ । सोमः॑ । स्या॒त् । न । अ॒स्य॒ । ए॒ते । अ॒मुष्मि॑न् । लो॒के । सोम॑म् । र॒क्षे॒युः॒ ।  
 
 यत् । ए॒तेभ्यः॑ । सो॒म॒क्रय॑णा॒निति॑ सोम-क्रय॑णान् । अ॒नु॒दि॒शतीत्य॑नु-दि॒शति॑ । क्री॒तः । अ॒स्य॒ । सोमः॑ । भ॒व॒ति॒ । ए॒ते । अ॒स्य॒ । अ॒मुष्मि॑न् । लो॒के । सोम॑म् । र॒क्ष॒न्ति॒ ॥ [70]  
-
-
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -401,3 +664,4 @@ title = "१० अजादिभिर्नवद्रव्यान्त�
 
 इति षष्ठे प्रथमे दशमोनुवाकः ॥  
 </details>
+

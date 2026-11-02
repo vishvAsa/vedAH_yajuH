@@ -13,12 +13,30 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याव॑न्तो॒ वै दे॒वा य॒ज्ञाया ऽपु॑नत॒ , त ए॒वाभ॑वन् ।  
-य ए॒वव्ँ वि॒द्वान् य॒ज्ञाय॑ पुनी॒ते भव॑त्ये॒व ।
+</details>
+
+<details><summary>Keith</summary>
+
+All the gods who purified themselves for the sacrifice waxed great.
 </details>
 
 <details><summary>मूलम्</summary>
 
 याव॑न्तो॒ वै दे॒वा य॒ज्ञाया ऽपु॑नत॒ , त ए॒वाभ॑वन् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य ए॒वव्ँ वि॒द्वान् य॒ज्ञाय॑ पुनी॒ते भव॑त्ये॒व ।
+</details>
+
+<details><summary>Keith</summary>
+
+He who knowing thus purifies himself for the sacrifice waxes great.
+</details>
+
+<details><summary>मूलम्</summary>
+
 य ए॒वव्ँ वि॒द्वान् य॒ज्ञाय॑ पुनी॒ते भव॑त्ये॒व ।
 </details>
 
@@ -28,7 +46,6 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 
 
 यः । ए॒वम् । वि॒द्वान् । य॒ज्ञाय॑ । पु॒नी॒ते । भव॑ति । ए॒व ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -44,12 +61,30 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब॒हिᳶ प॑वयि॒त्वान्तᳶ प्र पा॑दयति ।
-म॒नु॒ष्य॒लो॒क ए॒वैन॑म् पवयि॒त्वा पू॒तन् दे॑वलो॒कम् प्रण॑यति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Having purified him without he makes him go within.
 </details>
 
 <details><summary>मूलम्</summary>
 
 ब॒हिᳶ प॑वयि॒त्वान्तᳶ प्र पा॑दयति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+म॒नु॒ष्य॒लो॒क ए॒वैन॑म् पवयि॒त्वा पू॒तन् दे॑वलो॒कम् प्रण॑यति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Verily having purified him in the world of men, he leads him forward purified to the world of the gods.
+</details>
+
+<details><summary>मूलम्</summary>
+
 म॒नु॒ष्य॒लो॒क ए॒वैन॑म् पवयि॒त्वा पू॒तन् दे॑वलो॒कम् प्रण॑यति ।
 </details>
 
@@ -59,7 +94,6 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 ब॒हिः । प॒व॒यि॒त्वा । अ॒न्तः । प्रेति॑ । पा॒द॒य॒ति॒ । 
  
 म॒नु॒ष्य॒लो॒क इति॑ मनुष्य-लो॒के । ए॒व । ए॒न॒म् । प॒व॒यि॒त्वा । पू॒तम् । दे॒व॒लो॒कमिति॑ देव-लो॒कम् । प्रेति॑ । न॒य॒ति॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -75,18 +109,62 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदी॑क्षित॒ एक॒या ऽऽहु॒त्या + इत्या॑हुः ।
-स्रु॒वेण॒ चत॑स्रो जुहोति दीक्षित॒त्वाय॑ , स्रु॒चा प॑ञ्च॒मीम् ।  
-पञ्चा॑क्षरा प॒ङ्क्तिः ।
-पाङ्क्तो॑ य॒ज्ञः ।
-य॒ज्ञमे॒वाव॑ रुन्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+'He is not consecrated by one oblation ', they say;
 </details>
 
 <details><summary>मूलम्</summary>
 
 अदी॑क्षित॒ एक॒या ऽऽहु॒त्या + इत्या॑हुः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स्रु॒वेण॒ चत॑स्रो जुहोति दीक्षित॒त्वाय॑ , स्रु॒चा प॑ञ्च॒मीम् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he offers four with the dipping-ladle for consecration; the fifth he offers with the offering-ladle;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्रु॒वेण॒ चत॑स्रो जुहोति दीक्षित॒त्वाय॑ , स्रु॒चा प॑ञ्च॒मीम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पञ्चा॑क्षरा प॒ङ्क्तिः ।
 पाङ्क्तो॑ य॒ज्ञः ।
+</details>
+
+<details><summary>Keith</summary>
+
+the Pankti has five syllables, the sacrifice is fivefold;
+</details>
+
+<details><summary>मूलम्</summary>
+
+पञ्चा॑क्षरा प॒ङ्क्तिः ।
+पाङ्क्तो॑ य॒ज्ञः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य॒ज्ञमे॒वाव॑ रुन्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he wins the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 य॒ज्ञमे॒वाव॑ रुन्धे ।
 </details>
 
@@ -114,6 +192,11 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 
 आकू॑त्यै प्र॒युजे॒ऽग्नये॒ स्वाहेत्या॑ह ।[10]  
 आकूत्या॒ हि पुरु॑षो य॒ज्ञम् अ॒भि प्र॑यु॒ङ्क्ते यजे॒येति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+'To the purpose, to the impulse, to Agni, [1] hail!' he says, for with purpose does a man employ the sacrifice, planning to sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -144,18 +227,48 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 
 मे॒धायै॒ मन॑से॒ऽग्नये॒ स्वाहेत्या॑ह ।  
 मे॒धया॒ हि मन॑सा॒ पुरु॑षो य॒ज्ञम् अ॑भि॒गच्छ॑ति ।  
-सर॑स्वत्यै पू॒ष्णे॑ऽग्नये॒ स्वाहेत्या॑ह ।  
-वाग्वै सर॑स्वती ।
+</details>
+
+<details><summary>Keith</summary>
+
+'To wisdom, to thought, to Agni, hail!' he says, for by wisdom and thought man approaches the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
 
 मे॒धायै॒ मन॑से॒ऽग्नये॒ स्वाहेत्या॑ह ।  
 मे॒धया॒ हि मन॑सा॒ पुरु॑षो य॒ज्ञम् अ॑भि॒गच्छ॑ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सर॑स्वत्यै पू॒ष्णे॑ऽग्नये॒ स्वाहेत्या॑ह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'To Sarasvati, to Pusan, to Agni, hail! 'he says.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर॑स्वत्यै पू॒ष्णे॑ऽग्नये॒ स्वाहेत्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वाग्वै सर॑स्वती ।
 </details>
 
+<details><summary>Keith</summary>
+
+Sarasvati is speech,
+</details>
+
+<details><summary>मूलम्</summary>
+
+वाग्वै सर॑स्वती ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -169,9 +282,7 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 
 
 वाक् । वै । सर॑स्वती । 
-
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -187,6 +298,11 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 
 पृ॒थि॒वी पू॒षा ।
 वा॒चैव पृ॑थि॒व्या य॒ज्ञम्प्र यु॑ङ्क्ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+Pusan the earth;. verily with speech and the earth he performs the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -217,12 +333,30 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपो॑ देवीर् बृहतीर् विश्वशम् भुव॒ इत्या॑ह ।  
-या वै वर्ष्या॒स् , ता आपो॑ दे॒वीर् बृ॑ह॒तीर्वि॒श्वश॑म् भुवः [11] ।
+</details>
+
+<details><summary>Keith</summary>
+
+'O ye divine, vast, all-soothing waters', he says.
 </details>
 
 <details><summary>मूलम्</summary>
 
 आपो॑ देवीर् बृहतीर् विश्वशम् भुव॒ इत्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+या वै वर्ष्या॒स् , ता आपो॑ दे॒वीर् बृ॑ह॒तीर्वि॒श्वश॑म् भुवः [11] ।
+</details>
+
+<details><summary>Keith</summary>
+
+The waters of the rain [2] are the divine, vast, all-soothing waters;
+</details>
+
+<details><summary>मूलम्</summary>
+
 या वै वर्ष्या॒स् , ता आपो॑ दे॒वीर् बृ॑ह॒तीर्वि॒श्वश॑म् भुवः [11] ।
 </details>
 
@@ -249,17 +383,48 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 
 यद् ए॒तद् यजु॒र्न ब्रू॒याद्  
 दि॒व्या आपोऽशा॑न्ता इ॒मल्ँ  लो॒कम् आ ग॑च्छेयुः ।
-आपो॑ देवीर् बृहतीर् विश्वशम् भुव॒ इत्या॑ह ।
-अ॒स्मा ए॒वैना॑ लो॒काय॑ शमयति ।
-तस्मा॑च् छा॒न्ता इ॒मल्ँ  लो॒कम् आ ग॑च्छन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+if he said not that praise, the divine waters would descend in anger on this world.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद् ए॒तद् यजु॒र्न ब्रू॒याद्  
 दि॒व्या आपोऽशा॑न्ता इ॒मल्ँ  लो॒कम् आ ग॑च्छेयुः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 आपो॑ देवीर् बृहतीर् विश्वशम् भुव॒ इत्या॑ह ।
 अ॒स्मा ए॒वैना॑ लो॒काय॑ शमयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He says, 'O ye divine, vast, all-soothing waters.' Verily he makes them soothing for this world;
+</details>
+
+<details><summary>मूलम्</summary>
+
+आपो॑ देवीर् बृहतीर् विश्वशम् भुव॒ इत्या॑ह ।
+अ॒स्मा ए॒वैना॑ लो॒काय॑ शमयति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॑च् छा॒न्ता इ॒मल्ँ  लो॒कम् आ ग॑च्छन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+accordingly being soothed they approach this world.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॑च् छा॒न्ता इ॒मल्ँ  लो॒कम् आ ग॑च्छन्ति ।
 </details>
 
@@ -272,7 +437,6 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 अ॒स्मै । ए॒व । ए॒नाः॒ । लो॒काय॑ । श॒म॒य॒ति॒ ।  
 तस्मा॑त् । शा॒न्ताः । इ॒मम् । लो॒कम् । एति॑ । ग॒च्छ॒न्ति॒ । ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -289,23 +453,78 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 
 द्यावा॑पृथि॒वी इत्या॑ह॒ -
 द्यावा॑पृथि॒व्योर्हि य॒ज्ञः ।
-उ॒र्व॑न्तरि॑क्ष॒मित्या॑ह - अ॒न्तरि॑क्षे॒ हि य॒ज्ञः ।  
-बृह॒स्पति॑र् नो ह॒विषा॑ वृधातु + इत्या॑ह । [12]
-ब्रह्म॒ वै दे॒वाना॒म् बृह॒स्पतिः॑ ।
-ब्रह्म॑णै॒वास्मै॑ य॒ज्ञमव॑ रुन्धे ।
 </details>
 
+<details><summary>Keith</summary>
+
+'Heaven and earth', he says, for the sacrifice is in heaven and earth.
+</details>
 
 <details><summary>मूलम्</summary>
 
 द्यावा॑पृथि॒वी इत्या॑ह॒ -
 द्यावा॑पृथि॒व्योर्हि य॒ज्ञः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उ॒र्व॑न्तरि॑क्ष॒मित्या॑ह - अ॒न्तरि॑क्षे॒ हि य॒ज्ञः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Wide atmosphere', he says, for the sacrifice is in the atmosphere.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उ॒र्व॑न्तरि॑क्ष॒मित्या॑ह - अ॒न्तरि॑क्षे॒ हि य॒ज्ञः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बृह॒स्पति॑र् नो ह॒विषा॑ वृधातु + इत्या॑ह । [12]
+</details>
+
+<details><summary>Keith</summary>
+
+'May Brhaspati rejoice in our oblation' [3], he says.
+</details>
+
+<details><summary>मूलम्</summary>
+
+बृह॒स्पति॑र् नो ह॒विषा॑ वृधातु + इत्या॑ह । [12]
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ब्रह्म॒ वै दे॒वाना॒म् बृह॒स्पतिः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Brhaspati is the holy power (Brahman) of the gods;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्म॒ वै दे॒वाना॒म् बृह॒स्पतिः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ब्रह्म॑णै॒वास्मै॑ य॒ज्ञमव॑ रुन्धे ।
 </details>
 
+<details><summary>Keith</summary>
+
+verily by the holy power he wins this sacrifice for him.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्म॑णै॒वास्मै॑ य॒ज्ञमव॑ रुन्धे ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -331,12 +550,30 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्ब्रू॒याद्वि॑धे॒रिति॑ । य॒ज्ञ॒स्था॒णुम् ऋ॑च्छेत् ।  
-वृ॒धा॒त्वित्या॑ह यज्ञस्था॒णुम् ए॒व परि॑ वृणक्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+If he were to say vidheh then he would stumble on the sacrificial post;
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद्ब्रू॒याद्वि॑धे॒रिति॑ । य॒ज्ञ॒स्था॒णुम् ऋ॑च्छेत् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वृ॒धा॒त्वित्या॑ह यज्ञस्था॒णुम् ए॒व परि॑ वृणक्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+he says vrdhatu; verily he avoids the sacrificial post.
+</details>
+
+<details><summary>मूलम्</summary>
+
 वृ॒धा॒त्वित्या॑ह यज्ञस्था॒णुम् ए॒व परि॑ वृणक्ति ।
 </details>
 
@@ -360,32 +597,107 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तिर् य॒ज्ञम् अ॑सृजत ।  
-
-सो॑ ऽस्मात् सृ॒ष्टᳶ परा॑ङैत् । 
-स प्र यजु॒रव्ली॑ना॒त्प्र साम॒ , तम् ऋगुद॑यच्छत् ।   
-
-यद् ऋगु॒दय॑च्छ॒त् , तदौ॑द्ग्रह॒णस्यौ॑द्ग्रहण॒त्वम् ।
-ऋ॒चा जु॒हो॒ति॒ , य॒ज्ञस्योद्य॑त्यै । [13]  
-
-अ॒नु॒ष्टुप् छन्द॑सा॒म् उद॑यच्छ॒द् इत्या॑हुः ।
-तस्मा॑द् अनु॒ष्टुभा॑ जुहोति , य॒ज्ञस्योद्य॑त्यै ।
 </details>
 
+<details><summary>Keith</summary>
+
+Prajapati created the sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिर् य॒ज्ञम् अ॑सृजत ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सो॑ ऽस्मात् सृ॒ष्टᳶ परा॑ङैत् । 
+</details>
+
+<details><summary>Keith</summary>
+
+Being created it went away.
+</details>
+
+<details><summary>मूलम्</summary>
+
 सो॑ ऽस्मात् सृ॒ष्टᳶ परा॑ङैत् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स प्र यजु॒रव्ली॑ना॒त्प्र साम॒ , तम् ऋगुद॑यच्छत् ।   
+</details>
+
+<details><summary>Keith</summary>
+
+It crushed the Yajus, it crushed the Saman; the Rc raised it;
+</details>
+
+<details><summary>मूलम्</summary>
+
 स प्र यजु॒रव्ली॑ना॒त्प्र साम॒ , तम् ऋगुद॑यच्छत् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् ऋगु॒दय॑च्छ॒त् , तदौ॑द्ग्रह॒णस्यौ॑द्ग्रहण॒त्वम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+in that the Rc raised (it), hence the elevating offering has the name.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद् ऋगु॒दय॑च्छ॒त् , तदौ॑द्ग्रह॒णस्यौ॑द्ग्रहण॒त्वम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ऋ॒चा जु॒हो॒ति॒ , य॒ज्ञस्योद्य॑त्यै । [13]  
+</details>
+
+<details><summary>Keith</summary>
+
+With a Rc [4] he sacrifices, to support the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऋ॒चा जु॒हो॒ति॒ , य॒ज्ञस्योद्य॑त्यै । [13]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒नु॒ष्टुप् छन्द॑सा॒म् उद॑यच्छ॒द् इत्या॑हुः ।
+</details>
+
+<details><summary>Keith</summary>
+
+'It was the Anustubh among the metres which supported it', they say.
+</details>
+
+<details><summary>मूलम्</summary>
 
 अ॒नु॒ष्टुप् छन्द॑सा॒म् उद॑यच्छ॒द् इत्या॑हुः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॑द् अनु॒ष्टुभा॑ जुहोति , य॒ज्ञस्योद्य॑त्यै ।
 </details>
 
+<details><summary>Keith</summary>
+
+Therefore he sacrifices with an Anustubh, to support the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मा॑द् अनु॒ष्टुभा॑ जुहोति , य॒ज्ञस्योद्य॑त्यै ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -421,12 +733,30 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वाद॑श वात्सब॒न्धान्य् उद॑यच्छ॒न्न् इत्या॑हुः ।  
-तस्मा॑द् द्वाद॒शभि॑र् वात्सबन्ध॒विदो॑ दीक्षयन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+'It was the twelve "calf-binders" which supported it', they say.
 </details>
 
 <details><summary>मूलम्</summary>
 
 द्वाद॑श वात्सब॒न्धान्य् उद॑यच्छ॒न्न् इत्या॑हुः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॑द् द्वाद॒शभि॑र् वात्सबन्ध॒विदो॑ दीक्षयन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Therefore with twelve those who know the 'calf-binders', consecrate.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॑द् द्वाद॒शभि॑र् वात्सबन्ध॒विदो॑ दीक्षयन्ति ।
 </details>
 
@@ -435,7 +765,6 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 द्वाद॑श । वा॒त्स॒ब॒न्धानीति॑ वात्स-ब॒न्धानि॑ । उदिति॑ । अ॒य॒च्छ॒न् । इति॑ । आ॒हुः॒ ।   
 तस्मा॑त् । द्वा॒द॒शभि॒रिति॑ द्वाद॒श-भिः॒ । वा॒त्स॒ब॒न्ध॒विद॒ इति॑ वात्सबन्ध-विदः॑ । दी॒क्ष॒य॒न्ति॒ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -450,14 +779,45 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा वा ए॒षा + ऋग॑नु॒ष्टुक् ।
-वाग् अ॑नु॒ष्टुक् ।  
-यदे॒तया॑ + ऋ॒र्चा दी॒क्षय॑ति , वा॒चैवैनँ॒ सर्व॑या दीक्षयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+This Rc is an Anustubh;
 </details>
 
 <details><summary>मूलम्</summary>
 
 सा वा ए॒षा + ऋग॑नु॒ष्टुक् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वाग् अ॑नु॒ष्टुक् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the Anustubh is speech;
+</details>
+
+<details><summary>मूलम्</summary>
+
+वाग् अ॑नु॒ष्टुक् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदे॒तया॑ + ऋ॒र्चा दी॒क्षय॑ति , वा॒चैवैनँ॒ सर्व॑या दीक्षयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+in that he consecrates him with this Rc, he consecrates him with the whole of speech.
+</details>
+
+<details><summary>मूलम्</summary>
+
 यदे॒तया॑ + ऋ॒र्चा दी॒क्षय॑ति , वा॒चैवैनँ॒ सर्व॑या दीक्षयति ।
 </details>
 
@@ -482,20 +842,90 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वे॑ दे॒वस्य॑ ने॒तुर् इत्या॑ह ।
-सा॒वि॒त्र्ये॑तेन॒ मर्तो॑ वृणीत स॒ख्यम् इत्या॑ह । [14]  
-पि॒तृ॒दे॒व॒त्यै॑तेन॒ विश्वे॑ रा॒य इ॑षुध्य॒सीत्या॑ह ।
-वै॒श्व॒दे॒व्ये॑तेन॑ द्यु॒म्नव्ँ वृ॑णीत पु॒ष्यस॒ इत्या॑ह पौ॒ष्ण्य् ए॑तेन॑ ।  
-सा वा ए॒षर्क्स॑र्वदेव॒त्या॑ यदे॒तय॒र्चा दी॒क्षय॑ति ।
-सर्वा॑भिर् ए॒वैन॑न् दे॒वता॑भिर् दीक्षयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Let every (man) of the god who leads ', he says.
 </details>
 
 <details><summary>मूलम्</summary>
 
 विश्वे॑ दे॒वस्य॑ ने॒तुर् इत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सा॒वि॒त्र्ये॑तेन॒ मर्तो॑ वृणीत स॒ख्यम् इत्या॑ह । [14]  
+</details>
+
+<details><summary>Keith</summary>
+
+By that (the Rc) is connected with Savitr. '(Let every) man choose the companionship' [5], he says.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा॒वि॒त्र्ये॑तेन॒ मर्तो॑ वृणीत स॒ख्यम् इत्या॑ह । [14]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पि॒तृ॒दे॒व॒त्यै॑तेन॒ विश्वे॑ रा॒य इ॑षुध्य॒सीत्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+By that (the Rc) has the Pitrs for its deity.' 'Every man prayeth for wealth', he says.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पि॒तृ॒दे॒व॒त्यै॑तेन॒ विश्वे॑ रा॒य इ॑षुध्य॒सीत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वै॒श्व॒दे॒व्ये॑तेन॑ द्यु॒म्नव्ँ वृ॑णीत पु॒ष्यस॒ इत्या॑ह पौ॒ष्ण्य् ए॑तेन॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+By that (the Rc) is connected with the All-gods. 'Let him choose glory that he may prosper', he says. By that (the Rc) is connected with Pusan.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वै॒श्व॒दे॒व्ये॑तेन॑ द्यु॒म्नव्ँ वृ॑णीत पु॒ष्यस॒ इत्या॑ह पौ॒ष्ण्य् ए॑तेन॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सा वा ए॒षर्क्स॑र्वदेव॒त्या॑ यदे॒तय॒र्चा दी॒क्षय॑ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+This Rc indeed is connected with all the gods. In that he consecrates with this Rc,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा वा ए॒षर्क्स॑र्वदेव॒त्या॑ यदे॒तय॒र्चा दी॒क्षय॑ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वा॑भिर् ए॒वैन॑न् दे॒वता॑भिर् दीक्षयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+he consecrates him with all the gods.
+</details>
+
+<details><summary>मूलम्</summary>
+
 सर्वा॑भिर् ए॒वैन॑न् दे॒वता॑भिर् दीक्षयति ।
 </details>
 
@@ -515,9 +945,7 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 सा । वै । ए॒षा । ऋक् । स॒र्व॒दे॒व॒त्येति॑ सर्व-दे॒व॒त्या॑ । 
 
 यत् । ए॒तया॑ । ऋ॒चा । दी॒क्षय॑ति । सर्वा॑भिः । ए॒व । ए॒न॒म् । दे॒वता॑भिः । दी॒क्ष॒य॒ति॒ । 
-
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -532,6 +960,11 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒प्ताक्ष॑रम् प्रथ॒मम् प॒दम् अ॒ष्टाक्ष॑राणि॒ त्रीणि ।
+</details>
+
+<details><summary>Keith</summary>
+
+The first quarter verse is of seven syllables; the other three are of eight syllables.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -558,21 +991,90 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यानि॒ त्रीणि॒ तान्य॒ष्टावुप॑ यन्ति ।  
-यानि॑ च॒त्वारि॒ तान्य॒ष्टौ ।
-यद॒ष्टाक्ष॑रा॒ तेन॑ गा॒य॒त्री ।[15]  
-यदेका॑दशाक्षरा॒ तेन॑ त्रि॒ष्टुग् ।
-यद् द्वाद॑शाक्षरा॒ तेन॒ जग॑ती॒ सा वा ए॒षर्क्सर्वा॑णि॒ छन्दाँ॑सि ।
-यदे॒तय॒र्चा दी॒क्षय॑ति॒ , सर्वे॑भिर् ए॒वैन॒ञ् छन्दो॑भिर् दीक्षयति ।
 </details>
 
+<details><summary>Keith</summary>
+
+The three approach the eight;
+</details>
 
 <details><summary>मूलम्</summary>
 
 यानि॒ त्रीणि॒ तान्य॒ष्टावुप॑ यन्ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यानि॑ च॒त्वारि॒ तान्य॒ष्टौ ।
+</details>
+
+<details><summary>Keith</summary>
+
+the four the eight.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यानि॑ च॒त्वारि॒ तान्य॒ष्टौ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यद॒ष्टाक्ष॑रा॒ तेन॑ गा॒य॒त्री ।[15]  
+</details>
+
+<details><summary>Keith</summary>
+
+Because it has eight syllables [6] it is a Gayatri.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद॒ष्टाक्ष॑रा॒ तेन॑ गा॒य॒त्री ।[15]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यदेका॑दशाक्षरा॒ तेन॑ त्रि॒ष्टुग् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Because it has eleven syllables it is a Tristubh.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदेका॑दशाक्षरा॒ तेन॑ त्रि॒ष्टुग् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यद् द्वाद॑शाक्षरा॒ तेन॒ जग॑ती॒ सा वा ए॒षर्क्सर्वा॑णि॒ छन्दाँ॑सि ।
+</details>
+
+<details><summary>Keith</summary>
+
+Because it has twelve syllables, it is a Jagati. This Rc indeed is all the metres.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद् द्वाद॑शाक्षरा॒ तेन॒ जग॑ती॒ सा वा ए॒षर्क्सर्वा॑णि॒ छन्दाँ॑सि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदे॒तय॒र्चा दी॒क्षय॑ति॒ , सर्वे॑भिर् ए॒वैन॒ञ् छन्दो॑भिर् दीक्षयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+In that he consecrates him with this Rc, he consecrates him with all the metres.
+</details>
+
+<details><summary>मूलम्</summary>
+
 यदे॒तय॒र्चा दी॒क्षय॑ति॒ , सर्वे॑भिर् ए॒वैन॒ञ् छन्दो॑भिर् दीक्षयति ।
 </details>
 
@@ -600,20 +1102,77 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒प्ताक्ष॑रम् प्रथ॒मम् प॒दम्।
-स॒प्तप॑दा॒ शक्व॑री ।
-प॒शव॒श् शक्व॑री ।
-प॒शून् ए॒वाव॑ रुन्धे ।
-एक॑स्माद् अ॒क्षरा॒द् अना॑प्तम् प्रथ॒मम् प॒दम् ।
-तस्मा॒द् यद् वा॒चोऽना॑प्त॒न् तन्म॑नु॒ष्या॑ उप॑ जीवन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+The first quarter verse is of seven syllables;
 </details>
 
 <details><summary>मूलम्</summary>
 
 स॒प्ताक्ष॑रम् प्रथ॒मम् प॒दम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स॒प्तप॑दा॒ शक्व॑री ।
 प॒शव॒श् शक्व॑री ।
+</details>
+
+<details><summary>Keith</summary>
+
+the Śakvari is of seven syllables, the Śakvari is cattle;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒प्तप॑दा॒ शक्व॑री ।
+प॒शव॒श् शक्व॑री ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प॒शून् ए॒वाव॑ रुन्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he wins cattle.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प॒शून् ए॒वाव॑ रुन्धे ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एक॑स्माद् अ॒क्षरा॒द् अना॑प्तम् प्रथ॒मम् प॒दम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+The first quarter-verse is defective by one syllable.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एक॑स्माद् अ॒क्षरा॒द् अना॑प्तम् प्रथ॒मम् प॒दम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॒द् यद् वा॒चोऽना॑प्त॒न् तन्म॑नु॒ष्या॑ उप॑ जीवन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Therefore men live on what of speech is defective.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॒द् यद् वा॒चोऽना॑प्त॒न् तन्म॑नु॒ष्या॑ उप॑ जीवन्ति ।
 </details>
 
@@ -640,16 +1199,47 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पू॒र्णया॑ जुहोति ।
-पू॒र्ण इ॑व॒ हि प्र॒जाप॑तिᳶ ,
-प्र॒जाप॑ते॒राप्त्यै॑ ।
-न्यू॑नया जुहोति ।
-न्यू॑ना॒द्धि प्र॒जाप॑तिᳶ प्र॒जा असृ॑जत , प्र॒जानाँ॒ सृष्ट्यै॑ ॥ [16]
+</details>
+
+<details><summary>Keith</summary>
+
+He offers with a full (verse) to win Prajapati;
 </details>
 
 <details><summary>मूलम्</summary>
 
 पू॒र्णया॑ जुहोति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पू॒र्ण इ॑व॒ हि प्र॒जाप॑तिᳶ ,
+</details>
+
+<details><summary>Keith</summary>
+
+full as it were is Prajapati.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पू॒र्ण इ॑व॒ हि प्र॒जाप॑तिᳶ ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्र॒जाप॑ते॒राप्त्यै॑ ।
+न्यू॑नया जुहोति ।
+न्यू॑ना॒द्धि प्र॒जाप॑तिᳶ प्र॒जा असृ॑जत , प्र॒जानाँ॒ सृष्ट्यै॑ ॥ [16]
+</details>
+
+<details><summary>Keith</summary>
+
+He offers with a defective (verse), for the creation of offspring, for from what is defective Prajapati created offspring.
+</details>
+
+<details><summary>मूलम्</summary>
+
 प्र॒जाप॑ते॒राप्त्यै॑ ।
 न्यू॑नया जुहोति ।
 न्यू॑ना॒द्धि प्र॒जाप॑तिᳶ प्र॒जा असृ॑जत , प्र॒जानाँ॒ सृष्ट्यै॑ ॥ [16]
@@ -663,7 +1253,6 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 न्यू॑न॒येति॒ नि-ऊ॒न॒या॒ । जु॒हो॒ति॒ ।   
 
 न्यू॑ना॒दिति॒ नि-ऊ॒ना॒त् । हि । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ ।  प्र॒जा इति॑ प्र-जाः । असृ॑जत । प्र॒जाना॒मिति॑ प्र-जाना॑म् । सृष्ट्यै॑ ॥ [16]  
- 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -672,3 +1261,4 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 
 इति षष्ठे प्रथमे द्वितीयोनुवाकः ॥  
 </details>
+

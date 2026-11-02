@@ -13,13 +13,31 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा॒रु॒णो वै क्री॒तस्सोम॒ उप॑नद्धः ।  
-मि॒त्रो न॒ एहि॒ सुमि॑त्रधा॒ इत्या॑ह॒ ,
-शान्त्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The Soma when bought and tied up is connected with Varuna.
 </details>
 
 <details><summary>मूलम्</summary>
 
 वा॒रु॒णो वै क्री॒तस्सोम॒ उप॑नद्धः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मि॒त्रो न॒ एहि॒ सुमि॑त्रधा॒ इत्या॑ह॒ ,
+शान्त्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Come as a friend to us, creating firm friendships', he says, for atonement.
+</details>
+
+<details><summary>मूलम्</summary>
+
 मि॒त्रो न॒ एहि॒ सुमि॑त्रधा॒ इत्या॑ह॒ ,
 शान्त्यै॑ ।
 </details>
@@ -30,7 +48,6 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 मि॒त्रः । नः॒ । एति॑ । इ॒हि॒ । सुमि॑त्रधा॒ इति॒ सुमि॑त्र-धाः॒ । इति॑ । आ॒ह॒ ।  
 शान्त्यै॑ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -45,19 +62,62 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्र॑स्यो॒रुम् आ वि॑श॒ दक्षि॑ण॒मित्या॑ह ।  
-दे॒वा वै यँ सोम॒मक्री॑ण॒न्तमिन्द्र॑स्यो॒रौ दक्षि॑ण॒ आसा॑दयन् ।  
-ए॒ष खलु॒ वा ए॒तर्हीन्द्रो॒ यो यज॑ते ।  
-तस्मा॑दे॒वमा॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+Enter the right thigh of Indra', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्यो॒रुम् आ वि॑श॒ दक्षि॑ण॒मित्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दे॒वा वै यँ सोम॒मक्री॑ण॒न्तमिन्द्र॑स्यो॒रौ दक्षि॑ण॒ आसा॑दयन् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the gods placed the Soma which they purchased in the right thigh of Indra;
+</details>
+
+<details><summary>मूलम्</summary>
+
+दे॒वा वै यँ सोम॒मक्री॑ण॒न्तमिन्द्र॑स्यो॒रौ दक्षि॑ण॒ आसा॑दयन् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ए॒ष खलु॒ वा ए॒तर्हीन्द्रो॒ यो यज॑ते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+now the sacrificer is Indra;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒ष खलु॒ वा ए॒तर्हीन्द्रो॒ यो यज॑ते ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तस्मा॑दे॒वमा॑ह ।
 </details>
 
+<details><summary>Keith</summary>
+
+therefore he says thus.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मा॑दे॒वमा॑ह ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -81,12 +141,30 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदायु॑षा स्वा॒युषेत्या॑ह ।
-दे॒वता॑ ए॒वान्वा॒रभ्योत्तिष्ठति ।[71]
+</details>
+
+<details><summary>Keith</summary>
+
+'With life, with fair life', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 उदायु॑षा स्वा॒युषेत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दे॒वता॑ ए॒वान्वा॒रभ्योत्तिष्ठति ।[71]
+</details>
+
+<details><summary>Keith</summary>
+
+verily seizing the gods [1] he rises up.
+</details>
+
+<details><summary>मूलम्</summary>
+
 दे॒वता॑ ए॒वान्वा॒रभ्योत्तिष्ठति ।[71]
 </details>
 
@@ -110,15 +188,32 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒र्व॑न्तरि॑क्ष॒मन्वि॒हीत्या॑ह ।  
-अ॒न्त॒रि॒क्ष॒दे॒व॒त्यो॑  ह्ये॑तर्हि॒ सोमः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Fare along the wide atmosphere', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 उ॒र्व॑न्तरि॑क्ष॒मन्वि॒हीत्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒न्त॒रि॒क्ष॒दे॒व॒त्यो॑  ह्ये॑तर्हि॒ सोमः॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+for Soma has the atmosphere for its deity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒न्त॒रि॒क्ष॒दे॒व॒त्यो॑  ह्ये॑तर्हि॒ सोमः॑ ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -139,12 +234,30 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदि॑त्या॒स् सदो॒ ऽस्यदि॑त्या॒स्सद॒ आ सी॒देत्या॑ह ।
-य॒था॒य॒जुर् ए॒वैतत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art the seat of Aditi. Sit on the seat of Aditi', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 अदि॑त्या॒स् सदो॒ ऽस्यदि॑त्या॒स्सद॒ आ सी॒देत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य॒था॒य॒जुर् ए॒वैतत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+that is according to the text.
+</details>
+
+<details><summary>मूलम्</summary>
+
 य॒था॒य॒जुर् ए॒वैतत् ।
 </details>
 
@@ -168,19 +281,61 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि वा ए॑नमे॒तद॑र्धयति॒ यद्वा॑रु॒णँ सन्त॑म् मै॒त्रङ्क॒रोति॑ ।  
-वा॒रु॒ण्यर्चा सा॑दयति॒ स्वयै॒वैन॑न् दे॒वत॑या॒ सम॑र्धयति ।  
-वास॑सा प॒र्यान॑ह्यति । सर्वदेव॒त्यव्ँ॑ वै वासः॑ ।  
-सर्वा॑भिरे॒वैनन् दे॒वता॑भि॒स् सम॑र्धय॒ति ।[72]  
-अथो॒ रक्ष॑सा॒मप॑हत्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+He severs it indeed when he makes what is connected with Varuna connected with Mitra;
 </details>
 
 <details><summary>मूलम्</summary>
 
 वि वा ए॑नमे॒तद॑र्धयति॒ यद्वा॑रु॒णँ सन्त॑म् मै॒त्रङ्क॒रोति॑ ।  
-वा॒रु॒ण्यर्चा सा॑दयति॒ स्वयै॒वैन॑न् दे॒वत॑या॒ सम॑र्धयति ।  
-वास॑सा प॒र्यान॑ह्यति ।  
+</details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वा॒रु॒ण्यर्चा सा॑दयति॒ स्वयै॒वैन॑न् दे॒वत॑या॒ सम॑र्धयति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he sets it down with a verse addressed to Varuna; verily he unites it with its own deity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वा॒रु॒ण्यर्चा सा॑दयति॒ स्वयै॒वैन॑न् दे॒वत॑या॒ सम॑र्धयति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वास॑सा प॒र्यान॑ह्यति । सर्वदेव॒त्यव्ँ॑ वै वासः॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He covers it round with a garment, the garment is connected with all the gods;
+</details>
+
+<details><summary>मूलम्</summary>
+
+वास॑सा प॒र्यान॑ह्यति ।  
 सर्वदेव॒त्यव्ँ॑ वै वासः॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वा॑भिरे॒वैनन् दे॒वता॑भि॒स् सम॑र्धय॒ति ।[72]  
+अथो॒ रक्ष॑सा॒मप॑हत्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily with all [2] the gods he unites it, and thus (it serves) for the smiting away of the Raksases.
+</details>
+
+<details><summary>मूलम्</summary>
 
 सर्वा॑भिरे॒वैनन् दे॒वता॑भि॒स् सम॑र्धय॒ति ।[72]  
 अथो॒ रक्ष॑सा॒मप॑हत्यै ।
@@ -201,7 +356,6 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 अथो॒ इति॑ । रक्ष॑साम् । अप॑हत्या॒ इत्यप॑-ह॒त्यै॒ ।  
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6वि वा एनमिति ॥ एनं सोमं विवर्धयति वृद्धिं करोति खल्वेतत् यद्वारुणं सन्तं मैत्रं करोति 'मित्रो न एहि' इति मन्त्रेण मैत्रतामापादयति । वरुणपरित्यागेन व्यृद्धस्स्यात्, तस्माद्वारुण्यर्चा 'वरुणोसि धृतव्रतः' इत्यनया आसादयति । स्वयैवैनं देवतया अप्रच्युतया एनं समर्धयति । वाससा पर्यानह्यति सर्वतो बध्नाति सोममिति विधिः । सर्वदेवत्यमित्यादि । गतम् । अथो अपिच रक्षसामपहत्यै भवति अपहननाय संपद्यते, सोमस्य हन्तुमशक्यत्वात् । 'तादौ च ' इति गतेः प्रकृतिस्वरत्वम् ॥
@@ -216,28 +370,150 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वने॑षु॒ व्य॑न्तरि॑क्षन्तता॒नेत्या॑ह ।  
-वने॑षु॒ हि व्य॑न्तरि॑क्षन् त॒तान ।  
-वाज॒मर्व॒त्स्वित्या॑ह । वाजँ॒ ह्यर्व॑त्सु॑ ।  
-पयो॑ अघ्नि॒यास्वित्या॑ह । पयो॒ ह्य॑घ्नि॒यासु॑ ।  
-हृ॒त्सु क्रतु॒मित्या॑ह । हृ॒त्सु हि क्रतु॑म् ।  
-वरु॑णो वि॒क्ष्व॑ग्निमित्या॑ह । वरु॑णो॒ हि वि॒क्ष्व॑ग्निम् ।  
-दि॒वि सूर्य॑म् इत्या॑ह [73]। दि॒वि हि सूर्य॑म् ।  
-सोम॒मद्रा॒व् इत्या॑ह । ग्रावा॑णो॒ वा अद्र॑यः ।  
-तेषु॒ वा ए॒ष सोम॑न् दधाति॒ यो यज॑ते ।
-तस्मा॑दे॒वमा॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'He hath stretched the atmosphere within the woods', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 वने॑षु॒ व्य॑न्तरि॑क्षन्तता॒नेत्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वने॑षु॒ हि व्य॑न्तरि॑क्षन् त॒तान ।  
+</details>
+
+<details><summary>Keith</summary>
+
+for within the woods he stretched the atmosphere.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वने॑षु॒ हि व्य॑न्तरि॑क्षन् त॒तान ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वाज॒मर्व॒त्स्वित्या॑ह । वाजँ॒ ह्यर्व॑त्सु॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Strength in horses', he says; for (he placed) strength in horses.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वाज॒मर्व॒त्स्वित्या॑ह । वाजँ॒ ह्यर्व॑त्सु॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पयो॑ अघ्नि॒यास्वित्या॑ह । पयो॒ ह्य॑घ्नि॒यासु॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Milk in kine', he says; for (he placed) milk in kine.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पयो॑ अघ्नि॒यास्वित्या॑ह । पयो॒ ह्य॑घ्नि॒यासु॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हृ॒त्सु क्रतु॒मित्या॑ह । हृ॒त्सु हि क्रतु॑म् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Skill in the heart', he says; for (he placed) skill in the heart.
+</details>
+
+<details><summary>मूलम्</summary>
+
+हृ॒त्सु क्रतु॒मित्या॑ह । हृ॒त्सु हि क्रतु॑म् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वरु॑णो वि॒क्ष्व॑ग्निमित्या॑ह । वरु॑णो॒ हि वि॒क्ष्व॑ग्निम् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Varuna, Agni in dwellings', he says; for Varuna (placed) Agni in dwellings.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वरु॑णो वि॒क्ष्व॑ग्निमित्या॑ह । वरु॑णो॒ हि वि॒क्ष्व॑ग्निम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दि॒वि सूर्य॑म् इत्या॑ह [73]। दि॒वि हि सूर्य॑म् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'The sun in the sky' [3], he says; for (he placed) the sun in the sky.
+</details>
+
+<details><summary>मूलम्</summary>
+
+दि॒वि सूर्य॑म् इत्या॑ह [73]। दि॒वि हि सूर्य॑म् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सोम॒मद्रा॒व् इत्या॑ह । ग्रावा॑णो॒ वा अद्र॑यः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'The Soma in the hill', he says; the hills are the pressing-stones;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सोम॒मद्रा॒व् इत्या॑ह । ग्रावा॑णो॒ वा अद्र॑यः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तेषु॒ वा ए॒ष सोम॑न् दधाति॒ यो यज॑ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+he places the Soma in them, who sacrifices;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेषु॒ वा ए॒ष सोम॑न् दधाति॒ यो यज॑ते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॑दे॒वमा॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+therefore he says thus.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॑दे॒वमा॑ह ।
 </details>
 
@@ -260,7 +536,6 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 तस्मा॑त् । ए॒वम् । आ॒ह॒ ।  
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7वनेष्विति ॥ यस्माद्वनेपु वृक्षेषु वा अन्तरिक्षं विततान विविधं स्थापितवान् तस्मादेवमाह । वाजं गतिं वेगं वा । यस्मादर्वत्सु अश्वेषु विततानेत्येव । यागद्वारेण सर्वाऽपीयं व्यवस्था । पयः क्षीरादिकं अघ्नियासु गोषु विततान । हृत्सु क्रतुं ज्ञानं विततान । वरुणः विश्वस्य वारयिता । विश्वेन त्वावृतो देवो व्यवस्थाः सर्वा एताः कृतवानिति । विक्षु मनुष्येषु अग्निं वैश्वानरं विततान । दिवि अन्तरिक्षे सूर्यमदधात् दधाति धारयति यागद्वारेणैव । दिव्येव हि सूर्यं दधाति । सोममित्यादि । ग्रावाणो वा अद्रयस्तेपु वा एष सोमं दधाति स्थापयति यो यजते । तस्मात्सोममद्रावदधादित्याह । ग्राव्णां पर्वतत्वमध्यारोप्यैवमाहेति ॥
@@ -276,44 +551,170 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 
 उदु॒ त्यञ्जा॒तवे॑दस॒मिति॑ सौ॒र्यर्चा कृ॑ष्णाजि॒नम् प्र॒त्यान॑ह्यति ।  
 रक्ष॑सा॒मप॑हत्यै ।  
-उस्रा॒वेत॑न् धूर्षाहा॒वित्या॑ह ।  
-य॒था॒य॒जु॒र् ए॒वैतत् ।  
-
-प्र च्य॑वस्व भुवस्पत॒ इत्या॑ह ।
-भू॒तानाँ॒ हि ए॒ष पतिः॑ ।[74]  
-
-विश्वा॑न्य॒भि धामा॒नीत्या॑ह ।
-विश्वा॑नि॒ ह्ये ३॒॑ षो॑ऽभि धामा॑नि प्र॒च्यव॑ते ।  
-
-मा त्वा॑ परिप॒री वि॑द॒दित्या॑ह ।  
-यदे॒वादस् सोम॑माह्रि॒यमा॑णङ् गन्ध॒र्वो वि॒श्वाव॑सुᳶ प॒र्यमु॑ष्णा॒त् तस्मा॑दे॒वमा॑ह।  
-अप॑रिमोषाय ।
-यज॑मानस्य स्व॒स्त्यय॑न्य॒सीत्या॑ह ।  
-यज॑मानस्यै॒वैष य॒ज्ञस्या॑न्वार॒म्भो , ऽन॑वच्छित्त्यै ।
 </details>
 
+<details><summary>Keith</summary>
 
+'Thee, all knowing god' with this verse addressed to Surya he fastens the black antelope skin, to smite away the Raksases.
+</details>
 
 <details><summary>मूलम्</summary>
 
 उदु॒ त्यञ्जा॒तवे॑दस॒मिति॑ सौ॒र्यर्चा कृ॑ष्णाजि॒नम् प्र॒त्यान॑ह्यति ।  
 रक्ष॑सा॒मप॑हत्यै ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उस्रा॒वेत॑न् धूर्षाहा॒वित्या॑ह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Come hither, O ye oxen, strong to bear the yoke', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+उस्रा॒वेत॑न् धूर्षाहा॒वित्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 य॒था॒य॒जु॒र् ए॒वैतत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+that is according to the text.
+</details>
+
+<details><summary>मूलम्</summary>
+
+य॒था॒य॒जु॒र् ए॒वैतत् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र च्य॑वस्व भुवस्पत॒ इत्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Move forward, O lord of the world', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्र च्य॑वस्व भुवस्पत॒ इत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भू॒तानाँ॒ हि ए॒ष पतिः॑ ।[74]  
+</details>
+
+<details><summary>Keith</summary>
+
+for he is the lord of creatures [4];
+</details>
+
+<details><summary>मूलम्</summary>
+
+भू॒तानाँ॒ हि ए॒ष पतिः॑ ।[74]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वा॑न्य॒भि धामा॒नीत्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'to all thy stations', be says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+विश्वा॑न्य॒भि धामा॒नीत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 विश्वा॑नि॒ ह्ये ३॒॑ षो॑ऽभि धामा॑नि प्र॒च्यव॑ते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+for he moves forward to all his stations.
+</details>
+
+<details><summary>मूलम्</summary>
+
+विश्वा॑नि॒ ह्ये ३॒॑ षो॑ऽभि धामा॑नि प्र॒च्यव॑ते ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा त्वा॑ परिप॒री वि॑द॒दित्या॑ह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Let no opponent find thee', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+मा त्वा॑ परिप॒री वि॑द॒दित्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यदे॒वादस् सोम॑माह्रि॒यमा॑णङ् गन्ध॒र्वो वि॒श्वाव॑सुᳶ प॒र्यमु॑ष्णा॒त् तस्मा॑दे॒वमा॑ह।  
 अप॑रिमोषाय ।
+</details>
+
+<details><summary>Keith</summary>
+
+since the Gandharva Viśvavasu stole the Soma when it was being carried below, he says that, to prevent its being stolen.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदे॒वादस् सोम॑माह्रि॒यमा॑णङ् गन्ध॒र्वो वि॒श्वाव॑सुᳶ प॒र्यमु॑ष्णा॒त् तस्मा॑दे॒वमा॑ह।  
+अप॑रिमोषाय ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यज॑मानस्य स्व॒स्त्यय॑न्य॒सीत्या॑ह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art the good luck of the sacrificer', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यज॑मानस्य स्व॒स्त्यय॑न्य॒सीत्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यज॑मानस्यै॒वैष य॒ज्ञस्या॑न्वार॒म्भो , ऽन॑वच्छित्त्यै ।
 </details>
 
+<details><summary>Keith</summary>
+
+verily thus the sacrificer grasps the sacrifice, that it be not interrupted.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यज॑मानस्यै॒वैष य॒ज्ञस्या॑न्वार॒म्भो , ऽन॑वच्छित्त्यै ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -352,12 +753,30 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरु॑णो॒ वा ए॒ष यज॑मानम॒भ्यैति॒ यत् क्री॒तस्सोम॒ उप॑नद्धः ।[75]   
-नमो॑ मि॒त्रस्य॒ वरु॑णस्य॒ चक्ष॑स॒ इत्या॑ह । शान्त्यै॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The Soma when bought and tied up indeed approaches the sacrificer in the shape of Varuna [5].
 </details>
 
 <details><summary>मूलम्</summary>
 
 वरु॑णो॒ वा ए॒ष यज॑मानम॒भ्यैति॒ यत् क्री॒तस्सोम॒ उप॑नद्धः ।[75]   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नमो॑ मि॒त्रस्य॒ वरु॑णस्य॒ चक्ष॑स॒ इत्या॑ह । शान्त्यै॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Honour to the radiance of Mitra and Varuna', he says, for atonement.
+</details>
+
+<details><summary>मूलम्</summary>
+
 नमो॑ मि॒त्रस्य॒ वरु॑णस्य॒ चक्ष॑स॒ इत्या॑ह । शान्त्यै॑ ।  
 </details>
 
@@ -367,7 +786,6 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 नमः॑ । मि॒त्रस्य॑ । वरु॑णस्य । चक्ष॑से । इति॑ । आ॒ह॒ ।   
 शान्त्यै॑ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -384,10 +802,11 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 आ सोमव्ँ॒ वह॑न्ति ।
 अ॒ग्निना॒ प्रति॑ तिष्ठते ।  
 तौ स॒म्भव॑न्तौ॒ यज॑मानम॒भि सम्भ॑वतः ।  
-पु॒रा खलु॒ वावैष मेधा॑या॒त्मान॑मा॒रभ्य॑ चरति॒ यो दी॑क्षि॒तः ।   
-यद॑ग्नीषो॒मीय॑म् प॒शुमा॒लभ॑त आत्मनि॒ष्क्रय॑ण ए॒वास्य॒ सः ।  
-तस्मा॒त् तस्य॒ नाश्य॑म् ।  
-पु॒रु॒ष॒नि॒ष्क्रय॑ण इव॒ हि ।
+</details>
+
+<details><summary>Keith</summary>
+
+They bring forward this Soma, it rests with Agni, they in uniting overpower the sacrificer.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -395,9 +814,65 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 आ सोमव्ँ॒ वह॑न्ति ।
 अ॒ग्निना॒ प्रति॑ तिष्ठते ।  
 तौ स॒म्भव॑न्तौ॒ यज॑मानम॒भि सम्भ॑वतः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पु॒रा खलु॒ वावैष मेधा॑या॒त्मान॑मा॒रभ्य॑ चरति॒ यो दी॑क्षि॒तः ।   
+</details>
+
+<details><summary>Keith</summary>
+
+Now the consecrated person has for long been holding himself ready for the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पु॒रा खलु॒ वावैष मेधा॑या॒त्मान॑मा॒रभ्य॑ चरति॒ यो दी॑क्षि॒तः ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यद॑ग्नीषो॒मीय॑म् प॒शुमा॒लभ॑त आत्मनि॒ष्क्रय॑ण ए॒वास्य॒ सः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+In that he offers an animal to Agni and Soma, that is a buying-off of himself;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद॑ग्नीषो॒मीय॑म् प॒शुमा॒लभ॑त आत्मनि॒ष्क्रय॑ण ए॒वास्य॒ सः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तस्मा॒त् तस्य॒ नाश्य॑म् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+therefore of it he should not eat;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मा॒त् तस्य॒ नाश्य॑म् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पु॒रु॒ष॒नि॒ष्क्रय॑ण इव॒ हि ।
+</details>
+
+<details><summary>Keith</summary>
+
+for as it were it is a buying-off of a man.
+</details>
+
+<details><summary>मूलम्</summary>
+
 पु॒रु॒ष॒नि॒ष्क्रय॑ण इव॒ हि ।
 </details>
 
@@ -411,7 +886,6 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 तस्मा॑त् । तस्य॑ । न । आ॒श्य॑म् ।   
 पु॒रु॒ष॒नि॒ष्क्रय॑ण॒ इति॑ पुरुष-नि॒ष्क्रय॑णः । इ॒व॒ । हि ।  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -427,22 +901,78 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 
 अथो॒ खल्वा॑हुर्  
 अ॒ग्नीषोमा॑भ्याव्ँ॒ वा इन्द्रो॑ वृ॒त्रम॑ह॒न्निति॑ ।  
-यद॑ग्नीषो॒मीय॑म् प॒शुमा॒लभ॑ते॒ वार्त्र॑घ्न ए॒वास्य॒ सः ।  
-तस्मा॑द्वा॒श्यम् ।
-वा॒रु॒ण्यर्चा परि॑ चरति ।
-स्वयै॒वैन॑न् दे॒वत॑या॒ परि॑ चरति ॥ [76]  
+</details>
+
+<details><summary>Keith</summary>
+
+Or rather they say, 'By Agni and Soma Indra slew Vrtra'.
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथो॒ खल्वा॑हुर्  
 अ॒ग्नीषोमा॑भ्याव्ँ॒ वा इन्द्रो॑ वृ॒त्रम॑ह॒न्निति॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यद॑ग्नीषो॒मीय॑म् प॒शुमा॒लभ॑ते॒ वार्त्र॑घ्न ए॒वास्य॒ सः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+In that he offers an animal to Agni and Soma, it slays hostile things for him;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद॑ग्नीषो॒मीय॑म् प॒शुमा॒लभ॑ते॒ वार्त्र॑घ्न ए॒वास्य॒ सः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तस्मा॑द्वा॒श्यम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+therefore he should eat of it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मा॑द्वा॒श्यम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वा॒रु॒ण्यर्चा परि॑ चरति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He honours it with a verse addressed to Varuna;
+</details>
+
+<details><summary>मूलम्</summary>
+
+वा॒रु॒ण्यर्चा परि॑ चरति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स्वयै॒वैन॑न् दे॒वत॑या॒ परि॑ चरति ॥ [76]  
 </details>
 
+<details><summary>Keith</summary>
+
+verily he honours it with its own deity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वयै॒वैन॑न् दे॒वत॑या॒ परि॑ चरति ॥ [76]  
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -453,7 +983,6 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 
 वा॒रु॒ण्या । ऋ॒चा । परीति॑ । च॒र॒ति॒ । 
 स्वया॑ । ए॒व । ए॒न॒म् । दे॒वत॑या । परीति॑ । च॒र॒ति॒ ॥ [76]  
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -462,5 +991,5 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 
 इति श्रीभट्टभास्कृरमिश्रविरचिते ज्ञानयज्ञाख्ये यजुर्वेदभाष्ये षष्ठकाण्डे प्रथमप्रश्ने एकादशानुवाकः ॥
 समाप्तश्च प्रथमः प्रश्नः ॥  
-
 </details>
+

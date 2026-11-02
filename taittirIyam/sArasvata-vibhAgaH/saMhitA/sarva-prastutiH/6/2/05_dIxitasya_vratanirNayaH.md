@@ -12,13 +12,29 @@ title = "०५ दीक्षितस्य व्रतनिर्णयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्वा अनी॑शानो भा॒रम् आ॑द॒त्ते वि वै स लि॑शते ।  
+</details>
 
-यद् द्वाद॑श सा॒ह्नस्यो॑प॒सद॒स् स्युस् ति॒स्रो॑ ऽहीन॑स्य य॒ज्ञस्य॒ विलो॑म क्रियेत ।  
+<details><summary>Keith</summary>
+
+If a weak man take up a burden, he breaks up into pieces.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद्वा अनी॑शानो भा॒रम् आ॑द॒त्ते वि वै स लि॑शते ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् द्वाद॑श सा॒ह्नस्यो॑प॒सद॒स् स्युस् ति॒स्रो॑ ऽहीन॑स्य य॒ज्ञस्य॒ विलो॑म क्रियेत ।  
+</details>
+
+<details><summary>Keith</summary>
+
+If there were twelve Upasads in the one day rite, and three in the Ahina, the sacrifice would be upset.
+</details>
+
+<details><summary>मूलम्</summary>
 
 यद् द्वाद॑श सा॒ह्नस्यो॑प॒सद॒स् स्युस् ति॒स्रो॑ ऽहीन॑स्य य॒ज्ञस्य॒ विलो॑म क्रियेत ।  
 </details>
@@ -27,7 +43,6 @@ title = "०५ दीक्षितस्य व्रतनिर्णयः
 
 यत् । वै । अनी॑शानः । भा॒रम् । आ॒द॒त्त इत्या॑-द॒त्ते । वीति॑ । वै । सः । लि॒श॒ते॒ ।   
 यत् । द्वाद॑श । सा॒ह्नस्येति॑ स-अ॒ह्नस्य॑ । उ॒प॒सद॒ इत्यु॑प-सदः॑ । स्युः । ति॒स्रः । अ॒हीन॑स्य । य॒ज्ञस्य॑ । विलो॒मेति॒ वि-लो॒म॒ । क्रि॒ये॒त॒ ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -45,11 +60,15 @@ title = "०५ दीक्षितस्य व्रतनिर्णयः
 ति॒स्र ए॒व सा॒ह्नस्यो॑प॒सदो॒ द्वाद॑शा॒हीन॑स्य य॒ज्ञस्य॑ सवीर्य॒त्वाय॑+अथो॒ सलो॑म क्रियते ।  
 </details>
 
+<details><summary>Keith</summary>
+
+There are three Upasads in the one day rite, twelve in the Ahina, to preserve the strength of the sacrifice; thus it is in order.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ति॒स्र ए॒व सा॒ह्नस्यो॑प॒सदो॒ द्वाद॑शा॒हीन॑स्य य॒ज्ञस्य॑ सवीर्य॒त्वाय॑+अथो॒ सलो॑म क्रियते ।  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -69,20 +88,75 @@ title = "०५ दीक्षितस्य व्रतनिर्णयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व॒त्सस्यैक॒स् स्तनो॑ भा॒गी हि सोऽथैकँ॒ स्तनव्ँ॑ व्र॒तमुपै॒त्य् , अथ॒ द्वाव् अथ॒ त्रीन् अथ॑ च॒तुर॑ ,  
-ए॒तद् वै क्षु॒रप॑वि॒ नाम॑ व्र॒तय्ँ [25],  
-येन॒ प्र जा॒तान् भ्रातृ॑व्यान्नु॒दते॒ प्रति॑ जनि॒ष्यमा॑णा॒न् , अथो॒ कनी॑यसै॒व भूय॒ उपै॑ति ।   
+</details>
 
-च॒तुरोऽग्रे॒ स्तना॑न् व्र॒तमुपै॒त्य् अथ॒ त्रीनथ॒ द्वावथैक॑म् ,  
-ए॒तद् वै सु॑जघ॒नन्नाम॑ व्र॒तन् त॑प॒स्यँ॑ सुव॒र्ग्य॑मथो॒ प्रैव जा॑यते प्र॒जया॑ प॒शुभिः॑ ।  
+<details><summary>Keith</summary>
+
+One teat (of the cow) is used for a child, for that is fortunate. So he takes one teat for his milk drink, then two, then three, then four.
 </details>
 
 <details><summary>मूलम्</summary>
 
 व॒त्सस्यैक॒स् स्तनो॑ भा॒गी हि सोऽथैकँ॒ स्तनव्ँ॑ व्र॒तमुपै॒त्य् , अथ॒ द्वाव् अथ॒ त्रीन् अथ॑ च॒तुर॑ ,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ए॒तद् वै क्षु॒रप॑वि॒ नाम॑ व्र॒तय्ँ [25],  
+</details>
+
+<details><summary>Keith</summary>
+
+That [1] is the razor-edged drink
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒तद् वै क्षु॒रप॑वि॒ नाम॑ व्र॒तय्ँ [25],  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 येन॒ प्र जा॒तान् भ्रातृ॑व्यान्नु॒दते॒ प्रति॑ जनि॒ष्यमा॑णा॒न् , अथो॒ कनी॑यसै॒व भूय॒ उपै॑ति ।   
+</details>
+
+<details><summary>Keith</summary>
+
+by which he drives away his foes when born and repels them when about to be born; verily also with the smaller he approaches the greater.
+</details>
+
+<details><summary>मूलम्</summary>
+
+येन॒ प्र जा॒तान् भ्रातृ॑व्यान्नु॒दते॒ प्रति॑ जनि॒ष्यमा॑णा॒न् , अथो॒ कनी॑यसै॒व भूय॒ उपै॑ति ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च॒तुरोऽग्रे॒ स्तना॑न् व्र॒तमुपै॒त्य् अथ॒ त्रीनथ॒ द्वावथैक॑म् ,  
+</details>
+
+<details><summary>Keith</summary>
+
+He takes the four teats first for his drink, then three, then two, then one.
+</details>
+
+<details><summary>मूलम्</summary>
+
+च॒तुरोऽग्रे॒ स्तना॑न् व्र॒तमुपै॒त्य् अथ॒ त्रीनथ॒ द्वावथैक॑म् ,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ए॒तद् वै सु॑जघ॒नन्नाम॑ व्र॒तन् त॑प॒स्यँ॑ सुव॒र्ग्य॑मथो॒ प्रैव जा॑यते प्र॒जया॑ प॒शुभिः॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+That is the drink called 'of a beatific back', full of fervour, and of heavenly character; verily also is he propagated with children and cattle.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ए॒तद् वै सु॑जघ॒नन्नाम॑ व्र॒तन् त॑प॒स्यँ॑ सुव॒र्ग्य॑मथो॒ प्रैव जा॑यते प्र॒जया॑ प॒शुभिः॑ ।  
 </details>
 
@@ -94,7 +168,6 @@ title = "०५ दीक्षितस्य व्रतनिर्णयः
 ए॒तत् । वै । [25]  क्षु॒रप॒वीति॑ क्षु॒र-प॒वि॒ । नाम॑ । व्र॒तम् । येन॑ । प्रेति॑ । जा॒तान् । भ्रातृ॑व्यान् । नु॒दते॑ । प्रतीति॑ । ज॒नि॒ष्यमा॑णान् । अथो॒ इति॑ । कनी॑यसा । ए॒व । भूयः॑ । उपेति॑ । ए॒ति॒ ।   
 
 च॒तुरः॑ । अग्रे॑ । स्तना॑न् । व्र॒तम् । उपेति॑ । ए॒ति॒ । अथ॑ । त्रीन् । अथ॑ । द्वौ । अथ॑ । एक॑म् । ए॒तत् । वै । सु॒ज॒घ॒नमिति॑ सु-ज॒घ॒नम् । नाम॑ । व्र॒तम् । त॒प॒स्य॑म् । सु॒व॒र्ग्य॑मिति॑ सुवः-ग्य॑म् । अथो॒ इति॑ । प्रेति॑ । ए॒व । जा॒य॒ते॒ । प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -111,14 +184,45 @@ title = "०५ दीक्षितस्य व्रतनिर्णयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यवा॒गू रा॑ज॒न्य॑स्य व्र॒तङ्
-क्रू॒रेव॒ वै य॑वा॒गूᳵ क्रू॒र इ॑व रा॒ज॒न्यो॑ वज्र॑स्य रू॒पँ ,  
-समृ॑द्ध्यै।  [26]    
+</details>
+
+<details><summary>Keith</summary>
+
+Gruel is the drink of the Rajanya;
 </details>
 
 <details><summary>मूलम्</summary>
 
 यवा॒गू रा॑ज॒न्य॑स्य व्र॒तङ्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 क्रू॒रेव॒ वै य॑वा॒गूᳵ क्रू॒र इ॑व रा॒ज॒न्यो॑ वज्र॑स्य रू॒पँ ,  
+</details>
+
+<details><summary>Keith</summary>
+
+gruel is as it were harsh; the Rajanya is as it were harsh [2], it is the symbol of the thunderbolt,
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्रू॒रेव॒ वै य॑वा॒गूᳵ क्रू॒र इ॑व रा॒ज॒न्यो॑ वज्र॑स्य रू॒पँ ,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+समृ॑द्ध्यै।  [26]    
+</details>
+
+<details><summary>Keith</summary>
+
+(and serves) for success.
+</details>
+
+<details><summary>मूलम्</summary>
+
 समृ॑द्ध्यै।  [26]    
 </details>
 
@@ -140,6 +244,11 @@ title = "०५ दीक्षितस्य व्रतनिर्णयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒मिक्षा॒ वैश्य॑स्य पाकय॒ज्ञस्य॑ रू॒पम् पुष्ट्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Curds (is the drink) of the Vaiśya, it is the symbol of the sacrifice of cooked food, (and serves) for prosperity.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -165,12 +274,30 @@ title = "०५ दीक्षितस्य व्रतनिर्णयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पयो॑ ब्राह्म॒णस्य॒ तेजो॒ वै ब्रा॑ह्म॒णस् , तेज॒ᳶ पय॒स् , तेज॑सै॒व तेज॒ᳶ पय॑ आ॒त्मन् ध॑त्ते ।  
-अथो॒ पय॑सा॒ वै गर्भा॑ वर्धन्ते । गर्भ॑ इव॒ खलु॒ वा ए॒ष यद् दी॑क्षि॒तो यद॑स्य॒ पयो॑ व्र॒तम् भव॑त्या॒त्मान॑मे॒व तद्व॑र्धयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Milk (is the drink) of the Brahman, the Brahman is brilliance, milk is brilliance; verily by brilliance he endows himself with brilliance and milk.
 </details>
 
 <details><summary>मूलम्</summary>
 
 पयो॑ ब्राह्म॒णस्य॒ तेजो॒ वै ब्रा॑ह्म॒णस् , तेज॒ᳶ पय॒स् , तेज॑सै॒व तेज॒ᳶ पय॑ आ॒त्मन् ध॑त्ते ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथो॒ पय॑सा॒ वै गर्भा॑ वर्धन्ते । गर्भ॑ इव॒ खलु॒ वा ए॒ष यद् दी॑क्षि॒तो यद॑स्य॒ पयो॑ व्र॒तम् भव॑त्या॒त्मान॑मे॒व तद्व॑र्धयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Again by milk foetuses grow; the man who is consecrated is as it were a foetus; in that milk is his drink, verily thus he causes himself to grow.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अथो॒ पय॑सा॒ वै गर्भा॑ वर्धन्ते । गर्भ॑ इव॒ खलु॒ वा ए॒ष यद् दी॑क्षि॒तो यद॑स्य॒ पयो॑ व्र॒तम् भव॑त्या॒त्मान॑मे॒व तद्व॑र्धयति ।
 </details>
 
@@ -181,7 +308,6 @@ title = "०५ दीक्षितस्य व्रतनिर्णयः
 पयः॑ । ब्रा॒ह्म॒णस्य॑ । तेजः॑ । वै । ब्रा॒ह्म॒णः । तेजः॑ । पयः॑ । तेज॑सा । ए॒व । तेजः॑ । पयः॑ । आ॒त्मन् । ध॒त्ते॒ ।   
 
 अथो॒ इति॑ । पय॑सा । वै । गर्भाः॑ । व॒र्ध॒न्ते॒ । गर्भः॑ । इ॒व॒ । खलु॑ । वै । ए॒षः । यत् । दी॒क्षि॒तः । यत् । अ॒स्य॒ । पयः॑ । व्र॒तम् । भव॑ति । आ॒त्मान॑म् । ए॒व । तत् । व॒र्ध॒य॒ति॒ ।   
-
 </details>
 
 
@@ -200,22 +326,90 @@ title = "०५ दीक्षितस्य व्रतनिर्णयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिव्र॑तो॒ वै मनु॑रासी॒द् द्विव्र॑ता॒ असु॑रा॒ एक॑व्रताः दे॒वाः  ।[27]   
+</details>
 
-प्रा॒तर्म॒ध्यन्दि॑ने सा॒यन् तन्मनो॑र् व्र॒तमा॑सीत् पाकय॒ज्ञस्य॑ रू॒पम् , पुष्ट्यै॑ ।  
-प्रा॒तश्च॑ सा॒यञ्चासु॑राणान् निर्म॒ध्यङ् क्षु॒धो रू॒पन् , तत॒स् ते परा॑भवन् ।  
-म॒ध्यन्दि॑ने मध्यरा॒त्रे दे॒वाना॒न् तत॒स् ते॑ ऽभवन्त् , सुव॒र्गल्ँ लो॒कमा॑य॒न् ।  
-यद॑स्य म॒ध्यन्दि॑ने मध्यरा॒त्रे व्र॒तम्भव॑ति , मध्य॒तो वा अन्ने॑न भुञ्जते , मध्य॒त ए॒व तदूर्ज॑न् धत्ते॒ , भ्रातृ॑व्याभिभूत्यै ।  
-भव॑त्या॒त्मना॑ ।[28]  परा॑ऽस्य॒ भ्रातृ॑व्यो भवति ।
+<details><summary>Keith</summary>
+
+Manu was wont thrice to take drink, the Asuras twice, the gods once [3].
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्रिव्र॑तो॒ वै मनु॑रासी॒द् द्विव्र॑ता॒ असु॑रा॒ एक॑व्रताः दे॒वाः  ।[27]   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा॒तर्म॒ध्यन्दि॑ने सा॒यन् तन्मनो॑र् व्र॒तमा॑सीत् पाकय॒ज्ञस्य॑ रू॒पम् , पुष्ट्यै॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Morning, midday, evening, were the times of Manu's drinking, the symbol of the sacrifice of cooked food, (serving) for prosperity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रा॒तर्म॒ध्यन्दि॑ने सा॒यन् तन्मनो॑र् व्र॒तमा॑सीत् पाकय॒ज्ञस्य॑ रू॒पम् , पुष्ट्यै॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रा॒तश्च॑ सा॒यञ्चासु॑राणान् निर्म॒ध्यङ् क्षु॒धो रू॒पन् , तत॒स् ते परा॑भवन् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Morning and evening were those of the Asuras, without a middle, a symbol of hunger; thence were they overcome.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रा॒तश्च॑ सा॒यञ्चासु॑राणान् निर्म॒ध्यङ् क्षु॒धो रू॒पन् , तत॒स् ते परा॑भवन् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 म॒ध्यन्दि॑ने मध्यरा॒त्रे दे॒वाना॒न् तत॒स् ते॑ ऽभवन्त् , सुव॒र्गल्ँ लो॒कमा॑य॒न् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Midday and midnight were those of the gods; thence they prospered and went to the world of heaven.
+</details>
+
+<details><summary>मूलम्</summary>
+
+म॒ध्यन्दि॑ने मध्यरा॒त्रे दे॒वाना॒न् तत॒स् ते॑ ऽभवन्त् , सुव॒र्गल्ँ लो॒कमा॑य॒न् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यद॑स्य म॒ध्यन्दि॑ने मध्यरा॒त्रे व्र॒तम्भव॑ति , मध्य॒तो वा अन्ने॑न भुञ्जते , मध्य॒त ए॒व तदूर्ज॑न् धत्ते॒ , भ्रातृ॑व्याभिभूत्यै ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Now with regard to his drinking at midday and at midnight, it is in the middle that people feed themselves; verily he places strength in the middle of himself, for the overcoming of his foes.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद॑स्य म॒ध्यन्दि॑ने मध्यरा॒त्रे व्र॒तम्भव॑ति , मध्य॒तो वा अन्ने॑न भुञ्जते , मध्य॒त ए॒व तदूर्ज॑न् धत्ते॒ , भ्रातृ॑व्याभिभूत्यै ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भव॑त्या॒त्मना॑ ।[28]  परा॑ऽस्य॒ भ्रातृ॑व्यो भवति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He prospers himself [4], his foe is overcome.
+</details>
+
+<details><summary>मूलम्</summary>
+
 भव॑त्या॒त्मना॑ ।[28]  परा॑ऽस्य॒ भ्रातृ॑व्यो भवति ।
 </details>
 
@@ -244,16 +438,60 @@ title = "०५ दीक्षितस्य व्रतनिर्णयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गर्भो॒ वा ए॒ष यद् दी॑क्षि॒तो योनि॑र् दीक्षितविमि॒तय्ँ यद् दी॑क्षि॒तो दी॑क्षितविमि॒तात् प्र॒वसे॒द् ,  
-यथा॒ योने॒र् गर्भ॒स् स्कन्द॑ति ता॒दृग् ए॒व तन् न प्र॑वस्त॒व्य॑म् , आ॒त्मनो॑ गोपी॒थाय॑ ।  
-ए॒ष वै व्या॒घ्रᳵ कु॑लगो॒पो यद् अ॒ग्निस् तस्मा॒द् यद् दी॑क्षि॒तᳶ प्र॒वसे॒त् ,  
-स ए॑नमीश्व॒रो॑ ऽनू॒त्थाय॒ हन्तो॒र् न प्र॑वस्त॒व्य॑म् आ॒त्मनो॒ गुप्त्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Now the man who is consecrated is a foetus, the consecration-shed is the womb (in which he is).
 </details>
 
 <details><summary>मूलम्</summary>
 
 गर्भो॒ वा ए॒ष यद् दी॑क्षि॒तो योनि॑र् दीक्षितविमि॒तय्ँ यद् दी॑क्षि॒तो दी॑क्षितविमि॒तात् प्र॒वसे॒द् ,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यथा॒ योने॒र् गर्भ॒स् स्कन्द॑ति ता॒दृग् ए॒व तन् न प्र॑वस्त॒व्य॑म् , आ॒त्मनो॑ गोपी॒थाय॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+If the man who is consecrated were to leave the consecration-shed, it would be as when a foetus falls from the womb. He must not leave, to guard himself.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथा॒ योने॒र् गर्भ॒स् स्कन्द॑ति ता॒दृग् ए॒व तन् न प्र॑वस्त॒व्य॑म् , आ॒त्मनो॑ गोपी॒थाय॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ए॒ष वै व्या॒घ्रᳵ कु॑लगो॒पो यद् अ॒ग्निस् तस्मा॒द् यद् दी॑क्षि॒तᳶ प्र॒वसे॒त् ,  
+</details>
+
+<details><summary>Keith</summary>
+
+The fire here is a tiger to guard the house. Therefore if the man who is consecrated were to leave (the shed),
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒ष वै व्या॒घ्रᳵ कु॑लगो॒पो यद् अ॒ग्निस् तस्मा॒द् यद् दी॑क्षि॒तᳶ प्र॒वसे॒त् ,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स ए॑नमीश्व॒रो॑ ऽनू॒त्थाय॒ हन्तो॒र् न प्र॑वस्त॒व्य॑म् आ॒त्मनो॒ गुप्त्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+he would be likely to spring up and slay him. He must not leave, to protect himself.
+</details>
+
+<details><summary>मूलम्</summary>
+
 स ए॑नमीश्व॒रो॑ ऽनू॒त्थाय॒ हन्तो॒र् न प्र॑वस्त॒व्य॑म् आ॒त्मनो॒ गुप्त्यै॑ ।
 </details>
 
@@ -267,7 +505,6 @@ title = "०५ दीक्षितस्य व्रतनिर्णयः
 ए॒षः । वै । व्या॒घ्रः । कु॒ल॒गो॒प इति॑ कुल-गो॒पः । यत् । अ॒ग्निः । तस्मा॑त् । यत् । दी॒क्षि॒तः । प्र॒वसे॒दिति॑ प्र-वसे॑त् ।  
 
 सः । ए॒न॒म् । ई॒श्व॒रः । अ॒नू॒त्थायेत्य॑नु-उ॒त्थाय॑ । हन्तोः॑ । न । प्र॒व॒स्त॒व्य॑मिति॑ प्र-व॒स्त॒व्य॑म् । आ॒त्मनः॑ । गुप्त्यै॑ ।   
-
 </details>
 
 
@@ -284,12 +521,30 @@ title = "०५ दीक्षितस्य व्रतनिर्णयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द॒क्षि॒ण॒तश् श॑ये ।  
-ए॒तद् वै यज॑मानस्या॒यत॑नँ॒ , स्व ए॒वायत॑ने शये ।
+</details>
+
+<details><summary>Keith</summary>
+
+He lies on the right side;
 </details>
 
 <details><summary>मूलम्</summary>
 
 द॒क्षि॒ण॒तश् श॑ये ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ए॒तद् वै यज॑मानस्या॒यत॑नँ॒ , स्व ए॒वायत॑ने शये ।
+</details>
+
+<details><summary>Keith</summary>
+
+that is the abode of the sacrifice; verily he lies in his own abode.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ए॒तद् वै यज॑मानस्या॒यत॑नँ॒ , स्व ए॒वायत॑ने शये ।
 </details>
 
@@ -304,8 +559,6 @@ title = "०५ दीक्षितस्य व्रतनिर्णयः
 9दक्षिणतश्शय इति विधिः ॥ आहवनीयस्य दक्षिणतश्शयीत यजमानः । 'लोपस्त आत्मनेपदेषु' इति तलोपः । एतत् यजमानस्यायतनं, तस्मात्स्व एवायतने शये शयनं कृतं भवति ॥
 </details>
 
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऽग्निम॑भ्या॒वृत्य॑ शये दे॒वता॑ ए॒व य॒ज्ञम॑भ्या॒वृत्य॑ शये ॥ [29]  
@@ -314,12 +567,30 @@ title = "०५ दीक्षितस्य व्रतनिर्णयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निम॑भ्या॒वृत्य॑ शये ।
-दे॒वता॑ ए॒व य॒ज्ञम् अ॑भ्या॒वृत्य॑ शये ॥ [29]  
+</details>
+
+<details><summary>Keith</summary>
+
+He lies turned towards the fire;
 </details>
 
 <details><summary>मूलम्</summary>
 
 अग्निम॑भ्या॒वृत्य॑ शये ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दे॒वता॑ ए॒व य॒ज्ञम् अ॑भ्या॒वृत्य॑ शये ॥ [29]  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he lies turned towards the gods and the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 दे॒वता॑ ए॒व य॒ज्ञम् अ॑भ्या॒वृत्य॑ शये ॥ [29]  
 </details>
 

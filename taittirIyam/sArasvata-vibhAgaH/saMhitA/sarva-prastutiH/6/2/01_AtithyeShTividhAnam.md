@@ -12,12 +12,30 @@ title = "०१ आतिथ्येष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् उ॒भौ वि॒मुच्या॑ऽऽति॒थ्यङ् गृ॑ह्णी॒याद् , य॒ज्ञव्ँ विच्छि॑न्द्यात् ।  
-यद् उ॒भाव् अवि॑मुच्य॒ , यथाऽना॑गतायाति॒थ्यङ् क्रि॒यते॑ , ता॒दृगे॒व तत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+If he should offer hospitality after unyoking both (the oxen), he would break up the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद् उ॒भौ वि॒मुच्या॑ऽऽति॒थ्यङ् गृ॑ह्णी॒याद् , य॒ज्ञव्ँ विच्छि॑न्द्यात् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् उ॒भाव् अवि॑मुच्य॒ , यथाऽना॑गतायाति॒थ्यङ् क्रि॒यते॑ , ता॒दृगे॒व तत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+If (he should offer) before he has unyoked both, it would be as when hospitality is offered to one who has not yet arrived.
+</details>
+
+<details><summary>मूलम्</summary>
+
 यद् उ॒भाव् अवि॑मुच्य॒ , यथाऽना॑गतायाति॒थ्यङ् क्रि॒यते॑ , ता॒दृगे॒व तत् ।
 </details>
 
@@ -26,7 +44,6 @@ title = "०१ आतिथ्येष्टिविधानम्"
 यत् । उ॒भौ । वि॒मुच्येति॑ वि-मुच्य॑ । आ॒ति॒थ्यम् । गृ॒ह्णी॒यात् । य॒ज्ञम् । वीति॑ । छि॒न्द्या॒त् ।   
 
 यत् । उ॒भौ । अवि॑मु॒च्येत्यवि॑-मु॒च्य॒ । यथा॑ । अना॑गता॒येत्यना॑-ग॒ता॒य॒ । आ॒ति॒थ्यम् । क्रि॒यते॑ । ता॒दृक् । ए॒व । तत् ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -42,12 +59,30 @@ title = "०१ आतिथ्येष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विमु॑क्तो॒ऽन्यो॑ ऽन॒ड्वान् भव॒त्य् अवि॑मुक्तो॒ ऽन्यो ,  
-ऽथा॑ति॒थ्यङ् गृ॑ह्णाति , य॒ज्ञस्य॒ सन्त॑त्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+One ox is unyoked, one ox is not unyoked;
 </details>
 
 <details><summary>मूलम्</summary>
 
 विमु॑क्तो॒ऽन्यो॑ ऽन॒ड्वान् भव॒त्य् अवि॑मुक्तो॒ ऽन्यो ,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऽथा॑ति॒थ्यङ् गृ॑ह्णाति , य॒ज्ञस्य॒ सन्त॑त्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+then he offers hospitality, for the continuance of the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ऽथा॑ति॒थ्यङ् गृ॑ह्णाति , य॒ज्ञस्य॒ सन्त॑त्यै ।
 </details>
 
@@ -71,16 +106,60 @@ title = "०१ आतिथ्येष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पत्न्य॒न्वार॑भते ।  
-पत्नी॒ हि पारी॑णह्य॒स्येशे॒ पत्नि॑यै॒वानु॑मत॒न् निर्व॑पति ।  
-यद्वै पत्नी॑ य॒ज्ञस्य॑ क॒रोति॑ मिथु॒नन्तत् ।   
-अथो॒ पत्नि॑या ए॒व + ए॒ष य॒ज्ञस्या॑न्वार॒म्भो ऽन॑वच्छित्त्यै । [1]
+</details>
+
+<details><summary>Keith</summary>
+
+The wife (of the sacrificer) holds on (to the cart);
 </details>
 
 <details><summary>मूलम्</summary>
 
 पत्न्य॒न्वार॑भते ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पत्नी॒ हि पारी॑णह्य॒स्येशे॒ पत्नि॑यै॒वानु॑मत॒न् निर्व॑पति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+for the wife is mistress of the household gear; verily he offers what is approved by the wife.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पत्नी॒ हि पारी॑णह्य॒स्येशे॒ पत्नि॑यै॒वानु॑मत॒न् निर्व॑पति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यद्वै पत्नी॑ य॒ज्ञस्य॑ क॒रोति॑ मिथु॒नन्तत् ।   
+</details>
+
+<details><summary>Keith</summary>
+
+The share of the wife in the sacrifice makes a pair;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्वै पत्नी॑ य॒ज्ञस्य॑ क॒रोति॑ मिथु॒नन्तत् ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथो॒ पत्नि॑या ए॒व + ए॒ष य॒ज्ञस्या॑न्वार॒म्भो ऽन॑वच्छित्त्यै । [1]
+</details>
+
+<details><summary>Keith</summary>
+
+so the wife also [1] grasps the sacrifice that it may not be interrupted.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अथो॒ पत्नि॑या ए॒व + ए॒ष य॒ज्ञस्या॑न्वार॒म्भो ऽन॑वच्छित्त्यै । [1]
 </details>
 
@@ -108,25 +187,107 @@ title = "०१ आतिथ्येष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याव॑द्भि॒र् वै राजा॑नुच॒रैर् आ॒गच्छ॑ति॒ , सर्वे॑भ्यो॒ वै तेभ्य॑ आति॒थ्यङ् क्रि॑यते ।   
-छन्दाँ॑सि॒ खलु॒ वै सोम॑स्य॒ राज्ञो॑ऽनुच॒राणि॑ ।  
-"अ॒ग्नेरा॑ति॒थ्यम॑सि॒ , विष्ण॑वे॒ त्वे"त्या॑ह , गायत्रि॒या ए॒वैतेन॑ करोति ।  
-"सोम॑स्याति॒थ्यम॑सि॒ , विष्ण॑वे॒ त्वे"त्या॑ह , त्रि॒ष्टुभ॑ ए॒वैतेन॑ करोति ।  
-"अति॑थेराति॒थ्यम॑सि॒ , विष्ण॑वे॒ त्वे"त्या॑ह॒ , जग॑त्या ए॒वैतेन॑ करोति ।[2]   
-अ॒ग्नये॑ त्वा रायस्पोष॒दाव्ने॒ , विष्ण॑वे॒ त्वे"त्या॑हानु॒ष्टुभ॑ ए॒वैतेन॑ करोति ।  
-श्ये॒नाय॑ त्वा सोम॒भृते॒ , विष्ण॑वे॒ त्वे"त्या॑ह , गायत्रि॒या ए॒वैतेन॑ करोति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+With whatever retinue the king comes, to all of them hospitality is offered;
 </details>
 
 <details><summary>मूलम्</summary>
 
 याव॑द्भि॒र् वै राजा॑नुच॒रैर् आ॒गच्छ॑ति॒ , सर्वे॑भ्यो॒ वै तेभ्य॑ आति॒थ्यङ् क्रि॑यते ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 छन्दाँ॑सि॒ खलु॒ वै सोम॑स्य॒ राज्ञो॑ऽनुच॒राणि॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the metres are the retinue of King Soma.
+</details>
+
+<details><summary>मूलम्</summary>
+
+छन्दाँ॑सि॒ खलु॒ वै सोम॑स्य॒ राज्ञो॑ऽनुच॒राणि॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "अ॒ग्नेरा॑ति॒थ्यम॑सि॒ , विष्ण॑वे॒ त्वे"त्या॑ह , गायत्रि॒या ए॒वैतेन॑ करोति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art the hospitality of Agni. For Visnu thee!' he says; thus he offers (hospitality) to the Gayatri.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"अ॒ग्नेरा॑ति॒थ्यम॑सि॒ , विष्ण॑वे॒ त्वे"त्या॑ह , गायत्रि॒या ए॒वैतेन॑ करोति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "सोम॑स्याति॒थ्यम॑सि॒ , विष्ण॑वे॒ त्वे"त्या॑ह , त्रि॒ष्टुभ॑ ए॒वैतेन॑ करोति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art the hospitality of Soma. 'For Visnu thee!' he says; thus he offers (hospitality) to the Tristubh.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"सोम॑स्याति॒थ्यम॑सि॒ , विष्ण॑वे॒ त्वे"त्या॑ह , त्रि॒ष्टुभ॑ ए॒वैतेन॑ करोति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "अति॑थेराति॒थ्यम॑सि॒ , विष्ण॑वे॒ त्वे"त्या॑ह॒ , जग॑त्या ए॒वैतेन॑ करोति ।[2]   
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art the hospitality of the stranger. For Visnu thee!' he says; thus he offers (hospitality) to the Jagati [2].
+</details>
+
+<details><summary>मूलम्</summary>
+
+"अति॑थेराति॒थ्यम॑सि॒ , विष्ण॑वे॒ त्वे"त्या॑ह॒ , जग॑त्या ए॒वैतेन॑ करोति ।[2]   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒ग्नये॑ त्वा रायस्पोष॒दाव्ने॒ , विष्ण॑वे॒ त्वे"त्या॑हानु॒ष्टुभ॑ ए॒वैतेन॑ करोति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'For Agni thee, giver of wealth, for Visnu thee!' he says; thus he offers (hospitality) to the Anustubh.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्नये॑ त्वा रायस्पोष॒दाव्ने॒ , विष्ण॑वे॒ त्वे"त्या॑हानु॒ष्टुभ॑ ए॒वैतेन॑ करोति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 श्ये॒नाय॑ त्वा सोम॒भृते॒ , विष्ण॑वे॒ त्वे"त्या॑ह , गायत्रि॒या ए॒वैतेन॑ करोति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+'For the eagle, bringer of the Soma, thee, for Visnu thee!' he says; thus he offers (hospitality) to the Gayatri.
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्ये॒नाय॑ त्वा सोम॒भृते॒ , विष्ण॑वे॒ त्वे"त्या॑ह , गायत्रि॒या ए॒वैतेन॑ करोति ।  
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -150,7 +311,6 @@ title = "०१ आतिथ्येष्टिविधानम्"
 अ॒नु॒ष्टुभ॒ इत्य॑नु-स्तुभे॑ । ए॒व । ए॒तेन॑ । क॒रो॒ति॒ ।
 
 श्ये॒नाय॑ । त्वा॒ । सो॒म॒भृत॒ इति॑ सोम-भृते॑ । विष्ण॑वे । त्वा॒ । इति॑ । आ॒ह॒ । गा॒य॒त्रि॒यै । ए॒व । ए॒तेन॑ । क॒रो॒ति॒ । 
-
 </details>
 
 
@@ -168,16 +328,60 @@ title = "०१ आतिथ्येष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च॒ कृत्वो॑ गृह्णाति॒
-पञ्चा॑क्षरा प॒ङ्क्तिᳶ
-पाङ्क्तो॑ य॒ज्ञो
-य॒ज्ञमे॒वाव॑ रुन्द्धे
+</details>
+
+<details><summary>Keith</summary>
+
+He offers five times.
 </details>
 
 <details><summary>मूलम्</summary>
 
 पञ्च॒ कृत्वो॑ गृह्णाति॒
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पञ्चा॑क्षरा प॒ङ्क्तिᳶ
+</details>
+
+<details><summary>Keith</summary>
+
+The Pankti has five syllables,
+</details>
+
+<details><summary>मूलम्</summary>
+
+पञ्चा॑क्षरा प॒ङ्क्तिᳶ
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पाङ्क्तो॑ य॒ज्ञो
+</details>
+
+<details><summary>Keith</summary>
+
+the sacrifice is fivefold;
+</details>
+
+<details><summary>मूलम्</summary>
+
+पाङ्क्तो॑ य॒ज्ञो
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य॒ज्ञमे॒वाव॑ रुन्द्धे
+</details>
+
+<details><summary>Keith</summary>
+
+verily he wins the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 य॒ज्ञमे॒वाव॑ रुन्द्धे
 </details>
 
@@ -210,21 +414,77 @@ title = "०१ आतिथ्येष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति॒ -  
-"कस्मा॑त् स॒त्याद् गा॑यत्रि॒या उ॑भ॒यत॑ आति॒थ्यस्य॑ क्रियत॒" इति॑ ।  
-यद् ए॒वादस् सोम॒मा ऽह॑र॒त् [3] ,   
-तस्मा॑द् गायत्रि॒या उ॑भ॒यत॑ आति॒थ्यस्य॑ क्रियते ,  
-पु॒रस्ता॑च् चो॒परि॑ष्टाच् च ।
+</details>
+
+<details><summary>Keith</summary>
+
+The theologians say,
 </details>
 
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति॒ -  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "कस्मा॑त् स॒त्याद् गा॑यत्रि॒या उ॑भ॒यत॑ आति॒थ्यस्य॑ क्रियत॒" इति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'For what reason is the Gayatri offered to on either side of the offering of hospitality?'
+</details>
+
+<details><summary>मूलम्</summary>
+
+"कस्मा॑त् स॒त्याद् गा॑यत्रि॒या उ॑भ॒यत॑ आति॒थ्यस्य॑ क्रियत॒" इति॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यद् ए॒वादस् सोम॒मा ऽह॑र॒त् [3] ,   
+</details>
+
+<details><summary>Keith</summary>
+
+Because the Gayatri brought the Soma down [3];
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद् ए॒वादस् सोम॒मा ऽह॑र॒त् [3] ,   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तस्मा॑द् गायत्रि॒या उ॑भ॒यत॑ आति॒थ्यस्य॑ क्रियते ,  
+</details>
+
+<details><summary>Keith</summary>
+
+therefore is it offered to on both sides of hospitality,
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मा॑द् गायत्रि॒या उ॑भ॒यत॑ आति॒थ्यस्य॑ क्रियते ,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पु॒रस्ता॑च् चो॒परि॑ष्टाच् च ।
 </details>
 
+<details><summary>Keith</summary>
+
+before and after.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पु॒रस्ता॑च् चो॒परि॑ष्टाच् च ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -233,7 +493,6 @@ title = "०१ आतिथ्येष्टिविधानम्"
 कस्मा॑त् । स॒त्यात् । गा॒य॒त्रि॒यै । उ॒भ॒यतः॑ । आ॒ति॒थ्यस्य॑ । क्रि॒य॒ते॒ । इति॑ ।   
 यत् । ए॒व । अ॒दः । सोम॑म् । एति॑ । [3]  
 अह॑रत् । तस्मा॑त् । गा॒य॒त्रि॒यै । उ॒भ॒यतः॑ । आ॒ति॒थ्यस्य॑ । क्रि॒य॒ते॒ । पु॒रस्ता॑त् । च॒ । उ॒परि॑ष्टात् । च॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -249,12 +508,30 @@ title = "०१ आतिथ्येष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिरो॒ वा ए॒तद् य॒ज्ञस्य॒ यदा॑ति॒थ्यन् नव॑कपालᳶ पुरो॒डाशो॑ भवति॒ ,  
-तस्मा॑न् नव॒धा शिरो॒ विष्यू॑तम् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Hospitality is the head of the sacrifice, the sacrificial cake is offered on nine potsherds,
 </details>
 
 <details><summary>मूलम्</summary>
 
 शिरो॒ वा ए॒तद् य॒ज्ञस्य॒ यदा॑ति॒थ्यन् नव॑कपालᳶ पुरो॒डाशो॑ भवति॒ ,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॑न् नव॒धा शिरो॒ विष्यू॑तम् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+therefore the head has nine apertures.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॑न् नव॒धा शिरो॒ विष्यू॑तम् ।  
 </details>
 
@@ -279,14 +556,45 @@ title = "०१ आतिथ्येष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नव॑कपालᳶ पुरो॒डाशो॑ भवति ।  
-ते त्रय॑स् त्रिकपा॒लास् त्रि॒वृता॒ स्तोमे॑न॒ सम्मि॑ता॒स् ,
-तेज॑स्त्रि॒वृत् , तेज॑ ए॒व य॒ज्ञस्य॑ शी॒र्षन् द॑धाति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The sacrificial cake is offered on nine potsherds.
 </details>
 
 <details><summary>मूलम्</summary>
 
 नव॑कपालᳶ पुरो॒डाशो॑ भवति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ते त्रय॑स् त्रिकपा॒लास् त्रि॒वृता॒ स्तोमे॑न॒ सम्मि॑ता॒स् ,
+</details>
+
+<details><summary>Keith</summary>
+
+The three sets of three potsherds are commensurate with the Trivrt Stoma,
+</details>
+
+<details><summary>मूलम्</summary>
+
+ते त्रय॑स् त्रिकपा॒लास् त्रि॒वृता॒ स्तोमे॑न॒ सम्मि॑ता॒स् ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेज॑स्त्रि॒वृत् , तेज॑ ए॒व य॒ज्ञस्य॑ शी॒र्षन् द॑धाति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the Trivrt is brilliance; verily he places brilliance in the head of the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तेज॑स्त्रि॒वृत् , तेज॑ ए॒व य॒ज्ञस्य॑ शी॒र्षन् द॑धाति ।  
 </details>
 
@@ -309,14 +617,45 @@ title = "०१ आतिथ्येष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नव॑कपालᳶ पुरो॒डाशो॑ भवति ।  
-ते त्रय॑स् त्रिकपा॒लास् त्रि॒वृता॑ प्रा॒णेन॒ सम्मि॑तास् ,
-त्रि॒वृद्वै प्रा॒णस् , त्रि॒वृत॑मे॒व प्रा॒णम॑भिपू॒र्वय्ँ य॒ज्ञस्य॑ शी॒र्षन् द॑धाति ।[4]
+</details>
+
+<details><summary>Keith</summary>
+
+The sacrificial cake is offered on nine potsherds.
 </details>
 
 <details><summary>मूलम्</summary>
 
 नव॑कपालᳶ पुरो॒डाशो॑ भवति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ते त्रय॑स् त्रिकपा॒लास् त्रि॒वृता॑ प्रा॒णेन॒ सम्मि॑तास् ,
+</details>
+
+<details><summary>Keith</summary>
+
+The three sets of three potsherds are commensurate with the threefold breath,
+</details>
+
+<details><summary>मूलम्</summary>
+
+ते त्रय॑स् त्रिकपा॒लास् त्रि॒वृता॑ प्रा॒णेन॒ सम्मि॑तास् ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रि॒वृद्वै प्रा॒णस् , त्रि॒वृत॑मे॒व प्रा॒णम॑भिपू॒र्वय्ँ य॒ज्ञस्य॑ शी॒र्षन् द॑धाति ।[4]
+</details>
+
+<details><summary>Keith</summary>
+
+the breath is threefold [4]; verily in order he places the threefold breath in the head of the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 त्रि॒वृद्वै प्रा॒णस् , त्रि॒वृत॑मे॒व प्रा॒णम॑भिपू॒र्वय्ँ य॒ज्ञस्य॑ शी॒र्षन् द॑धाति ।[4]
 </details>
 
@@ -324,7 +663,6 @@ title = "०१ आतिथ्येष्टिविधानम्"
 
 नव॑कपाल॒ इति॒ नव॑-क॒पा॒लः॒ । पु॒रो॒डाशः॑ । भ॒व॒ति॒ ।   
 ते । त्रयः॑ । त्रि॒क॒पा॒ला इति॑ त्रि-क॒पा॒लाः । त्रि॒वृतेति॑ त्रि-वृता॑ । प्रा॒णेनेति॑ प्र-अ॒नेन॑ । सम्मि॑ता॒ इति॒ सम्-मि॒ताः॒ । त्रि॒वृदिति॑ त्रि-वृत् । वै । [4]  प्रा॒ण इति॑ प्र-अ॒नः । त्रि॒वृत॒मिति॑ त्रि-वृत॑म् । ए॒व । प्रा॒णमिति॑ प्र-अ॒नम् । अ॒भि॒पू॒र्वमित्य॑भि-पू॒र्वम् । य॒ज्ञस्य॑ । शी॒र्‌षन् । द॒धा॒ति॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -340,15 +678,32 @@ title = "०१ आतिथ्येष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑ते॒र्वा ए॒तानि॒ पक्ष्मा॑णि॒ , यद॑श्ववा॒ला ऐ॑क्ष॒वी ति॒रश्ची॒ ,  
-यदाश्व॑वालᳶ प्रस्त॒रो भव॑त्यैक्ष॒वी ति॒रश्ची॑ प्र॒जाप॑तेर् ए॒व तच् चक्षु॒स् सम्भ॑रति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Now the Saccharum spontaneum shoots are the eyelashes of Prajapati, and his lids are pieces of sugar-cane.
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ते॒र्वा ए॒तानि॒ पक्ष्मा॑णि॒ , यद॑श्ववा॒ला ऐ॑क्ष॒वी ति॒रश्ची॒ ,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यदाश्व॑वालᳶ प्रस्त॒रो भव॑त्यैक्ष॒वी ति॒रश्ची॑ प्र॒जाप॑तेर् ए॒व तच् चक्षु॒स् सम्भ॑रति ।
 </details>
 
+<details><summary>Keith</summary>
+
+In that the strew is of Saccharum spontaneum and the dividing-stakes of sugar-cane, verily he brings together the eye of Prajapati.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदाश्व॑वालᳶ प्रस्त॒रो भव॑त्यैक्ष॒वी ति॒रश्ची॑ प्र॒जाप॑तेर् ए॒व तच् चक्षु॒स् सम्भ॑रति ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -369,17 +724,59 @@ title = "०१ आतिथ्येष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वा वै या आहु॑ती॒रजु॑हवु॒स्ता असु॑रा नि॒ष्काव॑माद॒न्ते दे॒वाᳵ का॑र्ष्म॒र्य॑मपश्यन्कर्म॒ण्यो॑ वै ।  
-कर्मै॑नेन कुर्वी॒तेति॒ ते का॑र्ष्मर्य॒मया॑न्परि॒धीन् अ॑कुर्वत ।[5]  
-तैर् वै ते रक्षाँ॒स्यपा॑घ्नत ।
-यत् का॑र्ष्मर्य॒मयाः॑ परि॒धयो॒ भव॑न्ति॒ , रक्ष॑सा॒मप॑हत्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+Now the libations made by the gods the Asuras tore and ate. The gods saw the Gmelina arborea tree.
 </details>
 
 <details><summary>मूलम्</summary>
 
 दे॒वा वै या आहु॑ती॒रजु॑हवु॒स्ता असु॑रा नि॒ष्काव॑माद॒न्ते दे॒वाᳵ का॑र्ष्म॒र्य॑मपश्यन्कर्म॒ण्यो॑ वै ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्मै॑नेन कुर्वी॒तेति॒ ते का॑र्ष्मर्य॒मया॑न्परि॒धीन् अ॑कुर्वत ।[5]  
+</details>
+
+<details><summary>Keith</summary>
+
+(Thinking) 'It is fit for work; by it one can perform work', they made the enclosing sticks of Gmelina arborea wood [5],
+</details>
+
+<details><summary>मूलम्</summary>
+
+कर्मै॑नेन कुर्वी॒तेति॒ ते का॑र्ष्मर्य॒मया॑न्परि॒धीन् अ॑कुर्वत ।[5]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तैर् वै ते रक्षाँ॒स्यपा॑घ्नत ।
+</details>
+
+<details><summary>Keith</summary>
+
+and by them they smote away the Raksases.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तैर् वै ते रक्षाँ॒स्यपा॑घ्नत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् का॑र्ष्मर्य॒मयाः॑ परि॒धयो॒ भव॑न्ति॒ , रक्ष॑सा॒मप॑हत्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+In that the enclosing-sticks are made of Gmelina arborea wood, it is for the smiting away of the Raksases.
+</details>
+
+<details><summary>मूलम्</summary>
 
 यत् का॑र्ष्मर्य॒मयाः॑ परि॒धयो॒ भव॑न्ति॒ , रक्ष॑सा॒मप॑हत्यै ।
 </details>
@@ -397,7 +794,6 @@ title = "०१ आतिथ्येष्टिविधानम्"
 तैः । वै । ते । रक्षाँ॑सि । अपेति॑ । अ॒घ्न॒त॒ । 
 
 यत् । का॒र्‌ष्म॒र्य॒मया॒ इति॑ कार्‌ष्मर्य-मयाः॑ । प॒रि॒धय॒ इति॑ परि-धयः॑ । भव॑न्ति । रक्ष॑साम् । अप॑हत्या॒ इत्यप॑-ह॒त्यै॒ ।
-
 </details>
 
 
@@ -414,18 +810,75 @@ title = "०१ आतिथ्येष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सँस्प॑र्शयति॒ रक्ष॑सा॒मन॑न्ववचाराय ।  
-न पु॒रस्ता॒त् परि॑ दधात्यादि॒त्यो ह्ये॑वोद्यन्पु॒रस्ता॒द् रक्षाँ॑स्यप॒हन्ति॑ ।  
-ऊ॒र्ध्वे स॒मिधा॒वा द॑धात्य् - उ॒परि॑ष्टादे॒व रक्षाँ॒स्यप॑हन्ति ।  
-यजु॑षा॒न्यान् तू॒ष्णीम् अ॒न्याम् मि॑थुन॒त्वाय ।  
-द्वे आ द॑धाति द्वि॒पाद् यज॑मान॒ᳶ प्रति॑ष्ठित्यै ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He makes them touch, that the Raksases may not go through them.
 </details>
 
 <details><summary>मूलम्</summary>
 
 सँस्प॑र्शयति॒ रक्ष॑सा॒मन॑न्ववचाराय ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 न पु॒रस्ता॒त् परि॑ दधात्यादि॒त्यो ह्ये॑वोद्यन्पु॒रस्ता॒द् रक्षाँ॑स्यप॒हन्ति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He does not place one in front, for the sun which rises in front smites away the Raksases.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न पु॒रस्ता॒त् परि॑ दधात्यादि॒त्यो ह्ये॑वोद्यन्पु॒रस्ता॒द् रक्षाँ॑स्यप॒हन्ति॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ऊ॒र्ध्वे स॒मिधा॒वा द॑धात्य् - उ॒परि॑ष्टादे॒व रक्षाँ॒स्यप॑हन्ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He places the kindling-sticks erect; verily from above he smites away the Raksases;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऊ॒र्ध्वे स॒मिधा॒वा द॑धात्य् - उ॒परि॑ष्टादे॒व रक्षाँ॒स्यप॑हन्ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यजु॑षा॒न्यान् तू॒ष्णीम् अ॒न्याम् मि॑थुन॒त्वाय ।  
+</details>
+
+<details><summary>Keith</summary>
+
+(he places one) with a Yajus, the other in silence, to make a pair.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यजु॑षा॒न्यान् तू॒ष्णीम् अ॒न्याम् मि॑थुन॒त्वाय ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वे आ द॑धाति द्वि॒पाद् यज॑मान॒ᳶ प्रति॑ष्ठित्यै ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He places two; the sacrifice has two feet; (verily they serve) for support.
+</details>
+
+<details><summary>मूलम्</summary>
+
 द्वे आ द॑धाति द्वि॒पाद् यज॑मान॒ᳶ प्रति॑ष्ठित्यै ।  
 </details>
 
@@ -460,18 +913,60 @@ title = "०१ आतिथ्येष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति [6] -  
-"अ॒ग्निश्च॒ वा ए॒तौ सोम॑श्च क॒था सोमा॑याति॒थ्यङ् क्रि॒यते॒ नाग्नय॒" इति॑ ।  
+</details>
 
-यद॒ग्नाव् अ॒ग्निम् म॑थि॒त्वा प्र॒हर॑ति॒ , तेनै॒वाग्नय॑ आति॒थ्यङ् क्रि॑यते ।  
-अथो॒ खल्वा॑हुर् -  "अ॒ग्निस् सर्वा॑ दे॒वता॒"इति॒  , यद्ध॒विर् आ॒साद्या॒ग्निम् मन्थ॑ति , ह॒व्यायै॒वास॑न्नाय॒ सर्वा॑ दे॒वता॑ जनयति ॥ [7]  
+<details><summary>Keith</summary>
+
+The theologians say [6],
 </details>
 
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति [6] -  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "अ॒ग्निश्च॒ वा ए॒तौ सोम॑श्च क॒था सोमा॑याति॒थ्यङ् क्रि॒यते॒ नाग्नय॒" इति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'There are both Agni and Soma here; why is hospitality offered to Soma and not to Agni?'
+</details>
+
+<details><summary>मूलम्</summary>
+
+"अ॒ग्निश्च॒ वा ए॒तौ सोम॑श्च क॒था सोमा॑याति॒थ्यङ् क्रि॒यते॒ नाग्नय॒" इति॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद॒ग्नाव् अ॒ग्निम् म॑थि॒त्वा प्र॒हर॑ति॒ , तेनै॒वाग्नय॑ आति॒थ्यङ् क्रि॑यते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+In that having kindled fire he places it on the fire, by that verily is hospitality offered to Agni.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद॒ग्नाव् अ॒ग्निम् म॑थि॒त्वा प्र॒हर॑ति॒ , तेनै॒वाग्नय॑ आति॒थ्यङ् क्रि॑यते ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथो॒ खल्वा॑हुर् -  "अ॒ग्निस् सर्वा॑ दे॒वता॒"इति॒  , यद्ध॒विर् आ॒साद्या॒ग्निम् मन्थ॑ति , ह॒व्यायै॒वास॑न्नाय॒ सर्वा॑ दे॒वता॑ जनयति ॥ [7]  
+</details>
+
+<details><summary>Keith</summary>
+
+Or rather they say, 'Agni is all the gods.' In that he kindles fire after placing the oblation, he thus produces all the gods for the oblation when it has been placed.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अथो॒ खल्वा॑हुर् -  "अ॒ग्निस् सर्वा॑ दे॒वता॒"इति॒  , यद्ध॒विर् आ॒साद्या॒ग्निम् मन्थ॑ति , ह॒व्यायै॒वास॑न्नाय॒ सर्वा॑ दे॒वता॑ जनयति ॥ [7]  
 </details>
 
@@ -484,7 +979,6 @@ title = "०१ आतिथ्येष्टिविधानम्"
 यत् । अ॒ग्नौ । अ॒ग्निम् । म॒थि॒त्वा । प्र॒हर॒तीति॑ प्र-हर॑ति । तेन॑ । ए॒व । अ॒ग्नये॑ । आ॒ति॒थ्यम् । क्रि॒य॒ते॒ ।  
 
 अथो॒ इति॑ । खलु॑ । आ॒हुः॒ । अ॒ग्निः । सर्वाः॑ । दे॒वताः॑ । इति॑ । यत् । ह॒विः । आ॒साद्येत्या॑-साद्य॑ । अ॒ग्निम् । मन्थ॑ति । ह॒व्याय॑ । ए॒व । आस॑न्ना॒येत्या-स॒न्ना॒य॒ । सर्वाः॑ । दे॒वताः॑ । ज॒न॒य॒ति॒ ॥ [7]   
-
 </details>
 
 

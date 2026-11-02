@@ -5,31 +5,85 @@ title = "१० सदो निर्माणम्"
 
 सोमऋषिः  
 
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व इत्यभ्रि॒मा द॑त्ते॒ प्रसू॑त्या अ॒श्विनो॑र्बा॒हुभ्या॒मित्या॑हा॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता॑म्पू॒ष्णो हस्ता॑भ्या॒मित्या॑ह॒ यत्यै॒ वज्र॑ इव॒ वा ए॒षा यदभ्रि॒रभ्रि॑रसि॒ नारि॑र॒सीत्या॑ह॒ शान्त्यै॒
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व इत्यभ्रि॒मा द॑त्ते॒ प्रसू॑त्यै ।  
-अ॒श्विनो॑र् बा॒हुभ्या॒मित्या॑ह ।  
-अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता॑म् ।  
-पू॒ष्णो हस्ता॑भ्या॒मित्या॑ह॒ , यत्यै॑ ।  
-वज्र॑ इव॒ वा ए॒षा यदभ्रि॒रभ्रि॑रसि॒ नारि॑र॒सीत्या॑ह॒ , शान्त्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+'On the impulse of the god Savitr', (with these words) he takes up the spade, for impelling.
 </details>
 
 <details><summary>मूलम्</summary>
 
 दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व इत्यभ्रि॒मा द॑त्ते॒ प्रसू॑त्यै ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒श्विनो॑र् बा॒हुभ्या॒मित्या॑ह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'With the arms of the Aśvins he says,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒श्विनो॑र् बा॒हुभ्या॒मित्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता॑म् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+for the Aśvins were the priests of the gods.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता॑म् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पू॒ष्णो हस्ता॑भ्या॒मित्या॑ह॒ , यत्यै॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'With the hands of Pusan', be for restraint.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पू॒ष्णो हस्ता॑भ्या॒मित्या॑ह॒ , यत्यै॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वज्र॑ इव॒ वा ए॒षा यदभ्रि॒रभ्रि॑रसि॒ नारि॑र॒सीत्या॑ह॒ , शान्त्यै॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Now the spade is as it were a bolt; 'Thou art the spade; thou art the, woman', he says, to appease it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वज्र॑ इव॒ वा ए॒षा यदभ्रि॒रभ्रि॑रसि॒ नारि॑र॒सीत्या॑ह॒ , शान्त्यै॑ ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -61,9 +115,59 @@ title = "१० सदो निर्माणम्"
 काण्डे॑काण्डे॒ वै क्रि॒यमा॑णे य॒ज्ञँ रक्षाँ॑सि जिघाँसन्ति॒
 </details>
 
+<details><summary>Keith</summary>
+
+Now, as each part is performed, the Raksases seek to injure the sacrifice;
+</details>
+
 <details><summary>मूलम्</summary>
 
 काण्डे॑काण्डे॒ वै क्रि॒यमा॑णे य॒ज्ञँ रक्षाँ॑सि जिघाँसन्ति॒
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परि॑लिखितँ॒ रक्ष॒ᳶ परि॑लिखिता॒ अरा॑तय॒ इत्या॑ह॒ रक्ष॑सा॒मप॑हत्यै ।[49]  
+</details>
+
+<details><summary>Keith</summary>
+
+'The Raksas is encompassed, the evil spirits are encompassed', he says, to smite away the Raksases [1].
+</details>
+
+<details><summary>मूलम्</summary>
+
+परि॑लिखितँ॒ रक्ष॒ᳶ परि॑लिखिता॒ अरा॑तय॒ इत्या॑ह॒ रक्ष॑सा॒मप॑हत्यै ।[49]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ॒दम॒हँ रक्ष॑सो ग्री॒वा अपि॑ कृन्तामि॒,  यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन् द्वि॒ष्म इत्या॑ह॒   
+</details>
+
+<details><summary>Keith</summary>
+
+'Here do I cut off the neck of the Raksas, who hateth us, and whom we hate', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒दम॒हँ रक्ष॑सो ग्री॒वा अपि॑ कृन्तामि॒,  यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन् द्वि॒ष्म इत्या॑ह॒   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वौ वाव पुरु॑षौ॒ यञ्चै॒व द्वेष्टि॒ यश्चै॑न॒न्द्वेष्टि॒ , तयो॑रे॒वान॑न्तरायङ्ग्री॒वाᳵ कृ॑न्तति ।
+</details>
+
+<details><summary>Keith</summary>
+
+there are two people, he whom he hates and he who hates him; verily straightway he cuts their necks.
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्वौ वाव पुरु॑षौ॒ यञ्चै॒व द्वेष्टि॒ यश्चै॑न॒न्द्वेष्टि॒ , तयो॑रे॒वान॑न्तरायङ्ग्री॒वाᳵ कृ॑न्तति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -91,16 +195,6 @@ title = "१० सदो निर्माणम्"
 पदपरिलेखनेन रक्षःप्रभृतेः परितो नाशितत्वात् एतद्वचनं रक्षसामपहत्यै भवति । पूर्ववद्गतेः प्रकृतिस्वरत्वम् ॥]
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-परि॑लिखितँ॒ रक्ष॒ᳶ परि॑लिखिता॒ अरा॑तय॒ इत्या॑ह॒ रक्ष॑सा॒मप॑हत्यै ।[49]  
-</details>
-
-<details><summary>मूलम्</summary>
-
-परि॑लिखितँ॒ रक्ष॒ᳶ परि॑लिखिता॒ अरा॑तय॒ इत्या॑ह॒ रक्ष॑सा॒मप॑हत्यै ।[49]  
-</details>
-
 <details><summary>पद-पाठः</summary>
 
 परि॑लिखित॒मिति॒ परि॑-लि॒खि॒त॒म् । रक्षः॑ । परि॑लिखिता॒ इति॒ परि॑-लि॒खि॒ताः॒ । अरा॑तयः । इति॑ । आ॒ह॒ । रक्ष॑साम् । अप॑हत्या॒ इत्यप॑-ह॒त्यै॒ । [49]  
@@ -109,18 +203,6 @@ title = "१० सदो निर्माणम्"
 <details><summary>भट्टभास्कर-टीका</summary>
 
 परिलिखितमित्यादि । रक्षसामपहत्यै भवति । पूर्ववद्गतेः प्रकतिस्वरत्वम् ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-इ॒दम॒हँ रक्ष॑सो ग्री॒वा अपि॑ कृन्तामि॒,  यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन् द्वि॒ष्म इत्या॑ह॒   
-द्वौ वाव पुरु॑षौ॒ यञ्चै॒व द्वेष्टि॒ यश्चै॑न॒न्द्वेष्टि॒ , तयो॑रे॒वान॑न्तरायङ्ग्री॒वाᳵ कृ॑न्तति ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-इ॒दम॒हँ रक्ष॑सो ग्री॒वा अपि॑ कृन्तामि॒,  यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन् द्वि॒ष्म इत्या॑ह॒   
-द्वौ वाव पुरु॑षौ॒ यञ्चै॒व द्वेष्टि॒ यश्चै॑न॒न्द्वेष्टि॒ , तयो॑रे॒वान॑न्तरायङ्ग्री॒वाᳵ कृ॑न्तति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,14 +240,45 @@ title = "१० सदो निर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि॒वे त्वा॒ , ऽन्तरि॑क्षाय त्वा , पृथि॒व्यै त्वेत्या॑ह - ए॒भ्य ए॒वैनाल्ँ॑ लो॒केभ्य॒ᳶ प्रोक्ष॑ति ।  
-प॒रस्ता॑द॒र्वाची॒म् प्रोक्ष॑ति ।  
-तस्मा॑त् प॒रस्ता॑द् अ॒र्वाची॑म् मनु॒ष्या॑ ऊर्ज॒मुप॑ जीवन्ति ।[50]
+</details>
+
+<details><summary>Keith</summary>
+
+'To sky thee, to atmosphere thee, to earth thee!' he says; verily he anoints it for these worlds.
 </details>
 
 <details><summary>मूलम्</summary>
 
 दि॒वे त्वा॒ , ऽन्तरि॑क्षाय त्वा , पृथि॒व्यै त्वेत्या॑ह - ए॒भ्य ए॒वैनाल्ँ॑ लो॒केभ्य॒ᳶ प्रोक्ष॑ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प॒रस्ता॑द॒र्वाची॒म् प्रोक्ष॑ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He anoints from the top downwards;
+</details>
+
+<details><summary>मूलम्</summary>
+
+प॒रस्ता॑द॒र्वाची॒म् प्रोक्ष॑ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॑त् प॒रस्ता॑द् अ॒र्वाची॑म् मनु॒ष्या॑ ऊर्ज॒मुप॑ जीवन्ति ।[50]
+</details>
+
+<details><summary>Keith</summary>
+
+therefore [2] men live on strength from the top downwards.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॑त् प॒रस्ता॑द् अ॒र्वाची॑म् मनु॒ष्या॑ ऊर्ज॒मुप॑ जीवन्ति ।[50]
 </details>
 
@@ -189,13 +302,29 @@ title = "१० सदो निर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रू॒रमि॑व॒ वा ए॒तत् क॑रोति॒ , यत् खन॑त्य॒पोऽव॑ नयति॒ , शान्त्यै॑ ।  
+</details>
 
-यव॑मती॒रव॑ नय॒त्यूर्ग्वै यव॒ ऊर्गु॑दु॒म्बर॑ ऊ॒र्जैवोर्जँ॒ सम॑र्धयति ।  
+<details><summary>Keith</summary>
+
+Now he does a cruel deed in that he digs; he pours down water, for atonement.
 </details>
 
 <details><summary>मूलम्</summary>
 
 क्रू॒रमि॑व॒ वा ए॒तत् क॑रोति॒ , यत् खन॑त्य॒पोऽव॑ नयति॒ , शान्त्यै॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यव॑मती॒रव॑ नय॒त्यूर्ग्वै यव॒ ऊर्गु॑दु॒म्बर॑ ऊ॒र्जैवोर्जँ॒ सम॑र्धयति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He pours down (water) mixed with barley; barley is strength, the Udumbara is strength; verily he unites strength with strength.
+</details>
+
+<details><summary>मूलम्</summary>
 
 यव॑मती॒रव॑ नय॒त्यूर्ग्वै यव॒ ऊर्गु॑दु॒म्बर॑ ऊ॒र्जैवोर्जँ॒ सम॑र्धयति ।  
 </details>
@@ -205,7 +334,6 @@ title = "१० सदो निर्माणम्"
 क्रू॒रम् । इ॒व॒ । वै । ए॒तत् । क॒रो॒ति॒ । यत् । खन॑ति । अ॒पः । अवेति॑ । न॒य॒ति॒ । शान्त्यै॑ ।
 
 यव॑मती॒रिति॒ यव॑-म॒तीः॒ । अवेति॑ । न॒य॒ति॒ । ऊर्क् । वै । यवः॑ । ऊर्क् । उ॒दु॒म्बरः॑ । ऊ॒र्जा । ए॒व । ऊर्ज॑म् । समिति॑ । अ॒र्ध॒य॒ति॒ ।   
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -222,12 +350,30 @@ title = "१० सदो निर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज॑मानेन॒ सम्मि॒तौदु॑म्बरी भवति ।  
-यावा॑ने॒व यज॑मान॒स् ताव॑तीम् ए॒वास्मि॒न्न् ऊर्ज॑न्दधाति ।
+</details>
+
+<details><summary>Keith</summary>
+
+(The post) is of Udumbara wood of the height of the sacrificer.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यज॑मानेन॒ सम्मि॒तौदु॑म्बरी भवति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यावा॑ने॒व यज॑मान॒स् ताव॑तीम् ए॒वास्मि॒न्न् ऊर्ज॑न्दधाति ।
+</details>
+
+<details><summary>Keith</summary>
+
+As great as is the sacrificer, so much strength does he put in it.
+</details>
+
+<details><summary>मूलम्</summary>
+
 यावा॑ने॒व यज॑मान॒स् ताव॑तीम् ए॒वास्मि॒न्न् ऊर्ज॑न्दधाति ।
 </details>
 
@@ -250,18 +396,75 @@ title = "१० सदो निर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पि॒तृ॒णाँ सद॑नम॒सीति॑ ब॒र्हिरव॑ स्तृणाति , पितृदेव॒त्यँ॑ ह्ये॑तद् यन् निखा॑तम् ।[51]  
-यद् ब॒र्हिरन॑वस्तीर्य मिनु॒यात् ,
-पि॑तृदेव॒त्या॑ निखा॑ता स्यात् ।  
-ब॒र्हिर॑व॒स्तीर्य॑ मिनोत्य् अ॒स्यामे॒वैना॑म् मिनो॒ति ।  
-अथो॑ स्वा॒रुह॑म् ए॒वैना॑ङ् करो॒ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art the seat of the Pitrs', (with these words) he spreads the strew, for what is dug in has the Pitrs for its deity [3].
 </details>
 
 <details><summary>मूलम्</summary>
 
 पि॒तृ॒णाँ सद॑नम॒सीति॑ ब॒र्हिरव॑ स्तृणाति , पितृदेव॒त्यँ॑ ह्ये॑तद् यन् निखा॑तम् ।[51]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यद् ब॒र्हिरन॑वस्तीर्य मिनु॒यात् ,
+</details>
+
+<details><summary>Keith</summary>
+
+If he were to set it up without strewing, it would be dug in and have the Pitrs for its deity;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद् ब॒र्हिरन॑वस्तीर्य मिनु॒यात् ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पि॑तृदेव॒त्या॑ निखा॑ता स्यात् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he sets it up after strewing;
+</details>
+
+<details><summary>मूलम्</summary>
+
+पि॑तृदेव॒त्या॑ निखा॑ता स्यात् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ब॒र्हिर॑व॒स्तीर्य॑ मिनोत्य् अ॒स्यामे॒वैना॑म् मिनो॒ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he sets it up in this (earth),
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब॒र्हिर॑व॒स्तीर्य॑ मिनोत्य् अ॒स्यामे॒वैना॑म् मिनो॒ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथो॑ स्वा॒रुह॑म् ए॒वैना॑ङ् करो॒ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+and makes it firm-rooted.'
+</details>
+
+<details><summary>मूलम्</summary>
+
 अथो॑ स्वा॒रुह॑म् ए॒वैना॑ङ् करो॒ति ।  
 </details>
 
@@ -293,6 +496,11 @@ title = "१० सदो निर्माणम्"
 उद्दिवँ॑ स्तभा॒नान्तरि॑क्षम् पृ॒णेत्या॑ह । ए॒षाल्ँ लो॒कानाव्ँ॒ विधृ॑त्यै ।
 </details>
 
+<details><summary>Keith</summary>
+
+'Support the sky, fill the atmosphere', he says, for the distinction of these worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उद्दिवँ॑ स्तभा॒नान्तरि॑क्षम् पृ॒णेत्या॑ह । ए॒षाल्ँ लो॒कानाव्ँ॒ विधृ॑त्यै ।
@@ -319,12 +527,30 @@ title = "१० सदो निर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्यु॒ता॒नस् त्वा॑ मारु॒तो मि॑नो॒त्वित्या॑ह ।
-द्यु॒ता॒नो ह॑ स्म॒ वै मा॑रु॒तो दे॒वाना॒म् - औदु॑म्बरीम् मिनोति । तेन + ए॒वैना॑म् मिनोति । [52]  
+</details>
+
+<details><summary>Keith</summary>
+
+'May Dyutana Maruta set thee up', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 द्यु॒ता॒नस् त्वा॑ मारु॒तो मि॑नो॒त्वित्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्यु॒ता॒नो ह॑ स्म॒ वै मा॑रु॒तो दे॒वाना॒म् - औदु॑म्बरीम् मिनोति । तेन + ए॒वैना॑म् मिनोति । [52]  
+</details>
+
+<details><summary>Keith</summary>
+
+Dyutana Maruta was wont to set up the Udumbara (post) of the gods; verily [4] by him he sets this (post) up.
+</details>
+
+<details><summary>मूलम्</summary>
+
 द्यु॒ता॒नो ह॑ स्म॒ वै मा॑रु॒तो दे॒वाना॒म् - औदु॑म्बरीम् मिनोति । तेन + ए॒वैना॑म् मिनोति । [52]  
 </details>
 
@@ -349,12 +575,30 @@ title = "१० सदो निर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र॒ह्म॒वनि॑न् त्वा क्षत्र॒वनि॒मित्या॑ह , यथाय॒जुर् ए॒वैतत् ।  
-घृ॒तेन॑ द्यावापृथिवी॒ आ पृ॑णेथा॒मित्यौदु॑म्बर्याञ् जुहोति॒ , द्यावा॑पृथि॒वी ए॒व रसे॑नानक्ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thee that art winner of Brahmans, winner of nobles', he says; that is according to the text.
 </details>
 
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒वनि॑न् त्वा क्षत्र॒वनि॒मित्या॑ह , यथाय॒जुर् ए॒वैतत् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+घृ॒तेन॑ द्यावापृथिवी॒ आ पृ॑णेथा॒मित्यौदु॑म्बर्याञ् जुहोति॒ , द्यावा॑पृथि॒वी ए॒व रसे॑नानक्ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'With ghee, O sky and earth, be filled', (with these words) he sacrifices on the Udumbara (post); verily with moisture he anoints sky and earth.
+</details>
+
+<details><summary>मूलम्</summary>
+
 घृ॒तेन॑ द्यावापृथिवी॒ आ पृ॑णेथा॒मित्यौदु॑म्बर्याञ् जुहोति॒ , द्यावा॑पृथि॒वी ए॒व रसे॑नानक्ति ।  
 </details>
 
@@ -378,6 +622,11 @@ title = "१० सदो निर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒न्तम् अ॒न्वव॑स्रावयत्य् - आ॒न्तमे॒व यज॑मान॒न् तेज॑सा ऽनक्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He makes it run right to the end; verily completely does he anoint the sacrificer with brilliance.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -405,6 +654,11 @@ title = "१० सदो निर्माणम्"
 ऐ॒न्द्रम् अ॒सीति॑ छ॒दिरधि॒ नि द॑धात्य् , ऐ॒न्द्रँ हि दे॒वत॑या॒ सदः॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+'Thou art of Indra', (with these words) he puts down the covering, for the seat has Indra as its deity.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रम् अ॒सीति॑ छ॒दिरधि॒ नि द॑धात्य् , ऐ॒न्द्रँ हि दे॒वत॑या॒ सदः॑ ।  
@@ -428,12 +682,30 @@ title = "१० सदो निर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि॒श्व॒ज॒नस्य॑ छा॒येत्या॑ह ।
-वि॒श्व॒ज॒नस्य॒ ह्ये॑षा छा॒या यत् सदः॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'The shade of all folk', he says,
 </details>
 
 <details><summary>मूलम्</summary>
 
 वि॒श्व॒ज॒नस्य॑ छा॒येत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वि॒श्व॒ज॒नस्य॒ ह्ये॑षा छा॒या यत् सदः॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+for the seat is the shade of all folk.
+</details>
+
+<details><summary>मूलम्</summary>
+
 वि॒श्व॒ज॒नस्य॒ ह्ये॑षा छा॒या यत् सदः॑ ।  
 </details>
 
@@ -460,6 +732,11 @@ title = "१० सदो निर्माणम्"
 नव॑छदि तेज॑स्कामस्य मिनुयात् त्रि॒वृता॒ स्तोमे॑न॒ सम्मि॑त॒न् तेज॑स्त्रि॒वृत् ते॑ज॒स्व्ये॑व भ॑व॒ति ।[53]  
 </details>
 
+<details><summary>Keith</summary>
+
+(A roof of) nine coverings [5] should he fix for one who desires brilliance, commensurate with the Trivrt Stoma; the Trivrt is brilliance; verily he becomes brilliant;
+</details>
+
 <details><summary>मूलम्</summary>
 
 नव॑छदि तेज॑स्कामस्य मिनुयात् त्रि॒वृता॒ स्तोमे॑न॒ सम्मि॑त॒न् तेज॑स्त्रि॒वृत् ते॑ज॒स्व्ये॑व भ॑व॒ति ।[53]  
@@ -469,7 +746,6 @@ title = "१० सदो निर्माणम्"
 
 नव॑छ॒दीति॒ नव॑-छ॒दि॒ । [53]  
 तेज॑स्काम॒स्येति॒ तेजः॑-का॒म॒स्य॒ । मि॒नु॒या॒त् । त्रि॒वृतेति॑ त्रि-वृता॑ । स्तोमे॑न । सम्मि॑त॒मिति॒ सम्-मि॒त॒म् । तेजः॑ । त्रि॒वृदिति॑ त्रि-वृत् । ते॒ज॒स्वी । ए॒व । भ॒व॒ति॒ ।  
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -486,17 +762,32 @@ title = "१० सदो निर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एका॑दशछदीन्द्रि॒यका॑मस्य ।  
+</details>
 
-एका॑दशाक्षरा त्रि॒ष्टुग् , इ॑न्द्रि॒यन् त्रि॒ष्टुग् , इ॑न्द्रिया॒व्ये॑व भ॑वति ।  
+<details><summary>Keith</summary>
+
+one of eleven coverings (he should fix) for one who desires power;
 </details>
 
 <details><summary>मूलम्</summary>
 
 एका॑दशछदीन्द्रि॒यका॑मस्य ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एका॑दशाक्षरा त्रि॒ष्टुग् , इ॑न्द्रि॒यन् त्रि॒ष्टुग् , इ॑न्द्रिया॒व्ये॑व भ॑वति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Tristubh has eleven syllables, the Tristubh is power; verily he becomes powerful.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एका॑दशाक्षरा त्रि॒ष्टुग् , इ॑न्द्रि॒यन् त्रि॒ष्टुग् , इ॑न्द्रिया॒व्ये॑व भ॑वति ।  
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -517,6 +808,11 @@ title = "१० सदो निर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च॑दशछदि॒ भ्रातृ॑व्यवतᳶ , पञ्चद॒शो वज्रो॒ भ्रातृ॑व्याभिभूत्यै।  
+</details>
+
+<details><summary>Keith</summary>
+
+(A roof of) fifteen coverings (he should fix) for one who has foes; the thunderbolt is fifteenfold; (verily it serves) for the overcoming of foes.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -544,6 +840,11 @@ title = "१० सदो निर्माणम्"
 स॒प्तद॑शछदि प्र॒जाका॑मस्य , सप्तद॒शᳶ प्र॒जाप॑तिᳶ , प्र॒जाप॑ते॒राप्त्यै॑ ।   
 </details>
 
+<details><summary>Keith</summary>
+
+(A roof of) seventeen coverings (he should fix) for one who desires offspring- Prajapati is sixteenfold. (verily it serves) to gain Prajapati.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒प्तद॑शछदि प्र॒जाका॑मस्य , सप्तद॒शᳶ प्र॒जाप॑तिᳶ , प्र॒जाप॑ते॒राप्त्यै॑ ।   
@@ -567,6 +868,11 @@ title = "१० सदो निर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एक॑विँशतिछदि प्रति॒ष्ठाका॑मस्य + ए॒क॒विँ॒शस् स्तोमा॑नाम् प्रति॒ष्ठा , प्रति॑ष्ठित्यै ।  
+</details>
+
+<details><summary>Keith</summary>
+
+(A roof of) twenty-one coverings (he should fix) for one who desires support; the Ekavinśa is the support of the Stomas; (verily it serves) for support.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -593,7 +899,45 @@ title = "१० सदो निर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒दरव्ँ॒ वै सद॒ ऊर्गु॑दु॒म्बरो॑ मध्य॒त औदु॑म्बरीम् मिनोति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The Sadas is the stomach, the Udumbara is strength, in the middle he fixes (the post) of Udumbara wood;
+</details>
+
+<details><summary>मूलम्</summary>
+
+उ॒दरव्ँ॒ वै सद॒ ऊर्गु॑दु॒म्बरो॑ मध्य॒त औदु॑म्बरीम् मिनोति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 म॒ध्य॒त॒ ए॒व प्र॒जाना॒मूर्ज॑न् दधाति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he places strength in the midst of offspring;
+</details>
+
+<details><summary>मूलम्</summary>
+
+म॒ध्य॒त॒ ए॒व प्र॒जाना॒मूर्ज॑न् दधाति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॑न् मध्य॒त ऊ॒र्जा भु॑ञ्जते ।[54]
+</details>
+
+<details><summary>Keith</summary>
+
+therefore [6] in the middle they enjoy strength.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॑न् मध्य॒त ऊ॒र्जा भु॑ञ्जते ।[54]
 </details>
 
@@ -603,13 +947,6 @@ title = "१० सदो निर्माणम्"
 म॒ध्य॒तः । ए॒व । प्र॒जाना॒मिति॑ प्र-जाना॑म् । ऊर्ज॑म् । द॒धा॒ति॒ । 
 
 तस्मा॑त् । [54] म॒ध्य॒तः । ऊ॒र्जा । भु॒ञ्ज॒ते॒ ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
-उ॒दरव्ँ॒ वै सद॒ ऊर्गु॑दु॒म्बरो॑ मध्य॒त औदु॑म्बरीम् मिनोति ।  
-म॒ध्य॒त॒ ए॒व प्र॒जाना॒मूर्ज॑न् दधाति ।  
-तस्मा॑न् मध्य॒त ऊ॒र्जा भु॑ञ्जते ।[54]
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -625,14 +962,45 @@ title = "१० सदो निर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य॒ज॒मा॒न॒लो॒के वै दक्षि॑णानि छ॒दीँषि॑ भ्रातृव्यलो॒क उत्त॑राणि॒ दक्षि॑णा॒न्युत्त॑राणि करोति ।  
-यज॑मानमे॒वाय॑जमाना॒द् उत्त॑रङ् करोति॒ ।  
-तस्मा॒द् यज॑मा॒नोऽय॑जमाना॒दुत्त॑रः ।
+</details>
+
+<details><summary>Keith</summary>
+
+In the world of the sacrificer are the southern coverings, in that of his foe are the northern; he makes the southern the higher;
 </details>
 
 <details><summary>मूलम्</summary>
 
 य॒ज॒मा॒न॒लो॒के वै दक्षि॑णानि छ॒दीँषि॑ भ्रातृव्यलो॒क उत्त॑राणि॒ दक्षि॑णा॒न्युत्त॑राणि करोति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यज॑मानमे॒वाय॑जमाना॒द् उत्त॑रङ् करोति॒ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he makes the sacrificer higher than the man who does not sacrifice;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यज॑मानमे॒वाय॑जमाना॒द् उत्त॑रङ् करोति॒ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॒द् यज॑मा॒नोऽय॑जमाना॒दुत्त॑रः ।
+</details>
+
+<details><summary>Keith</summary>
+
+therefore the sacrificer is higher than the man who does not sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॒द् यज॑मा॒नोऽय॑जमाना॒दुत्त॑रः ।
 </details>
 
@@ -658,12 +1026,30 @@ title = "१० सदो निर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒न्त॒र्व॒र्तान् क॑रोति॒ व्यावृ॑त्त्यै ।  
-तस्मा॒दर॑ण्यम् प्र॒जा उप॑ जीवन्ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He fills up the crevices, for distinction;
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒न्त॒र्व॒र्तान् क॑रोति॒ व्यावृ॑त्त्यै ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॒दर॑ण्यम् प्र॒जा उप॑ जीवन्ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+therefore people depend on the forest.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॒दर॑ण्यम् प्र॒जा उप॑ जीवन्ति ।  
 </details>
 
@@ -686,6 +1072,11 @@ title = "१० सदो निर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "परि॑ त्वा गिर्वणो॒ गिर॒" इत्या॑ह । य॒था॒य॒जुर् ए॒वैतत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+'May our songs, O lover of song', he says; that is according to the text.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -711,12 +1102,30 @@ title = "१० सदो निर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्र॑स्य॒ स्यूर॒सीन्द्र॑स्य ध्रु॒वम॒सीत्या॑ह , ऐ॒न्द्रँ हि दे॒वत॑या॒ सदः ।  
-यम् प्र॑थ॒मङ् ग्र॒न्थिङ् ग्र॑थ्नी॒याद् यत् तन्न वि॑स्रँ॒सये॒दमे॑हेनाध्व॒र्युᳶ प्र मी॑येत॒ तस्मा॒त् स वि॒स्रस्यः॑ ॥ [55]  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art the string of Indra;. thou art the fixed point of Indra', he says; for the Sadas has Indra for its deity.
 </details>
 
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्य॒ स्यूर॒सीन्द्र॑स्य ध्रु॒वम॒सीत्या॑ह , ऐ॒न्द्रँ हि दे॒वत॑या॒ सदः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यम् प्र॑थ॒मङ् ग्र॒न्थिङ् ग्र॑थ्नी॒याद् यत् तन्न वि॑स्रँ॒सये॒दमे॑हेनाध्व॒र्युᳶ प्र मी॑येत॒ तस्मा॒त् स वि॒स्रस्यः॑ ॥ [55]  
+</details>
+
+<details><summary>Keith</summary>
+
+Now the knot which he first ties, if he were not to unloose it, the Adhvaryu would perish through suppression of urine; therefore it must be unloosed.
+</details>
+
+<details><summary>मूलम्</summary>
+
 यम् प्र॑थ॒मङ् ग्र॒न्थिङ् ग्र॑थ्नी॒याद् यत् तन्न वि॑स्रँ॒सये॒दमे॑हेनाध्व॒र्युᳶ प्र मी॑येत॒ तस्मा॒त् स वि॒स्रस्यः॑ ॥ [55]  
 </details>
 
@@ -725,7 +1134,6 @@ title = "१० सदो निर्माणम्"
 इन्द्र॑स्य । स्यूः । अ॒सि॒ । इन्द्र॑स्य । ध्रु॒वम् । अ॒सि॒ । इति॑ । आ॒ह॒ । ऐ॒न्द्रम् । हि । दे॒वत॑या । सदः॑ ।   
 
 यम् । प्र॒थ॒मम् । ग्र॒न्थिम् । ग्र॒थ्नी॒यात् । यत् । तम् । न । वि॒स्रँ॒सये॒दिति॑ वि-स्रँ॒सये॑त् । अमे॑हेन । अ॒ध्व॒र्युः । प्रेति॑ । मी॒ये॒त॒ । तस्मा॑त् । सः । वि॒स्रस्य॒ इति॑ वि-स्रस्यः॑ ॥ [55]  
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

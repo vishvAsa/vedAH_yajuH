@@ -12,15 +12,32 @@ title = "०४ सौमिक्या वेद्यभिधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु॒व॒र्गव्ँ वा ए॒ते लो॒कय्ँ य॑न्ति॒ ,य उ॑प॒सद॑ उप॒यन्ति॑ ।  
-तेषाय्ँ॒ य उ॒न्नय॑ते॒ , हीय॑त ए॒व सः ।
+</details>
+
+<details><summary>Keith</summary>
+
+They go to the world of heaven who perform the Upasads.
 </details>
 
 <details><summary>मूलम्</summary>
 
 सु॒व॒र्गव्ँ वा ए॒ते लो॒कय्ँ य॑न्ति॒ ,य उ॑प॒सद॑ उप॒यन्ति॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तेषाय्ँ॒ य उ॒न्नय॑ते॒ , हीय॑त ए॒व सः ।
 </details>
 
+<details><summary>Keith</summary>
+
+Of them he who takes out (a little food) is left behind;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेषाय्ँ॒ य उ॒न्नय॑ते॒ , हीय॑त ए॒व सः ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -42,6 +59,11 @@ title = "०४ सौमिक्या वेद्यभिधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नोद॑ने॒षीति॒ सू॑न्नीयमिव ।
+</details>
+
+<details><summary>Keith</summary>
+
+one must take out carefully, (thinking) 'I have not taken out anything.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -69,6 +91,11 @@ title = "०४ सौमिक्या वेद्यभिधानम्"
 यो वै स्वा॒र्थेता॑य् यँ॒ताँ श्रा॒न्तो हीय॑त , उ॒त स नि॒ष्ट्याय॑ स॒ह व॑सति ।
 </details>
 
+<details><summary>Keith</summary>
+
+He who is left behind wearied among those who go on their own mission sticks behind and lives at (home).
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो वै स्वा॒र्थेता॑य् यँ॒ताँ श्रा॒न्तो हीय॑त , उ॒त स नि॒ष्ट्याय॑ स॒ह व॑सति ।
@@ -92,16 +119,60 @@ title = "०४ सौमिक्या वेद्यभिधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॑त् स॒कृद् उ॒न्नीय॒ नाप॑र॒म् उन्न॑येत ।  
-द॒ध्नोन्न॑येत ।
-ए॒तद्वै प॑शू॒नाँ रू॒पम् ।
-रू॒पेणै॒व प॒शूनव॑ रुन्धे ।[20]  
+</details>
+
+<details><summary>Keith</summary>
+
+Therefore after once taking out, one should not take out a second time.
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्मा॑त् स॒कृद् उ॒न्नीय॒ नाप॑र॒म् उन्न॑येत ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 द॒ध्नोन्न॑येत ।
+</details>
+
+<details><summary>Keith</summary>
+
+One should take out of curd,
+</details>
+
+<details><summary>मूलम्</summary>
+
+द॒ध्नोन्न॑येत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ए॒तद्वै प॑शू॒नाँ रू॒पम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+that is the symbol of cattle;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒तद्वै प॑शू॒नाँ रू॒पम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रू॒पेणै॒व प॒शूनव॑ रुन्धे ।[20]  
+</details>
+
+<details><summary>Keith</summary>
+
+verily by the symbol he wins cattle [1].
+</details>
+
+<details><summary>मूलम्</summary>
+
 रू॒पेणै॒व प॒शूनव॑ रुन्धे ।[20]  
 </details>
 
@@ -123,23 +194,28 @@ title = "०४ सौमिक्या वेद्यभिधानम्"
 य॒ज्ञो दे॒वेभ्यो॒ निला॑यत॒ विष्णू॑ रू॒पङ्कृ॒त्वा स पृ॑थि॒वीम्प्रावि॑श॒त्तन्दे॒वा हस्ता॑न्त्सँ॒रभ्यै॑च्छ॒न्तमिन्द्र॑ उ॒पर्यु॑प॒र्यत्य॑क्राम॒त्
 </details>
 
-## सौमिकी
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य॒ज्ञो दे॒वेभ्यो॒ निला॑यत॒ विष्णू॑ रू॒पङ् कृ॒त्वा।
+स पृ॑थि॒वीम् प्रावि॑शत् ।  
+तन् दे॒वा हस्ता॑न्त् सँ॒रभ्यै॑च्छन् ।
+तम् इन्द्र॑ उ॒पर्य् उ॑प॒र्य् अत्य॑क्रामत् ।
 </details>
 
 <details><summary>Keith</summary>
 
-The sacrifice went away from the gods in the form of Visnu, 
+...
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 य॒ज्ञो दे॒वेभ्यो॒ निला॑यत॒ विष्णू॑ रू॒पङ् कृ॒त्वा।  
+स पृ॑थि॒वीम् प्रावि॑शत् ।  
+तन् दे॒वा हस्ता॑न्त् सँ॒रभ्यै॑च्छन् ।
+तमिन्द्र॑ उ॒पर्य् उ॑प॒र्य् अत्य॑क्रामत् ।
 </details>
 
+## सौमिकी
 <details><summary>पद-पाठः</summary>
 
 य॒ज्ञः । दे॒वेभ्यः॑ । निला॑यत । विष्णुः॑ । रू॒पम् । कृ॒त्वा ।
@@ -151,43 +227,11 @@ The sacrifice went away from the gods in the form of Visnu,
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-स पृ॑थि॒वीम् प्रावि॑शत् ।  
-</details>
-
-<details><summary>Keith</summary>
-
- and entered the earth.
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-स पृ॑थि॒वीम् प्रावि॑शत् ।  
-</details>
-
 <details><summary>पद-पाठः</summary>
 
 सः । पृ॒थि॒वीम् । प्रेति॑ । अ॒वि॒श॒त् ।   
 </details>
 
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तन् दे॒वा हस्ता॑न्त् सँ॒रभ्यै॑च्छन् ।
-</details>
-
-<details><summary>Keith</summary>
-
-The gods sought him grasping hands. 
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-तन् दे॒वा हस्ता॑न्त् सँ॒रभ्यै॑च्छन् ।
-</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -198,24 +242,6 @@ The gods sought him grasping hands.
 
 ततस्स पृथिवीं प्राविशत् । तं यज्ञं देवाः इन्द्रादयः हस्तान् संरभ्य अन्योन्यस्य गृहीत्वा वेष्टित्वा तमैच्छन् । यद्वा - हस्तान् संरभ्य संसृष्टान् वितत्य तं ग्रहीतुमैच्छन् । 
 </details>
-
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तम् इन्द्र॑ उ॒पर्य् उ॑प॒र्य् अत्य॑क्रामत् ।
-</details>
-
-<details><summary>Keith</summary>
-
-Indra passed over him. 
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-तमिन्द्र॑ उ॒पर्य् उ॑प॒र्य् अत्य॑क्रामत् ।
-</details>
-
 
 
 <details><summary>पद-पाठः</summary>
@@ -241,22 +267,149 @@ Indra passed over him.
 </details>
 
 <details><summary>Keith</summary>
-
-He said, 'Who has passed over me?' 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 सो॑ऽब्रवी॒त् ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒हन् दु॒र्गे हन्तेत्यथ॒ कस्त्वमिति॑।  
+</details>
+
+<details><summary>Keith</summary>
+</details>
+
+<details><summary>मूलम्</summary>
+
 को मा॒यमु॒पर्यु॑प॒र्यत्य॑क्रमी॒दिति॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒हन् दु॒र्गादाह॒र्तेति॑ ।
+सो॑ऽब्रवीद् 
+</details>
+
+<details><summary>Keith</summary>
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒हन् दु॒र्गे हन्तेत्यथ॒ कस्त्वमिति॑।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> दु॒र्गे वै हन्ता॑ ऽवोचथा,  
+> वरा॒हो॑ऽयव्ँ वा॑ममो॒षस् [21]  
+</details>
+
+<details><summary>Keith</summary>
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒हन् दु॒र्गादाह॒र्तेति॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॑प्ता॒नाङ् गि॑री॒णाम् प॒रस्ता॑द् वि॒त्तव्ँ वेद्य॒म् असु॑राणाम् बिभर्ति॒ ,  
+</details>
+
+<details><summary>Keith</summary>
+</details>
+
+<details><summary>मूलम्</summary>
+
+सो॑ऽब्रवीद् दु॒र्गे वै हन्ता॑ ऽवोचथा वरा॒हो॑ऽयव्ँ वा॑ममो॒षस् [21]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तञ् ज॑हि॒ यदि॑ दु॒र्गे हन्तासीति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॑प्ता॒नाङ् गि॑री॒णाम् प॒रस्ता॑द् वि॒त्तव्ँ वेद्य॒मसु॑राणाम् बिभर्ति॒ ,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स द॑र्भपुञ्जी॒लम् उ॒द्वृह्य॑ स॒प्त गि॒रीन् भि॒त्त्वा तम॑हन् ।  
+</details>
+
+<details><summary>Keith</summary>
+</details>
+
+<details><summary>मूलम्</summary>
+
+तञ् ज॑हि॒ यदि॑ दु॒र्गे हन्तासीति॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सो॑ ऽब्रवीद् दु॒र्गाद् वा आह॑र्ता ऽवोचथा ए॒तम् +++(हतं यज्ञवराहं)+++ आ ह॒रेति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+</details>
+
+<details><summary>मूलम्</summary>
+
+स द॑र्भपुञ्जी॒लम् उ॒द्वृह्य॑ स॒प्त गि॒रीन् भि॒त्त्वा तम॑हन् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तमे॑भ्यो य॒ज्ञ ए॒व य॒ज्ञमाह॑रत् ।  
+</details>
+
+<details><summary>Keith</summary>
+</details>
+
+<details><summary>मूलम्</summary>
+
+सो॑ ऽब्रवीद् दु॒र्गाद् वा आह॑र्ता ऽवोचथा ए॒तमा ह॒रेति॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् तद् वि॒त्तव्ँ वेद्य॒म् असु॑राणा॒म् अवि॑न्दन्त॒  
+</details>
+
+<details><summary>Keith</summary>
+</details>
+
+<details><summary>मूलम्</summary>
+
+तमे॑भ्यो य॒ज्ञ ए॒व य॒ज्ञमाह॑रत् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् एकव्ँ॒ वेद्यै॑ वेदि॒त्वम् ।
+</details>
+
+<details><summary>Keith</summary>
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्तद्वि॒त्तव्ँ वेद्य॒मसु॑राणा॒मवि॑न्दन्त॒ तदेकव्ँ॒ वेद्यै॑ वेदि॒त्वम् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
 सः । अ॒ब्र॒वी॒त् ।  
 कः । मा॒ । अ॒यम् । उ॒पर्यु॑प॒रीत्यु॒परि॑-उ॒प॒रि॒ । अतीति॑ । अ॒क्र॒मी॒त् । इति॑ ।   
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -265,26 +418,9 @@ He said, 'Who has passed over me?'
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अ॒हन् दु॒र्गे हन्तेत्यथ॒ कस्त्वमिति॑।  
-</details>
-
-<details><summary>Keith</summary>
-
-'I am he who smites in the stronghold; who art thou?'
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-अ॒हन् दु॒र्गे हन्तेत्यथ॒ कस्त्वमिति॑।  
-</details>
-
 <details><summary>पद-पाठः</summary>
 
 अ॒हम् । दु॒र्ग इति॑ दुः-गे । हन्ता॑ । इति॑ । अथ॑ । कः । त्वम् । इति॑ ।   
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -292,21 +428,6 @@ He said, 'Who has passed over me?'
 अथोचे - अहं दुर्गे हन्ता यत्रान्येन केन चिद्गन्तुं न शक्यते तत्रागन्तुं तत्र न्यञ्चं गन्तुं शक्तोहं कश्चिदिति । 'सुदुरोरधिकरणे' इति डः । हन्तेस्साधुकारिणि तृन् । एवमुक्त्वा इन्द्र एव पुनरूचे - अथ कस्त्वमिति । 
 </details>
 
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अ॒हन् दु॒र्गादाह॒र्तेति॑ ।
-</details>
-
-<details><summary>Keith</summary>
-
-'I am he who brings from the stronghold.' 
-</details>
-
-<details><summary>मूलम्</summary>
-
-अ॒हन् दु॒र्गादाह॒र्तेति॑ ।
-</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -319,59 +440,11 @@ He said, 'Who has passed over me?'
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-सो॑ऽब्रवीद् 
-
-> दु॒र्गे वै हन्ता॑ ऽवोचथा,  
-> वरा॒हो॑ऽयव्ँ वा॑ममो॒षस् [21]  
-स॑प्ता॒नाङ् गि॑री॒णाम् प॒रस्ता॑द् वि॒त्तव्ँ वेद्य॒म् असु॑राणाम् बिभर्ति॒ ,  
-तञ् ज॑हि॒ यदि॑ दु॒र्गे हन्तासीति॑ ।  
-</details>
-
-<details><summary>Keith</summary>
-
-He said, 
-
-> 'Thou art called he who smites in the stronghold.  
-Now a boar, stealer of the good, [2] keeps the wealth of the Asuras which is to be won beyond the seven hills. Him smite, if thou art he who smites in the stronghold.' 
-</details>
-
-<details><summary>मूलम्</summary>
-
-सो॑ऽब्रवीद् दु॒र्गे वै हन्ता॑ ऽवोचथा वरा॒हो॑ऽयव्ँ वा॑ममो॒षस् [21]  
-स॑प्ता॒नाङ् गि॑री॒णाम् प॒रस्ता॑द् वि॒त्तव्ँ वेद्य॒मसु॑राणाम् बिभर्ति॒ ,  
-तञ् ज॑हि॒ यदि॑ दु॒र्गे हन्तासीति॑ ।  
-</details>
-
-<details><summary>Keith</summary>
-
-सः । अ॒ब्र॒वी॒त् ।   
-दु॒र्ग इति॑ दुः-गे । वै । हन्ता॑ । अ॒वो॒च॒थाः॒ । व॒रा॒हः । अ॒यम् । वा॒म॒मो॒ष इति॑ वाम-मो॒षः । [21]   
-स॒प्ता॒नाम् । गि॒री॒णाम् । प॒रस्ता॑त् । वि॒त्तम् । वेद्य॑म् । असु॑राणाम् । बि॒भ॒र्ति॒ । तम् । ज॒हि॒ । यदि॑ । दु॒र्ग इति॑ दुः-गे । हन्ता॑ । असि॑ । इति॑ ।
-</details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवमुक्त्वा स एवाब्रवीद्यज्ञः - दुर्गे हन्तेत्यवोचथास्त्वमिदानीम् । प्रूर्ववदद्यतनत्वात् लुङेव । सत्यमुच्यते वराहः सुत्यायज्ञाख्यो वरणीयदिवसात्मा वाममोषः वननीयानां धनानां मोषकः वननीयो वा मोषकः सप्तानां गिरीणामहरात्मनां दुर्गाणां परस्तात्परतः असुराणां वित्तं वसु वेद्यं वेदितव्यं वेत्तुं वा शक्यं यावत्किंचित्तत्सर्वं बिभर्ति रक्षति तं जहीति दुर्गे हन्ताऽसि अहं दुर्गे हन्तेति यत्त्वयोक्तं यदि तत्सत्यमिति । 
 </details>
 
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-स द॑र्भपुञ्जी॒लम् उ॒द्वृह्य॑ स॒प्त गि॒रीन् भि॒त्त्वा तम॑हन् ।  
-</details>
-
-<details><summary>Keith</summary>
-
-He plucked out a bunch of Darbha grass, pierced the seven hills, and smote him. 
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-स द॑र्भपुञ्जी॒लम् उ॒द्वृह्य॑ स॒प्त गि॒रीन् भि॒त्त्वा तम॑हन् ।  
-</details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -382,25 +455,8 @@ He plucked out a bunch of Darbha grass, pierced the seven hills, and smote him.
 <details><summary>पद-पाठः</summary>
 
 सः । द॒र्भ॒पु॒ञ्जी॒लमिति॑ दर्भ-पु॒ञ्जी॒लम् । उ॒द्वृह्येत्यु॑त्-वृह्य॑ । स॒प्त । गि॒रीन् । भि॒त्त्वा । तम् । अह॑न् ।  
-
 </details>
 
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-सो॑ ऽब्रवीद् दु॒र्गाद् वा आह॑र्ता ऽवोचथा ए॒तम् +++(हतं यज्ञवराहं)+++ आ ह॒रेति॑ ।  
-</details>
-
-<details><summary>Keith</summary>
-
-He said, 'Thou art called he who brings from the stronghold; bring him.' 
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-सो॑ ऽब्रवीद् दु॒र्गाद् वा आह॑र्ता ऽवोचथा ए॒तमा ह॒रेति॑ ।  
-</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -414,22 +470,6 @@ He said, 'Thou art called he who brings from the stronghold; bring him.'
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तमे॑भ्यो य॒ज्ञ ए॒व य॒ज्ञमाह॑रत् ।  
-</details>
-
-<details><summary>Keith</summary>
-
-So the sacrifice bore off the sacrifice for them; 
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-तमे॑भ्यो य॒ज्ञ ए॒व य॒ज्ञमाह॑रत् ।  
-</details>
-
 <details><summary>पद-पाठः</summary>
 
 तम् । ए॒भ्यः॒ । य॒ज्ञः । ए॒व । य॒ज्ञम् । एति॑ । अ॒ह॒र॒त् ।
@@ -441,24 +481,6 @@ So the sacrifice bore off the sacrifice for them;
 अथ तं यज्ञं वराहाख्यं यज्ञ एव विष्णुरूपः एभ्यो देवेभ्य आहरत् ।
 </details>
 
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-यत् तद् वि॒त्तव्ँ वेद्य॒म् असु॑राणा॒म् अवि॑न्दन्त॒  
-तद् एकव्ँ॒ वेद्यै॑ वेदि॒त्वम् ।
-</details>
-
-<details><summary>Keith</summary>
-
-in that they won the wealth of the Asuras which was to be won (védyam),  
-that alone is the reason why the Vedi is so called. 
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-यत्तद्वि॒त्तव्ँ वेद्य॒मसु॑राणा॒मवि॑न्दन्त॒ तदेकव्ँ॒ वेद्यै॑ वेदि॒त्वम् ।
-</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -482,15 +504,167 @@ that alone is the reason why the Vedi is so called.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असु॑राणाव्ँ॒ वा इ॒यमग्र॑ आसीत् । [22]   
-याव॒दासी॑नᳶ परा॒पश्य॑ति॒ ताव॑द् दे॒वाना॑म् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The Asuras [3] indeed at first owned the earth,
 </details>
 
 <details><summary>मूलम्</summary>
 
 असु॑राणाव्ँ॒ वा इ॒यमग्र॑ आसीत् । [22]   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 याव॒दासी॑नᳶ परा॒पश्य॑ति॒ ताव॑द् दे॒वाना॑म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the gods had so much as one seated can espy.
+</details>
+
+<details><summary>मूलम्</summary>
+
+याव॒दासी॑नᳶ परा॒पश्य॑ति॒ ताव॑द् दे॒वाना॑म् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते दे॒वा अ॑ब्रुव॒न्न् -  
+</details>
+
+<details><summary>Keith</summary>
+
+The gods said,
+</details>
+
+<details><summary>मूलम्</summary>
+
+ते दे॒वा अ॑ब्रुव॒न्न् -  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्त्वे॒व नो॒ ऽस्यामपीति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+'May we also have a share in the earth?'
+</details>
+
+<details><summary>मूलम्</summary>
+
+अस्त्वे॒व नो॒ ऽस्यामपीति॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किय॑द्वो दास्याम॒ इति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'How much shall we give you?'
+</details>
+
+<details><summary>मूलम्</summary>
+
+किय॑द्वो दास्याम॒ इति॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+याव॑दि॒यँ स॑लावृ॒की त्रिᳶ प॑रि॒क्राम॑ति॒ ताव॑न्नो द॒त्तेति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Give us as much as this Salavrki can thrice run round.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+याव॑दि॒यँ स॑लावृ॒की त्रिᳶ प॑रि॒क्राम॑ति॒ ताव॑न्नो द॒त्तेति॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स इन्द्र॑स् सलावृ॒की रू॒पङ् कृ॒त्वेमान् त्रिस् स॒र्वत॒ᳶ पर्य॑क्रामत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Indra taking the form of a Salavrki thrice ran round on all sides the earth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स इन्द्र॑स् सलावृ॒की रू॒पङ् कृ॒त्वेमान् त्रिस् स॒र्वत॒ᳶ पर्य॑क्रामत् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदि॒माम् अ॑विन्दन्त ।
+</details>
+
+<details><summary>Keith</summary>
+
+So they won the earth,
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदि॒माम् अ॑विन्दन्त ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि॒मामवि॑न्दन्त॒ तद् वेद्यै॑ वेदि॒त्वम् ।[23]  
+</details>
+
+<details><summary>Keith</summary>
+
+and in that they won it therefore is the Vedi so called [4].
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि॒मामवि॑न्दन्त॒ तद् वेद्यै॑ वेदि॒त्वम् ।[23]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा वा इ॒यँ सर्वै॒व वेदिः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+All this earth is the Vedi,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा वा इ॒यँ सर्वै॒व वेदिः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इय॑ति शक्ष्या॒मीति॒ त्वा अ॑व॒माय॑ यजन्ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+but they measure off and sacrifice on so much as they deem they can use.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इय॑ति शक्ष्या॒मीति॒ त्वा अ॑व॒माय॑ यजन्ते ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -503,25 +677,6 @@ that alone is the reason why the Vedi is so called.
 7अथापरं वेदित्वं दर्शयितुमाह - सुराणां वा इयमित्यादि ॥ इयं पृथिवी प्रथममग्रे असुराणामासीत् । यावदासीनः परापश्यति दूरं पश्यति तावद्देवानामासीत् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ते दे॒वा अ॑ब्रुव॒न्न् -  
-अस्त्वे॒व नो॒ ऽस्यामपीति॑ ।
-किय॑द्वो दास्याम॒ इति॑ ।  
-
-याव॑दि॒यँ स॑लावृ॒की त्रिᳶ प॑रि॒क्राम॑ति॒ ताव॑न्नो द॒त्तेति॑ ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
-ते दे॒वा अ॑ब्रुव॒न्न् -  
-अस्त्वे॒व नो॒ ऽस्यामपीति॑ ।
-किय॑द्वो दास्याम॒ इति॑ ।  
-
-याव॑दि॒यँ स॑लावृ॒की त्रिᳶ प॑रि॒क्राम॑ति॒ ताव॑न्नो द॒त्तेति॑ ।  
-</details>
-
-
 <details><summary>पद-पाठः</summary>
 
 
@@ -530,30 +685,11 @@ that alone is the reason why the Vedi is so called.
 किय॑त् । वः॒ । दा॒स्या॒मः॒ । इति॑ ।  
 
 याव॑त् । इ॒यम् । स॒ला॒वृ॒की । त्रिः । प॒रि॒क्राम॒तीति॑ परि-क्राम॑ति । ताव॑त् । नः॒ । द॒त्त॒ । इति॑ ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ते देवा अब्रुवन् - अस्यामितरस्यामपि नोस्माकं किञ्चिदस्त्वेव अवश्यमस्त्वेवेति । असुरा ऊचुः - कियद्वो युष्मभ्यं दास्याम इति । 'किमिदम्भ्यां वोघः', 'इदंकिमोरीश्की', छान्दसो वर्णलोपः । देवा ऊचिरे - यावदियं सलावृकी सालावृकीति केचित् । गजमतंगजवत् । सृगालीत्यन्ये । वानरीत्यपरे । त्रिः परिक्रामति अश्रान्ता त्रिः परिक्रामति तावन्नोऽस्मभ्यं दत्तेति ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-स इन्द्र॑स् सलावृ॒की रू॒पङ् कृ॒त्वेमान् त्रिस् स॒र्वत॒ᳶ पर्य॑क्रामत् ।  
-तदि॒माम् अ॑विन्दन्त ।
-यदि॒मामवि॑न्दन्त॒ तद् वेद्यै॑ वेदि॒त्वम् ।[23]  
-सा वा इ॒यँ सर्वै॒व वेदिः॑ ।
-इय॑ति शक्ष्या॒मीति॒ त्वा अ॑व॒माय॑ यजन्ते ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-स इन्द्र॑स् सलावृ॒की रू॒पङ् कृ॒त्वेमान् त्रिस् स॒र्वत॒ᳶ पर्य॑क्रामत् ।  
-तदि॒माम् अ॑विन्दन्त ।
-यदि॒मामवि॑न्दन्त॒ तद् वेद्यै॑ वेदि॒त्वम् ।[23]  
-सा वा इ॒यँ सर्वै॒व वेदिः॑ ।
-इय॑ति शक्ष्या॒मीति॒ त्वा अ॑व॒माय॑ यजन्ते ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -578,21 +714,77 @@ that alone is the reason why the Vedi is so called.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिँ॒शत्प॒दानि॑ प॒श्चात् ति॒रश्ची॑ भवति॒ ,
-षट्त्रिँ॑श॒त्प्राची॒ चतु॑र्विँशतिᳶ पु॒रस्ता॑त् ।  
-ति॒रश्ची॒ दश॑दश॒ सम्प॑द्यन्ते ।  
-दशा॑क्षरा वि॒राट् । अन्नव्ँ॑ वि॒राट् ।
-वि॒राजै॒वान्नाद्य॒मव॑ रुन्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+The back cross-line is thirty feet,
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्रिँ॒शत्प॒दानि॑ प॒श्चात् ति॒रश्ची॑ भवति॒ ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 षट्त्रिँ॑श॒त्प्राची॒ चतु॑र्विँशतिᳶ पु॒रस्ता॑त् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the eastern line is thirty-six feet, the front cross-line is twenty-four feet.
+</details>
+
+<details><summary>मूलम्</summary>
+
+षट्त्रिँ॑श॒त्प्राची॒ चतु॑र्विँशतिᳶ पु॒रस्ता॑त् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ति॒रश्ची॒ दश॑दश॒ सम्प॑द्यन्ते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+These make up tens;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ति॒रश्ची॒ दश॑दश॒ सम्प॑द्यन्ते ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दशा॑क्षरा वि॒राट् । अन्नव्ँ॑ वि॒राट् ।
+</details>
+
+<details><summary>Keith</summary>
+
+the Viraj has ten syllables; the Viraj is food;
+</details>
+
+<details><summary>मूलम्</summary>
+
+दशा॑क्षरा वि॒राट् । अन्नव्ँ॑ वि॒राट् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वि॒राजै॒वान्नाद्य॒मव॑ रुन्धे ।
 </details>
 
+<details><summary>Keith</summary>
+
+verily by the Viraj he wins food.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वि॒राजै॒वान्नाद्य॒मव॑ रुन्धे ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -616,14 +808,45 @@ that alone is the reason why the Vedi is so called.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्ध॑न्ति॒ , यदे॒वास्या॑ अमे॒ध्यन्तदप॑ ह॒न्ति ।  
-उद्ध॑न्ति॒ , तस्मा॒दोष॑धय॒ᳶ परा॑ भवन्ति ।  
-ब॒र्हिस्स्तृ॑णाति॒ , तस्मा॒दोष॑धय॒ᳶ पुन॒रा भ॑वन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He digs up (the earth); verily he digs away whatever in it is impure.
 </details>
 
 <details><summary>मूलम्</summary>
 
 उद्ध॑न्ति॒ , यदे॒वास्या॑ अमे॒ध्यन्तदप॑ ह॒न्ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उद्ध॑न्ति॒ , तस्मा॒दोष॑धय॒ᳶ परा॑ भवन्ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He digs up; therefore the plants perish.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उद्ध॑न्ति॒ , तस्मा॒दोष॑धय॒ᳶ परा॑ भवन्ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब॒र्हिस्स्तृ॑णाति॒ , तस्मा॒दोष॑धय॒ᳶ पुन॒रा भ॑वन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He spreads the sacrificial strew; therefore the plants again revive.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ब॒र्हिस्स्तृ॑णाति॒ , तस्मा॒दोष॑धय॒ᳶ पुन॒रा भ॑वन्ति ।
 </details>
 
@@ -648,16 +871,60 @@ that alone is the reason why the Vedi is so called.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्त॑रम् ब॒र्हिष॑ उत्तरब॒र्हिस्स्तृ॑णाति ।  
-प्र॒जा वै ब॒र्हिर् यज॑मान उत्तरब॒र्हिः ।  
-यज॑मानम् ए॒वाय॑जमाना॒द् उत्त॑रङ् करोति ।   
-तस्मा॒द् यज॑मा॒नो ऽय॑जमाना॒दुत्त॑रः ॥ [24]  
+</details>
+
+<details><summary>Keith</summary>
+
+He spreads over the strew the upper strew.
 </details>
 
 <details><summary>मूलम्</summary>
 
 उत्त॑रम् ब॒र्हिष॑ उत्तरब॒र्हिस्स्तृ॑णाति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्र॒जा वै ब॒र्हिर् यज॑मान उत्तरब॒र्हिः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The strew is the people; the upper strew is the sacrificer;
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्र॒जा वै ब॒र्हिर् यज॑मान उत्तरब॒र्हिः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यज॑मानम् ए॒वाय॑जमाना॒द् उत्त॑रङ् करोति ।   
+</details>
+
+<details><summary>Keith</summary>
+
+verily he makes the sacrificer higher than the man who does not sacrifice;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यज॑मानम् ए॒वाय॑जमाना॒द् उत्त॑रङ् करोति ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॒द् यज॑मा॒नो ऽय॑जमाना॒दुत्त॑रः ॥ [24]  
+</details>
+
+<details><summary>Keith</summary>
+
+therefore the sacrificer is higher than the man who does not sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॒द् यज॑मा॒नो ऽय॑जमाना॒दुत्त॑रः ॥ [24]  
 </details>
 
@@ -675,3 +942,4 @@ that alone is the reason why the Vedi is so called.
 10उत्तरमित्यादिविधिः ॥ सौमिकस्योपरि पाशुकं बर्हिस्स्तृणाति । उत्तरं च तद्बर्हिश्चेत्युत्तरबर्हिः । प्रवा वा इत्यादि । गतम् ॥
 
 इति षष्ठे द्वितीये चतुर्थोनवा�
+</details>

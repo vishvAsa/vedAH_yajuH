@@ -13,14 +13,32 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋ॒क्सा॒मे वै दे॒वेभ्यो॑ य॒ज्ञायाति॑ष्ठमाने॒ कृष्णो॑ रू॒पङ् कृ॒त्वाऽप॒क्रम्या॑तिष्ठताम् ।  
-ते॑ऽमन्यन्त॒ -
-यव्ँ वा इ॒मे उ॑पाव॒र्त्स्यत॒स् स इ॒दम् भ॑विष्य॒तीति॒ ते उपा॑मन्त्रयन्त ।  
-ते अ॑होरा॒त्रयो॑र् महि॒मान॑म् अपनि॒धाय॑ दे॒वानु॒पाव॑र्तेताम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+The Rc and the Saman, unwilling to remain with the gods for the sacrifice, taking the form of a black antelope departed and remained away.
 </details>
 
 <details><summary>मूलम्</summary>
 
 ऋ॒क्सा॒मे वै दे॒वेभ्यो॑ य॒ज्ञायाति॑ष्ठमाने॒ कृष्णो॑ रू॒पङ् कृ॒त्वाऽप॒क्रम्या॑तिष्ठताम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते॑ऽमन्यन्त॒ -
+यव्ँ वा इ॒मे उ॑पाव॒र्त्स्यत॒स् स इ॒दम् भ॑विष्य॒तीति॒ ते उपा॑मन्त्रयन्त ।  
+ते अ॑होरा॒त्रयो॑र् महि॒मान॑म् अपनि॒धाय॑ दे॒वानु॒पाव॑र्तेताम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+The (gods) reflected, 'He whom they shall resort to will become all this world.' They called to them, and they depositing their might in day and night came up to them.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ते॑ऽमन्यन्त॒ -
 यव्ँ वा इ॒मे उ॑पाव॒र्त्स्यत॒स् स इ॒दम् भ॑विष्य॒तीति॒ ते उपा॑मन्त्रयन्त ।  
 ते अ॑होरा॒त्रयो॑र् महि॒मान॑म् अपनि॒धाय॑ दे॒वानु॒पाव॑र्तेताम् ।
@@ -35,10 +53,7 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 यम् । वै । इ॒मे इति॑ । उ॒पा॒व॒र्त्स्यत॒ इत्यु॑प-आ॒व॒र्त्स्यतः॑ । सः । इ॒दम् । भ॒वि॒ष्य॒ति॒ । इति॑ । ते इति॑ । उपेति॑ । अ॒म॒न्त्र॒य॒न्त॒ ।   
 
 ते इति॑ । अ॒हो॒रा॒त्रयो॒रित्य॑हः-रा॒त्रयोः॑ । म॒हि॒मान॑म् । अ॒प॒नि॒धायेत्य॑प-नि॒धाय॑ । दे॒वान् । उ॒पाव॑र्तेता॒मित्यु॑प-आव॑र्तेताम् । 
-
 </details>
-
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -53,12 +68,30 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒ष वा ऋ॒चो वर्णो॒ यच् छु॒क्लङ् कृ॑ष्णाजि॒नस्य ।
-ए॒ष साम्नो॒ यत् कृ॒ष्णम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+This is the colour of the Rc, the white of the skin of the black antelope;
 </details>
 
 <details><summary>मूलम्</summary>
 
 ए॒ष वा ऋ॒चो वर्णो॒ यच् छु॒क्लङ् कृ॑ष्णाजि॒नस्य ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ए॒ष साम्नो॒ यत् कृ॒ष्णम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+the black is the colour of the Saman.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ए॒ष साम्नो॒ यत् कृ॒ष्णम् ।  
 </details>
 
@@ -67,7 +100,6 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 ए॒षः । वै । ऋ॒चः । वर्णः॑ । यत् । शु॒क्लम् । कृ॒ष्णा॒जि॒नस्येति॑ कृष्ण-अ॒जि॒नस्य॑ ।  
 
 ए॒षः । साम्नः॑ । यत् । कृ॒ष्णम् ।   
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -83,15 +115,32 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋ॒क्सा॒मयो॒श् शिल्पे॑ स्थ॒ इत्या॑ह ।   
-ऋ॒क्सा॒मे ए॒वाव॑ रुन्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Ye are images of the Rc and Saman', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 ऋ॒क्सा॒मयो॒श् शिल्पे॑ स्थ॒ इत्या॑ह ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ऋ॒क्सा॒मे ए॒वाव॑ रुन्धे ।
 </details>
 
+<details><summary>Keith</summary>
+
+verily he wins the Rc and the Saman [1].
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऋ॒क्सा॒मे ए॒वाव॑ रुन्धे ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -112,12 +161,30 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒षः वा अह्नो॒ वर्णो॒ यच्छु॒क्लङ् , कृ॑ष्णाजि॒नस्यै॒ष रात्रि॑या॒ यत् कृ॒ष्णय्ँ ,
-यदे॒वैन॑यो॒स्तत्र॒ न्य॑क्त॒न् तदे॒वाव॑ रुन्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+The white of the black antelope skin is the colour of the day, the black of the night.
 </details>
 
 <details><summary>मूलम्</summary>
 
 ए॒षः वा अह्नो॒ वर्णो॒ यच्छु॒क्लङ् , कृ॑ष्णाजि॒नस्यै॒ष रात्रि॑या॒ यत् कृ॒ष्णय्ँ ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदे॒वैन॑यो॒स्तत्र॒ न्य॑क्त॒न् तदे॒वाव॑ रुन्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+Whatever is imbued in those two, he wins.
+</details>
+
+<details><summary>मूलम्</summary>
+
 यदे॒वैन॑यो॒स्तत्र॒ न्य॑क्त॒न् तदे॒वाव॑ रुन्धे ।
 </details>
 
@@ -127,7 +194,6 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 ए॒षः । रात्रि॑याः । यत् । कृ॒ष्णम् ।   
 यत् । ए॒व । ए॒न॒योः॒ । तत्र॑ । न्य॑क्त॒मिति॒ नि-अ॒क्त॒म् । तत् । ए॒व । अवेति॑ । रु॒न्द्धे॒ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -144,6 +210,11 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 कृ॒ष्णा॒जि॒नेन॑ दीक्षयति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He consecrates (him) with a black antelope skin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृ॒ष्णा॒जि॒नेन॑ दीक्षयति ।  
@@ -153,7 +224,6 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 
 कृ॒ष्णा॒जि॒नेनेति॑ कृष्ण-अ॒जि॒नेन॑ । दी॒क्ष॒य॒ति॒ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -169,13 +239,107 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्म॑णो॒ वा ए॒तद्रू॒पय्ँ यत्कृ॑ष्णाजि॒नम् ।
-ब्रह्म॑णै॒वैन॑न् दीक्षयति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The black antelope skin is the form of the holy power;
 </details>
 
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑णो॒ वा ए॒तद्रू॒पय्ँ यत्कृ॑ष्णाजि॒नम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ब्रह्म॑णै॒वैन॑न् दीक्षयति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he consecrates him with the holy power.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्म॑णै॒वैन॑न् दीक्षयति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ॒मान् धियँ॒ शिक्ष॑माणस्य दे॒वेत्या॑ह यथाय॒जुर् ए॒वैतत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'O god, this prayer of him who imploreth', he says. That is according to the text.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒मान् धियँ॒ शिक्ष॑माणस्य दे॒वेत्या॑ह यथाय॒जुर् ए॒वैतत् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गर्भो॒ वा ए॒ष यद् दी॑क्षि॒त उल्बव्ँ॒ वास॒ᳶ प्रोर्णु॑ते॒ , तस्मा॑त् गर्भा॒ᳶ प्रावृ॑ता जायन्ते ।[18]  
+</details>
+
+<details><summary>Keith</summary>
+
+The man who is consecrated is a foetus; the clothing is the caul; be covers. Therefore [2] foetuses are born covered (with the caul).
+</details>
+
+<details><summary>मूलम्</summary>
+
+गर्भो॒ वा ए॒ष यद् दी॑क्षि॒त उल्बव्ँ॒ वास॒ᳶ प्रोर्णु॑ते॒ ,  
+तस्मा॑त् गर्भा॒ᳶ प्रावृ॑ता जायन्ते ।[18]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न पु॒रा सोम॑स्य क्र॒यादपो॑र्ण्वीत॒ , यत्पु॒रा सोम॑स्य क्र॒याद॑पोर्ण्वी॒त गर्भाः॑ प्र॒जाना॑म् परा॒पातु॑कास् स्युः ।
+</details>
+
+<details><summary>Keith</summary>
+
+He should not uncover before the purchasing of the Soma. If he were to uncover before the purchasing of the Soma, the foetuses of offspring would be liable to miscarriage.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न पु॒रा सोम॑स्य क्र॒यादपो॑र्ण्वीत॒ , यत्पु॒रा सोम॑स्य क्र॒याद॑पोर्ण्वी॒त गर्भाः॑ प्र॒जाना॑म् परा॒पातु॑कास् स्युः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्री॒ते सोमेऽपो॑र्णुते॒ जाय॑त ए॒व तत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+He uncovers when the Soma has been purchased; verily he is born.
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्री॒ते सोमेऽपो॑र्णुते॒ जाय॑त ए॒व तत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथो॒ यथा॒ वसी॑याँसम्प्रत्य् अपोर्णु॒ते ता॒दृग् ए॒व तद् ।
+</details>
+
+<details><summary>Keith</summary>
+
+It is also as when one uncovers to a superior.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथो॒ यथा॒ वसी॑याँसम्प्रत्य् अपोर्णु॒ते ता॒दृग् ए॒व तद् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,25 +353,6 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 6इदानीं स्तुत्यन्तरमाह - ब्रह्मण इति ॥ ब्रह्मणः ऋक्सामयोरित्यस्य मन्त्रस्य एतद्रूपं यत्कृष्णाजिनं नाम । केचिदाहुः - ब्रह्मणः परस्य वस्तुन एतद्रूपम् । व्यामिश्राकारत्वसाधर्म्यादेवमुक्तम्; यथा 'पुरुषं कृष्णपिङ्गलम्' इति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-इ॒मान् धियँ॒ शिक्ष॑माणस्य दे॒वेत्या॑ह यथाय॒जुर् ए॒वैतत् ।  
-गर्भो॒ वा ए॒ष यद् दी॑क्षि॒त उल्बव्ँ॒ वास॒ᳶ प्रोर्णु॑ते॒ , तस्मा॑त् गर्भा॒ᳶ प्रावृ॑ता जायन्ते ।[18]  
-न पु॒रा सोम॑स्य क्र॒यादपो॑र्ण्वीत॒ , यत्पु॒रा सोम॑स्य क्र॒याद॑पोर्ण्वी॒त गर्भाः॑ प्र॒जाना॑म् परा॒पातु॑कास् स्युः ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-इ॒मान् धियँ॒ शिक्ष॑माणस्य दे॒वेत्या॑ह यथाय॒जुर् ए॒वैतत् ।  
-
-
-गर्भो॒ वा ए॒ष यद् दी॑क्षि॒त उल्बव्ँ॒ वास॒ᳶ प्रोर्णु॑ते॒ ,  
-तस्मा॑त् गर्भा॒ᳶ प्रावृ॑ता जायन्ते ।[18]  
-
-न पु॒रा सोम॑स्य क्र॒यादपो॑र्ण्वीत॒ , यत्पु॒रा सोम॑स्य क्र॒याद॑पोर्ण्वी॒त गर्भाः॑ प्र॒जाना॑म् परा॒पातु॑कास् स्युः ।
-</details>
-
-
 <details><summary>पद-पाठः</summary>
 
 इ॒माम् । धिय॑म् । शिक्ष॑माणस्य । दे॒व॒ । इति॑ । आ॒ह॒ । य॒था॒य॒जुरिति॑ यथा-य॒जुः । ए॒व । ए॒तत् । 
@@ -217,28 +362,13 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 
 न । पु॒रा । सोम॑स्य । क्र॒यात् । अपेति॑ । ऊ॒र्ण्वी॒त॒ ।   
 यत् । पु॒रा । सोम॑स्य । क्र॒यात् ।   अ॒पो॒र्ण्वी॒तेत्य॑प-ऊ॒र्ण्वी॒त । गर्भाः॑ । प्र॒जाना॒मिति॑ प्र-जाना॑म् । प॒रा॒पातु॑का॒ इति॑ परा-पातु॑काः । स्युः॒ ।
-
-
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इमामित्यादि । एतं मन्त्रं यस्मादाह तस्माद्यथायजुरेव फलमवरुन्धे 'सं शिशाधि, दुरिता तरेम, अधि नावं रुहेम' इति यदनेन यजुषा आशास्यते तत्सर्वं प्राप्नोत्येवेत्यर्थः । पूर्ववद्यजुष्ट्वं वेदितव्यम् ॥ 
 
 'गर्भ इत्यादि ॥ गर्भः खल्वेष संजातः यो दीक्षितो भवति । तस्योल्बस्थानीयं वासः । उल्बं नाम गर्भावरणम् । प्रोर्णुत इति विधिः । वाससा छादयति दीक्षित आत्मानम् । तस्मादित्यादि । स्पष्टम् । प्रावृता इति । पूर्वपदप्रकृतिस्वरत्वम् । नापोर्ण्वीत नोद्धाटयेत् । परापातुकाः परापतनशीलाः स्युः । 'लषपत' इत्यादिना उकञ्, कृदुत्तरपदप्रकृतिस्वरत्वे 'ञ्नित्यादिर्नित्यम्' इत्याद्युदात्तत्वम् ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-क्री॒ते सोमेऽपो॑र्णुते॒ जाय॑त ए॒व तत् ।
-अथो॒ यथा॒ वसी॑याँसम्प्रत्य् अपोर्णु॒ते ता॒दृग् ए॒व तद् ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-क्री॒ते सोमेऽपो॑र्णुते॒ जाय॑त ए॒व तत् ।
-अथो॒ यथा॒ वसी॑याँसम्प्रत्य् अपोर्णु॒ते ता॒दृग् ए॒व तद् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -261,15 +391,32 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गि॑रसस् सुव॒र्गल्ँ लो॒कय् यँन्त॒ ऊर्जव्ँ॒ व्य॑भजन्त । ततो॒ यद् अ॒त्यशि॑ष्यत॒ , ते श॒रा अ॑भव॒न्न् , ऊर्ग्वै श॒राः ।  
-यच् छ॑र॒मयी॒ मेख॑ला॒ भव॒त्य् , ऊर्ज॑म् ए॒वाव॑ रुन्धे ।[19]
+</details>
+
+<details><summary>Keith</summary>
+
+The Angirases going to the world of heaven divided their strength. What was left over became Śara grass; Śara grass is strength.
 </details>
 
 <details><summary>मूलम्</summary>
 
 अङ्गि॑रसस् सुव॒र्गल्ँ लो॒कय् यँन्त॒ ऊर्जव्ँ॒ व्य॑भजन्त । ततो॒ यद् अ॒त्यशि॑ष्यत॒ , ते श॒रा अ॑भव॒न्न् , ऊर्ग्वै श॒राः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यच् छ॑र॒मयी॒ मेख॑ला॒ भव॒त्य् , ऊर्ज॑म् ए॒वाव॑ रुन्धे ।[19]
 </details>
 
+<details><summary>Keith</summary>
+
+In that the girdle is of Śara grass [3], he wins strength.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यच् छ॑र॒मयी॒ मेख॑ला॒ भव॒त्य् , ऊर्ज॑म् ए॒वाव॑ रुन्धे ।[19]
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -279,7 +426,6 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 ऊर्क् । वै । श॒राः ।   
 यत् । श॒र॒मयीति॑ शर-मयी॑ । [19] मेख॑ला । भव॑ति ।   
 ऊर्ज॑म् । ए॒व । अवेति॑ । रु॒न्द्धे॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -295,14 +441,45 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म॒ध्य॒तस् सन्न॑ह्यति ।
-म॒ध्य॒त ए॒वास्मा॒ ऊर्ज॑न् दधाति ।
-तस्मा॑न् मध्य॒त ऊ॒र्जा भु॑ञ्जते ।
+</details>
+
+<details><summary>Keith</summary>
+
+He girds it in the middle;
 </details>
 
 <details><summary>मूलम्</summary>
 
 म॒ध्य॒तस् सन्न॑ह्यति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 म॒ध्य॒त ए॒वास्मा॒ ऊर्ज॑न् दधाति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he gives him strength in the middle.
+</details>
+
+<details><summary>मूलम्</summary>
+
+म॒ध्य॒त ए॒वास्मा॒ ऊर्ज॑न् दधाति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॑न् मध्य॒त ऊ॒र्जा भु॑ञ्जते ।
+</details>
+
+<details><summary>Keith</summary>
+
+Therefore in the middle men enjoy strength.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॑न् मध्य॒त ऊ॒र्जा भु॑ञ्जते ।
 </details>
 
@@ -312,7 +489,6 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 म॒ध्य॒तः । ए॒व । अ॒स्मै॒ । ऊर्ज॑म् । द॒धा॒ति॒ ।   
 तस्मा॑त् । म॒ध्य॒तः । ऊ॒र्जा । भु॒ञ्ज॒ते॒ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -327,12 +503,30 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊ॒र्ध्वव्ँ वै पुरु॑षस्य॒ नाभ्यै॒ मेध्य॑म् ,  अवा॒चीन॑म् अमे॒ध्यय्ँ ,
-यन् म॑ध्य॒तस् स॒न्नह्य॑ति॒ , मेध्य॑ञ् च ए॒वास्या॑मे॒ध्यञ्च॒ व्याव॑र्तय॒ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+The part of man above the navel is pure, that below is impure.
 </details>
 
 <details><summary>मूलम्</summary>
 
 ऊ॒र्ध्वव्ँ वै पुरु॑षस्य॒ नाभ्यै॒ मेध्य॑म् ,  अवा॒चीन॑म् अमे॒ध्यय्ँ ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यन् म॑ध्य॒तस् स॒न्नह्य॑ति॒ , मेध्य॑ञ् च ए॒वास्या॑मे॒ध्यञ्च॒ व्याव॑र्तय॒ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+In that he girds him in the middle he discriminates between the pure and impure parts.
+</details>
+
+<details><summary>मूलम्</summary>
+
 यन् म॑ध्य॒तस् स॒न्नह्य॑ति॒ , मेध्य॑ञ् च ए॒वास्या॑मे॒ध्यञ्च॒ व्याव॑र्तय॒ति ।
 </details>
 
@@ -341,7 +535,6 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 ऊ॒र्ध्वम् । वै । पुरु॑षस्य । नाभ्यै॑ । मेध्य॑म् । अ॒वा॒चीन॑म् । अ॒मे॒ध्यम् ।  
 यत् । म॒ध्य॒तः । स॒न्नह्य॒तीति॑ सम्-नह्य॑ति । मेध्य॑म् । च॒ । ए॒व । अ॒स्य॒ । अ॒मे॒ध्यम् । च॒ । व्याव॑र्तय॒तीति॑ वि-आव॑र्तयति । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -357,21 +550,77 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रो॑ वृ॒त्राय॒ वज्र॒म् प्राह॑रत् ।
-स त्रे॒धा व्य॑भव॒त् स्फ्यस्तृती॑यँ॒ , रथ॒स्तृती॑यय्ँ॒ , यूप॒स् तृती॑यम् ।[20]  
-ये॑ऽन्तश् श॒रा अशी॑र्यन्त॒ , ते श॒रा अ॑भव॒न् , तच् छ॒राणाँ॑ शर॒त्वम् ।  
-वज्रो॒ वै श॒राः ।
-क्षुत् खलु॒ वै म॑नु॒ष्य॑स्य॒ भ्रातृ॑व्यः । यच् छ॑र॒मयी॒ मेख॑ला॒ भव॑ति॒ , वज्रे॑णै॒व सा॒क्षात् क्षुध॒म् भ्रातृ॑व्यम् मध्य॒तोऽप॑ हते ।
+</details>
+
+<details><summary>Keith</summary>
+
+Indra hurled his thunderbolt against Vrtra;
 </details>
 
 <details><summary>मूलम्</summary>
 
 इन्द्रो॑ वृ॒त्राय॒ वज्र॒म् प्राह॑रत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स त्रे॒धा व्य॑भव॒त् स्फ्यस्तृती॑यँ॒ , रथ॒स्तृती॑यय्ँ॒ , यूप॒स् तृती॑यम् ।[20]  
+</details>
+
+<details><summary>Keith</summary>
+
+it divided into three parts; one-third the wooden sword, one-third the chariot, and one-third the sacrificial post [4].
+</details>
+
+<details><summary>मूलम्</summary>
+
+स त्रे॒धा व्य॑भव॒त् स्फ्यस्तृती॑यँ॒ , रथ॒स्तृती॑यय्ँ॒ , यूप॒स् तृती॑यम् ।[20]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ये॑ऽन्तश् श॒रा अशी॑र्यन्त॒ , ते श॒रा अ॑भव॒न् , तच् छ॒राणाँ॑ शर॒त्वम् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The internal arrows which were split (aśiryanta) became Śara grass, and that is why Śara grass is so called.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ये॑ऽन्तश् श॒रा अशी॑र्यन्त॒ , ते श॒रा अ॑भव॒न् , तच् छ॒राणाँ॑ शर॒त्वम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वज्रो॒ वै श॒राः ।
+</details>
+
+<details><summary>Keith</summary>
+
+The thunderbolt is Śara grass;
+</details>
+
+<details><summary>मूलम्</summary>
+
+वज्रो॒ वै श॒राः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 क्षुत् खलु॒ वै म॑नु॒ष्य॑स्य॒ भ्रातृ॑व्यः । यच् छ॑र॒मयी॒ मेख॑ला॒ भव॑ति॒ , वज्रे॑णै॒व सा॒क्षात् क्षुध॒म् भ्रातृ॑व्यम् मध्य॒तोऽप॑ हते ।
 </details>
 
+<details><summary>Keith</summary>
+
+hunger indeed is the foe of man. In that the girdle is of Śara grass, he clearly drives away the enemy hunger from the middle (of man's body).
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्षुत् खलु॒ वै म॑नु॒ष्य॑स्य॒ भ्रातृ॑व्यः । यच् छ॑र॒मयी॒ मेख॑ला॒ भव॑ति॒ , वज्रे॑णै॒व सा॒क्षात् क्षुध॒म् भ्रातृ॑व्यम् मध्य॒तोऽप॑ हते ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -381,7 +630,6 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 वज्रः॑ । वै । श॒राः ।   
 क्षुत् । खलु॑ । वै । म॒नु॒ष्य॑स्य । भ्रातृ॑व्यः । यत् । श॒र॒मयीति॑ शर-मयी॑ । मेख॑ला । भव॑ति ।   
 वज्रे॑ण । ए॒व । सा॒क्षादिति॑ स-अ॒क्षात् । क्षुध॑म् । भ्रातृ॑व्यम् । म॒ध्य॒तः । अपेति॑ । ह॒ते॒ ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -397,6 +645,11 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रि॒वृद् भ॑वति , त्रि॒वृद् वै प्रा॒णस् , त्रि॒वृत॑म् ए॒व प्रा॒णम् म॑ध्य॒तो यज॑माने दधाति ।
+</details>
+
+<details><summary>Keith</summary>
+
+It is threefold. The breath is threefold; verily he places the threefold breath in the middle of the sacrificer.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -424,6 +677,11 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 पृ॒थ्वी भ॑वति॒ , रज्जू॑नाव्ँ॒ व्यावृ॑त्त्यै ।
 </details>
 
+<details><summary>Keith</summary>
+
+It is broad, for the discrimination of the strands.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृ॒थ्वी भ॑वति॒ , रज्जू॑नाव्ँ॒ व्यावृ॑त्त्यै ।
@@ -444,10 +702,14 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 मेख॑लया॒ यज॑मानन्दीक्षयति॒ योक्त्रे॑ण॒ पत्नी॑म्मिथुन॒त्वाय॑ [21]  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेख॑लया॒ यज॑मानन् दीक्षयति॒ , योक्त्रे॑ण॒ पत्नी॑म् मिथुन॒त्वाय॑ ।[21]  
+</details>
+
+<details><summary>Keith</summary>
+
+He consecrates the sacrificer with a girdle, with a yoke his wife, for the sake of offspring [5].
 </details>
 
 <details><summary>मूलम्</summary>
@@ -474,13 +736,76 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य॒ज्ञो दक्षि॑णाम् अ॒भ्य॑ध्याय॒त् ताँ सम॑भव॒त् तदिन्द्रो॑ऽचाय॒थ् ।
-सो॑ऽमन्यत॒ - "यो वा इ॒तो ज॑नि॒ष्यते॒ स इ॒दम्भ॑विष्य॒ति"+इति॒ , ताम् प्रावि॑श॒त् तस्या॒ इन्द्र॑ ए॒वाजा॑यत ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The sacrifice reflected on the gift (to the priests). He had intercourse with her. Indra perceived this
 </details>
 
 <details><summary>मूलम्</summary>
 
 य॒ज्ञो दक्षि॑णाम् अ॒भ्य॑ध्याय॒त् ताँ सम॑भव॒त् तदिन्द्रो॑ऽचाय॒थ् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सो॑ऽमन्यत॒ - "यो वा इ॒तो ज॑नि॒ष्यते॒ स इ॒दम्भ॑विष्य॒ति"+इति॒ , ताम् प्रावि॑श॒त् तस्या॒ इन्द्र॑ ए॒वाजा॑यत ।  
+</details>
+
+<details><summary>Keith</summary>
+
+and reflected, 'He who will be born from this union will be this world.' He entered her; from her verily was Indra born;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सो॑ऽमन्यत॒ - "यो वा इ॒तो ज॑नि॒ष्यते॒ स इ॒दम्भ॑विष्य॒ति"+इति॒ , ताम् प्रावि॑श॒त् तस्या॒ इन्द्र॑ ए॒वाजा॑यत ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सो॑ऽमन्यत॒ - "यो वै मदि॒तोऽप॑रो जनि॒ष्यते॒ स इ॒दम् भ॑विष्य॒ती"ति॒ , तस्या॑ अनु॒मृश्य॒ योनि॒म् आच्छि॑न॒त् , सा सू॒तव॑शाभव॒त् तत् सू॒तव॑शायै॒ जन्म॑ । [22]  
+</details>
+
+<details><summary>Keith</summary>
+
+he reflected, 'He who hence other than I will be born will be this world'. Stroking her womb he split it, she became barren after birth, and that is the origin of the (cow) which is barren after birth [6].
+</details>
+
+<details><summary>मूलम्</summary>
+
+सो॑ऽमन्यत॒ - "यो वै मदि॒तोऽप॑रो जनि॒ष्यते॒ स इ॒दम् भ॑विष्य॒ती"ति॒ , तस्या॑ अनु॒मृश्य॒ योनि॒म् आच्छि॑न॒त् , सा सू॒तव॑शाभव॒त् तत् सू॒तव॑शायै॒ जन्म॑ । [22]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताँ हस्ते॒ न्य॑वेष्टयत॒ । ताम् मृ॒गेषु॒ न्य॑दधा॒त्
+</details>
+
+<details><summary>Keith</summary>
+
+He wrapped it (the yoni) in his hand, he deposited it among the wild beasts,
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताँ हस्ते॒ न्य॑वेष्टयत॒ । ताम् मृ॒गेषु॒ न्य॑दधा॒त्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा कृ॑ष्णविषा॒णाभ॑व॒द् , इन्द्र॑स्य॒ योनि॑रसि॒ , मा मा॑ हिँसी॒रिति॑ कृष्णविषा॒णाम् प्र य॑च्छति ।
+</details>
+
+<details><summary>Keith</summary>
+
+it became the horn of the black antelope. 'Thou art the birthplace of Indra; harm me not', (with these words) he hands the horn of the black antelope.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा कृ॑ष्णविषा॒णाभ॑व॒द् , इन्द्र॑स्य॒ योनि॑रसि॒ , मा मा॑ हिँसी॒रिति॑ कृष्णविषा॒णाम् प्र य॑च्छति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -493,22 +818,10 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 तस्याः॑ । इन्द्रः॑ । ए॒व । अ॒जा॒य॒त॒ । 
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 15अथ कृष्णविषाणां प्रतिविधास्यन् तदुत्पत्तिमाह - यज्ञो दक्षिणामित्यादि ॥ यज्ञात्मा दक्षिणामकामयत तां समभवत्समगृह्णात् मिथुन्यभवत् । तदिन्द्रोचायत् । चायृ पूजानिशामनयोः, जातवान् । अथ सोमन्यत यो वा इतो दक्षिणाया जनिष्यते स इदं विश्वं भविष्यति इदं सर्वं तदधीनं भविष्यति । यद्वा - स इदं विश्वं प्राप्स्यति विश्वस्य स्वामी भविष्यति, तस्मादस्या अहं जनिषीयेति समालोच्य तां प्राविशदिन्द्रः । ततस्तस्या इन्द्र एव पुत्रोजायत ।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-सो॑ऽमन्यत॒ - "यो वै मदि॒तोऽप॑रो जनि॒ष्यते॒ स इ॒दम् भ॑विष्य॒ती"ति॒ , तस्या॑ अनु॒मृश्य॒ योनि॒म् आच्छि॑न॒त् , सा सू॒तव॑शाभव॒त् तत् सू॒तव॑शायै॒ जन्म॑ । [22]  
-</details>
-
-<details><summary>मूलम्</summary>
-
-सो॑ऽमन्यत॒ - "यो वै मदि॒तोऽप॑रो जनि॒ष्यते॒ स इ॒दम् भ॑विष्य॒ती"ति॒ , तस्या॑ अनु॒मृश्य॒ योनि॒म् आच्छि॑न॒त् , सा सू॒तव॑शाभव॒त् तत् सू॒तव॑शायै॒ जन्म॑ । [22]  
-</details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -524,18 +837,6 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 सोमन्यत पुनरपि मिथुनीभवन्तौ तौ दृष्ट्वा इन्द्रोचिन्तयत् यो मत्तोप्यपरः इतो जनिष्यते स इदं भविष्यति । तस्मान्मत्तोपरो यथाऽस्या न जनिष्यते तथा कर्तव्यमिति सोनुमृश्य विचार्य तस्या योनिमाच्छिनत् सा सूतवशाऽभवत् सकृत्प्रसूता वन्ध्याऽभवत् । सूतेन कृता वशा सूतवशा, सूत्या कृतं वशात्वमिति कृत्वा तृतीयापूर्वपदप्रकृतिस्वरत्वम् । तदिदं सूतवशायै जन्म । षष्ठ्यर्थे चतुर्थी ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ताँ हस्ते॒ न्य॑वेष्टयत॒ । ताम् मृ॒गेषु॒ न्य॑दधा॒त्
-सा कृ॑ष्णविषा॒णाभ॑व॒द् , इन्द्र॑स्य॒ योनि॑रसि॒ , मा मा॑ हिँसी॒रिति॑ कृष्णविषा॒णाम् प्र य॑च्छति ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-ताँ हस्ते॒ न्य॑वेष्टयत॒ । ताम् मृ॒गेषु॒ न्य॑दधा॒त्
-सा कृ॑ष्णविषा॒णाभ॑व॒द् , इन्द्र॑स्य॒ योनि॑रसि॒ , मा मा॑ हिँसी॒रिति॑ कृष्णविषा॒णाम् प्र य॑च्छति ।
-</details>
-
 <details><summary>पद-पाठः</summary>
 
 ताम् । हस्ते॑ । नीति॑ । अ॒वे॒ष्ट॒य॒त॒ ।  
@@ -544,7 +845,6 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 मा । मा॒ । हिँ॒सीः॒ । इति॑ ।  
 कृ॒ष्ण॒वि॒षा॒णामिति॑ कृष्ण-वि॒षा॒णाम् । प्रेति॑ । य॒च्छ॒ति॒ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -559,6 +859,11 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सयो॑निमे॒व य॒ज्ञङ्क॑रोति॒ , सयो॑नि॒न् दक्षि॑णाँ॒ , सयो॑नि॒म् इन्द्रँ॑ सयोनि॒त्वाय॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Verily he makes the sacrifice united with the womb, the gift with the womb, Indra with the womb, for union with the womb.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -588,6 +893,11 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 कृ॒ष्यै त्वा॑ सुस॒स्याया॒ इत्या॑ह॒ - तस्मा॑द् अकृष्टप॒च्या ओष॑धयᳶ पच्यन्ते ।
 </details>
 
+<details><summary>Keith</summary>
+
+'For ploughing thee, for good crops', he says. Therefore plants grow up without ploughing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृ॒ष्यै त्वा॑ सुस॒स्याया॒ इत्या॑ह॒ - तस्मा॑द् अकृष्टप॒च्या ओष॑धयᳶ पच्यन्ते ।
@@ -612,6 +922,11 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु॒पि॒प्प॒लाभ्य॒॑स् त्वौष॑धीभ्य॒ इत्या॑ह॒ , तस्मा॒द् ओष॑धय॒ᳶ फल॑ङ् गृह्णन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+'For those of good fruits thee, for the plants', he says. Therefore plants bear fruit.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -639,28 +954,31 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्धस्ते॑न क॒ण्डू॒येत॑ पामन॒म् भावु॑काᳶ प्र॒जास् स्यु॒र् यत् स्मये॑त नग्न॒म् भावु॑काः ।  
-कृ॒ष्ण॒वि॒षा॒णया॑ कण्डूयत ,+ ऽपि॒गृह्य॑ स्मयते प्र॒जाना॑ङ् गोपी॒थाय ।
+</details>
+
+<details><summary>Keith</summary>
+
+If he were to scratch himself with his hand [7] his offspring would be liable to the itch; if he were to smile, they would become naked.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद्धस्ते॑न क॒ण्डू॒येत॑ पामन॒म् भावु॑काᳶ प्र॒जास् स्यु॒र् यत् स्मये॑त नग्न॒म् भावु॑काः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कृ॒ष्ण॒वि॒षा॒णया॑ कण्डूयत ,+ ऽपि॒गृह्य॑ स्मयते प्र॒जाना॑ङ् गोपी॒थाय ।
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Keith</summary>
 
-यत् । हस्ते॑न । [23]  क॒ण्डू॒येत॑ । पा॒म॒न॒म्भावु॑का॒ इति॑ पामनम्-भावु॑काः । प्र॒जा इति॑ प्र-जाः । स्युः॒ । यत् । स्मये॑त । न॒ग्न॒म्भावु॑का॒ इति॑ नग्नम्-भावु॑काः ।  
-
-कृ॒ष्ण॒वि॒षा॒णयेति॑ कृष्ण-वि॒षा॒णया॑ । क॒ण्डू॒य॒ते॒ । अ॒पि॒गृह्येत्य॑पि-गृह्य॑ । स्म॒य॒ते॒ । प्र॒जाना॒मिति॑ प्र-जाना॑म् । गो॒पी॒थाय॑ ।
-
+He scratches himself with the horn of the black antelope and smiles, holding it for the protection of his offspring.
 </details>
 
+<details><summary>मूलम्</summary>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-19यद्धस्तेनेत्यादि ॥ पामनंभावुकाः पामान्यासां सन्तीति पामनाः, पामादित्वान्नप्रत्ययः, पामना भवन्तीति पामनंभावुकाः । 'कर्तरि भुवः खिष्णुच्खुखञौ' इति व्यत्ययेन पामनेऽपि भवति, 'खित्यनव्ययस्य' इति मुम्, कृदुत्तरपदप्रकृतिस्वरत्वम् । यत्स्मयेत हसेत् नग्नंभावुकाः प्रजास्स्युरित्येव । नग्ना भवन्ति ताच्छील्येनेति नग्नंभावुकाः, पूर्ववत्प्रत्ययादि । तस्मात् कृष्णविषाणया कण्डूयते, न हस्तेन । अपिगृह्य स्मयते अपिधाय मुखं
-स्मयते चेति विधिः । गोपीथाय रक्षणार्थम् । 'निशीथगोपीथावसथाः' इति निपात्यते ।
+कृ॒ष्ण॒वि॒षा॒णया॑ कण्डूयत ,+ ऽपि॒गृह्य॑ स्मयते प्र॒जाना॑ङ् गोपी॒थाय ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -668,9 +986,27 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 न पु॒रा दक्षि॑णाभ्यो॒ नेतोः॑ कृष्णविषा॒णामव॑ चृते॒द्, यत् पु॒रा दक्षि॑णाभ्यो॒ नेतोः॑ कृष्णविषा॒णाम् अ॑वचृ॒तेद्, योनि॑ᳶ प्र॒जाना॑म् परा॒पातु॑का स्यात् ।
 </details>
 
+<details><summary>Keith</summary>
+
+He should not let go the horn of the black antelope before the bringing of the gifts (to the priests). If he were to let go the horn of the black antelope before the bringing of the gifts, the womb of his offspring will be liable to miscarriage.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न पु॒रा दक्षि॑णाभ्यो॒ नेतोः॑ कृष्णविषा॒णामव॑ चृते॒द्, यत् पु॒रा दक्षि॑णाभ्यो॒ नेतोः॑ कृष्णविषा॒णाम् अ॑वचृ॒तेद्, योनि॑ᳶ प्र॒जाना॑म् परा॒पातु॑का स्यात् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । हस्ते॑न । [23]  क॒ण्डू॒येत॑ । पा॒म॒न॒म्भावु॑का॒ इति॑ पामनम्-भावु॑काः । प्र॒जा इति॑ प्र-जाः । स्युः॒ । यत् । स्मये॑त । न॒ग्न॒म्भावु॑का॒ इति॑ नग्नम्-भावु॑काः ।  
+
+कृ॒ष्ण॒वि॒षा॒णयेति॑ कृष्ण-वि॒षा॒णया॑ । क॒ण्डू॒य॒ते॒ । अ॒पि॒गृह्येत्य॑पि-गृह्य॑ । स्म॒य॒ते॒ । प्र॒जाना॒मिति॑ प्र-जाना॑म् । गो॒पी॒थाय॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+19यद्धस्तेनेत्यादि ॥ पामनंभावुकाः पामान्यासां सन्तीति पामनाः, पामादित्वान्नप्रत्ययः, पामना भवन्तीति पामनंभावुकाः । 'कर्तरि भुवः खिष्णुच्खुखञौ' इति व्यत्ययेन पामनेऽपि भवति, 'खित्यनव्ययस्य' इति मुम्, कृदुत्तरपदप्रकृतिस्वरत्वम् । यत्स्मयेत हसेत् नग्नंभावुकाः प्रजास्स्युरित्येव । नग्ना भवन्ति ताच्छील्येनेति नग्नंभावुकाः, पूर्ववत्प्रत्ययादि । तस्मात् कृष्णविषाणया कण्डूयते, न हस्तेन । अपिगृह्य स्मयते अपिधाय मुखं
+स्मयते चेति विधिः । गोपीथाय रक्षणार्थम् । 'निशीथगोपीथावसथाः' इति निपात्यते ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -691,12 +1027,30 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नी॒तासु॒ दक्षि॑णासु॒ चात्वा॑ले कृष्णविषा॒णाम् प्रास्य॑ति ।
-योनि॒र्वै य॒ज्ञस्य॒ चात्वा॑लय्ँ॒ योनि॑ᳵ कृष्णविषा॒णा । योना॑व् ए॒व योनि॑न् दधाति , य॒ज्ञस्य॑ सयोनि॒त्वाय॑ ॥ [24]  
+</details>
+
+<details><summary>Keith</summary>
+
+When the gifts have been brought, he casts away the horn of the black antelope in the pit.
 </details>
 
 <details><summary>मूलम्</summary>
 
 नी॒तासु॒ दक्षि॑णासु॒ चात्वा॑ले कृष्णविषा॒णाम् प्रास्य॑ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+योनि॒र्वै य॒ज्ञस्य॒ चात्वा॑लय्ँ॒ योनि॑ᳵ कृष्णविषा॒णा । योना॑व् ए॒व योनि॑न् दधाति , य॒ज्ञस्य॑ सयोनि॒त्वाय॑ ॥ [24]  
+</details>
+
+<details><summary>Keith</summary>
+
+The pit is the womb of the sacrificer; the horn of the black antelope is the womb; verily he places womb in womb, that the sacrificer may have a womb.
+</details>
+
+<details><summary>मूलम्</summary>
+
 योनि॒र्वै य॒ज्ञस्य॒ चात्वा॑लय्ँ॒ योनि॑ᳵ कृष्णविषा॒णा । योना॑व् ए॒व योनि॑न् दधाति , य॒ज्ञस्य॑ सयोनि॒त्वाय॑ ॥ [24]  
 </details>
 
@@ -713,3 +1067,4 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 
 इति षष्ठे प्रथमे तृतीयोनुवाकः ॥  
 </details>
+

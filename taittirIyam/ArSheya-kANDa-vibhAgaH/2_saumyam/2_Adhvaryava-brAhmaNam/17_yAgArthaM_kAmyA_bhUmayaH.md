@@ -1,9 +1,9 @@
 +++
 title = "१७ यागार्थं काम्या भूमयः"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/2/06_yAgArthaM_kAmyA_bhUmayaH">
-<details open><summary><h1>०६ यागार्थं काम्या भूमयः ...{Loading}...</h1></summary>
+
+<details open><summary><h1>०६ यागार्थं काम्या भूमयः …{Loading}…</h1></summary>
 
 सोमऋषिः
 
@@ -15,21 +15,59 @@ title = "१७ यागार्थं काम्या भूमयः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु॒रोह॑विषि देव॒यज॑ने याजये॒द् यङ् का॒मये॑त ।  
+</details>
 
-उपै॑न॒मुत्त॑रो य॒ज्ञो न॑मेद् अ॒भि सु॑व॒र्गल्ँ लो॒कञ् ज॑ये॒दिति॑ ।  
+<details><summary>Keith</summary>
 
-ए॒तद् वै पु॒रोह॑विर् देव॒यज॑नय्ँ॒ यस्य॒ होता॑ प्रातरनुवा॒कम॑नुब्रु॒वन्न् अ॒ग्निम् अ॒प आ॑दि॒त्यम॒भि वि॒पश्य॑ति ।  
-
-उपै॑न॒मुत्त॑रो य॒ज्ञो न॑मत्य॒भि सु॑व॒र्गल्ँ लो॒कञ् ज॑यति ।  
+On a place of sacrifice where the sacrifice faces the east should he make him to sacrifice for whom he wishes,
 </details>
 
 <details><summary>मूलम्</summary>
 
 पु॒रोह॑विषि देव॒यज॑ने याजये॒द् यङ् का॒मये॑त ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपै॑न॒मुत्त॑रो य॒ज्ञो न॑मेद् अ॒भि सु॑व॒र्गल्ँ लो॒कञ् ज॑ये॒दिति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'May the higher sacrifice condescend to him,
+</details>
+
+<details><summary>मूलम्</summary>
+
+उपै॑न॒मुत्त॑रो य॒ज्ञो न॑मेद् अ॒भि सु॑व॒र्गल्ँ लो॒कञ् ज॑ये॒दिति॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒तद् वै पु॒रोह॑विर् देव॒यज॑नय्ँ॒ यस्य॒ होता॑ प्रातरनुवा॒कम॑नुब्रु॒वन्न् अ॒ग्निम् अ॒प आ॑दि॒त्यम॒भि वि॒पश्य॑ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+may he gain the world of heaven.' That is the place of sacrifice where the sacrifice faces the east, where the Hotr as be recites the Prataranuvaka gazes upon the fire, water, and the sun.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒तद् वै पु॒रोह॑विर् देव॒यज॑नय्ँ॒ यस्य॒ होता॑ प्रातरनुवा॒कम॑नुब्रु॒वन्न् अ॒ग्निम् अ॒प आ॑दि॒त्यम॒भि वि॒पश्य॑ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपै॑न॒मुत्त॑रो य॒ज्ञो न॑मत्य॒भि सु॑व॒र्गल्ँ लो॒कञ् ज॑यति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+To him the higher sacrifice condescends, he gains the world of heaven.
+</details>
+
+<details><summary>मूलम्</summary>
 
 उपै॑न॒मुत्त॑रो य॒ज्ञो न॑मत्य॒भि सु॑व॒र्गल्ँ लो॒कञ् ज॑यति ।  
 </details>
@@ -60,18 +98,75 @@ title = "१७ यागार्थं काम्या भूमयः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒प्ते दे॑व॒यज॑ने याजये॒द् भ्रातृ॑व्यवन्तम् ।  
-पन्थाव्ँ॑ वाधिस्प॒र्शये॑त् क॒र्तव्ँ वा ।
-या॒व॒न्नान॑से॒ यात॒वै न रथा॑य [30] ।
-ए॒तद्वा आ॒प्तन् दे॑व॒यज॑नम् ।
-आ॒प्नोत्ये॒व भ्रातृ॑व्य॒न् नैन॒म् भ्रातृ॑व्य आप्नोति ।
+</details>
+
+<details><summary>Keith</summary>
+
+On a contiguous (aptá) place of sacrifice should he make him to sacrifice who has foes.
 </details>
 
 <details><summary>मूलम्</summary>
 
 आ॒प्ते दे॑व॒यज॑ने याजये॒द् भ्रातृ॑व्यवन्तम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पन्थाव्ँ॑ वाधिस्प॒र्शये॑त् क॒र्तव्ँ वा ।
+</details>
+
+<details><summary>Keith</summary>
+
+He should make it touch the road or a pit so that neither a wagon nor a chariot can go between [1].
+</details>
+
+<details><summary>मूलम्</summary>
+
+पन्थाव्ँ॑ वाधिस्प॒र्शये॑त् क॒र्तव्ँ वा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 या॒व॒न्नान॑से॒ यात॒वै न रथा॑य [30] ।
+</details>
+
+<details><summary>Keith</summary>
+
+That is a contiguous place of sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
+या॒व॒न्नान॑से॒ यात॒वै न रथा॑य [30] ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ए॒तद्वा आ॒प्तन् दे॑व॒यज॑नम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+He conquers (apnoti) his foe,
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒तद्वा आ॒प्तन् दे॑व॒यज॑नम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒प्नोत्ये॒व भ्रातृ॑व्य॒न् नैन॒म् भ्रातृ॑व्य आप्नोति ।
+</details>
+
+<details><summary>Keith</summary>
+
+his foe conquers him not.
+</details>
+
+<details><summary>मूलम्</summary>
+
 आ॒प्नोत्ये॒व भ्रातृ॑व्य॒न् नैन॒म् भ्रातृ॑व्य आप्नोति ।
 </details>
 
@@ -101,18 +196,75 @@ title = "१७ यागार्थं काम्या भूमयः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एको॑न्नते देव॒यज॑ने याजयेत् प॒शुका॑मम् ।  
-एको॑न्नता॒द् वै दे॑व॒यज॑ना॒दङ्गि॑रसᳶ प॒शून् अ॑सृजन्त ।  
-अ॒न्त॒रा स॑दोहविर्धा॒ने उ॑न्न॒तँ स्या॑त् ।  
-ए॒तद्वा एको॑न्नतन् देव॒यज॑नम् ।
-प॒शु॒माने॒व भ॑वति ।
+</details>
+
+<details><summary>Keith</summary>
+
+On a place of sacrifice which is elevated in one place he should make him to sacrifice who desires cattle.
 </details>
 
 <details><summary>मूलम्</summary>
 
 एको॑न्नते देव॒यज॑ने याजयेत् प॒शुका॑मम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एको॑न्नता॒द् वै दे॑व॒यज॑ना॒दङ्गि॑रसᳶ प॒शून् अ॑सृजन्त ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The Angirases produced cattle from a place of sacrifice elevated in one place.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एको॑न्नता॒द् वै दे॑व॒यज॑ना॒दङ्गि॑रसᳶ प॒शून् अ॑सृजन्त ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒न्त॒रा स॑दोहविर्धा॒ने उ॑न्न॒तँ स्या॑त् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+It should be elevated between the seat and the oblation-holders.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒न्त॒रा स॑दोहविर्धा॒ने उ॑न्न॒तँ स्या॑त् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ए॒तद्वा एको॑न्नतन् देव॒यज॑नम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+That is a place of sacrifice elevated in one place;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒तद्वा एको॑न्नतन् देव॒यज॑नम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प॒शु॒माने॒व भ॑वति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he becomes possessed of cattle.
+</details>
+
+<details><summary>मूलम्</summary>
+
 प॒शु॒माने॒व भ॑वति ।
 </details>
 
@@ -143,22 +295,105 @@ title = "१७ यागार्थं काम्या भूमयः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र्यु॑न्नते देव॒यज॑ने याजयेत् सुव॒र्गका॑मम् ।  
-त्र्यु॑न्नता॒द् वै दे॑व॒यज॑ना॒दङ्गि॑रसस् सुव॒र्गल्ँ लो॒कमा॑यन् ।  
-अ॒न्त॒राऽऽह॑व॒नीय॑ञ् च हवि॒र्धान॑ञ् च + उ॒न्न॒तँ स्या॑द् ,  
-अन्त॒रा ह॑वि॒र्धान॑ञ् च॒ , सद॑श्चान्त॒रा सद॑श्च॒ गार्ह॑पत्यञ् च ।  
-ए॒तद् वै त्र्यु॑न्नतन् देव॒यज॑नँ सुव॒र्गमे॒व लो॒कमे॑ति ।  
-प्रति॑ष्ठिते देव॒यज॑ने याजयेत् प्रति॒ष्ठाका॑मम् ।  
-ए॒तद्वै प्रति॑ष्ठितन् देव॒यज॑नय्ँ॒ यत् स॒र्वत॑स् स॒मम्प्रत्ये॒व ति॑ष्ठति ।
+</details>
+
+<details><summary>Keith</summary>
+
+On a place of sacrifice which is elevated in three places should he make him to sacrifice who desires heaven.
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्र्यु॑न्नते देव॒यज॑ने याजयेत् सुव॒र्गका॑मम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 त्र्यु॑न्नता॒द् वै दे॑व॒यज॑ना॒दङ्गि॑रसस् सुव॒र्गल्ँ लो॒कमा॑यन् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The Angirases went to the world of heaven from a place of sacrifice elevated in three places.
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्र्यु॑न्नता॒द् वै दे॑व॒यज॑ना॒दङ्गि॑रसस् सुव॒र्गल्ँ लो॒कमा॑यन् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒न्त॒राऽऽह॑व॒नीय॑ञ् च हवि॒र्धान॑ञ् च + उ॒न्न॒तँ स्या॑द् ,  
+</details>
+
+<details><summary>Keith</summary>
+
+It should be elevated between the Ahavaniya fire and the oblation holder [2],
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒न्त॒राऽऽह॑व॒नीय॑ञ् च हवि॒र्धान॑ञ् च + उ॒न्न॒तँ स्या॑द् ,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अन्त॒रा ह॑वि॒र्धान॑ञ् च॒ , सद॑श्चान्त॒रा सद॑श्च॒ गार्ह॑पत्यञ् च ।  
+</details>
+
+<details><summary>Keith</summary>
+
+between the oblation-holder and the seat, and between the seat and the Garhapatya fire.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्त॒रा ह॑वि॒र्धान॑ञ् च॒ , सद॑श्चान्त॒रा सद॑श्च॒ गार्ह॑पत्यञ् च ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ए॒तद् वै त्र्यु॑न्नतन् देव॒यज॑नँ सुव॒र्गमे॒व लो॒कमे॑ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+That is a place of sacrifice elevated in three places; verily he goes to the world of heaven.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒तद् वै त्र्यु॑न्नतन् देव॒यज॑नँ सुव॒र्गमे॒व लो॒कमे॑ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रति॑ष्ठिते देव॒यज॑ने याजयेत् प्रति॒ष्ठाका॑मम् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+On a place of sacrifice which is firm should he make him to sacrifice who desires support.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रति॑ष्ठिते देव॒यज॑ने याजयेत् प्रति॒ष्ठाका॑मम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ए॒तद्वै प्रति॑ष्ठितन् देव॒यज॑नय्ँ॒ यत् स॒र्वत॑स् स॒मम्प्रत्ये॒व ति॑ष्ठति ।
+</details>
+
+<details><summary>Keith</summary>
+
+That is a place of sacrifice which is firm, which is level on all sides; verily he finds, support.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ए॒तद्वै प्रति॑ष्ठितन् देव॒यज॑नय्ँ॒ यत् स॒र्वत॑स् स॒मम्प्रत्ये॒व ति॑ष्ठति ।
 </details>
 
@@ -179,7 +414,6 @@ title = "१७ यागार्थं काम्या भूमयः"
 प्रति॑ष्ठित॒ इति॒ प्रति॑-स्थि॒ते॒ । दे॒व॒यज॑न॒ इति॑ देव-यज॑ने । या॒ज॒ये॒त् । प्र॒ति॒ष्ठाका॑म॒मिति॑ प्रति॒ष्ठा-का॒म॒म् ।   
 
 ए॒तत् । वै । प्रति॑ष्ठित॒मिति॒ प्रति॑-स्थि॒त॒म् । दे॒व॒यज॑न॒मिति॑ देव-यज॑नम् । यत् । स॒र्वतः॑ । स॒मम् । प्रतीति॑ । ए॒व । ति॒ष्ठ॒ति॒ ।  
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -196,14 +430,45 @@ title = "१७ यागार्थं काम्या भूमयः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्रा॒न्याअ॑न्या॒ ओष॑धयो॒ व्यति॑षक्ता॒स्स्युस्तद्या॑जयेत्प॒शुका॑मम् ।  
-ए॒तद्वै प॑शू॒नाँ रू॒पम् ।  
-रू॒पेणै॒वास्मै॑ प॒शून् अव॑ रुन्धे ।[32] प॒शु॒मान् ए॒व भ॑वति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Where diverse plants are intertwined, there should he make him sacrifice who desires cattle.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यत्रा॒न्याअ॑न्या॒ ओष॑धयो॒ व्यति॑षक्ता॒स्स्युस्तद्या॑जयेत्प॒शुका॑मम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ए॒तद्वै प॑शू॒नाँ रू॒पम् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+That is the form of cattle;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒तद्वै प॑शू॒नाँ रू॒पम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रू॒पेणै॒वास्मै॑ प॒शून् अव॑ रुन्धे ।[32] प॒शु॒मान् ए॒व भ॑वति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily by the form he wins cattle for him [3]; verily be becomes possessed of cattle.
+</details>
+
+<details><summary>मूलम्</summary>
+
 रू॒पेणै॒वास्मै॑ प॒शून् अव॑ रुन्धे ।[32] प॒शु॒मान् ए॒व भ॑वति ।  
 </details>
 
@@ -228,16 +493,60 @@ title = "१७ यागार्थं काम्या भूमयः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्ऋ॑तिगृहीते देव॒यज॑ने याजये॒द्यङ्का॒मये॑त ।  
-निर्ऋ॑त्याऽस्य य॒ज्ञङ् ग्रा॑हयेय॒मिति॑ ।  
-ए॒तद् वै निर्ऋ॑तिगृहीतन् देव॒यज॑नय्ँ॒ , यत् स॒दृश्यै॑ स॒त्या॑ ऋ॒क्षम् ।  
-निर्ऋ॑त्यै॒वास्य॑ य॒ज्ञङ् ग्रा॑हयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+On a place of sacrifice seized by destruction should he make him to sacrifice for whom he desires,
 </details>
 
 <details><summary>मूलम्</summary>
 
 निर्ऋ॑तिगृहीते देव॒यज॑ने याजये॒द्यङ्का॒मये॑त ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 निर्ऋ॑त्याऽस्य य॒ज्ञङ् ग्रा॑हयेय॒मिति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'May I cause his sacrifice to be seized by destruction.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+निर्ऋ॑त्याऽस्य य॒ज्ञङ् ग्रा॑हयेय॒मिति॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ए॒तद् वै निर्ऋ॑तिगृहीतन् देव॒यज॑नय्ँ॒ , यत् स॒दृश्यै॑ स॒त्या॑ ऋ॒क्षम् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+That is a place of sacrifice seized by destruction where there is a bare patch of level ground;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒तद् वै निर्ऋ॑तिगृहीतन् देव॒यज॑नय्ँ॒ , यत् स॒दृश्यै॑ स॒त्या॑ ऋ॒क्षम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्ऋ॑त्यै॒वास्य॑ य॒ज्ञङ् ग्रा॑हयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he causes his sacrifice to be seized by destruction.
+</details>
+
+<details><summary>मूलम्</summary>
+
 निर्ऋ॑त्यै॒वास्य॑ य॒ज्ञङ् ग्रा॑हयति ।
 </details>
 
@@ -262,14 +571,45 @@ title = "१७ यागार्थं काम्या भूमयः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यावृ॑त्ते देव॒यज॑ने याजयेद्व्या॒वृत्का॑मय्ँ॒यम्पात्रे॑ वा॒ तल्पे॑ वा॒ मीमाँ॑सेरन् ।  
-प्रा॒चीन॑माहव॒नीया॑त् प्रव॒णँ स्या॑त् प्रती॒चीन॒ङ् गार्ह॑पत्याद् ए॒तद्वै व्यावृ॑त्तन् देव॒यज॑नम् ।  
-वि पा॒प्मना॒ भ्रातृ॑व्ये॒णाऽऽ व॑र्तते॒ नैन॒म्पात्रे॒ न तल्पे॑ मीमाँसन्ते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+On a place of sacrifice which is distinctly marked should he cause him to sacrifice regarding whom they have doubts as to (admitting him to) common meals or to marriage.
 </details>
 
 <details><summary>मूलम्</summary>
 
 व्यावृ॑त्ते देव॒यज॑ने याजयेद्व्या॒वृत्का॑मय्ँ॒यम्पात्रे॑ वा॒ तल्पे॑ वा॒ मीमाँ॑सेरन् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रा॒चीन॑माहव॒नीया॑त् प्रव॒णँ स्या॑त् प्रती॒चीन॒ङ् गार्ह॑पत्याद् ए॒तद्वै व्यावृ॑त्तन् देव॒यज॑नम् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+It should be sloping east of the Ahavaniya and west of the Garhapatya.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रा॒चीन॑माहव॒नीया॑त् प्रव॒णँ स्या॑त् प्रती॒चीन॒ङ् गार्ह॑पत्याद् ए॒तद्वै व्यावृ॑त्तन् देव॒यज॑नम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वि पा॒प्मना॒ भ्रातृ॑व्ये॒णाऽऽ व॑र्तते॒ नैन॒म्पात्रे॒ न तल्पे॑ मीमाँसन्ते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+That is a place of sacrifice which is distinctly marked, be is distinguished from his evil foe, they doubt not of him for common meal or wedding.
+</details>
+
+<details><summary>मूलम्</summary>
+
 वि पा॒प्मना॒ भ्रातृ॑व्ये॒णाऽऽ व॑र्तते॒ नैन॒म्पात्रे॒ न तल्पे॑ मीमाँसन्ते ।  
 </details>
 
@@ -296,12 +636,30 @@ title = "१७ यागार्थं काम्या भूमयः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 का॒र्ये॑ देव॒यज॑ने याजये॒द् भूति॑कामम् ।  
-का॒र्यो॑ वै पुरु॑षो॒ , भव॑त्ये॒व ॥ [33]  
+</details>
+
+<details><summary>Keith</summary>
+
+On a place of sacrifice which is artificial should he make him sacrifice who desires wealth.
 </details>
 
 <details><summary>मूलम्</summary>
 
 का॒र्ये॑ देव॒यज॑ने याजये॒द् भूति॑कामम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+का॒र्यो॑ वै पुरु॑षो॒ , भव॑त्ये॒व ॥ [33]  
+</details>
+
+<details><summary>Keith</summary>
+
+Man must be made; verily he prospers.
+</details>
+
+<details><summary>मूलम्</summary>
+
 का॒र्यो॑ वै पुरु॑षो॒ , भव॑त्ये॒व ॥ [33]  
 </details>
 
@@ -318,4 +676,5 @@ title = "१७ यागार्थं काम्या भूमयः"
 इति षष्ठे द्वितीये षष्ठोनुवाकः ॥  
 </details>
 </details>
+
 </div>

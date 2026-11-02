@@ -13,16 +13,60 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वा॒सु॒रास्सय्ँय॑त्ता आसन् ।  
-ते दे॒वा मि॒थो विप्रि॑या आसन् ।  
-ते३॒॑ऽन्यो॑न्यस्मै॒ ज्यैष्ठ्या॒याति॑ष्ठमानाᳶ पञ्च॒धा व्य॑क्रामन्न् -  
-अ॒ग्निर् वसु॑भि॒स् , सोमो॑ रु॒द्रैर् - इन्द्रो॑ म॒रुद्भि॒र् , वरु॑ण आदि॒त्यैर् , बृह॒स्पति॒र् विश्वै॑र्दे॒वैः ।
+</details>
+
+<details><summary>Keith</summary>
+
+The gods and the Asuras were in conflict.
 </details>
 
 <details><summary>मूलम्</summary>
 
 दे॒वा॒सु॒रास्सय्ँय॑त्ता आसन् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ते दे॒वा मि॒थो विप्रि॑या आसन् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The gods fell out among themselves.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ते दे॒वा मि॒थो विप्रि॑या आसन् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ते३॒॑ऽन्यो॑न्यस्मै॒ ज्यैष्ठ्या॒याति॑ष्ठमानाᳶ पञ्च॒धा व्य॑क्रामन्न् -  
+</details>
+
+<details><summary>Keith</summary>
+
+Being unwilling to accept one another's pre-eminence, they separated in five bodies,
+</details>
+
+<details><summary>मूलम्</summary>
+
+ते३॒॑ऽन्यो॑न्यस्मै॒ ज्यैष्ठ्या॒याति॑ष्ठमानाᳶ पञ्च॒धा व्य॑क्रामन्न् -  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒ग्निर् वसु॑भि॒स् , सोमो॑ रु॒द्रैर् - इन्द्रो॑ म॒रुद्भि॒र् , वरु॑ण आदि॒त्यैर् , बृह॒स्पति॒र् विश्वै॑र्दे॒वैः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Agni with the Vasus, Soma with the Rudras, Indra with the Maruts, Varuna with the Adityas, Brhaspati with the All-gods.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अ॒ग्निर् वसु॑भि॒स् , सोमो॑ रु॒द्रैर् - इन्द्रो॑ म॒रुद्भि॒र् , वरु॑ण आदि॒त्यैर् , बृह॒स्पति॒र् विश्वै॑र्दे॒वैः ।
 </details>
 
@@ -33,7 +77,6 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 ते । दे॒वाः । मि॒थः । विप्रि॑या॒ इति॒ वि-प्रि॒याः॒ । आ॒स॒न् ।   
 
 ते । अ॒न्यः । अ॒न्यस्मै॑ । ज्यैष्ठ्या॑य । अति॑ष्ठमानाः । प॒ञ्च॒धेति॑ पञ्च-धा । वीति॑ । अ॒क्रा॒म॒न् । अ॒ग्निः । वसु॑भि॒रिति॒ वसु॑-भिः॒ । सोमः॑ । रु॒द्रैः । इन्द्रः॑ । म॒रुद्भि॒रिति॑ म॒रुत्-भिः॒ । वरु॑णः । आ॒दि॒त्यैः । बृह॒स्पतिः॑ । विश्वैः॑ । दे॒वैः । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -50,20 +93,90 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते॑ऽमन्य॒न्त -  
-असु॑रेभ्यो॒ वा इ॒दम् भ्रातृ॑व्येभ्यो रध्यामो॒ यन्मि॒थो विप्रि॑या॒स् स्मो ,
-या न॑ इ॒माᳶ प्रि॒यास् त॒नुव॒स् तास् स॒मव॑द्यामहै॒ ,   
-ताभ्य॒स् स निर्ऋ॑च्छा॒द् ,
-यो न॒ᳶ प्र॒थ॒मो३॒॑ऽन्यो॑न्यस्मै॒ द्रुह्या॒दिति॑ ।[8]  
-तस्मा॒द् यस् सता॑नूनप्त्रिणाम् प्रथ॒मो द्रुह्य॑ति॒ स आर्ति॒मार्च्छ॑ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+They reflected,
 </details>
 
 <details><summary>मूलम्</summary>
 
 ते॑ऽमन्य॒न्त -  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 असु॑रेभ्यो॒ वा इ॒दम् भ्रातृ॑व्येभ्यो रध्यामो॒ यन्मि॒थो विप्रि॑या॒स् स्मो ,
+</details>
+
+<details><summary>Keith</summary>
+
+'Our foes, the Asuras, we are profiting in that we are falling out among ourselves;
+</details>
+
+<details><summary>मूलम्</summary>
+
+असु॑रेभ्यो॒ वा इ॒दम् भ्रातृ॑व्येभ्यो रध्यामो॒ यन्मि॒थो विप्रि॑या॒स् स्मो ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 या न॑ इ॒माᳶ प्रि॒यास् त॒नुव॒स् तास् स॒मव॑द्यामहै॒ ,   
+</details>
+
+<details><summary>Keith</summary>
+
+let us remove (from us) and deposit together those bodies which are dear to us;
+</details>
+
+<details><summary>मूलम्</summary>
+
+या न॑ इ॒माᳶ प्रि॒यास् त॒नुव॒स् तास् स॒मव॑द्यामहै॒ ,   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ताभ्य॒स् स निर्ऋ॑च्छा॒द् ,
+</details>
+
+<details><summary>Keith</summary>
+
+from these shall he depart
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताभ्य॒स् स निर्ऋ॑च्छा॒द् ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यो न॒ᳶ प्र॒थ॒मो३॒॑ऽन्यो॑न्यस्मै॒ द्रुह्या॒दिति॑ ।[8]  
+</details>
+
+<details><summary>Keith</summary>
+
+who [1] first of us is hostile to another.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+यो न॒ᳶ प्र॒थ॒मो३॒॑ऽन्यो॑न्यस्मै॒ द्रुह्या॒दिति॑ ।[8]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॒द् यस् सता॑नूनप्त्रिणाम् प्रथ॒मो द्रुह्य॑ति॒ स आर्ति॒मार्च्छ॑ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Therefore of those who perform the Tanunaptra rite he who first is hostile goes to destruction.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॒द् यस् सता॑नूनप्त्रिणाम् प्रथ॒मो द्रुह्य॑ति॒ स आर्ति॒मार्च्छ॑ति ।
 </details>
 
@@ -75,7 +188,6 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 नः॒ । प्र॒थ॒मः । अ॒न्यः । अ॒न्यस्मै॑ । द्रुह्या॑त् । इति॑ । 
 
 तस्मा॑त् । यः । सता॑नूनप्त्रिणा॒मिति॒ स-ता॒नू॒न॒प्त्रि॒णा॒म् । प्र॒थ॒मः । द्रुह्य॑ति । सः । आर्ति॑म् । एति॑ । ऋ॒च्छ॒ति॒ ।
-
 </details>
 
 
@@ -93,14 +205,45 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् ता॑नून॒प्त्रँ स॑मव॒द्यति॒ भ्रातृ॑व्याभिभूत्यै ।  
-भव॑त्या॒त्मना॑ ।  
-परा॑स्य॒ भ्रातृ॑व्यो भवति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+In that he divides up the Tanunaptra, (it serves) for the overcoming of the foe;
 </details>
 
 <details><summary>मूलम्</summary>
 
 यत् ता॑नून॒प्त्रँ स॑मव॒द्यति॒ भ्रातृ॑व्याभिभूत्यै ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भव॑त्या॒त्मना॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he himself prospers,
+</details>
+
+<details><summary>मूलम्</summary>
+
+भव॑त्या॒त्मना॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परा॑स्य॒ भ्रातृ॑व्यो भवति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+his foe is defeated.
+</details>
+
+<details><summary>मूलम्</summary>
+
 परा॑स्य॒ भ्रातृ॑व्यो भवति ।  
 </details>
 
@@ -126,14 +269,45 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च॒ कृत्वोऽव॑ द्यति । प॒ञ्च॒धा हि ते तत्स॑म॒वाद्य॑न्त ।  
-अथो॒ पञ्चा॑क्षरा प॒ङ्क्तिः । पाङ्क्तो॑ य॒ज्ञः ।  
-य॒ज्ञमे॒वाव॑ रुन्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+He divides five times; for five times did they divide.
 </details>
 
 <details><summary>मूलम्</summary>
 
 पञ्च॒ कृत्वोऽव॑ द्यति । प॒ञ्च॒धा हि ते तत्स॑म॒वाद्य॑न्त ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अथो॒ पञ्चा॑क्षरा प॒ङ्क्तिः । पाङ्क्तो॑ य॒ज्ञः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Then again the Pankti has five syllables, the sacrifice is fivefold;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथो॒ पञ्चा॑क्षरा प॒ङ्क्तिः । पाङ्क्तो॑ य॒ज्ञः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य॒ज्ञमे॒वाव॑ रुन्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he wins the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 य॒ज्ञमे॒वाव॑ रुन्धे ।
 </details>
 
@@ -161,22 +335,105 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "आप॑तये त्वा गृह्णा॒मी"त्या॑ह ।
-प्रा॒णो वै आप॑तिः [9]। प्रा॒णमे॒व प्री॑णाति ।  
-"परि॑पतय॒" इत्या॑ह । मनो॒ वै परि॑पतिः ।  
-मन॑ ए॒व प्री॑णाति ।  
-"तनू॒नप्त्र॒" इत्या॑ह । त॒नुवो॒ हि ते तास् स॑म॒वाद्य॑न्त ।  
-"शा॒क्व॒राये"त्या॑ह । शक्त्यै॒ हि ते तास् स॑म॒वाद्य॑न्त ।  
-"शक्म॒॑न्न् ओजि॑ष्ठा॒ये"त्या॑ह । ओजि॑ष्ठँ॒ हि ते तदा॒त्मन॑स् सम॒वाद्य॑न्त ।
+</details>
+
+<details><summary>Keith</summary>
+
+'For him who rusheth on I seize thee', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 "आप॑तये त्वा गृह्णा॒मी"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रा॒णो वै आप॑तिः [9]। प्रा॒णमे॒व प्री॑णाति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he who rushes on is the breath [2]; verily he delights the breath.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रा॒णो वै आप॑तिः [9]। प्रा॒णमे॒व प्री॑णाति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "परि॑पतय॒" इत्या॑ह । मनो॒ वै परि॑पतिः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'For him who rusheth around', he says; he who rushes around is the mind;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"परि॑पतय॒" इत्या॑ह । मनो॒ वै परि॑पतिः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मन॑ ए॒व प्री॑णाति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he delights the mind.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मन॑ ए॒व प्री॑णाति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "तनू॒नप्त्र॒" इत्या॑ह । त॒नुवो॒ हि ते तास् स॑म॒वाद्य॑न्त ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'For Tanunaptra', he says; for they divided up these bodies.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"तनू॒नप्त्र॒" इत्या॑ह । त॒नुवो॒ हि ते तास् स॑म॒वाद्य॑न्त ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "शा॒क्व॒राये"त्या॑ह । शक्त्यै॒ हि ते तास् स॑म॒वाद्य॑न्त ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'For the mighty', he says; for they divided them up for strength.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"शा॒क्व॒राये"त्या॑ह । शक्त्यै॒ हि ते तास् स॑म॒वाद्य॑न्त ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"शक्म॒॑न्न् ओजि॑ष्ठा॒ये"त्या॑ह । ओजि॑ष्ठँ॒ हि ते तदा॒त्मन॑स् सम॒वाद्य॑न्त ।
+</details>
+
+<details><summary>Keith</summary>
+
+'For the greatest in strength', he says; for they divided up the greatest part of themselves.
+</details>
+
+<details><summary>मूलम्</summary>
+
 "शक्म॒॑न्न् ओजि॑ष्ठा॒ये"त्या॑ह । ओजि॑ष्ठँ॒ हि ते तदा॒त्मन॑स् सम॒वाद्य॑न्त ।
 </details>
 
@@ -198,7 +455,6 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 शक्त्यै॑ । हि । ते । ताः । स॒म॒वाद्य॒न्तेति॑ सम्-अ॒वाद्य॑न्त । 
 
 शक्म॑न् । ओजि॑ष्ठाय । इति॑ । आ॒ह॒ । ओजि॑ष्ठम् । हि । ते । तत् । आ॒त्मनः॑ । स॒म॒वाद्य॒न्तेति॑ सम्-अ॒वाद्य॑न्त । 
-
 </details>
 
 
@@ -216,20 +472,90 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अना॑धृष्टमस्य् - अनाधृ॒ष्यमित्या॑ह ।
-अना॑धृष्टँ॒ ह्ये॑तद॑नाधृ॒ष्यम् ।  
-दे॒वाना॒मोज॒  इत्या॑ह ।[10]  
-दे॒वानाँ॒ ह्ये॑तदोजः॑ ।  
-अ॒भि॒श॒स्ति॒पा अ॑नभिशस्ते॒न्यमित्या॑ह ।  
-अ॒भि॒श॒स्ति॒पा ह्य् ए॑तद॑नभिशस्ते॒न्यम् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art unsurmounted, the unsurmountable', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 अना॑धृष्टमस्य् - अनाधृ॒ष्यमित्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अना॑धृष्टँ॒ ह्ये॑तद॑नाधृ॒ष्यम् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+for that is unsurmounted and unsurmountable.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अना॑धृष्टँ॒ ह्ये॑तद॑नाधृ॒ष्यम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दे॒वाना॒मोज॒  इत्या॑ह ।[10]  
+</details>
+
+<details><summary>Keith</summary>
+
+'The force of the gods' [3], be says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+दे॒वाना॒मोज॒  इत्या॑ह ।[10]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दे॒वानाँ॒ ह्ये॑तदोजः॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+for that is the force of the gods.
+</details>
+
+<details><summary>मूलम्</summary>
+
+दे॒वानाँ॒ ह्ये॑तदोजः॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒भि॒श॒स्ति॒पा अ॑नभिशस्ते॒न्यमित्या॑ह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Guarding from imprecations, impervious to imprecations', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒भि॒श॒स्ति॒पा अ॑नभिशस्ते॒न्यमित्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒भि॒श॒स्ति॒पा ह्य् ए॑तद॑नभिशस्ते॒न्यम् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+for that guards from imprecations and is impervious to imprecations.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अ॒भि॒श॒स्ति॒पा ह्य् ए॑तद॑नभिशस्ते॒न्यम् ।  
 </details>
 
@@ -241,7 +567,6 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 दे॒वाना॑म् । हि । ए॒तत् । ओजः॑ ।  
 अ॒भि॒श॒स्ति॒पा इत्य॑भिशस्ति-पाः । अ॒न॒भि॒श॒स्ते॒न्यमित्य॑नभि-श॒स्ते॒न्यम् । इति॑ । आ॒ह॒ ।   
 अ॒भि॒श॒स्ति॒पा इत्य॑भिशस्ति-पाः । हि । ए॒तत् । अ॒न॒भि॒श॒स्ते॒न्यमित्य॑नभि-श॒स्ते॒न्यम् । 
-
 </details>
 
 
@@ -258,15 +583,32 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनु॑ मे दी॒क्षान् दी॒क्षाप॑तिर् मन्यता॒मित्या॑ह ।  
-य॒था॒य॒जुर् ए॒वैतत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+'May the lord of consecration approve my consecration', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 अनु॑ मे दी॒क्षान् दी॒क्षाप॑तिर् मन्यता॒मित्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 य॒था॒य॒जुर् ए॒वैतत् ।
 </details>
 
+<details><summary>Keith</summary>
+
+that is according to the text.
+</details>
+
+<details><summary>मूलम्</summary>
+
+य॒था॒य॒जुर् ए॒वैतत् ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -288,16 +630,60 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृ॒तव्ँ वै दे॒वा वज्र॑ङ्कृ॒त्वा सोम॑मघ्नन् ।  
-अ॒न्ति॒कमि॑व॒ खलु॒ वा अ॑स्य+ ए॒तच् च॑रन्ति॒ , यत् ता॑नून॒प्त्रेण॑ प्र॒चर॑न्ति ।  
-अँ॒शुरँ॑शुस्ते देव सो॒म + आप्या॑यता॒मित्या॑ह ।  
-यद् ए॒वास्या॑पुवा॒यते॒ यन्मीय॑ते॒ तदे॒वास्यै॒तेना प्या॑ययति ।[11]  
+</details>
+
+<details><summary>Keith</summary>
+
+The gods making the ghee a weapon smote Soma;
 </details>
 
 <details><summary>मूलम्</summary>
 
 घृ॒तव्ँ वै दे॒वा वज्र॑ङ्कृ॒त्वा सोम॑मघ्नन् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒न्ति॒कमि॑व॒ खलु॒ वा अ॑स्य+ ए॒तच् च॑रन्ति॒ , यत् ता॑नून॒प्त्रेण॑ प्र॒चर॑न्ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+now they come near the Soma as it were, when they perform the Tanunaptra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒न्ति॒कमि॑व॒ खलु॒ वा अ॑स्य+ ए॒तच् च॑रन्ति॒ , यत् ता॑नून॒प्त्रेण॑ प्र॒चर॑न्ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अँ॒शुरँ॑शुस्ते देव सो॒म + आप्या॑यता॒मित्या॑ह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'May thy every shoot, O god Soma, swell', be says.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अँ॒शुरँ॑शुस्ते देव सो॒म + आप्या॑यता॒मित्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् ए॒वास्या॑पुवा॒यते॒ यन्मीय॑ते॒ तदे॒वास्यै॒तेना प्या॑ययति ।[11]  
+</details>
+
+<details><summary>Keith</summary>
+
+Whatever [4] of it becomes spoiled' or is lost, that he purifies by it.
+</details>
+
+<details><summary>मूलम्</summary>
+
 यद् ए॒वास्या॑पुवा॒यते॒ यन्मीय॑ते॒ तदे॒वास्यै॒तेना प्या॑ययति ।[11]  
 </details>
 
@@ -310,7 +696,6 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 अँ॒शुरँ॑शु॒रित्यँ॒शुः-अँ॒शुः॒ । ते॒ । दे॒व॒ । सो॒म॒ । एति॑ । प्या॒य॒ता॒म् । इति॑ । आ॒ह॒ ।  
 
 यत् । [11]  ए॒व । अ॒स्य॒ । अ॒पुवा॒यते॑ । यत् । मीय॑ते । तत् । ए॒व । अ॒स्य॒ । ए॒तेन॑ । एति॑ । प्या॒य॒य॒ति॒ । 
-
 </details>
 
 
@@ -328,30 +713,165 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ तुभ्य॒मिन्द्र॑ᳶ प्यायता॒मा त्वमिन्द्रा॑य प्याय॒स्वेत्या॑ह ।  
-उ॒भावे॒वेन्द्र॑ञ् च॒ सोम॒ञ् चाप्या॑यय॒ति ।  
-आ प्या॑यय॒ सखी॑न्त्स॒न्या मे॒धयेत्या॑ह ।  
-ऋ॒र्त्विजो॒ वा अ॑स्य॒ सखा॑यः ।
-ताने॒व आ प्या॑ययति ।
-स्व॒स्ति ते॑ देव सोम सु॒त्याम् अ॑शीयेत्या॑ह ।[12]   
-आ॒शिष॑म् ए॒वैताम् आ शा॑स्ते ।  
-प्र वा ए॒ते॑ऽस्माल् लो॒काच् च्य॑वन्ते॒ , ये सोम॑म् आप्या॒यय॑न्ति ।  
-अ॒न्त॒रि॒क्ष॒दे॒व॒त्यो॑ हि सोम॒ आप्या॑यितः ।  
-एष्टा॒ राय॒ᳶ प्रेषे भगा॒येत्या॑ह ।  
-द्यावा॑पृथि॒वीभ्या॑म् ए॒व न॑म॒स्कृत्य अ॒स्मिल्ँ  लो॒के प्रति॑ तिष्ठन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+'May Indra swell for thee; do thou swell for Indra', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 आ तुभ्य॒मिन्द्र॑ᳶ प्यायता॒मा त्वमिन्द्रा॑य प्याय॒स्वेत्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उ॒भावे॒वेन्द्र॑ञ् च॒ सोम॒ञ् चाप्या॑यय॒ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he makes to swell both Indra and Soma.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उ॒भावे॒वेन्द्र॑ञ् च॒ सोम॒ञ् चाप्या॑यय॒ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 आ प्या॑यय॒ सखी॑न्त्स॒न्या मे॒धयेत्या॑ह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Make thy comrades to .swell with wealth and skill', he says.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ प्या॑यय॒ सखी॑न्त्स॒न्या मे॒धयेत्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ऋ॒र्त्विजो॒ वा अ॑स्य॒ सखा॑यः ।
+</details>
+
+<details><summary>Keith</summary>
+
+The priests are his comrades;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऋ॒र्त्विजो॒ वा अ॑स्य॒ सखा॑यः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ताने॒व आ प्या॑ययति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he makes them to swell.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताने॒व आ प्या॑ययति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स्व॒स्ति ते॑ देव सोम सु॒त्याम् अ॑शीयेत्या॑ह ।[12]   
+</details>
+
+<details><summary>Keith</summary>
+
+'With good fortune may I accomplish thy pressing, O god Soma' [5], he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्व॒स्ति ते॑ देव सोम सु॒त्याम् अ॑शीयेत्या॑ह ।[12]   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 आ॒शिष॑म् ए॒वैताम् आ शा॑स्ते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he invokes this blessing (on himself).
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒शिष॑म् ए॒वैताम् आ शा॑स्ते ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्र वा ए॒ते॑ऽस्माल् लो॒काच् च्य॑वन्ते॒ , ये सोम॑म् आप्या॒यय॑न्ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Those who make the Soma to swell fall away from this world,
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्र वा ए॒ते॑ऽस्माल् लो॒काच् च्य॑वन्ते॒ , ये सोम॑म् आप्या॒यय॑न्ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒न्त॒रि॒क्ष॒दे॒व॒त्यो॑ हि सोम॒ आप्या॑यितः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+for the Soma when made to swell has the atmosphere as its deity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒न्त॒रि॒क्ष॒दे॒व॒त्यो॑ हि सोम॒ आप्या॑यितः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एष्टा॒ राय॒ᳶ प्रेषे भगा॒येत्या॑ह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Desired are riches exceedingly, for food, for prosperity', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+एष्टा॒ राय॒ᳶ प्रेषे भगा॒येत्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्यावा॑पृथि॒वीभ्या॑म् ए॒व न॑म॒स्कृत्य अ॒स्मिल्ँ  लो॒के प्रति॑ तिष्ठन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily by paying homage to heaven and earth they find support in this world.
+</details>
+
+<details><summary>मूलम्</summary>
+
 द्यावा॑पृथि॒वीभ्या॑म् ए॒व न॑म॒स्कृत्य अ॒स्मिल्ँ  लो॒के प्रति॑ तिष्ठन्ति ।
 </details>
 
@@ -374,7 +894,6 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 एष्टः॑ । रायः॑ । प्रेति॑ । इ॒षे । भगा॑य । इति॑ । आ॒ह॒ । 
 
 द्यावा॑पृथि॒वीभ्या॒मिति॒ द्यावा॑-पृ॒थि॒वीभ्या॑म् । ए॒व । न॒म॒स्कृत्येति॑ नमः-कृत्य॑ । अ॒स्मिन् । लो॒के । प्रतीति॑ । ति॒ष्ठ॒न्ति॒ । 
-
 </details>
 
 
@@ -392,30 +911,165 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वा॒सु॒रास् सय्ँय॑त्ता आसन् ।  
-ते दे॒वा बिभ्य॑तो॒ऽग्निम् प्रावि॑शन् ।  
-तस्मा॑दाहुर् अ॒ग्निस् सर्वा॑ दे॒वता॒ इति॑ ।  
-ते॑ऽग्निम् [13] ए॒व वरू॑थङ् कृ॒त्वाऽसु॑रान॒भ्य॑भवन् ।  
-अ॒ग्निम् इ॑व॒ खलु॒ वा ए॒ष प्र वि॑शति॒ यो॑ऽवान्तरदी॒क्षामु॒पैति ।  
-भ्रातृ॑व्याभिभूत्यै ।
-भव॑त्या॒त्मना॒ परा॑स्य॒ भ्रातृ॑व्यो भवति ।  
-आ॒त्मान॑मे॒व दी॒क्षया॑ पाति, प्र॒जाम् अ॑वान्तरदी॒क्षया॑ ।  
-स॒न्त॒राम् मेख॑लाँ स॒माय॑च्छते । प्र॒जा ह्या॑त्मनोऽन्त॑रतरा ।  
-त॒प्तव्र॑तो भवति । मद॑न्तीभिर् मार्जयते ।
-निर्ह्य॑ग्निश्शी॒तेन॒ वाय॑ति॒ समि॑द्ध्यै ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The gods and the Asuras were in conflict.
 </details>
 
 <details><summary>मूलम्</summary>
 
 दे॒वा॒सु॒रास् सय्ँय॑त्ता आसन् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ते दे॒वा बिभ्य॑तो॒ऽग्निम् प्रावि॑शन् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The gods in fear entered Agni;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ते दे॒वा बिभ्य॑तो॒ऽग्निम् प्रावि॑शन् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तस्मा॑दाहुर् अ॒ग्निस् सर्वा॑ दे॒वता॒ इति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+therefore they say, 'Agni is all the gods'.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मा॑दाहुर् अ॒ग्निस् सर्वा॑ दे॒वता॒ इति॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ते॑ऽग्निम् [13] ए॒व वरू॑थङ् कृ॒त्वाऽसु॑रान॒भ्य॑भवन् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+They [6], making Agni their protection, overcame the Asuras.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ते॑ऽग्निम् [13] ए॒व वरू॑थङ् कृ॒त्वाऽसु॑रान॒भ्य॑भवन् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒ग्निम् इ॑व॒ खलु॒ वा ए॒ष प्र वि॑शति॒ यो॑ऽवान्तरदी॒क्षामु॒पैति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Now he as it were enters Agni who undergoes the intermediate consecration,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्निम् इ॑व॒ खलु॒ वा ए॒ष प्र वि॑शति॒ यो॑ऽवान्तरदी॒क्षामु॒पैति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भ्रातृ॑व्याभिभूत्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+(and it serves) for the overcoming of his foes;
+</details>
+
+<details><summary>मूलम्</summary>
+
+भ्रातृ॑व्याभिभूत्यै ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भव॑त्या॒त्मना॒ परा॑स्य॒ भ्रातृ॑व्यो भवति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he prospers himself, his foe is overcome.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भव॑त्या॒त्मना॒ परा॑स्य॒ भ्रातृ॑व्यो भवति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 आ॒त्मान॑मे॒व दी॒क्षया॑ पाति, प्र॒जाम् अ॑वान्तरदी॒क्षया॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He protects himself by the consecration, his offspring by the intermediate consecration.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒त्मान॑मे॒व दी॒क्षया॑ पाति, प्र॒जाम् अ॑वान्तरदी॒क्षया॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स॒न्त॒राम् मेख॑लाँ स॒माय॑च्छते । प्र॒जा ह्या॑त्मनोऽन्त॑रतरा ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The girdle he makes tighter; for his offspring are closer to him than himself.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒न्त॒राम् मेख॑लाँ स॒माय॑च्छते । प्र॒जा ह्या॑त्मनोऽन्त॑रतरा ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 त॒प्तव्र॑तो भवति । मद॑न्तीभिर् मार्जयते ।
+</details>
+
+<details><summary>Keith</summary>
+
+He drinks warm milk, and rubs himself with bubbling water;
+</details>
+
+<details><summary>मूलम्</summary>
+
+त॒प्तव्र॑तो भवति । मद॑न्तीभिर् मार्जयते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्ह्य॑ग्निश्शी॒तेन॒ वाय॑ति॒ समि॑द्ध्यै ।  
+</details>
+
+<details><summary>Keith</summary>
+
+for fire is extinguished by cold, (and these serve) for kindling.
+</details>
+
+<details><summary>मूलम्</summary>
+
 निर्ह्य॑ग्निश्शी॒तेन॒ वाय॑ति॒ समि॑द्ध्यै ।  
 </details>
 
@@ -451,14 +1105,45 @@ title = "०२ तानूनप्त्रसंज्ञकस्याज�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या ते॑ अग्ने॒ रुद्रि॑या त॒नूरित्या॑ह ।   
-स्वयै॒वैन॑द् दे॒वत॑या व्रतयति ।
-स॒यो॒नि॒त्वाय॒ शान्त्यै॑ ॥ [14]
+</details>
+
+<details><summary>Keith</summary>
+
+'Thy dread form, O Agni', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 या ते॑ अग्ने॒ रुद्रि॑या त॒नूरित्या॑ह ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स्वयै॒वैन॑द् दे॒वत॑या व्रतयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily with its own deity he consumes the hot milk,
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वयै॒वैन॑द् दे॒वत॑या व्रतयति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒यो॒नि॒त्वाय॒ शान्त्यै॑ ॥ [14]
+</details>
+
+<details><summary>Keith</summary>
+
+for unity, for atonement.
+</details>
+
+<details><summary>मूलम्</summary>
+
 स॒यो॒नि॒त्वाय॒ शान्त्यै॑ ॥ [14]
 </details>
 

@@ -13,14 +13,30 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाग्वै दे॒वेभ्यो ऽपा॑क्रामद् य॒ज्ञायाति॑ष्ठमाना॒ सा वन॒स्पती॒न् प्रावि॑शत् ।  
-सैषा वाग् वन॒स्पति॑षु वदति॒ - या दु॑न्दु॒भौ , या तूण॑वे॒ , या वीणा॑याय्ँ॒ यद् दी॑क्षितद॒ण्डम् प्र॒यच्छ॑ति॒ , वाच॑म् ए॒वाव॑ रुन्धे ।
 </details>
 
+<details><summary>Keith</summary>
 
+Speech went away from the gods, not being willing to serve for the sacrifice. She entered the trees.
+</details>
 
 <details><summary>मूलम्</summary>
 
 वाग्वै दे॒वेभ्यो ऽपा॑क्रामद् य॒ज्ञायाति॑ष्ठमाना॒ सा वन॒स्पती॒न् प्रावि॑शत् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सैषा वाग् वन॒स्पति॑षु वदति॒ - या दु॑न्दु॒भौ , या तूण॑वे॒ , या वीणा॑याय्ँ॒ यद् दी॑क्षितद॒ण्डम् प्र॒यच्छ॑ति॒ , वाच॑म् ए॒वाव॑ रुन्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+It is the voice of the trees, the voice that is heard in the drum, the lute, and the flute. In that he offers the staff of the initiated, he wins speech.
+</details>
+
+<details><summary>मूलम्</summary>
+
 सैषा वाग् वन॒स्पति॑षु वदति॒ - या दु॑न्दु॒भौ , या तूण॑वे॒ , या वीणा॑याय्ँ॒ यद् दी॑क्षितद॒ण्डम् प्र॒यच्छ॑ति॒ , वाच॑म् ए॒वाव॑ रुन्धे ।
 </details>
 
@@ -32,6 +48,7 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 यत् । दी॒क्षि॒त॒द॒ण्डमिति॑ दीक्षित-द॒ण्डम् । प्र॒यच्छ॒तीति॑ प्र-यच्छ॑ति ।   
 वाच॑म् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1दीक्षितदण्डप्रदानं विधास्यन् आह - वाग्वा इत्यादि ॥ यज्ञार्थं देवेभ्योऽतिष्ठमाना अप्रकाशमाना अप्रकाशनहेतोः वाग्देवेभ्योऽपाक्रामत् । पूर्ववत्संप्रदानत्वमात्मनेपदत्वं च । ततस्सा वनस्पतीन्प्राविशत् । उक्तं पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम्, सुडागमश्च । ततः प्रभृति सैषा वाग्वनस्पतिषु स्थिता वदति व्यक्तमुच्चरति । या दुन्दुभौ वदति, या च तूणवे वदति, या च वीणायां वदति । तस्माद्यद्दीक्षितदण्डं प्रददाति वाचमेवावरुन्धे यजमानः, तस्माद्दीक्षितदण्डं प्रयच्छतीति विधिरनुमीयते ॥
@@ -45,6 +62,11 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 औदु॑म्बरो भव॒त्य् ऊर्ग्वा उ॑दु॒म्बर॒ , + ऊर्ज॑म् ए॒वाव॑ रुन्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+The (staff) is of Udumbara wood; the, Udumbara is strength; verily he wins strength.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -72,14 +94,45 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुखे॑न॒ सम्मि॑तो भवति ।   
-मु॒ख॒त ए॒वास्मा॒ ऊर्ज॑न् दधाति ।  
-तस्मा॑न् मुख॒त ऊ॒र्जा भु॑ञ्जते ।[25]  
+</details>
+
+<details><summary>Keith</summary>
+
+It is level with his mouth;
 </details>
 
 <details><summary>मूलम्</summary>
 
 मुखे॑न॒ सम्मि॑तो भवति ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मु॒ख॒त ए॒वास्मा॒ ऊर्ज॑न् दधाति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily from the mouth (downwards) he wins strength for him.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मु॒ख॒त ए॒वास्मा॒ ऊर्ज॑न् दधाति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॑न् मुख॒त ऊ॒र्जा भु॑ञ्जते ।[25]  
+</details>
+
+<details><summary>Keith</summary>
+
+Therefore from the mouth they enjoy strength [1].
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॑न् मुख॒त ऊ॒र्जा भु॑ञ्जते ।[25]  
 </details>
 
@@ -106,6 +159,10 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 ताम् ऋ॒त्विजो॒ यज॑माने॒ प्रति॑ ष्ठापयन्ति ।
 </details>
 
+<details><summary>Keith</summary>
+
+After the buying of the Soma he hands the staff to the Maitravaruna (priest). For the Maitravaruna first assigns to the priests their utterance, and the priests plant it in the sacrificer.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -133,21 +190,77 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाहा॑ य॒ज्ञम् मन॒सेत्या॑ह॒  मन॑सा॒ हि पुरु॑षो य॒ज्ञम् अ॑भि॒गच्छ॑ति ।  
-स्वाहा॒ द्यावा॑पृथि॒वीभ्या॒मित्या॑ह॒ द्यावा॑पृथि॒व्योर् हि य॒ज्ञः ।  
-"स्वाहा॑ + उ॒रोर् अ॒न्तरि॑क्षा॒द्" इत्या॑ह । अ॒न्तरि॑क्षे॒ हि य॒ज्ञः ।  
-स्वाहा॑ य॒ज्ञव्ँ वाता॒दार॑भ॒ इत्या॑ह ।  
-अ॒यव्ँ वाव यᳶ पव॑ते॒ स य॒ज्ञस् , तमे॒व सा॒क्षाद् आ र॑भते ।[26]
+</details>
+
+<details><summary>Keith</summary>
+
+'Hail! with my mind the sacrifice', he says; for man approaches the sacrifice with his mind.
 </details>
 
 <details><summary>मूलम्</summary>
 
 स्वाहा॑ य॒ज्ञम् मन॒सेत्या॑ह॒  मन॑सा॒ हि पुरु॑षो य॒ज्ञम् अ॑भि॒गच्छ॑ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स्वाहा॒ द्यावा॑पृथि॒वीभ्या॒मित्या॑ह॒ द्यावा॑पृथि॒व्योर् हि य॒ज्ञः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Hail! from heaven and earth', he says; for the sacrifice is in heaven and earth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वाहा॒ द्यावा॑पृथि॒वीभ्या॒मित्या॑ह॒ द्यावा॑पृथि॒व्योर् हि य॒ज्ञः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "स्वाहा॑ + उ॒रोर् अ॒न्तरि॑क्षा॒द्" इत्या॑ह । अ॒न्तरि॑क्षे॒ हि य॒ज्ञः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Hail! from the broad atmosphere', he says; for the sacrifice is in the atmosphere.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"स्वाहा॑ + उ॒रोर् अ॒न्तरि॑क्षा॒द्" इत्या॑ह । अ॒न्तरि॑क्षे॒ हि य॒ज्ञः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स्वाहा॑ य॒ज्ञव्ँ वाता॒दार॑भ॒ इत्या॑ह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Hail! from the wind the sacrifice I grasp', he says [2].
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वाहा॑ य॒ज्ञव्ँ वाता॒दार॑भ॒ इत्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒यव्ँ वाव यᳶ पव॑ते॒ स य॒ज्ञस् , तमे॒व सा॒क्षाद् आ र॑भते ।[26]
 </details>
 
+<details><summary>Keith</summary>
+
+The sacrifice is he who blows here; verily he clearly wins him.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒यव्ँ वाव यᳶ पव॑ते॒ स य॒ज्ञस् , तमे॒व सा॒क्षाद् आ र॑भते ।[26]
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -158,7 +271,6 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 अ॒यम् । [26] वाव । यः । पव॑ते । सः । य॒ज्ञः ।  
 तम् । ए॒व । सा॒क्षादिति॑ स-अ॒क्षात् । एति॑ । र॒भ॒ते॒ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -173,6 +285,11 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मु॒ष्टी क॑रोति॒ , वाचय्ँ॑ यच्छति , य॒ज्ञस्य॒ धृत्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+He clenches his fist; he restrains his speech, for the support of the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -200,6 +317,11 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 अदी॑क्षिष्ट अ॒यम् ब्रा॑ह्म॒ण इति॒ त्रिरु॑पाँ॒श्वा॑ह । दे॒वेभ्य॑ ए॒वैन॒म् प्राह॒ त्रिर् , उ॒च्चैर् उ॒भये॑भ्य ए॒वैन॑न् देवमनु॒ष्येभ्य॒ᳶ प्राह॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+'This Brahman has consecrated himself', he says thrice in a whisper; verily he proclaims him to the gods. Thrice aloud (he says it); verily he proclaims him to both gods and men.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अदी॑क्षिष्ट अ॒यम् ब्रा॑ह्म॒ण इति॒ त्रिरु॑पाँ॒श्वा॑ह । दे॒वेभ्य॑ ए॒वैन॒म् प्राह॒ त्रिर् , उ॒च्चैर् उ॒भये॑भ्य ए॒वैन॑न् देवमनु॒ष्येभ्य॒ᳶ प्राह॑ ।
@@ -224,18 +346,48 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न पु॒रा नक्ष॑त्रेभ्यो॒ वाचव्ँ॒ वि सृ॑जेत् ।
-यत् पु॒रा नक्ष॑त्रेभ्यो॒ वाचव्ँ॑ विसृ॒जेद् य॒ज्ञव्ँ विच्छि॑न्द्यात् ।[27]  
-उदि॑तेषु॒ नक्ष॑त्रेषु व्र॒तङ्कृ॑णु॒तेति॒ वाचव्ँ॒ वि सृ॑जति । य॒ज्ञव्र॑तो॒ वै दी॑क्षि॒तो य॒ज्ञम् ए॒वाभि वाचव्ँ॒ विसृ॑जति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He should not utter speech until the Naksatras appear.
 </details>
 
 <details><summary>मूलम्</summary>
 
 न पु॒रा नक्ष॑त्रेभ्यो॒ वाचव्ँ॒ वि सृ॑जेत् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यत् पु॒रा नक्ष॑त्रेभ्यो॒ वाचव्ँ॑ विसृ॒जेद् य॒ज्ञव्ँ विच्छि॑न्द्यात् ।[27]  
+</details>
+
+<details><summary>Keith</summary>
+
+If he were to utter speech before the Naksatras appear, he would divide the sacrifice [3].
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत् पु॒रा नक्ष॑त्रेभ्यो॒ वाचव्ँ॑ विसृ॒जेद् य॒ज्ञव्ँ विच्छि॑न्द्यात् ।[27]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उदि॑तेषु॒ नक्ष॑त्रेषु व्र॒तङ्कृ॑णु॒तेति॒ वाचव्ँ॒ वि सृ॑जति । य॒ज्ञव्र॑तो॒ वै दी॑क्षि॒तो य॒ज्ञम् ए॒वाभि वाचव्ँ॒ विसृ॑जति ।
+</details>
+
+<details><summary>Keith</summary>
+
+When the Naksatras have arisen, be utters speech, 'Prepare the fast food.' The consecrated is bound by a vow of sacrifice; verily with regard to the sacrifice does he utter speech.
+</details>
+
+<details><summary>मूलम्</summary>
+
 उदि॑तेषु॒ नक्ष॑त्रेषु व्र॒तङ्कृ॑णु॒तेति॒ वाचव्ँ॒ वि सृ॑जति ।   
 य॒ज्ञव्र॑तो॒ वै दी॑क्षि॒तो य॒ज्ञम् ए॒वाभि वाचव्ँ॒ विसृ॑जति ।  
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -245,7 +397,6 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 
 उदि॑ते॒ष्वित्युत्-इ॒ते॒षु॒ । नक्ष॑त्रेषु । व्र॒तम् । कृ॒णु॒त॒ । इति॑ । वाच॑म् । वीति॑ । सृ॒ज॒ति॒ ।   
 य॒ज्ञव्र॑त॒ इति॑ य॒ज्ञ-व्र॒तः॒ । वै । दी॒क्षि॒तः । य॒ज्ञम् । ए॒व । अ॒भीति॑ । वाच॑म् । वीति॑ । सृ॒ज॒ति॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -261,12 +412,30 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि॑ विसृ॒जेद् वै॑ष्ण॒वीम् ऋच॒म् अनु॑ ब्रूयाद् -
-य॒ज्ञो वै विष्णु॑र् य॒ज्ञेनै॒व य॒ज्ञँ सन्त॑नोति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Should he utter speech, he should then repeat a Rc addressed to Visnu.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यदि॑ विसृ॒जेद् वै॑ष्ण॒वीम् ऋच॒म् अनु॑ ब्रूयाद् -
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य॒ज्ञो वै विष्णु॑र् य॒ज्ञेनै॒व य॒ज्ञँ सन्त॑नोति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Visnu is the sacrifice; verily he unites the sacrifice with the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 य॒ज्ञो वै विष्णु॑र् य॒ज्ञेनै॒व य॒ज्ञँ सन्त॑नोति ।
 </details>
 
@@ -275,7 +444,6 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 यदि॑ । वि॒सृ॒जेदिति॑ वि-सृ॒जेत् । वै॒ष्ण॒वीम् । ऋच॑म् । अन्विति॑ । ब्रू॒या॒त् ।   
 य॒ज्ञः । वै । विष्णुः॑ । य॒ज्ञेन॑ । ए॒व । य॒ज्ञम् । समिति॑ । त॒नो॒ति॒ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -290,12 +458,30 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "दैवी॒न् धिय॑म् मनामह॒" इत्या॑ह - य॒ज्ञमे॒व तन् म्र॑दयति ।
-सु॒पा॒रा नो॑ अस॒द् वश॒ इत्या॑ह॒ व्यु॑ष्टिम् ए॒वाव॑ रुन्धे । [28]  
+</details>
+
+<details><summary>Keith</summary>
+
+'The thought divine we meditate', he says. Thus he makes smooth the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
 
 "दैवी॒न् धिय॑म् मनामह॒" इत्या॑ह - य॒ज्ञमे॒व तन् म्र॑दयति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सु॒पा॒रा नो॑ अस॒द् वश॒ इत्या॑ह॒ व्यु॑ष्टिम् ए॒वाव॑ रुन्धे । [28]  
+</details>
+
+<details><summary>Keith</summary>
+
+'May it guide us safely according as we will', he says. Verily he wins the dawn [4].
+</details>
+
+<details><summary>मूलम्</summary>
+
 सु॒पा॒रा नो॑ अस॒द् वश॒ इत्या॑ह॒ व्यु॑ष्टिम् ए॒वाव॑ रुन्धे । [28]  
 </details>
 
@@ -324,12 +510,16 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 "होत॒व्य॑न् दीक्षि॒तस्य॑ गृ॒हा३इ न हो॑त॒व्या३मि"ति॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+The theologians say, 'Should an offering be made in the house of one who is consecrated, or should an offering not be made?'
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति -
 "होत॒व्य॑न् दीक्षि॒तस्य॑ गृ॒हा३इ न हो॑त॒व्या३मि"ति॑ ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -352,6 +542,11 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 
 ह॒विर्वै दी॑क्षि॒तो यज् जु॑हु॒याद् , यज॑मानस्याव॒दाय॑ जुहुयात् ।
 यन्न जु॑हु॒याद् य॑ज्ञप॒रुर् अ॒न्तरि॑यात् ।
+</details>
+
+<details><summary>Keith</summary>
+
+The man who is consecrated is the oblation, and if he were to sacrifice he would offer a part of the sacrificer; if he were not to sacrifice, then he would omit a joint of the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -381,17 +576,34 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ये दे॒वा मनो॑जाता मनो॒युज॒" इत्या॑ह ।
-प्रा॒णा वै दे॒वा मनो॑जाता मनो॒युजः॑ ।
-तेष्वे॒व प॒रोक्ष॑ञ् जुहोति ।
+</details>
+
+<details><summary>Keith</summary>
+
+'The gods, mind born, mind using', he says.
 </details>
 
 <details><summary>मूलम्</summary>
 
 "ये दे॒वा मनो॑जाता मनो॒युज॒" इत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रा॒णा वै दे॒वा मनो॑जाता मनो॒युजः॑ ।
 तेष्वे॒व प॒रोक्ष॑ञ् जुहोति ।
 </details>
 
+<details><summary>Keith</summary>
+
+The gods, mind born, mind using, are the breaths; verily in them he sacrifices secretly,
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रा॒णा वै दे॒वा मनो॑जाता मनो॒युजः॑ ।
+तेष्वे॒व प॒रोक्ष॑ञ् जुहोति ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -399,7 +611,6 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 प्रा॒णा इति॑ प्र-अ॒नाः । वै । दे॒वाः । मनो॑जाता॒ इति॒ मनः॑-जा॒ताः॒ । म॒नो॒युज॒ इति॑ मनः-युजः॑ ।  
 
 तेषु॑ । ए॒व । प॒रोक्ष॒मिति॑ परः-अक्ष॑म् । जु॒हो॒ति॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -417,11 +628,15 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 तन् न + इव॑ हु॒तन्   न + इवाहु॑तम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+and the sacrifice is both offered as it were and yet not offered.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन् न + इव॑ हु॒तन्   न + इवाहु॑तम् ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -442,17 +657,47 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व॒पन्तव्ँ॒ वै दी॑क्षि॒तँ रक्षाँ॑सि जिघाँसन्ति ।
-अ॒ग्निः खलु॒ वै र॑क्षो॒हा । [29]   
-"अग्ने॒ त्वँ सु जा॑गृहि , व॒यँ सु म॑न्दिषीम॒ही"त्या॑ह । अ॒ग्निम् ए॒वाधि॒पाङ् कृ॒त्वा स्व॑पिति॒ रक्ष॑सा॒म् अप॑हत्यै ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Now the Raksases are fain to hurt him who is consecrated while he sleeps.
 </details>
 
 <details><summary>मूलम्</summary>
 
 स्व॒पन्तव्ँ॒ वै दी॑क्षि॒तँ रक्षाँ॑सि जिघाँसन्ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒ग्निः खलु॒ वै र॑क्षो॒हा । [29]   
+</details>
+
+<details><summary>Keith</summary>
+
+Agni [5] indeed is the slayer of the Raksases.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्निः खलु॒ वै र॑क्षो॒हा । [29]   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "अग्ने॒ त्वँ सु जा॑गृहि , व॒यँ सु म॑न्दिषीम॒ही"त्या॑ह । अ॒ग्निम् ए॒वाधि॒पाङ् कृ॒त्वा स्व॑पिति॒ रक्ष॑सा॒म् अप॑हत्यै ।  
 </details>
 
+<details><summary>Keith</summary>
+
+'O Agni, be thou wakeful. Let us be glad', he says; verily having made Agni his guardian, for the smiting away of the Raksases, he sleeps.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"अग्ने॒ त्वँ सु जा॑गृहि , व॒यँ सु म॑न्दिषीम॒ही"त्या॑ह । अ॒ग्निम् ए॒वाधि॒पाङ् कृ॒त्वा स्व॑पिति॒ रक्ष॑सा॒म् अप॑हत्यै ।  
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -475,12 +720,30 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒व्र॒त्यमि॑व वा ए॒ष क॑रोति॒ यो दी॑क्षि॒तस् स्वपि॑ति । "त्वम् अ॑ग्ने व्रत॒पा अ॒सी"त्या॑ह ।  
-अ॒ग्निर्वै दे॒वानाव्ँ॑ व्र॒तप॑ति॒स् स ए॒वैनव्ँ॑ व्र॒तम् आ ल॑म्भयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Now, if a man who is consecrated sleeps, he does something that as it were is contrary to his vow. I Thou, O Agni, art the guardian of vows', he says.
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒व्र॒त्यमि॑व वा ए॒ष क॑रोति॒ यो दी॑क्षि॒तस् स्वपि॑ति । "त्वम् अ॑ग्ने व्रत॒पा अ॒सी"त्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒ग्निर्वै दे॒वानाव्ँ॑ व्र॒तप॑ति॒स् स ए॒वैनव्ँ॑ व्र॒तम् आ ल॑म्भयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Agni indeed is among the gods the guardian of vows; verily he causes him to take up his vow again.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अ॒ग्निर्वै दे॒वानाव्ँ॑ व्र॒तप॑ति॒स् स ए॒वैनव्ँ॑ व्र॒तम् आ ल॑म्भयति ।
 </details>
 
@@ -505,6 +768,11 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 
 दे॒व आ मर्त्ये॒ष्वेत्या॑ह - "दे॒वो
 ह्ये॑ष सन्मर्त्ये॑षु" ।[30]  
+</details>
+
+<details><summary>Keith</summary>
+
+'Among the gods and men', he says for he, being a god [6], is (guardian of vows) among men.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -534,11 +802,15 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 त्वय्ँ य॒ज्ञेष्व् ईड्य॒ इत्या॑ह - ए॒तँ हि य॒ज्ञेष्व् ईड॒ते ।
 </details>
 
+<details><summary>Keith</summary>
+
+'Thou art to be invoked at our sacrifices', he says; for him they invoke at the sacrifices.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वय्ँ य॒ज्ञेष्व् ईड्य॒ इत्या॑ह - ए॒तँ हि य॒ज्ञेष्व् ईड॒ते ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -559,14 +831,45 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप॒ वै दी॑क्षि॒तात् सु॑षु॒पुष॑ इन्द्रि॒यन् दे॒वताः॑ क्रामन्ति ।  
-"विश्वे॑ दे॒वा अ॒भि मामाव॑वृत्र॒न्न्" इत्या॑ह ।
-इ॒न्द्रि॒येण + ए॒वैन॑न् दे॒वता॑भि॒स् सन्न॑यति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Now power and the gods depart from the man who is consecrated when he is asleep.
 </details>
 
 <details><summary>मूलम्</summary>
 
 अप॒ वै दी॑क्षि॒तात् सु॑षु॒पुष॑ इन्द्रि॒यन् दे॒वताः॑ क्रामन्ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "विश्वे॑ दे॒वा अ॒भि मामाव॑वृत्र॒न्न्" इत्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'All the gods have surrounded me', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"विश्वे॑ दे॒वा अ॒भि मामाव॑वृत्र॒न्न्" इत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ॒न्द्रि॒येण + ए॒वैन॑न् दे॒वता॑भि॒स् सन्न॑यति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he unites him with both power and the gods.
+</details>
+
+<details><summary>मूलम्</summary>
+
 इ॒न्द्रि॒येण + ए॒वैन॑न् दे॒वता॑भि॒स् सन्न॑यति ।
 </details>
 
@@ -591,15 +894,32 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदे॒तद् यजु॒र् न ब्रू॒याद् , याव॑त ए॒व प॒शून॒भि दीक्षे॑त॒ , ताव॑न्तोऽस्य प॒शव॑स्स्यू॒ , रास्वेय॑त् । [31]  
-"सो॒म आ भूयो॑ भ॒रेत्य्" आ॒ह , अप॑रिमितान् ए॒व प॒शून् अव॑ रुन्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+If he were not to utter that formula (Yajus), so many cattle would be as he might consecrate himself for.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यदे॒तद् यजु॒र् न ब्रू॒याद् , याव॑त ए॒व प॒शून॒भि दीक्षे॑त॒ , ताव॑न्तोऽस्य प॒शव॑स्स्यू॒ , रास्वेय॑त् । [31]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "सो॒म आ भूयो॑ भ॒रेत्य्" आ॒ह , अप॑रिमितान् ए॒व प॒शून् अव॑ रुन्धे ।
 </details>
 
+<details><summary>Keith</summary>
+
+'O Soma, give so much [7] and bear more hither', he says; verily he obtains innumerable cattle.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"सो॒म आ भूयो॑ भ॒रेत्य्" आ॒ह , अप॑रिमितान् ए॒व प॒शून् अव॑ रुन्धे ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -622,21 +942,37 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "च॒न्द्रम् अ॑सि॒ , मम॒ भोगा॑य भ॒वे"त्या॑ह ।
-य॒था॒दे॒व॒तम् ए॒वैना॒ᳶ प्रति॑ गृह्णाति ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art gold; be for my enjoyment', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 "च॒न्द्रम् अ॑सि॒ , मम॒ भोगा॑य भ॒वे"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 य॒था॒दे॒व॒तम् ए॒वैना॒ᳶ प्रति॑ गृह्णाति ।
 </details>
 
+<details><summary>Keith</summary>
+
+verily he takes each according to its deity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+य॒था॒दे॒व॒तम् ए॒वैना॒ᳶ प्रति॑ गृह्णाति ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
 च॒न्द्रम् । अ॒सि॒ । मम॑ । भोगा॑य । भ॒व॒ । इति॑ । आ॒ह॒ ।  
 य॒था॒दे॒व॒तमिति॑ यथा-दे॒व॒तम् । ए॒व । ए॒नाः॒ । प्रतीति॑ । गृ॒ह्णा॒ति॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -653,13 +989,29 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा॒यवे॑ त्वा॒ , वरु॑णाय॒ त्वेति॒ , यदे॒वमे॒ता नानु॑दि॒शेद् अय॑थादेवत॒न् दक्षि॑णा गमये॒द् आ दे॒वता॑भ्यो वृश्च्येत ।  
+</details>
 
-यदे॒वम् ए॒ता अ॑नुदि॒शति॑ , यथादेव॒तम् ए॒व दक्षि॑णा गमयति॒ , न दे॒वता॑भ्य॒ आ वृ॑श्च्यते [32] ।  
+<details><summary>Keith</summary>
+
+He says, 'To Vayu thee, to Varuna thee!' If he did not so specify them, he would put the gifts out of correspondence with the deities, and would be brought low to the deities.
 </details>
 
 <details><summary>मूलम्</summary>
 
 वा॒यवे॑ त्वा॒ , वरु॑णाय॒ त्वेति॒ , यदे॒वमे॒ता नानु॑दि॒शेद् अय॑थादेवत॒न् दक्षि॑णा गमये॒द् आ दे॒वता॑भ्यो वृश्च्येत ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदे॒वम् ए॒ता अ॑नुदि॒शति॑ , यथादेव॒तम् ए॒व दक्षि॑णा गमयति॒ , न दे॒वता॑भ्य॒ आ वृ॑श्च्यते [32] ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Because he thus specifies them, he puts the gifts in correspondence with the deities, and is not brought low to the deities.
+</details>
+
+<details><summary>मूलम्</summary>
 
 यदे॒वम् ए॒ता अ॑नुदि॒शति॑ , यथादेव॒तम् ए॒व दक्षि॑णा गमयति॒ , न दे॒वता॑भ्य॒ आ वृ॑श्च्यते [32] ।  
 </details>
@@ -669,10 +1021,7 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 वा॒यवे॑ । त्वा॒ । वरु॑णाय । त्वा॒ । इति॑ । यत् । ए॒वम् । ए॒ताः । न । अ॒नु॒दि॒शेदित्य॑नु-दि॒शेत् । अय॑थादेवत॒मित्यय॑था-दे॒व॒त॒म् । दक्षि॑णाः । ग॒म॒ये॒त् । एति॑ । दे॒वता॑भ्यः । वृ॒श्च्ये॒त॒ ।  
 
 यत् । ए॒वम् । ए॒ताः । अ॒नु॒दि॒शतीत्य॑नु-दि॒शति॑ । य॒था॒दे॒व॒तमिति॑ यथा-दे॒व॒तम् । ए॒व । दक्षि॑णाः । ग॒म॒य॒ति॒ । न । दे॒वता॑भ्यः । एति॑ । [32]  वृ॒श्च्य॒ते॒ । 
-
-
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -687,21 +1036,37 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "देवी॑रापो अपान्नपा॒दि"त्या॑ह ।
-यद्वो॒ मेध्यय्ँ॑ य॒ज्ञियँ॒ सदे॑व॒न् तद्वो॒ माऽव॑ क्रमिष॒म् इति॒ वाव एतदा॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'O divine waters, son of the waters', he says.
 </details>
 
 <details><summary>मूलम्</summary>
 
 "देवी॑रापो अपान्नपा॒दि"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यद्वो॒ मेध्यय्ँ॑ य॒ज्ञियँ॒ सदे॑व॒न् तद्वो॒ माऽव॑ क्रमिष॒म् इति॒ वाव एतदा॑ह ।
 </details>
 
+<details><summary>Keith</summary>
+
+'That divine part of yours, which is pure and fit for the sacrifice, may I not step upon', that he says in effect.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्वो॒ मेध्यय्ँ॑ य॒ज्ञियँ॒ सदे॑व॒न् तद्वो॒ माऽव॑ क्रमिष॒म् इति॒ वाव एतदा॑ह ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
 देवीः॑ । आ॒पः॒ । अ॒पा॒म् । न॒पा॒त् । इति॑ । आ॒ह॒ ।  
 यत् । वः॒ । मेध्य॑म् । य॒ज्ञिय॑म् । सदे॑व॒मिति॒ स-दे॒व॒म् । तत् । वः॒ । मा । अवेति॑ । क्र॒मि॒ष॒म् । इति॑ । वाव । ए॒तत् । आ॒ह॒ ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -719,11 +1084,15 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 "अच्छि॑न्न॒न् तन्तु॑म् पृथि॒व्या अनु॑ गेष॒मि"त्या॑ह । सेतु॑मे॒व कृ॒त्वाऽत्ये॑ति ॥ [33]  
 </details>
 
+<details><summary>Keith</summary>
+
+'The unbroken web of earth may I follow', he says; verily making a bridge he crosses over.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अच्छि॑न्न॒न् तन्तु॑म् पृथि॒व्या अनु॑ गेष॒मि"त्या॑ह । सेतु॑मे॒व कृ॒त्वाऽत्ये॑ति ॥ [33]  
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -736,3 +1105,4 @@ title = "०४ यजमानस्य दण्डादानमुष्ट
 
 इति षष्ठे प्रथमे चतुर्थोनुवाकः ॥  
 </details>
+

@@ -13,17 +13,47 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षट्प॒दान्यनु॒ नि क्रा॑मति ।
-ष॒ड॒हव्ँ वाङ्नाति॑ वदति ।  
-उ॒त सव्ँ॑वत्स॒रस्याय॑ने॒ याव॑त्ये॒व वाक् , तामव॑ रुन्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+He follows six steps.
 </details>
 
 <details><summary>मूलम्</summary>
 
 षट्प॒दान्यनु॒ नि क्रा॑मति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ष॒ड॒हव्ँ वाङ्नाति॑ वदति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Speech does not speak beyond the sixth day.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ष॒ड॒हव्ँ वाङ्नाति॑ वदति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उ॒त सव्ँ॑वत्स॒रस्याय॑ने॒ याव॑त्ये॒व वाक् , तामव॑ रुन्धे ।
 </details>
 
+<details><summary>Keith</summary>
+
+He wins speech in the size in which she is found in the path of the year.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उ॒त सव्ँ॑वत्स॒रस्याय॑ने॒ याव॑त्ये॒व वाक् , तामव॑ रुन्धे ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -45,22 +75,62 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒प्त॒मे प॒दे जु॑होति ।
-स॒प्तप॑दा॒ शक्व॑री ।  
+</details>
 
-प॒शव॒श् शक्व॑री ।
-प॒शून् ए॒वाव॑ रुन्धे ।  
+<details><summary>Keith</summary>
 
-स॒प्त ग्रा॒म्याᳶ प॒शव॑स् , स॒प्तार॒ण्यास् , स॒प्त छन्दाँ॑सि ।  
-उ॒भय॒स्याव॑रुध्यै ।
+He offers in the seventh footprint.
 </details>
 
 <details><summary>मूलम्</summary>
 
 स॒प्त॒मे प॒दे जु॑होति ।
-स॒प्तप॑दा॒ शक्व॑री ।  
+</details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒प्तप॑दा॒ शक्व॑री ।  
 प॒शव॒श् शक्व॑री ।
+</details>
+
+<details><summary>Keith</summary>
+
+The Śakvari has seven feet, the Śakvari is cattle;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒प्तप॑दा॒ शक्व॑री ।  
+प॒शव॒श् शक्व॑री ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प॒शून् ए॒वाव॑ रुन्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he wins cattle.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प॒शून् ए॒वाव॑ रुन्धे ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒प्त ग्रा॒म्याᳶ प॒शव॑स् , स॒प्तार॒ण्यास् , स॒प्त छन्दाँ॑सि ।  
+उ॒भय॒स्याव॑रुध्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+There are seven domesticated animals, and seven wild; there are seven metres to win both sets of animals.
+</details>
+
+<details><summary>मूलम्</summary>
 
 स॒प्त ग्रा॒म्याᳶ प॒शव॑स् , स॒प्तार॒ण्यास् , स॒प्त छन्दाँ॑सि ।  
 उ॒भय॒स्याव॑रुध्यै ।
@@ -92,12 +162,30 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "वस्व्य॑सि रु॒द्रासी"त्या॑ह ।
-रू॒पमे॒वास्या॑ ए॒तन् म॑हि॒मानव्ँ॒ व्याच॑ष्टे। [54]  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art a Vasvi, thou art a Rudra', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 "वस्व्य॑सि रु॒द्रासी"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रू॒पमे॒वास्या॑ ए॒तन् म॑हि॒मानव्ँ॒ व्याच॑ष्टे। [54]  
+</details>
+
+<details><summary>Keith</summary>
+
+verily thus by her form he expounds her greatness [1].
+</details>
+
+<details><summary>मूलम्</summary>
+
 रू॒पमे॒वास्या॑ ए॒तन् म॑हि॒मानव्ँ॒ व्याच॑ष्टे। [54]  
 </details>
 
@@ -121,16 +209,60 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "बृह॒स्पति॑स्त्वा सु॒म्ने र॑ण्व॒त्वि"त्या॑ह ।
-ब्रह्म॒ वै दे॒वाना॒म् बृह॒स्पतिः॑ ।  
-ब्रह्म॑णै॒वास्मै॑ प॒शूनव॑ रुन्धे ।  
-"रु॒द्रो वसु॑भि॒र् आ चि॑के॒त्वि"त्या॑ह । आवृ॑त्त्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+'May Brhaspati make thee rejoice in happiness', he says.
 </details>
 
 <details><summary>मूलम्</summary>
 
 "बृह॒स्पति॑स्त्वा सु॒म्ने र॑ण्व॒त्वि"त्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ब्रह्म॒ वै दे॒वाना॒म् बृह॒स्पतिः॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Brhaspati is the holy power of the gods;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्म॒ वै दे॒वाना॒म् बृह॒स्पतिः॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ब्रह्म॑णै॒वास्मै॑ प॒शूनव॑ रुन्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily by means of the holy power be wins cattle for him.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्म॑णै॒वास्मै॑ प॒शूनव॑ रुन्धे ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"रु॒द्रो वसु॑भि॒र् आ चि॑के॒त्वि"त्या॑ह । आवृ॑त्त्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+'May Rudra with the Vasus be favourable to thee', he says, for the sake of protection.
+</details>
+
+<details><summary>मूलम्</summary>
+
 "रु॒द्रो वसु॑भि॒र् आ चि॑के॒त्वि"त्या॑ह । आवृ॑त्त्यै ।
 </details>
 
@@ -141,9 +273,7 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 ब्रह्म॑णा । ए॒व । अ॒स्मै॒ । प॒शून् । अवेति॑ । रु॒न्द्धे॒ ।   
 
 रु॒द्रः । वसु॑भि॒रिति॒ वसु॑-भिः॒ । एति॑ । चि॒के॒तु॒ । इति॑ । आ॒ह॒ । आवृ॑त्त्या॒ इत्या-वृ॒त्त्यै॒ । 
-
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -159,20 +289,90 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृ॒थि॒व्यास् त्वा॑ मू॒र्धन्न् आ जि॑घर्मि देव॒यज॑न॒ इत्या॑ह ।
-पृ॒थि॒व्या ह्ये॑ष मू॒र्धा , यद् दे॑व॒यज॑नम् ।
-"इडा॑याᳶ प॒द "इत्या॑ह ।
-इडा॑यै॒ ह्ये॑तत् प॒दय्ँ यत्सो॑म॒क्रय॑ण्यै ।
-"घृ॒तव॑ति॒ स्वाहा॑" इत्या॑ह ।[55]
-यदे॒वास्यै॑ प॒दाद् घृ॒तमपी॑ड्यत॒ तस्मा॑द् ए॒वमा॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'I pour thee on the head of the earth, on the place of sacrifice', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒व्यास् त्वा॑ मू॒र्धन्न् आ जि॑घर्मि देव॒यज॑न॒ इत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पृ॒थि॒व्या ह्ये॑ष मू॒र्धा , यद् दे॑व॒यज॑नम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+for the place of sacrifice is the head of the earth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पृ॒थि॒व्या ह्ये॑ष मू॒र्धा , यद् दे॑व॒यज॑नम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "इडा॑याᳶ प॒द "इत्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'On the abode of the offering', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"इडा॑याᳶ प॒द "इत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इडा॑यै॒ ह्ये॑तत् प॒दय्ँ यत्सो॑म॒क्रय॑ण्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+for the foot of the cow by which the Soma is bought is the abode of the offering.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इडा॑यै॒ ह्ये॑तत् प॒दय्ँ यत्सो॑म॒क्रय॑ण्यै ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "घृ॒तव॑ति॒ स्वाहा॑" इत्या॑ह ।[55]
+</details>
+
+<details><summary>Keith</summary>
+
+'Rich in ghee; hail!' [2], he says.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"घृ॒तव॑ति॒ स्वाहा॑" इत्या॑ह ।[55]
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदे॒वास्यै॑ प॒दाद् घृ॒तमपी॑ड्यत॒ तस्मा॑द् ए॒वमा॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+Because it was from her foot that ghee was pressed out, he says thus.
+</details>
+
+<details><summary>मूलम्</summary>
+
 यदे॒वास्यै॑ प॒दाद् घृ॒तमपी॑ड्यत॒ तस्मा॑द् ए॒वमा॑ह ।
 </details>
 
@@ -188,7 +388,6 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 यत् । ए॒व । अ॒स्यै॒ । प॒दात् । घृ॒तम् । अपी॑ड्यत । तस्मा॑त् । ए॒वम् । आ॒ह॒ ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5अथ 'पृथिव्यास्त्वा' इति पदे जुहोति, तद्व्याचष्टेपृथिव्या ह्येष इति ॥ यद्देवयजनं यत्र देवा इज्यन्ते एष हि पृथिव्या मूर्धा शिरस्थानीयं स्थानं प्रधानभूतमिति पृथिव्या मूर्धस्थानीयदेवतायजनरूपोण सप्तमं पदं स्तूयते । यद्वा - पृथिव्या ह्येष मुर्धा मूर्धस्थानीयं सप्तमं पदम् । कोस्य विशेष इत्याह - यद्देवयजनमिति । 'उदात्तयणः' इति पृथिव्या विभक्तेरुदात्तत्वम् । इडायै ह्येतदिति । इडा सोमक्रयागी । 'पशवो वा इडा' इति तस्मादेतदिडायाः पदं यत्सोमक्रयण्याः पदम् । षष्ठ्यर्थे चतुर्थी । यदेवास्या इति । सा यत्रयत्र न्यक्रामत् ततो घृतमपीड्यतेति । यस्मादस्याः पदाहतमपीड्यत तस्मादेवमाह 'इडायाः पदे घृतवति' इति ॥
@@ -203,17 +402,61 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 
 यद॑ध्व॒र्युर॑न॒ग्नावाहु॑तिञ्जुहु॒यात् ।
 अ॒न्धो॑ऽध्व॒र्युस् स्या॒द् , रक्षाँ॑सि य॒ज्ञँ ह॑न्युः ।  
-हिर॑ण्यमु॒पास्य॑ जुहोति । अ॒ग्नि॒वत्ये॒व जु॑होति ।
-नान्धो॑ऽध्व॒र्युर्भव॑ति॒ ,
-न य॒ज्ञँ रक्षाँ॑सि घ्नन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+If the Adhvaryu were to offer a libation where there were no fire, the Adhvaryu would become blind, and the Raksases would destroy the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद॑ध्व॒र्युर॑न॒ग्नावाहु॑तिञ्जुहु॒यात् ।
 अ॒न्धो॑ऽध्व॒र्युस् स्या॒द् , रक्षाँ॑सि य॒ज्ञँ ह॑न्युः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हिर॑ण्यमु॒पास्य॑ जुहोति । अ॒ग्नि॒वत्ये॒व जु॑होति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He offers after putting down the gold; verily he offers in that which has fire,
+</details>
+
+<details><summary>मूलम्</summary>
+
+हिर॑ण्यमु॒पास्य॑ जुहोति । अ॒ग्नि॒वत्ये॒व जु॑होति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नान्धो॑ऽध्व॒र्युर्भव॑ति॒ ,
+</details>
+
+<details><summary>Keith</summary>
+
+the Adhvaryu does not become blind, and the Raksases.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नान्धो॑ऽध्व॒र्युर्भव॑ति॒ ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न य॒ज्ञँ रक्षाँ॑सि घ्नन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+do not destroy the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 न य॒ज्ञँ रक्षाँ॑सि घ्नन्ति ।
 </details>
 
@@ -240,20 +483,49 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काण्डे॑काण्डे॒ वै क्रि॒यमा॑णे य॒ज्ञँ रक्षाँ॑सि जिघाँसन्ति ।  
-परि॑लिखितँ॒ रक्ष॒ᳶ परि॑लिखिता॒ अरा॑तय॒ इत्या॑ह ।
-रक्ष॑सा॒मप॑हत्यै ।[56]  
-"इ॒दम॒हँ रक्ष॑सो ग्री॒वा अपि॑ कृन्तामि॒ , यो॑ऽस्मान् द्वेष्टि॒ यञ्च॑ व॒यन् द्वि॒ष्म" इत्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+As each part is performed, the Raksases are fain to injure the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
 
 काण्डे॑काण्डे॒ वै क्रि॒यमा॑णे य॒ज्ञँ रक्षाँ॑सि जिघाँसन्ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 परि॑लिखितँ॒ रक्ष॒ᳶ परि॑लिखिता॒ अरा॑तय॒ इत्या॑ह ।
 रक्ष॑सा॒मप॑हत्यै ।[56]  
+</details>
+
+<details><summary>Keith</summary>
+
+'The Raksas is enclosed, the evil spirits are enclosed', he says, for the smiting away of the Raksases [3].
+</details>
+
+<details><summary>मूलम्</summary>
+
+परि॑लिखितँ॒ रक्ष॒ᳶ परि॑लिखिता॒ अरा॑तय॒ इत्या॑ह ।
+रक्ष॑सा॒मप॑हत्यै ।[56]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "इ॒दम॒हँ रक्ष॑सो ग्री॒वा अपि॑ कृन्तामि॒ , यो॑ऽस्मान् द्वेष्टि॒ यञ्च॑ व॒यन् द्वि॒ष्म" इत्या॑ह ।
 </details>
 
+<details><summary>Keith</summary>
 
+'Thus I cut the necks of the Raksas'; 'Who hateth us and whom we hate', he says.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"इ॒दम॒हँ रक्ष॑सो ग्री॒वा अपि॑ कृन्तामि॒ , यो॑ऽस्मान् द्वेष्टि॒ यञ्च॑ व॒यन् द्वि॒ष्म" इत्या॑ह ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -265,7 +537,6 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 यः । अ॒स्मान् । द्वेष्टि॑ । यम् । च॒ । व॒यम् । द्वि॒ष्मः । इति॑ । आ॒ह॒ । 
 
 काण्डे॑काण्ड॒ इति॒ काण्डे॑-का॒ण्डे॒ । वै । क्रि॒यमा॑णे । य॒ज्ञम् । रक्षाँ॑सि । जि॒घाँ॒स॒न्ति॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -284,12 +555,30 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वौ वाव पुरु॑षौ॒ यञ्चै॒व द्वेष्टि॒ यश् चै॑न॒न् द्वेष्टि॑ ।
-तयो॑र् ए॒वान॑न्तरायङ् ग्री॒वाᳵ कृ॑न्तति ।
+</details>
+
+<details><summary>Keith</summary>
+
+There are two persons, one whom he hates and one who hates him;
 </details>
 
 <details><summary>मूलम्</summary>
 
 द्वौ वाव पुरु॑षौ॒ यञ्चै॒व द्वेष्टि॒ यश् चै॑न॒न् द्वेष्टि॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तयो॑र् ए॒वान॑न्तरायङ् ग्री॒वाᳵ कृ॑न्तति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily successively he cuts their necks.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तयो॑र् ए॒वान॑न्तरायङ् ग्री॒वाᳵ कृ॑न्तति ।
 </details>
 
@@ -313,15 +602,125 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प॒शवो॒ वै सो॑म॒क्रय॑ण्यै प॒दम् ।
-याँ॑वत्त्मू॒तँ सव्ँव॑पति ,
-प॒शून् ए॒वाव॑ रुन्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The foot of the cow with which the Soma is bought is cattle;
 </details>
 
 <details><summary>मूलम्</summary>
 
 प॒शवो॒ वै सो॑म॒क्रय॑ण्यै प॒दम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 याँ॑वत्त्मू॒तँ सव्ँव॑पति ,
+</details>
+
+<details><summary>Keith</summary>
+
+he pours (the dust of the footprint) so far as it is mixed with the ghee;
+</details>
+
+<details><summary>मूलम्</summary>
+
+याँ॑वत्त्मू॒तँ सव्ँव॑पति ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प॒शून् ए॒वाव॑ रुन्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he wins cattle.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प॒शून् ए॒वाव॑ रुन्धे ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अ॒स्मे राय॒" इति॒ सव्ँ व॑पति ।
+</details>
+
+<details><summary>Keith</summary>
+
+(Saying) 'Ours be wealth', he pours it;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"अ॒स्मे राय॒" इति॒ सव्ँ व॑पति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒त्मान॑म् ए॒वाध्व॒र्युᳶ प॒शुभ्यो॒ नान्तरे॑ति ।[57]  
+</details>
+
+<details><summary>Keith</summary>
+
+verily the Adhvaryu [4] does not deprive himself of cattle.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒त्मान॑म् ए॒वाध्व॒र्युᳶ प॒शुभ्यो॒ नान्तरे॑ति ।[57]  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"त्वे राय॒" इति॒ यज॑मानाय॒ प्र य॑च्छति ।  
+यज॑मान ए॒व र॒यिन्द॑धाति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Saying 'Thine be wealth', he hands it to the sacrificer, and so bestows wealth on the sacrificer.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"त्वे राय॒" इति॒ यज॑मानाय॒ प्र य॑च्छति ।  
+यज॑मान ए॒व र॒यिन्द॑धाति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"तोते॒ राय॒" इति॒ , पत्नि॑यै ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Saying 'Thine be wealth', (the sacrificer hands it) to his wife.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"तोते॒ राय॒" इति॒ , पत्नि॑यै ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒र्धो वा ए॒ष आ॒त्मनो॒ यत्पत्नी॑ ।
+यथा॑ गृ॒हेषु॑ निध॒त्ते , ता॒दृग् ए॒व तत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+For a wife is the half of oneself, and to do so is as it were to deposit it in one's house.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒र्धो वा ए॒ष आ॒त्मनो॒ यत्पत्नी॑ ।
+यथा॑ गृ॒हेषु॑ निध॒त्ते , ता॒दृग् ए॒व तत् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -331,28 +730,10 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 प॒शून् । ए॒व । अवेति॑ । रु॒न्द्धे॒ । 
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9पशवो वा इति ॥ यागद्वारेण पशुहेतुत्वात्, सप्तत्वस्य वा शाक्वरस्य शाक्वरपशुसाधनत्वात् । यावत्त्मूतं संवपतीति विधिः । यावत्प्रदेशः स्मृतः आज्येन सिक्तः तावत्संवपति गृहीत्वा मृत् धरण्यां क्षिपति, पशूनवरुन्धे । मव बन्धने, निष्ठायां 'ज्वरत्वर' इत्यादिना ऊठादेशः, जस्त्वाभावश्छान्दसः, अनुनासिकाभावश्च ।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-"अ॒स्मे राय॒" इति॒ सव्ँ व॑पति ।
-आ॒त्मान॑म् ए॒वाध्व॒र्युᳶ प॒शुभ्यो॒ नान्तरे॑ति ।[57]  
-"त्वे राय॒" इति॒ यज॑मानाय॒ प्र य॑च्छति ।  
-यज॑मान ए॒व र॒यिन्द॑धाति ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-"अ॒स्मे राय॒" इति॒ सव्ँ व॑पति ।
-आ॒त्मान॑म् ए॒वाध्व॒र्युᳶ प॒शुभ्यो॒ नान्तरे॑ति ।[57]  
-"त्वे राय॒" इति॒ यज॑मानाय॒ प्र य॑च्छति ।  
-यज॑मान ए॒व र॒यिन्द॑धाति ।
-</details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -361,22 +742,11 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 
 त्वे इति॑ । रायः॑ । इति॑ । यज॑मानाय । प्रेति॑ । य॒च्छ॒ति॒ ।  
 यज॑माने । ए॒व । र॒यिम् । द॒धा॒ति॒ ।   
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अस्मे राय इति संवपतीति मन्त्रविधिस्स्तुत्यर्थः । आत्मानमेवेति । नान्तरेति न व्यवदधाति आत्मानमेव पशुमन्तं करोति । तस्मादस्मे रायः पशुलक्षणानि धनानि सन्त्वित्यात्मार्थमेवाऽध्वर्युः प्रार्थयते; न यजमानार्थं, तस्य 'त्वे रायः' इति प्रार्थयिष्यमाणत्वात् । त्वे राय इत्यादिविधिः । यजमान एव रयिं पशुलक्षणं दधाति स्थापयति ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-"तोते॒ राय॒" इति॒ , पत्नि॑यै ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
-"तोते॒ राय॒" इति॒ , पत्नि॑यै ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -389,27 +759,11 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 तोते राय इति पत्निया इति विधिः । प्रयच्छतीत्येव । त्वया ऊतं तोतमिति गृहमुच्यते । तत्र रायो धनानि सन्त्विति पत्न्यै प्रयच्छति । तत्सा गृहेषु निदधाति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अ॒र्धो वा ए॒ष आ॒त्मनो॒ यत्पत्नी॑ ।
-यथा॑ गृ॒हेषु॑ निध॒त्ते , ता॒दृग् ए॒व तत् ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-अ॒र्धो वा ए॒ष आ॒त्मनो॒ यत्पत्नी॑ ।
-यथा॑ गृ॒हेषु॑ निध॒त्ते , ता॒दृग् ए॒व तत् ।
-</details>
-
-
 <details><summary>पद-पाठः</summary>
 
 अ॒र्धः । वै । ए॒षः । आ॒त्मनः॑ । यत् । पत्नी॑ । 
 
 यथा॑ । गृ॒हेषु॑ । नि॒ध॒त्त इति॑ नि-ध॒त्ते । ता॒दृक् । ए॒व । तत् । 
-
-
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -425,17 +779,47 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "त्वष्टी॑मती ते सपे॒ये"त्या॑ह ।  
-त्वष्टा॒ वै प॑शू॒नाम् मि॑थु॒नानाँ॑ रूप॒कृत् ।  
-रू॒पमे॒व प॒शुषु॑ दधाति ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Let me attend on thee with Tvastr's aid', he says.
 </details>
 
 <details><summary>मूलम्</summary>
 
 "त्वष्टी॑मती ते सपे॒ये"त्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 त्वष्टा॒ वै प॑शू॒नाम् मि॑थु॒नानाँ॑ रूप॒कृत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Tvastr is the maker of the forms of offspring, of pairings;
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्वष्टा॒ वै प॑शू॒नाम् मि॑थु॒नानाँ॑ रूप॒कृत् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रू॒पमे॒व प॒शुषु॑ दधाति ।
 </details>
 
+<details><summary>Keith</summary>
+
+verily he places form in cattle.
+</details>
+
+<details><summary>मूलम्</summary>
+
+रू॒पमे॒व प॒शुषु॑ दधाति ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -463,6 +847,11 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 उ॒भयो॑रे॒वैनल्ँ॑ लो॒कयोः॑ पशु॒मन्त॑ङ् करोति +++(यजमानम्।)+++॥ [58]  
 </details>
 
+<details><summary>Keith</summary>
+
+For this world the
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒स्मै वै लो॒काय॒ गार्ह॑पत्य॒ आ धी॑यते॒ ऽमुष्मा॑ आहव॒नीयः॑ ।  
@@ -484,11 +873,10 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 उ॒भयोः॑ । ए॒व । ए॒न॒म् । लो॒कयोः॑ । प॒शु॒मन्त॒मिति॑ पशु-मन्त॑म् । क॒रो॒ति॒ ॥ [58]  
 </details>
 
-
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 11अस्मा इत्यादि ॥ अस्मै लोकाय अस्मिन् लोके यदीप्सितं तत्सिद्धये हेतुः गार्हपत्य आधीयते उत्पाद्यते । 'गृहपतिना संयुक्ते ञः' इति ञः । अमुष्मै आमुष्मिकफलसिद्धये आहवनीयः आधीयते । आहूयतेऽस्मिन्नित्याहवनीयः, 'कृत्यल्युटो बहुलम्' इत्यधिकरणे अनीयर्, 'उपोत्तमं रिति' इत्युपोत्तमस्योदात्त- त्वम् । यदित्यादि । यदि गार्हपत्य एवेपवपेत्पदपांसून्, अस्मिन्नेव लोके पशुमांत्स्याद्यजमानः । 'ह्रस्वनुड्भ्यां मतुप्', इति मतुप उदात्तत्वम् । यद्याहवनीय एव, अमुष्मिन्नेव पशुमांत्स्यात् । तस्मादुभयोरुपवपतीति विधिः । उभयोर्लोकयोरेन यजमानं पशुमन्तं करोतीति ॥
 
 इति षष्ठे प्रथमे अष्टमोनुवाकः ॥  
 </details>
+
