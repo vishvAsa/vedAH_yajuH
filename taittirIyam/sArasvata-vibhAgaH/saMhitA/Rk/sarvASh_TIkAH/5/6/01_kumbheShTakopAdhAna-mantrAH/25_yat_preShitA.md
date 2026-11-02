@@ -4,6 +4,14 @@ title = "25 यत् प्रेषिता"
 +++
 
 
+<details><summary>Keith</summary>
+
+When instigated by Varuna  
+Ye wallowed speedily [2],  
+Then Indra obtained (apnot) you as ye went  
+Therefore ye are waters (ápah).
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत् प्रेषि॑ता॒ वरु॑णेन॒,  ताश् शीभँ॑ स॒मव॑ल्गत । [2]  

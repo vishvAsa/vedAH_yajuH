@@ -3,6 +3,15 @@ title = "१५ -१९ ओजस्विनी नामासि"
 
 +++
 
+<details><summary>Keith</summary>
+
+Thou art the southern quarter, the mighty by name; of thee as such Indra is the overlord, the scorpion, &c.  
+Thou art the western quarter, the forward by name; of thee as such [1] Soma is the overlord, the viper, &c.  
+Thou art the northern quarter, the stable by name; of thee as such Varuna is overlord, the striped snake, &c.  
+Thou art the great quarter, the lady paramount by name; of thee as such Brhaspati is overlord, the white, &c.  
+Thou art this quarter, the powerful by name; of thee as such Yama is the overlord, the spotted necked (snake) the guardian; the overlord and the guardian, to them homage; may they be gentle to us; him whom we hate and [2] who hateth us I place within the jaws of you two.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ओ॒ज॒स्विनी॒ नामा॑सि दक्षि॒णा दिक्तस्या॑स्त॒ इन्द्रोऽधि॑पतिः पृदा॑कू र॑क्षि॒ता  

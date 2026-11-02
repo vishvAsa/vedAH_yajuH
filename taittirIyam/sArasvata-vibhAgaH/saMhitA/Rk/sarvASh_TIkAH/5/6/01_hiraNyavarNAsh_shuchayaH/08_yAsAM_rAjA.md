@@ -4,6 +4,14 @@ title = "08 यासां राजा"
 +++
 
 
+<details><summary>Keith</summary>
+
+Those in whose midst Varuna doth go,  
+Gazing on the truth and falsehood of men,  
+Dripping honey, pure, purifying;  
+May these waters be gentle and kindly to us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यासाँ॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑, सत्यानृ॒ते अ॑व॒पश्य॒ञ् जना॑नाम् ।

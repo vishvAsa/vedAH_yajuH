@@ -2,6 +2,11 @@
 title = "२० -२५ हेतयो नामस्थ"
 
 +++
+<details><summary>Keith</summary>
+
+Ye are missiles by name; your houses are in the east; your arrows are Agni; the water, &c. Ye are smearers by name [3]; your houses are in the south, your arrows are the fathers; the ocean, &c. Ye are the bearers of the bolt by name; your houses are in the west, your arrows are sleep; the cleft, &c. Ye are the stable by name; your houses are in the north; your arrows are the waters; the sea, &c. Ye are overlords by name; your houses are above; your arrows are the rain; the helper, &c. Ye are the raw-flesh eaters by name, of the earth; your houses are bore [4]; your arrows are food; winking is the name of the wind; to you homage; be ye gentle to us; him whom we hate and who hateth us I put in your jaws.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हे॒तयो॒ नाम॑ स्थ ।  

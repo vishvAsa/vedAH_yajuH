@@ -4,6 +4,14 @@ title = "29 अपकामं स्यन्दमाना"
 +++
 
 
+<details><summary>Keith</summary>
+
+As ye glided against his will,  
+He stayed (ávivarata) your courses,  
+Indra with his might, O goddesses;  
+Therefore your name is water (váh).
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒प॒का॒मँ स्यन्द॑माना॒ अवी॑वरत वो॒ हिक॑म् ।  

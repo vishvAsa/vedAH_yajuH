@@ -4,6 +4,14 @@ title = "50 भद्रान् नश्"
 +++
 
 
+<details><summary>Keith</summary>
+
+Better than good have the gods brought together;  
+With thee as aid may we win thee;  
+Do thou, wonder-working, O drop [4], enter us,  
+Be propitious and kindly to our children, our descendants.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भ॒द्रान् न॒श् श्रेय॒स् सम॑नैष्ट देवा॒स् त्वया॑व॒सेन॒ सम॑शीमहि त्वा ।   
@@ -13,7 +21,6 @@ title = "50 भद्रान् नश्"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-12अथ पञ्चमी - भद्रादिति ॥  
 हे देवाः **भद्रात्** कल्याणात् अस्माद्वर्तमानात् श्रेयः प्रशस्यतरं भद्रं अस्मभ्यं समनैष्ट सम्यङ्नयत । छान्दसो लुङ् ।  
 हे सोम **त्वया अवसेन** रक्ष्येण भक्ष्यमाणेन यथा **त्वां समशीमहि** सम्यग्व्याप्नुयामः पुनःपुनः तव पातारः स्याम 'बहुलं छन्दसि' इति अश्नोतेः शपो लुक् ।  
 अत्रावसश्रुतेः सोम आमन्त्र्यत इति गम्यते ।  

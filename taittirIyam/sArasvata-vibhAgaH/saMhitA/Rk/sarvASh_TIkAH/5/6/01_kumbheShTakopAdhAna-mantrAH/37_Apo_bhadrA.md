@@ -3,6 +3,13 @@ title = "37 आपो भद्रा,"
 
 +++
 
+<details><summary>Keith</summary>
+
+The waters are kindly, the waters were ghee;  
+These waters bear Agni and Soma;  
+The bitter sap of those dispensing sweetness [3], the satisfying, Hath come to me with breath, with radiance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आपो॑ भ॒द्रा घृ॒तमिदाप॑ आसुर् - अ॒ग्नीषोमौ॑ बिभ्र॒त्याप॒ इत्ताः ।  

@@ -3,6 +3,14 @@ title = "16 शिवेन मा"
 
 +++
 
+<details><summary>Keith</summary>
+
+With auspicious eye gaze on me, O waters;  
+With auspicious body, do ye touch my skin;  
+I invoke all you Agnis that sit in the waters;  
+Do ye confer upon me radiance and might and force.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शि॒वेन॑ मा॒ चक्षु॑षा पश्यतापश् - शि॒वया॑ त॒नुवोप॑ स्पृशत॒ त्वच॑म् मे ।

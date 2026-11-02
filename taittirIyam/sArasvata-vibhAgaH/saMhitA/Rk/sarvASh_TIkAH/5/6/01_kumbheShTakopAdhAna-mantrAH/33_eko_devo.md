@@ -4,6 +4,14 @@ title = "33 एको देवो"
 +++
 
 
+<details><summary>Keith</summary>
+
+One god stepped upon them,  
+As they glided, according to his will,  
+(Saying) 'The great ones have breathed forth (úd)  
+Therefore they are called water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एको॑ दे॒वो अप्य॑तिष्ठ॒थ् - स्यन्द॑माना यथाव॒शम् ।  

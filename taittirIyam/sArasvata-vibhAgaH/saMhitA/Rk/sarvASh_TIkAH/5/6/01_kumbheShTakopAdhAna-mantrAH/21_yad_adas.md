@@ -4,6 +4,14 @@ title = "21 यद् अदस्"
 +++
 
 
+<details><summary>Keith</summary>
+
+When as ye went below  
+Ye cried (ánadata) on the slaying of the serpent,  
+Therefore are yo criers (nadyáh) by name;  
+These are your names, O streams.  
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद॒दस् स॑म्प्रय॒तीरहा॒वन॑दता ह॒ते ।  

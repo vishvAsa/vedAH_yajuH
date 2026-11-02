@@ -4,6 +4,12 @@ title = "12 यासान् देवा"
 +++
 
 
+<details><summary>Keith</summary>
+
+Those of which in the sky the gods make their food, Those that are in many places in the sky,  
+Those that inundate the earth with their sap [1], the pure ones May these waters be gentle and kindly to us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यासा॑न् दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒क्षय्ँ - या अ॒न्तरि॑क्षे बहु॒धा भव॑न्ति ।  

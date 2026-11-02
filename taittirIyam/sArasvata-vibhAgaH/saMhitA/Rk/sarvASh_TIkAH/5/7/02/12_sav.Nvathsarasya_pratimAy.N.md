@@ -4,6 +4,14 @@ title = "12 सव्ँवत्सरस्य प्रतिमाय्ँ"
 +++
 
 
+<details><summary>Keith</summary>
+
+The image of the year  
+Which men revere in thee, O night,  
+Making his offspring rich in heroes,  
+May he obtain all life.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सव्ँ॒व॒त्स॒रस्य॑ प्रति॒माय्ँ यान् त्वा॑ रात्र्यु॒पास॑ते ।   

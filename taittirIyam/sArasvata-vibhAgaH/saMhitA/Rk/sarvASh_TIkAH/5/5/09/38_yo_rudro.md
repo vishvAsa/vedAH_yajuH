@@ -4,6 +4,11 @@ title = "38 यो रुद्रो"
 +++
 
 
+<details><summary>Keith</summary>
+
+The Rudra in the fire, in the waters, in the plants, the Rudra that hath entered all beings, to that Rudra be homage.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो रु॒द्रो अ॒ग्नौ , यो अ॒प्सु , य ओष॑धीषु॒ , यो रु॒द्रो विश्वा॒ भुव॑नावि॒वेश॒  तस्मै॑ रु॒द्राय॒ नमो॑ अ॒स्तु ।
