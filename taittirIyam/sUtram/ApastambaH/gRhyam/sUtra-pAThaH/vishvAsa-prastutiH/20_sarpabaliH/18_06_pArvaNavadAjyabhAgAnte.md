@@ -5,12 +5,24 @@ title = "१८ ०६ पार्वणवदाज्यभागान्त
 पार्वणवद् आज्यभागान्ते स्थालीपाकाद् +धुत्वा  
 ऽञ्जलिनोत्तरैः प्रतिमन्त्रं +++(३)+++ किंशुकानि जुहोति ६  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/13-15_jagdho_mashako.md">
-<details open><summary><h2>१३-१५ जग्धो मशको ...{Loading}...</h2></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/13_jagdho_mashako_vitRuShTiH.md">
 
-ज॒ग्धो मश॑को, ज॒ग्धा वितृ॑ष्टिर्, ज॒ग्धो व्य॑द्ध्व॒रः स्वाहा॑ ।  
-ज॒ग्धो व्य॑द्ध्व॒रो,  ज॒ग्धो मश॑को,  ज॒ग्धा वितृ॑ष्टि॒स् स्वाहा॑ ।  
-ज॒ग्धा वितृ॑ष्टिर्, ज॒ग्धो व्य॑द्ध्व॒रो, ज॒ग्धो मश॑क॒स् स्वाहा॑ ॥ +++(र५ विन्यासे ऽत्र सर्पाकृतिः)+++
 
-</details>
+जग्धो᳓ म᳓शको, जग्धा᳓ वि᳓तृष्टिर्, जग्धो᳓ व्यद्ध्वरः᳓ स्वा᳓हा ।  
+
+
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/14_jagdho_vyaddhvaro_mashakaH.md">
+
+
+जग्धो᳓ व्यद्ध्वरो᳓,  जग्धो᳓ म᳓शको,  जग्धा᳓ वि᳓तृष्टिस् स्वा᳓हा ।  
+
+
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/15_jagdha_vitRuShTir_mashakaH.md">
+
+
+जग्धा᳓ वि᳓तृष्टिर्, जग्धो᳓ व्यद्ध्वरो᳓, जग्धो᳓ म᳓शकस् स्वा᳓हा ॥ +++(र५ विन्यासे ऽत्र सर्पाकृतिः)+++
+
+
 </div>

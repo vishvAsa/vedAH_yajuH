@@ -1,19 +1,40 @@
 +++
 title = "२१ ०४ आज्याहुतीरुत्तराः"
-
 +++
 आज्याहुतीरुत्तराः ४  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/08-13_svAhA_pitre.md">
-<details open><summary><h2>०८-१३ स्वाहा पित्रे ...{Loading}...</h2></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/08_svAhA_pitre.md">
 
-- स्वाहा॑ पि॒त्रे
-- पि॒त्रे स्वाहा॒
-- स्वाहा॑ पि॒त्रे
-- पि॒त्रे स्वाहा॑ ।
-- स्व॒धा स्वाहा॒
+स्वा᳓हा पित्रे᳓
 
-- अग्नये॑ कव्य॒वाह॑नाय स्व॒धा स्वाहा॑ ।
+</div>
 
-</details>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/09_pitre_svAhA.md">
+
+पित्रे᳓ स्वा᳓हा
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/10_svAhA_pitre.md">
+
+स्वा᳓हा पित्रे᳓
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/11_pitre_svAhA.md">
+
+पित्रे᳓ स्वा᳓हा ।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/12_svadhA_svAhA.md">
+
+स्वधा᳓ स्वा᳓हा
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/13_agnaye_kavyavAhanAya.md">
+
+अग्न᳓ये कव्यवा᳓हनाय स्वधा᳓ स्वा᳓हा ।
+
 </div>

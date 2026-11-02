@@ -5,15 +5,22 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 प्राग्घोमात् प्रदक्षिणमग्निं कृत्वा, यथास्थानम् उपविश्यान्वारब्धायाम् उत्तरा +++(१६)+++ आहुतीर् जुहोति - "सोमाय जनिविदे स्वाहे"त्येतैः प्रतिमन्त्रम् ॥  
 
 ## षोडश प्रधानाहुतिमन्त्राः
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/01-03_somAya_janivide.md">
-<details open><summary><h2>०१-०३ सोमाय जनिविदे ...{Loading}...</h2></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/01_somAya_janivide.md">
+<details open><summary><h2>०१ सोमाय जनिविदे ...{Loading}...</h2></summary>
 
-### मन्त्रः
+सो᳓माय जनि+++(=जाया)+++वि᳓दे स्वा᳓हा ।
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/02_gandharvAya_janivide.md">
+<details open><summary><h2>०२ गन्धर्वाय जनिविदे ...{Loading}...</h2></summary>
 
-सोमा॑य जनि॒+++(=जाया)+++विदे॒ स्वाहा॑ ।  
-ग॒न्ध॒र्वाय॑ जनि॒विदे॒ स्वाहा॑ ।  
-अ॒ग्नये॑ जनि॒विदे॒ स्वाहा॑ ।  
+गन्धर्वा᳓य जनि-वि᳓दे स्वा᳓हा ।
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/03_agnaye_janivide.md">
+<details open><summary><h2>०३ अग्नये जनिविदे ...{Loading}...</h2></summary>
 
+अग्न᳓ये जनिवि᳓दे स्वा᳓हा ।
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/04_kanyalA_pitRbhyo.md">
