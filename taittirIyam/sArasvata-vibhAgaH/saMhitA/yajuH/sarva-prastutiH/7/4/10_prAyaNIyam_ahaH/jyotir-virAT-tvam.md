@@ -10,9 +10,19 @@ unicode_script = "devanagari"
 +++(ज्योतिरतिरात्रस्य १९०*२ = ३७० स्तोत्रिया / ज्योतिष्टोमस्य १९० स्तोत्रिया इति कृत्वा, तस्यैव तु दशकपूरणम् भवति। ततो हि ज्योतिर् गृह्यते प्रथमं गोआयुषी परित्यज्य।)+++
 </details>
 
+<details><summary>Keith</summary>
+
+These (Stomas) being sung together make up the Viraj, and two verses are redundant; the Gostoma has one too many, and the Ayustoma one too few.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु॒व॒र्गो वै लो॒को ज्योति॒र्, +++(यत)+++ ऊर्ग्+++(=अन्नं)+++ वि॒राट् ।
+</details>
+
+<details><summary>Keith</summary>
+
+The Jyotistoma is the world of heaven, the Viraj is strength; verily they win strength.
 </details>
 
 

@@ -8,6 +8,10 @@ unicode_script = "devanagari"
 इ॒यव्ँ वाव ज्योति॑र्, अ॒न्तरि॑क्ष॒ङ् गौर्, अ॒साव् आयुः॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+The three days are the Jyotis, Go, and Ayus. The Jyotis is this (earth), the Go the atmosphere, the Ayus yonder (sky); verily they mount upon these worlds.
+</details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
 

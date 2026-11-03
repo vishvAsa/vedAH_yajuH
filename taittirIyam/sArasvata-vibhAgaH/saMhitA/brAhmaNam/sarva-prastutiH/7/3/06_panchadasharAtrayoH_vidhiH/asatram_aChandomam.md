@@ -14,18 +14,60 @@ unicode_script = "devanagari"
 
 +++(छन्दोमवतः प्रशंसार्थं वक्ति - )+++ अस॑त्त्रव्ँ॒ वा ए॒तद् यद् अ॑छन्दो॒मम् ।
 यच् छ॑न्दो॒मा भव॑न्ति॒ तेन॑ स॒त्त्रम् ।  
-दे॒वता॑ ए॒व पृ॒ष्ठैर् अव॑ रुन्धते प॒शूञ् छ॑न्दो॒मैः ।  
-ओजो॒ वा वी॒र्य॑म् पृ॒ष्ठानि॑, प॒शव॑श् छन्दो॒मा ।  
-ओज॑स्य् ए॒व वी॒र्ये॑, प॒शुषु॒ +++(च)+++ प्रति॑ तिष्ठन्ति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+There can be no Sattra where there is no Chandoma; in that there axe Chandomas, there is the Sattra.
+</details>
 
 <details><summary>मूलम्</summary>
 
 अस॑त्त्रव्ँ॒ वा ए॒तद् यद॑छन्दो॒मम् ।
 यच्छ॑न्दो॒मा भव॑न्ति॒ तेन॑ स॒त्त्रम् ।
-दे॒वता॑ ए॒व पृ॒ष्ठैरव॑ रुन्धते प॒शूञ्छ॑न्दो॒मैः ।  
-ओजो॒ वै वी॒र्य॑म्पृ॒ष्ठानि॑ प॒शव॑श्छन्दो॒माः ।
-ओज॑स्ये॒व वी॒र्ये॑ प॒शुषु॒ प्रति॑ तिष्ठन्ति ।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दे॒वता॑ ए॒व पृ॒ष्ठैर् अव॑ रुन्धते प॒शूञ् छ॑न्दो॒मैः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The gods they win by the Prsthas, the cattle by the Chandomas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+दे॒वता॑ ए॒व पृ॒ष्ठैरव॑ रुन्धते प॒शूञ्छ॑न्दो॒मैः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओजो॒ वा वी॒र्य॑म् पृ॒ष्ठानि॑, प॒शव॑श् छन्दो॒मा ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The Prsthas are force and strength, the Chandomas cattle;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ओजो॒ वै वी॒र्य॑म्पृ॒ष्ठानि॑ प॒शव॑श्छन्दो॒माः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओज॑स्य् ए॒व वी॒र्ये॑, प॒शुषु॒ +++(च)+++ प्रति॑ तिष्ठन्ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily in force [2] and strength they find support.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ओज॑स्ये॒व वी॒र्ये॑ प॒शुषु॒ प्रति॑ तिष्ठन्ति ।
+</details>

@@ -2,6 +2,11 @@
 title = "२० अश्वोऽसि हयोऽस्यत्योऽसि"
 
 +++
+<details><summary>Keith</summary>
+
+thou art a horse, thou art a steed, thou art a runner, thou art a male, thou art a strong horse, thou art a racer, thou art powerful, thou art a stallion, thou art heroic hearted; 'goer' is thy name;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अश्वो॑ऽसि॒ हयो॒ऽस्यत्यो॑ऽसि॒ नरो॒ऽस्यर्वा॑ऽसि॒ सप्ति॑रसि वा॒ज्य॑सि॒ वृषा॑सि नृ॒मणा॑ असि॒ ययु॒र्नामा॑स्यादि॒त्यानां॒ पत्वाऽन्वि॑हि ।  

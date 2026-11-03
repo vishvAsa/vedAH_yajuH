@@ -9,4 +9,9 @@ unicode_script = "devanagari"
 त्रि॒ण॒वो +++(शाक्वरसामा उक्थ्यः)+++ भ॑वति॒, विजि॑त्यै । 
 </details>
 
+<details><summary>Keith</summary>
+
+There is an Ekavinśa (Stoma), for support; verily also they place radiance in themselves. There is a Trinava (Stoma), for conquest.
+</details>
+
  

@@ -10,4 +10,9 @@ title = "२० अश्वोऽसि हयोऽस्यत्योऽस
 +++(ब्राह्मणं च 'एतद्वा अश्वस्य प्रियं नामधेयम्' इति ।)+++
 
 +++(उपतिष्ठते)+++  
-आदित्या᳓नाम् प᳓त्व+++(=पतनशीलः)+++ +**अ᳓न्विहि** ।  
+आदित्या᳓नाम् प᳓त्व+++(=पतनशीलः)+++ +**अ᳓न्विहि** ।
+
+<details><summary>Keith</summary>
+
+thou art a horse, thou art a steed, thou art a runner, thou art a male, thou art a strong horse, thou art a racer, thou art powerful, thou art a stallion, thou art heroic hearted; 'goer' is thy name;
+</details>  

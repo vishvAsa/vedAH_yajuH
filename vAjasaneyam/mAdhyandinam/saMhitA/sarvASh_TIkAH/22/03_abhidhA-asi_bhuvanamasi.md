@@ -2,6 +2,11 @@
 title = "०३ अभिधाऽअसि भुवनमसि"
 
 +++
+<details><summary>Keith</summary>
+
+Thou art surrounding; thou art the world; thou art the restrainer; thou art the supporter; do thou go, with the cry of 'Hail!' to Agni Vaiśvanara, the extending.
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒भि॒धा इत्य॑भि॒ऽधाः। अ॒सि॒। भुव॑नम्। अ॒सि॒। य॒न्ता। अ॒सि॒। ध॒र्त्ता। सः। त्वम्। अ॒ग्निम्। वै॒श्वा॒न॒र॒म्। सप्र॑थस॒मिति॒ सऽप्र॑थसम्। ग॒च्छ॒। स्वाहा॑कृत॒ इति॒ स्वाहा॑ऽकृतः। ३।
