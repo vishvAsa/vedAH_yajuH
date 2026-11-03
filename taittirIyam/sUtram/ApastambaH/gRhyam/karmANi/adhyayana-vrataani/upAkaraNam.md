@@ -21,11 +21,6 @@ title = "उपाकरणम्"
 ओषधीषु जातासु  
 हस्तेन पौर्णमास्यां वा ऽध्यायोपाकर्म २  
 
-<details><summary>विश्वास-टिप्पनी</summary>
-
-वर्षऋताव् एव प्ररोहन्ति धन्याः।
-</details>
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_03.md">
@@ -39,9 +34,7 @@ title = "उपाकरणम्"
 वेदाहुतीनाम् उपरिष्टात् सदसस्पतिम् इत्येके ३
 
 <div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/08_sadasaspatimadbhutam_priyamindrasya.md">
-
-###### ०८ सदसस्पतिमद्भुतम् प्रियमिन्द्रस्य …{Loading}…
-
+<details open><summary><h6>०८ सदसस्पतिमद्भुतम् प्रियमिन्द्रस्य …{Loading}…</h6></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
 
 स᳓दसस्प᳓तिम् अ᳓द्भुतं  
@@ -49,13 +42,8 @@ title = "उपाकरणम्"
 सनिं᳓ +++(=दानरूपम्)+++ मेधा᳓म् अयासिषम् ६
 
 </div>
-</div>
-
-<details><summary>विश्वास-टिप्पनी</summary>
-
-होम-स्थाने तर्पणम् बहुधा क्रियते।  
-होमाङ्गत्वेनाध्ययनम् इच्छन्ति केचित्। 
 </details>
+</div>
 
 </div>
 

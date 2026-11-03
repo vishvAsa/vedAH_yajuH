@@ -34,20 +34,18 @@ title = "उत्सर्गः"
 
 #### मन्त्राः
 <div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/039/06_dadhikrAvNo_akAriShaM.md">
-
-######## ०६ दधिक्राव्णो अकारिषं …{Loading}…
+<details open><summary><h8>०६ दधिक्राव्णो अकारिषं …{Loading}…</h8></summary>
 
 +++(pegasus-प्रोष्ठपदासु)+++ दधि-क्रा᳓व्णो **अकारिषं**  
 जिष्णो᳓र् अ᳓श्वस्य वाजि᳓नः ।  
 **सुरभि᳓** नो मु᳓खा **करत्**  
 प्र᳓ ण **आ᳓यूँषि तारिषत्** ।
 
+</details>
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/AryaH/hindukaH/jalam/Rk/Apo_hi_ShThA/">
-
-######## आपो हि ष्ठा …{Loading}…
-
+<details open><summary><h8>आपो हि ष्ठा …{Loading}…</h8></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
 
 आ᳓पो हि᳓ ष्ठा᳓ मयो-भु᳓वस्  
@@ -67,17 +65,16 @@ title = "उत्सर्गः"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
 
 +++(रसाय)+++ त᳓स्मा अ᳓रं+++(=शीघ्रम्)+++ **गमाम** वो  
-यस्य +++(प्रभावेण)+++ **क्ष᳓याय**+++(=निवासाय)+++ **जि᳓न्वथ**+++(=प्रीणयथ)+++ ।  
+य᳓स्य +++(प्रभावेण)+++ **क्ष᳓याय**+++(=निवासाय)+++ **जि᳓न्वथ**+++(=प्रीणयथ)+++ ।  
 आ᳓पो +++(प्रजा)+++ **जन᳓यथा** च नः ॥  
 +++(`चादिषु` च इति न स्वर-निघातः। )+++
 
 </div>
+</details>
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/AryaH/hindukaH/varuNaH/Rk/vAruNyaH/">
-
-######## वारुण्यः …{Loading}…
-
+<details open><summary><h8>वारुण्यः …{Loading}…</h8></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/14_ava_te.md">
 
 अ᳓व ते **हे᳓ळो**+++(←हेड् अवज्ञायां)+++ वरुण न᳓मोभिर्  
@@ -98,9 +95,9 @@ title = "उत्सर्गः"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 
-इमं᳓ मे वरुण श्रुधी +++(=श्रुणु)+++  
-ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च मृळय +++(=सुखय)+++।  
-त्वा᳓म् अवस्यु᳓र् आ᳓ चके +++(=अवदन्)+++॥  
+इमं᳓ मे वरुण **श्रुधी** +++(=श्रुणु)+++  
+ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च **मृळय** +++(=सुखय)+++।  
+त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥  
 
 </div>
 
@@ -112,47 +109,47 @@ title = "उत्सर्गः"
 मा᳓ न आ᳓युः **प्र᳓ मोषीः** ॥
 
 </div>
+</details>
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/AryaH/hindukaH/jalam/Rk/hiraNyavarNAsh_shuchayaH/">
-
-######## हिरण्यवर्णाश् शुचयः …{Loading}…
-
+<details open><summary><h8>हिरण्यवर्णाश् शुचयः …{Loading}…</h8></summary>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
 
-हिर॑ण्यवर्णा॒श् शुच॑यᳶ पाव॒का,  
-यासु॑ **जा॒तᳵ** क॒श्यपो॒, यास्व् इन्द्रः॑ ।  
-अ॒ग्निय्ँ या गर्भ॑न् **दधि॒रे**, विरू॑पा॒स् -  
-ता न॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।
+हि᳓रण्य-वर्णाश् शु᳓चयः पावका᳓  
+या᳓सु जातः᳓ कश्य᳓पो या᳓स्व् इ᳓न्द्रः ।  
+अग्नि᳓य्ँ या᳓ ग᳓र्भन् **दधिरे᳓**, वि᳓रूपास् -  
+ता᳓स् त आ᳓पश् शँ᳓ स्योना᳓ +++(=सुखा)+++ भवन्तु ।+++(५)+++
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
 
-यासाँ॒ राजा॒ वरु॑णो॒ **याति॒** मध्ये॑,  
-सत्यानृ॒ते **अ॑व॒पश्य॒ञ्** जना॑नाम् ।  
-म॒धु॒श्-**चुत॒श्** शुच॑यो॒ याᳶ पा॑व॒कास् -  
-ता न॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।
+या᳓साँ रा᳓जा व᳓रुणो **या᳓ति** म᳓ध्ये,  
+सत्यानृते᳓ **अवप᳓श्यञ्** ज᳓नानाम् ।  
+मधुश्-**चु᳓तश्** शु᳓चयो याᳶ᳓ पावका᳓स् -  
+ता᳓ न आ᳓पश् शँ᳓ स्योना᳓ **भवन्तु** ।
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
 
-यासा॑न् दे॒वा दि॒वि **कृ॒ण्वन्ति॑** भ॒क्षय्ँ -  
-या अ॒न्तरि॑क्षे बहु॒धा **भव॑न्ति** ।  
-याᳶ पृ॑थि॒वीम् **पय॑सो॒न्दन्ति॑** शु॒क्रास् -  
-ता न॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।
+या᳓सान् देवा᳓ दिवि᳓ **कृण्व᳓न्ति** भक्षय्ँ᳓ -  
+या᳓ अन्त᳓रिक्षे बहुधा᳓ **भ᳓वन्ति** ।  
+याᳶ᳓ पृथिवी᳓म् **प᳓यसोन्द᳓न्ति** शुक्रा᳓स् -  
+ता᳓ न आ᳓पश् शँ᳓ स्योना᳓ **भवन्तु** ।
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
 
-शि॒वेन॑ मा॒ चक्षु॑षा **पश्यतापश्** -  
-शि॒वया॑ त॒नुवोप॑ **स्पृशत॒** त्वच॑म् मे ।  
-सर्वाँ॑ अ॒ग्नीँर् अ॑प्सु॒-षदो॑ **हुवे** वो॒,  
-मयि॒ वर्चो॒ बल॒म् ओजो॒ **नि ध॑त्त** ।
+शिवे᳓न मा च᳓क्षुषा **पश्यतापश्** -  
+शिव᳓या तनु᳓वो᳓प **स्पृशत** त्व᳓चम् मे ।  
+स᳓र्वाँ अग्नीँ᳓र् अप्सु-ष᳓दो **हुवे** वो,  
+म᳓यि व᳓र्चो ब᳓लम् ओ᳓जो **नि᳓ धत्त** ।
 
 </div>
+</details>
 </div>  
 
 _____________________________
@@ -367,25 +364,6 @@ _____________________________
 
 +++(निवीतिन उत्तरत उदीचीनप्रवण उदगग्रैर्दर्भैः प्राग्-अपवर्गाण्य् आसनानि)+++  
 ततो यावद् +++(सप्तर्षिभिः)+++ एक-वैद्य्-अन्तैः कल्पयन्ति १२  
-
-<details open><summary>विश्वास-टिप्पनी</summary>
-
-हिरन्यकेश्यनुसारेण -  
-
-- कृष्ण-द्वैपायनाय जीतू-कर्ण्याय तरुक्षाय तृणी-बिन्दवे
-- वर्मिणे वरूथिने वाजिने
-- वाजश्रवसे सत्यश्रवसे सुश्रवसे सुतश्रवसे
-- सोमशुष्मायणाय सत्ववते
-- बृहदुक्थाय वामदेवाय वाजिरत्नाय हर्यज्वायनायोदमयाय 
-- गौतमाय ऋणञ्जयाय ऋतञ्जयाय कृतञ्जयाय धनञ्जयाय
-- बभ्रवे त्र्यरुणाय त्रिवर्षाय त्रिधातवे शिबिन्ताय पराशराय
-- विष्णवे रुद्राय स्कन्दाय काशीश्वराय श्वराय
-- धर्मायार्थाय कामाय क्रोधाय
-- वसिष्ठायेन्द्राय त्वष्ट्रे कर्त्रे धर्त्रे धात्रे मृत्यवे
-- सवित्रे सावित्र्यै
-- वेदेभ्यश्च पृथक्
-- पृथग् ऋग्वेदाय यजुर्वेदाय सामवेदायाथर्ववेदायेतिहासपुराणायेति ६
-</details>
 
 </div>
 

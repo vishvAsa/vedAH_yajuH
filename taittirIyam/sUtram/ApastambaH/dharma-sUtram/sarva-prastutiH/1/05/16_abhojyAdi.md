@@ -16,9 +16,9 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-1. He shall not drink water standing or bent forwards. [^1] 
+1. He shall not drink water standing or bent forwards. [1] 
 
-[^1]:  16. Haradatta takes ācam here to mean 'to drink water,' and thinks that it is forbidden to do this standing or in a bent position. Others refer the prohibition to 'sipping water for the sake of purification,' and translate, 'He shall not sip water standing or in a bent position (except in case of necessity),' i.e. if the bank of the river is so high that he cannot reach the water sitting down, and in this case he shall enter it up to his thighs or up to his navel.
+[1]:  16. Haradatta takes ācam here to mean 'to drink water,' and thinks that it is forbidden to do this standing or in a bent position. Others refer the prohibition to 'sipping water for the sake of purification,' and translate, 'He shall not sip water standing or in a bent position (except in case of necessity),' i.e. if the bank of the river is so high that he cannot reach the water sitting down, and in this case he shall enter it up to his thighs or up to his navel.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -26,13 +26,13 @@ title = "१६ अभोज्यादि"
 **सूत्रम्**  
 तिष्ठन्नाऽऽचामेत् प्रह्वो वा ॥१॥  
 ###### टप्पनी
-तिष्ठन् प्रह्वो वा नाचामेत् । नायं प्रतिषेधः शक्यो वक्तुम् । कथम् ? 'आसीनस्त्रिराचामे'(१६२.)दिति वक्ष्यति । ततश्च यथा शयानस्याचमनं न भवति तथा तिष्ठतः प्रह्वस्य च न भवति । एवं तर्हि शौचार्थस्याचमनस्य नायं प्रतिषेधः । किं तर्हि ? पानीयपानस्य प्रतिषेधः । तथा गौतमः [^१] नाञ्जलिना जलं पिबेत् । न तिष्ठ'न्निति । अपर आह-अस्मादेव प्रतिषेधात्क्वचित्तिष्ठतः प्रह्वस्य चाऽऽचमनमभ्यनुज्ञातं भवति । तेन 'भूमिगतास्वप्स्वि'त्यत्र तीरस्याऽयोग्यत्वे ऊरुदध्ने [^२]जानुदध्ने वा जले स्थितस्याऽचमनं भवति । गौतमीयेऽपि[^३] न तिष्ठन्नुद्धृतोदकेनाचामे'दिति सूत्रच्छेदादुद्धृतोदकेनैव तिष्ठतः प्रतिषेध इति ॥ १ ॥  
+तिष्ठन् प्रह्वो वा नाचामेत् । नायं प्रतिषेधः शक्यो वक्तुम् । कथम् ? 'आसीनस्त्रिराचामे'(१६२.)दिति वक्ष्यति । ततश्च यथा शयानस्याचमनं न भवति तथा तिष्ठतः प्रह्वस्य च न भवति । एवं तर्हि शौचार्थस्याचमनस्य नायं प्रतिषेधः । किं तर्हि ? पानीयपानस्य प्रतिषेधः । तथा गौतमः [१] नाञ्जलिना जलं पिबेत् । न तिष्ठ'न्निति । अपर आह-अस्मादेव प्रतिषेधात्क्वचित्तिष्ठतः प्रह्वस्य चाऽऽचमनमभ्यनुज्ञातं भवति । तेन 'भूमिगतास्वप्स्वि'त्यत्र तीरस्याऽयोग्यत्वे ऊरुदध्ने [२]जानुदध्ने वा जले स्थितस्याऽचमनं भवति । गौतमीयेऽपि[३] न तिष्ठन्नुद्धृतोदकेनाचामे'दिति सूत्रच्छेदादुद्धृतोदकेनैव तिष्ठतः प्रतिषेध इति ॥ १ ॥  
 
-[^१]: गौ० ध० ९. ९, १०.  
+[१]: गौ० ध० ९. ९, १०.  
 
-[^२]: नाभिदध्ने, इति च. पु  
+[२]: नाभिदध्ने, इति च. पु  
 
-[^३]:
+[३]:
 
     गौ० ९. १० गौतमोऽपि न तिष्ठन्नुद्धृतोदकेनाचामेत् इति सूत्रभेदादुद्धृतोदकेनैव तिष्ठतः प्रतिषेधमाह” इति क. पु.
 </details>
@@ -54,9 +54,9 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-2. Sitting he shall sip water (for purification) thrice, the water penetrating to his heart. [^2] 
+2. Sitting he shall sip water (for purification) thrice, the water penetrating to his heart. [2] 
 
-[^2]:  Manu II, 60 and 62; V, 139; and Yājñ. I, 20 and 27; Weber. Ind. Stud. X, 165. Haradatta observes, that the further particulars regarding purification by sipping water must be supplied from other Smṛtis. The rule quoted by him is as follows: 'The performer should be sitting in a pure place, not on a seat, except when sipping water after dinner, and should sip thrice from his hand water which is free from bubbles and foam, and which he has attentively regarded, in such a quantity as would cover a Māṣa-bean. p. 58 The water sipped by a Brahman should reach his heart, that sipped by a Kṣatriya the throat, and that sipped by a Vaiśya the palate. A Śūdra sips once as much as to wet his tongue.'
+[2]:  Manu II, 60 and 62; V, 139; and Yājñ. I, 20 and 27; Weber. Ind. Stud. X, 165. Haradatta observes, that the further particulars regarding purification by sipping water must be supplied from other Smṛtis. The rule quoted by him is as follows: 'The performer should be sitting in a pure place, not on a seat, except when sipping water after dinner, and should sip thrice from his hand water which is free from bubbles and foam, and which he has attentively regarded, in such a quantity as would cover a Māṣa-bean. p. 58 The water sipped by a Brahman should reach his heart, that sipped by a Kṣatriya the throat, and that sipped by a Vaiśya the palate. A Śūdra sips once as much as to wet his tongue.'
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -65,13 +65,13 @@ title = "१६ अभोज्यादि"
 आसीनस्त्रिराचामेद्धृदयङ्गमाभिरद्भिः ॥ २ ॥  
 
 **टीका**  
-अद्भिः तृतीया द्वितीयार्थे । अत्राऽनुक्तं स्मृत्यन्तरवशा[^४]दुपस्क्रियते। आसीनः शुचौ देशे, नासने, भोजनान्ते त्वासने । दक्षिणं बाहु[^५] जान्वन्तरे कृत्वा प्राङ्मुख उपविष्टः उदङ्मुखो वा हृदयङ्गमा[^६] अप करतलस्थासु यावतीषु माषो निमज्जति तावती फेनबुद्बुदरहिताः वीक्षितास्त्रिराचामेत् पिबेत् , ब्राह्मणः हृदयङ्गमाः, क्षत्रियः कण्ठगताः, वैश्यस्तालुगताः, शूद्रो जिह्वास्पृष्टास्सकृत् ॥ २॥  
+अद्भिः तृतीया द्वितीयार्थे । अत्राऽनुक्तं स्मृत्यन्तरवशा[४]दुपस्क्रियते। आसीनः शुचौ देशे, नासने, भोजनान्ते त्वासने । दक्षिणं बाहु[५] जान्वन्तरे कृत्वा प्राङ्मुख उपविष्टः उदङ्मुखो वा हृदयङ्गमा[६] अप करतलस्थासु यावतीषु माषो निमज्जति तावती फेनबुद्बुदरहिताः वीक्षितास्त्रिराचामेत् पिबेत् , ब्राह्मणः हृदयङ्गमाः, क्षत्रियः कण्ठगताः, वैश्यस्तालुगताः, शूद्रो जिह्वास्पृष्टास्सकृत् ॥ २॥  
 
-[^४]: 'उपस्तूयते' इति ग. पु.  
+[४]: 'उपस्तूयते' इति ग. पु.  
 
-[^५]: ऊर्वन्तरे इति. ख ग. पु.  
+[५]: ऊर्वन्तरे इति. ख ग. पु.  
 
-[^६]: आपः इति. ख. ग. पु.
+[६]: आपः इति. ख. ग. पु.
 </details>
 </details>
 
@@ -97,12 +97,12 @@ title = "१६ अभोज्यादि"
 <details><summary>हरदत्त-टीका</summary>
 
 **सूत्रम्**  
-[^७]त्रिरोष्ठौ परिमृजेत् ॥३॥  
+[७]त्रिरोष्ठौ परिमृजेत् ॥३॥  
 
 **टीका**  
 परिमृज्यात् ॥३॥  
 
-[^७]:
+[७]:
 
     इदमग्रिमं च सूत्रमेकीकृतं. ग. पुस्तके,
 </details>
@@ -211,9 +211,9 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-7. Having sprinkled water on his left hand with his right, he shall touch both his feet, and his head and (the following three) organs, the eyes, the nose, and the ears. [^3] 
+7. Having sprinkled water on his left hand with his right, he shall touch both his feet, and his head and (the following three) organs, the eyes, the nose, and the ears. [3] 
 
-[^3]:  The eyes are to be touched with the thumb and the fourth finger, either at once, or one after the other, the nostrils with the thumb and the second finger, the ears with the thumb and the small finger.
+[3]:  The eyes are to be touched with the thumb and the fourth finger, either at once, or one after the other, the nostrils with the thumb and the second finger, the ears with the thumb and the small finger.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -222,9 +222,9 @@ title = "१६ अभोज्यादि"
 दक्षिणेन पाणिना सव्यं प्रोक्ष्य पादौ शिरश्चेन्द्रियाण्युपस्पृशेत् चक्षुषी नासिके श्रोत्रे च ॥७॥  
 
 **टीका**  
-दक्षिणेन पाणिना सव्यं पाणिं प्रोक्ष्य तथा पादौ शिरश्च, इन्द्रियाण्युपस्पृशेत् अङ्गुलीभिः । सर्वेषामिन्द्रियाणां प्रसङ्गे परिसञ्चष्टे-चक्षुषी नासिके श्रोत्रे चे'ति । इन्द्रियाणीति वचनं स्वरूपकथनमात्रम् । तत्राऽङ्गुष्ठानामिकाभ्यां चक्षुषी । केचिद्युगपत् , केचित्पृथक् । अङ्गुष्ठप्रदेशिनीभ्यां नासिके । अङ्गुष्ठकनिष्ठिकाभ्यां श्रोत्रे । [^१]अत्र सहभावस्याऽशक्यत्वात् पृथग्भावस्य निश्चितत्वात् पूर्वत्रापि पृथगेवेति युक्तम् ॥ ७ ॥  
+दक्षिणेन पाणिना सव्यं पाणिं प्रोक्ष्य तथा पादौ शिरश्च, इन्द्रियाण्युपस्पृशेत् अङ्गुलीभिः । सर्वेषामिन्द्रियाणां प्रसङ्गे परिसञ्चष्टे-चक्षुषी नासिके श्रोत्रे चे'ति । इन्द्रियाणीति वचनं स्वरूपकथनमात्रम् । तत्राऽङ्गुष्ठानामिकाभ्यां चक्षुषी । केचिद्युगपत् , केचित्पृथक् । अङ्गुष्ठप्रदेशिनीभ्यां नासिके । अङ्गुष्ठकनिष्ठिकाभ्यां श्रोत्रे । [१]अत्र सहभावस्याऽशक्यत्वात् पृथग्भावस्य निश्चितत्वात् पूर्वत्रापि पृथगेवेति युक्तम् ॥ ७ ॥  
 
-[^१]:
+[१]:
 
     अत्र सहभावस्याशक्यत्वात् पृथगपिक्रियते । अत्र पृथक्भावस्य निश्चितत्वात् पूर्वत्रापि पृथगेवेति युक्तम् इति ख, च. पु. । युक्तमित्यन्ये इति. क पु.
 </details>
@@ -275,9 +275,9 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-9. But if he is going to eat he shall, though pure, twice sip water, twice wipe (his mouth), and once touch (his lips). [^4] 
+9. But if he is going to eat he shall, though pure, twice sip water, twice wipe (his mouth), and once touch (his lips). [4] 
 
-[^4]:  Manu V, 138.
+[4]:  Manu V, 138.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -318,9 +318,9 @@ title = "१६ अभोज्यादि"
 श्यावान्तपर्यन्तावोष्ठावुपस्पृश्याऽऽचामेत् ॥ १०॥  
 
 **टीका**  
-दन्तमूलात्प्रभृत्योष्ठौ । तत्राऽलोमकः प्रदेशः श्यावः। तस्यान्तः सलोमकः। तत्पर्यन्तावोष्ठावुपस्पृश्याऽऽचामेत् । ओष्ठयोरलोमकप्रदेशमङ्गुल्या[^२] काष्ठादिना वोपस्पृश्याऽऽचामेदिति ॥ १० ॥  
+दन्तमूलात्प्रभृत्योष्ठौ । तत्राऽलोमकः प्रदेशः श्यावः। तस्यान्तः सलोमकः। तत्पर्यन्तावोष्ठावुपस्पृश्याऽऽचामेत् । ओष्ठयोरलोमकप्रदेशमङ्गुल्या[२] काष्ठादिना वोपस्पृश्याऽऽचामेदिति ॥ १० ॥  
 
-[^२]:
+[२]:
 
     अङ्गुल्याऽऽत्मकनिष्ठादिना वेति क. पुस्तकेऽपपाठः ।
 </details>
@@ -342,9 +342,9 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-11. He does not become impure by the hair (of his moustaches) getting into his mouth, as long as he does not touch them with his hand. [^5] 
+11. He does not become impure by the hair (of his moustaches) getting into his mouth, as long as he does not touch them with his hand. [5] 
 
-[^5]:  Haradatta observes that this Sūtra shows, that every other foreign substance brought with the food into the mouth, makes the food 'leavings' and the eater impure. Manu V, 141.
+[5]:  Haradatta observes that this Sūtra shows, that every other foreign substance brought with the food into the mouth, makes the food 'leavings' and the eater impure. Manu V, 141.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -353,11 +353,11 @@ title = "१६ अभोज्यादि"
 न श्मश्रुभिरुच्छिष्टो भवत्यन्तरास्ये सद्भिर्यावन्न हस्तेनोपस्पृशति ॥ ११ ॥  
 
 **टीका**  
-श्मश्रूणि यदा आस्यस्यान्तर्भवन्ति तदा तैरन्तरास्ये सद्भिरुच्छिष्टो न भवति यावन्न हस्तेनोपस्पृशति । [^१]उपस्पर्शने तूच्छिष्टो भवति । ततश्चाऽऽचामेदिति । अस्मादेव प्रतिषेधात् ज्ञायते-यत्किञ्चिदपि द्रव्यमन्तरास्ये [^२]सदुच्छिष्टताया निमित्तमिति ॥ ११ ॥  
+श्मश्रूणि यदा आस्यस्यान्तर्भवन्ति तदा तैरन्तरास्ये सद्भिरुच्छिष्टो न भवति यावन्न हस्तेनोपस्पृशति । [१]उपस्पर्शने तूच्छिष्टो भवति । ततश्चाऽऽचामेदिति । अस्मादेव प्रतिषेधात् ज्ञायते-यत्किञ्चिदपि द्रव्यमन्तरास्ये [२]सदुच्छिष्टताया निमित्तमिति ॥ ११ ॥  
 
-[^१]: स्पर्शने इति क. पु.  
+[१]: स्पर्शने इति क. पु.  
 
-[^२]:
+[२]:
 
     सत् तदुच्छिष्टताया निमित्तमिति क. पु.
 </details>
@@ -379,9 +379,9 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-12. If (in talking), drops (of saliva) are perceived to fall from his mouth, then he shall sip water. [^6] 
+12. If (in talking), drops (of saliva) are perceived to fall from his mouth, then he shall sip water. [6] 
 
-[^6]:  Manu V, 141 declares sipping to be unnecessary in this case.
+[6]:  Manu V, 141 declares sipping to be unnecessary in this case.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -390,9 +390,9 @@ title = "१६ अभोज्यादि"
 य आस्याद्बिन्दवः पतन्त उपलभ्यन्ते तेष्वाचमनं विहितम् ॥ १२ ॥  
 
 **टीका**  
-भाषमाणस्याऽऽस्यात् पतन्तो ये लालाबिन्दव उपलभ्यन्ते चक्षुषा स्पर्शनाद्वा उपलव्धुं योग्यास्तेष्वाचमनं विहितम् । वेदोच्चारणे तु गौतमः [^३] मन्त्रबाह्मणमुच्चारयतो ये बिन्दवः शरीरे उपलभ्यन्ते न तेष्वाचमनमिति ॥ १२॥  
+भाषमाणस्याऽऽस्यात् पतन्तो ये लालाबिन्दव उपलभ्यन्ते चक्षुषा स्पर्शनाद्वा उपलव्धुं योग्यास्तेष्वाचमनं विहितम् । वेदोच्चारणे तु गौतमः [३] मन्त्रबाह्मणमुच्चारयतो ये बिन्दवः शरीरे उपलभ्यन्ते न तेष्वाचमनमिति ॥ १२॥  
 
-[^३]:
+[३]:
 
     नास्ति वचनमिदं मुद्रितगौतमधर्मकोशेषु मदीये लिखितपुस्तके च ।
 </details>
@@ -443,24 +443,24 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-14. On touching during sleep or in sternutation the effluvia of the nose or of the eyes, on touching blood, hair, fire, kine, a Brāhmaṇa, or a woman, and after having walked on the high road, and after having touched an (thing or man), and after having put on his lower garment, he shall either bathe or sip or merely touch water (until he considers himself clean). [^7] 
+14. On touching during sleep or in sternutation the effluvia of the nose or of the eyes, on touching blood, hair, fire, kine, a Brāhmaṇa, or a woman, and after having walked on the high road, and after having touched an (thing or man), and after having put on his lower garment, he shall either bathe or sip or merely touch water (until he considers himself clean). [7] 
 
-[^7]:  Manu V, 145.
+[7]:  Manu V, 145.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
 
 **सूत्रम्**  
-स्वप्ने क्षवधौ [^४]शिङ्घाणिकाश्वालम्भे लोहितस्य केशानामग्नेर्गवां ब्राह्मणस्य स्त्रियाश्चालम्भे महापथं च गत्वाऽमेध्यं चोपस्पृश्याऽप्रयतं च मनुष्यं नीवीं च परिधायाऽप उपस्पृशेत् ॥ १४ ॥  
+स्वप्ने क्षवधौ [४]शिङ्घाणिकाश्वालम्भे लोहितस्य केशानामग्नेर्गवां ब्राह्मणस्य स्त्रियाश्चालम्भे महापथं च गत्वाऽमेध्यं चोपस्पृश्याऽप्रयतं च मनुष्यं नीवीं च परिधायाऽप उपस्पृशेत् ॥ १४ ॥  
 
 **टीका**  
-स्वप्नः [^५]स्वापः। क्षवधुः क्षुतम् , तयोः कृतयोः। शिङ्घाणिका नासिकामलम् । अश्रु नेत्रजलम्, तयोरालम्भे स्पर्शे । लोहितस्य रुधिरस्य । केशानां शिरोगतानां भूमिगतानां च । अग्न्यादीनां चतुर्णामालम्भे । महापथं च गत्वा । अमेध्यं च गोव्यतिरिक्तानां मूत्रपुरीषादि । ताम्बूलनिषेकादि चोपस्पृश्य । अप्रयतं च मनुष्यमुपस्पृश्य । नीवी प्रसिद्धा तद्योगादधोवासो लक्ष्यते । तच्च परिधायाप उपस्पृशेत् । केषुचित् स्नानं केषुचिदाचमनं केषुचित् स्पर्शनमात्रं यावता प्रयोत मन्यते ॥ १४ ॥  
+स्वप्नः [५]स्वापः। क्षवधुः क्षुतम् , तयोः कृतयोः। शिङ्घाणिका नासिकामलम् । अश्रु नेत्रजलम्, तयोरालम्भे स्पर्शे । लोहितस्य रुधिरस्य । केशानां शिरोगतानां भूमिगतानां च । अग्न्यादीनां चतुर्णामालम्भे । महापथं च गत्वा । अमेध्यं च गोव्यतिरिक्तानां मूत्रपुरीषादि । ताम्बूलनिषेकादि चोपस्पृश्य । अप्रयतं च मनुष्यमुपस्पृश्य । नीवी प्रसिद्धा तद्योगादधोवासो लक्ष्यते । तच्च परिधायाप उपस्पृशेत् । केषुचित् स्नानं केषुचिदाचमनं केषुचित् स्पर्शनमात्रं यावता प्रयोत मन्यते ॥ १४ ॥  
 
-[^४]:
+[४]:
 
     शृङ्घाणिका शृङ्खणिका शृङ्गाणिका इत्यपि पाठाः ।  
 
-[^५]: स्वापन इति ख. पु.
+[५]: स्वापन इति ख. पु.
 </details>
 </details>
 
@@ -489,13 +489,13 @@ title = "१६ अभोज्यादि"
 आर्द्रं वा शकृदोषधीर्भूमिं वा ॥ १५ ॥  
 
 **टीका**  
-[^१]उपस्पृशेदित्येव । त्रिश्वार्द्रशब्दस्सम्बध्यते लिङ्गवचनादिविपरिणामेन । आर्द्रं वा शकृदुपस्पृशेत् ओषधीर्वा आर्द्रा , भूमिं वा आर्द्राम् । पूर्वोक्तेष्वेव [^२]कल्पेषु वैकल्पिकमिदम् ॥ १५ ॥  
+[१]उपस्पृशेदित्येव । त्रिश्वार्द्रशब्दस्सम्बध्यते लिङ्गवचनादिविपरिणामेन । आर्द्रं वा शकृदुपस्पृशेत् ओषधीर्वा आर्द्रा , भूमिं वा आर्द्राम् । पूर्वोक्तेष्वेव [२]कल्पेषु वैकल्पिकमिदम् ॥ १५ ॥  
 
-[^१]:
+[१]:
 
     उपस्पृशेदिति विपरिणामेनेत्यन्तो भाग क. पुस्तके नास्ति।  
 
-[^२]:
+[२]:
 
     'सर्वेषु' इति ख. च.पु । स्वल्पेषु इति ग. पु.।
 </details>
@@ -526,12 +526,12 @@ title = "१६ अभोज्यादि"
 हिंसार्थेनाऽसिना मांसं छिन्नमभोज्यम् ॥१६॥
 
 **प्रस्तावः**  
-एवमाचमनं [^३]सह निमत्तैरुक्तम् । अथाऽभक्ष्याधिकारः—  
+एवमाचमनं [३]सह निमत्तैरुक्तम् । अथाऽभक्ष्याधिकारः—  
 
 **टीका**  
 असिग्रहणं क्षुरादेरुपलक्षणम् । यन्मासं पाककाले हिसार्थेनाऽसिना छिन्न तदभोज्यम् ॥ १६ ॥  
 
-[^३]: 'सानिमित्त'मिति ख. पु.
+[३]: 'सानिमित्त'मिति ख. पु.
 </details>
 </details>
 
@@ -580,9 +580,9 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-18. He shall not eat in the house of a (relation within six degrees) where a person has died, before the ten days (of impurity) have elapsed. [^8] 
+18. He shall not eat in the house of a (relation within six degrees) where a person has died, before the ten days (of impurity) have elapsed. [8] 
 
-[^8]:  The term "ten days" is used in order to indicate the time of impurity generally. In some cases, as that of a Kṣatriya, this lasts longer. In other cases, where the impurity lasts thirty-six hours only, (the abstention from dining in such houses is shorter.)'--Haradatta. Manu IV, 217.
+[8]:  The term "ten days" is used in order to indicate the time of impurity generally. In some cases, as that of a Kṣatriya, this lasts longer. In other cases, where the impurity lasts thirty-six hours only, (the abstention from dining in such houses is shorter.)'--Haradatta. Manu IV, 217.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -591,9 +591,9 @@ title = "१६ अभोज्यादि"
 यस्य कुले म्रियेत न तत्राऽनिर्दशे भोक्तव्यम् ॥१८॥  
 
 **टीका**  
-यस्य कुले कश्चिन्म्रियते असपिण्डतायां सत्यां [^४]तत्राऽनिर्गते दशाह न भोक्तव्यम् । 'अनिर्दशे' इत्याशौचकालस्योपलक्षणम् । तेन क्षत्रियादिष्वधिकं पक्षिण्यादिषु न्यूनम् ॥ १८ ॥  
+यस्य कुले कश्चिन्म्रियते असपिण्डतायां सत्यां [४]तत्राऽनिर्गते दशाह न भोक्तव्यम् । 'अनिर्दशे' इत्याशौचकालस्योपलक्षणम् । तेन क्षत्रियादिष्वधिकं पक्षिण्यादिषु न्यूनम् ॥ १८ ॥  
 
-[^४]:
+[४]:
 
     'तत्रातीते दशाह भोक्तव्यम्' इति । पु.
 </details>
@@ -615,9 +615,9 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-19. (Nor shall he eat in a house) where a lying-in woman has not (yet) come out (of the lying-in chamber), [^9] 
+19. (Nor shall he eat in a house) where a lying-in woman has not (yet) come out (of the lying-in chamber), [9] 
 
-[^9]:  A lying-in woman is impure, and must not be touched during the first ten days after her confinement. During this time, she exclusively occupies the Sūtikāgṛha, or lying-in chamber. Manu IV, 217.
+[9]:  A lying-in woman is impure, and must not be touched during the first ten days after her confinement. During this time, she exclusively occupies the Sūtikāgṛha, or lying-in chamber. Manu IV, 217.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -626,12 +626,12 @@ title = "१६ अभोज्यादि"
 तथाऽनुत्थितायां सूतकायाम् ॥ १९ ॥  
 
 **टीका**  
-सूतका सुतिका । तस्यामनुत्थितायाम् । उत्थानं नाम सुतिकागारे निवेशितानामुदकुम्भादीनामपनयनम् । तच्च दशमेऽहनि भवति । [^५] दशम्यामुत्थिताया'मिति गृह्ये उक्तत्वात् । अत्राप्याशौचकालोपलक्षणत्वाद्यावदाशौचमभोजनम् ।  
+सूतका सुतिका । तस्यामनुत्थितायाम् । उत्थानं नाम सुतिकागारे निवेशितानामुदकुम्भादीनामपनयनम् । तच्च दशमेऽहनि भवति । [५] दशम्यामुत्थिताया'मिति गृह्ये उक्तत्वात् । अत्राप्याशौचकालोपलक्षणत्वाद्यावदाशौचमभोजनम् ।  
 अत्राऽङ्गिराः—
 'ब्रह्मक्षत्रविशां भुक्त्वा न दोषस्त्वग्निहोत्रिणाम् ।  
 सूतके शाव आशौच स्वस्थिसञ्चयनात्परम् ॥ इति ॥ १९ ॥  
 
-[^५]: आप० गृ० १५.८.
+[५]: आप० गृ० १५.८.
 </details>
 </details>
 
@@ -651,9 +651,9 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-20. (Nor in a house) where a corpse lies. [^10] 
+20. (Nor in a house) where a corpse lies. [10] 
 
-[^10]:  Haradatta remarks that in the case of the death of a person who is not a relation, it is customary to place at the distance of 'one hundred bows' a lamp and water-vessel, and to eat (beyond that distance).
+[10]:  Haradatta remarks that in the case of the death of a person who is not a relation, it is customary to place at the distance of 'one hundred bows' a lamp and water-vessel, and to eat (beyond that distance).
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -662,11 +662,11 @@ title = "१६ अभोज्यादि"
 अन्तःशवे च ॥ २० ॥  
 
 **टीका**  
-याव[^१]द्ग्रामान्न निर्ह्रियते शवः तावत्तत्र न भोक्तव्यम् । आचारस्तु धनुश्शतादर्वाक् । तत्रापि प्रदीपमारोप्य उदकुम्भं चोपनिधाय भुञ्जते यदि [^२]समानवशं गृहं न भवति ॥ २० ॥  
+याव[१]द्ग्रामान्न निर्ह्रियते शवः तावत्तत्र न भोक्तव्यम् । आचारस्तु धनुश्शतादर्वाक् । तत्रापि प्रदीपमारोप्य उदकुम्भं चोपनिधाय भुञ्जते यदि [२]समानवशं गृहं न भवति ॥ २० ॥  
 
-[^१]: ग्रामान्तं न इति क. पु.  
+[१]: ग्रामान्तं न इति क. पु.  
 
-[^२]:
+[२]:
 
     समानवंशत्वं गृहाणा इति ख, पु.। समानं वंशगृहं न भवति इति क. पुस्तकेऽपपाठः।
 </details>
@@ -680,16 +680,6 @@ title = "१६ अभोज्यादि"
 
 अप्रयतोपहतम् अन्नम् अप्रयतं, न त्व् अभोज्यम् २१
 
-<details><summary>विश्वास-टिप्पनी</summary>
-
-अप्रयतम् अन्नम्  
-अग्नाव् अधिश्रितम्  
-अद्भिः प्रोक्षितं  
-भस्मना मृदा वा संस्पृष्टं  
-वाचा च प्रशस्तं  
-प्रयतं भवति  
-भोज्यं च ।
-</details>
 </details>
 
 </div>
@@ -699,9 +689,9 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-21. Food touched by a (Brāhmaṇa or other high-caste person) who is impure, becomes impure, but not unfit for eating. [^11] 
+21. Food touched by a (Brāhmaṇa or other high-caste person) who is impure, becomes impure, but not unfit for eating. [11] 
 
-[^11]:  'Food which is simply impure, may be purified by putting it on the fire, sprinkling it with water, touching it with ashes or earth, and praising it.'--Haradatta.
+[11]:  'Food which is simply impure, may be purified by putting it on the fire, sprinkling it with water, touching it with ashes or earth, and praising it.'--Haradatta.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -723,6 +713,17 @@ title = "१६ अभोज्यादि"
 
 अभोज्यं तु लशुनादि न कथञ्चिद् अपीति ॥ २१॥
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अप्रयतम् अन्नम्  
+अग्नाव् अधिश्रितम्  
+अद्भिः प्रोक्षितं  
+भस्मना मृदा वा संस्पृष्टं  
+वाचा च प्रशस्तं  
+प्रयतं भवति  
+भोज्यं च ।
+</details>
 </details>
 
 </div>
@@ -741,9 +742,9 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-22. But what has been brought (be it touched or not) by an impure Śūdra, must not be eaten, [^12] 
+22. But what has been brought (be it touched or not) by an impure Śūdra, must not be eaten, [12] 
 
-[^12]:  Others say, that the food becomes unfit for eating, only, if in bringing it, the Śūdra has touched it.--Haradatta.
+[12]:  Others say, that the food becomes unfit for eating, only, if in bringing it, the Śūdra has touched it.--Haradatta.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -773,9 +774,9 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-23. Nor that food in which there is a hair, [^13] 
+23. Nor that food in which there is a hair, [13] 
 
-[^13]:  Manu IV, 207; Yājñ. I, 167. 'But this rule holds good only if the hair had been cooked with the food. If a hair falls into it at dinner, then it is to be purified by an addition of clarified butter, and may be eaten.'--Haradatta.
+[13]:  Manu IV, 207; Yājñ. I, 167. 'But this rule holds good only if the hair had been cooked with the food. If a hair falls into it at dinner, then it is to be purified by an addition of clarified butter, and may be eaten.'--Haradatta.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -784,9 +785,9 @@ title = "१६ अभोज्यादि"
 यस्मिश्चाऽऽन्ने केशस्यात् ॥ २३ ॥  
 
 **टीका**  
-तदप्यभोज्यम् । एतच्च पाकदशायामेव पतितेन केशेन सह यत्पक्वमन्नं तद्विषयम् । [^३]पश्चात् केशसंसर्गे तु घृतप्रक्षेपादिना संस्कृतस्य भोज्यत्वं स्मृत्यन्तरोक्तम् ॥ २३ ॥  
+तदप्यभोज्यम् । एतच्च पाकदशायामेव पतितेन केशेन सह यत्पक्वमन्नं तद्विषयम् । [३]पश्चात् केशसंसर्गे तु घृतप्रक्षेपादिना संस्कृतस्य भोज्यत्वं स्मृत्यन्तरोक्तम् ॥ २३ ॥  
 
-[^३]:
+[३]:
 
     भोजनकाले तु केशपाते घृतप्रक्षेपादिना तु संस्कृतं भोज्यम् । इति. घ. पु.
 </details>
@@ -808,9 +809,9 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-24. Or any other unclean substance. [^14] 
+24. Or any other unclean substance. [14] 
 
-[^14]:  Haradatta quotes a passage from Baudhāyana, which enumerates as 'unclean things' here intended, 'hair, worms or beetles, nail-parings, excrements of rats.' The rule must be understood as the preceding, i.e. in case these things have been cooked with the food.
+[14]:  Haradatta quotes a passage from Baudhāyana, which enumerates as 'unclean things' here intended, 'hair, worms or beetles, nail-parings, excrements of rats.' The rule must be understood as the preceding, i.e. in case these things have been cooked with the food.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -819,11 +820,11 @@ title = "१६ अभोज्यादि"
 अन्यद्वाऽमेध्यम् ॥ २४ ॥  
 
 **टीका**  
-अन्यद्वाऽमेध्यं नखादि यस्मिन्नन्ने स्यात् तदप्यभोज्यम् । इदमपि पूर्ववत । [^४] केशकीटनखरोमाखुपुरीषाणि दृष्ट्वा तावन्मात्रमन्नमुद्धृत्य शेषं भोज्य'मिति । वसिष्ठस्तु [^५]'कामं तु केशकीटानुत्सृज्याद्भिः प्रोक्ष्य भस्मनाऽवकीर्य वाचा प्रशस्तमुपयुञ्जीते'ति ॥ २४ ॥  
+अन्यद्वाऽमेध्यं नखादि यस्मिन्नन्ने स्यात् तदप्यभोज्यम् । इदमपि पूर्ववत । [४] केशकीटनखरोमाखुपुरीषाणि दृष्ट्वा तावन्मात्रमन्नमुद्धृत्य शेषं भोज्य'मिति । वसिष्ठस्तु [५]'कामं तु केशकीटानुत्सृज्याद्भिः प्रोक्ष्य भस्मनाऽवकीर्य वाचा प्रशस्तमुपयुञ्जीते'ति ॥ २४ ॥  
 
-[^४]: बौ० ध० २. १२. ६  
+[४]: बौ० ध० २. १२. ६  
 
-[^५]:
+[५]:
 
     वा० ध० १४. २३ उपभुञ्जीत इति ग. पु.
 </details>
@@ -874,9 +875,9 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-26. Nor (that in which) an insect living on impure substances (is found), [^15] 
+26. Nor (that in which) an insect living on impure substances (is found), [15] 
 
-[^15]:  Manu IV, 207: Yājñ. I, 167, 168. This Sūtra must be read with Sūtra 23 above.
+[15]:  Manu IV, 207: Yājñ. I, 167, 168. This Sūtra must be read with Sūtra 23 above.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -992,9 +993,9 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-30. Nor that which has been looked at by a dog or an Apapātra, [^16] 
+30. Nor that which has been looked at by a dog or an Apapātra, [16] 
 
-[^16]:  Manu IV, 208; Yājñ. I, 167. Apapātras are persons whom one must not allow to eat from one's dishes, e.g. Caṇḍālas, Patitas, a woman in her courses or during the ten days of impurity after confinement. See also above, I, 1, 3, 25.
+[16]:  Manu IV, 208; Yājñ. I, 167. Apapātras are persons whom one must not allow to eat from one's dishes, e.g. Caṇḍālas, Patitas, a woman in her courses or during the ten days of impurity after confinement. See also above, I, 1, 3, 25.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -1052,9 +1053,9 @@ title = "१६ अभोज्यादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-32. Nor what has been brought at night by a female slave. [^17] 
+32. Nor what has been brought at night by a female slave. [17] 
 
-[^17]:  Haradatta thinks, that as the Sūtra has the feminine gender, dāsī, it does not matter if a male slave brings the food. But others forbid also this.
+[17]:  Haradatta thinks, that as the Sūtra has the feminine gender, dāsī, it does not matter if a male slave brings the food. But others forbid also this.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

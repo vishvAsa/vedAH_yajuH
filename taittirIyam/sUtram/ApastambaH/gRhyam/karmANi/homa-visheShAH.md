@@ -16,9 +16,7 @@ unicode_script: devanagari
 वेदाहुतीनाम् उपरिष्टात् सदसस्पतिम् इत्येके ३
 
 <div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/08_sadasaspatimadbhutam_priyamindrasya.md">
-
-###### ०८ सदसस्पतिमद्भुतम् प्रियमिन्द्रस्य …{Loading}…
-
+<details open><summary><h6>०८ सदसस्पतिमद्भुतम् प्रियमिन्द्रस्य …{Loading}…</h6></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
 
 स᳓दसस्प᳓तिम् अ᳓द्भुतं  
@@ -26,13 +24,8 @@ unicode_script: devanagari
 सनिं᳓ +++(=दानरूपम्)+++ मेधा᳓म् अयासिषम् ६
 
 </div>
-</div>
-
-<details><summary>विश्वास-टिप्पनी</summary>
-
-होम-स्थाने तर्पणम् बहुधा क्रियते।  
-होमाङ्गत्वेनाध्ययनम् इच्छन्ति केचित्। 
 </details>
+</div>
 
 </div>
 
@@ -44,19 +37,19 @@ unicode_script: devanagari
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/09_uddIpyasva_jAtavedo-paghnannirRtim.md">
 
-उद्दी॑प्यस्व जातवेदो  
-ऽप॒घ्नन् निर्ऋ॑तिं॒ मम॑ ।  
-प॒शूँश् च॒ मह्य॒म् आ व॑ह॒  
-जीव॑नञ् च॒ दिशो॑ दश ।+++(र५)+++
+**उ᳓द्दीप्यस्व** जातवेदो  
+**अपघ्न᳓न्** नि᳓रृतिं म᳓म ।  
+पशूँ᳓श् च म᳓ह्यम् **आ᳓ वह**  
+जी᳓वनञ् च दि᳓शो **दिश** ।+++(र५)+++
 
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/10_mA_no.md">
 
-मा नो॑ हिँसीज् जातवेदो॒  
-गाम् अश्वं॒ पुरु॑ष॒ञ् जग॑त् ।  
-+++(परहवींष्य्)+++ अबि॑भ्र॒द्+++(न्)+++ अग्न॒ आग॑हि+++(=आगच्छ)+++,  
-श्रि॒या मा॒ परि॑पातय ॥ (9)
+मा᳓ नो हिँसीज् जातवेदो  
+गा᳓म् अ᳓श्वं पु᳓रुषञ् ज᳓गत् ।  
++++(परहवींष्य्)+++ अ᳓बिभ्रद्+++(न्)+++ अ᳓ग्न आ᳓गहि+++(=आगच्छ)+++,  
+श्रिया᳓ मा प᳓रिपातय ॥ (9)
 
 </div>
 

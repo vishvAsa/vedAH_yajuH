@@ -5136,50 +5136,60 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 ‘अग्निरायुष्मान्' इति पञ्च,
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्निरायु॑ष्मा॒न्त्स वन॒स्पति॑भि॒रायु॑ष्मा॒न्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि॒ सोम॒ आयु॑ष्मा॒न्त्स ओष॑धीभिर्य॒ज्ञ आयु॑ष्मा॒न्त्स दक्षि॑णाभि॒र्ब्रह्मायु॑ष्म॒त्तद्ब्रा॑ह्म॒णैरायु॑ष्मद्दे॒वा आयु॑ष्मन्त॒स्ते॑ऽमृते॑न पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥ [40]
 </details>
+
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md">
-<details open=""><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details open><summary><h13>विश्वास-प्रस्तुतिः …{Loading}…</h13></summary>
 
 +++(हे यजमान)+++  
 अग्नि᳓र् आ᳓युष्मान् ,   
 स᳓ व᳓नस्-प᳓तिभिर् आ᳓युष्मान् ,   
 ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md">
-<details open=""><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details open><summary><h13>विश्वास-प्रस्तुतिः …{Loading}…</h13></summary>
 
 सो᳓म आ᳓युष्मान् स᳓ ओ᳓षधीभिर् [आ᳓युष्मान् ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md">
-<details open=""><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details open><summary><h13>विश्वास-प्रस्तुतिः …{Loading}…</h13></summary>
 
 +++(हे यजमान)+++ यज्ञ᳓ [आ᳓युष्मान्], स᳓ द᳓क्षिणाभिर् आ᳓युष्मान्, [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md">
-<details open=""><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details open><summary><h13>विश्वास-प्रस्तुतिः …{Loading}…</h13></summary>
 
 +++(हे यजमान)+++ ब्र᳓ह्मा᳓युष्मत्, त᳓द्ब्राह्मणै᳓रा᳓युष्मत् , [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/09_devA_AyuShmantaH_amRutena.md">
-<details open=""><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details open><summary><h13>विश्वास-प्रस्तुतिः …{Loading}…</h13></summary>
 
 +++(हे यजमान)+++ देवा᳓ आ᳓युष्मन्तः।  
 ते᳓ऽमृ᳓तेन [+आ᳓युष्मन्तः]  [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]  
+
 </details>
 </div>
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पित᳓र आ᳓युष्मन्तस् ते᳓ स्वध᳓या᳓ऽऽयुष्मन्तस्, ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि । 
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निरायु॑ष्मा॒न् ,   
@@ -5197,14 +5207,13 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 ते॑ऽमृते॑न  
 पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अग्निरायुष्मान् दीर्घायुः । स वनस्पतिभिरायुष्मान् तैर्हेतुभिस्तैर्वासह । तेनायुषा उभयेनायुषा त्वामायुष्मन्तं करोमि दीर्घायुषं करोमि । हे यजमान सोमादिषु 'आयुष्मान्तेन' इत्याद्यनुषज्यते । सोम ओषधीभिः, यज्ञो दक्षिणाभिः ब्रह्म ब्राह्मणैः, देवा अमृतेन, पितरस्स्वधया ॥
 
 इति द्वितीये तृतीये दशमोनुवाकः ॥
 </details>
-
-
 </div>
 </div>
 
@@ -12959,15 +12968,92 @@ him whom we hate and him who hateth us, I place him within your jaws.
 <details open><summary><h8>१२ पर्याप्तिहोममन्त्राः …{Loading}…</h8></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भू॒तं भव्यं॑ भवि॒ष्यद् वष॒ट्त् स्वाहा॒ नमः॑।  
-ऋक् साम॒ यजु॒र् वष॒ट्त् स्वाहा॒ नमः॑।  
-गा॒य॒त्री त्रि॒ष्टुब् जग॑ती॒ वष॒ट्त् स्वाहा॒ नमः॑।  
-पृ॒थि॒व्य् अ॒॑न्तरि॑क्षम् द्यौर् वष॒ट्त् स्वाहा॒ नमः॑।  
-अ॒ग्निर् वा॒युः सूर्यो॒  वष॒ट्त् स्वाहा॒ नमः॑।  
-प्रा॒णो व्या॒नो॑ऽपा॒नो  वष॒ट्त् स्वाहा॒ नमः॑।  
-अन्नं॑ कृ॒षिर् वृष्टि॒र् वष॒ट्त् स्वाहा॒ नमः॑।  
-पि॒ता पु॒त्रः पौत्रो॒  वष॒ट्त् स्वाहा॒ नमः॑।  
+भू॒तं भव्यं॑ भवि॒ष्यद् वष॒ट्त् स्वाहा॒ नमः॑।
+</details>
+
+<details><summary>Keith</summary>
+
+The past, the present, the future, Vasat, hail, reverence!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऋक् साम॒ यजु॒र् वष॒ट्त् स्वाहा॒ नमः॑।
+</details>
+
+<details><summary>Keith</summary>
+
+The Rc, the Saman, the Yajus, Vasat, hail, reverence!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गा॒य॒त्री त्रि॒ष्टुब् जग॑ती॒ वष॒ट्त् स्वाहा॒ नमः॑।
+</details>
+
+<details><summary>Keith</summary>
+
+The Gayatri, the Tristubh, the Jagati, Vasat, hail, reverence!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पृ॒थि॒व्य् अ॒॑न्तरि॑क्षम् द्यौर् वष॒ट्त् स्वाहा॒ नमः॑।
+</details>
+
+<details><summary>Keith</summary>
+
+The earth, the atmosphere, the sky, Vasat, hail, reverence!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒ग्निर् वा॒युः सूर्यो॒  वष॒ट्त् स्वाहा॒ नमः॑।
+</details>
+
+<details><summary>Keith</summary>
+
+Agni, Vayu, Surya, Vasat, hail, reverence!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रा॒णो व्या॒नो॑ऽपा॒नो  वष॒ट्त् स्वाहा॒ नमः॑।
+</details>
+
+<details><summary>Keith</summary>
+
+Expiration, cross-breathing, inspiration, Vasat, hail, reverence!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्नं॑ कृ॒षिर् वृष्टि॒र् वष॒ट्त् स्वाहा॒ नमः॑।
+</details>
+
+<details><summary>Keith</summary>
+
+Food, ploughing, rain, Vasat, hail, reverence!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पि॒ता पु॒त्रः पौत्रो॒  वष॒ट्त् स्वाहा॒ नमः॑।
+</details>
+
+<details><summary>Keith</summary>
+
+Father, son, grandson, Vasat, hail, reverence!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भूर् भुवः॒ सुव॒र् वष॒ट्त् स्वाहा॒ नमः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Bhuh, Bhuvah, Suvar, Vasat, hail, reverence!
 </details>
 </details>
 </div>
@@ -15498,10 +15584,6 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 तम् इत् प्रा॒णम् मन॒सोप॑ **शिक्षत** ।  
 अग्र॑न् दे॒वाना॑म् इ॒दम् **अ॑त्तु** नो ह॒विः ।  
 
-<details><summary>विश्वास-टिप्पनी</summary>
-
-यः इत्यस्य वाक्ये वर्तमानत्वाद्  तिङन्तस्वरो न हन्यते - तथा सति वद् → ऊदात्  इत्यस्मिन् तादृशः स्वरो भवितुम् अर्हति न वेति … ??
-</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/02_yo_devo.md">
@@ -15518,6 +15600,11 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 2अथ द्वितीयामाह - दीव्यन्तीति देवाः प्राणचक्षुःश्रोत्रादयः तेषु **देवेषु** मध्ये **यो** मुख्यो **देवः** प्राणः श्वासकर्ता सोऽयम् **अन्तर् आवृदूदात्** पुनःपुनर् अन्तर् बहिश् चावर्तमानत्वात् **विभूः** कृत्स्नदेहव्यापी **क्षेत्री** क्षेत्रं शरीरं तस्य स्वामी **वृषा** श्रेष्ठः ॥  
 तस्य दृष्टान्तः - **अध्वगत्** यथा लोके ऽध्वगो ऽनालस्य-गमनं करोत्य् एवमयं प्राणः प्रतिक्षणमुच्छ्वासनिश्वासौ करोति तमित् तमिव प्राणं मनसोपशिक्षत भक्तिपुरस्सरमुपचरत ॥ स प्राणो देवानां मध्येऽग्रं प्रथमं नोऽस्मदीयमिदं हविरत्तु भक्षयतु ॥ यदुक्तमैतरेयब्राह्मणे - 'चक्षुः श्रोत्रं मनो वाक्प्राणस्ता एताः पञ्च देवता इमं विश्लिष्टाः पुरुषम्' इति ॥ तदेतन्मन्त्रद्वयं प्राणदेवताविषयं द्रष्टव्यम् ॥
 
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+यः इत्यस्य वाक्ये वर्तमानत्वाद्  तिङन्तस्वरो न हन्यते - तथा सति वद् → ऊदात्  इत्यस्मिन् तादृशः स्वरो भवितुम् अर्हति न वेति … ??
 </details>
 </div>
 
@@ -16949,7 +17036,8 @@ The thunder entering into all beings,becomes the speaker of moral truth, eṣā 
 <details><summary>Jamison Brereton</summary>
 
 The gods begat goddess Speech. The beasts of all forms speak her. Gladdening, milking out refreshment and nourishment for us, let  Speech, the milk-cow, come well praised to us.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
@@ -23893,7 +23981,7 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 अ᳓था को᳓ वेद य᳓त आबभू᳓व
 </details>
 
-<details open><summary>मूलम् - तैत्तिरीयम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 को अ॒द्धा वे॑द॒ क इ॒ह प्र वो॑चत् ।  
 कुत॒ आजा॑ता॒ कुत॑ इ॒यव्विँसृ॑ष्टिः ।  
@@ -27606,10 +27694,6 @@ Stets mögen uns die Morgenröthen leuchten die schönen, reich an Rossen, Rinde
 स᳓ कृ᳓त्तिकाभिर् अभि᳓ सव्ँव᳓सानः।  
 अग्नि᳓र् नो +++(=अस्मान्)+++ देव᳓स् **सुविते᳓** +++(=सुप्राप्ते {कर्मफले})+++ **दधातु**॥  
 
-<details open><summary>विश्वास-टिप्पनी</summary>
-
-सुविते᳓ - अन्तोदात्तः - `सूपमानात् क्तः`। 
-</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/02_yasya_bhAnti.md">
@@ -27630,6 +27714,11 @@ Stets mögen uns die Morgenröthen leuchten die schönen, reich an Rossen, Rinde
 अनुदात्तेत्त्वात् लसर्वधातुकानुदात्तत्वम् ।  
 **नः** अस्मान् **सुविते** सुष्ठु इते प्राप्ते फले **दधातु** स्थापयतु ।  
 'सूपमानात् क्तः' इत्यन्तोदात्तत्वम् । छान्दसो वकारोपजनः+++(??)+++, तन्वादित्वाद् वा, अनुपसर्ग-सूतेर्वा निष्ठायां छान्दसः इडागमः ॥
+</details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+सुविते᳓ - अन्तोदात्तः - `सूपमानात् क्तः`। 
 </details>
 </div>
 
@@ -27677,10 +27766,6 @@ Stets mögen uns die Morgenröthen leuchten die schönen, reich an Rossen, Rinde
 प्रजा᳓पते+++(ः)+++ **रोहिणी᳓ वेतु** +++(=भुङ्क्ताम्)+++ प᳓त्नी। विश्व᳓रूपा बृहती᳓ चित्र᳓भानुः।  
 सा᳓ नो यज्ञ᳓स्य **सुविते᳓+++(=सुप्राप्ते {कर्मफले})+++ दधातु**। य᳓था **जी᳓वेम शर᳓दस्** स᳓वीराः।  
 
-<details open><summary>विश्वास-टिप्पनी</summary>
-
-जी᳓वेम - "तास्यनुदात्तेन्ङिददुपदेशाल् लसार्वधातुकम् अनुदात्तम् अन्विङोः" इत्य् अनुदात्तः प्रत्ययः
-</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/03_prajApate_rohiNI.md">
@@ -27697,6 +27782,11 @@ Stets mögen uns die Morgenröthen leuchten die schönen, reich an Rossen, Rinde
 
 3रोहिण्याः - प्रजापतेरिति ॥ प्रजापतेः स्वभूता रोहिणी नक्षत्रं पत्नी पालयित्री यज्ञस्य विश्वरूपा विश्वरूपैः उत्पाद्यैः तद्वती बृहती परिबृढा चित्रभानुः चायनीयदीप्तिः सा इदं हविः वेतु भुङ्क्ताम् । नः अस्मान् यज्ञस्य सुविते सुगमे फले दधातु, यथा वयं जीवेम शरदः बहून् संवत्सरान् सवीराः पुत्रपौत्रसहिताः ॥
 
+</details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+जी᳓वेम - "तास्यनुदात्तेन्ङिददुपदेशाल् लसार्वधातुकम् अनुदात्तम् अन्विङोः" इत्य् अनुदात्तः प्रत्ययः
 </details>
 </div>
 
@@ -27803,10 +27893,6 @@ Stets mögen uns die Morgenröthen leuchten die schönen, reich an Rossen, Rinde
 त᳓स्मै ते सोम **हवि᳓षा विधेम**।  
 श᳓न् न **एधि** द्विप᳓दे श᳓ञ् च᳓तुष्पदे॥  
 
-<details open><summary>विश्वास-टिप्पनी</summary>
-
-द्विप᳓दे - "द्वित्रिभ्यां पाद्दन्मूर्धसु बहुव्रीहौ"
-</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/06_yatte.md">
@@ -27822,6 +27908,11 @@ Stets mögen uns die Morgenröthen leuchten die schönen, reich an Rossen, Rinde
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6यत्त इति ॥ हे राजन्! सोम! ते नक्षत्त्रं मृगशीर्षं नामास्ति । प्रियं प्रीणयितृ प्रियाणामपि मध्ये प्रियतमं, तस्मै नक्षत्राय ते तुभ्यं च हविषा विधेम परिचरेम । नः अस्माकं द्विपदे चतुष्पदे च शं सुखहेतुः एधि भव । सामर्थ्यात्तेन सहेति गम्यते ॥
+</details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+द्विप᳓दे - "द्वित्रिभ्यां पाद्दन्मूर्धसु बहुव्रीहौ"
 </details>
 </div>
 
@@ -31130,8 +31221,15 @@ Let Aditi guard us from tribulation.
 म॒हीम् ऊ॒ षु मा॒तरँ॑ सुव्र॒ताना॑म्  
 ऋ॒तस्य॒ पत्नी॒म् अव॑से **हुवेम** ।  
 तु॒वि॒+++(=प्रवृद्ध)+++-क्ष॒त्त्राम् अ॒जर॑न्तीम् उरू॒चीँ+++(=उरुगमनां)+++ 
-सु॒शर्मा॑ण॒म् अदि॑तिँ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥ 
+सु॒शर्मा॑ण॒म् अदि॑तिँ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥
 
+<details><summary>Keith</summary>
+
+The mighty mother of the righteous,  
+The spouse of holy order, let us invoke to aid us,  
+The powerful, the unageing, the wide  
+Aditi, who giveth good protection and good guidance.
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
@@ -32165,7 +32263,6 @@ Lengthen our days for us.
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19-20अथ संयाज्ये - हव्यवाहं, स्विष्टमिति ॥ व्याख्याते 'जुष्टः' इत्यत्र ॥
-
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/1/26_havyavAhamabhimAtiShAham_rakhShohaNampRtanAsu.md">
@@ -36988,11 +37085,6 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 #### ३९ ‘पवमानः’ …{Loading}…
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH">
-<details><summary>विश्वास-टिप्पनी</summary>
-
-स्मार्ते स्नानादौ मार्जनार्थाश्च।
-</details>
-
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
 
 पव॑मान॒स् सुव॒र्-जनः॑ ।  
