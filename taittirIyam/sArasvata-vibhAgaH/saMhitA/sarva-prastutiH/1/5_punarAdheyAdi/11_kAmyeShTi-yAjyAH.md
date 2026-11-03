@@ -228,6 +228,7 @@ bhū́riretasā ← bhū́riretas- (nominal stem)
 
 dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -342,6 +343,7 @@ _________
 - “semen; sperm.”
 
 _________
+
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -576,6 +578,7 @@ sá ← sá- ~ tá- (pronoun)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -720,6 +723,7 @@ _________
 - “night; night.”
 
 _________
+
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -957,6 +961,7 @@ svastíbhiḥ ← svastí- (nominal stem)
 
 yūyám ← tvám (pronoun)  
 {case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1093,6 +1098,7 @@ _________
 - “I; mine.”
 
 _________
+
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1305,6 +1311,7 @@ mahitvā́ ← mahitvá- (nominal stem)
 
 vaíśvānara ← vaiśvānará- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1414,6 +1421,7 @@ _________
 - “greatness.”
 
 _________
+
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1626,6 +1634,7 @@ vaíśvānara ← vaiśvānará- (nominal stem)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1752,6 +1761,7 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
+
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1967,6 +1977,7 @@ vaiśvānaráḥ ← vaiśvānará- (nominal stem)
 
 yatate ← √yat- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2082,6 +2093,7 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
+
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2310,6 +2322,7 @@ rā́jan ← rā́jan- (nominal stem)
 
 śiśrathaḥ ← √śrathⁱ- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2428,6 +2441,7 @@ _________
     utter; compose.”
 
 _________
+
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2657,6 +2671,7 @@ vraté ← vratá- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2779,6 +2794,7 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
+
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2990,6 +3006,7 @@ prá ← prá (invariable)
 
 tāriṣat ← √tr̥̄- 1 (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3086,6 +3103,7 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
+
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3309,6 +3327,7 @@ sám ← sám (invariable)
 
 vácāṁsi ← vácas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3447,6 +3466,7 @@ _________
 - “statement; command; speech; words; advice; word; voice.”
 
 _________
+
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3651,6 +3671,7 @@ jinvati ← √ji- 2 ~ jinv- (root)
 
 rétāṁsi ← rétas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3722,6 +3743,7 @@ _________
 - “enliven; animate.”
 
 _________
+
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3958,6 +3980,7 @@ tú ← tú (invariable)
 
 úpa ← úpa (invariable)  
 {}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4041,6 +4064,7 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
+
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -4233,10 +4257,13 @@ _______
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 म॒हीम् ऊ॒ षु मा॒तरँ॑ सुव्र॒ताना॑म्  
 ऋ॒तस्य॒ पत्नी॒म् अव॑से **हुवेम** ।  
 तु॒वि॒+++(=प्रवृद्ध)+++-क्ष॒त्त्राम् अ॒जर॑न्तीम् उरू॒चीँ+++(=उरुगमनां)+++ 
 सु॒शर्मा॑ण॒म् अदि॑तिँ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥
+</details>
 
 <details><summary>Keith</summary>
 
@@ -4285,10 +4312,13 @@ _______
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सु॒त्रामा॑णम्+++(=सुत्राणं)+++ पृथि॒वीन् द्याम् अ॑ने॒हसँ॑+++(=अपापाम्)+++  
 सु॒शर्मा॑ण॒म् अदि॑तिँ सु॒प्रणी॑तिम् ।  
 दैवी॒न् **नावँ॑** स्व्-अरि॒त्राम्+++(=सुनौदण्डां)+++ अना॑गसो॒  
 अस्र॑वन्ती॒म् **आ रु॑हेमा** स्व॒स्तये᳚ ॥
+</details>
 
 </div>
 
