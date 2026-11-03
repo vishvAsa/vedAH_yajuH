@@ -4,10 +4,6 @@ unicode_script = "devanagari"
 
 +++
 
-<details><summary>विश्वास-टिप्पनी</summary>
-
-स्मार्ते स्नानादौ मार्जनार्थाश्च।
-</details>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
 <details open><summary><h4>01 पवमानस् सुवर्जनः ...{Loading}...</h4></summary>
 

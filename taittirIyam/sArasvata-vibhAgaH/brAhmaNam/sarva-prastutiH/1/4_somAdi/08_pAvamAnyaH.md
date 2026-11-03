@@ -490,3 +490,8 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+स्मार्ते स्नानादौ मार्जनार्थाश्च।
+</details>
