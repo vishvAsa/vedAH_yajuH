@@ -5,10 +5,10 @@ title = "26 शास्तुश्चानागमाद्वृत्त�
 
 <details><summary>Bühler</summary>
 
-26. On account of the incompetence of his teacher, (he may go) to another (and) study (there). [^13] 
+26. On account of the incompetence of his teacher, (he may go) to another (and) study (there). [13] 
 
 
-[^13]:  See above, I, 1, 1, 13, and note. Here also Haradatta states that the permission to. leave the teacher is to be restricted to those who have not solemnly bound themselves to their teacher by allowing him to perform the ceremony of initiation.
+[13]:  See above, I, 1, 1, 13, and note. Here also Haradatta states that the permission to. leave the teacher is to be restricted to those who have not solemnly bound themselves to their teacher by allowing him to perform the ceremony of initiation.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -22,8 +22,8 @@ title = "26 शास्तुश्चानागमाद्वृत्त�
 शास्तुः शाशितुर् आचार्यस्य सम्यङ् नाऽगच्छति  
 तदा तस्यानागमात्  
 अन्यत्र पुरुषान्तरे वृत्तिर् भवत्येव यस्य सम्यग् आगच्छति ।  
-[^३]येषाम् आचार्य-विधि-प्रयुक्तम् अध्ययनं  
+[३]येषाम् आचार्य-विधि-प्रयुक्तम् अध्ययनं  
 तेषाम् एतन् नोपपद्यत' इत्यवोचाम ॥ २६॥  
 
-[^३]: रोषामित्याद्यवोचामत्येन्तः पाठो नास्ति ख. पुस्तके
+[३]: रोषामित्याद्यवोचामत्येन्तः पाठो नास्ति ख. पुस्तके
 </details>

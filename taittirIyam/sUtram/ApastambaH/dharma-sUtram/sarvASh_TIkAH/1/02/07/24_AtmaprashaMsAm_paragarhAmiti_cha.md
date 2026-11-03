@@ -5,10 +5,10 @@ title = "24 आत्मप्रशंसाम् परगर्हामि�
 
 <details><summary>Bühler</summary>
 
-24. He shall avoid self-praise, blaming others, and the like. [^12] 
+24. He shall avoid self-praise, blaming others, and the like. [12] 
 
 
-[^12]:  Manu II, 119.
+[12]:  Manu II, 119.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

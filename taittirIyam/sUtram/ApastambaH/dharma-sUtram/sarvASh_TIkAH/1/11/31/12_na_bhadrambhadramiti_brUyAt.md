@@ -5,21 +5,21 @@ title = "12 न भद्रम्भद्रमिति ब्रूयात
 
 <details><summary>Bühler</summary>
 
-12. He shall not call 'lucky' that which is lucky. He shall call it 'a mercy, a blessing.' [^4] 
+12. He shall not call 'lucky' that which is lucky. He shall call it 'a mercy, a blessing.' [4] 
 
 
-[^4]:  Manu IV, 139.
+[4]:  Manu IV, 139.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
 
 **सूत्रम्**  
-[^२] न भद्रं भद्रमिति ब्रूयात् ॥ १३ ॥  
+[२] न भद्रं भद्रमिति ब्रूयात् ॥ १३ ॥  
 
 **टीका**  
 यत् भद्रं तत् भद्रमिति न ब्रूयात् ॥ १३ ॥  
 
-[^२]: म० स्मृ० ४. १३९.  
+[२]: म० स्मृ० ४. १३९.  
 
 **सूत्रम्**  
 पुण्यं प्रशास्तमित्येव ब्रूयात् ॥१४॥  

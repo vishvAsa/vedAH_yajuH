@@ -5,21 +5,21 @@ title = "18 न सोपानह्मूत्रपुरीषे कुर
 
 <details><summary>Bühler</summary>
 
-18. He shall not void excrements with his shoes on, nor on a ploughed field, nor on a path, nor in water. [^5] 
+18. He shall not void excrements with his shoes on, nor on a ploughed field, nor on a path, nor in water. [5] 
 
 
-[^5]:  Manu IV, 45, 46; Yājñ. I, 137.
+[5]:  Manu IV, 45, 46; Yājñ. I, 137.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
 
 **सूत्रम्**  
-[^२] न सोपानन्मूत्रपुरीषे कुर्यात् ॥ १८ ॥  
+[२] न सोपानन्मूत्रपुरीषे कुर्यात् ॥ १८ ॥  
 
 **टीका**  
 +++(अग्रिमे सूत्रे द्रष्टव्यम्)+++  
 
-[^२]:  
+[२]:  
 
     एतदादि 'कर्म वर्जये'दित्यन्तमेकसूत्रतया परिगणितं ख. पुस्तके । सूत्रद्वादशकतया छेदः कृतः क. पु०  
 

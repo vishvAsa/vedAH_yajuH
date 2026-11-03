@@ -4,6 +4,14 @@ title = "34 शतायुधाय शतवीर्याय"
 +++
 
 
+<details><summary>Keith</summary>
+
+(Homage) to the hundred-weaponed, him of a hundred powers,  
+Him of a hundred aids, the overcomer of hostility,  
+To Indra who shall lead us over all obstacles  
+Through autumns without fail.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श॒तायु॑धाय श॒तवी॑र्याय श॒तोत॑येऽभिमाति॒षाहे॑ ।  

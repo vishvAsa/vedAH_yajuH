@@ -5,10 +5,10 @@ title = "04 हर्तारश् च"
 
 <details><summary>Bühler</summary>
 
-4. And those who bury them. [^3] 
+4. And those who bury them. [3] 
 
 
-[^3]:  Manu V, 69 and 70.
+[3]:  Manu V, 69 and 70.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

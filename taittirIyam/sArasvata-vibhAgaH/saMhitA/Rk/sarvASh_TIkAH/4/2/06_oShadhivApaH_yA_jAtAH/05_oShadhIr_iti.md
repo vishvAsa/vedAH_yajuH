@@ -3,7 +3,6 @@ title = "05 \"ओषधीर्\" इति"
 
 +++
 
-
 <details><summary>Keith</summary>
 
 'Plants', O ye mothers,  
@@ -20,7 +19,6 @@ Defilement [1] destroying.
 
 <details><summary>सायण-टीका</summary>
 
-अथ चतुर्थीमाह– ओषधीरितीति ।  
 हे मातरो मातृसमाना देवीर्देव्यः।  
 इतिशब्दोऽत्र हेत्वर्थे वर्तते ।  
 यस्माद् ओषधीर् युयमोषधयस्  

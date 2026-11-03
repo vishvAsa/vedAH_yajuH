@@ -5,10 +5,10 @@ title = "11 प्रथमं वर्णम् परिहाप्य"
 
 <details><summary>Bühler</summary>
 
-11. (A man of any caste) excepting the first, who has slain a man of the first caste, shall go on a battle-field and place himself (between the two hostile armies). There they shall kill him (and thereby he becomes pure). [^9] 
+11. (A man of any caste) excepting the first, who has slain a man of the first caste, shall go on a battle-field and place himself (between the two hostile armies). There they shall kill him (and thereby he becomes pure). [9] 
 
 
-[^9]:  Manu XI, 74; Yājñ. III, 248.
+[9]:  Manu XI, 74; Yājñ. III, 248.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

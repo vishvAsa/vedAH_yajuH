@@ -5,10 +5,10 @@ title = "24 मातरमाचार्यदारञ् चेत्ये�
 
 <details><summary>Bühler</summary>
 
-24. Some (declare, that he shall salute in this manner even) his mother and the wife of his teacher. [^16] 
+24. Some (declare, that he shall salute in this manner even) his mother and the wife of his teacher. [16] 
 
 
-[^16]:  Āpastamba, of course, holds the contrary opinion. Manu II, 216.
+[16]:  Āpastamba, of course, holds the contrary opinion. Manu II, 216.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

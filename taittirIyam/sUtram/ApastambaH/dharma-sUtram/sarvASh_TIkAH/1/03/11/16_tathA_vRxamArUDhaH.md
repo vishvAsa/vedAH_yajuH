@@ -5,10 +5,10 @@ title = "16 तथा वृक्षमारूढः"
 
 <details><summary>Bühler</summary>
 
-16. Nor whilst sitting on a tree, [^9] 
+16. Nor whilst sitting on a tree, [9] 
 
 
-[^9]:  Yājñ. I, 51; Manu IV, 120.
+[9]:  Yājñ. I, 51; Manu IV, 120.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

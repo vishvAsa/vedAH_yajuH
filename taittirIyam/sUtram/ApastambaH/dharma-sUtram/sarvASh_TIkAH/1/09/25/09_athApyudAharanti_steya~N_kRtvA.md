@@ -5,10 +5,10 @@ title = "09 अथाप्युदाहरन्ति स्तेयङ् 
 
 <details><summary>Bühler</summary>
 
-9. Now they quote also (the following verse): [^8] 
+9. Now they quote also (the following verse): [8] 
 
 
-[^8]:  Haradatta states that the verse is taken from a Purāṇa.
+[8]:  Haradatta states that the verse is taken from a Purāṇa.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

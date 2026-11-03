@@ -5,10 +5,10 @@ title = "10 नागुरुतल्पे पततीत्येके"
 
 <details><summary>Bühler</summary>
 
-10. Some (teachers declare), that he does not fall by having connection with any other married female except his teacher's wife. [^7] 
+10. Some (teachers declare), that he does not fall by having connection with any other married female except his teacher's wife. [7] 
 
 
-[^7]:  I.e. he need not perform so heavy a penance.
+[7]:  I.e. he need not perform so heavy a penance.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

@@ -5,10 +5,10 @@ title = "05 नित्यश्राद्धम्"
 
 <details><summary>Bühler</summary>
 
-5. (Now follows) the daily funeral-oblation. [^2] 
+5. (Now follows) the daily funeral-oblation. [2] 
 
 
-[^2]:  Manu III, 82 seq.
+[2]:  Manu III, 82 seq.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

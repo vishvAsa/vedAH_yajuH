@@ -5,10 +5,10 @@ title = "08 स्थानासनचङ्क्रमणस्मिते�
 
 <details><summary>Bühler</summary>
 
-8. He shall imitate (his teacher) in rising, sitting, walking, about, and smiling. [^6] 
+8. He shall imitate (his teacher) in rising, sitting, walking, about, and smiling. [6] 
 
 
-[^6]:  The word syāt is to be understood from Sūtra 5.
+[6]:  The word syāt is to be understood from Sūtra 5.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

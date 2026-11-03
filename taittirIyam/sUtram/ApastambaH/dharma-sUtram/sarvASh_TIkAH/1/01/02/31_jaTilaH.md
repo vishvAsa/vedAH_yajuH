@@ -5,10 +5,10 @@ title = "31 जटिलः"
 
 <details><summary>Bühler</summary>
 
-31. He shall wear all his hair tied in one braid. [^16] 
+31. He shall wear all his hair tied in one braid. [16] 
 
 
-[^16]:  Manu II, 2 19.
+[16]:  Manu II, 2 19.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

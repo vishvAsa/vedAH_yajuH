@@ -5,10 +5,10 @@ title = "06 तस्य पूजायां शान्तिः"
 
 <details><summary>Bühler</summary>
 
-6. The reward for honouring (such a guest) is immunity from misfortunes, and heavenly bliss. [^5] 
+6. The reward for honouring (such a guest) is immunity from misfortunes, and heavenly bliss. [5] 
 
 
-[^5]:  Yājñ. I, 109; Manu III, 101.
+[5]:  Yājñ. I, 109; Manu III, 101.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

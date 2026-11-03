@@ -1,71 +1,185 @@
 +++
 title = "२१ ०९ भुक्तवतोऽनुव्रज्य"
-
 +++
 तेषूत्तरैरपो दत्त्वा  
 
 +++(दर्भेष्व् अपो ददाति)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-04_mArjayantAm_mama_pitaraH.md">
-<details open><summary><h2>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02_mArjayantAm_mama_pitaraH.md">
 
-मा॒र्जय॑न्तां॒ मम॑ पि॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒हा मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒हाः ।  
+मार्ज᳓यन्तां म᳓म पित᳓रो,
 
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05-07_mArjayantAm_mama_mAtaraH.md">
-<details open><summary><h2>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h2></summary>
 
-मा॒र्जय॑न्तां॒ मम॑ मा॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒ह्यो॑, मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒ह्यः॑ ।  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/03_mArjayantAm_mama_pitAmahAH.md">
 
-</details>
+मार्ज᳓यन्तां म᳓म पितामहा᳓
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/04_mArjayantAm_mama_prapitAmahAH.md">
+
+मार्ज᳓यन्तां म᳓म प्रपितामहाः᳓ ।
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05_mArjayantAm_mama_mAtaraH.md">
+
+मार्ज᳓यन्तां म᳓म मात᳓रो,
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/06_mArjayantAm_mama_pitAmahyaH.md">
+
+मार्ज᳓यन्तां म᳓म पितामह्यो᳙,
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/07_mArjayantAm_mama_prapitAmahyaH.md">
+
+मार्ज᳓यन्तां म᳓म प्रपितामह्यः᳙ ।
+
 </div>
 
 ### उत्तरैर्दक्षिणापवर्गान् पिण्डान्दत्वा  
 उत्तरैर् दक्षिणापवर्गान् पिण्डान्दत्त्वा  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/08-19_etatte_tatAsau.md">
-<details open><summary><h2>०८-१९ एतत्ते ततासौ ...{Loading}...</h2></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/08_etatte_tatAsau.md">
 
-ए॒तत्ते॑ तताऽसौ॒+++(←नामनिर्देशः)+++, ये च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
-ए॒तत्ते॑ पितामहाऽसौ॒+++(←नामनिर्देशः)+++, ये च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
-ए॒तत्ते॑ प्रपितामहाऽसौ॒+++(←नामनिर्देशः)+++, ये च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
-ए॒तत्ते॑ मातर् असौ॒+++(←नामनिर्देशः)+++, याश् च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
-ए॒तत्ते॑ पितामह्य् असौ॒+++(←नामनिर्देशः)+++, याश् च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
-ए॒तत्ते॑ प्रपितामह्य् असौ॒+++(←नामनिर्देशः)+++, याश् च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।
+एत᳓त्ते तताऽसौ+++(←नामनिर्देशः)+++, ये᳓ च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
 
-</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/09_etatte_pitAmahAsau.md">
+
+एत᳓त्ते पितामहाऽसौ+++(←नामनिर्देशः)+++, ये᳓ च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/10_etatte_prapitAmahAsau.md">
+
+एत᳓त्ते प्रपितामहाऽसौ+++(←नामनिर्देशः)+++, ये᳓ च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/11_etatte_mAtarasau.md">
+
+एत᳓त्ते मातर् असौ+++(←नामनिर्देशः)+++, या᳓श् च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/12_etatte_pitAmahyasau.md">
+
+एत᳓त्ते पितामह्य् असौ+++(←नामनिर्देशः)+++, या᳓श् च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/13_etatte_prapitAmahyasau.md">
+
+एत᳓त्ते प्रपितामह्य् असौ+++(←नामनिर्देशः)+++, या᳓श् च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/14_mArjayantAm_mama_pitaraH.md">
+
+मार्ज᳓यन्तां म᳓म पित᳓रो,
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/15_mArjayantAm_mama_pitAmahAH.md">
+
+मार्ज᳓यन्तां म᳓म पितामहा᳓
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/16_mArjayantAm_mama_prapitAmahAH.md">
+
+मार्ज᳓यन्तां म᳓म प्रपितामहाः᳓ ।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/17_mArjayantAm_mama_mAtaraH.md">
+
+मार्ज᳓यन्तां म᳓म मात᳓रो,
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/18_mArjayantAm_mama_pitAmahyaH.md">
+
+मार्ज᳓यन्तां म᳓म पितामह्यो᳙,
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/19_mArjayantAm_mama_prapitAmahyaH.md">
+
+मार्ज᳓यन्तां म᳓म प्रपितामह्यः᳙ ।
+
 </div>
 
 ### उत्तरैरुपस्थानम्  
 पूर्ववदुत्तरैरपो दत्त्वा  
 उत्तरैरुपस्थाय  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/20_-26_ye_cha.md">
-<details open><summary><h2>२० -२६ ये च ...{Loading}...</h2></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/20_ye_cha_votra.md">
 
-ये च॒ वो +++(पितरः)+++ ऽत्र॒, ये चा॒स्मास्व् आशँ॑सन्ते॒+++(→प्रार्थयन्ते स्वधाम्)+++  
-याश् च॒ वो ऽत्र॒ याश् चा॒स्मास्व् आशँ॑सन्ते॒,  
-ते च॑ +++(स्वधां)+++ वहन्तां॒,  
-ताश्च॑ +++(स्वधां)+++ वहन्ताम्।  
-तृप्य॑न्तु भवन्तः॒,  
-तृप्य॑न्तु भवत्यः॒।  
-तृप्य॑त॒ तृप्य॑त॒ तृप्य॑त ।
+ये᳓ च वो᳓ +++(पितरः)+++ ऽत्र,  
+ये᳓ चास्मा᳓स्व् आ᳓शँसन्ते+++(→प्रार्थयन्ते स्वधाम्)+++
 
-</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/21_yAsh_cha_votra.md">
+
+या᳓श् च वो᳓ ऽत्र  
+या᳓श् चास्मा᳓स्व् आ᳓शँसन्ते,
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/22_te_cha_vahantAm.md">
+
+ते᳓ च +++(स्वधां)+++ वहन्तां,
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/23_tAsh_cha_vahantAm.md">
+
+ता᳓श् च +++(स्वधां)+++ वहन्ताम्।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/24_tRpyantu_bhavantaH.md">
+
+तृ᳓प्यन्तु भवन्तः,
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/25_tRpyantu_bhavatyaH.md">
+
+तृ᳓प्यन्तु भवत्यः।
+
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/26_tRpyata_tRpyata.md">
+
+तृ᳓प्यत तृ᳓प्यत तृ᳓प्यत ।
+
 </div>
 
 ### उभयान् पिण्डान् परिषिञ्चति  
 उत्तरयोदपात्रेण त्रिः प्रसव्यं परिषिच्य  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/27_-28_putrAnpautrAnabhi_tarpayantIrApo.md">
-<details open><summary><h2>२७ -२८ पुत्रान्पौत्रानभि तर्पयन्तीरापो ...{Loading}...</h2></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/27_putrAnpautrAnabhi_tarpayantI.md">
 
-पु॒त्रान् पौत्रा॑न् अ॒भि त॒र्पय॑न्ती॒र् आपो॒ मधु॑मतीर् इ॒माः  
-स्व॒धां +++(मातृसहित)+++पि॒तृभ्यो॑ अ॒मृतं॒ दुहा॑ना॒ आपो॑ दे॒वीर् उ॒भयाँ॑स् तर्पयन्तु ।  
-तृप्य॑त॒ तृप्य॑त॒ तृप्य॑त ।  
+पुत्रा᳓न् पौ᳓त्रान् अभि᳓ तर्प᳓यन्तीर्  
+आ᳓पो म᳓धुमतीर् इमाः᳓  
+स्वधां᳓ +++(मातृसहित)+++पितृ᳓भ्यो अमृ᳓तं दु᳓हाना  
+आ᳓पो देवी᳓र् उभ᳓याँस् तर्पयन्तु ।
 
-</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/28_tRpyata_tRpyata.md">
+
+तृ᳓प्यत तृ᳓प्यत तृ᳓प्यत ।
+
 </div>
 
 ## शेष-प्राशनम्  
@@ -77,9 +191,7 @@ title = "२१ ०९ भुक्तवतोऽनुव्रज्य"
 सर्वतस् समवदायोत्तरेण यजुषाशेषस्य ग्रासवरार्ध्यं प्राश्नीयात् ।  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/29_prANe_niviShTo-mRtam.md">
-<details open><summary><h2>२९ प्राणे निविष्टोऽमृतम् ...{Loading}...</h2></summary>
 
-प्रा॒णे निवि॑ष्टो॒ ऽमृतं॑+++(→अमरणहेतुमन्नं)+++ जुहोमि॒, ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ ।  
+प्राणे᳓ नि᳓विष्टो ऽमृ᳓तं+++(→अमरणहेतुमन्नं)+++ जुहोमि, ब्र᳓ह्मणि म आत्मा᳓ऽमृतत्वा᳓य ।  
 
-</details>
 </div>

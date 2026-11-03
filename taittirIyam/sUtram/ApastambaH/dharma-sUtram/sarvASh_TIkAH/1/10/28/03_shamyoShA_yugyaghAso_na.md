@@ -5,10 +5,10 @@ title = "03 शम्योषा युग्यघासो न"
 
 <details><summary>Bühler</summary>
 
-3. (E.g.) seeds ripening in the pod, food for a draught-ox; (if these are taken), the owners (ought) not (to) forbid it. [^1] 
+3. (E.g.) seeds ripening in the pod, food for a draught-ox; (if these are taken), the owners (ought) not (to) forbid it. [1] 
 
 
-[^1]:  28. The same rule Manu emphatically ascribes to himself, Manu VIII, 339, But see also VIII, 331.
+[1]:  28. The same rule Manu emphatically ascribes to himself, Manu VIII, 339, But see also VIII, 331.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -35,8 +35,8 @@ title = "03 शम्योषा युग्यघासो न"
 > मुष्टिर् एकाऽध्वनि स्थितैः ॥'  
 
 मनुस्तु—  
-[^३] द्विजोऽध्वगः क्षीणवृत्तिर्द्वाविक्षू द्वे च मूलके ।  
+[३] द्विजोऽध्वगः क्षीणवृत्तिर्द्वाविक्षू द्वे च मूलके ।  
 आददानः परक्षेत्रान्न दण्डं दातुमर्हति ॥ ३ ॥  
 
-[^३]: म० स्मृ० ८. ३४१.
+[३]: म० स्मृ० ८. ३४१.
 </details>

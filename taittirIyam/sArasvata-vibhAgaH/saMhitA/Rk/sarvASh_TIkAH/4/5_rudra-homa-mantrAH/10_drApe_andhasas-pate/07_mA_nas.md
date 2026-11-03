@@ -3,7 +3,6 @@ title = "07 मा नस्"
 
 +++
 
-
 <details><summary>Keith</summary>
 
 Harm us not in our children, our descendants, our life; Harm us not in our cattle, in our horses;  
@@ -19,7 +18,6 @@ With oblations lot us serve thee with honour.
 
 <details><summary>सायण-टीका</summary>
 
-अथ षष्ठीमाह— मा नस्तोक इति।  
 हे रुद्र नोऽस्मदीये तोकेऽपत्यमात्रे तनये विशेषतः पुत्रे मा रीरिषो हिंसां मा कुरु।  
 नोऽस्मदीय आयुषि मा रीरिषः नोऽस्मदीयेषु गोषु मा रीरिषः।  
 नोऽस्मदीयेष्वश्वेषु मा रीरिषः।  

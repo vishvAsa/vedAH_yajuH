@@ -5,10 +5,10 @@ title = "22 अप्रयतेन तु शूद्रेणोपहृत
 
 <details><summary>Bühler</summary>
 
-22. But what has been brought (be it touched or not) by an impure Śūdra, must not be eaten, [^12] 
+22. But what has been brought (be it touched or not) by an impure Śūdra, must not be eaten, [12] 
 
 
-[^12]:  Others say, that the food becomes unfit for eating, only, if in bringing it, the Śūdra has touched it.--Haradatta.
+[12]:  Others say, that the food becomes unfit for eating, only, if in bringing it, the Śūdra has touched it.--Haradatta.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

@@ -43,25 +43,45 @@ title = "०८ १० तञ् चतुर्थ्याऽपररात�
 ## शेष-होम-मन्त्राः  
 अग्नेरुपसमाधानाद्याज्यभागान्ते ऽन्वारब्धायाम् उत्तरा आहुतीर् +++(=सप्त प्रधानाहुतीर्जुहोति "अग्ने प्रायश्चित्ते"इत्येवमाद्याः)+++ हुत्वा जयादि प्रतिपद्यते।  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/03-06_agne_prAyashchitte.md">
-<details open><summary><h2>०३-०६ अग्ने प्रायश्चित्ते ...{Loading}...</h2></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/03_agne_prAyashchitte.md">
+<details open><summary><h2>०३ अग्ने प्रायश्चित्ते ...{Loading}...</h2></summary>
 
-अग्ने॑ प्रायश्+++(=विनाश)+++-चित्ते॒+++(=सन्धातः)+++! त्वन् दे॒वानां॒ प्राय॑श्चित्तिर् असि।  
-ब्राह्म॒णस् त्वा॑ ना॒थ-का॑मः॒ प्रप॑द्ये॒।  
-याऽस्यां प॑ति॒घ्नी त॒नूः प्र॑जा॒घ्नी प॑शु॒घ्नी ल॑क्ष्मि॒घ्नी, जा॑र॒घ्नीम् अ॑स्यै॒ ताङ् कृ॑णोमि॒ स्वाहा॑ ।+++(र५)+++  
+अ᳓ग्ने प्रायश्+++(=विनाश)+++-चित्ते+++(=सन्धातः)+++!  
+त्व᳓न् देवा᳓नां प्रा᳓यश्चित्तिर् असि।  
+ब्राह्मण᳓स् त्वा नाथ᳓-कामः प्र᳓पद्ये।  
+या᳓ऽस्यां᳓ पतिघ्नी᳓ तनूः᳓  
+प्रजाघ्नी᳓ पशुघ्नी᳓ लक्ष्मिघ्नी᳓,  
+जारघ्नी᳓म् अस्यै ता᳓ङ् कृणोमि स्वा᳓हा ।+++(र५)+++
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/04_vAyo_prAyashchitte.md">
+<details open><summary><h2>०४ वायो प्रायश्चित्ते ...{Loading}...</h2></summary>
 
-वायो॑ प्रायश्चित्ते॒! त्वन् दे॒वानां॒ प्राय॑श्चित्तिर् असि।  
-ब्राह्म॒णस् त्वा॑ ना॒थ-का॑मः॒ प्रप॑द्ये॒।  
-याऽस्यां प॑ति॒घ्नी त॒नूः प्र॑जा॒घ्नी प॑शु॒घ्नी ल॑क्ष्मि॒घ्नी, जा॑र॒घ्नीम् अ॑स्यै॒ ताङ् कृ॑णोमि॒ स्वाहा॑ ।+++(र५)+++  
+वा᳓यो प्रायश्चित्ते! त्व᳓न् देवा᳓नां प्रा᳓यश्चित्तिर् असि।  
+ब्राह्मण᳓स् त्वा नाथ᳓-कामः प्र᳓पद्ये।  
+या᳓ऽस्यां᳓ पतिघ्नी᳓ तनूः᳓  
+प्रजाघ्नी᳓ पशुघ्नी᳓ लक्ष्मिघ्नी᳓,  
+जारघ्नी᳓म् अस्यै ता᳓ङ् कृणोमि स्वा᳓हा ।+++(र५)+++
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/05_Aditya_prAyashchitte.md">
+<details open><summary><h2>०५ आदित्य प्रायश्चित्ते ...{Loading}...</h2></summary>
 
-आदि॑त्य प्रायश्चित्ते॒!  त्वन् दे॒वानां॒ प्राय॑श्चित्तिर् असि।  
-ब्राह्म॒णस् त्वा॑ ना॒थ-का॑मः॒ प्रप॑द्ये॒।  
-याऽस्यां प॑ति॒घ्नी त॒नूः प्र॑जा॒घ्नी प॑शु॒घ्नी ल॑क्ष्मि॒घ्नी, जा॑र॒घ्नीम् अ॑स्यै॒ ताङ् कृ॑णोमि॒ स्वाहा॑ ।+++(र५)+++
+आ᳓दित्य प्रायश्चित्ते!  त्व᳓न् देवा᳓नां प्रा᳓यश्चित्तिर् असि।  
+ब्राह्मण᳓स् त्वा नाथ᳓-कामः प्र᳓पद्ये।  
+या᳓ऽस्यां᳓ पतिघ्नी᳓ तनूः᳓  
+प्रजाघ्नी᳓ पशुघ्नी᳓ लक्ष्मिघ्नी᳓,  
+जारघ्नी᳓म् अस्यै ता᳓ङ् कृणोमि स्वा᳓हा ।+++(र५)+++
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/06_prajApati_prAyashchitte.md">
+<details open><summary><h2>०६ प्रजापते प्रायश्चित्ते ...{Loading}...</h2></summary>
 
-प्रजा॑पते प्रायश्चित्ते॒!  त्वन् दे॒वानां॒ प्राय॑श्चित्तिर् असि।  
-ब्राह्म॒णस् त्वा॑ ना॒थ-का॑मः॒ प्रप॑द्ये॒।  
-याऽस्यां प॑ति॒घ्नी त॒नूः प्र॑जा॒घ्नी प॑शु॒घ्नी ल॑क्ष्मि॒घ्नी, जा॑र॒घ्नीम् अ॑स्यै॒ ताङ् कृ॑णोमि॒ स्वाहा॑ ।+++(र५)+++
-
+प्र᳓जापते प्रायश्चित्ते!  
+त्व᳓न् देवा᳓नां प्रा᳓यश्चित्तिर् असि।  
+या᳓ऽस्यां᳓ पतिघ्नी᳓ तनूः᳓  
+प्रजाघ्नी᳓ पशुघ्नी᳓ लक्ष्मिघ्नी᳓,  
+जारघ्नी᳓म् अस्यै ता᳓ङ् कृणोमि स्वा᳓हा ।+++(र५)+++
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/07_prasavashchopayAmashcha_kATashchArNavashcha.md">

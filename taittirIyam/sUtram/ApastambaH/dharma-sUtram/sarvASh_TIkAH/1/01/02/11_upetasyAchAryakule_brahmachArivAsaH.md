@@ -21,8 +21,8 @@ title = "11 उपेतस्याचार्यकुले ब्रह्�
 
 <details><summary>हरदत्त-टीका</summary>
 
-He who has been initiated shall dwell as a religious student in the house of his teacher, [^3]
+He who has been initiated shall dwell as a religious student in the house of his teacher, [3]
 
 
-[^3]:  Manu II, 164.
+[3]:  Manu II, 164.
 </details>

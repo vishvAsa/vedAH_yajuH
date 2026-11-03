@@ -5,10 +5,10 @@ title = "23 अक्रोधनः"
 
 <details><summary>Bühler</summary>
 
-23. Free from anger; [^8] 
+23. Free from anger; [8] 
 
 
-[^8]:  Manu II, 178.
+[8]:  Manu II, 178.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

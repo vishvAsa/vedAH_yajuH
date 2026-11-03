@@ -5,10 +5,10 @@ title = "35 हंसभासचक्रवाकसुपर्णाश्�
 
 <details><summary>Bühler</summary>
 
-35. Likewise the swan, the Bhāsa, the Brāhmaṇī duck, and the falcon. [^23] 
+35. Likewise the swan, the Bhāsa, the Brāhmaṇī duck, and the falcon. [23] 
 
 
-[^23]:  Yājñ. I, 172.
+[23]:  Yājñ. I, 172.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

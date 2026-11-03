@@ -5,19 +5,19 @@ title = "01 सह देवमनुष्या अस्मिंल्"
 
 <details><summary>Bühler</summary>
 
-1. Formerly men and gods lived together in this world. Then the gods in reward of their sacrifices went to heaven, but men were left behind. Those men who perform sacrifices in the same manner as the gods did, dwell (after death) with the gods and Brahman in heaven. Now (seeing men left behind), Manu revealed this ceremony, which is designated by the word Śrāddha (a funeral-oblation). [^1] 
+1. Formerly men and gods lived together in this world. Then the gods in reward of their sacrifices went to heaven, but men were left behind. Those men who perform sacrifices in the same manner as the gods did, dwell (after death) with the gods and Brahman in heaven. Now (seeing men left behind), Manu revealed this ceremony, which is designated by the word Śrāddha (a funeral-oblation). [1] 
 
 
-[^1]:  16. 'Intending to give the rules regarding the monthly Śrāddha, he premises this explanatory statement in order to praise that sacrifice.'--Haradatta.
+[1]:  16. 'Intending to give the rules regarding the monthly Śrāddha, he premises this explanatory statement in order to praise that sacrifice.'--Haradatta.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
 
 **सूत्रम्**  
-सह देवमनुष्या अस्मिंल्लोके पुरा बभूवुः । अथ देवाः कर्मभिर्दिवं जग्मुरहीयन्त मनुष्याः । तेषां ये तथा कर्माण्यारभन्ते सह देवैर्ब्रह्मणा चाऽमुष्मिन् लोके भवन्ति । अथैतन्मनुः श्राद्धशब्दं कर्म प्रोवाच । [^१]प्रजानिश्श्रेयसाय च ॥ १ ॥  
+सह देवमनुष्या अस्मिंल्लोके पुरा बभूवुः । अथ देवाः कर्मभिर्दिवं जग्मुरहीयन्त मनुष्याः । तेषां ये तथा कर्माण्यारभन्ते सह देवैर्ब्रह्मणा चाऽमुष्मिन् लोके भवन्ति । अथैतन्मनुः श्राद्धशब्दं कर्म प्रोवाच । [१]प्रजानिश्श्रेयसाय च ॥ १ ॥  
 
 **टीका**  
-[^२]श्राद्धविधित्सया तस्य प्ररोचनार्थोऽयमर्थवादः ।  
+[२]श्राद्धविधित्सया तस्य प्ररोचनार्थोऽयमर्थवादः ।  
 पुरा किल देवाश्च मनुष्याश्चाऽस्मिन्नेव लोके सहैव बभूवुः ।  
 अथ तं सहभावम् असहमाना **देवाः**  
 **कर्मभिः** श्रौतैस् स्मार्तैर् गार्ह्यैश् च  
@@ -30,7 +30,7 @@ title = "01 सह देवमनुष्या अस्मिंल्"
 अत इदानीम् अपि  
 **तेषां** मनुष्याणां मध्ये **ये तथा कर्माण्य् आरभन्ते** कुर्वन्ति  
 यथारभन्त देवाः,  
-**ते देवैः ब्रह्मणा च सहामुष्मिन् लोके भवन्ति** त्रिविष्टपे मोदन्ते[^३] । 
+**ते देवैः ब्रह्मणा च सहामुष्मिन् लोके भवन्ति** त्रिविष्टपे मोदन्ते[३] । 
 
 अथैवं हीनान् मनुष्यान् दृष्ट्वा  
 **मनुर् वैवस्वतः श्राद्ध-शब्दं** श्राद्धम् इति शब्द्यमानम् एतत् कर्म प्रोवाच ।  
@@ -42,9 +42,9 @@ title = "01 सह देवमनुष्या अस्मिंल्"
 अपर आह- छान्दसो लिङ्गव्यत्ययः ।  
 प्रजा-निश्श्रेयसं चाऽस्य कर्मणः फलम् इति ॥१॥  
 
-[^१]: प्रजानिःश्रेयसाय च इति पृथकसूत्रं च. पु.  
+[१]: प्रजानिःश्रेयसाय च इति पृथकसूत्रं च. पु.  
 
-[^२]: मासि श्राद्धविधित्सया इति ड. पु.  
+[२]: मासि श्राद्धविधित्सया इति ड. पु.  
 
-[^३]: एवंविधान् इति ख. पुस्तके टिप्पणीपाठः। एवं हीयमानान् इति च. पु.
+[३]: एवंविधान् इति ख. पुस्तके टिप्पणीपाठः। एवं हीयमानान् इति च. पु.
 </details>

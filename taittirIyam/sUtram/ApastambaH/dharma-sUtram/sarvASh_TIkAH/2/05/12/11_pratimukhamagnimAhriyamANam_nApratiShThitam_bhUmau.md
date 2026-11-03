@@ -5,10 +5,10 @@ title = "12 प्रतिमुखमग्निमाह्रियमा�
 
 <details><summary>Bühler</summary>
 
-11. If, whilst he walks, fire is being carried towards him, he shall not walk around it with his right hand turned towards it, except after it has been placed on the ground. [^6] 
+11. If, whilst he walks, fire is being carried towards him, he shall not walk around it with his right hand turned towards it, except after it has been placed on the ground. [6] 
 
 
-[^6]:  The Sūtra implies that under other circumstances he must show this respect to a fire.
+[6]:  The Sūtra implies that under other circumstances he must show this respect to a fire.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

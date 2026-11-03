@@ -4,6 +4,14 @@ title = "03 त्वामग्ने वृषभञ्"
 +++
 
 
+<details><summary>Keith</summary>
+
+To thee, O Agni, the bull, the wise,  
+I have come, generating thee ever new;  
+Be our household rites not halting;  
+With thy keen holy power sharpen us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वाम॑ग्ने वृष॒भञ् चेकि॑तान॒म् पुन॒र् युवा॑नञ् ज॒नय॑न्न् उ॒पागा॑म् ।  

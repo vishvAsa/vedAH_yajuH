@@ -3,7 +3,6 @@ title = "06 ये वृक्षेषु"
 
 +++
 
-
 <details><summary>Keith</summary>
 
 Those who of black necks and ruddy,  
@@ -20,7 +19,6 @@ At a thousand leagues.}
 
 <details><summary>सायण-टीका</summary>
 
-अथ पञ्चमीमाह— ये वृक्षेष्विति।  
 यथा लोकेष्ववस्थिता रुद्रास्तथा वृक्षेष्ववस्थिताः।  
 तेषु केचित्सास्पिञ्जराः शष्पवद् बालतृणवित् पिञ्जर-वर्णाः।  
 नीलग्रीवा नीलवर्णग्रीवाः।  

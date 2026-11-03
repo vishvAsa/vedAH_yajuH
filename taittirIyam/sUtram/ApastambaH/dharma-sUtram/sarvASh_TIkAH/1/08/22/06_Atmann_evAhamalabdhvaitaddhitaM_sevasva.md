@@ -5,10 +5,10 @@ title = "06 आत्मन्न् एवाहमलब्ध्वैतद�
 
 <details><summary>Bühler</summary>
 
-6. O pupil, I, who had not recognised in my own self the great self-luminous, universal, (absolutely) free Ātman, which must be obtained without the mediation of anything else, desired (to find) it in others (the senses). (But now as I have obtained the pure knowledge, I do so no more.) Therefore follow thou also this good road that leads to welfare (salvation), and not the one that leads into misfortune (new births). [^6] 
+6. O pupil, I, who had not recognised in my own self the great self-luminous, universal, (absolutely) free Ātman, which must be obtained without the mediation of anything else, desired (to find) it in others (the senses). (But now as I have obtained the pure knowledge, I do so no more.) Therefore follow thou also this good road that leads to welfare (salvation), and not the one that leads into misfortune (new births). [6] 
 
 
-[^6]:  The verse is addressed by a teacher to his pupil. My translation strictly follows Haradatta's gloss. But his interpretation is open to many doubts. However, I am unable to suggest anything better.
+[6]:  The verse is addressed by a teacher to his pupil. My translation strictly follows Haradatta's gloss. But his interpretation is open to many doubts. However, I am unable to suggest anything better.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -22,9 +22,9 @@ title = "06 आत्मन्न् एवाहमलब्ध्वैतद�
 विषयत्यागे हेतुमाह—  
 
 **टीका**  
-शिष्यं प्रत्याचार्यस्य वचनमेतत्। द्वौ चात्र हेतू विषयाणां त्यागे-पराधीनत्वमाहितत्वं च । महान्त गुणतः। तेजसस्कायं तेजसश्शरीरं तेजोराशिं स्वयंप्रकाशम् । [^१] 'आत्मज्योतिः सम्राडिति होवाचे'ति बृहदारण्यकम्। सर्वत्र निहितं सर्वगतम् । प्रभुं स्वतन्त्रम् । एवंभूतं गुहाशयं एतावन्तं कालं अहमात्मन् , सप्तम्येकवचनस्य लुक्, आत्मनि । अस्मिन् मदीये सङ्घाते अन्यानपेक्षयैव लब्धुं योग्यमलब्ध्वा अथाऽन्येषु इन्द्रियादिषु तं तं विषयं प्रतीच्छामि लङथै लट्, प्रत्यैच्छम् । इदानीं तु तं लब्ध्वा न तथाविधोऽस्मि । त्वमप्येतदेव हितं साधुष्ठानं साधुमार्गं सेवस्व नाहितं विषयानुधावनमिति ॥ ६॥   
+शिष्यं प्रत्याचार्यस्य वचनमेतत्। द्वौ चात्र हेतू विषयाणां त्यागे-पराधीनत्वमाहितत्वं च । महान्त गुणतः। तेजसस्कायं तेजसश्शरीरं तेजोराशिं स्वयंप्रकाशम् । [१] 'आत्मज्योतिः सम्राडिति होवाचे'ति बृहदारण्यकम्। सर्वत्र निहितं सर्वगतम् । प्रभुं स्वतन्त्रम् । एवंभूतं गुहाशयं एतावन्तं कालं अहमात्मन् , सप्तम्येकवचनस्य लुक्, आत्मनि । अस्मिन् मदीये सङ्घाते अन्यानपेक्षयैव लब्धुं योग्यमलब्ध्वा अथाऽन्येषु इन्द्रियादिषु तं तं विषयं प्रतीच्छामि लङथै लट्, प्रत्यैच्छम् । इदानीं तु तं लब्ध्वा न तथाविधोऽस्मि । त्वमप्येतदेव हितं साधुष्ठानं साधुमार्गं सेवस्व नाहितं विषयानुधावनमिति ॥ ६॥   
 
-[^१]: बृह० उ० ४. ३. ६. अत्र पाठभेदो दृश्यते।
+[१]: बृह० उ० ४. ३. ६. अत्र पाठभेदो दृश्यते।
 </details>
 
 <details><summary>शङ्कराचार्य-विवरणम्</summary>

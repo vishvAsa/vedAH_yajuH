@@ -5,10 +5,10 @@ title = "20 नारण्यमभ्याश्रावयेत्"
 
 <details><summary>Bühler</summary>
 
-20. He shall not make the inhabitants of the forest hear (his recitation). [^9] 
+20. He shall not make the inhabitants of the forest hear (his recitation). [9] 
 
 
-[^9]:  This Sūtra explains the word upāṃśu, 'inaudibly.'
+[9]:  This Sūtra explains the word upāṃśu, 'inaudibly.'
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

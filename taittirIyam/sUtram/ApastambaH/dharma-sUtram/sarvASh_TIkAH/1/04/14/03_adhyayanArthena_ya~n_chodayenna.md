@@ -5,10 +5,10 @@ title = "03 अध्ययनार्थेन यञ् चोदयेन्
 
 <details><summary>Bühler</summary>
 
-3. He whom (a student) asks for instruction, shall certainly not refuse it; [^2] 
+3. He whom (a student) asks for instruction, shall certainly not refuse it; [2] 
 
 
-[^2]:  Manu II, 109-115.
+[2]:  Manu II, 109-115.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

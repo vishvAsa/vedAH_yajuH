@@ -3,7 +3,6 @@ title = "03 शतव्ँ वो"
 
 +++
 
-
 <details><summary>Keith</summary>
 
 A hundred, O mother, are your abodes, A thousand too your shoots,  
@@ -19,7 +18,6 @@ Make him whole for me.
 
 <details><summary>सायण-टीका</summary>
 
-अथ द्वितीयामाह— शतं वो अम्बेति ।  
 हेऽम्ब मातृस्थानीया ओषधयो वो युष्माकं धामानि जातिभेदाः क्षेत्राणि वा शतं सन्ति ।  
 उतापि च वो युष्माकं रुहः प्ररोहा अङ्कुराश्च सहस्रं सन्ति ।  
 सहस्रमित्यासामपरिमितत्वमुपलक्ष्यते ।  

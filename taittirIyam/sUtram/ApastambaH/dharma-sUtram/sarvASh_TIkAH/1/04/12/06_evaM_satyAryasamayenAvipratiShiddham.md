@@ -5,10 +5,10 @@ title = "06 एवं सत्यार्यसमयेनाविप्र�
 
 <details><summary>Bühler</summary>
 
-6. If that is done, (if the passage of the Vājasaneyi-brāhmaṇa is combined with that quoted in Sūtra 5, the former stands) not in contradiction with the decision of the Āryas. [^5] 
+6. If that is done, (if the passage of the Vājasaneyi-brāhmaṇa is combined with that quoted in Sūtra 5, the former stands) not in contradiction with the decision of the Āryas. [5] 
 
 
-[^5]:  Haradatta explains Āryas by viśiṣṭāḥ, 'excellent ones,' i.e. persons who know the law, and he gives Manu as an instance.
+[5]:  Haradatta explains Āryas by viśiṣṭāḥ, 'excellent ones,' i.e. persons who know the law, and he gives Manu as an instance.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

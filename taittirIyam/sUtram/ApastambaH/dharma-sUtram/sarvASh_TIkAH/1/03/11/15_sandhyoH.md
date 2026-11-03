@@ -5,10 +5,10 @@ title = "15 सन्ध्योः"
 
 <details><summary>Bühler</summary>
 
-15. (He shall not study or teach) in the twilight, [^8] 
+15. (He shall not study or teach) in the twilight, [8] 
 
 
-[^8]:  Yājñ. I, 145; Manu IV, 113.
+[8]:  Yājñ. I, 145; Manu IV, 113.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

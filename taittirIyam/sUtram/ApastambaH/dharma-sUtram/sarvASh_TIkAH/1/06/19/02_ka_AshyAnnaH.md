@@ -6,10 +6,10 @@ unicode_script = "devanagari"
 
 <details><summary>Bühler</summary>
 
-2. Who (then) are those whose food may be eaten? [^2] 
+2. Who (then) are those whose food may be eaten? [2] 
 
 
-[^2]:  'The object of this Sūtra is to introduce the great variety of opinions quoted below.'--Haradatta.
+[2]:  'The object of this Sūtra is to introduce the great variety of opinions quoted below.'--Haradatta.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

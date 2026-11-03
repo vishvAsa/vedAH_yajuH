@@ -4,11 +4,6 @@ title = "04 यम् अग्ने"
 +++
 
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-7क्रतुकरणं जुहोति - यमग्न इति त्रिपदया गायत्र्या ॥ 
-</details>
-
 <details><summary>Keith</summary>
 
 That mortal, O Agni, whom thou hast helped in the battles, Whom thou hast strengthened in the contest for booty, He winneth I abiding strength.

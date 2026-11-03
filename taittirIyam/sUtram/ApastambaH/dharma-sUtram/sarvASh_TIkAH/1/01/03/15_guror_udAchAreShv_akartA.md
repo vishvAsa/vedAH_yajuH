@@ -5,10 +5,10 @@ title = "15 गुरोर् उदाचारेष्व् अकर्त
 
 <details><summary>Bühler</summary>
 
-15. Let him not do anything for his own pleasure in places which his teacher frequents. [^6] 
+15. Let him not do anything for his own pleasure in places which his teacher frequents. [6] 
 
 
-[^6]:  'Anything for his own pleasure,' i.e. keeping conversations with friends, making his toilet, &c.
+[6]:  'Anything for his own pleasure,' i.e. keeping conversations with friends, making his toilet, &c.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

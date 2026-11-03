@@ -3,7 +3,6 @@ title = "08 आरात् ते"
 
 +++
 
-
 <details><summary>Keith</summary>
 
 From afar to thee, slayer of cows, and slayer of men,  
@@ -20,7 +19,6 @@ And grant us protection in abundance.
 
 <details><summary>सायण-टीका</summary>
 
-अथ सप्तमीमाह–  २१३७ आरत्ते गोघ्न इति।  
 **गोघ्ने** गोघ्नस्य **पुरुषघ्ने** पुत्रपौत्रादिषुरुषघ्नस्य  
 **क्षयद्वीराय** क्षपितभृत्यस्य **ते** तवोग्ररूपम्  
 **आराद् अस्तु** दूरे तिष्ठतु।  

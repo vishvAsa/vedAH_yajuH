@@ -3,7 +3,6 @@ title = "05 मृडा नो"
 
 +++
 
-
 <details><summary>Keith</summary>
 
 Be merciful to us, O Rudra, and give us delight; With honour let us worship thee, destroyer of men;  
@@ -19,7 +18,6 @@ May we attain that, O Rudra, under thy leadership.
 
 <details><summary>सायण-टीका</summary>
 
-अथ चतुर्थमाह– मृडा नो रुद्रोतेति।  
 हे रुद्र नोऽस्मान्मृडयेह लोके सुखय।  
 उतापि च नोऽस्माकं परलोकेऽपि मयः सुखं कृधि कुरु।  
 क्षयद्वीराय क्षपितास्मदीयपापाय ते तुभ्यं नमसा नमस्कारेण विधेम परिचरेम।  

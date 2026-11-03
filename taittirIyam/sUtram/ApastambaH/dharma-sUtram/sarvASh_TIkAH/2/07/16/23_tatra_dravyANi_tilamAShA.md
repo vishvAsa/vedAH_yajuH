@@ -5,10 +5,10 @@ title = "23 तत्र द्रव्याणि तिलमाषा"
 
 <details><summary>Bühler</summary>
 
-23. The substances (to be offered) at these (sacrifices) are sesamum, māṣa, rice, yava, water, roots, and fruits. [^10] 
+23. The substances (to be offered) at these (sacrifices) are sesamum, māṣa, rice, yava, water, roots, and fruits. [10] 
 
 
-[^10]:  Manu III, 267; Yājñ. I, 257.
+[10]:  Manu III, 267; Yājñ. I, 257.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

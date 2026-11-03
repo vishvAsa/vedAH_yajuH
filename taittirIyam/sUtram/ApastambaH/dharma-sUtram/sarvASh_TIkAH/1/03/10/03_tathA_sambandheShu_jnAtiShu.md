@@ -5,10 +5,10 @@ title = "03 तथा सम्बन्धेषु ज्ञातिषु"
 
 <details><summary>Bühler</summary>
 
-3. Likewise if near relations have died. [^3] 
+3. Likewise if near relations have died. [3] 
 
 
-[^3]:  'This rule applies to a student only. It is known from another work that those who have been infected by impurity (on the death of a relation), must not study whilst the impurity lasts. 'Haradatta. Yājñ. I, 144.
+[3]:  'This rule applies to a student only. It is known from another work that those who have been infected by impurity (on the death of a relation), must not study whilst the impurity lasts. 'Haradatta. Yājñ. I, 144.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -24,7 +24,7 @@ title = "03 तथा सम्बन्धेषु ज्ञातिषु"
 दानं प्रतिग्रहो यज्ञः  
 स्वाध्यायश्च निवर्तते ॥' 
 
-इति । [^४]**उभयत्र** जनने मरणे च ॥३॥  
+इति । [४]**उभयत्र** जनने मरणे च ॥३॥  
 
-[^४]: मनु० ५ ३.
+[४]: मनु० ५ ३.
 </details>

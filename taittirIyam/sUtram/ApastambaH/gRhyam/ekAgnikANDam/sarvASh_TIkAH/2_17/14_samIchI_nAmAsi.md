@@ -3,6 +3,11 @@ title = "१४ समीची नामासि"
 
 +++
 
+<details><summary>Keith</summary>
+
+Thou art the eastern quarter, the favourable by name; of thee as such Agni is the overlord, the black (snake) the guardian; the overlord and the guardian, to them homage; may they be gentle to us; him whom we hate and who hateth us I place within the jaws of you two.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒मीची॒ नामा॑सि॒ प्राची॒ दिक् ।  

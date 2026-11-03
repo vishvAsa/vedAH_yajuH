@@ -5,10 +5,10 @@ title = "23 न च नक्तं"
 
 <details><summary>Bühler</summary>
 
-23. He shall not perform (any part of) a funeral sacrifice at night. [^13] 
+23. He shall not perform (any part of) a funeral sacrifice at night. [13] 
 
 
-[^13]:  Manu III, 280.
+[13]:  Manu III, 280.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

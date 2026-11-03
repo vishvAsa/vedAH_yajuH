@@ -5,10 +5,10 @@ title = "18 आर्षे दुहितृमते मिथुनौ"
 
 <details><summary>Bühler</summary>
 
-18. At the wedding called Ārsha, the bridegroom shall present to the father of the bride a bull and a cow. [^11] 
+18. At the wedding called Ārsha, the bridegroom shall present to the father of the bride a bull and a cow. [11] 
 
 
-[^11]:  Manu III, 29; Yājñ. I, 59.
+[11]:  Manu III, 29; Yājñ. I, 59.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

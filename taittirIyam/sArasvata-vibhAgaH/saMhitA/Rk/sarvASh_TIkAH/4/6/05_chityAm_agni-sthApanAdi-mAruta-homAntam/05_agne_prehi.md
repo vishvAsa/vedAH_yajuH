@@ -3,7 +3,6 @@ title = "05 अग्ने प्रेहि"
 
 +++
 
-
 <details><summary>Keith</summary>
 
 O Agni, advance, first of worshippers,  
@@ -20,7 +19,6 @@ Let the sacrificers go to heaven, to prosperity.
 
 <details><summary>सायण-टीका</summary>
 
-अथ पञ्चमीमाह– अग्ने प्रेहीति।  
 देवानात्मन इच्छतो देवयन्तो यजमानस्तेषामुपकाराय हेऽग्ने त्वं प्रथमः प्रेहि पुरतो गच्छ।  
 यतस्त्वं देवानां मनुष्याणां च चक्षुःस्थां नीयः।  
 लोके हि गच्छतः पुरुषस्य दृष्टिः पुरतो याति।  

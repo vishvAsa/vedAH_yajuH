@@ -5,10 +5,10 @@ title = "18 उद्यन्तमस्तं यन्तञ् चादि
 
 <details><summary>Bühler</summary>
 
-18. He shall avoid to look at the sun when he rises or sets. [^9] 
+18. He shall avoid to look at the sun when he rises or sets. [9] 
 
 
-[^9]:  Manu IV, 37. 19. Manu IV, 153.
+[9]:  Manu IV, 37. 19. Manu IV, 153.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -18,7 +18,7 @@ title = "18 उद्यन्तमस्तं यन्तञ् चादि
 
 **टीका**  
 उदयसमये अस्तमयसमये वा आदित्यं न पश्येत् ।  
-[^२]मनुस्तु —  
+[२]मनुस्तु —  
 
 > नेक्षेतोद्यन्तम् आदित्यं  
 > नाऽस्तं यन्तं कदाचन ।  
@@ -27,5 +27,5 @@ title = "18 उद्यन्तमस्तं यन्तञ् चादि
 
 इति ॥ २० ॥  
 
-[^२]: म० स्मृ० ४. ३६.
+[२]: म० स्मृ० ४. ३६.
 </details>

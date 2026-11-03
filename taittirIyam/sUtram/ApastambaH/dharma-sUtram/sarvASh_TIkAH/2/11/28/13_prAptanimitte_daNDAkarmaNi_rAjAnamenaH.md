@@ -5,10 +5,10 @@ title = "13 प्राप्तनिमित्ते दण्डाकर�
 
 <details><summary>Bühler</summary>
 
-13. If the king does not punish a punishable offence, the guilt falls upon him. [^5] 
+13. If the king does not punish a punishable offence, the guilt falls upon him. [5] 
 
 
-[^5]:  Manu VIII, 18, 308; Yājñ. I, 336.
+[5]:  Manu VIII, 18, 308; Yājñ. I, 336.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

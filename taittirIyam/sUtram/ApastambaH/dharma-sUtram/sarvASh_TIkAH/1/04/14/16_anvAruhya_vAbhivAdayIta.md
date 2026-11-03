@@ -5,10 +5,10 @@ title = "16 अन्वारुह्य वाभिवादयीत"
 
 <details><summary>Bühler</summary>
 
-16. Or he may descend or ascend (to the place where such a person stands) and salute him. [^12] 
+16. Or he may descend or ascend (to the place where such a person stands) and salute him. [12] 
 
 
-[^12]:  This Sūtra, like the preceding, refers to those who are not 'Gurus.'
+[12]:  This Sūtra, like the preceding, refers to those who are not 'Gurus.'
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

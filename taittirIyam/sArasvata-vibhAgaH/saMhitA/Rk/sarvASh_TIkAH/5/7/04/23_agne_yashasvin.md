@@ -4,6 +4,14 @@ title = "23 अग्ने यशस्विन्"
 +++
 
 
+<details><summary>Keith</summary>
+
+O Agni, the glorious, lead him to glory;  
+Bring hither the fame that is Indra's;  
+May he be head, overlord, resplendent,  
+Most famed of his equals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॑ यशस्वि॒न्‌यश॑से॒मम॑र्प॒येन्द्रा॑वती॒मप॑चितीमि॒हा व॑ह ।

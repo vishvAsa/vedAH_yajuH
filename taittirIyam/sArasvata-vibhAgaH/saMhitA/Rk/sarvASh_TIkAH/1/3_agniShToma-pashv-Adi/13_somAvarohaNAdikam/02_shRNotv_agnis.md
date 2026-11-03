@@ -3,12 +3,6 @@ title = "02 शृणोत्व् अग्निस्"
 
 +++
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-3एकधनादिलक्षणा अपो जिघृक्षन् स्रुचि चतुर्गृहीतं गृहीत्वा आहवनीये जुहोति - श्रुणोत्वग्निरिति त्रिष्टुभा चतुष्पदया ॥ 
-</details>
-
-
 <details><summary>Keith</summary>
 
 Let Agni (kindled) with the kindling-stick hear my appeal, Let the waters hear, and the divine Dhisanas;  

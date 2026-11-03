@@ -4,6 +4,14 @@ title = "25 येन देवा"
 +++
 
 
+<details><summary>Keith</summary>
+
+With the light wherewith the gods went upward,  
+Wherewith the Adityas, the Vasus, the Rudras,  
+Wherewith the Angirases attained greatness,  
+With that let the sacrificer go in prosperity.
+</details>
+
 <details><summary>मूलम्</summary>
 
 येन॑ दे॒वा ज्योति॑षो॒र्ध्वा उ॒दाय॒न्‌ , येना॑दि॒त्या वस॑वो॒ येन॑ रु॒द्राः ।  

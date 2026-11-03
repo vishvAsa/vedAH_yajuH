@@ -5,10 +5,10 @@ title = "05 अपरपक्षस्यापराह्नः श्रे�
 
 <details><summary>Bühler</summary>
 
-5. The afternoon of (a day of) the latter half is preferable (for it). [^5] 
+5. The afternoon of (a day of) the latter half is preferable (for it). [5] 
 
 
-[^5]:  Manu III, 255, 278.
+[5]:  Manu III, 255, 278.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

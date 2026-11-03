@@ -5,10 +5,10 @@ title = "19 द्विषन्द्विषतो वा नान्नम
 
 <details><summary>Bühler</summary>
 
-19. A guest who is at enmity (with his host) shall not eat his food, nor (shall he eat the food of a host) who hates him or accuses him of a crime, or of one who is suspected of a crime. [^11] 
+19. A guest who is at enmity (with his host) shall not eat his food, nor (shall he eat the food of a host) who hates him or accuses him of a crime, or of one who is suspected of a crime. [11] 
 
 
-[^11]:  Manu IV, 213; Yājñ. I, 162.
+[11]:  Manu IV, 213; Yājñ. I, 162.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

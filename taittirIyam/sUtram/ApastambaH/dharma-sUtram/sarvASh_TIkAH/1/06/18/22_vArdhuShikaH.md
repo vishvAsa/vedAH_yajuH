@@ -5,10 +5,10 @@ title = "22 वार्धुषिकः"
 
 <details><summary>Bühler</summary>
 
-22. (Also) a usurer, [^14] 
+22. (Also) a usurer, [14] 
 
 
-[^14]:  Manu IV, 210; Yājñ. I, 161.
+[14]:  Manu IV, 210; Yājñ. I, 161.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

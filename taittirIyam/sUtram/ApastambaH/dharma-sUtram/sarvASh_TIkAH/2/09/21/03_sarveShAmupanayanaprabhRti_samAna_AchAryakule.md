@@ -5,10 +5,10 @@ title = "03 सर्वेषामुपनयनप्रभृति सम�
 
 <details><summary>Bühler</summary>
 
-3. The duty to live in the teacher's house after the initiation is common to all of them. [^3] 
+3. The duty to live in the teacher's house after the initiation is common to all of them. [3] 
 
 
-[^3]:  Manu II, 247-249, and above.
+[3]:  Manu II, 247-249, and above.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

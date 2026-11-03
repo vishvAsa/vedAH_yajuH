@@ -5,10 +5,10 @@ title = "28 राज्ञाम् प्रैषकरः"
 
 <details><summary>Bühler</summary>
 
-28. (Likewise) the (professional) messenger employed by a king (or others), [^18] 
+28. (Likewise) the (professional) messenger employed by a king (or others), [18] 
 
 
-[^18]:  The village or town messengers are always men of the lowest castes, such as the Mahārs of Mahārāṣṭhra.
+[18]:  The village or town messengers are always men of the lowest castes, such as the Mahārs of Mahārāṣṭhra.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

@@ -5,10 +5,10 @@ title = "03 न रसान्गृहे भुञ्जीतानवशे
 
 <details><summary>Bühler</summary>
 
-3. He shall not consume all the flavoured liquids in the house, so as to leave nothing for guests. [^2] 
+3. He shall not consume all the flavoured liquids in the house, so as to leave nothing for guests. [2] 
 
 
-[^2]:  Flavoured liquids, i.e. milk, whey, &c.
+[2]:  Flavoured liquids, i.e. milk, whey, &c.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
