@@ -18,15 +18,42 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह धृति॒स् +++(स्यात्)+++ स्वाहा॑।  
-इ॒ह विधृ॑ति॒स् +++(स्यात्)+++ स्वाहा॑।  
-इ॒ह रन्ति॒स्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वाहा॑।  
+इ॒ह धृति॒स् +++(स्यात्)+++ स्वाहा॑।
+</details>
+
+<details><summary>Keith</summary>
+
+Here is support, hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ॒ह विधृ॑ति॒स् +++(स्यात्)+++ स्वाहा॑।
+</details>
+
+<details><summary>Keith</summary>
+
+Here is keeping apart, hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ॒ह रन्ति॒स्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वाहा॑।
+</details>
+
+<details><summary>Keith</summary>
+
+Here is joy, hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इ॒ह रम॑ति॒स् +++(स्यात्)+++ स्वाहा॑।
 </details>
 
 <details><summary>Keith</summary>
 
-Here is support, hail! Here is keeping apart, hail! Here is joy, hail! Here is delight, hail!'
+Here is delight, hail!'
 </details>
 
 <details><summary>मूलम्</summary>

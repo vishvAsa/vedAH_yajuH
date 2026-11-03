@@ -4,13 +4,22 @@ unicode_script = "devanagari"
 +++
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योति॒र् गौर् आयु॒र् इति॑ त्र्य॒हो भ॑वति ।  
+ज्योति॒र् गौर् आयु॒र् इति॑ त्र्य॒हो भ॑वति ।
+</details>
+
+<details><summary>Keith</summary>
+
+The three days are the Jyotis, Go, and Ayus.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इ॒यव्ँ वाव ज्योति॑र्, अ॒न्तरि॑क्ष॒ङ् गौर्, अ॒साव् आयुः॑ ।
 </details>
 
 <details><summary>Keith</summary>
 
-The three days are the Jyotis, Go, and Ayus. The Jyotis is this (earth), the Go the atmosphere, the Ayus yonder (sky); verily they mount upon these worlds.
+The Jyotis is this (earth), the Go the atmosphere, the Ayus yonder (sky); verily they mount upon these worlds.
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>

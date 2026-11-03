@@ -14,20 +14,33 @@ unicode_script = "devanagari"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(दिवसेषु एकान्तराभ्यां)+++ बृहद्रथन्त॒राभ्याय्ँ॑ यन्ति ।
-इ॒यव्ँ वाव र॑थन्त॒रम्, अ॒सौ बृ॒हत् +++(चास्ति)+++।  
-आ॒भ्यामे॒व य॒न्ति +++(प्रथमदिनयोः)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
 
-They proceed with the Brhat and the Rathantara (Samans). The Rathantara is this (earth), the Brhat yonder (sky); verily with them do they proceed;
+They proceed with the Brhat and the Rathantara (Samans).
 </details>
 
 <details><summary>मूलम्</summary>
 
 बृ॒ह॒द्र॒थ॒न्त॒राभ्याय्ँ॑ यन्ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ॒यव्ँ वाव र॑थन्त॒रम्, अ॒सौ बृ॒हत् +++(चास्ति)+++।
+आ॒भ्यामे॒व य॒न्ति +++(प्रथमदिनयोः)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The Rathantara is this (earth), the Brhat yonder (sky); verily with them do they proceed;
+</details>
+
+<details><summary>मूलम्</summary>
+
 इ॒यव्ँ वाव र॑थन्त॒रम् अ॒सौ बृ॒हत् ।
-आ॒भ्यामे॒व य॒न्ति [2]।  
+आ॒भ्यामे॒व य॒न्ति [2]।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
