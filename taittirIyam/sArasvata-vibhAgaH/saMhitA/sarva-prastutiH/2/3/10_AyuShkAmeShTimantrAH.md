@@ -1,6 +1,5 @@
 +++
 title = "१० आयुष्कामेष्टिमन्त्राः"
-
 +++
 
 ६ प्रस्तारपङ्क्तिः १० त्रिष्टुप्,   
@@ -223,21 +222,27 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 10हिरण्याद्घृतं निष्पिबन्तमनुमन्त्रयते - इममग्न इति । त्रिष्टुबेषा ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/02_imamagna_AyuShe.md" unfilled newLevelForH1="5" includeTitle="false">  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/02_imamagna_AyuShe.md">
+
+इम᳓म् अग्न आ᳓युषे व᳓र्चसे **कृधि**  
+प्रियँ᳓ रे᳓तो वरुण सोम राजन् ।  
+माते᳓वास्मा अदिते श᳓र्म **यच्छ**  
+वि᳓श्वे देवा ज᳓र-दष्टिर् **य᳓था᳓ऽसत्** ।
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_04/02_imamagna_AyuShe.md">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒मम॑ग्न॒ आयु॑षे॒ वर्च॑से कृधि प्रि॒यँ रेतो॑ वरुण सोम राजन् ।  
-मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा॒ जर॑दष्टि॒र्यथास॑त् ।  
+मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा॒ जर॑दष्टि॒र्यथास॑त् ।
 </details>
 
- </div>
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_04/02_imamagna_AyuShe.md" unfilled newLevelForH1="5" includeTitle="false">  
 <details><summary>मूलम्</summary>
 
 इ॒मम॑ग्न॒ आयु॑षे॒ वर्च॑से कृधि प्रि॒यँ रेतो॑ वरुण सोम राजन् ।  
-मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा॒ जर॑दष्टि॒र्यथास॑त् ।  
+मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा॒ जर॑दष्टि॒र्यथास॑त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -245,57 +250,80 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 हे अग्ने इमं घृतम् । उभयलिङ्गो घृतशब्दः । आयुषे वर्चसे बलाय चास्य कृधि कुरु । पूर्ववच्छपो लुक्, धिभावश्च । प्रियं रेतः, सर्वस्य प्रकृतिभूतत्वात् प्रियत्वम् रेतस्त्वं च । हे वरुण हे सोमलताभिमानिन्, हे राजन् चन्द्र । यद्वा - वल्लीनिवृत्त्यर्थं राजशब्देन सोमो विशेष्यते । यूयमप्यस्यायुषे कुरुत ।   
 किञ्च - हे अदिते त्वमपि अस्मै यजमानाय मातेव शर्म सुखं यच्छ देहि । हे विश्वेदेवा यूयमपीदं कर्तुमर्हथ । किम् ? यथायं यजमानो जरदष्टिः जीर्णत्वेन अष्टिर्व्याप्तिर्यस्य । जरामश्नुत इति वा जरदष्टिः । छान्दसी रूपसिद्धिः । असत् भवेत् दीर्घायुर्यथा स्यात्तथा कुरुत । यद्वा - अस्य यजमानस्य जरदष्टिः जराव्याप्तिः असत् भवेत् तथा कुरुत दीर्घायुषं कुरुत । जीर्यतेरतृन्प्रत्ययो भावे द्रष्टव्यः । अस्तेर्लेटि अडागमः ॥
 </details>
- </div>
+
+<details><summary>हरदत्तः</summary>
+
+इममग्न इति ॥ हे अग्ने । त्वं इमं माणवकं आयुषे वर्चसे कृधि कुरु यथायं आयुष्मान् वर्चस्वी च भवति तथा कुरु । हे वरुण त्वं पुनरस्य प्रियं रेतः कुरु प्रियं पुत्रं देहि यदा गृहस्थो भवति । हे सोम राजन् । त्वं च, हे अदिते । त्वं च अस्मै मातेव शर्म सुखं यच्छ देहि । दाण् दाने, यच्छादेशः । हे विश्वेदेवाः । यूयं च शर्म यच्छत, यथा सत्ययं जरदष्टिः असत् स्यात् । आचार्यपक्षे सुगमम् । माणवकपक्षे आत्मन एव परोक्षनिर्देशः । इमं जनं अस्मै जनाय अयं जरदष्टिरसदिति ॥जनो
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अग्नि-वरुण-सोमादिति-विश्वेभ्यः देवेभ्यः इदन्न मम ।
+</details>
+
+</div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11-16ब्रह्मा यजमानस्य हस्तं गृह्णाति - अग्निरायुष्मानिति ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्निरायु॑ष्मा॒न्त्स वन॒स्पति॑भि॒रायु॑ष्मा॒न्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि॒ सोम॒ आयु॑ष्मा॒न्त्स ओष॑धीभिर्य॒ज्ञ आयु॑ष्मा॒न्त्स दक्षि॑णाभि॒र्ब्रह्मायु॑ष्म॒त्तद्ब्रा॑ह्म॒णैरायु॑ष्मद्दे॒वा आयु॑ष्मन्त॒स्ते॑ऽमृते॑न पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥ [40]
 </details>
+
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md">
-<details open=""><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
+<details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 +++(हे यजमान)+++  
 अग्नि᳓र् आ᳓युष्मान् ,   
 स᳓ व᳓नस्-प᳓तिभिर् आ᳓युष्मान् ,   
 ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md">
-<details open=""><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
+<details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 सो᳓म आ᳓युष्मान् स᳓ ओ᳓षधीभिर् [आ᳓युष्मान् ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md">
-<details open=""><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
+<details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 +++(हे यजमान)+++ यज्ञ᳓ [आ᳓युष्मान्], स᳓ द᳓क्षिणाभिर् आ᳓युष्मान्, [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md">
-<details open=""><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
+<details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 +++(हे यजमान)+++ ब्र᳓ह्मा᳓युष्मत्, त᳓द्ब्राह्मणै᳓रा᳓युष्मत् , [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/09_devA_AyuShmantaH_amRutena.md">
-<details open=""><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
+<details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 +++(हे यजमान)+++ देवा᳓ आ᳓युष्मन्तः।  
 ते᳓ऽमृ᳓तेन [+आ᳓युष्मन्तः]  [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]  
+
 </details>
 </div>
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पित᳓र आ᳓युष्मन्तस् ते᳓ स्वध᳓या᳓ऽऽयुष्मन्तस्, ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि । 
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निरायु॑ष्मा॒न् ,   
@@ -313,6 +341,7 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 ते॑ऽमृते॑न  
 पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अग्निरायुष्मान् दीर्घायुः । स वनस्पतिभिरायुष्मान् तैर्हेतुभिस्तैर्वासह । तेनायुषा उभयेनायुषा त्वामायुष्मन्तं करोमि दीर्घायुषं करोमि । हे यजमान सोमादिषु 'आयुष्मान्तेन' इत्याद्यनुषज्यते । सोम ओषधीभिः, यज्ञो दक्षिणाभिः ब्रह्म ब्राह्मणैः, देवा अमृतेन, पितरस्स्वधया ॥
@@ -320,8 +349,8 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 इति द्वितीये तृतीये दशमोनुवाकः ॥
 </details>
 
-
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पि॒तर॒ आयु॑ष्मन्तः,
