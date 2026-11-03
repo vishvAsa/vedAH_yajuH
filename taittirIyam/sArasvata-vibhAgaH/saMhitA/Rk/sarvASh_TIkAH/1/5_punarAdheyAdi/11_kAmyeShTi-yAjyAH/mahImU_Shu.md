@@ -3,19 +3,18 @@ title = "महीम् ऊ षु"
 unicode_script = "devanagari"
 +++
 
-
-<details><summary>मूलम्</summary>
-
-म॒हीमू॒ षु मा॒तरँ॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हुवेम ।  
-तु॒वि॒क्ष॒त्त्राम॒जर॑न्तीमुरू॒चीँ सु॒शर्मा॑ण॒मदि॑तिँ सु॒प्रणी॑तिम्  ॥
-</details>
-
 <details><summary>Keith</summary>
 
 The mighty mother of the righteous,  
 The spouse of holy order, let us invoke to aid us,  
 The powerful, the unageing, the wide  
 Aditi, who giveth good protection and good guidance.
+</details>
+
+<details><summary>मूलम्</summary>
+
+म॒हीमू॒ षु मा॒तरँ॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हुवेम ।  
+तु॒वि॒क्ष॒त्त्राम॒जर॑न्तीमुरू॒चीँ सु॒शर्मा॑ण॒मदि॑तिँ सु॒प्रणी॑तिम्  ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
