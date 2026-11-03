@@ -338,7 +338,6 @@ O god Savitr, bind thou in the furthest distance with a hundred fetters him who 
 <details><summary>Keith</summary>
 
 Araru is smitten away from the earth, the place of sacrifice.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -609,7 +608,6 @@ O god Savitr, bind thou in the furthest distance with a hundred fetters him who 
 <details><summary>Keith</summary>
 
 Araru is smitten away from the earth, he that sacrifices not to the gods.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -937,30 +935,41 @@ ____
 समीकरोति
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-धा अ॑सि ।  
-स्व॒धा+++(=अन्नं, स्वं पुरुषं दधातीति)+++ अ॑सि ।  
-उ॒र्वी चाऽसि॑।  
-वस्वी॑ चासि ।  
-</details>
-
-<details><summary>Keith</summary>
-
-Thou art the holder, thou art the self-holder.  
-Thou art broad, and wealthy art thou.
-
-</details>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 धा अ॑सि स्व॒धा अ॑स्यु॒र्वी चासि॒ वस्वी॑ चासि
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धा अ॑सि ।  
+स्व॒धा+++(=अन्नं, स्वं पुरुषं दधातीति)+++ अ॑सि ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the holder, thou art the self-holder.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धा अ॑सि ।  
-स्व॒धा अ॑सि ।  
+स्व॒धा अ॑सि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उ॒र्वी चाऽसि॑।  
+वस्वी॑ चासि ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art broad, and wealthy art thou.
+</details>
+
+<details><summary>मूलम्</summary>
+
 उ॒र्वी चाऽसि॑ ।  
 वस्वी॑ चासि ।
 </details>

@@ -153,21 +153,30 @@ verily he makes cattle stay with himself.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒ष्ट॒क॒चिद् वा अ॒न्यो॑ ऽग्निः ।  
-प॒शु॒चिद् अ॒न्यः  +++(अग्निः)+++।  
+प॒शु॒चिद् अ॒न्यः  +++(अग्निः)+++।
+</details>
+<details><summary>Keith</summary>
+
+Now one fire is piled with bricks, one with cattle.
+</details>
+<details><summary>मूलम्</summary>
+
+इ॒ष्ट॒क॒चिद्वा अ॒न्यो॑ऽग्निः ।  
+प॒शु॒चिद॒न्यः ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "सँ॒हि॒तासि॑ विश्वरू॒पीर्" इति॑ व॒त्सम् अ॒भि मृ॑श॒ति ।  
 उपै॒वैन॑न् धत्ते।  
 प॒शु॒चित॑म् एनङ् +++(अग्निं)+++ कुरुते ।
 </details>
 <details><summary>Keith</summary>
 
-Now one fire is piled with bricks, one with cattle.  
 'Thou art composed Of every form', (with these words) he strokes the calf;  
-verily he piles it up and makes it piled with cattle. 
+verily he piles it up and makes it piled with cattle.
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒ष्ट॒क॒चिद्वा अ॒न्यो॑ऽग्निः ।  
-प॒शु॒चिद॒न्यः ।  
 सँ॒हि॒तासि॑ विश्वरू॒पीरिति॑ व॒त्सम॒भि मृ॑श॒ति ।  
 उपै॒वैन॑न्धत्ते।  
 प॒शु॒चित॑मेनङ्कुरुते ।

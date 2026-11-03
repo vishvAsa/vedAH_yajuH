@@ -93,16 +93,32 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒ह-सो॑मा॒  इन्द्रा॑य॒ स्वाहा॑ ॥ [29]  
+स॒ह-सो॑मा॒
 </details>
+
 <details><summary>Keith</summary>
 
-mixed with Soma.  
-To Indra hail!
+mixed with Soma.
 </details>
+
 <details><summary>मूलम्</summary>
 
-स॒हसो॑मा॒ इन्द्रा॑य॒ स्वाहा॑ ॥ [29]  
+स॒हसो॑मा॒
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द्रा॑य॒ स्वाहा॑ ॥ [29]
+</details>
+
+<details><summary>Keith</summary>
+
+To Indra hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्रा॑य॒ स्वाहा॑ ॥ [29]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

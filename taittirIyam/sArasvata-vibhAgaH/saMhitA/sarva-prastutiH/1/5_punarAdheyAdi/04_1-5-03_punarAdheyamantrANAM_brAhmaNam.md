@@ -138,19 +138,35 @@ Pure
 
 पृ॑थि॒वीम् अ॒न्नाद्य॒म् नोपा॑नमत्  ।  
 सैतं मन्त्र॑म् अपश्यत् ।  
-ततो॒ वै ताम् अ॒न्नाद्य॒म् उपा॑नमद्।   
-यत् स॑र्परा॒ज्ञिया॑ ऋ॒ग्भिर् गार्ह॑पत्यम् आ॒दधा॑ति  ..  
-अ॒न्नाद्य॒स्याव॑रुद्ध्यै ।
+ततो॒ वै ताम् अ॒न्नाद्य॒म् उपा॑नमद्।
 </details>
+
 <details><summary>Keith</summary>
 
-food did not come to the earth; she [1] beheld this Mantra; then food came to her. In that he establishes the Garhapatya with the verses of the serpent queen (it serves) for the winning of food; 
+food did not come to the earth; she [1] beheld this Mantra; then food came to her.
 </details>
+
 <details><summary>मूलम्</summary>
 
 पृ॑थि॒वीम॒न्नाद्य॒म् नोपा॑नमत्  ।  
 सैतं मन्त्र॑मपश्यत् ।  
-ततो॒ वै ताम॒न्नाद्य॒मुपा॑नम॒द्  यत्स॑र्परा॒ज्ञिया॑ ऋ॒ग्भिर्गार्ह॑पत्यमा॒दधा॑ति  ..  
+ततो॒ वै ताम॒न्नाद्य॒मुपा॑नम॒द्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् स॑र्परा॒ज्ञिया॑ ऋ॒ग्भिर् गार्ह॑पत्यम् आ॒दधा॑ति  ..  
+अ॒न्नाद्य॒स्याव॑रुद्ध्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+In that he establishes the Garhapatya with the verses of the serpent queen (it serves) for the winning of food;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्स॑र्परा॒ज्ञिया॑ ऋ॒ग्भिर्गार्ह॑पत्यमा॒दधा॑ति  ..  
 अ॒न्नाद्य॒स्याव॑रुद्ध्यै ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

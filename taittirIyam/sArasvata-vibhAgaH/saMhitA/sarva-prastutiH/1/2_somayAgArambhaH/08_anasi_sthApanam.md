@@ -772,7 +772,6 @@ ________
 “अथ सोम-वाहनाव् आनीयमानौ प्रति मन्त्रयते 'उस्राव् एतं धूर्षाहाव् अनश्रू अवीर-हणौ ब्रह्म-चोदनाव्' इति”  
 
 इति।
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -941,7 +940,6 @@ ________
 <details><summary>Keith</summary>
 
 Varuna's noose is tied.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -957,7 +955,6 @@ Varuna's noose is tied.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 11योक्त्रेण बध्नाति - प्रत्यस्त इति ॥ प्रत्यस्तः उत्क्षिप्तः वरुणस्य पाशस्त्वमसि । यद्वा - त्वया बन्धने कृते वरुणस्य पाशः प्रत्यस्तः ॥
-
 </details>
 
 <details><summary>सायण-टीका</summary>

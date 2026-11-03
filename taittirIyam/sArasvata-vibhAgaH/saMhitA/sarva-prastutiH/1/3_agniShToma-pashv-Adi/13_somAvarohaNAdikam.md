@@ -20,22 +20,61 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हृ॒दे त्वा॑   +++(उपावहरामि)+++ ।  
-मन॑से त्वा  +++(उपावहरामि)+++ ।  
-दि॒वे त्वा॑   +++(उपावहरामि)+++ ।  
+हृ॒दे त्वा॑   +++(उपावहरामि)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the heart thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+हृ॒दे त्वा॑   +++(उपावहरामि)+++ ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन॑से त्वा  +++(उपावहरामि)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To mind thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+मन॑से त्वा  +++(उपावहरामि)+++ ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+दि॒वे त्वा॑   +++(उपावहरामि)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the sky thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+दि॒वे त्वा॑   +++(उपावहरामि)+++ ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
 सूर्या॑य त्वा  +++(उपावहरामि)+++  ।
 </details>
 
 <details><summary>Keith</summary>
 
-To the heart thee! To mind thee! To the sky thee! To the sun thee!
+To the sun thee!
 </details>
 
 <details><summary>मूलम्</summary>
 
-हृ॒दे त्वा॑   +++(उपावहरामि)+++ ।  
-मन॑से त्वा  +++(उपावहरामि)+++ ।  
-दि॒वे त्वा॑   +++(उपावहरामि)+++ ।  
 सूर्या॑य त्वा  +++(उपावहरामि)+++  ।
 </details>
 
@@ -146,19 +185,31 @@ O King Soma, come hither, descend.
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा भेर्, मा सव्ँवि॑क्थाः+++(=कम्पिष्ठाः)+++  ।   
+मा भेर्, मा सव्ँवि॑क्थाः+++(=कम्पिष्ठाः)+++  ।
+</details>
+
+<details><summary>Keith</summary>
+
+Fear not, tremble not.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मा भेर्मा सव्ँवि॑क्थाः  ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
 मा त्वा॑ हिँसिषम् ।
 </details>
 
 <details><summary>Keith</summary>
 
-Fear not, tremble not.  
 Let me not harm thee.
 </details>
 
 <details><summary>मूलम्</summary>
 
-मा भेर्मा सव्ँवि॑क्थाः  ।   
 मा त्वा॑ हिँसिषम् ।
 </details>
 
@@ -166,7 +217,6 @@ Let me not harm thee.
 
 मा । भेः । मा । समिति॑ । वि॒क्थाः॒ ।  
 मा । त्वा॒ । हिँ॒सि॒ष॒म् । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -335,7 +385,6 @@ Pure to the drinkers of the pure, (to them) whose share ye are;
 <details><summary>Keith</summary>
 
 hail
-
 </details>
 
 <details><summary>मूलम्</summary>

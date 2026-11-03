@@ -56,7 +56,6 @@ ____
 <details><summary>Keith</summary>
 
 Thou art the cauldron of Matariśvan.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -81,10 +80,30 @@ ____
 सान्नाय्य-तपनीम् अधिश्रयति
 </details>
 
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+द्यौर॑सि पृथि॒व्य॑सि वि॒श्वधा॑या असि पर॒मेण॒ धाम्ना॑
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे स्थालि!)+++ द्यौर् अ॑सि +++(तत्स्रोतोत्वात्)+++।    
-पृ॒थि॒व्य् अ॑सि ।    
+पृ॒थि॒व्य् अ॑सि ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the heaven, thou art the earth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्यौर॑सि ।    
+पृ॒थि॒व्य॑सि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वि॒श्व-धा॑या+++(=धारकम्)+++ +++(अन्तरिक्षम्/ वृष्टिर्)+++ असि  
 पर॒मेण॒ धाम्ना॑।    
 +++('दिवश्च ह्येषा पृथिव्याश्च संभृता' (तै.ब्रा. 3.2.3) इति ब्राह्मणम् । )+++
@@ -92,19 +111,11 @@ ____
 
 <details><summary>Keith</summary>
 
-Thou art the heaven, thou art the earth.  
 Thou art the all-supporting with the highest support.
-</details>
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-द्यौर॑सि पृथि॒व्य॑सि वि॒श्वधा॑या असि पर॒मेण॒ धाम्ना॑
 </details>
 
 <details><summary>मूलम्</summary>
 
-द्यौर॑सि ।    
-पृ॒थि॒व्य॑सि ।    
 वि॒श्वधा॑या असि पर॒मेण॒ धाम्ना॑ +++(=धारणशक्त्या)+++ ।
 </details>
 
@@ -178,7 +189,6 @@ ____
 <details><summary>Keith</summary>
 
 Thou art the strainer of the Vasus, of a hundred streams, thou art that of the Vasus, of a thousand streams.
-
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -487,7 +497,6 @@ ____
 <details><summary>Keith</summary>
 
 O Visnu, guard the offering.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -503,7 +512,6 @@ O Visnu, guard the offering.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 11उपरि निदधाति - विष्णविति ॥ हे विष्णो सर्वस्य रक्षक इदं दुग्धलक्षणं हव्यं रक्षस्व । व्यत्ययेनात्मनेपदम् । हवमर्हतीति हव्यं होमार्हम् । 'छन्दसि च' (पा.सू. 5.1.67) इति यत्प्रत्ययः ॥
-
 </details>
 
 इति तृतीयोनुवाकः   

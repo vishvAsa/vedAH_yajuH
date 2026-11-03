@@ -157,7 +157,6 @@ the Vasus with thirteen syllables won the thirteenfold Stoma; the Rudras with fo
 आ॒दि॒त्याᳶ पञ्च॑दशाक्षरेण पञ्चद॒शँ स्तोम॒मुद॑जयन् ।  
 अदि॑ति॒ष्षोड॑शाक्षरेण षोड॒शँ स्तोम॒मुद॑जयत् ।  
 प्र॒जाप॑तिस्स॒प्तद॑शाक्षरेण सप्तद॒शँ स्तोम॒मुद॑जयत् ॥   
-
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

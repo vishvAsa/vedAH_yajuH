@@ -1,6 +1,5 @@
 +++
 title = "१३ काम्येष्टयः"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -20,18 +19,18 @@ title = "१३ काम्येष्टयः"
 
 1अथ याज्याकाण्डं वैश्वदेवं, तत्र 'इन्द्रायान्वृजवे पुरोडाशमेकादशकपालं निर्वपेद्ग्रामकामः' इत्यस्य पुरोनुवाक्या - अन्वहेति त्रिष्टुप् ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/089/13_anvaha_mAsA.md">
-<details open><summary><h5>१३ अन्वह मासा ...{Loading}...</h5></summary>
 
 अ᳓न्व् अ᳓ह मा᳓सा, अ᳓न्व् इ᳓द् व᳓नान्य्  
 अ᳓न्वो᳓षधीर् अ᳓नु प᳓र्वतासः ।  
 **अ᳓न्व् इ᳓न्द्रं** रो᳓दसी वावशाने᳓+++(=कामयमाने)+++  
 अ᳓न्व् आ᳓पो **अजिहत**+++(=अनुगच्च्छन्ति)+++ जा᳓यमानम् ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/089/13_anvaha_mAsA.md">
-<details open><summary><h5>013 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -239,6 +238,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जायमानम्- उद्भूतम्। इन्द्रम्- ईशनाधिदैवतम्। मासाः। अनु अजिहत- अनुगच्छन्ति। वनानि-  अरण्यानि। ओषधीः- ओषध्यः। पर्वतासः- गिरयो मेघा वा। वावशाने- कामयमाने। रोदसी-  द्यावापृथिव्यौ। आपः। अनुगच्छन्ति॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **जायमानं** प्रादुर्भवन्तम् **इन्द्रं** **मासाः** चैत्रादयः **अनु** **अजिहत** अनुगच्छन्ति । **अह** इति पूरणः । **वनानि** अरण्यान्यपीन्द्रम् **अनु** अजिहत । **इत्** इति पूरणः । **ओषधीः** ओषध्योऽपि इन्द्रम् **अनु** गच्छन्ति । **पर्वतासः** पर्वता अपीन्द्रम् **अनु** गच्छन्ति। **वावशाने** कामयमाने **रोदसी** द्यावापृथिव्यावपि **इन्द्रम्** अनु गच्छतः । **आपः** उदकान्यपीन्द्रम् **अनु** गच्छन्ति । मासाद्यधिष्ठातृदेवताः प्रादुर्भवन्तमिन्द्रमनुगच्छन्तीत्यर्थः ॥
@@ -322,24 +326,25 @@ Dem Indra gaben Monde nach und Wälder, dem Indra die Gewächse und die Berge, D
 
 पदार्थान्वयभाषाः -  (मासाः-अह-इन्द्रम्-अनु-अजिहत) मासाश्चैत्रादयः खलु परमात्मानमनु परमात्मशासनमनुसृत्य गच्छन्ति प्रवर्त्तन्ते (वनानि-इत्-अनु) वनानि खल्वपि परमात्मशासनमनुलक्ष्य तिष्ठन्ति (ओषधीः-अनु) ओषधयोऽपि तस्यानुकम्पया प्राप्ता भवन्ति (पर्वतासः-अनु) पर्वताश्चापि तं परमात्मानमनुसृत्य स्थिताः सन्ति (वावशाने रोदसी इन्द्रम्-अनु) कमनीये द्यावापृथिव्यौ परमात्मानमनुदिश्यप्राप्ते स्तः (जायमानम्-अनु-आपः-अजिहत) सर्वत्र प्रसिद्धिं गतं परमात्मानमुलक्ष्य जलप्रवाहाः प्रवहन्ति ॥१३॥
 </details>
-</details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2तत्रैव याज्या - अनु ते दायीति त्रिष्टुप् ॥ व्याख्यातेयं षष्ठान्ते ।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/025/08_anu_te.md">
-<details open><summary><h5>०८ अनु ते ...{Loading}...</h5></summary>
 
 **अ᳓नु** ते **दायि**+++(=दीयते)+++ मह᳓+++(=महते)+++ इन्द्रिया᳓य  
 सत्रा᳓+++(=यज्ञेषु)+++, ते वि᳓श्वम् **अ᳓नु** वृत्र-ह᳓त्ये+++(=हत्यायै)+++ ।  
 **अ᳓नु** क्षत्र᳓म्, **अ᳓नु** स᳓हो यजत्र᳓+++(=यष्टव्य)+++ 
 + इ᳓न्द्र देवे᳓भिर्, **अ᳓नु** ते नृ-ष᳓ह्ये ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/025/08_anu_te.md">
-<details open><summary><h5>008 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -577,6 +582,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+महः- महते। इन्द्रियाय- ईशनाय। सत्रा- सत्यम्। विश्वम्- सर्वम्। वृत्रहत्ये- आवरणनाशने  निमित्ते। ते- तुभ्यम्। अनु दायि- अनुदीयते। यजत्र- पूज्य। इन्द्र। नृषह्ये- युद्धे। देवेभिः- देवैः।  क्षत्रम्- वीर्यम्। अनुदीयते। सहः- शक्तिरनुदीयते॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **महे** महते **ते** तुभ्यम् **इन्द्रियाय** ऐश्वर्यार्थम् **अनु** **दायि** अन्वदायि । अनुदीयते स्म । **वृत्रहत्ये** वृत्रवधे निमित्ते **ते** तुभ्यं **विश्वं** समस्तं **सत्रा** सत्यम् **अनु** दायि । कैः किमनु दायीति तदुभयमाह । येन विश्वं बिभर्ति तत् **क्षत्रं** बलम् **अनु** दायि । येन शत्रूनभिभवति तद्गुणविशिष्टं **सहः** बलम् **अनु** दायि । हे **यजत्र** यजनीय **इन्द्र** **ते** तुभ्यं **नृषह्ये** युद्धे **देवेभिः** सर्वैर्देवैरेतत्सर्वम् **अनु** दायि ॥
@@ -703,23 +713,29 @@ Dir räumten alles ein die Götter alle, der grossen Indramacht beim Vritrakampf
 
 भावार्थभाषाः -  हे राजा ! तू उत्तम कर्म कर व अनुकूल असलेल्यांचा धन वगैरेनी सत्कार कर. सदैव सत्याचे उपदेशक असलेल्या विद्वानांच्या संगतीने संपूर्ण राजविद्या जाणून निरंतर प्रचार कर. ॥ ८ ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3'इन्द्राण्यै चरुं निर्वपेद्यस्य सेनाऽसंशितेव स्यात्' इत्यस्य पुरोनुवाक्या - इन्द्राणीमित्यनुष्टुप् ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/02_indrANImAsu_nAriShu.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 इ॒न्द्रा॒णीमा॒सु नारि॑षु  
 सु॒पत्नी॑म् अ॒हम् अ॑श्रवम् ।   
 न ह्य् अ॒स्या अप॒रञ् च॒न +++(→किम् अन्यत्!)+++  
 ज॒रसा॑ [47]मर॑ते॒ पतिः॑  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/02_indrANImAsu_nAriShu.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Indrani beyond other women  
@@ -739,13 +755,15 @@ Shall her husband die of old age.
 इन्द्रणीमिन्द्रस्य पत्नीम् । 'इन्द्रवरुण' इति ङीष् । आसु नारिषु मध्ये । छान्दसं ह्रस्वत्वम् । सुपत्नीं शोभनपतिकाम् । 'विभाषा सपूर्वस्य' इति ङीष्, 'आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । अहमश्रवं श्रुतवानस्मि । शृणोतेर्लङि व्यत्ययेन शप् । लुग्वा शपः । **अपरञ्चन** किञ्चन किञ्चान्यदित्यर्थः अयमस्मा अन्यो विशेषः । चनेति समुच्चये । **न ह्यस्याः पतिः जरसा** वयोहान्या **मरते** म्रियते । व्यत्ययेन शप्, 'हि च' इति निघातप्रतिषेधः । सैव महाभागा इन्द्राणी अस्मत्सेनामुत्साहवतीं करोत्वित्यर्थः ॥
 </details>
 </details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4तत्रैव याज्या - नाहम् इत्य् अनुष्टुप् ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/12_nAhamindrANi_rAraNa.md">
-<details open><summary><h5>१२ नाहमिन्द्राणि रारण ...{Loading}...</h5></summary>
 
 ना᳓ह᳓म् इन्द्राणि रारण  
 स᳓ख्युर् वृषा᳓कपेर् ऋते᳓ ।  
@@ -753,10 +771,10 @@ Shall her husband die of old age.
 प्रियं᳓ देवे᳓षु ग᳓च्छति  
 वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः ॥ १०.०८६.१२  
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/12_nAhamindrANi_rAraNa.md">
-<details open><summary><h5>012 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -781,11 +799,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ahám ← ahám (pronoun)  
@@ -963,6 +981,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्राणि- इन्द्रपत्नि। सख्युः- मित्रम्। वृषाकपेः- वृषाकपिम्। ऋते- विना। अहम्। न ररण- न  रमे। यस्य। इदम्- एतत्। अप्यम्- अम्मयं जीवोदकमयम्। हविः- हव्यम्। प्रियम्। देवेषु-  देवतासु। गच्छति॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्राणि** **अहम्** इन्द्रः **सख्युः** मम सखिभूतात् **वृषाकपेर्ऋते** प्रियं वृषाकपिं विना **न** **ररण** न रमे । **अप्यम्** अप्सु भवमद्भिर्वा संस्कृतं **प्रियं** प्रीतिकरम् **इदम्** उपस्थितं **हविः** **देवेषु** देवानां मध्ये **यस्य** ममेन्द्रस्य सकाशं **गच्छति** । यश्चाहम् **इन्द्रः** **सर्वस्मात्** **उत्तरः** । यद्वा । अयमर्थः । हे इन्द्राणि वृषाकपेः सख्युरिन्द्रादृतेऽहं वृषाकपिर्न रारण न रमे। अन्यत्समानम् ॥
@@ -1042,8 +1065,9 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 
 पदार्थान्वयभाषाः -  (इन्द्राणि) हे इन्द्राणि ! व्योमकक्षे ! (सख्युः-वृषाकपेः-ऋते-अहं न रराण) सखिभूताद् वृषाकपेः सूर्यादृते नाहं रमामि न शान्तिं लभे (यस्य-इदम्-अप्यं प्रियं हविः-देवेषु गच्छति) यस्य वृषाकपेः सूर्यस्य खल्विदमन्तरिक्षगामिप्रियरश्मितेजः “आपोऽन्तरिक्षनाम” [निघ० १।३] द्युस्थानगतेषु लोकेषु गच्छति “देवो द्युस्थानो भवतीति वा” [निरु० ७।१५] ॥१२॥
 </details>
-</details>
+
 </div>
+
 <details><summary>मूलम्</summary>
 
 नाहमि॑न्द्राणि रारण॒ सख्यु॑र्वृ॒षाक॑पेर् ऋ॒ते ।   
@@ -1054,18 +1078,18 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 
 5'इन्द्राय मन्युमते मनस्वते पुरोडाशमेकादशकपालं निर्वपेत् सङ्ग्रामे संयत्ते' इत्यस्य पुरोनुवाक्या - यो जात इति ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/012/01_yo_jAta.md">
-<details open><summary><h5>०१ यो जात ...{Loading}...</h5></summary>
 
 यो᳓ जात᳓ एव᳓ प्रथमो᳓ म᳓नस्वान्  
 देवो᳓ देवा᳓न् क्र᳓तुना **पर्य᳓भूषत्** ।  
 य᳓स्य शु᳓ष्माद्+++(=बलाद्)+++ **रो᳓दसी अ᳓भ्यसेतां**+++(←भ्यस भये)+++  
 नृम्ण᳓स्य+++(=पौरुषस्य)+++ मह्ना᳓ स᳓ +++(हे)+++ जनास! इ᳓न्द्रः ॥ ०१॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/012/01_yo_jAta.md">
-<details open><summary><h5>001 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1278,6 +1302,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। जातः- आविर्भूतः। एव। प्रथमः- मुख्यः। मनस्वान्- मनस्वी। देवः। देवान्- द्योतनशक्तीः।  क्रतुना- प्रज्ञया। पर्यभूषत्- अलङ्कृतवान्। यस्य। नृम्णस्य- वीरस्य। शुष्मात्- बलात्। मह्ना-  महिम्ना। रोदसी- द्यावापृथिव्यौ। अभ्यसेताम्- भीते स्तः। भ्यस भये। सः। जनासः- हे जनाः।  इन्द्रः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 गृत्समदोब्रूते—जनासोजनाः हेअसुराः यः जातएवजायमानएव सन् प्रथमः देवानाम्प्रधानभूतः मनस्वान् मनस्विनामग्रगण्यः देवोद्योतमानःसन् क्रतुनावृत्रवधादिलक्षणेनस्वकीयेनकर्मणादेवान्- सर्वान् यागदेवान् पर्यभूषत् रक्षकत्वेनपर्यग्रहीत् भूषअलङ्कारे भौवादिः लङिरूपं यद्वा सर्वान न्यान्- देवान् पर्यभूषत् पर्यभवत् अत्यक्रामत् अस्मिन्पक्षेभवतेर्व्यत्ययेनक्सः श्र्युकः कितीतीट्प्रतिषेधःयस्ये- न्द्रस्याशुष्मात् शारीरात् बलात् रोदसीद्यावापृथिव्यौअभ्यसेतां अबिभीतां भ्यसभये अनुदात्तेत् भ्य- सभयवेपनयोरितिनैरुक्ताः । अभ्यसेतांअवेपेतांवा तथाचमन्त्रान्तरम्—इमेचितवमन्यवेवेपेतेभिय- सामहीइति । नृम्णस्यसेनालक्षणस्यबलस्यमह्नामहत्त्वेनयुक्तः । सइन्द्रोनाहमिति अत्रनिरुक्तम्— योजातएवप्रथमोमनस्वीदेवोदेवान् क्रतुनाकर्मणापर्यभवत्पर्यगृह्णात्पर्यारक्षदत्यतिक्रामदितिवायस्य- बलाद्द्यावापृथिव्यावप्यबिभीतान्नृम्णस्यमह्नाबलस्यमहत्त्वेनसजनासइन्द्रइत्यृषेर्दृष्टार्थस्यप्रीतिर्भ- वत्याख्यानसंयुक्तेति ॥ १ ॥
@@ -1396,24 +1425,25 @@ Der kaum geboren, kühngesinnt die Götter der Gott zuerst mit Muth und Kraft be
 
 भावार्थभाषाः -  ज्या ईश्वराने सर्व प्रकाशक, सर्वांचा धारणकर्ता, स्वप्रकाशयुक्त आकर्षण शक्तीने गोलांचा (लोकांचा) व्यवस्थापक असा सूर्यलोक निर्माण केलेला आहे, तो ईश्वर सूर्याचाही सूर्य आहे, हे जाणले पाहिजे. ॥ १ ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6तत्रैव याज्या - आ ते मह इति पुरस्ताज्ज्योतिस्त्रिष्टुप् । 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/025/01_A_te.md">
-<details open><summary><h5>०१ आ ते ...{Loading}...</h5></summary>
 
 आ᳓ ते मह᳓ इन्द्रो ऽत्य्-उ᳙ग्र  
 स᳓मन्यवो य᳓त् **सम᳓रन्त+++(=संगच्छन्ते)+++ से᳓नाः** ।  
 **प᳓ताति दिद्यु᳓न्**+++(=विद्युत्)+++ न᳓र्यस्य बाह्वो᳓र्  
 **मा᳓** ते **म᳓नो** विष्वद्र्य᳓१᳓ग्+++(=विष्वग्गन्तृ [→अस्मत्पक्षेऽपि])+++ **वि᳓ चारीत्** ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/025/01_A_te.md">
-<details open><summary><h5>001 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1640,6 +1670,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+उग्र- उद्गूर्ण। इन्द्र। महः- महतः। ते- तव। समन्यवः- समननाः सक्रोधा वा। सेनाः। आ-  समन्तात्। समरन्त- सङ्गताः। नर्यस्य- नरहितस्य। ते। बाह्वोः- भुजयोः। दिद्युत्- त्वत्प्रहरणम्।  पताति- पतति। ते- तव। मनः- चित्तम्। विष्वद्र्यक्- सर्वत्र गन्तृ सत्। मा। वि चारीत्- विविधं  चरतु। एकाग्रेण भवत्विति भावः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **उग्र** उद्गूर्ण ओजस्विन् **इन्द्र** **यत्** यदा **समन्यवः** । समो मन्युरभिमानो वासां ताः समन्यवः । **सेनाः** **समरन्त** युध्यन्ते संगच्छन्ते वा तदा **नर्यस्य** नरहितस्य **महः** महतः । **ते** तव **बाह्वोः** स्थिता **दिद्युत्** आयुधम् । **दिद्युत्** हेतिः' इति वज्रनामसु पाठात् । **ऊती** ऊत्यै अस्मद्रक्षायै **आ** **पताति** आपततु । तव **विष्वद्र्यक्** विष्वग्गन्तृ **मनः** च **मा** **वि** चारीत् अस्मास्वेव स्थिरं भवतु ॥
@@ -1760,8 +1795,9 @@ Zur Hülfe flieg' aus deinen Armen, Indra, dein Blitz herbei, des grossen, kühn
 
 भावार्थभाषाः -  हे सेनापती ! युद्धात क्रोधाग्नीने प्रज्वलित सेना जेव्हा शत्रूवर तुटून पडते त्यावेळी विजय प्राप्त होतो. जोपर्यंत तुमचे बाहुबल न्यून होत नाही व मनही अन्यायात प्रवृत्त होत नाही तोपर्यंत तुमची उन्नती होते हे जाणा. ॥ १ ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>मूलम्</summary>
 
 आ ते॑ म॒ह इ॑न्द्रो॒त्यु॑ग्र॒ सम॑न्यवो॒..     
@@ -1774,18 +1810,18 @@ Zur Hülfe flieg' aus deinen Armen, Indra, dein Blitz herbei, des grossen, kühn
 
 7इन्द्राय दात्रे पुरोडाशमेकादशकपालं निवेपेद्यः कामयेत दानकामा मे प्रजास्युः' इत्यस्य पुरोनुवाक्या - मा न इति त्रिष्टुप् ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/020/10_mA_no.md">
-<details open><summary><h5>१० मा नो ...{Loading}...</h5></summary>
 
 **मा᳓** नो **मर्धीर्**, आ᳓ **भरा दद्धि᳓+++(← दा)+++**  
 त᳓न् नः प्र᳓ दाशु᳓षे +++(यजमानाय यज्ञादौ)+++ दा᳓तवे भू᳓रि य᳓त् ते ।  
 न᳓व्ये देष्णे᳓+++(=दाने)+++ शस्ते᳓ अस्मि᳓न् त उक्थे᳓  
 **प्र᳓ ब्रवाम** वय᳓म् इन्द्र स्तुव᳓न्तः ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/020/10_mA_no.md">
-<details open><summary><h5>010 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2064,6 +2100,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दाशुषे- दात्रे। दातवे- दातुम्। भूरि- प्रभूतम्। ते- त्वद्धनम्। मा। मर्धीः- नाशय। नः-  अस्मदर्थम्। आ भर- आहर। नः- अस्मभ्यम्। तत्। दद्धि- प्रयच्छ। अस्मिन्- एतस्मिन्। ते-  तव। उक्थे- मन्त्रमये। नव्ये- अभिनवे। शस्ते- प्रशस्ते। देष्णे- दातव्ये हव्ये निमित्तभूते सति।  वयम्। इन्द्र- परमेश्वर। स्तुवन्तः। प्र- प्रकर्षेण। ब्रवाम- मन्त्रान् वदाम॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र त्वं **नः** अस्मान् **मा** 'मर्धीः मा हिंसीः । किंतु त्वम् **आ** **भर** पोषको भव। हे इन्द्र **ते** त्वदीयं **भूरि** बह्वपि **यत्** धनं **दाशुषे** हविर्दत्तवते यजमानाय **दातवे** दातुम् । **प्र** भवतीति शेषः । **नः** अस्मभ्यं **तत्** धनम् आहृत्य **दद्धि** देहि । हे **इन्द्र** त्वां स्तुवन्तः **वयम्** **अस्मिन्** **उक्थे** अस्मिन्निष्केवल्याख्यशस्त्रे **ते** त्वदर्थं **नव्ये** नूतने **शस्ते** प्रशस्ते **देष्णे** दातव्ये हविषि निमित्तभूते सति **प्र** **ब्रवाम** प्रकर्षेण त्वां वदाम ॥
@@ -2178,24 +2219,25 @@ Versäume nicht uns, bringe her das viele, was dein ja ist, dem Frommen es zu sc
 
 भावार्थभाषाः -  हे राजा ! तुझ्यासाठी जे योग्य कर्म सांगितलेले आहे त्याचे आचरण कर व प्रजा, मंत्री व राज्याच्या उन्नतीसाठी पुष्कळ धन, विद्या व न्याय प्रसृत कर. ॥ १० ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8तत्रैव याज्या - आ तू भरेति तृतीयपादान्तम्
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/036/09_A_tU.md">
-<details open><summary><h5>०९ आ तू ...{Loading}...</h5></summary>
 
 **आ᳓** तू᳓ **भर**, मा᳓किर् एत᳓त् **प᳓रि ष्ठाद्**  
 **विद्मा᳓** हि᳓ त्वा व᳓सुपतिं व᳓सूनाम् ।  
 इ᳓न्द्र य᳓त् ते मा᳓हिनं द᳓त्रम्+++(=दातव्यं)+++ अ᳓स्त्य् -  
 अस्म᳓भ्यं त᳓द् +धर्यश्व **प्र᳓ यन्धि** ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/036/09_A_tU.md">
-<details open><summary><h5>009 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2458,6 +2500,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+आ भर- आवह। एतत्- एतां सम्पदम्। माकिः- को वा। परि ष्ठात्- प्रतिबाध्य तिष्ठेत्। त्वा-  भवन्तम्। वसूनां वसुपतिम्- सम्पत्पालकम्। विुद्म- जानीमः। इन्द्र- परमेश्वर। ते- तव।  माहिनम्- महिमोपेतम्। दत्रम्- दानम्। यदस्ति। तत्। अस्मभ्यम्- नः। हर्यश्व- प्राणाश्वसम्पन्न।  प्र यन्धि- प्रयच्छ॥९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र तु क्षिप्रं धनमा भर । एतत्त्वय दीयमानं धनं माकिः को वा परि ष्ठात् । प्रतिबध्य तिष्ठेत् । त्वा त्वां वसूनां धनानां वसुपतिमुत्तमस्य धनस्य स्वामिनम् विद्म हि । जानीमः खलु । ते तव माहिनं महनीयं यद्दत्रं धनमस्ति हे यर्यश्व दद्धनमस्मभ्यं प्र यन्धि । प्रयच्छ । तु । ऋचि तुनुघेत्यादिना संहितायां दीर्घः । भर । भरतेर्लोटि रूपम् । माकिः । विपातः । स्थात् । तिष्ठतेश्छान्दसे लुङिरूपम् । उपसर्गात्सुनोतीत्यादिना संहितायां षत्वम् । निघातः । विद्म वेत्तेर्लटि विदो लटो वेति मसो मादेशः । प्रत्ययस्वरः । सम्हितायां द्व्यचोऽतस्तिङ इति दीर्घः । वसुपतिम् । पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरः । माहिनम् । महेरिनण् चेतीनण्प्रत्ययः । णित्त्वादुपधावृद्धिः । ग्रामादित्वादाद्युदात्तः । यन्धि । यमु उपरमे । लोटि बहुलं छन्दसीति शपो लुक् । सेर्हिः । तस्य वा छन्दसीति पित्त्वस्य विकल्पितत्वादत्राङित्त्वादङितश्चेति हेर्ध्यादेशः निघातः ॥ ९ ॥
@@ -2491,7 +2538,7 @@ Most tr. take Indra as the implied obj. of mā́kiḥ … pári ṣṭhāt, thus
 On the form of dátra- see comm. ad IV.17.6.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/09-10.md">
-<details open><summary><h7>09-10 ...{Loading}...</h7></summary>
+<details open><summary><h7>09-10 …{Loading}…</h7></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
 Note that the vocabulary of the beginning of the hymn is being turned around reciprocally at the end: bhara (9a) and prá yandhi (9d, 10a) are imperatives addressed to Indra, urging him to bring/offer things to us, whereas in 1a prábhṛtim (at least in my interpr.) and 2c prayamyámānān the same lexical expressions refer to things we offer to Indra. Other ring compositional echoes are the dhāḥ + datival infinitive (1a sātáye dhāḥ and 10c jīváse dhāḥ) and the stem śáśvat- (1b, 10d).
@@ -2581,23 +2628,29 @@ So bring doch her, lass niemand es verhindern, da wir dich kennen als den Herrn 
 
 भावार्थभाषाः -  विद्वान लोकांनी संपूर्ण लोकांना असा उपदेश करावा की तुम्ही दोषांचा त्याग करून गुणांना धारण करा. धन व ऐश्वर्य प्राप्त करून इतर सुपात्र लोकांना द्या. ॥ ९ ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9'इन्द्राय प्रदात्रे पुरोदाशमेकादशकपालं निर्वपेद् यस्मै प्रत्तम् इव सन्नप्रदीयेत' इत्यस्य पुरोनुवाक्या - प्रदातारमिति बृहती ॥
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/03_pradAtAraM_havAmaha.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 प्र॒दा॒तारँ॑ **हवामह॒**  
 इन्द्र॒म् आ ह॒विषा॑ व॒यम् ।    
 उ॒भा हि हस्ता॒  वसु॑ना पृ॒णस्वा  
 **ऽऽप्र य॑च्छ॒** दक्षि॑णा॒द् ओत स॒व्यात्  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/03_pradAtAraM_havAmaha.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 With our oblation we summon  
@@ -2619,22 +2672,29 @@ Give to us from the left and the right.
 द्वाभ्यमष्टाक्षराभ्यां दशाक्षराभ्यां च बृहती । प्रदातारमिन्द्रमिति त्वामनेन हविषा वयं हवामहे आह्वयामहे । 'बहुलं छन्दसि' इति सम्प्रसारणम् । स त्वमुभौ हस्तौ वसुना धनेन पृणस्व पूरय । पृण प्रीणने, तौदादिकः, व्यत्ययेनात्मनेपदम्, 'हि च' इति निघातप्रतिषेधः । पूरयित्वा चास्मभ्यं प्रयच्छ देहीति यावत् । आ दक्षिणादा च सव्यात्प्रसारिताद्धस्तात् ताभ्यां प्रसारिताभ्यां यावद्गृह्यते तावद्देहीति यावत् ॥
 </details>
 </details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10तत्रैव याज्या - प्रदातेति त्रिष्टुप् ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/04_pradAtA_vajrI.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 प्र॒दा॒ता व॒ज्री वृ॑ष॒भस् +++(आ)+++तु॑रा॒-षाट्+++(←सह्)+++  
 छु॒ष्मी राजा॑ वृत्र॒-हा सो॑म॒पावा॑ ।   
 अ॒स्मिन् य॒ज्ञे ब॒र्हिष्य् आ **नि॒षद्य॑** +  
 +अथा॑ **भव॒** यज॑मानाय॒ शय्ँ योः+++(←यु मिश्रणामिश्रणयोः)+++  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/04_pradAtA_vajrI.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 The giver, the bolt-bearer, the bull, the overpowering,  
@@ -2654,27 +2714,29 @@ Be thou health and wealth to the sacrificer.
 **प्रदाता** प्रकर्षेण दाता **वज्री** वज्रवान् **वृषभः** वर्षिताभिमतानां धनानां, **तुराषाट्** तूर्णम् अभिभविता शत्रूणां । तुर त्वरासम्भ्रमयोः, भिदादिलक्षणोङ्, 'छन्दसि सहः' इति ण्विः, सहेस्साढस्सः' इति षत्वम् । **शुष्मी** बलवान् **राजा** दीप्यमानः **वृत्रहा** वृत्रं हतवान् **सोमपावा** सोमस्य पाता । 'अतो मनिन्' इति वनिप् । ईदृशस्त्वमस्मिन् **यज्ञे बर्हिषि** सीदसि । आगत्य **निषद्य** आसित्वा, अथ अनन्तरं यजमानाय **शं** च **योश्** च **भव** रोगाणां शमयिता भयानां च यावयीता । शाम्यतेर् यौतेश् च विच् । 'निपातस्य च' इति संहितायामथशब्दस्य दीर्घत्वम् ॥
 </details>
 </details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11'इन्द्राय सुत्राम्णे पुरोडाशमेकादशकपालं निर्वपेदपरुद्धो वापरुद्ध्यमानो वा' इत्यस्य पुरोनुवाक्या - इन्द्रस्सुत्रामेति त्रिष्टुप् ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/091_sutrAmA_indraH/01_indraH_sutrAmA.md">
-<details open><summary><h5>०१ इन्द्रः सुत्रामा ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/047/12_indraH_sutrAmA.md">
-<details open><summary><h10>१२ इन्द्रः सुत्रामा ...{Loading}...</h10></summary>
 
 इ᳓न्द्रः सुत्रा᳓मा स्व᳓वाँ+++(=स्ववान्)+++ अ᳓वोभिः  
 सुमृळीको᳓ **भवतु** विश्व᳓वेदाः।  
 **बा᳓धतां** द्वे᳓षो, अ᳓भयं नः **कृणोतु**  
 सुवी᳓र्यस्य प᳓तयः **स्याम** ॥
 
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/047/12_indraH_sutrAmA.md">
-<details open><summary><h5>012 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2876,6 +2938,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रः- परमेश्वरः। सुत्रामा- सुरक्षकः। अवोभिः- रक्षाभिः। स्ववान्- आत्मवान्। विश्ववेदाः-  सर्वज्ञः। सुमृळीकः- आनन्दकरः। भवतु। द्वेषः- द्वेषभावनानि। बाधताम्- नाशयतु। अभयम्।  कृणोतु- करोतु। सुवीर्यस्य। पतयः- पालकाः। स्याम- भवेम॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुत्रामा** सुष्ठु त्राता **स्ववान्** धनवान् सः **इन्द्रः** **अवोभिः** रक्षणैः **सुमृळीकः** सुष्ठु सुखयिता **भवतु** । तथा च **विश्ववेदाः** सर्वधनः सर्वविद्वान् वा स इन्द्रः **द्वेषः** द्वेष्टॄन शत्रून् **बाधतां** हिनस्तु । **अभयं** भयरहितं चास्माकं **कृणोतु** करोतु । वयं च तत्प्रसादात् **सुवीर्यस्य** शोभनवीर्यस्य **पतयः** **स्याम** भवेम ॥
@@ -2906,7 +2973,7 @@ Let him thrust away hatred; let him create fearlessness. Might we be  lords of g
 In addition to the repetition just described, 12b sumṛḷīkó bhavatu is a variant of 10a mṛḷá, and ábhayaṃ kṛṇotu reminds us of 8ab ánu neṣi … ábhayam.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
-<details open><summary><h7>11-13 ...{Loading}...</h7></summary>
+<details open><summary><h7>11-13 …{Loading}…</h7></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
 The first pāda of 12 recasts that of 11: with sutrā́mā matching trātā́ram and s u vávām̐ávobhiḥ matching avitā́ram; 13a then repeats sutrā́mā su vávān. The connections between 12-13 and neighboring vss. in this hymn make it less likely (at least to me) that they are direct evidence of the Sautrāmaṇī ritual here, instead of being pressed into service of that ritual later. See published introduction.
@@ -3052,24 +3119,25 @@ Schönschirmend sei, der alles kennet, Indra, und gnadenreich, mit Hülfen kräf
 
 टिप्पणी:   १−(इन्द्रः) परमैश्वर्यवान् राजा (सुत्रामा) त्रैङ् पालने-मनिन्। अतिरक्षकः (स्ववान्) स्वा ज्ञातयः। प्रशस्तज्ञातियुक्तः (अवोभिः) रक्षणैः (सुमृडीकः) बहुसुखयिता (विश्ववेदाः) वेदांसि धनानि ज्ञानानि वा। बहुधनः। बहुज्ञानः। (बाधताम्) निवारयतु (द्वेषः) द्विष अप्रीतौ-विच्। द्वेष्टॄन् (अभयम्) निर्भयत्वम् (नः) अस्मभ्यम् (कृणोतु) करोतु (सुवीर्यस्य) अतिपराक्रमस्य (पतयः) पालकाः (स्याम) भवेम ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12तत्रैव याज्या - तस्य वयमिति त्रिष्टुप् ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/047/13_tasya_vayaM.md">
-<details open><summary><h5>१३ तस्य वयं ...{Loading}...</h5></summary>
 
 त᳓स्य वयं᳓ सुमतौ᳓ यज्ञि᳓यस्य᳓+  
 अ᳓पि भद्रे᳓ सौमनसे᳓ **स्याम** ।  
 स᳓ सुत्रा᳓मा स्व᳓वाँ+++(न्)+++ इ᳓न्द्रो अस्मे᳓  
 आरा᳓च् चिद् द्वे᳓षः सनुत᳓र्+++(=अन्तर्हितं)+++ **युयोतु**+++(←यु पृथक्करणे)+++ ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/047/13_tasya_vayaM.md">
-<details open><summary><h5>013 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -3281,6 +3349,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तस्य। यज्ञिस्य- परमपूज्यस्य। सुमतौ। स्याम- भवेम। वयम्। भद्रे- कल्याणे। सौमनसे।  स्याम- भवेम। सः- असौ। सुत्रामा- शोभनरक्षकः। स्ववान्- आत्मवान्। इन्द्रः- परमेश्वरः।  अस्मे- अस्मभ्यम्। सनुतः- अन्तर्हितान्। द्वेषः- द्वेष्टॄन्। आरात्- दूरे। युयोतु- वियोजयतु॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यज्ञियस्य** यज्ञार्हस्य **सुमतौ** शोभनायामनुग्रहात्मिकायां बुद्धौ **वयं** **स्याम** । तद्विषयभूताः भवेम । तथा **भद्रे** कल्याणे **सौमनसे** सुमनसो भावे **अपि** तदीये स्याम भवेम । स इन्द्रोऽस्मास्वनुग्रहात्मिकां बुद्धिं सौमनस्यं च करोत्वित्यर्थः । **सुत्रामा** सुष्ठु त्राता **स्ववान्** धनवान् **सः** **इन्द्रः** च **अस्मे** अस्मत्त: **आराच्चित्** दूरदेश एव **द्वेषः** द्वेष्टॄन् **सनुतः** । अन्तर्हितनामैतत् । अन्तर्हितान् **युयोतु** पृथक्करोतु ॥
@@ -3305,11 +3378,12 @@ _________
 
 Might we be in the favor of him who deserves the sacrifice, in his  propitious benevolence.  
 Let Indra of good protection, of good help to us keep hatred away even  from a distance.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
-<details open><summary><h7>11-13 ...{Loading}...</h7></summary>
+<details open><summary><h7>11-13 …{Loading}…</h7></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
 The first pāda of 12 recasts that of 11: with sutrā́mā matching trātā́ram and s u vávām̐ávobhiḥ matching avitā́ram; 13a then repeats sutrā́mā su vávān. The connections between 12-13 and neighboring vss. in this hymn make it less likely (at least to me) that they are direct evidence of the Sautrāmaṇī ritual here, instead of being pressed into service of that ritual later. See published introduction.
@@ -3412,22 +3486,24 @@ Wir mögen stehn in deiner Huld, des Heil'gen, in segensvollem Glücke fest gegr
 
 पदार्थान्वयभाषाः -  (तस्य यज्ञियस्य सुमतौ) तस्य सङ्गमनीयस्य परमात्मनो राज्ञो वा कल्याण्यां मतौ (सौमनसे भद्रे स्याम) सुमनोभावे कल्याणरूपे भवेम (सः-सुत्रामा स्ववान्) स सुरक्षकः सामर्थ्यवान् (इन्द्रः) परमात्मा राजा वा (आरात्-चित्-द्वेषः सनुतः-युयोतु) दूरादपि द्वेष्टॄन् शत्रून् सर्वदा “सनुतः सर्वदा” [अव्ययार्थनिबन्धनं दयानन्दः] पृथक् करोतु ॥७॥
 </details>
-</details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13यो ऽलं श्रियै सन् सदृङ् समानैस् स्यात् तस्मा एतम् ऐन्द्रम् एकादश्शकपालं निर्वपेत्' इत्यस्य पुरोनुवाक्या - रेवतीर्न इति गायत्री ॥ 'रेवती पुरोनुवाक्या' इति ब्राह्मणम् । 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/20/122/01_revatIrnaH_sadhamAda.md">
-<details open><summary><h5>०१ रेवतीर्नः सधमाद ...{Loading}...</h5></summary>
 
 रे॒+++(=रयि)+++-वती॑र् नः सध॒+++(ह)+++-माद॒  
 इन्द्रे॑ **सन्तु** तु॒वि+++(=बहु)+++-वा॑जाः।  
 क्षु॒मन्तो॒+++(←क्षुताव् आशिषः!)+++ याभि॒र् **मदे॑म** ॥
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/20/122/01_revatIrnaH_sadhamAda.md">
-<details open><summary><h5>०१ रेवतीर्नः सधमाद ...{Loading}...</h5></summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **रेवत्यः** धनवत्यः सर्वधनसाधनभूताः । पूर्ववत्पूर्वसवार्णदीर्घत्वम् । **नो** ऽस्माकं **सधमादः** अस्माभिस्सह माद्यन्तः । मद तृप्तियोगे, चुरादिः ततो ण्यन्तात्क्विप्, 'सधमादस्थयोः' इति सहस्य सधादेशः । आपश्चोच्यन्ते ।  
@@ -3478,14 +3554,15 @@ With Indra splendid feasts be ours enriched with ample spoil, wherewith, Wealthy
 
 टिप्पणी:   यह तृच ऋग्वेद में है-१।३०।१३-१ सामवेद उ० ४।१। तृच १४ म० १ सा० पू० २।६।८ ॥  १−(रेवतीः) धनवत्यः प्रजाः (नः) अस्माकम् (सधमादे) आनन्देन सह वर्तमाने महोत्सवे (इन्द्रे) परमैश्वर्यवति सभाध्यक्षे (सन्तु) (तुविवाजाः) बहुबलयुक्ताः (क्षुमन्तः) बहुविधान्नयुक्ताः (याभिः) प्रजाभिः (मदेम) हृष्येम ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14तत्रैव याज्या - प्रोष्वस्मा इति शक्वरी सप्तपदा ॥ 'शक्वरी याज्या' इति ब्राह्मणम् । 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/20/095/02_pro_Shvasmai.md">
-<details open><summary><h5>०२ प्रो ष्वस्मै ...{Loading}...</h5></summary>
 
 प्रो ष्व् अ॑स्मै पुरो-र॒थम्  
 इन्द्रा॑य शू॒षम्+++(=शुष्म)+++ **अ॑र्चत** ।
@@ -3496,10 +3573,10 @@ With Indra splendid feasts be ours enriched with ample spoil, wherewith, Wealthy
 **नभ॑न्ताम्**+++(=नश्यन्तु)+++ अन्य॒केषा᳚म् ।  
 ज्या॒का अधि॒ धन्व॑सु  ॥  [51]
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/20/095/02_pro_Shvasmai.md">
-<details open><summary><h5>०२ प्रो ष्वस्मै ...{Loading}...</h5></summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **अस्मै** इन्द्राय । षष्ठ्यर्थे चतुर्थी ।  
@@ -3564,8 +3641,9 @@ Sing strength to Indra that shall set his chariot in the foremost place. Giver o
 
 टिप्पणी:   मन्त्र २-४ ऋग्वेद में हैं-१०।१३३।१-३। और सामवेद-उ० ९।१। तृच १४ ॥  २−(प्रो) प्र उ इति निपातसमुदायः। ओत्। पा० १।१।१। इति प्रगृह्यम्। प्रकर्षेणैव। अवश्यमेव (सु) सुष्ठु (अस्मै) (पुरोरथम्) अग्रे रथयुक्तम् (इन्द्राय) महाप्रतापिने राज्ञे (शूषम्) अ० २०।७१।१६। शत्रुशोषकं बलम् (अर्चत) सत्कुरुत (अभीके) अलीकादयश्च। उ० ४।२। अभि+इण् गतौ-कीकन्। धातोर्लोपः। आसन्ने-निरु० ३।२०। (चित्) एव (उ) अवधारणे (लोककृत्) स्थानस्य कर्ता (संगे) संगमे (समत्सु) परस्परादनस्थानेषु संग्रामेषु (वृत्रहा) शत्रुनाशकः (अस्माकम्) (बोधि) अबोधि। ज्ञायते (चोदिता) प्रेरकः। उत्साहवर्धकः (नभन्ताम्) नभतेर्वधकर्मा-निघ० २।१९। हिंस्यन्ताम्। नश्यन्तु (अन्यकेषाम्) अव्ययसर्वनाम्नामकच् प्राक् टेः। पा० ।३।७१। अन्य-अकच्। कुत्सितानामन्येषां शत्रूणाम् (ज्याकाः) कुत्सिते। पा० ।३।७४। ज्या-क प्रत्ययः। कुत्सितो निर्बला ज्याः (अधि) उपरि (धन्वसु) धनुःषु ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इति भट्टभास्करमिश्रविरचिते ज्ञानयज्ञाख्ये यजुर्वेदभाष्ये प्रथमकाण्डे सप्तमप्रपाठके त्रयोदशोनुवाकः ॥

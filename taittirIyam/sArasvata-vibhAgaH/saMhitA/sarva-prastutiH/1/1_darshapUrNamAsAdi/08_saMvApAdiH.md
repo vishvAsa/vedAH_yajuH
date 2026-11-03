@@ -460,28 +460,40 @@ ____
 श्रपयति
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-दे॒वस् त्वा॑ सवि॒ता **श्र॑पयतु॒**   
-वर्षि॑ष्ठे॒ अधि॒ नाके॑+++(=द्युवह्नौ रक्षोहन्त्रे)+++।   
-अ॒ग्निस् ते॑ त॒नुव॒म् मा ऽति॑ धाक् ।
-</details>
-
-<details><summary>Keith</summary>
-
-Let the god Savitr make thee ready on the highest firmament.  
-May Agni burn not too much thy body.
-</details>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 － दे॒वस्त्वा॑ सवि॒ता श्र॑पयतु॒ वर्षि॑ष्ठे॒ अधि॒ नाके॒ऽग्निस्ते॑ त॒नुव॒म्माऽति॑ धाक्
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दे॒वस् त्वा॑ सवि॒ता **श्र॑पयतु॒**   
+वर्षि॑ष्ठे॒ अधि॒ नाके॑+++(=द्युवह्नौ रक्षोहन्त्रे)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+Let the god Savitr make thee ready on the highest firmament.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वस्त्वा॑ सवि॒ता श्र॑पयतु॒    
-वर्षि॑ष्ठे॒ अधि॒ नाके॑।  
+वर्षि॑ष्ठे॒ अधि॒ नाके॑।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒ग्निस् ते॑ त॒नुव॒म् मा ऽति॑ धाक् ।
+</details>
+
+<details><summary>Keith</summary>
+
+May Agni burn not too much thy body.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अ॒ग्निस्ते॑ त॒नुव॒म्माऽति॑ धाक् ।
 </details>
 
@@ -591,7 +603,6 @@ ____
 <details><summary>Keith</summary>
 
 Hail to Ekata, hail to Dvita, hail to Trita.
-
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>

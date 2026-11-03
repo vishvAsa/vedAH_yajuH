@@ -50,7 +50,6 @@ Thou art the glittering of Soma; as thine may my glittering be.
 <details><summary>Keith</summary>
 
 Thou art ambrosia; from death protect me.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -168,8 +167,9 @@ Cast away is Namuci's head.
 6अभिषेकानवेक्षते - सोम इति षट्पदया त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 सो᳓मो रा᳓जा व᳓रुणो   
 देवा᳓ धर्म-सु᳓वश् च ये᳓ ।    
@@ -177,11 +177,14 @@ Cast away is Namuci's head.
 ते᳓ ते प्राणँ᳓ सुवन्तां  
 ते᳓ ते च᳓क्षुस् सुवन्तां   
 ते᳓ ते श्रो᳓त्रँ सुवन्ताम् ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Soma, king Varuna, and the gods which instigate righteousness, may they instigate thy speech, may they instigate thy breath, may they instigate thy sight, may they instigate thine ear.
@@ -203,6 +206,7 @@ Soma, king Varuna, and the gods which instigate righteousness, may they instigat
 सोमो राजा वरुणश्च देवाश्चान्ये ये धर्मसुवः धर्मस्यानुज्ञातार उत्पादयितारो वा । तेते वाचं सुवन्तां प्रेरयन्तु । तेते प्राणं सुवन्तामित्यादि स्पष्टम् ॥
 </details>
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -242,19 +246,32 @@ With the glory of Soma I besprinkle thee, with the brilliance of Agni [1], with 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षत्त्रा᳓णाङ् क्षत्त्र᳓-पतिर् असि  ।  
+क्षत्त्रा᳓णाङ् क्षत्त्र᳓-पतिर् असि  ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the lord of kingly powers.
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्ष॒त्त्राणा॑ङ्क्ष॒त्त्रप॑तिर॒स्यति॑
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ᳓ति दिव᳓स् पाहि   ।
 </details>
 
 <details><summary>Keith</summary>
 
-Thou art the lord of kingly powers.  
 Protect from the sky.
 </details>
 
 <details><summary>मूलम्</summary>
 
-क्ष॒त्त्राणा॑ङ्क्ष॒त्त्रप॑तिर॒स्यति॑ दि॒वस्पा॑हि
+दि॒वस्पा॑हि
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -272,19 +289,23 @@ Protect from the sky.
 8ऊर्ध्वं धारास्समुन्मार्ष्टि - समाववृत्रन्निति त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **समा᳓ववृत्रन्न्**+++(←वृत्)+++ अधरा᳓ग् उ᳓दीचीर्  
 अ᳓हिम् +++(मेरु-)+++बुध्नि᳓यम् अ᳓नु **सञ्च᳓रन्तीः** ।    
 ताᳶ᳓ +++(axis-मेरु-)+++प᳓र्वतस्य वृषभ᳓स्य+++(→मेघस्य)+++ पृष्ठे᳓  
 ना᳓वश्+++(→आपः)+++ **चरन्ति स्व-सि᳓च+++(←सिच्)+++ इयानाः᳓**  ॥   
 +++(अत्रापः कर्म-प्रवाह-रूपाः, यथैव [Socrates in Phaedo](/AgamaH/AryaH/mediterranian/platonism/plato/phaedo/))+++
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Out from below have they come,  
@@ -314,6 +335,7 @@ The ships that pour spontaneously go ever.
 यद्वा - **समाववृत्रन्** संहत्य समन्तात् वर्तन्ताम् । अधरागुपरिष्टाच्च सर्वास्वपि दिक्षु अहिं मेघं बुध्नियमन्तरिक्षं चानुसञ्चरन्त्यः मेघमनुप्राप्यान्तरिक्षे वर्तमानाः । **वर्षकाले** पर्वतस्य पर्ववतो **वृषभस्य** वर्षितुर्मेघस्य पृष्ठे नाव्या आप इव प्रभूतास् **सञ्चरन्ति** ओषधिनिष्पत्तये । **स्वसिचस्** स्वयमेव विश्वं सिञ्चन्त्यः **इयाना** दिगन्तं व्याप्नुवन्त्यः इति । नौभिः कार्याभिः कारणभूता आपो लक्ष्यन्ते ॥
 </details>
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -331,7 +353,6 @@ The ships that pour spontaneously go ever.
 <details><summary>Keith</summary>
 
 O Rudra, that highest active name of thee, to that thou art offered, thou art offered to+++(sic!)+++ Yama.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -358,18 +379,17 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 10युवराजस्य प्रतिहितस्य गृहे जुहोति - प्रजापत इति त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
-<details open><summary><h2>१० प्रजापते न ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
 
 प्र᳓जापते न᳓ त्व᳓द् +++(विश्वा जातानि→)+++ एता᳓न्य् अन्यो᳓  
 वि᳓श्वा जाता᳓नि **प᳓रि** ता᳓ **बभूव** ।  
 य᳓त्-कामास् ते जुहुम᳓स् त᳓न् नो **अस्तु**  
 वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म्॥
-</details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
-<details open><summary><h2>010 ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कः
@@ -618,6 +638,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एतावदस्मिन् सूक्ते शाखाचन्द्रन्यायेन हिरण्यगर्भविशिष्टं हिरण्यगर्भस्य स्वरूपं स्तुतम्।  इदानीमन्तिमे मन्त्रे हिरण्यगर्भस्य स्वरूपं साक्षात् स्तूयते। हिरण्यगर्भस्य मातरो मूलशक्तिधाराः  स्तुताः। तत्पिताऽत्र परमात्मा स्तूयते। प्रजापते- प्रजानां स्वामिन्। त्वत्- त्वत्तः। अन्यः-  इतरः। ता तानि। एतानि- इमानि। विश्वा- सर्वाणि। जातानि- उद्भूतानि। न। परि बभूव- परितो  व्याप्तो भवति। यत्कामाः- यदिच्छया। ते- त्वाम्। जुहुमः- आह्वयामः। तत्। नः- अस्माकम्।  अस्तु- भवतु। वयम्। रयीणाम्- दानयोग्यसम्पदाम्। पतयः- स्वामिनः। स्याम- भवेम॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **प्रजापते** **त्वत्** त्वत्तोऽन्यः कश्चित् **एतानि** इदानीं वर्तमानानि **विश्वा** विश्वानि सर्वाणि ॥  ‘ शेश्छन्दसि बहुलम् ' इति शेर्लोपः ॥ **जातानि** प्रथमविकारभाञ्जि **ता** तानि सर्वाणि भूतजातानि **न** **परि** **बभूव**  न परिगृह्णाति । न व्याप्नोति । त्वमेवैतानि परिगृह्य स्रष्टुं शक्नोषीति भावः । परिपूर्वो भवतिः परिग्रहार्थः । वयं च **यत्कामाः** यत्फलं कामयमानाः **ते** तुभ्यं जुहुमः हवींषि प्रयच्छामः **तत्** फलं **नः** अस्माकम् **अस्तु** भवतु । तथा **वयं** च **रयीणां** धनानां **पतयः** ईश्वराः **स्याम** भवेम ॥ नामन्यतरस्याम् ' इति नाम उदात्तत्वम् ॥ ॥ ४ ॥
@@ -720,5 +745,5 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 पदार्थान्वयभाषाः -  (प्रजापते) हे प्रजायमानानां पालयितः स्वामिन् ! (त्वत्-अन्यः) त्वत्तो भिन्नः (ता-एतानि विश्वा जातानि न परि बभूव) सर्वाणि खलूत्पन्नानि तानि पूर्वाणि तथेमानि सम्प्रत्युत्पन्नानि वस्तूनि न परि भवति-नाधिकरोति (यत्कामाः-ते जुहुमः) यः कामो येषां ते तुभ्यं स्वात्मभावं समर्पयेम (तत्-नः-अस्तु) तदभीष्टमस्मभ्यं भवतु (वयं रयीणां पतयः स्याम) वयं सर्वविधधनानां स्वामिनो भवेम ॥१०॥
 </details>
-</details>
+
 </div>

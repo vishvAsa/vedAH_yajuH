@@ -53,18 +53,22 @@ Do I thou mount the kindling (quarter); let the Gayatri of metres help thee; the
 2दक्षिणां उग्रामिति ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 उग्रा᳓म् +++(दिशम्)+++ **आ᳓ तिष्ठ**,  
 त्रिष्टु᳓प् त्वा छ᳓न्दसाम् **अवतु**  
 पञ्चदश᳓स् स्तो᳓मो, बृह᳓त् सा᳓म+  
 इ᳓न्द्रो देव᳓ता क्षत्त्र᳓न् द्र᳓विणम्
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Do thou mount the dread (quarter); let the Tristubh of metres help thee, the Pañcadaśa Stoma, the Brhat Saman, the deity Indra, the treasure the ruling class.
@@ -87,6 +91,7 @@ Do thou mount the dread (quarter); let the Tristubh of metres help thee, the Pa�
 गतमन्यत् ।
 </details>
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -100,7 +105,6 @@ Do thou mount the dread (quarter); let the Tristubh of metres help thee, the Pa�
 <details><summary>Keith</summary>
 
 Do thou mount the shining (quarter); let the Jagati of metres help thee, the Saptadaśa Stoma, the Vairapa Saman, the deity the Maruts, the treasure the peasant class.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -238,33 +242,96 @@ Of pure radiance, of varied radiance, of true radiance, the radiant, true, prote
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 20-25षट्पार्थिवानि वारुणानि पुरस्तादभिषेकस्य जुहोति - अग्नये स्वाहेत्यादीनि बृहस्पत्यन्तानि ॥
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्न᳓ये स्वा᳓हा ।    
-सो᳓माय स्वा᳓हा ।    
-सवित्रे᳓ स्वा᳓हा ।    
-स᳓रस्वत्यै स्वा᳓हा ।   
-पूष्णे᳓ स्वा᳓हा ।     
-बृ᳓हस्प᳓तये स्वा᳓हा ।     
+अग्न᳓ये स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
 
-To Agni hail! To Soma hail! To Savitr hail! To Sarasvati hail!  
-To Pusan hail! To Brhaspati hail! 
+To Agni hail!
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्नये॒ स्वाहा॑ ।    
-सोमा॑य॒ स्वाहा॑ ।    
-स॒वि॒त्रे स्वाहा॑ ।    
-सर॑स्वत्यै॒ स्वाहा॑ ।   
-पू॒ष्णे स्वाहा॑ ।     
-बृह॒स्पत॑ये॒ स्वाहा॑ ।     
+अ॒ग्नये॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सो᳓माय स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Soma hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+सोमा॑य॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सवित्रे᳓ स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Savitr hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒वि॒त्रे स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स᳓रस्वत्यै स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Sarasvati hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर॑स्वत्यै॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूष्णे᳓ स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Pusan hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+पू॒ष्णे स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बृ᳓हस्प᳓तये स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Brhaspati hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+बृह॒स्पत॑ये॒ स्वाहा॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -279,27 +346,91 @@ To Pusan hail! To Brhaspati hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ᳓न्द्राय स्वा᳓हा ।    
-घो᳓षाय स्वा᳓हा ।  
-श्लो᳓काय स्वा᳓हा ।  
-अंँ᳓शाय स्वा᳓हा ।   
-भ᳓गाय स्वा᳓हा ।  
+इ᳓न्द्राय स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Indra hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्रा॑य॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+घो᳓षाय स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To sound hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+घोषा॑य॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्लो᳓काय स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To verse hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्लोका॑य॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अंँ᳓शाय स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Anśa hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अंँशा॑य॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भ᳓गाय स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Bhaga hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगा॑य॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 क्षे᳓त्रस्य प᳓तये स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
 
-To Indra hail! To sound hail!  
-To verse hail! To Anśa hail! To Bhaga hail! To the lord of the field hail!
+To the lord of the field hail!
 </details>
 
 <details><summary>मूलम्</summary>
 
-इन्द्रा॑य॒ स्वाहा॑ ।    
-घोषा॑य॒ स्वाहा॑ ।  
-श्लोका॑य॒ स्वाहा॑ ।  
-अंँशा॑य॒ स्वाहा॑ ।   
-भगा॑य॒ स्वाहा॑ ।  
 क्षेत्र॑स्य॒ पत॑ये॒ स्वाहा॑ ।
 </details>
 
@@ -320,27 +451,92 @@ To verse hail! To Anśa hail! To Bhaga hail! To the lord of the field hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृथिव्यै᳓ स्वा᳓हा ।  
-अन्त᳓रिक्षाय स्वा᳓हा ।  
-दिवे᳓ स्वा᳓हा ।   
-सू᳓र्याय स्वा᳓हा ।    
-चन्द्र᳓मसे स्वा᳓हा ।   
-न᳓क्षत्रेभ्यस् स्वा᳓हा ।   
+पृथिव्यै᳓ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
 
-To earth hail! To atmosphere hail! To sky hail! To the sun hail! To the moon hail! To the Naksatras hail! 
+To earth hail!
 </details>
 
 <details><summary>मूलम्</summary>
 
-पृ॒थि॒व्यै स्वाहा॑ ।  
-अ॒न्तरि॑क्षाय॒ स्वाहा॑ ।  
-दि॒वे स्वाहा॑ ।   
-सूर्या॑य॒ स्वाहा॑ ।    
-च॒न्द्रम॑से॒ स्वाहा॑ ।   
-नक्ष॑त्रेभ्य॒स्स्वाहा॑ ।   
+पृ॒थि॒व्यै स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्त᳓रिक्षाय स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To atmosphere hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒न्तरि॑क्षाय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दिवे᳓ स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To sky hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+दि॒वे स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सू᳓र्याय स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the sun hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+सूर्या॑य॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चन्द्र᳓मसे स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the moon hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+च॒न्द्रम॑से॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न᳓क्षत्रेभ्यस् स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the Naksatras hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+नक्ष॑त्रेभ्य॒स्स्वाहा॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -355,27 +551,92 @@ To earth hail! To atmosphere hail! To sky hail! To the sun hail! To the moon hai
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अद्भ्य᳓स् स्वा᳓हा ।  
-ओ᳓षधीभ्यस् स्वा᳓हा ।   
-व᳓नस्-प᳓तिभ्यस् स्वा᳓हा ।   
-चराचरे᳓भ्यस् स्वा᳓हा ।   
-परिप्लवे᳓भ्यस् स्वा᳓हा ।  
-सरी-सृपे᳓भ्यस् स्वा᳓हा ॥ [26]  
+अद्भ्य᳓स् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
 
-To the waters hail! To plants hail! To trees hail! To moving creatures hail! To swimming creatures hail! To creeping creatures hail!
+To the waters hail!
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒द्भ्यस्स्वाहा॑ ।  
-ओष॑धीभ्य॒स्स्वाहा॑ ।   
-वन॒स्पति॑भ्य॒स्स्वाहा॑ ।   
-च॒रा॒च॒रेभ्य॒स्स्वाहा॑ ।   
-प॒रि॒प्ल॒वेभ्य॒स्स्वाहा॑ ।  
-स॒री॒सृ॒पेभ्य॒स्स्वाहा॑ ॥ [26]  
+अ॒द्भ्यस्स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओ᳓षधीभ्यस् स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To plants hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+ओष॑धीभ्य॒स्स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व᳓नस्-प᳓तिभ्यस् स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To trees hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+वन॒स्पति॑भ्य॒स्स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चराचरे᳓भ्यस् स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To moving creatures hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+च॒रा॒च॒रेभ्य॒स्स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परिप्लवे᳓भ्यस् स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To swimming creatures hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+प॒रि॒प्ल॒वेभ्य॒स्स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सरी-सृपे᳓भ्यस् स्वा᳓हा ॥ [26]
+</details>
+
+<details><summary>Keith</summary>
+
+To creeping creatures hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒री॒सृ॒पेभ्य॒स्स्वाहा॑ ॥ [26]
 </details>
 
 <details><summary>पद-पाठः</summary>

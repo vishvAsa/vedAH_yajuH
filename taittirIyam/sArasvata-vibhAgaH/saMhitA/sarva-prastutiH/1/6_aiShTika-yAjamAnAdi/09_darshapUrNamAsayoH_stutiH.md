@@ -71,7 +71,26 @@ Prajapati created the sacrifices, the Agnihotra, the Agnistoma, the full moon sa
 तावा॑न् अग्निष्टो॒मः ।  
 
 याव॑ती पौर्णमा॒सी  तावा॑न् उ॒क्थ्यः॑ ।  
-याव॑त्य् अमावा॒स्या॑ तावा॑न् अतिरा॒त्रः ।  
+याव॑त्य् अमावा॒स्या॑ तावा॑न् अतिरा॒त्रः ।
+</details>
+<details><summary>Keith</summary>
+
+These he meted out;  
+the Agnistoma was the size of the Agnihotra,  
+the Ukthya that of the full moon sacrifice,  
+the Atiratra that of the new moon sacrifice.
+</details>
+<details><summary>मूलम्</summary>
+
+तानुद॑मिमीत ।   
+
+याव॑दग्निहो॒त्रमासी॒त्तावा॑नग्निष्टो॒मः ।  
+
+याव॑ती पौर्णमा॒सी  तावा॑नु॒क्थ्यः॑ ।  
+
+याव॑त्यमावा॒स्या॑ तावा॑नतिरा॒त्रः ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य ए॒वव्ँ वि॒द्वान् अ॑ग्नि-हो॒त्रञ् जु॒होति॒,  
 याव॑द् अग्निष्टो॒मेनो॑पा॒प्नोति॒  
@@ -87,24 +106,11 @@ Prajapati created the sacrifices, the Agnihotra, the Agnistoma, the full moon sa
 </details>
 <details><summary>Keith</summary>
 
-These he meted out;  
-the Agnistoma was the size of the Agnihotra,  
-the Ukthya that of the full moon sacrifice,  
-the Atiratra that of the new moon sacrifice. 
-
 He who knowing thus offers the Agnihotra obtains as much as by offering the Agnistoma;  
 he who knowing thus offers the full moon sacrifice obtains as much as by offering the Ukthya [1];  
-he who knowing thus offers the new moon sacrifice obtains as much as by offering the Atiratra. 
+he who knowing thus offers the new moon sacrifice obtains as much as by offering the Atiratra.
 </details>
 <details><summary>मूलम्</summary>
-
-तानुद॑मिमीत ।   
-
-याव॑दग्निहो॒त्रमासी॒त्तावा॑नग्निष्टो॒मः ।  
-
-याव॑ती पौर्णमा॒सी  तावा॑नु॒क्थ्यः॑ ।  
-
-याव॑त्यमावा॒स्या॑ तावा॑नतिरा॒त्रः ।  
 
 य ए॒वव्ँवि॒द्वान॑ग्निहो॒त्रञ्जु॒होति॑ ।    
 
@@ -142,7 +148,6 @@ he who knowing thus offers the new moon sacrifice obtains as much as by offering
 । यः । ए॒वम् । वि॒द्वान् । अ॒मा॒वा॒स्या॑मित्य॑मा-वा॒स्या॑म् । यज॑ते ।   
 याव॑त् । अ॒ति॒रा॒त्रेणेत्य॑ति-रा॒त्रेण॑ । उ॒पा॒प्नोतीत्यु॑प-आ॒प्नोति॑ ।   
 ताव॑त् । उपेति॑ । आ॒प्नो॒ति॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -178,7 +183,6 @@ and by means of it he reached the supreme goal.
 प॒र॒मे॒ष्ठिनः॑ । वै । ए॒षः । य॒ज्ञः । अग्रे॑ । आ॒सी॒त् ।  
 
 तेन॑ । सः । प॒र॒माम् । काष्ठा॑म् । अ॒ग॒च्छ॒त् ।  
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -193,30 +197,42 @@ and by means of it he reached the supreme goal.
 
 तेन॑ प्र॒जाप॑तिन् नि॒रवा॑साययत् ।  
 तेन॑ प्र॒जाप॑तिᳶ पर॒माङ् काष्ठा॑म् अगच्छत् ।
+</details>
+<details><summary>Keith</summary>
+
+He furnished Prajapati with it,  
+and by means of it Prajapati reached the supreme goal.
+</details>
+<details><summary>मूलम्</summary>
+
+तेन॑ प्र॒जाप॑तिन्नि॒रवा॑साययत् ।  
+तेन॑ प्र॒जाप॑तिᳶ पर॒माङ्काष्ठा॑मगच्छत् ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनेन्द्र॑न् नि॒रवा॑साययत् ।  
 तेनेन्द्रᳶ॑ पर॒माङ् काष्ठा॑म् अगच्छत् ।
+</details>
+<details><summary>Keith</summary>
+
+He furnished Indra with it,  
+and by means of it Indra reached the supreme goal.
+</details>
+<details><summary>मूलम्</summary>
+
+तेनेन्द्र॑न्नि॒रवा॑साययत् ।  
+तेनेन्द्रᳶ॑ पर॒माङ्काष्ठा॑मगच्छत् ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेना॒ग्नी-षोमौ॑ नि॒रवा॑साययत् ।  
 तेना॒ग्नीषोमौ॑ पर॒माङ् काष्ठा॑म् अगच्छताम् ।
 </details>
 <details><summary>Keith</summary>
 
-He furnished Prajapati with it,  
-and by means of it Prajapati reached the supreme goal. 
-
-He furnished Indra with it,  
-and by means of it Indra reached the supreme goal. 
-
 He furnished Agni and Soma with it, and by means of it Agni and Soma reached the supreme goal.
 </details>
 <details><summary>मूलम्</summary>
-
-तेन॑ प्र॒जाप॑तिन्नि॒रवा॑साययत् ।  
-तेन॑ प्र॒जाप॑तिᳶ पर॒माङ्काष्ठा॑मगच्छत् ।  
-
-तेनेन्द्र॑न्नि॒रवा॑साययत् ।  
-तेनेन्द्रᳶ॑ पर॒माङ्काष्ठा॑मगच्छत् ।  
 
 तेना॒ग्नीषोमौ॑ नि॒रवा॑साययत् ।  
 तेना॒ग्नीषोमौ॑ पर॒माङ्काष्ठा॑मगच्छताम् ।
@@ -292,22 +308,31 @@ He who [2] knowing thus offers the new and full moon sacrifices reaches the supr
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो वै प्रजा॑तेन य॒ज्ञेन॒ यज॑ते॒  
-प्र प्र॒जया॑ प॒शुभि॑र् मिथु॒नैर् जा॑यते ।  
+प्र प्र॒जया॑ प॒शुभि॑र् मिथु॒नैर् जा॑यते ।
+</details>
+<details><summary>Keith</summary>
+
+He who sacrifices with an abundant offering is multiplied with offspring, with cattle, with pairings.
+</details>
+<details><summary>मूलम्</summary>
+
+यो वै प्रजा॑तेन य॒ज्ञेन॒ यज॑ते॒   
+प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "द्वाद॑श॒ मासाः॑ सव्ँवत्स॒रो,  
 द्वाद॑श द्व॒न्द्वानि॑ दर्शपूर्णमा॒सयो॒स्,  
 तानि॑ स॒म्पाद्या॒नी"त्य् आ॑हुः ।
 </details>
 <details><summary>Keith</summary>
 
-He who sacrifices with an abundant offering is multiplied with offspring, with cattle, with pairings.  
 'The year has twelve months,  
 there are twelve pairs of new and full moon sacrifices;  
-these are to be produced', they say. 
+these are to be produced', they say.
 </details>
 <details><summary>मूलम्</summary>
 
-यो वै प्रजा॑तेन य॒ज्ञेन॒ यज॑ते॒   
-प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते ।  
 द्वाद॑श॒ मासाः॑ सव्ँवत्स॒रो   
 द्वाद॑श द्व॒न्द्वानि॑ दर्शपूर्णमा॒सयो॒स्तानि॑ स॒म्पाद्या॒नीत्या॑हुः ।
 </details>
@@ -506,7 +531,6 @@ he surrounds the Vedi and he girds the wife (of the sacrificer);
 
 वेदि॑ञ्च परिगृ॒ह्णाति॑ ।  
 पत्नी॑ञ्च॒ सन्न॑ह्यति ।  
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -559,7 +583,17 @@ he puts in place the anointing waters and the melted butter.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तानि॒ वै द्वाद॑श द्व॒न्द्वानि॑ - दर्शपूर्णमा॒सयो॒स् तानि॑  ।   
+ए॒तानि॒ वै द्वाद॑श द्व॒न्द्वानि॑ - दर्शपूर्णमा॒सयो॒स् तानि॑  ।
+</details>
+<details><summary>Keith</summary>
+
+These are the twelve pairs in the new and full moon sacrifices.
+</details>
+<details><summary>मूलम्</summary>
+
+ए॒तानि॒ वै द्वाद॑श द्व॒न्द्वानि॑ दर्शपूर्णमा॒सयो॒स्तानि॑  ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य ए॒वँ स॒म्पाद्य॒ यज॑ते॒  
 प्रजा॑तेनै॒व य॒ज्ञेन॑ यजते ।  
@@ -567,13 +601,11 @@ he puts in place the anointing waters and the melted butter.
 </details>
 <details><summary>Keith</summary>
 
-These are the twelve pairs in the new and full moon sacrifices.  
 He, who thus sacrifices with these, sacrifices with an abundant offering and is multiplied with offspring,  
 with cattle, with pairings.
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒तानि॒ वै द्वाद॑श द्व॒न्द्वानि॑ दर्शपूर्णमा॒सयो॒स्तानि॑  ।   
 य ए॒वँ स॒म्पाद्य॒ यज॑ते ।  
 प्रजा॑तेनै॒व य॒ज्ञेन॑ यजते ।  
 प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते ॥ [32]
@@ -585,7 +617,6 @@ with cattle, with pairings.
 तानि॑ । यः । ए॒वम् । स॒म्पाद्येति॑ सम्-पाद्य॑ । यज॑ते ।   
 प्रजा॑ते॒नेति॒ प्र-जा॒ते॒न॒ । ए॒व । य॒ज्ञेन॑ । य॒ज॒ते॒ ।   
 प्रेति॑ । प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ । मि॒थु॒नैः । जा॒य॒ते॒ ॥ [32]
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

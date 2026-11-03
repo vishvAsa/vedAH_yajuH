@@ -1,6 +1,5 @@
 +++
 title = "१७ पूर्वो मरुत्वतीयग्रहः"
-
 +++
 
 त्रिष्टुप् । सोमऋषिः
@@ -10,8 +9,10 @@ _______
 
 1त्रयो मरुत्वतीया माध्यंदिने सवने गृह्यन्ते ॥ 'इन्द्रो मरुद्भिस्सांविद्येन' इत्यादि ब्राह्मणम्  । ते चर्तुपात्रेण गृह्यन्ते । 'तस्य वृत्रं जघ्नुष ऋतवोमुह्यन्' इत्यादि ब्राह्मणम्  । 'वज्रं वा एतं यजमानो भ्रातृव्याय प्रहरति यन्मरुत्वतीयाः' इत्यादि च । तत्र प्रथमं गृह्णाति - मरुत्वन्तमिति त्रिष्टुभा चतुष्पदया ॥
 </details>
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/047/05_marutvantaM_vRShabhaM.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 मरु᳓त्वन्तं वृषभं᳓ वावृधान᳓म्  
 अ᳓कवारिं+++(=अकुत्सितारिं)+++ दिव्यं᳓ शास᳓म् इ᳓न्द्रम् ।  
@@ -19,9 +20,11 @@ _______
 +उग्रं᳓ सहो-दा᳓म् इह᳓ तं᳓ हुवेम ॥
 
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/047/05_marutvantaM_vRShabhaM.md">
-<details open><summary><h5>005 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -215,6 +218,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मरुत्वन्तम्- प्राणवन्तम्। वृषभम्- वर्षकम्। वावृधानम्- वर्धमानम्। अकवारिम्- प्रभूतगतिम्।  दिव्यम्। इन्द्रम्- परमेश्वरम्। शासम्- शासितारम्। विश्वसाहम्- सर्वसहम्। उग्रम्- उद्गूर्णम्।  सहोदम्- सहनशक्तिदम्। नूतनाय- अभिनवाय। अवसे- पालनाय। इह- अत्र। तम्। हुवेम-  आह्वयामः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **मरुत्वन्तं** मरुद्भिस्तद्वन्तं **वृषभं** मेघभेदनद्वारा अपां वर्षकं **ववृधानं** वृत्रहननादिकर्मसु उत्साहेन वर्धमानम् **अकवारिं**-प्रभूतशत्रुकं यद्वा अकुत्सितारिम् । तथा च मन्त्रः-’ स्वरिरमत्रो ववक्षे रणाय' (ऋ. सं. १. ६१. ९) इति । **दिव्यं** दिवि स्वर्गलोके वर्तमानम् । **शासं** हितोपदेशहितपरिहाराभ्यां शासितारं **विश्वासाहं** विश्वस्य प्रतिपक्षस्य सर्वस्याभिभवितारम् **उग्रं** शत्रुषु उद्गूर्णं **सहोदां** युद्धसहकारिणां मरुतां बलप्रदं **तं** तादृशसामर्थ्योपेतम् **इन्द्रं** **नूतनाय** नवतराय **अवसे** रक्षणाय **इह** कर्मणि **हुवेम** त्वामाह्वयेम ॥ नूतनाय । नवशब्दस्य नू इत्यादेशः ॥ त्नप्तनखाश्च प्रत्यया वक्तव्याः इति तनप्रत्ययः ॥ ॥ ११ ॥
@@ -345,19 +353,19 @@ Den Marutherrscher Indra, den erstarkten, der nimmer geizt, den himmlischen Gebi
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. माणसांनी त्यालाच राजा करावे ज्याच्यामध्ये संपूर्ण राजधर्म पाळण्याची क्षमता असते. ॥ ५ ॥
 </details>
-</details>
+
 </div>  
 
 _______
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/17_pUrvo_marutvatIyagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य उपयामगृहीतोसीन्द्राय त्वा मरुत्वत इति गृह्णाति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
@@ -383,8 +391,8 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रा॑य त्वा म॒रुत्व॑ते ।
@@ -420,7 +428,7 @@ This is thy birthplace; to Indra with the Maruts thee!
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा म॒रुत्व॑ते ॥ [18]
 </details>
-</details>
+
 </div>  
 
 इति चतुर्थे सप्तदशोनुवाकः ॥  

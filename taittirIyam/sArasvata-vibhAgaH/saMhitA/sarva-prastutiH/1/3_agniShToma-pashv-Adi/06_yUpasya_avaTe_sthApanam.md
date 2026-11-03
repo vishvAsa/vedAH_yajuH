@@ -18,21 +18,47 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒थि॒व्यै त्वा॑  +++(प्रोक्षामि)+++ ।   
-अ॒न्तरि॑क्षाय त्वा    +++(प्रोक्षामि)+++  ।  
-दि॒वे त्वा॑   +++(प्रोक्षामि)+++ ।  
+पृ॒थि॒व्यै त्वा॑  +++(प्रोक्षामि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
 
-To I earth thee! To atmosphere thee! To sky thee!
+To I earth thee!
 </details>
 
 <details><summary>मूलम्</summary>
 
-पृ॒थि॒व्यै त्वा॑  +++(प्रोक्षामि)+++ ।   
-अ॒न्तरि॑क्षाय त्वा    +++(प्रोक्षामि)+++  ।  
-दि॒वे त्वा॑   +++(प्रोक्षामि)+++ ।  
+पृ॒थि॒व्यै त्वा॑  +++(प्रोक्षामि)+++ ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒न्तरि॑क्षाय त्वा    +++(प्रोक्षामि)+++  ।
+</details>
+
+<details><summary>Keith</summary>
+
+To atmosphere thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒न्तरि॑क्षाय त्वा    +++(प्रोक्षामि)+++  ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+दि॒वे त्वा॑   +++(प्रोक्षामि)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To sky thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+दि॒वे त्वा॑   +++(प्रोक्षामि)+++ ।
 </details>
 
 <details><summary>पद-पाठः</summary>

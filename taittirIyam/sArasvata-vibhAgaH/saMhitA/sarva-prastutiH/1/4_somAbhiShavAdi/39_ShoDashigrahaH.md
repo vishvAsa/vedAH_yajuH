@@ -1,6 +1,5 @@
 +++
 title = "३९ षोडशिग्रहः"
-
 +++
 
 _______
@@ -8,18 +7,18 @@ _______
 
 1तस्मिन्नेव माध्यंदिनसवने गृह्णाति - इन्द्रमित्यनुष्टुभा ॥ 'सवने सवनेभि गृह्णाति' इत्यादि ब्राह्मणम्  । 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/02_indramiddharI_vahato_apratidhRShTashavasam.md">
-<details open><summary><h5>०२ इन्द्रमिद्धरी वहतोऽप्रतिधृष्टशवसम् ...{Loading}...</h5></summary>
 
 **इ᳓न्द्रम्** इ᳓द् **+ह᳓री वहतो᳓**  
 ऽप्रतिधृष्ट-शवसम् ।  
 ऋ᳓षीणां च स्तुती᳓र् उ᳓प  
 **यज्ञं᳓** च मा᳓नुषाणाम् ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/02_indramiddharI_vahato_apratidhRShTashavasam.md">
-<details open><summary><h5>002 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -177,6 +176,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ऋषीणाम्- मन्त्रदर्शिनाम्। स्तुतीः- मन्त्रान्। मानुषाणाम्- अन्येषामुपासकानाम्। यज्ञम्- उपासनं  प्रति। अप्रतिधृष्टशवसम्- अप्रतिधर्षितबलम्। इन्द्रम्- ईश्वरम्। इत्- एव। हरी- अश्वौ  प्राणप्रतीकौ। उप वहतः- समीपं प्रापयतः॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अप्रतिधृष्टशवसं** केनाप्य् अप्रतिधर्षितबलम् । अहिंसितबलमित्यर्थः। **इन्द्रमित्** इन्द्रमेव **ऋषीणां** वसिष्ठादीनां **मानुषाणाम्** अन्येषां मनुष्याणां **च** **स्तुतीः** **यज्ञं** **च** **हरी** अश्वौ **उप** **वहतः** समीपं प्रापयतः । यत्र यत्र स्तुवन्ति यत्र यत्र यजन्ते तत्र सर्वत्रेन्द्रमश्वौ प्रापयतः इत्यर्थः ॥ मानुषाणाम्। ‘मनोर्जातौ ' इति मनुशब्दात् अञ् पुगागमश्च ॥
@@ -283,13 +287,13 @@ Den Indra fährt das Füchsepaar, ihn, dessen Kraft unhemmbar ist, Hin zu der S�
 
 भावार्थभाषाः -  ज्यांना प्रशंसा, सत्कार, अधिकार प्राप्त झालेले आहेत त्यांच्याशिवाय प्राण्यांना सुख मिळू शकत नाही व सत्क्रियेशिवाय चक्रवर्ती राज्य इत्यादीची प्राप्ती व रक्षण होऊ शकत नाही. या कारणामुळे सर्व माणसांनी हे अनुष्ठान केले पाहिजे. ॥ २ ॥
 </details>
-</details>
+
 </div>  
 
 _______
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
-<details open><summary><h5>उपयाम-गृहीतः ...{Loading}...</h5></summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिन॑ ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥
@@ -299,8 +303,8 @@ _______
 
 (ग्रहणम्)
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
@@ -326,8 +330,8 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रा॑य त्वा षो॒ड॒शिने॑   +++(ग्रहणमन्त्रः)+++  ।
@@ -372,8 +376,9 @@ This is thy birthplace; to Indra of the Sodaśin thee!
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++
 </details>
-</details>
+
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2-3ग्रहणसादने गते ॥

@@ -1,6 +1,5 @@
 +++
 title = "०१ आज्यग्रहणानुमन्त्रणादि"
-
 +++
 
 अनुष्टुप् । प्रजापतिर्ऋषिः
@@ -10,17 +9,22 @@ _______
 
 1अथ प्राजापत्यमेव काण्डं याजमानम् । तत्राज्यसान्नाय्ययोस् स्कन्नस्य स्वधां सम्भरति - सं त्वेत्यनुष्टुभा ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 सन् त्वा॑ सिञ्चामि॒ यजु॑षा  
 प्र॒जाम् आयु॒र् धन॑ञ् च ।+++(4)+++  
 बृह॒स्-पति॑-प्रसूतो॒  
 यज॑मान इ॒ह मा रि॑षत्  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 By the Yajus I pour on thee  
@@ -53,7 +57,9 @@ Instigated by Brhaspati may the sacrificer here come to no harm.
 सं त्वा सिञ्चामीति। हे स्कन्नाज्य बृहस्पतिप्रेरितोऽहं प्रजादीन्संपादयेयम। त्वामनेन यजुषा मन्त्रेण पात्रे सम्यक्सिञ्चामि। इह कर्मणि यजमानः स्कन्दनापराधेन मा रिषन्मा हिंस्यताम्। अयं मन्त्र आध्वर्यवः। अतो यजमानस्यान्यत्वेनोक्तिरविरुद्धा।  
 </details>
 </details>
+
 </div>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आज्य॑मसि स॒त्यम॑सि स॒त्यस्याध्य॑क्षमसि ह॒विर॑सि वैश्वान॒रव्ँ वै॑श्वदे॒वमुत्पू॑तशुष्मँ स॒त्यौजाः

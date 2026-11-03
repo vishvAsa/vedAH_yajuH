@@ -290,7 +290,6 @@ ________
 > “अथाग्रेण शालां तिष्ठन्न् ओह्यमानं राजानं प्रति मन्त्रयते। 'नमो मित्रस्य वरुणस्य चक्षसे महो देवाय तद् ऋतं सपर्यत दूरे-दृशे देव-जाताय केतवे दिवस्-पुत्राय सूर्याय शंसतेति'” 
 
 इति।
-
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/05_namo_mitrasya.md">
@@ -465,7 +464,6 @@ Thou art the pillar of Varuna.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6शकटमुदगीषमुपस्तम्भयति - वरुणस्य स्कम्भनमसीति ॥ व्याख्यातम् । इह त्वयं विशेषः - ईषाया उपस्कम्भनमभिधेयम्, तत्र तु गौः ॥
-
 </details>
 
 ________
@@ -543,7 +541,6 @@ Varuna's noose is loosened.
 <details><summary>पद-पाठः</summary>
 
 उन्मु॑क्त॒ इत्युत्-मु॒क्तः॒ । वरु॑णस्य । पाशः॑ ॥ [17]  
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -1,6 +1,5 @@
 +++
 title = "०४ अनुयाजानुमन्त्रणादि"
-
 +++
 अनूयाजादीनाम् अनुमन्त्रणमन्त्राः , उज्झितमन्त्राः, स्रुग्व्यूहन-यज्ञदोह-प्रह्रियमाण-प्रस्तरानुमन्त्रण-विमुच्यमानपरिध्यनुमन्त्रण-शंयुवाकानुमन्त्रण-पत्नीसंयाजाद्यनुमन्त्रणमन्त्राः
 
@@ -123,38 +122,122 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेर् अ॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।  
-सोम॑स्या॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।  
-अ॒ग्नेर् अ॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।   
-अ॒ग्नीषोम॑योर् अ॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।  
-इ॒न्द्रा॒ग्नि॒योर्+++(→ग्न्योर् इति स्वरः)+++ अ॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।  
-इन्द्र॑स्या॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।  
-म॒हे॒न्द्रस्या॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।  
-अ॒ग्नेस् स्वि॑ष्ट॒कृतो॒ ऽहम् उज्जि॑ति॒म् अनूज्जे॑षम् ।  
+अ॒ग्नेर् अ॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।
 </details>
 
 <details><summary>Keith</summary>
 
-May I be victorious through the victory of Agni.  
-May I be victorious through the victory of Soma.  
-May I be victorious through the victory of Agni.  
-May I be victorious through the victory of Agni and Soma.  
-May I be victorious through the victory of Indra and Agni.  
-May I be victorious through the victory of Indra [1].  
-May I be victorious through the victory of Mahendra.  
+May I be victorious through the victory of Agni.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्नेर॒हमुज्जि॑ति॒मनूज्जे॑षम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सोम॑स्या॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+May I be victorious through the victory of Soma.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सोम॑स्या॒हमुज्जि॑ति॒मनूज्जे॑षम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒ग्नेर् अ॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+May I be victorious through the victory of Agni.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्नेर॒हमुज्जि॑ति॒मनूज्जे॑षम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒ग्नीषोम॑योर् अ॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+May I be victorious through the victory of Agni and Soma.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्नीषोम॑योर॒हमुज्जि॑ति॒मनूज्जे॑षम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ॒न्द्रा॒ग्नि॒योर्+++(→ग्न्योर् इति स्वरः)+++ अ॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+May I be victorious through the victory of Indra and Agni.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒न्द्रा॒ग्नि॒योर॒हमुज्जि॑ति॒मनूज्जे॑षम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द्र॑स्या॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+May I be victorious through the victory of Indra [1].
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्र॑स्या॒हमुज्जि॑ति॒मनूज्जे॑षम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+म॒हे॒न्द्रस्या॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+May I be victorious through the victory of Mahendra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+म॒हे॒न्द्रस्या॒हमुज्जि॑ति॒मनूज्जे॑षम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒ग्नेस् स्वि॑ष्ट॒कृतो॒ ऽहम् उज्जि॑ति॒म् अनूज्जे॑षम् ।
+</details>
+
+<details><summary>Keith</summary>
+
 I May I be victorious through the victory of Agni Svistakrt.
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्नेर॒हमुज्जि॑ति॒मनूज्जे॑षम् ।  
-सोम॑स्या॒हमुज्जि॑ति॒मनूज्जे॑षम् ।  
-अ॒ग्नेर॒हमुज्जि॑ति॒मनूज्जे॑षम् ।   
-अ॒ग्नीषोम॑योर॒हमुज्जि॑ति॒मनूज्जे॑षम् ।  
-इ॒न्द्रा॒ग्नि॒योर॒हमुज्जि॑ति॒मनूज्जे॑षम् ।  
-इन्द्र॑स्या॒हमुज्जि॑ति॒मनूज्जे॑षम् ।  
-म॒हे॒न्द्रस्या॒हमुज्जि॑ति॒मनूज्जे॑षम् ।  
-अ॒ग्नेस्स्वि॑ष्ट॒कृतो॒ऽहमुज्जि॑ति॒मनूज्जे॑षम् ।  
+अ॒ग्नेस्स्वि॑ष्ट॒कृतो॒ऽहमुज्जि॑ति॒मनूज्जे॑षम् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,8 +278,9 @@ _______
 
 11-13स्रुग्-व्यूहन-मन्त्रौ वाजस्येत्यनुष्टुभौ ॥ व्याख्याते चैते ।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/vAjasya_mA.md">
-<details open><summary><h5>वाजस्य मा ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1स्रुचौ व्यूहति - वाजस्येत्यनुष्टुब्भ्यां चतुष्पदाभ्याम् ॥
@@ -364,7 +448,7 @@ __________
 
 अथेन्द्राग्नी मम सपत्नान्विषूचीनान्सर्वतः पलायमानान्व्यस्यतां विनाशयेताम्। 
 </details>
-</details>
+
 </div>  
 
 ## दोहः
@@ -378,16 +462,21 @@ _______
 
 एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा॒ इन्द्र॑वन्तः [12]व॒ना॒म॒हे॒ धु॒क्षी॒महि॑ प्र॒जामिष॑म् ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 आ+इ॒मा अ॑ग्मन्न् आ॒शिषो॒ दोह॑-कामा  
 इन्द्र॑वन्तो  व॒ना॒म॒हे ।    
 धु॒क्षी॒महि॑ प्र॒जाम् इष॑म्  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Hither these blessings have come, fain for milking,  
@@ -423,6 +512,7 @@ May we milk offspring and food.
 यस्मिन्काले होता सूक्तवाकं पठन्नाशास्तेऽयमित्यादिवाक्यामुच्चारयति तस्मिन्कालेऽध्वर्युर्यजमानमेमा अग्मन्नित्यादियज्ञदोहमन्त्रं वाचयति। सूक्तवाक आयुराशास्ते सुप्रजास्त्वमाशास्त इत्यादय आयुराद्याशिषः समाम्नाताः। इमा आशिषोऽग्मन्मां प्रत्यागच्छन्तु। वयमप्यायुरादिदोहं कामयमानास्तत्फलप्रदेनेन्द्रेण युक्तत्वादिन्द्रवन्तस्तमिन्द्रं वनामहे भजामहे। तेन भजनेन पुत्रपौत्रादिप्रजामिष-मिष्यमाणमन्नायुरादिकं धुक्षीमहि कामधेनुसदृशीमिन्द्रदेवतां दुह्यास्म।  
 </details>
 </details>
+
 </div>
 
 ## प्रस्तरप्रहारे
@@ -455,7 +545,6 @@ With the red steed may Agni convey thee to the god;
 <details><summary>पद-पाठः</summary>
 
 रोहि॑तेन । त्वा॒ । अ॒ग्निः । दे॒वता॑म् । ग॒म॒य॒तु॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -531,17 +620,22 @@ _______
 
 वि ते॑ मुञ्चामि रश॒ना वि र॒श्मीन् वि योक्त्रा॒ यानि॑ परि॒चर्त॑नानि ध॒त्ताद॒स्मासु॒ द्रवि॑णय्ँ॒यच्च॑ भ॒द्रम्प्र णो॑ ब्रूताद्भाग॒धान्दे॒वता॑सु ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 +++(अश्वीकृताग्ने!)+++ वि ते॑ **मुञ्चामि** रश॒ना, वि र॒श्मीन्,  
 वि योक्त्रा॒, यानि॑ परि॒चर्त॑नानि+++(←चृती हिंसादौ)+++ ।  
 **ध॒त्ताद्** अ॒स्मासु॒ द्रवि॑णय्ँ॒ यच् च॑ भ॒द्रम्,  
 +++(तेषु)+++ प्र णो॑ **ब्रूताद्** भाग॒-धान् दे॒वता॑सु  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 I unyoke thy head ropes, thy reins,  
@@ -578,6 +672,7 @@ Proclaim us sharers among the gods.
 लोके ह्यारुरुक्षुरारोहणीयमश्वं रशनादिभिः सर्वतो बध्नाति। तत्र रशनाशब्देन पल्ययनदार्ढ्यायोदरे बध्यमाना तन्तुमयी चर्ममयी वा कक्ष्याऽभिधीयते। रश्मिशब्देनाश्वमुखे संलग्नो हस्तेनाश्वनियमनार्थो रज्‍जु-विशेष उच्यते। योक्त्रशब्देनाश्वं स्तम्भे बद्धु(न्धु)मुपयुक्तो रज्‍जुविशेषः। पल्ययनस्य पुरतः पृष्ठतश्चापसरणं वारयितुमुरःपुच्छादौ बन्धनोपयुक्ता रज्जुविशेषाः परिचर्तनशब्देनोच्‍यन्ते। अश्ववदग्नेश्च रशनादिस्थानीयाः परिधयः। हेऽग्ने तव बन्धनहेतून्परिधिरूपान्‍रशनादीन्विमुञ्चामि। तद्विमोकेन संतुष्टस्त्वमस्मासु द्रविणं धेहि। यच्चान्यद्भद्रमन्नपानादिकं तदप्यस्मासु धेहि। अस्मदीयहविर्भुक्षु देवतासु भागधान्हविष्प्रदानस्मान्प्रकर्षेण ब्रूहि।  
 </details>
 </details>
+
 </div>
 
 ## शंयुवाकानुमन्त्रणम्
@@ -871,16 +966,21 @@ Thou art winning, thou art the winner, may I win.
 
 तथा त्वं सनिरसि सनिनामाऽसि। तद्व्याख्यानं सनिताऽसीति। धनस्य दाताऽसीत्यर्थः। अतस्त्वत्प्रसादेन सनेयं धनमृत्विगादिभ्यो देयासम्। 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 घृ॒तव॑न्तङ् कुला॒यिनं॑+++(=नीडवन्तं)+++   
 रा॒यस्पोषँ॑ सह॒स्रिणं॑   
 **वे॒दो द॑दातु** वा॒जिन॑म् ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 May the bundle bestow increase of wealth,  
@@ -913,4 +1013,5 @@ A thousandfold, strong.
 किंच वेदो भवान्मह्यं रायस्पोषं धनं पुष्टिं ददाति। कीदृशं रायस्पोषं, घृतवन्तं घृतादिभोजनसाधनसमृद्धम्। कुलायिनं निवासहेतुबहुगृहोपेतम्। सहस्रिणं सहस्रलक्षादिसंख्योपेतम्। वाजिनं भोज्यान्नसमृद्धम्।
 </details>
 </details>
+
 </div>

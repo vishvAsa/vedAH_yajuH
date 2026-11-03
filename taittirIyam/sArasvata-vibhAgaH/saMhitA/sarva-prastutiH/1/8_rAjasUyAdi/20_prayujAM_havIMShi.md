@@ -156,7 +156,6 @@ To Sarasvati he offers an oblation;
 <details><summary>मूलम्</summary>
 
 सा॒र॒स्व॒तञ्च॒रुन्निर्व॑पति ।  
-
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -158,7 +158,6 @@ The Ahavaniya is the abode of the gods, between the fires of cattle, the Garhapa
 गार्ह॑पत्य॒ इति॒ गार्ह॑-प॒त्यः॒ । म॒नु॒ष्या॑णाम् ।
 
 अ॒न्वा॒हा॒र्य॒पच॑न॒ इत्य॑न्वाहार्य-पच॑नः । पि॒तृ॒णाम् ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -201,7 +200,6 @@ He takes the fire; verily he appropriates [1] the gods in their own abode; to th
 अ॒ग्निम् । गृ॒ह्णा॒ति॒ ।    
 स्वे । ए॒व । आ॒यत॑न॒ इत्या॑-यत॑ने । दे॒वताः॑ । परीति॑ । गृ॒ह्णा॒ति॒ ।  
 ताः । श्वः । भू॒ते । य॒ज॒ते॒ ।  
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -260,21 +258,32 @@ By means of a vow is Agni, lord of vows, pure, the Brahman is a supporter of vow
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रत᳓म् उपैष्य᳓न् ब्रूयाद्  
-"अ᳓ग्ने व्रतपते व्रत᳓ञ्चरिष्यामी᳓"ति ।  
-अग्नि᳓र् वै᳓ देवा᳓नाव्ँ व्रत᳓पतिः ।  
-त᳓स्मा एव᳓ प्रति-प्रो᳓च्य व्रत᳓म् आ᳓लभते  ।
+"अ᳓ग्ने व्रतपते व्रत᳓ञ्चरिष्यामी᳓"ति ।
 </details>
 
 <details><summary>Keith</summary>
 
-When about to undertake a vow he should say, 'O Agni, lord of vows, I shall perform the vow.' Agni is the lord of vows among the gods; verily after announcement to him he undertakes the vow. 
+When about to undertake a vow he should say, 'O Agni, lord of vows, I shall perform the vow.'
 </details>
 
 <details><summary>मूलम्</summary>
 
 व्र॒तमु॑पै॒ष्यन्ब्रू॑याद्   
 
-अग्ने॑ व्रतपते व्र॒तञ् च॑रिष्या॒मीति॑ ।  
+अग्ने॑ व्रतपते व्र॒तञ् च॑रिष्या॒मीति॑ ।
+</details>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+
+अग्नि᳓र् वै᳓ देवा᳓नाव्ँ व्रत᳓पतिः ।  
+त᳓स्मा एव᳓ प्रति-प्रो᳓च्य व्रत᳓म् आ᳓लभते  ।
+</details>
+
+<details><summary>Keith</summary>
+
+Agni is the lord of vows among the gods; verily after announcement to him he undertakes the vow.
+</details>
+
+<details><summary>मूलम्</summary>
 
 अ॒ग्निर्वै दे॒वानाव्ँ॑ व्र॒तप॑तिः ।  
 तस्मा॑ ए॒व प्र॑ति॒प्रोच्य॑ व्र॒तमाल॑भते  ।
@@ -480,7 +489,6 @@ _______
 यत् । ग्रा॒म्यान् । उ॒प॒वस॒तीत्यु॑प-वस॑ति । तेन॑ । ग्रा॒म्यान् । अवेति॑ । रु॒न्द्धे॒ ।  
 
 यत् । आ॒र॒ण्यस्य॑ । अ॒श्ञाति॑ । तेन॑ । आ॒र॒ण्यान् ।  
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -492,7 +500,6 @@ _______
 
 आरण्यं सायमाशेऽश्नातीति सूत्रकारेण यदारण्यधान्यभोजनमुक्तं तदिदं विधातुं प्रस्तौति-  
 यजमानेनेति। अत्रायं विचारः। किं ग्राम्यधान्यस्यान्नं भोक्तव्यमारण्यधान्यस्य वा भोजनमेव वा वर्जनीयमिति। तत्राऽऽरण्यधान्यभोजनपक्षामभ्युपेत्येतरपक्षद्वयमपोद्यते। पशवो हि द्विविधाः ग्राम्या आरण्याश्च। गवाश्वाजाविपुरुषगर्दभोष्ट्राः सप्त ग्राम्याः। द्विखुरश्वापदपक्षिसरीसृपहस्तिमर्कटनादेयाः सप्ताऽऽरण्याः त एत उभयेऽपि यजमानेनावरुध्याः संपादनीया इति। बुद्धिमन्त आहुः। 
-
 </details>
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
@@ -528,7 +535,6 @@ If be were to fast without eating, the Pitrs would be his divinity [3]; he eats 
 
 इ॒न्द्रि॒यम् ।  वै । आ॒र॒ण्यम् ।  
 इ॒न्द्रि॒यम् । ए॒व । आ॒त्मन् । ध॒त्ते॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -573,7 +579,6 @@ If he were to fast without eating, he would be hungry; if he were to eat, Rudra 
 क्षोधु॑कः । स्या॒त् ।  
 
 यत् । अ॒श्ञी॒यात् । रु॒द्रः । अ॒स्य॒ । प॒शून् । अ॒भीति॑ । म॒न्ये॒त॒ ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

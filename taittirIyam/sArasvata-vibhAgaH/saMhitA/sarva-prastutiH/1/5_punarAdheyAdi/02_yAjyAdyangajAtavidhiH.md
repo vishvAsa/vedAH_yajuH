@@ -178,19 +178,29 @@ In that Agni when established does not prosper, (it is that he is) desiring a gr
 
 सव्ँ वा ए॒तस्य॑ गृ॒हे वाख् +++(सं-)+++सृ॑ज्यते॒+++(=मिश्र्यते)+++,  
 यो॑ऽग्निम् उ॑द्वा॒सय॑ते।  
-स वाचँ॒ सँसृ॑ष्टाय्ँ॒ +++(→अनु)+++ यज॑मान ईश्व॒रो +++(भवति)+++ ऽनु॒ परा॑भवितोः+++(=पराभव + तोसुँन् = तुमुन्) +++।   
-+++(ततो 'अग्नाग्ने अग्नावग्ने अग्निनाग्ने अग्निमग्ने' इति चतस्रः)+++ विभ॑क्तयो भवन्ति - वा॒चो विधृ॑त्यै॒, यज॑मान॒स्याप॑राभावाय ।
+स वाचँ॒ सँसृ॑ष्टाय्ँ॒ +++(→अनु)+++ यज॑मान ईश्व॒रो +++(भवति)+++ ऽनु॒ परा॑भवितोः+++(=पराभव + तोसुँन् = तुमुन्) +++।
 </details>
 <details><summary>Keith</summary>
 
-Speech is uttered together in the house of him who removes the fire; the sacrificer is liable to perish on account of the uttering together of speech.  
-There are discriminations, to sever speech and preserve the sacrificer [2]. 
+Speech is uttered together in the house of him who removes the fire; the sacrificer is liable to perish on account of the uttering together of speech.
 </details>
 <details><summary>मूलम्</summary>
 
 सव्ँवा ए॒तस्य॑ गृ॒हे सृ॑ज्यते॒,   
 
-यो॑ऽग्निमु॑द्वा॒सय॑ते॒ स वाचँ॒ सँसृ॑ष्टाय्ँ॒यज॑मान ईश्व॒रोऽनु॒ परा॑भवितो॒र्विभ॑क्तयो भवन्ति वा॒चो विधृ॑त्यै॒ यज॑मान॒स्याप॑राभावाय ।
+यो॑ऽग्निमु॑द्वा॒सय॑ते॒ स वाचँ॒ सँसृ॑ष्टाय्ँ॒यज॑मान ईश्व॒रोऽनु॒ परा॑भवितो॒र्
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(ततो 'अग्नाग्ने अग्नावग्ने अग्निनाग्ने अग्निमग्ने' इति चतस्रः)+++ विभ॑क्तयो भवन्ति - वा॒चो विधृ॑त्यै॒, यज॑मान॒स्याप॑राभावाय ।
+</details>
+<details><summary>Keith</summary>
+
+There are discriminations, to sever speech and preserve the sacrificer [2].
+</details>
+<details><summary>मूलम्</summary>
+
+विभ॑क्तयो भवन्ति वा॒चो विधृ॑त्यै॒ यज॑मान॒स्याप॑राभावाय ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -450,16 +460,26 @@ The sacrificial fee is a renovated chariot, a newly-sewn garment, a draught ox l
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"स॒प्त ते॑ अग्ने स॒मिध॑स्स॒प्त जि॒ह्वा" इत्य॑ग्निहो॒त्रञ् जु॑होति ।  
+"स॒प्त ते॑ अग्ने स॒मिध॑स्स॒प्त जि॒ह्वा" इत्य॑ग्निहो॒त्रञ् जु॑होति ।
+</details>
+<details><summary>Keith</summary>
+
+'Seven are thy kindling-sticks, O Agni, seven thy tongues'; (with these words) he offers the Agnihotra.
+</details>
+<details><summary>मूलम्</summary>
+
+स॒प्त ते॑ अग्ने स॒मिध॑स्स॒प्त जि॒ह्वा इत्य॑ग्निहो॒त्रञ्जु॑होति ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यत्र॑यत्रै॒वास्य॒ न्य॑क्त॒न् - तत॑  ए॒वैन॒म् अव॑ रुन्धे ।
 </details>
 <details><summary>Keith</summary>
 
-'Seven are thy kindling-sticks, O Agni, seven thy tongues'; (with these words) he offers the Agnihotra. Wherever there is anything of his nature, thence [4] does he win him. 
+Wherever there is anything of his nature, thence [4] does he win him.
 </details>
 <details><summary>मूलम्</summary>
 
-स॒प्त ते॑ अग्ने स॒मिध॑स्स॒प्त जि॒ह्वा इत्य॑ग्निहो॒त्रञ्जु॑होति ।  
 यत्र॑यत्रै॒वास्य॒ न्य॑क्त॒न्तत॑  ए॒वैन॒मव॑ रुन्धे ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

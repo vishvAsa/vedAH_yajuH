@@ -1,6 +1,5 @@
 +++
 title = "२९ आग्नेयो अतिग्राह्यग्रहः"
-
 +++
 
 गायत्री। सोमऋषिः
@@ -12,17 +11,21 @@ _______
 
 'देवा वा इन्द्रियं वीर्यं व्यभजन्त ततो यदत्यशिष्यत' इत्यादि ब्राह्मणम् , 'अप्यग्निष्टोमे ग्रहीतव्याः' इत्यादि च ।
 </details>
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/19_agna_AyUMShi.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 अ᳓ग्न आ᳓यूंषि **पवस**  
 आ᳓ **सुवो᳓र्जम्** इ᳓षं च नः ।  
 आरे᳓+++(=दूरे)+++ **बाधस्व** दुच्छु᳓नाम्+++(=रक्षसाम्)+++ ॥
 
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/066/19_agna_AyUMShi.md">
-<details open><summary><h5>019 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः पवमानः
@@ -178,6 +181,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने- अग्निभूत सोम। आयूंषि। पवसे- क्षरसि। नः- अस्मदर्थम्। ऊर्जं- शक्तिम्। इषं च-  सदिच्छामपि। आ सुव- प्रेरय। दुच्छुनम्- रक्षः। आरे- दूरे एव। बाधस्व- पीडय॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** पवमानरूप त्वमस्माकम् **आयूंषि** जीवनानि **पवसे** रक्षसि । **नः** अस्माकम् 'ऊर्जम् अन्नरसम् **इषम्** अन्नं च **आ** **सुव** आभिमुख्येन प्रेरय । किंच **दुच्छुनाम्** । रक्षोनामैतत् । रक्षांसि **आरे** अस्मत्तो दूर एव **बाधस्व** संपीडय ॥
@@ -216,7 +224,7 @@ Since pavase has an obj. ā́yūṃṣi, it would be desirable to have the preve
 This preverb in tmesis shows up apparently 2nd in the clause because it follows the zeroposition voc. ágne.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
-<details open><summary><h7>19-21 ...{Loading}...</h7></summary>
+<details open><summary><h7>19-21 …{Loading}…</h7></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
 On this tṛca see published introduction. It is so insistently Agni-focused (all three vss.
@@ -279,16 +287,17 @@ Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse w
 
 पदार्थान्वयभाषाः -  (अग्ने) ज्ञानस्वरूप परमेश्वर ! त्वम् (आयूंषि) अस्माकं वयांसि (पवसे) पवित्रयसि (च) अथ च (नः) अस्मभ्यम् (इषम्) ऐश्वर्यं तथा (ऊर्जम्) बलं (आसुव) देहि। तथा (दुच्छुनाम्) विघ्नकारिराक्षसान् इतः (आरे बाधस्व) दूरीकुरु ॥१९॥
 </details>
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य 'उपयामगृहीतोसि विश्वेभ्यस्त्वा देवेभ्यः' इति गृह्णाति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
@@ -314,8 +323,8 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑]
@@ -426,8 +435,9 @@ this is thy birthplace; to the All-gods thee!
 
 'वैश्वदेवो ह्येष देवतया' इति ब्राह्मणम् । 'आत्मा वा एष यज्ञस्य यदाग्रयणः' इत्यादि च ॥
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्नये॑ त्वा॒ तेज॑स्वते ।  

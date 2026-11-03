@@ -321,7 +321,6 @@ May I not brush offspring and the organ.
 ध्रुवायां मूलमनक्ति - प्रजामिति ॥ अहं प्रजां, योनिं च तत्कारणभूतं अन्नादिकं, मा निर्मृक्षं मा विनीनशं, अपितु वर्धयितुमिच्छामि ; तस्मात्तद्वृद्ध्यर्थं वियन्तु वय इति । मृशेः 'शल इगुपधादनिटः क्सः' (पा.सू. 3.1.45) इति च्लेः क्सादेशः । कृदुत्तरपदप्रकृतिस्वरेण (पा.सू. 6.2.139) प्रजाशब्दोऽन्तोदात्तः ॥
 
 अत्र, प्रथमद्वितीयपादावष्टाक्षरौ तृतीयो द्वादशाक्षरो यस्यास्तां परोष्णिहमाचक्षते । इह तु तृतीयोष्टाक्षरः पादः, 'द्वादशाक्षरः आष्टाक्षरतायाः ; प्रतिक्रामति' इति ; प्रथमद्वितीयौ पञ्चाक्षरौ, 'अष्टाक्षर आ चतुरक्षरतायाः प्रतिक्रामति' इति ॥
-
 </details>
 
 <details><summary>प्रदीपसिंहः</summary>
@@ -338,30 +337,54 @@ ____
 आहवनीये प्रस्तरं प्रहरति
 </details>
 
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+आ प्या॑यन्ता॒माप॒ ओष॑धयो म॒रुता॒म्पृष॑तयस्स्थ॒ दिव॑म् [22]ग॒च्छ॒ ततो॑ नो॒ वृष्टि॒मेर॑य
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आप्या॑यन्ता॒म् आप॒ ओष॑धयः ।  
+आप्या॑यन्ता॒म् आप॒ ओष॑धयः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Swell, ye waters and plants.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आप्या॑यन्ता॒माप॒ ओष॑धयः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 म॒रुता॒म् पृष॑तयस्+++(=बिन्दुमत्यः [अश्वाः])+++ स्थ।
+</details>
+
+<details><summary>Keith</summary>
+
+Ye are the spotted steeds of the Maruts.
+</details>
+
+<details><summary>मूलम्</summary>
+
+म॒रुता॒म्पृष॑तयस्स्थ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 +++(हे प्रस्तर!)+++ दिव॑ङ् गच्छ ।  
 ततो॑ नो॒ वृष्टि॒म् एर॑य ।+++(5)+++
 </details>
 
 <details><summary>Keith</summary>
 
-Swell, ye waters and plants.  
-Ye are the spotted steeds of the Maruts.  
 Fare to the sky [1], thence bring us rain.
-</details>
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-आ प्या॑यन्ता॒माप॒ ओष॑धयो म॒रुता॒म्पृष॑तयस्स्थ॒ दिव॑म् [22]ग॒च्छ॒ ततो॑ नो॒ वृष्टि॒मेर॑य
 </details>
 
 <details><summary>मूलम्</summary>
 
-आप्या॑यन्ता॒माप॒ ओष॑धयः ।  
-म॒रुता॒म्पृष॑तयस्स्थ ।  
 दिव॑ङ्गच्छ ।  +++(द्विपदा जगती)+++  
 ततो॑ नो॒ वृष्टि॒मेर॑य । +++(एकपदा गायत्री)+++
 </details>
@@ -390,27 +413,39 @@ ____
 आहवनीयम् उपतिष्ठते
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-आ॒यु॒ष्पा अ॑ग्ने॒ ऽस्य्, आयु॑र् मे पाहि ।  
-च॒क्षु॒ष्पा अ॑ग्नेऽसि । चक्षु॑र् मे पाहि ।   
-</details>
-
-<details><summary>Keith</summary>
-
-Guardian of life art thou, O Agni, guard my life.  
-Guardian of the eye art thou, O Agni, guard my eye.  
-</details>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 － आ॒यु॒ष्पा अ॑ग्ने॒ऽस्यायु॑र्मे पाहि चक्षु॒ष्पा अ॑ग्नेऽसि॒ चक्षु॑र्मे पाहि ध्रु॒वाऽसि॒ यम्प॑रि॒धिम्प॒र्यध॑त्था॒ अग्ने॑ देव प॒णिभि॑र्वी॒यमा॑णः
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒यु॒ष्पा अ॑ग्ने॒ ऽस्य्, आयु॑र् मे पाहि ।
+</details>
+
+<details><summary>Keith</summary>
+
+Guardian of life art thou, O Agni, guard my life.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒यु॒ष्पा अ॑ग्ने॒ऽसि ।    
-आयु॑र्मे पाहि ।  
+आयु॑र्मे पाहि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+च॒क्षु॒ष्पा अ॑ग्नेऽसि । चक्षु॑र् मे पाहि ।
+</details>
+
+<details><summary>Keith</summary>
+
+Guardian of the eye art thou, O Agni, guard my eye.
+</details>
+
+<details><summary>मूलम्</summary>
+
 च॒क्षु॒ष्पा अ॑ग्नेऽसि।   
 चक्षु॑र्मे पाहि ।
 </details>
@@ -614,22 +649,46 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे जुहूपभृतौ!)+++ अ॒ग्नेर् वा॒म् अप॑न्न+++(=निश्चल)+++गृहस्य॒ सद॑सि सादयामि ।  
-+++(यजमान-)+++सु॒म्नाय॑+++(=सुखाय)+++ सुम्निनी +++(जुहूपभृतौ!)+++ +++(स्व-)+++सु॒म्ने मा॑ +++(अध्वर्युं)+++ धत्तम्।  
-+++(याग-)+++धु॒रि धु॒र्यौ॑ +++(पत्नीयजमानौ)+++ पातम्+++(=रक्षतम्)+++ ।  
++++(हे जुहूपभृतौ!)+++ अ॒ग्नेर् वा॒म् अप॑न्न+++(=निश्चल)+++गृहस्य॒ सद॑सि सादयामि ।
 </details>
 
 <details><summary>Keith</summary>
 
-I set thee in the seat of Agni whose abode is secure.  
-For goodwill, O ye two with goodwill, place me in goodwill.  
+I set thee in the seat of Agni whose abode is secure.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्नेर्वा॒मप॑न्नगृहस्य॒ सद॑सि सादयामि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(यजमान-)+++सु॒म्नाय॑+++(=सुखाय)+++ सुम्निनी +++(जुहूपभृतौ!)+++ +++(स्व-)+++सु॒म्ने मा॑ +++(अध्वर्युं)+++ धत्तम्।
+</details>
+
+<details><summary>Keith</summary>
+
+For goodwill, O ye two with goodwill, place me in goodwill.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सु॒म्नाय॑ सुम्निनी सु॒म्ने मा॑ धत्तम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(याग-)+++धु॒रि धु॒र्यौ॑ +++(पत्नीयजमानौ)+++ पातम्+++(=रक्षतम्)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
 Guard ye the yoke-horses at the yoke.
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्नेर्वा॒मप॑न्नगृहस्य॒ सद॑सि सादयामि ।  
-सु॒म्नाय॑ सुम्निनी सु॒म्ने मा॑ धत्तम्।  
 धु॒रि धु॒र्यौ॑ पातम् ।
 </details>
 
@@ -772,7 +831,6 @@ guard from ill deed.
 <details><summary>Keith</summary>
 
 Make our food free from poison,
-
 </details>
 
 <details><summary>मूलम्</summary>

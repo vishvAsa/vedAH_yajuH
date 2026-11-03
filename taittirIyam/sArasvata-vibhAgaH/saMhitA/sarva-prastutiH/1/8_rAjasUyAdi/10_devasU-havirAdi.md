@@ -300,8 +300,8 @@ do ye instigate him, descendant of N. N., to freedom from foes,
 हे देवा अग्न्यादयो वरुणान्ताः ये यूयं देवसुवस्स्थ देवस्य दानादिगुणयुक्तस्य यजमानस्य सवितारः प्रेरकास्स्थ ते यूयं यस्मादेवं प्रसवादीनामनुज्ञातारः तस्मादिममामुष्यायणं सिंहवर्मणः पुत्रं नन्दिवर्माणम् अनमित्रायानमित्रत्वाय अविद्यमानशत्रुत्वाय सुवध्वम् । अनुजानीत अशत्रुमेनं कुरुतेत्यर्थः । इममामुष्यायणमिति सर्वनामद्वयं विशेषार्थमुपादीयते । अमुष्यशब्दान्नडादित्वात्फक् ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/mahate_xatrAya.md">
-<details open><summary><h5>म॒ह॒ते क्ष॒त्त्राय॑ ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/mahate_xatrAya.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 … महते᳓ क्षत्त्रा᳓य
@@ -329,7 +329,7 @@ to great lordship, to great overlordship, to great rule over the people.
 
 किञ्च - महते च क्षत्राय बलाय महते चाधिपत्याय स्वामित्वाय महते अविच्छिन्नाय च **जानराज्याय** जनानां राजा जनराजः तद्भावाय । उभयत्रापि गुणवचनत्वात् ष्यञ् । इममायुष्यायणं सुवध्वमित्येव । 'बृहन्महतोरुपसङ्ख्यानम्' इति महतो विभक्तेरुदात्तत्वम् ॥
 </details>
-</details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -337,8 +337,8 @@ to great lordship, to great overlordship, to great rule over the people.
 3यजमानायतने तिष्ठन् रत्निभ्यो जानपदेभ्यो ऽध्वर्युर् आवेदयते - एष व इति ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/eSha_vo_bharatA_rAjA.md">
-<details open><summary><h5>ए॒ष वो॑ भरता॒ राजा॑ ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/eSha_vo_bharatA_rAjA.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 एष᳓ वो भरता रा᳓जा ।
@@ -393,7 +393,7 @@ Soma is the king of us Brahmans.
 
 अस्माकं ब्राह्मणानां सोमो राजा, अधुना अयञ्चेति । सर्वदा सराजका एव वयमित्यभिप्रायः ॥
 </details>
-</details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -406,18 +406,22 @@ Soma is the king of us Brahmans.
 प्रति॒ त्यन्नाम॑ रा॒ज्यम॑धायि॒ स्वान्त॒नुवव्ँ॒वरु॑णो अशिश्रे॒च्छुचे॑र्मि॒त्रस्य॒ व्रत्या॑ अभू॒माम॑न्महि मह॒त ऋ॒तस्य॒ नाम॒ सर्वे॒ व्राता॒ वरु॑णस्याभूव॒न्वि मि॒त्र एवै॒ररा॑तिमतारी॒दसू॑षुदन्त य॒ज्ञिया॑ ऋ॒तेन॒ व्यु॑ त्रि॒तो ज॑रि॒माण॑न्न आनड् 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 प्र᳓ति त्य᳓न् ना᳓म राज्य᳓म् **अधायि**  
 स्वा᳓न् तनु᳓वव्ँ व᳓रुणो **अशिश्रेत्** ।   
 शु᳓चेर् मित्र᳓स्य व्र᳓त्या **अभूम᳓**  
 +**अ᳓मन्महि** महत᳓ ऋत᳓स्य ना᳓म ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 This kingdom hath verily been conferred,  
@@ -443,20 +447,25 @@ We have magnified the name of the great holy order.
 किञ्च ; शुचेर्मित्रस्य व्रत्याः कर्मयोग्याः अभूम । 'तत्र साधुः' इति यत् । अत एव महत ऋतस्य च सत्यस्य यज्ञस्य वा नाम नमनं अमन्महि ज्ञातवन्तः । मनुतेर्लङि, शपो लुक् । यद्वा - न केवलं मित्रस्य व्रत्या अभूम ; अपि तु ऋतस्य च नामाअमन्महीति ॥
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 स᳓र्वे व्रा᳓ता व᳓रुणस्याभूवन्  
 वि᳓ मित्र᳓ ए᳓वैर्+++(=आगमनैः)+++ अ᳓रातिम् **अतारीत्** ।   
 **अ᳓सूषुदन्त**+++(←षूद द्रववत् क्षरणे)+++ यज्ञि᳓या ऋते᳓न  
 **व्य्** उ᳙ त्रितो᳓ +++(ऽग्निः)+++ जरिमा᳓णन् न᳓+++(ः)+++ **आ᳓नट्** +++(=प्रापयतु)+++॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 These have become all the hosts of Varuna,  
@@ -484,6 +493,7 @@ Trita hath taken possession of our old age.
 किञ्च ; उ इति समुच्चये । त्रितोग्निः त्रिभ्यो लोकेभ्य उत्पन्नः, त्रिभ्यो वातिवातेभ्यः, त्रिभिर्वा ब्राह्मणादिभिः, लौकिकैर्वा कृतप्राप्तिः । स त्रितः अस्माकं जरिमाणं स्तोत्रम् । जीर्यतेरौणादिक इमनिच् । जनित्रशब्दाद्वा भावे छान्दस इमनिच्, 'तुरिष्ठेमेयस्सु' इति तृशब्दलोपः । **जरिमा** स्तोतृत्वं तत् अग्निः, व्यानट् व्याप्नोतु अस्माकं स्तुतिं गृहीत्वा स्तोत्रफलं ददावित्यर्थः । अश्नोतेर्लिङि व्यत्ययेन परस्मैपदं, विकरणव्यत्ययेन श्नम् । नशेर्वा गत्यर्थाल्लुङि 'मन्त्रे घस' इति च्लेर्लुक्, 'छन्दस्यपि दृश्यते' इत्याडागमः । यद्वा - उक्तं ऋतेनास्मानसूषुदन्तेति तदिदमस्माकं जरिमाणं जरां दीर्घायुष्ट्वं **व्यानट्** प्रापयतु । अन्तर्भावितण्य्-अर्थाल् लुङ् । कियच्चिरमित्याह - उ इत्यप्यर्थे । त्रितोपि त्रिभ्योपि वयोभ्यः पुरस्तात् जरिमाणं नः प्रापयतु सर्वम् आयुर् जीवयत्व् इत्यर्थः ॥
 </details>
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -491,8 +501,8 @@ Trita hath taken possession of our old age.
 7-9त्रीन्विष्णुक्रमान् प्राचः क्रामति - विष्णोः क्रमोसीति ॥ व्याख्यातम् ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md">
-<details open><summary><h5>विष्णोः क्रमः ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md">
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विष्णो॒ᳵ क्रमो॑ऽसि॒ विष्णोः॑ क्रा॒न्तम॑सि॒  विष्णो॒र्विक्रा॑न्तमसि ।
@@ -525,7 +535,7 @@ Thou art the stepping of Visnu,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि᳓ष्णोः क्रान्त᳓म् असि ।
+वि᳓ष्णोः क्रान्त᳓मसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -550,7 +560,7 @@ thou art the step of Visnu,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि᳓ष्णोर् वि᳓क्रान्तम् असि ।
+वि᳓ष्णोर् वि᳓क्रान्तमसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -572,5 +582,5 @@ thou art the stride of Visnu.
 
 विष्णोर्वीक्रान्तं विजयः, तदेव त्वमसि तद्वद्विजयसाधनत्वात् । पूर्ववद्गतिस्वरः ॥
 </details>
-</details>
+
 </div>

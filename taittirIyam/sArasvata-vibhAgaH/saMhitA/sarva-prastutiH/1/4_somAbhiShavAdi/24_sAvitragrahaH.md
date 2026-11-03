@@ -1,6 +1,5 @@
 +++
 title = "२४ सावित्रग्रहः"
-
 +++
 
 जगती । सोमऋषिः
@@ -10,8 +9,10 @@ _______
 
 1सावित्रस्यैव ग्रहणविकल्पः पूर्वेण सह विकृत्यर्थः- अदब्धेभिरिति चतुष्पदया त्रिष्टुभा ॥ 
 </details>
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/071/03_adabdhebhiH_savitaH.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 अ᳓दब्धेभिः सवितः पायु᳓भिष् ट्वं᳓  
 शिवे᳓भिर् अद्य᳓ **प᳓रि पाहि** नो ग᳓यम्+++(=गृहम्)+++ ।  
@@ -19,9 +20,11 @@ _______
 **र᳓क्षा**, मा᳓किर् नो अघ᳓शंस ईशत ॥
 
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/071/03_adabdhebhiH_savitaH.md">
-<details open><summary><h5>003 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -237,6 +240,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सवितः- सूर्य। अदब्धेभिः- अहिंस्यैः। पायुभिः- रक्षणैः। शिवेभिः- मङ्गळैः। त्वम्। अद्य-  इदानीम्। नः- अस्माकम्। गयम्- गृहम्। परि पाहि- परिपालय। हिरण्यजिह्वः- सुवर्णज्वालः।  नव्यसे- अभिनवाय। सुविताय- सुखाय। रक्ष- पालय। नः- अस्मान्। अघशंसः- पापी।  माकिम्- मा। ईशत- वशीकरोतु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सवितः** **अदब्धेभिः** अहिंसितैः **पायुभिः** तेजोभिः रक्षणसाधनैर्वा **शिवेभिः** सुखकरैः **नः** अस्माकं **गयं** गृहं धनं वा ।  ‘ गयः कृदरः' इति गृहनामसु ' मीळ्हं गयः' इति धननामसु पाठात् । **अद्य** **परि** **पाहि** रक्ष। **हिरण्यजिह्वः** हितरमणीयवाक् **त्वम्** । तथा च यास्कः - ‘ हिरण्यं कस्मात् ' इत्युपक्रम्य ' हितरमणं भवतीति वा ' ( निरु. २: १० ) इति । **सुविताय** सुखाय **नव्यसे** नवतराय भव । **रक्ष** अम्मान् पालय च । 'नः अस्माकम् **अघशंसः** अनर्थमाशंसमानः शत्रुः  **माकिः** **ईशत** मेशत ॥
@@ -363,7 +371,7 @@ Mit unbethörter heilbegabter Hüterschar, o Savitar, beschütze heute unser Hau
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जो राजा प्रयत्नपूर्वक प्रजेचे चांगल्याप्रकारे रक्षण करून दुष्टांना मारतो तोच नवनवीन ऐश्वर्य उत्पन्न करून सतत प्रजेचा प्रिय व धार्मिक होतो. ॥ ३ ॥
 </details>
-</details>
+
 </div>  
 
 _______
@@ -371,10 +379,10 @@ _______
 
 2उपयामगृहीतोसीत्यादि पूर्ववत् ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/23_sAvitragrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
@@ -400,8 +408,8 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वाय॑ त्वा सवि॒त्रे ॥ [24]
@@ -416,5 +424,5 @@ to the god Savitr thee!
 
 दे॒वाय॑ त्वा सवि॒त्रे ॥ [24]
 </details>
-</details>
+
 </div>

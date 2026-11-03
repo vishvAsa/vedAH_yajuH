@@ -69,31 +69,41 @@ ____
 उन्महयन्न् उपोत्तिष्ठति
 </details>
 
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+आपो॑ देवीरग्रेपुवो अग्रेगु॒वोऽग्र॑ इ॒मय्ँ य॒ज्ञन्न॑य॒ताग्रे॑ य॒ज्ञप॑तिन्धत्त यु॒ष्मानिन्द्रो॑ऽवृणीत वृत्र॒तूर्ये॑ यू॒यमिन्द्र॑मवृणीध्वव्ँ वृत्र॒तूर्ये
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे)+++ आपो॑ देवीर् अग्रेपुवो, अ॒ग्रे॒गु॒वो+++(=अग्रेसराः)+++ ऽग्र॑ इ॒मय्ँ य॒ज्ञन् न॑यत ।  
-अग्रे॑ य॒ज्ञप॑तिन् धत्त ।  
-यु॒ष्मान् इन्द्रो॑ ऽवृणीत +++(अपाम् अभि-प्रवृत्ते)+++ वृत्र॒-तूर्ये॑+++(=वधे)+++  ।  
-यू॒यम् इन्द्र॑म् अवृणीध्वव्ँ वृत्र॒-तूर्ये॑  ।
+अग्रे॑ य॒ज्ञप॑तिन् धत्त ।
 </details>
 
 <details><summary>Keith</summary>
 
 Ye divine waters, that go in front and first purify, forward lead this sacrifice, place in front the lord of the sacrifice.
-
-You Indra chose for the contest with Vrtra, ye chose Indra for the contest with Vrtra.
-
-</details>
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-आपो॑ देवीरग्रेपुवो अग्रेगु॒वोऽग्र॑ इ॒मय्ँ य॒ज्ञन्न॑य॒ताग्रे॑ य॒ज्ञप॑तिन्धत्त यु॒ष्मानिन्द्रो॑ऽवृणीत वृत्र॒तूर्ये॑ यू॒यमिन्द्र॑मवृणीध्वव्ँ वृत्र॒तूर्ये
 </details>
 
 <details><summary>मूलम्</summary>
 
 आपो॑ देवीरग्रेपुवो अग्रेगु॒वोऽग्र॑ इ॒मय्ँ य॒ज्ञन्न॑य॒त।
 अग्रे॑ य॒ज्ञप॑तिन् धत्त ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यु॒ष्मान् इन्द्रो॑ ऽवृणीत +++(अपाम् अभि-प्रवृत्ते)+++ वृत्र॒-तूर्ये॑+++(=वधे)+++  ।  
+यू॒यम् इन्द्र॑म् अवृणीध्वव्ँ वृत्र॒-तूर्ये॑  ।
+</details>
+
+<details><summary>Keith</summary>
+
+You Indra chose for the contest with Vrtra, ye chose Indra for the contest with Vrtra.
+</details>
+
+<details><summary>मूलम्</summary>
+
 यु॒ष्मानिन्द्रो॑ऽवृणीत वृत्र॒तूर्ये॑  ।
 यू॒यमिन्द्र॑मवृणीध्वव्ँ वृत्र॒तूर्ये॑  ।
 </details>
@@ -332,7 +342,6 @@ ____
 <details><summary>Keith</summary>
 
 Thou art the plank' of wood, may the skin of Aditi recognize thee.
-
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -369,22 +378,32 @@ ____
 +++(हे पुरोडाशीयसमूह!)+++ अ॒ग्नेस् त॒नूर् अ॑सि  
 वा॒चो वि॒सर्ज॑नम् ।  
 +++(→य॒दा हि प्र॒जा ओष॑धीनाम् अ॒श्ञन्ति॑,  
-अथ॒ वाचव्ँ॒ विसृ॑जन्ते ।)+++  
-
-दे॒व-वी॑तये+++(=भोगाय)+++ त्वा गृह्णा॒मि ।  +++(दासीभारादित्वात् (पा.सू. 6.2.42) पूर्वपदप्रकृतिस्वरत्वम् ॥)+++
+अथ॒ वाचव्ँ॒ विसृ॑जन्ते ।)+++
 </details>
 
 <details><summary>Keith</summary>
 
 Thou art the body of Agni, loostener of speech.
-
-I grasp thee for the joy of the gods.
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेस्त॒नूर॑सि ।
 वा॒चो वि॒सर्ज॑नम्  +++(असि)+++  ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दे॒व-वी॑तये+++(=भोगाय)+++ त्वा गृह्णा॒मि ।  +++(दासीभारादित्वात् (पा.सू. 6.2.42) पूर्वपदप्रकृतिस्वरत्वम् ॥)+++
+</details>
+
+<details><summary>Keith</summary>
+
+I grasp thee for the joy of the gods.
+</details>
+
+<details><summary>मूलम्</summary>
+
 दे॒ववी॑तये त्वा गृह्णा॒मि ।
 </details>
 
@@ -411,20 +430,30 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(मुसल!)+++ अद्रि॑र् असि वानस्प॒त्यः ।  
-स इ॒दन् दे॒वेभ्यो॑ ह॒व्यँ सु॒शमि॑+++(=सु शाम्यतीति)+++  शमि॒ष्व+++(=शामय)+++ ।  
++++(मुसल!)+++ अद्रि॑र् असि वानस्प॒त्यः ।
 </details>
 
 <details><summary>Keith</summary>
 
 Thou art the stone of wood.
-
-Do thou with good labour elaborate this offering for the gods.
 </details>
 
 <details><summary>मूलम्</summary>
 
 अद्रि॑रसि वानस्प॒त्यः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स इ॒दन् दे॒वेभ्यो॑ ह॒व्यँ सु॒शमि॑+++(=सु शाम्यतीति)+++  शमि॒ष्व+++(=शामय)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Do thou with good labour elaborate this offering for the gods.
+</details>
+
+<details><summary>मूलम्</summary>
 
 स इ॒दन्दे॒वेभ्यो॑ ह॒व्यँ सु॒शमि॑ शमि॒ष्व  ।
 </details>

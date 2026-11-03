@@ -1,6 +1,5 @@
 +++
 title = "३१ सौर्यो अतिग्राह्यग्रहः (षोडशिग्रहः)"
-
 +++
 
 गायत्री। सोमऋषिः
@@ -11,17 +10,21 @@ _______
 1अथ सौर्यं गृह्णाति - तरणिरिति गायत्र्या ॥   
 केचिद् आहुर् - एकत्रिंशो ऽयम् अनुवाको ऽस्मिन् प्रदेशेध्येतव्य इति । अन्ये तु - यथाम्नातेनैव सौर्यो ऽतिग्राह्यो गृह्यते, नावश्यकम् अत्राध्ययनम् इत्य् आहुः ॥
 </details>
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/04_taraNirvishvadarshato_jyotiShkRdasi.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 तर᳓णिर् विश्व᳓-दर्श-तो  
 **ज्योतिष्-कृ᳓द् असि** सूर्य ।  
 वि᳓श्वम् **आ᳓ भासि** रोचन᳓म् ॥
 
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/04_taraNirvishvadarshato_jyotiShkRdasi.md">
-<details open><summary><h5>004 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -149,6 +152,11 @@ _________
 
 _________
 
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+सूर्य- आत्मन्। तरणिः- त्वं तारयिता। विश्वदर्शतः- विश्वस्य दर्शनीयः। दर्शनस्य  विद्यार्थत्त्वादध्येतव्य इति भावः। ज्योतिष्कृदसि- द्योतकोसि। विश्वम्- सर्वम्। रोचनम्- यथा  प्रकाशमानं भवति तथा। आभासि- समन्तात् प्रकाशयसि॥४॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -282,16 +290,17 @@ Für alle sichtbar, schnellen Laufs erzeugst du Licht, o Sonnengott, Den ganzen 
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा सूर्य व विद्युत आत बाहेर राहणाऱ्या सर्व स्थूल पदार्थांना प्रकाशित करतात तसेच ईश्वरही सर्व वस्तूंना प्रकाशित करतो. ॥ ४ ॥
 </details>
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य 'उपयामगृहीतोसि विश्वेभ्यस्त्वा देवेभ्यः' इति गृह्णाति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
@@ -317,8 +326,8 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑]
@@ -429,12 +438,12 @@ this is thy birthplace; to the All-gods thee!
 
 'वैश्वदेवो ह्येष देवतया' इति ब्राह्मणम् । 'आत्मा वा एष यज्ञस्य यदाग्रयणः' इत्यादि च ॥
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूर्या॑य त्वा॒ भ्राज॑स्वते ।
-
 </details>
 
 <details><summary>Keith</summary>
@@ -466,7 +475,6 @@ This is thy birthplace; to Surya the radiant thee!
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॒स्सूर्या॑य त्वा॒ भ्राज॑स्वते ॥ [32]   +++(सादनमन्त्रः)+++
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

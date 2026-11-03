@@ -93,18 +93,31 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"छिन᳓त्ति सा᳓ न᳓ छिनत्ती᳓३"ति ।   
-"छिन᳓त्ती᳓"ति होवाच ।  
+"छिन᳓त्ति सा᳓ न᳓ छिनत्ती᳓३"ति ।
 </details>
 
 <details><summary>Keith</summary>
 
-'Does she divide, or does she not divide' (he asked). 'She divides', he replied.
+'Does she divide, or does she not divide' (he asked).
 </details>
 
 <details><summary>मूलम्</summary>
 
-छि॒नत्ति॒ सा न छि॑न॒त्ती३ति॑ ।   
+छि॒नत्ति॒ सा न छि॑न॒त्ती३ति॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"छिन᳓त्ती᳓"ति होवाच ।
+</details>
+
+<details><summary>Keith</summary>
+
+'She divides', he replied.
+</details>
+
+<details><summary>मूलम्</summary>
+
 "छि॒नत्ती"ति॑ होवाच ।
 </details>
 
@@ -130,18 +143,31 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"श᳓रीरव्ँ वा᳓ अस्यै त᳓द् उ᳓पाह्वथा" इ᳓ति होवाच,  
-"गौ᳓र् वा᳓ [7] +अस्यै श᳓रीरम् ।"  
+"श᳓रीरव्ँ वा᳓ अस्यै त᳓द् उ᳓पाह्वथा" इ᳓ति होवाच,
 </details>
 
 <details><summary>Keith</summary>
 
-'Her body then hast thou invoked', he said. Her body is the cow [1]; 
+'Her body then hast thou invoked', he said.
 </details>
 
 <details><summary>मूलम्</summary>
 
-"शरी॑रव्ँ॒ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒" इति॑ होवाच॒,  
+"शरी॑रव्ँ॒ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒" इति॑ होवाच॒,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"गौ᳓र् वा᳓ [7] +अस्यै श᳓रीरम् ।"
+</details>
+
+<details><summary>Keith</summary>
+
+Her body is the cow [1];
+</details>
+
+<details><summary>मूलम्</summary>
+
 "गौर्वै [7] +अ॑स्यै॒ शरी॑रम् ।"
 </details>
 
@@ -644,7 +670,6 @@ The Ida is rain; in the step of rain people drink the ghee they live upon;
 
 वृष्टिः॑ । वै । इडा॑ ।   
 वृष्ट्यै॑ । वै । नि॒क्रम॑ण॒ इति॑ नि-क्रम॑णे । घृ॒तम् । प्र॒जा इति॑ प्र-जाः । स॒ञ्जीव॑न्ती॒रिति॑ सम्-जीव॑न्तीः । पि॒ब॒न्ति॒ ।   
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -691,5 +716,4 @@ he who knows thus is propagated with offspring; he becomes an eater of food.
 एवं वेदिता होता प्रकरणाद्वा यजमानः वृष्टिलाभेन प्रजावान् भवति अन्नस्य चात्ता ॥
 
 इति सप्तमे द्वितीयोनुवाकः ॥  
-
 </details>

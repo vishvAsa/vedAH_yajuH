@@ -1,6 +1,5 @@
 +++
 title = "४० षोडशिग्रहः"
-
 +++
 
 अनुष्टुप्
@@ -10,18 +9,18 @@ _______
 
 1तस्मिन्नेव तृतीयसवने गृह्णाति - असावित्यनुष्टुभा ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/01_asAvi_soma.md">
-<details open><summary><h5>०१ असावि सोम ...{Loading}...</h5></summary>
 
 **अ᳓सावि सो᳓म** इन्द्र ते,  
 श᳓विष्ठ धृष्णव्! **आ᳓ गहि+++(=गच्छ)+++** ।  
 आ᳓ त्वा **पृणक्त्व्**+++(=पूरयतु)+++ इन्द्रियं᳓+++(=वीर्यं)+++  
 र᳓जः सू᳓र्यो न᳓ रश्मि᳓भिः ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/01_asAvi_soma.md">
-<details open><summary><h5>001 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -214,6 +213,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+शविष्ठ- बलाधिदैवत। धृष्णो- शत्रुधर्षक। इन्द्र- परमेश्वर। ते- तुभ्यम्। सोमः- रसः। असावि-  निष्पादितः। आ गहि- आगच्छ। रजः- अन्तरिक्षम्। रश्मिभिः- किरणैः। सूर्यो न- सूर्य इव।  त्वा- त्वाम्। इन्द्रियम्- त्वच्छक्तिः। आ  पृणक्तु- आपूरयतु॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **ते** त्वदर्थं **सोमः** **असावि** अभिषुतोऽभूत् । हे **शविष्ठ** अतिशयेन बलवन् अत एव **धृष्णो** शत्रूणां धर्षयितरिन्द्र **आ** **गहि** देवयजनदेशमागच्छ । आगतं च त्वाम् **इन्द्रियं** सोमपानेनोत्पन्नं प्रभूतं सामर्थ्यम् **आ** **पृणक्तु** आपूरयतु । **रजः** अन्तरिक्षं **रश्मिभिः** किरणैः **सूर्यो** **न** । यथा सूर्यः पूरयति तद्वत् ॥ शविष्ठ । शवस्विञ्शब्दात् इष्टनि ‘ विन्मतोर्लुक्'।' टेः' इति टिलोपः । पादादित्वात् निघाताभावः । गहि । गमेर्लोटि: बहलं छन्दसि ' इति शपो लुक् ।' अनुदात्तोपदेश इत्यादिना अनुनासिकलोपः । तस्य ‘असिद्धवदत्रा भात्' इति असिद्धवत्त्वात् हेः लुगभावः ॥
@@ -331,13 +335,13 @@ Gepresst ist Soma, Indra, dir, o stärkster, kühner, komme her; Die Indrakraft 
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे, प्रजा, सेना, शाळा व सभा यांच्यात स्थित पुरुषांनी सूर्याप्रमाणे तेजस्वी पुरुषाला प्रजा, सेना शाळेत अध्यक्ष करून सर्व प्रकारे त्याचा सत्कार केला पाहिजे तसे सभ्य लोकांचाही आदर केला पाहिजे. ॥ १ ॥
 </details>
-</details>
+
 </div>  
 
 _______
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
-<details open><summary><h5>उपयाम-गृहीतः ...{Loading}...</h5></summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिन॑ ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥
@@ -347,8 +351,8 @@ _______
 
 (ग्रहणम्)
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
@@ -374,8 +378,8 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रा॑य त्वा षो॒ड॒शिने॑   +++(ग्रहणमन्त्रः)+++  ।
@@ -420,8 +424,9 @@ This is thy birthplace; to Indra of the Sodaśin thee!
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++
 </details>
-</details>
+
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2-3ग्रहणसादने समाने ॥

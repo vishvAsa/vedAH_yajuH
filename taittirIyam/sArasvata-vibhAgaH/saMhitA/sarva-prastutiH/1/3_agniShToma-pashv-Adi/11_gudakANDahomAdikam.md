@@ -309,13 +309,31 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(गुदावदानलेप!)+++ अ॒द्भ्यस् त्वौष॑धीभ्यः +++(निमार्ज्मि)+++।  
++++(गुदावदानलेप!)+++ अ॒द्भ्यस्
+</details>
+
+<details><summary>Keith</summary>
+
+To the waters thee!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्वौष॑धीभ्यः +++(निमार्ज्मि)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+To the plants thee!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मनो॑ मे॒ हार्दि॑ यच्छ ।
 </details>
 
 <details><summary>Keith</summary>
 
-To the waters thee! To the plants thee!  
 Give me mind and heart!
 </details>
 
@@ -330,7 +348,6 @@ Give me mind and heart!
 अ॒द्भ्य इत्य॑त्-भ्यः । त्वा॒ । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । 
 
 मनः॑ । मे॒ । हार्दि॑ । य॒च्छ॒ ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

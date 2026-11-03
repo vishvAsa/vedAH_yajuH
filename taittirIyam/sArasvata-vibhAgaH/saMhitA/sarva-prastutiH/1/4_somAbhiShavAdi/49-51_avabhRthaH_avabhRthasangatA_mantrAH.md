@@ -1,6 +1,5 @@
 +++
 title = "४९-५१ अवभृथः (अवभृथसङ्गता मन्त्राः)"
-
 +++
 
 १-४ त्रिष्टुप् । सोमऋषिः
@@ -10,18 +9,18 @@ _______
 
 1अवभृथार्थमन्तरेण चात्वालोत्कराव् उपनिष्क्रामति - उरुं हि राजेति त्रिष्टुभा ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/08_uruM_hi.md">
-<details open><summary><h5>०८ उरुं हि ...{Loading}...</h5></summary>
 
 उरुँ᳓ हि᳓ रा᳓जा व᳓रुणश् **चका᳓र**  
 सू᳓र्याय **प᳓न्थाम्** अ᳓न्व् एतवा᳓ उ ।  
 अप᳓दे पा᳓दा+++(नां)+++ प्र᳓ति-धातवे **ऽकर्**  
 उत᳓+ **अ᳓प वक्ता᳓ हृदया-वि᳓धश्** चित्  ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/024/08_uruM_hi.md">
-<details open><summary><h5>008 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -237,6 +236,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+राजा वरुणः। सूर्याय- आत्मसूर्यस्य। अन्वेतवै- अनुगमनाय। ऊरुम्- विस्तीर्णं। पन्थाम्-  पन्थानम्। चिदाकाशे कृतवान्। भास्करानुगत्यर्थं बाह्याकाशे पन्थानं कृतवानित्याधिभौतिकम्।  प्रकृतिनियतिदैवतत्वात्। अपदे- पादप्रक्षेपणानर्हे। मितिरहिते। अतिसूक्ष्मे चिदाकाशे। पादा  प्रतिधातवे- सञ्चाराय। अकः- सुखं शोभनं पन्थानं कृतवान्। उत- अपि च। हृदयाविधः-  हृदयताडनसमर्थशक्तीनां। व्यध ताडने। चित्- एव। अपवक्ता- निराकर्ता अभवत्॥८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वरुणः** **राजा** **सूर्याय** सूर्यस्य **पन्थां** मार्गम् **उरुं** विस्तीर्णं **चकार** । हिशब्दः प्रसिद्धौ । उत्तरायणदक्षिणायनॊमार्गस्य विस्तारः प्रसिद्धः । किमर्थमेवं कृतवान् इति तदुच्यते । **अन्वेतवा** **उ** अनुक्रमेण उदयास्तमयौ गन्तुमेव । तथा **अपदे** पादरहिते अन्तरिक्षे **पादा** **प्रतिधातवे** पादौ प्रक्षेप्तुम् **अकः** मार्गं कृतवान् । पूर्वत्र रथस्य मार्गः अत्र पादयोरिति विशेषः । यद्वा । अपदे यूपे बद्धेन मया गन्तुमशक्ये भूप्रदेशे पादौ प्रक्षेप्तुम् उपाय बन्धविमोचनरूपं करोत्वित्यर्थः । **उत** अपि च **हृदयाविधश्चित्** अस्मदीयवेधकस्ये शत्रोरपि **अपवक्ता** अपवदिता निराकर्ता भवतु ॥ चकार । लित्स्वरेण आकार उदात्तः । ‘हि च ' इति निघातप्रतिषेधः । पन्थाम् । 'पथिमथ्यृभुक्षामात् ' (पा. सू. ७. १. ८५) इति द्वितीयायामपि व्यत्ययेन आत्वम् । पथिन्शब्दस्य ‘पतेस्थ च' ( उ. सू. ४. ४५२ ) इति प्रत्ययान्तत्वेन अन्तोदात्तत्वे प्राप्ते ' पथिमथोः सर्वनामस्थाने ' ( पा. सू. ६. १. १९९) इत्याद्युदात्तत्वम् । अन्वेतवै। अनुपूर्वात् एतेः “ तुमर्थे सेसेन् ' इनि तवैप्रत्ययः । तवै चान्तश्च युगपत् ' (पा. सू. ६. २. ५१ ) इति आद्यन्तयोरुदात्तत्वम् । पादा।' सुपां सुलुक् ' इति आकारः । प्रतिधातवे । दधातेः **तुमर्थ** ' इति सूत्रेणैव तवेन्प्रत्ययः । ‘तादौ च निति° ' ( पा. सू. ६. २. ५० ) इति गतेः प्रकृतिस्वरत्वम् । अकः । करोतेः 'छन्दसि लुङ्लङलिटः' इति लोडर्थे लुङ्। तस्य तिप् । मन्त्रे घस' ( पा. सू. २. ४. ८०) इत्यादिना च्लेर्लुक् । गुणो रपरत्वम् । हल्ङ्याब्भ्यः ' (पा. सू. ६. १.६८) इति तिपो लोपः । अडागमः । हृदयाविधः । ‘हृञ् हरणे'। ‘वृहोः षुग्दुकौ च' ( उ. सू.४.५४०) इति कयन् ।' व्यध ताडने ' । क्विप् ।' नहिवृति' (पा. सू. ६. ३. ११६ ) इत्यादिना पूर्वपदस्य दीर्घत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
@@ -318,12 +322,12 @@ Denn weite Bahn schuf Varuna, der König, dort für die Sonne, dass sie ihn durc
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (चित्) जैसे (अपवक्ता) मिथ्यावादी छली दुष्ट स्वभावयुक्त पराये पदार्थ (हृदयाविधः) अन्याय से परपीड़ा करनेहारे शत्रु को दृढ़ बन्धनों से वश में रखते हैं, वैसे जो (वरुणः) (राजा) अतिश्रेष्ठ और प्रकाशमान परमेश्वर वा श्रेष्ठता और प्रकाश का हेतु वायु (सूर्याय) सूर्य के (अन्वेतवै) गमनागमन के लिये (उरुम्) विस्तारयुक्त (पन्थाम्) मार्ग को (चकार) सिद्ध करते (उत) और (अपदे) जिसके कुछ भी चाक्षुष चिह्न नहीं है, उस अन्तरिक्ष में (प्रतिधातवे) धारण करने के लिये सूर्य के (पादा) जिनसे जाना-आना बने, उन गमन और आगमन गुणों को (अकः) सिद्ध करते हैं (उ) और जो परमात्मा सब का धर्त्ता (हि) और वायु इस काम के सिद्ध कराने का हेतु है, उसकी सब मनुष्य उपासना और प्राण का उपयोग क्यों न करें॥८॥
+पदार्थान्वयभाषाः -  (चित्) जैसे (अपवक्ता) मिथ्यावादी छली दुष्ट स्वभावयुक्त पराये पदार्थ (हृदयाविधः) अन्याय से परपीड़ा करनेहारे शत्रु को दृढ़ बन्धनों से वश में रखते हैं, वैसे जो (वरुणः) (राजा) अतिश्रेष्ठ और प्रकाशमान परमेश्वर वा श्रेष्ठता और प्रकाश का हेतु वायु (सूर्याय) सूर्य के (अन्वेतवै) गमनागमन के लिये (उरुम्) विस्तारयुक्त (पन्थाम्) मार्ग को (चकार) सिद्ध करते (उत) और (अपदे) जिसके कुछ भी चाक्षुष चिह्न नहीं है, उस अन्तरिक्ष में (प्रतिधातवे) धारण करने के लिये सूर्य के (पादा) जिनसे जाना-आना बने, उन गमन और आगमन गुणों को (अकः) सिद्ध करते हैं (उ) और जो परमात्मा सब का धर्त्ता (हि) और वायु इस काम के सिद्ध कराने का हेतु है, उसकी सब मनुष्य उपासना और प्राण का उपयोग क्यों न करें॥८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में श्लेष और उपमालङ्कार हैं। जिस परमेश्वर ने निश्चय के साथ जिस सब से बड़े सूर्यलोक के लिये बड़ी-सी कक्षा अर्थात् उसके घूमने का मार्ग बनाया है, जो इसको वायुरूपी ईंधन से प्रदीप्त करता और जो सब लोक अन्तरिक्ष में अपनी-अपनी परिधियुक्त हैं कि किसी लोक का किसी लोकान्तर के साथ संग नहीं है, किन्तु सब अन्तरिक्ष में ठहरे हुए अपनी-अपनी परिधि पर चारों और घूमा करते हैं और जो आपस में जिस ईश्वर और वायु के आकर्षण और धारणशक्ति से अपनी-अपनी परिधि को छोड़कर इधर-उधर चलने को समर्थ नहीं हो सकते तथा जिस परमेश्वर और वायु के विना अन्य कोई भी इनका धारण करनेवाला नहीं है, जैसे परमेश्वर मिथ्यावादी अधर्म करनेवाले से पृथक् है, वैसे प्राण भी हृदय के विदीर्ण करनेवाले रोग से अलग है, उसकी उपासना वा कार्य्यों में योजना सब मनुष्य क्यों न करें॥८॥
+भावार्थभाषाः -  इस मन्त्र में श्लेष और उपमालङ्कार हैं। जिस परमेश्वर ने निश्चय के साथ जिस सब से बड़े सूर्यलोक के लिये बड़ी-सी कक्षा अर्थात् उसके घूमने का मार्ग बनाया है, जो इसको वायुरूपी ईंधन से प्रदीप्त करता और जो सब लोक अन्तरिक्ष में अपनी-अपनी परिधियुक्त हैं कि किसी लोक का किसी लोकान्तर के साथ संग नहीं है, किन्तु सब अन्तरिक्ष में ठहरे हुए अपनी-अपनी परिधि पर चारों और घूमा करते हैं और जो आपस में जिस ईश्वर और वायु के आकर्षण और धारणशक्ति से अपनी-अपनी परिधि को छोड़कर इधर-उधर चलने को समर्थ नहीं हो सकते तथा जिस परमेश्वर और वायु के विना अन्य कोई भी इनका धारण करनेवाला नहीं है, जैसे परमेश्वर मिथ्यावादी अधर्म करनेवाले से पृथक् है, वैसे प्राण भी हृदय के विदीर्ण करनेवाले रोग से अलग है, उसकी उपासना वा कार्य्यों में योजना सब मनुष्य क्यों न करें॥८॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
@@ -350,7 +354,7 @@ Denn weite Bahn schuf Varuna, der König, dort für die Sonne, dass sie ihn durc
 
 भावार्थभाषाः -  या मंत्रात श्लेष व उपमालंकार आहेत. ज्या परमेश्वराने मोठ्या सूर्यलोकासाठी मोठी कक्षा अर्थात त्याचा फिरण्याचा मार्ग बनविलेला आहे. त्याला तो वायुरूपी इंधनाने प्रदीप्त करतो व जे गोल अंतरिक्षात आपापल्या परिधीत असतात त्यांची कोणत्याही दुसऱ्या गोलाबरोबर संगती नसते. ते सर्व अंतरिक्षात असून आपापल्या परिधीमध्ये भ्रमण करतात. ईश्वर व वायूच्या आकर्षण धारणशक्तीने इकडे तिकडे जाऊ शकत नाहीत. परमेश्वर व वायूशिवाय त्यांना इतर कोणी धारण करणारे नाहीत. परमेश्वर जसा मिथ्यावादी अधार्मिक असणाऱ्यांपासून पृथक आहे तसा प्राणही हृदयाला विदीर्ण करणाऱ्या रोगांपासून वेगळा आहे. त्यासाठी परमेश्वराची उपासना किंवा प्राण यांचे कार्यामध्ये संप्रयोजन का करू नये? ॥ ८ ॥
 </details>
-</details>
+
 </div>  
 
 _______
@@ -358,15 +362,14 @@ _______
 
 2अपो दृष्ट्वा यजमानं वाचयति - शतं ते राजन्निति त्रिष्टुभम् ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/09_shataM_te.md">
-<details open><summary><h5>०९ शतं ते ...{Loading}...</h5></summary>
 
 +++(शतभिषङ्-नक्षत्रम् अनु)+++ शतं᳓ ते राजन् भिष᳓जः सह᳓स्रम्  
 उर्वी᳓ गभीरा᳓ सुमति᳓ष् टे अस्तु ।  
 **बा᳓धस्व** दूरे᳓ **नि᳓रृतिं** पराचैः᳓  
 कृतं᳓ चिद् **ए᳓नः प्र᳓ मुमुग्ध्य्** अस्म᳓त् ॥
 
-</details>
 </div>  
 
 _______
@@ -400,16 +403,21 @@ _______
 
 4अप्सु बर्हिः प्रास्यति - अग्नेरनीकमिति त्रिपदया विराजा ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/02_agner_anIkam.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अग्नेर् अनी॑कम् **अ॒प आ वि॑वेश** ।  
 अपा॑न्नपात्! प्रति॒-रक्ष॑न्न् +++(वरुणस्य)+++ असु॒र्य॑न्+++(=असुरस्वं)+++ ....    
 दमे॑+++(=यज्ञागारे)+++-दमे [49] **स॒मिधय्ँ॑ यक्ष्य्** अग्ने  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/02_agner_anIkam.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 The face of Agni hath entered the waters,  
@@ -431,6 +439,7 @@ In each home [1] do thou offer the kindling-stick, O Agni;
 **अग्नेस्** तवानीकं सुखं **अपः** अब्रूपं आविवेश । तस्माद् **असुर्यं** असुरस्य स्वं असुरैः क्रियमाणं यज्ञविघातं **प्रतिरक्षन्** प्रतिनिवारयन् तत्प्रतिनोदेनास्मान् रक्षन् **दमेदमे** यज्ञगृहेयज्ञगृहे यागेयाग इत्यर्थः । समिधं समित्स्थानीयं तव समिन्धनं इदं बार्हिः हे अग्ने यक्षि स्वीकुरु तेन सङ्गतो भव । सङ्गतिकरणे यजिः, लेटि 'बहुलं च्छन्दसि' इति शपो लुक् ॥
 </details>
 </details>
+
 </div>
 
 _______
@@ -516,15 +525,20 @@ _______
 
 8ता अप्सु जुहोति - यज्ञस्येति द्विपदया त्रिष्टुभा ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/03_yajnasya_tvA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 य॒ज्ञस्य॑ त्वा यज्ञपते ह॒विर्भिः॑  
 सूक्तवा॒के न॑मोवा॒के वि॑धे॒म ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/03_yajnasya_tvA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 With the offerings of the sacrifice, O lord of the sacrifice,  
@@ -542,6 +556,7 @@ Let us worship at the utterance of the hymn, at the utterance of homage.
 हे यज्ञपते यजमान यज्ञस्य सूक्तवाके सूक्तवाकप्रतिष्ठे फले नमोवाके नमोवाकप्रतिष्ठे फले त्वां विधेम स्थापयामः । स्थापनकर्मात्र विदधातिः । हविर्भिराभिरद्बिः अप्सु हूयमानाभिः विधेमेति ॥
 </details>
 </details>
+
 </div>
 
 _______
@@ -578,16 +593,21 @@ O bath, O flood, thou glidest
 
 **निचेरुर् असि** निभृतं चरसीति, निभृतं वा चरत्य् अस्मिन्नित्यौणादिके उप्रत्यये छान्दसमेत्वम् । अत्वरं क्रियमाणोसीत्यर्थः, निगूढचरद्रव्याभिप्रायं वा ।  
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/04_nichankuNa_ava.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 नि॒च॒ङ्कु॒ण! **+अव॑** दे॒वैर्  
 दे॒व-कृ॑त॒म् **एनो॑ ऽया॒ड्**+++(←[अव]यज् = विनाशयेः)+++  
 **अव॒** मर्त्यै॒र् मर्त्य॑-कृतम् ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/04_nichankuNa_ava.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 O flood; thou hast removed by sacrifice the sin committed by the gods, through the gods, the sin committed by mortals, through mortals;
@@ -605,7 +625,9 @@ O flood; thou hast removed by sacrifice the sin committed by the gods, through t
 तिरोहितद्रव्याभिप्रायम् । यद्वा - कण निमीलने, छान्दसमुत्वम् । कण गतौ वा । यन्नाम किञ्चिद्देवकृतं देवेषु कृतमस्माभिरेनः पापं सम्यगनुष्ठानाभावनिमित्तम् । सप्तमीपूर्वपदप्रकृतिस्वरत्वम् । तत्सर्वं देवैस्सह **अवायाट्** अवाक्षीः अवयज विनाशयेत्यर्थः । अवयजिर्विनाशे वर्तते । यच्च मर्त्यकृतं मर्त्येष्पु कृतं पापम् । पूर्ववत्स्वरः । तच्च मर्त्यैस्सहावयज । यजेश्छान्दसे लुङि सिचिवृद्धौ 'बहुळं छन्दसि' इति तदभावः ।
 </details>
 </details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒रोर् आ नो॑ देव रि॒षस्+++(←रिष् हिंसायां)+++ पा॑हि ।
@@ -684,16 +706,21 @@ _______
 
 12ऋजीषम् अप्सु प्लावयति - देवीराप इति ॥
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/05_devIr_Apa.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 देवी॑र् आप **ए॒ष वो॒ गर्भ॒स्** -  
 तव्ँ व॒स् सुप्री॑तँ॒ **सुभृ॑तम् अकर्म**।  
 दे॒वेषु॑ नस् **सु॒कृतो॑ ब्रूतात्** ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/05_devIr_Apa.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Ye divine waters, this is thy foetus, glad and well tended have we made it for you; proclaim us as doers of good deeds among the gods.
@@ -709,6 +736,7 @@ Ye divine waters, this is thy foetus, glad and well tended have we made it for y
 हे देवीः देव्यः पः । पूर्ववद्दीर्घः, 'विभाषितं विशेषवचने बहुवचनम्' इति प्रथमस्याविद्यमानवत्त्वनिषेधाद्द्वितीयं निहन्यते । एष ऋजीषाख्यो वो युष्माकं गर्भः युष्मत्प्रभवः । अतस्तं वः युष्मदर्थं सुप्रीतं युष्माकं सर्वलोकस्य अतिशयेन प्रीतिकरं सुभृतं सुष्ठु गुप्तं च अकर्म कृतवन्तो वयम् । 'मन्त्रे घस' इति च्लेर्लुक्, 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । अतोस्मानपि यूयं देवेषु सुकृतस्स्ष्ठुकर्म कृतवन्तो ब्रूतात् ब्रूत । 'तस्य तात्' इति तादादेशः ॥
 </details>
 </details>
+
 </div>
 
 _______
@@ -745,16 +773,16 @@ _______
 
 14प्रपथे समिधः कुर्वते - एधोसीति ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/03_edho-syedhiShImahi_svAhA.md">
-<details open><summary><h5>०३ एधोऽस्येधिषीमहि स्वाहा ...{Loading}...</h5></summary>
 
-+++(हे समित्, अग्नेर्)+++ एधो॑+++(←इन्धी दीप्तौ)+++ ऽस्य्,  
-एधिषी॒महि॒ स्वाहा॑ ।  
++++(हे समित्, अग्नेर्)+++ ए᳓धो+++(←इन्धी दीप्तौ)+++ ऽस्य्,  
+एधिषीम᳓हि स्वा᳓हा ।  
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/03_edho-syedhiShImahi_svAhA.md">
-<details open><summary><h5>०३ एधोऽस्येधिषीमहि स्वाहा ...{Loading}...</h5></summary>
+
 <details><summary>Keith</summary>
 
 Thou art fuel; may we prosper;
@@ -774,7 +802,7 @@ Thou art fuel; may we prosper;
 
 हे समित् एधोसि एधनी वर्धनी त्वमस्यग्नेः । अतस्तादृश्या त्वया वयमपि एधिषीमहि वृद्धिं प्राप्नुयामः । यद्वा - तादृश्या त्वया अग्निं वर्धयेम ॥
 </details>
-</details>
+
 </div>  
 
 _______
@@ -787,16 +815,16 @@ _______
 
 स॒मिद॑सि॒ तेजो॑ऽसि॒ तेजो॒ मयि॑ धेहि 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/04_samidasi_samedhiShImahi.md">
-<details open><summary><h5>०४ समिदसि समेधिषीमहि ...{Loading}...</h5></summary>
 
-स॒मिद् अ॑सि,  
-समेधिषी॒महि॒ +++(अग्निं)+++ स्वाहा॑ ।  
+समि᳓द् असि,  
+समेधिषीम᳓हि +++(अग्निं)+++ स्वा᳓हा ।  
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/04_samidasi_samedhiShImahi.md">
-<details open><summary><h5>०४ समिदसि समेधिषीमहि ...{Loading}...</h5></summary>
+
 <details><summary>Keith</summary>
 
 thou art kindling; (may we prosper;)
@@ -816,18 +844,18 @@ thou art kindling; (may we prosper;)
 
 समित्समिन्धनी सन्दीपनी त्वमग्नेरसि । 
 </details>
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/05_tejosi_tejo.md">
-<details open><summary><h5>०५ तेजोसि तेजो ...{Loading}...</h5></summary>
 
-तेजो॑सि॒,  
-तेजो॒ मयि॑ धेहि॒ स्वाहा॑ ।+++(५)+++ 
+ते᳓जो ऽसि,  
+ते᳓जो म᳓यि धेहि स्वा᳓हा ।+++(५)+++ 
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/05_tejosi_tejo.md">
-<details open><summary><h5>०५ तेजोसि तेजो ...{Loading}...</h5></summary>
+
 <details><summary>Keith</summary>
 
  thou art brilliance, grant me brilliance.
@@ -847,7 +875,7 @@ _______
 
 तस्मात्तेजोसि तेजस्साधनमग्नेरसि । तादृशी सा त्वम्मय्यपि तेजो धेहि स्थापय ॥
 </details>
-</details>
+
 </div>  
 
 _______
@@ -855,18 +883,18 @@ _______
 
 16आहवनीयमुपतिष्ठते - अप इत्यनुष्टुभा ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/06_apo_adyAnvachAriSham.md">
-<details open><summary><h5>०६ अपो अद्यान्वचारिषम् ...{Loading}...</h5></summary>
 
-**अपो॑**+++(=कर्म)+++ अ॒द्य +**अन्व॑चारिषँ॒**  
-+++(श्रद्धा)+++**रसे॑न॒ सम॑सृक्ष्महि**+++(=संसृष्टो भवेयम्। समगन्महीति शाकले)+++ ।  
-पय॑स्वाँ+++(→हविष्मान्)+++ अग्न॒ आग॑म॒न्  
-तं मा॒ सँसृ॑ज॒ वर्च॑सा॒ स्वाहा॑ ।  
+**अ᳓पो**+++(=कर्म)+++ अद्य᳓ +**अ᳓न्वचारिषँ**  
++++(श्रद्धा)+++**र᳓सेन स᳓मसृक्ष्महि**+++(=संसृष्टो भवेयम्। समगन्महीति शाकले)+++ ।  
+प᳓यस्वाँ+++(→हविष्मान्)+++ अग्न आ᳓गमन्  
+तं᳓ मा सँ᳓सृज व᳓र्चसा स्वा᳓हा ।  
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/06_apo_adyAnvachAriSham.md">
-<details open><summary><h5>०६ अपो अद्यान्वचारिषम् ...{Loading}...</h5></summary>
+
 <details><summary>Keith</summary>
 
 I have penetrated to the waters;  
@@ -892,7 +920,7 @@ Do thou unite me with radiance.
 ___________
 व्याख्याता चेयं 'उरुं हि' इत्यत्र । अपः कर्माण्यनुक्रमेण करोमि । रसेन संसृष्टो भूयासम् । हे अग्ने पयस्वान् हविष्मान् त्वामागमं तम्मा वर्चसा बलेन संसृजेति ॥
 </details>
-</details>
+
 </div>  
 
 इति चतुर्थे एकोनचत्वारिंशोनुवाकः॥

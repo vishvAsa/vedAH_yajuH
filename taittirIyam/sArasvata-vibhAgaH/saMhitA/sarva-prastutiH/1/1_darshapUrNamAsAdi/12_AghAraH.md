@@ -12,18 +12,32 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भुव॑नम् +++(→यज्ञः)+++ असि। +++(प्र॒जया॑ प॒शुभि॑ᳶ)+++ वि प्र॑थ॒स्वाग्ने॒ यष्ट॑र्, इ॒दन् नमः॑ ।
+भुव॑नम् +++(→यज्ञः)+++ असि।
 </details>
 
 <details><summary>Keith</summary>
 
-Thou art the world, be extended.  
+Thou art the world, be extended.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भुव॑नमसि॒
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(प्र॒जया॑ प॒शुभि॑ᳶ)+++ वि प्र॑थ॒स्वाग्ने॒ यष्ट॑र्, इ॒दन् नमः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
 O Agni, sacrificer, this reverence.
 </details>
 
 <details><summary>मूलम्</summary>
 
-भुव॑नमसि॒ वि प्र॑थ॒स्वाग्ने॒ यष्ट॑रि॒दन्नमः॑ ।
+वि प्र॑थ॒स्वाग्ने॒ यष्ट॑रि॒दन्नमः॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,19 +188,31 @@ Be ye parted,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मा॒ सन्ता॑प्तम् ।  
-लो॒कम् मे॑ +++(हे)+++ लोककृतौ +++( वां)+++ कृणुतम् ।   
+मा मा॒ सन्ता॑प्तम् ।
 </details>
 
 <details><summary>Keith</summary>
 
-consume me not.    
+consume me not.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मा मा॒ सन्ता॑प्तम् ...
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+लो॒कम् मे॑ +++(हे)+++ लोककृतौ +++( वां)+++ कृणुतम् ।
+</details>
+
+<details><summary>Keith</summary>
+
 Make ye a place for me, ye place-makers.
 </details>
 
 <details><summary>मूलम्</summary>
 
-मा मा॒ सन्ता॑प्तम् ...  
 लो॒कम्मे॑ लोककृतौ कृणुतम् ।
 </details>
 
@@ -408,7 +434,6 @@ be light united with light.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9जुह्वा ध्रुवां समनक्ति - मखस्येति ॥ निर्वर्तिताघारा जुहूरभिमन्त्र्यते । हे जुहु मखस्य यज्ञस्य शिरः शिर इव उत्तमाङ्गमसि । तस्मात्तव ज्योतिषा घृतेन इदं ध्रौवं ज्योतिर्घृतं समङ्क्तां संगच्छताम् । व्यत्ययेनात्मनेपदम् । 'शिरो वा एतद्यज्ञस्य । यदाघारः' (तै.ब्रा. 3.3.7) इति ब्राह्मणम् ॥
-
 </details>
 
 इति द्वादशोनुवाकः  

@@ -1,7 +1,6 @@
 +++
 title = "०४ सोमक्रयणी-संस्कारादिकम्"
 short_title = "०४"
-
 +++
 ०४ सोमक्रयणी-संस्कारादिकम्  
 ५ अनुष्टुप् । सोमऋषिः
@@ -22,27 +21,68 @@ ________
 इति।
 </details>
 
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-+++(स्रुग्)+++ इ॒यन् ते॑ +++(हे)+++ शुक्र+++(=शुद्ध [हिरण्य])+++ त॒नूः , इ॒दव्ँ वर्चः॑, तया॒ सम्भ॑व ।  
-भ्राज॑ङ् गच्छ ।
-</details>
-
-<details><summary>Keith</summary>
-
-This is thy body, O pure one. This is thy splendour. With it be united.  
-Win brightness.
-</details>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इ॒यन्ते॑ शुक्र त॒नूरि॒दव्ँवर्च॒स्तया॒ सम्भ॑व॒ भ्राज॑ङ्गच्छ
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(स्रुग्)+++ इ॒यन् ते॑ +++(हे)+++ शुक्र+++(=शुद्ध [हिरण्य])+++ त॒नूः ,
+</details>
+
+<details><summary>Keith</summary>
+
+This is thy body, O pure one.
+</details>
+
 <details><summary>मूलम्</summary>
 
-इ॒यन्ते॑ शुक्र त॒नूः , इ॒दव्ँवर्चः॑, तया॒ सम्भ॑व ।  
+इ॒यन्ते॑ शुक्र त॒नूः ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ॒दव्ँ वर्चः॑,
+</details>
+
+<details><summary>Keith</summary>
+
+This is thy splendour.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒दव्ँवर्चः॑,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तया॒ सम्भ॑व ।
+</details>
+
+<details><summary>Keith</summary>
+
+With it be united.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तया॒ सम्भ॑व ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भ्राज॑ङ् गच्छ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Win brightness.
+</details>
+
+<details><summary>मूलम्</summary>
+
 भ्राज॑ङ्गच्छ ।
 </details>
 
@@ -126,9 +166,30 @@ ________
 इति।
 </details>
 
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+जूर॑सि धृ॒ता मन॑सा॒ जुष्टा॒ विष्ण॑वे॒ तस्या॑स्ते स॒त्यस॑वसᳶ प्रस॒वे वा॒चो य॒न्त्रम॑शीय॒ स्वाहा॑
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जूर्+++(=गन्त्री [सोमक्रयणि वाग्-रूपे गौः])+++ अ॑सि, धृ॒ता मन॑सा, जुष्टा॒ विष्ण॑वे,   
+जूर्+++(=गन्त्री [सोमक्रयणि वाग्-रूपे गौः])+++ अ॑सि, धृ॒ता मन॑सा, जुष्टा॒ विष्ण॑वे,
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the strong, grasped by mind, acceptable to Visnu.
+</details>
+
+<details><summary>मूलम्</summary>
+
+जूर॑सि ।  
+धृ॒ता मन॑सा +++( असि)+++ ..
+जुष्टा॒ विष्ण॑वे ....
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 +++(सोमक्रयोपरकरणी-भूताऽपि)+++ तस्या॑स् ते स॒त्यस॑वसᳶ +++(सवितुः)+++ प्रस॒वे+++(=अनुज्ञाने)+++  
 वा॒चो य॒न्त्रम्+++(=यमनम्)+++ अ॑शीय॒+++(=प्राप्नुयाम्)+++  
 स्वाहा॑ ।
@@ -136,20 +197,11 @@ ________
 
 <details><summary>Keith</summary>
 
-Thou art the strong, grasped by mind, acceptable to Visnu.  
 In the impulse of thee, of true impulse, may I win a support for my speech. Hail!
-</details>
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-जूर॑सि धृ॒ता मन॑सा॒ जुष्टा॒ विष्ण॑वे॒ तस्या॑स्ते स॒त्यस॑वसᳶ प्रस॒वे वा॒चो य॒न्त्रम॑शीय॒ स्वाहा॑
 </details>
 
 <details><summary>मूलम्</summary>
 
-जूर॑सि ।  
-धृ॒ता मन॑सा +++( असि)+++ ..
-जुष्टा॒ विष्ण॑वे ....   
 तस्या॑स्ते स॒त्यस॑वसᳶ प्रस॒वे वा॒चो य॒न्त्रम॑शीय॒ स्वाहा॑ ।
 </details>
 
@@ -159,7 +211,6 @@ In the impulse of thee, of true impulse, may I win a support for my speech. Hail
 धृ॒ता । मन॑सा ।  
 जुष्टा॑ । विष्ण॑वे ।  
 तस्याः॑ । ते॒ । स॒त्यस॑वस॒ इति॑ स॒त्य-स॒व॒सः॒ । प्र॒स॒व इति॑ प्र-स॒वे । वा॒चः । य॒न्त्रम् । अ॒शी॒य॒ । स्वाहा॑ ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -172,7 +223,6 @@ In the impulse of thee, of true impulse, may I win a support for my speech. Hail
 </details>
 
 <details><summary>सायण-टीका</summary>
-
 
 हे सोम-क्रयणि वाग्-रूपा, त्वं जूर् वेग-युक्तासि मनसा नियमितासि यज्ञाय प्रियासि। तादृश्या अमोघ-प्रेरणायास् तव प्रेरणे सति मन्त्रोच्चाण-रूपाया वाचो यन्त्रं नियमम् अशीय प्राप्नुयाम्। इदम् आज्यं हुतम् अस्तु।
 
@@ -265,9 +315,9 @@ ________
 इति।
 </details>
 
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/04_somakrayaNI-saMskArAdikam/02_sUryasya_chakhShur.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 सूर्य॑स्य॒ चक्षु॒र् आ ऽरु॑हम्  
 अ॒ग्नेर् अ॒क्ष्णᳵ क॒नीनि॑काम्+++(=नेत्रगोलम्)+++ ।  
@@ -275,9 +325,12 @@ ________
 +++(हे सूर्य!)+++ यद् एत॑शेभि॒र्+++(=भ्राजमद्भिर् [अश्वैः])+++ ईय॑से॒  
 भ्राज॑मानो विप॒श्चिता॑ +++(ऋषिगणेन, तस्य ते मण्डलम् आरुहम्)+++।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/04_somakrayaNI-saMskArAdikam/02_sUryasya_chakhShur.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 I have mounted the eye of the sun.  
@@ -313,7 +366,21 @@ Blazing with the wise.
 कीदृशस्य सूर्यस्येत्याह - यत् यस्त्वम् । यच्छब्दात्परस्य सोः 'सुपां सुलुक्' इत्यादिना लुक् । चक्षुरपेक्षया [वा] नपुंसकत्वम् । यस्त्वं एतशेभिः शुक्लवर्णैरश्वैः ईयसे गच्छसि । ईङ् गतौ दैवादिकः । एतशब्दाल्लोमादित्वाच्छः, वृषादित्वादाद्युदात्तत्वम् । यद्वा - 'एतेरतशतसुनौ' इति तसुन्प्रत्ययः । गमनकुशलाः । यद्वा - एतशरीरा एतशाः । पृषोदरादित्वात् यथाभिमतस्वरूपस्वरसिद्धिः ।   
 पुनश्च विशेष्यते - विपश्चिता मेधाविना महर्षिगणेन भ्राजमानश्शोभमानः । सह वा तेन । यस्त्वमीयसे तस्य ते मण्डलमारुहम्, इति ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+सूर्य-संबन्धि मदीयं चक्षुर् इन्द्रियं, कनीनिका त्व् अग्नि-संबन्धिनी, तद् उभयम् आरुहं प्राप्तो ऽस्मि। यतो हे सूर्य, त्वम् एतश-नामकैर् अश्वैर् गच्छसि, हे वह्ने, त्वं विपश्चिता तेजसा भ्राजमानो ऽसि तस्माद् रक्षो-निवारणाय युवाम् उभौ प्राप्तो ऽस्मि।
+
+एतद् अभिप्रायं दर्शयति —
+
+> "काण्डे-काण्डे वै क्रियमाणे यज्ञं रक्षांसि जिघांसन्त्य् एष खलु वा अरक्षो-हतः पन्था यो ऽग्नेश् च सूर्यस्य च 'सूर्यस्य चक्षुर् आरुहम् अग्नेर् अक्ष्णः कनीनिकाम्' इत्य् आह य एव आरक्षो-हतः पन्थस् तं समारोहति" (सं. का. ६ प्र. १ अ. ७) 
+
+इति।
+
+काण्डे-काण्डे तत्तद्-उपाङ्ग-युक्त एकैकस्मिन् यज्ञाङ्गे।
 </details>
+</details>
+
 </div>
 
 ________
@@ -525,25 +592,39 @@ May Pusan guard the ways.
 अपिच – पूषा त्वामध्वनो मार्गान्मार्गस्थाद्भयहेतोः पातु ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-इन्द्रा॒याध्य॑क्षा॒यानु॑ त्वा मा॒ता म॑न्यताम्, अनु॑+++(मन्यताम्)+++ पि॒ता, अनु॒+++(मन्यताम्)+++ भ्राता॒ सग॑र्भ्यः, अनु॒ +++(मन्यतां)+++ सखा॒ सयू॑थ्यः।  
-</details>
-
-<details><summary>Keith</summary>
-
-For Indra, the overseer!  
-May thy mother approve thee, thy father, thy brother sprung of the same womb, thy friend in the herd.
-</details>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्रा॒याध्य॑क्षा॒यानु॑ त्वा मा॒ता म॑न्यता॒मनु॑ पि॒ताऽनु॒ भ्राता॒ सग॒र्भ्योऽनु॒ सखा॒ सयू॑थ्यः॒
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द्रा॒याध्य॑क्षा॒यानु॑
+</details>
+
+<details><summary>Keith</summary>
+
+For Indra, the overseer!
+</details>
+
 <details><summary>मूलम्</summary>
 
-इन्द्रा॒याध्य॑क्षा॒यानु॑ त्वा मा॒ता म॑न्यताम् ।  
+इन्द्रा॒याध्य॑क्षा॒यानु॑
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्वा मा॒ता म॑न्यताम्, अनु॑+++(मन्यताम्)+++ पि॒ता, अनु॒+++(मन्यताम्)+++ भ्राता॒ सग॑र्भ्यः, अनु॒ +++(मन्यतां)+++ सखा॒ सयू॑थ्यः।
+</details>
+
+<details><summary>Keith</summary>
+
+May thy mother approve thee, thy father, thy brother sprung of the same womb, thy friend in the herd.
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्वा मा॒ता म॑न्यताम् ।  
 अनु॑  +++(मन्यतां)+++  पि॒ता ।  
 अनु॒  +++(मन्यतां)+++  भ्राता॒ सग॑र्भ्यः ।  
 अनु॒  +++(मन्यतां)+++ सखा॒ सयू॑थ्यः।
@@ -653,7 +734,6 @@ Hail! Return with Soma as thy comrade, with wealth.
 
 हे सोमक्रयणि त्वं च स्वस्ति अविघ्नेन पुनरेव सोमविक्रयिणस्सकाशात् अस्मत्सकाशमेह्यागच्छ ।  
 कीदृशी भूत्वा? सोमसखा भूत्वा, सोमस्सखा यस्यास्तादृशी भूत्वा, सोमेन सख्या सहागच्छेत्यर्थः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । अत एव टजभावः । अपिच – रय्या धनेनास्मदीयेन सहागच्छ । 'उदात्तयणो हल्पूर्वात् इति विभक्तेरुदात्तत्वम् । 'वाचा वा एष वि क्रीणीते' इत्यादि ब्राह्मणम्॥
-
 </details>
 इति द्वितीये चतुर्थोनुवाकः
 

@@ -7,20 +7,33 @@ title = "१८ दशपेय-ब्राह्मणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सद्यो᳓ दीक्षयन्ति ।   
-सद्य᳓स् सो᳓मङ् क्रीणन्ति ।  
-पुण्डरि-स्रजा᳓म् प्र᳓यच्छति ।  
+सद्य᳓स् सो᳓मङ् क्रीणन्ति ।
 </details>
 
 <details><summary>Keith</summary>
 
-On the same day they consecrate, on the same day they buy the Soma. He presents a lotus wreath. 
+On the same day they consecrate, on the same day they buy the Soma.
 </details>
 
 <details><summary>मूलम्</summary>
 
 स॒द्यो दी॑क्षयन्ति ।   
-स॒द्यस्सोम॑ङ्क्रीणन्ति ।  
-पु॒ण्ड॒रि॒स्र॒जाम्प्र य॑च्छति ।  
+स॒द्यस्सोम॑ङ्क्रीणन्ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुण्डरि-स्रजा᳓म् प्र᳓यच्छति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He presents a lotus wreath.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पु॒ण्ड॒रि॒स्र॒जाम्प्र य॑च्छति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -260,7 +273,6 @@ twelve heifers to the Brahman,
 <details><summary>भट्टभास्कर-टीका</summary>
 
 द्वादशेति । चतुर्वर्षास्स्त्रीगवीः । पष्ठं वहन्तीति 'वहेश्च' इति ण्विः, 'वाहः' इति ङीष्, 'वाह ऊठ्' 'एत्येधत्यूठ्सु' इति वृद्धिः । द्वौ च दश च द्वादश । 'अष्टनस्सङ्ख्यायाम्' इत्यात्वम्, 'सङ्ख्या' इति पूर्वपदप्रकृतिस्वरत्वम् ।
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

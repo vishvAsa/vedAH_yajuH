@@ -14,14 +14,13 @@ title = "१५ रथेन दिग्विजयार्थं मन्�
 1रथमुपावहरति - इन्द्रस्येति ॥ व्याख्यातम् ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si.md">
-<details open><summary><h5>इन्द्र॑स्य॒ वज्रो॑ऽसि॒ ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si.md">
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
-<details open><summary><h10>इन्द्र॑स्य॒ वज्रो॑ऽसि॒ ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ᳓न्द्रस्य व᳓ज्रोऽसि,  
-वा᳓र्त्रघ्नः ।
+इन्द्र॑स्य॒ वज्रो॑ऽसि॒,  
+वार्त्र॑घ्नः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -50,12 +49,11 @@ ______________
 यो वृत्रं हतवान् तस्येन्द्रस्य वज्रो वृत्रवधसाधनभूतो रथमसि ॥
 
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्व᳓या ऽयव्ँ᳓ वृत्रव्ँ᳓ वध्यात्  ॥
+त्वया॒ ऽयव्ँ वृ॒त्रव्ँ व॑ध्यात्  ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -81,7 +79,7 @@ with thee may he slay his foe.
 ______________
 तस्मात्तादृशेन **त्वयाऽयं** यजमानो **वृत्रं वध्याद्** इति ॥
 </details>
-</details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -121,8 +119,8 @@ By the precept of Mitra and Varuna, the directors, I yoke thee with the yoking o
 3-5रथमभिप्रैति - विष्णोरित्यादि ॥ व्याख्यातम् ॥  
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md">
-<details open><summary><h5>विष्णोः क्रमः ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md">
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विष्णो॒ᳵ क्रमो॑ऽसि॒ विष्णोः॑ क्रा॒न्तम॑सि॒  विष्णो॒र्विक्रा॑न्तमसि ।
@@ -180,7 +178,7 @@ thou art the step of Visnu,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि᳓ष्णोर्वि᳓क्रान्तमसि ।
+वि᳓ष्णोर् वि᳓क्रान्तमसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -202,7 +200,7 @@ thou art the stride of Visnu.
 
 विष्णोर्वीक्रान्तं विजयः, तदेव त्वमसि तद्वद्विजयसाधनत्वात् । पूर्ववद्गतिस्वरः ॥
 </details>
-</details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -242,18 +240,32 @@ On the instigation of the Maruts may I conquer.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**आप्त᳓म्** म᳓नः, **समह᳓म्** इन्द्रिये᳓ण वीर्ये᳙ण ।
+**आप्त᳓म्** म᳓नः,
 </details>
 
 <details><summary>Keith</summary>
 
-Be mind ready.  
+Be mind ready.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒प्तम्मनः॑,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**समह᳓म्** इन्द्रिये᳓ण वीर्ये᳙ण ।
+</details>
+
+<details><summary>Keith</summary>
+
 May I be united with power and strength.
 </details>
 
 <details><summary>मूलम्</summary>
 
-आ॒प्तम्मनः॑, सम॒हमि॑न्द्रि॒येण॑ वी॒र्ये॑ण ।
+सम॒हमि॑न्द्रि॒येण॑ वी॒र्ये॑ण ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -463,8 +475,8 @@ thou art the yoker; thou art radiance, bestow radiance upon me.
 14-17रथविमोचनीयं जुहोति - अग्नय इत्याद्याः ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/15_rathena_digvijayArthaM_mantrAH/agnaye_gRhapataye_svAhA.md">
-<details open><summary><h5>अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा॑ ।    ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/15_rathena_digvijayArthaM_mantrAH/agnaye_gRhapataye_svAhA.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्न᳓ये गृह᳓-पतये स्वा᳓हा ।   
@@ -489,26 +501,52 @@ To Agni, lord of the house, hail!
 
 अग्नये गृहाणां निवासाधाराणां पात्रे । 
 </details>
-</details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓माय व᳓नस्-प᳓तये स्वा᳓हा ।   
-इ᳓न्द्रस्य ब᳓लाय स्वा᳓हा ।  
-मरु᳓ताम् ओ᳓जसे स्वा᳓हा।   
+सो᳓माय व᳓नस्-प᳓तये स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
 
-To Soma, lord of the forest, hail! To Indra's strength hail! To the Maruts' force hail!  
+To Soma, lord of the forest, hail!
 </details>
 
 <details><summary>मूलम्</summary>
 
-सोमा॑य॒ वन॒स्पत॑ये॒ स्वाहा॑ ।   
-इन्द्र॑स्य॒ बला॑य॒ स्वाहा॑ ।  
-म॒रुता॒मोज॑से॒ स्वाहा॑।   
+सोमा॑य॒ वन॒स्पत॑ये॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ᳓न्द्रस्य ब᳓लाय स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Indra's strength hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्र॑स्य॒ बला॑य॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मरु᳓ताम् ओ᳓जसे स्वा᳓हा।
+</details>
+
+<details><summary>Keith</summary>
+
+To the Maruts' force hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+म॒रुता॒मोज॑से॒ स्वाहा॑।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -526,18 +564,17 @@ To Soma, lord of the forest, hail! To Indra's strength hail! To the Maruts' forc
 18रथवाहने रथमादधाति - हंस इत्यतिजगत्या ॥ 'अतिच्छन्दसा दधाति' इत्यादि ब्राह्मणम् । 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
-<details open><summary><h5>01 हंसश् शुचिषद् ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
 
 +++(अहं)+++ हँ॒सश् शु॑चि॒-षद्, वसु॑र् अन्तरिक्ष॒-सद्,  
 +होता॑ वेदि॒-षद्, अति॑थिर् दुरोण॒-सत् ।  
 नृ॒-षद्, व॑र॒-सद्, ऋ॑त॒-सद् व्यो॑म॒-सद्,  
 अ॒ब्-जा, गो॒-जा, ऋ॑त॒-जा, अ॑द्रि॒-जा, ऋ॒तं बृ॒हत् ॥
-</details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
-<details open><summary><h5>01 हंसश् शुचिषद् ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
+
 <details><summary>मूलम्</summary>
 
 हँ॒सश्शु॑चि॒षद्वसु॑रन्तरिक्ष॒सद्धोता॑ वेदि॒षदति॑थिर्दुरोण॒सत् ।  
@@ -566,5 +603,5 @@ Seated among men, seated in the highest, seated in holy order, seated in the fir
 
 इत्यष्टमे पञ्चदशोनुवाकः ॥
 </details>
-</details>
+
 </div>

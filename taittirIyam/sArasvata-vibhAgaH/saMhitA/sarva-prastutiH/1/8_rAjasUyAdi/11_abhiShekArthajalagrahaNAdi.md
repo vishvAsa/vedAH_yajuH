@@ -64,21 +64,29 @@ Ye are active,
 मन्त्रार्थस्तु - अर्थेतस्स्थ हे आपः अर्थमरणीयं स्थानान्तरं यन्ति गच्छन्तीति अर्थेतः । एतेः क्विप् ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
 ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
 या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
 या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
 
-</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -94,13 +102,11 @@ Whereby they led Indra beyond his foes.
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राष्ट्रदा᳓स्स्थ  
-राष्ट्र᳓न्दत्त स्वा᳓हा॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
@@ -123,31 +129,6 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-राष्ट्रदा᳓स्स्थ - राष्ट्र᳓म् अमु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Ye are givers of the kingdom; give N. N. the kingdom.
-</details>
-
-<details><summary>मूलम्</summary>
-
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
-</details>
-</details>
 </div>
 
 ### ग्रहः
@@ -157,20 +138,29 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [अर्थे᳓तस्स्थ  ।]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -185,7 +175,6 @@ Whereby they led Indra beyond his foes.
 राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
-</details>
 </details>
 </div>
 
@@ -213,7 +202,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
 </details>
-</details>
+
 </div>
 
 ## ०२ 
@@ -248,20 +237,29 @@ thou art the lord of the waters,
 अपाम्पतिस्समुद्रः तदीया आप उच्यन्ते ; विकारे प्रकृतिशब्दात् । समुदायशब्दादेकवचनम् । शोणादीनां पुंस्त्वेन अपांपतित्वम् । 'ऊडिदम्' इति षष्ठ्या उदात्तत्वम् ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -276,7 +274,6 @@ Whereby they led Indra beyond his foes.
 राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
-</details>
 </details>
 </div>
 
@@ -305,31 +302,6 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Ye are givers of the kingdom; give N. N. the kingdom.
-</details>
-
-<details><summary>मूलम्</summary>
-
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
-</details>
-</details>
 </div>
 
 ### ग्रहः
@@ -338,20 +310,29 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [अपा᳓म् प᳓तिरसि  ।]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -367,7 +348,6 @@ Whereby they led Indra beyond his foes.
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -394,7 +374,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
 </details>
-</details>
+
 </div>
 
 ## ०३ 
@@ -431,20 +411,29 @@ thou art the male wave,
 वृषा वर्षिता वृष्टिहेतुत्वात् । प्रधाने[धानं]वा ; सङ्घातरूपत्वात् । ऊर्मिस्सङ्घातार्था अरणशीला वा ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -459,7 +448,6 @@ Whereby they led Indra beyond his foes.
 राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
-</details>
 </details>
 </div>
 
@@ -488,31 +476,6 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Ye are givers of the kingdom; give N. N. the kingdom.
-</details>
-
-<details><summary>मूलम्</summary>
-
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
-</details>
-</details>
 </div>
 
 ### ग्रहः
@@ -521,20 +484,29 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [वृ᳓षास्य् ऊर्मिः᳓  ।]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -550,7 +522,6 @@ Whereby they led Indra beyond his foes.
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -577,7 +548,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
 </details>
-</details>
+
 </div>
 
 ## ०४ 
@@ -612,20 +583,29 @@ thou art the male host,
 सेक्त्री सेना यस्य संघातत्वेन महत्त्वात् सेकसामर्थ्याच्च । छान्दसमन्तोदात्तत्वम् । केचित्तु - वृषास्यूर्मिरित्येतावता ऊर्मिजलं गृह्णाति, वृषसेनोसीति पल्वल्यमिति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -640,7 +620,6 @@ Whereby they led Indra beyond his foes.
 राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
-</details>
 </details>
 </div>
 
@@ -669,31 +648,6 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Ye are givers of the kingdom; give N. N. the kingdom.
-</details>
-
-<details><summary>मूलम्</summary>
-
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
-</details>
-</details>
 </div>
 
 ### ग्रहः
@@ -702,20 +656,29 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [वृ᳓षसेनो᳙ऽसि  ।]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -731,7 +694,6 @@ Whereby they led Indra beyond his foes.
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -758,7 +720,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
 </details>
-</details>
+
 </div>
 
 ## ०५ 
@@ -793,20 +755,29 @@ ye are the pen-dwellers,
 व्रजे वेष्टितेवकाशे क्षियन्ति निवसन्तीति व्रजक्षितः । क्षि निवासगत्योः ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -821,7 +792,6 @@ Whereby they led Indra beyond his foes.
 राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
-</details>
 </details>
 </div>
 
@@ -850,31 +820,6 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Ye are givers of the kingdom; give N. N. the kingdom.
-</details>
-
-<details><summary>मूलम्</summary>
-
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
-</details>
-</details>
 </div>
 
 ### ग्रहः
@@ -883,20 +828,29 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [व्र᳓जक्षि᳓तस् स्थ।]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -912,7 +866,6 @@ Whereby they led Indra beyond his foes.
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -939,7 +892,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
 </details>
-</details>
+
 </div>
 
 ## ०६ 
@@ -974,20 +927,29 @@ ye are the strength of the Maruts,
 मरुतां वायूनामोजः बलं स्थ ; तेन निर्वृत्तत्वात् ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -1002,7 +964,6 @@ Whereby they led Indra beyond his foes.
 राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
-</details>
 </details>
 </div>
 
@@ -1031,31 +992,6 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Ye are givers of the kingdom; give N. N. the kingdom.
-</details>
-
-<details><summary>मूलम्</summary>
-
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
-</details>
-</details>
 </div>
 
 ### ग्रहः
@@ -1064,20 +1000,29 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [मरु᳓ताम् ओ᳓जस् स्थ  ।]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -1093,7 +1038,6 @@ Whereby they led Indra beyond his foes.
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1120,7 +1064,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
 </details>
-</details>
+
 </div>
 
 ## ०७ 
@@ -1155,20 +1099,29 @@ ye have the radiance of the sun,
 सूर्यं वर्चयन्ति भृशं दीपयन्ति । 'गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वञ्च' इत्यसुन् । सातपेहि वर्षे भृशमादित्यो दीप्यते । बहुव्रीहिर्वा सूर्यस्येव वर्चो येषामिति । सूर्यरश्मिसंयोगेन वर्चस्वित्वात् ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -1183,7 +1136,6 @@ Whereby they led Indra beyond his foes.
 राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
-</details>
 </details>
 </div>
 
@@ -1212,31 +1164,6 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Ye are givers of the kingdom; give N. N. the kingdom.
-</details>
-
-<details><summary>मूलम्</summary>
-
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
-</details>
-</details>
 </div>
 
 ### ग्रहः
@@ -1245,20 +1172,29 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [सू᳓र्यवर्चसस् स्थ  ।]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -1274,7 +1210,6 @@ Whereby they led Indra beyond his foes.
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1301,7 +1236,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
 </details>
-</details>
+
 </div>
 
 ## ०८ 
@@ -1336,20 +1271,29 @@ ye have the brightness of the sun,
 त्वच संवरणे, सुर्यं त्वचन्ति संवृण्वन्ति । पूर्ववदसुन् । यासु खलु निर्मलास्वप्सु रूपाणि परिदृश्यन्ते ताः खलु सूर्यरूपप्रकाशनं सूर्यमपि स्वमहिम्ना संवृण्वन्ति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -1364,7 +1308,6 @@ Whereby they led Indra beyond his foes.
 राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
-</details>
 </details>
 </div>
 
@@ -1393,31 +1336,6 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Ye are givers of the kingdom; give N. N. the kingdom.
-</details>
-
-<details><summary>मूलम्</summary>
-
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
-</details>
-</details>
 </div>
 
 ### ग्रहः
@@ -1426,20 +1344,29 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [सू᳓र्य-त्वचसस् स्थ ।]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -1455,7 +1382,6 @@ Whereby they led Indra beyond his foes.
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1482,7 +1408,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
 </details>
-</details>
+
 </div>
 
 ## ०९ 
@@ -1517,20 +1443,29 @@ ye are delightful,
 मन्दस्वभावाः । मां दत्तदेवेभ्य इति ह्रादं कुर्वाणाः, अशोष्या इत्यन्ये ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -1545,7 +1480,6 @@ Whereby they led Indra beyond his foes.
 राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
-</details>
 </details>
 </div>
 
@@ -1574,31 +1508,6 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Ye are givers of the kingdom; give N. N. the kingdom.
-</details>
-
-<details><summary>मूलम्</summary>
-
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
-</details>
-</details>
 </div>
 
 ### ग्रहः
@@ -1607,20 +1516,29 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [मा᳓न्दाः स्थ  ।]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -1636,7 +1554,6 @@ Whereby they led Indra beyond his foes.
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1663,7 +1580,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
 </details>
-</details>
+
 </div>
 
 ## १० 
@@ -1698,20 +1615,29 @@ ye are obedient,
 वाशा वश्याः नीहारो हि नदीप्रवाहवन्मनुष्यगतिं न प्रतिबध्नाति ; ततो वश्यत्वम् ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -1726,7 +1652,6 @@ Whereby they led Indra beyond his foes.
 राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
-</details>
 </details>
 </div>
 
@@ -1755,31 +1680,6 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Ye are givers of the kingdom; give N. N. the kingdom.
-</details>
-
-<details><summary>मूलम्</summary>
-
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
-</details>
-</details>
 </div>
 
 ### ग्रहः
@@ -1788,20 +1688,29 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [वा᳓शाः स्थ  ।]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -1817,7 +1726,6 @@ Whereby they led Indra beyond his foes.
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1844,7 +1752,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
 </details>
-</details>
+
 </div>
 
 ## ११ 
@@ -1879,20 +1787,29 @@ ye are powerful,
 गर्भसंरक्षणे शक्ताश्शक्वर्यः । 'वा छन्दसि' इति पूर्वसवार्णदीर्घत्वम् ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -1907,7 +1824,6 @@ Whereby they led Indra beyond his foes.
 राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
-</details>
 </details>
 </div>
 
@@ -1936,31 +1852,6 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Ye are givers of the kingdom; give N. N. the kingdom.
-</details>
-
-<details><summary>मूलम्</summary>
-
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
-</details>
-</details>
 </div>
 
 ### ग्रहः
@@ -1969,20 +1860,29 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [श᳓क्वरीस् स्थ  ।]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -1998,7 +1898,6 @@ Whereby they led Indra beyond his foes.
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2025,7 +1924,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
 </details>
-</details>
+
 </div>
 
 ## १२ 
@@ -2060,20 +1959,29 @@ ye are all supporters,
 विश्वं बिभ्रति धारयन्ति वा पोषयन्ति वा विश्वभृतः, तद्रूपेण विवक्षितत्वात् बहुवचनं स्त्रीत्वं च ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -2088,7 +1996,6 @@ Whereby they led Indra beyond his foes.
 राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
-</details>
 </details>
 </div>
 
@@ -2117,31 +2024,6 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Ye are givers of the kingdom; give N. N. the kingdom.
-</details>
-
-<details><summary>मूलम्</summary>
-
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
-</details>
-</details>
 </div>
 
 ### ग्रहः
@@ -2150,20 +2032,29 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [विश्वभृ᳓तस् स्थ ।]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -2179,7 +2070,6 @@ Whereby they led Indra beyond his foes.
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2206,7 +2096,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
 </details>
-</details>
+
 </div>
 
 ## १३ 
@@ -2241,20 +2131,29 @@ ye are supporters of men,
 जनं बिभ्रर्तीति जनभृतः ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -2269,7 +2168,6 @@ Whereby they led Indra beyond his foes.
 राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
-</details>
 </details>
 </div>
 
@@ -2298,31 +2196,6 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Ye are givers of the kingdom; give N. N. the kingdom.
-</details>
-
-<details><summary>मूलम्</summary>
-
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
-</details>
-</details>
 </div>
 
 ### ग्रहः
@@ -2331,20 +2204,29 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [जनभृ᳓तस्स्थ ।]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -2360,7 +2242,6 @@ Whereby they led Indra beyond his foes.
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2387,7 +2268,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
 </details>
-</details>
+
 </div>
 
 ## १४ 
@@ -2422,20 +2303,29 @@ ye have the brilliance of Agni,
 अग्नेस्तेजसा सहितास्तेजस्याः गवादिर्द्रष्टव्यः । तेजसो वा निमित्तभूतास्तेजस्याः । 'गोद्व्यचः' इति यत् । तेजसि वा भवाः ; तदर्थं व्यापृतत्वात् ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -2450,7 +2340,6 @@ Whereby they led Indra beyond his foes.
 राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
-</details>
 </details>
 </div>
 
@@ -2479,31 +2368,6 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Ye are givers of the kingdom; give N. N. the kingdom.
-</details>
-
-<details><summary>मूलम्</summary>
-
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
-</details>
-</details>
 </div>
 
 ### ग्रहः
@@ -2512,20 +2376,29 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [अग्ने᳓स् तेजस्याः᳙ स्थ  ।]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -2541,7 +2414,6 @@ Whereby they led Indra beyond his foes.
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2568,7 +2440,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
 </details>
-</details>
+
 </div>
 
 ## १५ 
@@ -2605,20 +2477,29 @@ ye are the sap of the waters, of the plants.
 इत्यष्टमे एकादशोनुवाकः ॥  
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<details open><summary><h5>राष्ट्रदाः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -2633,7 +2514,6 @@ Whereby they led Indra beyond his foes.
 राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
-</details>
 </details>
 </div>
 
@@ -2662,31 +2542,6 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Ye are givers of the kingdom; give N. N. the kingdom.
-</details>
-
-<details><summary>मूलम्</summary>
-
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
-</details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2694,20 +2549,29 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [अपा᳓मो᳓षधीनाँ र᳓सस्स्थ  ।]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -2723,34 +2587,33 @@ Whereby they led Indra beyond his foes.
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
 <details><summary>Keith</summary>
 
-Ye are givers of the kingdom; give N. N. the kingdom.
+Ye are givers of the kingdom; give ye the kingdom, hail!
 </details>
 
 <details><summary>मूलम्</summary>
 
-रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रम॒मुष्मै॑ दत्त ॥
+रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । अ॒मुष्मै॑ । द॒त्त॒ ॥
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
+ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
 </details>
-</details>
+
 </div>
 
 ### ग्रहः
@@ -2759,20 +2622,29 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 [अपा᳓म् ओ᳓षधीनाँ र᳓सस्स्थ  ।]      
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h10>आपो देवीर् मधुमतीः ...{Loading}...</h10></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -2787,7 +2659,6 @@ Whereby they led Indra beyond his foes.
 राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
-</details>
 </details>
 </div>
 
@@ -2815,5 +2686,5 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
 </details>
-</details>
+
 </div>

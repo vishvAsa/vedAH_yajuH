@@ -122,20 +122,32 @@ the priests, the eager ones.
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह॑स्पते +++(→ब्रह्मन्)+++! धा॒रया॒ वसू॑नि।  
-+++(हे पशो!)+++ ह॒व्या ते॑ स्वदन्ताम्+++(←स्वद आस्वादने)+++।   
+बृह॑स्पते +++(→ब्रह्मन्)+++! धा॒रया॒ वसू॑नि।
 </details>
 
 <details><summary>Keith</summary>
 
-O Bihaspati, guard wealth.  
+O Bihaspati, guard wealth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+बृह॑स्पते धा॒रया॒ वसू॑नि।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(हे पशो!)+++ ह॒व्या ते॑ स्वदन्ताम्+++(←स्वद आस्वादने)+++।
+</details>
+
+<details><summary>Keith</summary>
+
 Let thy oblations taste sweet.
 </details>
 
 <details><summary>मूलम्</summary>
 
-बृह॑स्पते धा॒रया॒ वसू॑नि।  
-ह॒व्या ते॑ स्वदन्ताम्।   
+ह॒व्या ते॑ स्वदन्ताम्।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,19 +169,31 @@ Let thy oblations taste sweet.
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देव॑ त्वष्ट॒र्! वसु॑ रण्व+++(=रमय)+++।    
+देव॑ त्वष्ट॒र्! वसु॑ रण्व+++(=रमय)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+O god Tvastr make pleasant our possessions.
+</details>
+
+<details><summary>मूलम्</summary>
+
+देव॑ त्वष्ट॒र्वसु॑ रण्व।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रेव॑ती॒ +++(←रै+मतुम् →पशवः)+++! रम॑ध्वम् ॥
 </details>
 
 <details><summary>Keith</summary>
 
-O god Tvastr make pleasant our possessions.  
 Stay, ye wealthy ones,
 </details>
 
 <details><summary>मूलम्</summary>
 
-देव॑ त्वष्ट॒र्वसु॑ रण्व।    
 रेव॑ती॒ रम॑ध्वम् ॥
 </details>
 

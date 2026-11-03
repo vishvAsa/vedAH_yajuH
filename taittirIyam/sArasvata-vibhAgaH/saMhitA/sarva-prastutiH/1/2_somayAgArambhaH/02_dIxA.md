@@ -118,7 +118,6 @@ To wisdom, to thought, to Agni, hail!
 <details><summary>Keith</summary>
 
 To consecration, to penance, to Agni, hail!  
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -315,7 +314,6 @@ hail!
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स्वाहा सुहुतं चेदमस्तु, युष्मभ्यं वर्धयितव्येभ्यो लोकेभ्यः वर्धयित्रे च बृहस्पतये । एवं स्वाहाकाराधिक्यात् यजुरन्ता विराडियं वेदितव्या । एवमृग्यजुषसमुदायत्वात् अस्य यजुरित्यपि व्यपदेष्टुं शक्यते । यथा 'यदेतद्यजुर्न ब्रूयात्' इति । भवति ह्यवयवधर्मेणापि समुदायव्यपदेशः, यथा कृष्टेषु चूर्णमिति । अनवसानत्वाद्वा यजुष्ट्वम् ॥
-
 </details>
 
 ________
@@ -534,22 +532,6 @@ ________
 > “अथ यजमानायतने कृष्णाजिनं प्राचीन-ग्रीवम् उत्तर-लोमोपस्तृणाति तस्य शुक्ल-कृष्णौ संमृशति शुक्ले ऽङ्गुष्ठो भवति कृष्णे ऽङ्गुलि ऋक्-सामयोः शिल्पे स्थस् ते वाम् आ रभे ते मा पातम् आ अस्य यज्ञस्योदृच' इति” 
 
 इति।
-
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ऋख्-सा॒मयो॒श् शिल्पे॑ स्थः।+++(५)+++  
-+++('एष वा ऋचो वर्णो यच्छुक्लं कृष्णाजिनस्य' इत्यादि ब्राह्मणम् ।)+++  
-ते वा॒म् आ र॑+++(ल)+++भे ।  
-ते मा॑ पातम् आऽस्य य॒ज्ञस्यो॒दृचः॑+++(=आसमाप्तेः)+++।+++(र४)+++  
-</details>
-
-<details><summary>Keith</summary>
-
-Ye are images of the Rc and the Saman.  
-I grasp you two;  
-do ye two [1] protect me until the completion of this sacrifice.
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -557,9 +539,36 @@ do ye two [1] protect me until the completion of this sacrifice.
 ऋ॒क्सा॒मयो॒श्शिल्पे॑ स्थ॒स्ते वा॒मा र॑भे ते मा॑ [3]पा॒त॒माऽस्य य॒ज्ञस्यो॒दृचः
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऋख्-सा॒मयो॒श् शिल्पे॑ स्थः।+++(५)+++  
++++('एष वा ऋचो वर्णो यच्छुक्लं कृष्णाजिनस्य' इत्यादि ब्राह्मणम् ।)+++
+</details>
+
+<details><summary>Keith</summary>
+
+Ye are images of the Rc and the Saman.
+</details>
+
 <details><summary>मूलम्</summary>
 
-ऋ॒क्सा॒मयो॒श्शिल्पे॑ स्थः।  
+ऋ॒क्सा॒मयो॒श्शिल्पे॑ स्थः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते वा॒म् आ र॑+++(ल)+++भे ।  
+ते मा॑ पातम् आऽस्य य॒ज्ञस्यो॒दृचः॑+++(=आसमाप्तेः)+++।+++(र४)+++
+</details>
+
+<details><summary>Keith</summary>
+
+I grasp you two;  
+do ye two [1] protect me until the completion of this sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ते वा॒मा र॑भे ।  
 ते मा॑ पातम् आऽस्य य॒ज्ञस्यो॒दृचः॑।
 </details>
@@ -582,7 +591,6 @@ do ye two [1] protect me until the completion of this sacrifice.
 ते च मया स्पृष्टे युवां मां पातं रक्षतम् ।
 
 कुत इत्यत आह - अस्य यज्ञस्य आ उदृच आ उदयात् समाप्तेरिति यावत् । ऋच स्तुतौ, इह तु धातूनामनेकार्थत्वात् गतौ वर्तते, स्तोमाभिप्रायं वा, तत उत्पूर्वात्सम्पदादिलक्षणः क्विप्, कृदुत्तरपदप्रकृतिस्वरत्वम् । 'ऋक्सामे वै देवेभ्यो यज्ञायातिष्ठमाने' इत्यादि ब्राह्मणम् ॥
-
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -717,7 +725,6 @@ ________
 > “प्रदक्षिणं मेखलां पर्यस्यति ऊर्ग् अस्य् आङ्गिरस्य् ऊर्ण-म्रदा ऊर्जं मे यच्छ पाहि मा मा मा हिंसीर् इति। अथ यजमानं वाससा प्रोर्णोति विष्णोः शर्मासि शर्म यजमानस्य शर्म मे यच्छेति वसनस्यातीकाशेषु यजमानं वाचयति नक्षत्राणां माऽतीकाशात् पाहीति” 
 
 इति।
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -943,7 +950,6 @@ ________
 > "अथास्यैषा कृष्ण-विषाणा त्रिवलिर् वा पञ्च-वलिर् वा शाण्या रज्ज्वा परितृण्णां तां यजमानाय प्रयच्छति- 'इन्द्रस्य योनिर् असि मा मा हिंसीर्' इति यजमानः प्रतिगृह्णाति" 
 
 इति। 
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -973,7 +979,6 @@ Thou art the birthplace of Indra [2]; harm me not.
 
 इन्द्र॑स्य । योनिः॑ । अ॒सि॒ ।  
 मा । मा॒ । हिँ॒सीः॒ ।  
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1158,17 +1163,26 @@ ________
 > ‘सूपस्था देवो वनस्पतिर् इति तं यजमानः प्रतिगृह्य’ 
 
 इति।
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे दण्ड!)+++ सु॒+उ॒प॒स्था दे॒वो वन॒स्पति॑र् ऊ॒र्ध्वो +++(त्वम्)+++ मा॑ पा॒ह्य् ओदृचः+++(=आसमाप्तेः)+++।
++++(हे दण्ड!)+++ सु॒+उ॒प॒स्था दे॒वो वन॒स्पति॑र्
 </details>
 
 <details><summary>Keith</summary>
 
-Thou art of easy access, divine tree. Being erect, guard me until the completion (of the sacrifice).
+Thou art of easy access, divine tree.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऊ॒र्ध्वो +++(त्वम्)+++ मा॑ पा॒ह्य् ओदृचः+++(=आसमाप्तेः)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+Being erect, guard me until the completion (of the sacrifice).
 </details>
 
 <details><summary>मूलम्</summary>

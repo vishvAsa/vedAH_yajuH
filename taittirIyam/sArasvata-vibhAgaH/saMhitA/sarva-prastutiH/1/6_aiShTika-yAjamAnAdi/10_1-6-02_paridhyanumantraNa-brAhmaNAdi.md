@@ -196,7 +196,17 @@ with the unsuccessful part he overcomes the foes.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नि॒हो॒त्रम् ए॒ताभि॒र् व्याहृ॑तीभि॒र् उप॑ सादयेत् ।  
+अ॒ग्नि॒हो॒त्रम् ए॒ताभि॒र् व्याहृ॑तीभि॒र् उप॑ सादयेत् ।
+</details>
+<details><summary>Keith</summary>
+
+With these Vyahrtis he should set down the Agnihotra.
+</details>
+<details><summary>मूलम्</summary>
+
+अ॒ग्नि॒हो॒त्रमे॒ताभि॒र्व्याहृ॑तीभि॒रुप॑ सादयेत् ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य॒ज्ञ॒-मु॒खव्ँ वा अ॑ग्निहो॒त्रम् ।  
 
@@ -205,13 +215,10 @@ with the unsuccessful part he overcomes the foes.
 </details>
 <details><summary>Keith</summary>
 
-With these Vyahrtis he should set down the Agnihotra.  
 The Agnihotra is the beginning of the sacrifice, these Vyahrtis are the Brahman;  
-verily at the beginning of the sacrifice he makes the Brahman [2]. 
+verily at the beginning of the sacrifice he makes the Brahman [2].
 </details>
 <details><summary>मूलम्</summary>
-
-अ॒ग्नि॒हो॒त्रमे॒ताभि॒र्व्याहृ॑तीभि॒रुप॑ सादयेत् ।  
 
 य॒ज्ञ॒मु॒खव्ँ वा अ॑ग्निहो॒त्रम् ।   
 ब्रह्मै॒ता व्याहृ॑तयो यज्ञमु॒ख ए॒व ब्रह्म॑ [34] +कुरुते।
@@ -225,7 +232,6 @@ verily at the beginning of the sacrifice he makes the Brahman [2].
 ब्रह्म॑ । ए॒ताः । व्याहृ॑तय॒ इति॑ वि-आहृ॑तयः ।  
 
 य॒ज्ञ॒मु॒ख इति॑ यज्ञ-मु॒खे । ए॒व । ब्रह्म॑ । [34] कु॒रु॒ते॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -264,30 +270,36 @@ verily with the Brahman he surrounds the year on both sides.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द॒र्श॒पू॒र्ण॒मा॒सौ चा॑तुर्मा॒स्यान्य् आ॒लभ॑मान ए॒ताभि॒र् व्याहृ॑तीभिर् ह॒वीँष्य् आसा॑दयेत् ।  
+द॒र्श॒पू॒र्ण॒मा॒सौ चा॑तुर्मा॒स्यान्य् आ॒लभ॑मान ए॒ताभि॒र् व्याहृ॑तीभिर् ह॒वीँष्य् आसा॑दयेत् ।
+</details>
+<details><summary>Keith</summary>
+
+He who is undertaking the new and full moon and the four monthly offerings should set in place the oblations with these Vyahrtis.
+</details>
+<details><summary>मूलम्</summary>
+
+द॒र्श॒पू॒र्ण॒मा॒सौ चा॑तुर्मा॒स्यान्या॒लभ॑मान ए॒ताभि॒र्व्याहृ॑तीभिर् ह॒वीँष्यासा॑दयेत् ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य॒ज्ञ॒-मु॒खव्ँ वै द॑र्शपूर्णमा॒सौ चा॑तुर्मा॒स्यानि॒ ।  
 ब्रह्मै॒ता व्याहृ॑तयः।    
 
-य॒ज्ञ॒मु॒ख ए॒व ब्रह्म॑ कुरुते ।  
+य॒ज्ञ॒मु॒ख ए॒व ब्रह्म॑ कुरुते ।
 </details>
 <details><summary>Keith</summary>
 
-He who is undertaking the new and full moon and the four monthly offerings should set in place the oblations with these Vyahrtis.  
 The new and full moon and the four monthly sacrifices are the beginning of the sacrifice,  
 these Vyahrtis are the Brahman;  
-verily at the beginning of the sacrifice he makes the Brahman.  
-
+verily at the beginning of the sacrifice he makes the Brahman.
 </details>
 <details><summary>मूलम्</summary>
-
-द॒र्श॒पू॒र्ण॒मा॒सौ चा॑तुर्मा॒स्यान्या॒लभ॑मान ए॒ताभि॒र्व्याहृ॑तीभिर् ह॒वीँष्यासा॑दयेत् ।  
 
 य॒ज्ञ॒मु॒खव्ँ वै द॑र्शपूर्णमा॒सौ चा॑तुर्मा॒स्यानि॒ ।  
 
 ब्रह्मै॒ता व्याहृ॑तयः।   
 
-य॒ज्ञ॒मु॒ख ए॒व ब्रह्म॑ कुरुते ।  
+य॒ज्ञ॒मु॒ख ए॒व ब्रह्म॑ कुरुते ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -299,7 +311,6 @@ verily at the beginning of the sacrifice he makes the Brahman.
 ब्रह्म॑ । ए॒ताः । व्याहृ॑तय॒ इति॑ वि-आहृ॑तयः । 
 
 य॒ज्ञ॒मु॒ख इति॑ यज्ञ-मु॒खे । ए॒व । ब्रह्म॑ । कु॒रु॒ते॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -611,7 +622,6 @@ verily he confers upon himself mind and the sacrifice.
 मनः॑ । वै । प्रा॒जा॒प॒त्यमिति॑ प्राजा-प॒त्यम् ।   
 प्रा॒जा॒प॒त्य इति॑ प्राजा-प॒त्यः । य॒ज्ञः ।   
 मनः॑ । ए॒व । य॒ज्ञम् । आ॒त्मन् । ध॒त्ते॒ ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

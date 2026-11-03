@@ -12,23 +12,18 @@ _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ दाक्षिणं काण्डं सौम्यमेव । तत्र शौरीभ्याम् ऋग्भ्यां गार्हपत्ये जुहोति - उदुत्यमिति प्रथमा गायत्री, द्वितीया त्रिष्टुप् ॥  तत्र प्रथमा -
-
 </details>
 
-
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
-<details open><summary><h5>०१ उदु त्यं ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
 
 उ᳓दु त्यं᳓ **जात᳓वेदसं**  
 देवं᳓ **वहन्ति केत᳓वः**+++(→रश्मयः)+++ ।  
 दृशे᳓ वि᳓श्वाय सू᳓र्यम् ॥
 
-</details>
 </div>
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/01_udu_tyaM.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/01_udu_tyaM.md">
-<details open><summary><h5>001 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -164,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+त्यम्- तम्। जातवेदसम्- जातविद्यमग्निभूतम्। सूर्यं- सवितारम्। देवम्- द्योतनशीलम्। विश्वाय-  सर्वेषाम्। दृशे- दर्शनाय। केतवः- प्रज्ञाः। उद्वहन्ति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **केतवः** प्रज्ञापकाः सूर्याश्वाः यद्वा सूर्यरश्मयः **सूर्यं** सर्वस्य प्रेरकमादित्यम् **उदु** **वहन्ति** ऊर्ध्वं वहन्ति । उ इति पादपूरणः । उक्तं च - ‘ मिताक्षरेष्वनर्थकाः कमीमिद्विति' (निरु. १. ९)। किमर्थम् । **विश्वाय** विश्वस्मै भुवनाय **दृशे** द्रष्टुम् । यथा सर्वे जनाः सूर्यं पश्यन्ति तथोर्ध्वं वहन्तीत्यर्थः । कीदृशं सूर्यम् । **त्यं** प्रसिद्धं **जातवेदसं** जातानां प्राणिनां वेदितारं जातप्रज्ञं जातधनं वा **देवं** द्योतमानम् । अत्र निरुक्तम् - उद्वहन्ति तं जातवेदसं देवमश्वाः केतवो रश्मयो वा सर्वेषां भूतानां संदर्शनाय सूर्यम् ' ( निरु. १२. १५) इति ॥ जातवेदसम् । जातानि वेत्तीति जातवेदाः ।  ‘ गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं च ' इति असुन् पूर्वपदप्रकृतिस्वरत्वं च । दृशे । 'दृशे विख्ये च (पा. सू. ३. ४. ११ ) इति तुमर्थे निपातितः । सूर्यम् ।  ‘ राजसूयसूर्यं ' इत्यादिना 'षू प्रेरणे इत्यस्मात् क्यपि रुडागमसहितो निपातितः । अतः प्रत्ययस्य पित्त्वानुदात्तत्वे धातुस्वरेणाद्युदात्तत्वम् ॥
@@ -178,6 +178,17 @@ ____________
 ___________
 देवं सूर्यं जातवेदसं जातानां वेदितारं देवं केतवो रश्मयः उद्वहन्ति विस्वस्य लोकस्य दृशे दर्शनार्थमिति ॥
 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+केतवो रश्मयस् त्यं तं परोक्षं जातवेदसम् उत्पन्नस्य सर्वस्य जगतो वेत्तारं सूर्यं देवम् उद् वहन्ति ऊर्ध्व-प्रदेशं प्रापयन्ति। किम् अर्थं, विश्वाय दृशे सर्वस्य जगतो दर्शनार्थम्।
+
+सौर्य-मन्त्रेण रक्षांसि निवार्यन्त इत्य् आह —
+
+> 'उद् उ त्यं जातवेदसम्' इति सौर्य्-ऋचा कृष्णाजिनं प्रत्यानह्यति रक्षसाम् अपहत्यै (सं. का. ६ प्र. १ अ. ११) 
+
+इति।
 </details>
 
 <details><summary>Wilson</summary>
@@ -285,7 +296,7 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 
 भावार्थभाषाः -  धार्मिक माता पिता इत्यादी विद्वान लोकांनी जसे घोडे रथाला व किरणे सूर्याला वहन करतात तसेच विद्या व धर्माने प्रकाशित असलेल्या त्यांच्या सारख्याच स्त्रियांशी पुरुषांचा विवाह करवावा. ॥ १ ॥
 </details>
-</details>
+
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -299,21 +310,17 @@ _______
 2अथ द्वितीया।  … 
 </details>
 
-
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
-<details open><summary><h5>०१ चित्रं देवानामुदगादनीकं ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
 
 चित्रं᳓ देवा᳓नाम् **उ᳓दगाद्** अ᳓नीकं  
 च᳓क्षुर् मित्र᳓स्य व᳓रुणस्याग्नेः᳓ ।  
 **आ᳓-प्रा**+++(←पूरणे)+++ द्या᳓वा-पृथिवी᳓ अन्त᳓रिक्षं  
 **सू᳓र्य** आत्मा᳓ ज᳓गतस् तस्थु᳓षश् च ॥
 
-</details>
 </div>
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
-<details open><summary><h5>001 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -520,6 +527,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवानाम्- द्योतनशक्तीनाम्। अनीकम्- समूहभूतम्। चित्रम्- आश्चर्यम्। उदगात्- उदेति।  मित्रस्य- स्नेहाधिदेवतस्य। वरुणस्य- ऋताधिदैवतस्य। अग्नेः- सर्वभूतहितक्रतोः। चक्षुः-   दृष्टिभूतः। द्यावापृथिवी। अन्तरिक्षम्। आ- समन्तात्। अप्राः- अपूरयत्। सूर्यः। जगतः- चरतः।  तस्थुषश्च- अचरतश्च। आत्मा॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **देवानाम्** । दीव्यन्तीति देवा रश्मयः तेषाम् । देवजनानामेव वा । **अनीकं** समूह रूपं **चित्रम्** आश्चर्यकरं सूर्यस्य मण्डलम् **उदगात्** उदयाचलं प्राप्तमासीत्। कीदृशम् । **मित्रस्य** **वरुणस्य** **अग्नेः** च । उपलक्षणमेतत् । तदुपलक्षितानां जगतां **चक्षुः** प्रकाशकं चक्षुरिन्द्रियस्थानीयं वा । उदयं प्राप्य च **द्यावापृथिवी** दिवं पृथिवीमन्तरिक्षं च **अप्राः** । स्वकीयेन तेजसा **आ** समन्तात् अपूरयत् । ईदृग्भूतमण्डलान्तर्वर्ती **सूर्यः** अन्तर्यामितया सर्वस्य प्रेरकः परमात्मा **जगतः** जङ्गमस्य **तस्थुषः** स्थावरस्य **च** आत्मा स्वरूपभूतः । स हि सर्वस्य स्थावरजङ्गमात्मकस्य कार्यवर्गस्य कारणम् । कारणाच्च कार्यं नातिरिच्यते । तथा च पारमर्षं सूत्र - ‘ तदनन्यत्वमारम्भणशब्दादिभ्यः ( ब्र. सू. २. १. १४) इति । यद्वा । स्थावरजङ्गमात्मकस्य सर्वस्य प्राणिजातस्य जीवात्मा । उदिते हि सूर्ये मृतप्रायं सर्वं जगत् पुनश्चेतनयुक्तं सदुपलभ्यते । तथा च श्रूयते - योऽसौ तपन्नुदेति स सर्वेषां भूतानां प्राणानादायोदेति ' ( तै. आ. १. १४. १ ) इति ॥ आप्राः ।  ‘ प्रा पूरणे'। लडिः पुरुषव्यत्ययः । अदादित्वात् शपो लुक् । जगतः ।  ‘ गमेर्द्वे च ' ( पा. सू. ३. २. १७८.३) इति क्विप् द्विर्वचनम् । गमः क्वौ ' इति अनुनासिकलोपः । तस्थुषः । तिष्ठतेर्लिटः क्वसुः । द्विर्वचने०  ‘ शर्पूर्वाः खयः । षष्ठ्येकवचने  ‘ वसोः संप्रसारणम्' इति संप्रसारणम् । अतो लोप इटि च । इति आकारलोपः ।  ‘ शासिवसि° ' इति षत्वम् ॥
@@ -643,7 +655,7 @@ Es stieg empor der Götter lichtes Antlitz, das Auge Mitra's, Varuna's und Agni'
 
 भावार्थभाषाः -  जो दृश्यमान परिमाणयुक्त पदार्थ असतो तो परमात्मा नसतो. कोणीही त्या अव्यक्त सर्वशक्तिमान जगदीश्वराखेरीज संपूर्ण जगाला उत्पन्न करू शकत नाही. सर्वव्यापक, सच्चिदानंदस्वरूप अनंत, अंतर्यामी, चराचर जगाचा आत्मा अशा परमेश्वराखेरीज संसार धारण करणे, जीवांच्या पापपुण्याच्या साक्षी असणे, त्यानुसार जीवांना सुख दुःखरूपी फळ देणे, हे कोणी करू शकत नाही. परमेश्वराच्या उपासनेशिवाय धर्म, अर्थ, काम, मोक्ष प्राप्त करण्यास जीव समर्थ बनू शकत नाही. त्यासाठी सर्वांनी परमेश्वरच उपासना करण्यायोग्य इष्टदेव आहे, हे मानले पाहिजे. ॥ १ ॥
 </details>
-</details>
+
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -657,21 +669,17 @@ _______
 3आग्नीध्रीये जुहोति - अग्ने नयेति त्रिष्टुभा ॥ 
 </details>
 
-
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/01_agne_naya.md">
-<details open><summary><h5>०१ अग्ने नय ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/01_agne_naya.md">
 
 अ᳓ग्ने **न᳓य** सुप᳓था **राये᳓** अस्मा᳓न्  
 वि᳓श्वानि देव वयु᳓नानि+++(=ज्ञानानि)+++ विद्वा᳓न् ।  
 **युयोध्य्**+++(=अपनय)+++ अ᳙स्मज्-जुहुराण᳓म्+++(=कुटिलकारि)+++ ए᳓नो  
 भू᳓यिष्ठान् ते **न᳓म-उक्तिव्ँ विधेम** ॥
 
-</details>
 </div>
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/189/01_agne_naya.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/189/01_agne_naya.md">
-<details open><summary><h5>001 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -876,10 +884,16 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने- सर्वभूतहितक्रतो। राये- दानयोग्यधनाय। अस्मान्- नः। सुपथा- शोभनमार्गेण। नय।  देव- द्योतनशील त्वम्। विश्वानि वयुनानि- सर्वज्ञानानि। विद्वान्- जानासि। अस्मत्- अस्मासु  स्थितम्। जुहुराणम्- कुटिलम्। एनः- पापम्। युयुधि- पृथक्कुरु। भूयिष्ठाम्- प्रवृद्धाम्। नमउक्तिम्-  नमस्कारपूर्विकां स्तुतिम्। ते- त्वदर्थम्। विधेम- कुर्मः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** अङ्गनादिगुणविशिष्ट **देव** द्योतमान **विश्वानि** **वयुनानि** सर्वाणि प्रज्ञानानि । अनेन एतदनुष्ठितमिदं प्रायणीयमिति यदेतज्ज्ञानमस्ति तद्विद्वानित्यर्थः । यतः **विद्वान्** अतस्त्वम् **अस्मान्** **सुपथा** शोभनेन मार्गेण **राये** गन्तव्याय स्वर्गादिधनाय । द्वितीयार्थे वा चतुर्थी । प्रापणीयं रयिं प्रति **नय** । तदर्थं **जुहुराणं** कुटिलकारि **एनः** पापं फलप्रतिबन्धरूपम् **अस्मत्** अस्मत्तः **युयोधि** पृथक्कुरु । **ते** तव वयं भूयिष्ठाम् अतिप्रवृद्धां **नमउक्तिं** नमस्कारोक्तिं स्तुतिं **विधेम** परिचरेम कुर्मः ॥
-᳓</details>
+᳓
+</details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1012,7 +1026,7 @@ Führ, Agni, uns auf schönem Pfad zum Reichthum der du, o Gott, die Werke alle 
 
 भावार्थभाषाः -  माणसांनी धर्म व विज्ञानाची प्राप्ती व अधर्माच्या निवृत्तीसाठी परमेश्वराची चांगल्या प्रकारे प्रार्थना केली पाहिजे व सदैव सुमार्गाने चालले पाहिजे. दुःखरूपी अधर्म मार्गापासून दूर राहिले पाहिजे. जसे विद्वान लोक परमेश्वरात अनुरक्त असतात, तसे इतर लोकांनीही राहिले पाहिजे. ॥ १ ॥
 </details>
-</details>
+
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1057,18 +1071,19 @@ _______
 5दक्षिणा अभ्येति - रूपेणेति प्रथमया चतुर्दशाक्षरया ॥ 'अभ्यैमि वयसा वयः' इति द्वितीयः पादः । 
 </details>
 
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 रू॒पेण॑ [44] वो रू॒पम् ..  
 **अ॒भ्यैमि॒** वय॑सा॒ वयः॑ ।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 With my form [1] I approach your form; with my age your age.
@@ -1091,6 +1106,7 @@ With my form [1] I approach your form; with my age your age.
 किञ्च - मदीयेन वयसा युष्मदीयं वय अभ्यैमीत्येव । गमनं वा वयः । मदीयेन गमनेन यूष्मदीयम् गमनमभ्यैमि, युष्माभिस्तुल्यरूपस्तुल्यगतिश्च भूयासामिति ॥
 </details>
 </details>
+
 </div>
 
 _______
@@ -1136,20 +1152,21 @@ _______
 7सदोऽभ्येति - एतत्ते अग्ने इति मध्येज्योतिषा जगत्या । 
 </details>
 
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ए॒तत् ते॑ अग्ने॒ **राध॒ ऐति॒** सोम॑-च्युतम् ..   
 तन् **मि॒त्रस्य॑ प॒था न॑य** ।   
 ऋ॒तस्य॑ प॒था **प्रेत॑ च॒न्द्र+++(=भ्राजमद्)+++-द॑क्षिणा** ..   
 य॒ज्ञस्य॑ प॒था सु॑वि॒ता+++(=सु+इता)+++ नय॑न्तीः ॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 This gift of thine, Agni, cometh, impelled by the Soma.  
@@ -1183,6 +1200,7 @@ Leading prosperity by the path of the sacrifice.
 किञ्च - **यज्ञस्य पथा** 'द्वाभ्यां गार्हपत्ये जुहोति' इत्यादिप्रसिद्धेन मागेण सुविता **सुवितेन** स्वितेन सुगमेन । 'सुपां सुलुक्' इति तृतीयाया आकारः ,'सूपमानात्कः' इत्युत्तरपदान्तोदात्तत्वम्, तन्वादित्वात्सोरुवङादेशः, विकृतित्वादनवग्रहः । ईडृशेन मार्गेण नयन्तीः नयन्त्यः नीयमानाः प्रवर्तमाना वा । 'वा छन्दसि' इति पूर्वसवर्णदीर्घः ॥
 </details>
 </details>
+
 </div>
 
 _______
@@ -1191,19 +1209,20 @@ _______
 8आत्रेयमभ्यर्थयति - ब्राह्मणमिति ॥ 
 </details>
 
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **ब्रा॒ह्म॒णम्** अ॒द्य **रा॑ध्यास॒म्**+++(=साधयेयं)+++  
 ऋषि॑म् आर्षे॒यम् पि॑तृ॒मन्त॑म्  
 पैतृम॒त्यँ+++(←पितृमत् + ण्यः)+++ सु॒-धातु॑-दक्षिणम् ।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 May I win a Brahman to-day, a seer and sprung from seers, of (famous) father and grandfather, fit for the sacrificial gift.
@@ -1227,6 +1246,7 @@ May I win a Brahman to-day, a seer and sprung from seers, of (famous) father and
 **सुधातुदक्षिणं** शोभनो धातुस्सुधातुः, धातूनामुत्तमं हिरण्यमुच्यते । तद्दक्षिणा यस्मै स **सुधातुदक्षिणः** । पूर्वपदप्रकृतिस्वरत्वम् । तत्र च 'आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
 </details>
+
 </div>
 
 _______
@@ -1334,22 +1354,46 @@ full of sweetness; enter the giver;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन॑वहाया॒स्मान् **दे॑व॒याने॑न प॒थेत॑** ।  
-सु॒कृताल्ँ॑ लो॒के **सी॑दत** ।  
+अन॑वहाया॒स्मान् **दे॑व॒याने॑न प॒थेत॑** ।
+</details>
+
+<details><summary>Keith</summary>
+
+without leaving us fare by the path leading to the gods;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन॑वहाया॒स्मान्दे॑व॒याने॑न प॒थेत॑ ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+सु॒कृताल्ँ॑ लो॒के **सी॑दत** ।
+</details>
+
+<details><summary>Keith</summary>
+
+sit in the world of the righteous.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सु॒कृताल्ँ॑ लो॒के सी॑दत ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
 +++(स्थानं)+++ तन् न॑स् सँस्कृ॒तम् ॥ [45]
 </details>
 
 <details><summary>Keith</summary>
 
-without leaving us fare by the path leading to the gods;  
-sit in the world of the righteous.  
 Be this complete for us.
 </details>
 
 <details><summary>मूलम्</summary>
 
-अन॑वहाया॒स्मान्दे॑व॒याने॑न प॒थेत॑ ।  
-सु॒कृताल्ँ॑ लो॒के सी॑दत ।  
 तन्न॑स्सँस्कृ॒तम् ॥ [45]
 </details>
 

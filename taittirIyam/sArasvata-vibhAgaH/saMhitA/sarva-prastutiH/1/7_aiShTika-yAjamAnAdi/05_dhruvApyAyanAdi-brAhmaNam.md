@@ -108,19 +108,32 @@ through its swelling the sacrifice is made to swell, through the sacrifice the s
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजा᳓पतेर् विभा᳓न् ना᳓म लोकः᳓ ।  
-"त᳓स्मिँस् त्वा दधामि सह᳓ य᳓जमानेने᳓"त्याह ।  
+प्रजा᳓पतेर् विभा᳓न् ना᳓म लोकः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
 
-'Prajapati's is the world called Vibhan. In it I place thee along with the sacrificer', he says [1]; 
+'Prajapati's is the world called Vibhan.
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्र॒जाप॑तेर्वि॒भान्नाम॑ लो॒कः ।  
-तस्मिँ॑ स्त्वा दधामि स॒ह यज॑माने॒नेत्या॑ह ।  
+प्र॒जाप॑तेर्वि॒भान्नाम॑ लो॒कः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"त᳓स्मिँस् त्वा दधामि सह᳓ य᳓जमानेने᳓"त्याह ।
+</details>
+
+<details><summary>Keith</summary>
+
+In it I place thee along with the sacrificer', he says [1];
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मिँ॑ स्त्वा दधामि स॒ह यज॑माने॒नेत्या॑ह ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -377,25 +390,37 @@ All creatures attend him who is performing the vow.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "प्रा᳓च्यान् दिशि᳓ देवा᳓ ऋत्वि᳓जो मार्जयन्ताम्" इ᳓त्याह ।  
-एष᳓ वै᳓ दर्शपूर्णमास᳓योर् अवभृथः᳓ ।   
-या᳓न्य् एवै᳓नम् भूता᳓नि  
-व्रत᳓म् उपय᳓न्तम् **अनूपय᳓न्ति**,   
-तै᳓र् एव᳓ सहा᳓वभृथ᳓म् अ᳓वैति ।  
+एष᳓ वै᳓ दर्शपूर्णमास᳓योर् अवभृथः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
 
 'In the eastern quarter may the gods, the priests, make (me) bright', he says;  
-this is the concluding bath of the new and full moon sacrifices [3].  
-He goes to the bath along with the creatures which attend him as he performs the vow. 
+this is the concluding bath of the new and full moon sacrifices [3].
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्राच्या॑न्दि॒शि दे॒वा ऋ॒त्विजो॑ मार्जयन्ता॒मित्या॑ह ।  
-ए॒ष वै द॑र्शपूर्णमा॒सयो॑रवभृ॒थः ।   
+ए॒ष वै द॑र्शपूर्णमा॒सयो॑रवभृ॒थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+या᳓न्य् एवै᳓नम् भूता᳓नि  
+व्रत᳓म् उपय᳓न्तम् **अनूपय᳓न्ति**,   
+तै᳓र् एव᳓ सहा᳓वभृथ᳓म् अ᳓वैति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He goes to the bath along with the creatures which attend him as he performs the vow.
+</details>
+
+<details><summary>मूलम्</summary>
+
 यान्ये॒वैन॑म्भू॒तानि॑ व्र॒तमु॑प॒यन्त॑मनूप॒यन्ति॒
-तैरे॒व स॒हाव॑भृ॒थमवै॑ति ।  
+तैरे॒व स॒हाव॑भृ॒थमवै॑ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -453,7 +478,6 @@ in that he takes the steps of Visnu the sacrificer becoming Visnu wins these wor
 
 यद्वि॑ष्णुक्र॒मान्क्रम॑ते॒ विष्णु॑रे॒व भू॒त्वा यज॑मान॒श्
 छन्दो॑भिरि॒माल्ँ लो॒कान॑नपज॒य्यम॒भि ज॑यति ।  
-
 </details>
 
 <details><summary>सायण-टीका</summary>

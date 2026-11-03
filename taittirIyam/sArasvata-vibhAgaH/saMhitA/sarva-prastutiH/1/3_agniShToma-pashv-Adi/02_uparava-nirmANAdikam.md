@@ -133,7 +133,6 @@ Here do I overthrow him who equal or unequal is ill-disposed to us.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गाय॒त्रेण॒ छन्द॑सा ।
-
 </details>
 
 <details><summary>Keith</summary>
@@ -144,7 +143,6 @@ The spell is overcome by the Gayatri metre.
 <details><summary>मूलम्</summary>
 
 गाय॒त्रेण॒ छन्द॑सा ।
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -371,7 +369,6 @@ thou art Viśvaraj, slayer of all destructive things [1].
 <details><summary>पद-पाठः</summary>
 
 वि॒श्वा॒राडिति॑ विश्व-राट् । अ॒सि॒ । विश्वा॑साम् । ना॒ष्ट्राणा॑म् । ह॒न्ता । [3]
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -394,7 +391,6 @@ _______
 <details><summary>Keith</summary>
 
 I sprinkle those which slay the Raksas, which slay the spell, and which are of Visnu.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -527,7 +523,6 @@ _______
 <details><summary>Keith</summary>
 
 I bestrew those which slay the Raksas, which slay the spell, and which are of Visnu.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -683,7 +678,6 @@ _______
 <details><summary>Keith</summary>
 
 The two which slay the Raksas, which slay the spell, and which are of Visnu.
-
 </details>
 
 <details><summary>मूलम्</summary>

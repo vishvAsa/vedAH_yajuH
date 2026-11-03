@@ -555,7 +555,6 @@ that is according to the text.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10अग्ने गृहपते इत्युपस्थानमेव ॥ यथायजुरिति । सुगृहपतित्वावाप्तिर्ज्योतिष्मदपत्यलाभश्चेत्येतद्यथायजुर्भवत्येव ॥
-
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -697,28 +696,42 @@ He, who having yoked the sacrifice does not let it free, becomes without a suppo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> क᳓स्त्वा युनक्ति  
+> क᳓स्त्वा युनक्ति
+</details>
+
+<details><summary>Keith</summary>
+
+'Who yoketh thee?
+</details>
+
+<details><summary>मूलम्</summary>
+
+कस्त्वा॑ युनक्ति॒
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स᳓ त्वा वि᳓ मुञ्चत्व् 
 
 इ᳓त्य् आह ।  
 प्रजा᳓पतिर् वै᳓ कᳶ᳓,  
 प्रजा᳓पतिनैवै᳓न᳓य्ँ युन᳓क्ति ।   
-प्रजा᳓पतिना वि᳓ मुञ्चति प्र᳓तिष्ठित्यै ।  
+प्रजा᳓पतिना वि᳓ मुञ्चति प्र᳓तिष्ठित्यै ।
 </details>
 
 <details><summary>Keith</summary>
 
-'Who yoketh thee? Let him set thee free', he says;  
+Let him set thee free', he says;  
 Who (ka) is Prajapati;  
 verily by Prajapati he yokes him,  
-by Prajapati he lets him free, for support. 
+by Prajapati he lets him free, for support.
 </details>
 
 <details><summary>मूलम्</summary>
 
-कस्त्वा॑ युनक्ति॒ स त्वा॒ वि मु॑ञ्च॒त्वित्या॑ह ।  
+स त्वा॒ वि मु॑ञ्च॒त्वित्या॑ह ।
 प्र॒जाप॑ति॒र्वै कᳶ प्र॒जाप॑तिनै॒वैनय्ँ॑यु॒नक्ति॑ ।   
-प्र॒जाप॑तिना॒ वि मु॑ञ्चति॒ प्रति॑ष्ठित्यै ।  
+प्र॒जाप॑तिना॒ वि मु॑ञ्चति॒ प्रति॑ष्ठित्यै ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -860,19 +873,26 @@ who having established a fire has no retinue;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पश᳓वᳵ ख᳓लु वै᳓ ब्राह्मण᳓स्य सभा᳓।  
-इष्ट्वा᳓ प्रा᳓ङ् उत्क्र᳓म्य ब्रूयाद् -
-"गो᳓माँ अग्ने ,  
-अ᳓विमाँ, अश्वी᳓ यज्ञ᳓"  
-इ᳓ति।  
-अ᳓व सभाँ᳓ रुन्धे᳓ ।   
+पश᳓वᳵ ख᳓लु वै᳓ ब्राह्मण᳓स्य सभा᳓।
 </details>
 
 <details><summary>Keith</summary>
 
-cattle indeed are the retinue of a Brahman. Having sacrificed,  
-he should step forward to the east and say, 'Rich in cattle, in sheep, O Agni, in horses is the sacrifice';  
-he wins his retinue, 
+cattle indeed are the retinue of a Brahman.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इष्ट्वा᳓ प्रा᳓ङ् उत्क्र᳓म्य ब्रूयाद् -
+"गो᳓माँ अग्ने ,  
+अ᳓विमाँ, अश्वी᳓ यज्ञ᳓"  
+इ᳓ति।  
+अ᳓व सभाँ᳓ रुन्धे᳓ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Having sacrificed, he should step forward to the east and say, 'Rich in cattle, in sheep, O Agni, in horses is the sacrifice'; he wins his retinue,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -880,7 +900,7 @@ he wins his retinue,
 प॒शव॒ᳵ खलु॒ वै ब्रा॑ह्म॒णस्य॑ स॒भेष्ट्वा
 प्राङु॒त्क्रम्य॑ ब्रूया॒द् ..
 गोमाँ॑ अग्ने,  
-अवि॑माँ अ॒श्वी, य॒ज्ञ इत्यव॑ स॒भाँ रु॒न्धे ।   
+अवि॑माँ अ॒श्वी, य॒ज्ञ इत्यव॑ स॒भाँ रु॒न्धे ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

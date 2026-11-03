@@ -1,21 +1,20 @@
 +++
 title = "४३ षोडशिग्रहः"
-
 +++
 
 त्रिष्टुप्
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/047/02_sajoShA_indra.md">
-<details open><summary><h5>०२ सजोषा इन्द्र ...{Loading}...</h5></summary>
 
 सजो᳓षा इन्द्र स᳓गणो मरु᳓द्भिः  
 सो᳓मम् पिब वृत्रहा᳓ शूर विद्वा᳓न्  
 जहि᳓ श᳓त्रूँर् अ᳓प मृ᳓धो नुदस्व  
 अ᳓था᳓भयं कृणुहि विश्व᳓तो नः
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/047/02_sajoShA_indra.md">
-<details open><summary><h5>002 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -248,6 +247,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सजोषाः- सहृदयः। इन्द्र- परमेश्वर। सगणः- स्वगणसहितः। मरुद्भिः- प्राणविशेषैः। वृत्रहा-  आवरणबाधकः सन्। शूर- समर्थ। विद्वान्- ज्ञानी सन्। सोमम्- रसम्। पिब- अनुभव। शत्रून्-  रिपून्। जहि- नाशय। मृधः- हिंसकान्। अप नुदस्व- बाधस्व। अथ- अनन्तरम्। विश्वतः-  सर्वशत्रुभ्यः। नः- अस्मभ्यम्। अभयम्। कृणुहि- कुरु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **शूर** बलवन् हे **इन्द्र** **सजोषाः** संगतो देवैः **मरुद्भिः** **सगणः** मरुद्भिरेव **वृत्रहा** वृत्रस्य हन्ता **विद्वान्** कर्मविषयाभिज्ञस्त्वं **सोमं** **पिब** । ततो नः **शत्रून्** **जहि** । **मृधः** हिंसकान् शत्रून् **अप** **नुदस्व** । यद्वा मृधः । हिंस्यन्तेऽत्र प्राणिन इति मृधः संग्रामाः । तत्र वर्तमानान् शत्रूनपनुदस्व । **अथ** अनन्तरं **नः** अस्माकं **विश्वतः** सर्वतः **अभयं** कृणुहि कुरु । सर्वतो भयरहितानस्मान् कुर्वित्यर्थः ॥ वृत्रहा । हन्तेः ' ब्रह्मभ्रूणवृत्रेषु क्विप् '। अभयम् ।' ञिभी भये ' इत्यस्मात् एर्च् । नञा समासे तस्य स्वरः । विश्वतः । पञ्चम्यास्तसिल् । लित्स्वरः ॥
@@ -358,13 +362,13 @@ Vereint, o Indra, mit den Marutscharen trink Soma, Held, du kund'ger Vritratödt
 
 भावार्थभाषाः -  जे राजे परस्पर मैत्री करून नियमित आहार-विहार, ब्रह्मचर्य, जितेन्द्रियता इत्यादीने शरीर व आत्म्याच्या पूर्ण बलाने शत्रूंचा संहार करतात व युद्ध जिंकून प्रजेला सर्व प्रकारे भयरहित करतात तेच सर्वत्र निर्भयतेने वावरून सुख प्राप्त करतात. ॥ २ ॥
 </details>
-</details>
+
 </div>  
 
 _______
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
-<details open><summary><h5>उपयाम-गृहीतः ...{Loading}...</h5></summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिन॑ ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥
@@ -374,8 +378,8 @@ _______
 
 (ग्रहणम्)
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
@@ -401,8 +405,8 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रा॑य त्वा षो॒ड॒शिने॑   +++(ग्रहणमन्त्रः)+++  ।
@@ -447,5 +451,5 @@ This is thy birthplace; to Indra of the Sodaśin thee!
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++
 </details>
-</details>
+
 </div>

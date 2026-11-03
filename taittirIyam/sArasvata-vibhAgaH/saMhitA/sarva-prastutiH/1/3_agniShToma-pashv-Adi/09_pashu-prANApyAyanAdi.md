@@ -284,26 +284,62 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शु॒द्धाश् च॒रित्राः॑ ।  
-शम् अ॒द्भ्यः ।   
-शमोष॑धीभ्यः ।  
-शम्पृ॑थि॒व्यै ।  
+शु॒द्धाश् च॒रित्राः॑ ।
 </details>
 
 <details><summary>Keith</summary>
 
-Be thy feet pure.  
-Hail to the waters [1]!  
-Hail to the plants!  
-Hail to earth!  
+Be thy feet pure.
 </details>
 
 <details><summary>मूलम्</summary>
 
-शु॒द्धाश् च॒रित्राः॑ ।  
-शम् अ॒द्भ्यः ।   
-शम् ओष॑धीभ्यः ।  
-शम् पृ॑थि॒व्यै ।  
+शु॒द्धाश् च॒रित्राः॑ ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+शम् अ॒द्भ्यः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Hail to the waters [1]!
+</details>
+
+<details><summary>मूलम्</summary>
+
+शम् अ॒द्भ्यः ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+शमोष॑धीभ्यः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Hail to the plants!
+</details>
+
+<details><summary>मूलम्</summary>
+
+शम् ओष॑धीभ्यः ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+शम्पृ॑थि॒व्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+Hail to earth!
+</details>
+
+<details><summary>मूलम्</summary>
+
+शम् पृ॑थि॒व्यै ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -428,7 +464,6 @@ _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11स्वधितिं निदधाति - स्वधिते मैनं हिंसीरिति ॥ व्याख्यातमेव ॥
-
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md">
@@ -495,19 +530,31 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रक्ष॑साम् भा॒गो॑ ऽसि ।  
+रक्ष॑साम् भा॒गो॑ ऽसि ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the share of the Raksases.
+</details>
+
+<details><summary>मूलम्</summary>
+
+रक्ष॑साम्भा॒गो॑ऽसि।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
 इ॒दम् अ॒हँ रक्षो॑ ऽध॒मन् तमो॑ नयामि।
 </details>
 
 <details><summary>Keith</summary>
 
-Thou art the share of the Raksases.  
 This Raksas here I lead to the lowest darkness.
 </details>
 
 <details><summary>मूलम्</summary>
 
-रक्ष॑साम्भा॒गो॑ऽसि।  
 इ॒दम॒हँ रक्षो॑ऽध॒मन्तमो॑ नयामि ।
 </details>
 
@@ -515,7 +562,6 @@ This Raksas here I lead to the lowest darkness.
 
 रक्ष॑साम् । भा॒गः । अ॒सि॒ ।   
 इ॒दम् । अ॒हम् । रक्षः॑ । अ॒ध॒मम् । तमः॑ । न॒या॒मि॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -786,7 +832,6 @@ Hail! go to Urdhva-nabhas, offspring of the Maruts.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 18वपाश्रपण्यौ प्रहरति - स्वाहेति ॥ हे वपाश्रपण्यौ युवां स्वाहा स्वाहुते भूत्वा ऊर्ध्वनभसं ऊर्ध्वनभस्संज्ञं मारुतं गच्छतं, यथा तेनैव प्रहृते स्याताम् । ऊर्ध्वं नभत इत्यूर्ध्वनभाः । णभ हिंसायां, अत्र तु गतिकर्मा, तस्मात् 'गतिकारकयोरपि पूर्वप दप्रकृतिस्वरत्वं च' इत्यसुन्प्रत्ययः । 'ऊर्ध्वनभा ह स्म वै मारुतो देवानाम्' इत्यादि ब्राह्मणम् ॥
-
 </details>
 
 इति तृतीये नवमोनुवाकः ॥  

@@ -73,7 +73,6 @@ The gods who receive offering secretly, he thus offers to them in sacrifice; in 
 
 यत् । यज॑ते । ये । ए॒व । दे॒वाः । प॒रोक्ष॒मिति॑परः-अक्ष॑म् । इ॒ज्यन्ते॑ । तान् । ए॒व । तत् । य॒ज॒ति॒ ।   
 यत् । अ॒न्वा॒हा॒र्य॑मित्य॑नु-आ॒हा॒र्य॑म् । आ॒हर॒तीत्या॑-हर॑ति । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -232,13 +231,12 @@ Now the priests are the messengers of the gods; in that he brings the Anvaharya 
 प्रजा᳓पतिर् देवे᳓भ्यो यज्ञा᳓न् व्या᳓दिशत् ।  
 स᳓ रिरिचानो᳙ +++(←रिक्तीभवन्न् [ऽहम् इति])+++ ऽमन्यत ।  
 स᳓ एत᳓म् अन्वाहार्य᳙म् अ᳓भक्तम् अपश्यत् ।  
-त᳓म् आत्म᳓न्न् अधत्त ।  
-स᳓ वा᳓ एष᳓ प्राजापत्यो᳓ य᳓द् अन्वाहार्यः᳙ ।  
+त᳓म् आत्म᳓न्न् अधत्त ।
 </details>
 
 <details><summary>Keith</summary>
 
-Prajapati distributed the sacrifice to the gods; he reflected that he was empty; he perceived this Anvaharya mess unallotted; he conferred it upon himself. The Anvaharya is connected with Prajapati; 
+Prajapati distributed the sacrifice to the gods; he reflected that he was empty; he perceived this Anvaharya mess unallotted; he conferred it upon himself.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -246,8 +244,22 @@ Prajapati distributed the sacrifice to the gods; he reflected that he was empty;
 प्र॒जाप॑तिर्दे॒वेभ्यो॑ य॒ज्ञान्व्यादि॑शत् ।  
 स रि॑रिचा॒नो॑ऽमन्यत ।  
 स ए॒तम॑न्वाहा॒र्य॑मभ॑क्तमपश्यत् ।  
-तमा॒त्मन्न॑धत्त ।  
-स वा ए॒ष प्रा॑जाप॒त्यो यद॑न्वाहा॒र्यः॑ ।  
+तमा॒त्मन्न॑धत्त ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स᳓ वा᳓ एष᳓ प्राजापत्यो᳓ य᳓द् अन्वाहार्यः᳙ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The Anvaharya is connected with Prajapati;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स वा ए॒ष प्रा॑जाप॒त्यो यद॑न्वाहा॒र्यः॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -276,21 +288,34 @@ Prajapati distributed the sacrifice to the gods; he reflected that he was empty;
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स्यैवव्ँ᳓ विदु᳓षो ऽन्वाहार्य᳙ आह्रिय᳓ते  
-साक्षा᳓द् एव᳓ प्रजा᳓पतिम् ऋध्नोति ।  
-अ᳓परिमितो निरु᳓प्यो᳓,  
-ऽपरिमितᳶ प्रजा᳓पतिᳶ,  
-प्रजा᳓पतेर् [12] आ᳓प्त्यै ।  
+साक्षा᳓द् एव᳓ प्रजा᳓पतिम् ऋध्नोति ।
 </details>
 
 <details><summary>Keith</summary>
 
-he, who knowing thus brings the Anvaharya, assuredly enjoys Prajapati. An unlimited amount should be poured out, Prajapati is unlimited; (verily it serves) to win Prajapati [2]. 
+he, who knowing thus brings the Anvaharya, assuredly enjoys Prajapati.
 </details>
 
 <details><summary>मूलम्</summary>
 
-यस्यै॒वव्ँवि॒दुषो॑ऽन्वाहा॒र्य॑ आह्रि॒यते॑ सा॒क्षादे॒व प्र॒जाप॑तिमृध्नोति ।  
-अप॑रिमितो नि॒रुप्योऽप॑रिमितᳶ प्र॒जाप॑तिᳶ प्र॒जाप॑तेः [12] +आप्त्यै॑ ।  
+यस्यै॒वव्ँवि॒दुषो॑ऽन्वाहा॒र्य॑ आह्रि॒यते॑ सा॒क्षादे॒व प्र॒जाप॑तिमृध्नोति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ᳓परिमितो निरु᳓प्यो᳓,  
+ऽपरिमितᳶ प्रजा᳓पतिᳶ,  
+प्रजा᳓पतेर् [12] आ᳓प्त्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+An unlimited amount should be poured out, Prajapati is unlimited; (verily it serves) to win Prajapati [2].
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप॑रिमितो नि॒रुप्योऽप॑रिमितᳶ प्र॒जाप॑तिᳶ प्र॒जाप॑तेः [12] +आप्त्यै॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -362,20 +387,33 @@ Whatever the gods did in the sacrifice, the Asuras did; the gods perceived the A
 ## इस्टापूर्ती
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज्ञे᳓न वा᳓ इष्टी᳓, पक्वे᳓न पूर्ती᳓ +++(यजमानः)+++।  
-य᳓स्यैवव्ँ᳓ विदु᳓षो ऽन्वाहार्य᳙ आह्रिय᳓ते, स᳓ त्वेवे᳓ष्टापूर्ती᳓।
+यज्ञे᳓न वा᳓ इष्टी᳓, पक्वे᳓न पूर्ती᳓ +++(यजमानः)+++।
 </details>
 
 <details><summary>Keith</summary>
 
-By the sacrifice there is offering, by the cooked food satisfying. He who knowing thus brings the Anvaharya, accomplishes at once sacrifice and satisfaction. 
+By the sacrifice there is offering, by the cooked food satisfying.
 </details>
 
 <details><summary>मूलम्</summary>
 
 य॒ज्ञेन॒ वा इ॒ष्टी  
-प॒क्वेन॑ पू॒र्ती ।  
-यस्यै॒वव्ँवि॒दुषो॑ऽन्वाहा॒र्य॑ आह्रि॒यते॒ स त्वे॑वेष्टा॑पू॒र्ती ।  
+प॒क्वेन॑ पू॒र्ती ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓स्यैवव्ँ᳓ विदु᳓षो ऽन्वाहार्य᳙ आह्रिय᳓ते, स᳓ त्वेवे᳓ष्टापूर्ती᳓।
+</details>
+
+<details><summary>Keith</summary>
+
+He who knowing thus brings the Anvaharya, accomplishes at once sacrifice and satisfaction.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यस्यै॒वव्ँवि॒दुषो॑ऽन्वाहा॒र्य॑ आह्रि॒यते॒ स त्वे॑वेष्टा॑पू॒र्ती ।
 </details>
 
 <details><summary>पद-पाठः</summary>

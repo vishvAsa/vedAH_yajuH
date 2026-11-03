@@ -1,6 +1,5 @@
 +++
 title = "२२ आदित्यग्रहः"
-
 +++
 १-२ बृहती , ३-त्रिष्टुप् । सोमऋषिः
 
@@ -11,8 +10,10 @@ _______
 यथोक्तं - 'पथ्या पञ्चभिरष्टाक्षरैः' इति । इयं तु शङ्कुमतीनाम पथ्या, यथोक्तं - 'एकस्मिन् पञ्चके छन्दश्शङ्कुमती' इति ।  
 पथ्या बृहती वा जागत-तृतीय-पादत्वात् ।  
 </details>
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/051/07_kadA_chana.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 कदा᳓ चन᳓ **स्तरी᳓र्**+++(=वन्ध्या गौः)+++ असि?  
 **ने᳓न्द्र**, **सश्चसि**+++(=संगच्छसे)+++ दाशु᳓षे ।  
@@ -20,9 +21,11 @@ _______
 **दा᳓नं** देव᳓स्य +++(उप+उप-)+++**पृच्यते**+++(←पृची सम्पर्के)+++ ॥
 
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/051/07_kadA_chana.md">
-<details open><summary><h5>007 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -239,6 +242,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कदा चन- कदापि। स्तरीः- हिंसकः। न। असि- भवसि। दाशुषे- दात्रे। सश्चसि- सङ्गच्छसे।  मघवन्- सम्पद्वन्। भूयः। इत्- एव। देवस्य- द्योतनशीलस्य। ते- तव। दानम्। उप पृच्यते-  सम्पृक्तं भवति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मघवन्** धनवन्न् **इन्द्र नु** क्षिप्रं **दानं** हविःसमर्पणं **नु** निश्चितं **भूय इत्** प्रचुरं सदेव ते तव देवस्य द्योतमानस्य परमेश्वरस्य उपोपेत् समीपमेव पृच्यते त्वया संपृक्तं भवति । स्वल्पमपि शीघ्रं सत्पात्रे समर्पितं बहुलीभूय ईश्वरे संगतं भवतीत्यभिप्रायः । 
@@ -329,7 +337,7 @@ Bisweilen, o Indra, bist du karg und bist dem Verehrer nicht zu Willen; nun aber
 - बृहती
 - मध्यमः
 </details>
-</details>
+
 </div>  
 
 _______
@@ -337,10 +345,10 @@ _______
 
 इमामनुद्रुत्योपयामगृहीतोस्यादित्येभ्यस्त्वेति गृह्णाति । 'अदितिः पुत्राकामा इत्यादि ब्राह्मणम्  ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
@@ -366,8 +374,8 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒दि॒त्येभ्य॑स्त्वा ॥
@@ -382,7 +390,7 @@ to the Adityas thee!
 
 आ॒दि॒त्येभ्य॑स्त्वा ॥
 </details>
-</details>
+
 </div>  
 
 _______
@@ -390,8 +398,10 @@ _______
 
 2शृतातंक्येन श्रीणाति - कदा चन प्र युच्छसीति पथ्ययैव पूर्वोक्तया । अत्र तु तृतीयपादः पञ्चाक्षरः । आदित्यग्रह एवात्रामन्त्र्यते । 
 </details>
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/051/07_kadA_chana.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 कदा᳓ चन᳓ **स्तरी᳓र्**+++(=वन्ध्या गौः)+++ असि?  
 **ने᳓न्द्र**, **सश्चसि**+++(=संगच्छसे)+++ दाशु᳓षे ।  
@@ -399,9 +409,11 @@ _______
 **दा᳓नं** देव᳓स्य +++(उप+उप-)+++**पृच्यते**+++(←पृची सम्पर्के)+++ ॥
 
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/051/07_kadA_chana.md">
-<details open><summary><h5>007 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -618,6 +630,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कदा चन- कदापि। स्तरीः- हिंसकः। न। असि- भवसि। दाशुषे- दात्रे। सश्चसि- सङ्गच्छसे।  मघवन्- सम्पद्वन्। भूयः। इत्- एव। देवस्य- द्योतनशीलस्य। ते- तव। दानम्। उप पृच्यते-  सम्पृक्तं भवति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मघवन्** धनवन्न् **इन्द्र नु** क्षिप्रं **दानं** हविःसमर्पणं **नु** निश्चितं **भूय इत्** प्रचुरं सदेव ते तव देवस्य द्योतमानस्य परमेश्वरस्य उपोपेत् समीपमेव पृच्यते त्वया संपृक्तं भवति । स्वल्पमपि शीघ्रं सत्पात्रे समर्पितं बहुलीभूय ईश्वरे संगतं भवतीत्यभिप्रायः । 
@@ -708,7 +725,7 @@ Bisweilen, o Indra, bist du karg und bist dem Verehrer nicht zu Willen; nun aber
 - बृहती
 - मध्यमः
 </details>
-</details>
+
 </div>  
 
 _______
@@ -717,10 +734,10 @@ _______
 इमाम् अनुद्रुत्योपयामगृहीतोस्यादित्येभ्यस्त्वा जुष्टं गृह्णामीति श्रीणाति ।  
 उपयामगृहीतोसीत्यस्य पूर्वत्राम्नातस्य उत्तरयानया ऋचा सम्बन्धः । 'पशवो वा एते यदादित्य ऊर्ग्दधि' इत्यादि ब्राह्मणम्  ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
@@ -746,8 +763,8 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒दि॒त्येभ्य॑स्त्वा ॥
@@ -762,7 +779,7 @@ to the Adityas thee!
 
 आ॒दि॒त्येभ्य॑स्त्वा ॥
 </details>
-</details>
+
 </div>  
 
 _______
@@ -770,8 +787,10 @@ _______
 
 3पुनरपि तस्मिन्नेव सोमं गृह्णाति - यज्ञो देवानामिति चतुष्पदया त्रिष्टुभा । 'तिसृभिर् ऋग्भिर्गृह्णाति' इति ब्राह्मणम् ॥ 
 </details>
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/107/01_yajno_devAnAM.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 **यज्ञो᳓** देवा᳓नां **प्र᳓त्येति** सुम्न᳓म्+++(=सुखम्)+++  
 आ᳓दित्यासो **भ᳓वता मृळय᳓न्तः** ।  
@@ -779,9 +798,11 @@ _______
 अंहो᳓श्+++(=पापि)+++-चिद् या᳓ **वरिवो++(=ध᳓न᳓)+++-वि᳓त्-तरा᳓ +आ᳓सत्** ॥
 
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/107/01_yajno_devAnAM.md">
-<details open><summary><h5>001 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -996,6 +1017,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवानाम्- द्योतनशीलानाम्। यज्ञः- उपासनम्। सुम्नम्- आनन्दम्। प्रत्येति- प्राप्नोति।  आदित्यासः- अखण्डप्रकृतिजाः। मृळयन्तः- आनन्दयन्तः। भवत। वः- युष्माकम्। या।  अंहोश्चित्- पापिनोपि। वरिवोवित्तरा- पुण्यसंपल्लम्भयित्री। असत्- भवेत्। अर्वाची- सा  अस्मदभिमुखी। सुमतिः- शोभनमतिः। आ ववृत्यात्- आवर्तताम्॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अस्मदीयः **यज्ञो** **देवानाम्** इन्द्रादीनां **सुम्नं** सुखं **प्रत्येति** प्राप्नोतु । 
@@ -1151,7 +1177,7 @@ Zur Huld der Götter eilet hin das Opfer, o seid uns gnädig, ihr Aditi-Söhne, 
 
 भावार्थभाषाः -  या जगात विद्वानांनी आपल्या पुरुषार्थाने जी शिल्पविद्या (कारागिरी) प्रत्यक्ष केलेली आहे. त्यांनी ती सर्व माणसांसाठी प्रकट करावी ज्यामुळे पुष्कळ माणसे शिल्पक्रियेमुळे सुखी व्हावीत. ॥ १ ॥
 </details>
-</details>
+
 </div>
 
 _______
@@ -1159,10 +1185,10 @@ _______
 
 इमामनुद्रुत्योपयामगृहीतोस्यादित्येभ्यस्त्वेति गृह्णाति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
@@ -1188,8 +1214,8 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒दि॒त्येभ्य॑स्त्वा ॥
@@ -1204,7 +1230,7 @@ to the Adityas thee!
 
 आ॒दि॒त्येभ्य॑स्त्वा ॥
 </details>
-</details>
+
 </div>  
 
 _______
@@ -1267,5 +1293,4 @@ With the rain of the sky I mix thee.
 
 किञ्च - या दिव्या वृष्टिः । दिवमर्हतीति 'छन्दसि च' इति यत्प्रत्ययः ।  
 ननु 'मन्त्रे वृष' इति क्तिन उदात्तत्वेन भवितव्यम् । भाव्यं भावे क्तिनः, इह तु करणे क्तिन् । तया हे सोम त्वां श्रीणामि मिश्रयामि । ननूपांशुसवनेन श्रीणातीत्युक्तं तत्कथं वृष्ट्या श्रीयत इति । नैष दोषः, 'वृष्टिकामस्य श्रीणीयात्' इति श्रयणस्व वृष्टिहेतुत्वादभेदोपचारः, वृष्टिहेतुनोपांशुसवनेन श्रीणामीति यावत् । 'यदि ताजक्प्रस्कन्देत्' इत्यादि ब्राह्मणम्  ॥
-
 </details>

@@ -53,7 +53,6 @@ Do thou swell for Indra.
 इन्द्रा॑य । ए॒क॒ध॒न॒विद॒ इत्ये॑कधन-विदे॑ ।   
 एति॑ । तुभ्य॑म् । इन्द्रः॑ । प्या॒य॒ता॒म् ।   
 एति॑ । त्वम् । इन्द्रा॑य । प्या॒य॒स्व॒ ।    
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -150,22 +149,6 @@ ________
 > “न प्रस्तरायाऽऽश्रावयति न बर्हिर् अनुप्रहरति तं दक्षिणार्धे वेद्यै निधाय तस्मिन् दक्षिणोत्तरेण निह्नुवते 'एष्टा रायः प्रेषे भगाय ऋतम् ऋत-वादिभ्यो नमो दिवे नमः पृथिव्या' इति” 
 
 इति।
-
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-+++(हे प्रस्तर)+++ एष्टा॒+++(=इच्छुक)+++ राय॒ᳶ प्र+इ॒षे भगा॑य +ऋ॒तम् ऋ॑तवा॒दिभ्यः॑ +++(भव)+++।
-नमो॑ दि॒वे ।  
-नमᳶ॑ पृथि॒व्यै ।  
-+++('द्यावापृथिवीभ्यामेव नमस्कृत्यास्मिन् लोके प्रतितिष्ठन्ति' इति ब्राह्मणम् ।)+++
-</details>
-
-<details><summary>Keith</summary>
-
-Desired are riches exceedingly for food, for prosperity. Be right to the proclaimers of right.  
-Honour to the sky,  
-honour to the earth!
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -173,10 +156,51 @@ honour to the earth!
 एष्टा॒ राय॒ᳶ प्रेषे भगा॑य॒र्तमृ॑तवा॒दिभ्यो॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(हे प्रस्तर)+++ एष्टा॒+++(=इच्छुक)+++ राय॒ᳶ प्र+इ॒षे भगा॑य
+</details>
+
+<details><summary>Keith</summary>
+
+Desired are riches exceedingly for food, for prosperity.
+</details>
+
 <details><summary>मूलम्</summary>
 
-एष्टा॒ राय॒ᳶ प्रेषे भगा॑य  +++(भव)+++ ।  
-ऋ॒तमृ॑तवा॒दिभ्यः॑  +++(भव)+++ ।  
+एष्टा॒ राय॒ᳶ प्रेषे भगा॑य  +++(भव)+++ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++ऋ॒तम् ऋ॑तवा॒दिभ्यः॑ +++(भव)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+Be right to the proclaimers of right.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऋ॒तमृ॑तवा॒दिभ्यः॑  +++(भव)+++ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नमो॑ दि॒वे ।  
+नमᳶ॑ पृथि॒व्यै ।  
++++('द्यावापृथिवीभ्यामेव नमस्कृत्यास्मिन् लोके प्रतितिष्ठन्ति' इति ब्राह्मणम् ।)+++
+</details>
+
+<details><summary>Keith</summary>
+
+Honour to the sky,  
+honour to the earth!
+</details>
+
+<details><summary>मूलम्</summary>
+
 नमो॑ दि॒वे ।  
 नमᳶ॑ पृथि॒व्यै ।
 </details>
@@ -242,32 +266,44 @@ ________
 इति।
 </details>
 
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+अग्ने॑ व्रतपते॒ त्वव्व्ँर॒ताना॑व्व्ँर॒तप॑तिरसि॒ या मम॑ त॒नूरे॒षा सा त्वयि॑ [20]या तव॑ त॒नूरि॒यँ सा मयि॑ स॒ह नौ॑ व्रतपते व्र॒तिनो॑र्व्र॒तानि
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने॑ व्रतपते॒ - त्वव्ँ व्र॒तानाव्ँ॑ व्र॒तप॑तिर् असि ।  
 या मम॑ त॒नूर् ए॒षा +++(इत्यङ्गुल्या अग्नेस्तनूं दर्शयति)+++ सा त्वयि॑ +++(निवेशिता)+++।  
-या तव॑ त॒नूर् इ॒यँ +++(आत्मशरीरमङ्गुल्या दर्शयति)+++ सा मयि॑ +++(निवेशिता)+++।   
-स॒ह नौ॑ व्रतपते व्र॒तिनो॑र् व्र॒तानि । +++(यन्मया कृतं तत्त्वयापि कृतं भवतीति ।)+++
+या तव॑ त॒नूर् इ॒यँ +++(आत्मशरीरमङ्गुल्या दर्शयति)+++ सा मयि॑ +++(निवेशिता)+++।
 </details>
 
 <details><summary>Keith</summary>
 
 Agni, lord of vows, thou art the vow-lord of vows;  
 this body of mine be in thee [1],  
-that body of thine be in me.  
-Together, O lord of vows, be the vows of us two that keep vows.
-</details>
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-अग्ने॑ व्रतपते॒ त्वव्व्ँर॒ताना॑व्व्ँर॒तप॑तिरसि॒ या मम॑ त॒नूरे॒षा सा त्वयि॑ [20]या तव॑ त॒नूरि॒यँ सा मयि॑ स॒ह नौ॑ व्रतपते व्र॒तिनो॑र्व्र॒तानि
+that body of thine be in me.
 </details>
 
 <details><summary>मूलम्</summary>
 
 अग्ने॑ व्रतपते॒ त्वव्व्ँर॒ताना॑व्व्ँर॒तप॑तिरसि ।  
 या मम॑ त॒नूरे॒षा सा त्वयि॑ ।  
-या तव॑ त॒नूरि॒यँ सा मयि॑ ।  
+या तव॑ त॒नूरि॒यँ सा मयि॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒ह नौ॑ व्रतपते व्र॒तिनो॑र् व्र॒तानि । +++(यन्मया कृतं तत्त्वयापि कृतं भवतीति ।)+++
+</details>
+
+<details><summary>Keith</summary>
+
+Together, O lord of vows, be the vows of us two that keep vows.
+</details>
+
+<details><summary>मूलम्</summary>
+
 स॒ह नौ॑ व्रतपते व्र॒तिनो॑र्व्र॒तानि ।
 </details>
 
@@ -277,7 +313,6 @@ Together, O lord of vows, be the vows of us two that keep vows.
 या । मम॑ । त॒नूः । ए॒षा । सा । त्वयि॑ । [20]  
 या । तव॑ । त॒नूः । इ॒यम् । सा । मयि॑ ।   
 स॒ह । नौ॒ । व्र॒त॒प॒त॒ इति॑ व्रत-प॒ते॒ । व्र॒तिनोः॑ । व्र॒तानि॑ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

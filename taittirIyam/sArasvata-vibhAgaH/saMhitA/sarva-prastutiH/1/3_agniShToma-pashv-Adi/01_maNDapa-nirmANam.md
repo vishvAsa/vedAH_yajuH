@@ -10,6 +10,7 @@ ________
 
 तत्रौदुम्बर्य-वट-परिलेखनार्थम् अभ्रिम्+++(=अग्नीध्र-खनित्रम्)+++ आदत्ते - देवस्य त्वेति ॥
 </details>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 द्वितीयस्मिन् प्रपाठके सोम-क्रयं प्राधान्येन प्रतिपाद्य ततो हविर्धान-मण्डप-निर्माण-पर्यन्तं कर्म-जातं प्रतिपादितम्। अथ तृतीये ऽस्मिल्ल् प्रपाठके ऽग्नीषोमीय-पशुः प्राधान्येन प्रतिपाद्यते। आदौ तावत् पूर्व-शेषः सदो-मण्ड-निर्माणादिः प्रतिपाद्यते। 
@@ -538,7 +539,6 @@ Support the sky, fill the atmosphere, make firm the earth.
 उद्दिवँ॑ स्तभान   ।  
 आन्तरि॑क्षम्  पृण ।   
 पृ॒थि॒वीन्दृँ॑ह ।
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -594,7 +594,6 @@ May Dyutana Maruta set thee up according to the established law of Mitra and Var
 
 द्यु॒ता॒नः । त्वा॒ । मा॒रु॒तः । मि॒नो॒तु॒ ।   
 मि॒त्रावरु॑णयो॒रिति॑ मि॒त्रा-वरु॑णयोः । ध्रु॒वेण॑ । धर्म॑णा ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -774,7 +773,6 @@ _______
 15मध्यम छदिर्निदधाति - इन्द्रस्येति ॥
 </details>
 
-
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 "इन्द्रस्येति"। बौधायनः — 
@@ -854,15 +852,6 @@ the shade of all folk.
 इ॒मा भ॑वन्तु वि॒श्वतः॑ ।  
 वृ॒द्धायु॒म् अनु॒ वृद्ध॑यो॒  
 जुष्टा॑ भवन्तु॒ जुष्ट॑यः ॥
-</details>
-
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-"परि त्वेति"। कल्पः — 
-
->‘अथैनान् परिश्रयन्ति परि त्वा गिर्वणो गिर इमा भवन्तु विश्वतो वृद्धायुमनु वृद्धयो जुष्टा भवन्तु जुष्टय इति’  
-
-इति।
 </details>
 
 </div>
@@ -988,19 +977,31 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्रम् अ॑सि ।  
+ऐ॒न्द्रम् अ॑सि ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art of Indra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऐ॒न्द्रम॑सि ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
 इन्द्रा॑य त्वा ॥[2]
 </details>
 
 <details><summary>Keith</summary>
 
-Thou art of Indra.  
 To Indra thee!
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऐ॒न्द्रम॑सि ।  
 इन्द्रा॑य त्वा ॥[2]
 </details>
 

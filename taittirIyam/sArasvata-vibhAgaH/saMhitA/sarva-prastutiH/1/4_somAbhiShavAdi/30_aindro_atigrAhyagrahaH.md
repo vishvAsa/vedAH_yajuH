@@ -1,6 +1,5 @@
 +++
 title = "३० ऐन्द्रो अतिग्राह्यग्रहः"
-
 +++
 
 गायत्री। सोमऋषिः
@@ -9,16 +8,21 @@ _______
 
 1अथैन्द्रं गृह्णाति - उत्तिष्ठन्निति गायत्र्या ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/30_aindro_atigrAhyagrahaH/02_uttiShThann_ojasA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 उ॒त्तिष्ठ॒न्न् ओज॑सा स॒ह  
 पी॒त्वा, **शिप्रे॑+++(=हनू)+++ अवेपयः** ।  
 सोम॑म् इन्द्र च॒मू+++(←चमु अदने)+++ सु॒तम् ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/30_aindro_atigrAhyagrahaH/02_uttiShThann_ojasA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Arising in might,  
@@ -39,15 +43,17 @@ When thou hadst drunk the cup-pressed Soma.
 चमु छमु अदने, औणादिक ऊप्रत्ययः ॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य 'उपयामगृहीतोसि विश्वेभ्यस्त्वा देवेभ्यः' इति गृह्णाति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
@@ -73,8 +79,8 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑]
@@ -185,8 +191,9 @@ this is thy birthplace; to the All-gods thee!
 
 'वैश्वदेवो ह्येष देवतया' इति ब्राह्मणम् । 'आत्मा वा एष यज्ञस्य यदाग्रयणः' इत्यादि च ॥
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रा॑य॒ त्वौज॑स्वते ।  
@@ -211,7 +218,6 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य॒ त्वौज॑स्वते ॥ [31]  +++(सादनमन्त्रः)+++
-
 </details>
 
 <details><summary>Keith</summary>
@@ -223,7 +229,6 @@ to Indra the mighty thee!
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य॒ त्वौज॑स्वते ॥ [31]  +++(सादनमन्त्रः)+++
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

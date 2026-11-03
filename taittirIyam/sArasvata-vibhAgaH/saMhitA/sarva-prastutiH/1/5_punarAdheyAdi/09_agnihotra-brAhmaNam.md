@@ -185,17 +185,31 @@ He pays reverence with many (verses);
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रेत॑स ए॒व सि॒क्तस्य॑ बहु॒शो रू॒पाणि॒ वि क॑रोति ।   
-स प्रैव जा॑यते ।
+रेत॑स ए॒व सि॒क्तस्य॑ बहु॒शो रू॒पाणि॒ वि क॑रोति ।
 </details>
+
 <details><summary>Keith</summary>
 
-verily he makes many modifications of the seed when poured.  
-He is fruitful 
+verily he makes many modifications of the seed when poured.
 </details>
+
 <details><summary>मूलम्</summary>
 
-रेत॑स ए॒व सि॒क्तस्य॑ बहु॒शो रू॒पाणि॒ वि क॑रोति ।   
+रेत॑स ए॒व सि॒क्तस्य॑ बहु॒शो रू॒पाणि॒ वि क॑रोति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स प्रैव जा॑यते ।
+</details>
+
+<details><summary>Keith</summary>
+
+He is fruitful
+</details>
+
+<details><summary>मूलम्</summary>
+
 स प्रैव जा॑यते ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -223,18 +237,33 @@ who knowing thus pays reverence to the fire.
 #### पशुलाभः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अह॑र् दे॒वाना॒म् आसी॒द्, रात्रि॒र् असु॑राणाम्   ।  
-तेऽसु॑रा॒ यद् दे॒वानाव्ँ॑ वि॒त्तव्ँ वेद्य॒म् आसी॒त्, तेन॑ स॒ह रात्रि॒म् प्रावि॑शन् ।  
-ते॒ दे॒वा ही॒ना अ॑मन्यन्त ।
+अह॑र् दे॒वाना॒म् आसी॒द्, रात्रि॒र् असु॑राणाम्   ।
 </details>
+
 <details><summary>Keith</summary>
 
-The day was the gods', the night the Asuras'. The Asuras entered night with all the precious wealth of the gods [2]; the gods thought that they were abandoned; 
+The day was the gods', the night the Asuras'.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अह॑र्दे॒वाना॒मासी॒द्   
-रात्रि॒रसु॑राणां  ।  
+रात्रि॒रसु॑राणां  ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेऽसु॑रा॒ यद् दे॒वानाव्ँ॑ वि॒त्तव्ँ वेद्य॒म् आसी॒त्, तेन॑ स॒ह रात्रि॒म् प्रावि॑शन् ।  
+ते॒ दे॒वा ही॒ना अ॑मन्यन्त ।
+</details>
+
+<details><summary>Keith</summary>
+
+The Asuras entered night with all the precious wealth of the gods [2]; the gods thought that they were abandoned;
+</details>
+
+<details><summary>मूलम्</summary>
+
 तेऽसु॑रा॒ यद्दे॒वानाव्ँ॑वि॒त्तव्ँवेद्य॒मासी॒त्तेन॑ स॒ह रात्रि॒म्प्रावि॑शन् ।  
 ते॒ दे॒वा ही॒ना अ॑मन्यन्त ।
 </details>
@@ -270,16 +299,26 @@ they perceived, 'The night is Agni's, cattle are Agni's; verily let us praise Ag
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वाᳶ प॒शून् वि॒त्वा कामाँ॑ अकुर्वत ।  
+ते दे॒वाᳶ प॒शून् वि॒त्वा कामाँ॑ अकुर्वत ।
+</details>
+<details><summary>Keith</summary>
+
+the gods having gained their cattle per formed their desires.
+</details>
+<details><summary>मूलम्</summary>
+
+ते दे॒वाᳶ प॒शून् वि॒त्वा कामाँ॑ अकुर्वत ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 य ए॒वव्ँ वि॒द्वान् अ॒ग्निम् उ॑प॒तिष्ठ॑ते  - पशु॒मान् भ॑वति ।
 </details>
 <details><summary>Keith</summary>
 
-the gods having gained their cattle per formed their desires. He who knowing thus pays reverence to the fire becomes possessed of cattle [3]. 
+He who knowing thus pays reverence to the fire becomes possessed of cattle [3].
 </details>
 <details><summary>मूलम्</summary>
 
-ते दे॒वाᳶ प॒शून् वि॒त्वा कामाँ॑ अकुर्वत ।  
 य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॑ते पशु॒मान्भ॑वति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -294,22 +333,10 @@ the gods having gained their cattle per formed their desires. He who knowing thu
 सो॑ ऽमुल्ँ लो॒कङ् ग॒त्वा पुन॑र् इ॒मल्ँ लो॒कम् अ॒भ्य॑ध्यायत् ।   
 स इ॒मल्ँ लो॒कम् आ॒गत्य॑ मृ॒त्योर् अ॑बिभेत् ।
 मृ॒त्यु-सय्ँ॑युत इव॒ ह्य् अ॑यल्ँ लो॒कः ।
-
-सो॑ऽमन्यत ।   
-इ॒मम् ए॒वाग्निँ स्त॑वानि ।    
-स मा॑ स्तु॒तस् सु॑व॒र्गल्ँ लो॒कङ् ग॑मयिष्य॒तीति॑ ।
-
-सो॒॑ऽग्निम् अ॑स्तौत् ।    
-स ए॑नँ स्तु॒तस् सु॑व॒र्गल्ँ लो॒कम् अ॑गमयत् ।    
-ए॒वव्ँ वि॒द्वान् अ॒ग्निम् उ॑प॒तिष्ठ॑ते -  
-सुव॒र्गम् ए॒व लो॒कम् ए॑ति॒, सर्व॒म् आयु॑र् एति ।
-
 </details>
 <details><summary>Keith</summary>
 
-The sun went from this world to yonder world; he having gone to yonder world bethought him again of this world; having returned to this world he had fear of death, for this world is, as it were, yoked with death. He reflected, 'Let me praise Agni here; he, praised, will make me go to the world of heaven.' He praised Agni; he, praised, made him go to the world of heaven. 
-
-He who [4] knowing thus pays reverence to the fire, goes to the world of heaven and lives all his days. 
+The sun went from this world to yonder world; he having gone to yonder world bethought him again of this world; having returned to this world he had fear of death, for this world is, as it were, yoked with death.
 </details>
 <details><summary>मूलम्</summary>
 
@@ -317,13 +344,48 @@ He who [4] knowing thus pays reverence to the fire, goes to the world of heaven 
 सो॑ ऽमुल्ँ लो॒कङ् ग॒त्वा पुन॑र् इ॒मल्ँ लो॒कम् अ॒भ्य॑ध्यायत् ।   
 स इ॒मल्ँ लो॒कम् आ॒गत्य॑ मृ॒त्योर् अ॑बिभेत् ।
 मृ॒त्यु-सय्ँ॑युत इव॒ ह्य् अ॑यल्ँ लो॒कः ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो॑ऽमन्यत ।   
 इ॒मम् ए॒वाग्निँ स्त॑वानि ।    
 स मा॑ स्तु॒तस् सु॑व॒र्गल्ँ लो॒कङ् ग॑मयिष्य॒तीति॑ ।
+</details>
+<details><summary>Keith</summary>
+
+He reflected, 'Let me praise Agni here; he, praised, will make me go to the world of heaven.'
+</details>
+<details><summary>मूलम्</summary>
+
+सो॑ऽमन्यत ।   
+इ॒मम् ए॒वाग्निँ स्त॑वानि ।    
+स मा॑ स्तु॒तस् सु॑व॒र्गल्ँ लो॒कङ् ग॑मयिष्य॒तीति॑ ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो॒॑ऽग्निम् अ॑स्तौत् ।    
-स ए॑नँ स्तु॒तस् सु॑व॒र्गल्ँ लो॒कम् अ॑गमयत् ।    
+स ए॑नँ स्तु॒तस् सु॑व॒र्गल्ँ लो॒कम् अ॑गमयत् ।
+</details>
+<details><summary>Keith</summary>
+
+He praised Agni; he, praised, made him go to the world of heaven.
+</details>
+<details><summary>मूलम्</summary>
+
+सो॒॑ऽग्निम् अ॑स्तौत् ।    
+स ए॑नँ स्तु॒तस् सु॑व॒र्गल्ँ लो॒कम् अ॑गमयत् ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ए॒वव्ँ वि॒द्वान् अ॒ग्निम् उ॑प॒तिष्ठ॑ते -  
+सुव॒र्गम् ए॒व लो॒कम् ए॑ति॒, सर्व॒म् आयु॑र् एति ।
+</details>
+<details><summary>Keith</summary>
+
+He who [4] knowing thus pays reverence to the fire, goes to the world of heaven and lives all his days.
+</details>
+<details><summary>मूलम्</summary>
+
 ए॒वव्ँ वि॒द्वान् अ॒ग्निम् उ॑प॒तिष्ठ॑ते -  
 सुव॒र्गम् ए॒व लो॒कम् ए॑ति॒, सर्व॒म् आयु॑र् एति ।
 </details>
@@ -455,17 +517,27 @@ and who then will day by day beg of the gods? …
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ खल्वा॑हुर् - "आ॒शिषे॒ वै कय्ँ यज॑मानो यजत॒" इति।  
+अथो॒ खल्वा॑हुर् - "आ॒शिषे॒ वै कय्ँ यज॑मानो यजत॒" इति।
+</details>
+<details><summary>Keith</summary>
+
+Then they say, 'The sacrificer sacrifices for the sake of the benediction.'
+</details>
+<details><summary>मूलम्</summary>
+
+अथो॒ खल्वा॑हुरा॒शिषे॒ वै कय्ँयज॑मानो यजत॒ इति॑ ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ए॒षा खलु॒ वै आहि॑ताग्नेर् आ॒शीर् - यद् अ॒ग्निम् उ॑प॒तिष्ठ॑ते।  
 तस्मा॑द् +++(रात्रौ प्रातश् चाप्य्)+++ उप॒स्थेयः॑।
 </details>
 <details><summary>Keith</summary>
 
-Then they say, 'The sacrificer sacrifices for the sake of the benediction.' The reverence of the fire is [6] the benediction of him who has established a fire; therefore reverence should be paid to the fire. 
+The reverence of the fire is [6] the benediction of him who has established a fire; therefore reverence should be paid to the fire.
 </details>
 <details><summary>मूलम्</summary>
 
-अथो॒ खल्वा॑हुरा॒शिषे॒ वै कय्ँयज॑मानो यजत॒ इति॑ ।  
 ए॒षा खलु॒ वै [41]  
 आहि॑ताग्नेरा॒शीर्यद॒ग्निमु॑प॒तिष्ठ॑ते  
 तस्मा॑दुप॒स्थेयः॑ ।
@@ -483,19 +555,29 @@ Then they say, 'The sacrificer sacrifices for the sake of the benediction.' The 
 
 प्र॒जाप॑तिᳶ प॒शून् अ॑सृजत ।  
 ते सृ॒ष्टा अ॑हो-रा॒त्रे प्रावि॑शन् ।   
-ताञ् छन्दो॑भि॒र् अन्व॑विन्दत् ।  
-यच् छन्दो॑भिर् उप॒तिष्ठ॑ते॒ - स्वम् ए॒व तद् अन्वि॑च्छति ।   
+ताञ् छन्दो॑भि॒र् अन्व॑विन्दत् ।
 </details>
 <details><summary>Keith</summary>
 
-Prajapati created cattle; being created they entered day and night; he recovered them by means of the metres. In that he pays reverence with the metres, he seeks to recover his own. 
+Prajapati created cattle; being created they entered day and night; he recovered them by means of the metres.
 </details>
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिᳶ प॒शून॑सृजत ।  
 ते सृ॒ष्टा अ॑होरा॒त्रे प्रावि॑शन् ।   
-ताञ्छन्दो॑भि॒रन्व॑विन्दत् ।  
-यच्छन्दो॑भिरुप॒तिष्ठ॑ते॒ स्वमे॒व तदन्वि॑च्छति ।   
+ताञ्छन्दो॑भि॒रन्व॑विन्दत् ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यच् छन्दो॑भिर् उप॒तिष्ठ॑ते॒ - स्वम् ए॒व तद् अन्वि॑च्छति ।
+</details>
+<details><summary>Keith</summary>
+
+In that he pays reverence with the metres, he seeks to recover his own.
+</details>
+<details><summary>मूलम्</summary>
+
+यच्छन्दो॑भिरुप॒तिष्ठ॑ते॒ स्वमे॒व तदन्वि॑च्छति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

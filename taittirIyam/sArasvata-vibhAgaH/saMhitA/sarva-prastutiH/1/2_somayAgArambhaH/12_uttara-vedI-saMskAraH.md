@@ -170,7 +170,6 @@ protect me when afflicted.
 <details><summary>सायण-टीका</summary>
 
 व्यथितं वह्न्यलाभाद् भीतं मां रक्ष।  
-
 </details>
 
 ## स्फ्येन प्रहारः
@@ -214,7 +213,6 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in this earth.
 
 वि॒देः । अ॒ग्निः । नभः॑ । नाम॑ ।  अग्ने॑ । अ॒ङ्गि॒रः॒ ।   
 यः । अ॒स्याम् । पृ॒थि॒व्याम् । असि॑ । 
-
 </details>
 </details>
 
@@ -245,7 +243,6 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in this earth.
 इति।
 
 अयं चाग्निः सोम-आहुत्य्-आधारत्वाद् गार्हपत्य-दक्षिणाग्न्यादीनां मध्ये सारः। हे ऽङ्गिरो यस् त्वम् अस्यां चात्वाल-गत-मृद्-रूपायां पृथिव्याम् असि वर्तसे 
-
 </details>
 
 ________
@@ -428,7 +425,6 @@ ________
 अत्राग्ने अङ्गिरो यो द्वितीयस्याम् इत्य् आम्नातो द्वितीय-मन्त्रस् तस्याऽऽदौ विदेर् इत्यादिर् अनुषज्यते। अवसाने च पृथिव्याम् इत्यादिर् अनुषज्यते। तृतीयस्याम् इत्यादिश् चरम-मन्त्रस् तस्य विदेर् इत्यादिर् एवानुषज्यते। चात्वाल-स्थितायाः पृथिव्या अंश-भेदेन द्वितीयत्वं तृतीयत्वं च द्रष्टव्यम्।
 
 [[P308]]
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -513,7 +509,6 @@ ________
 > “सिंहीरसीत्य्-उत्तर-वेद्यां निवपति”  
 
 इति।
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -652,7 +647,6 @@ Thou art firm.
 <details><summary>सायण-टीका</summary>
 
 ध्रुवा दृढा। 
-
 </details>
 
 ## अवोक्षणादिकम्
@@ -727,7 +721,6 @@ be bright for the gods.
 <details><summary>सायण-टीका</summary>
 
 शुम्भस्व शोभिता भव।
-
 </details>
 
 ________
@@ -1076,7 +1069,6 @@ Thou art a lioness; bring the gods to the pious sacrificer; hail!
 <details><summary>सायण-टीका</summary>
 
 देवयते देवान् इच्छते यजमानाय तवेदं हुतम् अस्तु।
-
 </details>
 
 ________
@@ -1122,7 +1114,6 @@ To beings thee!
 <details><summary>सायण-टीका</summary>
 
 हे जुहूस् त्वां भूतेभ्यश्-चिरंतनेभ्यो देवेभ्य उद्गृह्णामि।
-
 </details>
 
 _____
@@ -1190,7 +1181,6 @@ _______
 <details><summary>Keith</summary>
 
 thou restest firm, strengthen the atmosphere;
-
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -1261,7 +1251,6 @@ thou restest inviolable, strengthen the heaven.
 <details><summary>सायण-टीका</summary>
 
 हे उत्तर-परिधे त्वम्-अविनष्ट-निवासो ऽसि।
-
 </details>
 
 ________
@@ -1287,7 +1276,6 @@ ________
 <details><summary>Keith</summary>
 
 Thou art the ashes of Agni; thou art the rubble of Agni.
-
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -1311,13 +1299,11 @@ Thou art the ashes of Agni; thou art the rubble of Agni.
 
 28सम्भारान्निवपति - अग्नेरिति ॥ अग्नेर्भस्म दीप्तिसाधनं  त्वमसि । भस भर्त्सनदीप्त्योः ।   
 अग्नेः पुरीषं पूरणं प्रीणनं वा त्वमसि । तस्मादग्निं भासय पूरय प्रीणय वा । 'यदेतान्सम्भारान्सम्भरति' इति ब्राह्मणम् ॥
-
 </details>
 
 <details><summary>सायण-टीका</summary>
 
 हे संभार-स्वरूप त्वम्-अग्नेर्-भासकं पूरकं चासि।
-
 </details>
 
 इति द्वितीये द्वादशोनुवाकः  

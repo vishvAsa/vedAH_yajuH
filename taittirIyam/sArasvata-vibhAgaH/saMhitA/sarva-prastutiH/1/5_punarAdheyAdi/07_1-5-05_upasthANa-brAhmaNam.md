@@ -19,19 +19,28 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अय॑ज्ञो॒ वा ए॒ष यो॑ऽसा॒मा।   
+अय॑ज्ञो॒ वा ए॒ष यो॑ऽसा॒मा।
+</details>
+<details><summary>Keith</summary>
+
+There is no sacrifice without a Saman.
+</details>
+<details><summary>मूलम्</summary>
+
+अय॑ज्ञो॒ वा ए॒ष यो॑ऽसा॒मा...
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "उ॒प॒प्र॒यन्तो॑ अध्व॒रम्" इत्य् आ॑ह॒ -  
 स्तोम॑म् ए॒वास्मै॑ युन॒क्ति ।
 </details>
 <details><summary>Keith</summary>
 
-There is no sacrifice without a Saman.  
 'As we approach the sacrifice', he says;  
-verily he yokes a Stoma with it. 
+verily he yokes a Stoma with it.
 </details>
 <details><summary>मूलम्</summary>
 
-अय॑ज्ञो॒ वा ए॒ष यो॑ऽसा॒मा...   
 उ॒प॒प्र॒यन्तो॑ अध्व॒रमित्या॑ह॒ -  
 स्तोम॑मे॒वास्मै॑ युन॒क्ति ।
 </details>
@@ -120,7 +129,6 @@ and verily from the world of the gods he rests in the world of men.
 
 4अग्निरिति ॥ अग्नेर्मूर्धत्वाभिधानं यजमानस्य प्राधान्यार्थम् इति ।
 **अथो** अपि च **देवलोकाद्** आगत्य **मनुष्यलोके** प्रतिष्ठितो भवति ॥
-
 </details>
 
 ## अ॒यम् इ॒ह प्र॑थ॒मो धा॑यि धा॒तृभि॒र्
@@ -282,18 +290,32 @@ at the end of the year he pays reverence with (verses) containing the words Agni
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पु॒न॒र्न॒वम् ए॒वैन॑म् अ॒जर॑ङ् करो॒ति ।  
-अथो॑ पु॒नात्य् ए॒व। 
+पु॒न॒र्न॒वम् ए॒वैन॑म् अ॒जर॑ङ् करो॒ति ।
 </details>
+
 <details><summary>Keith</summary>
 
-Verily he renews it and makes it unageing, and also purifies it.  
-He pays reverence; that is his union. 
+Verily he renews it and makes it unageing, and also purifies it.
 </details>
+
 <details><summary>मूलम्</summary>
 
-पु॒न॒र्न॒वमे॒वैन॑म॒जर॑ङ्करो॒ति ।  
-अथो॑ पु॒नात्ये॒व।  
+पु॒न॒र्न॒वमे॒वैन॑म॒जर॑ङ्करो॒ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथो॑ पु॒नात्य् ए॒व।
+</details>
+
+<details><summary>Keith</summary>
+
+He pays reverence; that is his union.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथो॑ पु॒नात्ये॒व।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -333,17 +355,26 @@ He pays reverence [3]; that is his bond.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उप॑ तिष्ठते - या॒च्ञैवास्यै॒ष।  
+उप॑ तिष्ठते - या॒च्ञैवास्यै॒ष।
+</details>
+<details><summary>Keith</summary>
+
+He pays reverence; that is his appeal.
+</details>
+<details><summary>मूलम्</summary>
+
+या॒च्ञैवास्यै॒षोप॑ तिष्ठते ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यथा॒ पापी॑या॒ञ् छ्रेय॑स आ॒हृत्य॑ नम॒स्यति॑ - ता॒दृगे॒व तत् ।
 </details>
 <details><summary>Keith</summary>
 
-He pays reverence; that is his appeal.  
-He pays reverence; that is as if an inferior brings (something) to a superior and pays him honour. 
+He pays reverence; that is as if an inferior brings (something) to a superior and pays him honour.
 </details>
 <details><summary>मूलम्</summary>
 
-या॒च्ञैवास्यै॒षोप॑ तिष्ठते ।  
 यथा॒ पापी॑या॒ञ्छ्रेय॑स आ॒हृत्य॑ नम॒स्यति॑ ता॒दृगे॒व तत् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -360,27 +391,44 @@ He pays reverence; that is as if an inferior brings (something) to a superior an
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒यु॒र्दा अ॑ग्ने॒ऽस्यायु॑र्मे दे॒हीत्या॑ह।  
-आयु॒र्दा ह्ये॑षः ।  
-व॒र्चो॒दा अ॑ग्नेऽसि॒ वर्चो॑ मे दे॒हीत्या॑ह ।   
-व॒र्चो॒दा ह्ये॑षः।    
-त॒नू॒पा अ॑ग्नेऽसि त॒नुव॑म्मे पा॒हीत्या॑ह ।    
-त॒नू॒पा ह्ये॑षः ।   
+आयु॒र्दा ह्ये॑षः ।
 </details>
 <details><summary>Keith</summary>
 
-'Thou art giver of life, O Agni; give me life', he says, for he is a giver of life. 
-  
-'Thou art giver of radiance, O Agni; give me radiance', he says, for he is a giver of radiance.  
-I Thou art guardian of the body, O Agni; guard my body', he says [4], for he is a guardian of the body.  
+'Thou art giver of life, O Agni; give me life', he says, for he is a giver of life.
 </details>
 <details><summary>मूलम्</summary>
 
 आ॒यु॒र्धा अ॑ग्ने॒ऽस्यायु॑र्मे दे॒हीत्या॑ह।  
-आयु॒र्दा ह्ये॑षः ।  
+आयु॒र्दा ह्ये॑षः ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 व॒र्चो॒दा अ॑ग्नेऽसि॒ वर्चो॑ मे दे॒हीत्या॑ह ।   
-व॒र्चो॒दा ह्ये॑षः।    
+व॒र्चो॒दा ह्ये॑षः।
+</details>
+<details><summary>Keith</summary>
+
+'Thou art giver of radiance, O Agni; give me radiance', he says, for he is a giver of radiance.
+</details>
+<details><summary>मूलम्</summary>
+
+व॒र्चो॒दा अ॑ग्नेऽसि॒ वर्चो॑ मे दे॒हीत्या॑ह ।   
+व॒र्चो॒दा ह्ये॑षः।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 त॒नू॒पा अ॑ग्नेऽसि त॒नुव॑म्मे पा॒हीत्या॑ह ।    
-त॒नू॒पा ह्ये॑षः ।   
+त॒नू॒पा ह्ये॑षः ।
+</details>
+<details><summary>Keith</summary>
+
+I Thou art guardian of the body, O Agni; guard my body', he says [4], for he is a guardian of the body.
+</details>
+<details><summary>मूलम्</summary>
+
+त॒नू॒पा अ॑ग्नेऽसि त॒नुव॑म्मे पा॒हीत्या॑ह ।    
+त॒नू॒पा ह्ये॑षः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -389,17 +437,26 @@ I Thou art guardian of the body, O Agni; guard my body', he says [4], for he is 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने॒ यन्मे॑ त॒नुवा॑ ऊ॒नन् तन्म॒ आ पृ॒णेत्या॑ह।
-यन् मे॑ प्र॒जायै॑ पशू॒नाम् ऊ॒नन् - तन् म॒ आ पू॑र॒येति॒ वावैतदा॑ह ।   
 </details>
 <details><summary>Keith</summary>
 
-'O Agni, whatever is deficient in my body, do thou make that good for me', he says.  
-'whatever is deficient in my offspring and cattle, do thou make that good for me', he says in effect.
+'O Agni, whatever is deficient in my body, do thou make that good for me', he says.
 </details>
 <details><summary>मूलम्</summary>
 
 अग्ने॒ यन्मे॑ त॒नुवा॑ ऊ॒नन् तन्म॒ आ पृ॒णेत्या॑ह।
-यन्मे॑ प्र॒जायै॑ पशू॒नामू॒नन्तन्म॒ आ पू॑र॒येति॒ वावैतदा॑ह ।   
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यन् मे॑ प्र॒जायै॑ पशू॒नाम् ऊ॒नन् - तन् म॒ आ पू॑र॒येति॒ वावैतदा॑ह ।
+</details>
+<details><summary>Keith</summary>
+
+'whatever is deficient in my offspring and cattle, do thou make that good for me', he says in effect.
+</details>
+<details><summary>मूलम्</summary>
+
+यन्मे॑ प्र॒जायै॑ पशू॒नामू॒नन्तन्म॒ आ पू॑र॒येति॒ वावैतदा॑ह ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -415,24 +472,34 @@ I Thou art guardian of the body, O Agni; guard my body', he says [4], for he is 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चित्रा॑वसो स्व॒स्ति ते॑ पा॒रम् अ॑शी॒येत्या॑ह।  
-रात्रि॒र् वै चि॒त्राव॑सुः।  
-अ-व्यु॑ष्ट्यै॒+++(←उष्)+++ वा ए॒तस्यै॑ पु॒रा ब्रा॑ह्म॒णा अ॑भैषुः +++(उत्तरहिमवृत्ते वसन्तः)+++।+++(5)+++  
-व्यु॑ष्टिम् ए॒वाव॑ रुन्धे।  
+रात्रि॒र् वै चि॒त्राव॑सुः।
 </details>
 <details><summary>Keith</summary>
 
 'O thou of various splendour, in safety may I reach the end of thee', he says;  
-that of various splendour is the night.  
-The Brahmans aforetime feared its not dawning;  
-verily he wins the dawn. 
+that of various splendour is the night.
 </details>
 <details><summary>मूलम्</summary>
 
 चित्रा॑वसो स्व॒स्ति ते॑ पा॒रम॑शी॒येत्या॑ह।  
-रात्रि॒र्वै चि॒त्राव॑सु॒रव्यु॑ष्ट्यै॒ वा ।  
+रात्रि॒र्वै चि॒त्राव॑सु॒र
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-व्यु॑ष्ट्यै॒+++(←उष्)+++ वा ए॒तस्यै॑ पु॒रा ब्रा॑ह्म॒णा अ॑भैषुः +++(उत्तरहिमवृत्ते वसन्तः)+++।+++(5)+++  
+व्यु॑ष्टिम् ए॒वाव॑ रुन्धे।
+</details>
+<details><summary>Keith</summary>
+
+The Brahmans aforetime feared its not dawning;  
+verily he wins the dawn.
+</details>
+<details><summary>मूलम्</summary>
+
+व्यु॑ष्ट्यै॒ वा ।  
 ए॒तस्यै॑ पु॒रा ब्रा॑ह्म॒णा अ॑भैषुः ।
 
-व्यु॑ष्टिमे॒वाव॑ रुन्धे।  
+व्यु॑ष्टिमे॒वाव॑ रुन्धे।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

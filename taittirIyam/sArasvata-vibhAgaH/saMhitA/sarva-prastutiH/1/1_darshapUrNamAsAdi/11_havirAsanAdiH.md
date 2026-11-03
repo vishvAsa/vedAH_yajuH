@@ -202,26 +202,39 @@ ____
 दक्षिणस्याश् श्रोणेर् उत्तरस्याः प्रोक्षणीशेषं निनयति
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-+++(प्रोक्षणीशेष!)+++ स्व॒धा+++(=अन्नं)+++ +++(सर्व-वर्धक-मास-नाम-)+++पि॒तृभ्यः॒ ऊर्ग्+++(=बलप्राणनयोरुद्दीपकं)+++ भ॑व बर्हि॒षद्भ्यः॑ ।  
-+++(हे आपः!)+++ ऊ॒र्जा+++(=रसेन सह)+++ पृ॑थि॒वीङ् ग॑च्छत ।
-</details>
-
-<details><summary>Keith</summary>
-
-Be thou refreshment to the fathers, strength to those that sit on the strew.  
-With strength go ye to the earth.
-</details>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 －स्व॒धा पि॒तृभ्य॒ ऊर्ग्भ॑व बर्हि॒षद्भ्य॑ ऊ॒र्जा पृ॑थि॒वीङ्ग॑च्छत
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(प्रोक्षणीशेष!)+++ स्व॒धा+++(=अन्नं)+++ +++(सर्व-वर्धक-मास-नाम-)+++पि॒तृभ्यः॒ ऊर्ग्+++(=बलप्राणनयोरुद्दीपकं)+++ भ॑व बर्हि॒षद्भ्यः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Be thou refreshment to the fathers, strength to those that sit on the strew.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्व॒धा पि॒तृभ्य॒ ऊर्ग्भ॑व बर्हि॒षद्भ्यः॑ ...
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(हे आपः!)+++ ऊ॒र्जा+++(=रसेन सह)+++ पृ॑थि॒वीङ् ग॑च्छत ।
+</details>
+
+<details><summary>Keith</summary>
+
+With strength go ye to the earth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऊ॒र्जा पृ॑थि॒वीङ्ग॑च्छत ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,11 +245,6 @@ With strength go ye to the earth.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5दक्षिणस्याश्श्रोणेरुत्तरस्याः प्रोक्षणीशेषं निनयति - स्वधेति ॥ 'मासा वै पितरो बर्हिषदः' (तै.ब्रा. 3.3.6) इत्यादिब्राह्मणप्रसिद्धा ये मासनामानः पितरो बर्हिष्यागत्य सीदन्ति, तेभ्यस्स्वधा अन्नम् । कीदृशं? ऊर्क् बलप्राणनयोरुद्दीपकं भवेति । समुदायापेक्षमेकवचनम्, अन्नापेक्षं वा ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-ऊ॒र्जा पृ॑थि॒वीङ्ग॑च्छत ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -768,7 +776,6 @@ Thou art named dhruva.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 17ध्रुवां सादयति - ध्रुवेति ॥ ध्रुवा निश्चला । यत्रैव साद्यते तत्रैव धार्यते न चाल्यते प्राक्समिष्टयजुष इति ध्रुवा । तादृशी त्वमसि । शिष्टं स्पष्टम् ॥
-
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
@@ -808,10 +815,43 @@ ____
 स्रुचो ऽभिमन्त्रयते
 </details>
 
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+एता अ॑सदन्त्सुकृ॒तस्य॑ लो॒के ता वि॑ष्णो पाहि पा॒हि य॒ज्ञम्पा॒हि य॒ज्ञप॑तिम्पा॒हि माय्ँय॑ज्ञ॒निय॑म् ॥ [20]
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ता +++(स्रुचः)+++ अ॑सदन्त् सुकृ॒तस्य॑ +++(यागस्य)+++ लो॒के ।  
-ता वि॑ष्णो पाहि ।  
+ए॒ता +++(स्रुचः)+++ अ॑सदन्त् सुकृ॒तस्य॑ +++(यागस्य)+++ लो॒के ।
+</details>
+
+<details><summary>Keith</summary>
+
+These have sat down in the world of good action.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒ता अ॑सदन्त्सुकृ॒तस्य॑ लो॒के ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता वि॑ष्णो पाहि ।
+</details>
+
+<details><summary>Keith</summary>
+
+Protect them, O Visnu.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ता वि॑ष्णो पाहि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पा॒हि य॒ज्ञम् ।  
 पा॒हि य॒ज्ञप॑तिम् ।  
 पा॒हि माय्ँ य॑ज्ञ॒निय॑म् ॥ [20]
@@ -819,20 +859,11 @@ ____
 
 <details><summary>Keith</summary>
 
-These have sat down in the world of good action.  
-Protect them, O Visnu.  
 Protect the sacrifice, protect the lord of the sacrifice, protect me that conduct the sacrifice.
-</details>
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-एता अ॑सदन्त्सुकृ॒तस्य॑ लो॒के ता वि॑ष्णो पाहि पा॒हि य॒ज्ञम्पा॒हि य॒ज्ञप॑तिम्पा॒हि माय्ँय॑ज्ञ॒निय॑म् ॥ [20]
 </details>
 
 <details><summary>मूलम्</summary>
 
-ए॒ता अ॑सदन्त्सुकृ॒तस्य॑ लो॒के ।   
-ता वि॑ष्णो पाहि ।   
 पा॒हि य॒ज्ञम् ।  
 पा॒हि य॒ज्ञप॑तिम् ।  
 पा॒हि माय्ँय॑ज्ञ॒निय॑म् ॥
@@ -849,7 +880,6 @@ Protect the sacrifice, protect the lord of the sacrifice, protect me that conduc
 सुकृतस्य शोभनस्य कर्मणः यागलक्षणस्य लोके स्थाने । 'सूपमानात् क्तः' (पा.सू. 6.2.145) इति क्तान्तमन्तोदात्तम् । एतास्स्रुचः असदन्, सदसि मया(ऽन्वा)सादितत्वात् । छान्दसो लुङ्, पुषादि(ऌदि)त्वादङ् (पा.सू. 3.1.55) । तास्स्रुचः हे विष्णो सर्वस्य पालक पाहि, यज्ञं पाहि, यज्ञपतिं यजमानं च पाहि । 'पत्यावैश्वर्ये' (पा.सू. 6.2.18) इति पूर्वपदप्रकृतिस्वरत्वम् ।
 
 यज्ञनियं यज्ञस्य नेतारं मां च पाहि । यज्ञं नयतीति 'सत्सूद्विष' (पा.सू. 3.2.61) इत्यादिना क्विप् । 'तन्वादीनां छन्दसि बहुलम्' (पा.सू. 6.4.77 वा 1) इति इयङादेशेन 'एरनेकाचः' (पा.सू. 6.4.82) इति यणादेशो बाध्यते, कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) । समान(वाक्ये)पाद(पदात्पर)त्वाभावात् प्रथमवर्जं तिङन्तानां निघाताभावः ॥
-
 </details>
 
 इति एकादशोनुवाकः  ।

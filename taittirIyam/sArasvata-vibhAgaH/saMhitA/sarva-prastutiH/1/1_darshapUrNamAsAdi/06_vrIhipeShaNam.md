@@ -206,7 +206,6 @@ ____
 <details><summary>Keith</summary>
 
 Thou art a bowl made of the rock, may the rock recognize thee.
-
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>

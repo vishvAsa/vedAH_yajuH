@@ -1,6 +1,5 @@
 +++
 title = "१० आग्रहयणग्रहः"
-
 +++
 त्रिष्टुप् । सोमऋषिः
 
@@ -9,8 +8,10 @@ _______
 
 1आग्रयणं गृह्णाति - ये देवा इति चतुष्पदया पङ्क्त्या ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/10_AgrahayaNagrahaH/02_ye_devA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ये दे॑वा दि॒व्य् एका॑दश॒ स्थ   
 पृ॑थि॒व्याम् अध्य् एका॑दश॒ स्थ ।   
@@ -18,9 +19,12 @@ _______
 ते दे॑वा य॒ज्ञम् इ॒मञ् जु॑षध्वम् ॥  
 +++(अग्रिमे प्रपाठक इमे ३३ रुद्रा इत्य् उच्यते।  ३३ देवाः = ८ वसवः + १२ आदित्याः + ११ रुद्राः + २ अश्विनौ। मृगशीर्षेण सम्बन्धोऽस्ति??)+++
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/10_AgrahayaNagrahaH/02_ye_devA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Ye gods that are eleven in the sky,  
@@ -44,18 +48,19 @@ Do ye accept this saerifice.
 एवं त्रयस्त्रिंशदपि यूयं हे देवा इममाग्रयणसाध्यं यज्ञं जुषध्वम् सेवध्वम् । नन्वस्य ग्रहस्य देवस्सविता पत्नीवानग्निः हरिवानिन्द्रः इति देवताः, न तु विश्वे देवाः । सत्यम्; सवितर्यग्नाविन्द्रे च द्युपृथिव्यन्तरिक्षस्था दश दशान्ये देवा अन्तर्भूता इति तेपि जुषध्वमित्युच्यते । पत्नीवदभिप्रायं वा ॥
 </details>
 </details>
+
 </div>
 
 _______
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य 'उपयामगृहीतोसि विश्वेभ्यस्त्वा देवेभ्यः' इति गृह्णाति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
@@ -81,8 +86,8 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑]
@@ -193,7 +198,7 @@ this is thy birthplace; to the All-gods thee!
 
 'वैश्वदेवो ह्येष देवतया' इति ब्राह्मणम् । 'आत्मा वा एष यज्ञस्य यदाग्रयणः' इत्यादि च ॥
 </details>
-</details>
+
 </div>  
 
 इति चतुर्थे दशमोनुवाकः ॥  

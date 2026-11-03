@@ -1067,31 +1067,55 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ व्रतपते॒ त्वव्ँ व्र॒तानाव्ँ॑ व्र॒तप॑तिर् असि ।  
-या मम॑ त॒नूस् त्वय्य् अभू॑द्, इ॒यँ सा मयि॑ ।  
-या तव॑ त॒नूर् मय्य् अभू॑द् ए॒षा सा त्वयि॑ ।  
-य॒था॒य॒थन् नौ॑ व्रतपते व्र॒तिनो॑र् व्र॒तानि॑ ।+++(5)+++  
+अग्ने॑ व्रतपते॒ त्वव्ँ व्र॒तानाव्ँ॑ व्र॒तप॑तिर् असि ।
 </details>
 
 <details><summary>Keith</summary>
 
-Agni, lord of vows, thou art the vow-lord of vows.  
-May my body that bath been in thee be here in me;  
-may thy body that hath been in me be there in thee.  
+Agni, lord of vows, thou art the vow-lord of vows.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अग्ने॑ व्रतपते॒ त्वव्ँ व्र॒तानाव्ँ॑ व्र॒तप॑तिर् असि ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+या मम॑ त॒नूस् त्वय्य् अभू॑द्, इ॒यँ सा मयि॑ ।
+या तव॑ त॒नूर् मय्य् अभू॑द् ए॒षा सा त्वयि॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+May my body that bath been in thee be here in me;
+may thy body that hath been in me be there in thee.
+</details>
+
+<details><summary>मूलम्</summary>
+
+या मम॑ त॒नूस्त्वय्य् अभू॑दि॒यँ सा मयि॑ ।
+या तव॑ त॒नूर्मय्य् अभू॑दे॒षा सा त्वयि॑ ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+य॒था॒य॒थन् नौ॑ व्रतपते व्र॒तिनो॑र् व्र॒तानि॑ ।+++(5)+++
+</details>
+
+<details><summary>Keith</summary>
+
 Be aright the vows, O vow-lord, of both of us votaries.
+</details>
+
+<details><summary>मूलम्</summary>
+
+य॒था॒य॒थन् नौ॑ व्रतपते व्र॒तिनो॑र् व्र॒तानि॑ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अग्ने॑ व्रतपते॒ त्वव्व्ँर॒ताना॑व्व्ँर॒तप॑तिरसि॒ या मम॑ त॒नूस्त्वय्यभू॑दि॒यँ सा मयि॒ या तव॑ त॒नूर्मय्यभू॑दे॒षा सा त्वयि॑ यथाय॒थन्नौ॑ व्रतपते व्र॒तिनो॑र्व्र॒तानि॑ ॥ [8]
-</details>
-
-<details><summary>मूलम्</summary>
-
-अग्ने॑ व्रतपते॒ त्वव्ँ व्र॒तानाव्ँ॑ व्र॒तप॑तिर् असि ।  
-या मम॑ त॒नूस्त्वय्य् अभू॑दि॒यँ सा मयि॑ ।  
-या तव॑ त॒नूर्मय्य् अभू॑दे॒षा सा त्वयि॑ ।  
-य॒था॒य॒थन् नौ॑ व्रतपते व्र॒तिनो॑र् व्र॒तानि॑ ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1103,7 +1127,6 @@ Be aright the vows, O vow-lord, of both of us votaries.
 या । तव॑ । त॒नूः । मयि॑ । अभू॑त् ।    
 ए॒षा । सा । त्वयि॑ ।    
 य॒था॒य॒थमिति॑ यथा-य॒थम् । नौ॒ । व्र॒त॒प॒त॒ इति॑ व्रत-प॒ते॒ । व्र॒तिनोः॑ । व्र॒तानि॑ ॥ [8]
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

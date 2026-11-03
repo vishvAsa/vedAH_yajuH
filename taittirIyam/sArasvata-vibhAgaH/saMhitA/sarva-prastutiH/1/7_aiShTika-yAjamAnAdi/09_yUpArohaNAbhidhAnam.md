@@ -1,6 +1,5 @@
 +++
 title = "०९ यूपारोहणाभिधानम्"
-
 +++
 
  सोमऋषिः
@@ -306,8 +305,9 @@ we have become the offspring of Prajapati.
 
 18इमं लोकं प्रत्यवेक्षते -   समहमिति ॥ 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/samaham_prajayA.md">
-<details open><summary><h5>समहम् प्रजया ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम् अ॒हम् प्र॒जया॑  +++(भूयासम्)+++  ।
@@ -433,8 +433,9 @@ increase of wealth with me.
 _____________
 रायश्च पोषश्च मया सङ्गच्छताम् । रायो विभक्त्युदात्तत्वं सत्वं चोक्तम् ॥
 </details>
-</details>
+
 </div>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अन्ना॑य त्वा॒ऽन्नाद्या॑य त्वा॒ वाजा॑य त्वा वाजजि॒त्यायै॑ त्वा॒ऽमृत॑मसि॒ पुष्टि॑रसि प्र॒जन॑नमसि ॥
@@ -447,26 +448,62 @@ _____________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्ना॑य त्वा  +++(हन्मि)+++ ।  
-अन्नाद्या॑य त्वा  +++(हन्मि)+++ ।  
-वाजा॑य त्वा  +++(हन्मि)+++ ।  
-वाज-जि॒त्यायै॑ त्वा  +++(हन्मि)+++ ।  
+अन्ना॑य त्वा  +++(हन्मि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
 
-For food thee!  
-For proper food thee!  
-For strength thee!  
+For food thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्ना॑य त्वा  +++(हन्मि)+++ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्नाद्या॑य त्वा  +++(हन्मि)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+For proper food thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्नाद्या॑य त्वा  +++(हन्मि)+++ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाजा॑य त्वा  +++(हन्मि)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+For strength thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+वाजा॑य त्वा  +++(हन्मि)+++ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाज-जि॒त्यायै॑ त्वा  +++(हन्मि)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
 For the conquering of strength thee!
 </details>
 
 <details><summary>मूलम्</summary>
 
-अन्ना॑य त्वा  +++(हन्मि)+++ ।  
-अन्नाद्या॑य त्वा  +++(हन्मि)+++ ।  
-वाजा॑य त्वा  +++(हन्मि)+++ ।  
-वाजजि॒त्यायै॑ त्वा  +++(हन्मि)+++ ।  
+वाजजि॒त्यायै॑ त्वा  +++(हन्मि)+++ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

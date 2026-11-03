@@ -1,6 +1,5 @@
 +++
 title = "०५.२ विष्णुक्रमान्तम्"
-
 +++
 ## विष्णुक्रममन्त्रः १
 _______
@@ -31,7 +30,6 @@ _______
 क्रमो विशेष्यते - **अभिमातिहा** अभिमातिः पाप्मा तस्य हन्ता त्वमसि, यतो विष्णोः क्रमोसि ।
 
 यद्वा - यो **विष्णोः क्रमोस्यभिमातिहा** त्रिविक्रमरूपस्य भगवतः विष्णोः सर्वलोकाक्रमणक्षमः क्रमः पदविक्षेपः सर्वानिष्टहन्ता स एव त्वम् **असि** यो मदीयः क्रमः; 'अतस्तादृशेन त्वयानुक्रमेण विक्रमणेनाभिजयामि सर्वमप्रतिबन्धेन । 'वृत्तिसर्गतायनेषु क्रमः' इत्यात्मनेपदम् ।
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,8 +58,9 @@ Thou art the step of Visnu, smiting enmity; with the Gayatri metre I step across
 
 पूर्वं विष्णुना क्रान्तां **पृथिवीं** पश्चादिदानीम् अहं **विक्रम** इत्यनोरर्थः ।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
-<details open><summary><h5>निर्भक्तः ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्भ॑क्त॒स् स यन् द्वि॒ष्मः ।
@@ -98,7 +97,7 @@ excluded is he whom we hate.
 
 यमभिमातिं वयं द्विष्मः सोऽभिमातिर्निर्भक्तोऽ-स्मात्प्रदेशान्निःसारितः। एवमुत्तरत्र योज्यम्। अभिशस्तिरन्यैरापादितोऽ-पवादः। रातिर्दानं द्रव्यलाभः। तन्निवारणमरातिस्तदिच्छन्तो विरोधिनोऽ-रातीयतः(न्त)। तृतीयप्रक्रमस्तान्हन्ति।
 </details>
-</details>
+
 </div>  
 
 ## विष्णुक्रममन्त्रः २
@@ -127,8 +126,9 @@ Thou art the step of Visnu, smiting imprecations; with the Tristubh metre I step
 
 अभिशस्तिरभिशंसनं अकृतगर्होक्तिः । त्रिष्टुब्जगत्यनुष्टुप्शब्देभ्य उत्सादित्वादञ्, 'छन्दसः प्रत्ययविधाने' इत्यस्य प्राग्दीव्यतीयत्वात् ।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
-<details open><summary><h5>निर्भक्तः ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्भ॑क्त॒स् स यन् द्वि॒ष्मः ।
@@ -165,7 +165,7 @@ excluded is he whom we hate.
 
 यमभिमातिं वयं द्विष्मः सोऽभिमातिर्निर्भक्तोऽ-स्मात्प्रदेशान्निःसारितः। एवमुत्तरत्र योज्यम्। अभिशस्तिरन्यैरापादितोऽ-पवादः। रातिर्दानं द्रव्यलाभः। तन्निवारणमरातिस्तदिच्छन्तो विरोधिनोऽ-रातीयतः(न्त)। तृतीयप्रक्रमस्तान्हन्ति।
 </details>
-</details>
+
 </div>  
 
 ## विष्णुक्रममन्त्रः ३
@@ -196,8 +196,9 @@ with the Jagati metre I step across the sky;
 अरातीयतः अरातित्वमस्माकमिच्छतः, अरातिं वात्मन इच्छतः हन्ता हन्तुमर्हः । 'अर्हे कृत्यतृचश्च' इति तृच् । 'शतुरनुमः' इति षष्ठ्या उदात्तत्वम् । हननशीलो वा हन्ता । ताच्च्छीलिकस्तृन् छान्दसमन्तोदातत्वम् ।
 अरातीयत इति द्वितीयाबहुवचनम् ।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
-<details open><summary><h5>निर्भक्तः ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्भ॑क्त॒स् स यन् द्वि॒ष्मः ।
@@ -234,7 +235,7 @@ excluded is he whom we hate.
 
 यमभिमातिं वयं द्विष्मः सोऽभिमातिर्निर्भक्तोऽ-स्मात्प्रदेशान्निःसारितः। एवमुत्तरत्र योज्यम्। अभिशस्तिरन्यैरापादितोऽ-पवादः। रातिर्दानं द्रव्यलाभः। तन्निवारणमरातिस्तदिच्छन्तो विरोधिनोऽ-रातीयतः(न्त)। तृतीयप्रक्रमस्तान्हन्ति।
 </details>
-</details>
+
 </div>  
 
 ## विष्णुक्रममन्त्रः ४
@@ -270,10 +271,10 @@ with the Anustubh metre I stop across the quarters;
 
 शत्रुत्वं हिंसकत्वं, तदिच्छन्तो वैरिणः शत्रूयतः(न्तः)। चतुर्थप्रक्रमस्तान्हन्ति।  
 इति षष्ठे पञ्चमोनुवाकः ॥
-
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
-<details open><summary><h5>निर्भक्तः ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्भ॑क्त॒स् स यन् द्वि॒ष्मः ।
@@ -310,5 +311,5 @@ excluded is he whom we hate.
 
 यमभिमातिं वयं द्विष्मः सोऽभिमातिर्निर्भक्तोऽ-स्मात्प्रदेशान्निःसारितः। एवमुत्तरत्र योज्यम्। अभिशस्तिरन्यैरापादितोऽ-पवादः। रातिर्दानं द्रव्यलाभः। तन्निवारणमरातिस्तदिच्छन्तो विरोधिनोऽ-रातीयतः(न्त)। तृतीयप्रक्रमस्तान्हन्ति।
 </details>
-</details>
+
 </div>

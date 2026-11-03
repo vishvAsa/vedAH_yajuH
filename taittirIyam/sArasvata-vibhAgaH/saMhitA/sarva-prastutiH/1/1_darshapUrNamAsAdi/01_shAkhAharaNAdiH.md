@@ -86,15 +86,20 @@ ____
 
 3गोचराय गाः प्रस्थापयति - देवो व इत्यादिभिस्तिसृभिः ऋग्भिः । तत्र प्रथमया सवितारमभ्यर्थयते । 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/14_devo_vas.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 दे॒वो व॑स् सवि॒ता +++(प्रसूत्या)+++ **प्रार्प॑यतु॒**+++(=प्रस्थापयतु)+++  
 श्रेष्ठ॑तमाय॒ कर्म॑णे +++(यज्ञाय)+++। +++(र५)+++
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/14_devo_vas.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Let the god Savitr impel you to the most excellent offering.
@@ -115,6 +120,7 @@ Let the god Savitr impel you to the most excellent offering.
 इयं च द्विपदा विराड्गायत्री जागतगायत्रपादत्वादिति । षू प्रेरणे । देवस्सविता सर्वस्य प्रेरकः, येन विना तृणाग्रमपि न चलति, स युष्मान् प्रार्पयतु प्रस्थापयतु । अर्तेर्णौ पुगागमः (पा.सू. 7.3.36) । किमर्थम्? श्रेष्ठतमाय कर्मणे यज्ञाय । 'यज्ञो हि श्रेष्ठतमं कर्म' (तै.ब्रा. 3.2.1) । प्रकर्षवतामपि पुनःप्रकर्षविवक्षायां द्वितीय आतिशायनिको भवत्येव । तृणादिभक्षणेन सान्नाय्यनिष्पत्यर्थत्वाद्यज्ञार्थं प्रेरणम् ।
 </details>
 </details>
+
 </div>
 
 ____
@@ -123,17 +129,22 @@ ____
 
 4अथ प्रस्थाप्यमाना गा एव प्रार्थयते द्वितीयया। 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/19_A_pyAyadhvam.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 +++(वत्सैर्)+++ **आ प्या॑यध्वम्** अघ्निया+++(=अहननार्हाः)+++ देव-भा॒गम्। 
 ऊर्ज॑स्वती॒ᳶ पय॑स्वतीᳶ  
 प्र॒जा-व॑तीर् अन्-अमी॒वा अ॑-य॒क्ष्मा  
 **मा** व॑स् स्ते॒न **ई॑शत॒**+++(=स्ववशं कुर्यात्)+++ माऽघशँ॑सः।+++(र४)+++
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/19_A_pyAyadhvam.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 O invincible ones, swell with the share for the gods,  
@@ -167,7 +178,9 @@ Let no thief, no evil worker, have control over you.
 किञ्च - अघशंसोपि युष्मान् मेशिष्ट मा वो जिघांसीत् । अघे पापे भक्षणलक्षणे शंसा अभिलाषो यस्य [स्या] नियोगेन सोघशंसः पापतत्परः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । अघशब्दोयमन्तोदात्तोप्यस्ति, यथा 'अप॑ न॒श्शोशु॑चद॒घम्' (तै.आ. 4.11) इति । अङ्घते गच्छति दानादिना । आगमशास्त्रस्यानित्यत्वात् (व्याडिपरिभाषा 76) न नुम् । पचादित्वादच् (पा.सू. 3.1.134), प्रत्ययस्वरेणान्तोदात्तत्वम् ॥
 </details>
 </details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रु॒द्रस्य॑ हे॒तिःᳶ  
@@ -258,7 +271,6 @@ Do thou protect the cattle of the sacrificer.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे शाखे यजमानस्य पशून् पाहि रक्ष । 'तास्यनुदात्तेन्ङिददुपदेशाल्लसार्वधातुकमनुदात्तमह्न्विङोः' (पा.सू. 6.1.186) इति लसार्वधातुकानुदात्तत्वे यजमाने धातुस्वरः । 'तस्मात्सायं पशवः' (तै.ब्रा. 3.2.1) इत्यादि ब्राह्मणम् ॥
-
 </details>
 
 ____

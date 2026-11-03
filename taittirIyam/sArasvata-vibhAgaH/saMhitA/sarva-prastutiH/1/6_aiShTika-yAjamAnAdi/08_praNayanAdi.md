@@ -13,23 +13,33 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै श्र॒द्धाम् अना॑रभ्य य॒ज्ञेन॒ यज॑ते॒ - नास्ये॒ष्टाय॒ +++(देव-मनु॒ष्या)+++ श्रद्-द॑धते।  
-अ॒पᳶ प्र ण॑यति।  
-श्र॒द्धा वा आप॑श्, श्र॒द्धाम् ए॒वाऽऽरभ्य॑ य॒ज्ञेन॑ यजते।  
-उ॒भये॑ ऽस्य देव-मनु॒ष्या इ॒ष्टाय॒ श्रद्द॑धते। 
+यो वै श्र॒द्धाम् अना॑रभ्य य॒ज्ञेन॒ यज॑ते॒ - नास्ये॒ष्टाय॒ +++(देव-मनु॒ष्या)+++ श्रद्-द॑धते।
 </details>
 <details><summary>Keith</summary>
 
-He who offers sacrifice without faith, they place not faith in his sacrifice. He brings waters forward, the waters are faith; verily with faith he offers sacrifice, and both gods and men place faith in his sacrifice. 
+He who offers sacrifice without faith, they place not faith in his sacrifice.
 </details>
 <details><summary>मूलम्</summary>
 
 यो वै श्र॒द्धामना॑रभ्य य॒ज्ञेन॒ यज॑ते  ।  
-नास्ये॒ष्टाय॒ श्रद्द॑धते ।  
+नास्ये॒ष्टाय॒ श्रद्द॑धते ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒पᳶ प्र ण॑यति।  
+श्र॒द्धा वा आप॑श्, श्र॒द्धाम् ए॒वाऽऽरभ्य॑ य॒ज्ञेन॑ यजते।  
+उ॒भये॑ ऽस्य देव-मनु॒ष्या इ॒ष्टाय॒ श्रद्द॑धते।
+</details>
+<details><summary>Keith</summary>
+
+He brings waters forward, the waters are faith; verily with faith he offers sacrifice, and both gods and men place faith in his sacrifice.
+</details>
+<details><summary>मूलम्</summary>
+
 अ॒पᳶ प्र ण॑यति ।  
 श्र॒द्धा वा आपः॑ । 
 श्र॒द्धामे॒वाऽऽरभ्य॑ य॒ज्ञेन॑ यजते ।  
-उ॒भये॑ऽस्य देवमनु॒ष्या इ॒ष्टाय॒ श्रद्द॑धते   
+उ॒भये॑ऽस्य देवमनु॒ष्या इ॒ष्टाय॒ श्रद्द॑धते
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -39,7 +49,6 @@ He who offers sacrifice without faith, they place not faith in his sacrifice. He
 श्र॒द्धेति॑ श्रत्-धा । वै । आपः॑ ।   
 श्र॒द्धामिति॑ श्रत्-धाम् । ए॒व । आ॒रभ्येत्या॑-रभ्य॑ । य॒ज्ञेन॑ । य॒ज॒ते॒ ।   
 उ॒भये॑ । अ॒स्य॒ । दे॒व॒म॒नु॒ष्या इति॑ देव-म॒नु॒ष्याः । इ॒ष्टाय॑ । श्रत् । द॒ध॒ते॒ ।   
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -143,7 +152,6 @@ mind is this (earth) [1]; verily with this (earth) he brings them forward.
 
 इ॒यम् । वै । मनः॑ ।  
 अ॒नया॑ । ए॒व । ए॒नाः॒ । प्रेति॑ । न॒य॒ति॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -199,30 +207,49 @@ The sacrifice of him who knows thus does not spill.
 
 य॒ज्ञा॒यु॒धानि॒ सम्भ॑रति ।  
 य॒ज्ञो वै य॑ज्ञायु॒धानि॑ ।    
-य॒ज्ञम् ए॒व तत् सम्भ॑रति ।  
-यद् एक॑म् एकँ स॒म्भरे॑त् - पितृ-देव॒त्या॑नि स्युः ।   
-यत् स॒ह सर्वा॑णि - मानु॒षाणि॑।  
-द्वे-द्वे॒ सम्भ॑रति -  
-या॒ज्या॒नु॒वा॒क्य॑योर् ए॒व रू॒पङ् क॑रो॒त्य् अथो॑ मिथु॒नम् ए॒व ।
+य॒ज्ञम् ए॒व तत् सम्भ॑रति ।
 </details>
 <details><summary>Keith</summary>
 
 He collects the weapons of the sacrifice;  
 the weapons of the sacrifice are the sacrifice;  
-verily he collects the sacrifice.  
-If he were to collect them one by one,  
-they would have the Pitrs as their divinity; 
-if all together, (they would have) men as their divinity.  
-He collects them in pairs, and so he makes the form of the Yajya and the Anuvakya,  
-and thus there is a pair. 
+verily he collects the sacrifice.
 </details>
 <details><summary>मूलम्</summary>
 
 य॒ज्ञा॒यु॒धानि॒ सम्भ॑रति ।  
 य॒ज्ञो वै य॑ज्ञायु॒धानि॑ ।    
-य॒ज्ञमे॒व तत्सम्भ॑रति ।  
+य॒ज्ञमे॒व तत्सम्भ॑रति ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् एक॑म् एकँ स॒म्भरे॑त् - पितृ-देव॒त्या॑नि स्युः ।   
+यत् स॒ह सर्वा॑णि - मानु॒षाणि॑।
+</details>
+<details><summary>Keith</summary>
+
+If he were to collect them one by one,  
+they would have the Pitrs as their divinity; 
+if all together, (they would have) men as their divinity.
+</details>
+<details><summary>मूलम्</summary>
+
 यदेक॑मेकँ स॒म्भरे॑त्पितृदेव॒त्या॑नि स्युः ।   
-यत् स॒ह सर्वा॑णि मानु॒षाणि॒, द्वेद्वे॒ सम्भ॑रति -  
+यत् स॒ह सर्वा॑णि मानु॒षाणि॒,
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वे-द्वे॒ सम्भ॑रति -  
+या॒ज्या॒नु॒वा॒क्य॑योर् ए॒व रू॒पङ् क॑रो॒त्य् अथो॑ मिथु॒नम् ए॒व ।
+</details>
+<details><summary>Keith</summary>
+
+He collects them in pairs, and so he makes the form of the Yajya and the Anuvakya,  
+and thus there is a pair.
+</details>
+<details><summary>मूलम्</summary>
+
+द्वेद्वे॒ सम्भ॑रति -  
 या॒ज्या॒नु॒वा॒क्य॑योरे॒व रू॒पङ्क॑रो॒त्यथो॑ मिथु॒नमे॒व ।
 </details>
 
@@ -242,7 +269,6 @@ and thus there is a pair.
 या॒ज्या॒नु॒वा॒क्य॑यो॒रिति॑ याज्या-अ॒नु॒वा॒क्य॑योः । ए॒व । रू॒पम् । क॒रो॒ति॒ ।   
 
 अथो॒ इति॑ । मि॒थु॒नम् । ए॒व ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -419,28 +445,46 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो वै दे॒वेभ्यᳶ॑ प्रति॒प्रोच्य॑ य॒ज्ञेन॒ यज॑ते -  
-जु॒षन्ते॑ऽस्य दे॒वा ह॒व्यम् ।  
-ह॒विर् नि॑रु॒प्यमा॑णम् अ॒भि म॑न्त्रयेत - "अ॒ग्निँ होता॑रम् इ॒ह तँ हु॑व॒" इति॑ ।  
-दे॒वेभ्य॑ ए॒व प्र॑ति॒प्रोच्य॑ य॒ज्ञेन॑ यजते ।  
 जु॒षन्ते॑ऽस्य दे॒वा ह॒व्यम् ।
 </details>
 <details><summary>Keith</summary>
 
 If a man sacrifices after announcing the sacrifice to the gods,  
-they delight in his sacrifice.  
-He should as the oblation is being offered recite (the words),  
-'Agni, the priest, him I summon hither' [3].  
-Thus he announces the sacrifice to the gods and sacrifices,  
-and the gods delight in his sacrifice. 
+they delight in his sacrifice.
 </details>
 <details><summary>मूलम्</summary>
 
 यो वै दे॒वेभ्यᳶ॑ प्रति॒प्रोच्य॑ य॒ज्ञेन॒ यज॑ते -  
-जु॒षन्ते॑ऽस्य दे॒वा ह॒व्यम् ।  
+जु॒षन्ते॑ऽस्य दे॒वा ह॒व्यम् ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ह॒विर् नि॑रु॒प्यमा॑णम् अ॒भि म॑न्त्रयेत - "अ॒ग्निँ होता॑रम् इ॒ह तँ हु॑व॒" इति॑ ।
+</details>
+<details><summary>Keith</summary>
+
+He should as the oblation is being offered recite (the words),  
+'Agni, the priest, him I summon hither' [3].
+</details>
+<details><summary>मूलम्</summary>
+
 ह॒विर्नि॑रु॒प्यमा॑णम॒भि म॑न्त्रयेत ।  
 
 
-अ॒ग्निँ होता॑रमि॒ह तँ हु॑व॒ इति॑ ।  
+अ॒ग्निँ होता॑रमि॒ह तँ हु॑व॒ इति॑ ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दे॒वेभ्य॑ ए॒व प्र॑ति॒प्रोच्य॑ य॒ज्ञेन॑ यजते ।  
+जु॒षन्ते॑ऽस्य दे॒वा ह॒व्यम् ।
+</details>
+<details><summary>Keith</summary>
+
+Thus he announces the sacrifice to the gods and sacrifices,  
+and the gods delight in his sacrifice.
+</details>
+<details><summary>मूलम्</summary>
+
 दे॒वेभ्य॑ ए॒व प्र॑ति॒प्रोच्य॑ य॒ज्ञेन॑ यजते ।  
 जु॒षन्ते॑ऽस्य दे॒वा ह॒व्यम् ।
 </details>
@@ -456,7 +500,6 @@ and the gods delight in his sacrifice.
 दे॒वेभ्यः॑ । ए॒व । प्र॒ति॒प्रोच्येति॑ प्रति-प्रोच्य॑ । य॒ज्ञेन॑ । य॒ज॒ते॒ ।   
 
 जु॒षन्ते॑ । अ॒स्य॒ । दे॒वाः । ह॒व्यम् ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -602,18 +645,28 @@ He who yokes the sacrifice when the yoking (time) arrives yokes it indeed among 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "कस् त्वा॑ युनक्ति॒  
-स त्वा॑ युन॒क्त्व्" इत्य् आ॑ह ।   
+स त्वा॑ युन॒क्त्व्" इत्य् आ॑ह ।
+</details>
+<details><summary>Keith</summary>
+
+'Who (ka) yoketh thee? Let him yoke thee', he says.
+</details>
+<details><summary>मूलम्</summary>
+
+कस्त्वा॑ युनक्ति॒ स त्वा॑ युन॒क्त्वित्या॑ह ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्र॒जाप॑ति॒र् वै कः,  
 प्र॒जाप॑तिनै॒वैनय्ँ॑ युनक्ति,  
 यु॒ङ्क्ते यु॑ञ्जा॒नेषु॑ ॥ [28]
 </details>
 <details><summary>Keith</summary>
 
-'Who (ka) yoketh thee? Let him yoke thee', he says. Ka is Prajapati--verily by Prajapati he yokes it; he yokes indeed among the yokers.
+Ka is Prajapati--verily by Prajapati he yokes it; he yokes indeed among the yokers.
 </details>
 <details><summary>मूलम्</summary>
 
-कस्त्वा॑ युनक्ति॒ स त्वा॑ युन॒क्त्वित्या॑ह ।   
 प्र॒जाप॑ति॒र्वै कः ...  
 प्र॒जाप॑तिनै॒वैनय्ँ॑युनक्ति यु॒ङ्क्ते यु॑ञ्जा॒नेषु॑ ॥ [28]
 </details>
@@ -638,5 +691,4 @@ He who yokes the sacrifice when the yoking (time) arrives yokes it indeed among 
 
 कस्त्वा युनक्तीति। अयमपि मन्त्रः पूर्वप्रपाठके समाम्नातः। यः प्रजापतिः सर्वदा सर्वेषां यजमानानां यज्ञं युनक्ति स एवाद्य मदीयं यज्ञं युनक्तु रथेऽश्वमिव मयि यज्ञं संबध्नातु। अनेन मन्त्रेण यज्ञं युञ्ज्यादित्युन्नीतो विधिः।  
 इति षष्ठेष्टमोनुवाकः ॥  
-
 </details>

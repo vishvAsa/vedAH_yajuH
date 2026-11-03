@@ -302,30 +302,48 @@ They replied, 'The re-establishing shall be thine alone.'
 तम्पू॒षाऽऽध॑त्त ।  
 तेन॑ पू॒षाऽर्ध्नो॑त् ।  
 तस्मा॑त् पौ॒ष्णाᳶ प॒शव॑ उच्यन्ते।
-
-तन्त्वष्टाऽऽध॑त्त ।  
-तेन॒ त्वष्टा॑ऽऽर्ध्नोत् ।  
-तस्मा॑त् त्वा॒ष्ट्राᳶ प॒शव॑ उच्यन्ते ।
-
-तम् मनु॒र् आऽध॑त्त ।  
-तेन॒ मनु॑र् आर्ध्नोत् ।   
-तस्मा॑न् मान॒व्यᳶ॑ प्र॒जा उ॑च्यन्ते ।  
 </details>
 <details><summary>Keith</summary>
 
-Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said to be Pusan's. Tvastr established it; therefore did Tvastr prosper; therefore cattle are said to be Tvastr's. Manu established it; therefore did Manu prosper; therefore offspring are said to be Manu's. 
+Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said to be Pusan's.
 </details>
 <details><summary>मूलम्</summary>
 
 तम्पू॒षाऽऽध॑त्त ।  
 तेन॑ पू॒षाऽर्ध्नो॑त् ।  
-तस्मा॑त्पौ॒ष्णाᳶ प॒शव॑ उच्यन्ते।   
+तस्मा॑त्पौ॒ष्णाᳶ प॒शव॑ उच्यन्ते।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तन्त्वष्टाऽऽध॑त्त ।  
 तेन॒ त्वष्टा॑ऽऽर्ध्नोत् ।  
-तस्मा॑त्त्वा॒ष्ट्राᳶ प॒शव॑ उच्यन्ते ।  
+तस्मा॑त् त्वा॒ष्ट्राᳶ प॒शव॑ उच्यन्ते ।
+</details>
+<details><summary>Keith</summary>
+
+Tvastr established it; therefore did Tvastr prosper; therefore cattle are said to be Tvastr's.
+</details>
+<details><summary>मूलम्</summary>
+
+तन्त्वष्टाऽऽध॑त्त ।  
+तेन॒ त्वष्टा॑ऽऽर्ध्नोत् ।  
+तस्मा॑त्त्वा॒ष्ट्राᳶ प॒शव॑ उच्यन्ते ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तम् मनु॒र् आऽध॑त्त ।  
+तेन॒ मनु॑र् आर्ध्नोत् ।   
+तस्मा॑न् मान॒व्यᳶ॑ प्र॒जा उ॑च्यन्ते ।
+</details>
+<details><summary>Keith</summary>
+
+Manu established it; therefore did Manu prosper; therefore offspring are said to be Manu's.
+</details>
+<details><summary>मूलम्</summary>
+
 तम्मनु॒राऽध॑त्त ।  
 तेन॒ मनु॑रार्ध्नोत् ।   
-तस्मा॑न्मान॒व्यᳶ॑ प्र॒जा उ॑च्यन्ते ।  
+तस्मा॑न्मान॒व्यᳶ॑ प्र॒जा उ॑च्यन्ते ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -362,18 +380,25 @@ Dhatr is the year; therefore offspring and cattle are born in the course of the 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वम् पु॑नर्-आ॒धेय॒स्यर्द्धिव्ँ॒ वेद॑  ऋ॒ध्नोत्य् ए॒व ।  
+य ए॒वम् पु॑नर्-आ॒धेय॒स्यर्द्धिव्ँ॒ वेद॑  ऋ॒ध्नोत्य् ए॒व ।
+</details>
+<details><summary>Keith</summary>
+
+He who knows thus the prosperity of the re-establishing [3] prospers.
+</details>
+<details><summary>मूलम्</summary>
+
+य ए॒वम्पु॑नरा॒धेय॒स्यर्द्धिव्ँ॒वेद॑  ऋ॒ध्नोत्ये॒व ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो॑ऽस्यै॒वम् ब॒न्धुताव्ँ॒ वेद॒ बन्धु॑मान् भवति ।
 </details>
 <details><summary>Keith</summary>
 
-He who knows thus the prosperity of the re-establishing [3] prospers.  
 He who knows his connexions becomes possessed of connexions himself.
 </details>
 <details><summary>मूलम्</summary>
-
-य ए॒वम्पु॑नरा॒धेय॒स्यर्द्धिव्ँ॒वेद॑  ऋ॒ध्नोत्ये॒व ।  
 
 यो॑ऽस्यै॒वम्ब॒न्धुताव्ँ॒वेद॒ बन्धु॑मान्भवति ।
 </details>
@@ -493,16 +518,26 @@ He should establish under Punarvasu; Punarvasu is the Naksatra for the re-establ
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द॒र्भैर् आद॑धा॒ति अ-या॑त-यामत्वाय ।  
+द॒र्भैर् आद॑धा॒ति अ-या॑त-यामत्वाय ।
+</details>
+<details><summary>Keith</summary>
+
+He establishes with Darbha grass, for variety.
+</details>
+<details><summary>मूलम्</summary>
+
+द॒र्भैरा द॑धा॒ति अया॑तयामत्वाय ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 द॒र्भैरा द॑धात्य् - अ॒द्भ्य ए॒वैन॒म् +++(अग्निम्)+++ ओष॑धीभ्यो ऽव॒रुध्याऽऽध॑त्ते ।
 </details>
 <details><summary>Keith</summary>
 
- He establishes with Darbha grass, for variety. He establishes with Darbha; verily winning it from the waters and the plants he establishes it. 
+He establishes with Darbha; verily winning it from the waters and the plants he establishes it.
 </details>
 <details><summary>मूलम्</summary>
 
-द॒र्भैरा द॑धा॒ति अया॑तयामत्वाय ।  
 द॒र्भैरा द॑धात्य॒द्भ्य ए॒वैन॒मोष॑धीभ्योऽव॒रुध्याऽऽध॑त्ते ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

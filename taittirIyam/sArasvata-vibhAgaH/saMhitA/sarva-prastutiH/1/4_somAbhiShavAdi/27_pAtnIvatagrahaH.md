@@ -1,6 +1,5 @@
 +++
 title = "२७ पात्नीवतग्रहः"
-
 +++
 
 सोमऋषिः
@@ -16,16 +15,21 @@ _______
 
 बृह॒स्पति॑सुतस्य त इन्दो इन्द्रि॒याव॑त॒ᳶ पत्नी॑वन्त॒ङ्ग्रह॑ङ्गृह्णा॒मि ।
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/27_pAtnIvatagrahaH/02_bRhaspatisutasya_ta.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 बृह॒स्पति॑-सुतस्य त  
 +++(सोम-)+++ इन्दो+++(→बिन्दो)+++ इन्द्रि॒याव॑तः ।  
 पत्नी॑वन्त॒ङ् **ग्रह॑ङ् गृह्णा॒मि** ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/27_pAtnIvatagrahaH/02_bRhaspatisutasya_ta.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Of thee, O drop, pressed by Brhaspati,  
@@ -46,6 +50,7 @@ I draw the cup connected with the wives.
 **इन्दो** सोम ते तव **बृहस्पतिसुतस्य** बृहस्पतिना ब्रह्मणैव सुतस्य । यद्वा - बृहतो महतो यज्ञाख्यस्य कर्मणः पत्या पालयित्रा यजमानेन सुतस्याभिषुतस्य । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम्, पूर्वपदं च वनस्पत्यादि, तस्यच सुट्स्वरावुक्तौ, तत्र वृत्तिविषये बृहच्छब्द आद्युदात्तः । ईन्द्रियावतः वीर्यवतः । 'मन्त्रे सोमाश्वेन्द्रियविश्वदेव्यस्य मतौ' इति दीर्घः । तवैकदेशेन पत्नीवन्तं ग्रहं गृह्णामि । 'छन्दसीरः' इति मतुपो वत्वम् ॥
 </details>
 </details>
+
 </div>
 
 _______

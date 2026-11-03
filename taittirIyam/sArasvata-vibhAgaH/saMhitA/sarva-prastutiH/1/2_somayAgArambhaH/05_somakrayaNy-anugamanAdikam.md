@@ -1,7 +1,6 @@
 +++
 title = "०५ सोमक्रयण्य्-अनुगमनादिकम्"
 short_title = "०५"
-
 +++
 ०५ सोमक्रयण्य्-अनुगमनादिकम्  
 सोमऋषिः
@@ -90,7 +89,6 @@ thou art Candra.
 वसु-रुद्रादित्याः सवन-त्रय-देवताः। अदितिः प्रायणीयोदयनीययोर् देवता। शुक्र-शब्देन दीप्तिमान् सोमो विवक्षितः। चन्द्र-शब्देनाह्लाद-कारि सुवर्णम्। हे सोम-क्रयणि, त्वं वस्व्-आदीनां स्वरूपम् असि। तद्-अपेक्षित-सोम-याग-साधनत्वात्।
 </details>
 
-
 ## सप्तमपदे कर्म
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -108,26 +106,38 @@ ________
 इति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-बृह॒स्पति॑स् त्वा सु॒म्ने+++(=सुखे)+++ र॑ण्वतु+++(=गमयतु)+++ ।  
-रु॒द्रो वसु॑भि॒र् आ चि॑केतु+++(=जानातु)+++ ।
-</details>
-
-<details><summary>Keith</summary>
-
-May Brhaspati make thee rejoice in happiness.  
-May Rudra with the Vasus be favourable to thee.
-</details>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 －बृह॒स्पति॑स्त्वा सु॒म्ने र॑ण्वतु रु॒द्रो वसु॑भि॒रा चि॑केतु
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बृह॒स्पति॑स् त्वा सु॒म्ने+++(=सुखे)+++ र॑ण्वतु+++(=गमयतु)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+May Brhaspati make thee rejoice in happiness.
+</details>
+
 <details><summary>मूलम्</summary>
 
-बृह॒स्पति॑स्त्वा सु॒म्ने र॑ण्वतु ।  
+बृह॒स्पति॑स्त्वा सु॒म्ने र॑ण्वतु ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रु॒द्रो वसु॑भि॒र् आ चि॑केतु+++(=जानातु)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+May Rudra with the Vasus be favourable to thee.
+</details>
+
+<details><summary>मूलम्</summary>
+
 रु॒द्रो वसु॑भि॒रा चि॑केतु ।
 </details>
 
@@ -163,7 +173,6 @@ ________
 > “अथैतस्मिन् पदे हिरण्यं निधाय संपरिस्तीर्याभिजुहोति 'पृथिव्यास् त्वा मूर्धन्न् आ जिघर्मि देव-यजन इडायाः पदे घृतवति स्वाहेति'” 
 
 इति।
-
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -256,7 +265,6 @@ on the place of sacrifice, on the abode of the offering, rich in ghee; hail!
 इति।
 </details>
 
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -273,9 +281,8 @@ ________
 इति।
 </details>
 
-
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
-<details open><summary><h4>परिलिखितम् ...{Loading}...</h4></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परि॑लिखितँ॒+++(=परिनाशितं)+++ रक्ष॒ᳶ  
@@ -331,7 +338,20 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 
 3अपिकृन्तमीत्यन्तो मन्त्रो व्याख्यातः ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+परिलिखितं नाशितं, रक्ष इति जात्य्-अभिप्रायेणैक-वचनम्। ग्रीवा इति व्यत्य्-अभिप्रायेण बहु-वचनम्। इदम् इति हस्ताभिनयः। कृन्तामि छिनद्मि।
+
+रक्षसः प्रसक्तिं पूर्वोक्तां स्मारयन् मन्त्रं व्याचष्टे –
+
+> काण्डे-काण्डे वै क्रियमाणे यज्ञं रक्षांसि जिघांसन्ति 'परिलिखितं रक्षः परिलिखिता अरातय' इत्य् आह रक्षसाम् अपहत्यै 'इदम् अहं रक्षसो ग्रीवा अपि कृन्तामि यो ऽस्मान् द्वेष्टि यं च वयं द्विष्म' इत्य् आह द्वौ वाव पुरुषौ यं चैव द्वेष्टि यश् चैनं द्वेष्टि तयोर् एवानन्तरायं ग्रीवाः कृन्तति (सं. का. ६ प्र. १ अ. ८) 
+
+इति।
+
+अनन्तरायं द्वयोर् मध्य एकतरस्याप्य् अन्तरायो यथा न भवति तथेत्य् अर्थः।
 </details>
+
 </div>  
 
 ## पांसुग्रहणम्
@@ -350,7 +370,6 @@ ________
 > “'अस्मे राय' इति स्थाल्यां यावत् त्मूतं समोप्य 'त्वे राय' इति  यजमानाय प्रयच्छति 'तोते राय' इति पत्नियै” 
 
 इति।
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -384,7 +403,6 @@ With us be wealth.
 </details>
 
 <details><summary>सायण-टीका</summary>
-
 
 त्मूतं घृतेनाप्लुतम्। तादृशं रजः सोम-क्रयण्याः सप्तम-पद-स्थाने यावद् अस्ति तावत् सर्वं पात्रे क्षिपेत्। अस्मिन्न् अध्वर्यौ रायो रजो-रूपं धनं तिष्ठतु त्वे त्वयि यजमाने। तोते कलत्रे।
 
@@ -467,7 +485,6 @@ ________
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
-
 समिति।
 कल्पः – 
 
@@ -529,15 +546,19 @@ ________
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/02_tvaShTImatI_te.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 त्वष्टी॑+++(=प्रजनन-नैशित्य)+++मती ते सपेय+++(=मिथुनीभवेयम्)+++  
 सु॒रेता॒ रेतो॒ दधा॑ना ।   
 वी॒रव्ँ वि॑देय॒ तव॑ स॒न्दृशि॑+++(=सन्दर्शने)+++
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/02_tvaShTImatI_te.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Let me attend on thee, with Tvastr's aid;  
@@ -566,7 +587,21 @@ may I find a hero in thy presence.
 अहमीदृशीभूत्वा वीरं पुत्रं विदेय लभेय । वेतेः प्रनननवृत्तेः औणादिको रक्प्रत्ययः । विदिर्लाभे, स्वरितेत्, 'आशिषि लिङि' 'लिङ्याशिष्यङ्', सीयुट्, 'छन्दस्युभयथा' इति सार्वधातुकत्वात् सलोपः, अतो लोपाभावश्छान्दसः ।   
 तव संदृशि संदर्शने सस्नेहदृष्टिलाभे । सम्पदादित्वात्क्विप्, कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+हे यजमान, त्वया सह सपेय संगच्छेय। अथवा हे सोम-क्रयणि, ते तवानुग्रहेणाहं पत्या संगच्छेय। कीदृशी? त्वष्टीमती, स्त्री-पुरुष-मिथुन-रूपाणां पशु-मनुष्यादीनां शरीर-निर्माता त्वष्टा। तथा चाग्नि-उपस्थान-प्रकरणे श्रूयते — 
+“यावच् छो वै रेतसः सिक्तस्य त्वष्टा रूपाणि विकरोति तावच् छो वै तत् प्रजायते”  
+
+इति। तादृशम् एव पत्यू रेतो दधाना तव पत्युः सोम-क्रयण्या वा संदृश्य् अभीक्ष्णं वीक्षणं वर्तमाना वीरं स्वोचित-गुणेषु शूरं पुत्रं विदेय लभेय।
+
+> 'त्वष्टीमती ते सपेयेत्य्' आह त्वष्टा वै पशूनां मिथुनानां रूप-कृद् रूपम् एव पशुषु दधाति (सं. का. ६ प्र. १ अ. ८) 
+
+इति।
+
 </details>
+</details>
+
 </div>
 
 _______

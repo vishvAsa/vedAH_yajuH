@@ -1,6 +1,5 @@
 +++
 title = "३३-३ सङ्गाहनम्"
-
 +++
 
 गायत्री । सोमऋषिः  
@@ -10,17 +9,21 @@ title = "३३-३ सङ्गाहनम्"
 
 अत्र  33-तः 37 पर्यन्तं संहिताभाष्यं नास्ति । अत्र भास्कराचार्यैर्न व्याख्यातः  । किन्तु आरण्यकभाष्ये ।
 </details>
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 **आ प्या॑यस्व** मदिन्-तम॒  
 सोम॒ विश्वा॑भिर् ऊ॒तिभिः॑ ।  
 भवा॑ नस् स॒प्रथ॑स्तमः ॥ 
 
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
-<details open><summary><h5>आप्यायस्व ...{Loading}...</h5></summary>
+
 <details><summary>Keith</summary>
 
 Swell, O sweetest Soma,  
@@ -39,7 +42,7 @@ Be fullest of help for us.
 **सोम! मदिन्तम!** मादयितृतम! ।  
 यद्वा - माद्यतम आत्मानन्दमय । 'शमित्यष्टाभ्यो घिनुण्' 'नाद्घस्य' इति नुट् । **आप्यायस्व** वर्धस्व **विश्वाभिर् ऊतिभिः** रक्षणैस् तर्पणैर्वा अस्माकं **सप्रथस्तमो** भव अतिशयेन प्रथा-समन्वितः सप्रथस्तमः । त्वमस्मद्विषयाभिस्सर्वाभिरूतिभिः भृशं प्रथितो भव अस्माभिस्सह वर्धस्व ॥
 </details>
-</details>
+
 </div>  
 
 ## अवगाहनम्
@@ -47,7 +50,8 @@ Be fullest of help for us.
 गायत्री। सोमऋषिः
 
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 +++(पूर्वजाः)+++ **ईयु᳓ष् टे᳓ ये᳓** पू᳓र्वतराम् **अ᳓पश्यन्**  
 व्युच्छ᳓न्तीम् **उष᳓सं** म᳓र्त्यासः ।  
@@ -55,9 +59,11 @@ Be fullest of help for us.
 आ᳓+उ᳓ ते᳓ +++(प्रजाः)+++ **यन्ति ये᳓ अपरी᳓षु+++(=अनागतासु)+++ प᳓श्यान्** ॥
 
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/113/11_IyuShTe_ye.md">
-<details open><summary><h5>011 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -286,6 +292,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। मर्त्यासः- मनुष्याः। पूर्वतराम्- पुराणीम्। व्युच्छन्तीम्- तमो विवासयन्तीं ज्योतिषा व्याप्य  तिष्ठन्तीम्। उषसम्- ज्ञानोदयदेवताम्। अपश्यन्- दृष्टवन्तः। ते। ईयुः- गताः। अस्माभिः। नु-  इदानीम्। प्रतिचक्ष्या- दृष्टा। अभूत्। ये। अपरीषु- भाविनिशान्तेषु। पश्यान्- द्रक्ष्यन्ति। ते।  यन्ति- आगमिष्यन्त्येव। सा सार्वकालिकेति भावः॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ये** **मर्त्यासः** मरणधर्माणो मनुष्याः **व्युच्छन्तीं** विवासयन्तीं **पूर्वतराम्** अतिशयेन पूर्वां विप्रकृष्टाम् **उषसम्** **अपश्यन्** दृष्टवन्तः **ते** मनुष्याः **ईयुः** गताः। तथा **अस्माभिः** अपि **नु** इदानीं **प्रतिचक्ष्या** प्रकर्षेण द्रष्टव्या **अभूत्** जाता । तथा **अपरीषु** भाविनीषु रात्रिषु **ये** मनुष्याः एतामुषसं **पश्यान्** पश्यन्ति **ते** । आ उ इति निपातद्वयसमुदायः । तत्र उ इत्येतदवधारणे । एव **यन्ति** आगच्छन्त्येव । कालत्रयेऽप्येषा व्याप्य वर्तते इत्यर्थः ॥ 
@@ -323,7 +334,7 @@ They have gone, the mortals who saw the earlier dawn dawning forth. (This dawn) 
 With Grassmann (et al.) I take praticákṣyā as the gerundive; cf. I.124.8.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
-<details open><summary><h7>07-13 ...{Loading}...</h7></summary>
+<details open><summary><h7>07-13 …{Loading}…</h7></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
 These verses have a surprising density of forms of ví √vas ‘dawn forth’ (7b, d, 8c, 9b, 10b [2x], 11b, 12d, 13a, b, c), whereas vss. 1-6 lack any such forms -- though there’s a teasing echo in 4b ví … āvaḥ ‘She opened, uncovered’, belonging, however, to √vṛ. See also comments on vs. 14.
@@ -416,7 +427,7 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 
 भावार्थभाषाः -  जी माणसे उषेचे आगमन होण्यापूर्वी जागे होऊन आवश्यक कार्य करतात व नंतर परमेश्वराचे ध्यान करतात ती बुद्धिमान व धार्मिक असतात. जे स्त्री-पुरुष परमेश्वराचे ध्यान करून प्रेमाने आपापसात बोलतात. त्यांना अनेक प्रकारचे सुख प्राप्त होते. ॥ ११ ॥
 </details>
-</details>
+
 </div>  
 
 ## ओषणम्
@@ -424,7 +435,7 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 सोमऋषिः
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/jyotiShmantaM.md">
-<details open><summary><h5>ज्योतिष्मन्तम् ...{Loading}...</h5></summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ज्योति॑ष्मतीन्त्वा सादयामि ज्योति॒ष्कृत॑न्त्वा सादयामि ज्योति॒र्विद॑न्त्वा सादयामि॒ भास्व॑तीन्त्वा सादयामि॒ ज्वल॑न्तीन्त्वा सादयामि मल्मला॒भव॑न्तीन्त्वा सादयामि॒ दीप्य॑मानान्त्वा सादयामि॒ रोच॑मानान्त्वा सादया॒म्यज॑स्रान्त्वा सादयामि बृ॒हज्ज्यो॑तिषन्त्वा सादयामि बो॒धय॑न्तीन्त्वा सादयामि॒ जाग्र॑तीन्त्वा सादयामि ॥ [35]
@@ -669,5 +680,5 @@ I place thee that art awake.
 
 जाग्रती स्वयंप्रकाशात्मना ॥
 </details>
-</details>
+
 </div>

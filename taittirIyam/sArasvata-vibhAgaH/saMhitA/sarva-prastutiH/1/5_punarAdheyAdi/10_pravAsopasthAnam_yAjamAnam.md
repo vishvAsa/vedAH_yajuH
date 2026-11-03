@@ -1,6 +1,5 @@
 +++
 title = "१० प्रवासोपस्थानं, याजमानम्"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -15,7 +14,6 @@ title = "१० प्रवासोपस्थानं, याजमान�
 १२ विराट् स्थाना  
 ८ द्विपदा  
 प्रजापतिर्ऋषिः
-
 </details>
 
 _______
@@ -23,17 +21,22 @@ _______
 
 1अग्निभ्यः प्रवत्स्यन्नाहवनीयमुपतिष्ठते - मम नामेति त्रिष्टुभा ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/02_mama_nAma.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **मम॒ नाम॑** प्रथ॒मञ् जा॑तवेदᳶ!  
 पि॒ता मा॒ता च॑ **दधतु॒र्** यद् अग्रे॑ ।  
 तत् त्वम् **बि॑भृहि॒** पुन॒र् आ मद्-आ+एतो॒स्  
 तवा॒हन् **नाम॑ बिभराण्य्** अग्ने॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/02_mama_nAma.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 The name that first, O all-knower,  
@@ -75,6 +78,7 @@ O Agni, may I bear thy name.
 “तस्माद्द्विनामा ब्राह्मणोऽर्धुकः” इति। तत्राध्यापनादेरूर्ध्वं प्रवृत्तत्वादुपाध्यायादिकं चरमम्। अग्ने जन्मकाले मातापितृभ्यां कृतत्वाद्देवदत्तादिकं प्रथमम्। हे जातवेदो मम यत्प्रथमं नाम तत्त्वं धारय। कियन्तं कालम्। पुनरा मदैतोः। आ मदीयपुरागमनात्। अहमपि तव नाम धारयाणि। त्वमत्र वैकल्यं निर्हरन्मदीयं कार्यं कुरु। त्वन्नामधारिणो मम गन्तव्यदेशे वैकल्यमेव न संभवतीत्यर्थः।  
 </details>
 </details>
+
 </div>
 
 _______
@@ -82,17 +86,22 @@ _______
 
 2आगत्य प्रवासात्पुनस्तमुपतिष्ठते - मम नाम तव चेति । 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/07_mama_nAma.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 मम॒ **नाम॒** तव॑ च जातवेदो॒!  
 वास॑सी इव वि॒+++(=विनिमयेन-)+++वसा॑नौ॒ ये **चरा॑वः** ।  
 आयु॑षे॒ त्वञ्, जी॒वसे॑ व॒यय्ँ  
 य॑थाय॒थव्ँ **वि परि॑ दधावहै॒** पुन॒स् ते  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/07_mama_nAma.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 My name and thine, O all-knower,  
@@ -128,6 +137,7 @@ Thou for life, and we to live.
 मम नाम तवेति। हे जातवेदो मम देवदत्तादि नाम तव च वह्न्यादि नामेत्येवं ये नामनी विपरिवृत्यान्योन्यवाससी विपर्ययेण वसानाविवेदानीमावां चरावः। अत ऊर्ध्वं ते नामनी त्वं चाहं च पुनरपि यथायथं त्वदीयं वह्न्यादिनाम तवैव मदीयं च देवदत्तादिनाम मदीयमेव यथा भवति तथा विपरिवृत्य परिदधावहै। एवं सत्यायुर्वृद्धिर्धनादिसंपत्त्या प्रशस्तजीवनं च भवति।  
 </details>
 </details>
+
 </div>
 
 _______
@@ -135,17 +145,22 @@ _______
 
 3गार्हपत्यमुपतिष्ठते - नमोग्नय इति त्रिष्टुभा ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/12_namo.agnaye.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **नमो॒ ऽग्नये** ऽप्र॑तिविद्धाय॒,
 नमो ऽना॑धृष्टाय॒, नम॑स् स॒म्राजे॑ ।  
 अ-षा॑ढो+++(=सह्यः)+++ अ॒ग्निर् बृ॒हद्-व॑या+++(=अपरिमितान्नः)+++  
 विश्व॒जित् सह॑न्त्य॒श्+++(=अभिभवनशीलश्)+++ श्रेष्ठो॑ गन्ध॒र्वः  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/12_namo.agnaye.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Homage to Agni, the unpierced,  
@@ -179,6 +194,7 @@ Powerful, the best, the Gandharva.
 नमोऽग्नय इति। अप्रतिविद्धाय केनचिदताडिताय। अनाधृष्ठाय। केनाप्यतिरस्कृताय। सम्राजे संहतदीप्तये। अषाढः शत्रूणां सोढुमशक्यः। बृहद्वया अपरिमितान्नः। विश्वजित्सर्वस्य जेता। सहन्त्यः स्वयं सहिष्णुः। श्रेष्ठो गन्धर्वः संगीतादिकलाविद्यास्वतिकुशलः।  
 </details>
 </details>
+
 </div>
 
 _______
@@ -186,16 +202,21 @@ _______
 
 4अन्वाहार्यपचनम् उपतिष्ठते - त्वत्पितार इति ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/17_tvatpitAro_agne.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **त्वत्-पि॑तारो** अग्ने **दे॒वास्**  
 त्वाम्-आ॑हुतय॒स् त्वद्-वि॑वाचनाः ।  
 सम्-मामायु॑षा॒ सङ्-गौ॑प॒त्येन॒ **सुहि॑ते मा धाः**  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/17_tvatpitAro_agne.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 O Agni, the gods have thee for father,  
@@ -232,6 +253,7 @@ And bestow on me good fortune.
 त्वत्पितार इति। त्वमेव पिता पालको येषां देवानां ते त्वत्पितारः। त्वा प्राप्ता आहुतयो येषां देवानां ते त्वामाहुतयः। त्वयि हुताः सत्यो देवांस्तर्पयन्तीत्यर्थः। त्वमेव विशेषेण वाचनप्रख्यापयिता येषां ते त्वद्विवाचनाः। हेऽग्ने मां दीर्घायुषा संधाः संयोजय। गौपत्येन गवां स्वामित्वेन संयोजय। सुहिते सुष्ठु हिते पुरुषार्थे मा धाः, मां स्थापय।  
 </details>
 </details>
+
 </div>
 
 _______
@@ -239,16 +261,21 @@ _______
 
 5आहवनीयमुपतिष्ठते - अयमित्यनुष्टुभा+++(??)+++ ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/22_ayam_agnish.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अ॒यम् अ॒ग्निश् श्रेष्ठ॑तमो॒, ऽयम्  
 भग॑वत्तमो॒ ऽयँ स॑हस्र॒-सा+++(त्)+++-त॑मः ।  
 अ॒स्मा अ॑स्तु सु॒वीर्य॑म्  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/22_ayam_agnish.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Agni here is of all the best,  
@@ -289,6 +316,7 @@ To him be all good strength.
 अतिशयेन भगवान् **भगवत्तमः।** सहस्रसंख्याकस्य धनस्य सनितारो दातारस्ते-ष्वतिशयेन दाता **सहस्रसातमः**। तादृशस्याग्नेः प्रसादादस्मै यजमानाय मह्यं शोभनं सामर्थ्यमस्तु।  
 </details>
 </details>
+
 </div>
 
 _______
@@ -296,8 +324,10 @@ _______
 
 6विच्छिन्ननिमित्तो होमः - मनो ज्योतिरिति । 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/27_mano_jyotir.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 मनो॒ ज्योति॑र् **जुषता॒म्**, आज्यव्ँ॒  
 विच्छि॑न्नय्ँ **य॒ज्ञँ सम्** इ॒मन् **द॑धातु** ।  
@@ -306,9 +336,12 @@ _______
 
 +++(मनसे ज्योतिषे इदं न मम॥)+++
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/27_mano_jyotir.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Mind, light, rejoice in the oblation  
@@ -364,6 +397,7 @@ I unite with oblation and ghee.
 मनो ज्योतिरिति। पूर्वार्धं भूमिर्भूम्नेत्यनुवाके व्याख्यातम्। या उषसः प्रातःकालोपलक्षिता आहुतयः, याश्च निम्रुचोऽस्तमयकालोपलक्षिता आहुतय इष्टा इतरैर्यजमानैरनुष्ठिता मया त्वन्तरितास्ताः सर्वा आहुतीरनेन घृतेन हविषा संदधामि अविच्छिन्नाः करोमि। 
 </details>
 </details>
+
 </div>
 
 ## प्राजापत्यम् इष्टियाजमानकाण्डम्
@@ -374,17 +408,22 @@ _______
 
 7अतः परम् इष्टि-याजमान-काण्डं प्राजापत्यम् । तत्राप आचामति - पयस्वतीरित्यनुष्टुभा ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/32_payasvatIr_oShadhayaH.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 पय॑स्वती॒र् ओष॑धयः॒   
 पय॑स्वद् वी॒रुधा॒म् पयः॑ ।    
 अ॒पाम् पय॑सो॒ यत् पय॒स्  
 तेन॒ माम् इ॑न्द्र॒ सँ सृ॑ज  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/32_payasvatIr_oShadhayaH.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Rich in milk are the plants [2],  
@@ -421,6 +460,7 @@ O Indra, do thou unite me.
 सारवाची पयःशब्दः। ओषधयः पयस्वत्यः सारवत्यः। वीरुधां लतानां संबन्धि यत्पयो निर्गतं क्षीरं तदपि पयस्वत्सारवत्। अपां मध्ये यत्पयः सारं यच्च पयसो गवादिक्षीरस्य पयः सारं तेन सारेण सर्वेण हे इन्द्र मां संसृज संयोजय।  
 </details>
 </details>
+
 </div>
 
 _______
@@ -451,7 +491,6 @@ O Agni, lord of vows, I shall perform this vow;
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । व्र॒त॒प॒त॒ इति॑ व्रत-प॒ते॒ । व्र॒तम् । च॒रि॒ष्या॒मि॒ ।   
-
 </details>
 </details>
 
@@ -527,17 +566,22 @@ _______
 
 9हविर्निरुप्यमाणमभिमन्त्रयते - अग्निं होतारमिति । 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/51_agniM_hotAram.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **अ॒ग्निँ** होता॑रम् इ॒ह तँ **हु॑वे**  
 **दे॒वान्** य॒ज्ञिया॑न् इ॒ह यान् **हवा॑महे**  ॥  
 **आ य॑न्तु दे॒वास्** सु॑मन॒स्यमा॑ना  
 **वि॒यन्तु॑ दे॒वा** ह॒विषो॑ मे अ॒स्य  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/51_agniM_hotAram.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Agni, the priest, I summon hither;  
@@ -573,6 +617,7 @@ Let the gods enjoy this oblation of me.
 इह कर्मणि देवानामाह्वातारं तमग्निमहमाह्वयामि। इह कर्मणि यान्देवानुद्दिश्य जुहुमस्तानपि यज्ञियान्देवानाह्वयामि। आहूताश्च ते देवाः सैमनस्यं प्राप्ता आगच्छन्तु। आगत्य च मेऽस्य हविषो मदीयमिदं हविर्वियन्तु भक्षयन्तु।
 </details>
 </details>
+
 </div>
 
 _______
@@ -583,18 +628,32 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कस्+++(→प्रजापतिः पक्षे)+++ त्वा॑ युनक्ति॒ -  
+कस्+++(→प्रजापतिः पक्षे)+++ त्वा॑ युनक्ति॒ -
+</details>
+
+<details><summary>Keith</summary>
+
+Who yoketh thee?
+</details>
+
+<details><summary>मूलम्</summary>
+
+कस्त्वा॑ युनक्ति॒
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स त्वा॑ युनक्तु ।
 </details>
 
 <details><summary>Keith</summary>
 
-Who yoketh thee? Let him yoke thee.
+Let him yoke thee.
 </details>
 
 <details><summary>मूलम्</summary>
 
-कस्त्वा॑ युनक्ति॒ स त्वा॑ युनक्तु ।
+स त्वा॑ युनक्तु ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -618,17 +677,21 @@ _______
 
 11कपालानि विमुञ्चति - यानि घर्म इत्यनुष्टुभा ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 यानि॑ घ॒र्मे **क॒पाला॑न्य्**  
 **उपचि॒न्वन्ति॑** वे॒धसः॑+++(=अध्वर्यवः)+++ ।  
 **पू॒ष्णस् तान्य्** अपि॑ +++(श्रपण-)+++व्र॒त+++(य् समाप्ते)+++  
 **इ॑न्द्र-वा॒यू वि मु॑ञ्चताम्** ॥ [11]   
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
-<details open><summary><h5>यानि घर्मे ...{Loading}...</h5></summary>
+
 <details><summary>Keith</summary>
 
 The potsherds which wise men collect for the cauldron,  
@@ -672,12 +735,12 @@ ______________
 मन्त्रपाठस्तु -  
 यानि घर्म इति। अयं मन्त्रोऽप्यध्वर्युकाण्ड आम्नातत्वात्प्रथमप्रपाठके व्याख्यातः। वेधसो ब्रह्मसमाः पूष्णः पोषका ऋत्विजो यानि कपालानि वह्ना वुपस्थापयन्ति तानि सर्वाण्यपि व्रते समाप्ते सतीन्द्रवायू विमुञ्चताम्।  
 </details>
-</details>
+
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इयं चाध्वर्यवे व्याख्याता 'धृष्टिरसि' इत्यत्र ।
-
 </details>
 
 _______
@@ -685,15 +748,20 @@ _______
 
 12भिन्नं कपालम् उत्कर उदस्यति - अभिन्न इति । 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/68_abhinno_gharmo.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 +++(भिन्ने ऽपि कपाले)+++ अभि॑न्नो घ॒र्मो +++(→यज्ञो)+++, जी॒र+++(=उदक)+++-दा॑नु॒र्  
 यत॒ आत्त॒स् तद् अ॑ग॒न् पुनः॑ ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/68_abhinno_gharmo.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Unbroken is the cauldron, sprinkling abundantly,  
@@ -728,6 +796,7 @@ It hath returned to that whence it came;
 तत्र कल्पः — “यदि कपालं भिद्येत गायत्रिया त्वा शताक्षरया संदधामीति तत्संधायोपरि गार्हपत्ये धार्यमाणम-भिजुहुयान्मनो ज्योतिर्जुषतामित्यथैनदपोऽभ्यवहरेदभिन्नो घर्मो जीरदानुरिति” इति।
 </details>
 </details>
+
 </div>
 
 _______
@@ -735,15 +804,20 @@ _______
 
 13आहवनीये सम्मीननीं जुहोति - इध्मो वेदिरित्युत्तरेणार्धर्चेन त्रयस्त्रिंशदिति त्रिष्टुभा च ॥ 
 </details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/73_idhmo_vedipH.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 इ॒ध्मो वेदिᳶ॑ परि॒धय॑श् च॒ सर्वे॑  
 य॒ज्ञस्याऽऽयु॒र् अनु॒ सञ्च॑रन्ति  ॥
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/73_idhmo_vedipH.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 The kindling-wood, the Vedi, and all the enclosing-sticks  
@@ -775,18 +849,24 @@ Attend the life of the sacrifice.
 मन्त्रशेषस्तु “यत्र आत्तस्तदगन्पुनः। इध्मो वेदिः परिधेयश्च सर्वे यज्ञस्याऽऽयुरनुसंचरन्ति” इति। घर्मो दीप्तः संतप्तोऽयं कपालविशेषः स्वयं मिन्नत्वेन प्रतीयमानोऽपि मन्त्र सामर्थ्यादभिन्न एव भिन्नत्वदोषं नाऽऽवहति। यस्मादयं जीरदानुः। जीरं जीवनं पुरोडाशाद्वारेण यज्ञस्य ददातीति जीरदानुः। यो ह्यन्यं जीवयति स कथं स्वयं भिन्नो भवेत्। अभिन्नत्वे तदाकारः कुतो न भातीत्याशङ्क्योत्तरमुच्यते - यतो यस्मान्मृद्रूपात्कारणादात्त उत्पन्नः पुनस्तत्कारणमगन्नाप्नोदतः कारणरूपमृदाकार एव प्रतीयते न तु कार्याकारः। तदप्रतीतावपीध्मादयः स्वस्वाकारेण प्रतीयमाना यज्ञपुरुषस्याऽऽयुरनुकृत्य संचरन्ति।  
 </details>
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/77_trayastriMshat_tantavo.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 त्रय॑स्-त्रिँश॒त् +++(देवरूपा)+++ **तन्त॑वो॒** ये **वि॑तत्नि॒रे**,  
 य इ॒मय्ँ **य॒ज्ञँ** स्व॒धया॒ **दद॑न्ते** ।   
 तेषा॑ञ् छि॒न्नम् प्रत्य् **ए॒तद् द॑धामि॒**  
 स्वाहा॑   ।
 </details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/77_trayastriMshat_tantavo.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 The three and thirty threads that stretch,  
@@ -821,6 +901,7 @@ Of these the broken one I restore; hail!
 चतुर्थकाण्डे प्रजापतिर्मनसाऽन्धोऽच्छेत इत्यस्मिन्ननुवाक इष्टकोपधानार्था यज्ञतनुनामकास्त्रयस्त्रिंशन्मन्त्रा आम्नाताः। तन्मन्त्रप्रतिपाद्या यज्ञतनव इह तन्तुस्थानीयाः। यथा तन्तुभिः पटो निष्पाद्यते तथा तास्तनवो यज्ञं विस्तारयन्ति। ते तन्तवो यज्ञनिष्पादकाः। येऽप्यृत्विगादयः स्वधया हविषेमं यज्ञं ददन्तेऽनुतिष्ठन्ति तेषां प्राजापत्यादीनां यज्ञाभिमानिदेवानामृ- त्विगादियज्ञाङ्गानां च मध्ये यत्स्वरूपं विच्छिन्नं तदेतत्प्रतिसंधामि। 
 </details>
 </details>
+
 </div>
 
 _______

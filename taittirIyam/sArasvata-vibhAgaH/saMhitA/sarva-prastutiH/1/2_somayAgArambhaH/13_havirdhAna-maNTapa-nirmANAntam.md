@@ -483,26 +483,38 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒वाग् दे॑व॒ दुर्याँ॒+++(=गृहान्)+++ **आ व॑द**। +++('वरुणो वा एष दुर्वागुभयतो बद्धो यदक्षः' इत्यादि ब्राह्मंणम् ।)+++  
+सु॒वाग् दे॑व॒ दुर्याँ॒+++(=गृहान्)+++ **आ व॑द**। +++('वरुणो वा एष दुर्वागुभयतो बद्धो यदक्षः' इत्यादि ब्राह्मंणम् ।)+++
+</details>
+
+<details><summary>Keith</summary>
+
+With fair voice, O god, do thou address the dwelling.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सु॒वाग्दे॑व॒ दुर्याँ॒ आ व॑द
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 +++(हे अक्षौ!)+++ देव॒-श्रुतौ॑ दे॒वेष्व् **आ घो॑षेथाम्**।
 </details>
 
 <details><summary>Keith</summary>
 
-With fair voice, O god, do thou address the dwelling.  
 Ye two, famed among the gods, make proclamation among the gods.
 </details>
 
 <details><summary>मूलम्</summary>
 
-सु॒वाग्दे॑व॒ दुर्याँ॒ आ व॑द देव॒श्रुतौ॑ दे॒वेष्वा घो॑षेथाम्।
+देव॒श्रुतौ॑ दे॒वेष्वा घो॑षेथाम्।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
 सु॒वागिति॑ सु-वाक् । दे॒व॒ । दुर्या॑न् । एति॑ । व॒द॒ ।   
 दे॒व॒श्रुता॒विति॑ देव-श्रुतौ॑ । दे॒वेषु॑ । एति॑ । घो॒षे॒था॒म् ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -519,7 +531,6 @@ Ye two, famed among the gods, make proclamation among the gods.
 स च मन्त्र एवम् आम्नातः —
 
 सुवाग् इति। हे ऽक्षदेव दुर्यान् गृहान् प्रति सुवाग् भूत्वा ऽऽसमन्ताच् श्रेयस्करीं वाजं वद। हे देवश्रुतौ प्रख्याताव् अक्षौ यजमानो ऽयं युष्मान् यजतीति देवेष्वा घोषेथाम्।
-
 </details>
 
 ________
@@ -581,7 +592,6 @@ Who shall be ruler over many.
 स चैवम् आम्नातः —
 
 आ न इति। कर्मणि साधुः कुशलो वीर आलस्य-रहितः पुत्रो ऽस्माकम् आजायताम्। यं जीवाम यश् च बहूनां वशी नियमन-शक्तिमान् असद् भवेत्। तादृशो जायताम्। अत्र कल्पे पद-तृतीय-शब्देन सोम-क्रयणी-पद-रजसस् तृतीयांशः पूर्वं संगृहीतो विवक्षितः।
-
 </details>
 
 ________
@@ -1256,7 +1266,6 @@ Come ye two then forward, ordaining the offering; bring upward the sacrifice; do
 <details><summary>पद-पाठः</summary>
 
 प्राची॒ इति॑ । प्रेति॑ । इ॒त॒म् । अ॒ध्व॒रम् । क॒ल्पय॑न्ती॒ इति॑ ।  ऊ॒र्ध्वम् । य॒ज्ञम् । न॒य॒त॒म् । मा । जी॒ह्व॒र॒त॒म् ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1270,7 +1279,6 @@ Come ye two then forward, ordaining the offering; bring upward the sacrifice; do
 <details><summary>सायण-टीका</summary>
 
 हे शकटे प्राङ्मुखे गच्छतम्। कीदृशे। अध्वरं कल्पयन्ती देव-कर्म बाध-रहितं कुर्वाणे। किंचोर्ध्वम् उपरि-वर्ति-देवान् प्रति यज्ञं नयतं मा कुटिले भवतम् असुरान् मा प्रापयतम्।
-
 </details>
 
 ________
@@ -1286,7 +1294,6 @@ ________
 > "आहवनीयात् प्रतीचस् त्रीन् प्रक्रमान् उच्छिष्यात्र रमेथाम् इति नभ्यस्थे स्थापयित्वा" 
 
 इति।
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1335,7 +1342,6 @@ ________
 >"दिवो वा विष्णवित्य् अध्वर्युर् दक्षिणस्य हविर्धानस्य दक्षिणं कर्णातर्दम् अनु-मेथीं निहन्ति तस्याम् ईषां निनह्यत्य् एवम् उत्तरस्य प्रतिप्रस्थाता विष्णोर् नु कम् इत्य् उत्तरस्योत्तरं कर्णातर्दम् अनु" 
 
 इति।
-
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam/02_divo_vA.md">

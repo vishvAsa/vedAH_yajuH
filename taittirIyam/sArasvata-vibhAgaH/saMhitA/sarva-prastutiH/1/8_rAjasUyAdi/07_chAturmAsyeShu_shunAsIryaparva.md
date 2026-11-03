@@ -215,8 +215,8 @@ the sacrificial fee is a cow for draught purposes.
 तत्र ये देवा इति पदद्वयं रक्षोहण इत्यादि च पूर्वत्र परत्र च पञ्चस्वप्य् अनुषज्यते ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/ye_devAH_purassadaH.md">
-<details open><summary><h5>ये दे॒वाᳶ पु॑र॒स्-सदो॒ ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/ye_devAH_purassadaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ देवाᳶ᳓ पुरस्-स᳓दोऽग्नि᳓-नेत्राः [रक्षो-ह᳓णस्,  
@@ -361,7 +361,7 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 
 <details><summary>पद-पाठः</summary>
 
-उ॒प॒रि॒षद॒ इत्यु॑परि-सदः॑ । बृह॒स्पति॑नेत्रा॒ इति॒ बृह॒स्पति॑-ने॒त्राः॒ । र॒क्षो॒हण॒ इति॑ रक्षः-हनः॑ । ते । नः॒ । पा॒न्तु॒ । ते । नः॒ । अ॒व॒न्तु॒ । तेभ्यः॑ ।
+उ॒प॒रि॒षद॒ इत्यु॑परि-सदः॑ । बृह॒स्पति॑नेत्रा॒ इति॒ बृह॒स्पति॑-ने॒त्राः॒ । र॒क्षो॒हण॒ इति॑ रक्षः-हनः॑ । ते । नः॒ । पा॒न्तु॒ । ते । नः॒ । अ॒व॒न्तु॒ । तेभ्यः॑ । 1 । नमः॑ । तेभ्यः॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -370,7 +370,7 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 
 रक्षोहण इत्यादि । वनस्पत्यादित्वात् बृहस्पतिशब्दे पूर्वोत्तरयोः पदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
 </details>
-</details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -441,8 +441,8 @@ here do I burn up the Raksases.
 9-13अपरं पञ्चगृहीतं गृहीत्वा पञ्च स्रुवाहुतीरभिजुहोति - अग्नये रक्षोघ्ने स्वाहेति ॥ यमादिष्वपि चतुर्ष्वनुषज्यते । 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/agnaye_raxoghne_5.md">
-<details open><summary><h5>अ॒ग्नये॑ रक्षो॒घ्ने 5 ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/agnaye_raxoghne_5.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्न᳓ये रक्षोघ्ने᳓ स्वा᳓हा   ।  
@@ -503,7 +503,7 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 रक्षोघ्ने रक्षसां हन्त्रे । उदात्तनिवृत्तिस्वरेण चतुर्थ्या उदात्तत्वम् ।
 सवित्रे इति 'उदात्तयणः' इति विभक्त्य्-उदात्तत्वम् । बृहस्पतिरुक्तस्वरः ॥
 </details>
-</details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -548,13 +548,13 @@ The sacrificial fee is a chariot with three horses.
 14अथ व्युष्टायां पुनर[पुरा]ग्निहोत्रात् अपामार्गसक्तून् जुहोति - देवस्येति ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-<details open><summary><h5>देवस्य त्वा सवितुः ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
-+++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
-पूष्णो᳓ ह᳓स्ताभ्याम्…
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
++++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
+पू॒ष्णो हस्ता॑भ्याम्…
 </details>
 
 <details><summary>Keith</summary>
@@ -588,7 +588,7 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-</details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

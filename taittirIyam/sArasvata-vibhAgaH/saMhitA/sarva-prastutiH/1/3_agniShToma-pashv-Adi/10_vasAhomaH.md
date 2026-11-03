@@ -195,19 +195,31 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रीर्+++(←श्रीञ् पाके)+++ अ॑सि ।  
+श्रीर्+++(←श्रीञ् पाके)+++ अ॑सि ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art fortune (śri).
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रीर॑सि ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒ग्निस् त्वा॑ श्रीणा॒तु+++(←श्रीञ् पाके)+++ ।
 </details>
 
 <details><summary>Keith</summary>
 
-Thou art fortune (śri).  
 Let Agni cook (śrinatu) thee.
 </details>
 
 <details><summary>मूलम्</summary>
 
-श्रीर॑सि ।  
 अ॒ग्निस्त्वा॑ श्रीणा॒तु ।
 </details>
 
@@ -253,7 +265,6 @@ for the growth of the waters, of the plants.
 
 आपः॑ । समिति॑ । अ॒रि॒ण॒न् ।   
 वात॑स्य । [18]। त्वा॒ । ध्रज्यै॑ । पू॒ष्णः । रँह्यै॑ । अ॒पाम् । ओष॑धीनाम् । रोहि॑ष्यै । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -338,19 +349,31 @@ drink fat, ye drinkers of fat.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्तरि॑क्षस्य ह॒विर् अ॑सि॒ स्वाहा॑ ।  
+अ॒न्तरि॑क्षस्य ह॒विर् अ॑सि॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the oblation of the atmosphere.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒न्तरि॑क्षस्य ह॒विर॑सि॒ स्वाहा॑ ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
 त्वा॒ऽन्तरि॑क्षाय +++(अर्पयामि)+++।
 </details>
 
 <details><summary>Keith</summary>
 
-Thou art the oblation of the atmosphere.  
 Hail! thee to the atmosphere!
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒न्तरि॑क्षस्य ह॒विर॑सि॒ स्वाहा॑ ।  
 त्वा॒ऽन्तरि॑क्षाय ।
 </details>
 
@@ -379,25 +402,51 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(प्रदिगादि-विशेषभिन्ना)+++ दिशः,  
-+++(प्राच्यादयः प्रधानाः)+++ प्र॒दिश॑,  
-+++(प्राण्याधारभूता)+++ आ॒दिशो॑,  
-+++(विविधाः कोनदिशो)+++ वि॒दिश॑,  
-उ॒द्-दिश॒स्,  
-+++(इत्य् उक्ताभ्यः)+++ स्वाहा॑ दि॒ग्भ्यः!  
++++(प्रदिगादि-विशेषभिन्ना)+++ दिशः,
++++(प्राच्यादयः प्रधानाः)+++ प्र॒दिश॑,
++++(प्राण्याधारभूता)+++ आ॒दिशो॑,
++++(विविधाः कोनदिशो)+++ वि॒दिश॑,
+उ॒द्-दिश॒स्,
+</details>
+
+<details><summary>Keith</summary>
+
+The quarters, the Pradiśes, the Adiśes, the Vidiśes, the Uddiśes.
+</details>
+
+<details><summary>मूलम्</summary>
+
+दिशᳶ॑ प्र॒दिश॑ आ॒दिशो॑ वि॒दिश॑
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(इत्य् उक्ताभ्यः)+++ स्वाहा॑ दि॒ग्भ्यः!
+</details>
+
+<details><summary>Keith</summary>
+
+Hail to the quarters!
+</details>
+
+<details><summary>मूलम्</summary>
+
+उ॒द्दिश॒स्स्वाहा॑ दि॒ग्भ्यो
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
 नमो॑ दि॒ग्भ्यः ॥ [19]
 </details>
 
 <details><summary>Keith</summary>
 
-The quarters, the Pradiśes, the Adiśes, the Vidiśes, the Uddiśes.  
-Hail to the quarters!  
 Homage to the quarters.
 </details>
 
 <details><summary>मूलम्</summary>
 
-दिशᳶ॑ प्र॒दिश॑ आ॒दिशो॑ वि॒दिश॑ उ॒द्दिश॒स्स्वाहा॑ दि॒ग्भ्यो नमो॑ दि॒ग्भ्यः ॥ [19]
+नमो॑ दि॒ग्भ्यः ॥ [19]
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -1,6 +1,5 @@
 +++
 title = "१३ ध्रुवग्रहः"
-
 +++
 
 त्रिष्टुप् । सोमऋषिः
@@ -10,8 +9,10 @@ _______
 
 1स्थाल्या धुवं गृह्णाति - मूर्धानमिति चतुष्पदया त्रिष्टुभा ॥
 </details>
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/007/01_mUrdhAnaM_divo.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 +++(विषुव-स्थान-रूपेण)+++ मूर्धा᳓नं दिवो᳓, अरतिं᳓+++(=चक्र-परिधिं)+++ पृथिव्या᳓,  
 वैश्वानर᳓म्, ऋत᳓+++(य्)+++ **आ᳓ जात᳓म्** अग्नि᳓म् ।  
@@ -19,9 +20,11 @@ _______
 +++(विषुव-स्थान-रूपेणापि)+++ आस᳓न्न्+++(=आस्यं)+++ आ᳓ पा᳓त्रं **जनयन्त** देवाः᳓ ॥
 
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/007/01_mUrdhAnaM_divo.md">
-<details open><summary><h5>001 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -234,6 +237,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवः- नभसः। मूर्धानम्- शिरःस्थानम्। पृथिव्याः- भूम्याः। अरतिम्- गन्तारम्। वैश्वानरम्-  सर्वनरहितम्। ऋते- प्रकृतिनियतिभूतसत्ये। आ जातम्- उद्भूतम्। कविम्- क्रान्तदर्शिनम्।  सम्राजम्- स्वामिनम्। जनानाम्- विशाम्। अतिथिम्। आसन्- देवमुखम्। पात्रम्- पातारम्।  अग्निम्- पावकं सत्क्रतुम्। देवाः- देवताः। आ- आभिमुख्येन। जनयन्त- ससृजुः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मूर्धानं** शिरोभूतम् । कस्य । **दिवः** द्युलोकस्य **पृथिव्याः** प्रथिताया भूमेः **अरतिं** गन्तारम् । यद्वा । गन्तव्यं स्वामिनं **वैश्वानरं** विश्वेषां नराणां संबन्धिनम् **ऋते** । ऋतमिति सत्यस्य यज्ञस्य वा नाम । निमित्तसप्तम्येषा । ऋतनिमित्तम् **आ** आभिमुख्येन **जातं** सृष्ट्यादावुत्पन्नं **कविं** क्रान्तदर्शिनं **सम्राजं** सम्यग्राजमानं **जनानां** यजमानानाम् **अतिथिं** हविर्वहनाय सततं गन्तारम् । यद्वा । अतिथिवत्पूज्यम् । **आसन्** आसनि आस्ये । द्वितीयार्थे सप्तमी । आस्यभूतम् । अग्निलक्षणेनास्येन हि देवा हवींषि भुञ्जते । **पात्रं** पातारं रक्षकम् । यद्वा । आस्येन धारकम् । एवंगुणविशिष्टं वैश्वानराग्निं **देवाः** स्तोतार ऋत्विजो देवा एव वा **आ** **जनयन्त** । यज्ञाभिमुख्येन अजीजनन् । अरण्योः सकाशाद् उदपादयन् ॥
@@ -287,7 +295,7 @@ Renou considers āsán simply an attribute limiting the pā́tra-, a “récipie
 Note the phonologically matching words aratím and átithim stationed in the same metrical position in pādas a and c.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/01-02.md">
-<details open><summary><h7>01-02 ...{Loading}...</h7></summary>
+<details open><summary><h7>01-02 …{Loading}…</h7></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
 These two vss. are paired, both ending with janayanta devā́ḥ and sharing an opening pāda with the structure ACC SG + GEN ACC SG + GEN; this NP structure is also found at the end of 1c and 2c (one iteration each), but is upended by GEN + ACC SG yajñásya ketúm in 2d. It is perhaps a measure of the sensitivity of the RV to subtle patterns that this syntactic metathesis feels strikingly disruptive. It may well be that the poet generated this disruptive order in order to call attention to this very phrase; see the importance of the word ketú- in vss. 5 and 6, with the comm. there. There is an important difference, however: here the “beacon of the sacrifice” must be Agni, whereas in vss. 5-6 it is the sun.
@@ -383,7 +391,7 @@ Das Haupt des Himmels und der Erde Ordner, den Männerhort, den frommerzeugten A
 
 भावार्थभाषाः -  जी माणसे परमेश्वराप्रमाणे न्यायकारी बनून अग्नीप्रमाणे विद्या व विनय यामुळे प्रसिद्ध होऊन चक्रवर्ती बनतात ती सर्वांना सुख देतात. ॥ १ ॥
 </details>
-</details>
+
 </div>  
 
 _______
@@ -391,8 +399,9 @@ _______
 
 इमाम् अनुद्रुत्य उपयाम-गृहीतोस्य् अग्नये त्वा वैश्वानरायेति गृह्णाति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
@@ -418,8 +427,9 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्नये॑ त्वा वैश्वान॒राय॑ ।

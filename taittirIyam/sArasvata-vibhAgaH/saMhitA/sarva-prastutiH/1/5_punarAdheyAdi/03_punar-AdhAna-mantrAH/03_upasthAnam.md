@@ -7,20 +7,20 @@ _______
 7अग्निहोत्रमन्त्राव् उपस्थानार्थौ - तत्र प्रथमा मन इति विराट् ॥ 
 </details>
 
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
 
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 मनो॒ ज्योति॑र् **जुषता॒म्**, आज्यव्ँ॒  
 विच्छि॑न्नय्ँ **य॒ज्ञँ सम्** इ॒मन् **द॑धातु** ।  
 **बृह॒स्पति॑स् तनुताम्** इ॒मन् नो॒,  
 विश्वे॑ दे॒वा इ॒ह **मा॑दयन्ताम्** ॥
 </details>
+
 </div>
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
-<details open><summary><h5>मनो ज्योतिर् ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
 Mind, light, rejoice in the oblation.  
@@ -60,7 +60,7 @@ May the All-gods rejoice herein.
 
 मनो ज्योतिर्मननीयोऽयमग्निस्तत्तदाहुतिष्वाज्यं सेवताम्। केनापि वैकल्येन विच्छिन्नमिमं यज्ञं वैकल्यपरिहारेण संदधातु। बृहस्पतिः स्वयमेव नोऽस्मदीयमिमं यज्ञ तनुताम्। विश्वे देवा इड यज्ञे मादयन्तां तृप्यन्तु। 
 </details>
-</details>
+
 </div>  
 
 _______
@@ -69,20 +69,21 @@ _______
 8द्वितीया - सप्त त इति त्रिष्टुप्॥ 
 </details>
 
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-स॒प्त ते॑ अग्ने स॒मिध॑स्, स॒प्त जि॒ह्वास्  
-स॒प्त [11]  ऋष॑यस्, स॒प्त धाम॑ प्रि॒याणि॑ ।   
-स॒प्त होत्राः॑, सप्त॒धा त्वा॑ यजन्ति,  
-स॒प्त **योनी॒र् आ पृ॑णस्वा घृ॒तेन॑**  ॥
+सप्त᳓ ते अग्ने समि᳓धस्, सप्त᳓ जिह्वा᳓स्  
+सप्त᳓ [11]  ऋ᳓षयस्, सप्त᳓ धा᳓म प्रिया᳓णि ।   
+सप्त᳓ हो᳓त्राः, सप्तधा᳓ त्वा यजन्ति,  
+सप्त᳓ **यो᳓नीर् आ᳓ पृणस्वा घृते᳓न**  ॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Seven are thy kindling-sticks, O Agni, seven thy tongues;  
@@ -125,4 +126,5 @@ Seven birthplaces with ghee do thou fill.
 तादृशस्त्वं सप्त योनीराहवनीयादि ( द्युत्पति ) स्थानानि घृतेन सर्वतः पूरय।  
 </details>
 </details>
+
 </div>

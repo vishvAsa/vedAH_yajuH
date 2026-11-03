@@ -180,7 +180,6 @@ ____
 <details><summary>Keith</summary>
 
 Thou art impelled by the gods.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -272,7 +271,6 @@ O divine straw, let me not hit thee either across or along,
 <details><summary>Keith</summary>
 
 Let me hit thy joints,
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -336,7 +334,6 @@ ____
 <details><summary>Keith</summary>
 
 O divine straw, rise with a hundred shoots,  
-
 </details>
 
 <details><summary>मूलम्</summary>

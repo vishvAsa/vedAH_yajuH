@@ -7,19 +7,20 @@ _______
 9अभितः पुरोडाशम् आहुतीर् जुहोति पुरस्ताद् उपरिष्टाच् च - पनर् ऊर्जेति द्वाभ्यां गायत्रीभ्याम् ॥
 </details>
 
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/02_punar_UrjA.md">
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/02_punar_UrjA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 पुन॑र् **ऊ॒र्जा नि व॑र्तस्व॒**  
 पुन॑र् अग्न इ॒षा ऽऽयु॑षा ।  
 पुन॑र् नᳶ **पाहि** वि॒श्वतः॑ +++(अंशसः इति कौथुमे)+++ ॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/02_punar_UrjA.md">
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/02_punar_UrjA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Return with strength, return,  
@@ -43,6 +44,7 @@ Again guard us on all sides.
 हे अग्ने ऊर्जा रसेन क्षीरादिना अस्मभ्यं देयेन सह निवर्तस्व पुनरुद्वासितोहमिति सञ्जातमन्युर्वा मय्युपेक्षां मा कार्षीः । इषा अन्नेन आयुषा च सह पुनार्निवर्तस्वेत्येव । उद्वासननिमित्ताच्च पापाद्विश्वतोस्मान्पुनः पाहि रक्ष ॥
 </details>
 </details>
+
 </div>
 
 _______
@@ -51,19 +53,20 @@ _______
 10द्वितीया -  
 </details>
 
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/03_saha_rayyA.md">
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/03_saha_rayyA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 स॒ह **र॒य्या**+++(←उदात्तयणः इति स्वरः)+++ **नि व॑र्त॒स्व**  
 +अग्ने॒ **पिन्व॑स्व॒** धार॑या ।  
 वि॒श्व-प्स्नि॑या+++(←प्सा भक्षणि)+++ वि॒श्वत॒स्-परि॑  ॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/03_saha_rayyA.md">
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/03_saha_rayyA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Return with wealth, O Agni,  
@@ -89,4 +92,5 @@ All gaining on every side.
 धारा विशेष्यते - **विश्वप्स्न्या** । **प्सा** भक्षणे । विश्वेन प्सानीया भक्षणीया विश्वं वा प्साति भक्षयति व्याप्नोतीति **विश्वप्स्न्** । 'श्वन्नुक्षन्' इत्यादौ कनिन्प्रत्ययान्तो निपात्यते निपातनसामर्थ्यादभीष्टस्वरसिद्धिः । 'ऋन्नेभ्यः' इति ङीप् ॥
 </details>
 </details>
+
 </div>

@@ -108,7 +108,6 @@ he who knows thus rests secure through the sacrifice and does not fall away from
 यः । ए॒वम् । वेद॑ ।   
 प्रतीति॑ । य॒ज्ञेन॑ । ति॒ष्ठ॒ति॒ ।  
 न । य॒ज्ञात् । भ्रँ॒श॒ते॒ ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -302,18 +301,27 @@ with 'We that do utter', he sits down beside her,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒ष॒ट्-का॒रेण॑ दोग्ध्यि ।  
+व॒ष॒ट्-का॒रेण॑ दोग्ध्यि ।
+</details>
+<details><summary>Keith</summary>
+
+and with the Vasat call he milks.
+</details>
+<details><summary>मूलम्</summary>
+
+व॒ष॒ट्का॒रेण॑ दोग्ध्यि ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ए॒ष वै सू॒नृता॑यै॒ दोहः॑।  
 य ए॒वव्ँ वेद॑ - दु॒ह ए॒वैना॑म्।
 </details>
 <details><summary>Keith</summary>
 
-and with the Vasat call he milks.  
-This is the milking of the generous one; he who knows thus milks her indeed. 
+This is the milking of the generous one; he who knows thus milks her indeed.
 </details>
 <details><summary>मूलम्</summary>
 
-व॒ष॒ट्का॒रेण॑ दोग्ध्यि ।  
 ए॒ष वै सू॒नृता॑यै॒ दोहो॒ य ए॒वव्ँ वेद॑ दु॒ह ए॒वैना॑म्।
 </details>
 
@@ -387,9 +395,7 @@ the quarters were dried up;
 "अस्तु॒ श्रौष॒ड्" इत्य् अ॒भ्रँ  सम॑प्लावयन् ।  
 "यजे"ति॑ वि॒द्युत॑म् [41]अजनयन् ।  
 "ये यजा॑मह॒" इति॒ प्राव॑र्षयन् ।  
-अ॒भ्य॑स्तनयन् वषट्-का॒रेण॑ ।  
-ततो॒ वै तेभ्यो॒ दिश॒ᳶ प्राप्या॑यन्त ।  
-य ए॒वव्ँ वेद॒ प्रास्मै॒ दिशᳶ॑ प्यायन्ते ।  
+अ॒भ्य॑स्तनयन् वषट्-का॒रेण॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -398,9 +404,7 @@ they discerned this moist set of five; (with the words)
 with 'Be it proclaimed', they caused the clouds to mass together;  
 with 'Utter' they begat [3] the lightning;  
 with 'We that do sacrifice' they made rain to fall,  
-and with the Vasat call they caused the thunder to roll.  
-Then for them the quarters were made to swell;  
-for him who knows thus the quarters are made to swell. 
+and with the Vasat call they caused the thunder to roll.
 </details>
 <details><summary>मूलम्</summary>
 
@@ -409,10 +413,23 @@ for him who knows thus the quarters are made to swell.
 अस्तु॒ श्रौष॒डित्य॒ब्भ्रँ  सम॑प्लावयन् ।  
 यजेति॑ वि॒द्युत॑म् [41]अजनयन् ।  
 ये यजा॑मह॒ इति॒ प्राव॑र्षयन् ।  
-अ॒भ्य॑स्तनयन्वषट्का॒रेण॑ ।  
+अ॒भ्य॑स्तनयन्वषट्का॒रेण॑ ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततो॒ वै तेभ्यो॒ दिश॒ᳶ प्राप्या॑यन्त ।  
+य ए॒वव्ँ वेद॒ प्रास्मै॒ दिशᳶ॑ प्यायन्ते ।
+</details>
+<details><summary>Keith</summary>
+
+Then for them the quarters were made to swell;  
+for him who knows thus the quarters are made to swell.
+</details>
+<details><summary>मूलम्</summary>
+
 ततो॒ वै तेभ्यो॒ दिश॒ᳶ प्राप्या॑यन्त ।  
 य ए॒वव्ँ वेद॒ ।   
-प्रास्मै॒ दिशᳶ॑ प्यायन्ते ।  
+प्रास्मै॒ दिशᳶ॑ प्यायन्ते ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -453,7 +470,6 @@ Prajapati knows one;
 प्र॒जाप॑तिन्त्वो॒वेद॑ ।  
 
 प्र॒जाप॑तिस्त्वव्ँवेद । 
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -603,7 +619,6 @@ verily by means of them he confers sight upon himself.
 अ॒ग्नीषोमा॑भ्या॒मित्य॒ग्नी-सोमा॑भ्याम् । वै । य॒ज्ञः । चक्षु॑ष्मान् ।  
 
 ताभ्या॑म् । ए॒व । चक्षुः॑ । आ॒त्मन् । ध॒त्ते॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -617,7 +632,6 @@ verily by means of them he confers sight upon himself.
 "अ॒ग्नेर् अ॒हन् दे॑वय॒ज्यया॑ ऽन्ना॒दो भू॑यास॒म्" इत्य् आ॑ह ।
 अ॒ग्निर् वै दे॒वाना॑म् अन्ना॒दस्,  
 तेनै॒व [43] +अ॒न्नाद्य॑म् आ॒त्मन् ध॑त्ते ।
-
 </details>
 <details><summary>Keith</summary>
 
@@ -629,7 +643,6 @@ verily by means of him [5] he confers the eating of food upon himself.
 
 अ॒ग्नेर॒हन्दे॑वय॒ज्यया॑न्ना॒दो भू॑यास॒मित्या॑ह ।
 अ॒ग्निर्वै दे॒वाना॑मन्ना॒दस्तेनै॒व [43] +अ॒न्नाद्य॑मा॒त्मन्ध॑त्ते ।
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -685,7 +698,6 @@ verily by means of him [5] he confers the eating of food upon himself.
 ए॒तया॑ । वै । दब्ध्या॑ । दे॒वाः । असु॑रान् । अ॒द॒भ्नु॒व॒न् ।
 
 तया॑ । ए॒व । भ्रातृ॑व्यम् । द॒भ्नो॒ति॒ ।
-
 </details>
 
 
@@ -727,7 +739,6 @@ verily by means of them he lays low his foe.
 अ॒ग्नीषोम॑यो॒रित्य॒ग्नी-सोम॑योः । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । वृ॒त्र॒हेति॑ वृत्र-हा । भू॒या॒स॒म् । इति॑ । आ॒ह॒ ।  
 
 अ॒ग्नीषोमा॑भ्या॒मित्य॒ग्नी-सोमा॑भ्याम् । वै । इन्द्रः॑ । वृ॒त्रम् । अ॒ह॒न् । ताभ्या॑म् । ए॒व । भ्रातृ॑व्यम् । स्तृ॒णु॒ते॒ ।
-
 </details>
 
 ### ऐन्द्राग्नम्

@@ -1,6 +1,5 @@
 +++
 title = "१८ उत्तरो मरुत्वतीयग्रहः"
-
 +++
 
 त्रिष्टुप् । सोमऋषिः
@@ -10,8 +9,10 @@ _______
 
 1द्वितीयं मरुत्वतीयं गृह्णाति - इन्द्र मरुत्व इति चतुष्पदया त्रिष्टुभा । 
 </details>
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/051/07_indra_marutva.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 इ᳓न्द्र मरुत्व इह᳓ **पाहि**+++(=पिब)+++ सो᳓मं  
 य᳓था शार्याते᳓+++(←शर्याती राजा)+++ अ᳓पिबः सुत᳓स्य ।  
@@ -19,9 +20,11 @@ _______
 **आ᳓ विवासन्ति** कव᳓यः सुयज्ञाः᳓ ॥
 
 </details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/051/07_indra_marutva.md">
-<details open><summary><h5>007 ...{Loading}...</h5></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -234,6 +237,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मरुत्वः- प्राणसम्पन्न। शार्याते- दुष्टानामाक्रमणशील। यः शरितुं हिंसितुं योग्यान्  समन्तान्निरन्तरमतति व्याप्नोतीति दयानन्दः। सुतस्य- निष्पादितं रसम्। इन्द्र- ईशनाधिदैवत।  यथा। अपिबः- अन्वभवः।  तव- ते। प्रणीती- प्रकर्षनीत्याम्। तव- ते। शूर- समर्थ। शर्मन्-  भद्रे। सुयज्ञाः- शोभनयज्ञसम्पन्नाः। कवयः- मन्त्राः। आ विवासन्ति- परिचरन्ति॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **मरुत्वः** मरुद्भिस् तद्वन् हे **इन्द्र** त्वम् **इह** अस्मदीये यज्ञे आगत्य **सोमं** **पाहि** पिब । **यथा** त्वं पूर्वं **शार्याते** शर्यातेः पुत्रे तस्मिन् राजनि यज्ञं कुर्वाणे **सुतस्य** अभिषुतं सोमम् **अपिबः** तथा अत्रापि पिबेत्यर्थः । इन्द्रः शार्यातस्य यज्ञे सोमरसानपिबदित्येषोऽर्थः कौषीतके स्पष्टमुक्तः । तथा मन्त्रवर्णश्च -- आ स्मा रथं वृषपाणेषु तिष्ठसि शार्यातस्य प्रभृता येषु मन्दसे' (ऋ. सं. १. ५१. १२) इति । हे **शूर** इन्द्र **तव** संबन्धिनि **शर्मन्** शर्मणि निर्बाधस्थाने स्थिताः **सुयज्ञाः** सुष्ठुकृतयज्ञाः **कवयः** मेधाविनो यजमानाः **प्रणीती** तव हविषां प्रणयनेन प्रापणेन **आ** समन्तात् **विवासन्ति** त्वामेव परिचरन्ति । विवासतिः परिचरणकर्मा ॥ 
@@ -366,7 +374,7 @@ Hier trinke Soma mit den Maruts, Indra, wie bei Çarjata du den Saft getrunken; 
 
 भावार्थभाषाः -  हे राजा! जसे तू आपले राज्य, ऐश्वर्य, न्याय व धर्माचे रक्षण करतोस त्याच प्रकारचे तुझे मंत्री व नोकर इत्यादी असावेत. त्यांचा तू सत्कार सदैव करावा. ॥ ७ ॥
 </details>
-</details>
+
 </div>  
 
 _______
@@ -374,14 +382,15 @@ _______
 
 2 पूर्ववद्ग्रहणं सादनं च ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/17_pUrvo_marutvatIyagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य उपयामगृहीतोसीन्द्राय त्वा मरुत्वत इति गृह्णाति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
@@ -407,8 +416,8 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रा॑य त्वा म॒रुत्व॑ते ।
@@ -444,7 +453,7 @@ This is thy birthplace; to Indra with the Maruts thee!
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा म॒रुत्व॑ते ॥ [18]
 </details>
-</details>
+
 </div>  
 
 इति चतुर्थेष्टादशोनुवाकः ॥  

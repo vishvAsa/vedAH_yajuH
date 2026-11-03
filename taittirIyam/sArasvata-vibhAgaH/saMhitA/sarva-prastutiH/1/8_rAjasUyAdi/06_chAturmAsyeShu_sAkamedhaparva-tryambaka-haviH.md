@@ -194,19 +194,23 @@ This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
 4ततश्च त्वत्प्रसादाद् अस्माकम् इत्थम् अस्त्व् इत्य् आशास्ते - भेषजं गव इति पङ्क्त्या पञ्चपदया ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
 
-भे᳓षज᳓ङ् ग᳓वे᳓ ऽश्वाय᳓ ..   
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+भेषज᳓ङ् ग᳓वे᳓ ऽश्वाय ..   
 पु᳓रुषाय भेषज᳓म् ।  
-अ᳓थो अस्म᳓भ्यम् भेषजँ᳓...     
-सु᳓भेष᳓ज᳓म् [10] य᳓था᳓ऽसति  ॥   
+अ᳓थो अस्म᳓भ्यम् भेषजँ᳓     
+सु᳓भेषजम् [10] य᳓था᳓ऽसति  ॥   
 सुग᳓म् मेषा᳓य मेष्या᳙ ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 (Give) medicine for ox, for horse, for man,  
@@ -217,7 +221,7 @@ Good [1] for ram and sheep.
 
 <details><summary>मूलम्</summary>
 
-भेष॒जङ्गवेऽश्वा॑य ..   
+भे॒ष॒जङ्गवेऽश्वा॑य॒ ..   
 पुरु॑षाय भेष॒जम् ।  
 अथो॑ अ॒स्मभ्य॑म्भेष॒जँ...     
 सुभे॑षजम् [10] यथाऽस॑ति  ॥   
@@ -234,7 +238,13 @@ Good [1] for ram and sheep.
 भेषजं गवेश्वायेति प्रथमः पादः । सर्वत्र जातावेकवचनम् । गोभ्योश्वेभ्यः पुरुषेभ्यश्च भेषजमौषधं यथा असति भवेत् ; तथा जुषस्व । अथो अपि च अस्मभ्यं यथा भेषजं रोगशमनं च भवेत्, सुभेषजं च शरीरसिद्ध्यादिकारणं यथा भवेत्, सुगं सुष्ठुगम्यं सेव्यं यथा भवेत् । सुष्ठु वा गम्यतेऽनेन सर्वमभिमतं यथा तथा तं जुषस्व ।    
 किञ्च - मेषेभ्यो मेषीभ्यश्च भेषजं यथा स्यात् तथा जुषस्व । अस्तेर्लेटि शपो लुकि 'लेटोडाटौ' इत्यडागमः । गोशब्दात् 'सावेकाचः' इति प्राप्तं विभक्त्युदात्तत्वं 'न गोश्वन्' इति प्रतिषिध्यते ॥
 </details>
+
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+अवा॑म्ब रु॒द्रम॑दिम॒ह्यव॑ दे॒वन्त्र्य॑म्बकम्  ॥ यथा॑ न॒श्श्रेय॑स॒ᳵ कर॒द्यथा॑ नो॒ वस्य॑स॒ᳵ कर॒द्यथा॑ नᳶ पशु॒मत॒ᳵ कर॒द्यथा॑ नो व्यवसा॒यया॑त्  ॥
 </details>
+</details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -297,19 +307,17 @@ That he may embolden us.
 6त्रिः प्रदक्षिणं परियन्ति - त्र्यम्बकमिति । 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/059/12_tryambakaM_yajAmahe.md">
-<details open><summary><h5>१२ त्र्यम्बकं यजामहे ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/059/12_tryambakaM_yajAmahe.md">
 
-त्र्यम्बकं यजामहे  
-सुग᳓न्धिं पुष्टि-व᳓र्धनम्।  
-उर्वारुक᳓म् +++(स्थूलफलम्)+++ इव ब᳓न्धनान्  
+त्रि᳓यम्बकं यजामहे  
+सुग᳓न्धिम् पुष्टि-व᳓र्धनम् +++(&lt;"गतिकारकोपपदात् कृत्")+++।  
+उर्वारुक᳓म् +++(स्थूलफलम्)+++ [इ]व ब᳓न्धनान्  
 मृत्यो᳓र् मुक्षीय, मा᳓ ऽमृ᳓तात्॥
 
-</details>
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/059/12_tryambakaM_yajAmahe.md">
-<details open><summary><h5>012 ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/059/12_tryambakaM_yajAmahe.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः (मृत्युविमोचिनी ऋक्)
@@ -464,6 +472,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सुगन्धिम्- पुण्यगन्धम्। पुष्टिवर्धनम्- पोषणकरम्। त्र्यम्बकम्- लोकत्रयस्याम्बकं पितरं मारुतं  गणं वा तत्पितरं रुद्रं वा। यजामहे- उपास्महे। उर्वारुकम्- कर्कटीफलम्। इव। बन्धनात्।  मृत्योः- मरणात्। मुक्षीय- मोचय। अनायासेन स्वाभाविकेन यथा काले कर्कटीफलं स्वयमेव पतति  तथा अनायासेन स्वाभाविकेन मोक्षो भवत्विति भावः॥१२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 अत्र शौनकः – त्रिरात्रं नियतोपोष्य श्रपयेत्पायसं चरुम् । तेनाहुतिशतं पूर्णं जुहुयाच्छंसितव्रतः ॥ समुद्दिश्य महादेवं त्र्यम्बकं त्र्यम्बकेत्यृचा । एतत्पर्वशतं कृत्वा जीवेद्वर्षशतं सुखी' (ऋग्वि. २. ३१४-१५)॥ [ त्रयाणां ब्रह्मविष्णुरुद्राणामम्बकं पितरं **यजामहे** इति शिष्यसमाहितो वसिष्ठो ब्रवीति । किंविशिष्टमित्यत आह। **सुगन्धिं** प्रसारितपुण्यकीर्तिम् । पुनः किंविशिष्टम्। **पुष्टिवर्धनं** जगद्बीजम् । उरुशक्तिमित्यर्थः। उपासकस्य वर्धनम् । अणिमादिशक्तिवर्धनम् । अतस्त्वत्प्रसादादेव **मृत्योः** मरणात् संसाराद्वा **मुक्षीय** मोचय । यथा बन्धनादुर्वारुकं कर्कटीफलं मुच्यते तद्वन्मरणात् संसाराद्वा मोचय । किं मर्यादीकृत्य । **आमृतात्** । सायुज्यतामोक्षपर्यन्तमित्यर्थः । अथ तैत्तिरीयभाष्ये( तै. सं. १ .८. ६. २) – **शोभनः** शरीरगन्धः पुण्पगन्धो वा यस्यासौ सुगन्धिः। यथा वृक्षस्य संपुष्पितस्य दूराद्गन्धो वात्येवं पुण्यस्य कर्मणो दूराद्गन्धो वाति' (तै. आ. १०. ९) इति श्रुतेः । पुष्टिं शरीरधनादिविषयां वर्धयतीति पुष्टिवर्धनः । तादृशं त्र्यम्बकं यजामहे पूजयामः । लोके यथोर्वारुकफलानि बन्धनाद्वृन्तात् स्वयमेव मुच्यन्ते तद्वदहं त्र्यम्बकप्रसादेन मृत्योर्मुक्षीय मोचनयुक्तो भूयासम् । अमृताच्चिरजीवितात् स्वर्गादेवर्वा मा मुक्षीय । चतुर्थपादार्थे मन्त्रस्य तात्पर्यातिशयं दर्शयति - त्र्यम्बकं यजामह इत्याह मृत्योर्मुक्षीय मामृतादिति वावैतदाह ' (तै.ब्रा. १.६.१०.५) इति ॥] ॥३०॥
@@ -513,11 +526,12 @@ Sugandhim = **divya** gandhopetam, of celestial fragrance (yathāvṛkṣasya sa
 
 We sacrifice to Tryambaka the fragrant, increaser of prosperity.  
 Like a cucumber from its stem, might I be freed from death, not from  deathlessness.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
-<details open><summary><h7>09-12 ...{Loading}...</h7></summary>
+<details open><summary><h7>09-12 …{Loading}…</h7></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
 For the Sākamedha rites reflected in these vss., see published introduction. and, e.g., ŚB II.5.3, esp. 3ff.; ĀpŚS VIII.9; sec. lit. including Hillebrandt, Ritual-Litteratur, 117-19; Keith, Religion and Philosophy, 322-23, etc.
@@ -605,7 +619,7 @@ Den Triambaka verehren wir, den schönduftenden, Nahrung mehrenden. Wie eine Kü
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. हे माणसांनो ! आम्हा सर्व लोकांचे उपास्य जगदीश्वरच आहे. ज्याच्या उपासनेने पुष्टी, वृद्धी, उत्तम यश व मोक्ष प्राप्त होतो. मृत्यूसंबंधी भय नष्ट होते. त्याचा त्याग करून इतराची उपासना करू नये. ॥ १२ ॥
 </details>
-</details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>

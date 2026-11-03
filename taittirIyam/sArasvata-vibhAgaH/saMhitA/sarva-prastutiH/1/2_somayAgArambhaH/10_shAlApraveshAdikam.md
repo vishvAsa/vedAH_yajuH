@@ -20,24 +20,37 @@ ________
 > “आतिथ्यं निर्वपत्य् अन्वारब्धायां पत्न्याम् अथ देवस्य त्वा सवितुः प्रसव इति प्रतिपदं कृत्वा अग्नेर् आतिथ्यम् असि विष्णवे त्वा जुष्टं निर्वपामीत्य् एताम् एव प्रतिपदं कृत्वा सोमस्यातिथ्यम् असि विष्णवे त्वा जुष्टं निर्वपामीत्य् एताम् एव प्रतिपदं कृत्वा अतिथेर् आतिथ्यम् असि विष्णवे त्वा जुष्टं निर्वपामीत्य् एताम् एव प्रतिपदं कृत्वा अग्नये त्वा रायस्पोष-दाव्ने विष्णवे त्वा जुष्टं निर्वपामीत्य् एताम् एव प्रतिपदं कृत्वा श्येनाय त्वा सोम-भृते विष्णवे त्वा जुष्टं निर्वपामीति पञ्च-कृत्वो यजुषा”
 
 इति।
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेर् आ॑ति॒थ्यम् अ॑सि॒, +++(सर्वदेवतात्मने)+++ विष्ण॑वे त्वा +++(निर्वपामि)+++ ।  
-+++(सर्वदेवतात्मनो विष्णोर् अंशभूता एते अग्न्य्-आदयो राज्ञि गृहम् आगते आगता भवन्ति । 'यावद्भिर् वै राजानुचरैर् आगच्छति सर्वेभ्यो वै तेभ्य आतिथ्यं क्रियते' इति ब्राह्मणम्।)+++
-
+अ॒ग्नेर् आ॑ति॒थ्यम् अ॑सि॒,
 </details>
 
 <details><summary>Keith</summary>
 
-Thou art the hospitality of Agni. For Visnu thee!  
+Thou art the hospitality of Agni.
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्नेरा॑ति॒थ्यम॑सि॒, विष्ण॑वे त्वा  +++(निर्वपामि)+++  ।
+अ॒ग्नेरा॑ति॒थ्यम॑सि॒,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(सर्वदेवतात्मने)+++ विष्ण॑वे त्वा +++(निर्वपामि)+++ ।  
++++(सर्वदेवतात्मनो विष्णोर् अंशभूता एते अग्न्य्-आदयो राज्ञि गृहम् आगते आगता भवन्ति । 'यावद्भिर् वै राजानुचरैर् आगच्छति सर्वेभ्यो वै तेभ्य आतिथ्यं क्रियते' इति ब्राह्मणम्।)+++
+</details>
+
+<details><summary>Keith</summary>
+
+For Visnu thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+विष्ण॑वे त्वा  +++(निर्वपामि)+++  ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -66,17 +79,32 @@ Thou art the hospitality of Agni. For Visnu thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑स्याऽऽति॒थ्यम् अ॑सि॒, +++(सर्वदेवतात्मने)+++ विष्ण॑वे॒ त्वा +++(निर्वपामि)+++  ।
+सोम॑स्याऽऽति॒थ्यम् अ॑सि॒,
 </details>
 
 <details><summary>Keith</summary>
 
-Thou art the hospitality of Soma. For Visnu thee!
+Thou art the hospitality of Soma.
 </details>
 
 <details><summary>मूलम्</summary>
 
-सोम॑स्याऽऽति॒थ्यम॑सि॒ विष्ण॑वे॒ त्वा  +++(निर्वपामि)+++  ।
+सोम॑स्याऽऽति॒थ्यम॑सि॒
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(सर्वदेवतात्मने)+++ विष्ण॑वे॒ त्वा +++(निर्वपामि)+++  ।
+</details>
+
+<details><summary>Keith</summary>
+
+For Visnu thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+विष्ण॑वे॒ त्वा  +++(निर्वपामि)+++  ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -98,17 +126,32 @@ Thou art the hospitality of Soma. For Visnu thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अति॑थेर्+++(=अतनशीलस्य [सुर्यस्य वायोर् वा])+++ आति॒थ्यम॑सि॒, +++(सर्वदेवतात्मने)+++ विष्ण॑वे त्वा॒ऽग्नये॑ त्वा +++(निर्वपामि)+++  ।
+अति॑थेर्+++(=अतनशीलस्य [सुर्यस्य वायोर् वा])+++ आति॒थ्यम॑सि॒,
 </details>
 
 <details><summary>Keith</summary>
 
-Thou art the hospitality of the stranger. For Visnu thee!
+Thou art the hospitality of the stranger.
 </details>
 
 <details><summary>मूलम्</summary>
 
-अति॑थेराति॒थ्यम॑सि॒, विष्ण॑वे त्वा॒ऽग्नये॑ त्वा  +++(निर्वपामि)+++  ।
+अति॑थेराति॒थ्यम॑सि॒,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(सर्वदेवतात्मने)+++ विष्ण॑वे त्वा॒ऽग्नये॑ त्वा +++(निर्वपामि)+++  ।
+</details>
+
+<details><summary>Keith</summary>
+
+For Visnu thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+विष्ण॑वे त्वा॒ऽग्नये॑ त्वा  +++(निर्वपामि)+++  ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +177,6 @@ Thou art the hospitality of the stranger. For Visnu thee!
 <details><summary>Keith</summary>
 
 For Agni thee, giver of wealth, for Visnu thee;
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -165,7 +207,6 @@ For Agni thee, giver of wealth, for Visnu thee;
 <details><summary>Keith</summary>
 
 for the eagle, bringer of the Soma, thee, for Visnu thee!
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -689,7 +730,6 @@ ________
 > “अथैतद् ध्रौवम् आज्यम् आप्याय्य कंसं वा चमसं वा याचति तम् अन्तर्-वेदि निधाय तस्मिन्न् एतत् तानूनप्त्रं समवद्य विगृह्णाति आपतये त्वा गृह्णामि, परिपतये त्वा गृह्णामि, तनूनप्त्रे त्वा गृह्णामि, शाक्वराय त्वा गृह्णामि, शक्मन्न् ओजिष्ठाय त्वा गृह्णामीति”
 
 इति।
-
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -897,7 +937,6 @@ ________
 > “यावन्त ऋत्विजस् ते एतत् समवमृशन्ति अनाधृष्टम् अस्य्-अनाधृष्यं देवानामोजो ऽभिशस्ति-पा अनभिशस्तेन्यम् इति”  
 
 इति।
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -957,24 +996,6 @@ ________
 > “यजमानम् अतिवाचयति अनु मे दीक्षां दीक्षा-पतिर् मन्यताम् अनु तपस्-तपः-पतिर् अञ्जसा सत्यम् उप-गेषं सुविते मा धा इति”  
 
 इति।
-
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अनु॑ मे दी॒क्षान् दी॒क्षाप॑तिर् मन्यताम्,  
-अनु॒ तप॒स् तप॑स्पतिः+++(=अग्निः [मन्यताम्])+++।  
-अञ्ज॑सा+++(=ऋजुना)+++ स॒त्यम् +++(समयं तानूनप्त्राभिमर्शनेन)+++ उप॑ गेषम्+++(=अगच्छम्)+++।  
-सु॒वि॒ते+++(=सूताय)+++ मा॑ धाः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-May the lord of consecration approve my consecration,  
-the lord of penance my penance.  
-Speedily may I attain truth.  
-Place me in good fortune.
-
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -982,14 +1003,52 @@ Place me in good fortune.
 － अनु॑ मे दी॒क्षान्दी॒क्षाप॑तिर्मन्यता॒मनु॒ तप॒स्तप॑स्पति॒रञ्ज॑सा स॒त्यमुप॑ गेषँ सुवि॒ते मा॑ धाः ॥ [19]
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनु॑ मे दी॒क्षान् दी॒क्षाप॑तिर् मन्यताम्,  
+अनु॒ तप॒स् तप॑स्पतिः+++(=अग्निः [मन्यताम्])+++।
+</details>
+
+<details><summary>Keith</summary>
+
+May the lord of consecration approve my consecration,  
+the lord of penance my penance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनु॑ मे दी॒क्षान्दी॒क्षाप॑तिर्मन्यताम् ।  
 अनु॒ तप॒स्तप॑स्पतिः  +++(मन्यताम्)+++ ।
+</details>
 
-अञ्ज॑सा स॒त्यमुप॑ गेषम् ।   
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अञ्ज॑सा+++(=ऋजुना)+++ स॒त्यम् +++(समयं तानूनप्त्राभिमर्शनेन)+++ उप॑ गेषम्+++(=अगच्छम्)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+Speedily may I attain truth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अञ्ज॑सा स॒त्यमुप॑ गेषम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सु॒वि॒ते+++(=सूताय)+++ मा॑ धाः ॥
+</details>
+
+<details><summary>Keith</summary>
+
+Place me in good fortune.
+</details>
+
+<details><summary>मूलम्</summary>
+
 सु॒वि॒ते मा॑ धाः ॥
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1010,7 +1069,6 @@ Place me in good fortune.
 यद्वा - सुविते । स्विते सुष्ठुप्राप्ते अस्मत्प्राप्ते अस्मत्पूर्वचरिते यज्ञे वा मां धेहि । स्थाने वा सुखवति अस्मर्त्पूवेरिते मां स्थापय । 'तन्वादीनां । बहुळं छन्दसि' इत्युवङादेशः, 'सूपमानात्क्तः' इत्युत्तरपदान्तोदात्तत्वम् ।   
 अन्य आहुः - अञ्जसा ऋजुना यथाशस्त्रीयेण सत्यं सति साधु परानिन्दात्मकं वस्तु उपगेषं उपगतो भूयासम् । तदर्थमामन्त्रिते श्रेयोर्थिभिस्सुष्ठु सेविते सुष्ठु ज्ञाते वा पथि मां ज्ञा[स्था]पयतेति । अस्मिन्पक्षे इणो गादेशश्छान्दसः, आशिषि लिङ्, 'लिङ्याशिष्यङ्', 'आतो लोपः', यासुट्, 'अतो येयः', आर्धधातुकत्वात्सलोपाभावः, बहुळवचनाद्यलोपः ।   
 पूर्वस्मिन् पक्षे लुङि 'इणो गा लुङि' इति गादेशः, छान्दसः इत्वं विकारः, व्यत्ययेन 'गातिस्था' इति न प्रवर्तते, 'बहुळं छन्दस्यमाङ्योगेपि' इत्यडभावः ॥
-
 </details>
 
 <details><summary>सायण-टीका</summary>

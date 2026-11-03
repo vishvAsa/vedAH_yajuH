@@ -19,7 +19,6 @@ ____
 <details><summary>Keith</summary>
 
 For the rite you two, for the gods may I be strong.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -52,7 +51,6 @@ ____
 <details><summary>Keith</summary>
 
 Thee for accomplishment!
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -127,10 +125,28 @@ ____
 धुरमभिमृशति
 </details>
 
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+धूर॑सि॒ धूर्व॒ धूर्व॑न्त॒न्धूर्व॒ तय्ँ यो॑ऽस्मान्धूर्व॑ति॒ तन्धू॑र्व॒ यव्ँ व॒यन्धूर्वा॑मः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धूर्+++(=धूस्स्थ हिंसको ऽग्निः)+++ अ॑सि  ।  
-+++('एष वै धुर्योग्निः' (तै.ब्रा. 3.2.4) इति ब्राह्मणम्)+++  
++++('एष वै धुर्योग्निः' (तै.ब्रा. 3.2.4) इति ब्राह्मणम्)+++
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the yoke.
+</details>
+
+<details><summary>मूलम्</summary>
+
+धूर॑सि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धूर्व॒+++(=नाशय)+++ धूर्व॑न्तम्+++(=हिंसकं)+++।  
 धूर्व॑+++(=नाशय)+++ तं यो॑ ऽस्मान् धूर्व॑ति।  
@@ -139,18 +155,11 @@ ____
 
 <details><summary>Keith</summary>
 
-Thou art the yoke.  
-Injure him who injures us, injure him whom we injure.  
-</details>
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-धूर॑सि॒ धूर्व॒ धूर्व॑न्त॒न्धूर्व॒ तय्ँ यो॑ऽस्मान्धूर्व॑ति॒ तन्धू॑र्व॒ यव्ँ व॒यन्धूर्वा॑मः
+Injure him who injures us, injure him whom we injure.
 </details>
 
 <details><summary>मूलम्</summary>
 
-धूर॑सि ।  
 धूर्व॒ धूर्व॑न्तम्।
 तं  +++(धूर्व)+++  योँ॑ऽस्मान्धूर्व॑ति  ।   
 तन्धू॑र्व॒ यव्ँ व॒यन्धूर्वा॑मः ।
@@ -181,15 +190,22 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे शकट!)+++ त्वन् दे॒वाना॑म् असि   
-सस्नि॑+++(←सन् दाने)+++-तम॒म्, पप्रि॑+++(=पूर्ण)+++-त॒मं॒, जुष्ट॑+++(=प्रिय)+++-तमम्, वह्नि॑-तमं, देव॒-हू-त॑मम्।  
-अह्रु॑तम्+++(=अकुटिलम्)+++ असि हवि॒र्धान॑म्।   
+सस्नि॑+++(←सन् दाने)+++-तम॒म्, पप्रि॑+++(=पूर्ण)+++-त॒मं॒, जुष्ट॑+++(=प्रिय)+++-तमम्, वह्नि॑-तमं, देव॒-हू-त॑मम्।
 </details>
 
 <details><summary>Keith</summary>
 
-Thou art of gods, the most firmly jointed, the most richly filled, the most agreeable, the best of carriers, the best caller of the gods.  
-Thou art the oblation-holder that wavers not.
+Thou art of gods, the most firmly jointed, the most richly filled, the most agreeable, the best of carriers, the best caller of the gods.
+</details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अह्रु॑तम्+++(=अकुटिलम्)+++ असि हवि॒र्धान॑म्।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the oblation-holder that wavers not.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -257,9 +273,28 @@ ____
 पुरोडाशीयान् प्रेक्षते
 </details>
 
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+मि॒त्रस्य॑ त्वा॒ चक्षु॑षा॒ प्रेक्षे॒ मा भेर्मा सव्ँ वि॑क्था॒ मा त्वा॑ [5]हिँ॒सि॒षम्
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पुरोडाशीयाः!)+++ मि॒त्रस्य॑ त्वा॒ चक्षु॑षा॒ प्रेक्षे॑ +++(मित्रत्वाय)+++।  
++++(पुरोडाशीयाः!)+++ मि॒त्रस्य॑ त्वा॒ चक्षु॑षा॒ प्रेक्षे॑ +++(मित्रत्वाय)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+I gaze on thee with the eye of Mitra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मि॒त्रस्य॑ त्वा॒ चक्षु॑षा॒ प्रेक्षे॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मा भेः+++(=भैषीः)+++ ।  
 मा सव्ँ वि॑क्थाः+++(=कंपिष्ठाः)+++ ।  
 मा त्वा॑ [5] हिँसि॒षम् ।
@@ -267,19 +302,12 @@ ____
 
 <details><summary>Keith</summary>
 
-I gaze on thee with the eye of Mitra.  
 Be not afraid, be not troubled,  
 let me harm thee [1] not.
 </details>
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-मि॒त्रस्य॑ त्वा॒ चक्षु॑षा॒ प्रेक्षे॒ मा भेर्मा सव्ँ वि॑क्था॒ मा त्वा॑ [5]हिँ॒सि॒षम्
-</details>
-
 <details><summary>मूलम्</summary>
 
-मि॒त्रस्य॑ त्वा॒ चक्षु॑षा॒ प्रेक्षे॑ ।
 मा भेः ।
 मा सव्ँ वि॑क्थाः ।
 मा त्वा॑ [5] हिँ॒सि॒षम् ।
@@ -319,7 +347,6 @@ ____
 <details><summary>Keith</summary>
 
 (Be thou) wide open to the wind.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -396,7 +423,6 @@ ______________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‌… अ॒ग्नये॒ जुष्ट॒न् निर्व॑पामि ।    
-
 </details>
 
 <details><summary>Keith</summary>
@@ -407,7 +433,6 @@ ______________
 <details><summary>मूलम्</summary>
 
 ‌… अ॒ग्नये॒ जुष्ट॒न् निर्व॑पामि ।    
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -648,7 +673,6 @@ ____
 <details><summary>Keith</summary>
 
 May they that have doors stand firm in heaven and earth.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -726,7 +750,6 @@ Fare along the wide atmosphere.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 15'उर्वन्तरिक्षमन्विहि' इति गमनमन्त्रो व्याख्यातः (तै.सं. 1.1.2) ॥
-
 </details>
 
 ____
