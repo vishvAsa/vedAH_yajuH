@@ -10,18 +10,223 @@ title = "१७ दीक्षाहुतिमन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒थि॒व्यै स्वाहा॑ । अ॒न्तरि॑क्षाय॒ स्वाहा॑ । दि॒वे स्वाहा॑ ।  
-अ॒ग्नये॒ स्वाहा॑ । सोमा॑य॒ स्वाहा॑ ।  
-सूर्या॑य॒ स्वाहा॑ । च॒न्द्रम॑से॒ स्वाहा॑ ।  
-अह्ने॒ स्वाहा॑ । रात्रि॑यै॒ स्वाहा॑ ।  
-ऋ॒जवे॒ +++(पृथिवीलोकाय)+++ स्वाहा॑ । स्वा॒धवे॒ +++(अन्तरिक्षलोकाय)+++ स्वाहा॑ । सु॒क्षि॒त्यै +++(द्युलोकाय)+++ स्वाहा॑ ।  
-क्षु॒धे स्वाहा॑ । आ॒शि॒ति॒म्ने+++(=आशिताय/ खादिताय)+++ स्वाहा॑ । रोगा॑य॒ स्वाहा॑ ।  
-हि॒माय॒ स्वाहा॑ । शी॒ताय॒ स्वाहा॑ । आ॒त॒पाय॒ स्वाहा॑ ।  
-अर॑ण्याय॒ स्वाहा॑ ।  
-सु॒व॒र्गाय॒ स्वाहा॑ । लो॒काय॒ स्वाहा॑ ।  
-सर्व॑स्मै॒ स्वाहा॑ । (46) ॥17॥  
+पृ॒थि॒व्यै स्वाहा॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+To earth hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒न्तरि॑क्षाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To atmosphere hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दि॒वे स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To sky hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒ग्नये॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Agni hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सोमा॑य॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Soma hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सूर्या॑य॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the sun hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+च॒न्द्रम॑से॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the moon hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अह्ने॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the day hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रात्रि॑यै॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the night hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऋ॒जवे॒ +++(पृथिवीलोकाय)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the straight hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वा॒धवे॒ +++(अन्तरिक्षलोकाय)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the good hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सु॒क्षि॒त्यै +++(द्युलोकाय)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To fair dwelling hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्षु॒धे स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To hunger hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒शि॒ति॒म्ने+++(=आशिताय/ खादिताय)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To satisfaction hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रोगा॑य॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To disease hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हि॒माय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To snow hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शी॒ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To ice hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒त॒पाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To heat hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर॑ण्याय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the wild hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सु॒व॒र्गाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To heaven hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+लो॒काय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the world hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व॑स्मै॒ स्वाहा॑ । (46) ॥17॥
+</details>
+
+<details><summary>Keith</summary>
+
+To all hail!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -31,8 +236,7 @@ title = "१७ दीक्षाहुतिमन्त्राः"
 
 सूर्या॑य॒ स्वाहा॑ च॒न्द्रम॑से॒ स्वाहा,+ 
 
-ऽह्ने॒ स्वाहा॒ रात्रि॑यै॒ स्वाह॒र्जवे॒ स्वाहा॑ सा॒धवे॒ स्वाहा॑ सुक्षि॒त्यै स्वाहा॑,  
-
+ऽह्ने॒ स्वाहा॒ रात्रि॑यै॒ स्वाह॒र्जवे॒ स्वाहा॑ सा॒धवे॒ स्वाहा॑ सुक्षि॒त्यै स्वाहा॑,
 </details>
 
 <details><summary>पद-पाठः</summary>

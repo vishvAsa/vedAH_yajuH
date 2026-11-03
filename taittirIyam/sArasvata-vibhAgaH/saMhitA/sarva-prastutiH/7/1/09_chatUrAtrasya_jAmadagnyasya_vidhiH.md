@@ -8,18 +8,15 @@ title = "०९ चतूरात्रस्य जामदग्न्यस
 विश्वेदेवा ऋषयः
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
 
-+++(इतरौ तु वसिष्ठसंसर्प-विश्वामित्रसंजयाख्यौ चतूरात्रौ शाखान्तरे द्रष्टव्यौ ।)+++
+इतरौ तु वसिष्ठसंसर्प-विश्वामित्रसंजयाख्यौ चतूरात्रौ शाखान्तरे द्रष्टव्यौ ।
 </details>
-
-
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ जामदग्न्यं चतूरात्रं विधातुमाह - इतरौ तु वसिष्ठसंसर्पविश्वामित्रसंजयाख्यौ चतूरात्रौ शाखान्तरे द्रष्टव्यौ । जमदग्निरित्यादि । 
 </details>
-
 
 ## फलम्  
 
@@ -31,6 +28,10 @@ title = "०९ चतूरात्रस्य जामदग्न्यस
 ए॒तान् ए॒व पोषा॑न् पुष्यति॒ , य ए॒वव्ँ वि॒द्वाँश् च॑तूरा॒त्रेण॒ यज॑ते ।
 </details>
 
+<details><summary>Keith</summary>
+
+Jamadagni desiring prosperity, sacrificed with the four-night rite.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -47,18 +48,14 @@ title = "०९ चतूरात्रस्य जामदग्न्यस
 पुष्टिकामः अन्नपशुपुत्रादिवृद्धिकामश्चतूरात्रेणायजत । चतुर्णामह्नां समाहारश्चतूरात्रः । 'अहस्सर्वैकदेश' इत्यादिनाऽच्समासान्तः ।
 </details>
 
-
-<details><summary>Keith</summary>
-
-Jamadagni desiring prosperity, sacrificed with the four-night rite.  
-</details>
-
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ए॒तान्पोषाँ॑ अपुष्यत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+He prospered therein,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -80,17 +77,14 @@ Jamadagni desiring prosperity, sacrificed with the four-night rite.
 तत एतान्पोषानपुष्यत् । सामान्यपुष्टेर्विशेषपुष्टिः कर्मेत्युक्तम् ।
 </details>
 
-<details><summary>Keith</summary>
-
-He prospered therein,  
-</details>
-
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॑त् पलि॒तौ जाम॑दग्नियौ॒ न सञ्जा॑नाते ।
+</details>
+
+<details><summary>Keith</summary>
+
+and accordingly the two descendants of Jamadagni are not seen as grey-haired.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -108,18 +102,15 @@ He prospered therein,
 तस्मादित्यादि । अवधारणमत्र द्रष्टव्यम् । पलितावेव केवलमिति महापुष्टिरहितौ वृधैव पलितावस्थां प्राप्तौ दरिद्रौ जामदग्न्यौ । पितापुत्रौ न संजानाते अद्यत्वेऽपि न जायेते; समासादिताशेषपुष्टेः जमदग्नेरन्वये जातत्वात्, सर्वेषां सुपुष्टत्वात् । जनेर्व्यत्ययेन श्ना । यद्वा - जानातेरेव कर्मणि लट्, व्यत्ययेन श्ना । तादृशौ न ज्ञायेते, न स्त एवेति यावत् । यद्वा - 'संप्रतिभ्यां' इत्यात्मनेपदम् । वृधा पलितात्मानौ जामदग्न्यौ न संजानाते न प्रतिजानीते । अस्त्वेकः पुष्टिरहितः तथाऽपि आनन्तर्येण द्वौ दरिद्रौ न स्त इति ख्यापनार्थं द्वयोरुपादानम् । जमदग्निशब्दो गर्गादिः ।
 </details>
 
-
-<details><summary>Keith</summary>
-
-and accordingly the two descendants of Jamadagni are not seen as grey-haired. 
-</details>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒ताने॒व पोषा॑न् पुष्यति॒ ,
 य ए॒वव्ँ वि॒द्वाँश्च॑तूरा॒त्रेण॒ यज॑ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+That prosperity is his who knowing thus offers the four-night rite.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -143,21 +134,17 @@ and accordingly the two descendants of Jamadagni are not seen as grey-haired.
 पूर्वसञ्चिकायामपि एवमेव वाक्यं विद्यते । तत्र ब्राह्मणम् इति पदमधिकमस्ति ।
 </details>
 
-<details><summary>Keith</summary>
-
-That prosperity is his who knowing thus offers the four-night rite. 
-</details>
-
-
-
 ## पुरोडाशविधिः
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरोडा॒शिन्य॑ +++(१२)+++ उप॒सदो॑ भवन्ति ।
 </details>
 
+<details><summary>Keith</summary>
+
+On the Upasads offerings of the sacrificial cake are made.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -173,19 +160,35 @@ That prosperity is his who knowing thus offers the four-night rite.
 2पुरोडाशिन्य इत्यादि ॥ अत्रोक्तमाचार्येण - 'आग्नेय एककपालः आश्विनो द्विकपालः वैष्णवस्त्रिकपालः सौम्यश्चतुष्कपालः सावित्रः पञ्चकपालो धात्रष्षट्कपालः मारुतस्सप्तकपालः बार्हस्पत्योष्टाकपालः मैत्रो नवकपालो वारुणो दशकपाल ऐन्द्वाग्न एकादशकपालो वैश्वदेवो द्वादशकपालो दर्विहोमा भवन्ति' इति । एवमौत्तर्ययुक्ता द्वादशोपसदो भवन्तीति ।
 </details>
 
-
-<details><summary>Keith</summary>
-
-On the Upasads offerings of the sacrificial cake are made.
-</details>
-
-
  
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प॒शवो॒ वै पु॑रोडाशः॑ । प॒शून् ए॒वाव॑ रुन्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The sacrificial cake is cattle; verily he wins cattle.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अन्नव्ँ॒ वै पु॑रो॒डाशः । अन्न॑म् ए॒वाव॑ रुन्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The sacrificial cake is food; verily he wins food.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒न्ना॒दᳶ प॑शु॒मान् भ॑वति,  य ए॒वव्ँ वि॒द्वाँश् च॑तूरा॒त्रेण॒ यज॑ते ॥ [35]
+</details>
+
+<details><summary>Keith</summary>
+
+An eater of food and owner of cattle he becomes who knowing thus offers the four-day rite.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -202,7 +205,6 @@ On the Upasads offerings of the sacrificial cake are made.
 अन्न॑म् । वै । पु॒रो॒डाशः॑ ।     
 अन्न॑म् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।   
 अ॒न्ना॒द इत्य॑न्न-अ॒दः । प॒शु॒मानिति॑ पशु-मान् । भ॒व॒ति॒ । यः । ए॒वम् । वि॒द्वान् । च॒तू॒रा॒त्रेणेति॑ चतुः-रा॒त्रेण॑ । यज॑ते ॥ [35]
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -212,17 +214,8 @@ On the Upasads offerings of the sacrificial cake are made.
 इति सप्तमे प्रथमे नवमोनुवाकः ॥  
 </details>
 
-
 <details><summary>प्रदीपसिंहः</summary>
 
 TODO
 </details>
 
-
-<details><summary>Keith</summary>
-
-The sacrificial cake is cattle; verily he wins cattle.  
-The sacrificial cake is food; verily he wins food.  
-An eater of food and owner of cattle he becomes who knowing thus offers the four-day rite.
-
-</details>

@@ -31,5 +31,10 @@ title = "१४ अनुभूतिहोममन्त्राः (अन�
 ब्रा॒ह्म॒णेन॒ वाच॑म् +++(अनुभवतु)+++॥  
 </details>
 
+<details><summary>Keith</summary>
+
+By fire he surmounted fervour, by speech holy power, by a gem forms, by Indra the gods, by the wind the breaths, by the sun the sky, by the moon the Naksatras, by Yama the Pitrs, by the king men, by fruit the flavours, by the boa constrictor serpents, by the tiger wild beasts, by the eagle birds, by the stallion horses, by the bull kine, by the he-goat goats, by the ram sheep, by rice food, by barley plants, by the banyan trees, by the Udumbara strength, by the Gayatri the metres, by the Trivrt the Stomas, by the Brahmana speech.
+</details>
+
 
 

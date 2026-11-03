@@ -23,6 +23,10 @@ title = "०३ अतिरात्रविधिः"
 स त्वै य॑जेत, यो॑ऽग्निष्टो॒मेन॒ +++(त्रिवृत्-पञ्चदश-सप्तदश-एकविशात्मकेन चतुष्टोमेन)+++ यज॑मानोऽथ॒ सर्व॑स्तोमेन॒ +++(चतुष्टोमादिक-सप्तविंश-त्रयस्त्रिंशात्मकेन)+++ यजे॒तेति॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The theologians say,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -32,13 +36,13 @@ title = "०३ अतिरात्रविधिः"
 <details><summary>पद-पाठः</summary>
 
 ब्र॒ह्म॒वा॒दिन॒ इति॑ ब्रह्म-वा॒दिनः॑ । व॒द॒न्ति॒ ।   
-
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>स त्वै य॑जेत</details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>Keith</summary>
 
-स त्वै य॑जेत
+'He indeed would really sacrifice,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -61,6 +65,11 @@ title = "०३ अतिरात्रविधिः"
 यो॑ऽग्निष्टो॒मेन॒ यज॑मानोऽथ॒ सर्व॑स्तोमेन॒  यजे॒तेति॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+who having sacrificed with the Agnistoma should also sacrifice with the Sarvastoma.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो॑ऽग्निष्टो॒मेन॒ यज॑मानोऽथ॒ सर्व॑स्तोमेन॒  यजे॒तेति॑ ।
@@ -76,23 +85,16 @@ title = "०३ अतिरात्रविधिः"
 इतः पूर्वं योग्निष्टोमेन यजमानस्सन् इदानीं सर्वस्तोमेन यजेत । 'शकि लिङ्च' इति द्वितीये पर्याये लिङ् । चतुष्टोमेनाप्यन्तरितेन सर्वस्तोमेन स्तोमानां याथात्म्यं विदित्वा अप्रमत्तो यष्टुं शक्नोतीति ब्रह्मवादिन आहुः । संहितायां तोरन्तलोपश्छान्दसः, उक्तं च प्रातिशाख्ये - 'तुनुपूर्व उदात्तयोर्वकारः' इति ॥
 </details>
 
-
-<details><summary>Keith</summary>
-
-The theologians say,  
-'He indeed would really sacrifice, who having sacrificed with the Agnistoma should also sacrifice with the Sarvastoma.'
-</details>
-
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य॑ त्रि॒वृत॑म् अन्त॒र्+++(रा)+++-यन्ति॑,  
 प्रा॒णाँस् तस्या॒ऽन्तर्+++(रा)+++-य॑न्ति ।  
-
 </details>
 
+<details><summary>Keith</summary>
+
+If they omit the Trivrt Stoma, then his vital airs are omitted,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -114,7 +116,11 @@ The theologians say,
 
 +++(न केवलं स्वर्ग एव,)+++ प्रा॒णेषु॒ मेऽप्य् अ॑स॒द् +++(भागित्वम्)+++  
 इति॑ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते ।
+</details>
 
+<details><summary>Keith</summary>
+
+but he who offers the sacrifice does so with the wish, 'May it be in my vital airs.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -133,16 +139,6 @@ The theologians say,
 ननु यद्यन्तरिताः प्राणाः प्रेप्सितस्य स्वर्गस्य का गतिरित्याह - प्राणेष्विति । न केवलं स्वर्ग एव अपि तु प्राणेष्वपि मे मम भागित्वमसत् अस्तीति खलु वै यज्ञेनानेन अग्निष्टोमेन यजमानो यजते सर्वेभ्यः कामेभ्योग्निष्टोम इति । यद्वा - प्राणेष्विति निमित्तसप्तमी । न केवलं स्वर्गार्थमेव, अपि तु प्राणार्थमपि ममायं यज्ञोस्तु इति यजमानो यजते, एवं सर्वत्र द्रष्टव्यम् ॥
 </details>
 
-
-<details><summary>Keith</summary>
-
-If they omit the Trivrt Stoma,  
-then his vital airs are omitted,  
-but he who offers the sacrifice does so with the wish,  
-'May it be in my vital airs'. 
-</details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य॑ पञ्च-द॒शम् अ॑न्त॒र्+++(रा)+++-यन्ति॑,  
@@ -151,6 +147,10 @@ but he who offers the sacrifice does so with the wish,
 इति॑ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते ।
 </details>
 
+<details><summary>Keith</summary>
+
+If they omit the Pañcadaśa Stoma, his strength is omitted, but he who offers the sacrifice does so with the wish, 'May it be in my strength.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -159,27 +159,16 @@ but he who offers the sacrifice does so with the wish,
 खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते ।
 </details>
 
-
 <details><summary>पद-पाठः</summary>
 
 यस्य॑ । प॒ञ्च॒द॒शमिति॑ पञ्च-द॒शम् । अ॒न्त॒र्यन्तीत्य॑न्तः-यन्ति॑ । वी॒र्य॑म् । तस्य॑ । अ॒न्तः । य॒न्ति॒ ।   
 वी॒र्ये॑ । मे॒ । अपीति॑ । अ॒स॒त् । इति॑ । खलु॑ । वै । य॒ज्ञेन॑ । यज॑मानः । य॒ज॒ते॒ ।   
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3वीर्यमिति ॥ पञ्चदशस्य वीर्यस्थानादुत्पन्नत्वात् ॥
 </details>
-
-<details><summary>Keith</summary>
-
-If they omit the Pañcadaça Stoma,  
-his strength is omitted,  
-but he who offers the sacrifice does so with the wish,  
-'May it be in my strength.'
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -189,6 +178,10 @@ but he who offers the sacrifice does so with the wish,
 इति॒ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते।
 </details>
 
+<details><summary>Keith</summary>
+
+If they omit the Saptadaśa Stoma [1], his offspring is omitted, but he who offers the sacrifice does so with the wish, 'May it be in my offspring.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -209,17 +202,6 @@ but he who offers the sacrifice does so with the wish,
 4प्रजामिति ॥ प्रजननसाधनत्वात्सप्तदशस्य ॥
 </details>
 
-
-<details><summary>Keith</summary>
-
-If they omit the Saptadaça Stoma [1],  
-his offspring is omitted,  
-but he who offers the sacrifice does so with the wish,  
-'May it be in my offspring.' 
-</details>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्यै॑कविँ॒शम् अ॑न्त॒र्+++(रा)+++-यन्ति॑  
@@ -228,6 +210,10 @@ but he who offers the sacrifice does so with the wish,
 इति॒ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते।
 </details>
 
+<details><summary>Keith</summary>
+
+If they omit the Ekavinśa Stoma, his support is omitted, but he who offers the sacrifice does so with the wish, 'May it be in my support.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -243,26 +229,16 @@ but he who offers the sacrifice does so with the wish,
 प्र॒ति॒ष्ठाया॒मिति॑ प्रति-स्थाया॑म् । मे॒ । अपीति॑ । अ॒स॒त् । इति॑ । खलु॑ । वै । य॒ज्ञेन॑ । यज॑मानः । य॒ज॒ते॒ ।   
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5प्रतिष्ठामिति ॥ एकविंशस्य पद्भ्यामुत्पन्नत्वात् ॥
 </details>
 
-<details><summary>Keith</summary>
-
-If they omit the Ekavinça Stoma,  
-his support is omitted,  
-but he who offers the sacrifice does so with the wish,  
-'May it be in my support.'
-
-</details>
 ______________________
 
+<details><summary>विश्वास-टिप्पनी</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-+++(त्रिणव-त्रयस्त्रिंशयोः चतुष्टोमेऽस्मिन् कः प्रसंगः? सत्यम्, एतयोर् अप्य् अन्तराय-दोषश्रवणात् एताव् अप्य् अग्निष्टोमे ऋद्ध्या संपाद्याव् इति भावः । तत्कथमेतौ संपादितौ स्यातामिति? आज्यानि चत्वारि पञ्चदशान्नानि संभूय षष्टिस् स्तोत्रिया भवन्ति। ताश्च द्वौ त्रिंशद् वर्गौ तत्रैकस्मात्तिस्र उद्ध्रियन्ते एताश् चेतरत्र दीयन्ते - ६० = २७ + ३३।)+++  
+त्रिणव-त्रयस्त्रिंशयोः चतुष्टोमेऽस्मिन् कः प्रसंगः? सत्यम्, एतयोर् अप्य् अन्तराय-दोषश्रवणात् एताव् अप्य् अग्निष्टोमे ऋद्ध्या संपाद्याव् इति भावः । तत्कथमेतौ संपादितौ स्यातामिति? आज्यानि चत्वारि पञ्चदशान्नानि संभूय षष्टिस् स्तोत्रिया भवन्ति। ताश्च द्वौ त्रिंशद् वर्गौ तत्रैकस्मात्तिस्र उद्ध्रियन्ते एताश् चेतरत्र दीयन्ते - ६० = २७ + ३३।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -270,25 +246,22 @@ ______________________
 यस्य॑ त्रि॒ण॒वम् +++(सप्तविंशस्तोत्रियम्)+++ अ॑न्त॒र्+++(रा)+++-यन्ति॑,  
 +++(नक्षत्रसंख्यान्वयेन संवत्सरात्मकत्वात्त्रिणवस्य)+++  
 ऋ॒तूँश्च॒॑ तस्य॑, न॒क्ष॒त्रिया॑ञ् च॒  वि॒राज॑म् अ॒न्तर्+++(रा)+++-य॑न्ति।  
-
 </details>
 
+<details><summary>Keith</summary>
 
+If they omit the Trinava Stoma, his seasons and the strength of the Naksatras are omitted,
+</details>
 
 <details><summary>प्रदीपसिंहः</summary>
 
 अत्र मूलं लुप्तम् 
 </details>
 
-
-
-
-
 <details><summary>पद-पाठः</summary>
 
 यस्य॑ । त्रि॒ण॒वमिति॑ त्रि-न॒वम् । अ॒न्त॒र्यन्तीत्य॑न्तः-यन्ति॑ । 
 ऋ॒तून् । च॒ । तस्य॑ । न॒क्ष॒त्रिया॑म् । च॒ । वि॒राज॒मिति॑ वि-राज॑म् । अ॒न्तः । य॒न्ति॒ ।   
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -298,12 +271,14 @@ ______________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-
 ऋ॒तुषु॒ मे +++(भागित्वम्)+++ ऽप्य् अ॑सन् नक्ष॒त्रिया॑याञ् च +++(त्र्यक्षरोण-त्रिपाद-)+++वि॒राजीति॑ ,[9]
 खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते।
-
 </details>
 
+<details><summary>Keith</summary>
+
+but he who offers the sacrifice does so with the wish, 'May it be in my seasons and the strength of the Naksatras' [2].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -311,12 +286,10 @@ ______________________
 खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते।
 </details>
 
-
 <details><summary>पद-पाठः</summary>
 
 ऋ॒तुषु॑ । मे॒ । अपीति॑ । अ॒स॒त् । न॒क्ष॒त्रिया॑याम् । च॒ । वि॒राजीति॑ वि-राजि॑ । इति॑ । [9]
 खलु॑ । वै । य॒ज्ञेन॑ । यज॑मानः । य॒ज॒ते॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -324,24 +297,16 @@ ______________________
 ऋतूनिति । नक्षत्रसंख्यान्वयेन संवत्सरात्मकत्वात्त्रिणवस्य । ऋत्वन्तरये च सर्वपुरुषार्थलोपः । नक्षत्रियामिति । नक्षत्रसमूहात्मिकां विराजमन्तर्यन्ति । 'नक्षत्राद्घः' इति समूहे घः । सप्तविंशतिनक्षत्राणीति तिस्रो विराजो निवृतः एकैकाक्षरोनत्वात् । एकैव त्रिवत् त्रिपदा विराट् । त्रिणवत्वस्यान्तरये नक्षत्राण्येवान्तरितानि स्युः ततोस्य सर्वार्थलोपः । यद्वा - जीवितविषयत्वात् जन्मदिनानामावृत्त्या त्रिंशन्नक्षत्राणि भवन्तीति पूर्णा एव तिस्रो विराजः । तदन्तरये जीवितलोप इति ॥
 </details>
 
-
-<details><summary>Keith</summary>
-
-If they omit the Trinava Stoma,  
-his seasons and the strength of the Naksatras are omitted,  
-but he who offers the sacrifice does so with the wish,  
-'May it be in my seasons and the strength of the Naksatras' [2]. 
-</details>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य॑ त्रयस्त्रिँ॒शम् अ॑न्त॒र्+++(रा)+++-यन्ति॑  
 +++(त्रयस्त्रिंशत्वात्)+++ दे॒वता॒स् तस्या॒न्तर्+++(रा)+++-य॑न्ति ।
-
 </details>
 
+<details><summary>Keith</summary>
+
+If they omit the Trayastrinśa Stoma, his deities are omitted,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -353,7 +318,6 @@ but he who offers the sacrifice does so with the wish,
 यस्य॑ । त्र॒य॒स्त्रिँ॒शमिति॑ त्रयः-त्रिँ॒शम् । अ॒न्त॒र्यन्तीत्य॑न्तः-यन्ति॑ । दे॒वताः॑ । तस्य॑ । अ॒न्तः । य॒न्ति॒ ।     
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7त्रयस्त्रिंशमिति ॥ त्रयश्च त्रिंशच्च त्रयस्त्रिंशत्, 'त्रेस्त्रयः' इति त्रयसादेशः । तावत्यस्स्तोत्रियाः परिमाणमस्येति पूर्ववत् डः ।
@@ -363,6 +327,11 @@ but he who offers the sacrifice does so with the wish,
 
 दे॒वता॑सु॒ मेऽप्य॑स॒द् +++(भागित्वम्)+++  
 इति॑ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते
+</details>
+
+<details><summary>Keith</summary>
+
+and he who offers the sacrifice does so with the wish, 'May it be in my deities.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -378,33 +347,25 @@ but he who offers the sacrifice does so with the wish,
 
 देवता इति । तासां त्रयस्त्रिंशत्वात् द्युपृथिव्यन्तरिक्षस्थानां प्रत्येकमेकादशत्वात् ॥
 </details>
-<details><summary>Keith</summary>
-
-If they omit the Trayastrinça Stoma,  
-his deities are omitted,  
-and he who offers the sacrifice does so with the wish,  
-'May it be in my deities.' 
-</details>
-
 
 ## अतिरात्रविधानम्
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++('अतिरात्रः परमो यज्ञक्रतूनाम्')+++  
 यो वै स्तोमा॑नाम् अव॒मम्+++(=आदिमम्)+++ +++(अतिरात्रे)+++ प॑र॒मता॒ङ् गच्छ॑न्तव्ँ॒ वेद॑,  प॒र॒मता॑मे॒व  ग॑च्छति ।  
-
 </details>
 
+<details><summary>Keith</summary>
 
+He who knows the lowest of the Stomas attaining the first place, obtains him self the first place.
+</details>
 
 <details><summary>मूलम्</summary>
 
 यो वै स्तोमा॑नामव॒मम्,
 प॑र॒मता॒ङ्गच्छ॑न्तव्ँ॒वेद॑,  प॒र॒मता॑मे॒व  ग॑च्छति ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -419,6 +380,11 @@ and he who offers the sacrifice does so with the wish,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(प्रकृतियागे)+++ त्रि॒वृद् वै स्तोमा॑नाम् अव॒मः। +++(अतिरात्रे तु)+++ त्रि॒वृत् प॑र॒मः।  
+</details>
+
+<details><summary>Keith</summary>
+
+The Trivrt is the lowest of Stomas, the Trivrt occupies the first place.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -441,6 +407,11 @@ and he who offers the sacrifice does so with the wish,
  य ए॒वव्ँ वेद॑, पर॒मता॑म् ए॒व ग॑च्छति ॥+++(४)+++
 </details>
 
+<details><summary>Keith</summary>
+
+He who know thus obtains the first place.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वेद॑ पर॒मता॑मे॒व ग॑च्छति ॥ [10] 
@@ -458,9 +429,3 @@ and he who offers the sacrifice does so with the wish,
 इति सप्तमे प्रथमे तृतीयोनुवाकः ॥
 </details>
 
-
-<details><summary>Keith</summary>
-
-He who knows the lowest of the Stomas attaining the first place, obtains him self the first place.  
-The Trivrt is the lowest of Stomas, the Trivrt occupies the first place. He who know thus obtains the first place.
-</details>

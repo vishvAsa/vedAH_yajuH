@@ -3,18 +3,15 @@ title = "०८ चतूरात्रस्य आत्रेयस्य �
 
 +++
 
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विश्वेदेवा ऋषयः
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
 
-+++(चत्वारश्चतूरात्रा भवन्ति आत्रेयजामदग्न्यवसिष्ठसंसर्प विश्वामित्रसंजयाख्याः ।)+++
+चत्वारश्चतूरात्रा भवन्ति आत्रेयजामदग्न्यवसिष्ठसंसर्प विश्वामित्रसंजयाख्याः ।
 </details>
-
-
 
 ## फलकीर्तनम्
 
@@ -23,14 +20,15 @@ title = "०८ चतूरात्रस्य आत्रेयस्य �
 1अथ चत्वारश्चतूरात्रा भवन्ति आत्रेयजामदग्न्यवसिष्ठसंसर्प विश्वामित्रसंजयाख्याः । तत्रात्रेयाश्च षष्ठोमाचतुरा[ ...याश्चतुर्वीरषोडशिमच्चतु- र्था]दिनामानः चत्वारश्चतूरात्राः । जामदग्न्यादीनां त्रयाणां चैक इति । तत्रात्रेयचतूरात्रेषु चतुर्षु प्रथमम् चतुर्वीराख्यं चतूरात्रं विधातुमाह - अत्रिरददादित्यादि ॥  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्रि॑र् अददा॒द् और्वा॑य +++(स्वीयाम्)+++ प्र॒जाम् पु॒त्रका॑माय ।
-
 </details>
 
+<details><summary>Keith</summary>
 
+Atri gave offspring to Aurva who was desirous of children.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -47,19 +45,15 @@ title = "०८ चतूरात्रस्य आत्रेयस्य �
 ऊर्वपुत्रः और्वः । 'अनृष्यानन्तर्ये' इति विदादित्वादञ् । तस्मै और्वाय पुत्रकामायात्मीयां प्रजामपत्यत्वेनाददात् । पुत्रं कामयत इति 'शीलिकामि' इत्यादिना णः, पूर्वपदप्रकृतिस्वरत्वं च ।
 </details>
 
-
-<details><summary>Keith</summary>
-
-Atri gave offspring to Aurva who was desirous of children.  
-</details>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स +++(अत्रिः प्रजया)+++ रि॑रिचा॒नो॑+++(=रिच्यमानः)+++ ऽमन्यत , "निर्वी॑र्यश् शिथि॒लो या॒तया॑मा" ।  
 </details>
 
+<details><summary>Keith</summary>
+
+She deemed herself empty, without strength, weak, worn out.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -77,24 +71,22 @@ Atri gave offspring to Aurva who was desirous of children.
 अथ स रिरिचानः रिच्यमानः प्रजारहितः इत्थममन्यत - निर्वीर्यः प्रजोत्पादनसामर्थ्यरहितोस्मि, शिथिलः कार्याक्षमः यातयामा गतसारश्चास्मि ॥
 </details>
 
-<details><summary>Keith</summary>
-
-She+++(Gender??)+++ deemed herself empty, without strength, weak, worn out.  
-</details>
-
 <details><summary>प्रदीपसिंहः</summary>
 
 अत्र सः इति पुंलिङ्गप्रयोगः वर्तते । तेन   She+++(Gender??)+++ इति अनुवाद न समीचीन इति भाति
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ए॒तञ् च॑तूरा॒त्रम् अ॑पश्यत् । तमाह॑र॒त् । तेना॑यजत ।  
-
 </details>
 
-details><summary>मूलम्</summary>
+<details><summary>Keith</summary>
+
+He saw the four night rite; he grasped it, and sacrificed with it.
+</details>
+
+<details><summary>मूलम्</summary>
 
 स ए॒तञ् च॑तूरा॒त्रम् अ॑पश्यत् ।
 </details>
@@ -108,7 +100,6 @@ details><summary>मूलम्</summary>
 
 2स एतं चतूरात्रमित्यादि ॥ गतम् ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -126,13 +117,6 @@ details><summary>मूलम्</summary>
 आहरत् आहरत । तेनायजत तेन कर्मणा देवानपूजयत् ।
 </details>
 
-
-<details><summary>Keith</summary>
-
-He saw the four night rite; he grasped it, and sacrificed with it.  
-</details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो॒ वै तस्य॑ च॒त्वारो॑ वी॒रा आऽजा॑यन्त॒ , सुहो॑ता॒ सू॑द्गाता॒ स्व॑ध्वर्यु॒स् सुस॑भेयः ।  
@@ -140,6 +124,10 @@ He saw the four night rite; he grasped it, and sacrificed with it.
 +++(सुहो॑ता॒ इत्यादौ तत्पुर्षेष्व् अव्ययपूर्वपदप्रकृतिस्वरः। स्व॑ध्वर्यु॒र् इत्यत्र `उदात्तस्वरितयोर्यणः` इति स्वरितः।)+++  
 </details>
 
+<details><summary>Keith</summary>
+
+Then indeed were four sons born for him, a good Hotr, a good Udgatr, a good Adhvaryu, a good councillor.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -171,18 +159,15 @@ He saw the four night rite; he grasped it, and sacrificed with it.
 सुहोता सूद्गाता स्वध्वर्युः सुसभेयः । शोभनत्वं च होत्रादीनां आत्मीयसमस्तवेदव्याख्यानकुशलत्वम् । सभायां साधुस्सभेयः, 'छन्दसि' इति डः । सर्वयज्ञप्रयोगवित् सुसभेयस्सदस्य इत्येते । सर्वत्राव्ययपूर्वपदप्रकृतिस्वरत्वम् । द्वितीये 'स्वरितो वा नुदात्ते पदादौ' इत्येकादेशस्स्वर्यते, तृतीये 'उदात्तस्वरितयोर्यणः' इत्यादिना ।
 </details>
 
-
-<details><summary>Keith</summary>
-
-Then indeed were four sons born for him, a good Hotr, a good Udgatr, a good Adhvaryu, a good councillor.  
-</details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य ए॒वव्ँ वि॒द्वाँश् च॑तूरा॒त्रेण॒ यज॑त॒ , आस्य॑ च॒त्वारो॑ वी॒रा जा॑यन्ते॒ , सुहो॑ता॒ सू॑द्गाता॒ स्व॑ध्वर्यु॒स् सुस॑भेयः । 
 </details>
 
+<details><summary>Keith</summary>
+
+He, who knowing thus offers the four-night rite, has four sons born for him, a good Hotr, a good Udgatr, a good Adhvaryu, a good councillor.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -200,16 +185,7 @@ Then indeed were four sons born for him, a good Hotr, a good Udgatr, a good Adhv
 य एवमित्वादि । गतम् ॥
 </details>
 
-
-<details><summary>Keith</summary>
-
-He, who knowing thus offers the four-night rite, has four sons born for him, a good Hotr, a good Udgatr, a good Adhvaryu, a good councillor.
-</details>
-
-
 ## विधानम्
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -217,23 +193,24 @@ He, who knowing thus offers the four-night rite, has four sons born for him, a g
 य उ॒द्यन्त॒स् स्तोमा॒श् +++(उत्तरोत्तरमहीयांसः यथा - त्रिवृत्प्रथममहः, पञ्चदशो द्वितीयः, सप्तदशस्तृतीयः, एकविंशश्चतुर्थ इति)+++ - श्रीस् सा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The Pavamana (Stomas) which are twenty-fourfold are splendour [1]; the increasing Stomas are prosperity.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आत्रेयः = ((त्रिवृत् प्रातः- ९, मधाह्ने १५, सायं १७), (१५, १७, २१), (१७, २१, २७), (२१, २७, ३३))। त्रिवृत्प्रथमस्याह्नः प्रातस्सवनम्, पञ्चदशं माध्यन्दिनं सवनम्, सप्तदशं तृतीयं सवनम्। अथ द्वितीयस्याह्नः पञ्चदशं प्रातस्सवनं, सप्तदशं माध्यन्दिनं सवनम्, एकविंशं तृतीयसवनम् । अथ तृतीयस्याह्नस्सप्तदशं प्रातस्सवनम्, एकविंशं माध्यन्दिनं सवनं, त्रिणवं तृतीयसवनम् । चतुर्थस्याह्नः एकविंशं प्रातस्सवनम्, त्रिणव माध्यन्दिनं' सवनम्, त्रयस्त्रिंशं तृतीयसवनम्।)+++
 </details>
-
-
 
 <details><summary>मूलम्</summary>
 
 ये च॑तुर्विँ॒शाᳶ पव॑माना ब्रह्मवर्च॒सन् तत् । [33]
 </details>
 
-
 <details><summary>पद-पाठः</summary>
 
 ये । च॒तु॒र्विँ॒शा इति॑ चतुः-विँ॒शाः । पव॑मानाः । ब्र॒ह्म॒व॒र्च॒समिति॑ ब्रह्म-व॒र्च॒सम् । तत् । [33]
- 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -256,23 +233,16 @@ He, who knowing thus offers the four-night rite, has four sons born for him, a g
 य उद्यन्तस्स्तोमा भवन्ति उत्तरोत्तरमहीयांसः यथा - त्रिवृत्प्रथममहः, पञ्चदशो द्वितीयः, सप्तदशस्तृतीयः, एकविंशश्चतुर्थ इति सा स्वयं श्रीः । पूर्ववत्ताच्छब्द्यम् । त्रिवृत्प्रथमस्याह्नः प्रातस्सवनम्, पञ्चदशं माध्यन्दिनं सवनम्, सप्तदशं तृतीयं सवनम्, अथ द्वितीयस्याह्नः पञ्चदशं प्रातस्सवनं, सप्तदशं माध्यन्दिनं सवनम् । एकविंशं तृतीयसवनम् । अथ तृतीयस्याह्नस्सप्तदशं प्रातस्सवनम्, एकविंशं माध्यन्दिनं सवनं, त्रिणवं तृतीयसवनम् । चतुर्थस्याह्नः एकविंशं प्रातस्सवनम्, त्रिणव माध्यन्दिनं' सवनम्, त्रयस्त्रिंशं तृतीयसवनम्, एवमुद्यन्तस्स्तोमाः श्रीरिति ॥
 </details>
 
-
-<details><summary>Keith</summary>
-
-The Pavamana (Stomas) which are twenty-fourfold are splendour [1];  
-the increasing Stomas are prosperity.
-</details>
-
-
-
 ## फलकीर्तनम्
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्रिँ॑ श्र॒द्धा-दे॑वय्ँ॒ यज॑मानञ् च॒त्वारि॑ वी॒र्या॑णि॒ नोपा॑नम॒न् - तेज॑ इन्द्रि॒यम् ब्र॑ह्मवर्च॒सम् अ॒न्नाद्य॑म् ।  
+</details>
 
+<details><summary>Keith</summary>
+
+Atri who had faith as his deity and offered sacrifices was not visited by the four strengths, brilliance, power, splendour, food.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -291,12 +261,6 @@ the increasing Stomas are prosperity.
 4अत्रिमित्यादि ॥ श्रद्धादेवं श्रद्धाप्रधानं वीर्याणि वीर्यहेतुभूतानि तेजः प्रभृतीनि नोपानमन् नोपागच्छत् ।
 </details>
 
-
-<details><summary>Keith</summary>
-
-Atri who had faith as his deity and offered sacrifices was not visited by the four strengths, brilliance, power, splendour, food.  
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ए॒ताँश् च॒तुर॒श् +++(प्रातस्सवनभेदेन)+++ चतु॑ष्टोमा॒न्थ् +++(चतूरात्रान्)+++ सोमा॑न् अपश्यत् ।  
@@ -305,6 +269,10 @@ Atri who had faith as his deity and offered sacrifices was not visited by the fo
 तैर् अ॑यजत ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He saw these four Soma libations with the four Stomas; he grasped them and sacrificed with them.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -318,7 +286,6 @@ Atri who had faith as his deity and offered sacrifices was not visited by the fo
 सः । ए॒तान् । च॒तुरः॑ । चतु॑ष्टोमा॒निति॒ चतुः॑-स्तो॒मा॒न् । सोमान्॑ । अ॒प॒श्य॒त् ।     
 तान् । एति॑ । अ॒ह॒र॒त् ।   
 तैः । अ॒य॒ज॒त॒ ।   
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -326,16 +293,14 @@ Atri who had faith as his deity and offered sacrifices was not visited by the fo
 सोत्रिः एतान् चतुरश्चतुष्टोमान् त्रिवृदादिस्तोमकान् स्तोमान् चतूरात्रानपश्यत्, तानाहरत् तैश्चायजत ।
 </details>
 
-
-<details><summary>Keith</summary>
-
-He saw these four Soma libations with the four Stomas; he grasped them and sacrificed with them.  
-</details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेज॑ ए॒व प्र॑थ॒मेनावा॑रुन्द्ध, इ॒न्द्रि॒यन् द्वि॒तीये॑न , ब्रह्मवर्च॒सन् तृ॒तीये॑न अ॒न्नाद्य॑ञ् चतु॒र्थेन॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+He won brilliance with the first, power with the second, splendour with the third, food with the fourth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -353,27 +318,32 @@ He saw these four Soma libations with the four Stomas; he grasped them and sacri
 तत्र प्रथमेन चतूरात्रेण तेजोवरुन्धे, इन्द्रियादीनि च द्वितीयादिभिश्चतूरात्रैः ॥
 </details>
 
-<details><summary>Keith</summary>
-
-He won brilliance with the first, power with the second, splendour with the third, food with the fourth.  
-</details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+य ए॒वव्ँ वि॒द्वाँश्च॒तुर॒श् चतु॑ष्टोमा॒न्त् सोमा॑न् आ॒हर॑ति॒ , तैर्यज॑ते॒ , तेज॑ ए॒व प्र॑थ॒मेनाव॑ रुन्द्ध ,+ इन्द्रि॒यन् द्वि॒तीये॑न , ब्रह्मवर्च॒सन् तृ॒तीये॑ना॒न्नाद्य॑ञ् चतु॒र्थेन॑ ।
+</details>
 
-य ए॒वव्ँ वि॒द्वाँश्च॒तुर॒श् चतु॑ष्टोमा॒न्त् सोमा॑न् आ॒हर॑ति॒ ,
-तैर्यज॑ते॒ ,  
-तेज॑ ए॒व प्र॑थ॒मेनाव॑ रुन्द्ध ,+ इन्द्रि॒यन् द्वि॒तीये॑न , ब्रह्मवर्च॒सन् तृ॒तीये॑ना॒न्नाद्य॑ञ् चतु॒र्थेन॑ ।  
+<details><summary>Keith</summary>
 
-यामे॒वात्रि॒र् ऋद्धि॒म् आर्ध्नो॒त् तामे॒व यज॑मान ऋध्नोति ॥ [34]
+He, who knowing thus, grasps the four Soma libations with the four Stomas and sacrifices with them, wins brilliance with the first, power with the second, splendour with the third, food with the fourth.
 </details>
 
 <details><summary>मूलम्</summary>
 
-य ए॒वव्ँ वि॒द्वाँश्च॒तुर॒श् चतु॑ष्टोमा॒न्त्सोमा॑न् आ॒हर॑ति॒ ,
-तैर्यज॑ते॒ ,  
-तेज॑ ए॒व प्र॑थ॒मेनाव॑ रुन्द्ध ,+ इन्द्रि॒यन् द्वि॒तीये॑न , ब्रह्मवर्च॒सन् तृ॒तीये॑ना॒न्नाद्य॑ञ् चतु॒र्थेन॑ ।  
+य ए॒वव्ँ वि॒द्वाँश्च॒तुर॒श् चतु॑ष्टोमा॒न्त्सोमा॑न् आ॒हर॑ति॒ , तैर्यज॑ते॒ , तेज॑ ए॒व प्र॑थ॒मेनाव॑ रुन्द्ध ,+ इन्द्रि॒यन् द्वि॒तीये॑न , ब्रह्मवर्च॒सन् तृ॒तीये॑ना॒न्नाद्य॑ञ् चतु॒र्थेन॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यामे॒वात्रि॒र् ऋद्धि॒म् आर्ध्नो॒त् तामे॒व यज॑मान ऋध्नोति ॥ [34]
+</details>
+
+<details><summary>Keith</summary>
+
+With the success which Atri had, the sacrificer prospers.
+</details>
+
+<details><summary>मूलम्</summary>
 
 यामे॒वात्रि॒र् ऋद्धि॒म् आर्ध्नो॒त् तामे॒व यज॑मान ऋध्नोति ॥ [34]
 </details>
@@ -390,21 +360,13 @@ He won brilliance with the first, power with the second, splendour with the thir
 याम् । ए॒व । अत्रिः॑ । ऋद्धि॑म् । आर्ध्नो॑त् । ताम् । ए॒व । यज॑मानः । ऋ॒ध्नो॒ति॒ ॥ [34]
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5य एवं विद्वानित्यादि ॥  
 ननु 'यामेवात्रिर् ऋद्धिमार्ध्रोत्' इति किमुच्यते, 'तेज एव प्रथमेन' इत्यादिना गतार्थत्वात् । नैवम्, न तेजः प्रभृत्युपसंग्रहार्थमिदं भवति, अपि तु यामन्यामप्यत्रिः ऋद्धिमार्ध्नोत्, तामपीति प्रतिपादयितुम् । तेन 'तस्य चत्वारो वीरा आऽजायन्त' इत्येतदपि संगृहीतं भवति ।  
-
 
 ऋद्धिमार्ध्नोदिति गोपोषं पुष्णातीतिवद्द्रष्टव्यम् ॥
 
 इति सप्तमे प्रथमे अष्टमोनुवाकः ॥  
 </details>
 
-
-<details><summary>Keith</summary>
-
-He, who knowing thus, grasps the four Soma libations with the four Stomas and sacrifices with them, wins brilliance with the first, power with the second, splendour with the third, food with the fourth.  
-With the success which Atri had, the sacrificer prospers.
-</details>

@@ -24,12 +24,47 @@ title = "१९ अश्वोपचारो मरणोत्तरः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अम्बे॒ अम्बा॒ल्य् अम्बि॑के ।
+अम्बे॒
+</details>
+
+<details><summary>Keith</summary>
+
+O Amba!
 </details>
 
 <details><summary>मूलम्</summary>
 
-अम्बे॒ अम्बा॒ल्य् अम्बि॑के ।
+अम्बे॒
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अम्बा॒ल्य्
+</details>
+
+<details><summary>Keith</summary>
+
+O Ambali!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अम्बा॒ल्य्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अम्बि॑के ।
+</details>
+
+<details><summary>Keith</summary>
+
+O Ambika!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अम्बि॑के ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -40,12 +75,30 @@ title = "१९ अश्वोपचारो मरणोत्तरः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मा॑ नयति॒ कश्च॒न ।
-स॒सस्त्य् अ॑श्व॒कः ।
+</details>
+
+<details><summary>Keith</summary>
+
+No one leadest me.
 </details>
 
 <details><summary>मूलम्</summary>
 
 न मा॑ नयति॒ कश्च॒न ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒सस्त्य् अ॑श्व॒कः ।
+</details>
+
+<details><summary>Keith</summary>
+
+The wicked horse is sleeping.
+</details>
+
+<details><summary>मूलम्</summary>
+
 स॒सस्त्य् अ॑श्व॒कः ।
 </details>
 
@@ -68,6 +121,11 @@ title = "१९ अश्वोपचारो मरणोत्तरः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुभ॑गे॒ काम्पी॑लवासिनि सुव॒र्गे लो॒के सम्प्रोर्ण्वा॑थाम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+O fair one, clad in fair raiment in the world of heaven be ye two covered....
 </details>
 
 <details><summary>मूलम्</summary>
@@ -265,6 +323,12 @@ title = "१९ अश्वोपचारो मरणोत्तरः"
 यत् + ह॒रि॒णी यव॒म् अत्ति॒ , न पु॒ष्टम् प॒शु म॑न्यते ।[48]  
 </details>
 
+<details><summary>Keith</summary>
+
+1 When the deer eateth grain,
+He deemeth not his flock fat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत् + ह॒रि॒णी यव॒म् अत्ति॒ , न पु॒ष्टम् प॒शु म॑न्यते ।[48]  
@@ -278,6 +342,12 @@ title = "१९ अश्वोपचारो मरणोत्तरः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शू॒द्रा यदर्य॑जारा॒ न पोषा॑य धनायति ।
+</details>
+
+<details><summary>Keith</summary>
+
+When the Śadra woman is the loved of the Aryan,
+She seeketh not wealth for prosperity....
 </details>
 
 <details><summary>मूलम्</summary>
@@ -397,13 +467,33 @@ title = "१९ अश्वोपचारो मरणोत्तरः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द॒धि॒क्राव्ण्णो॑ अकारिषञ् जि॒ष्णोर् अश्व॑स्य वा॒जिनः॑ ।  
-सु॒र॒भि नो॒ मुखा॑ कर॒त्प्र ण॒ आयूँ॑षि तारिषत् ।
+द॒धि॒क्राव्ण्णो॑ अकारिषञ् जि॒ष्णोर् अश्व॑स्य वा॒जिनः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Dadhikravan have I sung,
+The swift strong horse.
 </details>
 
 <details><summary>मूलम्</summary>
 
-द॒धि॒क्राव्ण्णो॑ अकारिषञ् जि॒ष्णोर् अश्व॑स्य वा॒जिनः॑ ।  
+द॒धि॒क्राव्ण्णो॑ अकारिषञ् जि॒ष्णोर् अश्व॑स्य वा॒जिनः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सु॒र॒भि नो॒ मुखा॑ कर॒त्प्र ण॒ आयूँ॑षि तारिषत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+May he make our mouths fragrant;
+May he lengthen our days.
+</details>
+
+<details><summary>मूलम्</summary>
+
 सु॒र॒भि नो॒ मुखा॑ कर॒त्प्र ण॒ आयूँ॑षि तारिषत् ।
 </details>
 
@@ -425,23 +515,60 @@ title = "१९ अश्वोपचारो मरणोत्तरः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपो॒ हि ष्ठा म॑यो॒भुव॒स् , ता न॑ ऊ॒र्जे द॑धातन ।  
-म॒हे रणा॑य॒ चक्ष॑से ।  
-यो व॑श् शि॒वत॑मो॒ रस॒स्
-तस्य॑ भाजयते॒ह नः॑ ।  
-उ॒श॒तीरि॑व मा॒तरः॑ ।
-तस्मा॒ अर॑ङ् गमाम वो॒ , यस्य॒ क्षया॑य॒ जिन्व॑थ ।
-आपो॑ ज॒नय॑था च नः ॥ [50]  
+म॒हे रणा॑य॒ चक्ष॑से ।
+</details>
+
+<details><summary>Keith</summary>
+
+Ye waters are healing;
+Further us to strength,
+To see great joy.
 </details>
 
 <details><summary>मूलम्</summary>
 
 आपो॒ हि ष्ठा म॑यो॒भुव॒स् , ता न॑ ऊ॒र्जे द॑धातन ।  
-म॒हे रणा॑य॒ चक्ष॑से ।  
+म॒हे रणा॑य॒ चक्ष॑से ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यो व॑श् शि॒वत॑मो॒ रस॒स्
 तस्य॑ भाजयते॒ह नः॑ ।  
 उ॒श॒तीरि॑व मा॒तरः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The most auspicious flavour that is yours
+Accord to us here
+Like eager mothers.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यो व॑श् शि॒वत॑मो॒ रस॒स्
+तस्य॑ भाजयते॒ह नः॑ ।  
+उ॒श॒तीरि॑व मा॒तरः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तस्मा॒ अर॑ङ् गमाम वो॒ , यस्य॒ क्षया॑य॒ जिन्व॑थ ।
-आपो॑ ज॒नय॑था च नः ॥ [50]  
+आपो॑ ज॒नय॑था च नः ॥ [50]
+</details>
+
+<details><summary>Keith</summary>
+
+To him may we come with satisfaction,
+To whose dwelling ye quicken us,
+O waters, and propagate us.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मा॒ अर॑ङ् गमाम वो॒ , यस्य॒ क्षया॑य॒ जिन्व॑थ ।
+आपो॑ ज॒नय॑था च नः ॥ [50]
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

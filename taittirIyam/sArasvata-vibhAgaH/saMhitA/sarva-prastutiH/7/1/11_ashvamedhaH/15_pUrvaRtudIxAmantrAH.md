@@ -7,7 +7,6 @@ title = "१५ पूर्वऋतुदीक्षामन्त्रा�
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विश्वेदेवा ऋषयः
-
 </details>
 
 
@@ -18,24 +17,219 @@ title = "१५ पूर्वऋतुदीक्षामन्त्रा�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒थि॒व्यै स्वाहा॑ । अ॒न्तरि॑क्षाय॒ स्वाहा॑ । दि॒वे स्वाहा॑।  
-सूर्या॑य॒ स्वाहा॑ । च॒न्द्रम॑से॒ स्वाहा॑ । नक्ष॑त्रेभ्य॒स्स्वाहा॑।  
-प्राच्यै॑ दि॒शे स्वाहा॑। दक्षि॑णायै दि॒शे स्वाहा॑ । प्र॒तीच्यै॑ दि॒शे स्वाहा॑। उदी॑च्यै दि॒शे स्वाहा॑ । ऊ॒र्ध्वायै॑ दि॒शे स्वाहा॑ ।  
-दि॒ग्भ्यस्स्वाहा॑ । अ॒वा॒न्त॒र॒दि॒शाभ्य॒स्स्वाहा॑ ।  
-समा॑भ्य॒स् +++(संवत्सरविशेषेभ्यः)+++ स्वाहा॑ । श॒रद्भ्य॒स् +++(संवत्सरविशेषेभ्यः)+++ स्वाहा॑ ।
-अ॒हो॒रा॒त्रेभ्य॒स् स्वाहा॑ ।  अ॒र्ध॒मा॒सेभ्य॒स् स्वाहा॑ ।  
-मासे॑भ्य॒स् स्वाहा॑ । ऋ॒तुभ्य॒स् स्वाहा॑ ।  
-सव्ँ॒व॒त्स॒राय॒ स्वाहा॑ ।  
-सर्व॑स्मै॒ स्वाहा॑ ॥ 44 ॥  
+पृ॒थि॒व्यै स्वाहा॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+To earth hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒न्तरि॑क्षाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To atmosphere hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दि॒वे स्वाहा॑।
+</details>
+
+<details><summary>Keith</summary>
+
+To sky hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सूर्या॑य॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the sun hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+च॒न्द्रम॑से॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the moon hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नक्ष॑त्रेभ्य॒स्स्वाहा॑।
+</details>
+
+<details><summary>Keith</summary>
+
+To the Naksatras hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राच्यै॑ दि॒शे स्वाहा॑।
+</details>
+
+<details><summary>Keith</summary>
+
+To the eastern quarter hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दक्षि॑णायै दि॒शे स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the southern quarter hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्र॒तीच्यै॑ दि॒शे स्वाहा॑।
+</details>
+
+<details><summary>Keith</summary>
+
+To the western quarter hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उदी॑च्यै दि॒शे स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the northern quarter hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऊ॒र्ध्वायै॑ दि॒शे स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the zenith hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दि॒ग्भ्यस्स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the quarters hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒वा॒न्त॒र॒दि॒शाभ्य॒स्स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the intermediate quarters hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+समा॑भ्य॒स् +++(संवत्सरविशेषेभ्यः)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the half-years hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श॒रद्भ्य॒स् +++(संवत्सरविशेषेभ्यः)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the autumns hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒हो॒रा॒त्रेभ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the days and nights hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒र्ध॒मा॒सेभ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the half-months hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मासे॑भ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the months hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऋ॒तुभ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the seasons hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सव्ँ॒व॒त्स॒राय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the year hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व॑स्मै॒ स्वाहा॑ ॥ 44 ॥
+</details>
+
+<details><summary>Keith</summary>
+
+To all hail!
+</details>
 
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒व्यै स्वाहा॒ऽन्तरि॑क्षाय॒ स्वाहा॑ दि॒वे स्वाहा॒ ,  
 सूर्या॑य॒ स्वाहा॑ च॒न्द्रम॑से॒ स्वाहा॒ नक्ष॑त्रेभ्य॒स्स्वाहा॒ ,  
-प्राच्यै॑ दि॒शे स्वाहा॒ दक्षि॑णायै दि॒शे स्वाहा॑ प्र॒तीच्यै॑ दि॒शे स्वाहोदी॑च्यै दि॒शे स्वाहो॒र्ध्वायै॑ दि॒शे स्वाहा॑ 
-
+प्राच्यै॑ दि॒शे स्वाहा॒ दक्षि॑णायै दि॒शे स्वाहा॑ प्र॒तीच्यै॑ दि॒शे स्वाहोदी॑च्यै दि॒शे स्वाहो॒र्ध्वायै॑ दि॒शे स्वाहा॑
 </details>
 
 <details><summary>पद-पाठः</summary>

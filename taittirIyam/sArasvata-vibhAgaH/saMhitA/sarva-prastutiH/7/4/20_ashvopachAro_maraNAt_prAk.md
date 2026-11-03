@@ -15,15 +15,91 @@ title = "२० अश्वोपचारो मरणात् प्रा�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूर् भुव॒स् सुवः॑ ।
-वस॑वस् त्वाञ् जन्तु गाय॒त्रेण॒ छन्द॑सा , रु॒द्रास् त्वा॑ञ् जन्तु॒ त्रैष्टु॑भेन॒ छन्द॑सा,  
-ऽऽदि॒त्यास् त्वा॑ञ् जन्तु॒ जाग॑तेन॒ छन्द॑सा॒ ।
+भूर्
+</details>
+
+<details><summary>Keith</summary>
+
+Bhuh!
 </details>
 
 <details><summary>मूलम्</summary>
 
-भूर् भुव॒स् सुवः॑ ।
-वस॑वस् त्वाञ् जन्तु गाय॒त्रेण॒ छन्द॑सा , रु॒द्रास् त्वा॑ञ् जन्तु॒ त्रैष्टु॑भेन॒ छन्द॑सा,  
+भूर्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भुव॒स्
+</details>
+
+<details><summary>Keith</summary>
+
+Bhuvah!
+</details>
+
+<details><summary>मूलम्</summary>
+
+भुव॒स्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुवः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Svar!
+</details>
+
+<details><summary>मूलम्</summary>
+
+सुवः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वस॑वस् त्वाञ् जन्तु गाय॒त्रेण॒ छन्द॑सा ,
+</details>
+
+<details><summary>Keith</summary>
+
+Let the Vasus anoint thee with the Gayatri metre.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वस॑वस् त्वाञ् जन्तु गाय॒त्रेण॒ छन्द॑सा ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रु॒द्रास् त्वा॑ञ् जन्तु॒ त्रैष्टु॑भेन॒ छन्द॑सा,
+</details>
+
+<details><summary>Keith</summary>
+
+Let the Rudras anoint thee with the Tristubh metre.
+</details>
+
+<details><summary>मूलम्</summary>
+
+रु॒द्रास् त्वा॑ञ् जन्तु॒ त्रैष्टु॑भेन॒ छन्द॑सा,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऽऽदि॒त्यास् त्वा॑ञ् जन्तु॒ जाग॑तेन॒ छन्द॑सा॒ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Let the Adityas anoint thee with the Jagati metre.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ऽऽदि॒त्यास् त्वा॑ञ् जन्तु॒ जाग॑तेन॒ छन्द॑सा॒ ।
 </details>
 
@@ -46,6 +122,14 @@ title = "२० अश्वोपचारो मरणात् प्रा�
 
 यद् वातो॑ अ॒पो अग॑म॒द् इन्द्र॑स्य त॒नुव॑म् प्रि॒याम् ।  
 ए॒तँ स्तो॑तर् ए॒तेन॑ प॒था पुन॒रश्व॒म् आव॑र्तयासि नः ।
+</details>
+
+<details><summary>Keith</summary>
+
+As the wind hath gone to the waters,
+Indra's dear body,
+By that path, O praiser,
+Bring back to us the horse.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -75,6 +159,12 @@ title = "२० अश्वोपचारो मरणात् प्रा�
 य॒व्यायै॑ ग॒व्याया॑ ए॒तद् दे॑वा॒ अन्न॑म् अत्त + ऐ॒तद् अन्न॑म् अद्धि प्रजापते ।
 </details>
 
+<details><summary>Keith</summary>
+
+O thou that hast barley, that hast grain, (bring) renown for me;
+For barley, for milk, this food eat, O ye gods; this food eat, O Prajapati.
+</details>
+
 <details><summary>मूलम्</summary>
 
 लाजीञ् (३), छाचीन् (३) , यशो॑ म॒माम् (4)।  
@@ -102,6 +192,13 @@ title = "२० अश्वोपचारो मरणात् प्रा�
 रोच॑न्ते रोच॒ना दि॒वि ।
 </details>
 
+<details><summary>Keith</summary>
+
+They yoke the tawny ruddy one,
+Which goeth round them that stand;
+The lights shine in the sky.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यु॒ञ्जन्ति॑ ब्र॒ध्नम् अ॑रु॒षञ् चर॑न्त॒म् परि॑ त॒स्थुषः॑ ।
@@ -124,6 +221,13 @@ title = "२० अश्वोपचारो मरणात् प्रा�
 शोणा॑ धृ॒ष्णू नृ॒वाह॑सा ।
 </details>
 
+<details><summary>Keith</summary>
+
+They yoke his dear steeds
+On either side of the chariot,
+Dark, strong, bearing heroes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यु॒ञ्जन्त्य् अ॑स्य॒ काम्या॒ हरी॒ विप॑क्षसा॒ रथे॑ ।
@@ -143,6 +247,13 @@ title = "२० अश्वोपचारो मरणात् प्रा�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 के॒तुङ् कृ॒ण्वन्न् अ॑के॒तवे॒ पेशो॑ मर्या अपे॒शसे॑ । समु॒षद्भि॑र् अजायथाः ॥ [51]  
+</details>
+
+<details><summary>Keith</summary>
+
+A Making a banner for that which hath none,
+Form for the formless, O ye men,
+Thou wert born with the dawns.
 </details>
 
 <details><summary>मूलम्</summary>

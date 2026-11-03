@@ -7,7 +7,6 @@ title = "१३ उद्द्रावहोममन्त्राः"
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विश्वेदेवा ऋषयः
-
 </details>
 
 
@@ -21,20 +20,137 @@ title = "१३ उद्द्रावहोममन्त्राः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(त्रयोदश ध्रुवा जुहोति)+++  
-आय॑नाय॒ स्वाहा॑ । प्राय॑णाय॒ स्वाहा॑ ।  
-उ॒द्द्रा॒वाय॒ +++(भावाय)+++ स्वाहाः॑। उद्द्रु॑ताय॒ +++(कर्मणे)+++ स्वाहा॑ ।  
-शू॒का॒राय॒+++(=swish-शब्दाय)+++ स्वाहा॑ । शूकृ॑ताय॒ +++(कर्मणे)+++ स्वाहा॑ ।  
-पला॑यिताय॒ स्वाहा॑ । आ॒पला॑यिताय॒ स्वाहा॑ ।  
-आ॒वल्ग॑ते॒+++(=विक्रमणाय)+++ स्वाहा॑ । प॒रा॒वल्ग॑ते॒ स्वाहा॑ ।  
-आ॒य॒ते स्वाहा॑ । प्र॒य॒ते+++(=प्रयाणकुशलाय)+++ स्वाहा॑ ।  
-सर्व॑स्मै॒ स्वाहा॑ ॥ [42]  
+आय॑नाय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+To the going hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राय॑णाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the advancing hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उ॒द्द्रा॒वाय॒ +++(भावाय)+++ स्वाहाः॑।
+</details>
+
+<details><summary>Keith</summary>
+
+To the running hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उद्द्रु॑ताय॒ +++(कर्मणे)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him after be hath run hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शू॒का॒राय॒+++(=swish-शब्दाय)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the crying of 'shoo' hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शूकृ॑ताय॒ +++(कर्मणे)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him over whom is cried 'shoo' hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पला॑यिताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who hath moved hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒पला॑यिताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who hath moved forward hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒वल्ग॑ते॒+++(=विक्रमणाय)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him springing forward hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प॒रा॒वल्ग॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him jumping away hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who advanceth hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्र॒य॒ते+++(=प्रयाणकुशलाय)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who advanceth forward hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व॑स्मै॒ स्वाहा॑ ॥ [42]
+</details>
+
+<details><summary>Keith</summary>
+
+To all hail!
+</details>
 
 <details><summary>मूलम्</summary>
 
-आय॑नाय॒ स्वाहा॒ प्राय॑णाय॒ स्वाहो॑द्द्रा॒वाय॒ स्वाहोद्द्रु॑ताय॒ स्वाहा॑ शूका॒राय॒ स्वाहा॒ शूकृ॑ताय॒ स्वाहा॒ 
-
+आय॑नाय॒ स्वाहा॒ प्राय॑णाय॒ स्वाहो॑द्द्रा॒वाय॒ स्वाहोद्द्रु॑ताय॒ स्वाहा॑ शूका॒राय॒ स्वाहा॒ शूकृ॑ताय॒ स्वाहा॒
 </details>
 
 

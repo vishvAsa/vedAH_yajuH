@@ -4,18 +4,20 @@ title = "०१ एकाहेषु अग्निष्टोमविधि
 +++
 ## परिचयः
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(नानाफलक-विकृति)+++प्र॒जन॑न॒ञ् ज्योतिः॑+++(→अग्निष्टोमः)+++ ।
+</details>
 
+<details><summary>Keith</summary>
+
+Production of offspring is light.
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्र॒जन॑न॒ञ्ज्योतिः॑ ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -27,10 +29,7 @@ title = "०१ एकाहेषु अग्निष्टोमविधि
 1षष्ठेन काण्डेन दीक्षाद्युदयनीयान्तोग्निष्टोमस्सगुणः प्रतिपादितः । स इदानीमिह विधीयते । पूर्वत्र हि कर्तव्यतामात्रमस्य विहितम् । अस्यैव गुणविकारास्सर्वसंस्था उत्तरा अत्यग्निष्टोमाद्यप्तोर्यामान्ताः । एतत्प्रकृतिकास्सर्वे विश्वजिदादय एकाहाः, द्विरात्रप्रभृतयश्चाहीनाः, द्वादशाहादीनि च सत्त्राणि । तत्र पूर्वप्रकरणशेषभूतं तद्गतमेव किञ्चिदारभ्यते । तत्र त्रिवृदादिस्तोमभेदनिबन्धनत्वात्तेषामह्नामहीनानां च विभागस्य । तेषां स्वरूपमुत्पत्तिं चाभिधास्यन् तन्निमित्तं चास्य ज्योतिरिति संज्ञां निर्वक्ष्यत् प्रथममनयैव संज्ञया इदमुपादाय विशिष्टफलसाधनत्वमस्य दर्शयतिप्रजनं ज्योतिरिति ॥ एषां च सर्वविकारार्थतां द्योतयितुं काण्डभेदः । अस्य च सर्वप्रकृतितां सूचयितुं काण्डभेदेन पृथक्कारः कृतः । तत्राद्यमनुवाकत्रयं सौम्यम्, शिष्टमपि सर्वं काण्डं वैश्वदेवम् । प्रजननं सर्वासां प्रजानां जन्महेतुः, वक्ष्यति च - 'अग्निष्टोमेन वै प्रजापतिः प्रजा असृजत' इति । ज्योतिरग्निष्टोमः ।
 </details>
 
-
-
 ______________
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -38,6 +37,10 @@ ______________
 अ॒ग्निर् दे॒वता॑ना॒ञ् ज्योतिः॑ । 
 </details>
 
+<details><summary>Keith</summary>
+
+Agni is the light of the gods;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -55,25 +58,21 @@ ______________
 </details>
 
 ______________
-<details><summary>Keith</summary>
-
-Production of offspring is light.  
-Agni is the light of the gods; the Viraj is the light of the metres.  
-The Viraj of speech ends in Agni;  
-it is produced according to the Viraj.  
-Therefore it is called light. 
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि॒राट् छन्द॑सा॒ञ् ज्योतिः॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Viraj is the light of the metres.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒राट्छन्द॑सा॒ञ्ज्योतिः॑ ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -85,11 +84,14 @@ Therefore it is called light.
 छन्दसां मध्ये विराट् दशाक्षरा ज्योतिर्विराजमाना भवति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि॒राड्+++(→१०)+++ +++(स्तोमगत)+++वा॒चो॑ ऽग्नौ+++(→अग्निष्टोमाख्ये यज्ञायज्ञीये सामनि)+++ सन्ति॑ष्ठते ।
+</details>
 
+<details><summary>Keith</summary>
+
+The Viraj of speech ends in Agni;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -110,7 +112,11 @@ Therefore it is called light.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि॒राज॑म् +++(संपद्यमानाम्)+++ अ॒भि +++(अग्निष्टोमोऽपि)+++ सम्प॑द्यते ।  
+</details>
 
+<details><summary>Keith</summary>
+
+it is produced according to the Viraj.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -134,11 +140,15 @@ Therefore it is called light.
 +++(अग्निष्टोमस्य द्वादशस्तोत्रस्य नवतिशतं १९० = 9+60+15+68+17+21 स्तोत्रीया भवन्ति । ताश्च दशभिर् ह्रियमाणाः शुद्धं भागं प्रयच्छन्तीति विराट्-सम्पत्तिः, नैवम् उक्थ्यादीनां दशके सम्पूर्णे समाप्तिरिति ।)+++
 </details>
 
+<details><summary>Keith</summary>
+
+Therefore it is called light.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒त् तज्ज्योति॑र् उच्यते ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -150,11 +160,7 @@ Therefore it is called light.
 यस्मादयं ज्योतिर्द्द्वयसंपत्त्यधीनोस्यात्मलाभः तस्मात्सोग्निष्टोमो ज्योतिरुच्यते । तत्र बहिष्पवमाने नव स्तोत्रिया त्रिवृद्वहिष्पवमान इति । पञ्चदशान्याज्यानि; तत्र षष्टिः स्तोत्रीयाः । पञ्चदशो माध्यन्दिनः पवमान इति पञ्चदश स्तोत्रीयाः । सप्तदशानि पृष्ठानि; तत्र अष्टषष्टिः स्तोत्रीयाः । सप्तदशार्भवः पवमान इति सप्तदश स्तोत्रीयाः । एकविंशमग्निष्टोमसामेति एकविंशतिः स्तोत्रीयाः । एवमग्निष्टोमस्य द्वादशस्तोत्रस्य नवतिशतं स्तोत्रीया भवन्ति । ताश्च दशभिर्ह्रियमाणाः शुद्धं भागं प्रयच्छन्तीति विराट्सम्पत्तिः, नैवमुक्थ्यादीनां दशके सम्पूर्णे समाप्तिरिति ॥
 </details>
 
-
 ## स्तोमकलनम्
-
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -162,17 +168,20 @@ Therefore it is called light.
 +++(तत्र बहिष्पवमाने नव ३*३ = ९ स्तोत्रिया त्रिवृद्वहिष्पवमान इति। पञ्चदशान्याज्यानि; तस्य षष्टिः १५*४ = ६० स्तोत्रीयाः ।)+++  
 </details>
 
-<details open><summary>विश्वास-टिप्पनी</summary>
+<details><summary>Keith</summary>
+
+Two Stomas bear the morning pressing, like expiration and inspiration;
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
 
 त्रिवृत्-पञ्चदशौ स्तोमौ प्रातः (१ त्रिवृत्, ४ पञ्चदशाः वस्तुतः)। पञ्चदशसप्तदशौ माध्यन्दिनसवने (१ पञ्चदश, ४ सप्तदशाः वस्तुतः)। सप्तदशैकविंशौ तृतीयसवने। आहत्य १२ स्तोमाः, १९० = (9+60)+(15+68)+(17+21) स्तोत्रीयाः।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 द्वौ स्तोमौ॑ प्रा॒त॒स्स॒व॒नव्ँव॑हतो॒,  यथा॑ प्रा॒णश्चा॑पा॒नश्च॑ ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -187,19 +196,21 @@ Therefore it is called light.
 
 ______________
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वौ +++(पञ्चदशसप्तदशौ)+++ माध्य॑न्दिनँ॒ सव॑नं॒  +++(वहतः)+++  यथा॒ चक्षु॑श्च॒ श्रोत्र॑ञ्च ।  
 +++( पञ्चदशो माध्यन्दिनः पवमान इति पञ्चदश १५ स्तोत्रीयाः । सप्तदशानि पृष्ठानि; तत्र अष्टषष्टिः १७*४ = ६८ स्तोत्रीयाः ।)+++  
 </details>
 
+<details><summary>Keith</summary>
+
+two the midday pressing, like eye and ear;
+</details>
 
 <details><summary>मूलम्</summary>
 
 द्वौ माध्य॑न्दिनँ॒सव॑नं॒  +++(वहतः)+++  यथा॒ चक्षु॑श्च॒ श्रोत्र॑ञ्च ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -212,7 +223,6 @@ ______________
 यथा चक्षुश्च श्रोत्रं च पुरुषं वहतः । जननोत्तरकालं विषयग्रहणमेतयोर्भवतीति मध्यभावित्वमेतयोः ।
 </details>
 
-
 ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -222,12 +232,15 @@ ______________
 +++(MT: "aitareya 30th brAhmaNa on the bringing of agni & soma regarding the recitation of the incantation to varuNa asura medhira; it clearly says there 12 mAsa-s+5 R^itu-s+3 loka-s all supported by the +1 Aditya (here ided with varuNa)=21")+++
 </details>
 
+<details><summary>Keith</summary>
+
+two the third pressing, like speech and support.
+</details>
 
 <details><summary>मूलम्</summary>
 
 द्वौ तृ॑तीयसव॒नम् +++(वहतः)+++,  यथा॒ वाक्च॑ प्रति॒ष्ठा च ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -241,12 +254,15 @@ ______________
 </details>
 ______________
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरु॑ष-सम्मितो॒+++(=तुल्यः)+++ वा ए॒ष य॒ज्ञो ऽस्थू॑रिः+++(=अनेकाश्वशकटम् →अग्निष्टोमः इति शाखान्तरादपि, यतः प्रतिसवनं द्वाभ्यां युज्यमानस् स्वकार्यं करोति)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+This sacrifice is commensurate with man, and is perfect [1].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -264,26 +280,18 @@ ______________
 यस्मादेवं तस्मादेष यज्ञः पुरुषसम्मितः पुरुषेण तुल्यः । उपमानपूर्वपदप्रकृतिस्वरत्वम्, 'तृतीया कर्मणि' इति वा । अस्थूरिः अग्निष्टोमः । शाखान्तरीयपाठे च इयमग्निष्टोमस्याख्या । सर्वं स्वर्गादिफलं अस्थूरिणाऽग्निष्टोमेन अभ्यश्नुते, न प्रजापतिमेव । अस्थूरित्वं चास्य 'द्वौ स्तोमौ प्रातस्सवनम्' इत्यादिना प्रतिपादितम् । तथा अस्थूरिः पृष्ठवाही स चतुर्भिः पादैर्युज्यमानः स्वकार्यवहनं करोति यथा गवादिः । अयं तु प्रतिसवनं द्वाभ्यां युज्यमानस्स्वकार्यं करोति यथा शिरोवाही पुरुषः । तस्मादेष पुरुषसम्मित इति । 'हि च' इति निघाताभावः, 'तिङि चोदात्तवति' इति गतेरनुदात्तत्वम्, समासश्च ॥
 </details>
 
-
-<details><summary>Keith</summary>
-
-Two Stomas bear the morning pressing, like expiration and inspiration;  
-two the midday pressing, like eye and ear;  
-two the third pressing, like speech and support. 
-
-This sacrifice is commensurate with man, and is perfect [1]. 
-</details>
-
-
 ## फलस्मारणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यङ् काम॑ङ् का॒मय॑ते, तम् ए॒तेना॒ऽभ्य॑श्ञुते।
 सर्वँ॒ ह्य् अस्थू॑रिणा ऽभ्यश्ञु॒ते ।
-
 </details>
 
+<details><summary>Keith</summary>
+
+Whatever desire a man has, he wins by it, for one wins all by that which is perfect.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -295,23 +303,17 @@ This sacrifice is commensurate with man, and is perfect [1].
 
 यम् । काम॑म् । का॒मय॑ते । तम् । ए॒तेन॑ । अ॒भीति॑ । अ॒श्ञु॒ते॒ ।  
 सर्व॑म् । हि । अस्थू॑रिणा । अ॒भ्य॒श्ञु॒त इत्य॑भि-अ॒श्ञु॒ते ।     
-
 </details>
-
-<details><summary>Keith</summary>
-
-Whatever desire a man has, he wins by it,  
-for one wins all by that which is perfect. 
-
-By means of the Agnistoma Prajapati created off spring;  
-by means of the Agnistoma he grasped them.
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अग्नेस्स्तोमो यज्ञायज्ञीयः, तदन्तः क्रतुरग्निष्टोमः।)+++  
 अ॒ग्नि॒ष्टो॒मेन॒ वै प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।  
+</details>
+
+<details><summary>Keith</summary>
+
+By means of the Agnistoma Prajapati created off spring;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -322,32 +324,32 @@ by means of the Agnistoma he grasped them.
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्नि॒ष्टो॒मेनेत्य॑ग्नि-स्तो॒मेन॑ । वै । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । प्र॒जा इति॑ प्र-जाः । अ॒सृ॒ज॒त॒ ।     
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अय यदुक्तं 'प्रजननं ज्योतिः' इति, तत्समर्थयते अग्निष्टोमेनेत्यादिना ॥ अप्रजाताः प्रजा अजनयत्, प्रजाताश्च पर्यगृह्णात् विधेयीकृतवान् ।
-
 </details>
 
 <details><summary>मूलम्</summary>
 
 ता अ॒ग्नि॒ष्टो॒मेनै॒व पर्य॑गृह्णात् ।
-
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता अ॒ग्नि॒ष्टो॒मेनै॒व पर्य॑गृह्णात्+++(=विधेयीकृतवान्)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+by means of the Agnistoma he grasped them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता अ॒ग्नि॒ष्टो॒मेनै॒व पर्य॑गृह्णात् ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -359,15 +361,17 @@ by means of the Agnistoma he grasped them.
 अग्नेस्स्तोमो यज्ञायज्ञीयः, तदन्तः क्रतुरग्निष्टोमः 'अग्नेस्तुत्स्तोमसोमाः' इति षत्वम् ।
 </details>
 
-
 ## अश्वतर-दक्षिणा-योग्यता
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तासा॒म् परि॑गृहीतानाम् अश्वत॒रो+++(=अश्वायां गर्दभेनोत्पन्नः)+++ ऽत्य् अ॑प्रवत+++(←ज्युङ् प्रुङ् प्लुङ् गतौ)+++ । 
 </details>
 
+<details><summary>Keith</summary>
+
+When he grasped them the mule escaped.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -387,7 +391,11 @@ by means of the Agnistoma he grasped them.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्या॑नु॒हाय॒+++(←ओहाङ् गतौ)+++ रेत॒ आद॑त्त ।  
+</details>
 
+<details><summary>Keith</summary>
+
+Following it he took its seed,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -410,11 +418,15 @@ by means of the Agnistoma he grasped them.
 तद् ग॑र्द॒भे न्य॑मार्ट्।
 </details>
 
+<details><summary>Keith</summary>
+
+and placed it in the ass.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद्ग॑र्द॒भे न्य॑मार्ट्।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -429,7 +441,11 @@ by means of the Agnistoma he grasped them.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॑द्गर्द॒भो द्वि॒रेताः॑ +++(यतो गर्दभ्या बडबायाश्च जनयति)+++।+++(४)+++  
+</details>
 
+<details><summary>Keith</summary>
+
+Therefore the ass has double seed.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -452,17 +468,20 @@ by means of the Agnistoma he grasped them.
 अथो॑ +++(अन्ये)+++ आहु॒र् वड॑बाया॒न्+++(=अश्व्यां)+++ न्य॑मा॒र्ड् इति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+They also say, 'He placed it in the mare.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथो॑ आहु॒र्वड॑बाया॒न्न्य॑मा॒र्डिति॑ ।
 </details>
 
-
 <details><summary>पद-पाठः</summary>
 
 अथो॒ इति॑ । आ॒हुः॒ ।   
 वड॑बायाम् । नीति॑ । अ॒मा॒र्ट्॒ । इति॑ ।     
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -473,7 +492,11 @@ by means of the Agnistoma he grasped them.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॒द् वड॑बा द्वि॒रेताः +++(यतो अश्वगर्दभाभ्यां जनयति)+++।  
+</details>
 
+<details><summary>Keith</summary>
+
+Therefore the mare has double seed.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -491,10 +514,14 @@ by means of the Agnistoma he grasped them.
 तस्माद्बडबा द्विरेता द्वाभ्यामश्वगर्दभाभ्यां प्रजायते इति कृत्वा द्वे रेतसी अस्मा[स्मि]न्निषिच्येते इति द्विरेताः ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो॑ +++(अन्ये)+++ आ॒हु॒र् ओष॑धीषु न्य॑मा॒र्डिति॑ । 
+</details>
+
+<details><summary>Keith</summary>
+
+They also say, 'In the plants [2] he placed it.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -515,14 +542,17 @@ by means of the Agnistoma he grasped them.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॒द् ओष॑ध॒यो ऽन॑भ्यक्ता+++(→अकृतमैथुना)+++ रेभन्ति+++(→प्रथन्ते)+++ ।  
+</details>
 
+<details><summary>Keith</summary>
+
+Therefore plants, though not anointed, glisten.'
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्मा॒दोष॑ध॒योऽन॑भ्यक्ता रेभन्ति ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -537,7 +567,11 @@ by means of the Agnistoma he grasped them.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो॑ आ॒हु॒ᳶ प्र॒जासु॑ न्य॑मा॒र्डिति ।   
+</details>
 
+<details><summary>Keith</summary>
+
+They also say, 'He placed it in offspring.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -559,11 +593,15 @@ by means of the Agnistoma he grasped them.
 तस्मा॑द् य॒मौ जा॑येते ।+++(४)+++ 
 </details>
 
+<details><summary>Keith</summary>
+
+Therefore twins are born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑द्य॒मौ जा॑येते ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -575,27 +613,20 @@ by means of the Agnistoma he grasped them.
 तस्माद्यमौ प्रजासु प्रजायेते, रेतोद्वयस्य विद्यमानत्वात् ।
 </details>
 
-<details><summary>Keith</summary>
-
-When he grasped them the mule escaped. Following it he took its seed,  
-and placed it in the ass. Therefore the ass has double seed.  
-They also say, 'He placed it in the mare.' Therefore the mare has double seed.  
-They also say, 'In the plants [2] he placed it.' Therefore plants, though not anointed, glisten.  
-They also say, 'He placed it in offspring.' Therefore twins are born.
-</details>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॑द् अश्वत॒रो न प्र जा॑यत ।   
+</details>
+
+<details><summary>Keith</summary>
+
+Therefore the mule has no offspring, for his seed has been taken from him.
 </details>
  
 <details><summary>मूलम्</summary>
 
 तस्मा॑दश्वत॒रो न प्र जा॑यत ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -610,7 +641,11 @@ They also say, 'He placed it in offspring.' Therefore twins are born.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्त॑-रेता॒ हि तस्मा॑द् ब॒र्हिष्य्+++(→यज्ञे दक्षिणादौ)+++ अन॑वकॢप्तः ।  
+</details>
 
+<details><summary>Keith</summary>
+
+Therefore he is not suitable for the sacrifice,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -618,11 +653,9 @@ They also say, 'He placed it in offspring.' Therefore twins are born.
 आत्त॑रेता॒ हि तस्मा॑द्ब॒र्हिष्यन॑वकॢप्तः ।
 </details>
 
-
 <details><summary>पद-पाठः</summary>
 
 आत्त॑रेता॒ इत्यात्त॑-रे॒ताः॒। हि । तस्मा॑त् । ब॒र्हिषि॑ । अन॑वकॢप्त॒ इत्यन॑व-कॢ॒प्तः॒ ।     
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -630,27 +663,20 @@ They also say, 'He placed it in offspring.' Therefore twins are born.
 तदेवाह - आत्तरेता हीति । हेतौ हिशब्दः । तस्मादेव बर्हिषि यज्ञे अश्वतरोनवकॢप्तः दक्षिणादौ योग्यतां न भजते, आत्तरेतस्त्वेनासारत्वात् ॥
 </details>
 
-
-<details><summary>Keith</summary>
-
-Therefore the mule has no offspring, for his seed has been taken from him.  
-Therefore he is not suitable for the sacrifice, but is suitable if there is a sacrifice when one gives (to the priests) all one's goods or a thousand, for he escaped.
-</details>
-
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒र्व॒-वे॒द॒से+++(=धनाय [यज्ञाय])+++ वा॑, स॒हस्रे॑+++(→सहस्रदक्षिणाय)+++  वाऽव॑क्ल्प्तः। 
+</details>
 
+<details><summary>Keith</summary>
+
+but is suitable if there is a sacrifice when one gives (to the priests) all one's goods or a thousand,
 </details>
 
 <details><summary>मूलम्</summary>
 
 सर्व-वे॒दसे वा॑, स॒हस्रे॑  वाऽव॑क्ल्प्तः।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -663,17 +689,20 @@ Therefore he is not suitable for the sacrifice, but is suitable if there is a sa
 सहस्रदक्षिणत्वात्सहस्रमित्युपचारः, तत्रावकॢप्तः देय एव । गतिरनन्तरः ' इति गतेः प्रकृतित्वरत्वम् । 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(प्राकृतीर्दक्षिणा)+++ अति॒ ह्य् अप्र॑+++(प्ल)+++वत +++(विकृतियागेषु तु भवति)+++। +++('हि च' इति निघातप्रतिषेधः ।)+++
+</details>
+
+<details><summary>Keith</summary>
+
+for he escaped.
 </details>
 
 <details><summary>मूलम्</summary>
 
 अति॒ ह्यप्र॑वत ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -685,22 +714,34 @@ Therefore he is not suitable for the sacrifice, but is suitable if there is a sa
 हेतुमाह - अति ह्यप्रवतेति । 'हि च' इति निघातप्रतिषेधः । अयं च बर्हिष्यनवकॢप्तत्वे इतरत्र प्रदेयत्वे हेतुः । अग्निष्टोमदक्षिणाभूतगवादिसकाशात् निष्क्रान्तत्वात् तत्र तावदनवकॢप्तः सोयं 'गौश्चाश्वतरश्च' इति प्रकृतावाम्नानात् इह च प्रतिषिद्धत्वात् साप्तदश्यवत् विकृत्यर्थो भवति । तदिदमुक्तं - अति ह्यप्रवतेति । प्राकृतीर्दक्षिणा अतीत्य गतोयं इदानीं विकृत्यर्थोपि यदि न स्यात् आम्नानवैयर्थ्यं स्यात् । प्रासंगिकोयमश्वतरस्य क्षेपः ॥
 </details>
 
-
 ## प्राशस्त्यकथनम्
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वान् +++(स)+++ अ॒ग्नि॒ष्टो॒मेन॒ यज॑ते+++(→यजेत)+++ - प्राजा॑ताᳶ प्र॒जा ज॒नय॑ति॒, परि॒ प्रजा॑ता गृह्णाति।  
+य ए॒वव्ँ वि॒द्वान् +++(स)+++ अ॒ग्नि॒ष्टो॒मेन॒ यज॑ते+++(→यजेत)+++ - प्राजा॑ताᳶ प्र॒जा ज॒नय॑ति॒,
+</details>
 
+<details><summary>Keith</summary>
+
+He who knowing thus sacrifices with the Agnistoma begets unborn offspring and grasps those that are born.
 </details>
 
 <details><summary>मूलम्</summary>
 
-य ए॒वव्ँवि॒द्वान् अ॒ग्नि॒ष्टो॒मेन॒ यज॑ते प्राजा॑ताᳶ प्र॒जा ज॒नय॑ति॒ परि॒ प्रजा॑ता गृह्णाति॒   
-तस्मा॑दाहुर् - ज्येष्ठय॒ज्ञ इति॑।  
+य ए॒वव्ँवि॒द्वान् अ॒ग्नि॒ष्टो॒मेन॒ यज॑ते प्राजा॑ताᳶ प्र॒जा ज॒नय॑ति॒ परि॒ प्रजा॑ता गृह्णाति॒
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>परि॒ प्रजा॑ता गृह्णाति।</details>
+
+<details><summary>Keith</summary>
+
+Therefore they say, 'It is the best of sacrifices [3].'
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मा॑दाहुर् - ज्येष्ठय॒ज्ञ इति॑।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
@@ -716,35 +757,34 @@ Therefore he is not suitable for the sacrifice, but is suitable if there is a sa
 तस्मादाहुरिति । यस्मादेवं प्रजासृष्ट्यर्थं प्रजापतिरनेनायजत तस्मादिममग्निष्टोमं ज्येष्ठयज्ञमाहुः। ज्येष्ठस्य प्रशस्तस्य प्रजापतेः यज्ञ इति कृत्वा । 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑ति॒र् वा+++(वै)+++व ज्येष्ठः॑ ।   
 स ह्य् ए॑तेनाऽऽग्रे ऽय॑जत । +++(अतो ऽग्निष्ठोमो ज्येष्ठः।)+++
 </details>
 
+<details><summary>Keith</summary>
+
+Prajapati indeed is the best, for he sacrificed with it first.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति॒र्वाव ज्येष्ठः॑ ।  
-
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-
 प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । वाव । ज्येष्ठः॑ ।   
 सः । हि । ए॒तेन॑ । अग्रे॑ । अय॑जत ।      
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तदेवाह - प्रजापतिर्वावेत्यादि ।
 </details>
 
-
 <details><summary>मूलम्</summary>
-
 
 स ह्ये॑तेनाग्रेऽय॑जत ।
 </details>
@@ -758,23 +798,16 @@ Therefore he is not suitable for the sacrifice, but is suitable if there is a sa
 अग्र इतीदानीमधिकं स्यात्; तस्मादन्यथा व्याख्यायते - ज्येष्ठः प्रथमः ज्येष्ठश्चासौ यज्ञश्चेति ज्येष्ठयज्ञः । प्राथम्ये हेतुमाह - यस्मात्प्रजापतिरनेनाग्रे प्रथममयजत ततोन्यः क्रतुभिः अयष्ट तस्मात् अयं प्रथमो यज्ञानामासीदिति, यथोक्तं - 'एष वाव प्रथमो यज्ञो यज्ञानाम्' इति । इदमिदानीं किमर्थं प्रजापतिर्वाव ज्येष्ठ इति? नानेन ज्येष्ठपदं व्याख्यायते, अपि तर्हि? वृद्धतमत्वं प्रजापतेरुच्यते; यथाऽनेन कृतं तथाऽन्यैः कर्तव्यमिति प्रतिपादनार्थम् । तस्मादनेनानिष्ट्वा अन्येन विकारेण न यजेतेति । 'हि च' इति निघाताभावः ॥
 </details>
 
-
-
-<details><summary>Keith</summary>
-
-He who knowing thus sacrifices with the Agnistoma begets unborn offspring and grasps those that are born. Therefore they say, 'It is the best of sacrifices [3].'
-</details>
-
-
-
 ## स्तोमोत्पत्तिः
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तिर् अकामयत । प्र जा॑ये॒येति॑।  
+</details>
 
+<details><summary>Keith</summary>
 
+Prajapati desired, 'May I have offspring.'
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -783,18 +816,19 @@ He who knowing thus sacrifices with the Agnistoma begets unborn offspring and gr
 प्रेति॑ । जा॒ये॒य॒ । इति॑ ।   
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6प्रजापतिरकामयतेत्यादि ॥  स्तोमानामुत्पत्तिरिहोच्यते । प्रासङ्गिकमग्न्यादीनाम् ।
-
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मु॑ख॒तस् त्रि॒वृत॒न्+++(=नवस्तोत्रीयं स्तोमं, त्र्यवयवास्तिस्रो वृत्तयोस्येति)+++ निर् अ॑मिमीत ।  
+</details>
 
+<details><summary>Keith</summary>
+
+He meted out the Trivrt from his mouth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -812,18 +846,20 @@ He who knowing thus sacrifices with the Agnistoma begets unborn offspring and gr
 त्रिवृतं नवस्तोत्रीयं स्तोमं मुखतो निरमिमीत । 'अपादाने चाहीयरुहोः' इति तसिः । त्र्यवयवास्तिस्रो वृत्तयोस्येति त्रिवृत्, त्रिचक्रादित्वादुत्तरपदान्तादोत्तत्वम् ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तम् अ॒ग्निर् दे॒वताऽन्व॑सृज्यत, गाय॒त्री छन्दो॑, रथन्त॒रँ साम॑, ब्राह्म॒णो म॑नु॒ष्या॑णाम्, अ॒जᳶ प॑शू॒नाम्। 
 </details>
 
+<details><summary>Keith</summary>
+
+After it the god Agni was created, the Gayatri metre, the Rathantara Saman, of men the Brahman, of cattle the goat;
+</details>
 
 <details><summary>मूलम्</summary>
 
 तम॒ग्निर्दे॒वतान्व॑सृज्यत गाय॒त्री छन्दो॑ रथन्त॒रँ साम॑ ब्राह्म॒णो म॑नु॒ष्या॑णाम॒जᳶ प॑शू॒नाम्।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -840,6 +876,11 @@ He who knowing thus sacrifices with the Agnistoma begets unborn offspring and gr
 तस्मा॒त् ते मुख्याः॑। 
 </details>
 
+<details><summary>Keith</summary>
+
+therefore are they the chief,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒त्ते मुख्याः॑ ।
@@ -850,16 +891,19 @@ He who knowing thus sacrifices with the Agnistoma begets unborn offspring and gr
 तस्मा॑त् । ते । मुख्याः॑ ।     
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मुख्याः प्रधाना इत्यर्थः । 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुख॒तो ह्यसृ॑ज्य॒न्त । +++("अग्न॒ आ या॑हि" इत्यादेस् त्र्यर्चस्य भवति।)+++
+</details>
+
+<details><summary>Keith</summary>
+
+for they were produced from the mouth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -877,20 +921,16 @@ He who knowing thus sacrifices with the Agnistoma begets unborn offspring and gr
 तमेव हेतुमाह -मुखत इति । मुखे भवत्वान्मुख्यस्य च प्रधानत्वात् । दिगादित्वाद्यत् । यतो हि यत् निर्मीयते तत्र भवति तत् । न हि निष्क्रमणमात्रं निर्माणमिति । पूर्ववन्निघाताभावः ॥
 </details>
 
-<details><summary>Keith</summary>
-
-Prajapati desired, 'May I have offspring.'  
-He meted out the Trivrt from his mouth.  
-After it the god Agni was created, the Gayatri metre, the Rathantara Saman, of men the Brahman, of cattle the goat; therefore are they the chief, for they were produced from the mouth. 
-
-</details>
 _____
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उर॑सो बा॒हुभ्या॑म् पञ्चद॒शन् +++(स्तोत्रीयं)+++ निर् अ॑मिमीत ।  
+</details>
 
+<details><summary>Keith</summary>
+
+From the breast and arms he meted out the Pañcadaśa Stoma.
 </details>>
 
 <details><summary>मूलम्</summary>
@@ -913,11 +953,15 @@ _____
 तम् इन्द्रो॑ दे॒वताऽन्व॑सृज्यत - त्रि॒ष्टुप् छन्दो॑, बृ॒हत् साम॑, राज॒न्यो॑ मनु॒ष्या॑णा॒म्, अविᳶ॑ पशू॒नाम्।  
 </details>
 
+<details><summary>Keith</summary>
+
+After it the god Indra was created, the Tristubh metre, the Brhat [4] Saman, of men the Rajanya, of cattle the sheep.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तमिन्द्रो॑ दे॒वतान्व॑सृज्यत, त्रि॒ष्टुप्छन्दो॑, बृ॒हत्साम॑ , राज॒न्यो॑ मनु॒ष्या॑णा॒म्, अविᳶ॑ पशू॒नाम् ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -932,7 +976,11 @@ _____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॒त्ते वी॒र्या॑वन्तः। 
+</details>
 
+<details><summary>Keith</summary>
+
+There fore they are strong,
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -950,34 +998,27 @@ _____
 वी॒र्या॑द् ध्य् असृ॑ज्यन्त। +++("त्वामिद्धि हवा॑महे सा॒ता…")+++
 </details>
 
+<details><summary>Keith</summary>
+
+for they were created from strength.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वी॒र्या॑द्ध्यसृ॑ज्यन्त ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
 वी॒र्या॑त् । हि । असृ॑ज्यन्त ।     
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तमेव हेतुमाह - वीर्यादिति । वीर्यवतः स्थानादित्यर्थः । वीर्यवत्त्वातिशयप्रदर्शनार्थं ताच्छब्द्यम् । लुप्तमत्वर्थीयो वा ॥
 </details>
 
-
-
-<details><summary>Keith</summary>
-
-From the breast and arms he meted out the Pañcadaça Stoma.  
-After it the god Indra was created, the Tristubh metre, the Brhat [4] Saman, of men the Rajanya, of cattle the sheep.  There fore they are strong, for they were created from strength.
-
-</details>
 _____
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -985,6 +1026,10 @@ _____
 मध्य॒तस् स॑प्तद॒शन् +++(स्तोत्रीयं)+++ निर् अ॑मिमीत ।  
 </details>
 
+<details><summary>Keith</summary>
+
+From the middle he meted out the Saptadaśa Stoma.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1003,8 +1048,12 @@ _____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-
 तव्ँ विश्वे॑ दे॒वा दे॒वता॒ अन्व् अ॑सृज्यन्त, जग॑ती॒ छन्दो॑, वैरू॒पँ साम॒, वैश्यो॑ मनु॒ष्या॑णा॒ङ्, गावᳶ॑ पशू॒नाम्।  
+</details>
+
+<details><summary>Keith</summary>
+
+After it the All-gods as deities were created, the Jagati metre, the Vairupa Saman, of men the Vaiśya, of cattle cows.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1025,7 +1074,11 @@ _____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॒त् त आ॒द्याः॑+++(=उपजीव्याः)+++। अन्न॒-धाना॒द् ध्य् असृ॑ज्यन्त।  
+</details>
 
+<details><summary>Keith</summary>
+
+Therefore are they to be eaten, for they were created from the receptacle of food.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1047,7 +1100,11 @@ _____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॒द् भूयाँ॑सो॒ +++(स्तोत्राणि)+++ ऽन्येभ्यः॑।  
+</details>
 
+<details><summary>Keith</summary>
+
+Therefore are they more numerous than others,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1070,6 +1127,11 @@ _____
 भूयि॑ष्ठा॒ हि दे॒वता॒ अन्व् असृ॑ज्यन्त ।
 </details>
 
+<details><summary>Keith</summary>
+
+for they were created after the most numerous of the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भूयि॑ष्ठा॒ हि दे॒वता॒ अन्वसृ॑ज्यन्त ।
@@ -1080,25 +1142,17 @@ _____
 तमेव हेतुमाह - यस्मात् भूयिष्ठाभिर्बहुतमाभिः देवताभिर्विश्वेदेवाख्याभिस्सहासृज्यन्त जगत्यादयः तस्मात् भूयांसोन्येभ्यः, अन्ये त्वेकैकामनूत्पन्ना इति नातिभूयांसः ॥
 </details>
 
-
-<details><summary>Keith</summary>
-
-From the middle he meted out the Saptadaça Stoma.  
-After it the All-gods as deities were created, the Jagati metre, the Vairupa Saman, of men the Vaiçya, of cattle cows.  
-
-Therefore are they to be eaten, for they were created from the receptacle of food.  
-Therefore are they more numerous than others, for they were created after the most numerous of the gods. 
-</details>
 _____
-
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प॒त्त+++(=पद्भ्यां)+++ ए॑क-विँ॒शन् निर् अ॑मिमीत ।  
 </details>
 
+<details><summary>Keith</summary>
+
+From his feet he meted out the Ekavinśa Stoma.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1120,6 +1174,11 @@ _____
 तम॑नु॒ष्टुप्छन्दो॑ऽन्व॑सृज्यत। +++(सम्पादकटिप्पनी -  सन्धिः परीक्षणीयः)+++,  
 वै॒रा॒जँ॒ साम॑,  
 शू॒द्रो म॒नुष्या॑णाम्, अश्वᳶ॑ पशू॒नाम् ।  +++("पिब सोमम् इन्द्र!?")+++ 
+</details>
+
+<details><summary>Keith</summary>
+
+After it the Anustubh metre [5] was created, the Vairaja Saman, of men the Śudra, of cattle the horse.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1145,6 +1204,11 @@ _____
 तस्मा॒त् तौ भू॑त-सङ्क्रा॒मिणौ॑ अश्व॑श् च शू॒द्रश् च॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Therefore the two, the horse and the Śudra, are dependent on others.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒त्तौ भू॑तसङ्क्रा॒मिणौ॑ अश्व॑श्च शू॒द्रश्च॑ ।
@@ -1155,7 +1219,6 @@ _____
 तस्मा॑त् । तौ । भू॒त॒स॒ङ्क्रा॒मिणा॒विति॑ भूत-स॒ङ्क्रा॒मिणौ॑ । अश्वः॑ । च॒ । शू॒द्रः । च॒ ।     
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तौ भूतसंक्रामणौ विदितावेतावनन्तरोक्तावश्वशूद्रौ भूतानां संक्रामयितारौ वोढृत्वेन देशाद्देशान्तरं प्रापयतः कृष्यादिव्यापारद्वारा इत्यर्थः । वक्ष्यमाणः 'पत्तो ह्यसृज्येताम्' इति हेतुः अत्रापि द्रष्टव्यः ।
@@ -1164,7 +1227,11 @@ _____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॑च् छू॒द्रो य॒ज्ञे +++(दक्षिणात्वेन)+++ ऽन॑वकॢप्तः । 
+</details>
 
+<details><summary>Keith</summary>
+
+Therefore the Śudra is not fit for the sacrifice,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1185,6 +1252,11 @@ _____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(यतो)+++ न हि दे॒वता॒ अन्वसृ॑ज्यत । 
+</details>
+
+<details><summary>Keith</summary>
+
+for he was not created after any gods.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1208,6 +1280,11 @@ _____
 तस्मा॒त् पादा॒व् उप॑ जीवतः +++(शूद्राश्वौ)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+Therefore they depend on their feet,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒त्पादा॒वुप॑ जीवतः ।
@@ -1228,6 +1305,11 @@ _____
 प॒त्तो ह्य् असृ॑ज्येताम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+for they were created from the feet.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒त्तो ह्यसृ॑ज्येताम् ।
@@ -1243,24 +1325,17 @@ _____
 कस्मादित्याह - पत्तो हीति ॥
 </details>
 
-
-
-<details><summary>Keith</summary>
-
-From his feet he meted out the Ekavinça Stoma.  
-After it the Anustubh metre [5] was created, the Vairaja Saman, of men the Çudra, of cattle the horse.  
-Therefore the two, the horse and the Çudra, are dependent on others.  
-Therefore the Çudra is not fit for the sacrifice, for he was not created after any gods.   
-Therefore they depend on their feet, for they were created from the feet. 
-</details>
 _____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(नवत्वान्वयात्)+++ प्रा॒णा वै त्रि॒वृत्+++(स्तोमानि)+++ ।  
-
 </details>
 
+<details><summary>Keith</summary>
+
+The Trivrt is the breaths;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1280,7 +1355,11 @@ _____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(दिवसैः)+++ अ॒र्ध॒मा॒साᳶ प॑ञ्च-द॒शः +++(स्तोत्रम्)+++ ।  
+</details>
 
+<details><summary>Keith</summary>
+
+the Pañcadaśa the half-months;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1301,7 +1380,11 @@ _____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जा-प॑तिस् सप्त-द॒शः +++(स्तोत्रम्)+++।  
+</details>
 
+<details><summary>Keith</summary>
+
+the Saptadaśa Prajapati;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1324,6 +1407,11 @@ _____
 त्रय॑ इ॒मे लो॒काः ।
 </details>
 
+<details><summary>Keith</summary>
+
+these worlds are three;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रय॑ इ॒मे लो॒काः ।
@@ -1342,14 +1430,17 @@ _____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒साव् आ॑दि॒त्य ए॑कविँ॒शः +++(स्तोमः)+++।
+</details>
 
+<details><summary>Keith</summary>
+
+the Ekavinśa is the sun yonder.
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒सावा॑दि॒त्य ए॑कविँ॒शः ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -1361,10 +1452,14 @@ _____
 आदित्यः एकविंशत्यन्वयादेकविंशः स्तोमः ॥
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒तस्मि॒न् +++(अग्निष्टोमे)+++ वा ए॒ते +++(प्राणादय आदित्यपर्यन्ताश्)+++ श्रि॒ताः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+In this they rest,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1387,11 +1482,15 @@ _____
 ए॒तस्मि॒न् प्रति॑ष्ठिताः ।
 </details>
 
+<details><summary>Keith</summary>
+
+in this they find support.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒तस्मि॒न्प्रति॑ष्ठिताः ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -1407,14 +1506,17 @@ _____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य ए॒वव्ँ वेदै॒तस्मि॑न्न् ए॒व श्र॑यते ।  ए॒तस्मि॒न् प्रति॑ तिष्ठति ॥
+</details>
 
+<details><summary>Keith</summary>
+
+He who knows thus rests on this, finds, support in this.
 </details>
 
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वेदै॒तस्मि॑न्ने॒व श्र॑यत ए॒तस्मि॒न्प्रति॑ तिष्ठति ॥ 
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -1428,15 +1530,3 @@ _____
 इति सप्तमे प्रथमे प्रथमोनुवाकः ॥
 </details>
 
-
-<details><summary>Keith</summary>
-
-The Trivrt is the breaths;  
-the Pañcadaça the half-months;  
-the Saptadaça Prajapati;  
-these worlds are three;  
-the Ekavinça is the sun yonder.  
-In this they rest, in this they find support.  
-He who knows thus rests on this, finds, support in this.
-
-</details>

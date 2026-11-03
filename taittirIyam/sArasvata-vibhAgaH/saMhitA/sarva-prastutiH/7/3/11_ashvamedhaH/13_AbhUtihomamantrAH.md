@@ -20,14 +20,34 @@ title = "१३ आभूतिहोममन्त्राः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ मे॑ गृ॒हा **भ॑व॒न्त्व्** आ प्र॒जा म॒   
-आ मा॑ य॒ज्ञो **वि॑शतु** वी॒र्या॑वान् ।  
-आपो॑ दे॒वीर् य॒ज्ञिया॒ मा **ऽऽवि॑शन्तु**  
-स॒हस्र॑स्य मा भू॒मा +++(यज्ञो)+++ **मा प्र हा॑सीत्** ।
+आ मा॑ य॒ज्ञो **वि॑शतु** वी॒र्या॑वान् ।
+</details>
+
+<details><summary>Keith</summary>
+
+May a house be mine, may offspring be mine;  
+May the strong sacrifice come to me.
 </details>
 
 <details><summary>मूलम्</summary>
 
-आ मे॑ गृ॒हा भ॑व॒न्त्वा प्र॒जा म॒ आ मा॑ य॒ज्ञो वि॑शतु वी॒र्या॑वान् ।  
+आ मे॑ गृ॒हा भ॑व॒न्त्वा प्र॒जा म॒ आ मा॑ य॒ज्ञो वि॑शतु वी॒र्या॑वान् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आपो॑ दे॒वीर् य॒ज्ञिया॒ मा **ऽऽवि॑शन्तु**  
+स॒हस्र॑स्य मा भू॒मा +++(यज्ञो)+++ **मा प्र हा॑सीत्** ।
+</details>
+
+<details><summary>Keith</summary>
+
+May the divine and holy waters come to me;  
+May the abundance of a thousandfold (wealth) fail me not.
+</details>
+
+<details><summary>मूलम्</summary>
+
 आपो॑ दे॒वीर्य॒ज्ञिया॒ मा वि॑शन्तु स॒हस्र॑स्य मा भू॒मा मा प्र हा॑सीत् ।
 </details>
 
@@ -50,14 +70,34 @@ title = "१३ आभूतिहोममन्त्राः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **आ** मे॒ ग्रहो॑ **भव॒त्व्** आ पु॑रो॒रुख्+++(=ग्रहणमन्त्रः)+++  
-स्तु॑त+++(=स्तोत्र)+++-श॒स्त्रे मा **वि॑शताँ** स॒मीची॑ ।  
-आ॒दि॒त्या रु॒द्रा वस॑वो मे सद॒स्याः॑   
-स॒हस्र॑स्य मा भू॒मा +++(यज्ञो)+++ **मा प्र हा॑सीत्** ।
+स्तु॑त+++(=स्तोत्र)+++-श॒स्त्रे मा **वि॑शताँ** स॒मीची॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+May the cup be mine; may the Puroruc be mine;  
+May the chant and the Śastra come to me in union.
 </details>
 
 <details><summary>मूलम्</summary>
 
-आ मे॒ ग्रहो॑ भव॒त्वा पु॑रो॒रुक्स्तु॑तश॒स्त्रे मा वि॑शताँ स॒मीची॑ ।  
+आ मे॒ ग्रहो॑ भव॒त्वा पु॑रो॒रुक्स्तु॑तश॒स्त्रे मा वि॑शताँ स॒मीची॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒दि॒त्या रु॒द्रा वस॑वो मे सद॒स्याः॑   
+स॒हस्र॑स्य मा भू॒मा +++(यज्ञो)+++ **मा प्र हा॑सीत्** ।
+</details>
+
+<details><summary>Keith</summary>
+
+May the Adityas, the Rudras, the Vasus, be present at the rite;  
+May the abundance of a thousandfold (wealth) fail me not.
+</details>
+
+<details><summary>मूलम्</summary>
+
 आ॒दि॒त्या रु॒द्रा वस॑वो मे सद॒स्याः॑ स॒हस्र॑स्य मा भू॒मा मा प्र हा॑सीत् ।
 </details>
 
@@ -69,14 +109,33 @@ title = "१३ आभूतिहोममन्त्राः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ मा॑ ऽग्निष्टो॒मो **वि॑शतु**, +उ॒क्थ्य॑श् च+   
-अतिरा॒त्रो मा **वि॑शत्व्** +++(प्र+)+++आपि-शर्व॒रः ।  
-ति॒रो-अ॑ह्निया मा॒ **सुहु॑ता॒ आ वि॑शन्तु** +++(यज्ञाः)+++  
-स॒हस्र॑स्य मा भू॒मा +++(यज्ञः)+++ मा॒ प्र हा॑सीत् ॥  
+अतिरा॒त्रो मा **वि॑शत्व्** +++(प्र+)+++आपि-शर्व॒रः ।
+</details>
+
+<details><summary>Keith</summary>
+
+May the Agnistoma, come to me, and the Ukthya;  
+May the nocturnal Atiratra come to me.
 </details>
 
 <details><summary>मूलम्</summary>
 
-आ मा॑ग्निष्टो॒मो वि॑शतू॒क्थ्य॑श्चातिरा॒त्रो मा वि॑शत्वापिशर्व॒रः ।   
+आ मा॑ग्निष्टो॒मो वि॑शतू॒क्थ्य॑श्चातिरा॒त्रो मा वि॑शत्वापिशर्व॒रः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ति॒रो-अ॑ह्निया मा॒ **सुहु॑ता॒ आ वि॑शन्तु** +++(यज्ञाः)+++  
+स॒हस्र॑स्य मा भू॒मा +++(यज्ञः)+++ मा॒ प्र हा॑सीत् ॥
+</details>
+
+<details><summary>Keith</summary>
+
+May the (draughts) which have stood over night, well offered, come to me; May the abundance of a thousandfold (wealth) fail me not.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ति॒रोअ॑ह्निया मा॒ सुहु॑ता॒ आ वि॑शन्तु स॒हस्र॑स्य मा भू॒मा मा॒ प्र हा॑सीत् ॥ [34]
 </details>
 

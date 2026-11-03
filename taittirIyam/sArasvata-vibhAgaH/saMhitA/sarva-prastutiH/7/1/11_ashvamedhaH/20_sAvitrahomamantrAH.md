@@ -15,7 +15,32 @@ title = "२० सावित्रहोममन्त्राः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अथाश्वस्य सावित्राणि सप्त जुहोति)+++  
-अ॒ग्नये॒ स्वाहा॑ । वा॒यवे॒ स्वाहा॑ । सूर्या॑य॒ स्वाहा॑ ।  
+अ॒ग्नये॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Agni hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वा॒यवे॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Vayu hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सूर्या॑य॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Surya hail!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -40,14 +65,31 @@ title = "२० सावित्रहोममन्त्राः"
 
 +++(हे अश्व!)+++ ऋ॒तम् अ॑सि । ऋ॒तस्य॒र्तम् अ॑सि ।
 स॒त्यम् अ॑सि । स॒त्यस्य॑ स॒त्यम् अ॑सि ।
-ऋ॒तस्य॒ पन्था॑ असि ।  
-दे॒वाना॑ञ् छा॒या, ऽमृ॑तस्य॒ नाम॑, तत् स॒त्यय्ँ यत् त्वम् प्र॒जाप॑ति॒र् असि।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art holy order, thou art the holy order of holy order; thou art truth, thou art the truth of truth!
+</details>
 
 <details><summary>मूलम्</summary>
 
 ऋ॒तम॑सि । ऋ॒तस्य॒र्तम॑सि । स॒त्यम॑सि । स॒त्यस्य॑ स॒त्यम॑सि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऋ॒तस्य॒ पन्था॑ असि ।  
+दे॒वाना॑ञ् छा॒या, ऽमृ॑तस्य॒ नाम॑, तत् स॒त्यय्ँ यत् त्वम् प्र॒जाप॑ति॒र् असि।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the path of holy order, the shadow of the gods, the name of immortality; thou art truth, thou art Prajapati.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ऋ॒तस्य॒ पन्था॑ असि ।
 दे॒वाना॑ञ् छा॒या , ऽमृत॑स्य॒ नाम॒ ,
 तत्स॒त्यय्ँ यत्त्वम् , प्र॒जाप॑ति॒रसि ।
@@ -59,8 +101,6 @@ title = "२० सावित्रहोममन्त्राः"
 
 ऋ॒तम् । अ॒सि॒ । ऋ॒तस्य॑ । ऋ॒तम् । अ॒सि॒ । स॒त्यम् । अ॒सि॒ । स॒त्यस्य॑ । स॒त्यम् । अ॒सि॒ ।
 ऋ॒तस्य॑ । पन्थाः॑ । अ॒सि॒ । दे॒वाना॑म् । छा॒या । अ॒मृत॑स्य । नाम॑ ।   तत् । स॒त्यम् । यत् । त्वम् । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । असि॑ ।
-
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -80,10 +120,17 @@ title = "२० सावित्रहोममन्त्राः"
 </details>
 
 
+<details><summary>Keith</summary>
+
+When on him as on a steed in swift movements,  
+The folk of the sky vie with the sun;  
+Choosing the waters the sage becometh pure,  
+Like a beast the busy guardian that goeth around.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अधि॒ यद॑स्मिन्वा॒जिनी॑व॒ शुभ॒स्स्पर्ध॑न्ते॒ दिव॒स्सूर्ये॑ण॒ विशो॒ऽपो वृ॑णा॒नᳶ प॑वते क॒व्यन्प॒शुन्न गो॒पा इर्य॒ᳶ परि॑ज्मा ॥ 52 ॥  
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -102,7 +149,6 @@ title = "२० सावित्रहोममन्त्राः"
 
 प्रपाठकश्च समाप्तः ॥
 ओम् ॥  
-
 </details>
 
 

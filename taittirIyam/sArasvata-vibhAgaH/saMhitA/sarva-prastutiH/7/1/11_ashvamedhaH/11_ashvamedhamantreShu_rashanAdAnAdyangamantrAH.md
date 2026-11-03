@@ -1,15 +1,11 @@
 +++
 title = "११ अश्वमेधमन्त्रेषु रशनादानाद्य्-अङ्गमन्त्राः"
-
 +++
-
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 २ त्रिष्टुप् । विश्वेदेवा ऋषयः
-
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -18,10 +14,10 @@ title = "११ अश्वमेधमन्त्रेषु रशनाद
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-<details open><summary><h2>देवस्य त्वा सवितुः ...{Loading}...</h2></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
 पू॒ष्णो हस्ता॑भ्याम्…
 </details>
@@ -41,7 +37,7 @@ with the hands of Pusan.
 
 <details><summary>पद-पाठः</summary>
 
-दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
+3M । दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -57,7 +53,7 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-</details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -67,7 +63,7 @@ ______________
 
 <details><summary>Keith</summary>
 
-I grasp thee.
+I take thee with the arms of the Aśvins, with the hands of Pusan.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -75,13 +71,11 @@ I grasp thee.
 आ द॑दे ।
 </details>
 
-<details><summary>Keith</summary>
-
-I take thee 
-</details>
-
-
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/02_imAmagRbhNan_rashanAmRtasya.md">
+
+<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
+
+इ॒माम॑गृभ्णन् रश॒नामृ॒तस्य॒ पूर्व॒ऽआयु॑षि वि॒दथे॑षु क॒व्या। सा नो॑ऽअ॒स्मिन्त्सु॒तऽआब॑भूवऽऋ॒तस्य॒ साम॑न्त्स॒रमा॒रप॑न्ती ॥२ ॥
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -91,91 +85,40 @@ I take thee
 ऋ॒तस्य॒ साम॑न्थ्+++(म्नि [समाप्तौ])+++ स॒रम्+++(=सरणं)+++ आ॒रप॑न्ती+++(=अभिवदन्ती)+++ ।
 </details>
 
-
-<details><summary>मूलम्</summary>
-
-इ॒माम॑गृभ्णन्रश॒नामृ॒तस्य॒ पूर्व॒ आयु॑षि वि॒दथे॑षु क॒व्या ।  
-तया॑ दे॒वास् सु॒तमा ब॑भूवुर् ,
-ऋ॒तस्य॒ साम॑न्त्स॒रमा॒रप॑न्ती ।
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-इ॒माम् । अ॒गृ॒भ्ण॒न् । र॒श॒नाम् । ऋ॒तस्य॑ । पूर्वे॑ । आयु॑षि । वि॒दथे॑षु । क॒व्या ॥
-तया॑ । दे॒वाः । सु॒तम् । एति॑ । ब॒भू॒वुः॒ । ऋ॒तस्य॑ । साम॑न् । स॒रम् । आ॒रप॒न्तीत्या॑-रप॑न्ती ॥ 
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-2आदायाभिमन्त्रयते - इमामिति त्रिष्टुभा ॥ 
-
-इयमपि अग्निकाण्डे व्याख्याता ।
-ऋतस्य यज्ञस्य रशानां बन्धनीयां पूर्वे कव्याः कवयः । यद्वा - कवनीयेषु स्तोतव्येषु विदथेषु यज्ञेषु आयुरर्थमगृह्णन् गृहीतवन्तः ।
-
-या ऋतस्य यज्ञस्य सामन् साम्नि समाप्तौ सरं सरणं आरपन्ती अभिवदन्ती भवति । रपतिश्शब्दकर्मा । शीघ्रं मया यज्ञं संपादयतेति । तया हि देवास्सुतं सोममाबभूवुः आभिमुख्येन प्राप्नुवन् । तादृशीमिमां गृह्णामीति ॥
-</details>
-
 <details><summary>Keith</summary>
+
 This bond of order they grasped  
 At their assemblies in ages gone by, the sages;  
 Therewith the gods mastered the pressed (juice),  
 In the Saman of order declaring the stream.
 </details>
+</details>
+
 </div>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/03_abhidhA-asi_bhuvanamasi.md">
 
+<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
-## विनियोगः
-
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-अश्वमभिदधाति।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अ॒भि॒धा अ॑सि । +++(यज्ञसाधनत्वेन)+++ भुव॑नम् असि । य॒न्तासि॑ । ध॒र्ताऽसि॑ ।
-
-
-सो॒॑ऽग्निव्ँ वै॑श्वान॒रँ सप्र॑थसङ्+++(=सविस्तरं)+++ गच्छ॒ स्वाहा॑कृतः । 
-</details>
-
-<details><summary>मूलम्</summary>
-
-अ॒भि॒धा अ॑सि । भुव॑नमसि । य॒न्तासि॑ । ध॒र्ताऽसि॑ ।   
-
-सो॑ऽग्निव्ँ वै॑श्वान॒रँ सप्र॑थसङ्गच्छ॒ स्वाहा॑कृतः ।
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-अ॒भि॒धा इत्य॑भि-धाः । अ॒सि॒ । भुव॑नम् । अ॒सि॒ । य॒न्ता । अ॒सि॒ । ध॒र्ता । अ॒सि॒ ।   
-
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-3तया अश्वमभिदधाति - अभिधा असीति ॥ अभिपूर्वो दधातिः बन्धने वर्तते, कर्मणि क्विप्, । बन्धनीयस्त्वमसि । अत एव सर्वं भुवनं सर्वं भूतजातं च त्वमसि । यज्ञसाधनत्वेन सर्वेषां धारकत्वात् । यन्ता यमयिता चासि सर्वस्य । अत एव धर्ता धारयिता चासि लोकस्य ।  
-
-स त्वं वैश्वानरं विश्वेषां नराणां स्वामित्वेन संबन्धिनं सप्रथसं प्रथसा विस्तरेण सहितं विश्वव्यापिनं अग्निं गच्छ । 'इयं वा अग्निर्वैश्वानरः' । स्वाहाकृतः स्वाहाकारेण संस्कृतः स्वाहाकारोच्चारणेन संस्कृतः । ब्राह्मणं च 'स्वाहाकृत इत्याह । होम एवास्यैषः ।' इति । स्वाहाशब्दस्योर्यादित्वेन गतित्वात् 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । निपाता आद्युदात्ताः ।
-</details>
-
+अ॒भि॒धाऽअ॑सि॒ भुव॑नमसि य॒न्तासि॑ ध॒र्त्ता। स त्वम॒ग्निं वै॑श्वान॒रँ सप्र॑थसं गच्छ॒ स्वाहा॑कृतः ॥३ ॥
 
 <details><summary>Keith</summary>
 
-Thou art surrounding; thou art the world; thou art the restrainer; thou art the supporter.
-
-Do thou go, with the cry of 'Hail!' to Agni Vaiçvanara, the extending.  
+Thou art surrounding; thou art the world; thou art the restrainer; thou art the supporter; do thou go, with the cry of 'Hail!' to Agni Vaiśvanara, the extending.
+</details>
 </details>
 
 </div>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
  
 पृ॒थि॒व्याय्ँ य॒न्ता राड्+++(=दीप्यमानः)+++ य॒न्ताऽसि॒  
 यम॑नो+++(=यमसाधनभूतः)+++, ध॒र्तासि॑ ध॒रुणः॑ ॥
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the restrainer, the ruler on earth; thou art the restrainer who dost restrain; thou art the supporter who dost support.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -193,26 +136,130 @@ Do thou go, with the cry of 'Hail!' to Agni Vaiçvanara, the extending.
 किञ्च - त्वमेव हि यन्ता नियन्ता मनुष्यादीनाम् । राट् दीप्यमानश्च पृथिव्यां अस्यामसि । अथ द्वितीयस्यामपि पृथिव्यां अन्तरिक्षे यन्ता नियन्ता ग्रहनक्षत्रादीनां च त्वमेवासि । यमनः यमसाधनभूतश्चासि । अथ तृतीयस्यामपि पृथिव्यां दिवि धर्ता धारयिता देवानां त्वमेवासि । धरुणो धारणशीलश्च त्वमेवासि । औणादिक उनप्रत्ययः । पृथिवीशब्दस्त्रिष्वपि लोकेषु वर्तते यथा - 'यो द्वितीयस्यां तृतीयस्यां पृथिव्याम्' इति ॥
 </details>
 
-<details><summary>Keith</summary>
-
-Thou art the restrainer, the ruler on earth;  
-thou art the restrainer who dost restrain; thou art the supporter who dost support.
-</details>
-
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथैनम् अभिप्रोक्षणेन प्रोक्षति।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कृ॒ष्यै त्वा॒ +++(प्रोक्षामि)+++
+</details>
+
+<details><summary>Keith</summary>
+
+For ploughing thee!
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कृ॒ष्यै त्वा॒ +++(प्रोक्षामि)+++, क्षेमा॑य त्वा +++(प्रोक्षामि)+++, र॒य्यै त्वा॒ +++(प्रोक्षामि)+++, पोषा॑य त्वा +++(प्रोक्षामि)+++,  
-पृथि॒व्यै त्वा॒  +++(प्रोक्षामि)+++, ऽन्तरि॑क्षाय त्वा +++(प्रोक्षामि)+++,  
-दि॒वे त्वा॑ +++(प्रोक्षामि)+++, स॒ते त्वा +++(प्रोक्षामि)+++, ऽस॑ते त्वा॒ +++(प्रोक्षामि)+++,  
-ऽद्भ्यस् त्वौष॑धीभ्यस् त्वा॒ +++(प्रोक्षामि)+++, विश्वे॑भ्यस् त्वा भू॒तेभ्यः॑ +++(प्रोक्षामि)+++॥ [40]  
+क्षेमा॑य त्वा +++(प्रोक्षामि)+++
+</details>
+
+<details><summary>Keith</summary>
+
+For comfort thee!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+र॒य्यै त्वा॒ +++(प्रोक्षामि)+++
+</details>
+
+<details><summary>Keith</summary>
+
+For wealth thee!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पोषा॑य त्वा +++(प्रोक्षामि)+++
+</details>
+
+<details><summary>Keith</summary>
+
+For increase thee!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पृथि॒व्यै त्वा॒  +++(प्रोक्षामि)+++
+</details>
+
+<details><summary>Keith</summary>
+
+For earth thee!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऽन्तरि॑क्षाय त्वा +++(प्रोक्षामि)+++
+</details>
+
+<details><summary>Keith</summary>
+
+For the atmosphere thee!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दि॒वे त्वा॑ +++(प्रोक्षामि)+++
+</details>
+
+<details><summary>Keith</summary>
+
+For sky thee!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒ते त्वा +++(प्रोक्षामि)+++
+</details>
+
+<details><summary>Keith</summary>
+
+For being thee!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऽस॑ते त्वा॒ +++(प्रोक्षामि)+++
+</details>
+
+<details><summary>Keith</summary>
+
+For not being thee!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऽद्भ्यस् त्वा +++(प्रोक्षामि)+++
+</details>
+
+<details><summary>Keith</summary>
+
+For the waters thee!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओष॑धीभ्यस् त्वा॒ +++(प्रोक्षामि)+++
+</details>
+
+<details><summary>Keith</summary>
+
+For the plants thee!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विश्वे॑भ्यस् त्वा भू॒तेभ्यः॑ +++(प्रोक्षामि)+++॥ [40]
+</details>
+
+<details><summary>Keith</summary>
+
+For all creatures thee!
 </details>
 
 <details><summary>मूलम् </summary>
@@ -220,9 +267,7 @@ thou art the restrainer who dost restrain; thou art the supporter who dost suppo
 कृ॒ष्यै त्वा॒ क्षेमा॑य त्वा र॒य्यै त्वा॒ पोषा॑य त्वा पृथि॒व्यै त्वा॒न्तरि॑क्षाय त्वा दि॒वे त्वा॑ स॒ते त्वास॑ते त्वा॒द्भ्यस् त्वौष॑धीभ्यस् त्वा॒ विश्वे॑भ्यस्त्वा भू॒तेभ्यः॑ ॥ [40]  
 </details>
 
-
 <details><summary>पद-पाठः</summary>
-
 
 कृ॒ष्यै । त्वा॒ । क्षेमा॑य । त्वा॒ । र॒य्यै । त्वा॒ । पोषा॑य । त्वा॒ । पृ॒थि॒व्यै । त्वा॒ । अ॒न्तरि॑क्षाय । त्वा॒ । दि॒वे । त्वा॒ । 
 स॒ते । त्वा॒ । अस॑ते । त्वा॒ । अ॒द्भ्य इत्य॑त्-भ्यः । त्वा॒ । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । त्वा॒ । विश्वे॑भ्यः । त्वा॒ । भू॒तेभ्यः॑ ॥ [40]
@@ -234,15 +279,3 @@ thou art the restrainer who dost restrain; thou art the supporter who dost suppo
 
 इति सप्तमे प्रथमे एकादशोनुवाकः ॥  
 </details>
-
-
-<details><summary>Keith</summary>
-
-For ploughing thee! For comfort thee! For wealth thee! For increase thee!  
-For earth thee! For the atmosphere thee! For sky thee!  
-For being thee! For not being thee!  
-For the waters thee! For the plants thee!  
-For all creatures thee!
-
-</details>
-</div>

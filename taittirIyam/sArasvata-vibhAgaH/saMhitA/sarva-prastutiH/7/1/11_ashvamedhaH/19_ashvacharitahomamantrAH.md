@@ -14,13 +14,85 @@ title = "१९ अश्वचरितहोममन्त्राः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पुरस्तात् स्विष्टकृतः त्र्यशीतिर् अश्वचरितान्य् उपजुहोति)+++  
-ई॒ङ्का॒राय॒ +++(हेषाय)+++ स्वाहा॑ । ईङ्कृ॑ताय॒ +++(निवृत्तावस्थाय)+++ स्वाहा॑ ।  
-क्रन्द॑ते॒ स्वाहा॑ । अ॒व॒+++(मुख)+++क्रन्द॑ते॒ स्वाहा॑ ।  
-+++(नासापुटाभ्यां)+++ प्रोथ॑ते॒ स्वाहा॑ । प्र॒प्रोथ॑ते॒ स्वाहा॑ ।  
-ग॒न्धाय॒ +++(→गन्धयित्रे)+++ स्वाहा॑ । घ्रा॒ताय॒ स्वाहा॑ ।  
+ई॒ङ्का॒राय॒ +++(हेषाय)+++ स्वाहा॑ ।
 </details>
 
-<details><summary>मूलम् </summary>
+<details><summary>Keith</summary>
+
+To the sounding of 'Im' hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईङ्कृ॑ताय॒ +++(निवृत्तावस्थाय)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him over whom 'Im' is sounded hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्रन्द॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him neighing hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒व॒+++(मुख)+++क्रन्द॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him neighing down hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(नासापुटाभ्यां)+++ प्रोथ॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him snorting hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्र॒प्रोथ॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him snorting forth hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ग॒न्धाय॒ +++(→गन्धयित्रे)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the smell hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+घ्रा॒ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To what is smelt hail!
+</details>
+
+<details><summary>मूलम्</summary>
 
 ई॒ङ्का॒राय॒ स्वाहा॑ । ईङ्कृ॑ताय॒ स्वाहा॑ ।  
 क्रन्द॑ते॒ स्वाहा॑ । अ॒व॒क्रन्द॑ते॒ स्वाहा॑ ।  
@@ -47,14 +119,38 @@ title = "१९ अश्वचरितहोममन्त्राः"
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ईमित्यनुकरणशब्दस्सन्नाहादौ क्रियते अश्वेन । 'अनुकरणं चानितिपरम्' इतिगतित्वात्थाथादिस्वरः । निवर्तमानावस्थ उच्यते । ईंकृतः स एव निवृत्तावस्थ उच्यते । पूर्ववद्गतित्वात् 'गतिरनन्तरः' इति तस्य प्रकृतिस्वरत्वम् । क्रन्दते उच्चैर्हेषमाणाय । अवक्रन्दते अवाङ्मुखं निभृतं घोषमाणाय । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः, उत्तरत्र कृदुत्तरपदप्रकृतिस्वरत्वम् । प्रोथते नासापुटाभ्यां शब्दं विस्तारयते । प्रप्रोथते उपर्युपरि तथाकुर्वते । प्रोथृ पर्याप्तौ, स एव स्वरः । गन्धाय गन्धयित्रे गन्धं गृह्णते । गन्ध अर्दने, पचाद्यच् । घ्राताय घ्रातवते । घ्रा गन्धोपादाने, व्यत्ययेन कर्तरि निष्ठा । मत्त्वर्थीयो वा लुप्यते । 'नुदविदोन्दत्राघ्रा' इति निष्ठानत्वाभावः पाक्षिकः ।   
-
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णाय॒ स्वाहा॑ । व्या॒नाय॒ स्वाहा॑ । अ॒पा॒नाय॒ स्वाहा॑।  
+प्रा॒णाय॒ स्वाहा॑ ।
 </details>
 
-<details><summary>मूलम् </summary>
+<details><summary>Keith</summary>
+
+To expiration hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्या॒नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To cross-breathing hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒पा॒नाय॒ स्वाहा॑।
+</details>
+
+<details><summary>Keith</summary>
+
+To inspiration hail!
+</details>
+
+<details><summary>मूलम्</summary>
 
 प्रा॒णाय॒ स्वाहा॑ व्या॒नाय॒ स्वाहा॑ऽपा॒नाय॒ स्वाहा॑
 </details>
@@ -79,24 +175,120 @@ title = "१९ अश्वचरितहोममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒न्दी॒यमा॑नाय॒ +++(=नियम्यमानाय)+++ स्वाहा॑ । सन्दि॑ताय॒ स्वाहा॑ ।  
-वि॒चृ॒त्यमा॑नाय॒+++(=विमुच्यमानाय)+++ स्वाहा॑ । विचृ॑त्ताय॒ स्वाहा॑ ।  
-
-
-प॒ला॒यिष्यमा॑णाय॒ स्वाहा॑ । पला॑यिताय॒ स्वाहा॑ ।  
-उ॒प॒रँ॒स्य॒ते स्वाहा॑ ।  उप॑रताय॒ स्वाहा॑ । 
-
-नि॒वे॒क्ष्य॒ते स्वाहा॑ । नि॒वि॒शमा॑नाय॒ स्वाहा॑ । निवि॑ष्टाय॒ स्वाहा॑ ।
-
+स॒न्दी॒यमा॑नाय॒ +++(=नियम्यमानाय)+++ स्वाहा॑ ।
 </details>
 
+<details><summary>Keith</summary>
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
+To him being bound hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सन्दि॑ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him after being bound hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वि॒चृ॒त्यमा॑नाय॒+++(=विमुच्यमानाय)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him being untied hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विचृ॑त्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him untied hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प॒ला॒यिष्यमा॑णाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him about to run hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पला॑यिताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him having run hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उ॒प॒रँ॒स्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him about to rest hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उप॑रताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him having rested hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नि॒वे॒क्ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him about to go to rest hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नि॒वि॒शमा॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him going to rest hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निवि॑ष्टाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him having gone to rest hail!
+</details><details><summary>मूलम् (संयुक्तम्)</summary>
 
 सन्दी॒यमा॑नाय॒ स्वाहा॒ सन्दि॑ताय॒ स्वाहा॑ विचृ॒त्यमा॑नाय॒ स्वाहा॒ विचृ॑त्ताय॒ स्वाहा॑ पलायि॒ष्यमा॑णाय॒ स्वाहा॒ पला॑यिताय॒ स्वाहो॑परँस्य॒ते स्वाहोप॑रताय॒ स्वाहा॑ 
 
 निवेक्ष्य॒ते स्वाहा॑ निवि॒शमा॑नाय॒ स्वाहा॒ निवि॑ष्टाय॒ स्वाहा॑
 </details>
+
+
 
 
 <details><summary>मूलम्</summary>
@@ -124,8 +316,6 @@ title = "१९ अश्वचरितहोममन्त्राः"
 नि॒वे॒क्ष्य॒त इति॑ नि-वे॒क्ष्य॒ते । स्वाहा॑ । 
 नि॒वि॒शमा॑ना॒येति॑ नि-वि॒शमा॑नाय । स्वाहा॑ ।  
 निवि॑ष्टा॒येति॒ नि-वि॒ष्टा॒य॒ । स्वाहा॑ ।    
-
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -142,22 +332,182 @@ title = "१९ अश्वचरितहोममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नि॒वे॒क्ष्य॒ते स्वाहा॑ +++(←शतुरनुम इत्युदात्तो विभक्तौ)+++। नि॒वि॒शमा॑नाय॒ स्वाहा॑ । निवि॑ष्टाय॒ स्वाहा॑ ।  [49]  ।
+नि॒वे॒क्ष्य॒ते स्वाहा॑ +++(←शतुरनुम इत्युदात्तो विभक्तौ)+++।
+</details>
 
-आ॒सि॒ष्य॒ते स्वाहा॑ । आसी॑नाय॒ स्वाहा॑ । आ॒सि॒ताय॒ स्वाहा॑ ।  
-+++(शयनादिभ्यो)+++ नि॒प॒त्स्य॒ते स्वाहा॑ । नि॒पद्य॑मानाय॒ स्वाहा॑ । निप॑न्नाय॒ स्वाहा॑ ।  
+<details><summary>Keith</summary>
 
-श॒यि॒ष्य॒ते स्वाहा॑ । शया॑नाय॒ स्वाहा॑ । श॒यि॒ताय॒ स्वाहा॑ ।
+To him about to sit down hail!
 </details>
 
 <details><summary>मूलम्</summary>
 
-नि॒ष॒त्स्य॒ते स्वाहा॑ । नि॒षीद॑ते॒ स्वाहा॑ । निष॑ण्णाय॒ स्वाहा॑ [49]  ।  
-आ॒सि॒ष्य॒ते स्वाहा॑ । आसी॑नाय॒ स्वाहा॑ । आ॒सि॒ताय॒ स्वाहा॑ ।  
-नि॒प॒त्स्य॒ते स्वाहा॑ । नि॒पद्य॑मानाय॒ स्वाहा॑ । निप॑न्नाय॒ स्वाहा॑ ।  
-श॒यि॒ष्य॒ते स्वाहा॑ । शया॑नाय॒ स्वाहा॑ । श॒यि॒ताय॒ स्वाहा॑ ।
+नि॒ष॒त्स्य॒ते स्वाहा॑ ।
+</details>
 
-(संयुक्तमन्त्रः-निषत्स्य॒ते स्वाहा॑ नि॒षीद॑ते॒ स्वाहा॒ निष॑ण्णाय॒ स्वाहा॑ [49]  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नि॒वि॒शमा॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him sitting down hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+नि॒षीद॑ते॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निवि॑ष्टाय॒ स्वाहा॑ । [49]  ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him having sat down hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+निष॑ण्णाय॒ स्वाहा॑ [49]  ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒सि॒ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+[1] To him about to stand hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒सि॒ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आसी॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who is standing hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+आसी॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒सि॒ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who hath stood hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒सि॒ताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(शयनादिभ्यो)+++ नि॒प॒त्स्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him about to go down hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+नि॒प॒त्स्य॒ते स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नि॒पद्य॑मानाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him going down hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+नि॒पद्य॑मानाय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निप॑न्नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him having gone down hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+निप॑न्नाय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श॒यि॒ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him about to lie hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+श॒यि॒ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शया॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him lying hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+शया॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श॒यि॒ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who hath lain hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+श॒यि॒ताय॒ स्वाहा॑ । (संयुक्तमन्त्रः-निषत्स्य॒ते स्वाहा॑ नि॒षीद॑ते॒ स्वाहा॒ निष॑ण्णाय॒ स्वाहा॑ [49]  
 आ॒सि॒ष्य॒ते स्वाहाऽऽसी॑नाय॒ स्वाहा॑ऽऽसि॒ताय॒ स्वाहा॑ निपत्स्य॒ते स्वाहा॑ नि॒पद्य॑मानाय॒ स्वाहा॒ निप॑न्नाय॒ स्वाहा॑ शयिष्य॒ते स्वाहा॒ शया॑नाय॒ स्वाहा॑ शयि॒ताय॒ स्वाहा॑ )
 </details>
 
@@ -193,10 +543,112 @@ title = "१९ अश्वचरितहोममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒म्मी॒लि॒ष्य॒ते स्वाहा॑ । स॒म्मील॑ते॒ स्वाहा॑ । सम्मी॑लिताय॒ स्वाहा॑ ।  
-स्व॒प्स्य॒ते स्वाहा॑ । स्व॒प॒ते स्वाहा॑ । सु॒प्ताय॒ स्वाहा॑ ।  
-प्र॒भो॒त्स्य॒ते स्वाहा॑ । प्र॒बुध्य॑मानाय॒ स्वाहा॑ । प्रबु॑द्धाय॒ स्वाहा॑ ।  
-जा॒ग॒रि॒ष्य॒ते स्वाहा॑ । जाग्र॑ते॒ स्वाहा॑ । जा॒ग॒रि॒ताय॒ स्वाहा॑ ।
+स॒म्मी॒लि॒ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him about to close the eyes hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒म्मील॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him closing the eyes hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सम्मी॑लिताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him having closed the eyes hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व॒प्स्य॒ते स्वाहा॑ । स्व॒प॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him about to sleep hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सु॒प्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who hath slept hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्र॒भो॒त्स्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him about to wake hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्र॒बुध्य॑मानाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him awakening hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रबु॑द्धाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who hath awakened hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जा॒ग॒रि॒ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him about to become awake hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जाग्र॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him becoming awake hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जा॒ग॒रि॒ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who hath become awake hail!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -209,7 +661,6 @@ title = "१९ अश्वचरितहोममन्त्राः"
 जा॒ग॒रि॒ष्य॒ते स्वाहा॑ । जाग्र॑ते॒ स्वाहा॑ । जा॒ग॒रि॒ताय॒ स्वाहा॑ ।
 
 सम्मीलिष्य॒ते स्वाहा॑ स॒म्मील॑ते॒ स्वाहा॒ सम्मी॑लिताय॒ स्वाहा॑ स्वप्स्य॒ते स्वाहा॑ स्वप॒ते स्वाहा॑ सु॒प्ताय॒ स्वाहा॑ प्रभोत्स्य॒ते स्वाहा॑ प्र॒बुध्य॑मानाय॒ स्वाहा॒ प्रबु॑द्धाय॒ स्वाहा॑ जागरिष्य॒ते स्वाहा॒ जाग्र॑ते॒ स्वाहा॑ जागरि॒ताय॒ स्वाहा॒
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +680,6 @@ title = "१९ अश्वचरितहोममन्त्राः"
 जा॒ग॒रि॒ष्य॒ते । स्वाहा॑ । 
 जाग्र॑ते । स्वाहा॑ । 
 जा॒ग॒रि॒ताय॑ । स्वाहा॑ ।  
-
 </details>
 
 
@@ -247,34 +697,187 @@ title = "१९ अश्वचरितहोममन्त्राः"
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
-
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शुश्रू॑षमाणाय॒ स्वाहा॑ । शृ॒ण्व॒ते स्वाहा॑ । श्रु॒ताय॒ स्वाहा॑ ।  
+शुश्रू॑षमाणाय॒ स्वाहा॑ ।
+</details>
 
-वी॒क्षि॒ष्य॒ते स्वाहा॑ [50]। वीक्ष॑माणाय॒ स्वाहा॑ । वीक्षि॑ताय॒ स्वाहा॑ ।  
+<details><summary>Keith</summary>
 
-सँ॒हा॒स्य॒ते +++(→बाह्येन्द्रियाणां स्वैस्स्वैर्विषयैस्संयोगः)+++ स्वाहा॑ । स॒ञ्जिहा॑नाय॒ स्वाहा॑ । उ॒ज्जिहा॑नाय॒ स्वाहा॑ ।  
-
-
-+++(शयनस्थानाद्)+++ वि॒व॒र्त्स्य॒ते स्वाहा॑ । विवर्त॑मानाय॒ स्वाहा॑ । विवृ॑त्ताय॒ स्वाहा॑ ।  
-
+To him about to hear hail!
 </details>
 
 <details><summary>मूलम्</summary>
 
-शुश्रू॑षमाणाय॒ स्वाहा॑ । शृ॒ण्व॒ते स्वाहा॑ । श्रु॒ताय॒ स्वाहा॑ ।  
+शुश्रू॑षमाणाय॒ स्वाहा॑ ।
+</details>
 
-वी॒क्षि॒ष्य॒ते स्वाहा॑ [50]। वीक्ष॑माणाय॒ स्वाहा॑ । वीक्षि॑ताय॒ स्वाहा॑ ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सँ॒हा॒स्य॒ते स्वाहा॑ । स॒ञ्जिहा॑नाय॒ स्वाहा॑ । उ॒ज्जिहा॑नाय॒ स्वाहा॑ ।  
+शृ॒ण्व॒ते स्वाहा॑ ।
+</details>
 
-वि॒व॒र्त्स्य॒ते स्वाहा॑ । विवर्त॑मानाय॒ स्वाहा॑ । विवृ॑त्ताय॒ स्वाहा॑ ।
+<details><summary>Keith</summary>
 
-(संयुक्तमन्त्रः-शुश्रू॑षमाणाय॒ स्वाहा॑ शृण्व॒ते स्वाहा॑ श्रु॒ताय॒ स्वाहा॑ वीक्षिष्य॒ते स्वाहा॑ [50]  वीक्ष॑माणाय॒ स्वाहा॒ वीक्षि॑ताय॒ स्वाहा॑ सँहास्य॒ते स्वाहा॑ स॒ञ्जिहा॑नाय॒ स्वाहो॒ज्जिहा॑नाय॒ स्वाहा॑ विवर्त्स्य॒ते स्वाहा॑ वि॒वर्त॑मानाय॒ स्वाहा॒ विवृ॑त्ताय॒ स्वाहा)
+To him hearing hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+शृ॒ण्व॒ते स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रु॒ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who hath heard hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रु॒ताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वी॒क्षि॒ष्य॒ते स्वाहा॑ [50]।
+</details>
+
+<details><summary>Keith</summary>
+
+To him about to look hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+वी॒क्षि॒ष्य॒ते स्वाहा॑ [50]।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वीक्ष॑माणाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+[2]  
+To him who is looking hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+वीक्ष॑माणाय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वीक्षि॑ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who hath looked hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+वीक्षि॑ताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सँ॒हा॒स्य॒ते +++(→बाह्येन्द्रियाणां स्वैस्स्वैर्विषयैस्संयोगः)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who is about to go out hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+सँ॒हा॒स्य॒ते स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒ञ्जिहा॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him going out hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒ञ्जिहा॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उ॒ज्जिहा॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who hath gone out hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+उ॒ज्जिहा॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(शयनस्थानाद्)+++ वि॒व॒र्त्स्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him about to roll about hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+वि॒व॒र्त्स्य॒ते स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विवर्त॑मानाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him rolling about hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+विवर्त॑मानाय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विवृ॑त्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who hath rolled about hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+विवृ॑त्ताय॒ स्वाहा॑ । (संयुक्तमन्त्रः-शुश्रू॑षमाणाय॒ स्वाहा॑ शृण्व॒ते स्वाहा॑ श्रु॒ताय॒ स्वाहा॑ वीक्षिष्य॒ते स्वाहा॑ [50]  वीक्ष॑माणाय॒ स्वाहा॒ वीक्षि॑ताय॒ स्वाहा॑ सँहास्य॒ते स्वाहा॑ स॒ञ्जिहा॑नाय॒ स्वाहो॒ज्जिहा॑नाय॒ स्वाहा॑ विवर्त्स्य॒ते स्वाहा॑ वि॒वर्त॑मानाय॒ स्वाहा॒ विवृ॑त्ताय॒ स्वाहा)
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -313,27 +916,182 @@ title = "१९ अश्वचरितहोममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒त्था॒स्य॒ते स्वाहा॑ । उ॒त्तिष्ठ॑ते॒ स्वाहा॑ ।  उत्थि॑ताय॒ स्वाहा॑ ।  
+उ॒त्था॒स्य॒ते स्वाहा॑ ।
+</details>
 
-+++(देहं)+++ वि॒ध॒वि॒ष्य॒ते+++(=कम्पयते)+++ स्वाहा॑ । वि॒धू॒न्वा॒नाय॒ स्वाहा॑ । विधू॑ताय॒ स्वाहा॑ ।  
+<details><summary>Keith</summary>
 
-
-उ॒त्क्रँ॒ं॒स्य॒ते स्वाहा॑ । उ॒त्क्राम॑ते॒ स्वाहा॑ । उत्क्रा॑न्ताय॒ स्वाहा॑ ।  
-
-च॒ङ्क्र॒मि॒ष्य॒ते स्वाहा॑ । च॒ङ्क्र॒म्यमा॑णाय॒ स्वाहा॑ । च॒ङ्क्र॒मिताय॒ स्वाहा॑ ।
+To him about to get up hail!
 </details>
 
 <details><summary>मूलम्</summary>
 
-उ॒त्था॒स्य॒ते स्वाहा॑ । उ॒त्तिष्ठ॑ते॒ स्वाहा॑ ।  उत्थि॑ताय॒ स्वाहा॑ ।  
+उ॒त्था॒स्य॒ते स्वाहा॑ ।
+</details>
 
-वि॒ध॒वि॒ष्य॒ते स्वाहा॑ । वि॒धू॒न्वा॒नाय॒ स्वाहा॑ । विधू॑ताय॒ स्वाहा॑ ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒त्क्रँ॒ं॒स्य॒ते स्वाहा॑ । उ॒त्क्राम॑ते॒ स्वाहा॑ । उत्क्रा॑न्ताय॒ स्वाहा॑ ।  
+उ॒त्तिष्ठ॑ते॒ स्वाहा॑ ।
+</details>
 
-च॒ङ्क्र॒मि॒ष्य॒ते स्वाहा॑ । च॒ङ्क्र॒म्यमा॑णाय॒ स्वाहा॑ । च॒ङ्क्र॒मिताय॒ स्वाहा॑ ।
+<details><summary>Keith</summary>
 
-(संयुक्तमन्त्रः-उ॒त्थास्य॒ते स्वाहो॒त्तिष्ठ॑ते॒ स्वाहोत्थि॑ताय॒ स्वाहा॑ विधविष्य॒ते स्वाहा॑ विधून्वा॒नाय॒ स्वाहा॒ विधू॑ताय॒ स्वाहो॑त्क्रँस्य॒ते स्वाहो॒त्क्राम॑ते॒ स्वाहोत्क्रा॑न्ताय॒ स्वाहा॑ चङ्क्रमिष्य॒ते स्वाहा॑ चङ्क्र॒म्यमा॑णाय॒ स्वाहा॑ चङ्क्रमि॒ताय॒ स्वाहा॑)
+To him getting up hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+उ॒त्तिष्ठ॑ते॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्थि॑ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who hath got up hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+उत्थि॑ताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(देहं)+++ वि॒ध॒वि॒ष्य॒ते+++(=कम्पयते)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him about to shake himself hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+वि॒ध॒वि॒ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वि॒धू॒न्वा॒नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him shaking himself hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+वि॒धू॒न्वा॒नाय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विधू॑ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who hath shaken himself hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+विधू॑ताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उ॒त्क्रँ॒ं॒स्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him about to step out hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+उ॒त्क्रँ॒ं॒स्य॒ते स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उ॒त्क्राम॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him stepping out hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+उ॒त्क्राम॑ते॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्क्रा॑न्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who hath stopped out hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+उत्क्रा॑न्ताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+च॒ङ्क्र॒मि॒ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who is about to rush hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+च॒ङ्क्र॒मि॒ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+च॒ङ्क्र॒म्यमा॑णाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who is rushing hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+च॒ङ्क्र॒म्यमा॑णाय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+च॒ङ्क्र॒मिताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who hath rushed hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+च॒ङ्क्र॒मिताय॒ स्वाहा॑ । (संयुक्तमन्त्रः-उ॒त्थास्य॒ते स्वाहो॒त्तिष्ठ॑ते॒ स्वाहोत्थि॑ताय॒ स्वाहा॑ विधविष्य॒ते स्वाहा॑ विधून्वा॒नाय॒ स्वाहा॒ विधू॑ताय॒ स्वाहो॑त्क्रँस्य॒ते स्वाहो॒त्क्राम॑ते॒ स्वाहोत्क्रा॑न्ताय॒ स्वाहा॑ चङ्क्रमिष्य॒ते स्वाहा॑ चङ्क्र॒म्यमा॑णाय॒ स्वाहा॑ चङ्क्रमि॒ताय॒ स्वाहा॑)
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -370,27 +1128,152 @@ title = "१९ अश्वचरितहोममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क॒ण्डू॒यि॒ष्य॒ते स्वाहा॑ । क॒ण्डू॒यमा॑नाय॒ स्वाहा॑ । क॒ण्डू॒यि॒ताय॒ स्वाहा॑ ।  
+क॒ण्डू॒यि॒ष्य॒ते स्वाहा॑ ।
+</details>
 
-+++(काष्ठादिषु शरीरस्य)+++ नि॒क॒षि॒ष्य॒ते स्वाहा॑ । नि॒कष॑माणाय॒ स्वाहा॑ । निक॑षिताय॒ स्वाहा॑ ।
+<details><summary>Keith</summary>
 
-
-यदत्ति॒ तस्मै॒ स्वाहा॑ । यत्पिब॑ति॒ तस्मै॒ स्वाहा॑ ।  
-
-यन्मेह॑ति॒ तस्मै॒ स्वाहा॑ । यच्छकृ॑त् क॒रोति॒ तस्मै॒ स्वाहा॑ ।
+To him about to scratch hail!
 </details>
 
 <details><summary>मूलम्</summary>
 
-क॒ण्डू॒यि॒ष्य॒ते स्वाहा॑ । क॒ण्डू॒यमा॑नाय॒ स्वाहा॑ । क॒ण्डू॒यि॒ताय॒ स्वाहा॑ ।  
+क॒ण्डू॒यि॒ष्य॒ते स्वाहा॑ ।
+</details>
 
-नि॒क॒षि॒ष्य॒ते स्वाहा॑ । नि॒कष॑माणाय॒ स्वाहा॑ । निक॑षिताय॒ स्वाहा॑ ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदत्ति॒ तस्मै॒ स्वाहा॑ । यत्पिब॑ति॒ तस्मै॒ स्वाहा॑ ।  
+क॒ण्डू॒यमा॑नाय॒ स्वाहा॑ ।
+</details>
 
-यन्मेह॑ति॒ तस्मै॒ स्वाहा॑ । यच्छकृ॑त् क॒रोति॒ तस्मै॒ स्वाहा॑ ।
+<details><summary>Keith</summary>
 
-(संयुक्तमन्त्रः-कण्डूयिष्य॒ते स्वाहा॑ कण्डू॒यमा॑नाय॒ स्वाहा॑ कण्डूयि॒ताय॒ स्वाहा॑ 
+To him scratching hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+क॒ण्डू॒यमा॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क॒ण्डू॒यि॒ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him having scratched hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+क॒ण्डू॒यि॒ताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(काष्ठादिषु शरीरस्य)+++ नि॒क॒षि॒ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him about to rub hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+नि॒क॒षि॒ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नि॒कष॑माणाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him rubbing hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+नि॒कष॑माणाय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निक॑षिताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him who hath rubbed hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+निक॑षिताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदत्ति॒ तस्मै॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+What he eateth, to that hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदत्ति॒ तस्मै॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत्पिब॑ति॒ तस्मै॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+What he drinketh, to that hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्पिब॑ति॒ तस्मै॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यन्मेह॑ति॒ तस्मै॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To what he evacuateth, to that hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+यन्मेह॑ति॒ तस्मै॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यच्छकृ॑त् क॒रोति॒ तस्मै॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the dung he maketh hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+यच्छकृ॑त् क॒रोति॒ तस्मै॒ स्वाहा॑ । (संयुक्तमन्त्रः-कण्डूयिष्य॒ते स्वाहा॑ कण्डू॒यमा॑नाय॒ स्वाहा॑ कण्डूयि॒ताय॒ स्वाहा॑ 
 
 निकषिष्य॒ते स्वाहा॑ नि॒कष॑माणाय॒ स्वाहा॒ निक॑षिताय॒ स्वाहा॒ 
 
@@ -425,8 +1308,42 @@ title = "१९ अश्वचरितहोममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रेत॑से॒ स्वाहा॑ । प्र॒जाभ्य॒स् स्वाहा॑ ।
-प्र॒जन॑नाय॒ स्वाहा॑ । सर्व॑स्मै॒ स्वाहा॑ ॥ [51]  
+रेत॑से॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To seed hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्र॒जाभ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To offspring hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्र॒जन॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To begetting hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व॑स्मै॒ स्वाहा॑ ॥ [51]
+</details>
+
+<details><summary>Keith</summary>
+
+To all hail!
 </details>
 
 <details><summary>मूलम्</summary>

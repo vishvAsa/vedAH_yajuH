@@ -23,15 +23,62 @@ title = "१८ ब्रह्मोद्यम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किँ स्वि॑द् आसीत् पू॒र्व-चि॑त्ति॒ᳶ+++(=ज्ञानम्)+++,  
-किँ स्वि॑द् आसीद् बृ॒हद् वयः॑+++(=पक्षी)+++ ।  
-किँ स्वि॑द् आसीत् पिशङ्गि॒ला+++(=नानावर्णा)+++ ,  
-किँ स्वि॑द् आसीत् पिलिप्पि॒ला+++(=प्रीणयित्री)+++ ।
+किँ स्वि॑द् आसीत् पू॒र्व-चि॑त्ति॒ᳶ+++(=ज्ञानम्)+++,
+</details>
+
+<details><summary>Keith</summary>
+
+What was the first conception?
 </details>
 
 <details><summary>मूलम्</summary>
 
-किँ स्वि॑दासीत्पू॒र्वचि॑त्ति॒ᳵ किँ स्वि॑दासीद्बृ॒हद्वयः॑ । किँ स्वि॑दासीत्पिशङ्गि॒ला किँ स्वि॑दासीत्पिलिप्पि॒ला ।
+किँ स्वि॑दासीत्पू॒र्वचि॑त्ति॒ᳵ
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किँ स्वि॑द् आसीद् बृ॒हद् वयः॑+++(=पक्षी)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+What was the great age?
+</details>
+
+<details><summary>मूलम्</summary>
+
+किँ स्वि॑दासीद्बृ॒हद्वयः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किँ स्वि॑द् आसीत् पिशङ्गि॒ला+++(=नानावर्णा)+++ ,
+</details>
+
+<details><summary>Keith</summary>
+
+What was the tawny one?
+</details>
+
+<details><summary>मूलम्</summary>
+
+किँ स्वि॑दासीत्पिशङ्गि॒ला
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किँ स्वि॑द् आसीत् पिलिप्पि॒ला+++(=प्रीणयित्री)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+What was the smooth one?
+</details>
+
+<details><summary>मूलम्</summary>
+
+किँ स्वि॑दासीत्पिलिप्पि॒ला ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -48,18 +95,58 @@ title = "१८ ब्रह्मोद्यम्"
 2अथ उत्तराणि - द्यौरित्यादीनि ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>द्यौर् आ॑सीत् पू॒र्व-चि॑त्ति॒र् ,</details>
 
-द्यौर् आ॑सीत् पू॒र्व-चि॑त्ति॒र् ,  
-अश्व॑+++(=दधिक्रावा प्रोषपदासु)+++ आसीद् बृ॒हद् वयः॑+++(=सूर्यः)+++ ।  
-रात्रि॑र् आसीत् पिशङ्गि॒ला,  
-ऽवि॑र्+++(=मेषराशिः)+++ आसीत् पिलिप्पि॒ला ।  
+<details><summary>Keith</summary>
+
+The sky was the first conception.
 </details>
 
 <details><summary>मूलम्</summary>
 
-द्यौरा॑सीत् पू॒र्वचि॑त्ति॒र् , अश्व॑ आसीद् बृ॒हद् वयः॑ ।  
-रात्रि॑रासीत् पिशङ्गि॒लाऽवि॑रासीत् पिलिप्पि॒ला ।
+द्यौरा॑सीत् पू॒र्वचि॑त्ति॒र् ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अश्व॑+++(=दधिक्रावा प्रोषपदासु)+++ आसीद् बृ॒हद् वयः॑+++(=सूर्यः)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The horse was the great age.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अश्व॑ आसीद् बृ॒हद् वयः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>रात्रि॑र् आसीत् पिशङ्गि॒ला,</details>
+
+<details><summary>Keith</summary>
+
+The night was the tawny one.
+</details>
+
+<details><summary>मूलम्</summary>
+
+रात्रि॑रासीत् पिशङ्गि॒ला
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऽवि॑र्+++(=मेषराशिः)+++ आसीत् पिलिप्पि॒ला ।
+</details>
+
+<details><summary>Keith</summary>
+
+The sheep was the smooth one.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऽवि॑रासीत् पिलिप्पि॒ला ।
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -78,15 +165,47 @@ title = "१८ ब्रह्मोद्यम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कस् स्वि॑द् एका॒की च॑रति॒ ,  
-क उ॑ स्विज् जायते॒ पुनः॑ ।  
-किँ स्वि॑द् हि॒मस्य॑ भेष॒जङ् ,  
-किँ स्वि॑द् आ॒वप॑नम् म॒हत् ।
+कस् स्वि॑द् एका॒की च॑रति॒ ,
+</details>
+
+<details><summary>Keith</summary>
+
+Who moveth alone?
 </details>
 
 <details><summary>मूलम्</summary>
 
-कस्स्वि॑द् एका॒की च॑रति॒ , क उ॑ स्विज् जायते॒ पुनः॑ ।  
+कस्स्वि॑द् एका॒की च॑रति॒ ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क उ॑ स्विज् जायते॒ पुनः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Who too is born again?
+</details>
+
+<details><summary>मूलम्</summary>
+
+क उ॑ स्विज् जायते॒ पुनः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किँ स्वि॑द् हि॒मस्य॑ भेष॒जङ् ,  
+किँ स्वि॑द् आ॒वप॑नम् म॒हत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+What is the great enveloper?
+</details>
+
+<details><summary>मूलम्</summary>
+
 किँ स्वि॑द् हि॒मस्य॑ भेष॒जङ् , किँ स्वि॑द् आ॒वप॑नम् म॒हत् ।
 </details>
 
@@ -105,20 +224,54 @@ title = "१८ ब्रह्मोद्यम्"
 4अथोत्तराणि - सूर्य इत्यादीनि ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>सूर्य॑ एका॒की च॑रति ,</details>
 
-सूर्य॑ एका॒की च॑रति ,  
-च॒न्द्रमा॑ जायते॒ पुनः॑ ।  
-अ॒ग्निर् हि॒मस्य॑ भेष॒जम् ,  
-भूमि॑र् +++(ओषध्यादीनां)+++ आ॒वप॑नम् म॒हत् ।
+<details><summary>Keith</summary>
+
+The sun moveth alone [1].
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 सूर्य॑ एका॒की च॑रति ,
-च॒न्द्रमा॑ जायते॒ पुनः॑ ।  
-अ॒ग्निर् हि॒मस्य॑ भेष॒जम् ,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>च॒न्द्रमा॑ जायते॒ पुनः॑ ।</details>
+
+<details><summary>Keith</summary>
+
+The moon is born again.
+</details>
+
+<details><summary>मूलम्</summary>
+
+च॒न्द्रमा॑ जायते॒ पुनः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>अ॒ग्निर् हि॒मस्य॑ भेष॒जम् ,</details>
+
+<details><summary>Keith</summary>
+
+Fire is the remedy for the cold.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्निर् हि॒मस्य॑ भेष॒जम् ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भूमि॑र् +++(ओषध्यादीनां)+++ आ॒वप॑नम् म॒हत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Earth is the great enveloper.
+</details>
+
+<details><summary>मूलम्</summary>
+
 भूमि॑र् आ॒वप॑नम् म॒हत् ।
 </details>
 
@@ -137,17 +290,61 @@ title = "१८ ब्रह्मोद्यम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒च्छामि॑ त्वा॒ पर॒म् अन्त॑म् पृथि॒व्याᳶ ,  
-पृ॒च्छामि॑ त्वा॒ भुव॑नस्य॒ नाभि॑म् ।  
-पृ॒च्छामि॑ त्वा॒ वृष्णो॒ अश्व॑स्य॒ रेतᳶ॑ ,  
-पृ॒च्छामि॑ वा॒चᳶ प॑र॒मव्ँ व्यो॑म ।
+पृ॒च्छामि॑ त्वा॒ पर॒म् अन्त॑म् पृथि॒व्याᳶ ,
+</details>
+
+<details><summary>Keith</summary>
+
+I ask thee of the furthest end of the earth.
 </details>
 
 <details><summary>मूलम्</summary>
 
-पृ॒च्छामि॑ त्वा॒ पर॒मन्त॑म् पृथि॒व्याᳶ ,  
-पृ॒च्छामि॑ त्वा॒ भुव॑नस्य॒ नाभि॑म् ।  
+पृ॒च्छामि॑ त्वा॒ पर॒मन्त॑म् पृथि॒व्याᳶ ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पृ॒च्छामि॑ त्वा॒ भुव॑नस्य॒ नाभि॑म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+I ask thee of the navel of the world.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पृ॒च्छामि॑ त्वा॒ भुव॑नस्य॒ नाभि॑म् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पृ॒च्छामि॑ त्वा॒ वृष्णो॒ अश्व॑स्य॒ रेतᳶ॑ ,
+</details>
+
+<details><summary>Keith</summary>
+
+I ask thee of the seed of the strong horse.
+</details>
+
+<details><summary>मूलम्</summary>
+
 पृ॒च्छामि॑ त्वा॒ वृष्णो॒ अश्व॑स्य॒ रेत॑ᳶ ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पृ॒च्छामि॑ वा॒चᳶ प॑र॒मव्ँ व्यो॑म ।
+</details>
+
+<details><summary>Keith</summary>
+
+I ask thee of speech's highest realm.
+</details>
+
+<details><summary>मूलम्</summary>
+
 पृ॒च्छामि॑ वा॒चᳶ प॑र॒मव्ँ व्यो॑म ।
 </details>
 
@@ -162,19 +359,54 @@ title = "१८ ब्रह्मोद्यम्"
 6अथोत्तराणि वेदिमित्यादीनि ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>वेदि॑म् आहु॒ᳶ पर॒म् अन्त॑म् पृथि॒व्या ,</details>
 
-वेदि॑म् आहु॒ᳶ पर॒म् अन्त॑म् पृथि॒व्या ,  
-य॒ज्ञम् आ॑हु॒र् भुव॑नस्य॒ नाभि॑म् ।  
-सोम॑म् आहु॒र् वृष्णो॒ अश्व॑स्य॒ रेतो॒ ,  
-ब्रह्मै॒व वा॒चᳶ प॑र॒मव्ँ व्यो॑म ॥ [46]+++(5)+++
+<details><summary>Keith</summary>
+
+They call the altar-ground the furthest end of the earth.
 </details>
 
 <details><summary>मूलम्</summary>
 
 वेदि॑माहु॒ᳶ पर॒मन्त॑म् पृथि॒व्या ,
-य॒ज्ञमा॑हु॒र् भुव॑नस्य॒ नाभि॑म् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>य॒ज्ञम् आ॑हु॒र् भुव॑नस्य॒ नाभि॑म् ।</details>
+
+<details><summary>Keith</summary>
+
+They call the sacrifice the navel of the world.
+</details>
+
+<details><summary>मूलम्</summary>
+
+य॒ज्ञमा॑हु॒र् भुव॑नस्य॒ नाभि॑म् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>सोम॑म् आहु॒र् वृष्णो॒ अश्व॑स्य॒ रेतो॒ ,</details>
+
+<details><summary>Keith</summary>
+
+They call Soma the seed of the strong horse.
+</details>
+
+<details><summary>मूलम्</summary>
+
 सोम॑माहु॒र् वृष्णो॒ अश्व॑स्य॒ रेतो॒ ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मै॒व वा॒चᳶ प॑र॒मव्ँ व्यो॑म ॥ [46]+++(5)+++
+</details>
+
+<details><summary>Keith</summary>
+
+(They call) the Brahman the highest realm of speech.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ब्रह्मै॒व वा॒चᳶ प॑र॒मव्ँ व्यो॑म ॥ [46]
 </details>
 

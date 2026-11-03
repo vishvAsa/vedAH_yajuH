@@ -4,19 +4,19 @@ title = "०८ द्वादशाहस्य नित्य-ग्रह�
 +++
 ## परिचयः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
 
 द्विविधो द्वादशाहः - अव्यूढो व्यूढश्च तद्विकार इति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
 
 तत्र प्रथमो यथा - ऐन्द्रवायवाग्रौ प्रायणीयोदयनीयौ+++(=प्रथमान्तिमौ)+++ दशमं चाहः ।  अथेतरेषां नवानाम् ऐन्द्रवायवाग्रं प्रथमम् अहः, अथ शुक्राग्रम्, अथाग्रयणाग्रम्इत्यादि पुनःपुनः।  
 </details>
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
 
 अथ व्यूढो यथा - ऐन्द्रवायवाग्रौ प्रायणीयोदयनीयौ । अथेतरेषां दशानाम् ऐन्द्रवायवाग्रं प्रथमम् अहः, अथ शुक्राग्रम्, अथ द्वे आग्रयणाग्रे, अथ ऐन्द्रवायवाग्रम्, अथ द्वे शुक्राग्रे, अथ आग्रयणाग्रम्, अथ द्वे ऐन्द्रवायवाग्रे इति । इत्थं चक्रवद् वर्तन्ते - ऐन्द्रवायव-शुक्र-आग्रयण-क्रमेण।
 
@@ -27,9 +27,9 @@ title = "०८ द्वादशाहस्य नित्य-ग्रह�
 
 ## व्यूढे प्रथमत्रिरारम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
 
-+++(गायत्र ऐन्द्रवायवः, त्रैष्टुभः शुक्रः, जागत आग्रयणः।)+++
+गायत्र ऐन्द्रवायवः, त्रैष्टुभः शुक्रः, जागत आग्रयणः।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -38,6 +38,11 @@ title = "०८ द्वादशाहस्य नित्य-ग्रह�
 गा॒य॒त्रम् प्रा॑य॒णीय॒म्+++(=प्रथमम्)+++ अहः॑ +++(त्रिरात्रस्य)+++।  
 तस्मा॑त् प्राय॒णीये ऽह॑न्न् ऐन्द्रवाय॒वो गृ॑ह्यते ।  
 स्व ए॒वैन॑म् +++(गायत्रं)+++ आ॒यत॑ने गृह्णाति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+(The cup) for Indra and Vayu is connected with the Gayatri, the opening day is connected with the Gayatri, and therefore on the opening day (the cup) for Indra and Vayu is drawn; verily he draws it in its own abode.
 </details>
 
 
@@ -50,6 +55,11 @@ title = "०८ द्वादशाहस्य नित्य-ग्रह�
 स्व ए॒वैन॑म् आ॒यत॑ने गृह्णाति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The Śukra is connected with the Tristubh, the second day is connected with the Tristubh, and therefore on the second day the Śukra is drawn; verily he draws it in its own abode.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाग॑तो॒ वा आ॑ग्रय॒णः ।  
@@ -59,23 +69,42 @@ title = "०८ द्वादशाहस्य नित्य-ग्रह�
 ए॒तद् वै +++(त्रिरात्रम्)+++ य॒ज्ञम् आ॑पद् यच् छन्दाँ॑स्य् आ॒प्नोति॑ [27] ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The Agrayana is connected with the Jagati, the third day is connected with the Jagati, and therefore on the third day the Agrayana is drawn; verily he draws it in its own abode.
+</details>
+
 
 
 ## व्यूढे द्वितीयत्रिरारम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
 
-+++(जागत आग्रयणः, रथन्तर ऐन्द्रवायवः, बार्हतः शुक्रः।)+++
+जागत आग्रयणः, रथन्तर ऐन्द्रवायवः, बार्हतः शुक्रः।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् आ॑ग्रय॒णश् श्वो +++(चतुथे ऽह्नि)+++ गृ॒ह्यते॒ +++(तस्य हेतुर् एवम्)+++-  
-यत्रै॒व +++(त्रिरात्रं)+++ य॒ज्ञम् अदृ॑श॒न् , तत॑ ए॒वैन॒म् पुन॒ᳶ प्र यु॑ङ्क्ते ।  
-+++(जागत-राथन्तर-बार्हतत्वाद्)+++ जग॑न्-मुखो॒ वै द्वि॒तीय॑स् त्रिरा॒त्रः ।  
-जाग॑त आग्रय॒णः ।  
-यच् च॑तु॒र्थेऽह॑न्न् आग्रय॒णो गृ॒ह्यते॒ , स्व ए॒वैन॑म् आ॒यत॑ने गृह्णाति ।  
-अथो॒ स्वम् ए॒व +++(जागताख्यं)+++ छन्दोऽनु॑ प॒र्याव॑र्तन्ते +++(द्वितीय-त्रिरात्र-दिनानि स्वच्छन्दोभिः)+++।  
+यत्रै॒व +++(त्रिरात्रं)+++ य॒ज्ञम् अदृ॑श॒न् , तत॑ ए॒वैन॒म् पुन॒ᳶ प्र यु॑ङ्क्ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+In that it completes the metres, it completes the sacrifice [1]; in that the Agrayana is drawn on the next day, where they have seen the sacrifice, thence does he again employ it.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(जागत-राथन्तर-बार्हतत्वाद्)+++ जग॑न्-मुखो॒ वै द्वि॒तीय॑स् त्रिरा॒त्रः ।
+जाग॑त आग्रय॒णः ।
+यच् च॑तु॒र्थेऽह॑न्न् आग्रय॒णो गृ॒ह्यते॒ , स्व ए॒वैन॑म् आ॒यत॑ने गृह्णाति ।
+अथो॒ स्वम् ए॒व +++(जागताख्यं)+++ छन्दोऽनु॑ प॒र्याव॑र्तन्ते +++(द्वितीय-त्रिरात्र-दिनानि स्वच्छन्दोभिः)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+The second three nights begin with the Jagati, the Agrayana is connected with the Jagati; in that the Agrayana is drawn on the fourth day, he draws it in its own abode; verily also they revolve round their own metre.
 </details>
 
 
@@ -87,6 +116,11 @@ title = "०८ द्वादशाहस्य नित्य-ग्रह�
 स्व ए॒वैन॑म् आ॒यत॑ने गृह्णाति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+(The cup) for Indra and Vayu is connected with the Rathantara (Saman), the fifth day is connected with the Rathantara, and therefore on the fifth day [2] (the cup) for Indra and Vayu is drawn; verily he draws it in its own abode.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बार्ह॑तो॒ वै शु॒क्रः । बार्ह॑तँ ष॒ष्ठम् अहः॑ ।  
@@ -95,24 +129,43 @@ title = "०८ द्वादशाहस्य नित्य-ग्रह�
 ए॒तद् वै द्वि॒तीयय्ँ॑ +++(त्रिरात्र)+++य॒ज्ञम् आ॑पद्, यच् +++(बृहत्यन्तानि)+++ छन्दाँ॑स्या॒प्नोति॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The Śukra is connected with the Brhati, the sixth day is connected with the Brhati, and therefore on the sixth day the Śukra is drawn; verily he draws it in its own abode.
+</details>
+
 
 
 ## व्यूढे तृतीयत्रिरात्रम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
 
-+++(त्रैष्टुभश् शुक्रः, आग्रयणः, ऐन्द्रवायवः।)+++
+त्रैष्टुभश् शुक्रः, आग्रयणः, ऐन्द्रवायवः।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यच् छु॒क्रश् श्वो गृ॒ह्यते॒ +++(तस्य हेतुर् एवम्)+++-  
-यत्रै॒व य॒ज्ञम् अदृ॑शन् , तत॑ ए॒वैन॒म् पुन॒ᳶ प्र यु॑ङ्क्ते ।  
-त्रि॒ष्टुङ् मु॑खो॒ वै तृ॒तीय॑स् त्रिरा॒त्रः ।  
-त्रैष्टु॑भश् शु॒क्रः (29)।  
+यत्रै॒व य॒ज्ञम् अदृ॑शन् , तत॑ ए॒वैन॒म् पुन॒ᳶ प्र यु॑ङ्क्ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+In that it completes the metres, it completes for the second time the sacrifice; in that the Śukra is drawn on the next day, where they have seen the sacrifice, thence does he again employ it.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रि॒ष्टुङ् मु॑खो॒ वै तृ॒तीय॑स् त्रिरा॒त्रः ।
+त्रैष्टु॑भश् शु॒क्रः (29)।
 यत् स॑प्त॒मे ऽह॑ञ्छु॒क्रो गृ॒ह्यते॒ ,
-स्व ए॒वैन॑मा॒यत॑ने गृह्णाति ।  
-अथो॒ स्वमे॒व छन्दोऽनु॑ प॒र्याव॑र्तन्ते +++(त्रिरात्र-दिनानि स्वच्छन्दोभिः)+++।  
+स्व ए॒वैन॑मा॒यत॑ने गृह्णाति ।
+अथो॒ स्वमे॒व छन्दोऽनु॑ प॒र्याव॑र्तन्ते +++(त्रिरात्र-दिनानि स्वच्छन्दोभिः)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+The third three nights begin with the Tristubh, the Śukra is connected with the Tristubh [3]; in that the Śukra is drawn on its seventh day, he draws it in its own abode, and they revolve round their own metre.
 </details>
 
 
@@ -124,12 +177,22 @@ title = "०८ द्वादशाहस्य नित्य-ग्रह�
 स्व ए॒वैन॑म् आ॒यत॑ने गृह्णाति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The Agrayana, is speech, the eighth day is speech, and therefore on the eighth day the Agrayana is drawn; verily he draws it in its own abode.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा॒णो वा ऐ॑न्द्रवाय॒वः ।  
 प्रा॒णो न॑व॒मम् अहः॑ +++(देहच्छिद्रगणनया नवमत्वान्वयात्)+++।  
 तस्मा॑न् नव॒मेऽह॑न्नैन्द्रवाय॒वो गृ॑ह्यते ।  
 स्व ए॒वैन॑म् आ॒यत॑ने गृह्णाति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+(The cup) for Indra and Vayu is breath, the ninth day is breath, and therefore on the ninth day (the cup) for Indra and Vayu. is drawn; verily he draws it in its own abode.
 </details>
 
 
@@ -139,13 +202,18 @@ title = "०८ द्वादशाहस्य नित्य-ग्रह�
 ए॒तद् वै तृ॒तीयय्ँ॑ य॒ज्ञम् आ॑पद् यच् छन्दाँ॑स्या॒प्नोति॑ ।[30]  
 </details>
 
+<details><summary>Keith</summary>
+
+In that [4] it completes the metres, it completes for the third time the sacrifice; in that (the cup) for Indra and Vayu is drawn on the next day, where they have seen the sacrifice, thence does he again employ it, and they revolve round their own metre.
+</details>
+
 
 
 ## दशाहस्य +अन्त्यम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
 
-+++(ऐन्द्रवायवः।)+++
+ऐन्द्रवायवः।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -154,6 +222,11 @@ title = "०८ द्वादशाहस्य नित्य-ग्रह�
 यत्रै॒व य॒ज्ञमदृ॑श॒न्, तत॑ ए॒वैन॒म् पुन॒ᳶ प्र यु॒ङ्क्ते ।  
 अथो॒+++(=अथ, प्रगृह्यसंज्ञः)+++ स्वम् ए॒व छन्दोऽनु॑ प॒र्याव॑र्तन्ते  +++(त्रिरात्र-दिनानि स्वच्छन्दोभिः)+++।  
 प॒थो+++(=मार्गाद्)+++ वा ए॒ते ऽध्य् अप॑थेन यन्ति॒ , ये॑ ऽन्येनै॑न्द्रवाय॒वात् प्र॑ति॒पद्य॑न्ते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+They go by a trackless way leaving the path who start with anything except (the cup) for Indra and Vayu.
 </details>
 
 
@@ -167,6 +240,11 @@ title = "०८ द्वादशाहस्य नित्य-ग्रह�
 ता॒दृग् ए॒व तत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The tenth day is the end of the sacrifice, (the cup) for Indra and Vayu is drawn on the tenth day; verily having reached the end of the sacrifice [5], they proceed from the trackless way to the path, and it is as when men go pushing on with a strong (team).
+</details>
+
 
 
 ## व्यूढ+अव्यूढ-सम्बन्धः
@@ -177,11 +255,21 @@ title = "०८ द्वादशाहस्य नित्य-ग्रह�
 तान्य् ए॒तेनै॒व +++(वक्ष्यमाणेन क्रमेण)+++ दे॒वा व्य॑वाहयन् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The metres set their wishes on one another's world, and the gods then interchanged them.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐ॒न्द्र॒वा॒य॒वस्य वा ए॒तद् आ॒यत॑नय्ँ॒ यच् च॑तु॒र्थम् अहः॑ +++(अव्यूढे ऐन्द्रवायवशुक्राग्रयणानां पुनःपुनः प्रवृत्तेः)+++।  
 तस्मि॑न्न् आग्रय॒णो गृ॑ह्यते +++(व्यूढे ऐन्द्रवायव-शुक्र-आग्रयण-चक्रक्रमे)+++।  
 तस्मा॑द् आग्रय॒णस्या॒यत॑ने नव॒मे ऽह॑न्न् ऐन्द्रवाय॒वो गृ॑ह्यते +++(व्यूढे)+++।  
+</details>
+
+<details><summary>Keith</summary>
+
+The fourth day is the abode of (the cup) for Indra and Vayu, the Agrayana is drawn on this (day); therefore (the cup) for Indra and Vayu is drawn on the ninth day, the abode of the Agrayana.
 </details>
 
 
@@ -193,11 +281,21 @@ title = "०८ द्वादशाहस्य नित्य-ग्रह�
 तस्मा॑द् ऐन्द्रवाय॒वस्या॒यत॑ने सप्त॒मे ऽह॑ञ् छु॒क्रो गृ॑ह्यते +++(व्यूढे)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+The fifth day is the abode of the Śukra [6], (the cup) for Indra and Vayu is drawn on this (day); therefore the Śukra is drawn on the seventh day, the abode of (the cup) for Indra and Vayu.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒ग्र॒य॒णस्य॒ वा ए॒तद् आ॒यत॑नय्ँ॒ यत् ष॒ष्ठम् अहः॑  +++(अव्यूढे ऐन्द्रवायवशुक्राग्रयणानां पुनःपुनः प्रवृत्तेः)+++।  
 तस्मि॑ञ् छु॒क्रो गृ॑ह्यते  +++(व्यूढे ऐन्द्रवायव-शुक्र-आग्रयण-चक्रक्रमे)+++।  
 तस्मा॑च् छु॒क्रस्या॒यत॑ने ऽष्ट॒मे ऽह॑न्न् आग्रय॒णो गृ॑ह्यते +++(व्यूढे)+++।  
+</details>
+
+<details><summary>Keith</summary>
+
+The sixth day is the abode of the Agrayana, the Śukra is drawn on this (day); therefore the Agrayana is drawn on the eighth day, the abode of the Śukra.
 </details>
 
 
@@ -206,10 +304,24 @@ title = "०८ द्वादशाहस्य नित्य-ग्रह�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-छन्दाँ॑स्य् ए॒व तद् +++(परस्परं)+++ विवा॑हयति +++(तत्प्रधानत्वादह्नाम्)+++।  
-प्र वस्य॑सो+++(=वसीयसो [कुलात्])+++ विवा॒हम् आ॑प्नोति॒ , य ए॒वव्ँ वेद॑ ।  
-अथो॑ दे॒वता॑भ्य ए॒व य॒ज्ञे सव्ँ॒विद॑न् दधाति +++(व्यूढं यज्ञं निर्वर्तयिष्यामीति)+++।  
-तस्मा॑द् इ॒दम् - अन्यो॑न्यस्मै॑ ददाति +++(स्वदारिकां)+++॥ [33]  
+छन्दाँ॑स्य् ए॒व तद् +++(परस्परं)+++ विवा॑हयति +++(तत्प्रधानत्वादह्नाम्)+++।
+प्र वस्य॑सो+++(=वसीयसो [कुलात्])+++ विवा॒हम् आ॑प्नोति॒ , य ए॒वव्ँ वेद॑ ।
+अथो॑ दे॒वता॑भ्य ए॒व य॒ज्ञे सव्ँ॒विद॑न् दधाति +++(व्यूढं यज्ञं निर्वर्तयिष्यामीति)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+Verily thus does he exchange the metres, and he who knows thus obtains interchange with the richer; verily also he causes concord in the sacrifice for the gods.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॑द् इ॒दम् - अन्यो॑न्यस्मै॑ ददाति +++(स्वदारिकां)+++॥ [33]
+</details>
+
+<details><summary>Keith</summary>
+
+Therefore one gives this to another.
 </details>
 
 

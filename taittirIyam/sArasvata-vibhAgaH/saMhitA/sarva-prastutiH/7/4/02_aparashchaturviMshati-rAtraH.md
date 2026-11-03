@@ -1,6 +1,5 @@
 +++
 title = "०२ अपरश्चतुर्विंशति-रात्रः"
-
 +++
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -42,14 +41,43 @@ title = "०२ अपरश्चतुर्विंशति-रात्र
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा॒ वै म॑नु॒ष्या॑ ए॒वन् दे॒वा अग्र॑ आसन् ।+++(5)+++  
-ते॑ ऽकामय॒न्त -
-"अव॑र्तिम् पा॒प्मान॑म् मृ॒त्युम् अ॑प॒हत्य॒ दैवीँ॑ सँ॒सद॑ङ् गच्छे॒म"+ इति॑ ।  
-त ए॒तञ् च॑तुर्विँशतिरा॒त्रम् अ॑पश्यन् ।
-तम् आह॑र॒न् । तेना॑यजन्त ।  
-ततो॒ वै ते ऽव॑र्तिम् पा॒प्मान॑म् मृ॒त्युम् अ॑प॒हत्य॒ दैवीँ॑ सँ॒सद॑म् अगच्छन् ।  
-य ए॒वव्ँ वि॒द्वाँ॑सश् चतुर्विँशतिरा॒त्रम् आस॒ते , ऽव॑र्तिम् ए॒व पा॒प्मान॑म् अप॒हत्य॒ श्रिय॑ङ् गच्छन्ति ।  
-श्री॒र् हि म॑नु॒ष्य॑स्य॒ दैवी॑ सँ॒सत् ।[4]  
+यथा॒ वै म॑नु॒ष्या॑ ए॒वन् दे॒वा अग्र॑ आसन् ।+++(5)+++
+</details>
+
+<details><summary>Keith</summary>
+
+As are men, so were the gods in the beginning.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>ते॑ ऽकामय॒न्त -
+"अव॑र्तिम् पा॒प्मान॑म् मृ॒त्युम् अ॑प॒हत्य॒ दैवीँ॑ सँ॒सद॑ङ् गच्छे॒म"+ इति॑ ।</details>
+
+<details><summary>Keith</summary>
+
+They desired, 'Let us strike off the misfortune, the evil of death, and reach the conclave of the gods.'
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>त ए॒तञ् च॑तुर्विँशतिरा॒त्रम् अ॑पश्यन् ।
+तम् आह॑र॒न् । तेना॑यजन्त ।</details>
+
+<details><summary>Keith</summary>
+
+They saw this twenty-four night (rite); they grasped it, and sacrificed with it.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>ततो॒ वै ते ऽव॑र्तिम् पा॒प्मान॑म् मृ॒त्युम् अ॑प॒हत्य॒ दैवीँ॑ सँ॒सद॑म् अगच्छन् ।</details>
+
+<details><summary>Keith</summary>
+
+Then they struck off the misfortune, the evil of death, and reached the conclave of the gods.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>य ए॒वव्ँ वि॒द्वाँ॑सश् चतुर्विँशतिरा॒त्रम् आस॒ते , ऽव॑र्तिम् ए॒व पा॒प्मान॑म् अप॒हत्य॒ श्रिय॑ङ् गच्छन्ति ।  
+श्री॒र् हि म॑नु॒ष्य॑स्य॒ दैवी॑ सँ॒सत् ।[4]</details>
+
+<details><summary>Keith</summary>
+
+Those who knowing thus perform the twenty-four night (rite) strike off the misfortune, the evil, and win prosperity, for the conclave of the gods is in the case of man [1] prosperity.
 </details>
 
 ## विधानम्
@@ -59,12 +87,34 @@ title = "०२ अपरश्चतुर्विंशति-रात्र
 ज्योति॑र् अतिरा॒त्रो भ॑वति , सु॒व॒र्गस्य॑ लो॒कस्य +अनु॑ख्यात्यै ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The Atiratra is light, for the lighting up of the world of heaven.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृष्ठ्य॑ष्+++(=पृष्ठयुक्तः)+++ षड॒हो भ॑वति ।
-षड् वा ऋ॒तव॑स् सव्ँवत्स॒रः । 
-तम् मासा॑ अर्धमा॒सा ऋ॒तवᳶ॑ प्र॒विश्य॒ दैवीँ॑ सँ॒सद॑म् अगच्छ॒न् ।  
-य ए॒वव्ँ वि॒द्वाँ॑सश् चतुर्विँशतिरा॒त्रम् आस॑ते , सव्ँवत्स॒रम् ए॒व प्र॒विश्य॒ वस्य॑सीँ सँ॒सद॑ङ् गच्छन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+There is a Prsthva Sadaha.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>षड् वा ऋ॒तव॑स् सव्ँवत्स॒रः । 
+तम् मासा॑ अर्धमा॒सा ऋ॒तवᳶ॑ प्र॒विश्य॒ दैवीँ॑ सँ॒सद॑म् अगच्छ॒न् ।</details>
+
+<details><summary>Keith</summary>
+
+The year consists of six seasons, and, entering it, the months, the half-months and the seasons reached the conclave of the gods.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>य ए॒वव्ँ वि॒द्वाँ॑सश् चतुर्विँशतिरा॒त्रम् आस॑ते , सव्ँवत्स॒रम् ए॒व प्र॒विश्य॒ वस्य॑सीँ सँ॒सद॑ङ् गच्छन्ति ।</details>
+
+<details><summary>Keith</summary>
+
+Those who knowing thus perform the twenty-four night rite, entering the year, reach a better station.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -74,10 +124,20 @@ title = "०२ अपरश्चतुर्विंशति-रात्र
 पृ॒ष्ठानि॒ हि दैवी॑ सँ॒सत् ।
 </details>
 
+<details><summary>Keith</summary>
+
+There are three Trayastrinśas before, and three Trayastrinśas behind; verily with Trayastrinśas on either hand they strike off the evil of misfortune and in the middle reach the conclave of the gods [2], for the conclave of the gods is the Prsthas.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जा॒मि वा ए॒तत् कु॑र्वन्ति॒ यत् त्रय॑स् त्रयस्त्रिँ॒शा अ॒न्वञ्चः॑ ।  
 मध्ये ऽनि॑रुक्तो भवति॒ , तेन अजा॑मि ।  
+</details>
+
+<details><summary>Keith</summary>
+
+There is uniformity in that there are three Trayastrinśas in succession, and a break in the uniformity in that there is in the middle one which is not defined.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -86,8 +146,14 @@ title = "०२ अपरश्चतुर्विंशति-रात्र
 +++(छन्दोमात्मके षडहे)+++ ऊ॒र्ध्वाश् छ॑न्दो॒माः ।  
 उ॒भाभ्याँ॑ रू॒पाभ्याँ॑ +++(पृष्ठ्य-च्छन्दोमात्मकाभ्यां)+++ सुव॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
 </details>
+
+<details><summary>Keith</summary>
+
+The Prsthas go onwards, the Chandomas go onwards; with both forms they go to the world of heaven.
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/06_panchadasharAtrayoH_vidhiH/asatram_aChandomam.md">
-<details open><summary><h3>असत्रम् अछन्दोमम् ...{Loading}...</h3></summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अस॑त्त्रव्ँ॒वा ए॒तद्यद॑छन्दो॒मय्ँयच्छ॑न्दो॒मा भव॑न्ति॒ तेन॑ स॒त्त्रन्दे॒वता॑ ए॒व पृ॒ष्ठैरव॑ रुन्धते प॒शूञ्छ॑न्दो॒मैरोजो॒ वै वी॒र्य॑म्पृ॒ष्ठानि॑ प॒शव॑श्छन्दो॒मा ओज॑स्ये॒व वी॒र्ये॑ प॒शुषु॒ प्रति॑ तिष्ठन्ति
@@ -97,32 +163,86 @@ title = "०२ अपरश्चतुर्विंशति-रात्र
 
 +++(छन्दोमवतः प्रशंसार्थं वक्ति - )+++ अस॑त्त्रव्ँ॒ वा ए॒तद् यद् अ॑छन्दो॒मम् ।
 यच् छ॑न्दो॒मा भव॑न्ति॒ तेन॑ स॒त्त्रम् ।  
-दे॒वता॑ ए॒व पृ॒ष्ठैर् अव॑ रुन्धते प॒शूञ् छ॑न्दो॒मैः ।  
-ओजो॒ वा वी॒र्य॑म् पृ॒ष्ठानि॑, प॒शव॑श् छन्दो॒मा ।  
-ओज॑स्य् ए॒व वी॒र्ये॑, प॒शुषु॒ +++(च)+++ प्रति॑ तिष्ठन्ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+There can be no Sattra where there is no Chandoma; in that there axe Chandomas, there is the Sattra.
 </details>
 
 <details><summary>मूलम्</summary>
 
 अस॑त्त्रव्ँ॒ वा ए॒तद् यद॑छन्दो॒मम् ।
 यच्छ॑न्दो॒मा भव॑न्ति॒ तेन॑ स॒त्त्रम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>दे॒वता॑ ए॒व पृ॒ष्ठैर् अव॑ रुन्धते प॒शूञ् छ॑न्दो॒मैः ।</details>
+
+<details><summary>Keith</summary>
+
+The gods they win by the Prsthas, the cattle by the Chandomas.
+</details>
+
+<details><summary>मूलम्</summary>
+
 दे॒वता॑ ए॒व पृ॒ष्ठैरव॑ रुन्धते प॒शूञ्छ॑न्दो॒मैः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>ओजो॒ वा वी॒र्य॑म् पृ॒ष्ठानि॑, प॒शव॑श् छन्दो॒मा ।</details>
+
+<details><summary>Keith</summary>
+
+The Prsthas are force and strength, the Chandomas cattle;
+</details>
+
+<details><summary>मूलम्</summary>
+
 ओजो॒ वै वी॒र्य॑म्पृ॒ष्ठानि॑ प॒शव॑श्छन्दो॒माः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओज॑स्य् ए॒व वी॒र्ये॑, प॒शुषु॒ +++(च)+++ प्रति॑ तिष्ठन्ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily in force [2] and strength they find support.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ओज॑स्ये॒व वी॒र्ये॑ प॒शुषु॒ प्रति॑ तिष्ठन्ति ।
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अहःक्रमे)+++  
 त्रय॑स् त्रयस्त्रिँ॒शा अ॒वस्ता॑द् भवन्ति,  
 त्रय॑स् त्रयस्त्रिँ॒शाᳶ प॒रस्ता॒न्,  
-मध्ये॑ पृ॒ष्ठानि ।  
-उरो॒ वै त्र॑यस्त्रिँ॒शा आ॒त्मा पृ॒ष्ठानि ।  
-आ॒त्मन॑ ए॒व तद् यज॑माना॒श् शर्म॑ +++(सं)+++नह्य॒न्ते ऽना॑र्त्यै ।  
+मध्ये॑ पृ॒ष्ठानि ।
 </details>
+
+<details><summary>Keith</summary>
+
+There are three Trayastrinśas before, and three Trayastrinśas behind; in the middle there are the Prsthas.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उरो॒ वै त्र॑यस्त्रिँ॒शा आ॒त्मा पृ॒ष्ठानि ।  
+आ॒त्मन॑ ए॒व तद् यज॑माना॒श् शर्म॑ +++(सं)+++नह्य॒न्ते ऽना॑र्त्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+The Trayastrinśas are the breast, the Prsthas the breath; verily thus the sacrificers don a protection for the breath, to avoid injury.
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md">
-<details open><summary><h3>बृहद्-रथन्तर-यानम् ...{Loading}...</h3></summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 बृहद्रथन्त॒राभ्याय्ँ॑यन्ती॒यव्ँ वाव र॑थन्त॒रम॒सौ बृ॒हदा॒भ्यामे॒व [2]  
@@ -132,35 +252,95 @@ title = "०२ अपरश्चतुर्विंशति-रात्र
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(दिवसेषु एकान्तराभ्यां)+++ बृहद्रथन्त॒राभ्याय्ँ॑ यन्ति ।
-इ॒यव्ँ वाव र॑थन्त॒रम्, अ॒सौ बृ॒हत् +++(चास्ति)+++।  
-आ॒भ्यामे॒व य॒न्ति +++(प्रथमदिनयोः)+++ ।  
+</details>
 
-अथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्ति ।  
-ए॒ते वै य॒ज्ञस्या॑ञ्ज॒साय॑नी स्रु॒ती+++(=मार्गौ)+++ ।  
-ताभ्या॑म् ए॒व सु॑व॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
+<details><summary>Keith</summary>
+
+They proceed with the Brhat and the Rathantara (Samans).
 </details>
 
 <details><summary>मूलम्</summary>
 
 बृ॒ह॒द्र॒थ॒न्त॒राभ्याय्ँ॑ यन्ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ॒यव्ँ वाव र॑थन्त॒रम्, अ॒सौ बृ॒हत् +++(चास्ति)+++।
+आ॒भ्यामे॒व य॒न्ति +++(प्रथमदिनयोः)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The Rathantara is this (earth), the Brhat yonder (sky); verily with them do they proceed;
+</details>
+
+<details><summary>मूलम्</summary>
+
 इ॒यव्ँ वाव र॑थन्त॒रम् अ॒सौ बृ॒हत् ।
-आ॒भ्यामे॒व य॒न्ति [2]।  
+आ॒भ्यामे॒व य॒न्ति [2]।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>अथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्ति ।</details>
+
+<details><summary>Keith</summary>
+
+verily also in them they find support.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ए॒ते वै य॒ज्ञस्या॑ञ्ज॒साय॑नी स्रु॒ती+++(=मार्गौ)+++ ।  
+ताभ्या॑म् ए॒व सु॑व॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+These indeed are the quick paths of the sacrifice; verily by them do they proceed to the world of heaven.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ए॒ते वै य॒ज्ञस्या॑ञ्ज॒साय॑नी स्रु॒ती ।
-ताभ्या॑मे॒व सु॑व॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
+ताभ्या॒मे॒व सु॑व॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परा॑ञ्चो॒ वा ए॒ते सु॑व॒र्गल्ँ लो॒कम् अ॒भ्यारो॑हन्ति॒ ,
 ये प॑रा॒चीना॑नि पृ॒ष्ठान्य् उ॑प॒यन्ति॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+They mount the world of heaven turning away (from earth) who perform the Prsthas in succession.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒त्यङ्क् ष॑ड॒हो भ॑वति प्र॒त्यव॑रूढ्या॒ - अथो॒ प्रति॑ष्ठित्यै ।
-उ॒भयो॑र् लो॒कयो॑र् ऋ॒द्ध्वोत्ति॑ष्ठन्ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The six-day (rite) is reversed for the return (from the heaven), and for support.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उ॒भयो॑र् लो॒कयो॑र् ऋ॒द्ध्वोत्ति॑ष्ठन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Having prospered in either world they cease (the rite).
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -168,10 +348,26 @@ title = "०२ अपरश्चतुर्विंशति-रात्र
 +++(आदिमात्?)+++ त्रि॒वृतो ऽधि॑ +++(षडहाङ्ग)+++त्रि॒वृत॒म् उप॑ यन्ति॒ स्तोमा॑नाँ॒ सम्प॑त्त्यै प्रभ॒वाय।
 </details>
 
+<details><summary>Keith</summary>
+
+They go from a Trivrt to a Trivrt, for the attainment of the Stomas, for pre eminence.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>ज्योति॑र् अग्निष्टो॒मो भ॑वति ।</details>
+
+<details><summary>Keith</summary>
+
+There is an Agnistoma in the Jyotis form.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योति॑र् अग्निष्टो॒मो भ॑वति ।
 अ॒यव्ँ +++(मनुष्यलोकः)+++ वाव स +++(अग्निष्टोमस्य)+++ क्षयो॒+++(=आयतनम्)+++, ऽस्माद् ए॒व तेन॒ क्षया॒न् +++(लाकान्)+++ न य॑न्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+This dwelling is this (world); verily by reason thereof they depart not from this dwelling.
 </details>
 
 ## फलम्
@@ -179,15 +375,43 @@ title = "०२ अपरश्चतुर्विंशति-रात्र
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च॒तु॒र्विँ॒श॒ति॒रा॒त्रो भ॑वति ।
+</details>
+
+<details><summary>Keith</summary>
+
+(The rite is one) of twenty-four nights.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 चतु॑र्विँशतिर् अर्धमा॒सास् सव्ँ॑वत्स॒रः ।  
 सव्ँ॒व॒त्स॒रस् सु॑वर्गो लो॒कः ।
-सव्ँ॒व॒त्स॒र ए॒व सु॑व॒र्गे लो॒के प्रति॑ तिष्ठ॒न्ति ।  
+सव्ँ॒व॒त्स॒र ए॒व सु॑व॒र्गे लो॒के प्रति॑ तिष्ठ॒न्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Twenty-four half months make up the year, the year is the world of heaven; verily they find support in the year, the world of heaven.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो॒ चतु॑र्विँशत्य् अक्षरा गाय॒त्री ।
 गा॒य॒त्री ब्र॑ह्मवर्च॒सम् ।  
-गा॑यत्रि॒यैव ब्र॑ह्मवर्च॒सम् अव॑ रुन्धते ।  
-अ॒ति॒रा॒त्राव् अ॒भितो॑ भवतो, ब्रह्मवर्च॒सस्य॒ परि॑गृहीत्यै ॥ [8]  
+गा॑यत्रि॒यैव ब्र॑ह्मवर्च॒सम् अव॑ रुन्धते ।
+</details>
+
+<details><summary>Keith</summary>
+
+Now the Gayatri is of twenty-four syllables; the Gayatri is splendour; verily by the Gayatri they win splendour.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒ति॒रा॒त्राव् अ॒भितो॑ भवतो, ब्रह्मवर्च॒सस्य॒ परि॑गृहीत्यै ॥ [8]
+</details>
+
+<details><summary>Keith</summary>
+
+There are Atiratras on either side, to secure splendour.
 </details>

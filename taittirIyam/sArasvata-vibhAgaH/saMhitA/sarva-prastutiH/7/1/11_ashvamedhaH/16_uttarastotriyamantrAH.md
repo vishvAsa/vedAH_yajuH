@@ -7,7 +7,6 @@ title = "१६ (पूर्वदीक्षाहोमाः )उत्त�
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विश्वेदेवा ऋषयः
-
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -17,19 +16,117 @@ title = "१६ (पूर्वदीक्षाहोमाः )उत्त�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॒ स्वाहा॑ । सोमा॑य॒ स्वाहा॑ ।  
-स॒वि॒त्रेे स्वाहा॑ । सर॑स्वत्यै॒ स्वाहा॑ ।  
-पू॒ष्णे स्वाहा॑ ।  
-बृह॒स्पत॑ये॒ स्वाहा॑ ।  
-अ॒पाम् मोदा॑य॒ +++(पर्जन्याय)+++ स्वाहा॑ । वा॒यवे॒ स्वाहा॑ ।
-मि॒त्राय॒ स्वाहा॑ । वरु॑णाय॒ स्वाहा॑ ।  
+अ॒ग्नये॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Agni hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सोमा॑य॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Soma hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒वि॒त्रेे स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Savitr hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर॑स्वत्यै॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Sarasvati hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पू॒ष्णे स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Pusan hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बृह॒स्पत॑ये॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Brhaspati hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒पाम् मोदा॑य॒ +++(पर्जन्याय)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the joy of the waters hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वा॒यवे॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Vayu hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मि॒त्राय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Mitra hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वरु॑णाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To Varuna hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सर्व॑स्मै॒ स्वाहा॑ ॥
 </details>
 
+<details><summary>Keith</summary>
+
+To all hail!
+</details>
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्नये॒ स्वाहा॒ सोमा॑य॒ स्वाहा॑ सवि॒त्रे स्वाहा॒ सर॑स्वत्यै॒ स्वाहा॑ पू॒ष्णे स्वाहा॒ बृह॒स्पत॑ये॒ स्वाहा॒ऽपाम्मोदा॑य॒ स्वाहा॑ वा॒यवे॒ स्वाहा॑ मि॒त्राय॒ स्वाहा॒ वरु॑णाय॒ स्वाहा॒ सर्व॑स्मै॒ स्वाहा॑ ॥ 45 ॥ 
+अ॒ग्नये॒ स्वाहा॒ सोमा॑य॒ स्वाहा॑ सवि॒त्रे स्वाहा॒ सर॑स्वत्यै॒ स्वाहा॑ पू॒ष्णे स्वाहा॒ बृह॒स्पत॑ये॒ स्वाहा॒ऽपाम्मोदा॑य॒ स्वाहा॑ वा॒यवे॒ स्वाहा॑ मि॒त्राय॒ स्वाहा॒ वरु॑णाय॒ स्वाहा॒ सर्व॑स्मै॒ स्वाहा॑ ॥ 45 ॥
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -10,22 +10,22 @@ title = "०४ अङ्गिरसाम् अहीनेषु द्व�
 सोमऋषिः
 </details>
 
-
 ## फलम्
-
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 एवं सर्वेऽप्येकाहा विहिताः । द्विरात्रादयोप्यहीनाः क्रमेण विधीयन्ते । सर्वे चाहीनाः अन्यतरतोतिरात्रा भवन्ति । यदि चैवाहीनो यदि च सत्रं, उभयथैवोभयतोतिरात्रो द्वादशाहो भवति आदेशात् । अन्यथाऽहीनोपि उभयतोतिरात्रो भवति । सर्वमुत्तरत्र वक्ष्यते ।   
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गि॑रसो॒ वै स॒त्त्रम् आ॑सत+++(→उपवेशने)+++।
-
 </details>
 
+<details><summary>Keith</summary>
+
+The Angirases performed a sacrificial session.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -33,8 +33,6 @@ title = "०४ अङ्गिरसाम् अहीनेषु द्व�
 </details>
 
 <details><summary>पद-पाठः</summary>
-
-
 </details>
 
 <details><summary>प्रदीपसिंहः</summary>
@@ -44,30 +42,44 @@ title = "०४ अङ्गिरसाम् अहीनेषु द्व�
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-
 अङ्गिरस इत्यादि ॥ आसिरयमकर्मकः, सोस्मिन्विषये आस्थानकर्मेत्येके । यथा सत्रं भवति तथाऽऽसतेत्यन्ये । सत्रासनं सहासनं क्रतुविशेषस्याख्या, तदकुर्वतेत्यपरे ॥ यथा 'प्रति प्रातिष्ठदध्वरे' इत्यादि ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते सु॑व॒र्गल्ँ लो॒कम् आ॑यन् ।
-तेषाँ॑ +++(जनद्वयम्)+++ ह॒विष्माँ॑श् च हवि॒ष्कृच् चा॑हीयेता॒म् ।
+</details>
 
+<details><summary>Keith</summary>
+
+They went to the world of heaven.
 </details>
 
 <details><summary>मूलम्</summary>
 
 ते सु॑व॒र्गल्ँ लो॒कमा॑यन् ।
-तेषाँ॑ ह॒विष्माँ॑श्च हवि॒ष्कृच्चा॑हीयेताम् ।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेषाँ॑ +++(जनद्वयम्)+++ ह॒विष्माँ॑श् च हवि॒ष्कृच् चा॑हीयेता॒म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Of them Havismant and Haviskrt were left behind.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेषाँ॑ ह॒विष्माँ॑श्च हवि॒ष्कृच्चा॑हीयेताम् ।
+</details>
 
 <details><summary>पद-पाठः</summary>
 
 ते । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । आ॒य॒न् ।     
 
 तेषा॑म् । ह॒विष्मान्॑ । च॒ । ह॒वि॒ष्कृदिति॑ हविः-कृत् । च॒ । अ॒ही॒ये॒ता॒म् ।     
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -77,17 +89,33 @@ title = "०४ अङ्गिरसाम् अहीनेषु द्व�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव् अ॑कामयेताम् - सुव॒र्गल्ँ लो॒कम् इ॑या॒वेति। 
-ताव् ए॒तन् +++(आङ्गिरसम्)+++ द्वि॑रा॒त्रम् अ॑पश्यता॒म् ।  
+ताव् अ॑कामयेताम् - सुव॒र्गल्ँ लो॒कम् इ॑या॒वेति।
+</details>
+
+<details><summary>Keith</summary>
+
+They desired, 'May we two go to the world of heaven.'
 </details>
 
 <details><summary>मूलम्</summary>
 
-ताव् अ॑कामयेताम् - सुव॒र्गल्ँ लो॒कम् इ॒या॒वेति॑ ।  
+ताव् अ॑कामयेताम् - सुव॒र्गल्ँ लो॒कम् इ॒या॒वेति॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताव् ए॒तन् +++(आङ्गिरसम्)+++ द्वि॑रा॒त्रम् अ॑पश्यता॒म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+They two saw this two-night rite,
+</details>
+
+<details><summary>मूलम्</summary>
 
 ताव् ए॒तन् द्वि॑रा॒त्रम् अ॑पश्यताम् ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -104,27 +132,49 @@ title = "०४ अङ्गिरसाम् अहीनेषु द्व�
 तत्रैतमित्याङ्गिरसं निर्दिशति इतरनिवृत्त्यर्थम् ।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तम् आह॑रता॒म्+++(→आरभेताम्)+++। तेना॑यजेता॒म्।   
+</details>
 
 <details><summary>Keith</summary>
 
-The Angirases performed a sacrificial session. They went to the world of heaven.  
-Of them Havismant and Haviskrt were left behind.  
-They desired, 'May we two go to the world of heaven.' They two saw this two-night rite. 
+they grasped it, and sacrificed with it.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम् आह॑रता॒म्+++(→आरभेताम्)+++। तेना॑यजेता॒म्।   
 ततो॒ वै तौ सु॑व॒र्गल्ँ लो॒कमै॑ताम्।  
-य ए॒वव्ँ वि॒द्वान् द्वि॑रा॒त्रेण॒ यज॑ते, सुव॒र्गम् ए॒व लो॒कम् ए॑ति।  
-तावैता॒म् पूर्वे॒णाऽह्नाऽग॑च्छता॒म् उत्त॑रेण।  
+</details>
 
+<details><summary>Keith</summary>
+
+Then they went to the world of heaven.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य ए॒वव्ँ वि॒द्वान् द्वि॑रा॒त्रेण॒ यज॑ते, सुव॒र्गम् ए॒व लो॒कम् ए॑ति।  
+</details>
+
+<details><summary>Keith</summary>
+
+He, who knowing thus offers the two-night sacrifice, goes to the world of heaven.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तावैता॒म् पूर्वे॒णाऽह्नाऽग॑च्छता॒म् उत्त॑रेण।  
+</details>
+
+<details><summary>Keith</summary>
+
+They went with the first day and arrived with the second [1].
 </details>
 
 <details><summary>मूलम्</summary>
 
 तमाह॑रताम् ।  तेना॑यजेताम् ।   
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,11 +183,9 @@ They desired, 'May we two go to the world of heaven.' They two saw this two-nigh
 तेन॑ । अ॒य॒जे॒ता॒म् ।     
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तमाहरतां इष्टसाधन त्वेन गृहीतवन्तौ, तेनायजेतां इष्टं साधितवन्तौ । यद्वा - तमाहरतां तमारभेतां तेन अयजेतां देवान् पूजितवन्तौ ततस्स्वर्गं गतौ ।   
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -155,14 +203,12 @@ They desired, 'May we two go to the world of heaven.' They two saw this two-nigh
 ऐतां स्वर्गार्थं प्रस्थितौ,   
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वि॒द्वान् द्वि॑रा॒त्रेण॒ यज॑ते, सुव॒र्गम् ए॒व लो॒कम् ए॑ति।  
 
 तावैताम् पूर्वे॒णाऽह्नाऽग॑च्छता॒म् उत्त॑रेण । 
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -171,29 +217,23 @@ They desired, 'May we two go to the world of heaven.' They two saw this two-nigh
 तौ । ऐता॑म् । पूर्वे॑ण । अह्ना॑ । अग॑च्छताम् । उत्त॑रे॒णेत्युत्-त॒रे॒ण॒ । [11]
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अगच्छतां स्वर्गं प्राप्तवन्तौ ।
 </details>
 
-<details><summary>Keith</summary>
-
-They grasped it, and sacrificed with it. Then they went to the world of heaven.  
-He, who knowing thus offers the two-night sacrifice, goes to the world of heaven.  
-They went with the first day and arrived with the second [1]. 
-</details>
-
-
 ## विधानम्
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आङ्गीरसः = (ज्योष्टोमः, सर्वस्तोमो ऽतिरात्रः)।)+++
 
-
 अ॒भि॒प्ल॒वᳶ +++(षडहस्याद्यम् अहः)+++ पूर्व॒म् अह॑र् भवति॒, गति॒र् +++(अष्टमोतिरात्रविशेषः)+++ उत्त॑रम् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The first day is the Abhiplava, the second the complete (gati).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -211,35 +251,27 @@ They went with the first day and arrived with the second [1].
 अभिप्लवः षडहस्याद्यमहः अस्य पूर्वमहर्भवति । गतिरुत्तरमिति । अष्टमोतिरात्रविशेषः उत्तरमहर्भवति ॥
 </details>
 
-
-<details><summary>Keith</summary>
-
-The first day is the Abhiplava, the second the complete (gati).
-</details>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(त्रिवृदादि-स्तोम-चतुष्टयवान्)+++ ज्योति॑ष्टोमो ऽग्निष्टो॒मᳶ+++(→अग्निष्टोमसामान्तं)+++ पूर्व॒म् अह॑र् भवति।   
 तेज॒स् तेनाव॑ रुन्धे+++(=लभते)+++।  
-
 </details>
 
+<details><summary>Keith</summary>
+
+The first day is the Jyotistoma form of the Agnistoma; with it he wins splendour.
+</details>
 
 <details><summary>मूलम्</summary>
 
 ज्योति॑ष्टोमो ऽग्निष्टो॒मᳶ पूर्व॒म् अह॑र् भवति ।
 तेज॒स्तेन अव॑ रुन्धे ।
-
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
 ज्योति॑ष्टोम॒ इति॒ ज्योतिः॑-स्तो॒मः॒ । अ॒ग्नि॒ष्टो॒म इत्य॑ग्नि-स्तो॒मः । पूर्व॑म् । अहः॑ । भ॒व॒ति॒ । तेजः॑ । तेन॑ । अवेति॑ । रु॒न्द्धे॒ ।     
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -249,7 +281,11 @@ The first day is the Abhiplava, the second the complete (gati).
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व॑स्तोमो ऽतिरा॒त्र उत्त॑रम्, सर्व॒स्याऽऽप्त्यै॒ सर्व॒स्याव॑रुध्यै ।  
+</details>
 
+<details><summary>Keith</summary>
+
+The second day is an Atiratra with all the Stomas, that he may obtain all and win all.
 </details>
 
  
@@ -271,24 +307,34 @@ The first day is the Abhiplava, the second the complete (gati).
 सर्वस्तोमः सर्वसंस्थासंबन्धिस्तोमवानतिरात्रो द्वितीयमहर्भवति । यथोक्तं - 'चतुर्विंशाः पवमानाः पञ्चदशानि त्रीण्याज्यानि, सप्तदशमच्छावाकस्य एकविंशानि त्रीणि पृष्ठानि, त्रिणव मच्छावाकस्य त्रयस्त्रिंशोग्निष्टोमसामानि एकविंशान्युक्थ्यानि सषोडशिकानि पञ्चदशी रात्रिः त्रिवृत्सन्धिः' इति ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गाय॒त्रम् पूर्वे ऽह॒न्त् साम॑ भवति।
+</details>
 
 <details><summary>Keith</summary>
 
-The first day is the Jyotistoma form of the Agnistoma; with it he wins splendour.  
-The second day is an Atiratra with all the Stomas, that he may obtain all and win all. 
-</details>
-
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-गाय॒त्रम् पूर्वे ऽह॒न्त् साम॑ भवति। तेजो॒ वै गा॑य॒त्री। गा॑य॒त्री ब्र॑ह्मवर्च॒सम्। तेज॑ ए॒व ब्र॑ह्मवर्च॒सम् अत्मन् ध॑त्ते।
+On the first day the Saman is in the Gayatri (metre).
 </details>
 
 <details><summary>मूलम्</summary>
 
-गा॒य॒त्रम्पूर्वेह॒न्त्साम॑ भवति।  
-तेजो॒ वै गा॑य॒त्री । गा॒य॒त्री ब्र॑ह्मवर्च॒सम्।  
-तेज॑ ए॒व ब्र॑ह्मवर्च॒समा॒त्मन्ध॑त्ते।  
+गा॒य॒त्रम्पूर्वेह॒न्त्साम॑ भवति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेजो॒ वै गा॑य॒त्री। गा॑य॒त्री ब्र॑ह्मवर्च॒सम्। तेज॑ ए॒व ब्र॑ह्मवर्च॒सम् अत्मन् ध॑त्ते।
+</details>
+
+<details><summary>Keith</summary>
+
+The Gayatri is brilliance and splendour; verily he bestows brilliance and splendour on himself.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेजो॒ वै गा॑य॒त्री । गा॒य॒त्री ब्र॑ह्मवर्च॒सम्। तेज॑ ए॒व ब्र॑ह्मवर्च॒समा॒त्मन्ध॑त्ते।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -304,21 +350,34 @@ The second day is an Atiratra with all the Stomas, that he may obtain all and wi
 3गायत्रं गायत्रीप्रभवं पूर्वेऽह्नि साम भवति।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रैष्टु॑भ॒म् उत्त॑रे।
+</details>
 
 <details><summary>Keith</summary>
 
-On the first day the Saman is in the Gayatri (metre). The Gayatri is brilliance and splendour; verily he bestows brilliance and splendour on himself. 
-</details>
-
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-त्रैष्टु॑भ॒म् उत्त॑रे। ओजो॒ वै वी॒र्य॑म्। त्रि॒ष्टुग्+++(भ्)+++ ओज॑ ए॒व। वी॒र्य॑म् आ॒त्मन् ध॑त्ते।
+On the second day (the Saman) is in the Tristubh metre.
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्रैष्टु॑भ॒मुत्त॑र॒ ओजो॒ वै वी॒र्य॑म्,
+त्रैष्टु॑भ॒मुत्त॑र॒
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओजो॒ वै वी॒र्य॑म्। त्रि॒ष्टुग्+++(भ्)+++ ओज॑ ए॒व। वी॒र्य॑म् आ॒त्मन् ध॑त्ते।
+</details>
+
+<details><summary>Keith</summary>
+
+The Tristubh is force and strength; verily he bestows force and strength on himself.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ओजो॒ वै वी॒र्य॑म्,
 त्रि॒ष्टुगोज॑ ए॒व वी॒र्य॑मा॒त्मन्ध॑त्ते।
 </details>
 
@@ -335,19 +394,16 @@ On the first day the Saman is in the Gayatri (metre). The Gayatri is brilliance 
 आज्ये त्रैष्टुभस्य साम्नोभावात् होतुराज्ये विधानम् । यथोक्तमाचार्येण - 'होतुराज्यं संपादयेत्' इति ॥
 </details>
 
-
-<details><summary>Keith</summary>
-
-On the second day (the Saman) is in the Tristubh metre. The Tristubh is force and strength; verily he bestows force and strength on himself.
-</details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 र॒थ॒न्त॒रम् पूर्वेऽह॒न्त् साम॑ भवति ।  
 इ॒यव्ँ वै र॑थन्त॒रम्। अ॒स्याम् ए॒व प्रति॑ तिष्ठति।
 </details>
 
+<details><summary>Keith</summary>
+
+The Saman on the first day [2] is the Rathantara.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -371,6 +427,11 @@ On the second day (the Saman) is in the Tristubh metre. The Tristubh is force an
 तदा॑हु॒ᳵ क्व॑ जग॑ती चानु॒ष्टुप्चेति॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+The Rathantara is this (earth); verily he stands firm on this (earth).
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒यव्ँ वै  र॑थन्त॒रम॒स्यामे॒व प्रति॑ तिष्ठति,
@@ -382,25 +443,40 @@ On the second day (the Saman) is in the Tristubh metre. The Tristubh is force an
 अ॒स्याम् । ए॒व । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।     
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बृ॒हदुत्त॑रे।
+</details>
 
 <details><summary>Keith</summary>
 
-The Saman on the first day [2] is the Rathantara.  
-The Rathantara is this (earth); verily he stands firm on this (earth). 
+(The Saman) on the second is the Brhat.
 </details>
-
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-बृ॒हदुत्त॑रे। असौ वै बृ॒हत्। अ॒मुष्या॑म् ए॒व प्रति॑ तिष्ठति।  
-तद् आ॑हु॒ᳶ- क्व॑ जग॑ती चानु॒ष्टुप् चेति॑ ।  
-</details>
-
 
 <details><summary>मूलम्</summary>
 
 बृ॒हदुत्त॑रे॒ऽसौ वै बृ॒हद॒मुष्या॑मे॒व प्रति॑ तिष्ठति।  
 तदा॑हु॒ᳵ क्व॑ जग॑ती चानु॒ष्टुप्चेति॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+असौ वै बृ॒हत्। अ॒मुष्या॑म् ए॒व प्रति॑ तिष्ठति।
+</details>
+
+<details><summary>Keith</summary>
+
+The Brhat is yonder (sky); verily he stands firm on yonder (sky).
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् आ॑हु॒ᳶ- क्व॑ जग॑ती चानु॒ष्टुप् चेति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+They say, 'Where are the Jagati and the Anustubh?'
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -417,19 +493,16 @@ The Rathantara is this (earth); verily he stands firm on this (earth).
 तदाहुरिति । तत्र चोदयन्तीत्यर्थः । एते गायत्रीत्रिष्टुभौ दृष्टे । क्वेदानीं जगत्यनुष्टुभौ द्रष्टव्ये इति ॥
 </details>
 
-<details><summary>Keith</summary>
-
-(The Saman) on the second is the Brhat. The Brhat is yonder (sky); verily he stands firm on yonder (sky).
-</details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैखान॒सम् पूर्वे ऽह॒न्त् साम॑ भवति ।  
 +++(बार्हतं साम वैखानसं भवति। बृहती-चतुर्-अभ्यासात् षट्-त्रिंशद्-अक्षरा ३६ = ९*४ । तत्र १२x३ जगत्यो भवन्ति ।)+++
-
 </details>
 
+<details><summary>Keith</summary>
+
+On the first day the Saman is that of Vikhanas;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -446,12 +519,15 @@ The Rathantara is this (earth); verily he stands firm on this (earth).
 5परिहरति - वैखानसमिति ॥ पृष्ठेपु बार्हतं साम वैखानसं भवति बृहतीचतुरभ्यासात् षट्त्रिंशदक्षरा । तत्र चतस्रो जगत्यो भवन्ति ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन॒ जग॑त्यै॒ नैति॑ +++(हानिम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+verily he does not leave the Jagati.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -468,17 +544,20 @@ The Rathantara is this (earth); verily he stands firm on this (earth).
 तेन जगत्यै जगत्या नैति न हीयते यज्ञः ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षोड॒श्य् उत्त॑रे॒ +++(यत्र द्वे चानुष्टुभौ)+++। तेना॑नु॒ष्टुभः॑ +++(नैति हानिम्)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+On the second it is the Sodaśin; verily he does not leave the Anustubh.
 </details>
 
 <details><summary>मूलम्</summary>
 
 षो॒ड॒श्युत्त॑रे॒ तेना॑नु॒ष्टुभः॑ । +++(नैति)+++ ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
   
@@ -490,26 +569,18 @@ The Rathantara is this (earth); verily he stands firm on this (earth).
 षोडशीसाम गौरिवीतमुत्तरस्मिन्नह्नि भवति उक्थ्येभ्यः पुरस्तात् भवति । द्वे चानुष्टुभौ । तेनानुष्टुभो नैतीत्येव ॥
 </details>
 
-
-<details><summary>Keith</summary>
-
-They say, 'Where are the Jagati and the Anustubh?'  
-On the first day the Saman is that of Vikhanas;  
-verily he does not leave the Jagati.  
-On the second it is the Sodaçin; verily he does not leave the Anustubh. 
-</details>
-
-
 ## कालसूचना
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथा॑हु॒र्- यत् स॑मा॒ने॑ ऽर्धमा॒से स्याता॑म् +++(द्वे अप्यहनी)+++,
 अ॒न्य॒त॒रस्याह्नो॑ वी॒र्य॑म् अनु॑ पद्येत+++(=प्रसज्येत)+++ +++(- एकम् एवाहस् स्यादिति यावत्)+++।  
-
 </details>
 
+<details><summary>Keith</summary>
+
+Then they say, 'If the days fall in the same half month, then the strength of one day only will belong to the rite.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -528,25 +599,26 @@ On the second it is the Sodaçin; verily he does not leave the Anustubh.
 6अथाहुः - यदि समाने एकस्मिन्नर्धमासे स्यातां द्वे अप्यहनी अन्यतरस्याह्नः वीर्यं फलसाधनसामर्थ्यं अनुपद्येत प्रसज्येत, एकमेवाहस्स्यादिति यावत् ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्य् अ॑मावा॒स्या॑या॒म् पूर्व॒म् अह॑र् भवति, उत्त॑रस्मि॒न्न् उत्त॑रम् ।  
 नानै॒व् आर्ध॑मा॒सयो॑र् भवतः। नाना॑वीर्ये भवतः ।
 </details>
 
+<details><summary>Keith</summary>
+
+The first day takes place on the night of new moon;
+</details>
 
 <details><summary>मूलम्</summary>
 
 इत्य॑मावा॒स्या॑या॒म्पूर्व॒मह॑र्भवति, उत्त॑रस्मि॒न्नुत्त॑रम् ।
 </details>
 
-
 <details><summary>पद-पाठः</summary>
 
 अ॒मा॒वा॒स्या॑या॒मित्य॑मा-वा॒स्या॑याम् । पूर्व॑म् । अहः॑ । भ॒व॒ति॒ । 
 उत्त॑रस्मि॒न्नित्युत्-त॒र॒स्मि॒न् । उत्त॑र॒मित्युत्-त॒र॒म्  ।    
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -554,12 +626,15 @@ On the second it is the Sodaçin; verily he does not leave the Anustubh.
 तस्मादमावास्या यां पूर्वमहर्भवति । उत्तरस्मिन्यजनीयेऽह्नि द्वितीयमहर्भवति ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानै॒व् आर्ध॑मा॒सयो॑र् भवतः। नाना॑वीर्ये भवतः ।
 </details>
 
+<details><summary>Keith</summary>
+
+the second on the next day, verily the days fall on separate half-months, and have the several strengths.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -577,25 +652,20 @@ On the second it is the Sodaçin; verily he does not leave the Anustubh.
 एवं क्रियमाणे नानाभूतयोः पृथग्भूतयोरर्धमासयोः कृतौ भवतः ।
 </details>
 
-<details><summary>Keith</summary>
-
-Then they say, 'If the days fall in the same half month,  
-then the strength of one day only will belong to the rite.'  
-The first day takes place on the night of new moon;  
-the second on the next day, verily the days fall on separate half-months, and have the several strengths. 
-</details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह॒विष्म॑न्-निधन॒म्+++(=स्तोमः)+++ पूर्व॒म् अह॑र् भवति।  
+</details>
+
+<details><summary>Keith</summary>
+
+The first day has Havismant,
 </details>
 
 <details><summary>मूलम्</summary>
 
 ह॒विष्म॑न्निधन॒म्पूर्व॒मह॑र्भवति।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -607,10 +677,14 @@ the second on the next day, verily the days fall on separate half-months, and ha
 हविष्मन्निधनमिति । हविष्मच्छब्दवत् हविष्मत् निधनं स्तोमो यस्य तद्धविष्मन्निधनं पूर्वमहः ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हवि॒ष्-कृन्-नि॑धन॒म् उत्त॑र॒म् +++(अहः स्वस्य)+++ प्रति॑ष्ठित्यै +++(द्रष्टृभ्यां संबन्धेन?)+++ ॥ [13] ]
+</details>
+
+<details><summary>Keith</summary>
+
+the second Haviskrt in the finale, for support.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -621,7 +695,6 @@ the second on the next day, verily the days fall on separate half-months, and ha
 <details><summary>पद-पाठः</summary>
 
 ह॒वि॒ष्कृन्नि॑धन॒मिति॑ हवि॒ष्कृत्-नि॒ध॒न॒म् । उत्त॑र॒मित्युत्-त॒र॒म्  । प्रति॑ष्ठित्या॒ इति॒ प्रति॑-स्थि॒त्यै॒ ॥ [13]
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -631,9 +704,3 @@ the second on the next day, verily the days fall on separate half-months, and ha
 इति सप्तमे प्रथमे चतुर्थोनुवाकः ॥
 </details>
 
-
-<details><summary>Keith</summary>
-
-The first day has Havismant,  
-the second Haviskrt in the finale, for support.
-</details>

@@ -5,29 +5,232 @@ title = "२० वनस्पतिहोममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वन॒स्पति॑भ्य॒स् स्वाहा॑ ।  
-मूले॑भ्य॒स् स्वाहा॑ ।  
-तूले॑भ्य॒स्+++(=अग्रेभ्यः)+++ स्वाहा॑ ।  
-स्कन्धो॑भ्य॒स् स्वाहा॑ ।  
-शाखा॑भ्य॒स् स्वाहा॑ ।  
-प॒र्णेभ्य॒स् स्वाहा॑ ।  
-पुष्पे॑भ्य॒स् स्वाहा॑ ।  
-फले॑भ्य॒स् स्वाहा॑ ।  
-गृ॒ही॒तेभ्य॒स् स्वाहा॑ ।  
-अगृ॑हीतेभ्य॒स् स्वाहा॑ ।  
-अव॑पन्नेभ्य॒स् स्वाहा॑ ।  
-शया॑नेभ्य॒स् स्वाहा॑ ।  
-शि॒ष्टाय॒+++(→क्रियासूपयुक्ताय)+++ स्वाहा॑ ।  
-अति॑शिष्टाय॒+++(→उपयुज्य स्थापितैकदेशाय)+++ स्वाहा॑ ।  
-परि॑शिष्टाय॒+++(→उपयोगातिरिक्ताय)+++ स्वाहा॑ ।  
-सँशि॑ष्टाय॒+++(→संपूर्णमुपयुज्य)+++ स्वाहा॑ ।  
-उच्छि॑ष्टाय॒ स्वाहा॑ ।  
-+++(पुष्पफलै)+++ रि॒क्ताय॒ स्वाहा॑ ।  
-अरि॑क्ताय॒ स्वाहा॑ ।  
-प्ररि॑क्ताय॒+++(=सर्वथा रिक्ताय)+++ स्वाहा॑ ।  
-+++(पर्णैर् अपि)+++ सँरि॑क्ताय॒ स्वाहा॑ ।  
-उद्रि॑क्ताय॒+++(→सर्वैस्समृद्धाय)+++ स्वाहा॑ ।  
+वन॒स्पति॑भ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the trees hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मूले॑भ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the roots hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तूले॑भ्य॒स्+++(=अग्रेभ्यः)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the panicles hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्कन्धो॑भ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the corona hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शाखा॑भ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the branches hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प॒र्णेभ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the leaves hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुष्पे॑भ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the flowers hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+फले॑भ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the fruits hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गृ॒ही॒तेभ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To those that are used hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अगृ॑हीतेभ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To those that are not used hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव॑पन्नेभ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To those that have fallen off hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शया॑नेभ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To those that are lying (on the ground) hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शि॒ष्टाय॒+++(→क्रियासूपयुक्ताय)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To' the one that is left hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अति॑शिष्टाय॒+++(→उपयुज्य स्थापितैकदेशाय)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the one that is left over hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परि॑शिष्टाय॒+++(→उपयोगातिरिक्ताय)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the one that is left around hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सँशि॑ष्टाय॒+++(→संपूर्णमुपयुज्य)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the one that is left along hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उच्छि॑ष्टाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the one left out hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(पुष्पफलै)+++ रि॒क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the one deprived (of leaves) hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अरि॑क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the one not deprived hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्ररि॑क्ताय॒+++(=सर्वथा रिक्ताय)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the one deprived around hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(पर्णैर् अपि)+++ सँरि॑क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the one deprived along hail!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उद्रि॑क्ताय॒+++(→सर्वैस्समृद्धाय)+++ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the one deprived altogether hail
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सर्व॑स्मै॒ स्वाहा॑ ॥ [42]
+</details>
+
+<details><summary>Keith</summary>
+
+To all hail!
 </details>
 
 

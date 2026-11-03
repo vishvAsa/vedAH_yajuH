@@ -17,12 +17,22 @@ title = "१२ अश्वमेधाङ्गापाव्य-होम-�
 त्रि॒वृत् स्तोमैः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Let the ram aid thee with cooked food, the dark-necked with goats, the cotton-tree with increase, the Parna-tree with the holy power (Brahman), the fig-tree with the sacrifice, the banyan with the beakers, the Udumbara with strength, the Gayatri with the metres, the Trivrt with the Stomas.
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(मेषादीनाम् अवतां सम्बन्धिन्यो याः पत्न्यः)+++ अव॑न्ती॒स् स्थ।  
 अव॑न्तीस् त्वाऽवन्तु।  
+</details>
+
+<details><summary>Keith</summary>
+
+Ye are helpers; let the helpers help thee.
 </details>
 
 
@@ -32,6 +42,11 @@ title = "१२ अश्वमेधाङ्गापाव्य-होम-�
 प्रि॒यन् त्वा॑ प्रि॒याणाव्ँ॒,  
 वर्षि॑ष्ठ॒म् आप्या॑नान्+++(=वृद्धानाम्)+++,  
 निधी॒नान् त्वा॑ निधि॒पतिँ॑ हवामहे+++(=जुहुमः)+++, वसो मम! [38]  
+</details>
+
+<details><summary>Keith</summary>
+
+Deal among dear things, best among things to be sought, treasure lord of treasures, thee we hail, O my radiant one.
 </details>
 
 

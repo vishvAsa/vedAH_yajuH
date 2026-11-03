@@ -7,9 +7,44 @@ title = "०४ नवरात्रविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत । तास् सृ॒ष्टाः क्षुध॒न् न्या॑यन् ।  
-स ए॒तन् न॑वरा॒त्रम॑पश्यत् । तमाह॑रत् । तेना॑यजत ।
+प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।
+</details>
+
+<details><summary>Keith</summary>
+
+Prajapati created offspring.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तास् सृ॒ष्टाः क्षुध॒न् न्या॑यन् ।
+</details>
+
+<details><summary>Keith</summary>
+
+They being created were ahungered.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स ए॒तन् न॑वरा॒त्रम॑पश्यत् ।
+तमाह॑रत् ।
+तेना॑यजत ।
+</details>
+
+<details><summary>Keith</summary>
+
+He saw this (rite) of nine nights, he grasped it, and sacrificed with it.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ततो॒ वै प्र॒जाभ्यो॑ऽकल्पत ।
+</details>
+
+<details><summary>Keith</summary>
+
+Then indeed was he able to help offspring,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

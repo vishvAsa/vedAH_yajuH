@@ -16,30 +16,272 @@ title = "२२ प्रमुक्तिहोमः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सि॒ताय॒ स्वाहा॑ । असि॑ताय॒ स्वाहा॑ ।  
-अ॒भिहि॑ताय॒ स्वाहा॑ ।  अन॑भिहिताय॒ स्वाहा॑ ।  
-यु॒क्ताय॒ स्वाहा॑ ।  अयु॑क्ताय॒ स्वाहा॑ ।  
-सुयु॑क्ताय॒ स्वाहा॑ ।  उद्यु॑क्ताय॒ स्वाहा॑ ।  
-विमु॑क्ताय॒ स्वाहा॑ । प्रमु॑क्ताय॒ स्वाहा॑ ।  
-वञ्च॑ते॒ स्वाहा॑ ।  प॒रि॒वञ्च॑ते॒ स्वाहा॑ ।  
-सव्ँ॒वञ्च॑ते॒ स्वाहा॑ । अ॒नु॒वञ्च॑ते॒ स्वाहा॑ ।  
-उ॒द्वञ्च॑ते॒ स्वाहा॑ ।  य॒ते स्वाहा॑ ।  
-धाव॑ते॒ स्वाहा॑ ।  तिष्ठ॑ते॒ स्वाहा॑ ।
-सर्व॑स्मै॒ स्वाहा॑ ॥ [53]  
+सि॒ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the bound hail!
 </details>
 
 <details><summary>मूलम्</summary>
 
-सि॒ताय॒ स्वाहा॑ । असि॑ताय॒ स्वाहा॑ ।  
-अ॒भिहि॑ताय॒ स्वाहा॑ ।  अन॑भिहिताय॒ स्वाहा॑ ।  
-यु॒क्ताय॒ स्वाहा॑ ।  अयु॑क्ताय॒ स्वाहा॑ ।  
-सुयु॑क्ताय॒ स्वाहा॑ ।  उद्यु॑क्ताय॒ स्वाहा॑ ।  
-विमु॑क्ताय॒ स्वाहा॑ । प्रमु॑क्ताय॒ स्वाहा॑ ।  
-वञ्च॑ते॒ स्वाहा॑ ।  प॒रि॒वञ्च॑ते॒ स्वाहा॑ ।  
-सव्ँ॒वञ्च॑ते॒ स्वाहा॑ । अ॒नु॒वञ्च॑ते॒ स्वाहा॑ ।  
-उ॒द्वञ्च॑ते॒ स्वाहा॑ ।  य॒ते स्वाहा॑ ।  
+सि॒ताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+असि॑ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the unbound hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+असि॑ताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒भिहि॑ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the fastened hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒भिहि॑ताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन॑भिहिताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the unfastened hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन॑भिहिताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यु॒क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the yoked hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+यु॒क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अयु॑क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the unyoked hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अयु॑क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुयु॑क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the well-yoked hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+सुयु॑क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उद्यु॑क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the unyoked hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+उद्यु॑क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विमु॑क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the one set free hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+विमु॑क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रमु॑क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the one lot go hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रमु॑क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वञ्च॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To that which moveth crookedly hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+वञ्च॑ते॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प॒रि॒वञ्च॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To that which moveth around hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+प॒रि॒वञ्च॑ते॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सव्ँ॒वञ्च॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To that which moveth together hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+सव्ँ॒वञ्च॑ते॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒नु॒वञ्च॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To that which moveth along hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒नु॒वञ्च॑ते॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उ॒द्वञ्च॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To that which goeth hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+उ॒द्वञ्च॑ते॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To that which riseth hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+य॒ते स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 धाव॑ते॒ स्वाहा॑ ।  तिष्ठ॑ते॒ स्वाहा॑ ।
-सर्व॑स्मै॒ स्वाहा॑ ॥ [53]  
+</details>
+
+<details><summary>Keith</summary>
+
+To that which standeth hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+धाव॑ते॒ स्वाहा॑ ।  तिष्ठ॑ते॒ स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व॑स्मै॒ स्वाहा॑ ॥ [53]
+</details>
+
+<details><summary>Keith</summary>
+
+To all hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्व॑स्मै॒ स्वाहा॑ ॥ [53]
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
