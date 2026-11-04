@@ -97,6 +97,11 @@ title = "या᳓ वाम्"
 तव्ँ᳓ वाम् एते᳓ना᳓वयजे ।
 </details>
 
+<details><summary>Keith</summary>
+
+(That disease of yours, O Indra and Varuna, that is in the fire, that of yours I appease hereby', he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो वा॑मिन्द्रावरुणाव॒ग्नौ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यजे ।
@@ -110,6 +115,11 @@ title = "या᳓ वाम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वाम् इन्द्रा-वरुणा द्विपा᳓त्सु पशु᳓षु  [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
+</details>
+
+<details><summary>Keith</summary>
+
+'That disease of yours, O Indra and Varuna, that is in the two footed cattle, that of yours I appease hereby', he says; 
 </details>
 
 <details><summary>मूलम्</summary>

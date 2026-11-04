@@ -11,6 +11,16 @@ title = "अ॒ग्निरायु॑ष्मा॒न्त्स"
 
 <details open=""><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
++++(हे यजमान)+++  
+अग्नि᳓र् आ᳓युष्मान् ,   
+स᳓ व᳓नस्-प᳓तिभिर् आ᳓युष्मान् ,   
+ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।
+</details>
+</div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md" newLevelForH1="5" title="सर्वाष् टीकाः">
+
+<details open=""><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 
 +++(हे यजमान)+++  
 अग्नि᳓र् आ᳓युष्मान् ,   
@@ -18,50 +28,111 @@ title = "अ॒ग्निरायु॑ष्मा॒न्त्स"
 ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Agni is full of life; he is full of life through the trees; with this life I make thee full of life.
+</details>
+
 </div>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md" newLevelForH1="5" title="विश्वास-प्रस्तुतिः">
 
 <details open=""><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
+सो᳓म आ᳓युष्मान् स᳓ ओ᳓षधीभिर् [आ᳓युष्मान् ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
+</details>
+</div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md" newLevelForH1="5" title="सर्वाष् टीकाः">
+
+<details open=""><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 
 सो᳓म आ᳓युष्मान् स᳓ ओ᳓षधीभिर् [आ᳓युष्मान् ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
 </details>
 
+<details><summary>Keith</summary>
+
+Soma is full of life; he is (full) through the plants;
+</details>
+
 </div>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md" newLevelForH1="5" title="विश्वास-प्रस्तुतिः">
 
 <details open=""><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
++++(हे यजमान)+++ यज्ञ᳓ [आ᳓युष्मान्], स᳓ द᳓क्षिणाभिर् आ᳓युष्मान्, [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
+</details>
+</div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md" newLevelForH1="5" title="सर्वाष् टीकाः">
+
+<details open=""><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 
 +++(हे यजमान)+++ यज्ञ᳓ [आ᳓युष्मान्], स᳓ द᳓क्षिणाभिर् आ᳓युष्मान्, [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
 </details>
 
+<details><summary>Keith</summary>
+
+the sacrifice is full of life; it is (full) through the sacrificial fees;
+</details>
+
 </div>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md" newLevelForH1="5" title="विश्वास-प्रस्तुतिः">
 
 <details open=""><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
++++(हे यजमान)+++ ब्र᳓ह्मा᳓युष्मत्, त᳓द्ब्राह्मणै᳓रा᳓युष्मत् , [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
+</details>
+</div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md" newLevelForH1="5" title="सर्वाष् टीकाः">
+
+<details open=""><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 
 +++(हे यजमान)+++ ब्र᳓ह्मा᳓युष्मत्, त᳓द्ब्राह्मणै᳓रा᳓युष्मत् , [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
 </details>
 
+<details><summary>Keith</summary>
+
+the Brahman is full of life; that is full of life through the Brahmans;
+</details>
+
 </div>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/09_devA_AyuShmantaH_amRutena.md" newLevelForH1="5" title="विश्वास-प्रस्तुतिः">
 
 <details open=""><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
++++(हे यजमान)+++ देवा᳓ आ᳓युष्मन्तः।  
+ते᳓ऽमृ᳓तेन [+आ᳓युष्मन्तः]  [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]  
+</details>
+</div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/09_devA_AyuShmantaH_amRutena.md" newLevelForH1="5" title="सर्वाष् टीकाः">
+
+<details open=""><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 
 +++(हे यजमान)+++ देवा᳓ आ᳓युष्मन्तः।  
 ते᳓ऽमृ᳓तेन [+आ᳓युष्मन्तः]  [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]  
 </details>
 
+<details><summary>Keith</summary>
+
+the gods are full of life; they are (full of life) through the ambrosia;
+</details>
+
 </div>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पित᳓र आ᳓युष्मन्तस् ते᳓ स्वध᳓या᳓ऽऽयुष्मन्तस्, ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि । 
+</details>
+
+<details><summary>Keith</summary>
+
+the Pitrs are full of life; they are full of life through the Svadha-call with this life I make thee full of life.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -88,3 +159,4 @@ title = "अ॒ग्निरायु॑ष्मा॒न्त्स"
 
 इति द्वितीये तृतीये दशमोनुवाकः ॥
 </details>
+
