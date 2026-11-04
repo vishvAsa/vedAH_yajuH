@@ -32,3 +32,8 @@ Pure be the world where the Pitrs sit.
 
 7अवटे अपोवनयति - शुन्धतामिति ॥ 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+पितरः सीदन्त्य् अस्मिनन् इति पितृ-षदनो ऽवटाख्यो लोकः शुद्धो भवतु।
+</details>
