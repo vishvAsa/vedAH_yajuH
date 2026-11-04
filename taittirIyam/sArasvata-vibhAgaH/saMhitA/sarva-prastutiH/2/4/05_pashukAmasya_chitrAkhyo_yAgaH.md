@@ -4,10 +4,16 @@ title = "०५ पशुकामस्य चित्राख्यो य�
 +++
 
 विश्वेदेवा ऋषयः ।
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने॒ गोभि॑र्न॒ आ ग॒हीन्दो॑ पु॒ष्ट्या जु॑षस्व नः ।  
 इन्द्रो॑ ध॒र्ता गृ॒हेषु॑ नः ॥
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni come to us with kine; O drop, delight us with increase; Indra is the supporter in our homes.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -27,6 +33,11 @@ title = "०५ पशुकामस्य चित्राख्यो य�
 आ पू॒षा ए॒त्वा वसु॑ ॥
 </details>
 
+<details><summary>Keith</summary>
+
+Savitr, the thousandfold, May he delight us in our homes; May Pusan come, may wealth (be ours).
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒वि॒ता यस्स॑ह॒स्रिय॒स्स नो॑ गृ॒हेषु॑ रारणत् ।   
@@ -42,6 +53,11 @@ title = "०५ पशुकामस्य चित्राख्यो य�
 
 धा॒ता द॑दातु नो र॒यिमीशा॑नो॒ जग॑त॒स्पतिः॑ ।  
 स नᳶ॑ पू॒र्णेन॑ वावनत् ॥
+</details>
+
+<details><summary>Keith</summary>
+
+May Dhatr give us wealth, The lord, the ruler of the world; May he favour us with a full (gift).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -62,6 +78,11 @@ title = "०५ पशुकामस्य चित्राख्यो य�
 स॒हस्रे॑णा॒युते॑न च ॥
 </details>
 
+<details><summary>Keith</summary>
+
+Tvastr the bull, the strong, May he delight us in our homes, With a thousand, with ten thousand.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वष्टा॒ यो वृ॑ष॒भो वृषा॒ स नो॑ गृ॒हेषु॑ रारणत् ।  
@@ -79,6 +100,11 @@ title = "०५ पशुकामस्य चित्राख्यो य�
 राय॑स्पोष॒ त्वम॒स्मभ्य॒ङ्गवा॑ङ्कु॒ल्मिञ्जी॒वस॒ आ यु॑वस्व ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou whereby the gods moved immortality [1], Enduring fame, in the sky, O increase of wealth, vouchsafe us A herd of kine for life.
+</details>
+
 <details><summary>मूलम्</summary>
 
 येन॑ दे॒वा अ॒मृत॑म् [15]  दी॒र्घँ श्रवो॑ दि॒व्यैर॑यन्त ।   
@@ -93,6 +119,11 @@ title = "०५ पशुकामस्य चित्राख्यो य�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्निर्गृ॒हप॑ति॒स्सोमो॑ विश्व॒वनि॑स्सवि॒ता सु॑मे॒धास्स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Agni, lord of the house, Soma, all-winning, Savitr the wise; hail!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -115,6 +146,11 @@ title = "०५ पशुकामस्य चित्राख्यो य�
 अग्ने॑ गृहपते॒ यस्ते॒ घृत्यो॑ भा॒गस्तेन॒ सह॒ ओज॑ आ॒क्रम॑माणाय धेहि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, lord of the house, with thy ghee portion do thou vouchsafe strength and force to him who advanceth;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॑ गृहपते॒ यस्ते॒ घृत्यो॑ भा॒गस्तेन॒ सह॒ ओज॑ आ॒क्रम॑माणाय धेहि ।  
@@ -129,6 +165,11 @@ title = "०५ पशुकामस्य चित्राख्यो य�
 
 श्रैष्ठ्या॑त्प॒थो मा यो॑षम्मू॒र्धा भू॑यासम् ।  
 स्वाहा॑ ॥ [16]  
+</details>
+
+<details><summary>Keith</summary>
+
+may I not wander from the highest of the path; may I become the head; hail!
 </details>
 
 <details><summary>मूलम्</summary>

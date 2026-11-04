@@ -10,6 +10,7 @@ title = "०८ कारीर्युत्तरभागमन्त्र�
 +++(उ॒द्नो द॑त्तोऽद॒धिम्भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑ऽवत ।पृ॒थि॒वीय्ँयद्व्यु॒न्दन्ति॑ । )+++ ।   
 
 दिवा॑ चि॒त्तम॑ᳵ कृण्वन्ति प॒र्जन्ये॑नोदवा॒हेन॑ ।
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1अथोत्करे प्रागीषं त्रिगधमनोवस्थितं भवति पादत्रयप्रतिष्ठितत्रिच्छदिष्कम् । तत्र तिसृषु गधासु त्रिभिर्मन्त्रैः प्रतिदिशमाबध्नाति पिण्डीः । तत्र पूर्वस्यां गधायां छदिष्कमपि कृष्णाजिनमाबध्नीयात् 'देवा वसव्याः' इति । तच्चाहोरात्रावसक्तं भवति । यदि वर्षेत् पिण्डीरेव जुहुयात्, यदि न वर्षेत् 'देवाश्शर्मण्याः' इति मध्यमायामाबध्नीयात्, तत्र चाहोरात्रावसक्तं भवति । यदि वर्षेत्पिण्डीरेव जुहुयात्, यदि न वर्षेत् 'देवास्सपीतयः' इति जघन्यायामाबध्नीयात्, अहोरात्रावसक्तं भवति । यदि वर्षेत्पिण्डीरेव जुहुयात्, यदि न वर्षेत् श्वोभूते धामच्छदादीनि त्रीणि हवींषि निर्वपति ।
@@ -29,6 +30,11 @@ title = "०८ कारीर्युत्तरभागमन्त्र�
 दिवा॑ चि॒त्तम॑ᳵ कृण्वन्ति प॒र्जन्ये॑नोदवा॒हेन॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+O gods granting protection, O Mitra and Varuna, Aryaman;
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवाः॑ शर्मण्या॒ मित्रा॑वरुणार्यमन् ।  
@@ -45,12 +51,30 @@ title = "०८ कारीर्युत्तरभागमन्त्र�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवाः॑ सपीत॒योऽपा॑न्नपादाशुहेमन् ।
-+++(उ॒द्नो द॑त्तोऽद॒धिम्भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑ऽवत । पृ॒थि॒वीय्ँयद्व्यु॒न्दन्ति॑ ।  )+++
+</details>
+
+<details><summary>Keith</summary>
+
+O gods who drink together, O son of the waters, with swift onset, Give of the water, cleave the holder of the waters;
 </details>
 
 <details><summary>मूलम्</summary>
 
 देवाः॑ सपीत॒योऽपा॑न्नपादाशुहेमन् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(उ॒द्नो द॑त्तोऽद॒धिम्भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑ऽवत । पृ॒थि॒वीय्ँयद्व्यु॒न्दन्ति॑ ।  )+++
+</details>
+
+<details><summary>Keith</summary>
+
+from the sky, from Parjanya, from the atmosphere, from the earth, thence do ye help us with rain.
+</details>
+
+<details><summary>मूलम्</summary>
+
 +++(उ॒द्नो द॑त्तोऽद॒धिम्भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑ऽवत । पृ॒थि॒वीय्ँयद्व्यु॒न्दन्ति॑ ।  )+++
 </details>
 
@@ -61,13 +85,31 @@ title = "०८ कारीर्युत्तरभागमन्त्र�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दिवा॑ चि॒त्तम॑ᳵ कृण्वन्ति प॒र्जन्ये॑नोदवा॒हेन॑ ।  
-पृ॒थि॒वीय्ँयद्व्यु॒न्दन्ति॑ ।
+दिवा॑ चि॒त्तम॑ᳵ कृण्वन्ति प॒र्जन्ये॑नोदवा॒हेन॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Even by day they make the darkness, With Parjanya, water bearer;
 </details>
 
 <details><summary>मूलम्</summary>
 
-दिवा॑ चि॒त्तम॑ᳵ कृण्वन्ति प॒र्जन्ये॑नोदवा॒हेन॑ ।  
+दिवा॑ चि॒त्तम॑ᳵ कृण्वन्ति प॒र्जन्ये॑नोदवा॒हेन॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पृ॒थि॒वीय्ँयद्व्यु॒न्दन्ति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+What time they inundate the earth.
+</details>
+
+<details><summary>मूलम्</summary>
+
 पृ॒थि॒वीय्ँयद्व्यु॒न्दन्ति॑ ।
 </details>
 
@@ -84,13 +126,31 @@ title = "०८ कारीर्युत्तरभागमन्त्र�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ यन्नर॑स्सु॒दान॑वो ददा॒शुषे॑ दि॒वᳵ कोश॒मचु॑च्यवुः ।   
-वि प॒र्जन्याः॑ सृजन्ति॒ रोद॑सी॒ अनु॒ धन्व॑ना यन्ति वृ॒ष्टयः॑ ।
+आ यन्नर॑स्सु॒दान॑वो ददा॒शुषे॑ दि॒वᳵ कोश॒मचु॑च्यवुः ।
+</details>
+
+<details><summary>Keith</summary>
+
+The treasure-house of sky which the heroes rich in dew Make to shake for the generous giver, The Parjanyas set thee free from along the firmaments;
 </details>
 
 <details><summary>मूलम्</summary>
 
-आ यन्नर॑स्सु॒दान॑वो ददा॒शुषे॑ दि॒वᳵ कोश॒मचु॑च्यवुः ।   
+आ यन्नर॑स्सु॒दान॑वो ददा॒शुषे॑ दि॒वᳵ कोश॒मचु॑च्यवुः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वि प॒र्जन्याः॑ सृजन्ति॒ रोद॑सी॒ अनु॒ धन्व॑ना यन्ति वृ॒ष्टयः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The rains pour over the desert [1].
+</details>
+
+<details><summary>मूलम्</summary>
+
 वि प॒र्जन्याः॑ सृजन्ति॒ रोद॑सी॒ अनु॒ धन्व॑ना यन्ति वृ॒ष्टयः॑ ।
 </details>
 
@@ -101,14 +161,47 @@ title = "०८ कारीर्युत्तरभागमन्त्र�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उदी॑रयथा मरुतस्समुद्र॒तो यू॒यव्ँवृ॒ष्टिव्ँव॑र्षयथा पुरीषिणः ।   
-न वो॑ दस्रा॒ उप॑ दस्यन्ति धे॒नव॒श्शुभय्ँ॑या॒तामनु॒ रथा॑ अवृत्सत ।  
+उदी॑रयथा मरुतस्समुद्र॒तो यू॒यव्ँवृ॒ष्टिव्ँव॑र्षयथा पुरीषिणः ।
+</details>
+
+<details><summary>Keith</summary>
+
+From the ocean, O Maruts, ye make (the rain) to start, Ye make the rain to fall, O ye that are rich in moisture;
 </details>
 
 <details><summary>मूलम्</summary>
 
-उदी॑रयथा मरुतस्समुद्र॒तो यू॒यव्ँवृ॒ष्टिव्ँव॑र्षयथा पुरीषिणः ।   
-न वो॑ दस्रा॒ उप॑ दस्यन्ति धे॒नव॒श्शुभय्ँ॑या॒तामनु॒ रथा॑ अवृत्सत ।  
+उदी॑रयथा मरुतस्समुद्र॒तो यू॒यव्ँवृ॒ष्टिव्ँव॑र्षयथा पुरीषिणः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न वो॑ दस्रा॒ उप॑ दस्यन्ति धे॒नवः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Your cows, O ye wondrous, fail not;
+</details>
+
+<details><summary>मूलम्</summary>
+
+न वो॑ दस्रा॒ उप॑ दस्यन्ति धे॒नवः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शुभय्ँ॑या॒तामनु॒ रथा॑ अवृत्सत ।
+</details>
+
+<details><summary>Keith</summary>
+
+As ye fly swiftly your chariots turned.
+</details>
+
+<details><summary>मूलम्</summary>
+
+शुभय्ँ॑या॒तामनु॒ रथा॑ अवृत्सत ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -118,12 +211,32 @@ title = "०८ कारीर्युत्तरभागमन्त्र�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सृ॒जा वृ॒ष्टिन्दि॒व आद्भिस्स॑मु॒द्रम्पृ॑ण ।   
+सृ॒जा वृ॒ष्टिन्दि॒व आद्भिस्स॑मु॒द्रम्पृ॑ण ।
+</details>
+
+<details><summary>Keith</summary>
+
+Set free the rain from heaven;
 </details>
 
 <details><summary>मूलम्</summary>
 
-सृ॒जा वृ॒ष्टिन्दि॒व आद्भिस्स॑मु॒द्रम्पृ॑ण ।   
+सृ॒जा वृ॒ष्टिन्दि॒व आद्भिस्स॑मु॒द्रम्पृ॑ण ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सृ॒जा वृ॒ष्टिन्दि॒व आद्भिस्स॑मु॒द्रम्पृ॑ण ।
+</details>
+
+<details><summary>Keith</summary>
+
+With waters fill the ocean;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सृ॒जा वृ॒ष्टिन्दि॒व आद्भिस्स॑मु॒द्रम्पृ॑ण ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -134,6 +247,26 @@ title = "०८ कारीर्युत्तरभागमन्त्र�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ब्जा अ॑सि प्रथम॒जा बल॑मसि समु॒द्रिय॑म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art born of waters, first-born;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ब्जा अ॑सि प्रथम॒जा बल॑मसि समु॒द्रिय॑म् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒ब्जा अ॑सि प्रथम॒जा बल॑मसि समु॒द्रिय॑म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the might of the ocean.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -148,13 +281,31 @@ title = "०८ कारीर्युत्तरभागमन्त्र�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उन्न॑म्भय पृथि॒वीम्भि॒न्द्धीदन्दि॒व्यन्नभः॑ ।  
-उ॒द्नो दि॒व्यस्य॑ नो दे॒हीशा॑नो॒ वि सृ॑जा॒ दृति॑म् ।
+उन्न॑म्भय पृथि॒वीम्भि॒न्द्धीदन्दि॒व्यन्नभः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Flood the earth, Break this divine cloud;
 </details>
 
 <details><summary>मूलम्</summary>
 
-उन्न॑म्भय पृथि॒वीम्भि॒न्द्धीदन्दि॒व्यन्नभः॑ ।  
+उन्न॑म्भय पृथि॒वीम्भि॒न्द्धीदन्दि॒व्यन्नभः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उ॒द्नो दि॒व्यस्य॑ नो दे॒हीशा॑नो॒ वि सृ॑जा॒ दृति॑म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Give to us of the divine water, Ruling loosen the water bag.
+</details>
+
+<details><summary>मूलम्</summary>
+
 उ॒द्नो दि॒व्यस्य॑ नो दे॒हीशा॑नो॒ वि सृ॑जा॒ दृति॑म् ।
 </details>
 
@@ -171,6 +322,11 @@ title = "०८ कारीर्युत्तरभागमन्त्र�
 त इ॒मय्ँ य॒ज्ञम॑वन्तु॒ ..  
 त इ॒दङ्क्षेत्र॒मा वि॑शन्तु॒ ..  
 त इ॒दङ्क्षेत्र॒मनु॒ वि वि॑शन्तु ॥ [22]
+</details>
+
+<details><summary>Keith</summary>
+
+The gods whose portion is in the sky, the gods whose portion is in the atmosphere, the gods whose portion is on earth, may they aid this sacrifice, may they enter this place, may they inhabit this place.
 </details>
 
 <details><summary>मूलम्</summary>

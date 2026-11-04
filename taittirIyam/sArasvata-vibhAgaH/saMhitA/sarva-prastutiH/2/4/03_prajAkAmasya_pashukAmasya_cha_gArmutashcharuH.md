@@ -12,14 +12,32 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा॒सु॒रास्सय्ँय॑त्ता आसन् ।  
-तेषा॑ङ्गाय॒त्र्योजो॒ बल॑मिन्द्रि॒यव्ँवी॒र्य॑म्प्र॒जाम्प॒शून्त्स॒ङ्गृह्या॒दाया॑प॒क्रम्या॑तिष्ठत् ।   
+दे॒वा॒सु॒रास्सय्ँय॑त्ता आसन् ।
+</details>
+
+<details><summary>Keith</summary>
+
+The gods and the Asuras were in conflict;
 </details>
 
 <details><summary>मूलम्</summary>
 
-दे॒वा॒सु॒रास्सय्ँय॑त्ता आसन् ।  
-तेषा॑ङ्गाय॒त्र्योजो॒ बल॑मिन्द्रि॒यव्ँवी॒र्य॑म्प्र॒जाम्प॒शून्त्स॒ङ्गृह्या॒दाया॑प॒क्रम्या॑तिष्ठत् ।   
+दे॒वा॒सु॒रास्सय्ँय॑त्ता आसन् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेषा॑ङ्गाय॒त्र्योजो॒ बल॑मिन्द्रि॒यव्ँवी॒र्य॑म्प्र॒जाम्प॒शून्त्स॒ङ्गृह्या॒दाया॑प॒क्रम्या॑तिष्ठत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+the Gayatri, grasping and taking their force, might, power, strength, offspring, and cattle, remained away;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेषा॑ङ्गाय॒त्र्योजो॒ बल॑मिन्द्रि॒यव्ँवी॒र्य॑म्प्र॒जाम्प॒शून्त्स॒ङ्गृह्या॒दाया॑प॒क्रम्या॑तिष्ठत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -32,6 +50,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 ते॑ऽमन्यन्त ।  
 य॒त॒रान् वा इ॒यमु॑पाव॒र्त्स्यति॑ ।  
 त इ॒दम्भ॑विष्य॒न्तीति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+they reflected, I Whomsoever of us she shall resort to, they shall become this (world)';
 </details>
 
 <details><summary>मूलम्</summary>
@@ -51,6 +74,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 ताव्व्ँय॑ह्वयन्त॒ विश्व॑कर्म॒न्निति॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+they hailed her in rivalry,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ताव्व्ँय॑ह्वयन्त॒ विश्व॑कर्म॒न्निति॑ ।  
@@ -67,6 +95,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 दे॒वा दाभीत्यसु॑राः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+'O All worker', said the gods;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा दाभीत्यसु॑राः ।  
@@ -81,6 +114,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 
 सा नान्य॑त॒राँश्च॒ नोपाव॑र्तत ।  
 ते दे॒वा ए॒तद्यजु॑रपश्यन् ।
+</details>
+
+<details><summary>Keith</summary>
+
+'O Deceiver', said the Asuras;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -104,6 +142,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 ओजो॑ऽसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+neither did she resort to.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ओजो॑ऽसि ।  
@@ -117,6 +160,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहो॑ऽसि ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The gods saw this formula,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -134,6 +182,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 बल॑मसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+'Thou art force,
+</details>
+
 <details><summary>मूलम्</summary>
 
 बल॑मसि ।  
@@ -147,6 +200,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्राजो॑ऽसि।  
+</details>
+
+<details><summary>Keith</summary>
+
+thou art strength,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -164,6 +222,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 दे॒वाना॒न्धाम॒ नामा॑सि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+thou art might [1],
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वाना॒न्धाम॒ नामा॑सि ।  
@@ -177,6 +240,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्व॑मसि ।  
+</details>
+
+<details><summary>Keith</summary>
+
+thou are blazing,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -194,6 +262,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 वि॒श्वायुः॑+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+thou art by name the home of the gods,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्वायुः॑+++(असि)+++ ।  
@@ -207,6 +280,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व॑मसि ।  
+</details>
+
+<details><summary>Keith</summary>
+
+thou art all,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -224,6 +302,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 स॒र्वायुः॑ +++(असि)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+of all life thou art everything,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒र्वायुः॑ +++(असि)+++।  
@@ -237,6 +320,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒भि॒भूः +++(असि)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+thou art of every life,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -259,6 +347,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 इति॒ वाव दे॒वा असु॑राणा॒मोजो॒ बल॑मिन्द्रि॒यव्ँवी॒र्य॑म्प्र॒जाम्प॒शून॑वृञ्जत ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the overcoming.' (So saying) the gods appropriated the force, might, power, strength, offspring, and cattle of the Asuras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इति॒ वाव दे॒वा असु॑राणा॒मोजो॒ बल॑मिन्द्रि॒यव्ँवी॒र्य॑म्प्र॒जाम्प॒शून॑वृञ्जत ।  
@@ -274,6 +367,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 यद्गा॑य॒त्र्य॑प॒क्रम्याति॑ष्ठत्।   
 तस्मा॑दे॒ताङ्गा॑य॒त्रीतीष्टि॑माहुः  ।  
 सव्ँ॒व॒त्स॒रो वै  गा॑य॒त्री ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Because the Gayatri remained away, therefore they style this offering the Gayatri;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -298,6 +396,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 सव्ँ॒व॒त्स॒रो वै  तद॑प॒क्रम्या॑तिष्ठत्  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Gayatri is the year, so the year remained away;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सव्ँ॒व॒त्स॒रो वै  तद॑प॒क्रम्या॑तिष्ठत्  ।  
@@ -312,6 +415,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 
 यदे॒तया॑ दे॒वा असु॑राणा॒मोजो॒ बल॑मिन्द्रि॒यव्ँवी॒र्य॑म् प्र॒जाम्प॒शूनवृ॑ञ्जत ।  
 तस्मा॑दे॒ताँ सव्ँ॑व॒र्ग इतीष्टि॑माहुः ।
+</details>
+
+<details><summary>Keith</summary>
+
+because the gods thereby appropriated the force, might, power, strength [2], offspring, and cattle of the Asuras, therefore they style this offering the gatherer.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -338,6 +446,11 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 तँ शृ॒तमास॑न्नमे॒तेन॒ यजु॑षा॒भि मृ॑शेत् ।  
 ओज॑ ए॒व बल॑मिन्द्रि॒यव्ँवी॒र्य॑म्प्र॒जाम्प॒शून्भ्रातृ॑व्यस्य वृङ्क्ते ।  
 भव॑त्या॒त्मना॒ परा॑स्य॒ भ्रातृ॑व्यो भवति ॥
+</details>
+
+<details><summary>Keith</summary>
+
+He who has foes should in conflict sacrifice with this offering. To Agni, the gatherer, he should offer a cake on eight potsherds; this when cooked and put in place he should stroke with this formula; verily he appropriates the force, might, power, strength, offspring, and cattle of his foe; he prospers with himself, his foe is defeated.
 </details>
 
 <details><summary>मूलम्</summary>

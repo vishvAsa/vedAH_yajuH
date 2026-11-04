@@ -14,6 +14,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 आयु॑ष्टे ..
 </details>
 
+<details><summary>Keith</summary>
+
+Life to thee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आयु॑ष्टे ..
@@ -37,6 +42,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयु॒र्दा अ॑ग्ने ..
+</details>
+
+<details><summary>Keith</summary>
+
+Life-giving, O Agni,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -70,6 +80,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 आ प्या॑यस्व॒ ..  
 </details>
 
+<details><summary>Keith</summary>
+
+Swell up.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ प्या॑यस्व॒ ..  
@@ -101,6 +116,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 सन्ते ..
 </details>
 
+<details><summary>Keith</summary>
+
+Together thee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्ते ..
@@ -128,6 +148,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 अव॑ ते॒ हेड॒  ..
 </details>
 
+<details><summary>Keith</summary>
+
+Thy wrath.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अव॑ ते॒ हेड॒  ..
@@ -151,6 +176,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदु॑त्त॒मम् ..
+</details>
+
+<details><summary>Keith</summary>
+
+The uppermost.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -181,6 +211,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 प्र णो॑ दे॒वी ..
 </details>
 
+<details><summary>Keith</summary>
+
+Forward, O goddess.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र णो॑ दे॒वी ..
@@ -202,6 +237,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ नो॑ दि॒वो ..
+</details>
+
+<details><summary>Keith</summary>
+
+From the sky to us.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -233,6 +273,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 अग्ना॑विष्णू॒ ..
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni and Visnu.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ना॑विष्णू॒ ..
@@ -262,6 +307,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 अग्ना॑विष्णू ..
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni and Visnu.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ना॑विष्णू ..
@@ -288,6 +338,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 इ॒मम्मे॑ वरुण ..
 </details>
 
+<details><summary>Keith</summary>
+
+This for me, O Varuna.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मम्मे॑ वरुण ..
@@ -312,6 +367,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 तत्त्वा॑ या॒मि ..
 </details>
 
+<details><summary>Keith</summary>
+
+To thee for that I go.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्त्वा॑ या॒मि ..
@@ -320,7 +380,6 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इयमपि तत्रैव व्याख्याता । हे वरुण अहं ब्रह्मणा मन्त्रेण हविषा त्वां वन्दमानः स्तुवन् अहं त्वामभियाचे यजमानोऽपि तदेव हविर्भिराशास्ते त्वमपि तत्? अहेडमानः अक्रुध्यन् इह कर्मणि बुद्ध्यस्व । किंपुनः तत्? हे वरुण उरु शंसमानः अस्माकमायुर्मा प्रमोषीरिति ॥
-
 
   - तत्त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्तदाशा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
   अहे॑डमानो वरुणे॒ह बो॒द्ध्युरु॑शँस॒ मा न॒ आयु॒ᳶ प्रमो॑षीः ॥
@@ -335,6 +394,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदु॒ त्यम् ..
+</details>
+
+<details><summary>Keith</summary>
+
+Upwards that.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -366,6 +430,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 चि॒त्रम् ..
 </details>
 
+<details><summary>Keith</summary>
+
+The radiant.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चि॒त्रम् ..
@@ -392,6 +461,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 तस्य॒ ज्येष्ठ॑म्महि॒मानव्ँ॒वह॑न्ती॒र्हिर॑ण्यवर्णा॒ᳶ परि॑ यन्ति य॒ह्वीः  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The child of the waters hath mounted the lap Of the devious ones, rising up and clothed in the lightning; Bearing his highest greatness The golden-coloured young ones go about.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पान्नपा॒दा ह्यस्था॑दु॒पस्थ॑ञ्जि॒ह्माना॑मू॒र्ध्वो वि॒द्युतव्ँ॒वसा॑नः  ।  
@@ -412,6 +486,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 
 सम॒न्या यन्त्युप॑ यन्त्य॒न्यास्स॑मा॒नमू॒र्वन्न॒द्यᳶ॑ पृणन्ति  ।  
 तमू॒ शुचिँ॒ शुच॑यो दीदि॒वाँस॑म॒पान्नपा॑त॒म्परि॑ तस्थु॒रापः॑  ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Some [1] meet, some go up, The streams fill their common stall; Round the pure shining son of the waters The pure waters stand.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -436,6 +515,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 स शु॒क्रेण॒ शिक्व॑ना रे॒वद॒ग्निर्दी॒दाया॑नि॒ध्मो घृ॒तनि॑र्णिग॒प्सु  ।
 </details>
 
+<details><summary>Keith</summary>
+
+The austere maidens, go around the youth; The waters, making him clean; Agni shineth forth with pure radiance with wealth, Unkindled, butter-clad in the waters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तमस्मे॑रा युव॒तयो॒ युवा॑नम्मर्मृ॒ज्यमा॑ना॒ᳶ परि॑ य॒न्त्यापः॑  ।  
@@ -456,6 +540,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 
 इन्द्रा॒वरु॑णयोर॒हँ स॒म्राजो॒रव॒ आ वृ॑णे  ।  
 ता नो॑ मृडात ई॒दृशे॑  ।  
+</details>
+
+<details><summary>Keith</summary>
+
+I seek the help Of Mitra and Varuna, joint kings; May they be gracious to such as I.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -480,6 +569,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 दी॒र्घप्र॑यज्यु॒मति॒ यो व॑नु॒ष्यति॑ व॒यञ्ज॑येम॒ पृत॑नासु दू॒ढ्यः॑  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Indra and Varuna, grant ye great protection To our tribe, our people, for the sacrifice [2] May we conquer in battle the evil-minded, Him who is fain to overpower the man who long sacrificeth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑वरुणा यु॒वम॑ध्व॒राय॑ नो वि॒शे जना॑य॒ महि॒ शर्म॑ यच्छतम्  ।
@@ -501,6 +595,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 आ नो॑ मित्रावरुणा ..
 </details>
 
+<details><summary>Keith</summary>
+
+To us, O Mitra and Varuna.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ नो॑ मित्रावरुणा ..
@@ -518,9 +617,15 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 </details>
 
 ## मैत्रावरुणयागस्य याज्या ९ मन्त्रः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र बा॒हवा॑  ..
+</details>
+
+<details><summary>Keith</summary>
+
+Forth your arms.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -549,6 +654,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 यजि॑ष्ठो॒ वह्नि॑तम॒श्शोशु॑चानो॒ विश्वा॒ द्वेषाँ॑सि॒ प्र मु॑मुग्ध्य॒स्मत्  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, do thou, wise one, Appease by sacrifice for us the wrath of Varuna; Best sacrificer, best of bearers, radiant, Free us from every foe.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वन्नो॑ अग्ने॒ वरु॑णस्य वि॒द्वान्दे॒वस्य॒ हेडोऽव॑ यासिसीष्ठाः  ।  
@@ -565,6 +675,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 
 स त्वन्नो॑ अग्नेऽव॒मो भ॑वो॒ती नेदि॑ष्ठो अ॒स्या उ॒षसो॒ व्यु॑ष्टौ  ।  
 अव॑ यक्ष्व नो॒ वरु॑णम् [72] ररा॑णो वी॒हि मृ॑डी॒कँ सु॒हवो॑ न एधि  ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Do thou, O Agni, be nearest to us, Closest to help, at the dawning of this dawn; Appease for us by sacrifice Varuna [3], bestowing (on him); Show thy mercy and be ready to hear our call.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -587,6 +702,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 
 प्रप्रा॒यम॒ग्निर्भ॑र॒तस्य॑ शृण्वे॒ वि यत्सूर्यो॒ न रोच॑ते बृ॒हद्भाः  ।  
 अ॒भि यᳶ पू॒रुम्पृ॑तनासु त॒स्थौ दी॒दाय॒ दैव्यो॒ अति॑थिश्शि॒वो नः॑  ।
+</details>
+
+<details><summary>Keith</summary>
+
+Far-famed is this Agni of Bharata, Since his great light shineth like the sun; He who overcame Puru in battle, Hath shone forth, the heavenly guest, propitious for us.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -613,6 +733,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 इय॒क्षवे॑ पू॒रवे॑ प्रत्न राजन् ।  [73]
 </details>
 
+<details><summary>Keith</summary>
+
+I sacrifice to thee, I cast forward my prayer to thee, That thou mayst be invoked at our invocation; Thou art like a well in the desert, Thou, O Agni, to the man eager to worship, O ancient king [4].
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र ते॑ यक्षि॒ प्र त॑ इयर्मि॒ .  
@@ -636,6 +761,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 वि पाज॑सा॒  ..
 </details>
 
+<details><summary>Keith</summary>
+
+With his lustre.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि पाज॑सा॒  ..
@@ -654,6 +784,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि ज्योति॑षा  ।
+</details>
+
+<details><summary>Keith</summary>
+
+With light.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -688,6 +823,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 उ॒रु॒क्षये॑षु॒ दीद्य॑त्  ।
 </details>
 
+<details><summary>Keith</summary>
+
+Agni, with thy front, Burn the sorceresses, Shining in the broad dwellings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स त्वम॑ग्ने॒ प्रती॑केन॒ प्रत्यो॑ष यातुधा॒न्यः॑  ।  
@@ -710,6 +850,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 स य॑क्ष॒द्विश्वा॑ व॒युना॑नि वि॒द्वान्प्र ह॒व्यम॒ग्निर॒मृते॑षु वोचत्  ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thee of fair face, of fair look, the rapid one, The wiser, let us ignorant people follow; Let him sacrifice who knoweth all the ways, Let him proclaim the oblation among the immortals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तँ सु॒प्रती॑कँ सु॒दृशँ॒ स्वञ्च॒मवि॑द्वाँसो वि॒दुष्ट॑रँ सपेम  ।  
@@ -730,6 +875,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 
 अँ॒हो॒मुचे॑ वि॒वेष॒ यन्मा॒ वि न॑ इ॒न्द्रेन्द्र॑ क्ष॒त्रमि॑न्द्रि॒याणि॑ शतक्र॒तोऽनु॑ ते दायि ॥ [74]
 अँ॒हो॒मुचे॑
+</details>
+
+<details><summary>Keith</summary>
+
+To the freer from trouble.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -757,6 +907,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि॒वेष॒ यन्मा॒
+</details>
+
+<details><summary>Keith</summary>
+
+Which hath entered me.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -787,6 +942,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 वि न॑ इ॒न्द्र
 </details>
 
+<details><summary>Keith</summary>
+
+Away for us, O Indra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि न॑ इ॒न्द्र
@@ -812,6 +972,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्र॑ क्ष॒त्र
+</details>
+
+<details><summary>Keith</summary>
+
+O Indra, might.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -840,6 +1005,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 इन्द्रि॒याणि॑ शतक्र॒तो
 </details>
 
+<details><summary>Keith</summary>
+
+Powers, O Śatakratu.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रि॒याणि॑ शतक्र॒तो
@@ -862,6 +1032,11 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनु॑ ते दायि .. ॥ [74]
+</details>
+
+<details><summary>Keith</summary>
+
+To thee hath been given.
 </details>
 
 <details><summary>मूलम्</summary>

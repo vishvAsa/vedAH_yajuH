@@ -13,18 +13,49 @@ title = "०४ चित्रायोगोपहोममन्त्रा�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।   
-ता अ॑स्मात्सृ॒ष्टाᳶ परा॑चीरायन् ।  
-ता यत्राव॑सन्।  
-ततो॑ ग॒र्मुदुद॑तिष्ठत् ।  
+प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।
+</details>
+
+<details><summary>Keith</summary>
+
+Prajapati created offspring;
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।   
-ता अ॑स्मात्सृ॒ष्टाᳶ परा॑चीरायन् ।  
+प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता अ॑स्मात्सृ॒ष्टाᳶ परा॑चीरायन् ।
+</details>
+
+<details><summary>Keith</summary>
+
+they created went away from him;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ता अ॑स्मात्सृ॒ष्टाᳶ परा॑चीरायन् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ता यत्राव॑सन्।  
-ततो॑ ग॒र्मुदुद॑तिष्ठत् ।  
+ततो॑ ग॒र्मुदुद॑तिष्ठत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+where they stayed, thence sprung the bean.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ता यत्राव॑सन्।  
+ततो॑ ग॒र्मुदुद॑तिष्ठत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -35,6 +66,11 @@ title = "०४ चित्रायोगोपहोममन्त्रा�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता बृह॒स्पति॑श्चा॒न्ववै॑ताम् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Those he followed with Brhaspati;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -52,6 +88,11 @@ title = "०४ चित्रायोगोपहोममन्त्रा�
 सो॑ऽब्रवी॒द्, बृह॒स्पति॑र॒नया॑ त्वा॒ प्र ति॑ष्ठानि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Brhaspati said, 'With this will I go before thee,
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽब्रवी॒द्, बृह॒स्पति॑र॒नया॑ त्वा॒ प्र ति॑ष्ठानि ।  
@@ -65,6 +106,11 @@ title = "०४ चित्रायोगोपहोममन्त्रा�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ॑ त्वा प्र॒जा उ॒पाव॑र्त्स्य॒न्तीति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+then shall offspring have resort to thee.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -82,6 +128,11 @@ title = "०४ चित्रायोगोपहोममन्त्रा�
 तम्प्राति॑ष्ठत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He went before him;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम्प्राति॑ष्ठत् ।  
@@ -94,20 +145,51 @@ title = "०४ चित्रायोगोपहोममन्त्रा�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वै प्र॒जाप॑तिम्प्र॒जा उ॒पाव॑र्तन्त ।  
-यᳶ प्र॒जाका॑म॒स्स्यात् ।  
-तस्मा॑ ए॒तम्प्रा॑जाप॒त्यङ्गा॑र्मु॒तञ्च॒रुन्निर्व॑पेत् ।  
-प्र॒जाप॑तिमे॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।  
-स ए॒वास्मै॑ प्र॒जाम्प्र ज॑नयति ।  
+ततो॒ वै प्र॒जाप॑तिम्प्र॒जा उ॒पाव॑र्तन्त ।
+</details>
+
+<details><summary>Keith</summary>
+
+then indeed did offspring resort to Prajapati.
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततो॒ वै प्र॒जाप॑तिम्प्र॒जा उ॒पाव॑र्तन्त ।  
+ततो॒ वै प्र॒जाप॑तिम्प्र॒जा उ॒पाव॑र्तन्त ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यᳶ प्र॒जाका॑म॒स्स्यात् ।  
 तस्मा॑ ए॒तम्प्रा॑जाप॒त्यङ्गा॑र्मु॒तञ्च॒रुन्निर्व॑पेत् ।  
-प्र॒जाप॑तिमे॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।  
-स ए॒वास्मै॑ प्र॒जाम्प्र ज॑नयति ।  
+प्र॒जाप॑तिमे॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+</details>
+
+<details><summary>Keith</summary>
+
+For him who desires offspring he should offer this oblation of beans to Prajapati verily he has recourse to Prajapati with his own share [1];
+</details>
+
+<details><summary>मूलम्</summary>
+
+यᳶ प्र॒जाका॑म॒स्स्यात् ।  
+तस्मा॑ ए॒तम्प्रा॑जाप॒त्यङ्गा॑र्मु॒तञ्च॒रुन्निर्व॑पेत् ।  
+प्र॒जाप॑तिमे॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स ए॒वास्मै॑ प्र॒जाम्प्र ज॑नयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he produces offspring for him.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स ए॒वास्मै॑ प्र॒जाम्प्र ज॑नयति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -122,26 +204,83 @@ title = "०४ चित्रायोगोपहोममन्त्रा�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तिᳶ प॒शून॑सृजत ।  
-ते॑ऽस्मात्सृ॒ष्टाᳶ परा॑ञ्च आयन् ।  
-ते यत्राव॑सन् ।  
-ततो॑ ग॒र्मुदुद॑तिष्ठत् ।  
-तान्पू॒षा चा॒न्ववै॑ताम् ।  
-सो॑ऽब्रवीत् ।  
-पू॒षानया॑ मा॒ प्र ति॑ष्ठ।  
-अथ॑ त्वा प॒शव॑ उ॒पाव॑र्त्स्य॒न्तीति॑ ।  
+प्र॒जाप॑तिᳶ प॒शून॑सृजत ।
+</details>
+
+<details><summary>Keith</summary>
+
+Prajapati created cattle;
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्र॒जाप॑तिᳶ प॒शून॑सृजत ।  
+प्र॒जाप॑तिᳶ प॒शून॑सृजत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ते॑ऽस्मात्सृ॒ष्टाᳶ परा॑ञ्च आयन् ।  
-ते यत्राव॑सन् ।  
+ते यत्राव॑सन् ।
+</details>
+
+<details><summary>Keith</summary>
+
+they created went away from him;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ते॑ऽस्मात्सृ॒ष्टाᳶ परा॑ञ्च आयन् ।  
+ते यत्राव॑सन् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ततो॑ ग॒र्मुदुद॑तिष्ठत् ।  
-तान्पू॒षा चा॒न्ववै॑ताम् ।  
+तान्पू॒षा चा॒न्ववै॑ताम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+where they stayed, thence sprung the bean;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततो॑ ग॒र्मुदुद॑तिष्ठत् ।  
+तान्पू॒षा चा॒न्ववै॑ताम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सो॑ऽब्रवीत् ।  
-पू॒षानया॑ मा॒ प्र ति॑ष्ठ।  
-अथ॑ त्वा प॒शव॑ उ॒पाव॑र्त्स्य॒न्तीति॑ ।  
+पू॒षानया॑ मा॒ प्र ति॑ष्ठ।
+</details>
+
+<details><summary>Keith</summary>
+
+those he followed with Pusan;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सो॑ऽब्रवीत् ।  
+पू॒षानया॑ मा॒ प्र ति॑ष्ठ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ॑ त्वा प॒शव॑ उ॒पाव॑र्त्स्य॒न्तीति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Pusan said, 'With this do thou go before me;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथ॑ त्वा प॒शव॑ उ॒पाव॑र्त्स्य॒न्तीति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -152,6 +291,11 @@ title = "०४ चित्रायोगोपहोममन्त्रा�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 माम्प्र ति॒ष्ठेति॒ सोमो॑ऽब्रवीत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+then shall cattle resort to thee.' 'Do thou go before me', said Soma,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -169,6 +313,11 @@ title = "०४ चित्रायोगोपहोममन्त्रा�
 मम॒ वा अ॑कृष्टप॒च्यमिति॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+'mine [2] is what grows on untilled (land).'
+</details>
+
 <details><summary>मूलम्</summary>
 
 मम॒ वा अ॑कृष्टप॒च्यमिति॑ ।  
@@ -184,6 +333,11 @@ title = "०४ चित्रायोगोपहोममन्त्रा�
 उ॒भौ वा॒म्प्र ति॑ष्ठा॒नीत्य॑ब्रवीत् ।
 </details>
 
+<details><summary>Keith</summary>
+
+'Both of you shall I go before', he said;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒भौ वा॒म्प्र ति॑ष्ठा॒नीत्य॑ब्रवीत् ।
@@ -197,6 +351,11 @@ title = "०४ चित्रायोगोपहोममन्त्रा�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ प्राति॑ष्ठत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he went before them both;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -219,6 +378,11 @@ title = "०४ चित्रायोगोपहोममन्त्रा�
 सोमो॒ वै रे॑तो॒धाᳶ पू॒षा प॑शू॒नाम्प्र॑जनयि॒ता ,  
 सोम॑ ए॒वास्मै॒ रेतो॒ दधा॑ति ।  
 पू॒षा प॒शून्प्र ज॑नयति ॥  
+</details>
+
+<details><summary>Keith</summary>
+
+then indeed did cattle resort to Prajapati. For him who desires cattle should he offer this oblation of beans to Soma and Pusan; verily he has recourse to Soma and Pusan with their own share; verily they produce cattle for him. Soma is the impregnator of seed, Pusan the producer of cattle; verily Soma bestows seed upon him, Pusan produces cattle.
 </details>
 
 <details><summary>मूलम्</summary>

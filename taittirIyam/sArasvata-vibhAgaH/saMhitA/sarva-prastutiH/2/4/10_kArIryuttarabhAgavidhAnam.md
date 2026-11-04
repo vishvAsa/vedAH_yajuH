@@ -13,13 +13,29 @@ title = "१० कारीर्युत्तरभागविधानम�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा॑ वसव्या॒ देवाः॑ शर्मण्या॒ देवाः॑ सपीतय॒ इत्याब॑ध्नाति ।
+</details>
 
-दे॒वता॑भिरे॒वान्व॒हव्ँवृष्टि॑मिच्छति ।
+<details><summary>Keith</summary>
+
+'O gods having wealth, O gods granting protection, O gods drinking together', (with these words) he ties on;
 </details>
 
 <details><summary>मूलम्</summary>
 
 देवा॑ वसव्या॒ देवाः॑ शर्मण्या॒ देवाः॑ सपीतय॒ इत्याब॑ध्नाति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दे॒वता॑भिरे॒वान्व॒हव्ँवृष्टि॑मिच्छति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily by means of the gods he daily seeks rain.
+</details>
+
+<details><summary>मूलम्</summary>
 
 दे॒वता॑भिरे॒वान्व॒हव्ँवृष्टि॑मिच्छति ।
 </details>
@@ -32,6 +48,11 @@ title = "१० कारीर्युत्तरभागविधानम�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि॒ वर्षे॒त्ताव॑त्ये॒व हो॑त॒व्यम् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+If it should rain, so much only should be offered;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -49,6 +70,11 @@ title = "१० कारीर्युत्तरभागविधानम�
 यदि॒ न वर्षे॒च्छ्वो भू॒ते ह॒विर्निर्व॑पेत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+if it should not rain, on the next day he should offer an oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदि॒ न वर्षे॒च्छ्वो भू॒ते ह॒विर्निर्व॑पेत् ।  
@@ -64,6 +90,11 @@ title = "१० कारीर्युत्तरभागविधानम�
 अ॒हो॒रा॒त्रे वै  मि॒त्रावरु॑णावहोरा॒त्राभ्या॒ङ्खलु॒ वै प॒र्जन्यो॑ वर्षति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Mitra and Varuna are day and night, by day and night Parjanya rains,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒हो॒रा॒त्रे वै  मि॒त्रावरु॑णावहोरा॒त्राभ्या॒ङ्खलु॒ वै प॒र्जन्यो॑ वर्षति ।  
@@ -76,16 +107,47 @@ title = "१० कारीर्युत्तरभागविधानम�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नक्तव्ँ॑वा॒ हि दिवा॑ वा॒ वर्ष॑ति ।  
-मि॒त्रावरु॑णावे॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।  
-तावे॒वास्मा॒ अ॒हो॒रा॒त्राभ्या॑म्प॒र्जन्यव्ँ॑वर्षयतः ।  
+नक्तव्ँ॑वा॒ हि दिवा॑ वा॒ वर्ष॑ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+for by night or by day he rains;
 </details>
 
 <details><summary>मूलम्</summary>
 
-नक्तव्ँ॑वा॒ हि दिवा॑ वा॒ वर्ष॑ति ।  
-मि॒त्रावरु॑णावे॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।  
-तावे॒वास्मा॒ अ॒हो॒रा॒त्राभ्या॑म्प॒र्जन्यव्ँ॑वर्षयतः ।  
+नक्तव्ँ॑वा॒ हि दिवा॑ वा॒ वर्ष॑ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मि॒त्रावरु॑णावे॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he has recourse to Mitra and Varuna with their own share;
+</details>
+
+<details><summary>मूलम्</summary>
+
+मि॒त्रावरु॑णावे॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तावे॒वास्मा॒ अ॒हो॒रा॒त्राभ्या॑म्प॒र्जन्यव्ँ॑वर्षयतः ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily they [1] make Parjanya rain for him by day and night.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तावे॒वास्मा॒ अ॒हो॒रा॒त्राभ्या॑म्प॒र्जन्यव्ँ॑वर्षयतः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -104,6 +166,11 @@ title = "१० कारीर्युत्तरभागविधानम�
 मा॒रु॒तँ स॒प्तक॑पालँ सौ॒र्यमेक॑कपालम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+To Agni, hiding his abode, he should offer a cake on eight potsherds, to the Maruts on seven potsherds, to Surya on one potsherd;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नये॑ धाम॒च्छदे॑ पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पेत् ।  
@@ -118,6 +185,11 @@ title = "१० कारीर्युत्तरभागविधानम�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्निर्वा इ॒तो वृष्टि॒मुदी॑रयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Agni thence causes the rain to arise,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -135,6 +207,11 @@ title = "१० कारीर्युत्तरभागविधानम�
 म॒रुत॑स्सृ॒ष्टान्न॑यन्ति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Maruts lead it out when produced;
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒रुत॑स्सृ॒ष्टान्न॑यन्ति ।  
@@ -148,6 +225,11 @@ title = "१० कारीर्युत्तरभागविधानम�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य॒दा खलु॒ वा अ॒सावा॑दि॒त्यो न्य॑ङ्र॒श्मिभिᳶ॑ पर्या॒वर्त॑ते।
+</details>
+
+<details><summary>Keith</summary>
+
+when yonder Sun Moves low with his rays,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -165,6 +247,26 @@ title = "१० कारीर्युत्तरभागविधानम�
 अथ॑ वर्षति धाम॒च्छदि॑व॒ खलु॒ वै भू॒त्वा व॑र्षति ।
 </details>
 
+<details><summary>Keith</summary>
+
+then he rains;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथ॑ वर्षति धाम॒च्छदि॑व॒ खलु॒ वै भू॒त्वा व॑र्षति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ॑ वर्षति धाम॒च्छदि॑व॒ खलु॒ वै भू॒त्वा व॑र्षति ।
+</details>
+
+<details><summary>Keith</summary>
+
+becoming a hider of his abode, as it were, he rains;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॑ वर्षति धाम॒च्छदि॑व॒ खलु॒ वै भू॒त्वा व॑र्षति ।
@@ -177,16 +279,62 @@ title = "१० कारीर्युत्तरभागविधानम�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ता वै दे॒वता॒ वृष्ट्या॑ ईशते ।  
-ता ए॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।   
-ता ए॒वास्मै॑ प॒र्जन्यव्ँ॑वर्षयन्त्यु॒ताव॑र्षिष्य॒न्वर्ष॑त्ये॒व ।
+ए॒ता वै दे॒वता॒ वृष्ट्या॑ ईशते ।
+</details>
+
+<details><summary>Keith</summary>
+
+these deities are the lords of rain;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ए॒ता वै दे॒वता॒ वृष्ट्या॑ ईशते ।  
-ता ए॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।   
-ता ए॒वास्मै॑ प॒र्जन्यव्ँ॑वर्षयन्त्यु॒ताव॑र्षिष्य॒न्वर्ष॑त्ये॒व ।
+ए॒ता वै दे॒वता॒ वृष्ट्या॑ ईशते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता ए॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+</details>
+
+<details><summary>Keith</summary>
+
+them he has recourse to with their own share;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ता ए॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता ए॒वास्मै॑ प॒र्जन्यव्ँ॑वर्षयन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+they [2] make Parjanya rain for him;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ता ए॒वास्मै॑ प॒र्जन्यव्ँ॑वर्षयन्ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उ॒ताव॑र्षिष्य॒न्वर्ष॑त्ये॒व ।
+</details>
+
+<details><summary>Keith</summary>
+
+even if he is not minded to rain yet he rains.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उ॒ताव॑र्षिष्य॒न्वर्ष॑त्ये॒व ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -204,6 +352,11 @@ title = "१० कारीर्युत्तरभागविधानम�
 सृ॒जा वृ॒ष्टिन्दि॒व आद्भिस्स॑मु॒द्रम्पृ॒णेत्या॑ह ।  
 </details>
 
+<details><summary>Keith</summary>
+
+'Let free the rain from heaven; with waters fill the ocean', he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सृ॒जा वृ॒ष्टिन्दि॒व आद्भिस्स॑मु॒द्रम्पृ॒णेत्या॑ह ।  
@@ -219,6 +372,11 @@ title = "१० कारीर्युत्तरभागविधानम�
 इ॒माश्चै॒वामूश्चा॒पस्सम॑र्धयति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+verily these and yonder waters he unites;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒माश्चै॒वामूश्चा॒पस्सम॑र्धयति ।  
@@ -232,6 +390,11 @@ title = "१० कारीर्युत्तरभागविधानम�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो॑ आ॒भिरे॒वामूरच्छै॑ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+then with these he approaches yonder (waters).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -250,6 +413,11 @@ title = "१० कारीर्युत्तरभागविधानम�
 प्र॒थ॒म॒जा बल॑मसि समु॒द्रिय॒मित्या॑ह ।  
 </details>
 
+<details><summary>Keith</summary>
+
+'Thou art born of waters, first-born; thou art the might of the ocean', he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ब्जा अ॑सि ।  
@@ -264,6 +432,11 @@ title = "१० कारीर्युत्तरभागविधानम�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथाय॒जुरे॒वैतत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+that is according to the text.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -286,6 +459,11 @@ title = "१० कारीर्युत्तरभागविधानम�
 उन्न॑म्भय पृथि॒वीमिति॑ वर्षा॒ह्वाञ्जु॑होति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+'Flood the earth', (with these words) he offers in a Boerhavia procumbens;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उन्न॑म्भय पृथि॒वीमिति॑ वर्षा॒ह्वाञ्जु॑होति ।  
@@ -305,6 +483,11 @@ title = "१० कारीर्युत्तरभागविधानम�
 ए॒षा वा ओष॑धीनाव्ँवृष्टि॒वनि॒स्तयै॒व वृष्टि॒मा च्या॑वयति ।  
 ये दे॒वा दि॒विभा॑गा॒ इति॑ कृष्णाजि॒नमव॑ धूनोति ।  
 इ॒म ए॒वास्मै॑ लो॒काᳶ प्री॒ता अ॒भीष्टा॑ भवन्ति ॥   
+</details>
+
+<details><summary>Keith</summary>
+
+this of plants is that which wins rain, and thereby he causes rain to fall. 'The gods whose portion is in the sky', (with these words) he shakes the black antelope skin; verily to him these worlds become dear and desired.
 </details>
 
 <details><summary>मूलम्</summary>

@@ -27,7 +27,6 @@ title = "०६ दर्शपूर्णमासौ सोमात् प�
 The new and the full moon (sacrifices) are the chariot of the gods. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ए॒ष वै दे॑वर॒थो यद्द॑र्शपूर्णमा॒सौ ।
@@ -53,6 +52,7 @@ The new and the full moon (sacrifices) are the chariot of the gods.
 
 यो द॑र्शपूर्णमा॒साव् **इ॒ष्ट्वा** सोमे॑न॒ **यज॑ते॒**
 रथ॑-स्पष्ट ए॒वाव॒साने॒ वरे॑ दे॒वाना॒म् **अव॑स्यति** ।
+ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -61,7 +61,6 @@ He, who having offered the new and the full moon (sacrifices) sacrifices with So
 rests in the chosen resting-place of the gods  
 which is conspicuous for its chariot (tracks). 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -91,17 +90,17 @@ which is conspicuous for its chariot (tracks).
 </details>
 
 ## संवत्सराङ्गत्वम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒तानि॒ वा अङ्गा॒परूँ॑षि  
-सव्ँवत्स॒रस्य॒ यद् द॑र्श-पूर्णमा॒सौ।
+सव्ँवत्स॒रस्य॒ यद् द॑र्श-पूर्णमा॒सौ
 </details>
 
 <details><summary>Keith</summary>
 
 The new and the full moons are the limbs and joints of the year; 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -112,7 +111,6 @@ The new and the full moons are the limbs and joints of the year;
 
 ए॒तानि॑ । वै । अङ्गा॒परूँ॒षीत्यङ्गा॑-परूँ॑षि । सव्ँ॒व॒त्स॒रस्येति॑ सम्-व॒त्स॒रस्य॑ । यत् । द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ । 4 ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -136,7 +134,6 @@ The new and the full moons are the limbs and joints of the year;
 he who knowing thus offers the new and the full moon (sacrifices)  
 thus unites the limbs and joints of the year. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -163,7 +160,6 @@ thus unites the limbs and joints of the year.
 The new and the full moon are the eyes of the year; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ए॒ते वै सव्ँ॑वत्स॒रस्य॒ चक्षु॑षी॒ यद्द॑र्शपूर्णमा॒सौ 
@@ -179,7 +175,6 @@ The new and the full moon are the eyes of the year;
 अथ चक्षुष्ट्वेन प्रशंसति-  **एते वा इति।**
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते॒  
@@ -191,7 +186,6 @@ The new and the full moon are the eyes of the year;
 he who knowing thus offers the new and the full moon (sacrifices) thus sees with them along the world of heaven [1].
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते॒ ताभ्या॑मे॒व सु॑व॒र्गल्ँ लो॒कमनु॑ पश्यति    
@@ -201,7 +195,6 @@ he who knowing thus offers the new and the full moon (sacrifices) thus sees with
 
 यः । ए॒वम् । वि॒द्वान् । द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ । यज॑ते । ताभ्या॑म् । ए॒व । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । अन्विति॑ । प॒श्य॒ति॒ ।  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -214,6 +207,7 @@ he who knowing thus offers the new and the full moon (sacrifices) thus sees with
 </details>
 
 ## देव-विक्रान्तिः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒षा वै दे॒वानाव्ँ॒ विक्रा॑न्ति॒र् यद् द॑र्श-पूर्णमा॒सौ ।   
@@ -223,7 +217,6 @@ he who knowing thus offers the new and the full moon (sacrifices) thus sees with
 
 The new and the full moon are the striding of the gods; 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -241,7 +234,6 @@ The new and the full moon are the striding of the gods;
 सर्वेभ्यः कामेभ्यो दर्शपूर्णमासाविति शाखान्तरे श्रुतत्वाद्युद्धजयहेतुत्वमप्यस्तीति पराक्रमरूपत्वम्। 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते    
@@ -252,7 +244,6 @@ The new and the full moon are the striding of the gods;
 
 he who knowing thus offers the new and the full moon (sacrifices) steps in the striding of the gods.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -277,6 +268,7 @@ he who knowing thus offers the new and the full moon (sacrifices) steps in the s
 </details>
 
 ## देव-पन्था
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒ष वै दे॑व॒यान॒ᳶ पन्था॒ यद्द॑र्शपूर्णमा॒सौ य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते॒ य ए॒व दे॑व॒यान॒ᳶ पन्था॒स्तँ स॒मारो॑हति
@@ -285,7 +277,7 @@ he who knowing thus offers the new and the full moon (sacrifices) steps in the s
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒ष वै दे॑व॒यान॒ᳶ पन्था॒  
-यद् द॑र्शपूर्णमा॒सौ।
+यद् द॑र्शपूर्णमा॒सौ
 </details>
 
 <details><summary>Keith</summary>
@@ -314,7 +306,6 @@ The new and the full moon are the path on which the gods fare;
 
 he who knowing thus offers the new and the full moon (sacrifices) mounts the path on which the gods fare.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -357,7 +348,6 @@ he who knowing thus offers the new and the full moon (sacrifices) mounts the pat
 The new and the full moons are the bay steeds of the gods;
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ए॒तौ वै दे॒वानाँ॒ हरी॒ यद्द॑र्शपूर्णमा॒सौ ।
@@ -379,7 +369,6 @@ The new and the full moons are the bay steeds of the gods;
 
 he who knowing thus offers the new and the full moon (sacrifices) carries to the gods with their two bay steeds [2] the offering. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -404,6 +393,7 @@ he who knowing thus offers the new and the full moon (sacrifices) carries to the
 </details>
 
 ## देवास्यम्
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒तद्वै दे॒वाना॑मा॒स्यय्ँ॑यद्द॑र्शपूर्णमा॒सौ य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते सा॒क्षादे॒व दे॒वाना॑मा॒स्ये॑ जुहोति
@@ -442,7 +432,6 @@ The new and the full moon (sacrifices) are the mouth of the gods;
 सा॒क्षादिति॑ स-अ॒क्षात् । ए॒व । दे॒वाना॑म् । आ॒स्ये॑ । जु॒हो॒ति॒ ।
 </details>
 
-
 <details><summary>Keith</summary>
 
 he who knowing thus offers the new and the full moon (sacrifices) manifestly sacrifices in the mouth of the gods. 
@@ -469,6 +458,7 @@ he who knowing thus offers the new and the full moon (sacrifices) manifestly sac
 </details>
 
 ## हविर्धानी
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒ष वै ह॑विर्धा॒नी यो द॑र्शपूर्णमासया॒जी सा॒यम्प्रा॑तरग्निहो॒त्रञ्जु॑होति॒ यज॑ते दर्शपूर्णमा॒सावह॑रहर्हविर्धा॒निनाँ॑ सु॒तः
@@ -478,8 +468,8 @@ he who knowing thus offers the new and the full moon (sacrifices) manifestly sac
 
 ए॒ष वै ह॑विर्-धा॒नी यो द॑र्शपूर्णमासया॒जी,  
 सा॒यम्-प्रा॑तर् अग्निहो॒त्रञ् जु॑होति॒,  
-यज॑ते दर्शपूर्णमा॒सौ।  
-अह॑र्-अहर् हविर्धा॒निनाँ॑ सु॒तः।
+यज॑ते दर्शपूर्णमा॒सौ  
+अह॑र्-अहर् हविर्धा॒निनाँ॑ सु॒तः
 </details>
 
 <details><summary>Keith</summary>
@@ -502,7 +492,6 @@ on every day (the Soma) of those who have oblation holders is pressed.
 सा॒यम्प्रा॑त॒रिति॑ सा॒यम्-प्रा॒तः॒ । अ॒ग्नि॒हो॒त्रमित्य॑ग्नि-हो॒त्रम् । जु॒हो॒ति॒ ।   
 यज॑ते । द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ ।   
 अह॑रह॒रित्यहः॑-अ॒हः॒ । ह॒वि॒र्धा॒निना॒मिति॑ हविः-धा॒निना॑म् । सु॒तः ।
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -562,6 +551,7 @@ everything is given as on the strew.
 </details>
 
 ## पवित्रता
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा वा अहः॑ [35]  य॒ज्ञिय॒न्नावि॑न्द॒न्ते द॑र्शपूर्णमा॒साव॑पुन॒न्तौ वा ए॒तौ पू॒तौ मेध्यौ॒ यद्द॑र्शपूर्णमा॒सौ य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते पू॒तावे॒वैनौ॒ मेध्यौ॑ यजते॒
@@ -576,7 +566,6 @@ everything is given as on the strew.
 
 The gods [3] could not find the suitable day for the sacrifice. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -594,7 +583,6 @@ The gods [3] could not find the suitable day for the sacrifice.
 
 10देवा वा इत्यादि ॥ यज्ञार्हं **यज्ञियंम्**'।  यज्ञर्त्विभ्यां घखञौ' ।
 </details>
-
 
 <details><summary>सायण-टीका</summary>
 
@@ -614,7 +602,6 @@ They purified the new and full moons;
 the new and the full moon (sacrifices) are these pure and sacrificial (days). 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ते द॑र्शपूर्णमा॒साव॑पुनन् ।
@@ -628,9 +615,7 @@ the new and the full moon (sacrifices) are these pure and sacrificial (days).
 
 तौ । वै । ए॒तौ । पू॒तौ । मेध्यौ॑ । यत् । द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ ।  
 
-
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -644,13 +629,11 @@ the new and the full moon (sacrifices) are these pure and sacrificial (days).
 प्रतिपदादिषु चतुर्दश्यन्तासु तिथिषु चन्द्रमा लेशतो दृश्यते। न पूर्णो नाप्यत्बन्तमदृष्टः अतस्तयोः कर्मणोर्योग्या न भवन्ति। तस्मात्तावेव  **एतौ** उक्तौ तिथिविशेषौ देवैरुक्तरीत्या शोधितौ सन्तौ यज्ञयोग्यौ संपन्नौ। 
 </details>
 
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते
 पू॒ताव् ए॒वैनौ॒ मेध्यौ॑ यजते ।
+ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -671,7 +654,6 @@ offers them as pure and sacrificial.
 पू॒तौ । ए॒व । ए॒नौ॒ । मेध्यौ॑ । य॒ज॒ते॒ ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 य एवमिति । एवं वेदितुरेव एतौ पूता भवतः ॥
@@ -683,6 +665,7 @@ offers them as pure and sacrificial.
 </details>
 
 ## यभन-निषेधः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नामा॑वा॒स्या॑याञ्च पौर्णमा॒स्याञ्च॒ स्त्रिय॒म् उपे॑यात् ।
@@ -692,7 +675,6 @@ offers them as pure and sacrificial.
 
 One should not approach a woman on the new moon or the full moon night; 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -724,7 +706,6 @@ One should not approach a woman on the new moon or the full moon night;
 if one were to do so, one would be impotent. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यदु॑पे॒यात् निरि॑न्द्रियस्स्यात् ।  
@@ -743,7 +724,6 @@ if one were to do so, one would be impotent.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-
 सोम॑स्य॒ वै राज्ञो॑ ऽर्धमा॒सस्य॒  
 रात्र॑य॒ᳶ पत्न॑य आसन् ।  
 तासा॑म् अमावा॒स्या॑ञ् च पौर्णमा॒सीञ् च॒ नोपै॑त् ।  
@@ -754,7 +734,6 @@ if one were to do so, one would be impotent.
 The nights of the half-month were the wives of King Soma;  
 of these be did not approach the new moon night and the full moon night [4]. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -774,7 +753,6 @@ of these be did not approach the new moon night and the full moon night [4].
 12रात्रय इति ॥ पञ्चदश तिथयः । पत्नय इति छान्दसो वर्णविकारः ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते+++(←द्विवचनत्वात् न सन्धिः)+++ ए॑नम् अ॒भि सम॑नह्येताम् ।   
@@ -785,7 +763,6 @@ of these be did not approach the new moon night and the full moon night [4].
 
 They grasped him about, and illness seized him. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -836,7 +813,6 @@ because he got it from his wives,
 that is (the origin) of the 'wife's disease' (Jayenya),
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 "राजा॑नय्ँ॒ यक्ष्म॑ आर॒द्" इति॒ ..  
@@ -865,7 +841,6 @@ that is (the origin) of the 'wife's disease' (Jayenya),
 him who knows thus the origin of these illnesses,  
 these illnesses do not visit. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -897,7 +872,6 @@ these illnesses do not visit.
 
 He ran up to these two in reverence; 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -934,14 +908,12 @@ they said,
 > from us let the gods be sacrificed to.' 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ते अ॑ब्रूताव्ँ॒वरव्ँ॑वृणावहै ।   
 आ॒वन्दे॒वाना॑म्भाग॒धे अ॑साव ।  
 आ॒वदधि॑ दे॒वा इ॑ज्यान्ता॒ इति॑ ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -965,15 +937,14 @@ they said,
 **आवाम्** उभे एव देवानां हविर्भागधारिण्यौ भवाव आवयोरधिश्रित्गाग्न्यादयो देवा इज्यन्तामित्यनयोर्वरः। एतबोभगिधारित्वं जानते मनुष्याः सर्वेऽपि भागं धारयित्वा प्रयच्छन्ति।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॑त् स॒दृशी॑नाँ॒ रात्री॑णाम्  
 अमावा॒स्या॑याञ्च पौर्णमा॒स्याञ्च॑  
-दे॒वा इ॑ज्यन्ते ।  
-ए॒ते हि दे॒वाना॑म् भाग॒-धे ।  
+दे॒वा इ॑ज्यन्ते   
+ए॒ते हि दे॒वाना॑म् भाग॒-धे   
 भा॒ग॒-धा अ॑स्मै मनु॒ष्या॑ भवन्ति॒,  
-य ए॒वव्ँ वेद॑ ।  
+य ए॒वव्ँ वेद॑   
 </details>
 
 <details><summary>Keith</summary>
@@ -983,7 +954,6 @@ it is on the new and the full moon night that the gods are sacrificed to;
 for they are the appointers of portions for the gods.  
 Men appoint portions to him who knows thus. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -999,13 +969,13 @@ Men appoint portions to him who knows thus.
 यः । ए॒वम् । वेद॑ ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 15तस्मादित्यादि ॥ गतम् ॥
 </details>
 
 ## क्षुत्
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 भू॒तानि॒ क्षुध॑मघ्नन्त्स॒द्यो म॑नु॒ष्या॑ अर्धमा॒से दे॒वा मा॒सि पि॒तर॑स्सव्ँवत्स॒रे वन॒स्पत॑य॒स्तस्मा॒दह॑रहर्मनु॒ष्या॑ अश॑नमिच्छन्तेऽर्धमा॒से दे॒वा इ॑ज्यन्ते मा॒सि पि॒तृभ्य॑ᳵ क्रियते सव्ँवत्स॒रे वन॒स्पत॑य॒ᳶ फल॑ङ्गृह्णन्ति॒ य ए॒वव्ँ वेद॒ हन्ति॒ क्षुध॒म्भ्रातृ॑व्यम् ॥ [38]  
@@ -1013,7 +983,7 @@ Men appoint portions to him who knows thus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भू॒तानि॒ क्षुध॑म् अघ्नन्थ् -  
+भू॒तानि॒ क्षुध॑म् अघ्नन्थ्
 स॒द्यो म॑नु॒ष्या॑  
 अर्धमा॒से दे॒वा  
 मा॒सि पि॒तर॑स्  
@@ -1029,7 +999,6 @@ the Pitrs in a month,
 trees in a year. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 भू॒तानि॒ क्षुध॑मघ्नन्त्स॒द्यो म॑नु॒ष्या॑ अर्धमा॒से दे॒वा मा॒सि पि॒तर॑स्सव्ँवत्स॒रे वन॒स्पत॑यः
@@ -1039,7 +1008,6 @@ trees in a year.
 
 भू॒तानि॑ । क्षुध॑म् । अ॒घ्न॒न् । स॒द्यः । म॒नु॒ष्याः॑ । अ॒र्ध॒मा॒स इत्य॑र्ध-मा॒से । दे॒वाः । मा॒सि । पि॒तरः॑ । सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रे । वन॒स्पत॑यः ।  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1060,7 +1028,7 @@ trees in a year.
 तस्मा॒द् अह॑र्-अहर् मनु॒ष्या॑ अश॑नम् इच्छन्ते,  
 ऽर्धमा॒से दे॒वा इ॑ज्यन्ते,  
 मा॒सि पि॒तृभ्य॑ᳵ क्रियते,  
-सव्ँवत्स॒रे वन॒स्पत॑य॒ᳶ फल॑ङ् गृह्णन्ति।
+सव्ँवत्स॒रे वन॒स्पत॑य॒ᳶ फल॑ङ् गृह्णन्ति
 </details>
 
 <details><summary>Keith</summary>
@@ -1070,7 +1038,6 @@ at the half-month the gods are sacrificed to,
 every month offering is made to the Pitrs,  
 in a year trees produce fruit. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1084,7 +1051,6 @@ in a year trees produce fruit.
 मा॒सि । पि॒तृभ्य॒ इति॑ पि॒तृ-भ्यः॒ । क्रि॒य॒ते॒ ।   
 सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रे । वन॒स्पत॑यः । फल॑म् । गृ॒ह्ण॒न्ति॒ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1111,11 +1077,11 @@ in a year trees produce fruit.
 He who knows thus slays the enemy, hunger.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वेद॒ हन्ति॒ क्षुध॒म्भ्रातृ॑व्यम् ॥ 
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 यः । ए॒वम् । वेद॑ । हन्ति॑ । क्षुध॑म् । भ्रातृ॑व्यम् ॥ [38]  

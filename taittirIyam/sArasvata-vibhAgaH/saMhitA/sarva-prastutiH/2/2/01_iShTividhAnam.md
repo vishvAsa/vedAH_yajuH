@@ -12,9 +12,6 @@ title = "०१ इष्टिविधानम्"
  - ६-७. सभामेषयतः   पुरोडाशाश्चरवश्च
  - ८-९. सभां प्राप्तस्य   पुरोडाशाश्चरवश्च
 
-
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत॒ तास्सृ॒ष्टा इ॑न्द्रा॒ग्नी अपा॑गूहताँ॒ सो॑ऽचायत्प्र॒जाप॑तिरिन्द्रा॒ग्नी वै मे॑ प्र॒जा अपा॑घुक्षता॒मिति॒ स ए॒तमै॑न्द्रा॒ग्नमेका॑दशकपालमपश्य॒त्तन्निर॑वप॒त्ताव॑स्मै प्र॒जाᳶ प्रासा॑धयतामिन्द्रा॒ग्नी वा ए॒तस्य॑ प्र॒जामप॑गूहतो॒ योऽल॑म्प्र॒जायै॒ सन्प्र॒जान्न वि॒न्दत॑ ऐन्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पेत्प्र॒जाका॑म इन्द्रा॒ग्नी (1)  ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति॒ तावे॒वास्मै॑ प्र॒जाम्प्रसा॑धयतो वि॒न्दते॑ प्र॒जाम्  
@@ -23,6 +20,11 @@ title = "०१ इष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।
+</details>
+
+<details><summary>Keith</summary>
+
+Prajapati created offspring.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -40,6 +42,11 @@ title = "०१ इष्टिविधानम्"
 तास्सृ॒ष्टा इ॑न्द्रा॒ग्नी अपा॑गूहताम्।  
 </details>
 
+<details><summary>Keith</summary>
+
+On their creation Indra and Agni hid them away.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तास्सृ॒ष्टा इ॑न्द्रा॒ग्नी अपा॑गूहताम्।  
@@ -53,6 +60,11 @@ title = "०१ इष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो॑ऽचायत्प्र॒जाप॑तिः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Prajapati reflected,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -70,6 +82,11 @@ title = "०१ इष्टिविधानम्"
 इ॒न्द्रा॒ग्नी वै मे॑ प्र॒जा अपा॑घुक्षता॒मिति॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+'Indra and Agni have hidden away from me offspring.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रा॒ग्नी वै मे॑ प्र॒जा अपा॑घुक्षता॒मिति॑ ।  
@@ -83,6 +100,11 @@ title = "०१ इष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ए॒तमै॑न्द्रा॒ग्नमेका॑दशकपालमपश्य॒त्तन्निर॑वपत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+He then perceived this offering to Indra and Agni on eleven potsherds, and offered it,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -100,6 +122,11 @@ title = "०१ इष्टिविधानम्"
 ताव॑स्मै प्र॒जाᳶ प्रासा॑धयताम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+and the two (gods) restored offspring to him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ताव॑स्मै प्र॒जाᳶ प्रासा॑धयताम् ।
@@ -115,6 +142,11 @@ title = "०१ इष्टिविधानम्"
 इ॒न्द्रा॒ग्नी वा ए॒तस्य॑ प्र॒जामप॑गूहतो॒ योऽल॑म्प्र॒जायै॒ सन्प्र॒जान्न वि॒न्दते॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Indra and Agni indeed conceal his offspring, who being fit for offspring, yet obtains not offspring;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रा॒ग्नी वा ए॒तस्य॑ प्र॒जामप॑गूहतो॒ योऽल॑म्प्र॒जायै॒ सन्प्र॒जान्न वि॒न्दते॑ ।
@@ -127,16 +159,47 @@ title = "०१ इष्टिविधानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पेत्प्र॒जाका॑मः ।  
-इ॒न्द्रा॒ग्नी ए॒व  स्वेन॑ भाग॒धेये॒नोप॑धावति ।  
-तावे॒वास्मै॑ प्र॒जाम्प्रसा॑धयतः ।  
-वि॒न्दते॑ प्र॒जाम् ।
+ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पेत्प्र॒जाका॑मः ।
+</details>
+
+<details><summary>Keith</summary>
+
+so let a man who desires offspring offer a sacrifice to Indra, and Agni on eleven potsherds.
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पेत्प्र॒जाका॑मः ।  
-इ॒न्द्रा॒ग्नी ए॒व  स्वेन॑ भाग॒धेये॒नोप॑धावति ।  
+ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पेत्प्र॒जाका॑मः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ॒न्द्रा॒ग्नी ए॒व  स्वेन॑ भाग॒धेये॒नोप॑धावति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Verily Indra and Agni [1] he has recourse to with their own share;
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒न्द्रा॒ग्नी ए॒व  स्वेन॑ भाग॒धेये॒नोप॑धावति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तावे॒वास्मै॑ प्र॒जाम्प्रसा॑धयतः ।  
+वि॒न्दते॑ प्र॒जाम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily they make manifest offspring to him, he obtains offspring.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तावे॒वास्मै॑ प्र॒जाम्प्रसा॑धयतः ।  
 वि॒न्दते॑ प्र॒जाम् ।
 </details>
@@ -146,8 +209,6 @@ title = "०१ इष्टिविधानम्"
 प्रजाकाम इति । पूर्ववत्प्रकृतिस्वरत्वम् ॥
 </details>
 
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऐन्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पे॒त् स्पर्द्ध॑मानः॒ क्षेत्रे॑ वा सजा॒तेषु॑ वेन्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति॒ ताभ्या॑मे॒वेन्द्रि॒यव्ँवी॒र्य॑म्भ्रातृ॑व्यस्य वृङ्क्ते॒ वि पा॒प्मना॒ भ्रातृ॑व्येण जय॒ते
@@ -155,13 +216,31 @@ title = "०१ इष्टिविधानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पे॒त् स्पर्द्ध॑मानः ।  
-क्षेत्रे॑ वा सजा॒तेषु॑ वेन्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।
+ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पे॒त् स्पर्द्ध॑मानः ।
+</details>
+
+<details><summary>Keith</summary>
+
+He should make an offering to Indra and Agni on eleven potsherds who has a dispute about a field or with his neighbours.
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पे॒त् स्पर्द्ध॑मानः ।  
+ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पे॒त् स्पर्द्ध॑मानः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्षेत्रे॑ वा सजा॒तेषु॑ वेन्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Verily Indra and Agni he has recourse to with their own share,
+</details>
+
+<details><summary>मूलम्</summary>
+
 क्षेत्रे॑ वा सजा॒तेषु॑ वेन्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।
 </details>
 
@@ -173,6 +252,11 @@ title = "०१ इष्टिविधानम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताभ्या॑मे॒वेन्द्रि॒यव्ँवी॒र्य॑म्भ्रातृ॑व्यस्य वृङ्क्ते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+by means of them he over powers the power and strength of his rival,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -190,6 +274,11 @@ title = "०१ इष्टिविधानम्"
 वि पा॒प्मना॒ भ्रातृ॑व्येण जयते ।
 </details>
 
+<details><summary>Keith</summary>
+
+he overcomes the evil foe.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि पा॒प्मना॒ भ्रातृ॑व्येण जयते ।
@@ -200,8 +289,6 @@ title = "०१ इष्टिविधानम्"
 पाप्मलक्षणेन च भ्रातृव्येण विजयते व्यावृत्तो भूत्वा जयं प्राप्नोतीति । 'विपराभ्यां जेः' इत्यात्मनेपदम् ॥
 </details>
 
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अप॒ वा ए॒तस्मा॑दिन्द्रि॒यव्ँ वी॒र्य॑ङ्क्रामति॒ यस्स॑ङ्ग्रा॒ममु॑पप्र॒यात्यै॑न्द्रा॒ग्नमेका॑दशकपाल॒न्निः (2) व॒पे॒त्स॒ङ्ग्रा॒ममु॑पप्रया॒स्यन्नि॑न्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति॒ तावे॒वास्मि॑न्निन्द्रि॒यव्ँ वी॒र्य॑न्धत्तस्स॒हेन्द्रि॒येण॑ वी॒र्ये॑णोप॒प्रया॑ति॒ जय॑ति॒ तँ स॑ङ्ग्रा॒मम् 
@@ -209,32 +296,87 @@ title = "०१ इष्टिविधानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप॒ वा ए॒तस्मा॑दिन्द्रि॒यव्ँ वी॒र्य॑ङ्क्रामति ।  
-यस्स॑ङ्ग्रा॒ममु॑पप्र॒याति॑ ।   
-ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒म् निर्व॑पेत् ।  
-स॒ङ्ग्रा॒ममु॑पप्रया॒स्यन्नि॑न्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।  
-तावे॒वास्मि॑न्निन्द्रि॒यव्ँ वी॒र्य॑न्धत्तः ।  
-स॒हेन्द्रि॒येण॑ वी॒र्ये॑णोप॒प्रया॑ति ।  
-जय॑ति॒ तँ स॑ङ्ग्रा॒मम् ।  
+अप॒ वा ए॒तस्मा॑दिन्द्रि॒यव्ँ वी॒र्य॑ङ्क्रामति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Now power and strength depart from him who advances to battle;
 </details>
 
 <details><summary>मूलम्</summary>
 
-अप॒ वा ए॒तस्मा॑दिन्द्रि॒यव्ँ वी॒र्य॑ङ्क्रामति ।  
+अप॒ वा ए॒तस्मा॑दिन्द्रि॒यव्ँ वी॒र्य॑ङ्क्रामति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यस्स॑ङ्ग्रा॒ममु॑पप्र॒याति॑ ।   
-ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒म् निर्व॑पेत् ।  
-स॒ङ्ग्रा॒ममु॑पप्रया॒स्यन्नि॑न्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।  
-तावे॒वास्मि॑न्निन्द्रि॒यव्ँ वी॒र्य॑न्धत्तः ।  
+ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒म् निर्व॑पेत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+let him who is about to advance to battle offer to Indra and Agni an offering on eleven potsherds [2].
+</details>
+
+<details><summary>मूलम्</summary>
+
+यस्स॑ङ्ग्रा॒ममु॑पप्र॒याति॑ ।   
+ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒म् निर्व॑पेत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒ङ्ग्रा॒ममु॑पप्रया॒स्यन्नि॑न्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Verily Indra and Agni he has recourse to with their own share;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒ङ्ग्रा॒ममु॑पप्रया॒स्यन्नि॑न्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तावे॒वास्मि॑न्निन्द्रि॒यव्ँ वी॒र्य॑न्धत्तः ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily they two place power and strength in him;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तावे॒वास्मि॑न्निन्द्रि॒यव्ँ वी॒र्य॑न्धत्तः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स॒हेन्द्रि॒येण॑ वी॒र्ये॑णोप॒प्रया॑ति ।  
-जय॑ति॒ तँ स॑ङ्ग्रा॒मम् ।  
+जय॑ति॒ तँ स॑ङ्ग्रा॒मम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+with power and strength he approaches the battle and conquers in it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒हेन्द्रि॒येण॑ वी॒र्ये॑णोप॒प्रया॑ति ।  
+जय॑ति॒ तँ स॑ङ्ग्रा॒मम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अप वा इत्यादि ॥ सङ्ग्रामजयार्थं सङ्ग्राममुपप्रयास्यतः ॥
 </details>
-
-
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -243,20 +385,64 @@ title = "०१ इष्टिविधानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि वा ए॒ष इ॑न्द्रि॒येण॑ वी॒र्ये॑णर्द्ध्यते ।   
-यस्स॑ङ्ग्रा॒मञ्जय॑ति ।   
-ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पेत् ।  
-स॒ङ्ग्रा॒मञ्जि॒त्वेन्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।  
-तावे॒वास्मि॑न्निन्द्रि॒यव्ँ वी॒र्य॑म् धत्तः ।  
-नेन्द्रि॒येण॑ वी॒र्ये॑ण॒ व्यृ॑द्ध्यते +++(व्य॑र्ध्यते ?)+++ ।
+वि वा ए॒ष इ॑न्द्रि॒येण॑ वी॒र्ये॑णर्द्ध्यते ।
+</details>
+
+<details><summary>Keith</summary>
+
+Now power and strength is he bereft of who wins a battle;
 </details>
 
 <details><summary>मूलम्</summary>
 
-वि वा ए॒ष इ॑न्द्रि॒येण॑ वी॒र्ये॑णर्द्ध्यते ।   
+वि वा ए॒ष इ॑न्द्रि॒येण॑ वी॒र्ये॑णर्द्ध्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यस्स॑ङ्ग्रा॒मञ्जय॑ति ।   
-ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पेत् ।  
-स॒ङ्ग्रा॒मञ्जि॒त्वेन्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।  
+ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पेत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+let him who has won a battle make an offering to Indra and Agni on eleven potsherds.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यस्स॑ङ्ग्रा॒मञ्जय॑ति ।   
+ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पेत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒ङ्ग्रा॒मञ्जि॒त्वेन्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Verily Indra and Agni he has recourse to with their own share;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒ङ्ग्रा॒मञ्जि॒त्वेन्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तावे॒वास्मि॑न्निन्द्रि॒यव्ँ वी॒र्य॑म् धत्तः ।  
+नेन्द्रि॒येण॑ वी॒र्ये॑ण॒ व्यृ॑द्ध्यते +++(व्य॑र्ध्यते ?)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily they two place power and strength in him [3], he is not bereft of power and strength.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तावे॒वास्मि॑न्निन्द्रि॒यव्ँ वी॒र्य॑म् धत्तः ।  
 नेन्द्रि॒येण॑ वी॒र्ये॑ण॒ व्यृ॑द्ध्यते +++(व्य॑र्ध्यते ?)+++ ।
 </details>
@@ -266,8 +452,6 @@ title = "०१ इष्टिविधानम्"
 4वि वा एष इत्यादि ॥ सङ्ग्रामं जितवतः सङ्ग्रामश्रान्त्या इन्द्रियवीर्यहानिर्भवतीति ॥
 </details>
 
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अप॒ वा ए॒तस्मा॑दिन्द्रि॒यव्ँ वी॒र्य॑ङ्क्रामति॒ य एति॑  ज॒नता॑मैन्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पेज्ज॒नता॑मे॒ष्यन्नि॑न्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति॒ तावे॒वास्मि॑न्निन्द्रि॒यव्ँ वी॒र्य॑न्धत्तस्स॒हेन्द्रि॒येण॑ वी॒र्ये॑ण ज॒नता॑मेति पौ॒ष्णञ्च॒रुमनु॒निर्व॑पेत्पू॒षा वा इ॑न्द्रि॒यस्य॑ वी॒र्य॑स्यानुप्रदा॒ता पू॒षण॑मे॒व (4)  स्वेन॑ भाग॒धेये॒नोप॑धावति॒ स ए॒वास्मा॑ इन्द्रि॒यव्ँ वी॒र्य॑मनु॒ प्रय॑च्छति 
@@ -275,38 +459,119 @@ title = "०१ इष्टिविधानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप॒ वा ए॒तस्मा॑दिन्द्रि॒यव्ँ वी॒र्य॑ङ्क्रामति ।  
-य एति॑ ज॒नता॑म् ।  
-ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पेत् ।  
-ज॒नता॑मे॒ष्यन्नि॑न्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।  
-तावे॒वास्मि॑न्निन्द्रि॒यव्ँ वी॒र्य॑न्धत्तः ।   
-स॒हेन्द्रि॒येण॑ वी॒र्ये॑ण ज॒नता॑मेति ।  
-पौ॒ष्णञ्च॒रुमनु॒निर्व॑पेत् ।  
-पू॒षा वा इ॑न्द्रि॒यस्य॑ वी॒र्य॑स्यानुप्रदा॒ता ।  
-पू॒षण॑मे॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।  
-स ए॒वास्मा॑ इन्द्रि॒यव्ँ वी॒र्य॑मनु॒ प्रय॑च्छति ।   
+अप॒ वा ए॒तस्मा॑दिन्द्रि॒यव्ँ वी॒र्य॑ङ्क्रामति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Now power and strength depart from him who goes to the assembly;
 </details>
 
 <details><summary>मूलम्</summary>
 
-अप॒ वा ए॒तस्मा॑दिन्द्रि॒यव्ँ वी॒र्य॑ङ्क्रामति ।  
+अप॒ वा ए॒तस्मा॑दिन्द्रि॒यव्ँ वी॒र्य॑ङ्क्रामति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 य एति॑ ज॒नता॑म् ।  
-ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पेत् ।  
-ज॒नता॑मे॒ष्यन्नि॑न्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।  
+ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पेत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+let him who is about to go to the assembly make an offering to Indra and Agni on eleven potsherds.
+</details>
+
+<details><summary>मूलम्</summary>
+
+य एति॑ ज॒नता॑म् ।  
+ऐ॒न्द्रा॒ग्नमेका॑दशकपाल॒न्निर्व॑पेत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज॒नता॑मे॒ष्यन्नि॑न्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Verily Indra and Agni he has recourse to with their own share;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज॒नता॑मे॒ष्यन्नि॑न्द्रा॒ग्नी ए॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तावे॒वास्मि॑न्निन्द्रि॒यव्ँ वी॒र्य॑न्धत्तः ।   
 स॒हेन्द्रि॒येण॑ वी॒र्ये॑ण ज॒नता॑मेति ।  
-पौ॒ष्णञ्च॒रुमनु॒निर्व॑पेत् ।  
-पू॒षा वा इ॑न्द्रि॒यस्य॑ वी॒र्य॑स्यानुप्रदा॒ता ।  
-पू॒षण॑मे॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।  
-स ए॒वास्मा॑ इन्द्रि॒यव्ँ वी॒र्य॑मनु॒ प्रय॑च्छति ।   
+पौ॒ष्णञ्च॒रुमनु॒निर्व॑पेत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily they two place power and strength in him, with power and strength he goes to the assembly.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तावे॒वास्मि॑न्निन्द्रि॒यव्ँ वी॒र्य॑न्धत्तः ।   
+स॒हेन्द्रि॒येण॑ वी॒र्ये॑ण ज॒नता॑मेति ।  
+पौ॒ष्णञ्च॒रुमनु॒निर्व॑पेत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पू॒षा वा इ॑न्द्रि॒यस्य॑ वी॒र्य॑स्यानुप्रदा॒ता ।
+</details>
+
+<details><summary>Keith</summary>
+
+Let him next offer an oblation to Pusan.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पू॒षा वा इ॑न्द्रि॒यस्य॑ वी॒र्य॑स्यानुप्रदा॒ता ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पू॒षण॑मे॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Pusan is the giver of power and strength, verily Pusan [4] he has recourse to with his own share;
+</details>
+
+<details><summary>मूलम्</summary>
+
+पू॒षण॑मे॒व स्वेन॑ भाग॒धेये॒नोप॑धावति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स ए॒वास्मा॑ इन्द्रि॒यव्ँ वी॒र्य॑मनु॒ प्रय॑च्छति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he gives to him power and strength.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स ए॒वास्मा॑ इन्द्रि॒यव्ँ वी॒र्य॑मनु॒ प्रय॑च्छति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5अप वा इत्यादि ॥ जनतामेष्यतो वादार्थं सङ्ग्रामार्थं वा । प्रधानादनन्तरं निर्वपणमनुनिर्वपणं, अनुक्रमेण प्रदानं अनुप्रदानम् ॥
 </details>
-
-
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -317,6 +582,11 @@ title = "०१ इष्टिविधानम्"
 
 क्षैत्रप॒त्यञ्च॒रुन्निर्व॑पेज्ज॒नता॑मा॒गत्य ।  
 इ॒यव्ँ वै क्षेत्र॑स्य॒ पति॑र॒स्यामे॒व प्रति॑तिष्ठति ।
+</details>
+
+<details><summary>Keith</summary>
+
+When he has gone to the assembly he should offer an oblation to Ksetrapati; Ksetrapati is this (earth); verily on this earth he takes firm root.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -330,8 +600,6 @@ title = "०१ इष्टिविधानम्"
 6क्षैत्रपत्यं चरुं निर्वपेज्जनतामागतवतः । इयं पृथिवी क्षेत्रस्य पतिः क्षेत्रभक्तीनामधिपतित्वात् । तस्माज्जनतां गत्वा अभिमतसम्पत्त्या अनयेष्ट्या पृथिव्यां प्रतिष्ठितो भवति । आर्थवादिकी प्रतिष्ठा फलं, रात्रिसत्त्रन्यायात् ॥
 </details>
 
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऐन्द्रा॒ग्नमेका॑दशकपालमु॒परि॑ष्टा॒न्निर्व॑पेद॒स्यामे॒व प्र॑ति॒ष्ठाये॑न्द्रि॒यव्ँ वी॒र्य॑मु॒परि॑ष्टादा॒त्मन्ध॑त्ते ॥(5) 
@@ -339,13 +607,31 @@ title = "०१ इष्टिविधानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्रा॒ग्नमेका॑दशकपालमु॒परि॑ष्टा॒न्निर्व॑पेत् ।   
-अ॒स्यामे॒व प्र॑ति॒ष्ठाये॑न्द्रि॒यव्ँ वी॒र्य॑मु॒परि॑ष्टादा॒त्मन्ध॑त्ते ॥
+ऐ॒न्द्रा॒ग्नमेका॑दशकपालमु॒परि॑ष्टा॒न्निर्व॑पेत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thereafter let him make the offering to Indra and Agni on eleven potsherds;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऐ॒न्द्रा॒ग्नमेका॑दशकपालमु॒परि॑ष्टा॒न्निर्व॑पेत् ।   
+ऐ॒न्द्रा॒ग्नमेका॑दशकपालमु॒परि॑ष्टा॒न्निर्व॑पेत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒स्यामे॒व प्र॑ति॒ष्ठाये॑न्द्रि॒यव्ँ वी॒र्य॑मु॒परि॑ष्टादा॒त्मन्ध॑त्ते ॥
+</details>
+
+<details><summary>Keith</summary>
+
+verily taking stand on this earth he next places power and strength in his body.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अ॒स्यामे॒व प्र॑ति॒ष्ठाये॑न्द्रि॒यव्ँ वी॒र्य॑मु॒परि॑ष्टादा॒त्मन्ध॑त्ते ॥
 </details>
 

@@ -7,6 +7,7 @@ title = "१४ काम्या याज्यापुरोनुवाक
 त्रिष्टुप्, ५, ७ गायत्री, ९ अनुष्टुप्, १४-१५ जगती ।   
 
 विश्वेदेवा ऋषयः ।
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथेष्टिकाण्डे याज्याकाण्डम् । तत्र 'यो यज्ञविभ्रष्टस्स्यात्तस्मा एतामिष्टिं निर्वपेदाग्नेयमष्टाकपालमैन्द्रमेकादशकपालं सौम्यं चरुम्' इत्येतस्यास्त्रिहविषः आग्नेयस्य पुरोनुवाक्या - स प्रत्नवदिति गायत्री ॥
@@ -15,6 +16,11 @@ title = "१४ काम्या याज्यापुरोनुवाक
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्र॑त्न॒वत् ..
+</details>
+
+<details><summary>Keith</summary>
+
+Thou from of old.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -40,6 +46,11 @@ title = "१४ काम्या याज्यापुरोनुवाक
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निकाव्या॑ ..
+</details>
+
+<details><summary>Keith</summary>
+
+The wise contrivings.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -69,6 +80,11 @@ title = "१४ काम्या याज्यापुरोनुवाक
 इन्द्रव्ँ॑वो वि॒श्वत॒स्परि ..
 </details>
 
+<details><summary>Keith</summary>
+
+Indra on all sides.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रव्ँ॑वो वि॒श्वत॒स्परि ..
@@ -92,6 +108,11 @@ title = "१४ काम्या याज्यापुरोनुवाक
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्र॒न्नरः॑ ..
+</details>
+
+<details><summary>Keith</summary>
+
+Indra men.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -118,13 +139,31 @@ title = "१४ काम्या याज्यापुरोनुवाक
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वन्न॑स्सोम वि॒श्वतो॒ रक्षा॑ राजन्नघाय॒तः ।   
-न रि॑ष्ये॒त्त्वाव॑त॒स्सखा॑ ।
+त्वन्न॑स्सोम वि॒श्वतो॒ रक्षा॑ राजन्नघाय॒तः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Do thou guard us, O Soma, on all sides, O king, from him who plots evil;
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्वन्न॑स्सोम वि॒श्वतो॒ रक्षा॑ राजन्नघाय॒तः ।   
+त्वन्न॑स्सोम वि॒श्वतो॒ रक्षा॑ राजन्नघाय॒तः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न रि॑ष्ये॒त्त्वाव॑त॒स्सखा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Lot not the friend of such as thou come to harm.
+</details>
+
+<details><summary>मूलम्</summary>
+
 न रि॑ष्ये॒त्त्वाव॑त॒स्सखा॑ ।
 </details>
 
@@ -142,6 +181,11 @@ title = "१४ काम्या याज्यापुरोनुवाक
 
 या ते॒ धामा॑नि दि॒वि या पृ॑थि॒व्याय्ँ या पर्व॑ते॒ष्वोष॑धीष्व॒प्सु ।   
 तेभि॑र्नो॒ विश्वैः॑ सु॒मना॒ अहे॑ड॒न्राज॑न्त्सोम॒ प्रति॑ ह॒व्या गृ॑भाय ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thy places in the sky, in the earth, In the mountains, in the plants, in the waters, With all of these, kindly and without anger, Do thou, O king Soma, accept our oblations.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -166,6 +210,11 @@ title = "१४ काम्या याज्यापुरोनुवाक
 सन्दे॑व॒त्रा ब॑भूवथुः ।
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni and Soma, united, With common offering, accept our prayers, Ye were born together among the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्नी॑षोमा॒ सवे॑दसा॒ सहू॑ती वनत॒ङ्गिरः॑ ।  
@@ -184,13 +233,31 @@ title = "१४ काम्या याज्यापुरोनुवाक
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यु॒वम् [51]  ए॒तानि॑ दि॒वि रो॑च॒नान्य॒ग्निश्च॑ सोम॒ सक्र॑तू अधत्तम् ।  
-यु॒वँ सिन्धूँ॑ र॒भिश॑स्तेरव॒द्यादग्नी॑षोमा॒वमु॑ञ्चतङ्गृभी॒तान् ।
+यु॒वम् [51]  ए॒तानि॑ दि॒वि रो॑च॒नान्य॒ग्निश्च॑ सोम॒ सक्र॑तू अधत्तम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Ye [1], O Agni and Soma, with common inspiration, Placed these lights in the sky;
 </details>
 
 <details><summary>मूलम्</summary>
 
-यु॒वम् [51]  ए॒तानि॑ दि॒वि रो॑च॒नान्य॒ग्निश्च॑ सोम॒ सक्र॑तू अधत्तम् ।  
+यु॒वम् [51]  ए॒तानि॑ दि॒वि रो॑च॒नान्य॒ग्निश्च॑ सोम॒ सक्र॑तू अधत्तम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यु॒वँ सिन्धूँ॑ र॒भिश॑स्तेरव॒द्यादग्नी॑षोमा॒वमु॑ञ्चतङ्गृभी॒तान् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Ye freed the streams from the dread imprecation When they were held fast.
+</details>
+
+<details><summary>मूलम्</summary>
+
 यु॒वँ सिन्धूँ॑ र॒भिश॑स्तेरव॒द्यादग्नी॑षोमा॒वमु॑ञ्चतङ्गृभी॒तान् ।
 </details>
 
@@ -206,13 +273,31 @@ title = "१४ काम्या याज्यापुरोनुवाक
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्नी॑षोमावि॒मँ सु मे॑ शृणु॒तव्ँवृ॑षणा॒ हव॑म् ।   
-प्रति॑ सू॒क्तानि॑ हर्यत॒म्भव॑तन्दा॒शुषे॒ मयः॑ ।
+अग्नी॑षोमावि॒मँ सु मे॑ शृणु॒तव्ँवृ॑षणा॒ हव॑म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni and Soma, hearken kindly, O ye strong ones, to my invocation;
 </details>
 
 <details><summary>मूलम्</summary>
 
-अग्नी॑षोमावि॒मँ सु मे॑ शृणु॒तव्ँवृ॑षणा॒ हव॑म् ।   
+अग्नी॑षोमावि॒मँ सु मे॑ शृणु॒तव्ँवृ॑षणा॒ हव॑म् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रति॑ सू॒क्तानि॑ हर्यत॒म्भव॑तन्दा॒शुषे॒ मयः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Accept gladly our songs, Be a refreshment to the giver.
+</details>
+
+<details><summary>मूलम्</summary>
+
 प्रति॑ सू॒क्तानि॑ हर्यत॒म्भव॑तन्दा॒शुषे॒ मयः॑ ।
 </details>
 
@@ -228,13 +313,31 @@ title = "१४ काम्या याज्यापुरोनुवाक
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आन्यन्दि॒वो मा॑त॒रिश्वा॑ जभा॒राम॑थ्नाद॒न्यम्परि॑ श्ये॒नो अद्रेः॑ ।  
-अग्नी॑षोमा॒ ब्रह्म॑णा वावृधा॒नोरुय्ँ य॒ज्ञाय॑ चक्रथुरु लो॒कम् ।
+आन्यन्दि॒वो मा॑त॒रिश्वा॑ जभा॒राम॑थ्नाद॒न्यम्परि॑ श्ये॒नो अद्रेः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+One from the sky Matariśvan bore, The falcon churned another from the rock;
 </details>
 
 <details><summary>मूलम्</summary>
 
-आन्यन्दि॒वो मा॑त॒रिश्वा॑ जभा॒राम॑थ्नाद॒न्यम्परि॑ श्ये॒नो अद्रेः॑ ।  
+आन्यन्दि॒वो मा॑त॒रिश्वा॑ जभा॒राम॑थ्नाद॒न्यम्परि॑ श्ये॒नो अद्रेः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अग्नी॑षोमा॒ ब्रह्म॑णा वावृधा॒नोरुय्ँ य॒ज्ञाय॑ चक्रथुरु लो॒कम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Agni and Soma, waxing great through prayer, Ye made broad room for the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अग्नी॑षोमा॒ ब्रह्म॑णा वावृधा॒नोरुय्ँ य॒ज्ञाय॑ चक्रथुरु लो॒कम् ।
 </details>
 
@@ -252,6 +355,11 @@ title = "१४ काम्या याज्यापुरोनुवाक
 
 अग्नी॑षोमा ह॒विष॒ᳶ प्रस्थि॑तस्य वी॒तम् [52]  हर्य॑तव्ँवृषणा जु॒षेथा॑म् ।   
 सु॒शर्मा॑णा॒ स्वव॑सा॒ हि भू॒तमथा॑ धत्तय्ँ॒यज॑मानाय॒ शय्ँयोः ।
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni and Soma, the oblation which is set forth [2], Do ye taste, accept it, rejoice in it, O ye strong ones Of good protection, of good help be ye, And give to the sacrificer health and wealth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -273,6 +381,11 @@ title = "१४ काम्या याज्यापुरोनुवाक
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ प्या॑यस्व ..
+</details>
+
+<details><summary>Keith</summary>
+
+Swell.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -308,6 +421,11 @@ title = "१४ काम्या याज्यापुरोनुवाक
 सन्ते॑ ..
 </details>
 
+<details><summary>Keith</summary>
+
+Together thee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्ते॑ ..
@@ -338,13 +456,31 @@ title = "१४ काम्या याज्यापुरोनुवाक
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ग॒णाना॑न्त्वा ग॒णप॑तिँ हवामहे क॒विङ्क॑वी॒नामु॑प॒मश्र॑वस्तमम् ।    
-ज्ये॒ष्ठ॒राज॒म्ब्रह्म॑णाम्ब्रह्मणस्पत॒ आ न॑श्शृ॒ण्वन्नू॒तिभि॑स्सीद॒ साद॑नम् ।
+ग॒णाना॑न्त्वा ग॒णप॑तिँ हवामहे क॒विङ्क॑वी॒नामु॑प॒मश्र॑वस्तमम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Troop lord of troops we invoke thee, Sage of sages, most famous;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ग॒णाना॑न्त्वा ग॒णप॑तिँ हवामहे क॒विङ्क॑वी॒नामु॑प॒मश्र॑वस्तमम् ।    
+ग॒णाना॑न्त्वा ग॒णप॑तिँ हवामहे क॒विङ्क॑वी॒नामु॑प॒मश्र॑वस्तमम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ये॒ष्ठ॒राज॒म्ब्रह्म॑णाम्ब्रह्मणस्पत॒ आ न॑श्शृ॒ण्वन्नू॒तिभि॑स्सीद॒ साद॑नम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Highest king of Brahmans, O lord of prayer, Hearkening to us with help do thou sit on thy place.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ज्ये॒ष्ठ॒राज॒म्ब्रह्म॑णाम्ब्रह्मणस्पत॒ आ न॑श्शृ॒ण्वन्नू॒तिभि॑स्सीद॒ साद॑नम् ।
 </details>
 
@@ -362,6 +498,11 @@ title = "१४ काम्या याज्यापुरोनुवाक
 
 स इज्जने॑न॒ स वि॒शा स जन्म॑ना॒ स पु॒त्रैर्वाज॑म्भरते॒ धना॒ नृभिः॑ ।  
 दे॒वानाय्ँ॒यᳶ पि॒तर॑मा॒विवा॑सति [53]  श्र॒द्धाम॑ना ह॒विषा॒ ब्रह्म॑ण॒स्पति॑म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+He shall win booty and prizes with tribe, With clan, with family, with sons, with men, Who shall seek to win the father of the gods [3], Pious with oblations, the lord of prayer.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -382,13 +523,31 @@ title = "१४ काम्या याज्यापुरोनुवाक
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स सु॒ष्टुभा॒ स ऋक्व॑ता ग॒णेन॑ व॒लँ रु॑रोज फलि॒गँ रवे॑ण ।  
-बृह॒स्पति॑रु॒स्रिया॑ हव्य॒सूद॒ᳵ कनि॑क्रद॒द्वाव॑शती॒रुदा॑जत् ।
+स सु॒ष्टुभा॒ स ऋक्व॑ता ग॒णेन॑ व॒लँ रु॑रोज फलि॒गँ रवे॑ण ।
+</details>
+
+<details><summary>Keith</summary>
+
+He with his fair singing, harmonious troop, Crushed Vala and Phaliga with his cry;
 </details>
 
 <details><summary>मूलम्</summary>
 
-स सु॒ष्टुभा॒ स ऋक्व॑ता ग॒णेन॑ व॒लँ रु॑रोज फलि॒गँ रवे॑ण ।  
+स सु॒ष्टुभा॒ स ऋक्व॑ता ग॒णेन॑ व॒लँ रु॑रोज फलि॒गँ रवे॑ण ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बृह॒स्पति॑रु॒स्रिया॑ हव्य॒सूद॒ᳵ कनि॑क्रद॒द्वाव॑शती॒रुदा॑जत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thundering as they lowed.
+</details>
+
+<details><summary>मूलम्</summary>
+
 बृह॒स्पति॑रु॒स्रिया॑ हव्य॒सूद॒ᳵ कनि॑क्रद॒द्वाव॑शती॒रुदा॑जत् ।
 </details>
 
@@ -405,6 +564,11 @@ title = "१४ काम्या याज्यापुरोनुवाक
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मरु॑तो॒ यद्ध॑ वो दि॒वः ..
+</details>
+
+<details><summary>Keith</summary>
+
+O Maruts, what time from the sky.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -432,6 +596,11 @@ title = "१४ काम्या याज्यापुरोनुवाक
 या व॒श्शर्म॑ ..
 </details>
 
+<details><summary>Keith</summary>
+
+The protections that ye.
+</details>
+
 <details><summary>मूलम्</summary>
 
 या व॒श्शर्म॑ ..
@@ -454,13 +623,31 @@ title = "१४ काम्या याज्यापुरोनुवाक
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒र्य॒मा या॑ति वृष॒भस्तुवि॑ष्मान्दा॒ता वसू॑नाम्पुरुहू॒तो अर्ह॑न् ।   
-स॒ह॒स्रा॒क्षो गो॑त्र॒भिद्वज्र॑बाहुर॒स्मासु॑ दे॒वो द्रवि॑णन्दधातु ।
+अ॒र्य॒मा या॑ति वृष॒भस्तुवि॑ष्मान्दा॒ता वसू॑नाम्पुरुहू॒तो अर्ह॑न् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Aryaman goeth, the mighty bull, The giver of wealth, much invoked, deserving;
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒र्य॒मा या॑ति वृष॒भस्तुवि॑ष्मान्दा॒ता वसू॑नाम्पुरुहू॒तो अर्ह॑न् ।   
+अ॒र्य॒मा या॑ति वृष॒भस्तुवि॑ष्मान्दा॒ता वसू॑नाम्पुरुहू॒तो अर्ह॑न् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒ह॒स्रा॒क्षो गो॑त्र॒भिद्वज्र॑बाहुर॒स्मासु॑ दे॒वो द्रवि॑णन्दधातु ।
+</details>
+
+<details><summary>Keith</summary>
+
+With a thousand eyes, opening the cow-pens, with the thunderbolt in his arm, May the god bestow upon us wealth.
+</details>
+
+<details><summary>मूलम्</summary>
+
 स॒ह॒स्रा॒क्षो गो॑त्र॒भिद्वज्र॑बाहुर॒स्मासु॑ दे॒वो द्रवि॑णन्दधातु ।
 </details>
 
@@ -476,13 +663,31 @@ title = "१४ काम्या याज्यापुरोनुवाक
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये ते॑ऽर्यमन्ब॒हवो॑ देव॒याना॒ᳶ पन्था॑नः [54]  रा॒ज॒न्दि॒व आ॒चर॑न्ति ।  
-तेभि॑र्नो देव॒ महि॒ शर्म॑ यच्छ॒ शन्न॑ एधि द्वि॒पदे॒ शञ्चतु॑ष्पदे ।
+ये ते॑ऽर्यमन्ब॒हवो॑ देव॒याना॒ᳶ पन्था॑नः [54]  रा॒ज॒न्दि॒व आ॒चर॑न्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thy many paths, O Aryaman, on which the gods go, O king, which come from the sky [4], With these, O god, grant us great protection;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ये ते॑ऽर्यमन्ब॒हवो॑ देव॒याना॒ᳶ पन्था॑नः [54]  रा॒ज॒न्दि॒व आ॒चर॑न्ति ।  
+ये ते॑ऽर्यमन्ब॒हवो॑ देव॒याना॒ᳶ पन्था॑नः [54]  रा॒ज॒न्दि॒व आ॒चर॑न्ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेभि॑र्नो देव॒ महि॒ शर्म॑ यच्छ॒ शन्न॑ एधि द्वि॒पदे॒ शञ्चतु॑ष्पदे ।
+</details>
+
+<details><summary>Keith</summary>
+
+Be auspicious to our bipeds, to our quadrupeds.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तेभि॑र्नो देव॒ महि॒ शर्म॑ यच्छ॒ शन्न॑ एधि द्वि॒पदे॒ शञ्चतु॑ष्पदे ।
 </details>
 
@@ -500,6 +705,11 @@ title = "१४ काम्या याज्यापुरोनुवाक
 
 बु॒ध्नादग्र॒मङ्गि॑रोभिर्गृणा॒नो वि पर्व॑तस्य दृँहि॒तान्यै॑रत् ।  
 रु॒जद्रोधाँ॑सि कृ॒त्रिमा॑ण्येषाँ॒ सोम॑स्य॒ ता मद॒ इन्द्र॑श्चकार ।
+</details>
+
+<details><summary>Keith</summary>
+
+From the depth to the top, sung by the Angirases, He moved asunder the firm places of the mountains; He burst their cunningly-made obstructions; These things did Indra in the joy of the Soma.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -524,6 +734,11 @@ title = "१४ काम्या याज्यापुरोनुवाक
 वृथा॑सृजत्प॒थिभि॑र्दीर्घया॒थैस्सोम॑स्य॒ ता मद॒ इन्द्र॑श्चकार ॥ [55]  
 </details>
 
+<details><summary>Keith</summary>
+
+From the depth with the top he meted with measures, With the thunderbolt he crushed the hollows of the streams; Lightly he freed them with paths of long wanderings; These things did Indra in the joy of the Soma [5].
+</details>
+
 <details><summary>मूलम्</summary>
 
 बु॒ध्नादग्रे॑ण॒ वि मि॑माय॒ मानै॒र्वज्रे॑ण॒ खान्य॑तृणन्न॒दीना॑म् ।   
@@ -546,6 +761,11 @@ title = "१४ काम्या याज्यापुरोनुवाक
 ब्रह्म॒ ब्रह्म॑ण॒ उज्ज॑भार॒ मध्या॑न्नी॒चादु॒च्चा स्व॒धया॒भि प्र त॑स्थौ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Who was born knowing his connexion, The god declareth all births, From the middle of holy power he bore out holy power, From low on high he arose at his will.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र यो ज॒ज्ञे वि॒द्वाँ अ॒स्य बन्धुव्ँ॒विश्वा॑नि दे॒वो जनि॑मा विवक्ति ।  
@@ -564,13 +784,31 @@ title = "१४ काम्या याज्यापुरोनुवाक
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒हान्म॒ही अ॑स्तभाय॒द्वि जा॒तो द्याँ सद्म॒ पार्थि॑वञ्च॒ रजः॑ ।   
-स बु॒ध्नादा॑ष्ट ज॒नुषा॒भ्यग्र॒म्बृह॒स्पति॑र्दे॒वता॒ यस्य॑ स॒म्राट् ।
+म॒हान्म॒ही अ॑स्तभाय॒द्वि जा॒तो द्याँ सद्म॒ पार्थि॑वञ्च॒ रजः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Born in greatness, he established apart the great ones, The sky as a seat and the atmosphere of earth;
 </details>
 
 <details><summary>मूलम्</summary>
 
-म॒हान्म॒ही अ॑स्तभाय॒द्वि जा॒तो द्याँ सद्म॒ पार्थि॑वञ्च॒ रजः॑ ।   
+म॒हान्म॒ही अ॑स्तभाय॒द्वि जा॒तो द्याँ सद्म॒ पार्थि॑वञ्च॒ रजः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स बु॒ध्नादा॑ष्ट ज॒नुषा॒भ्यग्र॒म्बृह॒स्पति॑र्दे॒वता॒ यस्य॑ स॒म्राट् ।
+</details>
+
+<details><summary>Keith</summary>
+
+From the depth be hath won to the top with his race, Whose deity is Brhaspati, the sovereign.
+</details>
+
+<details><summary>मूलम्</summary>
+
 स बु॒ध्नादा॑ष्ट ज॒नुषा॒भ्यग्र॒म्बृह॒स्पति॑र्दे॒वता॒ यस्य॑ स॒म्राट् ।
 </details>
 
@@ -590,6 +828,11 @@ title = "१४ काम्या याज्यापुरोनुवाक
 भि॒नद्व॒लव्ँवि पुरो॑ दर्दरीति॒ कनि॑क्रद॒त्सुव॑र॒पो जि॑गाय ॥ [56]  
 </details>
 
+<details><summary>Keith</summary>
+
+Him who with might riseth from the depth to the top, Brhaspati the gods desire to win; He broke Vala, he rendeth the forts, Thundering he won the heaven and the waters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बु॒ध्नाद्यो अग्र॑म॒भ्यर्त्योज॑सा॒ बृह॒स्पति॒मा वि॑वासन्ति दे॒वाः ।  
@@ -599,7 +842,6 @@ title = "१४ काम्या याज्यापुरोनुवाक
 <details><summary>भट्टभास्कर-टीका</summary>
 
 बुध्नादारभ्य यावदग्रं योयमोजसा बलेन अभ्यर्ति आभिमुख्येन प्राप्नोति इदं विश्वमात्मीयेन तेजसा व्याप्नोति, यद्वा - यजमानं वा आत्मीयम् । तादृशं बृहस्पतिं देवा अपि आविवासन्ति परिचरन्ति, ऋत्विजो वा । स च एवं देवैः परिचर्यमाणो वलं मेघं भिनत् भिनत्ति वृष्ट्यर्थम् । पुरः असुरनगराणि च विदर्दरीति अत्यर्थं विदारयति । दृ विदारणे, यङ्लुकि 'रुग्रिकौ च लुकि' इति रुक्, 'यङो वा' इति ईडागमः । कनिक्रदत् अत्यर्थं शब्दं कुर्वन् अत्यर्थं क्रन्दन् । दाधर्त्यादौ निपात्यते । ततस्सुवरादित्यं अपश्च जिगाय जयति । आदित्यादाकृष्य मध्यमस्थाने उदकं वृष्ट्युन्मुखं प्रवर्तयति पर्जन्यात्मना । छान्दसे लिटि 'सन् लिटोर्जेः' इति जयतेः कुत्वम् । एवम्महानुभावोयं अस्मदीयं यजमानमानुजावरत्वान्मुक्त्वा समानानामग्रं परिणयत्विति ॥
-
 
 इति श्रीभट्टभास्करमिश्रविरचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये द्वितीये काण्डे तृतीये प्रश्ने चतुर्दशोनुवाकः ॥
 

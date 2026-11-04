@@ -12,19 +12,76 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्येभ्यो॒ भुव॑द्वद्भ्यश्च॒रुन्निर्व॑पे॒द्भूति॑कामः ।  
-आ॒दि॒त्य वा ए॒तम्भूत्यै॒ प्रति॑ नुदन्ते ।  
-योऽल॒म्भूत्यै॒ सन्भूति॒न्न प्रा॒प्नोति॑।   
-आ॒दि॒त्याने॒व भुव॑द्वत॒स्स्वेन॑ भाग॒धेये॒नोप॑ धावति ।  
-त ए॒वैन॒म्भूति॑ङ्गमयन्ति॒ भव॑त्ये॒व ।
+आ॒दि॒त्येभ्यो॒ भुव॑द्वद्भ्यश्च॒रुन्निर्व॑पे॒द्भूति॑कामः ।
+</details>
+
+<details><summary>Keith</summary>
+
+He who desires prosperity should offer to the Adityas, giving prosperity;
 </details>
 
 <details><summary>मूलम्</summary>
 
-आ॒दि॒त्येभ्यो॒ भुव॑द्वद्भ्यश्च॒रुन्निर्व॑पे॒द्भूति॑कामः ।  
-आ॒दि॒त्य वा ए॒तम्भूत्यै॒ प्रति॑ नुदन्ते ।  
-योऽल॒म्भूत्यै॒ सन्भूति॒न्न प्रा॒प्नोति॑।   
-आ॒दि॒त्याने॒व भुव॑द्वत॒स्स्वेन॑ भाग॒धेये॒नोप॑ धावति ।  
+आ॒दि॒त्येभ्यो॒ भुव॑द्वद्भ्यश्च॒रुन्निर्व॑पे॒द्भूति॑कामः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒दि॒त्य वा ए॒तम्भूत्यै॒ प्रति॑ नुदन्ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+it is the Adityas who repel from prosperity him who being fit for prosperity does not obtain prosperity;
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒दि॒त्य वा ए॒तम्भूत्यै॒ प्रति॑ नुदन्ते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+योऽल॒म्भूत्यै॒ सन्भूति॒न्न प्रा॒प्नोति॑।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he has recourse to the Adityas, giving prosperity, with their own share;
+</details>
+
+<details><summary>मूलम्</summary>
+
+योऽल॒म्भूत्यै॒ सन्भूति॒न्न प्रा॒प्नोति॑।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒दि॒त्याने॒व भुव॑द्वत॒स्स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily they make him attain prosperity;
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒दि॒त्याने॒व भुव॑द्वत॒स्स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त ए॒वैन॒म्भूति॑ङ्गमयन्ति॒ भव॑त्ये॒व ।
+</details>
+
+<details><summary>Keith</summary>
+
+he becomes prosperous.
+</details>
+
+<details><summary>मूलम्</summary>
+
 त ए॒वैन॒म्भूति॑ङ्गमयन्ति॒ भव॑त्ये॒व ।
 </details>
 
@@ -46,6 +103,11 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 अप॑रुद्धो वाऽपरु॒ध्यमा॑नो वा +++(एतं चरुं निर्वपेत् )+++..
 </details>
 
+<details><summary>Keith</summary>
+
+He who has been expelled or is being expelled should offer an oblation to the Adityas, the sustainers;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्येभ्यो॑ धा॒रय॑द्वद्भ्यश्च॒रुन्निर्व॑पेत् ।   
@@ -58,19 +120,64 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 </details>
 
 ## अपरुद्धराष्ट्रावगतिकामस्य आदित्यश्चरुः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्या वा अ॑परो॒द्धारः॑ , आ॒दि॒त्या अ॑वगमयि॒तारः॑ , आ॒दि॒त्याने॒व धा॒रय॑द्वतः ,  
-स्वेन॑ भाग॒धेये॒नोप॑ धावति ।  
-त ए॒वैनव्ँ॑वि॒शि दा॑ध्रति ।  
-अ॒न॒प॒रु॒ध्यो भ॑वति ।
+आ॒दि॒त्या वा अ॑परो॒द्धारः॑ , आ॒दि॒त्या अ॑वगमयि॒तारः॑ , आ॒दि॒त्याने॒व धा॒रय॑द्वतः ,
+</details>
+
+<details><summary>Keith</summary>
+
+the Adityas are the expellers, the Adityas are the procurers;
 </details>
 
 <details><summary>मूलम्</summary>
 
-आ॒दि॒त्या वा अ॑परो॒द्धारः॑ , आ॒दि॒त्या अ॑वगमयि॒तारः॑ , आ॒दि॒त्याने॒व धा॒रय॑द्वतः ,  
-स्वेन॑ भाग॒धेये॒नोप॑ धावति ।  
-त ए॒वैनव्ँ॑वि॒शि दा॑ध्रति ।  
+आ॒दि॒त्या वा अ॑परो॒द्धारः॑ , आ॒दि॒त्या अ॑वगमयि॒तारः॑ , आ॒दि॒त्याने॒व धा॒रय॑द्वतः ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he has recourse to the Adityas, the sustainers [1] with their own share;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त ए॒वैनव्ँ॑वि॒शि दा॑ध्रति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily they support him in the people;
+</details>
+
+<details><summary>मूलम्</summary>
+
+त ए॒वैनव्ँ॑वि॒शि दा॑ध्रति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒न॒प॒रु॒ध्यो भ॑वति ।
+</details>
+
+<details><summary>Keith</summary>
+
+he is unexpellable.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अ॒न॒प॒रु॒ध्यो भ॑वति ।
 </details>
 
@@ -88,14 +195,47 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॒तेऽनु॑ मन्य॒स्व, इत्य॑परु॒ध्यमा॑नोऽस्य प॒दमा द॑दीत  ।  
-इ॒यव्ँ वा अदि॑तिः, इ॒यमे॒वास्मै॑ रा॒ज्यमनु॑ मन्यते ।  
+अदि॒तेऽनु॑ मन्य॒स्व, इत्य॑परु॒ध्यमा॑नोऽस्य प॒दमा द॑दीत  ।
+</details>
+
+<details><summary>Keith</summary>
+
+'O Aditi, do thou confirm', (with these words) be who is being expelled should take the foot (dust) of him (who is expelling him);
 </details>
 
 <details><summary>मूलम्</summary>
 
-अदि॒तेऽनु॑ मन्य॒स्व, इत्य॑परु॒ध्यमा॑नोऽस्य प॒दमा द॑दीत  ।  
-इ॒यव्ँ वा अदि॑तिः, इ॒यमे॒वास्मै॑ रा॒ज्यमनु॑ मन्यते ।  
+अदि॒तेऽनु॑ मन्य॒स्व, इत्य॑परु॒ध्यमा॑नोऽस्य प॒दमा द॑दीत  ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ॒यव्ँ वा अदि॑तिः,
+</details>
+
+<details><summary>Keith</summary>
+
+Aditi is this (earth);
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒यव्ँ वा अदि॑तिः,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ॒यमे॒वास्मै॑ रा॒ज्यमनु॑ मन्यते ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily she confirms the kingdom for him;
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒यमे॒वास्मै॑ रा॒ज्यमनु॑ मन्यते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -110,13 +250,31 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒त्याशीरित्या॑ह ,  
-स॒त्यामे॒वाशिष॑ङ्कुरुते ।
+स॒त्याशीरित्या॑ह ,
+</details>
+
+<details><summary>Keith</summary>
+
+'Be the blessing fulfilled', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
-स॒त्याशीरित्या॑ह ,  
+स॒त्याशीरित्या॑ह ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒त्यामे॒वाशिष॑ङ्कुरुते ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he makes the blessing come true;
+</details>
+
+<details><summary>मूलम्</summary>
+
 स॒त्यामे॒वाशिष॑ङ्कुरुते ।
 </details>
 
@@ -132,13 +290,31 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह मन॒ इत्या॑ह,   
-प्र॒जा ए॒वास्मै॒ सम॑नसᳵ करोति ।
+इ॒ह मन॒ इत्या॑ह,
+</details>
+
+<details><summary>Keith</summary>
+
+'Mind here', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
-इ॒ह मन॒ इत्या॑ह,   
+इ॒ह मन॒ इत्या॑ह,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्र॒जा ए॒वास्मै॒ सम॑नसᳵ करोति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he makes the people of one mind with him;
+</details>
+
+<details><summary>मूलम्</summary>
+
 प्र॒जा ए॒वास्मै॒ सम॑नसᳵ करोति ।
 </details>
 
@@ -157,6 +333,11 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 उप॒ प्रेत॑ मरुत सु॒दा॒न॒व॒ ए॒ना वि॒श्पति॑ना..
 </details>
 
+<details><summary>Keith</summary>
+
+'Come hither, O ye Maruts [2] rich in dew, with this lord of the people against yon king', he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॒ प्रेत॑ मरुत सु॒दा॒न॒व॒ ए॒ना वि॒श्पति॑ना..
@@ -170,6 +351,11 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभ्य॑मुँ राजा॑न॒मित्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+the people are connected with the Maruts, the lord of the people is the highest;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -188,6 +374,11 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 मा॒रु॒ती वै विड् , ज्ये॒ष्ठो वि॒श्पतिः॑ , वि॒शैवनँ॑ रा॒ष्ट्रेण॒ सम॑र्धयति ।
 </details>
 
+<details><summary>Keith</summary>
+
+verily he unites him with the people and the realm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मा॒रु॒ती वै विड् , ज्ये॒ष्ठो वि॒श्पतिः॑ , वि॒शैवनँ॑ रा॒ष्ट्रेण॒ सम॑र्धयति ।
@@ -199,6 +390,7 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 </details>
 
 ## अपरुद्धराष्ट्रावगतये इष्ट्यन्तरम्
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यᳶ प॒रस्ता॑द्ग्राम्यवा॒दी स्यात्तस्य॑ गृ॒हाद्व्री॒हीना ह॑रेच्छु॒क्लाँश्च॑ कृ॒ष्णाँश्च॒ वि चि॑नुया॒द्ये शु॒क्लास्स्युस्तमा॑दि॒त्यञ्च॒रुन्निर्व॑पेदादि॒त्या वै दे॒वत॑या॒ विड्विश॑मे॒वाव॑ गच्छति [3] अव॑गतास्य॒ विडन॑वगतँ रा॒ष्ट्रमित्या॑हु॒र्ये कृ॒ष्णास्स्युस्तव्ँ वा॑रु॒णञ्च॒रुन्निर्व॑पेद्वारु॒णव्ँ वै रा॒ष्ट्रमु॒भे ए॒व विश॑ञ्च रा॒ष्ट्रञ्चाव॑ गच्छति
@@ -207,19 +399,76 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यᳶ प॒रस्ता॑द्ग्राम्यवा॒दी स्यात् ,
-तस्य॑ गृ॒हाद्व्री॒हीना ह॑रेत् ।  
-शु॒क्लाँश्च॑ कृ॒ष्णाँश्च॒ वि चि॑नुयात् ।  
-ये शु॒क्लास्स्युस्तमा॑दि॒त्यञ्च॒रुन्निर्व॑पेत् ।  
-आ॒दि॒त्या वै दे॒वत॑या॒ विड्, विश॑मे॒वाव॑ गच्छति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+From the house of a village judge further on he should take rice;
 </details>
 
 <details><summary>मूलम्</summary>
 
 यᳶ प॒रस्ता॑द्ग्राम्यवा॒दी स्यात् ,
-तस्य॑ गृ॒हाद्व्री॒हीना ह॑रेत् ।  
-शु॒क्लाँश्च॑ कृ॒ष्णाँश्च॒ वि चि॑नुयात् ।  
-ये शु॒क्लास्स्युस्तमा॑दि॒त्यञ्च॒रुन्निर्व॑पेत् ।  
-आ॒दि॒त्या वै दे॒वत॑या॒ विड्, विश॑मे॒वाव॑ गच्छति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्य॑ गृ॒हाद्व्री॒हीना ह॑रेत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+he should separate out the white and the black;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्य॑ गृ॒हाद्व्री॒हीना ह॑रेत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शु॒क्लाँश्च॑ कृ॒ष्णाँश्च॒ वि चि॑नुयात् ।
+</details>
+
+<details><summary>Keith</summary>
+
+of the white he should offer an oblation to the Adityas;
+</details>
+
+<details><summary>मूलम्</summary>
+
+शु॒क्लाँश्च॑ कृ॒ष्णाँश्च॒ वि चि॑नुयात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ये शु॒क्लास्स्युस्तमा॑दि॒त्यञ्च॒रुन्निर्व॑पेत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+the people have the Adityas for their deity;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ये शु॒क्लास्स्युस्तमा॑दि॒त्यञ्च॒रुन्निर्व॑पेत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒दि॒त्या वै दे॒वत॑या॒ विड्, विश॑मे॒वाव॑ गच्छति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he attains the people [3];
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒दि॒त्या वै दे॒वत॑या॒ विड्, विश॑मे॒वाव॑ गच्छति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -231,6 +480,11 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 
 अव॑गतास्य॒ विट्  ।  
 अन॑वगतँ रा॒ष्ट्रमित्या॑हुः ।   
+</details>
+
+<details><summary>Keith</summary>
+
+'The people he has attained, the realm he has not attained', they say;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -246,13 +500,31 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये कृ॒ष्णास्स्युस्तव्ँ वा॑रु॒णञ्च॒रुन्निर्व॑पेत् ।  
-वा॒रु॒णव्ँ वै रा॒ष्ट्रमु॒भे ए॒व विश॑ञ्च रा॒ष्ट्रञ्चाव॑ गच्छति ।
+ये कृ॒ष्णास्स्युस्तव्ँ वा॑रु॒णञ्च॒रुन्निर्व॑पेत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+of the dark ones he should offer an oblation to Varuna;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ये कृ॒ष्णास्स्युस्तव्ँ वा॑रु॒णञ्च॒रुन्निर्व॑पेत् ।  
+ये कृ॒ष्णास्स्युस्तव्ँ वा॑रु॒णञ्च॒रुन्निर्व॑पेत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वा॒रु॒णव्ँ वै रा॒ष्ट्रमु॒भे ए॒व विश॑ञ्च रा॒ष्ट्रञ्चाव॑ गच्छति ।
+</details>
+
+<details><summary>Keith</summary>
+
+the realm is connected with Varuna;
+</details>
+
+<details><summary>मूलम्</summary>
+
 वा॒रु॒णव्ँ वै रा॒ष्ट्रमु॒भे ए॒व विश॑ञ्च रा॒ष्ट्रञ्चाव॑ गच्छति ।
 </details>
 
@@ -265,6 +537,11 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 
 ये कृ॒ष्णास्स्युस्तव्ँ वा॑रु॒णञ्च॒रुन्निर्व॑पेत् ।  
 वा॒रु॒णव्ँ वै रा॒ष्ट्रमु॒भे ए॒व विश॑ञ्च रा॒ष्ट्रञ्चाव॑ गच्छति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he attains both the people and the realm.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -285,14 +562,30 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि॒ नाव॒गच्छे॑त्  इ॒मम॒हम्  +++(निर्वपेत्)+++।  
+यदि॒ नाव॒गच्छे॑त्  इ॒मम॒हम्  +++(निर्वपेत्)+++।
+</details>
 
-आ॒दि॒त्येभ्यो॑ भा॒गन्निर्व॑पा॒मि , आमुष्मा॑द॒मुष्यै॑ वि॒शोऽव॑गन्तो॒रिति॒ निर्व॑पेत् ।
+<details><summary>Keith</summary>
+
+Should he not attain (them), he should offer (saying), 'To the Adityas this portion I offer to attain the people N. N. for N. N.';
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदि॒ नाव॒गच्छे॑त्  इ॒मम॒हम्  +++(निर्वपेत्)+++।  
+यदि॒ नाव॒गच्छे॑त्  इ॒मम॒हम्  +++(निर्वपेत्)+++।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒दि॒त्येभ्यो॑ भा॒गन्निर्व॑पा॒मि , आमुष्मा॑द॒मुष्यै॑ वि॒शोऽव॑गन्तो॒रिति॒ निर्व॑पेत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily the Adityas desiring the portion make him attain the people [4].
+</details>
+
+<details><summary>मूलम्</summary>
 
 आ॒दि॒त्येभ्यो॑ भा॒गन्निर्व॑पा॒मि , आमुष्मा॑द॒मुष्यै॑ वि॒शोऽव॑गन्तो॒रिति॒ निर्व॑पेत् ।
 </details>
@@ -305,6 +598,11 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒दि॒त्या ए॒वैन॑म्भाग॒धेय॑म्प्रे॒प्सन्तो॒ विश॒मव॑ [4] गमयन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Should he not attain (them), he should knock in seven pegs of Aśvattha wood in the middle shaft, (saying), 'Here do I bind the Adityas to attain the people N. N. from N. N.'; verily the Adityas, their heroes bound, make him attain the people.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -328,6 +626,11 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 यदि॒ नाव॒गच्छे॒त् ,आश्व॑त्थान्म॒यूखा॑न्त्स॒प्त म॑ध्यमे॒षाया॒मुप॑ हन्यात् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Should he not attain (them), he should offer this oblation to the Adityas
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदि॒ नाव॒गच्छे॒त् ,आश्व॑त्थान्म॒यूखा॑न्त्स॒प्त म॑ध्यमे॒षाया॒मुप॑ हन्यात् ।
@@ -344,6 +647,11 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 
 इ॒दम॒हमा॑दि॒त्यान्ब॑ध्ना॒मि, आमुष्मा॑द॒मुष्यै॑ वि॒शोऽव॑गन्तोः॒ इति॑ ,  
 आ॒दि॒त्या ए॒वैन॑म्ब॒द्धवी॑रा॒ विश॒मव॑ गमयन्ति़ ।
+</details>
+
+<details><summary>Keith</summary>
+
+and attach pegs to the kindling-wood;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -368,6 +676,11 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 यदि॒ नाव॒गच्छे॑दे॒तमे॒वादि॒त्यञ्च॒रुन्निर्व॑पेत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+verily he attains what cannot be taken away.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदि॒ नाव॒गच्छे॑दे॒तमे॒वादि॒त्यञ्च॒रुन्निर्व॑पेत् ।  
@@ -381,6 +694,11 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒ध्मेऽपि॑ म॒यूखा॒न्त्सन्न॑ह्येत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+(The pegs) are of Aśvattha wood;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -398,6 +716,11 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 अ॒न॒प॒रु॒ध्यमे॒वाव॑ गच्छति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Aśvattha is the might of the Maruts; verily with might he attains the people;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न॒प॒रु॒ध्यमे॒वाव॑ गच्छति ।  
@@ -411,6 +734,11 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आश्व॑त्था भवन्ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+seven are they,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -430,6 +758,11 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 स॒प्त भ॑वन्ति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Maruts are in seven troops;
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒रुताव्ँ॒वा ए॒तदोजः॑ ।  
@@ -445,6 +778,11 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒प्तग॑णा॒ वै म॒रुतो॑ गण॒श ए॒व विश॒मव॑ गच्छति ॥  
+</details>
+
+<details><summary>Keith</summary>
+
+verily in troops he attains the people.
 </details>
 
 <details><summary>मूलम्</summary>

@@ -16,6 +16,11 @@ title = "०८ चक्षुष्कामस्येष्टिः"
 तस्मा॑ ए॒तामिष्टि॒न्निर॑वपत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Rajana Kauneya went to Kratujit Janaki for a cure for eyesight;
+</details>
+
 <details><summary>मूलम्</summary>
 
 रज॑नो॒ वै कौ॑णे॒यᳵ क्र॑तु॒जित॒ञ्जान॑किञ्चक्षु॒र्वन्य॑मयात् ।  
@@ -31,21 +36,65 @@ title = "०८ चक्षुष्कामस्येष्टिः"
 
 अ॒ग्न॒ये॒ भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालँ सौ॒र्यञ्च॒रुम् ।  
 अ॒ग्नये॒  भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालम् ।  
-तयै॒वास्मि॒ञ्चक्षु॑रदधात् ।   
-यश्चक्षु॑ष्काम॒स्स्यात् ।  
-तस्मा॑ ए॒तामिष्टि॒न्निर्व॑पेत् ।  
-अ॒ग्नये॒ भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालँ सौ॒र्यञ्च॒रुम् ।  
-अ॒ग्नये॒ भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालम् ।
+तयै॒वास्मि॒ञ्चक्षु॑रदधात् ।
+</details>
+
+<details><summary>Keith</summary>
+
+for him he offered this sacrifice, to Agni, the blazing, a cake on eight potsherds, to Surya an oblation, to Agni, the blazing, a cake on eight potsherds;
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒ग्न॒ये॒ भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालँ सौ॒र्यञ्च॒रुम् ।  
 अ॒ग्नये॒  भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालम् ।  
-तयै॒वास्मि॒ञ्चक्षु॑रदधात् ।   
-यश्चक्षु॑ष्काम॒स्स्यात् ।  
+तयै॒वास्मि॒ञ्चक्षु॑रदधात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यश्चक्षु॑ष्काम॒स्स्यात् ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily thereby he bestowed sight upon him.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यश्चक्षु॑ष्काम॒स्स्यात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तस्मा॑ ए॒तामिष्टि॒न्निर्व॑पेत् ।  
-अ॒ग्नये॒ भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालँ सौ॒र्यञ्च॒रुम् ।  
+अ॒ग्नये॒ भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालँ सौ॒र्यञ्च॒रुम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+For him who desires sight he should offer this sacrifice, to Agni, the blazing, a cake on eight potsherds;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मा॑ ए॒तामिष्टि॒न्निर्व॑पेत् ।  
+अ॒ग्नये॒ भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालँ सौ॒र्यञ्च॒रुम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒ग्नये॒ भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+to Surya an oblation, to Agni, the blazing, a cake on eight potsherds;
+</details>
+
+<details><summary>मूलम्</summary>
+
 अ॒ग्नये॒ भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालम् ।
 </details>
 
@@ -64,6 +113,11 @@ title = "०८ चक्षुष्कामस्येष्टिः"
 अ॒ग्नेर्वै चक्षु॑षा मनु॒ष्या॑ वि प॑श्यन्ति ।   
 </details>
 
+<details><summary>Keith</summary>
+
+by the eye of Agni men see [1],
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेर्वै चक्षु॑षा मनु॒ष्या॑ वि प॑श्यन्ति ।   
@@ -79,6 +133,11 @@ title = "०८ चक्षुष्कामस्येष्टिः"
 सूर्य॑स्य दे॒वाः +++(वि प॑श्यन्ति)+++ ।   
 अ॒ग्निञ्चै॒व सूर्य॑ञ्च॒ स्वेन॑ भाग॒धेये॒नोप॑ धावति ।  
 तावे॒वास्मि॒ञ्चक्षु॑र्धत्त॒श्चक्षु॑ष्माने॒व भ॑वति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+(by the eye) of the sun the gods; verily he has recourse to Agni and Surya with their own share; verily they bestow sight upon him; he becomes possessed of sight.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -100,20 +159,64 @@ title = "०८ चक्षुष्कामस्येष्टिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदा॑ग्ने॒यौ भव॑त॒श्चक्षु॑षी ए॒वास्मि॒न्तत्प्रति॑ दधाति ।  
-यत्सौ॒र्यो नासि॑का॒म् +++(प्रतिदधाति)+++।  
-तेना॒भित॑स्सौ॒र्यमा॑ग्ने॒यौ भ॑वतः ।  
-तस्मा॑द॒भितो॒ नासि॑का॒ञ्चक्षु॑षी ।  
-तस्मा॒न्नासि॑कया॒ चक्षु॑षी॒ विधृ॑ते ।  
+यदा॑ग्ने॒यौ भव॑त॒श्चक्षु॑षी ए॒वास्मि॒न्तत्प्रति॑ दधाति ।
+</details>
+
+<details><summary>Keith</summary>
+
+In that there are two for Agni, he restores his eyes for him;
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदा॑ग्ने॒यौ भव॑त॒श्चक्षु॑षी ए॒वास्मि॒न्तत्प्रति॑ दधाति ।  
-यत्सौ॒र्यो नासि॑का॒म् +++(प्रतिदधाति)+++।  
-तेना॒भित॑स्सौ॒र्यमा॑ग्ने॒यौ भ॑वतः ।  
+यदा॑ग्ने॒यौ भव॑त॒श्चक्षु॑षी ए॒वास्मि॒न्तत्प्रति॑ दधाति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत्सौ॒र्यो नासि॑का॒म् +++(प्रतिदधाति)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+in that there is (an oblation) for Surya, (he restores) his nose;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्सौ॒र्यो नासि॑का॒म् +++(प्रतिदधाति)+++।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेना॒भित॑स्सौ॒र्यमा॑ग्ने॒यौ भ॑वतः ।
+</details>
+
+<details><summary>Keith</summary>
+
+the two for Agni are on either side of that for Surya;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेना॒भित॑स्सौ॒र्यमा॑ग्ने॒यौ भ॑वतः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तस्मा॑द॒भितो॒ नासि॑का॒ञ्चक्षु॑षी ।  
-तस्मा॒न्नासि॑कया॒ चक्षु॑षी॒ विधृ॑ते ।  
+तस्मा॒न्नासि॑कया॒ चक्षु॑षी॒ विधृ॑ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+therefore the two eyes are on either side of the nose, therefore by the nose the eyes are separated.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मा॑द॒भितो॒ नासि॑का॒ञ्चक्षु॑षी ।  
+तस्मा॒न्नासि॑कया॒ चक्षु॑षी॒ विधृ॑ते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -147,13 +250,31 @@ title = "०८ चक्षुष्कामस्येष्टिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मा॒नी या॑ज्यानुवा॒क्ये॑ भवतः ।  
-स॒मा॒नँ॒ हि चक्षु॒स्समृ॑द्ध्यै ।
+स॒मा॒नी या॑ज्यानुवा॒क्ये॑ भवतः ।
+</details>
+
+<details><summary>Keith</summary>
+
+The Yajya, and the Anuvakya, are alike, for the eye is alike;
 </details>
 
 <details><summary>मूलम्</summary>
 
-स॒मा॒नी या॑ज्यानुवा॒क्ये॑ भवतः ।  
+स॒मा॒नी या॑ज्यानुवा॒क्ये॑ भवतः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒मा॒नँ॒ हि चक्षु॒स्समृ॑द्ध्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+(verily it serves) for prosperity.
+</details>
+
+<details><summary>मूलम्</summary>
+
 स॒मा॒नँ॒ हि चक्षु॒स्समृ॑द्ध्यै ।
 </details>
 
@@ -172,6 +293,11 @@ title = "०८ चक्षुष्कामस्येष्टिः"
 उदु॒ त्यञ्जा॒तवे॑दसँ ..  
 स॒प्त त्वा॑ ह॒रितो॒ रथे॑ ..  
 चि॒त्रन्दे॒वाना॒मुद॑गा॒दनी॑क॒म्  इति॒ पिण्डा॒न्प्र य॑च्छति ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Up that god that knoweth all', 'Seven bays in thy chariot', 'The radiant countenance of the gods hath arisen', (with these words) he offers lumps;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -209,6 +335,11 @@ title = "०८ चक्षुष्कामस्येष्टिः"
 
 चक्षु॑रे॒वास्मै॒ प्र य॑च्छति ।  
 यदे॒व तस्य॒ तत् ॥
+</details>
+
+<details><summary>Keith</summary>
+
+verily he gives sight to him; what was his, that (is his again).
 </details>
 
 <details><summary>मूलम्</summary>

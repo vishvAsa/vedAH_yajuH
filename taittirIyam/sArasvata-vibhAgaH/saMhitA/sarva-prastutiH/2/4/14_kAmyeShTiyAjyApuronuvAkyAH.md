@@ -373,6 +373,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/2/4/14_kAmyeShTiyAjyApuronuvAkyAH/23_yam_AdityA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+
 <details><summary>मूलम्</summary>
 
 यमा॑दि॒त्या अँ॒शुमा॑प्या॒यय॑न्ति॒ यमक्षि॑त॒मक्षि॑तय॒ᳶ पिब॑न्ति ।  
@@ -413,6 +414,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/2/4/14_kAmyeShTiyAjyApuronuvAkyAH/28_prAchyAn_dishi.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+
 <details><summary>मूलम्</summary>
 
 प्राच्या॑न्दि॒शि त्वमि॑न्द्रासि॒ राजो॒तोदी॑च्याव्ँवृत्रहन्वृत्र॒हासि॑ ।   
@@ -454,6 +456,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/2/4/14_kAmyeShTiyAjyApuronuvAkyAH/32_indro_jayAti.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रो॑ जयाति॒ न परा॑ जयाता अधिरा॒जो राज॑सु राजयाति ।  
@@ -858,6 +861,7 @@ Es überragte wahrlich seine Grösse die weite Luft, den Himmel und die Erde; Se
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/032/22_abhi_tvA.md">
 
 <details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः …{Loading}…</h2></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1378,7 +1382,9 @@ obstacles, you at the finish lines of our steed,
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/01-02.md">
+
 <details open><summary><h7>01-02 …{Loading}…</h7></summary>
+
 <details><summary>Jamison Brereton Notes</summary>
 
 Although the presence of hí, with its generally causal value, is often a puzzle when it appears in the first pāda of a hymn, this one helps signal the conceptual unity of this opening tṛca, with vs. 1 providing the various circumstances under which we call upon Indra and vs. 2 containing the contents of our latest address to the god -- a call for additional generosity from him.
@@ -1830,6 +1836,7 @@ Wenn, Indra, hundert Himmel dir und hundert Erden wären auch, So fassten tausen
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/022/01_pibA_somamindra.md">
 
 <details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः …{Loading}…</h2></summary>
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -3457,7 +3464,9 @@ Seven fallow bay mares convey you, the flame-haired, in your chariot— o wide-g
 The reassignment of Agni epithets continues in this verse: śocíṣkeśa- ‘flamehaired’ is otherwise only of Agni.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/050/08-09.md">
+
 <details open><summary><h7>08-09 …{Loading}…</h7></summary>
+
 <details><summary>Jamison Brereton Notes</summary>
 
 I assume that the seven mares of vs. 8 are the same as the sleek daughters (śundhyúvaḥ … naptyàḥ) (or granddaughters) of the chariot, but I do not know why the rare word naptī́- is used of them. Thieme (KlSch: 220), on the basis of śundhyúvaḥ, thinks they are wild geese (“…hat sich sieben Wildgänse als Tochter des Wagens angeschirrt”), but this seems to introduce an unnecessary complication since śundhyú- can be taken in its literal meaning.
@@ -4081,7 +4090,9 @@ The first hemistich here does assay a little figure: ṛtā- ṛtú- across the 
 The use of yújya- in c is not entirely clear to me. I take it to mean that the offering, the milk (páyaḥ), is ritually associated with the calls (hávana-) the gods are hearing. Cf. VI.3.8. Geldner and Renou think that the association is between the substance and the gods.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
+
 <details open><summary><h7>07-12 …{Loading}…</h7></summary>
+
 <details><summary>Jamison Brereton Notes</summary>
 
 These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an elementary production, with almost no tricks (though see vs. 9). One wonders whether great swaths of RV-period poetry were similarly lackluster and therefore not generally preserved.
@@ -4460,7 +4471,9 @@ exhilaration.
 The disjunctive pairing yé agnijihvā́utá vā yájatrāḥ is puzzling if we take the utá vā seriously. Klein’s tr. (DGRV II.168-69) can stand for the standard tr.: “which ones have Agni as their tongue or are worthy of worship.” Klein considers this an example of “opposed but nonantonymous terms” giving a “subcategorization of heavenly ones.” But when so rendered there seems to be no distinction between the two groups: the general run of gods who are worthy of the sacrifice also receive those oblations through Agni -- there’s no reason for a vā. I am therefore inclined to pay attention to the -tra instrument suffix on yájatrāḥ: ‘the instruments or means of sacrifice’. Such an interpr. divides the set into those who require Agni as intermediary and those who directly effect the sacrifice. Exactly who the latter might be, I’m not certain -- perhaps only Soma. If I am correct, yájatra- is used differently from yajñíya- in the next vs. But see vs. 17 where yájatra- does not seem to have the instrument sense.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md">
+
 <details open><summary><h7>13-15 …{Loading}…</h7></summary>
+
 <details><summary>Jamison Brereton Notes</summary>
 
 I consider these three vss. as a tṛca. They are thematically unified, by their focus on the gods in general and (esp. vss. 13 and 15) by their classification of the gods into groups based on their location and type. On the supposed Jagatī meter of vs. 14, which would not match its tṛca partners, see ad loc.

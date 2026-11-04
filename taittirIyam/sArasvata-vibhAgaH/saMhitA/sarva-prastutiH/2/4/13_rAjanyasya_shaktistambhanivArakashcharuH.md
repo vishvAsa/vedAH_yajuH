@@ -4,6 +4,7 @@ title = "१३ राजन्यस्य शक्तिस्तम्भन
 +++
 
 विश्वेदेवा ऋषयः ।
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा वै रा॑ज॒न्या॑ज्जाय॑मानादबिभयु॒स्तम॒न्तरे॒व सन्त॒न्दाम्नापौ॑म्भ॒न्त्स वा ए॒षोऽपो॑ब्धो जायते॒ यद्रा॑ज॒न्यो॑ यद्वा ए॒षोऽन॑पोब्धो॒ जाये॑त वृ॒त्रान्घ्नँश्च॑रे॒द्यङ्का॒मये॑त राज॒न्य॑मन॑पोब्धो जायेत वृ॒त्रान्घ्नँश्च॑रे॒दिति॒ तस्मा॑ ए॒तमै॑न्द्राबार्हस्प॒त्यञ्च॒रुन्निर्व॑पेदै॒न्द्रो वै रा॑ज॒न्यो॑ ब्रह्म॒ बृह॒स्पति॒र्ब्रह्म॑णै॒वैन॒न्दाम्नो॒ऽपोम्भ॑नान्मुञ्चति हिर॒ण्मय॒न्दाम॒ दक्षि॑णा सा॒क्षादे॒वैन॒न्दाम्नो॒ऽपोम्भ॑नान्मुञ्चति ॥ [43]  
@@ -11,18 +12,49 @@ title = "१३ राजन्यस्य शक्तिस्तम्भन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा वै रा॑ज॒न्या॑ज्जाय॑मानादबिभयुः ।  
-तम॒न्तरे॒व सन्त॒न्दाम्नापौ॑म्भन् ।  
-स वा ए॒षोऽपो॑ब्धो जायते॒ यद्रा॑ज॒न्यः॑ ।  
-यद्वा ए॒षोऽन॑पोब्धो॒ जाये॑त ।   
+दे॒वा वै रा॑ज॒न्या॑ज्जाय॑मानादबिभयुः ।
+</details>
+
+<details><summary>Keith</summary>
+
+The gods were afraid of the warrior on his birth.
 </details>
 
 <details><summary>मूलम्</summary>
 
-दे॒वा वै रा॑ज॒न्या॑ज्जाय॑मानादबिभयुः ।  
-तम॒न्तरे॒व सन्त॒न्दाम्नापौ॑म्भन् ।  
+दे॒वा वै रा॑ज॒न्या॑ज्जाय॑मानादबिभयुः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तम॒न्तरे॒व सन्त॒न्दाम्नापौ॑म्भन् ।
+</details>
+
+<details><summary>Keith</summary>
+
+While still within (the womb) they fettered him with a bond.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तम॒न्तरे॒व सन्त॒न्दाम्नापौ॑म्भन् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स वा ए॒षोऽपो॑ब्धो जायते॒ यद्रा॑ज॒न्यः॑ ।  
-यद्वा ए॒षोऽन॑पोब्धो॒ जाये॑त ।   
+यद्वा ए॒षोऽन॑पोब्धो॒ जाये॑त ।
+</details>
+
+<details><summary>Keith</summary>
+
+The warrior thus is born fettered; if he were born not fettered
+</details>
+
+<details><summary>मूलम्</summary>
+
+स वा ए॒षोऽपो॑ब्धो जायते॒ यद्रा॑ज॒न्यः॑ ।  
+यद्वा ए॒षोऽन॑पोब्धो॒ जाये॑त ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -32,20 +64,51 @@ title = "१३ राजन्यस्य शक्तिस्तम्भन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृ॒त्रान्घ्नँश्च॑रेत् ।  
-यङ्का॒मये॑त राज॒न्य॑मन॑पोब्धो जायेत।  
-वृ॒त्रान्घ्नँश्च॑रे॒दिति॑ ।  
-तस्मा॑ ए॒तमै॑न्द्राबार्हस्प॒त्यञ्च॒रुन्निर्व॑पेत् ।  
-ऐ॒न्द्रो वै रा॑ज॒न्यो॑ ब्रह्म॒ बृह॒स्पति॒र्ब्रह्म॑णै॒वैन॒न्दाम्नो॒ऽपोम्भ॑नान्मुञ्चति ।  
+वृ॒त्रान्घ्नँश्च॑रेत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+he would continually slay his foes.
 </details>
 
 <details><summary>मूलम्</summary>
 
-वृ॒त्रान्घ्नँश्च॑रेत् ।  
+वृ॒त्रान्घ्नँश्च॑रेत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यङ्का॒मये॑त राज॒न्य॑मन॑पोब्धो जायेत।  
 वृ॒त्रान्घ्नँश्च॑रे॒दिति॑ ।  
-तस्मा॑ ए॒तमै॑न्द्राबार्हस्प॒त्यञ्च॒रुन्निर्व॑पेत् ।  
-ऐ॒न्द्रो वै रा॑ज॒न्यो॑ ब्रह्म॒ बृह॒स्पति॒र्ब्रह्म॑णै॒वैन॒न्दाम्नो॒ऽपोम्भ॑नान्मुञ्चति ।  
+तस्मा॑ ए॒तमै॑न्द्राबार्हस्प॒त्यञ्च॒रुन्निर्व॑पेत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+If one desire of a warrior, 'May he be born not fettered, may he continually slay his foes', one should offer for him the offering for Indra and Brhaspati, for the warrior is connected with Indra, Brhaspati is the holy power (Brahman);
+</details>
+
+<details><summary>मूलम्</summary>
+
+यङ्का॒मये॑त राज॒न्य॑मन॑पोब्धो जायेत।  
+वृ॒त्रान्घ्नँश्च॑रे॒दिति॑ ।  
+तस्मा॑ ए॒तमै॑न्द्राबार्हस्प॒त्यञ्च॒रुन्निर्व॑पेत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऐ॒न्द्रो वै रा॑ज॒न्यो॑ ब्रह्म॒ बृह॒स्पति॒र्ब्रह्म॑णै॒वैन॒न्दाम्नो॒ऽपोम्भ॑नान्मुञ्चति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily by the holy power (Brahman) he frees him from the bond that fetters him.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऐ॒न्द्रो वै रा॑ज॒न्यो॑ ब्रह्म॒ बृह॒स्पति॒र्ब्रह्म॑णै॒वैन॒न्दाम्नो॒ऽपोम्भ॑नान्मुञ्चति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -57,6 +120,11 @@ title = "१३ राजन्यस्य शक्तिस्तम्भन
 
 हिर॒ण्मय॒न्दाम॒ दक्षि॑णा ।  
 सा॒क्षादे॒वैन॒न्दाम्नो॒ऽपोम्भ॑नान्मुञ्चति ॥
+</details>
+
+<details><summary>Keith</summary>
+
+The sacrificial present is a golden bond; verily manifestly he frees him from the bond that fetters him.
 </details>
 
 <details><summary>मूलम्</summary>

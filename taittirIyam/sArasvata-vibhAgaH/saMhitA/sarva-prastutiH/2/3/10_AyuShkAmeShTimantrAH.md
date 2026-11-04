@@ -16,6 +16,11 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 यन्नव॒मैत्, तन्नव॑नीतमभवत् ..
 </details>
 
+<details><summary>Keith</summary>
+
+What went new that became fresh butter;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यन्नव॒मैत्, तन्नव॑नीतमभवत् ..
@@ -31,6 +36,11 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 यदस॑र्प॒त् तत्स॒र्पिर॑भवत् ..
 </details>
 
+<details><summary>Keith</summary>
+
+what crept that became clarified butter;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदस॑र्प॒त् तत्स॒र्पिर॑भवत् ..
@@ -44,6 +54,11 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदध्रि॑यत॒ तद्घृ॒तम॑भवत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+that which became firm became ghee.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -63,17 +78,48 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्विनोः॑ प्रा॒णो॑ऽसि ।  
-तस्य॑ ते दत्ताम् ।  
-ययोः॑  प्रा॒णोऽसि॑ ।  
-स्वाहा॑ ।
+अ॒श्विनोः॑ प्रा॒णो॑ऽसि ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the breath of the Aśvins;
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒श्विनोः॑ प्रा॒णो॑ऽसि ।  
+अ॒श्विनोः॑ प्रा॒णो॑ऽसि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तस्य॑ ते दत्ताम् ।  
-ययोः॑  प्रा॒णोऽसि॑ ।  
+ययोः॑  प्रा॒णोऽसि॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+of that to thee let the two give whose breath thou art;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्य॑ ते दत्ताम् ।  
+ययोः॑  प्रा॒णोऽसि॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
 स्वाहा॑ ।
 </details>
 
@@ -89,38 +135,143 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य प्रा॒णो॑ऽसि ।  
-तस्य॑ ते ददातु ।  
-यस्य॑ प्रा॒णोऽसि ।  
-स्वाहा॑ ।  
+इन्द्र॑स्य प्रा॒णो॑ऽसि ।
+</details>
 
-मि॒त्रावरु॑णयोᳶ प्रा॒णो॑ऽसि ।  
-तस्य॑ ते दत्ताम् ।  
-ययोः॑  प्रा॒णोऽसि॑ ।  
-स्वाहा॑ ।
+<details><summary>Keith</summary>
 
-विश्वे॑षान्दे॒वाना॑म्प्रा॒णो॑ऽसि ।  
-तस्य॑ ते ददतु ।  
-येषा॑म्प्रा॒णोऽसि॑ ।  
-स्वाहा॑ ।  
+Thou art the breath of Indra;
 </details>
 
 <details><summary>मूलम्</summary>
 
-इन्द्र॑स्य प्रा॒णो॑ऽसि ।  
+इन्द्र॑स्य प्रा॒णो॑ऽसि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तस्य॑ ते ददातु ।  
 यस्य॑ प्रा॒णोऽसि ।  
-स्वाहा॑ ।  
+स्वाहा॑ ।
+</details>
 
-मि॒त्रावरु॑णयोᳶ प्रा॒णो॑ऽसि ।  
-तस्य॑ ते दत्ताम् ।  
+<details><summary>Keith</summary>
+
+of that to thee let him give whose breath thou art;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्य॑ ते ददातु ।  
+यस्य॑ प्रा॒णोऽसि ।  
+स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मि॒त्रावरु॑णयोᳶ प्रा॒णो॑ऽसि ।
+</details>
+
+<details><summary>Keith</summary>
+
+hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+मि॒त्रावरु॑णयोᳶ प्रा॒णो॑ऽसि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्य॑ ते दत्ताम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the breath of Mitra and Varuna;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्य॑ ते दत्ताम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ययोः॑  प्रा॒णोऽसि॑ ।  
 स्वाहा॑ ।
+</details>
 
-विश्वे॑षान्दे॒वाना॑म्प्रा॒णो॑ऽसि ।  
-तस्य॑ ते ददतु ।  
-येषा॑म्प्रा॒णोऽसि॑ ।  
-स्वाहा॑ ।  
+<details><summary>Keith</summary>
+
+of that to thee let them give whose' breath thou art;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ययोः॑  प्रा॒णोऽसि॑ ।  
+स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विश्वे॑षान्दे॒वाना॑म्प्रा॒णो॑ऽसि ।
+</details>
+
+<details><summary>Keith</summary>
+
+hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+विश्वे॑षान्दे॒वाना॑म्प्रा॒णो॑ऽसि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्य॑ ते ददतु ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the breath of the All-gods [1];
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्य॑ ते ददतु ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+येषा॑म्प्रा॒णोऽसि॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+of that to thee let them give whose breath thou art;
+</details>
+
+<details><summary>मूलम्</summary>
+
+येषा॑म्प्रा॒णोऽसि॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -132,6 +283,11 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 
 घृ॒तस्य॒ धारा॑म॒मृत॑स्य॒ पन्था॒मिन्द्रे॑ण द॒त्ताम्प्रय॑ताम्म॒रुद्भिः॑ ।  
 तत्त्वा॒ विष्णु॒ᳶ पर्य॑पश्य॒त्तत्त्वेडा॒ गव्यैर॑यत् ॥
+</details>
+
+<details><summary>Keith</summary>
+
+Stream of ghee, path of ambrosia, Given by Indra, presented by the Maruts, Thee Visnu perceived, Then Ida moved thee in the cow.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -155,6 +311,11 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 पा॒व॒मा॒नेन॑ त्वा॒ स्तोमे॑न+++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ ।  
 गा॒य॒त्र॑स्य वर्त॒न्या त्वा॒ +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ ।  
 उ॒पाँ॒शोर्वी॒र्ये॑ण त्वा॒ +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ जी॒वात॑वे जीवन॒स्यायै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Let the god Savitr set thee free for life, for living, with the Pavamana Stoma, with the path of the Gayatra (Saman), with the strength of the Upanśu (Graha);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -181,6 +342,11 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 शु॒क्रस्य॑ वी॒र्ये॑ण त्वा॒ +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ जी॒वात॑वे जीवन॒स्यायै॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+let the god Savitr set thee free for life, for living, [2] with the Brhat and Rathantara's Stoma with the path of the Tristubh, with the strength of the Śukra (Graha);
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृ॒ह॒द्र॒थ॒न्त॒रयो॑स्त्वा स्तोमे॑न +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ ।  
@@ -203,6 +369,11 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 अ॒ग्नेस्त्वा॒ मात्र॑या  +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ ।   
 जग॑त्यै वर्त॒न्या त्वा॒ +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ ।  
 आ॒ग्र॒य॒णस्य॑ वी॒र्ये॑ण दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु जी॒वात॑वे जीवन॒स्यायै॑  ।  
+</details>
+
+<details><summary>Keith</summary>
+
+let the god Savitr set thee free with the measure of Agni, with the path of the Jagati, With the strength of the Agrayana (Graha).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -276,6 +447,7 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md">
+
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 +++(हे यजमान)+++  
@@ -287,6 +459,7 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 </div>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md">
+
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 सो᳓म आ᳓युष्मान् स᳓ ओ᳓षधीभिर् [आ᳓युष्मान् ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
@@ -295,6 +468,7 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 </div>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md">
+
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 +++(हे यजमान)+++ यज्ञ᳓ [आ᳓युष्मान्], स᳓ द᳓क्षिणाभिर् आ᳓युष्मान्, [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
@@ -303,6 +477,7 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 </div>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md">
+
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 +++(हे यजमान)+++ ब्र᳓ह्मा᳓युष्मत्, त᳓द्ब्राह्मणै᳓रा᳓युष्मत् , [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
@@ -311,6 +486,7 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 </div>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/09_devA_AyuShmantaH_amRutena.md">
+
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 +++(हे यजमान)+++ देवा᳓ आ᳓युष्मन्तः।  
@@ -322,6 +498,11 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पित᳓र आ᳓युष्मन्तस् ते᳓ स्वध᳓या᳓ऽऽयुष्मन्तस्, ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि । 
+</details>
+
+<details><summary>Keith</summary>
+
+Agni is full of life; he is full of life through the trees; with this life I make thee full of life. Soma is full of life; he is (full) through the plants; the sacrifice is full of life; it is (full) through the sacrificial fees; the Brahman is full of life; that is full of life through the Brahmans; the gods are full of life; they are (full of life) through the ambrosia; the Pitrs are full of life; they are full of life through the Svadha-call with this life I make thee full of life.
 </details>
 
 <details><summary>मूलम्</summary>

@@ -3,6 +3,7 @@ title = "०७ सामिधेनीमन्त्रव्याख्य�
 +++
 
 ## हीङ्कार-त्रयम्
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 प्राजापत्यं काण्डम्
@@ -12,8 +13,8 @@ title = "०७ सामिधेनीमन्त्रव्याख्य�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवा᳓ वै᳓ न᳓र्चि᳓ न᳓ य᳓जुष्य् अश्रयन्त ।  
-ते᳓ सा᳓मन्न् एवा᳓श्रयन्त ।  
+देवा᳓ वै᳓ न᳓र्चि᳓ न᳓ य᳓जुष्य् अश्रयन्त   
+ते᳓ सा᳓मन्न् एवा᳓श्रयन्त   
 </details>
 
 <details><summary>English</summary>
@@ -45,8 +46,8 @@ The gods could not rest on the Rc or the Yajus. On the Saman only could they res
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हि᳓ङ् करोति ।  
-सा᳓मैवा᳓कर्, हि᳓ङ्करोति ।  
+हि᳓ङ् करोति   
+सा᳓मैवा᳓कर्, हि᳓ङ्करोति   
 </details>
 
 <details><summary>English</summary>
@@ -81,8 +82,8 @@ He makes the noise 'Him'; verily he makes the Saman. He makes the noise 'Him';
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्रैव᳓ देवा᳓ अ᳓श्रयन्त,  
-त᳓त एवै᳓नान् प्र᳓ युङ्क्ते।  
-हि᳓ङ् करोति ।
+त᳓त एवै᳓नान् प्र᳓ युङ्क्ते  
+हि᳓ङ् करोति 
 </details>
 
 <details><summary>English</summary>
@@ -114,8 +115,8 @@ where the gods rested, there he sets them in motion. He makes the noise 'Him';
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाच᳓ एवै᳓ष᳓ यो᳓गो - हि᳓ङ् करोति।  
-प्रजा᳓ एव᳓ त᳓द् य᳓जमानस् सृजते ।  
+वाच᳓ एवै᳓ष᳓ यो᳓गो - हि᳓ङ् करोति  
+प्रजा᳓ एव᳓ त᳓द् य᳓जमानस् सृजते   
 </details>
 
 <details><summary>English</summary>
@@ -147,10 +148,11 @@ this is the yoking of speech. He makes the noise 'Him'; thus the sacrificers pro
 </details>
 
 ## आद्यन्तयोर् आवृत्तिः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रिᳶ᳓ प्रथमा᳓म् अ᳓न्वाह, त्रि᳓र् उत्तमा᳓म् ।  
-यज्ञ᳓स्यैव᳓ त᳓द् बर्स᳓न्+++(=अन्तं)+++ नह्यत्य् अ᳓प्रस्रँसाय ।
+त्रिᳶ᳓ प्रथमा᳓म् अ᳓न्वाह, त्रि᳓र् उत्तमा᳓म्   
+यज्ञ᳓स्यैव᳓ त᳓द् बर्स᳓न्+++(=अन्तं)+++ नह्यत्य् अ᳓प्रस्रँसाय 
 </details>
 
 <details><summary>English</summary>
@@ -184,6 +186,7 @@ He repeats the first (verse) thrice, the last thrice; verily he ties the end of 
 </details>
 
 ## सन्तत-वचनम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓न्ततम् अ᳓न्वाह ।  
@@ -275,6 +278,7 @@ and for the smiting away of the Raksases.
 </details>
 
 ## रथन्तरी
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रा᳓थन्तरीम् प्रथमा᳓म् अ᳓न्वाह।  
@@ -307,7 +311,7 @@ The first he repeats is connected with the Rathantara (Saman),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा᳓थन्तरो वा᳓ अयल्ँ᳓ लोक᳓।  
+रा᳓थन्तरो वा᳓ अयल्ँ᳓ लोक᳓  
 इम᳓म् एव᳓ लोक᳓म् अभि᳓ जयति ।
 </details>
 
@@ -339,9 +343,9 @@ this world is connected with the Rathantara; verily he conquers this world.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रि᳓र् वि᳓ गृह्णाति ।  
+त्रि᳓र् वि᳓ गृह्णाति   
 त्र᳓य इमे᳓ लोका᳓,  
-इमा᳓न् एव᳓ लोका᳓न् अभि᳓ जयति ।
+इमा᳓न् एव᳓ लोका᳓न् अभि᳓ जयति 
 </details>
 
 <details><summary>English</summary>
@@ -372,11 +376,12 @@ He divides it thrice; these worlds are three; verily he conquers these worlds.
 </details>
 
 ## बार्हती
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बा᳓र्हतीम् उत्तमा᳓म् अ᳓न्वाह ।  
+बा᳓र्हतीम् उत्तमा᳓म् अ᳓न्वाह   
 बा᳓र्हतो वा᳓ असौ᳓ लोकः᳓,  
-अमु᳓म् एव᳓ लोक᳓म् अभि᳓ जयति ।
+अमु᳓म् एव᳓ लोक᳓म् अभि᳓ जयति 
 </details>
 
 <details><summary>English</summary>
@@ -413,6 +418,7 @@ The last he repeats is connected with the Brhat (Saman); yonder world is connect
 </details>
 
 ## प्र वो वाजा
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ वो वा᳓जा इ᳓त्य् अ᳓निरुक्ताम् +++(अनिरुक्तत्वाद् एव→)+++ प्राजापत्या᳓म् अ᳓न्वाह ।  
@@ -557,6 +563,7 @@ therefore seed is deposited in front.
 </details>
 
 ## अग्न आयाहि
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्न आ᳓ याहि वीत᳓य इ᳓त्याह ।  
@@ -598,6 +605,7 @@ therefore seed is deposited in front.
 </details>
 
 ## प्रवो वाजा
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ वो वा᳓जा᳓ इ᳓त्य᳓न्वाह ।  
@@ -759,6 +767,7 @@ therefore seed is deposited in front.
 </details>
 
 ## इदम् असि
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इद᳓म् असि, इद᳓म् असी᳓"त्य् एव᳓ यज्ञ᳓स्य प्रिय᳓न् धा᳓मा᳓व रुन्द्धे ।
@@ -796,12 +805,13 @@ therefore seed is deposited in front.
 </details>
 
 ## सन्तत-वचनम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ङ् काम᳓येत "स᳓र्वम् आ᳓युर् इयाद्" इ᳓ति,  
 "प्र᳓ वो वा᳓जा" इ᳓ति त᳓स्यानू᳓च्य  
 "अ᳓ग्न आ᳓ याहि वीत᳓य" इ᳓ति स᳓न्ततम्  
-उ᳓त्तरम् अर्धर्च᳓म् आ᳓ लभेत ।
+उ᳓त्तरम् अर्धर्च᳓म् आ᳓ लभेत 
 </details>
 
 <details><summary>English</summary>
@@ -872,9 +882,11 @@ Verily by expiration does he make steadfast his inspiration, and he lives all hi
 </details>
 
 ## अर्ध-ऋक्-सन्धानम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ वा᳓ अरत्निँ᳓+++(=elbow)+++ सामिधेनी᳓नाव्ँ वे᳓द …  
+यो᳓ वा᳓ अरत्निँ᳓+++(=elbow)+++ सामिधेनी᳓नाव्ँ वे᳓द …
+ ।
 </details>
 
 <details><summary>English</summary>
@@ -937,7 +949,7 @@ puts his enemy in his elbow.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अर्धर्चौ᳓ स᳓न्दधाति ।  
+अर्धर्चौ᳓ स᳓न्दधाति   
 
 एष᳓ वा᳓ अरत्नि᳓स् सामिधेनी᳓नाम्।  
 य᳓ एवव्ँ᳓ वे᳓द ।  
@@ -982,6 +994,7 @@ He joins the half-verses; this is the elbow of the Samidhenis; he who knows thus
 </details>
 
 ### ऋषिततिः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋ᳓षेर् ऋषेर् वा᳓ एता᳓ नि᳓र्मिता  

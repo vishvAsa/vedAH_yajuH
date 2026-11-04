@@ -3,10 +3,16 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 +++
 गायत्री १८-१९ अनुष्टुप्
 विश्वेदेवा ऋषयः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यु॒क्ष्वा हि दे॑व॒हूत॑माँ॒ अश्वाँ॑ अग्ने र॒थीरि॑व ।  
 नि होता॑ पू॒र्व्यस्स॑दः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Yoke like a charioteer, Agni, The steeds that best invite the gods Set down as ancient Hotr.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -46,6 +52,11 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 श्रद्विश्वा॒ वार्या॑ कृधि ।
 </details>
 
+<details><summary>Keith</summary>
+
+And, O god, for us do thou the gods, Most wise one, call hither; Make all our wishes true;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒त नो॑ देव दे॒वाँ अच्छा॑ वोचो वि॒दुष्ट॑रः ।   
@@ -75,6 +86,11 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 
 त्वँ ह॒ यद्य॑विष्ठ्य॒ सह॑सस्सूनवाहुत ।   
 ऋ॒तावा॑ य॒ज्ञियो॒ भुवः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Since thou, O most young, O son of strength, who art sacrificed to, Art righteous and worthy of sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -108,6 +124,11 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 मू॒र्धा क॒वी र॑यी॒णाम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+This Agni is lord of a thousandfold,. A hundredfold, strength; The sage, the head of wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यम॒ग्निस्स॑ह॒स्रिणो॒ वाज॑स्य श॒तिन॒स्पतिः॑ ।  
@@ -134,6 +155,11 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 
 तन्ने॒मिमृ॒भवो॑ य॒था न॑मस्व॒ सहू॑तिभिः ।  
 नेदी॑यो य॒ज्ञम॒ङ्गि॒रः॒ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Bring him hither with common call Lower to our sacrifice, O Angiras. As the Rbhus bend the felly (of the chariot) [I]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -163,6 +189,11 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 
 तस्मै॑ नू॒नम॒भिद्य॑वे वा॒चा वि॑रूप॒ नित्य॑या ।  
 वृष्णे॑ चोदस्व सुष्टु॒तिम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him, the heavenly, Now with constant voice, O Virupa, To the strong one urge the hymn of praise.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -195,6 +226,11 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 प॒णिङ्गोषु॑ स्तरामहे ।
 </details>
 
+<details><summary>Keith</summary>
+
+What Pani shall we lay low among the kine With the missile of this Agni Who seeth from afar?
+</details>
+
 <details><summary>मूलम्</summary>
 
 कमु॑ ष्विदस्य॒ सेन॑या॒ग्नेरपा॑कचक्षसः ।  
@@ -223,6 +259,11 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 कृ॒शन्न हा॑सु॒रघ्नि॑याः ।
 </details>
 
+<details><summary>Keith</summary>
+
+May not the clans of the gods forsake us, Like the dawns entering the waters, As cows a poor man.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मा नो॑ दे॒वानाव्ँ॒विशᳶ॑ प्रस्ना॒तीरि॑वो॒स्राः ।  
@@ -249,6 +290,11 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 
 मा न॑स्समस्य दू॒ढ्यᳶ॑ परि॑द्वेषसो अँह॒तिः ।  
 ऊ॒र्मिर्न नाव॒मा व॑धीत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Let not the assault Of any ill-minded foe smite us, As a wave a ship.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -282,6 +328,11 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 अमैः॑  [62]  अ॒मित्र॑मर्दय । ((अमै॑र॒मित्र॑??))
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to thee, O Agni, for might, The people sing, O god; With strength [2] trouble thou the foe.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑स्ते अग्न॒ ओज॑से गृ॒णन्ति॑ देव कृ॒ष्टयः॑ ।   
@@ -309,6 +360,11 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 
 कु॒वित्सु नो॒ गवि॑ष्ट॒येऽग्ने॑ सव्ँ॒वेषि॑षो र॒यिम् ।   
 उरु॑कृदु॒रु ण॑स्कृधि ।
+</details>
+
+<details><summary>Keith</summary>
+
+Wilt thou not, O Agni, Bring us wealth for our quest for cattle? O room maker, make room for us.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -344,6 +400,11 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 सव्ँ॒वर्गँ॒ सँ र॒यिञ्ज॑य ।
 </details>
 
+<details><summary>Keith</summary>
+
+Cast us not aside in this great contest, Like a bearer his burden; Gather wealth and conquer it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मा नो॑ अ॒स्मिन्म॑हाध॒ने परा॑ वर्ग्भार॒भृद्य॑था ।  
@@ -376,6 +437,11 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
  वर्धा॑ नो॒ अम॑व॒च्छवः॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+May this terror, this misfortune, O Agni, fasten on another than us; Increase our impetuous strength.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्यम॒स्मद्भि॒या इ॒यमग्ने॒ सिष॑क्तु दु॒च्छुना॑ ।   
@@ -404,6 +470,11 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 
 यस्याजु॑षन्नम॒स्विन॒श्शमी॒मदु॑र्मखस्य वा ।  
 तङ्घेद॒ग्निर्वृ॒धाव॑ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+The reverent or generous man In whose offering he hath delighted, Agni aideth indeed with furtherance.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -435,6 +506,11 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 यत्रा॒हमस्मि॒ ताँ अ॑व ।
 </details>
 
+<details><summary>Keith</summary>
+
+From a far [3] region Come hither to these lower ones, Favour those in the region where I am.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पर॑स्या॒ अधि॑ सव्ँ॒वतोऽव॑राँ अ॒भ्या त॑र ।  
@@ -464,13 +540,19 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 अधा॑ ते सु॒म्नमी॑महे ।
 </details>
 
+<details><summary>Keith</summary>
+
+Since we have known of old Of thy help, O Agni, as a father's, Now we seek thy favour.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒द्मा हि ते॑ पु॒रा व॒यमग्ने॑ पि॒तुर्यथाव॑सः ।  
 अधा॑ ते सु॒म्नमी॑महे ।
-<summary>पद-पाठः</summary>
+</details>
 
-ails>
+<details><summary>पद-पाठः</summary>
+
 वि॒द्म । हि । ते॒ । पु॒रा । व॒यम् । अग्ने॑ । पि॒तुः । यथा॑ । अव॑सः ॥ अध॑ । ते । सु॒म्नम् । ई॒म॒हे॒ ॥   
 </details>
 
@@ -766,6 +848,11 @@ Der einem mächt'gen Schützen gleich und einem scharfgehörnten Stier Die Burge
 वर्षि॑ष्ठाय क्षिती॒नामू॒र्जो नप्त्रे॒ सह॑स्वते ।
 </details>
 
+<details><summary>Keith</summary>
+
+O friends, together (offer) fit Food and praise to Agni, Highest over the folk, The son of strength, the mighty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सखा॑य॒स्सव्ँव॑स्स॒म्यञ्च॒मिषँ॒ स्तोम॑ञ्चा॒ग्नये॑ ।   
@@ -792,6 +879,11 @@ Der einem mächt'gen Schützen gleich und einem scharfgehörnten Stier Die Burge
 
 सँस॒मिद्यु॑वसे वृष॒न्नग्ने॒ विश्वा॑न्य॒र्य आ ।  
 इ॒डस्प॒दे समि॑ध्यसे॒ स नो॒ वसू॒न्या भ॑र ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Thou gatherest, O strong one, All that belongeth, O Agni, to the niggard; Thou art kindled in the place of offering; Do thou bear us good things.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -821,6 +913,11 @@ Der einem mächt'gen Schützen gleich und einem scharfgehörnten Stier Die Burge
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा॑पते॒  ..
+</details>
+
+<details><summary>Keith</summary>
+
+O Prajapati.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -862,6 +959,11 @@ Der einem mächt'gen Schützen gleich und einem scharfgehörnten Stier Die Burge
 स वे॑द॒
 </details>
 
+<details><summary>Keith</summary>
+
+He knoweth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स वे॑द॒
@@ -893,6 +995,11 @@ Der einem mächt'gen Schützen gleich und einem scharfgehörnten Stier Die Burge
 सोमा॑पूषणा
 </details>
 
+<details><summary>Keith</summary>
+
+O Soma and Pusan.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोमा॑पूषणा
@@ -915,6 +1022,11 @@ Der einem mächt'gen Schützen gleich und einem scharfgehörnten Stier Die Burge
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमौ दे॒वौ ॥ [64]   
+</details>
+
+<details><summary>Keith</summary>
+
+These gods.
 </details>
 
 <details><summary>मूलम्</summary>

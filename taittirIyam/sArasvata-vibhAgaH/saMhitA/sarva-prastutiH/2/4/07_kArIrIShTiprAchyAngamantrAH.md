@@ -6,6 +6,7 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 २ त्रिष्टुप्, ११ पङ्क्तिः,  
 
 विश्वेदेवा ऋषयः ।
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मा॒रु॒तम॑सि म॒रुता॒मोजो॒ऽपान्धारा॑म्भिन्द्धि
@@ -15,6 +16,11 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 
 मा॒रु॒तम॑सि ।  
 म॒रुता॒मोजः॑ +++(असि)+++।  
+</details>
+
+<details><summary>Keith</summary>
+
+Thou I art connected with the Maruts, thou art the force of the Maruts,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -50,6 +56,11 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 अपान्धारा॑म्भिन्द्धि ।
 </details>
 
+<details><summary>Keith</summary>
+
+cleave the stream of the waters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपान्धारा॑म्भिन्द्धि ।
@@ -62,13 +73,31 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒मय॑त मरुतश्श्ये॒नमा॒यिन॒म्मनो॑जवसव्ँ॒वृष॑णँ सुवृ॒क्तिम् ।   
-येन॒ शर्ध॑ उ॒ग्रमव॑सृष्ट॒मेति॒ तद॑श्विना॒ परि॑ धत्तँ स्व॒स्ति ।
+र॒मय॑त मरुतश्श्ये॒नमा॒यिन॒म्मनो॑जवसव्ँ॒वृष॑णँ सुवृ॒क्तिम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Stay, O Maruts, the speeding falcon, Swift as mind, the strong, the glorious;
 </details>
 
 <details><summary>मूलम्</summary>
 
-र॒मय॑त मरुतश्श्ये॒नमा॒यिन॒म्मनो॑जवसव्ँ॒वृष॑णँ सुवृ॒क्तिम् ।   
+र॒मय॑त मरुतश्श्ये॒नमा॒यिन॒म्मनो॑जवसव्ँ॒वृष॑णँ सुवृ॒क्तिम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+येन॒ शर्ध॑ उ॒ग्रमव॑सृष्ट॒मेति॒ तद॑श्विना॒ परि॑ धत्तँ स्व॒स्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+That whereby the dread host goeth set loose, Do ye, O Aśvins, put around; hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
 येन॒ शर्ध॑ उ॒ग्रमव॑सृष्ट॒मेति॒ तद॑श्विना॒ परि॑ धत्तँ स्व॒स्ति ।
 </details>
 
@@ -87,6 +116,11 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 पु॒रो॒वा॒तो वर्ष॑ञ्जि॒न्वरा॒वृत्स्वाहा॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+East wind, raining, quicken; Ravat! Hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒रो॒वा॒तो वर्ष॑ञ्जि॒न्वरा॒वृत्स्वाहा॑ ।  
@@ -100,6 +134,11 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा॒ताव॒द्वर्ष॑न्नु॒ग्ररा॒वृत्स्वाहा॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Storming, raining, dread; Ravat! Hail!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -117,6 +156,11 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 स्त॒नय॒न्वर्ष॑न्भी॒मरा॒वृत्स्वाहा॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thundering, raining, formidable; Ravat! Hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्त॒नय॒न्वर्ष॑न्भी॒मरा॒वृत्स्वाहा॑ ।  
@@ -130,6 +174,11 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒न॒श॒न्य॑व॒स्फूर्ज॑न्दि॒द्युद्वर्ष॑न्त्वे॒षरा॒वृत्स्वाहा॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Thundering without lightning, lightning, raining, resplendent; Ravat! Hail!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -147,6 +196,11 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 अ॒ति॒रा॒त्रव्ँवर्ष॑न्पू॒र्तिरा॒वृत्स्वाहा॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Raining over night, satisfying; Ravat! [1] Hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ति॒रा॒त्रव्ँवर्ष॑न्पू॒र्तिरा॒वृत्स्वाहा॑ ।  
@@ -162,6 +216,11 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 ब॒हु हा॒यम॑वृषा॒दिति॑ श्रु॒तरा॒वृत्स्वाहा॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Famed as having rained I much; Ravat! Hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब॒हु हा॒यम॑वृषा॒दिति॑ श्रु॒तरा॒वृत्स्वाहा॑ ।  
@@ -175,13 +234,29 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒तप॑ति॒  वर्ष॑न्वि॒राडा॒वृत्स्वाहा॑ ।
+</details>
 
-अ॒व॒स्फूर्ज॑न्दि॒द्युद्वर्ष॑न्भू॒तरा॒वृत्स्वाहा॑ ।
+<details><summary>Keith</summary>
+
+Raining while the sun shines, radiant;
 </details>
 
 <details><summary>मूलम्</summary>
 
 आ॒तप॑ति॒  वर्ष॑न्वि॒राडा॒वृत्स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒व॒स्फूर्ज॑न्दि॒द्युद्वर्ष॑न्भू॒तरा॒वृत्स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Ravat! Hail! Thundering, lightning, raining, waxing great; Ravat! Hail!
+</details>
+
+<details><summary>मूलम्</summary>
 
 अ॒व॒स्फूर्ज॑न्दि॒द्युद्वर्ष॑न्भू॒तरा॒वृत्स्वाहा॑ ।
 </details>
@@ -194,6 +269,11 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मान्दा॒ वाशा॒श्शुन्ध्यू॒रजि॑राः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Gladdening, obedient, purifying, agile,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -209,6 +289,11 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्योति॑ष्मती॒स्तम॑स्वरी॒रुन्द॑ती॒स्सुफे॑नाः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Full of light, full of darkness, flooding, with fair foam,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -228,6 +313,11 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 मित्र॑भृतः॒ क्षत्र॑भृत॒स्सुरा॑ष्ट्रा इ॒ह मा॑ऽवत ।
 </details>
 
+<details><summary>Keith</summary>
+
+Supporting friends, supporting the warrior caste, With fair realms, do ye help me.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मित्र॑भृतः॒ क्षत्र॑भृत॒स्सुरा॑ष्ट्रा इ॒ह मा॑ऽवत ।
@@ -243,6 +333,11 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृष्णो॒ अश्व॑स्य स॒न्दान॑मसि॒ वृष्ट्यै॒ त्वोप॑ नह्यामि ॥ [20]  
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the fetter of the strong steed; for rain I yoke thee.
 </details>
 
 <details><summary>मूलम्</summary>

@@ -6,6 +6,7 @@ title = "०२ अग्नीषोमीयादि"
 प्रजापतिऋषिः ।
 
 ## त्वष्टुः सोमयागः
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्वष्टा॑ ह॒तपु॑त्रो॒ वीन्द्रँ॒ सोम॒माह॑र॒त्तस्मि॒न्निन्द्र॑ उपह॒वमै॑च्छत॒ तन्नोपा॑ह्वयत पु॒त्रम्मे॑ऽवधी॒रिति॒ स य॑ज्ञवेश॒सङ्कृ॒त्वा प्रा॒सहा॒ सोम॑मपिब॒त्तस्य॒ यद॒त्यशि॑ष्यत॒ तत्त्वष्टा॑हव॒नीय॒मुप॒ प्राव॑र्तय॒त्स्वाहेन्द्र॑शत्रुर्वर्ध॒स्वेति॒ यदव॑र्तय॒त्तद्वृ॒त्रस्य॑ वृत्र॒त्वम्  
@@ -13,47 +14,83 @@ title = "०२ अग्नीषोमीयादि"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वष्टा॑ ह॒तपु॑त्रो॒ वीन्द्रँ॒ सोम॒माह॑रत् ।  
-तस्मि॒न्न् इन्द्र॑ उपह॒वम् ऐ॑च्छत ।  
-तन् नोपा॑ह्वयत -  
-"पु॒त्रम् मे॑ऽवधी॒र्" इति॑ ।  
+त्वष्टा॑ ह॒तपु॑त्रो॒ वीन्द्रँ॒ सोम॒माह॑रत् ।
 </details>
 
 <details><summary>Keith</summary>
 
-Tvastr, his son being slain, offered Soma excluding Indra. Indra desired an invitation to the rite, but he did not invite him; (saying) 'Thou hast slain my son.' 
+Tvastr, his son being slain, offered Soma excluding Indra.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-त्वष्टा॑ ह॒तपु॑त्रो॒ वीन्द्रँ॒ सोम॒माह॑रत् ।  
-तस्मि॒न्निन्द्र॑ उपह॒वमै॑च्छत ।  
-तन्नोपा॑ह्वयत ।  
-पु॒त्रम्मे॑ऽवधी॒रिति॑ ।  
+त्वष्टा॑ ह॒तपु॑त्रो॒ वीन्द्रँ॒ सोम॒माह॑रत् ।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मि॒न्न् इन्द्र॑ उपह॒वम् ऐ॑च्छत ।  
+तन् नोपा॑ह्वयत -
+</details>
+
+<details><summary>Keith</summary>
+
+Indra desired an invitation to the rite, but he did not invite him;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मि॒न्निन्द्र॑ उपह॒वमै॑च्छत ।  
+तन्नोपा॑ह्वयत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"पु॒त्रम् मे॑ऽवधी॒र्" इति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+(saying) 'Thou hast slain my son.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+पु॒त्रम्मे॑ऽवधी॒रिति॑ ।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स य॑ज्ञ-वेश॒सङ् कृ॒त्वा प्रा॒सहा॒ सोम॑म् अपिबत् ।  
-तस्य॒ यद् अ॒त्यशि॑ष्यत॒ ..   
-तत् त्वष्टा॑हव॒नीय॒म् उप॒ प्राव॑र्तयत् ।   
-"स्वाहेन्द्र॑-शत्रुर्+++(=शातयिता)+++ वर्ध॒स्वे"ति॑ ।  
+तस्य॒ यद् अ॒त्यशि॑ष्यत॒ ..
 </details>
 
 <details><summary>Keith</summary>
 
-He made a disturbance of the sacrifice, and forcibly drank the Soma. The remains of it Tvastr cast upon the Ahavaniya (fire), (saying), 'Hail! wax great, Indra's foe.' 
+He made a disturbance of the sacrifice, and forcibly drank the Soma.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 स य॑ज्ञवेश॒सङ्कृ॒त्वा प्रा॒सहा॒ सोम॑मपिबत् ।  
-तस्य॒ यद॒त्यशि॑ष्यत॒ ..   
+तस्य॒ यद॒त्यशि॑ष्यत॒ ..
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत् त्वष्टा॑हव॒नीय॒म् उप॒ प्राव॑र्तयत् ।   
+"स्वाहेन्द्र॑-शत्रुर्+++(=शातयिता)+++ वर्ध॒स्वे"ति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The remains of it Tvastr cast upon the Ahavaniya (fire), (saying), 'Hail! wax great, Indra's foe.'
+</details>
+
+<details><summary>मूलम्</summary>
+
 तत्त्वष्टा॑हव॒नीय॒मुप॒ प्राव॑र्तयत् ।   
-स्वाहेन्द्र॑शत्रुर्वर्ध॒स्वेति॑ ।  
+स्वाहेन्द्र॑शत्रुर्वर्ध॒स्वेति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -78,7 +115,6 @@ He made a disturbance of the sacrifice, and forcibly drank the Soma. The remains
 In that he cast it (avartayat), Vrtra is Vrtra; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यदव॑र्तय॒त्तद्वृ॒त्रस्य॑ वृत्र॒त्वम् ।
@@ -100,9 +136,10 @@ In that he cast it (avartayat), Vrtra is Vrtra;
 </details>
 
 ## वृत्र-जन्म
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अब्र॑वी॒थ्  - स्वाहेन्द्र॑-शत्रुर् वर्ध॒स्वेति॒,  
+यद् अब्र॑वी॒थ्  - स्वाहेन्द्र॑-शत्रुर् वर्ध॒स्वेति॒ ।  
 तस्मा॑द् अ॒स्येन्द्र॒श् शत्रु॑र् अभवत् ।  
 </details>
 
@@ -110,8 +147,6 @@ In that he cast it (avartayat), Vrtra is Vrtra;
 
 in that he said, 'Hail! wax great, Indra's foe', therefore [1] Indra became his foe. 
 </details>
-
-
 
 <details><summary>मूलम्</summary>
 
@@ -131,21 +166,32 @@ in that he said, 'Hail! wax great, Indra's foe', therefore [1] Indra became his 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स +++(वृत्रः)+++ स॒म्भव॑न्न् अ॒ग्नी-षोमा॑व् अ॒भि सम॑भवत् ।   
-स इ॑षु-मा॒त्रम् इ॑षु-मात्रव्ँ॒ विष्व॑ङ्ङ् अवर्धत ।   
+स +++(वृत्रः)+++ स॒म्भव॑न्न् अ॒ग्नी-षोमा॑व् अ॒भि सम॑भवत् ।
 </details>
 
 <details><summary>Keith</summary>
 
-He sprang into life and came into union with Agni and Soma.  
-He grew on all sides an arrow(shot), 
+He sprang into life and came into union with Agni and Soma.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-स स॒म्भव॑न्न॒ग्नीषोमा॑व॒भि सम॑भवत् ।   
-स इ॑षुमा॒त्रमि॑षुमात्रव्ँ॒विष्व॑ङ्ङवर्धत ।   
+स स॒म्भव॑न्न॒ग्नीषोमा॑व॒भि सम॑भवत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स इ॑षु-मा॒त्रम् इ॑षु-मात्रव्ँ॒ विष्व॑ङ्ङ् अवर्धत ।
+</details>
+
+<details><summary>Keith</summary>
+
+He grew on all sides an arrow(shot),
+</details>
+
+<details><summary>मूलम्</summary>
+
+स इ॑षुमा॒त्रमि॑षुमात्रव्ँ॒विष्व॑ङ्ङवर्धत ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -155,21 +201,32 @@ He grew on all sides an arrow(shot),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स इ॒माल्ँ लो॒कान् अ॑वृणोत् ।  
-यद् इ॒माल्ँ लो॒कान् अवृ॑णो॒त् - तद् वृ॒त्रस्य॑ वृत्र॒त्वम् ।   
+स इ॒माल्ँ लो॒कान् अ॑वृणोत् ।
 </details>
 
 <details><summary>Keith</summary>
 
-he enveloped these worlds.  
-Because he enveloped these worlds, therefore is Vrtra, Vrtra.
+he enveloped these worlds.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-स इ॒माल्ँ लो॒कान॑वृणोत् ।  
-यदि॒माल्ँ लो॒कानवृ॑णो॒त्तद्वृ॒त्रस्य॑ वृत्र॒त्वम् ।   
+स इ॒माल्ँ लो॒कान॑वृणोत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् इ॒माल्ँ लो॒कान् अवृ॑णो॒त् - तद् वृ॒त्रस्य॑ वृत्र॒त्वम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Because he enveloped these worlds, therefore is Vrtra, Vrtra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि॒माल्ँ लो॒कानवृ॑णो॒त्तद्वृ॒त्रस्य॑ वृत्र॒त्वम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -183,24 +240,37 @@ Because he enveloped these worlds, therefore is Vrtra, Vrtra.
 </details>
 
 ## प्रजापति-वज्रम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् इन्द्रो॑ऽबिभेत् ।  
-स प्र॒जाप॑ति॒म् उपा॑धावत् -  
-"शत्रु॑र् मेऽज॒नी"ति॑ ।  
+तस्मा॒द् इन्द्रो॑ऽबिभेत् ।
 </details>
 
 <details><summary>Keith</summary>
 
-Indra feared him. He ran up to Prajapati, (saying), 'A foe has sprung up for me.' 
+Indra feared him.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-तस्मा॒द् इन्द्रो॑ऽबिभेत् ।  
+तस्मा॒द् इन्द्रो॑ऽबिभेत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स प्र॒जाप॑ति॒म् उपा॑धावत् -  
+"शत्रु॑र् मेऽज॒नी"ति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+He ran up to Prajapati, (saying), 'A foe has sprung up for me.'
+</details>
+
+<details><summary>मूलम्</summary>
+
 स प्र॒जाप॑ति॒मुपा॑धावत् ।  
-शत्रु॑र्मेऽज॒नीति॑ ।  
+शत्रु॑र्मेऽज॒नीति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -224,7 +294,6 @@ Indra feared him. He ran up to Prajapati, (saying), 'A foe has sprung up for me.
 
 He dipped his bolt and gave it to him, (saying), 'Slay with it.' 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -252,7 +321,6 @@ He dipped his bolt and gave it to him, (saying), 'Slay with it.'
 He went against (him) with it. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तेना॒भ्या॑यत ।  
@@ -269,24 +337,37 @@ He went against (him) with it.
 </details>
 
 ## अग्नी-षोमौ
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव् अ॑ब्रूताम् अ॒ग्नी-षोमौ॒  
-"मा प्र हाः॑ ।  
-आ॒वम् अ॒न्तस् स्व॒" इति॑ ।  
+ताव् अ॑ब्रूताम् ।  
+अ॒ग्नी-षोमौ॒ "मा प्र हाः॑ ।
 </details>
 
 <details><summary>Keith</summary>
 
-Agni and Soma said, 'Hurl it not [2]; we are within.'
+Agni and Soma said, 'Hurl it not [2];
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 ताव॑ब्रूताम् ।  
-अ॒ग्नीषोमौ॒ मा प्र हाः॑ ।  
-आ॒वम॒न्तस्स्व॒ इति॑ ।  
+अ॒ग्नीषोमौ॒ मा प्र हाः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒वम् अ॒न्तस् स्व॒" इति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+we are within.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒वम॒न्तस्स्व॒ इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -311,7 +392,6 @@ Agni and Soma said, 'Hurl it not [2]; we are within.'
 
 'Ye are mine', he replied, 'come to me.' 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -366,7 +446,6 @@ They asked for a share;
 he gave them at the full moon this offering for Agni and Soma on eleven potsherds. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ताभ्या॑मे॒तम॑ग्नीषो॒मीय॒मेका॑दशकपालम्पू॒र्णमा॑से॒ प्राय॑च्छत् ।
@@ -398,7 +477,6 @@ he gave them at the full moon this offering for Agni and Soma on eleven potsherd
 They said, 'We are bitten all round, and cannot come.' 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ताव॑ब्रूताम् ।  
@@ -419,22 +497,34 @@ They said, 'We are bitten all round, and cannot come.'
 </details>
 
 ## शीत-रूरौ
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स इन्द्र॑ आ॒त्मन॑श् शीत-रू॒राव् +++(=तापौ [रोगौ])+++ अ॑जनयत् ।  
+स इन्द्र॑ आ॒त्मन॑श् शीत-रू॒राव् +++(=तापौ [रोगौ])+++ अ॑जनयत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Indra produced from himself cold and fever heat;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स इन्द्र॑ आ॒त्मन॑श्शीतरू॒राव॑जनयत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तच् छी॑त-रू॒रयो॒र् जन्म॑ ।
 </details>
 
 <details><summary>Keith</summary>
 
-Indra produced from himself cold and fever heat;  
-that was the origin of cold and fever heat. 
+that was the origin of cold and fever heat.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-स इन्द्र॑ आ॒त्मन॑श्शीतरू॒राव॑जनयत् ।  
 तच्छी॑तरू॒रयो॒र्जन्म॑ ।
 </details>
 
@@ -452,7 +542,7 @@ that was the origin of cold and fever heat.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वँ शी॑तरू॒रयो॒र् जन्म॒ वेद॒   
+य ए॒वँ शी॑तरू॒रयो॒र् जन्म॒ वेद॒ ।   
 नैनँ॑ शीतरू॒रौ ह॑तः।  
 </details>
 
@@ -460,7 +550,6 @@ that was the origin of cold and fever heat.
 
 Him who knows thus the origin of cold and fever heat [3] neither cold nor fever heat slays. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -489,7 +578,6 @@ Him who knows thus the origin of cold and fever heat [3] neither cold nor fever 
 By them he led him on, and as he gaped Agni and Soma went forth from him. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ताभ्या॑मेनम॒भ्य॑नयत् ।  
@@ -507,6 +595,7 @@ By them he led him on, and as he gaped Agni and Soma went forth from him.
 </details>
 
 ## जृम्भणे वचनम्
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्राणापा॒नौ वा ए॑न॒न्तद॑जहिताम्प्रा॒णो वै दक्षो॑ऽपा॒नᳵ क्रतु॒स्तस्मा॑ज्जञ्ज॒भ्यमा॑नो ब्रूया॒न्मयि॑ दक्षक्र॒तू इति॑ प्राणापा॒नावे॒वात्मन्ध॑त्ते॒ सर्व॒मायु॑रेति
@@ -521,7 +610,6 @@ By them he led him on, and as he gaped Agni and Soma went forth from him.
 
 Then expiration and inspiration deserted him; 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -550,7 +638,6 @@ Then expiration and inspiration deserted him;
 skill is expiration, intelligence is inspiration; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 प्रा॒णो वै दक्षो॑ऽपा॒नᳵ क्रतुः॑  ।  
@@ -576,7 +663,6 @@ skill is expiration, intelligence is inspiration;
 
 therefore one who gapes should say, 'Skill and intelligence (remain) in me'; 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -604,7 +690,6 @@ therefore one who gapes should say, 'Skill and intelligence (remain) in me';
 verily he places expiration and inspiration in himself 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 प्रा॒णा॒पा॒नावे॒वात्मन्ध॑त्ते ।
@@ -630,7 +715,6 @@ verily he places expiration and inspiration in himself
 and lives all his days. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सर्व॒मायु॑रेति  ।
@@ -646,13 +730,13 @@ and lives all his days.
 ततोऽपमृत्युपरिहारेण सर्वमायुः प्राप्नोति।  
 </details>
 
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स दे॒वता॑ वृ॒त्रान्नि॒र्हूय॒ वार्त्र॑घ्नँ ह॒विᳶ पू॒र्णमा॑से॒ निर॑वप॒द्घ्नन्ति॒ वा ए॑नम्पू॒र्णमा॑स॒ आ [11] अ॒मा॒वा॒स्या॑याम्प्याययन्ति॒ तस्मा॒द्वार्त्र॑घ्नी पू॒र्णमा॒सेऽनू॑च्येते॒ वृध॑न्वती अमावा॒स्या॑याम्
 </details>
 
 ## वार्त्रघ्नी, वृधन्वती
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स +++(इन्द्रो)+++ दे॒वता॑ वृ॒त्रान् नि॒र्हूय॒  
@@ -664,7 +748,6 @@ and lives all his days.
 He, having called off the gods from Vrtra,  
 offered at the full moon the oblation to the Vrtra slayer;
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -695,7 +778,6 @@ they slay him at the full moon [4],
 but make him swell at the new moon; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 घ्नन्ति॒ वा ए॑नम्पू॒र्णमा॑से ।  
@@ -723,7 +805,6 @@ but make him swell at the new moon;
 therefore verses are uttered at the full moon referring to the slaying of Vrtra,  
 at the new moon referring to his increase. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -757,7 +838,6 @@ at the new moon referring to his increase.
 Having performed the oblation to the Vrtra slayer, he took his bolt and again went against (him). 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तत्सँ॒स्थाप्य॒ वार्त्र॑घ्नँ ह॒विर्वज्र॑मा॒दाय॒ पुन॑र॒भ्या॑यत।  
@@ -776,21 +856,35 @@ Having performed the oblation to the Vrtra slayer, he took his bolt and again we
 </details>
 
 ## नक्षत्र-चित्र-विहितत्वम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते अ॑ब्रूताम् द्यावा॑पृथि॒वी -  
-"मा प्र हाः॑ - आ॒वयो॒र् वै श्रि॒त" इति॑ ।  
+ते अ॑ब्रूताम् द्यावा॑पृथि॒वी -
 </details>
 
 <details><summary>Keith</summary>
 
-Sky and earth said, 'Hurl it not; he rests in us two.' 
+Sky and earth said, 'Hurl it not;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ते अ॑ब्रूताम् ।  
-द्यावा॑पृथि॒वी मा प्र हा॑रा॒वयो॒र्वै श्रि॒त इति॑ ।  
+ते अ॑ब्रूताम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"मा प्र हाः॑ - आ॒वयो॒र् वै श्रि॒त" इति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+he rests in us two.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्यावा॑पृथि॒वी मा प्र हा॑रा॒वयो॒र्वै श्रि॒त इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -798,28 +892,51 @@ Sky and earth said, 'Hurl it not; he rests in us two.'
 ते इत्यादि । पूर्वं वर्धमानो वृत्रो ये द्यावापृथिव्यौ अभिसमभवत् ते अब्रूतां मा आवां प्रहाः प्रहार्षीः आवयोः खल्वसौ वृत्रः श्रितः तस्मादस्मदाश्रयं प्रहर्तुं नार्हसीति ।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते अ॑ब्रूता॒म्  
+"वरव्ँ॑ वृणावहै ।
+</details>
+
+<details><summary>Keith</summary>
+
+They said, 'Let us choose a boon.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+ते अ॑ब्रूताम् ।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते अ॑ब्रूता॒म् -  
-"वरव्ँ॑ वृणावहै ।"  
-"नक्ष॑त्र-विहिता॒ऽहम् असा॒नी"त्य् अ॒साव् अ॑ब्रवीत् ,  
+"वरव्ँ॑ वृणावहै ।  
+"नक्ष॑त्र-विहिता॒ऽहम् असा॒नी"त्य् अ॒साव् अ॑ब्रवीत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+'May I be adorned with the Naksatras', said yonder (sky);
+</details>
+
+<details><summary>मूलम्</summary>
+
+वरव्ँ॑वृणावहै ।  
+नक्ष॑त्रविहिता॒ऽहमसा॒नीत्य॒साव॑ब्रवीत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "चि॒त्र-वि॑हिता॒ऽहम्" इती॒यम्।
 </details>
 
 <details><summary>Keith</summary>
 
-They said, 'Let us choose a boon.'  
-'May I be adorned with the Naksatras', said yonder (sky);  
-'May I be adorned with variegated things', said this (earth).  
+'May I be adorned with variegated things', said this (earth).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-ते अ॑ब्रूताम् ।  
-वरव्ँ॑वृणावहै ।  
-नक्ष॑त्रविहिता॒ऽहमसा॒नीत्य॒साव॑ब्रवीत् ।  
 चि॒त्र-वि॑हिता॒ऽहमिती॒यम् ।
 </details>
 
@@ -835,21 +952,31 @@ They said, 'Let us choose a boon.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒न् नक्ष॑त्र-विहिता॒ऽसौ, चि॒त्रवि॑हिते॒यम् ।  
-
-य ए॒वन् द्यावा॑पृथि॒व्योः वरव्ँ॒ वेदै॑नव्ँ॒ वरो॑ गच्छति  
+तस्मा॒न् नक्ष॑त्र-विहिता॒ऽसौ, चि॒त्रवि॑हिते॒यम् ।
 </details>
 
 <details><summary>Keith</summary>
 
-Therefore yonder (sky) is adorned with the Naksatras, this (earth) with variegated things. He who knows thus the boon of sky and earth [5] attains a boon. 
+Therefore yonder (sky) is adorned with the Naksatras, this (earth) with variegated things.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 चि॒त्रवि॑हिता॒ऽहमिती॒यम् ..  
-तस्मा॒न्नक्ष॑त्रविहिता॒ऽसौ चि॒त्रवि॑हिते॒यम् ।  
+तस्मा॒न्नक्ष॑त्रविहिता॒ऽसौ चि॒त्रवि॑हिते॒यम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य ए॒वन् द्यावा॑पृथि॒व्योः वरव्ँ॒ वेदै॑नव्ँ॒ वरो॑ गच्छति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He who knows thus the boon of sky and earth [5] attains a boon.
+</details>
+
+<details><summary>मूलम्</summary>
 
 य ए॒वन्द्यावा॑पृथि॒व्योः वरव्ँ॒वेदैनव्ँ॒ (/वेदै॑नं॒) वरो॑ गच्छति।
 </details>
@@ -875,7 +1002,6 @@ Therefore yonder (sky) is adorned with the Naksatras, this (earth) with variegat
 Indra thus impelled by these two slew Vrtra. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स आ॒भ्यामे॒व प्रसू॑त॒ इन्द्रो॑ वृ॒त्रम॑हन् ।
@@ -892,6 +1018,7 @@ Indra thus impelled by these two slew Vrtra.
 </details>
 
 ## अग्नीषोमयोस् तेजसी
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते दे॒वा वृ॒त्रँ ह॒त्वा ऽग्नीषोमा॑व् अब्रुवन् ।  
@@ -902,7 +1029,6 @@ Indra thus impelled by these two slew Vrtra.
 
 The gods having slain Vrtra said to Agni and Soma, 'Bear the offering for us.' 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -933,7 +1059,6 @@ The gods having slain Vrtra said to Agni and Soma, 'Bear the offering for us.'
 
 They said, 'We two have lost our brilliance, our brilliance is in Vrtra.' 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -967,7 +1092,6 @@ They said, 'Who is there to go for it?'
 'The cow is the friend of all.' 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वृ॒त्रे वै त्ययो॒स्तेज॒ इति॒ ते॑ऽब्रुवन् ।  
@@ -996,7 +1120,22 @@ They said, 'Who is there to go for it?'
 
 साऽब्र॑वी॒द्  -  
 
-> "वरव्ँ॑ वृणै ।  
+> "वरव्ँ॑ वृणै ।
+</details>
+
+<details><summary>Keith</summary>
+
+She said [6], 'Let me choose a boon;
+</details>
+
+<details><summary>मूलम्</summary>
+
+साऽब्र॑वीत्  ।  
+वरव्ँ॑वृणै ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मय्य् ए॒व स॒तोभये॑न +++(→घृतेन पयसा च)+++ भुनजाध्वा॒" 
 
 इति॑ ।
@@ -1004,14 +1143,11 @@ They said, 'Who is there to go for it?'
 
 <details><summary>Keith</summary>
 
-She said [6], 'Let me choose a boon; ye shall feed off both when they are in me.'  
+ye shall feed off both when they are in me.'
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-साऽब्र॑वीत्  ।  
-वरव्ँ॑वृणै ।  
 मय्ये॒व स॒तोभये॑न भुनजाध्वा॒ इति॑ ।
 </details>
 
@@ -1032,20 +1168,32 @@ She said [6], 'Let me choose a boon; ye shall feed off both when they are in me.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् गौर् आह॑रत् ।  
-तस्मा॒द् गवि॑ स॒तोभये॑न भुञ्जते ।  
+तद् गौर् आह॑रत् ।
 </details>
 
 <details><summary>Keith</summary>
 
-The cow brought the (brilliance); therefore they feed off both things that are in the cow; 
+The cow brought the (brilliance);
 </details>
 
 <details><summary>मूलम्</summary>
 
-तद् गौर् आह॑रत् ।  
-तस्मा॒द् गवि॑ स॒तोभये॑न भुञ्जते ।  
+तद् गौर् आह॑रत् ।
+</details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॒द् गवि॑ स॒तोभये॑न भुञ्जते ।
+</details>
+
+<details><summary>Keith</summary>
+
+therefore they feed off both things that are in the cow;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मा॒द् गवि॑ स॒तोभये॑न भुञ्जते ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1064,7 +1212,6 @@ The cow brought the (brilliance); therefore they feed off both things that are i
 ghee indeed is the brilliance of Agni, milk the brilliance of Soma. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ए॒तद्वा अ॒ग्नेस्तेजो॒ यद्घृ॒तम्,  
@@ -1076,7 +1223,6 @@ ghee indeed is the brilliance of Agni, milk the brilliance of Soma.
 तदित्यादि । गतम् ॥
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य ए॒वम् अ॒ग्नीषोम॑यो॒स् तेजो॒ वेद॑ -  
@@ -1087,7 +1233,6 @@ ghee indeed is the brilliance of Agni, milk the brilliance of Soma.
 
 He who knows thus the brilliance of Agni and Soma becomes brilliant. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1102,12 +1247,11 @@ He who knows thus the brilliance of Agni and Soma becomes brilliant.
 </details>
 
 ## देवता
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्रह्मवा॒दिनो॑ वदन्ति किन्देव॒त्य॑म्पौर्णमा॒समिति॑ प्राजाप॒त्यमिति॑ ब्रूया॒त्तेनेन्द्र॑ञ्ज्ये॒ष्ठम्पु॒त्रन्नि॒रवा॑सायय॒दिति॒ तस्मा॑ज्ज्ये॒ष्ठम्पु॒त्रन्धने॑न नि॒रव॑साययन्ति ॥ [14]
 </details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1140,22 +1284,33 @@ The theologians say, 'What is the deity of the full moon (rite)?'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒जा॒प॒त्यम् इति॑ ब्रूयात् -  
+प्रा॒जा॒प॒त्यम् इति॑ ब्रूयात् -
+</details>
 
-> तेनेन्द्र॑ञ् ज्ये॒ष्ठम् पु॒त्रन् नि॒रवा॑सायय॒द्  
+<details><summary>Keith</summary>
+
+He should reply, 'Prajapati;
+</details>
+
+<details><summary>मूलम्</summary>
+
+कि॒न्दे॒व॒त्य॑म्पौर्णमा॒समिति॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तेनेन्द्र॑ञ् ज्ये॒ष्ठम् पु॒त्रन् नि॒रवा॑सायय॒द् ।  
 
 इति॑ ।
 </details>
 
 <details><summary>Keith</summary>
 
-He should reply, 'Prajapati; by means of it he established his eldest son, Indra.' 
+by means of it he established his eldest son, Indra.'
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-कि॒न्दे॒व॒त्य॑म्पौर्णमा॒समिति॑ ।  
 प्रा॒जा॒प॒त्यमिति॑ ब्रूयात् ।  
 तेनेन्द्र॑ञ्ज्ये॒ष्ठम्पु॒त्रन्नि॒रवा॑सायय॒दिति॑ ।
 </details>
@@ -1183,7 +1338,6 @@ He should reply, 'Prajapati; by means of it he established his eldest son, Indra
 
 Therefore they establish their eldest sons with wealth.
 </details>
-
 
 <details><summary>मूलम्</summary>
 

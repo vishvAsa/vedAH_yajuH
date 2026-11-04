@@ -6,6 +6,7 @@ title = "०५ अभ्युदयेष्टिः"
 प्रजापतिऋषिः ।
 
 ## सोम-याज्य्-अधिकारः  
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नासो॑मयाजी॒ सन्न॑ये॒दना॑गतव्ँ॒वा ए॒तस्य॒ पयो॒ योऽसो॑मयाजी॒ यदसो॑मयाजी स॒न्नये॑त्परिमो॒ष ए॒व सोऽनृ॑तङ्करो॒त्यथो॒ परै॒व सि॑च्यते सोमया॒ज्ये॑व सन्न॑येत् ।  
@@ -21,11 +22,11 @@ title = "०५ अभ्युदयेष्टिः"
 No one who is not a Soma sacrificer should offer the Samnayya.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 नासो॑मयाजी॒ सन्न॑येत् ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
  न । असो॑मया॒जीत्यसो॑म-या॒जी॒ । समिति॑ । न॒ये॒त् ।  
@@ -51,11 +52,11 @@ No one who is not a Soma sacrificer should offer the Samnayya.
 For the milk of him who is not a Soma sacrificer is imperfect,  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अना॑गतव्ँ॒ वा ए॒तस्य॒ पयो॒ योऽसो॑मयाजी।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अना॑गत॒मित्यना॑-ग॒त॒म् । वै । ए॒तस्य॑ । पयः॑ । यः । असो॑मया॒जीत्यसो॑म-या॒जी॒ ।  
@@ -86,20 +87,19 @@ and does wrong,
 and (his milk) is poured forth in vain.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यदसो॑मयाजी स॒न्नये॑त् ।  
 प॒रि॒मो॒ष ए॒व सोऽनृ॑तङ्करोति ।  
 अथो॒ परै॒व सि॑च्यते ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । असो॑मया॒जीत्यसो॑म-या॒जी॒ । स॒न्नये॒दिति॑ सम्-नये॑त् ।  
 प॒रि॒मो॒ष इति॑ परि-मो॒षः । ए॒व । सः । अनृ॑तम् । क॒रो॒ति॒ ।  
 अथो॒ इति॑ । परेति॑ । ए॒व । सि॒च्य॒ते॒ ।  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -121,11 +121,11 @@ and (his milk) is poured forth in vain.
 A Soma sacrificer only should offer the Samnayya.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सो॒म॒या॒ज्ये॑व सन्न॑येत् ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 । सो॒म॒या॒जीति॑ सोम-या॒जी । ए॒व । समिति॑ । न॒ये॒त् ।  
@@ -148,7 +148,7 @@ A Soma sacrificer only should offer the Samnayya.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पयो॒ वै सोमः॑ ।  
+पयो॒ वै सोमः॑   
 पय॑स् सान्ना॒य्यम्।  
 पय॑सै॒व पय॑ आ॒त्मन् ध॑त्ते ।  
 </details>
@@ -188,11 +188,13 @@ verily with milk he places milk in himself.
 </details>
 
 ## अभ्युदयः  
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **वि** वा ए॒तम् प्र॒जया॑ प॒शुभि॑र् +++(वि←)+++**अर्धयति**,  
 **व॒र्धय॑त्य्** अस्य॒ भ्रातृ॑व्यम्,  
-यस्य॑ ह॒विर् निरु॑प्तम् पु॒रस्ता॑च् च॒न्द्रमा॑ **अ॒भ्यु॒॑देति॑** ।  
+यस्य॑ ह॒विर् निरु॑प्तम् पु॒रस्ता॑च् च॒न्द्रमा॑ **अ॒भ्यु॒॑देति॑** ।
+ । ।
 </details>
 
 <details><summary>Keith</summary>
@@ -275,7 +277,6 @@ on whose sacrifice, when offered, it rises in the east [1].
 
 </details>
 
-
 <details><summary>सायण-टीका</summary>
 
 अथाभ्युदयेष्टिं विधत्ते- **वि वा एतामिति।**  
@@ -324,7 +325,6 @@ on whose sacrifice, when offered, it rises in the east [1].
 चन्द्र एतं यजमानं प्रजया पशुभिश्च व्यर्धयत्य्, एवास्य भ्रातृव्यं च वर्धयति।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रे॒धा त॑ण्डु॒लान् वि भ॑जेत् ।  
@@ -332,7 +332,8 @@ on whose sacrifice, when offered, it rises in the east [1].
 तान् अ॒ग्नये॑ दा॒त्रे  
 पु॑रो॒डाश॑म् अ॒ष्टाक॑पालङ् कुर्या॒द्  
 ये स्थवि॑ष्ठा॒स् तान् इन्द्रा॑य प्रदा॒त्रे द॒धँश् च॒रुय्ँ  
-येऽणि॑ष्ठा॒स् तान् विष्ण॑वे शिपि+++(=किरण, गो)+++-वि॒ष्टाय॑ शृ॒ते च॒रुम्  
+येऽणि॑ष्ठा॒स् तान् विष्ण॑वे शिपि+++(=किरण, गो)+++-वि॒ष्टाय॑ शृ॒ते च॒रुम्
+ । ।
 </details>
 
 <details><summary>Keith</summary>
@@ -350,6 +351,7 @@ the smallest (he should give) as a mess in boiled (milk) to Visnu Śipivista.
 ये स्थवि॑ष्ठा॒स् तानिन्द्रा॑य प्रदा॒त्रे द॒धँश् च॒रुम् ।  
 येऽणि॑ष्ठा॒स्तान् विष्ण॑वे शिपिवि॒ष्टाय॑ शृ॒ते च॒रुम् ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 त्रे॒धा । त॒ण्डु॒लान् । वीति॑ । भ॒जे॒त् ।  
@@ -396,7 +398,6 @@ the smallest (he should give) as a mess in boiled (milk) to Visnu Śipivista.
 
 विभज्य च दात्रादि-गुणकाग्न्य्-आदि-देवताभ्यो हविः कुर्यात्।  
 </details>
-
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -446,7 +447,6 @@ and Śipi cattle;
 verily on the sacrifice and cattle he rests.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 य॒ज्ञो वै विष्णुः॑।  
@@ -466,8 +466,8 @@ verily on the sacrifice and cattle he rests.
 पशवश्शिपिरिति । शिपयो रश्मयः तैर्विशिष्टः प्रविष्टः **शिपिविष्टः** । निर्वेष्टितशेपश्शिपिविष्टः । इत्यन्ये । तत्र पशुहेतुत्वात् ताच्छब्द्यम् । यज्ञे पशुषु च प्रतिष्ठितो भवतीत्येव ॥  
 </details>
 
-
 ## सुमना  
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 न द्वे [28]  य॒जे॒त॒ यत्पूर्व॑या सम्प्र॒ति यजे॒तोत्त॑रया छ॒म्बट्कु॑र्या॒द्यदुत्त॑रया सम्प्र॒ति यजे॑त॒ पूर्व॑या छ॒म्बट्कु॑र्या॒न्नेष्टि॒र्भव॑ति॒ न य॒ज्ञस्तदनु॑ ह्रीतमु॒ख्य॑पग॒ल्भो जा॑यत॒ एका॑मे॒व य॑जेत प्रग॒ल्भो॑ऽस्य जाय॒तेऽना॑दृत्य॒ तद्द्वे ए॒व य॑जेत यज्ञमु॒खमे॒व पूर्व॑या॒लभ॑ते॒ यज॑त॒ उत्त॑रया दे॒वता॑ ए॒व पूर्व॑यावरु॒न्द्ध इ॑न्द्रि॒यमुत्त॑रया देवलो॒कमे॒व [29]  पूर्व॑याभि॒जय॑ति मनुष्यलो॒कमुत्त॑रया॒ भूय॑सो यज्ञक्र॒तूनुपै॑त्ये॒षा वै सु॒मना॒ नामेष्टि॒र्यम॒द्येजा॒नम्प॒श्चाच्च॒न्द्रमा॑ अ॒भ्यु॑देत्य॒स्मिन्ने॒वास्मै॑ लो॒केऽर्धु॑कम्भवति  
@@ -476,7 +476,7 @@ verily on the sacrifice and cattle he rests.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न द्वे +++(इष्टी)+++ य॑जेत ।  
-यत् पूर्व॑या सम्प्र॒ति यजे॑त -  
+यत् पूर्व॑या सम्प्र॒ति यजे॑त
 उत्त॑रया छ॒म्बट् कु॑र्यात् ।  
 >
 > यद् उत्त॑रया सम्प्र॒ति यजे॑त  
@@ -496,7 +496,6 @@ he would make a failure with the first;
 there is no offering at all and no sacrifice,  
 for that cause a son is born shamefaced and retiring.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -537,7 +536,6 @@ for that cause a son is born shamefaced and retiring.
 द्वितीयायां पुनः पौर्णमास-यागं कुर्यात्।  
 एवम् अमावास्यायाम् अपि।
 
-
 सेयम् ऋद्धिकामस्येष्टिः सुमना इत्यभिधीयते।
 
 तामेतां सुमनसमिष्टिं पूर्वोत्तरपक्षाभ्यां विचार्य विधातुमादौ पूर्वपक्षी सिद्धान्तं निराकृत्य स्वपक्षं विधते-  
@@ -567,14 +565,13 @@ for that cause a son is born shamefaced and retiring.
 a valiant son is born to him.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 एका॑मे॒व य॑जेत ।  
 प्र॒ग॒ल्भो॑ऽस्य जायते ।  
 </details>
-<details><summary>पद-पाठः</summary>
 
+<details><summary>पद-पाठः</summary>
 
 एका॑म् । ए॒व । य॒जे॒त॒ ।  
 प्र॒ग॒ल्भ इति॑ प्र-ग॒ल्भः । अ॒स्य॒ । जा॒य॒ते॒ ।  
@@ -606,8 +603,6 @@ a valiant son is born to him.
 मनुष्यलो॒कम् उत्त॑रया ।  
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 One should disregard this and offer twice.  
@@ -618,7 +613,6 @@ power with the second;
 verily one conquers the world of the gods [3] with the first;  
 the world of men with the second;  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -642,6 +636,7 @@ the world of men with the second;
 दे॒व॒लो॒कमिति॑ देव-लो॒कम् । ए॒व । पूर्व॑या । अ॒भि॒जय॒तीत्य॑भि-जय॑ति ।  
 म॒नु॒ष्य॒लो॒कमिति॑ मनुष्य-लो॒कम् । उत्त॑र॒येत्युत्-त॒र॒या॒ ।  
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 [[1301]]
@@ -651,20 +646,17 @@ the world of men with the second;
 अतो नैकस्या अपि वैयर्थ्यम् नापीष्टियज्ञत्वयोरभावः, प्रत्येकमिष्टित्त्रेऽपि संमूहितस्य प्रौढयज्ञत्वात्।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूय॑सो यज्ञक्र॒तून् उपै॑ति ।  
 ए॒षा वै सु॒मना॒ नामेष्टिः॑ ।  
 </details>
 
-
 <details><summary>Keith</summary>
 
 he performs several forms of sacrifice.  
 This offering is called 'the friendly';  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -677,6 +669,7 @@ This offering is called 'the friendly';
 भूय॑सः । य॒ज्ञ॒क्र॒तूनिति॑ यज्ञ-क्र॒तून् । उपेति॑ । ए॒ति॒ ।  
 ए॒षा । वै । सु॒मना॒ इति॑ सु-मनाः॑ । नाम॑ । इष्टिः॑ ।  
 </details>
+
 <details><summary>भट्टभास्कर-टीका - ज्योतिषम्</summary>
 
 6अथ शाखान्तरे ऋद्धिकामम् अधिकृत्योक्तम् -
@@ -732,11 +725,11 @@ This offering is called 'the friendly';
 अत एतदनुष्ठानेन भूयसो बहुतेकाहाहीनसत्ररूपान्यज्ञक्रतूनुपैति।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यम् अ॒द्येजा॒नम् प॒श्चाच् च॒न्द्रमा॑ अ॒भ्यु॑देति +++(सूर्यास्त-समये)+++,  
-अ॒स्मिन्न् ए॒वास्मै॑ लो॒के ऽर्धु॑कम् भवति  ।  
+अ॒स्मिन्न् ए॒वास्मै॑ लो॒के ऽर्धु॑कम् भवति  ।
+ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -745,7 +738,6 @@ for him there is in this world prosperity
 on whom the moon rises in the west  
 after he has sacrificed on that day.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -759,14 +751,13 @@ after he has sacrificed on that day.
 उ॒देतीत्यु॑त्-एति॑ । अ॒स्मिन् । ए॒व । अ॒स्मै॒ । लो॒के । अर्धु॑कम् । भ॒व॒ति॒ ।  
 </details>
 
-
 <details><summary>सायण-टीका</summary>
 
 किंचाद्य द्वितीयायामिष्टवन्तं यजमानमभिलक्ष्य पश्चाच्चन्द्रमा अभ्युदेति तस्येयमिष्टिर्नाम्ना सुमना इत्युच्यते। वर्धिष्णुचन्द्रोदयस्य सौमनस्यहेतुत्वात्। ततोऽस्मिन्नेव लोके तस्य समृद्धिर्धनं भवति।  
 </details>
 
-
 ## स्वर्गकामस्य दाक्षायणयज्ञः  
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दाक्षायणय॒ज्ञेन॑ सुव॒र्गका॑मो यजेत पू॒र्णमा॑से॒ सन्न॑येन्मैत्रावरु॒ण्याऽऽमिक्ष॑यामावा॒स्या॑याय्ँयजेत  
@@ -782,11 +773,11 @@ after he has sacrificed on that day.
 He who desires heaven should sacrifice with the Daksayana sacrifice.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 दा॒क्षा॒य॒ण॒य॒ज्ञेन॑ सुव॒र्गका॑मो यजेत ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 दा॒क्षा॒य॒ण॒य॒ज्ञेनेति॑ दाक्षायण-य॒ज्ञेन॑ । सु॒व॒र्गका॑म॒ इति॑ सुव॒र्ग-का॒मः॒ । य॒जे॒त॒ ।  
@@ -813,7 +804,6 @@ He who desires heaven should sacrifice with the Daksayana sacrifice.
 On the full moon he should offer the Samnayya;  
 on the new moon he should sacrifice with clotted curds for Mitra and Varuna.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -858,7 +848,6 @@ on the new moon he should sacrifice with clotted curds for Mitra and Varuna.
 On the full moon (the Soma) is pressed for the gods;  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 पू॒र्णमा॑से॒ वै दे॒वानाँ॑ सु॒तः  
@@ -890,11 +879,11 @@ On the full moon (the Soma) is pressed for the gods;
 during this half-month it is pressed forth for them,  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तेषा॑मे॒तम॑र्धमा॒सम्प्रसु॑तः ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 तेषा॑म् । ए॒तम् । अ॒र्ध॒मा॒समित्य॑र्ध-मा॒सम् । प्रसु॑त॒ इति॒ प्र-सु॒तः॒ ।  
@@ -920,11 +909,11 @@ during this half-month it is pressed forth for them,
 and a cow for Mitra and Varuna is to be slaughtered for them at the new moon.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तेषा॑म्मैत्रावरु॒णी व॒शाऽमा॑वा॒स्या॑यामनूब॒न्ध्या॑ ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 तेषा॑म् । मै॒त्रा॒व॒रु॒णीति॑ मैत्रा-व॒रु॒णी । व॒शा । अ॒मा॒वा॒स्या॑या॒मित्य॑मा-वा॒स्या॑याम् । अ॒नू॒ब॒न्ध्येत्य॑नु-ब॒न्ध्या॑ ।  
@@ -948,14 +937,14 @@ and a cow for Mitra and Varuna is to be slaughtered for them at the new moon.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् पूर्वे॒द्युर् यज॑ते॒  
-वेदि॑म् ए॒व तत् क॑रोति।  
+वेदि॑म् ए॒व तत् क॑रोति।
+ ।
 </details>
 
 <details><summary>Keith</summary>
 
 In that [4] he sacrifices on the day before, he makes the sacrificial enclosure.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -995,7 +984,6 @@ he metes out the seat and the oblation holder.
 In that he sacrifices, he produces with the gods the pressing day.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यद्व॒त्सान॑पाक॒रोति॑ ।  
@@ -1031,7 +1019,6 @@ In that he sacrifices, he produces with the gods the pressing day.
 He drinks for the half-month Soma in carouse with the gods.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स ए॒तम॑र्धमा॒सँ स॑ध॒माद॑न्दे॒वैस्सोम॑म्पिबति ।  
@@ -1066,18 +1053,17 @@ the cow which is slaughtered for the gods
 becomes his also.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यन्मै॑त्रावरु॒ण्यामि॑क्षयामावा॒स्या॑याय्ँ॒यज॑ते ।  
 यैवासौ दे॒वानाव्ँ॑व॒शानू॑ब॒न्ध्या॒ सो ए॒वैषैतस्य॑  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । मै॒त्रा॒व॒रु॒ण्येति॑ मैत्रा-व॒रु॒ण्या । आ॒मिक्ष॑या । अ॒मा॒वा॒स्या॑या॒मित्य॑मा-वा॒स्या॑याम् । यज॑ते ।  
 या । ए॒व । अ॒सौ । दे॒वाना॑म् । व॒शा । अ॒नू॒ब॒न्ध्येत्य॑नु-ब॒न्ध्या॑ । सो इति॑ । ए॒व । ए॒षा । ए॒तस्य॑ ।  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1098,7 +1084,8 @@ becomes his also.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा॒क्षाद् वा ए॒ष दे॒वान् अ॒भ्यारो॑हति॒  
-य ए॑षाय्ँ य॒ज्ञम् अ॑भ्या॒रोह॑ति ।  
+य ए॑षाय्ँ य॒ज्ञम् अ॑भ्या॒रोह॑ति ।
+ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1106,7 +1093,6 @@ becomes his also.
 He mounts upon the gods in truth  
 who mounts upon their sacrifice [5].  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1146,6 +1132,7 @@ Just as a great man who has attained (fortune) desires (and does), so he does.
 
 यथा॒ खलु॒ वै श्रेया॑न॒भ्यारू॑ढᳵ का॒मय॑ते॒ तथा॑ करोति ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 यथा॑ । खलु॑ । वै । श्रेया॑न् । अ॒भ्यारू॑ढ॒ इत्य॑भि-आरू॑ढः । का॒मय॑ते । तथा॑ । क॒रो॒ति॒ ।  
@@ -1167,6 +1154,7 @@ Just as a great man who has attained (fortune) desires (and does), so he does.
 </details>
 
 ## व्यावृत्-कामस्य  
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्य् **अ॑व॒विध्य॑ति॒**  
@@ -1180,7 +1168,6 @@ If he misses the mark
 he becomes worse;  
 if he does not, he remains the same.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1216,11 +1203,11 @@ if he does not, he remains the same.
 One who desires distinction should sacrifice with it,  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 व्या॒वृत्का॑म ए॒तेन॑ य॒ज्ञेन॑ यजेत ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 व्या॒वृत्का॑म॒ इति॑ व्या॒वृत्-का॒मः॒ । ए॒तेन॑ । य॒ज्ञेन॑ । य॒जे॒त॒ ।  
@@ -1248,7 +1235,6 @@ One who desires distinction should sacrifice with it,
 for this sacrifice has a razor edge,  
 and swiftly he becomes holy or perishes.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1294,7 +1280,6 @@ they shall not clean his raiment with cleansing stuff;
 for all these things the gods do not do.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्यै॒तद्व्र॒तम् ।  
@@ -1305,6 +1290,7 @@ for all these things the gods do not do.
 
 ए॒तद्धि दे॒वास्सर्व॒न्न कु॒र्वन्ति॑ ॥  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 तस्य॑ । ए॒तत् । व्र॒तम् ।  
@@ -1315,7 +1301,6 @@ for all these things the gods do not do.
 
 ए॒तत् । हि । दे॒वाः । सर्व॑म् । न । कु॒र्वन्ति॑ ॥  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

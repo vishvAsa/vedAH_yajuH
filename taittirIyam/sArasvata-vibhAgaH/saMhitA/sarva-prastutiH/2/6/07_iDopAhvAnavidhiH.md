@@ -2,6 +2,12 @@
 title = "०७ इडोपाह्वानविधिः"
 +++
 
++++
+
+title = "०७ इडोपाह्वानविधिः"
+
++++
+
 <details><summary>विषयः</summary>
 
 इष्टिहोत्रब्राह्मणम्
@@ -12,8 +18,8 @@ title = "०७ इडोपाह्वानविधिः"
 प्रजापतिर्ऋषिः
 </details>
 
-
 ## गो-पदेषु घृतम्
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मनुᳶ॑ पृथि॒व्या य॒ज्ञिय॑मैच्छ॒त्स घृ॒तन्निषि॑क्तमविन्द॒त्सो॑ऽब्रवी॒त्को॑ऽस्येश्व॒रो य॒ज्ञेऽपि॒ कर्तो॒रिति॒ ताव॑ब्रूताम्मि॒त्रावरु॑णौ॒ गोरे॒वावमी॑श्व॒रौ कर्तोः॑ स्व॒ इति॒ तौ ततो॒ गाँ समै॑रयताँ॒ सा यत्र॑यत्र॒ न्यक्रा॑म॒त्ततो॑ घृ॒तम॑पीड्यत॒ तस्मा॑द्घृ॒तप॑द्युच्यते॒ तद॑स्यै॒ जन्मोप॑हूतँ रथन्त॒रँ स॒ह पृ॑थि॒व्येत्या॑ह [36]  282
@@ -21,18 +27,31 @@ title = "०७ इडोपाह्वानविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म᳓नुᳶ पृथिव्या᳓ यज्ञि᳓यमैच्छत्।  
+म᳓नुᳶ पृथिव्या᳓ यज्ञि᳓यमैच्छत्।
+</details>
+
+<details><summary>English</summary>
+
+Manu desired what of earth was sacrificial.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मनुᳶ॑ पृथि॒व्या य॒ज्ञिय॑मैच्छत्।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
 स᳓ घृत᳓न् नि᳓षिक्तम् अविन्दत् ।
 </details>
 
 <details><summary>English</summary>
 
-Manu desired what of earth was sacrificial.  
 He found the poured out ghee.
 </details>
+
 <details><summary>मूलम्</summary>
 
-मनुᳶ॑ पृथि॒व्या य॒ज्ञिय॑मैच्छत्।  
 स घृ॒तन्निषि॑क्तमविन्दत् ।
 </details>
 
@@ -123,6 +142,7 @@ He found the poured out ghee.
 
 He said, 'Who is able to produce this also at the sacrifice?'
 </details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽब्रवीत् ।  
@@ -145,7 +165,6 @@ He said, 'Who is able to produce this also at the sacrifice?'
 लब्ध्वा च देवानाम् अग्रे स एवम् अब्रवीत्— अस्या गोः पदेषु स्थितस्य घृतस्य स्वरूपं यथा लौकिक-योजनादिषूपयुक्तं तथा यज्ञेषूपयुक्तं कर्तुं कः समर्थ इति। तच् छ्रुत्वा तत्र स्थितौ मित्रा-वरुणौ मनुं प्रत्य् अब्रूताम्— 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓व् अब्रूताम् मित्रा᳓व᳓रुणौ  
@@ -157,6 +176,7 @@ He said, 'Who is able to produce this also at the sacrifice?'
 Mitra and Varuna said,
 'We are able to produce the cow.'
 </details>
+
 <details><summary>मूलम्</summary>
 
 ताव॑ब्रूताम् मि॒त्रावरु॑णौ॒ गोरे॒वावमी॑श्व॒रौ कर्तोः॑ स्व॒ इति॑ ।  
@@ -187,6 +207,7 @@ Mitra and Varuna said,
 
 Then they set the cow in motion.
 </details>
+
 <details><summary>मूलम्</summary>
 
 तौ ततो॒ गाँ समै॑रयताम् ।  
@@ -217,6 +238,7 @@ Then they set the cow in motion.
 
 Wherever she stepped, there ghee was pressed out;
 </details>
+
 <details><summary>मूलम्</summary>
 
 सा यत्र॑यत्र॒ न्यक्रा॑मत् ।  
@@ -247,6 +269,7 @@ Wherever she stepped, there ghee was pressed out;
 
 there ghee was pressed out;
 </details>
+
 <details><summary>मूलम्</summary>
 
 ततो॑ घृ॒तम॑पीड्यत ।  
@@ -270,17 +293,30 @@ there ghee was pressed out;
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद्घृत᳓पद्युच्यते।  
-त᳓द् अस्यै ज᳓न्म।
 </details>
 
 <details><summary>English</summary>
 
 therefore she is called ghee-footed;
-that is her origin. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑द्घृ॒तप॑द्युच्यते।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓द् अस्यै ज᳓न्म।
+</details>
+
+<details><summary>English</summary>
+
+that is her origin.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तद॑स्यै॒ जन्म।
 </details>
 
@@ -303,6 +339,7 @@ that is her origin.
 </details>
 
 ## रथन्तराद्य्-उपहूतिः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पहूतँ रथन्तरँ᳓ सह᳓ पृथिव्ये᳓त्य् आह ।
@@ -312,6 +349,7 @@ that is her origin.
 
 'The Rathantara is invoked with the earth', he says [1].
 </details>
+
 <details><summary>मूलम्</summary>
 
 उप॑हूतँ रथन्त॒रँ स॒ह पृ॑थि॒व्येत्या॑ह ।  
@@ -337,16 +375,31 @@ that is her origin.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वै᳓ रथन्तर᳓म्।  
+</details>
+
+<details><summary>English</summary>
+
+The Rathantara is this (earth);
+</details>
+
+<details><summary>मूलम्</summary>
+
+रथन्त॒रँ स॒ह पृ॑थि॒व्येत्या॑ह । इ॒यव्ँ वै र॑थन्त॒रमि॒मामे॒व स॒हान्नाद्ये॒नोप॑ ह्वयते ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इमा᳓म् एव᳓ सहा᳓न्ना᳓द्येनो᳓प ह्वयते ।
 </details>
 
 <details><summary>English</summary>
 
-The Rathantara is this (earth); verily he invokes her with food.
+verily he invokes her with food.
 </details>
+
 <details><summary>मूलम्</summary>
 
-रथन्त॒रँ स॒ह पृ॑थि॒व्येत्या॑ह । इ॒यव्ँ वै र॑थन्त॒रमि॒मामे॒व स॒हान्नाद्ये॒नोप॑ ह्वयते ।  
+इमा᳓म् एव᳓ सहा᳓न्ना᳓द्येनो᳓प ह्वयते ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -375,6 +428,7 @@ The Rathantara is this (earth); verily he invokes her with food.
 
 'The Vamadevya is invoked with the atmosphere', he says.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उप॑हूतव्ँवामदे॒व्यँ स॒हान्तरि॑क्षे॒णेत्या॑ह ।
@@ -393,16 +447,31 @@ The Rathantara is this (earth); verily he invokes her with food.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश᳓वो वै᳓ वामदेव्य᳓म्  
+</details>
+
+<details><summary>English</summary>
+
+The Vamadevya, is cattle;
+</details>
+
+<details><summary>मूलम्</summary>
+
+प॒शवो॒॒ वै वा॑मदे॒व्यम्प॒शूने॒व स॒हान्तरि॑क्षे॒णोप॑ ह्वयते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पशू᳓न् एव᳓ सहा᳓न्त᳓रिक्षेणो᳓प ह्वयते ।
 </details>
 
 <details><summary>English</summary>
 
-The Vamadevya, is cattle; verily he invokes cattle with the atmosphere.
+verily he invokes cattle with the atmosphere.
 </details>
+
 <details><summary>मूलम्</summary>
 
-प॒शवो॒॒ वै वा॑मदे॒व्यम्प॒शूने॒व स॒हान्तरि॑क्षे॒णोप॑ ह्वयते ।
+पशू᳓न् एव᳓ सहा᳓न्त᳓रिक्षेणो᳓प ह्वयते ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -434,6 +503,7 @@ The Vamadevya, is cattle; verily he invokes cattle with the atmosphere.
 
 'The Brhat is invoked with the sky', he says.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उप॑हूतम्बृ॒हत्स॒ह दि॒वेत्या॑ह ।  
@@ -447,16 +517,31 @@ The Vamadevya, is cattle; verily he invokes cattle with the atmosphere.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐरव्ँ᳓ वै᳓ बृह᳓द्,  
+</details>
+
+<details><summary>English</summary>
+
+The Brhat is connected with food;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऐ॒रव्ँ वै बृ॒हदिरा॑मे॒व स॒ह दि॒वोप॑ ह्वयते ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इ᳓राम् एव᳓ सह᳓ दिवो᳓प ह्वयते ।
 </details>
 
 <details><summary>English</summary>
 
-The Brhat is connected with food; verily he invokes food with the sky.
+verily he invokes food with the sky.
 </details>
+
 <details><summary>मूलम्</summary>
 
-ऐ॒रव्ँ वै बृ॒हदिरा॑मे॒व स॒ह दि॒वोप॑ ह्वयते ।  
+इ᳓राम् एव᳓ सह᳓ दिवो᳓प ह्वयते ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -482,19 +567,34 @@ The Brhat is connected with food; verily he invokes food with the sky.
 </details>
 
 ## होत्र-हूतिः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पहूतास् सप्त᳓ हो᳓त्रा इ᳓त्य् आह ।  
+</details>
+
+<details><summary>English</summary>
+
+'The seven Hotras are invoked', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+उप॑हूतास्स॒प्त होत्रा॒ इत्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हो᳓त्रा एवो᳓प ह्वयते ।
 </details>
 
 <details><summary>English</summary>
 
-'The seven Hotras are invoked', he says; verily he invokes the Hotras.
+verily he invokes the Hotras.
 </details>
+
 <details><summary>मूलम्</summary>
 
-उप॑हूतास्स॒प्त होत्रा॒ इत्या॑ह ।  
 होत्रा॑ ए॒वोप॑ ह्वयते ।  
 </details>
 
@@ -517,6 +617,7 @@ The Brhat is connected with food; verily he invokes food with the sky.
 </details>
 
 ## धेन्वादि-हूतिः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पहूता धेनु᳓स् सह᳓ र्षभे᳓त्य् आह ।
@@ -526,6 +627,7 @@ The Brhat is connected with food; verily he invokes food with the sky.
 
 'The cow is invoked with the bull', he says [2];
 </details>
+
 <details><summary>मूलम्</summary>
 
 उप॑हूता धे॒नुस्स॒हर्ष॒भेत्या॑ह ।  
@@ -550,6 +652,7 @@ The Brhat is connected with food; verily he invokes food with the sky.
 
 verily he invokes a pair.
 </details>
+
 <details><summary>मूलम्</summary>
 
 मि॒थु॒नमे॒वोप॑ ह्वयते ।  
@@ -578,8 +681,9 @@ verily he invokes a pair.
 
 <details><summary>English</summary>
 
-'The friend food is invoked', he says; verily he invokes the Soma drink.
+verily he invokes the Soma drink.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उप॑हूतो भ॒क्षस्सखेत्या॑ह ।  
@@ -592,7 +696,6 @@ verily he invokes a pair.
 सो॒म॒पी॒थमिति॑ सोम-पी॒थम् । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7सोमपीथमिति ॥ भक्ष्यत इति **भक्षः** सोमः, **सखा** समानख्यानः, तस्य पानं पुनःपुनः प्रवर्तयति ॥
@@ -604,6 +707,7 @@ verily he invokes a pair.
 </details>
 
 ## उपहूताँ हो
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "उ᳓पहूताँ᳓४ हो᳓+++(→आत्मा)+++" इ᳓त्य् आह ।
@@ -611,8 +715,9 @@ verily he invokes a pair.
 
 <details><summary>English</summary>
 
-'It is invoked; ho!' he says;
+'It is invoked;
 </details>
+
 <details><summary>मूलम्</summary>
 
 उप॑हू॒ताँ४ हो इत्या॑ह ।
@@ -648,6 +753,7 @@ verily he invokes a pair.
 
 verily he invokes the self,
 </details>
+
 <details><summary>मूलम्</summary>
 
 आ॒त्मान॑मे॒वोप॑ ह्वयतेे ।  
@@ -686,6 +792,7 @@ verily he invokes the self,
 
 for the self is the best of those invoked.
 </details>
+
 <details><summary>मूलम्</summary>
 
 आ॒त्मा ह्युप॑हूतानाव्ँ॒वसि॑ष्ठ॒ ।
@@ -709,6 +816,7 @@ for the self is the best of those invoked.
 </details>
 
 ## इडाद्य्-उपहूतिः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓डाम् उ᳓प ह्वयते ।  
@@ -718,6 +826,7 @@ for the self is the best of those invoked.
 
 He invokes food,
 </details>
+
 <details><summary>मूलम्</summary>
 
 इडा॒मुप॑ ह्वयते ।  
@@ -731,16 +840,31 @@ He invokes food,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश᳓वो वा᳓ इ᳓डा,   
+</details>
+
+<details><summary>English</summary>
+
+food is cattle;
+</details>
+
+<details><summary>मूलम्</summary>
+
+प॒शवो॒॒ वा इडा॑ प॒शूने॒वोप॑ ह्वयते ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पशू᳓न् एवो᳓प ह्वयते ।
 </details>
 
 <details><summary>English</summary>
 
-food is cattle; verily he invokes cattle.
+verily he invokes cattle.
 </details>
+
 <details><summary>मूलम्</summary>
 
-प॒शवो॒॒ वा इडा॑ प॒शूने॒वोप॑ ह्वयते ।   
+पशू᳓न् एवो᳓प ह्वयते ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -773,6 +897,7 @@ food is cattle; verily he invokes cattle.
 
 He invokes four, for cattle are four-footed.
 </details>
+
 <details><summary>मूलम्</summary>
 
 च॒तुरुप॑ ह्वयते ।   
@@ -785,16 +910,14 @@ He invokes four, for cattle are four-footed.
 चतु॑ष्पाद॒ इति॒ चतुः॑-पा॒दः॒ । हि । प॒शवः॑ । 
 </details>
 
-
-
 <details><summary>सायण-टीका</summary>
 
 पशूनां चतुष्-पदत्वाद् एतद् उपपन्नम्। तयोर् आवृत्त्या मध्ये "सेयम् इडास्मान् उपह्वयताम्" इत्य् एतद् इडा-देवतायाः प्रार्थना स्वस्मिन् देवतानुग्रहार्थम्।
 </details>
 
 ## मानवीत्वादि
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मानवी᳓त्याह ।  
 म᳓नुर् ह्य् ए᳙ता᳓म् अ᳓ग्रे ऽपश्यत् ।  
@@ -804,6 +927,7 @@ He invokes four, for cattle are four-footed.
 
 'Offspring of Manu', he says, for Manu first saw her [3].
 </details>
+
 <details><summary>मूलम्</summary>
 
 मान॒वीत्या॑ह ।  
@@ -830,19 +954,33 @@ He invokes four, for cattle are four-footed.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृत᳓पदी᳓त्याह ।  
-य᳓द् एवा᳓स्यै पदा᳓द् घृत᳓म् अ᳓पीड्यत,    
-त᳓स्माद् एव᳓म् आह ।  
 </details>
 
 <details><summary>English</summary>
 
-'Ghee footed', he says. Because ghee was pressed out of her foot, therefore be says thus.
+'Ghee footed', he says.
 </details>
+
 <details><summary>मूलम्</summary>
 
 घृ॒तप॒दीत्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓द् एवा᳓स्यै पदा᳓द् घृत᳓म् अ᳓पीड्यत,  
+त᳓स्माद् एव᳓म् आह ।
+</details>
+
+<details><summary>English</summary>
+
+Because ghee was pressed out of her foot, therefore be says thus.
+</details>
+
+<details><summary>मूलम्</summary>
+
 यदे॒वास्यै॑ प॒दाद्घृ॒तमपी॑ड्यत ।  
-तस्मा॑दे॒वमा॑ह ।  
+तस्मा॑दे॒वमा॑ह ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -884,20 +1022,34 @@ He invokes four, for cattle are four-footed.
 </details>
 
 ## ब्रह्माद्य्-उपहूतिः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्म देव᳓कृतम् उ᳓पहूतम् इ᳓त्य् आह ।  
+</details>
+
+<details><summary>English</summary>
+
+'The Brahman, god made, is invoked', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्म॑ दे॒वकृ॑त॒मुप॑हूत॒मित्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ब्र᳓ह्मैवो᳓प ह्वयते ।  
 </details>
 
 <details><summary>English</summary>
 
-'The Brahman, god made, is invoked', he says;  
 verily he invokes the Brahman.
 </details>
+
 <details><summary>मूलम्</summary>
 
-ब्रह्म॑ दे॒वकृ॑त॒मुप॑हूत॒मित्या॑ह ।  
 ब्रह्मै॒वोप॑ ह्वयते ।  
 </details>
 
@@ -930,6 +1082,7 @@ verily he invokes the Brahman.
 
 'The divine Adhvaryus are invoked, the human are invoked', he says;
 </details>
+
 <details><summary>मूलम्</summary>
 
 दैव्या॑ अध्व॒र्यव॒ उप॑हूता॒ उप॑हूता मनु॒ष्या॑ इत्या॑ह ।  
@@ -955,6 +1108,7 @@ verily he invokes the Brahman.
 
 verily he invokes the gods and men.
 </details>
+
 <details><summary>मूलम्</summary>
 
 दे॒व॒म॒नु॒ष्याने॒वोप॑ ह्वयते ।  
@@ -976,21 +1130,35 @@ verily he invokes the gods and men.
 </details>
 
 ## यज्ञम् अवान्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ इमय्ँ᳓ यज्ञ᳓म् अ᳓वान्  
+</details>
+
+<details><summary>English</summary>
+
+'Who shall help this sacrifice and make the lord of the sacrifice prosper', he says [4];
+</details>
+
+<details><summary>मूलम्</summary>
+
+य इ॒मय्ँ य॒ज्ञमवा॒न् ये य॒ज्ञप॑तिव्ँ॒वर्धा॒नित्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ये᳓ यज्ञ᳓पतिव्ँ व᳓र्धान् इ᳓त्य् आह ।  
 यज्ञा᳓य चैव᳓ य᳓जमानाय चाशि᳓षम् आ᳓ शास्ते ।  
 </details>
 
 <details><summary>English</summary>
 
-'Who shall help this sacrifice  
-and make the lord of the sacrifice prosper', he says [4]; verily he invokes a blessing for the sacrifice and the sacrificer.
+verily he invokes a blessing for the sacrifice and the sacrificer.
 </details>
+
 <details><summary>मूलम्</summary>
 
-य इ॒मय्ँ य॒ज्ञमवा॒न् ये य॒ज्ञप॑तिव्ँ॒वर्धा॒नित्या॑ह ।  
 य॒ज्ञाय॑ चै॒व यज॑मानाय चा॒शिष॒मा शा॑स्ते ।  
 </details>
 
@@ -1014,19 +1182,34 @@ and make the lord of the sacrifice prosper', he says [4]; verily he invokes a bl
 </details>
 
 ## द्यावापृथिव्यादि
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पहूते द्या᳓वापृथिवी᳓ इ᳓त्याह ।  
+</details>
+
+<details><summary>English</summary>
+
+'Sky and earth are invoked', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+उप॑हूते॒ द्यावा॑पृथि॒वी इत्या॑ह ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 द्या᳓वापृथिवी᳓ एवो᳓प ह्वयते ।  
 </details>
 
 <details><summary>English</summary>
 
-'Sky and earth are invoked', he says; verily he invokes sky and earth.
+verily he invokes sky and earth.
 </details>
+
 <details><summary>मूलम्</summary>
 
-उप॑हूते॒ द्यावा॑पृथि॒वी इत्या॑ह ।  
 द्यावा॑पृथि॒वी ए॒वोप॑ ह्वयते ।  
 </details>
 
@@ -1058,6 +1241,7 @@ and make the lord of the sacrifice prosper', he says [4]; verily he invokes a bl
 
 'Born of yore, the righteous', he says, for they were born of yore and are righteous.
 </details>
+
 <details><summary>मूलम्</summary>
 
 पू॒र्व॒जे ऋ॒ताव॑री॒ इत्या॑ह ।  
@@ -1092,6 +1276,7 @@ and make the lord of the sacrifice prosper', he says [4]; verily he invokes a bl
 
 'Divine, with gods for children', he says, for they are divine and have gods for children.
 </details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वी दे॒वपु॑त्रे॒ इत्या॑ह ।  
@@ -1111,19 +1296,34 @@ and make the lord of the sacrifice prosper', he says [4]; verily he invokes a bl
 </details>
 
 ## यजमानाद्य्-उपहूतिः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पहूतो ऽयय्ँ᳓ य᳓जमान इ᳓त्य् आह।  
+</details>
+
+<details><summary>English</summary>
+
+'Invoked is this sacrificer', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+उप॑हूतो॒ऽयय्ँयज॑मान॒ इत्या॑ह।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 य᳓जमानम् एवो᳓प ह्वयते ।  
 </details>
 
 <details><summary>English</summary>
 
-'Invoked is this sacrificer', he says; verily he invokes the sacrificer.
+verily he invokes the sacrificer.
 </details>
+
 <details><summary>मूलम्</summary>
 
-उप॑हूतो॒ऽयय्ँयज॑मान॒ इत्या॑ह।  
 यज॑मानमे॒वोप॑ ह्वयते ।  
 </details>
 
@@ -1151,6 +1351,7 @@ and make the lord of the sacrifice prosper', he says [4]; verily he invokes a bl
 
 'Invoked in the highest sacrifice, invoked in the greater offering, invoked in the divine abode' [5], he says.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उत्त॑रस्यान्देवय॒ज्याया॒मुप॑हूतो॒,  भूय॑सि हवि॒ष्कर॑ण॒ उप॑हूतो, दि॒व्ये धाम॒न्नुप॑हूत  इत्या॑ह ।
@@ -1184,6 +1385,7 @@ and make the lord of the sacrifice prosper', he says [4]; verily he invokes a bl
 
 The highest sacrifice is offspring, the greater offering is cattle, the divine abode is the world of heaven.
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जा वा उत्त॑रा देवय॒ज्या ।  
@@ -1203,19 +1405,35 @@ The highest sacrifice is offspring, the greater offering is cattle, the divine a
 </details>
 
 ## इदम् असि
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इद᳓म् असीद᳓म् असी᳓त्य् एव᳓  
+</details>
+
+<details><summary>English</summary>
+
+(With the words), 'Thou art this;
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒दम॑सी॒दम॒सीत्ये॒व य॒ज्ञस्य॑ प्रि॒यन्धामोप॑ ह्वयते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यज्ञ᳓स्य प्रिय᳓न् धा᳓मो᳓प ह्वयते ।
 </details>
 
 <details><summary>English</summary>
 
-(With the words), 'Thou art this; thou art this', he invokes the dear abode of the sacrifice.
+thou art this', he invokes the dear abode of the sacrifice.
 </details>
+
 <details><summary>मूलम्</summary>
 
-इ॒दम॑सी॒दम॒सीत्ये॒व य॒ज्ञस्य॑ प्रि॒यन्धामोप॑ ह्वयते ।
+यज्ञ᳓स्य प्रिय᳓न् धा᳓मो᳓प ह्वयते ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1237,6 +1455,7 @@ The highest sacrifice is offspring, the greater offering is cattle, the divine a
 </details>
 
 ## विश्वस्य प्रियम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वमस्य प्रिय᳓म् उ᳓पहूतम् इ᳓त्याह ।
@@ -1246,6 +1465,7 @@ The highest sacrifice is offspring, the greater offering is cattle, the divine a
 
 'All that is dear to it is invoked', he says;
 </details>
+
 <details><summary>मूलम्</summary>
 
 विश्व॑मस्य प्रि॒यमुप॑हूत॒मित्या॑ह ।
@@ -1270,6 +1490,7 @@ The highest sacrifice is offspring, the greater offering is cattle, the divine a
 
 verily not vainly does he invoke.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अछ॑म्बट्कारमे॒वोप॑ ह्वयते ॥

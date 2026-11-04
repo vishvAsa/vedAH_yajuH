@@ -4,6 +4,7 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 +++
 
 विश्वेदेवा ऋषयः ।
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्वष्टा॑ ह॒तपु॑त्रो॒ वीन्द्रँ॒ सोम॒माह॑र॒त्तस्मि॒न्निन्द्र॑ उपह॒वमै॑च्छत॒ तन्नोपा॑ह्वयत पु॒त्रम्मे॑ऽवधी॒रिति॒ स य॑ज्ञवेश॒सङ्कृ॒त्वा प्रा॒सहा॒ सोम॑मपिब॒त्तस्य॒ यद॒त्यशि॑ष्यत॒ तत्त्वष्टा॑हव॒नीय॒मुप॒ प्राव॑र्तय॒त्स्वाहेन्द्र॑शत्रुर्वर्ध॒स्वेति॒ स याव॑दू॒र्ध्वᳶ प॑रा॒विध्य॑ति॒ ताव॑ति स्व॒यमे॒व व्य॑रमत
@@ -11,14 +12,32 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वष्टा॑ ह॒तपु॑त्रो॒ वीन्द्रँ॒ सोम॒माह॑रत् ।  
-तस्मि॒न्निन्द्र॑ उपह॒वमै॑च्छत ।  
+त्वष्टा॑ ह॒तपु॑त्रो॒ वीन्द्रँ॒ सोम॒माह॑रत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Tvastr, his son slain, offered Soma excluding Indra.
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्वष्टा॑ ह॒तपु॑त्रो॒ वीन्द्रँ॒ सोम॒माह॑रत् ।  
-तस्मि॒न्निन्द्र॑ उपह॒वमै॑च्छत ।  
+त्वष्टा॑ ह॒तपु॑त्रो॒ वीन्द्रँ॒ सोम॒माह॑रत् ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मि॒न्निन्द्र॑ उपह॒वमै॑च्छत ।
+</details>
+
+<details><summary>Keith</summary>
+
+Indra desired an invitation to the rite,
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मि॒न्निन्द्र॑ उपह॒वमै॑च्छत ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -30,6 +49,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 
 तन्नोपा॑ह्वयत ।  
 पु॒त्रम्मे॑ऽवधी॒रिति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+but he did not invite him, (saying), 'Thou hast slain my son.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -48,6 +72,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 स य॑ज्ञवेश॒सङ्कृ॒त्वा प्रा॒सहा॒ सोम॑मपिबत् ।
 </details>
 
+<details><summary>Keith</summary>
+
+He made a disturbance of the sacrifice, and forcibly drank the Soma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स य॑ज्ञवेश॒सङ्कृ॒त्वा प्रा॒सहा॒ सोम॑मपिबत् ।
@@ -60,14 +89,32 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य॒ यद॒त्यशि॑ष्यत॒ तत्त्वष्टा॑हव॒नीय॒मुप॒ प्राव॑र्तयत् ।  
-स्वाहेन्द्र॑शत्रुर्वर्ध॒स्वेति॑ ।  
+तस्य॒ यद॒त्यशि॑ष्यत॒ तत्त्वष्टा॑हव॒नीय॒मुप॒ प्राव॑र्तयत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+The remains of it Tvastr cast upon the Ahavaniya (fire), saying, 'Hail!
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्य॒ यद॒त्यशि॑ष्यत॒ तत्त्वष्टा॑हव॒नीय॒मुप॒ प्राव॑र्तयत् ।  
-स्वाहेन्द्र॑शत्रुर्वर्ध॒स्वेति॑ ।  
+तस्य॒ यद॒त्यशि॑ष्यत॒ तत्त्वष्टा॑हव॒नीय॒मुप॒ प्राव॑र्तयत् ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वाहेन्द्र॑शत्रुर्वर्ध॒स्वेति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+wax great, Indra's foe.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वाहेन्द्र॑शत्रुर्वर्ध॒स्वेति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -78,6 +125,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स याव॑दू॒र्ध्वᳶ प॑रा॒विध्य॑ति॒,  ताव॑ति स्व॒यमे॒व व्य॑रमत ।
+</details>
+
+<details><summary>Keith</summary>
+
+While (the fire) was flaming upwards to strike, just then of itself it stayed;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -106,6 +158,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 यदि॑ वा॒ ताव॒दध्य॒ग्नेरासीत् ।
 </details>
 
+<details><summary>Keith</summary>
+
+whether so much was before [1], or so much was over the fire,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदि॑ वा॒ ताव॑त्प्रव॒णमासी॑त् ..   
@@ -120,6 +177,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स स॒म्भव॑न्न॒ग्नीषोमा॑व॒भि सम॑भवत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+be sprang up alive and came into union with Agni and Soma.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -137,6 +199,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 स इ॑षुमा॒त्रमि॑षुमात्रव्ँ॒विष्व॑ङ्ङवर्धत ।
 </details>
 
+<details><summary>Keith</summary>
+
+He grew on all sides an arrow(shot),
+</details>
+
 <details><summary>मूलम्</summary>
 
 स इ॑षुमा॒त्रमि॑षुमात्रव्ँ॒विष्व॑ङ्ङवर्धत ।
@@ -150,6 +217,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स इ॒माल्ँ लो॒कान॑वृणोत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he enveloped these worlds.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -167,6 +239,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 तद्वृ॒त्रस्य॑ वृत्र॒त्वम् ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Because he enveloped these worlds, therefore is Vrtra, Vrtra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद्वृ॒त्रस्य॑ वृत्र॒त्वम् ।   
@@ -180,6 +257,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॒दिन्द्रो॑ऽबिभे॒दपि॒ त्वष्टा ।
+</details>
+
+<details><summary>Keith</summary>
+
+Indra feared him, and Tvastr too;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -199,14 +281,32 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मै॒ त्वष्टा॒ वज्र॑मसिञ्चत् ।  
-तपो॒ वै स वज्र॑ आसीत् ।  
+तस्मै॒ त्वष्टा॒ वज्र॑मसिञ्चत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Tvastr dipped his bolt for him;
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्मै॒ त्वष्टा॒ वज्र॑मसिञ्चत् ।  
-तपो॒ वै स वज्र॑ आसीत् ।  
+तस्मै॒ त्वष्टा॒ वज्र॑मसिञ्चत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तपो॒ वै स वज्र॑ आसीत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+the bolt was fervour;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तपो॒ वै स वज्र॑ आसीत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -217,6 +317,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुद्य॑न्तु॒न्नाश॑क्नोत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he could not restrain it.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -232,6 +337,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ॒ वै तर्हि॒ विष्णु॑र॒न्या दे॒वता॑सीत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Visnu [2] was another god;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -250,6 +360,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 विष्ण॒वे ही॒दमा ह॑रिष्यावो॒ येना॒यमि॒दमिति॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+he said, 'Visnu, come hither; we will grasp that by which he is this world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽब्रवीत् ।  
@@ -266,6 +381,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 स विष्णु॑स्त्रे॒धात्मानव्ँ॒वि न्य॑धत्त ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Visnu deposited himself in three places,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स विष्णु॑स्त्रे॒धात्मानव्ँ॒वि न्य॑धत्त ।  
@@ -279,6 +399,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथि॒व्यान्तृती॑यम॒न्तरि॑क्षे॒ तृती॑यन्दि॒वि तृती॑यमभिपर्याव॒र्ताद्ध्यबि॑भेत्  ।
+</details>
+
+<details><summary>Keith</summary>
+
+a third on the earth, a third in the atmosphere, a third in the sky, for he was afraid of his growth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -303,6 +428,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 विष्ण्व॑नुस्थितः  ..
 </details>
 
+<details><summary>Keith</summary>
+
+By means of the third on earth Indra raised his bolt, aided by Visnu.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्पृ॑थि॒व्यान्तृती॑यमासी॑त्।  
@@ -322,6 +452,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 मा मे॒ प्र हाः॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He said, 'Hurl it not at me;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽब्रवीत् ।  
@@ -335,12 +470,32 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्ति॒ वा इ॒दम्मयि॑ वी॒र्य॑न्तत्ते॒ प्र दा॑स्या॒मीति॑ ।  
+अस्ति॒ वा इ॒दम्मयि॑ वी॒र्य॑न्तत्ते॒ प्र दा॑स्या॒मीति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+there is this [3] strength in me;
 </details>
 
 <details><summary>मूलम्</summary>
 
-अस्ति॒ वा इ॒दम्मयि॑ वी॒र्य॑न्तत्ते॒ प्र दा॑स्या॒मीति॑ ।  
+अस्ति॒ वा इ॒दम्मयि॑ वी॒र्य॑न्तत्ते॒ प्र दा॑स्या॒मीति॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्ति॒ वा इ॒दम्मयि॑ वी॒र्य॑न्तत्ते॒ प्र दा॑स्या॒मीति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+I will give it to you.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+अस्ति॒ वा इ॒दम्मयि॑ वी॒र्य॑न्तत्ते॒ प्र दा॑स्या॒मीति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -352,6 +507,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 
 तद॑स्मै॒ प्राय॑च्छ॒त् , तत्प्रत्य॑गृह्णा॒दधा॒मेति॑ ।  
 तद्विष्ण॒वेऽति॒ प्राय॑च्छत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He gave it to him, he accepted it, and (saying), 'Thou didst further me', gave it to Visnu.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -370,6 +530,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 तद्विष्णु॒ᳶ प्रत्य॑गृह्णत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Visnu accepted it
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद्विष्णु॒ᳶ प्रत्य॑गृह्णत् ।  
@@ -383,6 +548,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒स्मास्विन्द्र॑ इन्द्रि॒यन्द॑धा॒त्विति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+(saying), 'Let Indra place power (indriya) in us.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -404,30 +574,61 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 
 यद॒न्तरि॑क्षे॒ तृती॑य॒मासी॑त् ।  
 तेनेन्द्रो॒ वज्र॒मुद॑यच्छत् ।  
-विष्ण्व॑नुस्थित॒स्सो॑ऽब्रवीत् ।  
-मा मे॒ प्र हाः॑ ।  
-अस्ति॒ वा इ॒दम् मयि॑ वी॒र्य॑न्तत्ते॒ प्र दा॑स्या॒मीति॑ ।  
-तद॑स्मै॒ प्राय॑च्छत् ।  
-तत्प्रत्य॑गृह्णात् ।  
-द्विर्मा॑ऽधा॒ इति॑ ।  
-तद्विष्ण॒वेेऽति॒ प्राय॑च्छत् ।  
-तद्विष्णु॒ᳶ प्रत्य॑गृह्णात् ।  
-अ॒स्मास्विन्द्र॑ इन्द्रि॒यन्द॑धा॒त्विति॑ ।   
+विष्ण्व॑नुस्थित॒स्सो॑ऽब्रवीत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+By means of the third in the atmosphere Indra raised his bolt, aided by Visnu.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद॒न्तरि॑क्षे॒ तृती॑य॒मासी॑त् ।  
 तेनेन्द्रो॒ वज्र॒मुद॑यच्छत् ।  
-विष्ण्व॑नुस्थित॒स्सो॑ऽब्रवीत् ।  
+विष्ण्व॑नुस्थित॒स्सो॑ऽब्रवीत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मा मे॒ प्र हाः॑ ।  
 अस्ति॒ वा इ॒दम् मयि॑ वी॒र्य॑न्तत्ते॒ प्र दा॑स्या॒मीति॑ ।  
-तद॑स्मै॒ प्राय॑च्छत् ।  
+तद॑स्मै॒ प्राय॑च्छत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+He said, 'Hurl it not at me; there is this [4] strength in me; I will give it to you.' He gave it to him;
+</details>
+
+<details><summary>मूलम्</summary>
+
+मा मे॒ प्र हाः॑ ।  
+अस्ति॒ वा इ॒दम् मयि॑ वी॒र्य॑न्तत्ते॒ प्र दा॑स्या॒मीति॑ ।  
+तद॑स्मै॒ प्राय॑च्छत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तत्प्रत्य॑गृह्णात् ।  
 द्विर्मा॑ऽधा॒ इति॑ ।  
 तद्विष्ण॒वेेऽति॒ प्राय॑च्छत् ।  
 तद्विष्णु॒ᳶ प्रत्य॑गृह्णात् ।  
-अ॒स्मास्विन्द्र॑ इन्द्रि॒यन्द॑धा॒त्विति॑ ।   
+अ॒स्मास्विन्द्र॑ इन्द्रि॒यन्द॑धा॒त्विति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+he accepted it, and (saying), 'Twice hast thou furthered me', gave it to Visnu. Visnu accepted it (saying), 'Let Indra place power in us.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्प्रत्य॑गृह्णात् ।  
+द्विर्मा॑ऽधा॒ इति॑ ।  
+तद्विष्ण॒वेेऽति॒ प्राय॑च्छत् ।  
+तद्विष्णु॒ᳶ प्रत्य॑गृह्णात् ।  
+अ॒स्मास्विन्द्र॑ इन्द्रि॒यन्द॑धा॒त्विति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -444,16 +645,34 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 
 यद्दि॒वि तृती॑यमासी॑त् ।  
 तेनेन्द्रो॒ वज्र॒मुद॑यच्छत् ।  
-विष्ण्व॑नुस्थित॒स्सो॑ऽब्रवीत् ।  
-मा मे॒ प्र हाः॑।  
+विष्ण्व॑नुस्थित॒स्सो॑ऽब्रवीत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+By means of the third in the sky Indra raised his bolt, aided by Visnu.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद्दि॒वि तृती॑यमासी॑त् ।  
 तेनेन्द्रो॒ वज्र॒मुद॑यच्छत् ।  
-विष्ण्व॑नुस्थित॒स्सो॑ऽब्रवीत् ।  
-मा मे॒ प्र हाः॑।  
+विष्ण्व॑नुस्थित॒स्सो॑ऽब्रवीत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मा मे॒ प्र हाः॑।
+</details>
+
+<details><summary>Keith</summary>
+
+He said, 'Hurl it not at me;
+</details>
+
+<details><summary>मूलम्</summary>
+
+मा मे॒ प्र हाः॑।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -463,14 +682,32 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-येना॒हमि॒दमस्मि॒ तत्ते॒ प्र दा॑स्या॒मीति॑ ।  
-त्वी (३) इत्य॑ब्रवीत् ।  
+येना॒हमि॒दमस्मि॒ तत्ते॒ प्र दा॑स्या॒मीति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+I will give to thee that by which I [5] am this world!
 </details>
 
 <details><summary>मूलम्</summary>
 
-येना॒हमि॒दमस्मि॒ तत्ते॒ प्र दा॑स्या॒मीति॑ ।  
-त्वी (३) इत्य॑ब्रवीत् ।  
+येना॒हमि॒दमस्मि॒ तत्ते॒ प्र दा॑स्या॒मीति॑ ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्वी (३) इत्य॑ब्रवीत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+He said, 'Yes.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्वी (३) इत्य॑ब्रवीत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -481,6 +718,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒न्धान्तु सन्द॑धावहै॒ त्वामे॒व प्र वि॑शा॒नीति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+(He replied), 'Let us make a compact; let me enter thee.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -500,6 +742,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 यन्माम्प्र॑वि॒शेᳵ किम्मा॑ भुञ्ज्या॒ इत्य॑ब्रवीत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+'If thou dost enter me, in what way wilt thou enjoy me?'
+</details>
+
 <details><summary>मूलम्</summary>
 
 यन्माम्प्र॑वि॒शेᳵ किम्मा॑ भुञ्ज्या॒ इत्य॑ब्रवीत् ।  
@@ -513,15 +760,33 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वामे॒वेन्धी॑य ।  
-तव॒ भोगा॑य॒ त्वाम्प्र वि॑शेय॒मित्य॑ब्रवीत् ।   
-तव्ँ वृ॒त्रᳶ प्रावि॑शत् ।  
+तव॒ भोगा॑य॒ त्वाम्प्र वि॑शेय॒मित्य॑ब्रवीत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+'I will kindle thee; I will enter thee for thine enjoyment', he answered.
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्वामे॒वेन्धी॑य ।  
-तव॒ भोगा॑य॒ त्वाम्प्र वि॑शेय॒मित्य॑ब्रवीत् ।   
-तव्ँ वृ॒त्रᳶ प्रावि॑शत् ।  
+तव॒ भोगा॑य॒ त्वाम्प्र वि॑शेय॒मित्य॑ब्रवीत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तव्ँ वृ॒त्रᳶ प्रावि॑शत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Vrtra entered him.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तव्ँ वृ॒त्रᳶ प्रावि॑शत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -533,6 +798,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 
 उ॒दरव्ँ॒ वै वृ॒त्रः, क्षुत्खलु॒ वै म॑नु॒ष्य॑स्य॒ भ्रातृ॑व्यो॒ य  
 ए॒वव्ँ वेद॒ हन्ति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Vrtra is the belly; hunger is man's enemy; he who [6] knows this slays
 </details>
 
 <details><summary>मूलम्</summary>
@@ -548,12 +818,32 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षुध॒म्भ्रातृ॑व्य॒न्तद॑स्मै॒ प्राय॑च्छत् ।  
+क्षुध॒म्भ्रातृ॑व्य॒न्तद॑स्मै॒ प्राय॑च्छत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+the enemy hunger.
 </details>
 
 <details><summary>मूलम्</summary>
 
-क्षुध॒म्भ्रातृ॑व्य॒न्तद॑स्मै॒ प्राय॑च्छत् ।  
+क्षुध॒म्भ्रातृ॑व्य॒न्तद॑स्मै॒ प्राय॑च्छत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्षुध॒म्भ्रातृ॑व्य॒न्तद॑स्मै॒ प्राय॑च्छत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+He gave it to him;
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्षुध॒म्भ्रातृ॑व्य॒न्तद॑स्मै॒ प्राय॑च्छत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -566,6 +856,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 तत्प्रत्य॑गृह्णात् ।  
 त्रिर्मा॑ धा॒ इति॑ ।  
 तद्विष्ण॒वेेऽति॒ प्राय॑च्छत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he accepted it, and (saying), 'Thrice hast thou furthered me', gave it to Visnu.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -584,6 +879,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 
 तद्विष्णु॒ᳶ प्रत्य॑गृह्णात् ।  
 अ॒स्मास्विन्द्र॑ इन्द्रि॒यन्द॑धा॒त्विति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Visnu accepted it (saying), 'Let Indra place power in us.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -613,14 +913,32 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्विष्णु॑र॒न्वति॑ष्ठत ।  
-विष्ण॒वेेऽति॒ प्राय॑च्छत् ।  
-तस्मा॑दैन्द्रावैष्ण॒वँ ह॒विर्भ॑वति ।
+विष्ण॒वेेऽति॒ प्राय॑च्छत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+In that thrice he gave and thrice he accepted, that is the reason of the threefold character of the threefold.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद्विष्णु॑र॒न्वति॑ष्ठत ।  
-विष्ण॒वेेऽति॒ प्राय॑च्छत् ।  
+विष्ण॒वेेऽति॒ प्राय॑च्छत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॑दैन्द्रावैष्ण॒वँ ह॒विर्भ॑वति ।
+</details>
+
+<details><summary>Keith</summary>
+
+In that Visnu aided him and he gave (it) to Visnu, therefore the offering belongs to Indra and Visnu.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॑दैन्द्रावैष्ण॒वँ ह॒विर्भ॑वति ।
 </details>
 
@@ -639,6 +957,11 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 यद्वा इ॒दङ्किञ्च॒ तद॑स्मै॒ तत्प्राय॑च्छत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Whatever there is here he gave to him,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्वा इ॒दङ्किञ्च॒ तद॑स्मै॒ तत्प्राय॑च्छत् ।  
@@ -651,13 +974,31 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋच॒स्सामा॑नि॒ यजूँ॑षि स॒हस्रव्ँ॒ वा अ॑स्मै॒ तत्प्राय॑च्छत् ।  
-तस्मा॑त्स॒हस्र॑दक्षिणम् ॥
+ऋच॒स्सामा॑नि॒ यजूँ॑षि स॒हस्रव्ँ॒ वा अ॑स्मै॒ तत्प्राय॑च्छत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+the Rces, the Samans, the Yajuses.
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऋच॒स्सामा॑नि॒ यजूँ॑षि स॒हस्रव्ँ॒ वा अ॑स्मै॒ तत्प्राय॑च्छत् ।  
+ऋच॒स्सामा॑नि॒ यजूँ॑षि स॒हस्रव्ँ॒ वा अ॑स्मै॒ तत्प्राय॑च्छत् ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॑त्स॒हस्र॑दक्षिणम् ॥
+</details>
+
+<details><summary>Keith</summary>
+
+A thousand he gave to him; therefore there are a thousand gifts.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॑त्स॒हस्र॑दक्षिणम् ॥
 </details>
 

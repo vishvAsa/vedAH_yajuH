@@ -16,6 +16,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 हि॒र॒ण्य॒ग॒र्भः..
 </details>
 
+<details><summary>Keith</summary>
+
+The golden germ.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हि॒र॒ण्य॒ग॒र्भः..
@@ -41,6 +46,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 आपो॑ ह॒ यत् ..
 </details>
 
+<details><summary>Keith</summary>
+
+When the waters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आपो॑ ह॒ यत् ..
@@ -62,6 +72,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा॑पते ...
+</details>
+
+<details><summary>Keith</summary>
+
+O Prajapati.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -97,6 +112,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 स द्यामौर्णो॑द॒न्तरि॑क्षँ॒ स सुव॒स्स विश्वा॒ भुवो॑ अभव॒त्स आऽभ॑वत् ।
 </details>
 
+<details><summary>Keith</summary>
+
+He as a son knoweth the father, he the mother, He is a son, he is of generous returns; He hath enveloped the sky, the atmosphere, he the heaven; He hath become all the worlds, he hath come to be.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स वे॑द पु॒त्रᳶ पि॒तरँ॒ स मा॒तरँ॒ स सू॒नुर्भु॑व॒त्स भु॑व॒त्पुन॑र्मघः ।   
@@ -117,6 +137,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदु॒ त्यम् ...
+</details>
+
+<details><summary>Keith</summary>
+
+Up that.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -148,6 +173,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 चि॒त्रम्...
 </details>
 
+<details><summary>Keith</summary>
+
+The radiant.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चि॒त्रम्...
@@ -177,6 +207,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 बृ॒हत्त॑तन्थ भा॒नुना॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou from of old with thy new glory, O Agni, with thy companion light, Hast mightily outstretched.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सप्र॑त्न॒वन्नवी॑य॒साऽग्ने॑ द्यु॒म्नेन॑ सय्ँ॒यता॑ ।  
@@ -197,6 +232,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 
 निकाव्या॑ वे॒धस॒श्शश्व॑तस्क॒र्हस्ते॒ दधा॑नः (64)  नर्या॑ पु॒रूणि॑ ।  
 अ॒ग्निर्भु॑वद्रयि॒पती॑ रयी॒णाँ स॒त्रा च॑क्रा॒णो अ॒मृता॑नि॒ विश्वा॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He doth put down the wise contrivings of every worshipper; Bearing in his arm [1] many a manly deed; Agni hath become the lord of riches, Making ever all immortal things.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -224,6 +264,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 स चेत्ता॑ दे॒वता॑ प॒दम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+To help us I summon The golden-handed Savitr; He as a god knoweth the place.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हिर॑ण्यपाणिमू॒तये॑ सवि॒तार॒मुप॑ ह्वये ।   
@@ -244,6 +289,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 
 वा॒मम॒द्य स॑वितर्वा॒ममु॒ श्वो दि॒वेदि॑वे वा॒मम॒स्मभ्यँ॑ सावीः ।   
 वा॒मस्य॒ हि क्षय॑स्य देव॒ भूरे॑र॒या धि॒या वा॑म॒भाज॑स्स्याम ।
+</details>
+
+<details><summary>Keith</summary>
+
+Prosperity to-day, O Savitr prosperity to-morrow, Day by day prosperity mayst thou procure for us; Through this prayer may we win the prosperity Of many a prosperous dwelling, O god.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -273,6 +323,14 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
+
+<details><summary>Keith</summary>
+
+O earth, thou bearest
+The weight of the mountains,
+Thou that dost, O great earth,
+With thy hills, quicken with thy might [2].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -310,6 +368,14 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_18/09_stomAsas_tvA.md">
 
+<details><summary>Keith</summary>
+
+The songs salute thee,
+Thee that extendest far, each day,
+Thee that, O bright one, dost shoot forward
+The seed like great riches.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्तोमा॑सस्त्वा विचारिणि॒ प्रति॑ष्टोभन्त्य॒क्तुभिः॑ ।  
@@ -335,6 +401,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 अ॒यय्ँयस्सोमो॒ न्यधा॑य्य॒स्मे तस्मा॒ इन्द्र॑म्प्र॒तिर॑मे॒म्यच्छ॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+May I be in companionship with the friend pleasant within, Who being drunk shall not harm me, O thou of the tawny steeds; This Soma that hath been deposited within us, For that I go to Indra to prolong (my life).
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒दू॒दरे॑ण॒ सख्या॑ सचेय॒ यो मा॒ न रिष्ये॑द्धर्यश्व पी॒तः ।   
@@ -355,6 +426,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 
 आपा॑न्तमन्युस्तृ॒पल॑प्रभर्मा॒ धुनि॒श्शिमी॑वा॒ञ्छरु॑माँ ऋजी॒षी ।  
 सोमो॒ विश्वा॑न्यत॒सा वना॑नि॒ नार्वागिन्द्र॑म्प्रति॒माना॑नि देभुः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Giving spirit when drunken, with swift onset, Impetuous, strong, bearing arrows, with the residue is Soma; All plants and trees deceived not aforetime As substitutes Indra.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -382,6 +458,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 वृषा॑ य॒न्तासि॒ शव॑सस्तु॒रस्या॒न्तर्य॑च्छ गृण॒ते ध॒र्त्रन्दृँ॑ह ।
 </details>
 
+<details><summary>Keith</summary>
+
+Soma [3] the righteous as pressed becometh visible, Jamadagni singing the hymn to Indra; Thou art the mighty restrainer of impetuous might; Ward it off and strengthen the support for the singer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र (66)  सु॒वा॒नस्सोम॑ ऋत॒युश्चि॑के॒तेन्द्रा॑य॒ ब्रह्म॑ ज॒मद॑ग्नि॒रर्च॑न् ।   
@@ -403,6 +484,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 
 स॒बाध॑स्ते॒ मद॑ञ्च शुष्म॒यञ्च॒ ब्रह्म॒ नरो॑ ब्रह्म॒कृत॑स्सपर्यन् ।   
 अ॒र्को वा॒ यत्तु॒रते॒ सोम॑चक्षा॒स्तत्रेदिन्द्रो॑ दधते पृ॒त्सु तु॒र्याम् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+In unison men that make prayers offer to thee this prayer That giveth delight and invigoration; When the hymn with the radiance of Soma shall speed forth, Then shall Indra show his might in the contests.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -431,6 +517,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 वर्ध॑न्तु त्वा सुष्टु॒तयो॒ गिरो॑ मे यू॒यम्पा॑त स्व॒स्तिभि॒स्सदा॑ नः ।
 </details>
 
+<details><summary>Keith</summary>
+
+From the mouth to thee, O Visnu, do I utter the Vasat call; Do thou accept my oblation, O Śipivista [4]; Let my fair hymns of praise cause thee to wax great; Do ye protect us ever with blessings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वष॑ट्ते विष्णवा॒स आ कृ॑णोमि॒ तन्मे॑ जुषस्व शिपिविष्ट ह॒व्यम् । (67)  
@@ -451,6 +542,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 
 प्र तत्ते॑ अ॒द्य शि॑पिविष्ट॒ नामा॒र्यश्शँ॑सामि व॒युना॑नि वि॒द्वान् ।   
 तन्त्वा॑ गृणामि त॒वस॒मत॑वीया॒न्क्षय॑न्तम॒स्य रज॑सᳶ परा॒के ।
+</details>
+
+<details><summary>Keith</summary>
+
+That name of thee, the noble, to-day I celebrate, O Śipivista, knowing the ways; I, the weaker, sing thee the strong, That rulest beyond this region.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -476,6 +572,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 मा वर्पो॑ अ॒स्मदप॑गूह ए॒तद्यद॒न्यरू॑पस्समि॒थे ब॒भूथ॑ । (68)
 </details>
 
+<details><summary>Keith</summary>
+
+What was there to be disclosed in thee, O Visnu, What time thou didst declare, 'I am Śipivista'? Conceal not from us that form of thine What time thou dost change thy shape in battle [5].
+</details>
+
 <details><summary>मूलम्</summary>
 
 किमित्ते॑ विष्णो परि॒चक्ष्य॑म्भू॒त्प्रयद्व॑व॒क्षे शि॑पिवि॒ष्टो अ॑स्मि ।  
@@ -496,6 +597,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 
 अग्ने॒ दा दा॒शुषे॑ र॒यिव्ँवी॒रव॑न्त॒म्परी॑णसम् ।  
 शि॒शी॒हि न॑स्सूनु॒मतः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni, give to the giver Wealth of heroes in abundance; Quicken us to richness in sons.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -519,6 +625,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 
 दा नो॑ अग्ने श॒तिनो॒ दास्स॑ह॒स्रिणो॑ दु॒रो न वाजँ॒ श्रुत्या॒ अपा॑वृधि ।   
 प्राची॒ द्यावा॑पृथि॒वी ब्रह्म॑णा कृधि॒ सुव॒र्ण शु॒क्रमु॒षसो॒ विदि॑द्युतुः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Give to us, O Agni, a hundred, give a thousandfold; Like doors disclose for us booty for renown; Make with the prayer sky and earth propitious; Like bright heaven the dawns have shone forth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -547,6 +658,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 अ॒ग्निर्दि॒वि ह॒व्यमात॑ताना॒ग्नेर्धामा॑नि॒ विभृ॑ता पुरु॒त्रा ।
 </details>
 
+<details><summary>Keith</summary>
+
+Agni give wealth that decketh the hero; Agni the Rsi who winneth thousands; Agni hath placed the oblation in the sky; In many a place are the abodes of Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्दा॒ द्रवि॑णव्ँवी॒रपे॑शा अ॒ग्निर्ऋषिय्ँ॒यस्स॒हस्रा॑ स॒नोति॑ ।   
@@ -566,6 +682,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा (69) नो॒ म॒र्द्धी॒रा तू भ॑र ।
+</details>
+
+<details><summary>Keith</summary>
+
+Destroy [6] us not. Bring to us.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -602,6 +723,11 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 
 घृ॒तन्न पू॒तन्त॒नूर॑रे॒पाश्शुचि॒ हिर॑ण्यम् ।  
 तत्ते॑ रु॒क्मो न रो॑चत स्वधावः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thy body is faultless, Like ghee purified, like pure gold That of thine shineth like an ornament, O thou powerful one.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -649,6 +775,15 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 उतो᳓ न उ᳓त् पुपूरिया  
 उक्थे᳓षु शवसस् पत  
 इ᳓षं स्तोतृ᳓भ्य आ᳓ भर
+</details>
+
+<details><summary>Keith</summary>
+
+O bright one, in thy mouth thou cookest
+Both ladles (full) of butter;
+Do thou make us full
+For our hymns, O lord of strength;
+Do thou bear food to the praisers.
 </details>
 
 <details><summary>तैत्तिरीयम् मूलम्</summary>
@@ -984,6 +1119,11 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 उ॒त वा॑ ते सह॒स्रिणो॒ रथ॒ आ या॑तु॒ पाज॑सा ।
 </details>
 
+<details><summary>Keith</summary>
+
+O Vayu, a hundred of bay (steeds) Worthy of nourishment do thou yoke; Or let the chariot of thee that hast a thousand (steeds) Come with might.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वायो॑ श॒तँ हरी॑णाय्ँयु॒वस्व॒ पोष्या॑णाम् ।   
@@ -1012,6 +1152,11 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 नि नो॑ र॒यिँ सु॒भोज॑सय्ँयुवे॒ह नि वी॒रव॒द्गव्य॒मश्वि॑यञ्च॒ राधः॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+The teams [7] wherewith thou comest to the giver, O Vayu, for seeking in the house, Grant us wealth rich in enjoyment, And a treasure of heroes, of horses, of cows.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र याभि॒र्यासि॑ दा॒श्वाँस॒मच्छा॑ नि॒युद्भि॑र्वायवि॒ष्टये॑ दुरो॒णे ।  
@@ -1034,6 +1179,11 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 क्षु॒मन्तो॒ याभि॒र्मदे॑म ।
 </details>
 
+<details><summary>Keith</summary>
+
+Rich banquets be ours with Indra, With mighty strength, Wherewith fed we may rejoice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रे॒वती॑र्नस्सध॒माद॒ इन्द्रे॑ सन्तु तु॒विवा॑जाः ।  
@@ -1054,6 +1204,11 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 रे॒वाँ इद्रे॒वत॑स्स्तो॒ता स्यात्त्वाव॑तो म॒घोनः॑ ।  
 प्रेदु॑ हरिवश्श्रु॒तस्य॑ ॥ (71)  
+</details>
+
+<details><summary>Keith</summary>
+
+Rich should he be, the praiser Of a generous and wealthy one like thee; (Famed) be (the praiser) of thee that art famed, O thou with the bays.
 </details>
 
 <details><summary>मूलम्</summary>

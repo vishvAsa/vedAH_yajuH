@@ -16,6 +16,11 @@ title = "०६ कारीरीष्टिप्राच्याङ्ग�
 चि॒त्रया॑ यजेत प॒शुका॑मः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He who desires cattle should sacrifice with the Śitra (offering);
+</details>
+
 <details><summary>मूलम्</summary>
 
 चि॒त्रया॑ यजेत प॒शुका॑मः ।  
@@ -28,13 +33,31 @@ title = "०६ कारीरीष्टिप्राच्याङ्ग�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ वै चि॒त्रा ।  
-यद्वा अ॒स्याव्ँविश्व॑म्भू॒तमधि॑ प्र॒जाय॑ते॒ तेने॒यञ्चि॒त्रा ।
+इ॒यव्ँ वै चि॒त्रा ।
+</details>
+
+<details><summary>Keith</summary>
+
+Śitra is this (earth);
 </details>
 
 <details><summary>मूलम्</summary>
 
-इ॒यव्ँ वै चि॒त्रा ।  
+इ॒यव्ँ वै चि॒त्रा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्वा अ॒स्याव्ँविश्व॑म्भू॒तमधि॑ प्र॒जाय॑ते॒ तेने॒यञ्चि॒त्रा ।
+</details>
+
+<details><summary>Keith</summary>
+
+in that in this (earth) all things are produced, thereby is this (earth) variegated (citra);
+</details>
+
+<details><summary>मूलम्</summary>
+
 यद्वा अ॒स्याव्ँविश्व॑म्भू॒तमधि॑ प्र॒जाय॑ते॒ तेने॒यञ्चि॒त्रा ।
 </details>
 
@@ -47,6 +70,11 @@ title = "०६ कारीरीष्टिप्राच्याङ्ग�
 
 य ए॒वव्ँवि॒द्वाँश्चि॒त्रया॑ प॒शुका॑मो॒ यज॑ते ।  
 प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते ।
+</details>
+
+<details><summary>Keith</summary>
+
+he who knowing thus sacrifices with the Śitra desirous of cattle is propagated with offspring, with cattle, with pairings.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -69,28 +97,111 @@ title = "०६ कारीरीष्टिप्राच्याङ्ग�
 
 प्रैवाग्ने॒येन॑ वापयति ।  
 रेत॑स्सौ॒म्येन॑ दधाति ।  
-रेत॑ ए॒व हि॒तन्त्वष्टा॑ रू॒पाणि॒ वि क॑रोति ।  
-सा॒र॒स्व॒तौ भ॑वतः ।  
-ए॒तद्वै दैव्य॑म्मिथु॒नन्दैव्य॑मे॒वा॒स्मै॒ मि॒थु॒नम्म॑ध्य॒तो द॑धाति ।  
-पुष्ट्यै॑ प्र॒जन॑नाय सिनीवा॒ल्यै च॒रुर्भ॑वति ।  
-वाग्वै सि॑नीवा॒ली ।  
-पुष्टि॒ᳵ खलु॒ वै वाक् ।  
-पुष्टि॑मे॒व वाच॒मुपै॑ति ।  
-ऐ॒न्द्र उ॑त्त॒मो भ॑वति ।  
+रेत॑ ए॒व हि॒तन्त्वष्टा॑ रू॒पाणि॒ वि क॑रोति ।
+</details>
+
+<details><summary>Keith</summary>
+
+With the offering to Agni he strews, with that to Soma he impregnates seed, the seed impregnated Tvastr develops into forms;
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रैवाग्ने॒येन॑ वापयति ।  
 रेत॑स्सौ॒म्येन॑ दधाति ।  
-रेत॑ ए॒व हि॒तन्त्वष्टा॑ रू॒पाणि॒ वि क॑रोति ।  
-सा॒र॒स्व॒तौ भ॑वतः ।  
-ए॒तद्वै दैव्य॑म्मिथु॒नन्दैव्य॑मे॒वा॒स्मै॒ मि॒थु॒नम्म॑ध्य॒तो द॑धाति ।  
-पुष्ट्यै॑ प्र॒जन॑नाय सिनीवा॒ल्यै च॒रुर्भ॑वति ।  
-वाग्वै सि॑नीवा॒ली ।  
+रेत॑ ए॒व हि॒तन्त्वष्टा॑ रू॒पाणि॒ वि क॑रोति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा॒र॒स्व॒तौ भ॑वतः ।
+</details>
+
+<details><summary>Keith</summary>
+
+there are (offerings) to Sarasvant and Sarasvati;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा॒र॒स्व॒तौ भ॑वतः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ए॒तद्वै दैव्य॑म्मिथु॒नन्दैव्य॑मे॒वा॒स्मै॒ मि॒थु॒नम्म॑ध्य॒तो द॑धाति ।
+</details>
+
+<details><summary>Keith</summary>
+
+that is the divine pair;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒तद्वै दैव्य॑म्मिथु॒नन्दैव्य॑मे॒वा॒स्मै॒ मि॒थु॒नम्म॑ध्य॒तो द॑धाति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुष्ट्यै॑ प्र॒जन॑नाय सिनीवा॒ल्यै च॒रुर्भ॑वति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily in the midst he bestows upon him a divine [1] pair, for growth, for propagation.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुष्ट्यै॑ प्र॒जन॑नाय सिनीवा॒ल्यै च॒रुर्भ॑वति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाग्वै सि॑नीवा॒ली ।
+</details>
+
+<details><summary>Keith</summary>
+
+There is an oblation to Sinivali;
+</details>
+
+<details><summary>मूलम्</summary>
+
+वाग्वै सि॑नीवा॒ली ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुष्टि॒ᳵ खलु॒ वै वाक् ।  
-पुष्टि॑मे॒व वाच॒मुपै॑ति ।  
-ऐ॒न्द्र उ॑त्त॒मो भ॑वति ।  
+पुष्टि॑मे॒व वाच॒मुपै॑ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Sinivali is speech, speech is growth;
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुष्टि॒ᳵ खलु॒ वै वाक् ।  
+पुष्टि॑मे॒व वाच॒मुपै॑ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऐ॒न्द्र उ॑त्त॒मो भ॑वति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he approaches speech and growth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऐ॒न्द्र उ॑त्त॒मो भ॑वति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -102,6 +213,11 @@ title = "०६ कारीरीष्टिप्राच्याङ्ग�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनै॒व तन्मि॑थु॒नँ स॒प्तैतानि॑ ह॒वीँषि॑ भवन्ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The last is to Indra, and thereby there is a pair. Seven are these offerings,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -117,6 +233,26 @@ title = "०६ कारीरीष्टिप्राच्याङ्ग�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒प्त ग्रा॒म्याᳶ प॒शव॑स्स॒प्तार॒ण्यास्स॒प्त छन्दाँ॑स्यु॒भय॒स्याव॑रुद्ध्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+the tame animals are seven, the wild seven;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒प्त ग्रा॒म्याᳶ प॒शव॑स्स॒प्तार॒ण्यास्स॒प्त छन्दाँ॑स्यु॒भय॒स्याव॑रुद्ध्यै ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒प्त ग्रा॒म्याᳶ प॒शव॑स्स॒प्तार॒ण्यास्स॒प्त छन्दाँ॑स्यु॒भय॒स्याव॑रुद्ध्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+the metres are seven, for the winning of both.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -139,6 +275,11 @@ title = "०६ कारीरीष्टिप्राच्याङ्ग�
 अथै॒ता आहु॑तीर्जुहोति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Then he offers these oblations;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथै॒ता आहु॑तीर्जुहोति ।  
@@ -151,14 +292,32 @@ title = "०६ कारीरीष्टिप्राच्याङ्ग�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ते वै दे॒वाᳶ पुष्टि॑पतय॒स्त ए॒वास्मि॒न्पुष्टि॑न्दधति ।   
-पुष्य॑ति प्र॒जया॑ प॒शुभिः॑ ।     
+ए॒ते वै दे॒वाᳶ पुष्टि॑पतय॒स्त ए॒वास्मि॒न्पुष्टि॑न्दधति ।
+</details>
+
+<details><summary>Keith</summary>
+
+these gods are the lords of growth;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ए॒ते वै दे॒वाᳶ पुष्टि॑पतय॒स्त ए॒वास्मि॒न्पुष्टि॑न्दधति ।   
-पुष्य॑ति प्र॒जया॑ प॒शुभिः॑ ।     
+ए॒ते वै दे॒वाᳶ पुष्टि॑पतय॒स्त ए॒वास्मि॒न्पुष्टि॑न्दधति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुष्य॑ति प्र॒जया॑ प॒शुभिः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily they bestow growth upon him, he grows with offspring and cattle;
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुष्य॑ति प्र॒जया॑ प॒शुभिः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -169,6 +328,11 @@ title = "०६ कारीरीष्टिप्राच्याङ्ग�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो॒ यदे॒ता आहु॑तीर्जु॒होति॒ प्रति॑ष्ठित्यै ॥
+</details>
+
+<details><summary>Keith</summary>
+
+moreover in that he offers these oblations, (they serve) for support.
 </details>
 
 <details><summary>मूलम्</summary>

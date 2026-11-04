@@ -9,6 +9,7 @@ title = "१० नैमित्तिक्यः काम्याश्च
 
 ## राजन्यस्य
 ### त्रित्वम्
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्रीँ स्तृ॒चाननु॑ ब्रूयाद्राज॒न्य॑स्य॒ त्रयो॒ वा अ॒न्ये रा॑ज॒न्या॑त्पुरु॑षा ब्राह्म॒णो वैश्य॑श्शू॒द्रस्ताने॒वास्मा॒ अनु॑कान्करोति
@@ -27,6 +28,7 @@ title = "१० नैमित्तिक्यः काम्याश्च
 
 In the case of a Rajanya let him repeat the Trcas thrice three other sorts of men are there besides the warrior, the Brahman, Vaiśya and Śudra; verily he makes them obedient to him.
 </details>
+
 <details><summary>मूलम्</summary>
 
 त्रीँ स्तृ॒चाननु॑ ब्रूयाद् राज॒न्य॑स्य ।  
@@ -69,6 +71,7 @@ In the case of a Rajanya let him repeat the Trcas thrice three other sorts of me
 </details>
 
 ### १५त्वम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्च-दशा᳓नु ब्रूयाद् राजन्य᳙स्य ।  
@@ -80,6 +83,7 @@ In the case of a Rajanya let him repeat the Trcas thrice three other sorts of me
 
 He should repeat fifteen (Samidhenis) in the case of a Rajanya; the Rajanya is fifteenfold; verily he makes him find support in his own Stoma.
 </details>
+
 <details><summary>मूलम्</summary>
 
 पञ्च॑द॒शानु॑ ब्रूयाद्राज॒न्य॑स्य ।  
@@ -105,18 +109,20 @@ He should repeat fifteen (Samidhenis) in the case of a Rajanya; the Rajanya is f
 </details>
 
 ### त्रिष्टुभ्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रिष्टु᳓भा प᳓रि दध्यात्।  
-इन्द्रियव्ँ᳓ वै᳓ त्रिष्टु᳓क् +++(११-सङ्ख्याक-पादत्वात्)+++ ।  
-इन्द्रिय᳓-कामᳵ ख᳓लु वै᳓ राजन्यो᳙ यजते ।  
-त्रिष्टु᳓भैवा᳓स्मा इन्द्रिय᳓म् प᳓रि गृह्णाति ।  
+त्रिष्टु᳓भा प᳓रि दध्यात्  
+इन्द्रियव्ँ᳓ वै᳓ त्रिष्टु᳓क् +++(११-सङ्ख्याक-पादत्वात्)+++   
+इन्द्रिय᳓-कामᳵ ख᳓लु वै᳓ राजन्यो᳙ यजते   
+त्रिष्टु᳓भैवा᳓स्मा इन्द्रिय᳓म् प᳓रि गृह्णाति   
 </details>
 
 <details><summary>English</summary>
 
 Let him surround it with a Tristubh; the Tristubh is power, the Rajanya sacrifices in desire of power; verily by the Tristubh he secures power for him.
 </details>
+
 <details><summary>मूलम्</summary>
 
 त्रि॒ष्टुभा॒ परि॑ दध्यादिन्द्रि॒यव्ँ वै त्रि॒ष्टुगि॑न्द्रि॒यका॑म॒ᳵ खलु॒ वै रा॑ज॒न्यो॑ यजते त्रि॒ष्टुभै॒वास्मा॑ इन्द्रि॒यम्परि॑ गृह्णाति 
@@ -147,19 +153,21 @@ Let him surround it with a Tristubh; the Tristubh is power, the Rajanya sacrific
 </details>
 
 ## ब्रह्मवर्चसम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दि काम᳓येत ब्रह्मवर्चस᳓म् अस्त्व् इ᳓ति  
-गायत्रिया᳓ प᳓रि दध्यात् ।  
+गायत्रिया᳓ प᳓रि दध्यात्   
 
-ब्रह्मवर्चसव्ँ᳓ वै᳓  गायत्री᳓ ।  
-ब्रह्म-वर्चस᳓म् एव᳓ भवति ।  
+ब्रह्मवर्चसव्ँ᳓ वै᳓  गायत्री᳓   
+ब्रह्म-वर्चस᳓म् एव᳓ भवति   
 </details>
 
 <details><summary>English</summary>
 
 If he desires [1], 'May there be splendour', he should surround it with a Gayatri, the Gayatri is splendour; verily there is splendour.
 </details>
+
 <details><summary>मूलम्</summary>
 
 यदि॑ का॒मये॑त [57]  ब्र॒ह्म॒व॒र्च॒सम॒स्त्विति॑  गायत्रि॒या परि॑ दध्याद्ब्रह्मवर्च॒सव्ँ वै गा॑य॒त्री ब्र॑ह्मवर्च॒समे॒व भ॑वति
@@ -191,17 +199,19 @@ If he desires [1], 'May there be splendour', he should surround it with a Gayatr
 
 ## वैश्यस्य 
 ### १७त्वम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सप्त᳓दशा᳓नु ब्रूयाद् वै᳓श्यस्य ।  
-सप्तदशो᳓ वै᳓ वै᳓श्यः ।  
-स्व᳓ एवै᳓नँ स्तो᳓मे प्र᳓ति ष्ठापयति।
+सप्त᳓दशा᳓नु ब्रूयाद् वै᳓श्यस्य   
+सप्तदशो᳓ वै᳓ वै᳓श्यः   
+स्व᳓ एवै᳓नँ स्तो᳓मे प्र᳓ति ष्ठापयति
 </details>
 
 <details><summary>English</summary>
 
 He should repeat seventeen for a Vaiśya; the Vaiśya is seventeenfold; verily he makes him find support in his own Stoma.
 </details>
+
 <details><summary>मूलम्</summary>
 
 स॒प्तद॒शानु॑ ब्रूया॒द्वैश्य॑स्य सप्तद॒शो वै वैश्य॒स्स्व ए॒वैनँ॒ स्तोमे॒ प्रति॑ ष्ठापयति
@@ -231,6 +241,7 @@ He should repeat seventeen for a Vaiśya; the Vaiśya is seventeenfold; verily h
 </details>
 
 ### पशवः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज᳓गत्या प᳓रि दध्यात् ।   
@@ -243,6 +254,7 @@ He should repeat seventeen for a Vaiśya; the Vaiśya is seventeenfold; verily h
 
 He should surround it with a Jagati; cattle are connected with the Jagati, the Vaiśya sacrifices in desire of cattle; verily by the Jagati he secures cattle for him.
 </details>
+
 <details><summary>मूलम्</summary>
 
 जग॑त्या॒ परि॑ दध्यात् ।   
@@ -271,18 +283,20 @@ He should surround it with a Jagati; cattle are connected with the Jagati, the V
 </details>
 
 ## प्रतिष्ठाकामस्य २१
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए᳓क-विँशतिम् अ᳓नु ब्रूयात् प्रतिष्ठा᳓-कामस्य।   
+ए᳓क-विँशतिम् अ᳓नु ब्रूयात् प्रतिष्ठा᳓-कामस्य   
 
-एकविँशः᳓ स्तो᳓मानाम् प्रतिष्ठा᳓।  
-प्र᳓तिष्ठित्यै । 
+एकविँशः᳓ स्तो᳓मानाम् प्रतिष्ठा᳓  
+प्र᳓तिष्ठित्यै  
 </details>
 
 <details><summary>English</summary>
 
 He should repeat twenty one for one who desires support; the Ekavinśa is the support of the Stomas; (verily twenty-one serve) for support [2].
 </details>
+
 <details><summary>मूलम्</summary>
 
 एक॑विँशति॒मनु॑ ब्रूयात्प्रति॒ष्ठाका॑मस्यैकविँ॒शस्स्तोमा॑नाम्प्रति॒ष्ठा प्रति॑ष्ठित्यै [58]
@@ -324,20 +338,22 @@ _______________
 </details>
 
 ## ब्रह्मवर्चस-कामस्य २४
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-च᳓तुर्विँशतिम् अ᳓नु ब्रूयाद् ब्रह्मवर्चस᳓-कामस्य ।  
+च᳓तुर्विँशतिम् अ᳓नु ब्रूयाद् ब्रह्मवर्चस᳓-कामस्य   
 
-च᳓तुर्विँशत्य्-अक्षरा गायत्री᳓ ।  
+च᳓तुर्विँशत्य्-अक्षरा गायत्री᳓   
 
-गायत्री᳓ ब्रह्मवर्चस᳓म्  ।  
-गायत्रियै᳓वा᳓स्मै ब्रह्मवर्चस᳓म᳓व रुन्द्धे ।
+गायत्री᳓ ब्रह्मवर्चस᳓म्    
+गायत्रियै᳓वा᳓स्मै ब्रह्मवर्चस᳓म᳓व रुन्द्धे 
 </details>
 
 <details><summary>English</summary>
 
 He should repeat twenty-four for one who desires splendour: the Gayatri has twenty-four syllables, splendour is the Gayatri; verily by the Gayatri he secures splendour for him.
 </details>
+
 <details><summary>मूलम्</summary>
 
 चतु॑र्विँशति॒मनु॑ ब्रूयाद्ब्रह्मवर्च॒सका॑मस्य॒ चतु॑र्विँशत्यक्षरा गायत्री᳓ गाय॒त्री ब्र॑ह्मवर्च॒सङ्गायत्रि॒यैवास्मै॑ ब्रह्मवर्च॒समव॑ रुन्द्धे
@@ -365,18 +381,20 @@ He should repeat twenty-four for one who desires splendour: the Gayatri has twen
 </details>
 
 ## अन्नकामस्य ३०
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रिँश᳓तम् अ᳓नु ब्रूयाद् अ᳓न्नकामस्य।  
-त्रिँश᳓द्-अक्षरा विरा᳓ट् ।  
-अ᳓न्नव्ँ विरा᳓ड् ।  
-विरा᳓जैवा᳓स्मा अन्ना᳓द्यम् अ᳓व रुन्द्धे ।  
+त्रिँश᳓तम् अ᳓नु ब्रूयाद् अ᳓न्नकामस्य  
+त्रिँश᳓द्-अक्षरा विरा᳓ट्   
+अ᳓न्नव्ँ विरा᳓ड्   
+विरा᳓जैवा᳓स्मा अन्ना᳓द्यम् अ᳓व रुन्द्धे   
 </details>
 
 <details><summary>English</summary>
 
 He should repeat thirty for one who desires food; the Viraj has thirty syllables, the Viraj is food; verily by the Viraj he secures food for him.
 </details>
+
 <details><summary>मूलम्</summary>
 
 त्रिँ॒शत॒मनु॑ ब्रूया॒दन्न॑कामस्य त्रिँ॒शद॑क्षरा वि॒राडन्नव्ँ॑वि॒राड्वि॒राजै॒वास्मा॑ अ॒न्नाद्य॒मव॑ रुन्द्धे
@@ -402,18 +420,20 @@ He should repeat thirty for one who desires food; the Viraj has thirty syllables
 </details>
 
 ## प्रतिष्ठाकामस्य ३२
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वा᳓त्रिँशतम् अ᳓नुब्रूयात् प्रतिष्ठा᳓कामस्य।  
-द्वा᳓त्रिँशद्-अक्षरा ऽनुष्टु᳙क् ।  
-अनुष्टु᳓प् छ᳓न्दसाम् प्रतिष्ठा᳓।  
-प्र᳓तिष्ठित्यै ।   
+द्वा᳓त्रिँशतम् अ᳓नुब्रूयात् प्रतिष्ठा᳓कामस्य  
+द्वा᳓त्रिँशद्-अक्षरा ऽनुष्टु᳙क्   
+अनुष्टु᳓प् छ᳓न्दसाम् प्रतिष्ठा᳓  
+प्र᳓तिष्ठित्यै    
 </details>
 
 <details><summary>English</summary>
 
 He should repeat thirty-two, for one who desires support; the Anustubh has thirty-two syllables, the Anustubh is the support of the metres; (verily thirty-two serve) for support.
 </details>
+
 <details><summary>मूलम्</summary>
 
 द्वात्रिँ॑शत॒मनु॑ब्रूयात्प्रति॒ष्ठाका॑मस्य॒ द्वात्रिँ॑शदक्षराऽनु॒ष्टु॑गनु॒ष्टुप्छन्द॑साम्प्रति॒ष्ठा प्रति॑ष्ठित्यै
@@ -442,18 +462,20 @@ He should repeat thirty-two, for one who desires support; the Anustubh has thirt
 </details>
 
 ## पशुकामस्य ३६
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ष᳓ट्त्रिँशतम् अ᳓नु ब्रूयात् पशु᳓कामस्य ।
-ष᳓ट्-त्रिँशद्-अक्षरा बृहती᳓।   
-बा᳓र्हताᳶ पश᳓वः ।  
-बृ᳓हत्यै᳓वा᳓स्मै पशू᳓न् अ᳓व रुन्द्धे ।  
+ष᳓ट्त्रिँशतम् अ᳓नु ब्रूयात् पशु᳓कामस्य 
+ष᳓ट्-त्रिँशद्-अक्षरा बृहती᳓   
+बा᳓र्हताᳶ पश᳓वः   
+बृ᳓हत्यै᳓वा᳓स्मै पशू᳓न् अ᳓व रुन्द्धे   
 </details>
 
 <details><summary>English</summary>
 
 He should repeat thirty-six for one who desires cattle; the Brhati has thirty-six syllables, cattle are connected with the Brhati; verily by the Brhati he secures cattle for him [3].
 </details>
+
 <details><summary>मूलम्</summary>
 
 षट्त्रिँ॑शत॒मनु॑ ब्रूयात्प॒शुका॑मस्य॒ षट्त्रिँ॑शदक्षरा बृह॒ती बार्ह॑ताᳶ प॒शवो॑ बृह॒त्यैवास्मै॑ प॒शून् [59]  अव॑ रुन्द्धे
@@ -478,18 +500,20 @@ He should repeat thirty-six for one who desires cattle; the Brhati has thirty-si
 </details>
 
 ## इन्द्रियकामस्य ४४
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-च᳓तुश्चत्वारिँशतम् अ᳓नु ब्रूयाद् इन्द्रिय᳓कामस्य ।  
+च᳓तुश्चत्वारिँशतम् अ᳓नु ब्रूयाद् इन्द्रिय᳓कामस्य   
 च᳓तुश् चत्वारिँशद्-अक्षरा त्रिष्टु᳓क्,  
 इन्द्रिय᳓न् त्रिष्टु᳓प्,  ..
-त्रिष्टु᳓भैवा᳓स्मा इन्द्रिय᳓म् अ᳓व रुन्द्धे।
+त्रिष्टु᳓भैवा᳓स्मा इन्द्रिय᳓म् अ᳓व रुन्द्धे
 </details>
 
 <details><summary>English</summary>
 
 He should repeat forty-four for one who desires power, the Tristubh has forty-four syllables, the Tristubh is power; verily by the Tristubh he secures power for him.
 </details>
+
 <details><summary>मूलम्</summary>
 
 चतु॑श्चत्वारिँशत॒मनु॑ ब्रूयादिन्द्रि॒यका॑मस्य॒ चतु॑श्चत्वारिँशदक्षरा त्रि॒ष्टुगि॑न्द्रि॒यन्त्रि॒ष्टुप्त्रि॒ष्टुभै॒वास्मा॑ इन्द्रि॒यमव॑ रुन्द्धे
@@ -514,18 +538,20 @@ He should repeat forty-four for one who desires power, the Tristubh has forty-fo
 </details>
 
 ## पशुकामस्य ४८
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अष्टा᳓चत्वारिँशतम् अ᳓नु ब्रूयात् पशु᳓कामस्य ।    
-अष्टा᳓चत्वारिँशद्-अक्षरा ज᳓गती ।  
-जा᳓गताᳶ पश᳓वः।  
-ज᳓गत्यैवा᳓स्मै पशू᳓न् अ᳓व रुन्द्धे ।  
+अष्टा᳓चत्वारिँशतम् अ᳓नु ब्रूयात् पशु᳓कामस्य     
+अष्टा᳓चत्वारिँशद्-अक्षरा ज᳓गती   
+जा᳓गताᳶ पश᳓वः  
+ज᳓गत्यैवा᳓स्मै पशू᳓न् अ᳓व रुन्द्धे   
 </details>
 
 <details><summary>English</summary>
 
 He should repeat forty-eight for one who desires cattle; the Jagati has forty-eight syllables, cattle are connected with the Jagati; verily with the Jagati he secures cattle for him.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ष्टाच॑त्वारिँशत॒मनु॑ ब्रूयात्प॒शुका॑मस्या॒ष्टाच॑त्वारिँशदक्षरा॒ जग॑ती॒ जाग॑ताᳶ प॒शवो॒ जग॑त्यै॒वास्मै॑ प॒शूनव॑ रुन्द्धे
@@ -549,11 +575,11 @@ He should repeat forty-eight for one who desires cattle; the Jagati has forty-ei
 पुनः फलान्तराय विधत्ते-   **अष्टाचत्वारिँ शतमिति।** 
 </details>
 
-
 ## बहुयाजिनः सर्वाणि
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓र्वाणि छ᳓न्दाँस्य् अ᳓नु ब्रूयाद् बहुयाजि᳓नः ।   
+स᳓र्वाणि छ᳓न्दाँस्य् अ᳓नु ब्रूयाद् बहुयाजि᳓नः    
 
 स᳓र्वाणि वा᳓ एत᳓स्य छ᳓न्दाँस्य् अ᳓वरुद्धानि  
 यो᳓ बहुयाज्य᳓परिमितम् अ᳓नु ब्रूयाद्  
@@ -564,6 +590,7 @@ He should repeat forty-eight for one who desires cattle; the Jagati has forty-ei
 
 He should repeat all the metres for one who makes many sacrifices, for all the metres are won by him who makes many sacrifices. He should repeat indefinitely to win that which is not definite.
 </details>
+
 <details><summary>मूलम्</summary>
 
 सर्वा॑णि॒ छन्दाँ॒स्यनु॑ ब्रूयाद्बहुया॒जिन॒स्सर्वा॑णि॒ वा ए॒तस्य॒ छन्दाँ॒स्यव॑रुद्धानि॒ यो ब॑हुया॒ज्यप॑रिमित॒मनु॑ ब्रूया॒दप॑रिमित॒स्याव॑रुद्ध्यै ॥ [60]

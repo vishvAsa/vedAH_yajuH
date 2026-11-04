@@ -8,9 +8,10 @@ title = "०८ द्वितीयादि-सामिधेनी-मन�
 </details>
 
 ## अग्न आयाहीति त्यृचम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓यज्ञो वा᳓ एष᳓ यो᳙ऽसामा᳓ ।
+अ᳓यज्ञो वा᳓ एष᳓ यो᳙ऽसामा᳓ 
 </details>
 
 <details><summary>English</summary>
@@ -43,18 +44,31 @@ Without a Saman there is no sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓ग्न आ᳓ याहि वीत᳓य इ᳓त्य् आह।  
+अ᳓ग्न आ᳓ याहि वीत᳓य इ᳓त्य् आह।
+</details>
+
+<details><summary>English</summary>
+
+'O Agni, come hither for the feast', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अग्न॒ आ या॑हि वी॒तय॒ इत्या॑ह।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रथन्तर᳓स्यैष᳓ व᳓र्णः ।
 </details>
 
 <details><summary>English</summary>
 
-'O Agni, come hither for the feast', he says; this is the character of the Rathantara.
+this is the character of the Rathantara.
 </details>
 
 <details><summary>मूलम्</summary>
 
-अग्न॒ आ या॑हि वी॒तय॒ इत्या॑ह।  
 र॒थ॒न्त॒रस्यै॒ष वर्णः॑ ।
 </details>
 
@@ -82,20 +96,34 @@ Without a Saman there is no sacrifice.
 </details>
 
 ### त᳓न् त्वा समि᳓द्भिरङ्गिर!
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"त᳓न् त्वा समि᳓द्भिरङ्गिर!" इ᳓त्याह ।  
+"त᳓न् त्वा समि᳓द्भिरङ्गिर!" इ᳓त्याह ।
+</details>
+
+<details><summary>English</summary>
+
+'Thee with the kindling-sticks, O Angiras', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तन्त्वा॑ स॒मिद्भि॑रङ्गिर॒ इत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वामदेव्य᳓स्यैष᳓ व᳓र्णः ।
 </details>
 
 <details><summary>English</summary>
 
-'Thee with the kindling-sticks, O Angiras', he says; this is the character of the Vamadevya.
+this is the character of the Vamadevya.
 </details>
 
 <details><summary>मूलम्</summary>
 
-तन्त्वा॑ स॒मिद्भि॑रङ्गिर॒ इत्या॑ह ।  
 वा॒म॒दे॒व्यस्यै॒ष वर्णः॑ ।
 </details>
 
@@ -105,20 +133,34 @@ Without a Saman there is no sacrifice.
 </details>
 
 ### बृह᳓द् अग्ने सुवी᳓र्यम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह᳓द् अग्ने सुवी᳓र्यम् इ᳓त्याह ।  
+बृह᳓द् अग्ने सुवी᳓र्यम् इ᳓त्याह ।
+</details>
+
+<details><summary>English</summary>
+
+'The great and powerful one, O Agni', he says.
+</details>
+
+<details><summary>मूलम्</summary>
+
+बृ॒हद॑ग्ने सु॒वीर्य॒मित्या॑ह ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
 बृहत᳓ एष᳓ व᳓र्णः ।
 </details>
 
 <details><summary>English</summary>
 
-'The great and powerful one, O Agni', he says. This is the character of the Brhat.
+This is the character of the Brhat.
 </details>
 
 <details><summary>मूलम्</summary>
 
-बृ॒हद॑ग्ने सु॒वीर्य॒मित्या॑ह ।  
 बृ॒ह॒त ए॒ष वर्णः॑ ।
 </details>
 
@@ -140,6 +182,7 @@ Without a Saman there is no sacrifice.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् एत᳓न् तृच᳓म् अन्वा᳓ह …
+ ।
 </details>
 
 <details><summary>English</summary>
@@ -198,22 +241,36 @@ he makes the sacrifice have Samans.
 </details>
 
 ### लोक-शमनम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र् अमु᳓ष्मिल्ँ लोक᳓ आ᳓सीत् ।  
-आदि᳓त्यो ऽस्मिन् ।  
-ता᳓व् इमौ᳓ लोका᳓व् अ᳓शान्ताव् आस्ताम् ।
+आदि᳓त्यो ऽस्मिन् ।
 </details>
 
 <details><summary>English</summary>
 
-Agni was in yonder world, the sun in this; these worlds were disturbed [1].
+Agni was in yonder world, the sun in this;
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर॒मुष्मिल्ँ॑ लो॒क आसी॑त् ।  
-आ॒दित्यो॑ऽस्मिन् ।  
+आ॒दित्यो॑ऽस्मिन् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता᳓व् इमौ᳓ लोका᳓व् अ᳓शान्ताव् आस्ताम् ।
+</details>
+
+<details><summary>English</summary>
+
+these worlds were disturbed [1].
+</details>
+
+<details><summary>मूलम्</summary>
+
 तावि॒मौ लो॒कावशा॑न्तावास्ताम् ।
 </details>
 
@@ -302,18 +359,31 @@ The gods said, 'Let us change them about.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"बृह᳓द् अग्ने सुवी᳓र्यम्" इ᳓त्य् अमु᳓ष्मिल्ँ लोक᳓ आदित्य᳓म् ।  
+"बृह᳓द् अग्ने सुवी᳓र्यम्" इ᳓त्य् अमु᳓ष्मिल्ँ लोक᳓ आदित्य᳓म् ।
+</details>
+
+<details><summary>English</summary>
+
+and (saying),'The great and powerful one, O Agni', they placed the sun in yonder world.
+</details>
+
+<details><summary>मूलम्</summary>
+
+बृ॒हद॑ग्ने सु॒वीर्य॒मित्य॒मुष्मिल्ँ॑ लो॒क आ॑दि॒त्यम् ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
 त᳓तो वा᳓ इमौ᳓ लोका᳓व् अशाम्यताम् ।
 </details>
 
 <details><summary>English</summary>
 
-and (saying),'The great and powerful one, O Agni', they placed the sun in yonder world. Then indeed these worlds became calm.
+Then indeed these worlds became calm.
 </details>
 
 <details><summary>मूलम्</summary>
 
-बृ॒हद॑ग्ने सु॒वीर्य॒मित्य॒मुष्मिल्ँ॑ लो॒क आ॑दि॒त्यम् ।  
 ततो॒ वा इ॒मौ लो॒काव॑शाम्यताम् ।
 </details>
 
@@ -334,18 +404,31 @@ and (saying),'The great and powerful one, O Agni', they placed the sun in yonder
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓द् एव᳓म् अन्वा᳓हान᳓योर् लोक᳓योश् शा᳓न्त्यै।  
+य᳓द् एव᳓म् अन्वा᳓हान᳓योर् लोक᳓योश् शा᳓न्त्यै
+</details>
+
+<details><summary>English</summary>
+
+In that he repeats (it) thus, (it serves) for the calming of these worlds;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदे॒वम॒न्वाहा॒नयो॑र्लो॒कयो॒श्शान्त्यै॒
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 शा᳓म्यतो ऽस्मा᳓ इमौ᳓ लोकौ᳓ य᳓ एवव्ँ᳓ वे᳓द᳓।
 </details>
 
 <details><summary>English</summary>
 
-In that he repeats (it) thus, (it serves) for the calming of these worlds; these worlds become calm for him who knows thus.
+these worlds become calm for him who knows thus.
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदे॒वम॒न्वाहा॒नयो॑र्लो॒कयो॒श्शान्त्यै॒  
 शाम्य॑तो॒ऽस्मा इ॒मौ लो॒कौ य ए॒वव्ँ वेद।
 </details>
 
@@ -365,6 +448,7 @@ In that he repeats (it) thus, (it serves) for the calming of these worlds; these
 </details>
 
 ## १५ सामिधेन्यः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्चदश सामिधेनी᳓र᳓न्वाह ।
@@ -396,7 +480,6 @@ He repeats fifteen Samidhenis [2].
 प᳓ञ्चदश वा᳓ अर्धमास᳓स्य रा᳓त्रयः ।
 
 </details>
-
 
 <details><summary>English</summary>
 
@@ -525,6 +608,7 @@ verily by syllables he obtains the year.
 </details>
 
 ## घृतवत्-पादः
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नृ॒मेध॑श्च॒ परु॑च्छेपश्च ब्रह्म॒वाद्य॑मवदेताम॒स्मिन्दारा॑वा॒र्द्रे॑ऽग्निञ्ज॑नयाव यत॒रो नौ॒ ब्रह्मी॑या॒निति॑
@@ -620,18 +704,31 @@ which of us two is the more of a theologian.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नृमे᳓धो ऽभ्य᳙वदत्  ।   
+नृमे᳓धो ऽभ्य᳙वदत्  ।
+</details>
+
+<details><summary>English</summary>
+
+Nrmedha spoke;
+</details>
+
+<details><summary>मूलम्</summary>
+
+नृ॒मेधो॒ऽभ्य॑वदत्  ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स᳓ धूम᳓म् अजनयत् ।
 </details>
 
 <details><summary>English</summary>
 
-Nrmedha spoke; he generated smoke.
+he generated smoke.
 </details>
 
 <details><summary>मूलम्</summary>
 
-नृ॒मेधो॒ऽभ्य॑वदत्  ।   
 स धू॒मम॑जनयत् ।
 </details>
 
@@ -653,18 +750,33 @@ Nrmedha spoke; he generated smoke.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प᳓रुच्छेपो ऽभ्य᳙वदत् ।  
-सो᳓ ऽग्नि᳓म् अजनयत् ।
+प᳓रुच्छेपो ऽभ्य᳙वदत् ।
+ । ।
 </details>
 
 <details><summary>English</summary>
 
-Paruchepa spoke; he generated fire.
+Paruchepa spoke;
 </details>
 
 <details><summary>मूलम्</summary>
 
 परु॑च्छेपः । अ॒भीति॑ । अ॒व॒द॒त् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सो᳓ ऽग्नि᳓म् अजनयत् ।
+ । ।
+</details>
+
+<details><summary>English</summary>
+
+he generated fire.
+</details>
+
+<details><summary>मूलम्</summary>
+
 सः । अ॒ग्निम् । अ॒ज॒न॒य॒त् ।
 </details>
 
@@ -814,20 +926,34 @@ The character of the Samidhenis is the quarter-verse which is repeated with the 
 </details>
 
 ## त᳓न् त्वा समि᳓द्भिर् अङ्गिर!
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓न् त्वा समि᳓द्भिर् अङ्गिर! इ᳓त्य् आह ।  
+त᳓न् त्वा समि᳓द्भिर् अङ्गिर! इ᳓त्य् आह ।
+</details>
+
+<details><summary>English</summary>
+
+'Thee with the kindling sticks, Angiras', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तन्त्वा॑ स॒मिद्भि॑रङ्गिर॒ इत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सामिधेनी᳓ष्व् एव᳓ त᳓ज् ज्यो᳓तिर् जनयति ।
 </details>
 
 <details><summary>English</summary>
 
-'Thee with the kindling sticks, Angiras', he says; verily he generates light in the Samidhenis.
+verily he generates light in the Samidhenis.
 </details>
 
 <details><summary>मूलम्</summary>
 
-तन्त्वा॑ स॒मिद्भि॑रङ्गिर॒ इत्या॑ह ।  
 सा॒मि॒धे॒नीष्वे॒व तज्ज्योति॑र्जनयति ।
 </details>
 
@@ -848,6 +974,7 @@ The character of the Samidhenis is the quarter-verse which is repeated with the 
 </details>
 
 ## वृषण्वती
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्त्रि᳓यस् ते᳓न य᳓द् ऋ᳓चः ।  
@@ -949,9 +1076,11 @@ By it he gives them a husband, makes them possess Indra, and mates them.
 </details>
 
 ## अग्नि-दौत्यम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र् देवा᳓नान् दूत᳓ आ᳓सीत् +++(→चादिलोपे विभाषा)+++ …
+ ।
 </details>
 
 <details><summary>English</summary>
@@ -1042,13 +1171,28 @@ They went to question Prajapati;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓ प्रजा᳓पतिर्  
+स᳓ प्रजा᳓पतिर्
+ ।
+</details>
+
+<details><summary>English</summary>
+
+he turned away (from Uśanas) (with the words).
+</details>
+
+<details><summary>मूलम्</summary>
+
+स प्र॒जाप॑तिर॒ग्निन्दू॒तव्ँवृ॑णीमह॒ इत्य॒भि प॒र्याव॑र्तत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "अग्नि᳓न् दूतव्ँ᳓ वृणीमह" इ᳓त्य् +++(उशनसः)+++ अभि᳓ पर्या᳓वर्तत ।
 </details>
 
 <details><summary>English</summary>
 
-he turned away (from Uśanas) (with the words). 'Agni as messenger we choose.'
+'Agni as messenger we choose.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1111,6 +1255,7 @@ Then the gods prospered, the Asuras were defeated.
 य᳓स्यैवाव्ँ᳓ विदु᳓षो "ऽग्नि᳓न् दूतव्ँ᳓ वृणीमह" इ᳓त्यन्वा᳓ह,  
 भ᳓वत्य् आत्म᳓ना ।  
 प᳓रास्य भ्रा᳓तृव्यो भवति ।
+ ।
 </details>
 
 <details><summary>English</summary>
@@ -1146,22 +1291,35 @@ The man for whom, knowing thus, he repeats, 'Agni as messenger we choose, prospe
 </details>
 
 ## अध्वरवती
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अध्वर᳓वतीम् अ᳓न्वाह ।   
-भ्रा᳓तृव्यम् एवै᳓त᳓या ध्वरति +++(=नाशयति)+++ ।  
+अध्वर᳓वतीम् अ᳓न्वाह ।
 </details>
 
 <details><summary>English</summary>
 
-He repeats a verse with the word 'imperishable';  
+He repeats a verse with the word 'imperishable';
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ध्व॒रव॑ती॒मन्वा॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भ्रा᳓तृव्यम् एवै᳓त᳓या ध्वरति +++(=नाशयति)+++ ।
+</details>
+
+<details><summary>English</summary>
+
 verily by it he causes his enemy to perish [5].
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒ध्व॒रव॑ती॒मन्वा॑ह ।   
-भ्रातृ॑व्यमे॒वैतया॑  ध्वरति ।  
+भ्रातृ॑व्यमे॒वैतया॑  ध्वरति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1182,6 +1340,7 @@ verily by it he causes his enemy to perish [5].
 </details>
 
 ## शो॒चिष्के॑श॒स्तमी॑मह॒
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "शोचि᳓ष्केशस् त᳓म् ईमह" इ᳓त्य् आह ।
@@ -1217,6 +1376,7 @@ verily by it he causes his enemy to perish [5].
 </details>
 
 ## समिद्धो अग्ने
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓मिद्धो अग्न आहुते᳓त्याह ।  
@@ -1273,7 +1433,6 @@ verily he places around a barrier that may not be climbed.
 तथा सति समिद्ध इति समाप्तिसूचनादेतं मन्त्रं परिधित्वेन स्थापितवान्भवति। स च परिधिः प्रक्षिप्यमाणसमिघामस्कन्दायाविनाशाय भवति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् अ᳓त ऊर्ध्व᳓म् अभ्यादध्या᳓त्,  
@@ -1314,9 +1473,10 @@ If he were to add anything further, it would be just as when (a libation) falls 
 </details>
 
 ## हव्यवाहनः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्र᳓यो वा᳓ अग्न᳓यः ।   
+त्र᳓यो वा᳓ अग्न᳓यः    
 हव्यवा᳓हनो देवा᳓नाम् ,  
 कव्यवा᳓हनᳶ पितृणा᳓म् , सह᳓रक्षा अ᳓सुराणाम् ।  
 </details>
@@ -1348,11 +1508,10 @@ There are three Agnis, the oblation bearer of the gods, the bearer of the offeri
 चरमायामृचि हव्यवाहनमित्यग्निविशेषणं प्रशंसति-  त्रयो वा इति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓ एत᳓र्ह्य् आ᳓ शँसन्ते -   
-"माव्ँ᳓ वरिष्यते, मा᳓म्" इ᳓ति।
+त᳓ एत᳓र्ह्य् आ᳓ शँसन्ते
+"माव्ँ᳓ वरिष्यते, मा᳓म्" इ᳓ति
 </details>
 
 <details><summary>English</summary>
@@ -1378,18 +1537,32 @@ They repeat, 'Me will he choose, me' [6].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"वृणीध्वँ᳓ हव्यवा᳓हनम्" इ᳓त्याह ।  
+"वृणीध्वँ᳓ हव्यवा᳓हनम्" इ᳓त्याह ।
+</details>
+
+<details><summary>English</summary>
+
+'Choose ye the bearer of the oblation', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"वृणी॒ध्वँ ह॑व्य॒वाह॑न॒म्" इत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 य᳓ एव᳓ देवा᳓नान्, तव्ँ᳓ वृणीते ।
 </details>
 
 <details><summary>English</summary>
 
-'Choose ye the bearer of the oblation', he says; 'let him choose him who is of the gods.
+'let him choose him who is of the gods.
 </details>
 
 <details><summary>मूलम्</summary>
 
-"वृणी॒ध्वँ ह॑व्य॒वाह॑न॒म्" इत्या॑ह । य ए॒व दे॒वाना॒न्, तव्ँ वृ॑णीते ।
+य ए॒व दे॒वाना॒न्, तव्ँ वृ॑णीते ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1409,6 +1582,7 @@ They repeat, 'Me will he choose, me' [6].
 </details>
 
 ## आर्षेय-वरणम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्षेयव्ँ᳓ वृणीते ।

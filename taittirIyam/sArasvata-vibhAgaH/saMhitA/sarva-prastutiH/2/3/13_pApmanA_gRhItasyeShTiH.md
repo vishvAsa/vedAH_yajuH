@@ -6,7 +6,9 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
  विश्वेदेवा ऋषयः ।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/13_pApmanA_gRhItasyeShTiH/yA_vAm.md">
+
 <details open><summary><h5>Y A v Am ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1'यः पाप्मना गृहीतस्स्यात्तस्मा एतामैन्द्रावरुणीं पयस्यां निर्वपेत्' इत्यादि कारणं वक्ष्यति । तां पुरोडाशाच्चतुर्धा कृत्वा व्यूहति - यावामिन्द्रावरुणेति चतुर्भिर्मन्त्रैः॥ यतव्या सहस्या रक्षस्या तेजस्येति चतुर्णां विशेषः । शेषस्तुल्यः ।
@@ -206,6 +208,7 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 </details>
 </details>
 </div>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्रो॒ वा ए॒तस्य॑ [48]  इ॒न्द्रि॒येणाप॑ क्रामति॒ वरु॑ण एनव्ँवरुणपा॒शेन॑ गृह्णाति॒ यᳶ पा॒प्मना॑ गृही॒तो भव॑ति॒ यᳶ पा॒प्मना॑ गृही॒तस्स्यात्तस्मा॑ ए॒तामै॑न्द्रावरु॒णीम्प॑य॒स्या॑न्निर्व॑पे॒दिन्द्र॑ ए॒वास्मि॑न्निन्द्रि॒यन्द॑धाति॒ वरु॑ण एनव्ँवरुणपा॒शान्मु॑ञ्चति
@@ -217,6 +220,11 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 वरु॑ण एनव्ँवरुणपा॒शेन॑ गृह्णाति ।  
 यᳶ पा॒प्मना॑ गृही॒तो भव॑ति ।  
 यᳶ पा॒प्मना॑ गृही॒तस्स्यात् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Indra departs with his [1] power, Varuna seizes him with Varuna's noose, who is seized by evil;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -234,14 +242,32 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑ ए॒तामै॑न्द्रावरु॒णीम्प॑य॒स्या॑न्निर्व॑पेत् ।  
-इन्द्र॑ ए॒वास्मि॑न्निन्द्रि॒यन्द॑धाति ।  
-वरु॑ण एनव्ँवरुणपा॒शान्मु॑ञ्चति ।
+तस्मा॑ ए॒तामै॑न्द्रावरु॒णीम्प॑य॒स्या॑न्निर्व॑पेत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+for him who is seized by evil, he should offer this (offering of) clotted milk to Indra and Varuna;
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्मा॑ ए॒तामै॑न्द्रावरु॒णीम्प॑य॒स्या॑न्निर्व॑पेत् ।  
+तस्मा॑ ए॒तामै॑न्द्रावरु॒णीम्प॑य॒स्या॑न्निर्व॑पेत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द्र॑ ए॒वास्मि॑न्निन्द्रि॒यन्द॑धाति ।  
+वरु॑ण एनव्ँवरुणपा॒शान्मु॑ञ्चति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily Indra bestows power upon him, Varuna frees him from Varuna's noose.
+</details>
+
+<details><summary>मूलम्</summary>
+
 इन्द्र॑ ए॒वास्मि॑न्निन्द्रि॒यन्द॑धाति ।  
 वरु॑ण एनव्ँवरुणपा॒शान्मु॑ञ्चति ।
 </details>
@@ -259,16 +285,47 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प॒य॒स्या॑ भवति ।  
-पयो॒ हि वा ए॒तस्मा॑दप॒क्रामति ।    
-अथै॒ष पा॒प्मना॑ गृही॒तो यत्प॑य॒स्या॑ भव॑ति ।  
-पय॑ ए॒वास्मि॒न्तया॑ दधाति ।
+पयो॒ हि वा ए॒तस्मा॑दप॒क्रामति ।
+</details>
+
+<details><summary>Keith</summary>
+
+(The offering) is of clotted milk, for milk departs from him;
 </details>
 
 <details><summary>मूलम्</summary>
 
 प॒य॒स्या॑ भवति ।  
-पयो॒ हि वा ए॒तस्मा॑दप॒क्रामति ।    
-अथै॒ष पा॒प्मना॑ गृही॒तो यत्प॑य॒स्या॑ भव॑ति ।  
+पयो॒ हि वा ए॒तस्मा॑दप॒क्रामति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथै॒ष पा॒प्मना॑ गृही॒तो यत्प॑य॒स्या॑ भव॑ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he is seized with evil;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथै॒ष पा॒प्मना॑ गृही॒तो यत्प॑य॒स्या॑ भव॑ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पय॑ ए॒वास्मि॒न्तया॑ दधाति ।
+</details>
+
+<details><summary>Keith</summary>
+
+in that it is of clotted milk, thereby he bestows milk upon him.
+</details>
+
+<details><summary>मूलम्</summary>
+
 पय॑ ए॒वास्मि॒न्तया॑ दधाति ।
 </details>
 
@@ -288,6 +345,11 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 आ॒त्म॒न्वन्त॑मे॒वैन॑ङ्करोति ।
 </details>
 
+<details><summary>Keith</summary>
+
+In the clotted milk [2] he puts down the cake; verily he makes him possessed of a body,
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒य॒स्या॑याम्पुरो॒डाश॒मव॑ दधाति ।  
@@ -302,6 +364,11 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो॑ आ॒यत॑नवन्तमे॒व +++(करोति)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+and also possessed of an abode.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -319,6 +386,11 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 च॒तु॒र्धा व्यू॑हति  ।
 </details>
 
+<details><summary>Keith</summary>
+
+He separates it into four pieces;
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒तु॒र्धा व्यू॑हति  ।
@@ -334,6 +406,11 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 दि॒क्ष्वे॑व प्रति॑ तिष्ठति ।
 </details>
 
+<details><summary>Keith</summary>
+
+verily he finds supports in the quarters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒क्ष्वे॑व प्रति॑ तिष्ठति ।
@@ -346,13 +423,31 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुन॒स्समू॑हति ।  
-दि॒ग्भ्य ए॒वास्मै॑ भेष॒जङ्क॑रोति ।
+पुन॒स्समू॑हति ।
+</details>
+
+<details><summary>Keith</summary>
+
+he unites (the fires) again;
 </details>
 
 <details><summary>मूलम्</summary>
 
-पुन॒स्समू॑हति ।  
+पुन॒स्समू॑हति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दि॒ग्भ्य ए॒वास्मै॑ भेष॒जङ्क॑रोति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he procures healing for him from the quarters;
+</details>
+
+<details><summary>मूलम्</summary>
+
 दि॒ग्भ्य ए॒वास्मै॑ भेष॒जङ्क॑रोति ।
 </details>
 
@@ -364,6 +459,11 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒मूह्याव॑ द्यति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+having united (them) he cuts off (portions);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -379,6 +479,11 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथावि॑द्धन्निष्कृ॒न्तति॑ ता॒दृगे॒व तत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+that is as when one cuts up what has been pierced.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -398,13 +503,31 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वा॑मिन्द्रावरुणाव॒ग्नौ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यज॒ इत्या॑ह ।   
-दुरि॑ष्ट्या ए॒वैन॑म्पाति ।
+यो वा॑मिन्द्रावरुणाव॒ग्नौ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यज॒ इत्या॑ह ।
+</details>
+
+<details><summary>Keith</summary>
+
+(That disease of yours, O Indra and Varuna, that is in the fire, that of yours I appease hereby', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
-यो वा॑मिन्द्रावरुणाव॒ग्नौ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यज॒ इत्या॑ह ।   
+यो वा॑मिन्द्रावरुणाव॒ग्नौ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यज॒ इत्या॑ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दुरि॑ष्ट्या ए॒वैन॑म्पाति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he protects him from error in sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 दुरि॑ष्ट्या ए॒वैन॑म्पाति ।
 </details>
 
@@ -423,6 +546,11 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 यो वा॑मिन्द्रावरुणा द्वि॒पात्सु॑ प॒शुषु॒ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यज॒ इत्या॑ह ।  
 </details>
 
+<details><summary>Keith</summary>
+
+'That disease of yours, O Indra and Varuna, that is in the two footed cattle, that of yours I appease hereby', he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो वा॑मिन्द्रावरुणा द्वि॒पात्सु॑ प॒शुषु॒ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यज॒ इत्या॑ह ।  
@@ -438,6 +566,11 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 ए॒ताव॑ती॒र्वा आप॒ ओष॑धयो॒ वन॒स्पत॑यᳶ प्र॒जाᳶ प॒शव॑ उपजीव॒नीयाः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+so many are the waters, the plants, the trees, offspring and cattle on whom to live;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ताव॑ती॒र्वा आप॒ ओष॑धयो॒ वन॒स्पत॑यᳶ प्र॒जाᳶ प॒शव॑ उपजीव॒नीयाः ।  
@@ -451,6 +584,11 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता ए॒वास्मै॑ वरुणपा॒शान्मु॑ञ्चति ॥
+</details>
+
+<details><summary>Keith</summary>
+
+verily does he free them for him from Varuna's noose.
 </details>
 
 <details><summary>मूलम्</summary>

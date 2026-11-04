@@ -4,6 +4,7 @@ title = "०४ ऐन्द्रेष्टयः"
 +++
 
 ## सेन्द्रत्वम्  
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 भ्रातृव्यतः पशुकामस्य च यागौ । सान्नायदेवता च।
@@ -81,19 +82,32 @@ and by it the full moon has Indra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्रन् दध्य् अ॑मावा॒स्या॑याम्।  
-तेना॑मावा॒स्या॑ सेन्द्रा॑।  
+ऐ॒न्द्रन् दध्य् अ॑मावा॒स्या॑याम्।
 </details>
 
 <details><summary>Keith</summary>
 
-There are curds for Indra at the new moon;  
-verily the new moon has Indra.  
+There are curds for Indra at the new moon;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऐ॒न्द्रन्दध्य॑मावा॒स्या॑या॒न्तेना॑मावा॒स्या॑ सेन्द्रा॑।  
+ऐ॒न्द्रन्दध्य॑मावा॒स्या॑या॒न्तेना॑मावा॒स्या॑ सेन्द्रा॑।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेना॑मावा॒स्या॑ सेन्द्रा॑।
+</details>
+
+<details><summary>Keith</summary>
+
+verily the new moon has Indra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऐ॒न्द्रन्दध्य॑मावा॒स्या॑या॒न्तेना॑मावा॒स्या॑ सेन्द्रा॑।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,7 +119,8 @@ verily the new moon has Indra.
 
 य ए॒वव्ँ वि॒द्वान् द॑र्श--पूर्ण-मा॒सौ यज॑ते॒  
 सेन्द्रा॑व् ए॒वैनौ॑ यजते ।  
-श्वश्-श्वो॑ ऽस्मा ईजा॒नाय॒ वसी॑यो भवति ।  
+श्वश्-श्वो॑ ऽस्मा ईजा॒नाय॒ वसी॑यो भवति ।
+ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -144,33 +159,48 @@ and day after day it becomes better for him who has so sacrificed.
 </details>
 
 ## भ्रातृव्यवत इष्टिः  
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वा वै यद् य॒ज्ञेऽकु॑र्वत ।  
-तद् असु॑रा अकुर्वत ।  
-ते दे॒वा ए॒ताम् इष्टि॑म् अपश्यन् -  
-आग्नावैष्ण॒वम् एका॑दश-कपालं॒,  
-सर॑स्वत्यै च॒रुँ,  
-सर॑स्वते च॒रुम्।  
+तद् असु॑रा अकुर्वत ।
 </details>
 
 <details><summary>Keith</summary>
 
-What the gods did at the sacrifice, the Asuras did. The gods [1] saw this offering,  
-one on eleven potsherds for Agni and Visnu,  
-an oblation for Sarasvati,  
-an oblation for Sarasvant;  
+What the gods did at the sacrifice, the Asuras did.
 </details>
 
 <details><summary>मूलम्</summary>
 
 दे॒वा वै यद्य॒ज्ञेऽकु॑र्वत ।  
-तदसु॑रा अकुर्वत ।  
+तदसु॑रा अकुर्वत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते दे॒वा ए॒ताम् इष्टि॑म् अपश्यन् -  
+आग्नावैष्ण॒वम् एका॑दश-कपालं॒,  
+सर॑स्वत्यै च॒रुँ,  
+सर॑स्वते च॒रुम्।
+ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The gods [1] saw this offering,  
+one on eleven potsherds for Agni and Visnu,  
+an oblation for Sarasvati,  
+an oblation for Sarasvant;
+</details>
+
+<details><summary>मूलम्</summary>
+
 ते दे॒वा ए॒तामिष्टि॑मपश्यन् -
 
 आ॒ग्ना॒वै॒ष्ण॒वमेका॑दशकपालम् ।  
 सर॑स्वत्यै च॒रुँ,  
-सर॑स्वते च॒रुम्।  
+सर॑स्वते च॒रुम्।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,11 +252,14 @@ after performing the full moon (sacrifice) they offered this.
 
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/3_darsha-pUrNa-mAsAdi/05_Ajya-grahaNam/tato_devA_abhavan.md">
+
 <details open><summary><h5>ततो॑ दे॒वा अभ॑वन् ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो॑ दे॒वा अभ॑वन्न् +++(←`चादिलोपे विभाषा`)+++,  
-पराऽसु॑राः +++(चाभवन्)+++।  
+पराऽसु॑राः +++(चाभवन्)+++।
+ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -256,6 +289,7 @@ _________________________________
 </details>
 </details>
 </div>
+
 <details><summary>पद-पाठः</summary>
 
 ततः॑ । दे॒वाः । अभ॑वन् ।  
@@ -291,8 +325,8 @@ after performing the full moon (sacrifice).
 पौ॒र्ण॒मा॒सेनै॒व वज्र॒म् भ्रातृ॑व्याय प्र॒हृत्या॑ग्नावैष्ण॒वेन॑  
 दे॒वता॑श् च य॒ज्ञञ्च॒ भ्रातृ॑व्यस्य वृङ्क्ते,  
 मि॒थु॒नान् प॒शून्त् सा॑रस्व॒ताभ्यां॒  
-याव॑द् ए॒वास्यास्ति॒  
-तत् सर्वव्ँ॑ वृङ्क्ते ।  
+याव॑द् ए॒वास्यास्ति॒
+ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -300,15 +334,27 @@ after performing the full moon (sacrifice).
 With the full moon (sacrifice) he hurls the bolt at his enemy,  
 with (the offering) to Agni and Visnu  
 he appropriates the gods and the sacrifice of his enemy,  
-his pairing cattle - with (the offerings) to Sarasvati and Sarasvant.  
-Whatever he has, all that [2] he appropriates.  
+his pairing cattle - with (the offerings) to Sarasvati and Sarasvant.
 </details>
 
 <details><summary>मूलम्</summary>
 
 पौ॒र्ण॒मा॒सेनै॒व वज्र॒म्भ्रातृ॑व्याय प्र॒हृत्या॑ग्नावैष्ण॒वेन॑ दे॒वता॑श्च य॒ज्ञञ्च॒ भ्रातृ॑व्यस्य वृङ्क्ते ।
+</details>
 
-मि॒थु॒नान्प॒शून्त्सा॑रस्व॒ताभ्याय्ँ॒याव॑दे॒वास्यास्ति॒ तत्सर्वव्ँ॑वृङ्क्ते ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत् सर्वव्ँ॑ वृङ्क्ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+Whatever he has, all that [2] he appropriates.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मि॒थु॒नान्प॒शून्त्सा॑रस्व॒ताभ्याय्ँ॒याव॑दे॒वास्यास्ति॒ तत्सर्वव्ँ॑वृङ्क्ते ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -336,21 +382,33 @@ Whatever he has, all that [2] he appropriates.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पौ॒र्ण॒मा॒सीम् ए॒व य॑जेत ।  
-भ्रातृ॑व्यवा॒न् नामा॑वा॒स्याँ॑ ह॒त्वा  
-भ्रातृ॑व्य॒न् ना प्या॑ययति ।  
+भ्रातृ॑व्यवा॒न् नामा॑वा॒स्याँ॑ ह॒त्वा
 </details>
 
 <details><summary>Keith</summary>
 
 One should sacrifice [only] at the full moon,  
-if one has enemies, not at the new moon;  
-having slain one's enemy one does not cause him to grow again.  
+if one has enemies, not at the new moon;
 </details>
 
 <details><summary>मूलम्</summary>
 
-पौ॒र्ण॒मा॒सीमे॒व य॑जेत ।  
-भ्रातृ॑व्यवा॒न्नामा॑वा॒स्याँ॑ ह॒त्वा भ्रातृ॑व्य॒न्ना प्या॑ययति ।  
+पौ॒र्ण॒मा॒सीमे॒व य॑जेत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भ्रातृ॑व्य॒न् ना प्या॑ययति ।
+</details>
+
+<details><summary>Keith</summary>
+
+having slain one's enemy one does not cause him to grow again.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भ्रातृ॑व्यवा॒न्नामा॑वा॒स्याँ॑ ह॒त्वा भ्रातृ॑व्य॒न्ना प्या॑ययति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -376,6 +434,7 @@ having slain one's enemy one does not cause him to grow again.
 </details>
 
 ## साकम्-प्रस्थायीया  
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा॒क॒म्-प्र॒स्था॒यीये॑न यजेत प॒शुका॑मः ।  
@@ -407,11 +466,13 @@ He who desires cattle should sacrifice with the Sakamprasthayiya.
 </details>
 
 ## पूर्णपात्रम्  
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्मै॒ वा अल्पे॑ना॒हर॑न्ति॒,  
 नात्मना॒ तृप्य॑ति ।  
-नान्यस्मै॑ ददाति ।  
+नान्यस्मै॑ ददाति ।
+ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -438,7 +499,8 @@ and does not give to another.
 
 यस्मै॑ मह॒ता तृप्य॑ति,  
 आ॒त्मना॒ ददा॑ति,  
-अ॒न्यस्मै॑ मह॒ता।  
+अ॒न्यस्मै॑ मह॒ता।
+ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -473,20 +535,32 @@ and gives to another.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒र्णँ हो॑त॒व्य॑म्  ।  
-तृ॒प्त ए॒वैन॒म् इन्द्रᳶ॑ प्र॒जया॑ प॒शुभि॑स् तर्पयति  ।  
+पू॒र्णँ हो॑त॒व्य॑म्  ।
 </details>
 
 <details><summary>Keith</summary>
 
-One should offer in full and large measure;  
-Indra then being pleased delights him with offspring and cattle.  
+One should offer in full and large measure;
 </details>
 
 <details><summary>मूलम्</summary>
 
-पू॒र्णँ हो॑त॒व्य॑म्  ।  
-तृ॒प्त ए॒वैन॒मिन्द्रᳶ॑ प्र॒जया॑ प॒शुभि॑स्तर्पयति  ।  
+पू॒र्णँ हो॑त॒व्य॑म्  ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तृ॒प्त ए॒वैन॒म् इन्द्रᳶ॑ प्र॒जया॑ प॒शुभि॑स् तर्पयति  ।
+</details>
+
+<details><summary>Keith</summary>
+
+Indra then being pleased delights him with offspring and cattle.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तृ॒प्त ए॒वैन॒मिन्द्रᳶ॑ प्र॒जया॑ प॒शुभि॑स्तर्पयति  ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -508,6 +582,7 @@ Indra then being pleased delights him with offspring and cattle.
 </details>
 
 ## दारु-पात्रम्  
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दा॒रु॒पा॒त्रेण॑ जुहोति ।  
@@ -571,28 +646,52 @@ for an earthenware one does not hold the offering.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-औदु॑म्बरम् भवति ।  
-ऊर्ग् वा उ॑दु॒म्बरः॑ ।  
-ऊर्क् प॒शवः॑ ।  
-ऊ॒र्जैवास्मा॒ ऊर्ज॑म् प॒शूनव॑ रुन्द्धे ।  
+औदु॑म्बरम् भवति 
 </details>
 
 <details><summary>Keith</summary>
 
-It is of Udumbara wood [3];  
-the Udumbara is strength,  
-cattle are strength;  
-verily by strength he wins for him strength and cattle.  
+It is of Udumbara wood [3];
 </details>
 
 <details><summary>मूलम्</summary>
 
 औदु॑म्बरम् [24] भ॒व॒त्यूर्ग्वा उ॑दु॒म्बर॒ ऊर्क्प॒शव॑ ऊ॒र्जैवास्मा॒ ऊर्ज॑म्प॒शूनव॑ रुन्द्धे
+</details>
 
-औदु॑म्बरम् भवति ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऊर्ग् वा उ॑दु॒म्बरः॑   
+ऊर्क् प॒शवः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+the Udumbara is strength,  
+cattle are strength;
+</details>
+
+<details><summary>मूलम्</summary>
+
+औदु॑म्बरम् भवति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऊ॒र्जैवास्मा॒ ऊर्ज॑म् प॒शूनव॑ रुन्द्धे ।
+ । ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily by strength he wins for him strength and cattle.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ऊर्ग् वा उ॑दु॒म्बरः॑ ।  
 ऊर्क् प॒शवः॑ ।  
-ऊ॒र्जैवास्मा॒ ऊर्ज॑म् प॒शूनव॑ रुन्द्धे ।  
+ऊ॒र्जैवास्मा॒ ऊर्ज॑म् प॒शूनव॑ रुन्द्धे ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -619,7 +718,7 @@ verily by strength he wins for him strength and cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाग॑तश्रीर् महे॒न्द्रय्ँ य॑जेत ।  
+नाग॑तश्रीर् महे॒न्द्रय्ँ य॑जेत   
 त्रयो॒ वै ग॒तश्रि॑यश्- शुश्रु॒वान् ग्रा॑म॒णी रा॑ज॒न्यः॑।  
 </details>
 
@@ -691,7 +790,8 @@ Their deity is Mahendra.
 
 यो वै स्वान् दे॒वता॑म् अति॒यज॑ते॒  
 प्र स्वायै॑ दे॒वता॑यै च्यवते ।  
-न परा॒म् प्राप्नो॑ति ।  
+न परा॒म् प्राप्नो॑ति ।
+ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -755,6 +855,7 @@ and becomes worse.
 </details>
 
 ## संवत्सरावधिः  
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सव्ँ॒व॒त्स॒रमिन्द्रय्ँ॑यजेत सव्ँवत्स॒रँ हि व्र॒तन्नाति॒ स्वा [25]  ए॒वैन॑न्दे॒वते॒ज्यमा॑ना॒ भूत्या॑ इन्द्धे॒ वसी॑यान्भवति  

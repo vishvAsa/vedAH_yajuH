@@ -15,6 +15,11 @@ title = "१२ अश्वदानवतो वारुणीष्टिः
 प्र॒जाप॑ति॒र्वरु॑णा॒याश्व॑मनयत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Prajapati led the horse to Varuna,
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति॒र्वरु॑णा॒याश्व॑मनयत् ।  
@@ -30,6 +35,11 @@ title = "१२ अश्वदानवतो वारुणीष्टिः
 स स्वान्दे॒वता॑मार्च्छत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+it went to its own deity,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स स्वान्दे॒वता॑मार्च्छत् ।  
@@ -43,6 +53,11 @@ title = "१२ अश्वदानवतो वारुणीष्टिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पर्य॑दीर्यत ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he was afflicted;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -61,6 +76,11 @@ title = "१२ अश्वदानवतो वारुणीष्टिः
 तन्निर॑वपत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+he saw this (offering) to Varuna on four potsherds, he offered it;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒तव्ँवा॑रु॒णञ्चतु॑ष्कपालमपश्यत् ।  
@@ -75,13 +95,31 @@ title = "१२ अश्वदानवतो वारुणीष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वै स व॑रुणपा॒शाद॑मुच्यत ।  
-वरु॑णो॒ वा ए॒तङ्गृ॑ह्णाति ।
+ततो॒ वै स व॑रुणपा॒शाद॑मुच्यत ।
+</details>
+
+<details><summary>Keith</summary>
+
+then indeed was he set free from Varuna's noose.
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततो॒ वै स व॑रुणपा॒शाद॑मुच्यत ।  
+ततो॒ वै स व॑रुणपा॒शाद॑मुच्यत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वरु॑णो॒ वा ए॒तङ्गृ॑ह्णाति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Varuna seizes him
+</details>
+
+<details><summary>मूलम्</summary>
+
 वरु॑णो॒ वा ए॒तङ्गृ॑ह्णाति ।
 </details>
 
@@ -92,15 +130,46 @@ title = "१२ अश्वदानवतो वारुणीष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-योऽश्व॑म्प्रतिगृ॒ह्णाति॑।  
-याव॒तोऽश्वा॑न्प्रतिगृह्णी॒यात् ।   
-ताव॑तो वारु॒णाञ्चतु॑ष्कपाला॒न्निर्व॑पेत् ।
+योऽश्व॑म्प्रतिगृ॒ह्णाति॑।
+</details>
+
+<details><summary>Keith</summary>
+
+who accepts the horse.
 </details>
 
 <details><summary>मूलम्</summary>
 
-योऽश्व॑म्प्रतिगृ॒ह्णाति॑।  
-याव॒तोऽश्वा॑न्प्रतिगृह्णी॒यात् ।   
+योऽश्व॑म्प्रतिगृ॒ह्णाति॑।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+याव॒तोऽश्वा॑न्प्रतिगृह्णी॒यात् ।
+</details>
+
+<details><summary>Keith</summary>
+
+As many horses as he accepts, so many (offerings) to Varuna should he offer; verily he has recourse to Varuna with his own share; verily he frees him from Varuna's noose [1].
+</details>
+
+<details><summary>मूलम्</summary>
+
+याव॒तोऽश्वा॑न्प्रतिगृह्णी॒यात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताव॑तो वारु॒णाञ्चतु॑ष्कपाला॒न्निर्व॑पेत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+(The offerings) are on four potsherds, for the horse has four feet; (verily they serve) for prosperity.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ताव॑तो वारु॒णाञ्चतु॑ष्कपाला॒न्निर्व॑पेत् ।
 </details>
 
@@ -142,6 +211,11 @@ title = "१२ अश्वदानवतो वारुणीष्टिः
 एक॒मति॑रिक्त॒न्निर्व॑पेत्  ।
 </details>
 
+<details><summary>Keith</summary>
+
+He should offer an extra one;
+</details>
+
 <details><summary>मूलम्</summary>
 
 एक॒मति॑रिक्त॒न्निर्व॑पेत्  ।
@@ -157,6 +231,11 @@ title = "१२ अश्वदानवतो वारुणीष्टिः
 यमे॒व प्र॑तिग्रा॒ही भव॑ति ।  
 यव्ँवा॒ नाध्येति॑ ।  
 तस्मा॑दे॒व व॑रुणपा॒शान्मु॑च्यते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+whatever (horse) he is going to accept or whatever (horse) he has overlooked, from that noose of Varuna is he set free.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -182,6 +261,11 @@ title = "१२ अश्वदानवतो वारुणीष्टिः
 सौ॒र्यमेक॑कपाल॒मनु॒ निर्व॑पेत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+If he is going to accept another, he should offer in supplement an offering to Surya, on one potsherd;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्यप॑रम्प्रतिग्रा॒ही स्यात् ।  
@@ -196,6 +280,11 @@ title = "१२ अश्वदानवतो वारुणीष्टिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒मुमे॒वादि॒त्यमु॑च्चा॒रङ्कु॑रुते ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he makes yonder sun to rise.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -215,14 +304,32 @@ title = "१२ अश्वदानवतो वारुणीष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पो॑ऽवभृ॒थमवै॑ति ।   
-अ॒प्सु वै वरु॑णस्सा॒क्षादे॒व वरु॑ण॒मव॑ यजते ।  
+अ॒पो॑ऽवभृ॒थमवै॑ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He goes to the waters as the final bath, Varuna is in the waters;
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒पो॑ऽवभृ॒थमवै॑ति ।   
-अ॒प्सु वै वरु॑णस्सा॒क्षादे॒व वरु॑ण॒मव॑ यजते ।  
+अ॒पो॑ऽवभृ॒थमवै॑ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒प्सु वै वरु॑णस्सा॒क्षादे॒व वरु॑ण॒मव॑ यजते ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily straightway he appeases Varuna.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒प्सु वै वरु॑णस्सा॒क्षादे॒व वरु॑ण॒मव॑ यजते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -233,6 +340,11 @@ title = "१२ अश्वदानवतो वारुणीष्टिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒पो॒न॒प्त्री॒य॑ञ्च॒रुम् पुन॒रेत्य॒ निर्व॑पेत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+After his return he should offer an oblation to Apam Napat;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -250,6 +362,11 @@ title = "१२ अश्वदानवतो वारुणीष्टिः
 अ॒प्सुयो॑नि॒र्वा अश्व॒स्स्वामे॒वैनय्ँ॒योनि॑ङ्गमयति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the horse has its birthplace in the waters; verily he makes him go to his own birthplace;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒प्सुयो॑नि॒र्वा अश्व॒स्स्वामे॒वैनय्ँ॒योनि॑ङ्गमयति ।  
@@ -263,6 +380,11 @@ title = "१२ अश्वदानवतो वारुणीष्टिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ए॑नँ शा॒न्त उप॑ तिष्ठते ॥
+</details>
+
+<details><summary>Keith</summary>
+
+appeased he attends on him.
 </details>
 
 <details><summary>मूलम्</summary>

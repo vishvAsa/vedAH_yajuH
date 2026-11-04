@@ -15,6 +15,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 असु॑रा॒ रक्षाँ॑सि पिशा॒चास्ते॑न्यतः॑  +++(आसन्)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+The gods, men, and the Pitrs were on one side, the Asuras, Raksases, and Piśacas on the other.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा म॑नु॒ष्याः॑ पि॒तर॒स्ते॑ऽन्यत॑ आसन् ।   
@@ -32,6 +37,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 तद्रक्षाँ॑सि॒ रात्री॑भिरसुभ्नन् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Of the gods the little blood they drew the Raksases smothered by the nights
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेषा॑न्दे॒वाना॑मु॒त यदल्पल्ँ॒लोहि॑त॒मकु॑र्वन् ।  
@@ -46,6 +56,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान्त्सु॒ब्धान्मृ॒तान॒भि व्यौ॑च्छत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+and dawn dawned on them smothered and dead.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -75,6 +90,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 तन्न॑स्स॒हास॒दिति॑ ।   
 </details>
 
+<details><summary>Keith</summary>
+
+The gods understood, 'Him who of us dies, it is the Raksases who kill.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते दे॒वा अ॑विदुः ।  
@@ -98,6 +118,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 तेऽसु॑राञ्जि॒त्वा रक्षाँ॒स्यपा॑नुदन्त ।
 </details>
 
+<details><summary>Keith</summary>
+
+They invited the Raksases; they said, 'Let us choose a boon; what [1] we win from the Asuras, let that be shared between us.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॒ वै दे॒वा असु॑रानजयन् ।  
@@ -112,6 +137,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि॒ रक्षाँ॒स्यनृ॑तमक॒र्तेति॑ सम॒न्तन्दे॒वान्पर्य॑विशन्।
+</details>
+
+<details><summary>Keith</summary>
+
+Then indeed did the gods conquer the Asuras, and having conquered the Asuras, they drove away the Raksases.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -134,6 +164,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 ते दे॒वा अ॒ग्नाव॑नाथन्त ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The Raksases (saying), 'Ye have done falsely', surrounded the gods on all sides.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते दे॒वा अ॒ग्नाव॑नाथन्त ।  
@@ -149,6 +184,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 ते॑ऽग्नये॒ प्रव॑ते पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर॑वपन् ।   
 </details>
 
+<details><summary>Keith</summary>
+
+The gods found a protector in Agni;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते॑ऽग्नये॒ प्रव॑ते पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर॑वपन् ।   
@@ -162,6 +202,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्नये॑ विबा॒धव॑ते॒ऽग्नये॒ प्रती॑कवते॒ यद॒ग्नये॒ प्रव॑ते नि॒रव॑पन् ।
+</details>
+
+<details><summary>Keith</summary>
+
+they offered to Agni, the forward, a cake on eight potsherds,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -184,6 +229,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 यान्ये॒व पु॒रस्ता॒द् रक्षाँ॒स्यास॑न् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+to Agni, the overcomer, to Agni with the face.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यान्ये॒व पु॒रस्ता॒द् रक्षाँ॒स्यास॑न् ।  
@@ -197,6 +247,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि॒ तेन॒ प्राणु॑दन्त।  
+</details>
+
+<details><summary>Keith</summary>
+
+In that they offered to Agni, the forward,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -214,6 +269,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 यद॒ग्नये॑ विबा॒धव॑ते॒ यान्ये॒वाभितो॒  रक्षाँ॒स्यास॑न् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Raksases in front [2] they repelled thereby;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद॒ग्नये॑ विबा॒धव॑ते॒ यान्ये॒वाभितो॒  रक्षाँ॒स्यास॑न् ।  
@@ -227,6 +287,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि॒ तेन॒ व्य॑बाधन्त ।   
+</details>
+
+<details><summary>Keith</summary>
+
+in that (they offered) to Agni, the overcomer,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -244,6 +309,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 यद॒ग्नये॒ प्रती॑कवते॒ यान्ये॒व प॒श्चाद् रक्षाँ॒स्यास॑न् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Raksases that were around they repelled thereby;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद॒ग्नये॒ प्रती॑कवते॒ यान्ये॒व प॒श्चाद् रक्षाँ॒स्यास॑न् ।  
@@ -259,6 +329,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 तानि॒ तेनापा॑नुदन्त ।
 </details>
 
+<details><summary>Keith</summary>
+
+in that (they offered) to Agni with the face, the Raksases behind were repelled thereby.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तानि॒ तेनापा॑नुदन्त ।
@@ -272,17 +347,48 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो॑ दे॒वा अभ॑वन् ।  
-परासु॑रा॒ यो भ्रातृ॑व्यवा॒न्त्स्यात् ।  
-स स्पर्ध॑मान ए॒तयेष्ट्या॑ यजेत ।  
-अ॒ग्नये॒ प्रव॑ते पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पेत् ।  
-अ॒ग्नये॑ विबा॒धव॑ते॒ऽग्नये ये॒ प्रती॑कवते॒ यद॒ग्नये॒ प्रव॑ते नि॒र्वप॑ति ।
+परासु॑रा॒ यो भ्रातृ॑व्यवा॒न्त्स्यात् ।
+</details>
+
+<details><summary>Keith</summary>
+
+That the gods prospered, the Raksases were defeated.
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततो॑ दे॒वा अभ॑वन् ।  
-परासु॑रा॒ यो भ्रातृ॑व्यवा॒न्त्स्यात् ।  
-स स्पर्ध॑मान ए॒तयेष्ट्या॑ यजेत ।  
+परासु॑रा॒ यो भ्रातृ॑व्यवा॒न्त्स्यात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स स्पर्ध॑मान ए॒तयेष्ट्या॑ यजेत ।
+</details>
+
+<details><summary>Keith</summary>
+
+He who has foes should in conflict sacrifice with this offering;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स स्पर्ध॑मान ए॒तयेष्ट्या॑ यजेत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒ग्नये॒ प्रव॑ते पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पेत् ।  
+अ॒ग्नये॑ विबा॒धव॑ते॒ऽग्नये ये॒ प्रती॑कवते॒ यद॒ग्नये॒ प्रव॑ते नि॒र्वप॑ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+he should offer to Agni, the forward, a cake on eight potsherds, to Agni, the overcomer [3], to Agni with the face.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अ॒ग्नये॒ प्रव॑ते पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पेत् ।  
 अ॒ग्नये॑ विबा॒धव॑ते॒ऽग्नये ये॒ प्रती॑कवते॒ यद॒ग्नये॒ प्रव॑ते नि॒र्वप॑ति ।
 </details>
@@ -302,6 +408,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 य ए॒वास्मा॒च्छ्रेया॒न्भ्रातृ॑व्य॒स्तन्तेन॒ प्र णु॑दते ।  
 </details>
 
+<details><summary>Keith</summary>
+
+In that he offers to Agni, the forward, he repels thereby the foe who is superior to him;
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वास्मा॒च्छ्रेया॒न्भ्रातृ॑व्य॒स्तन्तेन॒ प्र णु॑दते ।  
@@ -317,6 +428,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 यद॒ग्नये॑ विबा॒धव॑ते॒ य ए॒वैने॑न स॒दृङ्तन्तेन॒ वि बा॑धते ।  
 </details>
 
+<details><summary>Keith</summary>
+
+in that (he offers) to Agni, the overcomer, he repels thereby (the foe) who is equal to him;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद॒ग्नये॑ विबा॒धव॑ते॒ य ए॒वैने॑न स॒दृङ्तन्तेन॒ वि बा॑धते ।  
@@ -330,6 +446,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद॒ग्नये॒ प्रती॑कवते॒ य ए॒वास्मा॒त्पापी॑या॒न्तन्तेनाप॑ नुदते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+in that (he offers) to Agni with the face, he repels thereby the foe which is inferior to him.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -348,6 +469,11 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 अति॑ स॒दृश॑ङ्क्रामति ।  
 नैन॒म्पापी॑यानाप्नोति ।   
 य ए॒वव्ँवि॒द्वाने॒तयेष्ट्या॒ यज॑ते ॥
+</details>
+
+<details><summary>Keith</summary>
+
+He repels the foe who is superior, he surpasses him who is like, the inferior does not equal him who knowing thus sacrifices with this offering.
 </details>
 
 <details><summary>मूलम्</summary>

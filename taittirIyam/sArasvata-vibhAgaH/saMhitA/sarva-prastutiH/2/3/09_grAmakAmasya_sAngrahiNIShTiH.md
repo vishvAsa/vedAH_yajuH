@@ -4,6 +4,7 @@ title = "०९ ग्रामकामस्य साङ्ग्रहिण
 +++
 
 विश्वेदेवा ऋषयः ।
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ध्रु॒वो॑ऽसि ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयास॒न्धीर॒श्चेत्ता॑ वसु॒वित्
@@ -11,14 +12,32 @@ title = "०९ ग्रामकामस्य साङ्ग्रहिण
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वो॑ऽसि ।  
-ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयासम् ।  
-धीर॒श्चेत्ता॑ वसु॒वित् +++(भूयासम्)+++।
+ध्रु॒वो॑ऽसि ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art secure;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ध्रु॒वो॑ऽसि ।  
+ध्रु॒वो॑ऽसि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयासम् ।  
+धीर॒श्चेत्ता॑ वसु॒वित् +++(भूयासम्)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+may I be secure among my equals, wise, a guardian, a gainer of wealth;
+</details>
+
+<details><summary>मूलम्</summary>
+
 ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयासम् ।  
 धीर॒श्चेत्ता॑ वसु॒वित् +++(भूयासम्)+++।
 </details>
@@ -35,16 +54,34 @@ title = "०९ ग्रामकामस्य साङ्ग्रहिण
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वो॑ऽसि ।  
-ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयासम् ।  
-उ॒ग्रश्चेत्ता॑ वसु॒वित् ।  
+ध्रु॒वो॑ऽसि ।
+</details>
+
+<details><summary>Keith</summary>
+
+thou art secure;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ध्रु॒वो॑ऽसि ।  
+ध्रु॒वो॑ऽसि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयासम् ।  
-उ॒ग्रश्चेत्ता॑ वसु॒वित् ।  
+उ॒ग्रश्चेत्ता॑ वसु॒वित् ।
+</details>
+
+<details><summary>Keith</summary>
+
+may I be secure among my equals, dread, a guardian, a gainer of wealth;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयासम् ।  
+उ॒ग्रश्चेत्ता॑ वसु॒वित् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -61,16 +98,34 @@ title = "०९ ग्रामकामस्य साङ्ग्रहिण
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वो॑ऽसि ।  
-ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयासम् ।  
-अ॒भि॒भूश्चेत्ता॑  वसु॒वित्।  
+ध्रु॒वो॑ऽसि ।
+</details>
+
+<details><summary>Keith</summary>
+
+thou art secure;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ध्रु॒वो॑ऽसि ।  
+ध्रु॒वो॑ऽसि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयासम् ।  
-अ॒भि॒भूश्चेत्ता॑  वसु॒वित्।  
+अ॒भि॒भूश्चेत्ता॑  वसु॒वित्।
+</details>
+
+<details><summary>Keith</summary>
+
+may I be secure among my equals, dread, a guardian, a gainer of wealth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयासम् ।  
+अ॒भि॒भूश्चेत्ता॑  वसु॒वित्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -93,6 +148,11 @@ title = "०९ ग्रामकामस्य साङ्ग्रहिण
 स्वाहा॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art affection; O ye gods of affection, those equals,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आम॑नमसि ।  
@@ -113,14 +173,60 @@ title = "०९ ग्रामकामस्य साङ्ग्रहिण
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आम॑नम॒सि , आम॑नस्य देवा॒ ये )+++कु॑मा॒राः +++(सम॑नसः॒ )+++ ..
-{तान॒हङ्का॑मये हृ॒दा । ते माङ्का॑मयन्ताँ हृ॒दा । तान्म॒ आम॑नसᳵ कृधि ।   
-स्वाहा॑ ।}
+</details>
+
+<details><summary>Keith</summary>
+
+youths, of one mind, them I love with my heart;
 </details>
 
 <details><summary>मूलम्</summary>
 
 +++(आम॑नम॒सि , आम॑नस्य देवा॒ ये )+++कु॑मा॒राः +++(सम॑नसः॒ )+++ ..
-{तान॒हङ्का॑मये हृ॒दा । ते माङ्का॑मयन्ताँ हृ॒दा । तान्म॒ आम॑नसᳵ कृधि ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+{तान॒हङ्का॑मये हृ॒दा । ते माङ्का॑मयन्ताँ हृ॒दा ।
+</details>
+
+<details><summary>Keith</summary>
+
+may they love me with their hearts;
+</details>
+
+<details><summary>मूलम्</summary>
+
+{तान॒हङ्का॑मये हृ॒दा । ते माङ्का॑मयन्ताँ हृ॒दा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तान्म॒ आम॑नसᳵ कृधि ।
+</details>
+
+<details><summary>Keith</summary>
+
+make them of one mind with me;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तान्म॒ आम॑नसᳵ कृधि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वाहा॑ ।}
+</details>
+
+<details><summary>Keith</summary>
+
+hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
 स्वाहा॑ ।}
 </details>
 
@@ -131,20 +237,77 @@ title = "०९ ग्रामकामस्य साङ्ग्रहिण
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आम॑नमसि , आम॑नस्य देवा॒ यास्स्त्रिय॒स्सम॑नसः  ।  
-ता अ॒हङ्का॑मये हृ॒दा ।  
-ता माङ्का॑मयन्ताँ हृ॒दा ।  
-ता म॒ आम॑नसᳵ कृधि ।  
-स्वाहा॑ ।  
+आम॑नमसि , आम॑नस्य देवा॒ यास्स्त्रिय॒स्सम॑नसः  ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou [1] art affection;
 </details>
 
 <details><summary>मूलम्</summary>
 
-आम॑नमसि , आम॑नस्य देवा॒ यास्स्त्रिय॒स्सम॑नसः  ।  
-ता अ॒हङ्का॑मये हृ॒दा ।  
-ता माङ्का॑मयन्ताँ हृ॒दा ।  
-ता म॒ आम॑नसᳵ कृधि ।  
-स्वाहा॑ ।  
+आम॑नमसि , आम॑नस्य देवा॒ यास्स्त्रिय॒स्सम॑नसः  ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता अ॒हङ्का॑मये हृ॒दा ।
+</details>
+
+<details><summary>Keith</summary>
+
+O ye gods of affection, the women of one mind, them I love with my heart;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ता अ॒हङ्का॑मये हृ॒दा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता माङ्का॑मयन्ताँ हृ॒दा ।
+</details>
+
+<details><summary>Keith</summary>
+
+may they love me with their hearts;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ता माङ्का॑मयन्ताँ हृ॒दा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता म॒ आम॑नसᳵ कृधि ।
+</details>
+
+<details><summary>Keith</summary>
+
+make them of one mind with me;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ता म॒ आम॑नसᳵ कृधि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -165,6 +328,11 @@ title = "०९ ग्रामकामस्य साङ्ग्रहिण
 ग्रा॒म्ये॑व भ॑वति ।  
 सा॒ङ्ग्र॒ह॒णी भ॑वति ।  
 म॒नो॒ग॑हणव्ँ॒ वै स॒ङ्ग्रह॑ण॒म्, .. मन॑ ए॒व स॑जा॒ताना॑म् गृह्णाति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He who desires a village should offer to the All-gods (the sacrifice) for taking possession; his equals are connected with the All-gods; verily he has recourse to the All-gods with their own share; verily they subject his equals to him; he becomes possessed of a village. It is (the offering) for taking possession; taking possession is grasping the mind; verily he grasps the mind of his equals [2].
 </details>
 
 <details><summary>मूलम्</summary>
@@ -189,18 +357,62 @@ title = "०९ ग्रामकामस्य साङ्ग्रहिण
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वो॑ऽसि ।  
-ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयास॒मिति॑ परि॒धीन्परि॑ दधाति ।  
-आ॒शिष॑मे॒वैतामा शा॒स्ते ।   
-अथो॑ ए॒तदे॒व सर्वँ॑ सजा॒तेष्वधि॑ भवति ।  
-यस्यै॒वव्ँवि॒दुष॑ ए॒ते प॑रि॒धयᳶ॑ परिधी॒यन्ते ।
+ध्रु॒वो॑ऽसि ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art secure;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ध्रु॒वो॑ऽसि ।  
-ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयास॒मिति॑ परि॒धीन्परि॑ दधाति ।  
-आ॒शिष॑मे॒वैतामा शा॒स्ते ।   
+ध्रु॒वो॑ऽसि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयास॒मिति॑ परि॒धीन्परि॑ दधाति ।
+</details>
+
+<details><summary>Keith</summary>
+
+may I be secure among my equals', (with these words) he puts the enclosing-sticks round;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयास॒मिति॑ परि॒धीन्परि॑ दधाति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒शिष॑मे॒वैतामा शा॒स्ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he invokes this blessing.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒शिष॑मे॒वैतामा शा॒स्ते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथो॑ ए॒तदे॒व सर्वँ॑ सजा॒तेष्वधि॑ भवति ।  
+यस्यै॒वव्ँवि॒दुष॑ ए॒ते प॑रि॒धयᳶ॑ परिधी॒यन्ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+Then all this comes to pass with regard to the equals of him for whom knowing thus these enclosing-sticks are put around.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अथो॑ ए॒तदे॒व सर्वँ॑ सजा॒तेष्वधि॑ भवति ।  
 यस्यै॒वव्ँवि॒दुष॑ ए॒ते प॑रि॒धयᳶ॑ परिधी॒यन्ते ।
 </details>
@@ -220,6 +432,11 @@ title = "०९ ग्रामकामस्य साङ्ग्रहिण
 आम॑नमसि , आम॑नस्य देवा॒ इति॑ ति॒स्र आहु॑तीर्जुहोति।  
 ए॒ताव॑न्तो॒ वै स॑जा॒ता ये म॒हान्तो॒ ये क्षु॑ल्ल॒का यास्स्त्रिय॒स्ताने॒वाव॑ रुन्द्धे ।  
 त ए॑न॒मव॑रुद्धा॒ उप॑ तिष्ठन्ते ॥
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art affection; O ye gods of affection', (with these words) he offers three oblations; so many are his equals, great, small, and women, them he wins, they being won wait on him.
 </details>
 
 <details><summary>मूलम्</summary>

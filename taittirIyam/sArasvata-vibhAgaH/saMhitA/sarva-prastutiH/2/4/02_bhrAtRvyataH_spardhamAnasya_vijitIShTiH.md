@@ -16,6 +16,11 @@ title = "०२ भ्रातृव्यतः स्पर्धमानस
 ते दे॒वा अ॑ब्रुवन् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The gods and the Asuras were in conflict; the gods said,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा॒सु॒रास्सय्ँय॑त्ता आसन् ।  
@@ -30,6 +35,11 @@ title = "०२ भ्रातृव्यतः स्पर्धमानस
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो नो॑ वी॒र्या॑वत्तम॒स्तमनु॑ स॒मार॑भामहा॒ इति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Let us hold on to the strongest of us';
 </details>
 
 <details><summary>मूलम्</summary>
@@ -48,6 +58,11 @@ title = "०२ भ्रातृव्यतः स्पर्धमानस
 त्वव्ँ वै नो॑ वी॒र्या॑वत्तमोऽसि ।  
 त्वामनु॑ स॒मार॑भामहा॒ इति॑ ।  
 सो॑ऽब्रवीत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+they said to Indra, 'Thou art the strongest of us; let us hold on to thee.' He said,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -69,6 +84,11 @@ title = "०२ भ्रातृव्यतः स्पर्धमानस
 अथासु॑रान॒भि भ॑विष्य॒थेति॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+'Three are these forms of my own that have strength; satiate them, and then shall ye overcome the Asuras.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 ति॒स्रो म॑ इ॒मास्त॒नुवो॑ वी॒र्या॑वती॒स्ताᳶ प्री॑णीत ।  
@@ -85,6 +105,11 @@ title = "०२ भ्रातृव्यतः स्पर्धमानस
 ता वै ब्रू॒हीत्य॑ब्रुवन् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+They said, 'Name (them).'
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता वै ब्रू॒हीत्य॑ब्रुवन् ।  
@@ -98,6 +123,11 @@ title = "०२ भ्रातृव्यतः स्पर्धमानस
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 'इ॒यमँ॑हो॒मुग् ', 'इ॒यव्ँवि॑मृ॒धा',+ 'इ॒यमि॑न्द्रि॒याव॑ती' इत्य॑ब्रवीत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+He said, 'This is that which frees from tribulation; this is that which drives away the foe; this is that which has power' [1].
 </details>
 
 <details><summary>मूलम्</summary>
@@ -118,20 +148,64 @@ title = "०२ भ्रातृव्यतः स्पर्धमानस
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त इन्द्रा॑याँहो॒मुचे॑ पुरो॒डाश॒मेका॑दशकपाल॒न्निर॑वपन् ।   
-इन्द्रा॑य वैमृ॒धायेन्द्रा॑येन्द्रि॒याव॑ते॒ यदिन्द्रा॑याँहो॒मुचे॑ नि॒रव॑पन् ।  
-अँह॑स ए॒व तेना॑मुच्यन्त ।  
-यदिन्द्रा॑य वैमृ॒धाय॒ मृध॑ ए॒व तेनापा॑घ्नत ।  
-यदिन्द्रा॑येन्द्रि॒याव॑त इन्द्रि॒यमे॒व तेना॒त्मन्न॑दधत ।  
+त इन्द्रा॑याँहो॒मुचे॑ पुरो॒डाश॒मेका॑दशकपाल॒न्निर॑वपन् ।
+</details>
+
+<details><summary>Keith</summary>
+
+They offered to Indra, the freer from tribulation, a cake on eleven potsherds, to Indra, the driver away of the foe, to Indra, the powerful.
 </details>
 
 <details><summary>मूलम्</summary>
 
-त इन्द्रा॑याँहो॒मुचे॑ पुरो॒डाश॒मेका॑दशकपाल॒न्निर॑वपन् ।   
+त इन्द्रा॑याँहो॒मुचे॑ पुरो॒डाश॒मेका॑दशकपाल॒न्निर॑वपन् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इन्द्रा॑य वैमृ॒धायेन्द्रा॑येन्द्रि॒याव॑ते॒ यदिन्द्रा॑याँहो॒मुचे॑ नि॒रव॑पन् ।  
-अँह॑स ए॒व तेना॑मुच्यन्त ।  
-यदिन्द्रा॑य वैमृ॒धाय॒ मृध॑ ए॒व तेनापा॑घ्नत ।  
-यदिन्द्रा॑येन्द्रि॒याव॑त इन्द्रि॒यमे॒व तेना॒त्मन्न॑दधत ।  
+अँह॑स ए॒व तेना॑मुच्यन्त ।
+</details>
+
+<details><summary>Keith</summary>
+
+In that they offered to Indra, the freer from tribulation, thereby they were freed from tribulation;
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्रा॑य वैमृ॒धायेन्द्रा॑येन्द्रि॒याव॑ते॒ यदिन्द्रा॑याँहो॒मुचे॑ नि॒रव॑पन् ।  
+अँह॑स ए॒व तेना॑मुच्यन्त ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदिन्द्रा॑य वैमृ॒धाय॒ मृध॑ ए॒व तेनापा॑घ्नत ।
+</details>
+
+<details><summary>Keith</summary>
+
+in that they offered to Indra, the driver away of foes, thereby they drove away foes;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदिन्द्रा॑य वैमृ॒धाय॒ मृध॑ ए॒व तेनापा॑घ्नत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदिन्द्रा॑येन्द्रि॒याव॑त इन्द्रि॒यमे॒व तेना॒त्मन्न॑दधत ।
+</details>
+
+<details><summary>Keith</summary>
+
+in that they offered to Indra, the powerful, thereby they bestowed power upon themselves.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदिन्द्रा॑येन्द्रि॒याव॑त इन्द्रि॒यमे॒व तेना॒त्मन्न॑दधत ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -142,6 +216,11 @@ title = "०२ भ्रातृव्यतः स्पर्धमानस
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रय॑स्त्रिँशत्कपालम्पुरो॒डाश॒न्निर॑वपन् ।   
+</details>
+
+<details><summary>Keith</summary>
+
+They offered a cake on thirty-three potsherds;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -157,13 +236,31 @@ title = "०२ भ्रातृव्यतः स्पर्धमानस
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रय॑स्त्रिँश॒द्वै दे॒वता॒स्ता इन्द्र॑
-आ॒त्मन्ननु॑ स॒मार॑म्भयत भूत्यै॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the gods are thirty-three;
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्रय॑स्त्रिँश॒द्वै दे॒वता॒स्ता इन्द्र॑
-आ॒त्मन्ननु॑ स॒मार॑म्भयत भूत्यै॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒त्मन्ननु॑ स॒मार॑म्भयत भूत्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily Indra takes hold of them in himself, for prosperity [2].
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒त्मन्ननु॑ स॒मार॑म्भयत भूत्यै॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -173,14 +270,32 @@ title = "०२ भ्रातृव्यतः स्पर्धमानस
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव्ँ वाव दे॒वा विजि॑तिमुत्त॒मामसु॑रै॒र्व्य॑जयन्त ।  
-यो भ्रातृ॑व्यवा॒न्त्स्यात्स स्पर्ध॑मान ए॒तयेष्ट्या॑ यजेत ।  
-इन्द्रा॑याँहो॒मुचे॑  पुरो॒डाश॒मेका॑दशकपाल॒न्निर्व॑पेत् ।
+ताव्ँ वाव दे॒वा विजि॑तिमुत्त॒मामसु॑रै॒र्व्य॑जयन्त ।
+</details>
+
+<details><summary>Keith</summary>
+
+That was the highest victory that the gods won over the Asuras.
 </details>
 
 <details><summary>मूलम्</summary>
 
-ताव्ँ वाव दे॒वा विजि॑तिमुत्त॒मामसु॑रै॒र्व्य॑जयन्त ।  
+ताव्ँ वाव दे॒वा विजि॑तिमुत्त॒मामसु॑रै॒र्व्य॑जयन्त ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यो भ्रातृ॑व्यवा॒न्त्स्यात्स स्पर्ध॑मान ए॒तयेष्ट्या॑ यजेत ।  
+इन्द्रा॑याँहो॒मुचे॑  पुरो॒डाश॒मेका॑दशकपाल॒न्निर्व॑पेत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+He who has foes should in conflict sacrifice with this offering; to Indra, the freer from tribulation, he should offer a cake on eleven potsherds,
+</details>
+
+<details><summary>मूलम्</summary>
+
 यो भ्रातृ॑व्यवा॒न्त्स्यात्स स्पर्ध॑मान ए॒तयेष्ट्या॑ यजेत ।  
 इन्द्रा॑याँहो॒मुचे॑  पुरो॒डाश॒मेका॑दशकपाल॒न्निर्व॑पेत् ।
 </details>
@@ -197,18 +312,49 @@ title = "०२ भ्रातृव्यतः स्पर्धमानस
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य वैमृ॒धायेन्द्रा॑येन्द्रि॒याव॑ते ।   
-अँह॑सा॒ वा ए॒ष गृ॑ही॒तः ।   
-यस्मा॒च्छ्रेया॒न्भ्रातृ॑व्यो॒ यदिन्द्रा॑याँहो॒मुचे॑  नि॒र्वप॑ति ।  
-अँह॑स ए॒व तेन॑ मुच्यते ।  
+इन्द्रा॑य वैमृ॒धायेन्द्रा॑येन्द्रि॒याव॑ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+to Indra, the driver away of the foe, to Indra, the powerful;
 </details>
 
 <details><summary>मूलम्</summary>
 
-इन्द्रा॑य वैमृ॒धायेन्द्रा॑येन्द्रि॒याव॑ते ।   
-अँह॑सा॒ वा ए॒ष गृ॑ही॒तः ।   
+इन्द्रा॑य वैमृ॒धायेन्द्रा॑येन्द्रि॒याव॑ते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अँह॑सा॒ वा ए॒ष गृ॑ही॒तः ।
+</details>
+
+<details><summary>Keith</summary>
+
+by tribulation is he seized whose foe is superior to him;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अँह॑सा॒ वा ए॒ष गृ॑ही॒तः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यस्मा॒च्छ्रेया॒न्भ्रातृ॑व्यो॒ यदिन्द्रा॑याँहो॒मुचे॑  नि॒र्वप॑ति ।  
-अँह॑स ए॒व तेन॑ मुच्यते ।  
+अँह॑स ए॒व तेन॑ मुच्यते ।
+</details>
+
+<details><summary>Keith</summary>
+
+in that he offers to Indra, the freer from tribulation, he is freed thereby from tribulation;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यस्मा॒च्छ्रेया॒न्भ्रातृ॑व्यो॒ यदिन्द्रा॑याँहो॒मुचे॑  नि॒र्वप॑ति ।  
+अँह॑स ए॒व तेन॑ मुच्यते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -219,6 +365,11 @@ title = "०२ भ्रातृव्यतः स्पर्धमानस
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृ॒धा वा ए॒षो॑ऽभिष॑ण्णो॒ यस्मा॑त्समा॒नेष्व॒न्यश्श्रेया॑नु॒त अभ्रा॑तृव्यः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+by foes is he beset, to whom one of his equals is superior, even [3] if no foe;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -233,18 +384,62 @@ title = "०२ भ्रातृव्यतः स्पर्धमानस
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदिन्द्रा॑य वैमृ॒धाय॒ मृध॑ ए॒व तेनाप॑ हते ।  
-यदिन्द्रा॑येन्द्रि॒याव॑त इन्द्रि॒यमे॒व तेना॒त्मन्ध॑त्ते ।  
-त्रय॑स्त्रिँशत्कपालम्पुरो॒डाश॒न्निर्व॑पति ।  
-त्रय॑स्त्रिँश॒द्वै दे॒वता॒स्ता ए॒व यज॑मान आ॒त्मन्ननु॑ स॒मार॑म्भयते॒ भूत्यै॑ ।  
+यदिन्द्रा॑य वैमृ॒धाय॒ मृध॑ ए॒व तेनाप॑ हते ।
+</details>
+
+<details><summary>Keith</summary>
+
+in that (he offers) to Indra, the driver away of the foe, he smites away thereby his foes;
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदिन्द्रा॑य वैमृ॒धाय॒ मृध॑ ए॒व तेनाप॑ हते ।  
-यदिन्द्रा॑येन्द्रि॒याव॑त इन्द्रि॒यमे॒व तेना॒त्मन्ध॑त्ते ।  
-त्रय॑स्त्रिँशत्कपालम्पुरो॒डाश॒न्निर्व॑पति ।  
-त्रय॑स्त्रिँश॒द्वै दे॒वता॒स्ता ए॒व यज॑मान आ॒त्मन्ननु॑ स॒मार॑म्भयते॒ भूत्यै॑ ।  
+यदिन्द्रा॑य वैमृ॒धाय॒ मृध॑ ए॒व तेनाप॑ हते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदिन्द्रा॑येन्द्रि॒याव॑त इन्द्रि॒यमे॒व तेना॒त्मन्ध॑त्ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+in that (he offers) to Indra, the powerful, he bestows thereby power upon himself;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदिन्द्रा॑येन्द्रि॒याव॑त इन्द्रि॒यमे॒व तेना॒त्मन्ध॑त्ते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रय॑स्त्रिँशत्कपालम्पुरो॒डाश॒न्निर्व॑पति ।
+</details>
+
+<details><summary>Keith</summary>
+
+he offers a cake on thirty-three potsherds;
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्रय॑स्त्रिँशत्कपालम्पुरो॒डाश॒न्निर्व॑पति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रय॑स्त्रिँश॒द्वै दे॒वता॒स्ता ए॒व यज॑मान आ॒त्मन्ननु॑ स॒मार॑म्भयते॒ भूत्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+the gods are thirty-three; verily the sacrificer takes hold of them in himself, for prosperity,
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्रय॑स्त्रिँश॒द्वै दे॒वता॒स्ता ए॒व यज॑मान आ॒त्मन्ननु॑ स॒मार॑म्भयते॒ भूत्यै॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -262,6 +457,11 @@ title = "०२ भ्रातृव्यतः स्पर्धमानस
 सा वा ए॒षा विजि॑ति॒र्नामेष्टिः ।  
 य ए॒वव्ँवि॒द्वाने॒तयेष्ट्या॒ यज॑ते ।  
 उत्त॒मामे॒व विजि॑ति॒म्भ्रातृ॑व्येण॒ वि ज॑यते ॥
+</details>
+
+<details><summary>Keith</summary>
+
+Thus is the sacrifice called 'the victorious'; he who knowing thus sacrifices with this offering wins thus the highest victory over his foe.
 </details>
 
 <details><summary>मूलम्</summary>

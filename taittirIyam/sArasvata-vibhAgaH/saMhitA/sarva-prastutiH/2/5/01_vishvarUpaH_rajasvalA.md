@@ -6,6 +6,7 @@ title = "०१ विश्वरूपः रजस्वला च"
 प्रजापतिः ऋषिः ।
 
 ## विश्वरूपस् त्वाष्ट्रः
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वि॒श्वरू॑पो॒ वै त्वा॒ष्ट्रᳶ पु॒रोहि॑तो दे॒वाना॑मासीत्स्व॒स्रीयोऽसु॑राणा॒न्तस्य॒ त्रीणि॑ शी॒र्षाण्या॑सन्त्सोम॒पानँ॑ सुरा॒पान॑म॒न्नाद॑नँ॒ स प्र॒त्यक्ष॑न्दे॒वेभ्यो॑ भा॒गम॑वदत्प॒रोक्ष॒मसु॑रेभ्य॒स्सर्व॑स्मै॒ वै प्र॒त्यक्ष॑म्भा॒गव्ँव॑दन्ति॒ यस्मा॑ ए॒व प॒रोक्षव्ँ॒वद॑न्ति॒ तस्य॑ भा॒ग उ॑दि॒तस्तस्मा॒दिन्द्रो॑ऽबिभेदी॒दृङ्वै रा॒ष्ट्रव्ँवि प॒र्याव॑र्तय॒तीति
@@ -21,7 +22,6 @@ title = "०१ विश्वरूपः रजस्वला च"
 Viśvarupa, son of Tvastr, was the domestic priest of the gods, 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वि॒श्वरू॑पो॒ वै त्वा॒ष्ट्रᳶ पु॒रोहि॑तो दे॒वाना॑मासीत् ।  
@@ -31,7 +31,6 @@ Viśvarupa, son of Tvastr, was the domestic priest of the gods,
 
 वि॒श्वरू॑प॒ इति॑ वि॒श्व-रू॒पः॒ । वै । त्वा॒ष्ट्रः । पु॒रोहि॑त॒ इति॑ पु॒रः-हि॒तः॒ । दे॒वाना॑म् । आ॒सी॒त् । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -55,7 +54,6 @@ Viśvarupa, son of Tvastr, was the domestic priest of the gods,
 and the sister's son of the Asuras. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स्व॒स्रीयोऽसु॑राणाम् +++(आसीत्)+++।  
@@ -65,7 +63,6 @@ and the sister's son of the Asuras.
 
 स्व॒स्रीयः॑ । असु॑राणाम् । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -88,7 +85,6 @@ and the sister's son of the Asuras.
 He had three heads, one which drank Soma, one Sura, and one which ate food. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्य॒ त्रीणि॑ शी॒र्षाण्या॑सन् ।  
@@ -99,7 +95,6 @@ He had three heads, one which drank Soma, one Sura, and one which ate food.
 
 तस्य॑ । त्रीणि॑ । शी॒र्षाणि॑ । आ॒स॒न् । सो॒म॒पान॒मिति॑ सोम-पान॑म् । सु॒रा॒पान॒मिति॑ सुरा-पान॑म् । अ॒न्नाद॑न॒मित्य॑न्न-अद॑नम् । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -113,6 +108,7 @@ He had three heads, one which drank Soma, one Sura, and one which ate food.
 </details>
 
 ## वञ्चनम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्र॒त्यक्ष॑न् दे॒वेभ्यो॑ भा॒गम् अ॑वदत् ।
@@ -123,7 +119,6 @@ He had three heads, one which drank Soma, one Sura, and one which ate food.
 He promised openly the share to the gods, 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स प्र॒त्यक्ष॑न्दे॒वेभ्यो॑ भा॒गम॑वदत् ।
@@ -133,7 +128,6 @@ He promised openly the share to the gods,
 
 3 । सः । प्र॒त्यक्ष॒मिति॑ प्रति-अक्ष॑म् । दे॒वेभ्यः॑ । भा॒गम् । अ॒व॒द॒त् ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -155,7 +149,6 @@ He promised openly the share to the gods,
 secretly to the Asuras. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 प॒रोक्ष॒मसु॑रेभ्यः +++(भागमवदत्)+++ ।
@@ -165,7 +158,6 @@ secretly to the Asuras.
 
 प॒रोक्ष॒मिति॑ परः-अक्ष॑म् । असु॑रेभ्यः ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -180,19 +172,31 @@ secretly to the Asuras.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व॑स्मै॒ वै प्र॒त्यक्ष॑म् भा॒गव्ँ व॑दन्ति +++(अपहृदयाः)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+Men promise openly the share to every one;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्व॑स्मै॒ वै प्र॒त्यक्ष॑म्भा॒गव्ँव॑दन्ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यस्मा॑ ए॒व प॒रोक्षव्ँ॒ वद॑न्ति॒-  
 तस्य॑ भा॒ग उ॑दि॒तः ।
 </details>
 
 <details><summary>Keith</summary>
 
-Men promise openly the share to every one; if they promise any one secretly, his share is indeed promised. 
+if they promise any one secretly, his share is indeed promised.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-सर्व॑स्मै॒ वै प्र॒त्यक्ष॑म्भा॒गव्ँव॑दन्ति ।
 यस्मा॑ ए॒व प॒रोक्षव्ँ॒वद॑न्ति ।  
 तस्य॑ भा॒ग उ॑दि॒तः ।
 </details>
@@ -201,7 +205,6 @@ Men promise openly the share to every one; if they promise any one secretly, his
 
 सर्व॑स्मै । वै । प्र॒त्यक्ष॒मिति॑ प्रति-अक्ष॑म् । भा॒गम् । व॒द॒न्ति॒ । यस्मै॑ । ए॒व । प॒रोक्ष॒मिति॑ परः-अक्ष॑म् । वद॑न्ति । तस्य॑ । भा॒गः । उ॒दि॒तः । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -219,6 +222,7 @@ Men promise openly the share to every one; if they promise any one secretly, his
 </details>
 
 ## शिरश्-छेदः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॒द् इन्द्रो॑ऽबिभे॒द्-  
@@ -230,7 +234,6 @@ Men promise openly the share to every one; if they promise any one secretly, his
 Therefore Indra was afraid (thinking), 'Such an one is diverting the sovereignty (from me).' 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्मा॒दिन्द्रो॑ऽबिभेत् ।  
@@ -241,7 +244,6 @@ Therefore Indra was afraid (thinking), 'Such an one is diverting the sovereignty
 
 तस्मा॑त् । इन्द्रः॑ । अ॒बि॒भे॒त् । 5 । ई॒दृङ्ङ् । वै । रा॒ष्ट्रम् । वीति॑ । प॒र्याव॑र्तय॒तीति॑ परि-आव॑र्तयति । इति॑ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -270,7 +272,6 @@ Therefore Indra was afraid (thinking), 'Such an one is diverting the sovereignty
 He took his bolt and smote off his heads. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्य॒ वज्र॑मा॒दाय॑ शी॒र्षाण्य॑च्छिनत् ।  
@@ -280,7 +281,6 @@ He took his bolt and smote off his heads.
 
 6 । तस्य॑ । वज्र॑म् । आ॒दायेत्या॑-दाय॑ । शी॒र्षाणि॑ । अ॒च्छि॒न॒त् । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -295,22 +295,47 @@ He took his bolt and smote off his heads.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् सो॑म॒-पान॑म् आसी॑त्।  
-स क॒पिञ्ज॑लोऽभव॒द्,  
-यत् सु॑रा॒पानँ॒ स क॑ल॒विङ्को॑,  
+स क॒पिञ्ज॑लोऽभव॒द् ।
+</details>
+
+<details><summary>Keith</summary>
+
+(The head) which drank Soma [1] became a hazelcock;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्सो॑म॒पान॑मासी॑त्।  
+स क॒पिञ्ज॑लोऽभवत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् सु॑रा॒पानँ॒ स क॑ल॒विङ्को॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+(the head) which drank Sura a sparrow;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्सु॑रा॒पानँ॒ स क॑ल॒विङ्कः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यद् अ॒न्नाद॑नँ॒ स ति॑त्ति॒रिः ।
 </details>
 
 <details><summary>Keith</summary>
 
-(The head) which drank Soma [1] became a hazelcock; (the head) which drank Sura a sparrow; (the head) which ate food a partridge. 
+(the head) which ate food a partridge.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-यत्सो॑म॒पान॑मासी॑त्।  
-स क॒पिञ्ज॑लोऽभवत् ।  
-यत्सु॑रा॒पानँ॒ स क॑ल॒विङ्कः॑ ।
 यद॒न्नाद॑नँ॒ स ति॑त्ति॒रिः ।
 </details>
 
@@ -319,7 +344,6 @@ He took his bolt and smote off his heads.
 यत् । सो॒म॒पान॒मिति॑ सोम-पान॑म् । [1]  
 1 । आसी॑त् । सः । क॒पिञ्ज॑लः । अ॒भ॒व॒त् । यत् । सु॒रा॒पान॒मिति॑ सुरा-पान॑म् । सः । क॒ल॒विङ्कः॑ । यत् । अ॒न्नाद॑न॒मित्य॑न्न-अद॑नम् । सः । ति॒त्ति॒रिः । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -331,6 +355,7 @@ He took his bolt and smote off his heads.
 </details>
 
 ## ब्रह्म-हत्या
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्या॑ञ्ज॒लिना॑ ब्रह्म-ह॒त्याम् उपा॑गृह्णात् ।  
@@ -341,7 +366,6 @@ He took his bolt and smote off his heads.
 He seized with his hand the guilt of slaying him, 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्या॑ञ्ज॒लिना॑ ब्रह्मह॒त्यामुपा॑गृह्णात् ।  
@@ -351,7 +375,6 @@ He seized with his hand the guilt of slaying him,
 
 तस्य॑ । अ॒ञ्ज॒लिना॑ । ब्र॒ह्म॒ह॒त्यामिति॑ ब्रह्म-ह॒त्याम् । उपेति॑ । अ॒गृ॒ह्णा॒त् ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -375,7 +398,6 @@ He seized with his hand the guilt of slaying him,
 and bore it for a year. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ताँ सव्ँ॑वत्स॒रम॑बिभः ।  
@@ -385,7 +407,6 @@ and bore it for a year.
 
 ताम् । सव्ँ॒व॒त्स॒रमिति॑ सम्-व॒त्स॒रम् । अ॒बि॒भः॒ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -407,7 +428,6 @@ and bore it for a year.
 Creatures called out upon him, 'Thou art a Brahman slayer.'
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तम्भू॒तान्य॒भ्य॑क्रोश॒न्ब्रह्म॑ह॒न्निति॑ ।  
@@ -417,7 +437,6 @@ Creatures called out upon him, 'Thou art a Brahman slayer.'
 
 तम् । भू॒तानि॑ । अ॒भीति॑ । अ॒क्रो॒श॒न् ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -430,6 +449,7 @@ Creatures called out upon him, 'Thou art a Brahman slayer.'
 </details>
 
 ## मार्जनम् - पृथिव्याम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पृ॑थि॒वीम् उपा॑सीदत् -  
@@ -441,7 +461,6 @@ Creatures called out upon him, 'Thou art a Brahman slayer.'
 He appealed to the earth, 'Take a third part of my guilt.' 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स पृ॑थि॒वीमुपा॑सीदत् ।  
@@ -452,10 +471,8 @@ He appealed to the earth, 'Take a third part of my guilt.'
 
 2 । ब्रह्म॑ह॒न्निति॒ ब्रह्म॑-ह॒न् । इति॑ । सः । पृ॒थि॒वीम् । उपेति॑ । अ॒सी॒द॒त् । 
 
-
 3 । अ॒स्यै । ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै॑ । तृती॑यम् । प्रतीति॑ । गृ॒हा॒ण॒ । इति॑ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -473,21 +490,46 @@ He appealed to the earth, 'Take a third part of my guilt.'
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साब्र॑वीत् -  
-"वरव्ँ॑ वृणै -  
+"वरव्ँ॑ वृणै
+</details>
+
+<details><summary>Keith</summary>
+
+She said, 'Let me choose a boon.
+</details>
+
+<details><summary>मूलम्</summary>
+
+साब्र॑वीत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 खा॒तात् प॑राभवि॒ष्यन्ती॑ मन्ये ।
+</details>
+
+<details><summary>Keith</summary>
+
+I deem that I shall be overcome through digging.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वरव्ँ॑वृणै खा॒तात्प॑राभवि॒ष्यन्ती॑ मन्ये ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ततो॒ मा परा॑ भूव॒म्" इति॑ ।
 </details>
 
 <details><summary>Keith</summary>
 
-She said, 'Let me choose a boon. I deem that I shall be overcome through digging. Let me not be overcome by that.' 
+Let me not be overcome by that.'
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-साब्र॑वीत् ।  
-वरव्ँ॑वृणै खा॒तात्प॑राभवि॒ष्यन्ती॑ मन्ये ।
 ततो॒ मा परा॑ भूव॒म् इति॑ ।
 </details>
 
@@ -495,7 +537,6 @@ She said, 'Let me choose a boon. I deem that I shall be overcome through digging
 
 । सा । अ॒ब्र॒वी॒त् । 5 । वर॑म् । वृ॒णै॒ । खा॒तात् । प॒रा॒भ॒वि॒ष्यन्तीति॑ परा-भ॒वि॒ष्यन्ती॑ । म॒न्ये॒ । ततः॑ । मा । परेति॑ । भू॒व॒म् । इति॑ । 6 ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -521,7 +562,6 @@ She said, 'Let me choose a boon. I deem that I shall be overcome through digging
 He replied, 'Before [2] a year is out it will grow up for thee.' 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 पु॒रा ते  सव्ँ॒व॒त्स॒रादपि॑ रोहा॒दित्य॑ब्रवीत् ।  
@@ -532,7 +572,6 @@ He replied, 'Before [2] a year is out it will grow up for thee.'
 पु॒रा । ते॒ । [2]  
 1 । सव्ँ॒व॒त्स॒रादिति॑ सम्-व॒त्स॒रात् । अपीति॑ । रो॒हा॒त् । इति॑ । अ॒ब्र॒वी॒त् ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -546,7 +585,7 @@ He replied, 'Before [2] a year is out it will grow up for thee.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑त् पु॒रा सव्ँ॑वत्स॒रात् पृ॑थि॒व्यै खा॒तम् अपि॑ रोहति -  
+तस्मा॑त् पु॒रा सव्ँ॑वत्स॒रात् पृ॑थि॒व्यै खा॒तम् अपि॑ रोहति  
 वारे॑-वृतँ॒ ह्य् अ॑स्यै
 </details>
 
@@ -554,7 +593,6 @@ He replied, 'Before [2] a year is out it will grow up for thee.'
 
 Therefore before the year is out the dug-out portion of earth grows up again, for that was what she chose as a boon.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -565,7 +603,6 @@ Therefore before the year is out the dug-out portion of earth grows up again, fo
 
 तस्मा॑त् । पु॒रा । सव्ँ॒व॒त्स॒रादिति॑ सम्-व॒त्स॒रात् । पृ॒थि॒व्यै । खा॒तम् । अपीति॑ । रो॒ह॒ति॒ । वारे॑वृत॒मिति॒ वारे॑-वृ॒त॒म् । हि । अ॒स्यै॒ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -587,7 +624,6 @@ Therefore before the year is out the dug-out portion of earth grows up again, fo
 She took a third of his guilt. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तृती॑यम् ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्णात् ।  
@@ -598,14 +634,13 @@ She took a third of his guilt.
 तृती॑यम् । ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै॑ । प्रतीति॑ । अ॒गृ॒ह्णा॒त् ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वरे हितः वरणकालः । ततस्तृतीयं प्रत्यगृह्णात् पृथिवी ब्रह्महत्यायाः ॥
 </details>
 
-
 ### स्वकृतम् इरिणम्
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तत्स्वकृ॑त॒मिरि॑णमभव॒त्तस्मा॒दाहि॑ताग्निश्श्र॒द्धादे॑व॒स्स्वकृ॑त॒ इरि॑णे॒ नाव॑ स्येद्ब्रह्मह॒त्यायै॒ ह्ये॑ष वर्णः
@@ -621,7 +656,6 @@ She took a third of his guilt.
 That became a natural fissure; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तत्स्वकृ॑त॒मिरि॑णमभवत् ।  
@@ -631,7 +665,6 @@ That became a natural fissure;
 
 तत् । स्वकृ॑त॒मिति॒ स्व-कृ॒त॒म् । इरि॑णम् । अ॒भ॒व॒त् ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -653,7 +686,6 @@ That became a natural fissure;
 therefore one who has piled up a fire-altar and whose deity is faith should not choose a natural fissure, 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्मा॒दाहि॑ताग्निश्श्र॒द्धादे॑व॒स्स्वकृ॑त॒ इरि॑णे॒ नाव॑स्येत् ।
@@ -663,7 +695,6 @@ therefore one who has piled up a fire-altar and whose deity is faith should not 
 
 तस्मा॑त् । आहि॑ताग्नि॒र् इत्याहि॑त-अ॒ग्निः॒ । श्र॒द्धादे॑व॒ इति॑ श्र॒द्धा-दे॒वः॒ । स्वकृ॑त॒ इति॒ स्व-कृ॒ते॒ । इरि॑णे । न । अवेति॑ । स्ये॒त् ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -685,7 +716,6 @@ therefore one who has piled up a fire-altar and whose deity is faith should not 
 for that is the colour of guilt. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒ह॒त्यायै॒ ह्ये॑ष वर्णः॑ ।
@@ -695,7 +725,6 @@ for that is the colour of guilt.
 
 ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै॑ । हि । ए॒षः । वर्णः॑ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -708,6 +737,7 @@ for that is the colour of guilt.
 </details>
 
 ## मार्जनम् - वनस्पतिषु
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वन॒स्पती॒न् उपा॑सीत् -   
@@ -719,7 +749,6 @@ for that is the colour of guilt.
 He appealed to the trees, 'Take a third part of my guilt.' 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स वन॒स्पती॒नुपा॑सीत् ।   
@@ -730,7 +759,6 @@ He appealed to the trees, 'Take a third part of my guilt.'
 
 सः । वन॒स्पती॑न् । उपेति॑ । अ॒सी॒द॒त् । 3 । अ॒स्यै । ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै॑ । तृती॑यम् । प्रतीति॑ । गृ॒ह्णी॒त॒ । इति॑ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -745,23 +773,48 @@ He appealed to the trees, 'Take a third part of my guilt.'
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते॑ऽब्रुवन् -  
-"वरव्ँ॑ वृणामहै ।  
-वृ॒क्णात्+++(←वृश् छेदे)+++ प॑राभवि॒ष्यन्तो॑ मन्यामहे ।  
-ततो॒ मा परा॑ भू॒मे"ति॑ ।  
+"वरव्ँ॑ वृणामहै ।
 </details>
 
 <details><summary>Keith</summary>
 
-They said, 'Let us choose a boon. We deem that we shall be overcome through pruning [3]. Let us not be overcome by that.' 
+They said, 'Let us choose a boon.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 ते॑ऽब्रुवन् ।  
-वरव्ँ॑वृणामहै ।  
-वृ॒क्णात् प॑राभवि॒ष्यन्तो॑ मन्यामहे ।  
-ततो॒ मा परा॑ भू॒मेति॑ ।  
+वरव्ँ॑वृणामहै ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वृ॒क्णात्+++(←वृश् छेदे)+++ प॑राभवि॒ष्यन्तो॑ मन्यामहे ।
+</details>
+
+<details><summary>Keith</summary>
+
+We deem that we shall be overcome through pruning [3].
+</details>
+
+<details><summary>मूलम्</summary>
+
+वृ॒क्णात् प॑राभवि॒ष्यन्तो॑ मन्यामहे ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततो॒ मा परा॑ भू॒मे"ति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Let us not be overcome by that.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततो॒ मा परा॑ भू॒मेति॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -771,7 +824,6 @@ They said, 'Let us choose a boon. We deem that we shall be overcome through prun
 प॒रा॒भ॒वि॒ष्यन्त॒ इति॑ परा-भ॒वि॒ष्यन्तः॑ । म॒न्या॒म॒हे॒ ।  
 ततः॑ । मा । परेति॑ । भू॒म॒ । इति॑ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -785,21 +837,31 @@ They said, 'Let us choose a boon. We deem that we shall be overcome through prun
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"आ॒व्रश्च॑नाद् वो॒ भूयाँ॑स॒ उत्ति॑ष्ठा॒न्" इत्य् अ॑ब्रवीत् ।  
+"आ॒व्रश्च॑नाद् वो॒ भूयाँ॑स॒ उत्ति॑ष्ठा॒न्" इत्य् अ॑ब्रवीत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+He replied, 'From pruning shall more (shoots) spring up for you.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒व्रश्च॑नाद् वो॒ भूयाँ॑स॒ उत्ति॑ष्ठा॒नित्य॑ब्रवीत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तस्मा॑द् आ॒व्रश्च॑नाद् वृ॒क्षाणा॒म् भूयाँ॑स॒ उत्ति॑ष्ठन्ति॒ - वारे॑वृतँ॒ ह्य् ए॑षा॒म्
 </details>
 
 <details><summary>Keith</summary>
 
-He replied, 'From pruning shall more (shoots) spring up for you.' 
-
 Therefore from the pruning of trees more (shoots) spring up, for that was what they chose as a boon.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-आ॒व्रश्च॑नाद् वो॒ भूयाँ॑स॒ उत्ति॑ष्ठा॒नित्य॑ब्रवीत् ।  
 तस्मा॑दा॒व्रश्च॑नाद्वृ॒क्षाणा॒म्भूयाँ॑स॒ उत्ति॑ष्ठन्ति॒ वारे॑वृतँ॒ ह्य् ए॑षा॒म्
 </details>
 
@@ -816,27 +878,39 @@ Therefore from the pruning of trees more (shoots) spring up, for that was what t
 </details>
 
 ### निर्यासः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तृती॑यम् ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्णन् ।  
-स नि॑र्या॒सो॑ऽभवत् ।  
+स नि॑र्या॒सो॑ऽभवत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+They took a third part of his guilt, it became sap;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तृती॑यम् ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्णन् ।  
+स नि॑र्या॒सो॑ऽभवत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तस्मा॑न् निर्या॒सस्य॒ नाश्य॑म्।  
 ब्र॒ह्म॒ह॒त्यायै॒ ह्य् ए॒॑ष वर्णः॑।
 </details>
 
 <details><summary>Keith</summary>
 
-They took a third part of his guilt, it became sap; therefore one should not partake of sap, for it is the colour of guilt. 
+therefore one should not partake of sap, for it is the colour of guilt.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-तृती॑यम् ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्णन् ।  
-स नि॑र्या॒सो॑ऽभवत् ।  
 तस्मा॑न्निर्या॒सस्य॒ नाश्य॑म्।  
 ब्र॒ह्म॒ह॒त्यायै॒ ह्ये॑ष वर्णः॑।
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -846,7 +920,6 @@ They took a third part of his guilt, it became sap; therefore one should not par
 तस्मा॑त् । नि॒र्या॒सस्येति॑ निः-या॒सस्य॑ । न । आ॒श्य॑म् ।  
 ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै॑ । हि । ए॒षः । वर्णः॑ । 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -858,7 +931,6 @@ They took a third part of his guilt, it became sap; therefore one should not par
 Or rather of the sap which is red or which comes from the pruning one should not partake [4], but of other sap at will. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अथो॒ खलु॒ य ए॒व लोहि॑तो॒ यो वा॒ऽऽव्रश्च॑नान्नि॒र्येष॑ति॒ तस्य॒ नाश्य॑म् [4] काम॑म॒न्यस्य॑
@@ -868,7 +940,6 @@ Or rather of the sap which is red or which comes from the pruning one should not
 
 अथो॒ इति॑ । खलु॑ । यः । ए॒व । लोहि॑तः । यः । वा॒ । आ॒व्रश्च॑ना॒दित्या॑-व्रश्च॑नात् । नि॒र्येष॒तीति॑ निः-येष॑ति । तस्य॑ । न । आ॒श्य॑म् ।  काम॑म् । अ॒न्यस्य॑ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -880,6 +951,7 @@ Or rather of the sap which is red or which comes from the pruning one should not
 </details>
 
 ## मार्जनं स्त्रीषु
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स स्त्री॑षँसा॒दमुपा॑सीदद॒स्यै ब्र॑ह्मह॒त्यायै॒ तृती॑य॒म्प्रति॑ गृह्णी॒तेति॒ ता अ॑ब्रुव॒न्वरव्ँ॑वृणामहा॒ ऋत्वि॑यात्प्र॒जाव्ँवि॑न्दामहै॒ काम॒मा विज॑नितो॒स्सम्भ॑वा॒मेति॒ तस्मा॒दृत्वि॑या॒त्स्त्रियᳶ॑ प्र॒जाव्ँवि॑न्दन्ते॒ काम॒मा विज॑नितो॒स्सम्भ॑वन्ति
@@ -896,7 +968,6 @@ Or rather of the sap which is red or which comes from the pruning one should not
 He appealed to a concourse of women, 'Take the third of my guilt.' 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स स्त्री॑षँसा॒दमुपा॑सीदत् ।  
@@ -907,7 +978,6 @@ He appealed to a concourse of women, 'Take the third of my guilt.'
 
 सः । स्त्री॒षँ॒सा॒दमिति॑ स्त्री-सँ॒सा॒दम् । उपेति॑ । अ॒सी॒द॒त् । 2 । अ॒स्यै । ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै॑ । तृती॑यम् । प्रतीति॑ । गृ॒ह्णी॒त॒ । इति॑ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -923,23 +993,48 @@ He appealed to a concourse of women, 'Take the third of my guilt.'
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता अ॑ब्रुवन् ।  
-वरव्ँ॑ वृणामहै ।  
-"ऋत्वि॑यात् प्र॒जाव्ँ वि॑न्दामहै ।  
+वरव्ँ॑ वृणामहै ।
+</details>
+
+<details><summary>Keith</summary>
+
+They said, 'Let us choose a boon;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ता अ॑ब्रुवन् ।  
+वरव्ँ॑वृणामहै ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ऋत्वि॑यात् प्र॒जाव्ँ वि॑न्दामहै ।
+</details>
+
+<details><summary>Keith</summary>
+
+let us obtain offspring from after the menses;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऋत्वि॑यात्प्र॒जाव्ँवि॑न्दामहै ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 +++(गर्भहानिं विना)+++ काम॒म् आ विज॑नितो॒स्+++(=प्रसवतः [सम्भोगे])+++ सम्भ॑वा॒मे"ति॑ ।
 </details>
 
 <details><summary>Keith</summary>
 
-They said, 'Let us choose a boon; let us obtain offspring from after the menses; let us enjoy intercourse at will up to birth.' 
+let us enjoy intercourse at will up to birth.'
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-ता अ॑ब्रुवन् ।  
-वरव्ँ॑वृणामहै ।  
-ऋत्वि॑यात्प्र॒जाव्ँवि॑न्दामहै ।  
-काम॒मा विज॑नितो॒स्सम्भ॑वा॒मेति॑ ।  
+काम॒मा विज॑नितो॒स्सम्भ॑वा॒मेति॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -949,7 +1044,6 @@ They said, 'Let us choose a boon; let us obtain offspring from after the menses;
 ऋत्वि॑यात् । प्र॒जामिति॑ प्र-जाम् । वि॒न्दा॒म॒है॒ ।  
 काम॑म् । एति॑ । विज॑नितो॒रिति॒ वि-ज॒नि॒तोः॒ । समिति॑ । भ॒वा॒म॒ । इति॑ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -972,7 +1066,6 @@ They said, 'Let us choose a boon; let us obtain offspring from after the menses;
 Therefore women obtain offspring from after the menses, and enjoy intercourse at will up to birth, for that was what they chose as a boon. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्मा॒दृत्वि॑या॒त्स्त्रियᳶ॑ प्र॒जाव्ँवि॑न्दन्ते ।  
@@ -984,7 +1077,6 @@ Therefore women obtain offspring from after the menses, and enjoy intercourse at
 तस्मा॑त् । ऋत्वि॑यात् । स्त्रियः॑ । प्र॒जामिति॑ प्र-जाम् । वि॒न्द॒न्ते॒ । काम॑म् । एति॑ । विज॑नितो॒रिति॒ वि-ज॒नि॒तोः॒ । समिति॑ । भ॒व॒न्ति॒ । 
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **विजननं** प्रसवः । 'भावलक्षणे स्थेण्' इति जनेस्तोसुन् प्रत्ययः । **संभवः** संयोगः ।
@@ -994,13 +1086,13 @@ Therefore women obtain offspring from after the menses, and enjoy intercourse at
 तथापि कामानुरूपं आविजनितोः संभवाम, गर्भस्सुखं वर्धतामिति ॥
 </details>
 
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वारे॑वृतँ॒ ह्या॑सा॒न्तृती॑यम्ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्ण॒न्त्सा मल॑वद्वासा अभव॒त्तस्मा॒न्मल॑वद्वाससा॒ न सव्ँव॑देत [5]  न स॒हासी॑त॒ नास्या॒ अन्न॑मद्याद्ब्रह्मह॒त्यायै॒ ह्ये॑षा वर्ण॑म्प्रति॒मुच्यास्तेऽथो॒ खल्वा॑हुर॒भ्यञ्ज॑नव्ँ॒ वाव स्त्रि॒या अन्न॑म॒भ्यञ्ज॑नमे॒व न प्र॑ति॒गृह्य॒ङ्काम॑म॒न्यदिति
 </details>
 
 ### रजः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारे॑वृतँ॒ ह्य् आ॑सान्, तृती॑यम् ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्णन् ।    
@@ -1011,7 +1103,6 @@ Therefore women obtain offspring from after the menses, and enjoy intercourse at
 
 They took a third of his guilt, it became (a woman) with stained garments; 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1024,7 +1115,6 @@ They took a third of his guilt, it became (a woman) with stained garments;
 वारे॑वृत॒मिति॒ वारे॑-वृ॒त॒म् । हि । आ॒सा॒म् ।  तृती॑यम् । ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै॑ । प्रतीति॑ । अ॒गृ॒ह्ण॒न् ।  
 सा । मल॑वद्वासा॒ इति॒ मल॑वत्-वा॒साः॒ । अ॒भ॒व॒त् ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1050,7 +1140,6 @@ They took a third of his guilt, it became (a woman) with stained garments;
 therefore one should not converse with (a woman) with stained garments [5], one should not sit with her, 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्मा॒न्मल॑वद्वाससा॒ न सव्ँव॑देत ।  
@@ -1062,7 +1151,6 @@ therefore one should not converse with (a woman) with stained garments [5], one 
 तस्मा॑त् । मल॑वद्वास॒सेति॒ मल॑वत्-वा॒स॒सा॒ । न । समिति॑ । व॒दे॒त॒ ।   
 न । स॒ह । आ॒सी॒त॒ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1084,7 +1172,6 @@ therefore one should not converse with (a woman) with stained garments [5], one 
 nor eat her food, 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 नास्या॒ अन्न॑मद्यात् ।  
@@ -1094,7 +1181,6 @@ nor eat her food,
 
 न । अ॒स्याः॒ । अन्न॑म् । अ॒द्या॒त् ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1116,7 +1202,6 @@ nor eat her food,
 for she keeps emitting the colour of guilt. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒ह॒त्यायै॒ ह्ये॑षा वर्ण॑म्प्रति॒मुच्यास्ते॑ ।  
@@ -1127,12 +1212,10 @@ for she keeps emitting the colour of guilt.
 ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै॑ । हि । ए॒षा । वर्ण॑म् । प्र॒ति॒मुच्येति॑ प्रति-मुच्य॑ ।  आस्ते॑ ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एषा हि ब्रह्महत्याया वर्णं प्रतिमुच्य देहे बद्ध्वाऽऽस्ते ।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1145,7 +1228,6 @@ for she keeps emitting the colour of guilt.
 Or rather they say, 'Woman's food is unguent, and there fore one should not accept (from her) unguent, but anything else (can be accepted) at will.' 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अथो॒ खल्वा॑हुः ।
@@ -1157,7 +1239,6 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 अथो॒ इति॑ । खलु॑ । आ॒हुः॒ ।
 अ॒भ्यञ्ज॑न॒मित्य॑भि-अञ्ज॑नम् । वाव । स्त्रि॒याः । अन्न॑म् । अ॒भ्यञ्ज॑न॒मित्य॑भि-अञ्ज॑नम् । ए॒व । न । प्र॒ति॒गृह्य॒मिति॑ प्रति-गृह्य॑म् । काम॑म् । अ॒न्यत् । इति॑ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1185,29 +1266,39 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याम् मल॑वद्वाससँ स॒म्भव॑न्ति॒ -   
-यस् ततो॒ जाय॑ते॒ सो॑ऽभिश॒स्तः।  
-याम् अर॑ण्ये॒ तस्यै॑ स्ते॒नः ।  
+यस् ततो॒ जाय॑ते॒ सो॑ऽभिश॒स्तः।
 </details>
 
 <details><summary>Keith</summary>
 
-The son born of intercourse with (a woman) with stained garments is accursed;  
-(the son born) of intercourse in the forest is a thief;  
+The son born of intercourse with (a woman) with stained garments is accursed;
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 याम्मल॑वद्वाससँ स॒म्भव॑न्ति ।  
-यस्ततो॒ जाय॑ते॒ सो॑ऽभिश॒स्तः।  
-यामर॑ण्ये॒ तस्यै॑ स्ते॒नः ।  
+यस्ततो॒ जाय॑ते॒ सो॑ऽभिश॒स्तः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+याम् अर॑ण्ये॒ तस्यै॑ स्ते॒नः ।
+</details>
+
+<details><summary>Keith</summary>
+
+(the son born) of intercourse in the forest is a thief;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यामर॑ण्ये॒ तस्यै॑ स्ते॒नः ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
 याम् । मल॑वद्वासस॒मिति॒ मल॑वत्-वा॒स॒स॒म् । स॒म्भव॒न्तीति॑ सम्-भव॑न्ति । यः । ततः॑ । जाय॑ते । सः । अ॒भि॒श॒स्त इत्य॑भि-श॒स्तः । याम् । अर॑ण्ये । तस्यै॑ । स्ते॒नः । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1231,7 +1322,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 (the son born) of intercourse with a (woman) who turns away is shamefaced and retiring; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 याम्परा॑ची॒न्तस्यै॑ ह्रीतमु॒ख्य॑पग॒ल्भः ।  
@@ -1241,7 +1331,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 याम् । परा॑चीम् । तस्यै॑ । ह्री॒त॒मु॒खीति॑ ह्रीत-मु॒खी । अ॒प॒ग॒ल्भ इत्य॑प-ग॒ल्भः । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1264,7 +1353,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 (the son born) of intercourse with a woman bathing is fated to drown; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 या स्नाति॒ तस्या॑ अ॒प्सु मारु॑कः ।
@@ -1274,7 +1362,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 या । स्नाति॑ । तस्याः॑ । अ॒प्स्वित्य॑प्-सु । मारु॑कः ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1296,7 +1383,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 (the son born) of one who [6] anoints herself has a skin disease; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 याऽभ्य॒ङ्क्ते तस्यै॑ दु॒श्चर्मा॑ ।  
@@ -1306,7 +1392,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 या ।  अ॒भ्य॒ङ्क्त इत्य॑भि-अ॒ङ्क्ते । तस्यै॑ । दु॒श्चर्मेति॑ दुः-चर्मा॑ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1328,7 +1413,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 (the son born) of one who combs her hair is bald and feeble; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 या प्र॑लि॒खते॒ तस्यै॑ खल॒तिर॑पमा॒री ।
@@ -1338,7 +1422,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 या । प्र॒लि॒खत॒ इति॑ प्र-लि॒खते॑ । तस्यै॑ । ख॒ल॒तिः । अ॒प॒मा॒रीत्य॑प-मा॒री । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1359,7 +1442,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 (the son born) of one who anoints (her eyes) is blind; 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1391,7 +1473,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 (the son born) of one who cleans her teeth has dirty teeth;
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 या द॒तो धाव॑ते॒ तस्यै॑ श्या॒वद॑न् ।  
@@ -1401,7 +1482,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 या । द॒तः । धाव॑ते । तस्यै॑ । श्या॒वद॒न्निति॑ श्या॒व-द॒न् । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1423,7 +1503,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
  (the son born) of one who cuts her nails has bad nails; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 या न॒खानि॑ निकृ॒न्तते॒ तस्यै॑ कुन॒खी ।  
@@ -1433,7 +1512,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 या । न॒खानि॑ । नि॒कृ॒न्तत॒ इति॑ नि-कृ॒न्तते॑ । तस्यै॑ । कु॒न॒खी । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1450,7 +1528,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 (the son born) of one who spins is a eunuch; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 या कृ॒णत्ति॒ तस्यै॑ क्ली॒बः ।  
@@ -1460,7 +1537,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 या । कृ॒णत्ति॑ । तस्यै॑ । क्ली॒बः । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1482,7 +1558,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 (the son born) of one who weaves ropes is unrestrained; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 या रज्जुँ॑ सृ॒जति॒ तस्या॑ उ॒द्बन्धु॑कः +++(उ॒द्बन्धू॑कः इति सात्वलेकर-पाठः)+++ ।
@@ -1492,7 +1567,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 या । रज्जु॑म् । सृ॒जति॑ । तस्याः॑ । उ॒द्बन्धु॑क॒ इत्यु॑त्-बन्धु॑कः ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1514,7 +1588,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 (the son born) of one who drinks from a leaf is drunken;
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 या प॒र्णेन॒ पिब॑ति॒ तस्या॑ उ॒न्मादु॑कः ।
@@ -1524,7 +1597,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 या । प॒र्णेन॑ । पिब॑ति । तस्याः॑ । उ॒न्मादु॑क॒ इत्यु॑त्-मादु॑कः ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1541,7 +1613,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
  (the son born) of one who drinks from a mutilated (vessel) is mutilated. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 या ख॒र्वेण॒ पिब॑ति॒ तस्यै॑ ख॒र्वः ।  
@@ -1551,7 +1622,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 या । ख॒र्वेण॑ । पिब॑ति । तस्यै॑ । ख॒र्वः । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1576,7 +1646,6 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 For three nights he should keep a vow and should drink from his hand or from a perfect vessel, to guard his offspring.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ति॒स्रो रात्री॑र्व्र॒तञ्च॑रेत् ।  
@@ -1590,7 +1659,6 @@ For three nights he should keep a vow and should drink from his hand or from a p
 अ॒ञ्ज॒लिना॑ । वा॒ । पिबे॑त् ।  
 अख॑र्वेण । वा॒ । पात्रे॑ण । प्र॒जाया॒ इति॑ प्र-जायै॑ । गो॒पी॒थाय॑ ॥ 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

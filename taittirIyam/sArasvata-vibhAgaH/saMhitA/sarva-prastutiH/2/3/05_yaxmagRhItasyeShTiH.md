@@ -12,16 +12,47 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑ते॒स्त्रय॑स्त्रिँशद्दुहि॒तर॑ आसन् ।  
-तास्सोमा॑य॒ राज्ञे॑ऽददात् ।  
-तासाँ॑ रोहि॒णीमुपै॑त् ।  
+प्र॒जाप॑ते॒स्त्रय॑स्त्रिँशद्दुहि॒तर॑ आसन् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Prajapati had thirty-three daughters;
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्र॒जाप॑ते॒स्त्रय॑स्त्रिँशद्दुहि॒तर॑ आसन् ।  
-तास्सोमा॑य॒ राज्ञे॑ऽददात् ।  
-तासाँ॑ रोहि॒णीमुपै॑त् ।  
+प्र॒जाप॑ते॒स्त्रय॑स्त्रिँशद्दुहि॒तर॑ आसन् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तास्सोमा॑य॒ राज्ञे॑ऽददात् ।
+</details>
+
+<details><summary>Keith</summary>
+
+he gave them to Soma, the king;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तास्सोमा॑य॒ राज्ञे॑ऽददात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तासाँ॑ रोहि॒णीमुपै॑त् ।
+</details>
+
+<details><summary>Keith</summary>
+
+of them he associated with Rohini;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तासाँ॑ रोहि॒णीमुपै॑त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -31,16 +62,34 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता ईर्ष्य॑न्ती॒ᳶ पुन॑रगच्छन्।  
-ता अन्वै॑त् ।  
-ताᳶ पुन॑रयाचत ।   
+ता ईर्ष्य॑न्ती॒ᳶ पुन॑रगच्छन्।
+</details>
+
+<details><summary>Keith</summary>
+
+they returned in anger;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ता ईर्ष्य॑न्ती॒ᳶ पुन॑रगच्छन्।  
+ता ईर्ष्य॑न्ती॒ᳶ पुन॑रगच्छन्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ता अन्वै॑त् ।  
-ताᳶ पुन॑रयाचत ।   
+ताᳶ पुन॑रयाचत ।
+</details>
+
+<details><summary>Keith</summary>
+
+then he followed and asked for them back;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ता अन्वै॑त् ।  
+ताᳶ पुन॑रयाचत ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -51,6 +100,11 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता अ॑स्मै॒ न पुन॑रददात् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+them he would not return;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -69,6 +123,11 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 ऋतम॑मीष्व ।  
 </details>
 
+<details><summary>Keith</summary>
+
+he said, 'Swear on oath
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽब्रवीत्  ।   
@@ -85,6 +144,11 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 यथा॑ समाव॒च्छ उ॑पै॒ष्यामि ।
 </details>
 
+<details><summary>Keith</summary>
+
+that thou wilt equally associate (with them):
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा॑ समाव॒च्छ उ॑पै॒ष्यामि ।
@@ -98,6 +162,11 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ॑ ते॒ पुन॑र्दास्या॒मीति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+then will I return them to you.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -116,6 +185,11 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 ता अ॑स्मै॒ पुन॑रददात् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He took the oath, and he returned them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ऋ॒तमा॑मीत् ।   
@@ -130,6 +204,11 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तासाँ॑ रोहि॒णीमे॒वोपै॑त्  ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He associated with Rohini alone [1].
 </details>
 
 <details><summary>मूलम्</summary>
@@ -147,6 +226,11 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 तय्ँयक्ष्म॑ आर्च्छत् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Illness seized him;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तय्ँयक्ष्म॑ आर्च्छत् ।
@@ -160,6 +244,11 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा॑नय्ँ॒यक्ष्म॑ आर॒दिति॒ तद्रा॑जय॒क्ष्मस्य॒ जन्म॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Illness has seized the king', that (saying) is the origin of the 'king's evil';
 </details>
 
 <details><summary>मूलम्</summary>
@@ -177,6 +266,11 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 यत्पापी॑या॒नभ॑व॒त्,  तत्पा॑पय॒क्ष्मस्य +++(जन्म)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+in that he became worse, that is (the origin) of the 'bad illness';
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्पापी॑या॒नभ॑व॒त्,  तत्पा॑पय॒क्ष्मस्य +++(जन्म)+++।  
@@ -190,6 +284,11 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्जा॒याभ्योऽवि॑न्द॒त्, तज्जा॒येन्य॑स्य +++(जन्म)+++।  
+</details>
+
+<details><summary>Keith</summary>
+
+because he got it from his wives, that is (the origin) of the 'wife's disease' (Jayenya);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -207,6 +306,11 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 य ए॒वमे॒तेषाय्ँ॒यक्ष्मा॑णा॒ञ्जन्म॒ वेद॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+him who knows thus the origin of these illnesses,
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वमे॒तेषाय्ँ॒यक्ष्मा॑णा॒ञ्जन्म॒ वेद॑ ।
@@ -220,6 +324,11 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैन॑मे॒ते यक्ष्मा॑ विन्दन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+these illnesses do not visit.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -237,6 +346,11 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 स ए॒ता ए॒व न॑म॒स्यन्नुपा॑धावत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He approached them respectfully;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒ता ए॒व न॑म॒स्यन्नुपा॑धावत् ।  
@@ -249,13 +363,31 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता अ॑ब्रुवन् ।  
-वरव्ँ॑वृणामहै, समाव॒च्छ ए॒व न॒ उपा॑य॒ इति॑ ।
+ता अ॑ब्रुवन् ।
+</details>
+
+<details><summary>Keith</summary>
+
+they said, 'Let us choose a boon;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ता अ॑ब्रुवन् ।  
+ता अ॑ब्रुवन् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वरव्ँ॑वृणामहै, समाव॒च्छ ए॒व न॒ उपा॑य॒ इति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+do thou associate equally with us.'
+</details>
+
+<details><summary>मूलम्</summary>
+
 वरव्ँ॑वृणामहै, समाव॒च्छ ए॒व न॒ उपा॑य॒ इति॑ ।
 </details>
 
@@ -266,14 +398,32 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑ ए॒तमा॑दि॒त्यञ्च॒रुन्निर॑वपन् ।  
-तेनै॒वैन॑म्पा॒पात्स्रामा॑दमुञ्चन् ।  
+तस्मा॑ ए॒तमा॑दि॒त्यञ्च॒रुन्निर॑वपन् ।
+</details>
+
+<details><summary>Keith</summary>
+
+For him [2] they offered this oblation to the Adityas;
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्मा॑ ए॒तमा॑दि॒त्यञ्च॒रुन्निर॑वपन् ।  
-तेनै॒वैन॑म्पा॒पात्स्रामा॑दमुञ्चन् ।  
+तस्मा॑ ए॒तमा॑दि॒त्यञ्च॒रुन्निर॑वपन् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेनै॒वैन॑म्पा॒पात्स्रामा॑दमुञ्चन् ।
+</details>
+
+<details><summary>Keith</summary>
+
+they freed him from his evil case.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेनै॒वैन॑म्पा॒पात्स्रामा॑दमुञ्चन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -289,16 +439,47 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यᳶ पा॑पय॒क्ष्मगृ॑हीत॒स्स्यात् ।  
-तस्मा॑ ए॒तमा॑दि॒त्यञ्च॒रुन्निर्व॑पेत् ।  
-आ॒दि॒त्याने॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।  
-त ए॒वैन॑म्पा॒पात्स्रामा॑न्मुञ्चन्ति ।
+तस्मा॑ ए॒तमा॑दि॒त्यञ्च॒रुन्निर्व॑पेत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+For him who is seized by the bad illness he should offer this oblation to the Adityas;
 </details>
 
 <details><summary>मूलम्</summary>
 
 यᳶ पा॑पय॒क्ष्मगृ॑हीत॒स्स्यात् ।  
-तस्मा॑ ए॒तमा॑दि॒त्यञ्च॒रुन्निर्व॑पेत् ।  
-आ॒दि॒त्याने॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।  
+तस्मा॑ ए॒तमा॑दि॒त्यञ्च॒रुन्निर्व॑पेत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒दि॒त्याने॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he has recourse to the Adityas with their own share;
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒दि॒त्याने॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त ए॒वैन॑म्पा॒पात्स्रामा॑न्मुञ्चन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily they free him from his evil case.
+</details>
+
+<details><summary>मूलम्</summary>
+
 त ए॒वैन॑म्पा॒पात्स्रामा॑न्मुञ्चन्ति ।
 </details>
 
@@ -310,6 +491,11 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒मा॒वा॒स्या॑या॒न्निर्व॑पेत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He should offer at the new moon; verily with its waxing he makes him wax.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -329,6 +515,11 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 आयु॑रे॒वास्मि॒न्तया॑ दधाति ।  
 यमा॑दि॒त्या अँ॒शुमा॑प्या॒यय॒न्तीति ।  
 या॒ज्यैवैन॑मे॒तया॑ प्याययति ॥
+</details>
+
+<details><summary>Keith</summary>
+
+The Puronuvakya is, 'He is born ever new'; verily thereby he bestows life upon him. The Yajya is, 'The shoot which the Adityas make to wax'; verily thereby he makes him wax.
 </details>
 
 <details><summary>मूलम्</summary>

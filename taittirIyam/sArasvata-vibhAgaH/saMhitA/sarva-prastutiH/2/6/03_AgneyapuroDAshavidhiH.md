@@ -3,6 +3,12 @@ title = "०३ आग्नेयपुरोडाशविधिः"
 
 +++
 
++++
+
+title = "०३ आग्नेयपुरोडाशविधिः"
+
++++
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 आग्नेयपुरोडाशविधिः  
@@ -20,19 +26,30 @@ title = "०३ आग्नेयपुरोडाशविधिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तिर् दे॒वेभ्यो॑ य॒ज्ञान् **व्यादि॑शत्** ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Prajapati assigned the sacrifices to the gods.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्र॒जाप॑तिर्दे॒वेभ्यो॑ य॒ज्ञान्व्यादि॑शत् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स आ॒त्मन्न् आज्य॑म् **अधत्त** ।  
 </details>
 
 <details><summary>Keith</summary>
 
-Prajapati assigned the sacrifices to the gods.  
-He placed in himself the oblation. 
+He placed in himself the oblation.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-प्र॒जाप॑तिर्दे॒वेभ्यो॑ य॒ज्ञान्व्यादि॑शत् ।  
 स आ॒त्मन्नाज्य॑मधत्त ।  
 </details>
 
@@ -44,25 +61,32 @@ He placed in himself the oblation.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन् दे॒वा अ॑ब्रुवन्न् -
-
 > ए॒ष वाव य॒ज्ञो यद् आज्य॒म्,  
-> अप्य् ए॒व +++(भागः)+++ नो ऽत्रा॒स्त्व् 
+</details>
 
+<details><summary>Keith</summary>
+
+The gods said to him, > 'The oblation is the sacrifice;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तन्दे॒वा अ॑ब्रुवन् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अप्य् ए॒व +++(भागः)+++ नो ऽत्रा॒स्त्व् 
 इति॑ ।  
 </details>
 
 <details><summary>Keith</summary>
 
-The gods said to him,  
-
-> 'The oblation is the sacrifice;  
-> let us have a share in it.' 
+> let us have a share in it.'
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-तन्दे॒वा अ॑ब्रुवन् ।
 ए॒ष वाव य॒ज्ञो यदाज्य॒मप्ये॒व नोत्रा॒स्त्विति॑ ।  
 </details>
 
@@ -91,7 +115,6 @@ He said,
 > let them sprinkle (it).' 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सो॑ऽब्रवीत्  ।  
@@ -115,7 +138,6 @@ He said,
 Therefore they offer the portions of the oblation,  
 they pour out (a layer), and sprinkle (it). 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -157,7 +179,6 @@ He should reply,
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ब्रह्मवा॒दिनो॑ वदन्ति॒ कस्मा॑त्स॒त्याद्या॒तया॑मान्य॒न्यानि॑ ह॒वीँष्यया॑तयाम॒माज्य॒मिति॑ प्राजाप॒त्यम् [14]  
@@ -170,6 +191,7 @@ He should reply,
 </details>
 
 ## छन्दो-भागः
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 छन्दाँ॑सि दे॒वेभ्योऽपा॑क्राम॒न्न वो॑ऽभा॒गानि॑ ह॒व्यव्ँव॑क्ष्याम॒ इति॒ तेभ्य॑ ए॒तच्च॑तुरव॒त्तम॑धारयन्पुरोनुवा॒क्या॑यै या॒ज्या॑यै दे॒वता॑यै वषट्का॒राय॒ यच्च॑तुरव॒त्तञ्जु॒होति॒ छन्दाँ॑स्ये॒व तत्प्री॑णाति॒ तान्य॑स्य प्री॒तानि॑ दे॒वेभ्यो॑ ह॒व्यव्ँव॑ह॒न्ति
@@ -178,29 +200,34 @@ He should reply,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 छन्दाँ॑सि दे॒वेभ्यो ऽपा॑क्राम॒न् -   
-
 > न वो॑ऽभा॒गानि॑ ह॒व्यव्ँ व॑क्ष्याम॒ 
-
 इति॑ ।   
+</details>
+
+<details><summary>Keith</summary>
+
+The metres ran away from the gods (saying), > 'We will not bear the offering, > if we have no share.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+छन्दाँ॑सि दे॒वेभ्योऽपा॑क्राम॒न् ।   
+न वो॑ऽभा॒गानि॑ ह॒व्यव्ँव॑क्ष्याम॒ इति॑ ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 +++(गायत्र्य्-अनुष्टुभ्-त्रिष्टुभ्-जगतीभ्यस्)+++ तेभ्य॑ ए॒तच् च॑तुर्-अव॒त्तम् अ॑धारयन् -   
 पुरोऽनुवा॒क्या॑यै, या॒ज्या॑यै, दे॒वता॑यै, वषट्का॒राय॑ ।  
 </details>
 
 <details><summary>Keith</summary>
 
-The metres ran away from the gods (saying),  
-
-> 'We will not bear the offering,  
-> if we have no share.' 
-
-They kept for them (the offering) divided into four parts, for the Puronuvakya, the Yajya, the deity, the Vasat call. 
+They kept for them (the offering) divided into four parts, for the Puronuvakya, the Yajya, the deity, the Vasat call.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-छन्दाँ॑सि दे॒वेभ्योऽपा॑क्राम॒न् ।   
-न वो॑ऽभा॒गानि॑ ह॒व्यव्ँव॑क्ष्याम॒ इति॑ ।   
 तेभ्य॑ ए॒तच्च॑तुरव॒त्तम॑धारयन् ।   
 पुरोनुवा॒क्या॑यै, या॒ज्या॑यै, दे॒वता॑यै, वषट्का॒राय॑ ।  
 </details>
@@ -232,7 +259,6 @@ and they delighted by him carry the offering to the gods.
 
 </details>
 
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अङ्गि॑रसो॒ वा इ॒त उ॑त्त॒मास्सु॑व॒र्गल्ँ लो॒कमा॑य॒न्तदृष॑यो यज्ञवा॒स्त्व॑भ्य॒वाय॒न्ते [15]  
@@ -242,20 +268,34 @@ and they delighted by him carry the offering to the gods.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गि॑रसो॒ वा इ॒त उ॑त्त॒मास् सु॑व॒र्गल्ँ लो॒कम् आ॑यन् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The Angirases were the last to go hence to the world of heaven.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अङ्गि॑रसो॒ वा इ॒त उ॑त्त॒मास्सु॑व॒र्गल्ँ लो॒कमा॑यन् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तद् ऋष॑यो यज्ञ-वा॒स्त्व् अ॑भ्य॒वाय॑न्।  
 </details>
 
 <details><summary>Keith</summary>
 
-The Angirases were the last to go hence to the world of heaven. The Rsis came to the place of sacrifice; 
+The Rsis came to the place of sacrifice;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदृष॑यो यज्ञवा॒स्त्व॑भ्य॒वाय॑न् ।  
 </details>
 
 ## पुरोडाशानाम् उपाञ्जनम्
-<details><summary>मूलम्</summary>
-
-अङ्गि॑रसो॒ वा इ॒त उ॑त्त॒मास्सु॑व॒र्गल्ँ लो॒कमा॑यन् ।  
-तदृष॑यो यज्ञवा॒स्त्व॑भ्य॒वाय॑न् ।  
-</details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -265,35 +305,76 @@ The Angirases were the last to go hence to the world of heaven. The Rsis came to
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते॑ऽपश्यन् पुरो॒डाश॑ङ् कू॒र्मम् भू॒तँ सर्प॑न्तम्।  
-तम् अ॑ब्रुव॒न्- 
+</details>
 
+<details><summary>Keith</summary>
+
+they [2] saw the sacrificial cake creeping about, having become a tortoise.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ते॑ऽपश्यन् पुरो॒डाश॑ङ्कू॒र्मम्भू॒तँ सर्प॑न्त॒न्तम॑ब्रुवन् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तम् अ॑ब्रुव॒न्- 
 "इन्द्रा॑य ध्रियस्व।  
+</details>
+
+<details><summary>Keith</summary>
+
+They said to it, > 'Be firm for Indra;
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्रा॑य ध्रियस्व॒,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बृह॒स्पत॑ये ध्रियस्व।  
+</details>
+
+<details><summary>Keith</summary>
+
+be firm for Brhaspati;
+</details>
+
+<details><summary>मूलम्</summary>
+
+बृह॒स्पत॑ये ध्रियस्व॒,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 विश्वे॑भ्यो दे॒वेभ्यो॑ ध्रिय॒स्वे"ति॑ ।   
+</details>
+
+<details><summary>Keith</summary>
+
+be firm for the All-gods.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+विश्वे॑भ्यो दे॒वेभ्यो॑ ध्रिय॒स्वेति॑ ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स नाध्रि॑यत ।  
 </details>
 
 <details><summary>Keith</summary>
 
-they [2] saw the sacrificial cake creeping about, having become a tortoise.  
-They said to it,  
-
-> 'Be firm for Indra;  
-be firm for Brhaspati;  
-be firm for the All-gods.' 
-
-It did not become firm. 
+It did not become firm.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-ते॑ऽपश्यन् पुरो॒डाश॑ङ्कू॒र्मम्भू॒तँ सर्प॑न्त॒न्तम॑ब्रुवन् ।  
-
-इन्द्रा॑य ध्रियस्व॒,  
-बृह॒स्पत॑ये ध्रियस्व॒,  
-विश्वे॑भ्यो दे॒वेभ्यो॑ ध्रिय॒स्वेति॑ ।   
 स नाध्रि॑यत ।  
 </details>
 
@@ -306,7 +387,35 @@ It did not become firm.
 
 तम् अ॑ब्रुवन् -  
 "अ॒ग्नये॑ ध्रिय॒स्वे"ति॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+They said to it, 'Be firm for Agni.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+तम॑ब्रुवन् ।  
+अ॒ग्नये॑ ध्रिय॒स्वेति॑ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सो॒॑ऽग्नये॑ऽध्रियत ।  
+</details>
+
+<details><summary>Keith</summary>
+
+It became firm for Agni.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सो॒॑ऽग्नये॑ऽध्रियत ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् आ॑ग्ने॒यो॒॑ ऽष्टाक॑पालो  
 ऽमावा॒स्या॑याञ् च पौर्णमा॒स्याञ् चा॑च्यु॒तो भव॑ति ,..      
@@ -315,19 +424,11 @@ It did not become firm.
 
 <details><summary>Keith</summary>
 
-They said to it,  
-'Be firm for Agni.'  
-It became firm for Agni.  
-In that (the cake) for Agni on eight potsherds is unmoved at the full and at the new moon,  
-(it serves) to conquer the world of heaven. 
+In that (the cake) for Agni on eight potsherds is unmoved at the full and at the new moon, (it serves) to conquer the world of heaven.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-तम॑ब्रुवन् ।  
-अ॒ग्नये॑ ध्रिय॒स्वेति॑ ।  
-सो॒॑ऽग्नये॑ऽध्रियत ।  
 यदा॑ग्ने॒यो॑ऽष्टाक॑पालोऽमावा॒स्या॑याञ्च पौर्णमा॒स्याञ्चा॑च्यु॒तो भव॑ति ,..      
 सुव॒र्गस्य॑ लो॒कस्या॒भिजि॑त्यै ।  
 </details>
@@ -349,6 +450,21 @@ In that (the cake) for Agni on eight potsherds is unmoved at the full and at the
 "+++(आज्येन)+++ अनु॑पाक्तो ऽभूव॒म्" इत्य् अ॑ब्रवीत्।  
 "यथाक्षोऽनु॑पाक्तो॒ ऽवार्च्छ॑द्  
 ए॒वम् अवा॑र॒म्" इति॑।+++(5)+++  
+</details>
+
+<details><summary>Keith</summary>
+
+They said to it, 'How hast thou been left?' 'I have not been anointed', he said, 'just as an axle not anointed [3] goes wrong, so I have gone wrong.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+तम॑ब्रुवन् ।  
+क॒थाहा॑स्था॒ इत्यनु॑पाक्तोऽभूव॒मित्य॑ब्रवीत् ।  
+यथाक्षोऽनु॑पाक्तो॒ऽवार्च्छ॑द्  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒परि॑ष्टाद् अ॒भ्यज्या॒धस्ता॒द् उपा॑नक्ति ..  
 सुव॒र्गस्य॑ लो॒कस्य॒ सम॑ष्ट्यै ।
@@ -356,20 +472,11 @@ In that (the cake) for Agni on eight potsherds is unmoved at the full and at the
 
 <details><summary>Keith</summary>
 
-They said to it, 'How hast thou been left?'  
-'I have not been anointed', he said,  
-'just as an axle not anointed [3] goes wrong, so I have gone wrong.'  
-After anointing it above,  
-he anoints it below,  
-to gain the world of heaven. 
+After anointing it above, he anoints it below, to gain the world of heaven.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-तम॑ब्रुवन् ।  
-क॒थाहा॑स्था॒ इत्यनु॑पाक्तोऽभूव॒मित्य॑ब्रवीत् ।  
-यथाक्षोऽनु॑पाक्तो॒ऽवार्च्छ॑द्  
 ए॒वमवा॑र॒मित्यु॒परि॑ष्टाद॒भ्यज्या॒धस्ता॒दुपा॑नक्ति ..  
 सुव॒र्गस्य॑ लो॒कस्य॒ सम॑ष्ट्यै ।
 </details>
@@ -388,22 +495,34 @@ to gain the world of heaven.
 </details>
 
 ## कपालेषु स्थापनम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वा॑णि क॒पाला॑न्य् अ॒भि प्र॑थयति +++(पुरोडाशम्)+++।  
+</details>
+
+<details><summary>Keith</summary>
+
+He spreads (the cake) on all the fragments;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वा॑णि क॒पाला॑न्य॒भि प्र॑थयति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ताव॑तᳶ पुरो॒डाशा॑न् अ॒मुष्मिल्ँ॑ लो॒के॒॑ऽभि ज॑यति ।
 </details>
 
 <details><summary>Keith</summary>
 
-He spreads (the cake) on all the fragments;  
-so many cakes does he conquer in yonder world. 
+so many cakes does he conquer in yonder world.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-सर्वा॑णि क॒पाला॑न्य॒भि प्र॑थयति ।  
 ताव॑तᳶ पुरो॒डाशा॑न॒मुष्मिल्ँ॑ लो॒के॑ऽभि ज॑यति ।
 </details>
 
@@ -420,28 +539,38 @@ so many cakes does he conquer in yonder world.
 </details>
 
 ## पाकः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो विद॑ग्ध॒स् स नै॑र्ऋ॒तः,  
 यो ऽशृ॑त॒स् स रौ॒द्रः ,  
 यश् शृ॒तस् स सदे॑वः, ..  
-तस्मा॒द् अवि॑दहताशृत॒ङ् कृत्य॑स् सदेव॒त्वाय॑ ।  
 </details>
 
 <details><summary>Keith</summary>
 
-That which is burnt belongs to Nirrti,  
-that which is not cooked to Rudra,  
-that which is cooked to the gods.  
-Therefore one should cook it, without burning it, for the gods. 
+That which is burnt belongs to Nirrti, that which is not cooked to Rudra, that which is cooked to the gods.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 यो विद॑ग्ध॒स्स नै॑र्ऋ॒तः,  
 योऽशृ॑त॒स्स रौ॒द्रः ,  
 यश्शृ॒तस्स सदे॑वः, ..  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॒द् अवि॑दहताशृत॒ङ् कृत्य॑स् सदेव॒त्वाय॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Therefore one should cook it, without burning it, for the gods.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॒दवि॑दहता शृत॒ङ्कृत्य॑स्सदेव॒त्वाय॑ ।  
 </details>
 
@@ -451,22 +580,34 @@ Therefore one should cook it, without burning it, for the gods.
 </details>
 
 ## भस्मना वासनम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भस्म॑ना॒भि वा॑सयति ।  
-तस्मा॑न् माँ॒सेनास्थि॑ छ॒न्नम्।
 </details>
 
 <details><summary>Keith</summary>
 
 He covers it with ashes;
-therefore the bones are clothed with flesh.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 भस्म॑ना॒भि वा॑सयति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मा॑न् माँ॒सेनास्थि॑ छ॒न्नम्।
+</details>
+
+<details><summary>Keith</summary>
+
+therefore the bones are clothed with flesh.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मा॑न् माँ॒सेनास्थि॑ छ॒न्नम्।
 </details>
 
@@ -476,6 +617,7 @@ therefore the bones are clothed with flesh.
 </details>
 
 ## वेदेन वासनम्
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तस्मा॑न्माँ॒सेनास्थि॑ छ॒न्नव्ँवे॒देना॒भि वा॑सयति॒ तस्मा॑त् [17]  केशै॒श्शिर॑श्छ॒न्नम्प्रच्यु॑तव्ँ॒वा ए॒तद॒स्माल्लो॒कादग॑तन्देवलो॒कय्ँयच्छृ॒तँ ह॒विरन॑भिघारितमभि॒घार्योद्वा॑सयति देव॒त्रैवैन॑द्गमयति
@@ -484,45 +626,77 @@ therefore the bones are clothed with flesh.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वे॒देना॒भि वा॑सयति।  
+</details>
+
+<details><summary>Keith</summary>
+
+He covers it with the bunch of grass;
+</details>
+
+<details><summary>मूलम्</summary>
+
+वे॒देना॒भि वा॑सयति।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तस्मा॒त् केशै॒श् शिर॑श् छ॒न्नम्।
 </details>
 
 <details><summary>Keith</summary>
 
-He covers it with the bunch of grass;  
-therefore [4] the head is covered with hair. 
+therefore [4] the head is covered with hair.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-वे॒देना॒भि वा॑सयति।  
 तस्मा॒त् केशै॒श्शिर॑श्छ॒न्नम्।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रच्यु॑तव्ँ॒ वा ए॒तद् अ॒स्माल् लो॒काद्,  
 अग॑तन् देवलो॒कय्ँ  
 यच् छृ॒तँ ह॒विर् अन॑भिघारितम्।  
+</details>
+
+<details><summary>Keith</summary>
+
+The offering which is cooked without being sprinkled has fallen from this world, but has not reached the world of the gods.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रच्यु॑तव्ँ॒वा ए॒तद॒स्माल्लो॒कादग॑तन्देवलो॒कय्ँयच्छृ॒तँ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒भि॒घार्योद्वा॑सयति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He sprinkles it before covering it;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ह॒विरन॑भिघारितमभि॒घार्योद्वा॑सयति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दे॒व॒त्रैवैन॑द् गमयति ।
 </details>
 
 <details><summary>Keith</summary>
 
-The offering which is cooked without being sprinkled has fallen from this world,  
-but has not reached the world of the gods.  
-He sprinkles it before covering it;  
-verily he makes it go among the gods. 
+verily he makes it go among the gods.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-प्रच्यु॑तव्ँ॒वा ए॒तद॒स्माल्लो॒कादग॑तन्देवलो॒कय्ँयच्छृ॒तँ 
-ह॒विरन॑भिघारितमभि॒घार्योद्वा॑सयति ।  
 दे॒व॒त्रैवैन॑द्गमयति ।
 </details>
 
@@ -534,6 +708,7 @@ verily he makes it go among the gods.
 </details>
 
 ##  कपालानां सङ्ख्ययोद्वासनविधिः
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद्येक॑ङ्क॒पाल॒न्नश्ये॒देको॒ मास॑स्सव्ँवत्स॒रस्यान॑वेत॒स्स्यादथ॒ यज॑मान॒ᳶ प्र मी॑येत॒ यद्द्वे नश्ये॑ता॒न्द्वौ मासौ॑ सव्ँवत्स॒रस्यान॑वेतौ॒ स्याता॒मथ॒ यज॑मान॒ᳶ प्र मी॑येत स॒ङ्ख्यायोद्वा॑सयति॒ यज॑मानस्य [18]  गो॒पी॒थाय
@@ -544,32 +719,52 @@ verily he makes it go among the gods.
 यद्य् एक॑ङ् क॒पाल॒न् नश्ये॒द्  
 एको॒ मास॑स् सव्ँवत्स॒रस्यान॑वेत॒स् स्याद् +++(←चादिलोपे विभाषा)+++,  
 अथ॒ यज॑मान॒ᳶ प्र मी॑येत।
-यद् द्वे नश्ये॑ता॒न्  
-द्वौ मासौ॑ सव्ँवत्स॒रस्यान॑वेतौ॒ स्याता॒म्  
-+++(←चादिलोपे विभाषा)+++,  
-अथ॒ यज॑मान॒ᳶ प्र मी॑येत। 
-स॒ङ्ख्यायोद्वा॑सयति॒ - यज॑मानस्य गोपी॒थाय॑ ।  
 </details>
 
 <details><summary>Keith</summary>
 
-If one fragment were lost,  
-one month of the year would be omitted,  
-and the sacrificer would perish.  
-If two were lost, two months of the year would be omitted, 
-and the sacrificer would perish.  
-He counts before covering, to guard the sacrificer [5]. 
+If one fragment were lost, one month of the year would be omitted, and the sacrificer would perish.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 यद्येक॑ङ्क॒पाल॒न्नश्ये॑त् ।  
 एको॒ मास॑स्सव्ँवत्स॒रस्यान॑वेत॒स्स्यात् ।  
 अथ॒ यज॑मान॒ᳶ प्र मी॑येत ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् द्वे नश्ये॑ता॒न्  
+द्वौ मासौ॑ सव्ँवत्स॒रस्यान॑वेतौ॒ स्याता॒म्  
++++(←चादिलोपे विभाषा)+++,  
+</details>
+
+<details><summary>Keith</summary>
+
+If two were lost, two months of the year would be omitted, and the sacrificer would perish.
+</details>
+
+<details><summary>मूलम्</summary>
+
 यद्द्वे नश्ये॑ताम् ।  
 द्वौ मासौ॑ सव्ँवत्स॒रस्यान॑वेतौ॒ स्याताम् ।  
 अथ॒ यज॑मान॒ᳶ प्र मी॑येत ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ॒ यज॑मान॒ᳶ प्र मी॑येत। 
+स॒ङ्ख्यायोद्वा॑सयति॒ - यज॑मानस्य गोपी॒थाय॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He counts before covering, to guard the sacrificer [5].
+</details>
+
+<details><summary>मूलम्</summary>
+
 स॒ङ्ख्यायोद्वा॑सयति॒ यज॑मानस्य गोपी॒थाय॑ ।  
 </details>
 
@@ -578,31 +773,99 @@ He counts before covering, to guard the sacrificer [5].
 10यद्येकमित्यादि ॥ कपालानां सङ्ख्ययोद्वासनविधिः । अनवेतः अनवगतः । अन्यून इति यावत् सङ्ख्ययोद्वासनं यजमानस्य रक्षार्थम् ॥
 </details>
 
-
 ## कपालनाशे प्रायश्चित्तम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि॒ नश्ये॑द् आश्वि॒नन् द्वि॑कपा॒लन् निर्व॑पेद्   
 द्यावापृथि॒व्य॒॑म् एक॑-कपालम्।
+</details>
+
+<details><summary>Keith</summary>
+
+If it be lost, be should make an offering on two potsherds to the Aśvins, and on one potsherd to sky and earth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि॒ नश्ये॑दाश्वि॒नन्द्वि॑कपा॒लन्निर्व॑पेद्द्यावापृथि॒व्य॑मेक॑कपालम॒श्विनौ॒ वै दे॒वाना॑म्भि॒षजौ॒ ताभ्या॑मे॒वास्मै॑ भेष॒जङ्क॑रोति द्यावापृथि॒व्य॑ एक॑कपालो भवत्य॒नयो॒र्वा ए॒तन्न॑श्यति॒ यन्नश्य॑त्य॒नयो॑रे॒वैन॑द्विन्दति॒ प्रति॑ष्ठित्यै ॥ [19]
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒श्विनौ॒ वै दे॒वाना॑म् भि॒षजौ॒,  
+</details>
+
+<details><summary>Keith</summary>
+
+The Aśvins are the physicians of the gods;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒श्विनौ॒ वै दे॒वाना॑म् भि॒षजौ॒,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ताभ्या॑म् ए॒वास्मै॑ भेष॒जङ् क॑रोति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily by them he heals it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताभ्या॑म् ए॒वास्मै॑ भेष॒जङ् क॑रोति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्या॒वा॒पृ॒थि॒व्य॒॑ एक॑कपालो भवति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Then is offered an offering on one potsherd to sky and earth;
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्या॒वा॒पृ॒थि॒व्य॒॑ एक॑कपालो भवति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒नयो॒र् वा ए॒तन् न॑श्यति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+in them is lost what is lost;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒नयो॒र् वा ए॒तन् न॑श्यति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यन् नश्य॑ति -  
 अ॒नयो॑र् ए॒वैन॑द् विन्दति॒ प्रति॑ष्ठित्यै ॥  
 </details>
 
 <details><summary>Keith</summary>
 
-If it be lost, be should make an offering on two potsherds to the Aśvins, and on one potsherd to sky and earth. The Aśvins are the physicians of the gods; verily by them he heals it. Then is offered an offering on one potsherd to sky and earth; in them is lost what is lost; verily in them he finds it, (and it serves) for support.
+verily in them he finds it, (and it serves) for support.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-यदि॒ नश्ये॑दाश्वि॒नन्द्वि॑कपा॒लन्निर्व॑पेद्द्यावापृथि॒व्य॑मेक॑कपालम॒श्विनौ॒ वै दे॒वाना॑म्भि॒षजौ॒ ताभ्या॑मे॒वास्मै॑ भेष॒जङ्क॑रोति द्यावापृथि॒व्य॑ एक॑कपालो भवत्य॒नयो॒र्वा ए॒तन्न॑श्यति॒ यन्नश्य॑त्य॒नयो॑रे॒वैन॑द्विन्दति॒ प्रति॑ष्ठित्यै ॥ [19]
+यन् नश्य॑ति -  
+अ॒नयो॑र् ए॒वैन॑द् विन्दति॒ प्रति॑ष्ठित्यै ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
