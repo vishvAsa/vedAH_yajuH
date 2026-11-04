@@ -2,6 +2,14 @@
 title = "०९ बडित्था पर्वतानाङ्खिद्रम्बिभर्षि"
 
 +++
+<details><summary>Keith</summary>
+
+O earth, thou bearest
+The weight of the mountains,
+Thou that dost, O great earth,
+With thy hills, quicken with thy might [2].
+</details>
+
 <details><summary>मूलम्</summary>
 
 बडि॒त्था पर्व॑तानाङ्खि॒द्रम्बि॑भर्षि पृथिवि ।  

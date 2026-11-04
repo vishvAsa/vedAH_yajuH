@@ -2,6 +2,14 @@
 title = "०९ बडित्था पर्वतानाङ्खिद्रम्बिभर्षि"
 
 +++
+<details><summary>Keith</summary>
+
+The songs salute thee,
+Thee that extendest far, each day,
+Thee that, O bright one, dost shoot forward
+The seed like great riches.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्तोमा॑सस्त्वा विचारिणि॒ प्रति॑ष्टोभन्त्य॒क्तुभिः॑ ।  
