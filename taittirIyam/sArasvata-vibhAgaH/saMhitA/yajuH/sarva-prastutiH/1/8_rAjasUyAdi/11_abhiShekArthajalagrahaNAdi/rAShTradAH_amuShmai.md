@@ -2,12 +2,16 @@
 title = "राष्ट्रदाः अमुष्मै"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
 ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
 या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
 या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
+</details>
 
 </div>
 
