@@ -237,7 +237,7 @@ The last is to Indra, and thereby there is a pair. Seven are these offerings,
 
 <details><summary>Keith</summary>
 
-the tame animals are seven, the wild seven;
+the tame animals are seven, the wild seven; the metres are seven, for the winning of both.
 </details>
 
 <details><summary>मूलम्</summary>
