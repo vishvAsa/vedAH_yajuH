@@ -20,7 +20,7 @@ title = "०७ ब्राह्मण एकहोता"
 
 <details><summary>होमे त्यागः</summary>
 
-(ब्रह्मण इदं न मम)
++++((ब्रह्मण इदं न मम))+++
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -79,7 +79,7 @@ title = "०७ ब्राह्मण एकहोता"
 
 <details><summary>होमे त्यागः</summary>
 
-(पृथिव्या इदं न मम)
++++((पृथिव्या इदं न मम))+++
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -133,7 +133,7 @@ title = "०७ ब्राह्मण एकहोता"
 
 <details><summary>होमे त्यागः</summary>
 
-(वायव इदं न मम)
++++((वायव इदं न मम))+++
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -160,7 +160,7 @@ title = "०७ ब्राह्मण एकहोता"
 
 <details><summary>होमे त्यागः</summary>
 
-(चन्द्रमस इदं न मम)
++++((चन्द्रमस इदं न मम))+++
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -208,7 +208,7 @@ title = "०७ ब्राह्मण एकहोता"
 
 <details><summary>होमे त्यागः</summary>
 
-(दिव इदं न मम)
++++((दिव इदं न मम))+++
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -234,7 +234,7 @@ title = "०७ ब्राह्मण एकहोता"
 
 <details><summary>होमे त्यागः</summary>
 
-(आदित्यायेदं इदं न मम)
++++((आदित्यायेदं इदं न मम))+++
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -261,7 +261,7 @@ title = "०७ ब्राह्मण एकहोता"
 
 <details><summary>होमे त्यागः</summary>
 
-(प्रजापतय इदं न मम)
++++((प्रजापतय इदं न मम))+++
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

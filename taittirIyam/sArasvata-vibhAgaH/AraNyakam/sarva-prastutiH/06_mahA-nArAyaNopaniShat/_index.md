@@ -1701,11 +1701,6 @@ __________________
 वृ᳓षा पवि᳓त्रे अ᳓धि सा᳓नो +++(=समुच्छ्रिते)+++ अ᳓व्ये  
 बृह᳓त् सो᳓मो वावृधे सुवान᳓ इ᳓न्दुः +++(=अद्रिः इति साम्नि?)+++ ४०
 
-अ꣡क्रा꣢न्त्समु꣣द्रः꣡ प्र꣢थ꣣मे꣡ वि꣢꣫धर्म꣣न्  
-ज꣡न꣢य꣣न्प्र꣡जा भु꣢꣯वनस्य꣣ गो꣢पाः।  
-वृ꣡᳓षा꣢᳓ प꣣᳓वि꣢᳓त्रे꣣᳓ अ꣢᳓धि꣣᳓ सा꣢᳓नो꣣᳓  
-अ꣡᳓व्ये꣢᳓ बृ꣣᳓ह꣡᳓त्सो᳓मो꣢꣯᳓ वा᳓वृ᳓धे᳓ स्वा꣣᳓नो꣡᳓ अ᳓द्रिः꣢꣯᳓ ॥1 ॥
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/097/40_akrAntsamudraH_prathame.md">
@@ -2026,7 +2021,7 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓र् अग्न᳓ये पृथिव्यै᳓ स्वा᳓हा॥    
-(अ᳓ग्न᳓य᳓ इ᳓दं᳓ न᳓ म᳓म᳓)
++++((अग्नय इदं न मम))+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2037,7 +2032,7 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भु᳓वो वाय᳓वे ऽन्त᳓रिक्षाय स्वा᳓हा॥  
-(वा᳓य᳓व᳓ इ᳓दं᳓ न᳓ म᳓म᳓)
++++((वायव इदं न मम))+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2055,7 +2050,7 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓वर् आदित्या᳓य दिवे᳓ स्वा᳓हा॥  
-(आ᳓दि᳓त्या᳓ये᳓दं᳓ न᳓ म᳓म᳓)
+(आदित्यायेदं न मम)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2066,7 +2061,7 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓र् भु᳓वस् सु᳓वश् चन्द्र᳓मसे दिग्भ्य᳓स् स्वा᳓हा॥    
-(च᳓न्द्र᳓म᳓स᳓ इ᳓दं᳓ न᳓ म᳓म᳓)
++++((चन्द्रमस इदं न मम))+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2110,7 +2105,7 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓र᳓न्नमग्न᳓ये पृथिव्यै᳓ स्वा᳓हा॥  
-(अ᳓ग्न᳓ये᳓ पृ᳓थि᳓व्या᳓ इ᳓दं᳓ न᳓ म᳓म᳓)
++++((अग्नये पृथिव्या इदं न मम))+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2121,7 +2116,7 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भु᳓वो᳓ऽन्नव्ँ वाय᳓वेऽन्त᳓रिक्षाय स्वा᳓हा॥  
-(वा᳓य᳓वे᳓ अ᳓न्त᳓रि᳓क्षा᳓ये᳓दं᳓ न᳓ म᳓म᳓)
+(वायवे अन्तरिक्षायेदं न मम)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2132,7 +2127,7 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓वर᳓न्नमादित्या᳓य दिवे᳓ स्वा᳓हा॥  
-(आ᳓दि᳓त्या᳓य᳓ दि᳓व᳓ इ᳓दं᳓ न᳓ म᳓म᳓)
++++((आदित्याय दिव इदं न मम))+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2143,7 +2138,7 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓र्भु᳓वस्सु᳓वर᳓न्नञ्चन्द्र᳓मसे दिग्भ्य᳓स्स्वा᳓हा॥  
-(च᳓न्द्र᳓म᳓से᳓ दि᳓ग्भ्य᳓ इ᳓दं᳓ न᳓ म᳓म᳓)
++++((चन्द्रमसे दिग्भ्य इदं न मम))+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2168,7 +2163,7 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓रग्न᳓ये च पृथिव्यै᳓ च महते᳓ च स्वा᳓हा॥  
-(अ᳓ग्न᳓ये᳓ म᳓ह᳓त᳓ इ᳓दं᳓ न᳓ म᳓म᳓)
++++((अग्नये महत इदं न मम))+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2179,7 +2174,7 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भु᳓वो वाय᳓वे चान्त᳓रिक्षाय च महते᳓ च स्वा᳓हा॥  
-(वा᳓य᳓वे᳓ म᳓ह᳓त᳓ इ᳓दं᳓ न᳓ म᳓म᳓)
++++((वायवे महत इदं न मम))+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2190,7 +2185,7 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓वरादित्या᳓य च दिवे᳓ च महते᳓ च स्वा᳓हा॥  
-(आ᳓दि᳓त्या᳓य᳓ म᳓ह᳓त᳓ इ᳓दं᳓ न᳓ म᳓म᳓)
++++((आदित्याय महत इदं न मम))+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2201,7 +2196,7 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓र्भु᳓वस्सु᳓वश्चन्द्र᳓मसे च न᳓क्षत्रेभ्यश्च दिग्भ्य᳓श्च महते᳓  च स्वा᳓हा॥  
-(च᳓न्द्र᳓म᳓से᳓ म᳓ह᳓त᳓ इ᳓द᳓म्)
+(चन्द्रमसे महत इदम्)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2233,10 +2228,10 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 
 <details><summary>मूलम् (आरण्यक-स्वरेण)</summary>
 
-पाहि नो अग्न एन॑से स्वा॒हा ।  
-पाहि नो विश्ववेद॑से स्वा॒हा ।  
-यज्ञं पाहि विभाव॑सो स्वा॒हा ।  
-सर्वं पाहि शतक्र॑तो स्वा॒हा । (15)
+पाहि᳓ नो᳓ अ᳓ग्न ए᳓नसे स्वा᳓हा ।  
+पाहि᳓ नो᳓ विश्व᳓वेदसे स्वा᳓हा ।  
+यज्ञं᳓ पाहि᳓ वि᳓भा᳓व᳓सो स्वा᳓हा ।  
+स᳓र्वं पाहि᳓ श᳓त᳓क्र᳓तो स्वा᳓हा । (15)
 </details>
 </div>  
 
@@ -4947,7 +4942,7 @@ ________________________
 
 </div>  
 
-सर्वो॒ ह्ये॑ष रु॒द्रस्  
+स᳓र्वो ह्ये᳙ष रुद्र᳓स्  
 तस्मै॑ रु॒द्राय॒ नमो॑ अस्तु । (32)
 
 ###### 18
@@ -5086,7 +5081,7 @@ ________________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/24_agnish_cha/">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓ग्नि᳓श्च᳓ मा᳓ म᳓न्यु᳓श्च᳓ म᳓न्यु᳓प᳓त᳓य᳓श्च᳓ म᳓न्युकृतेभ्यः᳓।  
+अग्निश्च मा मन्युश्च मन्युपतयश्च मन्युकृतेभ्यः।  
 पा᳓पे᳓भ्यो रक्षन्ता᳓म् ।  
 
 य᳓द् अ᳓ह्ना᳓ पा᳓पम् अकार्ष᳓म् ।  
@@ -5095,8 +5090,8 @@ ________________________
 अ᳓हस् त᳓द् अवलुम्प᳓तु᳓ ।
 
 य᳓त्कि᳓ञ् च दुरितं᳓ म᳓यि ।  
-इ᳓द᳓म् अ᳓हं᳓ मा᳓म् अ᳓मृत-योनौ᳓ ।  
-स᳓त्ये᳓ ज्यो᳓ति᳓षि᳓ जु᳓होमि स्वाहा᳓ । 
+इदम् अहं माम् अमृत-योनौ ।  
+सत्ये ज्योतिषि जुहोमि स्वाहा । 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5120,7 +5115,7 @@ ________________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/25_sUryash_cha/">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सू᳓र्य᳓श्च᳓ मा᳓ म᳓न्यु᳓श्च᳓ म᳓न्यु᳓प᳓त᳓य᳓श्च᳓ म᳓न्युकृतेभ्यः᳓।  
+सूर्यश्च मा मन्युश्च मन्युपतयश्च मन्युकृतेभ्यः।  
 पा᳓पे᳓भ्यो रक्षन्ता᳓म् ।  
 
 य᳓द् रा᳓त्रि᳓या᳓ पा᳓पम् अकार्ष᳓म्।  
@@ -5129,8 +5124,8 @@ ________________________
 रा᳓त्रिस् त᳓द् अवलुम्प᳓तु᳓ । 
 
 य᳓त् कि᳓ञ्च दुरितं᳓ म᳓यि ।  
-इ᳓द᳓म् अ᳓हं᳓ मा᳓म् अ᳓मृतयोनौ᳓ ।  
-सू᳓र्ये᳓ ज्यो᳓ति᳓षि᳓ जु᳓होमि स्वाहा᳓ । (40)
+इदम् अहं माम् अमृतयोनौ ।  
+सूर्ये ज्योतिषि जुहोमि स्वाहा । (40)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5193,7 +5188,7 @@ ________________________
 देवा᳓नान् धा᳓म ना᳓मासि।  
 वि᳓श्वम् असि विश्वा᳓युस्,  
 स᳓र्वम् असि सर्वा᳓युः।  
-अभिभू᳓र् [ओ᳓ङ् गा᳓य᳓त्री᳓म् आ᳓वाहयामि । (41)]
+अभिभूर् [ओङ् गायत्रीम् आवाहयामि । (41)]
 </details>
 
 <details><summary>विश्वास-टिप्पनी - यजुः</summary>
@@ -6221,12 +6216,12 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 <details><summary>मूलम् - आन्ध्रपाठः</summary>
 
-- श्र॒द्धायां॑ प्रा॒णे निवि॑श्या॒मृतँ॑ हु॒तम्, प्रा॒णम् अन्ने॑नाप्यायस्व ।
-- अ॒पा॒ने निवि॑श्या॒मृतँ॑ हु॒तम्, अ॑पा॒नम् अन्ने॑नाप्यायस्व ।
-- व्या॒ने निवि॑श्या॒मृतँ॑ हु॒तव्ँ, व्या॒नम् अन्ने॑नाप्यायस्व ।
-- उ॒दा॒ने निवि॑श्या॒मृतँ॑ हु॒तम्, उ॑दा॒नम् अन्ने॑नाप्यायस्व ।
-- स॒मा॒ने निवि॑श्या॒मृतँ॑ हु॒तँ, स॑मा॒नम् अन्ने॑नाप्यायस्व ।
-- ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (51)
+- श्रद्धा᳓यां प्राणे᳓ नि᳓विश्यामृ᳓तँ हुत᳓म्, प्राण᳓म् अ᳓न्नेनाप्यायस्व ।
+- अपाने᳓ नि᳓विश्यामृ᳓तँ हुत᳓म्, अपान᳓म् अ᳓न्नेनाप्यायस्व ।
+- व्याने᳓ नि᳓विश्यामृ᳓तँ हुतव्ँ᳓, व्यान᳓म् अ᳓न्नेनाप्यायस्व ।
+- उदाने᳓ नि᳓विश्यामृ᳓तँ हुत᳓म्, उदान᳓म् अ᳓न्नेनाप्यायस्व ।
+- समाने᳓ नि᳓विश्यामृ᳓तँ हुतँ᳓, समान᳓म् अ᳓न्नेनाप्यायस्व ।
+- ब्र᳓ह्मणि म आत्मा᳓ऽमृतत्वा᳓य । (51)
 </details>
 </div>
 </details>
@@ -6241,9 +6236,9 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/38_anguSThamAtraH.md">
 
-अ᳓ङ्गु᳓ष्ठ᳓मा᳓त्रः᳓ पु᳓रु᳓षो᳓  
+अङ्गुष्ठमात्रः पुरुषो  
 ऽङ्गु᳓ष्ठ᳓ञ्च समाश्रि᳓तः᳓ ।  
-ई᳓श᳓स्स᳓र्व᳓स्य᳓ ज᳓ग᳓तः᳓  
+ईशस्सर्वस्य जगतः  
 प्र᳓भुः᳓ प्री᳓णा᳓ति विश्वभु᳓क् । (53)
 
 </div>
@@ -6291,13 +6286,13 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 क्वचित्तु "भवस्व" इत्यपि दृश्यते - तदयुक्ततमम् भाति।
 
 #### निःश्वासे
-सद्योजातं प्रपद्यामि  
-सद्योजाताय वै नमः ।  
+सद्यो᳓जातं᳓ प्रपद्यामि  
+सद्यो᳓जाता᳓य वै᳓ न᳓मः ।  
 भवेनाति भवे भजस्व  
 मां भवोद्भवाय नमः ।
 
-सद्योजातं प्रपद्यामि  
-सद्योजाताय वै नमः ।  
+सद्यो᳓जातं᳓ प्रपद्यामि  
+सद्यो᳓जाता᳓य वै᳓ न᳓मः ।  
 भवे ऽभवेनादिभवे  
 भजस्व मां भवोद्भवाय नमः ॥
 
@@ -6351,10 +6346,10 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 <details><summary>मूलम् - आन्ध्र-पाठः</summary>
 
-वा॒म॒दे॒वाय॒ नमो॑  
-ज्ये॒ष्ठाय॒ नमः॑  
+वामदेवा᳓य न᳓मो  
+ज्येष्ठा᳓य न᳓मः  
 श्रे॒ष्ठाय॒ नमो॑  
-रु॒द्राय॒ नमः॒  
+रुद्रा᳓य न᳓मः  
 काला॑य॒ नमः॒  
 कल॑विकरणाय॒ नमो॒  
 बल॑विकरणाय॒ नमो॒  
@@ -6447,13 +6442,13 @@ The more common 11, 9, and 8 name variants probably emerged early and existed si
 याज्ञिय्-उपनिषदि द्राविडपाठवत्।
 
 **आन्ध्रपाठे तैत्तिरीयारण्यकस्य**  
-अ॒घोरे॑भ्योऽथ॒ घोरे॑भ्यो॒  
+अघो᳓रेभ्योऽथ घो᳓रेभ्यो  
 घोर॒ घोर॑तरेभ्यः ।  
 सर्वे॑भ्यस् सर्व॒ शर्वे॑भ्यो॒  
 नम॑स्ते अस्तु रु॒द्ररू॑पेभ्यः ॥
 
 **अथर्ववेद-महानारायणोपनिषदि**  
-अघोरेभ्योऽथ घोरेभ्यो  
+अघो᳓रेभ्योऽथ घो᳓रेभ्यो  
 घोर घोरतरेभ्यः ।  
 सर्वतः शर्व सर्वशर्वेभ्यो  
 नमस्ते अस्तु रुद्ररूपेभ्यः ॥
@@ -6471,7 +6466,7 @@ The more common 11, 9, and 8 name variants probably emerged early and existed si
 एवं यामुनाचार्यकृत आगमप्रामाण्ये ऽपि!
 
 **लिङ्गपुराणे**  
-अघोरेभ्योऽथ घोरेभ्यो  
+अघो᳓रेभ्योऽथ घो᳓रेभ्यो  
 घोरघोरतरेभ्यः।  
 शर्वेभ्यः सर्वशर्वेभ्यो  
 नमस्ते अस्तु रुद्ररूपेभ्यः  ॥ २,२६.६ ॥
