@@ -251,6 +251,7 @@ after performing the full moon (sacrifice) they offered this.
 अत्र एतामिष्टिम् इति भट्टभास्करभाष्ये प्रतीकग्रहणं कृतम् । एताम् इत्यस्य वक्ष्यमाणाम् इति अर्थः प्रदर्शितः ।  मूलपाठे ताम् इति वर्तते । अतः ताम् इति प्रतीको वा स्यात् भाष्ये । अथवा आर्षत्वात् मूलस्य ताम् इत्यस्य एतामति व्याख्या इति वा वाच्यम् इति वाच्यमिति भाति ।
 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/3_darsha-pUrNa-mAsAdi/05_Ajya-grahaNam/tato_devA_abhavan.md">
 
 <details open><summary><h5>ततो॑ दे॒वा अभ॑वन् ...{Loading}...</h5></summary>
