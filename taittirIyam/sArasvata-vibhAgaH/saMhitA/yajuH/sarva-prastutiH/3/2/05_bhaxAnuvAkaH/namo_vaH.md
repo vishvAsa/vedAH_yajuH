@@ -1,13 +1,11 @@
 +++
 title = "नमो वः"
-
 +++
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18षद्भिर्नमस्कारैरुपतिष्ठते - नमो व इति ॥ 
 </details>
-
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -16,14 +14,13 @@ title = "नमो वः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ वᳶ पितरो॒ रसा॑य । [पित॑रो॒ नमो॑ वः।],
+न᳓मो वᳶ पितरो र᳓साय । [पि᳓तरो न᳓मो वः।],
 </details>
 
 <details><summary>Keith</summary>
 
 Homage to your taste, O fathers; 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -37,14 +34,13 @@ Homage to your taste, O fathers;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ वᳶ पितर॒श् शुष्मा॑य +++(पित॑रो॒ नमो॑ वः )+++,,
+न᳓मो वᳶ पितरश् शु᳓ष्माय +++(पि᳓तरो न᳓मो वः )+++,,
 </details>
 
 <details><summary>Keith</summary>
 
 homage to your birth, O fathers; 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -58,14 +54,13 @@ homage to your birth, O fathers;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ वᳶ पितरो जी॒वाय । [पित॑रो॒ नमो॑ वः।],
+न᳓मो वᳶ पितरो जीवा᳓य᳓ । [पि᳓तरो न᳓मो वः।],
 </details>
 
 <details><summary>Keith</summary>
 
 homage to your life, O fathers; 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -79,7 +74,7 @@ homage to your life, O fathers;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ वᳶ पि॒त॒र॒स् स्व॒धायै॑ । [पित॑रो॒ नमो॑ वः।],,
+न᳓मो वᳶ पितरस् स्वधा᳓यै । [पि᳓तरो न᳓मो वः।],,
 </details>
 
 <details><summary>Keith</summary>
@@ -99,14 +94,13 @@ homage to your [5] custom, O fathers;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ वᳶ पितरो म॒न्यवे॑ । [पित॑रो॒ नमो॑ वः।],,
+न᳓मो वᳶ पितरो मन्य᳓वे । [पि᳓तरो न᳓मो वः।],,
 </details>
 
 <details><summary>Keith</summary>
 
 homage to your anger, O fathers; 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -120,15 +114,14 @@ homage to your anger, O fathers;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ वᳶ पितरो घो॒राय॑ ,  
-पित॑रो॒ नमो॑ वः ।
+न᳓मो वᳶ पितरो घोरा᳓य ,  
+पि᳓तरो न᳓मो वः ।
 </details>
 
 <details><summary>Keith</summary>
 
 homage to your terrors, O fathers; O fathers, homage to you.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -144,14 +137,13 @@ homage to your terrors, O fathers; O fathers, homage to you.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒तस्मिल्ँ॑ लो॒के स्थ यु॒ष्माँस्तेऽनु॑ ।
+य᳓ एत᳓स्मिल्ँ लोके᳓ स्थ᳓ युष्माँ᳓स्ते᳓ऽनु ।
 </details>
 
 <details><summary>Keith</summary>
 
 Ye that are in that world, may they follow you;
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -165,14 +157,13 @@ Ye that are in that world, may they follow you;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये॑ऽस्मिल्ँ लो॒के मान् तेऽनु॑ ।
+ये᳓ऽस्मिल्ँ लोके᳓ मा᳓न् ते᳓ऽनु ।
 </details>
 
 <details><summary>Keith</summary>
 
 ye that are in this world, may they follow me.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -186,14 +177,13 @@ ye that are in this world, may they follow me.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒तस्मिल्ँ॑ लो॒के स्थ यू॒यन् तेषाव्ँ॒ वसि॑ष्ठा भूयास्त ।
+य᳓ एत᳓स्मिल्ँ लोके᳓ स्थ᳓ यूय᳓न् ते᳓षाव्ँ व᳓सिष्ठा भूयास्त ।
 </details>
 
 <details><summary>Keith</summary>
 
 Ye that are in that world, of them be ye the most fortunate; 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -207,14 +197,13 @@ Ye that are in that world, of them be ye the most fortunate;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये॑ऽस्मिल्ँ लो॒के॑ ऽहन् तेषाव्ँ॒वसि॑ष्ठो भूयासम् ।
+ये᳓ऽस्मिल्ँ लोके᳙ ऽहन् तेषाव्ँव᳓सिष्ठो भूयासम् ।
 </details>
 
 <details><summary>Keith</summary>
 
 ye that are in this world, of these may I be the most fortunate.
 </details>
-
 
 <details><summary>मूलम्</summary>
 

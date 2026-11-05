@@ -5,8 +5,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒रु प्र॑थस्व ।  
-उ॒रु ते॑ य॒ज्ञप॑तिᳶ प्रथताम् ।
+उरु᳓ प्रथस्व ।  
+उरु᳓ ते यज्ञ᳓पतिᳶ प्रथताम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -35,7 +35,6 @@ Be extended wide, let the lord of the sacrifice be extended wide.
 
 उ॒रु । प्र॒थ॒स्व॒ । उ॒रु । ते॒ । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । प्र॒थ॒ता॒म् ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

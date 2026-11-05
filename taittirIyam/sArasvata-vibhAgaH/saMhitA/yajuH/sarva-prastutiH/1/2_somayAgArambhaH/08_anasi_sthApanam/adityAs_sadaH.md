@@ -18,7 +18,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑त्या॒स् सदो॑ऽसि ।
+अ᳓दित्यास् स᳓दोऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -30,11 +30,11 @@ Thou art the seat of Aditi.
 
 अदि॑त्या॒स्सदो॑ऽसि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अदि॑त्याः । सदः॑ । अ॒सि॒ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -47,7 +47,6 @@ Thou art the seat of Aditi.
 </details>
 
 <details><summary>सायण-टीका</summary>
-
 
 आपस्तम्बो द्वितीय-तृतीय-मन्त्राव् एकी-चकार। हे कृष्णाजिन, त्वम् अदित्या भूमेः सदः स्थानम् असि। 
 </details>

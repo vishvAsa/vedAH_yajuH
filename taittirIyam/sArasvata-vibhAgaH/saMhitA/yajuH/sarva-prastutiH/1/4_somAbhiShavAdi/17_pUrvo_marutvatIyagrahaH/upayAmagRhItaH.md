@@ -1,17 +1,17 @@
 +++
 title = "उपयामगृहीतः"
 unicode_script = "devanagari"
-
 +++
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य उपयामगृहीतोसीन्द्राय त्वा मरुत्वत इति गृह्णाति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -34,11 +34,12 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य त्वा म॒रुत्व॑ते ।
+इ᳓न्द्राय त्वा मरु᳓त्वते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -59,7 +60,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒र्, इन्द्रा॑य त्वा म॒रुत्व॑ते ॥ [18]
+एष᳓ ते यो᳓निर्, इ᳓न्द्राय त्वा मरु᳓त्वते ॥ [18]
 </details>
 
 <details><summary>Keith</summary>

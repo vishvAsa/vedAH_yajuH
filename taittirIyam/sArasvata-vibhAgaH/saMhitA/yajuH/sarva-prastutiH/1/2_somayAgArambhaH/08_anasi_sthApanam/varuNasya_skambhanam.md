@@ -5,14 +5,13 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरु॑णस्य॒ +++(सोमस्य च)+++ स्कम्भ॑नम्+++(=धारयिता)+++ असि ।
+व᳓रुणस्य +++(सोमस्य च)+++ स्क᳓म्भनम्+++(=धारयिता)+++ असि ।
 </details>
 
 <details><summary>Keith</summary>
 
 Thou art the pillar of Varuna.
 </details>
-
 
 <details><summary>मूलम्</summary>
 

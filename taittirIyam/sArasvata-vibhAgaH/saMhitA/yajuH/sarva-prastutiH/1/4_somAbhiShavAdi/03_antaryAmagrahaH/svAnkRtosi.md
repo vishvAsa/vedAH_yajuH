@@ -1,12 +1,11 @@
 +++
 title = "स्वाङ्कृतोऽसि"
 unicode_script = "devanagari"
-
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाङ्-कृ॑तोऽसि।
+स्वा᳓ङ्-कृतोऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -32,7 +31,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॑मतीर् न॒ इष॑स् कृधि ।
+म᳓धुमतीर् न इ᳓षस् कृधि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -58,7 +57,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वे॑भ्यस् त्वेन्द्रि॒येभ्यो॑ दि॒व्येभ्य॒ᳶ पार्थि॑वेभ्यः ।
+वि᳓श्वेभ्यस् त्वेन्द्रिये᳓भ्यो दिव्ये᳓भ्यᳶ पा᳓र्थिवेभ्यः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -86,7 +85,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मन॑स् त्वा ऽष्टु+++(←अश्)+++।
+म᳓नस् त्वा ऽष्टु+++(←अश्)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -113,8 +112,9 @@ _______
 8आहवनीयं प्रति गच्छति - उर्विति ॥ व्याख्यातम् । 'अन्तरिक्षदेवत्यो हि प्राणः' इत्यादि ब्राह्मणम्  ॥
 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
-<details open><summary><h5>उर्वन्तरिक्षम् ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव ।
@@ -151,7 +151,16 @@ Fare along the wide atmosphere.
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव । 
 हे वपे उत्खेदनविबाधिते अधुना महान्तमन्तरिक्षाख्यं पन्थानं अनुगच्छेति विशेषः । 'क्रूरमिव वा एतत्करोति यद्वपामुत्खिदति' इत्यादि ब्राह्मणम् ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+उत्थापनम् आरभ्य पुनर् भूमौ स्थापन-पर्यन्तं सोमो ऽन्तरिक्षाधार इत्य् अभिप्रायं दर्शयति —
+
+> 'उर्व् अन्तरिक्षम् अन्व् इहीत्य्' आहान्तरिक्ष-देवत्यो ह्य् एतर्हि सोमः (सं. का. ६ प्र. १ अ. ११)  
+
+इति।
 </details>
+
 </div>  
 
 _______
@@ -162,7 +171,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा॑ त्वा सुभव॒स्! सूर्या॑य
+स्वा᳓हा त्वा सुभवस्! सू᳓र्याय
 </details>
 
 <details><summary>Keith</summary>
@@ -188,7 +197,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वेभ्य॑स् त्वा मरीचि॒पेभ्यः॑।
+देवे᳓भ्यस् त्वा मरीचिपे᳓भ्यः।
 </details>
 
 <details><summary>Keith</summary>
@@ -214,7 +223,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनिः॑ ।
+एष᳓ ते यो᳓निः ।
 </details>
 
 <details><summary>Keith</summary>

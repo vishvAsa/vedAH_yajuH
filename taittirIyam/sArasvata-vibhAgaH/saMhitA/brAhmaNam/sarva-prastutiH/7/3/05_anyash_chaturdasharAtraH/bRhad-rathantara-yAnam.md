@@ -1,7 +1,6 @@
 +++
 title = "बृहद्-रथन्तर-यानम्"
 unicode_script = "devanagari"
-
 +++
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -10,10 +9,9 @@ unicode_script = "devanagari"
 य॒न्त्यथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्त्ये॒ते वै य॒ज्ञस्या॑ञ्ज॒साय॑नी स्रु॒ती ताभ्या॑मे॒व सु॑व॒र्गल्ँ लो॒कय्ँय॑न्ति
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(दिवसेषु एकान्तराभ्यां)+++ बृहद्रथन्त॒राभ्याय्ँ॑ यन्ति ।
++++(दिवसेषु एकान्तराभ्यां)+++ बृ᳓ह᳓द्र᳓थ᳓न्तरा᳓भ्याय्ँ यन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -28,8 +26,8 @@ They proceed with the Brhat and the Rathantara (Samans).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ वाव र॑थन्त॒रम्, अ॒सौ बृ॒हत् +++(चास्ति)+++।
-आ॒भ्यामे॒व य॒न्ति +++(प्रथमदिनयोः)+++ ।
+इयव्ँ᳓ वा᳓व᳓ रथन्तर᳓म्, असौ᳓ बृह᳓त् +++(चास्ति)+++।
+आभ्या᳓मेव᳓ यन्ति᳓ +++(प्रथमदिनयोः)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -45,7 +43,7 @@ The Rathantara is this (earth), the Brhat yonder (sky); verily with them do they
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्ति ।  
+अ᳓थो अन᳓योरेव᳓ प्र᳓ति तिष्ठन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -60,8 +58,8 @@ verily also in them they find support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ते वै य॒ज्ञस्या॑ञ्ज॒साय॑नी स्रु॒ती+++(=मार्गौ)+++ ।  
-ताभ्या॑म् ए॒व सु॑व॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
+एते᳓ वै᳓ यज्ञ᳓स्याञ्जसा᳓यनी स्रुती᳓+++(=मार्गौ)+++ ।  
+ता᳓भ्याम् एव᳓ सुवर्गल्ँ᳓ लोकय्ँ᳓ यन्ति ।
 </details>
 
 <details><summary>Keith</summary>

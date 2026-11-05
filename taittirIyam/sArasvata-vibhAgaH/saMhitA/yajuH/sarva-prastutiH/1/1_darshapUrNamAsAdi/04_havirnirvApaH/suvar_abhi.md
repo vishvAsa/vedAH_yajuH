@@ -5,7 +5,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुव॑र् अ॒भि वि ख्ये॑षव्ँ+++(=अपश्यं)+++ वैश्वान॒रञ् ज्योतिः॑ ।
+सु᳓वर् अभि᳓ वि᳓ ख्येषव्ँ+++(=अपश्यं)+++ वैश्वानर᳓ञ् ज्यो᳓तिः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -13,7 +13,6 @@ unicode_script = "devanagari"
 May I behold the light, the radiance for all men.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 

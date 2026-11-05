@@ -6,12 +6,11 @@ title = "दे॒वकृ॑त॒स्यैन॑सोऽव॒यज॑�
 20-22शकलैश् चरन्ति - देवकृतस्येति ॥
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वकृ॑त॒स्यैन॑सो **ऽव॒यज॑नम् असि** ।  
-म॒नु॒ष्य॑कृतस्यैन॑सोऽव॒यज॑नमसि ।  
-पि॒तृकृ॑त॒स्यैन॑सोऽव॒यज॑नमसि ।
+देव᳓कृतस्यै᳓नसो **ऽवय᳓जनम् असि** ।  
+मनुष्य᳙कृ᳓त᳓स्यै᳓नसोऽवय᳓जनमसि ।  
+पितृ᳓कृतस्यै᳓नसोऽवय᳓जनमसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -19,7 +18,6 @@ title = "दे॒वकृ॑त॒स्यैन॑सोऽव॒यज॑�
 Thou art the expiation of sin committed by the gods, thou art the expiation of sin committed by men, thou art the expiation of sin committed by the fathers.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -32,4 +30,3 @@ Thou art the expiation of sin committed by the gods, thou art the expiation of s
 
 देवादिविषये यदस्माभिः कृतमेनः अधर्मः तस्यावयजनं नाशनं असि । 'क्षेपे' इति सप्तम्यास्समासः, सप्तमीपूर्वपदप्रकृतिस्वरत्वम् । यद्वा - देवादिभिरस्मद्विषये, यत्कृतमेनःफलं दुखं तस्यावयजनमसि । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्ववम् । एतेनोभे व्याख्याते ॥
 </details>
-

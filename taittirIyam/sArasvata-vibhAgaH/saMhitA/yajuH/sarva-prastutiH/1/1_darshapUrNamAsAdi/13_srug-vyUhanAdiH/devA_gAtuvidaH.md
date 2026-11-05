@@ -5,8 +5,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवा॑ गातुविदो+++(=गतिज्ञाः)+++ गा॒तुव्ँ+++(=मार्गं)+++ वि॒त्वा+++(=लब्ध्वा)+++ **गा॒तुम् इ॑त** +++(=गच्छत)+++।
-मन॑सस्पत इ॒मन् नो॑ देव दे॒वेषु॑ य॒ज्ञं  +++(धाः)+++ स्वाहा॑।
+दे᳓वा गातुविदो+++(=गतिज्ञाः)+++ गातुव्ँ᳓+++(=मार्गं)+++ वित्वा᳓+++(=लब्ध्वा)+++ **गातु᳓म् इत** +++(=गच्छत)+++।
+म᳓नसस्पत इम᳓न् नो देव देवे᳓षु यज्ञं᳓  +++(धाः)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -20,7 +20,6 @@ O lord of mind, this sacrifice for us (place) among the gods, O god, hail!
 देवा॑ गातुविदो गा॒तुव्ँ वि॒त्वा गा॒तुमि॑त॒ मन॑सस्पत इ॒मन्नो॑ देव दे॒वेषु॑ य॒ज्ञँ स्वाहा॑ वा॒चि स्वाहा॒ वाते॑ धाः ॥ [24]
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 देवा॑ गातुविदो गा॒तुव्ँ वि॒त्वा गा॒तुमि॑त ।
@@ -32,7 +31,6 @@ O lord of mind, this sacrifice for us (place) among the gods, O god, hail!
 
 देवाः॑ । गा॒तु॒वि॒द॒ इति॑ गातु-वि॒दः॒ । गा॒तुम् । वि॒त्त्वा । गा॒तुम् । इ॒त॒ । 8V । मन॑सः । प॒ते॒ । इ॒मम् । नः॒ । दे॒व॒ । दे॒वेषु॑ । य॒ज्ञम् । स्वाहा॑ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -48,24 +46,20 @@ ___________
 
 </details>
 
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वा॒चि स्वाहा॒ वाते॑ धाः
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(य॒ज्ञं)+++ वा॒चि +++(धाः)+++ स्वाहा॑  ।
++++(यज्ञं᳓)+++ वाचि᳓ +++(धाः)+++ स्वा᳓हा  ।
 </details>
 
 <details><summary>Keith</summary>
 
 In speech, hail!
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -84,10 +78,9 @@ In speech, hail!
 वाचि धा इति सरस्वत्याह ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाते॑ धाः ॥ [24]
+वा᳓ते धाः ॥ [24]
 </details>
 
 <details><summary>Keith</summary>
@@ -104,7 +97,6 @@ in/or the wind, hail!
 
 वाते॑ । धाः॒ ॥
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

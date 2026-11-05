@@ -1,18 +1,18 @@
 +++
 title = "उपयामगृहीतः"
 unicode_script = "devanagari"
-
 +++
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य 'उपयामगृहीतोसि विश्वेभ्यस्त्वा देवेभ्यः' इति गृह्णाति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -35,11 +35,12 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑]
+[वि᳓श्वेभ्यस्त्वा देवे᳓भ्यः]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -65,9 +66,9 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒ग्र॒य॒णो॑ऽसि ।  
-स्वा॑ग्रयणो॒ जिन्व॑ ।    
-य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम्  +++(जिन्व)+++ ।
+आग्रयणो᳙ऽसि ।  
+स्वा᳓ग्रयणो जि᳓न्व ।    
+यज्ञ᳓ञ्जि᳓न्व यज्ञ᳓पतिम्  +++(जिन्व)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -94,9 +95,9 @@ quicken the lord of the sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भि सव॑ना पाहि ।  
-विष्णु॒स् त्वाम् पा॑तु ।  
-विश॒न् त्वम् पा॑हीन्द्रि॒येण॑।
+अभि᳓ स᳓वना पाहि ।  
+वि᳓ष्णुस् त्वा᳓म् पातु ।  
+वि᳓शन् त्व᳓म् पाहीन्द्रिये᳓ण।
 </details>
 
 <details><summary>Keith</summary>
@@ -130,7 +131,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒र्, विश्वे॑भ्यस् त्वा दे॒वेभ्यः॑ ॥ [11]
+एष᳓ ते यो᳓निर्, वि᳓श्वेभ्यस् त्वा देवे᳓भ्यः ॥ [11]
 </details>
 
 <details><summary>Keith</summary>

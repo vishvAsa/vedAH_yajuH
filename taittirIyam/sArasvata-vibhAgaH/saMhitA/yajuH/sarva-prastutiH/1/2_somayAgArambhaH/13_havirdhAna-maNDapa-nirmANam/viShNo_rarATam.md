@@ -17,9 +17,8 @@ title = "विष्णो॑ र॒राट॑म्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॑ र॒राट॑म्+++(=ललाटम्)+++ असि ।
+वि᳓ष्णो ररा᳓टम्+++(=ललाटम्)+++ असि ।
 </details>
-
 
 <details><summary>Keith</summary>
 
@@ -69,7 +68,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णोः॑ पृ॒ष्ठम् अ॑सि ।
+वि᳓ष्णोः पृष्ठ᳓म् असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -77,21 +76,21 @@ ________
 Thou art the back of Visnu.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 विष्णोः॑ पृ॒ष्ठम॑सि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 विष्णोः॑ । पृ॒ष्ठम् । अ॒सि॒ । 
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 11मध्यमं छदिरधिनिदधाति - विष्णोरिति ॥ विष्णोः पृष्ठं पृष्ठसदृशमसि ॥
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 एका रराटी, एकं छदिः, द्वौ रराट्यन्ताव् इति यावन्तो मण्डपस्य प्रकारा एतावद् धैतावत्-प्रकारं शिरो विश्व-कर्मणा विशेषेण स्यूतं, शिरस्य् आच्छादिका त्वम् एव च्छदिः स्थापनीया।
@@ -117,7 +116,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒श् श्नप्त्रे॑+++(=मुखकोणौ)+++ स्थः ।
+वि᳓ष्णोश् श्न᳓प्त्रे+++(=मुखकोणौ)+++ स्थः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -140,7 +139,6 @@ Ye two are the corners' of Visnu's mouth.
 12पार्श्वयोच्छदिषी निदधाति - विष्णोः श्नप्त्रे स्थ इति ॥ श्नप्त्रे शोधके स्थः । सकारस्य शकारापत्तिः । स्नपतिश्छान्दसश्शुद्धिकर्मा, औणादिकष्ट्रन्प्रत्ययः । स्नातेर्वा णिचि पुगादिः ॥
 </details>
 
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -148,7 +146,6 @@ ________
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
-
 
 विष्णोरिति। कल्पः —  
 
@@ -159,14 +156,13 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒स् स्यूर्+++(=सूची)+++ अ॑सि ।
+वि᳓ष्णोस् स्यू᳓र्+++(=सूची)+++ असि ।
 </details>
 
 <details><summary>Keith</summary>
 
 Thou art the thread of Visnu.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -196,7 +192,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॑र् ध्रु॒वम् अ॑सि ।
+वि᳓ष्णोर् ध्रुव᳓म् असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -208,11 +204,11 @@ Thou art the fixed point of Visnu.
 
 विष्णो॑र्ध्रु॒वम॑सि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 विष्णोः॑ । ध्रु॒वम् । अ॒सि॒ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -231,7 +227,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वै॒ष्ण॒वम् अ॑सि। विष्ण॑वे त्वा +++(अभिमृशामि)+++॥ [27]
+वैष्णव᳓म् असि। वि᳓ष्णवे त्वा +++(अभिमृशामि)+++॥ [27]
 </details>
 
 <details><summary>Keith</summary>
@@ -244,11 +240,11 @@ Thou art of Vishu; to Visnu thee!
 
 वै॒ष्ण॒वम॑सि, विष्ण॑वे त्वा  +++(अभिमृशामि)+++  ॥ [27]
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 वै॒ष्ण॒वम् । अ॒सि॒ । विष्ण॑वे । त्वा॒ ॥ [27] 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -4,14 +4,13 @@ title = "प्रजापतये त्वा"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तये त्वा॒ जुष्ट॑ङ्गृह्णामि ।
+प्रजा᳓पतये त्वा जु᳓ष्टङ्गृह्णामि ।
 </details>
 
 <details><summary>Keith</summary>
 
 agreeable to Prajapati I take thee  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -27,7 +26,6 @@ _________________
 
 </details>
 
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अनेन गृहीत्वा परिमृज्य सादयति - एष ते योनिः प्रजापतये त्वेत्यादि ॥ 
@@ -35,14 +33,13 @@ _________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॑ᳶ प्र॒जाप॑तये त्वा ॥ [46]
+एष᳓ ते यो᳓निᳶ प्रजा᳓पतये त्वा ॥ [46]
 </details>
 
 <details><summary>Keith</summary>
 
 this is thy birthplace; to Prajapati thee!
 </details>
-
 
 <details><summary>मूलम्</summary>
 

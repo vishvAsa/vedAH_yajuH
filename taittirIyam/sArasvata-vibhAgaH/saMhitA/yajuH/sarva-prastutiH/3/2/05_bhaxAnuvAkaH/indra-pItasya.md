@@ -4,16 +4,15 @@ title = "इन्द्र॑-पीतस्य॒"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑-पीतस्य॒ नरा॒शँस॑-पीतस्य पि॒तृ-पी॑तस्य॒  
-मधु॑मत॒  
-**उप॑हूत॒स्योप॑हूतो भक्षयामि** ।  
+इ᳓न्द्र-पीतस्य न᳓राशँ᳓स-पीतस्य पितृ᳓-पीतस्य  
+म᳓धुमत  
+**उ᳓पहूतस्यो᳓पहूतो भक्षयामि** ।  
 </details>
 
 <details><summary>Keith</summary>
 
 who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the fathers, who hast sweetness, and who art invited, I invited eat.
 </details>
-
 
 <details><summary>मूलम्</summary>
 

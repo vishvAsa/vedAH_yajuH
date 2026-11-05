@@ -20,7 +20,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑त्या॒स् सद॒ आसीद ।
+अ᳓दित्यास् स᳓द आ᳓सी᳓द᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -44,7 +44,6 @@ Sit on the seat of Aditi.
 </details>
 
 7कृष्णाजिने राजानमासादयति - अदित्या इति ॥ अदित्यास्सदोभूतमेतत्कृष्णाजिनं हे सोम आसीद अधितिष्ठ । प्रागेव व्याख्यातमिदं मन्त्रद्वयम् ॥
-</details>
 
 <details><summary>सायण-टीका</summary>
 

@@ -1,7 +1,6 @@
 +++
 title = "उपयामगृहीतः"
 unicode_script = "devanagari"
-
 +++
 
 _______
@@ -9,11 +8,12 @@ _______
 
 इमामनुद्रुत्योपयामगृहीतोसि महेन्द्राय त्वेति गृह्णाति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -36,11 +36,12 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-महे॒न्द्राय॑ त्वा ।
+म᳓हेन्द्रा᳓य त्वा ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -62,7 +63,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॑र्, महे॒न्द्राय॑ त्वा ॥ [21]
+एष᳓ ते यो᳓निर्, महेन्द्रा᳓य त्वा ॥ [21]
 </details>
 
 <details><summary>Keith</summary>

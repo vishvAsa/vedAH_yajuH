@@ -10,15 +10,15 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒दम् अ॒हन् तव्ँ **व॑ल॒गम् उद्व॑पामि॒**  
-यन् न॑स् समा॒नो  
-यम् अस॑मानो निच॒खान॑।
+इद᳓म् अह᳓न् तव्ँ᳓ **वलग᳓म् उ᳓द्वपामि**  
+य᳓न् नस् समानो᳓  
+य᳓म् अ᳓समानो निचखा᳓न।
 </details>
+
 <details><summary>Keith</summary>
 
 Here do I cast out the spell which an equal or an unequal hath buried against us.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -39,11 +39,12 @@ Here do I cast out the spell which an equal or an unequal hath buried against us
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒दमे॑न॒म् **अध॑रङ् करोमि॒**  
-यो न॑स् समा॒नो  
-योऽस॑मानो ऽराती॒यति॑  
+इद᳓मेनम् **अ᳓धरङ् करोमि**  
+यो᳓ नस् समानो᳓  
+यो᳓ऽसमानो ऽरातीय᳓ति  
 …
 </details>
+
 <details><summary>Keith</summary>
 
 Here do I overthrow him who equal or unequal is ill-disposed to us.

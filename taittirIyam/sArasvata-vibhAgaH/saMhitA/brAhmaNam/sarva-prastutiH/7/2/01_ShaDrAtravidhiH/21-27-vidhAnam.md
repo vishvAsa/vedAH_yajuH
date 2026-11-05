@@ -5,7 +5,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒क॒विँ॒शो +++(वैराजसामा षोडशी यागः)+++ भ॑वति॒ प्रति॑ष्ठित्यै । अथो॒ रुच॑म् ए॒वात्मन् द॑धते ।
+एकविँशो᳓ +++(वैराजसामा षोडशी यागः)+++ भवति प्र᳓तिष्ठित्यै । अ᳓थो रु᳓चम् एवा᳓त्म᳓न् दधते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -15,12 +15,10 @@ There is an Ekavinśa (Stoma), for support; verily also they place radiance in t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रि॒ण॒वो +++(शाक्वरसामा उक्थ्यः)+++ भ॑वति॒, विजि॑त्यै ।
+त्रिणवो᳓ +++(शाक्वरसामा उक्थ्यः)+++ भवति, वि᳓जित्यै ।
 </details>
 
 <details><summary>Keith</summary>
 
 There is a Trinava (Stoma), for conquest.
 </details>
-
- 

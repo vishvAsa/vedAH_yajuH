@@ -2,20 +2,28 @@
 title = "राष्ट्रदाः अमुष्मै"
 +++
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h5>आपो देवीर् मधुमतीः ...{Loading}...</h5></summary>
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
 
-आपो दे॒वीर् मधु॑मतीर् **अगृह्ण॒न्न्**  
-ऊर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।    
-याभि॑र् मि॒त्रा-वरु॑णाव् **अ॒भ्यषि॑ञ्च॒न्** +++(देवाः)+++,  
-याभि॒र् इन्द्र॒म् **अन॑य॒न्न्** अत्य् अरा॑तीः  ॥
-</details>
 </div>
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
-<details open><summary><h5>आपो देवीर् मधुमतीः ...{Loading}...</h5></summary>
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
 <details><summary>Keith</summary>
 
 They have taken the waters, divine,  
@@ -31,7 +39,7 @@ Whereby they led Indra beyond his foes.
 चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
 याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
 </details>
-</details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

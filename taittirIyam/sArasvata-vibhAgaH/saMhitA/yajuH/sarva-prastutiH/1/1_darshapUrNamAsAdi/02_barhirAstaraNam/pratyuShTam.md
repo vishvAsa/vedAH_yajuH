@@ -5,9 +5,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
+प्र᳓त्युष्टँ र᳓क्षᳶ, प्र᳓त्युष्टा अ᳓रातयः+++(=अदातारः)+++।
 </details>
-
 
 <details><summary>Keith</summary>
 
@@ -15,13 +14,10 @@ The Raksas is burned up, the evil spirits are burned up.
 
 </details>
 
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तयः
 </details>
-
-
 
 <details><summary>मूलम्</summary>
 
@@ -33,7 +29,6 @@ The Raksas is burned up, the evil spirits are burned up.
 
 प्रत्यु॑ष्ट॒मिति॒ प्रति॑-उ॒ष्ट॒म् । रक्षः॑ । प्रत्यु॑ष्टा॒ इति॒ प्रति॑-उ॒ष्टाः॒ । अरा॑तयः ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

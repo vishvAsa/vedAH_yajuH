@@ -21,7 +21,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒पि॒प्प॒लाभ्य॑स्+++(=सुफलेभ्यः)+++ त्वौष॑धीभ्यः +++(कण्डूये)+++।+++(र४)+++
+सुपिप्पला᳓भ्यस्+++(=सुफलेभ्यः)+++ त्वौ᳓षधीभ्यः +++(कण्डूये)+++।+++(र४)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -29,14 +29,12 @@ unicode_script = "devanagari"
 For the plants with good berries thee!
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सु॒पि॒प्प॒लाभ्य॑स्त्वौष॑धीभ्यः ।
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 <details><summary>पद-पाठः</summary>
 
 सु॒पि॒प्प॒लाभ्य॒ इति॑ सु-पि॒प्प॒लाभ्यः॑ । त्वा॒ । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ ।  

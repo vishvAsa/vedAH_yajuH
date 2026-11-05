@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 +++
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योति॒र् गौर् आयु॒र् इति॑ त्र्य॒हो भ॑वति ।
+ज्यो᳓तिर् गौ᳓र् आ᳓युर् इ᳓ति त्र्यहो᳓ भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -14,7 +14,7 @@ The three days are the Jyotis, Go, and Ayus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ वाव ज्योति॑र्, अ॒न्तरि॑क्ष॒ङ् गौर्, अ॒साव् आयुः॑ ।
+इयव्ँ᳓ वा᳓व᳓ ज्यो᳓तिर्, अन्त᳓रिक्षङ् गौ᳓र्, असा᳓व् आ᳓युः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -28,4 +28,3 @@ The Jyotis is this (earth), the Go the atmosphere, the Ayus yonder (sky); verily
 गौः - खलु पञ्चदशो बहिष्पवमानः, त्रिवृन्त्य् आज्यानि, सप्तदशं माध्यन्दिनं सवनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २४१-स्तोत्रिया। क्थम्??  
 आयुः - त्रिवृत् बहिष्पवमानं, पञ्चदशाज्यानि, सर्वसप्तदशं माध्यन्दिनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २५९-स्तोत्रियम्। कथम्??
 </details>
-

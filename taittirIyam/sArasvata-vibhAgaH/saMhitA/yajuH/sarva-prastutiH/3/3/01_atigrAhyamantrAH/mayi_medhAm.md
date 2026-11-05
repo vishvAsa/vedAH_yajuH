@@ -1,7 +1,7 @@
 +++
 title = "मयि मेधाम्"
 +++
- 
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मय्य॒ग्निस्तेजो॑ दधातु॒ मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयीन्द्र॑ इन्द्रि॒यन्द॑धातु॒ मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयि॒ सूर्यो॒ भ्राजो॑ दधातु ॥ [2]  
@@ -9,8 +9,8 @@ title = "मयि मेधाम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मयि॑ मे॒धाम् मयि॑ प्र॒जाम्,  
-मय्य् अ॒ग्निस् तेजो॑ दधातु ।  
+म᳓यि मेधा᳓म् म᳓यि प्रजा᳓म्,  
+म᳓य्य् अग्नि᳓स् ते᳓जो दधातु ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -18,12 +18,10 @@ title = "मयि मेधाम्"
 On me wisdom, on me offspring, on me brilliance may Agni bestow;  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मय्य॒ग्निस्तेजो॑ दधातु ।  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -32,11 +30,10 @@ On me wisdom, on me offspring, on me brilliance may Agni bestow;
 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मयि॑ मे॒धाम् मयि॑ प्र॒जाम्,  
-मयीन्द्र॑ इन्द्रि॒यन् द॑धातु ।  
+म᳓यि मेधा᳓म् म᳓यि प्रजा᳓म्,  
+म᳓यी᳓न्द्र इन्द्रिय᳓न् दधातु ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -58,11 +55,10 @@ on me wisdom, on me offspring, on me power may Indra bestow;
 इति तृतीये तृतीये प्रथमोनुवाकः ॥  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मयि॑ मे॒धाम् मयि॑ प्र॒जाम्,  
-मयि॒ सूर्यो॒ भ्राजो॑ दधातु  ॥ [2]  
+म᳓यि मेधा᳓म् म᳓यि प्रजा᳓म्,  
+म᳓यि सू᳓र्यो भ्रा᳓जो दधातु  ॥ [2]  
 </details>
 
 <details><summary>Keith</summary>
@@ -70,9 +66,7 @@ on me wisdom, on me offspring, on me power may Indra bestow;
 on me wisdom, on me offspring, on me blazing may Surya bestow.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयि॒ सूर्यो॒ भ्राजो॑ दधातु  ॥ [2]  
 </details>
-

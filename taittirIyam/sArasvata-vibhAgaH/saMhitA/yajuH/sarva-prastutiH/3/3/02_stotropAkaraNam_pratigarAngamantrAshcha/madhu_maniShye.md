@@ -3,17 +3,16 @@ title = "मधु॑ मनिष्ये"
 +++
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॑ **मनिष्ये** ।  
-मधु॑ **जनिष्ये** ।  
-मधु॑ **वक्ष्यामि** ।  
-मधु॑ **वदिष्यामि** ।
+म᳓धु **मनिष्ये** ।  
+म᳓धु **जनिष्ये** ।  
+म᳓धु **वक्ष्यामि** ।  
+म᳓धु **वदिष्यामि** ।
 </details>
 
 <details><summary>Keith</summary>
 
 Of honey shall I think, honey shall I produce, honey shall I proclaim, honey shall I speak,
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -30,15 +29,14 @@ Of honey shall I think, honey shall I produce, honey shall I proclaim, honey sha
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॑मतीन् दे॒वेभ्यो॒ वाच॑म् **उद्यासँ**
-शुश्रू॒षेण्या॑म् मनु॒ष्ये॑भ्यः
+म᳓धुमतीन् देवे᳓भ्यो वा᳓चम् **उद्यासँ**
+शुश्रूषे᳓ण्याम् मनुष्ये᳙भ्यः
 </details>
 
 <details><summary>Keith</summary>
 
 may I utter speech full of honey for the gods, and acceptable to men.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -55,16 +53,14 @@ may I utter speech full of honey for the gods, and acceptable to men.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम् मा॑ दे॒वा **अ॑वन्तु** शो॒भायै॑ ।
-पि॒तरो **ऽनु॑ मदन्तु** ॥
+त᳓म् मा देवा᳓ **अवन्तु** शोभा᳓यै ।
+पित᳓रो᳓ **ऽनु मदन्तु** ॥
 </details>
 
 <details><summary>Keith</summary>
 
 May the gods aid me to radiance, may the Pitrs rejoice in me.
 </details>
-
-
 
 <details><summary>मूलम्</summary>
 
@@ -76,7 +72,5 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 
 तं मामेवंगुणं देवा अवन्तु रक्षन्तु शोभायै यथा मया कृतं शोभते तथा अनुमदन्तु अनुमोदन्तां, उत्कृष्टत्वेन समीचीनं करोतीति शोभार्थं पितरश्च अनुमोदन्तु । माद्यतेर्व्यत्ययेन शप् ॥
 
-
 इति तृतीये तृतीये द्वितीयोनुवाकः ॥
 </details>
-

@@ -1,24 +1,27 @@
 +++
 title = "अक्षितोऽसि"
-
 +++
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अक्षि॑तो॒ऽस्यक्षि॑त्यै त्वा॒ मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अक्षि॑तोऽसि ।
+अ᳓क्षितोऽसि ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art imperishable,
 </details>
+
 <details><summary>मूलम्</summary>
 
 अक्षि॑तोऽसि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अक्षि॑तः । अ॒सि॒ ।  
@@ -28,18 +31,22 @@ Thou art imperishable,
 
 अक्षितः अक्षीणोसि ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अक्षि॑त्यै त्वा +++(ददामि)+++।
+अ᳓क्षित्यै त्वा +++(ददामि)+++।
 </details>
+
 <details><summary>Keith</summary>
 
 for imperishableness thee;
 </details>
+
 <details><summary>मूलम्</summary>
 
 अक्षि॑त्यै त्वा ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अक्षि॑त्यै । त्वा॒ ।  
@@ -49,18 +56,22 @@ for imperishableness thee;
 
 अक्षित्यै इह चामुत्र चाक्षयाय त्वां ददामीति सामर्थ्यात् ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मिल्ँ॑ लो॒के  ॥  [10]
+मा᳓ मे क्षेष्ठा अमु᳓त्रामु᳓ष्मिल्ँ लोके᳓  ॥  [10]
 </details>
+
 <details><summary>Keith</summary>
 
 mayst thou not perish for me, yonder, in yonder world.
 </details>
+
 <details><summary>मूलम्</summary>
 
 मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥  [10]
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 मा । मे॒ । क्षे॒ष्ठाः॒ । अ॒मुत्र॑ । अ॒मुष्मि॑न् । लो॒के ॥ 

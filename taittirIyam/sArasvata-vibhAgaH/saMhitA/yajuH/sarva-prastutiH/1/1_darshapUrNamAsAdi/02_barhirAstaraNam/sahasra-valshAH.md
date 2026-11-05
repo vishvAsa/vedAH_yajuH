@@ -5,14 +5,13 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒हस्र॑-वल्शाः॒+++(=प्ररोहाः)+++ वि व॒यँ रु॑हेम ।
+सह᳓स्र-वल्शाः+++(=प्ररोहाः)+++ वि᳓ वयँ᳓ रुहेम ।
 </details>
 
 <details><summary>Keith</summary>
 
 Let us rise with a thousand shoots.
 </details>
-
 
 <details><summary>मूलम्</summary>
 

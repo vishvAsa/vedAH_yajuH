@@ -7,10 +7,9 @@ unicode_script = "devanagari"
 ज्योति॑ष्मतीन्त्वा सादयामि ज्योति॒ष्कृत॑न्त्वा सादयामि ज्योति॒र्विद॑न्त्वा सादयामि॒ भास्व॑तीन्त्वा सादयामि॒ ज्वल॑न्तीन्त्वा सादयामि मल्मला॒भव॑न्तीन्त्वा सादयामि॒ दीप्य॑मानान्त्वा सादयामि॒ रोच॑मानान्त्वा सादया॒म्यज॑स्रान्त्वा सादयामि बृ॒हज्ज्यो॑तिषन्त्वा सादयामि बो॒धय॑न्तीन्त्वा सादयामि॒ जाग्र॑तीन्त्वा सादयामि ॥ [35]
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योति॑ष्मतीन्त्वा सादयामि ।
+ज्यो᳓तिष्मतीन्त्वा सादयामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -18,24 +17,19 @@ unicode_script = "devanagari"
 I place thee that hast light.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ज्योति॑ष्मतीन्त्वा सादयामि ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आत्मज्योतिषो वृत्तिभेदाः ते इष्टकावेन स्तूयन्ते - ज्योतिष्मती प्रशस्तज्योतिः ।
 </details>
 
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्यो॒ति॒ष्कृत॑न्त्वा सादयामि ।
+ज्योतिष्कृ᳓तन्त्वा सादयामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -48,17 +42,14 @@ I place thee that makest light.
 ज्यो॒ति॒ष्कृत॑न्त्वा सादयामि ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ज्योतिष्कृत् ज्योतिरन्तरस्य कर्त्रीं ज्योतिषां लम्भयित्री ।
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्यो॒ति॒र्विद॑न्त्वा सादयामि ।
+ज्योतिर्वि᳓दन्त्वा सादयामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -66,23 +57,19 @@ I place thee that makest light.
 I place thee that findest light.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ज्यो॒ति॒र्विद॑न्त्वा सादयामि ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ज्योतिषां लम्भयित्री ।
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भास्व॑तीन्त्वा सादयामि ।
+भा᳓स्वतीन्त्वा सादयामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -90,23 +77,19 @@ I place thee that findest light.
 I place thee that shinest.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 भास्व॑तीन्त्वा सादयामि ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 भास्वती बहुप्रकाशा ।
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्वल॑न्तीन्त्वा सादयामि ।
+ज्व᳓लन्तीन्त्वा सादयामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -119,18 +102,14 @@ I place thee that burnest.
 ज्वल॑न्तीन्त्वा सादयामि ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ज्वलन्ती अविच्छिन्नप्रकाशा ।
 </details>
 
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒ल्मला॒भव॑न्तीन्त्वा सादयामि ।
+मल्म᳓लाभ᳓वन्तीन्त्वा सादयामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -143,18 +122,16 @@ I place thee that flashest.
 म॒ल्मला॒भव॑न्तीन्त्वा सादयामि ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मल्मलाभवन्ती महाघोषवती । 'अव्यक्तानुकरणात्' इति डाच् ।
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दीप्य॑मानान्त्वा सादयामि ।
+दी᳓प्यमानान्त्वा सादयामि ।
 </details>
+
 <details><summary>Keith</summary>
 
 I place thee that art aflame.
@@ -165,18 +142,16 @@ I place thee that art aflame.
 दीप्य॑मानान्त्वा सादयामि ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 दीप्यमाना हृदये आविर्भवन्ती ।
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रोच॑मानान्त्वा सादया॒मि।
+रो᳓चमानान्त्वा सादयामि᳓।
 </details>
+
 <details><summary>Keith</summary>
 
 I place thee that blazest.
@@ -192,11 +167,9 @@ I place thee that blazest.
 रोचमाना गगने आविर्भवन्ती ।
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अज॑स्रान्त्वा  सादयामि  ।
+अ᳓जस्रान्त्वा  सादयामि  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -209,18 +182,16 @@ I place thee that art immortal.
 अज॑स्रान्त्वा  सादयामि  ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अजस्रा अनुपहिंस्या केनचिदपि ।
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृ॒हज्ज्यो॑तिषन्त्वा सादयामि ।
+बृह᳓ज्ज्योतिषन्त्वा सादयामि ।
 </details>
+
 <details><summary>Keith</summary>
 
 I place thee that hast great light.
@@ -231,18 +202,16 @@ I place thee that hast great light.
 बृ॒हज्ज्यो॑तिषन्त्वा सादयामि ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 बृहज्ज्योतिः बृंहितज्योतिः ।
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बो॒धय॑न्तीन्त्वा सादयामि  ।
+बोध᳓यन्तीन्त्वा सादयामि  ।
 </details>
+
 <details><summary>Keith</summary>
 
 I place thee that awakenest.
@@ -253,18 +222,16 @@ I place thee that awakenest.
 बो॒धय॑न्तीन्त्वा सादयामि  ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 बोधयन्ती दृश्यं प्रकाशयन्ती ।
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जाग्र॑तीन्त्वा सादयामि ॥ [35]
+जा᳓ग्रतीन्त्वा सादयामि ॥ [35]
 </details>
+
 <details><summary>Keith</summary>
 
 I place thee that art awake.
@@ -275,10 +242,7 @@ I place thee that art awake.
 जाग्र॑तीन्त्वा सादयामि ॥ [35]
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 जाग्रती स्वयंप्रकाशात्मना ॥
 </details>
-
-

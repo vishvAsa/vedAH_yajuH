@@ -3,9 +3,9 @@ title = "पितृणाम्"
 unicode_script = "devanagari"
 +++
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पि॒तृ॒णाँ+++(=पितॄणाम्)+++ सद॑नमसि।  
+पितृणाँ᳓+++(=पितॄणाम्)+++ स᳓दनमसि।  
 +++('नामन्यतरस्याम्' इति षष्ठीबहुवचनस्योदात्तत्वम्। )+++
 </details>
 
@@ -18,6 +18,7 @@ Thou art the seat of the Pitrs.
 
 पि॒तृ॒णाँ सद॑नम् असि।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 पि॒तृ॒णाम् । सद॑नम् । अ॒सि॒ । 

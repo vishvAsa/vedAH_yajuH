@@ -1,7 +1,6 @@
 +++
 title = "पञ्चता-महिमा"
 unicode_script = "devanagari"
-
 +++
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -10,13 +9,11 @@ unicode_script = "devanagari"
 ऋ॒तुष्वे॒व सव्ँ॑वत्स॒रे प्रति॑ तिष्ठ॒त्यथो॒ पञ्चा॑क्षरा प॒ङ्क्तिᳶ पाङ्क्तो॑ य॒ज्ञो य॒ज्ञमे॒वाव॑ रुन्द्धे   
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्च॒ वा ऋ॒तव॑स् सव्ँवत्स॒रः +++(हेमन्त-शिशिरयोर् एकत्वात्, अथवा ऽन्धसि वर्षर्तोर् अभावात्)+++।[38]  
-ऋ॒तुष्वे॒व सव्ँ॑वत्स॒रे प्रति॑ तिष्ठति ।
+प᳓ञ्च वा᳓ ऋत᳓वस् सव्ँवत्सरः᳓ +++(हेमन्त-शिशिरयोर् एकत्वात्, अथवा ऽन्धसि वर्षर्तोर् अभावात्)+++।[38]  
+ऋतु᳓ष्वेव᳓ सव्ँवत्सरे᳓ प्र᳓ति तिष्ठति ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -33,16 +30,14 @@ unicode_script = "devanagari"
 पञ्च वा ऋतव इति । हेमन्तशिशिरयोरेकत्वाभिप्रायमिदम् ।
 </details>
 
-
 <details><summary>Keith</summary>
 
 the year consists of five seasons [3];  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒तुष्वे॒व सव्ँ॑वत्स॒रे प्रति॑ तिष्ठति ।
+ऋतु᳓ष्वेव᳓ सव्ँवत्सरे᳓ प्र᳓ति तिष्ठति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -55,24 +50,20 @@ the year consists of five seasons [3];
 ऋ॒तुषु॑ । ए॒व । सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रे । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।   
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ऋत्वात्मनि संवत्सरे प्रतिष्ठितो भवति पञ्चसंख्यान्वयात् ।
 </details>
-
-
 
 <details><summary>Keith</summary>
 
 verily he stands firm in the year with its five seasons.
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ पञ्चा॑क्षरा प॒ङ्क्तिः ।
-पाङ्क्तो॑ य॒ज्ञो, य॒ज्ञम् ए॒वाव॑ रुन्धे ।
+अ᳓थो प᳓ञ्चाक्षरा पङ्क्तिः᳓ ।
+पा᳓ङ्क्तो यज्ञो᳓, यज्ञ᳓म् एवा᳓व रुन्धे ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -98,4 +89,3 @@ verily he stands firm in the year with its five seasons.
 Again the Pankti has five elements,  
 the sacrifice is fivefold; verily he wins the sacrifice.
 </details>
-

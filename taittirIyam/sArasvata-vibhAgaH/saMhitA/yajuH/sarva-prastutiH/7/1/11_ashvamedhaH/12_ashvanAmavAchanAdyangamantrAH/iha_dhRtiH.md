@@ -3,7 +3,6 @@ title = "इह धृतिः"
 unicode_script = "devanagari"
 +++
 
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4सायमश्वस्य पत्सु चतस्रो धृतीर्जुहोति - इह धृतिरित्यादि ॥
@@ -18,7 +17,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह धृति॒स् +++(स्यात्)+++ स्वाहा॑।
+इह᳓ धृ᳓तिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -28,7 +27,7 @@ Here is support, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह विधृ॑ति॒स् +++(स्यात्)+++ स्वाहा॑।
+इह᳓ वि᳓धृतिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -38,7 +37,7 @@ Here is keeping apart, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह रन्ति॒स्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वाहा॑।
+इह᳓ र᳓न्तिस्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -48,7 +47,7 @@ Here is joy, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह रम॑ति॒स् +++(स्यात्)+++ स्वाहा॑।
+इह᳓ र᳓मतिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -77,5 +76,3 @@ Here is delight, hail!'
 
 इति सप्तमे प्रथमे अष्टादशोनुवाकः ॥  
 </details>
-
-

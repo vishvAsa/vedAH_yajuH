@@ -5,7 +5,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पात्राणि!)+++ शुन्ध॑ध्व॒न् दैव्या॑य॒ कर्म॑णे देवय॒ज्यायै॑ ।
++++(पात्राणि!)+++ शु᳓न्धध्वन् दै᳓व्याय क᳓र्मणे देवयज्या᳓यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -22,7 +22,6 @@ Be ye pure for the divine rite, the sacrifice to the gods.
 
 शुन्ध॑ध्वम् । दैव्या॑य । कर्म॑णे । दे॒व॒य॒ज्याया॒ इति॑ देव-य॒ज्यायै॑ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

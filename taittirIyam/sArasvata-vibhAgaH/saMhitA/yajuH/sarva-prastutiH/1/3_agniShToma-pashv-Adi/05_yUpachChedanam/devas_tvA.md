@@ -4,14 +4,13 @@ unicode_script = "devanagari"
 +++
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस् त्वा॑ सवि॒ता मध्वा॑ऽनक्तु ।
+देव᳓स् त्वा सविता᳓ म᳓ध्वाऽनक्तु ।
 </details>
 
 <details><summary>Keith</summary>
 
 Let the god Savitr anoint thee with honey.
 </details>
-
 
 <details><summary>मूलम्</summary>
 

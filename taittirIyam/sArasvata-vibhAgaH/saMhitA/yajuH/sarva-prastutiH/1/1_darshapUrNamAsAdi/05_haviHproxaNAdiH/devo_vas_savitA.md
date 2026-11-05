@@ -5,7 +5,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वो व॑स् सवि॒ता हिर॑ण्यपाणि॒ᳶ प्रति॑गृह्णातु ॥ [8]
+देवो᳓ वस् सविता᳓ हि᳓रण्यपाणिᳶ प्र᳓तिगृह्णातु ॥ [8]
 </details>
 
 <details><summary>Keith</summary>
@@ -22,7 +22,6 @@ Let the god Savitr of golden hands, seize you.
 
 दे॒वः । वः॒ । स॒वि॒ता । हिर॑ण्यपाणि॒रिति॒ हिर॑ण्य-पा॒णिः॒ । प्रतीति॑ । गृ॒ह्णा॒तु॒ ॥ 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

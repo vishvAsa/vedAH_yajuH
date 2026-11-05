@@ -14,8 +14,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ गृहपते! सुगृह-प॒तिर् अ॒हन् त्वया॑ गृ॒ह-प॑तिना भूयासम् ।  
-सु॒गृ॒ह॒प॒तिर् मया॒ त्वङ् गृ॒हप॑तिना भूयाः ।
+अ᳓ग्ने गृहपते! सुगृह-पति᳓र् अह᳓न् त्व᳓या गृह᳓-पतिना भूयासम् ।  
+सुगृहपति᳓र् म᳓या त्व᳓ङ् गृह᳓पतिना भूयाः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -23,13 +23,11 @@ unicode_script = "devanagari"
 O Agni, lord of the house, through thee as lord of the house, may I be a good lord of the house; through me as lord of the house, mayst thou be a good lord of the house;
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अग्ने॑ गृहपते सुगृहप॒तिर॒हन्त्वया॑ गृ॒हप॑तिना भूयासम् ।  
 सु॒गृ॒ह॒प॒तिर्मया॒ त्वङ्गृ॒हप॑तिना भूयाः।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -52,10 +50,10 @@ ____________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श॒तँ हिमा॒स् ताम् आ॒शिष॒म् आशा॑से ।
+शतँ᳓ हि᳓मास् ता᳓म् आशि᳓षम् आ᳓शासे ।
 
-+++(अजातपुत्र-पक्षे - )+++ तन्त॑वे॒ ज्योति॑ष्मती॒न् ताम् आ॒शिष॒म् आशा॑से ।  
-+++(जातपुत्र-पक्षे -)+++ [ताम् आ॒शिष॒म् आशा॑से] अ॒मुष्मै॒+++(→अपत्य-नाम-निर्देशः)+++ ज्योति॑ष्मतीम् ॥  [24]
++++(अजातपुत्र-पक्षे - )+++ त᳓न्तवे ज्यो᳓तिष्मतीन् ता᳓म् आशि᳓षम् आ᳓शासे ।  
++++(जातपुत्र-पक्षे -)+++ [ता᳓म् आशि᳓षम् आ᳓शासे] अमु᳓ष्मै+++(→अपत्य-नाम-निर्देशः)+++ ज्यो᳓तिष्मतीम् ॥  [24]
 </details>
 
 <details><summary>Keith</summary>
@@ -65,7 +63,6 @@ bringing light for the race; this blessing I invoke,
 bringing light for N. N.+++(= nomina / names)+++
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 श॒तँ हिमा॒स् तामा॒शिष॒माशा॑से ।
@@ -74,6 +71,7 @@ bringing light for N. N.+++(= nomina / names)+++
 तामा॒शिष॒माशा॑से ।  
 +++(जातपुत्र-पक्षे -)+++ [तामा॒शिष॒माशा॑से] अ॒मुष्मै॒ ज्योति॑ष्मतीम्   ॥  [24]
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 श॒तम् । हिमाः॑ । ताम् । आ॒शिष॒मित्या॑-शिष॑म् । एति॑ । शा॒से॒ ।   

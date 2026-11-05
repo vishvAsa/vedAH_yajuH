@@ -3,7 +3,6 @@ title = "ब्रह्म द्रुंह"
 unicode_script = "devanagari"
 +++
 
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्रह्म॑ दृँह क्ष॒त्रन्दृँ॑ह प्र॒जान्दृँ॑ह रा॒यस्पोष॑न्दृँह
@@ -11,10 +10,10 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म॑ दृँह ।  
-क्ष॒त्रन् दृँ॑ह ।  
-प्र॒जान् दृँ॑ह।  
-रा॒यस्-पोष॑न् दृँह ।
+ब्र᳓ह्म दृँह ।  
+क्षत्र᳓न् दृँह ।  
+प्रजा᳓न् दृँह।  
+राय᳓स्-पो᳓षन् दृँह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -24,7 +23,6 @@ strengthen the nobles,
 strengthen offspring,  
 strengthen increase of wealth.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -51,6 +49,7 @@ strengthen increase of wealth.
 
 15मैत्रावरुणदण्डेन संहन्ति - ब्रह्म दृंहेति ॥ व्याख्यातमेव ॥
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 हे दण्ड ब्राह्मण्यादीन् दृढी कुरु। मन्त्रो ऽयं ब्राह्मणेनोपेक्षितः।

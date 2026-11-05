@@ -3,18 +3,15 @@ title = "यत्ते"
 unicode_script = "devanagari"
 +++
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् ते ऽना॑धृष्ट॒न् नाम॑ य॒ज्ञिय॒न् +++(नभ इत्यादि)+++ तेन॒ त्वा ऽऽद॑धे ।
+य᳓त् ते᳓ ऽनाधृष्टन् ना᳓म यज्ञि᳓यन् +++(नभ इत्यादि)+++ ते᳓न त्वा᳓ ऽऽदधे ।
 </details>
 
 <details><summary>Keith</summary>
 
 Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 </details>
-
 
 <details><summary>मूलम्</summary>
 

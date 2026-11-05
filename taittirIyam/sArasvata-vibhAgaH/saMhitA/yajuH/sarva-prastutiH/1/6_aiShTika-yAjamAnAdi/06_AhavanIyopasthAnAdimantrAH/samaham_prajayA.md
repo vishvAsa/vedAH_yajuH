@@ -4,14 +4,13 @@ title = "समहम् प्रजया"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् अ॒हम् प्र॒जया॑  +++(भूयासम्)+++  ।
+स᳓म् अह᳓म् प्रज᳓या  +++(भूयासम्)+++  ।
 </details>
 
 <details><summary>Keith</summary>
 
 May I be united with offspring,
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -32,7 +31,6 @@ ___________
 ससाधनां क्रियामुपसर्ग आह । अहं प्रजया अपत्यादिना सङ्गच्छेय । 
 </details>
 
-
 <details><summary>सायण-टीका</summary>
 
 समहमिति। कल्पः - ‘अथोदङ्पर्यावर्तते समहं प्रजया सं मया प्रजा समहँ रायस्पोषेण सं मया रायस्पोष इति’ इति’ इति।  
@@ -41,14 +39,13 @@ ___________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् मया॑ प्र॒जा  +++(भूयात्)+++ ।
+स᳓म् म᳓या प्रजा᳓  +++(भूयात्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
 
 offspring with me.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -67,7 +64,6 @@ __________
 प्रजा मया सञ्जच्छताम् । 
 </details>
 
-
 <details><summary>सायण-टीका</summary>
 
 प्रजाऽपि मया संगता भूयात्। 
@@ -75,7 +71,7 @@ __________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम॒हँ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+स᳓महँ᳓ राय᳓स्पो᳓षेण  +++(भूयासम्)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -87,6 +83,7 @@ May I be united with increase of wealth,
 
 सम॒हँ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 समिति॑ । अ॒हम् । रा॒यः । पोषे॑ण । 
@@ -106,7 +103,7 @@ _______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम्मया॑ रा॒यस्पोषः॑   +++(भूयात्)+++  ।
+स᳓म्म᳓या राय᳓स्पो᳓षः   +++(भूयात्)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -114,11 +111,11 @@ _______________
 increase of wealth with me.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सम्मया॑ रा॒यस्पोषः॑   +++(भूयात्)+++  ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 समिति॑ । मया॑ । रा॒यः । पोषः॑ ।

@@ -2,13 +2,12 @@
 title = "इन्द्र॑स्य॒ वज्रो॑ऽसि॒"
 +++
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
-<details open><summary><h5>इन्द्र॑स्य॒ वज्रो॑ऽसि॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य॒ वज्रो॑ऽसि॒,  
-वार्त्र॑घ्नः ।
+इ᳓न्द्रस्य व᳓ज्रोऽसि,  
+वा᳓र्त्रघ्नः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -37,12 +36,12 @@ ______________
 यो वृत्रं हतवान् तस्येन्द्रस्य वज्रो वृत्रवधसाधनभूतो रथमसि ॥
 
 </details>
-</details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वया॒ ऽयव्ँ वृ॒त्रव्ँ व॑ध्यात्  ॥
+त्व᳓या ऽयव्ँ᳓ वृत्रव्ँ᳓ वध्यात्  ॥
 </details>
 
 <details><summary>Keith</summary>

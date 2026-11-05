@@ -3,11 +3,11 @@ title = "यवोऽसि"
 unicode_script = "devanagari"
 +++
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यवो॑ऽसि।  
-य॒वय॑+++(=अपनय)+++ +अ॒स्मद्-द्वेषः॑ ।    
-य॒वय॒ +अरा॑तीः ।
+य᳓वोऽसि।  
+यव᳓य+++(=अपनय)+++ +अस्म᳓द्-द्वे᳓षः ।    
+यव᳓य +अ᳓रातीः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -22,7 +22,6 @@ bar evil spirits.
 यवो॑ऽसि य॒वया॒स्मद्द्वेषः॑ [1] य॒वयारा॑तीः ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यवो॑ऽसि।  
@@ -36,7 +35,6 @@ bar evil spirits.
 य॒वय॑ । अ॒स्मत् । द्वेषः॑ । [1]
 य॒वय॑ । अरा॑तीः । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -21,14 +21,13 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओष॑धे॒ त्राय॑स्वैनम्।
+ओ᳓षधे त्रा᳓यस्वैनम्।
 </details>
 
 <details><summary>Keith</summary>
 
 O plant, protect him.
 </details>
-
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 

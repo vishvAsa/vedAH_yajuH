@@ -1,7 +1,6 @@
 +++
 title = "उपयाम-गृहीतः"
 unicode_script = "devanagari"
-
 +++
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -12,11 +11,12 @@ unicode_script = "devanagari"
 
 (ग्रहणम्)
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -39,11 +39,12 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य त्वा षो॒ड॒शिने॑   +++(ग्रहणमन्त्रः)+++  ।
+इ᳓न्द्राय त्वा षोडशि᳓ने   +++(ग्रहणमन्त्रः)+++  ।
 
 </details>
 
@@ -73,7 +74,7 @@ __________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++
+एष᳓ ते यो᳓निरि᳓न्द्राय त्वा षोडशि᳓ने ॥ [38]   +++(सादनमन्त्रः)+++
 </details>
 
 <details><summary>Keith</summary>

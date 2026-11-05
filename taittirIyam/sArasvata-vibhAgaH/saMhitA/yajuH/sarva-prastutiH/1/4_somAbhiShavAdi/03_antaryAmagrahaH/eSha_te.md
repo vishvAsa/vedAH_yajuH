@@ -4,13 +4,13 @@ unicode_script = "devanagari"
 +++
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनिः॑।
+एष᳓ ते यो᳓निः।
 </details>
+
 <details><summary>Keith</summary>
 
 This is thy birthplace;
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -21,5 +21,3 @@ This is thy birthplace;
 
 **एष ते योनिः** स्थानम् ।
 </details>
-
-

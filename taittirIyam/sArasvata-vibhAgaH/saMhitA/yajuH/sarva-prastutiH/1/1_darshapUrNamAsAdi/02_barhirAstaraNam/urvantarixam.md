@@ -1,9 +1,7 @@
 +++
 title = "उर्वन्तरिक्षम्"
 unicode_script = "devanagari"
-
 +++
-
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -16,12 +14,10 @@ unicode_script = "devanagari"
 +++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
 </details>
 
-
 <details><summary>Keith</summary>
 
 Fare along the wide atmosphere.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -32,7 +28,6 @@ Fare along the wide atmosphere.
 
 उ॒रु । अ॒न्तरि॑क्षम् । अन्विति॑ । इ॒हि॒ ।  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

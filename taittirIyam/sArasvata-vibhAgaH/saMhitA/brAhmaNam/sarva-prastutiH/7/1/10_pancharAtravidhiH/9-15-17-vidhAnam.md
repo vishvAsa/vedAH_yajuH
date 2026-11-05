@@ -3,8 +3,6 @@ title = "९-१५-१७-विधानम्"
 unicode_script = "devanagari"
 +++
 
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्रि॒वृद॑ग्निष्टो॒मो भ॑वति॒ तेज॑ ए॒वाव॑ रुन्द्धे पञ्चद॒शो भ॑वतीन्द्रि॒यमे॒वाव॑ रुन्द्धे सप्तद॒शो भ॑वत्य॒न्नाद्य॒स्याव॑रुद्ध्या॒ अथो॒ प्रैव तेन॑ जायते 
@@ -12,7 +10,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रि॒वृद्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अ॑ग्निष्टो॒मो +++(यागो रथन्तरसामा)+++ भ॑वति +++("अग्न॒ आ या॑हि" इत्यादेस् त्र्यर्चस्य)+++ । तेज॑ ए॒वाव॑ रुन्धते ।  
+त्रिवृ᳓द्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अग्निष्टोमो᳓ +++(यागो रथन्तरसामा)+++ भवति +++("अ᳓ग्न आ᳓ याहि" इत्यादेस् त्र्यर्चस्य)+++ । ते᳓ज एवा᳓व रुन्धते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -39,8 +37,8 @@ There is an Agnistoma characterized by the Trivrt (Stoma); verily he wins brilli
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒ञ्च॒द॒शो भ॑वति॒ ,
-इन्द्रि॒यमे॒वाव रुन्द्धे ।
+पञ्चदशो᳓ भवति ,
+इ᳓न्द्रिय᳓मेवा᳓व᳓ रु᳓न्द्धे᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -67,8 +65,8 @@ There is a Pañcadaśa (Stoma); verily he wins power.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्त॒द॒शो भ॑वति॒ ,
-अ॒न्नाद्य॒स्याव॑रुध्यै ।
+सप्तदशो᳓ भवति ,
+अन्ना᳓द्यस्या᳓वरुध्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -95,7 +93,7 @@ There is a Saptadaśa (Stoma), for the obtainment of food;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ प्रैव तेन॑ जायते ।
+अ᳓थो प्रै᳓व᳓ ते᳓न जायते ।
 </details>
 
 <details><summary>Keith</summary>
