@@ -1171,28 +1171,12 @@ They went to question Prajapati;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓ प्रजा᳓पतिर्
- ।
-</details>
-
-<details><summary>English</summary>
-
-he turned away (from Uśanas) (with the words).
-</details>
-
-<details><summary>मूलम्</summary>
-
-स प्र॒जाप॑तिर॒ग्निन्दू॒तव्ँवृ॑णीमह॒ इत्य॒भि प॒र्याव॑र्तत ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 "अग्नि᳓न् दूतव्ँ᳓ वृणीमह" इ᳓त्य् +++(उशनसः)+++ अभि᳓ पर्या᳓वर्तत ।
 </details>
 
 <details><summary>English</summary>
 
-'Agni as messenger we choose.'
+he turned away (from Uśanas) (with the words), 'Agni as messenger we choose.'
 </details>
 
 <details><summary>मूलम्</summary>

@@ -475,22 +475,7 @@ He said, 'Hurl it not at me;
 
 <details><summary>Keith</summary>
 
-there is this [3] strength in me;
-</details>
-
-<details><summary>मूलम्</summary>
-
-अस्ति॒ वा इ॒दम्मयि॑ वी॒र्य॑न्तत्ते॒ प्र दा॑स्या॒मीति॑ ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अस्ति॒ वा इ॒दम्मयि॑ वी॒र्य॑न्तत्ते॒ प्र दा॑स्या॒मीति॑ ।
-</details>
-
-<details><summary>Keith</summary>
-
-I will give it to you.'
+there is this [3] strength in me; I will give it to you.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -823,22 +808,7 @@ Vrtra is the belly; hunger is man's enemy; he who [6] knows this slays
 
 <details><summary>Keith</summary>
 
-the enemy hunger.
-</details>
-
-<details><summary>मूलम्</summary>
-
-क्षुध॒म्भ्रातृ॑व्य॒न्तद॑स्मै॒ प्राय॑च्छत् ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-क्षुध॒म्भ्रातृ॑व्य॒न्तद॑स्मै॒ प्राय॑च्छत् ।
-</details>
-
-<details><summary>Keith</summary>
-
-He gave it to him;
+the enemy hunger. He gave it to him;
 </details>
 
 <details><summary>मूलम्</summary>

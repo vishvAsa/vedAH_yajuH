@@ -1506,11 +1506,6 @@ The theologians say, What is the deity of the Samnayya?' 'The All-gods', he shou
 Or rather he should reply, 'Indra, for it was in healing Indra that they won it.'  
 </details>
 
-<details><summary>मूलम् </summary>
-
-अथो॒ खल्वै॒न्द्रमित्ये॒व ब्रू॑या॒दिन्द्रव्ँ॒ वाव ते तद्भि॑ष॒ज्यन्तो॒ऽभि सम॑गच्छ॒न्तेति॑ ॥ [21]  
-</details>
-
 <details><summary>मूलम्</summary>
 
 अथो॒ खलु॑ ।  

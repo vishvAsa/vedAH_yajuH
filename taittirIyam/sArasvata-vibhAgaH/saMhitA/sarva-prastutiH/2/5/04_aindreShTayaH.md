@@ -92,7 +92,7 @@ There are curds for Indra at the new moon;
 
 <details><summary>मूलम्</summary>
 
-ऐ॒न्द्रन्दध्य॑मावा॒स्या॑या॒न्तेना॑मावा॒स्या॑ सेन्द्रा॑।
+ऐ॒न्द्रन्दध्य॑मावा॒स्या॑याम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -107,7 +107,7 @@ verily the new moon has Indra.
 
 <details><summary>मूलम्</summary>
 
-ऐ॒न्द्रन्दध्य॑मावा॒स्या॑या॒न्तेना॑मावा॒स्या॑ सेन्द्रा॑।
+तेना॑मावा॒स्या॑ सेन्द्रा॑।
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -249,22 +249,7 @@ when yonder Sun Moves low with his rays,
 
 <details><summary>Keith</summary>
 
-then he rains;
-</details>
-
-<details><summary>मूलम्</summary>
-
-अथ॑ वर्षति धाम॒च्छदि॑व॒ खलु॒ वै भू॒त्वा व॑र्षति ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अथ॑ वर्षति धाम॒च्छदि॑व॒ खलु॒ वै भू॒त्वा व॑र्षति ।
-</details>
-
-<details><summary>Keith</summary>
-
-becoming a hider of his abode, as it were, he rains;
+then he rains; becoming a hider of his abode, as it were, he rains;
 </details>
 
 <details><summary>मूलम्</summary>
