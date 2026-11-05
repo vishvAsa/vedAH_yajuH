@@ -17,11 +17,11 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सन् ते॒ मन॑सा॒ मन॒स्  
-सम्प्रा॒णेन॑ प्रा॒णो  
-जुष्ट॑न् दे॒वेभ्यो॑  
-ह॒व्यङ् घृ॒तव॒त् -  
-स्वाहा॑
+स᳓न् ते म᳓नसा म᳓नस्  
+स᳓म्प्राणे᳓न प्राणो᳓  
+जु᳓ष्टन् देवे᳓भ्यो  
+हव्य᳓ङ् घृत᳓वत् -  
+स्वा᳓हा
 </details>
 
 <details><summary>Keith</summary>
@@ -66,19 +66,16 @@ _______
 ऐ॒न्द्रᳶप्रा॒णो अङ्गे॑अङ्गे॒ नि दे॑ध्यदै॒न्द्रो॑ऽपा॒नो अङ्गे॑अङ्गे॒ वि बो॑भुव॒द्देव॑ त्वष्ट॒र्भूरि॑ ते॒ सँस॑मेतु॒ विषु॑रूपा॒ यत् सल॑क्ष्माणो॒ भव॑थ देव॒त्रा यन्त॒मव॑से॒ सखा॒योऽनु॑ त्वा मा॒ता पि॒तरो॑ मदन्तु॒ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-ऐ॒न्द्रᳶ प्रा॒णो अङ्गे॑अङ्गे॒ नि दे॑ध्यत्+++(←धीङ् आधारे)+++ ।  
-एै॒न्द्रो॑ऽपा॒नो अङ्गे॑अङ्गे॒ वि बो॑भुवत् ।  
-देव॑ त्वष्ट॒र् +++(पशोर्)+++ भूरि॑ ते॒ सँस॑मेतु ।
+ऐन्द्रᳶ᳓ प्राणो᳓ अ᳓ङ्गेअङ्गे नि᳓ देध्यत्+++(←धीङ् आधारे)+++ ।  
+ए्᳓ऐन्द्रो᳙ऽपानो᳓ अ᳓ङ्गेअङ्गे वि᳓ बोभुवत् ।  
+दे᳓व त्वष्टर् +++(पशोर्)+++ भू᳓रि ते सँ᳓समेतु ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -118,24 +115,20 @@ O god Tvastr, let mind be united for thee,
 एतद् उक्तं भवति, यद् विकर्तने पश्वङ्गं विच्छिन्नम् अवशिष्टं तत्सर्वं त्वया आर्द्रतया एकीकार्यम् इति । एवं हि कृत्स्नेन पशुना यागः कृतो भवति । 'प्रसमुपोदः पादपूरणे' इति समो द्विर्वचनम् । 'अनुदात्तं च' इति द्वितीयस्यानुदात्तत्वम् ।
 </details>
 </details>
-
 </div>
 
 ________
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-+++(शरीर-खण्डानि!)+++ विषु॑रूपा॒ यत् **सल॑क्ष्माणो॒**+++(=सलक्षणा [हवीरूपेण])+++ **भव॑थ**,  
-दे॒व॒त्रा+++(=देवस्थानं)+++ यन्त॒म्, अव॑से॒, +++(तस्य पशोः)+++ सखा॑यः   
-अनु॑ त्वा मा॒ता-पि॒तरो॑ **मदन्तु** ।
++++(शरीर-खण्डानि!)+++ वि᳓षुरूपा य᳓त् **स᳓लक्ष्माणो**+++(=सलक्षणा [हवीरूपेण])+++ **भ᳓वथ**,  
+देवत्रा᳓+++(=देवस्थानं)+++ य᳓न्तम्, अ᳓वसे, +++(तस्य पशोः)+++ स᳓खायः᳓   
+अ᳓नु त्वा माता᳓-पित᳓रो **मदन्तु** ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -146,9 +139,9 @@ And thy father and mother rejoice.
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-+++(शरीर-खण्डानि!)+++ विषु॑रूपा॒ यत् **सल॑क्ष्माणो॒**+++(=सलक्षणा [हवीरूपेण])+++ **भव॑थ**,  
-दे॒व॒त्रा+++(=देवस्थानं)+++ यन्त॒म्, अव॑से॒, +++(तस्य पशोः)+++ सखा॑यः   
-अनु॑ त्वा मा॒ता-पि॒तरो॑ **मदन्तु** ।
++++(शरीर-खण्डानि!)+++ वि᳓षुरूपा य᳓त् **स᳓लक्ष्माणो**+++(=सलक्षणा [हवीरूपेण])+++ **भ᳓वथ**,  
+देवत्रा᳓+++(=देवस्थानं)+++ य᳓न्तम्, अ᳓वसे, +++(तस्य पशोः)+++ स᳓खायः᳓   
+अ᳓नु त्वा माता᳓-पित᳓रो **मदन्तु** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -183,7 +176,6 @@ And thy father and mother rejoice.
 तदेवाह - **अवसे** रक्षणाय तव चात्मनश् च । तृप्त्यर्थं वा, अवतिर्हि तृप्तौ च पठ्यते । तस्मादसुन् । 'अनुमतमेवैनं मात्रा पित्रा सुवर्गं लोकं गमयति' ` इति च ब्राह्मणम् । मदि हर्षे दैवादिकः विकरणव्यत्ययेन शप् ॥
 </details>
 </details>
-
 </div>
 
 _______
@@ -195,7 +187,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रीर्+++(←श्रीञ् पाके)+++ अ॑सि ।
+श्री᳓र्+++(←श्रीञ् पाके)+++ असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -210,7 +202,7 @@ Thou art fortune (śri).
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निस् त्वा॑ श्रीणा॒तु+++(←श्रीञ् पाके)+++ ।
+अग्नि᳓स् त्वा श्रीणातु᳓+++(←श्रीञ् पाके)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -241,10 +233,10 @@ Let Agni cook (śrinatu) thee.
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आप॒स् सम् **अ॑रिणन्**+++(=यन्तु [त्वा॒])+++  
-वात॑स्य त्वा॒ **ध्रज्यै॑**+++(←गतौ)+++  
-पू॒ष्णो रँह्या॑+++(य् = वेगाय)+++  
-अ॒पाम् ओष॑धीनाँ॒ **रोहि॑ष्यै**+++(←रुह्)+++ ।
+आ᳓पस् स᳓म् **अरि᳓ण᳓न्**+++(=य᳓न्तु᳓ [त्वा])+++  
+वा᳓तस्य त्वा **ध्र᳓ज्यै**+++(←गतौ)+++  
+पूष्णो᳓ रँ᳓ह्या+++(य् = वेगाय)+++  
+अपा᳓म् ओ᳓षधीनाँ **रो᳓हिष्यै**+++(←रुह्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -299,7 +291,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृ॒तङ् घृ॑त-पावानᳶ पिबत ।  
+घृत᳓ङ् घृत-पावानᳶ पिबत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -324,7 +316,7 @@ Drink ghee, ye drinkers of ghee;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वसाव्ँ॑ वसा-पावानᳶ पिबत ।
+व᳓साव्ँ वसा-पावानᳶ पिबत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -349,7 +341,7 @@ drink fat, ye drinkers of fat.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्तरि॑क्षस्य ह॒विर् अ॑सि॒ स्वाहा॑ ।
+अन्त᳓रिक्षस्य हवि᳓र् असि स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -364,7 +356,7 @@ Thou art the oblation of the atmosphere.
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वा॒ऽन्तरि॑क्षाय +++(अर्पयामि)+++।
+त्वाऽन्त᳓रिक्षाय +++(अर्पयामि)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -402,11 +394,11 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(प्रदिगादि-विशेषभिन्ना)+++ दिशः,
-+++(प्राच्यादयः प्रधानाः)+++ प्र॒दिश॑,
-+++(प्राण्याधारभूता)+++ आ॒दिशो॑,
-+++(विविधाः कोनदिशो)+++ वि॒दिश॑,
-उ॒द्-दिश॒स्,
++++(प्रदिगादि-विशेषभिन्ना)+++ दि᳓शः᳓,
++++(प्राच्यादयः प्रधानाः)+++ प्रदि᳓श,
++++(प्राण्याधारभूता)+++ आदि᳓शो,
++++(विविधाः कोनदिशो)+++ विदि᳓श,
+उद्-दि᳓शस्,
 </details>
 
 <details><summary>Keith</summary>
@@ -421,7 +413,7 @@ The quarters, the Pradiśes, the Adiśes, the Vidiśes, the Uddiśes.
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(इत्य् उक्ताभ्यः)+++ स्वाहा॑ दि॒ग्भ्यः!
++++(इत्य् उक्ताभ्यः)+++ स्वा᳓हा दिग्भ्यः᳓!
 </details>
 
 <details><summary>Keith</summary>
@@ -436,7 +428,7 @@ Hail to the quarters!
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ दि॒ग्भ्यः ॥ [19]
+न᳓मो दिग्भ्यः᳓ ॥ [19]
 </details>
 
 <details><summary>Keith</summary>

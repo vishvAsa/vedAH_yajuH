@@ -10,19 +10,24 @@ unicode_script: devanagari
 अनवानम् उच्छ्वसन्।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/027/01_pra_vo.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/027/01_pra_vo.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 प्र᳓ वो वा᳓जा अभि᳓द्यवो  
 हवि᳓ष्मन्तो घृता᳓चिया  
 देवा᳓ञ् जिगाति सुम्नयुः᳓
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/027/01_pra_vo.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/027/01_pra_vo.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+प्र वो॒ वाजा॑ अ॒भिद्य॑वो ह॒विष्म॑न्तो घृ॒ताच्या॑ ।  
+दे॒वाञ्जि॑गाति सुम्न॒युः ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/027/01_pra_vo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋतव अग्निर्वा
@@ -282,11 +287,9 @@ Vor dringt eur Opfer himmelwärts, im Butterlöffel trankversehn, Zu Göttern ei
 
 भावार्थभाषाः -  जसे पदार्थ दिवसा सुकतात व रात्री ओलसर होतात त्याच प्रकारे जे पदार्थ आपले आहेत ते इतरांचे व जे इतरांचे ते आपले आहेत या प्रकारे सुखाच्या इच्छेने विद्वानांचा संग केला पाहिजे. ॥ १ ॥
 </details>
-
 </div>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/016/10_agna_A.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/016/10_agna_A.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 अ᳓ग्न **आ᳓ याहि** वीत᳓ये +++(=हविर्भक्षणाय)+++  
@@ -294,11 +297,17 @@ Vor dringt eur Opfer himmelwärts, im Butterlöffel trankversehn, Zu Göttern ei
 नि᳓ हो᳓ता **सत्सि** बर्हि᳓षि ।।
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/016/10_agna_A.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/016/10_agna_A.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+अग्न॒ आ या॑हि वी॒तये॑ गृणा॒नो ह॒व्यदा॑तये ।  
+नि होता॑ सत्सि ब॒र्हिषि॑ ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/016/10_agna_A.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -559,7 +568,6 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 
 भावार्थभाषाः -  जेथे विद्वान विद्यावृद्धीची इच्छा करतात तेथे सर्वजण सुखी होतात. ॥ १० ॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

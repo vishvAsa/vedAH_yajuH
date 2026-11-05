@@ -1,6 +1,5 @@
 +++
 title = "१९ अश्वोपचारो मरणोत्तरः"
-
 +++
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -10,7 +9,6 @@ title = "१९ अश्वोपचारो मरणोत्तरः"
 ५ पङ्क्तिः
 विश्वेदेवा ऋषयः
 </details>
-
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -24,7 +22,7 @@ title = "१९ अश्वोपचारो मरणोत्तरः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अम्बे॒
+अ᳓म्बे
 </details>
 
 <details><summary>Keith</summary>
@@ -39,7 +37,7 @@ O Amba!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अम्बा॒ल्य्
+अ᳓म्बाल्य्
 </details>
 
 <details><summary>Keith</summary>
@@ -54,7 +52,7 @@ O Ambali!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अम्बि॑के ।
+अ᳓म्बिके ।
 </details>
 
 <details><summary>Keith</summary>
@@ -74,7 +72,7 @@ O Ambika!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न मा॑ नयति॒ कश्च॒न ।
+न᳓ मा नयति क᳓श्चन᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -89,7 +87,7 @@ No one leadest me.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒सस्त्य् अ॑श्व॒कः ।
+सस᳓स्त्य् अश्वकः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -120,7 +118,7 @@ The wicked horse is sleeping.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुभ॑गे॒ काम्पी॑लवासिनि सुव॒र्गे लो॒के सम्प्रोर्ण्वा॑थाम् ।
+सु᳓भगे का᳓म्पीलवासिनि सुवर्गे᳓ लोके᳓ स᳓म्प्रो᳓र्ण्वाथाम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -150,8 +148,8 @@ O fair one, clad in fair raiment in the world of heaven be ye two covered....
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ ऽहम् अ॑जानि गर्भ॒धम् आत्वम् अ॑जासि गर्भ॒धम् ।  
-तौ स॒ह च॒तुरᳶ॑ प॒दस् सम्प्र सा॑रयावहै ।
+आ᳓ ऽह᳓म् अजानि गर्भध᳓म् आ᳓त्व᳓म् अजासि गर्भध᳓म् ।  
+तौ᳓ सह᳓ चतु᳓रᳶ पद᳓स् स᳓म्प्र᳓ सारयावहै ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -178,8 +176,8 @@ O fair one, clad in fair raiment in the world of heaven be ye two covered....
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृषा॑ वाँ रेतो॒धा रेतो॑ दधातु ।  
-उत्स॒क्थ्यो॑र् गृ॒दन् धे॑ह्य् अ॒ञ्जिम् उद॑ञ्जि॒म् अन्व॑ज ।
+वृ᳓षा वाँ रेतोधा᳓ रे᳓तो दधातु ।  
+उ᳓त्सक्थ्यो᳙र् गृद᳓न् धेह्य् अञ्जि᳓म् उ᳓दञ्जिम् अ᳓न्वज ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -195,9 +193,9 @@ O fair one, clad in fair raiment in the world of heaven be ye two covered....
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस् स्त्री॒णाञ् जी॑व॒भोज॑नो॒ य आ॑साम्
-बि॒ल॒धाव॑नः  [47]।  
-प्रि॒यस् स्त्री॒णाम॑पी॒च्यः॑ ।
+य᳓स् स्त्रीणा᳓ञ् जीवभो᳓जनो य᳓ आसाम्
+बिलधा᳓वनः  [47]।  
+प्रिय᳓स् स्त्रीणा᳓मपीच्यः᳙ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -214,7 +212,7 @@ O fair one, clad in fair raiment in the world of heaven be ye two covered....
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य आ॑साङ् कृ॒ष्णे लक्ष्म॑णि॒ सर्दि॑गृदिम् प॒राव॑धीत् ।
+य᳓ आसाङ् कृष्णे᳓ ल᳓क्ष्मणि स᳓र्दिगृदिम् परा᳓वधीत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -240,7 +238,7 @@ O fair one, clad in fair raiment in the world of heaven be ye two covered....
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अम्बे॒ अम्बा॒ल्य् अम्बि॑के॒ न मा॑ यभति॒ कश्च॒न । स॒सस्त्य् अ॑श्व॒कः ।
+अ᳓म्बे अ᳓म्बाल्य् अ᳓म्बिके न᳓ मा यभति क᳓श्चन᳓ । सस᳓स्त्य् अश्वकः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -265,8 +263,8 @@ O fair one, clad in fair raiment in the world of heaven be ye two covered....
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्ध्वामे॑ना॒म् उच्छ्र॑यताद् वेणुभा॒रङ् गि॒रावि॑व ।  
-अथा॑स्या॒ मध्य॑म् एधताँ शी॒ते वाते॑ पु॒नन्नि॑व ।
+ऊर्ध्वा᳓मेनाम् उ᳓च्छ्रयताद् वेणुभार᳓ङ् गिरा᳓विव ।  
+अ᳓थास्या म᳓ध्यम् एधताँ शीते᳓ वा᳓ते पुन᳓न्निव ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -292,8 +290,8 @@ O fair one, clad in fair raiment in the world of heaven be ye two covered....
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अम्बे॒ अम्बा॒ल्यम्बि॑के॒ न मा॑ यभति॒ कश्च॒न ।
-स॒सस्त्य् अ॑श्व॒कः ।
+अ᳓म्बे अ᳓म्बाल्य᳓म्बिके न᳓ मा यभति क᳓श्चन᳓ ।
+सस᳓स्त्य् अश्वकः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -320,7 +318,7 @@ O fair one, clad in fair raiment in the world of heaven be ye two covered....
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् + ह॒रि॒णी यव॒म् अत्ति॒ , न पु॒ष्टम् प॒शु म॑न्यते ।[48]  
+य᳓त् + हरिणी᳓ य᳓वम् अ᳓त्ति , न᳓ पुष्ट᳓म् पशु᳓ मन्यते ।[48]  
 </details>
 
 <details><summary>Keith</summary>
@@ -341,7 +339,7 @@ He deemeth not his flock fat.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शू॒द्रा यदर्य॑जारा॒ न पोषा॑य धनायति ।
+शूद्रा᳓ य᳓द᳓र्यजारा न᳓ पो᳓षाय धनायति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -372,7 +370,7 @@ She seeketh not wealth for prosperity....
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अम्बे॒ अम्बा॒ल्य् अम्बि॑के॒ न मा॑ यभति॒ कश्च॒न । स॒सस्त्य॑श्व॒कः ।
+अ᳓म्बे अ᳓म्बाल्य् अ᳓म्बिके न᳓ मा यभति क᳓श्चन᳓ । सस᳓स्त्यश्वकः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -392,8 +390,8 @@ She seeketh not wealth for prosperity....
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यय्ँ य॒का श॑कुन्ति॒काऽऽहल॒मिति॒ सर्प॑ति ।  
-आह॑तङ् ग॒भे पसो॒ नि ज॑ल्गुलीति॒ धाणि॑का ।
+इयय्ँ᳓ यका᳓ शकुन्तिका᳓ऽऽह᳓लमि᳓ति स᳓र्पति ।  
+आ᳓हतङ् गभे᳓ प᳓सो नि᳓ जल्गुलीति धा᳓णिका ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -419,7 +417,7 @@ She seeketh not wealth for prosperity....
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अम्बे॒ अम्बा॒ल्य् अम्बि॑के॒ न मा॑ यभति॒ कश्च॒न । स॒सस्त्य॑श्व॒कः ।
+अ᳓म्बे अ᳓म्बाल्य् अ᳓म्बिके न᳓ मा यभति क᳓श्चन᳓ । सस᳓स्त्यश्वकः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -440,8 +438,8 @@ She seeketh not wealth for prosperity....
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा॒ता च॑ ते पि॒ता च॒ ते , ऽग्रव्ँ॑ वृ॒क्षस्य॑ रोहतः । [49]  
-प्र सु॑ला॒मीति॑ ते पि॒ता ग॒भे मु॒ष्टिम् अ॑तँसयत् ।
+माता᳓ च ते पिता᳓ च ते᳓ , ऽग्रव्ँ वृक्ष᳓स्य रोहतः । [49]  
+प्र᳓ सुलामी᳓ति ते पिता᳓ गभे᳓ मुष्टि᳓म् अतँसयत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -467,7 +465,7 @@ She seeketh not wealth for prosperity....
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द॒धि॒क्राव्ण्णो॑ अकारिषञ् जि॒ष्णोर् अश्व॑स्य वा॒जिनः॑ ।
+दधिक्रा᳓व्ण्णो अकारिषञ् जिष्णो᳓र् अ᳓श्वस्य वाजि᳓नः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -483,7 +481,7 @@ The swift strong horse.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒र॒भि नो॒ मुखा॑ कर॒त्प्र ण॒ आयूँ॑षि तारिषत् ।
+सुरभि᳓ नो मु᳓खा करत्प्र᳓ ण आ᳓यूँषि तारिषत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -514,8 +512,8 @@ May he lengthen our days.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आपो॒ हि ष्ठा म॑यो॒भुव॒स् , ता न॑ ऊ॒र्जे द॑धातन ।  
-म॒हे रणा॑य॒ चक्ष॑से ।
+आ᳓पो हि᳓ ष्ठा᳓ मयोभु᳓वस् , ता᳓ न ऊर्जे᳓ दधातन ।  
+महे᳓ र᳓णाय च᳓क्षसे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -533,9 +531,9 @@ To see great joy.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो व॑श् शि॒वत॑मो॒ रस॒स्
-तस्य॑ भाजयते॒ह नः॑ ।  
-उ॒श॒तीरि॑व मा॒तरः॑ ।
+यो᳓ वश् शिव᳓तमो र᳓सस्
+त᳓स्य भाजयतेह᳓ नः ।  
+उशती᳓रिव मात᳓रः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -554,8 +552,8 @@ Like eager mothers.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒ अर॑ङ् गमाम वो॒ , यस्य॒ क्षया॑य॒ जिन्व॑थ ।
-आपो॑ ज॒नय॑था च नः ॥ [50]
+त᳓स्मा अ᳓रङ् गमाम वो , य᳓स्य क्ष᳓याय जि᳓न्वथ ।
+आ᳓पो जन᳓यथा च नः ॥ [50]
 </details>
 
 <details><summary>Keith</summary>

@@ -11,11 +11,10 @@ ____
 सान्नाय्य-पात्राणि प्रोक्षति
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/shundhadhvam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/shundhadhvam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पात्राणि!)+++ शुन्ध॑ध्व॒न् दैव्या॑य॒ कर्म॑णे देवय॒ज्यायै॑ ।
++++(पात्राणि!)+++ शु᳓न्धध्वन् दै᳓व्याय क᳓र्मणे देवयज्या᳓यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -37,7 +36,6 @@ Be ye pure for the divine rite, the sacrifice to the gods.
 
 1सान्नाय्यपात्राणि प्रोक्षति - शुन्धध्वमिति ॥ शुन्ध शुद्धौ, उदात्तेत्, व्यत्ययेनात्मनेपदम् । यद्वा, शुन्ध शौचकर्मणि ; अस्माण्ण्यन्तात्कर्मकर्तर्यात्मनेपदम् । 'यक्चिणोः प्रतिषेधे णि श्रन्धिग्रन्थि' (पा.सू. 3.1.89 वा 1) इत्यादिना यक्प्रतिषेधः । 'बहुलं संज्ञाछन्दसोः' (उ.सू. 190) इति णिलुक् । लसार्वधातुकानुदात्तत्वे (पा.सू. 6.1.186) धातुस्वरः । देवानामिदं दैव्यं 'देवाद्यञञौ' (पा.सू. 4.1.85 वा 3) इति यञ्प्रत्ययः प्राग्दीव्यतीयः । ञित्त्वादाद्युदात्तत्वं । 'छन्दसि निष्टर्क्य' (पा.सू. 3.1.123) इत्यादौ देवयज्याशब्दो यप्रत्ययान्तो निपातितः । हे पात्राणि देवयज्यात्मने दैव्याय कर्मणे शुन्धध्वं शुद्धानि भवत, स्वयमेवात्मानं शोधयतेति वा । प्राधान्यख्यापनार्था देवशब्दावृत्तिः, साकल्यार्था वा, यथा 'निधीनां त्वा निधिपतिं हवामहे' (तै.सं. 7.4.12) इति ॥
 </details>
-
 </div>  
 
 ____
@@ -49,7 +47,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(अङ्गार!!)+++ मा॒त॒रि-श्व॑नो घ॒र्मो॑ +++(→अ॒न्तरि॑क्षम्)+++ ऽसि ।  
++++(अङ्गार!!)+++ मातरि᳓-श्वनो घर्मो᳙ +++(→अन्त᳓रिक्षम्)+++ ऽसि ।  
 +++(मातरि सर्वस्य परिच्छेदके अन्तरिक्षे शेत इति मातरिश्वा ।  निपातनसामर्थ्यादेव सप्तम्या उदात्तत्वं । )+++
 </details>
 
@@ -87,8 +85,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे स्थालि!)+++ द्यौर् अ॑सि +++(तत्स्रोतोत्वात्)+++।    
-पृ॒थि॒व्य् अ॑सि ।
++++(हे स्थालि!)+++ द्यौ᳓र् असि +++(तत्स्रोतोत्वात्)+++।    
+पृथिव्य् अ᳙सि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -104,8 +102,8 @@ Thou art the heaven, thou art the earth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒श्व-धा॑या+++(=धारकम्)+++ +++(अन्तरिक्षम्/ वृष्टिर्)+++ असि  
-पर॒मेण॒ धाम्ना॑।    
+विश्व᳓-धाया+++(=धारकम्)+++ +++(अन्तरिक्षम्/ वृष्टिर्)+++ असि  
+परमे᳓ण धा᳓म्ना।    
 +++('दिवश्च ह्येषा पृथिव्याश्च संभृता' (तै.ब्रा. 3.2.3) इति ब्राह्मणम् । )+++
 </details>
 
@@ -136,12 +134,11 @@ Thou art the all-supporting with the highest support.
 
 ____
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/dRMhasva.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/dRMhasva.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दृँह॑स्व+++(=दृढा भव)+++।  
-मा ह्वाः॑+++(=कुटिला भूः)+++।
+दृँ᳓हस्व+++(=दृढा भव)+++।  
+मा᳓ ह्वाः+++(=कुटिला भूः)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -169,7 +166,6 @@ Be firm, waver not.
 
 दृंहस्व वर्धस्व दृढा भव । दृहदृहि वृद्धौ, व्यत्ययेनात्मनेपदम् । केचिदाहुर्वर्धनायां वर्तत इति । यद्वा - दृंहगा इतिवत् ण्यन्तात्कर्मकर्तर्यात्मनेपदम् । पूर्ववद्यक्प्रतिषेधादि (पा.सू. 3.1.89 वा 1) । मा ह्वाः मा कुटिला भूः । ह्वृ कौटिल्ये, लुङ्मध्यमपुरुषैकवचने, सिचि वृद्धौ, 'बहुळं छन्दसि' (पा.सू. 7.3.97) इतीडभावे, हल्ङ्यादिलोपे 'रात्सस्य' (पा.सू. 8.2.24) इति सकारलोपः । अत्र 'चादिलोपे विभाषा' (पा.सू. 8.1.63) इति प्रथमा तिङ्विभक्तिर्न निहन्यते दृंह॑स्व॒ मा ह्वाः॒ इति ॥
 </details>
-
 </div>
 
 ____
@@ -181,9 +177,9 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वसू॑नाम्+++(→वासहेतुत्वात् धनानां/ प्राणानां)+++ प॒वित्र॑म् असि ।    
-श॒त-धा॑रव्ँ॒+++(=प्रकारं)+++ वसू॑नाम् प॒वित्र॑म् असि ,  
- स॒हस्र॑-धारम् +++(प॒वित्र॑म् असि, प्रा॒णेष्व् ए॒वायु॑र् दधामि)+++ ।
+व᳓सूनाम्+++(→वासहेतुत्वात् धनानां/ प्राणानां)+++ पवि᳓त्रम् असि ।    
+शत᳓-धारव्ँ+++(=प्रकारं)+++ व᳓सूनाम् पवि᳓त्रम् असि ,  
+ सह᳓स्र-धारम् +++(पवि᳓त्रम् असि, प्राणे᳓ष्व् एवा᳓युर् दधामि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -225,10 +221,10 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(दोहनकाले पात्राद् बहिर् निपतितः)+++  
-हु॒तस् स्तो॒को+++(=अल्पो)+++ +++(बिन्दुः)+++,  
-हु॒तो द्र॒प्सो॑ +++(बिन्दुः [प्रति॑ष्ठित्यै, ह॒विषो ऽस्क॑न्दाय])+++,  
-+++(न हि हु॒तँ स्वाहा॑कृतँ॒ स्कन्द॑ति । )+++  
-ऽग्नये॑ बृह॒ते +++(दिवि वर्तमानाय)+++ नाका॑य॒+++(=न+अकाय=नासुखाय)+++ 
+हुत᳓स् स्तोको᳓+++(=अल्पो)+++ +++(बिन्दुः)+++,  
+हुतो᳓ द्रप्सो᳙ +++(बि᳓न्दुः᳓ [प्र᳓तिष्ठित्यै, हवि᳓षो᳓ ऽस्कन्दाय])+++,  
++++(न᳓ हि᳓ हुतँ᳓ स्वा᳓हाकृतँ स्क᳓न्दति । )+++  
+ऽग्न᳓ये बृहते᳓ +++(दिवि वर्तमानाय)+++ ना᳓काय+++(=न+अकाय=नासुखाय)+++ 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -255,11 +251,10 @@ Hail to sky and earth!
 अल्पो बिन्दुस्तोको महान्बिन्दुर्द्रप्सः । दोहनकालेऽमहान्बिन्दुः पात्राद्वहिर्निपतितस्स्तोकः, स हुतोस्तु देवतोद्देशेन परित्यक्तोस्तु । द्रप्सोपि हि हुतोस्तु । कस्मै । अग्नये बृहते नाकाय नाकनाम्ने । कं सुखं, तदस्य नास्तीत्यकः तस्मादन्यो नाकः । 'नभ्राण्नपात्' (पा.सू. 6.3.75) इति निपातितः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) । 'बृहन्महतोरुपसङ्ख्यानम्' (पा.सू. 6.1.173 वा 1) इति बृहतः परस्याजादेर्विभक्तेरुदात्तत्वम् । 'दिवि नाको नामाग्निः' (तै.ब्रा. 3.2.3) इत्यादि ब्राह्मणम् । एवं हुतोस्त्विति सङ्कल्पेन हविषोस्कन्नता क्रियते ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/svAhA.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/svAhA.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(इति)+++ स्वाहा॑ +++(←स्वा वाग् आह)+++।  
++++(इति)+++ स्वा᳓हा +++(←स्वा वाग् आह)+++।  
 +++(निपाता आद्युदात्ताः।)+++
 </details>
 
@@ -277,12 +272,11 @@ Hail to sky and earth!
 
 कः पुनरित्थं वदतीत्याह, **स्वाहा** स्वयमेव सरस्वती, **आह** ब्रूते । 'स्वैव ते वाग् इत्य् अब्रवीत्' (तै.ब्रा. 2.1.2) इत्यादि ब्राह्मणम् । स्वयमेवाहेत्य् अस्यार्थस्य द्योतकोयं निपातः । **आह** स्वेत्यस्य प्रतिलोमपाठे स्वाहेति भवति । निपाता आद्युदात्ताः (फि.सू. 80) ।
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्यावा॑-पृथि॒वीभ्या॑म् +++(च)+++ ।
+द्या᳓वा-पृथिवी᳓भ्याम् +++(च)+++ ।
 
 +++(स्वाहा सरस्वतीति - 'स्वैव ते वागित्यब्रवीत्' (तै.ब्रा. 2.1.2) इत्यादि ब्राह्मणम् ।)+++
 </details>
@@ -311,7 +305,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा वि॒श्वायुः॑ +++(पृथिवी)+++ ।  
+सा᳓ विश्वा᳓युः +++(पृथिवी)+++ ।  
 +++('इयं वै विश्वायुः' (तै.ब्रा. 3.2.3) इत्यादि ब्राह्मणम् ॥)+++
 </details>
 
@@ -344,7 +338,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा वि॒श्वव्य॑चाः +++(अन्तरिक्षम्)+++।  
+सा᳓ विश्व᳓व्यचाः +++(अन्तरिक्षम्)+++।  
 +++(अन्तरिक्षं विश्वव्यचाः (तै.ब्रा. 3.2.3) ॥)+++
 </details>
 
@@ -377,7 +371,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा वि॒श्वक॑र्मा +++(द्युलोकः)+++।
+सा᳓ विश्व᳓कर्मा +++(द्युलोकः)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -407,19 +401,16 @@ ____
 9गोदोहन-संक्षालनीया अपः पयस्यानयति - संपृच्यध्वमिति गायत्र्या ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/57_sampRchyadhvam_RtAvarIr.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/57_sampRchyadhvam_RtAvarIr.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-+++(पयसा)+++ सम्पृ॑च्यध्वम् ऋतावरीर्+++(=ऋतवत्यः)+++  
-उ॒र्मिणी॒र् मधु॑मत्तमाः +++(आपः)+++।  
-म॒न्द्रा+++(=मादयित्र्यः)+++ धन॑स्य सा॒तये॑+++(=लाभाय)+++ ।
++++(पयसा)+++ स᳓म्पृच्यध्वम् ऋतावरीर्+++(=ऋतवत्यः)+++  
+उर्मि᳓णीर् म᳓धुमत्तमाः +++(आपः)+++।  
+मन्द्रा᳓+++(=मादयित्र्यः)+++ ध᳓नस्य सात᳓ये+++(=लाभाय)+++ ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/57_sampRchyadhvam_RtAvarIr.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/57_sampRchyadhvam_RtAvarIr.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -447,7 +438,6 @@ Delightful for the gaining of wealth.
 किमर्थं सम्पृच्यत इत्याह धनस्येति । धनस्य सान्नाय्यलक्षणस्य । सातये लाभाय । धनवनषणसम्भक्तौ, 'जनसनखनां सञ्झलोः' (पा.सू. 6.4.42) इत्यात्वम् । 'ऊतियूति' (पा.सू. 3.3.97) इत्यादिना क्तिन्प्रत्ययान्तोऽन्तोदात्तो निपातितः । युष्मत्सम्पर्के हि तत्सिद्धिरिति भावः ॥
 </details>
 </details>
-
 </div>
 
 ____
@@ -459,7 +449,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमे॑न॒ +++(सान्नाय्यरूपेण)+++ त्वा ऽऽत॑न॒च्मीन्द्रा॑य॒ दधि॑ +++(सोम-पीथत्व-सन्तानाय)+++।
+सो᳓मेन +++(सान्नाय्यरूपेण)+++ त्वा᳓ ऽऽतनच्मी᳓न्द्राय द᳓धि +++(सोम-पीथत्व-सन्तानाय)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -491,7 +481,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॑ ह॒व्यँ र॑क्षस्व ॥ [4]
+वि᳓ष्णो हव्यँ᳓ रक्षस्व ॥ [4]
 </details>
 
 <details><summary>Keith</summary>

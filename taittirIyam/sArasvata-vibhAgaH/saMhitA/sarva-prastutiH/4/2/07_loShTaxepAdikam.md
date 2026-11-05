@@ -19,8 +19,7 @@ title = "०७ लोष्टक्षेपादिकम्"
  १९२२ कर्षणे ये लोष्टाः परिमितक्षेत्राद्वहिः पतन्ति तान्पुनरन्तः पातयोदित्यर्थः ।    तत्र प्रथमामाह— मा नो हिँसीदिति ।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/09_mA_no.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/09_mA_no.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 मा᳓ नो हिंसीज् जनिता᳓ यः᳓ पृथिव्या᳓  
@@ -28,11 +27,17 @@ title = "०७ लोष्टक्षेपादिकम्"
 य᳓श् चाप᳓श् चन्द्रा᳓ बृहती᳓र् जजा᳓न  
 क᳓स्मै देवा᳓य हवि᳓षा विधेम
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/09_mA_no.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/121/09_mA_no.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+मा नो॑ हिंसीज्जनि॒ता यः पृ॑थि॒व्या यो वा॒ दिवं॑ स॒त्यध॑र्मा ज॒जान॑ ।  
+यश्चा॒पश्च॒न्द्रा बृ॑ह॒तीर्ज॒जान॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/09_mA_no.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कः
@@ -363,7 +368,6 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 
 पदार्थान्वयभाषाः -  (यः) यः खलु (पृथिव्याः-जनिता) भूमेरुत्पादयिता (वा) अथ च “वा समुच्चयार्थे” [निरु० १।५] (यः) यो हि (सत्यधर्मा) सत्यनियमवान् (दिवं जजान) द्युलोकमुत्पादयति (च) अपि च (यः) यः खलु (बृहतीः-चन्द्राः-आपः-जजान) महतीराह्लादकारिणीरन्तरिक्षविभक्तिर्नक्षत्रयुताः ‘आपोऽन्तरिक्षनाम” [निघ० १।३] उत्पादयति (कस्मै....) पूर्ववत् ॥९॥
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -373,8 +377,8 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भ्याव॑र्तस्व पृथिवि य॒ज्ञेन॒ पय॑सा स॒ह ।  
-व॒पान्ते॑ अ॒ग्निरि॑षि॒तोऽव॑ सर्पतु ।  
+अभ्या᳓वर्तस्व पृथिवि यज्ञे᳓न प᳓यसा सह᳓ ।  
+वपा᳓न्ते अग्नि᳓रिषितो᳓ऽव सर्पतु ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -395,8 +399,8 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॒ यत्ते॑ शु॒क्रय्ँयच्च॒न्द्रय्ँयत्पू॒तय्ँयद्य॒ज्ञिय॑म् ।  
-तद्दे॒वेभ्यो॑ भरामसि ।  
+अ᳓ग्ने य᳓त्ते शुक्रय्ँ᳓य᳓च्चन्द्रय्ँ᳓य᳓त्पूतय्ँ᳓य᳓द्यज्ञि᳓यम् ।  
+त᳓द्देवे᳓भ्यो भरामसि ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -417,8 +421,8 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इष॒मूर्ज॑म॒हमि॒त आ [29]  द॒द॒ ऋ॒तस्य॒ धाम्नो॑ अ॒मृत॑स्य॒ योनेः॑ ।  
-आ नो॒ गोषु॑ विश॒त्वौष॑धीषु॒ जहा॑मि से॒दिमनि॑रा॒ममी॑वाम् ।  
+इ᳓षमू᳓र्जमह᳓मित᳓ आ᳓ [29]  दद ऋत᳓स्य धा᳓म्नो अमृ᳓तस्य यो᳓नेः ।  
+आ᳓ नो गो᳓षु विशत्वौ᳓षधीषु ज᳓हामि सेदि᳓म᳓निराम᳓मीवाम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -444,8 +448,8 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॒ तव॒ श्रवो॒ वयो॒ महि॑ भ्राजन्त्य॒र्चयो॑ विभावसो ।  
-बृह॑द्भानो॒ शव॑सा॒ वाज॑मु॒क्थ्य॑न्दधा॑सि दा॒शुषे॑ कवे ।  
+अ᳓ग्ने त᳓व श्र᳓वो व᳓यो म᳓हि भ्राजन्त्यर्च᳓यो विभावसो ।  
+बृ᳓हद्भानो श᳓वसा वा᳓जमुक्थ्य᳙न्द᳓धासि दाशु᳓षे कवे ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -466,8 +470,8 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒र॒ज्यन्न॑ग्ने प्रथयस्व ज॒न्तुभि॑र॒स्मे रायो॑ अमर्त्य ।  
-स द॑र्श॒तस्य॒ वपु॑षो॒ वि रा॑जसि पृ॒णक्षि॑ सान॒सिँ र॒यिम् ।  
+इरज्य᳓न्नग्ने प्रथयस्व जन्तु᳓भिरस्मे᳓ रा᳓यो अमर्त्य ।  
+स᳓ दर्शत᳓स्य व᳓पुषो वि᳓ राजसि पृण᳓क्षि सानसिँ᳓ रयि᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -488,8 +492,8 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊर्जो॑ नपा॒ज्जात॑वेदस्सुश॒स्तिभि॒र्मन्द॑स्व [30]  धी॒तिभि॑र्हि॒तः ।  
-त्वे इष॒स्सन्द॑धु॒र्भूरि॑रेतसश्चि॒त्रोत॑यो वा॒मजा॑ताः ।  
+ऊ᳓र्जो नपाज्जा᳓तवेदस्सुशस्ति᳓भिर्म᳓न्दस्व [30]  धीति᳓भिर्हितः᳓ ।  
+त्वे᳓ इ᳓षस्स᳓न्दधुर्भू᳓रिरेतसश्चित्रो᳓तयो वाम᳓जाताः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -510,8 +514,8 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पा॒व॒कव॑र्चाश्शु॒क्रव॑र्चा॒ अनू॑नवर्चा॒ उदि॑यर्षि भा॒नुना॑ ।  
-पु॒त्रᳶ पि॒तरा॑ वि॒चर॒न्नुपा॑वस्यु॒भे पृ॑णक्षि॒ रोद॑सी ।  
+पावक᳓वर्चाश्शुक्र᳓वर्चा अ᳓नूनवर्चा उ᳓दियर्षि भानु᳓ना ।  
+पुत्रᳶ᳓ पित᳓रा विच᳓रन्नु᳓पावस्युभे᳓ पृणक्षि रो᳓दसी ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -532,8 +536,8 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒तावा॑नम्महि॒षव्ँवि॒श्वच॑र्षणिम॒ग्निँ सु॒म्नाय॑ दधिरे पु॒रो जनाः॑ ।  
-श्रुत्क॑र्णँ स॒प्रथ॑स्तमन्त्वा गि॒रा दैव्य॒म्मानु॑षा यु॒गा ।  
+ऋता᳓वानम्महिषव्ँ᳓विश्व᳓चर्षणिमग्निँ᳓ सुम्ना᳓य दधिरे पुरो᳓ ज᳓नाः ।  
+श्रु᳓त्कर्णँ सप्र᳓थस्तमन्त्वा गिरा᳓ दै᳓व्यम्मा᳓नुषा युगा᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -554,8 +558,8 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नि॒ष्क॒र्तार॑मध्व॒रस्य॒ प्रचे॑तस॒ङ्क्षय॑न्तँ॒ राध॑से म॒हे ।  
-रा॒तिम्भृगू॑णामु॒शिज॑ङ्क॒विक्र॑तुम्पृ॒णक्षि॑ सान॒सिम् [31]  र॒यिम् ।  
+निष्कर्ता᳓रमध्वर᳓स्य प्र᳓चेतसङ्क्ष᳓यन्तँ रा᳓धसे महे᳓ ।  
+राति᳓म्भृ᳓गूणामुशि᳓जङ्कवि᳓क्रतुम्पृण᳓क्षि सानसि᳓म् [31]  रयि᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -587,8 +591,8 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चित॑स्स्थ , परि॒चित॑ +++(स्थ)+++, ऊर्ध्व॒चित॑ः +++(स्थ)+++ , श्रयध्व॒म् ,
- तया॑ दे॒वत॑याङ्गिर॒स्वद्ध्रु॒वास्सी॑दत ।
+चि᳓तस्स्थ , परिचि᳓त +++(स्थ)+++, ऊर्ध्वचि᳓तः +++(स्थ)+++ , श्रयध्वम् ,
+ त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓स्सीदत ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -619,8 +623,8 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ प्या॑यस्व॒ समे॑तु ते वि॒श्वत॑स्सोम॒ वृष्णि॑यम् ।  
-भवा॒ वाज॑स्य सङ्ग॒थे ।
+आ᳓ प्यायस्व स᳓मेतु ते विश्व᳓तस्सोम वृ᳓ष्णियम् ।  
+भ᳓वा वा᳓जस्य सङ्गथे᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -649,8 +653,8 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सन्ते॒ पयाँ॑सि॒ समु॑ यन्तु॒ वाजा॒स्सव्ँवृष्णि॑यान्यभिमाति॒षाहः॑ ।  
-आ॒प्याय॑मानो अ॒मृता॑य सोम दि॒वि श्रवाँ॑स्युत्त॒मानि॑ धिष्व ॥ [32]  
+स᳓न्ते प᳓याँसि स᳓मु यन्तु वा᳓जास्सव्ँ᳓वृ᳓ष्णियान्यभिमातिषा᳓हः ।  
+आप्या᳓यमानो अमृ᳓ताय सोम दिवि᳓ श्र᳓वाँस्युत्तमा᳓नि धिष्व ॥ [32]  
 </details>
 
 <details><summary>मूलम्</summary>

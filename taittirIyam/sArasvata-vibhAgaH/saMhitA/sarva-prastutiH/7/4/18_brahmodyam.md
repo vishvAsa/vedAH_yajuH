@@ -1,6 +1,5 @@
 +++
 title = "१८ ब्रह्मोद्यम्"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -10,20 +9,17 @@ title = "१८ ब्रह्मोद्यम्"
 विश्वेदेवा ऋषयः
 </details>
 
-
 <details><summary>विश्वास-टिप्पनी</summary>
 
 अथ होतुः प्रश्नाः ब्रह्मणः प्रतिवचानानि।  
 मुक्तसमये तत्त्वज्ञानं खलु विमृशेयुर् यागेष्व् इति शिष्टाः। 
 </details>
 
-
-
 ## द्यव्य् अश्वावी
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किँ स्वि॑द् आसीत् पू॒र्व-चि॑त्ति॒ᳶ+++(=ज्ञानम्)+++,
+किँ᳓ स्विद् आसीत् पूर्व᳓-चित्तिᳶ+++(=ज्ञानम्)+++,
 </details>
 
 <details><summary>Keith</summary>
@@ -38,7 +34,7 @@ What was the first conception?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किँ स्वि॑द् आसीद् बृ॒हद् वयः॑+++(=पक्षी)+++ ।
+किँ᳓ स्विद् आसीद् बृह᳓द् व᳓यः+++(=पक्षी)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -53,7 +49,7 @@ What was the great age?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किँ स्वि॑द् आसीत् पिशङ्गि॒ला+++(=नानावर्णा)+++ ,
+किँ᳓ स्विद् आसीत् पिशङ्गिला᳓+++(=नानावर्णा)+++ ,
 </details>
 
 <details><summary>Keith</summary>
@@ -68,7 +64,7 @@ What was the tawny one?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किँ स्वि॑द् आसीत् पिलिप्पि॒ला+++(=प्रीणयित्री)+++ ।
+किँ᳓ स्विद् आसीत् पिलिप्पिला᳓+++(=प्रीणयित्री)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -95,7 +91,7 @@ What was the smooth one?
 2अथ उत्तराणि - द्यौरित्यादीनि ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>द्यौर् आ॑सीत् पू॒र्व-चि॑त्ति॒र् ,</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>द्यौ᳓र् आसीत् पूर्व᳓-चित्तिर् ,</details>
 
 <details><summary>Keith</summary>
 
@@ -109,7 +105,7 @@ The sky was the first conception.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अश्व॑+++(=दधिक्रावा प्रोषपदासु)+++ आसीद् बृ॒हद् वयः॑+++(=सूर्यः)+++ ।
+अ᳓श्व+++(=दधिक्रावा प्रोषपदासु)+++ आसीद् बृह᳓द् व᳓यः+++(=सूर्यः)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -122,7 +118,7 @@ The horse was the great age.
 अश्व॑ आसीद् बृ॒हद् वयः॑ ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>रात्रि॑र् आसीत् पिशङ्गि॒ला,</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>रा᳓त्रिर् आसीत् पिशङ्गिला᳓,</details>
 
 <details><summary>Keith</summary>
 
@@ -136,7 +132,7 @@ The night was the tawny one.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऽवि॑र्+++(=मेषराशिः)+++ आसीत् पिलिप्पि॒ला ।
+ऽवि᳓र्+++(=मेषराशिः)+++ आसीत् पिलिप्पिला᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -160,12 +156,11 @@ The sheep was the smooth one.
 द्यौः पूर्वचित्तिः चित्यानां मुख्यत्वात् देवैर्ज्ञातव्यत्वाच्च । तस्य च साधनं अश्वो बृहद्वयः । तेन हि सकृदिष्ट्वा वरामुच्छ्रितिं प्राप्य पुनरन्यत्स्थानं भोगार्थमिच्छतीति तस्य निमित्तकारणम् । रात्रिः पिशङ्गिला सा हि रूपाणां छादयित्री स्वयं च प्रकाशाप्रकाशव्यामिश्ररूपा, तारकाभिरन्धकारेण च समन्वितत्वात्, अहर्मिश्रत्वाद्वा । अथ तस्याप्यभिवृद्धिकारणं अविः पिलिप्पिला अवति विश्वमित्यविः वृष्टिः । आदित्यप्रभवा श्रीर्वा । सा हि जगत् भृशं प्रीणयति ज्वलयति च 'श्रीर्वै पिलिप्पिला' इति च ब्राह्मणम् ॥
 </details>
 
-
 ## सूर्यचन्द्राग्नि-भूमयः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कस् स्वि॑द् एका॒की च॑रति॒ ,
+क᳓स् स्विद् एकाकी᳓ चरति ,
 </details>
 
 <details><summary>Keith</summary>
@@ -180,7 +175,7 @@ Who moveth alone?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क उ॑ स्विज् जायते॒ पुनः॑ ।
+क᳓ उ स्विज् जायते पु᳓नः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -195,8 +190,8 @@ Who too is born again?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किँ स्वि॑द् हि॒मस्य॑ भेष॒जङ् ,  
-किँ स्वि॑द् आ॒वप॑नम् म॒हत् ।
+किँ᳓ स्विद् हिम᳓स्य भेषज᳓ङ् ,  
+किँ᳓ स्विद् आव᳓पनम् मह᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -217,14 +212,12 @@ What is the great enveloper?
 सर्वो हि कदाचिद् एकाकी चरति । प्रकृतत्वाच्च वृष्टेः प्रवर्तयिता एकाकी चरतीति । क एव खलु पुनर्जायते अत्रापि सामर्थ्यात् पुनःपुनरिति गम्यते । सर्वोपि हि मृत्वा पुनर्जायते । प्रकृतत्वाच्चादित्यवशात् पुनःपुनर्जायत इति । किं नु खलु हिमस्य शैत्यस्य भेषनं निवर्तकं प्रकृतत्वाच्च चन्द्रमसोत्पादितस्य । किन्नु खलु महदावपनं आवापस्थानं उप्यन्ते अस्मिन्नित्यावपनम्॥
 </details>
 
-
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथोत्तराणि - सूर्य इत्यादीनि ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>सूर्य॑ एका॒की च॑रति ,</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>सू᳓र्य एकाकी᳓ चरति ,</details>
 
 <details><summary>Keith</summary>
 
@@ -236,7 +229,7 @@ The sun moveth alone [1].
 सूर्य॑ एका॒की च॑रति ,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>च॒न्द्रमा॑ जायते॒ पुनः॑ ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>चन्द्र᳓मा जायते पु᳓नः ।</details>
 
 <details><summary>Keith</summary>
 
@@ -248,7 +241,7 @@ The moon is born again.
 च॒न्द्रमा॑ जायते॒ पुनः॑ ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>अ॒ग्निर् हि॒मस्य॑ भेष॒जम् ,</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>अग्नि᳓र् हिम᳓स्य भेषज᳓म् ,</details>
 
 <details><summary>Keith</summary>
 
@@ -262,7 +255,7 @@ Fire is the remedy for the cold.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूमि॑र् +++(ओषध्यादीनां)+++ आ॒वप॑नम् म॒हत् ।
+भू᳓मिर् +++(ओषध्यादीनां)+++ आव᳓पनम् मह᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -280,8 +273,6 @@ Earth is the great enveloper.
 सूर्योऽसहायः सर्वदा दिवि चरति । सेनान्यादीनामनुपलम्भात् असहायत्वं मन्यन्ते । चन्द्रमाः पुनःपुनरादित्याज्जायते । तदुत्पादितस्य हिमस्याग्निर्भेषजम् । तत्सृष्टानामोषध्यादीनां भूमिरावपनमिति ॥
 </details>
 
-
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5एवं भूम्यन्तानि प्रश्नप्रतिवचनानि । अधुना भूमेर् आरभ्य प्रश्नाः क्रियन्ते -  
@@ -290,7 +281,7 @@ Earth is the great enveloper.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒च्छामि॑ त्वा॒ पर॒म् अन्त॑म् पृथि॒व्याᳶ ,
+पृच्छा᳓मि त्वा प᳓रम् अ᳓न्तम् पृथिव्याᳶ᳓ ,
 </details>
 
 <details><summary>Keith</summary>
@@ -305,7 +296,7 @@ I ask thee of the furthest end of the earth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒च्छामि॑ त्वा॒ भुव॑नस्य॒ नाभि॑म् ।
+पृच्छा᳓मि त्वा भु᳓वनस्य ना᳓भिम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -320,7 +311,7 @@ I ask thee of the navel of the world.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒च्छामि॑ त्वा॒ वृष्णो॒ अश्व॑स्य॒ रेतᳶ॑ ,
+पृच्छा᳓मि त्वा वृ᳓ष्णो अ᳓श्वस्य रे᳓तᳶ ,
 </details>
 
 <details><summary>Keith</summary>
@@ -335,7 +326,7 @@ I ask thee of the seed of the strong horse.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒च्छामि॑ वा॒चᳶ प॑र॒मव्ँ व्यो॑म ।
+पृच्छा᳓मि वाचᳶ᳓ परमव्ँ᳓ व्योम ।
 </details>
 
 <details><summary>Keith</summary>
@@ -348,7 +339,6 @@ I ask thee of speech's highest realm.
 पृ॒च्छामि॑ वा॒चᳶ प॑र॒मव्ँ व्यो॑म ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे ब्रह्म त्वां **पृच्छामि पृथिव्याः परमन्तं** यत्र सर्वा पृथिवी समाप्ता । अथ तत्र प्रतिष्ठितां भुवनस्य नाभिं पृच्छामि यत्र प्रतिबद्धं सर्वं जीवति स नाभिः 'नहोभश्च' इतीङ्प्रत्ययः । हेतुं च पृच्छामि तस्य वृष्णो वर्षितुरश्वस्य व्यापकस्य किं रेतः यतस्सर्वं जायते । अथ तच्च पृच्छामि वाचो वेदात्मिकायाः ऋगादेः तस्य रेतसो विधात्र्याः किं परमं व्योम प्रकृष्टं रक्षास्थानं सर्गप्रतिसर्गनिबन्धनं व्योमेति । विपूर्वादवतेः मन्प्रत्ययः, 'ज्वरत्वरस्रिव्यविमवाम्' इत्यादिना ऊठि गुणः ॥
@@ -359,7 +349,7 @@ I ask thee of speech's highest realm.
 6अथोत्तराणि वेदिमित्यादीनि ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>वेदि॑म् आहु॒ᳶ पर॒म् अन्त॑म् पृथि॒व्या ,</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>वे᳓दिम् आहुᳶ प᳓रम् अ᳓न्तम् पृथिव्या᳓ ,</details>
 
 <details><summary>Keith</summary>
 
@@ -371,7 +361,7 @@ They call the altar-ground the furthest end of the earth.
 वेदि॑माहु॒ᳶ पर॒मन्त॑म् पृथि॒व्या ,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>य॒ज्ञम् आ॑हु॒र् भुव॑नस्य॒ नाभि॑म् ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>यज्ञ᳓म् आहुर् भु᳓वनस्य ना᳓भिम् ।</details>
 
 <details><summary>Keith</summary>
 
@@ -383,7 +373,7 @@ They call the sacrifice the navel of the world.
 य॒ज्ञमा॑हु॒र् भुव॑नस्य॒ नाभि॑म् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>सोम॑म् आहु॒र् वृष्णो॒ अश्व॑स्य॒ रेतो॒ ,</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>सो᳓मम् आहुर् वृ᳓ष्णो अ᳓श्वस्य रे᳓तो ,</details>
 
 <details><summary>Keith</summary>
 
@@ -397,7 +387,7 @@ They call Soma the seed of the strong horse.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मै॒व वा॒चᳶ प॑र॒मव्ँ व्यो॑म ॥ [46]+++(5)+++
+ब्र᳓ह्मैव᳓ वाचᳶ᳓ परमव्ँ᳓ व्योम ॥ [46]+++(5)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -410,7 +400,6 @@ They call Soma the seed of the strong horse.
 ब्रह्मै॒व वा॒चᳶ प॑र॒मव्ँ व्यो॑म ॥ [46]
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **पृथिव्याः परमन्तं वेदिमाहुः** ब्रह्मवादिनः  
@@ -422,5 +411,4 @@ They call Soma the seed of the strong horse.
 </details>
 
 इति सप्तमे चतुर्थे अष्टादशोनुवाकः ॥  
-
 

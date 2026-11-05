@@ -1,6 +1,5 @@
 +++
 title = "०८ नम॑ इरि॒ण्या॑य"
-
 +++
 अग्निर्ऋषिः
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -15,7 +14,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑ इरि॒ण्या॑य च
+न᳓म इरिण्या᳙य च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -32,7 +31,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒प॒थ्या॑य च +++(नमः)+++॥
+प्रपथ्या᳙य च +++(नमः)+++॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -52,7 +51,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑ᳵ किँशि॒लाय॑ च
+न᳓मᳵ किँशिला᳓य च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -67,7 +66,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षय॑णाय च +++(नमः)+++।
+क्ष᳓यणाय च +++(नमः)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -87,7 +86,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑ᳵ कप॒र्दिने॑ च
+न᳓मᳵ कपर्दि᳓ने च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -102,7 +101,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पु॒ल॒स्तये॑ च  +++(नमः)+++।
+पुलस्त᳓ये च  +++(नमः)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -122,7 +121,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॒  गोष्ठ्या॑य च
+न᳓मो  गो᳓ष्ठ्याय च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -137,7 +136,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गृह्या॑य च +++(नमः)+++।
+गृ᳓ह्याय च +++(नमः)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -157,7 +156,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॒स्तल्प्या॑य च
+न᳓मस्त᳓ल्प्याय च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -172,7 +171,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गेह्या॑य च +++(नमः)+++।
+गे᳓ह्याय च +++(नमः)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -192,7 +191,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑ᳵ का॒ट्या॑य च
+न᳓मᳵ काट्या᳙य च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -207,7 +206,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ग॒ह्व॒रे॒ष्ठाय॑ च +++(नमः)+++।
+गह्वरेष्ठा᳓य च +++(नमः)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -227,7 +226,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ ह्रद॒य्या॑य च
+न᳓मो ह्रदय्या᳙य च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -243,7 +242,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नि॒वे॒ष्प्या॑य च +++(नमः)+++ ।
+निवेष्प्या᳙य च +++(नमः)+++ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -264,7 +263,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमᳶ॑ पाँस॒व्या॑य च ।
+न᳓मᳶ पाँसव्या᳙य च ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -279,7 +278,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒ज॒स्या॑य च  +++(नमः)+++ ।
+रजस्या᳙य च  +++(नमः)+++ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -299,7 +298,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॒श्शुष्क्या॑य च
+न᳓मश्शु᳓ष्क्याय च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -314,7 +313,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ह॒रि॒त्या॑य च +++(नमः)+++
+हरित्या᳙य च +++(नमः)+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -334,7 +333,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॒  लोप्या॑य च
+न᳓मो  लो᳓प्याय च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -349,7 +348,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒ल॒प्या॑य च +++(नमः)+++।
+उलप्या᳙य च +++(नमः)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -369,7 +368,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑ ऊ॒र्व्या॑य च
+न᳓म ऊर्व्या᳙य च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -384,7 +383,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सू॒र्म्या॑य च +++(नमः)+++।
+सूर्म्या᳙य च +++(नमः)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -404,7 +403,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमᳶ॑ प॒र्ण्या॑य च ।
+न᳓मᳶ पर्ण्या᳙य च ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -419,7 +418,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒र्ण॒श॒द्या॑य च  +++(नमः)+++
+पर्णशद्या᳙य च  +++(नमः)+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -440,7 +439,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ऽपगु॒रमा॑णाय च।
+न᳓मोऽपगुर᳓माणाय च।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -455,7 +454,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भि॒घ्न॒ते च॑ +++(नमः)+++।
+अभिघ्नते᳓ च +++(नमः)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -475,7 +474,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑ आक्खिद॒ते च॑  
+न᳓म आक्खिदते᳓ च  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -490,7 +489,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒क्खि॒द॒ते च॑  +++(नमः)+++।  
+प्रक्खिदते᳓ च  +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -505,7 +504,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ वᳵ किरि॒केभ्यो॑ दे॒वानाँ॒ हृद॑येभ्यः ।  
+न᳓मो वᳵ किरिके᳓भ्यो देवा᳓नाँ हृ᳓दयेभ्यः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -520,7 +519,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ विक्षीण॒केभ्यः॑ ।  
+न᳓मो विक्षीणके᳓भ्यः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -535,7 +534,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ विचिन्व॒त्केभ्यः॑ ।  
+न᳓मो विचिन्वत्के᳓भ्यः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -550,7 +549,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑ आनिर्ह॒तेभ्यः॑ ।  
+न᳓म आनिर्हते᳓भ्यः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -565,7 +564,7 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑ आमीव॒त्केभ्यः॑ ॥  
+न᳓म आमीवत्के᳓भ्यः ॥  
 </details>
 
 <details><summary>मूलम्</summary>

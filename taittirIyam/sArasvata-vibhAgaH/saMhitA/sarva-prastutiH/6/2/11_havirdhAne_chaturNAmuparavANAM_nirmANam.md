@@ -1,6 +1,5 @@
 +++
 title = "११ हविर्धाने चतुर्णामुपरवाणां निर्माणम््"
-
 +++
 
 सोमऋषिः
@@ -12,7 +11,7 @@ title = "११ हविर्धाने चतुर्णामुपरव
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शिरो॒ वा ए॒तद्य॒ज्ञस्य॒ यद्ध॑वि॒र्धान॑म्प्रा॒णा उ॑पर॒वाः ।  
+शि᳓रो वा᳓ एत᳓द्यज्ञ᳓स्य य᳓द्धविर्धा᳓नम्प्राणा᳓ उपरवाः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -27,7 +26,7 @@ The oblation-holder is the head of the sacrifice, the sounding holes are the vit
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ह॑वि॒र्धाने॑ खायन्ते॒ ,
+ह᳓विर्धा᳓ने खायन्ते ,
 </details>
 
 <details><summary>Keith</summary>
@@ -42,7 +41,7 @@ They are dug in the oblation-holder;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑च् छी॒र्षन् प्रा॒णाः ।  
+त᳓स्माच् छीर्ष᳓न् प्राणाः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -57,7 +56,7 @@ therefore. the vital airs are in the head.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒धस्ता॑त् खायन्ते॒ ,
+अध᳓स्तात् खायन्ते ,
 </details>
 
 <details><summary>Keith</summary>
@@ -72,7 +71,7 @@ They are dug below;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् अ॒धस्ता॑च् छी॒र्ष्णᳶ प्रा॒णाः ।
+त᳓स्माद् अध᳓स्ताच् छीर्ष्णᳶ᳓ प्राणाः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -108,7 +107,7 @@ therefore the vital airs are below the head.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॑क्षो॒हणो॑ वलग॒हनो॑ वैष्ण॒वान् ख॑ना॒मीत्या॑ह ।  
+र᳓क्षोह᳓णो वलगह᳓नो वैष्णवा᳓न् खनामी᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -123,7 +122,7 @@ therefore the vital airs are below the head.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वै॒ष्ण॒वा हि दे॒वत॑योपर॒वाः ।
+वैष्णवा᳓ हि᳓ देव᳓तयोपरवाः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -154,7 +153,7 @@ for the sounding-holes have Visnu for their deity.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असु॑रा॒ वै नि॒र्यन्तो॑ दे॒वाना॑म् प्रा॒णेषु॑ वल॒गान्न्य॑खनन् ।  
+अ᳓सुरा वै᳓ निर्य᳓न्तो देवा᳓नाम् प्राणे᳓षु वलगा᳓न्न्यखनन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -169,7 +168,7 @@ The Asuras in retreat dug in spells against the vital airs of the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तान् बा॑हुमा॒त्रे ऽन्व॑विन्दन् ।  
+ता᳓न् बाहुमात्रे᳓ ऽन्वविन्दन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -184,7 +183,7 @@ they found them at the distance of an arm;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् बाहुमा॒त्राᳶ खा॑यन्ते ।  
+त᳓स्माद् बाहुमात्राᳶ᳓ खायन्ते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -218,7 +217,7 @@ therefore they are dug an arm's length deep.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒दम॒हन् तव्ँ व॑ल॒गम् उद्व॑पामि ।[56]  
+इद᳓मह᳓न् तव्ँ᳓ वलग᳓म् उ᳓द्वपामि ।[56]  
 </details>
 
 <details><summary>Keith</summary>
@@ -233,7 +232,7 @@ therefore they are dug an arm's length deep.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन्न॑स् समा॒नो यमस॑मानो निच॒खानेत्या॑ह ।  
+य᳓न्नस् समानो᳓ य᳓म᳓समानो निचखा᳓ने᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -248,7 +247,7 @@ which an equal or an unequal hath buried', he says;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वौ वाव पुरु॑षौ॒ यश् चै॒व स॑मा॒नो यश् चास॑मानः ।  
+द्वौ᳓ वा᳓व᳓ पु᳓रुषौ य᳓श् चैव᳓ समानो᳓ य᳓श् चा᳓समानः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -263,7 +262,7 @@ there are two sorts of men, the equal and the unequal;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यमे॒वास्मै॒ तौ व॑ल॒गन् नि॒खन॑त॒स् , तमे॒वोद्व॑पति ।  
+य᳓मेवा᳓स्मै तौ᳓ वलग᳓न् निख᳓नतस् , त᳓मेवो᳓द्वपति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -296,7 +295,7 @@ verily whatever spell they dig against him he thus casts out.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सन्तृ॑णत्ति ।  
+स᳓न्तृणत्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -311,7 +310,7 @@ He unites them;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒त् सन्तृ॑ण्णा अन्तर॒तᳶ प्रा॒णाः ।
+त᳓स्मात् स᳓न्तृण्णा अन्तरतᳶ᳓ प्राणाः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -342,7 +341,7 @@ therefore the vital airs are united within.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न सम्भि॑नत्ति ।  
+न᳓ स᳓म्भिनत्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -357,7 +356,7 @@ He does not combine them;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒दस॑म्भिन्नाᳶ प्रा॒णाः ।
+त᳓स्माद᳓सम्भिन्नाᳶ प्राणाः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -389,7 +388,7 @@ therefore the vital airs are not combined.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पोऽव॑ नयति ।
+अपो᳓ऽव नयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -404,7 +403,7 @@ He pours water over;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् आ॒र्द्रा अ॑न्तर॒तᳶ प्रा॒णाः ।
+त᳓स्माद् आर्द्रा᳓ अन्तरतᳶ᳓ प्राणाः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -419,7 +418,7 @@ therefore the vital airs are moist within.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यव॑मती॒रव॑ नयति ।[57]  
+य᳓वमतीर᳓व नयति ।[57]  
 </details>
 
 <details><summary>Keith</summary>
@@ -434,7 +433,7 @@ therefore the vital airs are moist within.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊर्ग्वै यव॑ᳶ , प्रा॒णा उ॑पर॒वाᳶ ,
+ऊ᳓र्ग्वै᳓ य᳓वᳶ , प्राणा᳓ उपरवाᳶ᳓ ,
 </details>
 
 <details><summary>Keith</summary>
@@ -449,7 +448,7 @@ barley is strength, the sounding-holes are the vital airs;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णेष्वे॒वोर्ज॑न् दधाति ।  
+प्राणे᳓ष्वेवो᳓र्जन् दधाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -484,7 +483,7 @@ verily he places strength in the vital airs.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिरव॑ स्तृणाति ।  
+बर्हि᳓र᳓व स्तृणाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -499,7 +498,7 @@ He spreads over the strew;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑ल् लोम॒शा अ॑न्तर॒तᳶ प्रा॒णाः ।
+त᳓स्माल् लोमशा᳓ अन्तरतᳶ᳓ प्राणाः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -530,7 +529,7 @@ therefore the vital airs are hairy within.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आज्ये॑न॒ व्याघा॑रयति ।
+आ᳓ज्येन व्या᳓घारयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -545,7 +544,7 @@ He besprinkles (the holes) with butter;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेजो॒ वा आज्य॑म् ।  
+ते᳓जो वा᳓ आ᳓ज्यम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -560,7 +559,7 @@ butter is brilliance,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णा उ॑पर॒वाᳶ , प्रा॒णेष्वे॒व तेजो॑ दधाति ।
+प्राणा᳓ उपरवाᳶ᳓ , प्राणे᳓ष्वेव᳓ ते᳓जो दधाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -575,13 +574,11 @@ the sounding-holes are the vital airs; verily he places brilliance in the vital 
 
 <details><summary>पद-पाठः</summary>
 
-
 आज्ये॑न । व्याघा॑रय॒तीति॑ वि-आघा॑रयति ।   
 तेजः॑ । वै । आज्य॑म् ।   
 प्रा॒णा इति॑ प्र-अ॒नाः । उ॒प॒र॒वा इत्यु॑प-र॒वाः ।   
 प्रा॒णेष्विति॑ प्र-अ॒नेषु॑ । ए॒व । तेजः॑ । द॒धा॒ति॒ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -595,7 +592,7 @@ the sounding-holes are the vital airs; verily he places brilliance in the vital 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हनू॒ वा ए॒ते य॒ज्ञस्य॒ यद॑धि॒षव॑णे ।  
+ह᳓नू वा᳓ एते᳓ यज्ञ᳓स्य य᳓दधिष᳓वणे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -610,7 +607,7 @@ The pressing-boards are the jaws of the sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न सन्तृ॑ण॒त्ति ।
+न᳓ स᳓न्तृणत्ति᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -625,7 +622,7 @@ he does not join them,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस॑न्तृण्णे॒ हि हनू ।  
+अ᳓सन्तृण्णे हि᳓ ह᳓नू᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -640,7 +637,7 @@ for the jaws are not joined;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ खलु॑ दीर्घसो॒मे स॒न्तृद्ये॒ , धृत्यै॒ ।  
+अ᳓थो ख᳓लु दीर्घसोमे᳓ सन्तृ᳓द्ये , धृ᳓त्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -674,7 +671,7 @@ or rather at a long Soma sacrifice they should be joined, for firmness.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शिरो॒ वा ए॒तद् य॒ज्ञस्य॒ यद्ध॑वि॒र्धान॑म् ।[58]  
+शि᳓रो वा᳓ एत᳓द् यज्ञ᳓स्य य᳓द्धविर्धा᳓नम् ।[58]  
 </details>
 
 <details><summary>Keith</summary>
@@ -689,7 +686,7 @@ The oblation-holder is the head of the sacrifice [3],
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णा उ॑पर॒वाः ।
+प्राणा᳓ उपरवाः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -704,7 +701,7 @@ the sounding-holes are the vital airs,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हनू॑ अधि॒षव॑णे , जि॒ह्वा चर्म॒ , ग्रावा॑णो॒ दन्ता॒ , मुख॑माहव॒नीयो॒ , नासि॑कोत्तरवे॒दिर् उ॒दरँ॒ सदः॑ ।  
+ह᳓नू अधिष᳓वणे , जिह्वा᳓ च᳓र्म , ग्रा᳓वाणो द᳓न्ता , मु᳓खमाहवनी᳓यो , ना᳓सिकोत्तरवेदि᳓र् उद᳓रँ स᳓दः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -719,7 +716,7 @@ the pressing-boards the jaws, the skin the tongue, the pressing-stones the teeth
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒दा खलु॒ वै जि॒ह्वया॑ द॒त्स्वधि॒ खाद॒त्यथ॒ मुख॑ङ् गच्छति ।
+यदा᳓ ख᳓लु वै᳓ जिह्व᳓या दत्स्व᳓धि खा᳓दत्य᳓थ मु᳓खङ् गच्छति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -734,7 +731,7 @@ When he eats with his tongue on his teeth, (the food) goes to the mouth;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒दा मुख॒ङ् गच्छ॒त्यथो॒दर॑ङ् गच्छति ।  
+यदा᳓ मु᳓खङ् ग᳓च्छत्य᳓थोद᳓रङ् गच्छति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -749,7 +746,7 @@ when it goes to the mouth, then it goes to the stomach,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द्धवि॒र्धाने॒ चर्म॒न्नधि॒ ग्राव॑भिरभि॒षुत्य् - आ॑हव॒नीये॑ हु॒त्वा प्र॒त्यञ्च॑ᳶ प॒रेत्य॒ सद॑सि भक्षयन्ति ।
+त᳓स्माद्धविर्धा᳓ने च᳓र्मन्न᳓धि ग्रा᳓वभिरभिषु᳓त्य् - आहवनी᳓ये हुत्वा᳓ प्रत्य᳓ञ्चᳶ परे᳓त्य स᳓दसि भक्षयन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -783,7 +780,7 @@ therefore they press (the juice) with the pressing-stones on the oblation-holder
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै वि॒राजो॑ यज्ञमु॒खे दोहव्ँ॒ वेद॑ ।
+यो᳓ वै᳓ विरा᳓जो यज्ञमुखे᳓ दो᳓हव्ँ वे᳓द ।
 </details>
 
 <details><summary>Keith</summary>
@@ -798,7 +795,7 @@ He who knows the milking of the Viraj in
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दु॒ह ए॒वैना॑म् । इ॒यव्ँ वै वि॒राट् ।
+दुह᳓ एवै᳓नाम् । इयव्ँ᳓ वै᳓ विरा᳓ट् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -830,7 +827,7 @@ the mouth of the sacrifice milks her;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्यै॒ त्वक् चर्मोधो॑ऽधि॒षव॑णे॒ स्तना॑ उपर॒वा ग्रावा॑णो व॒त्सा ऋ॒त्विजो॑ दुहन्ति॒ सोम॒ᳶ पयः॑ ।  
+त᳓स्यै त्व᳓क् च᳓र्मो᳓धोऽधिष᳓वणे स्त᳓ना उपरवा᳓ ग्रा᳓वाणो वत्सा᳓ ऋत्वि᳓जो दुहन्ति सो᳓मᳶ प᳓यः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -845,7 +842,7 @@ the Viraj is this (cow), the skin is its hide, the pressing-boards its udder, th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वेद॑ दु॒ह ए॒वैना॑म् ॥ [59]  
+य᳓ एवव्ँ᳓ वे᳓द दुह᳓ एवै᳓नाम् ॥ [59]  
 </details>
 
 <details><summary>Keith</summary>

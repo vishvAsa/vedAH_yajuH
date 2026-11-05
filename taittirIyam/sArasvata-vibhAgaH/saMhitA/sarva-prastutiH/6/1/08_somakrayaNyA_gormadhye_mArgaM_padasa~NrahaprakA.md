@@ -1,6 +1,5 @@
 +++
 title = "०८ सोमक्रयण्या गोर्मध्ये मार्गं पदसङ्रहप्रकारः"
-
 +++
 
 सोमऋषिः  
@@ -12,7 +11,7 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-षट्प॒दान्यनु॒ नि क्रा॑मति ।
+ष᳓ट्पदा᳓न्य᳓नु नि᳓ क्रामति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -27,7 +26,7 @@ He follows six steps.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ष॒ड॒हव्ँ वाङ्नाति॑ वदति ।  
+षडहव्ँ᳓ वा᳓ङ्ना᳓ति वदति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -42,7 +41,7 @@ Speech does not speak beyond the sixth day.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒त सव्ँ॑वत्स॒रस्याय॑ने॒ याव॑त्ये॒व वाक् , तामव॑ रुन्धे ।
+उत᳓ सव्ँवत्सर᳓स्या᳓यने या᳓वत्येव᳓ वा᳓क् , ता᳓म᳓व रुन्धे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -74,7 +73,7 @@ He wins speech in the size in which she is found in the path of the year.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्त॒मे प॒दे जु॑होति ।
+सप्तमे᳓ पदे᳓ जुहोति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -89,8 +88,8 @@ He offers in the seventh footprint.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्तप॑दा॒ शक्व॑री ।  
-प॒शव॒श् शक्व॑री ।
+सप्त᳓पदा श᳓क्वरी ।  
+पश᳓वश् श᳓क्वरी ।
 </details>
 
 <details><summary>Keith</summary>
@@ -106,7 +105,7 @@ The Śakvari has seven feet, the Śakvari is cattle;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒शून् ए॒वाव॑ रुन्धे ।  
+पशू᳓न् एवा᳓व रुन्धे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -121,8 +120,8 @@ verily he wins cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्त ग्रा॒म्याᳶ प॒शव॑स् , स॒प्तार॒ण्यास् , स॒प्त छन्दाँ॑सि ।  
-उ॒भय॒स्याव॑रुध्यै ।
+सप्त᳓ ग्राम्याᳶ᳓ पश᳓वस् , सप्ता᳓रण्या᳓स् , सप्त᳓ छ᳓न्दाँसि ।  
+उभ᳓यस्या᳓वरुध्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -161,7 +160,7 @@ There are seven domesticated animals, and seven wild; there are seven metres to 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"वस्व्य॑सि रु॒द्रासी"त्या॑ह ।
+"व᳓स्व्यसि रुद्रा᳓सी᳓"त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -176,7 +175,7 @@ There are seven domesticated animals, and seven wild; there are seven metres to 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रू॒पमे॒वास्या॑ ए॒तन् म॑हि॒मानव्ँ॒ व्याच॑ष्टे। [54]  
+रूप᳓मेवा᳓स्या एत᳓न् महिमा᳓नव्ँ व्या᳓चष्टे। [54]  
 </details>
 
 <details><summary>Keith</summary>
@@ -208,7 +207,7 @@ verily thus by her form he expounds her greatness [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"बृह॒स्पति॑स्त्वा सु॒म्ने र॑ण्व॒त्वि"त्या॑ह ।
+"बृ᳓हस्प᳓तिस्त्वा सुम्ने᳓ रण्वत्वि᳓"त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -223,7 +222,7 @@ verily thus by her form he expounds her greatness [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म॒ वै दे॒वाना॒म् बृह॒स्पतिः॑ ।  
+ब्र᳓ह्म वै᳓ देवा᳓नाम् बृ᳓हस्प᳓तिः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -238,7 +237,7 @@ Brhaspati is the holy power of the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म॑णै॒वास्मै॑ प॒शूनव॑ रुन्धे ।  
+ब्र᳓ह्मणैवा᳓स्मै पशू᳓न᳓व रुन्धे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -253,7 +252,7 @@ verily by means of the holy power be wins cattle for him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"रु॒द्रो वसु॑भि॒र् आ चि॑के॒त्वि"त्या॑ह । आवृ॑त्त्यै ।
+"रुद्रो᳓ व᳓सुभिर् आ᳓ चिकेत्वि᳓"त्याह । आ᳓वृत्त्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -288,7 +287,7 @@ verily by means of the holy power be wins cattle for him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒थि॒व्यास् त्वा॑ मू॒र्धन्न् आ जि॑घर्मि देव॒यज॑न॒ इत्या॑ह ।
+पृथिव्या᳓स् त्वा मूर्ध᳓न्न् आ᳓ जिघर्मि देवय᳓जन इ᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -303,7 +302,7 @@ verily by means of the holy power be wins cattle for him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒थि॒व्या ह्ये॑ष मू॒र्धा , यद् दे॑व॒यज॑नम् ।
+पृथिव्या᳓ ह्येष मूर्धा᳓ , य᳓द् देवय᳓जनम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -318,7 +317,7 @@ for the place of sacrifice is the head of the earth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"इडा॑याᳶ प॒द "इत्या॑ह ।
+"इ᳓डायाᳶ पद᳓ "इ᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -333,7 +332,7 @@ for the place of sacrifice is the head of the earth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इडा॑यै॒ ह्ये॑तत् प॒दय्ँ यत्सो॑म॒क्रय॑ण्यै ।
+इ᳓डायै ह्ये᳙तत् पदय्ँ᳓ य᳓त्सोमक्र᳓यण्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -348,7 +347,7 @@ for the foot of the cow by which the Soma is bought is the abode of the offering
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"घृ॒तव॑ति॒ स्वाहा॑" इत्या॑ह ।[55]
+"घृत᳓वति स्वा᳓हा" इ᳓त्याह ।[55]
 </details>
 
 <details><summary>Keith</summary>
@@ -363,7 +362,7 @@ for the foot of the cow by which the Soma is bought is the abode of the offering
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदे॒वास्यै॑ प॒दाद् घृ॒तमपी॑ड्यत॒ तस्मा॑द् ए॒वमा॑ह ।
+य᳓देवा᳓स्यै पदा᳓द् घृत᳓म᳓पीड्यत त᳓स्माद् एव᳓माह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -400,8 +399,8 @@ Because it was from her foot that ghee was pressed out, he says thus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद॑ध्व॒र्युर॑न॒ग्नावाहु॑तिञ्जुहु॒यात् ।
-अ॒न्धो॑ऽध्व॒र्युस् स्या॒द् , रक्षाँ॑सि य॒ज्ञँ ह॑न्युः ।  
+य᳓दध्वर्यु᳓रनग्ना᳓वा᳓हुतिञ्जुहुया᳓त् ।
+अन्धो᳙ऽध्वर्यु᳓स् स्याद् , र᳓क्षाँसि यज्ञँ᳓ हन्युः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -417,7 +416,7 @@ If the Adhvaryu were to offer a libation where there were no fire, the Adhvaryu 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हिर॑ण्यमु॒पास्य॑ जुहोति । अ॒ग्नि॒वत्ये॒व जु॑होति ।
+हि᳓रण्यमुपा᳓स्य जुहोति । अग्निव᳓त्येव᳓ जुहोति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -432,7 +431,7 @@ He offers after putting down the gold; verily he offers in that which has fire,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नान्धो॑ऽध्व॒र्युर्भव॑ति॒ ,
+ना᳓न्धोऽध्वर्यु᳓र्भ᳓वति ,
 </details>
 
 <details><summary>Keith</summary>
@@ -447,7 +446,7 @@ the Adhvaryu does not become blind, and the Raksases.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न य॒ज्ञँ रक्षाँ॑सि घ्नन्ति ।
+न᳓ यज्ञँ᳓ र᳓क्षाँसि घ्नन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -482,7 +481,7 @@ do not destroy the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-काण्डे॑काण्डे॒ वै क्रि॒यमा॑णे य॒ज्ञँ रक्षाँ॑सि जिघाँसन्ति ।  
+का᳓ण्डेकाण्डे वै᳓ क्रिय᳓माणे यज्ञँ᳓ र᳓क्षाँसि जिघाँसन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -497,8 +496,8 @@ As each part is performed, the Raksases are fain to injure the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परि॑लिखितँ॒ रक्ष॒ᳶ परि॑लिखिता॒ अरा॑तय॒ इत्या॑ह ।
-रक्ष॑सा॒मप॑हत्यै ।[56]  
+प᳓रिलिखितँ र᳓क्षᳶ प᳓रिलिखिता अ᳓रातय इ᳓त्याह ।
+र᳓क्षसाम᳓पहत्यै ।[56]  
 </details>
 
 <details><summary>Keith</summary>
@@ -514,7 +513,7 @@ As each part is performed, the Raksases are fain to injure the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"इ॒दम॒हँ रक्ष॑सो ग्री॒वा अपि॑ कृन्तामि॒ , यो॑ऽस्मान् द्वेष्टि॒ यञ्च॑ व॒यन् द्वि॒ष्म" इत्या॑ह ।
+"इद᳓महँ᳓ र᳓क्षसो ग्रीवा᳓ अ᳓पि कृन्तामि , यो᳙ऽस्मान् द्वेष्टि य᳓ञ्च वय᳓न् द्विष्म᳓" इ᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -554,7 +553,7 @@ As each part is performed, the Raksases are fain to injure the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वौ वाव पुरु॑षौ॒ यञ्चै॒व द्वेष्टि॒ यश् चै॑न॒न् द्वेष्टि॑ ।
+द्वौ᳓ वा᳓व᳓ पु᳓रुषौ य᳓ञ्चैव᳓ द्वे᳓ष्टि य᳓श् चैनन् द्वे᳓ष्टि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -569,7 +568,7 @@ There are two persons, one whom he hates and one who hates him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तयो॑र् ए॒वान॑न्तरायङ् ग्री॒वाᳵ कृ॑न्तति ।
+त᳓योर् एवा᳓नन्तरायङ् ग्रीवाᳵ᳓ कृन्तति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -601,7 +600,7 @@ verily successively he cuts their necks.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒शवो॒ वै सो॑म॒क्रय॑ण्यै प॒दम् ।
+पश᳓वो वै᳓ सोमक्र᳓यण्यै पद᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -616,7 +615,7 @@ The foot of the cow with which the Soma is bought is cattle;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याँ॑वत्त्मू॒तँ सव्ँव॑पति ,
+याँ᳓वत्त्मूतँ᳓ सव्ँ᳓वपति ,
 </details>
 
 <details><summary>Keith</summary>
@@ -631,7 +630,7 @@ he pours (the dust of the footprint) so far as it is mixed with the ghee;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒शून् ए॒वाव॑ रुन्धे ।  
+पशू᳓न् एवा᳓व रुन्धे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -646,7 +645,7 @@ verily he wins cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒स्मे राय॒" इति॒ सव्ँ व॑पति ।
+"अस्मे᳓ रा᳓य" इ᳓ति सव्ँ᳓ वपति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -661,7 +660,7 @@ verily he wins cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒त्मान॑म् ए॒वाध्व॒र्युᳶ प॒शुभ्यो॒ नान्तरे॑ति ।[57]  
+आत्मा᳓नम् एवा᳓ध्वर्युᳶ᳓ पशु᳓भ्यो ना᳓न्त᳓रेति ।[57]  
 </details>
 
 <details><summary>Keith</summary>
@@ -676,8 +675,8 @@ verily the Adhvaryu [4] does not deprive himself of cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"त्वे राय॒" इति॒ यज॑मानाय॒ प्र य॑च्छति ।  
-यज॑मान ए॒व र॒यिन्द॑धाति ।
+"त्वे᳓ रा᳓य" इ᳓ति य᳓जमानाय प्र᳓ यच्छति ।  
+य᳓जमान एव᳓ रयि᳓न्दधाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -693,7 +692,7 @@ Saying 'Thine be wealth', he hands it to the sacrificer, and so bestows wealth o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"तोते॒ राय॒" इति॒ , पत्नि॑यै ।  
+"तो᳓ते रा᳓य" इ᳓ति , प᳓त्नियै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -708,8 +707,8 @@ Saying 'Thine be wealth', (the sacrificer hands it) to his wife.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒र्धो वा ए॒ष आ॒त्मनो॒ यत्पत्नी॑ ।
-यथा॑ गृ॒हेषु॑ निध॒त्ते , ता॒दृग् ए॒व तत् ।
+अर्धो᳓ वा᳓ एष᳓ आत्म᳓नो य᳓त्प᳓त्नी ।
+य᳓था गृहे᳓षु निधत्ते᳓ , तादृ᳓ग् एव᳓ त᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -778,7 +777,7 @@ For a wife is the half of oneself, and to do so is as it were to deposit it in o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"त्वष्टी॑मती ते सपे॒ये"त्या॑ह ।  
+"त्व᳓ष्टीमती ते सपेये᳓"त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -793,7 +792,7 @@ For a wife is the half of oneself, and to do so is as it were to deposit it in o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वष्टा॒ वै प॑शू॒नाम् मि॑थु॒नानाँ॑ रूप॒कृत् ।  
+त्व᳓ष्टा वै᳓ पशूना᳓म् मिथुना᳓नाँ रूपकृ᳓त् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -808,7 +807,7 @@ Tvastr is the maker of the forms of offspring, of pairings;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रू॒पमे॒व प॒शुषु॑ दधाति ।
+रूप᳓मेव᳓ पशु᳓षु दधाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -840,11 +839,11 @@ verily he places form in cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒स्मै वै लो॒काय॒ गार्ह॑पत्य॒ आ धी॑यते॒ ऽमुष्मा॑ आहव॒नीयः॑ ।  
-यद्गार्ह॑पत्य उप॒वपे॑द् , अ॒स्मिल्ँ  लो॒के +++(यजमानः)+++ प॑शु॒मान्त् स्यात् ।  
-यदा॑हव॒नीये॒ ऽमुष्मिल्ँ॑ लो॒के प॑शु॒मान्त्स्या॑त् ।  
-उ॒भयो॒र् उप॑ वपति ।
-उ॒भयो॑रे॒वैनल्ँ॑ लो॒कयोः॑ पशु॒मन्त॑ङ् करोति +++(यजमानम्।)+++॥ [58]  
+अस्मै᳓ वै᳓ लोका᳓य गा᳓र्हपत्य आ᳓ धीयते ऽमु᳓ष्मा आहवनी᳓यः ।  
+य᳓द्गा᳓र्हपत्य उपव᳓पेद् , अस्मिल्ँ᳓  लोके᳓ +++(यजमानः)+++ पशुमा᳓न्त् स्या᳓त् ।  
+य᳓दाहवनी᳓ये ऽमु᳓ष्मिल्ँ लोके᳓ पशुमा᳓न्त्स्यात् ।  
+उभ᳓योर् उ᳓प वपति ।
+उभ᳓योरेवै᳓नल्ँ लोक᳓योः पशुम᳓न्तङ् करोति +++(यजमानम्।)+++॥ [58]  
 </details>
 
 <details><summary>Keith</summary>
@@ -879,4 +878,3 @@ For this world the
 
 इति षष्ठे प्रथमे अष्टमोनुवाकः ॥  
 </details>
-

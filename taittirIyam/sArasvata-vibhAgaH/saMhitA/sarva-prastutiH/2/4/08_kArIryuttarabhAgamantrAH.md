@@ -1,6 +1,5 @@
 +++
 title = "०८ कारीर्युत्तरभागमन्त्राः"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -30,10 +29,9 @@ title = "०८ कारीर्युत्तरभागमन्त्र�
 तत्र प्रथमः - हे देवाः वसव्याः । 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवा॑ वसव्या॒ अग्ने॑ सोम सूर्य ।  
+दे᳓वा वसव्या अ᳓ग्ने सोम सूर्य ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -41,12 +39,10 @@ title = "०८ कारीर्युत्तरभागमन्त्र�
 (O gods rich in wealth, O Agni, Soma, Surya;)
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 देवा॑ वसव्या॒ अग्ने॑ सोम सूर्य ।  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -54,12 +50,27 @@ title = "०८ कारीर्युत्तरभागमन्त्र�
 ननु अग्ने इत्यनेन विशेषवचने व्यवधानं न स्यात् । नैष दोषः 'आमन्त्रितं पूर्वमविद्यमानवत्' इति तस्याविद्यमानवत्त्वात्, तेन स्याद्व्यवधानम् ॥
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/4/08_kArIryuttarabhAgamantrAH/ud_go_dattaH.md" unfilled newLevelForH1="5" includeTitle="false">  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/4/08_kArIryuttarabhAgamantrAH/ud_go_dattaH.md">
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+उद् गो᳓ दत्तोदधि᳓म् भिन्त  
+</details>
+
+<details><summary>Keith</summary>
+
+Give of the water,  
+cleave the holder of the waters;
+</details>
+
+<details><summary>मूलम्</summary>
+
+उ॒द्गो द॑त्तोद॒धिम् भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑ऽवत । 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒द्गो द॑त्तोऽद॒धिम्भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑ऽवत ।
+दिवᳶ᳓ पर्ज᳓न्याद् अन्त᳓रिक्षात् पृथिव्या᳓स्  
+त᳓तो नो वृ᳓ष्ट्याऽवत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -69,15 +80,14 @@ from the sky, from Parjanya, from the atmosphere, from the earth, thence do ye h
 
 <details><summary>मूलम्</summary>
 
-उ॒द्गो द॑त्तोऽद॒धिम्भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑ऽवत ।
+दि॒वᳶ प॒र्जन्या॑द् अ॒न्तरि॑क्षात् पृथि॒व्यास्  
+ततो॑ नो॒ वृष्ट्या॑ऽवत ।  
 </details>
-
 </div>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवाः॑ शर्मण्या॒ मित्रा॑वरुणार्यमन् ।  
+दे᳓वाः शर्मण्या मि᳓त्रावरुणार्यमन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -95,12 +105,27 @@ O gods granting protection, O Mitra and Varuna, Aryaman;
 2अथ द्वितीयः - देवाः शर्मण्याः शरण्याः शरणभावे साधवः शर्मणे सुखाय वा गृहाय वा गृहीताः । हे मित्रावरुणौ हे अर्यमन् । पूर्ववत्स्वरः । उद्गो दत्तेत्यादि समानम् ॥
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/4/08_kArIryuttarabhAgamantrAH/ud_go_dattaH.md" unfilled newLevelForH1="5" includeTitle="false">  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/4/08_kArIryuttarabhAgamantrAH/ud_go_dattaH.md">
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+उद् गो᳓ दत्तोदधि᳓म् भिन्त  
+</details>
+
+<details><summary>Keith</summary>
+
+Give of the water,  
+cleave the holder of the waters;
+</details>
+
+<details><summary>मूलम्</summary>
+
+उ॒द्गो द॑त्तोद॒धिम् भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑ऽवत । 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒द्गो द॑त्तोऽद॒धिम्भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑ऽवत ।
+दिवᳶ᳓ पर्ज᳓न्याद् अन्त᳓रिक्षात् पृथिव्या᳓स्  
+त᳓तो नो वृ᳓ष्ट्याऽवत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -110,15 +135,14 @@ from the sky, from Parjanya, from the atmosphere, from the earth, thence do ye h
 
 <details><summary>मूलम्</summary>
 
-उ॒द्गो द॑त्तोऽद॒धिम्भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑ऽवत ।
+दि॒वᳶ प॒र्जन्या॑द् अ॒न्तरि॑क्षात् पृथि॒व्यास्  
+ततो॑ नो॒ वृष्ट्या॑ऽवत ।  
 </details>
-
 </div>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवाः॑ सपीत॒यो ऽपा॑न्नपाद् आशु-हेमन् ।
+दे᳓वाः सपीतयो᳓ ऽपान्नपाद् आशु-हेमन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -136,12 +160,27 @@ O gods who drink together, O son of the waters, with swift onset,
 3अथ तृतीयः - हे देवाः सपीतयः समानपानाः परस्परतः अस्माभिश्च सह हे अपां नपात् अपां चतुर्थ । 'सुबामन्त्रिते' इति पराङ्गवद्भावात् षष्ठ्यामन्त्रितसमुदायस्यामन्त्रिताद्युदात्तत्वम् । हे आशुहेमन् शीघ्रगते । हि गतौ, अन्येभ्योपि दृश्यते' इति मनिन् । प्रदर्शनार्थं द्वयोरुपादानम् । उद्गो दत्तेत्यादि । गतम् ॥
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/4/08_kArIryuttarabhAgamantrAH/ud_go_dattaH.md" unfilled newLevelForH1="5" includeTitle="false">  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/4/08_kArIryuttarabhAgamantrAH/ud_go_dattaH.md">
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+उद् गो᳓ दत्तोदधि᳓म् भिन्त  
+</details>
+
+<details><summary>Keith</summary>
+
+Give of the water,  
+cleave the holder of the waters;
+</details>
+
+<details><summary>मूलम्</summary>
+
+उ॒द्गो द॑त्तोद॒धिम् भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑ऽवत । 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒द्गो द॑त्तोऽद॒धिम्भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑ऽवत ।
+दिवᳶ᳓ पर्ज᳓न्याद् अन्त᳓रिक्षात् पृथिव्या᳓स्  
+त᳓तो नो वृ᳓ष्ट्याऽवत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -151,17 +190,16 @@ from the sky, from Parjanya, from the atmosphere, from the earth, thence do ye h
 
 <details><summary>मूलम्</summary>
 
-उ॒द्गो द॑त्तोऽद॒धिम्भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑ऽवत ।
+दि॒वᳶ प॒र्जन्या॑द् अ॒न्तरि॑क्षात् पृथि॒व्यास्  
+ततो॑ नो॒ वृष्ट्या॑ऽवत ।  
 </details>
-
 </div>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-दिवा॑ चि॒त्तम॑ᳵ कृण्वन्ति  
-प॒र्जन्ये॑नोदवा॒हेन॑ ।
-पृ॒थि॒वीय्ँ यद् व्यु॒न्दन्ति॑ ।
+दि᳓वा चित्त᳓मᳵ कृण्वन्ति  
+पर्ज᳓न्येनोदवाहे᳓न ।
+पृथिवीय्ँ᳓ य᳓द् व्युन्द᳓न्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -188,10 +226,9 @@ What time they inundate the earth.
 वि प॒र्जन्याः॑ सृजन्ति॒ रोद॑सी॒ अनु॒ धन्व॑ना यन्ति [21] वृ॒ष्टयः॑ ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ यन्नर॑स्सु॒दान॑वो ददा॒शुषे॑ दि॒वᳵ कोश॒मचु॑च्यवुः ।
+आ᳓ य᳓न्न᳓रस्सुदा᳓नवो ददाशु᳓षे दिवᳵ᳓ को᳓शम᳓चुच्यवुः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -206,7 +243,7 @@ The treasure-house of sky which the heroes rich in dew Make to shake for the gen
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि प॒र्जन्याः॑ सृजन्ति॒ रोद॑सी॒ अनु॒ धन्व॑ना यन्ति वृ॒ष्टयः॑ ।
+वि᳓ पर्ज᳓न्याः सृजन्ति रो᳓दसी अ᳓नु ध᳓न्वना यन्ति वृष्ट᳓यः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -226,7 +263,7 @@ The rains pour over the desert [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उदी॑रयथा मरुतस्समुद्र॒तो यू॒यव्ँवृ॒ष्टिव्ँव॑र्षयथा पुरीषिणः ।
+उ᳓दीरयथा मरुतस्समुद्रतो᳓ यूयव्ँ᳓वृष्टिव्ँ᳓वर्षयथा पुरीषिणः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -241,7 +278,7 @@ From the ocean, O Maruts, ye make (the rain) to start, Ye make the rain to fall,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न वो॑ दस्रा॒ उप॑ दस्यन्ति धे॒नवः ।
+न᳓ वो दस्रा उ᳓प दस्यन्ति धेन᳓वः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -256,7 +293,7 @@ Your cows, O ye wondrous, fail not;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शुभय्ँ॑या॒तामनु॒ रथा॑ अवृत्सत ।
+शु᳓भय्ँयाता᳓म᳓नु र᳓था अवृत्सत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -276,7 +313,7 @@ As ye fly swiftly your chariots turned.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सृ॒जा वृ॒ष्टिन्दि॒व आद्भिस्स॑मु॒द्रम्पृ॑ण ।
+सृजा᳓ वृष्टि᳓न्दिव᳓ आ᳓द्भि᳓स्समुद्र᳓म्पृण ।
 </details>
 
 <details><summary>Keith</summary>
@@ -297,7 +334,7 @@ With waters fill the ocean;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ब्जा अ॑सि प्रथम॒जा बल॑मसि समु॒द्रिय॑म् ।
+अब्जा᳓ असि प्रथमजा᳓ ब᳓लमसि समुद्रि᳓यम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -317,7 +354,7 @@ Thou art born of waters, first-born;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उन्न॑म्भय पृथि॒वीम्भि॒न्द्धीदन्दि॒व्यन्नभः॑ ।
+उ᳓न्नम्भय पृथिवी᳓म्भिन्द्धी᳓द᳓न्दिव्य᳓न्न᳓भः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -332,7 +369,7 @@ Flood the earth, Break this divine cloud;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒द्गो दि॒व्यस्य॑ नो दे॒हीशा॑नो॒ वि सृ॑जा॒ दृति॑म् ।
+उद्गो᳓ दिव्य᳓स्य नो देही᳓शानो वि᳓ सृजा दृ᳓तिम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -352,12 +389,12 @@ Give to us of the divine water, Ruling loosen the water bag.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये दे॒वा दि॒विभा॑गा॒ ..  
-ये॑ऽन्तरि॑क्षभागा॒ ..  
-ये पृ॑थि॒विभा॑गाः ।   
-त इ॒मय्ँ य॒ज्ञम॑वन्तु॒ ..  
-त इ॒दङ्क्षेत्र॒मा वि॑शन्तु॒ ..  
-त इ॒दङ्क्षेत्र॒मनु॒ वि वि॑शन्तु ॥ [22]
+ये᳓ देवा᳓ दिवि᳓भागा ..  
+ये᳙ऽन्त᳓रिक्षभागा ..  
+ये᳓ पृथिवि᳓भागाः ।   
+त᳓ इमय्ँ᳓ यज्ञ᳓मवन्तु ..  
+त᳓ इद᳓ङ्क्षे᳓त्रमा᳓ विशन्तु ..  
+त᳓ इद᳓ङ्क्षे᳓त्रम᳓नु वि᳓ विशन्तु ॥ [22]
 </details>
 
 <details><summary>Keith</summary>

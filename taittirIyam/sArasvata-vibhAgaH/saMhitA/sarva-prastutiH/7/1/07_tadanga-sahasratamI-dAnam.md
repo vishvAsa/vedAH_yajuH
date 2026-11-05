@@ -1,6 +1,5 @@
 +++
 title = "०७ तदङ्ग-सहस्रतमी-दानम्"
-
 +++
 ## अभिमन्त्रणम्
 
@@ -9,10 +8,9 @@ title = "०७ तदङ्ग-सहस्रतमी-दानम्"
 विश्वेदेवा ऋषयः
 </details>
 
- 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒ह॒स्र॒त॒म्या॑ वै यज॑मानस् सुव॒र्गल्ँ लो॒कम् ए॑ति ,
+सहस्रतम्या᳙ वै᳓ य᳓जमानस् सुवर्गल्ँ᳓ लोक᳓म् एति ,
 </details>
 
 <details><summary>Keith</summary>
@@ -27,7 +25,7 @@ By the thousandth the sacrifice goes to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सैनँ॑ सुव॒र्गल्ँ लो॒कङ् ग॑मयति ।
+सै᳓नँ सुवर्गल्ँ᳓ लोक᳓ङ् गमयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -53,8 +51,8 @@ She makes him go to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(उदीचीं नीयमानाम् अनुमन्त्रयते-)+++ "सा मा॑ सुव॒र्गल्ँ लो॒कङ् ग॑म॒ये"त्य् आ॑ह ,  
-सुव॒र्गम् ए॒वैनल्ँ॑ लो॒कङ् ग॑मयति ।  
++++(उदीचीं नीयमानाम् अनुमन्त्रयते-)+++ "सा᳓ मा सुवर्गल्ँ᳓ लोक᳓ङ् गमये᳓"त्य् आह ,  
+सुवर्ग᳓म् एवै᳓नल्ँ लोक᳓ङ् गमयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -67,6 +65,7 @@ She makes him go to the world of heaven.
 सा मा॑ सुव॒र्गल्ँ लो॒कङ् ग॑म॒येत्या॑ह ।  
 सु॒व॒र्गमे॒वैनल्ँ॑ लो॒कङ् ग॑मयति ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सा । मा॒ । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । ग॒म॒य॒ । इति॑ । आ॒ह॒ ।     
@@ -80,7 +79,7 @@ She makes him go to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा मा॒ ज्योति॑ष्मन्तल्ँ लो॒कङ् ग॑म॒येत्या॑ह। ज्योति॑ष्मन्तम् ए॒वैनल्ँ॑ लो॒कङ् ग॑मय॒ति।
+सा᳓ मा ज्यो᳓तिष्मन्तल्ँ लोक᳓ङ् गमये᳓त्याह। ज्यो᳓तिष्मन्तम् एवै᳓नल्ँ लोक᳓ङ् गमयति᳓।
 </details>
 
 <details><summary>Keith</summary>
@@ -95,7 +94,7 @@ She makes him go to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"सा मा॒ सर्वा॒न् +++(इन्द्रादीनां)+++ पुण्याल्ँ॑ लो॒कान् ग॑मये"त्य् आ॑ह॒ , सर्वा॑न् ए॒वैन॒म् पुण्याल्ँ॑  लो॒कान् ग॑मयति ।
+"सा᳓ मा स᳓र्वान् +++(इन्द्रादीनां)+++ पु᳓ण्याल्ँ लोका᳓न् गम᳓ये᳓"त्य् आह , स᳓र्वान् एवै᳓नम् पु᳓ण्याल्ँ  लोका᳓न् गमयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -124,7 +123,7 @@ She makes him go to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"सा मा॒ +++(लोकेऽस्मिन्)+++ प्र॒ति॒ष्ठाङ् ग॑मय । प्र॒जया॑ प॒शुभि॑स् स॒ह पुन॒र् मा वि॑शताद् र॒यिर्" इति॑ , प्र॒जयै॒वैन॑म् प॒शुभी॑ र॒य्याम् प्रति॑ ष्ठापयति ।
+"सा᳓ मा +++(लोकेऽस्मिन्)+++ प्रतिष्ठा᳓ङ् गमय । प्रज᳓या पशु᳓भिस् सह᳓ पु᳓नर् मा᳓ विशताद् रयि᳓र्" इ᳓ति , प्रज᳓यैवै᳓नम् पशु᳓भी रय्या᳓म् प्र᳓ति ष्ठापयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -139,13 +138,14 @@ She makes him go to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जावा॑न् पशु॒मान् र॑यि॒मान् भ॑वति, य ए॒वव्ँ वेद॑ ।
+प्रजा᳓वान् पशुमा᳓न् रयिमा᳓न् भवति, य एवव्ँ᳓ वे᳓द ।
 </details>
 
 <details><summary>Keith</summary>
 
 Rich in offspring, cattle, and wealth he becomes who knows thus.
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सा । [29]  मा॒ । प्र॒ति॒ष्ठामिति॑ प्रति-स्थाम् । ग॒म॒य॒ । 
@@ -182,7 +182,7 @@ Rich in offspring, cattle, and wealth he becomes who knows thus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम॒ग्नीधे॑ वा , ब्र॒ह्मणे॑ वा , होत्रे॑ वोद्गा॒त्रे वा॑ध्व॒र्यवे॑ वा दद्यात् ।
+ता᳓मग्नी᳓धे वा , ब्रह्म᳓णे वा᳓ , हो᳓त्रे वोद्गात्रे᳓ वाध्वर्य᳓वे वा दद्यात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -197,7 +197,7 @@ He should give her to the Agnidh, or the Brahman, or the Hotr or the Udgatr, or 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒हस्र॑म् अस्य॒ सा द॒त्ता भ॑वति ।
+सह᳓स्रम् अस्य सा᳓ दत्ता᳓ भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -231,8 +231,8 @@ In giving her, he gives a thousand.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒हस्र॑म् अस्य॒ प्रति॑गृहीतम् भवति॒ ,
-यस् ताम् अवि॑द्वान् प्र॒ति॒गृ॒ह्णाति॑ ।[30]  
+सह᳓स्रम् अस्य प्र᳓तिगृहीतम् भवति ,
+य᳓स् ता᳓म् अ᳓विद्वान् प्रतिगृह्णा᳓ति ।[30]  
 </details>
 
 <details><summary>Keith</summary>
@@ -259,12 +259,12 @@ A thousand he accepts who not knowing [2] accepts her.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(तस्मादेवं विदित्वा)+++ ताम् प्रति॑ गृह्णीयात् -  
++++(तस्मादेवं विदित्वा)+++ ता᳓म् प्र᳓ति गृ᳓ह्णी᳓या᳓त् -  
 
-"एका॑सि॒ न स॒हस्र॑म् । एका॑न्त्वा भू॒ताम्प्रति॑ गृह्णामि॒ , न स॒हस्र॑म् ।  
-एका॑ मा भू॒ताऽऽवि॑श॒ , मा स॒हस्र॑म्" इति॑ ।  
+"ए᳓कासि न᳓ सह᳓स्रम् । ए᳓कान्त्वा भूता᳓म्प्र᳓ति गृह्णामि , न᳓ सह᳓स्रम् ।  
+ए᳓का मा भूता᳓ऽऽविश , मा᳓ सह᳓स्रम्" इ᳓ति ।  
 
-एका॑म् ए॒वैना॑म् भू॒ताम् प्रति॑ गृह्णाति , न स॒हस्रय्ँ॒ य ए॒वव्ँ वेद॑ ।
+ए᳓काम् एवै᳓नाम् भूता᳓म् प्र᳓ति गृह्णाति , न सह᳓स्रय्ँ य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
 
 <details><summary>Keith</summary>
@@ -294,8 +294,8 @@ He should accept her, (saying), 'Thou art one, not a thousand. Thee as one I acc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एका॑मे॒वैना॑म्भू॒ताम्प्रति॑ गृह्णाति ,
-न स॒हस्रय्ँ॒ य ए॒वव्ँ वेद॑ ।
+ए᳓कामेवै᳓नाम्भूता᳓म्प्र᳓ति गृह्णाति ,
+न सह᳓स्रय्ँ य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
 
 <details><summary>Keith</summary>
@@ -326,8 +326,8 @@ verily he who knows thus accepts her as one, not as a thousand.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"स्यो॒नासि॑ सु॒षदा॑ सु॒शेवा॑+++(=सुफला)+++।  
-स्यो॒ना मा वि॑श, सु॒षदा॒ मा वि॑श , सु॒शेवा॒ मा वि॑श" +इत्या॑ह।[31]  
+"स्योना᳓सि सुष᳓दा सुशे᳓वा+++(=सुफला)+++।  
+स्योना᳓ मा᳓ विश, सुष᳓दा मा᳓ विश , सुशे᳓वा मा᳓ विश᳓" +इ᳓त्याह।[31]  
 </details>
 
 <details><summary>Keith</summary>
@@ -357,8 +357,8 @@ verily he who knows thus accepts her as one, not as a thousand.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्यो॒नैवैनँ॑ सु॒षदा॑ सु॒शेवा॑ भू॒ताऽऽवि॑शति ,  
-नैनँ॑ हिनस्ति ।
+स्योनै᳓वै᳓नँ सुष᳓दा सुशे᳓वा भूता᳓ऽऽविश᳓ति᳓ ,  
+नै᳓नँ हिनस्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -391,10 +391,10 @@ verily she becoming gentle, well resting, auspicious, comes to him, and harms hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मवा॒दिनो॑ वदन्ति - "स॒हस्रँ॑ सहस्रत॒म्य् अन्वे॒ती३, +++(उत)+++ स॑हस्रत॒मीँ स॒हस्रा३म्?" इति॑ ।
+ब्र᳓ह्म᳓वादि᳓नो वदन्ति - "सह᳓स्रँ सहस्रतम्य् अ᳓न्वेती᳓३, +++(उत)+++ सहस्रतमीँ᳓ सह᳓स्रा᳓३म्?" इ᳓ति ।
 +++('विचार्यमाणानाम्' इति प्लुतः ।)+++  
-यत्+++(=यदि)+++ प्राची॑म् उत्सृ॒जेत् , स॒हस्रँ॑ सहस्रत॒म्य् अन्वि॑यात् । स॒हस्र॑म् अप्रज्ञा॒त्रँ+++(=प्रज्ञानरहितं)+++ सु॑व॒र्गल्ँ लो॒कन् न प्र जा॑नीयात् ।  
-प्र॒तीची॒म् उत्सृ॑जति । ताँ स॒हस्र॒मनु॑ प॒र्याव॑र्तते । सा प्र॑जान॒ती सु॑व॒र्गल्ँ लो॒कम् ए॑ति ।
+य᳓त्+++(=यदि)+++ प्रा᳓चीम् उत्सृजे᳓त् , सह᳓स्रँ सहस्रतम्य् अ᳓न्वियात् । सह᳓स्रम् अप्रज्ञात्रँ᳓+++(=प्रज्ञानरहितं)+++ सुवर्गल्ँ᳓ लोक᳓न् न᳓ प्र᳓ जानीयात् ।  
+प्रती᳓चीम् उ᳓त्सृजति । ताँ᳓ सह᳓स्रम᳓नु पर्या᳓वर्तते । सा᳓ प्रजानती᳓ सुवर्गल्ँ᳓ लोक᳓म् एति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -426,8 +426,8 @@ The theologians say, 'Does the thousandth follow the thousand? or the thou sand 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्प्राची॑मुत्सृ॒जेत् ,  
-स॒हस्रँ॑ सहस्रत॒म्य् अन्वि॑यात् ।
+य᳓त्प्रा᳓चीमुत्सृजे᳓त् ,  
+सह᳓स्रँ सहस्रतम्य् अ᳓न्वियात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -440,6 +440,7 @@ If he were to let her go to the east, the thousandth would follow the thousand;
 यत्प्राची॑मुत्सृ॒जेत् ,  
 स॒हस्रँ॑ सहस्रत॒म्य् अन्वि॑यात् ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । प्राची॑म् । उ॒त्सृ॒जेदित्यु॑त्-सृ॒जेत् । स॒हस्र॑म् । स॒ह॒स्र॒त॒मीति॑ सहस्र-त॒मी । अन्विति॑ । इ॒या॒त् ।   
@@ -452,7 +453,7 @@ If he were to let her go to the east, the thousandth would follow the thousand;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒हस्र॑मप्रज्ञा॒त्रँ सु॑व॒र्गल्ँ लो॒कन्न प्र जा॑नीयात् ।
+सह᳓स्रमप्रज्ञात्रँ᳓ सुवर्गल्ँ᳓ लोक᳓न्न᳓ प्र᳓ जानीयात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -478,7 +479,7 @@ now the thousand has no understanding, and would not recognize the world of heav
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒तीची॒मुत्सृ॑जति ।
+प्रती᳓चीमु᳓त्सृजति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -503,7 +504,7 @@ He lets her go to the west;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताँ स॒हस्र॒मनु॑ प॒र्याव॑र्तते ।
+ताँ᳓ सह᳓स्रम᳓नु पर्या᳓वर्तते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -528,7 +529,7 @@ the thousand follow after her.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा प्र॑जान॒ती सु॑व॒र्गल्ँ लो॒कमे॑ति ।
+सा᳓ प्रजानती᳓ सुवर्गल्ँ᳓ लोक᳓मेति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -554,7 +555,7 @@ She knowing goes to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानम् अ॒भ्य् उत्सृ॑जति ,
+य᳓जमानम् अभ्य् उ᳓त्सृजति ,
 </details>
 
 <details><summary>Keith</summary>
@@ -569,7 +570,7 @@ He lets her go towards the sacrificer.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षि॒प्रे +++(काले)+++ स॒हस्र॒म् प्र जा॑यते ।
+क्षिप्रे᳓ +++(काले)+++ सह᳓स्रम् प्र᳓ जायते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -595,7 +596,7 @@ Quickly a thousand springs up.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒त्त॒मा नी॒यते॑ , +++(पश्चात् सर्वास्ता नीयन्ते,)+++ प्रथ॒मा दे॒वान् ग॑च्छति +++(यजमानमपि गृहीत्वा)+++ ॥ [32]
+उत्तमा᳓ नीय᳓ते , +++(पश्चात् सर्वास्ता नीयन्ते,)+++ प्रथमा᳓ देवा᳓न् गच्छति +++(यजमानमपि गृहीत्वा)+++ ॥ [32]
 </details>
 
 <details><summary>Keith</summary>
@@ -620,4 +621,3 @@ The (thousandth) is the last to be taken, but the first to go to the gods.
 
 इति सप्तमे प्रथमे सप्तमोनुवाकः ॥  
 </details>
-

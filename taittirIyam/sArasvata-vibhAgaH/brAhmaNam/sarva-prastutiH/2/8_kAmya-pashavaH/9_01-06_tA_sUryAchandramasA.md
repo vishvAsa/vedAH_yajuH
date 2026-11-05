@@ -1,23 +1,25 @@
 +++
 title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
-
 +++
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (SB) 1अष्टमेऽन्नार्थपश्वादीनां सूक्तान्यभिहितानि । नवमे शुक्लकृष्णपश्वादीनां सूक्तान्युच्यन्ते । यदुक्तं सूत्रकारेण - 'सूर्याचन्द्रमोभ्यां यमौ श्वेतं च कृष्णं चैकयूपे' इति ।
 यमौ एकस्मिन् गर्भे सहोत्पन्नौ । तयोः पश्वोस्सूक्ते वपयोः पुरोनुवाक्यामाह ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-ता सू॑र्याचन्द्र॒मसा॑ विश्व॒-भृत्त॑मा म॒हत् ।   
-तेजो॒ वसु॑मद् **राजतो** दि॒वि ।  
-सामा॑त्माना **चरतस्** साम-चा॒रिणा॑ +++(न भेद-चारिणौ)+++ ।  
-ययो॑र् व्र॒तन् न **म॒मे** जातु॑ दे॒वयोः॑ ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+ता᳓ सूर्याचन्द्रम᳓सा विश्व-भृ᳓त्तमा मह᳓त् ।   
+ते᳓जो व᳓सुमद् **राजतो** दिवि᳓ ।  
+सा᳓मात्माना **चरतस्** साम-चारि᳓णा +++(न भेद-चारिणौ)+++ ।  
+य᳓योर् व्रत᳓न् न᳓ **ममे᳓** जा᳓तु देव᳓योः ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 ता सू॑र्याचन्द्र॒मसा॑ विश्व॒भृत्त॑मा म॒हत् ।   
@@ -32,21 +34,25 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 </details>
 </details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 2अथ वपयोर् याज्याम् आह -
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/07_ubhAv_antau.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-उ॒भाव् अन्तौ॒ **परि॑ यात॒** अर्म्या॑+++(=गत्या)+++ ।   
-दि॒वो न र॒श्मीँस् **त॑नु॒तो व्य्** अ॑र्ण॒वे ।   
-उ॒भा **भु॑व॒न्ती** भुव॑ना क॒वि-क्र॑तू ।   
-सूर्या॒ न च॒न्द्रा **च॑रतो** ह॒ता-म॑ती ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/07_ubhAv_antau.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+उभा᳓व् अ᳓न्तौ **प᳓रि यात** अ᳓र्म्या+++(=गत्या)+++ ।   
+दिवो᳓ न᳓ रश्मीँ᳓स् **तनुतो᳓ व्य्** अर्णवे᳓ ।   
+उभा᳓ **भुवन्ती᳓** भु᳓वना कवि᳓-क्रतू ।   
+सू᳓र्या न᳓ चन्द्रा᳓ **चरतो** हता᳓-मती ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/07_ubhAv_antau.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/07_ubhAv_antau.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 उ॒भावन्तौ॒ परि॑ यात॒ अर्म्या॑ ।   
@@ -62,21 +68,25 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 </details>
 </details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 3अथ पुरोडाशस्य पुरोनुवाक्यामाह -
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/11_patI_dyumad.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-पती॑ द्यु॒मद् वि॑श्व॒-विदा॑ उ॒भा दि॒वः ।   
-सूर्या॑ उ॒भा च॒न्द्रम॑सा विचक्ष॒णा ॥ 71 ॥  
-वि॒श्व-वा॑रा **वरिवा**+++(=पूजितौ)+++ +उ॒भा वरे॑ण्या ।  
-ता नो॑ **ऽवतम्** मति॒मन्ता॒ महि॑व्रता ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/11_patI_dyumad.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+प᳓ती द्युम᳓द् विश्व-वि᳓दा उभा᳓ दिवः᳓ ।   
+सू᳓र्या उभा᳓ चन्द्र᳓मसा विचक्षणा᳓ ॥ 71 ॥  
+विश्व᳓-वारा **वरिवा**+++(=पूजितौ)+++ +उभा᳓ व᳓रेण्या ।  
+ता᳓ नो **ऽवतम्** मतिम᳓न्ता म᳓हिव्रता ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/11_patI_dyumad.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/11_patI_dyumad.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 पती॑ द्यु॒मद्वि॑श्व॒विदा॑ उ॒भा दि॒वः ।   
@@ -91,21 +101,25 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 </details>
 </details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4अथ पुरोडशस्य याज्यामाह -
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/15_vishvavaparI_prataraNA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-वि॒श्व॒-वप॑री+++(←वप्)+++ प्र॒तर॑णा **तर॒न्ता** ।   
-सु॒व॒र्-विदा॑ दृ॒शये॒ भूरि॑-रश्मी ।  
-सूर्या॒ हि च॒न्द्रा वसु॑ त्वे॒ष-द॑र्शता ।   
-म॒न॒स्विनो॒भा **ऽनु॑चर॒तो** नु॒ सन् दिव॑म् ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/15_vishvavaparI_prataraNA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+विश्व-व᳓परी+++(←वप्)+++ प्रत᳓रणा **तरन्ता᳓** ।   
+सुवर्-वि᳓दा दृश᳓ये भू᳓रि-रश्मी ।  
+सू᳓र्या हि᳓ चन्द्रा᳓ व᳓सु त्वेष᳓-दर्शता ।   
+मनस्वि᳓नोभा᳓ **ऽनुचरतो᳓** नु स᳓न् दि᳓वम् ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/15_vishvavaparI_prataraNA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/15_vishvavaparI_prataraNA.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 वि॒श्व॒वप॑री प्र॒तर॑णा तर॒न्ता ।   
@@ -120,22 +134,30 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 </details>
 </details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5अथ हविषः पुरोनुवाक्यामाह -
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/102/02_asya_shravo.md">
-<details open><summary><h5>०२ अस्य श्रवो ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/102/02_asya_shravo.md">
 
 अस्य᳓ +++(→तवेन्द्रस्य)+++ श्र᳓वो नद्यः᳙ सप्त᳓ **बिभ्रति**  
 द्या᳓वाक्षा᳓मा पृथिवी᳓ दर्शतं᳓+++(=दर्शनीयं)+++ व᳓पुः ।  
 अस्मे᳓+++(=अस्मभ्यं)+++ सूर्याचन्द्रम᳓सा **ऽभिच᳓क्षे**+++(=कथयसि)+++  
 श्रद्धे᳓+++(=श्रद्धया)+++ क᳓म्+++(=सुखम्)+++ इन्द्र **चरतो** वि-तर्तुर᳓म्+++(=त्वरया)+++ ॥
 
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/102/02_asya_shravo.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+अ॒स्य श्रवो॑ न॒द्यः॑ स॒प्त बि॑भ्रति॒ द्यावा॒क्षामा॑ पृथि॒वी द॑र्श॒तं वपुः॑ ।  
+अ॒स्मे सू॑र्याचन्द्र॒मसा॑भि॒चक्षे॑ श्र॒द्धे कमि॑न्द्र चरतो वितर्तु॒रम् ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/102/02_asya_shravo.md">
-<details open><summary><h5>002 ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/102/02_asya_shravo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -332,6 +354,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- इन्द्रस्य। श्रवः- अनुभवं चिदाकाशस्थमन्त्रश्रवणोपलक्षितम्। सप्त नद्यः- सप्त सिन्धवः।  भूरादिषु सप्तसु धामसु प्रवाहशीला जीवाधारशक्तयः। बिभ्रति- धारयन्ति। दर्शतम्- इन्द्रस्य  दर्शनीयम्। वपुः- रूपम्। द्यावाक्षामा- द्यावापृथिव्यौ। पृथिवी- अदितिः। आकाशेन सह पृथिवी  यत्रोच्यते श्रुतौ तत्र भूमण्डलं निर्दिश्यते आधिभौतिके। जडशरीरमाध्यात्मिके। पृथिवीति यत्र  पृथक्कृत्य उच्यते तत्र भूमण्डलमित्याधिभौतिके। अदितिरखण्डप्रकृतिरित्याध्यात्मिके। बिभ्रति।  अस्मे- अस्मदर्थम्। सूर्याचन्द्रमसा- सूर्याचन्द्रौ। अभिचक्षे- दर्शनाय। श्रद्धे- श्रद्धायै। वितर्तुरम्- परस्परव्यतिहारेण। चरतः- वर्तेते। सूर्य आत्मा दैवप्रज्ञाधिष्ठितः। सोमो धार्मिकरसो  मनुष्यप्रज्ञाधिष्ठितः। तयोः समुच्चय उच्यते॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अस्य** इन्द्रस्य **श्रवः** यशः कीर्तिं सप्त इमं मे गङ्गे' इत्यस्यामृचि प्राधान्येन प्रतिपादिता गङ्गाद्याः सप्तसंख्याकाः **नद्यः** **बिभ्रति** धारयन्ति । वृत्रहननेन इन्द्रस्य यत् वृष्टेः प्रदातृत्वं तत्प्रभूतजलोपेता नद्यः प्रकटयन्तीत्यर्थः । अपि च **द्यावाक्षामा** द्यावापृथिव्यौ । **पृथिवी** इति अन्तरिक्षनाम । अन्तरिक्षं चास्य सूर्यात्मना वर्तमानस्येन्द्रस्य **दर्शतं** सर्वैः प्राणिभिर्दर्शनीयं **वपुः** । रूपनामैतत् । प्रकाशात्मकं रूपं धारयन्ति । किंच हे **इन्द्र** **अस्मे** अस्माकम् **अभिचक्षे** द्रष्टव्यानां पदार्थानामाभिमुख्येन प्रकाशनार्थं **श्रद्धे** **कं** श्रद्धार्थम् । चक्षुषा दृष्टे हि वस्तुनि इदं सत्यमिति श्रद्धोत्पद्यते । कमित्येतत् पादपूरणम् । तदुभयार्थं सूर्याचन्द्रमसौ **वितर्तुरं** परस्परव्यतिहारेण तरणं पुनः पुनर्गमनं यथा भवति तथा **चरतः** । वर्तेते । त्वमेव तद्रूपः सन् वर्तसे इत्यर्थः ॥ अस्य । “ उडिदम्' इति विभक्तेरुदात्तत्वम् । द्यावाक्षामा । द्यौश्च क्षामा च । ' दिवो द्यावा' इति द्यावादेशः । ‘सुपां सुलुक् ' इति विभक्तेः डादेशः । देवताद्वन्द्वे च ' इति उभयपदप्रकृतिस्वरत्वम् । दर्शतम् । भृमृदृशि° ' इत्यादिना अतच् । सूर्याचन्द्रमसा । सूर्यश्च चन्द्रमाश्च । “ देवताद्वन्द्वे च ' इति पूर्वपदस्य आनङादेशः । ‘सुपां सुलुक् ' इति विभक्तेः आकारः । चन्द्रमःशब्दो दासीभारादित्वात् पूर्वपदप्रकृतिस्वरेण मध्योदात्तः । अतो ‘देवताद्वन्द्वे च' इति प्राप्तस्य उभयपदप्रकृतिस्वरस्य ‘नोत्तरपदेऽनुदात्तादावपृथिवी ' इति प्रतिषेधः । अभिचक्षे । चक्षेः प्रकाशनार्थात् संपदादिलक्षणो भावे क्विप् । तादर्थ्ये चतुर्थी । श्रद्धे । दृशिग्रहणात् दधातेर्भावे विच् । चतुर्थ्येकवचने ‘ आतो धातोः' इति आकारलोपः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । वितर्तुरम् । तरतेर्यङ्लुगन्तात् औणादिकः कुरच्” । बहुलं छन्दसि ' इति उत्वम् ॥
@@ -437,23 +464,26 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 
 भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. परमेश्वरनिर्मित पृथ्वी इत्यादी गोल व त्यात राहणारे पदार्थ आपापल्या रूपांना धारण करून सर्व प्राण्यांच्या दर्शनासाठी व श्रद्धेसाठी असून, सुख-दुःख उत्पन्न करून गमनागमन व्यवहारासाठी असतात; परंतु कोणत्याही प्रकारे विद्येशिवाय या सांसारिक पदार्थांनी सुख मिळत नाही. यामुळे सर्वांनी ईश्वराची उपासना व विद्वानांच्या संगतीने गोलांसंबंधी विद्या प्राप्त करून सदैव सुखी व्हावे. ॥ २ ॥
 </details>
-</details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6अथ हविषो याज्यामाह -
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/44_pUrvApara~n_charato.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-पू॒र्वा॒प॒रञ् **च॑रतो** मा॒ययै॒तौ ।   
-शिशू॒ **क्रीड॑न्तौ॒** परि॑ यातो अ-ध्व॒रम्+++(=अ-हिंसम्  →यज्ञम्)+++ ।  
-विश्वा॑न्य् +++(तयोर्)+++ अ॒न्यो भुव॑ना **ऽभि॒ चष्टे॑** ।  
-ऋ॒तून् अ॒न्यो **वि॒दध॑ज् जायते॒** पुनः॑ ।+++(5)+++
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/44_pUrvApara~n_charato.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+पूर्वापर᳓ञ् **चरतो** माय᳓यैतौ᳓ ।   
+शि᳓शू **क्री᳓डन्तौ** प᳓रि यातो अ-ध्वर᳓म्+++(=अ-हिंसम्  →यज्ञम्)+++ ।  
+वि᳓श्वान्य् +++(तयोर्)+++ अन्यो᳓ भु᳓वना **ऽभि च᳓ष्टे** ।  
+ऋतू᳓न् अन्यो᳓ **विद᳓धज् जायते** पु᳓नः ।+++(5)+++
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/44_pUrvApara~n_charato.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/44_pUrvApara~n_charato.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 पू॒र्वा॒प॒रञ्च॑रतो मा॒ययै॒तौ ।   

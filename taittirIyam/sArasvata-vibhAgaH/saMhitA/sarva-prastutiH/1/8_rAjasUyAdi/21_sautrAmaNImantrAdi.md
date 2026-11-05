@@ -17,8 +17,7 @@ title = "२१ सौत्रामणीमन्त्रादि"
 आसरेणावेक्षन् सोमं सम्पादयति - स्वद्वीमिति । 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/02_svAdvIn_tvA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/02_svAdvIn_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 स्वाद्वी᳓न् त्वा स्वादु᳓ना  
@@ -26,11 +25,9 @@ title = "२१ सौत्रामणीमन्त्रादि"
 सृजा᳓मि स᳓म्॥
 
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/02_svAdvIn_tvA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/02_svAdvIn_tvA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -58,7 +55,6 @@ the sacrificial fee is the northern drawer of the chariot stand.
 सोमे॑न॒ सोमो॑ऽस्य॒श्विभ्या॑म्पच्यस्व॒ सर॑स्वत्यै पच्य॒स्वेन्द्रा॑य सु॒त्राम्णे॑ पच्यस्व
 </details>
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -107,8 +103,7 @@ thou art Soma; be ready for the Aśvins, be ready for Sarasvati, be ready for In
 3सुरां पुनाति वालेन - पुनात्विति गायत्र्या ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/03_punAtu_te.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/03_punAtu_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **पुना᳓तु** ते **परिस्रु᳓तँ**  
@@ -116,11 +111,9 @@ thou art Soma; be ready for the Aśvins, be ready for Sarasvati, be ready for In
 वा᳓रेण+++(=वालेन)+++ श᳓श्वता **त᳓ना**+++(←तन्)+++  ॥
 
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/03_punAtu_te.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/03_punAtu_te.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -159,7 +152,6 @@ With the eternal sieve.
 **शश्वता** नित्येन **तना** विस्तीर्णेन । तृतीयायाः 'सुपां सुलुक्' इत्याकारः । यद्वा - शश्वता वारेण । कालेन पुनातु नित्यं पुनात्विति यावत् । तना सूर्यस्य दुहिता । पचाद्यचि पृषोदरादिर्द्रष्टव्यः । यद्वा - तनेति निपातः नित्ये वर्तते शश्वता अविनाशेन वालेन नित्यं पुनात्विति । निपातनादाद्युदात्तत्वम् । यद्वा - शश्वतातना सदातनेनेत्यर्थः । शश्वतेत्याकारान्तो निपातितः । तेनाव्ययलक्षणः ट्युत्प्रत्ययः 'ट्युट्य्लौ तुट्च' इति । प्रकृतिप्रत्यययोश्च पृथक्पदत्वं दृश्यते - यथा 'मा च ते ख्या स्म तीरिषत्' इति ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -167,8 +159,7 @@ With the eternal sieve.
 4सोमातिपवितस्य सोम-वामिनो वा पुनाति - वायुरिति गायत्र्या च ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/04_vAyupH_pUtapH.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/04_vAyupH_pUtapH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 +++(वमने सादृश्येन)+++ वायुᳶ᳓ **पूतᳶ᳓** पवि᳓त्रेण  
@@ -176,11 +167,9 @@ With the eternal sieve.
 इ᳓न्द्रस्य यु᳓ज्यस् स᳓खा  ॥
 
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/04_vAyupH_pUtapH.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/04_vAyupH_pUtapH.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -210,7 +199,6 @@ Indra's dear friend.
 अपरा योजना - वायुश्शरीरस्थः प्राणः पवित्रेण पावनेन सोमेन पीतेन पूतः प्रथमं शोधितः इन्द्रस्य युज्यस्सखा स प्रत्यङ् प्रतीपमतिद्रुतः स्वस्थानत्पीडितोतिक्रम्य निर्गतः सोमश्च सोतिद्रुतः । यद्वा - पूर्ववत्तृतीयायास्स्वादेशः । अनेन सोमेन स वायुरतिद्रुतः । यद्वा - सोमश्च वायुश्चेति तदुभयमनेन कर्मणा स्वस्थानस्थं भवति ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -218,8 +206,7 @@ Indra's dear friend.
 5सुरा-ग्रहान् गृह्णाति - कुविदङ्गेति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/05_kuvid_anga.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/05_kuvid_anga.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 कुवि᳓द् अङ्ग᳓ य᳓वमन्तो य᳓वञ् चिद्  
@@ -228,11 +215,9 @@ Indra's dear friend.
 ये᳓ बर्हि᳓षो न᳓मो-वृक्तिन्+++(→व्यावृत्तिं)+++ **न᳓ जग्मुः᳓**  ॥
 
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/05_kuvid_anga.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/05_kuvid_anga.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -272,7 +257,6 @@ Who have not gone to the reverential cutting of the straw.
 आ॒श्वि॒नन्धू॒म्रमा ल॑भते सारस्व॒तम्मे॒षमै॒न्द्रमृ॑ष॒भमै॒न्द्रमेका॑दशकपाल॒न्निर्व॑पति सावि॒त्रन्द्वाद॑शकपालव्ँवारु॒णन्दश॑कपालँ॒ सोम॑प्रतीकाᳶ पितरस्तृप्णुत॒ वड॑बा॒ दक्षि॑णा ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>

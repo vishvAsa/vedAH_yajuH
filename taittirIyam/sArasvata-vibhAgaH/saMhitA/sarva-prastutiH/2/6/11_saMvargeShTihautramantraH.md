@@ -6,8 +6,8 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यु॒क्ष्वा हि दे॑व॒हूत॑माँ॒ अश्वाँ॑ अग्ने र॒थीरि॑व ।  
-नि होता॑ पू॒र्व्यस्स॑दः ।
+युक्ष्वा᳓ हि᳓ देवहू᳓तमाँ अ᳓श्वाँ अग्ने रथी᳓रिव ।  
+नि᳓ हो᳓ता पूर्व्य᳓स्सदः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -48,8 +48,8 @@ Yoke like a charioteer, Agni, The steeds that best invite the gods Set down as a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒त नो॑ देव दे॒वाँ अच्छा॑ वोचो वि॒दुष्ट॑रः ।   
-श्रद्विश्वा॒ वार्या॑ कृधि ।
+उत᳓ नो देव देवाँ᳓ अ᳓च्छा वोचो विदु᳓ष्टरः ।   
+श्र᳓द्वि᳓श्वा वा᳓र्या कृधि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -84,8 +84,8 @@ And, O god, for us do thou the gods, Most wise one, call hither; Make all our wi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वँ ह॒ यद्य॑विष्ठ्य॒ सह॑सस्सूनवाहुत ।   
-ऋ॒तावा॑ य॒ज्ञियो॒ भुवः॑ ।
+त्वँ᳓ ह य᳓द्यविष्ठ्य स᳓हसस्सूनवाहुत ।   
+ऋता᳓वा यज्ञि᳓यो भु᳓वः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -120,8 +120,8 @@ Since thou, O most young, O son of strength, who art sacrificed to, Art righteou
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒यम॒ग्निस्स॑ह॒स्रिणो॒ वाज॑स्य श॒तिन॒स्पतिः॑ ।  
-मू॒र्धा क॒वी र॑यी॒णाम् ।
+अय᳓मग्नि᳓स्सहस्रि᳓णो वा᳓जस्य शति᳓नस्प᳓तिः ।  
+मूर्धा᳓ कवी᳓ रयीणा᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -153,8 +153,8 @@ This Agni is lord of a thousandfold,. A hundredfold, strength; The sage, the hea
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन्ने॒मिमृ॒भवो॑ य॒था न॑मस्व॒ सहू॑तिभिः ।  
-नेदी॑यो य॒ज्ञम॒ङ्गि॒रः॒ ।  
+त᳓न्नेमि᳓मृभ᳓वो यथा᳓ नमस्व स᳓हूतिभिः ।  
+ने᳓दीयो यज्ञ᳓मङ्गिरः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -187,8 +187,8 @@ Bring him hither with common call Lower to our sacrifice, O Angiras. As the Rbhu
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मै॑ नू॒नम॒भिद्य॑वे वा॒चा वि॑रूप॒ नित्य॑या ।  
-वृष्णे॑ चोदस्व सुष्टु॒तिम् ।
+त᳓स्मै नून᳓मभि᳓द्यवे वाचा᳓ विरूप नि᳓त्यया ।  
+वृ᳓ष्णे चोदस्व सुष्टुति᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -222,8 +222,8 @@ To him, the heavenly, Now with constant voice, O Virupa, To the strong one urge 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कमु॑ ष्विदस्य॒ सेन॑या॒ग्नेरपा॑कचक्षसः ।  
-प॒णिङ्गोषु॑ स्तरामहे ।
+क᳓मु ष्विदस्य से᳓नयाग्ने᳓र᳓पाकचक्षसः ।  
+पणि᳓ङ्गो᳓षु स्तरामहे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -255,8 +255,8 @@ What Pani shall we lay low among the kine With the missile of this Agni Who seet
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा नो॑ दे॒वानाव्ँ॒विशᳶ॑ प्रस्ना॒तीरि॑वो॒स्राः ।  
-कृ॒शन्न हा॑सु॒रघ्नि॑याः ।
+मा᳓ नो देवा᳓नाव्ँवि᳓शᳶ प्रस्नाती᳓रिवोस्राः᳓ ।  
+कृश᳓न्न᳓ हासुर᳓घ्नियाः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -288,8 +288,8 @@ May not the clans of the gods forsake us, Like the dawns entering the waters, As
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा न॑स्समस्य दू॒ढ्यᳶ॑ परि॑द्वेषसो अँह॒तिः ।  
-ऊ॒र्मिर्न नाव॒मा व॑धीत् ।
+मा᳓ नस्समस्य दूढ्यᳶ᳙ प᳓रिद्वेषसो अँहतिः᳓ ।  
+ऊर्मि᳓र्न᳓ ना᳓वमा᳓ वधीत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -324,8 +324,8 @@ Let not the assault Of any ill-minded foe smite us, As a wave a ship.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑स्ते अग्न॒ ओज॑से गृ॒णन्ति॑ देव कृ॒ष्टयः॑ ।   
-अमैः॑  [62]  अ॒मित्र॑मर्दय । ((अमै॑र॒मित्र॑??))
+न᳓मस्ते अग्न ओ᳓जसे गृण᳓न्ति देव कृष्ट᳓यः ।   
+अ᳓मैः  [62]  अमि᳓त्रमर्दय । ((अ᳓मैरमि᳓त्र??))
 </details>
 
 <details><summary>Keith</summary>
@@ -358,8 +358,8 @@ Homage to thee, O Agni, for might, The people sing, O god; With strength [2] tro
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कु॒वित्सु नो॒ गवि॑ष्ट॒येऽग्ने॑ सव्ँ॒वेषि॑षो र॒यिम् ।   
-उरु॑कृदु॒रु ण॑स्कृधि ।
+कुवि᳓त्सु᳓ नो ग᳓विष्टये᳓ऽग्ने सव्ँवे᳓षिषो रयि᳓म् ।   
+उ᳓रुकृदुरु᳓ णस्कृधि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -396,8 +396,8 @@ Wilt thou not, O Agni, Bring us wealth for our quest for cattle? O room maker, m
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा नो॑ अ॒स्मिन्म॑हाध॒ने परा॑ वर्ग्भार॒भृद्य॑था ।  
-सव्ँ॒वर्गँ॒ सँ र॒यिञ्ज॑य ।
+मा᳓ नो अस्मि᳓न्महाधने᳓ प᳓रा वर्ग्भारभृ᳓द्यथा ।  
+सव्ँव᳓र्गँ सँ᳓ रयि᳓ञ्जय ।
 </details>
 
 <details><summary>Keith</summary>
@@ -433,8 +433,8 @@ Cast us not aside in this great contest, Like a bearer his burden; Gather wealth
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्यम॒स्मद्भि॒या इ॒यमग्ने॒ सिष॑क्तु दु॒च्छुना॑ ।   
- वर्धा॑ नो॒ अम॑व॒च्छवः॑ ।
+अन्य᳓मस्म᳓द्भिया᳓ इय᳓म᳓ग्ने सि᳓षक्तु दुच्छु᳓ना ।   
+ व᳓र्धा नो अ᳓मवच्छ᳓वः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -468,8 +468,8 @@ May this terror, this misfortune, O Agni, fasten on another than us; Increase ou
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस्याजु॑षन्नम॒स्विन॒श्शमी॒मदु॑र्मखस्य वा ।  
-तङ्घेद॒ग्निर्वृ॒धाव॑ति ।
+य᳓स्या᳓जुषन्नमस्वि᳓नश्श᳓मीम᳓दुर्मखस्य वा ।  
+त᳓ङ्घे᳓दग्नि᳓र्वृधा᳓वति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -502,8 +502,8 @@ The reverent or generous man In whose offering he hath delighted, Agni aideth in
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पर॑स्या॒ अधि॑ [63]  सव्ँ॒वतोऽव॑राँ अ॒भ्या त॑र ।  
-यत्रा॒हमस्मि॒ ताँ अ॑व ।
+प᳓रस्या अ᳓धि [63]  सव्ँव᳓तो᳓ऽवराँ अभ्या᳓ तर ।  
+य᳓त्राह᳓म᳓स्मि ताँ᳓ अव ।
 </details>
 
 <details><summary>Keith</summary>
@@ -536,8 +536,8 @@ From a far [3] region Come hither to these lower ones, Favour those in the regio
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒द्मा हि ते॑ पु॒रा व॒यमग्ने॑ पि॒तुर्यथाव॑सः ।  
-अधा॑ ते सु॒म्नमी॑महे ।
+विद्मा᳓ हि᳓ ते पुरा᳓ वय᳓म᳓ग्ने पितु᳓र्य᳓था᳓वसः ।  
+अ᳓धा ते सुम्न᳓मीमहे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -568,19 +568,24 @@ Since we have known of old Of thy help, O Agni, as a father's, Now we seek thy f
 'विद्मा हि त इति'। हे अग्ने यस्मात् पुरा वयं ते तव अवसो रक्षणं विद्म ज्ञातवन्तः। कस्येव, पितुर् यथा। लोके पुरा यथा पितुः पालनं जानन्ति तद्वत्। अध तस्मात् कारणात् ते सुम्नम् ईमहे त्वया संपादितं सुखं प्राप्नुमः।"
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/016/39_ya_ugra.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/016/39_ya_ugra.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 य᳓ उग्र᳓ इव शर्यहा᳓  
 तिग्म᳓शृङ्गो न᳓ वं᳓सगः  
 अ᳓ग्ने पु᳓रो रुरो᳓जिथ
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/016/39_ya_ugra.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/016/39_ya_ugra.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+य उ॒ग्र इ॑व शर्य॒हा ति॒ग्मशृ॑ङ्गो॒ न वंस॑गः ।  
+अग्ने॒ पुरो॑ रु॒रोजि॑थ ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/016/39_ya_ugra.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -839,13 +844,12 @@ Der einem mächt'gen Schützen gleich und einem scharfgehörnten Stier Die Burge
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जे राजे इत्यादी अधिकारीगण सूर्याप्रमाणे तेजस्वी असतात ते शत्रूंना जिंकण्यास समर्थ असतात. ॥ ३९ ॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सखा॑य॒स्सव्ँव॑स्स॒म्यञ्च॒मिषँ॒ स्तोम॑ञ्चा॒ग्नये॑ ।   
-वर्षि॑ष्ठाय क्षिती॒नामू॒र्जो नप्त्रे॒ सह॑स्वते ।
+स᳓खायस्सव्ँ᳓वस्सम्य᳓ञ्चमि᳓षँ स्तो᳓मञ्चाग्न᳓ये ।   
+व᳓र्षिष्ठाय क्षितीना᳓मूर्जो᳓ न᳓प्त्रे स᳓हस्वते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -877,8 +881,8 @@ O friends, together (offer) fit Food and praise to Agni, Highest over the folk, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सँस॒मिद्यु॑वसे वृष॒न्नग्ने॒ विश्वा॑न्य॒र्य आ ।  
-इ॒डस्प॒दे समि॑ध्यसे॒ स नो॒ वसू॒न्या भ॑र ।  
+सँ᳓समि᳓द्युवसे वृषन्न᳓ग्ने वि᳓श्वान्यर्य᳓ आ᳓ ।  
+इड᳓स्पदे᳓ स᳓मिध्यसे स᳓ नो व᳓सून्या᳓ भर ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -912,7 +916,7 @@ Thou gatherest, O strong one, All that belongeth, O Agni, to the niggard; Thou a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजा॑पते॒  ..
+प्र᳓जापते  ..
 </details>
 
 <details><summary>Keith</summary>
@@ -956,7 +960,7 @@ O Prajapati.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स वे॑द॒
+स᳓ वेद
 </details>
 
 <details><summary>Keith</summary>
@@ -992,7 +996,7 @@ He knoweth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमा॑पूषणा
+सो᳓मापूषणा
 </details>
 
 <details><summary>Keith</summary>
@@ -1021,7 +1025,7 @@ O Soma and Pusan.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इमौ दे॒वौ ॥ [64]   
+इ᳓मौ᳓ देवौ᳓ ॥ [64]   
 </details>
 
 <details><summary>Keith</summary>

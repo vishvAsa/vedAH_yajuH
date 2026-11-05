@@ -23,7 +23,7 @@ title = "०४ छन्दोभिधेेष्टकोपधानम्"
 तत्र त्रिसृषु गायत्रीषु पर्थमां गायत्रीमाह— अग्निर्मूर्धेति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/16_agnirmUrdhA_divaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/16_agnirmUrdhA_divaH.md">
 
 अग्नि᳓र् मूर्धा᳓ दिवः᳓ ककु᳓त्  
 प᳓तिः पृथिव्या᳓ अय᳓म् ।  
@@ -31,8 +31,15 @@ title = "०४ छन्दोभिधेेष्टकोपधानम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/044/16_agnirmUrdhA_divaH.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/044/16_agnirmUrdhA_divaH.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+अ॒ग्निर्मू॒र्धा दि॒वः क॒कुत्पतिः॑ पृथि॒व्या अ॒यम् ।  
+अ॒पां रेतां॑सि जिन्वति ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/044/16_agnirmUrdhA_divaH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -45,6 +52,13 @@ title = "०४ छन्दोभिधेेष्टकोपधानम्"
 अग्नि᳓र् मूर्धा᳓ दिवः᳓ ककु᳓त्  
 प᳓तिः पृथिविया᳓ अय᳓म्  
 अपां᳓ रे᳓तांसि जिन्वति
+</details>
+
+<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+अ॒ग्निर्मू॒र्धा दि॒वᳵ क॒कुत् ।  
+पति॑ᳶ पृथि॒व्या अ॒यम् ।  
+अ॒पाँ रेताँ॑सि जिन्वति ।
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -259,7 +273,6 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 
 पदार्थान्वयभाषाः -  स्वध्वरे=अन्यैरत्यन्तमहिंस्ये हिंसारहिते वा। अस्मिन् यज्ञे=ध्यानयज्ञे। अग्निं=सर्वाधारमीशमाहुवे=आह्वयामि स्तौमि। कीदृशम्। ऊर्जः=बलस्य। नपातं न पातयतीति नपातः। किन्तु बलस्य वर्धकमेव। पुनः। पावकशोचिषम्=पवित्रतेजस्कम् ॥१३॥
 </details>
-
 </div>  
 
 _______
@@ -270,8 +283,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वाम॑ग्ने॒ पुष्क॑रा॒दध्यथ॑र्वा॒ निर॑मन्थत ।    
-मू॒र्ध्नो विश्व॑स्य वा॒घतः॑ ॥
+त्वा᳓मग्ने पु᳓ष्कराद᳓ध्य᳓थर्वा नि᳓रमन्थत ।    
+मूर्ध्नो᳓ वि᳓श्वस्य वाघ᳓तः ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -297,8 +310,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒यम॒ग्निस्स॑ह॒स्रिणो॒ वाज॑स्य श॒तिन॒स्पतिः॑ ।    
-मू॒र्धा क॒वी र॑यी॒णाम् ॥  
+अय᳓मग्नि᳓स्सहस्रि᳓णो वा᳓जस्य शति᳓नस्प᳓तिः ।    
+मूर्धा᳓ कवी᳓ रयीणा᳓म् ॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -320,17 +333,16 @@ _______
 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/04_ChandobhidheShTakopadhAnam/bhuvo_yaJNasya.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/04_ChandobhidheShTakopadhAnam/bhuvo_yaJNasya.md">
 
-भुवो॑ **य॒ज्ञस्य॒**, +++(विद्युद्-रूपेण)+++ रज॑सश्+++(→अन्तरिक्षस्य)+++ च **ने॒ता**  
-यत्रा॑ **नि॒युद्भि॒स्+++(=मरुद्-अश्वैस्)+++ सच॑से**+++(संयासि)+++ शि॒वाभिः॑ ।    
-+++(सूर्यरूपेण)+++ दि॒वि **मू॒र्धान॑न् दधिषे** सुव॒र्षाञ्  
-**जि॒ह्वाम्** अ॑ग्ने **चकृषे** हव्य॒वाह॑म् ॥  
+भु᳓वो **यज्ञ᳓स्य**, +++(विद्युद्-रूपेण)+++ र᳓जसश्+++(→अन्तरिक्षस्य)+++ च **नेता᳓**  
+य᳓त्रा **नियु᳓द्भिस्+++(=मरुद्-अश्वैस्)+++ स᳓चसे**+++(संयासि)+++ शिवा᳓भिः ।    
++++(सूर्यरूपेण)+++ दिवि᳓ **मूर्धा᳓नन् दधिषे** सुवर्षा᳓ञ्  
+**जिह्वा᳓म्** अग्ने **चकृषे** हव्यवा᳓हम् ॥  
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/04_ChandobhidheShTakopadhAnam/bhuvo_yaJNasya.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/04_ChandobhidheShTakopadhAnam/bhuvo_yaJNasya.md">
 <details><summary>मूलम्</summary>
 
 भुवो॑ य॒ज्ञस्य॒ रज॑सश्च ने॒ता यत्रा॑ नि॒युद्भि॒स्सच॑से शि॒वाभिः॑ ।    
@@ -348,7 +360,6 @@ _______
 
 14 **भुवो यज्ञस्य रजस** उदकस्य च **नेता** प्रापयिता भवसि तदानीम् । कदा? यत्र **शिवाभिः** **नियुद्भिर्** अश्वैस् **सचसे** सम्बध्यसे । मरुताम् अश्वा **नियुतस्** तद्वन्तो वायव इह गृह्यन्ते । तदानीं यज्ञं च प्रवर्तयसि उदकं चावपातयसि । **दिवि** च **मूर्धानं** प्रधानभूतं यज्ञं च **दधिषे** स्थापयसि **सुवर्षां** स्वर्गीणां सम्भक्तारम् । स त्वं हे अग्ने तव **जिह्वां** हविषो वोध्रीं **चकृषे** कुरुष्वेति द्वितीया ॥
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -358,8 +369,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अबो॑ध्य॒ग्निस्स॒मिधा॒ जना॑नाम् [10]  प्रति॑ धे॒नुमि॑वाय॒तीमु॒षास॑म् ।    
-य॒ह्वा इ॑व॒ प्र व॒यामु॒ज्जिहा॑ना॒ᳶ प्र भा॒नव॑स्सिस्रते॒ नाक॒मच्छ॑ ।    
+अ᳓बोध्यग्नि᳓स्समि᳓धा ज᳓नाना᳓म् [10]  प्र᳓ति धेनु᳓मिवायती᳓मुषा᳓सम् ।    
+यह्वा᳓ इव प्र᳓ वया᳓मुज्जि᳓हानाᳶ प्र᳓ भान᳓वस्सिस्रते ना᳓कम᳓च्छ ।    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -381,8 +392,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अवो॑चाम क॒वये॒ मेध्या॑य॒ वचो॑ व॒न्दारु॑ वृष॒भाय॒ वृष्णे॑ ।    
-गवि॑ष्ठिरो॒ नम॑सा॒ स्तोम॑म॒ग्नौ दि॒वीव॑रु॒क्ममु॒र्व्यञ्च॑मश्रेत् ।   
+अ᳓वोचाम कव᳓ये मे᳓ध्याय व᳓चो वन्दा᳓रु वृषभा᳓य वृ᳓ष्णे ।    
+ग᳓विष्ठिरो न᳓मसा स्तो᳓ममग्नौ᳓ दिवी᳓वरुक्म᳓मुर्व्य᳓ञ्चमश्रेत् ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -403,8 +414,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जन॑स्य गो॒पा अ॑जनिष्ट॒ जागृ॑विर॒ग्निस्सु॒दक्ष॑स्सुवि॒ताय॒ नव्य॑से ।    
-घृ॒तप्र॑तीको बृह॒ता दि॑वि॒स्पृशा॑ द्यु॒मद्वि भा॑ति भर॒तेभ्य॒श्शुचिः॑ ।    
+ज᳓नस्य गोपा᳓ अजनिष्ट जा᳓गृविरग्नि᳓स्सुद᳓क्षस्सुविता᳓य न᳓व्यसे ।    
+घृत᳓प्रतीको बृहता᳓ दिविस्पृ᳓शा द्युम᳓द्वि᳓ भाति भरते᳓भ्यश्शु᳓चिः ।    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -425,8 +436,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वाम॑ग्ने॒ अङ्गि॑रसः [11]  गुहा॑ हि॒तमन्व॑विन्दञ्छिश्रिया॒णव्ँवने॑वने ।  
-स जा॑यसे म॒थ्यमा॑न॒स्सहो॑ म॒हत्त्वामा॑हु॒स्सह॑सस्पु॒त्रम॑ङ्गिरः ।
+त्वा᳓मग्ने अ᳓ङ्गिर᳓सः᳓ [11]  गु᳓हा हित᳓म᳓न्वविन्दञ्छिश्रियाणव्ँ᳓व᳓नेवने ।  
+स᳓ जायसे मथ्य᳓मानस्स᳓हो मह᳓त्त्वा᳓माहुस्स᳓हसस्पुत्र᳓मङ्गिरः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -447,8 +458,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञस्य॑ के॒तुम्प्र॑थ॒मम्पु॒रोहि॑तम॒ग्निन्नर॑स्त्रिषध॒स्थे समि॑न्धते ।    
-इन्द्रे॑ण दे॒वैस्स॒रथँ॒ स ब॒र्हिषि॒ सीद॒न्नि होता॑ य॒जथा॑य सु॒क्रतुः॑ ।    
+यज्ञ᳓स्य केतु᳓म्प्रथम᳓म्पुरो᳓हितमग्नि᳓न्न᳓रस्त्रिषधस्थे᳓ स᳓मिन्धते ।    
+इ᳓न्द्रेण देवै᳓स्सर᳓थँ स᳓ बर्हि᳓षि सी᳓दन्नि᳓ हो᳓ता यज᳓थाय सुक्र᳓तुः ।    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -469,8 +480,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वाञ्चि॑त्रश्रवस्तम॒ हव॑न्ते वि॒क्षु ज॒न्तवः॑ ।    
-शो॒चिष्के॑शम्पुरुप्रि॒याग्ने॑ ह॒व्याय॒ वोढ॑वे ।  
+त्वा᳓ञ्चित्रश्रवस्तम ह᳓वन्ते विक्षु᳓ जन्त᳓वः ।    
+शोचि᳓ष्केशम्पुरुप्रिया᳓ग्ने हव्या᳓य वो᳓ढवे ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -491,8 +502,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सखा॑य॒स्सव्ँव॑स्स॒म्यञ्च॒मिष॑म् [12]  स्तोम॑ञ्चा॒ग्नये॑ ।    
-वर्षि॑ष्ठाय क्षिती॒नामू॒र्जो नप्त्रे॒ सह॑स्वते ।    
+स᳓खायस्सव्ँ᳓वस्सम्य᳓ञ्चमि᳓षम् [12]  स्तो᳓मञ्चाग्न᳓ये ।    
+व᳓र्षिष्ठाय क्षितीना᳓मूर्जो᳓ न᳓प्त्रे स᳓हस्वते ।    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -513,8 +524,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सँस॒मिद्यु॑वसे वृष॒न्नग्ने॒ विश्वा॑न्य॒र्य आ ।    
-इ॒डस्प॒दे समि॑ध्यसे॒ स नो॒ वसू॒न्या भ॑र ।
+सँ᳓समि᳓द्युवसे वृषन्न᳓ग्ने वि᳓श्वान्यर्य᳓ आ᳓ ।    
+इड᳓स्पदे᳓ स᳓मिध्यसे स᳓ नो व᳓सून्या᳓ भर ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -535,8 +546,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ना वो॑ अ॒ग्निन्नम॑सो॒र्जो नपा॑त॒मा हु॑वे ।    
-प्रि॒यञ्चेति॑ष्ठमर॒तिँ स्व॑ध्व॒रव्ँविश्व॑स्य दू॒तम॒मृत॑म् ।    
+एना᳓ वो अग्नि᳓न्न᳓मसोर्जो᳓ न᳓पातमा᳓ हुवे ।    
+प्रिय᳓ञ्चे᳓तिष्ठमरतिँ᳓ स्वध्वरव्ँ᳓वि᳓श्वस्य दूत᳓ममृ᳓तम् ।    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -557,8 +568,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स यो॑जते अरु॒षो वि॒श्वभो॑जसा॒ स दु॑द्रव॒त्स्वा॑हुतः ।    
-सु॒ब्रह्मा॑ य॒ज्ञस्सु॒शमी॑ [13]  वसू॑नान्दे॒वँ राधो॒ जना॑नाम् ।    
+स᳓ योजते अरुषो᳓ विश्व᳓भोजसा स᳓ दुद्रवत्स्वा᳙हुतः ।    
+सुब्र᳓ह्मा यज्ञ᳓स्सुश᳓मी [13]  व᳓सूनान्देवँ᳓ रा᳓धो ज᳓नानाम् ।    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -579,8 +590,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद॑स्य शो॒चिर॑स्थादा॒जुह्वा॑नस्य मी॒ढुषः॑ ।    
-उद्धू॒मासो॑ अरु॒षासो॑ दिवि॒स्पृश॒स्सम॒ग्निमि॑न्धते॒ नरः॑ ।   
+उ᳓दस्य शोचि᳓रस्थादाजु᳓ह्वानस्य मीढु᳓षः ।    
+उ᳓द्धूमा᳓सो अरुषा᳓सो दिविस्पृ᳓शस्स᳓मग्नि᳓मिन्धते न᳓रः ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -601,8 +612,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॒ वाज॑स्य॒ गोम॑त॒ ईशा॑नस्सहसो यहो ।    
-अ॒स्मे धे॑हि जातवेदो॒ महि॒ श्रवः॑ ।  
+अ᳓ग्ने वा᳓जस्य गो᳓मत ई᳓शानस्सहसो यहो ।    
+अस्मे᳓ धेहि जातवेदो म᳓हि श्र᳓वः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -623,8 +634,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स इ॑धा॒नो वसु॑ष्क॒विर॒ग्निरी॒डेन्यो॑ गि॒रा ।    
-रे॒वद॒स्मभ्य॑म्पुर्वणीक दीदिहि ।    
+स᳓ इधानो᳓ व᳓सुष्कवि᳓रग्नि᳓रीडे᳓न्यो गिरा᳓ ।    
+रेव᳓दस्म᳓भ्यम्पुर्वणीक दीदिहि ।    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -645,8 +656,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्ष॒पो रा॑जन्नु॒त त्मनाग्ने॒ वस्तो॑रु॒तोषसः॑ ।    
-स ति॑ग्मजम्भ [14]  र॒क्षसो॑ दह॒ प्रति॑ ।  
+क्षपो᳓ राजन्नुत᳓ त्म᳓ना᳓ग्ने व᳓स्तोरुतो᳓ष᳓सः ।    
+स᳓ तिग्मजम्भ [14]  रक्ष᳓सो दह प्र᳓ति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -667,8 +678,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ ते॑ अग्न इधीमहि द्यु॒मन्त॑न्देवा॒जर॑म् ।    
-यद्ध॒ स्या ते॒ पनी॑यसी स॒मिद्दी॒दय॑ति॒ द्यवीषँ॑ स्तो॒तृभ्य॒ आ भ॑र ।    
+आ᳓ ते अग्न इधीमहि द्युम᳓न्तन्देवाज᳓रम् ।    
+य᳓द्ध स्या᳓ ते प᳓नीयसी समि᳓द्दीद᳓यति द्य᳓वी᳓षँ स्तोतृ᳓भ्य आ᳓ भर ।    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -689,8 +700,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ ते॑ अग्न ऋ॒चा ह॒विश्शु॒क्रस्य॑ ज्योतिषस्पते ।    
-सुश्च॑न्द्र॒ दस्म॒ विश्प॑ते॒ हव्य॑वा॒ट्तुभ्यँ॑ हूयत॒ इषँ॑ स्तो॒तृभ्य॒ आ भ॑र ।   
+आ᳓ ते अग्न ऋचा᳓ हवि᳓श्शुक्र᳓स्य ज्योतिषस्पते ।    
+सु᳓श्चन्द्र द᳓स्म वि᳓श्पते ह᳓व्यवाट्तु᳓भ्यँ हूयत इ᳓षँ स्तोतृ᳓भ्य आ᳓ भर ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -709,8 +720,7 @@ _______
 अत् तृतीयां पङ्क्तिमाह— उभं सुश्चन्द्रेति ।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/006/09_ubhe_sushchandra.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/006/09_ubhe_sushchandra.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 उभे᳓ सुश्चन्द्र सर्पि᳓षो  
@@ -719,11 +729,17 @@ _______
 उक्थे᳓षु शवसस् पत  
 इ᳓षं स्तोतृ᳓भ्य आ᳓ भर
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/006/09_ubhe_sushchandra.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/006/09_ubhe_sushchandra.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+उ॒भे सु॑श्चन्द्र स॒र्पिषो॒ दर्वी॑ श्रीणीष आ॒सनि॑ ।  
+उ॒तो न॒ उत्पु॑पूर्या उ॒क्थेषु॑ शवसस्पत॒ इषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/006/09_ubhe_sushchandra.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -974,6 +990,15 @@ _________
 **Yajus**. 15.43; the two ladles: termed **juhu** and upabhṛt, two ladles used for pouring the oiled butter upon the fire; or ubhe **darvi**, two **hands** serving as ladles
 </details>
 
+<details><summary>Keith</summary>
+
+O bright one, in thy mouth thou cookest
+Both ladles (full) of butter;
+Do thou make us full
+For our hymns, O lord of strength;
+Do thou bear food to the praisers.
+</details>
+
 <details><summary>Jamison Brereton</summary>
 
 O you who are beautifully shimmering, you make the two spoonsful of  melted butter ready within your mouth,  
@@ -1059,7 +1084,6 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 भावार्थभाषाः -  जो राजा सेनेची भोजन व्यवस्था व उत्तम आरोग्य यासाठी वैद्य बाळगतो, तोच प्रशंसित होऊन राज्य वाढवितो. ॥ ९ ॥
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1069,8 +1093,8 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॒ तम॒द्याश्व॒न्न स्तोमै॒ᳵ क्रतु॒न्न भ॒द्रँ हृ॑दि॒स्पृश॑म् ।    
-ऋ॒ध्यामा॑ त॒ ओहैः॑ ।    
+अ᳓ग्ने त᳓मद्या᳓श्वन्न᳓ स्तो᳓मैᳵ क्र᳓तुन्न᳓ भद्रँ᳓ हृदिस्पृ᳓शम् ।    
+ऋध्या᳓मा त ओ᳓हैः ।    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1091,8 +1115,8 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अधा॒ ह्य॑ग्ने॒ क्रतो॑र्भ॒द्रस्य॒ दक्ष॑स्य सा॒धोः ।    
-र॒थीर्ऋ॒तस्य॑ बृह॒तो ब॒भूथ॑ ।
+अ᳓धा ह्य᳙ग्ने क्र᳓तोर्भद्र᳓स्य द᳓क्षस्य साधोः᳓ ।    
+रथी᳓रृत᳓स्य बृहतो᳓ बभू᳓थ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1113,8 +1137,8 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒भिष्टे॑ अ॒द्य गी॒र्भिर्गृ॒णन्तोऽग्ने॒ दाशे॑म ।    
-प्र ते॑ दि॒वो न स्त॑नयन्ति॒ शुष्माः॑ ।   
+आभि᳓ष्टे अद्य᳓ गीर्भि᳓र्गृण᳓न्तो᳓ऽग्ने दा᳓शेम ।    
+प्र᳓ ते दिवो᳓ न᳓ स्तनयन्ति शु᳓ष्माः ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1135,8 +1159,8 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒भिर्नो॑ अ॒र्कैर्भवा॑ नो अ॒र्वाङ् [16]  सुव॒र्न ज्योतिः॑ ।    
-अग्ने॒ विश्वे॑भिस्सु॒मना॒ अनी॑कैः ।  
+एभि᳓र्नो अर्कै᳓र्भ᳓वा नो अर्वा᳓ङ् [16]  सु᳓वर्न᳓ ज्यो᳓तिः ।    
+अ᳓ग्ने वि᳓श्वेभिस्सुम᳓ना अ᳓नीकैः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1157,10 +1181,10 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निँ होता॑रम्मन्ये॒ दास्व॑न्तव्ँ॒वसोः॑ सू॒नुँ सह॑सो जा॒तवे॑दसम् ।    
-विप्र॒न्न जा॒तवे॑दसम् ।    
-य ऊ॒र्ध्वया॑ स्वध्व॒रो दे॒वो दे॒वाच्या॑ कृ॒पा ।    
-घृ॒तस्य॒ विभ्रा॑ष्टि॒मनु॑ शु॒क्रशो॑चिष आ॒जुह्वा॑नस्य स॒र्पिषः॑ ।  
+अग्निँ᳓ हो᳓तारम्मन्ये दा᳓स्वन्तव्ँव᳓सोः सूनुँ᳓ स᳓हसो जात᳓वेदसम् ।    
+वि᳓प्रन्न᳓ जात᳓वेदसम् ।    
+य᳓ ऊर्ध्व᳓या स्वध्वरो᳓ देवो᳓ देवा᳓च्या कृपा᳓ ।    
+घृत᳓स्य वि᳓भ्राष्टिम᳓नु शुक्र᳓शोचिष आजु᳓ह्वानस्य सर्पि᳓षः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1183,8 +1207,8 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॒ त्वन्नो॒ अन्त॑मः ।    
-उ॒त त्रा॒ता शि॒वो भ॑व वरू॒थ्यः॑ ।
+अ᳓ग्ने त्व᳓न्नो अ᳓न्तमः ।    
+उत᳓ त्राता᳓ शिवो᳓ भव वरूथ्यः᳙ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1205,8 +1229,8 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन्त्वा॑ शोचिष्ठ दीदिवः ।    
-सु॒म्नाय॑ नू॒नमी॑महे॒ सखि॑भ्यः ।    
+त᳓न्त्वा शोचिष्ठ दीदिवः ।    
+सुम्ना᳓य नून᳓मीमहे स᳓खिभ्यः ।    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1227,8 +1251,8 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वसु॑र॒ग्निर्वसु॑श्रवाः ।    
-अच्छा॑ नक्षि द्यु॒मत्त॑मो र॒यिन्दाः॑ ॥   [17]  
+व᳓सुरग्नि᳓र्व᳓सुश्रवाः ।    
+अ᳓च्छा नक्षि द्युम᳓त्तमो रयि᳓न्दाः ॥   [17]  
 </details>
 
 <details><summary>मूलम्</summary>

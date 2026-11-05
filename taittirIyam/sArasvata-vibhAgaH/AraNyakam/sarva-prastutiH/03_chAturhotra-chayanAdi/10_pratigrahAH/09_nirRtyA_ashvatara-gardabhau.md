@@ -1,22 +1,21 @@
 +++
 title = "०९ निरृत्या अश्वतर-गर्दभौ"
-
 +++
 
 <details><summary>मूलम्</summary>
 
 निर्ऋ॑त्या अश्वतरगर्द॒भौ ।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
-<details open><summary><h5>दे॒वस्य॑ त्वा सवि॒तुः प्रति॑गृह्णामि ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम् आरण्यके)</summary>
 
 दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वे ।  
 अ॒श्विनो॑र्बा॒हुभ्या॑म् ।  
 पू॒ष्णो हस्ता॑भ्यां॒ प्रति॑गृह्णामि ।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-<details open><summary><h10>देवस्य त्वा सवितुः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
@@ -39,7 +38,7 @@ with the hands of Pusan.
 
 <details><summary>पद-पाठः</summary>
 
-दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
+3M । दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -55,8 +54,8 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓तिगृह्णामि
@@ -66,8 +65,8 @@ ______________
 
 प्रति॑गृह्णामि
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रा᳓जा त्वा व᳓रुणो नयतु  
@@ -84,8 +83,8 @@ ______________
 
 हे हिरण्यात्मिके ! देवि! दक्षिणे! राजा वरुणः त्वां ... नयतु । तच्चेयमिष्टकाऽस्ति ।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
-<details open><summary><h5>तेना॑मृत॒त्वम॑श्याम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नामृतत्व᳓मश्याम् ।  
@@ -195,6 +194,5 @@ ______________
 इयं वा उत्तान आङ्गीरतः' इति ब्राह्मणम् ।  
 तस्मात् पृथिव्येव त्वां प्रतिगृह्णातु  
 नाहमस्य प्रतिग्रहीतेति ॥
-</details>
 </details>
 </div>

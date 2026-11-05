@@ -7,17 +7,20 @@ unicode_script: devanagari
 
 (SB) 1षष्ठे गोसवोऽभिहितः । सप्तम ओदनसवोऽभिधीयते । कल्पः - 'ओदनसवेनान्नाद्यकामो रोहिण्यां यजेत । उपव्युषं श्रपयति दर्विहोमो भवत्युदित आदित्ये सिँहे व्याघ्र इति चतस्र आहुतीरोदनाद्धुत्वा' इति । 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/02_siMhe_vyAghra.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-सिँ॒हे व्या॒घ्र उ॒त या पृदा॑कौ+++(=अजगरे)+++ ।  
-**त्विषि॑र्** अ॒ग्नौ ब्रा॑ह्म॒णे सूर्ये॒ या ।  
-इन्द्रय्ँ॒ या **दे॒वी** सु॒भगा॑ **ज॒जान॑** ।  
-सा न॒ **आग॒न्** वर्च॑सा **सव्ँ विदा॒ना** ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/02_siMhe_vyAghra.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+सिँहे᳓ व्याघ्र᳓ उत᳓ या᳓ पृ᳓दाकौ+++(=अजगरे)+++ ।  
+**त्वि᳓षिर्** अग्नौ᳓ ब्राह्मणे᳓ सू᳓र्ये या᳓ ।  
+इ᳓न्द्रय्ँ या᳓ **देवी᳓** सुभ᳓गा **जजा᳓न** ।  
+सा᳓ न **आ᳓गन्** व᳓र्चसा **सव्ँ विदाना᳓** ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/02_siMhe_vyAghra.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/02_siMhe_vyAghra.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 सिँ॒हे व्या॒घ्र उ॒त या पृदा॑कौ ।  
@@ -35,17 +38,20 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/05_yA_rAjanye.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-या रा॑ज॒न्ये॑, दुन्दु॒भाव् आय॑तायाम् ।  
-अश्व॑स्य॒ क्रन्द्ये॒, पुरु॑षस्य मा॒यौ ।    
-इन्द्रय्ँ॒ या दे॒वी सु॒भगा॑ **ज॒जान॑** ।  
-सा न॒ **आग॒न्** वर्च॑सा **सव्ँ विदा॒ना ।**
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/05_yA_rAjanye.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+या᳓ राजन्ये᳙, दुन्दुभा᳓व् आ᳓यतायाम् ।  
+अ᳓श्वस्य क्र᳓न्द्ये, पु᳓रुषस्य मायौ᳓ ।    
+इ᳓न्द्रय्ँ या᳓ देवी᳓ सुभ᳓गा **जजा᳓न** ।  
+सा᳓ न **आ᳓गन्** व᳓र्चसा **सव्ँ विदाना᳓ ।**
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/05_yA_rAjanye.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/05_yA_rAjanye.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 या रा॑ज॒न्ये॑ दुन्दु॒भावाय॑तायाम् ।  
@@ -62,17 +68,20 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/08_yA_hastini.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-या ह॒स्तिनि॑ द्वी॒पिनि॒ या हिर॑ण्ये ।  
-**त्विषि॒र्** अश्वे॑षु॒ पुरु॑षेषु॒ गोषु॑ ॥16॥  
-इन्द्रय्ँ॒ या **दे॒वी** सु॒भगा॑ **ज॒जान॑** ।  
-सा न॒ **आग॒न्** वर्च॑सा **सव्ँ विदा॒ना ।**
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/08_yA_hastini.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+या᳓ हस्ति᳓नि द्वीपि᳓नि या᳓ हि᳓रण्ये ।  
+**त्वि᳓षिर्** अ᳓श्वेषु पु᳓रुषेषु गो᳓षु ॥16॥  
+इ᳓न्द्रय्ँ या᳓ **देवी᳓** सुभ᳓गा **जजा᳓न** ।  
+सा᳓ न **आ᳓गन्** व᳓र्चसा **सव्ँ विदाना᳓ ।**
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/08_yA_hastini.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/08_yA_hastini.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 या ह॒स्तिनि॑ द्वी॒पिनि॒ या हिर॑ण्ये ।  
@@ -89,17 +98,20 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/11_rathe_akhSheShu.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-रथे॑, अ॒क्षेषु॑, वृष॒भस्य॒ वाजे॑ ।  
-वाते॑, प॒र्जन्ये॒, वरु॑णस्य॒ शुष्मे॑ ।  
-इन्द्रय्ँ॒ या दे॒वी सु॒भगा॑ **ज॒जान॑** ।  
-सा न॒ **आग॒न्** वर्च॑सा **सव्ँ विदा॒ना ।**
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/11_rathe_akhSheShu.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+र᳓थे, अक्षे᳓षु, वृषभ᳓स्य वा᳓जे ।  
+वा᳓ते, पर्ज᳓न्ये, व᳓रुणस्य शु᳓ष्मे ।  
+इ᳓न्द्रय्ँ या᳓ देवी᳓ सुभ᳓गा **जजा᳓न** ।  
+सा᳓ न **आ᳓गन्** व᳓र्चसा **सव्ँ विदाना᳓ ।**
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/11_rathe_akhSheShu.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/11_rathe_akhSheShu.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 रथे॑ अ॒क्षेषु॑ वृष॒भस्य॒ वाजे॑ ।  
@@ -116,6 +128,7 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5कल्पः - 'राडसीत्येतैः प्रतिमन्त्रं मन्थान्कल्पयन्त्याज्यमन्थं ब्राह्मणः पयोमन्थं राजन्यो दधिमन्थं वैश्य उदमन्थं शूद्रः' इति । तान्मन्त्रानाह - 
@@ -123,7 +136,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे आज्यमन्थ!)+++ राड् अ॑सि। वि॒राड् अ॑सि ।
++++(हे आज्यमन्थ!)+++ रा᳓ड् असि। विरा᳓ड् असि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -138,7 +151,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒म्राड् अ॑सि। स्व॒-राड् अ॑सि ।
+सम्रा᳓ड् असि। स्व-रा᳓ड् असि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -158,7 +171,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य त्वा॒ तेज॑स्वते॒ तेज॑स्वन्तँ **श्रीणामि** ।  
+इ᳓न्द्राय त्वा ते᳓जस्वते ते᳓जस्वन्तँ **श्रीणामि** ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -173,7 +186,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य॒ त्वौज॑स्वत॒ ओज॑स्वन्तँ **श्रीणामि** ॥17॥  
+इ᳓न्द्राय त्वौ᳓जस्वत ओ᳓जस्वन्तँ **श्रीणामि** ॥17॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -188,7 +201,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य त्वा॒ पय॑स्वते॒ पय॑स्वन्तँ **श्रीणामि** ।
+इ᳓न्द्राय त्वा प᳓यस्वते प᳓यस्वन्तँ **श्रीणामि** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -203,7 +216,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य॒ त्वाऽऽयु॑ष्मत॒ आयु॑ष्मन्तँ **श्रीणामि** ।
+इ᳓न्द्राय त्वा᳓ऽऽयुष्मत आ᳓युष्मन्तँ **श्रीणामि** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -223,8 +236,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(आज्यमन्थ!)+++ तेजो॑ ऽसि ।
-+++(यजमान!)+++ तत् ते॒ प्रय॑च्छामि ।
++++(आज्यमन्थ!)+++ ते᳓जो ऽसि ।
++++(यजमान!)+++ त᳓त् ते प्र᳓यच्छामि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -238,17 +251,20 @@ unicode_script: devanagari
 हे आज्यमन्थ! त्वं तेजोरूपोऽसि ।  
 हे यजमान! तन्मन्थद्रव्यं ते तुभ्यं प्रयच्छामि ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/38_tejasvad_astu.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-तेज॑स्वद् **अस्तु** मे॒ मुख॑म् ।  
-तेज॑स्व॒च् छिरो॑ **अस्तु** मे ।  
-तेज॑स्वान् वि॒श्वत॑ᳶ प्र॒त्यङ्ङ् ।  
-तेज॑सा॒ **सम्पि॑पृग्धि** मा ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/38_tejasvad_astu.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+ते᳓जस्वद् **अस्तु** मे मु᳓खम् ।  
+ते᳓जस्वच् छि᳓रो **अस्तु** मे ।  
+ते᳓जस्वान् विश्व᳓तᳶ प्रत्य᳓ङ्ङ् ।  
+ते᳓जसा **स᳓म्पिपृग्धि** मा ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/38_tejasvad_astu.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/38_tejasvad_astu.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 तेज॑स्वदस्तु मे॒ मुख॑म् ।  
@@ -267,6 +283,7 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 8-9पयोमन्थस्याभिमन्त्रणादींस्त्रीन्मन्त्रानाह - 
@@ -274,8 +291,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओजो॑ऽसि ।
-तत्ते॒ प्रय॑च्छामि ॥18॥  
+ओ᳓जोऽसि ।
+त᳓त्ते प्र᳓यच्छामि ॥18॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -288,17 +305,20 @@ unicode_script: devanagari
 
 ओजो बलम् । अन्यत्पूर्ववद्व्याख्येयम् ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/45_ojasvad_astu.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-ओज॑स्वद् **अस्तु** मे॒ मुख॑म् ।
-ओज॑स्व॒च् छिरो॑ **अस्तु** मे ।  
-ओज॑स्वान् वि॒श्वत॑ᳶ प्र॒त्यङ्ङ् ।
-ओज॑सा॒ **सम्पि॑पृग्धि** मा ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/45_ojasvad_astu.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+ओ᳓जस्वद् **अस्तु** मे मु᳓खम् ।
+ओ᳓जस्वच् छि᳓रो **अस्तु** मे ।  
+ओ᳓जस्वान् विश्व᳓तᳶ प्रत्य᳓ङ्ङ् ।
+ओ᳓जसा **स᳓म्पिपृग्धि** मा ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/45_ojasvad_astu.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/45_ojasvad_astu.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 ओज॑स्वदस्तु मे॒ मुख॑म् ।
@@ -308,6 +328,7 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 दधिमन्थस्याभिमन्त्रणादींस्त्रीन्मन्त्रानाह - दधिमन्थस्य पयोविकारत्वात्पयस्त्वम् ।
@@ -315,8 +336,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पयो॑ऽसि ।
-तत्ते॒ प्रय॑च्छामि ।
+प᳓योऽसि ।
+त᳓त्ते प्र᳓यच्छामि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -324,17 +345,20 @@ unicode_script: devanagari
 पयो॑ऽसि ।
 तत्ते॒ प्रय॑च्छामि ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/50_payasvad_astu.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-पय॑स्वद् **अस्तु** मे॒ मुख॑म् ।  
-पय॑स्व॒च्छिरो॑ **अस्तु** मे ।   
-पय॑स्वान् वि॒श्वत॑ᳶ प्र॒त्यङ्ङ् ।   
-पय॑सा॒ **सम्पि॑पृग्धि** मा ॥19॥
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/50_payasvad_astu.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+प᳓यस्वद् **अस्तु** मे मु᳓खम् ।  
+प᳓यस्वच्छि᳓रो **अस्तु** मे ।   
+प᳓यस्वान् विश्व᳓तᳶ प्रत्य᳓ङ्ङ् ।   
+प᳓यसा **स᳓म्पिपृग्धि** मा ॥19॥
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/50_payasvad_astu.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/50_payasvad_astu.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 पय॑स्वदस्तु मे॒ मुख॑म् ।  
@@ -349,10 +373,11 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आयु॑रसि ।
-तत्ते॒ प्रय॑च्छामि ।
+आ᳓युरसि ।
+त᳓त्ते प्र᳓यच्छामि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -360,17 +385,20 @@ unicode_script: devanagari
 आयु॑रसि ।
 तत्ते॒ प्रय॑च्छामि ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/55_AyuShmad_astu.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-आयु॑ष्मद् **अस्तु** मे॒ मुखम्॑ ।  
-आयु॑ष्म॒च् छिरो॑ **अस्तु** मे ।   
-आयु॑ष्मान् वि॒श्वत॑ᳶ प्र॒त्यङ्ङ् ।   
-आयु॑षा॒ **सम्पि॑पृग्धि** मा ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/55_AyuShmad_astu.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+आ᳓युष्मद् **अस्तु** मे मु᳓ख᳓म् ।  
+आ᳓युष्मच् छि᳓रो **अस्तु** मे ।   
+आ᳓युष्मान् विश्व᳓तᳶ प्रत्य᳓ङ्ङ् ।   
+आ᳓युषा **स᳓म्पिपृग्धि** मा ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/55_AyuShmad_astu.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/55_AyuShmad_astu.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 आयु॑ष्मदस्तु मे॒ मुखम्॑ ।  
@@ -380,21 +408,25 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 10-11उदमन्थस्याभिमन्त्रणादींस्त्रीन्मन्त्रानाह - उदमन्थस्यायुर्हेतुत्वादायुष्ट्वम् । अन्यत्पर्वूवत् । कल्पः - 'ओदनशेषं यजमानः प्राश्नाति, इममग्न आयुषे वर्चसे कृधीति प्राश्नन्तमभिमन्त्रयते' इति । 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/58_imam_agna.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-इ॒मम् अ॑ग्न॒ आयु॑षे॒ वर्च॑से **कृधि** ।  
-प्रि॒यँ रेतो॑ वरुण सोम राजन् ।  
-मा॒तेवा॑स्मा अदिते॒ शर्म॑ **यच्छ** ।  
-विश्वे॑ देवा॒ जर॑-दष्टि॒र् यथा **ऽस॑त्** ॥20॥
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/58_imam_agna.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+इम᳓म् अग्न आ᳓युषे व᳓र्चसे **कृधि** ।  
+प्रियँ᳓ रे᳓तो वरुण सोम राजन् ।  
+माते᳓वास्मा अदिते श᳓र्म **यच्छ** ।  
+वि᳓श्वे देवा ज᳓र-दष्टिर् य᳓था᳓ **ऽसत्** ॥20॥
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/58_imam_agna.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/58_imam_agna.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 इ॒मम॑ग्न॒ आयु॑षे॒ वर्च॑से कृधि ।  
@@ -409,6 +441,7 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 12कल्पः - 'हिरण्यं यजमानाय बध्नाति' 'आयुरसि विश्वायुरसि' इत्याबध्यमानो जपति' इति । 
@@ -416,9 +449,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आयु॑र् **असि**।  
-वि॒श्वायु॑र् **असि** ।
-स॒र्वायु॑र् **असि॒**, सर्व॒म् आयु॑र् **असि** ।
+आ᳓युर् **असि**।  
+विश्वा᳓युर् **असि** ।
+सर्वा᳓युर् **असि**, स᳓र्वम् आ᳓युर् **असि** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -438,17 +471,20 @@ unicode_script: devanagari
 
 13कल्पः - 'तैरेनं संसृष्टैरभिषिञ्चति यतो वातो मनोजवाः' इति । तैः अपां ग्रहैः । 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/66_yato_vAto.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यतो॒ वातो॒ मनो॑जवाः ।   
-यतः॒ **क्षर॑न्ति॒** सिन्ध॑वः ।  
-तासा॑न् त्वा॒ सर्वा॑साँ रु॒चा ।  
-**अ॒भिषि॑ञ्चामि॒** वर्च॑सा ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/66_yato_vAto.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+य᳓तो वा᳓तो म᳓नोजवाः ।   
+य᳓तः **क्ष᳓रन्ति** सि᳓न्धवः ।  
+ता᳓सान् त्वा स᳓र्वासाँ रुचा᳓ ।  
+**अभि᳓षिञ्चामि** व᳓र्चसा ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/66_yato_vAto.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/66_yato_vAto.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 यतो॒ वातो॒ मनो॑जवाः ।   
@@ -463,17 +499,20 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/69_samudra_ivAsi.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-स॒मु॒द्र **इ॑वासि** ग॒ह्मना॑ ।  
-सोम॑ इवा॒स्य् **अदा॑भ्यः** ।  
-अ॒ग्निर् इ॑व वि॒श्वत॑ᳶ प्र॒त्यङ्ङ् ।  
-सूर्य॑ इव॒ ज्योति॑षा वि॒भूः ॥21॥+++(5)+++
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/69_samudra_ivAsi.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+समुद्र᳓ **इवासि** गह्म᳓ना ।  
+सो᳓म इवास्य् **अ᳓दाभ्यः** ।  
+अग्नि᳓र् इव विश्व᳓तᳶ प्रत्य᳓ङ्ङ् ।  
+सू᳓र्य इव ज्यो᳓तिषा विभूः᳓ ॥21॥+++(5)+++
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/69_samudra_ivAsi.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/69_samudra_ivAsi.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 स॒मु॒द्र इ॑वासि ग॒ह्मना॑ ।  
@@ -499,6 +538,7 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 13कल्पः - “अपां ग्रहान्गृह्णन्ति ये मन्थान्कल्पयन्ति 'अपां यो द्रवणे रसः' इत्येतैः प्रतिमन्त्रम्” इति । तानेतांश्चतुरो मन्त्रानाह - 
@@ -506,9 +546,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पाय्ँ यो द्रव॑णे॒ रसः॑ ।  
-तम् अ॒हम् अ॒स्मा आ॑मुष्याय॒णाय॒ +++(→पुत्राय)+++  
-तेज॑से ब्रह्मवर्च॒साय॑ **गृह्णामि** ।   
+अपाय्ँ᳓ यो᳓ द्र᳓वणे र᳓सः ।  
+त᳓म् अह᳓म् अस्मा᳓ आमुष्यायणा᳓य +++(→पुत्राय)+++  
+ते᳓जसे ब्रह्मवर्चसा᳓य **गृह्णामि** ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -526,9 +566,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पाय्ँ य ऊ॒र्मौ रसः॑ ।   
-तम् अ॒हम् अ॒स्मा आ॑मुष्याय॒णाय॒  
-ओज॑से वी॒र्या॑य **गृह्णामि** ।   
+अपाय्ँ᳓ य᳓ ऊर्मौ᳓ र᳓सः ।   
+त᳓म् अह᳓म् अस्मा᳓ आमुष्यायणा᳓य  
+ओ᳓जसे वीर्या᳙य **गृह्णामि** ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -540,9 +580,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पाय्ँ यो म॑ध्य॒तो रसः॑ ।  
-तम् अ॒हम् अ॒स्मा आ॑मुष्याय॒णाय॒  
-पुष्ट्यै॑ प्र॒जन॑नाय **गृह्णामि** ।  
+अपाय्ँ᳓ यो᳓ मध्यतो᳓ र᳓सः ।  
+त᳓म् अह᳓म् अस्मा᳓ आमुष्यायणा᳓य  
+पु᳓ष्ट्यै प्रज᳓ननाय **गृह्णामि** ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -553,9 +593,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पाय्ँ यो य॒ज्ञियो॒ रसः॑ ।  
-तम् अ॒हम् अ॒स्मा आ॑मुष्याय॒णाय॒  
-+आ॒यु॑षे दीर्घायु॒त्वाय॑ गृह्णामि ॥22॥  
+अपाय्ँ᳓ यो᳓ यज्ञि᳓यो र᳓सः ।  
+त᳓म् अह᳓म् अस्मा᳓ आमुष्यायणा᳓य  
++आयु᳙षे दीर्घायुत्वा᳓य गृह्णामि ॥22॥  
 </details>
 
 <details><summary>मूलम्</summary>

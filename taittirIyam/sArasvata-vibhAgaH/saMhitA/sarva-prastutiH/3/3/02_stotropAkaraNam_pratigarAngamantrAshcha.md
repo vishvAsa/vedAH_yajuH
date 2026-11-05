@@ -1,6 +1,5 @@
 +++
 title = "०२ स्तोत्रोपाकरणम्, प्रतिगराङ्गमन्त्राश्च"
-
 +++
 विश्वेदेवा ऋषयः
 
@@ -16,13 +15,13 @@ title = "०२ स्तोत्रोपाकरणम्, प्रति�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒युर् हि॑ङ्-क॒र्ता  
-ऽग्निᳶ प्र॑स्तो॒ता  
-प्र॒जाप॑ति॒स् साम॒  
-बृह॒स्-पति॑र् उद्गा॒ता  
-विश्वे॑ दे॒वा उ॑पगा॒तारो॑  
-म॒रुतᳶ॑ प्रतिह॒र्तार॒  
-इन्द्रो॑ नि॒धन॑म्
+वायु᳓र् हिङ्-कर्ता᳓  
+ऽग्निᳶ᳓ प्रस्तोता᳓  
+प्रजा᳓पतिस् सा᳓म  
+बृ᳓हस्-प᳓तिर् उद्गाता᳓  
+वि᳓श्वे देवा᳓ उपगाता᳓रो  
+मरु᳓तᳶ प्रतिहर्ता᳓र  
+इ᳓न्द्रो निध᳓नम्
 </details>
 
 <details><summary>Keith</summary>
@@ -42,7 +41,7 @@ The maker of the sound 'Him' is Vayu, the Prastotr is Agni, the Saman is Prajapa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वाᳶ प्रा॑ण॒भृतᳶ॑, प्रा॒णम् मयि॑ दधतु ।
+ते᳓ देवाᳶ᳓ प्राणभृ᳓तᳶ, प्राण᳓म् म᳓यि दधतु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -67,8 +66,8 @@ may these gods who support breath bestow breath upon me.
 
 <details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
-ए॒तद् वै सर्व॑म् अध्व॒र्युर् उ॑पाकु॒र्वन्न्  
-उ॑द्गा॒तृभ्य॑ उ॒पाक॑रोति ।  
+एत᳓द् वै᳓ स᳓र्वम् अध्वर्यु᳓र् उपाकुर्व᳓न्न्  
+उद्गातृ᳓भ्य उपा᳓करोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -88,8 +87,8 @@ All this the Adhvaryu, as he begins, begins for the Udgatrs;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"ते दे॒वाᳶ प्रा॑ण॒भृतᳶ॑ प्रा॒णम् मयि॑ दध॒त्व्" इत्य् आ॑ह -  
-ए॒तद् ए॒व सर्व॑म् आ॒त्मन् ध॑त्ते ।  
+"ते᳓ देवाᳶ᳓ प्राणभृ᳓तᳶ प्राण᳓म् म᳓यि दधत्व्" इ᳓त्य् आह -  
+एत᳓द् एव᳓ स᳓र्वम् आत्म᳓न् धत्ते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -109,8 +108,8 @@ All this the Adhvaryu, as he begins, begins for the Udgatrs;
 
 यस्मादेवमाह, तस्मादेतत्सर्वं हिंकर्त्रादीनि सर्वाण्यपि आत्मन् धत्ते आत्मनि स्थापयति स्वयमेव हिंकर्तादिना प्रतिपद्यते । 'सुपां सुलुक्' इति सप्तम्याः लुकि 'न ङिसम्बुध्योः' इति नलोपाभावः ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/iDA_devahUH.md">
-<details open><summary><h5>इडा॑ देव॒हूः ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/iDA_devahUH.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3आर्त्विज्यं वा करिष्यन् शस्त्रं वा प्रतिगरिष्यन् जपति - इडेति ॥ 
@@ -123,10 +122,10 @@ All this the Adhvaryu, as he begins, begins for the Udgatrs;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इडा॑ देव॒हूर्,  
-मनु॑र् यज्ञ॒-नीर्,  
-बृह॒स्-पति॑र् उक्था-म॒दानि॑+++(=प्रतिगरान्)+++ **शँसिष॒द्** ,  
-विश्वे॑ दे॒वास् सू॑क्त॒-वाचः॑  ।  
+इ᳓डा देवहू᳓र्,  
+म᳓नुर् यज्ञ-नी᳓र्,  
+बृ᳓हस्-प᳓तिर् उक्था-मदा᳓नि+++(=प्रतिगरान्)+++ **शँसिषद्** ,  
+वि᳓श्वे देवा᳓स् सूक्त-वा᳓चः  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -155,7 +154,7 @@ The All-gods [1] are reciters of the hymns.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृथि॑वि मात॒र् मा मा॑ हिँसीः ।   
+पृ᳓थिवि मातर् मा᳓ मा हिँसीः ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -172,16 +171,15 @@ O earth mother, do not harm me.
 
 तस्मात् हे पृथिवि मातः सर्वस्य रक्षिके मा मा हिंसीः ।
 </details>
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md">
-<details open><summary><h5>मधु॑ मनिष्ये ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॑ **मनिष्ये** ।  
-मधु॑ **जनिष्ये** ।  
-मधु॑ **वक्ष्यामि** ।  
-मधु॑ **वदिष्यामि** ।
+म᳓धु **मनिष्ये** ।  
+म᳓धु **जनिष्ये** ।  
+म᳓धु **वक्ष्यामि** ।  
+म᳓धु **वदिष्यामि** ।
 </details>
 
 <details><summary>Keith</summary>
@@ -204,8 +202,8 @@ Of honey shall I think, honey shall I produce, honey shall I proclaim, honey sha
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॑मतीन् दे॒वेभ्यो॒ वाच॑म् **उद्यासँ**
-शुश्रू॒षेण्या॑म् मनु॒ष्ये॑भ्यः
+म᳓धुमतीन् देवे᳓भ्यो वा᳓चम् **उद्यासँ**
+शुश्रूषे᳓ण्याम् मनुष्ये᳙भ्यः
 </details>
 
 <details><summary>Keith</summary>
@@ -228,8 +226,8 @@ may I utter speech full of honey for the gods, and acceptable to men.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम् मा॑ दे॒वा **अ॑वन्तु** शो॒भायै॑ ।
-पि॒तरो **ऽनु॑ मदन्तु** ॥
+त᳓म् मा देवा᳓ **अवन्तु** शोभा᳓यै ।
+पित᳓रो᳓ **ऽनु मदन्तु** ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -248,6 +246,5 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 तं मामेवंगुणं देवा अवन्तु रक्षन्तु शोभायै यथा मया कृतं शोभते तथा अनुमदन्तु अनुमोदन्तां, उत्कृष्टत्वेन समीचीनं करोतीति शोभार्थं पितरश्च अनुमोदन्तु । माद्यतेर्व्यत्ययेन शप् ॥
 
 इति तृतीये तृतीये द्वितीयोनुवाकः ॥
-</details>
 </details>
 </div>

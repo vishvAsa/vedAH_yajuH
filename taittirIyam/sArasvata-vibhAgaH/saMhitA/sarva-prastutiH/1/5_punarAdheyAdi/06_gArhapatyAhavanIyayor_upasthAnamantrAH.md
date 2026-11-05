@@ -15,19 +15,17 @@ _______
 1गृहांश्च पशूंश्चोपतिष्ठते - सं पश्यामीति । तत्र प्रथमा गायत्री । शेषाणि यजूंषि 'मयि वो रायश्श्रयन्ताम्' इत्यन्तानि ॥  
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/02_sampashyAmi_prajA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/02_sampashyAmi_prajA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-**सम्प॑श्यामि +++(पशु-)+++प्र॒जा** अ॒हम्  
-इड॑+++(←इडा=गौ|भू|वाक्)+++-प्रजसो मान॒वीः ।  
-**सर्वा॑ भवन्तु** नो गृ॒हे  ॥
-</details>
+**स᳓म्पश्यामि +++(पशु-)+++प्रजा᳓** अह᳓म्  
+इ᳓ड+++(←इडा=गौ|भू|वाक्)+++-प्रजसो मानवीः᳓ ।  
+**स᳓र्वा भवन्तु** नो गृहे᳓  ॥
 
+</details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/02_sampashyAmi_prajA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/02_sampashyAmi_prajA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -52,15 +50,14 @@ May they all be in our house.
 अम्भ॒स्स्थाम्भो॑ वो भक्षीय॒ मह॑स्स्थ॒ महो॑ वो भक्षीय॒ सह॑स्स्थ॒ सहो॑ वो भक्षी॒योर्ज॒स्स्थोर्जव्ँ॑वो भक्षीय॒ रेव॑ती॒ रम॑ध्वम॒स्मिल्ँ लो॒के॑ऽस्मिन्गो॒ष्ठे॑ऽस्मिन्क्षये॒ऽस्मिन् योना॑वि॒हैव स्ते॒तो माऽप॑ गात ब॒ह्वीर्मे॑ भूयास्त
 </details>
 </details>
-
 </div>
 
 _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पशवः!)+++ अम्भ॑स् स्थ।  
-अम्भो॑ वो भक्षीय।
++++(पशवः!)+++ अ᳓म्भस् स्थ।  
+अ᳓म्भो वो भक्षीय।
 </details>
 
 <details><summary>Keith</summary>
@@ -85,7 +82,7 @@ may I share your water.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पशवः!)+++ मह॑स् स्थ॒, महो॑ वो भक्षीय ।
++++(पशवः!)+++ म᳓हस् स्थ, म᳓हो वो भक्षीय ।
 </details>
 
 <details><summary>Keith</summary>
@@ -105,7 +102,7 @@ Ye are greatness, may I share your greatness;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पशवः!)+++ सह॑स्स्थ॒ - सहो॑ वो भक्षी॒य ।
++++(पशवः!)+++ स᳓हस्स्थ - स᳓हो वो भक्षीय᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -125,7 +122,7 @@ ye are might, may I share your might;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पशवः!)+++ ऊर्ज॑स् स्थ॒, ऊर्जव्ँ॑व भक्षीय ।
++++(पशवः!)+++ ऊ᳓र्जस् स्थ, ऊ᳓र्जव्ँव भक्षीय ।
 </details>
 
 <details><summary>Keith</summary>
@@ -146,14 +143,14 @@ ye are strength, may I share your strength.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पशवः!)+++  
-रेव॑ती॒+++(←रयिः)+++ रम॑ध्वम्
-अ॒स्मिन् लो॒के   
-अ॒स्मिन् गो॒ष्ठे   
-अ॒स्मिन् क्षये॒  
-ऽस्मिन् योनौ॑  ।  
-इ॒हैव स्त॑ ।  
-इ॒तो  माऽप॑ गात ।  
-ब॒ह्वीर्मे॑ भूयास्त [21] ।
+रे᳓वती+++(←रयिः)+++ र᳓मध्वम्
+अस्मि᳓न् लोके᳓   
+अस्मि᳓न् गोष्ठे᳓   
+अस्मि᳓न् क्ष᳓ये  
+ऽस्मि᳓न् यो᳓नौ  ।  
+इहै᳓व᳓ स्त ।  
+इतो᳓  मा᳓ऽप गात ।  
+बह्वी᳓र्मे भूयास्त [21] ।
 </details>
 
 <details><summary>Keith</summary>
@@ -204,10 +201,10 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सँ॒हि॒ता ऽसि॑ +++(मात्रा)+++ विश्वरू॒पीर् -  
-आ मो॒र्जा  वि॑श॒
-आ गौ॑प॒त्येन॑   
-आरा॒यस्-पोषे॑ण ।
+सँहिता᳓ ऽसि +++(मात्रा)+++ विश्वरूपी᳓र् -  
+आ᳓ मोर्जा᳓  विश
+आ᳓ गौपत्ये᳓न   
+आराय᳓स्-पो᳓षेण ।
 </details>
 
 <details><summary>Keith</summary>
@@ -233,7 +230,7 @@ Thou art composed of every form; enter me with strength, with lordship of kine, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒ह॒स्र॒पो॒षव्ँवᳶ॑ पुष्यासम् ।
+सहस्रपोषव्ँ᳓वᳶ पुष्यासम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -253,7 +250,7 @@ May I prosper with your thousandfold prosperity;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मयि॑ वो॒ राय॑श् श्रयन्ताम्  ॥
+म᳓यि वो रा᳓यश् श्रयन्ताम्  ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -282,7 +279,7 @@ _______
 उप त्वेति प्रथमा ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/001/07_upa_tvAgne.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/001/07_upa_tvAgne.md">
 
 उ᳓प त्वा ऽग्ने दिवे᳓-दिवे  
 दो᳓षावस्तर्+++(=रात्रावह्नि)+++ धिया᳓ वय᳓म् ।  
@@ -290,8 +287,15 @@ _______
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/001/07_upa_tvAgne.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/001/07_upa_tvAgne.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+उप॑ त्वाग्ने दि॒वेदि॑वे॒ दोषा॑वस्तर्धि॒या व॒यम् ।  
+नमो॒ भर॑न्त॒ एम॑सि ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/001/07_upa_tvAgne.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -555,7 +559,6 @@ Dir, Agni, nahn wir Tag für Tag, o Nachterheller, mit Gebet Und bringen dir Ver
 
 भावार्थभाषाः -  हे सर्व दृष्टा व सर्वात व्याप्त असणाऱ्या, उपासना करण्यायोग्य परमेश्वरा! आम्ही सर्व काम करताना एक क्षणही तुला विसरत नाही. यामुळे आम्हाला अधर्म करण्याची कधी इच्छाही होत नाही. या दृढ निश्चयाने की जो सर्वज्ञ, सर्वांचा साक्षी परमेश्वर आमच्या सर्व कामांना पाहतो. ॥ ७ ॥
 </details>
-
 </div>  
 
 _______
@@ -564,19 +567,17 @@ _______
 5राजन्तमिति द्वितीया - 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/70_rAjantam_adhvarANA~N.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/70_rAjantam_adhvarANA~N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-राज॑न्तम् अध्व॒राणा॑ङ्,  
-गो॒पाम् ऋ॒तस्य॒, दीदि॑विम् ।  
-वर्ध॑मानँ॒ स्वे दमे॑+++(=गृहे)+++ ॥
-</details>
+रा᳓जन्तम् अध्वरा᳓णाङ्,  
+गोपा᳓म् ऋत᳓स्य, दी᳓दिविम् ।  
+व᳓र्धमानँ स्वे᳓ द᳓मे+++(=गृहे)+++ ॥
 
+</details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/70_rAjantam_adhvarANA~N.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/70_rAjantam_adhvarANA~N.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -603,7 +604,6 @@ Waxing in his own horne.
 तं त्वामुपेमसीति ॥
 </details>
 </details>
-
 </div>
 
 _______
@@ -612,19 +612,17 @@ _______
 6स न इति ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/75_sa_napH.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/75_sa_napH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-स नᳶ॑ पि॒तेव॑ सू॒नवे  
-ऽग्ने॑ **सूपाय॒नो भ॑व** ।  
-**सच॑स्वा**+++(=सङ्गच्छस्व)+++ नस् स्व॒स्तये॑  ॥
-</details>
+स᳓ नᳶ पिते᳓व सून᳓वे᳓  
+ऽग्ने **सूपायनो᳓ भव** ।  
+**स᳓चस्वा**+++(=सङ्गच्छस्व)+++ नस् स्वस्त᳓ये  ॥
 
+</details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/75_sa_napH.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/75_sa_napH.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -645,7 +643,6 @@ Befriend us for prosperity.
 किञ्च - नः अस्मान् स्वस्तये अविनाशाय **सचस्व** सङ्गच्छस्व मा कदाचिदपि मुचः । 'अन्येषामपि दृश्येत' इति संहितायां दीर्घत्वम् । स्वस्तय इति विभक्त्यन्तप्रतिरूपोव्ययः ॥
 </details>
 </details>
-
 </div>
 
 _______
@@ -654,18 +651,16 @@ _______
 7अग्ने त्वं न इति ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/80_agne_tvan.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/80_agne_tvan.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-अग्ने॑ [22] त्वन् नो॒ अन्त॑मः+++(=अन्तिकतमः)+++ ।  
-उ॒त त्रा॒ता **शि॒वो भ॑व** वरू॒थ्यः॑+++(=गृह्यः)+++  ॥
-</details>
+अ᳓ग्ने [22] त्व᳓न् नो अ᳓न्तमः+++(=अन्तिकतमः)+++ ।  
+उत᳓ त्राता᳓ **शिवो᳓ भव** वरूथ्यः᳙+++(=गृह्यः)+++  ॥
 
+</details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/80_agne_tvan.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/80_agne_tvan.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -684,18 +679,23 @@ Our protector, kindly, a shield;
 हे **अग्ने त्वं नः** अस्माकम् **अन्तमः** अन्तिकतमः सन्निकृष्टतमः । 'तमे तादेश्च' इति तादिलोपः । उत अपिच त्राता रक्षकः भयेष्विति गम्यते । शिवः सुखकरः सर्वदा भव अस्माकं **वरूथ्यः** गृहे भवः नित्यसन्निहितः । दिगादित्वाद्यत् । **वरूथाय** गृहाय वा हितः **वरूथ्यः** । उगवादिर्द्रष्टव्यः ॥
 </details>
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/024/04_taM_tvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/024/04_taM_tvA.md">
 
 तं᳓ त्वा शोचिष्ठ दीदिवः  
 सुम्ना᳓य नून᳓म् ईमहे स᳓खिभ्यः
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/024/04_taM_tvA.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/024/04_taM_tvA.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+तं त्वा॑ शोचिष्ठ दीदिवः सु॒म्नाय॑ नू॒नमी॑महे॒ सखि॑भ्यः ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/024/04_taM_tvA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -893,21 +893,18 @@ Denn dich, o hellster, leuchtender, begehren wir zum Heil nun für die Freunde.
 
 भावार्थभाषाः -  सर्वैः प्रजाराजजनै राजानं प्रत्येवं वाच्यं भवान् सर्वेभ्योऽपराधेभ्यः स्वयम्पृथग्भूत्वाऽस्मान् रक्षयित्वा विद्याप्रचारं धार्मिकेभ्यो मित्रेभ्यः सुखं वर्धयित्वा दुष्टान् सततं दण्डयेदिति ॥४॥ अत्राग्नीश्वरविद्वद्गुणवर्णनादेतदर्थस्य पूर्वसूक्तार्थेन सह सङ्गतिर्वेद्या ॥ इति चतुर्विंशतितमं सूक्तं षोडशो वर्गश्च समाप्तः ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/107_vasur_agnir.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/107_vasur_agnir.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-वसु॑र् अ॒ग्निर् वसु॑-श्रवाः ।  
-अच्छा॑ **नक्षि**+++(=प्राप्नुहि)+++ द्यु॒मत्त॑मो र॒यिन्दाः॑  ॥
-</details>
+व᳓सुर् अग्नि᳓र् व᳓सु-श्रवाः ।  
+अ᳓च्छा **नक्षि**+++(=प्राप्नुहि)+++ द्युम᳓त्तमो रयि᳓न्दाः  ॥
 
+</details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/107_vasur_agnir.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/107_vasur_agnir.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -926,7 +923,6 @@ Come hither in thy greatest splendour and give us wealth.
 9वसुरिति ॥ **वसुः** वसुमान् । मत्वर्थीयो लुप्यते । **अग्निः** अङ्गनादिगुणयुक्तः **वसुश्रवाः** वासयतीति वसुः तादृशं श्रवणं यस्य तादृशः । वसुभिर्वा श्रूयत इति वसुश्रवाः । 'गतिकारकयोरपि इति पूर्वपदप्रकृतिस्वरत्वञ्च' इत्यसुन् । स त्वमस्मान् **अच्च्छ** आभिमुख्येन **नक्षि** प्राप्नुहि । 'निपातस्य च' इति संहितायां दीर्घत्वम् । नशतिर्गतिकर्मा 'बहुळं छन्दसि' इति शपोलुक् । अस्मान् प्राप्य चास्मभ्यं द्युमत्तमः दीप्तिमत्तमः तं रयिं धनं दाः देहि । दधातेर्लिटि पूर्ववच्छपोलुक् । 'ह्रस्वनुङ्भ्याम्मतुप्' इति द्योर्मतुप उदात्तत्वम् ॥
 </details>
 </details>
-
 </div>
 
 _______
@@ -942,8 +938,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्जा वᳶ॑ पश्यामि ।  
-ऊ॒र्जा मा॑  पश्यत ।
+ऊर्जा᳓ वᳶ पश्यामि ।  
+ऊर्जा᳓ मा  पश्यत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -964,8 +960,8 @@ With strength I gaze on you; gaze on me with strength.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒यस्पोषे॑ण वᳶ पश्यामि ।  
-रा॒यस्पोषे॑ण मा पश्य॒त ।
+राय᳓स्पो᳓षेण वᳶ पश्यामि ।  
+राय᳓स्पो᳓षेण मा पश्यत᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -984,20 +980,18 @@ With increase of wealth I gaze on you; gaze on me with increase of wealth.
 किञ्च - रायो धनस्य पुत्रपश्वादिलक्षणस्य घासादिलक्षणस्य वा पोषेण वृद्ध्या वः पश्यामि । यूयमपि रायो धनस्य पशुहिरण्यलक्षणस्य पोषेण मां पश्यत । पूर्ववत्सत्वस्वरौ ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/121_iDAH_stha.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/121_iDAH_stha.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-**इडाः॑+++(=अन्नानि)+++ स्थ** मधु॒-कृत॑स्,  
-स्यो॒ना **माऽऽवि॑श॒त॒** +इरा॒ मदः॑ ।
-सहस्रपो॒षव्ँ वᳶ॑ **पुष्यास॒म्**  
-मयि॑ वो॒ **राय॑श् श्रयन्ताम्** ॥
-</details>
+**इ᳓डाः+++(=अन्नानि)+++ स्थ** मधु-कृ᳓तस्,  
+स्योना᳓ **मा᳓ऽऽविशत** +इ᳓रा म᳓दः ।
+स᳓ह᳓स्र᳓पोषव्ँ᳓ वᳶ **पुष्यासम्**  
+म᳓यि वो **रा᳓यश् श्रयन्ताम्** ॥
 
+</details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/121_iDAH_stha.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/121_iDAH_stha.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -1022,7 +1016,6 @@ may I prosper with your thousandfold   prosperity [3], may your wealth rest on m
 - [  किं बहुना, वः युष्माकं सहस्रपोषं बहुप्रकारमहं पुष्यासं पौष्कल्येनोद्भावयिषीय बह्वीनां युष्माकं सम्बन्धी भूयासम् । गोपोषं पुष्णातीतिवत् सामान्यवचनोन्यतरो द्रष्टव्यः ।]
 </details>
 </details>
-
 </div>
 
 _______
@@ -1031,8 +1024,7 @@ _______
 12आहवनीयमुप्तिष्ठते - तत्सवितुरिति गायत्र्या ॥ 
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
-
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h2>१० तत्सवितुर्वरेण्यं भर्गो …{Loading}…</h2></summary>
 
 त᳓त् सवितु᳓र् व᳓रेण्य+++(णिय)+++म्  
@@ -1040,11 +1032,17 @@ _______
 धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥  
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+तत्स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि ।  
+धियो॒ यो नः॑ प्रचो॒दया॑त् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h2>010 …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -1798,7 +1796,6 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 भावार्थभाषाः -  जी माणसे सर्वांचा साक्षी, पित्याप्रमाणे असणारा, न्यायी, दयाळू, शुद्ध सनातन, सर्वांच्या आत्म्याचा साक्षी अशा परमेश्वराची स्तुती, प्रार्थना व उपासना करतात त्यांना कृपासागर, सर्वात श्रेष्ठ परमेश्वर, दुष्ट आचरणापासून पृथक करून श्रेष्ठ आचरणामध्ये प्रवृत्त करतो. पवित्र व पुरुषार्थयुक्त करून धर्म, अर्थ, काम, मोक्ष प्राप्त करवितो. ॥ १० ॥
 </details>
 </details>
-
 </div>  
 
 _______
@@ -1807,7 +1804,7 @@ _______
 13पुनरप्य् आहवनीयमुपतिष्ठते - सोमानमिति गायत्र्या ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/01_somAnaM_svaraNaM.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/01_somAnaM_svaraNaM.md">
 
 सोमा᳓नं+++(→नां)+++ स्व᳓रणं  
 **कृणुहि᳓** ब्रह्मणस्पते ।  
@@ -1815,8 +1812,15 @@ _______
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/018/01_somAnaM_svaraNaM.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/018/01_somAnaM_svaraNaM.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+सो॒मानं॒ स्वर॑णं कृणु॒हि ब्र॑ह्मणस्पते ।  
+क॒क्षीव॑न्तं॒ य औ॑शि॒जः ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/018/01_somAnaM_svaraNaM.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -2076,7 +2080,6 @@ Mach, o Gebetsherr, glanzbegabt den, welcher dir den Soma bringt, Kakschivat, ih
 
 टिप्पणी:   या मंत्राचा अर्थ सायणाचार्यांनी कल्पित पुराण इत्यादी ग्रंथांच्या भ्रामक गोष्टींनी लावलेला आहे. ॥ १ ॥
 </details>
-
 </div>
 
 _______
@@ -2085,7 +2088,7 @@ _______
 14रात्रिमुपतिष्ठते - कदा चनेति पथ्याबृहत्या ॥ 'तृतीयश्चेद्द्वादशाक्षरः पथ्या' इति ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/051/07_kadA_chana.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/051/07_kadA_chana.md">
 
 कदा᳓ चन᳓ **स्तरी᳓र्**+++(=वन्ध्या गौः)+++ असि?  
 **ने᳓न्द्र**, **सश्चसि**+++(=संगच्छसे)+++ दाशु᳓षे ।  
@@ -2094,8 +2097,15 @@ _______
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/051/07_kadA_chana.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/051/07_kadA_chana.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+क॒दा च॒न स्त॒रीर॑सि॒ नेन्द्र॑ सश्चसि दा॒शुषे॑ ।  
+उपो॒पेन्नु म॑घव॒न्भूय॒ इन्नु ते॒ दानं॑ दे॒वस्य॑ पृच्यते ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/051/07_kadA_chana.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2407,7 +2417,6 @@ Bisweilen, o Indra, bist du karg und bist dem Verehrer nicht zu Willen; nun aber
 - बृहती
 - मध्यमः
 </details>
-
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2421,21 +2430,19 @@ _______
 15गार्हपत्यम् उपतिष्ठते - परि त्वेत्यनुष्टुभा ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/216_pari_tvAgne.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/216_pari_tvAgne.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-परि॑ त्वाग्ने॒! पुरव्ँ॑+++(=दुर्गं)+++ व॒यव्ँ  
-विप्रँ॑ सहस्य! **धीमहि** ।  
-धृ॒षद्+++(=धर्षक)+++-व॑र्णन् दि॒वे-दि॑वे  
-भे॒त्तार॑म् भङ्गु॒राव॑तः  ॥  
-+++(→ह॒न्तारं॑ भङ्गु॒राव॑ताम् इति शाकले)+++
-</details>
+प᳓रि त्वाग्ने! पु᳓रव्ँ+++(=दुर्गं)+++ वयव्ँ᳓  
+वि᳓प्रँ सहस्य! **धीमहि** ।  
+धृष᳓द्+++(=धर्षक)+++-वर्णन् दिवे᳓-दिवे  
+भेत्ता᳓रम् भङ्गुरा᳓वतः  ॥  
++++(→हन्ता᳓रं भङ्गुरा᳓वताम् इति शाकले)+++
 
+</details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/216_pari_tvAgne.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/216_pari_tvAgne.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -2456,13 +2463,11 @@ Destroyer of that which may be broken.
 हे **अग्ने सहस्य** सहो बलं तत्र भवः - 'दिगादिभ्यो यत्' । **पुरं** अभिमतानां पूरयितारं विप्रं मेधाविनं **धृषद्-वर्णं** वर्णमात्रेणैव शत्रूणां अभिभवितारं भेत्तारम् । कस्य? **भङ्गुरावतः** पर-भञ्जन-शीलैर् व्यापारैः तद्वतो रक्षःप्रभृतेः । छान्दसं संहितायां दीर्घत्वम् । ईदृशं त्वां दिनेदिने परिधीमहि सर्वतो धारयेम । दधातेर्लिङि शपो लुक् ॥
 </details>
 </details>
-
 </div>
 
 _______
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/agne_gRhapate.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/agne_gRhapate.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16गार्हपत्यमेवोपतिष्ठते - अग्ने गृहपत इति यजुर्भिः ॥
@@ -2475,8 +2480,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ गृहपते! सुगृह-प॒तिर् अ॒हन् त्वया॑ गृ॒ह-प॑तिना भूयासम् ।  
-सु॒गृ॒ह॒प॒तिर् मया॒ त्वङ् गृ॒हप॑तिना भूयाः ।
+अ᳓ग्ने गृहपते! सुगृह-पति᳓र् अह᳓न् त्व᳓या गृह᳓-पतिना भूयासम् ।  
+सुगृहपति᳓र् म᳓या त्व᳓ङ् गृह᳓पतिना भूयाः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -2511,10 +2516,10 @@ ____________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श॒तँ हिमा॒स् ताम् आ॒शिष॒म् आशा॑से ।
+शतँ᳓ हि᳓मास् ता᳓म् आशि᳓षम् आ᳓शासे ।
 
-+++(अजातपुत्र-पक्षे - )+++ तन्त॑वे॒ ज्योति॑ष्मती॒न् ताम् आ॒शिष॒म् आशा॑से ।  
-+++(जातपुत्र-पक्षे -)+++ [ताम् आ॒शिष॒म् आशा॑से] अ॒मुष्मै॒+++(→अपत्य-नाम-निर्देशः)+++ ज्योति॑ष्मतीम् ॥  [24]
++++(अजातपुत्र-पक्षे - )+++ त᳓न्तवे ज्यो᳓तिष्मतीन् ता᳓म् आशि᳓षम् आ᳓शासे ।  
++++(जातपुत्र-पक्षे -)+++ [ता᳓म् आशि᳓षम् आ᳓शासे] अमु᳓ष्मै+++(→अपत्य-नाम-निर्देशः)+++ ज्यो᳓तिष्मतीम् ॥  [24]
 </details>
 
 <details><summary>Keith</summary>
@@ -2558,5 +2563,4 @@ _____________
 
 हिमशब्दो हेमन्तवाची सन्संवत्सरमुपलक्षयति। शतसंवत्सरानग्निमिन्धानोऽहं तन्तवेऽनुन्पन्नबहुपुत्रोत्पत्तये ज्योतिष्मतीं तदुत्पत्तिप्रकाशनसमर्थां तामाशिषमाशासे। अमुष्मा उत्पन्नपुत्राय देवदत्तादिनामकाय ज्यो-तिष्मतीमतिबुद्धिप्रकाशनसमर्थां तामाशिषमाशासे।
 </details>
-
 </div>

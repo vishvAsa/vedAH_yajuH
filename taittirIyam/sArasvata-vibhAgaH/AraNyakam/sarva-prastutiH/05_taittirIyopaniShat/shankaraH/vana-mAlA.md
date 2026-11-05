@@ -7320,9 +7320,6 @@ Source: [TW](https://advaitasharada.sringeri.net/split/taittiriya-bhashya/2/TVN/
 </details>
 
 <details><summary>टीका - आत्मेति ।</summary>
-
-
-
 </details>
 
 <details><summary>टीका - मध्यं हीति ।</summary>
@@ -8261,9 +8258,6 @@ Source: [TW](https://advaitasharada.sringeri.net/split/taittiriya-bhashya/2/TVN/
 </details>
 
 <details><summary>टीका - तन्मय इति ।</summary>
-
-
-
 </details>
 
 <details><summary>टीका - निश्चयेति ।</summary>
@@ -9851,9 +9845,6 @@ Source: [TW](https://advaitasharada.sringeri.net/split/taittiriya-bhashya/2/TVN/
 </details>
 
 <details><summary>टीका - नान्यथेति ।</summary>
-
-
-
 </details>
 
 <details><summary>टीका - निरवयवस्येति ।</summary>

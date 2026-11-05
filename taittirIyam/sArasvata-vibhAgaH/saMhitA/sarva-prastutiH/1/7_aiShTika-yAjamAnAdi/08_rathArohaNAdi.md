@@ -21,7 +21,7 @@ title = "०८ रथारोहणादि"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्या॒हँ स॑वि॒तुᳶ प्र॑स॒वे बृह॒स्पति॑ना वाज॒जिता॒ वाज॑ञ् जेषम् ।  
+देव᳓स्याहँ᳓ सवितुᳶ᳓ प्रसवे᳓ बृ᳓हस्प᳓तिना वाजजि᳓ता वा᳓जञ् जेषम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -44,19 +44,17 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 2चात्वाले रथचक्रं निमितं ब्रह्माधिरोहति तमभिमन्त्रयते - देवस्येति ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/02_devasyAhaM_savitupH.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/02_devasyAhaM_savitupH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-दे॒वस्या॒हँ स॑वि॒तुᳶ प्र॑स॒वे  
-बृह॒स्पति॑ना वाज॒जिता॒  
-वर्षि॑ष्ठ॒न् नाकँ॑ रुहेयम् ।
-</details>
+देव᳓स्याहँ᳓ सवितुᳶ᳓ प्रसवे᳓  
+बृ᳓हस्प᳓तिना वाजजि᳓ता  
+व᳓र्षिष्ठन् ना᳓कँ रुहेयम् ।
 
+</details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/02_devasyAhaM_savitupH.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/02_devasyAhaM_savitupH.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -73,7 +71,6 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 गतम् । वर्षिष्ठं वृद्धतमं नाकं स्वर्गं स्वर्गस्थनीयं चक्रं रुहेयमारोहामि नाकमेव वानेन निमित्तेनारुहेयम् । 'लिङ्याशिष्यङ्' ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -88,9 +85,9 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य॒ वाचव्ँ॑ वदत ।   
-इन्द्रव्ँ॒ वाज॑ञ् जापयत ।   
-इन्द्रो॒ वाज॑म् अजयित् ।  
+इ᳓न्द्राय वा᳓चव्ँ वदत ।   
+इ᳓न्द्रव्ँ वा᳓जञ् जापयत ।   
+इ᳓न्द्रो वा᳓जम् अजयित् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -115,19 +112,17 @@ To Indra utter your voices, make Indra win the prize, Indra hath won the prize.
 4अश्वाजनीं प्रयच्छति - अश्वाजनीति गायत्र्या ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/03_ashvAjani_vAjini.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/03_ashvAjani_vAjini.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-अश्वा॑जनि+++(=कशा)+++ वाजिनि॒  
-वाजे॑षु वाजिनीव॒ति ।  
-अश्वा॑न्त् स॒मत्सु॑+++(=सङ्ग्रामेषु)+++ वाजय  ॥
-</details>
+अ᳓श्वाजनि+++(=कशा)+++ वाजिनि  
+वा᳓जेषु वाजिनीवति᳓ ।  
+अ᳓श्वान्त् सम᳓त्सु+++(=सङ्ग्रामेषु)+++ वाजय  ॥
 
+</details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/03_ashvAjani_vAjini.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/03_ashvAjani_vAjini.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -146,7 +141,6 @@ Do thou in the contests strengthen the steeds.
 याऽश्वानाजयति गमयति साश्वाजनी कशोच्यते । वाजिनी अन्नवीती यज्ञसाधनद्वारेण । यद्वा - वेगवती ; अश्वानां वेगहेतुत्वात् । वाजेषु अन्नेषु साध्येषु वाजिनीवती वेगवत्या गत्या तद्वती । यद्वा - वेगवत्याश्वपङ्क्त्या तद्वती । सा त्वमश्वान् **समत्सु** सङ्ग्रामेषु वाजय गमय । सह माद्यन्त्यास्विति समदः ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -156,7 +150,7 @@ Do thou in the contests strengthen the steeds.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अर्वा॑सि ।  
+अ᳓र्वासि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -176,7 +170,7 @@ The swift art thou,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सप्ति॑रसि ।  
+स᳓प्तिरसि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -196,7 +190,7 @@ the runner,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒ज्य॑सि ।  
+वाज्य᳙सि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -221,8 +215,8 @@ the strong.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाजि॑नो॒ वाज॑न् धावत ।  
-म॒रुता॑म् प्रस॒वे ज॑यत ।  
+वा᳓जिनो वा᳓जन् धावत ।  
+मरु᳓ताम् प्रसवे᳓ जयत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -244,19 +238,17 @@ conquer on the instigation of the Maruts:
 मरुतां प्रसवेऽनुज्ञायां जयतान्नम् । ते हि युष्मानाज्ञापयन्ति ; यूयं चास्माकं जयत ।  
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/04_vi_yojanA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/04_vi_yojanA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-वि योज॑ना मिमीध्वम् ।+++(5)+++  
-अध्व॑नस्स्कभ्नीत [34] ।  
-काष्ठा॑ङ्गच्छत ।
-</details>
+वि᳓ यो᳓जना मिमीध्वम् ।+++(5)+++  
+अ᳓ध्वनस्स्कभ्नीत [34] ।  
+का᳓ष्ठाङ्गच्छत ।
 
+</details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/04_vi_yojanA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/04_vi_yojanA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -281,7 +273,6 @@ attain the goal.
 काष्ठामध्वसमाप्तिं आजिशिरो गच्छत । गन्तव्यमध्वानं शीघ्रं लङ्घयतेति यावत् ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -289,7 +280,7 @@ attain the goal.
 10अश्वान् धावतोनुमन्त्रयते - वाजेवाज इत्यादिभिश्चतसृभिः । आद्या त्रिष्टुप् । 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/038/08_vAjevAje_avata_vAjino.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/038/08_vAjevAje_avata_vAjino.md">
 
 वा᳓जेवाजे ऽवत वाजिनो! नो  
 ध᳓नेषु, विप्रा! अमृता! ऋत-ज्ञाः ।  
@@ -298,8 +289,15 @@ attain the goal.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/038/08_vAjevAje_avata_vAjino.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/038/08_vAjevAje_avata_vAjino.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+वाजे॑वाजेऽवत वाजिनो नो॒ धने॑षु विप्रा अमृता ऋतज्ञाः ।  
+अ॒स्य मध्वः॑ पिबत मा॒दय॑ध्वं तृ॒प्ता या॑त प॒थिभि॑र्देव॒यानैः॑ ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/038/08_vAjevAje_avata_vAjino.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाजिनः
@@ -632,17 +630,15 @@ In jeder Schlacht helft uns, o Rosse, in Wettkämpfen, o unsterbliche Priester, 
 
 भावार्थभाषाः -  विद्वानांना ईश्वराची ही आज्ञा आहे की, तुम्ही धार्मिक विद्वान बनून सर्वांचे निरंतर रक्षण करा व महौषधींच्या रसाने निरोगी बनून सर्वांना आनंदित व तृप्त करून धर्मात्म्याच्या मार्गाने स्वतः चालून इतरांनाही निरंतर त्याच मार्गाने चालवा. ॥ ८ ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/05_te_no.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/05_te_no.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-ते नो॒ अर्व॑न्तो+++(=वेगवन्तो)+++, हवन॒+++(=ह्वान)+++-श्रुतो॒ हवव्ँ॒  
-विश्वे॑ **शृण्वन्तु** वा॒जिनः॑  ॥
-</details>
+ते᳓ नो अ᳓र्वन्तो+++(=वेगवन्तो)+++, हवन+++(=ह्वान)+++-श्रु᳓तो ह᳓वव्ँ  
+वि᳓श्वे **शृण्वन्तु** वाजि᳓नः  ॥
 
+</details>
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -650,8 +646,7 @@ In jeder Schlacht helft uns, o Rosse, in Wettkämpfen, o unsterbliche Priester, 
 11 ते नो अर्वन्त इति द्विपदा विराट् ।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/05_te_no.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/05_te_no.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -669,17 +664,15 @@ All hearken to our cry.
 'विराड्जागतगायत्राभ्याम्' इति ॥ हे **अर्वन्तः** अरणकुशलाः । अर्तेः 'अन्येभ्योपि दृश्यन्ते' इति वनिप् । 'अर्वणस्त्रसावनयः' । **हवनश्रुतः** आह्वानस्य श्रोतारः ते वाजिनोश्वाः अस्माकं हवं आह्वानं शृण्वन्तु विश्वे सर्वेपि । 'भावेनुपसर्गस्य' इति अप्, सम्प्रसारणं च ॥
 </details>
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/06_mitadravas_sahasrasA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/06_mitadravas_sahasrasA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-मि॒त-द्र॑वस् सहस्र॒-सा+++(←सन् दाने)+++ मे॒ध-सा॑ता सनि॒ष्यवः॑ ।  
-म॒हो ये रत्नँ॑ समि॒थेषु॑+++(=सङ्ग्रामेषु)+++ जभ्रि॒रे ॥
-</details>
+मित᳓-द्रवस् सहस्र-सा᳓+++(←सन् दाने)+++ मेध᳓-साता सनिष्य᳓वः ।  
+महो᳓ ये᳓ र᳓त्नँ समिथे᳓षु+++(=सङ्ग्रामेषु)+++ जभ्रिरे᳓ ॥
 
+</details>
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -687,8 +680,7 @@ All hearken to our cry.
 12मितद्रव इति परोष्णिक् अस्तारपङ्क्तिर्वा, 'परौ चेद्द्वादशाक्षरावास्तारपङ्क्तिः' इति ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/06_mitadravas_sahasrasA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/06_mitadravas_sahasrasA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -715,23 +707,20 @@ The steeds, which have won in the contests great prizes.
 किञ्च - ये वाजिनस् **समिथेषु** सङ्ग्रामेषु । 'समीणः' इति ढक्प्रत्ययः । महः महतः महाबलस्य शत्रोः रत्नं धनं **जभ्रिरे** हरन्ति । छान्दसो लिट् । 'हृग्रहोर्भः' इति भत्वम् ॥
 </details>
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/07_shan_no.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/07_shan_no.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-शन् नो॑ भवन्तु वा॒जिनो॒ हवे॑षु  
-दे॒व-ता॑ता+++(=विस्तारे [यज्ञे])+++ मि॒त-द्र॑वस् स्व्-अ॒र्काः ।  
-ज॒म्भय॒न्तो ऽहिव्ँ॒ वृकँ॒ रक्षाँ॑सि॒  
-सने॑म्य्+++(→सदा)+++ अ॒स्मद् यु॑यवन्न्+++(←यु पृथक्करणे)+++ [35] अमी॑वाः+++(=रोगान्)+++  ॥
-</details>
+श᳓न् नो भवन्तु वाजि᳓नो ह᳓वेषु  
+देव᳓-ताता+++(=विस्तारे [यज्ञे])+++ मित᳓-द्रवस् स्व्-अर्काः᳓ ।  
+जम्भ᳓यन्तो᳓ ऽहिव्ँ वृ᳓कँ र᳓क्षाँसि  
+स᳓नेम्य्+++(→सदा)+++ अस्म᳓द् युयवन्न्+++(←यु पृथक्करणे)+++ [35] अ᳓मीवाः+++(=रोगान्)+++  ॥
 
+</details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/07_shan_no.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/07_shan_no.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -760,7 +749,6 @@ Forever may they remove from us evil [2].
 किञ्च - **अमीवाः** रोगांश्च युयवन्नित्येव । आगत्य हिंसन्तीत्यमीवाः । मीयतेराङ्पूर्वाद्वप्रत्ययः, उपसर्गस्य च ह्रस्वत्वं निपात्यते । यौतेर्लेटि शपश्लुः, 'छन्दस्युभयथा' इत्यार्धधातुकत्वात् ङित्त्वाभावे गुणः ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -768,20 +756,18 @@ Forever may they remove from us evil [2].
 14प्रत्याधावतोनुमन्त्रयते - एष स्य इति जगती ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/08_eSha_sya.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/08_eSha_sya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-ए॒ष स्य+++(=स)+++ वा॒जी क्षि॑प॒णिन्+++(=कशां)+++ तु॑रण्यति+++(←तुरण् त्वरायाम्)+++   
-ग्री॒वाया॑म् ब॒द्धो, अ॑पिक॒क्ष +++(=भुजे)+++ आ॒सनि॑+++(=आस्ये)+++ ।  
-क्रतु॑न् दधि॒+++(←धा)+++-क्रा+++(←क्रम्)+++ अनु॑ स॒न्तवी॑त्वत्+++(←तु वृद्धौ)+++   
-प॒थाम् अङ्काँ॒स्य् अन्व् आ॒पनी॑फणत्+++(← फण् गतौ?)+++   ॥
-</details>
+एष᳓ स्य᳓+++(=स)+++ वाजी᳓ क्षिपणि᳓न्+++(=कशां)+++ तुरण्यति+++(←तुरण् त्वरायाम्)+++   
+ग्रीवा᳓याम् बद्धो᳓, अपिकक्ष᳓ +++(=भुजे)+++ आस᳓नि+++(=आस्ये)+++ ।  
+क्र᳓तुन् दधि+++(←धा)+++-क्रा᳓+++(←क्रम्)+++ अ᳓नु सन्त᳓वीत्वत्+++(←तु वृद्धौ)+++   
+पथा᳓म् अ᳓ङ्काँस्य् अ᳓न्व् आप᳓नीफणत्+++(← फण् गतौ?)+++   ॥
 
+</details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/08_eSha_sya.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/08_eSha_sya.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -811,10 +797,9 @@ Springeth along the bends of the ways.
  पुनश्च विशेष्यते - **पथां** मार्गाणां **अङ्कांसि** लक्ष्मस्थानीयानि कुटिलानि निम्नोन्नतत्वादीनि वा । अकि लक्षणे, असुन् । **अन्वापनीफणत्** अनुक्रमेण ऋजुत्वं समत्वं च पथाम् आपादयन् । दाधर्त्यादौ निपात्यते, पूर्ववत्स्वरः । एवं कुर्वन् तुरण्यति ॥
 </details>
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/040/03_uta_smAsya.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/040/03_uta_smAsya.md">
 
 उत᳓ स्मास्य द्र᳓वतस् तुरण्यतः᳓+++(←तुरण् त्वरायाम्)+++  
 पर्णं᳓ न᳓ वे᳓र्+++(=पक्षिणः)+++ **अ᳓नु वाति** प्रगर्धि᳓नः+++(←गृध् काङ्क्षायाम्)+++ ।  
@@ -823,8 +808,15 @@ Springeth along the bends of the ways.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/040/03_uta_smAsya.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/040/03_uta_smAsya.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+उ॒त स्मा॑स्य॒ द्रव॑तस्तुरण्य॒तः प॒र्णं न वेरनु॑ वाति प्रग॒र्धिनः॑ ।  
+श्ये॒नस्ये॑व॒ ध्रज॑तो अङ्क॒सं परि॑ दधि॒क्राव्णः॑ स॒होर्जा तरि॑त्रतः ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/040/03_uta_smAsya.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -1188,7 +1180,6 @@ Und dieses schnellen Läufers Fittich fliegt dahin, wie eines Vogels, der begehr
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. हे माणसांनो ! ज्या राजाची सेना श्येन पक्षिणीप्रमाणे पराक्रमी असते त्याने त्याद्वारे प्रजेचे पालन करून दुष्ट चोरांचे निवारण करावे. ॥ ३ ॥
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1196,20 +1187,18 @@ Und dieses schnellen Läufers Fittich fliegt dahin, wie eines Vogels, der begehr
 16रथविमोचनीयं जुहोति - आ मा वाजस्येति त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/09_A_mA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/09_A_mA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-**आ** मा॒ वाज॑स्य प्रस॒वो **ज॑गम्या॒द्**  
-आ द्यावा॑पृथि॒वी वि॒श्व-श॑म्-भू ।  
-**आ** मा॑ **गन्ताम्** पि॒तरा॑ [36] मा॒तरा॒  
-**चा** ऽऽमा॒ सोमो॑ अमृत॒त्वाय॑ **गम्यात्**  ॥
-</details>
+**आ᳓** मा वा᳓जस्य प्रसवो᳓ **जगम्याद्**  
+आ᳓ द्या᳓वापृथिवी᳓ विश्व᳓-शम्-भू ।  
+**आ᳓** मा **गन्ताम्** पित᳓रा [36] मात᳓रा  
+**चा᳓** ऽऽमा सो᳓मो अमृतत्वा᳓य **गम्यात्**  ॥
 
+</details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/09_A_mA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/09_A_mA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -1233,7 +1222,6 @@ May Soma come to me for immortality.
 किञ्च - सोमश्च मामृतत्वाय अमरणत्वाय गम्यादागच्छेत् । लिङि शपो लुक् । आशिषि लिङ्वा ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1243,10 +1231,10 @@ May Soma come to me for immortality.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाजि॑नो वाज-जितो॒  
-वाजँ॑ सरि॒ष्यन्तो॒  
-वाज॑ञ् जे॒ष्यन्तो॒  
-बृह॒स्पते॑र् भा॒गम् अव॑ **जिघ्रत** ।  
+वा᳓जिनो वाज-जितो  
+वा᳓जँ सरिष्य᳓न्तो  
+वा᳓जञ् जेष्य᳓न्तो  
+बृ᳓हस्प᳓तेर् भाग᳓म् अ᳓व **जिघ्रत** ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1271,10 +1259,10 @@ O ye steeds, prize winning, about to run for the prize, about to win the prize, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाजि॑नो वाजजितो॒  
-वाजँ॑ ससृ॒वाँसो॒  
-वाज॑ञ् जिगि॒वाँसो॒  
-बृह॒स्पते॑र् भा॒गे **नि मृ॑ढ्वम्** +++(←मृज् शौचे)+++ ।  
+वा᳓जिनो वाजजितो  
+वा᳓जँ ससृवाँ᳓सो  
+वा᳓जञ् जिगिवाँ᳓सो  
+बृ᳓हस्प᳓तेर् भागे᳓ **नि᳓ मृढ्वम्** +++(←मृज् शौचे)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1299,8 +1287,8 @@ O ye steeds, prize winning, that have run for the prize, that have won the prize
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ व॒स् सा स॒त्या **स॒न्धा ऽभू॒त्**  
-याम् इन्द्रे॑ण **स॒म्-अध॑ध्व॒म्**+++(=कृतवन्तः)+++ ।
+इयव्ँ᳓ वस् सा᳓ सत्या᳓ **सन्धा᳓ ऽभूत्**  
+या᳓म् इ᳓न्द्रेण **सम्-अ᳓धध्वम्**+++(=कृतवन्तः)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1324,7 +1312,7 @@ That ye did make with Indra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अजी॑जिपत वनस्पतय॒ +++(दुन्दुभिरूपाः)+++! इन्द्रव्ँ॒ वाजव्ँ॒, +++(विश्रान्त्यै)+++ विमु॑च्यध्वम्  ॥  [37]
+अ᳓जीजिपत वनस्पतय +++(दुन्दुभिरूपाः)+++! इ᳓न्द्रव्ँ वा᳓जव्ँ, +++(विश्रान्त्यै)+++ वि᳓मुच्यध्वम्  ॥  [37]
 </details>
 
 <details><summary>Keith</summary>

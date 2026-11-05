@@ -10,8 +10,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रो॑ऽसि॒ वरु॑णोऽसि ।  
-सम॒हव्ँविश्वै॑र्दे॒वैः ।  
+मित्रो᳙ऽसि व᳓रुणोऽसि ।  
+स᳓महव्ँ᳓वि᳓श्वैर्देवैः᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -27,8 +27,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्ष॒त्रस्य॒ नाभि॑रसि ।  
-क्ष॒त्रस्य॒ योनि॑रसि ।  
+क्षत्र᳓स्य ना᳓भिरसि ।  
+क्षत्र᳓स्य यो᳓निरसि ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -44,10 +44,10 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्यो॒नामा सी॑द ।  
-सु॒षदा॒मा सी॑द ।  
-मा त्वा॑ हिँसीत् ।  
-मा मा॑ हिँसीत् ।  
+स्योना᳓मा᳓ सीद ।  
+सुष᳓दामा᳓ सीद ।  
+मा᳓ त्वा हिँसीत् ।  
+मा᳓ मा हिँसीत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -65,9 +65,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निष॑साद धृ॒तव्र॑तो॒ वरु॑णः ।  
-प॒स्त्या॑स्वा ॥20॥  
-साम्रा॑ज्याय सु॒क्रतुः॑ ।  
+नि᳓षसाद धृत᳓व्रतो व᳓रुणः ।  
+पस्त्या᳙स्वा ॥20॥  
+सा᳓म्राज्याय सुक्र᳓तुः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -81,8 +81,8 @@ unicode_script: devanagari
 
 4कल्पः - 'निषसाद धृतव्रत इत्यासीनमनुमन्त्रयते' इति । अयं यजमानो धृतव्रतः स्वीकृतनियमः वरुणः फलप्रतिबन्धकपापनिवारको भूत्वा साम्राज्यं कर्तुं सुक्रतुः शोभनसंकल्पस्सन् पस्त्यासु गृहसमानेषु आसन्दीस्थानेपु आनिषसाद सर्वत उपविष्टवान् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarva-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/devasya_tvA_tejo-vIrya-shrIbhyaH.md">
-<details open><summary><h5>देवस्य त्वा - तेजोवीर्य-श्रीभ्यः ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarva-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/devasya_tvA_tejo-vIrya-shrIbhyaH.md">
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5कल्पः - 'तस्यां प्राङ्मुखमासीनं प्रत्यङ्मुखस्तिष्ठन्नश्विनोः संपातैरभिषिञ्चति देवस्य त्वा' इति ।
@@ -90,11 +90,11 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे ।  
-अ॒श्विनो॑र्बा॒हुभ्या॑म् ।  
-पू॒ष्णो हस्ता॑भ्याम् ।  
-अ॒श्विनो॒र्भैष॑ज्येन ।  
-तेज॑से ब्रह्मवर्च॒साया॒भिषि॑ञ्चामि ।
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓ ।  
+अश्वि᳓नोर्बाहु᳓भ्याम् ।  
+पूष्णो᳓ ह᳓स्ताभ्याम् ।  
+अश्वि᳓नोर्भै᳓षज्येन ।  
+ते᳓जसे ब्रह्मवर्चसा᳓याभि᳓षिञ्चामि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -118,11 +118,11 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे ।  
-अ॒श्विनो॑र्बा॒हुभ्या॑म् ।  
-पू॒ष्णो हस्ता॑भ्याम् ।  
-सर॑स्वत्यै॒ भैष॑ज्येन ॥21॥  
-वी॒र्या॑या॒न्नाद्या॑या॒भिषि॑ञ्चामि ।
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓ ।  
+अश्वि᳓नोर्बाहु᳓भ्याम् ।  
+पूष्णो᳓ ह᳓स्ताभ्याम् ।  
+स᳓रस्वत्यै भै᳓षज्येन ॥21॥  
+वीर्या᳙यान्ना᳓द्यायाभि᳓षिञ्चामि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -141,11 +141,11 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे ।  
-अ॒श्विनो॑र्बा॒हुभ्या॑म् ।  
-पू॒ष्णो हस्ता॑भ्याम् ।  
-इन्द्र॑स्येन्द्रि॒येण॑ ।  
-श्रि॒यै यश॑से॒ बला॑या॒भिषि॑ञ्चामि ।
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓ ।  
+अश्वि᳓नोर्बाहु᳓भ्याम् ।  
+पूष्णो᳓ ह᳓स्ताभ्याम् ।  
+इ᳓न्द्रस्येन्द्रिये᳓ण ।  
+श्रियै᳓ य᳓शसे ब᳓लायाभि᳓षिञ्चामि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -161,12 +161,12 @@ unicode_script: devanagari
 
 7पूर्ववद्व्याख्येयम् ॥
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-को॑ऽसि कत॒मो॑ऽसि ।  
-कस्मै॑ त्वा॒ काय॑ त्वा ।  
+को᳓ऽसि कतमो᳙ऽसि ।  
+क᳓स्मै त्वा का᳓य त्वा ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -182,7 +182,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुश्लो॒काँ (4) सुम॑ङ्ग॒लाँ (4) सत्य॑रा॒जा ३न् ।  
+सु᳓श्लोकाँ᳓ (4) सु᳓मङ्गलाँ᳓ (4) स᳓त्यराजा᳓ ३न् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -202,7 +202,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शिरो॑ मे॒ श्रीः ॥22॥  
+शि᳓रो मे श्रीः᳓ ॥22॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -217,7 +217,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यशो॒ मुख॑म् ।  
+य᳓शो मु᳓खम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -232,7 +232,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्विषि॒ᳶ+++(=कान्तिः)+++ केशा॑श्च॒ श्मश्रू॑णि ।
+त्वि᳓षिᳶ+++(=कान्तिः)+++ के᳓शाश्च श्म᳓श्रूणि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -247,7 +247,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राजा॑ मे प्रा॒णो॑ऽमृत॑म् ।  
+रा᳓जा मे प्राणो᳙ऽमृ᳓तम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -262,7 +262,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒म्राट् चक्षुः॑ ।  
+सम्रा᳓ट् च᳓क्षुः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -277,7 +277,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒राट् छ्रोत्र॑म् ।  
+विरा᳓ट् छ्रो᳓त्रम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -292,7 +292,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जि॒ह्वा मे॑ भ॒द्रम् ।  
+जिह्वा᳓ मे भद्र᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -307,7 +307,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाङ् महः॑+++(=पूजा)+++ ।
+वा᳓ङ् म᳓हः+++(=पूजा)+++ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -322,7 +322,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मनो॑ म॒न्युः ।  
+म᳓नो मन्युः᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -337,7 +337,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व॒राड् भामः॑+++(=क्रोधः)+++ ।  
+स्वरा᳓ड् भा᳓मः+++(=क्रोधः)+++ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -352,7 +352,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मोदा॑ᳶ प्रमो॒दा अ॒ङ्गुली॒रङ्गा॑नि +++(क्रमशः)+++ ॥23॥  
+मो᳓दाᳶ प्रमोदा᳓ अङ्गु᳓लीर᳓ङ्गानि +++(क्रमशः)+++ ॥23॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -368,7 +368,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चि॒त्तम् मे॒ सहः॑ ।  
+चित्त᳓म् मे स᳓हः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -384,7 +384,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बा॒हू मे॒ बल॑म् इन्द्रि॒यम् ।  
+बाहू᳓ मे ब᳓लम् इन्द्रिय᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -399,7 +399,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हस्तौ॑ मे॒ कर्म॑ वी॒र्य॑म् ।  
+ह᳓स्तौ मे क᳓र्म वीर्य᳙म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -414,7 +414,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒त्मा क्ष॒त्रम् उरो॒ मम॑ ।  
+आत्मा᳓ क्षत्र᳓म् उ᳓रो म᳓म ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -429,7 +429,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒ष्टीर्मे॑ +++(=पञ्चरम्/ ribs)+++ रा॒ष्ट्रम्।  
+पृष्टी᳓र्मे +++(=पञ्चरम्/ ribs)+++ राष्ट्र᳓म्।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -444,10 +444,10 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒दर॒म् अँसौ॑ ।
-ग्री॒वाश्च॒ श्रोण्यौ॑ ।
-ऊ॒रू अ॑र॒त्नी+++(=पादाग्रभागः)+++ जानु॑नी ।
-विशो॒ मेऽङ्गा॑नि स॒र्वतः॑ ।
+उद᳓रम् अँ᳓सौ ।
+ग्रीवा᳓श्च श्रो᳓ण्यौ ।
+ऊरू᳓ अरत्नी᳓+++(=पादाग्रभागः)+++ जा᳓नुनी ।
+वि᳓शो मे᳓ऽङ्गानि सर्व᳓तः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -468,7 +468,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाभि॑र्मे चि॒त्तव्ँ, वि॒ज्ञान॑म् पा॒युर्, मेऽप॑चितिर् भ॒सत्+++(=जघनम्)+++ ।
+ना᳓भिर्मे चित्तव्ँ᳓, विज्ञा᳓नम् पायु᳓र्, मे᳓ऽपचितिर् भस᳓त्+++(=जघनम्)+++ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -484,7 +484,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒न॒न्द॒-न॒न्दाव् आ॒ण्डौ मे॑, भग॒स् सौभा॑ग्यं॒ पसः॑+++(=प्रजननम्)+++ ।
+आनन्द-नन्दा᳓व् आण्डौ᳓ मे, भगस् सौ᳓भाग्यं प᳓सः+++(=प्रजननम्)+++ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -500,8 +500,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जङ्घा॑भ्याम्प॒द्भ्यान्धर्मो॑ऽस्मि ।  
-वि॒शि राजा॒ प्रति॑ष्ठितः ।  
+ज᳓ङ्घाभ्याम्पद्भ्या᳓न्ध᳓र्मोऽस्मि ।  
+विशि᳓ रा᳓जा प्र᳓तिष्ठितः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -517,7 +517,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रति॑ क्ष॒त्रे प्रति॑तिष्ठामि रा॒ष्ट्रे ।  
+प्र᳓ति क्षत्रे᳓ प्र᳓तितिष्ठामि राष्ट्रे᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -532,7 +532,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यश्वे॑षु॒ प्रति॑तिष्ठामि॒ गोषु॑ ।  
+प्र᳓त्य᳓श्वेषु प्र᳓तितिष्ठामि गो᳓षु ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -547,7 +547,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यङ्गे॑षु॒ प्रति॑तिष्ठाम्या॒त्मन् ।  
+प्र᳓त्य᳓ङ्गेषु प्र᳓तितिष्ठाम्यात्म᳓न् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -562,9 +562,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रति॑ प्रा॒णेषु॒ प्रति॑तिष्ठामि पु॒ष्टे ।  
-प्रति॒ द्यावा॑पृथि॒व्योः ।  
-प्रति॑तिष्ठामि य॒ज्ञे ॥25॥
+प्र᳓ति प्राणे᳓षु प्र᳓तितिष्ठामि पुष्टे᳓ ।  
+प्र᳓ति द्या᳓वापृथिव्योः᳓ ।  
+प्र᳓तितिष्ठामि यज्ञे᳓ ॥25॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -581,15 +581,15 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्र॒या दे॒वा एका॑दश ।  
-त्र॒य॒स्त्रिँ॒शास्सु॒राध॑सः ।  
-बृह॒स्पति॑पुरोहिताः ।  
+त्रया᳓ देवा᳓ ए᳓कादश ।  
+त्रयस्त्रिँशा᳓स्सुरा᳓धसः ।  
+बृ᳓हस्प᳓तिपुरोहिताः ।  
 
-दे॒वस्य॑ सवि॒तुस्स॒वे ।  
-दे॒वा दे॒वैर॑वन्तु मा ।  
-प्र॒थ॒मा द्वि॒तीयैः॑ ।  
-द्वि॒तीया॑स्तृ॒तीयैः॑ ।  
-तृ॒तीया॑स्स॒त्येन॑ ।  
+देव᳓स्य सवितु᳓स्सवे᳓ ।  
+देवा᳓ देवै᳓रवन्तु मा ।  
+प्रथमा᳓ द्विती᳓यैः ।  
+द्विती᳓यास्तृती᳓यैः ।  
+तृती᳓यास्सत्ये᳓न ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -612,14 +612,14 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒त्यय्ँ य॒ज्ञेन॑ ।  
-य॒ज्ञो यजु॑र्भिः ॥26 ॥  
-यजूँ॑षि॒ साम॑भिः ।  
-सामा॑न्यृ॒ग्भिः ।  
-ऋचो॑ या॒ज्या॑भिः ।  
-या॒ज्या॑ वषट्का॒रैः ।  
-व॒ष॒ट्का॒रा आहु॑तिभिः ।  
-आहु॑तयो मे॒ कामा॒न्त्सम॑र्धयन्तु ।  
+सत्यय्ँ᳓ यज्ञे᳓न ।  
+यज्ञो᳓ य᳓जुर्भिः ॥26 ॥  
+य᳓जूँषि सा᳓मभिः ।  
+सा᳓मान्यृग्भिः᳓ ।  
+ऋ᳓चो याज्या᳙भिः ।  
+याज्या᳙ वषट्कारैः᳓ ।  
+वषट्कारा᳓ आ᳓हुतिभिः ।  
+आ᳓हुतयो मे का᳓मान्त्स᳓मर्धयन्तु ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -641,7 +641,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूस्स्वाहा॑ ।  
+भू᳓स्स्वा᳓हा ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -656,11 +656,11 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-लोमा॑नि॒ प्रय॑ति॒र्मम॑ ।  
-त्वङ्म॒ आन॑ति॒राग॑तिः ।  
-माँ॒सम्म॒ उप॑नतिः ।  
-वस्वस्थि॑ ।  
-म॒ज्जा म॒ आन॑तिः ॥27॥  
+लो᳓मानि प्र᳓यतिर्म᳓म ।  
+त्व᳓ङ्म आ᳓नतिरा᳓गतिः ।  
+माँस᳓म्म उ᳓पनतिः ।  
+व᳓स्व᳓स्थि ।  
+मज्जा᳓ म आ᳓नतिः ॥27॥  
 </details>
 
 <details><summary>मूलम्</summary>

@@ -1,11 +1,10 @@
 +++
 title = "१४ रात्रिहोमेष्वपां होमः २"
-
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒द्भ्यस् स्वाहा॑ ।
+अद्भ्य᳓स् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -13,11 +12,9 @@ title = "१४ रात्रिहोमेष्वपां होमः �
 To waters hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वह॑न्तीभ्य॒स् स्वाहा॑ ।
+व᳓हन्तीभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -25,11 +22,9 @@ To waters hail!
 To those that flow hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒रि॒वह॑न्तीभ्य॒स् स्वाहा॑ ।
+परिव᳓हन्तीभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -37,11 +32,9 @@ To those that flow hail!
 To those that flow around hail
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒म॒न्तव्ँ वह॑न्तीभ्य॒स् स्वाहा॑ ।
+समन्तव्ँ᳓ व᳓हन्तीभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -49,11 +42,9 @@ To those that flow around hail
 To those that flow all about hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शीघ्रव्ँ॒ वह॑न्तीभ्य॒स्स्वाहा॑ ।
+शी᳓घ्रव्ँ व᳓हन्तीभ्यस्स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -61,11 +52,9 @@ To those that flow all about hail!
 To those that flow swiftly hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शीभव्ँ॒ वह॑न्तीभ्य॒स् स्वाहा॑ ।
+शी᳓भव्ँ व᳓हन्तीभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -73,11 +62,9 @@ To those that flow swiftly hail!
 To those that flow quickly hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒ग्रव्ँ वह॑न्तीभ्य॒स् स्वाहा॑ ।
+उग्रव्ँ᳓ व᳓हन्तीभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -85,11 +72,9 @@ To those that flow quickly hail!
 To those that flow wildly hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भी॒मव्ँ वह॑न्तीभ्य॒स् स्वाहा॑ ।
+भीमव्ँ᳓ व᳓हन्तीभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -97,11 +82,9 @@ To those that flow wildly hail!
 To those that flow terribly hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अम्भो॑भ्य॒स् स्वाहा॑ । +++(अम्भांसि अस्मिन् लोके भवाः आपः 'अयं वै लोकोम्भांसि' इति ब्राह्मणम् ।)+++
+अ᳓म्भोभ्यस् स्वा᳓हा । +++(अम्भांसि अस्मिन् लोके भवाः आपः 'अयं वै लोकोम्भांसि' इति ब्राह्मणम् ।)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -109,11 +92,9 @@ To those that flow terribly hail!
 To the waters of earth hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नभो॑भ्य॒स् +++(अन्तरिक्षस्थाभ्यः)+++ स्वाहा॑ ।
+न᳓भोभ्यस् +++(अन्तरिक्षस्थाभ्यः)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -121,11 +102,9 @@ To the waters of earth hail!
 To those of the atmosphere hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-महो॑भ्य॒स् +++(द्युस्थाभ्यः)+++ स्वाहा॑ ।
+म᳓होभ्यस् +++(द्युस्थाभ्यः)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -133,16 +112,12 @@ To those of the atmosphere hail!
 To those of the sky hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व॑स्मै॒ स्वाहा॑ ॥ [40]
+स᳓र्वस्मै स्वा᳓हा ॥ [40]
 </details>
 
 <details><summary>Keith</summary>
 
 To all hail!
 </details>
-
-

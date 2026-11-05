@@ -39,9 +39,9 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अँ॒शुना॑ ते अँ॒शुᳶ+++(=सूक्ष्मावयवः)+++ पृ॑च्यता॒म्, परु॑षा॒+++(=पर्वणा)+++ परुः॑+++(=पर्व)+++।  
-ग॒न्धस् ते॒ काम॑म् अवतु +++(यागम्)+++,  
-मदा॑य॒ रसो॒ अच्यु॑तः ।
+अँशु᳓ना ते अँशुᳶ᳓+++(=सूक्ष्मावयवः)+++ पृच्यताम्, प᳓रुषा+++(=पर्वणा)+++ प᳓रुः+++(=पर्व)+++।  
+गन्ध᳓स् ते का᳓मम् अ᳓व᳓तु᳓ +++(यागम्)+++,  
+म᳓दाय र᳓सो अ᳓च्युतः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -60,8 +60,8 @@ let thy savour, which falls not, cause rejoicing.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(देवयज्ञादीनाम्)+++ अमात्यो॑ऽसि ।  
-शु॒क्रस्+++(=हिरण्यं)+++ ते॒ +++(परि)+++ग्रहः॑ +++(सहिरण्येन पाणिना ग्रहणात् क्रयणाद् वा)+++।
++++(देवयज्ञादीनाम्)+++ अ᳓मा᳓त्योऽसि ।  
+शुक्र᳓स्+++(=हिरण्यं)+++ ते +++(परि)+++ग्र᳓हः +++(सहिरण्येन पाणिना ग्रहणात् क्रयणाद् वा)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -208,20 +208,17 @@ ________
 इति।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-अ॒भि त्यन्+++(=तन्)+++ दे॒वँ स॑वि॒तार॑म् ऊ॒ण्योः॑+++(=अवित्र्योः [द्यावापृथिव्योः])+++ क॒विक्र॑तु॒म्  
-अर्चा॑मि स॒त्य-स॑वसँ+++(=सत्यानुज्ञं)+++ रत्न॒धाम् अ॒भि प्रि॒यम् म॒तिम् +++(धारयन्तम्)+++ । +++(पादादित्वान् न स्वरनिघातः)+++  
-ऊर्ध्वा यस्या॒ऽमति॒र्+++(=अमनशीला/ व्यापनशीला)+++ भा अदि॑द्युत॒त् सवी॑मनि॒+++(=सवे)+++  
-+++(माम् आविश्य स)+++ हिर॑ण्य-पाणिर् अमिमीत +++(सोमं)+++ सु॒क्रतु॑ᳵ कृ॒पा+++(=कृपया)+++ सुवः॑+++(=सुष्ठु वृतः)+++ ॥
+अभि᳓ त्य᳓न्+++(=तन्)+++ देवँ᳓ सविता᳓रम् ऊण्योः᳙+++(=अवित्र्योः [द्यावापृथिव्योः])+++ कवि᳓क्रतुम्  
+अ᳓र्चामि सत्य᳓-सवसँ+++(=सत्यानुज्ञं)+++ रत्नधा᳓म् अभि᳓ प्रिय᳓म् मति᳓म् +++(धारयन्तम्)+++ । +++(पादादित्वान् न स्वरनिघातः)+++  
+ऊ᳓र्ध्वा᳓ य᳓स्याऽम᳓तिर्+++(=अमनशीला/ व्यापनशीला)+++ भा᳓ अ᳓दिद्युतत् स᳓वीमनि+++(=सवे)+++  
++++(माम् आविश्य स)+++ हि᳓रण्य-पाणिर् अमिमीत +++(सोमं)+++ सुक्र᳓तुᳵ कृपा᳓+++(=कृपया)+++ सु᳓वः+++(=सुष्ठु वृतः)+++ ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -308,7 +305,6 @@ The golden-banded sage hath measured the heaven with his form.
 विराट्-छन्दसो ऽन्न-प्रदत्वाद् अन्नत्वम्। समन्त्रका-अमन्त्रकयोः प्रयोगयोः पूर्वोत्तर-भाव-साम्येन भूत-भविष्यद्-वस्तु-प्राप्तिः।
 </details>
 </details>
-
 </div>
 
 ________
@@ -329,7 +325,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाभ्य॑स् त्वा +++(अवशिष्टम् उपसमूहामि)+++।
+प्रजा᳓भ्यस् त्वा +++(अवशिष्टम् उपसमूहामि)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -366,7 +362,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णाय॑ त्वा +++(सोमम् उपनह्यामि)+++।
+प्राणा᳓य त्वा +++(सोमम् उपनह्यामि)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -407,7 +403,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्या॒नाय॑ त्वा +++(अनुशृन्थामि)+++।
+व्याना᳓य त्वा +++(अनुशृन्थामि)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -443,7 +439,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जास् त्वम् अनु॒ प्राणि॑हि ।
+प्रजा᳓स् त्व᳓म् अ᳓नु प्रा᳓णिहि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -458,7 +454,7 @@ Breathe thou after offspring.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जास् त्वाम् अनु॒ प्राण॑न्तु ॥
+प्रजा᳓स् त्वा᳓म् अ᳓नु प्रा᳓णन्तु ॥
 </details>
 
 <details><summary>Keith</summary>

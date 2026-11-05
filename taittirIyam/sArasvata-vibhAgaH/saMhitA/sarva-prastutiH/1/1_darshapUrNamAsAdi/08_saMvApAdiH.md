@@ -13,13 +13,12 @@ ____
 पिष्टानि संवपति
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
-+++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
-पू॒ष्णो हस्ता॑भ्याम्…
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
++++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
+पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
 
 <details><summary>Keith</summary>
@@ -53,12 +52,11 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सव्ँ-व॑पामि ।
+सव्ँ᳓-वपामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -88,21 +86,18 @@ ____
 प्रणीता मदन्तीरानीयमानाः प्रतिमन्त्रयते
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/07_sam_Apo.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/07_sam_Apo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-सम् +++(प्रणीता-)+++आपो॑ +++(मदन्ती/क्वथित)+++अ॒द्भिर्॑ **अग्मत॒**  
-सम् +++(पिष्टरूपा)+++ ओष॑धयो॒ रसे॑न +++(→परस्पर-जिन्वनम् water cycle ब्राह्मणय् उक्तम्)+++।  
-सँ रे॒वती॒र्+++(=धनवत्यः →आपः)+++ जग॑तीभि॒र्+++(=जङ्गमाभिः →पशवः)+++  
-मधु॑मती॒र् +++(→ओषधीः)+++ मधु॑मतीभिस् **सृज्यध्वम्**  ॥
+स᳓म् +++(प्रणीता-)+++आ᳓पो +++(मदन्ती/क्वथित)+++अद्भि᳓र् **अग्मत**  
+स᳓म् +++(पिष्टरूपा)+++ ओ᳓षधयो र᳓सेन +++(→परस्पर-जिन्वनम् water cycle ब्राह्मणय् उक्तम्)+++।  
+सँ᳓ रेव᳓तीर्+++(=धनवत्यः →आपः)+++ ज᳓गतीभिर्+++(=जङ्गमाभिः →पशवः)+++  
+म᳓धुमतीर् +++(→ओषधीः)+++ म᳓धुमतीभिस् **सृज्यध्वम्**  ॥
 
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/07_sam_Apo.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/07_sam_Apo.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -132,7 +127,6 @@ Join ye rich ones with the moving ones, sweet ones with the sweet.
 एतदुक्तं भवति - हे आपः रेवत्यो मधुमत्यश्च यूयं जगतीभिर्मधुमतीभिश्च ओषधीभिस्संसृज्यध्वम्, इति । 'आपो वा ओषधीर्जिन्वन्ति' (तै.ब्रा. 3.2.8) इत्यादि, 'आपो वै रेवतीः' (तै.ब्रा. 3.2.8) इत्यादि च ब्राह्मणम् ॥
 </details>
 </details>
-
 </div>
 
 ____
@@ -144,8 +138,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒द्भ्यᳶ परि॒ प्रजा॑तास् स्थ +++(हे ओषधयः पार्थिवाः!)+++।   
-सम॒द्भिᳶ पृ॑च्यध्वम् ।
+अद्भ्यᳶ᳓ प᳓रि प्र᳓जातास् स्थ +++(हे ओषधयः पार्थिवाः!)+++।   
+स᳓मद्भिᳶ᳓ पृच्यध्वम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -197,7 +191,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(प्रजानां)+++ जन॑यत्यै त्वा॒ सय्ँयौ॑मि+++(=मिश्रीकरोमि)+++ ।
++++(प्रजानां)+++ ज᳓नयत्यै त्वा सय्ँ᳓यौमि+++(=मिश्रीकरोमि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -229,8 +223,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॑ त्वा +++(ऽभिमृशामि)+++।   
-अ॒ग्नीषोमा॑भ्याम् [त्वा]  +++(ऽभिमृशामि)+++।  
+अग्न᳓ये त्वा +++(ऽभिमृशामि)+++।   
+अग्नी᳓षो᳓माभ्याम् [त्वा]  +++(ऽभिमृशामि)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -277,7 +271,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒खस्य॒ शिरो॑ऽसि ।+++(5)+++
+मख᳓स्य शि᳓रोऽसि ।+++(5)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -309,7 +303,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घ॒र्मो॑ ऽसि वि॒श्वायुः॑।
+घर्मो᳙ ऽसि विश्वा᳓युः।
 </details>
 
 <details><summary>Keith</summary>
@@ -339,12 +333,11 @@ ____
 प्रथयति
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/uru.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/uru.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒रु प्र॑थस्व ।  
-उ॒रु ते॑ य॒ज्ञप॑तिᳶ प्रथताम् ।
+उरु᳓ प्रथस्व ।  
+उरु᳓ ते यज्ञ᳓पतिᳶ प्रथताम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -383,7 +376,6 @@ Be extended wide, let the lord of the sacrifice be extended wide.
 
 प्रथस्व प्रसर। 
 </details>
-
 </div>  
 
 ____
@@ -395,7 +387,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वच॑ङ् गृह्णीष्व ।
+त्व᳓चङ् गृह्णीष्व ।
 </details>
 
 <details><summary>Keith</summary>
@@ -427,8 +419,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्तरि॑तँ॒ रक्षो॒  
-ऽन्तरि॑ता॒ अरा॑तयः +++(→दि॒वि नाको॒ नामा॒ग्नी र॑क्षो॒हा)+++।  
+अ᳓न्त᳓रितँ र᳓क्षो  
+ऽन्त᳓रिता अ᳓रातयः +++(→दिवि᳓ ना᳓को ना᳓माग्नी᳓ रक्षोहा᳓)+++।  
 +++(अप्रदग्धश् च यजमानः।)+++
 </details>
 
@@ -467,8 +459,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस् त्वा॑ सवि॒ता **श्र॑पयतु॒**   
-वर्षि॑ष्ठे॒ अधि॒ नाके॑+++(=द्युवह्नौ रक्षोहन्त्रे)+++।
+देव᳓स् त्वा सविता᳓ **श्रपयतु**   
+व᳓र्षिष्ठे अ᳓धि ना᳓के+++(=द्युवह्नौ रक्षोहन्त्रे)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -484,7 +476,7 @@ Let the god Savitr make thee ready on the highest firmament.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निस् ते॑ त॒नुव॒म् मा ऽति॑ धाक् ।
+अग्नि᳓स् ते तनु᳓वम् मा᳓ ऽति धाक् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -518,11 +510,10 @@ ____
 गार्हपत्यम् अभिमन्त्रयते
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/agne_havyam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/agne_havyam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ ह॒व्यँ र॑क्षस्व ॥ [6]
+अ᳓ग्ने हव्यँ᳓ रक्षस्व ॥ [6]
 </details>
 
 <details><summary>Keith</summary>
@@ -545,7 +536,6 @@ O Agni, guard the offering.
 17गार्हपत्यमभिमन्त्रयते - अग्न इति ॥ हे अग्ने गार्हपत्य, इदं हव्यं हवनाय निरुप्तं रक्षस्व । व्यत्ययेनात्मनेपदम् । 'छन्दसि च' (पा.सू. 5.1.67) इति यः ॥
 
 </details>
-
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -562,7 +552,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् ब्रह्म॑णा पृच्यस्व +++(पशु-सम्बन्धाय, अ-खल्वाटत्वाय च)+++।
+स᳓म् ब्र᳓ह्मणा पृच्यस्व +++(पशु-सम्बन्धाय, अ-खल्वाटत्वाय च)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -594,9 +584,9 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒क॒ताय॒ स्वाहा॑ ।   
-द्वि॒ताय॒ स्वाहा॑ ।    
-त्रि॒ताय॒ स्वाहा॑ ।  
+एकता᳓य स्वा᳓हा ।   
+द्विता᳓य स्वा᳓हा ।    
+त्रिता᳓य स्वा᳓हा ।  
 +++('तत एकतोजायत' (तै.ब्रा. 3.2.8) इत्यादिब्राह्मणे प्रसिद्धाः तद्-वाच्याः पित्रादयः अग्निष्वात्तादयः ।)+++
 </details>
 

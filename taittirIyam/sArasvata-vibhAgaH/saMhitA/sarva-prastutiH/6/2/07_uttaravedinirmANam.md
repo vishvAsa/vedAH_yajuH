@@ -1,6 +1,5 @@
 +++
 title = "०७ उत्तरवेदिनिर्माणम्"
-
 +++
 
 सोमऋषिः
@@ -12,7 +11,7 @@ title = "०७ उत्तरवेदिनिर्माणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेभ्य॑ उत्तरवे॒दिस् सिँ॒ही रू॒पङ्कृ॒त्वोभया॑नन्त॒राप॒क्रम्या॑तिष्ठत् ।  
+ते᳓भ्य उत्तरवेदि᳓स् सिँही᳓ रूप᳓ङ्कृत्वो᳓भ᳓यानन्तरा᳓पक्र᳓म्यातिष्ठत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -27,7 +26,7 @@ The high altar taking the form of a lioness went away and remained between the t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वा अ॑मन्यन्त  -  
+ते᳓ देवा᳓ अमन्यन्त  -  
 </details>
 
 <details><summary>Keith</summary>
@@ -42,7 +41,7 @@ The gods reflected,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒त॒रान्वा इ॒यमु॑पाव॒र्त्स्यति॒ त इ॒दम् भ॑विष्य॒न्तीति॑ ।  
+यतरा᳓न्वा᳓ इय᳓मुपावर्त्स्य᳓ति त᳓ इद᳓म् भविष्यन्ती᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -57,7 +56,7 @@ The gods reflected,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तामुपा॑मन्त्रयन्त ।  
+ता᳓मु᳓पामन्त्रयन्त ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -72,7 +71,7 @@ They called to her;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-साऽब्र॑वी॒द् , वरव्ँ॑ वृणै॒ सर्वा॒न् मया॒ कामा॒न्व्य॑श्ञवथ॒ पूर्वान् तु मा॒ऽग्नेराहु॑तिरश्ञवता॒ इति॑ ।  
+सा᳓ऽब्रवीद् , व᳓रव्ँ वृणै स᳓र्वान् म᳓या का᳓मान्व्य᳙श्ञवथ पू᳓र्वा᳓न् तु᳓ माऽग्ने᳓रा᳓हुतिरश्ञवता इ᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -87,7 +86,7 @@ she said, 'Let me choose a boon; through me shall ye obtain all your desires, bu
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑दुत्तरवे॒दिम् पूर्वा॑म॒ग्नेर् व्याघा॑रयन्ति॒ वारे॑वृतँ॒ ह्य॑स्यै ।  
+त᳓स्मादुत्तरवेदि᳓म् पू᳓र्वामग्ने᳓र् व्या᳓घारयन्ति वा᳓रेवृतँ ह्य᳙स्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -105,7 +104,6 @@ Therefore do they besprinkle the high altar before (they sprinkle) the fire, for
 तेभ्यः॑ । उ॒त्त॒र॒वे॒दिरित्यु॑त्तर-वे॒दिः । सिँ॒हीः । रू॒पम् । कृ॒त्वा । उ॒भया॑न् । अ॒न्त॒रा । अ॒प॒क्रम्येत्य॑प-क्रम्य॑ । अ॒ति॒ष्ठ॒त् ।   
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1उत्तरवेद्या व्याघारणं विधास्यन् आह - तेभ्य इत्यादि ॥ देवासुरास्संयत्ता अधिकृताः, ते उभये अपि सर्वनाम्ना अपेक्ष्यन्ते । उत्तरवेदिस्सिंहीः तदीयं च रूपं कृत्वा तेभ्यो देवासुरेभ्योपक्रम्य उभयानन्तरा उभयेषां मध्ये उभयपक्षपरित्यागेन अतिष्ठत्, सिंहीरिति । हल्ङ्यादिलोपाभावश्छान्दसः ।
@@ -118,7 +116,6 @@ Therefore do they besprinkle the high altar before (they sprinkle) the fire, for
 
 ताम् । उपेति॑ । अ॒म॒न्त्र॒य॒न्त॒ ।  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -156,7 +153,7 @@ Therefore do they besprinkle the high altar before (they sprinkle) the fire, for
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शम्य॑या॒ परि॑ मिमीते ।[34]  
+श᳓म्यया प᳓रि मिमीते ।[34]  
 </details>
 
 <details><summary>Keith</summary>
@@ -171,7 +168,7 @@ He measures (it) round with the yoke-pin [1], that is its measure;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मात्रै॒वास्यै॒ सा ऽथो॑ यु॒क्तेनै॒व यु॒क्तमव॑ रुन्धे ।  
+मा᳓त्रैवा᳓स्यै सा᳓ ऽथो युक्ते᳓नैव᳓ युक्त᳓म᳓व रुन्धे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -186,7 +183,7 @@ verily also by what is fitting he wins what is fitting.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒त्ताय॑नी मे॒ऽसीत्या॑ह ।
+वित्ता᳓यनी मेऽसी᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -218,7 +215,7 @@ verily also by what is fitting he wins what is fitting.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒त्ता ह्ये॑ना॒नाव॑त् ।
+वित्ता᳓ ह्येनाना᳓वत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -233,7 +230,7 @@ for being found (vitta) she helped them;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ति॒क्ताय॑नी मे॒ऽसीत्या॑ह ।
+तिक्ता᳓यनी मेऽसी᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -248,7 +245,7 @@ thou art the resort of the afflicted for me', he says,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ति॒क्तान्ह्ये॑ना॒नाव॑त्।  
+तिक्ता᳓न्ह्येनाना᳓वत्।  
 </details>
 
 <details><summary>Keith</summary>
@@ -263,7 +260,7 @@ for she helped them in affliction;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव॑तान्मा नाथि॒तमित्या॑ह ।
+अ᳓वतान्मा नाथित᳓मि᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -278,7 +275,7 @@ for she helped them in affliction;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ना॒थि॒तान् ह्ये॑ना॒नाव॑त् ।  
+नाथिता᳓न् ह्येनाना᳓वत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -293,7 +290,7 @@ for she protected them when in want;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव॑तान्मा व्यथि॒तमित्या॑ह ।
+अ᳓वतान्मा व्यथित᳓मि᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -308,7 +305,7 @@ for she protected them when in want;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्य॒थि॒तान् ह्ये॑ना॒नाव॑त् ।
+व्यथिता᳓न् ह्येनाना᳓वत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -322,7 +319,6 @@ for she protected them when afflicted.
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 वि॒त्ता । हि । ए॒ना॒न् । आव॑त् ।   
 ति॒क्ताय॒नीति॑ तिक्त-अय॑नी । मे॒ । अ॒सि॒ । इति॑ । आ॒ह॒ ।   
@@ -346,7 +342,7 @@ for she protected them when afflicted.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒देर॒ग्निर् नभो॒ नामाग्ने॑ अङ्गिर॒ इति॒ त्रिर् ह॑रति ।[35]  
+विदे᳓रग्नि᳓र् न᳓भो ना᳓मा᳓ग्ने अङ्गिर इ᳓ति त्रि᳓र् हरति ।[35]  
 </details>
 
 <details><summary>Keith</summary>
@@ -361,7 +357,7 @@ for she protected them when afflicted.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वैषु लो॒केष्व् अ॒ग्नय॒स् ताने॒वाव॑ रुन्धे ।  
+य᳓ एवै᳓षु᳓ लोके᳓ष्व् अग्न᳓यस् ता᳓नेवा᳓व रुन्धे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -375,7 +371,6 @@ verily he wins the fires that are in these worlds.
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 वि॒देः । अ॒ग्निः । नभः॑ । नाम॑ । [35]  
 अग्ने॑ । अ॒ङ्गि॒रः॒ । इति॑ । त्रिः । ह॒र॒ति॒ ।   
@@ -396,7 +391,7 @@ verily he wins the fires that are in these worlds.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तू॒ष्णीञ् च॑तु॒र्थँ ह॑र॒त्यनि॑रुक्तमे॒वाव॑ रुन्धे ।
+तूष्णी᳓ञ् चतुर्थँ᳓ हरत्य᳓निरुक्तमेवा᳓व रुन्धे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -427,7 +422,7 @@ He strokes in silence for the fourth time, verily he wins that which is not indi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"सिँ॒हीर॑सि महि॒षीर॒सी"त्या॑ह ।  
+"सिँही᳓रसि महिषी᳓रसी᳓"त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -442,7 +437,7 @@ He strokes in silence for the fourth time, verily he wins that which is not indi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सिँ॒हीर्ह्ये॑षा रू॒पङ् कृ॒त्वोभया॑नन्त॒राप॒क्रम्याति॑ष्ठत् ।  
+सिँही᳓र्ह्येषा रूप᳓ङ् कृत्वो᳓भ᳓यानन्तरा᳓पक्र᳓म्या᳓तिष्ठत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -457,7 +452,7 @@ for it (the high altar) taking the form of a lioness went away and remained betw
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒रु प्र॑थस्व + उ॒रु ते॑ य॒ज्ञप॑तिᳶ प्रथता॒मित्या॑ह ।  
+उरु᳓ प्रथस्व + उरु᳓ ते यज्ञ᳓पतिᳶ प्रथतामि᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -472,7 +467,7 @@ for it (the high altar) taking the form of a lioness went away and remained betw
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानमे॒व प्र॒जया॑ प॒शुभि॑ᳶ प्रथयति ।  
+य᳓जमानमेव᳓ प्रज᳓या पशु᳓भिᳶ प्रथयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -487,7 +482,7 @@ verily he enriches the sacrificer with offspring and cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वा अ॒सीति॒ सँ ह॑न्ति॒ धृत्यै॑ [36], दे॒वेभ्य॑श् शुन्धस्व ,   
+ध्रुवा᳓ असी᳓ति सँ᳓ हन्ति धृ᳓त्यै [36], देवे᳓भ्यश् शुन्धस्व ,   
 </details>
 
 <details><summary>Keith</summary>
@@ -502,7 +497,7 @@ verily he enriches the sacrificer with offspring and cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वेभ्य॑श् शुम्भ॒स्वेत्यव॑ चो॒क्षति॒ , प्र च॑ किरति॒ शुद्ध्यै॑ ।
+देवे᳓भ्यश् शुम्भस्वे᳓त्य᳓व चोक्ष᳓ति , प्र᳓ च किरति शु᳓द्ध्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -516,7 +511,6 @@ be bright for the gods', (with these words) he moistens it and scatters (sand) o
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 सिँ॒हीः । अ॒सि॒ । म॒हि॒षीः । अ॒सि॒ । इति॑ । आ॒ह॒ ।   
 सिँ॒हीः । हि । ए॒षा । रू॒पम् । कृ॒त्वा । उ॒भया॑न् । अ॒न्त॒रा । अ॒प॒क्रम्येत्य॑प-क्रम्य॑ । अति॑ष्ठत् ।   
@@ -542,7 +536,7 @@ be bright for the gods', (with these words) he moistens it and scatters (sand) o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रघो॒षस्त्वा॒ वसु॑भिᳶ पु॒रस्ता॑त्पा॒त्वित्या॑ह दि॒ग्भ्य ए॒वैना॒म्प्रोक्ष॑ति ।  
+इ᳓न्द्र᳓घोष᳓स्त्वा व᳓सुभिᳶ पुर᳓स्तात्पात्वि᳓त्याह दिग्भ्य᳓ एवै᳓नाम्प्रो᳓क्षति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -557,7 +551,7 @@ be bright for the gods', (with these words) he moistens it and scatters (sand) o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वाँश्चेदु॑त्तरवे॒दिर् उ॒पाव॑वर्ती॒हैव वि ज॑यामहा॒ इत्यसु॑रा॒ वज्र॑म् उ॒द्यत्य॑ दे॒वान॒भ्या॑यन्त॒ , तानि॑न्द्रघो॒षो वसु॑भिᳶ पु॒रस्ता॒दपा॑नुदत , [37]  
+देवाँ᳓श्चे᳓दुत्तरवेदि᳓र् उपा᳓ववर्तीहै᳓व᳓ वि᳓ जयामहा इ᳓त्य᳓सुरा व᳓ज्रम् उद्य᳓त्य देवा᳓नभ्या᳙यन्त , ता᳓निन्द्रघोषो᳓ व᳓सुभिᳶ पुर᳓स्ताद᳓पानुदत , [37]  
 </details>
 
 <details><summary>Keith</summary>
@@ -572,7 +566,7 @@ be bright for the gods', (with these words) he moistens it and scatters (sand) o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मनो॑जवाᳶ पि॒तृभि॑र् दक्षिण॒तᳶ , प्रचे॑ता रु॒द्रैᳶ प॒श्चाद् ,  वि॒श्वक॑र्मादि॒त्यैर् उ॑त्तर॒तः ।  
+म᳓नोजवाᳶ पितृ᳓भिर् दक्षिणतᳶ᳓ , प्र᳓चेता रुद्रैᳶ᳓ पश्चा᳓द् ,  विश्व᳓कर्मादित्यै᳓र् उत्तरतः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -587,7 +581,7 @@ the swift of mind with the Pitrs on the right, the wise one with the Rudras behi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदे॒वमु॑त्तरवे॒दिम् प्रो॒क्षति॑ , दि॒ग्भ्य ए॒व तद् यज॑मानो॒ भ्रातृ॑व्या॒न् प्रणु॑दते ।
+य᳓देव᳓मुत्तरवेदि᳓म् प्रोक्ष᳓ति , दिग्भ्य᳓ एव᳓ त᳓द् य᳓जमानो भ्रा᳓तृव्यान् प्र᳓णुदते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -612,7 +606,6 @@ In that he sprinkles the high altar, verily thus does the sacrificer repel his f
 यत् । ए॒वम् । उ॒त्त॒र॒वे॒दिमित्यु॑त्तर-वे॒दिम् । प्रो॒क्षतीति॑ प्र-उ॒क्षति॑ । दि॒ग्भ्य इति॑ दिक्-भ्यः । ए॒व । तत् । यज॑मानः । भ्रातृ॑व्यान् । प्रेति॑ । नु॒द॒ते॒ ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7उत्तरवेद्याः प्रागादिप्रोक्षणमन्त्राः - 'इन्द्रघोषस्त्वा' इत्यादयः । दिग्भ्य एवेति । प्राच्यादिदिग्भ्योपादाय एनां क्रमेण प्रोक्षति । देवांश्चेदिति । यदि देवानुत्तरवेदिः उपावर्तते देवसमीपमागच्छति चेत् ततस्तेषामेव जयो नास्माकं तस्मादिहैव इदानीमेव तदुपावर्तनात्प्रागेव देवान्विजयामहै इति मत्वा असुरा वज्रमुद्यत्य देवानभ्यायन्त उत्तरवेदिस्थानमागताः । उपपूर्वाद्वृतेः लेटि 'बहुलं छन्दसि' इति शापश्श्लुः । तानिन्द्रघोषादयो वस्वादिगणसहिताः पूर्वादिदिग्भ्योसुरानपानुदत । यदेवमित्यादि । गतम् । 'सावेकाचः' इति दिग्भ्यो विभक्तेरुदात्तत्वम् ॥
@@ -625,7 +618,7 @@ In that he sprinkles the high altar, verily thus does the sacrificer repel his f
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो॒ यती॑न्त् सालावृ॒केभ्य॒ᳶ प्राय॑च्छ॒त् , तान्द॑क्षिण॒त उ॑त्तरवे॒द्या आ॑दन् ।  
+इ᳓न्द्रो य᳓तीन्त् सालावृके᳓भ्यᳶ प्रा᳓यच्छत् , ता᳓न्दक्षिणत᳓ उत्तरवेद्या᳓ आदन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -640,7 +633,7 @@ Indra gave the Yatis to the Salavrkas; them they ate on the right of the high al
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् प्रोक्ष॑णीनाम् उ॒च्छिष्ये॑त॒ तद् द॑क्षिण॒त उ॑त्तरवे॒द्यै नि न॑येद् ।  
+य᳓त् प्रो᳓क्षणीनाम् उच्छि᳓ष्येत त᳓द् दक्षिणत᳓ उत्तरवेद्यै᳓ नि᳓ नयेद् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -655,7 +648,7 @@ Whatever is left of the sprinkling waters he should pour on the right of the hig
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदे॒व तत्र॑ क्रू॒रन् तत् तेन॑ शमयति ।   
+य᳓देव᳓ त᳓त्र क्रूर᳓न् त᳓त् ते᳓न शमयति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -670,7 +663,7 @@ whatever cruel is there that he appeases thereby.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन् द्वि॒ष्यात् तन् ध्या॑येच् छु॒चैवैन॑मर्पयति ॥ [38]
+य᳓न् द्विष्या᳓त् त᳓न् ध्यायेच् छुचै᳓वै᳓नमर्पयति ॥ [38]
 </details>
 
 <details><summary>Keith</summary>

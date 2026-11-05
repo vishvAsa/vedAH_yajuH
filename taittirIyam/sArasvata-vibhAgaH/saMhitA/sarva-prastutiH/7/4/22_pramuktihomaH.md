@@ -1,6 +1,5 @@
 +++
 title = "२२ प्रमुक्तिहोमः"
-
 +++
 विश्वेदेवा ऋषयः
 
@@ -16,7 +15,7 @@ title = "२२ प्रमुक्तिहोमः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सि॒ताय॒ स्वाहा॑ ।
+सिता᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -31,7 +30,7 @@ To the bound hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असि॑ताय॒ स्वाहा॑ ।
+अ᳓सिताय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -46,7 +45,7 @@ To the unbound hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भिहि॑ताय॒ स्वाहा॑ ।
+अभि᳓हिताय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -61,7 +60,7 @@ To the fastened hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन॑भिहिताय॒ स्वाहा॑ ।
+अ᳓नभिहिताय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -76,7 +75,7 @@ To the unfastened hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यु॒क्ताय॒ स्वाहा॑ ।
+युक्ता᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -91,7 +90,7 @@ To the yoked hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अयु॑क्ताय॒ स्वाहा॑ ।
+अ᳓युक्ताय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -106,7 +105,7 @@ To the unyoked hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुयु॑क्ताय॒ स्वाहा॑ ।
+सु᳓युक्ताय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -121,7 +120,7 @@ To the well-yoked hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद्यु॑क्ताय॒ स्वाहा॑ ।
+उ᳓द्युक्ताय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -136,7 +135,7 @@ To the unyoked hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विमु॑क्ताय॒ स्वाहा॑ ।
+वि᳓मुक्ताय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -151,7 +150,7 @@ To the one set free hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रमु॑क्ताय॒ स्वाहा॑ ।
+प्र᳓मुक्ताय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -166,7 +165,7 @@ To the one lot go hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वञ्च॑ते॒ स्वाहा॑ ।
+व᳓ञ्चते स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -181,7 +180,7 @@ To that which moveth crookedly hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒रि॒वञ्च॑ते॒ स्वाहा॑ ।
+परिव᳓ञ्चते स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -196,7 +195,7 @@ To that which moveth around hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सव्ँ॒वञ्च॑ते॒ स्वाहा॑ ।
+सव्ँव᳓ञ्चते स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -211,7 +210,7 @@ To that which moveth together hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒नु॒वञ्च॑ते॒ स्वाहा॑ ।
+अनुव᳓ञ्चते स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -226,7 +225,7 @@ To that which moveth along hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒द्वञ्च॑ते॒ स्वाहा॑ ।
+उद्व᳓ञ्चते स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -241,7 +240,7 @@ To that which goeth hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ते स्वाहा॑ ।
+यते᳓ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -256,7 +255,7 @@ To that which riseth hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धाव॑ते॒ स्वाहा॑ ।  तिष्ठ॑ते॒ स्वाहा॑ ।
+धा᳓वते स्वा᳓हा ।  ति᳓ष्ठते स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -271,7 +270,7 @@ To that which standeth hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व॑स्मै॒ स्वाहा॑ ॥ [53]
+स᳓र्वस्मै स्वा᳓हा ॥ [53]
 </details>
 
 <details><summary>Keith</summary>
@@ -285,7 +284,6 @@ To all hail!
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
-
 
 इति भट्टभास्करमिश्रविरचिते ज्ञानयज्ञास्ये यजुर्वेदभाष्ये सप्तमे काण्डे चतुर्थे प्रश्ने द्वाविंशोनुवाकः ॥  
 </details>

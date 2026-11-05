@@ -13,7 +13,7 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन्नव॒मैत्, तन्नव॑नीतमभवत् ..
+य᳓न्न᳓वमै᳓त्, त᳓न्न᳓वनीतमभवत् ..
 </details>
 
 <details><summary>Keith</summary>
@@ -33,7 +33,7 @@ What went new that became fresh butter;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदस॑र्प॒त् तत्स॒र्पिर॑भवत् ..
+य᳓द᳓सर्पत् त᳓त्सर्पि᳓रभवत् ..
 </details>
 
 <details><summary>Keith</summary>
@@ -53,7 +53,7 @@ what crept that became clarified butter;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदध्रि॑यत॒ तद्घृ॒तम॑भवत् ।
+य᳓द᳓ध्रियत त᳓द्घृत᳓मभवत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -78,7 +78,7 @@ that which became firm became ghee.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्विनोः॑ प्रा॒णो॑ऽसि ।
+अश्वि᳓नोः प्राणो᳙ऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -93,8 +93,8 @@ Thou art the breath of the Aśvins;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य॑ ते दत्ताम् ।  
-ययोः॑  प्रा॒णोऽसि॑ ।
+त᳓स्य ते दत्ताम् ।  
+य᳓योः  प्राणो᳓ऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -110,7 +110,7 @@ of that to thee let the two give whose breath thou art;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा॑ ।
+स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -135,7 +135,7 @@ hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य प्रा॒णो॑ऽसि ।
+इ᳓न्द्रस्य प्राणो᳙ऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -150,9 +150,9 @@ Thou art the breath of Indra;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य॑ ते ददातु ।  
-यस्य॑ प्रा॒णोऽसि ।  
-स्वाहा॑ ।
+त᳓स्य ते ददातु ।  
+य᳓स्य प्राणो᳓ऽसि᳓ ।  
+स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -169,7 +169,7 @@ of that to thee let him give whose breath thou art;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रावरु॑णयोᳶ प्रा॒णो॑ऽसि ।
+मित्रा᳓व᳓रुणयोᳶ प्राणो᳙ऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -184,7 +184,7 @@ hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य॑ ते दत्ताम् ।
+त᳓स्य ते दत्ताम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -199,8 +199,8 @@ Thou art the breath of Mitra and Varuna;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ययोः॑  प्रा॒णोऽसि॑ ।  
-स्वाहा॑ ।
+य᳓योः  प्राणो᳓ऽसि ।  
+स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -216,7 +216,7 @@ of that to thee let them give whose' breath thou art;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वे॑षान्दे॒वाना॑म्प्रा॒णो॑ऽसि ।
+वि᳓श्वेषान्देवा᳓नाम्प्राणो᳙ऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -231,7 +231,7 @@ hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य॑ ते ददतु ।
+त᳓स्य ते ददतु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -246,7 +246,7 @@ Thou art the breath of the All-gods [1];
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-येषा॑म्प्रा॒णोऽसि॑ ।
+ये᳓षाम्प्राणो᳓ऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -261,7 +261,7 @@ of that to thee let them give whose breath thou art;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा॑ ।
+स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -281,8 +281,8 @@ hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृ॒तस्य॒ धारा॑म॒मृत॑स्य॒ पन्था॒मिन्द्रे॑ण द॒त्ताम्प्रय॑ताम्म॒रुद्भिः॑ ।  
-तत्त्वा॒ विष्णु॒ᳶ पर्य॑पश्य॒त्तत्त्वेडा॒ गव्यैर॑यत् ॥
+घृत᳓स्य धा᳓राममृ᳓तस्य प᳓न्थामि᳓न्द्रेण दत्ता᳓म्प्र᳓यताम्मरु᳓द्भिः ।  
+त᳓त्त्वा वि᳓ष्णुᳶ प᳓र्यपश्यत्त᳓त्त्वे᳓डा ग᳓व्यै᳓रयत् ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -308,9 +308,9 @@ Stream of ghee, path of ambrosia, Given by Indra, presented by the Maruts, Thee 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पा॒व॒मा॒नेन॑ त्वा॒ स्तोमे॑न+++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ ।  
-गा॒य॒त्र॑स्य वर्त॒न्या त्वा॒ +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ ।  
-उ॒पाँ॒शोर्वी॒र्ये॑ण त्वा॒ +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ जी॒वात॑वे जीवन॒स्यायै॑ ।
+पावमाने᳓न त्वा स्तो᳓मेन+++(देव᳓स्त्वा सवितो᳓त्सृजतु )+++ ।  
+गायत्र᳙स्य वर्तन्या᳓ त्वा +++(देव᳓स्त्वा सवितो᳓त्सृजतु )+++ ।  
+उपाँशो᳓र्वीर्ये᳙ण त्वा +++(देव᳓स्त्वा सवितो᳓त्सृजतु )+++ जीवा᳓तवे जीवनस्या᳓यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -337,9 +337,9 @@ Let the god Savitr set thee free for life, for living, with the Pavamana Stoma, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृ॒ह॒द्र॒थ॒न्त॒रयो॑स्त्वा स्तोमे॑न +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ ।  
-त्रि॒ष्टुभो॑ वर्त॒न्या त्वा॒ +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ ।  
-शु॒क्रस्य॑ वी॒र्ये॑ण त्वा॒ +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ जी॒वात॑वे जीवन॒स्यायै॑ ।
+बृहद्रथन्तर᳓योस्त्वा᳓ स्तो᳓मेन +++(देव᳓स्त्वा सवितो᳓त्सृजतु )+++ ।  
+त्रिष्टु᳓भो वर्तन्या᳓ त्वा +++(देव᳓स्त्वा सवितो᳓त्सृजतु )+++ ।  
+शुक्र᳓स्य वीर्ये᳙ण त्वा +++(देव᳓स्त्वा सवितो᳓त्सृजतु )+++ जीवा᳓तवे जीवनस्या᳓यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -366,9 +366,9 @@ let the god Savitr set thee free for life, for living, [2] with the Brhat and Ra
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेस्त्वा॒ मात्र॑या  +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ ।   
-जग॑त्यै वर्त॒न्या त्वा॒ +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ ।  
-आ॒ग्र॒य॒णस्य॑ वी॒र्ये॑ण दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु जी॒वात॑वे जीवन॒स्यायै॑  ।  
+अग्ने᳓स्त्वा मा᳓त्रया  +++(देव᳓स्त्वा सवितो᳓त्सृजतु )+++ ।   
+ज᳓गत्यै वर्तन्या᳓ त्वा +++(देव᳓स्त्वा सवितो᳓त्सृजतु )+++ ।  
+आग्रयण᳓स्य वीर्ये᳙ण देव᳓स्त्वा सवितो᳓त्सृजतु जीवा᳓तवे जीवनस्या᳓यै  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -393,7 +393,7 @@ let the god Savitr set thee free with the measure of Agni, with the path of the 
 10हिरण्याद्घृतं निष्पिबन्तमनुमन्त्रयते - इममग्न इति । त्रिष्टुबेषा ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/02_imamagna_AyuShe.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/02_imamagna_AyuShe.md">
 
 इम᳓म् अग्न आ᳓युषे व᳓र्चसे **कृधि**  
 प्रियँ᳓ रे᳓तो वरुण सोम राजन् ।  
@@ -402,12 +402,11 @@ let the god Savitr set thee free with the measure of Agni, with the path of the 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_04/02_imamagna_AyuShe.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_04/02_imamagna_AyuShe.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒मम॑ग्न॒ आयु॑षे॒ वर्च॑से कृधि प्रि॒यँ रेतो॑ वरुण सोम राजन् ।  
-मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा॒ जर॑दष्टि॒र्यथास॑त् ।
+इम᳓मग्न आ᳓युषे व᳓र्चसे कृधि प्रियँ᳓ रे᳓तो वरुण सोम राजन् ।  
+माते᳓वास्मा अदिते श᳓र्म यच्छ वि᳓श्वे देवा ज᳓रदष्टिर्य᳓था᳓सत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -431,7 +430,6 @@ let the god Savitr set thee free with the measure of Agni, with the path of the 
 
 अग्नि-वरुण-सोमादिति-विश्वेभ्यः देवेभ्यः इदन्न मम ।
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -439,15 +437,13 @@ let the god Savitr set thee free with the measure of Agni, with the path of the 
 11-16ब्रह्मा यजमानस्य हस्तं गृह्णाति - अग्निरायुष्मानिति ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्निरायु॑ष्मा॒न्त्स वन॒स्पति॑भि॒रायु॑ष्मा॒न्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि॒ सोम॒ आयु॑ष्मा॒न्त्स ओष॑धीभिर्य॒ज्ञ आयु॑ष्मा॒न्त्स दक्षि॑णाभि॒र्ब्रह्मायु॑ष्म॒त्तद्ब्रा॑ह्म॒णैरायु॑ष्मद्दे॒वा आयु॑ष्मन्त॒स्ते॑ऽमृते॑न पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥ [40]
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md">
-
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 +++(हे यजमान)+++  
@@ -458,8 +454,26 @@ let the god Savitr set thee free with the measure of Agni, with the path of the 
 </details>
 </div>
 
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md">
+<div class="js_include" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md">
+<details open><summary><h10>सर्वाष् टीकाः …{Loading}…</h10></summary>
+<details><summary>Keith</summary>
 
+Agni is full of life; he is full of life through the trees; with this life I make thee full of life.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्निरायु॑ष्मा॒न्त्स वन॒स्पति॑भि॒रायु॑ष्मा॒न्तेन॒ त्वाऽऽयु॒षाऽऽयु॑ष्मन्तं करोमि॒ ।
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+दक्षिणे कर्णे जापः - अग्निरायुष्मानिति ॥ पञ्च पर्यायः अग्नेः वनस्पतिभिरायुष्मत्त्वं तदन्नत्वात् । सोमस्य ओषधीभिरायुष्मत्त्वं ओषधिरसरूपामृतात्मकत्वात् । मृतो यज्ञस्त्वदक्षिणः इति वचनात् यज्ञस्य दक्षिणाभिरायुष्मत्त्वम् । ब्रह्म वेदः । ब्राह्मणास्तस्य धारयितारः । तेन तैस्तस्यायुष्मत्त्वम् । देवानाममृतेन आयुष्मत्तेन आयुष्मत्त्वं प्रसिद्धम् । तेन त्वेस्यादि सर्वत्रानुषज्यते शिष्टं स्पष्टम् ॥
+</details>
+</details>
+</div>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 सो᳓म आ᳓युष्मान् स᳓ ओ᳓षधीभिर् [आ᳓युष्मान् ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
@@ -467,8 +481,21 @@ let the god Savitr set thee free with the measure of Agni, with the path of the 
 </details>
 </div>
 
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md">
+<div class="js_include" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md">
+<details open><summary><h10>सर्वाष् टीकाः …{Loading}…</h10></summary>
+<details><summary>Keith</summary>
 
+Soma is full of life; he is (full) through the plants;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सोम॒ आयु॑ष्मा॒न्त्स ओष॑धीभि॒रायु॑ष्मा॒न्तेन॒ …।
+</details>
+</details>
+</div>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 +++(हे यजमान)+++ यज्ञ᳓ [आ᳓युष्मान्], स᳓ द᳓क्षिणाभिर् आ᳓युष्मान्, [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
@@ -476,8 +503,21 @@ let the god Savitr set thee free with the measure of Agni, with the path of the 
 </details>
 </div>
 
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md">
+<div class="js_include" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md">
+<details open><summary><h10>सर्वाष् टीकाः …{Loading}…</h10></summary>
+<details><summary>Keith</summary>
 
+the sacrifice is full of life; it is (full) through the sacrificial fees;
+</details>
+
+<details><summary>मूलम्</summary>
+
+य॒ज्ञ आयु॑ष्मा॒न्त्स दक्षि॑णाभि॒रायु॑ष्मा॒न्तेन॒ …।
+</details>
+</details>
+</div>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 +++(हे यजमान)+++ ब्र᳓ह्मा᳓युष्मत्, त᳓द्ब्राह्मणै᳓रा᳓युष्मत् , [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
@@ -485,13 +525,40 @@ let the god Savitr set thee free with the measure of Agni, with the path of the 
 </details>
 </div>
 
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/09_devA_AyuShmantaH_amRutena.md">
+<div class="js_include" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md">
+<details open><summary><h10>सर्वाष् टीकाः …{Loading}…</h10></summary>
+<details><summary>Keith</summary>
 
+the Brahman is full of life; that is full of life through the Brahmans;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मायु॑ष्मत्तद् ब्रा॑ह्म॒णैरायु॑ष्म॒त्तेन॒ …।
+</details>
+</details>
+</div>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/09_devA_AyuShmantaH_amRutena.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 +++(हे यजमान)+++ देवा᳓ आ᳓युष्मन्तः।  
 ते᳓ऽमृ᳓तेन [+आ᳓युष्मन्तः]  [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]  
 
+</details>
+</div>
+
+<div class="js_include" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/09_devA_AyuShmantaH_amRutena.md">
+<details open><summary><h10>सर्वाष् टीकाः …{Loading}…</h10></summary>
+<details><summary>Keith</summary>
+
+the gods are full of life; they are (full of life) through the ambrosia;
+</details>
+
+<details><summary>मूलम्</summary>
+
+दे॒वा आयु॑ष्मन्त॒स्ते॑ऽमृते॒नायु॑ष्मन्त॒स्तेन॒ …।
+</details>
 </details>
 </div>
 
@@ -502,7 +569,7 @@ let the god Savitr set thee free with the measure of Agni, with the path of the 
 
 <details><summary>Keith</summary>
 
-Agni is full of life; he is full of life through the trees; with this life I make thee full of life. Soma is full of life; he is (full) through the plants; the sacrifice is full of life; it is (full) through the sacrificial fees; the Brahman is full of life; that is full of life through the Brahmans; the gods are full of life; they are (full of life) through the ambrosia; the Pitrs are full of life; they are full of life through the Svadha-call with this life I make thee full of life.
+the Pitrs are full of life; they are full of life through the Svadha-call with this life I make thee full of life.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -529,14 +596,13 @@ Agni is full of life; he is full of life through the trees; with this life I mak
 
 इति द्वितीये तृतीये दशमोनुवाकः ॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पि॒तर॒ आयु॑ष्मन्तः,
-ते स्व॒धया ऽऽयु॑ष्मन्तः॒,  
-तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥
+पित᳓र आ᳓युष्मन्तः,
+ते स्वध᳓या᳓ ऽऽयुष्मन्तः,  
+ते᳓न त्वा᳓युषा᳓युष्मन्तङ्करोमि ॥
 
 </details>
 

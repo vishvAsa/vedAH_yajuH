@@ -1,6 +1,5 @@
 +++
 title = "०८ चक्षुष्कामस्येष्टिः"
-
 +++
 
 विश्वेदेवा ऋषयः ।
@@ -12,8 +11,8 @@ title = "०८ चक्षुष्कामस्येष्टिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रज॑नो॒ वै कौ॑णे॒यᳵ क्र॑तु॒जित॒ञ्जान॑किञ्चक्षु॒र्वन्य॑मयात् ।  
-तस्मा॑ ए॒तामिष्टि॒न्निर॑वपत् ।  
+र᳓जनो वै᳓ कौणेयᳵ᳓ क्रतुजि᳓तञ्जा᳓नकिञ्चक्षुर्व᳓न्यमयात् ।  
+त᳓स्मा एता᳓मि᳓ष्टिन्नि᳓रवपत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -34,9 +33,9 @@ Rajana Kauneya went to Kratujit Janaki for a cure for eyesight;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्न॒ये॒ भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालँ सौ॒र्यञ्च॒रुम् ।  
-अ॒ग्नये॒  भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालम् ।  
-तयै॒वास्मि॒ञ्चक्षु॑रदधात् ।
+अग्नये भ्रा᳓जस्वते पुरोडा᳓शमष्टा᳓कपालँ सौर्य᳓ञ्चरु᳓म् ।  
+अग्न᳓ये  भ्रा᳓जस्वते पुरोडा᳓शमष्टा᳓कपालम् ।  
+त᳓यैवा᳓स्मिञ्च᳓क्षुरदधात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -53,7 +52,7 @@ for him he offered this sacrifice, to Agni, the blazing, a cake on eight potsher
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यश्चक्षु॑ष्काम॒स्स्यात् ।
+य᳓श्च᳓क्षुष्कामस्स्या᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -68,8 +67,8 @@ verily thereby he bestowed sight upon him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑ ए॒तामिष्टि॒न्निर्व॑पेत् ।  
-अ॒ग्नये॒ भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालँ सौ॒र्यञ्च॒रुम् ।
+त᳓स्मा एता᳓मि᳓ष्टिन्नि᳓र्वपेत् ।  
+अग्न᳓ये भ्रा᳓जस्वते पुरोडा᳓शमष्टा᳓कपालँ सौर्य᳓ञ्चरु᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -85,7 +84,7 @@ For him who desires sight he should offer this sacrifice, to Agni, the blazing, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॒ भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालम् ।
+अग्न᳓ये भ्रा᳓जस्वते पुरोडा᳓शमष्टा᳓कपालम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -110,7 +109,7 @@ to Surya an oblation, to Agni, the blazing, a cake on eight potsherds;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेर्वै चक्षु॑षा मनु॒ष्या॑ वि प॑श्यन्ति ।   
+अग्ने᳓र्वै᳓ च᳓क्षुषा मनुष्या᳙ वि᳓ पश्यन्ति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -130,9 +129,9 @@ by the eye of Agni men see [1],
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूर्य॑स्य दे॒वाः +++(वि प॑श्यन्ति)+++ ।   
-अ॒ग्निञ्चै॒व सूर्य॑ञ्च॒ स्वेन॑ भाग॒धेये॒नोप॑ धावति ।  
-तावे॒वास्मि॒ञ्चक्षु॑र्धत्त॒श्चक्षु॑ष्माने॒व भ॑वति ।  
+सू᳓र्यस्य देवाः᳓ +++(वि᳓ पश्यन्ति)+++ ।   
+अग्नि᳓ञ्चैव᳓ सू᳓र्यञ्च स्वे᳓न भागधे᳓येनो᳓प धावति ।  
+ता᳓वेवा᳓स्मिञ्च᳓क्षुर्धत्तश्च᳓क्षुष्मानेव᳓ भवति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -159,7 +158,7 @@ by the eye of Agni men see [1],
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदा॑ग्ने॒यौ भव॑त॒श्चक्षु॑षी ए॒वास्मि॒न्तत्प्रति॑ दधाति ।
+य᳓दाग्नेयौ᳓ भ᳓वतश्च᳓क्षुषी एवा᳓स्मिन्त᳓त्प्र᳓ति दधाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -174,7 +173,7 @@ In that there are two for Agni, he restores his eyes for him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्सौ॒र्यो नासि॑का॒म् +++(प्रतिदधाति)+++।
+य᳓त्सौर्यो᳓ ना᳓सिकाम् +++(प्रतिदधाति)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -189,7 +188,7 @@ in that there is (an oblation) for Surya, (he restores) his nose;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेना॒भित॑स्सौ॒र्यमा॑ग्ने॒यौ भ॑वतः ।
+ते᳓नाभि᳓तस्सौर्य᳓माग्नेयौ᳓ भवतः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -204,8 +203,8 @@ the two for Agni are on either side of that for Surya;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द॒भितो॒ नासि॑का॒ञ्चक्षु॑षी ।  
-तस्मा॒न्नासि॑कया॒ चक्षु॑षी॒ विधृ॑ते ।
+त᳓स्मादभि᳓तो ना᳓सिकाञ्च᳓क्षुषी ।  
+त᳓स्मान्ना᳓सिकया च᳓क्षुषी वि᳓धृते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -236,7 +235,7 @@ therefore the two eyes are on either side of the nose, therefore by the nose the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मा॒नी या॑ज्यानुवा॒क्ये॑ भवतः ।
+समानी᳓ याज्यानुवाक्ये᳙ भवतः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -251,7 +250,7 @@ The Yajya, and the Anuvakya, are alike, for the eye is alike;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मा॒नँ॒ हि चक्षु॒स्समृ॑द्ध्यै ।
+समानँ हि᳓ च᳓क्षुस्स᳓मृद्ध्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -276,9 +275,9 @@ The Yajya, and the Anuvakya, are alike, for the eye is alike;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उदु॒ त्यञ्जा॒तवे॑दसँ ..  
-स॒प्त त्वा॑ ह॒रितो॒ रथे॑ ..  
-चि॒त्रन्दे॒वाना॒मुद॑गा॒दनी॑क॒म्  इति॒ पिण्डा॒न्प्र य॑च्छति ।
+उ᳓दु त्य᳓ञ्जात᳓वेदसँ ..  
+सप्त᳓ त्वा हरि᳓तो र᳓थे ..  
+चित्र᳓न्देवा᳓नामु᳓दगाद᳓नीकम्  इ᳓ति पि᳓ण्डान्प्र᳓ यच्छति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -319,8 +318,8 @@ The Yajya, and the Anuvakya, are alike, for the eye is alike;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चक्षु॑रे॒वास्मै॒ प्र य॑च्छति ।  
-यदे॒व तस्य॒ तत् ॥
+च᳓क्षुरेवा᳓स्मै प्र᳓ यच्छति ।  
+य᳓देव᳓ त᳓स्य त᳓त् ॥
 </details>
 
 <details><summary>Keith</summary>

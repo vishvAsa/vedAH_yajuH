@@ -1,27 +1,29 @@
 +++
 title = "११ १-०६-९२ आश्रावणादिमन्त्रविधिः"
-
 +++
 
 ## आश्रावणादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै स॑प्तद॒शम् प्र॒जाप॑तिय्ँ य॒ज्ञम् अ॒न्वाय॑त्तव्ँ॒ वेद॒,   
-प्रति॑ य॒ज्ञेन॑ तिष्ठति॒,  
-न य॒ज्ञाद् भ्रँ॑शते ।
+यो᳓ वै᳓ सप्तदश᳓म् प्रजा᳓पतिय्ँ यज्ञ᳓म् अन्वा᳓यत्तव्ँ वे᳓द,   
+प्र᳓ति यज्ञे᳓न तिष्ठति,  
+न᳓ यज्ञा᳓द् भ्रँशते ।
 </details>
+
 <details><summary>Keith</summary>
 
 He who knows the seventeenfold Prajapati as connected with the sacrifice  
 rests secure through the sacrifice,  
 and falls not away from the sacrifice. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 यो वै स॑प्तद॒शम्प्र॒जाप॑तिय्ँ य॒ज्ञम॒न्वाय॑त्तव्ँ॒ वेद॒,   
 प्रति॑ य॒ज्ञेन॑ तिष्ठति,  
 न य॒ज्ञाद्भ्रँ॑शते ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 यः । वै । स॒प्त॒द॒शमिति॑ सप्त-द॒शम् । प्र॒जाप॑ति॒मिति॑ प्र॒जा-प॒ति॒म् । य॒ज्ञम् । अ॒न्वाय॑त्त॒मित्य॑नु-आय॑त्तम् । वेद॑ ।  
@@ -34,18 +36,21 @@ and falls not away from the sacrifice.
 
 1यो वा इत्यादि ॥ सप्तदशाक्षर-समूहात्मा प्रजापतिः सप्तदशः । समूहे छान्दसो डः । परिमाणो वा 'तस्य पूरणे' इति डट् । अवयवधर्मेण समुदायो व्यपदिश्यते, सप्तदशसु प्रथमादीनामपि सप्तदशत्वात् । यज्ञमन्वायत् , तमनुप्रविष्टम् ॥
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ श्रा॑व॒येति॒ चतु॑रक्षर॒मस्तु॒ श्रौष॒डिति॒ चतु॑रक्षरय्ँ॒यजेति॒ द्व्य॑क्षरय्ँ॒ये यजा॑मह॒ इति॒ पञ्चा॑क्षरन्द्व्यक्ष॒रो व॑षट्का॒र ए॒ष वै स॑प्तद॒शᳶ प्र॒जाप॑तिर्य॒ज्ञम॒न्वाय॑त्तो॒ य ए॒वव्ँ वेद॒ प्रति॑ य॒ज्ञेन॑ तिष्ठति॒ न य॒ज्ञाद्भ्रँ॑शते॒  
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ श्रा॑व॒येति॒ चतु॑र्-अक्षरम् +++(अध्वर्योः)+++।  
-अस्तु॒ श्रौष॒ड् इति॒ चतु॑र्-अक्षरम् +++(अग्नीधः)+++।  
-यजेति॒ द्व्य्-अ॑क्षरम् +++(अध्वर्योः)+++।  
-ये यजा॑मह॒ इति॒ पञ्चा॑क्षरं +++(होतुः)+++,  
-द्व्य्-अक्ष॒रो व॑षट्-का॒रः +++(अध्वर्योः)+++।
+आ᳓ श्रावये᳓ति च᳓तुर्-अक्षरम् +++(अध्वर्योः)+++।  
+अ᳓स्तु श्रौ᳓षड् इ᳓ति च᳓तुर्-अक्षरम् +++(अग्नीधः)+++।  
+य᳓जे᳓ति द्व्य्-अ᳙क्षरम् +++(अध्वर्योः)+++।  
+ये᳓ य᳓जामह इ᳓ति प᳓ञ्चाक्षरं +++(होतुः)+++,  
+द्व्य्-अक्षरो᳓ वषट्-कारः᳓ +++(अध्वर्योः)+++।
 </details>
+
 <details><summary>Keith</summary>
 
 'Do thou proclaim' has four syllables;  
@@ -54,6 +59,7 @@ and falls not away from the sacrifice.
 'We that do utter' has five syllables;  
 the Vasat has two syllables;
 </details>
+
 <details><summary>मूलम्</summary>
 
 आ श्रा॑व॒येति॒ चतु॑रक्षरम् ।  
@@ -84,23 +90,27 @@ the Vasat has two syllables;
 
 वषट्क्रियते हविर्दीयतेनेनेति वषट्कारो वौषट्शब्दो द्व्यक्षरो होतुरेव ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वै स॑प्तद॒शᳶ प्र॒जाप॑तिर् य॒ज्ञम् अ॒न्वाय॑त्तः ।  
-य ए॒वव्ँ वेद॒, प्रति॑ य॒ज्ञेन॑ तिष्ठति॒  
-न य॒ज्ञाद् भ्रँ॑शते ।
+एष᳓ वै᳓ सप्तदशᳶ᳓ प्रजा᳓पतिर् यज्ञ᳓म् अन्वा᳓यत्तः ।  
+य᳓ एवव्ँ᳓ वे᳓द, प्र᳓ति यज्ञे᳓न तिष्ठति  
+न᳓ यज्ञा᳓द् भ्रँशते ।
 </details>
+
 <details><summary>Keith</summary>
 
 this is the seventeenfold Prajapati as connected with the sacrifice;  
 he who knows thus rests secure through the sacrifice and does not fall away from the sacrifice.  
 </details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष वै स॑प्तद॒शᳶ प्र॒जाप॑तिर्य॒ज्ञम॒न्वाय॑त्तः ।  
 य ए॒वव्ँ वेद॒ प्रति॑ य॒ज्ञेन॑ तिष्ठति   
 न य॒ज्ञाद्भ्रँ॑शते ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 ए॒षः । वै । स॒प्त॒द॒श इति॑ सप्त-द॒शः । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । य॒ज्ञम् । अ॒न्वाय॑त्त॒ इत्य॑नु-आय॑त्तः । 
@@ -114,20 +124,24 @@ he who knows thus rests secure through the sacrifice and does not fall away from
 
 एष वा इत्यादि । गतम् ॥
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो वै य॒ज्ञस्य॒ प्राय॑णम्प्रति॒ष्ठाम् [39]उ॒दय॑नव्ँ॒वेद॒ प्रति॑ष्ठिते॒नारि॑ष्टेन य॒ज्ञेन॑ सँ॒स्थाङ्ग॑च्छ॒त्या श्रा॑व॒यास्तु॒ श्रौष॒ड्यज॒ ये यजा॑महे वषट्का॒र ए॒तद्वै य॒ज्ञस्य॒ प्राय॑णमे॒षा प्र॑ति॒ष्ठैतदु॒दय॑नय्ँ॒य ए॒वव्ँ वेद॒ प्रति॑ष्ठिते॒नारि॑ष्टेन य॒ज्ञेन॑ सँ॒स्थाङ्ग॑च्छति 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै य॒ज्ञस्य॒ प्राय॑णम्+++(=आदि)+++ प्रति॒ष्ठाम् उ॒दय॑नव्ँ॒+++(=अन्त्यम्)+++ वेद॒,
-प्रति॑ष्ठिते॒नारि॑ष्टेन य॒ज्ञेन॑ सँ॒स्थाङ् ग॑च्छति ।  
+यो᳓ वै᳓ यज्ञ᳓स्य प्रा᳓यणम्+++(=आदि)+++ प्रतिष्ठा᳓म् उद᳓यनव्ँ+++(=अन्त्यम्)+++ वे᳓द,
+प्र᳓तिष्ठितेना᳓रिष्टेन यज्ञे᳓न सँस्था᳓ङ् गच्छति ।  
 </details>
+
 <details><summary>Keith</summary>
 
 He who knows the beginning, the support, the end of the sacrifice [1]  
 reaches the end with a secure and uninjured sacrifice.
 </details>
+
 <details><summary>मूलम्</summary>
 
 यो वै य॒ज्ञस्य॒ प्राय॑णम् प्रति॒ष्ठाम् उ॒दय॑नव्ँ॒ वेद॒,   
@@ -147,18 +161,21 @@ reaches the end with a secure and uninjured sacrifice.
 **प्रतिष्ठा** स्थितिः ।    
 **उदयनं** संस्था समाप्तिः ।   
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ श्रा॑वय, +अस्तु॒ श्रौष॒ड्, यज॒, ये यजा॑महे, वषट्का॒रः -   
-ए॒तद् वै य॒ज्ञस्य॒ प्राय॑णम्, ए॒षा प्र॑ति॒ष्ठैतद् उ॒दय॑नम्।  
-य ए॒वव्ँ वेद॒ प्रति॑ष्ठिते॒नारि॑ष्टेन य॒ज्ञेन॑ सँ॒स्थाङ् ग॑च्छति ।
+आ᳓ श्रावय, +अस्तु श्रौ᳓षड्, य᳓ज, ये᳓ य᳓जामहे, वषट्कारः᳓ -   
+एत᳓द् वै᳓ यज्ञ᳓स्य प्रा᳓यणम्, एषा᳓ प्रतिष्ठै᳓त᳓द् उद᳓यनम्।  
+य᳓ एवव्ँ᳓ वे᳓द प्र᳓तिष्ठितेना᳓रिष्टेन यज्ञे᳓न सँस्था᳓ङ् गच्छति ।
 </details>
+
 <details><summary>Keith</summary>
 
 'Do thou proclaim'; 'Be it proclaimed'; 'Utter'; 'We that do utter'; the Vasat call,  
 these are the beginning, the support, the end of the sacrifice;  
 he who knows thus reaches the end with a secure and uninjured sacrifice. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 आ श्रा॑व॒यास्तु॒ श्रौष॒ड्यज॒ ये यजा॑महे वषट्का॒रः -   
@@ -186,18 +203,22 @@ he who knows thus reaches the end with a secure and uninjured sacrifice.
 
 यो वै सू॒नृता॑यै॒ दोहव्ँ॒वेद॑ दु॒ह ए॒वैनाय्ँ॑ य॒ज्ञो वै सू॒नृताऽऽश्रा॑व॒येत्यैवैना॑मह्व॒दस्तु॑ [40]श्रौष॒डित्यु॒पावा॑स्रा॒ग्यजेत्युद॑नैषी॒द्ये यजा॑मह॒ इत्युपा॑सदद्वषट्का॒रेण॑ दोग्ध्ये॒ष वै सू॒नृता॑यै॒ दोहो॒ य ए॒वव्ँ वेद॑ दु॒ह ए॒वैना॑म् 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै सू॒नृता॑यै॒ +++(→[यज्ञ-वाक्])+++ दोहव्ँ॒ वेद॑ - दु॒हय् +++(←"लोपस् त आत्मनेपदेषु")+++ ए॒वैनाँ॑म् +++(स्वर्गादिप्राप्त्या)+++।
+यो᳓ वै᳓ सूनृ᳓तायै +++(→[यज्ञ-वाक्])+++ दो᳓हव्ँ वे᳓द - दुह᳓य् +++(←"लोपस् त आत्मनेपदेषु")+++ एवै᳓नाँम् +++(स्वर्गादिप्राप्त्या)+++।
 </details>
+
 <details><summary>Keith</summary>
 
 He who knows the milking of the generous one milks her indeed. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 यो वै सू॒नृता॑यै॒ दोहव्ँ॒वेद॑ दु॒ह ए॒वैनाँ॑म् ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 यः । वै । सू॒नृता॑यै । दोह॑म् । वेद॑ । दु॒हे । ए॒व । ए॒ना॒म् ।
@@ -211,14 +232,17 @@ He who knows the milking of the generous one milks her indeed.
 एनां **सूनृतां** यज्ञं **दुहे** दुग्धे अभिमतं स्वर्गादिकम् ।  
 'लोपस्त आत्मनेपदेषु' इति तलोपः ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञो वै सू॒नृता - ऽऽश्रा॑व॒येत्यैवैना॑म् अह्वत्+++(=आह्वयत्)+++ ।
+यज्ञो᳓ वै᳓ सूनृ᳓ता᳓ - ऽऽश्रावये᳓त्यै᳓वै᳓नाम् अह्वत्+++(=आह्वयत्)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 The generous one is the sacrifice; (with the words) 'Do thou proclaim', he calls her; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञो वै सू॒नृताऽऽश्रा॑व॒येत्यैवैना॑मह्वत् ।
@@ -234,14 +258,17 @@ The generous one is the sacrifice; (with the words) 'Do thou proclaim', he calls
 
 **एवैनाम् अह्वत्** एनाम् आह्वयत् दोग्धुम् । छान्दसो लुङ्, 'लिपिसिचिह्वश्च' इत्यङ् ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अस्तु॒ श्रौष॒ड्" इत्य् उ॒पावा॑स्राक्+++(←सृज्)+++ +++(वत्सम्)+++।    
+"अ᳓स्तु श्रौ᳓षड्" इ᳓त्य् उपा᳓वास्राक्+++(←सृज्)+++ +++(वत्सम्)+++।    
 </details>
+
 <details><summary>Keith</summary>
 
 with 'Be it proclaimed' [2], he lets (the calf) go up to her; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 अस्तु॒ श्रौष॒डित्यु॒पावा॑स्राक् ।    
@@ -256,14 +283,17 @@ with 'Be it proclaimed' [2], he lets (the calf) go up to her;
 
 **उपावास्राक्** उपसृजति वत्सम् । सृजतेर्लुङि । 'बहुलं छन्दसि' इतीडभावः, 'सृजिदृशोः' इत्यमागमः, 'वदव्रज' इति वृद्धिः ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यजेत्य् उद॑नैषीत् +++(दोह-पात्रम्)+++।  
+य᳓जे᳓त्य् उ᳓दनैषीत् +++(दोह-पात्रम्)+++।  
 </details>
+
 <details><summary>Keith</summary>
 
 with 'Utter', he raises (the pail); 
 </details>
+
 <details><summary>मूलम्</summary>
 
 यजेत्युद॑नैषीत् ।  
@@ -278,18 +308,22 @@ with 'Utter', he raises (the pail);
 
 उदनैषीत् उन्नयति पात्रम् ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये यजा॑मह॒ इत्य् उपा॑सदत् +++(गोपार्श्वे)+++।  
+ये᳓ य᳓जामह इ᳓त्य् उ᳓पासदत् +++(गोपार्श्वे)+++।  
 </details>
+
 <details><summary>Keith</summary>
 
 with 'We that do utter', he sits down beside her, 
 </details>
+
 <details><summary>मूलम्</summary>
 
 ये यजा॑मह॒ इत्युपा॑सदत्।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 ये । यजा॑महे । इति॑ । उपेति॑ । अ॒स॒द॒त् ।
@@ -299,27 +333,33 @@ with 'We that do utter', he sits down beside her,
 
 **उपासदत्** उपसीदति ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒ष॒ट्-का॒रेण॑ दोग्ध्यि ।
+वषट्-कारे᳓ण दोग्ध्यि ।
 </details>
+
 <details><summary>Keith</summary>
 
 and with the Vasat call he milks.
 </details>
+
 <details><summary>मूलम्</summary>
 
 व॒ष॒ट्का॒रेण॑ दोग्ध्यि ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वै सू॒नृता॑यै॒ दोहः॑।  
-य ए॒वव्ँ वेद॑ - दु॒ह ए॒वैना॑म्।
+एष᳓ वै᳓ सूनृ᳓तायै दो᳓हः।  
+य᳓ एवव्ँ᳓ वे᳓द - दुह᳓ एवै᳓नाम्।
 </details>
+
 <details><summary>Keith</summary>
 
 This is the milking of the generous one; he who knows thus milks her indeed.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष वै सू॒नृता॑यै॒ दोहो॒ य ए॒वव्ँ वेद॑ दु॒ह ए॒वैना॑म्।
@@ -338,21 +378,22 @@ This is the milking of the generous one; he who knows thus milks her indeed.
 दोग्धा । ऌदित्वादङ् । आश्रावयाद्युक्तिरभिमतसिध्यै सूनृताह्वानादिकृत् ॥
 </details>
 
-
-
 ### देवस्त्राख्यानम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा वै स॒त्रमा॑सत॒ तेषा॒न्दिशो॑ऽदस्य॒न्त ए॒तामा॒र्द्राम्प॒ङ्क्तिम॑पश्य॒न्ना श्रा॑व॒येति॑ पुरोवा॒तम॑जनय॒न्नस्तु॒ श्रौष॒डित्य॒ब्भ्रँ सम॑प्लावय॒न्यजेति॑ वि॒द्युत॑म् [41]अ॒ज॒न॒य॒न्, ये यजा॑मह॒ इति॒ प्राव॑र्षयन्न॒भ्य॑स्तनयन्वषट्का॒रेण॒ ततो॒ वै तेभ्यो॒ दिश॒ᳶ प्राप्या॑यन्त॒ य ए॒वव्ँ वेद॒ प्रास्मै॒ दिशᳶ॑ प्यायन्त 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा वै स॒त्रम् आ॑सत ।  
+देवा᳓ वै᳓ सत्र᳓म् आसत ।  
 </details>
+
 <details><summary>Keith</summary>
 
 The gods performed a sacrificial session; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा वै स॒त्रमा॑सत ।  
@@ -367,18 +408,22 @@ The gods performed a sacrificial session;
 
 5देवा वा इत्यादि ॥ सत्रासनं क्रतुविशेषः एकादशरात्रादिः, तमकुर्वत । आस्थानकर्मा वा इदानीमयमास्तिः ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषा॒न् दिशो॑ ऽदस्यन्+++(←दसु उपक्षये)+++ ।  
+ते᳓षान् दि᳓शो ऽदस्यन्+++(←दसु उपक्षये)+++ ।  
 </details>
+
 <details><summary>Keith</summary>
 
 the quarters were dried up; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 तेषा॒न्दिशो॑ऽदस्यन् ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 तेषा॑म् । दिशः॑ । अ॒द॒स्य॒न् । 
@@ -388,15 +433,17 @@ the quarters were dried up;
 
 दिशः प्रागाद्या अदस्यन् उपक्षीणविभवा अभूवन् । दसु उपक्षये ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त ए॒ताम् आ॒र्द्राम् प॒ङ्क्तिम् अ॑पश्यन् ।  
-"आ श्रा॑व॒ये"ति॑ पुरो-वा॒तम् अ॑जनयन् ।  
-"अस्तु॒ श्रौष॒ड्" इत्य् अ॒भ्रँ  सम॑प्लावयन् ।  
-"यजे"ति॑ वि॒द्युत॑म् [41]अजनयन् ।  
-"ये यजा॑मह॒" इति॒ प्राव॑र्षयन् ।  
-अ॒भ्य॑स्तनयन् वषट्-का॒रेण॑ ।
+त᳓ एता᳓म् आर्द्रा᳓म् पङ्क्ति᳓म् अपश्यन् ।  
+"आ᳓ श्रावये᳓"ति पुरो-वात᳓म् अजनयन् ।  
+"अ᳓स्तु श्रौ᳓षड्" इ᳓त्य् अभ्रँ᳓  स᳓मप्लावयन् ।  
+"य᳓जे᳓"ति विद्यु᳓तम् [41]अजनयन् ।  
+"ये᳓ य᳓जामह" इ᳓ति प्रा᳓वर्षयन् ।  
+अभ्य᳙स्तनयन् वषट्-कारे᳓ण ।
 </details>
+
 <details><summary>Keith</summary>
 
 they discerned this moist set of five; (with the words)  
@@ -406,6 +453,7 @@ with 'Utter' they begat [3] the lightning;
 with 'We that do sacrifice' they made rain to fall,  
 and with the Vasat call they caused the thunder to roll.
 </details>
+
 <details><summary>मूलम्</summary>
 
 त ए॒तामा॒र्द्राम्प॒ङ्क्तिम॑पश्यन् ।  
@@ -415,16 +463,19 @@ and with the Vasat call they caused the thunder to roll.
 ये यजा॑मह॒ इति॒ प्राव॑र्षयन् ।  
 अ॒भ्य॑स्तनयन्वषट्का॒रेण॑ ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वै तेभ्यो॒ दिश॒ᳶ प्राप्या॑यन्त ।  
-य ए॒वव्ँ वेद॒ प्रास्मै॒ दिशᳶ॑ प्यायन्ते ।
+त᳓तो वै᳓ ते᳓भ्यो दि᳓शᳶ प्रा᳓प्यायन्त ।  
+य᳓ एवव्ँ᳓ वे᳓द प्रा᳓स्मै दि᳓शᳶ प्यायन्ते ।
 </details>
+
 <details><summary>Keith</summary>
 
 Then for them the quarters were made to swell;  
 for him who knows thus the quarters are made to swell.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ततो॒ वै तेभ्यो॒ दिश॒ᳶ प्राप्या॑यन्त ।  
@@ -457,14 +508,16 @@ for him who knows thus the quarters are made to swell.
 ### छान्दसः प्रजापतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तिन् त्वो॒-वेद॑  
-प्र॒जाप॑तिस् त्वव्ँ-वेद । +++(→चादिलोपे विभाषा।)+++  
+प्रजा᳓पतिन् त्वो-वे᳓द  
+प्रजा᳓पतिस् त्वव्ँ-वेद । +++(→चादिलोपे विभाषा।)+++  
 </details>
+
 <details><summary>Keith</summary>
 
 One knows Prajapati,  
 Prajapati knows one;  
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिन्त्वो॒वेद॑ ।  
@@ -485,19 +538,23 @@ Prajapati knows one;
 `त्वसमसीमनेमेत्यनुच्चानि' इति त्व-शब्दस्यानुदात्तत्वात् तस्याख्यातेनैकपद्यं मन्यन्ते पदकाराः । +++(5)+++  
 तत्र 'चादिलोपे विभाषा' इति प्रथमा तिङ्विभक्तिर्न निहन्यते ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यम् प्र॒जाप॑ति॒र् वेद॒  
-स पुण्यो॑ भवति ।
+य᳓म् प्रजा᳓पतिर् वे᳓द  
+स᳓ पु᳓ण्यो भवति ।
 </details>
+
 <details><summary>Keith</summary>
 
 whom Prajapati knows, he becomes pure. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 यम्प्र॒जाप॑ति॒र्वेद॒ स पुण्यो॑ भवति ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 यम् । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । वेद॑ ।   
@@ -508,15 +565,18 @@ whom Prajapati knows, he becomes pure.
 
 यमित्यादि । एतं प्रचरन्तं प्रजापतिर्वेदेति ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वै छ॑न्द॒स्यᳶ॑ प्र॒जाप॑ति॒र् - आ श्रा॑व॒यास्तु॒ श्रौष॒ड्, यज॒, ये यजा॑महे, वषट्का॒रः ।  
-य ए॒वव्ँ वेद॒ पुण्यो॑ भवति ।
+एष᳓ वै᳓ छन्दस्यᳶ᳙ प्रजा᳓पतिर् - आ᳓ श्रावया᳓स्तु श्रौ᳓षड्, य᳓ज, ये᳓ य᳓जामहे, वषट्कारः᳓ ।  
+य᳓ एवव्ँ᳓ वे᳓द पु᳓ण्यो भवति ।
 </details>
+
 <details><summary>Keith</summary>
 
 This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utter', 'We that do utter', the Vasat call; he who knows thus becomes pure. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष वै छ॑न्द॒स्यᳶ॑ प्र॒जाप॑ति॒रा श्रा॑व॒यास्तु॒ श्रौष॒ड्यज॒ ये यजा॑महे वषट्का॒रः ।  
@@ -539,18 +599,19 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 ## अनुमन्त्रणानि
 ### प्रयाजः
 
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 व॒स॒न्तम् [42]ऋ॒तू॒नाम्प्री॑णा॒मीत्या॑ह॒र्तवो॒ वै प्र॑या॒जा ऋ॒तूने॒व प्री॑णाति॒ ते॑ऽस्मै प्री॒ता य॑थापू॒र्वङ्क॑ल्पन्ते॒ कल्प॑न्तेऽस्मा ऋ॒तवो॒ य ए॒वव्ँ वेद 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"व॒स॒न्तम् [42] ऋ॑तू॒नाम् प्री॑णा॒मी"त्य् आ॑ह ।  
-ऋ॒तवो॒ वै प्र॑या॒जा - ऋ॒तून् ए॒व प्री॑णाति ।  
-ते॑ऽस्मै प्री॒ता य॑थापू॒र्वङ् क॑ल्पन्ते ।  
-कल्प॑न्ते ऽस्मा ऋ॒तवो॒ य ए॒वव्ँ वेद॑ ।  
+"वसन्त᳓म् [42] ऋतूना᳓म् प्रीणामी᳓"त्य् आह ।  
+ऋत᳓वो वै᳓ प्रयाजा᳓ - ऋतू᳓न् एव᳓ प्रीणाति ।  
+ते᳓ऽस्मै प्रीता᳓ यथापूर्व᳓ङ् कल्पन्ते ।  
+क᳓ल्पन्ते ऽस्मा ऋत᳓वो य᳓ एवव्ँ᳓ वे᳓द ।  
 </details>
+
 <details><summary>Keith</summary>
 
 'Of the seasons spring [4] I delight', he says;  
@@ -559,6 +620,7 @@ verily he delights the seasons;
 they delighted place themselves in order for him;  
 the seasons are in order for him who knows thus. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 व॒स॒न्तम् [42] ऋ॑तू॒नाम्प्री॑णा॒मीत्या॑ह ।  
@@ -581,7 +643,6 @@ the seasons are in order for him who knows thus.
 यः । ए॒वम् । वेद॑ ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7वसन्तमित्यादयः प्रयाजानुमन्त्रणमन्त्राः ॥ पञ्चत्वान्वयाल्लोकस्थितिहेतुत्वाच्च प्रयाजा ऋतवः । प्रथममिज्यन्त इति प्रयाजाः । 'प्रयाजानुयाजौ यज्ञाङ्गे' इति कुत्वाभावः, थाथादिना उत्तरपदान्तोदात्तत्वम् । कल्पन्ते अविपर्यासेन प्रवर्तन्ते ॥
@@ -589,29 +650,32 @@ the seasons are in order for him who knows thus.
 
 ### आज्यभागौ
 
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्नीषोम॑योर॒हन्दे॑वय॒ज्यया॒ चक्षु॑ष्मान्भूयास॒मित्या॑हा॒ग्नीषोमा॑भ्याव्ँ॒ वै य॒ज्ञश्चक्षु॑ष्मा॒न्ताभ्या॑मे॒व चक्षु॑रा॒त्मन्ध॑त्ते 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒ग्नीषोम॑योर् अ॒हन् दे॑व-य॒ज्यया॒ चक्षु॑ष्मान् भूयास॒म्" इत्य् आ॑ह ।  
-अ॒ग्नीषोमा॑भ्याव्ँ॒ वै य॒ज्ञश् चक्षु॑ष्मा॒न्,  
-ताभ्या॑म् ए॒व चक्षु॑र् आ॒त्मन् ध॑त्ते ।
+"अग्नी᳓षो᳓मयोर् अह᳓न् देव-यज्य᳓या च᳓क्षुष्मान् भूयासम्" इ᳓त्य् आह ।  
+अग्नी᳓षो᳓माभ्याव्ँ वै᳓ यज्ञ᳓श् च᳓क्षुष्मान्,  
+ता᳓भ्याम् एव᳓ च᳓क्षुर् आत्म᳓न् धत्ते ।
 </details>
+
 <details><summary>Keith</summary>
 
 'By sacrifice to the gods, Agni and Soma, may I be possessed of sight', he says;  
 the sacrifice is possessed of sight through Agni and Soma;  
 verily by means of them he confers sight upon himself. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नीषोम॑योर॒हन्दे॑वय॒ज्यया॒ चक्षु॑ष्मान्भूयास॒मित्या॑ह ।  
 
 अ॒ग्नीषोमा॑भ्याव्ँ॒ वै य॒ज्ञश्चक्षु॑ष्मा॒न्ताभ्या॑मे॒व चक्षु॑रा॒त्मन्ध॑त्ते ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्नीषोम॑यो॒रित्य॒ग्नी-सोम॑योः । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । चक्षु॑ष्मान् । भू॒या॒स॒म् । इति॑ । आ॒ह॒ ।  
@@ -629,16 +693,18 @@ verily by means of them he confers sight upon himself.
 ### पुरोडाशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒ग्नेर् अ॒हन् दे॑वय॒ज्यया॑ ऽन्ना॒दो भू॑यास॒म्" इत्य् आ॑ह ।
-अ॒ग्निर् वै दे॒वाना॑म् अन्ना॒दस्,  
-तेनै॒व [43] +अ॒न्नाद्य॑म् आ॒त्मन् ध॑त्ते ।
+"अग्ने᳓र् अह᳓न् देवयज्य᳓या ऽन्नादो᳓ भूयासम्" इ᳓त्य् आह ।
+अग्नि᳓र् वै᳓ देवा᳓नाम् अन्नाद᳓स्,  
+ते᳓नैव᳓ [43] +अन्ना᳓द्यम् आत्म᳓न् धत्ते ।
 </details>
+
 <details><summary>Keith</summary>
 
 'By sacrifice to the god Agni, may I be an eater of food', he says;  
 Agni is among the gods the eater of food;  
 verily by means of him [5] he confers the eating of food upon himself. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेर॒हन्दे॑वय॒ज्यया॑न्ना॒दो भू॑यास॒मित्या॑ह ।
@@ -663,24 +729,25 @@ verily by means of him [5] he confers the eating of food upon himself.
 
 ### उपांशुयाजः
 
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दब्धि॑र॒स्यद॑ब्धो भूयासम॒मुन्द॑भेय॒मित्या॑ह
 ए॒तया॒ वै दब्ध्या॑ दे॒वा असु॑रानदभ्नुव॒न्तयै॒व भ्रातृ॑व्यन्दभ्नोति 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"दब्धि॑र् असि ।   
-अद॑ब्धो भूयासम्, अ॒मुन्+++(←नामनिर्देशः)+++ द॑भेय॒म्" इत्य् आ॑ह ।  
-ए॒तया॒ वै दब्ध्या॑ दे॒वा असु॑रान् अदभ्नुवन्  ।  
-तयै॒व भ्रातृ॑व्यन् दभ्नोति ।  
+"द᳓ब्धिर् असि ।   
+अ᳓दब्धो भूयासम्, अमु᳓न्+++(←नामनिर्देशः)+++ दभेयम्" इ᳓त्य् आह ।  
+एत᳓या वै᳓ द᳓ब्ध्या देवा᳓ अ᳓सुरान् अदभ्नुवन्  ।  
+त᳓यैव᳓ भ्रा᳓तृव्यन् दभ्नोति ।  
 </details>
 
 <details><summary>Keith</summary>
 
 'Thou art a deceiver; may I be undeceived; may I deceive N. N.', he says; by that deceit the gods deceived the Asuras; verily by this he deceives his foe. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 दब्धि॑रसि ।   
@@ -700,7 +767,6 @@ verily by means of him [5] he confers the eating of food upon himself.
 तया॑ । ए॒व । भ्रातृ॑व्यम् । द॒भ्नो॒ति॒ ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10दब्धिरसीत्युपांशुयाजस्यानुमन्त्रणम् - एतया वा इत्यादि ॥ दब्ध्या दम्भनेन शत्रूणां दम्भनहेतुना । उपांशुयाजेन देवा असुरानदभ्नुवन् हिंसितवन्तः ॥
@@ -708,24 +774,26 @@ verily by means of him [5] he confers the eating of food upon himself.
 
 ### अग्नीषोमीयौ
 
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्नीषोम॑योर॒हन्दे॑वय॒ज्यया॑ वृत्र॒हा भू॑यास॒मित्या॑हा॒ग्नीषोमा॑भ्याव्ँ॒वा
 इन्द्रो॑ वृ॒त्रम॑ह॒न्ताभ्या॑मे॒व भ्रातृ॑व्यँ स्तृणुते 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒ग्नीषोम॑योर् अ॒हन् दे॑व-य॒ज्यया॑ वृत्र॒-हा भू॑यास॒म्" इत्य् आ॑ह ।  
-अ॒ग्नीषोमा॑भ्याव्ँ॒ वा इन्द्रो॑ वृ॒त्रम् अ॑ह॒न्,  
-ताभ्या॑म् ए॒व भ्रातृ॑व्यँ स्तृणुते ।
+"अग्नी᳓षो᳓मयोर् अह᳓न् देव-यज्य᳓या वृत्र-हा᳓ भूयासम्" इ᳓त्य् आह ।  
+अग्नी᳓षो᳓माभ्याव्ँ वा᳓ इ᳓न्द्रो वृत्र᳓म् अहन्,  
+ता᳓भ्याम् एव᳓ भ्रा᳓तृव्यँ स्तृणुते ।
 </details>
+
 <details><summary>Keith</summary>
 
 'By sacrifice to the gods, Agni and Soma, may I be a slayer of foes', he says;  
 by means of Agni and Soma Indra slew Vrtra;  
 verily by means of them he lays low his foe.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नीषोम॑योर॒हन्दे॑वय॒ज्यया॑ वृत्र॒हा भू॑यास॒मित्या॑ह ।  
@@ -746,21 +814,25 @@ verily by means of them he lays low his foe.
 
 11अग्नीषोमयोरित्यग्नीषोमीयस्यानुमन्त्रणम् ॥ स्तृणुते नाशयति ॥
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इ॒न्द्रा॒ग्नि॒योर॒हन्दे॑वय॒ज्यये॑न्द्रिया॒व्य॑न्ना॒दो भू॑यास॒मित्या॑हेन्द्रिया॒व्ये॑वान्ना॒दो भ॑व॒तीन्द्र॑स्य [44]अ॒हन्दे॑वय॒ज्यये॑न्द्रिया॒वी भू॑यास॒मित्या॑हेन्द्रिया॒व्ये॑व भ॑वति 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> इ॒न्द्रा॒ग्नि॒योर् अ॒हन् दे॑वय॒ज्यये॑न्द्रिया॒व्य् अ॑न्ना॒दो भू॑यास॒म् 
+> इन्द्राग्नियो᳓र् अह᳓न् देवयज्य᳓येन्द्रियाव्य् अ᳙न्नादो᳓ भूयासम् 
 
-इत्य् आ॑ह।  
-इ॒न्द्रि॒या॒व्य् ए॒॑वान्ना॒दो भ॑व॒ति।
+इ᳓त्य् आह।  
+इन्द्रियाव्य् ए᳓वा᳓न्नादो᳓ भवति᳓।
 </details>
+
 <details><summary>Keith</summary>
 
 'By sacrifice to the gods, Indra and Agni, may I be powerful and an eater of food', he says; verily he becomes powerful and an eater of food. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रा॒ग्नि॒योर् अ॒हन् दे॑वय॒ज्यये॑न्द्रिया॒व्य् अ॑न्ना॒दो भू॑यास॒म् इत्य् आ॑ह।  
@@ -781,14 +853,16 @@ verily by means of them he lays low his foe.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"इन्द्र॑स्य [44]+अ॒हन् दे॑वय॒ज्यये॑न्द्रिया॒वी भू॑यास॒म्" इत्य् आ॑ह।  
-इ॒न्द्रि॒या॒व्ये॒॑व भ॑वति। 
+"इ᳓न्द्रस्य [44]+अह᳓न् देवयज्य᳓येन्द्रियावी᳓ भूयासम्" इ᳓त्य् आह।  
+इन्द्रियाव्ये᳓व᳓ भवति। 
 </details>
+
 <details><summary>Keith</summary>
 
 'By sacrifice to the god Indra, may I be powerful', he says;  
 verily he becomes powerful. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 "इन्द्र॑स्य [44]+अ॒हन् दे॑वय॒ज्यये॑न्द्रिया॒वी भू॑यास॒म्" इत्य् आ॑ह।  
@@ -810,14 +884,16 @@ verily he becomes powerful.
 ### माहेन्द्रम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"म॒हे॒न्द्रस्या॒हन् दे॑वय॒ज्यया॑ जे॒मान॑म् महि॒मान॑ङ् गमेय॒म्" इत्य् आ॑ह ।  
-जे॒मान॑म् ए॒व म॑हि॒मान॑ङ् गच्छति ।  
+"महेन्द्र᳓स्याह᳓न् देवयज्य᳓या जेमा᳓नम् महिमा᳓नङ् गमेयम्" इ᳓त्य् आह ।  
+जेमा᳓नम् एव᳓ महिमा᳓नङ् गच्छति ।  
 </details>
+
 <details><summary>Keith</summary>
 
 'By sacrifice to the god Mahendra, may I attain superiority and greatness', he says;  
 verily he attains superiority and greatness. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 म॒हे॒न्द्रस्या॒हन्दे॑वय॒ज्यया॑ जे॒मान॑म्महि॒मान॑ङ्गमेय॒मित्या॑ह ।  
@@ -839,16 +915,16 @@ verily he attains superiority and greatness.
 
 ### स्विष्टकृत्
 
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्नेस्स्वि॑ष्ट॒कृतो॒ऽहन्दे॑वय॒ज्ययाऽऽयु॑ष्मान् य॒ज्ञेन॑ प्रति॒ष्ठाङ्ग॑मेय॒मित्या॒हायु॑रे॒वात्मन्ध॑त्ते॒ प्रति॑ य॒ज्ञेन॑ तिष्ठति ॥ 45 ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒ग्नेस् स्वि॑ष्ट॒कृतो॒ ऽहन् दे॑वय॒ज्यया ऽऽयु॑ष्मान् य॒ज्ञेन॑ प्रति॒ष्ठाङ् ग॑मेय॒म्" इत्य् आ॒ह ।  
-आयु॑र् ए॒वात्मन् ध॑त्ते ।  
-प्रति॑ य॒ज्ञेन॑ तिष्ठति ।
+"अग्ने᳓स् स्विष्टकृ᳓तो ऽह᳓न् देवयज्य᳓या᳓ ऽऽयुष्मान् यज्ञे᳓न प्रतिष्ठा᳓ङ् गमेयम्" इ᳓त्य् आह᳓ ।  
+आ᳓युर् एवा᳓त्म᳓न् धत्ते ।  
+प्र᳓ति यज्ञे᳓न तिष्ठति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -856,6 +932,7 @@ verily he attains superiority and greatness.
 'By sacrifice to the god Agni Svistakrt, may I attain security through the sacrifice, enjoying long life', he says;  
 verily he confers long life upon himself and attains security through the sacrifice.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेस्स्वि॑ष्ट॒कृतो॒ऽहन्दे॑वय॒ज्ययाऽऽयु॑ष्मान् य॒ज्ञेन॑ प्रति॒ष्ठाङ्ग॑मेय॒मित्या॒ह ।  

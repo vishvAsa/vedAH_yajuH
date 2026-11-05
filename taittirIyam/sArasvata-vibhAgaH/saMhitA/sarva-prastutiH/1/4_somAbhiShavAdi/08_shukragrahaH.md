@@ -9,8 +9,7 @@ _______
 1शुक्रं गृह्णाति - अयं वेन इति त्रिष्टुभा चतुष्पदया ॥ 
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/123/01_ayaM_venashchodayatpRshnigarbhA.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/123/01_ayaM_venashchodayatpRshnigarbhA.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 अयं᳓ वेन᳓श्+++(=शुक्रः)+++ चोदयत् पृ᳓श्नि+++(=तनु)+++-गर्भा  
@@ -20,11 +19,17 @@ _______
 +++(सन्ध्यासु हि सूर्यसमीपे वर्तते वेनः।)+++
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/123/01_ayaM_venashchodayatpRshnigarbhA.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/123/01_ayaM_venashchodayatpRshnigarbhA.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+अ॒यं वे॒नश्चो॑दय॒त्पृश्नि॑गर्भा॒ ज्योति॑र्जरायू॒ रज॑सो वि॒माने॑ ।  
+इ॒मम॒पां सं॑ग॒मे सूर्य॑स्य॒ शिशुं॒ न विप्रा॑ म॒तिभी॑ रिहन्ति ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/123/01_ayaM_venashchodayatpRshnigarbhA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वेनः
@@ -334,7 +339,6 @@ Der lichtumhüllte, holde trieb die Töchter der bunten Wolke an, die Luft durch
 
 पदार्थान्वयभाषाः -  (अयं वेनः) एष कमनीयः परमात्मा “वेनो वेनतेः कान्तिकर्मणः” [निरु० १०।३९] “वेनात् कमनीयात् परमात्मनः” [ऋ० ४।५८।४ दयानन्दः] यद्वा इन्द्रो विद्युद्देवः “इन्द्रो वै वेनः” [कौ० ८।४] “यदशनिरिन्द्रः” [कौ० ६।९] (ज्योतिर्जरायुः) ज्योतिरस्य जरायुस्थानीयं यस्मिन् सर्वं जगद् गर्भरूपं रक्षति, मेघं रक्षति वा (रजसः-विमाने) रञ्जनात्मकस्य लोकसमूहस्य ब्रह्माण्डस्य निर्माणस्थाने महाकाशे उदकस्य निर्माणस्थानेऽन्तरिक्षे वा (पृश्निगर्भाः-चोदयत्) पृश्निः उज्ज्वलः शुभ्रो वर्णो येषां ते रश्मयो गर्भो गर्भभूता यासां ताः पृश्निगर्भाः-आपः प्रारम्भिक्यः सूक्ष्मास्ताः प्रेरयति (अपां सूर्यस्य सङ्गमे) तासां सूक्ष्माणां सूर्यस्य सङ्गमने वर्षणकाले सति (विप्राः) विद्वांसः (मतिभिः) वाग्भिः “वाग् वै मतिः” “वाचा हीदं सर्वं मनुते” [श० ८।१।२।७] (इमं शिशुं न रिहन्ति) इमं परमात्मानं विद्युद्देवं वा शंसनीयं कुमारमिव स्तुवन्ति प्रशंसन्ति वा “रिहन्ति अर्चतिकर्मा” [निघं० ३।१४] ॥१॥
 </details>
-
 </div>  
 
 _______
@@ -343,11 +347,10 @@ _______
 इमामनुद्रुत्योपयामगृहीतोसि शण्डाय त्वेति गृह्णाति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -370,12 +373,11 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शण्डा॑य त्वा ।
+श᳓ण्डाय त्वा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -401,7 +403,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॑र्, वी॒रता॑म् पाहि ॥ [9]  
+एष᳓ ते यो᳓निर्, वीर᳓ताम् पाहि ॥ [9]  
 </details>
 
 <details><summary>Keith</summary>

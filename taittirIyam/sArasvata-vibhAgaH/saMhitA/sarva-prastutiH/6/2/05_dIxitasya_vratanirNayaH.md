@@ -1,6 +1,5 @@
 +++
 title = "०५ दीक्षितस्य व्रतनिर्णयः"
-
 +++
 सोमऋषिः
 
@@ -11,7 +10,7 @@ title = "०५ दीक्षितस्य व्रतनिर्णयः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्वा अनी॑शानो भा॒रम् आ॑द॒त्ते वि वै स लि॑शते ।  
+य᳓द्वा᳓ अ᳓नीशानो भार᳓म् आदत्ते᳓ वि᳓ वै᳓ स᳓ लिशते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -26,7 +25,7 @@ If a weak man take up a burden, he breaks up into pieces.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् द्वाद॑श सा॒ह्नस्यो॑प॒सद॒स् स्युस् ति॒स्रो॑ ऽहीन॑स्य य॒ज्ञस्य॒ विलो॑म क्रियेत ।  
+य᳓द् द्वा᳓दश साह्न᳓स्योपस᳓दस् स्यु᳓स् तिस्रो᳙ ऽही᳓नस्य यज्ञ᳓स्य वि᳓लोम क्रियेत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -57,7 +56,7 @@ If there were twelve Upasads in the one day rite, and three in the Ahina, the sa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ति॒स्र ए॒व सा॒ह्नस्यो॑प॒सदो॒ द्वाद॑शा॒हीन॑स्य य॒ज्ञस्य॑ सवीर्य॒त्वाय॑+अथो॒ सलो॑म क्रियते ।  
+तिस्र᳓ एव᳓ साह्न᳓स्योपस᳓दो द्वा᳓दशाही᳓नस्य यज्ञ᳓स्य सवीर्यत्वा᳓य+अथो स᳓लोम क्रियते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -74,6 +73,7 @@ There are three Upasads in the one day rite, twelve in the Ahina, to preserve th
 
 2तिस्र एवेत्यादि ॥ तस्मात्तिस्र एव साह्नस्योपसदो द्वादशाहीनस्येति पूर्वमेवावोचामेति भावः । यज्ञस्येत्यादि । एवं क्रियमाणे यज्ञस्य साह्नस्य शक्यभारभरणात् सवीर्यत्वाय भवति । अथो अपि च अहीनस्य यज्ञस्य सलोम अनुरूपमेव क्रियते । उक्तं व्रतविशेषनिबन्धनं अवान्तरदीक्षायास्संज्ञाद्वयं आराग्रा परोवरीयसीति ॥
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 ति॒स्रः । ए॒व । सा॒ह्नस्येति॑ स-अ॒ह्नस्य॑ । उ॒प॒सद॒ इत्यु॑प-सदः॑ । द्वाद॑श । अ॒हीन॑स्य । य॒ज्ञस्य॑ । स॒वी॒र्य॒त्वायेति॑ सवीर्य-त्वाय॑ । अथो॒ इति॑ । सलो॒मेति॒ स-लो॒म॒ । क्रि॒य॒ते॒ ।   
@@ -87,7 +87,7 @@ There are three Upasads in the one day rite, twelve in the Ahina, to preserve th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒त्सस्यैक॒स् स्तनो॑ भा॒गी हि सोऽथैकँ॒ स्तनव्ँ॑ व्र॒तमुपै॒त्य् , अथ॒ द्वाव् अथ॒ त्रीन् अथ॑ च॒तुर॑ ,  
+वत्स᳓स्यै᳓कस् स्त᳓नो भागी᳓ हि᳓ सो᳓ऽथै᳓कँ स्त᳓नव्ँ व्रत᳓मु᳓पैत्य् , अ᳓थ द्वा᳓व् अ᳓थ त्री᳓न् अ᳓थ चतु᳓र ,  
 </details>
 
 <details><summary>Keith</summary>
@@ -102,7 +102,7 @@ One teat (of the cow) is used for a child, for that is fortunate. So he takes on
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद् वै क्षु॒रप॑वि॒ नाम॑ व्र॒तय्ँ [25],  
+एत᳓द् वै᳓ क्षुर᳓पवि ना᳓म व्रतय्ँ᳓ [25],  
 </details>
 
 <details><summary>Keith</summary>
@@ -117,7 +117,7 @@ That [1] is the razor-edged drink
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-येन॒ प्र जा॒तान् भ्रातृ॑व्यान्नु॒दते॒ प्रति॑ जनि॒ष्यमा॑णा॒न् , अथो॒ कनी॑यसै॒व भूय॒ उपै॑ति ।   
+ये᳓न प्र᳓ जाता᳓न् भ्रा᳓तृव्यान्नुद᳓ते प्र᳓ति जनिष्य᳓माणान् , अ᳓थो क᳓नीयसैव᳓ भू᳓य उ᳓पैति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -132,7 +132,7 @@ by which he drives away his foes when born and repels them when about to be born
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-च॒तुरोऽग्रे॒ स्तना॑न् व्र॒तमुपै॒त्य् अथ॒ त्रीनथ॒ द्वावथैक॑म् ,  
+चतु᳓रो᳓ऽग्रे स्त᳓नान् व्रत᳓मु᳓पैत्य् अ᳓थ त्री᳓न᳓थ द्वा᳓व᳓थै᳓कम् ,  
 </details>
 
 <details><summary>Keith</summary>
@@ -147,7 +147,7 @@ He takes the four teats first for his drink, then three, then two, then one.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद् वै सु॑जघ॒नन्नाम॑ व्र॒तन् त॑प॒स्यँ॑ सुव॒र्ग्य॑मथो॒ प्रैव जा॑यते प्र॒जया॑ प॒शुभिः॑ ।  
+एत᳓द् वै᳓ सुजघन᳓न्ना᳓म व्रत᳓न् तपस्यँ᳙ सुवर्ग्य᳙मथो प्रै᳓व᳓ जायते प्रज᳓या पशु᳓भिः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -161,7 +161,6 @@ That is the drink called 'of a beatific back', full of fervour, and of heavenly 
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 व॒त्सस्य॑ । एकः॑ । स्तनः॑ । भा॒गी । हि । सः । अथ॑ । एक॑म् । स्तन॑म् । व्र॒तम् । उपेति॑ । ए॒ति॒ । अथ॑ । द्वौ । अथ॑ । त्रीन् । अथ॑ । च॒तुरः॑ । 
 
@@ -183,7 +182,7 @@ That is the drink called 'of a beatific back', full of fervour, and of heavenly 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यवा॒गू रा॑ज॒न्य॑स्य व्र॒तङ्
+य᳓वागू᳓ राजन्य᳙स्य व्रत᳓ङ्
 </details>
 
 <details><summary>Keith</summary>
@@ -198,7 +197,7 @@ Gruel is the drink of the Rajanya;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्रू॒रेव॒ वै य॑वा॒गूᳵ क्रू॒र इ॑व रा॒ज॒न्यो॑ वज्र॑स्य रू॒पँ ,  
+क्रूरे᳓व वै᳓ यवागूᳵ᳓ क्रूर᳓ इव राजन्यो᳙ व᳓ज्रस्य रूपँ᳓ ,  
 </details>
 
 <details><summary>Keith</summary>
@@ -213,7 +212,7 @@ gruel is as it were harsh; the Rajanya is as it were harsh [2], it is the symbol
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-समृ॑द्ध्यै।  [26]    
+स᳓मृद्ध्यै।  [26]    
 </details>
 
 <details><summary>Keith</summary>
@@ -243,7 +242,7 @@ gruel is as it were harsh; the Rajanya is as it were harsh [2], it is the symbol
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒मिक्षा॒ वैश्य॑स्य पाकय॒ज्ञस्य॑ रू॒पम् पुष्ट्यै॑ ।
+आमि᳓क्षा वै᳓श्यस्य पाकयज्ञ᳓स्य रूप᳓म् पु᳓ष्ट्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -273,7 +272,7 @@ Curds (is the drink) of the Vaiśya, it is the symbol of the sacrifice of cooked
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पयो॑ ब्राह्म॒णस्य॒ तेजो॒ वै ब्रा॑ह्म॒णस् , तेज॒ᳶ पय॒स् , तेज॑सै॒व तेज॒ᳶ पय॑ आ॒त्मन् ध॑त्ते ।  
+प᳓यो ब्राह्मण᳓स्य ते᳓जो वै᳓ ब्राह्मण᳓स् , ते᳓जᳶ प᳓यस् , ते᳓जसैव᳓ ते᳓जᳶ प᳓य आत्म᳓न् धत्ते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -288,7 +287,7 @@ Milk (is the drink) of the Brahman, the Brahman is brilliance, milk is brillianc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ पय॑सा॒ वै गर्भा॑ वर्धन्ते । गर्भ॑ इव॒ खलु॒ वा ए॒ष यद् दी॑क्षि॒तो यद॑स्य॒ पयो॑ व्र॒तम् भव॑त्या॒त्मान॑मे॒व तद्व॑र्धयति ।
+अ᳓थो प᳓यसा वै᳓ ग᳓र्भा वर्धन्ते । ग᳓र्भ इव ख᳓लु वा᳓ एष᳓ य᳓द् दीक्षितो᳓ य᳓दस्य प᳓यो व्रत᳓म् भ᳓वत्यात्मा᳓नमेव᳓ त᳓द्वर्धयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -303,13 +302,10 @@ Again by milk foetuses grow; the man who is consecrated is as it were a foetus; 
 
 <details><summary>पद-पाठः</summary>
 
-
-
 पयः॑ । ब्रा॒ह्म॒णस्य॑ । तेजः॑ । वै । ब्रा॒ह्म॒णः । तेजः॑ । पयः॑ । तेज॑सा । ए॒व । तेजः॑ । पयः॑ । आ॒त्मन् । ध॒त्ते॒ ।   
 
 अथो॒ इति॑ । पय॑सा । वै । गर्भाः॑ । व॒र्ध॒न्ते॒ । गर्भः॑ । इ॒व॒ । खलु॑ । वै । ए॒षः । यत् । दी॒क्षि॒तः । यत् । अ॒स्य॒ । पयः॑ । व्र॒तम् । भव॑ति । आ॒त्मान॑म् । ए॒व । तत् । व॒र्ध॒य॒ति॒ ।   
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -325,7 +321,7 @@ Again by milk foetuses grow; the man who is consecrated is as it were a foetus; 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रिव्र॑तो॒ वै मनु॑रासी॒द् द्विव्र॑ता॒ असु॑रा॒ एक॑व्रताः दे॒वाः  ।[27]   
+त्रि᳓व्रतो वै᳓ म᳓नुरासीद् द्वि᳓व्रता अ᳓सुरा ए᳓कव्रताः देवाः᳓  ।[27]   
 </details>
 
 <details><summary>Keith</summary>
@@ -340,7 +336,7 @@ Manu was wont thrice to take drink, the Asuras twice, the gods once [3].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒तर्म॒ध्यन्दि॑ने सा॒यन् तन्मनो॑र् व्र॒तमा॑सीत् पाकय॒ज्ञस्य॑ रू॒पम् , पुष्ट्यै॑ ।  
+प्रात᳓र्मध्य᳓न्दिने साय᳓न् त᳓न्म᳓नोर् व्रत᳓मासीत् पाकयज्ञ᳓स्य रूप᳓म् , पु᳓ष्ट्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -355,7 +351,7 @@ Morning, midday, evening, were the times of Manu's drinking, the symbol of the s
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒तश्च॑ सा॒यञ्चासु॑राणान् निर्म॒ध्यङ् क्षु॒धो रू॒पन् , तत॒स् ते परा॑भवन् ।  
+प्रात᳓श्च साय᳓ञ्चा᳓सुराणान् निर्मध्य᳓ङ् क्षुधो᳓ रूप᳓न् , त᳓तस् ते᳓ प᳓राभवन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -370,7 +366,7 @@ Morning and evening were those of the Asuras, without a middle, a symbol of hung
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒ध्यन्दि॑ने मध्यरा॒त्रे दे॒वाना॒न् तत॒स् ते॑ ऽभवन्त् , सुव॒र्गल्ँ लो॒कमा॑य॒न् ।  
+मध्य᳓न्दिने मध्यरात्रे᳓ देवा᳓नान् त᳓तस् ते᳙ ऽभवन्त् , सुवर्गल्ँ᳓ लोक᳓मायन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -385,7 +381,7 @@ Midday and midnight were those of the gods; thence they prospered and went to th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद॑स्य म॒ध्यन्दि॑ने मध्यरा॒त्रे व्र॒तम्भव॑ति , मध्य॒तो वा अन्ने॑न भुञ्जते , मध्य॒त ए॒व तदूर्ज॑न् धत्ते॒ , भ्रातृ॑व्याभिभूत्यै ।  
+य᳓दस्य मध्य᳓न्दिने मध्यरात्रे᳓ व्रत᳓म्भ᳓वति , मध्यतो᳓ वा᳓ अ᳓न्नेन भुञ्जते , मध्यत᳓ एव᳓ त᳓दू᳓र्जन् धत्ते , भ्रा᳓तृव्याभिभूत्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -400,7 +396,7 @@ Now with regard to his drinking at midday and at midnight, it is in the middle t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भव॑त्या॒त्मना॑ ।[28]  परा॑ऽस्य॒ भ्रातृ॑व्यो भवति ।
+भ᳓वत्यात्म᳓ना ।[28]  प᳓राऽस्य भ्रा᳓तृव्यो भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -424,7 +420,6 @@ He prospers himself [4], his foe is overcome.
 भव॑ति । आ॒त्मना॑ । [28]  परेति॑ । अ॒स्य॒ । भ्रातृ॑व्यः । भ॒व॒ति॒ ।   
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7त्रिव्रत इति ॥ त्रिषु लोकेषु व्रतं भोजनमस्येति त्रिव्रतः, द्वयोः द्विव्रतः, एकस्मिन् एकव्रतः । व्रतसमानाधिकरणा वा बहुव्रीहयः । तत्र मनोः कालत्रयमाह - प्रातरित्यादि । तन्मनोः प्रातर्मध्यन्दिने सायं च यस्मादासीत् तस्मात्त्रिव्रतो मनुरासीदिति । द्वितीयपक्षे व्रतस्य त्रैविध्याय कालभेदप्रदर्शनम् । मध्ये भवः कालो मध्यन्दिनं, प्रातरादिना साहचर्यादह्न इति गम्यते । 'मध्यो मध्यन्दिनं चास्मात्' । पाकयज्ञस्येदं रूपं, तस्य तेषु त्रिषु लोकेषु कालेषु विधानात् । तस्मात्ते पुष्ट्यै भवन्ति । प्रातश्च सायं चेति । प्रातस्सायं चासुराणां भोजनमासीत्, तस्माद्द्विव्रता इति । निर्मध्यं मध्यशून्यम् । निरुदकादिरुत्तरपदान्तोदात्तः । क्षुध एतद्रूपं, यत्र क्षुत्तीव्रा भवति तत्र भोजनस्य लुप्तत्वात् । ततस्ते असुराः पराभवम् नष्टाः । मध्यन्दिने इति । मध्यन्दिने व्रतं भोजनमेकं मध्यरात्रे चैषामेकमिति एकव्रताः । ततस्ते अभवन् भूतिमन्तस्स्वर्गं च गताः । यदस्येत्यादि । यद्यस्मादस्य मध्यन्दिने मध्यरात्रे व्रतं भवति तस्मान्मध्यतो मध्यमे वयसि अन्नेन सह मांसादि प्रभूतं भुञ्जते मध्यमे एव स्थाने ऊर्जमन्नं धत्ते स्थापयति । 'आद्यादिभ्यस्तसिः' । तस्माद्भ्रातृव्याभिभूत्यै भवति । दासीभारादिः । भवत्यात्मनेत्यादि । गतम् ॥
@@ -437,7 +432,7 @@ He prospers himself [4], his foe is overcome.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गर्भो॒ वा ए॒ष यद् दी॑क्षि॒तो योनि॑र् दीक्षितविमि॒तय्ँ यद् दी॑क्षि॒तो दी॑क्षितविमि॒तात् प्र॒वसे॒द् ,  
+ग᳓र्भो वा᳓ एष᳓ य᳓द् दीक्षितो᳓ यो᳓निर् दीक्षितविमितय्ँ᳓ य᳓द् दीक्षितो᳓ दीक्षितविमिता᳓त् प्रव᳓सेद् ,  
 </details>
 
 <details><summary>Keith</summary>
@@ -452,7 +447,7 @@ Now the man who is consecrated is a foetus, the consecration-shed is the womb (i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा॒ योने॒र् गर्भ॒स् स्कन्द॑ति ता॒दृग् ए॒व तन् न प्र॑वस्त॒व्य॑म् , आ॒त्मनो॑ गोपी॒थाय॑ ।  
+य᳓था यो᳓नेर् ग᳓र्भस् स्क᳓न्दति तादृ᳓ग् एव᳓ त᳓न् न᳓ प्रवस्तव्य᳙म् , आत्म᳓नो गोपीथा᳓य ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -467,7 +462,7 @@ If the man who is consecrated were to leave the consecration-shed, it would be a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वै व्या॒घ्रᳵ कु॑लगो॒पो यद् अ॒ग्निस् तस्मा॒द् यद् दी॑क्षि॒तᳶ प्र॒वसे॒त् ,  
+एष᳓ वै᳓ व्याघ्रᳵ᳓ कुलगोपो᳓ य᳓द् अग्नि᳓स् त᳓स्माद् य᳓द् दीक्षितᳶ᳓ प्रव᳓सेत् ,  
 </details>
 
 <details><summary>Keith</summary>
@@ -482,7 +477,7 @@ The fire here is a tiger to guard the house. Therefore if the man who is consecr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॑नमीश्व॒रो॑ ऽनू॒त्थाय॒ हन्तो॒र् न प्र॑वस्त॒व्य॑म् आ॒त्मनो॒ गुप्त्यै॑ ।
+स᳓ एनमीश्वरो᳙ ऽनूत्था᳓य ह᳓न्तोर् न᳓ प्रवस्तव्य᳙म् आत्म᳓नो गु᳓प्त्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -501,12 +496,10 @@ he would be likely to spring up and slay him. He must not leave, to protect hims
 
 यथा॑ । योनेः॑ । गर्भः॑ । स्कन्द॑ति । ता॒दृक् । ए॒व । तत् । न । प्र॒व॒स्त॒व्य॑मिति॑ प्र-व॒स्त॒व्य॑म् । आ॒त्मनः॑ । गो॒पी॒थाय॑ ।
 
-
 ए॒षः । वै । व्या॒घ्रः । कु॒ल॒गो॒प इति॑ कुल-गो॒पः । यत् । अ॒ग्निः । तस्मा॑त् । यत् । दी॒क्षि॒तः । प्र॒वसे॒दिति॑ प्र-वसे॑त् ।  
 
 सः । ए॒न॒म् । ई॒श्व॒रः । अ॒नू॒त्थायेत्य॑नु-उ॒त्थाय॑ । हन्तोः॑ । न । प्र॒व॒स्त॒व्य॑मिति॑ प्र-व॒स्त॒व्य॑म् । आ॒त्मनः॑ । गुप्त्यै॑ ।   
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -520,7 +513,7 @@ he would be likely to spring up and slay him. He must not leave, to protect hims
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द॒क्षि॒ण॒तश् श॑ये ।  
+दक्षिणत᳓श् शये ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -535,7 +528,7 @@ He lies on the right side;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद् वै यज॑मानस्या॒यत॑नँ॒ , स्व ए॒वायत॑ने शये ।
+एत᳓द् वै᳓ य᳓जमानस्याय᳓तनँ , स्व᳓ एवा᳓य᳓तने शये ।
 </details>
 
 <details><summary>Keith</summary>
@@ -566,7 +559,7 @@ that is the abode of the sacrifice; verily he lies in his own abode.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्निम॑भ्या॒वृत्य॑ शये ।
+अ᳓ग्नि᳓मभ्यावृ᳓त्य शये ।
 </details>
 
 <details><summary>Keith</summary>
@@ -581,7 +574,7 @@ He lies turned towards the fire;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वता॑ ए॒व य॒ज्ञम् अ॑भ्या॒वृत्य॑ शये ॥ [29]  
+देव᳓ता एव᳓ यज्ञ᳓म् अभ्यावृ᳓त्य शये ॥ [29]  
 </details>
 
 <details><summary>Keith</summary>
@@ -598,7 +591,6 @@ verily he lies turned towards the gods and the sacrifice.
 
 अ॒ग्निम् । अ॒भ्या॒वृत्येत्य॑भि-आ॒वृत्य॑ । श॒ये॒ । दे॒वताः॑ । ए॒व । य॒ज्ञम् । अ॒भ्या॒वृत्येत्य॑भि-आ॒वृत्य॑ । श॒ये॒ ॥ [29]  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

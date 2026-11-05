@@ -10,8 +10,7 @@ _______
 1शुक्रपात्रेण माहेन्द्रं गृह्णाति - महानिति गायत्र्या त्रिपदया ॥ 
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/006/01_mahA_N_indro.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/006/01_mahA_N_indro.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 महाँ᳓ **इ᳓न्द्रो** य᳓ ओ᳓जसा-    
@@ -19,11 +18,17 @@ _______
 स्तो᳓मैर् वत्स᳓स्य **वावृधे** ॥+++(4)+++
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/006/01_mahA_N_indro.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/006/01_mahA_N_indro.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+म॒हाँ इन्द्रो॒ य ओज॑सा प॒र्जन्यो॑ वृष्टि॒माँ इ॑व ।  
+स्तोमै॑र्व॒त्सस्य॑ वावृधे ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/006/01_mahA_N_indro.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -238,10 +243,9 @@ Der grosse Indra, der an Kraft der regenschwangern Wolke gleicht, Erlabt an Vats
 - गायत्री
 - षड्जः
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/20_mahendragrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/20_mahendragrahaH/upayAmagRhItaH.md">
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -252,7 +256,7 @@ _______
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -279,7 +283,7 @@ ________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-महे॒न्द्राय॑ त्वा ।
+म᳓हेन्द्रा᳓य त्वा ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -301,7 +305,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॑र्, महे॒न्द्राय॑ त्वा ॥ [21]
+एष᳓ ते यो᳓निर्, महेन्द्रा᳓य त्वा ॥ [21]
 </details>
 
 <details><summary>Keith</summary>
@@ -313,5 +317,4 @@ This is thy birthplace; to Mahendra thee!
 
 ए॒ष ते॒ योनि॑र्महे॒न्द्राय॑ त्वा ॥ [21]
 </details>
-
 </div>

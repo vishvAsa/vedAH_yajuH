@@ -7,8 +7,7 @@ title: १३ स्रुग्-व्यूहनादिः
 १४ त्रिष्टुप्  
 प्रजापतिर्ऋषिः  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/vAjasya_mA.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/vAjasya_mA.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1स्रुचौ व्यूहति - वाजस्येत्यनुष्टुब्भ्यां चतुष्पदाभ्याम् ॥
@@ -16,7 +15,7 @@ title: १३ स्रुग्-व्यूहनादिः
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-वाज॑स्य+++(=अन्नस्य)+++ मा प्रस॒वेन॑+++(=योनिना)++++उद्ग्रा॒भेण+++(=ग्रहेण [जुह्वा])+++ +उद॑ग्रभीत् ।
+वा᳓जस्य+++(=अन्नस्य)+++ मा प्रसवे᳓न+++(=योनिना)++++उद्ग्राभे᳓ण᳓+++(=ग्रहेण [जुह्वा])+++ +उ᳓दग्रभीत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -59,8 +58,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथा॑ स॒पत्नाँ॒ इन्द्रो॑ मे  
-निग्रा॒भेणाध॑राँ अकः+++(=करोतु)+++ ॥
+अ᳓था सप᳓त्नाँ इ᳓न्द्रो मे  
+निग्राभे᳓णा᳓धराँ अकः+++(=करोतु)+++ ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -101,7 +100,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-+++(जुहूः)+++ उ॒द्ग्रा॒भञ् च॑ +++(उपभृत्)+++ निग्रा॒भञ् च॒ ब्रह्म॑+++(=परिवृढम्)+++ दे॒वा अ॑वीवृधन्+++(=वर्धयन्तु)+++ ।
++++(जुहूः)+++ उद्ग्राभ᳓ञ् च +++(उपभृत्)+++ निग्राभ᳓ञ् च ब्र᳓ह्म+++(=परिवृढम्)+++ देवा᳓ अवीवृधन्+++(=वर्धयन्तु)+++ ।
 
 +++( 'अथ स्रुचावनुष्टुग्भ्यां वाजवतीभ्याम्' (तै.ब्रा. 3.3.9) इत्यादि ब्राह्मणम् ॥)+++
 </details>
@@ -143,8 +142,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथा॑ स॒पत्ना॑न् इन्द्रा॒ग्नी  
-मे॑ विषू॒चीना॒न्+++(=विष्वग्-गतान्)+++ व्य॑स्यताम् ॥
+अ᳓था सप᳓त्नान् इन्द्राग्नी᳓  
+मे विषूची᳓नान्+++(=विष्वग्-गतान्)+++ व्य᳙स्यताम् ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -176,7 +175,6 @@ __________
 
 अथेन्द्राग्नी मम सपत्नान्विषूचीनान्सर्वतः पलायमानान्व्यस्यतां विनाशयेताम्। 
 </details>
-
 </div>  
 
 ____
@@ -188,9 +186,9 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वसु॑भ्यस् त्वा +++(अनज्मि)+++।   
-रु॒द्रेभ्य॑स्त्वा +++(अनज्मि)+++।   
-आ॒दि॒त्येभ्य॑स्त्वा +++(अनज्मि)+++।  
+व᳓सुभ्यस् त्वा +++(अनज्मि)+++।   
+रुद्रे᳓भ्यस्त्वा +++(अनज्मि)+++।   
+आदित्ये᳓भ्यस्त्वा +++(अनज्मि)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -230,7 +228,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒क्तँ +++(प्रस्तरं)+++ रिहा॑णा+++(=लिहाना)+++  
+अक्तँ᳓ +++(प्रस्तरं)+++ रि᳓हाणा+++(=लिहाना)+++  
 </details>
 
 <details><summary>Keith</summary>
@@ -267,7 +265,7 @@ ___________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒यन्तु॒+++([पादादित्वान्न निहन्यते स्वरः])+++ वयः॑+++(=पक्षिणः [आदित्य-रश्मयः])+++ ।  
+विय᳓न्तु+++([पादादित्वान्न निहन्यते स्वरः])+++ व᳓यः+++(=पक्षिणः [आदित्य-रश्मयः])+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -298,7 +296,7 @@ __________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाय्ँ योनि॒म् मा निर्मृ॑क्ष॒म्+++(=विनीनशं)+++ ॥  
+प्रजाय्ँ᳓ यो᳓निम् मा᳓ नि᳓र्मृक्षम्+++(=विनीनशं)+++ ॥  
 </details>
 
 <details><summary>Keith</summary>
@@ -344,7 +342,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आप्या॑यन्ता॒म् आप॒ ओष॑धयः ।
+आ᳓प्यायन्ताम् आ᳓प ओ᳓षधयः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -359,7 +357,7 @@ Swell, ye waters and plants.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒रुता॒म् पृष॑तयस्+++(=बिन्दुमत्यः [अश्वाः])+++ स्थ।
+मरु᳓ताम् पृ᳓षतयस्+++(=बिन्दुमत्यः [अश्वाः])+++ स्थ।
 </details>
 
 <details><summary>Keith</summary>
@@ -374,8 +372,8 @@ Ye are the spotted steeds of the Maruts.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे प्रस्तर!)+++ दिव॑ङ् गच्छ ।  
-ततो॑ नो॒ वृष्टि॒म् एर॑य ।+++(5)+++
++++(हे प्रस्तर!)+++ दि᳓वङ् गच्छ ।  
+त᳓तो नो वृ᳓ष्टिम् ए᳓रय ।+++(5)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -420,7 +418,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒यु॒ष्पा अ॑ग्ने॒ ऽस्य्, आयु॑र् मे पाहि ।
+आयुष्पा᳓ अग्ने ऽस्य्, आ᳓युर् मे पाहि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -436,7 +434,7 @@ Guardian of life art thou, O Agni, guard my life.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-च॒क्षु॒ष्पा अ॑ग्नेऽसि । चक्षु॑र् मे पाहि ।
+चक्षुष्पा᳓ अग्नेऽसि । च᳓क्षुर् मे पाहि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -471,7 +469,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वाऽसि॑ ।
+ध्रुवा᳓ऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -506,20 +504,17 @@ ____
 14मध्यमं परिधिमनुप्रहरति - यमिति त्रिष्टुभा पुरस्ताज्ज्योतिषा वसुरुद्रेशभवाक्षरपदया ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/63_yam_paridhim.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/63_yam_paridhim.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-यम् प॑रि॒धिम् प॒र्यध॑त्था॒  
-अग्ने॑ +++(पादादित्वान्न निहन्यते स्वरः)+++ देव +++(दुष्टैः)+++ प॒णिभि॑र् वी॒यमा॑णः+++(=वेष्ट्यमानः)+++ ।  
-तन् त॑ ए॒तम् अनु॒ जोष॑म्+++(=इष्टम्)+++ भरामि॒  
-नेद् ए॒ष त्वद्-अ॑पचे॒तया॑तै+++(=अपरक्तचेता भवेत्)+++ ॥
+य᳓म् परिधि᳓म् पर्य᳓धत्था  
+अ᳓ग्ने +++(पादादित्वान्न निहन्यते स्वरः)+++ देव +++(दुष्टैः)+++ पणि᳓भिर् वीय᳓माणः+++(=वेष्ट्यमानः)+++ ।  
+त᳓न् त एत᳓म् अ᳓नु जो᳓षम्+++(=इष्टम्)+++ भरामि  
+ने᳓द् एष᳓ त्व᳓द्-अपचेत᳓यातै+++(=अपरक्तचेता भवेत्)+++ ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/63_yam_paridhim.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/63_yam_paridhim.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -547,7 +542,6 @@ That it be not removed from thee.
 तमेतं मध्यमं परिधिं तव जोषमिष्टम् । कर्मणि घञ् (पा.सू. 3.3.19) । अनुभरामि त्वामेवानुगतं हरामि प्रहरामि । 'हृग्रहोर्भश्छन्दसि' (पा.सू. 8.2.32 वा 1) इति भत्वम् । युक्तमेव खल्वेवं कर्तुमित्याह - एषः अयं परिधिः एवं नाम तवाभिमतः त्वत्तो हेतोः नेदपचेतयातै नैवापरक्तचित्तो भवेत्; यद्ययं न प्रह्रियेत, उपेक्षितोऽहमनेनाग्निनेति त्वत्तोऽपचेतयेत । तस्मात्त्वय्येवैनमनुप्रहरामि । चित संचेतने, चुरादिः, अनुदात्तेत् (पा.सू. 1.3.2), तस्माल्लेटि 'लेटोऽडाटौ' (पा.सू. 3.4.94) इत्याडागमः, 'वैतोन्यत्र' (पा.सू. 3.4.96) इत्यैत्वम्, 'निपातैर्यत्' (पा.सू. 8.1.30) इत्यादिना निघातप्रतिषेधः, पूर्ववद्गतिनिघातसमासौ, णिचश्चित्त्वादुदात्तत्वम् (पा.सू. 6.1.163) ॥
 </details>
 </details>
-
 </div>
 
 ____
@@ -559,7 +553,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(शिष्टौ समिधौ!)+++ य॒ज्ञस्य॒ पाथ॒+++(=अन्नं)+++ **उप॒ सम् इ॑तम्**+++(=आप्नुतम्)+++ ।
++++(शिष्टौ समिधौ!)+++ यज्ञ᳓स्य पा᳓थ+++(=अन्नं)+++ **उ᳓प स᳓म् इतम्**+++(=आप्नुतम्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -589,20 +583,17 @@ ____
 एतान् संस्रावेणाभिघारयति
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/73_sasrAvabhAgAs_sthaiShA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/73_sasrAvabhAgAs_sthaiShA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-सँस्रा॒व+++(=जुहूपभृद्भ्यां सिच्यमान आज्य-शेषः)+++भा॑गास् स्थ+इ॒षा बृ॒हन्तᳶ॑  
-प्रस्तरे॒ष्ठा ब॑र्हि॒षद॑श् च दे॒वाः ।  
-+++(स्तोत्ररूपम्)+++ इ॒माव्ँ वाच॑म् अ॒भि विश्वे॑ गृ॒णन्त॑ +++(=प्रशंसन्तः)+++  
-आ॒सद्या॒स्मिन् ब॒र्हिषि॑ मादयध्वम् ॥
+सँ᳓स्राव᳓+++(=जुहूपभृद्भ्यां सिच्यमान आज्य-शेषः)+++भागास् स्थ+इषा᳓ बृह᳓न्तᳶ  
+प्रस्तरेष्ठा᳓ बर्हिष᳓दश् च देवाः᳓ ।  
++++(स्तोत्ररूपम्)+++ इमाव्ँ᳓ वा᳓चम् अभि᳓ वि᳓श्वे गृण᳓न्त +++(=प्रशंसन्तः)+++  
+आस᳓द्यास्मि᳓न् बर्हि᳓षि मादयध्वम् ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/73_sasrAvabhAgAs_sthaiShA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/73_sasrAvabhAgAs_sthaiShA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -637,7 +628,6 @@ Seated on this strew enjoy yourselves.
 ते विश्वेपि देवा देवनादिगुणयुक्ता यूयं, इमामस्मदीयां त्वद्विषयां स्तोत्ररूपां वाचं अभिगृणन्तः आभिमुख्येन शब्दयन्तः अहो सम्यगियं स्तुतिः कृतेत्येवं प्रशंसन्तः । 'अभिरभागे' (पा.सू. 1.4.91) इति लक्षणादिषु (पा.सू. 1.4.90) कर्मप्रवचनीयत्वम् । अस्मिन् बर्हिषि स्तीर्णे यज्ञे आसद्य उपविश्य मादयध्वं तृप्यत । मद तृप्तियोगे, चौरादिकः, आकुस्मीय आत्मनेपदी (आकुस्मादात्मनेपदिनः - गणसूत्रं - चित संचेतने इति धातौ) । आसद्येति कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना इदमस्सप्तम्या उदात्तत्वम् । 'स्रुचौ संप्रस्रावयति' (तै.ब्रा. 3.3.9) इत्यादि ब्राह्मणं । 'वैश्वदेव्यर्चा' (तै.ब्रा. 3.3.9) इत्यादि च ॥
 </details>
 </details>
-
 </div>
 
 ____
@@ -649,7 +639,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे जुहूपभृतौ!)+++ अ॒ग्नेर् वा॒म् अप॑न्न+++(=निश्चल)+++गृहस्य॒ सद॑सि सादयामि ।
++++(हे जुहूपभृतौ!)+++ अग्ने᳓र् वाम् अ᳓पन्न+++(=निश्चल)+++गृहस्य स᳓दसि सादयामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -664,7 +654,7 @@ I set thee in the seat of Agni whose abode is secure.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(यजमान-)+++सु॒म्नाय॑+++(=सुखाय)+++ सुम्निनी +++(जुहूपभृतौ!)+++ +++(स्व-)+++सु॒म्ने मा॑ +++(अध्वर्युं)+++ धत्तम्।
++++(यजमान-)+++सुम्ना᳓य+++(=सुखाय)+++ सुम्निनी +++(जुहूपभृतौ!)+++ +++(स्व-)+++सुम्ने᳓ मा +++(अध्वर्युं)+++ धत्तम्।
 </details>
 
 <details><summary>Keith</summary>
@@ -679,7 +669,7 @@ For goodwill, O ye two with goodwill, place me in goodwill.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(याग-)+++धु॒रि धु॒र्यौ॑ +++(पत्नीयजमानौ)+++ पातम्+++(=रक्षतम्)+++ ।
++++(याग-)+++धुरि᳓ धुर्यौ᳙ +++(पत्नीयजमानौ)+++ पातम्+++(=रक्षतम्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -720,7 +710,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ ऽदब्धा-ऽऽयो ऽशीत-तनो पा॒हि मा॒ऽद्य दि॒वः।
+अ᳓ग्ने ऽदब्धा-ऽऽयो ऽशीत-तनो पाहि᳓ माऽद्य᳓ दिवः᳓।
 </details>
 
 <details><summary>Keith</summary>
@@ -747,7 +737,7 @@ O Agni, with life unhurt, with not-cool body, guard me this day from the sky,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पा॒हि प्रसि॑त्यै+++(=कर्मनाशात्)+++ ।
+पाहि᳓ प्र᳓सित्यै+++(=कर्मनाशात्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -772,8 +762,8 @@ guard from bondage,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पा॒हि दुरि॑ष्ट्यै ।   
-पा॒हि दु॑र्-अद्म॒न्यै+++(=भुक्त्यै)+++ ।
+पाहि᳓ दु᳓रिष्ट्यै ।   
+पाहि᳓ दुर्-अद्मन्यै᳓+++(=भुक्त्यै)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -800,7 +790,7 @@ guard from evil food,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पा॒हि दुश्च॑रितात् ।
+पाहि᳓ दु᳓श्चरितात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -825,7 +815,7 @@ guard from ill deed.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अवि॑षन् नᳶ पि॒तुङ्+++(=अन्नं)+++ कृ॑णु । +++(गायत्री－एकपदा)+++
+अ᳓विषन् नᳶ पितु᳓ङ्+++(=अन्नं)+++ कृणु । +++(गायत्री－एकपदा)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -850,7 +840,7 @@ Make our food free from poison,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒-षदा॒ +++(हेतुना)+++ योनिँ॒ +++(तुभ्यम् इदं)+++ स्वाहा॑ +++(=इति स्वयं वाग् आह (नि. 8.20))+++ ।
+सु-ष᳓दा +++(हेतुना)+++ यो᳓निँ +++(तुभ्यम् इदं)+++ स्वा᳓हा +++(=इति स्वयं वाग् आह (नि. 8.20))+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -880,12 +870,11 @@ ____
 19समिष्टयजूंषि जुहोति - देवा इति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/devA_gAtuvidaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/devA_gAtuvidaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवा॑ गातुविदो+++(=गतिज्ञाः)+++ गा॒तुव्ँ+++(=मार्गं)+++ वि॒त्वा+++(=लब्ध्वा)+++ **गा॒तुम् इ॑त** +++(=गच्छत)+++।
-मन॑सस्पत इ॒मन् नो॑ देव दे॒वेषु॑ य॒ज्ञं  +++(धाः)+++ स्वाहा॑।
+दे᳓वा गातुविदो+++(=गतिज्ञाः)+++ गातुव्ँ᳓+++(=मार्गं)+++ वित्वा᳓+++(=लब्ध्वा)+++ **गातु᳓म् इत** +++(=गच्छत)+++।
+म᳓नसस्पत इम᳓न् नो देव देवे᳓षु यज्ञं᳓  +++(धाः)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -932,7 +921,7 @@ ___________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(य॒ज्ञं)+++ वा॒चि +++(धाः)+++ स्वाहा॑  ।
++++(यज्ञं᳓)+++ वाचि᳓ +++(धाः)+++ स्वा᳓हा  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -959,7 +948,7 @@ In speech, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाते॑ धाः ॥ [24]
+वा᳓ते धाः ॥ [24]
 </details>
 
 <details><summary>Keith</summary>
@@ -981,7 +970,6 @@ in/or the wind, hail!
 
 ततः पश्चादिमं यज्ञं वाते सर्वक्रियाधारे धाः स्थापय । यस्मादयं यज्ञः प्रयुक्तः तत्रैव वाते स्थापय । 'वाताद्वा अध्वर्युर्यज्ञं प्रयुङ्क्ते' (तै.ब्रा. 3.3.9) इत्यादि ब्राह्मणम् । दधातेः लेटि 'बहुलं छन्दसि' (पा.सू. 2.4.73) इति शपो लुक्, 'इतश्च लोपः परस्मैपदेषु' (पा.सू. 3.4.98) इतीकारलोपः ॥
 </details>
-
 </div>  
 
 इति त्रयोदशोनुवाकः ।  

@@ -1,23 +1,36 @@
 +++
 title = "२७ सशिरो गायत्री"
 unicode_script = "devanagari"
-
 +++
 **शिरः**
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं भूः । ओं भुवः॑ । ओँ सुवः॑ । ओं महः॑ । ओञ् जनः॑ । ओं तपः॑ । ओँ स॒त्यम् ।
+ओं᳓ भूः᳓ । ओं᳓ भु᳓वः । ओँ᳓ सु᳓वः । ओं᳓ म᳓हः । ओ᳓ञ् ज᳓नः । ओं᳓ त᳓पः । ओँ᳓ सत्य᳓म् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 ओं भूः । ओं भुवः॑ । ओँ सुवः॑ । ओं महः॑ । ओञ्जनः॑ । ओं तपः॑ । ओँ स॒त्यम् ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+
+त᳓त् सवितु᳓र् व᳓रेण्य+++(णिय)+++म्  
+भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
+धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥  
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/10_tatsaviturvareNyaM_bhargo.md">
-<details open><summary><h3>010 ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<details><summary><h3>मूलम् …{Loading}…</h3></summary>
+
+तत्स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि ।  
+धियो॒ यो नः॑ प्रचो॒दया॑त् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -30,6 +43,12 @@ unicode_script = "devanagari"
 त᳓त् सवितु᳓र् व᳓रेणियम्  
 भ᳓र्गो देव᳓स्य धीमहि  
 धि᳓यो यो᳓ नः प्रचोद᳓यात्
+</details>
+
+<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+तत्स॑वि॒तुर्वरे॑ण्य॒म्भर्गो॑ दे॒वस्य॑ धीमहि ।  
+धियो॒ यो नᳶ॑ प्रचो॒दया॑त् ।
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -161,6 +180,11 @@ _________
 सावित्र्यनूच्यते॥
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। नः- अस्माकम्। धियः- बुद्धीः। प्रचोदयात्- प्रेरयेत्। देवस्य- तस्य द्योतनशीलस्य।  सवितुः- प्रेरकस्य सूर्यस्यात्मनः। वरेण्यम्- सम्भजनीयम्। तत्। भर्गः- चैतन्यच्छविम्। धीमहि-  ध्यायामः॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** सविता देवः **नः** अस्माकं **धियः** कर्माणि धर्मादिविषया वा बुद्धीः **प्रचोदयात्** प्रेरयेत्  
@@ -179,6 +203,10 @@ _________
 यद्वा - ‘धीङ् आधारे' । लिङि  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् ।  
 
 **प्रचोदयात्** । चोदयतेर् लेट्याडागमः । यद्-वृत्त-योगाद् अनिघातः । आगमस्यानुदात्तत्वे णिचः स्वरः ॥ ॥ १० ॥
+
+_____________
+
+यः सवितास्माकं बुद्धीः प्रेरयति तस्य सवितुर्देवस्य वरणीयं भर्गस्तेजो ध्यायेम।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -516,6 +544,20 @@ _________
 May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.  
 </details>
 
+<details><summary>विश्वास-टिप्पनी - प्रचोदयात्-स्वरः</summary>
+
+प्र + चुद् + णिच् उदात्तः + शप् अनुदात्तः पित्त्वात् + [लेट् → आट् + तिप् अनुदात्तः पित्त्वात्]।
+
+प्रानुदात्तत्वं तिङन्तस्योदात्तवत्त्वात्। तच्च यत्कारसद्भावात्।
+</details>
+
+<details><summary>विश्वास-टिप्पनी - परोरजसे</summary>
+
+> परोरजसे ऽसाव् अदो मा प्रापद्   
+
+इति बृहदारण्यकोपनिषदा सूचितं तुरीयम् पादम् प्रयुञ्जते केचित्, "परो᳓-रजसे ऽसा᳓वदो᳓३म् ॥" इति विकारेण।  
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -545,7 +587,7 @@ And here, buried in this not particularly noteworthy hymn, is the Gāyatrī mant
 Note the play on dhīmahi / dhíyaḥ juxtaposed across the hemistich boundary, belonging to different roots.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/10-12.md">
-<details open><summary><h5>10-12 ...{Loading}...</h5></summary>
+<details open><summary><h5>10-12 …{Loading}…</h5></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
 All three vss. in this tṛca contain déva- (…) savitár- (or vice versa).
@@ -740,16 +782,15 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 भावार्थभाषाः -  जी माणसे सर्वांचा साक्षी, पित्याप्रमाणे असणारा, न्यायी, दयाळू, शुद्ध सनातन, सर्वांच्या आत्म्याचा साक्षी अशा परमेश्वराची स्तुती, प्रार्थना व उपासना करतात त्यांना कृपासागर, सर्वात श्रेष्ठ परमेश्वर, दुष्ट आचरणापासून पृथक करून श्रेष्ठ आचरणामध्ये प्रवृत्त करतो. पवित्र व पुरुषार्थयुक्त करून धर्म, अर्थ, काम, मोक्ष प्राप्त करवितो. ॥ १० ॥
 </details>
-</details>
 </div>
  
 **पुच्छम्**
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओम् आपो॒ ज्योती॒ रसो॒  
-ऽमृतं॒ ब्रह्म॒ +++(=मन्त्राः)+++  
-भूर् भुव॒स् सुव॒र् ओम् । (42)
+ओ᳓म् आ᳓पो ज्यो᳓ती र᳓सो  
+ऽमृ᳓तं ब्र᳓ह्म +++(=मन्त्राः)+++  
+भू᳓र् भु᳓वस् सु᳓वर् ओ᳓म् । (42)
 </details>
 
 <details><summary>मूलम्</summary>

@@ -10,13 +10,12 @@ _______
 1अतः परं ग्रहकाण्डं सोमार्षेयम् । उपांशुसवनं ग्रावाणमादत्ते - आदद इति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
-+++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
-पू॒ष्णो हस्ता॑भ्याम्…
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
++++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
+पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
 
 <details><summary>Keith</summary>
@@ -50,12 +49,11 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ द॑दे ।
+आ᳓ ददे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -84,21 +82,18 @@ _______
 ग्रावा॑स्यध्वर॒कृद्दे॒वेभ्यो॑ गम्भी॒रमि॒मम॑ध्व॒रङ्कृ॑ध्युत्त॒मेन॑ प॒विनेन्द्रा॑य॒ सोमँ॒ सुषु॑त॒म्मधु॑मन्त॒म्पय॑स्वन्तव्ँवृष्टि॒वनिम् 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/01_somAbhiShavaH/02_grAvAsy_adhvarakRd.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/01_somAbhiShavaH/02_grAvAsy_adhvarakRd.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-**ग्रावा॑स्य्** अध्वर॒कृद् - दे॒वेभ्यो॑  
-**गम्भी॒रम्** इ॒मम् अ॑ध्व॒रङ्,  
-**कृ॑ध्य्** उत्त॒मेन॑ प॒विना+  
-+इन्द्रा॑य॒ सोमँ॒ **सुषु॑त॒म्**  
-मधु॑मन्त॒म् पय॑स्वन्तव्ँ वृष्टि॒-वनिम्
+**ग्रा᳓वास्य्** अध्वरकृ᳓द् - देवे᳓भ्यो  
+**गम्भीर᳓म्** इम᳓म् अध्वर᳓ङ्,  
+**कृध्य्** उत्तमे᳓न पवि᳓ना᳓+  
++इ᳓न्द्राय सो᳓मँ **सु᳓षुतम्**  
+म᳓धुमन्तम् प᳓यस्वन्तव्ँ वृष्टि-व᳓नि᳓म्
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/01_somAbhiShavaH/02_grAvAsy_adhvarakRd.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/01_somAbhiShavaH/02_grAvAsy_adhvarakRd.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -125,7 +120,6 @@ rich in sweetness, in milk, bringing rain.
 सोमो विशेष्यते - मधुमन्तं मधुररसवन्तं स्वादुभूतम् पयस्वन्तं क्षीरवन्तम्, 'पयसा श्रीणाति' इति श्रवणात् । यद्वा - 'पयः पिबतेः प्यायतेर्वा' इति निर्वचनात् सेचनवन्तं वृद्धिमन्तं वा । उभयत्राप्यसुनि पीभावः । वृष्टिवनिं यागसाधनद्वारेण वृष्टेर्दातारं सम्भक्तारं वा । 'छन्दसि वनसन' इतीन्प्रत्ययः, कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
 </details>
-
 </div>
 
 _______
@@ -136,7 +130,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य त्वा वृत्र॒घ्ने ।
+इ᳓न्द्राय त्वा वृत्रघ्ने᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -162,7 +156,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य त्वा वृ॒त्र॒-तुरे॑+++(←त्वरणे)+++ ।
+इ᳓न्द्राय त्वा वृत्र-तु᳓रे+++(←त्वरणे)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -188,7 +182,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य त्वाऽभिमाति॒घ्ने ।
+इ᳓न्द्राय त्वाऽभिमातिघ्ने᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -214,7 +208,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य त्वाऽऽदि॒त्यव॑ते ।
+इ᳓न्द्राय त्वाऽऽदित्य᳓वते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -239,7 +233,7 @@ To Indra with the Adityas, thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य त्वा वि॒श्वदे॑व्यावते ।
+इ᳓न्द्राय त्वा विश्व᳓देव्यावते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -270,8 +264,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्वा॒त्रास्+++(=आशु-त्राः)+++ **स्थ॑**,  
-वृत्र॒-तुरो॒ राधो॑+++(=अन्न)+++-गूर्ता+++(←गुरी उद्यमने)+++ अ॒मृत॑स्य॒ पत्नीः॑।  
+श्वात्रा᳓स्+++(=आशु-त्राः)+++ **स्थ**,  
+वृत्र-तु᳓रो रा᳓धो+++(=अन्न)+++-गूर्ता+++(←गुरी उद्यमने)+++ अमृ᳓तस्य प᳓त्नीः।  
 </details>
 
 <details><summary>Keith</summary>
@@ -297,8 +291,8 @@ Ye are savoury, conquerors of Vrtra, delightful through your gifts, spouses of i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता दे॑वीः +++( स्थ)+++  ..   
-दे॒व॒त्रा+++(=देवस्थाने)+++ +इमय्ँ य॒ज्ञन् ध॑त्त ।
+ता᳓ देवीः +++( स्थ)+++  ..   
+देवत्रा᳓+++(=देवस्थाने)+++ +इ᳓मय्ँ᳓ यज्ञ᳓न् धत्त ।
 </details>
 
 <details><summary>Keith</summary>
@@ -319,8 +313,8 @@ Do ye, O goddesses, place this sacrifice among the gods
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उप॑हूता॒स् सोम॑स्य पिबत ।   
-उप॑हूतो यु॒ष्माक॑म् सोमᳶ॑ पिबतु ।
+उ᳓पहूतास् सो᳓मस्य पिबत ।   
+उ᳓पहूतो युष्मा᳓कम् सो᳓मᳶ पिबतु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -351,20 +345,17 @@ _______
 यत्ते॑ सोम दि॒वि ज्योति॒र्यत्पृ॑थि॒व्याय्ँ यदु॒राव॒न्तरि॑क्षे । तेना॒स्मै यज॑मानायो॒रु रा॒या कृ॒ध्यधि॑ दा॒त्रे वो॑चः ।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/01_somAbhiShavaH/03_yat_te.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/01_somAbhiShavaH/03_yat_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-यत् ते॑ सोम दि॒वि ज्योति॒र्  
-यत् पृ॑थि॒व्याय्ँ, यद् उ॒राव् अ॒न्तरि॑क्षे  ।  
-तेना॒स्मै यज॑मानायो॒रु  
-रा॒या **कृ॒ध्य्**, अधि॑ दा॒त्रे **वो॑चः**+++(←वच्)+++।
+य᳓त् ते सोम दिवि᳓ ज्यो᳓तिर्  
+य᳓त् पृथिव्याय्ँ᳓, य᳓द् उरा᳓व् अन्त᳓रिक्षे  ।  
+ते᳓नास्मै᳓ य᳓जमानायोरु᳓  
+राया᳓ **कृध्य्**, अ᳓धि दात्रे᳓ **वोचः**+++(←वच्)+++।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/01_somAbhiShavaH/03_yat_te.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/01_somAbhiShavaH/03_yat_te.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -382,7 +373,6 @@ be favourable to the giver.
 रु रा॒या कृ॒ध्यधि॑ दा॒त्रे वो॑चः।
 </details>
 </details>
-
 </div>
 
 <details><summary>प्रदीपसिंहः</summary>
@@ -417,7 +407,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धिष॑णे+++(=धृष्टे)+++ - वी॒डू+++(=दृढे)+++ स॒ती वी॑डयेथाम् ।  
+धि᳓षणे+++(=धृष्टे)+++ - वीडू᳓+++(=दृढे)+++ सती᳓ वीडयेथाम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -437,8 +427,8 @@ Ye Dhisanas, that are strong, be strengthened;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊर्ज॑न् दधाथाम् ।  
-ऊर्ज॑म्मे धत्तम् ।
+ऊ᳓र्जन् दधाथाम् ।  
+ऊ᳓र्जम्मे धत्तम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -462,8 +452,8 @@ and give me strength;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा वाँ॑ हिँसिषम् ।   
-मा मा॑ हिँसिष्टम् ।
+मा᳓ वाँ हिँसिषम् ।   
+मा᳓ मा हिँसिष्टम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -495,8 +485,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राग्+++(=अग्रे)+++ अपा॒ग्+++(=पृष्ठतः)+++ उद॑ग्+++(=ऊर्ध्वं)+++ अध॒राक्  
-तास् त्वा॒ दिश॒ आ धा॑व॒न्तु ।  
+प्रा᳓ग्+++(=अग्रे)+++ अ᳓पाग्+++(=पृष्ठतः)+++ उ᳓दग्+++(=ऊर्ध्वं)+++ अधरा᳓क्  
+ता᳓स् त्वा दि᳓श आ᳓ धावन्तु᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -524,7 +514,7 @@ Forward, backward, upward, downward, let these quarters speed to you;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(लते!)+++ अम्ब॒ नि ष्व॑र+++(←स्वर्)+++ ।  
++++(लते!)+++ अ᳓म्ब नि᳓ ष्वर+++(←स्वर्)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -552,8 +542,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् ते॑ सो॒म +अदा॑भ्य॒न्+++(←दभ हिंसायाम्)+++ नाम॒ +++(←)+++जागृ॑वि॒  
-तस्मै॑ ते सोम॒, सोमा॑य॒ +++(नाम्ने)+++ स्वाहा॑ ॥ [2]  
+य᳓त् ते सोम᳓ +अ᳓दाभ्यन्+++(←दभ हिंसायाम्)+++ ना᳓म +++(←)+++जा᳓गृवि  
+त᳓स्मै ते सोम, सो᳓माय +++(नाम्ने)+++ स्वा᳓हा ॥ [2]  
 </details>
 
 <details><summary>Keith</summary>

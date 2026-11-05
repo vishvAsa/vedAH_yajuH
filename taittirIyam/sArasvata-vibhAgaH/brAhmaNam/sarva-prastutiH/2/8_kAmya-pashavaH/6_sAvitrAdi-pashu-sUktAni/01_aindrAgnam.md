@@ -1,26 +1,30 @@
 +++
 title = "०१ ऐन्द्राग्नम्"
-
 +++
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (SB) 1पञ्चम ऐन्द्राग्नपश्वादींनां सूक्तान्यभिहितानि । षष्ठे सावित्रादि पशूनां सूक्तान्यभिधीयन्ते । तत्र 'सावित्रमुपध्वस्तमालभेत' इत्यस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - 
 </details>
 
-
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/045/01_A_devo.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/045/01_A_devo.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 आ᳓ देवो᳓ यातु सविता᳓ सुर᳓त्नो  
 अन्तरिक्षप्रा᳓ व᳓हमानो अ᳓श्वैः  
 ह᳓स्ते द᳓धानो न᳓रिया पुरू᳓णि  
 निवेश᳓यञ् च प्रसुव᳓ञ् च भू᳓म
-
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/045/01_A_devo.md">
-<details open><summary><h5>001 ...{Loading}...</h5></summary>
 
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/045/01_A_devo.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+आ दे॒वो या॑तु सवि॒ता सु॒रत्नो॑ऽन्तरिक्ष॒प्रा वह॑मानो॒ अश्वैः॑ ।  
+हस्ते॒ दधा॑नो॒ नर्या॑ पु॒रूणि॑ निवे॒शय॑ञ्च प्रसु॒वञ्च॒ भूम॑ ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/045/01_A_devo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -35,6 +39,7 @@ title = "०१ ऐन्द्राग्नम्"
 ह᳓स्ते द᳓धानो न᳓रिया पुरू᳓णि  
 निवेश᳓यञ् च प्रसुव᳓ञ् च भू᳓म
 </details>
+
 <details><summary>तैत्तिरीयम् मूलम्</summary>
 
 आ दे॒वो या॑तु सवि॒ता सु॒रत्नः॑ ।   
@@ -42,7 +47,6 @@ title = "०१ ऐन्द्राग्नम्"
 हस्ते॒ दधा॑नो॒ नर्या॑ पु॒रूणि॑ ।   
 नि॒वे॒शय॑ञ्च प्रसु॒वञ्च॒ भूम॑ ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -250,7 +254,6 @@ _________
 
 **सुरत्नः** शोभनरत्नोपेतः **अन्तरिक्षप्राः** स्वकीयेन तेजसान्तरिक्षस्य पूरयिता **अश्वैः** स्वकीयैर्वाहैः  **वहमानः** उह्यमानः **सविता** सर्वस्य प्रेरकः **देवः** **आ** **यातु** आगच्छतु । कीदृशः। **नर्या** नर्याणि मनुष्यहितानि **पुरूणि** बहूनि धनानि **हस्ते** पाणौ **दधानः** दातुं धारयन् **भूम** भूतानि **निवेशयंश्च**   रात्रिषु स्वे स्थाने स्थापयंश्च **प्रसुवंश्च** अहःसु प्रेरयंश्च । एवंभूतः सविता देव आ यातु ॥
 
-
 _____________
 सविता देवः आयातु आगच्छतु । कीदृशः? सुरत्नः शोभनै रत्नैर्युक्तः । अन्तरिक्षप्ताः स्वकीयै रश्मिभिरन्तरिक्षं पूरयिता । अश्वैर्वहमानः स्वकीयैरश्वै रथं वाहयन् । नर्या नरेभ्यो हितानि पुरूणि बहूनि रत्नानि यजमानाय दातुं हस्ते दधानः । भूम बहुलं जगत्प्राणिजातं निवेशयंश्च रात्रौ स्वस्वगृहेऽवस्थापयन्नपि प्रसुवंश्च दिवसे स्वस्वव्यापारेषु प्रेरयन्नपि वर्तत इति शेषः॥
 </details>
@@ -273,14 +276,16 @@ Niveśayan ca prasuvan ca **bhūma** = **bhūtāni** rātriṣu sve sthāpayansc
 Let god Savitar drive here, possessed of good treasure, filling the  
 midspace, journeying with his horses,  
 holding many things meant for men in his hand, bringing the world to  rest and impelling it forth.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/045/01-02.md">
-<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+<details open><summary><h7>01-02 …{Loading}…</h7></summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although Savitar’s role as god of evening, causing the world and its activities to settle down, is alluded to in 1d, his role as rouser of the world at dawn is given equal billing in that pāda (… ca … ca). The more oblique expression in 2d must also refer to this latter role. The sun “cedes his task” of waking and rousing the world to Savitar.
-
+</details>
 </details>
 </div>
 </details>
@@ -361,20 +366,19 @@ Gott Savitar, der güterreiche, komme, die Luft durchdringend, mit den Rossen fa
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जी माणसे सूर्याप्रमाणे शुभ गुण, कर्म प्रकट करतात व माणसांचे हित करतात ती अत्यंत ऐश्वर्य प्राप्त करतात. ॥ १ ॥
 </details>
+</div>
 
-</details>
-</div><details><summary>सायणोक्त-विनियोगः</summary>
+<details><summary>सायणोक्त-विनियोगः</summary>
 
 2अथ वपाया याज्यामाह - 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भीवृ॑त॒ङ्कृश॑नैर्वि॒श्वरू॑पम् ।  
-हिर॑ण्यशम्यय्ँयज॒तो बृ॒हन्त॑म् ।   
-आस्था॒द्रथँ॑ सवि॒ता चि॒त्रभा॑नुः ।  
-कृ॒ष्णा रजाँ॑ सि॒ तवि॑षी॒न्दधा॑नः ।  
+अभी᳓वृतङ्कृ᳓शनैर्विश्व᳓रूपम् ।  
+हि᳓रण्यशम्यय्ँयजतो᳓ बृह᳓न्तम् ।   
+आ᳓स्थाद्र᳓थँ सविता᳓ चित्र᳓भानुः ।  
+कृष्णा᳓ र᳓जाँ सि त᳓विषीन्द᳓धानः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -395,13 +399,12 @@ Gott Savitar, der güterreiche, komme, die Luft durchdringend, mit den Rossen fa
 3अथ पुरोडाशस्य पुरोनुवाक्यामाह - 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सघा॑ नो दे॒वस्स॑वि॒ता स॒वाय॑ ।  
-आ सा॑विष॒द्वसु॑पति॒र्वसू॑नि ॥ 40 ॥    
-वि॒श्रय॑माणो॒ अम॑तिमुरू॒चीम् ।   
-म॒र्त॒भोज॑न॒मध॑रासतेन ।  
+स᳓घा नो देव᳓स्सविता᳓ सवा᳓य ।  
+आ᳓ साविषद्व᳓सुपतिर्व᳓सूनि ॥ 40 ॥    
+विश्र᳓यमाणो अ᳓मतिमुरूची᳓म् ।   
+मर्तभो᳓जनम᳓धरासतेन ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -422,13 +425,12 @@ Gott Savitar, der güterreiche, komme, die Luft durchdringend, mit den Rossen fa
 4अथ पुरोडाशस्य याज्यामाह - 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विजना॑ञ्छ्या॒वाश्शि॑ति॒पादो॑ अख्यन् ।  
-रथँ॒ हिर॑ण्यप्रउगव्ँ॒वह॑न्तः ।  
-शश्व॒द्दिश॑स्सवि॒तुर्दैव्य॑स्य ।   
-उ॒पस्थे॒ विश्वा॒ भुव॑नानि तस्थुः ।
+वि᳓ज᳓नाञ्छ्यावा᳓श्शितिपा᳓दो अख्यन् ।  
+र᳓थँ हि᳓रण्यप्रउगव्ँव᳓हन्तः ।  
+श᳓श्वद्दि᳓शस्सवितु᳓र्दै᳓व्यस्य ।   
+उप᳓स्थे वि᳓श्वा भु᳓वनानि तस्थुः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -449,13 +451,12 @@ Gott Savitar, der güterreiche, komme, die Luft durchdringend, mit den Rossen fa
 5अथ हविषः पुरोनुवाक्यामाह - 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि सु॑प॒र्णो अ॒न्तरि॑क्षाण्यख्यत् ।  
-ग॒भी॒रवे॑पा॒ असु॑रस्सुनी॒थः ।  
-क्वे॑दानीँ॒ सूर्य॒ᳵ कश्चि॑केत ।   
-क॒त॒मान्द्याँ र॒श्मिर॒स्या त॑तान ॥ 41 ॥  
+वि᳓ सुपर्णो᳓ अन्त᳓रिक्षाण्यख्यत् ।  
+गभीर᳓वेपा अ᳓सुरस्सुनीथः᳓ ।  
+क्वे᳓दानीँ सू᳓र्यᳵ क᳓श्चिकेत ।   
+कतमा᳓न्द्याँ᳓ रश्मि᳓रस्या᳓ ततान ॥ 41 ॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -476,13 +477,12 @@ Gott Savitar, der güterreiche, komme, die Luft durchdringend, mit den Rossen fa
 6अथ हविषो याज्यामाह - 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भग॒न्धियव्ँ॑वा॒जय॑न्त॒ᳶ पुर॑न्धिम् ।   
-नरा॒शँसो॒ ग्नास्पति॑र्नो अव्यात् ।  
-आ ये वा॒मस्य॑ सङ्ग॒थे र॑यी॒णाम् ।  
-प्रि॒या दे॒वस्य॑ सवि॒तुस्स्या॑म ।  
+भ᳓गन्धि᳓यव्ँवाज᳓यन्तᳶ पु᳓रन्धिम् ।   
+न᳓राशँ᳓सो ग्ना᳓स्प᳓तिर्नो अव्यात् ।  
+आ᳓ ये᳓ वाम᳓स्य सङ्गथे᳓ रयीणा᳓म् ।  
+प्रिया᳓ देव᳓स्य सवितु᳓स्स्याम ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -497,4 +497,3 @@ Gott Savitar, der güterreiche, komme, die Luft durchdringend, mit den Rossen fa
 
 भगं सौभाग्यं धियं सत्कर्मविषयां प्रज्ञां सवितुः प्रसादात् वाजयन्तः प्राप्नुवन्तो वर्तामहे । नोऽस्माकं पुरन्धिं वहुविषयां प्रज्ञामयं देवः अव्यात् रक्षतात् । कीदृशोऽयं? नराशंसो नरैः शंसनीयः । ग्नास्पतिः छन्दसां पालयिता । 'छन्दाँसि वै ग्नाः' इति श्रुत्यन्तरात् । देवपत्न्यो वा ग्नाशब्देनाभिधीयन्ते 'उतग्नावियन्तु देवपत्नी' इति मन्त्रवर्णात् । अयशब्द एतव्यं प्राप्तः व्यमाचष्टे । आसमन्तात् अये प्राप्तव्ये रयीणां धनानां संगथे संगमे निमित्तभूते सति वामस्य सर्वेषां वननीयस्य सवितुर्देवस्य वयं प्रियाः स्याम ॥
 </details>
-

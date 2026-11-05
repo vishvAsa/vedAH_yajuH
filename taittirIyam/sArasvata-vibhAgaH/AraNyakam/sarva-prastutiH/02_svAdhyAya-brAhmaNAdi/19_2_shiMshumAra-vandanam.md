@@ -4,7 +4,6 @@ title: २२ ३ शिंशुमार-वन्दनम्
 unicode_script: devanagari
 
 ---
-
 <details><summary>विश्वास-टिप्पनी</summary>
 
 ![](../../images/dolphin.jpg)
@@ -17,7 +16,6 @@ unicode_script: devanagari
 (ब्रह्माण्डपुराणस्य 23.101-104 इत्यनेन तोलनीयम् - [यथोक्तमत्र](https://twitter.com/blog_supplement/status/960345623500386305)।)
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2अधुना ईश्वरस्य शरीरस्थानीयम् अंशपरिणामं विश्वोपादानं शिशुमारदेहत्वेन रूपयति - यस्मा इति ॥ 
@@ -25,8 +23,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस्मै॒ नम॒स्  
-तच्छिरो॒ धर्मो॑ मू॒र्धानं॑  
+य᳓स्मै न᳓मस्  
+त᳓च्छि᳓रो ध᳓र्मो मूर्धा᳓नं  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -43,7 +41,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म+उत्त॑रा॒ हनु॑र् य॒ज्ञोऽध॑रा॒  
+ब्रह्म᳓+उ᳓त्तरा ह᳓नुर् यज्ञो᳓ऽधरा  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -58,7 +56,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णु॒र् हृद॑यँ  
+वि᳓ष्णुर् हृ᳓दयँ  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -73,7 +71,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सव्ँवत्स॒रः प्र॒जन॑नम्  
+सव्ँ᳓व᳓त्सरः᳓ प्रज᳓ननम्  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -83,7 +81,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्विनौ॑ पूर्व॒पादा॑व्  
+अश्वि᳓नौ पूर्वपा᳓दाव्  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -98,7 +96,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒त्रिर् मध्यं॑  
+अत्रि᳓र् म᳓ध्यं  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -113,7 +111,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रावरु॑णाव् अपर॒पादा॑व्  
+मित्रा᳓व᳓रुणाव् अपरपा᳓दाव्  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -128,7 +126,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निः पुच्छ॑स्य प्रथ॒मङ्काण्ड॒न्, तत॒ इन्द्र॒स्, ततः॑ प्र॒जाप॑ति॒र्, अभ॑यञ् चतु॒र्थम्।  
+अग्निः᳓ पु᳓च्छस्य प्रथम᳓ङ्का᳓ण्डन्, त᳓त इ᳓न्द्रस्, त᳓तः प्रजा᳓पतिर्, अ᳓भयञ् चतुर्थ᳓म्।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -141,10 +139,9 @@ unicode_script: devanagari
 अग्न्यादयः पुच्छख्य प्रथमादीनि काण्डानि पर्वाणि । अग्नीन्द्रौ गतौ । प्रजापतिः कश्यपाख्योष्टमस्सूर्यः । अभयमिति ध्रुवात्मकं ब्रह्मैव, यतः प्रभृत्य् उपाधिभयं नास्ति ॥  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स वा ए॒ष दि॒व्यश् शा॑क्व॒रश् शिशु॑मार॒स्
+स᳓ वा᳓ एष᳓ दिव्य᳓श् शाक्वर᳓श् शि᳓शुमारस्
 </details>
 
 <details><summary>मूलम्</summary>
@@ -157,11 +154,10 @@ unicode_script: devanagari
 3स वा एष दिव्यः दिवि भवः शाक्वरः महाशक्तिः। यद्वा - शाक्वरः वृषभस् तद्वान् स एव वा । यद्वा - सप्तव्यूहव्याप्त विश्वः शिरोमूर्धहनुहृदयपादमध्यपुच्छात्मकत्वात् । शिशुमारो ग्राहविशेषः, तदाकारेण रूपितत्वादेवमुच्यते । अन्य आह - शिशून् अज्ञानेव अयं मारयति न विदुष इति ॥  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तँ ह॒ य ए॒वव्ँ वेदाप॑ पुनर्मृ॒त्युञ्ज॑यति॒।
-जय॑ति स्व॒र्गल्लो॒कम्
+तँ᳓ ह य᳓ एवव्ँ᳓ वे᳓दा᳓प पुनर्मृत्यु᳓ञ्जयति।
+ज᳓यति स्वर्ग᳓ल्लोक᳓म्
 </details>
 
 <details><summary>मूलम्</summary>
@@ -177,7 +173,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाध्वनि॒ प्रमी॑यते॒।
+ना᳓ध्व᳓नि प्र᳓मीयते।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -187,9 +183,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाप्सु प्रमी॑यते॒  
-नाग्नौ प्रमी॑यते॒  
-नान॒पत्यः॑ प्रमी॒यते॑।  
+ना᳓प्सु᳓ प्र᳓मीयते  
+ना᳓ग्नौ᳓ प्र᳓मीयते  
+ना᳓नप᳓त्यः प्रमीय᳓ते।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -204,10 +200,9 @@ unicode_script: devanagari
 अध्वादिविषयं पापमरणं तस्य नास्ति । अनपत्यमरणं च पापं, सन्तानोच्छेदेन पितॄणां शोकहेतुत्वात् । 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ल॒घ्वान्नो॑ भवति।
+लघ्वा᳓न्नो भवति।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -219,6 +214,3 @@ unicode_script: devanagari
 
 अलघ्वान+++(=??)+++ इति सर्वदा सर्वत्र सुलभत्वात् । छान्दसं दीर्घत्वम् ॥  
 </details>
-
-
-

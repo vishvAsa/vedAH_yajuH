@@ -18,7 +18,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-- अ॒ग्नेᳵ कृत्ति॑काः । शु॒क्रं+++(=दैवतविशेषः)+++ प॒रस्ता॒ज् ज्योति॑र् अवस्ता॑त् ।
+- अग्नेᳵ᳓ कृ᳓त्तिकाः । शुक्रं᳓+++(=दैवतविशेषः)+++ पर᳓स्ताज् ज्यो᳓तिर् अ᳓व᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -33,7 +33,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑ते रोहि॒णी । आप॑ᳶ प॒रस्ता॒द् ओष॑धयो॒ ऽवस्ता॑त् ।
+प्रजा᳓पते रोहिणी᳓ । आ᳓पᳶ पर᳓स्ताद् ओ᳓षधयो ऽव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -48,7 +48,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-- सोम॑स्येन्व॒का । वित॑तानि प॒रस्ता॒द् वय॑न्तो॒ऽवस्ता॑त् ।
+- सो᳓मस्येन्वका᳓ । वि᳓ततानि पर᳓स्ताद् व᳓यन्तोऽव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -63,7 +63,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-- रु॒द्रस्य॑ बा॒हू +++(=आर्द्राया उपलक्षणम् - प्रयत्नहेतुत्वात्)+++। मृ॒ग॒यव॑ᳶ प॒रस्ता॑द् विक्षा॒रो॑ऽवस्ता॑त् ।
+- रुद्र᳓स्य बाहू᳓ +++(=आर्द्राया उपलक्षणम् - प्रयत्नहेतुत्वात्)+++। मृगय᳓वᳶ पर᳓स्ताद् विक्षारो᳙ऽव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -78,7 +78,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आदि॑त्यै॒ पुन॑र्वसू । वात॑ᳶ प॒रस्ता॑द् आ॒र्द्रम् अ॒वस्ता॑त् ॥ 1 ॥  
+आ᳓दित्यै पु᳓नर्वसू । वा᳓तᳶ पर᳓स्ताद् आर्द्र᳓म् अव᳓स्तात् ॥ 1 ॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -93,7 +93,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-- बृह॒स्पते॑स्ति॒ष्यः॑ । जुह्व॑तᳶ प॒रस्ता॒द् यज॑माना अ॒वस्ता॑त् ।
+- बृ᳓हस्प᳓तेस्तिष्यः᳙ । जु᳓ह्वतᳶ पर᳓स्ताद् य᳓जमाना अव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -108,7 +108,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒र्पाणा॑म् आश्रे॒षाः । अ॒भ्या॒गच्छ॑न्तᳶ प॒रस्ता॑द् अभ्या॒नृत्य॑न्तो॒ ऽवस्ता॑त् ।
+सर्पा᳓णाम् आश्रेषाः᳓ । अभ्याग᳓च्छन्तᳶ पर᳓स्ताद् अभ्यानृ᳓त्यन्तो ऽव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -123,7 +123,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पि॒तृ॒णाम् म॒घाः । रु॒दन्त॑ᳶ प॒रस्ता॑द् अपभ्रँ॒शो॑ ऽवस्ता॑त् ।
+पितृणा᳓म् मघाः᳓ । रुद᳓न्तᳶ पर᳓स्ताद् अपभ्रँशो᳙ ऽव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -138,7 +138,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒र्य॒म्णᳶ पूर्वे॒ फल्गु॑नी । जा॒या प॒रस्ता॑द् ऋष॒भो॑ ऽवस्ता॑त् ।
+अर्यम्णᳶ᳓ पू᳓र्वे फ᳓ल्गुनी । जाया᳓ पर᳓स्ताद् ऋषभो᳙ ऽव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -153,7 +153,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भग॒स्योत्त॑रे । व॒ह॒तव॑ᳶ प॒रस्ता॒द् वह॑माना अ॒वस्ता॑त् ॥ 2 ॥  
+भ᳓गस्यो᳓त्तरे । वहत᳓वᳶ पर᳓स्ताद् व᳓हमाना अव᳓स्तात् ॥ 2 ॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -168,7 +168,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ सवि॒तुर् हस्तः॑ । प्र॒स॒वᳶ प॒रस्ता॑त् स॒निर् अ॒वस्ता॑त् ।
+देव᳓स्य सवितु᳓र् ह᳓स्तः । प्रसवᳶ᳓ पर᳓स्तात् सनि᳓र् अव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -183,7 +183,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य चि॒त्रा । ऋ॒तम् प॒रस्ता॑त् स॒त्यम् अ॒वस्ता॑त् ।
+इ᳓न्द्रस्य चित्रा᳓ । ऋत᳓म् पर᳓स्तात् सत्य᳓म् अव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -204,7 +204,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒योर् निष्ट्या॑ । व्र॒ततिᳶ प॒रस्ता॑द्, असि॑द्धिर् अ॒वस्ता॑त् ।
+वायो᳓र् नि᳓ष्ट्या । व्रत᳓तिᳶ᳓ पर᳓स्ताद्, अ᳓सिद्धिर् अव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -219,7 +219,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒न्द्रा॒ग्नि॒योर् विशा॑खे । यु॒गानि॑ प॒रस्ता॑त् कृ॒षमा॑णा अ॒वस्ता॑त् ।
+इन्द्राग्नियो᳓र् वि᳓शाखे । युगा᳓नि पर᳓स्तात् कृष᳓माणा अव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -234,7 +234,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रस्या॑नूरा॒धाः । अ॒भ्या॒रोह॑त् प॒रस्ता॑द् अ॒भ्यारू॑ढम् अ॒वस्ता॑त् ॥3 ॥
+मित्र᳓स्यानूराधाः᳓ । अभ्यारो᳓हत् पर᳓स्ताद् अभ्या᳓रूढम् अव᳓स्तात् ॥3 ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -249,7 +249,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-- इन्द्र॑स्य रोहि॒णी +++(→ज्येष्ठा लक्षिता, सङ्ग्रामारोहणात्)+++ । शृ॒णत् प॒रस्ता॑त् प्रतिशृ॒णद॒वस्ता॑त् ।
+- इ᳓न्द्रस्य रोहिणी᳓ +++(→ज्येष्ठा लक्षिता, सङ्ग्रामारोहणात्)+++ । शृण᳓त् पर᳓स्तात् प्रतिशृण᳓दव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -264,7 +264,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्ऋ॑त्यै मूल॒-वर्ह॑णी+++(←वृहू उद्यमने)+++ । प्र॒ति॒भ॒ञ्जन्त॑ᳶ प॒रस्ता॑त् प्रतिशृ॒णन्तो॒ ऽवस्ता॑त्  ।
+नि᳓रृत्यै मूल-व᳓र्हणी+++(←वृहू उद्यमने)+++ । प्रतिभञ्ज᳓न्तᳶ पर᳓स्तात् प्रतिशृण᳓न्तो ऽव᳓स्तात्  ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -279,7 +279,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पाम् पूर्वा॑ अषा॒ढाः । वर्च॑ᳶ प॒रस्ता॒त् समि॑तिर् अ॒वस्ता॑त् ।
+अपा᳓म् पू᳓र्वा अषाढाः᳓ । व᳓र्चᳶ पर᳓स्तात् स᳓मितिर् अव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -294,7 +294,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वे॑षान् दे॒वाना॒म् उत्त॑राः ।  अ॒भि॒जय॑त् प॒रस्ता॑द् अ॒भिजि॑तम् अ॒वस्ता॑त् ।
+वि᳓श्वेषान् देवा᳓नाम् उ᳓त्तराः ।  अभिज᳓यत् पर᳓स्ताद् अभि᳓जितम् अव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -309,7 +309,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॑श् श्रो॒णा । पृ॒च्छमा॑नाᳶ प॒रस्ता॒त् पन्था॑ अ॒वस्ता॑त् ॥ 4 ॥  
+वि᳓ष्णोश् श्रोणा᳓ । पृच्छ᳓मानाᳶ पर᳓स्तात् प᳓न्था अव᳓स्तात् ॥ 4 ॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -325,7 +325,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वसू॑नाँ॒ श्रवि॑ष्ठाः । भू॒तम् प॒रस्ता॒द् भूति॑र् अ॒वस्ता॑त् ।
+व᳓सूनाँ श्र᳓विष्ठाः । भूत᳓म् पर᳓स्ताद् भू᳓तिर् अव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -340,7 +340,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य श॒तभि॑षक् । वि॒श्वव्य॑चाᳶ प॒रस्ता॑द् वि॒श्वक्षि॑तिर् अ॒वस्ता॑त् ।
+इ᳓न्द्रस्य शत᳓भिषक् । विश्व᳓व्यचाᳶ पर᳓स्ताद् विश्व᳓क्षितिर् अव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -355,7 +355,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒जस्यैक॑पद॒ᳶ पूर्वे॑ प्रोष्ठप॒दाः । वै॒श्वा॒न॒रम् प॒रस्ता॑द् वैश्वावस॒वम् अ॒वस्ता॑त् ।
+अज᳓स्यै᳓कपदᳶ पू᳓र्वे प्रोष्ठपदाः᳓ । वैश्वानर᳓म् पर᳓स्ताद् वैश्वावसव᳓म् अव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -370,7 +370,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहे॑र् बु॒ध्निय॒स्योत्त॑रे । अ॒भि॒षि॒ञ्चन्त॑ᳶ प॒रस्ता॑द् अभिषु॒ण्वन्तो॒ ऽवस्ता॑त् ।
+अ᳓हेर् बुध्नि᳓यस्यो᳓त्तरे । अभिषिञ्च᳓न्तᳶ पर᳓स्ताद् अभिषुण्व᳓न्तो ऽव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -385,7 +385,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒ष्णो रे॒वती॑ । गाव॑ᳶ प॒रस्ता॑द् व॒त्सा अ॒वस्ता॑त् ।
+पूष्णो᳓ रेव᳓ती । गा᳓वᳶ पर᳓स्ताद् वत्सा᳓ अव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -400,7 +400,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्विनो॑र् अश्व॒युजौ॑ । ग्राम॑ᳶ प॒रस्ता॒त् सेना॒ ऽवस्ता॑त् ।
+अश्वि᳓नोर् अश्वयु᳓जौ । ग्रा᳓मᳶ पर᳓स्तात् से᳓ना ऽव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -415,7 +415,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒मस्या॑प॒भर॑णीः । अ॒प॒कर्ष॑न्तᳶ प॒रस्ता॑द् अप॒वह॑न्तो॒ ऽवस्ता॑त् ।
+यम᳓स्यापभ᳓रणीः । अपक᳓र्षन्तᳶ पर᳓स्ताद् अपव᳓हन्तो ऽव᳓स्तात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -430,25 +430,24 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒र्णा प॒श्चाद् ..
+पूर्णा᳓ पश्चा᳓द् ..
 </details>
 
 <details><summary>मूलम्</summary>
 
 पू॒र्णा प॒श्चाद् ..
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
-<details open><summary><h2>29 पूर्णा पश्चादुत ...{Loading}...</h2></summary>
 
-पू॒र्णा प॒श्चाद् उ॒त पू॒र्णा पु॒रस्ता॑त्।  
-उन् म॑ध्य॒तᳶ पौ॑र्णमा॒सी **जि॑गाय** +++(शत्रून्)+++।  
-तस्या॑न् दे॒वा अधि॑ **सव्ँ॒वस॑न्तः**।  
-उ॒त्त॒मे नाक॑ इ॒ह **मा॑दयन्ताम्**।  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
 
-</details>
+पूर्णा᳓ पश्चा᳓द् उत᳓ पूर्णा᳓ पुर᳓स्तात्।  
+उ᳓न् मध्यतᳶ᳓ पौर्णमासी᳓ **जिगाय** +++(शत्रून्)+++।  
+त᳓स्यान् देवा᳓ अ᳓धि **सव्ँव᳓सन्तः**।  
+उत्तमे᳓ ना᳓क इह᳓ **मादयन्ताम्**।  
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
-<details open><summary><h2>29 पूर्णा पश्चादुत ...{Loading}...</h2></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
 <details><summary>मूलम्</summary>
 
 पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता॑त् ।   
@@ -468,8 +467,8 @@ _________________
 
 29पौर्णमास्याः - पूर्णा पश्चादिति ॥ व्याख्याता पञ्चमाद्ये ॥
 </details>
-</details>
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 28-29 'पूर्णा पश्चात्, यत्ते देवा अदधुः'इत्येतयोः 'कृत्तिका नक्षत्रम्' इत्यत्रैव विनियोगः । व्याख्याते चैते औपानुवाक्ये । तयोरेतत् प्रतीकग्रहणम् । 
@@ -477,25 +476,24 @@ _________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् ते॑ दे॒वा अद॑धुः ..
+य᳓त् ते देवा᳓ अ᳓दधुः ..
 </details>
 
 <details><summary>मूलम्</summary>
 
 यत् ते॑ दे॒वा अद॑धुः ..
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/30_yatte_devA.md">
-<details open><summary><h2>30 यत्ते देवा ...{Loading}...</h2></summary>
 
-यत् ते॑ दे॒वा **अद॑धुर्** भाग॒-धेय॒म्  
-अमा॑वास्ये **सव्ँ॒वस॑न्तो** महि॒त्वा।  
-सा नो॑ य॒ज्ञम् **पि॑पृहि**+++(←पालनपूरणयोः)+++ विश्व-वारे+++(←वरणे?)+++  
-र॒यिन् नो॑ **धेहि** सुभगे सु॒वीर॑म्॥  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/30_yatte_devA.md">
 
-</details>
+य᳓त् ते देवा᳓ **अ᳓दधुर्** भाग-धे᳓यम्  
+अ᳓मावास्ये **सव्ँव᳓सन्तो** महित्वा᳓।  
+सा᳓ नो यज्ञ᳓म् **पिपृहि**+++(←पालनपूरणयोः)+++ विश्व-वारे+++(←वरणे?)+++  
+रयि᳓न् नो **धेहि** सुभगे सुवी᳓रम्॥  
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/30_yatte_devA.md">
-<details open><summary><h2>30 यत्ते देवा ...{Loading}...</h2></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/30_yatte_devA.md">
 <details><summary>मूलम्</summary>
 
 यत्ते॑ दे॒वा अद॑धुर्भाग॒धेय॒ममा॑वास्ये सव्ँ॒वस॑न्तो महि॒त्वा ।   
@@ -515,8 +513,8 @@ ________________
 अथ द्वितीया - हे अमावास्ये! तुभ्यं देवाः यस्माद्भागधेयमादधुः संवसन्तः सहासीना महिम्ना माहात्म्येन, सा त्वं हे विश्ववारे! विश्वकाले नोऽस्माकं यज्ञं पिपृहि पालय, हे सुभगे नोऽस्मभ्यं सुवीरं शोभनपुत्रादिकं धनं धेहि इति ॥
 
 </details>
-</details>
 </div>
+
 <details><summary>विस्वरपाठः (द्रष्टुं नोद्यम्)</summary>
 
 अग्नेᳵ कृत्तिकाः । शुक्रं परस्ताज्ज्योतिरवस्तात् । प्रजापते रोहिणी । आपᳶ परस्तादोषधयोऽवस्तात् । सोमस्येन्वका विततानि । परस्ताद्वयन्तोऽवस्तात् । रुद्रस्य बाहू । मृगयवᳶ परस्ताद्विक्षारोऽवस्तात् । आदित्यै पुनर्वसू । वातः परस्तादार्द्रमवस्तात् ॥ 1 ॥

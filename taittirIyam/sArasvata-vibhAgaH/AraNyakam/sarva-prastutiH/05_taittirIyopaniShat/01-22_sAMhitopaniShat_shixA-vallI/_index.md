@@ -1,22 +1,19 @@
 +++
 title = "+०१-२२ सांहितोपनिषत् शिक्षा-वल्ली"
-
 +++
 ## प्रवेशः
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="01_shanno_mitraH_prArambhe">
-<details open><summary><h2>०१ शन्नो मित्रः प्रारम्भे ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="01_shanno_mitraH_prArambhe">
+<details open><summary><h2>०१ शन्नो मित्रः प्रारम्भे …{Loading}…</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/05_taittirIyopaniShat/shanno_mitraH.md">
-<details open><summary><h4>शन्नो मित्रः ...{Loading}...</h4></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शन् नो॑ मि॒त्रश्, शव्ँ वरु॑णः ।  
-शन् नो॑ भवत्व् अर्य॒मा ।  
-शन् न॒ इन्द्रो॒ बृह॒स्पतिः॑ ।  
-शन् नो॒ विष्णु॑र् उरुक्र॒मः ।  
-नमो॒ ब्रह्म॑णे ।  
-नम॑स् ते वायो । त्वम् ए॒व प्र॒त्यक्षं॒ ब्रह्मा॑सि ।
-</details>
+श᳓न् नो मित्र᳓श्, शव्ँ᳓ व᳓रुणः ।  
+श᳓न् नो भवत्व् अर्यमा᳓ ।  
+श᳓न् न इ᳓न्द्रो बृ᳓हस्प᳓तिः ।  
+श᳓न् नो वि᳓ष्णुर् उरुक्रमः᳓ ।  
+न᳓मो ब्र᳓ह्मणे ।  
+न᳓मस् ते वायो । त्व᳓म् एव᳓ प्रत्य᳓क्षं ब्र᳓ह्मासि ।
 </details>
 </div>  
 
@@ -67,20 +64,20 @@ title = "+०१-२२ सांहितोपनिषत् शिक्ष�
 
 ## प्रकीर्णम्
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/01-22_sAMhitopaniShat_shixA-vallI/07_yash_ChandasAm">
-<details open><summary><h2>०७ यश् छन्दसाम् ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/01-22_sAMhitopaniShat_shixA-vallI/07_yash_ChandasAm">
+<details open><summary><h2>०७ यश् छन्दसाम् …{Loading}…</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(ॐकारः→)+++ यश् छन्द॑साम् ऋष॒भो वि॒श्वरू॑पः।  
-छन्दो॒भ्यो ऽध्य॒मृता॑त् संब॒भूव॑।  
-स मेन्द्रो॑ मे॒धया॑ स्पृणोतु।  
-अ॒मृत॑स्य देव॒! धार॑णो भूयासम्।  
-शरी॑रं मे॒ विच॑र्षणम्।  
-जि॒ह्वा मे॒ मधु॑मत्तमा।  
-कर्णा॑भ्यां॒ भूरि॒ विश्रु॑वम्।  
-ब्रह्म॑णः को॒शो॑ऽसि मे॒धया पि॑हितः।  
-श्रु॒तं मे॑ गोपाय।  
-ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥
++++(ॐकारः→)+++ य᳓श् छ᳓न्दसाम् ऋषभो᳓ विश्व᳓रूपः।  
+छ᳓न्दोभ्यो᳓ ऽध्यमृ᳓तात् संबभू᳓व।  
+स᳓ मे᳓न्द्रो मेध᳓या स्पृणोतु।  
+अमृ᳓तस्य देव! धा᳓रणो भूयासम्।  
+श᳓रीरं मे वि᳓चर्षणम्।  
+जिह्वा᳓ मे म᳓धुमत्तमा।  
+क᳓र्णाभ्यां भू᳓रि वि᳓श्रुवम्।  
+ब्र᳓ह्मणः कोशो᳙ऽसि मेध᳓या᳓ पिहितः।  
+श्रुतं᳓ मे गोपाय।  
+ॐ शा᳓न्तिः शा᳓न्तिः शा᳓न्तिः ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -114,20 +111,23 @@ title = "+०१-२२ सांहितोपनिषत् शिक्ष�
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/05_taittirIyopaniShat/02_AvahantI_vitanvAnA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-आ॒वह॑न्ती वितन्वा॒ना,,  
-कु॒र्वा॒णा चीर॑म् आ॒त्मनः॑ ।  
-वासाँ॑सि॒ मम॒ गाव॑श् च,,  
-अ॒न्न॒पा॒ने च॑ सर्व॒दा ।  
-ततो॑ मे॒ श्रिय॒म् आव॑ह,,  
-लो॒म॒शां प॒शुभि॑स् स॒ह  
-स्वाहा॑ ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/05_taittirIyopaniShat/02_AvahantI_vitanvAnA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+आव᳓हन्ती वितन्वाना᳓,,  
+कुर्वाणा᳓ ची᳓रम् आत्म᳓नः ।  
+वा᳓साँसि म᳓म गा᳓वश् च,,  
+अन्नपाने᳓ च सर्वदा᳓ ।  
+त᳓तो मे श्रि᳓यम् आ᳓वह,,  
+लोमशां᳓ पशु᳓भिस् सह᳓  
+स्वा᳓हा ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/05_taittirIyopaniShat/02_AvahantI_vitanvAnA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/05_taittirIyopaniShat/02_AvahantI_vitanvAnA.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 आ॒वह॑न्ती वितन्वा॒ना,,  
@@ -259,11 +259,12 @@ title = "+०१-२२ सांहितोपनिषत् शिक्ष�
 सुमेधा अ॑मृतो॒क्षितः ।  
 इति त्रिशङ्कोर् वेदा॑नुव॒चनम् । (17)
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="18-21_veda-sAraH/">
-<details open><summary><h2>१८-२१ वेद-सारः ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="18-21_veda-sAraH/">
+<details open><summary><h2>१८-२१ वेद-सारः …{Loading}…</h2></summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-॥ शीक्षावल्ली तैत्तिरीयोपनिषदि ॥ आङ्ग्लानुवादस् सरसो [ऽत्र](https://sanskritdocuments.org/doc_upanishhat/shikshaavalii.html)।
+॥ शीक्षावल्ली तैत्तिरीयोपनिषदि ॥ आङ्ग्लानुवादस् सरसो [ऽत्र](https://sanskritdocuments.org/doc_upanishhat/shikshaavalii.html)।  
+स्वरा व्याकरणं व्यभिचरन्त्य् अत्र। 
 </details>
 
 वेदमनूच्याचार्यो ऽन्तेवासिनम् अ॑नुशा॒स्ति ।  
@@ -303,19 +304,18 @@ title = "+०१-२२ सांहितोपनिषत् शिक्ष�
 एष॑ आदे॒शः । एष उ॑पदे॒शः । एषा वे॑दोप॒निषत् । एतद॑नुशा॒सनम् । एवमुपा॑सित॒व्यम् । एवम् उ चैत॑दुपा॒स्यम् ॥ (21)
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="22_shanno_mitraH_samApanam/">
-<details open><summary><h2>२२ शन्नो मित्रः समापनम् ...{Loading}...</h2></summary>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="22_shanno_mitraH_samApanam/">
+<details open><summary><h2>२२ शन्नो मित्रः समापनम् …{Loading}…</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/05_taittirIyopaniShat/shanno_mitraH.md">
-<details open><summary><h4>शन्नो मित्रः ...{Loading}...</h4></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शन् नो॑ मि॒त्रश्, शव्ँ वरु॑णः ।  
-शन् नो॑ भवत्व् अर्य॒मा ।  
-शन् न॒ इन्द्रो॒ बृह॒स्पतिः॑ ।  
-शन् नो॒ विष्णु॑र् उरुक्र॒मः ।  
-नमो॒ ब्रह्म॑णे ।  
-नम॑स् ते वायो । त्वम् ए॒व प्र॒त्यक्षं॒ ब्रह्मा॑सि ।
-</details>
+श᳓न् नो मित्र᳓श्, शव्ँ᳓ व᳓रुणः ।  
+श᳓न् नो भवत्व् अर्यमा᳓ ।  
+श᳓न् न इ᳓न्द्रो बृ᳓हस्प᳓तिः ।  
+श᳓न् नो वि᳓ष्णुर् उरुक्रमः᳓ ।  
+न᳓मो ब्र᳓ह्मणे ।  
+न᳓मस् ते वायो । त्व᳓म् एव᳓ प्रत्य᳓क्षं ब्र᳓ह्मासि ।
 </details>
 </div>  
 

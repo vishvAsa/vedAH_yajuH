@@ -1,22 +1,29 @@
 +++
 title = "०२ प्रजापतिः"
-
 +++
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6अथ 'यः प्रजाकामः पशुकामस्स्यात्स एतं प्राजापत्यमजं तूबरमालभेत' इत्यस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
-<details open><summary><h2>१० प्रजापते न ...{Loading}...</h2></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
 
 प्र᳓जापते न᳓ त्व᳓द् +++(विश्वा जातानि→)+++ एता᳓न्य् अन्यो᳓  
 वि᳓श्वा जाता᳓नि **प᳓रि** ता᳓ **बभूव** ।  
 य᳓त्-कामास् ते जुहुम᳓स् त᳓न् नो **अस्तु**  
 वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म्॥
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/121/10_prajApate_na.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
+
+प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव ।  
+यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
-<details open><summary><h2>010 ...{Loading}...</h2></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कः
@@ -265,6 +272,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एतावदस्मिन् सूक्ते शाखाचन्द्रन्यायेन हिरण्यगर्भविशिष्टं हिरण्यगर्भस्य स्वरूपं स्तुतम्।  इदानीमन्तिमे मन्त्रे हिरण्यगर्भस्य स्वरूपं साक्षात् स्तूयते। हिरण्यगर्भस्य मातरो मूलशक्तिधाराः  स्तुताः। तत्पिताऽत्र परमात्मा स्तूयते। प्रजापते- प्रजानां स्वामिन्। त्वत्- त्वत्तः। अन्यः-  इतरः। ता तानि। एतानि- इमानि। विश्वा- सर्वाणि। जातानि- उद्भूतानि। न। परि बभूव- परितो  व्याप्तो भवति। यत्कामाः- यदिच्छया। ते- त्वाम्। जुहुमः- आह्वयामः। तत्। नः- अस्माकम्।  अस्तु- भवतु। वयम्। रयीणाम्- दानयोग्यसम्पदाम्। पतयः- स्वामिनः। स्याम- भवेम॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **प्रजापते** **त्वत्** त्वत्तोऽन्यः कश्चित् **एतानि** इदानीं वर्तमानानि **विश्वा** विश्वानि सर्वाणि ॥  ‘ शेश्छन्दसि बहुलम् ' इति शेर्लोपः ॥ **जातानि** प्रथमविकारभाञ्जि **ता** तानि सर्वाणि भूतजातानि **न** **परि** **बभूव**  न परिगृह्णाति । न व्याप्नोति । त्वमेवैतानि परिगृह्य स्रष्टुं शक्नोषीति भावः । परिपूर्वो भवतिः परिग्रहार्थः । वयं च **यत्कामाः** यत्फलं कामयमानाः **ते** तुभ्यं जुहुमः हवींषि प्रयच्छामः **तत्** फलं **नः** अस्माकम् **अस्तु** भवतु । तथा **वयं** च **रयीणां** धनानां **पतयः** ईश्वराः **स्याम** भवेम ॥ नामन्यतरस्याम् ' इति नाम उदात्तत्वम् ॥ ॥ ४ ॥
@@ -367,14 +379,14 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 पदार्थान्वयभाषाः -  (प्रजापते) हे प्रजायमानानां पालयितः स्वामिन् ! (त्वत्-अन्यः) त्वत्तो भिन्नः (ता-एतानि विश्वा जातानि न परि बभूव) सर्वाणि खलूत्पन्नानि तानि पूर्वाणि तथेमानि सम्प्रत्युत्पन्नानि वस्तूनि न परि भवति-नाधिकरोति (यत्कामाः-ते जुहुमः) यः कामो येषां ते तुभ्यं स्वात्मभावं समर्पयेम (तत्-नः-अस्तु) तदभीष्टमस्मभ्यं भवतु (वयं रयीणां पतयः स्याम) वयं सर्वविधधनानां स्वामिनो भवेम ॥१०॥
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजा॑पते॒ न त्वदे॒तान्य॒न्यः ।  
-विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव ।  
-यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु ॥ 2 ॥  
-व॒यँ स्या॑म॒ पत॑यो रयी॒णाम् ।  
+प्र᳓जापते न᳓ त्व᳓देता᳓न्यन्यः᳓ ।  
+वि᳓श्वा जाता᳓नि प᳓रि ता᳓ बभूव ।  
+य᳓त्कामास्ते जुहुम᳓स्त᳓न्नो अस्तु ॥ 2 ॥  
+वयँ᳓ स्याम प᳓तयो रयीणा᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -389,17 +401,20 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 2अथ वपाया याज्यामाह - 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-र॒यी॒णाम् पतिय्ँ॑ **यज॒तम्**+++(=यजनीयम्)+++ बृ॒हन्त॑म् ।  
-अ॒स्मिन् भरे॒ नृत॑मव्ँ॒ वाज॑+++(=अन्न)+++-**सातौ**+++(=दाने)+++ ।  
-प्र॒जा-प॑तिम् प्रथम॒-जाम् ऋ॒तस्य॑ ।   
-**यजा॑म** दे॒वम् अधि॑ नो **ब्रवीतु** ।
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+रयीणा᳓म् प᳓तिय्ँ **यजत᳓म्**+++(=यजनीयम्)+++ बृह᳓न्तम् ।  
+अस्मि᳓न् भ᳓रे नृ᳓तमव्ँ वा᳓ज+++(=अन्न)+++-**सातौ**+++(=दाने)+++ ।  
+प्रजा᳓-पतिम् प्रथम-जा᳓म् ऋत᳓स्य ।   
+**य᳓जाम** देव᳓म् अ᳓धि नो **ब्रवीतु** ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 र॒यी॒णाम् पतिय्ँ॑ यज॒तम् बृ॒हन्त॑म् ।  
@@ -414,21 +429,25 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 8अथ पुरोडाशस्य पुरोनुवाक्यामाह - 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-प्रजा॑-पते॒ त्वन् नि॑धि॒-**पाᳶ** पु॑रा॒णः ।  
-दे॒वाना॑म् पि॒ता, ज॑नि॒ता प्र॒जाना॑म् ।  
-पति॒र् विश्व॑स्य॒, जग॑तᳶ पर॒स्-**पाः**+++(=पालकः)+++ ।   
-ह॒विर् नो॑ देव विह॒वे+++(=यज्ञे)+++ **जु॑षस्व** ।
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+प्र᳓जा-पते त्व᳓न् निधि-**पाᳶ᳓** पुराणः᳓ ।  
+देवा᳓नाम् पिता᳓, जनिता᳓ प्रजा᳓नाम् ।  
+प᳓तिर् वि᳓श्वस्य, ज᳓गतᳶ परस्-**पाः᳓**+++(=पालकः)+++ ।   
+हवि᳓र् नो देव विहवे᳓+++(=यज्ञे)+++ **जुषस्व** ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 प्रजा॑पते॒ त्वन्नि॑धि॒पाᳶ पु॑रा॒णः ।  
@@ -443,21 +462,25 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 9अथ पुरोडाशस्य याज्यामाह - 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-तवे॒मे लो॒काᳶ प्र॒दिशो॒ दिश॑श् च ॥ 3 ॥  
-प॒रा॒वतो॑ नि॒वत॑+++(=अधरा)+++ उ॒द्वत॑श्+++(=ऊर्ध्वाश्)+++ च ।  
-प्रजा॑पते विश्व॒-**सृज्** जी॒व-ध॑न्य  
-इ॒दन् नो॑ देव **प्रति॑हर्य** ह॒व्यम् ।
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+त᳓वेमे᳓ लोकाᳶ᳓ प्रदि᳓शो दि᳓शश् च ॥ 3 ॥  
+पराव᳓तो निव᳓त+++(=अधरा)+++ उद्व᳓तश्+++(=ऊर्ध्वाश्)+++ च ।  
+प्र᳓जापते विश्व-**सृ᳓ज्** जीव᳓-धन्य  
+इद᳓न् नो दे᳓व᳓ **प्र᳓तिहर्य** हव्य᳓म् ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 तवे॒मे लो॒काᳶ प्र॒दिशो॒ दिश॑श्च ॥ 3 ॥  
@@ -472,21 +495,25 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 10अथ हविषः पुरोनुवाक्यामाह - 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-प्र॒जाप॑तिम् प्रथ॒मय्ँ य॒ज्ञिया॑नाम् ।  
-दे॒वाना॒म् अग्रे॑ यज॒तय्ँ **य॑जध्वम्** ।  
-स नो॑ **ददातु॒** द्रवि॑णँ सु॒वीर्य॑म् ।  
-रा॒यस्-पोषव्ँ॒ **वि ष्य॑तु॒**+++(=शिथिलयतु)+++ नाभि॑म्+++(=नहनं)+++ अ॒स्मे ।
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+प्रजा᳓पतिम् प्रथमय्ँ᳓ यज्ञि᳓यानाम् ।  
+देवा᳓नाम् अ᳓ग्रे यजतय्ँ᳓ **यजध्वम्** ।  
+स᳓ नो **ददातु** द्र᳓विणँ सुवी᳓र्यम् ।  
+राय᳓स्-पो᳓षव्ँ **वि᳓ ष्यतु**+++(=शिथिलयतु)+++ ना᳓भिम्+++(=नहनं)+++ अस्मे᳓ ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिम् प्रथ॒मय्ँ य॒ज्ञिया॑नाम् ।  
@@ -501,21 +528,25 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 11अथ हविषो याज्यामाह - 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यो रा॒य **ईशे॑** शतदा॒य उ॒क्थ्यः॑ ।   
-यᳶ प॑शू॒नाँ **र॑क्षि॒ता** विष्ठि॑तानाम् ।  
-प्र॒जाप॑तिᳶ प्रथम॒-जा ऋ॒तस्य॑ ॥ 4 ॥  
-स॒हस्र॑-धामा **जुषताँ** ह॒विर् नः॑ ।
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+यो᳓ राय᳓ **ई᳓शे** शतदाय᳓ उक्थ्यः᳙ ।   
+यᳶ᳓ पशूनाँ᳓ **रक्षिता᳓** वि᳓ष्ठितानाम् ।  
+प्रजा᳓पतिᳶ प्रथम-जा᳓ ऋत᳓स्य ॥ 4 ॥  
+सह᳓स्र-धामा **जुषताँ** हवि᳓र् नः ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 यो रा॒य ईशे॑ शतदा॒य उ॒क्थ्यः॑ ।   

@@ -23,13 +23,12 @@ ________
 इति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
-+++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
-पू॒ष्णो हस्ता॑भ्याम्…
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
++++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
+पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
 
 <details><summary>Keith</summary>
@@ -63,12 +62,11 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ द॑दे ।
+आ᳓ ददे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -108,7 +106,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभ्रि॑र्+++(=अग्नीध्र-खनित्रम्)+++ असि ।
+अ᳓भ्रिर्+++(=अग्नीध्र-खनित्रम्)+++ असि ।
 </details>
 
 <details><summary>English</summary>
@@ -141,7 +139,7 @@ thou art the spade
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नारि॑र् असि।
+ना᳓रिर् असि।
 </details>
 
 <details><summary>English</summary>
@@ -184,14 +182,13 @@ ________
 इति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परि॑लिखितँ॒+++(=परिनाशितं)+++ रक्ष॒ᳶ  
-परि॑लिखिता॒ अरा॑तयः ।  
-इ॒दम् अ॒हँ रक्ष॑सो ग्री॒वा अपि॑ कृन्तामि ।  
-यो॑ऽस्मान् द्वेष्टि॒ यञ् च॑ व॒यन् द्वि॒ष्म- इ॒दम् अ॑स्य ग्री॒वा अपि॑ कृन्तामि ।
+प᳓रिलिखितँ+++(=परिनाशितं)+++ र᳓क्षᳶ  
+प᳓रिलिखिता अ᳓रातयः ।  
+इद᳓म् अहँ᳓ र᳓क्षसो ग्रीवा᳓ अ᳓पि कृन्तामि ।  
+यो᳓ऽस्मान् द्वेष्टि य᳓ञ् च वय᳓न् द्विष्म᳓- इद᳓म् अस्य ग्रीवा᳓ अ᳓पि कृन्तामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -254,7 +251,6 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 
 अनन्तरायं द्वयोर् मध्य एकतरस्याप्य् अन्तरायो यथा न भवति तथेत्य् अर्थः।
 </details>
-
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -283,13 +279,12 @@ ________
 इति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/dive_tvA.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/dive_tvA.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि॒वे त्वा॑  +++(प्रोक्षामि)+++ ।  
-अ॒न्तरि॑क्षाय त्वा  +++(प्रोक्षामि)+++ ।  
-पृ॒थि॒व्यै त्वा॑ +++(प्रोक्षामि)+++ ।
+दिवे᳓ त्वा  +++(प्रोक्षामि)+++ ।  
+अन्त᳓रिक्षाय त्वा  +++(प्रोक्षामि)+++ ।  
+पृथिव्यै᳓ त्वा +++(प्रोक्षामि)+++ ।
 
 </details>
 
@@ -326,7 +321,6 @@ To sky thee, to atmosphere thee, to earth thee!
 
 4अन्तर्वेद्यूर्ध्वाग्रं बर्हिस्स्थापयित्वा प्रोक्षति - दिव इति ॥ अग्रमध्यमूलेषु क्रमेण प्रोक्षणम् । सर्वत्र प्रोक्षामीति शेषः । यागनिर्वृत्तिद्वारेण द्युप्रभृतीनां लोकानां धारणार्थं प्रोक्षणं भवति । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना दिव इति विभक्तेरुदात्तत्वम् । पृथिव्या इत्यादौ 'उदात्तयणो हल्पूर्वात्' (पा.सू. 6.1.174) इति विभक्तेरुदात्तत्वम् ॥
 </details>
-
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -349,11 +343,10 @@ ________
 इति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/shundhantAm.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/shundhantAm.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शुन्ध॑ताल्ँ लो॒कᳶ पि॑तृ॒-षद॑नः ।
+शु᳓न्धताल्ँ लोकᳶ᳓ पितृ-ष᳓दनः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -381,6 +374,10 @@ Pure be the world where the Pitrs sit.
 7अवटे अपोवनयति - शुन्धतामिति ॥ 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+पितरः सीदन्त्य् अस्मिनन् इति पितृ-षदनो ऽवटाख्यो लोकः शुद्धो भवतु।
+</details>
 </div>  
 
 ________
@@ -398,13 +395,12 @@ ________
 इति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यवो॑ऽसि।  
-य॒वय॑+++(=अपनय)+++ +अ॒स्मद्-द्वेषः॑ ।    
-य॒वय॒ +अरा॑तीः ।
+य᳓वोऽसि।  
+यव᳓य+++(=अपनय)+++ +अस्म᳓द्-द्वे᳓षः ।    
+यव᳓य +अ᳓रातीः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -450,6 +446,10 @@ bar evil spirits.
 13तेषु यवान्प्रस्कन्दयति - यवोसीति ॥ व्याख्यातम् । 'प्राणेष्वेवोर्जं दधाति' `इति ब्राह्मणम् ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे धान्य त्वं यवो ऽसि अमिश्री-कर्ता ऽसि। अतो द्वेषिणो राक्षसान् इतरान् अपि शत्रून् अस्मत्तो वियोजय।
+</details>
 </div>  
 
 ________
@@ -467,11 +467,10 @@ ________
 इति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/pitRNAm.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/pitRNAm.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पि॒तृ॒णाँ+++(=पितॄणाम्)+++ सद॑नमसि।  
+पितृणाँ᳓+++(=पितॄणाम्)+++ स᳓दनमसि।  
 +++('नामन्यतरस्याम्' इति षष्ठीबहुवचनस्योदात्तत्वम्। )+++
 </details>
 
@@ -500,6 +499,10 @@ Thou art the seat of the Pitrs.
 6बर्हिर्हस्तं व्यतिषज्यावस्तृणाति - पितृणामिति ॥ व्याख्यातमेव । 'यद्बर्हिरनवस्तीर्य मिनुयात्पितृदेवत्यो निखातस्स्यात्' `इति ब्राह्मणम् ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+बर्हिर्-हस्तो बर्हिर्-मुष्टिः। हे बर्हिः पितृणां स्थानम् असि।
+</details>
 </div>  
 
 ________
@@ -519,9 +522,9 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद् दिवँ॑ स्तभान   ।  
-आ +अ॒न्तरि॑क्षम् पृण+++(=पूरय)+++ ।   
-पृ॒थि॒वीन् दृँ॑ह ।+++(5)+++
+उ᳓द् दि᳓वँ स्तभान   ।  
+आ᳓ +अन्त᳓रिक्षम् पृण+++(=पूरय)+++ ।   
+पृथिवी᳓न् दृँह ।+++(5)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -575,8 +578,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्यु॒ता॒नस्+++(=द्योतनशीलास्)+++ त्वा॑ मारु॒तो **मि॑नोतु**  
-मि॒त्रावरु॑णयोर् ध्रु॒वेण॒ धर्म॑णा।
+द्युतान᳓स्+++(=द्योतनशीलास्)+++ त्वा मारुतो᳓ **मिनोतु**  
+मित्रा᳓व᳓रुणयोर् ध्रुवे᳓ण ध᳓र्मणा।
 </details>
 
 <details><summary>Keith</summary>
@@ -614,16 +617,23 @@ ________
 12पुरीषेणौदुम्बरीं प्रदक्षिर्णं पर्यूहति - ब्रह्मवनिमिति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma-vanim.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma-vanim.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14प्रदक्षिणं पुरीषेण पर्यूहति - ब्रह्मवनिमिति ॥
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+"ब्रह्मवनिमिति"। कल्पः – 
+> ‘अथैनां प्रदक्षिणं पुरीषेण पर्यूहति ब्रह्म-वनिं त्वा क्षत्र-वनिँ सुप्रजा-वनिँ रायस्पोष-वनिं पर्यूहामीति’ 
+
+इति।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒-वनि॑न् त्वा  क्षत्र॒-वनिँ॑ सुप्रजा॒-वनिँ॑ रायस्-पोष॒-वनि॒म् पर्यू॑हामि।
+ब्रह्म-व᳓निन् त्वा  क्षत्र-व᳓निँ सुप्रजा-व᳓निँ रायस्-पोष-व᳓निम् प᳓र्यूहामि।
 </details>
 
 <details><summary>Keith</summary>
@@ -654,6 +664,10 @@ Thee that art winner of Brahmans, winner of nobles, winner of fair offspring, wi
 14प्रदक्षिणं पुरीषेण पर्यूहति - ब्रह्मवनिमिति ॥ व्याख्यातम् ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+ब्रह्म ब्राह्मण-जातिं वनति भजतीति ब्रह्म-वनिः। हे औदुम्बरि ब्राह्मण्यादि-प्रदां त्वां परितो मृत्तिकां प्रक्षिपामि।
+</details>
 </div>  
 
 ________
@@ -671,8 +685,7 @@ _______
 इति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma_dRMha.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma_dRMha.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्रह्म॑ दृँह क्ष॒त्रन्दृँ॑ह प्र॒जान्दृँ॑ह रा॒यस्पोष॑न्दृँह
@@ -680,10 +693,10 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म॑ दृँह ।  
-क्ष॒त्रन् दृँ॑ह ।  
-प्र॒जान् दृँ॑ह।  
-रा॒यस्-पोष॑न् दृँह ।
+ब्र᳓ह्म दृँह ।  
+क्षत्र᳓न् दृँह ।  
+प्रजा᳓न् दृँह।  
+राय᳓स्-पो᳓षन् दृँह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -720,6 +733,13 @@ strengthen increase of wealth.
 15मैत्रावरुणदण्डेन संहन्ति - ब्रह्म दृंहेति ॥ व्याख्यातमेव ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे दण्ड ब्राह्मण्यादीन् दृढी कुरु। मन्त्रो ऽयं ब्राह्मणेनोपेक्षितः।
+
+[[P337]]
+
+</details>
 </div>  
 
 _______
@@ -739,7 +759,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृ॒तेन॑ द्यावापृथिवी॒ आ पृ॑णेथाम् ।
+घृते᳓न द्यावापृथिवी आ᳓ पृणेथाम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -790,7 +810,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य॒ सदो॑ऽसि ।
+इ᳓न्द्रस्य स᳓दोऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -821,7 +841,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒श्व॒ज॒नस्य॑ छा॒या ।
+विश्वजन᳓स्य छाया᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -844,20 +864,18 @@ the shade of all folk.
 16पार्श्वयोश्छदिर्निदधाति - विश्वजनस्येति ॥ विश्वजनस्य सर्वजनस्य छाया गृहमासि । 'विश्वजनस्य ह्येषा छाया' `इति ब्राह्मणम् । छायाशब्दो गृहनामसु निरुक्तकारैः पठ्यते ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/02_pari_tvA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/02_pari_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-परि॑ त्वा गिर्वणो॒+++(=गिर्भिर् वननीयः)+++ गिर॑  
-इ॒मा भ॑वन्तु वि॒श्वतः॑ ।  
-वृ॒द्धायु॒म् अनु॒ वृद्ध॑यो॒  
-जुष्टा॑ भवन्तु॒ जुष्ट॑यः ॥
-</details>
+प᳓रि त्वा गिर्वणो+++(=गिर्भिर् वननीयः)+++ गि᳓र  
+इमा᳓ भवन्तु विश्व᳓तः ।  
+वृद्धा᳓युम् अ᳓नु वृ᳓द्धयो  
+जु᳓ष्टा भवन्तु जु᳓ष्टयः ॥
 
+</details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/02_pari_tvA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/02_pari_tvA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -885,8 +903,12 @@ May they be dear delights.
 17सदः पारिश्रयति - परित्वेति चतुष्पदयानुष्टुभा ॥ इन्द्रदेवत्यत्वादिन्द्रत्वेन सद उच्यते । हे **गिर्वणः** गीर्भिः स्तुतिभिर्वननीय सम्भजनीय । असुनन्तस्यामन्त्रितत्वादनुदात्तत्वम् । इमा वक्ष्यमाणास्स्तोत्रशत्त्रादिलक्षणा गिरः त्वां परिभवन्तु व्याप्नुवन्तु विश्वतस्सर्वतः । परिभवतिः व्याप्तिकर्मा । यद्वा - 'लक्षणेत्थंभूताख्यान' इति भागे लक्षणे वा द्योत्ये परेः कर्मप्रवचनीयत्वम् । इमा गिरस्त्वां परिभवन्तु तव भागात्मना भवन्त्यस्त्वामेव भजन्तामिति यावत् । यत्र त्वं तत्र भवन्त्विति वा ।  
 किञ्च - वृद्धायुर्दीर्घायुः । 'छन्दसणिः' इत्युण्प्रत्ययान्तेन बहुव्रीहिः । ईदृशं त्वामनु वृद्धयस्समृद्धयो भवन्तु । अनोर्लक्षणे भागे वा कर्मप्रवचनीयत्वम् । यत्र त्वं तत्र समृद्धयो भवन्त्विति यावत् । त्वामेव भजन्तामिति वा । सदसि हि सर्वाः स्तुतयः क्रियन्ते सर्वाश्च समृद्धयस्सम्पद्यन्ते । अपि च जुष्टयस्सेवा अस्माभिः क्रियमाणास्तव जुष्टा इष्टा भवन्तु । 'नित्यं मन्त्रे' इति जुष्टशब्दआद्युदात्तः ॥
 </details>
-</details>
 
+<details><summary>सायण-टीका</summary>
+
+गीर्भिः स्तुतिभिर् वननीयो भजनीय इन्द्रः सदोभिमानी गिर्वणाः। हे गिर्वण इमाः स्तोत्र-शस्त्र-रूपा गिरः सर्वतः कटक-रूपेण त्वां परिभवन्तु वेष्टयन्तु। कीदृश्यः। दीर्घायुषं त्वाम् अनु स्वयम् अपि वृद्धि-मत्यः। किं च, जुष्टयो ऽस्मत्-सेवास तव जुष्टाः प्रिया भवन्तु।
+</details>
+</details>
 </div>
 
 ________
@@ -911,7 +933,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य॒ स्यूर्+++(=सूची)+++ अ॑सि ।  
+इ᳓न्द्रस्य स्यू᳓र्+++(=सूची)+++ असि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -944,7 +966,7 @@ Thou art the string of Indra;
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य ध्रु॒वम् अ॑सि ।
+इ᳓न्द्रस्य ध्रुव᳓म् असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -977,7 +999,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्रम् अ॑सि ।
+ऐन्द्र᳓म् असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -992,7 +1014,7 @@ Thou art of Indra.
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य त्वा ॥[2]
+इ᳓न्द्राय त्वा ॥[2]
 </details>
 
 <details><summary>Keith</summary>

@@ -1,6 +1,5 @@
 +++
 title = "०२ सवन-निरूपणम्, तन्मन्त्राश्च"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -15,14 +14,13 @@ title = "०२ सवन-निरूपणम्, तन्मन्त्र�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रीणि॒ वाव सव॑नानि
+त्री᳓णि वा᳓व᳓ स᳓वनानि
 </details>
 
 <details><summary>Keith</summary>
 
 There are three pressings. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -34,17 +32,15 @@ There are three pressings.
 1त्रीणि वाव सवनानीत्यादि ॥ त्रीण्येतानि सवनानि प्रातस्सवनादीनि तैः त्रिभिर् अपि सवनैः सवनवद्भिर् भवितव्यम् ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॑ तृ॒तीयँ॒ सव॑न॒मव॑ लुम्पन्त्य् अन्-अँ॒शु+++(=अ-[सोम-]नालं)+++ कु॒र्वन्तः॑।
+अ᳓थ तृती᳓यँ स᳓वनम᳓व लुम्पन्त्य् अन्-अँशु᳓+++(=अ-[सोम-]नालं)+++ कुर्व᳓न्तः।
 </details>
 
 <details><summary>Keith</summary>
 
 Now they spoil the third pressing if there are no stalks of the Soma in it. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -58,21 +54,18 @@ Now they spoil the third pressing if there are no stalks of the Soma in it.
 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒पाँ॒शुँ **हु॒त्वा** +  
-+उपाँ॑शु-पा॒त्रे ऽँ॑शुम् **अ॒वास्य॒**  
-तन् तृ॑तीय-सव॒ने॑ **ऽपि॒सृज्य**+  
-+**अ॒भिषु॑णुयात्** ।   
+उपाँशुँ᳓ **हुत्वा᳓** +  
++उ᳓पाँशु-पात्रे᳓ ऽँशु᳓म् **अवा᳓स्य**  
+त᳓न् तृतीय-सवने᳙ **ऽपिसृ᳓ज्य᳓**+  
++**अभि᳓षुणुयात्** ।   
 </details>
 
 <details><summary>Keith</summary>
 
 Having offered the silent cup, he puts a shoot in the vessel which holds it, and placing it with the third pressing he should press it out. 
 </details>
-
-
 
 <details><summary>मूलम्</summary>
 
@@ -90,9 +83,9 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् आ॑प्या॒यय॑ति॒  
-तेनाँ॑शु॒मद् यद् अ॑भिषु॒णोति॒    
-तेन॑र्जी॒षि सर्वा॑ण्ये॒व तत्सव॑नान्यँशु॒मन्ति॑ शु॒क्रव॑न्ति स॒माव॑द्वीर्याणि करोति ।
+य᳓द् आप्याय᳓यति  
+ते᳓नाँशुम᳓द् य᳓द् अभिषुणो᳓ति    
+ते᳓नर्जीषि᳓ स᳓र्वाण्येव᳓ त᳓त्स᳓वनान्यँशुम᳓न्ति शुक्र᳓वन्ति समा᳓वद्वीर्याणि करोति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -108,8 +101,8 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वौ स॑मु॒द्रौ वित॑तावजू॒र्यौ प॒र्याव॑र्तेते ज॒ठरे॑व॒ पादाः॑ ।  
-तयो॒ᳶ पश्य॑न्तो॒ अति॑ यन्त्य॒न्यमप॑श्यन्तः [4]  सेतु॒नाति॑ यन्त्य॒न्यम् ।
+द्वौ᳓ समुद्रौ᳓ वि᳓ततावजूर्यौ᳓ पर्या᳓वर्तेते जठ᳓रेव पा᳓दाः ।  
+त᳓योᳶ प᳓श्यन्तो अ᳓ति यन्त्यन्य᳓म᳓पश्यन्तः [4]  सेतुना᳓ति यन्त्यन्य᳓म् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -125,8 +118,8 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वे द्रध॑सी स॒तती॑ वस्त॒ एक॑ᳵ के॒शी विश्वा॒ भुव॑नानि वि॒द्वान् ।  
-ति॒रो॒धायै॒त्यसि॑तव्ँ॒वसा॑नश्शु॒क्रमा द॑त्ते अनु॒हाय॑ जा॒र्यै ।
+द्वे᳓ द्र᳓धसी सत᳓ती वस्त ए᳓कᳵ केशी᳓ वि᳓श्वा भु᳓वनानि विद्वा᳓न् ।  
+तिरोधा᳓यैत्य᳓सितव्ँव᳓सानश्शुक्र᳓मा᳓ दत्ते अनुहा᳓य जार्यै᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -147,9 +140,9 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा वै यद्य॒ज्ञेऽकु॑र्वत ।  
-तदसु॑रा अकुर्वत ।  
-ते दे॒वा ए॒तम्म॑हाय॒ज्ञम॑पश्य॒न्तम॑तन्वत ।  
+देवा᳓ वै᳓ य᳓द्यज्ञे᳓ऽकुर्वत ।  
+त᳓द᳓सुरा अकुर्वत ।  
+ते᳓ देवा᳓ एत᳓म्महायज्ञ᳓मपश्यन्त᳓मतन्वत ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -166,7 +159,7 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नि॒हो॒त्रव्व्ँर॒तम॑कुर्वत ।  
+अग्निहोत्र᳓व्व्ँरत᳓मकुर्वत ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -181,7 +174,7 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द्द्विव्र॑तस्स्या॒द्द्विर्ह्य॑ग्निहो॒त्रञ्जुह्व॑ति ।
+त᳓स्माद्द्वि᳓व्रतस्स्याद्द्वि᳓र्ह्यग्निहोत्र᳓ञ्जु᳓ह्वति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -196,7 +189,7 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पौ॒र्ण॒मा॒सय्ँ य॒ज्ञम॑ग्नीषो॒मीय॑म्प॒शुम॑कुर्वत ।  
+पौर्णमासय्ँ᳓ यज्ञ᳓मग्नीषोमी᳓यम्पशु᳓मकुर्वत ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -211,11 +204,11 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दा॒र्श्यय्ँ य॒ज्ञमा॑ग्ने॒यम्प॒शुम॑कुर्वत ।  
+दार्श्यय्ँ᳓ यज्ञ᳓माग्नेय᳓म्पशु᳓मकुर्वत ।  
 
-वै॒श्व॒दे॒वम्प्रा॑तस्सव॒नम॑कुर्वत ।  
+वैश्वदेव᳓म्प्रातस्सवन᳓मकुर्वत ।  
 
-व॒रु॒ण॒प्र॒घा॒सान्माध्य॑न्दिनँ॒ सव॑नँ साकमे॒धान्पि॑तृय॒ज्ञन्त्र्य॑म्बकाँस्तृतीयसव॒नम॑कुर्वत ।  
+वरुणप्रघासा᳓न्मा᳓ध्यन्दिनँ स᳓वनँ साकमेधा᳓न्पितृयज्ञ᳓न्त्र्यम्बकाँस्तृतीयसवन᳓मकुर्वत ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -234,7 +227,7 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमे॑षा॒मसु॑रा य॒ज्ञम॒न्ववा॑जिगाँस॒न्तन्नान्ववा॑यन् ।  
+त᳓मेषाम᳓सुरा यज्ञ᳓मन्व᳓वाजिगाँसन्त᳓न्ना᳓न्व᳓वायन् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -249,9 +242,9 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽब्रुवन् ।  
+ते᳓ऽब्रुवन् ।  
 
-अ॒ध्व॒र्त॒व्या वा इ॒मे दे॒वा अ॑भूव॒न्निति॑ ।  
+अध्वर्तव्या᳓ वा᳓ इमे᳓ देवा᳓ अभूवन्नि᳓ति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -268,7 +261,7 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद॑ध्व॒रस्या॑ध्वर॒त्वम् ।  
+त᳓दध्वर᳓स्याध्वरत्व᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -283,11 +276,11 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॑ दे॒वा अभ॑व॒न् , परासु॑राः ।  
+त᳓तो देवा᳓ अ᳓भवन् , प᳓रा᳓सुराः ।  
 
-य ए॒वव्ँवि॒द्वान्त्सोमे॑न॒ यज॑ते ।  
+य᳓ एवव्ँ᳓विद्वा᳓न्त्सो᳓मेन य᳓जते ।  
 
-भव॑त्या॒त्मना॒ परा॑स्य॒ भ्रातृ॑व्यो भवति ॥ [6]
+भ᳓वत्यात्म᳓ना प᳓रास्य भ्रा᳓तृव्यो भवति ॥ [6]
 </details>
 
 <details><summary>मूलम्</summary>

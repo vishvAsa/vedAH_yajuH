@@ -12,7 +12,7 @@ title = "०२ सप्तरात्रविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कु॒सु॒रु॒बिन्द॒ औद्दा॑लकिर् अकामयत - पशु॒मान्त् स्या॒म् इति । +++('ह्रस्वनुड्भ्याम्' इति मतुप उदात्तत्वम् ।)+++  
+कुसुरुबि᳓न्द औ᳓द्दालकिर् अकामयत - पशुमा᳓न्त् स्याम् इ᳓ति᳓ । +++('ह्रस्वनुड्भ्याम्' इति मतुप उदात्तत्वम् ।)+++  
 </details>
 
 <details><summary>Keith</summary>
@@ -20,21 +20,21 @@ title = "०२ सप्तरात्रविधिः"
 Kusurubinda Auddalaki desired, 'May I be rich in cattle.'
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>स ए॒तँ स॑प्तरा॒त्रम् आह॑रत् । तेना॑यजत ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>स᳓ एतँ᳓ सप्तरात्र᳓म् आ᳓हरत् । ते᳓नायजत ।</details>
 
 <details><summary>Keith</summary>
 
 He grasped this (rite) of seven nights, and sacrificed with it.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>तेन॒ वै स याव॑न्तो ग्रा॒म्याᳶ प॒शव॒स् तान् अवा॑रुन्ध ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>ते᳓न वै᳓ स᳓ या᳓वन्तो ग्राम्याᳶ᳓ पश᳓वस् ता᳓न् अ᳓वारुन्ध ।</details>
 
 <details><summary>Keith</summary>
 
 Then indeed did be win all the domestic animals.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>य ए॒वव्ँ वि॒द्वान्त् स॑प्तरा॒त्रेण॒ यज॑ते, याव॑न्त ए॒व ग्रा॒म्याᳶ प॒शव॒स्, तान् ए॒वाव॑ रुन्धे ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>य᳓ एवव्ँ᳓ विद्वा᳓न्त् सप्तरात्रे᳓ण य᳓जते᳓, या᳓वन्त एव᳓ ग्राम्याᳶ᳓ पश᳓वस्, ता᳓न् एवा᳓व रुन्धे ।</details>
 
 <details><summary>Keith</summary>
 
@@ -45,8 +45,8 @@ He, who knowing thus sacrifices with (the rite) of seven nights, wins all domest
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्त॒रा॒त्रो भ॑वति ।
-स॒प्त ग्रा॒म्याᳶ प॒शवः॑ +++(गोऽजाऽऽश्वाऽऽविक-पुरुष-गर्दभोष्ट्राः)+++ । स॒प्तार॒ण्याः +++(द्विखुर-श्वापद-पक्षि-सरीसृप-हस्ति-मर्कटादयः)+++। स॒प्त छन्दाँ॑सि +++(गायत्र्युष्णिगनुष्टुब्बृहतीपङ्क्तित्रिष्टुब्जगत्यः)+++। उ॒भय॒स्य +++(पशूनां छन्दसां च)+++ अव॑रुद्ध्यै ।
+सप्तरात्रो᳓ भवति ।
+सप्त᳓ ग्राम्याᳶ᳓ पश᳓वः +++(गोऽजाऽऽश्वाऽऽविक-पुरुष-गर्दभोष्ट्राः)+++ । सप्ता᳓रण्याः᳓ +++(द्विखुर-श्वापद-पक्षि-सरीसृप-हस्ति-मर्कटादयः)+++। सप्त᳓ छ᳓न्दाँसि +++(गायत्र्युष्णिगनुष्टुब्बृहतीपङ्क्तित्रिष्टुब्जगत्यः)+++। उभ᳓यस्य᳓ +++(पशूनां छन्दसां च)+++ अ᳓वरुद्ध्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -54,8 +54,7 @@ He, who knowing thus sacrifices with (the rite) of seven nights, wins all domest
 (The rite) is of seven nights; the domesticated animals are seven, the wild seven, the metres seven, for winning both.
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्रि॒वृद॑ग्निष्टो॒मो भ॑वति॒ तेज॑ ए॒वाव॑ रुन्द्धे पञ्चद॒शो भ॑वतीन्द्रि॒यमे॒वाव॑ रुन्द्धे सप्तद॒शो भ॑वत्य॒न्नाद्य॒स्याव॑रुद्ध्या॒ अथो॒ प्रैव तेन॑ जायते 
@@ -63,7 +62,7 @@ He, who knowing thus sacrifices with (the rite) of seven nights, wins all domest
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रि॒वृद्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अ॑ग्निष्टो॒मो +++(यागो रथन्तरसामा)+++ भ॑वति +++("अग्न॒ आ या॑हि" इत्यादेस् त्र्यर्चस्य)+++ । तेज॑ ए॒वाव॑ रुन्धते ।  
+त्रिवृ᳓द्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अग्निष्टोमो᳓ +++(यागो रथन्तरसामा)+++ भवति +++("अ᳓ग्न आ᳓ याहि" इत्यादेस् त्र्यर्चस्य)+++ । ते᳓ज एवा᳓व रुन्धते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -90,8 +89,8 @@ There is an Agnistoma characterized by the Trivrt (Stoma); verily he wins brilli
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒ञ्च॒द॒शो भ॑वति॒ ,
-इन्द्रि॒यमे॒वाव रुन्द्धे ।
+पञ्चदशो᳓ भवति ,
+इ᳓न्द्रिय᳓मेवा᳓व᳓ रु᳓न्द्धे᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -118,8 +117,8 @@ There is a Pañcadaśa (Stoma); verily he wins power.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्त॒द॒शो भ॑वति॒ ,
-अ॒न्नाद्य॒स्याव॑रुध्यै ।
+सप्तदशो᳓ भवति ,
+अन्ना᳓द्यस्या᳓वरुध्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -146,7 +145,7 @@ There is a Saptadaśa (Stoma), for the obtainment of food;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ प्रैव तेन॑ जायते ।
+अ᳓थो प्रै᳓व᳓ ते᳓न जायते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -168,14 +167,12 @@ verily also he gains offspring by reason of it.
 
 अथो अपि च तेन सप्तदशेनाह्ना प्रजायते तस्य प्रजाहेतुत्वात् ।
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/2/01_ShaDrAtravidhiH/21-27-vidhAnam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/2/01_ShaDrAtravidhiH/21-27-vidhAnam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒क॒विँ॒शो +++(वैराजसामा षोडशी यागः)+++ भ॑वति॒ प्रति॑ष्ठित्यै । अथो॒ रुच॑म् ए॒वात्मन् द॑धते ।
+एकविँशो᳓ +++(वैराजसामा षोडशी यागः)+++ भवति प्र᳓तिष्ठित्यै । अ᳓थो रु᳓चम् एवा᳓त्म᳓न् दधते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -185,18 +182,16 @@ There is an Ekavinśa (Stoma), for support; verily also they place radiance in t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रि॒ण॒वो +++(शाक्वरसामा उक्थ्यः)+++ भ॑वति॒, विजि॑त्यै ।
+त्रिणवो᳓ +++(शाक्वरसामा उक्थ्यः)+++ भवति, वि᳓जित्यै ।
 </details>
 
 <details><summary>Keith</summary>
 
 There is a Trinava (Stoma), for conquest.
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/25-vidhAnam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/25-vidhAnam.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पञ्चविँ॒शो॑ऽग्निष्टो॒मो भ॑वति प्र॒जाप॑ते॒राप्त्यै॑ महाव्र॒तवा॑न॒न्नाद्य॒स्याव॑रुद्ध्यै  
@@ -204,8 +199,8 @@ There is a Trinava (Stoma), for conquest.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒ञ्च॒विँ॒शो॑ ऽग्निष्टो॒मो +++(यागः)+++ भ॑वति॒ प्र॒जाप॑ते॒र् आप्त्यै॑ ।  
-म॒हा॒व्र॒त॒वा॑न् +++(=ये महाव्रतधर्माः 'स्तुवन्त्यनुश्नोकेन' इत्याद्याः तद्वान्)+++ अ॒न्नाद्य॑स्य अव॑रुद्ध्यै । +++(यथोक्तं महाव्रते 'तदन्नं पञ्चविंशमभवत्' इति ।)+++
+पञ्चविँशो᳙ ऽग्निष्टोमो᳓ +++(यागः)+++ भवति प्रजा᳓पतेर् आ᳓प्त्यै ।  
+महाव्रतवा᳙न् +++(=ये महाव्रतधर्माः 'स्तुवन्त्यनुश्नोकेन' इत्याद्याः तद्वान्)+++ अन्ना᳓द्यस्य᳓ अ᳓वरुद्ध्यै । +++(यथोक्तं महाव्रते 'तदन्नं पञ्चविंशमभवत्' इति ।)+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -231,11 +226,9 @@ There is a Trinava (Stoma), for conquest.
 There is an Agnistoma with the Pañcadaśa (Stoma), for the gaining of Prajapati;  
 (it has) the characteristics of the Mahavrata, for the gaining of food.
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विश्व॒जित्सर्व॑पृष्ठोऽतिरा॒त्रो भ॑वति॒ सर्व॑स्या॒भिजि॑त्यै ॥ [39]  
@@ -243,7 +236,7 @@ There is an Agnistoma with the Pañcadaśa (Stoma), for the gaining of Prajapati
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒श्व॒जिथ् +++(सहस्रदक्षिणत्वादिधर्मः)+++ सर्व॑पृष्ठो+++(=रथन्तर-बृहद्-वैरूप-वैराज-शाक्वर-रैवत-पृष्ठः)+++ ऽतिरा॒त्रो भ॑वति॒, सर्व॑स्या॒भिजि॑त्यै ॥ 
+विश्वजि᳓थ् +++(सहस्रदक्षिणत्वादिधर्मः)+++ स᳓र्वपृष्ठो+++(=रथन्तर-बृहद्-वैरूप-वैराज-शाक्वर-रैवत-पृष्ठः)+++ ऽतिरात्रो᳓ भवति, स᳓र्वस्याभि᳓जित्यै ॥ 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -269,14 +262,13 @@ There is an Agnistoma with the Pañcadaśa (Stoma), for the gaining of Prajapati
 There is a Viśvajit Atiratra, with all the Prstha (Stotras), for the winning of all.
 </details>
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् प्र॒त्यक्ष॒म्+++(→अविकृतम्)+++ पूर्वे॒ष्व् अह॑स्सु पृ॒ष्ठान्य् उ॑पे॒युᳶ, प्र॒त्यक्षव्ँ॑ विश्व॒जिति -  
-+++(तद्)+++ यथा॑ दु॒ग्धाम् +++(गां दोग्धा)+++ उ॑प॒सीद॑त्य् ए॒वम् उ॑त्त॒मम् अह॑स् स्या॒त् +++(निस्सारम्)+++ ।
-नैक॑रा॒त्रश् च॒न स्या॑त् +++(विश्वजित्)+++।
+य᳓त् प्रत्य᳓क्षम्+++(→अविकृतम्)+++ पू᳓र्वेष्व् अ᳓हस्सु पृष्ठा᳓न्य् उपेयुᳶ᳓, प्रत्य᳓क्षव्ँ विश्वजि᳓ति᳓ -  
++++(तद्)+++ य᳓था दुग्धा᳓म् +++(गां दोग्धा)+++ उपसी᳓दत्य् एव᳓म् उत्तम᳓म् अ᳓हस् स्यात् +++(निस्सारम्)+++ ।
+नै᳓करात्र᳓श् चन᳓ स्यात् +++(विश्वजित्)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -286,7 +278,7 @@ If they were in the preceding days to perform the Prsthas in the obvious way, an
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(तस्मात्)+++ बृ॒ह॒द्-र॒थ॒न्त॒रे पूर्वे॒ष्व् अह॒स्सूप॑ यन्ति +++(वैरूपादिभिर् विना)+++।
++++(तस्मात्)+++ बृहद्-रथन्तरे᳓ पू᳓र्वेष्व् अ᳓हस्सू᳓प यन्ति +++(वैरूपादिभिर् विना)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -296,8 +288,8 @@ In the preceding days they perform the Brhat and the Rathantara.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ वाव र॑थन्त॒रम्, अ॒सौ बृ॒हत् +++( चास्ति)+++।
-आ॒भ्यामे॒व न य॒न्त्य्, अथो॑ अ॒नयो॑र् ए॒व प्रति॑ तिष्ठन्ति ।
+इयव्ँ᳓ वा᳓व᳓ रथन्तर᳓म्, असौ᳓ बृह᳓त् +++( चास्ति)+++।
+आभ्या᳓मेव᳓ न᳓ यन्त्य्, अ᳓थो अन᳓योर् एव᳓ प्र᳓ति तिष्ठन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -307,8 +299,8 @@ The Rathantara is this (earth), the Brhat yonder (sky); verily they depart not f
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् प्र॒त्यक्षव्ँ॑ विश्व॒जिति॑ पृ॒ष्ठान्य् उ॑प॒यन्ति -  
-यथा॒ प्रत्ता॑न्+++(→पयो दातुं प्रवृत्तां)+++ दु॒हे, ता॒दृग् ए॒व तत् ॥ [7]
+य᳓त् प्रत्य᳓क्षव्ँ विश्वजि᳓ति पृष्ठा᳓न्य् उपय᳓न्ति᳓ -  
+य᳓था प्र᳓त्तान्+++(→पयो दातुं प्रवृत्तां)+++ दुहे᳓, तादृ᳓ग् एव᳓ त᳓त् ॥ [7]
 </details>
 
 <details><summary>Keith</summary>

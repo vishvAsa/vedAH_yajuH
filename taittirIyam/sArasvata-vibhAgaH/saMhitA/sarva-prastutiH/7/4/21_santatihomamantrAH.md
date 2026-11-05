@@ -1,6 +1,5 @@
 +++
 title = "२१ सन्ततिहोममन्त्राः"
-
 +++
 विश्वेदेवा ऋषयः
 
@@ -9,7 +8,6 @@ title = "२१ सन्ततिहोममन्त्राः"
 1अथ नक्तं होमेष्वेव सन्ततिहोमाः - प्राणाय स्वाहा व्यानाय स्वाहा इत्याद्याः ।
 </details>
 
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्रा॒णाय॒ स्वाहा॑ व्या॒नाय॒ स्वाहा॑ऽपा॒नाय॒ स्वाहा॒ स्नाव॑भ्य॒स्स्वाहा॑ सन्ता॒नेभ्य॒स्स्वाहा॒ परि॑सन्तानेभ्य॒स्स्वाहा॒ पर्व॑भ्य॒स्स्वाहा॑ स॒न्धाने॑भ्य॒स्स्वाहा॒ शरी॑रेभ्य॒स्स्वाहा॑ य॒ज्ञाय॒ स्वाहा॒ दक्षि॑णाभ्य॒स्स्वाहा॑ सुव॒र्गाय॒ स्वाहा॑ लो॒काय॒ स्वाहा॒ सर्व॑स्मै॒ स्वाहा॑ ॥ [52]  
@@ -17,7 +15,7 @@ title = "२१ सन्ततिहोममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णाय॒ स्वाहा॑ ।
+प्राणा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -25,11 +23,9 @@ title = "२१ सन्ततिहोममन्त्राः"
 To expiration hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्या॒नाय॒ स्वाहा॑ ।
+व्याना᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -37,11 +33,9 @@ To expiration hail!
 To cross-breathing hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पा॒नाय॒ स्वाहा॑ ।
+अपाना᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -49,11 +43,9 @@ To cross-breathing hail!
 To inspiration hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्नाव॑भ्य॒स्स्वाहा॑ ।
+स्ना᳓वभ्यस्स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -61,11 +53,9 @@ To inspiration hail!
 To sinews hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒न्ता॒नेभ्य॒स् स्वाहा॑ ।
+सन्ताने᳓भ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -73,11 +63,9 @@ To sinews hail!
 To ligatures hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परि॑सन्तानेभ्य॒स् स्वाहा॑ ।
+प᳓रिसन्तानेभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -85,11 +73,9 @@ To ligatures hail!
 To surrounding ligatures hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पर्व॑भ्य॒स् स्वाहा॑ ।
+प᳓र्वभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -97,11 +83,9 @@ To surrounding ligatures hail!
 To joints hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒न्धाने॑भ्य॒स् स्वाहा॑ ।
+सन्धा᳓नेभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -109,11 +93,9 @@ To joints hail!
 To joinings hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शरी॑रेभ्य॒स् स्वाहा॑ ।
+श᳓रीरेभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -121,11 +103,9 @@ To joinings hail!
 To bodies hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञाय॒स् स्वाहा॑ ।
+यज्ञा᳓यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -133,11 +113,9 @@ To bodies hail!
 To the sacrifice hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दक्षि॑णाभ्य॒स् स्वाहा॑ ।
+द᳓क्षिणाभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -145,11 +123,9 @@ To the sacrifice hail!
 To the sacrificial gifts hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒व॒र्गाय॒ स्वाहा॑ ।
+सुवर्गा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -157,11 +133,9 @@ To the sacrificial gifts hail!
 To heaven hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-लो॒काय॒ स्वाहा॑ ।
+लोका᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -169,11 +143,9 @@ To heaven hail!
 To the world hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व॑स्मै॒ स्वाहा॑ ॥ [52]
+स᳓र्वस्मै स्वा᳓हा ॥ [52]
 </details>
 
 <details><summary>Keith</summary>

@@ -1,6 +1,5 @@
 +++
 title = "११ क्रीतस्य सोमस्य शकटेन प्राचीनवंशं प्रतिनयनम्"
-
 +++
 
 सोसोमऋषिः
@@ -12,7 +11,7 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒रु॒णो वै क्री॒तस्सोम॒ उप॑नद्धः ।  
+वारुणो᳓ वै᳓ क्रीत᳓स्सो᳓म उ᳓पनद्धः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -27,8 +26,8 @@ The Soma when bought and tied up is connected with Varuna.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रो न॒ एहि॒ सुमि॑त्रधा॒ इत्या॑ह॒ ,
-शान्त्यै॑ ।
+मित्रो᳓ न ए᳓हि सु᳓मित्रधा इ᳓त्याह ,
+शा᳓न्त्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -61,7 +60,7 @@ Come as a friend to us, creating firm friendships', he says, for atonement.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्यो॒रुम् आ वि॑श॒ दक्षि॑ण॒मित्या॑ह ।  
+इ᳓न्द्रस्योरु᳓म् आ᳓ विश द᳓क्षिणमि᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -76,7 +75,7 @@ Enter the right thigh of Indra', he says;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा वै यँ सोम॒मक्री॑ण॒न्तमिन्द्र॑स्यो॒रौ दक्षि॑ण॒ आसा॑दयन् ।  
+देवा᳓ वै᳓ यँ᳓ सो᳓मम᳓क्रीणन्त᳓मि᳓न्द्रस्योरौ᳓ द᳓क्षिण आ᳓सादयन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -91,7 +90,7 @@ the gods placed the Soma which they purchased in the right thigh of Indra;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष खलु॒ वा ए॒तर्हीन्द्रो॒ यो यज॑ते ।  
+एष᳓ ख᳓लु वा᳓ एत᳓र्ही᳓न्द्रो यो᳓ य᳓जते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -106,7 +105,7 @@ now the sacrificer is Indra;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑दे॒वमा॑ह ।
+त᳓स्मादेव᳓माह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -140,7 +139,7 @@ therefore he says thus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उदायु॑षा स्वा॒युषेत्या॑ह ।
+उ᳓दा᳓युषा स्वायु᳓षे᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -155,7 +154,7 @@ therefore he says thus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वता॑ ए॒वान्वा॒रभ्योत्तिष्ठति ।[71]
+देव᳓ता एवा᳓न्वार᳓भ्यो᳓त्ति᳓ष्ठ᳓ति᳓ ।[71]
 </details>
 
 <details><summary>Keith</summary>
@@ -187,7 +186,7 @@ verily seizing the gods [1] he rises up.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒र्व॑न्तरि॑क्ष॒मन्वि॒हीत्या॑ह ।  
+उर्व᳙न्त᳓रिक्षम᳓न्विही᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -202,7 +201,7 @@ verily seizing the gods [1] he rises up.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्त॒रि॒क्ष॒दे॒व॒त्यो॑  ह्ये॑तर्हि॒ सोमः॑ ।
+अन्तरिक्षदेवत्यो᳙  ह्येतर्हि सो᳓मः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -233,7 +232,7 @@ for Soma has the atmosphere for its deity.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑त्या॒स् सदो॒ ऽस्यदि॑त्या॒स्सद॒ आ सी॒देत्या॑ह ।
+अ᳓दित्यास् स᳓दो ऽस्य᳓दित्यास्स᳓द आ᳓ सीदे᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -248,7 +247,7 @@ for Soma has the atmosphere for its deity.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒था॒य॒जुर् ए॒वैतत् ।
+यथायजु᳓र् एवै᳓त᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -280,7 +279,7 @@ that is according to the text.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि वा ए॑नमे॒तद॑र्धयति॒ यद्वा॑रु॒णँ सन्त॑म् मै॒त्रङ्क॒रोति॑ ।  
+वि᳓ वा᳓ एनमेत᳓दर्धयति य᳓द्वारुणँ᳓ स᳓न्तम् मैत्र᳓ङ्करो᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -295,7 +294,7 @@ He severs it indeed when he makes what is connected with Varuna connected with M
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒रु॒ण्यर्चा सा॑दयति॒ स्वयै॒वैन॑न् दे॒वत॑या॒ सम॑र्धयति ।  
+वारुण्य᳓र्चा᳓ सादयति स्व᳓यैवै᳓नन् देव᳓तया स᳓मर्धयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -310,7 +309,7 @@ he sets it down with a verse addressed to Varuna; verily he unites it with its o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वास॑सा प॒र्यान॑ह्यति । सर्वदेव॒त्यव्ँ॑ वै वासः॑ ।  
+वा᳓ससा पर्या᳓नह्यति । स᳓र्व᳓दे᳓वत्यव्ँ᳙ वै᳓ वा᳓सः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -326,8 +325,8 @@ He covers it round with a garment, the garment is connected with all the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वा॑भिरे॒वैनन् दे॒वता॑भि॒स् सम॑र्धय॒ति ।[72]  
-अथो॒ रक्ष॑सा॒मप॑हत्यै ।
+स᳓र्वाभिरेवै᳓न᳓न् देव᳓ताभिस् स᳓मर्धयति᳓ ।[72]  
+अ᳓थो र᳓क्षसाम᳓पहत्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -369,7 +368,7 @@ verily with all [2] the gods he unites it, and thus (it serves) for the smiting 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वने॑षु॒ व्य॑न्तरि॑क्षन्तता॒नेत्या॑ह ।  
+व᳓नेषु व्य᳙न्त᳓रिक्षन्तताने᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -384,7 +383,7 @@ verily with all [2] the gods he unites it, and thus (it serves) for the smiting 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वने॑षु॒ हि व्य॑न्तरि॑क्षन् त॒तान ।  
+व᳓नेषु हि᳓ व्यन्त᳓रिक्षन् तता᳓न᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -399,7 +398,7 @@ for within the woods he stretched the atmosphere.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाज॒मर्व॒त्स्वित्या॑ह । वाजँ॒ ह्यर्व॑त्सु॑ ।  
+वा᳓जम᳓र्वत्स्वि᳓त्याह । वा᳓जँ ह्य᳓र्वत्सु ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -414,7 +413,7 @@ for within the woods he stretched the atmosphere.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पयो॑ अघ्नि॒यास्वित्या॑ह । पयो॒ ह्य॑घ्नि॒यासु॑ ।  
+प᳓यो अघ्निया᳓स्वि᳓त्याह । प᳓यो ह्य᳙घ्निया᳓सु ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -429,7 +428,7 @@ for within the woods he stretched the atmosphere.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हृ॒त्सु क्रतु॒मित्या॑ह । हृ॒त्सु हि क्रतु॑म् ।  
+हृत्सु᳓ क्र᳓तुमि᳓त्याह । हृत्सु᳓ हि᳓ क्र᳓तुम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -444,7 +443,7 @@ for within the woods he stretched the atmosphere.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरु॑णो वि॒क्ष्व॑ग्निमित्या॑ह । वरु॑णो॒ हि वि॒क्ष्व॑ग्निम् ।  
+व᳓रुणो विक्ष्व᳙ग्नि᳓मि᳓त्याह । व᳓रुणो हि᳓ विक्ष्व᳙ग्निम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -459,7 +458,7 @@ for within the woods he stretched the atmosphere.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि॒वि सूर्य॑म् इत्या॑ह [73]। दि॒वि हि सूर्य॑म् ।  
+दिवि᳓ सू᳓र्यम् इ᳓त्याह [73]। दिवि᳓ हि᳓ सू᳓र्यम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -474,7 +473,7 @@ for within the woods he stretched the atmosphere.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॒मद्रा॒व् इत्या॑ह । ग्रावा॑णो॒ वा अद्र॑यः ।  
+सो᳓मम᳓द्राव् इ᳓त्याह । ग्रा᳓वाणो वा᳓ अ᳓द्रयः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -489,7 +488,7 @@ for within the woods he stretched the atmosphere.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषु॒ वा ए॒ष सोम॑न् दधाति॒ यो यज॑ते ।
+ते᳓षु वा᳓ एष᳓ सो᳓मन् दधाति यो᳓ य᳓जते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -504,7 +503,7 @@ he places the Soma in them, who sacrifices;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑दे॒वमा॑ह ।
+त᳓स्मादेव᳓माह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -549,8 +548,8 @@ therefore he says thus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उदु॒ त्यञ्जा॒तवे॑दस॒मिति॑ सौ॒र्यर्चा कृ॑ष्णाजि॒नम् प्र॒त्यान॑ह्यति ।  
-रक्ष॑सा॒मप॑हत्यै ।  
+उ᳓दु त्य᳓ञ्जात᳓वेदसमि᳓ति सौर्य᳓र्चा᳓ कृष्णाजिन᳓म् प्रत्या᳓नह्यति ।  
+र᳓क्षसाम᳓पहत्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -566,7 +565,7 @@ therefore he says thus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उस्रा॒वेत॑न् धूर्षाहा॒वित्या॑ह ।  
+उ᳓स्रावे᳓तन् धूर्षाहावि᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -581,7 +580,7 @@ therefore he says thus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒था॒य॒जु॒र् ए॒वैतत् ।  
+यथायजुर् एवै᳓त᳓त् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -596,7 +595,7 @@ that is according to the text.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र च्य॑वस्व भुवस्पत॒ इत्या॑ह ।
+प्र᳓ च्यवस्व भुवस्पत इ᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -611,7 +610,7 @@ that is according to the text.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भू॒तानाँ॒ हि ए॒ष पतिः॑ ।[74]  
+भूता᳓नाँ हि᳓ एष᳓ प᳓तिः ।[74]  
 </details>
 
 <details><summary>Keith</summary>
@@ -626,7 +625,7 @@ for he is the lord of creatures [4];
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वा॑न्य॒भि धामा॒नीत्या॑ह ।
+वि᳓श्वान्यभि᳓ धा᳓मानी᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -641,7 +640,7 @@ for he is the lord of creatures [4];
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वा॑नि॒ ह्ये ३॒॑ षो॑ऽभि धामा॑नि प्र॒च्यव॑ते ।  
+वि᳓श्वानि ह्ये᳓ ३᳓ षोऽभि᳓ धा᳓मानि प्रच्य᳓वते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -656,7 +655,7 @@ for he moves forward to all his stations.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा त्वा॑ परिप॒री वि॑द॒दित्या॑ह ।  
+मा᳓ त्वा परिपरी᳓ विददि᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -671,8 +670,8 @@ for he moves forward to all his stations.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदे॒वादस् सोम॑माह्रि॒यमा॑णङ् गन्ध॒र्वो वि॒श्वाव॑सुᳶ प॒र्यमु॑ष्णा॒त् तस्मा॑दे॒वमा॑ह।  
-अप॑रिमोषाय ।
+य᳓देवा᳓द᳓स् सो᳓ममाह्रिय᳓माणङ् गन्धर्वो᳓ विश्वा᳓वसुᳶ पर्य᳓मुष्णात् त᳓स्मादेव᳓माह।  
+अ᳓परिमोषाय ।
 </details>
 
 <details><summary>Keith</summary>
@@ -688,7 +687,7 @@ since the Gandharva Viśvavasu stole the Soma when it was being carried below, h
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानस्य स्व॒स्त्यय॑न्य॒सीत्या॑ह ।  
+य᳓जमानस्य स्वस्त्य᳓यन्यसी᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -703,7 +702,7 @@ since the Gandharva Viśvavasu stole the Soma when it was being carried below, h
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानस्यै॒वैष य॒ज्ञस्या॑न्वार॒म्भो , ऽन॑वच्छित्त्यै ।
+य᳓जमानस्यैवै᳓ष᳓ यज्ञ᳓स्यान्वारम्भो᳓ , ऽनवच्छित्त्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -752,7 +751,7 @@ verily thus the sacrificer grasps the sacrifice, that it be not interrupted.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरु॑णो॒ वा ए॒ष यज॑मानम॒भ्यैति॒ यत् क्री॒तस्सोम॒ उप॑नद्धः ।[75]   
+व᳓रुणो वा᳓ एष᳓ य᳓जमानमभ्यै᳓ति य᳓त् क्रीत᳓स्सो᳓म उ᳓पनद्धः ।[75]   
 </details>
 
 <details><summary>Keith</summary>
@@ -767,7 +766,7 @@ The Soma when bought and tied up indeed approaches the sacrificer in the shape o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ मि॒त्रस्य॒ वरु॑णस्य॒ चक्ष॑स॒ इत्या॑ह । शान्त्यै॑ ।  
+न᳓मो मित्र᳓स्य व᳓रुणस्य च᳓क्षस इ᳓त्याह । शा᳓न्त्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -799,9 +798,9 @@ The Soma when bought and tied up indeed approaches the sacrificer in the shape o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ सोमव्ँ॒ वह॑न्ति ।
-अ॒ग्निना॒ प्रति॑ तिष्ठते ।  
-तौ स॒म्भव॑न्तौ॒ यज॑मानम॒भि सम्भ॑वतः ।  
+आ᳓ सो᳓मव्ँ व᳓हन्ति ।
+अग्नि᳓ना प्र᳓ति तिष्ठते ।  
+तौ᳓ सम्भ᳓वन्तौ य᳓जमानमभि᳓ स᳓म्भवतः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -818,7 +817,7 @@ They bring forward this Soma, it rests with Agni, they in uniting overpower the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पु॒रा खलु॒ वावैष मेधा॑या॒त्मान॑मा॒रभ्य॑ चरति॒ यो दी॑क्षि॒तः ।   
+पुरा᳓ ख᳓लु वा᳓वै᳓ष᳓ मे᳓धायात्मा᳓नमार᳓भ्य चरति यो᳓ दीक्षितः᳓ ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -833,7 +832,7 @@ Now the consecrated person has for long been holding himself ready for the sacri
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद॑ग्नीषो॒मीय॑म् प॒शुमा॒लभ॑त आत्मनि॒ष्क्रय॑ण ए॒वास्य॒ सः ।  
+य᳓दग्नीषोमी᳓यम् पशु᳓माल᳓भत आत्मनिष्क्र᳓यण एवा᳓स्य सः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -848,7 +847,7 @@ In that he offers an animal to Agni and Soma, that is a buying-off of himself;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒त् तस्य॒ नाश्य॑म् ।  
+त᳓स्मात् त᳓स्य ना᳓श्यम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -863,7 +862,7 @@ therefore of it he should not eat;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पु॒रु॒ष॒नि॒ष्क्रय॑ण इव॒ हि ।
+पुरुषनिष्क्र᳓यण इव हि᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -899,8 +898,8 @@ for as it were it is a buying-off of a man.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ खल्वा॑हुर्  
-अ॒ग्नीषोमा॑भ्याव्ँ॒ वा इन्द्रो॑ वृ॒त्रम॑ह॒न्निति॑ ।  
+अ᳓थो ख᳓ल्वाहुर्  
+अग्नी᳓षो᳓माभ्याव्ँ वा᳓ इ᳓न्द्रो वृत्र᳓महन्नि᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -916,7 +915,7 @@ Or rather they say, 'By Agni and Soma Indra slew Vrtra'.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद॑ग्नीषो॒मीय॑म् प॒शुमा॒लभ॑ते॒ वार्त्र॑घ्न ए॒वास्य॒ सः ।  
+य᳓दग्नीषोमी᳓यम् पशु᳓माल᳓भते वा᳓र्त्रघ्न एवा᳓स्य सः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -931,7 +930,7 @@ In that he offers an animal to Agni and Soma, it slays hostile things for him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द्वा॒श्यम् ।
+त᳓स्माद्वाश्य᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -946,7 +945,7 @@ therefore he should eat of it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒रु॒ण्यर्चा परि॑ चरति ।
+वारुण्य᳓र्चा᳓ प᳓रि चरति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -961,7 +960,7 @@ He honours it with a verse addressed to Varuna;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वयै॒वैन॑न् दे॒वत॑या॒ परि॑ चरति ॥ [76]  
+स्व᳓यैवै᳓नन् देव᳓तया प᳓रि चरति ॥ [76]  
 </details>
 
 <details><summary>Keith</summary>
@@ -992,4 +991,3 @@ verily he honours it with its own deity.
 इति श्रीभट्टभास्कृरमिश्रविरचिते ज्ञानयज्ञाख्ये यजुर्वेदभाष्ये षष्ठकाण्डे प्रथमप्रश्ने एकादशानुवाकः ॥
 समाप्तश्च प्रथमः प्रश्नः ॥  
 </details>
-

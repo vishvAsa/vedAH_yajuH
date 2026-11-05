@@ -1,14 +1,13 @@
 +++
 title = "१९ ज्योतिष्मन्तम्"
-
 +++
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1द्वादश ज्योतिष्मतीरुपदधाति - ज्योतिष्मतीमिति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/jyotiShmantaM.md">
-<details open><summary><h5>ज्योतिष्मन्तम् ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ज्योति॑ष्मतीन्त्वा सादयामि ज्योति॒ष्कृत॑न्त्वा सादयामि ज्योति॒र्विद॑न्त्वा सादयामि॒ भास्व॑तीन्त्वा सादयामि॒ ज्वल॑न्तीन्त्वा सादयामि मल्मला॒भव॑न्तीन्त्वा सादयामि॒ दीप्य॑मानान्त्वा सादयामि॒ रोच॑मानान्त्वा सादया॒म्यज॑स्रान्त्वा सादयामि बृ॒हज्ज्यो॑तिषन्त्वा सादयामि बो॒धय॑न्तीन्त्वा सादयामि॒ जाग्र॑तीन्त्वा सादयामि ॥ [35]
@@ -252,6 +251,5 @@ I place thee that art awake.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 जाग्रती स्वयंप्रकाशात्मना ॥
-</details>
 </details>
 </div>

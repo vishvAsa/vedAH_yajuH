@@ -11,7 +11,7 @@ title = "०४ द्वात्रिंश-रात्रः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तिस् सुव॒र्गल्ँ लो॒कम् ऐ॑त् ।
+प्रजा᳓पतिस् सुवर्गल्ँ᳓ लोक᳓म् ऐत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -21,7 +21,7 @@ Prajapati went to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन् दे॒वा येन॑ येन॒ छन्द॒सा ऽनु॒प्रायु॑ञ्जत॒, तेन॒ नाप्नु॑वन् ।
+त᳓न् देवा᳓ ये᳓न येन छ᳓न्दसा᳓ ऽनुप्रा᳓युञ्जत, ते᳓न ना᳓प्नुवन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -31,7 +31,7 @@ But with whatever metre the gods yoked him, they achieved not him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त ए॒ता द्वात्रिँ॑शतँ॒ रात्री॑र् अपश्यन् ।
+त᳓ एता᳓ द्वा᳓त्रिँशतँ रा᳓त्रीर् अपश्यन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -41,10 +41,10 @@ They saw (the rite of) these thirty-two nights.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वात्रिँ॑शद्-अक्षरा ऽनु॒ष्टुक् ।  
-आनु॑ष्टुभᳶ प्र॒जाप॑तिः ।  
-स्वेनै॒व छन्द॑सा प्र॒जाप॑तिम् आ॒प्त्वा  
-ऽभ्या॒रुह्य॑ सुव॒र्गल्ँ लो॒कम् आ॑यन् ।
+द्वा᳓त्रिँशद्-अक्षरा ऽनुष्टु᳓क् ।  
+आ᳓नुष्टुभᳶ प्रजा᳓पतिः ।  
+स्वे᳓नैव᳓ छ᳓न्दसा प्रजा᳓पतिम् आप्त्वा᳓  
+ऽभ्यारु᳓ह्य सुवर्गल्ँ᳓ लोक᳓म् आयन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -54,10 +54,10 @@ The Anustubh has thirty-two syllables, Prajapati is connected with the Anustubh;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वाँस॑ ए॒ता आस॑ते॒ -
-द्वात्रिँ॑शद् ए॒ताः, द्वात्रिँ॑शद् अक्षरा ऽनु॒ष्टुक्, आनु॑ष्टुभᳶ प्र॒जाप॑तिः,
-स्वेनै॒व छन्द॑सा प्र॒जाप॑तिम् आ॒प्त्वा श्रिय॑ङ् गच्छन्ति [15]।
-श्रीर् हि म॑नु॒ष्य॑स्य सुव॒र्गो लो॒कः ।
+य᳓ एवव्ँ᳓ विद्वाँ᳓स एता᳓ आ᳓सते -
+द्वा᳓त्रिँशद् एताः᳓, द्वा᳓त्रिँशद् अक्षरा ऽनुष्टु᳓क्, आ᳓नुष्टुभᳶ प्रजा᳓पतिः,
+स्वेनैव᳓ छ᳓न्दसा प्रजा᳓पतिम् आप्त्वा᳓ श्रि᳓यङ् गच्छन्ति [15]।
+श्री᳓र् हि᳓ मनुष्य᳙स्य सुवर्गो᳓ लोकः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -67,7 +67,7 @@ Those who knowing thus perform (the rite of) these thirty-two (nights)--the Anus
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वात्रिँ॑शद् ए॒ताः ।
+द्वा᳓त्रिँशद् एताः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -77,11 +77,11 @@ These (nights) are thirty-two,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वात्रिँ॑शद् अक्षरा ऽनु॒ष्टुक् ।
-वाग् अ॑नु॒ष्टुप्।  
-सर्वा॑म् ए॒व वाच॑म् आप्नुवन्ति ।  
-सर्वे॑ वा॒चो व॑दि॒तारो॑ भवन्ति ।
-सर्वे॒ हि श्रिय॒ङ् गच्छ॑न्ति ।
+द्वा᳓त्रिँशद् अक्षरा ऽनुष्टु᳓क् ।
+वा᳓ग् अनुष्टु᳓प्।  
+स᳓र्वाम् एव᳓ वा᳓चम् आप्नुवन्ति ।  
+स᳓र्वे वाचो᳓ वदिता᳓रो भवन्ति ।
+स᳓र्वे हि᳓ श्रि᳓यङ् ग᳓च्छन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -90,11 +90,10 @@ the Anustubh has thirty-two syllables, the Anustubh is speech; verily they gain 
 </details>
 
 ## विधानम्
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/09_viMshatirAtravidhiH/jyotir_gaur_Ayur_iti_tryahAH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/09_viMshatirAtravidhiH/jyotir_gaur_Ayur_iti_tryahAH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योति॒र् गौर् आयु॒र् इति॑ त्र्य॒हा भ॑वन्ति।
+ज्यो᳓तिर् गौ᳓र् आ᳓युर् इ᳓ति त्र्यहा᳓ भवन्ति।
 </details>
 
 <details><summary>Keith</summary>
@@ -104,7 +103,7 @@ There are Tryahas consisting of Jyotis, Go, and Ayus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ वाव ज्योति॑र्, अ॒न्तरि॑क्ष॒ङ् गौर्, अ॒साव् आयुः॑।
+इयव्ँ᳓ वा᳓व᳓ ज्यो᳓तिर्, अन्त᳓रिक्षङ् गौ᳓र्, असा᳓व् आ᳓युः।
 </details>
 
 <details><summary>Keith</summary>
@@ -123,13 +122,12 @@ The Jyotis is this (earth), the Go the atmosphere, the Ayus yonder (sky); verily
 गौः - खलु पञ्चदशो बहिष्पवमानः, त्रिवृन्त्य् आज्यानि, सप्तदशं माध्यन्दिनं सवनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २४१-स्तोत्रिया। क्थम्??  
 आयुः - त्रिवृत् बहिष्पवमानं, पञ्चदशाज्यानि, सर्वसप्तदशं माध्यन्दिनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २५९-स्तोत्रियम्। कथम्??
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भि॒पू॒र्वन् +++(नव)+++ त्र्य॒हा भ॑वन्ति ।  
-अ॒भि॒पू॒र्वमे॒व सु॑व॒र्गल्ँ लो॒कम् अ॒भ्यारो॑हन्ति ।
+अभिपूर्व᳓न् +++(नव)+++ त्र्यहा᳓ भवन्ति ।  
+अभिपूर्व᳓मेव᳓ सुवर्गल्ँ᳓ लोक᳓म् अभ्या᳓रोहन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -137,8 +135,7 @@ The Jyotis is this (earth), the Go the atmosphere, the Ayus yonder (sky); verily
 The three days occur in order; verily in order do they mount upon the world of heaven.
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 बृहद्रथन्त॒राभ्याय्ँ॑यन्ती॒यव्ँ वाव र॑थन्त॒रम॒सौ बृ॒हदा॒भ्यामे॒व [2]  
@@ -147,7 +144,7 @@ The three days occur in order; verily in order do they mount upon the world of h
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(दिवसेषु एकान्तराभ्यां)+++ बृहद्रथन्त॒राभ्याय्ँ॑ यन्ति ।
++++(दिवसेषु एकान्तराभ्यां)+++ बृ᳓ह᳓द्र᳓थ᳓न्तरा᳓भ्याय्ँ यन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -162,8 +159,8 @@ They proceed with the Brhat and the Rathantara (Samans).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ वाव र॑थन्त॒रम्, अ॒सौ बृ॒हत् +++(चास्ति)+++।
-आ॒भ्यामे॒व य॒न्ति +++(प्रथमदिनयोः)+++ ।
+इयव्ँ᳓ वा᳓व᳓ रथन्तर᳓म्, असौ᳓ बृह᳓त् +++(चास्ति)+++।
+आभ्या᳓मेव᳓ यन्ति᳓ +++(प्रथमदिनयोः)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -177,7 +174,10 @@ The Rathantara is this (earth), the Brhat yonder (sky); verily with them do they
 आ॒भ्यामे॒व य॒न्ति [2]।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>अथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्ति ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ᳓थो अन᳓योरेव᳓ प्र᳓ति तिष्ठन्ति ।  
+</details>
 
 <details><summary>Keith</summary>
 
@@ -191,8 +191,8 @@ verily also in them they find support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ते वै य॒ज्ञस्या॑ञ्ज॒साय॑नी स्रु॒ती+++(=मार्गौ)+++ ।  
-ताभ्या॑म् ए॒व सु॑व॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
+एते᳓ वै᳓ यज्ञ᳓स्याञ्जसा᳓यनी स्रुती᳓+++(=मार्गौ)+++ ।  
+ता᳓भ्याम् एव᳓ सुवर्गल्ँ᳓ लोकय्ँ᳓ यन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -205,12 +205,11 @@ These indeed are the quick paths of the sacrifice; verily by them do they procee
 ए॒ते वै य॒ज्ञस्या॑ञ्ज॒साय॑नी स्रु॒ती ।
 ताभ्या॒मे॒व सु॑व॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परा॑ञ्चो॒ वा ए॒ते सु॑व॒र्गल्ँ लो॒कम् अ॒भ्यारो॑हन्ति, ये परा॑चस् त्र्य॒हान् उ॑प॒यन्ति॑ ।  
+प᳓राञ्चो वा᳓ एते᳓ सुवर्गल्ँ᳓ लोक᳓म् अभ्या᳓रोह᳓न्ति᳓, ये᳓ प᳓राचस् त्र्यहा᳓न् उपय᳓न्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -220,7 +219,7 @@ Those who perform the three days in succession mount upon the world of heaven tu
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒त्यङ् त्र्य॒हो भ॑वति॒ प्र॒त्यव॑रूढ्या॒ , अथो॒ प्रति॑ष्ठित्यै ।
+प्रत्य᳓ङ् त्र्यहो᳓ भवति प्रत्य᳓वरूढ्या , अ᳓थो प्र᳓तिष्ठित्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -230,7 +229,7 @@ There is a three day period reversed, for returning (from heaven), and also for 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒भयो॑र् लो॒कयो॑र् ऋ॒द्ध्वा + उत्ति॑ष्ठन्ति ।
+उभ᳓योर् लोक᳓योर् ऋद्ध्वा᳓ + उ᳓त्तिष्ठन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -240,7 +239,7 @@ Having prospered in both worlds they cease (the rite).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वात्रिँ॑शद् ए॒ताः ।
+द्वा᳓त्रिँशद् एताः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -250,8 +249,8 @@ These (nights) are thirty-two.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तासाय्ँ॒ यास् त्रिँ॒शत् - त्रिँ॒शद् अ॑क्षरा वि॒राड्, अन्नव्ँ॑ वि॒राट्।  
-वि॒राजा + ए॒वान्नाद्य॒म् अव॑रुन्धते ।
+ता᳓साय्ँ या᳓स् त्रिँश᳓त् - त्रिँश᳓द् अक्षरा विरा᳓ड्, अ᳓न्नव्ँ विरा᳓ट्।  
+विरा᳓जा᳓ + एवा᳓न्ना᳓द्यम् अ᳓वरुन्धते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -261,7 +260,7 @@ As for thirty of them, the Viraj has thirty syllables, the Viraj is food; verily
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये द्वे - अ॑होरा॒त्रे ए॒व ते। उ॒भाभ्याँ॑ रू॒पाभ्याँ॑ सुव॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
+ये᳓ द्वे᳓ - अहोरात्रे᳓ एव᳓ ते᳓। उभा᳓भ्याँ रूपा᳓भ्याँ सुवर्गल्ँ᳓ लोकय्ँ᳓ यन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -271,7 +270,7 @@ As for the (remaining) two, they are days and nights, and by both forms they go 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ति॒रा॒त्राव् अ॒भितो॑ भवत॒ᳶ परि॑गृहीत्यै ॥ [17]
+अतिरात्रा᳓व् अभि᳓तो भवतᳶ प᳓रिगृहीत्यै ॥ [17]
 </details>
 
 <details><summary>Keith</summary>

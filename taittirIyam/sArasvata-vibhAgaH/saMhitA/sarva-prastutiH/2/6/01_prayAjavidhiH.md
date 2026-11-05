@@ -1,6 +1,5 @@
 +++
 title = "०१ प्रयाजविधिः"
-
 +++
 
 प्रजापतिर्ऋषिः
@@ -14,7 +13,7 @@ title = "०१ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मिधो॑ यजति।  
+समि᳓धो यजति।  
 </details>
 
 <details><summary>Keith</summary>
@@ -29,7 +28,7 @@ He offers to the kindling-sticks;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒स॒न्तम् ए॒व र्तू॒नाम् अव॑ रुन्द्धे ।  
+वसन्त᳓म् एव᳓ र्तूना᳓म् अ᳓व रुन्द्धे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -49,7 +48,7 @@ verily he wins spring among the seasons.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तनू॒-नपा॑तय्ँ यजति ।   
+त᳓नू-न᳓पातय्ँ यजति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -64,7 +63,7 @@ He offers to Tanunapat;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ग्री॒ष्मम् ए॒वाव॑ रुन्द्धे ।  
+ग्रीष्म᳓म् एवा᳓व रुन्द्धे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -89,7 +88,7 @@ verily he wins the hot season.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒डो य॑जति  ।   
+इडो᳓ यजति  ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -104,7 +103,7 @@ He offers to the oblations;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒र्षा ए॒वाव॑रुन्द्धे ।   
+वर्षा᳓ एवा᳓वरुन्द्धे ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -124,8 +123,8 @@ verily he wins the rains.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिर् य॑जति ।   
-श॒रद॑म् ए॒वाव॑ रुन्धे।   
+बर्हि᳓र् यजति ।   
+शर᳓दम् एवा᳓व रुन्धे।   
 </details>
 
 <details><summary>Keith</summary>
@@ -146,7 +145,7 @@ He offers to the sacrificial strew, verily lie wins autumn.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वा॒हा॒का॒रय्ँ य॑जति।   
+स्वाहाकारय्ँ᳓ यजति।   
 </details>
 
 <details><summary>Keith</summary>
@@ -161,7 +160,7 @@ He offers with the cry of 'Hail!';
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हे॒म॒न्तम् ए॒वाव॑ रुन्द्धे ।   
+हेमन्त᳓म् एवा᳓व रुन्द्धे ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -176,7 +175,7 @@ verily he wins the winter.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒त् स्वाहा॑कृता॒ हेम॑न् प॒शवोऽव॑ सीदन्ति ।
+त᳓स्मात् स्वा᳓हाकृता हे᳓मन् पश᳓वो᳓ऽव सीदन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -203,7 +202,7 @@ Therefore in winter animals over which the cry of 'Hail!' is raised perish.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मिधो॑ यजति ।   
+समि᳓धो यजति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -218,7 +217,7 @@ He offers to the kindling sticks;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒षस॑ ए॒व दे॒वता॑ना॒म् अव॑ रुन्धे  ।
+उष᳓स एव᳓ देव᳓तानाम् अ᳓व रुन्धे  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -240,7 +239,7 @@ verily he wins the dawns of the goddesses.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तनू॒-नपा॑तय्ँ **यजति**  ।   
+त᳓नू-न᳓पातय्ँ **यजति**  ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -255,7 +254,7 @@ He offers to Tanunapat;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञम् ए॒वाव॑ रुन्द्धे  ।     
+यज्ञ᳓म् एवा᳓व रुन्द्धे  ।     
 </details>
 
 <details><summary>Keith</summary>
@@ -275,7 +274,7 @@ verily he wins the sacrifice [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒डो य॑जति  ।   
+इडो᳓ यजति  ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -290,7 +289,7 @@ He offers to the oblations;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒शून् ए॒वाव॑ रुन्द्धे  ।   
+पशू᳓न् एवा᳓व रुन्द्धे  ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -310,7 +309,7 @@ verily he wins cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिर् य॑जति  ।   
+बर्हि᳓र् यजति  ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -325,7 +324,7 @@ He offers to the sacrificial strew;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाम् ए॒वाव॑ रुन्द्धे  ।  
+प्रजा᳓म् एवा᳓व रुन्द्धे  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -350,7 +349,7 @@ verily he wins offspring.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मान॑यत उप॒भृतः॑। 
+समा᳓नयत उपभृ᳓तः। 
 </details>
 
 <details><summary>Keith</summary>
@@ -365,8 +364,8 @@ He takes (the oblation) from the Upabhrt.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेजो॒ वा आज्य॑म् ।
-प्र॒जा ब॒र्हिᳶ,  
+ते᳓जो वा᳓ आ᳓ज्यम् ।
+प्रजा᳓ बर्हिᳶ᳓,  
 </details>
 
 <details><summary>Keith</summary>
@@ -381,7 +380,7 @@ The oblation is brilliance, the sacrificial strew offspring;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जास्व् ए॒व तेजो॑ दधाति  ।
+प्रजा᳓स्व् एव᳓ ते᳓जो दधाति  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -401,7 +400,7 @@ verily he places brilliance in offspring.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वा॒हा॒का॒रय्ँ य॑जति ।   
+स्वाहाकारय्ँ᳓ यजति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -416,7 +415,7 @@ He offers with the cry of 'Hail!';
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाच॑म् ए॒वाव॑ रुन्द्धे ।   
+वा᳓चम् एवा᳓व रुन्द्धे ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -436,9 +435,9 @@ verily he wins speech.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दश॒ सम्प॑द्यन्ते ।   
-दशा॑क्षरा वि॒राट् ।  (अन्नं॑ वि॒राट्।)  
-वि॒राजै॒वान्नाद्य॒म् अव॑ रुन्द्धे ।   
+द᳓श स᳓म्पद्यन्ते ।   
+द᳓शाक्षरा विरा᳓ट् ।  (अ᳓न्नं विरा᳓ट्।)  
+विरा᳓जैवा᳓न्ना᳓द्यम् अ᳓व रुन्द्धे ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -470,7 +469,7 @@ the Viraj has ten syllables,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मिधो॑ यजति ।   
+समि᳓धो यजति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -485,7 +484,7 @@ He offers to the kindling-sticks;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒स्मिन्न् ए॒व लो॒के प्रति॑ तिष्ठति ।   
+अस्मि᳓न्न् एव᳓ लोके᳓ प्र᳓ति तिष्ठति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -505,7 +504,7 @@ verily he finds support in this world.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तनू॒-नपा॑तय्ँ यजति ।   
+त᳓नू-न᳓पातय्ँ यजति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -520,7 +519,7 @@ He offers to Tanunapat [2];
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञ ए॒वान्तरि॑क्षे॒ प्रति॑ तिष्ठति ।  
+यज्ञ᳓ एवा᳓न्त᳓रिक्षे प्र᳓ति तिष्ठति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -535,7 +534,7 @@ verily in the sacrifice and in the atmosphere he finds support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒डो य॑जति ।  
+इडो᳓ यजति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -550,7 +549,7 @@ He offers to the oblations;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒शुष्व् ए॒व प्रति॑ तिष्ठति ।  
+पशु᳓ष्व् एव᳓ प्र᳓ति तिष्ठति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -570,8 +569,8 @@ verily in cattle he finds support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिर् य॑जति ।  
-य ए॒व दे॑व॒याना॒ᳶ पन्था॑न॒स्   
+बर्हि᳓र् यजति ।  
+य᳓ एव᳓ देवया᳓नाᳶ प᳓न्थानस्   
 </details>
 
 <details><summary>Keith</summary>
@@ -586,7 +585,7 @@ He offers to the sacrificial strew;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेष्व् ए॒व प्रति॑ तिष्ठति ।
+ते᳓ष्व् एव᳓ प्र᳓ति तिष्ठति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -606,7 +605,7 @@ verily he finds support in the paths that lead to the gods.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वा॒हा॒का॒रय्ँ य॑जति ।  
+स्वाहाकारय्ँ᳓ यजति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -621,7 +620,7 @@ He offers with the cry of 'Hail!';
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒व॒र्ग ए॒व लो॒के प्रति॑ तिष्ठति ।  
+सुवर्ग᳓ एव᳓ लोके᳓ प्र᳓ति तिष्ठति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -641,7 +640,7 @@ verily he finds support in the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ताव॑न्तो॒ वै दे॑वलो॒कास्  
+एता᳓वन्तो वै᳓ देवलोका᳓स्  
 </details>
 
 <details><summary>Keith</summary>
@@ -656,7 +655,7 @@ So many are the worlds of the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेष्व् ए॒व य॑थापू॒र्वम् प्रति॑ तिष्ठति ।
+ते᳓ष्व् एव᳓ यथापूर्व᳓म् प्र᳓ति तिष्ठति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -683,7 +682,7 @@ verily in them in order he finds support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा॒सु॒रा ए॒षु लो॒केष्व् अ॑स्पर्धन्त ।  
+देवासुरा᳓ एषु᳓ लोके᳓ष्व् अस्पर्धन्त ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -698,7 +697,7 @@ The gods and the Asuras contended as to these worlds.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वाᳶ प्र॑या॒जैर् ए॒भ्यो लो॒केभ्यो ऽसु॑रा॒न् **प्राणु॑दन्त** ।  
+ते᳓ देवाᳶ᳓ प्रयाजै᳓र् एभ्यो᳓ लोके᳓भ्यो᳓ ऽसुरान् **प्रा᳓णुदन्त** ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -713,7 +712,7 @@ The gods by the fore-sacrifices drove the Asuras away from these worlds;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् प्र॑या॒जाना॑म् प्रयाज॒त्वम्।  
+त᳓त् प्रयाजा᳓नाम् प्रयाजत्व᳓म्।  
 </details>
 
 <details><summary>Keith</summary>
@@ -738,8 +737,8 @@ that is why the fore-sacrifices [3] are so called.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस्यै॒वव्ँ वि॒दुषᳶ॑ प्रया॒जा इ॒ज्यन्ते॒  
-प्रैभ्यो लो॒केभ्यो॒ भ्रातृ॑व्यान् नुदते ।  
+य᳓स्यैवव्ँ᳓ विदु᳓षᳶ प्रयाजा᳓ इज्य᳓न्ते  
+प्रै᳓भ्यो᳓ लोके᳓भ्यो भ्रा᳓तृव्यान् नुदते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -757,7 +756,7 @@ He for whom knowing thus are offered the fore-sacrifices, drives his enemy away 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भि॒क्राम॑ञ् जुहोत्य् अ॒भिजि॑त्यै ।  
+अभिक्रा᳓मञ् जुहोत्य् अभि᳓जित्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -785,8 +784,8 @@ He offers stepping near, for conquest.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै प्र॑या॒जाना॑म् मिथु॒नव्ँ वेद॒  
-प्र प्र॒जया॑ प॒शुभि॑र् मिथु॒नैर् जा॑यते
+यो᳓ वै᳓ प्रयाजा᳓नाम् मिथुनव्ँ᳓ वे᳓द  
+प्र᳓ प्रज᳓या पशु᳓भिर् मिथुनै᳓र् जायते
 </details>
 
 <details><summary>Keith</summary>
@@ -801,8 +800,8 @@ He who knows the pairing of the fore sacrifices is propagated with offspring, wi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मिधो॑ ब॒ह्वीर् इ॑व यजति,   
-तनू॒नपा॑त॒म् एक॑म् इव। मि॒थु॒नन् तत्।   
+समि᳓धो बह्वी᳓र् इव यजति,   
+तनून᳓पातम् ए᳓कम् इव। मिथुन᳓न् त᳓त्।   
 </details>
 
 <details><summary>Keith</summary>
@@ -824,8 +823,8 @@ to Tanunapat as one, and that makes a pair.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒डो ब॒ह्वीर् इ॑व यजति,  
-ब॒र्हिर् एक॑म् इव - मिथु॒नन् तत्
+इडो᳓ बह्वी᳓र् इव यजति,  
+बर्हि᳓र् ए᳓कम् इव - मिथुन᳓न् त᳓त्
 </details>
 
 <details><summary>Keith</summary>
@@ -845,7 +844,7 @@ He offers to the kindling-sticks (sic) as many, to the sacrificial strew as one,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद् वै प्र॑या॒जाना॑म् मिथु॒नम्।  
+एत᳓द् वै᳓ प्रयाजा᳓नाम् मिथुन᳓म्।  
 </details>
 
 <details><summary>Keith</summary>
@@ -860,7 +859,7 @@ That is the pairing of the fore-sacrifices.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वेद॒ प्र [4]  प्र॒जया॑ प॒शुभि॑र् मिथु॒नैर् जा॑यते।
+य᳓ एवव्ँ᳓ वे᳓द प्र᳓ [4]  प्रज᳓या पशु᳓भिर् मिथुनै᳓र् जायते।
 </details>
 
 <details><summary>Keith</summary>
@@ -882,7 +881,7 @@ He who knows thus [4] is propagated with offspring, with cattle, with pairings.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वानाव्ँ॒ वा अन्-इ॑ष्टा दे॒वता॒ आस॑न् ।
+देवा᳓नाव्ँ वा᳓ अ᳓न्-इष्टा देव᳓ता आ᳓सन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -902,7 +901,7 @@ These deities were not sacrificed to by the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथासु॑रा य॒ज्ञम् अ॑जिघाँसन् ।  
+अ᳓था᳓सुरा यज्ञ᳓म् अजिघाँसन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -922,8 +921,8 @@ then the Asuras were fain to harm the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वा गा॑य॒त्रीव्ँ व्यौ॑हन् -  
-पञ्चा॒क्षरा॑णि प्रा॒चीना॑नि॒, त्रीणि॑ प्रती॒चीना॑नि ।
+ते᳓ देवा᳓ गायत्रीव्ँ᳓ व्यौहन् -  
+पञ्चाक्ष᳓राणि प्राची᳓नानि, त्री᳓णि प्रतीची᳓नानि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -947,7 +946,7 @@ five syllables in front and three behind.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वर्म॑ य॒ज्ञायाभ॑व॒द्,  वर्म॒ यज॑मानाय +++(अभवत् )+++
+त᳓तो व᳓र्म यज्ञा᳓या᳓भवद्,  व᳓र्म य᳓जमानाय +++(अभवत् )+++
 </details>
 
 <details><summary>Keith</summary>
@@ -972,9 +971,9 @@ Then the sacrifice was protected, and the sacrificer.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् प्र॑याजानूया॒जा इ॒ज्यन्ते॒  
-वर्मै॒व तद् य॒ज्ञाय॑ क्रियते॒  
-वर्म॒ यज॑मानाय॒, भ्रातृ॑व्याभिभूत्यै+++(←बहुव्रीहिः??)+++
+य᳓त् प्रयाजानूयाजा᳓ इज्य᳓न्ते  
+व᳓र्मैव᳓ त᳓द् यज्ञा᳓य क्रियते  
+व᳓र्म य᳓जमानाय, भ्रा᳓तृव्याभिभूत्यै+++(←बहुव्रीहिः??)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -995,8 +994,8 @@ protection is afforded to the sacrifice and to the sacrificer, for the overcomin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् वरू॑थम्+++(←वृ)+++ पु॒रस्ता॑त् वर्षी॑यᳶ  
-प॒श्चाद् +ध्रसी॑यः ।
+त᳓स्माद् व᳓रूथम्+++(←वृ)+++ पुर᳓स्तात् व᳓र्षीयᳶ  
+पश्चा᳓द् +ध्र᳓सीयः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1024,9 +1023,9 @@ Therefore a covering is larger in front and smaller behind.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा वै "पु॒रा रक्षो॑भ्य॒" [5]  इति॑  
-स्वाहाका॒रेण॑ प्रया॒जेषु॑  
-य॒ज्ञँ सँ॒स्थाप्य॑म् अपश्यन्।
+देवा᳓ वै᳓ "पुरा᳓ र᳓क्षोभ्य" [5]  इ᳓ति  
+स्वाहाकारे᳓ण प्रयाजे᳓षु  
+यज्ञँ᳓ सँस्था᳓प्यम् अपश्यन्।
 </details>
 
 <details><summary>Keith</summary>
@@ -1048,7 +1047,7 @@ The gods thought that the sacrifice must be completed (in the fore-sacrifice) be
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तँ स्वा॑हाका॒रेण॑ प्रया॒जेषु॒ सम॑स्थापयन् ।  
+तँ᳓ स्वाहाकारे᳓ण प्रयाजे᳓षु स᳓मस्थापयन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1068,8 +1067,8 @@ They completed it with the cry of 'Hail!' in the fore-sacrifices.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि वा ए॒तद् य॒ज्ञञ् छि॑न्दन्ति॒  
-यत् स्वा॑हाका॒रेण॑ प्रया॒जेषु॑ सँस्था॒पय॑न्ति।  
+वि᳓ वा᳓ एत᳓द् यज्ञ᳓ञ् छिन्दन्ति  
+य᳓त् स्वाहाकारे᳓ण प्रयाजे᳓षु सँस्थाप᳓यन्ति।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1090,7 +1089,7 @@ They split the sacrifice who complete it with the cry of 'Hail!' in the fore-sac
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒या॒जान् इ॒ष्ट्वा ह॒वीँष्य् अ॒भि घा॑रयति य॒ज्ञस्य॒ सन्त॑त्यै ।  
+प्रयाजा᳓न् इष्ट्वा᳓ हवीँ᳓ष्य् अभि᳓ घारयति यज्ञ᳓स्य स᳓न्तत्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1105,8 +1104,8 @@ Having offered the fore sacrifices he sprinkles the oblations, for the continuit
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॑ ह॒विर् ए॒वाकः॑ ।  
-अथो॑ यथापू॒र्वम् उपै॑ति ।
+अ᳓थो हवि᳓र् एवा᳓कः ।  
+अ᳓थो यथापूर्व᳓म् उ᳓पैति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1135,7 +1134,7 @@ then verily he makes the oblation, and then he proceeds in order.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पि॒ता वै प्र॑या॒जाᳶ, प्र॒जा ऽनू॑या॒जाः।    
+पिता᳓ वै᳓ प्रयाजाᳶ᳓, प्रजा᳓ ऽनूयाजाः᳓।    
 </details>
 
 <details><summary>Keith</summary>
@@ -1150,9 +1149,9 @@ The fore-sacrifices are the father, the after-sacrifices the son;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् प्र॑या॒जान् इ॒ष्ट्वा  
-ह॒वीँष्य् अ॑भिघा॒रय॑ति ,   
-पि॒तैव तत् पु॒त्रेण॒ साधा॑रणं कुरुते ।  
+य᳓त् प्रयाजा᳓न् इष्ट्वा᳓  
+हवीँ᳓ष्य् अभिघार᳓यति ,   
+पितै᳓व᳓ त᳓त् पुत्रे᳓ण सा᳓धारणं कुरुते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1173,11 +1172,11 @@ in that having offered the fore-sacrifices he sprinkles the oblations, the fathe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् आहु॒र् यश् चै॒वव्ँ वेद॒ यश्च॒ न  
+त᳓स्माद् आहुर् य᳓श् चैवव्ँ᳓ वे᳓द य᳓श्च न᳓  
 
-> क॒था पु॒त्रस्य॒ केव॑लङ्, क॒था साधा॑रणम् पि॒तुर्  
+> कथा᳓ पुत्र᳓स्य के᳓वलङ्, कथा᳓ सा᳓धारणम् पितु᳓र्  
 
-इति॑
+इ᳓ति
 </details>
 
 <details><summary>Keith</summary>
@@ -1206,8 +1205,8 @@ Therefore they say, who know it or who know not,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्क॑न्नम् ए॒व तद्  
-यत् प्र॑या॒जेष्व् इ॒ष्टेषु॒ स्कन्द॑ति ।  
+अ᳓स्कन्नम् एव᳓ त᳓द्  
+य᳓त् प्रयाजे᳓ष्व् इष्टे᳓षु स्क᳓न्दति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1229,7 +1228,7 @@ is not really spilt.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गा॒य॒त्र्य् ए॒॑व तेन॒ गर्भ॑न् धत्ते ।  
+गायत्र्य् ए᳓व᳓ ते᳓न ग᳓र्भन् धत्ते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1249,7 +1248,7 @@ The Gayatri conceives through it,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा प्र॒जाम् प॒शून् यज॑मानाय॒ प्र ज॑नयति ॥  
+सा᳓ प्रजा᳓म् पशू᳓न् य᳓जमानाय प्र᳓ जनयति ॥  
 </details>
 
 <details><summary>Keith</summary>

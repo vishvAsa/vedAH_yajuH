@@ -1,6 +1,5 @@
 +++
 title = "०१ भ्रातृव्यैः स्पर्धमानेष्टिः"
-
 +++
 तैत्तिरीय संहितीयां द्वितीय काण्डे चतुर्थप्रपाठकः ॥
 
@@ -11,8 +10,8 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा म॑नु॒ष्याः॑ पि॒तर॒स्ते॑ऽन्यत॑ आसन् ।   
-असु॑रा॒ रक्षाँ॑सि पिशा॒चास्ते॑न्यतः॑  +++(आसन्)+++ ।
+देवा᳓ मनुष्याः᳙ पित᳓रस्ते᳙ऽन्य᳓त आसन् ।   
+अ᳓सुरा र᳓क्षाँसि पिशाचा᳓स्तेन्य᳓तः  +++(आसन्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -33,8 +32,8 @@ The gods, men, and the Pitrs were on one side, the Asuras, Raksases, and Piśaca
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषा॑न्दे॒वाना॑मु॒त यदल्पल्ँ॒लोहि॑त॒मकु॑र्वन् ।  
-तद्रक्षाँ॑सि॒ रात्री॑भिरसुभ्नन् ।
+ते᳓षान्देवा᳓नामुत᳓ य᳓द᳓ल्पल्ँलो᳓हितम᳓कुर्वन् ।  
+त᳓द्र᳓क्षाँसि रा᳓त्रीभिरसुभ्नन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -55,7 +54,7 @@ Of the gods the little blood they drew the Raksases smothered by the nights
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तान्त्सु॒ब्धान्मृ॒तान॒भि व्यौ॑च्छत् ।
+ता᳓न्त्सुब्धा᳓न्मृता᳓नभि᳓ व्यौच्छत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -80,14 +79,14 @@ and dawn dawned on them smothered and dead.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वा अ॑विदुः ।  
-यो वै नो॒ऽयम्म्रि॒यते॑ ।   
-रक्षाँ॑सि॒ वा इ॒मङ्घ्न॒न्तीति॑ ।  
-ते रक्षाँ॒स्युपा॑मन्त्रयन्त ।  
-तान्य॑ब्रुवन् ।  
-वरव्ँ॑वृणामहै ।  
-यदसु॑रा॒ञ्जया॑म ।  
-तन्न॑स्स॒हास॒दिति॑ ।   
+ते᳓ देवा᳓ अविदुः ।  
+यो᳓ वै᳓ नोऽय᳓म्म्रिय᳓ते ।   
+र᳓क्षाँसि वा᳓ इम᳓ङ्घ्नन्ती᳓ति ।  
+ते᳓ र᳓क्षाँस्यु᳓पामन्त्रयन्त ।  
+ता᳓न्यब्रुवन् ।  
+व᳓रव्ँवृणामहै ।  
+य᳓द᳓सुराञ्ज᳓याम ।  
+त᳓न्नस्सहा᳓सदि᳓ति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -114,8 +113,8 @@ The gods understood, 'Him who of us dies, it is the Raksases who kill.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वै दे॒वा असु॑रानजयन् ।  
-तेऽसु॑राञ्जि॒त्वा रक्षाँ॒स्यपा॑नुदन्त ।
+त᳓तो वै᳓ देवा᳓ अ᳓सुरानजयन् ।  
+ते᳓ऽसुराञ्जित्वा᳓ र᳓क्षाँस्य᳓पानुदन्त ।
 </details>
 
 <details><summary>Keith</summary>
@@ -136,7 +135,7 @@ They invited the Raksases; they said, 'Let us choose a boon; what [1] we win fro
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तानि॒ रक्षाँ॒स्यनृ॑तमक॒र्तेति॑ सम॒न्तन्दे॒वान्पर्य॑विशन्।
+ता᳓नि र᳓क्षाँस्य᳓नृतमकर्ते᳓ति समन्त᳓न्देवा᳓न्प᳓र्यविशन्।
 </details>
 
 <details><summary>Keith</summary>
@@ -161,7 +160,7 @@ Then indeed did the gods conquer the Asuras, and having conquered the Asuras, th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वा अ॒ग्नाव॑नाथन्त ।  
+ते᳓ देवा᳓ अग्ना᳓वनाथन्त ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -181,7 +180,7 @@ The Raksases (saying), 'Ye have done falsely', surrounded the gods on all sides.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽग्नये॒ प्रव॑ते पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर॑वपन् ।   
+ते᳓ऽग्नये प्र᳓वते पुरोडा᳓शमष्टा᳓कपालन्नि᳓रवपन् ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -201,7 +200,7 @@ The gods found a protector in Agni;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॑ विबा॒धव॑ते॒ऽग्नये॒ प्रती॑कवते॒ यद॒ग्नये॒ प्रव॑ते नि॒रव॑पन् ।
+अग्न᳓ये विबाध᳓वतेऽग्न᳓ये प्र᳓तीकवते य᳓दग्न᳓ये प्र᳓वते निर᳓वपन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -226,7 +225,7 @@ they offered to Agni, the forward, a cake on eight potsherds,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यान्ये॒व पु॒रस्ता॒द् रक्षाँ॒स्यास॑न् ।  
+या᳓न्येव᳓ पुर᳓स्ताद् र᳓क्षाँस्या᳓सन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -246,7 +245,7 @@ to Agni, the overcomer, to Agni with the face.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तानि॒ तेन॒ प्राणु॑दन्त।  
+ता᳓नि ते᳓न प्रा᳓णुदन्त।  
 </details>
 
 <details><summary>Keith</summary>
@@ -266,7 +265,7 @@ In that they offered to Agni, the forward,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद॒ग्नये॑ विबा॒धव॑ते॒ यान्ये॒वाभितो॒  रक्षाँ॒स्यास॑न् ।  
+य᳓दग्न᳓ये विबाध᳓वते या᳓न्येवा᳓भि᳓तो  र᳓क्षाँस्या᳓सन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -286,7 +285,7 @@ the Raksases in front [2] they repelled thereby;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तानि॒ तेन॒ व्य॑बाधन्त ।   
+ता᳓नि ते᳓न व्य᳙बाधन्त ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -306,7 +305,7 @@ in that (they offered) to Agni, the overcomer,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद॒ग्नये॒ प्रती॑कवते॒ यान्ये॒व प॒श्चाद् रक्षाँ॒स्यास॑न् ।  
+य᳓दग्न᳓ये प्र᳓तीकवते या᳓न्येव᳓ पश्चा᳓द् र᳓क्षाँस्या᳓सन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -326,7 +325,7 @@ the Raksases that were around they repelled thereby;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तानि॒ तेनापा॑नुदन्त ।
+ता᳓नि ते᳓ना᳓पानुदन्त ।
 </details>
 
 <details><summary>Keith</summary>
@@ -346,8 +345,8 @@ in that (they offered) to Agni with the face, the Raksases behind were repelled 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॑ दे॒वा अभ॑वन् ।  
-परासु॑रा॒ यो भ्रातृ॑व्यवा॒न्त्स्यात् ।
+त᳓तो देवा᳓ अ᳓भवन् ।  
+प᳓रा᳓सुरा यो᳓ भ्रा᳓तृव्यवान्त्स्या᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -363,7 +362,7 @@ That the gods prospered, the Raksases were defeated.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स स्पर्ध॑मान ए॒तयेष्ट्या॑ यजेत ।
+स᳓ स्प᳓र्धमान एत᳓ये᳓ष्ट्या यजेत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -378,8 +377,8 @@ He who has foes should in conflict sacrifice with this offering;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॒ प्रव॑ते पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पेत् ।  
-अ॒ग्नये॑ विबा॒धव॑ते॒ऽग्नये ये॒ प्रती॑कवते॒ यद॒ग्नये॒ प्रव॑ते नि॒र्वप॑ति ।
+अग्न᳓ये प्र᳓वते पुरोडा᳓शमष्टा᳓कपालन्नि᳓र्वपेत् ।  
+अग्न᳓ये विबाध᳓वतेऽग्न᳓ये᳓ ये प्र᳓तीकवते य᳓दग्न᳓ये प्र᳓वते निर्व᳓पति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -405,7 +404,7 @@ he should offer to Agni, the forward, a cake on eight potsherds, to Agni, the ov
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वास्मा॒च्छ्रेया॒न्भ्रातृ॑व्य॒स्तन्तेन॒ प्र णु॑दते ।  
+य᳓ एवा᳓स्माच्छ्रे᳓यान्भ्रा᳓तृव्यस्त᳓न्ते᳓न प्र᳓ णुदते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -425,7 +424,7 @@ In that he offers to Agni, the forward, he repels thereby the foe who is superio
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद॒ग्नये॑ विबा॒धव॑ते॒ य ए॒वैने॑न स॒दृङ्तन्तेन॒ वि बा॑धते ।  
+य᳓दग्न᳓ये विबाध᳓वते य᳓ एवै᳓नेन सदृ᳓ङ्त᳓न्ते᳓न वि᳓ बाधते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -445,7 +444,7 @@ in that (he offers) to Agni, the overcomer, he repels thereby (the foe) who is e
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद॒ग्नये॒ प्रती॑कवते॒ य ए॒वास्मा॒त्पापी॑या॒न्तन्तेनाप॑ नुदते ।  
+य᳓दग्न᳓ये प्र᳓तीकवते य᳓ एवा᳓स्मात्पा᳓पीयान्त᳓न्ते᳓ना᳓प नुदते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -465,10 +464,10 @@ in that (he offers) to Agni with the face, he repels thereby the foe which is in
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र श्रेयाँ॑स॒म्भ्रातृ॑व्यन्नुदते ।  
-अति॑ स॒दृश॑ङ्क्रामति ।  
-नैन॒म्पापी॑यानाप्नोति ।   
-य ए॒वव्ँवि॒द्वाने॒तयेष्ट्या॒ यज॑ते ॥
+प्र᳓ श्रे᳓याँसम्भ्रा᳓तृव्यन्नुदते ।  
+अ᳓ति सदृ᳓शङ्क्रामति ।  
+नै᳓नम्पा᳓पीयानाप्नोति ।   
+य᳓ एवव्ँ᳓विद्वा᳓नेत᳓ये᳓ष्ट्या य᳓जते ॥
 </details>
 
 <details><summary>Keith</summary>

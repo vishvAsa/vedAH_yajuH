@@ -5,7 +5,6 @@ unicode_script: devanagari
 ---
 ## रायसूयानुब्राह्मणम्
 
-
 <details><summary>मूलम्</summary>
 
 त्रि॒वृद्ब॒र्हिर्भ॑वति ।
@@ -14,7 +13,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रि॒वृद् ब॒र्हिर् भ॑वति ,मा॒ता पि॒ता पु॒त्रः ।  
+त्रिवृ᳓द् बर्हि᳓र् भवति ,माता᳓ पिता᳓ पुत्रः᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -28,7 +27,6 @@ unicode_script: devanagari
 1 वैश्वदेवपर्वगतान्येवविशेषाङ्गानिविधीयन्ते । तत्र  चोदकप्राप्तस्यबर्हिषस्त्रैगुण्यं  विधत्ते- त्रिवृदिति  ॥ मात्रादित्रयं  यदस्ति तदेव पुत्रयुक्तत्वात्तन्मिथुनं  सार्थकम् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तदे॒व तन्मि॑थु॒नम् ।
@@ -37,8 +35,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् ए॒व तन् मि॑थु॒नम् उ॑ल्ब॒ङ् गर्भो॑ ज॒रायु॑ ।  
-तद् ए॒व तन् मि॑थु॒नम् ।  
+त᳓द् एव᳓ त᳓न् मिथुन᳓म् उल्बङ् ग᳓र्भो जरा᳓यु ।  
+त᳓द् एव᳓ त᳓न् मिथुन᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -54,14 +52,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रे॒धा ब॒र्हिस् सन्न॑द्धम् भवति ।  
+त्रेधा᳓ बर्हि᳓स् स᳓न्नद्धम् भवति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्रे॒धा ब॒र्हिस् सन्न॑द्धम् भवति ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -71,7 +68,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रय॑ इ॒मे लो॒का ए॒ष्व् ए॑व लो॒केषु॒ प्रति॑ तिष्ठति ।  
+त्र᳓य इमे᳓ लोका᳓ एष्व् ए᳙व लोके᳓षु प्र᳓ति तिष्ठति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -86,14 +83,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒क॒धा पुन॒स् सन्न॑द्धम् भवति ।  
+एकधा᳓ पु᳓नस् स᳓न्नद्धम् भवति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 ए॒क॒धा पुन॒स् सन्न॑द्धम् भवति ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -103,7 +99,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एक॑ इव॒ ह्य् अ॑यल्ँ लो॒को अ॒स्मिन्न् ए॒व तेन॑ लो॒के प्रति॑तिष्ठति  ।  
+ए᳓क इव ह्य् अ᳙यल्ँ लोको᳓ अस्मि᳓न्न् एव᳓ ते᳓न लोके᳓ प्र᳓तितिष्ठति  ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -118,7 +114,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒सुवो॑ भवन्ति ।  
+प्रसु᳓वो भवन्ति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -133,8 +129,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒थ॒म॒जाम् ए॒व पुष्टि॒म् अव॑रुन्धे ।  
-प्र॒थ॒म॒जो व॒त्सो दक्षि॑णा॒ समृ॑द्ध्यै ।  
+प्रथमजा᳓म् एव᳓ पु᳓ष्टिम् अ᳓वरुन्धे ।  
+प्रथमजो᳓ वत्सो᳓ द᳓क्षिणा स᳓मृद्ध्यै ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -150,9 +146,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒ष॒दा॒ज्यङ् गृ॑ह्णाति ।  
-प॒शवो॒ वै पृ॑षदा॒ज्यम् ।  
-प॒शूने॒वाव॑रुन्धे ।  
+पृषदाज्य᳓ङ् गृह्णाति ।  
+पश᳓वो वै᳓ पृषदाज्य᳓म् ।  
+पशू᳓नेवा᳓वरुन्धे ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -169,8 +165,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒ञ्च॒-गृ॒ही॒तम् भ॑वति ।  
-पाङ्क्ता॒ हि प॒शवः॑ ।
+पञ्च-गृहीत᳓म् भवति ।  
+पा᳓ङ्क्ता हि᳓ पश᳓वः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -186,8 +182,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒हु॒-रू॒पम् भ॑वति ॥20॥  
-ब॒हु॒-रू॒पा हि प॒शव॒स् समृ॑द्ध्यै ।  
+बहु-रूप᳓म् भवति ॥20॥  
+बहु-रूपा᳓ हि᳓ पश᳓वस् स᳓मृद्ध्यै ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -203,8 +199,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निम् म॑न्थन्ति ।  
-अ॒ग्नि-मु॑खा॒ वै प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।  
+अग्नि᳓म् मन्थन्ति ।  
+अग्नि᳓-मुखा वै᳓ प्रजा᳓पतिᳶ प्रजा᳓ असृजत ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -212,7 +208,6 @@ unicode_script: devanagari
 अ॒ग्निम् म॑न्थन्ति ।  
 अ॒ग्नि-मु॑खा॒ वै प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -222,7 +217,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अ॒ग्निम् मन्थ॑न्त्य्  अ॒ग्नि-मु॑खा ए॒व तत् प्र॒जा यज॑मानस् सृजते ।  
+य᳓द् अग्नि᳓म् म᳓न्थन्त्य्  अग्नि᳓-मुखा एव᳓ त᳓त् प्रजा᳓ य᳓जमानस् सृजते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -235,7 +230,6 @@ unicode_script: devanagari
 8 हविरासादनादूर्ध्वं सामिधेनीभ्यः पुरामन्थनं विधत्ते- अग्निमिति ॥ अग्नेः प्रथमसृष्टत्वात्प्रजानामग्निमुखत्वम् ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 नव॑ प्रया॒जा इ॑ज्यन्ते ।
@@ -244,8 +238,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नव॑ प्रया॒जा इ॑ज्यन्ते॒ ,  नवा॑नूया॒जाः ।  
-अ॒ष्टौ ह॒वीँषि॑ ।  
+न᳓व प्रयाजा᳓ इज्यन्ते ,  न᳓वानूयाजाः᳓ ।  
+अष्टौ᳓ हवीँ᳓षि ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -253,7 +247,6 @@ unicode_script: devanagari
 नव॑ प्रया॒जा इ॑ज्यन्ते॒ ,  नवा॑नूया॒जाः ।  
 अ॒ष्टौ ह॒वीँषि॑ ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -263,7 +256,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वाव् आ॑घा॒रौ ,  द्वाव् आज्य॑भागौ ॥21॥
+द्वा᳓व् आघारौ᳓ ,  द्वा᳓व् आ᳓ज्यभागौ ॥21॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -276,7 +269,6 @@ unicode_script: devanagari
 9 शाखान्तराभिहितां प्रयाजानूयाजसङ्ख्यां हृदिनिधाययागं प्रशंसति- नवेति ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 त्रिँ॒शत्सम्प॑द्यन्ते ।
@@ -285,9 +277,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रिँ॒शत् सम्प॑द्यन्ते ,  त्रिँ॒शद् अ॑क्षरा वि॒राट् ।  
-अन्नव्ँ॑ वि॒राट् ।  
-वि॒राजै॒वान्नाद्य॒म् अव॑रुन्धे ।  
+त्रिँश᳓त् स᳓म्पद्यन्ते ,  त्रिँश᳓द् अक्षरा विरा᳓ट् ।  
+अ᳓न्नव्ँ विरा᳓ट् ।  
+विरा᳓जैवा᳓न्ना᳓द्यम् अ᳓वरुन्धे ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -302,7 +294,6 @@ unicode_script: devanagari
 दशाक्षरपादैस्त्रिभिर्युक्तस्यविराट्छन्दसः त्रिंशदक्षरत्वम् ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यज॑मानो॒ वा एक॑कपालः ।
@@ -311,14 +302,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानो॒ वा एक॑कपाल॒स् तेज॒ आज्य॑म् ।  
+य᳓जमानो वा᳓ ए᳓ककपालस् ते᳓ज आ᳓ज्यम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 यज॑मानो॒ वा एक॑कपाल॒स् तेज॒ आज्य॑म् ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -328,14 +318,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् एक॑कपाल॒ आज्य॑म् आ॒नय॑ति॒  यज॑मानम् ए॒व तेज॑सा॒ सम॑र्धयति ।  
+य᳓द् ए᳓ककपाल आ᳓ज्यम् आन᳓यति  य᳓जमानम् एव᳓ ते᳓जसा स᳓मर्धयति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद् एक॑कपाल॒ आज्य॑म् आ॒नय॑ति॒  यज॑मानम् ए॒व तेज॑सा॒ सम॑र्धयति ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -345,14 +334,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानो॒ वा एक॑कपालᳶ प॒शव॒ आज्य॑म् ॥22॥  
+य᳓जमानो वा᳓ ए᳓ककपालᳶ पश᳓व आ᳓ज्यम् ॥22॥  
 </details>
 
 <details><summary>मूलम्</summary>
 
 यज॑मानो॒ वा एक॑कपालᳶ प॒शव॒ आज्य॑म् ॥22॥  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -362,7 +350,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् एक॑कपाल॒ आज्य॑म् आ॒नय॑ति॒  यज॑मानम् ए॒व प॒शुभि॒स् सम॑र्धयति ।  
+य᳓द् ए᳓ककपाल आ᳓ज्यम् आन᳓यति  य᳓जमानम् एव᳓ पशु᳓भिस् स᳓मर्धयति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -375,7 +363,6 @@ unicode_script: devanagari
 10 अलङ्करणकालेआज्येनैककपालमभिपूरयतीत्यापस्तम्बेनयदुक्तं तदिदं द्वेधाप्रशस्यविधत्ते- यजमान इति ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यदल्प॑मा॒नये॑त् ।
@@ -384,14 +371,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अल्प॑म् आ॒नये॑द् अल्पा॑ एनम् प॒शवो॑ भु॒ञ्जन्त॒ उप॑-तिष्ठेरन् ।  
+य᳓द् अ᳓ल्पम् आन᳓येद् अ᳓ल्पा एनम् पश᳓वो भुञ्ज᳓न्त उ᳓प-तिष्ठेरन् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद् अल्प॑म् आ॒नये॑द् अल्पा॑ एनम् प॒शवो॑ भु॒ञ्जन्त॒ उप॑-तिष्ठेरन् ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -401,7 +387,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् ब॒ह्व् आ॑नये॑द् ब॒हव॑ एनम् प॒शवो ऽभु॑ञ्जन्त॒ उप॑तिष्ठेरन् ।  
+य᳓द् बह्व् आ᳙न᳓येद् बह᳓व एनम् पश᳓वो᳓ ऽभुञ्जन्त उ᳓पतिष्ठेरन् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -416,9 +402,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒ह्व् आ॑नीया॒विᳶ-पृ॑ष्ठङ् कुर्यात् ।  
+बह्व् आ᳙नीयाविᳶ᳓-पृष्ठङ् कुर्यात् ।  
 
-ब॒हव॑ ए॒वैन॑म् प॒शवो॑ भु॒ञ्जन्त॒ उप॑तिष्ठन्ते ।  
+बह᳓व एवै᳓नम् पश᳓वो भुञ्ज᳓न्त उ᳓पतिष्ठन्ते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -435,14 +421,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानो॒ वा एक॑कपालः ।  
+य᳓जमानो वा᳓ ए᳓ककपालः ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 यज॑मानो॒ वा एक॑कपालः ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -452,7 +437,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् एक॑कपालस्याव॒द्येद् यज॑मान॒स्याव॑द्येत् ।  
+य᳓द् ए᳓ककपालस्यावद्ये᳓द् य᳓जमानस्या᳓वद्येत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -465,7 +450,6 @@ unicode_script: devanagari
 12 कृत्स्नस्यापिपुरोडाशस्यहोमं विधातुं प्रस्तौति- यजमान इति ॥ इतरपुरोडाशेषु भक्षणाद्यर्थमवशेष्यकिञ्चिदेवावदीयेत । तद्वदत्राप्यवदानेनयजमानस्यावयवः छिद्येत ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 उद्वा॒ माद्ये॒द्यज॑मानः ।
@@ -474,7 +458,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद् वा॒ माद्ये॒द् यज॑मानᳶ प्र वा॑ मीयेत ।  
+उ᳓द् वा मा᳓द्येद् य᳓जमा᳓नᳶ᳓ प्र᳓ वा मीयेत ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -489,8 +473,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒कृद् ए॒व हो॑त॒व्यः॑ ।  
-स॒कृदि॑व॒ हि सु॑व॒र्गो लो॒कः ।  
+सकृ᳓द् एव᳓ होतव्यः᳙ ।  
+सकृ᳓दिव हि᳓ सुवर्गो᳓ लोकः᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -506,14 +490,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हु॒त्वा ऽभि-जु॑होति ।  
+हुत्वा᳓ ऽभि᳓-जुहोति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 हु॒त्वा ऽभि-जु॑होति ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -523,14 +506,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानम् ए॒व सु॑व॒र्गल्ँ लो॒कङ् ग॑मयि॒त्वा  तेज॑सा॒ सम॑र्धयति ।  
+य᳓जमानम् एव᳓ सुवर्गल्ँ᳓ लोक᳓ङ् गमयित्वा᳓  ते᳓जसा स᳓मर्धयति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 यज॑मानम् ए॒व सु॑व॒र्गल्ँ लो॒कङ् ग॑मयि॒त्वा  तेज॑सा॒ सम॑र्धयति ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -540,14 +522,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानो॒ वा एक॑-कपालस् सुव॒र्गो लो॒क आ॑हव॒नीयः॑ ॥24॥  
+य᳓जमानो वा᳓ ए᳓क-कपालस् सुवर्गो᳓ लोक᳓ आहवनी᳓यः ॥24॥  
 </details>
 
 <details><summary>मूलम्</summary>
 
 यज॑मानो॒ वा एक॑-कपालस् सुव॒र्गो लो॒क आ॑हव॒नीयः॑ ॥24॥  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -557,7 +538,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् एक॑-कपालम् आहव॒नीये॑ जु॒होति॒ यज॑मानम् ए॒व सु॑व॒र्गल्ँ लो॒कङ् ग॑मयति ।  
+य᳓द् ए᳓क-कपालम् आहवनी᳓ये जुहो᳓ति य᳓जमानम् एव᳓ सुवर्गल्ँ᳓ लोक᳓ङ् गमयति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -570,7 +551,6 @@ unicode_script: devanagari
 14 एककपालेपूर्वमानीतस्यबह्वाज्यस्यहोमं विधत्ते- हुत्वेति ॥ आदौपुरोडाशं हुत्वातस्यउपर्याज्यं जुहुयात् ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यद्धस्ते॑न जुहु॒यात् ।
@@ -579,14 +559,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् धस्ते॑न जुहु॒यात्  सुव॒र्गाल् लो॒काद् यज॑मान॒म् अव॑विध्येत् ।  
+य᳓द् ध᳓स्तेन जुहुया᳓त्  सु᳓वर्गा᳓ल् लोका᳓द् य᳓जमानम् अ᳓वविध्येत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद् धस्ते॑न जुहु॒यात्  सुव॒र्गाल् लो॒काद् यज॑मान॒म् अव॑विध्येत् ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -596,7 +575,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्रु॒चा जु॑होति सुव॒र्गस्य॑ लो॒कस्य॒ सम॑ष्ट्यै ।  
+स्रुचा᳓ जुहोति सुवर्ग᳓स्य लोक᳓स्य स᳓मष्ट्यै ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -610,7 +589,6 @@ unicode_script: devanagari
 स्रुचाहूयमानस्त्ववाङ्मुखोवह्नौपतेत् । अतः तद्विरोधं परिहर्तुं हस्तेनहोतव्यं इत्येषामन्दानामुपपत्तिः ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यत्प्राङ्पद्ये॑त ।
@@ -619,8 +597,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् प्राङ् पद्ये॑त देव-लो॒कम् अ॒भि-ज॑येत् ।  
-यद् द॑क्षि॒णा +++(पद्येत)+++ पि॑तृ-लो॒कम् +++(अभिजयेत् )+++।  
+य᳓त् प्रा᳓ङ् प᳓द्येत देव-लोक᳓म् अभि᳓-जयेत् ।  
+य᳓द् दक्षिणा᳓ +++(पद्येत)+++ पितृ-लोक᳓म् +++(अभिजयेत् )+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -628,7 +606,6 @@ unicode_script: devanagari
 यत् प्राङ् पद्ये॑त देव-लो॒कम् अ॒भि-ज॑येत् ।  
 यद् द॑क्षि॒णा +++(पद्येत)+++ पि॑तृ-लो॒कम् +++(अभिजयेत् )+++।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -638,14 +615,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् प्र॒त्यक् +++(पद्येत)+++रक्षाँ॑सि य॒ज्ञँ ह॑न्युः ।  
+य᳓त् प्रत्य᳓क् +++(पद्येत)+++र᳓क्षाँसि यज्ञँ᳓ हन्युः ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 यत् प्र॒त्यक् +++(पद्येत)+++रक्षाँ॑सि य॒ज्ञँ ह॑न्युः ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -655,7 +631,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् उदङ्ङ्॑ +++(पद्येत)+++  मनुष्य-लो॒कम् अ॒भि-ज॑येत् ।  
+य᳓द् उ᳓द᳓ङ्ङ् +++(पद्येत)+++  मनुष्य-लोक᳓म् अभि᳓-जयेत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -670,12 +646,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रति॑ष्ठितो होत॒व्यः॑ ।
-एक॑कपालव्ँ॒ वै प्र॑ति॒तिष्ठ॑न् त॒न् द्यावा॑-पृथि॒वी अनु॒ प्रति॑-तिष्ठतः ।  
-द्यावा॑-पृथि॒वी ऋ॒तवः॑+++(अनु प्रतितिष्ठन्ति )+++  ।  
-ऋ॒तून् य॒ज्ञः +++( अनु प्रतितिष्ठिति)+++ ।  
-य॒ज्ञय्ँ यज॑मानः  +++( अनु प्रतितिष्ठति)+++ ।  
-यज॑मानम् प्र॒जाः  +++( अनु प्रतितिष्ठन्ति)+++ ।   
+प्र᳓तिष्ठितो होतव्यः᳙ ।
+ए᳓ककपालव्ँ वै᳓ प्रतिति᳓ष्ठन् तन् द्या᳓वा-पृथिवी᳓ अ᳓नु प्र᳓ति-तिष्ठतः ।  
+द्या᳓वा-पृथिवी᳓ ऋत᳓वः+++(अनु प्रतितिष्ठन्ति )+++  ।  
+ऋतू᳓न् यज्ञः᳓ +++( अनु प्रतितिष्ठिति)+++ ।  
+यज्ञय्ँ᳓ य᳓जमानः  +++( अनु प्रतितिष्ठति)+++ ।  
+य᳓जमानम् प्रजाः᳓  +++( अनु प्रतितिष्ठन्ति)+++ ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -695,7 +671,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒त्प्रति॑ष्ठितो होत॒व्यः॑ ॥26॥
+त᳓स्मात्प्र᳓तिष्ठितो होतव्यः᳙ ॥26॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -710,14 +686,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒जिनो॑ यजति ।  
+वाजि᳓नो यजति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 वा॒जिनो॑ यजति ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -728,14 +703,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निर् वा॒युस् सूर्यः॒,  ते वै वा॒जिन॒स्,  ताने॒व तद् य॑जति ।  
+अग्नि᳓र् वायु᳓स् सू᳓र्यः,  ते᳓ वै᳓ वाजि᳓नस्,  ता᳓नेव᳓ त᳓द् यजति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर् वा॒युस् सूर्यः॒,  ते वै वा॒जिन॒स्,  ताने॒व तद् य॑जति ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -746,7 +720,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ खल्व् आ॑हुः॒ , "छन्दाँ॑सि॒ वै वा॒जिन॒" इति॒ , तान्य् ए॒व तद् य॑जति ।  
+अ᳓थो ख᳓ल्व् आहुः , "छ᳓न्दाँसि वै᳓ वाजि᳓न" इ᳓ति , ता᳓न्य् एव᳓ त᳓द् यजति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -761,9 +735,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒ख्-सा॒मे वा इन्द्र॑स्य॒ हरी॑ सोम॒-पानौ॑ ।  
-तयो॑ᳶ परि॒धय॑ आ॒धान॑म् ।
-वाजि॑नम्भाग॒धेय॑म् ॥27॥  
+ऋख्-सामे᳓ वा᳓ इ᳓न्द्रस्य ह᳓री सोम-पा᳓नौ ।  
+त᳓योᳶ परिध᳓य आधा᳓नम् ।
+वा᳓जिनम्भागधे᳓यम् ॥27॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -775,7 +749,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तयो॑ᳶ परि॒धय॑ आ॒धानव्ँ॒ वाजि॑नम् भाग॒धेय॑म् ॥27॥
+त᳓योᳶ परिध᳓य आधा᳓नव्ँ वा᳓जिनम् भागधे᳓यम् ॥27॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -788,7 +762,6 @@ unicode_script: devanagari
 19 तस्ययागस्यकालं विधातुं प्रस्तौति- ऋगिति ॥ हरीअश्वौ । तयोः वशीकरणाय      मुखे प्रक्षिप्तो लोहविशेषआधानम् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यदप्र॑हृत्य परि॒धीञ्जु॑हु॒यात् ।
@@ -797,7 +770,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अप्र॑हृत्य परि॒धीञ् जु॑हु॒याद् अ॒न्तरा॑धानाभ्याङ् घा॒सम् प्रय॑च्छेत् ।
+य᳓द् अ᳓प्रहृत्य परिधी᳓ञ् जुहुया᳓द् अन्त᳓राधानाभ्याङ् घास᳓म् प्र᳓यच्छेत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -812,8 +785,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒हृत्य॑ परि॒धीञ् जु॑होति ।  
-निरा॑धानाभ्याम् ए॒व घा॒सम् प्रय॑च्छति ।  
+प्रहृ᳓त्य परिधी᳓ञ् जुहोति ।  
+नि᳓राधानाभ्याम् एव᳓ घास᳓म् प्र᳓यच्छति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -829,14 +802,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिषि॑ विषि॒ञ्चन् वाजि॑न॒म् आन॑यति ।  
+बर्हि᳓षि विषिञ्च᳓न् वा᳓जिनम् आ᳓नयति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 ब॒र्हिषि॑ विषि॒ञ्चन् वाजि॑न॒म् आन॑यति ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -847,7 +819,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जा वै ब॒र्ही रेतो॒ वाजि॑नम् , प्र॒जास्व् ए॒व रेतो॑ दधाति ।
+प्रजा᳓ वै᳓ बर्ही᳓ रे᳓तो वा᳓जिनम् , प्रजा᳓स्व् एव᳓ रे᳓तो दधाति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -862,9 +834,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मु॒प॒हूय॑ भक्षयन्ति ।  
-ए॒तत् सो॑मपीथा॒ ह्य् ए॑ते ।  
-अथो॑ आ॒त्मन्न् ए॒व रेतो॑ दधते ।  
+समुपहू᳓य भक्षयन्ति ।  
+एत᳓त् सोमपीथा ह्य् ए᳙ते ।  
+अ᳓थो आत्म᳓न्न् एव᳓ रे᳓तो दधते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -883,14 +855,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मान उत्त॒मो भ॑क्षयति ।  
+य᳓जमान उत्तमो᳓ भक्षयति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 यज॑मान उत्त॒मो भ॑क्षयति ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -900,7 +871,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒शवो॒ वै वाजि॑नय्ँ॒ यज॑मान ए॒व प॒शून् प्रति॑ष्ठापयन्ति ॥28॥  
+पश᳓वो वै᳓ वा᳓जिनय्ँ य᳓जमान एव᳓ पशू᳓न् प्र᳓तिष्ठापयन्ति ॥28॥  
 </details>
 
 <details><summary>मूलम्</summary>

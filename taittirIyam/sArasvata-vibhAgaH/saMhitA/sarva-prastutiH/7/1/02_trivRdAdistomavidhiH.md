@@ -1,6 +1,5 @@
 +++
 title = "०२ त्रिवृदादिस्तोमविधिः "
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -17,7 +16,7 @@ title = "०२ त्रिवृदादिस्तोमविधिः "
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒त॒स्-स॒व॒ने वै गा॑य॒त्रेण॒ छन्द॑सा त्रि॒वृते॒ स्तोमा॑य॒ ज्योति॒र् दध॑द् एति ।  
+प्रातस्-सवने᳓ वै᳓ गायत्रे᳓ण छ᳓न्दसा त्रिवृ᳓ते स्तो᳓माय ज्यो᳓तिर् द᳓धद् एति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -42,7 +41,7 @@ At the morning pressing he keeps glorifying the Trivrt Stoma by the Gayatri metr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रि॒वृता॑ ब्रह्मवर्च॒सेन॑ पञ्चद॒शाय॒ +++(स्तोमाय)+++ ज्योति॒र् दध॑द् एति ।  
+त्रिवृ᳓ता ब्रह्मवर्चसे᳓न पञ्चदशा᳓य +++(स्तोमाय)+++ ज्यो᳓तिर् द᳓धद् एति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -67,7 +66,7 @@ the Pañcadaśa Stoma by the Trivrt, which is splendour;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्चद॒शेनौज॑सा वी॒र्ये॑ण सप्तद॒शाय॒ +++(स्तोमाय)+++  ज्योति॒र् दध॑द् एति ।  
+प᳓ञ्च᳓दशे᳓नौ᳓जसा वीर्ये᳙ण सप्तदशा᳓य +++(स्तोमाय)+++  ज्यो᳓तिर् द᳓धद् एति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -92,7 +91,7 @@ the Saptadaśa by the Pañcadaśa which is force and strength;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सप्तद॒शेन॑ प्राजाप॒त्येन॑ प्र॒जन॑नेनैकविँ॒शाय॒ +++(स्तोमाय)+++  ज्योति॒र् दध॑द् एति ।  
+स᳓प्त᳓दशे᳓न प्राजापत्ये᳓न प्रज᳓ननेनैकविँशा᳓य +++(स्तोमाय)+++  ज्यो᳓तिर् द᳓धद् एति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -117,7 +116,7 @@ the Ekavinśa by the Saptadaśa which is connected with Prajapati and causes beg
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्तोम॑ ए॒व तत् स्तोमा॑य॒ ज्योति॒र् दध॑दे॒ति ।  
+स्तो᳓म एव᳓ त᳓त् स्तो᳓माय ज्यो᳓तिर् द᳓धदेति᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -142,7 +141,7 @@ Verily thus Stoma glorifies Stoma;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ स्तोम॑ ए॒व स्तोम॑म् अ॒भि प्र ण॑यति ।
+अ᳓थो स्तो᳓म एव᳓ स्तो᳓मम् अभि᳓ प्र᳓ णयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -169,7 +168,7 @@ verily also Stoma leads Stoma forth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याव॑न्तो॒ वै स्तोमाः॑,  ताव॑न्त॒ᳵ कामाः॑ , ताव॑न्तो लो॒काः , ताव॑न्ति॒ ज्योतीँ॑षि +++(ब्रह्मवर्चसादीनि)+++ ।  
+या᳓वन्तो वै᳓ स्तो᳓माः,  ता᳓वन्तᳵ का᳓माः , ता᳓वन्तो लोकाः᳓ , ता᳓वन्ति ज्यो᳓तीँषि +++(ब्रह्मवर्चसादीनि)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -181,6 +180,7 @@ As many as are the Stomas, so many are desires, so many the worlds, so many the 
 
 याव॑न्तो॒ वै स्तोमाः॑,  ताव॑न्त॒ᳵ कामाः॑ , ताव॑न्तो लो॒काः , ताव॑न्ति॒ ज्योतीँ॑षि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 याव॑न्तः । वै । स्तोमाः॑ । ताव॑न्तः । कामाः॑ ।     
@@ -197,7 +197,7 @@ As many as are the Stomas, so many are desires, so many the worlds, so many the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ताव॑त ए॒व स्तोमा॑न्, ए॒ताव॑त॒ᳵ कामा॑न् , ए॒ताव॑तो लो॒कान् , ए॒ताव॑न्ति॒ ज्योतीँ॒ष्यव॑ रुन्द्धे+++(=लभते)+++ ।
+एता᳓वत एव᳓ स्तो᳓मान्, एता᳓वतᳵ का᳓मान् , एता᳓वतो लोका᳓न् , एता᳓वन्ति ज्यो᳓तीँष्य᳓व रुन्द्धे+++(=लभते)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -221,4 +221,3 @@ verily so many Stomas, so many desires, so many worlds, so many lights does he w
 
 इति सप्तमे प्रथमे द्वितीयोनुवाकः ॥  
 </details>
-

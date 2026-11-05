@@ -10,8 +10,7 @@ _______
 1तृतीयं मरुत्वतीयं गृह्णाति - मरुत्वानिन्द्रेति चतुष्पदया त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/047/01_marutvA_N_indra.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/047/01_marutvA_N_indra.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 मरु᳓त्वाँ इन्द्र वृषभो᳓ र᳓णाय  
@@ -20,11 +19,17 @@ _______
 त्वं᳓ **रा᳓जासि** प्रदि᳓वः सुता᳓नाम् ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/047/01_marutvA_N_indra.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/047/01_marutvA_N_indra.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+म॒रुत्वाँ॑ इन्द्र वृष॒भो रणा॑य॒ पिबा॒ सोम॑मनुष्व॒धं मदा॑य ।  
+आ सि॑ञ्चस्व ज॒ठरे॒ मध्व॑ ऊ॒र्मिं त्वं राजा॑सि प्र॒दिवः॑ सु॒ताना॑म् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/047/01_marutvA_N_indra.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -360,7 +365,6 @@ Zur Wonn', o Indra, mit den Maruts trinke, du Stier, zum Rausch nach eigner Lust
 
 भावार्थभाषाः -  हे राजा! जर तू विजय, आरोग्य, बल व दीर्घायु इ. ची इच्छा बाळगलीस तर ब्रह्मचर्य, धनुर्वेदविद्या, जितेन्द्रियत्व व नियमित आहार विहार कर. ॥ १ ॥
 </details>
-
 </div>  
 
 __________
@@ -374,8 +378,7 @@ __________
 2 पूर्ववद्ग्रहणं सादनं च ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/17_pUrvo_marutvatIyagrahaH/upayAmagRhItaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/17_pUrvo_marutvatIyagrahaH/upayAmagRhItaH.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य उपयामगृहीतोसीन्द्राय त्वा मरुत्वत इति गृह्णाति ॥
@@ -384,7 +387,7 @@ __________
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -411,7 +414,7 @@ ________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य त्वा म॒रुत्व॑ते ।
+इ᳓न्द्राय त्वा मरु᳓त्वते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -432,7 +435,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒र्, इन्द्रा॑य त्वा म॒रुत्व॑ते ॥ [18]
+एष᳓ ते यो᳓निर्, इ᳓न्द्राय त्वा मरु᳓त्वते ॥ [18]
 </details>
 
 <details><summary>Keith</summary>
@@ -444,7 +447,6 @@ This is thy birthplace; to Indra with the Maruts thee!
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा म॒रुत्व॑ते ॥ [18]
 </details>
-
 </div>  
 
 इति चतुर्थे एकोनविंशोनुवाकः ॥  

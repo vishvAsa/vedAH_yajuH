@@ -1,6 +1,5 @@
 +++
 title = "०३ त्रयोदश-रात्रविधिः"
-
 +++
 ## परिचयः
 
@@ -11,12 +10,9 @@ title = "०३ त्रयोदश-रात्रविधिः"
 तत्रायं प्रथमः अतिरात्रः, पृष्ठ्यष् षडहस् (त्रिवृद् अग्निष्टोमः, पञ्चदश उक्थ्यः, सप्तदश उक्थ्यः, २१ षोडशी, २७ उक्थ्यः, ३३ उक्थ्यः), सर्व-स्तोमो ऽतिरात्रश्, चत्वारश् छन्दोमा +++(येषु छन्दोमास् स्तोमा उच्यन्ते)+++, अतिरात्रश् चेति । इमम् अधिकृत्योच्यते।
 </details>
 
-
-
-
 ## विधिः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>ए॒ष वा आ॒प्तो द्वा॑दशा॒हो यत् त्र॑योदश-रा॒त्रः ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>एष᳓ वा᳓ आप्तो᳓ द्वादशाहो᳓ य᳓त् त्रयोदश-रात्रः᳓ ।</details>
 
 <details><summary>Keith</summary>
 
@@ -25,7 +21,7 @@ title = "०३ त्रयोदश-रात्रविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॑मा॒नँ ह्य् ए॑तद् अह॒र् यत् प्रा॑य॒णीय॑श् चोदय॒नीय॑श्च +++(अतिरात्रद्वयम्)+++।
+स᳓मानँ᳓ ह्य् एतद् अहर् य᳓त् प्रायणी᳓यश् चोदयनी᳓यश्च +++(अतिरात्रद्वयम्)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -35,7 +31,7 @@ for the opening and concluding days are the same.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्र्य्-अ॑तिरात्रो भवति। त्रय॑ इ॒मे लो॒काः। ए॒षाल्ँ लो॒काना॒म् आप्त्यै॑ +++(तत् तथा)+++।
+त्र्य्-अ᳓तिरात्रो भवति। त्र᳓य इमे᳓ लोकाः᳓। एषाल्ँ᳓ लोका᳓नाम् आ᳓प्त्यै +++(तत् तथा)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -43,31 +39,29 @@ for the opening and concluding days are the same.
 There are three Atiratras, three are these worlds, for the obtaining of these worlds.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>प्रा॒णो वै प्र॑थ॒मो॑ऽतिरा॒त्रो, व्या॒नो द्वि॒तीयो॑, ऽपा॒नस्तृ॒तीयः॑।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>प्राणो᳓ वै᳓ प्रथमो᳙ऽतिरात्रो᳓, व्यानो᳓ द्विती᳓यो, ऽपान᳓स्तृती᳓यः।</details>
 
 <details><summary>Keith</summary>
 
 The first Atiratra is the expiration, the second cross-breathing, the third inspiration;
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>प्रा॒णा॒पा॒नो॒दा॒नेष्व् ए॒वान्नाद्ये॒ प्रति॑ तिष्ठन्ति ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>प्राणापानोदाने᳓ष्व् एवा᳓न्ना᳓द्ये प्र᳓ति तिष्ठन्ति ।</details>
 
 <details><summary>Keith</summary>
 
 verily they find support in expiration, inspiration, out-breathing, and food,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>सर्व॒म् आयु॑र् यन्ति॒, य ए॒वव्ँ वि॒द्वाँ॑सस् त्रयोदश-रा॒त्रम् आस॑ते ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>स᳓र्वम् आ᳓युर् यन्ति, य᳓ एवव्ँ᳓ विद्वाँ᳙सस् त्रयोदश-रात्र᳓म् आ᳓सते ।</details>
 
 <details><summary>Keith</summary>
 
 and reach their full life, who knowing thus perform (the rite) of thirteen nights.
 </details>
 
-
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>तदा॑हुर् -  
-वाग् वा ए॒षा वित॑ता यद् द्वा॑दशा॒हः [7] ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>त᳓दाहुर् -  
+वाग् वा एषा᳓ वि᳓तता᳓ य᳓द् द्वादशाहः᳓ [7] ।</details>
 
 <details><summary>Keith</summary>
 
@@ -76,7 +70,7 @@ They say, '(The rite) of twelve days is the sequence of speech.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव्ँ विच्छि॑न्द्यु॒र् , यन्-मध्ये॑ ऽतिरा॒त्रङ् कु॒र्युर् - उ॑प॒दासु॑का+++(=क्षयशीला)+++ गृ॒हप॑ते॒र् वाक् स्या॑त् ।
+ताव्ँ᳓ वि᳓च्छिन्द्युर् , य᳓न्-म᳓ध्ये ऽतिरात्र᳓ङ् कुर्यु᳓र् - उपदा᳓सुका+++(=क्षयशीला)+++ गृह᳓पतेर् वा᳓क् स्यात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -86,8 +80,8 @@ They would cleave it if they put an Atiratra in the middle, and the speech of th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपरि॑ष्टाच् +++(चतुर्णां)+++ छन्दो॒माना॑म् +++(अविवाक्येन सह)+++ महाव्र॒तङ् +++(अतिरात्रं)+++ कु॑र्वन्ति॒,  
-+++(येन)+++ सन्त॑ताम् ए॒व वाच॒म् अव॑ रुन्धते, ऽनु॑पदासुका +++(च)+++ गृ॒हप॑ते॒र् वाग् भ॑वति ।  
+उ᳓प᳓रिष्टाच् +++(चतुर्णां)+++ छन्दोमा᳓नाम् +++(अविवाक्येन सह)+++ महाव्रत᳓ङ् +++(अतिरात्रं)+++ कुर्वन्ति,  
++++(येन)+++ स᳓न्तताम् एव᳓ वा᳓चम् अ᳓व रु᳓न्ध᳓ते᳓, ऽनुपदासुका +++(च)+++ गृह᳓पतेर् वा᳓ग् भवति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -95,18 +89,13 @@ They would cleave it if they put an Atiratra in the middle, and the speech of th
 They perform the Mahavrata after the Chandomas; verily they maintain the sequence of speech, and the speech of the householder is not likely to fail.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒शवो॒ वै छ॑न्दो॒मा, अन्न॑म् महाव्र॒तम् ।  
-यदु॒परि॑ष्टाच् छन्दो॒माना॑म् महाव्र॒तङ् कु॒र्वन्ति॑ , प॒शुषु॑ चै॒वान्नाद्ये॑ च॒ प्रति॑ तिष्ठन्ति ॥ [8]
+पश᳓वो वै᳓ छन्दोमा᳓, अ᳓न्नम् महाव्रत᳓म् ।  
+य᳓दुप᳓रिष्टाच् छन्दोमा᳓नाम् महाव्रत᳓ङ् कुर्व᳓न्ति , पशु᳓षु चैवा᳓न्ना᳓द्ये च प्र᳓ति तिष्ठन्ति ॥ [8]
 </details>
 
 <details><summary>Keith</summary>
 
 The Chandomas are cattle, the Mahavrata food; in that they perform the Mahavrata after the Chandomas, they find support in cattle and in food.
 </details>
-
-
-

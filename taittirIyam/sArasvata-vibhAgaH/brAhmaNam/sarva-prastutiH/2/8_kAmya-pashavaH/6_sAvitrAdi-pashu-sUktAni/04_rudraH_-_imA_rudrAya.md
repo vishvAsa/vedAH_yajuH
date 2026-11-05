@@ -9,10 +9,10 @@ title = "०४ रुद्रः - इमा रुद्राय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒मा रु॒द्राय॑ स्थि॒र-ध॑न्वने॒ **गिरः॑** ।  
-क्षि॒प्रेष॑वे दे॒वाय॑ स्व॒-धाम्ने॑ ।    
-अषा॑ढाय॒ सह॑मानाय मी॒ढुषे॑ ।  
-ति॒ग्मायु॑धाय **भरता शृ॒णोत॑न** ।  
+इमा᳓ रुद्रा᳓य स्थिर᳓-धन्वने **गि᳓रः** ।  
+क्षिप्रे᳓षवे देवा᳓य स्व-धा᳓म्ने ।    
+अ᳓षाढाय स᳓हमानाय मीढु᳓षे ।  
+तिग्मा᳓युधाय **भरता शृणो᳓तन** ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -41,10 +41,10 @@ title = "०४ रुद्रः - इमा रुद्राय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वाद॑त्तेभी+++(←"त्वा" इति दत्तं यस्य तत्?)+++ रुद्र॒ शन्त॑मेभिः ।   
-श॒तँ हिमा॑ **अशीय** भेष॒जेभिः॑ ।  
-व्य् अ॑स्मद्-द्वेषो॑ वि-त॒रव्ँ+++(←तरप्)+++, व्यँहः॑ ।   
-व्य् अमी॑वाँश्+++(=रोगान्)+++ **चातयस्वा॒** विषू॑चीः+++(=विविधगतियुक्तान्)+++ ॥ 47 ॥  
+त्वा᳓दत्तेभी+++(←"त्वा" इति दत्तं यस्य तत्?)+++ रुद्र श᳓न्तमेभिः ।   
+शतँ᳓ हि᳓मा **अशीय** भेषजे᳓भिः ।  
+व्य् अ᳓स्म᳓द्-द्वे᳓षो वि-तरव्ँ᳓+++(←तरप्)+++, व्यँ᳓हः ।   
+व्य् अ᳓मीवाँश्+++(=रोगान्)+++ **चातयस्वा** वि᳓षूचीः+++(=विविधगतियुक्तान्)+++ ॥ 47 ॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -74,10 +74,10 @@ title = "०४ रुद्रः - इमा रुद्राय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अर्ह॑न् **बिभर्षि॒** साय॑कानि॒ धन्वा  
-ऽर्ह॑न् नि॒ष्कं+++(=हारम्)+++ य॑ज॒तं+++(=यजनीयम्)+++ वि॒श्वरू॑पम् ।  
-अर्ह॑न्न् इ॒दं **द॑यसे॒** विश्व॒म् अब्-भु॑वम्+++(→अभ्वं॒ इति शाकले)+++  
-**न** वा ओजी॑यो रुद्र॒ त्वद् **अ॑स्ति** ॥
+अ᳓र्हन् **बिभर्षि** सा᳓यकानि ध᳓न्वा᳓  
+ऽर्हन् निष्कं᳓+++(=हारम्)+++ यजतं᳓+++(=यजनीयम्)+++ विश्व᳓रूपम् ।  
+अ᳓र्हन्न् इदं᳓ **दयसे** वि᳓श्वम् अ᳓ब्-भुव᳓म्+++(→अ᳓भ्वं इ᳓ति᳓ शा᳓क᳓ले᳓)+++  
+**न᳓** वा᳓ ओ᳓जीयो रुद्र त्व᳓द् **अस्ति** ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -87,7 +87,7 @@ title = "०४ रुद्रः - इमा रुद्राय"
 न वा ओजी॑यो रुद्र॒ त्वद॑स्ति । 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
 
 मा᳓ नस् तोके᳓+++(=अपत्यमात्रे)+++ त᳓नये मा᳓ न आ᳓युषि  
 मा᳓ नो गो᳓षु **मा᳓** नो अ᳓श्वेषु **रीरिषः** ।   
@@ -101,8 +101,7 @@ title = "०४ रुद्रः - इमा रुद्राय"
 अथ षष्ठीमाह— मा नस्तोक इति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
 <details><summary>Keith</summary>
 
 Harm us not in our children, our descendants, our life; Harm us not in our cattle, in our horses;  
@@ -124,7 +123,6 @@ With oblations lot us serve thee with honour.
 **भामितः** क्रुद्धः सन्नोऽस्मदीयान्वीरान्भृत्यान्मा वधीः।  
 वयं हविष्मन्तो हविर्युक्तास्ते तुभ्यं नमसा नमस्कारेण विधेम परिचरेम।
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -134,10 +132,10 @@ With oblations lot us serve thee with honour.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ ते॑ पितर् मरुताँ सु॒म्नम् ए॑तु ।  
-मा न॒स् सूर्य॑स्य स॒न्दृशो॑ **युयोथाः** ।  
-अ॒भि नो॑ वी॒रो अर्व॑ति+++(=अश्वे)+++ **क्षमेत** ।  
-प्र **जा॑येमहि** रुद्र प्र॒जाभिः॑ ।  
+आ᳓ ते पितर् मरुताँ सुम्न᳓म् एतु ।  
+मा᳓ नस् सू᳓र्यस्य सन्दृ᳓शो **युयोथाः** ।  
+अभि᳓ नो वीरो᳓ अ᳓र्वति+++(=अश्वे)+++ **क्षमेत** ।  
+प्र᳓ **जायेमहि** रुद्र प्रजा᳓भिः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -160,10 +158,10 @@ With oblations lot us serve thee with honour.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒वा ब॑भ्रो वृषभ चेकितान ।   
-यथा॑ देव॒ न हृ॑णी॒षे+++(=कुप्यसि)+++ **न हँसि॑** ।   
-हा॒व॒न॒+++(=आह्वान)+++-श्रूर् नो॑ रुद्रे॒ह बो॑धि ।   
-बृ॒हद् **व॑देम** वि॒दथे॑+++(=यज्ञे)+++ सु॒वीराः॑ ।  
+एवा᳓ बभ्रो वृषभ चेकितान ।   
+य᳓था देव न᳓ हृणीषे᳓+++(=कुप्यसि)+++ **न᳓ हँ᳓सि** ।   
+हावन+++(=आह्वान)+++-श्रू᳓र् नो रुद्रेह᳓ बोधि ।   
+बृह᳓द् **वदेम** विद᳓थे+++(=यज्ञे)+++ सुवी᳓राः ।  
 </details>
 
 <details><summary>मूलम्</summary>

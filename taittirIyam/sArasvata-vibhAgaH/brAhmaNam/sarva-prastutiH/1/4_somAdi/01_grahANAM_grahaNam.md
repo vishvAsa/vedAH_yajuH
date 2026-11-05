@@ -6,8 +6,8 @@ unicode_script: devanagari
 ## सोमादिब्राह्मणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒भये॒ वा ए॒ते प्र॒जाप॑ते॒र् अध्य् अ॑सृज्यन्त ।  
-दे॒वाश् चासु॑राश् च ।  
+उभ᳓ये वा᳓ एते᳓ प्रजा᳓पतेर् अ᳓ध्य् असृज्यन्त ।  
+देवा᳓श् चा᳓सुराश् च ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -21,7 +21,6 @@ unicode_script: devanagari
 1 अथ ब्राह्मणं सोमार्षेयम् - उभये वा इत्यादि ॥ ‘उभादुदात्तो नित्यम्’ इत्ययच् । उदात्तवचनसामर्थ्यात् आद्युदात्तत्वम् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तान्न व्य॑जानात् ।
@@ -30,7 +29,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तान् न व्य॑जानाद् "इ॒मे॑ ऽन्य इ॒मे॑ ऽन्य" इति॑ ।
+ता᳓न् न᳓ व्यजानाद् "इमे᳙ ऽन्य इमे᳙ ऽन्य᳓" इ᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -45,7 +44,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स दे॒वान्  अँ॒शून् अ॑करोत् ।  
+स᳓ देवा᳓न्  अँशू᳓न् अकरोत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -60,7 +59,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तान् अ॒भ्य॑षुणोत् ।  
+ता᳓न् अभ्य᳙षुणोत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -75,7 +74,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तान् प॒वित्रे॑णापुनात् ।  
+ता᳓न् पवि᳓त्रेणापुनात् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -90,7 +89,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तान् प॒रस्ता॑त् प॒वित्र॑स्य॒ व्य॑गृह्णात् ।  
+ता᳓न् पर᳓स्तात् पवि᳓त्रस्य व्य᳙गृह्णात् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -105,8 +104,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते ग्रहा॑ अभवन् ।  
-तद् ग्रहा॑णाङ् ग्रह॒त्वम् ॥1॥
+ते᳓ ग्र᳓हा अभवन् ।  
+त᳓द् ग्र᳓हाणाङ् ग्रहत्व᳓म् ॥1॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -120,7 +119,6 @@ unicode_script: devanagari
 अथ ते तथा गृहीता देवा ग्रहा अभवन् । एवं गृहीतत्वात् ग्रहत्वं तेषाम् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 दे॒वता॒ वा ए॒ता यज॑मानस्य गृ॒हे गृ॑ह्यन्ते ।
@@ -129,7 +127,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वता॒ वा ए॒ता यज॑मानस्य गृ॒हे गृ॑ह्यन्ते॒ यद् ग्रहाः॑ ।  
+देव᳓ता वा᳓ एता᳓ य᳓जमानस्य गृहे᳓ गृह्यन्ते य᳓द् ग्र᳓हाः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -142,7 +140,6 @@ unicode_script: devanagari
 तस्मात् ग्रहा नाम देवता एव स्वयं यजमानस्य गृहे हविर्धाने गृह्यन्ते ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वि॒दुरे॑नन्दे॒वाः ।
@@ -151,7 +148,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒दुर् ए॑नन् दे॒वा यस्य॑+ ए॒वव्ँ वि॒दुष॑ ए॒ते ग्रहा॑ गृ॒ह्यन्ते॑ ।
+विदु᳓र् एनन् देवा᳓ य᳓स्य+ एवव्ँ᳓ विदु᳓ष एते᳓ ग्र᳓हा गृह्य᳓न्ते ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -164,7 +161,6 @@ unicode_script: devanagari
 तस्मात् यस्यैवं विदुषो ग्रहा देवात्मना गृह्यन्ते एनं देवा अपि विदुः जानन्ति ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ए॒षा वै सोम॒स्याहु॑तिः ।
@@ -173,7 +169,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒षा वै सोम॒स्याहु॑ति॒र् यद् उ॑पाँ॒शुः ।  
+एषा᳓ वै᳓ सो᳓मस्या᳓हुतिर् य᳓द् उपाँशुः᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -188,14 +184,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमे॑न दे॒वाँस् त॑र्पया॒णीति॒ खलु॒ वै सोमे॑न यजते ।  
+सो᳓मेन देवाँ᳓स् तर्पयाणी᳓ति ख᳓लु वै᳓ सो᳓मेन यजते ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 सोमे॑न दे॒वाँस् त॑र्पया॒णीति॒ खलु॒ वै सोमे॑न यजते ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -205,7 +200,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् उ॑पाँ॒शुञ् जु॒होति॒ सोमे॑न+ ए॒व तद् दे॒वाँस् त॑र्पयति ।
+य᳓द् उपाँशु᳓ञ् जुहो᳓ति सो᳓मेन+ एव᳓ त᳓द् देवाँ᳓स् तर्पयति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -218,7 +213,6 @@ unicode_script: devanagari
 कथमित्याह - सोमेनेत्यादि । सर्वाम् देवान् सोमेन तर्पयाणीति सोमेन इज्यते उपांशुनैव केवलेन सर्वान् देवांस्तर्पयतीति उपांशुस्तुतिः ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यद्ग्रहा॑ञ्जु॒होति॑ ॥2॥  
@@ -227,7 +221,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् ग्रहा॑ञ् जु॒होति॑  दे॒वा ए॒व तद् दे॒वान् ग॑च्छन्ति ।  
+य᳓द् ग्र᳓हाञ् जुहो᳓ति  देवा᳓ एव᳓ त᳓द् देवा᳓न् गच्छन्ति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -240,7 +234,6 @@ unicode_script: devanagari
 यद्ग्रहानित्यादि । अर्थवादः । देवाः परमार्थं देवान् गच्छन्ति । यद्वा - द्वये देवाः सोमलतांश्वात्मकाः द्युलोकवासिनश्च । तत्र उपांशुना प्रथमे देवास्तर्प्यन्ते । देवात्मभिस्तु ग्रहैः ऐन्द्रवायवाद्यैः अन्ये तर्प्यन्ते । देवा एव स्वयं देवांस्तर्पयितुं गच्छन्ति ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यच्च॑म॒साञ्जु॒होति॑ ।
@@ -249,7 +242,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यच् च॑म॒साञ् जु॒होति॒ तेन॑+ ए॒वानु॑रूपेण॒ यज॑मानस् सुव॒र्गल्ँ लो॒कम् ए॑ति ।  
+य᳓च् चमसा᳓ञ् जुहो᳓ति ते᳓न+ एवा᳓नुरूपेण य᳓जमानस् सुवर्गल्ँ᳓ लोक᳓म् एति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -262,7 +255,6 @@ unicode_script: devanagari
 4 यच्चमसानिति ॥ चमसहोमेन अनुरूपेण यजमानः स्वर्गं गच्छति ग्रहहोमेन देवानां तर्पितत्वात् स्वर्गप्रयाणैकफलत्वाच्चमसहोमस्य स्वर्गगमनं प्रत्यानुरूप्यं अनन्यार्थत्वात् ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 किन्न्वे॑तदग्र॑ आसी॒दित्या॑हुः ।
@@ -271,7 +263,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"किन् न्व्  ए॑तद् अग्र॑ आसी॒दि"त्य् आ॑हु॒र् "यत् पात्रा॒णी"ति॑ ।  
+"कि᳓न् न्व्  एत᳓द् अ᳓ग्र आसीदि᳓"त्य् आहुर् "य᳓त् पा᳓त्राणी᳓"ति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -286,7 +278,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ  वा ए॒तद् अग्र॑ आसीत् ।  
+इयव्ँ᳓  वा᳓ एत᳓द् अ᳓ग्र आसीत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -301,7 +293,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मृ॒न्मया॑नि॒ वा ए॒तान्य् आ॑सन् ।  
+मृन्म᳓यानि वा᳓ एता᳓न्य् आसन् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -316,7 +308,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तैर् दे॒वा न व्या॒वृत॑म् अगच्छन् ।  
+तै᳓र् देवा᳓ न᳓ व्यावृ᳓तम् अगच्छन् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -331,9 +323,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त ए॒तानि॑ दारु॒मया॑णि॒ पात्रा॑ण्य् अपश्यन् ।  
-तान्य् अ॑कुर्वत ॥3॥  
-तैर् वै ते व्या॒वृत॑म् अगच्छन् ।  
+त᳓ एता᳓नि दारुम᳓याणि पा᳓त्राण्य् अपश्यन् ।  
+ता᳓न्य् अकुर्वत ॥3॥  
+तै᳓र् वै᳓ ते᳓ व्यावृ᳓तम् अगच्छन् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -350,8 +342,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् दा॑रु॒मया॑णि॒ पात्रा॑णि॒ भव॑न्ति ।  
-व्या॒वृत॑म् ए॒व तैर् यज॑मानो गच्छति ।  
+य᳓द् दारुम᳓याणि पा᳓त्राणि भ᳓वन्ति ।  
+व्यावृ᳓तम् एव᳓ तै᳓र् य᳓जमानो गच्छति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -365,7 +357,6 @@ unicode_script: devanagari
 व्यावृतमेव तैरिति । मनुष्येभ्यो व्यावृत्तिं गच्छन्ति दारुमयैः ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यानि॑ दारु॒मया॑णि॒ पात्रा॑णि॒ भव॑न्ति ।
@@ -374,14 +365,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यानि॑ दारु॒मया॑णि॒ पात्रा॑णि॒ भव॑न्त्य् अ॒मुम् ए॒व तैर् लो॒कम् अ॒भि-ज॑यति ।  
+या᳓नि दारुम᳓याणि पा᳓त्राणि भ᳓वन्त्य् अमु᳓म् एव᳓ तै᳓र् लोक᳓म् अभि᳓-जयति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 यानि॑ दारु॒मया॑णि॒ पात्रा॑णि॒ भव॑न्त्य् अ॒मुम् ए॒व तैर् लो॒कम् अ॒भि-ज॑यति ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -391,7 +381,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यानि॑ मृ॒न्मया॑नी॒मम् ए॒व तैर् लो॒कम् अ॒भि-ज॑यति ।  
+या᳓नि मृन्म᳓यानीम᳓म् एव᳓ तै᳓र् लोक᳓म् अभि᳓-जयति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -406,8 +396,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒-वा॒दिनो॑ वदन्ति ।  
-"काश् चत॑स्रस् स्था॒लीर् वा॑य॒व्या॑स् सोम॒ग्रह॑णी॒र्" इति॑ ।  
+ब्रह्म-वादि᳓नो वदन्ति ।  
+"का᳓श् च᳓तस्रस् स्थाली᳓र् वायव्या᳙स् सोमग्र᳓हणीर्" इ᳓ति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -423,7 +413,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा वै पृश्ञि॑म् अदुह्रन्न् ॥4॥  
+देवा᳓ वै᳓ पृ᳓श्ञिम् अदुह्रन्न् ॥4॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -438,7 +428,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्या॑ ए॒ते स्तना॑ आसन् ।  
+त᳓स्या एते᳓ स्त᳓ना आसन् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -453,8 +443,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ वै पृश्ञिः॑ ।  
-ताम् आ॑दि॒त्या आ॑दित्यस्था॒ल्या चतु॑ष्पदᳶ प॒शून् अ॑दुह्रन् ।  
+इयव्ँ᳓ वै᳓ पृ᳓श्ञिः ।  
+ता᳓म् आदित्या᳓ आदित्यस्थाल्या᳓ च᳓तुष्पदᳶ पशू᳓न् अदुह्रन् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -468,7 +458,6 @@ unicode_script: devanagari
 एवमेताभिः स्तनभूताभिः पश्वादिदेवाः पृश्निं दुग्धवन्तः । ‘बहुलं छन्दसि’ इति रुट् । तामित्यादिना एकैकस्यैव दोहानाचष्टे ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यदा॑दित्यस्था॒ली भव॑ति ।
@@ -477,7 +466,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् आ॑दित्यस्था॒ली भव॑ति॒ , चतु॑ष्पद ए॒व तया॑ प॒शून् यज॑मान इ॒मान् दु॑हे ।  
+य᳓द् आदित्यस्थाली᳓ भ᳓वति , च᳓तुष्पद एव᳓ त᳓या पशू᳓न् य᳓जमान इमा᳓न् दुहे ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -492,14 +481,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम् इन्द्र॑ उक्थ्यस्था॒ल्येन्द्रि॒यम् अ॑दुहत् ।  
+ता᳓म् इ᳓न्द्र उक्थ्यस्थाल्ये᳓न्द्रिय᳓म् अदुहत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 ताम् इन्द्र॑ उक्थ्यस्था॒ल्येन्द्रि॒यम् अ॑दुहत् ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -509,9 +497,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् उ॑क्थ्यस्था॒ली भव॑तीन्द्रि॒यम् ए॒व तया॒ यज॑मान इ॒मान् दु॑हे ।  
+य᳓द् उक्थ्यस्थाली᳓ भ᳓वतीन्द्रिय᳓म् एव᳓ त᳓या य᳓जमान इमा᳓न् दुहे ।  
 
-ताव्ँ विश्वे॑ दे॒वा आ॑ग्रयणस्था॒ल्योर्ज॑म् अदुह्रन् ।  
+ताव्ँ᳓ वि᳓श्वे देवा᳓ आग्रयणस्थाल्यो᳓र्जम् अदुह्रन् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -520,7 +508,6 @@ unicode_script: devanagari
 
 ताव्ँ विश्वे॑ दे॒वा आ॑ग्रयणस्था॒ल्योर्ज॑म् अदुह्रन् ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -530,9 +517,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्  आ॑ग्रयणस्था॒ली भव॑त्य् ऊ॒र्ज॑म् ए॒व तया॒ यज॑मान इ॒मान् दु॑हे ।  
+य᳓द्  आग्रयणस्थाली᳓ भ᳓वत्य् ऊर्ज᳙म् एव᳓ त᳓या य᳓जमान इमा᳓न् दुहे ।  
 
-ताम् म॑नु॒ष्या॑ ध्रुवस्था॒ल्या ऽऽयु॑र् अदुह्रन् ।  
+ता᳓म् मनुष्या᳙ ध्रुवस्थाल्या᳓ ऽऽयुर् अदुह्रन् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -541,7 +528,6 @@ unicode_script: devanagari
 
 ताम् म॑नु॒ष्या॑ ध्रुवस्था॒ल्या ऽऽयु॑र् अदुह्रन् ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -551,7 +537,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् ध्रु॑वस्था॒ली भव॑त्य्॒ आयु॑र् ए॒व तया॒ यज॑मान इ॒मान् दु॑हे ।  
+य᳓द् ध्रुवस्थाली᳓ भ᳓वत्य् आ᳓युर् एव᳓ त᳓या य᳓जमान इमा᳓न् दुहे ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -566,8 +552,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्था॒ल्या गृ॒ह्णाति॑ ।  
-वा॒य॒व्ये॑न जुहोति ।  
+स्थाल्या᳓ गृह्णा᳓ति ।  
+वायव्ये᳙न जुहोति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -583,8 +569,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् अ॒न्येन॒ पात्रे॑ण प॒शून् दु॒हन्ति॑ ।  
-अ॒न्येन॒ प्रति॑-गृह्णन्ति ।  
+त᳓स्माद् अन्ये᳓न पा᳓त्रेण पशू᳓न् दुह᳓न्ति ।  
+अन्ये᳓न प्र᳓ति-गृह्णन्ति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -600,7 +586,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॑ व्या॒वृत॑म् ए॒व तद् यज॑मानो गच्छति ॥6॥  
+अ᳓थो व्यावृ᳓तम् एव᳓ त᳓द् य᳓जमानो गच्छति ॥6॥  
 </details>
 
 <details><summary>मूलम्</summary>

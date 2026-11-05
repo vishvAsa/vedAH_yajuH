@@ -10,8 +10,7 @@ _______
 1बृहत्पृष्ठपक्षे माहेन्द्रं गृह्णाति - महाँइन्द्रो नृवदिति चतुष्पदया त्रिष्टुभा ॥
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/019/01_mahA_N_indro.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/019/01_mahA_N_indro.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 महाँ᳓ इ᳓न्द्रो नृव᳓दा᳓ चर्षणि-प्रा᳓+++(←पूरणे)+++  
@@ -21,11 +20,17 @@ _______
 +उरुः᳓ पृथुः᳓ **सु᳓कृतः** कर्तृ᳓भिर् **भूत्** ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/019/01_mahA_N_indro.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/019/01_mahA_N_indro.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+म॒हाँ इन्द्रो॑ नृ॒वदा च॑र्षणि॒प्रा उ॒त द्वि॒बर्हा॑ अमि॒नः सहो॑भिः ।  
+अ॒स्म॒द्र्य॑ग्वावृधे वी॒र्या॑यो॒रुः पृ॒थुः सुकृ॑तः क॒र्तृभि॑र्भूत् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/019/01_mahA_N_indro.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -413,7 +418,6 @@ Gross ist und mannhaft, Völker segnend, Indra und doppelt stark, gewaltig er an
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जसा मित्र मित्रासह कार्य पूर्ण करण्यासाठी प्रयत्न करतो तसे ईश्वराने निर्माण केलेले विद्युत किंवा सूर्य कर्म करणाऱ्याचे सहकारी असतात. ॥ १ ॥
 </details>
-
 </div>  
 
 _______
@@ -427,7 +431,7 @@ _______
 उ॒प॒या॒मगृ॑हीतोऽसि महे॒न्द्राय॑ त्वै॒ष ते॒ योनि॑र्महे॒न्द्राय॑ त्वा ॥ [22]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/20_mahendragrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/20_mahendragrahaH/upayAmagRhItaH.md">
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -438,7 +442,7 @@ _______
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -465,7 +469,7 @@ ________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-महे॒न्द्राय॑ त्वा ।
+म᳓हेन्द्रा᳓य त्वा ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -487,7 +491,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॑र्, महे॒न्द्राय॑ त्वा ॥ [21]
+एष᳓ ते यो᳓निर्, महेन्द्रा᳓य त्वा ॥ [21]
 </details>
 
 <details><summary>Keith</summary>
@@ -499,5 +503,4 @@ This is thy birthplace; to Mahendra thee!
 
 ए॒ष ते॒ योनि॑र्महे॒न्द्राय॑ त्वा ॥ [21]
 </details>
-
 </div>

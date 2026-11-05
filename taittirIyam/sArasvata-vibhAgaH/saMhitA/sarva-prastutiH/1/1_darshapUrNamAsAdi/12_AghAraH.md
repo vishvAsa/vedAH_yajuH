@@ -12,7 +12,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भुव॑नम् +++(→यज्ञः)+++ असि।
+भु᳓वनम् +++(→यज्ञः)+++ असि।
 </details>
 
 <details><summary>Keith</summary>
@@ -27,7 +27,7 @@ Thou art the world, be extended.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(प्र॒जया॑ प॒शुभि॑ᳶ)+++ वि प्र॑थ॒स्वाग्ने॒ यष्ट॑र्, इ॒दन् नमः॑ ।
++++(प्रज᳓या पशु᳓भिᳶ)+++ वि᳓ प्रथस्वा᳓ग्ने य᳓ष्टर्, इद᳓न् न᳓मः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -59,8 +59,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जु॒ह्वेहि॑ ।  
-अ॒ग्निस् त्वा॑ ह्वयति देवय॒ज्यायै॑ ।
+जुह्वे᳓हि ।  
+अग्नि᳓स् त्वा ह्वयति देवयज्या᳓यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -98,8 +98,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उप॑भृ॒द् एहि॑ ।  
-दे॒वस् त्वा॑ सवि॒ता ह्व॑यति देवय॒ज्यायै॑ ।  
+उ᳓पभृद् ए᳓हि ।  
+देव᳓स् त्वा सविता᳓ ह्वयति देवयज्या᳓यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -132,7 +132,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ना॑विष्णू॒+++(→आहवनीय-यज्ञौ)+++ मा वा॒म् अव॑ क्रमिषम् ।  
+अ᳓ग्नाविष्णू+++(→आहवनीय-यज्ञौ)+++ मा᳓ वाम् अ᳓व क्रमिषम् ।  
 +++(यज्ञश् चान्तर्वेदि स्रुचामग्रत आस्ते।)+++
 </details>
 
@@ -163,7 +163,7 @@ O Agni and Visnu, let me not step down upon you.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(मार्गदानाय)+++ वि जि॑हाथाम्+++(=विगच्छतम्)+++ ।
++++(मार्गदानाय)+++ वि᳓ जिहाथाम्+++(=विगच्छतम्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -188,7 +188,7 @@ Be ye parted,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मा॒ सन्ता॑प्तम् ।
+मा᳓ मा स᳓न्ताप्तम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -203,7 +203,7 @@ consume me not.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-लो॒कम् मे॑ +++(हे)+++ लोककृतौ +++( वां)+++ कृणुतम् ।
+लोक᳓म् मे +++(हे)+++ लोककृतौ +++( वां)+++ कृणुतम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -237,7 +237,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒स् +++(→यज्ञस्य)+++ स्थान॑म् असि ।
+वि᳓ष्णोस् +++(→यज्ञस्य)+++ स्था᳓नम् असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -267,19 +267,16 @@ ____
 आघारम् आघारयति
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-इ॒त +++(अस्माद् आघारात्)+++ इन्द्रो॑ अकृणोद् वी॒र्या॑णि समा॒रभ्य॑  
-+++(अयम् आघार)+++ ऊ॒र्ध्वो अ॑ध्व॒रो दि॑वि॒स्पृश॑म् ।   
-+++(आघारवद्)+++ अह्रु॑तो+++(=अकुटिलः)+++ य॒ज्ञो य॒ज्ञप॑ते॒र् इन्द्रा॑वा॒न् ।
+इत᳓ +++(अस्माद् आघारात्)+++ इ᳓न्द्रो अकृणोद् वीर्या᳙णि समार᳓भ्य  
++++(अयम् आघार)+++ ऊर्ध्वो᳓ अध्वरो᳓ दिविस्पृ᳓शम् ।   
++++(आघारवद्)+++ अ᳓ह्रुतो+++(=अकुटिलः)+++ यज्ञो᳓ यज्ञ᳓पतेर् इ᳓न्द्रावान् ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -315,12 +312,11 @@ Offered to Indra, hail!
 कोस्य विशेषः यत एवमकरोत् ? इत्याह - इन्द्रावान् इन्द्रेण देवतया तद्वान् । 'अन्येषामपि दृश्यते' (पा.सू. 6.3.137) इति दीर्घः । यतोयमाघार इन्द्रावान् तस्मादयमेव खलु यज्ञपतेर्यजमानस्य । 'पत्यावैश्वर्ये' (पा.सू. 6.2.18) इति पूर्वपदप्रकृतिस्वरत्वम् । अह्रुतः अकुटिलः निश्चितफलो यज्ञः ।
 </details>
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा॑ ।
+स्वा᳓हा ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -347,7 +343,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृ॒हद् भाः ।  
+बृह᳓द् भाः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -374,8 +370,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पा॒हि मा॑ग्ने॒ दुश्च॑रितात् ।   
-आ मा॒ सुच॑रिते भज+++(=स्थापय)+++ ।   
+पाहि᳓ माग्ने दु᳓श्चरितात् ।   
+आ᳓ मा सु᳓चरिते भज+++(=स्थापय)+++ ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -410,8 +406,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे निर्वर्तिताघारा जुहूः!)+++ म॒खस्य॒ शिरो॑ऽसि ।  
-+++(अतस् ते)+++ सञ् ज्योति॑षा॒ +++(घृतेन ध्रौवं)+++ ज्योति॑र्  अङ्क्ताम्+++(=संगच्छताम्)+++ ॥ [21]
++++(हे निर्वर्तिताघारा जुहूः!)+++ मख᳓स्य शि᳓रोऽसि ।  
++++(अतस् ते)+++ स᳓ञ् ज्यो᳓तिषा +++(घृतेन ध्रौवं)+++ ज्यो᳓तिर्  अङ्क्ताम्+++(=संगच्छताम्)+++ ॥ [21]
 </details>
 
 <details><summary>Keith</summary>

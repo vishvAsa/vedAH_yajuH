@@ -5,8 +5,8 @@ unicode_script: devanagari
 ---
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।   
-स रि॑रिचा॒नो॑ ऽमन्यत ।   
+प्रजा᳓पतिᳶ प्रजा᳓ असृजत ।   
+स᳓ रिरिचानो᳙ ऽमन्यत ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -22,7 +22,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स तपो॑ ऽतप्यत ।   
+स᳓ त᳓पो ऽतप्यत ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -37,7 +37,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स आ॒त्मन् वी॒र्य॑म् अपश्यत् ।   
+स᳓ आत्म᳓न् वीर्य᳙म् अपश्यत् ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -52,8 +52,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् अ॑वर्धत ।   
-तद् अ॑स्मा॒त् सह॑सो॒र्ध्वम् अ॑सृज्यत ।   
+त᳓द् अवर्धत ।   
+त᳓द् अस्मात् स᳓हसोर्ध्व᳓म् असृज्यत ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -69,7 +69,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा वि॒राड् अ॑भवत् ।   
+सा᳓ विरा᳓ड् अभवत् ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -84,7 +84,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तान् दे॑वासु॒रा व्य॑गृह्णत ।   
+ता᳓न् देवासुरा᳓ व्यगृह्णत ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -97,7 +97,6 @@ unicode_script: devanagari
 अथ देवासुरास्तां व्यगृह्णत विविधं गृहीतवन्तः अस्माकमियमस्माकमियमिति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सो॑ऽब्रवीत्प्र॒जाप॑तिः ।
@@ -107,7 +106,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ ऽब्रवीत् प्र॒जाप॑ति॒र् - "मम॒ वा ए॒षा, दोहा॑ ए॒व यु॒ष्माक॒मि"ति॑ ।   
+सो᳓ ऽब्रवीत् प्रजा᳓पतिर् - "म᳓म वा᳓ एषा᳓, दो᳓हा एव᳓ युष्मा᳓कमि᳓"ति ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -122,14 +121,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा तत॒ᳶ प्राच्य् उद॑क्रामत् ।   
+सा᳓ त᳓तᳶ प्रा᳓च्य् उ᳓दक्रामत् ।   
 </details>
 
 <details><summary>मूलम्</summary>
 
 सा तत॒ᳶ प्राच्य् उद॑क्रामत् ।   
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -139,7 +137,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् प्र॒जाप॑ति॒ᳶ पर्य॑गृह्णा॒द् "अथ॑र्व पि॒तुम् मे॑ गोपा॒ये"ति॑ ।   
+त᳓त् प्रजा᳓पतिᳶ प᳓र्यगृह्णाद् "अ᳓थर्व पितु᳓म् मे गोपाये᳓"ति ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -154,14 +152,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा द्वि॒तीय॒म् उद॑क्रामत् ।   
+सा᳓ द्विती᳓यम् उ᳓दक्रामत् ।   
 </details>
 
 <details><summary>मूलम्</summary>
 
 सा द्वि॒तीय॒म् उद॑क्रामत् ।   
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -171,7 +168,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् प्र॒जाप॑ति॒ᳶ पर्य॑गृह्णा॒न् - "नर्य॑ प्र॒जाम् मे॑ गोपा॒ये"ति॑ ।  
+त᳓त् प्रजा᳓पतिᳶ प᳓र्यगृह्णान् - "न᳓र्य प्रजा᳓म् मे गोपाये᳓"ति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -186,14 +183,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा तृ॒तीय॒म् उद॑क्रामत् ।  
+सा᳓ तृती᳓यम् उ᳓दक्रामत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 सा तृ॒तीय॒म् उद॑क्रामत् ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -203,7 +199,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् प्र॒जाप॑ति॒ᳶ पर्य॑गृह्णा॒च् "छँस्य॑ प॒शून् मे॑ गोपा॒ये"ति॑ ।  ॥76॥  
+त᳓त् प्रजा᳓पतिᳶ प᳓र्यगृह्णाच् "छँ᳓स्य पशू᳓न् मे गोपाये᳓"ति ।  ॥76॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -218,14 +214,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा च॑तु॒र्थम् उद॑क्रामत् ।  
+सा᳓ चतुर्थ᳓म् उ᳓दक्रामत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 सा च॑तु॒र्थम् उद॑क्रामत् ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -235,7 +230,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् प्र॒जाप॑ति॒ᳶ पर्य॑ गृह्णा॒त्त्   "सप्र॑थ स॒भाम् मे॑ गोपा॒ये"ति॑ ।   
+त᳓त् प्रजा᳓पतिᳶ प᳓र्य गृह्णात्त्   "स᳓प्रथ सभा᳓म् मे गोपाये᳓"ति ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -250,14 +245,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा प॑ञ्च॒मम् उद॑क्रामत् ।   
+सा᳓ पञ्चम᳓म् उ᳓दक्रामत् ।   
 </details>
 
 <details><summary>मूलम्</summary>
 
 सा प॑ञ्च॒मम् उद॑क्रामत् ।   
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -267,7 +261,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् प्र॒जाप॑ति॒ᳶ पर्य॑गृह्णा॒द्  "अहे॑ बुध्निय॒ मन्त्र॑म् मे गोपा॒ये"ति॑ ।    
+त᳓त् प्रजा᳓पतिᳶ प᳓र्यगृह्णाद्  "अ᳓हे बुध्निय म᳓न्त्रम् मे गोपाये᳓"ति ।    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -282,7 +276,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नीन् वाव सा तान् व्य॑क्रमत ।   
+अग्नी᳓न् वा᳓व᳓ सा᳓ ता᳓न् व्यक्रमत ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -295,7 +289,6 @@ unicode_script: devanagari
 सा खलु विराट् तान् इमान् अग्नीन् व्यक्रमत अन्वाहार्यपचनान्तान् पञ्चाग्नीन् विविधेन पदविहारेण उत्पादितवती । 'पञ्चाधाऽग्नीन्व्यक्रामत्' इति मन्त्रपदम् । 'वेः पादविहरणे' इत्यात्मने - पदम् । मन्त्रे तु व्यत्ययेन न प्रवर्तते ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तान्प्र॒जाप॑ति॒ᳶ पर्य॑गृह्णात् ।
@@ -304,7 +297,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तान् प्र॒जाप॑ति॒ᳶ पर्य॑गृह्णा॒द्, अथो॑ प॒ङ्क्तिम् ए॒व ।   
+ता᳓न् प्रजा᳓पतिᳶ प᳓र्यगृह्णाद्, अ᳓थो पङ्क्ति᳓म् एव᳓ ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -320,7 +313,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒ङ्क्तिर् वा ए॒षा ब्रा॑ह्म॒णे प्रवि॑ष्टा ॥77॥  
+पङ्क्ति᳓र् वा᳓ एषा᳓ ब्राह्मणे᳓ प्र᳓विष्टा ॥77॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -335,7 +328,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम् आ॒त्मनो ऽधि॒ निर्मि॑मीते ।   
+ता᳓म् आत्म᳓नो᳓ ऽधि नि᳓र्मिमीते ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -348,7 +341,6 @@ unicode_script: devanagari
 तां इदानीमयमाधानेन अधिनिर्मिमीते बहिरुत्पादयति ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यद॒ग्निरा॑धी॒यते॑ ।
@@ -357,7 +349,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अ॒ग्निर् आ॑धी॒यते॒ तस्मा॑द् ए॒ताव॑न्तो॒ ऽग्नय॒ आधी॑यन्ते ।   
+य᳓द् अग्नि᳓र् आधीय᳓ते त᳓स्माद् एता᳓वन्तो ऽग्न᳓य आ᳓धीयन्ते ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -372,8 +364,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पाङ्क्तव्ँ॒ वा इ॒दँ सर्व॑म् ।   
-पाङ्क्ते॑न+ ए॒व पाङ्क्तँ॑ स्पृणोति ।   
+पा᳓ङ्क्तव्ँ वा᳓ इदँ᳓ स᳓र्वम् ।   
+पा᳓ङ्क्तेन+ एव᳓ पा᳓ङ्क्तँ स्पृणोति ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -391,7 +383,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अथ॑र्व पि॒तुम् मे॑ गोपा॒ये"त्य् आ॑ह ।   
+"अ᳓थर्व पितु᳓म् मे गोपाये᳓"त्य् आह ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -406,12 +398,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्न॑म् ए॒वैतेन॑ स्पृणोति ।   
-"नर्य॑ प्र॒जाम् मे॑ गोपा॒ये"त्य् आ॑ह ।   
-प्र॒जाम् ए॒वैतेन॑ स्पृणोति ।   
+अ᳓न्नम् एवै᳓ते᳓न स्पृणोति ।   
+"न᳓र्य प्रजा᳓म् मे गोपाये᳓"त्य् आह ।   
+प्रजा᳓म् एवै᳓ते᳓न स्पृणोति ।   
 
-"शँस्य॑ प॒शून् मे॑ गोपा॒ये"त्य् आ॑ह  ॥ 78॥  
-प॒शून् ए॒वैतेन॑ स्पृणोति ।   
+"शँ᳓स्य पशू᳓न् मे गोपाये᳓"त्य् आह  ॥ 78॥  
+पशू᳓न् एवै᳓ते᳓न स्पृणोति ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -429,7 +421,6 @@ unicode_script: devanagari
 अन्नमेवेति । पितुशब्दस्यार्थमाचष्टे ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सप्र॑थ स॒भाम्मे॑ गोपा॒येत्या॑ह ।
@@ -438,7 +429,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"सप्र॑थ स॒भाम् मे॑ गोपा॒ये"त्य् आ॑ह, स॒भाम् ए॒वैतेने॑न्द्रि॒यँ स्पृ॑णोति ।
+"स᳓प्रथ सभा᳓म् मे गोपाये᳓"त्य् आह, सभा᳓म् एवै᳓ते᳓नेन्द्रियँ᳓ स्पृणोति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -453,7 +444,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मन्त्र॑म् ए॒वैतेन॒ श्रियँ॑ स्पृणोति ।   
+म᳓न्त्रम् एवै᳓ते᳓न श्रि᳓यँ स्पृणोति ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -466,7 +457,6 @@ unicode_script: devanagari
 श्रियमिति । श्रिया हि मन्त्री भवति ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यदा॑न्वाहार्य॒पच॑नेऽन्वाहा॒र्य॑म्पच॑न्ति ।
@@ -475,7 +465,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अ॑न्वाहार्य॒-पच॑ने ऽन्वाहा॒र्य॑म् पच॑न्ति॒ , तेन॒ सो॑ ऽस्या॒भीष्ट॑ᳶ प्री॒तः ।   
+य᳓द् अन्वाहार्य-प᳓चने ऽन्वाहार्य᳙म् प᳓चन्ति , ते᳓न सो᳙ ऽस्याभी᳓ष्टᳶ प्रीतः᳓ ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -489,7 +479,6 @@ unicode_script: devanagari
 किञ्च - प्रीत एव भवति यजमानविनयैः । प्रदर्शनं चैतत्, फलीकरणहोमादीनां कर्मणाम् । एवं गार्हपत्य आज्याधिश्रयणं हविश्श्रपणादीनां प्रदशर्नम् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यद्गार्ह॑पत्य॒ आज्य॑मधि॒श्रय॑न्ति॒ सम्पत्नी॑र्या॒जय॑न्ति ।
@@ -498,14 +487,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् गार्ह॑पत्य॒ आज्य॑म् अधि॒-श्रय॑न्ति॒ सम्पत्नी॑र् या॒जय॑न्ति॒ , तेन॒ सो॑ ऽस्या॒भीष्ट॑ᳶ प्री॒तः ।
+य᳓द् गा᳓र्हपत्य आ᳓ज्यम् अधि-श्र᳓यन्ति स᳓म्प᳓त्नीर् याज᳓यन्ति , ते᳓न सो᳙ ऽस्याभी᳓ष्टᳶ प्रीतः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद् गार्ह॑पत्य॒ आज्य॑म् अधि॒-श्रय॑न्ति॒ सम्पत्नी॑र् या॒जय॑न्ति॒ , तेन॒ सो॑ ऽस्या॒भीष्ट॑ᳶ प्री॒तः ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -515,7 +503,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् आ॑हव॒नीये॒ जुह्व॑ति॒ तेन॒ सो॑ ऽस्या॒भीष्ट॑ᳶ प्री॒तः ।   
+य᳓द् आहवनी᳓ये जु᳓ह्वति ते᳓न सो᳙ ऽस्याभी᳓ष्टᳶ प्रीतः᳓ ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -528,7 +516,6 @@ unicode_script: devanagari
 यदाहवनीये जुह्वति । इन्द्रादिभ्योपि । अत्रापि होमग्रहणं प्रदर्शनमिध्मसन्नहनादीनां प्रक्षेपस्य ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यत्स॒भायाव्ँ॑वि॒जय॑न्ते ।
@@ -537,7 +524,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् स॒भायाव्ँ॑ वि॒जय॑न्ते॒ तेन॒ सो॑ ऽस्या॒भीष्ट॑ᳶ प्री॒तः ।   
+य᳓त् सभा᳓याव्ँ विज᳓यन्ते ते᳓न सो᳙ ऽस्याभी᳓ष्टᳶ प्रीतः᳓ ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -550,7 +537,6 @@ unicode_script: devanagari
 विजयन्ते क्रीडन्ति अक्षैर्दीव्यन्ति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यदा॑वस॒थेऽन्नँ॒ हर॑न्ति ।
@@ -559,7 +545,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् आ॑वस॒थे ऽन्नँ॒ हर॑न्ति॒ तेन॒ सो॑ ऽस्या॒भीष्ट॑ᳶ प्री॒तः ।   
+य᳓द् आवसथे᳓ ऽन्नँ ह᳓रन्ति ते᳓न सो᳙ ऽस्याभी᳓ष्टᳶ प्रीतः᳓ ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -574,7 +560,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा॑ ऽस्य॒ सर्वे॑ प्री॒ता अ॒भीष्टा॒ आधी॑यन्ते ।   
+त᳓था ऽस्य स᳓र्वे प्रीता᳓ अभी᳓ष्टा आ᳓धीयन्ते ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -589,14 +575,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒व॒स॒थम् ए॒ष्यन्न् ए॒वम् उप॑तिष्ठे॒तैक॑म् एकम् ।   
+प्रवसथ᳓म् एष्य᳓न्न् एव᳓म् उ᳓पतिष्ठेतै᳓कम् एकम् ।   
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्र॒व॒स॒थम् ए॒ष्यन्न् ए॒वम् उप॑तिष्ठे॒तैक॑म् एकम् ।   
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -606,7 +591,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा॑ ब्राह्म॒णाय॑ गृहे-वा॒सिने॑ परि॒दाय॑ गृ॒हान् एति॑ त॒ादृग् ए॒व तत् ।
+य᳓था ब्राह्मणा᳓य गृहे-वासि᳓ने परिदा᳓य गृहा᳓न् ए᳓ति ता᳓दृ᳓ग् एव᳓ त᳓त् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -619,7 +604,6 @@ unicode_script: devanagari
 6अथ प्रवसथं प्रवासं उपैष्यन् एवं 'अथर्वपितुं मे' इत्यादिभिः एकैकं अग्निं उपतिष्ठेत । 'क्रियासमभिहारे सर्वनाम्नो द्वे भवतः' इति द्वित्वम् । 'समासवच्च बहुलम्' यदा न समासवत्तदा पूर्वपदस्य अम्भावः । यथा गृहेवासिने ब्राह्मणाय विलक्षणाय गृहान् परिदाय एति गच्छति एतान् रक्षेति निक्षिप्य प्रतिष्ठते । तादृगेव तत् उपस्थानम् । गृहे वसतीति गृहेवासी । 'सुप्यजातौ' इति णिनिः, 'शयवासवासिष्वकालात्' इति सप्तम्या अलुक् ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 पुन॑रा॒गत्योप॑तिष्ठते ।
@@ -628,7 +612,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुन॑र् आ॒गत्योप॑तिष्ठते॒ सा भा॑गेयम् ए॒वैषा॒न् तत् ।  
+पु᳓नर् आग᳓त्यो᳓पतिष्ठते सा᳓ भागेयम् एवै᳓षान् त᳓त् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -643,7 +627,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा तत॑ ऊ॒र्ध्वारो॑हत् ।   
+सा᳓ त᳓त ऊर्ध्वा᳓रोहत् ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -656,7 +640,6 @@ unicode_script: devanagari
 8अथ सा विराट् तत ऊर्ध्वारोहत् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सा रो॑हि॒ण्य॑भवत् ।
@@ -665,7 +648,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा रो॑हि॒ण्य् अ॑भव॒त् , तद् रो॑हि॒ण्यै रो॑हिणि॒त्वम् ।   
+सा᳓ रोहिण्य् अ᳙भवत् , त᳓द् रोहिण्यै᳓ रोहिणित्व᳓म् ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -680,9 +663,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रो॒हि॒ण्याम् अ॒ग्निम् आद॑धीत ।   
-स्व ए॒वैनय्ँ॒ योनौ॒ प्रति॑ष्ठित॒म् आध॑त्ते ।   
-ऋ॒ध्नोत्य् ए॑नेन ॥80॥
+रोहिण्या᳓म् अग्नि᳓म् आ᳓दधीत ।   
+स्व᳓ एवै᳓नय्ँ यो᳓नौ प्र᳓तिष्ठितम् आ᳓धत्ते ।   
+ऋध्नो᳓त्य् एनेन ॥80॥
 </details>
 
 <details><summary>मूलम्</summary>

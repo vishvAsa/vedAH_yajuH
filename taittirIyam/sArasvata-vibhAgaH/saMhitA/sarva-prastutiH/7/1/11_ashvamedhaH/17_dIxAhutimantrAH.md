@@ -1,6 +1,5 @@
 +++
 title = "१७ दीक्षाहुतिमन्त्राः"
-
 +++
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -10,7 +9,7 @@ title = "१७ दीक्षाहुतिमन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒थि॒व्यै स्वाहा॑ ।
+पृथिव्यै᳓ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -20,7 +19,7 @@ To earth hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्तरि॑क्षाय॒ स्वाहा॑ ।
+अन्त᳓रिक्षाय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -30,7 +29,7 @@ To atmosphere hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि॒वे स्वाहा॑ ।
+दिवे᳓ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -40,7 +39,7 @@ To sky hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॒ स्वाहा॑ ।
+अग्न᳓ये स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -50,7 +49,7 @@ To Agni hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमा॑य॒ स्वाहा॑ ।
+सो᳓माय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -60,7 +59,7 @@ To Soma hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूर्या॑य॒ स्वाहा॑ ।
+सू᳓र्याय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -70,7 +69,7 @@ To the sun hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-च॒न्द्रम॑से॒ स्वाहा॑ ।
+चन्द्र᳓मसे स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -80,7 +79,7 @@ To the moon hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अह्ने॒ स्वाहा॑ ।
+अ᳓ह्ने स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -90,7 +89,7 @@ To the day hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रात्रि॑यै॒ स्वाहा॑ ।
+रा᳓त्रियै स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -100,7 +99,7 @@ To the night hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒जवे॒ +++(पृथिवीलोकाय)+++ स्वाहा॑ ।
+ऋज᳓वे +++(पृथिवीलोकाय)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -110,7 +109,7 @@ To the straight hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वा॒धवे॒ +++(अन्तरिक्षलोकाय)+++ स्वाहा॑ ।
+स्वाध᳓वे +++(अन्तरिक्षलोकाय)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -120,7 +119,7 @@ To the good hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒क्षि॒त्यै +++(द्युलोकाय)+++ स्वाहा॑ ।
+सुक्षित्यै᳓ +++(द्युलोकाय)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -130,7 +129,7 @@ To fair dwelling hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षु॒धे स्वाहा॑ ।
+क्षुधे᳓ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -140,7 +139,7 @@ To hunger hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒शि॒ति॒म्ने+++(=आशिताय/ खादिताय)+++ स्वाहा॑ ।
+आशितिम्ने᳓+++(=आशिताय/ खादिताय)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -150,7 +149,7 @@ To satisfaction hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रोगा॑य॒ स्वाहा॑ ।
+रो᳓गाय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -160,7 +159,7 @@ To disease hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हि॒माय॒ स्वाहा॑ ।
+हिमा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -170,7 +169,7 @@ To snow hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शी॒ताय॒ स्वाहा॑ ।
+शीता᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -180,7 +179,7 @@ To ice hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒त॒पाय॒ स्वाहा॑ ।
+आतपा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -190,7 +189,7 @@ To heat hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अर॑ण्याय॒ स्वाहा॑ ।
+अ᳓रण्याय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -200,7 +199,7 @@ To the wild hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒व॒र्गाय॒ स्वाहा॑ ।
+सुवर्गा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -210,7 +209,7 @@ To heaven hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-लो॒काय॒ स्वाहा॑ ।
+लोका᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -220,7 +219,7 @@ To the world hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व॑स्मै॒ स्वाहा॑ । (46) ॥17॥
+स᳓र्वस्मै स्वा᳓हा । (46) ॥17॥
 </details>
 
 <details><summary>Keith</summary>
@@ -255,15 +254,10 @@ To all hail!
 सु॒क्षि॒त्या इति॑ सु-क्षि॒त्यै । स्वाहा॑  ।    
 </details>
 
-
-
-
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एकविंशतिः । निगदव्याख्याताः । ऋज्वादयः पृथिव्यादयो लोकाः । यथोक्तं - 'इयं वा ऋजुः । अन्तरिक्षं साधु । असौ सुक्षितिः' इति । सुक्षित्यै, स एव स्वरः । 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -273,7 +267,6 @@ To all hail!
 
 ऽर॑ण्याय॒ स्वाहा॑ सुव॒र्गाय॒ स्वाहा॑ लो॒काय॒ स्वाहा॒ सर्व॑स्मै॒ स्वाहा॑ ॥ 46 ॥ 
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -289,9 +282,7 @@ To all hail!
 सर्व॑स्मै । स्वाहा॑ ॥ [46]
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
-
 
 क्षुधे 'सावेकाचः' इत्युदात्तत्वम् । 
 आशितिम्ने आशितमसुहितं तत्स्वभावाय । छन्दसीमनिच् । यद्वा - आशितृशब्दात् 'छन्दसि' इतीमनिच्, 'तुरिष्ठेमेयस्सु' इति एकदेशस्य ऋकारस्य लोपश्छान्दसः, उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । 
@@ -302,4 +293,3 @@ To all hail!
 
 सप्तमे प्रथमे सप्तदशोनुवाकः ॥
 </details>
-

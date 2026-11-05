@@ -31,22 +31,19 @@ ________
 इति।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/02_prachyavasva_bhuvaspate.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/02_prachyavasva_bhuvaspate.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-प्रच्य॑वस्व भुवस्पते॒ +++(सोम!)+++  
-विश्वा॑न्य् अ॒भि+++(लक्ष्य)+++ धामा॑नि  ।  
-मा त्वा॑ परिप॒री+++(=परिबाधको [विश्वावसुर् गन्धर्वो])+++ वि॑दत्।  
-मा त्वा॑ +++(अन्ये)+++ परिप॒न्थिनो॑ विदन्,  
-मा त्वा॒ वृका॑ अघा॒यवः॑।      
-मा ग॑न्ध॒र्वो वि॒श्वाव॑सु॒र् आ द॑घत्+++(=आत्मसात् कार्षुः)+++ ।
+प्र᳓च्यवस्व भुवस्पते +++(सोम!)+++  
+वि᳓श्वान्य् अभि᳓+++(लक्ष्य)+++ धा᳓मानि  ।  
+मा᳓ त्वा परिपरी᳓+++(=परिबाधको [विश्वावसुर् गन्धर्वो])+++ विदत्।  
+मा᳓ त्वा +++(अन्ये)+++ परिपन्थि᳓नो विदन्,  
+मा त्वा वृ᳓का अघाय᳓वः।      
+मा᳓ गन्धर्वो᳓ विश्वा᳓वसुर् आ᳓ दघत्+++(=आत्मसात् कार्षुः)+++ ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/02_prachyavasva_bhuvaspate.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/02_prachyavasva_bhuvaspate.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -104,22 +101,18 @@ Nor the Gandharva, Viçvavasu, injure thee.
 भू-शब्देन भूमौ स्थितानि भूतानि यजमानाध्वर्यु-प्रभृतीन्य् उपलक्ष्यन्ते। तेषां च भूतानां पालकत्वात् पतिः सोमः। हे भूत-पते सोम, विश्वानि धामानि प्राचीन-वंश-हविर्-धानादि-स्थानान्य् अभिलक्ष्य प्रकर्षेण च्यवस्व गच्छ। परिपरी मार्गे बाधकस् तस्कर-प्रभुः स त्वां मा जानातु। परिपन्थिनस् तद्-भृत्यास् ते ऽपि त्वां मा जानन्तु। वृका अरण्य-श्वानः। अघं पापं वध-रूपम् इच्छन्तीत्य् अघायवः। ते ऽपि त्वां मा जानन्तु। विश्वावसुर् गन्धर्वः स्वर्ग-मार्गे सोमस्यापहर्ता। सो ऽपि त्वां मा दधत्, मा प्रतीक्षताम्। 
 </details>
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/03_shyeno_bhUtvA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/03_shyeno_bhUtvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-श्ये॒नो भू॒त्वा परा॑ पत  
-यज॑मानस्य नो गृ॒हे +++(प्राग्वंशे)+++ ।  
-+++(ऋत्विक्प्रेरित)+++दे॒वैस् सँ॑स्कृ॒तम् +++(आसनम्)+++ ।
+श्येनो᳓ भूत्वा᳓ प᳓रा प᳓त᳓  
+य᳓जमानस्य नो गृहे᳓ +++(प्राग्वंशे)+++ ।  
++++(ऋत्विक्प्रेरित)+++देवै᳓स् सँस्कृत᳓म् +++(आसनम्)+++ ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/03_shyeno_bhUtvA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/03_shyeno_bhUtvA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -157,7 +150,6 @@ which we have prepared with the gods (for thee).
 हे सोम, त्वं श्येनवद् उत्पतन-समर्थो भूत्वास्मद्-यजमानस्य गृहे प्राचीन-वंशे परापत शीघ्रं गच्छ। देव-सदृशैर् अध्वर्यु-प्रभृतिभिस् तवोपवेशनायाऽऽसन्दी-रूपं स्थानं संस्कृतम्। 
 </details>
 </details>
-
 </div>
 
 ## उपस्थानादिकम्
@@ -169,7 +161,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे सोम!)+++ यज॑मानस्य स्व॒स्त्यय॑न्य् अ॒सि  ।  
++++(हे सोम!)+++ य᳓जमानस्य स्वस्त्य᳓यन्य् असि᳓  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -203,20 +195,17 @@ Thou art the good luck of the sacrificer.
 हे सोम, त्वं श्येनवद् उत्पतन-समर्थो भूत्वास्मद्-यजमानस्य गृहे प्राचीन-वंशे परापत शीघ्रं गच्छ। देव-सदृशैर् अध्वर्यु-प्रभृतिभिस् तवोपवेशनायाऽऽसन्दी-रूपं स्थानं संस्कृतम्। 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/04_api_panthAm.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/04_api_panthAm.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-अपि॒ पन्था॑म् अगस्महि  
-स्व॒स्ति॒गाम् अ॑ने॒हस॑म्+++(=अस्पर्धिनम्)+++,  
-येन॒ विश्वा॒ᳶ परि॒ द्विषो॑  
-वृ॒णक्ति॑, वि॒न्दते॒ वसु॑ ।
+अ᳓पि प᳓न्थाम् अगस्महि  
+स्वस्तिगा᳓म् अनेह᳓सम्+++(=अस्पर्धिनम्)+++,  
+येन वि᳓श्वाᳶ प᳓रि द्वि᳓षो  
+वृण᳓क्ति, विन्द᳓ते व᳓सु ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/04_api_panthAm.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/04_api_panthAm.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -273,7 +262,6 @@ and winneth wealth.
 तृतीय-मन्त्रो ब्राह्मणेनोपेक्षितः।
 </details>
 </details>
-
 </div>
 
 ________
@@ -292,17 +280,15 @@ ________
 इति।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/05_namo_mitrasya.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/05_namo_mitrasya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-नमो॑ मि॒त्रस्य॒ वरु॑णस्य॒ चक्ष॑से+++(!)+++  
-म॒हो दे॒वाय॒ तद् ऋ॒तँ स॑पर्यत ।  
-दू॒रे॒दृशे॑ दे॒वजा॑ताय के॒तवे॑   
-दि॒वस्-पु॒त्राय॒ सूर्या॑य शँसत ॥  
+न᳓मो मित्र᳓स्य व᳓रुणस्य च᳓क्षसे+++(!)+++  
+महो᳓ देवा᳓य त᳓द् ऋतँ᳓ सपर्यत ।  
+दूरेदृ᳓शे देव᳓जाताय केत᳓वे   
+दिव᳓स्-पुत्रा᳓य सू᳓र्याय शँसत ॥  
 +++(वरणात्मा कदाचित् सोम उपयाति - 'वरुणो वा एष यजमानमभ्यैति यत्क्रीतस्सोम उपनद्धः' इति। मित्रवान् अपि - 'मित्रो न एहि' इति सोम उच्यते ।)+++
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -310,8 +296,7 @@ ________
 5राजानं प्रत्युपतिष्ठते - नमो मित्रस्येति जगत्या ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/05_namo_mitrasya.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/05_namo_mitrasya.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -403,7 +388,6 @@ The son of the sky, the sun, do ye sing.
 उपनद्धस्य सोमस्य वरुणो देवता। परिचरणं नमस्काराद्य्-उपचारः। ततो वरुण-मन्त्रेण तद्-अनुष्ठानं युक्तम्। अथ प्राग्-वंशे सोमासन्द्यां प्रतिष्ठाप्य तस्मिन् काले 'एवा वन्दस्व वरुणं बृहन्तम्' इत्य् एतया 'तत्त्वा यामीत्य्' अनयोर् वा वारुण्य् ऋचोपस्थान-रूपं परिचरणं कर्तव्यम्।
 </details>
 </details>
-
 </div>
 
 ________
@@ -413,11 +397,10 @@ ________
 +++(इषा = शकटस्य महादण्डो यस्यैकस्मिन् भागे वृषो युज्यते, अपरस्मिन् च शकटम्।)+++
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरु॑णस्य॒ +++(सोमस्य च)+++ स्कम्भ॑नम्+++(=धारयिता)+++ असि ।
+व᳓रुणस्य +++(सोमस्य च)+++ स्क᳓म्भनम्+++(=धारयिता)+++ असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -444,7 +427,6 @@ Thou art the pillar of Varuna.
 
 शाखान्तरानुसारेण 'वारुणम् असीत्य्' उक्तम्। एतच्-छाखानुसारेण 'वरुणस्य स्कम्भ-सर्जनम् असीति' द्रष्टव्यम्। युग-च्छिद्रे प्रक्षेप्यः शङ्कुः शम्या। हे शम्ये, त्वं वरुणस्योक्ष्णो निवारणीयस्य बलीवर्दस्य स्कम्भनं। निवारणं कुर्वत्य् असि। 
 </details>
-
 </div>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -484,11 +466,10 @@ ________
 आपस्तम्बस् तु शम्या-योक्त्राभिधानीनां क्रमेणोन्मोचनं मन्यते।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरु॑णस्य॒ +++(सोमस्य च)+++ स्कम्भ॑नम्+++(=धारयिता)+++ असि ।
+व᳓रुणस्य +++(सोमस्य च)+++ स्क᳓म्भनम्+++(=धारयिता)+++ असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -515,7 +496,6 @@ Thou art the pillar of Varuna.
 
 शाखान्तरानुसारेण 'वारुणम् असीत्य्' उक्तम्। एतच्-छाखानुसारेण 'वरुणस्य स्कम्भ-सर्जनम् असीति' द्रष्टव्यम्। युग-च्छिद्रे प्रक्षेप्यः शङ्कुः शम्या। हे शम्ये, त्वं वरुणस्योक्ष्णो निवारणीयस्य बलीवर्दस्य स्कम्भनं। निवारणं कुर्वत्य् असि। 
 </details>
-
 </div>
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -525,7 +505,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उन् मु॑क्तो॒ वरु॑णस्य॒ पाशः॑ ॥
+उ᳓न् मुक्तो व᳓रुणस्य पा᳓शः ॥
 </details>
 
 <details><summary>Keith</summary>

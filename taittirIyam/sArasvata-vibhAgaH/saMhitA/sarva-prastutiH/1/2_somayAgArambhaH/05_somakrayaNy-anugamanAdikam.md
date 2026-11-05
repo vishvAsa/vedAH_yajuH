@@ -27,12 +27,12 @@ ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे सोमक्रयणि!)+++  
-वस्व्य् अ॑सि ।  
-रु॒द्रा+++(=रुद्रवती)+++ ऽसि॑ ।  
-अदि॑तिरसि॑ ।  
-आदि॒त्या+++(=आदित्यवती)+++ ऽसि॑ ।  
-शु॒क्रा+++(=शुक्रवती)+++ ऽसि॑ । +++(शुक्रस्सोमः।)+++  
-च॒न्द्रा+++(=ह्लादनवती/ हिरण्यवती)+++ ऽसि॑ ।  
+व᳓स्व्य् असि ।  
+रुद्रा᳓+++(=रुद्रवती)+++ ऽसि ।  
+अ᳓दिति᳓र᳓सि ।  
+आ᳓दित्या᳓+++(=आदित्यवती)+++ ऽसि ।  
+शुक्रा᳓+++(=शुक्रवती)+++ ऽसि । +++(शुक्रस्सोमः।)+++  
+चन्द्रा᳓+++(=ह्लादनवती/ हिरण्यवती)+++ ऽसि ।  
 +++(वसुरुद्रादित्याः सवनत्रयस्य देवताः । अदितिः प्रायणीयोदयनीययोः । वस्वादिमतो यज्ञस्य साधनत्वात् सोमक्रयण्यपि तद्वतीत्युच्यते ।)+++  
 </details>
 
@@ -113,7 +113,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह॒स्पति॑स् त्वा सु॒म्ने+++(=सुखे)+++ र॑ण्वतु+++(=गमयतु)+++ ।
+बृ᳓हस्प᳓तिस् त्वा सुम्ने᳓+++(=सुखे)+++ रण्वतु+++(=गमयतु)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -128,7 +128,7 @@ May Brhaspati make thee rejoice in happiness.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रु॒द्रो वसु॑भि॒र् आ चि॑केतु+++(=जानातु)+++ ।
+रुद्रो᳓ व᳓सुभिर् आ᳓ चिकेतु+++(=जानातु)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -182,10 +182,10 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृथि॒व्यास् त्वा॑ मू॒र्धन्न्+++(नि)+++ **आ जि॑घर्मि**+++(=क्षारयामि)+++  
-देव॒यज॑न॒+++(य्)+++ इडा॑याᳶ+++(=सोमक्रयण्याः [सप्तमे])+++ प॒दे घृ॒तव॑ति  
+पृ᳓थिव्या᳓स् त्वा मूर्ध᳓न्न्+++(नि)+++ **आ᳓ जिघर्मि**+++(=क्षारयामि)+++  
+देवय᳓जन+++(य्)+++ इ᳓डायाᳶ+++(=सोमक्रयण्याः [सप्तमे])+++ पदे᳓ घृत᳓वति᳓  
 +++('पृथिव्या ह्येष मूर्धा यद्देवयजनम्' इत्यादि ब्राह्मणम् ।)+++  
-स्वाहा॑+++(=स्वाहुतं भव/ इत्थं सरस्वत्याह)+++ ।
+स्वा᳓हा+++(=स्वाहुतं भव/ इत्थं सरस्वत्याह)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -281,14 +281,13 @@ ________
 इति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परि॑लिखितँ॒+++(=परिनाशितं)+++ रक्ष॒ᳶ  
-परि॑लिखिता॒ अरा॑तयः ।  
-इ॒दम् अ॒हँ रक्ष॑सो ग्री॒वा अपि॑ कृन्तामि ।  
-यो॑ऽस्मान् द्वेष्टि॒ यञ् च॑ व॒यन् द्वि॒ष्म- इ॒दम् अ॑स्य ग्री॒वा अपि॑ कृन्तामि ।
+प᳓रिलिखितँ+++(=परिनाशितं)+++ र᳓क्षᳶ  
+प᳓रिलिखिता अ᳓रातयः ।  
+इद᳓म् अहँ᳓ र᳓क्षसो ग्रीवा᳓ अ᳓पि कृन्तामि ।  
+यो᳓ऽस्मान् द्वेष्टि य᳓ञ् च वय᳓न् द्विष्म᳓- इद᳓म् अस्य ग्रीवा᳓ अ᳓पि कृन्तामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -351,7 +350,6 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 
 अनन्तरायं द्वयोर् मध्य एकतरस्याप्य् अन्तरायो यथा न भवति तथेत्य् अर्थः।
 </details>
-
 </div>  
 
 ## पांसुग्रहणम्
@@ -374,7 +372,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒स्मे+++(=अस्मासु)+++ रायः॑ ।  
+अस्मे᳓+++(=अस्मासु)+++ रा᳓यः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -421,7 +419,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वे+++(=त्वयि)+++ रायः॑।
+त्वे᳓+++(=त्वयि)+++ रा᳓यः।
 </details>
 
 <details><summary>Keith</summary>
@@ -452,7 +450,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तोते॒+++(=त्वया ऊते/रक्षिते [गृहे])+++ रायः॑ ।
+तो᳓ते+++(=त्वया ऊते/रक्षिते [गृहे])+++ रा᳓यः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -495,7 +493,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सं+ दे॑वि +++(सोमक्रयणि!)+++ दे॒व्या+उ॒र्वश्या॑+++(=उरूणि श्रेयांसि अश्नुते या तया [दृष्ट्या])+++ पश्यस्व।
+सं᳓+ देवि +++(सोमक्रयणि!)+++ देव्या᳓+उर्व᳓श्या+++(=उरूणि श्रेयांसि अश्नुते या तया [दृष्ट्या])+++ पश्यस्व।
 </details>
 
 <details><summary>Keith</summary>
@@ -545,19 +543,16 @@ ________
 इति।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/02_tvaShTImatI_te.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/02_tvaShTImatI_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-त्वष्टी॑+++(=प्रजनन-नैशित्य)+++मती ते सपेय+++(=मिथुनीभवेयम्)+++  
-सु॒रेता॒ रेतो॒ दधा॑ना ।   
-वी॒रव्ँ वि॑देय॒ तव॑ स॒न्दृशि॑+++(=सन्दर्शने)+++
+त्व᳓ष्टी+++(=प्रजनन-नैशित्य)+++मती ते सपेय+++(=मिथुनीभवेयम्)+++  
+सुरे᳓ता रे᳓तो द᳓धाना ।   
+वीरव्ँ᳓ विदेय त᳓व सन्दृ᳓शि+++(=सन्दर्शने)+++
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/02_tvaShTImatI_te.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/02_tvaShTImatI_te.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -601,7 +596,6 @@ may I find a hero in thy presence.
 
 </details>
 </details>
-
 </div>
 
 _______
@@ -626,7 +620,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-माऽहँ रा॒यस्पोषे॑ण॒ वि यो॑षम् ॥
+मा᳓ऽहँ᳓ राय᳓स्पो᳓षेण वि᳓ योषम् ॥
 </details>
 
 <details><summary>Keith</summary>

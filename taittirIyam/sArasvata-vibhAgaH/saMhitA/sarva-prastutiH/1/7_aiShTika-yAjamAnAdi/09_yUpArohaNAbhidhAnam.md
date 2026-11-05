@@ -6,7 +6,7 @@ title = "०९ यूपारोहणाभिधानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्ष॒त्रस्योल्ब॑म् असि ।  
+क्षत्र᳓स्यो᳓ल्बम् असि ।  
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -36,7 +36,7 @@ Thou art the caul of the kingly class.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्ष॒त्रस्य॒ योनि॑र् असि ।  
+क्षत्र᳓स्य यो᳓निर् असि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -61,7 +61,7 @@ thou art the womb of the kingly class
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जाय॒+++(य्)+++ एहि॒ सुवो॒ रोहा॑व ।  
+जा᳓य+++(य्)+++ ए᳓हि सु᳓वो रो᳓हाव ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -81,7 +81,7 @@ O wife, come hither to the heaven; let us two mount!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रोहा॑व॒ हि सुवः॑ ।  
+रो᳓हाव हि᳓ सु᳓वः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -106,7 +106,7 @@ Yes, let us two mount the heaven;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒हन् ना॑व् उ॒भयो॒स् +++(कृते)+++ सुवो॑ रोक्ष्यामि ।  
+अह᳓न् नाव् उभ᳓योस् +++(कृते)+++ सु᳓वो रोक्ष्यामि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -131,18 +131,18 @@ I will mount the heaven for us both.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाज॑श् च  +++(अस्तु)+++  ।
-प्र॒स॒वश् च॑  +++(अस्तु)+++  ।
-अ॒पि॒+++(←पौनःपुन्ये)+++-जश् च॑   +++(अस्तु)+++
-क्रतु॑श् च  +++(अस्तु)+++ ।
-सुव॑श् च    +++(अस्तु)+++  ।
-मू॒र्धा च॑  +++(अस्तु)+++  ।
-व्यश्ञि॑यश् च   +++(अस्तु)+++  ।
-अ॒न्त्या॒य॒नश् च॑  +++(अस्तु)+++  ।
-अन्त्य॑श् च    +++(अस्तु)+++ ।
-भौ॒व॒नश् च॑  +++(अस्तु)+++  ।  
-भुव॑न॒श् च  +++(अस्तु)+++ ।   
-अधि॑पतिश् च  +++(अस्तु)+++।  
+वा᳓जश् च  +++(अस्तु)+++  ।
+प्रसव᳓श् च  +++(अस्तु)+++  ।
+अपि+++(←पौनःपुन्ये)+++-ज᳓श् च   +++(अस्तु)+++
+क्र᳓तुश् च  +++(अस्तु)+++ ।
+सु᳓वश् च    +++(अस्तु)+++  ।
+मूर्धा᳓ च  +++(अस्तु)+++  ।
+व्य᳓श्ञियश् च   +++(अस्तु)+++  ।
+अन्त्यायन᳓श् च  +++(अस्तु)+++  ।
+अ᳓न्त्यश् च    +++(अस्तु)+++ ।
+भौवन᳓श् च  +++(अस्तु)+++  ।  
+भु᳓वनश् च᳓  +++(अस्तु)+++ ।   
+अ᳓धिपतिश् च  +++(अस्तु)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -191,16 +191,16 @@ Strength, instigation, the later born, inspiration, heaven, the head, the Vyaśn
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आयु॑र् य॒ज्ञेन॑ कल्पताम् ।  
-प्रा॒णो य॒ज्ञेन॑ कल्पताम् ।  
-अ॒पा॒नो [38] य॒ज्ञेन॑ कल्पताम् ।  
-व्या॒नो य॒ज्ञेन॑ कल्पताम् ।  
-चक्षु॑र् य॒ज्ञेन॑ कल्पताम् ।  
-श्रोत्रय्ँ॑ य॒ज्ञेन॑ कल्पताम् ।  
-मनो॑ य॒ज्ञेन॑ कल्पताम्  ।  
-वाग् य॒ज्ञेन॑ कल्पताम्  ।  
-आ॒त्मा य॒ज्ञेन॑ कल्पताम्  ।  
-य॒ज्ञो य॒ज्ञेन॑ कल्पताम्  ।  
+आ᳓युर् यज्ञे᳓न कल्पताम् ।  
+प्राणो᳓ यज्ञे᳓न कल्पताम् ।  
+अपानो᳓ [38] यज्ञे᳓न कल्पताम् ।  
+व्यानो᳓ यज्ञे᳓न कल्पताम् ।  
+च᳓क्षुर् यज्ञे᳓न कल्पताम् ।  
+श्रो᳓त्रय्ँ यज्ञे᳓न कल्पताम् ।  
+म᳓नो यज्ञे᳓न कल्पताम्  ।  
+वा᳓ग् यज्ञे᳓न कल्पताम्  ।  
+आत्मा᳓ यज्ञे᳓न कल्पताम्  ।  
+यज्ञो᳓ यज्ञे᳓न कल्पताम्  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -238,7 +238,7 @@ May life accord with the sacrifice, may expiration accord with the sacrifice, ma
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुव॑र् दे॒वाँ अ॑गन् ।  
+सु᳓वर् देवाँ᳓ अगन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -258,7 +258,7 @@ We have come to the heaven, to the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा॒मृता॑ अभूम ।  
+मामृ᳓ता अभूम ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -278,7 +278,7 @@ we have become immortal;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तेᳶ प्र॒जा अ॑भूम ।  
+प्रजा᳓पतेᳶ प्रजा᳓ अभूम ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -306,11 +306,10 @@ we have become the offspring of Prajapati.
 18इमं लोकं प्रत्यवेक्षते -   समहमिति ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/samaham_prajayA.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/samaham_prajayA.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् अ॒हम् प्र॒जया॑  +++(भूयासम्)+++  ।
+स᳓म् अह᳓म् प्रज᳓या  +++(भूयासम्)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -345,7 +344,7 @@ ___________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् मया॑ प्र॒जा  +++(भूयात्)+++ ।
+स᳓म् म᳓या प्रजा᳓  +++(भूयात्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -377,7 +376,7 @@ __________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम॒हँ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+स᳓महँ᳓ राय᳓स्पो᳓षेण  +++(भूयासम्)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -409,7 +408,7 @@ _______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम्मया॑ रा॒यस्पोषः॑   +++(भूयात्)+++  ।
+स᳓म्म᳓या राय᳓स्पो᳓षः   +++(भूयात्)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -433,7 +432,6 @@ increase of wealth with me.
 _____________
 रायश्च पोषश्च मया सङ्गच्छताम् । रायो विभक्त्युदात्तत्वं सत्वं चोक्तम् ॥
 </details>
-
 </div>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -448,7 +446,7 @@ _____________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्ना॑य त्वा  +++(हन्मि)+++ ।
+अ᳓न्नाय त्वा  +++(हन्मि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -463,7 +461,7 @@ For food thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्नाद्या॑य त्वा  +++(हन्मि)+++ ।
+अ᳓न्ना᳓द्याय त्वा  +++(हन्मि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -478,7 +476,7 @@ For proper food thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाजा॑य त्वा  +++(हन्मि)+++ ।
+वा᳓जाय त्वा  +++(हन्मि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -493,7 +491,7 @@ For strength thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाज-जि॒त्यायै॑ त्वा  +++(हन्मि)+++ ।
+वा᳓ज᳓-जित्या᳓यै त्वा  +++(हन्मि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -518,7 +516,7 @@ For the conquering of strength thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अमृत॑म् असि ।  
+अ᳓मृ᳓तम् असि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -543,7 +541,7 @@ Thou art ambrosia,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुष्टि॑रसि, प्र॒जन॑नमसि ॥ [39]
+पु᳓ष्टिरसि, प्रज᳓ननमसि ॥ [39]
 </details>
 
 <details><summary>Keith</summary>

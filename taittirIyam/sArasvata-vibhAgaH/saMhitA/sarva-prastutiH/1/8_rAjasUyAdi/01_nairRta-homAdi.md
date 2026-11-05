@@ -165,8 +165,7 @@ Go away, hail! rejoicing in the oblation.
 4 नैरृतं सर्वं जुहोति - एष त इति गायत्री । यजुरिति केचित् ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/01_nairRta-homAdi/02_eSha_te.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/01_nairRta-homAdi/02_eSha_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 एष᳓ ते निरृते भागो᳓,  
@@ -174,11 +173,9 @@ Go away, hail! rejoicing in the oblation.
 **मुञ्चे᳓म᳓म्** अँ᳓हसः॥
 
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/01_nairRta-homAdi/02_eSha_te.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/01_nairRta-homAdi/02_eSha_te.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -205,7 +202,6 @@ Free him from evil. Hail!
 यस्मादनेन हविषा **हविष्मती** त्वम् **असि**, तस्माद् **इमं** हविषोऽस्य दातारं यजमानं अंहसः पापान्मुञ्चेति । 'अंहस एवैनं मुञ्चति' इति ब्राह्मणम् ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>

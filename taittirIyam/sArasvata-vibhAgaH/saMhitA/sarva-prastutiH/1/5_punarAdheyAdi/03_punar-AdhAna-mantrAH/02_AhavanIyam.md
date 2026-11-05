@@ -7,19 +7,16 @@ _______
 4आहवनीये तिस्रोनुवर्तयति । तत्र प्रथमा - अस्येति गायत्री ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/02_asya_prANAd.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/02_asya_prANAd.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-अ॒स्य +++(विषूव-सूर्यात्मनो ऽग्नेः)+++ प्रा॒णाद् **अ॑पान॒त्य्**,  
-+++(वृषभराशेर्)+++ **अ॑न्तश् च॑रति** रोच॒ना+++(→ रोहिणी दीप्तिर् वा)+++ ।  
-व्य॑ख्यन्+++(=प्राकाशयन्)+++ महि॒षस् +++(वृषभराशौ सूर्यः, भुव्य् अग्निः)+++ सुवः॑ +++(→दिव॑म् इति शाकले)+++ ॥
+अस्य᳓ +++(विषूव-सूर्यात्मनो ऽग्नेः)+++ प्राणा᳓द् **अपानत्य्**,  
++++(वृषभराशेर्)+++ **अ᳙न्त᳓श् चरति** रोचना᳓+++(→ रोहिणी दीप्तिर् वा)+++ ।  
+व्य᳙ख्यन्+++(=प्राकाशयन्)+++ महिष᳓स् +++(वृषभराशौ सूर्यः, भुव्य् अग्निः)+++ सु᳓वः +++(→दि᳓वम् इति शाकले)+++ ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/02_asya_prANAd.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/02_asya_prANAd.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -49,7 +46,6 @@ The bull discerneth the heaven.
 अन्य आहुः - **अस्याग्नेः सुवः** आदित्यात्मिका **रोचना** दीप्तिः प्राणादुदयात् **अपानती** अस्तं गच्छन्ती **अन्तः** द्यावापृथिव्योर् मध्ये **चरति** । महत्यन्तरिक्षे सीदति । व्यख्यत् प्रकाशयति च द्यावापृथिव्यौ । एवं महानुभावं त्वामादधामीति ॥
 </details>
 </details>
-
 </div>
 
 _______
@@ -58,20 +54,17 @@ _______
 5द्वितीया - यत्त्वेत्यनुष्टुप् । 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/03_yat_tvA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/03_yat_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-यत् त्वा॑ [10] क्रु॒द्धᳶ **प॑रो॒वप॑**+++(=उद्वासितवान् अस्मि)+++,  
-म॒न्युना॒ यद् अव॑र्त्या ।    
-सु॒कल्प॑म् अग्ने॒ तत् तव॒,  
-+++(यतः पुनराधाने)+++ पुन॒स् **त्वोद्दी॑पयामसि**  ॥
+य᳓त् त्वा [10] क्रुद्धᳶ᳓ **परोव᳓प**+++(=उद्वासितवान् अस्मि)+++,  
+मन्यु᳓ना य᳓द् अ᳓वर्त्या ।    
+सुक᳓ल्पम् अग्ने त᳓त् त᳓व,  
++++(यतः पुनराधाने)+++ पु᳓नस् **त्वो᳓द्दीपयामसि**  ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/03_yat_tvA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/03_yat_tvA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -101,7 +94,6 @@ Again thee we relight.
 **मन्युना** शोकेन परीतो ऽहम् **अवर्त्या** दारिद्र्येण पाप्मना वा यत्त्वां **परोवप** विनाशितवान् हे अग्ने तदपि तव प्रसादात् सुकल्पं शोभनकृतिकमेव भवति । 'आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । 'युष्मदस्मदोर्ङसि' इति तवशब्द आद्युदात्तः । अतस्त्वां पूर्ववदेवोद्दीपयामसि उद्वपामः । 'इदन्तो मसि' ॥
 </details>
 </details>
-
 </div>
 
 _______
@@ -110,20 +102,17 @@ _______
 6अथ तृतीया - यत्त इत्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/04_yat_te.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/04_yat_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-यत् ते॑ म॒न्यु-प॑रोप्तस्य  
-पृथि॒वीम् अनु॑ **दध्व॒से**+++(←ध्वस्)+++ ।  
-आ॒दि॒त्या विश्वे॒ तद् दे॒वा  
-वस॑वश् च **स॒माभ॑रन्न्**  ॥
+य᳓त् ते मन्यु᳓-परोप्तस्य  
+पृथिवी᳓म् अ᳓नु **दध्वसे᳓**+++(←ध्वस्)+++ ।  
+आदित्या᳓ वि᳓श्वे त᳓द् देवा᳓  
+व᳓सवश् च **समा᳓भरन्न्**  ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/04_yat_te.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/04_yat_te.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -149,5 +138,4 @@ And the Vasus gathered together.
 **ते** तव **मन्युपरोप्तस्य** मन्युना हेतुना मयोद्वासितस्य । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । **यत्** तेजः **पृथिवीम् अनुदध्वसे** ध्वस्तं पृथिवीम् अनुप्रविश्य वा नष्टं बभूव **तदादित्या विश्वे देवा वसवश्च समाभरन्** समाभरन्तु । 'हृग्रहोः' इति भत्वम् ॥
 </details>
 </details>
-
 </div>

@@ -5,7 +5,7 @@ unicode_script: devanagari
 ---
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒गस्त्यो॑ म॒रुद्भ्य॑ उ॒क्ष्णᳶ प्रौक्ष॑त् ।
+अग᳓स्त्यो मरु᳓द्भ्य उक्ष्णᳶ᳓ प्रौ᳓क्षत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -20,7 +20,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तानिन्द्र॒ आद॑त्त ।
+ता᳓नि᳓न्द्र आ᳓दत्त ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -35,8 +35,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त ए॑नव्ँ॒वज्र॑मु॒द्यत्या॒भ्या॑यन्त ।   
-तान॒गस्त्य॑श्चै॒वेन्द्र॑श्च कयाशु॒भीये॑नाशमयताम् ।
+त᳓ एनव्ँव᳓ज्रमुद्य᳓त्याभ्या᳙यन्त ।   
+ता᳓नग᳓स्त्यश्चैवे᳓न्द्रश्च कयाशुभी᳓येनाशमयताम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -52,9 +52,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताञ्छा॒न्तानुपा॑ह्वयत ।     
+ता᳓ञ्छान्ता᳓नु᳓पाह्वयत ।     
 
-यत्क॑याशु॒भीय॒म्भव॑ति॒ शान्त्यै॑ ।
+य᳓त्कयाशुभी᳓यम्भ᳓वति शा᳓न्त्यै ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -71,7 +71,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑दे॒त ऐ॑न्द्रामारु॒ता उ॒क्षाण॑स्सव॒नीया॑ भवन्ति ।
+त᳓स्मादेत᳓ ऐन्द्रामारुता᳓ उक्षा᳓णस्सवनी᳓या भवन्ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -86,11 +86,11 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रय॑ᳶ प्रथ॒मेऽह॒न्नाल॑भ्यन्ते ।   
-ए॒वन्द्वि॒तीये॑ ।  
-ए॒वन्तृ॒तीये॑ ॥32॥   
-ए॒वञ्च॑तु॒र्थे ।  
-पञ्चो॑त्त॒मेऽह॒न्ना ल॑भ्यन्ते ।
+त्र᳓यᳶ प्रथमे᳓ऽहन्ना᳓लभ्यन्ते ।   
+एव᳓न्द्विती᳓ये ।  
+एव᳓न्तृती᳓ये ॥32॥   
+एव᳓ञ्चतुर्थे᳓ ।  
+प᳓ञ्चोत्तमे᳓ऽहन्ना᳓ लभ्यन्ते ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -109,8 +109,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वर्षि॑ष्ठमिव॒ ह्ये॑तदहः॑ ।  
-वर्षि॑ष्ठस्समा॒नाना॑म्भवति ।  
+व᳓र्षिष्ठमिव ह्ये᳙त᳓द᳓हः ।  
+व᳓र्षिष्ठस्समाना᳓नाम्भवति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -126,7 +126,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒तेन॒ यज॑ते॒ य उ॑चैनमे॒वव्ँ वेद॒ स्वारा॑ज्यव्ँ॒वा ए॒ष य॒ज्ञः ।
+य᳓ एते᳓न य᳓जते य᳓ उचैनमेवव्ँ᳓ वे᳓द स्वा᳓राज्यव्ँवा᳓ एष᳓ यज्ञः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -141,8 +141,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तेन॒ वा एक॒यावा॑ कान्द॒मस्स्वारा॑ज्यमगच्छत् ।
-स्वरा॑ज्यङ्गच्छति ।
+एते᳓न वा᳓ ए᳓कया᳓वा कान्दम᳓स्स्वा᳓राज्यमगच्छत् ।
+स्व᳓राज्यङ्गच्छति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -150,7 +150,6 @@ unicode_script: devanagari
 ए॒तेन॒ वा एक॒यावा॑ कान्द॒मस्स्वारा॑ज्यमगच्छत् ।
 स्वरा॑ज्यङ्गच्छति ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -161,7 +160,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒तेन॒ यज॑ते॒ य उ॑ चैनमे॒वव्ँ वेद॑ मारु॒तो वा ए॒ष स्तोमः॑ ।
+य᳓ एते᳓न य᳓जते य᳓ उ चैनमेवव्ँ᳓ वे᳓द मारुतो᳓ वा᳓ एष᳓ स्तो᳓मः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -176,8 +175,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तेन॒ वै म॒रुतो॑ दे॒वाना॒म्भूयि॑ष्ठा अभवन् ।
-भूयि॑ष्ठस्समा॒नाना॑म्भवति ।  
+एते᳓न वै᳓ मरु᳓तो देवा᳓नाम्भू᳓यिष्ठा अभवन् ।
+भू᳓यिष्ठस्समाना᳓नाम्भवति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -193,7 +192,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒तेन॒ यज॑ते॒ य उ॑ चैनमे॒वव्ँ वेद॒ पञ्चशार॒दीयो॒ वा ए॒ष य॒ज्ञः ।
+य᳓ एते᳓न य᳓जते य᳓ उ चैनमेवव्ँ᳓ वे᳓द प᳓ञ्च᳓शा᳓रदी᳓यो वा᳓ एष᳓ यज्ञः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -208,14 +207,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ प॑ञ्च॒मात्पुरु॑षा॒दन्न॑मत्ति ।
+आ᳓ पञ्चमा᳓त्पु᳓रुषाद᳓न्नमत्ति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 आ प॑ञ्च॒मात्पुरु॑षा॒दन्न॑मत्ति ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -226,9 +224,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒तेन॒ यज॑ते॒ य उ॑ चैनमे॒वव्ँ वेद॑ सप्तद॒शँ स्तोमा॒ नाति॑यन्ति ।  
+य᳓ एते᳓न य᳓जते य᳓ उ चैनमेवव्ँ᳓ वे᳓द सप्तदशँ᳓ स्तो᳓मा ना᳓तियन्ति ।  
 
-स॒प्त॒द॒शᳶ प्र॒जाप॑तिः । प्र॒जाप॑तेरे॒व नैति॑ ॥34॥  
+सप्तदशᳶ᳓ प्रजा᳓पतिः । प्रजा᳓पतेरेव᳓ नै᳓ति ॥34॥  
 </details>
 
 <details><summary>मूलम्</summary>

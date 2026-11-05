@@ -1,6 +1,5 @@
 +++
 title = "०५ यक्ष्मगृहीतस्येष्टिः"
-
 +++
 
 विश्वेदेवा ऋषयः ।
@@ -12,7 +11,7 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑ते॒स्त्रय॑स्त्रिँशद्दुहि॒तर॑ आसन् ।
+प्रजा᳓पतेस्त्र᳓यस्त्रिँशद्दुहित᳓र आसन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -27,7 +26,7 @@ Prajapati had thirty-three daughters;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तास्सोमा॑य॒ राज्ञे॑ऽददात् ।
+ता᳓स्सो᳓माय रा᳓ज्ञेऽददात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -42,7 +41,7 @@ he gave them to Soma, the king;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तासाँ॑ रोहि॒णीमुपै॑त् ।
+ता᳓साँ रोहिणी᳓मु᳓पैत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -62,7 +61,7 @@ of them he associated with Rohini;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता ईर्ष्य॑न्ती॒ᳶ पुन॑रगच्छन्।
+ता᳓ ई᳓र्ष्यन्तीᳶ पु᳓नरगच्छन्।
 </details>
 
 <details><summary>Keith</summary>
@@ -77,8 +76,8 @@ they returned in anger;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता अन्वै॑त् ।  
-ताᳶ पुन॑रयाचत ।
+ता᳓ अ᳓न्वैत् ।  
+ताᳶ᳓ पु᳓नरयाचत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -99,7 +98,7 @@ then he followed and asked for them back;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता अ॑स्मै॒ न पुन॑रददात् ।  
+ता᳓ अस्मै न᳓ पु᳓नरददात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -119,8 +118,8 @@ them he would not return;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ऽब्रवीत्  ।   
-ऋतम॑मीष्व ।  
+सो᳓ऽब्रवीत्  ।   
+ऋ᳓त᳓ममीष्व ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -141,7 +140,7 @@ he said, 'Swear on oath
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा॑ समाव॒च्छ उ॑पै॒ष्यामि ।
+य᳓था समावच्छ᳓ उपैष्या᳓मि᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -161,7 +160,7 @@ that thou wilt equally associate (with them):
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॑ ते॒ पुन॑र्दास्या॒मीति॑ ।
+अ᳓थ ते पु᳓नर्दास्यामी᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -181,8 +180,8 @@ then will I return them to you.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ऋ॒तमा॑मीत् ।   
-ता अ॑स्मै॒ पुन॑रददात् ।  
+स᳓ ऋत᳓मामीत् ।   
+ता᳓ अस्मै पु᳓नरददात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -203,7 +202,7 @@ He took the oath, and he returned them.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तासाँ॑ रोहि॒णीमे॒वोपै॑त्  ।  
+ता᳓साँ रोहिणी᳓मेवो᳓पैत्  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -223,7 +222,7 @@ He associated with Rohini alone [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तय्ँयक्ष्म॑ आर्च्छत् ।
+तय्ँ᳓य᳓क्ष्म आर्च्छत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -243,7 +242,7 @@ Illness seized him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राजा॑नय्ँ॒यक्ष्म॑ आर॒दिति॒ तद्रा॑जय॒क्ष्मस्य॒ जन्म॑ ।
+रा᳓जानय्ँय᳓क्ष्म आरदि᳓ति त᳓द्राजयक्ष्म᳓स्य ज᳓न्म ।
 </details>
 
 <details><summary>Keith</summary>
@@ -263,7 +262,7 @@ Illness seized him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्पापी॑या॒नभ॑व॒त्,  तत्पा॑पय॒क्ष्मस्य +++(जन्म)+++।  
+य᳓त्पा᳓पीयान᳓भवत्,  त᳓त्पापयक्ष्म᳓स्य᳓ +++(जन्म)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -283,7 +282,7 @@ in that he became worse, that is (the origin) of the 'bad illness';
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज्जा॒याभ्योऽवि॑न्द॒त्, तज्जा॒येन्य॑स्य +++(जन्म)+++।  
+य᳓ज्जाया᳓भ्यो᳓ऽविन्दत्, त᳓ज्जाये᳓न्यस्य +++(जन्म)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -303,7 +302,7 @@ because he got it from his wives, that is (the origin) of the 'wife's disease' (
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वमे॒तेषाय्ँ॒यक्ष्मा॑णा॒ञ्जन्म॒ वेद॑ ।
+य᳓ एव᳓मेते᳓षाय्ँय᳓क्ष्माणाञ्ज᳓न्म वे᳓द ।
 </details>
 
 <details><summary>Keith</summary>
@@ -323,7 +322,7 @@ him who knows thus the origin of these illnesses,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नैन॑मे॒ते यक्ष्मा॑ विन्दन्ति ।
+नै᳓नमेते᳓ य᳓क्ष्मा विन्दन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -343,7 +342,7 @@ these illnesses do not visit.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॒ता ए॒व न॑म॒स्यन्नुपा॑धावत् ।  
+स᳓ एता᳓ एव᳓ नमस्य᳓न्नु᳓पाधावत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -363,7 +362,7 @@ He approached them respectfully;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता अ॑ब्रुवन् ।
+ता᳓ अब्रुवन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -378,7 +377,7 @@ they said, 'Let us choose a boon;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरव्ँ॑वृणामहै, समाव॒च्छ ए॒व न॒ उपा॑य॒ इति॑ ।
+व᳓रव्ँवृणामहै, समावच्छ᳓ एव᳓ न उ᳓पाय इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -398,7 +397,7 @@ do thou associate equally with us.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑ ए॒तमा॑दि॒त्यञ्च॒रुन्निर॑वपन् ।
+त᳓स्मा एत᳓मादित्य᳓ञ्चरु᳓न्नि᳓रवपन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -413,7 +412,7 @@ For him [2] they offered this oblation to the Adityas;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेनै॒वैन॑म्पा॒पात्स्रामा॑दमुञ्चन् ।
+ते᳓नैवै᳓नम्पापा᳓त्स्रा᳓मादमुञ्चन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -438,8 +437,8 @@ they freed him from his evil case.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यᳶ पा॑पय॒क्ष्मगृ॑हीत॒स्स्यात् ।  
-तस्मा॑ ए॒तमा॑दि॒त्यञ्च॒रुन्निर्व॑पेत् ।
+यᳶ᳓ पापयक्ष्म᳓गृहीतस्स्या᳓त् ।  
+त᳓स्मा एत᳓मादित्य᳓ञ्चरु᳓न्नि᳓र्वपेत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -455,7 +454,7 @@ For him who is seized by the bad illness he should offer this oblation to the Ad
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्याने॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+आदित्या᳓नेव᳓ स्वे᳓न भागधे᳓येनो᳓प धावति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -470,7 +469,7 @@ verily he has recourse to the Adityas with their own share;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त ए॒वैन॑म्पा॒पात्स्रामा॑न्मुञ्चन्ति ।
+त᳓ एवै᳓नम्पापा᳓त्स्रा᳓मान्मुञ्चन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -490,7 +489,7 @@ verily they free him from his evil case.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒मा॒वा॒स्या॑या॒न्निर्व॑पेत् ।  
+अमावास्या᳙यान्नि᳓र्वपेत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -510,11 +509,11 @@ He should offer at the new moon; verily with its waxing he makes him wax.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒मुमे॒वैन॑मा॒प्याय॑मान॒मन्वा प्या॑ययति ।  
-नवो॑नवो भवति॒ जाय॑मान॒ इति॑ पुरोनुवा॒क्या॑ भवति ।  
-आयु॑रे॒वास्मि॒न्तया॑ दधाति ।  
-यमा॑दि॒त्या अँ॒शुमा॑प्या॒यय॒न्तीति ।  
-या॒ज्यैवैन॑मे॒तया॑ प्याययति ॥
+अमु᳓मेवै᳓नमाप्या᳓यमानम᳓न्वा᳓ प्याययति ।  
+न᳓वोनवो भवति जा᳓यमान इ᳓ति पुरोनुवाक्या᳙ भवति ।  
+आ᳓युरेवा᳓स्मिन्त᳓या दधाति ।  
+य᳓मादित्या᳓ अँशु᳓माप्याय᳓यन्ती᳓ति᳓ ।  
+याज्यै᳓वै᳓नमेत᳓या प्याययति ॥
 </details>
 
 <details><summary>Keith</summary>

@@ -17,18 +17,19 @@ unicode_script: devanagari
 
 सन्दर्भार्थम् आदौ [पुरुषसूक्तम्](../sahasra-shIrShA/) ईक्षताम्।
 </details>
+
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/02_adbhyaH_sambhUtaH.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अद्भ्यः᳓ सं᳓भूतः पृथिव्यै᳓+++(व्याः)+++ र᳓साच् च +++(विराट् ब्रह्माण्डरूपः)+++।  
 विश्व᳓-कर्मणः+++(=परिपूर्णपुरुषात् पुरुषसूक्तोक्तात्)+++ स᳓मवर्तता᳓धि ।  
 त᳓स्य त्व᳓ष्टा+++(=त्रिपात् पुरुषः)+++ विद᳓धद् रूप᳓म् एति ।  
 त᳓त् पु᳓रुषस्य वि᳓श्वम् आ᳓जानम् अ᳓ग्रे । १
 </details>
-
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/02_adbhyaH_sambhUtaH.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अ॒द्भ्यः संभू॑तः पृथि॒व्यै रसा॑च्च । वि॒श्वक॑र्मणः॒ सम॑वर्त॒ताधि॑ ।
@@ -37,22 +38,28 @@ unicode_script: devanagari
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-1अद्भ्यस्सम्भूत इत्यादि ॥ 'उत्तरनारायणेन आदित्यमुपस्थाय' इत्यादौ विनियोगः । त्रैष्टुभस्सर्वोनुवाकः, विशेषो वक्ष्यते ॥ अद्भ्यः अबादिभ्यः पञ्चभ्यो भूतेभ्यः सम्भूतः उत्पन्नः पृथिव्यै पृथिव्याः रसात् अन्नाच्च उत्पन्नः ततो विश्वकर्मणः विश्वस्य कर्तुः अधि ऐश्वर्यविषयमधि समवर्तत सम्यक् सम्पन्नः प्रजापतिः । ततः तस्य रूपं विदधत् कुर्वन् त्वष्टा तद्रूपं एति सर्वाण्यङ्गानि विकर्तृत्वेन वायुरूपः प्रविशति तत् सर्वं पुरुषस्य प्रभावमहं आजानं आजानामि पुरुष एव सर्वं करोतीति अग्रे प्रथममेव जानामि । छान्दसमाकारस्य ह्रस्वत्वम् । यद्वा - अद्भ्यस्सम्भूतः प्रथमपरिणामः प्रजापतिः । ततः पृथिव्याः रसात् अन्नात् संभूतो वैराजः प्रजापतिः । ततः त्वष्टा विकुर्वन् वायुरूपः तदीयान्यङ्गानि गच्छतीति तृतीयः परिणामः । तत्सर्वं परस्य पुरुषस्य प्रभाव इति प्रथममेवाहं ज्ञातवानिति ॥
+1 अद्भ्यस् सम्भूत इत्य् आदि ॥  
+
+('उत्तरनारायणेन आदित्यम् उपस्थाय' इत्य् आदौ विनियोगः ।  
+त्रैष्टुभस् सर्वो ऽनुवाकः, विशेषो वक्ष्यते ॥)  
+अद्भ्यः अबादिभ्यः पञ्चभ्यो भूतेभ्यः सम्भूतः उत्पन्नः पृथिव्यै पृथिव्याः रसात् अन्नात् च उत्पन्नः ततो विश्वकर्मणः विश्वस्य कर्तुः अधि ऐश्वर्य-विषयम् अधि समवर्तत सम्यक् सम्पन्नः प्रजापतिः ।  
+ततः तस्य रूपं विदधत् कुर्वन् त्वष्टा तद्-रूपम् एति सर्वाणि अङ्गानि विकर्तृत्वेन वायुरूपः प्रविशति तत् सर्वं पुरुषस्य प्रभावम् अहं आजानं आजानामि पुरुष एव सर्वं करोतीति अग्रे प्रथमम् एव जानामि । छान्दसम् आकारस्य ह्रस्वत्वम् । यद्वा - अद्भ्यस् सम्भूतः प्रथम-परिणामः प्रजापतिः । ततः पृथिव्याः रसात् अन्नात् संभूतो वैराजः प्रजापतिः । ततः त्वष्टा विकुर्वन् वायुरूपस् तदीयानि अङ्गानि गच्छतीति तृतीयः परिणामः । तत् सर्वं परस्य पुरुषस्य प्रभाव इति प्रथमम् एवाहं ज्ञातवान् इति ॥
 </details>
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/03_vedAham_etam.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 वे᳓दाह᳓म् एतं᳓ पु᳓रुषं महा᳓न्तम् ।  
 आदित्य᳓-वर्णं त᳓मसः प᳓रस्तात् ।  
 त᳓म् एवं᳓ विद्वा᳓न् अमृ᳓त इह᳓ भवति ।  
-ना᳓न्यः᳓ प᳓न्था विद्यते᳓यऽनाय । २
+ना᳓न्यः᳓ प᳓न्था विद्यते᳓ ऽयनाय । २
 </details>
-
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/03_vedAham_etam.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 वेदा॒हमे॒तं पुरु॑षं म॒हान्तम्॑ । आ॒दि॒त्यव॑र्णं॒ तम॑सः॒ पर॑स्तात् ।
@@ -65,18 +72,19 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/04_prajApatish_charati.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-+++(त्रिपात्)+++ प्रजा᳓पतिश् चरति ग᳓र्भे अन्तः᳓ ।  
-अजा᳓यमानो बहुधा᳓ वि᳓जायते +++(सहस्रशीर्षा!)+++।  
-त᳓स्य धी᳓राः प᳓रिजानन्ति यो᳓निम् ।  
-म᳓रीचीनां +++(ऋषीणां)+++ पद᳓म् इच्छन्ति वेध᳓सः +++(त्रिपादश् [च])+++। ३
++++(त्रिपात्)+++ प्रजा᳓पतिश् **चरति** ग᳓र्भे अन्तः᳓ ।  
+**अ᳓जायमानो**+++(←माध्यन्दिन-स्वरः)+++ बहुधा᳓ **वि᳓जायते** +++(सहस्रशीर्षा!)+++।  
+त᳓स्य धी᳓राः **प᳓रिजानन्ति** यो᳓निम् ।  
+म᳓रीचीनां +++(ऋषीणां)+++ पद᳓म् **इच्छन्ति** वेध᳓सः +++(त्रिपादश् [च])+++। ३
 </details>
-
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/04_prajApatish_charati.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिश्चरति॒ गर्भे॑ अ॒न्तः । अ॒जाय॑मानो बहु॒धा विजा॑यते ।
@@ -90,18 +98,19 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/05_yo_devebhya.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 यो᳓ देवे᳓भ्य आत᳓पति+++(=काशते, माध्यन्दिनतः)+++ ।  
 यो᳓ देवा᳓नां पुरो᳓हितः ।  
 पू᳓र्वो यो᳓ देवे᳓भ्यो जातः᳓ ।  
 न᳓मो रुचा᳓य+++(=रोचमानाय)+++ ब्रा᳓ह्मये+++(=वेदवेद्याय परिपूर्णपुरुषाय)+++ । ४
 </details>
-
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/05_yo_devebhya.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 यो दे॒वेभ्य॒ आत॑पति +++(आ॒तप॑ति॒ माध्यन्दिने)+++ ।  
@@ -116,18 +125,19 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/06_ruchaM_brAhmam.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 रु᳓चं ब्राह्म᳓म् **जन᳓यन्तः** +++(विद्यया)+++।  
 देवा᳓ अ᳓ग्रे त᳓द् अब्रुवन् ।  
 य᳓स् त्वा +एवं᳓ ब्राह्मणो᳓ **विद्या᳓त्** -  
 त᳓स्य देवा᳓ **अ᳓सन्**+++(~~असन्~~)+++ व᳓शे । ५
 </details>
-
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/06_ruchaM_brAhmam.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 रुचं॑ ब्रा॒ह्मम् ज॒नय॑न्तः । दे॒वा अग्रे॒ तद॑ब्रुवन् ।

@@ -6,8 +6,7 @@ title: ०६ व्रीहिपेषणम्
 
 ____
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/avadhUtaM.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/avadhUtaM.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णाजिनम् अवधूनोति
@@ -15,7 +14,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव॑धूतँ॒ रक्षोऽव॑धूता॒ अरा॑त॒यः ।
+अ᳓वधूतँ र᳓क्षो᳓ऽवधूता अ᳓रातयः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -55,8 +54,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑त्या॒स् त्वग॑सि ।  
-प्रति॑ +++(तादृशीं)+++ त्वा॒+++(ं)+++ पृ॒थि॒वी +++(स्वस्या उपरि)+++ वे॑त्तु ।
+अ᳓दित्यास् त्व᳓गसि ।  
+प्र᳓ति +++(तादृशीं)+++ त्वा+++(ं)+++ पृथिवी᳓ +++(स्वस्या उपरि)+++ वेत्तु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -85,13 +84,12 @@ Thou art the skin of Aditi, may the earth' recognize thee [1].
 
 7कृष्णाजिनमवस्तृणाति - अदित्या इति ॥ अदितिः अखण्डनीया । कर्मणि क्तिन्, अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) । अखण्डितायाः पृथिव्यास्त्वगिव प्रियतममसि, अतस्त्वामास्तीर्णां पृथिवी प्रतिवेत्तु आत्मन उपरि तवावस्थानमनुजानातु न न्यक्कारयतु । सा तु माऽवमंस्त । पृथिवीशब्दो ङीषन्तोन्तोदात्तः ॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑त्या॒स्त्वग॑सि॒,  
-प्रति॑ त्वा पृथि॒वी वे॑त्तु
+अ᳓दित्यास्त्व᳓गसि,  
+प्र᳓ति त्वा पृथिवी᳓ वेत्तु
 </details>
 
 <details><summary>Keith</summary>
@@ -123,8 +121,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि॒वस् स्क॑म्भ॒निर्+++(=धारयित्र्य्)+++ अ॑सि ।  
-प्रति॒ त्वा ऽदि॑त्या॒स् त्वग् +++(स्वस्या उपरि)+++ वे॑त्तु ।
+दिव᳓स् स्कम्भनि᳓र्+++(=धारयित्र्य्)+++ असि ।  
+प्र᳓ति त्वा᳓ ऽदित्यास् त्व᳓ग् +++(स्वस्या उपरि)+++ वेत्तु ।
 +++('द्यावापृथिवी सहास्ताम्' (तै.ब्रा. 3.2.6) इत्यादि ब्राह्मणम् ॥)+++
 </details>
 
@@ -160,8 +158,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे दृषत्!)+++ धि॒षणा॑+++(=धृष्टा = लवने समर्था)+++ ऽसि पर्व॒त्या +++(पर्वतमर्हतीति)+++ ।  
-प्रति॑ त्वा दि॒वस् स्क॑म्भ॒निर् +++(शम्या)+++ वे॑त्तु ।
++++(हे दृषत्!)+++ धिष᳓णा+++(=धृष्टा = लवने समर्था)+++ ऽसि पर्वत्या᳓ +++(पर्वतमर्हतीति)+++ ।  
+प्र᳓ति त्वा दिव᳓स् स्कम्भनि᳓र् +++(शम्या)+++ वेत्तु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -199,8 +197,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(उपले!)+++ धि॒षणा॑ऽसि पार्वते॒यी ।  
-प्रति॑ त्वा पर्व॒तिर् +++(=परिपूर्णा शिला = दृषत्)+++ वे॑त्तु ।
++++(उपले!)+++ धिष᳓णाऽसि पार्वतेयी᳓ ।  
+प्र᳓ति त्वा पर्वति᳓र् +++(=परिपूर्णा शिला = दृषत्)+++ वेत्तु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -237,13 +235,12 @@ ____
 पुरोडाशीयानधिवपति
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
-+++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
-पू॒ष्णो हस्ता॑भ्याम्…
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
++++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
+पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
 
 <details><summary>Keith</summary>
@@ -277,12 +274,11 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… अधि॑वपामि।  
+… अ᳓धिवपामि।  
 </details>
 
 <details><summary>Keith</summary>
@@ -312,8 +308,8 @@ I pour thee out.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धा॒न्य॑म्+++(=धा+यत्)+++ असि ।  
-धि॒नु॒हि+++(=प्रीणय)+++ दे॒वान् ।
+धान्य᳙म्+++(=धा+यत्)+++ असि ।  
+धिनुहि᳓+++(=प्रीणय)+++ देवा᳓न् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -348,9 +344,9 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णाय॑ त्वा +++(प्राचीनं पिनष्मि)+++।  
-अ॒पा॒नाय॑ त्वा +++(प्रतीचीनं)+++।     
-व्या॒नाय॑ त्वा +++(तिरश्चीनं)+++।  
+प्राणा᳓य त्वा +++(प्राचीनं पिनष्मि)+++।  
+अपाना᳓य त्वा +++(प्रतीचीनं)+++।     
+व्याना᳓य त्वा +++(तिरश्चीनं)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -389,7 +385,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दी॒र्घाम् अनु॒ +++(बाह्वोः)+++ प्रसि॑ति॒म्+++(=प्रबन्धम्)+++ आयु॑षे धाम्+++(=दधामि)+++  ।
+दीर्घा᳓म् अ᳓नु +++(बाह्वोः)+++ प्र᳓सितिम्+++(=प्रबन्धम्)+++ आ᳓युषे धाम्+++(=दधामि)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -419,11 +415,10 @@ ____
 कृष्णाजिने पिष्टानि प्रस्कन्दयति
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitA.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitA.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वो व॑स् सवि॒ता हिर॑ण्यपाणि॒ᳶ प्रति॑गृह्णातु ॥ [8]
+देवो᳓ वस् सविता᳓ हि᳓रण्यपाणिᳶ प्र᳓तिगृह्णातु ॥ [8]
 </details>
 
 <details><summary>Keith</summary>
@@ -445,7 +440,6 @@ Let the god Savitr of golden hands, seize you.
 
 17तण्डुलान् प्रस्कन्दयति - देवो व इति ॥ देवस्सविता सर्वस्य प्रेरकः हिरण्यपाणिः हिरण्याभरणपाणिः युष्मान् प्रतिगृह्णातु प्रतिगृह्य रक्षतु । हिरण्यस्य विकारो वलयाङ्गुलीयकादिः पाण्योर्य स्येति समुदायविकारषष्ठ्या (पा.सू. 2.2.24 वा 13) विगृह्य 'सप्तम्युपमानपूर्वपदस्य बहुव्रीहिर्वाच्यो वाचोत्तरपदलोपश्च' (पा.सू. 2.2.24 वा 12) इति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । 'उशीरदाशेरकपालपलालशैवालश्यामाकशरीरशरावहृदयहिरण्यारण्यापत्यदेवराणाम्' (फि.सू. 67) इति हिरण्यशब्द आद्युदात्तः । 'अन्तरिक्षादिव' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ॥
 </details>
-
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>

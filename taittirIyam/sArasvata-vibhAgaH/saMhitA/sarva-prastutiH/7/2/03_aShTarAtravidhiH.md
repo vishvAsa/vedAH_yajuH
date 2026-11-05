@@ -11,7 +11,7 @@ title = "०३ अष्टरात्रविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह॒स्पति॑र् अकामयत ब्रह्मवर्च॒सी स्या॒म् इति॑ ।
+बृ᳓हस्प᳓तिर् अकामयत ब्रह्मवर्चसी᳓ स्याम् इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -21,9 +21,9 @@ Brhaspati desired, 'May I be resplendent.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॒तम् अ॑ष्टरा॒त्रम् अ॑पश्यत् ।
-तम् आह॑रत् ।
-तेना॑यजत ।
+स᳓ एत᳓म् अष्टरात्र᳓म् अपश्यत् ।
+त᳓म् आ᳓हरत् ।
+ते᳓नायजत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -33,7 +33,7 @@ He saw this rite of eight nights, he grasped it, and sacrificed with it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वै स ब्र॑ह्मवर्च॒स्य् अ॑भवत् ।
+त᳓तो वै᳓ स᳓ ब्रह्मवर्चस्य् अ᳙भवत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -43,7 +43,7 @@ Then indeed did he become resplendent.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वान् अ॑ष्टरा॒त्रेण॒ यज॑ते ब्रह्मवर्च॒सी +ए॒व भ॑वति । 
+य᳓ एवव्ँ᳓ विद्वा᳓न् अष्टरात्रे᳓ण य᳓जते ब्रह्मवर्चसी᳓ +एव᳓ भवति । 
 </details>
 
 <details><summary>Keith</summary>
@@ -53,14 +53,14 @@ He, who knowing thus sacrifices with (the rite) of eight nights, becomes resplen
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ष्ट॒रा॒त्रो भ॑वति ।  
-अ॒ष्टाक्ष॑रा गाय॒त्री । गा॑य॒त्री ब्र॑ह्मवर्च॒सम् । गा॑यत्रि॒यैव ब्र॑ह्मवर्च॒सम् अव॑ रुन्धे ।  
+अष्टरात्रो᳓ भवति ।  
+अष्टा᳓क्षरा गायत्री᳓ । गा᳓यत्री᳓ ब्रह्मवर्चस᳓म् । गा᳓यत्रियै᳓व᳓ ब्रह्मवर्चस᳓म् अ᳓व रुन्धे ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ष्ट॒रा॒त्रो भ॑वति ।  
-चत॑स्रो॒ वै दिशः॑ । चत॑स्रोऽवान्तरदि॒शाः । दि॒ग्भ्य ए॒व ब्र॑ह्मवर्च॒समव॑ रुन्धे [8] ।
+अष्टरात्रो᳓ भवति ।  
+च᳓तस्रो वै᳓ दि᳓शः । च᳓तस्रोऽवान्तरदिशाः᳓ । दिग्भ्य᳓ एव᳓ ब्रह्मवर्चस᳓म᳓व रुन्धे [8] ।
 </details>
 
 <details><summary>Keith</summary>
@@ -69,8 +69,7 @@ He, who knowing thus sacrifices with (the rite) of eight nights, becomes resplen
 </details>
 
 ## प्रतिदिनं विधानम्
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्रि॒वृद॑ग्निष्टो॒मो भ॑वति॒ तेज॑ ए॒वाव॑ रुन्द्धे पञ्चद॒शो भ॑वतीन्द्रि॒यमे॒वाव॑ रुन्द्धे सप्तद॒शो भ॑वत्य॒न्नाद्य॒स्याव॑रुद्ध्या॒ अथो॒ प्रैव तेन॑ जायते 
@@ -78,7 +77,7 @@ He, who knowing thus sacrifices with (the rite) of eight nights, becomes resplen
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रि॒वृद्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अ॑ग्निष्टो॒मो +++(यागो रथन्तरसामा)+++ भ॑वति +++("अग्न॒ आ या॑हि" इत्यादेस् त्र्यर्चस्य)+++ । तेज॑ ए॒वाव॑ रुन्धते ।  
+त्रिवृ᳓द्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अग्निष्टोमो᳓ +++(यागो रथन्तरसामा)+++ भवति +++("अ᳓ग्न आ᳓ याहि" इत्यादेस् त्र्यर्चस्य)+++ । ते᳓ज एवा᳓व रुन्धते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -105,8 +104,8 @@ There is an Agnistoma characterized by the Trivrt (Stoma); verily he wins brilli
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒ञ्च॒द॒शो भ॑वति॒ ,
-इन्द्रि॒यमे॒वाव रुन्द्धे ।
+पञ्चदशो᳓ भवति ,
+इ᳓न्द्रिय᳓मेवा᳓व᳓ रु᳓न्द्धे᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -133,8 +132,8 @@ There is a Pañcadaśa (Stoma); verily he wins power.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्त॒द॒शो भ॑वति॒ ,
-अ॒न्नाद्य॒स्याव॑रुध्यै ।
+सप्तदशो᳓ भवति ,
+अन्ना᳓द्यस्या᳓वरुध्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -161,7 +160,7 @@ There is a Saptadaśa (Stoma), for the obtainment of food;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ प्रैव तेन॑ जायते ।
+अ᳓थो प्रै᳓व᳓ ते᳓न जायते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -183,14 +182,12 @@ verily also he gains offspring by reason of it.
 
 अथो अपि च तेन सप्तदशेनाह्ना प्रजायते तस्य प्रजाहेतुत्वात् ।
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/2/01_ShaDrAtravidhiH/21-27-vidhAnam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/2/01_ShaDrAtravidhiH/21-27-vidhAnam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒क॒विँ॒शो +++(वैराजसामा षोडशी यागः)+++ भ॑वति॒ प्रति॑ष्ठित्यै । अथो॒ रुच॑म् ए॒वात्मन् द॑धते ।
+एकविँशो᳓ +++(वैराजसामा षोडशी यागः)+++ भवति प्र᳓तिष्ठित्यै । अ᳓थो रु᳓चम् एवा᳓त्म᳓न् दधते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -200,32 +197,28 @@ There is an Ekavinśa (Stoma), for support; verily also they place radiance in t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रि॒ण॒वो +++(शाक्वरसामा उक्थ्यः)+++ भ॑वति॒, विजि॑त्यै ।
+त्रिणवो᳓ +++(शाक्वरसामा उक्थ्यः)+++ भवति, वि᳓जित्यै ।
 </details>
 
 <details><summary>Keith</summary>
 
 There is a Trinava (Stoma), for conquest.
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/2/01_ShaDrAtravidhiH/33-vidhAnam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/2/01_ShaDrAtravidhiH/33-vidhAnam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्र॒य॒स्त्रिँ॒शो +++( रैवतसामा षष्ठम्)+++ भ॑वति, प्रति॑ष्ठित्यै ।
+त्रयस्त्रिँशो᳓ +++( रैवतसामा षष्ठम्)+++ भव᳓ति᳓, प्र᳓तिष्ठित्यै ।
 </details>
 
 <details><summary>Keith</summary>
 
 There is a Trayastrinśa (Stoma), for support.
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/25-vidhAnam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/25-vidhAnam.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पञ्चविँ॒शो॑ऽग्निष्टो॒मो भ॑वति प्र॒जाप॑ते॒राप्त्यै॑ महाव्र॒तवा॑न॒न्नाद्य॒स्याव॑रुद्ध्यै  
@@ -233,8 +226,8 @@ There is a Trayastrinśa (Stoma), for support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒ञ्च॒विँ॒शो॑ ऽग्निष्टो॒मो +++(यागः)+++ भ॑वति॒ प्र॒जाप॑ते॒र् आप्त्यै॑ ।  
-म॒हा॒व्र॒त॒वा॑न् +++(=ये महाव्रतधर्माः 'स्तुवन्त्यनुश्नोकेन' इत्याद्याः तद्वान्)+++ अ॒न्नाद्य॑स्य अव॑रुद्ध्यै । +++(यथोक्तं महाव्रते 'तदन्नं पञ्चविंशमभवत्' इति ।)+++
+पञ्चविँशो᳙ ऽग्निष्टोमो᳓ +++(यागः)+++ भवति प्रजा᳓पतेर् आ᳓प्त्यै ।  
+महाव्रतवा᳙न् +++(=ये महाव्रतधर्माः 'स्तुवन्त्यनुश्नोकेन' इत्याद्याः तद्वान्)+++ अन्ना᳓द्यस्य᳓ अ᳓वरुद्ध्यै । +++(यथोक्तं महाव्रते 'तदन्नं पञ्चविंशमभवत्' इति ।)+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -260,11 +253,9 @@ There is a Trayastrinśa (Stoma), for support.
 There is an Agnistoma with the Pañcadaśa (Stoma), for the gaining of Prajapati;  
 (it has) the characteristics of the Mahavrata, for the gaining of food.
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विश्व॒जित्सर्व॑पृष्ठोऽतिरा॒त्रो भ॑वति॒ सर्व॑स्या॒भिजि॑त्यै ॥ [39]  
@@ -272,7 +263,7 @@ There is an Agnistoma with the Pañcadaśa (Stoma), for the gaining of Prajapati
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒श्व॒जिथ् +++(सहस्रदक्षिणत्वादिधर्मः)+++ सर्व॑पृष्ठो+++(=रथन्तर-बृहद्-वैरूप-वैराज-शाक्वर-रैवत-पृष्ठः)+++ ऽतिरा॒त्रो भ॑वति॒, सर्व॑स्या॒भिजि॑त्यै ॥ 
+विश्वजि᳓थ् +++(सहस्रदक्षिणत्वादिधर्मः)+++ स᳓र्वपृष्ठो+++(=रथन्तर-बृहद्-वैरूप-वैराज-शाक्वर-रैवत-पृष्ठः)+++ ऽतिरात्रो᳓ भवति, स᳓र्वस्याभि᳓जित्यै ॥ 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -298,5 +289,4 @@ There is an Agnistoma with the Pañcadaśa (Stoma), for the gaining of Prajapati
 There is a Viśvajit Atiratra, with all the Prstha (Stotras), for the winning of all.
 </details>
 </details>
-
 </div>

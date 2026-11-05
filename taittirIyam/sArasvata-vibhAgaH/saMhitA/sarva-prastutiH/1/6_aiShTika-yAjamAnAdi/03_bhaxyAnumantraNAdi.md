@@ -18,8 +18,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निर् मा॒ दुरि॑ष्टात् पातु  
-सवि॒ता ऽघशँ॑सात् ।
+अग्नि᳓र् मा दु᳓रिष्टात् पातु  
+सविता᳓ ऽघ᳓शँसात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -62,8 +62,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो मेऽन्ति॑ दू॒रे᳙ ऽराती॒यति॒  
-तम् ए॒तेन॑ जेषम् ।
+यो मेऽन्ति᳓ दूरे᳙ ऽरातीयति  
+तम् एतेन᳓ जेषम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -106,7 +106,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुरू॑प-वर्ष-वर्ण॒+++(य्)+++ एहि॑ ।
+सु᳓रूप-वर्ष-वर्ण+++(य्)+++ ए᳓हि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -140,7 +140,7 @@ O thou of fair rain colour, come
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒मान् भ॒द्रान् दुर्याँ॑+++(=यज्ञगृहान्)+++ अ॒भ्येहि॒ माम् अनु॑व्रता।
+इमा᳓न् भद्रा᳓न् दु᳓र्याँ+++(=यज्ञगृहान्)+++ अभ्ये᳓हि मा᳓म् अ᳓नुव्रता।
 </details>
 
 <details><summary>Keith</summary>
@@ -173,7 +173,7 @@ Approach me in devotion.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न्य् उ॒ +++(वक्ष्यमाणानि)+++ शी॒र्षाणि॑ मृढ्वम् ।
+न्य् उ +++(वक्ष्यमाणानि)+++ शीर्षा᳓णि मृढ्वम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -208,13 +208,12 @@ Touch the heads.
 इड॒ एह्यदि॑त॒ एहि॒ सर॑स्व॒त्येहि॒ रन्ति॑रसि॒ रम॑तिरसि सू॒नर्य॑सि 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/iDa_ehi.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/iDa_ehi.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इड॒+++(य्)+++ एहि॑+++(=आ+इ॑हि)+++ ।  
-अदि॑त॒ एहि॑ ।  
-सर॑स्व॒त्य् एहि॑+++(=आ+इ॑हि)+++ ।
+इ᳓ड+++(य्)+++ ए᳓हि+++(=आ᳓+इहि)+++ ।  
+अ᳓दित ए᳓हि ।  
+स᳓रस्वत्य् ए᳓हि+++(=आ᳓+इहि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -250,12 +249,11 @@ O Sarasvati, come hither.
 त एवेडाविशेषा इडादिभिः सूनर्यन्तैः षड्भिर्नामविशेषैः स्पष्टी क्रियन्ते। इडादीनां गोनामविशेषत्वं सप्तमकाण्डे समाम्नातम् – ‘इडे रन्तेऽदिते सरस्वति प्रिये प्रेयसि महि विश्रुत्येतानि ते अघ्‍निये नामानि’ (सं॰ का॰ ७ प्र॰ १ अ॰ ६) इति।  
 एतेषां प्रदर्शनार्थत्वाद्रमत्यादिकमपि द्रष्टव्यम्। 
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रन्ति॑र् असि ।
+र᳓न्तिर् असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -280,7 +278,7 @@ Thou art delight,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रम॑तिर् असि ।
+र᳓मतिर् असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -305,7 +303,7 @@ thou art delighting,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सू॒-नर्य् अ॑सि ।  
+सू-न᳓र्य् असि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -337,7 +335,7 @@ thou art fair.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जुष्टे॒ जुष्टि॑न् ते ऽशीय।
+जु᳓ष्टे जु᳓ष्टिन् ते ऽशीय।
 </details>
 
 <details><summary>Keith</summary>
@@ -367,7 +365,7 @@ O thou in whom joy is taken, may I attain joy from thee
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उप॑हूत+++(य्)+++ उपह॒वं ते॑ऽशीय ।
+उ᳓पहूत+++(य्)+++ उपहवं᳓ तेऽशीय ।
 </details>
 
 <details><summary>Keith</summary>
@@ -397,7 +395,7 @@ O thou who art invoked, may I obtain invocation [1] from thee.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा मे॑ स॒त्या ऽऽशीर् अ॒स्य य॒ज्ञस्य॑ भूयात् ।
+सा᳓ मे सत्या᳓ ऽऽशी᳓र् अस्य᳓ यज्ञ᳓स्य भूयात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -432,7 +430,7 @@ May the prayer of the sacrificer be fulfilled for me.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अरे॑डता॒+++(←रेडृ अनादरे)+++ मन॑सा॒ तच् छ॑केयम् ।
+अ᳓रेडता+++(←रेडृ अनादरे)+++ म᳓नसा त᳓च् छकेयम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -463,7 +461,7 @@ With untroubled mind may I have strength for this.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञो दिवँ॑ रोहतु  ।
+यज्ञो᳓ दि᳓वँ रोहतु  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -493,7 +491,7 @@ May the sacrifice mount the sky,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञो दिव॑ङ् गच्छतु ।
+यज्ञो᳓ दि᳓वङ् गच्छतु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -523,8 +521,8 @@ may the sacrifice reach the sky.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो दे॑व॒यान॒ᳶ पन्था॒स्,  
-तेन॑ य॒ज्ञो दे॒वाँ अप्य् ए॑तु ।
+यो᳓ देवया᳓नᳶ प᳓न्थास्,  
+ते᳓न यज्ञो᳓ देवाँ᳓ अ᳓प्य् एतु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -552,20 +550,17 @@ The path that leadeth to the gods, along it may the sacrifice go to the gods.
 तस्मिन्प्रदेशे गत्वा सभायामुपविष्टा देवा येन मार्गेण हविर्भोजनशालां गच्छन्ति तेनैव मार्गेणायं यज्ञो यज्ञसंबद्धहविर्देवानप्येतु प्राप्नोतु। 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-अ॒स्मास्व् इन्द्र॑ **इन्द्रि॒यन् द॑धात्व्**  
-अ॒स्मान् **राय॑** उ॒त +++(उत्तरा)+++ य॒ज्ञास् **स॑चन्ताम्** +++(←समवाये)+++ ।   
-अ॒स्मासु॑ **सन्त्व् आ॒शिष॒स्**,  
-सा नᳶ॑ प्रि॒या सु॒प्रतू॑र्तिर् म॒घोनी॒॥
+अस्मा᳓स्व् इ᳓न्द्र **इन्द्रिय᳓न् दधात्व्**  
+अस्मा᳓न् **रा᳓य** उत᳓ +++(उत्तरा)+++ यज्ञा᳓स् **सचन्ताम्** +++(←समवाये)+++ ।   
+अस्मा᳓सु **सन्त्व् आशि᳓षस्**,  
+सा᳓ नᳶ प्रिया᳓ सुप्र᳓तूर्तिर् मघो᳓नी॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -602,13 +597,12 @@ To us be she dear, victorious, bountiful.
 तेन यज्ञेन तुष्ट इन्द्रोऽस्मास्विन्द्रियं यज्ञान्तरानुष्ठानाय चक्षुरादिपाटवं दधातु स्थापयतु। तादृशानस्मान्‍रायो यज्ञसाधनानि धनानि यज्ञा उत करिष्यमाणा यज्ञा अपि सचन्तमाश्रयन्तम्। आशिषस्तद्यज्ञफलान्यस्मासु सन्तु। सा तादृशी त्वं नोऽस्मान्प्रति सुप्रतूर्तिः सुष्ठु प्रकर्षेण शत्रूणां हिंसिका मघोनी धनवती च भव।  
 </details>
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जुष्टि॑र् असि - जु॒षस्व॑ नः।  
-जुष्टा॑ नो ऽसि॒ - जुष्टि॑न् ते गमेयम् ।
+जु᳓ष्टिर् असि - जुष᳓स्व नः।  
+जु᳓ष्टा नो ऽसि - जु᳓ष्टिन् ते गमेयम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -644,8 +638,7 @@ _______
 5-6 अवान्तरेडां प्राश्यमानाम् अनुमन्त्रयते
 </details>
 
-<div class="js_include" includetitle="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
-
+<div class="js_include" includetitle="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
 <details open><summary><h5>मनो ज्योतिर् …{Loading}…</h5></summary>
 
 मनो॒ ज्योति॑र् **जुषता॒म्**, आज्यव्ँ॒  
@@ -653,11 +646,9 @@ _______
 **बृह॒स्पति॑स् तनुताम्** इ॒मन् नो॒,  
 विश्वे॑ दे॒वा इ॒ह **मा॑दयन्ताम्** ॥
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
 <details><summary>Keith</summary>
 
 Mind, light, rejoice in the oblation.  
@@ -697,12 +688,11 @@ May the All-gods rejoice herein.
 
 मनो ज्योतिर्मननीयोऽयमग्निस्तत्तदाहुतिष्वाज्यं सेवताम्। केनापि वैकल्येन विच्छिन्नमिमं यज्ञं वैकल्यपरिहारेण संदधातु। बृहस्पतिः स्वयमेव नोऽस्मदीयमिमं यज्ञ तनुताम्। विश्वे देवा इड यज्ञे मादयन्तां तृप्यन्तु। 
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रध्न॒+++(=पिङ्गल!)+++ पिन्व॑स्व।  
+ब्र᳓ध्न+++(=पिङ्गल!)+++ पि᳓न्वस्व।  
 </details>
 
 <details><summary>Keith</summary>
@@ -736,8 +726,8 @@ Swell, O ruddy one.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दद॑तो मे॒ मा क्षा॑यि।  
-कु॒र्व॒तो मे॒ मोप॑दसत्।
+द᳓दतो मे मा᳓ क्षायि।  
+कुर्वतो᳓ मे मो᳓पदसत्।
 </details>
 
 <details><summary>Keith</summary>
@@ -785,7 +775,7 @@ Thou art the portion of Prajapati,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तेर् भा॒गो॑ ऽसि ।
+प्रजा᳓पतेर् भागो᳙ ऽसि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -812,7 +802,7 @@ Thou art the portion of Prajapati,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊर्ज॑स्वा॒न् पय॑स्वान् प्राणापा॒नौ मे॑ पाहि ।
+ऊ᳓र्जस्वान् प᳓यस्वान् प्राणापानौ᳓ मे पाहि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -848,7 +838,7 @@ Protect my expiration and inspiration;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मा॒न॒व्या॒नौ मे॑ पाहि ।
+समानव्यानौ᳓ मे पाहि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -873,7 +863,7 @@ protect my breathing together and cross-breathing;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒दा॒न॒व्या॒नौ मे॑ पा॒हि ।
+उदानव्यानौ᳓ मे पाहि᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -901,8 +891,7 @@ protect my out-breathing and cross-breathing.
 भुक्तस्यान्नरसस्य शरीरे साम्येन नयनं समानव्यापारः। उद्गारादिरुदानव्यापारः। कृत्स्नासु शरीरनाडीषु व्याप्य प्राणापानवृत्योः संधिकाले शरीरस्य बलप्रदानं व्यानव्यापारः। अत एव च्छन्दोगा आमनन्ति – ‘यद्वै प्राणिति स प्राणो यदपानिति सोऽपानः। अथ यः प्राणापानयोः संधिः स व्यानो यो व्यानः सा वाक्तस्मादप्राणन्ननपानन्वाचमभिव्याहरति। अतो यान्यन्यानि वीर्यवन्ति कर्माणि यथाऽग्नेर्मन्थनमाजेः सरणं दृढस्य धनुष आयमनमप्राणन्ननपानँ-स्तानि करोति’ इति। एवं बहुविधव्यापारहेतुत्वात्प्राधान्यं द्योतयितुं व्यानस्य द्विरुक्तिः। यद्वा नागकूर्मादिवायुविशेषाणामत्रान्तर्भामभिप्रेत्य पुनरप्युक्तिः। 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/axitosi.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/axitosi.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अक्षि॑तो॒ऽस्यक्षि॑त्यै त्वा॒ मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
@@ -910,7 +899,7 @@ protect my out-breathing and cross-breathing.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अक्षि॑तोऽसि ।
+अ᳓क्षितोऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -935,7 +924,7 @@ Thou art imperishable,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अक्षि॑त्यै त्वा +++(ददामि)+++।
+अ᳓क्षित्यै त्वा +++(ददामि)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -960,7 +949,7 @@ for imperishableness thee;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मिल्ँ॑ लो॒के  ॥  [10]
+मा᳓ मे क्षेष्ठा अमु᳓त्रामु᳓ष्मिल्ँ लोके᳓  ॥  [10]
 </details>
 
 <details><summary>Keith</summary>
@@ -991,5 +980,4 @@ mayst thou not perish for me, yonder, in yonder world.
 
 तस्मात्परलोकेऽप्यक्षित्यै त्वां ददामीति शेषः। तेनाभिप्रायेण दीयमानत्वादमुत्र परलोके मम भोगाय मा क्षेष्ठाः क्षयं मा प्राप्नुहि। तस्मादहमप्यमुष्मिल्ँ लोके त्वां यथेच्छमनुभवामीति शेषः।  
 </details>
-
 </div>

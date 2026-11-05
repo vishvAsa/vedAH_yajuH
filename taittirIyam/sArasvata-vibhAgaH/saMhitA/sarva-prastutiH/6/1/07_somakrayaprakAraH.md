@@ -1,6 +1,5 @@
 +++
 title = "०७ सोमक्रयप्रकारः"
-
 +++
 सोमऋषिः
 
@@ -11,7 +10,7 @@ title = "०७ सोमक्रयप्रकारः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्धिर॑ण्यम् अभवत् ।
+त᳓द्धि᳓रण्यम् अभवत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -26,7 +25,7 @@ That became gold.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् अ॒द्भ्यो हिर॑ण्यम् पुनन्ति ।
+त᳓स्माद् अद्भ्यो᳓ हि᳓रण्यम् पुनन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -58,8 +57,8 @@ Therefore they purify gold forth from the waters.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वा॒दिनो॑ वदन्ति॒ -  
-"कस्मा॑त् स॒त्याद् अ॑न॒स्थिके॑न प्र॒जाᳶ प्र॒वीय॑न्ते ऽस्थ॒न्वती॑र् जायन्त॒" इति॑ ।
+ब्रह्मवादि᳓नो वदन्ति -  
+"क᳓स्मात् सत्या᳓द् अनस्थि᳓केन प्रजाᳶ᳓ प्रवी᳓यन्ते ऽस्थन्व᳓तीर् जायन्त" इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -92,8 +91,8 @@ The theologians say, 'How is it that offspring are produced through that which i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्धिर॑ण्यङ् घृ॒ते॑ऽव॒धाय॑ जु॒होति॒ ,
-तस्मा॑द् अन॒स्थिके॑न प्र॒जाᳶ प्र वी॑यन्तेऽस्थ॒न्वती॑र्जायन्त।
+य᳓द्धि᳓रण्यङ् घृते᳙ऽवधा᳓य जुहो᳓ति ,
+त᳓स्माद् अनस्थि᳓केन प्रजाᳶ᳓ प्र᳓ वीयन्तेऽस्थन्व᳓तीर्जायन्त।
 </details>
 
 <details><summary>Keith</summary>
@@ -127,8 +126,8 @@ Because he offers the gold, placing it in the ghee, therefore are offspring prod
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद्वा अ॒ग्नेᳶ प्रि॒यन्धाम॒ यद्घृ॒तन् तेजो॒ हिर॑ण्यम् ।
-"इ॒यन्ते॑ शुक्र त॒नूर् , इ॒दव्ँ वर्च॒" इत्या॑ह ।  
+एत᳓द्वा᳓ अग्नेᳶ᳓ प्रिय᳓न्धा᳓म य᳓द्घृत᳓न् ते᳓जो हि᳓रण्यम् ।
+"इय᳓न्ते शुक्र तनू᳓र् , इदव्ँ᳓ व᳓र्च" इ᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -144,7 +143,7 @@ The ghee is Agni's loved abode, the gold, is radiance. 'This is thy body, O pure
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सते॑जसम् ए॒वैनँ॒ सत॑नुङ्करोति । [46]
+स᳓तेजसम् एवै᳓नँ स᳓तनुङ्करोति । [46]
 </details>
 
 <details><summary>Keith</summary>
@@ -159,7 +158,7 @@ verily he unites Agni with his radiance and his body [1];
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ सम्भ॑रत्ये॒वैन॑म् ।
+अ᳓थो स᳓म्भरत्येवै᳓नम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -194,7 +193,7 @@ verily also he makes him ready.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदब॑द्धमवद॒ध्याद् गर्भा॑ᳶ प्र॒जाना॑म् परा॒पातु॑कास् स्युः ।  
+य᳓द᳓बद्धमवदध्या᳓द् ग᳓र्भाᳶ प्रजा᳓नाम् परापा᳓तुकास् स्युः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -209,7 +208,7 @@ If he were to deposit (the gold) without fastening it on, then the foetuses of o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒द्धमव॑ दधाति॒ , गर्भा॑णा॒न् धृत्यै॑ ।
+बद्ध᳓म᳓व दधाति , ग᳓र्भाणान् धृ᳓त्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -240,7 +239,7 @@ He deposits it fastening it on, to secure the foetuses.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नि॒ष्ट॒र्क्य॑म् बध्नाति , प्र॒जाना॑म् प्र॒जन॑नाय ।
+निष्टर्क्य᳙म् बध्नाति , प्रजा᳓नाम् प्रज᳓ननाय ।
 </details>
 
 <details><summary>Keith</summary>
@@ -254,7 +253,6 @@ He fastens it so that it cannot be untied, for the production of offspring.
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 नि॒ष्ट॒र्क्य॑म् । ब॒ध्ना॒ति॒ ।  
 प्र॒जाना॒मिति॑ प्र-जाना॑म् । प्र॒जन॑ना॒येति॑ प्र-जन॑नाय । 
@@ -272,7 +270,7 @@ He fastens it so that it cannot be untied, for the production of offspring.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाग्वा ए॒षा यत्सो॑म॒क्रय॑णी ।
+वा᳓ग्वा᳓ एषा᳓ य᳓त्सोमक्र᳓यणी ।
 </details>
 
 <details><summary>Keith</summary>
@@ -287,7 +285,7 @@ The cow with which the Soma is bought is speech.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"जूर॑सी"त्या॑ह ।
+"जू᳓रसी᳓"त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -302,7 +300,7 @@ The cow with which the Soma is bought is speech.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्धि मन॑सा॒ जव॑ते॒ , तद् वा॒चा वद॑ति ।
+य᳓द्धि᳓ म᳓नसा ज᳓वते , त᳓द् वाचा᳓ व᳓दति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -317,7 +315,7 @@ for what he strengthens in his mind, that he expresses in speech.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धृ॒ता मन॒सेत्या॑ह॒ मन॑सा॒ हि वाग्धृ॒ता जुष्टा॑ ।
+धृता᳓ म᳓नसे᳓त्याह म᳓नसा हि᳓ वा᳓ग्धृता᳓ जु᳓ष्टा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -352,7 +350,7 @@ for what he strengthens in his mind, that he expresses in speech.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्ण॑व॒ इत्या॑ह ।[47]  
+वि᳓ष्णव इ᳓त्याह ।[47]  
 </details>
 
 <details><summary>Keith</summary>
@@ -367,7 +365,7 @@ for what he strengthens in his mind, that he expresses in speech.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञो वै विष्णुः॑ ।  
+यज्ञो᳓ वै᳓ वि᳓ष्णुः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -382,7 +380,7 @@ Visnu is the sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञायै॒वैना॒ञ् जुष्टा॑ङ्करोति ।   
+यज्ञा᳓यैवै᳓नाञ् जु᳓ष्टाङ्करोति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -397,7 +395,7 @@ verily be makes her accept able to the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्या॑स् ते स॒त्यस॑वसᳶ प्रस॒व इत्या॑ह ।
+त᳓स्यास् ते सत्य᳓सवसᳶ प्रसव᳓ इ᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -412,7 +410,7 @@ verily be makes her accept able to the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒वि॒तृ॒प्र॑सूताम् ए॒व वाच॒मव॑ रुन्धे ।
+सवितृप्र᳙सूताम् एव᳓ वा᳓चम᳓व रुन्धे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -446,7 +444,7 @@ verily he wins speech which is impelled by Savitr.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-काण्डे॑काण्डे॒ वै क्रि॒यमा॑णे य॒ज्ञँ रक्षाँ॑सि जिघाँसन्ति ।
+का᳓ण्डेकाण्डे वै᳓ क्रिय᳓माणे यज्ञँ᳓ र᳓क्षाँसि जिघाँसन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -461,7 +459,7 @@ As each part is performed, the Raksases are fain to injure the sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष खलु॒ वा अर॑क्षोहत॒ᳶ पन्था॒ यो॑ऽग्नेश्च॒ सूर्य॑स्य च ।  
+एष᳓ ख᳓लु वा᳓ अ᳓रक्षोहतᳶ प᳓न्था यो᳙ऽग्नेश्च सू᳓र्यस्य च ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -476,7 +474,7 @@ the path of Agni and Surya is one which the Raksases cannot injure.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"सूर्य॑स्य॒ चक्षु॒रारु॑हम् अ॒ग्नेर॒क्ष्णᳵ क॒नीनि॑का॒मि"त्या॑ह ।
+"सू᳓र्यस्य च᳓क्षुरा᳓रुहम् अग्ने᳓रक्ष्णᳵ᳓ कनी᳓निकामि᳓"त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -491,7 +489,7 @@ the path of Agni and Surya is one which the Raksases cannot injure.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वार॑क्षोहत॒ᳶ पन्था॒स्तँ स॒मारो॑हति [48]।  
+य᳓ एवा᳓रक्षोहतᳶ प᳓न्थास्तँ᳓ समा᳓रोहति [48]।  
 </details>
 
 <details><summary>Keith</summary>
@@ -527,7 +525,7 @@ He mounts the path which is not injured by the Raksases [3].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाग्वा ए॒षा यत्सो॑म॒क्रय॑णी ।
+वा᳓ग्वा᳓ एषा᳓ य᳓त्सोमक्र᳓यणी ।
 </details>
 
 <details><summary>Keith</summary>
@@ -542,7 +540,7 @@ The cow with which the Soma is bought is speech.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"चिद॑सि म॒नाऽसी"त्या॑ह ।  
+"चि᳓दसि मना᳓ऽसी᳓"त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -557,7 +555,7 @@ The cow with which the Soma is bought is speech.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शास्त्य् ए॒वैना॑मे॒तत् ।
+शा᳓स्त्य् एवै᳓नामेत᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -572,7 +570,7 @@ verily he instructs her.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑च् छि॒ष्टाᳶ प्र॒जा जा॑यन्ते ।
+त᳓स्माच् छिष्टाᳶ᳓ प्रजा᳓ जायन्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -606,8 +604,8 @@ Therefore children are born instructed.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"चिद॑सी"त्या॑ह ।
-यद्धि मन॑सा चे॒तय॑ते॒ , तद् वा॒चा वद॑ति ।
+"चि᳓दसी᳓"त्याह ।
+य᳓द्धि᳓ म᳓नसा चेत᳓यते , त᳓द् वाचा᳓ व᳓दति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -623,7 +621,7 @@ Therefore children are born instructed.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"म॒नाऽसी"त्या॑ह ।
+"मना᳓ऽसी᳓"त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -638,7 +636,7 @@ Therefore children are born instructed.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्धि मन॑साऽभि॒गच्छ॑ति॒ , तत् क॒रोति॑ ।  
+य᳓द्धि᳓ म᳓नसाऽभिग᳓च्छति , त᳓त् करो᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -653,7 +651,7 @@ for what one grasps by the mind one performs.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"धीर॑सी"त्या॑ह ।
+"धी᳓रसी᳓"त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -668,7 +666,7 @@ for what one grasps by the mind one performs.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्धि मन॑सा॒ ध्याय॑ति॒ तद् वा॒चा वद॑ति [49]।  
+य᳓द्धि᳓ म᳓नसा ध्या᳓यति त᳓द् वाचा᳓ व᳓दति [49]।  
 </details>
 
 <details><summary>Keith</summary>
@@ -683,7 +681,7 @@ for what one meditates with the mind one expresses in speech [4].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"दक्षि॑णाऽसी"त्या॑ह ।
+"द᳓क्षिणा᳓ऽसी᳓"त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -698,7 +696,7 @@ for what one meditates with the mind one expresses in speech [4].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दक्षि॑णा॒ ह्ये॑षा ।
+द᳓क्षिणा ह्ये᳙षा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -713,7 +711,7 @@ for (the cow) is the gift.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"य॒ज्ञिया॒सी"त्या॑ह ।
+"यज्ञि᳓यासी᳓"त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -728,7 +726,7 @@ for (the cow) is the gift.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञिया॑म् ए॒वैना॑ङ्करोति ।  
+यज्ञि᳓याम् एवै᳓नाङ्करोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -743,7 +741,7 @@ verily he makes her fit for the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"क्ष॒त्रिया॑ऽसी"त्या॑ह ।
+"क्षत्रि᳓याऽसी᳓"त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -758,8 +756,8 @@ verily he makes her fit for the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्ष॒त्रिया॒ ह्ये॑षाऽदि॑तिरस्य् उभ॒यतः॑ ।  
-शी॒र्ष्णीत्या॑ह ।
+क्षत्रि᳓या ह्ये᳙षा᳓ऽदितिरस्य् उभय᳓तः ।  
+शीर्ष्णी᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -775,7 +773,7 @@ for she is of kingly power. 'Thou art Aditi, double-headed', he says.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदे॒वादि॒त्यᳶ प्रा॑य॒णीयो॑ य॒ज्ञाना॑मादि॒त्य उ॑दय॒नीय॒स् तस्मा॑दे॒वमा॑ह ।
+य᳓देवा᳓दित्यᳶ᳓ प्रायणी᳓यो यज्ञा᳓नामादित्य᳓ उदयनी᳓यस् त᳓स्मादेव᳓माह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -827,7 +825,7 @@ In that to Aditi belong the opening and the concluding oblations of the sacrific
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदब॑द्धा॒ स्यादय॑ता स्यात् ।  
+य᳓द᳓बद्धा स्या᳓द᳓यता स्यात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -842,8 +840,8 @@ If (the cow) were not bound, she would be unrestrained;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् प॑दिब॒द्धा +++(स्यात्)+++, ऽनु॒स्तर॑णी स्यात् ।  
-प्र॒मायु॑को॒ यज॑मानस् स्यात् ।[50]  
+य᳓त् पदिबद्धा᳓ +++(स्यात्)+++, ऽनुस्त᳓रणी स्यात् ।  
+प्रमा᳓युको य᳓जमानस् स्यात् ।[50]  
 </details>
 
 <details><summary>Keith</summary>
@@ -859,8 +857,8 @@ if she were bound by the foot, she would be the funeral cow, and the sacrificer 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् क॑र्णगृही॒ता +++(स्यात्)+++, वार्त्र॑घ्नी स्यात् ।  
-स वा॒ऽन्यञ् जि॑नी॒यात् , तव्ँ वा॒ऽन्यो जि॑नीयात् ।  
+य᳓त् कर्णगृहीता᳓ +++(स्यात्)+++, वा᳓र्त्रघ्नी स्यात् ।  
+स᳓ वाऽन्य᳓ञ् जिनीया᳓त् , तव्ँ᳓ वाऽन्यो᳓ जिनीयात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -876,7 +874,7 @@ If she were held by the ears, she would belong to Vrtrahan, and the sacrificer w
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"मि॒त्रस्त्वा॑ प॒दि ब॑ध्ना॒त्वि"त्या॑ह ।
+"मित्र᳓स्त्वा पदि᳓ बध्नात्वि᳓"त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -891,7 +889,7 @@ If she were held by the ears, she would belong to Vrtrahan, and the sacrificer w
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रो वै शि॒वो दे॒वाना॒न् , तेनै॒वैना॑म् प॒दि ब॑ध्नाति ।  
+मित्रो᳓ वै᳓ शिवो᳓ देवा᳓नान् , ते᳓नैवै᳓नाम् पदि᳓ बध्नाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -906,7 +904,7 @@ Mitra is the auspicious one of the gods; verily with his help he binds her by th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"पू॒षाध्व॑नᳶ पा॒त्वि"त्या॑ह ।
+"पूषा᳓ध्वनᳶ पात्वि᳓"त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -921,7 +919,7 @@ Mitra is the auspicious one of the gods; verily with his help he binds her by th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ वै पू॒षा ।
+इयव्ँ᳓ वै᳓ पूषा᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -936,7 +934,7 @@ Pusan is this (earth);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒मामे॒वास्या॑ अधि॒पाम॑क॒स् , सम॑ष्ट्यै ।  
+इमा᳓मेवा᳓स्या अधिपा᳓मकस् , स᳓मष्ट्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -951,7 +949,7 @@ verily he makes her lady of this (earth), for the gaining thereof.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"इन्द्रा॒याध्य॑क्षा॒ये"त्या॑ह  ।
+"इ᳓न्द्राया᳓ध्यक्षाये᳓"त्याह  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -966,7 +964,7 @@ verily he makes her lady of this (earth), for the gaining thereof.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑मे॒वास्या॒ अध्य॑क्षङ् करोति ।[51]  
+इ᳓न्द्रमेवा᳓स्या अ᳓ध्यक्षङ् करोति ।[51]  
 </details>
 
 <details><summary>Keith</summary>
@@ -981,7 +979,7 @@ verily he makes Indra her guardian [6].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अनु॑ त्वा मा॒ता म॑न्यता॒म् अनु॑ पि॒ते"त्या॑ह ।
+"अ᳓नु त्वा माता᳓ मन्यताम् अ᳓नु पिते᳓"त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -996,7 +994,7 @@ verily he makes Indra her guardian [6].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनु॑मतयै॒वैन॑या क्रीणाति ।  
+अ᳓नुमतयैवै᳓नया क्रीणाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1011,7 +1009,7 @@ verily he buys with her approved.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"सा दे॑वि दे॒वमच्छे॒ही"त्या॑ह ।
+"सा᳓ देवि देव᳓म᳓च्छेही᳓"त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1026,7 +1024,7 @@ verily he buys with her approved.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वी ह्ये॑षा दे॒वस् सोमः॑ ।  
+देवी᳓ ह्येषा देव᳓स् सो᳓मः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1041,7 +1039,7 @@ for she is a goddess, and Soma is a god.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"इन्द्रा॑य॒ सोम॒मि"त्या॑ह ।
+"इ᳓न्द्राय सो᳓ममि᳓"त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1056,7 +1054,7 @@ for she is a goddess, and Soma is a god.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य॒ हि सोम॑ आह्रि॒यते॑  ।
+इ᳓न्द्राय हि᳓ सो᳓म आह्रिय᳓ते  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1094,7 +1092,6 @@ for the Soma is borne to Indra.
 
 <details><summary>पद-पाठः</summary>
 
-
 मि॒त्रः । त्वा॒ । प॒दि । ब॒ध्ना॒तु॒ । इति॑ । आ॒ह॒ ।   
 मि॒त्रः । वै । शि॒वः । दे॒वाना॑म् ।   
 तेन॑ । ए॒व । ए॒ना॒म् । प॒दि । ब॒ध्ना॒ति॒ ।   
@@ -1129,7 +1126,7 @@ for the Soma is borne to Indra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदे॒तद् यजु॒र्न ब्रू॒यात् , परा॑च्ये॒व सो॑म॒क्रय॑णीयाद् ।
+य᳓देत᳓द् य᳓जुर्न᳓ ब्रूया᳓त् , प᳓राच्येव᳓ सोमक्र᳓यणीयाद् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1144,7 +1141,7 @@ If he were not to say that text, the cow with which the Soma is bought would go 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"रु॒द्रस्त्वाऽऽव॑र्तय॒त्वि"त्या॑ह ।  
+"रुद्र᳓स्त्वा᳓ऽऽवर्तयत्वि᳓"त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1159,7 +1156,7 @@ If he were not to say that text, the cow with which the Soma is bought would go 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रु॒द्रो वै क्रू॒रो दे॒वाना॑म् ।[52]
+रुद्रो᳓ वै᳓ क्रूरो᳓ देवा᳓नाम् ।[52]
 </details>
 
 <details><summary>Keith</summary>
@@ -1174,7 +1171,7 @@ Rudra is the harsh [7] one of the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमे॒वास्यै॑ प॒रस्ता॑द् दधा॒त्यावृ॑त्त्यै ।  
+त᳓मेवा᳓स्यै पर᳓स्ताद् दधात्या᳓वृत्त्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1189,7 +1186,7 @@ verily he places him below her, for guiding hither.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्रू॒रमि॑व॒ वा ए॒तत्क॑रोति॒ , यद् रु॒द्रस्य॑ की॒र्तय॑ति ।  
+क्रूर᳓मिव वा᳓ एत᳓त्करोति , य᳓द् रुद्र᳓स्य कीर्त᳓यति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1204,7 +1201,7 @@ He does as it were a harsh thing when he recites that (text) of Rudra's.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"मि॒त्रस्य॑ प॒थे"त्या॑ह । शान्त्यै॑ ।
+"मित्र᳓स्य पथे᳓"त्याह । शा᳓न्त्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1255,7 +1252,7 @@ He does as it were a harsh thing when he recites that (text) of Rudra's.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒चा वा ए॒ष वि क्री॑णीते॒ , यस् सो॑म॒क्रय॑ण्या ।  
+वाचा᳓ वा᳓ एष᳓ वि᳓ क्रीणीते , य᳓स् सोमक्र᳓यण्या ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1270,8 +1267,8 @@ He buys indeed by speech when he buys by the cow with which the Soma is bought.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"स्व॒स्ति सोम॑सखा॒ पुन॒रेहि॑ स॒ह र॒य्ये"त्या॑ह ।
-वा॒चैव वि॒क्रीय॒ पुन॑रा॒त्मन्वाच॑न्ध॒त्ते ।
+"स्वस्ति᳓ सो᳓मसखा पु᳓नरे᳓हि सह᳓ रय्ये᳓"त्याह ।
+वाचै᳓व᳓ विक्री᳓य पु᳓नरात्म᳓न्वा᳓चन्धत्ते᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1287,7 +1284,7 @@ Hail! Return with Soma as thy comrade, with wealth', he says, verily having purc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनु॑पदासुकाऽस्य॒ वाग्भ॑वति॒ , य ए॒वव्ँ वेद॑ ॥ [53]  
+अ᳓नुपदासुकाऽस्य वा᳓ग्भवति , य᳓ एवव्ँ᳓ वे᳓द ॥ [53]  
 </details>
 
 <details><summary>Keith</summary>
@@ -1314,4 +1311,3 @@ The speech of him who knows thus is not likely to fail.
 
 इति षष्ठे प्रथमे सप्तमोनुवाकः ॥  
 </details>
-

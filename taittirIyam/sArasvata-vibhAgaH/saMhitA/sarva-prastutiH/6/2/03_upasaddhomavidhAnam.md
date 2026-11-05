@@ -1,6 +1,5 @@
 +++
 title = "०३ उपसद्धोमविधानम्"
-
 +++
 
 सोमऋषिः
@@ -12,7 +11,7 @@ title = "०३ उपसद्धोमविधानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषा॒मसु॑राणान् ति॒स्रᳶ पुर॑ आसन्नय॒स्मय्य् अ॑व॒मा ऽथ॑ रज॒ता ऽथ॒ हरि॑णी ।  
+ते᳓षाम᳓सुराणान् तिस्रᳶ᳓ पु᳓र आसन्नयस्म᳓य्य् अवमा᳓ ऽथ रजता᳓ ऽथ ह᳓रिणी ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -27,7 +26,7 @@ The Asuras had three citadels; the lowest was of iron, then there was one of sil
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता दे॒वा जेतु॒न्नाश॑क्नुव॒न् , ता उ॑प॒सदै॒वाजि॑गीषन् ।  
+ता᳓ देवा᳓ जे᳓तुन्ना᳓शक्नुवन् , ता᳓ उपस᳓दैवा᳓जिगीषन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -42,7 +41,7 @@ The gods could not conquer them; they sought to conquer them by siege;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑दाहु॒र् यश् चै॒वव्ँ वेद॒ यश्च॒ न ।  
+त᳓स्मादाहुर् य᳓श् चैवव्ँ᳓ वे᳓द य᳓श्च न᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -57,7 +56,7 @@ therefore they say--both those who know thus and those who do not--'By siege the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒सदा॒ वै म॑हापु॒रञ् ज॑य॒न्तीति॑  ।
+उपस᳓दा वै᳓ महापुर᳓ञ् जयन्ती᳓ति  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -101,7 +100,7 @@ conquer great citadels.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त इषुँ॒ सम॑स्कुर्वता॒ग्निमनी॑कँ॒ सोमँ॑ श॒ल्यव्ँ विष्णु॒न् तेज॑नन् ।  
+त᳓ इ᳓षुँ स᳓मस्कुर्वताग्नि᳓म᳓नीकँ सो᳓मँ शल्यव्ँ᳓ वि᳓ष्णुन् ते᳓जनन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -116,7 +115,7 @@ They made ready an arrow, Agni as the point, Soma as the socket, Visnu as the sh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽब्रुव॒न् "क इ॒माम् अ॑सिष्य॒ती"ति॑ ।[15]  
+ते᳓ऽब्रुवन् "क᳓ इमा᳓म् असिष्यती᳓"ति ।[15]  
 </details>
 
 <details><summary>Keith</summary>
@@ -131,7 +130,7 @@ They said, 'Who shall shoot it?' [1]
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रु॒द्र इत्य॑ब्रुवन् रु॒द्रो वै क्रू॒रस् सो॑ ऽस्य॒त्विति॑ ।
+रुद्र᳓ इ᳓त्यब्रुवन् रुद्रो᳓ वै᳓ क्रूर᳓स् सो ऽस्यत्वि᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -168,7 +167,7 @@ They said, 'Who shall shoot it?' [1]
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ऽब्रवी॒द् ,  
+सो᳓ऽब्रवीद् ,  
 </details>
 
 <details><summary>Keith</summary>
@@ -183,7 +182,7 @@ He said,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"वरव्ँ॑ वृणा अ॒हमे॒व प॑शू॒नामधि॑पतिरसा॒नी"ति॑ 
+"व᳓रव्ँ वृणा अह᳓मेव᳓ पशूना᳓म᳓धिपतिरसानी᳓"ति 
 </details>
 
 <details><summary>Keith</summary>
@@ -198,7 +197,7 @@ He said,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् रु॒द्रᳶ प॑शू॒नामधि॑पतिः ।  
+त᳓स्माद् रुद्रᳶ᳓ पशूना᳓म᳓धिपतिः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -219,7 +218,6 @@ Therefore is Rudra overlord of animals.
 तस्मा॑त् । रु॒द्रः । प॒शू॒नाम् । अधि॑पति॒रित्यधि॑-प॒तिः॒ । 
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अथ स देव आगत्याब्रवीत् वरं वृणै वरं वरयितुं प्राप्तोयं कालः । आह - अहमेव पशूनामधिपतिरसानीति द्विपदां चतुष्पदां चाधिपतिः स्वामी असानि भवानीति । देवैश्च दत्तो वरः, तस्माद्रुद्रः पशूनामधिपतिः । 'नामन्यतरस्याम्' इति नाम उदात्तत्वम् । किंनु भोस्ततः पूर्वं देवः पशूनामधिपतिर्न भवति? भवत्येव । इदं पृच्छामः - 'साब्रवीद्वरं वृणै मत्प्रायणा एव वो यज्ञाः' इत्यादिवरलाभात्पूर्वं किं प्रायणीयोदयनीयौ अदितिदेवत्यौ न भवतः? । अत्राह - भवत इति, सर्वदा तावादित्यावेव । एवं अस्मिन् देवेऽपि । सर्वदा पशूनां देवोधिपतिरेव, विद्यमानार्थस्यैव द्रढिमानमापादयति श्रुतिरिति सर्वत्र वेदितव्यम् । अनेनैवाभिप्रायेण ततः प्रभृतीति न क्वचिदुच्यते । एवं सर्वदा विद्यमानमेव अवसरे देवो देवान् प्रबोधयति । ततश्चाग्न्यादीनामपि रुद्रस्वभूतख्यापनात् 'या ते अग्ने रुद्रिया तनूः' इतिमन्त्रादौ क्रियमाणः प्रयोगश्च भवति । अन्य आह - ग्राम्यारण्यानां पशूनामाधिपत्यं देवेन विद्यमानमेव वृतं, तच्च देवैर्दत्तम् । तस्मात्ततः प्रभृति तेषां रुद्रोधिपीतरासीत् । ततस्स वरलाभेन तृप्तः कृतो देवकार्यमकरोदिति तेन पशुविशेषग्रहणे प्रमाणं वक्तव्यम् । तेनाधिपत्यप्रतिपादनस्य चाज्यहविषि क उपयोग इति क्रियमाणसंगताभावात् देवाश्च विश्वाधिपत्यं देवाय दातुं विद्यमानमेव दातुमीशते । ईर्ष्यामात्रमणुरेव (?) । इषुं मोक्तं न क्रमन्ते इति महच्छ्र द्धेयम् ॥
@@ -232,7 +230,7 @@ Therefore is Rudra overlord of animals.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताँ रु॒द्रोऽवा॑सृज॒त् , स ति॒स्रᳶ पुरो॑ भि॒त्त्वैभ्यो लो॒केभ्यो ऽसु॑रा॒न् प्राणु॑दत ।  
+ताँ᳓ रुद्रो᳓ऽवासृजत् , स᳓ तिस्रᳶ᳓ पु᳓रो भित्त्वै᳓भ्यो᳓ लोके᳓भ्यो᳓ ऽसुरान् प्रा᳓णुदत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -247,7 +245,7 @@ Rudra let it go; it cleft the three citadels and drove the Asuras away from thes
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदु॑प॒सद॑ उपस॒द्यन्ते॒ भ्रातृ॑व्यपराणुत्त्यै ।
+य᳓दुपस᳓द उपसद्य᳓न्ते भ्रा᳓तृव्यपराणुत्त्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -281,7 +279,7 @@ The observance of the Upasads is for the driving away of foes.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नान्यामाहु॑तिम् पु॒रस्ता॑ज् जुहुया॒द् ।  
+ना᳓न्या᳓मा᳓हुतिम् पुर᳓स्ताज् जुहुयाद् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -296,7 +294,7 @@ One should not offer another libation in front;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अ॒न्यामाहु॑तिम् पु॒रस्ता॑ज् जुहु॒यात् ।[16]  
+य᳓द् अन्या᳓मा᳓हुतिम् पुर᳓स्ताज् जुहुया᳓त् ।[16]  
 </details>
 
 <details><summary>Keith</summary>
@@ -311,7 +309,7 @@ if be were to offer another libation in front [2],
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्यन् मुख॑ङ् कुर्यात् ।
+अन्य᳓न् मु᳓खङ् कुर्यात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -343,7 +341,7 @@ he would make something else the beginning.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्रु॒वेण॑ + आ॑घा॒रम् - आ घा॑रयति , य॒ज्ञस्य॒ प्रज्ञा॑त्यै ।
+स्रुवे᳓ण + आघार᳓म् - आ᳓ घारयति , यज्ञ᳓स्य प्र᳓ज्ञात्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -361,7 +359,6 @@ He sprinkles clarified butter with the dipping-ladle to proclaim the sacrifice.
 स्रु॒वेण॑ । आ॒घा॒रमित्या॑-घा॒रम् । एति॑ । घा॒र॒य॒ति॒ । य॒ज्ञस्य॑ । प्रज्ञा॑त्या॒ इति॒ प्र-ज्ञा॒त्यै॒ ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6किंचेत्याह - स्रुवेणेति विधिः ॥ प्रज्ञात्यै प्रत्यभिज्ञानार्थं यज्ञत्वमासां यथा प्रत्यभिज्ञायेतेति तत्पूर्वकत्वप्रसिद्ध्यै यज्ञानाम् । 'तादो च' इति गतेः प्रकृतिस्वरत्वम् ॥
@@ -374,7 +371,7 @@ He sprinkles clarified butter with the dipping-ladle to proclaim the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परा॑ङति॒क्रम्य॑ जुहोति ।  
+प᳓राङतिक्र᳓म्य जुहोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -389,7 +386,7 @@ He makes the offering after crossing over without coming back;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परा॑च ए॒वैभ्यो लो॒केभ्यो॒ यज॑मानो॒ भ्रातृ॑व्या॒न् प्रणु॑दते ।
+प᳓राच एवै᳓भ्यो᳓ लोके᳓भ्यो य᳓जमानो भ्रा᳓तृव्यान् प्र᳓णुदते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -408,7 +405,6 @@ verily he drives away his foes from these worlds so that they come not back.
 परा॑चः । ए॒व । ए॒भ्यः । लो॒केभ्यः॑ । यज॑मानः । भ्रातृ॑व्यान् । प्रेति॑ । नु॒द॒ते॒ । 
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7पराङित्यादिविधिः ॥ पराङ् अपुनरावृत्त एव अतिक्रम्याग्निसोमविष्णून् जुहोति । 'अनिगन्तोञ्चतौ' इति गतेः प्रकृतिस्वरत्वम् । पराच इत्यादि । पराचः अपुनरावृत्तानेव भ्रातृव्यान् प्रणुदते । 'अञ्चतेश्छन्दसि' इति विभक्त्युदात्तत्वम्, 'चौ' इति पूर्वपदान्तोदात्तत्वं च परत्वाद्बाधित्वा 'अनिगन्तोञ्चतौ' इति गतेः प्रकृतिस्वरत्वं प्रवर्तते । 'ऊडिदम्' इतीदमो विभक्तिरुदात्ता ॥
@@ -421,7 +417,7 @@ verily he drives away his foes from these worlds so that they come not back.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुन॑र् अत्या॒क्रम्य + उ॑प॒सद॑ञ् जुहोति ।  
+पु᳓नर् अत्याक्र᳓म्य᳓ + उपस᳓दञ् जुहोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -436,7 +432,7 @@ Then returning he offers the Upasad libation;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒णुद्यै॒वैभ्यो लो॒केभ्यो॒ भ्रातृ॑व्याञ् जि॒त्वा , भ्रा॑तृव्यलो॒कम् अ॒भ्यारो॑हति ।  
+प्रणु᳓द्यैवै᳓भ्यो᳓ लोके᳓भ्यो भ्रा᳓तृव्याञ् जित्वा᳓ , भ्रातृव्यलोक᳓म् अभ्या᳓रोहति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -456,7 +452,6 @@ verily having driven away his foes from these worlds and having conquered he mou
 प्र॒णुद्येति॑ प्र-नुद्य॑ । ए॒व । ए॒भ्यः । लो॒केभ्यः॑ । भ्रातृ॑व्यान् । जि॒त्वा । भ्रा॒तृ॒व्य॒लो॒कमिति॑ भ्रातृव्य-लो॒कम् । अ॒भ्यारो॑ह॒तीत्य॑भि-आरो॑हति ।  
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8पुनरत्याक्रम्येति विधिः ॥ पुनरावृत्याद्यदेशं आगत्य 'या ते अग्रे' इत्याहुतिं स्रुवेण जुहोति । एभ्यो लोकेभ्यः भ्रातृव्यान् प्रणुद्य अपनीय भ्रातृव्यलोकं शत्रूणां स्थानं च जित्वा आत्मीयं कृत्वा तमभ्यारोहति अधितिष्ठति भ्रातृव्यलोकम् ॥
@@ -470,7 +465,7 @@ verily having driven away his foes from these worlds and having conquered he mou
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा वै याᳶ प्रा॒तरु॑प॒सद॑ उ॒पासी॑द॒न्नह्न॒स्ताभि॒रसु॑रा॒न् प्राणु॑दन्त ।  
+देवा᳓ वै᳓ याᳶ᳓ प्रात᳓रुपस᳓द उपा᳓सीदन्न᳓ह्नस्ता᳓भिर᳓सुरान् प्रा᳓णुदन्त ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -485,7 +480,7 @@ Now the gods by the Upasads which they performed in the morning drove away the A
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यास् सा॒यँ रात्रि॑यै॒ ताभि॒भिः॑ ।  
+या᳓स् सायँ᳓ रा᳓त्रियै ता᳓भिभिः᳙ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -500,7 +495,7 @@ by the Upasads (performed) in the evening (they drove away the Asuras) from the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्सा॒यम् प्रा॑तरुप॒सद॑ उपस॒द्यन्ते॑ , ऽहोरा॒त्राभ्या॑मे॒व तद् यज॑मानो॒ भ्रातृ॑व्या॒न् प्र णु॑दते ।[17]  
+य᳓त्साय᳓म् प्रातरुपस᳓द उपसद्य᳓न्ते , ऽहोरात्रा᳓भ्यामेव᳓ त᳓द् य᳓जमानो भ्रा᳓तृव्यान् प्र᳓ णुदते ।[17]  
 </details>
 
 <details><summary>Keith</summary>
@@ -515,7 +510,7 @@ In that both morning and evening Upasads [3] are performed, the sacrificer drive
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याᳶ प्रा॒तर्या॒ज्याः॑ स्युस् , तास् सा॒यम् पु॑रोनुवा॒क्याः॑ कुर्या॒द् , अया॑तयामत्वाय ।
+याᳶ᳓ प्रात᳓र्याज्याः᳙ स्युस् , तास् साय᳓म् पुरोनुवाक्याः᳙ कुर्याद् , अ᳓यातयामत्वाय ।
 </details>
 
 <details><summary>Keith</summary>
@@ -539,7 +534,6 @@ The Yajyas used in the morning should be made Puronuvakyas at night, for variety
 याः । प्रा॒तः । या॒ज्याः॑ । स्युः । ताः । सा॒यम् । पु॒रो॒नु॒वा॒क्या॑ इति॑ पुरः-अ॒नु॒वा॒क्याः॑ । कु॒र्या॒त् । अया॑तयामत्वा॒येत्यया॑तयाम-त्वा॒य॒ ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9देवा वै या इत्यादि ॥ प्रातस्तनीभिरुपसद्भिः आसुरान् प्राणुदन्त । यास्सायमुपसद उपासीदन्नित्येव । ताभिः रात्रियै रात्र्या असुरान् प्राणुदन्तेत्येव । यत्सायं प्रातरित्यादि । गतम् । तस्य सायंप्रातरुपसदनं कर्तव्यमिति विधिः । सायंप्रातश्शब्दः कार्तकौजपादिषु द्रष्टव्यः । याः प्रातरग्न्यादीनां याज्यास्स्युः तास्सायं पुरोनुवाक्याः तेषां कुर्यात् अयातयामत्वाय अगलितसारत्वाय ॥
@@ -553,7 +547,7 @@ The Yajyas used in the morning should be made Puronuvakyas at night, for variety
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ति॒स्र उ॑प॒सद॒ उपै॑ति॒ , त्रय॑ इ॒मे लो॒का , इ॒माने॒व लो॒कान् प्री॑णाति ।  
+तिस्र᳓ उपस᳓द उ᳓पैति , त्र᳓य इमे᳓ लोका᳓ , इमा᳓नेव᳓ लोका᳓न् प्रीणाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -568,7 +562,7 @@ He performs three Upasads, these worlds are three; verily he delights these worl
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-षट्त्सम्प॑द्यन्ते॒ , षड्वा ऋ॒तव॑ , ऋ॒तून् ए॒व प्री॑णाति ।  
+ष᳓ट्त्स᳓म्पद्यन्ते , ष᳓ड्वा᳓ ऋत᳓व , ऋतू᳓न् एव᳓ प्रीणाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -583,7 +577,7 @@ they together make six, the seasons are six; verily he delights the seasons.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वाद॑शा॒हीने॒ सोम॒ उपै॑ति॒ , द्वाद॑श॒ मासाः॑ सव्ँवत्स॒रस् , सव्ँ॑वत्स॒रम् ए॒व प्री॑णाति ।  
+द्वा᳓दशाही᳓ने सो᳓म उ᳓पैति , द्वा᳓दश मा᳓साः सव्ँवत्सर᳓स् , सव्ँवत्सर᳓म् एव᳓ प्रीणाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -598,7 +592,7 @@ He performs twelve at an Ahina Soma sacrifice, the year consists of twelve month
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चतु॑र्विँशति॒स् सम्प॑द्यन्तेे॒ , चतु॑र्विँशतिरर्धमा॒सा , अ॑र्धमा॒सान् ए॒व प्री॑णाति ।[18]
+च᳓तुर्विँशतिस् स᳓म्पद्यन्तेे , च᳓तुर्विँशतिरर्धमासा᳓ , अर्धमासा᳓न् एव᳓ प्रीणाति ।[18]
 </details>
 
 <details><summary>Keith</summary>
@@ -619,7 +613,6 @@ They make twenty-four [4], the half-months number twenty four; verily he delight
 चतु॑र्विँशति॒रिति॒ चतुः॑-विँ॒श॒तिः॒ । अ॒र्ध॒मा॒सा इत्य॑र्ध-मा॒साः । अ॒र्ध॒मा॒सानित्य॑र्ध-मा॒सान् । ए॒व । प्री॒णा॒ति॒ ।  
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10तिस्र उपसद उपैतीति विधिः ॥ तिस्रः स्थितीरुपसदः उपैति उपचारवतीर्नयति । त्रय इत्यादि । गतम् । षट् संपद्यन्त इति । तस्मात्सायन्तन्यः तिस्रः प्रातस्तन्यश्च तिस्र इति षडुपसदः उपसत्तव्यास्संपद्यन्ते । षड्वा इत्यादि । गतम् । द्वादशेत्यादि । अहीने अह्नां समुदायात्मनि सोमे द्विरात्रादौ द्वादशोपसद्भिस्तिसृभिरुपैति । द्वौ च दश च द्वादश, 'संख्या' इति पूर्वपदप्रकृतिस्वरत्वम् 'अह्नः खः क्रतौ' इति खस्समूहे । द्वादशेति । गतम् । चतुर्विंशतिरित्यादि । तस्मात्सायंप्रातरुपसर्त्तव्याः, चतुर्विंशतिरुपसदस्संपद्यन्ते । पूर्ववत्समासस्स्वरश्च । अर्धानि मासानां अर्धमासाः ॥
@@ -632,7 +625,7 @@ They make twenty-four [4], the half-months number twenty four; verily he delight
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आरा॑ग्रामवान्तरदी॒क्षाम् उपे॑या॒द् यᳵ का॒मये॑त ।  
+आ᳓राग्रामवान्तरदीक्षा᳓म् उ᳓पेयाद् यᳵ᳓ काम᳓येत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -647,7 +640,7 @@ He should perform an awl-shaped intermediate consecration who wishes,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒स्मिन् मे॑ लो॒के ऽर्धु॑कँ स्या॒दित्येक॒म् अग्रे ऽथे॒ द्वाव् अथ॒ त्रीन् अथ॑ च॒तुरः॑ ।  
+अस्मि᳓न् मे लोके᳓ ऽर्धुकँ स्यादि᳓त्ये᳓कम् अ᳓ग्रे᳓ ऽथे द्वा᳓व् अ᳓थ त्री᳓न् अ᳓थ चतु᳓रः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -662,7 +655,7 @@ He should perform an awl-shaped intermediate consecration who wishes,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒षा वा आरा॑ग्रा ऽवान्तरदी॒क्षा ऽस्मिन्न् ए॒वास्मै॑ लो॒के ऽर्धु॑कम् भवति ।
+एषा᳓ वा᳓ आ᳓राग्रा ऽवान्तरदीक्षा᳓ ऽस्मि᳓न्न् एवा᳓स्मै लोके᳓ ऽर्धुकम् भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -677,11 +670,9 @@ this indeed is the awl-shaped intermediate consecration; verily there is prosper
 
 <details><summary>पद-पाठः</summary>
 
-
 आरा॑ग्रा॒मित्यारा॑-अ॒ग्रा॒म् । अ॒वा॒न्त॒र॒दी॒क्षामित्य॑वान्तर-दी॒क्षाम् । उपेति॑ । इ॒या॒त् । यः । का॒मये॑त ।   
 अ॒स्मिन् । मे॒ । लो॒के । अर्धु॑कम् । स्या॒त् । इति॑ । एक॑म् । अग्रे॑ । अथ॑ । द्वौ । अथ॑ । त्रीन् । अथ॑ । च॒तुरः॑ । ए॒षा । वै । आरा॒ग्रेत्यारा॑-अ॒ग्रा॒ । अ॒वा॒न्त॒र॒दी॒क्षेत्य॑वान्तर-दी॒क्षा । अ॒स्मिन् । ए॒व । अ॒स्मै॒ । लो॒के । अर्धु॑कम् । भ॒व॒ति॒ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -695,7 +686,7 @@ this indeed is the awl-shaped intermediate consecration; verily there is prosper
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒रोव॑रीयसीम् अवान्तरदी॒क्षाम् उपे॑या॒द् ,  
+परो᳓वरीयसीम् अवान्तरदीक्षा᳓म् उ᳓पेयाद् ,  
 </details>
 
 <details><summary>Keith</summary>
@@ -710,7 +701,7 @@ He should perform an intermediate consecration broader at the top than below who
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यᳵ का॒मये॑त - अ॒मुष्मि॑न् मे लो॒के ऽर्धु॑कँ स्या॒दिति॑ ।  
+यᳵ᳓ काम᳓येत - अमु᳓ष्मिन् मे लोके᳓ ऽर्धुकँ स्यादि᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -725,7 +716,7 @@ He should perform an intermediate consecration broader at the top than below who
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-च॒तुरो ऽग्रे ऽथ॒ त्रीन् अथ॒ द्वाव् अथैक॑म्,  
+चतु᳓रो᳓ ऽग्रे᳓ ऽथ त्री᳓न् अ᳓थ द्वा᳓व् अ᳓थै᳓कम्,  
 </details>
 
 <details><summary>Keith</summary>
@@ -740,7 +731,7 @@ this indeed is the intermediate consecration broader at the top than below;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒षा वै प॒रोव॑रीयस्यवान्तरदी॒क्षामुष्मि॑न्न् ए॒वास्मै॑ लो॒के ऽर्धु॑कम् भवति ॥ [19]  
+एषा᳓ वै᳓ परो᳓वरीयस्यवान्तरदीक्षा᳓मु᳓ष्मिन्न् एवा᳓स्मै लोके᳓ ऽर्धुकम् भवति ॥ [19]  
 </details>
 
 <details><summary>Keith</summary>

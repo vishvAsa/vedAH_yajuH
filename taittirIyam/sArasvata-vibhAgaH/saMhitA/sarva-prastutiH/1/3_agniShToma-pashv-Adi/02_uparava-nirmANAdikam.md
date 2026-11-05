@@ -13,7 +13,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒क्षो॒-हणो॑ +++(अभिचार-हेतुक--निखात--)+++वल-ग॒--हनो॑ वैष्ण॒वान् ख॑नामि ।
+रक्षो-ह᳓णो +++(अभिचार-हेतुक--निखात--)+++वल-ग--ह᳓नो वैष्णवा᳓न् खनामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -55,8 +55,7 @@ _______
 इदम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒ यन्न॑स्समा॒नो यमस॑मानो निच॒खाने॒दमे॑न॒मध॑रङ्करोमि॒ यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ गाय॒त्रेण॒ छन्द॒सा 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam/idam_aham.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam/idam_aham.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इदम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒ यन्न॑स्समा॒नो यमस॑मानो निच॒खाने॒दमे॑न॒मध॑रङ्करोमि॒ यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ 
@@ -64,9 +63,9 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒दम् अ॒हन् तव्ँ **व॑ल॒गम् उद्व॑पामि॒**  
-यन् न॑स् समा॒नो  
-यम् अस॑मानो निच॒खान॑।
+इद᳓म् अह᳓न् तव्ँ᳓ **वलग᳓म् उ᳓द्वपामि**  
+य᳓न् नस् समानो᳓  
+य᳓म् अ᳓समानो निचखा᳓न।
 </details>
 
 <details><summary>Keith</summary>
@@ -93,9 +92,9 @@ Here do I cast out the spell which an equal or an unequal hath buried against us
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒दमे॑न॒म् **अध॑रङ् करोमि॒**  
-यो न॑स् समा॒नो  
-योऽस॑मानो ऽराती॒यति॑  
+इद᳓मेनम् **अ᳓धरङ् करोमि**  
+यो᳓ नस् समानो᳓  
+यो᳓ऽसमानो ऽरातीय᳓ति  
 …
 </details>
 
@@ -127,12 +126,11 @@ Here do I overthrow him who equal or unequal is ill-disposed to us.
 अत्र विश्वासप्रस्तुतौ मूले पि वाक्यविभागे दोषः भाति। निचखानेदम् इदं पूर्ववाक्यम् समाप्तमासीत् । इदम् इति पदम् अग्रिमवाक्यान्वयि । 
 किञ्च – एनमहमधरं अधोगतिं करोमि । इदमिति पूर्ववत्क्रियाविशेषणम् । इति टीका । अतः व्यत्यासः कृतः
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गाय॒त्रेण॒ छन्द॑सा ।
+गा᳓यत्रे᳓ण छ᳓न्दसा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -160,7 +158,7 @@ The spell is overcome by the Gayatri metre.
 _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव॑-बाढो+++(=बद्धो)+++ वल॒गः ।
+अ᳓व-बाढो+++(=बद्धो)+++ वलगः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -186,7 +184,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(अध्वर्यो!)+++ किम् अत्र॑?
++++(अध्वर्यो!)+++ कि᳓म् अ᳓त्र?
 </details>
 
 <details><summary>Keith</summary>
@@ -213,7 +211,7 @@ What is here?
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(भो यजमान!)+++ भ॒द्रम्।
++++(भो यजमान!)+++ भद्र᳓म्।
 </details>
 
 <details><summary>Keith</summary>
@@ -239,7 +237,7 @@ Good.
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(अध्वर्यो!)+++ तन् नौ॑ स॒ह ।
++++(अध्वर्यो!)+++ त᳓न् नौ सह᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -275,7 +273,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒राड् अ॑सि सपत्न॒हा ।  
+विरा᳓ड् असि सपत्नहा᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -301,7 +299,7 @@ Thou art Viraj, slaying our rivals;
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒म्राड् अ॑सि भ्रातृव्य॒हा ।  
+सम्रा᳓ड् असि भ्रातृव्यहा᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -327,7 +325,7 @@ thou art Samraj, slaying our foes;
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व॒राड् अ॑स्य् अभिमाति॒हा।  
+स्वरा᳓ड् अस्य् अभिमातिहा᳓।  
 </details>
 
 <details><summary>Keith</summary>
@@ -353,7 +351,7 @@ thou art Svaraj, slaying the enemy;
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒श्वा॒राड् अ॑सि॒ विश्वा॑सान् ना॒ष्ट्राणाँ॑ ह॒न्ता ।
+विश्वारा᳓ड् असि वि᳓श्वासान् नाष्ट्रा᳓णाँ हन्ता᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -385,7 +383,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒क्षो॒-हणो॑ वलग॒-हन॒ᳶ प्रोक्षा॑मि वैष्ण॒वान्।
+रक्षो-ह᳓णो वलग-ह᳓नᳶ प्रो᳓क्षामि वैष्णवा᳓न्।
 </details>
 
 <details><summary>Keith</summary>
@@ -411,7 +409,7 @@ I sprinkle those which slay the Raksas, which slay the spell, and which are of V
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒क्षो॒हणो॑ वलग॒-हनोऽव॑ नयामि वैष्ण॒वान्।
+रक्षोह᳓णो वलग-ह᳓नो᳓ऽव नयामि वैष्णवा᳓न्।
 </details>
 
 <details><summary>Keith</summary>
@@ -445,13 +443,12 @@ _______
 यवो॑ऽसि य॒वया॒स्मद्द्वेषो॑ य॒वयारा॑तीः 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यवो॑ऽसि।  
-य॒वय॑+++(=अपनय)+++ +अ॒स्मद्-द्वेषः॑ ।    
-य॒वय॒ +अरा॑तीः ।
+य᳓वोऽसि।  
+यव᳓य+++(=अपनय)+++ +अस्म᳓द्-द्वे᳓षः ।    
+यव᳓य +अ᳓रातीः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -497,6 +494,10 @@ bar evil spirits.
 13तेषु यवान्प्रस्कन्दयति - यवोसीति ॥ व्याख्यातम् । 'प्राणेष्वेवोर्जं दधाति' `इति ब्राह्मणम् ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे धान्य त्वं यवो ऽसि अमिश्री-कर्ता ऽसि। अतो द्वेषिणो राक्षसान् इतरान् अपि शत्रून् अस्मत्तो वियोजय।
+</details>
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -517,7 +518,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒क्षो॒हणो॑ वलग॒हनोऽव॑ स्तृणामि वैष्ण॒वान् ।
+रक्षोह᳓णो वलगह᳓नो᳓ऽव स्तृणामि वैष्णवा᳓न् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -548,7 +549,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒क्षो॒-हणो॑ वलग॒हनो॒ऽभि जु॑होमि वैष्ण॒वान् ।
+रक्षो-ह᳓णो वलगह᳓नोऽभि᳓ जुहोमि वैष्णवा᳓न् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -579,7 +580,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒क्षो॒हणौ॑ वलग॒हना॒व् उप॑ दधामि वैष्ण॒वी ।
+रक्षोह᳓णौ वलगह᳓नाव् उ᳓प दधामि वैष्णवी᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -610,7 +611,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒क्षो॒हणौ॑ वलग॒हनौ॒ पर्यू॑हामि वैष्ण॒वी  ।
+रक्षोह᳓णौ वलगह᳓नौ प᳓र्यूहामि वैष्णवी᳓  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -641,7 +642,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒क्षो॒हणौ॑ वलग॒हनौ॒ परि॑ स्तृणामि वैष्ण॒वी ।
+रक्षोह᳓णौ वलगह᳓नौ प᳓रि स्तृणामि वैष्णवी᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -672,7 +673,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒क्षो॒हणौ॑ वलग॒हनौ॑ वैष्ण॒वी ।
+रक्षोह᳓णौ वलगह᳓नौ वैष्णवी᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -703,8 +704,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृ॒हन्न् अ॑सि बृ॒हद्-ग्रा॑वा ।  
-बृह॒तीम् इन्द्रा॑य॒ वाचव्ँ॑ वद ॥ [4]
+बृह᳓न्न् असि बृह᳓द्-ग्रावा ।  
+बृ᳓हती᳓म् इ᳓न्द्राय वा᳓चव्ँ वद ॥ [4]
 </details>
 
 <details><summary>Keith</summary>

@@ -1,11 +1,11 @@
 ---
 title: ०९ अतिग्राह्याः पञ्चैन्द्राः
 unicode_script: devanagari
----
 
+---
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"नृ॒षद॒न् त्वे"त्य् आ॑ह।  
+"नृष᳓दन् त्वे᳓"त्य् आह।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -18,7 +18,6 @@ unicode_script: devanagari
 1 नृषदं त्वेत्यादि ॥ 'उपयामगृहीतोसि नृषदं त्वा' इति पञ्चैन्द्रानतिग्राह्यान्गृह्णाति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 प्र॒जा वै नॄन् ।
@@ -27,7 +26,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जा वै नॄन् , प्र॒जाना॑म् ए॒वैतेन॑ सूयते ।  
+प्रजा᳓ वै᳓ नॄ᳓न् , प्रजा᳓नाम् एवै᳓ते᳓न सूयते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -42,14 +41,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"द्रु॒षद॒मि"त्य् आ॑ह।
+"द्रुष᳓दमि᳓"त्य् आह।
 </details>
 
 <details><summary>मूलम्</summary>
 
 "द्रु॒षद॒मि"त्य् आ॑ह।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -59,7 +57,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वन॒स्पत॑यो॒ वै द्रु, वन॒स्पती॑नाम् ए॒वैतेन॑ सूयते ।  
+व᳓नस्प᳓तयो वै᳓ द्रु᳓, व᳓नस्प᳓तीनाम् एवै᳓ते᳓न सूयते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -74,7 +72,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"भु॒व॒न॒सद॒मि"त्य् आ॑ह ।
+"भुवनस᳓दमि᳓"त्य् आह ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -87,7 +85,6 @@ unicode_script: devanagari
 भुवनसदमित्यादि । 'भुवनसदं त्वा गृह्णामि'18इति ग्रहणेन भुवनं स्वामित्वेन गच्छति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 य॒दा वै वसी॑या॒न्भव॑ति ।
@@ -96,8 +93,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒दा वै वसी॑या॒न् भव॑ति॒  "भुव॑नम् अग॒न्नि"ति॒ वै तम् आ॑हुः ।  
-भुव॑नम् ए॒वैतेन॑ गच्छति ॥ 53 ॥  
+यदा᳓ वै᳓ व᳓सीयान् भ᳓वति  "भु᳓वनम् अगन्नि᳓"ति वै᳓ त᳓म् आहुः ।  
+भु᳓वनम् एवै᳓ते᳓न गच्छति ॥ 53 ॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -113,8 +110,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒प्सु॒षद॑न् त्वा घृत॒सद॒मि"त्य् आ॑ह।  
-अ॒पाम् ए॒वैतेन॑ घृ॒तस्य॑ सूयते ।  
+"अप्सुष᳓दन् त्वा घृतस᳓दमि᳓"त्य् आह।  
+अपा᳓म् एवै᳓ते᳓न घृत᳓स्य सूयते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -130,14 +127,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"व्यो॒म॒सद॒मि"त्य् आ॑ह।  
+"व्योमस᳓दमि᳓"त्य् आह।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 "व्यो॒म॒सद॒मि"त्य् आ॑ह।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -147,8 +143,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒दा वै वसी॑या॒न् भव॑ति  "व्यो॑माग॒न्नि"ति॒ वै तमा॑हुः ।  
-व्यो॑म+ ए॒वैते॑न गच्छति ।  
+यदा᳓ वै᳓ व᳓सीयान् भ᳓वति᳓  "व्योमागन्नि᳓"ति वै᳓ त᳓माहुः ।  
+व्यो᳙म+ एवै᳓तेन गच्छति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -164,8 +160,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"पृ॒थि॒वि॒षद॑न् त्वा ऽन्तरिक्ष॒सद॒मि"त्य् आ॑ह।  
-ए॒षाम् ए॒वैतेन॑ लो॒कानाँ॑ सूयते ।  
+"पृथिविष᳓दन् त्वा ऽन्तरिक्षस᳓दमि᳓"त्य् आह।  
+एषा᳓म् एवै᳓ते᳓न लोका᳓नाँ सूयते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -181,7 +177,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् वाजपेयया॒जी न कञ्च॒न प्र॒त्यव॑रोहति ।  
+त᳓स्माद् वाजपेययाजी᳓ न᳓ क᳓ञ्चन᳓ प्रत्य᳓वरोहति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -196,7 +192,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपी॑व॒ हि दे॒वता॑नाँ सू॒यते॑ ॥ 54 ॥  
+अ᳓पीव हि᳓ देव᳓तानाँ सूय᳓ते ॥ 54 ॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -211,14 +207,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"ना॒क॒सद॒मि"त्य् आ॑ह।  
+"नाकस᳓दमि᳓"त्य् आह।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 "ना॒क॒सद॒मि"त्य् आ॑ह।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -228,8 +223,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒दा वै वसी॑या॒न् भव॑ति॒  "नाक॑मग॒न्नि"ति॒ वै तमा॑हुः ।  
-नाक॑म्  ए॒वैतेन॑ गच्छति ।  
+यदा᳓ वै᳓ व᳓सीयान् भ᳓वति  "ना᳓कमगन्नि᳓"ति वै᳓ त᳓माहुः ।  
+ना᳓कम्  एवै᳓ते᳓न गच्छति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -245,12 +240,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"ये ग्रहा॑ᳶ पञ्चज॒नीना॒" इत्य् आ॑ह।  
-प॒ञ्च॒-ज॒नाना॑म् ए॒वैतेन॑ सूयते ।  
+"ये᳓ ग्र᳓हाᳶ पञ्चजनी᳓ना" इ᳓त्य् आह।  
+पञ्च-जना᳓नाम् एवै᳓ते᳓न सूयते ।  
 
-"अ॒पाँ रस॒म् उद्व॑यस॒मि"त्य् आ॑ह।  
-अ॒पाम् ए॒वैतेन॒ रस॑स्य सूयते ।  
-"सूर्य॑-रश्मिँ स॒माभृ॑त॒मि"त्य् आ॑ह सशुक्र॒त्वाय॑ ॥ 55 ॥  
+"अपाँ᳓ र᳓सम् उ᳓द्वयसमि᳓"त्य् आह।  
+अपा᳓म् एवै᳓ते᳓न र᳓सस्य सूयते ।  
+"सू᳓र्य-रश्मिँ समा᳓भृतमि᳓"त्य् आह सशुक्रत्वा᳓य ॥ 55 ॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -270,4 +265,3 @@ unicode_script: devanagari
 इति तृतीये नवमोऽनुवाकः ॥  
 
 </details>
-

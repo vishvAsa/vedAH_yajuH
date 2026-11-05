@@ -1,33 +1,32 @@
 +++
 title = "८४ अग्ने व्रतपते"
-
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ व्रतपते!
+अ᳓ग्ने व्रतपते!
 </details>
 
 <details><summary>मूलम्</summary>
 
 अग्ने॑ व्रतपते!
 </details>
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h4>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h4></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
-</details>
+<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h4>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
+
 <details><summary>संयुक्त-मूलम्</summary>
 
 वायो॑ व्रतपत॒ आदि॑त्य व्रतपते ।
@@ -35,76 +34,75 @@ title = "८४ अग्ने व्रतपते"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वायो॑ व्रतपते
+वा᳓यो व्रतपते
 </details>
 
 <details><summary>मूलम्</summary>
 
 वायो॑ व्रतपते
 </details>
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h4>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h4></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
-</details>
+<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h4>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ᳓दित्य व्रतपते
+</details>
+
+<details><summary>मूलम्</summary>
 
 आदि॑त्य व्रतपते
 </details>
 
-<details><summary>मूलम्</summary>
+<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 
-आदि॑त्य व्रतपते
-</details>
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h4>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h4></summary>
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
-</details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h4>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒ताना॑व्व्ँरतपते
+व्रता᳓नाव्व्ँरतपते
 </details>
 
 <details><summary>मूलम्</summary>
 
 व्र॒ताना॑व्व्ँरतपते
 </details>
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h4>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h4></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
-</details>
+<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h4>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
-</details>
 </details>
 </div>

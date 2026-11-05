@@ -18,10 +18,10 @@ title = "११ चातुर्मास्यगतवैश्वदेव�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॒ यय्ँ य॒ज्ञम॑ध्व॒रव्ँवि॒श्वतᳶ॑ परि॒भूरसि॑ ।  
-स इद्दे॒वेषु॑ गच्छति ।  
-सोम॒ यास्ते॑ मयो॒भुव॑ ऊ॒तय॒स्सन्ति॑ दा॒शुषे॑ ।  
-ताभि॑र्नोऽवि॒ता भ॑व ।  
+अ᳓ग्ने यय्ँ᳓ यज्ञ᳓मध्वरव्ँ᳓विश्व᳓तᳶ परिभू᳓र᳓सि ।  
+स᳓ इ᳓द्देवे᳓षु गच्छति ।  
+सो᳓म या᳓स्ते मयोभु᳓व ऊत᳓यस्स᳓न्ति दाशु᳓षे ।  
+ता᳓भिर्नोऽविता᳓ भव ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -41,7 +41,7 @@ title = "११ चातुर्मास्यगतवैश्वदेव�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निर्मू॒र्धा भुवः॑ ।  
+अग्नि᳓र्मूर्धा᳓ भु᳓वः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -79,7 +79,7 @@ title = "११ चातुर्मास्यगतवैश्वदेव�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वन्न॑स्सोम॒ या ते॒ धामा॑नि ।
+त्व᳓न्नस्सोम या᳓ ते धा᳓मानि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -100,7 +100,7 @@ title = "११ चातुर्मास्यगतवैश्वदेव�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या ते॒ धामा॑नि ।
+या᳓ ते धा᳓मानि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -125,8 +125,7 @@ title = "११ चातुर्मास्यगतवैश्वदेव�
 अथ सावित्रं द्वादशकपालमित्येतस्य हविषः पुरोनुवाक्यामाह— तत्सवितुर्वरेण्यभिति।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 त᳓त् सवितु᳓र् व᳓रेण्य+++(णिय)+++म्  
@@ -134,11 +133,17 @@ title = "११ चातुर्मास्यगतवैश्वदेव�
 धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥  
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+तत्स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि ।  
+धियो॒ यो नः॑ प्रचो॒दया॑त् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -890,7 +895,6 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 भावार्थभाषाः -  जी माणसे सर्वांचा साक्षी, पित्याप्रमाणे असणारा, न्यायी, दयाळू, शुद्ध सनातन, सर्वांच्या आत्म्याचा साक्षी अशा परमेश्वराची स्तुती, प्रार्थना व उपासना करतात त्यांना कृपासागर, सर्वात श्रेष्ठ परमेश्वर, दुष्ट आचरणापासून पृथक करून श्रेष्ठ आचरणामध्ये प्रवृत्त करतो. पवित्र व पुरुषार्थयुक्त करून धर्म, अर्थ, काम, मोक्ष प्राप्त करवितो. ॥ १० ॥
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -900,8 +904,8 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अचि॑त्ती॒ यच्च॑कृ॒मा दैव्ये॒ जने॑ दी॒नैर्दक्षै॒ᳶ प्रभू॑ती पूरुष॒त्वता॑ ।  [43]  
-दे॒वेषु॑ च सवित॒र्मानु॑षेषु च॒ त्वन्नो॒ अत्र॑ सुवता॒दना॑गसः ।  
+अ᳓चित्ती य᳓च्चकृमा᳓ दै᳓व्ये ज᳓ने दीनै᳓र्द᳓क्षैᳶ प्र᳓भूती पूरुषत्व᳓ता ।  [43]  
+देवे᳓षु च सवितर्मा᳓नुषेषु च त्व᳓न्नो अ᳓त्र सुवताद᳓नागसः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -924,8 +928,8 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चो॒द॒यि॒त्री सू॒नृता॑ना॒ञ्चेत॑न्ती सुमती॒नाम् ।  
-य॒ज्ञन्द॑धे॒ सर॑स्वती ।  
+चोदयित्री᳓ सूनृ᳓तानाञ्चे᳓तन्ती सुमतीना᳓म् ।  
+यज्ञ᳓न्दधे स᳓रस्वती ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -946,8 +950,8 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पावी॑रवी क॒न्या॑ चि॒त्रायु॒स्सर॑स्वती वी॒रप॑त्नी॒ धिय॑न्धात् ।  
-ग्नाभि॒रच्छि॑द्रँ शर॒णँ स॒जोषा॑ दुरा॒धर्ष॑ङ्गृण॒ते शर्म॑ यँसत् ।  
+पा᳓वीरवी कन्या᳙ चित्रा᳓युस्स᳓रस्वती वीर᳓पत्नी धि᳓यन्धात् ।  
+ग्ना᳓भिर᳓च्छिद्रँ शरणँ᳓ सजो᳓षा दुराध᳓र्षङ्गृणते᳓ श᳓र्म यँसत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -974,8 +978,8 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒षा गा अन्वे॑तु नᳶ पू॒षा र॑क्ष॒त्वर्व॑तः ।  
-पू॒षा वाजँ॑ सनोतु नः ।
+पूषा᳓ गा᳓ अ᳓न्वेतु नᳶ पूषा᳓ रक्षत्व᳓र्वतः ।  
+पूषा᳓ वा᳓जँ सनोतु नः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -998,8 +1002,8 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शु॒क्रन्ते॑ अ॒न्यद्य॑ज॒तन्ते॑ अ॒न्यत् [44]  विषु॑रूपे॒ अह॑नी॒ द्यौरि॑वासि ।  
-विश्वा॒ हि मा॒या अव॑सि स्वधावो भ॒द्रा ते॑ पूषन्नि॒ह रा॒तिर॑स्तु ।  
+शुक्र᳓न्ते अन्य᳓द्यजत᳓न्ते अन्य᳓त् [44]  वि᳓षुरूपे अ᳓हनी द्यौ᳓रिवासि ।  
+वि᳓श्वा हि᳓ माया᳓ अ᳓वसि स्वधावो भद्रा᳓ ते पूषन्निह᳓ राति᳓रस्तु ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1032,8 +1036,8 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽवर्धन्त॒ स्वत॑वसो महित्व॒नाऽऽनाक॑न्त॒स्थुरु॒रु च॑क्रिरे॒ सदः॑ ।  
-विष्णु॒र्यद्धाव॒द्वृष॑णम्मद॒च्युतव्ँ॒वयो॒ न सी॑द॒न्नधि॑ ब॒र्हिषि॑ प्रि॒ये ।
+ते᳓ऽवर्धन्त स्व᳓तवसो महित्वना᳓ऽऽना᳓कन्तस्थु᳓रुरु᳓ चक्रिरे स᳓दः ।  
+वि᳓ष्णुर्य᳓द्धा᳓वद्वृ᳓षणम्मदच्यु᳓तव्ँव᳓यो न᳓ सीदन्न᳓धि बर्हि᳓षि प्रिये᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1055,17 +1059,17 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र चि॒त्रम॒र्कङ्गृ॑ण॒ते तु॒राय॒ मारु॑ताय॒ स्वत॑वसे भरध्वम् ।  
-ये सहाँ॑सि॒ सह॑सा॒ सह॑न्ते [45]  रेज॑ते अग्ने पृथि॒वी म॒खेभ्यः॑ ।  
+प्र᳓ चित्र᳓मर्क᳓ङ्गृणते᳓ तुरा᳓य मा᳓रुताय स्व᳓तवसे भरध्वम् ।  
+ये᳓ स᳓हाँसि स᳓हसा स᳓हन्ते᳓ [45]  रे᳓जते अग्ने पृथिवी᳓ मखे᳓भ्यः ।  
 
 २२
-तत्रैव याज्यामाह— प्र चित्रमर्कमिति।  
-हे ऋत्विग्यजमानाश्चित्रमर्कं विविधमर्चनं मारुताय मरुत्समूहाय प्रभरध्वं प्रकर्षेण संपादयत।  
-कीदृशाय मारुताय, गृणते हविर्दानाय गृणते, तुराय शीघ्रमामिने(णे), स्वतवसे स्वाधीनबलाय।  
-हे ऋत्विग्यजमाना ये भवन्तः सहसा मरुतां बलेन सहांसि वैरिबलानि सहन्तऽभिभवन्ति ते यूयं भरध्व-मिति पूर्वत्रान्वयः ।  
-हेऽग्ने त्वमेव तत्पश्येत्यध्याहारः।  
-किं द्रष्टव्यं तदाश्चर्य-  १८५६ मिति तदुच्यते इयं पृथिवी मखेभ्यो मारुतयज्ञेभ्यो रेजते कम्पते।  
-कथं नामैतदीया यज्ञा निर्विघ्नेन समाप्यन्त इति प्रयत्नं करोति एतदिदमिति।  
+त᳓त्रै᳓व᳓ या᳓ज्या᳓मा᳓ह᳓— प्र᳓ चि᳓त्र᳓म᳓र्क᳓मि᳓ति᳓।  
+हे᳓ ऋ᳓त्वि᳓ग्य᳓ज᳓मा᳓ना᳓श्चि᳓त्र᳓म᳓र्कं᳓ वि᳓वि᳓ध᳓म᳓र्च᳓नं᳓ मा᳓रु᳓ता᳓य᳓ म᳓रु᳓त्स᳓मू᳓हा᳓य᳓ प्र᳓भ᳓र᳓ध्वं᳓ प्र᳓क᳓र्षे᳓ण᳓ सं᳓पा᳓द᳓य᳓त᳓।  
+की᳓दृ᳓शा᳓य᳓ मा᳓रु᳓ता᳓य᳓, गृ᳓ण᳓ते᳓ ह᳓वि᳓र्दा᳓ना᳓य᳓ गृ᳓ण᳓ते᳓, तु᳓रा᳓य᳓ शी᳓घ्र᳓मा᳓मि᳓ने᳓(णे᳓), स्व᳓त᳓व᳓से᳓ स्वा᳓धी᳓न᳓ब᳓ला᳓य᳓।  
+हे᳓ ऋ᳓त्वि᳓ग्य᳓ज᳓मा᳓ना᳓ ये᳓ भ᳓व᳓न्तः᳓ स᳓ह᳓सा᳓ म᳓रु᳓तां᳓ ब᳓ले᳓न᳓ स᳓हां᳓सि᳓ वै᳓रि᳓ब᳓ला᳓नि᳓ स᳓ह᳓न्त᳓ऽभि᳓भ᳓व᳓न्ति᳓ ते᳓ यू᳓यं᳓ भ᳓र᳓ध्व᳓-मि᳓ति᳓ पू᳓र्व᳓त्रा᳓न्व᳓यः᳓ ।  
+हे᳓ऽग्ने᳓ त्व᳓मे᳓व᳓ त᳓त्प᳓श्ये᳓त्य᳓ध्या᳓हा᳓रः᳓।  
+किं᳓ द्र᳓ष्ट᳓व्यं᳓ त᳓दा᳓श्च᳓र्य᳓-  १८५६ मि᳓ति᳓ त᳓दु᳓च्य᳓ते᳓ इ᳓यं᳓ पृ᳓थि᳓वी᳓ म᳓खे᳓भ्यो᳓ मा᳓रु᳓त᳓य᳓ज्ञे᳓भ्यो᳓ रे᳓ज᳓ते᳓ क᳓म्प᳓ते᳓।  
+क᳓थं᳓ ना᳓मै᳓त᳓दी᳓या᳓ य᳓ज्ञा᳓ नि᳓र्वि᳓घ्ने᳓न᳓ स᳓मा᳓प्य᳓न्त᳓ इ᳓ति᳓ प्र᳓य᳓त्नं᳓ क᳓रो᳓ति᳓ ए᳓त᳓दि᳓द᳓मि᳓ति᳓।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1085,7 +1089,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वे॑ दे॒वा विश्वे॑ देवाः ।  
+वि᳓श्वे देवा᳓ वि᳓श्वे देवाः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1120,8 +1124,8 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्यावा॑ नᳶ पृथि॒वी इ॒मँ सि॒ध्रम॒द्य दि॑वि॒स्पृश॑म् ।  
-य॒ज्ञन्दे॒वेषु॑ यच्छताम् ।  
+द्या᳓वा नᳶ पृथिवी᳓ इमँ᳓ सिध्र᳓मद्य᳓ दिविस्पृ᳓शम् ।  
+यज्ञ᳓न्देवे᳓षु यच्छताम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1143,8 +1147,8 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र पू॑र्व॒जे पि॒तरा॒ नव्य॑सीभिर्गी॒र्भिᳵ कृ॑णुध्वँ॒ सद॑ने ऋ॒तस्य॑ ।  
-आ नो॑ द्यावापृथिवी॒ दैव्ये॑न॒ जने॑न यात॒म्महि॑ वाव्ँ॒वरू॑थम् ।  
+प्र᳓ पूर्वजे᳓ पित᳓रा न᳓व्यसीभिर्गीर्भिᳵ᳓ कृणुध्वँ स᳓दने ऋत᳓स्य ।  
+आ᳓ नो द्यावापृथिवी दै᳓व्येन ज᳓नेन यातम्म᳓हि वाव्ँव᳓रूथम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1164,19 +1168,24 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 अथ तत्रैव स्विष्टकृतः पुरोनुवाक्यामाह— अग्निँ स्तोमेनेति ।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/014/01_agniM_stomena.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/014/01_agniM_stomena.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 अग्निं᳓ स्तो᳓मेन बोधय  
 समिधानो᳓ अ᳓मर्तियम्  
 हव्या᳓ देवे᳓षु नो दधत्
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/014/01_agniM_stomena.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/014/01_agniM_stomena.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+अ॒ग्निं स्तोमे॑न बोधय समिधा॒नो अम॑र्त्यम् ।  
+ह॒व्या दे॒वेषु॑ नो दधत् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/014/01_agniM_stomena.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -1413,7 +1422,6 @@ Den Agni weck durch Loblied auf, entzündend den unsterblichen, Zu Göttern brin
 
 भावार्थभाषाः -  हे माणसांनो ! प्रयत्नपूर्वक अग्नी इत्यादी पदार्थांची विद्या प्राप्त करा. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1423,8 +1431,8 @@ Den Agni weck durch Loblied auf, entzündend den unsterblichen, Zu Göttern brin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ह॑व्य॒वाडम॑र्त्य उ॒शिग्दू॒तश्चनो॑हितः ।  
-अ॒ग्निर्धि॒या समृ॑ण्वति ।
+स᳓ हव्यवा᳓ड᳓मर्त्य उशि᳓ग्दूत᳓श्च᳓नोहितः ।  
+अग्नि᳓र्धिया᳓ स᳓मृण्वति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1440,7 +1448,7 @@ Den Agni weck durch Loblied auf, entzündend den unsterblichen, Zu Göttern brin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शन्नो॑ भवन्तु
+श᳓न्नो भवन्तु
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1467,7 +1475,7 @@ Den Agni weck durch Loblied auf, entzündend den unsterblichen, Zu Göttern brin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाजे॑वाजे ।  
+वा᳓जेवाजे ।  
 </details>
 
 <details><summary>मूलम्</summary>

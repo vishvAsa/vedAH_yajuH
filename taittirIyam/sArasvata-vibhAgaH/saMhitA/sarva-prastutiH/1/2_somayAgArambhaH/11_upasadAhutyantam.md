@@ -22,9 +22,9 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अँ॒शुर् अँ॑शुस् ते +++(प्रत्येकः)+++ देव सो॒माऽऽप्या॑यताम् इन्द्रा॑यैक-धन॒-विदे॑।  
-आ तुभ्य॒म्+++(=त्वत्पानाय)+++ इन्द्रᳶ॑ प्यायताम् ।  
-आ त्वम् इन्द्रा॑य प्याय॒स्व ।
+अँशु᳓र् अँशुस् ते +++(प्रत्येकः)+++ देव सोमा᳓ऽऽप्याय᳓ता᳓म् इ᳓न्द्रायैक-धन-वि᳓दे।  
+आ᳓ तु᳓भ्यम्+++(=त्वत्पानाय)+++ इ᳓न्द्रᳶ प्यायताम् ।  
+आ᳓ त्व᳓म् इ᳓न्द्राय प्यायस्व᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -77,8 +77,8 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आप्या॑यय॒ सखी॑न् स॒न्या मे॒धया॑ ।  
-स्व॒स्ति ते॑ देव सोम सु॒त्याम्+++(=अभिषवम्)+++ अ॑शीय+++(=आप्नुयाम्)+++ ।
+आ᳓प्यायय स᳓खीन् सन्या᳓ मेध᳓या ।  
+स्वस्ति᳓ ते देव सोम सुत्या᳓म्+++(=अभिषवम्)+++ अशीय+++(=आप्नुयाम्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -158,7 +158,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे प्रस्तर)+++ एष्टा॒+++(=इच्छुक)+++ राय॒ᳶ प्र+इ॒षे भगा॑य
++++(हे प्रस्तर)+++ ए᳓ष्टा+++(=इच्छुक)+++ रा᳓यᳶ प्र᳓+इषे᳓ भ᳓गाय
 </details>
 
 <details><summary>Keith</summary>
@@ -173,7 +173,7 @@ Desired are riches exceedingly for food, for prosperity.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+ऋ॒तम् ऋ॑तवा॒दिभ्यः॑ +++(भव)+++।
++ऋत᳓म् ऋतवादि᳓भ्यः +++(भव)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -188,8 +188,8 @@ Be right to the proclaimers of right.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ दि॒वे ।  
-नमᳶ॑ पृथि॒व्यै ।  
+न᳓मो दिवे᳓ ।  
+न᳓मᳶ पृथिव्यै᳓ ।  
 +++('द्यावापृथिवीभ्यामेव नमस्कृत्यास्मिन् लोके प्रतितिष्ठन्ति' इति ब्राह्मणम् ।)+++
 </details>
 
@@ -273,9 +273,9 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ व्रतपते॒ - त्वव्ँ व्र॒तानाव्ँ॑ व्र॒तप॑तिर् असि ।  
-या मम॑ त॒नूर् ए॒षा +++(इत्यङ्गुल्या अग्नेस्तनूं दर्शयति)+++ सा त्वयि॑ +++(निवेशिता)+++।  
-या तव॑ त॒नूर् इ॒यँ +++(आत्मशरीरमङ्गुल्या दर्शयति)+++ सा मयि॑ +++(निवेशिता)+++।
+अ᳓ग्ने व्रतपते - त्वव्ँ᳓ व्रता᳓नाव्ँ व्रत᳓पतिर् असि ।  
+या᳓ म᳓म तनू᳓र् एषा᳓ +++(इत्यङ्गुल्या अग्नेस्तनूं दर्शयति)+++ सा᳓ त्व᳓यि +++(निवेशिता)+++।  
+या᳓ त᳓व तनू᳓र् इयँ᳓ +++(आत्मशरीरमङ्गुल्या दर्शयति)+++ सा᳓ म᳓यि +++(निवेशिता)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -294,7 +294,7 @@ that body of thine be in me.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒ह नौ॑ व्रतपते व्र॒तिनो॑र् व्र॒तानि । +++(यन्मया कृतं तत्त्वयापि कृतं भवतीति ।)+++
+सह᳓ नौ व्रतपते व्रति᳓नोर् व्रता᳓नि᳓ । +++(यन्मया कृतं तत्त्वयापि कृतं भवतीति ।)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -354,8 +354,8 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या ते॑ अग्ने॒ रुद्रि॑या त॒नूस्, तया॑ नᳶ पाहि ।  
-तस्या॑स् ते॒ +++(पतिभूताय)+++ स्वाहा॑ ।
+या᳓ ते अग्ने रु᳓द्रिया तनू᳓स्, त᳓या नᳶ पाहि ।  
+त᳓स्यास् ते +++(पतिभूताय)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -438,19 +438,16 @@ ________
 इति।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-या ते॑ अग्ने ऽया+++(=अयसि/अस्यां [भुवि])+++श॒या [ त॒नूर्  
-वर्षि॑ष्ठा+++(=वृद्धतमा)+++ गह्वरे॒ष्ठोग्रव्ँ वचो॒ अपा॑वधीम्+++(→अपहन्मि)+++,,  
-त्वे॒षव्ँ+++(=दीप्तं/ क्रूरं)+++ वचो॒ अपा॑वधीँ॒ स्वाहा॑ ॥ ] ।
+या᳓ ते अग्ने ऽया+++(=अयसि/अस्यां [भुवि])+++शया᳓ [ तनू᳓र्  
+व᳓र्षिष्ठा+++(=वृद्धतमा)+++ गह्वरेष्ठो᳓ग्रव्ँ᳓ व᳓चो अ᳓पावधीम्+++(→अपहन्मि)+++,,  
+त्वेषव्ँ᳓+++(=दीप्तं/ क्रूरं)+++ व᳓चो अ᳓पावधीँ स्वा᳓हा ॥ ] ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -490,18 +487,15 @@ the highest, that dwells in the cleft,
 'तनूर्' इति चोभयम् अनुषज्यते। तृतीये तु 'या ते अग्न' इत्य् अयम् एवानुषज्यते। तैर् एतैस् त्रिभिर् मन्त्रैस् त्रिषु दिनेषु क्रमेणोपसदाख्या आहुतयो होतव्याः। 
 </details>
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-[या ते॑ अग्ने] रजा+++(=रजते/ऽन्तरिक्षे)+++-श॒या [ त॒नूर्  
-वर्षि॑ष्ठा+++(=वृद्धतमा)+++ गह्वरे॒ष्ठोग्रव्ँ वचो॒ अपा॑वधीम्+++(→अपहन्मि)+++,,  
-त्वे॒षव्ँ+++(=दीप्तं/ क्रूरं)+++ वचो॒ अपा॑वधीँ॒ स्वाहा॑ ॥ ] ।
+[या᳓ ते अग्ने] रजा+++(=रजते/ऽन्तरिक्षे)+++-शया᳓ [ तनू᳓र्  
+व᳓र्षिष्ठा+++(=वृद्धतमा)+++ गह्वरेष्ठो᳓ग्रव्ँ᳓ व᳓चो अ᳓पावधीम्+++(→अपहन्मि)+++,,  
+त्वेषव्ँ᳓+++(=दीप्तं/ क्रूरं)+++ व᳓चो अ᳓पावधीँ स्वा᳓हा ॥ ] ।
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -509,8 +503,7 @@ the highest, that dwells in the cleft,
 7द्वितीयस्यां जुहोति -
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -548,18 +541,15 @@ the highest, that dwells in the cleft,
 अयसि शेत इत्य् अयाशया लोह-निर्मिता। तथा रजते शेत इति रजाशया। 
 </details>
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-[या ते॑ अग्ने] हरा+++(=हिरण्ये‌/द्यवि)+++श॒या [ त॒नूर्  
-वर्षि॑ष्ठा+++(=वृद्धतमा)+++ गह्वरे॒ष्ठोग्रव्ँ वचो॒ अपा॑वधीम्+++(→अपहन्मि)+++,,  
-त्वे॒षव्ँ+++(=दीप्तं/ क्रूरं)+++ वचो॒ अपा॑वधीँ॒ स्वाहा॑ ॥ ] ।
+[या᳓ ते अग्ने] हरा+++(=हिरण्ये‌/द्यवि)+++शया᳓ [ तनू᳓र्  
+व᳓र्षिष्ठा+++(=वृद्धतमा)+++ गह्वरेष्ठो᳓ग्रव्ँ᳓ व᳓चो अ᳓पावधीम्+++(→अपहन्मि)+++,,  
+त्वेषव्ँ᳓+++(=दीप्तं/ क्रूरं)+++ व᳓चो अ᳓पावधीँ स्वा᳓हा ॥ ] ।
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -567,8 +557,7 @@ the highest, that dwells in the cleft,
 8तृतीयायां जुहोति -
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -619,7 +608,6 @@ the highest, that dwells in the cleft,
 
 </details>
 </details>
-
 </div>
 
 इति द्वितीये एकादशोनुवाकः

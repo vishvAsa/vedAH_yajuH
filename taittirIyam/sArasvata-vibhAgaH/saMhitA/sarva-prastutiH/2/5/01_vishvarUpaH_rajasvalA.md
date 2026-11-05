@@ -1,6 +1,5 @@
 +++
 title = "०१ विश्वरूपः रजस्वला च"
-
 +++
 
 प्रजापतिः ऋषिः ।
@@ -14,7 +13,7 @@ title = "०१ विश्वरूपः रजस्वला च"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒श्वरू॑पो॒ वै त्वा॒ष्ट्रᳶ पु॒रोहि॑तो दे॒वाना॑म् आसीत् ।  
+विश्व᳓रूपो वै᳓ त्वाष्ट्रᳶ᳓ पुरो᳓हितो देवा᳓नाम् आसीत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -46,7 +45,7 @@ Viśvarupa, son of Tvastr, was the domestic priest of the gods,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व॒स्रीयो ऽसु॑राणाम् +++(आसीत्)+++।  
+स्वस्री᳓यो᳓ ऽसुराणाम् +++(आसीत्)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -76,8 +75,8 @@ and the sister's son of the Asuras.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य॒ त्रीणि॑ शी॒र्षाण्य् आ॑सन् -  
-सोम॒-पानँ॑ सुरा॒-पान॑म् अ॒न्नाद॑नम् ।
+त᳓स्य त्री᳓णि शीर्षा᳓ण्य् आसन् -  
+सोम-पा᳓नँ सुरा-पा᳓नम् अन्ना᳓दनम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -111,7 +110,7 @@ He had three heads, one which drank Soma, one Sura, and one which ate food.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स प्र॒त्यक्ष॑न् दे॒वेभ्यो॑ भा॒गम् अ॑वदत् ।
+स᳓ प्रत्य᳓क्षन् देवे᳓भ्यो भाग᳓म् अवदत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -141,7 +140,7 @@ He promised openly the share to the gods,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒रोक्ष॒म् असु॑रेभ्यः +++(भागमवदत्)+++ ।
+परो᳓क्षम् अ᳓सुरेभ्यः +++(भागमवदत्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -171,7 +170,7 @@ secretly to the Asuras.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व॑स्मै॒ वै प्र॒त्यक्ष॑म् भा॒गव्ँ व॑दन्ति +++(अपहृदयाः)+++।
+स᳓र्वस्मै वै᳓ प्रत्य᳓क्षम् भागव्ँ᳓ वदन्ति +++(अपहृदयाः)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -186,8 +185,8 @@ Men promise openly the share to every one;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस्मा॑ ए॒व प॒रोक्षव्ँ॒ वद॑न्ति॒-  
-तस्य॑ भा॒ग उ॑दि॒तः ।
+य᳓स्मा एव᳓ परो᳓क्षव्ँ व᳓दन्ति-  
+त᳓स्य भाग᳓ उदितः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -225,8 +224,8 @@ if they promise any one secretly, his share is indeed promised.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् इन्द्रो॑ऽबिभे॒द्-  
-"ई॒दृङ् वै रा॒ष्ट्रव्ँ वि प॒र्याव॑र्तय॒ती"ति॑ +++(असुरान् प्रति)+++।
+त᳓स्माद् इ᳓न्द्रोऽबिभेद्-  
+"ईदृ᳓ङ् वै᳓ राष्ट्रव्ँ᳓ वि᳓ पर्या᳓वर्तयती᳓"ति +++(असुरान् प्रति)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -264,7 +263,7 @@ Therefore Indra was afraid (thinking), 'Such an one is diverting the sovereignty
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य॒ वज्र॑म् आ॒दाय॑ शी॒र्षाण्य् अ॑च्छिनत् ।  
+त᳓स्य व᳓ज्रम् आदा᳓य शीर्षा᳓ण्य् अच्छिनत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -294,8 +293,8 @@ He took his bolt and smote off his heads.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् सो॑म॒-पान॑म् आसी॑त्।  
-स क॒पिञ्ज॑लोऽभव॒द् ।
+य᳓त् सोम-पा᳓नम् आ᳓सीत्।  
+स᳓ कपि᳓ञ्जलोऽभवद् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -311,7 +310,7 @@ He took his bolt and smote off his heads.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् सु॑रा॒पानँ॒ स क॑ल॒विङ्को॑ ।
+य᳓त् सुरापा᳓नँ स᳓ कलवि᳓ङ्को ।
 </details>
 
 <details><summary>Keith</summary>
@@ -326,7 +325,7 @@ He took his bolt and smote off his heads.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अ॒न्नाद॑नँ॒ स ति॑त्ति॒रिः ।
+य᳓द् अन्ना᳓दनँ स᳓ तित्तिरिः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -358,7 +357,7 @@ He took his bolt and smote off his heads.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्या॑ञ्ज॒लिना॑ ब्रह्म-ह॒त्याम् उपा॑गृह्णात् ।  
+त᳓स्याञ्जलि᳓ना ब्रह्म-हत्या᳓म् उ᳓पागृह्णात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -390,7 +389,7 @@ He seized with his hand the guilt of slaying him,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताँ +++(ब्रह्महत्यां)+++ सव्ँ॑वत्स॒रम् अ॑बिभः ।  
+ताँ᳓ +++(ब्रह्महत्यां)+++ सव्ँवत्सर᳓म् अबिभः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -420,7 +419,7 @@ and bore it for a year.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम् भू॒तान्य् अ॒भ्य॑क्रोश॒न् ब्रह्म॑ह॒न्न् इति॑ ।  
+त᳓म् भूता᳓न्य् अभ्य᳙क्रोशन् ब्र᳓ह्महन्न् इ᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -452,8 +451,8 @@ Creatures called out upon him, 'Thou art a Brahman slayer.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स पृ॑थि॒वीम् उपा॑सीदत् -  
-"अ॒स्यै ब्र॑ह्मह॒त्यायै॒ तृती॑य॒म् प्रति॑ गृहा॒णे"ति॑ ।
+स᳓ पृथिवी᳓म् उ᳓पासीदत् -  
+"अस्यै᳓ ब्रह्महत्या᳓यै तृ᳓तीयम् प्र᳓ति गृहाणे᳓"ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -489,8 +488,8 @@ He appealed to the earth, 'Take a third part of my guilt.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-साब्र॑वीत् -  
-"वरव्ँ॑ वृणै
+सा᳓ब्रवी᳓त् -  
+"व᳓रव्ँ वृणै
 </details>
 
 <details><summary>Keith</summary>
@@ -505,7 +504,7 @@ She said, 'Let me choose a boon.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-खा॒तात् प॑राभवि॒ष्यन्ती॑ मन्ये ।
+खाता᳓त् पराभविष्य᳓न्ती मन्ये ।
 </details>
 
 <details><summary>Keith</summary>
@@ -520,7 +519,7 @@ I deem that I shall be overcome through digging.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ मा परा॑ भूव॒म्" इति॑ ।
+त᳓तो मा᳓ प᳓रा भूवम्" इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -554,7 +553,7 @@ Let me not be overcome by that.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"पु॒रा ते  सव्ँ॒व॒त्स॒राद् अपि॑ रोहा॒द्" इत्य् अ॑ब्रवीत् ।  
+"पुरा᳓ ते᳓  सव्ँवत्सरा᳓द् अ᳓पि रोहाद्" इ᳓त्य् अब्रवीत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -585,8 +584,8 @@ He replied, 'Before [2] a year is out it will grow up for thee.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑त् पु॒रा सव्ँ॑वत्स॒रात् पृ॑थि॒व्यै खा॒तम् अपि॑ रोहति  
-वारे॑-वृतँ॒ ह्य् अ॑स्यै
+त᳓स्मात् पुरा᳓ सव्ँवत्सरा᳓त् पृथिव्यै᳓ खात᳓म् अ᳓पि रो᳓ह᳓ति᳓  
+वा᳓रे-वृतँ ह्य् अ᳙स्यै
 </details>
 
 <details><summary>Keith</summary>
@@ -616,7 +615,7 @@ Therefore before the year is out the dug-out portion of earth grows up again, fo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तृती॑यम् ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्णात् ।  
+तृ᳓तीयम् ब्रह्महत्या᳓यै प्र᳓त्यगृह्णात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -648,7 +647,7 @@ She took a third of his guilt.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् स्वकृ॑त॒म् इरि॑णम् अभवत् ।  
+त᳓त् स्व᳓कृतम् इ᳓रिणम् अभवत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -678,7 +677,7 @@ That became a natural fissure;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् आहि॑ताग्निश् श्र॒द्धा-दे॑व॒स् स्वकृ॑त॒ इरि॑णे॒ नाव॑स्येत्+++(←वस्)+++ ।
+त᳓स्माद् आ᳓हिताग्निश् श्रद्धा᳓-देवस् स्व᳓कृत इ᳓रिणे ना᳓वस्येत्+++(←वस्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -708,7 +707,7 @@ therefore one who has piled up a fire-altar and whose deity is faith should not 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒ह॒त्यायै॒+++(या)+++ ह्य् ए॒॑ष वर्णः॑ ।
+ब्रह्महत्या᳓यै+++(या)+++ ह्य् ए᳓ष᳓ व᳓र्णः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -740,8 +739,8 @@ for that is the colour of guilt.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स वन॒स्पती॒न् उपा॑सीत् -   
-"अ॒स्यै ब्र॑ह्मह॒त्यायै॒ तृती॑य॒म् प्रति॑ गृह्णी॒ते"ति॑ ।  
+स᳓ व᳓नस्प᳓तीन् उ᳓पासीत् -   
+"अस्यै᳓ ब्रह्महत्या᳓यै तृ᳓तीयम् प्र᳓ति गृह्णीते᳓"ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -772,8 +771,8 @@ He appealed to the trees, 'Take a third part of my guilt.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽब्रुवन् -  
-"वरव्ँ॑ वृणामहै ।
+ते᳓ऽब्रु᳓व᳓न् -  
+"व᳓रव्ँ वृणामहै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -789,7 +788,7 @@ They said, 'Let us choose a boon.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृ॒क्णात्+++(←वृश् छेदे)+++ प॑राभवि॒ष्यन्तो॑ मन्यामहे ।
+वृक्णा᳓त्+++(←वृश् छेदे)+++ पराभविष्य᳓न्तो मन्यामहे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -804,7 +803,7 @@ We deem that we shall be overcome through pruning [3].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ मा परा॑ भू॒मे"ति॑ ।
+त᳓तो मा᳓ प᳓रा भूमे᳓"ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -837,7 +836,7 @@ Let us not be overcome by that.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"आ॒व्रश्च॑नाद् वो॒ भूयाँ॑स॒ उत्ति॑ष्ठा॒न्" इत्य् अ॑ब्रवीत् ।
+"आव्र᳓श्चनाद् वो भू᳓याँस उ᳓त्तिष्ठान्" इ᳓त्य् अब्रवीत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -852,7 +851,7 @@ He replied, 'From pruning shall more (shoots) spring up for you.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् आ॒व्रश्च॑नाद् वृ॒क्षाणा॒म् भूयाँ॑स॒ उत्ति॑ष्ठन्ति॒ - वारे॑वृतँ॒ ह्य् ए॑षा॒म्
+त᳓स्माद् आव्र᳓श्चनाद् वृक्षा᳓णाम् भू᳓याँस उ᳓त्तिष्ठन्ति - वा᳓रेवृतँ ह्य् ए᳙षाम्
 </details>
 
 <details><summary>Keith</summary>
@@ -881,8 +880,8 @@ Therefore from the pruning of trees more (shoots) spring up, for that was what t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तृती॑यम् ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्णन् ।  
-स नि॑र्या॒सो॑ऽभवत् ।
+तृ᳓तीयम् ब्रह्महत्या᳓यै प्र᳓त्यगृह्णन् ।  
+स᳓ निर्यासो᳙ऽभवत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -898,8 +897,8 @@ They took a third part of his guilt, it became sap;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑न् निर्या॒सस्य॒ नाश्य॑म्।  
-ब्र॒ह्म॒ह॒त्यायै॒ ह्य् ए॒॑ष वर्णः॑।
+त᳓स्मान् निर्यास᳓स्य ना᳓श्यम्।  
+ब्रह्महत्या᳓यै ह्य् ए᳓ष᳓ व᳓र्णः।
 </details>
 
 <details><summary>Keith</summary>
@@ -923,7 +922,7 @@ therefore one should not partake of sap, for it is the colour of guilt.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ खलु॒ य ए॒व लोहि॑तो॒ यो वा॒ऽऽव्रश्च॑नान् नि॒र्येष॑ति॒ तस्य॒ नाश्य॒म् [4] काम॑म् अ॒न्यस्य॑
+अ᳓थो ख᳓लु य᳓ एव᳓ लो᳓हितो यो᳓ वाऽऽव्र᳓श्चनान् निर्ये᳓षति त᳓स्य ना᳓श्यम् [4] का᳓मम् अन्य᳓स्य
 </details>
 
 <details><summary>Keith</summary>
@@ -959,8 +958,8 @@ Or rather of the sap which is red or which comes from the pruning one should not
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स स्त्री॑-षँसा॒दम् उपा॑सीदत् -  
-"अ॒स्यै ब्र॑ह्मह॒त्यायै॒ तृती॑य॒म् प्रति॑ गृह्णी॒ते"ति॑ ।  
+स᳓ स्त्री-षँसाद᳓म् उ᳓पासीदत् -  
+"अस्यै᳓ ब्रह्महत्या᳓यै तृ᳓तीयम् प्र᳓ति गृह्णीते᳓"ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -992,8 +991,8 @@ He appealed to a concourse of women, 'Take the third of my guilt.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता अ॑ब्रुवन् ।  
-वरव्ँ॑ वृणामहै ।
+ता᳓ अब्रुवन् ।  
+व᳓रव्ँ वृणामहै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1009,7 +1008,7 @@ They said, 'Let us choose a boon;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"ऋत्वि॑यात् प्र॒जाव्ँ वि॑न्दामहै ।
+"ऋ᳓त्वियात् प्रजाव्ँ᳓ विन्दामहै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1024,7 +1023,7 @@ let us obtain offspring from after the menses;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(गर्भहानिं विना)+++ काम॒म् आ विज॑नितो॒स्+++(=प्रसवतः [सम्भोगे])+++ सम्भ॑वा॒मे"ति॑ ।
++++(गर्भहानिं विना)+++ का᳓मम् आ᳓ वि᳓जनितोस्+++(=प्रसवतः [सम्भोगे])+++ स᳓म्भवामे᳓"ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1057,8 +1056,8 @@ let us enjoy intercourse at will up to birth.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् ऋत्वि॑या॒त् स्त्रियᳶ॑ प्र॒जाव्ँ वि॑न्दन्ते ।  
-काम॒म् आ विज॑नितो॒स् सम्भ॑वन्ति।
+त᳓स्माद् ऋ᳓त्वियात् स्त्रि᳓यᳶ प्रजाव्ँ᳓ विन्दन्ते ।  
+का᳓मम् आ᳓ वि᳓जनितोस् स᳓म्भवन्ति।
 </details>
 
 <details><summary>Keith</summary>
@@ -1095,8 +1094,8 @@ Therefore women obtain offspring from after the menses, and enjoy intercourse at
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वारे॑वृतँ॒ ह्य् आ॑सान्, तृती॑यम् ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्णन् ।    
-सा मल॑वद्वासा अभवत् ।  
+वा᳓रेवृतँ ह्य् आ᳙सा᳓न्, तृ᳓तीयम् ब्रह्महत्या᳓यै प्र᳓त्यगृह्णन् ।    
+सा᳓ म᳓लवद्वासा अभवत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1131,8 +1130,8 @@ They took a third of his guilt, it became (a woman) with stained garments;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒न् मल॑वद्वाससा॒ न सव्ँव॑देत ।  
-+++(मलवद्वाससा)+++न स॒हासी॑त ।
+त᳓स्मान् म᳓लवद्वाससा न᳓ सव्ँ᳓वदेत ।  
++++(मलवद्वाससा)+++न᳓ सहा᳓सीत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1164,7 +1163,7 @@ therefore one should not converse with (a woman) with stained garments [5], one 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नास्या॒ अन्न॑म् अद्यात् ।  
+ना᳓स्या अ᳓न्नम् अद्यात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1194,7 +1193,7 @@ nor eat her food,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒ह॒त्यायै॒ ह्य् ए॒॑षा वर्ण॑म् प्रति॒मुच्यास्ते॑ ।  
+ब्रह्महत्या᳓यै ह्य् ए᳓षा᳓ व᳓र्णम् प्रतिमु᳓च्या᳓स्ते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1219,8 +1218,8 @@ for she keeps emitting the colour of guilt.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ खल्व् आ॑हुर् -
-अ॒भ्यञ्ज॑नव्ँ॒+++(→तैलादि)+++ वाव स्त्रि॒या अन्न॑म् , अ॒भ्यञ्ज॑नम् ए॒व न +++(स्त्रिया)+++ प्र॑ति॒गृह्य॒ङ् काम॑म् अ॒न्यद् इति॑ ।
+अ᳓थो ख᳓ल्व् आहुर् -
+अभ्य᳓ञ्जनव्ँ+++(→तैलादि)+++ वा᳓व᳓ स्त्रिया᳓ अ᳓न्नम् , अभ्य᳓ञ्जनम् एव᳓ न᳓ +++(स्त्रिया)+++ प्रतिगृ᳓ह्यङ् का᳓मम् अन्य᳓द् इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1265,8 +1264,8 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याम् मल॑वद्वाससँ स॒म्भव॑न्ति॒ -   
-यस् ततो॒ जाय॑ते॒ सो॑ऽभिश॒स्तः।
+या᳓म् म᳓लवद्वाससँ सम्भ᳓वन्ति -   
+य᳓स् त᳓तो जा᳓यते सो᳙ऽभिशस्तः᳓।
 </details>
 
 <details><summary>Keith</summary>
@@ -1282,7 +1281,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याम् अर॑ण्ये॒ तस्यै॑ स्ते॒नः ।
+या᳓म् अ᳓रण्ये त᳓स्यै स्तेनः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1313,8 +1312,8 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याम् +++(अशनादिना)+++ परा॑ची॒न्,  
-तस्यै॑ ह्रीत-मु॒ख्य् अ॑पग॒ल्भः ।  
+या᳓म् +++(अशनादिना)+++ प᳓राचीन्,  
+त᳓स्यै ह्रीत-मुख्य् अ᳙पगल्भः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1345,7 +1344,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या स्नाति॒ तस्या॑ अ॒प्सु मारु॑कः ।
+या᳓ स्ना᳓ति त᳓स्या अप्सु᳓ मा᳓रुकः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1375,7 +1374,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या ऽभ्य॒ङ्क्ते तस्यै॑ दु॒श्चर्मा॑ ।  
+या᳓ ऽभ्यङ्क्ते᳓ त᳓स्यै दुश्च᳓र्मा ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1405,7 +1404,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या प्र॑लि॒खते॒ तस्यै॑ खल॒तिर् अ॑पमा॒री ।
+या᳓ प्रलिख᳓ते त᳓स्यै खलति᳓र् अपमारी᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1435,7 +1434,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याऽऽङ्क्ते तस्यै॑ का॒णः  ।
+या᳓ऽऽङ्क्ते᳓ त᳓स्यै काणः᳓  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1465,7 +1464,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या द॒तो धाव॑ते॒ - तस्यै॑ श्या॒वद॑न् ।  
+या᳓ दतो᳓ धा᳓वते - त᳓स्यै श्याव᳓दन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1495,7 +1494,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या न॒खानि॑ निकृ॒न्तते॒ - तस्यै॑ कुन॒खी ।  
+या᳓ नखा᳓नि निकृन्त᳓ते - त᳓स्यै कुनखी᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1520,7 +1519,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या कृ॒णत्ति॒ - तस्यै॑ क्ली॒बः ।  
+या᳓ कृण᳓त्ति - त᳓स्यै क्लीबः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1550,7 +1549,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या रज्जुँ॑ सृ॒जति॒ - तस्या॑ उ॒द्बन्धु॑कः ।
+या᳓ र᳓ज्जुँ सृज᳓ति - त᳓स्या उद्ब᳓न्धुकः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1580,7 +1579,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या प॒र्णेन॒ पिब॑ति॒ - तस्या॑ उ॒न्मादु॑कः ।
+या᳓ पर्णे᳓न पि᳓बति - त᳓स्या उन्मा᳓दुकः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1605,7 +1604,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या ख॒र्वेण॒ - पिब॑ति॒ तस्यै॑ ख॒र्वः ।  
+या᳓ खर्वे᳓ण - पि᳓बति त᳓स्यै खर्वः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1636,9 +1635,9 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ति॒स्रो रात्री॑र् व्र॒तञ् च॑रेत् ।  
-अ॒ञ्ज॒लिना॑ वा॒ **पिबे॒द्** -   
-अख॑र्वेण वा॒ पात्रे॑ण प्र॒जायै॑ गोपी॒थाय॑ ॥
+तिस्रो᳓ रा᳓त्रीर् व्रत᳓ञ् चरेत् ।  
+अञ्जलि᳓ना वा **पि᳓बेद्** -   
+अ᳓खर्वेण वा पा᳓त्रेण प्रजा᳓यै गोपीथा᳓य ॥
 </details>
 
 <details><summary>Keith</summary>

@@ -1,6 +1,5 @@
 +++
 title = "०९ दर्शपूर्णमासयोः स्तुतिः"
-
 +++
 
  प्रजापतिर्ऋषिः
@@ -17,17 +16,20 @@ _______
 
 1अथ दर्शपूर्णमासयोर् महाफलत्वं ख्यापयितुम् आह - प्रजापतिरित्यादि ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तिर् य॒ज्ञान् अ॑सृजत -  
-अग्निहो॒त्रञ् चा॑ग्निष्टो॒मञ् च॑   
-पौर्णमा॒सीञ् चो॒क्थ्य॑ञ् च    
-अमावा॒स्या॑ञ् चातिरा॒त्रञ् च॑ ।
+प्रजा᳓पतिर् यज्ञा᳓न् असृजत -  
+अग्निहोत्र᳓ञ् चाग्निष्टोम᳓ञ् च   
+पौर्णमासी᳓ञ् चोक्थ्य᳙ञ् च    
+अमावास्या᳙ञ् चातिरात्र᳓ञ् च ।
 </details>
+
 <details><summary>Keith</summary>
 
 Prajapati created the sacrifices, the Agnihotra, the Agnistoma, the full moon sacrifice, the Ukthya, the new moon sacrifice and the Atiratra. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिर्य॒ज्ञान॑सृजत -  
@@ -65,14 +67,15 @@ Prajapati created the sacrifices, the Agnihotra, the Agnistoma, the full moon sa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तान् उद॑मिमीत ।   
+ता᳓न् उ᳓दमिमीत ।   
 
-याव॑द् अग्निहो॒त्रम् आसी॒त्,  
-तावा॑न् अग्निष्टो॒मः ।  
+या᳓वद् अग्निहोत्र᳓म् आ᳓सीत्,  
+ता᳓वान् अग्निष्टोमः᳓ ।  
 
-याव॑ती पौर्णमा॒सी  तावा॑न् उ॒क्थ्यः॑ ।  
-याव॑त्य् अमावा॒स्या॑ तावा॑न् अतिरा॒त्रः ।
+या᳓वती पौर्णमासी᳓  ता᳓वान् उक्थ्यः᳙ ।  
+या᳓वत्य् अमावास्या᳙ ता᳓वान् अतिरात्रः᳓ ।
 </details>
+
 <details><summary>Keith</summary>
 
 These he meted out;  
@@ -80,6 +83,7 @@ the Agnistoma was the size of the Agnihotra,
 the Ukthya that of the full moon sacrifice,  
 the Atiratra that of the new moon sacrifice.
 </details>
+
 <details><summary>मूलम्</summary>
 
 तानुद॑मिमीत ।   
@@ -90,26 +94,29 @@ the Atiratra that of the new moon sacrifice.
 
 याव॑त्यमावा॒स्या॑ तावा॑नतिरा॒त्रः ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वान् अ॑ग्नि-हो॒त्रञ् जु॒होति॒,  
-याव॑द् अग्निष्टो॒मेनो॑पा॒प्नोति॒  
-ताव॒द् उपा॑ऽऽप्नोति ।  
+य᳓ एवव्ँ᳓ विद्वा᳓न् अग्नि-होत्र᳓ञ् जुहो᳓ति,  
+या᳓वद् अग्निष्टोमे᳓नोपाप्नो᳓ति  
+ता᳓वद् उ᳓पाऽऽप्नोति ।  
 
-य ए॒वव्ँ वि॒द्वान् पौ॑र्णमा॒सीय्ँ यज॑ते॒  
-याव॑द् उ॒क्थ्ये॑नोपा॒प्नोति॒   
-ताव॒द् उपा॑ऽऽप्नोति ।   
+य᳓ एवव्ँ᳓ विद्वा᳓न् पौर्णमासीय्ँ᳓ य᳓जते  
+या᳓वद् उक्थ्ये᳙नोपाप्नो᳓ति   
+ता᳓वद् उ᳓पाऽऽप्नोति ।   
 
-य ए॒वव्ँ वि॒द्वान् अ॑मावा॒स्या॑य्ँ॒ यज॑ते॒,   
-याव॑द् अतिरा॒त्रेणो॑पा॒प्नोति॒  
-ताव॒द् उपा॑ऽऽप्नोति ।
+य᳓ एवव्ँ᳓ विद्वा᳓न् अमावास्याय्ँ᳓ य᳓जते,   
+या᳓वद् अतिरात्रे᳓णोपाप्नो᳓ति  
+ता᳓वद् उ᳓पाऽऽप्नोति ।
 </details>
+
 <details><summary>Keith</summary>
 
 He who knowing thus offers the Agnihotra obtains as much as by offering the Agnistoma;  
 he who knowing thus offers the full moon sacrifice obtains as much as by offering the Ukthya [1];  
 he who knowing thus offers the new moon sacrifice obtains as much as by offering the Atiratra.
 </details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँवि॒द्वान॑ग्निहो॒त्रञ्जु॒होति॑ ।    
@@ -136,7 +143,6 @@ he who knowing thus offers the new moon sacrifice obtains as much as by offering
 याव॑ती । अ॒मा॒वा॒स्येत्य॑मा-वा॒स्या॑ । तावा॑न् । अ॒ति॒रा॒त्र इत्य॑ति-रा॒त्रः ।
 
 यः । ए॒वम् । वि॒द्वान् । अ॒ग्नि॒हो॒त्रमित्य॑ग्नि-हो॒त्रम् । जु॒होति॑ ।   
-
 
 याव॑त् । अ॒ग्नि॒ष्टो॒मेनेत्य॑ग्नि-स्तो॒मेन॑ । उ॒पा॒प्नोतीत्यु॑प-आ॒प्नोति॑ ।   
 ताव॑त् । उपेति॑ । आ॒प्नो॒ति॒ ।
@@ -165,19 +171,22 @@ he who knowing thus offers the new moon sacrifice obtains as much as by offering
 ## दर्शपूर्णमासयोस्स्तुतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒र॒मे॒ष्ठिनो॒ वा ए॒ष य॒ज्ञोऽग्र॑ आसीत् ।  
-तेन॒ स प॑र॒माङ् काष्ठा॑म् अगच्छत् ।
+परमेष्ठि᳓नो वा᳓ एष᳓ यज्ञो᳓ऽग्र आसीत् ।  
+ते᳓न स᳓ परमा᳓ङ् का᳓ष्ठाम् अगच्छत् ।
 </details>
+
 <details><summary>Keith</summary>
 
 This sacrifice was in the beginning Paramesthin's,
 and by means of it he reached the supreme goal.
 </details>
+
 <details><summary>मूलम्</summary>
 
 प॒र॒मे॒ष्ठिनो॒ वा ए॒ष य॒ज्ञोऽग्र॑ आसीत् ।  
 तेन॒ स प॑र॒माङ् काष्ठा॑म् अगच्छत् ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 प॒र॒मे॒ष्ठिनः॑ । वै । ए॒षः । य॒ज्ञः । अग्रे॑ । आ॒सी॒त् ।  
@@ -192,46 +201,53 @@ and by means of it he reached the supreme goal.
 तेन स परमां काष्ठां परमैश्वर्यकाष्ठामगच्छत् ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेन॑ प्र॒जाप॑तिन् नि॒रवा॑साययत् ।  
-तेन॑ प्र॒जाप॑तिᳶ पर॒माङ् काष्ठा॑म् अगच्छत् ।
+ते᳓न प्रजा᳓पतिन् निर᳓वासाययत् ।  
+ते᳓न प्रजा᳓पतिᳶ परमा᳓ङ् का᳓ष्ठाम् अगच्छत् ।
 </details>
+
 <details><summary>Keith</summary>
 
 He furnished Prajapati with it,  
 and by means of it Prajapati reached the supreme goal.
 </details>
+
 <details><summary>मूलम्</summary>
 
 तेन॑ प्र॒जाप॑तिन्नि॒रवा॑साययत् ।  
 तेन॑ प्र॒जाप॑तिᳶ पर॒माङ्काष्ठा॑मगच्छत् ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेनेन्द्र॑न् नि॒रवा॑साययत् ।  
-तेनेन्द्रᳶ॑ पर॒माङ् काष्ठा॑म् अगच्छत् ।
+ते᳓ने᳓न्द्रन् निर᳓वासाययत् ।  
+ते᳓ने᳓न्द्रᳶ परमा᳓ङ् का᳓ष्ठाम् अगच्छत् ।
 </details>
+
 <details><summary>Keith</summary>
 
 He furnished Indra with it,  
 and by means of it Indra reached the supreme goal.
 </details>
+
 <details><summary>मूलम्</summary>
 
 तेनेन्द्र॑न्नि॒रवा॑साययत् ।  
 तेनेन्द्रᳶ॑ पर॒माङ्काष्ठा॑मगच्छत् ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेना॒ग्नी-षोमौ॑ नि॒रवा॑साययत् ।  
-तेना॒ग्नीषोमौ॑ पर॒माङ् काष्ठा॑म् अगच्छताम् ।
+ते᳓नाग्नी᳓-षो᳓मौ निर᳓वासाययत् ।  
+ते᳓नाग्नी᳓षो᳓मौ परमा᳓ङ् का᳓ष्ठाम् अगच्छताम् ।
 </details>
+
 <details><summary>Keith</summary>
 
 He furnished Agni and Soma with it, and by means of it Agni and Soma reached the supreme goal.
 </details>
+
 <details><summary>मूलम्</summary>
 
 तेना॒ग्नीषोमौ॑ नि॒रवा॑साययत् ।  
@@ -239,7 +255,6 @@ He furnished Agni and Soma with it, and by means of it Agni and Soma reached the
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 तेन॑ । प्र॒जाप॑ति॒मिति॑ प्र॒जा-प॒ति॒म् । नि॒रवा॑सायय॒दिति॑ निः-अवा॑साययत् ।  
 तेन॑ । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । प॒र॒माम् । काष्ठा॑म् । अ॒ग॒च्छ॒त् ।  
@@ -250,7 +265,6 @@ He furnished Agni and Soma with it, and by means of it Agni and Soma reached the
 तेन॑ । अ॒ग्नीषोमा॒वित्य॒ग्नी-सोमौ॑ । नि॒रवा॑सायय॒दिति॑ निः-अवा॑साययत् ।   
 तेन॑ । अ॒ग्नीषोमा॒वित्य॒ग्नी-सोमौ॑ । प॒र॒माम् । काष्ठा॑म् । अ॒ग॒च्छ॒ता॒म् । [30]  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -264,12 +278,10 @@ He furnished Agni and Soma with it, and by means of it Agni and Soma reached the
 परमेष्ठिनो वा इति। परमे पदे सत्यलोके तिष्ठतीति परमेष्ठी चतुर्मुखः। तस्य चाग्रे पूर्वस्मिन्कल्पे यजमानत्वेनावस्थितस्यैष यज्ञो दर्शपूर्णमासयज्ञः प्रवृत्तः। तेन चेश्वरार्पणबुद्ध्याऽनुष्ठितेन स यजमानः परमां काष्ठामिदं परमेष्ठित्वपदं प्राप्तवान्। प्रजापतिर्दक्षादिः। तं पूर्वस्मिञ्जन्मनि तेनोत्तमफलहेतुदर्शपूर्णमासोपदेशेन निरवासाययत्तोषितवाननुष्ठानाय प्रेरितवान्वा। 
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य [30] ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते  
-पर॒माम् ए॒व काष्ठा॑ङ् गच्छति ।
+य᳓ [30] एवव्ँ᳓ विद्वा᳓न् दर्शपूर्णमासौ᳓ य᳓जते  
+परमा᳓म् एव᳓ का᳓ष्ठाङ् गच्छति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -289,9 +301,6 @@ He who [2] knowing thus offers the new and full moon sacrifices reaches the supr
 प॒र॒माम् । ए॒व । काष्ठा॑म् । ग॒च्छ॒ति॒ ।
 </details>
 
-
-
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 या प्राणिनां सदा निरतिशयानन्द-निर्वृत्ति-दायिनी शाश्वती पुनर्जन्मच्छेदिनी सा परमा काष्ठा,  
@@ -303,40 +312,43 @@ He who [2] knowing thus offers the new and full moon sacrifices reaches the supr
 स च तस्मिञ्जन्मनि यजमानस्तेनानुष्ठानेन परमां काष्ठां दक्षत्वपदं प्राप्तवान्। एवमितरत्र योज्यम्। अत एव दर्शपूर्णमासयोः स्वर्गकामार्थत्वमाम्नातं मीमांसकैर्विचारितं च।  
 </details>
 
-
 ## द्वादशद्वन्द्वसम्पत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै प्रजा॑तेन य॒ज्ञेन॒ यज॑ते॒  
-प्र प्र॒जया॑ प॒शुभि॑र् मिथु॒नैर् जा॑यते ।
+यो᳓ वै᳓ प्र᳓जातेन यज्ञे᳓न य᳓जते  
+प्र᳓ प्रज᳓या पशु᳓भिर् मिथुनै᳓र् जायते ।
 </details>
+
 <details><summary>Keith</summary>
 
 He who sacrifices with an abundant offering is multiplied with offspring, with cattle, with pairings.
 </details>
+
 <details><summary>मूलम्</summary>
 
 यो वै प्रजा॑तेन य॒ज्ञेन॒ यज॑ते॒   
 प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"द्वाद॑श॒ मासाः॑ सव्ँवत्स॒रो,  
-द्वाद॑श द्व॒न्द्वानि॑ दर्शपूर्णमा॒सयो॒स्,  
-तानि॑ स॒म्पाद्या॒नी"त्य् आ॑हुः ।
+"द्वा᳓दश मा᳓साः सव्ँवत्सरो᳓,  
+द्वा᳓दश द्वन्द्वा᳓नि दर्शपूर्णमास᳓योस्,  
+ता᳓नि सम्पा᳓द्यानी᳓"त्य् आहुः ।
 </details>
+
 <details><summary>Keith</summary>
 
 'The year has twelve months,  
 there are twelve pairs of new and full moon sacrifices;  
 these are to be produced', they say.
 </details>
+
 <details><summary>मूलम्</summary>
 
 द्वाद॑श॒ मासाः॑ सव्ँवत्स॒रो   
 द्वाद॑श द्व॒न्द्वानि॑ दर्शपूर्णमा॒सयो॒स्तानि॑ स॒म्पाद्या॒नीत्या॑हुः ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -360,18 +372,21 @@ these are to be produced', they say.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒त्सञ् चो॑पावसृ॒जति॑  ।  
-उ॒खाञ् चाधि॑ श्रयति ।
+वत्स᳓ञ् चोपावसृज᳓ति  ।  
+उखा᳓ञ् चा᳓धि श्रयति ।
 </details>
+
 <details><summary>Keith</summary>
 
 He lets the calf go free and puts the pot on the fire: 
 </details>
+
 <details><summary>मूलम्</summary>
 
 व॒त्सञ्चो॑पावसृ॒जति॑  ।  
 उ॒खाञ्चाधि॑ श्रयति ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 व॒त्सम् । च॒ । उ॒पा॒व॒सृ॒जतीत्यु॑प-अ॒व॒सृ॒जति॑ ।   
@@ -393,14 +408,16 @@ He lets the calf go free and puts the pot on the fire:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव॑ च॒ हन्ति॑ ।
-दृ॒षदौ॑ च स॒माह॑न्ति ।  
+अ᳓व च ह᳓न्ति ।
+दृष᳓दौ च समा᳓हन्ति ।  
 </details>
+
 <details><summary>मूलम्</summary>
 
 अव॑ च॒ हन्ति॑ ।
 दृ॒षदौ॑ च स॒माह॑न्ति ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अवेति॑ । च॒ । हन्ति॑ ।  
@@ -411,6 +428,7 @@ He lets the calf go free and puts the pot on the fire:
 
 he puts down (the rice), and beats the millstones together; 
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अवहन्ति व्रीहीनुलूखले ।  
@@ -424,13 +442,15 @@ he puts down (the rice), and beats the millstones together;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अधि॑ च॒ वप॑ते ।  
-क॒पाला॑नि॒ चोप॑ दधाति ।  
+अ᳓धि च व᳓पते ।  
+कपा᳓लानि चो᳓प दधाति ।  
 </details>
+
 <details><summary>Keith</summary>
 
 he scatters (the grains) and collects the potsherds; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 अधि॑ च॒ वप॑ते ।  
@@ -456,13 +476,15 @@ he scatters (the grains) and collects the potsherds;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पु॒रो॒डाश॑ञ् च [31] +अ॒धि॒श्रय॑ति,  
-आज्य॑ञ्च  +++(अधिश्रयति)+++  ।  
+पुरोडा᳓शञ् च [31] +अधिश्र᳓यति᳓,  
+आ᳓ज्यञ्च  +++(अधिश्रयति)+++  ।  
 </details>
+
 <details><summary>Keith</summary>
 
 the cake [3] he puts on the fire and the melted butter; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 पु॒रो॒डाश॑ञ्च [31] +अ॒धि॒श्रय॑ति।  
@@ -488,18 +510,21 @@ the cake [3] he puts on the fire and the melted butter;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्त॒म्ब॒य॒जुश् च॒ हर॑ति ।
-+++(सतृणं पुरीषम्)+++ अ॒भि च॑ गृह्णाति ।  
+स्तम्बयजु᳓श् च ह᳓रति ।
++++(सतृणं पुरीषम्)+++ अभि᳓ च गृह्णाति ।  
 </details>
+
 <details><summary>Keith</summary>
 
 he throws the clump of grass, and gathers it in; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 स्त॒म्ब॒य॒जुश्च॒ हर॑ति ।
 अ॒भि च॑ गृह्णाति ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 स्त॒म्ब॒य॒जुरिति॑ स्तम्ब-य॒जुः । च॒ । हर॑ति ।  
@@ -519,14 +544,15 @@ he throws the clump of grass, and gathers it in;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वेदि॑ञ् च परिगृ॒ह्णाति॑ ।  
-पत्नी॑ञ् च॒ सन्न॑ह्यति ।   
+वे᳓दिञ् च परिगृह्णा᳓ति ।  
+प᳓त्नीञ् च स᳓न्नह्यति ।   
 </details>
 
 <details><summary>Keith</summary>
 
 he surrounds the Vedi and he girds the wife (of the sacrificer); 
 </details>
+
 <details><summary>मूलम्</summary>
 
 वेदि॑ञ्च परिगृ॒ह्णाति॑ ।  
@@ -538,6 +564,7 @@ he surrounds the Vedi and he girds the wife (of the sacrificer);
 वेदि॑म् । च॒ । प॒रि॒गृ॒ह्णातीति॑ परि-गृ॒ह्णाति॑ ।  
 पत्नी॑म् । च॒ । समिति॑ । न॒ह्य॒ति॒ ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 न्युप्तमञ्जलिनाग्नीध्रः वेदिं परिगृह्णाति ।    
@@ -552,18 +579,21 @@ he surrounds the Vedi and he girds the wife (of the sacrificer);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रोक्ष॑णीश् चाऽऽसा॒दय॑ति,  
-आज्य॑ञ् च ।
+प्रो᳓क्षणीश् चाऽऽसाद᳓यति᳓,  
+आ᳓ज्यञ् च ।
 </details>
+
 <details><summary>Keith</summary>
 
 he puts in place the anointing waters and the melted butter. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्रोक्ष॑णीश्चाऽऽसा॒दय॑ति ।  
 आज्य॑ञ्च  +++(अवसादयति)+++  ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 प्रोक्ष॑णी॒रिति॑ प्र-उक्ष॑णीः । च॒ । आ॒सा॒दय॒तीत्या॑-सा॒दय॑ति ।   
@@ -583,27 +613,32 @@ he puts in place the anointing waters and the melted butter.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तानि॒ वै द्वाद॑श द्व॒न्द्वानि॑ - दर्शपूर्णमा॒सयो॒स् तानि॑  ।
+एता᳓नि वै᳓ द्वा᳓दश द्वन्द्वा᳓नि - दर्शपूर्णमास᳓योस् ता᳓नि  ।
 </details>
+
 <details><summary>Keith</summary>
 
 These are the twelve pairs in the new and full moon sacrifices.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ए॒तानि॒ वै द्वाद॑श द्व॒न्द्वानि॑ दर्शपूर्णमा॒सयो॒स्तानि॑  ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वँ स॒म्पाद्य॒ यज॑ते॒  
-प्रजा॑तेनै॒व य॒ज्ञेन॑ यजते ।  
-प्र प्र॒जया॑ प॒शुभि॑र् मिथु॒नैर् जा॑यते ॥ [32]
+य᳓ एवँ᳓ सम्पा᳓द्य य᳓जते  
+प्र᳓जातेनैव᳓ यज्ञे᳓न यजते ।  
+प्र᳓ प्रज᳓या पशु᳓भिर् मिथुनै᳓र् जायते ॥ [32]
 </details>
+
 <details><summary>Keith</summary>
 
 He, who thus sacrifices with these, sacrifices with an abundant offering and is multiplied with offspring,  
 with cattle, with pairings.
 </details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वँ स॒म्पाद्य॒ यज॑ते ।  

@@ -1,6 +1,5 @@
 +++
 title = "०५ गर्गत्रिरात्रविधिः"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -21,7 +20,7 @@ title = "०५ गर्गत्रिरात्रविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आपो॒ वा इ॒दम् अग्रे॑ सलि॒लम् आ॑सी॒त् ।  
+आ᳓पो वा᳓ इद᳓म् अ᳓ग्रे सलिल᳓म् आसीत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -45,7 +44,7 @@ This was in the beginning the waters, the ocean.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मि॑न् प्र॒जाप॑तिर् वा॒युर् भू॒त्वा ऽच॑रत्।  
+त᳓स्मिन् प्रजा᳓पतिर् वायु᳓र् भूत्वा᳓ ऽचरत्।  
 </details>
 
 <details><summary>Keith</summary>
@@ -70,7 +69,7 @@ In it Prajapati becoming the wind moved.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स इ॒माम् +++(पृथिवीं)+++ अ॑पश्यत् ।
+स᳓ इमा᳓म् +++(पृथिवीं)+++ अपश्यत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -110,7 +109,7 @@ He saw her, and becoming a boar he seized her.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव्ँ वि॒श्वक॑र्मा भू॒त्वा व्य॑मार्ट्+++(=विस्तारितवान्)+++ ।  
+ताव्ँ᳓ विश्व᳓कर्मा भूत्वा᳓ व्यमार्ट्+++(=विस्तारितवान्)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -135,9 +134,9 @@ Her, becoming Viśvakarma, he wiped.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा ऽप्र॑थत+++(=विस्तीर्णाऽभवत्)+++।   
-सा पृ॑थि॒व्य् अ॑भवत्।   
-तत्पृ॑थि॒व्यै पृ॑थिवि॒त्वम् ।
+सा᳓ ऽप्रथत+++(=विस्तीर्णाऽभवत्)+++।   
+सा᳓ पृथिव्य् अ᳙भवत्।   
+त᳓त्पृथिव्यै᳓ पृथिवित्व᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -167,7 +166,7 @@ She extended, she became the earth, and hence the earth is called the earth (lit
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्या॑म् अश्राम्यत् प्र॒जाप॑तिः ।  
+त᳓स्याम् अश्राम्यत् प्रजा᳓पतिः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -192,7 +191,7 @@ In her Prajapati made effort.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स दे॒वान् अ॑सृजत, वसू॑न् रु॒द्रान् आ॑दि॒त्यान् ।  
+स᳓ देवा᳓न् असृ᳓ज᳓त᳓, व᳓सून् रुद्रा᳓न् आदित्या᳓न् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -217,7 +216,7 @@ He produced the gods, Vasus, Rudras, and Adityas.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वाᳶ प्र॒जाप॑तिम् अब्रुवन्- प्र जा॑यामहा॒ इति॑  [14] ।  
+ते᳓ देवाᳶ᳓ प्रजा᳓पति᳓म् अ᳓ब्रु᳓व᳓न्- प्र᳓ जायामहा इ᳓ति  [14] ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -243,7 +242,7 @@ The gods said to Prajapati, 'Let us have offspring.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ऽब्रवीत्- यथा॒हय्ँ यु॒ष्माँस् तप॒सासृ॑क्षि, ए॒वन् तप॑सि प्र॒जन॑नम् इच्छध्व॒म् इति॑ ।
+सो᳓ऽब्रवीत्- यथाहय्ँ᳓ युष्माँ᳓स् त᳓पसा᳓सृक्षि, एव᳓न् त᳓पसि प्रज᳓ननम् इच्छध्वम् इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -270,7 +269,7 @@ He said [1], 'As I have created you by penance,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒वन् तप॑सि प्र॒जन॑नम् इच्छध्व॒म् इति॑ ।
+एव᳓न् त᳓पसि प्रज᳓ननम् इच्छध्वम् इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -298,7 +297,7 @@ so seek ye offspring in penance.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेभ्यो॒ +++(औपासनाख्यम्)+++ ऽग्निम् +++(तप)+++आ॒यत॑न॒म् प्राय॑च्छद्- "एतेना॒यत॑नेन श्राम्यत" इति॑।
+ते᳓भ्यो +++(औपासनाख्यम्)+++ ऽग्नि᳓म् +++(तप)+++आय᳓तनम् प्रा᳓यच्छद्- "एतेनाय᳓तने᳓न᳓ श्रा᳓म्य᳓त᳓" इ᳓ति।
 </details>
 
 <details><summary>Keith</summary>
@@ -311,7 +310,7 @@ He gave to them Agni as a support, saying, 'Strive with that support.'
 तेभ्यो॒ऽग्निम् आ॒यत॑न॒म् प्राय॑च्छत् । "ए॒तेना॒यत॑नेन श्राम्य॒ते"ति॑ ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>ते॑ऽग्निना॒ ऽऽयत॑नेना ऽश्राम्य॒न्।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>ते᳓ऽग्निना ऽऽय᳓तनेना ऽश्राम्यन्।</details>
 
 <details><summary>Keith</summary>
 
@@ -338,7 +337,7 @@ They strove with Agni as a support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते सव्ँ॑वत्स॒र एका॒ङ् गाम् अ॑सृजन्त ।  
+ते᳓ सव्ँवत्सर᳓ ए᳓काङ् गा᳓म् असृजन्त ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -363,8 +362,8 @@ After a year they produced one cow.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव्ँ वसु॑भ्यो रु॒द्रेभ्य॑ आदि॒त्येभ्य॒ᳶ प्राय॑च्छन्न् -  
-ए॒ताँ र॑क्षध्व॒म् इति॑ ।  
+ताव्ँ᳓ व᳓सुभ्यो रुद्रे᳓भ्य आदित्ये᳓भ्यᳶ प्रा᳓यच्छन्न् -  
+एताँ᳓ रक्षध्वम् इ᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -391,7 +390,7 @@ They gave it to the Vasus, Rudras, and Adityas, saying 'Guard it.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव्ँ वस॑वो रु॒द्रा आ॑दि॒त्या अ॑रक्षन्त।
+ताव्ँ᳓ व᳓सवो रुद्रा᳓ आदित्या᳓ अरक्षन्त।
 </details>
 
 <details><summary>Keith</summary>
@@ -416,8 +415,8 @@ The Vasus, Rudras, and Adityas guarded it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा वसु॑भ्यो रु॒द्रेभ्य॑ आदि॒त्येभ्य॒ᳶ प्राजा॑यत -  
-त्रीणि॑ च श॒तानि॒ त्रय॑स्त्रिँशत॒ञ् च +++(३३३)+++।
+सा᳓ व᳓सुभ्यो रुद्रे᳓भ्य आदित्ये᳓भ्यᳶ प्रा᳓जाय᳓त᳓ -  
+त्री᳓णि च शता᳓नि त्र᳓यस्त्रिँशतञ् च᳓ +++(३३३)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -459,7 +458,7 @@ It produced for the Vasus, Rudras, and Adityas (each) three hundred and thirty-t
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(एवं वसुरुद्रादित्यानां संभूय एकोनसहस्रं गावोऽभवन् ।)+++  
-अथ॒ सैव स॑हस्रत॒म्य् अ॑भवत् ।
+अ᳓थ सै᳓व᳓ सहस्रतम्य् अ᳙भवत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -486,7 +485,7 @@ Thus she became the thousandth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वाᳶ प्र॒जाप॑तिम् अब्रुवन् - स॒हस्रे॑ण नो याज॒येति।  
+ते᳓ देवाᳶ᳓ प्रजा᳓पतिम् अब्रुवन् - सह᳓स्रेण नो याजये᳓ति᳓।  
 </details>
 
 <details><summary>Keith</summary>
@@ -510,7 +509,7 @@ The gods said to Prajapati, 'Cause sacrifice to be made to us with a thousand.'
 4अथ देवाः प्रजापतिमब्रुवत् अनेन सहस्रेणास्मान्याजयेति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>सो॑ ऽग्निष्टो॒मेन॒ वसू॑न् अयाजयत्।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>सो᳓ ऽग्निष्टोमे᳓न व᳓सून् अयाजयत्।</details>
 
 <details><summary>Keith</summary>
 
@@ -524,7 +523,7 @@ He caused sacrifice to be made by the Vasus with the Agnistoma.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त इ॒मल्ँ लो॒कम् अ॑जयन् । तच् +++(३३३-गोधनं)+++ चा॑ददुः +++(दक्षिणाम्)+++।
+त᳓ इमल्ँ᳓ लोक᳓म् अजयन् । त᳓च् +++(३३३-गोधनं)+++ चाददुः +++(दक्षिणाम्)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -550,7 +549,7 @@ They won this world and gave (the thousandth).
 सोग्निष्टोमेन वसूनयाजयत् । ते वसव इमं लोकमजयन् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>स उ॒क्थ्ये॑न रु॒द्रान् अ॑याजयत् ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>स᳓ उक्थ्ये᳙न रुद्रा᳓न् अयाजयत् ।</details>
 
 <details><summary>Keith</summary>
 
@@ -564,7 +563,7 @@ He caused sacrifice to be made by the Rudras with the Ukthya.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽन्तरि॑क्षम् अजयन्। तच् +++(३३३-गोधनं)+++ चा॑ददुः।
+ते᳓ऽन्त᳓रिक्षम् अजयन्। त᳓च् +++(३३३-गोधनं)+++ चाददुः।
 </details>
 
 <details><summary>Keith</summary>
@@ -594,7 +593,7 @@ They won the atmosphere and gave (the thousand).
 [[TODO: include]]
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>सो॑ ऽतिरा॒त्रेणा॑ऽऽदि॒त्यान् अ॑याजयत्।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>सो᳓ ऽतिरात्रे᳓णाऽऽदित्या᳓न् अयाजयत्।</details>
 
 <details><summary>Keith</summary>
 
@@ -608,7 +607,7 @@ He caused sacrifice to be made by the Adityas with the Atiratra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽमुल्ँ लो॒कम् अ॑जय॒न्। तच् +++(३३३-गोधनं)+++ चा॑ददुः।
+ते᳓ऽमुल्ँ लोक᳓म् अजयन्। त᳓च् +++(३३३-गोधनं)+++ चाददुः।
 </details>
 
 <details><summary>Keith</summary>
@@ -632,7 +631,7 @@ They won yonder world, and gave (the thousand).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् अ॒न्तरि॑क्षम् व्यवै॑र्यत+++(→विशीर्णम् अधो ऽपतत्)+++।
+त᳓द् अन्त᳓रिक्ष᳓म् व्य᳓वैर्यत+++(→विशीर्णम् अधो ऽपतत्)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -657,7 +656,7 @@ Now the atmosphere [3] was broken.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् रु॒द्रा घातु॑काः। अ॒ना॒य॒त॒ना हि तस्मा॑द् आहुः।  
+त᳓स्माद् रुद्रा᳓ घा᳓तुकाः। अनायतना᳓ हि᳓ त᳓स्माद् आहुः।  
 </details>
 
 <details><summary>Keith</summary>
@@ -695,7 +694,7 @@ Therefore the Rudras are murderous, for they have no support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शिथि॒लव्ँ वै म॑ध्य॒मम् अह॑स् त्रिरा॒त्रस्य॒, +++(यतो)+++ वि हि तद् अ॒वैर्यत+++(→विशीर्णम् अभवत् फलस्य विशीर्णत्वात्)+++ ।
+शि᳓थिलव्ँ᳓ वै᳓ मध्यम᳓म् अ᳓हस् त्रिरात्र᳓स्य, +++(यतो)+++ वि᳓ हि᳓ त᳓द् अवै᳓र्य᳓त᳓+++(→विशीर्णम् अभवत् फलस्य विशीर्णत्वात्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -710,7 +709,7 @@ Therefore they say, 'The midmost day of the three-day night is not fixed; for it
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(अतस्)+++ त्रैष्टु॑भम् मध्य॒मस्याऽह्न॒ +++(होतृकृतहवनम्)+++ आज्य॑म् भवति ।
++++(अतस्)+++ त्रै᳓ष्टुभम् मध्यम᳓स्या᳓ऽह्न +++(होतृकृतहवनम्)+++ आ᳓ज्यम् भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -739,8 +738,8 @@ The Ajya (Śastra) of the midmost day is in the Tristubh metre.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सय्ँ॒याना॑नि सू॒क्तानि॑ शँसति +++(तेषां महत्त्वात्)+++।
-षोड॒शिनँ॑ +++(शस्त्रं)+++ शँस॒त्य् अह्नः॑, धृत्या॒ अशि॑थिलम्-भावाय।
+सय्ँया᳓नानि सूक्ता᳓नि शँसति +++(तेषां महत्त्वात्)+++।
+षो᳓डशि᳓नँ +++(शस्त्रं)+++ शँसत्य् अ᳓ह्नः, धृत्या अ᳓शिथिलम्-भावाय।
 </details>
 
 <details><summary>Keith</summary>
@@ -771,7 +770,7 @@ He recites the Samyana hymns, then recites the Sodaśin, that the day may be mad
 
 ### उपसंहारः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>तस्मा॑त् त्रिरा॒त्रस्या॑ग्निष्टो॒म ए॒व प्र॑थ॒ममह॑स् स्यात्, अथो॒क्थ्यो ऽथा॑तिरा॒त्रः, ए॒षाल्ँ लो॒कानाव्ँ॒ विधृ॑त्यै ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>त᳓स्मात् त्रिरात्र᳓स्याग्निष्टोम᳓ एव᳓ प्रथम᳓म᳓हस् स्यात्, अथोक्थ्यो᳓ ऽथातिरात्रः᳓, एषाल्ँ᳓ लोका᳓नाव्ँ वि᳓धृत्यै ।</details>
 
 <details><summary>Keith</summary>
 
@@ -786,7 +785,7 @@ Therefore in the three-night rite, the first day should be an Agnistoma, then an
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रीणि॑त्रीणि श॒तान्य् अ॑नूचीना॒हम्+++(=??)+++ अव्य॑वच्छिन्नानि ददाति, ए॒षाल्ँ लो॒काना॒मनु॒ सन्त॑त्यै। द॒शत॒न्+++(=दशवर्तम्)+++ न विच्छि॑न्द्याद्, वि॒राज॒न् नेद् वि॑च्छि॒नदा॒नीति॑  । +++(नाम दशभ्यो न्यूनं न दद्यात्।)+++
+त्री᳓णित्रीणि शता᳓न्य् अनूचीनाह᳓म्+++(=??)+++ अ᳓व्यवच्छिन्नानि ददाति, एषाल्ँ᳓ लोका᳓नाम᳓नु स᳓न्तत्यै। दश᳓तन्+++(=दशवर्तम्)+++ न᳓ वि᳓च्छिन्द्याद्, विरा᳓जन् ने᳓द् विच्छिन᳓दानी᳓ति  । +++(नाम दशभ्यो न्यूनं न दद्यात्।)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -837,8 +836,8 @@ On each day in succession he gives three hundred continuously [4], for the conti
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द॒शत॒न्न विच्छि॑न्द्यात् ।
-वि॒राज॒न् नेद्वि॑च्छि॒नदा॒नीति॑  ।
+दश᳓तन्न᳓ वि᳓च्छिन्द्यात् ।
+विरा᳓जन् ने᳓द्विच्छिन᳓दानी᳓ति  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -865,7 +864,7 @@ He should not break the decades lest he should thus destroy the Viraj.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॒ या स॑हस्रत॒म्यासी॒त् +++(गौः)+++, तस्या॒म् इन्द्र॑श् च॒ विष्णु॑श् च॒ व्याय॑च्छेताम् +++("ममेयम्" इति)+++।  
+अ᳓थ या᳓ सहस्रतम्या᳓सीत् +++(गौः)+++, त᳓स्याम् इ᳓न्द्रश् च वि᳓ष्णुश् च व्या᳓यच्छेताम् +++("ममेयम्" इति)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -887,11 +886,10 @@ Now for the thousandth Indra and Visnu strove.
 
 8अथ या सहस्रतमी गौरासीत् तस्यां तन्निमित्तं इद्रो विष्णुश्च व्यायच्छेतां ममेयं ममेयमिति विप्रतिपन्नावभवताम् । 'गतिर्गतौ' इति गतेरनुदात्तत्वम्, समासश्च पूर्ववत् ।
 </details>
- 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स इन्द्रो॑ऽमन्यत- "अ॒नया॒ वा इ॒दव्ँ विष्णु॑स् स॒हस्रव्ँ॑ वर्क्ष्यत+++(=वर्जयेत्→ वशीकरोति)+++" इति।
+स᳓ इ᳓न्द्रोऽमन्यत- "अन᳓या वा᳓ इदव्ँ᳓ वि᳓ष्णुस् सह᳓स्रव्ँ वर्क्ष्यत+++(=वर्जयेत्→ वशीकरोति)+++" इति।
 </details>
 
 <details><summary>Keith</summary>
@@ -906,7 +904,7 @@ Indra reflects, 'By this Visnu will appropriate all the thousand.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्या॑म् +++(भागौ)+++ अकल्पेता॒म् ।
+त᳓स्याम् +++(भागौ)+++ अकल्पेताम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -933,8 +931,8 @@ They made arrangement as to it,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्विभा॑ग॒ इन्द्रः॑,
-तृती॑ये॒  विष्णुः॑ +++(व्यवस्थितः)+++।
+द्वि᳓भाग इ᳓न्द्रः,
+तृ᳓तीये  वि᳓ष्णुः +++(व्यवस्थितः)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -959,7 +957,7 @@ Indra got two-thirds, Visnu the remaining third;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्वा ए॒षा ऽभ्यनू॑च्यते, "उ॒भा जि॑ग्यथु॒र्" इति॑ +++(ऋक्)+++।  
+त᳓द्वा᳓ एषा᳓ ऽभ्य᳓नूच्यते, "उभा᳓ जिग्यथुर्" इ᳓ति +++(ऋक्)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -986,7 +984,7 @@ verily the fact is recorded in the verse, 'Ye twain have conquered.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव्ँ वा ए॒ताम् अ॑च्छावा॒क ए॒व शँ॑सति । [18] 
+ताव्ँ᳓ वा᳓ एता᳓म् अच्छावाक᳓ एव᳓ शँसति । [18] 
 </details>
 
 <details><summary>Keith</summary>
@@ -1013,7 +1011,7 @@ It is the Achavaka [5] who recites this verse.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॒ या स॑हस्रत॒मी सा होत्रे॒ देयेति॒ होता॑रव्ँ॒ वा अ॒भ्यति॑रिच्यते।
+अ᳓थ या᳓ सहस्रतमी᳓ सा᳓ हो᳓त्रे दे᳓ये᳓ति हो᳓तारव्ँ वा᳓ अभ्य᳓तिरिच्यते।
 </details>
 
 <details><summary>Keith</summary>
@@ -1039,7 +1037,7 @@ Now (some say), 'The thousandth is to be given to the Hotr';
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अ॑ति॒रिच्य॑ते होता, ऽना॑प्तस्यापयि॒ता ।
+य᳓द् अतिरि᳓च्यते᳓ हो᳓ता᳓, ऽनाप्तस्यापयिता᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1065,7 +1063,7 @@ what is left over, is left over for the Hotr; the Hotr is the receiver of what h
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथा॑हुरुन्ने॒त्रे देयेति॑ ।
+अ᳓थाहुरुन्नेत्रे᳓ दे᳓ये᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1080,7 +1078,7 @@ Then others say, 'It is to be given to the Unnetr.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अति॑रिक्ता॒ वा ए॒षा स॒हस्र॑स्य । अति॑रिक्त उन्ने॒तर्त्विजा॑म् ।
+अ᳓तिरिक्ता वा᳓ एषा᳓ सह᳓स्रस्य । अ᳓तिरिक्त उन्नेत᳓र्त्वि᳓जाम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1107,7 +1105,7 @@ This is left over of the thousand, and the Unnetr is the one of the priests who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथा॑हु॒स् - सर्वे॑भ्यस् सद॒स्ये॑भ्यो॒ देयेति॑ ।  
+अ᳓थाहुस् - स᳓र्वेभ्यस् सदस्ये᳙भ्यो दे᳓ये᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1138,7 +1136,7 @@ Then some say, 'It is to be given to all those who have a place in the Sadas.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथा॑हुर् - उदा॒कृत्या॒+++(=उत्सर्जनार्हा)+++ सा +++(स्वामिरहिता स्वतन्त्रा)+++ वश॑ञ् चरे॒द् इति॑ ।
+अ᳓थाहुर् - उदाकृ᳓त्या+++(=उत्सर्जनार्हा)+++ सा᳓ +++(स्वामिरहिता स्वतन्त्रा)+++ व᳓शञ् चरेद् इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1164,8 +1162,8 @@ Then some say, 'It should be driven away and allowed to wander at will.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथा॑हुर् - ब्र॒ह्मणे॑ चा॒ग्नीधे॑ च॒ देयेति॑ [19],
-द्विभा॑गम्ब्र॒ह्मणे॒ तृती॑यम॒ग्नीधे॑,  
+अ᳓थाहुर् - ब्रह्म᳓णे चाग्नी᳓धे च दे᳓ये᳓ति [19],
+द्वि᳓भागम्ब्रह्म᳓णे तृ᳓तीयमग्नी᳓धे,  
 </details>
 
 <details><summary>Keith</summary>
@@ -1198,8 +1196,8 @@ Then some say, 'It is to be given to the Brahman and the Agnidh [6], two shares 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(यत)+++ ऐ॒न्द्रो वै ब्र॒ह्मा,  वै॒ष्ण॒वो॑ऽग्नीत्,
-यथै॒व ताव् अक॑ल्पेता॒मिति॑ ।
++++(यत)+++ ऐन्द्रो᳓ वै᳓ ब्रह्मा᳓,  वैष्णवो᳙ऽग्नीत्,
+यथैव᳓ ता᳓व् अ᳓कल्पेतामि᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1226,7 +1224,7 @@ For the Brahman is connected with Indra, the Agnidh with Visnu; (verily the divi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथा॑हु॒र्- या क॑ल्या॒णी ब॑हुरू॒पा सा देयेेति॑,  
+अ᳓थाहुर्- या᳓ कल्याणी᳓ बहुरूपा᳓ सा᳓ दे᳓ये्᳓ए᳓ति,  
 </details>
 
 <details><summary>Keith</summary>
@@ -1252,8 +1250,8 @@ Then some say, 'The one which is beautiful and of varied colour is the one to be
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथा॑हु॒र्- या द्वि॑रू॒पोभ॒यत॑-एनी॒+++(=शुक्ला)+++ सा देयेति॑,  
-+++(अन्यासां गवाम्)+++ स॒हस्र॑स्य॒ परि॑गृहीत्यै ।
+अ᳓थाहुर्- या᳓ द्विरूपो᳓भय᳓त-एनी+++(=शुक्ला)+++ सा᳓ दे᳓ये᳓ति,  
++++(अन्यासां गवाम्)+++ सह᳓स्रस्य प᳓रिगृहीत्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1286,7 +1284,7 @@ Then others say, 'The one which has two colours and on either side is spotted is
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्वा ए॒तथ् +++(कर्म)+++ स॒हस्र॒स्याऽय॑नम्+++(→लाभहेतुः)+++।  
+त᳓द्वा᳓ एत᳓थ् +++(कर्म)+++ सह᳓स्रस्या᳓ऽयनम्+++(→लाभहेतुः)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1306,7 +1304,7 @@ That indeed is the march of the thousand (sahásrasyáyana).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒हस्रँ॑ स्तो॒त्रीयाः॑ +++(नवत्यधिकशतमग्निष्टोमस्य, त्रिपञ्चाशदधिकं शतद्वयमुक्थ्यस्य, द्विचत्वारिंशदधिकानि चत्वारि शतान्यतिरात्रस्य, शेषं वैकृतं पञ्चदशाधिकं शतं च द्विरात्रे दर्शितम् ।)+++,  
+सह᳓स्रँ स्तोत्री᳓याः +++(नवत्यधिकशतमग्निष्टोमस्य, त्रिपञ्चाशदधिकं शतद्वयमुक्थ्यस्य, द्विचत्वारिंशदधिकानि चत्वारि शतान्यतिरात्रस्य, शेषं वैकृतं पञ्चदशाधिकं शतं च द्विरात्रे दर्शितम् ।)+++,  
 </details>
 
 <details><summary>Keith</summary>
@@ -1331,7 +1329,7 @@ There are a thousand Stotriyas,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒हस्र॒न् दक्षि॑णाः,  
+सह᳓स्रन् द᳓क्षिणाः,  
 </details>
 
 <details><summary>Keith</summary>
@@ -1356,7 +1354,7 @@ a thousand gifts (to the priests);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒हस्र॑-सम्मितस् सुव॒र्गो लो॒कः, सु॑व॒र्गस्य॑ लो॒कस्या॒भिजि॑त्यै ॥ [20]
+सह᳓स्र-सम्मितस् सुवर्गो᳓ लोकः᳓, सुवर्ग᳓स्य लोक᳓स्याभि᳓जित्यै ॥ [20]
 </details>
 
 <details><summary>Keith</summary>
@@ -1383,4 +1381,3 @@ the world of heaven is measured by a thousand; (verily it serves) for the winnin
 
 इति सप्तमे प्रथमे पञ्चमोनुवाकः ॥
 </details>
-

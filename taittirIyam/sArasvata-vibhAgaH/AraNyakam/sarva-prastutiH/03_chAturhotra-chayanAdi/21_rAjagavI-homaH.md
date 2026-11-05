@@ -1,14 +1,13 @@
 +++
 title = "२१ राजगवी-होमः"
-
 +++
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1ब्रह्ममेधे प्रेतस्य देहावयवानां स्वकारणोपसंहारे चित्तमित्यादि ।  परमेश्वरस्य प्रपञ्चाधिष्ठातृरूपाण्युच्यन्ते एते शरीरहोमाः इमां देवतां अनेन यजामीति ।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/37_rAjagavI_homaH">
-<details open><summary><h5>३७ राजगवी-होमः ...{Loading}...</h5></summary>
 
 विश्वेदेवा ऋषयः
 
@@ -199,6 +198,5 @@ him that slayest most quickly with the entrails.
 **शिङ्गीनिकोश्ये** शिञ्जनाधारः कोशाकारश् च स्थानविशेषो यत्र ।  
 शिञ्जनं नादः । घञि कुत्वे मत्वर्थीय ईकारः ।  
 निभृतः कोशो निकोशः । तयोर्भवौ **शिङ्गीनिकोश्यौ** मांसविशेषौ । 'भवेच्छन्दसि' इति यत् ॥
-</details>
 </details>
 </div>

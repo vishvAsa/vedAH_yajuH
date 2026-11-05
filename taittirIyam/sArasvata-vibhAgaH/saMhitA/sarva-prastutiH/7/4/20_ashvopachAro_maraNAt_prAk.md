@@ -1,12 +1,10 @@
 +++
 title = "२० अश्वोपचारो मरणात् प्राक्"
-
 +++
 ७ बृहती
 ८ उपरिष्ठाद् बृहती, अनुष्टुप् वा
 ९-११ गायत्री
 विश्वेदेवा ऋषयः
-
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -30,7 +28,7 @@ Bhuh!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भुव॒स्
+भु᳓वस्
 </details>
 
 <details><summary>Keith</summary>
@@ -45,7 +43,7 @@ Bhuvah!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुवः॑ ।
+सु᳓वः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -60,7 +58,7 @@ Svar!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वस॑वस् त्वाञ् जन्तु गाय॒त्रेण॒ छन्द॑सा ,
+व᳓सवस् त्वाञ् जन्तु गायत्रे᳓ण छ᳓न्दसा ,
 </details>
 
 <details><summary>Keith</summary>
@@ -75,7 +73,7 @@ Let the Vasus anoint thee with the Gayatri metre.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रु॒द्रास् त्वा॑ञ् जन्तु॒ त्रैष्टु॑भेन॒ छन्द॑सा,
+रुद्रा᳓स् त्वाञ् जन्तु त्रै᳓ष्टुभेन छ᳓न्दसा,
 </details>
 
 <details><summary>Keith</summary>
@@ -90,7 +88,7 @@ Let the Rudras anoint thee with the Tristubh metre.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऽऽदि॒त्यास् त्वा॑ञ् जन्तु॒ जाग॑तेन॒ छन्द॑सा॒ ।
+ऽऽदित्या᳓स् त्वाञ् जन्तु जा᳓गतेन छ᳓न्दसा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -120,8 +118,8 @@ Let the Adityas anoint thee with the Jagati metre.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् वातो॑ अ॒पो अग॑म॒द् इन्द्र॑स्य त॒नुव॑म् प्रि॒याम् ।  
-ए॒तँ स्तो॑तर् ए॒तेन॑ प॒था पुन॒रश्व॒म् आव॑र्तयासि नः ।
+य᳓द् वा᳓तो अपो᳓ अ᳓गमद् इ᳓न्द्रस्य तनु᳓वम् प्रिया᳓म् ।  
+एतँ᳓ स्तोतर् एते᳓न पथा᳓ पु᳓नर᳓श्वम् आ᳓वर्तयासि नः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -155,8 +153,8 @@ Bring back to us the horse.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-लाजीञ् (३), छाचीन् (३) , यशो॑ म॒माम् (4)।  
-य॒व्यायै॑ ग॒व्याया॑ ए॒तद् दे॑वा॒ अन्न॑म् अत्त + ऐ॒तद् अन्न॑म् अद्धि प्रजापते ।
+ला᳓जी᳓ञ् (३), छा᳓ची᳓न् (३) , य᳓शो ममा᳓म् (4)।  
+यव्या᳓यै गव्या᳓या एत᳓द् देवा अ᳓न्नम् अत्त + ऐत᳓द् अ᳓न्नम् अद्धि प्रजापते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -188,8 +186,8 @@ For barley, for milk, this food eat, O ye gods; this food eat, O Prajapati.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यु॒ञ्जन्ति॑ ब्र॒ध्नम् अ॑रु॒षञ् चर॑न्त॒म् परि॑ त॒स्थुषः॑ ।
-रोच॑न्ते रोच॒ना दि॒वि ।
+युञ्ज᳓न्ति ब्रध्न᳓म् अरुष᳓ञ् च᳓रन्तम् प᳓रि तस्थु᳓षः ।
+रो᳓चन्ते रोचना᳓ दिवि᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -217,8 +215,8 @@ The lights shine in the sky.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यु॒ञ्जन्त्य् अ॑स्य॒ काम्या॒ हरी॒ विप॑क्षसा॒ रथे॑ ।
-शोणा॑ धृ॒ष्णू नृ॒वाह॑सा ।
+युञ्ज᳓न्त्य् अस्य का᳓म्या ह᳓री वि᳓पक्षसा र᳓थे ।
+शो᳓णा धृष्णू᳓ नृवा᳓हसा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -246,7 +244,7 @@ Dark, strong, bearing heroes.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-के॒तुङ् कृ॒ण्वन्न् अ॑के॒तवे॒ पेशो॑ मर्या अपे॒शसे॑ । समु॒षद्भि॑र् अजायथाः ॥ [51]  
+केतु᳓ङ् कृण्व᳓न्न् अकेत᳓वे पे᳓शो मर्या अपेश᳓से । स᳓मुष᳓द्भिर् अजायथाः ॥ [51]  
 </details>
 
 <details><summary>Keith</summary>

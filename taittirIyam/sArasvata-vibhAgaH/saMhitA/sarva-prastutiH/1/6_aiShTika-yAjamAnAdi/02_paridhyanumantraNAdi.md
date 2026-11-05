@@ -22,9 +22,9 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वो॑ऽसि ।  
-ध्रु॒वो॒॑ऽहँ स॑जा॒तेषु॑ भूयास॒न्  
-धीर॒श् चेत्ता॑ वसु॒वित्। 
+ध्रुवो᳙ऽसि ।  
+ध्रुवो᳓ऽहँ᳓ सजाते᳓षु भूयासन्  
+धी᳓रश् चे᳓त्ता वसुवि᳓त्। 
 </details>
 
 <details><summary>Keith</summary>
@@ -70,9 +70,9 @@ Thou art secure; may I be secure among my equals, wise, a guardian, a granter of
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒ग्रो॑ऽस्य् -  
-उ॒ग्रो॒॑ ऽहँ स॑जा॒तेषु॑ भूयासम्,  
-उ॒ग्रश् चेत्ता॑ वसु॒वित् ।
+उग्रो᳙ऽस्य् -  
+उग्रो᳓ ऽहँ᳓ सजाते᳓षु भूयासम्,  
+उग्र᳓श् चे᳓त्ता वसुवि᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -109,8 +109,8 @@ Thou art dread; may I be dread among my equals, dread, a guardian, a granter of 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भि॒भूर् अ॑सि ।  
-अ॒भि॒भूर् अ॒हँ स॑जा॒तेषु॑ भूयास॒म् - अ॒भि॒भूश् चेत्ता॑ वसु॒वित्।
+अभिभू᳓र् असि ।  
+अभिभू᳓र् अहँ᳓ सजाते᳓षु भूयासम् - अभिभू᳓श् चे᳓त्ता वसुवि᳓त्।
 </details>
 
 <details><summary>Keith</summary>
@@ -151,8 +151,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यु॒नज्मि॑ त्वा॒ ब्रह्म॑णा॒ दैव्ये॑न  
-ह॒व्याया॒स्मै वोढ॒वे जा॑तवेदः ।
+युन᳓ज्मि त्वा ब्र᳓ह्मणा दै᳓व्येन  
+हव्या᳓यास्मै᳓ वो᳓ढवे᳓ जातवेदः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -190,8 +190,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्धा॑नास् त्वा सुप्र॒जस॑स् सु॒वीरा॒  
-ज्योग् जी॑वेम बलि॒-हृतो॑ व॒यन् ते॑  ॥
+इ᳓न्धानास् त्वा सुप्रज᳓सस् सुवी᳓रा  
+ज्यो᳓ग् जीवेम बलि-हृ᳓तो वय᳓न् ते  ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -229,20 +229,17 @@ _______
 6हवींष्यासन्नान्य् अभिमन्त्रयते - यन्मे अग्न इति त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/02_yan_me.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/02_yan_me.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-यन् मे॑ अग्ने अ॒स्य य॒ज्ञस्य॒ **रिष्या॑त्** [4]  
-यद् वा॒ **स्कन्दा॒द्** आज्य॑स्यो॒त वि॑ष्णो ।   
-तेन॑ **हन्मि** स॒पत्न॑न् दुर्मरा॒युम्  
-ऐन॑न् **दधामि॒** निर्ऋ॑त्या उ॒पस्थे॑ ।
+य᳓न् मे अग्ने अस्य᳓ यज्ञ᳓स्य **रि᳓ष्यात्** [4]  
+यद् वा **स्क᳓न्दाद्** आ᳓ज्यस्योत᳓ विष्णो ।   
+ते᳓न **हन्मि** सप᳓त्नन् दुर्मरायु᳓म्  
+ऐ᳓नन् **दधामि** नि᳓रृत्या उप᳓स्थे ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/02_yan_me.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/02_yan_me.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -277,7 +274,6 @@ I place him on the lap of destruction.
 हेऽग्नेऽस्य मम यज्ञस्य संबन्धि यद्बर्हिरादिकं रिष्यान्नश्येद्रक्षःप्रभृतिभिर्वि-नाशितं, आज्यस्योताऽऽज्यस्यापि संबन्धि यद्वा यदल्पं बिन्दुजातं जौहवादिकं स्कन्दादधः पतेत्, हे विष्णो व्यापक तेन नष्टेन स्कन्नेन च वैरिणं हन्मि। यः सपत्नो मारयितुमशक्य एनं दुर्भरायुं सपत्नं नित्याः पापदेवताया उपस्थ उत्सङ्ग आदधामि स्थापयामि।  
 </details>
 </details>
-
 </div>
 
 _______
@@ -288,7 +284,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूर् भुव॒स् सुवः॑ ।
+भू᳓र् भु᳓वस् सु᳓वः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -325,19 +321,16 @@ _______
 10इध्मम् अभ्याधीयमानम् अनुमन्त्रयते - उच्छुष्म इति पिपीलिकामध्यया त्रिपदया यजुरन्तयानुष्टुभा । 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-उच्छु॑ष्मो अग्ने॒ **यज॑मानायैधि॒**  
-नि+++(=न्यक्)+++-शु॑ष्मो अभि॒दास॑ते ।  
-अग्ने॒ **देवे॑द्ध॒ मन्व्-इ॑द्ध॒** मन्द्र॑-जिह्व॥+++(5)+++
+उ᳓च्छुष्मो अग्ने **य᳓जमानायैधि**  
+नि᳓+++(=न्यक्)+++-शुष्मो अभिदा᳓सते ।  
+अ᳓ग्ने **दे᳓वेद्ध म᳓न्व्-इद्ध** म᳓न्द्र-जिह्व॥+++(5)+++
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -373,14 +366,13 @@ O Agni, kindled by the gods, kindled by Manu, with sweet tongue,
 एतच्च पदद्वयं निविद्ब्राह्मणेन व्याख्यातम् - “देवेद्ध इत्याह देवा ह्येतमैन्धत मन्विद्ध इत्याह मनुर्ह्ये-तमुत्तरो देवेभ्य ऐन्ध” इति। मन्द्रजिह्व मन्द्रा हर्षहेतुर्जिह्वा यस्येति विग्रहः। 
 </details>
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अम॑र्त्यस्य ते होतर्  
-मू॒र्धन्न् **आ जि॑घर्मि**  
-रा॒यस्पोषा॑य सुप्रजा॒स्त्वाय॑ सु॒वीर्या॑य ।
+अ᳓मर्त्यस्य ते होतर्  
+मूर्ध᳓न्न् **आ᳓ जिघर्मि**  
+राय᳓स्पो᳓षाय सुप्रजास्त्वा᳓य सुवी᳓र्याय ।
 </details>
 
 <details><summary>Keith</summary>
@@ -425,8 +417,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मनो॑ऽसि प्राजाप॒त्यम्।  
-मन॑सा मा भू॒तेनाऽऽवि॑श ।
+म᳓नोऽसि प्राजापत्य᳓म्।  
+म᳓नसा मा भूते᳓ना᳓ऽऽविश ।
 </details>
 
 <details><summary>Keith</summary>
@@ -473,7 +465,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाग् अ॑स्यै॒न्द्री स॑पत्न॒-क्षय॑णी।  
+वा᳓ग् अस्यैन्द्री᳓ सपत्न-क्ष᳓यणी।  
 </details>
 
 <details><summary>Keith</summary>
@@ -507,7 +499,7 @@ Thou art speech, derived from Indra, destroying the foe [2];
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒चा मे॑न्द्रि॒येणाऽऽवि॑श ।
+वाचा᳓ मेन्द्रिये᳓णा᳓ऽऽविश ।
 </details>
 
 <details><summary>Keith</summary>
@@ -549,7 +541,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒स॒न्तम् ऋ॑तू॒नाम् प्री॑णामि॒  - स मा॑ प्री॒तᳶ प्री॑णातु।   
+वसन्त᳓म् ऋतूना᳓म् प्रीणामि  - स᳓ मा प्रीतᳶ᳓ प्रीणातु।   
 </details>
 
 <details><summary>Keith</summary>
@@ -600,8 +592,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ग्री॒ष्मम् ऋ॑तू॒नाम् प्री॑णामि ।  
-स मा॑ प्री॒तᳶ प्री॑णातु ।
+ग्रीष्म᳓म् ऋतूना᳓म् प्रीणामि ।  
+स᳓ मा प्रीतᳶ᳓ प्रीणातु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -636,8 +628,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒र्षा ऋ॑तू॒नाम् प्री॑णामि।   
-ता मा॑ प्री॒ताᳶ प्री॑णन्तु ।
+वर्षा᳓ ऋतूना᳓म् प्रीणामि।   
+ता᳓ मा प्रीताᳶ᳓ प्रीणन्तु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -676,8 +668,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श॒रद॑म् ऋतू॒नाम् प्री॑णामि ।  
-सा मा॑ प्री॒ता प्री॑णातु ।
+शर᳓दम् ऋतूना᳓म् प्रीणामि ।  
+सा᳓ मा प्रीता᳓ प्रीणातु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -716,8 +708,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हे॒म॒न्त॒-शि॒शि॒राव् ऋ॑तू॒नाम् प्री॑णामि ।   
-तौ मा॑ प्री॒तौ प्री॑णीताम् ।
+हेमन्त-शिशिरा᳓व् ऋतूना᳓म् प्रीणामि ।   
+तौ᳓ मा प्रीतौ᳓ प्रीणीताम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -752,7 +744,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नीषोम॑योर् अ॒हन् दे॑व-य॒ज्यया॒ चक्षु॑ष्मान् भूयासम्।
+अग्नी᳓षो᳓मयोर् अह᳓न् देव-यज्य᳓या च᳓क्षुष्मान् भूयासम्।
 </details>
 
 <details><summary>Keith</summary>
@@ -790,7 +782,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेर् अ॒हन् दे॑वय॒ज्यया॑न्ना॒दो भू॑यासम् [6] ।
+अग्ने᳓र् अह᳓न् देवयज्य᳓यान्नादो᳓ भूयासम् [6] ।
 </details>
 
 <details><summary>Keith</summary>
@@ -835,9 +827,9 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दब्धि॑र् असि  ।  
-अद॑ब्धो भूयासम् ।  
-अ॒मुन् द॑भेयम् ।+++(5)+++
+द᳓ब्धिर् असि  ।  
+अ᳓दब्धो भूयासम् ।  
+अमु᳓न् दभेयम् ।+++(5)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -882,7 +874,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नीषोम॑योर् अ॒हन् दे॑वय॒ज्यया॑ वृत्र॒हा भू॑यासम् ।
+अग्नी᳓षो᳓मयोर् अह᳓न् देवयज्य᳓या वृत्रहा᳓ भूयासम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -921,7 +913,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒न्द्रा॒ग्नि॒योर् अ॒हन् दे॑व-य॒ज्यये॑न्द्रिया॒व्य् अ॑न्ना॒दो भू॑यासम् ।
+इन्द्राग्नियो᳓र् अह᳓न् देव-यज्य᳓येन्द्रियाव्य् अ᳙न्नादो᳓ भूयासम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -964,7 +956,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्या॒हन् दे॑वय॒ज्यये॑न्द्रिया॒वी भू॑यासम् ।
+इ᳓न्द्रस्याह᳓न् देवयज्य᳓येन्द्रियावी᳓ भूयासम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1003,7 +995,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒हे॒न्द्रस्या॒हन् दे॑वय॒ज्यया॑ जे॒मान॑म् महि॒मान॑ङ् गमेयम् ।
+महेन्द्र᳓स्याह᳓न् देवयज्य᳓या जेमा᳓नम् महिमा᳓नङ् गमेयम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1041,8 +1033,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेस् स्वि॑ष्ट॒कृतो॒ ऽहन् दे॑वय॒ज्यया  
-ऽऽयु॑ष्मान् य॒ज्ञेन॑ प्रति॒ष्ठाङ् ग॑मेयम् ॥ [7]
+अग्ने᳓स् स्विष्टकृ᳓तो ऽह᳓न् देवयज्य᳓या᳓  
+ऽऽयुष्मान् यज्ञे᳓न प्रतिष्ठा᳓ङ् गमेयम् ॥ [7]
 </details>
 
 <details><summary>Keith</summary>

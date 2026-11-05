@@ -10,8 +10,7 @@ unicode_script: devanagari
 1पर्यग्निकरणे मैत्रावरुणः प्रेषितो ब्रवीति - अग्निर्होता न इति ॥
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/015/01_agnirhotA_no.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/015/01_agnirhotA_no.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 **अग्नि᳓र्** हो᳓ता नो अध्वरे᳓  
@@ -19,11 +18,17 @@ unicode_script: devanagari
 देवो᳓ देवे᳓षु यज्ञि᳓यः ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/015/01_agnirhotA_no.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/015/01_agnirhotA_no.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+अ॒ग्निर्होता॑ नो अध्व॒रे वा॒जी सन्परि॑ णीयते ।  
+दे॒वो दे॒वेषु॑ य॒ज्ञियः॑ ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/015/01_agnirhotA_no.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -299,14 +304,13 @@ Herumgeführt wird bei dem Fest als Priester Agni wie ein Ross, Der Gott bei Gö
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा अग्नी सूर्यरूपाने सर्व व्यवहारांना प्राप्त करवितो तसेच विद्वान संपूर्ण मनोरथांना प्राप्त करवितो. ॥ १ ॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परि॑त्रिवि॒ष्ट्य॑ध्व॒रम् ।  
-यात्य॒ग्नी र॒थीरि॑व ।  
-आ दे॒वेषु॒ प्रयो॒ दध॑त् ।   
+प᳓रित्रिविष्ट्य᳙ध्वर᳓म् ।  
+या᳓त्यग्नी᳓ रथी᳓रिव ।  
+आ᳓ देवे᳓षु प्र᳓यो द᳓धत् ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -323,9 +327,9 @@ Herumgeführt wird bei dem Fest als Priester Agni wie ein Ross, Der Gott bei Gö
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परि॒ वाज॑पतिᳵ क॒विः ।  
-अ॒ग्निर्ह॒व्यान्य॑क्रमीत् ।  
-दध॒द्रत्ना॑नि दा॒शुषे॑ ॥11॥  
+प᳓रि वा᳓जपतिᳵ कविः᳓ ।  
+अग्नि᳓र्हव्या᳓न्यक्रमीत् ।  
+द᳓धद्र᳓त्नानि दाशु᳓षे ॥11॥  
 </details>
 
 <details><summary>मूलम्</summary>

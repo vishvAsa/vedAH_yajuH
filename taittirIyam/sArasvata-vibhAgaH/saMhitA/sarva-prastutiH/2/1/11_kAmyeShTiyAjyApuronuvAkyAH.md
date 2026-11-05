@@ -1,6 +1,5 @@
 +++
 title = "११ काम्येष्टियाज्यापुरोनुवाक्याः"
-
 +++
 
 त्रिष्टुप् , ७ द्विपदा
@@ -11,7 +10,7 @@ title = "११ काम्येष्टियाज्यापुरोन�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रव्ँ॑वो वि॒श्वत॒स्परि ।
+इ᳓न्द्रव्ँवो विश्व᳓तस्प᳓रि᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -37,7 +36,7 @@ Indra on all sides.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॒न्नरः॑ ।
+इ᳓न्द्रन्न᳓रः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -62,7 +61,7 @@ On Indra men.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मरु॑तो॒ यद्ध॑ वो दि॒वः ।
+म᳓रुतो य᳓द्ध वो दिवः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -87,7 +86,7 @@ O Maruts, what time from the sky.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या व॒श्शर्म॑ ।
+या᳓ वश्श᳓र्म ।
 </details>
 
 <details><summary>Keith</summary>
@@ -115,8 +114,8 @@ The protection which ye.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भरे॒ष्विन्द्रँ॑ सु॒हवँ॑ हवामहेऽँहो॒मुचँ॑ सु॒कृत॒न्दैव्य॒ञ्जन॑म् ।   
-अ॒ग्निम्मि॒त्रव्ँ वरु॑णँ सा॒तये॒ भग॒न्द्यावा॑पृथि॒वी म॒रुत॑स्स्व॒स्तये॑ ।
+भ᳓रेष्वि᳓न्द्रँ सुह᳓वँ हवामहेऽँहोमु᳓चँ सुकृ᳓तन्दै᳓व्यञ्ज᳓नम् ।   
+अग्नि᳓म्मित्रव्ँ᳓ व᳓रुणँ सात᳓ये भ᳓गन्द्या᳓वापृथिवी᳓ मरु᳓तस्स्वस्त᳓ये ।
 </details>
 
 <details><summary>Keith</summary>
@@ -137,7 +136,7 @@ In contests we invoke Indra, swift to hear, The divine folk working good, freein
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒मत्तु॑ न॒ᳶ परि॑ज्मा वस॒र्हा म॒मत्तु॒ वातो॑ अ॒पाव्ँ वृष॑ण्वान् ।
+मम᳓त्तु नᳶ प᳓रिज्मा वसर्हा᳓ मम᳓त्तु वा᳓तो अपाव्ँ᳓ वृ᳓षण्वान् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -152,7 +151,7 @@ May the moving one who strikes at morning delight us;
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-शि॒शी॒तमि॑न्द्रापर्वता यु॒वन्न॒स्तन्नो॒ विश्वे॑ वरिवस्यन्तु दे॒वाः ।
+शिशीत᳓मिन्द्रापर्वता युव᳓न्नस्त᳓न्नो वि᳓श्वे वरिवस्यन्तु देवाः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -172,7 +171,7 @@ Indra and Parvata quicken us;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रि॒या वो॒ नाम॑ (60)  हु॒वे॒ तु॒राणा॑म् ।  
+प्रिया᳓ वो ना᳓म (60)  हुवे तुरा᳓णाम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -192,7 +191,7 @@ I hail the dear names [1] of yon impetuous ones,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आयत्तृ॒पन् म॑रुतो वावशा॒नाः ।
+आ᳓य᳓त्तृप᳓न् मरुतो वावशानाः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -212,7 +211,7 @@ That, O Maruts, calling they may rejoice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रि॒यसे॒ कम्भा॒नुभि॒स्सम्मि॑मिक्षिरे॒ ... ते र॒श्मिभि॒स्त ऋक्व॑भिस्सुखा॒दयः॑ ।
+श्रिय᳓से क᳓म्भानु᳓भिस्स᳓म्मिमिक्षिरे ... ते᳓ रश्मि᳓भिस्त᳓ ऋ᳓क्वभिस्सुखाद᳓यः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -227,7 +226,7 @@ For glory they are wreathed in flames, In the rays (of the sun), adorned with ri
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते वाशी॑मन्त इ॒ष्मिणो॒ अभी॑रवो .. वि॒द्रे प्रि॒यस्य॒ मारु॑तस्य॒ धाम्नः॑ ।
+ते᳓ वा᳓शीमन्त इष्मि᳓णो अ᳓भीरवो .. विद्रे᳓ प्रिय᳓स्य मा᳓रुतस्य धा᳓म्नः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -247,7 +246,7 @@ They wearing daggers, impetuous, fearless, Here found the dear home of the Marut
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निᳶ प्र॑थ॒मो वसु॑भिर्नो अव्या॒त्सोमो॑ रु॒द्रेभि॑र॒भिर॑क्षतु॒ त्मना॑ ।
+अग्निᳶ᳓ प्रथमो᳓ व᳓सुभिर्नो अव्यात्सो᳓मो रुद्रे᳓भिरभि᳓रक्षतु त्म᳓ना ।
 </details>
 
 <details><summary>Keith</summary>
@@ -262,7 +261,7 @@ First let Agni with the Vasus aid us;
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो॑ म॒रुद्भि॑र्ऋतु॒धा कृ॑णोत्वादि॒त्यैर्नो॒ वरु॑ण॒स्सँशि॑शातु ।
+इ᳓न्द्रो मरु᳓द्भिरृतुधा᳓ कृणोत्वादित्यै᳓र्नो व᳓रुणस्सँ᳓शिशातु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -283,8 +282,8 @@ Let Indra with the Maruts act in due course;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सन्नो॑ दे॒वो वसु॑भिर॒ग्निस्सम् (61)  सोम॑स्त॒नूभी॑ रु॒द्रिया॑भिः ।  
-समिन्द्रो॑ म॒रुद्भि॑र्य॒ज्ञियै॒स्समा॑दि॒त्यैर्नो॒ वरु॑णो अजिज्ञिपत् ।
+स᳓न्नो देवो᳓ व᳓सुभिरग्नि᳓स्स᳓म् (61)  सो᳓मस्तनू᳓भी रुद्रि᳓याभिः ।  
+स᳓मि᳓न्द्रो मरु᳓द्भिर्यज्ञि᳓यैस्स᳓मादित्यै᳓र्नो व᳓रुणो अजिज्ञिपत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -305,7 +304,7 @@ God Agni with the Vasus [2], Soma with the dread forms, Indra with the Maruts, w
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा॑ऽऽदि॒त्या वसु॑भिस्सम्बभू॒वुर्म॒रुद्भी॑ रु॒द्रास्स॒मजा॑नता॒भि ।
+य᳓थाऽऽदित्या᳓ व᳓सुभिस्सम्बभूवु᳓र्मरु᳓द्भी रुद्रा᳓स्सम᳓जानताभि᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -320,7 +319,7 @@ As the Adityas are united with the Vasus, The Rudras with the Maruts, So, O thou
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒वा त्रि॑णाम॒न्नहृ॑णीयमाना॒ विश्वे॑ दे॒वास्सम॑नसो भवन्तु ।
+एवा᳓ त्रिणामन्न᳓हृणीयमाना वि᳓श्वे देवा᳓स्स᳓मनसो भवन्तु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -340,11 +339,11 @@ He in whose presence wheresoever Men rejoice in the dwellings of men, Whom in ho
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कुत्रा॑चि॒द्यस्य॒ समृ॑तौ र॒ण्वा नरो॑ नृ॒षद॑ने ।   
-अर्ह॑न्तश्चि॒द्यमि॑न्ध॒ते स॑ञ्ज॒नय॑न्ति ज॒न्तवः॑ ।   
+कु᳓त्राचिद्य᳓स्य स᳓मृतौ रण्वा᳓ न᳓रो नृष᳓दने ।   
+अ᳓र्हन्तश्चिद्य᳓मिन्धते᳓ सञ्जन᳓यन्ति जन्त᳓वः ।   
 
-सय्ँयदि॒षो वना॑महे॒ सँ ह॒व्या मानु॑षाणाम् ।
-उ॒त द्यु॒म्नस्य॒ शव॑सः (62) ऋ॒तस्य॑ र॒श्मिमाद॑दे ।
+सय्ँ᳓य᳓दिषो᳓ व᳓नामहे सँ᳓ हव्या᳓ मा᳓नुषाणाम् ।
+उत᳓ द्युम्न᳓स्य श᳓वसः (62) ऋत᳓स्य रश्मि᳓मा᳓ददे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -370,7 +369,7 @@ When we offer food, The oblations of men, He by the might of his glory [3], Gras
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञो दे॒वाना॒म्प्रत्ये॑ति सु॒म्नमादि॑त्यासो॒ भव॑ता मृड॒यन्तः॑ ।
+यज्ञो᳓ देवा᳓नाम्प्र᳓त्येति सुम्न᳓मा᳓दित्यासो भ᳓वता मृडय᳓न्तः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -385,7 +384,7 @@ The sacrifice seeketh the goodwill of the gods;
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-आवो॒ऽर्वाची॑ सुम॒तिर्व॑वृत्यादँ॒होश्चि॒द्या व॑रिवो॒वित्त॒राऽस॑त् ।
+आ᳓वोऽर्वा᳓ची सुमति᳓र्ववृत्यादँहो᳓श्चिद्या᳓ वरिवोवि᳓त्तरा᳓ऽसत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -413,7 +412,7 @@ Make your loving kindness turn (to us), Which shall more plenteously deliver us 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शुचि॑र॒पस्सू॒यव॑सा॒ अद॑ब्ध॒ उप॑क्षेति वृ॒द्धव॑यास्सु॒वीरः॑ ।
+शु᳓चिरप᳓स्सूय᳓वसा अ᳓दब्ध उ᳓पक्षेति वृद्ध᳓वयास्सुवी᳓रः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -428,7 +427,7 @@ Pure he dwelleth, undeceived, Among waters rich in grass, waxing old with noble 
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-नकि॒ष्टङ्घ्न॒न्त्यन्ति॑तो॒ न दू॒राद्य आ॑दि॒त्याना॒म्भव॑ति॒ प्रणी॑तौ ।
+न᳓किष्ट᳓ङ्घ्नन्त्य᳓न्तितो न᳓ दूरा᳓द्य᳓ आदित्या᳓नाम्भ᳓वति प्र᳓णीतौ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -448,8 +447,8 @@ None slayeth him from near or from afar, Who is in the guidance of the Adityas.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धा॒रय॑न्त आदि॒त्यासो॒ जग॒त्स्था दे॒वा विश्व॑स्य॒ भुव॑नस्य गो॒पाः ।   
-दी॒र्घाधि॑यो॒ रक्ष॑माणाः (63) अ॒सु॒र्य॑मृ॒तावा॑न॒श्चय॑माना ऋ॒णानि॑ ।
+धार᳓यन्त आदित्या᳓सो ज᳓गत्स्था᳓ देवा᳓ वि᳓श्वस्य भु᳓वनस्य गोपाः᳓ ।   
+दीर्घा᳓धियो र᳓क्षमाणाः (63) असुर्य᳙मृता᳓वानश्च᳓यमाना ऋणा᳓नि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -470,7 +469,7 @@ Ye Adityas support the world, Gods, guardians of all the universe, Far-seeing, g
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ति॒स्रो भूमी॑र्धारय॒न्त्रीँ रु॒त द्यून्त्रीणि॑ व्र॒ता वि॒दथे॑ अ॒न्तरे॑षाम् ।
+तिस्रो᳓ भू᳓मीर्धारयन्त्रीँ᳓ रुत᳓ द्यू᳓न्त्री᳓णि व्रता᳓ विद᳓थे अन्त᳓रेषाम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -485,7 +484,7 @@ Three earths they support, and three skies;
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒तेना॑दित्या॒ महि॑ वो महि॒त्वन्तद॑र्यमन्वरुण मित्र॒ चारु॑ ।
+ऋते᳓नादित्या म᳓हि वो महित्व᳓न्त᳓दर्यमन्वरुण मित्र चा᳓रु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -507,8 +506,8 @@ Through sacred law great is your mightiness, O Adityas;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्यान्नु क्ष॒त्रियाँ॒ अव॑ आदि॒त्यान् या॑चिषामहे ।   
-सु॒मृ॒डी॒काँ अ॒भिष्ट॑ये ।
+त्या᳓न्नु᳓ क्षत्रि᳓याँ अ᳓व आदित्या᳓न् याचिषामहे ।   
+सुमृडीकाँ᳓ अभि᳓ष्टये ।
 </details>
 
 <details><summary>Keith</summary>
@@ -529,7 +528,7 @@ Let us make supplication To those heroes, the Adityas, The tender, for help.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न द॑क्षि॒णा विचि॑किते॒ न स॒व्या न प्रा॒चीन॑मादित्या॒ नोत प॒श्चा ।
+न᳓ दक्षिणा᳓ वि᳓चिकिते न᳓ सव्या᳓ न᳓ प्राची᳓नमादित्या नो᳓त᳓ पश्चा᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -544,7 +543,7 @@ Nor right is visible, nor left;
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-पा॒क्या॑चिद्वसवो धी॒र्या॑चित् (64) यु॒ष्मानी॑तो॒ अभ॑य॒ञ्ज्योति॑रश्याम् ।
+पाक्या᳙चिद्वसवो धीर्या᳙चित् (64) युष्मा᳓नीतो अ᳓भयञ्ज्यो᳓तिरश्याम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -564,7 +563,7 @@ Despite my feeble mind, O Vasus [5], Led by you, may I attain the light without 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्याना॒मव॑सा॒ नूत॑नेन सक्षी॒महि॒ शर्म॑णा॒ शन्त॑मेन ।
+आदित्या᳓नाम᳓वसा नू᳓तनेन सक्षीम᳓हि श᳓र्मणा श᳓न्तमेन ।
 </details>
 
 <details><summary>Keith</summary>
@@ -579,7 +578,7 @@ With the most recent help of the Adityas, With their most present succour, may w
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ना॒गा॒स्त्वे अ॑दिति॒त्वे तु॒रास॑ इ॒मय्ँ य॒ज्ञन्द॑धतु॒ श्रोष॑माणाः ।
+अनागास्त्वे᳓ अदितित्वे᳓ तुरा᳓स इमय्ँ᳓ यज्ञ᳓न्दधतु श्रो᳓षमाणाः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -599,7 +598,7 @@ May the mighty ones, hearkening, establish this sacrifice For release from sin, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒मम्मे॑ वरुण श्रुधी॒ हव॑म॒द्या च॑ मृडय ।
+इम᳓म्मे वरुण श्रुधी ह᳓वमद्या᳓ च मृडय ।
 </details>
 
 <details><summary>Keith</summary>
@@ -614,7 +613,7 @@ Hear my cry, O Varuna, And be merciful this day;
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वाम॑व॒स्युराच॑के ।
+त्वा᳓मवस्यु᳓रा᳓चके ।
 </details>
 
 <details><summary>Keith</summary>
@@ -634,8 +633,8 @@ Seeking for help I call on thee.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्तदाशा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
-अहे॑डमानो वरुणे॒ह बो॒द्ध्युरु॑शँस॒ मा न॒ आयु॒ᳶ प्रमो॑षीः ॥ (65)  
+त᳓त्त्वा यामि ब्र᳓ह्मणा व᳓न्दमानस्त᳓दा᳓शास्ते य᳓जमानो हवि᳓र्भिः ।  
+अ᳓हेडमानो वरुणेह᳓ बोद्ध्यु᳓रुशँस मा᳓ न आ᳓युᳶ प्र᳓मोषीः ॥ (65)  
 </details>
 
 <details><summary>Keith</summary>

@@ -1,14 +1,12 @@
 ---
-title:  ०७ दोहनप्रकारो अग्निहोत्रसम्बन्धेन प्रशंसा 
+title: ०७ दोहनप्रकारो अग्निहोत्रसम्बन्धेन प्रशंसा
 unicode_script: devanagari
+
 ---
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(अ॒सौ ह्या॑दि॒त्यो॑ऽग्निहो॒त्रम् ॥49 ॥ अयं मन्त्रभागः पूर्वसञ्चिकातः अध्याहृतः ।  अस्य अत्रान्वयः अस्तिवेति सन्देहः )+++
-बृह॒स्पते॒रुन्नी॑तम् ।
++++(असौ᳓ ह्यादित्यो᳙ऽग्निहोत्र᳓म् ॥49 ॥ अ᳓यं᳓ म᳓न्त्र᳓भा᳓गः᳓ पू᳓र्व᳓स᳓ञ्चि᳓का᳓तः᳓ अ᳓ध्या᳓हृ᳓तः᳓ ।  अ᳓स्य᳓ अ᳓त्रा᳓न्व᳓यः᳓ अ᳓स्ति᳓वे᳓ति᳓ स᳓न्दे᳓हः᳓ )+++
+बृ᳓हस्प᳓तेरु᳓न्नीतम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -24,8 +22,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह॒स्पते॒रुन्नी॑तम् ।  
-वा॒य॒व्य॑मुप॑सृष्टम् ।  
+बृ᳓हस्प᳓तेरु᳓न्नीतम् ।  
+वायव्य᳙मु᳓पसृष्टम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -41,7 +39,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सौ॒म्यन्दु॒ग्धम् ।  
+सौम्य᳓न्दुग्ध᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -56,7 +54,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒रु॒णमधि॑श्रितम् ।
+वारुण᳓म᳓धिश्रितम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -71,7 +69,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वै॒श्व॒दे॒वा भि॒न्दवः॑ ।
+वैश्वदेवा᳓ भिन्द᳓वः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -86,8 +84,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पौ॒ष्णमुद॑न्तम् ।
-सा॒र॒स्व॒तव्ँ वि॒ष्यन्द॑मानम् ।
+पौष्ण᳓मु᳓दन्तम् ।
+सारस्वतव्ँ᳓ विष्य᳓न्दमानम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -103,7 +101,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पौ॒ष्णमुद॑न्तम् +++(अत्र मूले वा भाष्ये वा पूर्वापरीकारः सम्भाव्यते  )+++।
+पौष्ण᳓मु᳓दन्तम् +++(अत्र मूले वा भाष्ये वा पूर्वापरीकारः सम्भाव्यते  )+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -118,7 +116,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मै॒त्रँ शरः॑ ।
+मैत्रँ᳓ श᳓रः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -133,7 +131,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धा॒तुरुद्वा॑सितम् ।
+धातु᳓रु᳓द्वासितम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -148,7 +146,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह॒स्पते॒रुन्नी॑तम् ।
+बृ᳓हस्प᳓तेरु᳓न्नीतम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -163,9 +161,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒वि॒तुᳶ प्रक्रा॑न्तम् ।
-द्या॒वा॒पृ॒थि॒व्यँ॑ ह्रि॒यमा॑णम् ।
-ऐ॒न्द्रा॒ग्नमुप॑सन्नम् ।
+सवितुᳶ᳓ प्र᳓क्रान्तम् ।
+द्यावापृथिव्यँ᳙ ह्रिय᳓माणम् ।
+ऐन्द्राग्न᳓मु᳓पसन्नम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -182,7 +180,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्रा॒ग्नमुप॑सन्नम् +++(अत्र मूले वा भाष्ये वा पूर्वापरीकारः सम्भाव्यते  )+++।
+ऐन्द्राग्न᳓मु᳓पसन्नम् +++(अत्र मूले वा भाष्ये वा पूर्वापरीकारः सम्भाव्यते  )+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -197,7 +195,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒वि॒तुᳶ प्रक्रा॑न्तम् +++(अत्र मूले वा भाष्ये वा पूर्वापरीकारः सम्भाव्यते  )+++।
+सवितुᳶ᳓ प्र᳓क्रान्तम् +++(अत्र मूले वा भाष्ये वा पूर्वापरीकारः सम्भाव्यते  )+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -212,8 +210,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेᳶ पूर्वाऽऽहु॑तिः ।
-प्र॒जाप॑ते॒रुत्त॑रा ।
+अग्नेᳶ᳓ पू᳓र्वा᳓ऽऽहुतिः ।
+प्रजा᳓पतेरु᳓त्तरा ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -229,7 +227,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्रँ हु॒तम् ॥50॥  
+ऐन्द्रँ᳓ हुत᳓म् ॥50॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -244,4 +242,3 @@ unicode_script: devanagari
 इति तैत्तिरीयब्राह्मणे द्वितीयाष्टके प्रथमप्रपाठके सप्तमोऽनुवाकः ॥  
 
 </details>
-

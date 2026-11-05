@@ -28,7 +28,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(स्रुग्)+++ इ॒यन् ते॑ +++(हे)+++ शुक्र+++(=शुद्ध [हिरण्य])+++ त॒नूः ,
++++(स्रुग्)+++ इय᳓न् ते +++(हे)+++ शुक्र+++(=शुद्ध [हिरण्य])+++ तनूः᳓ ,
 </details>
 
 <details><summary>Keith</summary>
@@ -43,7 +43,7 @@ This is thy body, O pure one.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒दव्ँ वर्चः॑,
+इदव्ँ᳓ व᳓र्चः,
 </details>
 
 <details><summary>Keith</summary>
@@ -58,7 +58,7 @@ This is thy splendour.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तया॒ सम्भ॑व ।
+त᳓या स᳓म्भव ।
 </details>
 
 <details><summary>Keith</summary>
@@ -73,7 +73,7 @@ With it be united.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भ्राज॑ङ् गच्छ ।
+भ्रा᳓जङ् गच्छ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -173,7 +173,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जूर्+++(=गन्त्री [सोमक्रयणि वाग्-रूपे गौः])+++ अ॑सि, धृ॒ता मन॑सा, जुष्टा॒ विष्ण॑वे,
+जू᳓र्+++(=गन्त्री [सोमक्रयणि वाग्-रूपे गौः])+++ असि, धृता᳓ म᳓नसा, जुष्टा वि᳓ष्णवे,
 </details>
 
 <details><summary>Keith</summary>
@@ -190,9 +190,9 @@ Thou art the strong, grasped by mind, acceptable to Visnu.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(सोमक्रयोपरकरणी-भूताऽपि)+++ तस्या॑स् ते स॒त्यस॑वसᳶ +++(सवितुः)+++ प्रस॒वे+++(=अनुज्ञाने)+++  
-वा॒चो य॒न्त्रम्+++(=यमनम्)+++ अ॑शीय॒+++(=प्राप्नुयाम्)+++  
-स्वाहा॑ ।
++++(सोमक्रयोपरकरणी-भूताऽपि)+++ त᳓स्यास् ते सत्य᳓सवसᳶ +++(सवितुः)+++ प्रसवे᳓+++(=अनुज्ञाने)+++  
+वाचो᳓ यन्त्र᳓म्+++(=यमनम्)+++ अशीय+++(=प्राप्नुयाम्)+++  
+स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -259,9 +259,9 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शु॒क्रम्+++(=दीप्तिमान्)+++ अ॑सि ।  
-अमृत॑म् असि,  
-वैश्वदे॒वँ ह॒विः।
+शुक्र᳓म्+++(=दीप्तिमान्)+++ असि ।  
+अ᳓मृ᳓तम् असि,  
+वैश्वदेवँ᳓ हविः᳓।
 </details>
 
 <details><summary>Keith</summary>
@@ -315,21 +315,18 @@ ________
 इति।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/04_somakrayaNI-saMskArAdikam/02_sUryasya_chakhShur.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/04_somakrayaNI-saMskArAdikam/02_sUryasya_chakhShur.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-सूर्य॑स्य॒ चक्षु॒र् आ ऽरु॑हम्  
-अ॒ग्नेर् अ॒क्ष्णᳵ क॒नीनि॑काम्+++(=नेत्रगोलम्)+++ ।  
+सू᳓र्यस्य च᳓क्षुर् आ᳓ ऽरुहम्  
+अग्ने᳓र् अक्ष्णᳵ᳓ कनी᳓निकाम्+++(=नेत्रगोलम्)+++ ।  
 +++(तस्मिन् सति सूर्यस्याग्नेश्च पन्थानमारूढो रक्षोभिर्न बाध्यते । 'एष खलु वा अरक्षोहतः पन्थाः' इत्यादि ब्राह्मणम् ।  )+++
-+++(हे सूर्य!)+++ यद् एत॑शेभि॒र्+++(=भ्राजमद्भिर् [अश्वैः])+++ ईय॑से॒  
-भ्राज॑मानो विप॒श्चिता॑ +++(ऋषिगणेन, तस्य ते मण्डलम् आरुहम्)+++।
++++(हे सूर्य!)+++ य᳓द् ए᳓तशेभिर्+++(=भ्राजमद्भिर् [अश्वैः])+++ ई᳓यसे  
+भ्रा᳓जमानो विपश्चि᳓ता +++(ऋषिगणेन, तस्य ते मण्डलम् आरुहम्)+++।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/04_somakrayaNI-saMskArAdikam/02_sUryasya_chakhShur.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/04_somakrayaNI-saMskArAdikam/02_sUryasya_chakhShur.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -380,7 +377,6 @@ Blazing with the wise.
 काण्डे-काण्डे तत्तद्-उपाङ्ग-युक्त एकैकस्मिन् यज्ञाङ्गे।
 </details>
 </details>
-
 </div>
 
 ________
@@ -407,13 +403,13 @@ ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे सोमक्रयणि वाग्-रूपे।)+++  
-चिद् अ॑सि । +++('यद्धि मनसा चेतयते तद्वाचा वदति')+++   
-म॒नाऽसि॑ ।  
-धीर॑सि ।  
-दक्षि॑णा +++(=शीघ्रगामिनी)+++ ऽसि ।  
-य॒ज्ञिया॑ऽसि ।  
-क्ष॒त्रिया॑ ऽसि ।  
-अदि॑तिर् असि, उभ॒यत॑श् शीर्ष्णी+++(=उभयतश्शिरस्का [यज्ञानाम् आद्यन्तयोᳶ प्रधानभूतत्वात्])+++ ।  
+चि᳓द् असि । +++('यद्धि मनसा चेतयते तद्वाचा वदति')+++   
+मना᳓ऽसि ।  
+धी᳓रसि ।  
+द᳓क्षिणा +++(=शीघ्रगामिनी)+++ ऽसि ।  
+यज्ञि᳓याऽसि ।  
+क्षत्रि᳓या ऽसि ।  
+अ᳓दितिर् असि, उभय᳓तश् शीर्ष्णी+++(=उभयतश्शिरस्का [यज्ञानाम् आद्यन्तयोᳶ प्रधानभूतत्वात्])+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -505,7 +501,7 @@ thou art Aditi, double-headed.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा नः॑ +++(सोमक्रयणे)+++ सुप्रा॑ची॒ +++(ततः प्रत्यामननेन)+++ सुप्र॑तीची सम्भ॑व ।  
+सा᳓ नः +++(सोमक्रयणे)+++ सु᳓प्राची +++(ततः प्रत्यामननेन)+++ सु᳓प्रती᳓ची᳓ स᳓म्भव ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -531,7 +527,7 @@ Be thou successful for us in going, successful in returning.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रस् त्वा॑ प॒दि+++(=पादे)+++ ब॑ध्नातु ।  
+मित्र᳓स् त्वा पदि᳓+++(=पादे)+++ बध्नातु ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -569,7 +565,7 @@ May Mitra bind thee by the foot.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒षा ऽध्व॑नᳶ +++(भयहेतोः)+++ पातु ।  
+पूषा᳓ ऽध्वनᳶ +++(भयहेतोः)+++ पातु ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -599,7 +595,7 @@ May Pusan guard the ways.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॒याध्य॑क्षा॒यानु॑
+इ᳓न्द्राया᳓ध्यक्षाया᳓नु
 </details>
 
 <details><summary>Keith</summary>
@@ -614,7 +610,7 @@ For Indra, the overseer!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वा मा॒ता म॑न्यताम्, अनु॑+++(मन्यताम्)+++ पि॒ता, अनु॒+++(मन्यताम्)+++ भ्राता॒ सग॑र्भ्यः, अनु॒ +++(मन्यतां)+++ सखा॒ सयू॑थ्यः।
+त्वा᳓ माता᳓ मन्य᳓ता᳓म्, अ᳓नु+++(मन्यताम्)+++ पिता᳓, अ᳓नु+++(मन्यताम्)+++ भ्रा᳓ता स᳓गर्भ्यः, अनु +++(मन्यतां)+++ स᳓खा स᳓यूथ्यः।
 </details>
 
 <details><summary>Keith</summary>
@@ -652,7 +648,7 @@ May thy mother approve thee, thy father, thy brother sprung of the same womb, th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा दे॑वि दे॒वम् अच्छे॒हीन्द्रा॑य॒ सोम॑म् ।  
+सा᳓ देवि देव᳓म् अ᳓च्छेही᳓न्द्राय सो᳓मम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -682,7 +678,7 @@ Go, goddess, to the god, to Soma for Indra's sake.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रु॒द्रस् त्वा ऽऽव॑र्तयतु +++(कृतकृत्यानस्मान्प्रति)+++ मि॒त्रस्य॑ प॒था।  
+रुद्र᳓स् त्वा᳓ ऽऽवर्तयतु +++(कृतकृत्यानस्मान्प्रति)+++ मित्र᳓स्य पथा᳓।  
 </details>
 
 <details><summary>Keith</summary>
@@ -712,7 +708,7 @@ May Rudra guide thee hither in the path of Mitra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व॒स्ति सोम॑-सखा॒ पुन॒र् एहि॑ स॒ह र॒य्या ॥+++(5)+++
+स्वस्ति᳓ सो᳓म-सखा पु᳓नर् ए᳓हि सह᳓ रय्या᳓ ॥+++(5)+++
 </details>
 
 <details><summary>Keith</summary>

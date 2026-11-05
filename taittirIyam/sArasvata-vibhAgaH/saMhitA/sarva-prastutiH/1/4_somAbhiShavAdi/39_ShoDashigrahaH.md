@@ -8,7 +8,7 @@ _______
 1तस्मिन्नेव माध्यंदिनसवने गृह्णाति - इन्द्रमित्यनुष्टुभा ॥ 'सवने सवनेभि गृह्णाति' इत्यादि ब्राह्मणम्  । 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/02_indramiddharI_vahato_apratidhRShTashavasam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/02_indramiddharI_vahato_apratidhRShTashavasam.md">
 
 **इ᳓न्द्रम्** इ᳓द् **+ह᳓री वहतो᳓**  
 ऽप्रतिधृष्ट-शवसम् ।  
@@ -17,8 +17,15 @@ _______
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/02_indramiddharI_vahato_apratidhRShTashavasam.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/02_indramiddharI_vahato_apratidhRShTashavasam.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+इन्द्र॒मिद्धरी॑ वह॒तोऽप्र॑तिधृष्टशवसम् ।  
+ऋषी॑णां च स्तु॒तीरुप॑ य॒ज्ञं च॒ मानु॑षाणाम् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/02_indramiddharI_vahato_apratidhRShTashavasam.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -287,13 +294,11 @@ Den Indra fährt das Füchsepaar, ihn, dessen Kraft unhemmbar ist, Hin zu der S�
 
 भावार्थभाषाः -  ज्यांना प्रशंसा, सत्कार, अधिकार प्राप्त झालेले आहेत त्यांच्याशिवाय प्राण्यांना सुख मिळू शकत नाही व सत्क्रियेशिवाय चक्रवर्ती राज्य इत्यादीची प्राप्ती व रक्षण होऊ शकत नाही. या कारणामुळे सर्व माणसांनी हे अनुष्ठान केले पाहिजे. ॥ २ ॥
 </details>
-
 </div>  
 
 _______
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिन॑ ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥
@@ -307,7 +312,7 @@ _______
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -334,7 +339,7 @@ ________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य त्वा षो॒ड॒शिने॑   +++(ग्रहणमन्त्रः)+++  ।
+इ᳓न्द्राय त्वा षोडशि᳓ने   +++(ग्रहणमन्त्रः)+++  ।
 
 </details>
 
@@ -364,7 +369,7 @@ __________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++
+एष᳓ ते यो᳓निरि᳓न्द्राय त्वा षोडशि᳓ने ॥ [38]   +++(सादनमन्त्रः)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -376,7 +381,6 @@ This is thy birthplace; to Indra of the Sodaśin thee!
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++
 </details>
-
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>

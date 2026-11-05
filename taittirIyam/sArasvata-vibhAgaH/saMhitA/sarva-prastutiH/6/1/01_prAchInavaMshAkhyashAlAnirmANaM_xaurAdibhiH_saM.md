@@ -1,6 +1,5 @@
 +++
 title = "०१ प्राचीनवंशाख्यशालानिर्माणं क्षौरादिभिः संस्कृतस्य यजमानस्य तत्र प्रवेशविधानम्"
-
 +++
 सोमऋषिः
 
@@ -11,7 +10,7 @@ title = "०१ प्राचीनवंशाख्यशालानिर�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒चीन॑ - वँशङ् करोति ।
+प्राची᳓न - वँशङ् करोति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -41,8 +40,8 @@ He makes a hall with beams pointing east.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒व॒म॒नु॒ष्या दिशो॒ व्य॑भजन्त ।  
-प्राची॑न् दे॒वा , द॑क्षि॒णा पि॒तर॑ᳶ , प्र॒तीची॑म् मनु॒ष्या॑ , उदी॑चीँ रु॒द्राः +++( व्यभजन्त )+++ ।
+देवमनुष्या᳓ दि᳓शो व्य᳙भजन्त ।  
+प्रा᳓चीन् देवा᳓ , दक्षिणा᳓ पित᳓रᳶ , प्रती᳓चीम् मनुष्या᳙ , उ᳓दीचीँ रुद्राः᳓ +++( व्यभजन्त )+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -60,7 +59,6 @@ The gods and men divided the quarters, the gods (obtained) the eastern, the Pitr
 
 दे॒व॒म॒नु॒ष्या इति॑ देव-म॒नु॒ष्याः । दिशः॑ । वीति॑ । अ॒भ॒ज॒न्त॒ ।
 
-
 प्राची॑म् । दे॒वाः । द॒क्षि॒णा । पि॒तरः॑ । प्र॒तीची॑म् । म॒नु॒ष्याः॑ । उदी॑चीम् । रु॒द्राः । 
 </details>
 
@@ -76,7 +74,7 @@ The gods and men divided the quarters, the gods (obtained) the eastern, the Pitr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् प्रा॒चीन॑वँशङ् क॒रोति॑ , देवलो॒कम् ए॒व तद् यज॑मान उ॒पाव॑र्तते ।
+य᳓त् प्राची᳓नवँशङ् करो᳓ति , देवलोक᳓म् एव᳓ त᳓द् य᳓जमान उपा᳓वर्तते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -106,8 +104,8 @@ In that he makes a hall with beams pointing east, the sacrificer approaches the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परि॑ श्रयति ।
-अ॒न्तर्हि॑तो॒ हि दे॑वलो॒को म॑नुष्यलो॒कात् ।
+प᳓रि श्रयति ।
+अन्त᳓र्हितो हि᳓ देवलोको᳓ मनुष्यलोका᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -139,8 +137,8 @@ He covers it over, for the world of the gods is hidden from the world of men.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नास्माल् लो॒कात् स्वे॑तव्यम् इ॒वेत्या॑हुः ।  
-को हि तद्वेद॒ यदि॑ + अ॒मुष्मिल्ँ॑ लो॒केऽस्ति॑ वा॒ न वेति॑ ।
+ना᳓स्मा᳓ल् लोका᳓त् स्वेतव्यम् इवे᳓त्याहुः ।  
+को᳓ हि᳓ त᳓द्वे᳓द य᳓दि + अमु᳓ष्मिल्ँ लोके᳓ऽस्ति वा न᳓ वे᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -176,7 +174,7 @@ He covers it over, for the world of the gods is hidden from the world of men.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि॒क्ष्व् अ॑तीका॒शान् क॑रोत्य् उभयो॑र् लो॒कयो॑र् अ॒भिजि॑त्यै [1]।
+दिक्ष्व् अ᳙तीकाशा᳓न् करो᳓त्य् उ᳓भ᳓योर् लोक᳓योर् अभि᳓जित्यै [1]।
 </details>
 
 <details><summary>Keith</summary>
@@ -190,7 +188,6 @@ He makes at the corners apertures [1], for the winning of both worlds.
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 दि॒क्षु । अ॒ती॒का॒शान् । क॒रो॒ति॒ । [1]  
 
@@ -209,7 +206,7 @@ He makes at the corners apertures [1], for the winning of both worlds.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-के॒श॒श्म॒श्रु व॑पते , न॒खानि॒ नि कृ॑न्तते ।
+केशश्मश्रु᳓ वपते , नखा᳓नि नि᳓ कृन्तते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -224,8 +221,8 @@ He shaves his hair and beard, he trims his nails.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मृ॒ता वा ए॒षा त्वग् अ॑मे॒ध्या यत् के॑शश्म॒श्रु ।  
-मृ॒तामे॒व त्वच॑म् अमे॒ध्याम् अ॑प॒हत्य॑ य॒ज्ञियो॑ भू॒त्वा मेध॒म् उपै॑ति ।
+मृता᳓ वा᳓ एषा᳓ त्व᳓ग् अमेध्या᳓ य᳓त् केशश्मश्रु᳓ ।  
+मृता᳓मेव᳓ त्व᳓चम् अमेध्या᳓म् अपह᳓त्य यज्ञि᳓यो भूत्वा᳓ मे᳓धम् उ᳓पैति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -270,7 +267,7 @@ The hair and the beard are dead and impure skin, and by thus destroying the dead
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अङ्गि॑रसस् सुव॒र्गल्ँ लो॒कय् यँन्तो॒ऽप्सु दी॑क्षात॒पसी॒ प्रावे॑शयन् ।
+अ᳓ङ्गिरसस् सुवर्गल्ँ᳓ लोक᳓य् यँ᳓न्तोऽप्सु᳓ दीक्षातप᳓सी प्रा᳓वेशयन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -285,7 +282,7 @@ The Angirases going to the world of heaven placed in the waters consecration and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒प्सु स्ना॑ति ।
+अप्सु᳓ स्नाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -300,7 +297,7 @@ He bathes in the waters;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा॒क्षाद् ए॒व दी॑क्षात॒पसी॒ अव॑ रुन्धे ।
+साक्षा᳓द् एव᳓ दीक्षातप᳓सी अ᳓व रुन्धे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -315,8 +312,8 @@ verily visibly he secures consecration and penance.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ती॒र्थे स्ना॑ति ।
-ती॒र्थे हि ते ताम् प्रावे॑शयन् ।
+तीर्थे᳓ स्नाति ।
+तीर्थे᳓ हि᳓ ते᳓ ता᳓म् प्रा᳓वेशयन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -332,7 +329,7 @@ He bathes at a ford, for at a ford did they place (consecration and penance);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ती॒र्थे स्ना॑ति ।
+तीर्थे᳓ स्नाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -347,7 +344,7 @@ he bathes at a ford [2];
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ती॒र्थम् ए॒व स॑मा॒नाना॑म् भवति [2] ।
+तीर्थ᳓म् एव᳓ समाना᳓नाम् भवति [2] ।
 </details>
 
 <details><summary>Keith</summary>
@@ -383,7 +380,7 @@ verily he becomes a ford for his fellows.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पो॑ ऽश्नाति ।
+अपो᳙ ऽश्नाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -398,7 +395,7 @@ He sips water;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्त॒र॒त॒ ए॒व मेध्यो॑ भवति ।
+अन्तरत एव᳓ मे᳓ध्यो भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -430,7 +427,7 @@ verily he becomes pure within.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वास॑सा दीक्षयति ,
+वा᳓ससा दीक्षयति ,
 </details>
 
 <details><summary>Keith</summary>
@@ -445,7 +442,7 @@ He consecrates him with a garment;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सौ॒म्यव्ँ वै क्षौम॑न् दे॒वत॑या ।  
+सौम्यव्ँ᳓ वै᳓ क्षौ᳓मन् देव᳓तया ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -460,7 +457,7 @@ the linen garment has Soma for its deity.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑म् ए॒ष दे॒वता॒म् उपै॑ति॒ , यो दीक्ष॑ते ।
+सो᳓मम् एष᳓ देव᳓ताम् उ᳓पैति , यो᳓ दी᳓क्षते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -493,7 +490,7 @@ He who consecrates himself approaches Soma as his deity.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑स्य त॒नूर॑सि त॒नुव॑म् मे पा॒हि॒ + इत्या॑ह ।
+सो᳓मस्य तनू᳓रसि तनु᳓वम् मे पाहि + इ᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -508,7 +505,7 @@ He says, 'Thou art the body of Soma; guard my body.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वामे॒व दे॒वता॒म् उपै॑ति ।  
+स्वा᳓मेव᳓ देव᳓ताम् उ᳓पैति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -523,7 +520,7 @@ He approaches his own deity;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॑ आ॒शिष॑म् ए॒वैताम् आशा॑स्ते ।
+अ᳓थो आशि᳓षम् एवै᳓ता᳓म् आ᳓शास्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -557,13 +554,13 @@ verily also he invokes this blessing.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेस्तू॑षा॒धान॑म् ।   
-वा॒योर्वा॑त॒पान॑म् ।  
-पि॒तृ॒णाम्नी॒विः ।   
-ओष॑धीनाम्प्रघा॒तः । [3]   
-आदि॒त्याना॑म् प्राचीनता॒नः ।  
-विश्वे॑षान् दे॒वाना॒म् ओतुः॑ ।  
-नक्ष॑त्राणाम् अतीका॒शाः ।  
+अग्ने᳓स्तूषाधा᳓नम् ।   
+वायो᳓र्वातपा᳓नम् ।  
+पितृणा᳓म्नीविः᳓ ।   
+ओ᳓षधीनाम्प्रघातः᳓ । [3]   
+आ᳓दित्या᳓नाम् प्राचीनतानः᳓ ।  
+वि᳓श्वेषान् देवा᳓नाम् ओ᳓तुः ।  
+न᳓क्षत्राणाम् अतीकाशाः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -584,7 +581,7 @@ verily also he invokes this blessing.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्वा ए॒तत्स॑र्वदेवत्यय्ँ॑ यद्वासः॑ ।    
+त᳓द्वा᳓ एत᳓त्सर्व᳓दे᳓व᳓त्यय्ँ य᳓द्वा᳓सः ।    
 </details>
 
 <details><summary>Keith</summary>
@@ -599,7 +596,7 @@ The garment is thus connected with all the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् वास॑सा दी॒क्षय॑ति॒ , सर्वा॑भिर् ए॒वैन॑न् दे॒वता॑भिर् दीक्षयति ।
+य᳓द् वा᳓ससा दीक्ष᳓यति , स᳓र्वाभिर् एवै᳓नन् देव᳓ताभिर् दीक्षयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -637,7 +634,7 @@ in that he consecrates him with the garment, verily with all the gods he consecr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒हिᳶप्रा॑णो॒ वै म॑नु॒ष्यः॑ ।
+बहिᳶ᳓प्राणो वै᳓ मनुष्यः᳙ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -652,7 +649,7 @@ Man has breath without;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्याश॑नम् प्रा॒णः ।
+त᳓स्या᳓शनम् प्राणः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -667,7 +664,7 @@ his eating is his breath,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्नाति॒ सप्रा॑ण ए॒व दी॑क्षते ।  
+अश्ना᳓ति स᳓प्राण एव᳓ दीक्षते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -682,7 +679,7 @@ he eats; verily he consecrates himself with breath.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आशि॑तो भवति ।
+आ᳓शितो भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -697,7 +694,7 @@ He becomes satiated.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यावा॑न् ए॒वास्य॑ प्रा॒णस् तेन॑ स॒ह मेध॒म् उपै॑ति ।
+या᳓वान् एवा᳓स्य प्राण᳓स् ते᳓न सह᳓ मे᳓धम् उ᳓पैति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -741,9 +738,9 @@ As great as is his breath, with it he approaches the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृ॒तन्दे॒वाना॒म् , मस्तु॑ पितृ॒णाम् ।
-निष्प॑क्वम् मनु॒ष्या॑णाम् ।
-तद् वा ए॒तत् स॑र्वदेव॒त्यय्ँ॑ यन् नव॑नीतम् ।[4]  
+घृत᳓न्देवा᳓नाम् , म᳓स्तु पितृणा᳓म् ।
+नि᳓ष्पक्वम् मनुष्या᳙णाम् ।
+त᳓द् वा᳓ एत᳓त् सर्वदेवत्यय्ँ᳙ य᳓न् न᳓वनीतम् ।[4]  
 </details>
 
 <details><summary>Keith</summary>
@@ -760,7 +757,7 @@ Ghee pertains to the gods, sour cream to the Pitrs, well-seasoned butter to men 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन् नव॑नीतेनाभ्य॒ङ्क्ते , सर्वा॑ ए॒व दे॒वताः॑ प्रीणाति ।
+य᳓न् न᳓वनीतेनाभ्यङ्क्ते᳓ , स᳓र्वा एव᳓ देव᳓ताः प्रीणाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -775,7 +772,7 @@ verily in anointing with fresh butter he satisfies all the gods.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रच्यु॑तो॒ वा ए॒षो॑ऽस्माल् लो॒काद् अग॑तो देवलो॒कय्ँ यो दी॑क्षि॒तः ।  
+प्र᳓च्युतो वा᳓ एषो᳙ऽस्माल् लोका᳓द् अ᳓गतो देवलोकय्ँ᳓ यो᳓ दीक्षितः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -790,7 +787,7 @@ The man who is consecrated has fallen from this world and yet not gone to the wo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्त॒रा + इ॒व॒ नव॑नीतम् ।
+अन्तरा᳓ + इव न᳓वनीतम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -805,7 +802,7 @@ fresh butter is as it were midway;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒न् नव॑नीतेना॒भ्य॑ङ्क्ते ऽनुलो॒मय् , यँजु॑षा॒ व्यावृ॑त्त्यै ।
+त᳓स्मान् न᳓वनीतेनाभ्य᳙ङ्क्ते ऽनुलोम᳓य् , यँ᳓जुषा व्या᳓वृत्त्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -837,15 +834,11 @@ therefore he anoints with fresh butter, along the hair, with a Yajus, for destru
 
 यत् । नव॑नीते॒नेति॒ नव॑-नी॒ते॒न॒ । अ॒भ्य॒ङ्क्त इत्य॑भि-अ॒ङ्क्ते । सर्वाः॑ । ए॒व । दे॒वताः॑ । प्री॒णा॒ति॒ ।
 
-
 प्रच्यु॑त॒ इति॒ प्र-च्यु॒तः॒ । वै । ए॒षः । अ॒स्मात् । लो॒कात् । अग॑तः । दे॒व॒लो॒कमिति॑ देव-लो॒कम् । यः । दी॒क्षि॒तः । 
-
 
 अ॒न्त॒रा । इ॒व॒ । नव॑नीत॒मिति॒ नव॑-नी॒त॒म् । 
 
-
 तस्मा॑त् । नव॑नीते॒नेति॒ नव॑-नी॒ते॒न॒ । अ॒भीति॑ । अ॒ङ्क्ते॒ । 
-
 
 अ॒नु॒लो॒ममित्य॑नु-लो॒मम् । यजु॑षा । व्यावृ॑त्त्या॒ इति॑ वि-आवृ॑त्त्यै । 
 </details>
@@ -862,7 +855,7 @@ therefore he anoints with fresh butter, along the hair, with a Yajus, for destru
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो॑ वृ॒त्रम॑ह॒न् ।
+इ᳓न्द्रो वृत्र᳓महन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -877,7 +870,7 @@ Indra slew Vrtra;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य॑ क॒नीनि॑का॒ परा॑ ऽपतत् ।
+त᳓स्य कनी᳓निका प᳓रा ऽपतत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -892,7 +885,7 @@ his eyeball fell away;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् आञ्ज॑नम् अभवद् ।
+त᳓द् आ᳓ञ्जनम् अभवद् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -907,7 +900,7 @@ it became collyrium.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् आ॒ङ्क्ते चक्षु॑र् ए॒व भ्रातृ॑व्यस्य वृङ्क्ते ।
+य᳓द् आङ्क्ते᳓ च᳓क्षुर् एव᳓ भ्रा᳓तृव्यस्य वृङ्क्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -941,8 +934,8 @@ When he anoints, verily he takes away the eye of his enemy.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दक्षि॑ण॒म् पूर्व॒म् आङ्क्ते॑ ।[5]
-सव्यँ हि पूर्व॑म् मनु॒ष्या॑ आ॒ञ्जते॑ ।  
+द᳓क्षिणम् पू᳓र्वम् आ᳓ङ्क्ते ।[5]
+स᳓व्यँ᳓ हि᳓ पू᳓र्वम् मनुष्या᳙ आञ्ज᳓ते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -958,8 +951,8 @@ He anoints his right eye first [5], for men anoint the left first.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न नि धा॑वते॒
-नीव॒ हि म॑नु॒ष्या॑ धाव॑न्ते ।  
+न᳓ नि᳓ धावते
+नी᳓व हि᳓ मनुष्या᳙ धा᳓वन्ते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -975,7 +968,7 @@ He does not rub (the ointment) on, for men rub (the ointment) on.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्च॒ कृत्व॒ आंऽक्ते॑ ।
+प᳓ञ्च कृ᳓त्व आं᳓ऽक्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -990,7 +983,7 @@ Five times he anoints;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्चा॑क्षरा प॒ङ्क्तिः ।
+प᳓ञ्चाक्षरा पङ्क्तिः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1005,7 +998,7 @@ the Pankti has five syllables,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पाङ्क्तो॑ य॒ज्ञः, य॒ज्ञमे॒वाव॑ रुन्धे ।  
+पा᳓ङ्क्तो यज्ञः᳓, यज्ञ᳓मेवा᳓व रुन्धे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1020,8 +1013,8 @@ the sacrifice is fivefold; verily he obtains the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परि॑मित॒म् आङ्क्ते॑ ।
-अप॑रिमितँ॒ हि म॑नु॒ष्या॑ आ॒ञ्जते॑ ।  
+प᳓रिमितम् आ᳓ङ्क्ते ।
+अ᳓परिमितँ हि᳓ मनुष्या᳙ आञ्ज᳓ते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1037,8 +1030,8 @@ He anoints a limited number of times, for men anoint an unlimited number of time
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सतू॑ल॒या ऽऽङ्क्ते॑ ।
-अप॑तूलया॒ हि म॑नु॒ष्या॑ आ॒ञ्जते॑ ।  
+स᳓तूलया᳓ ऽऽङ्क्ते ।
+अ᳓पतूलया हि᳓ मनुष्या᳙ आञ्ज᳓ते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1054,7 +1047,7 @@ He anoints with (a stalk) which has a tuft, for men anoint with (a stalk) which 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्यावृ॑त्त्यै ।  
+व्या᳓वृत्त्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1069,7 +1062,7 @@ He anoints with (a stalk) which has a tuft, for men anoint with (a stalk) which 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अप॑तूलयाञ्जी॒त वज्र॑ इव स्यात् ।
+य᳓द् अ᳓पतूलयाञ्जीत᳓ व᳓ज्र इव स्यात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1084,7 +1077,7 @@ If he were to anoint with (a stalk) having no tuft, he would be as it were a thu
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सतू॑ल॒याङ्क्ते॑ मित्र॒त्वाय॑ ।[6]  
+स᳓तूलया᳓ङ्क्ते मित्रत्वा᳓य ।[6]  
 </details>
 
 <details><summary>Keith</summary>
@@ -1138,8 +1131,8 @@ He anoints with one which has a tuft, for friendship [6].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो॑ वृ॒त्रम॑हन् ।
-सोऽ३॒॑ पोऽ३॒॑भ्य॑म्रियत ।
+इ᳓न्द्रो वृत्र᳓महन् ।
+सो᳓ऽ३᳓ पो᳓ऽ३᳓भ्यम्रियत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1155,8 +1148,8 @@ Indra slew Vrtra, he died upon the waters.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तासाय्ँ॒ यन्मेध्यय्ँ॑ य॒ज्ञियँ॒ सदे॑व॒म् आसी॒त् , तद् अप॑ + उद॑क्रामत् ।  
-ते द॒र्भा अ॑भवन् ।
+ता᳓साय्ँ य᳓न्मे᳓ध्यय्ँ यज्ञि᳓यँ स᳓देवम् आ᳓सीत् , त᳓द् अ᳓प + उ᳓दक्रामत् ।  
+ते᳓ दर्भा᳓ अभवन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1172,7 +1165,7 @@ Of the waters what was fit for sacrifice, pure, and divine, that went out of the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् द॑र्भपुञ्जी॒लैᳶ प॒वय॑ति॒ , या ए॒व मेध्या॑ य॒ज्ञिया॒स्  , सदे॑वा॒ आप॒स् , ताभि॑र् ए॒वैन॑म् पवयति ।
+य᳓द् दर्भपुञ्जीलैᳶ᳓ पव᳓यति , या᳓ एव᳓ मे᳓ध्या यज्ञि᳓यास्  , स᳓देवा आ᳓पस् , ता᳓भिर् एवै᳓नम् पवयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1202,7 +1195,6 @@ In that he purifies (the sacrificer) with bunches of Darbha grass, verily he pur
 
 ते । द॒र्भाः । अ॒भ॒व॒न् । 
 
-
 यत् । द॒र्भ॒पु॒ञ्जी॒लैरिति॑ दर्भ-पु॒ञ्जी॒लैः । प॒वय॑ति ।   
 याः । ए॒व । मेध्याः॑ । य॒ज्ञियाः॑ । सदे॑वा॒ इति॒ स-दे॒वाः॒ । आपः॑ । ताभिः॑ । ए॒व । ए॒न॒म् । प॒व॒य॒ति॒ । 
 </details>
@@ -1221,7 +1213,7 @@ In that he purifies (the sacrificer) with bunches of Darbha grass, verily he pur
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वाभ्या॑म् पवयति ।
+द्वा᳓भ्याम् पवयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1236,7 +1228,7 @@ He purifies (him) with two (stalks);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒हो॒रा॒त्रा॒भ्या॑म् ए॒वैन॑म् पवयति ।  
+अहोरात्राभ्या᳙म् एवै᳓नम् पवयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1251,7 +1243,7 @@ verily he purifies him by days and nights.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रि॒भिᳶ प॑वयति ।   
+त्रिभिᳶ᳓ पवयति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -1266,7 +1258,7 @@ He purifies (him) with three (stalks);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रय॑ इ॒मे लो॒काः ।
+त्र᳓य इमे᳓ लोकाः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1281,7 +1273,7 @@ three are these worlds;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒भिर् ए॒वैनल्ँ॑ लो॒कैᳶ प॑वयति ।
+एभि᳓र् एवै᳓नल्ँ लोकैᳶ᳓ पवयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1296,8 +1288,8 @@ verily he purifies him by these worlds.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒ञ्चभि॑ᳶ पवयति [7] । 
-पञ्चा॑क्षरा प॒ङ्क्तिः ।
+पञ्च᳓भिᳶ पवयति [7] । 
+प᳓ञ्चाक्षरा पङ्क्तिः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1312,8 +1304,8 @@ He purifies (him) with five stalks [7]; the Pankti has five syllables,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पाङ्क्तो॑ य॒ज्ञः ।
-य॒ज्ञाय ए॒वैन॑म् पवयति ।  
+पा᳓ङ्क्तो यज्ञः᳓ ।
+यज्ञा᳓य᳓ एवै᳓नम् पवयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1328,7 +1320,7 @@ the sacrifice is fivefold; verily he purifies him by the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ष॒ड्भिᳶ प॑वयति ।  
+षड्भिᳶ᳓ पवयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1343,7 +1335,7 @@ He purifies (him) with six (stalks);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-षड्वा ऋ॒तवः॑ ।  
+ष᳓ड्वा᳓ ऋत᳓वः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1358,7 +1350,7 @@ six are the seasons;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒तुभि॑र् ए॒वैन॑म् पवयति ।
+ऋतु᳓भिर् एवै᳓नम् पवयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1373,7 +1365,7 @@ verily he purifies him by the seasons.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्तभि॑ᳶ पवयति । स॒प्त छन्दाँ॑सि ।
+सप्त᳓भिᳶ पवयति । सप्त᳓ छ᳓न्दाँसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1388,7 +1380,7 @@ He purifies (him) with seven (stalks); seven are the metres;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-छन्दो॑भिर् ए॒वैन॑म् पवयति ।
+छ᳓न्दोभिर् एवै᳓नम् पवयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1403,7 +1395,7 @@ verily he purifies him by the metres.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न॒वभि॑ᳶ पवयति ।  
+नव᳓भिᳶ पवयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1418,7 +1410,7 @@ He purifies (him) with nine (stalks);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नव॒ वै पुरु॑षे प्रा॒णाः ।  
+न᳓व वै᳓ पु᳓रुषे प्राणाः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1433,7 +1425,7 @@ nine are the breaths in man;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सप्रा॑णम् ए॒वैन॑म् पवयति ।
+स᳓प्राणम् एवै᳓नम् पवयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1448,7 +1440,7 @@ verily he purifies him along with his breaths.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एक॑विँशत्या पवयति ।
+ए᳓कविँशत्या पवयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1463,8 +1455,8 @@ He purifies (him) with twenty-one (stalks);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दश॒ हस्त्या॑ अ॒ङ्गुल॑यो॒ दश॒ पद्या॑ आ॒त्मैक॑विँ॒शः ।  
-यावा॑ने॒व पुरु॑ष॒स् तम् अप॑रिवर्गम् पवयति [8] ।
+द᳓श ह᳓स्त्या अङ्गु᳓लयो द᳓श प᳓द्या आत्मै᳓कविँशः᳓ ।  
+या᳓वानेव᳓ पु᳓रुषस् त᳓म् अ᳓परिवर्गम् पवयति [8] ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1549,7 +1541,6 @@ there are ten fingers and ten toes, and the body is the twenty first; he thus co
 
 एक॑विँश॒त्येत्येक॑-विँ॒श॒त्या॒ । प॒व॒य॒ति॒ ।   
 
-
 दश॑ । हस्त्याः॑ । अ॒ङ्गुल॑यः । दश॑ । पद्याः॑ । आ॒त्मा । ए॒क॒विँ॒श इत्ये॑क-विँ॒शः ।   
   
 यावा॑न् । ए॒व । पुरु॑षः । तम् । अप॑रिवर्ग॒मित्यप॑रि-व॒र्ग॒म् । [8] प॒व॒य॒ति॒ । 
@@ -1567,7 +1558,7 @@ there are ten fingers and ten toes, and the body is the twenty first; he thus co
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चि॒त्पति॑स् त्वा पुना॒त्वित्या॑ह ।
+चित्प᳓तिस् त्वा पुनात्वि᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1582,7 +1573,7 @@ He says, 'Let the lord of thought purify thee';
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मनो॒ वै चि॒त्पतिः॑ ।
+म᳓नो वै᳓ चित्प᳓तिः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1597,7 +1588,7 @@ the mind is the lord of thought;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मन॑सै॒व + एन॑म् पवयति ।  
+म᳓नसैव᳓ + ए᳓नम् पवयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1612,7 +1603,7 @@ verily by the mind he purifies him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒क्पति॑स् त्वा पुना॒त्वित्या॑ह ।
+वाक्प᳓तिस् त्वा पुनात्वि᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1627,7 +1618,7 @@ He says, 'Let the lord of speech purify thee';
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒चा + ए॒वैन॑म् पवयति ।
+वाचा᳓ + एवै᳓नम् पवयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1642,7 +1633,7 @@ verily by speech he purifies him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्त्वा॑ सवि॒ता पु॑ना॒त्वित्या॑ह ।  
+देव᳓स्त्वा सविता᳓ पुनात्वि᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1657,7 +1648,7 @@ He says, 'Let the god Savitr purify thee';
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒वि॒तृप्र॑सूत ए॒वैन॑म् पवयति ।
+सवितृ᳓प्रसूत एवै᳓नम् पवयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1672,8 +1663,8 @@ verily being instigated by Savitr, he purifies him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य॑ ते पवित्रपते प॒वित्रे॑ण॒ यस्मै॒ कम् पु॒ने तच्छ॑केय॒मित्या॑ह ।  
-आ॒शिष॑म् ए॒वैताम् आशा॑स्ते ॥ [9]  
+त᳓स्य ते पवित्रपते पवि᳓त्रेण य᳓स्मै क᳓म् पुने᳓ त᳓च्छकेयमि᳓त्याह ।  
+आशि᳓षम् एवै᳓ता᳓म् आ᳓शास्ते ॥ [9]  
 </details>
 
 <details><summary>Keith</summary>
@@ -1706,4 +1697,3 @@ He says, 'O lord of the purifier, with thy purifier, for whatsoever I purify mys
 
 इति षष्ठे काण्डे प्रथमप्रश्ने प्रथमोनुवाकः ॥  
 </details>
-

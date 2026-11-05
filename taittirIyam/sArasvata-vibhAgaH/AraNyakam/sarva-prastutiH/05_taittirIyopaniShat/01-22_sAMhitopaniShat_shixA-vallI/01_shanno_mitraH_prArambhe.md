@@ -3,17 +3,15 @@ title: ०१ शन्नो मित्रः प्रारम्भे
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/05_taittirIyopaniShat/shanno_mitraH.md">
-<details open><summary><h2>शन्नो मित्रः ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/05_taittirIyopaniShat/shanno_mitraH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शन् नो॑ मि॒त्रश्, शव्ँ वरु॑णः ।  
-शन् नो॑ भवत्व् अर्य॒मा ।  
-शन् न॒ इन्द्रो॒ बृह॒स्पतिः॑ ।  
-शन् नो॒ विष्णु॑र् उरुक्र॒मः ।  
-नमो॒ ब्रह्म॑णे ।  
-नम॑स् ते वायो । त्वम् ए॒व प्र॒त्यक्षं॒ ब्रह्मा॑सि ।
-</details>
+श᳓न् नो मित्र᳓श्, शव्ँ᳓ व᳓रुणः ।  
+श᳓न् नो भवत्व् अर्यमा᳓ ।  
+श᳓न् न इ᳓न्द्रो बृ᳓हस्प᳓तिः ।  
+श᳓न् नो वि᳓ष्णुर् उरुक्रमः᳓ ।  
+न᳓मो ब्र᳓ह्मणे ।  
+न᳓मस् ते वायो । त्व᳓म् एव᳓ प्रत्य᳓क्षं ब्र᳓ह्मासि ।
 </details>
 </div>  
 

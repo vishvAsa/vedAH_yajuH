@@ -11,7 +11,7 @@ title = "०६ षट्त्रिंशद्रात्रः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्या अ॑कामयन्त -  सुव॒र्गल्ँ लो॒कम् इ॑या॒मेति ।
+आदित्या᳓ अकामयन्त -  सुवर्गल्ँ᳓ लोक᳓म् इयामे᳓ति᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -21,7 +21,7 @@ The Adityas desired, 'Let us go to the world of heaven.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते सु॑व॒र्गल्ँ लो॒कन् न प्राजा॑न॒न्, न सु॑व॒र्गल्ँ लो॒कमा॑यन् ।
+ते᳓ सुवर्गल्ँ᳓ लोक᳓न् न᳓ प्रा᳓जानन्, न᳓ सुवर्गल्ँ᳓ लोक᳓मायन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -31,7 +31,7 @@ They discerned not the world of heaven, they went not to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त ए॒तँ ष॑ट्त्रिँशद् रा॒त्रम् अ॑पश्यन् । तमाह॑रन् । तेना॑यजन्त ।
+त᳓ एतँ᳓ षट्त्रिँशद् रात्र᳓म् अपश्यन् । त᳓मा᳓हरन् । ते᳓नायजन्त ।
 </details>
 
 <details><summary>Keith</summary>
@@ -41,7 +41,7 @@ They saw this (rite) of thirty-six nights; they grasped it, and sacrificed with 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वै ते सु॑व॒र्गल्ँ लो॒कम् प्राजा॑नन्त्, सुव॒र्गल्ँ लो॒कमा॑यन् ।
+त᳓तो वै᳓ ते᳓ सुवर्गल्ँ᳓ लोक᳓म् प्रा᳓जानन्त्, सुवर्गल्ँ᳓ लोक᳓मायन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -51,7 +51,7 @@ Then indeed did they discern the world of heaven, and went to the world of heave
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वाँस॑ष् षट्त्रिँशद्रा॒त्रम् आस॑ते सुव॒र्गम् ए॒व लो॒कम् प्र जा॑नन्ति ,  सुव॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
+य᳓ एवव्ँ᳓ विद्वाँ᳓सष् षट्त्रिँशद्रात्र᳓म् आ᳓सते सुवर्ग᳓म् एव᳓ लोक᳓म् प्र᳓ जानन्ति ,  सुवर्गल्ँ᳓ लोकय्ँ᳓ यन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -63,8 +63,8 @@ Those, who knowing thus perform (the rite) of thirty six nights, discern the wor
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योति॑र् अतिरा॒त्रो भ॑वति ।[22]  
-ज्योति॑र् ए॒व पु॒रस्ता॑द् दधते सुव॒र्गस्य॑ लो॒कस्यानु॑ख्यात्यै ।
+ज्यो᳓तिर् अतिरात्रो᳓ भवति ।[22]  
+ज्यो᳓तिर् एव᳓ पुर᳓स्ताद् दधते सुवर्ग᳓स्य लोक᳓स्या᳓नुख्यात्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -72,8 +72,8 @@ Those, who knowing thus perform (the rite) of thirty six nights, discern the wor
 The Atiratra is light [1]; verily they put light before them, to reveal the world of heaven.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>षड॒हा भ॑वन्ति । षड्वा ऋ॒तवः॑ ।  
-ऋ॒तुष्वे॒व प्रति॑ तिष्ठन्ति ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>ष᳓डहा᳓ भवन्ति । ष᳓ड्वा᳓ ऋत᳓वः ।  
+ऋतु᳓ष्वेव᳓ प्र᳓ति तिष्ठन्ति ।</details>
 
 <details><summary>Keith</summary>
 
@@ -82,8 +82,8 @@ There are Sadahas; six are the seasons; verily in the seasons they find support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(षड॒हा)+++ च॒त्वारो॑ भवन्ति ।  
-चत॑स्रो॒ दिशः॑ । दि॒क्ष्वे॑व प्रति॑ तिष्ठ॒न्ति ।
++++(ष᳓डहा᳓)+++ चत्वा᳓रो भवन्ति ।  
+च᳓तस्रो दि᳓शः । दिक्ष्वे᳙व᳓ प्र᳓ति तिष्ठन्ति᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -96,8 +96,7 @@ There are four (Sadahas); four are the quarters; verily in the quarters they fin
 द्वादशाहस्य दशाहानि विदधाति -  
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/06_panchadasharAtrayoH_vidhiH/asatram_aChandomam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/06_panchadasharAtrayoH_vidhiH/asatram_aChandomam.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अस॑त्त्रव्ँ॒वा ए॒तद्यद॑छन्दो॒मय्ँयच्छ॑न्दो॒मा भव॑न्ति॒ तेन॑ स॒त्त्रन्दे॒वता॑ ए॒व पृ॒ष्ठैरव॑ रुन्धते प॒शूञ्छ॑न्दो॒मैरोजो॒ वै वी॒र्य॑म्पृ॒ष्ठानि॑ प॒शव॑श्छन्दो॒मा ओज॑स्ये॒व वी॒र्ये॑ प॒शुषु॒ प्रति॑ तिष्ठन्ति
@@ -105,8 +104,8 @@ There are four (Sadahas); four are the quarters; verily in the quarters they fin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(छन्दोमवतः प्रशंसार्थं वक्ति - )+++ अस॑त्त्रव्ँ॒ वा ए॒तद् यद् अ॑छन्दो॒मम् ।
-यच् छ॑न्दो॒मा भव॑न्ति॒ तेन॑ स॒त्त्रम् ।  
++++(छन्दोमवतः प्रशंसार्थं वक्ति - )+++ अ᳓सत्त्रव्ँ वा᳓ एत᳓द् य᳓द् अछन्दोम᳓म् ।
+य᳓च् छन्दोमा᳓ भ᳓वन्ति ते᳓न सत्त्र᳓म् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -120,7 +119,10 @@ There can be no Sattra where there is no Chandoma; in that there axe Chandomas, 
 यच्छ॑न्दो॒मा भव॑न्ति॒ तेन॑ स॒त्त्रम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>दे॒वता॑ ए॒व पृ॒ष्ठैर् अव॑ रुन्धते प॒शूञ् छ॑न्दो॒मैः ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देव᳓ता एव᳓ पृष्ठै᳓र् अ᳓व रुन्धते पशू᳓ञ् छन्दोमैः᳓ ।  
+</details>
 
 <details><summary>Keith</summary>
 
@@ -132,7 +134,10 @@ The gods they win by the Prsthas, the cattle by the Chandomas.
 दे॒वता॑ ए॒व पृ॒ष्ठैरव॑ रुन्धते प॒शूञ्छ॑न्दो॒मैः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>ओजो॒ वा वी॒र्य॑म् पृ॒ष्ठानि॑, प॒शव॑श् छन्दो॒मा ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओ᳓जो वा᳓ वीर्य᳙म् पृष्ठा᳓नि, पश᳓वश् छन्दोमा᳓ ।  
+</details>
 
 <details><summary>Keith</summary>
 
@@ -146,7 +151,7 @@ The Prsthas are force and strength, the Chandomas cattle;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओज॑स्य् ए॒व वी॒र्ये॑, प॒शुषु॒ +++(च)+++ प्रति॑ तिष्ठन्ति ।  
+ओ᳓जस्य् एव᳓ वीर्ये᳙, पशु᳓षु +++(च)+++ प्र᳓ति तिष्ठन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -158,15 +163,14 @@ verily in force [2] and strength they find support.
 
 ओज॑स्ये॒व वी॒र्ये॑ प॒शुषु॒ प्रति॑ तिष्ठन्ति ।
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ष॒ट्त्रिँ॒श॒द्रा॒त्रो भ॑वति ।  
-षट्त्रिँ॑शद्-अक्षरा बृह॒ती ।  
-बार्ह॑ताᳶ प॒शवः॑ ।  
-बृ॒ह॒त्यैव प॒शून् अव॑ रुन्धते ।
+षट्त्रिँशद्रात्रो᳓ भवति ।  
+ष᳓ट्त्रिँशद्-अक्षरा बृहती᳓ ।  
+बा᳓र्हताᳶ पश᳓वः ।  
+बृहत्यै᳓व᳓ पशू᳓न् अ᳓व रुन्धते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -176,7 +180,7 @@ verily in force [2] and strength they find support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृ॒ह॒ती छन्द॑साँ॒ स्वारा॑ज्यम् आश्नुत ।
+बृहती᳓ छ᳓न्दसाँ स्वा᳓राज्यम् आश्नुत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -186,8 +190,8 @@ The Brhati obtained the sovereignty over the metres.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्नु॒वते॒ स्वारा॑ज्यय्ँ य ए॒वव्ँ वि॒द्वाँस॑ष् षट्त्रिँशद् रा॒त्रमास॑ते।  
-सुव॒र्गमे॒व लो॒कय्ँ य॑न्ति ।
+अश्नुव᳓ते स्वा᳓राज्यय्ँ य एवव्ँ᳓ विद्वाँ᳓सष् षट्त्रिँशद् रात्र᳓मा᳓सते।  
+सु᳓वर्ग᳓मेव᳓ लोकय्ँ᳓ यन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -197,7 +201,7 @@ They obtain sovereignty who knowing thus perform (the rite) of thirty-six nights
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ति॒रा॒त्राव् अ॒भितो॑ भवतस् सुव॒र्गस्य॑ लो॒कस्य॒ परि॑गृहीत्यै ॥ [24]  
+अतिरात्रा᳓व् अभि᳓तो भवतस् सुवर्ग᳓स्य लोक᳓स्य प᳓रिगृहीत्यै ॥ [24]  
 </details>
 
 <details><summary>Keith</summary>

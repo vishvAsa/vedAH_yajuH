@@ -62,7 +62,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-<details open><summary><h5>यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
@@ -80,7 +79,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 आयतनं स्थानं कारणम् ।  
 तच्च यथासम्भवं यथाकथञ्चित् कल्प्यम् ।  
 ज्ञानमात्रं फलाय भवति श्रुतिसामर्थ्यात् ।
-</details>
 </details>
 </div>
 
@@ -100,10 +98,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati.md">
-<details open><summary><h5>आ॒यत॑नवान्भवति ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आय᳓तवान् भवति ।
+आय᳓तनवान् भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -114,7 +111,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं वेदिता शोभनायतनः शोभनकारणो वा भवति ॥२॥
-</details>
 </details>
 </div>
 
@@ -158,7 +154,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-<details open><summary><h5>यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
@@ -176,7 +171,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 आयतनं स्थानं कारणम् ।  
 तच्च यथासम्भवं यथाकथञ्चित् कल्प्यम् ।  
 ज्ञानमात्रं फलाय भवति श्रुतिसामर्थ्यात् ।
-</details>
 </details>
 </div>
 
@@ -196,10 +190,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati.md">
-<details open><summary><h5>आ॒यत॑नवान्भवति ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आय᳓तवान् भवति ।
+आय᳓तनवान् भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -210,7 +203,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं वेदिता शोभनायतनः शोभनकारणो वा भवति ॥२॥
-</details>
 </details>
 </div>
 
@@ -244,10 +236,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati_ya_evaM_veda.md">
-<details open><summary><h5>आ॒यत॑नवान्भवति ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आय᳓तवान् भवति ।  
+आय᳓तनवान् भवति ।  
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
 
@@ -256,11 +247,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 आ॒यत॑नवान्भवति ।  
 य ए॒वव्ँ वेद॑ ।
 </details>
-</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-<details open><summary><h5>यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
@@ -278,7 +267,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 आयतनं स्थानं कारणम् ।  
 तच्च यथासम्भवं यथाकथञ्चित् कल्प्यम् ।  
 ज्ञानमात्रं फलाय भवति श्रुतिसामर्थ्यात् ।
-</details>
 </details>
 </div>
 
@@ -298,10 +286,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati.md">
-<details open><summary><h5>आ॒यत॑नवान्भवति ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आय᳓तवान् भवति ।
+आय᳓तनवान् भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -312,7 +299,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं वेदिता शोभनायतनः शोभनकारणो वा भवति ॥२॥
-</details>
 </details>
 </div>
 
@@ -346,10 +332,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati_ya_evaM_veda.md">
-<details open><summary><h5>आ॒यत॑नवान्भवति ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आय᳓तवान् भवति ।  
+आय᳓तनवान् भवति ।  
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
 
@@ -358,11 +343,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 आ॒यत॑नवान्भवति ।  
 य ए॒वव्ँ वेद॑ ।
 </details>
-</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-<details open><summary><h5>यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
@@ -380,7 +363,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 आयतनं स्थानं कारणम् ।  
 तच्च यथासम्भवं यथाकथञ्चित् कल्प्यम् ।  
 ज्ञानमात्रं फलाय भवति श्रुतिसामर्थ्यात् ।
-</details>
 </details>
 </div>
 
@@ -400,10 +382,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati.md">
-<details open><summary><h5>आ॒यत॑नवान्भवति ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आय᳓तवान् भवति ।
+आय᳓तनवान् भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -414,7 +395,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं वेदिता शोभनायतनः शोभनकारणो वा भवति ॥२॥
-</details>
 </details>
 </div>
 
@@ -446,10 +426,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati_ya_evaM_veda.md">
-<details open><summary><h5>आ॒यत॑नवान्भवति ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आय᳓तवान् भवति ।  
+आय᳓तनवान् भवति ।  
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
 
@@ -458,11 +437,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 आ॒यत॑नवान्भवति ।  
 य ए॒वव्ँ वेद॑ ।
 </details>
-</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-<details open><summary><h5>यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
@@ -480,7 +457,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 आयतनं स्थानं कारणम् ।  
 तच्च यथासम्भवं यथाकथञ्चित् कल्प्यम् ।  
 ज्ञानमात्रं फलाय भवति श्रुतिसामर्थ्यात् ।
-</details>
 </details>
 </div>
 
@@ -500,10 +476,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati.md">
-<details open><summary><h5>आ॒यत॑नवान्भवति ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आय᳓तवान् भवति ।
+आय᳓तनवान् भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -514,7 +489,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं वेदिता शोभनायतनः शोभनकारणो वा भवति ॥२॥
-</details>
 </details>
 </div>
 
@@ -546,10 +520,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati_ya_evaM_veda.md">
-<details open><summary><h5>आ॒यत॑नवान्भवति ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आय᳓तवान् भवति  
+आय᳓तनवान् भवति ।  
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
 
@@ -558,13 +531,11 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 आ॒यत॑नवान्भवति ।  
 य ए॒वव्ँ वेद॑ ।
 </details>
-</details>
 </div>
 
 [81]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-<details open><summary><h5>यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
@@ -582,7 +553,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 आयतनं स्थानं कारणम् ।  
 तच्च यथासम्भवं यथाकथञ्चित् कल्प्यम् ।  
 ज्ञानमात्रं फलाय भवति श्रुतिसामर्थ्यात् ।
-</details>
 </details>
 </div>
 
@@ -602,10 +572,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati.md">
-<details open><summary><h5>आ॒यत॑नवान्भवति ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आय᳓तवान् भवति ।
+आय᳓तनवान् भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -616,7 +585,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं वेदिता शोभनायतनः शोभनकारणो वा भवति ॥२॥
-</details>
 </details>
 </div>
 
@@ -648,10 +616,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati_ya_evaM_veda.md">
-<details open><summary><h5>आ॒यत॑नवान्भवति ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आय᳓तवान् भवति ।  
+आय᳓तनवान् भवति ।  
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
 
@@ -660,11 +627,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 आ॒यत॑नवान्भवति ।  
 य ए॒वव्ँ वेद॑ ।
 </details>
-</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-<details open><summary><h5>यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
@@ -682,7 +647,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 आयतनं स्थानं कारणम् ।  
 तच्च यथासम्भवं यथाकथञ्चित् कल्प्यम् ।  
 ज्ञानमात्रं फलाय भवति श्रुतिसामर्थ्यात् ।
-</details>
 </details>
 </div>
 
@@ -702,10 +666,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati.md">
-<details open><summary><h5>आ॒यत॑नवान्भवति ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आय᳓तवान् भवति ।
+आय᳓तनवान् भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -716,7 +679,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं वेदिता शोभनायतनः शोभनकारणो वा भवति ॥२॥
-</details>
 </details>
 </div>
 
@@ -748,10 +710,9 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati_ya_evaM_veda.md">
-<details open><summary><h5>आ॒यत॑नवान्भवति ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आय᳓तवान् भवति ।  
+आय᳓तनवान् भवति ।  
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
 
@@ -759,7 +720,6 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 
 आ॒यत॑नवान्भवति ।  
 य ए॒वव्ँ वेद॑ ।
-</details>
 </details>
 </div>
 

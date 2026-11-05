@@ -1,6 +1,5 @@
 +++
 title = "०७ द्वादशरात्रविधौ काम्यग्रहाग्रताविधयः"
-
 +++
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -8,13 +7,11 @@ title = "०७ द्वादशरात्रविधौ काम्यग
 द्वादशाहप्रकरणम् । एते काम्या ग्रहाग्रता-विधयः । केचिन् नैमित्तिका बृहत्पृष्ठपक्षे नियमार्थाः ।  
 </details>
 
-
-
 ## ऐन्द्रवायवाग्रा यथापूर्वप्रजाकामस्य
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्र॒वा॒य॒वाग्रा॑न् +++(सोमग्रहान्)+++ गृह्णीया॒द् - यᳵ का॒मये॑त - "यथापू॒र्वम् प्र॒जाᳵ क॑ल्पेरन्न्" इति॑ ।  
+ऐन्द्रवायवा᳓ग्रान् +++(सोमग्रहान्)+++ गृह्णीयाद् - यᳵ᳓ काम᳓येत - "यथापूर्व᳓म् प्रजाᳵ᳓ कल्पे᳓र᳓न्न्" इ᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -22,29 +19,27 @@ title = "०७ द्वादशरात्रविधौ काम्यग
 He should draw the cup for Indra and Vayu first if he desire, 'May my offspring accord in order of seniority.'
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>य॒ज्ञस्य॒ वै कॢप्ति॒म् अनु॑ प्र॒जाᳵ क॑ल्पन्ते ।
-य॒ज्ञस्याकॢ॑प्ति॒म् अनु॒ न क॑ल्पन्ते ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>यज्ञ᳓स्य वै᳓ कॢ᳓प्तिम् अ᳓नु प्रजाᳵ᳓ कल्पन्ते ।
+यज्ञ᳓स्या᳓कॢप्तिम् अ᳓नु न᳓ कल्पन्ते ।</details>
 
 <details><summary>Keith</summary>
 
 Offspring are in accord according to the arrangement of the sacrifice, and if the sacrifice is disarranged, they are at discord.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>य॒था॒पू॒र्वम् ए॒व प्र॒जाᳵ क॑ल्पयति ।  
-न ज्यायाँ॑स॒ङ् कनी॑या॒न् अति॑ क्रामति ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>यथापूर्व᳓म् एव᳓ प्रजाᳵ᳓ कल्पयति ।  
+न᳓ ज्या᳓याँसङ् क᳓नीयान् अ᳓ति क्रामति ।</details>
 
 <details><summary>Keith</summary>
 
 Verily he makes his offspring in accord in order of seniority; the younger does not overstep the older.
 </details>
 
-
-
 ## ऐन्द्रवायवाग्रा आमयाविनः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्र॒वा॒य॒वाग्रा॑न् गृह्णीयाद् आमया॒विनः॑+++(=रुग्णस्य)+++।
+ऐन्द्रवायवा᳓ग्रान् गृह्णीयाद् आमयावि᳓नः+++(=रुग्णस्य)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -54,9 +49,9 @@ He should draw the cup for Indra and Vayu first for one who is ill.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णेन॒ वा ए॒ष व्यृ॑ध्यते+++(=दरिद्राति)+++ - यस्या॒मय॑ति।
-प्रा॒ण ऐन्द्रवाय॒वः।
-प्रा॒णेनै॒वैनँ॒ सम॑र्धयति ।
+प्राणे᳓न वा᳓ एष᳓ व्यृध्यते+++(=दरिद्राति)+++ - यस्याम᳓यति।
+प्राण᳓ ऐ᳓न्द्र᳓वा᳓यवः᳓।
+प्राणे᳓नैवै᳓नँ स᳓मर्धयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -64,13 +59,11 @@ He should draw the cup for Indra and Vayu first for one who is ill.
 For he who is ill is separated from breath, the cup for Indra and Vayu is breath; verily he unites him with breath.
 </details>
 
-
-
 ## मैत्रावरुणाग्रा दीक्षितेषु मृतानाम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मै॒त्रा॒व॒रु॒णाग्रा॑न् गृह्णीरन्, +++(सत्रे)+++ येषा॑न् दीक्षि॒ताना॑म् प्र॒मीये॑त [22] । +++(सत्त्रे हि बहवो दीक्षिताः।)+++
+मैत्रावरुणा᳓ग्रान् गृ᳓ह्णी᳓र᳓न्, +++(सत्रे)+++ ये᳓षान् दीक्षिता᳓नाम् प्रमी᳓येत [22] । +++(सत्त्रे हि बहवो दीक्षिताः।)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -80,9 +73,9 @@ They should draw the cup for Mitra and Varuna first if when they are consecrated
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णा॒पा॒नाभ्याव्ँ॒ वा ए॒ते व्यृ॑ध्यन्ते+++(=दरिद्रन्ति)+++, येषा॑न् दीक्षि॒ताना॑म् प्र॒मीय॑ते ।
-प्रा॒णा॒पा॒नौ मि॒त्रावरु॑णौ ।
-प्रा॒णा॒पा॒नाव् ए॒व मु॑ख॒तᳶ+++(=प्राथम्यात्)+++ परि॑ हरन्ते ।
+प्राणापाना᳓भ्याव्ँ वा᳓ एते᳓ व्यृध्य᳓न्ते᳓+++(=दरिद्रन्ति)+++, ये᳓षान् दीक्षिता᳓नाम् प्रमी᳓यते ।
+प्राणापानौ᳓ मित्रा᳓व᳓रुणौ ।
+प्राणापाना᳓व् एव᳓ मुखतᳶ᳓+++(=प्राथम्यात्)+++ प᳓रि हरन्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -90,13 +83,11 @@ They should draw the cup for Mitra and Varuna first if when they are consecrated
 From expiration and inspiration are they separated of whom when consecrated one dies, Mitra and Varuna are expiration and inspiration; verily at the commencement they grasp expiration and inspiration.
 </details>
 
-
-
 ## अश्विनाग्रा अनुजावरस्य
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒श्वि॒नाग्रा॑न् गृह्णीताऽऽनुजाव॒रः+++(=आनुजेन =अनुजतया ऽवरो, न गुणेन )+++ ।
+आश्विना᳓ग्रान् गृह्णीताऽऽनुजावरः᳓+++(=आनुजेन =अनुजतया ऽवरो, न गुणेन )+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -106,8 +97,8 @@ He should draw the Aśvina cup first who is infirm.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्विनौ॒ वै दे॒वाना॑म् आनुजाव॒रौ ।
-+++(देवानाम्)+++ प॒श्चा+++(त्)+++ +इ॒वाग्र॒म्  पर्यै॑ताम् ।
+अश्वि᳓नौ वै᳓ देवा᳓नाम् आनुजावरौ᳓ ।
++++(देवानाम्)+++ पश्चा᳓+++(त्)+++ +इवा᳓ग्रम्  प᳓र्यैताम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -117,8 +108,8 @@ The Aśvins are of the gods those who are infirm, late as it were came they to t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्विना॑व् ए॒तस्य॑ दे॒वता॑ ।
-य आ॑नुजाव॒रस्, ताव् ए॒वैन॒म् अग्र॒म् परि॑ णयतः ।
+अश्वि᳓नाव् एत᳓स्य देव᳓ता ।
+य᳓ आनुजावर᳓स्, ता᳓व् एवै᳓नम् अ᳓ग्रम् प᳓रि णयतः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -126,11 +117,9 @@ The Aśvins are of the gods those who are infirm, late as it were came they to t
 The Aśvins are the gods of him who is infirm; they lead him to the front.
 </details>
 
-
-
 ## शुक्राग्राः प्रतिष्ठाकामस्य
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>शु॒क्राग्रा॑न् गृह्णीत ग॒तश्रीः॑ प्रति॒ष्ठाका॑मः ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>शुक्रा᳓ग्रान् गृह्णीत गत᳓श्रीः प्रतिष्ठा᳓कामः ।</details>
 
 <details><summary>Keith</summary>
 
@@ -139,12 +128,12 @@ He who desires support having attained prosperity should draw the Śukra Cup fir
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒सौ वा आ॑दि॒त्यः।
-+++(सन्ध्यासु जाज्वल्यमानः)+++ शु॒क्र ए॒षो ऽन्तः॑ +++(आदित्यमण्डलस्य)+++ ।
-+++(दारिद्र्याख्यम्)+++ अन्त॑म् मनु॒ष्यश्॑ श्रि॒यै+++(यः)+++ ग॒त्वा नि व॑र्त॒ते ।
+असौ᳓ वा᳓ आदित्यः᳓।
++++(सन्ध्यासु जाज्वल्यमानः)+++ शुक्र᳓ एषो᳓ ऽन्तः +++(आदित्यमण्डलस्य)+++ ।
++++(दारिद्र्याख्यम्)+++ अ᳓न्तम् मनुष्य᳓श् श्रियै᳓+++(यः)+++ गत्वा᳓ नि᳓ वर्तते᳓ ।
 [23]  
-+++(दारिद्र्याद्)+++ अन्ता॑द् ए॒वान्त॒म् +++(सम्पत्तिम्)+++ आ र॑भते ।
-न तत॒ᳶ पापी॑यान्+++(→दरिद्रो)+++ भवति ।
++++(दारिद्र्याद्)+++ अ᳓न्ताद् एवा᳓न्तम् +++(सम्पत्तिम्)+++ आ᳓ रभते ।
+न᳓ त᳓तᳶ पा᳓पीयान्+++(→दरिद्रो)+++ भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -152,13 +141,11 @@ He who desires support having attained prosperity should draw the Śukra Cup fir
 The Śukra is yonder sun, this is the end; a man when he has reached the end [2] of prosperity stops; verily from the end he grasps the end, and becomes not worse.
 </details>
 
-
-
 ## मन्थिग्रहा अभिचरतः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒न्थ्य्+++(=मन्थर=शनि)+++-अ॑ग्रान् गृह्णीताभि॒चर॑न् ।
+मन्थ्य्+++(=मन्थर=शनि)+++-अ᳙ग्रान् गृह्णीताभिच᳓रन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -168,9 +155,9 @@ He who practises witchcraft should draw the Manthin cup first.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒र्त॒+++(रुग्ण)+++-पा॒त्रव्ँ वा ए॒तद् यन् म॑न्थि-पा॒त्रम् ।
-मृ॒त्युनै॒वैन॑ङ् ग्राहयति ।
-ता॒जग्+++(=तूर्णम्)+++ आर्ति॒म् आर्च्छ॑ति ।
+आर्त+++(रुग्ण)+++-पात्रव्ँ᳓ वा᳓ एत᳓द् य᳓न् मन्थि-पात्र᳓म् ।
+मृत्यु᳓नैवै᳓नङ् ग्राहयति ।
+ताज᳓ग्+++(=तूर्णम्)+++ आ᳓र्तिम् आ᳓र्च्छति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -178,13 +165,11 @@ He who practises witchcraft should draw the Manthin cup first.
 The Manthin vessel is a vessel of misfortune; verily he causes death to seize on him; swiftly does he reach misfortune.
 </details>
 
-
-
 ## आग्रयणाग्रा पितृपुण्यकामस्य
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒ग्र॒य॒णा+++(=मृगशीर्षा)+++ऽग्रा॑न् गृह्णीत॒  यस्य॑ पि॒ता पि॑ताम॒हᳶ +++(स्वापेक्षया)+++ पुण्य॒+++(तर)+++स् स्याद्, अथ॒ तन्न प्रा॑प्नु॒यात् ।  
+आग्रयणा᳓+++(=मृगशीर्षा)+++ऽग्रान् गृह्णीत  य᳓स्य पिता᳓ पितामहᳶ᳓ +++(स्वापेक्षया)+++ पु᳓ण्य+++(तर)+++स् स्या᳓द्, अ᳓थ त᳓न्न᳓ प्राप्नुया᳓त् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -194,7 +179,7 @@ He should draw the Agrayana cup first whose father and grandfather are holy, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒चा वा ए॒ष इ॑न्द्रि॒येण॒+++(→वीर्येण)+++ व्यृ॑ध्यते - यस्य॑ पि॒ता पि॑ताम॒हᳶ पुण्यो॒ भव॑त्य् अथ॒ तन् न प्रा॒प्नोति॑ ।  
+वाचा᳓ वा᳓ एष᳓ इन्द्रिये᳓ण+++(→वीर्येण)+++ व्यृ᳙ध्य᳓ते᳓ - य᳓स्य पिता᳓ पितामहᳶ᳓ पु᳓ण्यो भ᳓वत्य् अथ त᳓न् न᳓ प्राप्नो᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -204,8 +189,8 @@ From speech and power is he separated whose father and grandfather are holy [3],
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उर॑+++(=मुख्यस्थानम्)+++ इवै॒तद् य॒ज्ञस्य॒, वाग् इ॑व॒, यद् +++(वाग्रमण-प्रजापतिदैवत)+++ आ॑ग्रय॒णः +++(तद्ग्रहणानन्तरं वाचो विसर्गात्)+++।  
-वा॒चैवैन॑म् इन्द्रि॒येण॒ सम॑र्धयति । न तत॒ᳶ पापी॑यान् भवति ।  
+उ᳓र+++(=मुख्यस्थानम्)+++ इवैत᳓द् यज्ञ᳓स्य, वा᳓ग् इव, य᳓द् +++(वाग्रमण-प्रजापतिदैवत)+++ आग्रयणः᳓ +++(तद्ग्रहणानन्तरं वाचो विसर्गात्)+++।  
+वाचै᳓वै᳓नम् इन्द्रिये᳓ण स᳓मर्धयति । न᳓ त᳓तᳶ पा᳓पीयान् भवति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -213,11 +198,9 @@ From speech and power is he separated whose father and grandfather are holy [3],
 The Agrayana (cup) is the breast as it were and the speech as it were of the sacrifice; verily with speech and with power he unites him, then he becomes not worse.
 </details>
 
-
-
 ## उक्थ्याग्रा अभिचर्यमाणस्य
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>उ॒क्थ्या॑ग्रान् गृह्णीत अभिच॒र्यमा॑णः ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>उक्थ्या᳙ग्रान् गृह्णीत अभिचर्य᳓माणः ।</details>
 
 <details><summary>Keith</summary>
 
@@ -226,8 +209,8 @@ He against whom witchcraft is practised should draw the Ukthya cup first.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वे॑षाव्ँ॒ वा ए॒तत्पात्रा॑णाम्, इन्द्रि॒यय्ँ+++(→वीर्यं)+++ यद् उ॑क्थ्यपा॒त्रम् ।
-सर्वे॑णै॒वैन॑म् इन्द्रि॒येणाति॒ प्र यु॑ङ्क्ते ।
+स᳓र्वेषाव्ँ वा᳓ एत᳓त्पा᳓त्राणाम्, इन्द्रियय्ँ᳓+++(→वीर्यं)+++ य᳓द् उक्थ्यपात्र᳓म् ।
+स᳓र्वेणैवै᳓नम् इन्द्रिये᳓णा᳓ति प्र᳓ युङ्क्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -238,16 +221,16 @@ The Ukthya vessel is the power of all vessels; verily he yokes him with all powe
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (
-सर॑स्वत्य् अ॒भि नो॑ नेषि॒ वस्यो॒+++(=वरिष्ठं)+++  
-मा प॑स्फरीः॒+++(=हिंसीः)+++ पय॑सा॒+++(→हविषा [वर्धिता])+++ मा न॒ आ ध॑क्+++(=धाक्षीः)+++ ।  
-जु॒षस्व॑ नः स॒ख्या+++(=सखितया)+++ वे॒श्या॑+++(=वेश्यतया)+++ च॒,  
-मा त्वत्-क्षेत्रा॒ण्य् अर॑णानि गन्म ॥
+स᳓रस्वत्य् अभि᳓ नो नेषि व᳓स्यो+++(=वरिष्ठं)+++  
+मा᳓ पस्फरीः+++(=हिंसीः)+++ प᳓यसा+++(→हविषा [वर्धिता])+++ मा᳓ न आ᳓ धक्+++(=धाक्षीः)+++ ।  
+जुष᳓स्व नः सख्या᳓+++(=सखितया)+++ वेश्या᳙+++(=वेश्यतया)+++ च,  
+मा᳓ त्व᳓त्-क्षे᳓त्राण्य् अ᳓रणानि गन्म ॥
 )
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"सर॑स्वत्य् अ॒भि नो॑ नेषि॒ वस्य॒ …"+++(६.०६१.१४)+++ इति॑ पुरो॒रुच॑ङ् कुर्यात् ।
+"स᳓रस्वत्य् अभि᳓ नो नेषि व᳓स्य …"+++(६.०६१.१४)+++ इ᳓ति पुरोरु᳓चङ् कुर्यात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -257,7 +240,7 @@ He should take as Puroruc (the verse) 'O Sarasvati, lead us to prosperity.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाग् वै सर॑स्वती । वा॒चैवैन॒म् अति॒ प्र यु॑ङ्क्ते ।
+वा᳓ग् वै᳓ स᳓रस्वती । वाचै᳓वै᳓नम् अ᳓ति प्र᳓ युङ्क्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -267,7 +250,7 @@ Sarasvati is speech [4]; verily with speech he yokes him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"मा त्वत्क्षेत्रा॒ण्य् अर॑णानि ग॒न्मे"त्या॑ह ।
+"मा᳓ त्व᳓त्क्षे᳓त्राण्य् अ᳓रणानि गन्मे᳓"त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -277,8 +260,8 @@ Sarasvati is speech [4]; verily with speech he yokes him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मृ॒त्योर् वै क्षेत्रा॒ण्य् अर॑णानि ।
-तेनै॒व मृ॒त्योः क्षेत्रा॑णि॒ न ग॑च्छति।
+मृत्यो᳓र् वै᳓ क्षे᳓त्राण्य् अ᳓रणानि ।
+ते᳓नैव᳓ मृत्योः᳓ क्षे᳓त्राणि न᳓ गच्छति।
 </details>
 
 <details><summary>Keith</summary>
@@ -288,7 +271,7 @@ The joyless fields are those of death; verily he goes not to the fields of death
 
 ## पूर्णग्रहा आमयाविनः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>पू॒र्णान् ग्रहा॑न् गृह्णीयाद् आमया॒विनः॑ ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>पूर्णा᳓न् ग्र᳓हान् गृह्णीयाद् आमयावि᳓नः ।</details>
 
 <details><summary>Keith</summary>
 
@@ -297,10 +280,10 @@ He should draw full cups for one who is ill.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णान् वा ए॒तस्य॒ शुग्+++(=शोकः)+++ ऋ॑च्छति॒ यस्या॒मय॑ति ।
-प्रा॒णा ग्रहाः॑ ।
-प्रा॒णान् ए॒वास्य॑ शु॒चो मु॑ञ्चति ।
-उ॒त यद् ई॒तासु॒र्+++(=गतासुः)+++ भव॑ति॒ जीव॑त्ये॒व ।
+प्राणा᳓न् वा᳓ एत᳓स्य शु᳓ग्+++(=शोकः)+++ ऋच्छति य᳓स्याम᳓यति ।
+प्राणा᳓ ग्र᳓हाः ।
+प्राणा᳓न् एवा᳓स्य शुचो᳓ मुञ्चति ।
+उत᳓ य᳓द् ईता᳓सुर्+++(=गतासुः)+++ भ᳓वति जी᳓वत्येव᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -308,11 +291,9 @@ He should draw full cups for one who is ill.
 Pain afflicts the breaths of him who is ill, the cups are breaths; verily he frees his breaths from pain, and even if his life is gone, yet he lives.
 </details>
 
-
-
 ## पूर्णग्रहा वृष्टिकामस्य
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>पू॒र्णान् ग्रहा॑न् गृह्णीया॒द् , यर्हि॑ प॒र्जन्यो॒ न वर्षे॑त् ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>पूर्णा᳓न् ग्र᳓हान् गृह्णीयाद् , य᳓र्हि पर्ज᳓न्यो न᳓ व᳓र्षेत् ।</details>
 
 <details><summary>Keith</summary>
 
@@ -321,16 +302,13 @@ He should draw full cups if rain does not fall.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णान् वा ए॒तर्हि॑ प्र॒जानाँ॒ शुग् ऋ॑च्छति॒ , यर्हि॑ प॒र्जन्यो॒ न॒ वर्ष॑ति ।
-प्रा॒णा ग्रहाः॑ ।
-प्रा॒णान् ए॒व प्र॒जानाँ॑ शु॒चो मु॑ञ्चति।
-ता॒जक्+++(=झटिति)+++ प्र व॑र्षति ॥ [26]
+प्राणा᳓न् वा᳓ एत᳓र्हि प्रजा᳓नाँ शु᳓ग् ऋच्छति , य᳓र्हि पर्ज᳓न्यो न व᳓र्षति ।
+प्राणा᳓ ग्र᳓हाः ।
+प्राणा᳓न् एव᳓ प्रजा᳓नाँ शुचो᳓ मुञ्चति।
+ताज᳓क्+++(=झटिति)+++ प्र᳓ वर्षति ॥ [26]
 </details>
 
 <details><summary>Keith</summary>
 
 Pain afflicts the breaths of the people if rain does not fall, the cups are breaths; verily he frees the breaths of the people from pain, and rain soon falls.
 </details>
-
-
-

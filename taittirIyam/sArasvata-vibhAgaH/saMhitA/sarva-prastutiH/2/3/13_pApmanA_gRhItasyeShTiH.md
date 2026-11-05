@@ -1,23 +1,31 @@
 +++
 title = "१३ पाप्मना गृहीतस्येष्टिः"
-
 +++
 
  विश्वेदेवा ऋषयः ।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/13_pApmanA_gRhItasyeShTiH/yA_vAm.md">
-
-<details open><summary><h5>Y A v Am ...{Loading}...</h5></summary>
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/13_pApmanA_gRhItasyeShTiH/yA_vAm.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1'यः पाप्मना गृहीतस्स्यात्तस्मा एतामैन्द्रावरुणीं पयस्यां निर्वपेत्' इत्यादि कारणं वक्ष्यति । तां पुरोडाशाच्चतुर्धा कृत्वा व्यूहति - यावामिन्द्रावरुणेति चतुर्भिर्मन्त्रैः॥ यतव्या सहस्या रक्षस्या तेजस्येति चतुर्णां विशेषः । शेषस्तुल्यः ।
 </details>
 
+<details><summary>विश्वास-प्रस्तुतिः - सङ्क्षेपः</summary>
+
+[या᳓ वाम् इन्द्रावरुणा] यतव्या᳙ [तनू᳓स् त᳓येम᳓म् अँ᳓हसो मुञ्चतम्] ।  
+… स᳓हस्या᳙ … । … र᳓क्षस्या᳙ …। … ते᳓जस्या᳙ …।
+
+[यो᳓ वाम् इन्द्रावरुणाव्] अग्नौ᳓ [स्रा᳓मस् तं᳓ वाम् एते᳓ना᳓व यजे।]  
+[यो᳓ वाम् इन्द्रावरुणा] द्विपा᳓त्सु पशु᳓षु …। … च᳓तुष्पत्सु पशु᳓षु …। … गोष्ठे᳓ …।
+… गृहे᳓षु …।  
+[यो᳓ वाम् इन्द्रावरुणाव्] अप्सु᳓ …। …ओ᳓षधीषु …।  
+[यो᳓ वाम् इन्द्रावरुणा] व᳓नस्प᳓तिषु …॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या वा॑म् इन्द्रा-वरुणा यत॒व्या॑ त॒नूस्  
-तये॒मम् अँह॑सो मुञ्चतम् ।
+या᳓ वाम् इन्द्रा-वरुणा यतव्या᳙ तनू᳓स्  
+त᳓येम᳓म् अँ᳓हसो मुञ्चतम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -32,8 +40,8 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या वा॑म् इन्द्रावरुणा  
-सह॒स्या॑ [त॒नूस्तये॒म् अमँह॑सो मुञ्चतम्] ।
+या᳓ वाम् इन्द्रावरुणा  
+सहस्या᳙ [तनू᳓स् त᳓येम् अ᳓मँ᳓हसो मुञ्चतम्] ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -48,7 +56,7 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[या वा॑मिन्द्रावरुणा] रक्ष॒स्या॑ [त॒नूस् तये॒मम् अँह॑सो मुञ्चतम्] ।
+[या᳓ वामिन्द्रावरुणा] रक्षस्या᳙ [तनू᳓स् त᳓येम᳓म् अँ᳓हसो मुञ्चतम्] ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -63,7 +71,7 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[या वा॑मिन्द्रावरुणा] तेज॒स्या॑ त॒नूस् तये॒मम् अँह॑सो मुञ्चतम् ।
+[या᳓ वामिन्द्रावरुणा] तेजस्या᳙ तनू᳓स् त᳓येम᳓म् अँ᳓हसो मुञ्चतम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -88,8 +96,13 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वा॑म् इन्द्रा-वरुणाव् अ॒ग्नौ स्राम॒स्  
-तव्ँ वा॑म् ए॒तेनाव॑यजे ।
+यो᳓ वाम् इन्द्रा-वरुणाव् अग्नौ᳓ स्रा᳓मस्  
+तव्ँ᳓ वाम् एते᳓ना᳓वयजे ।
+</details>
+
+<details><summary>Keith</summary>
+
+(That disease of yours, O Indra and Varuna, that is in the fire, that of yours I appease hereby', he says;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -104,7 +117,12 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वा॑म् इन्द्रा-वरुणा द्वि॒पात्सु॑ प॒शुषु॒  [स्राम॒स् तव्ँ वा॑म् ए॒तेनाव॑ यजे ।]
+यो᳓ वाम् इन्द्रा-वरुणा द्विपा᳓त्सु पशु᳓षु  [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
+</details>
+
+<details><summary>Keith</summary>
+
+'That disease of yours, O Indra and Varuna, that is in the two footed cattle, that of yours I appease hereby', he says; 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -119,7 +137,7 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[यो वा॑म् इन्द्रा-वरुणा] चतु॑ष्पात्सु प॒शुषु॒  [स्राम॒स् तव्ँ वा॑म् ए॒तेनाव॑ यजे ।]
+[यो᳓ वाम् इन्द्रा-वरुणा] च᳓तुष्पात्सु पशु᳓षु  [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -134,7 +152,7 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[यो वा॑म् इन्द्रा-वरुणा] गो॒ष्ठे  [स्राम॒स् तव्ँ वा॑म् ए॒तेनाव॑ यजे ।]
+[यो᳓ वाम् इन्द्रा-वरुणा] गोष्ठे᳓  [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -149,7 +167,7 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[यो वा॑म् इन्द्रा-वरुणा] गृ॒हेषु   [स्राम॒स् तव्ँ वा॑म् ए॒तेनाव॑ यजे ।]
+[यो᳓ वाम् इन्द्रा-वरुणा] गृहे᳓षु   [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -164,7 +182,7 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[यो वा॑म् इन्द्रा-वरुणाव्] अ॒प्सु  [स्राम॒स् तव्ँ वा॑म् ए॒तेनाव॑ यजे ।]
+[यो᳓ वाम् इन्द्रा-वरुणाव्] अप्सु᳓  [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -179,7 +197,7 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[यो वा॑म् इन्द्रा-वरुणाव्] ओष॑धीषु॒ [स्राम॒स् तव्ँ वा॑म् ए॒तेनाव॑ यजे ।]।
+[यो᳓ वाम् इन्द्रा-वरुणा] ओ᳓षधीषु [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -194,7 +212,7 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[यो वा॑म् इन्द्रा-वरुणा] वन॒स्पति॑षु॒ स्राम॒स् तव्ँ वा॑म् ए॒तेनाव॑ यजे ।
+[यो᳓ वाम् इन्द्रा-वरुणा] व᳓नस्प᳓तिषु स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -206,7 +224,6 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 
 'यो वनस्पतिषु' इत्यष्टमे । पलाशादयो वनस्पतयः । वनस्पत्यादित्वात्पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् । पारस्करप्रभृतित्वात् सुट् ॥
 </details>
-</details>
 </div>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -216,10 +233,10 @@ title = "१३ पाप्मना गृहीतस्येष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो॒ वा ए॒तस्ये॑न्द्रि॒येणाप॑ क्रामति ।  
-वरु॑ण एनव्ँवरुणपा॒शेन॑ गृह्णाति ।  
-यᳶ पा॒प्मना॑ गृही॒तो भव॑ति ।  
-यᳶ पा॒प्मना॑ गृही॒तस्स्यात् ।  
+इ᳓न्द्रो वा᳓ एत᳓स्येन्द्रिये᳓णा᳓प क्रामति ।  
+व᳓रुण एनव्ँवरुणपाशे᳓न गृह्णाति ।  
+यᳶ᳓ पाप्म᳓ना गृहीतो᳓ भ᳓वति ।  
+यᳶ᳓ पाप्म᳓ना गृहीत᳓स्स्या᳓त् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -242,7 +259,7 @@ Indra departs with his [1] power, Varuna seizes him with Varuna's noose, who is 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑ ए॒तामै॑न्द्रावरु॒णीम्प॑य॒स्या॑न्निर्व॑पेत् ।
+त᳓स्मा एता᳓मैन्द्रावरुणी᳓म्पयस्या᳙न्नि᳓र्वपेत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -257,8 +274,8 @@ for him who is seized by evil, he should offer this (offering of) clotted milk t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑ ए॒वास्मि॑न्निन्द्रि॒यन्द॑धाति ।  
-वरु॑ण एनव्ँवरुणपा॒शान्मु॑ञ्चति ।
+इ᳓न्द्र एवा᳓स्मिन्निन्द्रिय᳓न्दधाति ।  
+व᳓रुण एनव्ँवरुणपाशा᳓न्मुञ्चति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -284,8 +301,8 @@ verily Indra bestows power upon him, Varuna frees him from Varuna's noose.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒य॒स्या॑ भवति ।  
-पयो॒ हि वा ए॒तस्मा॑दप॒क्रामति ।
+पयस्या᳙ भवति ।  
+प᳓यो हि᳓ वा᳓ एत᳓स्मादपक्रा᳓म᳓ति᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -301,7 +318,7 @@ verily Indra bestows power upon him, Varuna frees him from Varuna's noose.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथै॒ष पा॒प्मना॑ गृही॒तो यत्प॑य॒स्या॑ भव॑ति ।
+अ᳓थैष᳓ पाप्म᳓ना गृहीतो᳓ य᳓त्पयस्या᳙ भ᳓वति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -316,7 +333,7 @@ verily he is seized with evil;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पय॑ ए॒वास्मि॒न्तया॑ दधाति ।
+प᳓य एवा᳓स्मिन्त᳓या दधाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -341,8 +358,8 @@ in that it is of clotted milk, thereby he bestows milk upon him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒य॒स्या॑याम्पुरो॒डाश॒मव॑ दधाति ।  
-आ॒त्म॒न्वन्त॑मे॒वैन॑ङ्करोति ।
+पयस्या᳙याम्पुरोडा᳓शम᳓व दधाति ।  
+आत्मन्व᳓न्तमेवै᳓नङ्करोति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -363,7 +380,7 @@ In the clotted milk [2] he puts down the cake; verily he makes him possessed of 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॑ आ॒यत॑नवन्तमे॒व +++(करोति)+++ ।
+अ᳓थो आय᳓तनवन्तमेव᳓ +++(करोति)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -383,7 +400,7 @@ and also possessed of an abode.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-च॒तु॒र्धा व्यू॑हति  ।
+चतुर्धा᳓ व्यूहति  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -403,7 +420,7 @@ He separates it into four pieces;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि॒क्ष्वे॑व प्रति॑ तिष्ठति ।
+दिक्ष्वे᳙व᳓ प्र᳓ति तिष्ठति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -423,7 +440,7 @@ verily he finds supports in the quarters;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुन॒स्समू॑हति ।
+पु᳓नस्स᳓मूहति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -438,7 +455,7 @@ he unites (the fires) again;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि॒ग्भ्य ए॒वास्मै॑ भेष॒जङ्क॑रोति ।
+दिग्भ्य᳓ एवा᳓स्मै भेषज᳓ङ्करोति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -458,7 +475,7 @@ verily he procures healing for him from the quarters;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मूह्याव॑ द्यति ।  
+समू᳓ह्या᳓व द्यति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -478,7 +495,7 @@ having united (them) he cuts off (portions);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथावि॑द्धन्निष्कृ॒न्तति॑ ता॒दृगे॒व तत् ।
+य᳓था᳓विद्धन्निष्कृन्त᳓ति तादृ᳓गेव᳓ त᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -503,7 +520,7 @@ that is as when one cuts up what has been pierced.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वा॑मिन्द्रावरुणाव॒ग्नौ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यज॒ इत्या॑ह ।
+यो᳓ वामिन्द्रावरुणावग्नौ᳓ स्रा᳓मस्तव्ँ᳓वामेते᳓ना᳓व यज इ᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -518,7 +535,7 @@ that is as when one cuts up what has been pierced.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दुरि॑ष्ट्या ए॒वैन॑म्पाति ।
+दु᳓रिष्ट्या एवै᳓नम्पाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -543,7 +560,7 @@ verily he protects him from error in sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वा॑मिन्द्रावरुणा द्वि॒पात्सु॑ प॒शुषु॒ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यज॒ इत्या॑ह ।  
+यो᳓ वामिन्द्रावरुणा द्विपा᳓त्सु पशु᳓षु स्रा᳓मस्तव्ँ᳓वामेते᳓ना᳓व यज इ᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -563,7 +580,7 @@ verily he protects him from error in sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ताव॑ती॒र्वा आप॒ ओष॑धयो॒ वन॒स्पत॑यᳶ प्र॒जाᳶ प॒शव॑ उपजीव॒नीयाः ।  
+एता᳓वतीर्वा᳓ आ᳓प ओ᳓षधयो व᳓नस्प᳓तयᳶ प्रजाᳶ᳓ पश᳓व उपजीवनी᳓याः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -583,7 +600,7 @@ so many are the waters, the plants, the trees, offspring and cattle on whom to l
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता ए॒वास्मै॑ वरुणपा॒शान्मु॑ञ्चति ॥
+ता᳓ एवा᳓स्मै वरुणपाशा᳓न्मुञ्चति ॥
 </details>
 
 <details><summary>Keith</summary>

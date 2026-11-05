@@ -7,10 +7,10 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ञ्जन्ति॒ त्वाम॑ध्व॒रे दे॑व॒यन्तः॑ ।   
-वन॑स्पते॒ मधु॑ना॒ दैव्ये॑न ।   
-यदू॒र्ध्वस्ति॑ष्ठा॒द्द्रवि॑णे॒ह ध॑त्तात् ।   
-यद्वा॒ क्षयो॑ मा॒तुर॒स्या उ॒पस्थे॑ ।   
+अञ्ज᳓न्ति त्वा᳓मध्वरे᳓ देवय᳓न्तः ।   
+व᳓नस्पते म᳓धुना दै᳓व्येन ।   
+य᳓दूर्ध्व᳓स्तिष्ठाद्द्र᳓विणेह᳓ धत्तात् ।   
+य᳓द्वा क्ष᳓यो मातु᳓रस्या᳓ उप᳓स्थे ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -31,8 +31,7 @@ unicode_script: devanagari
 2यूपायोच्छ्रीयमाणायानुब्रूहीत्युक्तोन्वाह - उच्छ्रयस्वेति ॥
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/008/03_uchChrayasva_vanaspate.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/008/03_uchChrayasva_vanaspate.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 उ᳓च् छ्रयस्व वनस्पते  
@@ -40,11 +39,17 @@ unicode_script: devanagari
 सु᳓मिती मीय᳓मानो  
 व᳓र्चो धा यज्ञ᳓वाहसे
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/008/03_uchChrayasva_vanaspate.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/008/03_uchChrayasva_vanaspate.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+उच्छ्र॑यस्व वनस्पते॒ वर्ष्म॑न्पृथि॒व्या अधि॑ ।  
+सुमि॑ती मी॒यमा॑नो॒ वर्चो॑ धा य॒ज्ञवा॑हसे ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/008/03_uchChrayasva_vanaspate.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यूपः
@@ -311,15 +316,14 @@ Erhebe du, o Waldesherr auf dieser Erde Fläche dicli, mit rechtem Mass gemessen
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसे वड इत्यादी वनस्पती मूळ, खोड, फांद्या इत्यादीने वाढतात, तसेच पुरुषार्थाने विद्येचा प्रचार करून माणसांना वाढविले पाहिजे. ॥ ३ ॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-समि॑द्धस्य॒ श्रय॑माणᳶ पु॒रस्ता॑त् ।   
-ब्रह्म॑ वन्वा॒नो अ॒जरँ॑ सु॒वीर॑म् ॥1॥  
-आ॒रे अ॒स्मदम॑ति॒म्बाध॑मानः ।   
-उच्छ्र॑यस्व मह॒ते सौभ॑गाय ।   
+स᳓मिद्धस्य श्र᳓यमाणᳶ पुर᳓स्तात् ।   
+ब्र᳓ह्म वन्वानो᳓ अज᳓रँ सुवी᳓रम् ॥1॥  
+आरे᳓ अस्म᳓द᳓मतिम्बा᳓धमानः ।   
+उ᳓च्छ्रयस्व महते᳓ सौ᳓भगाय ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -337,10 +341,10 @@ Erhebe du, o Waldesherr auf dieser Erde Fläche dicli, mit rechtem Mass gemessen
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्ध्व ऊ॒षुण॑ ऊ॒तये॑ ।   
-तिष्ठा॑ दे॒वो न स॑वि॒ता ।   
-ऊ॒र्ध्वो वाज॑स्य॒ सनि॑ता॒ यद॒ञ्जिभिः॑ ।   
-वा॒घद्भि॑र्वि॒ह्वया॑महे ।   
+ऊर्ध्व᳓ ऊषु᳓ण ऊत᳓ये ।   
+ति᳓ष्ठा देवो᳓ न᳓ सविता᳓ ।   
+ऊर्ध्वो᳓ वा᳓जस्य स᳓निता य᳓दञ्जि᳓भिः ।   
+वाघ᳓द्भिर्विह्व᳓यामहे ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -366,10 +370,10 @@ Erhebe du, o Waldesherr auf dieser Erde Fläche dicli, mit rechtem Mass gemessen
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्ध्वो न॑ᳶ पा॒ह्यँह॑सो॒ नि के॒तुना॑ ।   
-विश्वँ॒ सम॒त्रिण॑न्दह ।   
-कृ॒धी न॑ ऊ॒र्ध्वाञ्च॒ रथा॑य जी॒वसे॑ ।   
-वि॒दा दे॒वेषु॑ नो॒ दुवः॑ ॥2॥  
+ऊर्ध्वो᳓ नᳶ पाह्यँ᳓हसो नि᳓ केतु᳓ना ।   
+वि᳓श्वँ स᳓मत्रि᳓णन्दह ।   
+कृधी᳓ न ऊर्ध्वा᳓ञ्च र᳓थाय जीव᳓से ।   
+विदा᳓ देवे᳓षु नो दु᳓वः ॥2॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -387,10 +391,10 @@ Erhebe du, o Waldesherr auf dieser Erde Fläche dicli, mit rechtem Mass gemessen
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जा॒तो जा॑यते सुदिन॒त्वे अह्ना॑म् ।   
-सम॒र्य आ वि॒दथे॒ वर्ध॑मानः ।   
-पु॒नन्ति॒ धीरा॑ अ॒पसो॑ मनी॒षा ।   
-दे॒व॒या विप्र॒ उदि॑यर्ति॒ वाच॑म् ।   
+जातो᳓ जायते सुदिनत्वे᳓ अ᳓ह्नाम् ।   
+स᳓मर्य᳓ आ᳓ विद᳓थे व᳓र्धमानः ।   
+पुन᳓न्ति धी᳓रा अप᳓सो मनीषा᳓ ।   
+देवया᳓ वि᳓प्र उ᳓दियर्ति वा᳓चम् ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -408,10 +412,10 @@ Erhebe du, o Waldesherr auf dieser Erde Fläche dicli, mit rechtem Mass gemessen
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-युवा॑ सु॒वासा॒ᳶ परि॑वीत॒ आगा॑त् ।   
-स उ॒ श्रेया॑न्भवति॒ जाय॑मानः ।   
-तन्धीरा॑सᳵ क॒वय॒ उन्न॑यन्ति ।   
-स्वा॒धियो॒ मन॑सा देव॒यन्तः॑ ।   
+यु᳓वा सुवा᳓साᳶ प᳓रिवीत आ᳓गात् ।   
+स᳓ उ श्रे᳓यान्भवति जा᳓यमानः ।   
+त᳓न्धी᳓रासᳵ कव᳓य उ᳓न्नयन्ति ।   
+स्वाधि᳓यो म᳓नसा देवय᳓न्तः ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -429,9 +433,9 @@ Erhebe du, o Waldesherr auf dieser Erde Fläche dicli, mit rechtem Mass gemessen
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒थु॒पाजा॒ अम॑र्त्यः ।   
-घृ॒तनि॑र्णि॒क्स्वा॑हुतः ।   
-अ॒ग्निर्य॒ज्ञस्य॑ हव्य॒वाट् ।   
+पृथुपा᳓जा अ᳓मर्त्यः ।   
+घृत᳓निर्णिक्स्वा᳙हुतः ।   
+अग्नि᳓र्यज्ञ᳓स्य हव्यवा᳓ट् ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -448,9 +452,9 @@ Erhebe du, o Waldesherr auf dieser Erde Fläche dicli, mit rechtem Mass gemessen
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तँ स॒बाधो॑ य॒तस्स्रु॑चः ।   
-इ॒त्था धि॒या य॒ज्ञव॑न्तः ।   
-आच॑क्रुर॒ग्निमू॒तये॑ ।   
+तँ᳓ सबा᳓धो यत᳓स्स्रुचः ।   
+इत्था᳓ धिया᳓ यज्ञ᳓वन्तः ।   
+आ᳓चक्रुरग्नि᳓मूत᳓ये ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -467,10 +471,10 @@ Erhebe du, o Waldesherr auf dieser Erde Fläche dicli, mit rechtem Mass gemessen
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वव्ँवरु॑ण उ॒त मि॒त्रो अ॑ग्ने ।   
-त्वाव्ँव॑र्धन्ति म॒तिभि॒र्वसि॑ष्ठाः ।   
-त्वे वसु॑ सुषण॒नानि॑ सन्तु ।   
-यू॒यम्पा॑त स्व॒स्तिभि॒स्सदा॑ नः ॥3॥  
+त्वव्ँ᳓व᳓रुण उत᳓ मित्रो᳓ अग्ने ।   
+त्वाव्ँ᳓वर्धन्ति मति᳓भिर्व᳓सिष्ठाः ।   
+त्वे᳓ व᳓सु सुषणना᳓नि सन्तु ।   
+यूय᳓म्पात स्वस्ति᳓भिस्स᳓दा नः ॥3॥  
 </details>
 
 <details><summary>मूलम्</summary>

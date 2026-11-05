@@ -1,6 +1,5 @@
 +++
 title = "०१ भूतिकामस्य आदित्यश्चरुः"
-
 +++
 
 विश्वेदेवा ऋषयः ।
@@ -12,7 +11,7 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्येभ्यो॒ भुव॑द्वद्भ्यश्च॒रुन्निर्व॑पे॒द्भूति॑कामः ।
+आदित्ये᳓भ्यो भु᳓वद्वद्भ्यश्चरु᳓न्नि᳓र्वपेद्भू᳓तिकामः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -27,7 +26,7 @@ He who desires prosperity should offer to the Adityas, giving prosperity;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्य वा ए॒तम्भूत्यै॒ प्रति॑ नुदन्ते ।
+आदित्य᳓ वा᳓ एत᳓म्भू᳓त्यै प्र᳓ति नुदन्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -42,7 +41,7 @@ it is the Adityas who repel from prosperity him who being fit for prosperity doe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-योऽल॒म्भूत्यै॒ सन्भूति॒न्न प्रा॒प्नोति॑।
+यो᳓ऽलम्भू᳓त्यै स᳓न्भू᳓तिन्न᳓ प्राप्नो᳓ति।
 </details>
 
 <details><summary>Keith</summary>
@@ -57,7 +56,7 @@ verily he has recourse to the Adityas, giving prosperity, with their own share;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्याने॒व भुव॑द्वत॒स्स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+आदित्या᳓नेव᳓ भु᳓वद्वतस्स्वे᳓न भागधे᳓येनो᳓प धावति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -72,7 +71,7 @@ verily they make him attain prosperity;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त ए॒वैन॒म्भूति॑ङ्गमयन्ति॒ भव॑त्ये॒व ।
+त᳓ एवै᳓नम्भू᳓तिङ्गमयन्ति भ᳓वत्येव᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -99,8 +98,8 @@ he becomes prosperous.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्येभ्यो॑ धा॒रय॑द्वद्भ्यश्च॒रुन्निर्व॑पेत् ।   
-अप॑रुद्धो वाऽपरु॒ध्यमा॑नो वा +++(एतं चरुं निर्वपेत् )+++..
+आदित्ये᳓भ्यो धार᳓यद्वद्भ्यश्चरु᳓न्नि᳓र्वपेत् ।   
+अ᳓परुद्धो वाऽपरुध्य᳓मानो वा +++(एतं चरुं निर्वपेत् )+++..
 </details>
 
 <details><summary>Keith</summary>
@@ -123,7 +122,7 @@ He who has been expelled or is being expelled should offer an oblation to the Ad
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्या वा अ॑परो॒द्धारः॑ , आ॒दि॒त्या अ॑वगमयि॒तारः॑ , आ॒दि॒त्याने॒व धा॒रय॑द्वतः ,
+आदित्या᳓ वा᳓ अपरोद्धा᳓रः , आदित्या᳓ अवगमयिता᳓रः , आदित्या᳓नेव᳓ धार᳓यद्वतः ,
 </details>
 
 <details><summary>Keith</summary>
@@ -138,7 +137,7 @@ the Adityas are the expellers, the Adityas are the procurers;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+स्वे᳓न भागधे᳓येनो᳓प धावति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -153,7 +152,7 @@ verily he has recourse to the Adityas, the sustainers [1] with their own share;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त ए॒वैनव्ँ॑वि॒शि दा॑ध्रति ।
+त᳓ एवै᳓नव्ँविशि᳓ दाध्रति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -168,7 +167,7 @@ verily they support him in the people;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न॒प॒रु॒ध्यो भ॑वति ।
+अनपरुध्यो᳓ भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -195,7 +194,7 @@ he is unexpellable.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॒तेऽनु॑ मन्य॒स्व, इत्य॑परु॒ध्यमा॑नोऽस्य प॒दमा द॑दीत  ।
+अ᳓दिते᳓ऽनु मन्यस्व᳓, इ᳓त्यपरुध्य᳓मानोऽस्य पद᳓मा᳓ ददीत  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -210,7 +209,7 @@ he is unexpellable.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ वा अदि॑तिः,
+इयव्ँ᳓ वा᳓ अ᳓दितिः,
 </details>
 
 <details><summary>Keith</summary>
@@ -225,7 +224,7 @@ Aditi is this (earth);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यमे॒वास्मै॑ रा॒ज्यमनु॑ मन्यते ।
+इय᳓मेवा᳓स्मै राज्य᳓म᳓नु मन्यते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -250,7 +249,7 @@ verily she confirms the kingdom for him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒त्याशीरित्या॑ह ,
+सत्या᳓शी᳓रि᳓त्याह ,
 </details>
 
 <details><summary>Keith</summary>
@@ -265,7 +264,7 @@ verily she confirms the kingdom for him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒त्यामे॒वाशिष॑ङ्कुरुते ।
+सत्या᳓मेवा᳓शि᳓षङ्कुरुते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -290,7 +289,7 @@ verily he makes the blessing come true;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह मन॒ इत्या॑ह,
+इह᳓ म᳓न इ᳓त्याह,
 </details>
 
 <details><summary>Keith</summary>
@@ -305,7 +304,7 @@ verily he makes the blessing come true;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जा ए॒वास्मै॒ सम॑नसᳵ करोति ।
+प्रजा᳓ एवा᳓स्मै स᳓मनसᳵ करोति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -330,7 +329,7 @@ verily he makes the people of one mind with him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उप॒ प्रेत॑ मरुत सु॒दा॒न॒व॒ ए॒ना वि॒श्पति॑ना..
+उ᳓प प्रे᳓त मरुत सुदानव एना᳓ विश्प᳓तिना..
 </details>
 
 <details><summary>Keith</summary>
@@ -350,7 +349,7 @@ verily he makes the people of one mind with him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभ्य॑मुँ राजा॑न॒मित्या॑ह ।
+अ᳓भ्यमुँ᳓ रा᳓जानमि᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -371,7 +370,7 @@ the people are connected with the Maruts, the lord of the people is the highest;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा॒रु॒ती वै विड् , ज्ये॒ष्ठो वि॒श्पतिः॑ , वि॒शैवनँ॑ रा॒ष्ट्रेण॒ सम॑र्धयति ।
+मारुती᳓ वै᳓ वि᳓ड् , ज्येष्ठो᳓ विश्प᳓तिः , विशै᳓व᳓नँ राष्ट्रे᳓ण स᳓मर्धयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -398,7 +397,7 @@ verily he unites him with the people and the realm.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यᳶ प॒रस्ता॑द्ग्राम्यवा॒दी स्यात् ,
+यᳶ᳓ पर᳓स्ताद्ग्राम्यवादी᳓ स्या᳓त् ,
 </details>
 
 <details><summary>Keith</summary>
@@ -413,7 +412,7 @@ From the house of a village judge further on he should take rice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य॑ गृ॒हाद्व्री॒हीना ह॑रेत् ।
+त᳓स्य गृहा᳓द्व्रीही᳓ना᳓ हरेत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -428,7 +427,7 @@ he should separate out the white and the black;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शु॒क्लाँश्च॑ कृ॒ष्णाँश्च॒ वि चि॑नुयात् ।
+शुक्लाँ᳓श्च कृष्णाँ᳓श्च वि᳓ चिनुयात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -443,7 +442,7 @@ of the white he should offer an oblation to the Adityas;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये शु॒क्लास्स्युस्तमा॑दि॒त्यञ्च॒रुन्निर्व॑पेत् ।
+ये᳓ शुक्ला᳓स्स्यु᳓स्त᳓मादित्य᳓ञ्चरु᳓न्नि᳓र्वपेत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -458,7 +457,7 @@ the people have the Adityas for their deity;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्या वै दे॒वत॑या॒ विड्, विश॑मे॒वाव॑ गच्छति ।
+आदित्या᳓ वै᳓ देव᳓तया वि᳓ड्, वि᳓शमेवा᳓व गच्छति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -478,8 +477,8 @@ verily he attains the people [3];
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव॑गतास्य॒ विट्  ।  
-अन॑वगतँ रा॒ष्ट्रमित्या॑हुः ।   
+अ᳓वगतास्य वि᳓ट्  ।  
+अ᳓नवगतँ राष्ट्र᳓मि᳓त्याहुः ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -500,7 +499,7 @@ verily he attains the people [3];
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये कृ॒ष्णास्स्युस्तव्ँ वा॑रु॒णञ्च॒रुन्निर्व॑पेत् ।
+ये᳓ कृष्णा᳓स्स्यु᳓स्तव्ँ᳓ वारुण᳓ञ्चरु᳓न्नि᳓र्वपेत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -515,7 +514,7 @@ of the dark ones he should offer an oblation to Varuna;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒रु॒णव्ँ वै रा॒ष्ट्रमु॒भे ए॒व विश॑ञ्च रा॒ष्ट्रञ्चाव॑ गच्छति ।
+वारुणव्ँ᳓ वै᳓ राष्ट्र᳓मुभे᳓ एव᳓ वि᳓शञ्च राष्ट्र᳓ञ्चा᳓व गच्छति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -535,8 +534,8 @@ the realm is connected with Varuna;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये कृ॒ष्णास्स्युस्तव्ँ वा॑रु॒णञ्च॒रुन्निर्व॑पेत् ।  
-वा॒रु॒णव्ँ वै रा॒ष्ट्रमु॒भे ए॒व विश॑ञ्च रा॒ष्ट्रञ्चाव॑ गच्छति ।
+ये᳓ कृष्णा᳓स्स्यु᳓स्तव्ँ᳓ वारुण᳓ञ्चरु᳓न्नि᳓र्वपेत् ।  
+वारुणव्ँ᳓ वै᳓ राष्ट्र᳓मुभे᳓ एव᳓ वि᳓शञ्च राष्ट्र᳓ञ्चा᳓व गच्छति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -562,7 +561,7 @@ verily he attains both the people and the realm.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि॒ नाव॒गच्छे॑त्  इ॒मम॒हम्  +++(निर्वपेत्)+++।
+य᳓दि ना᳓वग᳓च्छेत्  इम᳓मह᳓म्  +++(निर्वपेत्)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -577,7 +576,7 @@ Should he not attain (them), he should offer (saying), 'To the Adityas this port
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्येभ्यो॑ भा॒गन्निर्व॑पा॒मि , आमुष्मा॑द॒मुष्यै॑ वि॒शोऽव॑गन्तो॒रिति॒ निर्व॑पेत् ।
+आदित्ये᳓भ्यो भाग᳓न्नि᳓र्वपामि᳓ , आ᳓मु᳓ष्मादमु᳓ष्यै विशो᳓ऽवगन्तोरि᳓ति नि᳓र्वपेत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -597,7 +596,7 @@ verily the Adityas desiring the portion make him attain the people [4].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्या ए॒वैन॑म्भाग॒धेय॑म्प्रे॒प्सन्तो॒ विश॒मव॑ [4] गमयन्ति ।
+आदित्या᳓ एवै᳓नम्भागधे᳓यम्प्रेप्स᳓न्तो वि᳓शम᳓व [4] गमयन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -623,7 +622,7 @@ Should he not attain (them), he should knock in seven pegs of Aśvattha wood in 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि॒ नाव॒गच्छे॒त् ,आश्व॑त्थान्म॒यूखा॑न्त्स॒प्त म॑ध्यमे॒षाया॒मुप॑ हन्यात् ।
+य᳓दि ना᳓वग᳓च्छेत् ,आ᳓श्वत्थान्मयू᳓खान्त्सप्त᳓ मध्यमेषा᳓यामु᳓प हन्यात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -645,8 +644,8 @@ Should he not attain (them), he should offer this oblation to the Adityas
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒दम॒हमा॑दि॒त्यान्ब॑ध्ना॒मि, आमुष्मा॑द॒मुष्यै॑ वि॒शोऽव॑गन्तोः॒ इति॑ ,  
-आ॒दि॒त्या ए॒वैन॑म्ब॒द्धवी॑रा॒ विश॒मव॑ गमयन्ति़ ।
+इद᳓मह᳓मादित्या᳓न्बध्नामि᳓, आ᳓मु᳓ष्मादमु᳓ष्यै विशो᳓ऽवगन्तोः इ᳓ति ,  
+आदित्या᳓ एवै᳓नम्बद्ध᳓वीरा वि᳓शम᳓व गमयन्ति़ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -673,7 +672,7 @@ and attach pegs to the kindling-wood;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि॒ नाव॒गच्छे॑दे॒तमे॒वादि॒त्यञ्च॒रुन्निर्व॑पेत् ।  
+य᳓दि ना᳓वग᳓च्छेदेत᳓मेवा᳓दित्य᳓ञ्चरु᳓न्नि᳓र्वपेत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -693,7 +692,7 @@ verily he attains what cannot be taken away.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ध्मेऽपि॑ म॒यूखा॒न्त्सन्न॑ह्येत् ।
+इध्मे᳓ऽपि मयू᳓खान्त्स᳓न्नह्येत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -713,7 +712,7 @@ verily he attains what cannot be taken away.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न॒प॒रु॒ध्यमे॒वाव॑ गच्छति ।  
+अनपरुध्य᳓मेवा᳓व गच्छति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -733,7 +732,7 @@ the Aśvattha is the might of the Maruts; verily with might he attains the peopl
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आश्व॑त्था भवन्ति ।  
+आ᳓श्वत्था भवन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -753,9 +752,9 @@ seven are they,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒रुताव्ँ॒वा ए॒तदोजः॑ ।  
-यद॑श्व॒त्थ ओज॑सै॒व विश॒मव॑ गच्छति ।  
-स॒प्त भ॑वन्ति ।  
+मरु᳓ताव्ँवा᳓ एत᳓दो᳓जः ।  
+य᳓दश्वत्थ᳓ ओ᳓जसैव᳓ वि᳓शम᳓व गच्छति ।  
+सप्त᳓ भवन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -777,7 +776,7 @@ the Maruts are in seven troops;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्तग॑णा॒ वै म॒रुतो॑ गण॒श ए॒व विश॒मव॑ गच्छति ॥  
+सप्त᳓गणा वै᳓ मरु᳓तो गणश᳓ एव᳓ वि᳓शम᳓व गच्छति ॥  
 </details>
 
 <details><summary>Keith</summary>

@@ -20,8 +20,8 @@ title = "०५ उस्रानिर्माणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि पाज॑सा पृ॒थुना॒ शोशु॑चानो॒ बाध॑स्व द्वि॒षो र॒क्षसो॒ अमी॑वाः ।  
-सु॒शर्म॑णो बृह॒तश्शर्म॑णि स्याम॒ग्नेर॒हँ सु॒हव॑स्य॒ प्रणी॑तौ ।  
+वि᳓ पा᳓जसा पृथु᳓ना शो᳓शुचानो बा᳓धस्व द्विषो᳓ रक्ष᳓सो अ᳓मीवाः ।  
+सुश᳓र्मणो बृहत᳓श्श᳓र्मणि स्यामग्ने᳓रहँ᳓ सुह᳓वस्य प्र᳓णीतौ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -48,8 +48,7 @@ title = "०५ उस्रानिर्माणम्"
 तत्र प्रथमामाह—  १७९८ आपो हि ष्ठेति।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 आ᳓पो हि᳓ ष्ठा᳓ मयो-भु᳓वस्  
@@ -57,11 +56,17 @@ title = "०५ उस्रानिर्माणम्"
 महे᳓ र᳓णाय+++(=रमणीयाय)+++ च᳓क्षसे+++(=दर्शनाय)+++ ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/01_Apo_hi.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/01_Apo_hi.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
+म॒हे रणा॑य॒ चक्ष॑से ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/01_Apo_hi.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -319,7 +324,6 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 पदार्थान्वयभाषाः -  (ताः-आपः) ता यूयमापः ! (मयः-भुवः) सुखस्य भावयित्र्यः-सुखसम्पादिका वा“मयः सुखनाम” [निघ० ३।६](हि स्थ) अवश्यं स्थ (नः) अस्मान् (ऊर्जे) जीवनबलाय (महे रणाय चक्षसे) महते रमणीयाय दर्शनाय (दधातन) धारयत ॥१॥
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -329,8 +333,8 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो व॑श्शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ ।  
-उ॒श॒तीरि॑व मा॒तरः॑ ।  
+यो᳓ वश्शिव᳓तमो र᳓सस्त᳓स्य भाजयतेह᳓ नः ।  
+उशती᳓रिव मात᳓रः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -351,8 +355,8 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒ अर॑ङ्गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ ।  
-आपो॑ ज॒नय॑था च नः ।  
+त᳓स्मा अ᳓रङ्गमाम वो य᳓स्य क्ष᳓याय जि᳓न्वथ ।  
+आ᳓पो जन᳓यथा च नः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -375,8 +379,8 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रः [18]  सँ॒सृज्य॑ पृथि॒वीम्भूमि॑ञ्च॒ ज्योति॑षा स॒ह ।  
-सुजा॑तञ्जा॒तवे॑दसम॒ग्निव्ँ वै॑श्वान॒रव्ँवि॒भुम् ।  
+मित्रः᳓ [18]  सँसृ᳓ज्य पृथिवी᳓म्भू᳓मिञ्च ज्यो᳓तिषा सह᳓ ।  
+सु᳓जातञ्जात᳓वेदसमग्निव्ँ᳓ वैश्वानरव्ँ᳓विभु᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -397,8 +401,8 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रः [18]  सँ॒सृज्य॑ पृथि॒वीम्भूमि॑ञ्च॒ ज्योति॑षा स॒ह ।  
-सुजा॑तञ्जा॒तवे॑दसम॒ग्निव्ँ वै॑श्वान॒रव्ँवि॒भुम् ।  
+मित्रः᳓ [18]  सँसृ᳓ज्य पृथिवी᳓म्भू᳓मिञ्च ज्यो᳓तिषा सह᳓ ।  
+सु᳓जातञ्जात᳓वेदसमग्निव्ँ᳓ वैश्वानरव्ँ᳓विभु᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -426,8 +430,8 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रु॒द्रास्स॒म्भृत्य॑ पृथि॒वीम्बृ॒हज्ज्योति॒स्समी॑धिरे ।  
-तेषा॑म्भा॒नुरज॑स्र॒ इच्छु॒क्रो दे॒वेषु॑ रोचते ।  
+रुद्रा᳓स्सम्भृ᳓त्य पृथिवी᳓म्बृह᳓ज्ज्यो᳓तिस्स᳓मीधिरे ।  
+ते᳓षाम्भानु᳓र᳓जस्र इ᳓च्छुक्रो᳓ देवे᳓षु रोचते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -448,8 +452,8 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सँसृ॑ष्टाव्ँ॒वसु॑भी रु॒द्रैर्धीरैः॑ कर्म॒ण्या॑म्मृद॑म् ।  
-हस्ता॑भ्याम्मृ॒द्वीङ्कृ॒त्वा सि॑नीवा॒ली क॑रोतु [19]  ताम् ।
+सँ᳓सृष्टाव्ँव᳓सुभी रुद्रै᳓र्धी᳓रैः कर्मण्या᳙म्मृ᳓दम् ।  
+ह᳓स्ताभ्याम्मृद्वी᳓ङ्कृत्वा᳓ सिनीवाली᳓ करोतु [19]  ताम् ।
 
 </details>
 
@@ -472,8 +476,8 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सि॒नी॒वा॒ली सु॑कप॒र्दा सु॑कुरी॒रा स्वौ॑प॒शा ।  
-सा तुभ्य॑मदिते मह॒ ओखान्द॑धातु॒ हस्त॑योः ।  
+सिनीवाली᳓ सुकपर्दा᳓ सुकुरीरा᳓ स्वौपशा᳓ ।  
+सा᳓ तु᳓भ्यमदिते मह ओ᳓खा᳓न्दधातु ह᳓स्तयोः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -494,8 +498,8 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒खाङ्क॑रोतु॒ शक्त्या॑ बा॒हुभ्या॒मदि॑तिर्धि॒या ।  
-मा॒ता पु॒त्रय्ँयथो॒पस्थे॒ साग्निम्बि॑भर्तु॒ गर्भ॒ आ ।
+उखा᳓ङ्करोतु श᳓क्त्या बाहु᳓भ्याम᳓दितिर्धिया᳓ ।  
+माता᳓ पुत्रय्ँ᳓य᳓थोप᳓स्थे सा᳓ग्नि᳓म्बिभर्तु ग᳓र्भ आ᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -519,7 +523,7 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒खस्य॒ शिरो॑ऽसि
+मख᳓स्य शि᳓रोऽसि
 </details>
 
 <details><summary>मूलम्</summary>
@@ -542,7 +546,7 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञस्य॑ प॒दे स्थः॑ ।  
+यज्ञ᳓स्य पदे᳓ स्थः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -570,15 +574,15 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वस॑वस्त्वा कृण्वन्तु गाय॒त्रेण॒ छन्द॑सा ।  
+व᳓सवस्त्वा कृण्वन्तु गायत्रे᳓ण छ᳓न्दसा ।  
 
-अ॒ङ्गि॒र॒स्वत्पृ॑थि॒व्य॑सि +++(ध्रु॒वासि॑ । धा॒रया॒ मयि॑ प्र॒जाँ रा॒यस्पोष॑ङ्गौप॒त्यँ सु॒वीर्यँ॑ सजा॒तान्यज॑माना॒य ।  )+++।  
+अङ्गिरस्व᳓त्पृथिव्य᳙सि +++(ध्रुवा᳓सि । धार᳓या म᳓यि प्रजाँ᳓ राय᳓स्पो᳓षङ्गौपत्यँ᳓ सुवी᳓र्यँ सजाता᳓न्य᳓जमानाय᳓ ।  )+++।  
 
-रु॒द्रास्त्वा॑ कृण्वन्तु॒ त्रैष्टु॑भेन॒ छन्द॑सा ।  
-अ॒ङ्गि॒र॒स्वद॒न्तरि॑क्षमसि [20] +++(ध्रु॒वासि॑ । धा॒रया॒ मयि॑ प्र॒जाँ रा॒यस्पोष॑ङ्गौप॒त्यँ सु॒वीर्यँ॑ सजा॒तान्यज॑माना॒य ।  )+++ ।  
+रुद्रा᳓स्त्वा कृण्वन्तु त्रै᳓ष्टुभेन छ᳓न्दसा ।  
+अङ्गिरस्व᳓दन्त᳓रिक्षमसि [20] +++(ध्रुवा᳓सि । धार᳓या म᳓यि प्रजाँ᳓ राय᳓स्पो᳓षङ्गौपत्यँ᳓ सुवी᳓र्यँ सजाता᳓न्य᳓जमानाय᳓ ।  )+++ ।  
 
-आ॒दि॒त्यास्त्वा॑ कृण्वन्तु॒ जाग॑तेन॒ छन्द॑सा ।  
-अ॒ङ्गि॒र॒स्वद्द्यौर॑सि +++(ध्रु॒वासि॑ ।  धा॒रया॒ मयि॑ प्र॒जाँ रा॒यस्पोष॑ङ्गौप॒त्यँ सु॒वीर्यँ॑ सजा॒तान्यज॑माना॒य ।  )+++।  
+आदित्या᳓स्त्वा कृण्वन्तु जा᳓गतेन छ᳓न्दसा ।  
+अङ्गिरस्व᳓द्द्यौ᳓रसि +++(ध्रुवा᳓सि ।  धार᳓या म᳓यि प्रजाँ᳓ राय᳓स्पो᳓षङ्गौपत्यँ᳓ सुवी᳓र्यँ सजाता᳓न्य᳓जमानाय᳓ ।  )+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -601,7 +605,7 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वे॑ त्वा दे॒वा वै॑श्वान॒राᳵ कृ॑ण्व॒न्तु , आनु॑ष्टुभेन॒ छन्द॑सा ।  
+वि᳓श्वे त्वा देवा᳓ वैश्वानराᳵ᳓ कृण्वन्तु᳓ , आ᳓नुष्टुभेन छ᳓न्दसा ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -616,9 +620,9 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ङ्गि॒र॒स्वद्दिशो॑ऽसि ।  
-ध्रु॒वासि॑ ।  
-धा॒रया॒ मयि॑ प्र॒जाँ रा॒यस्पोष॑ङ्गौप॒त्यँ सु॒वीर्यँ॑ सजा॒तान्यज॑माना॒य ।  
+अङ्गिरस्व᳓द्दि᳓शोऽसि ।  
+ध्रुवा᳓सि ।  
+धार᳓या म᳓यि प्रजाँ᳓ राय᳓स्पो᳓षङ्गौपत्यँ᳓ सुवी᳓र्यँ सजाता᳓न्य᳓जमानाय᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -645,7 +649,7 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑त्यै॒ रास्ना॑ऽसि ,  
+अ᳓दित्यै रा᳓स्नाऽसि ,  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -665,7 +669,7 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑तिस्ते॒ बिल॑ङ्गृह्णातु॒ पाङ्क्ते॑न॒ छन्द॑साऽङ्गिर॒स्वत् ।  
+अ᳓दितिस्ते बि᳓लङ्गृह्णातु पा᳓ङ्क्तेन छ᳓न्दसाऽङ्गिरस्व᳓त् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -696,8 +700,8 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कृ॒त्वाय॒ सा म॒हीमु॒खाम्मृ॒न्मयीय्ँ॒योनि॑म॒ग्नये॑ ।  
-ताम्पु॒त्रेभ्य॒स्सम्प्राय॑च्छ॒ददि॑तिश्श्र॒पया॒निति॑ ॥ [21]  
+कृत्वा᳓य सा᳓ मही᳓मुखा᳓म्मृन्म᳓यीय्ँयो᳓निमग्न᳓ये ।  
+ता᳓म्पुत्रे᳓भ्यस्स᳓म्प्रा᳓यच्छद᳓दितिश्श्रप᳓यानि᳓ति ॥ [21]  
 </details>
 
 <details><summary>मूलम्</summary>

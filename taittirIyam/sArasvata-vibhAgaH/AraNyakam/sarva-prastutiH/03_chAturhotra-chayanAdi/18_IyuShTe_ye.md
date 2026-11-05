@@ -1,14 +1,14 @@
 +++
 title = "१८ ईयुष्टे ये"
-
 +++
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1 सन्ति वृष्टयो नाम षोडशेष्टकाः 'इयमेव सा या' इत्याद्याः । तासामियं षोडशी ईयुष्ट इति त्रिष्टुप् ॥ 
 </details>
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 +++(पूर्वजाः)+++ **ईयु᳓ष् टे᳓ ये᳓** पू᳓र्वतराम् **अ᳓पश्यन्**  
 व्युच्छ᳓न्तीम् **उष᳓सं** म᳓र्त्यासः ।  
@@ -16,10 +16,17 @@ _______
 आ᳓+उ᳓ ते᳓ +++(प्रजाः)+++ **यन्ति ये᳓ अपरी᳓षु+++(=अनागतासु)+++ प᳓श्यान्** ॥
 
 </details>
-
 </div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/113/11_IyuShTe_ye.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+ई॒युष्टे ये पूर्व॑तरा॒मप॑श्यन्व्यु॒च्छन्ती॑मु॒षसं॒ मर्त्या॑सः ।  
+अ॒स्माभि॑रू॒ नु प्र॑ति॒चक्ष्या॑भू॒दो ते य॑न्ति॒ ये अ॑प॒रीषु॒ पश्या॑न् ॥
+</details>
+</div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/113/11_IyuShTe_ye.md">
-<details open><summary><h5>011 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -248,6 +255,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+ये। मर्त्यासः- मनुष्याः। पूर्वतराम्- पुराणीम्। व्युच्छन्तीम्- तमो विवासयन्तीं ज्योतिषा व्याप्य  तिष्ठन्तीम्। उषसम्- ज्ञानोदयदेवताम्। अपश्यन्- दृष्टवन्तः। ते। ईयुः- गताः। अस्माभिः। नु-  इदानीम्। प्रतिचक्ष्या- दृष्टा। अभूत्। ये। अपरीषु- भाविनिशान्तेषु। पश्यान्- द्रक्ष्यन्ति। ते।  यन्ति- आगमिष्यन्त्येव। सा सार्वकालिकेति भावः॥११॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **ये** **मर्त्यासः** मरणधर्माणो मनुष्याः **व्युच्छन्तीं** विवासयन्तीं **पूर्वतराम्** अतिशयेन पूर्वां विप्रकृष्टाम् **उषसम्** **अपश्यन्** दृष्टवन्तः **ते** मनुष्याः **ईयुः** गताः। तथा **अस्माभिः** अपि **नु** इदानीं **प्रतिचक्ष्या** प्रकर्षेण द्रष्टव्या **अभूत्** जाता । तथा **अपरीषु** भाविनीषु रात्रिषु **ये** मनुष्याः एतामुषसं **पश्यान्** पश्यन्ति **ते** । आ उ इति निपातद्वयसमुदायः । तत्र उ इत्येतदवधारणे । एव **यन्ति** आगच्छन्त्येव । कालत्रयेऽप्येषा व्याप्य वर्तते इत्यर्थः ॥ 
@@ -285,7 +297,7 @@ They have gone, the mortals who saw the earlier dawn dawning forth. (This dawn) 
 With Grassmann (et al.) I take praticákṣyā as the gerundive; cf. I.124.8.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
-<details open><summary><h7>07-13 ...{Loading}...</h7></summary>
+<details open><summary><h7>07-13 …{Loading}…</h7></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
 These verses have a surprising density of forms of ví √vas ‘dawn forth’ (7b, d, 8c, 9b, 10b [2x], 11b, 12d, 13a, b, c), whereas vss. 1-6 lack any such forms -- though there’s a teasing echo in 4b ví … āvaḥ ‘She opened, uncovered’, belonging, however, to √vṛ. See also comments on vs. 14.
@@ -377,6 +389,5 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  जी माणसे उषेचे आगमन होण्यापूर्वी जागे होऊन आवश्यक कार्य करतात व नंतर परमेश्वराचे ध्यान करतात ती बुद्धिमान व धार्मिक असतात. जे स्त्री-पुरुष परमेश्वराचे ध्यान करून प्रेमाने आपापसात बोलतात. त्यांना अनेक प्रकारचे सुख प्राप्त होते. ॥ ११ ॥
-</details>
 </details>
 </div>

@@ -194,8 +194,7 @@ This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
 4ततश्च त्वत्प्रसादाद् अस्माकम् इत्थम् अस्त्व् इत्य् आशास्ते - भेषजं गव इति पङ्क्त्या पञ्चपदया ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 भेषज᳓ङ् ग᳓वे᳓ ऽश्वाय ..   
@@ -205,11 +204,9 @@ This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
 सुग᳓म् मेषा᳓य मेष्या᳙ ॥
 
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -244,7 +241,6 @@ Good [1] for ram and sheep.
 अवा॑म्ब रु॒द्रम॑दिम॒ह्यव॑ दे॒वन्त्र्य॑म्बकम्  ॥ यथा॑ न॒श्श्रेय॑स॒ᳵ कर॒द्यथा॑ नो॒ वस्य॑स॒ᳵ कर॒द्यथा॑ नᳶ पशु॒मत॒ᳵ कर॒द्यथा॑ नो व्यवसा॒यया॑त्  ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -307,7 +303,7 @@ That he may embolden us.
 6त्रिः प्रदक्षिणं परियन्ति - त्र्यम्बकमिति । 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/059/12_tryambakaM_yajAmahe.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/059/12_tryambakaM_yajAmahe.md">
 
 त्रि᳓यम्बकं यजामहे  
 सुग᳓न्धिम् पुष्टि-व᳓र्धनम् +++(&lt;"गतिकारकोपपदात् कृत्")+++।  
@@ -316,8 +312,15 @@ That he may embolden us.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/059/12_tryambakaM_yajAmahe.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/059/12_tryambakaM_yajAmahe.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+त्र्य॑म्बकं यजामहे सु॒गन्धिं॑ पुष्टि॒वर्ध॑नम् ।  
+उ॒र्वा॒रु॒कमि॑व॒ बन्ध॑नान्मृ॒त्योर्मु॑क्षीय॒ मामृता॑त् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/059/12_tryambakaM_yajAmahe.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः (मृत्युविमोचिनी ऋक्)
@@ -619,7 +622,6 @@ Den Triambaka verehren wir, den schönduftenden, Nahrung mehrenden. Wie eine Kü
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. हे माणसांनो ! आम्हा सर्व लोकांचे उपास्य जगदीश्वरच आहे. ज्याच्या उपासनेने पुष्टी, वृद्धी, उत्तम यश व मोक्ष प्राप्त होतो. मृत्यूसंबंधी भय नष्ट होते. त्याचा त्याग करून इतराची उपासना करू नये. ॥ १२ ॥
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>

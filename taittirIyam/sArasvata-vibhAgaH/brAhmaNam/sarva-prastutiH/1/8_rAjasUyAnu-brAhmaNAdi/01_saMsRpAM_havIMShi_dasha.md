@@ -6,7 +6,7 @@ unicode_script: devanagari
 ## प्रथमेऽष्टकेअष्टमः प्रश्नः ।
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरु॑णस्य सुषुवा॒णस्य॑ दश॒धेन्द्रि॒यव्ँ वी॒र्य॑म्परा॑ऽपतत् ।
+व᳓रुणस्य सुषुवाण᳓स्य दशधे᳓न्द्रियव्ँ᳓ वीर्य᳙म्प᳓राऽपतत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -21,8 +21,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्सँ॒सृद्भि॒रनु॒ सम॑सर्पत् ।  
-तत्सँ॒सृपाँ॑ सँसृ॒त्त्वम् ।
+त᳓त्सँसृ᳓द्भिर᳓नु स᳓मसर्पत् ।  
+त᳓त्सँसृ᳓पाँ सँसृत्त्व᳓म् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -38,7 +38,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निना॑ दे॒वेन॑ प्रथ॒मेऽह॒न्ननु॒ प्रायु॑ङ्क्त ।
+अग्नि᳓ना देवे᳓न प्रथमे᳓ऽहन्न᳓नु प्रा᳓युङ्क्त ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -53,7 +53,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर॑स्वत्या वा॒चा द्वि॒तीये॑ +++(प्रायुङ्क्त)+++।
+स᳓रस्वत्या वाचा᳓ द्विती᳓ये +++(प्रायुङ्क्त)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -68,7 +68,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒वि॒त्रा प्र॑स॒वेन॑ तृ॒तीये॑ +++(प्रायुङ्क्त)+++।।
+सवित्रा᳓ प्रसवे᳓न तृती᳓ये +++(प्रायुङ्क्त)+++।।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -83,7 +83,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒ष्णा प॒शुभि॑श्चतु॒र्थे +++(प्रायुङ्क्त)+++।।
+पूष्णा᳓ पशु᳓भिश्चतुर्थे᳓ +++(प्रायुङ्क्त)+++।।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -98,7 +98,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह॒स्पति॑ना॒ ब्रह्म॑णा पञ्च॒मे +++(प्रायुङ्क्त)+++।।
+बृ᳓हस्प᳓तिना ब्र᳓ह्मणा पञ्चमे᳓ +++(प्रायुङ्क्त)+++।।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -113,7 +113,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रे॑ण दे॒वेन॑ ष॒ष्ठे ।+++(प्रायुङ्क्त)+++।
+इ᳓न्द्रेण देवे᳓न षष्ठे᳓ ।+++(प्रायुङ्क्त)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -128,7 +128,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरु॑णेन॒ स्वया॑ दे॒वत॑या सप्त॒मे +++(प्रायुङ्क्त)+++।॥1॥  
+व᳓रुणेन स्व᳓या देव᳓तया सप्तमे᳓ +++(प्रायुङ्क्त)+++।॥1॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -143,7 +143,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमे॑न॒ राज्ञा॑ऽष्ट॒मे +++(प्रायुङ्क्त)+++।।
+सो᳓मेन रा᳓ज्ञाऽष्टमे᳓ +++(प्रायुङ्क्त)+++।।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -158,7 +158,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वष्ट्रा॑ रू॒पेण॑ नव॒मे +++(प्रायुङ्क्त)+++।।
+त्व᳓ष्ट्रा रूपे᳓ण नवमे᳓ +++(प्रायुङ्क्त)+++।।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -173,7 +173,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णु॑ना य॒ज्ञेना॑प्नोत् ।
+वि᳓ष्णुना यज्ञे᳓नाप्नोत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -186,7 +186,6 @@ unicode_script: devanagari
 ततो देवादिमत्तया विष्णुना हेतुना विष्ण्वाप्मना वा यज्ञेन अत्मीयमिन्द्रियं वीर्यं च आप्नोत् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यत्सँ॒सृपो॒ भव॑न्ति ।
@@ -195,7 +194,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्सँ॒सृपो॒ भव॑न्तीन्द्रि॒यमे॒व तद्वी॒र्यय्ँ॑यज॑मान आप्नोति ।
+य᳓त्सँसृ᳓पो भ᳓वन्तीन्द्रिय᳓मेव᳓ त᳓द्वीर्यय्ँ᳙य᳓जमान आप्नोति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -208,7 +207,6 @@ unicode_script: devanagari
 यदित्यादि । गतम् ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 पूर्वा॑पूर्वा॒ वेदि॑र्भवति ।
@@ -217,7 +215,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पूर्वा॑पूर्वा॒ वेदि॑र्भवती॒न्द्रि॒यस्य॑ वी॒र्य॑स्याव॑रुद्ध्यै ।
+पू᳓र्वापूर्वा वे᳓दिर्भवतीन्द्रिय᳓स्य वीर्य᳙स्या᳓वरुद्ध्यै ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -232,11 +230,11 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पु॒रस्ता॑दुप॒सदाँ॑ सौ॒म्येन॒ प्रच॑रति ।
-सोमो॒ वै रे॑तो॒धाः ।
-रेत॑ ए॒व तद्द॑धाति ।
-अ॒न्त॒रा त्वा॒ष्ट्रेण॑ ।
-रेत॑ ए॒व हि॒तन्त्वष्टा॑ रू॒पाणि॒ विक॑रोति ।
+पुर᳓स्तादुपस᳓दाँ सौम्ये᳓न प्र᳓चरति ।
+सो᳓मो वै᳓ रेतोधाः᳓ ।
+रे᳓त एव᳓ त᳓द्दधाति ।
+अन्तरा᳓ त्वाष्ट्रे᳓ण ।
+रे᳓त एव᳓ हित᳓न्त्व᳓ष्टा रूपा᳓णि वि᳓करोति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -255,9 +253,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒परि॑ष्टाद्वैष्ण॒वेन॑ +++(प्रचरति)+++।
-य॒ज्ञो वै विष्णुः॑ ।
-य॒ज्ञ ए॒वान्त॒तᳶ प्रति॑ तिष्ठति ॥2 ।।
+उप᳓रिष्टाद्वैष्णवे᳓न +++(प्रचरति)+++।
+यज्ञो᳓ वै᳓ वि᳓ष्णुः ।
+यज्ञ᳓ एवा᳓न्ततᳶ᳓ प्र᳓ति तिष्ठति ॥2 ।।
 </details>
 
 <details><summary>मूलम्</summary>

@@ -1076,7 +1076,6 @@ unicode_script: devanagari
 प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।   
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् वा᳓ इद᳓म् म᳓नस्य् एव᳓ परम᳓म् प्र᳓तिष्ठितम्।   

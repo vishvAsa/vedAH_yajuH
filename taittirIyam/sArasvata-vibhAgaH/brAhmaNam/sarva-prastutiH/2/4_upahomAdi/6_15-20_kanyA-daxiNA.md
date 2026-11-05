@@ -1,6 +1,5 @@
 +++
 title = "६ १५-२० कन्या-दक्षिणा"
-
 +++
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -13,17 +12,20 @@ title = "६ १५-२० कन्या-दक्षिणा"
 इत्येताभिष् षड्भिर् अनुच्छन्दसम्' इति ।  
 आपस्तम्बमतानुसारिणस्तु वध्वाः शिरसि तण्डुलप्रक्षेपे विनियोगमाहुः ॥
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/02_prajApatis_striyAy.N.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-प्र॒जा-प॑तिस् स्त्रि॒याय्ँ यशः॑ ।  
-मु॒ष्कयो॑र् **अदधा॒त्** सप॑म्+++(←सप्=प्रजनन-सम्बन्धे)+++ ।  
-काम॑स्य॒ तृप्ति॑म् आन॒न्दम् ।  
-तस्या॑ग्ने **भाजये॒ह** मा॑ ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/02_prajApatis_striyAy.N.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+प्रजा᳓-पतिस् स्त्रियाय्ँ᳓ य᳓शः ।  
+मुष्क᳓योर् **अदधात्** स᳓पम्+++(←सप्=प्रजनन-सम्बन्धे)+++ ।  
+का᳓मस्य तृ᳓प्तिम् आनन्द᳓म् ।  
+त᳓स्याग्ने **भाजयेह᳓** मा ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/02_prajApatis_striyAy.N.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/02_prajApatis_striyAy.N.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिस्स्त्रि॒याय्ँ यशः॑ ।  
@@ -38,17 +40,20 @@ title = "६ १५-२० कन्या-दक्षिणा"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/05_modapH_pramoda.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-मोद॑ᳶ प्रमो॒द आ॑न॒न्दः ॥55॥   
-मु॒ष्कयो॒र् निहि॑त॒स् सपः॑+++(←सप्=प्रजनन-सम्बन्धे)+++ ।  
-सृ॒त्वेव॒ काम॑स्य **तृप्याणि** ।  
-+++(कन्या-)+++दक्षि॑णानाम् प्रतिग्र॒हे ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/05_modapH_pramoda.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+मो᳓दᳶ प्रमोद᳓ आनन्दः᳓ ॥55॥   
+मुष्क᳓योर् नि᳓हितस् स᳓पः+++(←सप्=प्रजनन-सम्बन्धे)+++ ।  
+सृत्वे᳓व का᳓मस्य **तृप्याणि** ।  
++++(कन्या-)+++द᳓क्षिणानाम् प्रतिग्रहे᳓ ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/05_modapH_pramoda.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/05_modapH_pramoda.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 मोद॑ᳶ प्रमो॒द आ॑न॒न्दः ॥55॥  
@@ -65,17 +70,20 @@ title = "६ १५-२० कन्या-दक्षिणा"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/08_manasash_chittam.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-मन॑सश् चि॒त्तम् आकू॑तिम् ।  
-वा॒चस् स॒त्यम् **अ॑शीमहि** ।  
-प॒शू॒नाँ रू॒पम् अन्न॑स्य ।  
-यश॒श् श्रीश् **श्र॑यता॒म्** मयि॑ ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/08_manasash_chittam.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+म᳓नसश् चित्त᳓म् आ᳓कूतिम् ।  
+वाच᳓स् सत्य᳓म् **अशीमहि** ।  
+पशूनाँ᳓ रूप᳓म् अ᳓न्नस्य ।  
+य᳓शश् श्री᳓श् **श्रयताम्** म᳓यि ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/08_manasash_chittam.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/08_manasash_chittam.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 मन॑सश्चि॒त्तमाकू॑तिम् ।  
@@ -90,17 +98,20 @@ title = "६ १५-२० कन्या-दक्षिणा"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/11_yathA-hamasyA_atRpa.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यथा॒ऽहम॒स्या **अतृ॑पँ** स्त्रि॒यै पुमा॑न् ।  
-यथा॒ स्त्री **तृप्य॑ति** पुँ॒सि प्रि॒ये प्रि॒या ।  
-ए॒वम् भग॑स्य **तृप्याणि** ॥56॥  
-य॒ज्ञस्य॒ काम्य॑ᳶ प्रि॒यः ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/11_yathA-hamasyA_atRpa.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+य᳓थाऽह᳓मस्या᳓ **अ᳓तृपँ** स्त्रियै᳓ पु᳓मान् ।  
+य᳓था स्त्री᳓ **तृ᳓प्यति** पुँसि᳓ प्रिये᳓ प्रिया᳓ ।  
+एव᳓म् भ᳓गस्य **तृप्याणि** ॥56॥  
+यज्ञ᳓स्य का᳓म्यᳶ प्रियः᳓ ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/11_yathA-hamasyA_atRpa.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/11_yathA-hamasyA_atRpa.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 यथा॒ऽहम॒स्या अतृ॑पँ स्त्रि॒यै पुमा॑न् ।  
@@ -115,17 +126,20 @@ title = "६ १५-२० कन्या-दक्षिणा"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/14_dadAmIty_agnir.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-+++(कन्यां)+++ **ददा॒मीत्य्** अ॒ग्निर् **व॑दति** ।  
-तथेति॑ वा॒युर् **आ॑ह॒** तत् ।  
-हन्तेति॑ स॒त्यञ् च॒न्द्रमाः॑ ।  
-आ॒दि॒त्यस् स॒त्यम् ओम् इति॑ ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/14_dadAmIty_agnir.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
++++(कन्यां)+++ **द᳓दामी᳓त्य्** अग्नि᳓र् **वदति** ।  
+त᳓थे᳓ति वायु᳓र् **आह** त᳓त् ।  
+ह᳓न्ते᳓ति सत्य᳓ञ् चन्द्र᳓माः ।  
+आदित्य᳓स् सत्य᳓म् ओ᳓म् इ᳓ति ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/14_dadAmIty_agnir.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/14_dadAmIty_agnir.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 ददा॒मीत्य॒ग्निर्व॑दति ।  
@@ -140,17 +154,20 @@ title = "६ १५-२० कन्या-दक्षिणा"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/17_Apas_tath.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-आप॒स् तथ् +++(पूर्वोक्त-कन्या-रूप-दक्षिणां)+++ स॒त्यम् **आभ॑रन्** ।  
-यशो॑ य॒ज्ञस्य॒ दक्षि॑णाम् ।  
-अ॒सौ मे॒ काम॒स् **समृ॑द्ध्यताम्** ।  
-न हि स्पश॒म् **अवि॑दन्न्** अ॒न्यम् अ॒स्मात् ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/17_Apas_tath.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+आ᳓पस् त᳓थ् +++(पूर्वोक्त-कन्या-रूप-दक्षिणां)+++ सत्य᳓म् **आ᳓भरन्** ।  
+य᳓शो यज्ञ᳓स्य द᳓क्षिणाम् ।  
+असौ᳓ मे का᳓मस् **स᳓मृद्ध्यताम्** ।  
+न᳓ हि᳓ स्प᳓शम् **अ᳓विदन्न्** अन्य᳓म् अस्मा᳓त् ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/17_Apas_tath.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/17_Apas_tath.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 आप॒स्तत्स॒त्यमाभ॑रन् ।  

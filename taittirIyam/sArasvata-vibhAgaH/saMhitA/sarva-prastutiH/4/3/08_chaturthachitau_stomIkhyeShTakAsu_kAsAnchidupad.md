@@ -1,6 +1,5 @@
 +++
 title = "०८ चतुर्थचितौ स्तोमीख्येष्टकासु कासाञ्चिदुपधानम्"
-
 +++
 
 अग्निर्ऋषिः
@@ -21,7 +20,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒शुस्त्रि॒वृत्  ,
+आशु᳓स्त्रिवृ᳓त्  ,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -48,7 +47,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भा॒न्तᳶ प॑ञ्चद॒शः,
+भान्तᳶ᳓ पञ्चदशः᳓,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -63,7 +62,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्यो॑म सप्तद॒श॑ः ,
+व्यो᳙म सप्तदशः᳙ ,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -78,7 +77,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रतू॑र्तिरष्टाद॒शः ,
+प्र᳓तूर्तिरष्टादशः᳓ ,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -94,7 +93,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-्तपो॑ नवद॒शः॑ ,
+्त᳓पो नवदशः᳙ ,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -109,7 +108,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभिव॒र्तस्स॑विँ॒शः ,
+अ᳓भि᳓वर्त᳓स्सविँशः᳓ ,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -125,7 +124,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध॒रुण॑ एकविँ॒शः ,
+धरु᳓ण एकविँशः᳓ ,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -140,7 +139,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वर्चो॑ द्वाविँ॒शः ,
+व᳓र्चो द्वाविँशः᳓ ,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -155,7 +154,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒म्भर॑णस्त्रयोविँ॒शः ,
+सम्भ᳓रणस्त्रयोविँशः᳓ ,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -170,7 +169,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-योनि॑श्चतुर्विँ॒शः ।  
+यो᳓निश्चतुर्विँशः᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -185,7 +184,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गर्भाः॑ पञ्चविँ॒शः ,
+ग᳓र्भाः पञ्चविँशः᳓ ,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -200,7 +199,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओज॑स्त्रिण॒वः,
+ओ᳓जस्त्रिणवः᳓,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -215,7 +214,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्रतु॑रेकत्रिँ॒शः,
+क्र᳓तुरेकत्रिँशः᳓,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -230,7 +229,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒ति॒ष्ठा त्र॑यस्त्रिँ॒शः ।
+प्रतिष्ठा᳓ त्रयस्त्रिँशः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -245,7 +244,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ध्नस्य॑ वि॒ष्टपं चतुस्त्रिँ॒शः,
+ब्रध्न᳓स्य विष्ट᳓पं᳓ च᳓तु᳓स्त्रिँशः᳓,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -261,7 +260,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाक॑ष्षट्त्रिँ॒शः,
+ना᳓कष्षट्त्रिँशः᳓,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -276,7 +275,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒व॒र्तो॑ऽष्टाचत्वारिँ॒शः,
+विवर्तो᳙ऽष्टाचत्वारिँशः᳓,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -293,7 +292,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध॒र्त्रश्च॑तुष्टो॒मः ॥ [15]  
+धर्त्र᳓श्चतुष्टोमः᳓ ॥ [15]  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -333,7 +332,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भा॒न्तᳶ प॑ञ्चद॒शः,
+भान्तᳶ᳓ पञ्चदशः᳓,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -350,8 +349,8 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्यो॑म सप्तद॒शः ,
-प्रतू॑र्तिरष्टाद॒शः ,
+व्यो᳙म सप्तदशः᳓ ,
+प्र᳓तूर्तिरष्टादशः᳓ ,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -369,7 +368,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भि॒व॒र्तस्स॑विँ॒शः  ,
+अभिवर्त᳓स्सविँशः᳓  ,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -387,8 +386,8 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ्
-ध॒रुण॑ एकविँ॒शः ,   
-वर्चो॑ द्वाविँ॒शः ,  
+धरु᳓ण एकविँशः᳓ ,   
+व᳓र्चो द्वाविँशः᳓ ,  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -408,7 +407,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-्तपो॑ नवद॒शः ,
+्त᳓पो नवदशः᳓ ,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -426,7 +425,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-योनि॑श्चतुर्विँ॒शः,
+यो᳓निश्चतुर्विँशः᳓,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -442,7 +441,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गर्भाः॑ पञ्चविँ॒शः ,
+ग᳓र्भाः पञ्चविँशः᳓ ,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -458,7 +457,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओज॑स्त्रिण॒वः,
+ओ᳓जस्त्रिणवः᳓,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -474,7 +473,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒म्भर॑णस्त्रयोविँ॒शः ,
+सम्भ᳓रणस्त्रयोविँशः᳓ ,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -491,7 +490,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्रतु॑रेकत्रिँ॒शः,
+क्र᳓तुरेकत्रिँशः᳓,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -509,7 +508,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ध्नस्य॑ वि॒ष्टपं चतुस्त्रिँ॒शः,
+ब्रध्न᳓स्य विष्ट᳓पं᳓ च᳓तु᳓स्त्रिँशः᳓,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -526,7 +525,7 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒ति॒ष्ठा त्र॑यस्त्रिँ॒शः ,
+प्रतिष्ठा᳓ त्रयस्त्रिँशः᳓ ,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -542,9 +541,9 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाक॑ष्षट्त्रिँ॒शः,
-वि॒व॒र्तो॑ऽष्टाचत्वारिँ॒शः ,
-ध॒र्त्रश्च॑तुष्टो॒मः ॥   
+ना᳓कष्षट्त्रिँशः᳓,
+विवर्तो᳙ऽष्टाचत्वारिँशः᳓ ,
+धर्त्र᳓श्चतुष्टोमः᳓ ॥   
 </details>
 
 <details><summary>मूलम्</summary>

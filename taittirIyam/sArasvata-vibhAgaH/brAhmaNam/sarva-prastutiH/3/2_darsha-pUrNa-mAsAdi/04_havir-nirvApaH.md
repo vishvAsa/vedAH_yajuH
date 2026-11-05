@@ -1,7 +1,6 @@
 +++
 title = "+०४"
 unicode_script = "devanagari"
-
 +++
 ## कर्म॑णे वान्दे॒वेभ्य॑श् शकेय॒म्
 <details open><summary>विश्वास-प्रसुतिः</summary>
@@ -75,8 +74,8 @@ unicode_script = "devanagari"
 </details>
 
 ## अपाम् प्रणयनम्
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/apaH_praNayati.md">
-<details open><summary><h2>अपः प्रणयति ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/apaH_praNayati.md">
+<details open><summary><h2>अपः प्रणयति …{Loading}…</h2></summary>
 <details open><summary>विश्वास-प्रसुतिः</summary>
 
 अ॒पᳶ प्रण॑यति ।  
@@ -195,7 +194,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(आपो॒ वै शा॒न्ताः । शा॒न्ताभि॑र् ए॒वास्य॑ शुचँ॑ शमयति ॥)
+(आ᳓पो वै᳓ शान्ताः᳓ । शान्ता᳓भिर् एवा᳓स्य शु᳓चँ शमयति ॥)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -229,12 +228,11 @@ unicode_script = "devanagari"
 </details>
 
 ## प्रतितपनम्
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/pratyuShTaM_raxaH.md">
-<details open><summary><h5>प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/pratyuShTaM_raxaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
-रक्ष॑सा॒म् अप॑हत्यै ।
+"प्र᳓त्युष्टँ र᳓क्षᳶ प्र᳓त्युष्टा अ᳓रातय" इ᳓त्याह ।  
+र᳓क्षसाम् अ᳓पहत्यै ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -250,8 +248,8 @@ ___________________________________________
 
 अनिष्टपरिहारायेष्टसिद्धये चोभौ मन्त्रावित्याह – ‘प्रत्युष्टँ रक्षः प्रत्युष्टा अरातय इत्याह। रक्षसामपहत्यै। 
 </details>
-</details>
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4प्रत्युष्टमिति प्रतितपनम् ॥
@@ -288,7 +286,7 @@ ___________________________________________
 
 <details open><summary>विश्वास-प्रसुतिः</summary>
 
-"धूर्व॒ तय्ँ यो॒॑ ऽस्मान् धूर्व॑ति॒  
+"धूर्व॒ तय्ँ यो॒॑ ऽस्मान् धूर्व॑ति॒  
 तन् धू॑र्व॒ यव्ँ व॒यन् धूर्वा॑म॒" इत्या॑ह ।   
 
 द्वौ वाव पुरु॑षौ॒ -   
@@ -343,11 +341,11 @@ ___________________________________________
 
 द्वितीयभागे व्रीहिभारप्रयुक्तं शैथिल्यं वार्यत इत्याह –”अह्रुतमसि हविर्धानमित्याहानार्त्यै” (ब्रा. का. ३ प्र. २ अ. ४ ) इति। 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/03_dohanam/dRMhasva.md">
-<details open><summary><h5>दृँह॑स्व॒ ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/03_dohanam/dRMhasva.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"दृँह॑स्व॒ मा ह्वा॒र्"+++(=कुटिलीभव)+++ इत्या॑ह॒ धृत्यै॑ ॥17॥
+"दृँ᳓हस्व मा᳓ ह्वार्"+++(=कुटिलीभव)+++ इ᳓त्याह धृ᳓त्यै ॥17॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -358,7 +356,6 @@ ___________________________________________
 <details><summary>सायण-टीका</summary>
 
 तृतीयभागे स्वयमप्यारोढुं शकटस्य धैर्यं संपाद्यत इत्याह — “दृँहस्व मा ह्वारित्याह धृत्यै” (ब्रा. का. ३ प्र. २ अ. ४ ) इति। 
-</details>
 </details>
 </div>
 
@@ -414,11 +411,10 @@ ___________________________________________
 </details>
 
 ## निर्वापः
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/devasya_tvA_savituH.md">
-<details open><summary><h5>दे॒वस्य॑ त्वा ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/devasya_tvA_savituH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इत्या॑ह॒ प्रसू॑त्यै ।
+"देव᳓स्य त्वा सवितुᳶ᳓ प्रसव᳓" इ᳓त्याह प्र᳓सूत्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -441,12 +437,12 @@ ________________________________________________________________________________
 
 अत्रानाम्नातमप्यनेनैवाभिप्रायेण व्याचष्टे – “देवस्य त्वा सवितुः प्रसव इत्याह प्रसूत्यै।" 
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
-<details open><summary><h10>अ॒श्विनो॑र् बा॒हुभ्या॒म् ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒श्विनो॑र् बा॒हुभ्या॒म्" इत्य् आ॑ह ।  
-अ॒श्विनौ॒ हि दे॒वाना॑म् अध्व॒र्यू आस्ता॑म् ।
+"अश्वि᳓नोर् बाहु᳓भ्याम्" इ᳓त्य् आह ।  
+अश्वि᳓नौ हि᳓ देवा᳓नाम् अध्वर्यू᳓ आ᳓स्ताम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -479,7 +475,7 @@ ________________________________________________________________________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"पू॒ष्णो हस्ता॑भ्या॒"म् इत्य् आ॑ह॒ यत्यै॑ ।
+"पूष्णो᳓ ह᳓स्ताभ्या"म् इ᳓त्य् आह य᳓त्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -507,10 +503,9 @@ ________________________________________________________________________________
 पूष्णो हस्ताभ्यामित्याह यत्यै (ब्रा. का.३ प्र.२ अ.९) इति ।
 
 </details>
-</details>
 </div>
-</details>
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10देवस्यत्वेति हविषो निर्वापणम् ॥ व्याख्यातम् ।
@@ -518,8 +513,8 @@ ________________________________________________________________________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒ग्नये॒ जुष्ट॒न् निर्व॑पा॒मी"त्या॑ह ।  
-अ॒ग्नय॑ ए॒वैना॒ञ् जुष्ट॒न् निर्व॑पति ।
+"अग्न᳓ये जु᳓ष्टन् नि᳓र्वपामी᳓"त्याह ।  
+अग्न᳓य एवै᳓नाञ् जु᳓ष्टन् नि᳓र्वपति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -674,11 +669,11 @@ ________________________________________________________________________________
 
 अदार्ढ्यशङ्कायाः सद्भावाद्दार्ढ्यमाशंसनीयमित्याह — ‘द्यावापृथिवी हविषि गृहीत उदवेपेताम्। दृँहन्तां दुर्या द्यावापृथिव्योरित्याह। गृहाणां द्यावापृथिव्योर्धृत्यै’ (ब्रा. का. ३ प्र. २ अ. ४ ) इति। 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/urv-antarixam.md">
-<details open><summary><h5>उ॒र्व॑न्तरि॑क्ष॒म् ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/urv-antarixam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"उ॒र्व॑न्तरि॑क्ष॒म् अन्वि॒ही"त्या॑ह॒ गत्यै॑ ।
+"उर्व᳙न्त᳓रिक्षम् अ᳓न्विही᳓"त्याह ग᳓त्यै ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -695,8 +690,8 @@ ________________________________________________________________________________
 
 व्याचष्टे — ‘उर्वन्तरिक्षमन्विहीत्याह गत्यै’ (ब्रा. का. ३ प्र. २ अ. ४ ) इति।
 </details>
-</details>
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 15उर्विति गमनम् ॥
@@ -726,8 +721,8 @@ ________________________________________________________________________________
 
 अदितिशब्दस्य भूमिरर्थ इत्याह – ‘अदित्यास्त्वोपस्थे सादयामीत्याह। इयं वा अदितिः। अस्या एवैनदुपस्थे सादयति’ (ब्रा. का. ३ प्र. २ अ. ४ ) इति।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/agne_havyam.md">
-<details open><summary><h5>अग्ने॑ ह॒व्यँ ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/agne_havyam.md">
 <details open><summary>विश्वास-प्रसुतिः</summary>
 
 "अग्ने॑ ह॒व्यँ र॑क्ष॒स्वे"त्या॑ह॒ गुप्त्यै॑ ॥34॥
@@ -750,7 +745,6 @@ ________________________________________________________________________________
 _______________________________
 
 पूर्ववद्व्याचष्टे – ‘अग्ने हव्यँ रक्षस्वेत्याह गुप्त्यै’ (ब्रा. का. ३ प्र. २ अ. ८) इति।  
-</details>
 </details>
 </div>
 

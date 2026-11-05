@@ -1,6 +1,5 @@
 +++
 title = "१० एकविंशतिरात्रविधिः"
-
 +++
 ## परिचयः
 - अतिरात्रः
@@ -15,7 +14,7 @@ title = "१० एकविंशतिरात्रविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒साव् आ॑दि॒त्यो॑ ऽस्मिल्ँ लो॒क आ॑सीत् ।
+असा᳓व् आदित्यो᳙ ऽस्मिल्ँ लोक᳓ आसीत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -25,7 +24,7 @@ Yonder sun was in this world.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन् दे॒वाᳶ पृ॒ष्ठैᳶ +++(षड्भिरहोभिः)+++ प॑रि॒गृह्य॑ सुव॒र्गल्ँ लो॒कम् अ॑गमयन् ।
+त᳓न् देवाᳶ᳓ पृष्ठैᳶ᳓ +++(षड्भिरहोभिः)+++ परिगृ᳓ह्य सुवर्गल्ँ᳓ लोक᳓म् अगमयन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -35,8 +34,8 @@ The gods surrounded it with the Prsthas and removed it to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परै॑र् +++(त्रिभिरहोभिः)+++ अ॒वस्ता॒त्+++(=पृष्ठतः)+++ पर्य॑गृह्णन्।  
-दिवाकी॒र्त्ये॑न +++(विषुव-प्रातर्-गीयमानेन साम्ना)+++ सुव॒र्गे लो॒के प्रत्य॑स्थापय॒न् ।
+प᳓रैर् +++(त्रिभिरहोभिः)+++ अव᳓स्तात्+++(=पृष्ठतः)+++ प᳓र्यगृह्णन्।  
+दि᳓वा᳓कीर्त्ये᳙न +++(विषुव-प्रातर्-गीयमानेन साम्ना)+++ सुवर्गे᳓ लोके᳓ प्र᳓त्यस्थापयन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -46,8 +45,8 @@ They surrounded it from below with the Para (Samans), and placed it with the Div
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परैः॑ +++(त्रिभिरहोभिः)+++ प॒रस्ता॒त् पर्य॑गृह्णन् +++(अवतरणात् प्राक्)+++।  
-पृ॒ष्ठैर् +++(षड्भिरहोभिः)+++ उ॒पावा॑रोहन् ।
+प᳓रैः +++(त्रिभिरहोभिः)+++ पर᳓स्तात् प᳓र्यगृह्णन् +++(अवतरणात् प्राक्)+++।  
+पृष्ठै᳓र् +++(षड्भिरहोभिः)+++ उपा᳓वारोहन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -57,7 +56,7 @@ They surrounded it from above with the Para (Samans), and with the Prsthas they 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स वा अ॒साव् आ॑दि॒त्यो॑ ऽमुष्मिल्ँ॑ लो॒के परै॑र् उभ॒यत॒ᳶ परि॑गृहीतः ।
+स᳓ वा᳓ असा᳓व् आदित्यो᳙ ऽमु᳓ष्मिल्ँ लोके᳓ प᳓रैर् उभय᳓तᳶ प᳓रिगृहीतः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -65,14 +64,12 @@ They surrounded it from above with the Para (Samans), and with the Prsthas they 
 Yonder sun indeed in yonder world is surrounded by the Para (Samans) on both sides.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् पृ॒ष्ठानि॒ +++(षडहगतानि)+++ भव॑न्ति ,
-सु॒व॒र्गम् ए॒व तैर् लो॒कय्ँ यज॑माना यन्ति ।  
-परै॑र् +++(त्रिभिरहोभिः)+++ अ॒वस्ता॒त् परि॑ गृह्णन्ति +++(आरोहणात् प्राक्)+++।
-दि॒वा॒की॒र्त्ये॑न +++(विषुव-प्रातर्-गीयमानेन साम्ना)+++ सु॒व॒र्गे लो॒के प्रति॑ तिष्ठन्ति । [25]
+य᳓त् पृष्ठा᳓नि +++(षडहगतानि)+++ भ᳓वन्ति ,
+सुवर्ग᳓म् एव᳓ तै᳓र् लोकय्ँ᳓ य᳓जमाना यन्ति ।  
+प᳓रैर् +++(त्रिभिरहोभिः)+++ अव᳓स्तात् प᳓रि गृह्णन्ति +++(आरोहणात् प्राक्)+++।
+दिवाकीर्त्ये᳙न +++(विषुव-प्रातर्-गीयमानेन साम्ना)+++ सुवर्गे᳓ लोके᳓ प्र᳓ति तिष्ठन्ति । [25]
 </details>
 
 <details><summary>Keith</summary>
@@ -82,8 +79,8 @@ In that there are Prsthas the sacrificers go by them to the world of heaven; the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परैः॑  +++(त्रिभिरहोभिः)+++ प॒रस्ता॒त् परि॑गृह्णन्ति +++(अवतरणात् प्राक्)+++।  
-पृ॒ष्ठैर् +++(षड्भिरहोभिः)+++  उ॒पाव॑रोहन्ति ।
+प᳓रैः  +++(त्रिभिरहोभिः)+++ पर᳓स्तात् प᳓रिगृह्णन्ति +++(अवतरणात् प्राक्)+++।  
+पृष्ठै᳓र् +++(षड्भिरहोभिः)+++  उपा᳓वरोहन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -91,12 +88,10 @@ In that there are Prsthas the sacrificers go by them to the world of heaven; the
 They surround it from above with the Para (Samans), and descend with the Prsthas.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् परे॑ +++(त्रीण्य् अहानि +उत्तरार्धे)+++ प॒रस्ता॒न् न स्युᳶ, परा॑ञ्चस् +++(उपरि)+++ सुव॒र्गाल् लो॒कान् निष्प॑द्येर॒न् +++(अतिवर्तित्वात्)+++।  
-यद् +++(त्रीण्य् अहानि +पूर्वार्धे)+++  अ॒वस्ता॒न् न स्युᳶ, प्र॒जा +++(पृथिवीस्थानं च)+++ निर् द॑हेयुः +++(अतिवर्तित्वात्)+++।  
+य᳓त् प᳓रे +++(त्रीण्य् अहानि +उत्तरार्धे)+++ पर᳓स्तान् न᳓ स्युᳶ᳓, प᳓राञ्चस् +++(उपरि)+++ सुवर्गा᳓ल् लोका᳓न् नि᳓ष्पद्येरन् +++(अतिवर्तित्वात्)+++।  
+य᳓द् +++(त्रीण्य् अहानि +पूर्वार्धे)+++  अव᳓स्तान् न᳓ स्युᳶ᳓, प्रजा᳓ +++(पृथिवीस्थानं च)+++ नि᳓र् दहेयुः +++(अतिवर्तित्वात्)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -104,12 +99,10 @@ They surround it from above with the Para (Samans), and descend with the Prsthas
 If there were not Paras above, they would depart away from the world of heaven; if there were none below, they would burn creatures.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भितो॑ दिवाकी॒र्त्य॑म् +++(त्र्यहोभ्यां)+++ पर॑स्-सामानो भवन्ति ।  
-+++(स्वर्गस्थितान् आदित्यादिदेवान्)+++ सुव॒र्ग ए॒वैनाल्ँ॑ लो॒क उ॑भ॒यत॒ᳶ परि॑ गृह्णन्ति +++(आरोहणावरोहण-कालयोः)+++।
+अभि᳓तो दिवाकीर्त्य᳙म् +++(त्र्यहोभ्यां)+++ प᳓रस्-सामानो भवन्ति ।  
++++(स्वर्गस्थितान् आदित्यादिदेवान्)+++ सु᳓वर्ग᳓ एवै᳓नाल्ँ लोक᳓ उभय᳓तᳶ प᳓रि गृह्णन्ति +++(आरोहणावरोहण-कालयोः)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -117,14 +110,12 @@ If there were not Paras above, they would depart away from the world of heaven; 
 There are Parahsamans on both sides of the Divakirtya; verily they surround them on both sides in the world of heaven.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑माना॒ वै दि॑वाकी॒र्त्य॑म्+++(→विषुवन्तम्)+++ ।
-+++(विषुवस्थानयोर् मध्ये वर्तमावाभ्यां खचक्रार्धाभ्यां युक्तः)+++ सव्ँ॒व॒त्स॒रᳶ पर॑स्सामानः ।  
-अ॒भितो॑ दिवाकी॒र्त्य॑म् पर॑स्सामानो भवन्ति ।  
-सव्ँ॒व॒त्स॒र ए॒वोभ॒यत॒ᳶ प्रति॑ तिष्ठन्ति ।[26]  
+य᳓जमाना वै᳓ दिवाकीर्त्य᳙म्+++(→विषुवन्तम्)+++ ।
++++(विषुवस्थानयोर् मध्ये वर्तमावाभ्यां खचक्रार्धाभ्यां युक्तः)+++ सव्ँवत्सरᳶ᳓ प᳓रस्सामानः ।  
+अभि᳓तो दिवाकीर्त्य᳙म् प᳓रस्सामानो भवन्ति ।  
+सव्ँवत्सर᳓ एवो᳓भय᳓तᳶ प्र᳓ति तिष्ठन्ति ।[26]  
 </details>
 
 <details><summary>Keith</summary>
@@ -132,13 +123,11 @@ There are Parahsamans on both sides of the Divakirtya; verily they surround them
 The Divakirtya is the sacrificers, the Parahsamans the year; the Parahsamans are on both sides of the Divakirtya; verily on both sides [2] they find support in the year.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒ष्ठव्ँ वै दि॑वाकी॒र्त्य॑म् +++(साम)+++, पा॒र्श्वे पर॑स्सामानः ।  
-अ॒भितो॑  दिवाकी॒र्त्य॑म् पर॑स्सामानो भवन्ति ।  
-तस्मा॑द् अ॒भितᳶ॑ पृ॒ष्ठम् पा॒र्श्वे +++(प्रजानाम्)+++।
+पृष्ठव्ँ᳓ वै᳓ दिवाकीर्त्य᳙म् +++(साम)+++, पार्श्वे᳓ प᳓रस्सामानः ।  
+अभि᳓तो  दिवाकीर्त्य᳙म् प᳓रस्सामानो भवन्ति ।  
+त᳓स्माद् अभि᳓तᳶ पृष्ठ᳓म् पार्श्वे᳓ +++(प्रजानाम्)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -146,15 +135,13 @@ The Divakirtya is the sacrificers, the Parahsamans the year; the Parahsamans are
 The Divakirtya is the back, the Parahsamans the two sides; the Parahsamans are on both sides of the Divakirtya; therefore the sides are on both sides of the back.
 </details>
 
-
-
 ## ग्रहविचारः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूयि॑ष्ठा॒ ग्रहा॑ गृह्यन्ते ।
-भूयि॑ष्ठँ शस्यते ।  
-य॒ज्ञस्यै॒व तन् म॑ध्य॒तो ग्र॒न्थङ् ग्र॑थ्न॒न्त्य् अवि॑स्रँसाय ।
+भू᳓यिष्ठा ग्र᳓हा गृह्यन्ते ।
+भू᳓यिष्ठँ शस्यते ।  
+यज्ञ᳓स्यैव᳓ त᳓न् मध्यतो᳓ ग्रन्थ᳓ङ् ग्रथ्नन्त्य् अ᳓विस्रँसाय ।
 </details>
 
 <details><summary>Keith</summary>
@@ -162,14 +149,12 @@ The Divakirtya is the back, the Parahsamans the two sides; the Parahsamans are o
 (In the rite) the greatest number of libations are made, the greatest number of Śastras recited; verily in the middle of the sacrifice they tie a knot not to slip.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(त्रिषु परस्सामसु त्रीन् अतिग्राह्यान् गृह्णाति 'उपयामगृहीतोस्यद्भ्यस्त्वौषधीम्यः' इत्यादिभिः त्रिभिः, तान् ऊर्ध्वान् आवृत्तांश् च विषूवति । तेषां मध्ये सूर्यमुदुत्यं जातवेदसमिति ।)+++  
-+++(ततः -)+++ स॒प्त गृ॑ह्यन्ते ।  
-स॒प्त वै शी॑र्ष॒ण्याः॑ प्रा॒णाः+++(=रन्ध्राणि)+++ ।  
-प्रा॒णान् ए॒व यज॑मानेषु दधति ।
++++(ततः -)+++ सप्त᳓ गृह्यन्ते ।  
+सप्त᳓ वै᳓ शीर्षण्याः᳙ प्राणाः᳓+++(=रन्ध्राणि)+++ ।  
+प्राणा᳓न् एव᳓ य᳓जमानेषु दधति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -177,12 +162,10 @@ The Divakirtya is the back, the Parahsamans the two sides; the Parahsamans are o
 There are seven libations; seven are the breaths in the head; verily they place breaths in the sacrificers.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् प॑रा॒चीना॑नि पृ॒ष्ठानि॒ भव॑न्ति ,
-अ॒मुम् ए॒व तैर् लो॒कम् अ॒भ्यारो॑हन्ति ।
+य᳓त् पराची᳓नानि पृष्ठा᳓नि भ᳓वन्ति ,
+अमु᳓म् एव᳓ तै᳓र् लोक᳓म् अभ्या᳓रोहन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -192,7 +175,7 @@ In that the Prsthas are in succession, they mount upon yonder world with them.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् इ॒मल्ँ लो॒कन् न प्र॑त्यव॒रोहे॑यु॒र्, उद् वा॒ माद्ये॑यु॒र्, यज॑माना॒ᳶ प्र वा॑ मीयेरन् ।
+य᳓द् इमल्ँ᳓ लोक᳓न् न᳓ प्रत्यवरो᳓हेयुर्, उ᳓द् वा मा᳓द्येयुर्, य᳓जमानाᳶ प्र᳓ वा मीयेरन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -200,13 +183,11 @@ In that the Prsthas are in succession, they mount upon yonder world with them.
 If they were not to descend to this world [3], the sacrificers would either go mad or perish.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् प्र॑ती॒चीना॑नि पृ॒ष्ठानि॒ भव॑न्ति-  
-इ॒मम् ए॒व तैर् लो॒कम् प्र॒त्यव॑रोह॒न्ति ।  
-अथो॑ अ॒स्मिन्न् ए॒व लो॒के प्रति॑ तिष्ठ॒न्त्य् अनु॑न्मादाय ।
+य᳓त् प्रतीची᳓नानि पृष्ठा᳓नि भ᳓वन्ति-  
+इम᳓म् एव᳓ तै᳓र् लोक᳓म् प्रत्य᳓वरोहन्ति᳓ ।  
+अ᳓थो अस्मि᳓न्न् एव᳓ लोके᳓ प्र᳓ति तिष्ठन्त्य् अ᳓नुन्मादाय ।
 </details>
 
 <details><summary>Keith</summary>
@@ -214,13 +195,11 @@ If they were not to descend to this world [3], the sacrificers would either go m
 In that the Prsthas are reversed they descend to this world with them; verily also they find support in this world, for sanity.
 </details>
 
-
-
 ## फलम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो॒ वा अप्र॑तिष्ठित आसीत् ।
+इ᳓न्द्रो वा᳓ अ᳓प्रतिष्ठित आसीत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -230,9 +209,9 @@ Indra was unsettled.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स प्र॒जाप॑ति॒म् उपा॑धावत् ।  
-तस्मा॑ ए॒तम् ए॑कविँशति-रा॒त्रम् प्राय॑च्छत् ।  
-तम् आह॑रत् । तेना॑यजत ।
+स᳓ प्रजा᳓पतिम् उ᳓पाधावत् ।  
+त᳓स्मा एत᳓म् एकविँशति-रात्र᳓म् प्रा᳓यच्छत् ।  
+त᳓म् आ᳓हरत् । ते᳓नायजत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -242,7 +221,7 @@ He ran up to Prajapati; he gave him this (rite) of twenty-one nights; he grasped
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वै स प्रत्य॑तिष्ठत् ।
+त᳓तो वै᳓ स᳓ प्र᳓त्यतिष्ठत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -250,12 +229,10 @@ He ran up to Prajapati; he gave him this (rite) of twenty-one nights; he grasped
 Then indeed he became settled.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये ब॑हुया॒जिनो ऽप्र॑तिष्ठितास् स्युस्, [28]
-त ए॑कविँशतिरा॒त्रम् आ॑सीरन् ।
+ये᳓ बहुयाजि᳓नो᳓ ऽप्रति᳓ष्ठि᳓ता᳓स् स्यु᳓स्, [28]
+त᳓ एकविँशतिरात्र᳓म् आसीरन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -265,7 +242,7 @@ Those, who sacrifice much and are unsettled [41, should perform (the rite) of tw
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वाद॑श॒ मासा॒ᳶ, पञ्च॒र्तव॒स्, त्रय॑ इ॒मे लो॒का, अ॒साव् आ॑दि॒त्य ए॑कविँ॒शः ।
+द्वा᳓दश मा᳓साᳶ, प᳓ञ्चर्त᳓वस्, त्र᳓य इमे᳓ लोका᳓, असा᳓व् आदित्य᳓ एकविँशः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -275,8 +252,8 @@ There are twelve months, five seasons, three worlds here, and yonder sun as the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ताव॑न्तो॒ वै दे॑वलो॒काः ।  
-तेष्वे॒व य॑थापू॒र्वम् प्रति॑ तिष्ठन्ति ।
+एता᳓वन्तो वै᳓ देवलोकाः᳓ ।  
+ते᳓ष्वेव᳓ यथापूर्व᳓म् प्र᳓ति तिष्ठन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -284,11 +261,9 @@ There are twelve months, five seasons, three worlds here, and yonder sun as the 
 So many are the worlds of the gods; verily in them in order they find support.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒साव् आ॑दि॒त्यो न व्य॑रोचत ।
+असा᳓व् आदित्यो᳓ न᳓ व्यरोचत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -298,9 +273,9 @@ Yonder sun did not shine.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स प्र॒जाप॑ति॒म् उपा॑धावत्।  
-तस्मा॑ ए॒तम् ए॑कविँशतिरा॒त्रम् प्राय॑च्छत ।  
-तम् आह॑रत । तेना॑यजत ।
+स᳓ प्रजा᳓पतिम् उ᳓पाधावत्।  
+त᳓स्मा एत᳓म् एकविँशतिरात्र᳓म् प्रा᳓यच्छत ।  
+त᳓म् आ᳓हरत । ते᳓नायजत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -310,7 +285,7 @@ He ran up to Prajapati; he gave him this (rite) of twenty-one nights; he grasped
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वै सो॑ऽरोचत ।
+त᳓तो वै᳓ सोऽरोचत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -320,7 +295,7 @@ Then in deed did he shine.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वाँ॑स एकविँशतिरा॒त्रम् आस॑ते॒ , रोच॑न्त ए॒व ।
+य᳓ एवव्ँ᳓ विद्वाँ᳙स एकविँशतिरात्र᳓म् आ᳓सते , रो᳓चन्त एव᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -330,10 +305,10 @@ Those, who knowing thus perform (the rite) of twenty one nights, shine also.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒क॒विँ॒श॒ति॒रा॒त्रो भ॑वति ।
-रुग् वा ए॑क-विँ॒शः ।
-रुच॑म् ए॒व ग॑च्छ॒न्त्य् अथो॑ प्रति॒ष्ठाम् ए॒व ।
-प्र॑ति॒ष्ठा ह्य् ए॑कविँ॒शः ।
+एकविँशतिरात्रो᳓ भवति ।
+रु᳓ग् वा᳓ एक-विँशः᳓ ।
+रु᳓चम् एव᳓ गच्छन्त्य् अ᳓थो प्रतिष्ठा᳓म् एव᳓ ।
+प्र᳓तिष्ठा᳓ ह्य् एकविँशः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -343,13 +318,10 @@ Those, who knowing thus perform (the rite) of twenty one nights, shine also.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ति॒रा॒त्राव॒भितो॑ भवतो, ब्रह्मवर्च॒सस्य॒ परि॑गृहीत्यै ॥ [29]  
+अतिरात्रा᳓वभि᳓तो भवतो, ब्रह्मवर्चस᳓स्य प᳓रिगृहीत्यै ॥ [29]  
 </details>
 
 <details><summary>Keith</summary>
 
 There are Atiratras on either side, for securing splendour.
 </details>
-
-
-

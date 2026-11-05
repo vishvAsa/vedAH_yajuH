@@ -4,7 +4,7 @@ title = "८८ आदित्य व्रतपते"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आदि॑त्य व्रतपते 
+आ᳓दित्य व्रतपते 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -12,27 +12,24 @@ title = "८८ आदित्य व्रतपते"
 आदि॑त्य व्रतपते 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… व्र॒तम् अ॑चारिषम् । तद् अ॑शक॒न्, तन् मे॑ ऽराधि ।
+… व्रत᳓म् अचारिषम् । त᳓द् अशकन्, त᳓न् मे ऽराधि ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 व्र॒तम॑चारिषम् । तद॑शक॒न्तन्मे॑ऽराधि ।
 </details>
- 
 
 <details><summary>मूलम् - संयुक्तम्</summary>
 
 वायो॑ व्रतप॒तेऽग्ने॑ व्रतपते ।
 </details>
- 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वायो॑ व्रतप॒ते
+वा᳓यो व्रतपते᳓
 </details>
 
 <details><summary>मूलम्</summary>
@@ -42,7 +39,7 @@ title = "८८ आदित्य व्रतपते"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… व्र॒तम् अ॑चारिषम् । तद् अ॑शक॒न्, तन् मे॑ ऽराधि ।
+… व्रत᳓म् अचारिषम् । त᳓द् अशकन्, त᳓न् मे ऽराधि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -52,7 +49,7 @@ title = "८८ आदित्य व्रतपते"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ व्रतपते!
+अ᳓ग्ने व्रतपते!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -62,7 +59,7 @@ title = "८८ आदित्य व्रतपते"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… व्र॒तम् अ॑चारिषम् । तद् अ॑शक॒न्, तन् मे॑ ऽराधि ।
+… व्रत᳓म् अचारिषम् । त᳓द् अशकन्, त᳓न् मे ऽराधि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -72,7 +69,7 @@ title = "८८ आदित्य व्रतपते"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒ताना॑व्व्ँरतपते  
+व्रता᳓नाव्व्ँरतपते  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -80,10 +77,9 @@ title = "८८ आदित्य व्रतपते"
 व्र॒ताना॑व्व्ँरतपते  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… व्र॒तम् अ॑चारिषम् । तद् अ॑शक॒न्, तन् मे॑ ऽराधि ।
+… व्रत᳓म् अचारिषम् । त᳓द् अशकन्, त᳓न् मे ऽराधि ।
 </details>
 
 <details><summary>मूलम्</summary>

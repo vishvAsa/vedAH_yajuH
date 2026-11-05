@@ -1,6 +1,5 @@
 +++
 title = "०१ अतिग्राह्यमन्त्राः"
-
 +++
 ७-९ द्विपदा गायत्री  
 विश्वेदेवा ऋषयः  
@@ -17,7 +16,7 @@ title = "०१ अतिग्राह्यमन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ तेजस्विन् तेज॒स्वी त्वन् दे॒वेषु॑ भूयाः॥
+अ᳓ग्ने तेजस्विन् तेजस्वी᳓ त्व᳓न् देवे᳓षु भूयाः॥
 </details>
 
 <details><summary>Keith</summary>
@@ -37,7 +36,7 @@ O Agni, brilliant, be thou brilliant among the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेज॑स्वन्त॒म् माम् आयु॑ष्मन्तव्ँ॒ वर्च॑स्वन्तम् मनु॒ष्ये॑षु कुरु ।  
+ते᳓जस्वन्तम् मा᳓म् आ᳓युष्मन्तव्ँ व᳓र्चस्वन्तम् मनुष्ये᳙षु कुरु ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -62,7 +61,7 @@ make me brilliant, of long life, radiant among men;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दी॒क्षायै॑ च त्वा॒ तप॑सश् च॒ तेज॑से जुहोमि ।
+दीक्षा᳓यै च त्वा त᳓पसश् च ते᳓जसे जुहोमि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -92,8 +91,8 @@ for the brilliance of consecration and of penance do I offer to thee.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॒जो॒-विद् अ॑सि ।
-तेजो॑ मा॒ मा हा॑सीत्  ।  
+तेजो-वि᳓द् असि ।
+ते᳓जो मा मा᳓ हासीत्  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -114,8 +113,8 @@ Thou dost win brilliance; may brilliance forsake me not,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-माऽहन्तेजो॑ हासिषम् ।  
-मा मान्तेजो॑ हासीत् ।  
+मा᳓ऽह᳓न्ते᳓जो हासिषम् ।  
+मा᳓ मा᳓न्ते᳓जो हासीत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -146,8 +145,8 @@ may I forsake not brilliance, may brilliance forsake me not.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रौ॑जस्विन्न् ओज॒स्वी त्वन् दे॒वेषु॑ भूयाः ।  
-ओज॑स्वन्त॒म् माम् आयु॑ष्मन्तव्ँ॒ वर्च॑स्वन्तम् मनु॒ष्ये॑षु कुरु ।  
+इ᳓न्द्रौजस्विन्न् ओजस्वी᳓ त्व᳓न् देवे᳓षु भूयाः ।  
+ओ᳓जस्वन्तम् मा᳓म् आ᳓युष्मन्तव्ँ व᳓र्चस्वन्तम् मनुष्ये᳙षु कुरु ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -168,7 +167,7 @@ O Indra, full of force, be thou full of force among the gods, make me full of fo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म॑णश् च त्वा क्ष॒त्रस्य॑ चौज॑से जुहोमि ।  
+ब्र᳓ह्मणश् च त्वा क्षत्र᳓स्य चौ᳓जसे जुहोमि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -198,10 +197,10 @@ the force of the Brahmanhood and royalty [1] do I offer to thee.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओ॒जो॒-विद् अ॑सि ।  
-ओजो॑ मा॒ मा हा॑सीत् ।  
-मा ऽहम् ओजो॑ हासिष॒म् ।  
-मा माम् ओजो॑ हासीत् ।  
+ओजो-वि᳓द् असि ।  
+ओ᳓जो मा मा᳓ हासीत् ।  
+मा᳓ ऽह᳓म् ओ᳓जो हासिषम् ।  
+मा᳓ मा᳓म् ओ᳓जो हासीत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -234,8 +233,8 @@ Thou dost win force; may force forsake me not, may I forsake not force, may forc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूर्य॑ भ्राजस्विन्भ् राज॒स्वी त्वन् दे॒वेषु॑ भूयाः ।
-भ्राज॑स्वन्त॒म् माम् आयु॑ष्मन्तव्ँ॒ वर्च॑स्वन्तम् मनु॒ष्ये॑षु कुरु ।  
+सू᳓र्य भ्राजस्विन्भ् राजस्वी᳓ त्व᳓न् देवे᳓षु भूयाः ।
+भ्रा᳓जस्वन्तम् मा᳓म् आ᳓युष्मन्तव्ँ व᳓र्चस्वन्तम् मनुष्ये᳙षु कुरु ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -261,7 +260,7 @@ O sun, blazing, be thou blazing among the gods; make me blazing, of long life, r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒योश् च॑ त्वा॒ ऽपाञ् च॒ भ्राज॑से जुहोमि ।
+वायो᳓श् च त्वा ऽपा᳓ञ् च भ्रा᳓जसे जुहोमि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -291,10 +290,10 @@ for the blazing of the wind and of the waters do I offer to thee.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒व॒र्-विद् अ॑सि ।  
-सुव॑र् मा॒ मा हा॑सीत्  ।  
-माहँ सुव॑र् हासिष॒म् ।  
-मा माँ सुव॑र् हासीत् ।  
+सुवर्-वि᳓द् असि ।  
+सु᳓वर् मा मा᳓ हासीत्  ।  
+मा᳓हँ᳓ सु᳓वर् हासिषम् ।  
+मा᳓ माँ᳓ सु᳓वर् हासीत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -319,8 +318,8 @@ Thou dost win the light; may the light forsake me not, may I not forsake the lig
 
 10-12त्रयाणां क्रमेण भक्षमन्त्राः - मयि मेधामित्याद्याः ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/01_atigrAhyamantrAH/mayi_medhAm.md">
-<details open><summary><h5>मयि मेधाम् ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/01_atigrAhyamantrAH/mayi_medhAm.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मय्य॒ग्निस्तेजो॑ दधातु॒ मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयीन्द्र॑ इन्द्रि॒यन्द॑धातु॒ मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयि॒ सूर्यो॒ भ्राजो॑ दधातु ॥ [2]  
@@ -328,8 +327,8 @@ Thou dost win the light; may the light forsake me not, may I not forsake the lig
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मयि॑ मे॒धाम् मयि॑ प्र॒जाम्,  
-मय्य् अ॒ग्निस् तेजो॑ दधातु ।  
+म᳓यि मेधा᳓म् म᳓यि प्रजा᳓म्,  
+म᳓य्य् अग्नि᳓स् ते᳓जो दधातु ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -351,8 +350,8 @@ On me wisdom, on me offspring, on me brilliance may Agni bestow;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मयि॑ मे॒धाम् मयि॑ प्र॒जाम्,  
-मयीन्द्र॑ इन्द्रि॒यन् द॑धातु ।  
+म᳓यि मेधा᳓म् म᳓यि प्रजा᳓म्,  
+म᳓यी᳓न्द्र इन्द्रिय᳓न् दधातु ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -376,8 +375,8 @@ on me wisdom, on me offspring, on me power may Indra bestow;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मयि॑ मे॒धाम् मयि॑ प्र॒जाम्,  
-मयि॒ सूर्यो॒ भ्राजो॑ दधातु  ॥ [2]  
+म᳓यि मेधा᳓म् म᳓यि प्रजा᳓म्,  
+म᳓यि सू᳓र्यो भ्रा᳓जो दधातु  ॥ [2]  
 </details>
 
 <details><summary>Keith</summary>
@@ -388,6 +387,5 @@ on me wisdom, on me offspring, on me blazing may Surya bestow.
 <details><summary>मूलम्</summary>
 
 मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयि॒ सूर्यो॒ भ्राजो॑ दधातु  ॥ [2]  
-</details>
 </details>
 </div>

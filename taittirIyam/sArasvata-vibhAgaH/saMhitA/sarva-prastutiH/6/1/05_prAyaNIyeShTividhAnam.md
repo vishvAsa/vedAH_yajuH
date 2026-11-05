@@ -1,6 +1,5 @@
 +++
 title = "०५ प्रायणीयेष्टिविधानम्"
-
 +++
 सोमऋषिः
 
@@ -11,7 +10,7 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा वै दे॑व॒यज॑नम् अध्यव॒साय॒ दिशो॒ न प्राजा॑न॒न् , ते ऽ३॒॑न्यो॑न्यम् उपा॑धावन् ।
+देवा᳓ वै᳓ देवय᳓जनम् अध्यवसा᳓य दि᳓शो न᳓ प्रा᳓जानन् , ते᳓ ऽ३᳓न्योन्य᳓म् उ᳓पाधावन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -41,7 +40,7 @@ The gods, having fixed up a place of sacrifice, could not distinguish the quarte
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वया॒ प्र जा॑नाम॒ त्वयेति॒ , तेऽदि॑त्याँ॒ सम॑ध्रियन्त॒ , त्वया॒ प्र जा॑ना॒मेति॑ ।
+त्व᳓या प्र᳓ जानाम त्व᳓ये᳓ति , ते᳓ऽदित्याँ स᳓मध्रियन्त , त्व᳓या प्र᳓ जानामे᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -73,8 +72,8 @@ They ran up to one another, (saying) 'By thee shall we distinguish them, by thee
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-साब्र॑वी॒द् - "वरव्ँ॑ वृणै॒ मत् प्रा॑यणा ए॒व वो॑ य॒ज्ञा मदु॑दयना अस॒न्न्"इति॑ ।  
-तस्मा॑द् आदि॒त्यᳶ प्रा॑य॒णीयो॑ य॒ज्ञाना॑म् आदि॒त्य उ॑दय॒नीयः॑ ।
+सा᳓ब्रवीद् - "व᳓रव्ँ वृणै म᳓त् प्रायणा एव᳓ वो यज्ञा᳓ म᳓दुदयना असन्न्"इ᳓ति ।  
+त᳓स्माद् आदित्यᳶ᳓ प्रायणी᳓यो यज्ञा᳓नाम् आदित्य᳓ उदयनी᳓यः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -118,7 +117,7 @@ She said, 'Let me choose a guerdon. Let the opening oblation in the sacrifice be
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्च॑ दे॒वता॑ यजति॒ पञ्च॒ दिशो॑ , दि॒शाम् प्रज्ञा॑त्यै [34] ।  
+प᳓ञ्च देव᳓ता यजति प᳓ञ्च दि᳓शो , दिशा᳓म् प्र᳓ज्ञात्यै [34] ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -133,7 +132,7 @@ He offers to five gods; there are five quarters, (and so it serves) for the dist
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ पञ्चा॑क्षरा प॒ङ्क्तिᳶ । पाङ्क्तो॑ य॒ज्ञः । य॒ज्ञमे॒वाव॑ रुन्धे ।  
+अ᳓थो प᳓ञ्चाक्षरा पङ्क्तिᳶ᳓ । पा᳓ङ्क्तो यज्ञः᳓ । यज्ञ᳓मेवा᳓व रुन्धे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -148,7 +147,7 @@ Now the Pankti is of five elements, the sacrifice is fivefold; verily he wins th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पथ्याँ॑ स्व॒स्तिम् अ॑यजन् , प्राची॑मे॒व तया॒ दिश॒म् प्राजा॑नन् ।  
+प᳓थ्याँ स्वस्ति᳓म् अय᳓ज᳓न् , प्रा᳓चीमेव᳓ त᳓या दि᳓शम् प्रा᳓जानन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -163,7 +162,7 @@ They made sacrifice to Pathya Svasti. The eastern quarter they distinguished by 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निना॑ दक्षि॒णा , सोमे॑न प्र॒तीचीँ॑ , सवि॒त्रोदी॑ची॒म् , अदि॑त्यो॒र्ध्वाम्  +++( प्राजानन्)+++।
+अग्नि᳓ना दक्षिणा᳓ , सो᳓मेन प्रती᳓चीँ , सवित्रो᳓दीचीम् , अ᳓दित्योर्ध्वा᳓म्  +++( प्राजानन्)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -178,7 +177,7 @@ by Agni the southern, by Soma the western, by Savitr the northern, by Aditi the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पथ्याँ॑ स्व॒स्तिय्ँ य॑जति ।
+प᳓थ्याँ स्वस्तिय्ँ᳓ यजति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -215,7 +214,7 @@ He offers to Pathya Svasti;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राची॑मे॒व तया॒ दिश॒म् प्र जा॑नाति ।
+प्रा᳓चीमेव᳓ त᳓या दि᳓शम् प्र᳓ जानाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -230,7 +229,7 @@ verily he distinguishes the eastern quarter.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पथ्याँ॑ स्व॒स्तिमि॒ष्ट्वा ऽग्नीषोमौ॑ यजति ।
+प᳓थ्याँ स्वस्ति᳓मिष्ट्वा᳓ ऽग्नी᳓षो᳓मौ यजति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -245,7 +244,7 @@ Having offered to Pathya Svasti, he offers to Agni and Soma.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चक्षु॑षी॒ वा ए॒ते य॒ज्ञस्य॒ ,
+च᳓क्षुषी वा᳓ एते᳓ यज्ञ᳓स्य ,
 </details>
 
 <details><summary>Keith</summary>
@@ -260,7 +259,7 @@ Agni and Soma indeed are the eyes of the sacrificer;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अ॒ग्नीषोमौ॒ ताभ्या॑म् ए॒वानु॑ पश्यति [35]।  
+य᳓द् अग्नी᳓षो᳓मौ ता᳓भ्याम् एवा᳓नु पश्यति [35]।  
 </details>
 
 <details><summary>Keith</summary>
@@ -275,7 +274,7 @@ verily he sees with them [2].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नीषोमा॑व् इ॒ष्ट्वा स॑वि॒तारय्ँ॑ यजति ।
+अग्नी᳓षो᳓माव् इष्ट्वा᳓ सविता᳓रय्ँ यजति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -290,7 +289,7 @@ Having offered to Agni and Soma, he offers to Savitr;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒वि॒तृप्र॑सूत ए॒वानु॑ पश्यति ।  
+सवितृ᳓प्रसूत एवा᳓नु पश्यति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -305,7 +304,7 @@ verily on the instigation of Savitr he sees.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒वि॒तार॑म् इ॒ष्ट्वाऽदि॑तिय्ँ यजति ।
+सविता᳓रम् इष्ट्वा᳓ऽदितिय्ँ यजति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -320,7 +319,7 @@ Having offered to Savitr, he offers to Aditi;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ वा अदि॑तिर् अ॒स्यामे॒व प्र॑ति॒ष्ठायानु॑ पश्यति ।
+इयव्ँ᳓ वा᳓ अ᳓दितिर् अस्या᳓मेव᳓ प्रतिष्ठा᳓या᳓नु पश्यति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -362,7 +361,7 @@ Aditi indeed is this (earth); verily taking his stand on it he sees.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑तिमि॒ष्ट्वा मा॑रु॒तीम् ऋच॒म् अन्वा॑ह - म॒रुतो॒ वै दे॒वानाव्ँ॒ विशः॑ ।  
+अ᳓दितिमिष्ट्वा᳓ मारुती᳓म् ऋ᳓चम् अ᳓न्वाह - मरु᳓तो वै᳓ देवा᳓नाव्ँ वि᳓शः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -377,7 +376,7 @@ Having offered to Aditi, he repeats the verse to the Maruts. The Maruts are the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒व॒वि॒शङ् खलु॒ वै कल्प॑मानम् मनुष्यवि॒शम् अनु॑ कल्पते । यन् मा॑रु॒तीम् ऋच॑म् अ॒न्वाह॑ वि॒शाङ्कॢप्त्यै॑ ।
+देवविश᳓ङ् ख᳓लु वै᳓ क᳓ल्पमानम् मनुष्यविश᳓म् अ᳓नु कल्पते । य᳓न् मारुती᳓म् ऋ᳓चम् अन्वा᳓ह विशा᳓ङ्कॢ᳓प्त्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -414,7 +413,7 @@ As the subjects of the gods are in harmony, so he brings the human subjects into
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वा॒दिनो॑ वदन्ति - "प्रया॒जव॑दननूया॒जम् प्रा॑य॒णीय॑ङ् का॒र्य॑म् अनूया॒जव॑द् अप्रया॒जम् मु॑दय॒नीयम्"इति॑  ।[36]
+ब्रह्मवादि᳓नो वदन्ति - "प्रयाज᳓वदननूयाज᳓म् प्रायणी᳓यङ् कार्य᳙म् अनूयाज᳓वद् अप्रयाज᳓म् मुदयनी᳓य᳓म्"इ᳓ति  ।[36]
 </details>
 
 <details><summary>Keith</summary>
@@ -428,7 +427,6 @@ The theologians say, 'The opening oblation should be performed with a fore-offer
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 ब्र॒ह्म॒वा॒दिन॒ इति॑ ब्रह्म-वा॒दिनः॑ । व॒द॒न्ति॒ ।   
 
@@ -447,8 +445,8 @@ The theologians say, 'The opening oblation should be performed with a fore-offer
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒मे वै प्र॑या॒जा, अ॒मी अ॑नूया॒जाः ।
-सै॒व सा य॒ज्ञस्य॒ सन्त॑तिः ।
+इमे᳓ वै᳓ प्रयाजा᳓, अमी᳓ अनूयाजाः᳓ ।
+सैव᳓ सा᳓ यज्ञ᳓स्य स᳓न्ततिः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -480,7 +478,7 @@ These are the fore-offerings, and these the after-offerings, and this is the cou
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् तथा॒ न का॒र्य॑म् , आ॒त्मा वै प्र॑या॒जाᳶ प्र॒जा ऽनू॑या॒जाः । यत् प्र॑या॒जान् अ॑न्तरि॒याद् , आ॒त्मान॑म् अ॒न्तरि॑या॒द् , यद॑नूया॒जान् अ॑न्तरि॒यात् , प्र॒जाम् अ॒न्तरि॑यात् ।  
+त᳓त् त᳓था न᳓ कार्य᳙म् , आत्मा᳓ वै᳓ प्रयाजाᳶ᳓ प्रजा᳓ ऽनूयाजाः᳓ । य᳓त् प्रयाजा᳓न् अन्तरिया᳓द् , आत्मा᳓नम् अन्त᳓रियाद् , य᳓दनूयाजा᳓न् अन्तरिया᳓त् , प्रजा᳓म् अन्त᳓रियात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -495,8 +493,8 @@ This is not to be followed. The fore offerings are the self; the after-offerings
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत॒ᳵ खलु॒ वै य॒ज्ञस्य॒ वित॑तस्य॒ न क्रि॒यते॒ तदनु॑ य॒ज्ञᳶ परा॑ भवति ।
-य॒ज्ञम् प॑रा॒भव॑न्तय्ँ॒ यज॑मा॒नोऽनु॑ परा॑भवति ।[37]  
+य᳓तᳵ ख᳓लु वै᳓ यज्ञ᳓स्य वि᳓ततस्य न᳓ क्रिय᳓ते त᳓द᳓नु यज्ञᳶ᳓ प᳓रा भवति ।
+यज्ञ᳓म् पराभ᳓वन्तय्ँ य᳓जमानो᳓ऽनु प᳓राभवति ।[37]  
 </details>
 
 <details><summary>Keith</summary>
@@ -531,7 +529,7 @@ In so far as the whole of the sacrifice is not performed, in so far does the sac
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒या॒जव॑द् ए॒वानू॑या॒जव॑त् प्राय॒णीय॑ङ् का॒र्य॑म् , प्रया॒जव॑द् अनूया॒जव॑द् उदय॒नीय॒न् ,
+प्रयाज᳓वद् एवा᳓नूयाज᳓वत् प्रायणी᳓यङ् कार्य᳙म् , प्रयाज᳓वद् अनूयाज᳓वद् उदयनी᳓यन् ,
 </details>
 
 <details><summary>Keith</summary>
@@ -546,7 +544,7 @@ Verily the opening oblation should be performed with both fore- and after-offeri
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न आत्मान॑म् अन्त॒रेति॒ , न प्र॒जाम् ।
+न᳓ आ᳓त्मा᳓नम् अन्तरे᳓ति , न᳓ प्रजा᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -561,7 +559,7 @@ He does not omit the self, nor offspring;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न य॒ज्ञᳶ प॑रा॒भव॑ति॒ , न यज॑मानः ।
+न᳓ यज्ञᳶ᳓ पराभ᳓वति , न᳓ य᳓जमानः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -593,7 +591,7 @@ the sacrifice does not come to ruin, nor the sacrificer.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒य॒णीय॑स्य निष्का॒स उ॑दय॒नीय॑म् अ॒भि निर्व॑पति॒ ,
+प्रायणी᳓यस्य निष्कास᳓ उदयनी᳓यम् अभि᳓ नि᳓र्वपति ,
 </details>
 
 <details><summary>Keith</summary>
@@ -608,7 +606,7 @@ He offers the concluding oblation in the scrapings of the opening oblation;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सैव सा य॒ज्ञस्य॒ सन्त॑तिः ।
+सै᳓व᳓ सा᳓ यज्ञ᳓स्य स᳓न्ततिः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -638,7 +636,7 @@ this is the course of the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याᳶ प्रा॑य॒णीय॑स्य या॒ज्या॑ यत्ता उ॑दय॒नीय॑स्य या॒ज्याः॑ कु॒र्यात् , परा॑ङ् अ॒मुल्ँ लो॒कम् आ रो॑हेत् प्र॒मायु॑कस् स्यात् ।
+याᳶ᳓ प्रायणी᳓यस्य याज्या᳙ य᳓त्ता᳓ उदयनी᳓यस्य याज्याः᳙ कुर्या᳓त् , प᳓राङ् अमुल्ँ᳓ लोक᳓म् आ᳓ रोहेत् प्रमा᳓युकस् स्यात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -668,7 +666,7 @@ Now if he were to make the Yajya verses of the opening libation the Yajya verses
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याᳶ प्रा॑य॒णीय॑स्य पुरोनुवा॒क्या॑स् , ता उ॑दय॒नीय॑स्य या॒ज्याः॑ करोत्य् ,
+याᳶ᳓ प्रायणी᳓यस्य पुरोनुवाक्या᳙स् , ता᳓ उदयनी᳓यस्य याज्याः᳙ करोत्य् ,
 </details>
 
 <details><summary>Keith</summary>
@@ -683,7 +681,7 @@ The Puronuvakya verses of the opening libation should be made the Yajya verses o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒स्मिन्न् ए॒व लो॒के प्रति॑ तिष्ठति ॥ [38]  
+अस्मि᳓न्न् एव᳓ लोके᳓ प्र᳓ति तिष्ठति ॥ [38]  
 </details>
 
 <details><summary>Keith</summary>
@@ -707,4 +705,3 @@ verily he finds support in this world.
 
 इति षष्ठे प्रथमे पञ्चमोनुवाकः ॥  
 </details>
-

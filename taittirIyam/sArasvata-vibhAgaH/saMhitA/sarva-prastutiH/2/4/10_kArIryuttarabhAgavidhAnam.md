@@ -1,6 +1,5 @@
 +++
 title = "१० कारीर्युत्तरभागविधानम्"
-
 +++
 
 विश्वेदेवा ऋषयः ।
@@ -12,7 +11,7 @@ title = "१० कारीर्युत्तरभागविधानम�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवा॑ वसव्या॒ देवाः॑ शर्मण्या॒ देवाः॑ सपीतय॒ इत्याब॑ध्नाति ।
+दे᳓वा वसव्या दे᳓वाः शर्मण्या दे᳓वाः सपीतय इ᳓त्या᳓बध्नाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -27,7 +26,7 @@ title = "१० कारीर्युत्तरभागविधानम�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वता॑भिरे॒वान्व॒हव्ँवृष्टि॑मिच्छति ।
+देव᳓ताभिरेवा᳓न्वहव्ँ᳓वृ᳓ष्टिमिच्छति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -47,7 +46,7 @@ verily by means of the gods he daily seeks rain.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि॒ वर्षे॒त्ताव॑त्ये॒व हो॑त॒व्यम् ।  
+य᳓दि व᳓र्षेत्ता᳓वत्येव᳓ होतव्य᳓म् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -67,7 +66,7 @@ If it should rain, so much only should be offered;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि॒ न वर्षे॒च्छ्वो भू॒ते ह॒विर्निर्व॑पेत् ।  
+य᳓दि न᳓ व᳓र्षेच्छ्वो᳓ भूते᳓ हवि᳓र्नि᳓र्वपेत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -87,7 +86,7 @@ if it should not rain, on the next day he should offer an oblation.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒हो॒रा॒त्रे वै  मि॒त्रावरु॑णावहोरा॒त्राभ्या॒ङ्खलु॒ वै प॒र्जन्यो॑ वर्षति ।  
+अहोरात्रे᳓ वै᳓  मित्रा᳓व᳓रुणावहोरात्रा᳓भ्याङ्ख᳓लु वै᳓ पर्ज᳓न्यो वर्षति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -107,7 +106,7 @@ Mitra and Varuna are day and night, by day and night Parjanya rains,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नक्तव्ँ॑वा॒ हि दिवा॑ वा॒ वर्ष॑ति ।
+न᳓क्तव्ँवा हि᳓ दि᳓वा वा व᳓र्षति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -122,7 +121,7 @@ for by night or by day he rains;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रावरु॑णावे॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+मित्रा᳓व᳓रुणावेव᳓ स्वे᳓न भागधे᳓येनो᳓प धावति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -137,7 +136,7 @@ verily he has recourse to Mitra and Varuna with their own share;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तावे॒वास्मा॒ अ॒हो॒रा॒त्राभ्या॑म्प॒र्जन्यव्ँ॑वर्षयतः ।
+ता᳓वेवा᳓स्मा अहोरात्रा᳓भ्याम्पर्ज᳓न्यव्ँवर्षयतः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -162,8 +161,8 @@ verily they [1] make Parjanya rain for him by day and night.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॑ धाम॒च्छदे॑ पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पेत् ।  
-मा॒रु॒तँ स॒प्तक॑पालँ सौ॒र्यमेक॑कपालम् ।
+अग्न᳓ये धामच्छ᳓दे पुरोडा᳓शमष्टा᳓कपालन्नि᳓र्वपेत् ।  
+मारुतँ᳓ सप्त᳓कपालँ सौर्य᳓मे᳓ककपालम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -184,7 +183,7 @@ To Agni, hiding his abode, he should offer a cake on eight potsherds, to the Mar
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निर्वा इ॒तो वृष्टि॒मुदी॑रयति ।
+अग्नि᳓र्वा᳓ इतो᳓ वृ᳓ष्टिमु᳓दीरयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -204,7 +203,7 @@ Agni thence causes the rain to arise,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒रुत॑स्सृ॒ष्टान्न॑यन्ति ।  
+मरु᳓तस्सृष्टा᳓न्नयन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -224,7 +223,7 @@ the Maruts lead it out when produced;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒दा खलु॒ वा अ॒सावा॑दि॒त्यो न्य॑ङ्र॒श्मिभिᳶ॑ पर्या॒वर्त॑ते।
+यदा᳓ ख᳓लु वा᳓ असा᳓वादित्यो᳓ न्यङ्रश्मि᳓भिᳶ पर्याव᳓र्तते।
 </details>
 
 <details><summary>Keith</summary>
@@ -244,7 +243,7 @@ when yonder Sun Moves low with his rays,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॑ वर्षति धाम॒च्छदि॑व॒ खलु॒ वै भू॒त्वा व॑र्षति ।
+अ᳓थ वर्षति धामच्छ᳓दिव ख᳓लु वै᳓ भूत्वा᳓ वर्षति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -264,7 +263,7 @@ then he rains; becoming a hider of his abode, as it were, he rains;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ता वै दे॒वता॒ वृष्ट्या॑ ईशते ।
+एता᳓ वै᳓ देव᳓ता वृ᳓ष्ट्या ईशते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -279,7 +278,7 @@ these deities are the lords of rain;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता ए॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+ता᳓ एव᳓ स्वे᳓न भागधे᳓येनो᳓प धावति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -294,7 +293,7 @@ them he has recourse to with their own share;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता ए॒वास्मै॑ प॒र्जन्यव्ँ॑वर्षयन्ति ।
+ता᳓ एवा᳓स्मै पर्ज᳓न्यव्ँवर्षयन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -309,7 +308,7 @@ they [2] make Parjanya rain for him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒ताव॑र्षिष्य॒न्वर्ष॑त्ये॒व ।
+उता᳓वर्षिष्यन्व᳓र्षत्येव᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -334,7 +333,7 @@ even if he is not minded to rain yet he rains.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सृ॒जा वृ॒ष्टिन्दि॒व आद्भिस्स॑मु॒द्रम्पृ॒णेत्या॑ह ।  
+सृजा᳓ वृष्टि᳓न्दिव᳓ आ᳓द्भि᳓स्समुद्र᳓म्पृणे᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -354,7 +353,7 @@ even if he is not minded to rain yet he rains.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒माश्चै॒वामूश्चा॒पस्सम॑र्धयति ।  
+इमा᳓श्चैवा᳓मू᳓श्चाप᳓स्स᳓मर्धयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -374,7 +373,7 @@ verily these and yonder waters he unites;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॑ आ॒भिरे॒वामूरच्छै॑ति ।
+अ᳓थो आभि᳓रेवा᳓मू᳓र᳓च्छैति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -394,8 +393,8 @@ then with these he approaches yonder (waters).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ब्जा अ॑सि ।  
-प्र॒थ॒म॒जा बल॑मसि समु॒द्रिय॒मित्या॑ह ।  
+अब्जा᳓ असि ।  
+प्रथमजा᳓ ब᳓लमसि समुद्रि᳓यमि᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -416,7 +415,7 @@ then with these he approaches yonder (waters).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथाय॒जुरे॒वैतत् ।
+य᳓था᳓यजु᳓रेवै᳓त᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -441,7 +440,7 @@ that is according to the text.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उन्न॑म्भय पृथि॒वीमिति॑ वर्षा॒ह्वाञ्जु॑होति ।  
+उ᳓न्नम्भय पृथिवी᳓मि᳓ति वर्षाह्वा᳓ञ्जुहोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -465,9 +464,9 @@ that is according to the text.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒षा वा ओष॑धीनाव्ँवृष्टि॒वनि॒स्तयै॒व वृष्टि॒मा च्या॑वयति ।  
-ये दे॒वा दि॒विभा॑गा॒ इति॑ कृष्णाजि॒नमव॑ धूनोति ।  
-इ॒म ए॒वास्मै॑ लो॒काᳶ प्री॒ता अ॒भीष्टा॑ भवन्ति ॥   
+एषा᳓ वा᳓ ओ᳓षधीनाव्ँवृष्टिव᳓निस्त᳓यैव᳓ वृ᳓ष्टिमा᳓ च्यावयति ।  
+ये᳓ देवा᳓ दिवि᳓भागा इ᳓ति कृष्णाजिन᳓म᳓व धूनोति ।  
+इम᳓ एवा᳓स्मै लोकाᳶ᳓ प्रीता᳓ अभी᳓ष्टा भवन्ति ॥   
 </details>
 
 <details><summary>Keith</summary>

@@ -1,6 +1,5 @@
 +++
 title = "१२ राजन्यस्य शक्तिस्तम्भनिवारकश्चरुः"
-
 +++
 
 विश्वेदेवा ऋषयः ।
@@ -12,7 +11,7 @@ title = "१२ राजन्यस्य शक्तिस्तम्भन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वष्टा॑ ह॒तपु॑त्रो॒ वीन्द्रँ॒ सोम॒माह॑रत् ।
+त्व᳓ष्टा हत᳓पुत्रो वी᳓न्द्रँ सो᳓ममा᳓हरत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -27,7 +26,7 @@ Tvastr, his son slain, offered Soma excluding Indra.
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मि॒न्निन्द्र॑ उपह॒वमै॑च्छत ।
+त᳓स्मिन्नि᳓न्द्र उपहव᳓मैच्छत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -47,8 +46,8 @@ Indra desired an invitation to the rite,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन्नोपा॑ह्वयत ।  
-पु॒त्रम्मे॑ऽवधी॒रिति॑ ।  
+त᳓न्नो᳓पाह्वयत ।  
+पुत्र᳓म्मेऽवधीरि᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -69,7 +68,7 @@ but he did not invite him, (saying), 'Thou hast slain my son.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स य॑ज्ञवेश॒सङ्कृ॒त्वा प्रा॒सहा॒ सोम॑मपिबत् ।
+स᳓ यज्ञवेशस᳓ङ्कृत्वा᳓ प्रास᳓हा सो᳓ममपिबत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -89,7 +88,7 @@ He made a disturbance of the sacrifice, and forcibly drank the Soma.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य॒ यद॒त्यशि॑ष्यत॒ तत्त्वष्टा॑हव॒नीय॒मुप॒ प्राव॑र्तयत् ।
+त᳓स्य य᳓दत्य᳓शिष्यत त᳓त्त्व᳓ष्टाहवनी᳓यमु᳓प प्रा᳓वर्तयत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -104,7 +103,7 @@ The remains of it Tvastr cast upon the Ahavaniya (fire), saying, 'Hail!
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहेन्द्र॑शत्रुर्वर्ध॒स्वेति॑ ।
+स्वा᳓हे᳓न्द्रशत्रुर्वर्धस्वे᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -124,7 +123,7 @@ wax great, Indra's foe.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स याव॑दू॒र्ध्वᳶ प॑रा॒विध्य॑ति॒,  ताव॑ति स्व॒यमे॒व व्य॑रमत ।
+स᳓ या᳓वदूर्ध्वᳶ᳓ परावि᳓ध्यति,  ता᳓वति स्वय᳓मेव᳓ व्यरमत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -154,8 +153,8 @@ While (the fire) was flaming upwards to strike, just then of itself it stayed;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि॑ वा॒ ताव॑त्प्रव॒णमासी॑त् ..   
-यदि॑ वा॒ ताव॒दध्य॒ग्नेरासीत् ।
+य᳓दि वा ता᳓वत्प्रवण᳓मा᳓सीत् ..   
+य᳓दि वा ता᳓वद᳓ध्यग्ने᳓रा᳓सी᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -176,7 +175,7 @@ whether so much was before [1], or so much was over the fire,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स स॒म्भव॑न्न॒ग्नीषोमा॑व॒भि सम॑भवत् ।  
+स᳓ सम्भ᳓वन्नग्नी᳓षो᳓मावभि᳓ स᳓मभवत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -196,7 +195,7 @@ be sprang up alive and came into union with Agni and Soma.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स इ॑षुमा॒त्रमि॑षुमात्रव्ँ॒विष्व॑ङ्ङवर्धत ।
+स᳓ इषुमात्र᳓मिषुमात्रव्ँवि᳓ष्वङ्ङवर्धत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -216,7 +215,7 @@ He grew on all sides an arrow(shot),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स इ॒माल्ँ लो॒कान॑वृणोत् ।  
+स᳓ इमाल्ँ᳓ लोका᳓नवृणोत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -236,7 +235,7 @@ he enveloped these worlds.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्वृ॒त्रस्य॑ वृत्र॒त्वम् ।   
+त᳓द्वृत्र᳓स्य वृत्रत्व᳓म् ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -256,7 +255,7 @@ Because he enveloped these worlds, therefore is Vrtra, Vrtra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒दिन्द्रो॑ऽबिभे॒दपि॒ त्वष्टा ।
+त᳓स्मादि᳓न्द्रोऽबिभेद᳓पि त्व᳓ष्टा᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -281,7 +280,7 @@ Indra feared him, and Tvastr too;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मै॒ त्वष्टा॒ वज्र॑मसिञ्चत् ।
+त᳓स्मै त्व᳓ष्टा व᳓ज्रमसिञ्चत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -296,7 +295,7 @@ Tvastr dipped his bolt for him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तपो॒ वै स वज्र॑ आसीत् ।
+त᳓पो वै᳓ स᳓ व᳓ज्र आसीत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -316,7 +315,7 @@ the bolt was fervour;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमुद्य॑न्तु॒न्नाश॑क्नोत् ।  
+त᳓मु᳓द्यन्तुन्ना᳓शक्नोत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -336,7 +335,7 @@ he could not restrain it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॒ वै तर्हि॒ विष्णु॑र॒न्या दे॒वता॑सीत् ।  
+अ᳓थ वै᳓ त᳓र्हि वि᳓ष्णुरन्या᳓ देव᳓तासीत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -356,8 +355,8 @@ Visnu [2] was another god;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ऽब्रवीत् ।  
-विष्ण॒वे ही॒दमा ह॑रिष्यावो॒ येना॒यमि॒दमिति॑ ।
+सो᳓ऽब्रवीत् ।  
+वि᳓ष्णवे᳓ हीद᳓मा᳓ हरिष्यावो ये᳓नाय᳓मिद᳓मि᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -378,7 +377,7 @@ he said, 'Visnu, come hither; we will grasp that by which he is this world.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स विष्णु॑स्त्रे॒धात्मानव्ँ॒वि न्य॑धत्त ।  
+स᳓ वि᳓ष्णुस्त्रेधा᳓त्मा᳓नव्ँवि᳓ न्यधत्त ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -398,7 +397,7 @@ Visnu deposited himself in three places,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृथि॒व्यान्तृती॑यम॒न्तरि॑क्षे॒ तृती॑यन्दि॒वि तृती॑यमभिपर्याव॒र्ताद्ध्यबि॑भेत्  ।
+पृ᳓थिव्या᳓न्तृ᳓तीयमन्त᳓रिक्षे तृ᳓तीयन्दिवि᳓ तृ᳓तीयमभिपर्यावर्ता᳓द्ध्य᳓बिभेत्  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -423,9 +422,9 @@ a third on the earth, a third in the atmosphere, a third in the sky, for he was 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्पृ॑थि॒व्यान्तृती॑यमासी॑त्।  
-तेनेन्द्रो॒ वज्र॒मुद॑यच्छत् ।  
-विष्ण्व॑नुस्थितः  ..
+य᳓त्पृथिव्या᳓न्तृ᳓तीय᳓मा᳓सीत्।  
+ते᳓ने᳓न्द्रो व᳓ज्रमु᳓दयच्छत् ।  
+वि᳓ष्ण्वनुस्थितः  ..
 </details>
 
 <details><summary>Keith</summary>
@@ -448,8 +447,8 @@ By means of the third on earth Indra raised his bolt, aided by Visnu.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ऽब्रवीत् ।  
-मा मे॒ प्र हाः॑ ।  
+सो᳓ऽब्रवीत् ।  
+मा᳓ मे प्र᳓ हाः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -470,7 +469,7 @@ He said, 'Hurl it not at me;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्ति॒ वा इ॒दम्मयि॑ वी॒र्य॑न्तत्ते॒ प्र दा॑स्या॒मीति॑ ।
+अ᳓स्ति वा᳓ इद᳓म्म᳓यि वीर्य᳙न्तत्ते प्र᳓ दास्यामी᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -490,8 +489,8 @@ there is this [3] strength in me; I will give it to you.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद॑स्मै॒ प्राय॑च्छ॒त् , तत्प्रत्य॑गृह्णा॒दधा॒मेति॑ ।  
-तद्विष्ण॒वेऽति॒ प्राय॑च्छत् ।  
+त᳓दस्मै प्रा᳓यच्छत् , त᳓त्प्र᳓त्यगृह्णाद᳓धामे᳓ति ।  
+त᳓द्वि᳓ष्णवे᳓ऽति प्रा᳓यच्छत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -512,7 +511,7 @@ He gave it to him, he accepted it, and (saying), 'Thou didst further me', gave i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्विष्णु॒ᳶ प्रत्य॑गृह्णत् ।  
+त᳓द्वि᳓ष्णुᳶ प्र᳓त्यगृह्णत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -532,7 +531,7 @@ Visnu accepted it
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒स्मास्विन्द्र॑ इन्द्रि॒यन्द॑धा॒त्विति॑ ।
+अस्मा᳓स्वि᳓न्द्र इन्द्रिय᳓न्दधात्वि᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -557,9 +556,9 @@ Visnu accepted it
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद॒न्तरि॑क्षे॒ तृती॑य॒मासी॑त् ।  
-तेनेन्द्रो॒ वज्र॒मुद॑यच्छत् ।  
-विष्ण्व॑नुस्थित॒स्सो॑ऽब्रवीत् ।
+य᳓दन्त᳓रिक्षे तृ᳓तीयमा᳓सीत् ।  
+ते᳓ने᳓न्द्रो व᳓ज्रमु᳓दयच्छत् ।  
+वि᳓ष्ण्वनुस्थितस्सो᳙ऽब्रवीत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -576,9 +575,9 @@ By means of the third in the atmosphere Indra raised his bolt, aided by Visnu.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मे॒ प्र हाः॑ ।  
-अस्ति॒ वा इ॒दम् मयि॑ वी॒र्य॑न्तत्ते॒ प्र दा॑स्या॒मीति॑ ।  
-तद॑स्मै॒ प्राय॑च्छत् ।
+मा᳓ मे प्र᳓ हाः ।  
+अ᳓स्ति वा᳓ इद᳓म् म᳓यि वीर्य᳙न्तत्ते प्र᳓ दास्यामी᳓ति ।  
+त᳓दस्मै प्रा᳓यच्छत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -595,11 +594,11 @@ He said, 'Hurl it not at me; there is this [4] strength in me; I will give it to
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्प्रत्य॑गृह्णात् ।  
-द्विर्मा॑ऽधा॒ इति॑ ।  
-तद्विष्ण॒वेेऽति॒ प्राय॑च्छत् ।  
-तद्विष्णु॒ᳶ प्रत्य॑गृह्णात् ।  
-अ॒स्मास्विन्द्र॑ इन्द्रि॒यन्द॑धा॒त्विति॑ ।
+त᳓त्प्र᳓त्यगृह्णात् ।  
+द्वि᳓र्माऽधा इ᳓ति ।  
+त᳓द्वि᳓ष्णवे्᳓ए᳓ऽति प्रा᳓यच्छत् ।  
+त᳓द्वि᳓ष्णुᳶ प्र᳓त्यगृह्णात् ।  
+अस्मा᳓स्वि᳓न्द्र इन्द्रिय᳓न्दधात्वि᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -628,9 +627,9 @@ he accepted it, and (saying), 'Twice hast thou furthered me', gave it to Visnu. 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्दि॒वि तृती॑यमासी॑त् ।  
-तेनेन्द्रो॒ वज्र॒मुद॑यच्छत् ।  
-विष्ण्व॑नुस्थित॒स्सो॑ऽब्रवीत् ।
+य᳓द्दिवि᳓ तृ᳓तीय᳓मा᳓सीत् ।  
+ते᳓ने᳓न्द्रो व᳓ज्रमु᳓दयच्छत् ।  
+वि᳓ष्ण्वनुस्थितस्सो᳙ऽब्रवीत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -647,7 +646,7 @@ By means of the third in the sky Indra raised his bolt, aided by Visnu.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मे॒ प्र हाः॑।
+मा᳓ मे प्र᳓ हाः।
 </details>
 
 <details><summary>Keith</summary>
@@ -667,7 +666,7 @@ He said, 'Hurl it not at me;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-येना॒हमि॒दमस्मि॒ तत्ते॒ प्र दा॑स्या॒मीति॑ ।
+ये᳓नाह᳓मिद᳓म᳓स्मि त᳓त्ते प्र᳓ दास्यामी᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -682,7 +681,7 @@ I will give to thee that by which I [5] am this world!
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वी (३) इत्य॑ब्रवीत् ।
+त्वी᳓ (३) इ᳓त्यब्रवीत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -702,7 +701,7 @@ He said, 'Yes.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒न्धान्तु सन्द॑धावहै॒ त्वामे॒व प्र वि॑शा॒नीति॑ ।  
+सन्धा᳓न्तु᳓ स᳓न्दधावहै त्वा᳓मेव᳓ प्र᳓ विशानी᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -724,7 +723,7 @@ He said, 'Yes.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन्माम्प्र॑वि॒शेᳵ किम्मा॑ भुञ्ज्या॒ इत्य॑ब्रवीत् ।  
+य᳓न्मा᳓म्प्रविशेᳵ᳓ कि᳓म्मा भुञ्ज्या इ᳓त्यब्रवीत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -744,8 +743,8 @@ He said, 'Yes.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वामे॒वेन्धी॑य ।  
-तव॒ भोगा॑य॒ त्वाम्प्र वि॑शेय॒मित्य॑ब्रवीत् ।
+त्वा᳓मेवे᳓न्धीय ।  
+त᳓व भो᳓गाय त्वा᳓म्प्र᳓ विशेयमि᳓त्यब्रवीत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -761,7 +760,7 @@ He said, 'Yes.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तव्ँ वृ॒त्रᳶ प्रावि॑शत् ।
+तव्ँ᳓ वृत्रᳶ᳓ प्रा᳓विशत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -781,8 +780,8 @@ Vrtra entered him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒दरव्ँ॒ वै वृ॒त्रः, क्षुत्खलु॒ वै म॑नु॒ष्य॑स्य॒ भ्रातृ॑व्यो॒ य  
-ए॒वव्ँ वेद॒ हन्ति॑ ।
+उद᳓रव्ँ वै᳓ वृत्रः᳓, क्षु᳓त्ख᳓लु वै᳓ मनुष्य᳙स्य भ्रा᳓तृव्यो य᳓  
+एवव्ँ᳓ वे᳓द ह᳓न्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -803,7 +802,7 @@ Vrtra is the belly; hunger is man's enemy; he who [6] knows this slays
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षुध॒म्भ्रातृ॑व्य॒न्तद॑स्मै॒ प्राय॑च्छत् ।
+क्षु᳓धम्भ्रा᳓तृव्यन्त᳓दस्मै प्रा᳓यच्छत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -823,9 +822,9 @@ the enemy hunger. He gave it to him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्प्रत्य॑गृह्णात् ।  
-त्रिर्मा॑ धा॒ इति॑ ।  
-तद्विष्ण॒वेेऽति॒ प्राय॑च्छत् ।  
+त᳓त्प्र᳓त्यगृह्णात् ।  
+त्रि᳓र्मा धा इ᳓ति ।  
+त᳓द्वि᳓ष्णवे्᳓ए᳓ऽति प्रा᳓यच्छत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -847,8 +846,8 @@ he accepted it, and (saying), 'Thrice hast thou furthered me', gave it to Visnu.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्विष्णु॒ᳶ प्रत्य॑गृह्णात् ।  
-अ॒स्मास्विन्द्र॑ इन्द्रि॒यन्द॑धा॒त्विति॑ ।  
+त᳓द्वि᳓ष्णुᳶ प्र᳓त्यगृह्णात् ।  
+अस्मा᳓स्वि᳓न्द्र इन्द्रिय᳓न्दधात्वि᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -882,8 +881,8 @@ Visnu accepted it (saying), 'Let Indra place power in us.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्विष्णु॑र॒न्वति॑ष्ठत ।  
-विष्ण॒वेेऽति॒ प्राय॑च्छत् ।
+य᳓द्वि᳓ष्णुरन्व᳓तिष्ठत ।  
+वि᳓ष्णवे्᳓ए᳓ऽति प्रा᳓यच्छत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -899,7 +898,7 @@ In that thrice he gave and thrice he accepted, that is the reason of the threefo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑दैन्द्रावैष्ण॒वँ ह॒विर्भ॑वति ।
+त᳓स्मादैन्द्रावैष्णवँ᳓ हवि᳓र्भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -924,7 +923,7 @@ In that Visnu aided him and he gave (it) to Visnu, therefore the offering belong
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्वा इ॒दङ्किञ्च॒ तद॑स्मै॒ तत्प्राय॑च्छत् ।  
+य᳓द्वा᳓ इद᳓ङ्कि᳓ञ्च त᳓दस्मै त᳓त्प्रा᳓यच्छत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -944,7 +943,7 @@ Whatever there is here he gave to him,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋच॒स्सामा॑नि॒ यजूँ॑षि स॒हस्रव्ँ॒ वा अ॑स्मै॒ तत्प्राय॑च्छत् ।
+ऋ᳓चस्सा᳓मानि य᳓जूँषि सह᳓स्रव्ँ वा᳓ अस्मै त᳓त्प्रा᳓यच्छत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -959,7 +958,7 @@ the Rces, the Samans, the Yajuses.
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑त्स॒हस्र॑दक्षिणम् ॥
+त᳓स्मात्सह᳓स्रदक्षिणम् ॥
 </details>
 
 <details><summary>Keith</summary>

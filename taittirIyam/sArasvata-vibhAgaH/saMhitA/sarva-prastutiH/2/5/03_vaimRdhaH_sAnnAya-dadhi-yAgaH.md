@@ -1,6 +1,5 @@
 +++
 title = "०३ वैमुधः, सान्नाय-दधि-यागः"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -19,8 +18,8 @@ title = "०३ वैमुधः, सान्नाय-दधि-यागः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रव्ँ॑ वृ॒त्रञ् ज॑घ्नि॒वाँस॒म् मृधो॒ ऽभि प्रावे॑पन्त   
-स ए॒तव्ँ वै॑मृ॒धम् पू॒र्णमा॑से ऽनुनिर्वा॒प्य॑म् **अपश्यत्** ।
+इ᳓न्द्रव्ँ वृत्र᳓ञ् जघ्निवाँ᳓सम् मृ᳓धो ऽभि᳓ प्रा᳓वेपन्त   
+स एतव्ँ᳓ वैमृध᳓म् पूर्ण᳓मासे ऽनुनिर्वाप्य᳙म् **अपश्यत्** ।
 </details>
 
 <details><summary>Keith</summary>
@@ -61,8 +60,8 @@ He saw this enemy-dispelling (oblation) to be offered subsequently at the full m
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन् **निर॑वपत्**   
-तेन॒ वै स मृधो **ऽपा॑हत** ।
+त᳓न् **नि᳓रवपत्**   
+तेन वै᳓ स᳓ मृ᳓धो᳓ **ऽपाहत** ।
 </details>
 
 <details><summary>Keith</summary>
@@ -95,8 +94,8 @@ He offered it, and with it drove away his enemies.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् वै॑मृ॒धᳶ पू॒र्णमा॑से ऽनुनिर्वा॒प्यो॒॑ भव॑ति॒  
-मृध॑ ए॒व तेन॒ यज॑मा॒नोऽप॑ हते ।
+य᳓द् वैमृधᳶ᳓ पूर्ण᳓मासे ऽनुनिर्वाप्यो᳓ भ᳓वति  
+मृ᳓ध एव᳓ ते᳓न य᳓जमानो᳓ऽप हते ।
  ।
 </details>
 
@@ -131,7 +130,7 @@ In that the enemy-dispelling (oblation) is to be offered subsequently at the ful
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो॑ वृ॒त्रँ ह॒त्वा दे॒वता॑भिश् चेन्द्रि॒येण॑ च॒ व्या॑र्ध्यत ।
+इ᳓न्द्रो वृत्रँ᳓ हत्वा᳓ देव᳓ताभिश् चेन्द्रिये᳓ण च व्या᳙र्ध्यत ।
  ।
 </details>
 
@@ -147,8 +146,8 @@ Indra, having slain Vrtra, lost the gods and his power.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॒तम् आ॑ग्ने॒यम् अ॒ष्टाक॑पालम् अमावा॒स्या॑याम् अपश्यत्    
-ऐ॒न्द्रन् दधि॒ तन् निर॑वपत् ।
+स᳓ एत᳓म् आग्नेय᳓म् अष्टा᳓कपालम् अमावास्या᳙याम् अपश्यत्    
+ऐन्द्र᳓न् द᳓धि त᳓न् नि᳓रवपत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -165,7 +164,7 @@ He saw the (offering) to Agni on eight potsherds at the new moon, and the curds 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेन॒ वै स दे॒वता॑श् चेन्द्रि॒यञ् चावा॑रुन्द्ध ।
+ते᳓न वै᳓ स᳓ देव᳓ताश् चेन्द्रिय᳓ञ् चा᳓वारुन्द्ध ।
  । ।
 </details>
 
@@ -201,8 +200,8 @@ He offered it, and by it he won the gods and his power.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् आ॑ग्ने॒यो॒॑ ऽष्टाक॑पालो ऽमावा॒स्या॑या॒म् भव॑त्य् ऐ॒न्द्रन् दधि॑,  
-दे॒वता॑श् चै॒व तेने॑न्द्रि॒यञ् च॒ यज॑मा॒नोऽव॑ रुन्द्धे ।  
+य᳓द् आग्नेयो᳓ ऽष्टा᳓कपालो ऽमावास्या᳙याम् भ᳓वत्य् ऐन्द्र᳓न् द᳓धि,  
+देव᳓ताश् चैव᳓ ते᳓नेन्द्रिय᳓ञ् च य᳓जमानो᳓ऽव रुन्द्धे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -239,8 +238,8 @@ In that at the new moon there is (an offering) to Agni on eight potsherds, and c
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य वृ॒त्रञ् ज॒घ्नुष॑  
-इन्द्रि॒यव्ँ वी॒र्य॑म् पृथि॒वीम् अनु॒ व्या॑र्च्छत् ।
+इ᳓न्द्रस्य वृत्र᳓ञ् जघ्नु᳓ष  
+इन्द्रियव्ँ᳓ वीर्य᳙म् पृथिवी᳓म् अ᳓नु व्या᳙र्च्छत् ।
  ।
 </details>
 
@@ -272,7 +271,7 @@ When Indra had slain Vrtra, his power and strength went into the earth;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदोष॑धयो वी॒रुधो॑ऽभवन् ।  
+त᳓दो᳓षधयो वीरु᳓धोऽभवन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -304,9 +303,9 @@ then the plants and roots were born.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स प्र॒जाप॑ति॒म् उपा॑धावत्
+स᳓ प्रजा᳓पतिम् उ᳓पाधावत्
 
->  वृ॒त्रम् मे॑ ज॒घ्नुष॑ इन्द्रि॒यव्ँ वी॒र्य॑म् पृ॒थि॒वीमनु॒ व्या॑रत् ।
+>  वृत्र᳓म् मे जघ्नु᳓ष इन्द्रियव्ँ᳓ वीर्य᳙म् पृथिवी᳓म᳓नु व्या᳙रत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -322,9 +321,9 @@ He ran up to Prajapati, (saying), 'Now that I have slain Vrtra, my power and str
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् ओष॑धयो वी॒रुधो॑ ऽभूव॒न्न्
+त᳓द् ओ᳓षधयो वीरु᳓धो ऽभूवन्न्
 
-इति॑ ।
+इ᳓ति ।
  ।
 </details>
 
@@ -357,8 +356,8 @@ then the plants and roots have been born.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स प्र॒जाप॑तिᳶ प॒शून् अ॑ब्रवीत्
-"ए॒तद् अ॑स्मै॒ सन्न॑य॒ते"ति॑ ।  
+स᳓ प्रजा᳓पतिᳶ पशू᳓न् अब्रवीत्
+"एत᳓द् अस्मै स᳓न्नयते᳓"ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -390,7 +389,7 @@ Prajapati said to cattle, 'Collect it for him.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् प॒शव॒ ओष॑धी॒भ्यो ऽध्या॒त्मन्त् सम॑नयन् ।
+त᳓त् पश᳓व ओ᳓षधीभ्यो᳓ ऽध्यात्म᳓न्त् स᳓मनयन् ।
  ।
 </details>
 
@@ -421,7 +420,7 @@ The cattle collected it from the plants in themselves;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् प्रत्य॑दुहन् ।  
+त᳓त् प्र᳓त्यदुहन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -451,8 +450,8 @@ they milked it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् स॒मन॑य॒न्
-तत् सा॑न्ना॒य्यस्य॑ सान्नाय्य॒त्वम् ।
+य᳓त् सम᳓नयन्
+त᳓त् सान्नाय्य᳓स्य सान्नाय्यत्व᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -468,8 +467,8 @@ In that they collected it, has the collected oblation (sammayya) its name;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् प्र॒त्यदु॑ह॒न् -  
-तत् प्र॑ति॒धुषᳶ॑ प्रतिधु॒क्त्वम् ।
+य᳓त् प्रत्य᳓दुहन् -  
+त᳓त् प्रतिधु᳓षᳶ प्रतिधुक्त्व᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -509,7 +508,7 @@ in that they milked it, has fresh milk its name (pratidhuk).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> सम॑नैषु॒ᳶ प्रत्य॑धुक्षन् ।
+> स᳓मनैषुᳶ प्र᳓त्यधुक्षन् ।
  ।
 </details>
 
@@ -526,7 +525,7 @@ in that they milked it, has fresh milk its name (pratidhuk).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तु मयि॑ श्रयत॒
+न᳓ तु᳓ म᳓यि श्रयत
  । ।
 </details>
 
@@ -542,7 +541,7 @@ they have milked it;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्य् अ॑ब्रवीत् ।
+इ᳓त्य् अब्रवीत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -575,7 +574,7 @@ but it rests not in me', he said.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद् अ॑स्मै शृ॒तङ् कु॑रु॒तेत्य् अ॑ब्रवीत् ।  
+एत᳓द् अस्मै शृत᳓ङ् कुरुते᳓त्य् अब्रवीत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -605,7 +604,7 @@ but it rests not in me', he said.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् अ॑स्मै शृ॒तम् अ॑कुर्वन् ।
+त᳓द् अस्मै शृत᳓म् अकुर्वन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -620,7 +619,7 @@ They made it ready for him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒न्द्रि॒यव्ँ वावास्मि॑न् वी॒र्य॑न् तद् अ॑श्रयन् ।
+इन्द्रियव्ँ᳓ वा᳓वा᳓स्मिन् वीर्य᳙न् त᳓द् अश्रयन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -635,7 +634,7 @@ they made power and strength rest in him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच् छृ॒तस्य॑ शृत॒त्वम् ।
+त᳓च् छृत᳓स्य शृतत्व᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -675,7 +674,7 @@ verily the ready (milk) has its name (śrta).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"सम॑नैषु॒ᳶ,
+"स᳓मनैषुᳶ,
  ।
 </details>
 
@@ -693,7 +692,7 @@ verily the ready (milk) has its name (śrta).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्य॑धुक्षन्  ।
+प्र᳓त्यधुक्षन्  ।
  । ।
 </details>
 
@@ -709,7 +708,7 @@ they have milked it;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शृ॒तम् **अ॑क्रन्** ।
+शृत᳓म् **अक्रन्** ।
 </details>
 
 <details><summary>Keith</summary>
@@ -724,7 +723,7 @@ they have made it ready;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तु मा॑ +++(प्रीणने→)+++धिनो॒ती"त्य् अ॑ब्रवीत् ।
+न᳓ तु᳓ मा +++(प्रीणने→)+++धिनोती᳓"त्य् अब्रवीत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -756,7 +755,7 @@ but it does not impel me', he said.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद् अ॑स्मै॒ दधि॑ कुरु॒तेत्य् अ॑ब्रवीत् ।  
+एत᳓द् अस्मै द᳓धि कुरुते᳓त्य् अब्रवीत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -781,7 +780,7 @@ but it does not impel me', he said.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् अ॑स्मै॒ दध्य् अ॑कुर्वन् ।  
+त᳓द् अस्मै द᳓ध्य् अकुर्वन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -806,7 +805,7 @@ They made it curds for him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् ए॑नम् अधिनोत् ।  
+त᳓द् एनम् अधिनोत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -836,7 +835,7 @@ that impelled (adhinot) him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् द॒ध्नो द॑धि॒त्वम् ।  
+त᳓द् दध्नो᳓ दधित्व᳓म् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -876,12 +875,12 @@ verily curds (dadhi) has its name.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वा॒दिनो॑ वदन्ति
+ब्रह्मवादि᳓नो वदन्ति
 
-> द॒ध्नᳶ पूर्व॑स्याव॒देय॑म्  
-दधि॒ हि पूर्व॑ङ् क्रि॒यत॒
+> दध्नᳶ᳓ पू᳓र्वस्यावदे᳓यम्  
+दधि हि᳓ पू᳓र्वङ् क्रिय᳓त
 
-इति॑।  
+इ᳓ति।  
 </details>
 
 <details><summary>Keith</summary>
@@ -915,7 +914,7 @@ The theologians say, 'One should offer curds first, for curds is made first' [4]
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अना॑दृत्य॒ तच् छृ॒तस्यै॒व पूर्व॒स्याव॑द्येत् ।
+अ᳓नादृत्य त᳓च् छृत᳓स्यैव᳓ पू᳓र्वस्या᳓वद्येत् ।
  । ।
 </details>
 
@@ -931,8 +930,8 @@ One should disregard that and offer ready (milk) first;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒न्द्रि॒यम् ए॒वास्मि॑न् वी॒र्यँ॑ श्रि॒त्वा  
-द॒ध्नोपरि॑ष्टाद् +धिनोति ।
+इन्द्रिय᳓म् एवा᳓स्मिन् वीर्यँ᳙ श्रित्वा᳓  
+दध्नो᳓प᳓रिष्टाद् +धिनोति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -947,7 +946,7 @@ verily one places power and strength in him and later impels him by curds;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒था॒पू॒र्वम् उपै॑ति   ।
+यथापूर्व᳓म् उ᳓पैति   ।
 </details>
 
 <details><summary>Keith</summary>
@@ -987,8 +986,8 @@ and he proceeds in order (of production).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् पू॒तीकै॑र् वा पर्ण-व॒ल्कैर् वा॑ त॒ञ्च्यात्  
-सौ॒म्यन् तत् ।  
+य᳓त् पूती᳓कैर् वा पर्ण-वल्कै᳓र् वा तञ्च्या᳓त्  
+सौम्य᳓न् त᳓त् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1021,7 +1020,7 @@ If he curdles it with Putika plants or with bark, that is fit for Soma;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् क्व᳙लै +++(त॒ञ्च्याथ्)+++ - राक्ष॒सन् तत् ।  
+यत् क्व᳙लै +++(त॒ञ्च्याथ्)+++ - राक्षसन् तत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1046,7 +1045,7 @@ if with jujubes, that is for the Raksases;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् त॑ण्डु॒लैर् +++(त॒ञ्च्याथ्)+++ वै॑श्वदे॒वन् तत् ।
+य᳓त् तण्डुलै᳓र् +++(तञ्च्या᳓थ्)+++ वैश्वदेव᳓न् त᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1061,7 +1060,7 @@ if with rice grains, for the All-gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् आ॒तञ्च॑नेन +++(त॒ञ्च्याथ्)+++ मानु॒षन् तत् ।
+य᳓द् आत᳓ञ्चनेन +++(तञ्च्या᳓थ्)+++ मानुष᳓न् त᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1087,7 +1086,7 @@ if with rennet, for men;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् द॒ध्ना +++(त॒ञ्च्याथ्)+++ तत् सेन्द्र॑म् ।
+य᳓द् दध्ना᳓ +++(तञ्च्या᳓थ्)+++ त᳓त् से᳓न्द्रम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1102,7 +1101,7 @@ if with curds, that has Indra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द॒ध्ना त॑नक्ति सेन्द्र॒त्वाय॑।
+दध्ना᳓ तनक्ति सेन्द्रत्वा᳓य।
 </details>
 
 <details><summary>Keith</summary>
@@ -1134,8 +1133,8 @@ He curdles it with curds [5] that it may have Indra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नि॒हो॒त्रो॒च्छे॒ष॒णम् अ॒भ्यात॑नक्ति
-य॒ज्ञस्य॒ सन्त॑त्यै ।  
+अग्निहोत्रोच्छेषण᳓म् अभ्या᳓तनक्ति
+यज्ञ᳓स्य स᳓न्तत्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1172,7 +1171,7 @@ He curdles the remains of the Agnihotra, for the continuity of the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो॑ वृ॒त्रँ ह॒त्वा परा॑म् परा॒वत॑म् अगच्छ॒द् अपा॑राध॒म् इति॒ मन्य॑मानः।  
+इ᳓न्द्रो वृत्रँ᳓ हत्वा᳓ प᳓राम् पराव᳓तम् अगच्छद् अ᳓पाराधम् इ᳓ति म᳓न्यमानः।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1204,7 +1203,7 @@ Indra having slain Vrtra went to a great distance, thinking, 'I have sinned.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन् दे॒वता॒ᳶ प्रैष॑म् ऐच्छन् ।  
+त᳓न् देव᳓ताᳶ प्रै᳓षम् ऐच्छन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1234,8 +1233,8 @@ The gods sought to start him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ऽब्रवीत् प्र॒जाप॑ति॒र्
-"यᳶ प्र॑थ॒मो॑ऽनुवि॒न्दति॒ तस्य॑ प्रथ॒मम् भा॑ग॒धेय॒म्" इति॑ ।  
+सो᳓ऽब्रवीत् प्रजा᳓पतिर्
+"यᳶ᳓ प्रथमो᳙ऽनुविन्द᳓ति त᳓स्य प्रथम᳓म् भागधे᳓यम्" इ᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1262,7 +1261,7 @@ Prajapati said, "He who first finds him will have the first share."
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम्पि॒तरोऽन्व॑विन्दन् ।
+त᳓म्पित᳓रो᳓ऽन्वविन्दन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1272,7 +1271,7 @@ The Pitrs found him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑त् पि॒तृभ्यᳶ॑ पूर्वे॒द्युᳵ क्रि॑यते ।
+त᳓स्मात् पितृ᳓भ्यᳶ पूर्वेद्युᳵ᳓ क्रियते ।
  । । ।
 </details>
 
@@ -1326,7 +1325,7 @@ therefore an offering is made to the Pitrs on the day before.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ऽमावा॒स्या॒॑म् प्रत्याग॑च्छत् ।  
+सो᳓ऽमावास्या᳓म् प्र᳓त्या᳓गच्छत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1358,7 +1357,7 @@ He approached the new moon night;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन् दे॒वा अ॒भि सम॑गच्छन्त -  "+अ॒मा वै नो॒ऽद्य वसु॑ वस॒ती"ति॑ ।  
+त᳓न् देवा᳓ अभि᳓ स᳓मगच्छन्त -  "+अमा᳓ वै᳓ नोऽद्य᳓ व᳓सु वसती᳓"ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1390,7 +1389,7 @@ the gods met him, (saying), 'Our treasure to-day at home [6] dwells',
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो॒ हि दे॒वानाव्ँ॒ वसु॑ ।  
+इ᳓न्द्रो हि᳓ देवा᳓नाव्ँ व᳓सु ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1420,7 +1419,7 @@ for Indra is the treasure of the gods,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् अ॑मा-वा॒स्या॑या अमा+++(=सह)+++-वास्य॒त्वम्  ।  
+त᳓द् अमा-वास्या᳙या अमा+++(=सह)+++-वास्यत्व᳓म्  ।  
 </details>
 
 <details><summary>हिन्दी</summary>
@@ -1456,10 +1455,10 @@ and that is why the new moon night has its name (ama-vasya), 'home dwelling').
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वा॒दिनो॑ वदन्ति  ।  
-"कि॒न्-दे॒व॒त्यँ॑ सान्ना॒य्यम्" इति॑ ।  
-"वै॒श्व॒दे॒वम्" इति॑ ब्रूयात् ।  
-"विश्वे॒ हि तद् दे॒वा भा॑ग॒धेय॑म् अ॒भि स॒मग॑च्छ॒न्ते"ति॑ ।  
+ब्रह्मवादि᳓नो वदन्ति  ।  
+"किन्-देवत्यँ᳙ सान्नाय्य᳓म्" इ᳓ति ।  
+"वैश्वदेव᳓म्" इ᳓ति ब्रूयात् ।  
+"वि᳓श्वे हि᳓ त᳓द् देवा᳓ भागधे᳓यम् अभि᳓ सम᳓गच्छन्ते᳓"ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1496,8 +1495,8 @@ The theologians say, What is the deity of the Samnayya?' 'The All-gods', he shou
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ खल्व् "ऐ॒न्द्रम्" इत्ये॒व ब्रू॑यात् -  
-इन्द्रव्ँ॒ वाव ते तद् भि॑ष॒ज्यन्तो॒ ऽभि सम॑गच्छ॒न्तेति॑ ॥
+अ᳓थो ख᳓ल्व् "ऐन्द्र᳓म्" इ᳓त्येव᳓ ब्रूयात् -  
+इन्द्रव्ँ वा᳓व᳓ ते᳓ त᳓द् भिषज्य᳓न्तो ऽभि᳓ स᳓मगच्छन्ते᳓ति ॥
  ।
 </details>
 

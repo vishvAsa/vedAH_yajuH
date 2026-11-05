@@ -25,7 +25,6 @@ title = "०५ यम-यज्ञः"
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
-
 पञ्चमानुवाके यम-यज्ञो ऽभिधीयते। स च कल्प-सूत्र एवम् उपक्रान्तः - 
 
 > "यज्ञम् अयं स्वयं प्रोक्तं प्रवक्ष्ये बलिम् उत्तमम्। 
@@ -43,18 +42,19 @@ title = "०५ यम-यज्ञः"
 ## आवाहनम्
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/01_AyAtu_devas.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **आ᳓यातु** देव᳓स् सुम᳓नाभिर् ऊति᳓भिर्  
 यमो᳓ ह᳓ वा᳓+++(य्)++++इह᳓ प्र᳓यताभिर् **अक्ता᳓** ।  
 आ᳓सीदताँ सुप्रय᳓तेह बर्हि᳓ष्य्  
 ऊ᳓र्जा-यजात्यै म᳓म शत्रु-ह᳓त्यै ।  
 +++(आरण्यक-स्वर-व्यत्ययः॥)+++
+
 </details>
 </div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/01_AyAtu_devas.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 आया॑तु दे॒वस्सु॒मना॑भिरू॒तिभि॑र्य॒मो ह॑वे॒ह प्रय॑ताभिर॒क्ता ।  
@@ -74,18 +74,23 @@ title = "०५ यम-यज्ञः"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/013/02_yame_iva.md">
-<details open><summary><h5>०२ यमे इव ...{Loading}...</h5></summary>
 
 +++(सहोत्पत्त्या)+++ यमे᳓ इव **य᳓तमाने** य᳓दै᳓तं  
 प्र᳓ वाम् **भरन्** मा᳓नुषा **देवय᳓न्तः** ।  
-**आ᳓सीदतँ** स्व᳓म् उ लोकव्ँ᳓ **वि᳓दाने**  
+**आ᳓सीदतँ** स्व᳓म् उ लोक᳓व्ँ **वि᳓दाने**  
 स्व्-आस-स्थे᳓ **भवतम्** इ᳓न्दवे नः ।  
 
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/013/02_yame_iva.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+य॒मे इ॑व॒ यत॑माने॒ यदैतं॒ प्र वां॑ भर॒न्मानु॑षा देव॒यन्तः॑ ।  
+आ सी॑दतं॒ स्वमु॑ लो॒कं विदा॑ने स्वास॒स्थे भ॑वत॒मिन्द॑वे नः ॥
 </details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/013/02_yame_iva.md">
-<details open><summary><h5>002 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हविर्धाने
@@ -311,14 +316,9 @@ _________
 
 </details>
 
-<details><summary>सायणोक्त-विनियोगः</summary>
+<details><summary>रङ्गनाथः</summary>
 
-
-कल्पः - 
-
-> "यमे इव यतमाने यदैतम् च" 
-
-इति । आवहयतीत्य् अनुवर्तते। पाठस् तु - 
+यत्- यदा। यमे इव- सहोत्पन्ने इव। यतमाने- प्रयत्नं कुर्वत्यौ। ऐतम्- प्रति गच्छथः। तदा।  देवयन्तः- देवकामाः। मानुषाः- उपासकाः। वाम्- युवाम्। प्र- प्रकर्षेण। भरन्- भरन्ति। विदाने-  ज्ञानयुक्ते। स्वं लोकम्- स्वसदनमृताख्यम्। आ सीदतम्। नः- अस्माकम्। इन्दवे- क्लेदनशीलाय  रसाय। स्वासस्थे- शोभननिवासस्थाने। भवतम्॥२॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -329,12 +329,6 @@ _________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2उत्तरे मन्त्रे यमस्य यम्याश्च सहवचनम् - यमे इव यमळोत्पन्ने इव दृश्यमाने यतमाने तत्रतत्र हविर्ग्रहणाय गन्तुं यत्नं कुर्वाणे यदा ऐतम् । लडर्थे लङ् । इतः गच्छथः । यदेति वचनात् तदेति गम्यते । तदा देवयन्तः देवान् यष्टुकामा मानुषा वां युवाभ्यां प्रभरन् । 'हृग्रहोर्भः' इति भः, लडर्थे लङ् । प्रहरन्ति हवींषि स्तुतिञ्चोपहरन्ति । तौ युवां स्वं लोकं स्वस्थानं विदाने जानन्तौ आसीदतम् । आसाद्य च स्वासस्थे शोभनासनस्थे भवतं नो ऽस्माकम् इन्दवे ऐश्वर्याय । एवं विनियुक्तार्थगोचरतालोभेन क्लेशेन व्याख्यातम् । बह्वृचास्तु - हविर्धानशकटयोरभिधानं मन्यन्ते ॥  
-</details>
-
-<details><summary>सायण-टीका</summary> 
-
-इव-शब्द एवकारार्थः। यद् यदा यतमाने प्रयत्नं कुर्वाणे यमे इव यमो यमी चेत्य् एते एव युवाम् ऐतम् अस्मिन् कर्मण्य् आगच्छतम्। तदानीं देवयन्तो देवान् आत्मन इच्छन्तो मानुषा यजमाना वां युवां प्रभरन् प्रकर्षेण भरन्तु पोषयन्तु। स्वमु लोकं स्वोचितम् एव स्थानं विदाने जानत्यौ युवाम् आसीदतम् उपविशतम्। नो ऽस्माकम् इन्दव आह्लादाय स्वासस्थे सुखासन-स्थाने भवतं तिष्ठतम्।
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -402,7 +396,6 @@ Als ihr herbeikamt wie zwei zusammengehende Schwestern, brachten euch die fromme
 
 पदार्थान्वयभाषाः -  (यमे-इव यतमाने यत्-ऐतम्) हे वधूवरौ ! युवां यथा मातुरुदराद् बहिरागमनं कुरुतो द्वे कन्ये तथा यतमानौ परस्परं बन्धनबद्धौ यतो वेद्यां प्राप्नुतम् तदा (मानुषाः देवयन्तः-वां प्रभरन्) देवं परमात्मानमिच्छन्तः-आस्तिका जनाः युवां प्रकृष्टं भरन्ति पुष्णन्ति-अनुमोदयन्ति (स्वं लोकम्-उ-आसीदतम्) विवाहानन्तरं स्वगृहं खलु समन्तात् प्राप्नुतम्, तत्र गत्वा च (विदाने स्वासस्थे) स्वात्मनि ज्ञापयन्त्यौ द्यावापृथिव्यौ सुप्रतिष्ठिते-इव प्रतिष्ठितौ (नः-इन्दवे भवतम्) अस्माकं यज्ञाय श्रेष्ठकर्मसाधनाय सहयोगिनौ भवतम् ॥२॥
 </details>
-</details>
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -437,18 +430,23 @@ Als ihr herbeikamt wie zwei zusammengehende Schwestern, brachten euch die fromme
 ## हविर्-निवेदनम्
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/13_yamAya_somaM.md">
-<details open><summary><h5>१३ यमाय सोमं ...{Loading}...</h5></summary>
 
 यमा᳓य सो᳓मँ **सुनुत**  
 यमा᳓य **जुहुता** हविः᳓ ।  
 यमँ᳓ ह यज्ञो᳓ **गच्छत्य्**  
 अग्नि᳓-दूतो अ᳓रङ्-कृतः ।
 
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/014/13_yamAya_somaM.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+य॒माय॒ सोमं॑ सुनुत य॒माय॑ जुहुता ह॒विः ।  
+य॒मं ह॑ य॒ज्ञो ग॑च्छत्य॒ग्निदू॑तो॒ अरं॑कृतः ॥
 </details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/13_yamAya_somaM.md">
-<details open><summary><h5>013 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -609,6 +607,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यमाय- नियमाधिदैवताय। सोमम्- रसं। सुनुत- निष्पादयत। यमाय- पापोपरत्यधिदैवताय।  हविः- चरुपुरोडाशध्यानभावनादिहव्यम्। जुहुत। अग्निदूतः- अग्न्युपलक्षितसर्वभूतहितक्रतुद्वारा। यज्ञः- देवपूजादानसङ्गतिकरणात्मकः। अरंकृतः- मण्डितः सन्। यमम्- नियमाधिदैवतम्।  गच्छति॥१३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ऋत्विजः **यमाय** यमदेवतार्थं **सोमं** **सुनुत** । लतात्मकं सोममभिषुणुत । तथा यमार्थं **हविः** **जुहुत** । अग्निर्दूतो यस्मिन् यज्ञे सोऽयम् **अग्निदूतः**। अग्नेर्दूतत्वमन्यत्राम्नातम् - अग्निर्देवानां दूत आसीत् ' (तै. सं. २. ५. ८. ५) इति । **अरंकृतः** बहुभिर्देव्यैरलंकाररूपैर्युक्तः तादृशः **यज्ञः** **यमं** **ह** यममेव गच्छति ॥
@@ -617,12 +620,6 @@ _________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सोमं सोमवन्मधुरं तिललक्षणं हविर् यमाय सुनुत अभिषवसदृशेन हस्तव्यापारेण आक्षिपत हे परिचारकाः! । यमायैव हविर् जुहुत निवेदयत जुह्वतो मे प्रयोजका भवत । यमं ह यममेव अयं यज्ञो गच्छति तिललक्षणो गच्छत्व् अग्निदूतो ऽग्निवोढृकस् तत्र पूर्वं कृतत्वाद् अरङ्कृतः पर्याप्तं शीघ्रं वा कृतः ॥  
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-
-हे ऋत्विजो, यम-देवार्थं सोमं सुनुत लतात्मकं सोमम् अभिषुणुत। तथा यमार्थं हविर् जुहुत। अग्नि-दूतो यस्मिन् यज्ञे सो ऽयम् अग्नि-दूतः। अग्नेर् दूतत्वम् अन्यत्राम्नातम् - "अग्निर् देवानां दूत आसीद्" इति। अरंकृतो बहुभिर् द्रव्यैर् अलंकार-रूपैर् युक्तः, तादृशो यज्ञो यमं ह यमम् एव गच्छतु। (*ओंकारस्त्वध्याहृतः)।  
 </details>
 
 <details><summary>Wilson</summary>
@@ -690,7 +687,6 @@ Dem Jama keltert Somasaft, ergiesst dem Jama Opfertrank; Zu Jama geht das Opfer 
 
 पदार्थान्वयभाषाः -  (यमाय सोमं सुनुत) आयुरूपाय जीवनकालाय विश्वकालाय च तत्सौष्ठ्यसम्पादनायेत्यर्थः, सोममोषधिरसं निःसारयत (यमाय हविः-जुहुत) यमाय पूर्वोक्ताय हविः होत्रं कुरुत (अग्निदूतः-अरङ्कृतः-यमः-यमं ह गच्छति) अग्निर्दूतो यस्य स एवमलङ्कृतः सम्यक् कृतो यज्ञः कालं गच्छति ॥१३॥
 </details>
-</details>
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -699,7 +695,6 @@ Dem Jama keltert Somasaft, ergiesst dem Jama Opfertrank; Zu Jama geht das Opfer 
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
-
 
 कल्पः- 
 "प्रतीच्याम् उत्तर-वेद्याम् - 
@@ -711,18 +706,23 @@ Dem Jama keltert Somasaft, ergiesst dem Jama Opfertrank; Zu Jama geht das Opfer 
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/14_yamAya_ghRtavaddhavirjuhota.md">
-<details open><summary><h5>१४ यमाय घृतवद्धविर्जुहोत ...{Loading}...</h5></summary>
 
 यमा᳓य घृत᳓वद्-धवि᳓र्  
 **जुहो᳓त** प्र᳓ च **तिष्ठत** ।  
 स᳓ नो देवे᳓ष्व् **आ᳓यमद्**  
 दीर्घ᳓म् आ᳓युः प्र᳓ जीव᳓से ।
 
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/014/14_yamAya_ghRtavaddhavirjuhota.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+य॒माय॑ घृ॒तव॑द्ध॒विर्जु॒होत॒ प्र च॑ तिष्ठत ।  
+स नो॑ दे॒वेष्वा य॑मद्दी॒र्घमायुः॒ प्र जी॒वसे॑ ॥
 </details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/14_yamAya_ghRtavaddhavirjuhota.md">
-<details open><summary><h5>014 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -913,6 +913,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यमाय- नियमाधिदैवताय। घृतवत्- ज्योतिष्मत्। हविः- हव्यम्। जुहोत- जुहुत। प्र तिष्ठत-  उपतिष्ठध्वम्। च। देवेषु- देवतासु। सः- तादृशो यमः। नः- अस्मभ्यम्। प्र जीवसे- उज्जीवनाय।  दीर्घमायुः। यमत्- प्रयच्छतु॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ऋत्विजः यूयं **यमाय** **घृतवत्** आज्येन संयुक्तं **हविः** पुरोडाशादिकं **जुहोत** जुहुत । **प्र** **तिष्ठत** **च** यमं यूयमुपतिष्ठध्वं च । **देवेषु** मध्ये **सः** यमो देवः **प्र** **जीवसे** प्रकृष्टजीवनार्थं **नः** अस्माकं **दीर्घमायुः** **आ** **यमत्** प्रयच्छतु ॥
@@ -921,12 +926,6 @@ _________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अभिघारेण घृतेन घृतवत् हविर्जुहोत जुहुत प्रचतिष्ठत प्रतिष्ठितं च उद्युक्ता भवत । सः यमः नो ऽस्मभ्यं देवेषु मध्ये प्रायमत् प्रकर्षेण आभिमुख्येन च ददातु दीर्घमायुर् जीवसे जीवनाय ।।  
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-
-हे ऋत्विजो, यमार्थं घृत-युक्तं हविर् जुहोत। यूयं च प्रकर्षेण तिष्ठत। देवेषु मध्ये यो यमो देवः स प्रजीवसे प्रकृष्ट-जीवनार्थं नो ऽस्माकं दीर्घम् आयुर् आयमत् प्रयच्छतु।
 </details>
 
 <details><summary>Wilson</summary>
@@ -994,7 +993,6 @@ Den fettversehnen Opfertrank ergiesst dem Jama, tretet vor; Er lenk uns zu den G
 
 पदार्थान्वयभाषाः -  (यमाय घृतवत्-हविः-जुहोत प्रतिष्ठत च) यमाय पूर्वोक्ताय जीवनकालाय विश्वकालाय वा तत्सौष्ठ्यसम्पादनायेत्यर्थः। घृतयुक्तं हवनं जुहोत कुरुत प्रतिष्ठत च तत्र प्रकृष्टतां च प्राप्नुत (सः-नः-जीवसे देवेषु दीर्घम् आयुः प्रायमत्) सोऽस्माकं जीवनाय देवेष्विन्द्रियेषु दीर्घस्थायित्वं विस्तारयति ॥१४॥
 </details>
-</details>
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1015,18 +1013,23 @@ Den fettversehnen Opfertrank ergiesst dem Jama, tretet vor; Er lenk uns zu den G
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/15_yamAya_madhumattamaM.md">
-<details open><summary><h5>१५ यमाय मधुमत्तमं ...{Loading}...</h5></summary>
 
 यमा᳓य म᳓धुमत्तमँ  
 रा᳓ज्ञे हव्य᳓ञ् **जुहोतन** ।  
 इद᳓न् न᳓म ऋ᳓षिभ्यः पूर्वजे᳓भ्यः  
 पू᳓र्वेभ्यः पथि-कृ᳓द्भ्यः ।
 
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/014/15_yamAya_madhumattamaM.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+य॒माय॒ मधु॑मत्तमं॒ राज्ञे॑ ह॒व्यं जु॑होतन ।  
+इ॒दं नम॒ ऋषि॑भ्यः पूर्व॒जेभ्यः॒ पूर्वे॑भ्यः पथि॒कृद्भ्यः॑ ॥
 </details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/15_yamAya_madhumattamaM.md">
-<details open><summary><h5>015 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -1168,6 +1171,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+राज्ञे- स्वामिने। यमाय- नियमाधिदैवताय। मधुमत्तमम्- अतिशयेन मधुरम्। हव्यम्-  चरुपुरोडाशध्यानभावनादिकं हव्यम्। जुहोतन- समर्पयत। पूर्वजेभ्यः- पूर्वपुरुषेभ्यः। पूर्वेभ्यः-  पूर्वाचार्येभ्यः। पथिकृद्भ्यः- मार्गदर्शिभ्यः। ऋषिभ्यः- क्रान्तदर्शिभ्यः। इदम्। नमः-  वन्दनमस्तु॥१५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे ऋत्विजः **यमाय** **राज्ञे** **मधुमत्तमम्** अतिशयेन मधुरं **हव्यं** पुरोडाशादिकं हविः **जुहोतन** जुहुत । **पूर्वजेभ्यः** सृष्ट्यावादावुत्पन्नेभ्यः अत एव **पूर्वेभ्यः** अस्मत्तः पूर्वभाविभ्यः **पथिकृद्भ्यः** शोभनमार्गकारिभ्यः **ऋषिभ्यः** **इदं** प्रत्यक्षं यथा भवति तथा **नमः** अस्तु ॥
@@ -1176,11 +1184,6 @@ _________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यमाय मधुमत्तमम् अतिशयेन मधु स्वादुयुक्तं हव्यं यमाय राज्ञे जुहोतन जुहुत । इदं नमो ऽयं नमस्कार इदं हविर्वा । पूर्वजेभ्यः पूर्वेभ्यश्च चिरन्तनेभ्यः पथिकृद्भ्यः मार्गकृद्भ्य ऋषिभ्यो ऽस्त्वित्यध्याहार्यम् ॥ दक्षिणस्यां - 'यौ ते श्वानौ' इति गतम् । उत्तरस्यां - यमदूताभ्यां 'उरुणसौ'10 इति गतम् ॥  
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-ह ऋत्विजो, यमाय राज्ञे मधुमत्तमम् अतिशयेन मधुरं हव्यं जुहोतन जुहुत। पूर्व-जेभ्यः सृष्ट्यादाव् उत्पन्नेभ्यो ऽत एव पूर्वेभ्यो ऽस्मत्तः पूर्व-भाविभ्यः पथि-कृद्भ्यः शोभन-मार्ग-कारिभ्य ऋषिभ्य इदं प्रत्यक्षं यथा भवति तथा नमो ऽस्तु।
 </details>
 
 <details><summary>Wilson</summary>
@@ -1248,7 +1251,6 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 पदार्थान्वयभाषाः -  (यमाय राज्ञे मधुमत्तमं हव्यं जुहोतन) पूर्वोक्ताय सर्वत्र राजमानाय कालाय मधुमत्तमं मधुररसयुक्तं होतव्यं वस्तु जुहुत (पथिकृद्भ्यः पूर्वजेभ्यः पूर्वेभ्यः-ऋषिभ्यः-इदं नमः) धर्ममार्गसम्पादकेभ्यः पूर्वजापेक्षया पूर्वेभ्यः प्राक्तनेभ्यः ऋषिभ्य इदं मन्त्रत्रयोक्तं सोमघृतमधुमिश्रं हविष्प्रदानं नम्रत्वं शिष्टाचारोऽस्तु, अस्तीत्यर्थः ‘आम्राश्च सिक्ताः पितरश्च प्रीणिताः’ इतिवत् ॥१५॥
 </details>
-</details>
 </div>
 
 ## परिगानम्
@@ -1260,7 +1262,6 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
-
 **कल्पः** - 
 
 > "यो ऽस्य कौष्ठ्येति तिसृभिर् यम-गाथाभिस् त्रिः प्रदक्षिणं परिगायन्ति" 
@@ -1269,17 +1270,18 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 यो᳓ऽस्य +++(गोत्रेण)+++ कौ᳓ष्ठ्य! ज᳓गतः  
-पा᳓र्थिवस्यै᳓क इद् वशी᳓ ।  
+पा᳓र्थिवस्यै᳓क +++(~~इ~~→)+++इ᳓द् वशी᳓ ।  
 यमं᳓ +++(नाम्ना)+++ भङ्ग्य-श्रवो᳓! **गाय**  
 यो᳓ रा᳓जा ऽनपरो᳓द्ध्यः ।
+
 </details>
 </div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 योऽस्य॒ कौष्ठ्य॒ जग॑तः॒ पार्थि॑व॒स्यैक॑ इद्व॒शी ।  
@@ -1290,27 +1292,22 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 श्रवो ऽन्तर्धनं कीर्तिर्वा भङ्ग्यं भजनीयम् अतिप्रभूतत्वात् । यमस्य भङ्ग्यश्रवनामा कश्चित्, तस्यैव गोत्रनाम कौष्ठ्य इति । स यमं गायंश्चरति । तं प्रति इदमुच्यते - हे कौष्ठ्य! भङ्ग्यश्रवः! यो यमो ऽस्य पार्थिवस्य पृथिव्यां भवस्य जगतः जङ्गमस्य प्राणिजातस्य एक इद् एक एव वशी स्वामी यश्च यमः राजा सन् अनपरोध्यो ऽपरोधोऽतिक्रमो ऽनतिक्रमणीयस् तं यमं गाय ॥  
 </details>
-
-<details><summary>सायण-टीका</summary>
-
-
-कोष्ठं(कौ)ष्ठं धनम् अर्हतीति कोष्ठ्यः, तादृशो यो यम एक इद् एक एव पार्थिवस्य पृथिव्यां भवस्यास्य सर्वस्य जगतो वशी वशेन युक्तः सर्वं जगत् तद्-अधीनम् इत्य् अर्थः। यश् च यमो राजा ऽनपरोध्यः केनाप्य् अपरोद्धुम् अशक्यः। तं यमं प्रति भङ्ग्यश्रव एतन्-नामकं गीतं हे पुरुष, गाय। भङ्गी रीतिः। संगीत-शास्त्रोक्तां भङ्गीम् अर्हतीति भङ्ग्यम्। श्रवणीयं श्रवः। भङ्ग्यं च तच् छ्रवश् चेति भङ्ग्यश्रवः। शास्त्रीय-लक्षणोपेतत्वाच् छ्रोत्र-सुखकरम् इत्य् अर्थः। 
-</details>
 </details>
 </div>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 यम᳓ङ् **गा᳓य** +++(नाम्ना)+++ भङ्ग्यश्र᳓वो!  
-यो᳓ रा᳓जा ऽनपरो᳓द्ध्यः ।  
+यो᳓ रा᳓जा ऽनपरो᳓ध्यः ।  
 ये᳓नापो᳓ नद्यो᳙ ध᳓न्वानि+++(=मरुभूमयः)+++  
 ये᳓न द्यौः᳓ पृथिवी᳓ **दृढा᳓** ।
+
 </details>
 </div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 य॒मङ्गाय॑ भङ्ग्य॒श्रवो॒ यो राजा॑नप॒रोद्ध्यः॑ ।  
@@ -1321,29 +1318,23 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 7यममिति पूर्वार्धं गतम् । येन यमेन आपः समुद्रादिषु स्थिता नद्यः गङ्गाद्या धन्वानि मरुभूमयो ऽधिष्ठीयन्त इति शेषः । येन च द्यौः पृथिवी च दृढा भवति ॥  
 </details>
-
-<details><summary>सायण-टीका</summary>
-
-अथ द्वितीयाम् आह -
-
-यो यमो राजा केनाप्य् अपरोद्धुम् अशक्यः। येन यमेनापो धृता इति शेषः। तथा नद्यो येन धृताः। धन्वानि मरु-स्थलानि येन धृतानि। द्यौर् येन धृता। दृढा पृथिवी च येन धृता। तादृशं यमं प्रति पूर्वोक्तं भङ्ग्यश्रवो गाय। 
-</details>
 </details>
 </div>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/04_hiraNyakaxyAn_sudhurAn.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-हिरण्य-कक्ष्या᳓न्+++(=कुक्षीन्)+++ सु-धु᳓रान्  
-हिरण्याक्षा᳓न् अयश्-शफा᳓न् ।  
-अ᳓श्वान् अन᳓श्यतो दानय्ँ  
-यमो᳓ राजाभि **ति᳓ष्ठति** ।  
+हिरण्य-कक्ष्यान्+++(=कुक्षीन्)+++ सु-धुरान्  
+हिरण्याक्षान् अयश्-शफान् ।  
+अ᳓श्वान् अनश्यतो दानय्ँ  
+यमो᳓ रा᳓जा᳓भि **तिष्ठति** ।  
 +++(आरण्यकः स्वरव्यत्ययः।)+++
+
 </details>
 </div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/04_hiraNyakaxyAn_sudhurAn.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 हि॒र॒ण्य॒क॒क्ष्यान् सु॒धुरा॑न् हिरण्या॒क्षान॑यश्श॒फान् ।  
@@ -1354,41 +1345,59 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 8हिरण्यकक्ष्यान् हिरण्योदरपार्श्वान् सुधुरान् शोभनयुगान् हिरण्याक्षान् हिरण्यवर्णाक्षान् अयश्शफान् अयोवद् दृढखुरान् एवम्भूतान् अश्वान् अनश्यतो ऽविनाशितान् दीयत इति दानं बहवोऽश्वा एकं दानम् एवम्भूतान् अश्वान् दानं यमो राजा अभितिष्ठति । यमस्य एकमेव दानम् एवं विधमिति स्तुतिः ॥  
 </details>
-
-<details><summary>सायण-टीका</summary>
-
-अथ तृतीयाम् आह -
-
-अनसां शकटानां रथानां शतं यस्य यमस्य सो ऽयम् अनः-शतः। तादृशो यमो राजा दानं फल-प्रदानम् उद्दिश्यात्र समागच्छतु। अश्वान् अभितिष्ठति रथेषु योजयति। कीदृशान् अश्वान्? हिरण्य-कक्ष्यान् सौवर्णाभरणैर् युक्ताः कक्ष्या-प्रदेशा येषां ते हिरण्य-कक्ष्यास् तान्। सु-धुरां शोभनं धुरं रथ-वहन-स्थानं येषां ते सु-धुरास् तान्। शृङ्गारार्थं हिरण्य-निर्मिते अक्षिणी येषां ते हिरण्याक्षास् तान्। पाषाण-युक्त-मार्गेषु रक्षार्थं निर्मितैर् अयोमयैर् वलयैर् युक्ताः शफा येषां ते ऽयः-शफास् तान्। अनश(श्य)त इति पाठे नाश-रहितान् अश्वान् इति व्याख्येयम्।
-</details>
 </details>
 </div>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/05_yamo_dAdhAra.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 यमो᳓ **दाधार** पृथिवीय्ँ᳓  
 यमो᳓ वि᳓श्वम् इद᳓ञ् ज᳓गत् ।  
 यमा᳓य स᳓र्वम् इ᳓त् **त्रस्थे**+++(←उद्वेगे)+++  
 य᳓त् **प्राण᳓द्** वायु᳓र् अक्षित᳓म् ।
+
 </details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajna/05_yamo_dAdhAra.md"></div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/05_yamo_dAdhAra.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>मूलम्</summary>
+
+य॒मो दा॑धार पृथि॒वीय्ँय॒मो विश्व॑मि॒दञ्जग॑त् ।  
+य॒माय॒ सर्व॒मित्त्र॑स्थे॒ यत् प्रा॒णद्वा॒युर॑क्षि॒तम् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+9यमो दाधारेत्यनुवाकशेषेण यममभिवादयन्ते । यमो दाधार धारयति पृथिवीम् । यम एव च विश्वमिदं जगत् तद्वशवर्तित्वात् सर्वमित् सर्वमेव यमाय त्रस्थे तस्थे । रेफोपजनश्छान्दसः । तच्छेषत्वेन आत्मानं प्रकाश्य तिष्ठति यत्प्राणत् । अनितेश्शत्रन्तस्य रूपम् । चेष्टावद् वायुरक्षितं वायुभिः पञ्चभिः पालितं तैर्वा रक्षितम् ॥  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+**कल्पः** - 
+
+> "यमो दधारेत्य्' अनुवाक-शेषेण हविर् उद्-हरन्ति"
+
+इति। तत्र प्रथमाम् आह -
+
+पृथिवीं सर्वां यमो दधार धृतवान्। तथा विश्वं सर्वम् इदं जगद् यमो धृतवान्। यत् प्राणद् अस्मिन् जगति श्वास-युक्तं यद् अस्ति यद् अप्य् अन्यद् वायुना रक्षितं वस्त्व् अस्ति सर्वम् इत् सर्वम् एव यमाय यमार्थं तस्थे तस्थौ अवस्थितवान्। 
+</details>
+</details>
+</div>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/06_yathA_pancha.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 य᳓था प᳓ञ्च, य᳓था ष᳓ड्  
-यथा᳓ प᳓ञ्चदश᳓-र्षयः ।  
-यमय्ँ᳓ यो᳓ **विद्यात्** स᳓ **ब्रूयाद्**  
-यथै᳓क᳓ ऋ᳓षिर् **विजानते᳓** ।  
+य᳓था+++(~~था᳓~~)+++ प᳓ञ्चदश᳓-र्षयः ।  
+यमय्ँ᳓ यो᳓ **विद्या᳓त्**+++(~~द्यात्~~)+++ स᳓ **ब्रूयाद्**  
+य᳓थै᳓क+++(~~क᳓~~)+++ ऋ᳓षिर् **विजा᳓नते**+++(~~ते~~)+++ ।  
 +++(आरण्यकः स्वरव्यत्ययः।)+++
 </details>
 </div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/06_yathA_pancha.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 यथा॒ पञ्च॒ यथा॒ षड्य॒था पञ्च॑ द॒शर्ष॑यः ।  
@@ -1398,13 +1407,6 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10यथा पञ्च ऋषयः सनकादयः यमं विजानते विजानन्ति । यथा षडृषयः काण्डर्षयः विजानते । यथा पञ्चदशऋषयः कर्मकृतो ऽध्वर्य्वादयः । अवयुत्य वादोऽयम् । यथा वा एकर्षिर् ब्रह्मा जगत्कर्ता विजानाति यथैते यमं विजानते एवम्भूतोऽयमिति । यथेति वचनात् तथेति गम्यते । तथा यमं यो विद्याज् जानीयात् स एव तं ब्रूयात् स एव तं वक्तुं प्रभवति के वयं तस्य वचन इति स्तुतिः ॥  
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-अथ द्वितीयाम् आह -
-
-पञ्च भूतानि यथा वर्तन्ते, षड् ऋतवो यथा वर्तन्ते, पञ्चदश तिथयो तथा वर्तन्ते, ऋषयश् च वसिष्ठादयो यथा वर्तन्ते, तं प्रकारं सर्वं स पुमान् ब्रूयाद् वक्तुं शक्तः। कः पुमान् इति तद् उच्यते - यो यमं वेद स पुमान् ब्रूयाद् इत्य् अन्वयः। यमो हि नियन्तृत्वेन भूतर्तु-तिथ्यादिकं सर्वं जगद् यथायथं प्रवर्तयति। अतो यमस्य माहात्म्यं विद्वान् इदम् इत्थम् इति सर्वं वक्तुं शक्नोति। यथा वैक ऋषिर् एक एव सर्वज्ञः परमेश्वरो विजानते विशेषेण जगज् जानाति तद् अपि प्रकारान्तरं यम-माहात्म्याभिज्ञ एव वक्तुम् उत्सहते।
 </details>
 </details>
 </div>

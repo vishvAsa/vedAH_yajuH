@@ -1,13 +1,12 @@
 ---
-title:  ०७ सन्तत्याख्येष्टकामन्त्राः
+title: ०७ सन्तत्याख्येष्टकामन्त्राः
 unicode_script: devanagari
----
 
+---
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अग्निचयनशेषा इष्टकोपधानमन्त्राः, तत्र सन्तत्याख्येष्टकामन्त्राः
 </details>
-
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -16,7 +15,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आयु॑षᳶ प्रा॒णँ सन्त॑नु ।
+आ᳓युषᳶ प्राणँ᳓ स᳓न्तनु ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -31,7 +30,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णाद् अ॑पा॒नँ सन्त॑नु ।
+प्राणा᳓द् अपानँ᳓ स᳓न्तनु ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -46,7 +45,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पा॒नाद् व्या॒नँ सन्त॑नु ।
+अपाना᳓द् व्यानँ᳓ स᳓न्तनु ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -61,7 +60,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्या॒नाच् चक्षु॒स् सन्त॑नु ।
+व्याना᳓च् च᳓क्षुस् स᳓न्तनु ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -76,7 +75,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चक्षु॑ष॒श् श्रोत्रँ॒ सन्त॑नु ।
+च᳓क्षुषश् श्रो᳓त्रँ स᳓न्तनु ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -91,9 +90,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रोत्रा॒न् मन॒स् सन्त॑नु ।
+श्रो᳓त्रान् म᳓नस् स᳓न्तनु ।
 
-मन॑सो॒ वाचँ॒ सन्त॑नु ।
+म᳓नसो वा᳓चँ स᳓न्तनु ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -110,7 +109,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒च आ॒त्मानँ॒ सन्त॑नु ।
+वाच᳓ आत्मा᳓नँ स᳓न्तनु ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -125,8 +124,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒त्मन॑ᳶ पृथि॒वीँ सन्त॑नु ।
-पृ॒थि॒व्या अ॒न्तरि॑क्षँ॒ सन्त॑नु ।
+आत्म᳓नᳶ पृथिवीँ᳓ स᳓न्तनु ।
+पृथिव्या᳓ अन्त᳓रिक्षँ स᳓न्तनु ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -142,8 +141,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्तरि॑क्षा॒द् दिव॒ ँ॒सन्त॑नु ।
-दिव॒स् सुव॒स् सन्त॑नु ॥ 32 ॥  
+अन्त᳓रिक्षाद् दि᳓व ँस᳓न्तनु ।
+दि᳓वस् सु᳓वस् स᳓न्तनु ॥ 32 ॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -160,4 +159,3 @@ unicode_script: devanagari
 इति पञ्चमे सप्तमोऽनुवाकः ॥  
 
 </details>
-

@@ -26,8 +26,7 @@ title = "१४ कृणुष्व पाजः"
 
 ## आह्वानम्
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/01_kRNuShva_pAjaH.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/01_kRNuShva_pAjaH.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **कृणुष्व᳓** पा᳓जः +++(=तेजः)+++ प्र᳓सितिन् +++(=जालं)+++ न᳓ पृथ्वीं᳓  
@@ -35,11 +34,17 @@ title = "१४ कृणुष्व पाजः"
 तृष्वी᳓म् +++(=वेगम्)+++ अ᳓नु प्र᳓सितिं +++(=सैन्यं)+++ **द्रूणानो᳓**  
 +++(निर्)+++ **अ᳓स्ताऽसि**, **वि᳓ध्य** +++(च)+++ रक्ष᳓सस् त᳓पिष्ठैः ॥
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/01_kRNuShva_pAjaH.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/004/01_kRNuShva_pAjaH.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+कृ॒णु॒ष्व पाजः॒ प्रसि॑तिं॒ न पृ॒थ्वीं या॒हि राजे॒वाम॑वाँ॒ इभे॑न ।  
+तृ॒ष्वीमनु॒ प्रसि॑तिं द्रूणा॒नोऽस्ता॑सि॒ विध्य॑ र॒क्षस॒स्तपि॑ष्ठैः ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/01_kRNuShva_pAjaH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -422,13 +427,11 @@ Breit aus dein Licht wie eine weite Heerschar, gleich mächt'gem König geh mit 
 
 भावार्थभाषाः -  या यंत्रात उपमालंकार आहे. हे राजजनानो (सेनापती इत्यादींनो) तुम्ही पृथ्वीप्रमाणे दृढ बलयुक्त व्हा. राजाप्रमाणे न्यायाधीश बना व तृषित हरिणीमागे धावणाऱ्या लांडग्याप्रमाणे असणाऱ्या व वाटसरूंना लुटणाऱ्या दुष्ट दस्यूंचा नाश करा. ॥ १ ॥
 </details>
-
 </div>
 
 ## युद्धप्रार्थना
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/02_tava_bhramAsa.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/02_tava_bhramAsa.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 त᳓व भ्रमा᳓स आशुया᳓ **पतन्त्य्**  
@@ -437,11 +440,17 @@ Breit aus dein Licht wie eine weite Heerschar, gleich mächt'gem König geh mit 
 **अ᳓-सन्दितो +++(=अनिरुद्धः)+++ वि᳓ सृज** वि᳓ष्वग् उल्काः᳓ ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/02_tava_bhramAsa.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/004/02_tava_bhramAsa.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+तव॑ भ्र॒मास॑ आशु॒या प॑त॒न्त्यनु॑ स्पृश धृष॒ता शोशु॑चानः ।  
+तपूं॑ष्यग्ने जु॒ह्वा॑ पतं॒गानसं॑दितो॒ वि सृ॑ज॒ विष्व॑गु॒ल्काः ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/02_tava_bhramAsa.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -784,11 +793,9 @@ Es fliegen eilend deine Wirbelflammen, folg auf dem Fuss mit kühnem Muthe strah
 
 भावार्थभाषाः -  जे राजे स्फूर्तिवान, शीघ्र कार्य करणारे असतील त्यांनी पूर्णबलयुक्त बनून विद्युत प्रयोगाने ब्रह्मास्त्र इत्यादीच्या साह्याने शत्रूंवर विजय प्राप्त करावा. ॥ २ ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/03_prati_spasho.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/03_prati_spasho.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 प्र᳓ति स्प᳓शो **वि᳓ सृज** तू᳓र्णितमो  
@@ -797,11 +804,17 @@ Es fliegen eilend deine Wirbelflammen, folg auf dem Fuss mit kühnem Muthe strah
 अ᳓ग्ने मा᳓किष् टे व्य᳓थिर् +++(=बाधकः)+++ **आ᳓दधर्षीत्** ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/03_prati_spasho.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/004/03_prati_spasho.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+प्रति॒ स्पशो॒ वि सृ॑ज॒ तूर्णि॑तमो॒ भवा॑ पा॒युर्वि॒शो अ॒स्या अद॑ब्धः ।  
+यो नो॑ दू॒रे अ॒घशं॑सो॒ यो अन्त्यग्ने॒ माकि॑ष्टे॒ व्यथि॒रा द॑धर्षीत् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/03_prati_spasho.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -1195,11 +1208,9 @@ Zum Schutze sende eilig deine Späher, sei zuverläss'ger Hüter dieses Hauses; 
 
 भावार्थभाषाः -  हे राजा ! तू उत्तम गुण ग्रहण करून प्रजेचे पालन करून समीप व दूर असलेल्या दस्यू इत्यादी दुष्ट पुरुषांचा नाश कर. ज्यामुळे सर्वांना सुख मिळेल. ॥ ३ ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/04_udagne_tiShTha.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/04_udagne_tiShTha.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **उ᳓द्** अग्ने **तिष्ठ** प्र᳓त्या᳓ऽऽतनुष्व  
@@ -1208,11 +1219,17 @@ Zum Schutze sende eilig deine Späher, sei zuverläss'ger Hüter dieses Hauses; 
 नीचा᳓ तं᳓ **धक्ष्य्** +++(=दह)+++ अतसं᳓ +++(=काष्ठविशेषः)+++ न᳓ शु᳓ष्कम् ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/04_udagne_tiShTha.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/004/04_udagne_tiShTha.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+उद॑ग्ने तिष्ठ॒ प्रत्या त॑नुष्व॒ न्य१॒॑मित्राँ॑ ओषतात्तिग्महेते ।  
+यो नो॒ अरा॑तिं समिधान च॒क्रे नी॒चा तं ध॑क्ष्यत॒सं न शुष्क॑म् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/04_udagne_tiShTha.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -1601,11 +1618,9 @@ Erheb dich, Agni, spanne deinen Bogen, mit scharfer Waffe brenn die Feinde niede
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. माणसांनी आळसाचा त्याग करून पुरुषार्थ वाढवून शत्रूंचे दहन करावे व अंध कूपाप्रमाणे असलेल्या कारागृहात त्यांना बंदिस्त करावे व नीच समजून वर्तन करावे. जे लोक असे करतात त्यांची राजाने गुरुप्रमाणे सेवा करावी ॥ ४ ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/05_Urdhvo_bhava.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/05_Urdhvo_bhava.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **ऊर्ध्वो᳓** भव प्र᳓ति **विध्या᳓**+ध्य् अस्म᳓द्  
@@ -1614,11 +1629,17 @@ Erheb dich, Agni, spanne deinen Bogen, mit scharfer Waffe brenn die Feinde niede
 जामि᳓म् +++(=ज्ञातिं)+++ अ᳓जामिं **प्र᳓ मृणीहि** +++(=जहि)+++ श᳓त्रून् ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/05_Urdhvo_bhava.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/004/05_Urdhvo_bhava.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+ऊ॒र्ध्वो भ॑व॒ प्रति॑ वि॒ध्याध्य॒स्मदा॒विष्कृ॑णुष्व॒ दैव्या॑न्यग्ने ।  
+अव॑ स्थि॒रा त॑नुहि यातु॒जूनां॑ जा॒मिमजा॑मिं॒ प्र मृ॑णीहि॒ शत्रू॑न् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/05_Urdhvo_bhava.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -1995,13 +2016,11 @@ Erheb dich, jage fort von uns die Feinde, mach kund, o Agni, deine Götterkräft
 
 भावार्थभाषाः -  जी माणसे आपल्यापेक्षा उत्कृष्ट अर्थात् श्रेष्ठांना पाहून प्रसन्न होतात व अनुत्कृष्ट अर्थात दुःखी लोकांना पाहून शोक करतात, भोगयुक्तांना पाहून आनंदित होतात व भोगरहितांना पाहून अप्रसन्न होतात, तेच राजकर्मात स्थिर होतात. ॥ ५ ॥
 </details>
-
 </div>
 
 ## उपासकसौभाग्यम्
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/06_sa_te.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/06_sa_te.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 स᳓ ते **जानाति** सु-मतिं᳓ यविष्ठ  
@@ -2010,11 +2029,17 @@ Erheb dich, jage fort von uns die Feinde, mach kund, o Agni, deine Götterkräft
 द्युम्ना᳓न्य्  अर्यो᳓ वि᳓ दु᳓रो +++(=गृहान्)+++ **अभि᳓ द्यौत्** +++(=द्योतस्व)+++ ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/06_sa_te.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/004/06_sa_te.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+स ते॑ जानाति सुम॒तिं य॑विष्ठ॒ य ईव॑ते॒ ब्रह्म॑णे गा॒तुमैर॑त् ।  
+विश्वा॑न्यस्मै सु॒दिना॑नि रा॒यो द्यु॒म्नान्य॒र्यो वि दुरो॑ अ॒भि द्यौ॑त् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/06_sa_te.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -2389,11 +2414,9 @@ Der spüret recht, o jüngster, deine Güte, wer einer solchen Andacht Fortgang 
 
 भावार्थभाषाः -  भावार्थ -हे राजा ! जे लोक नित्य शुभाचरणी, यशस्वी, स्नेही, शूरवीर व राज्यव्यवहार कुशल असून तुला जाणतात त्यांना तू मित्र समज. ॥ ६ ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/07_sedagne_astu.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/07_sedagne_astu.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 से᳓द्+++(=स+इत्)+++ अग्ने **अस्तु** सुभ᳓गस् सुदा᳓नुर्  
@@ -2402,11 +2425,17 @@ Der spüret recht, o jüngster, deine Güte, wer einer solchen Andacht Fortgang 
 वि᳓श्वे᳓द् अस्मै सुदि᳓ना सा᳓ **ऽसद्**+++(=भूयात्)+++ इष्टिः᳓ ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/07_sedagne_astu.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/004/07_sedagne_astu.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+सेद॑ग्ने अस्तु सु॒भगः॑ सु॒दानु॒र्यस्त्वा॒ नित्ये॑न ह॒विषा॒ य उ॒क्थैः ।  
+पिप्री॑षति॒ स्व आयु॑षि दुरो॒णे विश्वेद॑स्मै सु॒दिना॒ सास॑दि॒ष्टिः ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/07_sedagne_astu.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -2802,13 +2831,11 @@ Nur der sei glücklich, reich an Gut, o Agni, der dich mit stetem Opferguss und 
 
 भावार्थभाषाः -  हे राजा ! जे लोक नित्य प्रेमाने न्याय व विनय याद्वारे राज्याची उन्नती करतात व राजा आणि प्रजा यांच्यात उपद्रव न करता चांगले दिवस सदैव प्राप्त करवून देतात ते राजगृहात अध्यक्ष असावेत. ॥ ७ ॥
 </details>
-
 </div>
 
 ## प्रतिज्ञा
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/08_archAmi_te.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/08_archAmi_te.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **अ᳓र्चामि** ते सु-मतिं᳓, **घो᳓ष्य्** +++(=घोषवती)+++ अर्वा᳓क्+++(=पुरतः)+++  
@@ -2817,11 +2844,17 @@ Nur der sei glücklich, reich an Gut, o Agni, der dich mit stetem Opferguss und 
 ऽस्मे᳓+++(=अस्मासु)+++ क्षत्रा᳓णि **धारयेर्** अ᳓नु द्यू᳓न् +++(=अन्वहम्)+++ ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/08_archAmi_te.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/004/08_archAmi_te.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+अर्चा॑मि ते सुम॒तिं घोष्य॒र्वाक्सं ते॑ वा॒वाता॑ जरतामि॒यं गीः ।  
+स्वश्वा॑स्त्वा सु॒रथा॑ मर्जयेमा॒स्मे क्ष॒त्राणि॑ धारये॒रनु॒ द्यून् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/08_archAmi_te.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -3194,11 +3227,9 @@ Ich sing' ein Lied dir, in der Näh' erschall' es; dir soll erklingen dieses lie
 
 भावार्थभाषाः -  जेव्हा राजा सभेच्या लोकांना विचारतो की, या अधिकारात कोणत्या पुरुषाला नेमावे? तेव्हा संपूर्ण लोकांनी धार्मिक योग्य पुरुषाला नियुक्त करण्याची संमती द्यावी व राजानेही योग्य पुरुषाला राजकर्मात नियुक्त करावे, ज्यामुळे नित्य प्रशंसा वाढेल. ॥ ८ ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/09_iha_tvA.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/09_iha_tvA.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 इह᳓ त्वा भू᳓र्य् **आ᳓ चरेद्** उ᳓प +++(आ)+++त्म᳓न्  
@@ -3207,11 +3238,17 @@ Ich sing' ein Lied dir, in der Näh' erschall' es; dir soll erklingen dieses lie
 +**अभि᳓** द्युम्ना᳓ **तस्थिवाँ᳓सो** ज᳓नानाम् ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/09_iha_tvA.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/004/09_iha_tvA.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+इ॒ह त्वा॒ भूर्या च॑रे॒दुप॒ त्मन्दोषा॑वस्तर्दीदि॒वांस॒मनु॒ द्यून् ।  
+क्रीळ॑न्तस्त्वा सु॒मन॑सः सपेमा॒भि द्यु॒म्ना त॑स्थि॒वांसो॒ जना॑नाम् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/09_iha_tvA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -3563,11 +3600,9 @@ Es soll dir vieles hier zum Dienst bereit stehn, der du erglänzest täglich mor
 
 भावार्थभाषाः -  हे राजा ! जर तू दुर्व्यसनाचा त्याग करून धर्मासंबंधी कार्य केलेस तर आम्ही तुझे निरंतर भक्त होऊ. जर अन्याय केलास तर तुझा तात्काळ त्याग करू. ॥ ९ ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/10_yastvA_svashvaH.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/10_yastvA_svashvaH.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 य᳓स् त्वा स्व्-अ᳓श्वस् सु-हिरण्यो᳓ अग्न  
@@ -3576,11 +3611,17 @@ Es soll dir vieles hier zum Dienst bereit stehn, der du erglänzest täglich mor
 य᳓स् त आतिथ्य᳓म् आनुष᳓ग् +++(=अनुक्रमेण)+++ **जु᳓जोषत्** ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/10_yastvA_svashvaH.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/004/10_yastvA_svashvaH.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+यस्त्वा॒ स्वश्वः॑ सुहिर॒ण्यो अ॑ग्न उप॒याति॒ वसु॑मता॒ रथे॑न ।  
+तस्य॑ त्रा॒ता भ॑वसि॒ तस्य॒ सखा॒ यस्त॑ आति॒थ्यमा॑नु॒षग्जुजो॑षत् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/10_yastvA_svashvaH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -3930,11 +3971,9 @@ Wer zu dir kommt an Rossen reich und Goldschmuck, o Agni, und mit schatzbeladnem
 
 भावार्थभाषाः -  हे राजा ! जे तुझ्या राज्यावर उपकार करणारे, सत्कार करणारे असतील त्यांचेच मित्र व रक्षक बनून चक्रवर्ती हो. ॥ १० ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/11_maho_rujAmi.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/11_maho_rujAmi.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 महो᳓ +++(=महद्राक्षसान्)+++ **रुजामि** +++(=भनज्मि)+++ बन्धु᳓ता+++(\~बन्धुतया)+++  
@@ -3943,11 +3982,17 @@ Wer zu dir kommt an Rossen reich und Goldschmuck, o Agni, und mit schatzbeladnem
 हो᳓तर् यविष्ठ सु-क्रतो द᳓मूनाः +++(=दान्तमनाः)+++॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/11_maho_rujAmi.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/004/11_maho_rujAmi.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+म॒हो रु॑जामि ब॒न्धुता॒ वचो॑भि॒स्तन्मा॑ पि॒तुर्गोत॑मा॒दन्वि॑याय ।  
+त्वं नो॑ अ॒स्य वच॑सश्चिकिद्धि॒ होत॑र्यविष्ठ सुक्रतो॒ दमू॑नाः ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/11_maho_rujAmi.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -4316,13 +4361,11 @@ Durch meiner Sippe Lieder schlag' ich Helden; das kam auf mich von Gotama, dem V
 
 भावार्थभाषाः -  हे कुमार व कुमारींनो ! जसे आम्ही माता, पिता, आचार्याकडून उत्तम शिक्षण व विद्या प्राप्त करून आनंदित होतो तसे तुम्हीही व्हा. ॥ ११ ॥
 </details>
-
 </div>
 
 ### किरणकीर्तिः
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/12_asvapnajastaraNayaH_sushevA.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/12_asvapnajastaraNayaH_sushevA.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 अ᳓-स्वप्न-जस् तर᳓णयस् सु-शे᳓वा +++(=सुमुखाः)+++  
@@ -4331,11 +4374,17 @@ Durch meiner Sippe Lieder schlag' ich Helden; das kam auf mich von Gotama, dem V
 +अ᳓ग्ने त᳓व नः **पान्त्व्** अमूर +++(=अमर्त्य)+++ ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/12_asvapnajastaraNayaH_sushevA.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/004/12_asvapnajastaraNayaH_sushevA.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+अस्व॑प्नजस्त॒रण॑यः सु॒शेवा॒ अत॑न्द्रासोऽवृ॒का अश्र॑मिष्ठाः ।  
+ते पा॒यवः॑ स॒ध्र्य॑ञ्चो नि॒षद्याग्ने॒ तव॑ नः पान्त्वमूर ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/12_asvapnajastaraNayaH_sushevA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -4646,11 +4695,9 @@ Die schlummerlosen, eilenden, getreuen, sehr holden, die nicht rasten, noch erm�
 
 भावार्थभाषाः -  भावार्थ-प्रजेने सदैव राजाला उपदेश द्यावा, की हे राजा! तू आमचे रक्षण करण्यासाठी धार्मिक, आळशी नसले०ल्या, पुरुषार्थी व बलवान लोकांची नेमणूक कर ॥ १२ ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/13_ye_pAyavo.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/13_ye_pAyavo.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 +++(उतथ्यभार्या ममता। तस्याम् बृहस्पतिर् रेतः स्थापयितुम् अयतत। तत्र वर्तमानं रेतोऽन्तरम् आक्षिपत्। बृहस्पतिर् अशपत् तम् दीर्घतमा भवेति। सोऽ अग्नेर् अलभत चक्षुः।)+++
@@ -4661,11 +4708,17 @@ Die schlummerlosen, eilenden, getreuen, sehr holden, die nicht rasten, noch erm�
 **दि᳓प्सन्त** +++(=दम्भितुकामाः)+++ इ᳓द् रिप᳓वो ना᳓ ह **देभुः᳓** +++(=परिभवन्ति)+++ ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/13_ye_pAyavo.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/004/13_ye_pAyavo.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+ये पा॒यवो॑ मामते॒यं ते॑ अग्ने॒ पश्य॑न्तो अ॒न्धं दु॑रि॒तादर॑क्षन् ।  
+र॒रक्ष॒ तान्त्सु॒कृतो॑ वि॒श्ववे॑दा॒ दिप्स॑न्त॒ इद्रि॒पवो॒ नाह॑ देभुः ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/13_ye_pAyavo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -5026,7 +5079,6 @@ Den Mamateja schützten deine Hüter, den Blinden sehend, vor Gefahr, o Agni; De
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे राजा ! जे लोक आपल्या प्रमाणेच इतरांच्या पदार्थांना जाणतात व आपल्या आत्म्याप्रमाणेच इतरांचे रक्षण करतात तेच विद्वान तुझे सेवक व्हावेत. ज्यामुळे शत्रूंचे बल नष्ट होईल. ॥ १३ ॥
 </details>
-
 </div>
 
 ## प्रतिज्ञानुवर्तनम्
@@ -5036,8 +5088,7 @@ Den Mamateja schützten deine Hüter, den Blinden sehend, vor Gefahr, o Agni; De
 14अथ चतुर्दशी - त्वयेति ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/14_tvayA_vayaM.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/14_tvayA_vayaM.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 त्व᳓या वयँ᳓ सधन्य᳓स् **त्वो᳓तास्** +++(त्वया +अविताः=रक्षिताः)+++  
@@ -5046,11 +5097,17 @@ Den Mamateja schützten deine Hüter, den Blinden sehend, vor Gefahr, o Agni; De
 ऽनुष्ठुया᳓+++(=अनुक्रमेण)+++ **कृणुह्य्** +++(हे!)+++ अ-ह्रयाण +++(=अह्रि!)+++ ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/14_tvayA_vayaM.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/004/14_tvayA_vayaM.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+त्वया॑ व॒यं स॑ध॒न्य१॒॑स्त्वोता॒स्तव॒ प्रणी॑त्यश्याम॒ वाजा॑न् ।  
+उ॒भा शंसा॑ सूदय सत्यतातेऽनुष्ठु॒या कृ॑णुह्यह्रयाण ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/14_tvayA_vayaM.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -5350,7 +5407,6 @@ Von dir geleitet mögen wir erlangen, von dir geschützt, durch deine Führung, 
 
 भावार्थभाषाः -  सर्व सेवकांनी राजाबरोबर मैत्री करावी व राजाने सर्व लोकांबरोबर पित्याप्रमाणे वर्तन करावे व परस्पर एकमेकांची प्रशंसा करून दोषांचा नाश व सत्य नीतीचा प्रचार करून ज्या ज्या कर्माची लाज वाटेल, त्याचा त्याग करून चक्रवर्ती राज्य भोगावे. ॥ १४ ॥
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -5358,8 +5414,7 @@ Von dir geleitet mögen wir erlangen, von dir geschützt, durch deine Führung, 
 15।अथ पञ्चदशी - अयेति ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/15_ayA_te.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/15_ayA_te.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 अया᳓ +++(=अनया)+++ ते अग्ने समि᳓धा **विधेम**  
@@ -5368,11 +5423,17 @@ Von dir geleitet mögen wir erlangen, von dir geschützt, durch deine Führung, 
 द्रुहो᳓ निदो᳓ +++(=निन्दकात्)+++ मित्र-महो +++(=मित्रपूज्य!)+++ अवद्या᳓त्+++(=परिवादात्)+++ ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/15_ayA_te.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/004/15_ayA_te.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+अ॒या ते॑ अग्ने स॒मिधा॑ विधेम॒ प्रति॒ स्तोमं॑ श॒स्यमा॑नं गृभाय ।  
+दहा॒शसो॑ र॒क्षसः॑ पा॒ह्य१॒॑स्मान्द्रु॒हो नि॒दो मि॑त्रमहो अव॒द्यात् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/15_ayA_te.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -5712,7 +5773,6 @@ Wir huld'gen, Agni, dir mit diesem Brennholz, empfange du das ausgesprochne Lobl
 
 भावार्थभाषाः -  जे राजे व मंत्री परस्पर संमतीने नम्र बनून राज्य शासन चालवितात ते द्वेष, निंदा व अधर्माचरण यापासून पृथक होऊन उत्तम शिष्टाचारयुक्त बनून दशदिशांमध्ये यश पसरवितात. ॥ १५ ॥
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -5720,8 +5780,7 @@ Wir huld'gen, Agni, dir mit diesem Brennholz, empfange du das ausgesprochne Lobl
 16अथ पुरोनुवाक्या - रक्षोहणमिति ॥ 'रक्षोघ्नी याज्यानुवाक्ये भवतः' इति च ब्राह्मणम् । 
 </details>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/087/01_raxohaNaM_vAjinamA.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/087/01_raxohaNaM_vAjinamA.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 रक्षोह᳓णं वाजि᳓नम् +++(=अन्नवन्तम्)+++ आ᳓ऽऽजिघर्मि +++(=दीपयामि)+++  
@@ -5730,11 +5789,17 @@ Wir huld'gen, Agni, dir mit diesem Brennholz, empfange du das ausgesprochne Lobl
 स᳓ नो दि᳓वा स᳓ रिषः᳓ +++(=हिंसकात्)+++ पातु न᳓क्तम् ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/087/01_raxohaNaM_vAjinamA.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/087/01_raxohaNaM_vAjinamA.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+र॒क्षो॒हणं॑ वा॒जिन॒मा जि॑घर्मि मि॒त्रं प्रथि॑ष्ठ॒मुप॑ यामि॒ शर्म॑ ।  
+शिशा॑नो अ॒ग्निः क्रतु॑भिः॒ समि॑द्धः॒ स नो॒ दिवा॒ स रि॒षः पा॑तु॒ नक्त॑म् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/087/01_raxohaNaM_vAjinamA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -6037,7 +6102,6 @@ Ich netz' mit Fett den starken Rakschastödter und geh den Freund um ausgedehnte
 - त्रिष्टुप्
 - धैवतः
 </details>
-
 </div>
 
 ## रक्षोहाग्निध्यानम्
@@ -6047,8 +6111,7 @@ Ich netz' mit Fett den starken Rakschastödter und geh den Freund um ausgedehnte
 17अथ याज्या - वीति ॥
 </details>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/09_vi_jyotiShA.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/09_vi_jyotiShA.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 वि᳓ ज्यो᳓तिषा बृहता᳓ **भात्य्** अग्नि᳓र्  
@@ -6057,11 +6120,17 @@ Ich netz' mit Fett den starken Rakschastödter und geh den Freund um ausgedehnte
 **शि᳓शीते** +++(=तीक्ष्णीकरोति)+++ शृ᳓ङ्गे र᳓क्षसे विनि᳓क्षे +++(=विनाशाय)+++ ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/09_vi_jyotiShA.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/002/09_vi_jyotiShA.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+वि ज्योति॑षा बृह॒ता भा॑त्य॒ग्निरा॒विर्विश्वा॑नि कृणुते महि॒त्वा ।  
+प्रादे॑वीर्मा॒याः स॑हते दु॒रेवाः॒ शिशी॑ते॒ शृङ्गे॒ रक्ष॑से वि॒निक्षे॑ ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/09_vi_jyotiShA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -6399,7 +6468,6 @@ Mit hellem Glanze strahlet weithin Agni, in Herrlichkeit macht alles offenbar er
 
 भावार्थभाषाः -  भावार्थ -या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा सूर्य अंधकाराचे निवारण करून प्रकाश उत्पन्न करतो व भयाचे निवारण करतो तसेच विद्वान लोक गाढ अज्ञानाचे निवारण करून विद्यारूपी सूर्य उत्पन्न करून सर्व आत्म्यांमध्ये प्रकाश करवितात. ॥ ९ ॥
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -6407,8 +6475,7 @@ Mit hellem Glanze strahlet weithin Agni, in Herrlichkeit macht alles offenbar er
 18अथ याज्याविकल्पः, उपहोमार्था वा - उतेति ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/10_uta_svAnAso.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/10_uta_svAnAso.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 उत᳓ स्वाना᳓सो +++(=सस्वनाः)+++ दिवि᳓ **षन्त्व्** अग्ने᳓स्  
@@ -6417,11 +6484,17 @@ Mit hellem Glanze strahlet weithin Agni, in Herrlichkeit macht alles offenbar er
 **न᳓ वरन्ते** +++(अस्मान्)+++ परिबा᳓धो अ᳓देवीः ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/10_uta_svAnAso.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/002/10_uta_svAnAso.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+उ॒त स्वा॒नासो॑ दि॒वि ष॑न्त्व॒ग्नेस्ति॒ग्मायु॑धा॒ रक्ष॑से॒ हन्त॒वा उ॑ ।  
+मदे॑ चिदस्य॒ प्र रु॑जन्ति॒ भामा॒ न व॑रन्ते परि॒बाधो॒ अदे॑वीः ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/10_uta_svAnAso.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -6762,7 +6835,6 @@ Des Agni Prasseln töne laut im Himmel, mit scharfen Waffen das Gespenst zu töd
 
 भावार्थभाषाः -  हे विद्वानांनो! तुम्ही जसे धनुर्वेद पारंगत व शस्त्र, अस्त्र चालविण्यात चतुर लोकांना युद्धात अग्नियुक्त अस्त्रांद्वारे शत्रूंचे निवारण करवून विजय प्राप्त करविता तसेच अविद्येमुळे झालेल्या प्रमादाचे निवारण करण्यासाठी विद्या व उपदेशाद्वारे श्रेष्ठ गुण प्रकट करा. ॥ १० ॥
 </details>
-
 </div>
 
 इति श्रीभट्टभास्करमिश्रविरेचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये प्रथमे काण्डे द्वितीयप्रपाठके चतुर्दशोनुवाकः ॥

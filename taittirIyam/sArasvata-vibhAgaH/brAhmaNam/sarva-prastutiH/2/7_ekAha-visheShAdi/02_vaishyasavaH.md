@@ -1,9 +1,8 @@
 ---
-title:  ०२ वैश्यसवः
+title: ०२ वैश्यसवः
 unicode_script: devanagari
+
 ---
-
-
 <details><summary>मूलम्</summary>
 
 यदा॑ग्ने॒यो भव॑ति ।
@@ -12,7 +11,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदा॑ग्ने॒यो भव॑त्य् अ॒ग्निमु॑खा॒ ह्यृद्धिः॑ ।
+य᳓दाग्नेयो᳓ भ᳓वत्य् अग्नि᳓मुखा ह्यृ᳓द्धिः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -27,10 +26,10 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॒ यत्पौ॒ष्णः ।
-पुष्टि॒र्वै पू॒षा ।   
-पुष्टि॒र्वैश्य॑स्य ।   
-पुष्टि॑मे॒वाव॑रुन्धे ।
+अ᳓थ य᳓त्पौष्णः᳓ ।
+पु᳓ष्टिर्वै᳓ पूषा᳓ ।   
+पु᳓ष्टिर्वै᳓श्यस्य ।   
+पु᳓ष्टिमेवा᳓वरुन्धे ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -48,7 +47,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒स॒वाय॑ सावि॒त्रः ।
+प्रसवा᳓य सावित्रः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -63,8 +62,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॒ यत्त्वा॒ष्ट्रः ।  
-त्वष्टा॒ हि रू॒पाणि॑ विक॒रोति॑ ।
+अ᳓थ य᳓त्त्वाष्ट्रः᳓ ।  
+त्व᳓ष्टा हि᳓ रूपा᳓णि विकरो᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -80,7 +79,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नि॒र्व॒रु॒ण॒त्वाय॑ वारु॒णः ॥5॥  
+निर्वरुणत्वा᳓य वारुणः᳓ ॥5॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -93,7 +92,6 @@ unicode_script: devanagari
 पञ्चमं हविर्विधत्ते - अष्टाकपालो वारुणः कार्यः । स च निर्वरुणत्वाय वरुणपाशराहित्याय संपद्यते ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अथो॒ य ए॒व कश्च॒ सन्त्सू॒यते॑ ।
@@ -102,7 +100,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ य ए॒व कश्च॒ सन्त्सू॒यते॒ स हि वा॑रु॒णः ।
+अ᳓थो य᳓ एव᳓ क᳓श्च स᳓न्त्सूय᳓ते स᳓ हि᳓ वारुणः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -117,8 +115,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॒ यद्वै॑श्वदे॒वः ।   
-वै॒श्व॒दे॒वो हि वैश्यः॑ ।    
+अ᳓थ य᳓द्वैश्वदेवः᳓ ।   
+वैश्वदेवो᳓ हि᳓ वै᳓श्यः ।    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -134,8 +132,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॒ यन्मा॑रु॒तः ।   
-मा॒रु॒तो हि वैश्यः॑ ।  
+अ᳓थ य᳓न्मारुतः᳓ ।   
+मारुतो᳓ हि᳓ वै᳓श्यः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -151,8 +149,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्तैतानि॑ ह॒वीँषि॑ भवन्ति ।  
-स॒प्तग॑णा॒ वै म॒रुतः॑ ।
+सप्तै᳓ता᳓नि हवीँ᳓षि भवन्ति ।  
+सप्त᳓गणा वै᳓ मरु᳓तः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -168,7 +166,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृश्ञि॑ᳶ पष्ठौ॒ही मा॑रु॒त्याल॑भ्यते ।
+पृ᳓श्ञिᳶ पष्ठौही᳓ मारुत्या᳓लभ्यते ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -183,10 +181,10 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विड्वै म॒रुतः॑ ।   
-विश॑ ए॒वैतन्म॑ध्य॒तो॑ऽभिषि॑च्यते ।  
-तस्मा॒द्वा ए॒ष वि॒शᳶ प्रि॒यः ।   
-वि॒शो हि म॑ध्य॒तो॑ऽभिषि॒च्यते॑ ।  
+वि᳓ड्वै᳓ मरु᳓तः ।   
+वि᳓श एवै᳓त᳓न्मध्यतो᳙ऽभि᳓षिच्यते ।  
+त᳓स्माद्वा᳓ एष᳓ विशᳶ᳓ प्रियः᳓ ।   
+विशो᳓ हि᳓ मध्यतो᳙ऽभिषिच्य᳓ते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -204,11 +202,11 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒ष॒भ॒च॒र्मेऽध्य॒भिषि॑ञ्चति ।  
-स हि प्र॑जनयि॒ता ।   
-द॒ध्नाऽभिषि॑ञ्चति ।   
-ऊर्ग्वा अ॒न्नाद्य॒न्दधि॑ ।  
-ऊ॒र्जैवैन॑म॒न्नाद्ये॑न॒ सम॑र्धयति ॥6॥  
+ऋषभचर्मे᳓ऽध्यभि᳓षिञ्चति ।  
+स᳓ हि᳓ प्रजनयिता᳓ ।   
+दध्ना᳓ऽभि᳓षिञ्चति ।   
+ऊ᳓र्ग्वा᳓ अन्ना᳓द्यन्द᳓धि ।  
+ऊर्जै᳓वै᳓नमन्ना᳓द्येन स᳓मर्धयति ॥6॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -227,4 +225,3 @@ unicode_script: devanagari
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके सप्तमप्रपाठके द्वितीयोऽनुवाकः ॥  
 
 </details>
-

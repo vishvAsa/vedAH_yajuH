@@ -1,6 +1,5 @@
 +++
 title = "०३ प्रजाकामस्य पशुकामस्य च गार्मुतश्चरुः"
-
 +++
 
 विश्वेदेवा ऋषयः ।
@@ -12,7 +11,7 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा॒सु॒रास्सय्ँय॑त्ता आसन् ।
+देवासुरा᳓स्सय्ँ᳓यत्ता आसन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -27,7 +26,7 @@ The gods and the Asuras were in conflict;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषा॑ङ्गाय॒त्र्योजो॒ बल॑मिन्द्रि॒यव्ँवी॒र्य॑म्प्र॒जाम्प॒शून्त्स॒ङ्गृह्या॒दाया॑प॒क्रम्या॑तिष्ठत् ।
+ते᳓षाङ्गायत्र्यो᳓जो ब᳓लमिन्द्रियव्ँ᳓वीर्य᳙म्प्रजा᳓म्पशू᳓न्त्सङ्गृ᳓ह्यादा᳓यापक्र᳓म्यातिष्ठत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -47,9 +46,9 @@ the Gayatri, grasping and taking their force, might, power, strength, offspring,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽमन्यन्त ।  
-य॒त॒रान् वा इ॒यमु॑पाव॒र्त्स्यति॑ ।  
-त इ॒दम्भ॑विष्य॒न्तीति॑ ।  
+ते᳓ऽमन्यन्त ।  
+यतरा᳓न् वा᳓ इय᳓मुपावर्त्स्य᳓ति ।  
+त᳓ इद᳓म्भविष्यन्ती᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -71,7 +70,7 @@ they reflected, I Whomsoever of us she shall resort to, they shall become this (
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव्व्ँय॑ह्वयन्त॒ विश्व॑कर्म॒न्निति॑ ।  
+ता᳓व्व्ँयह्वयन्त वि᳓श्वकर्मन्नि᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -92,7 +91,7 @@ they hailed her in rivalry,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा दाभीत्यसु॑राः ।  
+देवा᳓ दा᳓भी᳓त्य᳓सुराः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -112,8 +111,8 @@ they hailed her in rivalry,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा नान्य॑त॒राँश्च॒ नोपाव॑र्तत ।  
-ते दे॒वा ए॒तद्यजु॑रपश्यन् ।
+सा᳓ ना᳓न्यतराँ᳓श्च नो᳓पा᳓वर्तत ।  
+ते᳓ देवा᳓ एत᳓द्य᳓जुरपश्यन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -139,7 +138,7 @@ they hailed her in rivalry,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओजो॑ऽसि ।  
+ओ᳓जोऽसि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -159,7 +158,7 @@ neither did she resort to.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सहो॑ऽसि ।  
+स᳓होऽसि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -179,7 +178,7 @@ The gods saw this formula,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बल॑मसि ।  
+ब᳓लमसि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -199,7 +198,7 @@ The gods saw this formula,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भ्राजो॑ऽसि।  
+भ्रा᳓जोऽसि।  
 </details>
 
 <details><summary>Keith</summary>
@@ -219,7 +218,7 @@ thou art strength,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वाना॒न्धाम॒ नामा॑सि ।  
+देवा᳓नान्धा᳓म ना᳓मासि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -239,7 +238,7 @@ thou art might [1],
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्व॑मसि ।  
+वि᳓श्वमसि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -259,7 +258,7 @@ thou are blazing,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒श्वायुः॑+++(असि)+++ ।  
+विश्वा᳓युः+++(असि)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -279,7 +278,7 @@ thou art by name the home of the gods,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व॑मसि ।  
+स᳓र्वमसि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -299,7 +298,7 @@ thou art all,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒र्वायुः॑ +++(असि)+++।  
+सर्वा᳓युः +++(असि)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -319,7 +318,7 @@ of all life thou art everything,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भि॒भूः +++(असि)+++ ।
+अभिभूः᳓ +++(असि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -344,7 +343,7 @@ thou art of every life,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इति॒ वाव दे॒वा असु॑राणा॒मोजो॒ बल॑मिन्द्रि॒यव्ँवी॒र्य॑म्प्र॒जाम्प॒शून॑वृञ्जत ।  
+इ᳓ति वा᳓व᳓ देवा᳓ अ᳓सुराणामो᳓जो ब᳓लमिन्द्रियव्ँ᳓वीर्य᳙म्प्रजा᳓म्पशू᳓नवृञ्जत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -364,9 +363,9 @@ the overcoming.' (So saying) the gods appropriated the force, might, power, stre
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्गा॑य॒त्र्य॑प॒क्रम्याति॑ष्ठत्।   
-तस्मा॑दे॒ताङ्गा॑य॒त्रीतीष्टि॑माहुः  ।  
-सव्ँ॒व॒त्स॒रो वै  गा॑य॒त्री ।  
+य᳓द्गायत्र्य᳙पक्र᳓म्या᳓तिष्ठत्।   
+त᳓स्मादेता᳓ङ्गायत्री᳓ती᳓ष्टिमाहुः  ।  
+सव्ँवत्सरो᳓ वै᳓  गायत्री᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -393,7 +392,7 @@ Because the Gayatri remained away, therefore they style this offering the Gayatr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सव्ँ॒व॒त्स॒रो वै  तद॑प॒क्रम्या॑तिष्ठत्  ।  
+सव्ँवत्सरो᳓ वै᳓  त᳓दपक्र᳓म्यातिष्ठत्  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -413,8 +412,8 @@ the Gayatri is the year, so the year remained away;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदे॒तया॑ दे॒वा असु॑राणा॒मोजो॒ बल॑मिन्द्रि॒यव्ँवी॒र्य॑म् प्र॒जाम्प॒शूनवृ॑ञ्जत ।  
-तस्मा॑दे॒ताँ सव्ँ॑व॒र्ग इतीष्टि॑माहुः ।
+य᳓देत᳓या देवा᳓ अ᳓सुराणामो᳓जो ब᳓लमिन्द्रियव्ँ᳓वीर्य᳙म् प्रजा᳓म्पशू᳓न᳓वृञ्जत ।  
+त᳓स्मादेताँ᳓ सव्ँवर्ग᳓ इ᳓ती᳓ष्टिमाहुः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -440,12 +439,12 @@ because the gods thereby appropriated the force, might, power, strength [2], off
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो भ्रातृ॑व्यवा॒न्त्स्यात् ।   
-स स्पर्ध॑मान ए॒तयेष्ट्या॑ यजेत ।  
-अ॒ग्नये॑ सव्ँव॒र्गाय॑ पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पेत् ।  
-तँ शृ॒तमास॑न्नमे॒तेन॒ यजु॑षा॒भि मृ॑शेत् ।  
-ओज॑ ए॒व बल॑मिन्द्रि॒यव्ँवी॒र्य॑म्प्र॒जाम्प॒शून्भ्रातृ॑व्यस्य वृङ्क्ते ।  
-भव॑त्या॒त्मना॒ परा॑स्य॒ भ्रातृ॑व्यो भवति ॥
+यो᳓ भ्रा᳓तृव्यवान्त्स्या᳓त् ।   
+स᳓ स्प᳓र्धमान एत᳓ये᳓ष्ट्या यजेत ।  
+अग्न᳓ये सव्ँवर्गा᳓य पुरोडा᳓शमष्टा᳓कपालन्नि᳓र्वपेत् ।  
+तँ᳓ शृत᳓मा᳓सन्नमेते᳓न य᳓जुषाभि᳓ मृशेत् ।  
+ओ᳓ज एव᳓ ब᳓लमिन्द्रियव्ँ᳓वीर्य᳙म्प्रजा᳓म्पशू᳓न्भ्रा᳓तृव्यस्य वृङ्क्ते ।  
+भ᳓वत्यात्म᳓ना प᳓रास्य भ्रा᳓तृव्यो भवति ॥
 </details>
 
 <details><summary>Keith</summary>

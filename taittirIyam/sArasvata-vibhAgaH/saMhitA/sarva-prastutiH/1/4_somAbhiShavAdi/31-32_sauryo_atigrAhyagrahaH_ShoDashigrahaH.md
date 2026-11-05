@@ -11,8 +11,7 @@ _______
 केचिद् आहुर् - एकत्रिंशो ऽयम् अनुवाको ऽस्मिन् प्रदेशेध्येतव्य इति । अन्ये तु - यथाम्नातेनैव सौर्यो ऽतिग्राह्यो गृह्यते, नावश्यकम् अत्राध्ययनम् इत्य् आहुः ॥
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/04_taraNirvishvadarshato_jyotiShkRdasi.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/04_taraNirvishvadarshato_jyotiShkRdasi.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 तर᳓णिर् विश्व᳓-दर्श-तो  
@@ -20,11 +19,17 @@ _______
 वि᳓श्वम् **आ᳓ भासि** रोचन᳓म् ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/04_taraNirvishvadarshato_jyotiShkRdasi.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/050/04_taraNirvishvadarshato_jyotiShkRdasi.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+त॒रणि॑र्वि॒श्वद॑र्शतो ज्योति॒ष्कृद॑सि सूर्य ।  
+विश्व॒मा भा॑सि रोच॒नम् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/04_taraNirvishvadarshato_jyotiShkRdasi.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -290,11 +295,9 @@ Für alle sichtbar, schnellen Laufs erzeugst du Licht, o Sonnengott, Den ganzen 
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा सूर्य व विद्युत आत बाहेर राहणाऱ्या सर्व स्थूल पदार्थांना प्रकाशित करतात तसेच ईश्वरही सर्व वस्तूंना प्रकाशित करतो. ॥ ४ ॥
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य 'उपयामगृहीतोसि विश्वेभ्यस्त्वा देवेभ्यः' इति गृह्णाति ॥
@@ -303,7 +306,7 @@ Für alle sichtbar, schnellen Laufs erzeugst du Licht, o Sonnengott, Den ganzen 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -330,7 +333,7 @@ ________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑]
+[वि᳓श्वेभ्यस्त्वा देवे᳓भ्यः]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -356,9 +359,9 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒ग्र॒य॒णो॑ऽसि ।  
-स्वा॑ग्रयणो॒ जिन्व॑ ।    
-य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम्  +++(जिन्व)+++ ।
+आग्रयणो᳙ऽसि ।  
+स्वा᳓ग्रयणो जि᳓न्व ।    
+यज्ञ᳓ञ्जि᳓न्व यज्ञ᳓पतिम्  +++(जिन्व)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -385,9 +388,9 @@ quicken the lord of the sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भि सव॑ना पाहि ।  
-विष्णु॒स् त्वाम् पा॑तु ।  
-विश॒न् त्वम् पा॑हीन्द्रि॒येण॑।
+अभि᳓ स᳓वना पाहि ।  
+वि᳓ष्णुस् त्वा᳓म् पातु ।  
+वि᳓शन् त्व᳓म् पाहीन्द्रिये᳓ण।
 </details>
 
 <details><summary>Keith</summary>
@@ -421,7 +424,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒र्, विश्वे॑भ्यस् त्वा दे॒वेभ्यः॑ ॥ [11]
+एष᳓ ते यो᳓निर्, वि᳓श्वेभ्यस् त्वा देवे᳓भ्यः ॥ [11]
 </details>
 
 <details><summary>Keith</summary>
@@ -438,12 +441,11 @@ this is thy birthplace; to the All-gods thee!
 
 'वैश्वदेवो ह्येष देवतया' इति ब्राह्मणम् । 'आत्मा वा एष यज्ञस्य यदाग्रयणः' इत्यादि च ॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूर्या॑य त्वा॒ भ्राज॑स्वते ।
+सू᳓र्याय त्वा भ्रा᳓जस्वते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -464,7 +466,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒स्सूर्या॑य त्वा॒ भ्राज॑स्वते ॥ [32]   
+एष᳓ ते यो᳓निस्सू᳓र्याय त्वा भ्रा᳓जस्वते ॥ [32]   
 </details>
 
 <details><summary>Keith</summary>

@@ -3,15 +3,7 @@ title: १३ पत्नीसंयाजे सोमाह्वानम�
 unicode_script: devanagari
 
 ---
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/08_iDopAhvAnam/upahUtaM_rathantaram.md" unfilled newLevelForH1="5" includeTitle="false"> 
-
-<details><summary>विषयः</summary>
-
-इष्टिहौत्रम्॥
-</details>
-  
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/08_iDopAhvAnam/upahUtaM_rathantaram.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पहूतँ रथन्तरँ᳓ सह᳓ पृथिव्या᳓ ।   
@@ -21,7 +13,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 उप॑हूतँ रथन्त॒रँ स॒ह पृ॑थि॒व्या ।   
-उप॑ मा रथन्त॒रँ स॒ह पृ॑थि॒व्या ह्व॑यताम् ।   
+उप॑ मा रथन्त॒रँ स॒ह पृ॑थि॒व्या ह्व॑यताम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -32,7 +24,7 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पहूतव्ँ वामदेव्यँ᳓ सहा᳓न्त᳓रिक्षेण ।   
-उ᳓प मा वामदेव्यँ᳓ सहा᳓न्त᳓रिक्षेण ह्वयताम् ।   
+उ᳓प मा वामदेव्यँ᳓ सहा᳓न्त᳓रिक्षेण ह्वयताम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -68,7 +60,7 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पहूता धेनु᳓स् सह᳓र्षभा ।  
-उ᳓प मा धेनु᳓स् सह᳓र्षभा ह्वयताम् ॥16॥   
+उ᳓प मा धेनु᳓स् सह᳓र्षभा ह्वयताम् ॥16॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -136,7 +128,7 @@ unicode_script: devanagari
 
 ब्रह्म॑ दे॒वकृ॑त॒मुप॑हूतम् ॥17॥
 </details>
-</div>  
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -154,8 +146,7 @@ unicode_script: devanagari
 ये य॒ज्ञप॑त्नीव्ँ॒वर्धा॑न् ।
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/08_iDopAhvAnam/upahUte_dyAvApRthivI.md" unfilled newLevelForH1="5" includeTitle="false"> 
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/08_iDopAhvAnam/upahUte_dyAvApRthivI.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पहूते द्या᳓वापृथिवी᳓ ।  
@@ -167,9 +158,9 @@ unicode_script: devanagari
 
 उप॑हूते॒ द्यावा॑पृथि॒वी ।  
 पू॒र्व॒जे ऋ॒ताव॑री ।  
-दे॒वी दे॒वपु॑त्रे ।  
+दे॒वी दे॒वपु॑त्रे ।
 </details>
-</div>  
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "१६-१९ रौद्रम्"
-
 +++
 
 ## 16
@@ -12,7 +11,7 @@ title = "१६-१९ रौद्रम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वो॒+++(→आपः)+++ वै रु॒द्रस्, तस्मै॑ रु॒द्राय॒ नमो॑ अस्तु ।  
+स᳓र्वो+++(→आपः)+++ वै᳓ रुद्र᳓स्, त᳓स्मै रुद्रा᳓य न᳓मो अस्तु ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -33,7 +32,6 @@ title = "१६-१९ रौद्रम्"
 > नाम मे कुर्वित्यब्रवीन्,  … भव एवेति। यद् भव आपस्, … 
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **सर्वः** सर्वात्मा क्षिति-सलिल--हुत-वह--  सवन-गगन- हिम-कर- दिन-मणि- यजमानात्मभिर् अष्टाभिर् मूर्तिभिः  
@@ -47,7 +45,7 @@ title = "१६-१९ रौद्रम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुरु॑षो॒ वै रु॒द्रस् सन् म॒हो, +++(तस्मै)+++ नमो॒ नमः॑ ।  
+पु᳓रुषो वै᳓ रुद्र᳓स् स᳓न् महो᳓, +++(तस्मै)+++ न᳓मो न᳓मः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -75,13 +73,12 @@ title = "१६-१९ रौद्रम्"
 सा पुरुषावस्थाऽपि रुद्रस्यैवेति तस्मै देवाय **नमस्** कुर्मः । 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वं॑ भू॒तं भुव॑नञ् चि॒त्रं  
-ब॑हु॒धा जा॒तञ् जाय॑मानञ् च॒ यत् ।  
-सर्वो॒ ह्ये॑ष रु॒द्रस्  
-तस्मै॑ रु॒द्राय॒ नमो॑ अस्तु ॥ (31)
+वि᳓श्वं भूतं᳓ भु᳓वनञ् चित्रं᳓  
+बहुधा᳓ जात᳓ञ् जा᳓यमानञ् च य᳓त् ।  
+स᳓र्वो ह्ये᳙ष रुद्र᳓स्  
+त᳓स्मै रुद्रा᳓य न᳓मो अस्तु ॥ (31)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -98,13 +95,12 @@ title = "१६-१९ रौद्रम्"
 
 ## 17
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/17_kad_rudrAya.md">
-<details open><summary><h5>१७ कद् रुद्राय ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/17_kad_rudrAya.md">
 
-कद्रु॒द्राय॒ प्रचे॑तसे  
-मी॒ढुष्ट॑माय॒ तव्य॑से ।  
-वो॒चेम॒ शन्त॑मँ हृ॒दे ।  
-</details>
+क᳓द्रुद्रा᳓य प्र᳓चेतसे  
+मीढु᳓ष्टमाय त᳓व्यसे ।  
+वोचे᳓म श᳓न्तमँ हृदे᳓ ।  
+
 </div>  
 
 सर्वो॒ ह्ये॑ष रु॒द्रस्  

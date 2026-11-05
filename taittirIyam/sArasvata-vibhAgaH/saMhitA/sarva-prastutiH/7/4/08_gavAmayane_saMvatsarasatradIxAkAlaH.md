@@ -1,6 +1,5 @@
 +++
 title = "०८ गवामयने संवत्सरसत्रदीक्षाकालः"
-
 +++
 ## माघपक्षः
 ![](../../../../../../jyotiSham/history/images/zodiac_history/bce-2300-01-13_kRttikA_anUrAdhAH_equinox_dhaniShThA-shatabhiShak_maghA_solstice.png)
@@ -8,7 +7,7 @@ title = "०८ गवामयने संवत्सरसत्रदीक
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सव्ँ॒व॒त्स॒राय॑ दीक्षि॒ष्यमा॑णा एकाष्ट॒काया॑न्+++(=माघकृष्णाष्टम्यां)+++ दीक्षेरन् ।
+सव्ँवत्सरा᳓य दीक्षिष्य᳓माणा एकाष्टका᳓यान्+++(=माघकृष्णाष्टम्यां)+++ दीक्षेरन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -18,9 +17,9 @@ Those who are about to consecrate themselves for the year (rite) should consecra
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒षा वै सव्ँ॑वत्स॒रस्य॒ पत्नी॒ +++(उत्तरायणारम्भसमीपे वर्तित्वाद्)+++ यद् ए॑काष्ट॒का ।  
-ए॒तस्याव्ँ॒ वा ए॒ष +++(संवत्सर)+++ ए॒ताँ रात्रिव्ँ॑ वसति ।  
-+++(तेन)+++ सा॒क्षाद् ए॒व सव्ँ॑वत्स॒रम् आ॒रभ्य॑ दीक्षन्ते ।
+एषा᳓ वै᳓ सव्ँवत्सर᳓स्य प᳓त्नी +++(उत्तरायणारम्भसमीपे वर्तित्वाद्)+++ य᳓द् एकाष्टका᳓ ।  
+एत᳓स्याव्ँ वा᳓ एष᳓ +++(संवत्सर)+++ एताँ᳓ रा᳓त्रिव्ँ वसति ।  
++++(तेन)+++ साक्षा᳓द् एव᳓ सव्ँवत्सर᳓म् आर᳓भ्य दीक्षन्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -28,13 +27,11 @@ Those who are about to consecrate themselves for the year (rite) should consecra
 The Ekastaka is the wife of the year; on that night he dwells with her; verily they consecrate themselves grasping openly the year.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(शैत्येन)+++ आर्तव्ँ॒ वा ए॒ते सव्ँ॑वत्स॒रस्या॒भि दी॑क्षन्ते॒ ,
-य ए॑काष्ट॒काया॒न् दीक्षन्ते।
-+++(यतो माघम् अभितः)+++ अन्त॑नामानाव् ऋ॒तू भ॑वतः  ।
++++(शैत्येन)+++ आ᳓र्तव्ँ वा᳓ एते᳓ सव्ँवत्सर᳓स्याभि᳓ दीक्षन्ते ,
+य᳓ एकाष्टका᳓यान् दी᳓क्ष᳓न्ते᳓।
++++(यतो माघम् अभितः)+++ अ᳓न्तनामानाव् ऋतू᳓ भवतः  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -42,13 +39,11 @@ The Ekastaka is the wife of the year; on that night he dwells with her; verily t
 Those who consecrate themselves on the Ekastaka consecrate themselves in the troubled part of the year, for then are the two months called the end.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(संवत्सरान्त आरम्भे वेत्य् अस्पष्टत्या)+++ व्य॑स्तव्ँ॒ वा ए॒ते सव्ँ॑वत्स॒रस्या॒भिदी॑क्षन्ते॒ ,
-य ए॑काष्ट॒काया॒न् दीक्षन्ते।
-+++(यतो माघम् अभितः)+++ अन्त॑नामानाव् ऋ॒तू भ॑वतः ।
++++(संवत्सरान्त आरम्भे वेत्य् अस्पष्टत्या)+++ व्य᳙स्तव्ँ वा᳓ एते᳓ सव्ँवत्सर᳓स्याभि᳓दीक्षन्ते ,
+य᳓ एकाष्टका᳓यान् दी᳓क्ष᳓न्ते᳓।
++++(यतो माघम् अभितः)+++ अ᳓न्तनामानाव् ऋतू᳓ भवतः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -56,13 +51,11 @@ Those who consecrate themselves on the Ekastaka consecrate themselves in the tro
 Those who consecrate themselves on the Ekastaka consecrate themselves on the torn part of the year, for them are the two seasons called the end.
 </details>
 
-
-
 ## फाल्गुनीपक्षः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(एवन् तर्हि माघात् परं वर्तमाने)+++ फ॒ल्गु॒नी॒-पू॒र्ण॒-मा॒से दी॑क्षेरन् ।
++++(एवन् तर्हि माघात् परं वर्तमाने)+++ फल्गुनी-पूर्ण-मासे᳓ दीक्षेरन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -72,7 +65,7 @@ They should consecrate themselves on the full moon in Phalguni.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मुखव्ँ॒ वा ए॒तत् ,[28] सव्ँवत्स॒रस्य॒ यत् फ॑ल्गुनीपूर्णमा॒सः ।
+मु᳓खव्ँ वा᳓ एत᳓त् ,[28] सव्ँ᳓व᳓त्सर᳓स्य य᳓त् फल्गुनीपूर्णमासः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -82,7 +75,7 @@ The full moon in Phalguni is the beginning of the year [1]; verily they consecra
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मु॒ख॒त ए॒व सव्ँ॑वत्स॒रम् आ॒रभ्य॑ दीक्षन्ते ।
+मुखत᳓ एव᳓ सव्ँवत्सर᳓म् आर᳓भ्य दीक्षन्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -90,14 +83,12 @@ The full moon in Phalguni is the beginning of the year [1]; verily they consecra
 To that there is this one objection that the Visuvant day falls in the cloudy season.
 </details>
 
-
-
 ## चित्रापक्षः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्यैकै॒व नि॒र्या+++(=निकृष्टा प्राप्तिः)+++ यत् साम्मे॑घ्ये विषू॒वान्थ्+++(=मध्यदिनं [गवामयन-संवत्सरस्य], विष्वञ्चि नाना गच्छतीति अहानि)+++ स॒म्पद्य॑ते +++(Inner Asia Mountain Corridor [इत्यत्र](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,tashkent,Uzbekistan), यत्रार्याः प्रायेणावर्तन्त)+++ ।  
-चि॒त्रा॒पू॒र्ण॒मा॒से दी॑क्षेरन् ।
+त᳓स्यै᳓कैव᳓ निर्या᳓+++(=निकृष्टा प्राप्तिः)+++ य᳓त् सा᳓म्मेघ्ये विषूवा᳓न्थ्+++(=मध्यदिनं [गवामयन-संवत्सरस्य], विष्वञ्चि नाना गच्छतीति अहानि)+++ सम्प᳓द्यते +++(Inner Asia Mountain Corridor [इत्यत्र](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,tashkent,Uzbekistan), यत्रार्याः प्रायेणावर्तन्त)+++ ।  
+चित्रापूर्णमासे᳓ दीक्षेरन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -107,8 +98,8 @@ They should consecrate themselves on the full moon in Citra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मुखव्ँ॒ वा ए॒तत्सव्ँ॑वत्स॒रस्य॒ यच् चि॑त्रापूर्णमा॒सः +++(पूर्वस्मिन् युगे)+++।  
-मु॒ख॒त ए॒व सव्ँ॑वत्स॒रम् आ॒रभ्य॑ दीक्षन्ते ।
+मु᳓खव्ँ वा᳓ एत᳓त्सव्ँवत्सर᳓स्य य᳓च् चित्रापूर्णमासः᳓ +++(पूर्वस्मिन् युगे)+++।  
+मुखत᳓ एव᳓ सव्ँवत्सर᳓म् आर᳓भ्य दीक्षन्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -118,7 +109,7 @@ The full moon in Citra, is the beginning of the year; verily they consecrate the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य॒ न का च॒न नि॒र्या भ॑वति ।
+त᳓स्य न᳓ का᳓ चन᳓ निर्या᳓ भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -126,13 +117,11 @@ The full moon in Citra, is the beginning of the year; verily they consecrate the
 In that there is no objection at all.
 </details>
 
-
-
 ## माघपक्षे निश्चयः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(माघ्याः पौर्णमास्याः पुरस्ताच्)+++ च॒तु॒र॒हे पु॒रस्ता॑त् पौर्णमा॒स्यै दी॑क्षेरन् ।
++++(माघ्याः पौर्णमास्याः पुरस्ताच्)+++ चतुरहे᳓ पुर᳓स्तात् पौर्णमास्यै᳓ दीक्षेरन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -142,7 +131,7 @@ They should consecrate themselves on the fourth day before the full moon.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषा॑म् एकाष्ट॒काया॑ङ् क्र॒यस् सम्प॑द्यते ।
+ते᳓षाम् एकाष्टका᳓याङ् क्रय᳓स् स᳓म्पद्यते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -150,11 +139,9 @@ They should consecrate themselves on the fourth day before the full moon.
 Then the buying (of the Soma) falls for them on the Ekastaka;
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेनै॑काष्ट॒कान् न छ॒म्-बट्-कु॑र्वन्ति ।
+ते᳓नैकाष्टका᳓न् न᳓ छम्-ब᳓ट्-कुर्वन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -164,7 +151,7 @@ verily they do not waste the Ekastaka.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषा॑म् पूर्वप॒क्षे सु॒त्या सम्प॑द्यते । [29]
+ते᳓षाम् पूर्वपक्षे᳓ सुत्या᳓ स᳓म्पद्यते । [29]
 </details>
 
 <details><summary>Keith</summary>
@@ -172,12 +159,10 @@ verily they do not waste the Ekastaka.
 In their case [2] the pressing-(day) falls on the first half (of the month),
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒र्व॒प॒क्षम् मासा॑ अ॒भि सम्प॑द्यन्ते ।
-ते पू॑र्वप॒क्ष उत्ति॑ष्ठन्ति ।  
+पूर्वपक्ष᳓म् मा᳓सा अभि᳓ स᳓म्पद्यन्ते ।
+ते᳓ पूर्वपक्ष᳓ उ᳓त्तिष्ठन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -185,11 +170,9 @@ In their case [2] the pressing-(day) falls on the first half (of the month),
 the months end in the first half, they complete (the rite) in the first half,
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तान् उ॒त्तिष्ठ॑त॒ ओष॑धयो॒ वन॒स्पत॒योऽनूत्ति॑ष्ठन्ति ।
+ता᳓न् उत्ति᳓ष्ठत ओ᳓षधयो व᳓नस्प᳓तयो᳓ऽनू᳓त्तिष्ठन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -199,14 +182,12 @@ and when they complete the rite the plants and trees come out after them.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तान् क॑ल्या॒णी की॒र्तिर् अनूत्ति॑ष्ठ॒त्य् ,
-अरा॑त्सुर्+++(←राधँ संसिद्धौ)+++ इ॒मे यज॑माना॒ इति॑ ।
-तद् अनु॒ सर्वे॑ राध्नुवन्ति ॥ [30]
+ता᳓न् कल्याणी᳓ कीर्ति᳓र् अ᳓नू᳓त्तिष्ठत्य् ,
+अ᳓रात्सुर्+++(←राधँ संसिद्धौ)+++ इमे᳓ य᳓जमाना इ᳓ति ।
+त᳓द् अ᳓नु स᳓र्वे राध्नुवन्ति ॥ [30]
 </details>
 
 <details><summary>Keith</summary>
 
 And after them follows the fair report, 'These sacrificers have succeeded', and therefore all succeed.
 </details>
-
-

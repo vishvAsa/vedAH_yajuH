@@ -5,8 +5,8 @@ unicode_script: devanagari
 ---
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत्त॑रस्याव्ँ॒ वेद्या॑म् अ॒न्यानि॑ ह॒वीँषि॑ सादयति ।  
-दक्षि॑णायाम् मारु॒तीम् +++( सादयति )+++।  
+उ᳓त्तरस्याव्ँ वे᳓द्याम् अन्या᳓नि हवीँ᳓षि सादयति ।  
+द᳓क्षिणायाम् मारुती᳓म् +++( सादयति )+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -22,9 +22,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒प॒धु॒रम् ए॒वैना॑ युनक्ति ।  
-अथो॒ ओज॑ ए॒वासा॒मि अव॑ हरति ।  
-तस्मा॒द् ब्रह्म॑णश् च क्ष॒त्राच् च॒ विशो॑ ऽन्यतो ऽपक्र॒मिणी॑ः  ।  
+अपधुर᳓म् एवै᳓ना युनक्ति ।  
+अ᳓थो ओ᳓ज एवा᳓सामि᳓ अ᳓व हरति ।  
+त᳓स्माद् ब्र᳓ह्मणश् च क्षत्रा᳓च् च वि᳓शो ऽन्यतो ऽपक्रमि᳓णीः  ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -39,7 +39,6 @@ unicode_script: devanagari
 तां  दक्षिणायां  सादयति । अपधुरमिति । धुरोयद्वामस्थानं  अपधुरं  तत्बहिष्ठमितियावत् । तत्र  एनाविशः अपक्रमणशीलाः पृथक्स्वभावाः मारुत्याः पृथक्सादितत्वात् । यद्वा- अन्यतोपाक्रमणं  सत्यमुक्त्वा अन्यत्रासत्येअपसर्पणम् ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मा॒रु॒त्या पूर्व॑या॒ प्रच॑रति ।
@@ -48,14 +47,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा॒रु॒त्या पूर्व॑या॒ प्रच॑र॒त्य्  अनृ॑तम् ए॒वाव॑ यजते ।  
+मारुत्या᳓ पू᳓र्वया प्र᳓चरत्य्  अ᳓नृतम् एवा᳓व यजते ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 मा॒रु॒त्या पूर्व॑या॒ प्रच॑र॒त्य्  अनृ॑तम् ए॒वाव॑ यजते ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -65,7 +63,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒रु॒ण्योत्त॑रया +++(प्रच॑रति)+++,  अन्त॒त ए॒व वरु॑ण॒म् अव॑ यजते ।  
+वारुण्यो᳓त्तरया +++(प्र᳓चरति)+++,  अन्तत᳓ एव᳓ व᳓रुणम् अ᳓व यजते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -78,7 +76,6 @@ unicode_script: devanagari
 2 मारुत्यापूर्वयाप्रथमयाप्रचरितव्यम् । तेन अनृतं  विशस्स्वभावं  अन्यतोऽपक्रमणशीलत्वं  अवयजतेनाशयति । वारुण्योत्तरयाप्रचरितव्यम् । अन्ततोवरुणं वारकं वरुणपाशं वा अवयजते अनतावयजनादनन्तरम् । यद्वा- अन्ततः यावदन्तं कृत्स्नं वरुणमित्यर्थः ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यदे॒वाध्व॒र्युᳵ क॒रोति॑ ॥34॥  
@@ -87,7 +84,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् ए॒वाध्व॒र्युᳵ क॒रोति॒  तत् प्र॑तिप्रस्था॒ता क॑रोति ।  
+य᳓द् एवा᳓ध्वर्युᳵ᳓ करो᳓ति  त᳓त् प्रतिप्रस्थाता᳓ करोति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -100,7 +97,6 @@ unicode_script: devanagari
 3 यदेवेत्यादि ॥ यत्यज्जातीयं प्रतिप्रस्थाताकरोति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्मा॒द्यच्छ्रेया॑न्क॒रोति॑ ।
@@ -109,7 +105,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् यच् छ्रेया॑न् क॒रोति॒ तत् पापी॑यान् करोति ।  
+त᳓स्माद् य᳓च् छ्रे᳓यान् करो᳓ति त᳓त् पा᳓पीयान् करोति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -124,7 +120,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पत्नीव्ँ॑ वाचयति ।
+प᳓त्नीव्ँ वाचयति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -139,7 +135,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मेध्या॑म् ए॒वैना॑ङ् करोति ।
+मे᳓ध्याम् एवै᳓नाङ् करोति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -154,7 +150,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ तप॑ ए॒वैना॒म् उप॑ नयति ।  
+अ᳓थो त᳓प एवै᳓नाम् उ᳓प नयति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -167,7 +163,6 @@ unicode_script: devanagari
 अथो अपिच अनेनवाचनेनएनां तप एवोपनयति ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यज्जा॒रँ सन्त॒न्न प्र॑ब्रू॒यात् ।
@@ -176,7 +171,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज् जा॒रँ सन्त॒न् न प्र॑ब्रू॒यात् प्रि॒यं  ज्ञा॒तिँ रु॑न्ध्यात् ।  
+य᳓ज् जारँ᳓ स᳓न्तन् न᳓ प्रब्रूया᳓त् प्रियं᳓  ज्ञातिँ᳓ रुन्ध्यात् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -192,7 +187,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒सौ मे॑ जा॒र" इति॒ निर्दि॑शेत् ।  
+"असौ᳓ मे जार᳓" इ᳓ति नि᳓र्दिशेत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -207,7 +202,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नि॒र्दिश्य् ए॒वैनव्ँ॑ वरुण-पा॒शेन॑ ग्राहयति ॥35॥  
+निर्दि᳓श्य् एवै᳓नव्ँ वरुण-पाशे᳓न ग्राहयति ॥35॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -222,7 +217,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-'प्र॒घा॒स्या॑न् हवामह॒" इति॒ पत्नी॑म् उ॒दान॑यति ।  
+'प्रघास्या᳙न् हवामह" इ᳓ति प᳓त्नीम् उदा᳓नयति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -237,7 +232,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अह्व॑तै॒वैना॑म् ।  
+अ᳓ह्वतैवै᳓नाम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -250,7 +245,6 @@ unicode_script: devanagari
 एनामह्वत आह्वयति । 'लिपिसिचिह्वश्च' इत्यङ्छान्दसोलुङ् ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यत्पत्नी॑ पुरोनुवा॒क्या॑मनुब्रू॒यात् ।
@@ -259,7 +253,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् पत्नी॑ पुरोनुवा॒क्या॑म् अनु-ब्रू॒याद्  निर्वी॑र्यो॒ यज॑मानस् स्यात् ।  
+य᳓त् प᳓त्नी पुरोनुवाक्या᳙म् अनु-ब्रूया᳓द्  नि᳓र्वीर्यो य᳓जमानस् स्यात् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -274,8 +268,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मा॒नो ऽन्वा॑ह ।  
-आ॒त्मन्न् ए॒व वी॒र्य॑न् धत्ते ।  
+य᳓जमानो᳓ ऽन्वाह ।  
+आत्म᳓न्न् एव᳓ वीर्य᳙न् धत्ते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -291,7 +285,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒भौ या॒ज्याँ॑ +++(ब्रूतः )+++ सवीर्य॒त्वाय॑ ।  
+उभौ᳓ याज्याँ᳙ +++(ब्रूतः )+++ सवीर्यत्वा᳓य ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -304,7 +298,6 @@ unicode_script: devanagari
 उभौ पत्नीयजमानौयाज्यां ब्रूतः 'यद्ग्रामेयदरण्ये' इत्येताम् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यद्ग्रामे॒ यदर॑ण्य॒ इत्या॑ह ।
@@ -313,7 +306,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"यद् ग्रामे॒ यद् अर॑ण्ये॒"त्य् आ॑ह  यथोदि॒तम् ए॒व वरु॑ण॒म् अव॑-यजते ।  
+"य᳓द् ग्रा᳓मे य᳓द् अ᳓रण्ये"त्य् आ᳙ह  यथोदित᳓म् एव᳓ व᳓रुणम् अ᳓व-यजते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -328,8 +321,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज॒मा॒न॒-दे॒व॒त्यो॑ वा आ॑हव॒नीयः॑ ॥36॥  
-भ्रा॒तृ॒व्य॒-दे॒व॒त्यो॑ दक्षि॑णः ।  
+यजमान-देवत्यो᳙ वा᳓ आहवनी᳓यः ॥36॥  
+भ्रातृव्य-देवत्यो᳙ द᳓क्षिणः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -337,7 +330,6 @@ unicode_script: devanagari
 य॒ज॒मा॒न॒-दे॒व॒त्यो॑ वा आ॑हव॒नीयः॑ ॥36॥  
 भ्रा॒तृ॒व्य॒-दे॒व॒त्यो॑ दक्षि॑णः ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -347,14 +339,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् आ॑हव॒नीये॑ जुहु॒याद्  यज॑मानव्ँ वरुण-पा॒शेन॑ ग्राहयेत् ।  
+य᳓द् आहवनी᳓ये जुहुया᳓द्  य᳓जमानव्ँ वरुण-पाशे᳓न ग्राहयेत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद् आ॑हव॒नीये॑ जुहु॒याद्  यज॑मानव्ँ वरुण-पा॒शेन॑ ग्राहयेत् ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -364,7 +355,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दक्षि॑णे॒ ऽग्नौ जु॑होति॒ , भ्रातृ॑व्यम् ए॒व व॑रुण-पा॒शेन॑ ग्राहयति ।  
+द᳓क्षिणे ऽग्नौ᳓ जुहोति , भ्रा᳓तृव्यम् एव᳓ वरुण-पाशे᳓न ग्राहयति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -377,7 +368,6 @@ unicode_script: devanagari
 7 यजमानदेवत्योवा इत्यादि  ॥ गतम् । देवतान्तात्तादर्थ्येयत् । जुहुयादिति  । करम्भपात्रणि ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 शूर्पे॑ण जुहोति ।
@@ -386,7 +376,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शूर्पे॑ण जुहो॒त्य् अन्य॑म् ए॒व वरु॑ण॒म् अव॑ यजते ।  
+शू᳓र्पेण जुहोत्य् अ᳓न्यम् एव᳓ व᳓रुणम् अ᳓व यजते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -398,7 +388,6 @@ unicode_script: devanagari
 
 8 अन्न्यमिति ॥ शूर्पस्य अन्नसाधनत्वात्तेनहोमं कुर्वन्अन्न्यं अन्नेभवं वरुणमवयजते ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -414,7 +403,6 @@ unicode_script: devanagari
 शीर्षत  इति । शिरआरभ्यस्थितं वरुणमवयजते ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 प्र॒त्यङ्तिष्ठ॑ञ्जुहोति ॥37॥  
@@ -429,7 +417,6 @@ unicode_script: devanagari
 प्रत्यङ्प्रत्यङ्मुखः । प्रत्यङ्प्रतीपगमन एववरुणपाशान्निर्मुच्यते । यत्रगृहीत्वैवनयतिवरुणपाशं अन्ततोनिष्कृष्यप्रतिकूलमुक्त्वाआनीयते ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अक्र॒न्कर्म॑ कर्म॒कृत॒ इत्या॑ह ।
@@ -439,8 +426,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अक्र॒न् कर्म॑ कर्म॒कृते॒"त्य् आ॑ह दे॒वानृ॒णन् नि॑रव॒दाय॑ ,+
-"अनृ॒णा गृ॒हान् उप॒ प्रेते"ति॒ वावैतदा॑ह, ।
+"अ᳓क्रन् क᳓र्म कर्मकृ᳓ते"त्य् आ᳙ह देवा᳓नृण᳓न् निरवदा᳓य ,+
+"अनृणा᳓ गृहा᳓न् उ᳓प प्रे᳓ते᳓"ति वा᳓वै᳓त᳓दाह, ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -457,7 +444,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरु॑णगृहीतव्ँ॒ वा ए॒तद् य॒ज्ञस्य॑ ।  
+व᳓रुणगृहीतव्ँ वा᳓ एत᳓द् यज्ञ᳓स्य ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -470,7 +457,6 @@ unicode_script: devanagari
 10 वरुणगृहीतं वा इत्यादि  ॥  एतत्वरुणेनगृहीतं भवतियज्ञस्ययन्मन्त्रेणगृर्हीतं अतिरिच्यतेपूर्ववदवशिष्टं गृहीतस्यादिस्थानमतिरेकः ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यद्यजु॑षा गृही॒तस्या॑ति॒रिच्य॑ते ।
@@ -479,7 +465,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् यजु॑षा गृही॒तस्या॑ति॒रिच्य॑ते॒  तुषा॑श् च निष्का॒सश् च॑ ।  
+य᳓द् य᳓जुषा गृहीत᳓स्यातिरि᳓च्यते  तु᳓षाश् च निष्कास᳓श् च ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -494,7 +480,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तुषै॑श् च निष्का॒सेन॑ चावभृ॒थम् अवै॑ति ।  
+तु᳓षैश् च निष्कासे᳓न चावभृथ᳓म् अ᳓वैति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -509,7 +495,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरु॑णगृहीतेन+ ए॒व वरु॑ण॒म् अव॑ यजते ।  
+व᳓रुणगृहीतेन+ एव᳓ व᳓रुणम् अ᳓व यजते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -524,14 +510,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पो॑ ऽवभृ॒थम् अवै॑ति ॥38॥  
+अपो᳙ ऽवभृथ᳓म् अ᳓वैति ॥38॥  
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒पो॑ ऽवभृ॒थम् अवै॑ति ॥38॥  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -541,14 +526,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒प्सु वै वरु॑णस् सा॒क्षादे॒व वरु॑ण॒म् अव॑ यजते ।  
+अप्सु᳓ वै᳓ व᳓रुणस् साक्षा᳓देव᳓ व᳓रुणम् अ᳓व यजते ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒प्सु वै वरु॑णस् सा॒क्षादे॒व वरु॑ण॒म् अव॑ यजते ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -558,14 +542,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"प्रति॑युतो॒ वरु॑णस्य॒ पाश॒" इत्य् आ॑ह,  वरुण-पा॒शादे॒व निर्मु॑च्यते ।
+"प्र᳓तियुतो व᳓रुणस्य पा᳓श" इ᳓त्य् आह,  वरुण-पाशा᳓देव᳓ नि᳓र्मुच्यते ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 "प्रति॑युतो॒ वरु॑णस्य॒ पाश॒" इत्य् आ॑ह,  वरुण-पा॒शादे॒व निर्मु॑च्यते ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -575,7 +558,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप्र॑तीक्ष॒म् आय॑न्ति॒ वरु॑णस्या॒न्तर्हि॑त्यै ।
+अ᳓प्रतीक्षम् आ᳓यन्ति व᳓रुणस्यान्त᳓र्हित्यै ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -590,7 +573,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"एधो॑ ऽष्येधिषी॒मही"त्य् आ॑ह ।
+"ए᳓धो ऽष्येधिषीम᳓ही᳓"त्य् आह ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -605,14 +588,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मिधै॒वाग्निन् न॑म॒स्यन्त॑ उ॒पाय॑न्ति ।  
+समि᳓धैवा᳓ग्नि᳓न् नमस्य᳓न्त उपा᳓यन्ति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 स॒मिधै॒वाग्निन् न॑म॒स्यन्त॑ उ॒पाय॑न्ति ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -622,7 +604,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"तेजो॑ ऽसि॒ तेजो॒ मयि॑ धे॒ही"त्य् आ॑ह॒ तेज॑ ए॒वात्मन् ध॑त्ते ॥39 ॥  
+"ते᳓जो ऽसि ते᳓जो म᳓यि धेही᳓"त्य् आह ते᳓ज एवा᳓त्म᳓न् धत्ते ॥39 ॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -633,7 +615,6 @@ unicode_script: devanagari
 <details><summary>भट्टभास्कर-टीका</summary>
 
 नमस्यन्तः पूजयन्तः । 'नमोवरिवश्चित्रङः क्यच्' । गतमन्यत् ॥
-
 
  इति षष्ठेपञ्चमोऽनुवाकः ॥  
 

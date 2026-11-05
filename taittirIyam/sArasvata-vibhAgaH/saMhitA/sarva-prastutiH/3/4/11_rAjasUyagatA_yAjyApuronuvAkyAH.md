@@ -8,8 +8,8 @@ title = "११ राजसूयगता याज्यापुरोनु
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वम् अ॑ग्ने बृ॒हद् वयो॒ दधा॑सि देव दा॒शुषे॑ ।   
-क॒विर्गृ॒हप॑ति॒र्युवा॑ ।  
+त्व᳓म् अग्ने बृह᳓द् व᳓यो द᳓धासि देव दाशु᳓षे ।   
+कवि᳓र्गृह᳓पतिर्यु᳓वा ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -25,8 +25,8 @@ title = "११ राजसूयगता याज्यापुरोनु
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ह॒व्य॒वाड॒ग्निर॒जरᳶ॑ पि॒ता नो॑ वि॒भुर्वि॒भावा॑ सु॒दृशी॑को अ॒स्मे ।   
-सु॒गा॒र्ह॒प॒त्यास्समिषो॑ दिदीह्यस्म॒द्रिय॒क्सम्मि॑मीहि॒ श्रवाँ॑सि ।
+हव्यवा᳓डग्नि᳓रज᳓रᳶ पिता᳓ नो विभु᳓र्विभा᳓वा सुदृ᳓शीको अस्मे᳓ ।   
+सुगार्हपत्या᳓स्स᳓मि᳓षो दिदीह्यस्मद्रि᳓यक्स᳓म्मिमीहि श्र᳓वाँसि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -42,8 +42,8 @@ title = "११ राजसूयगता याज्यापुरोनु
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वञ्च॑ सोम नो॒ वशो॑ जी॒वातु॒न्न म॑रामहे ।   
-प्रि॒यस्तो॑त्रो॒ वन॒स्पतिः॑ ।
+त्व᳓ञ्च सोम नो व᳓शो जीवा᳓तुन्न᳓ मरामहे ।   
+प्रिय᳓स्तोत्रो व᳓नस्प᳓तिः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -59,8 +59,8 @@ title = "११ राजसूयगता याज्यापुरोनु
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्मा दे॒वाना॑म्पद॒वीᳵ क॑वी॒नामृषि॒र्विप्रा॑णाम्महि॒षो मृ॒गाणा॑म् ।   
-श्ये॒नो गृ॑ध्राणाँ॒ स्वधि॑ति॒र्वना॑नाँ॒ सोमः॑ [41]  प॒वित्र॒मत्ये॑ति॒ रेभ॑न् ।   
+ब्रह्मा᳓ देवा᳓नाम्पदवीᳵ᳓ कवीना᳓मृ᳓षिर्वि᳓प्राणाम्महिषो᳓ मृगा᳓णाम् ।   
+श्येनो᳓ गृध्राणाँ स्व᳓धितिर्व᳓नानाँ सो᳓मः [41]  पवि᳓त्रम᳓त्येति रे᳓भन् ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -76,8 +76,8 @@ title = "११ राजसूयगता याज्यापुरोनु
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ वि॒श्वदे॑वँ॒ सत्प॑तिँ सू॒क्तैर॒द्या वृ॑णीमहे ।   
-स॒त्यस॑वँ सवि॒तार॑म् ।   
+आ᳓ विश्व᳓देवँ स᳓त्पतिँ सूक्तै᳓रद्या᳓ वृणीमहे ।   
+सत्य᳓सवँ सविता᳓रम् ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -96,7 +96,7 @@ title = "११ राजसूयगता याज्यापुरोनु
 6तत्रैव याज्या - आ सत्येनेति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md">
 
 आ᳓ सत्ये᳓न र᳓जसा **व᳓र्तमानो**  
 **निवेश᳓यन्न्** अमृ᳓तं म᳓र्त्यं च ।  
@@ -105,8 +105,7 @@ title = "११ राजसूयगता याज्यापुरोनु
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md">
 <details><summary>मूलम्</summary>
 
 आ स॒त्येन॒ रज॑सा॒ वर्त॑मानो निवे॒शय॑न्न॒मृत॒म्मर्त्य॑ञ्च ।   
@@ -117,22 +116,26 @@ title = "११ राजसूयगता याज्यापुरोनु
 
 सत्येन नित्येन रजसा लोकेन ज्योतिर्मयेन मण्डलात्मना आवर्तमानः उदयमस्तमयं चानुपूर्व्येण कुर्वाणः निवेशयन् स्थापयन् जीवयन् अमृतं देवादिलक्षणं मर्त्यं मनुष्यादिलक्षणं च । 'नञो जरमर' इत्युत्तरपदाद्युदात्तत्वम् । हिरण्ययेन हिरण्मयेन रथेन । 'ऋत्व्यवास्त्व' इति निपात्यते । हिरण्यया हिरण्ययानी[नेने]त्येके । सविता देवः । एवं भुवना भुवनानि भूतजातानि विपश्यन् विविधं पश्यन् हितेन योजयन् आयाति आगच्छतु ॥
 </details>
-
 </div>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/043/02_yathA_no.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/043/02_yathA_no.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 य᳓था नो अ᳓दितिः क᳓रत्  
 प᳓श्वे नृ᳓भ्यो य᳓था ग᳓वे  
 य᳓था तोका᳓य रुद्रि᳓यम्
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/043/02_yathA_no.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/043/02_yathA_no.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+यथा॑ नो॒ अदि॑तिः॒ कर॒त्पश्वे॒ नृभ्यो॒ यथा॒ गवे॑ ।  
+यथा॑ तो॒काय॑ रु॒द्रिय॑म् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/043/02_yathA_no.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -389,13 +392,12 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जसे माता-पिता पुत्रासाठी, गोपाल पशूंसाठी व राजसभा प्रजेसाठी सुखकारक असतात. तसेच परमेश्वर व वायूही सुखकारक असतात, हे जाणावे. ॥ २ ॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा न॑स्तो॒के तन॑ये॒ मा न॒ आयु॑षि॒ मा नो॒ गोषु॒ मा [42]  नो॒ अश्वे॑षु रीरिषः ।   
-वी॒रान्मा नो॑ रुद्र भामि॒तो व॑धीर्ह॒विष्म॑न्तो॒ नम॑सा विधेम ते ।   
+मा᳓ नस्तोके᳓ त᳓नये मा᳓ न आ᳓युषि मा᳓ नो गो᳓षु मा᳓ [42]  नो अ᳓श्वेषु रीरिषः ।   
+वीरा᳓न्मा᳓ नो रुद्र भामितो᳓ वधीर्हवि᳓ष्मन्तो न᳓मसा विधेम ते ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -411,8 +413,8 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒द॒प्रुतो॒ न वयो॒ रक्ष॑माणा॒ वाव॑दतो अ॒भ्रिय॑स्येव॒ घोषाः॑ ।   
-गि॒रि॒भ्रजो॒ नोर्मयो॒ मद॑न्तो॒ बृह॒स्पति॑म॒भ्य॑र्का अ॑नावन् ।   
+उदप्रु᳓तो न᳓ व᳓यो र᳓क्षमाणा वा᳓वदतो अभ्रि᳓यस्येव घो᳓षाः ।   
+गिरिभ्र᳓जो नो᳓र्म᳓यो म᳓दन्तो बृ᳓हस्प᳓तिमभ्य᳙र्का᳓ अनावन् ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -428,8 +430,8 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हँ॒सैरि॑व॒ सखि॑भि॒र्वाव॑दद्भिरश्म॒न्मया॑नि॒ नह॑ना॒ व्यस्य॑न् ।   
-बृह॒स्पति॑रभि॒ कनि॑क्रद॒द्गा उ॒त प्रास्तौ॒दुच्च॑ वि॒द्वाँ अ॑गायत् ।   
+हँसै᳓रिव स᳓खिभिर्वा᳓वदद्भिरश्मन्म᳓यानि न᳓हना व्य᳓स्यन् ।   
+बृ᳓हस्प᳓तिरभि क᳓निक्रदद्गा᳓ उत᳓ प्रा᳓स्तौदु᳓च्च विद्वाँ᳓ अगायत् ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -445,8 +447,8 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एन्द्र॑ सान॒सिँ र॒यिम् [43]  स॒जित्वा॑नँ सदा॒सह॑म् ।   
-वर्षि॑ष्ठमू॒तये॑ भर ।   
+ए᳓न्द्र सानसिँ᳓ रयि᳓म् [43]  सजि᳓त्वानँ सदास᳓हम् ।   
+व᳓र्षिष्ठमूत᳓ये भर ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -467,8 +469,8 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र स॑साहिषे पुरुहूत॒ शत्रू॒ञ्ज्येष्ठ॑स्ते॒ शुष्म॑ इ॒ह रा॒तिर॑स्तु ।   
-इन्द्रा भ॑र॒ दक्षि॑णेना॒ वसू॑नि॒ पति॒स्सिन्धू॑नामसि रे॒वती॑नाम् ।   
+प्र᳓ ससाहिषे पुरुहूत श᳓त्रूञ्ज्ये᳓ष्ठस्ते शु᳓ष्म इह᳓ राति᳓रस्तु ।   
+इ᳓न्द्रा᳓ भर द᳓क्षिणेना व᳓सूनि प᳓तिस्सि᳓न्धूनामसि रेव᳓तीनाम् ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -484,8 +486,8 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वँ सु॒तस्य॑ पी॒तये॑ स॒द्यो वृ॒द्धो अ॑जायथाः ।   
-इन्द्र॒ ज्यैष्ठ्या॑य सुक्रतो ।
+त्वँ᳓ सुत᳓स्य पीत᳓ये सद्यो᳓ वृद्धो᳓ अजायथाः ।   
+इ᳓न्द्र ज्यै᳓ष्ठ्याय सुक्रतो ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -506,8 +508,8 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भु॒वस्त्वमि॑न्द्र॒ ब्रह्म॑णा म॒हान्भुवो॒ विश्वे॑षु॒ सव॑नेषु य॒ज्ञियः॑ ।   
-भुवो॒ नॄँश्च्यौ॒त्नो विश्व॑स्मि॒न्भरे॒ ज्येष्ठ॑श्च॒ मन्त्रः॑ [44]  वि॒श्व॒च॒र्ष॒णे॒ ।
+भुव᳓स्त्व᳓मिन्द्र ब्र᳓ह्मणा महा᳓न्भु᳓वो वि᳓श्वेषु स᳓वनेषु यज्ञि᳓यः ।   
+भु᳓वो नॄँ᳓श्च्यौत्नो᳓ वि᳓श्वस्मिन्भ᳓रे ज्ये᳓ष्ठश्च म᳓न्त्रः [44]  विश्वचर्षणे ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -526,8 +528,7 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 15'मित्राय सत्यायाम्बानां चरुम्' इत्यस्य मैत्रस्य पुरोनुवाक्या - मित्रस्येति गायत्री ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
-
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 मित्र᳓स्य चर्षणी+++(मनुष्य)+++-**धृ᳓तः**  
@@ -535,7 +536,6 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 **सत्यं᳓** चित्र᳓-श्रवस्तमम् ॥
 
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -543,8 +543,7 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 अथ तृतीयामाह— मित्रस्येति ।
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
-
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -564,7 +563,6 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 **मित्रस्य** **देवस्य** मित्रणादिकृतः **चर्षणीधृतः** मनुष्याणां धारयितुः **श्रवः** अन्नं यशो वा **सानसिं** सननीयं सर्वेषां, देयं वा सर्वेभ्यः । व्यत्ययेन 'स्वमोर्नपुंसकात्' इति लुक् ङि प्रवर्तते । **सत्यम्** अविनश्वरं **चित्रश्रवस्तमं** अतिशयेन चित्रं चायनीयं श्रवणमस्येति चायनीयः । यशस्तमं वा । तस्मात्त्वामेव यजामहे इति ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -572,7 +570,7 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 16तत्रैव याज्या - मित्र इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/mitro_janAn.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/mitro_janAn.md">
 
 मित्रो᳓ ज᳓नान् **यातयति** प्रजान᳓न्,  
 मित्रो᳓ **दाधार** पृथिवी᳓म् उत᳓ द्या᳓म् ।  
@@ -581,8 +579,7 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/mitro_janAn.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/mitro_janAn.md">
 <details><summary>मूलम्</summary>
 
 मि॒त्रो जना॑न्यातयति प्रजा॒नन्मि॒त्रो दा॑धार पृथि॒वीमु॒त द्याम् ।   
@@ -599,7 +596,6 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 
 तस्मात् तस्मै सत्यायामोघ-फलाय देवाय **हव्यं** चरुलक्षणं **घृतवत्** घृतसंयुक्तं **विधेम** कुर्मः ददाम इत्यर्थः । विदधातिर्दानकर्मा, विध विधाने, तौदादिकः ॥
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -607,7 +603,7 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 17अथ तत्रैव याज्या विकल्प्यते - प्र स मित्रेति त्रिष्टुप् । 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/059/02_pra_sa.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/059/02_pra_sa.md">
 
 प्र᳓ स᳓ मित्र म᳓र्तो **अस्तु प्र᳓-यस्+++(=यत्ने)+++-वान्**,  
 य᳓स् त आदित्य **शि᳓क्षति** व्रते᳓न।  
@@ -616,8 +612,15 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/059/02_pra_sa.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/059/02_pra_sa.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+प्र स मि॑त्र॒ मर्तो॑ अस्तु॒ प्रय॑स्वा॒न्यस्त॑ आदित्य॒ शिक्ष॑ति व्र॒तेन॑ ।  
+न ह॑न्यते॒ न जी॑यते॒ त्वोतो॒ नैन॒मंहो॑ अश्नो॒त्यन्ति॑तो॒ न दू॒रात् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/059/02_pra_sa.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रः
@@ -979,7 +982,6 @@ Der Mensch, o Mitra, sei vor allen glücklich, der dir, Aditja, dient nach deine
 
 भावार्थभाषाः -  जी माणसे विद्वान व ईश्वर यांच्या गुण, कर्म, स्वभावाप्रमाणे आपले गुण कर्म स्वभाव बनवून सत्य न्यायपूर्वक सर्वांना शिक्षण देतात ते निष्पाप धर्मात्मा बनून विद्वानांकडून व ईश्वराकडून रक्षित असतात. त्यांचा दुष्टांकडून नाश व पराजय होऊ शकत नाही. पक्षपात करून ते पापाचे सेवन करू शकत नाहीत. ॥ २ ॥
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -987,7 +989,7 @@ Der Mensch, o Mitra, sei vor allen glücklich, der dir, Aditja, dient nach deine
 18'वरुणाय धर्मपतये यवमयं चरुम्' इत्यस्य पुरोनुवाक्या - यच्चिदिति गायत्री ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/01_yachchiddhi_te.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/01_yachchiddhi_te.md">
 
 य᳓च् चिद्+धि᳓ ते वि᳓शो यथा+++(=विश इव)+++,  
 प्र᳓ देव वरुण व्रत᳓म् ।  
@@ -995,8 +997,15 @@ Der Mensch, o Mitra, sei vor allen glücklich, der dir, Aditja, dient nach deine
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/025/01_yachchiddhi_te.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/025/01_yachchiddhi_te.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+यच्चि॒द्धि ते॒ विशो॑ यथा॒ प्र दे॑व वरुण व्र॒तम् ।  
+मि॒नी॒मसि॒ द्यवि॑द्यवि ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/025/01_yachchiddhi_te.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -1256,7 +1265,6 @@ Wie sehr wir auch, o Varuna, verletzen dein Gebot, o Gott, Nach Menschen Weise T
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जसा पिता, विद्वान व राजा क्षुद्र बालबुद्धीच्या उन्मत्त माणसांना व संतानांना न्याययुक्त दंड देतात, जसे तुम्ही सतत आमच्यावर करुणा दर्शवून यथायोग्य न्याय व शिक्षण देता. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1264,7 +1272,7 @@ Wie sehr wir auch, o Varuna, verletzen dein Gebot, o Gott, Nach Menschen Weise T
 19तत्रैव याज्या - 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/089/05_yatkiM_chedaM.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/089/05_yatkiM_chedaM.md">
 
 य᳓त् किं᳓ चेदं᳓ वरुण दै᳓व्ये+++(←देव+यञ्)+++ ज᳓ने+++(देवेषु)+++,  
 ऽभिद्रोहं᳓ मनुष्या᳙श् च᳓रामसि।   
@@ -1273,8 +1281,15 @@ Wie sehr wir auch, o Varuna, verletzen dein Gebot, o Gott, Nach Menschen Weise T
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/089/05_yatkiM_chedaM.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/089/05_yatkiM_chedaM.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+यत्किं चे॒दं व॑रुण॒ दैव्ये॒ जने॑ऽभिद्रो॒हं म॑नु॒ष्या॒३॒॑श्चरा॑मसि ।  
+अचि॑त्ती॒ यत्तव॒ धर्मा॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो देव रीरिषः ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/089/05_yatkiM_chedaM.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -1587,7 +1602,6 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 
 पदार्थान्वयभाषाः -  (वरुण) हे परमात्मन् ! (दैव्ये, जने) सतां समुदाये (यत्, किञ्च) यत् किञ्चिदपि (इदम्) एतत् (अभि, द्रोहम्) द्वेषभावं (मनुष्याः) वयं नरः (चरामसि) कुर्मः, तथा (अचित्ती) ज्ञानरहितः सन् (यत्) यत्किञ्चित् (तव) ते (धर्मा) धर्मं (युयोपिम) त्यजामि (तस्मात्, एनसः) ततोऽपराधात् (देव) हे दिव्यात्मन् ! (नः) अस्मान् (मा, रीरिषः) मा हिंसीः ॥५॥ एकोननवतितमं सूक्तं पञ्चमोऽनुवाक एकादशो वर्गश्च समाप्तः।
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1595,7 +1609,7 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 20तत्रैव याज्याविकल्पः - कितवास इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/085/08_kitavAso_yadriripurna.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/085/08_kitavAso_yadriripurna.md">
 
 +++(ऋत्विजः)+++ कितवा᳓सो य᳓द् रिरिपु᳓र्+++(=लिलिपुः)+++ न᳓ दीवि᳓+++(देवकर्मणि)+++,  
 य᳓द् वा ऽघा सत्य᳓म् उत᳓ य᳓न् न᳓ विद्म᳓ ।  
@@ -1604,8 +1618,15 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/085/08_kitavAso_yadriripurna.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/085/08_kitavAso_yadriripurna.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+कि॒त॒वासो॒ यद्रि॑रि॒पुर्न दी॒वि यद्वा॑ घा स॒त्यमु॒त यन्न वि॒द्म ।  
+सर्वा॒ ता वि ष्य॑ शिथि॒रेव॑ दे॒वाधा॑ ते स्याम वरुण प्रि॒यासः॑ ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/085/08_kitavAso_yadriripurna.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -1989,5 +2010,4 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 
 भावार्थभाषाः -  हे माणसांनो! छळ कपट करणाऱ्या माणसांनी द्युत वगैरे कर्म केल्यास ती ताडना करण्यायोग्य असतात व जी सत्याचरण करतात ती सत्कार करण्यायोग्य असतात. ॥ ८ ॥
 </details>
-
 </div>

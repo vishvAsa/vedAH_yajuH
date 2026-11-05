@@ -1,6 +1,5 @@
 +++
 title = "०६ अरुणया गवा सोमक्रयणविधानम्"
-
 +++
 सोमऋषिः
 
@@ -11,7 +10,7 @@ title = "०६ अरुणया गवा सोमक्रयणविध�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क॒द्रूश्च॒ वै सु॑प॒र्णी च आ॑त्मरू॒पयो॑र् अस्पर्धेताम् ।
+कद्रू᳓श्च वै᳓ सुपर्णी᳓ च᳓ आत्मरूप᳓योर् अस्पर्धेताम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -26,7 +25,7 @@ Kadru and Suparni had a dispute (for the stake of) each other's form.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा क॒द्रूस् सु॑प॒र्णीम् अ॑जयत् ।  
+सा᳓ कद्रू᳓स् सुपर्णी᳓म् अजयत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -41,7 +40,7 @@ Kadru defeated Suparni.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा ऽब्र॑वीत् -
+सा᳓ ऽब्रवीत् -
 </details>
 
 <details><summary>Keith</summary>
@@ -56,8 +55,8 @@ She said,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"तृ॒तीय॑स्यामि॒तो दि॒वि सोम॒स् , तमा ह॑र॒ , तेन आ॒त्मान॒न् निष्क्री॑णी॒ष्वे"ति॑ ।  
-इ॒यव्ँ वै क॒द्रूर् अ॒सौ सु॑प॒र्णी , छन्दाँ॑सि सौपर्णे॒याः।
+"तृती᳓यस्यामितो᳓ दिवि᳓ सो᳓मस् , त᳓मा᳓ हर , ते᳓न᳓ आत्मा᳓नन् नि᳓ष्क्रीणीष्वे᳓"ति ।  
+इयव्ँ᳓ वै᳓ कद्रू᳓र् असौ᳓ सुपर्णी᳓ , छ᳓न्दाँसि सौपर्णेयाः᳓।
 </details>
 
 <details><summary>Keith</summary>
@@ -94,7 +93,7 @@ She said,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा ऽब्र॑वीद् -
+सा᳓ ऽब्रवीद् -
 </details>
 
 <details><summary>Keith</summary>
@@ -109,7 +108,7 @@ She said,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒स्मै वै पि॒तरौ॑ पु॒त्रान् बि॑भृतस् तृ॒तीय॑स्यामि॒तो दि॒वि सोम॒स्,
+"अस्मै᳓ वै᳓ पित᳓रौ पुत्रा᳓न् बिभृतस् तृती᳓यस्यामितो᳓ दिवि᳓ सो᳓मस्,
 </details>
 
 <details><summary>Keith</summary>
@@ -124,8 +123,8 @@ She said,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम् आ ह॑र॒ ,
-तेन आ॒त्मान॒न् निष्क्री॑णीष्व + इति॑ मा क॒द्रूर् अ॑वोच॒दि"ति॑ ।[39]
+त᳓म् आ᳓ हर ,
+ते᳓न᳓ आत्मा᳓नन् नि᳓ष्क्रीणी᳓ष्व᳓ + इ᳓ति मा कद्रू᳓र् अवोचदि᳓"ति ।[39]
 </details>
 
 <details><summary>Keith</summary>
@@ -158,10 +157,10 @@ fetch it, and by it buy your release" [1], so has Kadru said to me.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जग॒त्युद॑पत॒च् चतु॑र्दशाक्षरा स॒ती ।
-साऽप्रा॑प्य॒ न्य॑वर्तत ।
-तस्यै॒ द्वे अ॒क्षरे॑ अमीयेताम् ।  
-सा प॒शुभि॑श्च दी॒क्षया॒ चाग॑च्छत् ।
+ज᳓गत्यु᳓दपतच् च᳓तुर्दशाक्षरा सती᳓ ।
+सा᳓ऽप्राप्य न्य᳙वर्तत ।
+त᳓स्यै द्वे᳓ अक्ष᳓रे अमीयेताम् ।  
+सा᳓ पशु᳓भिश्च दीक्ष᳓या चा᳓गच्छत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -179,8 +178,8 @@ The Jagati flew up, of fourteen syllables, but returned without obtaining it; it
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒ज् जग॑ती॒ छन्द॑साम् पश॒व्य॑तमा ।  
-तस्मा॑त् पशु॒मन्त॑न् दी॒क्षोप॑ नमति ।
+त᳓स्माज् ज᳓गती छ᳓न्दसाम् पशव्य᳙तमा ।  
+त᳓स्मात् पशुम᳓न्तन् दीक्षो᳓प नमति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -217,8 +216,8 @@ Therefore the Jagati is the richest in cattle of the metres, and consecration wa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रि॒ष्टुग् उद॑पत॒त् त्रयो॑दशाक्षरा स॒ती
-साऽप्रा॑प्य॒ न्य॑वर्तत ।
+त्रिष्टु᳓ग् उ᳓दपतत् त्र᳓योदशाक्षरा सती᳓
+सा᳓ऽप्राप्य न्य᳙वर्तत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -234,8 +233,8 @@ The Tristubh flew up, of thirteen syllables, but returned without obtaining it;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्यै॒ द्वे अ॒क्षरे॑ अमीयेताम् ।
-सा दक्षि॑णाभिश् च , तप॑सा॒ चाग॑च्छत् ।[40]  
+त᳓स्यै द्वे᳓ अक्ष᳓रे अमीयेताम् ।
+सा᳓ द᳓क्षिणा᳓भि᳓श् च᳓ , त᳓पसा चा᳓गच्छत् ।[40]  
 </details>
 
 <details><summary>Keith</summary>
@@ -251,8 +250,8 @@ it lost two syllables, but returned with the (sacrificial) gifts [2] and penance
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑त् त्रि॒ष्टुभो॑ लो॒के , माध्य॑न्दिने॒ सव॑ने॒ दक्षि॑णा नीयन्ते ।
-ए॒तत् खलु॒ वाव तप॒ इत्या॑हु॒र् - "यस् स्वन् ददा॒ती"ति॑ ।
+त᳓स्मात् त्रिष्टु᳓भो लोके᳓ , मा᳓ध्यन्दिने स᳓वने द᳓क्षिणा नीयन्ते ।
+एत᳓त् ख᳓लु वा᳓व᳓ त᳓प इ᳓त्याहुर् - "य᳓स् स्व᳓न् द᳓दाती᳓"ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -267,7 +266,6 @@ Therefore in the world of the Tristubh, the midday oblation, the gifts are broug
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 त्रि॒ष्टुक् । उदिति॑ । अ॒प॒त॒त् । त्रयो॑दशाक्ष॒रेति॒ त्रयो॑दश-अ॒क्ष॒रा॒ । स॒ती । सा । अप्रा॒प्येत्यप्र॑-आ॒प्य॒ । नीति॑ । अ॒व॒र्त॒त॒ ।   
 तस्यै॑ । द्वे इति॑ । अ॒क्षरे॒ इति॑ । अ॒मी॒ये॒ता॒म् ।   
@@ -288,7 +286,7 @@ Therefore in the world of the Tristubh, the midday oblation, the gifts are broug
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गा॒य॒त्र्य् उद॑पत॒च् चतु॑रक्षरा स॒त्य॑जया॒ ज्योति॑षा ।
+गायत्र्य् उ᳓दपतच् च᳓तुरक्षरा सत्य᳙जया ज्यो᳓तिषा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -303,8 +301,8 @@ The Gayatri flew up, of four syllables, together with a female goat with light.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम॑स्या अ॒जाऽभ्य॑रुन्ध ।
-तद् अ॒जाया॑ अज॒त्वम् ।  
+त᳓मस्या अजा᳓ऽभ्यरुन्ध ।
+त᳓द् अजा᳓या अजत्व᳓म् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -320,8 +318,8 @@ Then the goat won (Soma) for her, and so the goat has the name.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा सोम॒ञ् चाऽऽह॑रच् ,च॒त्वारि॑ च अ॒क्षरा॑णि ।
-सा ऽष्टाक्ष॑रा॒ सम॑पद्यत ।
+सा᳓ सो᳓मञ् चा᳓ऽऽहरच् ,चत्वा᳓रि च अक्ष᳓राणि ।
+सा᳓ ऽष्टा᳓क्षरा स᳓मपद्यत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -357,8 +355,8 @@ The Gayatri brought back the Soma and the four syllables, and so became of eight
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मवा॒दिनो॑ वदन्ति -
-"कस्मा॑त् स॒त्याद् गा॑य॒त्री कनि॑ष्ठा॒ छन्द॑साँ स॒ती य॑ज्ञमु॒खम् परी॑या॒ये"ति॑ [41]  
+ब्र᳓ह्म᳓वादि᳓नो व᳓द᳓न्ति᳓ -
+"क᳓स्मात् सत्या᳓द् गायत्री᳓ क᳓निष्ठा छ᳓न्दसाँ सती᳓ यज्ञमुख᳓म् प᳓रीयाये᳓"ति [41]  
 </details>
 
 <details><summary>Keith</summary>
@@ -390,7 +388,7 @@ The theologians say [3], 'For what reason is it that the Gayatri, the smallest o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदे॒वादस् सोम॒म् आह॑र॒त् , तस्मा॑द् यज्ञमु॒खम् पर्यै॑त्। तस्मा॑त् तेज॒स्विनी॑तमा ।  
+य᳓देवा᳓द᳓स् सो᳓मम् आ᳓हरत् , त᳓स्माद् यज्ञमुख᳓म् प᳓र्यैत्। त᳓स्मात् तेजस्वि᳓नीतमा ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -406,7 +404,7 @@ Because it brought down the Soma, it held the forefront of the sacrifice; theref
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒द्भ्यान् द्वे सव॑ने स॒मगृ॑ह्णा॒न् मुखे॒न + एक॑म् ।
+पद्भ्या᳓न् द्वे᳓ स᳓वने सम᳓गृह्णान् मु᳓खेन᳓ + ए᳓कम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -421,7 +419,7 @@ By the feet it grasped two of the oblations, and by the mouth one.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन् मुखे॑न स॒मगृ॑ह्णा॒त् तद॑धयत् ।  
+य᳓न् मु᳓खेन सम᳓गृह्णात् त᳓दधयत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -436,7 +434,7 @@ The one it grasped by the mouth it sucked;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् द्वे सव॑ने  शु॒क्रव॑ती प्रातस् सव॒नञ् च॒ माध्य॑न्दिनञ् च ।  
+त᳓स्माद् द्वे᳓ स᳓वने  शुक्र᳓वती प्रातस् सवन᳓ञ् च मा᳓ध्यन्दिनञ् च ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -451,7 +449,7 @@ therefore two oblations are made of the pure Soma, the morning and midday oblati
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑त् तृतीयसव॒न ऋ॑जी॒षम् अ॒भि षु॑ण्वन्ति ।
+त᳓स्मात् तृतीयसवन᳓ ऋजीष᳓म् अभि᳓ षुण्वन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -466,7 +464,7 @@ therefore at the third oblation they pour out the dregs of the Soma;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धी॒तमि॑व॒ हि मन्य॑न्ते । [42]  
+धीत᳓मिव हि᳓ म᳓न्यन्ते । [42]  
 </details>
 
 <details><summary>Keith</summary>
@@ -508,7 +506,7 @@ for they regard it as sucked as it were [4].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒शिर॒म् अव॑ नयति सशुक्र॒त्वाय , अथो॒ सम्भ॑रत्य् ए॒वैन॑त् ।  
+आशि᳓रम् अ᳓व नयति सशुक्रत्वा᳓य᳓ , अ᳓थो स᳓म्भरत्य् एवै᳓नत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -538,7 +536,7 @@ He removes any admixture so that it may be pure; verily also he makes ready it (
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तँ सोम॑म् आह्रि॒यमा॑णङ् गन्ध॒र्वो वि॒श्वाव॑सु॒ᳶ पर्य॑मुष्णात्
+तँ᳓ सो᳓मम् आह्रिय᳓माणङ् गन्धर्वो᳓ विश्वा᳓वसुᳶ प᳓र्यमुष्णात्
 </details>
 
 <details><summary>Keith</summary>
@@ -553,7 +551,7 @@ When the Soma was being borne away, the Gandharva Viśvavasu stole it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ति॒स्रो रात्री॒ᳶ परि॑मुषितो ऽवसत् ।
+स᳓ तिस्रो᳓ रा᳓त्रीᳶ प᳓रिमुषितो ऽवसत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -568,7 +566,7 @@ It was for three nights stolen;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑त् ति॒स्रो रात्रीः॑ क्री॒तस् सोमो॑ वसति ।
+त᳓स्मात् तिस्रो᳓ रा᳓त्रीः क्रीत᳓स् सो᳓मो वसति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -600,8 +598,8 @@ therefore after purchase the Soma is kept for three nights.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वा अ॑ब्रुव॒न्थ् -
-"स्त्रीका॑मा॒ वै ग॑न्ध॒र्वास् स्त्रि॒या निष्क्री॑णा॒मे"ति॑ ।  
+ते᳓ देवा᳓ अब्रुवन्थ् -
+"स्त्री᳓कामा वै᳓ गन्धर्वा᳓स् स्त्रिया᳓ नि᳓ष्क्रीणामे᳓"ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -617,7 +615,7 @@ The gods said, 'The Gandharvas love women; let us redeem it with a woman.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते वाचँ॒ स्त्रिय॒म् एक॑हायनीङ् कृ॒त्वा तया॒ निर॑क्रीणन् ।
+ते᳓ वा᳓चँ स्त्रि᳓यम् ए᳓कहायनीङ् कृत्वा᳓ त᳓या नि᳓रक्रीणन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -660,8 +658,8 @@ They made speech unto a woman of one year old, and with her redeemed it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा रो॒हिद्रू॒पङ् कृ॒त्वा ग॑न्ध॒र्वेभ्यो॑ ऽप॒क्रम्या॑तिष्ठत् ।[43]
-तद् रो॒हितो॒ जन्म॑ ।  
+सा᳓ रोहि᳓द्रूप᳓ङ् कृत्वा᳓ गन्धर्वे᳓भ्यो ऽपक्र᳓म्यातिष्ठत् ।[43]
+त᳓द् रोहि᳓तो ज᳓न्म ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -677,7 +675,7 @@ She adopted the form of a deer and ran away from the Gandharvas [5] that was the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वा अ॑ब्रुव॒न्न् - "अप॑ यु॒ष्मद् अक्र॑मी॒न् न अस्मान् उ॒पाव॑र्तते॒ वि ह्व॑यामहा॒" इति॑ ।  
+ते᳓ देवा᳓ अब्रुवन्न् - "अ᳓प युष्म᳓द् अ᳓क्रमीन् न᳓ अ᳓स्मा᳓न् उपा᳓वर्तते वि᳓ ह्वयामहा" इ᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -692,8 +690,8 @@ The gods said, 'She has run from you; she comes not to us; let us both summon he
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म॑ गन्ध॒र्वा अव॑द॒न्न् अगा॑यन् दे॒वाः।
-सा दे॒वान्गाय॑त उ॒पाव॑र्तत ।
+ब्र᳓ह्म गन्धर्वा᳓ अ᳓वदन्न् अ᳓गायन् देवाः᳓।
+सा᳓ देवा᳓न्गा᳓यत उपा᳓वर्तत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -709,7 +707,7 @@ The Gandharvas uttered a spell, the gods sang, she went to the gods as they sang
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् गाय॑न्तँ॒ स्त्रिय॑ᳵ कामयन्ते ।  
+त᳓स्माद् गा᳓यन्तँ स्त्रि᳓यᳵ कामयन्ते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -724,7 +722,7 @@ Therefore women love one who sings;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कामु॑का एनँ॒ स्त्रियो॑ भवन्ति॒ य ए॒वव्ँ वेद ,
+का᳓मुका एनँ स्त्रि᳓यो भवन्ति य᳓ एवव्ँ᳓ वे᳓द᳓ ,
 </details>
 
 <details><summary>Keith</summary>
@@ -739,7 +737,7 @@ enamoured are women of him who thus knows.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ य ए॒वव्ँ वि॒द्वान् अपि॒ जन्ये॑षु॒ भव॑ति॒ , तेभ्य॑ ए॒व द॑दत्यु॒त यद् ब॒हुत॑याः भव॑न्ति ।[44]  
+अ᳓थो य᳓ एवव्ँ᳓ विद्वा᳓न् अ᳓पि ज᳓न्येषु भ᳓वति , ते᳓भ्य एव᳓ ददत्युत᳓ य᳓द् बहु᳓तयाः᳓ भ᳓वन्ति ।[44]  
 </details>
 
 <details><summary>Keith</summary>
@@ -779,7 +777,7 @@ So if there is in a family one person who knows thus, men give their daughters i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एक॑हायन्या क्रीणाति ।
+ए᳓कहायन्या क्रीणाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -794,7 +792,7 @@ He buys Soma with a (cow) one year old;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒चैवैनँ॒ सर्व॑या क्रीणाति ।
+वाचै᳓वै᳓नँ स᳓र्वया क्रीणाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -809,7 +807,7 @@ verily he buys it with the whole of speech.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् एक॑हायना मनु॒ष्या॑ वाचव्ँ॑ वदन्ति ।
+त᳓स्माद् ए᳓कहायना मनुष्या᳙ वा᳓चव्ँ वदन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -841,7 +839,7 @@ Therefore men utter speech when one year old.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अकू॑ट॒या ऽक॑र्ण॒या ऽका॑ण॒या ऽश्लो॑ण॒या ऽस॑प्तशफया क्रीणाति ।  
+अ᳓कूटया᳓ ऽकर्णया᳓ ऽकाणया᳓ ऽश्लोणया᳓ ऽसप्तशफया क्रीणाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -856,7 +854,7 @@ He buys with a cow which has no horns, small ears, is not one-eyed or lame, and 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व॑यै॒व + एन॑ङ् क्रीणाति ।
+स᳓र्वयैव᳓ + ए᳓नङ् क्रीणाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -887,7 +885,7 @@ verily he buys it with all.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यच् छ्वे॒तया॑ क्रीणी॒याद् दु॒श्चर्मा॒ यज॑मानस् स्यात् ।
+य᳓च् छ्वेत᳓या क्रीणीया᳓द् दुश्च᳓र्मा य᳓जमानस् स्यात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -902,7 +900,7 @@ If he were to buy it with a white cow, the sacrificer would become leprous.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् कृ॒ष्णया॑ ऽनु॒स्तर॑णी स्यात् , प्र॒मायु॑को॒ यज॑मानस् स्यात् ।  
+य᳓त् कृष्ण᳓या ऽनुस्त᳓रणी स्यात् , प्रमा᳓युको य᳓जमानस् स्यात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -917,7 +915,7 @@ If he were to buy with a black one, it would be a funeral cow, and the sacrifice
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् द्वि॑रू॒पया॒ वात्र॑घ्नी स्या॒त् , स वा॒ऽन्यञ् जि॑नी॒यात् , तव्ँ वा॒ऽन्यो जि॑नीयात् ।  
+य᳓द् द्विरूप᳓या वा᳓त्रघ्नी स्यात् , स᳓ वाऽन्य᳓ञ् जिनीया᳓त् , तव्ँ᳓ वाऽन्यो᳓ जिनीयात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -932,7 +930,7 @@ If with one of both colours, it would be one sacred to Vrtrahan, and he would ei
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒रु॒णया॑ पिङ्गा॒क्ष्या क्री॑णाति ।
+अरुण᳓या पिङ्गाक्ष्या᳓ क्रीणाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -947,7 +945,7 @@ He buys with a ruddy, yellow-eyed one.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद् वै सोम॑स्य रू॒पँ,
+एत᳓द् वै᳓ सो᳓मस्य रूपँ᳓,
 </details>
 
 <details><summary>Keith</summary>
@@ -962,7 +960,7 @@ This is the form of Soma;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वयै॒वैन॑न् दे॒वत॑या क्रीणाति ॥ [45]  
+स्व᳓यैवै᳓नन् देव᳓तया क्रीणाति ॥ [45]  
 </details>
 
 <details><summary>Keith</summary>
@@ -993,4 +991,3 @@ verily he buys it with its own deity.
 
 इति षष्ठे प्रथमे षष्ठोनुवाकः ॥  
 </details>
-

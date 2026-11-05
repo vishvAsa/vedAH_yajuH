@@ -1,6 +1,5 @@
 +++
 title = "०१ सोमः"
-
 +++
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -9,10 +8,10 @@ title = "०१ सोमः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमो॑ धे॒नुं, सोमो॒ अर्व॑न्तम् आ॒शुं  
-सोमो॑ वी॒रं क॑र्म॒ण्यं॑ **ददातु** ।  
-सा॒द॒न्यं॑+++(←सदन)+++ विद॒थ्यं॑ स॒भेयं॑  
-पि॒तु॒श्-श्रव॑णय्ँ॒ यो **ददा॑शद्**+++(=दद्यात्)+++ अस्मै +++(यजमानाय)+++ ॥
+सो᳓मो धेनुं᳓, सो᳓मो अ᳓र्वन्तम् आशुं᳓  
+सो᳓मो वीरं᳓ कर्मण्यं᳙ **ददातु** ।  
+सादन्यं᳙+++(←सदन)+++ विदथ्यं᳙ सभे᳓यं  
+पितुश्-श्र᳓वणय्ँ यो᳓ **द᳓दाशद्**+++(=दद्यात्)+++ अस्मै +++(यजमानाय)+++ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -52,24 +51,24 @@ title = "०१ सोमः"
 
 अथ हविषः पुरोनुवाक्यामाह - 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/22_tvamimA_oShadhIH.md">
-<details open><summary><h5>२२ त्वमिमा ओषधीः ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/22_tvamimA_oShadhIH.md">
 
 तुव᳓म् इमा᳓ ओ᳓षधीः सोम वि᳓श्वास्  
 तुव᳓म् अपो᳓ अजनयस् तुवं᳓ गाः᳓  
 त्व᳓म् आ᳓ ततन्थ उरु᳓ अन्त᳓रिक्षं  
 तुवं᳓ ज्यो᳓तिषा वि᳓ त᳓मो ववर्थ
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/091/22_tvamimA_oShadhIH.md">
-<details open><summary><h5>२२ त्वमिमा ओषधीः ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/091/22_tvamimA_oShadhIH.md">
 
 त्वमि॒मा ओष॑धीः सोम॒ विश्वा॒स्त्वम॒पो अ॑जनय॒स्त्वं गाः ।  
-त्वमा त॑तन्थो॒र्व१॒॑न्तरि॑क्षं॒ त्वं ज्योति॑षा॒ वि तमो॑ ववर्थ ॥
-</details>
+त्वमा त॑तन्थो॒र्व१॒॑न्तरि॑क्षं॒ त्वं ज्योति॑षा॒ वि तमो॑ ववर्थ ॥
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/091/22_tvamimA_oShadhIH.md">
-<details open><summary><h5>022 ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/091/22_tvamimA_oShadhIH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -297,6 +296,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोम। इमाः- एताः। विश्वाः- सर्वाः। ओषधीः। अजनयः- ससर्जिथ। अपः- उदकानि। गाः-  चन्द्रकिरणान्। अजनयः। उरु- विस्तीर्णम्। अन्तरिक्षम्- वायुसदनम्। आ ततन्थ-  विस्तृतवानसि। त्वम्। ज्योतिषा- दीप्त्या। तमः- अन्धकारम्। वि ववर्थ-  विवृतं  विनष्टमकरोः॥२२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे सोम **त्वम्** **इमाः** भूम्यां वर्तमानाः **विश्वाः** सर्वाः **ओषधीः** **अजनयः** उत्पादितवानसि । तथा **त्वम्** **अपः** तासामोधीनां कारणभूतानि वृष्टयुदकानि अजनयः । तथा **त्वं** **गा:** सर्वान् पशूनुदपादयः । **उरु** विस्तीर्णम् **अन्तरिक्षं** **त्वम्** **आ** **ततन्थ** विस्तारितवानसि । तस्मिन्नन्तरिक्षे यत् **तमः** निरोधकमन्धकारं तदपि **त्वं** **ज्योतिषा** आत्मीयेन प्रकाशेन **वि** **ववर्थ** विवृतं विश्लिष्टं विनष्टं कृतवानसि ॥ ततन्थ । तनु विस्तारे । ववर्थ । वृञ् वरणे । उभयत्र लिटस्थलि • बभूथा ततन्थ जगृभ्म ववर्थेति निगमे ' ( पा. सू. ७. २. ६४ ) इति निपात्यते ॥
@@ -389,8 +393,8 @@ Du hast, o Soma, alle diese Pflanzen, die Rinder du erzeugt und die Gewässer, H
 
 भावार्थभाषाः -  ज्या ईश्वराने नाना प्रकारची सृष्टी निर्माण केलेली आहे तोच सर्व माणसांनी उपासना करण्यायोग्य इष्ट देव आहे. ॥ २२ ।
 </details>
-</details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4अथ हविषो याज्यामाह - 
@@ -398,10 +402,10 @@ Du hast, o Soma, alle diese Pflanzen, die Rinder du erzeugt und die Gewässer, H
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या ते॒ धामा॑नि दि॒वि या पृ॑थि॒व्याम् ।  
-या पर्व॑ते॒ष्वोष॑धीष्व॒प्सु ।    
-तेभि॑र्नो॒ विश्वै॑स्सु॒मना॒ अहे॑डन् ।   
-राज॑न्त्सोम॒ प्रति॑ ह॒व्या गृ॑भाय ।
+या᳓ ते धा᳓मानि दिवि᳓ या᳓ पृथिव्या᳓म् ।  
+या᳓ प᳓र्वतेष्वो᳓षधीष्वप्सु᳓ ।    
+ते᳓भिर्नो वि᳓श्वैस्सुम᳓ना अ᳓हेडन् ।   
+रा᳓जन्त्सोम प्र᳓ति हव्या᳓ गृभाय ।
 </details>
 
 <details><summary>मूलम्</summary>

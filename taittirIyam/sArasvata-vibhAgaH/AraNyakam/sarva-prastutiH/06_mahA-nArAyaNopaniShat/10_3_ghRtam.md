@@ -1,20 +1,20 @@
 +++
 title = "१० ३ घृतम्"
-
 +++
 
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/07_ghRtaM_mimixe.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/07_ghRtaM_mimixe.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+घृतं᳓ मिमिक्षे  घृत᳓मस्य यो᳓निर्  
+घृते᳓ श्रितो᳓ घृत᳓म् उवस्य धा᳓म ।  
+अनुष्वध᳓म् आ᳓वह, माद᳓यस्व स्वा᳓हाकृतव्ँ  
+वृषभ वक्षि हव्य᳓म् ।
 
-घृ॒तं मि॑मिक्षे  घृ॒तम॑स्य॒ योनि॑र्  
-घृ॒ते श्रि॒तो घृ॒तम् उ॑वस्य॒ धाम॑ ।  
-अ॒नु॒ष्व॒धम् आव॑ह, मा॒दय॑स्व॒ स्वाहा॑कृतव्ँ  
-वृषभ वक्षि ह॒व्यम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/07_ghRtaM_mimixe.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/07_ghRtaM_mimixe.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 घृ॒तं मि॑मिक्षे  घृ॒तम॑स्य॒ योनि॑र्  
@@ -24,17 +24,20 @@ title = "१० ३ घृतम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/09_samudrAd_UrmimadhumAm.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-स॒मु॒द्राद् ऊ॒र्मिमधु॑माँ॒ उदा॑रद्  
-उपाँ॒शुना॒ सम॑मृत॒त्वम् आ॑नट् ।  
-घृ॒तस्य॒ नाम॒ गुह्यय्ँ॒ यद् अस्ति॑  
-जि॒ह्वा दे॒वाना॑म॒मृत॑स्य॒ नाभिः॑ ॥ (22)
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/09_samudrAd_UrmimadhumAm.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+समुद्रा᳓द् ऊर्मि᳓म᳓धुमाँ उ᳓दारद्  
+उपाँशु᳓ना स᳓ममृतत्व᳓म् आनट् ।  
+घृत᳓स्य ना᳓म गु᳓ह्यय्ँ य᳓द् अ᳓स्ति  
+जिह्वा᳓ देवा᳓नाममृ᳓तस्य ना᳓भिः ॥ (22)
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/09_samudrAd_UrmimadhumAm.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/09_samudrAd_UrmimadhumAm.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 स॒मु॒द्राद् ऊ॒र्मिमधु॑माँ॒ उदा॑रद्  

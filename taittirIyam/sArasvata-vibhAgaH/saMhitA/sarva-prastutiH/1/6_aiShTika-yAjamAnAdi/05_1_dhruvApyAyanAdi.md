@@ -12,20 +12,17 @@ _______
 1ध्रुवाम् आप्यायमानाम् अनुमन्त्रयते - आ प्यायतामिति । 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/05_1_dhruvApyAyanAdi/02_A_pyAyatAn.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/05_1_dhruvApyAyanAdi/02_A_pyAyatAn.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-**आ प्या॑यतान्** ध्रु॒वा घृ॒तेन॑  
-य॒ज्ञय्ँ य॑ज्ञ॒म् प्रति॑ देव॒यद्भ्यः॑ +++(←कामे क्यच्, ईत्वाभावः)+++ ।   
-+++(ध्रुवा)+++ सू॒र्याया॒ ऊधो, ऽदि॑त्या उ॒पस्थ॑,  
-उ॒रु-धा॑रा पृथि॒वी य॒ज्ञे अ॒स्मिन्न्  ॥
+**आ᳓ प्यायतान्** ध्रुवा᳓ घृते᳓न  
+यज्ञय्ँ᳓ यज्ञम् प्र᳓ति देवय᳓द्भ्यः +++(←कामे क्यच्, ईत्वाभावः)+++ ।   
++++(ध्रुवा)+++ सूर्या᳓या ऊ᳓धो᳓, ऽदित्या उप᳓स्थ,  
+उरु᳓-धारा पृथिवी᳓ यज्ञे᳓ अस्मि᳓न्न्  ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/05_1_dhruvApyAyanAdi/02_A_pyAyatAn.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/05_1_dhruvApyAyanAdi/02_A_pyAyatAn.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -62,7 +59,6 @@ Broad streamed be the earth at this sacrifice.
 यज्ञंयज्ञं प्रति तां तामाहुतिं प्रति देवयद्भ्यो देवान्होतुमिच्छद्भ्य ऋत्विग्भ्यः। पर्याप्तेन घृतेनेयं ध्रुवाऽऽप्यायतां पुनः पुनः पूर्यताम्। ऊधःशब्देन पयःपूर्णस्तनसंघोऽभिधीयते। सूर्याशब्देनोषा आदित्यपत्नी विवक्ष्यते। तत्पत्नीत्वं च नक्षत्रेष्टावाम्नायते – ‘उषा वा अकामयत। प्रियाऽऽदित्यस्य सुभगा स्यामिति’ (ब्रा॰ का॰ ३ प्र॰ १ अ॰ ६) इति। इवशब्दोऽत्राध्याहर्तव्यः। यथा सूर्याया गोरूपधारिण्या ऊधः पयःपूर्णं तथा ध्रुवा घृतेनाऽऽप्यायताम्। किंच, अदित्या वेदिरूपायाः पृथिव्या उपस्थ उत्सङ्गे वर्तमाना सेयं ध्रुवोरूधारा महाधारा पुनः पुनः सिच्यमानाभिराज्यधारामिरुपेताऽत एव पृथिवी विस्तीर्णा सत्यस्मिन्सर्वस्मिन्यज्ञे सम्यगाप्यायताम्। 
 </details>
 </details>
-
 </div>
 
 _______
@@ -78,7 +74,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तेर् वि॒भान् नाम॑ लो॒कः  ।  
+प्रजा᳓पतेर् विभा᳓न् ना᳓म लोकः᳓  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -110,7 +106,7 @@ Prajapati's is the world called Vibhan.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मिँ॑स् त्वा दधामि स॒ह यज॑मानेन ।
+त᳓स्मिँस् त्वा दधामि सह᳓ य᳓जमानेन ।
 </details>
 
 <details><summary>Keith</summary>
@@ -151,7 +147,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सद् अ॑सि॒, सन् मे॑ भूयाः ।
+स᳓द् असि, स᳓न् मे भूयाः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -182,7 +178,7 @@ Thou art real, be real for me;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व॑म् असि॒, सर्व॑म् मे भूयाः ।
+स᳓र्वम् असि, स᳓र्वम् मे भूयाः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -212,7 +208,7 @@ thou art all, be all for me;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒र्णम् अ॑सि पू॒र्णम् मे॑ भूयाः ।
+पूर्ण᳓म् असि पूर्ण᳓म् मे भूयाः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -242,7 +238,7 @@ thou art full, be full for me;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अक्षि॑तम् असि॒ - मा मे॑ क्षेष्ठाः ।
+अ᳓क्षितम् असि - मा᳓ मे क्षेष्ठाः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -278,7 +274,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राच्या॑न् दि॒शि दे॒वा ऋ॒त्विजो॑ +++(आत्मानं मां च)+++ मार्जयन्ताम्+++(=शोधयन्ताम्)+++ ।
+प्रा᳓च्यान् दिशि᳓ देवा᳓ ऋत्वि᳓जो +++(आत्मानं मां च)+++ मार्जयन्ताम्+++(=शोधयन्ताम्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -311,7 +307,7 @@ In the eastern quarter may the gods, the priests, make (me) bright;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दक्षि॑णायां [15] दि॒शि मासाः॑ पि॒तरो॑ मार्जयन्ताम्।  
+द᳓क्षिणायां [15] दिशि᳓ मा᳓साः पित᳓रो मार्जयन्ताम्।  
 </details>
 
 <details><summary>Keith</summary>
@@ -336,7 +332,7 @@ in the southern [1] quarter may the months, the fathers, make (me) bright;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒तीच्या॑न् दि॒शि गृ॒हाᳶ प॒शवो॑ मार्जयन्ताम् ।  
+प्रती᳓च्यान् दिशि᳓ गृहाᳶ᳓ पश᳓वो मार्जयन्ताम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -361,7 +357,7 @@ in the western quarter may the houses, the cattle, make (me) bright;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उदी॑च्यान् दि॒श्य् आप॒ ओष॑धयो॒ वन॒स्पत॑यो मार्जयन्ताम्
+उ᳓दीच्यान् दिश्य् आ᳓प ओ᳓षधयो व᳓नस्प᳓तयो मार्जयन्ताम्
 </details>
 
 <details><summary>Keith</summary>
@@ -381,7 +377,7 @@ in the northern quarter may the waters, the plants, the trees make (me) bright;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्ध्वाया॑न् दि॒शि य॒ज्ञस् सव्ँ॑वत्स॒रो य॒ज्ञप॑तिर् मार्जयन्ताम् ।
+ऊर्ध्वा᳓यान् दिशि᳓ यज्ञ᳓स् सव्ँवत्सरो᳓ यज्ञ᳓पतिर् मार्जयन्ताम् ।
 </details>
 
 <details><summary>Keith</summary>

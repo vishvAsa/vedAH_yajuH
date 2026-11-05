@@ -14,7 +14,7 @@ title = "१२ अश्वनामवाचनाद्यङ्गमन्�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒भूर् मा॒त्रा +++(पृथिव्या)+++, प्र॒भूᳶ पि॒त्रा +++(द्यवा वर्षकेण)+++। +++(उदात्तयणः इति तृतीयाया उदात्तत्वम् ।)+++
+विभू᳓र् मात्रा᳓ +++(पृथिव्या)+++, प्रभूᳶ᳓ पित्रा᳓ +++(द्यवा वर्षकेण)+++। +++(उदात्तयणः इति तृतीयाया उदात्तत्वम् ।)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -37,7 +37,7 @@ Many through thy dam, powerful through thy sire,
 1अश्वस्य दक्षिणे कर्णे यजमानमश्वनामानि वाचयति - विभूरित्यादि ॥ धारणान्माता पृथिवी । तत्र वृष्ट्या प्रजा उत्पादयतीति पिता द्यौः । ब्राह्मणं च भवति 'इयं वै माता । असौ पिता' इति । तत्र मात्रा पृथिव्या त्वं विभूरसि विशेषण भवसि विशिष्टोसि । पित्रा दिवा च त्वं प्रभूरसि प्रकर्षेण भवसि प्रकृष्टोसि । 'उदात्तयणः' इति तृतीयाया उदात्तत्वम् । 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/20_ashvo-si_hayo-syatyo-si.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/20_ashvo-si_hayo-syatyo-si.md">
 
 +++(अश्वस्य दक्षिणे कर्णे यजमानम् अश्वनामानि वाचयति)+++  
 अ᳓श्वो+++(=व्यापकः)+++ ऽसि । ह᳓यो+++(←हि गतौ)+++ **ऽस्य्**, अ᳓त्यो+++(←अत सातत्य-गमने)+++ **ऽसि**,  
@@ -52,7 +52,6 @@ Many through thy dam, powerful through thy sire,
 
 thou art a horse, thou art a steed, thou art a runner, thou art a male, thou art a strong horse, thou art a racer, thou art powerful, thou art a stallion, thou art heroic hearted; 'goer' is thy name;
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -62,7 +61,7 @@ thou art a horse, thou art a steed, thou art a runner, thou art a male, thou art
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्याना॒म् पत्वान्वि॑हि ।
+आदित्या᳓नाम् प᳓त्वा᳓न्विहि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -94,7 +93,7 @@ do thou follow the course of the Adityas.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॒ स्वाहा॑।
+अग्न᳓ये स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -109,7 +108,7 @@ To Agni hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहे॑न्द्रा॒ग्निभ्या॑म्।
+स्वा᳓हेन्द्राग्नि᳓भ्याम्।
 </details>
 
 <details><summary>Keith</summary>
@@ -124,7 +123,7 @@ Hail to Indra and Agni!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा॑ प्र॒जाप॑तये।
+स्वा᳓हा प्रजा᳓पतये।
 </details>
 
 <details><summary>Keith</summary>
@@ -139,7 +138,7 @@ Hail to Prajapati!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा॒ विश्वे॑भ्यो दे॒वेभ्यः॑।
+स्वा᳓हा वि᳓श्वेभ्यो देवे᳓भ्यः।
 </details>
 
 <details><summary>Keith</summary>
@@ -154,7 +153,7 @@ Hail to the All-gods!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा॒ सर्वा॑भ्यो दे॒वता॑भ्यः ।
+स्वा᳓हा स᳓र्वाभ्यो देव᳓ताभ्यः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -183,8 +182,7 @@ Hail to all the deities!
 4सायमश्वस्य पत्सु चतस्रो धृतीर्जुहोति - इह धृतिरित्यादि ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4सायमश्वस्य पत्सु चतस्रो धृतीर्जुहोति - इह धृतिरित्यादि ॥
@@ -199,7 +197,7 @@ Hail to all the deities!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह धृति॒स् +++(स्यात्)+++ स्वाहा॑।
+इह᳓ धृ᳓तिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -209,7 +207,7 @@ Here is support, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह विधृ॑ति॒स् +++(स्यात्)+++ स्वाहा॑।
+इह᳓ वि᳓धृतिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -219,7 +217,7 @@ Here is keeping apart, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह रन्ति॒स्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वाहा॑।
+इह᳓ र᳓न्तिस्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -229,7 +227,7 @@ Here is joy, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह रम॑ति॒स् +++(स्यात्)+++ स्वाहा॑।
+इह᳓ र᳓मतिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -258,7 +256,6 @@ Here is delight, hail!'
 
 इति सप्तमे प्रथमे अष्टादशोनुवाकः ॥  
 </details>
-
 </div>  
 
 ## विनियोगः
@@ -280,7 +277,7 @@ Here is delight, hail!'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भु॒वे त्वा॒ +++(उत्सृजामि)+++, भव्या॑य त्वा +++(उत्सृजामि)+++, भविष्य॒ते त्वा॒ +++(उत्सृजामि)+++,
+भुवे᳓ त्वा +++(उत्सृजामि)+++, भ᳓व्याय त्वा +++(उत्सृजामि)+++, भविष्यते᳓ त्वा +++(उत्सृजामि)+++,
 </details>
 
 <details><summary>Keith</summary>
@@ -295,7 +292,7 @@ Thou art becoming; to being thee, to what is becoming thee, to what shall be the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वे॑भ्यस् त्वा भू॒तेेभ्यः॑ +++(उत्सृजामि)+++।
+वि᳓श्वेभ्यस् त्वा भूते्᳓ए᳓भ्यः +++(उत्सृजामि)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -317,8 +314,8 @@ To all beings thee!
 
 +++(अथैनं देवताभ्यो रक्षार्थं परिददाति)+++  
 
-देवा॑ आशापाला,
-ए॒तन् दे॒वेभ्योऽश्व॒म् मेधा॑य॒ प्रोक्षि॑तङ् गोपायत ॥ [41]  
+दे᳓वा आशापाला,
+एत᳓न् देवे᳓भ्यो᳓ऽश्वम् मे᳓धाय प्रो᳓क्षितङ् गोपायत ॥ [41]  
 </details>
 
 <details><summary>Keith</summary>

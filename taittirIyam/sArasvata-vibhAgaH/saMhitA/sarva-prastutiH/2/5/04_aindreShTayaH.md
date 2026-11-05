@@ -1,6 +1,5 @@
 +++
 title = "०४ ऐन्द्रेष्टयः"
-
 +++
 
 ## सेन्द्रत्वम्  
@@ -19,9 +18,9 @@ title = "०४ ऐन्द्रेष्टयः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वा॒दिनो॑ वदन्ति ।  
-स त्वै द॑र्शपूर्णमा॒सौ य॑जेत॒ -  
-य ए॑नौ॒ सेन्द्रौ॒ यजे॒तेति॑ ।  
+ब्रह्मवादि᳓नो वदन्ति ।  
+स᳓ त्वै᳓ दर्शपूर्णमासौ᳓ यजेत -  
+य᳓ एनौ से᳓न्द्रौ य᳓जेते᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -58,8 +57,8 @@ The theologians say,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वै॒मृ॒धᳶ पू॒र्णमा॑सेऽनुनिर्वा॒प्यो॑ भवति ।  
-तेन॑ पू॒र्णमा॑स॒स्सेन्द्रः॑।  
+वैमृधᳶ᳓ पूर्ण᳓मासेऽनुनिर्वाप्यो᳙ भवति ।  
+ते᳓न पूर्ण᳓मासस्से᳓न्द्रः।  
 </details>
 
 <details><summary>Keith</summary>
@@ -82,7 +81,7 @@ and by it the full moon has Indra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्रन् दध्य् अ॑मावा॒स्या॑याम्।
+ऐन्द्र᳓न् द᳓ध्य् अमावास्या᳙याम्।
 </details>
 
 <details><summary>Keith</summary>
@@ -97,7 +96,7 @@ There are curds for Indra at the new moon;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेना॑मावा॒स्या॑ सेन्द्रा॑।
+ते᳓नामावास्या᳙ से᳓न्द्रा।
 </details>
 
 <details><summary>Keith</summary>
@@ -117,9 +116,9 @@ verily the new moon has Indra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वान् द॑र्श--पूर्ण-मा॒सौ यज॑ते॒  
-सेन्द्रा॑व् ए॒वैनौ॑ यजते ।  
-श्वश्-श्वो॑ ऽस्मा ईजा॒नाय॒ वसी॑यो भवति ।
+य᳓ एवव्ँ᳓ विद्वा᳓न् दर्श--पूर्ण-मासौ᳓ य᳓जते  
+से᳓न्द्राव् एवै᳓नौ यजते ।  
+श्व᳓श्-श्वो ऽस्मा ईजाना᳓य व᳓सीयो भवति ।
  ।
 </details>
 
@@ -162,8 +161,8 @@ and day after day it becomes better for him who has so sacrificed.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा वै यद् य॒ज्ञेऽकु॑र्वत ।  
-तद् असु॑रा अकुर्वत ।
+देवा᳓ वै᳓ य᳓द् यज्ञे᳓ऽकुर्वत ।  
+त᳓द् अ᳓सुरा अकुर्वत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -179,10 +178,10 @@ What the gods did at the sacrifice, the Asuras did.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वा ए॒ताम् इष्टि॑म् अपश्यन् -  
-आग्नावैष्ण॒वम् एका॑दश-कपालं॒,  
-सर॑स्वत्यै च॒रुँ,  
-सर॑स्वते च॒रुम्।
+ते᳓ देवा᳓ एता᳓म् इ᳓ष्टिम् अपश्यन् -  
+आग्नावैष्णव᳓म् ए᳓कादश-कपालं,  
+स᳓रस्वत्यै चरुँ᳓,  
+स᳓रस्वते चरु᳓म्।
  ।
 </details>
 
@@ -224,7 +223,7 @@ an oblation for Sarasvant;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम् पौ॑र्णमा॒सँ सँ॒स्थाप्यानु॒ निर॑वपन् ।  
+ता᳓म् पौर्णमासँ᳓ सँस्था᳓प्या᳓नु नि᳓रवपन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -252,15 +251,11 @@ after performing the full moon (sacrifice) they offered this.
 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/3_darsha-pUrNa-mAsAdi/05_Ajya-grahaNam/tato_devA_abhavan.md">
-
-<details open><summary><h5>ततो॑ दे॒वा अभ॑वन् ...{Loading}...</h5></summary>
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/3_darsha-pUrNa-mAsAdi/05_Ajya-grahaNam/tato_devA_abhavan.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॑ दे॒वा अभ॑वन्न् +++(←`चादिलोपे विभाषा`)+++,  
-पराऽसु॑राः +++(चाभवन्)+++।
- ।
+त᳓तो देवा᳓ अ᳓भव᳓न्न् +++(←`चादिलोपे विभाषा`)+++,  
+प᳓रा᳓ऽसुराः +++(चाभवन्)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -288,7 +283,6 @@ _________________________________
 
 देवानां यज्ञं दृष्ट्वा तथैवानुचरतामसुराणां देवसमानं विजयं दृष्ट्वा देवास्तानसुरान्वञ्चयित्वाऽनुष्ठितेनानुनिर्वाप्येण स्वयं विजयं प्राप्ता असुराश्च पराभूताः। 
 </details>
-</details>
 </div>
 
 <details><summary>पद-पाठः</summary>
@@ -299,8 +293,8 @@ _________________________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो भ्रातृ॑व्यवा॒न्त् स्यात्-  
-स पौ॑र्णमा॒सँ सँ॒स्थाप्यै॒ताम् इष्टि॒म् अनु॒ निर्व॑पेत् ।  
+यो᳓ भ्रा᳓तृव्यवान्त् स्या᳓त्-  
+स᳓ पौर्णमासँ᳓ सँस्था᳓प्यैता᳓म् इ᳓ष्टिम् अ᳓नु नि᳓र्वपेत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -323,10 +317,10 @@ after performing the full moon (sacrifice).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पौ॒र्ण॒मा॒सेनै॒व वज्र॒म् भ्रातृ॑व्याय प्र॒हृत्या॑ग्नावैष्ण॒वेन॑  
-दे॒वता॑श् च य॒ज्ञञ्च॒ भ्रातृ॑व्यस्य वृङ्क्ते,  
-मि॒थु॒नान् प॒शून्त् सा॑रस्व॒ताभ्यां॒  
-याव॑द् ए॒वास्यास्ति॒
+पौर्णमासे᳓नैव᳓ व᳓ज्रम् भ्रा᳓तृव्याय प्रहृ᳓त्याग्नावैष्णवे᳓न  
+देव᳓ताश् च यज्ञ᳓ञ्च भ्रा᳓तृव्यस्य वृङ्क्ते,  
+मिथुना᳓न् पशू᳓न्त् सारस्वता᳓भ्यां  
+या᳓वद् एवा᳓स्या᳓स्ति
  ।
 </details>
 
@@ -345,7 +339,7 @@ his pairing cattle - with (the offerings) to Sarasvati and Sarasvant.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् सर्वव्ँ॑ वृङ्क्ते ।
+त᳓त् स᳓र्वव्ँ वृङ्क्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -382,8 +376,8 @@ Whatever he has, all that [2] he appropriates.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पौ॒र्ण॒मा॒सीम् ए॒व य॑जेत ।  
-भ्रातृ॑व्यवा॒न् नामा॑वा॒स्याँ॑ ह॒त्वा
+पौर्णमासी᳓म् एव᳓ यजेत ।  
+भ्रा᳓तृव्यवान् ना᳓मावास्याँ᳙ हत्वा᳓
 </details>
 
 <details><summary>Keith</summary>
@@ -399,7 +393,7 @@ if one has enemies, not at the new moon;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भ्रातृ॑व्य॒न् ना प्या॑ययति ।
+भ्रा᳓तृव्यन् ना᳓ प्याययति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -438,7 +432,7 @@ having slain one's enemy one does not cause him to grow again.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा॒क॒म्-प्र॒स्था॒यीये॑न यजेत प॒शुका॑मः ।  
+साकम्-प्रस्थायी᳓येन यजेत पशु᳓कामः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -470,9 +464,9 @@ He who desires cattle should sacrifice with the Sakamprasthayiya.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस्मै॒ वा अल्पे॑ना॒हर॑न्ति॒,  
-नात्मना॒ तृप्य॑ति ।  
-नान्यस्मै॑ ददाति ।
+य᳓स्मै वा᳓ अ᳓ल्पेनाह᳓रन्ति,  
+ना᳓त्म᳓ना तृ᳓प्यति ।  
+ना᳓न्य᳓स्मै ददाति ।
  ।
 </details>
 
@@ -498,9 +492,9 @@ and does not give to another.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस्मै॑ मह॒ता तृप्य॑ति,  
-आ॒त्मना॒ ददा॑ति,  
-अ॒न्यस्मै॑ मह॒ता।
+य᳓स्मै महता᳓ तृ᳓प्यति,  
+आत्म᳓ना द᳓दाति,  
+अन्य᳓स्मै महता᳓।
  ।
 </details>
 
@@ -536,7 +530,7 @@ and gives to another.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒र्णँ हो॑त॒व्य॑म्  ।
+पूर्णँ᳓ होतव्य᳙म्  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -551,7 +545,7 @@ One should offer in full and large measure;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तृ॒प्त ए॒वैन॒म् इन्द्रᳶ॑ प्र॒जया॑ प॒शुभि॑स् तर्पयति  ।
+तृप्त᳓ एवै᳓नम् इ᳓न्द्रᳶ प्रज᳓या पशु᳓भिस् तर्पयति  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -586,7 +580,7 @@ Indra then being pleased delights him with offspring and cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दा॒रु॒पा॒त्रेण॑ जुहोति ।  
+दारुपात्रे᳓ण जुहोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -616,7 +610,7 @@ He offers with a wooden vessel,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि मृ॒न्मय॒म् आहु॑तिम् आनशे ।  
+न᳓ हि᳓ मृन्म᳓यम् आ᳓हुतिम् आनशे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -647,7 +641,7 @@ for an earthenware one does not hold the offering.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-औदु॑म्बरम् भवति 
+औ᳓दुम्बरम् भवति 
 </details>
 
 <details><summary>Keith</summary>
@@ -662,8 +656,8 @@ It is of Udumbara wood [3];
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊर्ग् वा उ॑दु॒म्बरः॑   
-ऊर्क् प॒शवः॑ ।
+ऊ᳓र्ग् वा᳓ उदुम्ब᳓रः   
+ऊर्क् पश᳓वः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -679,7 +673,7 @@ cattle are strength;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्जैवास्मा॒ ऊर्ज॑म् प॒शूनव॑ रुन्द्धे ।
+ऊर्जै᳓वा᳓स्मा ऊ᳓र्जम् पशू᳓न᳓व रुन्द्धे ।
  । ।
 </details>
 
@@ -719,8 +713,8 @@ verily by strength he wins for him strength and cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाग॑तश्रीर् महे॒न्द्रय्ँ य॑जेत   
-त्रयो॒ वै ग॒तश्रि॑यश्- शुश्रु॒वान् ग्रा॑म॒णी रा॑ज॒न्यः॑।  
+ना᳓गतश्रीर् महेन्द्रय्ँ᳓ यजेत   
+त्रयो वै᳓ गत᳓श्रियश्- शुश्रुवा᳓न् ग्रामणी᳓ राजन्यः᳙।  
 </details>
 
 <details><summary>Keith</summary>
@@ -752,7 +746,7 @@ a learned (Brahman), a village headman, and a warrior.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषा॑म् महे॒न्द्रो दे॒वता॑ ।  
+ते᳓षाम् महेन्द्रो᳓ देव᳓ता ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -789,9 +783,9 @@ Their deity is Mahendra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै स्वान् दे॒वता॑म् अति॒यज॑ते॒  
-प्र स्वायै॑ दे॒वता॑यै च्यवते ।  
-न परा॒म् प्राप्नो॑ति ।
+यो᳓ वै᳓ स्वा᳓न् देव᳓ताम् अतिय᳓जते  
+प्र᳓ स्वा᳓यै देव᳓तायै च्यवते ।  
+न᳓ प᳓राम् प्रा᳓प्नोति ।
  ।
 </details>
 
@@ -827,7 +821,7 @@ and does not obtain another,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पापी॑यान् भवति ।  
+पा᳓पीयान् भवति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -864,8 +858,8 @@ and becomes worse.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सव्ँ॒व॒त्स॒रम् इन्द्रय्ँ॑ यजेत ।  
-सव्ँ॒व॒त्स॒रँ हि व्र॒तन् नाति॑।  
+सव्ँवत्सर᳓म् इ᳓न्द्रय्ँ यजेत ।  
+सव्ँवत्सरँ᳓ हि᳓ व्रत᳓न् ना᳓ति।  
 </details>
 
 <details><summary>Keith</summary>
@@ -897,8 +891,8 @@ For a year one should sacrifice to Indra, for the vow extends not beyond the yea
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वैवैन॑न्दे॒वते॒ज्यमा॑ना॒ भूत्या॑ इन्द्धे ।  
-वसी॑यान्भवति ।  
+स्वै᳓वै᳓नन्देव᳓तेज्य᳓माना भू᳓त्या इन्द्धे ।  
+व᳓सीयान्भवति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -938,8 +932,8 @@ and he becomes richer.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सव्ँ॒व॒त्स॒रस्य॑ प॒रस्ता॑द् +++(=पश्चात्)+++  
-अ॒ग्नये॑ व्र॒तप॑तये पुरो॒डाश॑म् अ॒ष्टाक॑पाल॒न् निर्व॑पेत् ।  
+सव्ँवत्सर᳓स्य पर᳓स्ताद् +++(=पश्चात्)+++  
+अग्न᳓ये व्रत᳓पतये पुरोडा᳓शम् अष्टा᳓कपालन् नि᳓र्वपेत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -964,8 +958,8 @@ After the year he should offer a cake on eight potsherds to Agni, lord of vows;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सव्ँ॒व॒त्स॒रम् ए॒वैनव्ँ॑ वृ॒त्रञ् ज॑घ्नि॒वाँस॑म्  
-अ॒ग्निर् व्र॒त-प॑तिर् व्र॒तम् आ ल॑म्भयति।  
+सव्ँवत्सर᳓म् एवै᳓नव्ँ वृत्र᳓ञ् जघ्निवाँ᳓सम्  
+अग्नि᳓र् व्रत᳓-पतिर् व्रत᳓म् आ᳓ लम्भयति।  
 </details>
 
 <details><summary>Keith</summary>
@@ -996,7 +990,7 @@ causes him to take up the vow who has slain his foe (vrtra).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो ऽधि॒ कामय्ँ॑ यजेत ॥  
+त᳓तो᳓ ऽधि का᳓मय्ँ यजेत ॥  
 </details>
 
 <details><summary>Keith</summary>

@@ -1,6 +1,5 @@
 +++
 title = "१० सदो निर्माणम्"
-
 +++
 
 सोमऋषिः  
@@ -12,7 +11,7 @@ title = "१० सदो निर्माणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व इत्यभ्रि॒मा द॑त्ते॒ प्रसू॑त्यै ।  
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसव᳓ इ᳓त्य᳓भ्रिमा᳓ दत्ते प्र᳓सूत्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -27,7 +26,7 @@ title = "१० सदो निर्माणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्विनो॑र् बा॒हुभ्या॒मित्या॑ह ।  
+अश्वि᳓नोर् बाहु᳓भ्यामि᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -42,7 +41,7 @@ title = "१० सदो निर्माणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता॑म् ।  
+अश्वि᳓नौ हि᳓ देवा᳓नामध्वर्यू᳓ आ᳓स्ताम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -57,7 +56,7 @@ for the Aśvins were the priests of the gods.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒ष्णो हस्ता॑भ्या॒मित्या॑ह॒ , यत्यै॑ ।  
+पूष्णो᳓ ह᳓स्ताभ्यामि᳓त्याह , य᳓त्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -72,7 +71,7 @@ for the Aśvins were the priests of the gods.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वज्र॑ इव॒ वा ए॒षा यदभ्रि॒रभ्रि॑रसि॒ नारि॑र॒सीत्या॑ह॒ , शान्त्यै॑ ।
+व᳓ज्र इव वा᳓ एषा᳓ य᳓द᳓भ्रिर᳓भ्रिरसि ना᳓रिरसी᳓त्याह , शा᳓न्त्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -98,7 +97,6 @@ Now the spade is as it were a bolt; 'Thou art the spade; thou art the, woman', h
 वज्रः॑ । इ॒व॒ । वै । ए॒षा । यत् । अभ्रिः॑ । अभ्रिः॑ । अ॒सि॒ । नारिः॑ । अ॒सि॒ । इति॑ । आ॒ह॒ । शान्त्यै॑ ।  
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1देवस्य त्वेत्यादिविधिः ॥ खनित्रमभ्रिं औदुम्बर्यवटपरिलेखनार्थमादत्ते अनेन सावित्रेण मन्त्रेण । तत्प्रसूत्यै सवितुर्देवस्यानुज्ञानाय भवति । 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् । अश्विनोरित्यादि । गतम् । यत्यै नियतत्वाय तद्भवति । आयुधत्वाद्वज्रतुल्या अभ्रिः । शान्त्या इति । अपां भरणात् 'बिभर्तेरन् रिश्च' इति वचनात् स्त्रीत्वेन चाभ्रीणां शान्तिर्भवति ॥
@@ -112,7 +110,7 @@ Now the spade is as it were a bolt; 'Thou art the spade; thou art the, woman', h
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-काण्डे॑काण्डे॒ वै क्रि॒यमा॑णे य॒ज्ञँ रक्षाँ॑सि जिघाँसन्ति॒
+का᳓ण्डेकाण्डे वै᳓ क्रिय᳓माणे यज्ञँ᳓ र᳓क्षाँसि जिघाँसन्ति
 </details>
 
 <details><summary>Keith</summary>
@@ -127,7 +125,7 @@ Now, as each part is performed, the Raksases seek to injure the sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परि॑लिखितँ॒ रक्ष॒ᳶ परि॑लिखिता॒ अरा॑तय॒ इत्या॑ह॒ रक्ष॑सा॒मप॑हत्यै ।[49]  
+प᳓रिलिखितँ र᳓क्षᳶ प᳓रिलिखिता अ᳓रातय इ᳓त्याह र᳓क्षसाम᳓पहत्यै ।[49]  
 </details>
 
 <details><summary>Keith</summary>
@@ -142,7 +140,7 @@ Now, as each part is performed, the Raksases seek to injure the sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒दम॒हँ रक्ष॑सो ग्री॒वा अपि॑ कृन्तामि॒,  यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन् द्वि॒ष्म इत्या॑ह॒   
+इद᳓महँ᳓ र᳓क्षसो ग्रीवा᳓ अ᳓पि कृन्तामि,  यो᳙ऽस्मान्द्वेष्टि य᳓ञ्च वय᳓न् द्विष्म᳓ इ᳓त्याह   
 </details>
 
 <details><summary>Keith</summary>
@@ -157,7 +155,7 @@ Now, as each part is performed, the Raksases seek to injure the sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वौ वाव पुरु॑षौ॒ यञ्चै॒व द्वेष्टि॒ यश्चै॑न॒न्द्वेष्टि॒ , तयो॑रे॒वान॑न्तरायङ्ग्री॒वाᳵ कृ॑न्तति ।
+द्वौ᳓ वा᳓व᳓ पु᳓रुषौ य᳓ञ्चैव᳓ द्वे᳓ष्टि य᳓श्चैनन्द्वे᳓ष्टि , त᳓योरेवा᳓नन्तरायङ्ग्रीवाᳵ᳓ कृन्तति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -210,19 +208,15 @@ there are two people, he whom he hates and he who hates him; verily straightway 
 इ॒दम् । अ॒हम् । रक्ष॑सः । ग्री॒वाः । अपीति॑ । कृ॒न्ता॒मि॒ । यः । अ॒स्मान् । द्वेष्टि॑ । यम् । च॒ । व॒यम् । द्वि॒ष्मः । इति॑ । आ॒ह॒ । द्वौ । वाव । पुरु॑षौ । यम् । च॒ । ए॒व । द्वेष्टि॑ । यः । च॒ । ए॒न॒म् । द्वेष्टि॑ । तयोः॑ । ए॒व । अन॑न्तराय॒मित्यन॑न्तः-आ॒य॒म् । ग्री॒वाः । कृ॒न्त॒ति॒ ।   
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इदमहमित्यादि ॥ व्याख्यातम् । +++(सम्पादकटिप्पनी - प्रथमे काण्डे , द्वितीये प्रपाठके ।)+++ अनन्तरायं अव्यवधानेन ग्रीवाश्छिनत्ति ॥
 </details>
 
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
  － परि॑लिखितँ॒ रक्ष॒ᳶ परि॑लिखिता॒ अरा॑तय इ॒दम॒हँ रक्ष॑सो ग्री॒वा अपि॑ कृन्तामि॒ यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्म इ॒दम॑स्य ग्री॒वाः [11] अपि॑ कृन्तामि
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 9पदं परिलिखति - परिलिखितमिति ॥ परिलिखितं परितो नाशितं रक्षोस्तु यदत्र छिद्रान्वेषि । 'गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वम् । किच्च अरातयो धनस्यादातारः शत्रवः । वहुळवचनात्कर्तरि क्तिन् । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । तेपि परिलिखितास्सन्तु अनेन पदविलेखनेन ।
@@ -239,7 +233,7 @@ there are two people, he whom he hates and he who hates him; verily straightway 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि॒वे त्वा॒ , ऽन्तरि॑क्षाय त्वा , पृथि॒व्यै त्वेत्या॑ह - ए॒भ्य ए॒वैनाल्ँ॑ लो॒केभ्य॒ᳶ प्रोक्ष॑ति ।  
+दिवे᳓ त्वा , ऽन्त᳓रिक्षाय त्वा , पृथिव्यै᳓ त्वे᳓त्याह - एभ्य᳓ एवै᳓नाल्ँ लोके᳓भ्यᳶ प्रो᳓क्षति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -254,7 +248,7 @@ there are two people, he whom he hates and he who hates him; verily straightway 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒रस्ता॑द॒र्वाची॒म् प्रोक्ष॑ति ।  
+पर᳓स्तादर्वा᳓चीम् प्रो᳓क्षति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -269,7 +263,7 @@ He anoints from the top downwards;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑त् प॒रस्ता॑द् अ॒र्वाची॑म् मनु॒ष्या॑ ऊर्ज॒मुप॑ जीवन्ति ।[50]
+त᳓स्मात् पर᳓स्ताद् अर्वा᳓चीम् मनुष्या᳙ ऊर्जमु᳓प जीवन्ति ।[50]
 </details>
 
 <details><summary>Keith</summary>
@@ -301,7 +295,7 @@ therefore [2] men live on strength from the top downwards.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्रू॒रमि॑व॒ वा ए॒तत् क॑रोति॒ , यत् खन॑त्य॒पोऽव॑ नयति॒ , शान्त्यै॑ ।  
+क्रूर᳓मिव वा᳓ एत᳓त् करोति , य᳓त् ख᳓नत्यपो᳓ऽव नयति , शा᳓न्त्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -316,7 +310,7 @@ Now he does a cruel deed in that he digs; he pours down water, for atonement.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यव॑मती॒रव॑ नय॒त्यूर्ग्वै यव॒ ऊर्गु॑दु॒म्बर॑ ऊ॒र्जैवोर्जँ॒ सम॑र्धयति ।  
+य᳓वमतीर᳓व नयत्यू᳓र्ग्वै᳓ य᳓व ऊ᳓र्गुदुम्ब᳓र ऊर्जै᳓वो᳓र्जँ स᳓मर्धयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -349,7 +343,7 @@ He pours down (water) mixed with barley; barley is strength, the Udumbara is str
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानेन॒ सम्मि॒तौदु॑म्बरी भवति ।  
+य᳓जमानेन स᳓म्मितौ᳓दुम्बरी भवति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -364,7 +358,7 @@ He pours down (water) mixed with barley; barley is strength, the Udumbara is str
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यावा॑ने॒व यज॑मान॒स् ताव॑तीम् ए॒वास्मि॒न्न् ऊर्ज॑न्दधाति ।
+या᳓वानेव᳓ य᳓जमानस् ता᳓वतीम् एवा᳓स्मिन्न् ऊ᳓र्जन्दधाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -395,7 +389,7 @@ As great as is the sacrificer, so much strength does he put in it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पि॒तृ॒णाँ सद॑नम॒सीति॑ ब॒र्हिरव॑ स्तृणाति , पितृदेव॒त्यँ॑ ह्ये॑तद् यन् निखा॑तम् ।[51]  
+पितृणाँ᳓ स᳓दनमसी᳓ति बर्हि᳓र᳓व स्तृणाति , पितृदेवत्यँ᳙ ह्येत᳓द् य᳓न् नि᳓खातम् ।[51]  
 </details>
 
 <details><summary>Keith</summary>
@@ -410,7 +404,7 @@ As great as is the sacrificer, so much strength does he put in it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् ब॒र्हिरन॑वस्तीर्य मिनु॒यात् ,
+य᳓द् बर्हि᳓र᳓नवस्तीर्य मिनुया᳓त् ,
 </details>
 
 <details><summary>Keith</summary>
@@ -425,7 +419,7 @@ If he were to set it up without strewing, it would be dug in and have the Pitrs 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पि॑तृदेव॒त्या॑ निखा॑ता स्यात् ।  
+पि᳓तृदेवत्या᳙ नि᳓खाता स्यात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -440,7 +434,7 @@ he sets it up after strewing;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिर॑व॒स्तीर्य॑ मिनोत्य् अ॒स्यामे॒वैना॑म् मिनो॒ति ।  
+बर्हि᳓रवस्ती᳓र्य मिनोत्य् अस्या᳓मेवै᳓नाम् मिनोति᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -455,7 +449,7 @@ verily he sets it up in this (earth),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॑ स्वा॒रुह॑म् ए॒वैना॑ङ् करो॒ति ।  
+अ᳓थो स्वारु᳓हम् एवै᳓नाङ् करोति᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -493,7 +487,7 @@ and makes it firm-rooted.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद्दिवँ॑ स्तभा॒नान्तरि॑क्षम् पृ॒णेत्या॑ह । ए॒षाल्ँ लो॒कानाव्ँ॒ विधृ॑त्यै ।
+उ᳓द्दि᳓वँ स्तभाना᳓न्त᳓रिक्षम् पृणे᳓त्याह । एषाल्ँ᳓ लोका᳓नाव्ँ वि᳓धृत्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -526,7 +520,7 @@ and makes it firm-rooted.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्यु॒ता॒नस् त्वा॑ मारु॒तो मि॑नो॒त्वित्या॑ह ।
+द्युतान᳓स् त्वा मारुतो᳓ मिनोत्वि᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -541,7 +535,7 @@ and makes it firm-rooted.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्यु॒ता॒नो ह॑ स्म॒ वै मा॑रु॒तो दे॒वाना॒म् - औदु॑म्बरीम् मिनोति । तेन + ए॒वैना॑म् मिनोति । [52]  
+द्युतानो᳓ ह स्म वै᳓ मारुतो᳓ देवा᳓नाम् - औ᳓दुम्बरीम् मिनोति । ते᳓न᳓ + एवै᳓नाम् मिनोति । [52]  
 </details>
 
 <details><summary>Keith</summary>
@@ -561,7 +555,6 @@ Dyutana Maruta was wont to set up the Udumbara (post) of the gods; verily [4] by
 तेन॑ । ए॒व । [52] ए॒ना॒म् । मि॒नो॒ति॒ ।   
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8द्युतान इति ॥ द्युताननामा मारुतः देवानामौदुम्बरीं मिनोति अमिनोत् । मिनोतेर्व्यत्ययेन लट् । तेनैवैनां मिनोति । मापयति वा तेन सहायेन सह विमिनोति ॥
@@ -574,7 +567,7 @@ Dyutana Maruta was wont to set up the Udumbara (post) of the gods; verily [4] by
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वनि॑न् त्वा क्षत्र॒वनि॒मित्या॑ह , यथाय॒जुर् ए॒वैतत् ।  
+ब्रह्मव᳓निन् त्वा क्षत्रव᳓निमि᳓त्याह , यथायजु᳓र् एवै᳓त᳓त् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -589,7 +582,7 @@ Dyutana Maruta was wont to set up the Udumbara (post) of the gods; verily [4] by
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृ॒तेन॑ द्यावापृथिवी॒ आ पृ॑णेथा॒मित्यौदु॑म्बर्याञ् जुहोति॒ , द्यावा॑पृथि॒वी ए॒व रसे॑नानक्ति ।  
+घृते᳓न द्यावापृथिवी आ᳓ पृणेथामि᳓त्यौ᳓दुम्बर्याञ् जुहोति , द्या᳓वापृथिवी᳓ एव᳓ र᳓सेनानक्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -621,7 +614,7 @@ Dyutana Maruta was wont to set up the Udumbara (post) of the gods; verily [4] by
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒न्तम् अ॒न्वव॑स्रावयत्य् - आ॒न्तमे॒व यज॑मान॒न् तेज॑सा ऽनक्ति ।
+आन्त᳓म् अन्व᳓वस्रावयत्य् - आन्त᳓मेव᳓ य᳓जमानन् ते᳓जसा ऽनक्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -651,7 +644,7 @@ He makes it run right to the end; verily completely does he anoint the sacrifice
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्रम् अ॒सीति॑ छ॒दिरधि॒ नि द॑धात्य् , ऐ॒न्द्रँ हि दे॒वत॑या॒ सदः॑ ।  
+ऐन्द्र᳓म् असी᳓ति छदि᳓र᳓धि नि᳓ दधात्य् , ऐन्द्रँ᳓ हि᳓ देव᳓तया स᳓दः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -681,7 +674,7 @@ He makes it run right to the end; verily completely does he anoint the sacrifice
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒श्व॒ज॒नस्य॑ छा॒येत्या॑ह ।
+विश्वजन᳓स्य छाये᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -696,7 +689,7 @@ He makes it run right to the end; verily completely does he anoint the sacrifice
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒श्व॒ज॒नस्य॒ ह्ये॑षा छा॒या यत् सदः॑ ।  
+विश्वजन᳓स्य ह्ये᳙षा छाया᳓ य᳓त् स᳓दः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -729,7 +722,7 @@ for the seat is the shade of all folk.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नव॑छदि तेज॑स्कामस्य मिनुयात् त्रि॒वृता॒ स्तोमे॑न॒ सम्मि॑त॒न् तेज॑स्त्रि॒वृत् ते॑ज॒स्व्ये॑व भ॑व॒ति ।[53]  
+न᳓वछ᳓दि᳓ ते᳓जस्कामस्य मिनुयात् त्रिवृ᳓ता स्तो᳓मेन स᳓म्मितन् ते᳓जस्त्रिवृ᳓त् तेजस्व्ये᳙व᳓ भवति᳓ ।[53]  
 </details>
 
 <details><summary>Keith</summary>
@@ -761,7 +754,7 @@ for the seat is the shade of all folk.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एका॑दशछदीन्द्रि॒यका॑मस्य ।  
+ए᳓कादशछदीन्द्रिय᳓कामस्य ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -776,7 +769,7 @@ one of eleven coverings (he should fix) for one who desires power;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एका॑दशाक्षरा त्रि॒ष्टुग् , इ॑न्द्रि॒यन् त्रि॒ष्टुग् , इ॑न्द्रिया॒व्ये॑व भ॑वति ।  
+ए᳓कादशाक्षरा त्रिष्टु᳓ग् , इन्द्रिय᳓न् त्रिष्टु᳓ग् , इन्द्रियाव्ये᳙व᳓ भवति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -807,7 +800,7 @@ the Tristubh has eleven syllables, the Tristubh is power; verily he becomes powe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्च॑दशछदि॒ भ्रातृ॑व्यवतᳶ , पञ्चद॒शो वज्रो॒ भ्रातृ॑व्याभिभूत्यै।  
+प᳓ञ्चदशछदि भ्रा᳓तृव्यवतᳶ , पञ्चदशो᳓ व᳓ज्रो भ्रा᳓तृव्याभिभूत्यै।  
 </details>
 
 <details><summary>Keith</summary>
@@ -837,7 +830,7 @@ the Tristubh has eleven syllables, the Tristubh is power; verily he becomes powe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्तद॑शछदि प्र॒जाका॑मस्य , सप्तद॒शᳶ प्र॒जाप॑तिᳶ , प्र॒जाप॑ते॒राप्त्यै॑ ।   
+सप्त᳓दशछदि प्रजा᳓कामस्य , सप्तदशᳶ᳓ प्रजा᳓पतिᳶ , प्रजा᳓पतेरा᳓प्त्यै ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -867,7 +860,7 @@ the Tristubh has eleven syllables, the Tristubh is power; verily he becomes powe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एक॑विँशतिछदि प्रति॒ष्ठाका॑मस्य + ए॒क॒विँ॒शस् स्तोमा॑नाम् प्रति॒ष्ठा , प्रति॑ष्ठित्यै ।  
+ए᳓कविँशतिछदि प्रतिष्ठा᳓कामस्य + एकविँश᳓स् स्तो᳓मानाम् प्रतिष्ठा᳓ , प्र᳓तिष्ठित्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -898,7 +891,7 @@ the Tristubh has eleven syllables, the Tristubh is power; verily he becomes powe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒दरव्ँ॒ वै सद॒ ऊर्गु॑दु॒म्बरो॑ मध्य॒त औदु॑म्बरीम् मिनोति ।  
+उद᳓रव्ँ वै᳓ स᳓द ऊ᳓र्गुदुम्ब᳓रो मध्यत᳓ औ᳓दुम्बरीम् मिनोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -913,7 +906,7 @@ The Sadas is the stomach, the Udumbara is strength, in the middle he fixes (the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒ध्य॒त॒ ए॒व प्र॒जाना॒मूर्ज॑न् दधाति ।  
+मध्यत एव᳓ प्रजा᳓नामू᳓र्जन् दधाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -928,7 +921,7 @@ verily he places strength in the midst of offspring;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑न् मध्य॒त ऊ॒र्जा भु॑ञ्जते ।[54]
+त᳓स्मान् मध्यत᳓ ऊर्जा᳓ भुञ्जते ।[54]
 </details>
 
 <details><summary>Keith</summary>
@@ -961,7 +954,7 @@ therefore [6] in the middle they enjoy strength.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज॒मा॒न॒लो॒के वै दक्षि॑णानि छ॒दीँषि॑ भ्रातृव्यलो॒क उत्त॑राणि॒ दक्षि॑णा॒न्युत्त॑राणि करोति ।  
+यजमानलोके᳓ वै᳓ द᳓क्षिणानि छदीँ᳓षि भ्रातृव्यलोक᳓ उ᳓त्तराणि द᳓क्षिणान्यु᳓त्तराणि करोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -976,7 +969,7 @@ In the world of the sacrificer are the southern coverings, in that of his foe ar
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानमे॒वाय॑जमाना॒द् उत्त॑रङ् करोति॒ ।  
+य᳓जमानमेवा᳓यजमानाद् उ᳓त्तरङ् करोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -991,7 +984,7 @@ verily he makes the sacrificer higher than the man who does not sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् यज॑मा॒नोऽय॑जमाना॒दुत्त॑रः ।
+त᳓स्माद् य᳓जमानो᳓ऽयजमानादु᳓त्तरः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1025,7 +1018,7 @@ therefore the sacrificer is higher than the man who does not sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्त॒र्व॒र्तान् क॑रोति॒ व्यावृ॑त्त्यै ।  
+अन्तर्वर्ता᳓न् करोति व्या᳓वृत्त्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1040,7 +1033,7 @@ He fills up the crevices, for distinction;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒दर॑ण्यम् प्र॒जा उप॑ जीवन्ति ।  
+त᳓स्माद᳓रण्यम् प्रजा᳓ उ᳓प जीवन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1071,7 +1064,7 @@ therefore people depend on the forest.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"परि॑ त्वा गिर्वणो॒ गिर॒" इत्या॑ह । य॒था॒य॒जुर् ए॒वैतत् ।
+"प᳓रि त्वा गिर्वणो गि᳓र" इ᳓त्याह । यथायजु᳓र् एवै᳓त᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1101,7 +1094,7 @@ therefore people depend on the forest.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य॒ स्यूर॒सीन्द्र॑स्य ध्रु॒वम॒सीत्या॑ह , ऐ॒न्द्रँ हि दे॒वत॑या॒ सदः ।  
+इ᳓न्द्रस्य स्यू᳓रसी᳓न्द्रस्य ध्रुव᳓मसी᳓त्याह , ऐन्द्रँ᳓ हि᳓ देव᳓तया स᳓दः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1116,7 +1109,7 @@ therefore people depend on the forest.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यम् प्र॑थ॒मङ् ग्र॒न्थिङ् ग्र॑थ्नी॒याद् यत् तन्न वि॑स्रँ॒सये॒दमे॑हेनाध्व॒र्युᳶ प्र मी॑येत॒ तस्मा॒त् स वि॒स्रस्यः॑ ॥ [55]  
+य᳓म् प्रथम᳓ङ् ग्रन्थि᳓ङ् ग्रथ्नीया᳓द् य᳓त् त᳓न्न᳓ विस्रँस᳓येद᳓मेहेनाध्वर्युᳶ᳓ प्र᳓ मीयेत त᳓स्मात् स᳓ विस्र᳓स्यः ॥ [55]  
 </details>
 
 <details><summary>Keith</summary>

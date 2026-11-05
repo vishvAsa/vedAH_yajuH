@@ -5,7 +5,7 @@ unicode_script: devanagari
 ---
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒र्थेत॒स्स्थे"ति॑ जुहोति ।
+"अर्थे᳓तस्स्थे᳓"ति जुहोति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -20,7 +20,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आहु॑त्यै॒वैना॑ नि॒ष्क्रीय॑ गृह्णाति ।
+आ᳓हुत्यैवै᳓ना निष्क्री᳓य गृह्णाति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -35,7 +35,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॑ ह॒विष्कृ॑तानाम् ए॒वाभिघृ॑तानाङ्गृह्णाति ।
+अ᳓थो हवि᳓ष्कृतानाम् एवा᳓भि᳓घृतानाङ्गृह्णाति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -50,7 +50,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वह॑न्तीनाङ्गृह्णाति ।
+व᳓हन्तीनाङ्गृह्णाति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -65,7 +65,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ता वा अ॒पाँ रा॒ष्ट्रम् । रा॒ष्ट्रम् ए॒वास्मै॑ गृह्णाति ।
+एता᳓ वा᳓ अपाँ᳓ राष्ट्र᳓म् । राष्ट्र᳓म् एवा᳓स्मै गृह्णाति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -80,7 +80,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ श्रिय॑म् ए॒वैन॑म् अ॒भि-व॑हन्ति ।
+अ᳓थो श्रि᳓यम् एवै᳓नम् अभि᳓-वहन्ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -95,7 +95,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒पाम् पति॑र् अ॒सी"त्य् आ॑ह । मि॒थु॒नम् ए॒वाकः॑ ।
+"अपा᳓म् प᳓तिर् असी᳓"त्य् आह । मिथुन᳓म् एवा᳓कः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -108,7 +108,6 @@ unicode_script: devanagari
 2 अपां पतिरसीति ॥ समुद्रात्पून्नदाद्वा शोणादेर्गृह्णाति । मिथुनमेवाकः करोति, पुंस्त्वादेषां स्त्रीत्वाच्चेतरासाम् । 'मन्त्रे घस'इति च्लेर्लुक् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वृषा॑ऽस्यू॒र्मिरित्या॑ह ॥28॥  
@@ -117,7 +116,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"वृषा॑ ऽस्य् ऊ॒र्मिरि"त्य् आ॑होर्मि॒मन्त॑म् ए॒वैन॑ङ् करोति ।
+"वृ᳓षा ऽस्य् ऊर्मि᳓रि᳓"त्य् आहोर्मिम᳓न्तम् एवै᳓नङ् करोति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -132,8 +131,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"वृ॒ष॒से॒नो॑ ऽसी"त्य् आ॑ह ।  
-सेना॑म् ए॒वास्य॒ सँश्य॑ति ।
+"वृषसेनो᳙ ऽसी᳓"त्य् आह ।  
+से᳓नाम् एवा᳓स्य सँ᳓श्यति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -149,7 +148,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"व्र॒ज॒क्षित॒स् स्थे"त्य् आ॑ह ।
+"व्रजक्षि᳓तस् स्थे᳓"त्य् आह ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -162,7 +161,6 @@ unicode_script: devanagari
 व्रजक्षितः इति कूप्या गृह्णाति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ए॒ता वा अ॒पाव्ँ विशः॑ ।
@@ -171,7 +169,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ता वा अ॒पाव्ँ विशो॒ विश॑म् ए॒वास्मै॒ पर्यू॑हति ।
+एता᳓ वा᳓ अपाव्ँ᳓ वि᳓शो वि᳓शम् एवा᳓स्मै प᳓र्यूहति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -186,14 +184,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"म॒रुता॒मोज॒स् स्थे"त्य् आ॑ह ।
+"मरु᳓तामो᳓जस् स्थे᳓"त्य् आह ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 "म॒रुता॒मोज॒स् स्थे"त्य् आ॑ह ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -203,7 +200,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्नव्ँ॒ वै म॒रुतो॒ +अन्न॑म् ए॒वाव॑रुन्धे ।
+अ᳓न्नव्ँ वै᳓ मरु᳓तो +अ᳓न्नम् एवा᳓वरुन्धे ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -216,7 +213,6 @@ unicode_script: devanagari
 मरुतामित्यादि आवर्तजलं गृह्णाति । अन्न हेतवो मरुतः ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सूर्य॑वर्चस॒स्स्थेत्या॑ह ॥29॥  
@@ -225,7 +221,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"सूर्य॑-वर्चस॒स् स्थे"त्य् आ॑ह रा॒ष्ट्रम् ए॒व व॑र्च॒स्व्य॑कः ।
+"सू᳓र्य-वर्चसस् स्थे᳓"त्य् आह राष्ट्र᳓म् एव᳓ वर्चस्व्य᳙कः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -235,14 +231,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"सूर्य॑-त्वचस॒स् स्थे"त्य् आ॑ह ।
+"सू᳓र्य-त्वचसस् स्थे᳓"त्य् आह ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 "सूर्य॑-त्वचस॒स् स्थे"त्य् आ॑ह ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -262,7 +257,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒त्या॒नृ॒ते ए॒वाव॑रुन्धे ।  
+सत्यानृते᳓ एवा᳓वरुन्धे ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -277,8 +272,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नैनँ॑ सत्यानृ॒ते उ॑दि॒ते हिँ॑स्तः ।  
-य ए॒वव्ँ वेद॑ ।
+नै᳓नँ सत्यानृते᳓ उदिते᳓ हिँस्तः ।  
+य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -294,8 +289,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"मान्दा॒स् स्थे"त्य् आ॑ह ।  
-रा॒ष्ट्रम् ए॒व ब्र॑ह्मवर्च॒स्य॑कः ॥30॥  
+"मा᳓न्दास् स्थे᳓"त्य् आह ।  
+राष्ट्र᳓म् एव᳓ ब्रह्मवर्चस्य᳙कः ॥30॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -309,7 +304,6 @@ unicode_script: devanagari
 मान्दा;, इति स्थावरा ह्रादिनीर्वा गृह्णाति । स्थावराणां तटाकादिजलानां ब्रह्मवर्चसवृद्धिहेतुत्वात् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वाशा॒स्स्थेत्या॑ह ।
@@ -318,7 +312,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"वाशा॒स् स्थे"त्य् आ॑ह , रा॒ष्ट्रम् ए॒व व॒श्य॑कः ।
+"वा᳓शास् स्थे᳓"त्य् आह , राष्ट्र᳓म् एव᳓ वश्य᳙कः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -331,7 +325,6 @@ unicode_script: devanagari
 वाशा इत्यवश्यायोदकं गृह्णाति । राष्ट्रमेव वशीकरोति । स्वाधीनत्वे वचनात् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 शक्व॑री॒स्स्थेत्या॑ह ।
@@ -341,8 +334,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"शक्व॑री॒स् स्थे"त्य् आ॑ह ,   
-प॒शवो॒ वै शक्व॑रीᳶ प॒शूने॒वाव॑रुन्धे ।
+"श᳓क्वरीस् स्थे᳓"त्य् आह ,   
+पश᳓वो वै᳓ श᳓क्वरीᳶ पशू᳓नेवा᳓वरुन्धे ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -357,7 +350,6 @@ unicode_script: devanagari
 पशव इति । उल्ब्यानां पशुरक्षणहेतुत्वात् ताच्छब्द्यम् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वि॒श्व॒भृत॒स्स्थेत्या॑ह ।
@@ -366,7 +358,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"वि॒श्व॒भृत॒स् स्थे"त्य् आ॑ह , रा॒ष्ट्रम् ए॒व प॑य॒स्व्य॑कः ।
+"विश्वभृ᳓तस् स्थे᳓"त्य् आह , राष्ट्र᳓म् एव᳓ पयस्व्य᳙कः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -379,7 +371,6 @@ unicode_script: devanagari
 विश्वभृत इति पयो गृह्णाति । राष्ट्रं पयस्वि करोति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ज॒न॒भृत॒स्स्थेत्या॑ह ।
@@ -388,7 +379,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"ज॒न॒भृत॒स् स्थे"त्य् आ॑ह , रा॒ष्ट्रम् ए॒वेन्द्रि॑या॒व्य॑कः ।
+"जनभृ᳓तस् स्थे᳓"त्य् आह , राष्ट्र᳓म् एवे᳓न्द्रियाव्य᳙कः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -401,7 +392,6 @@ unicode_script: devanagari
 जनभृत इति दधि गृह्णाति । राष्ट्रमिन्द्रियावि इन्द्रियवत् करोति । दक्ष इन्द्रियहेतुत्वात् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेस्ते॑ज॒स्या॑स्स्थेत्या॑ह ॥31 ॥  
@@ -410,7 +400,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒ग्नेस्ते॑ज॒स्या॑स् स्थे"त्य् आ॑ह , रा॒ष्ट्रम् ए॒व ते॑ज॒स्व्य॑कः ।
+"अग्ने᳓स्तेजस्या᳙स् स्थे᳓"त्य् आह , राष्ट्र᳓म् एव᳓ तेजस्व्य᳙कः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -423,7 +413,6 @@ unicode_script: devanagari
 अग्नेस्तेजस्या इति घृतं गृह्णाति । राष्ट्रं तेजस्वि करोति, 'तेजो घृतम्' इति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अ॒पामोष॑धीनाँ॒ रस॒स्स्थेत्या॑ह ।
@@ -432,7 +421,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒पामोष॑धीनाँ॒ रस॒स् स्थे"त्य् आ॑ह , रा॒ष्ट्रम् ए॒व म॑ध॒व्य॑मकः ।
+"अपा᳓मो᳓षधीनाँ र᳓सस् स्थे᳓"त्य् आह , राष्ट्र᳓म् एव᳓ मधव्य᳙मकः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -447,14 +436,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा॒र॒स्व॒तङ्ग्रह॑ङ्गृह्णाति ।
+सारस्वत᳓ङ्ग्र᳓हङ्गृह्णाति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 सा॒र॒स्व॒तङ्ग्रह॑ङ्गृह्णाति ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -464,8 +452,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒षा वा अ॒पाम् पृ॒ष्ठय्ँ यत् सर॑स्वती ।  
-पृ॒ष्ठम् ए॒वैनँ॑ समा॒नाना॑ङ् करोति ।
+एषा᳓ वा᳓ अपा᳓म् पृष्ठय्ँ᳓ य᳓त् स᳓रस्वती ।  
+पृष्ठ᳓म् एवै᳓नँ समाना᳓नाङ् करोति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -481,7 +469,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-षो॒ड॒शभि॑र् गृह्णाति । षोड॑शकलो॒ वै पुरु॑षः ।
+षोडश᳓भिर् गृह्णाति । षो᳓डशकलो वै᳓ पु᳓रुषः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -494,7 +482,6 @@ unicode_script: devanagari
 3 षोडशभिरिति ॥ 'अर्थेतः' इत्यादिभिः । षोडशकलः षोडशावयवः पञ्चभिः भूतैः पञ्चभिः ज्ञानेन्द्रियैः पञ्चभिः कर्मेन्द्रियैः मनसा च । यद्वा - चन्द्रः षोडशकलः तदात्मा जीव इति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यावा॑ने॒व पुरु॑षः ।
@@ -503,7 +490,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यावा॑ने॒व पुरु॑ष॒स् तस्मि॑न् वी॒र्य॑न् दधाति ।
+या᳓वानेव᳓ पु᳓रुषस् त᳓स्मिन् वीर्य᳙न् दधाति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -516,7 +503,6 @@ unicode_script: devanagari
 यावानित्यादि । गतम् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 षो॒ड॒शभि॑र्जु॒होति॑ षोड॒शभि॑र्गृह्णाति ।
@@ -525,14 +511,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-षो॒ड॒शभि॑र् जु॒होति॑, षोड॒शभि॑र् गृह्णाति॒ , द्वात्रिँ॑श॒त् सम्प॑द्यन्ते ।
+षोडश᳓भिर् जुहो᳓ति, षोडश᳓भिर् गृह्णाति , द्वा᳓त्रिँशत् स᳓म्पद्यन्ते ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 षो॒ड॒शभि॑र् जु॒होति॑, षोड॒शभि॑र् गृह्णाति॒ , द्वात्रिँ॑श॒त् सम्प॑द्यन्ते ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -542,8 +527,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वात्रिँ॑शदक्षरा ऽनु॒ष्टुग् ,वाग॑नु॒ष्टुप् सर्वा॑णि॒ छन्दाँ॑सि ।   
-वा॒चैवैनँ॒ सर्वे॑भि॒श् छन्दो॑भिर् अ॒भिषि॑ञ्चति ॥32॥  
+द्वा᳓त्रिँशदक्षरा ऽनुष्टु᳓ग् ,वा᳓गनुष्टु᳓प् स᳓र्वाणि छ᳓न्दाँसि ।   
+वाचै᳓वै᳓नँ स᳓र्वेभिश् छ᳓न्दोभिर् अभि᳓षिञ्चति ॥32॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -555,7 +540,6 @@ unicode_script: devanagari
 <details><summary>भट्टभास्कर-टीका</summary>
 
 षोडशभिरिति । एतैरेव जुहोति । एतैरेव गृह्णाति चेति द्वात्रिंशत् भवन्ति । अनुष्टुप्च द्वात्रिंशदक्षरा । सा चानुष्टुप् सर्ववाङ्मयहेतुत्वात् स्वयं वागेव सा च वाक् सर्वाणि छन्दांसि तत्परिणामत्वात् सर्वच्छन्दसाम् । तस्माद्वाचा छन्दोभिश्च यजमानमभिषिञ्चति । द्वात्रिंशत्संख्यान्वयात् वाचो वीर्येण सर्वच्छन्दोवीर्येण चेत्यर्थः ॥
-
 
 इति सप्तमे पञ्चमोऽनुवाकः ॥  
 

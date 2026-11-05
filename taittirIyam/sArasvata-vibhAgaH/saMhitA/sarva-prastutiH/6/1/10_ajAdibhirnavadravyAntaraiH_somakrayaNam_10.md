@@ -1,6 +1,5 @@
 +++
 title = "१० अजादिभिर्नवद्रव्यान्तरैः सोमक्रयणम् १०"
-
 +++
 
 सोमऋषिः
@@ -12,9 +11,9 @@ title = "१० अजादिभिर्नवद्रव्यान्त�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् "क॒लया॑ ते श॒फेन॑ ते क्रीणा॒नी"ति॑   
-पणे॒तागो॑अर्घँ॒ सोम॑ङ् कु॒र्याद् , अगो॑अर्घय्ँ॒ यज॑मान॒म् , अगो॑अर्घमध्व॒र्युम् ।  
-गोस्तु म॑हि॒मान॒न् नाव॑ तिरेत् ।
+य᳓त् "कल᳓या ते शफे᳓न ते क्रीणानी᳓"ति   
+पणेता᳓गोअर्घँ सो᳓मङ् कुर्या᳓द् , अ᳓गोअर्घय्ँ य᳓जमानम् , अ᳓गोअर्घमध्वर्यु᳓म् ।  
+गो᳓स्तु᳓ महिमा᳓नन् ना᳓व तिरेत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -30,7 +29,6 @@ If he were to barter (it) in response (to the words), 'Let me buy with one-sixte
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 यत् । क॒लया॑ । ते । श॒फेन॑ । ते । क्री॒णा॒नि॒ । इति॑ ।   
 पणे॑त । अगो॑अर्घ॒मित्यगो॑-अ॒र्घ॒म् । सोम॑म् । कु॒र्यात् ।   
@@ -53,7 +51,7 @@ If he were to barter (it) in response (to the words), 'Let me buy with one-sixte
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"गवा॑ ते क्रीणा॒नी"त्ये॒व ब्रू॑यात् ।  
+"ग᳓वा ते क्रीणानी᳓"त्येव᳓ ब्रूयात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -68,8 +66,8 @@ If he were to barter (it) in response (to the words), 'Let me buy with one-sixte
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गोअ॒र्घमे॒व सोम॑ङ्क॒रोति॑ , गोअ॒र्घय्ँ यज॑मानङ् , गोअ॒र्घम॑ध्व॒र्युम् ।   
-न गोर्म॑हि॒मान॒मव॑ तिरति ।
+गो᳓अर्घ᳓मेव᳓ सो᳓मङ्करो᳓ति , गोअर्घय्ँ᳓ य᳓जमानङ् , गोअर्घ᳓मध्वर्यु᳓म् ।   
+न᳓ गो᳓र्महिमा᳓नम᳓व तिरति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -105,7 +103,7 @@ verily he makes the Soma worth a cow, the sacrificer worth ### a cow, the Adhvar
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒जया॑ क्रीणाति । सत॑पसमे॒वैन॑ङ् क्रीणाति ।  
+अज᳓या क्रीणाति । स᳓तपसमेवै᳓नङ् क्रीणाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -120,7 +118,7 @@ He buys (it) with a she-goat; verily he buys it full of fervour;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हिर॑ण्येन क्रीणाति । सशु॑क्रमे॒वैन॑ङ् क्रीणाति ।[66]  
+हि᳓रण्येन क्रीणाति । स᳓शुक्रमेवै᳓नङ् क्रीणाति ।[66]  
 </details>
 
 <details><summary>Keith</summary>
@@ -135,7 +133,7 @@ he buys (it) with gold; verily he buys it bright [1];
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धे॒न्वा क्री॑णाति । साशि॑रमे॒वैन॑ङ् क्रीणाति ।  
+धेन्वा᳓ क्रीणाति । सा᳓शिरमेवै᳓नङ् क्रीणाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -150,7 +148,7 @@ he buys (it) with a milch cow; verily he buys it with milk for the mixing:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒ष॒भेण॑ क्रीणाति । सेन्द्र॑मे॒वैन॑ङ् क्रीणाति ।  
+ऋषभे᳓ण क्रीणाति । से᳓न्द्रमेवै᳓नङ् क्रीणाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -165,7 +163,7 @@ he buys (it) with a bull; verily he buys it with Indra;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न॒डुहा॑ क्रीणाति । वह्नि॒र्वा अ॑न॒ड्वान् ।  
+अनडु᳓हा क्रीणाति । व᳓ह्निर्वा᳓ अनड्वा᳓न् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -180,7 +178,7 @@ he buys (it) with a draught ox, the draught ox is the bearer;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वह्नि॑नै॒व वह्नि॑ य॒ज्ञस्य॑ क्रीणाति ।  
+व᳓ह्निनैव᳓ व᳓ह्नि यज्ञ᳓स्य क्रीणाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -195,7 +193,7 @@ verily by the bearer he buys the bearer of the sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒थु॒नाभ्या॑ङ्क्रीणाति । मि॒थु॒नस्याव॑रुद्ध्यै ।  
+मिथुना᳓भ्याङ्क्रीणाति । मिथुन᳓स्या᳓वरुद्ध्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -210,7 +208,7 @@ he buys with two as a pair, to win a pair;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वास॑सा क्रीणाति । स॒र्व॒दे॒वत्यव्ँ॑ वै वासः॑ ।  
+वा᳓ससा क्रीणाति । सर्वदेव᳓त्यव्ँ वै᳓ वा᳓सः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -225,7 +223,7 @@ he buys with a garment, the garment is connected with all the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वा॑भ्य ए॒वैन॑न्दे॒वता॑भ्यᳵ क्रीणाति ।  
+स᳓र्वाभ्य एवै᳓नन्देव᳓ताभ्यᳵ क्रीणाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -240,7 +238,7 @@ verily he buys it for all the gods.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दश॒ सम्प॑द्यन्ते॒ ।
+द᳓श स᳓म्पद्यन्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -255,8 +253,8 @@ These,, make up ten.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दशा॑क्षरा वि॒राट् ।
-अन्नव्ँ॑ वि॒राट् ।  
+द᳓शाक्षरा विरा᳓ट् ।
+अ᳓न्नव्ँ विरा᳓ट् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -272,7 +270,7 @@ The Viraj has ten syllables, the Viraj is food;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒राजै॒वान्नाद्य॒मव॑ रुन्धे ।[67]  
+विरा᳓जैवा᳓न्ना᳓द्यम᳓व रुन्धे ।[67]  
 </details>
 
 <details><summary>Keith</summary>
@@ -337,9 +335,9 @@ verily by the Viraj he wins proper food [2].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"तप॑सस् त॒नूर॑सि प्र॒जाप॑ते॒र्वर्ण॒" इत्या॑ह ।  
-प॒शुभ्य॑ ए॒व तद॑ध्व॒र्युर्नि ह्नु॑ते ,  
-आ॒त्मनोऽना॑व्रस्काय॒ गच्छ॑ति ,
+"त᳓पसस् तनू᳓रसि प्रजा᳓पतेर्व᳓र्ण" इ᳓त्याह ।  
+पशु᳓भ्य एव᳓ त᳓दध्वर्यु᳓र्नि᳓ ह्नुते ,  
+आत्म᳓नो᳓ऽनाव्रस्काय ग᳓च्छति ,
 </details>
 
 <details><summary>Keith</summary>
@@ -356,7 +354,7 @@ verily by the Viraj he wins proper food [2].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रिय॒म् प्र प॒शूना॑प्नोति॒ य ए॒वव्ँ वेद॑ ।    
+श्रि᳓यम् प्र᳓ पशू᳓नाप्नोति य᳓ एवव्ँ᳓ वे᳓द ।    
 </details>
 
 <details><summary>Keith</summary>
@@ -390,7 +388,7 @@ He attains prosperity, be obtains cattle who knows thus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"शु॒क्रन्ते॑ शु॒क्रेण॑ क्रीणा॒मी"त्या॑ह  यथाय॒जुर् ए॒वैतत् ।
+"शुक्र᳓न्ते शुक्रे᳓ण क्रीणामी᳓"त्याह  यथायजु᳓र् एवै᳓त᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -422,7 +420,7 @@ He attains prosperity, be obtains cattle who knows thus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा वै येन॒ हिर॑ण्येन॒ सोम॒मक्री॑ण॒न् , तद॑भी॒षहा॒ पुन॒राद॑दत॒ -  "को हि तेज॑सा विक्रे॒ष्यत॒ "इति॑ ।  
+देवा᳓ वै᳓ ये᳓न हि᳓रण्येन सो᳓मम᳓क्रीणन् , त᳓दभीष᳓हा पु᳓नरा᳓ददत -  "को᳓ हि᳓ ते᳓जसा विक्रेष्य᳓त "इ᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -437,7 +435,7 @@ The gods retook by force the gold where with they purchased the Soma, saying, 'W
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-येन॒ हिर॑ण्येन सोम॑ङ्क्रीणी॒यात् , तद॑भी॒षहा॒ पुन॒रा द॑दीत॒ , तेज॑ ए॒वात्मन्ध॑त्ते ।
+ये᳓न हि᳓रण्ये᳓न᳓ सो᳓मङ्क्रीणीया᳓त् , त᳓दभीष᳓हा पु᳓नरा᳓ ददीत , ते᳓ज एवा᳓त्म᳓न्धत्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -469,7 +467,7 @@ The gold by which [3] he buys the Soma he should retake by force; verily he best
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अस्मे ज्योति॑स् - सोमविक्र॒यिणि॒ तम॒" इत्या॑ह ।  
+"अ᳓स्मे᳓ ज्यो᳓तिस् - सोमविक्रयि᳓णि त᳓म" इ᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -484,8 +482,8 @@ The gold by which [3] he buys the Soma he should retake by force; verily he best
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योति॑रे॒व यज॑माने दधाति ।  
-तम॑सा॒ सोमविक्र॒यिण॑मर्पयति ।
+ज्यो᳓तिरेव᳓ य᳓जमाने दधाति ।  
+त᳓मसा सो᳓म᳓वि᳓क्रयि᳓णमर्पयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -519,7 +517,7 @@ verily he places light in the sacrificer, and bestows darkness on the Soma-selle
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदनु॑पग्रथ्य ह॒न्याद् द॑न्द॒शूका॒स्ताँ समाँ॑ स॒र्पास्स्युः॑ ।   
+य᳓द᳓नुपग्रथ्य हन्या᳓द् दन्दशू᳓कास्ताँ᳓ स᳓माँ सर्पा᳓स्स्युः ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -534,7 +532,7 @@ If he were to strike (the Soma seller) without inter twining (the flock of wool)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"इ॒दम॒हँ स॒र्पाणा॑न् दन्द॒शूका॑नाङ् ग्री॒वा उप॑ ग्रथ्ना॒मी"त्या॑ह ।  
+"इद᳓महँ᳓ सर्पा᳓णान् दन्दशू᳓कानाङ् ग्रीवा᳓ उ᳓प ग्रथ्नामी᳓"त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -549,8 +547,8 @@ If he were to strike (the Soma seller) without inter twining (the flock of wool)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अद॑न्दशूका॒स्ताँ समाँ॑ स॒र्पा भ॑वन्ति ,  
-तम॑सा सोमविक्र॒यिणव्ँ॑ विध्यति ।
+अ᳓दन्दशूकास्ताँ᳓ स᳓माँ सर्पा᳓ भव᳓न्ति᳓ ,  
+त᳓मसा सोमविक्रयि᳓णव्ँ विध्यति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -588,7 +586,7 @@ the serpents do not bite that year, he pierces the Soma-seller with darkness.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"स्वान॑ भ्राजे"त्या॑ह ।
+"स्वा᳓न भ्रा᳓जे᳓"त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -603,7 +601,7 @@ the serpents do not bite that year, he pierces the Soma-seller with darkness.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ते वा अ॒मुष्मिल्ँ॑ लो॒के सोम॑मरक्ष॒न् , तेभ्योऽधि॒ सोम॒माऽऽह॑रन् ।[69]  
+एते᳓ वा᳓ अमु᳓ष्मिल्ँ लोके᳓ सो᳓ममरक्षन् , ते᳓भ्यो᳓ऽधि सो᳓ममा᳓ऽऽहरन् ।[69]  
 </details>
 
 <details><summary>Keith</summary>
@@ -618,7 +616,7 @@ they indeed in yonder world guarded the Soma; from them they grasped the Soma;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदे॒तेभ्य॑स् सोम॒क्रय॑णा॒न्नानु॑दि॒शेदक्री॑तोऽस्य॒ सोम॑स् स्या॒न्नास्यै॒ते॑ऽमुष्मिल्ँ॑ लो॒के सोमँ॑ रक्षेयुः ।  
+य᳓देते᳓भ्यस् सोमक्र᳓यणान्ना᳓नुदिशे᳓द᳓क्रीतोऽस्य सो᳓मस् स्यान्ना᳓स्यैते᳙ऽमु᳓ष्मिल्ँ लोके᳓ सो᳓मँ रक्षेयुः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -633,7 +631,7 @@ if he were not to indicate to them those that serve as the price of Soma, he wou
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदे॒तेभ्य॑स् सोम॒क्रय॑णाननुदि॒शति॑  क्री॒तो॑ऽस्य॒ सोमो॑ भवत्य् - ए॒ते॑ऽस्या॒मुष्मिल्ँ॑ लो॒के सोमँ॑ रक्षन्ति ॥ [70]  
+य᳓देते᳓भ्यस् सोमक्र᳓यणाननुदिश᳓ति  क्रीतो᳙ऽस्य सो᳓मो भवत्य् - एते᳙ऽस्यामु᳓ष्मिल्ँ लोके᳓ सो᳓मँ रक्षन्ति ॥ [70]  
 </details>
 
 <details><summary>Keith</summary>
@@ -664,4 +662,3 @@ In that he indicates to them those that serve as the price of Soma, he really pu
 
 इति षष्ठे प्रथमे दशमोनुवाकः ॥  
 </details>
-

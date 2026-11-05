@@ -32,8 +32,8 @@ title = "०९ स्वयमातृण्णाद्युपधानम�
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-+++(स्वयमातृण्णे!)+++ ध्रु॒वासि॑ **ध॒रुणास्तृ॑ता**  
-वि॒श्वक॑र्मणा॒ **सुकृ॑ता** ।  
++++(स्वयमातृण्णे!)+++ ध्रुवा᳓सि **धरु᳓णा᳓स्तृता**  
+विश्व᳓कर्मणा **सु᳓कृता** ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -57,8 +57,8 @@ Well wrought by Viśvakarman;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा त्वा॑ समु॒द्र **उद्व॑धी॒त्** मा सु॑प॒र्णः।  
-अव्य॑थमाना पृ॒थि॒वीन् **दृँ॑ह** ।  
+मा᳓ त्वा समुद्र᳓ **उ᳓द्वधीत्** मा᳓ सुपर्णः᳓।  
+अ᳓व्यथमाना पृथिवी᳓न् **दृँह** ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -94,9 +94,9 @@ Unshaking do thou make firm the earth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तिस् त्वा **सादयतु**  
-पृथि॒व्याᳶ पृ॒ष्ठे  
-व्यच॑स्वती॒म्+++(=विस्तारयुक्तां)+++ प्रथ॑स्वतीम् ।   
+प्रजा᳓पतिस् त्वा **सादयतु**  
+पृथिव्याᳶ᳓ पृष्ठे᳓  
+व्य᳓चस्वतीम्+++(=विस्तारयुक्तां)+++ प्र᳓थस्वतीम् ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -117,12 +117,12 @@ May Prajapati seat thee on the back of earth, capacious, extending;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रथो॑ऽसि ।   
-पृ॒थि॒व्य् अ॑सि ।   
-भूर् अ॑सि ।
-भूमि॑र् असि ।    
-अदि॑तिर् असि वि॒श्व-धा॑या  
-विश्व॑स्य॒ भुव॑नस्य ध॒र्त्री +++(असि)+++ ।
+प्र᳓थोऽसि ।   
+पृथिव्य् अ᳙सि ।   
+भू᳓र् असि ।
+भू᳓मिर् असि ।    
+अ᳓दितिर् असि विश्व᳓-धाया᳓  
+वि᳓श्वस्य भु᳓वनस्य धर्त्री᳓ +++(असि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -154,7 +154,7 @@ thou art extent, thou art earth, thou art the world, thou art the earth, thou ar
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒थि॒वीय्ँ य॑च्छ ।   
+पृथिवीय्ँ᳓ यच्छ ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -174,9 +174,9 @@ sustain the earth,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒थि॒वीन् दृँ॑ह  ।   
-पृ॒थि॒वीम् मा हिँ॑सी॒र् -  
-विश्व॑स्मै प्रा॒णाया॑पा॒नाय॑ व्या॒नायो॑दा॒नाय॑ प्रति॒ष्ठायै॑ [36]  च॒रित्रा॑+++(य)+++ ।
+पृथिवी᳓न् दृँह  ।   
+पृथिवी᳓म् मा᳓ हिँसीर् -  
+वि᳓श्वस्मै प्राणा᳓यापाना᳓य व्याना᳓योदाना᳓य प्रतिष्ठा᳓यै [36]  चरि᳓त्रा+++(य)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -213,7 +213,7 @@ for support [1], for motion;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निस् त्वा॒भि पा॑तु म॒ह्या स्व॒स्त्या छ॒र्दिषा॒ शन्त॑मेन
+अग्नि᳓स् त्वाभि᳓ पातु मह्या᳓ स्वस्त्या᳓ छर्दि᳓षा श᳓न्तमेन
 </details>
 
 <details><summary>Keith</summary>
@@ -233,7 +233,7 @@ may Agni protect thee with great prosperity, with most auspicious covering;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तया॑ दे॒वत॑या ऽङ्गिर॒स्वद् ध्रु॒वा सी॑द ।  
+त᳓या देव᳓तया ऽङ्गिरस्व᳓द् ध्रुवा᳓ सीद ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -273,7 +273,7 @@ with that deity, in the manner of Angiras, do thou sit firm.
 कल्पः—“काण्डात्काण्डात्प्ररोहन्तीति द्वाभ्यां दूर्वेष्टकाम्” इति।   उपदध्या दित्यनुवर्तते।   
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/20_kANDAtkANDAtprarohantI_paruShaHparuShaspari.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/20_kANDAtkANDAtprarohantI_paruShaHparuShaspari.md">
 
 काण्डा॑त्-काण्डात् **प्र॒रोह॑न्ती॒**  
 परु॑षᳶपरुष॒ᳶ+++(=पर्वणः पर्वणः)+++ परि॑ ।  
@@ -282,8 +282,7 @@ with that deity, in the manner of Angiras, do thou sit firm.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/13/20_kANDAtkANDAtprarohantI_paruShaHparuShaspari.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/13/20_kANDAtkANDAtprarohantI_paruShaHparuShaspari.md">
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 काण्डा॑त्काण्डा॒दिति॒ काण्डा॑त्ऽकाण्डात्। प्र॒रोह॒न्तीति॑ प्र॒ऽरोह॑न्ती। परु॑षःपरुष॒ इति॒ परु॑षःऽपरुषः। परि॑। ए॒व। नः॒। दू॒र्वे॒। प्र॒। त॒नु॒। स॒हस्रे॑ण। श॒तेन॑। च॒। २०।
@@ -358,10 +357,9 @@ With a thousand, a hundred.
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जशी दूर्वा ही औषधी रोगाचा नाश करून सुख वाढविते व उत्तम प्रकारे विस्तारित होते, तसेच विद्वान स्त्रीने अनेक प्रकारे आपले कुल वाढवावे.
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/21_yA_shatena.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/21_yA_shatena.md">
 
 या श॒तेन॑ **प्रत॒नोषि॑**  
 स॒हस्रे॑ण **वि॒रोह॑सि** ।  
@@ -370,8 +368,7 @@ With a thousand, a hundred.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/13/21_yA_shatena.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/13/21_yA_shatena.md">
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 या। श॒तेन॑। प्र॒त॒नोषीति॑ प्रऽत॒नोषि॑। स॒हस्रे॑ण। वि॒रोह॒सीति॑ वि॒ऽरोह॑सि। तस्याः॑। ते॒। दे॒वि॒। इ॒ष्ट॒के॒। वि॒धेम॑। ह॒विषा॑। व॒यम्। २१।
@@ -415,7 +412,6 @@ Let us sacrifice with oblation.
 द्वितीयेऽर्धे सहस्रशब्दतात्पर्यं दर्शयति— “एवा नो दूर्वे प्र तनु सहस्रेण शतेन चेत्याह साहस्रः प्रजापतिः प्रजापते- राप्त्यै” (सं. का. ५ प्र. २ अ. ८) इति।  
 सहस्रसंख्याकप्राण्युत्पादकत्वात्प्रजापतेः साहस्रत्वम् ।
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -430,9 +426,9 @@ Let us sacrifice with oblation.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अषा॑ढा **ऽसि॒** सह॑माना॒,  
-सह॒स्वारा॑ती॒स्,  
-सह॑स्वारातीय॒तः
+अ᳓षाढा **ऽसि** स᳓हमाना,  
+स᳓हस्वा᳓रातीस्,  
+स᳓हस्वारातीयतः᳓
 </details>
 
 <details><summary>Keith</summary>
@@ -459,8 +455,8 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**सह॑स्व॒** पृत॑ना॒ः
-**सह॑स्व** पृतन्य॒तः ।  
+**स᳓हस्व** पृ᳓तनाः
+**स᳓हस्व** पृतन्यतः᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -477,8 +473,8 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒हस्र॑वीर्या असि॒
-सा मा॑ जिन्व ।
+सह᳓स्रवीर्या असि
+सा᳓ मा जिन्व ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -505,8 +501,8 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॒ वाता॑ ऋताय॒ते मधु॑ क्षरन्ति॒ सिन्ध॑वः ।  
-माध्वी॑र्नस्स॒न्त्वोष॑धीः ।  
+म᳓धु वा᳓ता ऋतायते᳓ म᳓धु क्षरन्ति सि᳓न्धवः ।  
+मा᳓ध्वीर्नस्सन्त्वो᳓षधीः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -527,8 +523,8 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॒ नक्त॑मु॒तोषसि॒ मधु॑म॒त्पार्थि॑वँ॒ रजः॑।  
-मधु॒ द्यौर॑स्तु नᳶ पि॒ता ।
+म᳓धु न᳓क्तमुतो᳓ष᳓सि म᳓धुमत्पा᳓र्थिवँ र᳓जः।  
+म᳓धु द्यौ᳓रस्तु नᳶ पिता᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -547,19 +543,24 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 अथ तृतीयामाह—  १९४६ मबुमान्न इति ।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 म᳓धुमान् नो व᳓नस्प᳓तिर्  
 म᳓धुमाँ अस्तु सू᳓रियः  
 मा᳓ध्वीर् गा᳓वो भवन्तु नः
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+मधु॑मान्नो॒ वन॒स्पति॒र्मधु॑माँ अस्तु॒ सूर्यः॑ ।  
+माध्वी॒र्गावो॑ भवन्तु नः ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -798,7 +799,6 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 भावार्थभाषाः -  हे विद्वान लोकांनो! तुम्ही व आम्ही मिळून असा पुरुषार्थ करावा की ज्यामुळे आमचे सर्व कार्य सिद्ध व्हावे. ॥ ८ ॥
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -808,8 +808,8 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒ही द्यौᳶ पृ॑थि॒वी च॑ न इ॒मय्ँ य॒ज्ञम्मि॑मिक्षताम् ।  
-पि॒पृ॒तान्नो॒ भरी॑मभिः ।  
+मही᳓ द्यौᳶ᳓ पृथिवी᳓ च न इमय्ँ᳓ यज्ञ᳓म्मिमिक्षताम् ।  
+पिपृता᳓न्नो भ᳓रीमभिः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -848,8 +848,8 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्विष्णोः॑ पर॒मम् [38]  प॒दँ सदा॑ पश्यन्ति सू॒रयः॑ ।  
-दि॒वीव॒ चक्षु॒रात॑तम् ।  
+त᳓द्वि᳓ष्णोः परम᳓म् [38]  पदँ᳓ स᳓दा पश्यन्ति सूर᳓यः ।  
+दिवी᳓व च᳓क्षुरा᳓ततम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -871,8 +871,8 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वासि॑ पृथिवि॒ सह॑स्व पृतन्य॒तः ।  
-स्यू॒ता दे॒वेभि॑र॒मृते॒नागाः॑ ।  
+ध्रुवा᳓सि पृथिवि स᳓हस्व पृतन्यतः᳓ ।  
+स्यूता᳓ देवे᳓भिरमृ᳓तेना᳓गाः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -898,8 +898,8 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यास्ते॑ अग्ने॒ सूर्ये॒ रुच॑ उद्य॒तो दिव॑मात॒न्वन्ति॑ र॒श्मिभिः॑ ।  
-ताभि॒स्सर्वा॑भी रु॒चे जना॑य नस्कृधि ।  
+या᳓स्ते अग्ने सू᳓र्ये रु᳓च उद्यतो᳓ दि᳓वमातन्व᳓न्ति रश्मि᳓भिः ।  
+ता᳓भिस्स᳓र्वाभी रुचे᳓ ज᳓नाय नस्कृधि ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -920,8 +920,8 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या वो॑ देवा॒स्सूर्ये॒ रुचो॒ गोष्वश्वे॑षु॒ या रुचः॑ ।  
-इन्द्रा॑ग्नी॒ ताभि॒स्सर्वा॑भी॒ रुच॑न्नो धत्त बृहस्पते ।  
+या᳓ वो देवास्सू᳓र्ये रु᳓चो गो᳓ष्व᳓श्वेषु या᳓ रु᳓चः ।  
+इ᳓न्द्राग्नी ता᳓भिस्स᳓र्वाभी रु᳓चन्नो धत्त बृहस्पते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -942,7 +942,7 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒राट् [39] ज्योति॑रधारयत्स॒म्राड्ज्योति॑रधारयत्स्व॒राड्ज्योति॑रधारयत् ।  
+विरा᳓ट् [39] ज्यो᳓तिरधारयत्सम्रा᳓ड्ज्यो᳓तिरधारयत्स्वरा᳓ड्ज्यो᳓तिरधारयत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -962,8 +962,8 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ यु॒क्ष्वा हि ये तवाश्वा॑सो देव सा॒धवः॑ ।  
-अरव्ँ॒वह॑न्त्या॒शवः॑ ।
+अ᳓ग्ने युक्ष्वा᳓ हि᳓ ये᳓ त᳓वा᳓श्वासो देव साध᳓वः ।  
+अ᳓रव्ँव᳓हन्त्याश᳓वः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -984,8 +984,8 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यु॒क्ष्वा हि दे॑व॒हूत॑माँ॒ अश्वाँ॑ अग्ने र॒थीरि॑व ।  
-नि होता॑ पू॒र्व्यस्स॑दः ।  
+युक्ष्वा᳓ हि᳓ देवहू᳓तमाँ अ᳓श्वाँ अग्ने रथी᳓रिव ।  
+नि᳓ हो᳓ता पूर्व्य᳓स्सदः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1007,8 +1007,8 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्र॒प्सश्च॑स्कन्द पृथि॒वीमनु॒ द्यामि॒मञ्च॒ योनि॒मनु॒ यश्च॒ पूर्वः॑ ।  
-तृ॒तीयय्ँ॒योनि॒मनु॑ स॒ञ्चर॑न्तन्द्र॒प्सञ्जु॑हो॒म्यनु॑ स॒प्त [40] होत्राः॑ ।
+द्रप्स᳓श्चस्कन्द पृथिवी᳓म᳓नु द्या᳓मिम᳓ञ्च यो᳓निम᳓नु य᳓श्च पू᳓र्वः ।  
+तृती᳓यय्ँयो᳓निम᳓नु सञ्च᳓रन्तन्द्रप्स᳓ञ्जुहोम्य᳓नु सप्त᳓ [40] हो᳓त्राः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1031,8 +1031,8 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभू॑दि॒दव्ँविश्व॑स्य॒ भुव॑नस्य॒ वाजि॑नम॒ग्नेर्वै॑श्वान॒रस्य॑ च ।  
-अ॒ग्निर्ज्योति॑षा॒ ज्योति॑ष्मान्रु॒क्मो वर्च॑सा॒ वर्च॑स्वान् ।  
+अ᳓भूदिदव्ँ᳓वि᳓श्वस्य भु᳓वनस्य वा᳓जिनमग्ने᳓र्वैश्वानर᳓स्य च ।  
+अग्नि᳓र्ज्यो᳓तिषा ज्यो᳓तिष्मान्रुक्मो᳓ व᳓र्चसा व᳓र्चस्वान् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1048,9 +1048,9 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒चे त्वा॑
+ऋचे᳓ त्वा
 
-रु॒चे त्वा॑ ।
+रुचे᳓ त्वा ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1075,10 +1075,10 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-समित्स्र॑वन्ति स॒रितो॒ न धेनाः॑ ।  
-अ॒न्तर्हृ॒दा मन॑सा पू॒यमा॑नाः ।  
-घृ॒तस्य॒ धारा॑ अ॒भि चा॑कशीमि ।  
-हि॒र॒ण्ययो॑ वेत॒सो मध्य॑ आसाम् ।  
+स᳓मि᳓त्स्रवन्ति सरि᳓तो न᳓ धे᳓नाः ।  
+अन्त᳓र्हृदा᳓ म᳓नसा पूय᳓मानाः ।  
+घृत᳓स्य धा᳓रा अभि᳓ चाकशीमि ।  
+हिरण्य᳓यो वेतसो᳓ म᳓ध्य आसाम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1103,8 +1103,8 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मि॑न्त्सुप॒र्णो म॑धु॒कृत्कु॑ला॒यी भज॑न्नास्ते॒ मधु॑ दे॒वता॑भ्यः ।  
-तस्या॑सते॒ हर॑यस्स॒प्त तीरे॑ स्व॒धान्दुहा॑ना अ॒मृत॑स्य॒ धारा॑म् ॥ [41]  
+त᳓स्मिन्त्सुपर्णो᳓ मधुकृ᳓त्कुलायी᳓ भ᳓जन्नास्ते म᳓धु देव᳓ताभ्यः ।  
+त᳓स्यासते ह᳓रयस्सप्त᳓ ती᳓रे स्वधा᳓न्दु᳓हाना अमृ᳓तस्य धा᳓राम् ॥ [41]  
 </details>
 
 <details><summary>मूलम्</summary>

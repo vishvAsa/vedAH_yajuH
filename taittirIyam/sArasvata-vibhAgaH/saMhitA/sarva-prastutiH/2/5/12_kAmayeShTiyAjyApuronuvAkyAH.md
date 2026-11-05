@@ -11,7 +11,7 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आयु॑ष्टे ..
+आ᳓युष्टे ..
 </details>
 
 <details><summary>Keith</summary>
@@ -41,7 +41,7 @@ Life to thee.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आयु॒र्दा अ॑ग्ने ..
+आ᳓युर्दा᳓ अग्ने ..
 </details>
 
 <details><summary>Keith</summary>
@@ -77,7 +77,7 @@ Life-giving, O Agni,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ प्या॑यस्व॒ ..  
+आ᳓ प्यायस्व ..  
 </details>
 
 <details><summary>Keith</summary>
@@ -145,7 +145,7 @@ Together thee.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव॑ ते॒ हेड॒  ..
+अ᳓व ते हे᳓ड  ..
 </details>
 
 <details><summary>Keith</summary>
@@ -175,7 +175,7 @@ Thy wrath.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उदु॑त्त॒मम् ..
+उ᳓दुत्तम᳓म् ..
 </details>
 
 <details><summary>Keith</summary>
@@ -208,7 +208,7 @@ The uppermost.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र णो॑ दे॒वी ..
+प्र᳓ णो देवी᳓ ..
 </details>
 
 <details><summary>Keith</summary>
@@ -236,7 +236,7 @@ Forward, O goddess.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ नो॑ दि॒वो ..
+आ᳓ नो दिवो᳓ ..
 </details>
 
 <details><summary>Keith</summary>
@@ -270,7 +270,7 @@ From the sky to us.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ना॑विष्णू॒ ..
+अ᳓ग्नाविष्णू ..
 </details>
 
 <details><summary>Keith</summary>
@@ -304,7 +304,7 @@ O Agni and Visnu.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ना॑विष्णू ..
+अ᳓ग्नाविष्णू ..
 </details>
 
 <details><summary>Keith</summary>
@@ -335,7 +335,7 @@ O Agni and Visnu.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒मम्मे॑ वरुण ..
+इम᳓म्मे वरुण ..
 </details>
 
 <details><summary>Keith</summary>
@@ -364,7 +364,7 @@ This for me, O Varuna.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्त्वा॑ या॒मि ..
+त᳓त्त्वा यामि᳓ ..
 </details>
 
 <details><summary>Keith</summary>
@@ -393,7 +393,7 @@ To thee for that I go.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उदु॒ त्यम् ..
+उ᳓दु त्य᳓म् ..
 </details>
 
 <details><summary>Keith</summary>
@@ -427,7 +427,7 @@ Upwards that.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चि॒त्रम् ..
+चित्र᳓म् ..
 </details>
 
 <details><summary>Keith</summary>
@@ -457,8 +457,8 @@ The radiant.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पान्नपा॒दा ह्यस्था॑दु॒पस्थ॑ञ्जि॒ह्माना॑मू॒र्ध्वो वि॒द्युतव्ँ॒वसा॑नः  ।  
-तस्य॒ ज्येष्ठ॑म्महि॒मानव्ँ॒वह॑न्ती॒र्हिर॑ण्यवर्णा॒ᳶ परि॑ यन्ति य॒ह्वीः  ।  
+अपा᳓न्न᳓पादा᳓ ह्य᳓स्थादुप᳓स्थञ्जिह्मा᳓नामूर्ध्वो᳓ विद्यु᳓तव्ँव᳓सानः  ।  
+त᳓स्य ज्ये᳓ष्ठम्महिमा᳓नव्ँव᳓हन्तीर्हि᳓रण्यवर्णाᳶ प᳓रि यन्ति यह्वीः᳓  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -484,8 +484,8 @@ The child of the waters hath mounted the lap Of the devious ones, rising up and 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम॒न्या यन्त्युप॑ यन्त्य॒न्यास्स॑मा॒नमू॒र्वन्न॒द्यᳶ॑ पृणन्ति  ।  
-तमू॒ शुचिँ॒ शुच॑यो दीदि॒वाँस॑म॒पान्नपा॑त॒म्परि॑ तस्थु॒रापः॑  ।  
+स᳓मन्या᳓ य᳓न्त्यु᳓प यन्त्यन्या᳓स्समान᳓मूर्व᳓न्नद्यᳶ᳙ पृणन्ति  ।  
+त᳓मू शु᳓चिँ शु᳓चयो दीदिवाँ᳓समपा᳓न्न᳓पातम्प᳓रि तस्थुरा᳓पः  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -511,8 +511,8 @@ Some [1] meet, some go up, The streams fill their common stall; Round the pure s
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमस्मे॑रा युव॒तयो॒ युवा॑नम्मर्मृ॒ज्यमा॑ना॒ᳶ परि॑ य॒न्त्यापः॑  ।  
-स शु॒क्रेण॒ शिक्व॑ना रे॒वद॒ग्निर्दी॒दाया॑नि॒ध्मो घृ॒तनि॑र्णिग॒प्सु  ।
+त᳓म᳓स्मेरा युवत᳓यो यु᳓वानम्मर्मृज्य᳓मानाᳶ प᳓रि यन्त्या᳓पः  ।  
+स᳓ शुक्रे᳓ण शि᳓क्वना रेव᳓दग्नि᳓र्दीदा᳓यानिध्मो᳓ घृत᳓निर्णिगप्सु᳓  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -538,8 +538,8 @@ The austere maidens, go around the youth; The waters, making him clean; Agni shi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॒वरु॑णयोर॒हँ स॒म्राजो॒रव॒ आ वृ॑णे  ।  
-ता नो॑ मृडात ई॒दृशे॑  ।  
+इ᳓न्द्राव᳓रुणयोरहँ᳓ सम्रा᳓जोर᳓व आ᳓ वृणे  ।  
+ता᳓ नो मृडात ईदृ᳓शे  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -565,8 +565,8 @@ I seek the help Of Mitra and Varuna, joint kings; May they be gracious to such a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑वरुणा यु॒वम॑ध्व॒राय॑ नो वि॒शे जना॑य॒ महि॒ शर्म॑ यच्छतम्  ।
-दी॒र्घप्र॑यज्यु॒मति॒ यो व॑नु॒ष्यति॑ व॒यञ्ज॑येम॒ पृत॑नासु दू॒ढ्यः॑  ।  
+इ᳓न्द्रावरुणा युव᳓मध्वरा᳓य नो विशे᳓ ज᳓नाय म᳓हि श᳓र्म यच्छतम्  ।
+दीर्घ᳓प्रयज्युम᳓ति यो᳓ वनुष्य᳓ति वय᳓ञ्जयेम पृ᳓तनासु दूढ्यः᳙  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -592,7 +592,7 @@ O Indra and Varuna, grant ye great protection To our tribe, our people, for the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ नो॑ मित्रावरुणा ..
+आ᳓ नो मित्रावरुणा ..
 </details>
 
 <details><summary>Keith</summary>
@@ -620,7 +620,7 @@ To us, O Mitra and Varuna.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र बा॒हवा॑  ..
+प्र᳓ बाह᳓वा  ..
 </details>
 
 <details><summary>Keith</summary>
@@ -650,8 +650,8 @@ Forth your arms.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वन्नो॑ अग्ने॒ वरु॑णस्य वि॒द्वान्दे॒वस्य॒ हेडोऽव॑ यासिसीष्ठाः  ।  
-यजि॑ष्ठो॒ वह्नि॑तम॒श्शोशु॑चानो॒ विश्वा॒ द्वेषाँ॑सि॒ प्र मु॑मुग्ध्य॒स्मत्  ।  
+त्व᳓न्नो अग्ने व᳓रुणस्य विद्वा᳓न्देव᳓स्य हे᳓डो᳓ऽव यासिसीष्ठाः  ।  
+य᳓जिष्ठो व᳓ह्नितमश्शो᳓शुचानो वि᳓श्वा द्वे᳓षाँसि प्र᳓ मुमुग्ध्यस्म᳓त्  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -673,8 +673,8 @@ O Agni, do thou, wise one, Appease by sacrifice for us the wrath of Varuna; Best
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स त्वन्नो॑ अग्नेऽव॒मो भ॑वो॒ती नेदि॑ष्ठो अ॒स्या उ॒षसो॒ व्यु॑ष्टौ  ।  
-अव॑ यक्ष्व नो॒ वरु॑णम् [72] ररा॑णो वी॒हि मृ॑डी॒कँ सु॒हवो॑ न एधि  ।  
+स᳓ त्व᳓न्नो अग्नेऽवमो᳓ भवोती᳓ ने᳓दिष्ठो अस्या᳓ उष᳓सो व्यु᳙ष्टौ  ।  
+अ᳓व यक्ष्व नो व᳓रुण᳓म् [72] र᳓राणो वीहि᳓ मृडीकँ᳓ सुह᳓वो न एधि  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -700,8 +700,8 @@ Do thou, O Agni, be nearest to us, Closest to help, at the dawning of this dawn;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रप्रा॒यम॒ग्निर्भ॑र॒तस्य॑ शृण्वे॒ वि यत्सूर्यो॒ न रोच॑ते बृ॒हद्भाः  ।  
-अ॒भि यᳶ पू॒रुम्पृ॑तनासु त॒स्थौ दी॒दाय॒ दैव्यो॒ अति॑थिश्शि॒वो नः॑  ।
+प्र᳓प्राय᳓मग्नि᳓र्भरत᳓स्य शृण्वे वि᳓ य᳓त्सू᳓र्यो न᳓ रो᳓चते बृह᳓द्भाः᳓  ।  
+अभि᳓ यᳶ᳓ पूरु᳓म्पृतनासु तस्थौ᳓ दीदा᳓य दै᳓व्यो अ᳓तिथिश्शिवो᳓ नः  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -727,10 +727,10 @@ Far-famed is this Agni of Bharata, Since his great light shineth like the sun; H
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र ते॑ यक्षि॒ प्र त॑ इयर्मि॒ .  
-मन्म॒ भुवो॒ यथा॒ वन्द्यो॑ नो॒ हवे॑षु  ।  
-धन्व॑न्निव प्र॒पा अ॑सि॒ त्वम॑ग्न ..  
-इय॒क्षवे॑ पू॒रवे॑ प्रत्न राजन् ।  [73]
+प्र᳓ ते यक्षि प्र᳓ त इयर्मि .  
+म᳓न्म भु᳓वो य᳓था व᳓न्द्यो नो ह᳓वेषु  ।  
+ध᳓न्वन्निव प्रपा᳓ असि त्व᳓मग्न ..  
+इयक्ष᳓वे पूर᳓वे प्रत्न राजन् ।  [73]
 </details>
 
 <details><summary>Keith</summary>
@@ -758,7 +758,7 @@ I sacrifice to thee, I cast forward my prayer to thee, That thou mayst be invoke
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि पाज॑सा॒  ..
+वि᳓ पा᳓जसा  ..
 </details>
 
 <details><summary>Keith</summary>
@@ -783,7 +783,7 @@ With his lustre.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि ज्योति॑षा  ।
+वि᳓ ज्यो᳓तिषा  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -819,8 +819,8 @@ With light.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स त्वम॑ग्ने॒ प्रती॑केन॒ प्रत्यो॑ष यातुधा॒न्यः॑  ।  
-उ॒रु॒क्षये॑षु॒ दीद्य॑त्  ।
+स᳓ त्व᳓मग्ने प्र᳓तीकेन प्र᳓त्योष यातुधान्यः᳙  ।  
+उरुक्ष᳓येषु दी᳓द्यत्  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -846,8 +846,8 @@ Agni, with thy front, Burn the sorceresses, Shining in the broad dwellings.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तँ सु॒प्रती॑कँ सु॒दृशँ॒ स्वञ्च॒मवि॑द्वाँसो वि॒दुष्ट॑रँ सपेम  ।  
-स य॑क्ष॒द्विश्वा॑ व॒युना॑नि वि॒द्वान्प्र ह॒व्यम॒ग्निर॒मृते॑षु वोचत्  ।
+तँ᳓ सुप्र᳓तीकँ सुदृ᳓शँ स्व᳓ञ्चम᳓विद्वाँसो विदु᳓ष्टरँ सपेम  ।  
+स᳓ यक्षद्वि᳓श्वा वयु᳓नानि विद्वा᳓न्प्र᳓ हव्य᳓मग्नि᳓रमृ᳓तेषु वोचत्  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -873,8 +873,8 @@ Thee of fair face, of fair look, the rapid one, The wiser, let us ignorant peopl
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अँ॒हो॒मुचे॑ वि॒वेष॒ यन्मा॒ वि न॑ इ॒न्द्रेन्द्र॑ क्ष॒त्रमि॑न्द्रि॒याणि॑ शतक्र॒तोऽनु॑ ते दायि ॥ [74]
-अँ॒हो॒मुचे॑
+अँहोमु᳓चे विवे᳓ष य᳓न्मा वि᳓ न इन्द्रे᳓न्द्र क्षत्र᳓मिन्द्रिया᳓णि शतक्रतो᳓ऽनु ते दायि ॥ [74]
+अँहोमु᳓चे
 </details>
 
 <details><summary>Keith</summary>
@@ -906,7 +906,7 @@ To the freer from trouble.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒वेष॒ यन्मा॒
+विवे᳓ष य᳓न्मा
 </details>
 
 <details><summary>Keith</summary>
@@ -939,7 +939,7 @@ Which hath entered me.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि न॑ इ॒न्द्र
+वि᳓ न इन्द्र᳓
 </details>
 
 <details><summary>Keith</summary>
@@ -971,7 +971,7 @@ Away for us, O Indra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑ क्ष॒त्र
+इ᳓न्द्र क्षत्र᳓
 </details>
 
 <details><summary>Keith</summary>
@@ -1002,7 +1002,7 @@ O Indra, might.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रि॒याणि॑ शतक्र॒तो
+इ᳓न्द्रिया᳓णि शतक्रतो᳓
 </details>
 
 <details><summary>Keith</summary>
@@ -1031,7 +1031,7 @@ Powers, O Śatakratu.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनु॑ ते दायि .. ॥ [74]
+अ᳓नु ते दायि .. ॥ [74]
 </details>
 
 <details><summary>Keith</summary>

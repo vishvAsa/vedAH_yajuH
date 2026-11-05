@@ -1,12 +1,11 @@
 +++
 title = "१५ वैश्वदेवहोममन्त्राः"
-
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(त्रीणि पूर्वाणि दीक्षायां, पूर्वसहितानि समस्तानि रात्रिहोमेषु ।)+++  
-स्वाहा॒+++(→आदानार्थे)+++ ऽऽधिम्  
+स्वा᳓हा+++(→आदानार्थे)+++ ऽऽधि᳓म्  
 +++(आधीयतेऽनेनेत्याधिः - बुद्धिः।)+++
 </details>
 
@@ -17,7 +16,7 @@ Hail! (To) meditation (I offer).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आधी॑ताय॒+++(=आध्यातं)+++ स्वाहा॑ ।
+आ᳓धीताय+++(=आध्यातं)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -25,11 +24,9 @@ Hail! (To) meditation (I offer).
 To that meditated upon hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा ऽऽधी॑त॒म्+++(=आध्यातं)+++
+स्वा᳓हा᳓ ऽऽधीतम्+++(=आध्यातं)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -39,7 +36,7 @@ Hail! (To) that which we meditate on (I offer).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मन॑से॒ स्वाहा॑।
+म᳓नसे स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -47,11 +44,9 @@ Hail! (To) that which we meditate on (I offer).
 To mind hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा॒ मनः॒,
+स्वा᳓हा म᳓नः,
 </details>
 
 <details><summary>Keith</summary>
@@ -61,7 +56,7 @@ Hail! (To) mind (I offer).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तये॒ स्वाहा॑ ।
+प्रजा᳓पतये स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -69,13 +64,11 @@ Hail! (To) mind (I offer).
 To Prajapati hail!
 </details>
 
-
-
 _______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-काय॒+++(=प्रजापतये)+++ स्वाहा॑ ।
+का᳓य+++(=प्रजापतये)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -85,7 +78,7 @@ To Ka hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कस्मै॒+++(=अज्ञातस्वरूपाय)+++ स्वाहा॑ ।
+क᳓स्मै+++(=अज्ञातस्वरूपाय)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -95,7 +88,7 @@ To Who hail!'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क॒त॒मस्मै॒+++(=अनिर्धारितविशेषात्मने)+++ स्वाहा॑ ।
+कतम᳓स्मै+++(=अनिर्धारितविशेषात्मने)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -103,11 +96,9 @@ To Who hail!'
 To Whoever (katamásmai) hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑त्यै॒ स्वाहा॑ ।
+अ᳓दित्यै स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -117,7 +108,7 @@ To Aditi hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑त्यै म॒ह्यै॑ स्वाहा॑ ।
+अ᳓दित्यै मह्यै᳙ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -127,7 +118,7 @@ To Aditi the great hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑त्यै सु-मृडी॒कायै॒+++(=सुखयित्र्यै)+++ स्वाहा॑ ।
+अ᳓दित्यै सु-मृडीका᳓यै+++(=सुखयित्र्यै)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -135,11 +126,9 @@ To Aditi the great hail!
 To Aditi the gentle hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर॑स्वत्यै॒ स्वाहा॑ ।
+स᳓रस्वत्यै स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -149,7 +138,7 @@ To Sarasvati hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर॑स्वत्यै बृह॒त्यै॑ स्वाहा॑ ।
+स᳓रस्वत्यै बृहत्यै᳙ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -159,7 +148,7 @@ To Sarasvati the mighty hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर॑स्वत्यै पाव॒कायै॒ स्वाहा॑ ।
+स᳓रस्वत्यै पावका᳓यै स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -167,11 +156,9 @@ To Sarasvati the mighty hail!
 To Sarasvati, the purifying hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒ष्णे स्वाहा॑ ।
+पूष्णे᳓ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -181,7 +168,7 @@ To Pusan hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒ष्णे प्र॑प॒थ्या॑य॒+++(=प्रपथहिताय)+++ स्वाहा॑ ।
+पूष्णे᳓ प्रपथ्या᳙य+++(=प्रपथहिताय)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -191,7 +178,7 @@ To Pusan guardian of travellers hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒ष्णे न॒रन्धि॑षाय॒+++(=नराणां धारयित्रे)+++ स्वाहा॑ ।
+पूष्णे᳓ नर᳓न्धिषाय+++(=नराणां धारयित्रे)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -199,11 +186,9 @@ To Pusan guardian of travellers hail!
 To Pusan watcher of men hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वष्ट्रे॒ स्वाहा॑ ।
+त्व᳓ष्ट्रे स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -213,7 +198,7 @@ To Tvastr hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वष्ट्रे॑ तु॒रीपा॑य॒+++(=तूर्णमाप्नुवते)+++ स्वाहा॑ ।
+त्व᳓ष्ट्रे तुरी᳓पाय+++(=तूर्णमाप्नुवते)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -223,7 +208,7 @@ To Tvastr the seminal hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वष्ट्रे॑ पुरु॒+++(=बहु)+++रूपा॑य॒ स्वाहा॑ ।
+त्व᳓ष्ट्रे पुरु+++(=बहु)+++रू᳓पाय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -231,11 +216,9 @@ To Tvastr the seminal hail!
 To Tvastr the multiform hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्ण॑वे॒ स्वाहा॑ ।
+वि᳓ष्णवे स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -245,7 +228,7 @@ To Visnu hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्ण॑वे निखुर्य॒+++(=नि+खुर्+ल्यप्)+++पाय॒ स्वाहा॑ ।
+वि᳓ष्णवे निखुर्य+++(=नि+खुर्+ल्यप्)+++पा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -255,7 +238,7 @@ To Visnu the Nikhuryapa hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्ण॑वे निभूय॒+++(=नि+भू+ल्यप्)+++पाय॒ स्वाहा॑ ।
+वि᳓ष्णवे निभूय+++(=नि+भू+ल्यप्)+++पा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -263,12 +246,7 @@ To Visnu the Nikhuryapa hail!
 To Visnu the Nibhuyapa hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वस्मै॒ स्वाहा॑ ॥ [36]  
+स᳓र्व᳓स्मै स्वा᳓हा ॥ [36]  
 </details>
-
-
-

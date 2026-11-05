@@ -1,6 +1,5 @@
 +++
 title = "०८ व्याघारणं सम्भारस्थापनं च"
-
 +++
 सोमऋषिः
 
@@ -11,7 +10,7 @@ title = "०८ व्याघारणं सम्भारस्थापन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोत्त॑रवे॒दिर॑ब्रवी॒थ् -
+सो᳓त्तरवेदि᳓रब्रवीथ् -
 </details>
 
 <details><summary>Keith</summary>
@@ -26,7 +25,7 @@ The high altar said,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वा॒न्मया॒ कामा॒न्व्य॑श्ञव॒थेति॑ ।  
+स᳓र्वान्म᳓या का᳓मान्व्य᳙श्ञवथे᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -41,7 +40,7 @@ The high altar said,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वा अ॑कामय॒न्त -
+ते᳓ देवा᳓ अकामयन्त᳓ -
 </details>
 
 <details><summary>Keith</summary>
@@ -56,7 +55,7 @@ The gods desired,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असु॑रा॒न् भ्रातृ॑व्यान् अ॒भि भ॑वे॒मेति॑ ।  
+अ᳓सुरान् भ्रा᳓तृव्यान् अभि᳓ भवेमे᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -71,7 +70,7 @@ The gods desired,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽजुहवुस् -
+ते᳓ऽजुहवुस् -
 </details>
 
 <details><summary>Keith</summary>
@@ -86,7 +85,7 @@ They sacrificed (with the words),'Thou art a lioness,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सिँ॒हीर॑सि सपत्नसा॒ही स्वाहेति॑ ।  
+सिँही᳓रसि सपत्नसाही᳓ स्वा᳓हे᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -101,7 +100,7 @@ overcoming rivals; hail!'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेऽसु॑रा॒न् भ्रातृ॑व्यान् अ॒भ्य॑भवन् ।  
+ते᳓ऽसुरान् भ्रा᳓तृव्यान् अभ्य᳙भवन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -116,7 +115,7 @@ They over came the Asuras, their foes.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेऽसु॑रा॒न् भ्रातृ॑व्यानभि॒भूया॑कामयन्त -  
+ते᳓ऽसुरान् भ्रा᳓तृव्यानभिभू᳓याकामयन्त -  
 </details>
 
 <details><summary>Keith</summary>
@@ -131,7 +130,7 @@ Having overcome the Asuras, their foes, they felt desire,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाव्ँ वि॑न्देम॒हीति॑ ।
+प्रजाव्ँ᳓ विन्देमही᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -170,7 +169,7 @@ Having overcome the Asuras, their foes, they felt desire,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽजुहवुः ।
+ते᳓ऽजुहवुः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -185,7 +184,7 @@ They sacrificed (with the words),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सिँ॒हीर॑सि सुप्रजा॒वनि॒स्स्वाहेति॑ ।  
+सिँही᳓रसि सुप्रजाव᳓निस्स्वा᳓हे᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -200,7 +199,7 @@ They sacrificed (with the words),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते प्र॒जाम॑विन्दन्त ।
+ते᳓ प्रजा᳓मविन्दन्त ।
 </details>
 
 <details><summary>Keith</summary>
@@ -215,7 +214,7 @@ They obtained offspring.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते प्र॒जाव्ँ वि॒त्वाऽका॑मयन्त [39] -  
+ते᳓ प्रजाव्ँ᳓ वित्वा᳓ऽकामयन्त [39] -  
 </details>
 
 <details><summary>Keith</summary>
@@ -230,7 +229,7 @@ They having obtained offspring [1] felt desire,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒शून् वि॑न्देम॒हीेति॑  ।  
+पशू᳓न् विन्देमही्᳓ए᳓ति  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -263,8 +262,8 @@ They having obtained offspring [1] felt desire,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽजुहवुः ।
-सिँ॒हीर॑सि रायस्पोष॒वनि॒स्स्वाहेति॑ ।  
+ते᳓ऽजुहवुः ।
+सिँही᳓रसि रायस्पोषव᳓निस्स्वा᳓हे᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -280,7 +279,7 @@ They sacrificed (with the words), 'Thou art a lioness, bestowing increase of wea
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते प॒शून् अ॑विन्दन्त ।  
+ते᳓ पशू᳓न् अविन्दन्त ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -295,7 +294,7 @@ They obtained cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते प॒शून् वि॒त्त्वा ऽका॑मयन्त -
+ते᳓ पशू᳓न् वित्त्वा᳓ ऽकामयन्त -
 </details>
 
 <details><summary>Keith</summary>
@@ -310,7 +309,7 @@ Having obtained cattle, they felt desire,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रति॒ष्ठाव्ँ वि॑न्देम॒हीेति॑ ।
+प्र᳓तिष्ठाव्ँ᳓ विन्देमही्᳓ए᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -344,7 +343,7 @@ Having obtained cattle, they felt desire,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽजुहवुस् -
+ते᳓ऽजुहवुस् -
 </details>
 
 <details><summary>Keith</summary>
@@ -359,7 +358,7 @@ They sacrificed (with the words),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सिँ॒हीर॑स्य् -आदित्य॒वनि॒स् स्वाहेेति॑ ।
+सिँही᳓रस्य् -आदित्यव᳓निस् स्वा᳓हे्᳓ए᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -374,7 +373,7 @@ They sacrificed (with the words),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त इ॒माम् प्र॑ति॒ष्ठाम् अ॑विन्दन्त ।  
+त᳓ इमा᳓म् प्रतिष्ठा᳓म् अविन्दन्त ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -389,7 +388,7 @@ They found support here.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त इ॒माम् प्र॑ति॒ष्ठाव्ँ वि॒त्त्वाऽका॑मयन्त -
+त᳓ इमा᳓म् प्रतिष्ठाव्ँ᳓ वित्त्वा᳓ऽकामयन्त -
 </details>
 
 <details><summary>Keith</summary>
@@ -404,7 +403,7 @@ Having found support here, they felt desire,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वता॑ आ॒शिष॒ उपे॑या॒मेेति॑ ।
+देव᳓ता आशि᳓ष उ᳓पेयामे्᳓ए᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -426,7 +425,6 @@ Having found support here, they felt desire,
 दे॒वताः॑ । आ॒शिष॒ इत्या॑-शिषः॑ । उपेति॑ । इ॒या॒म॒ । इति॑ ।   
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4उत्तरेंऽसे अजुहवुः - आदित्यवनिरिति ॥ आदित्यानामदितिपुत्राणां संभक्तेति । इयं वा अदिरिति ॥
@@ -440,7 +438,7 @@ Having found support here, they felt desire,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽजुहवुस्  -
+ते᳓ऽजुहवुस्  -
 </details>
 
 <details><summary>Keith</summary>
@@ -455,7 +453,7 @@ They sacrificed (with the words),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सिँ॒हीर॒स्या व॑ह दे॒वान् दे॑वय॒ते  यज॑मानाय॒ स्वाहेेति॑ । [40]  
+सिँही᳓रस्या᳓ वह देवा᳓न् देवयते᳓  य᳓जमानाय स्वा᳓हे्᳓ए᳓ति । [40]  
 </details>
 
 <details><summary>Keith</summary>
@@ -470,7 +468,7 @@ They sacrificed (with the words),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वता॑ आ॒शिष॒ उपा॑यन् ।  
+ते᳓ देव᳓ता आशि᳓ष उ᳓पायन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -502,7 +500,7 @@ They approached the deities for blessings.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्च॒ कृत्वो॒ व्याघा॑रयति ।
+प᳓ञ्च कृ᳓त्वो व्या᳓घारयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -517,7 +515,7 @@ He sprinkles five times;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्चा॑क्षरा प॒ङ्क्तिः ।
+प᳓ञ्चाक्षरा पङ्क्तिः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -532,7 +530,7 @@ the Pankti has five syllables,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पाङ्क्तो॑ य॒ज्ञः ।
+पा᳓ङ्क्तो यज्ञः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -547,7 +545,7 @@ the sacrifice is fivefold;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञमे॒वाव॑ रुन्धे ।
+यज्ञ᳓मेवा᳓व रुन्धे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -562,7 +560,7 @@ verily he wins the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒क्ष्ण॒या व्याघा॑रयति ।  
+अक्ष्णया᳓ व्या᳓घारयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -577,7 +575,7 @@ He sprinkles transversely;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑दक्ष्ण॒या प॒शवो ऽङ्गा॑नि॒ प्र ह॑रन्ति ।
+त᳓स्मादक्ष्णया᳓ पश᳓वो᳓ ऽङ्गानि प्र᳓ हरन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -592,7 +590,7 @@ therefore cattle move their limbs transversely,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रति॑ष्ठित्यै ।
+प्र᳓तिष्ठित्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -629,7 +627,7 @@ for support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"भू॒तेभ्य॑स् त्वे"ति॒ , स्रुच॒मुद्गृ॑ह्णाति ।  
+"भूते᳓भ्यस् त्वे"ति , स्रु᳓चमु᳓द्गृह्णाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -644,7 +642,7 @@ for support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒व दे॒वा भू॒तास् तेषा॒न् तद्भा॑ग॒धेय॑म् ।
+य᳓ एव᳓ देवा᳓ भूता᳓स् ते᳓षान् त᳓द्भागधे᳓यम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -659,7 +657,7 @@ of the gods that are that is the share;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताने॒व तेन॑ प्रीणाति ।
+ता᳓नेव᳓ ते᳓न प्रीणाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -691,7 +689,7 @@ verily he therewith delights them.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पौतु॑द्रवान् परि॒धीन् परि॑ दधाति ।  
+पौ᳓तुद्रवान् परिधी᳓न् प᳓रि दधाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -706,7 +704,7 @@ He puts round the enclosing-sticks of Butea frondosa,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒षाल्ँ लो॒कानाव्ँ॒ विधृ॑त्यै ।[41]  
+एषाल्ँ᳓ लोका᳓नाव्ँ वि᳓धृत्यै ।[41]  
 </details>
 
 <details><summary>Keith</summary>
@@ -732,12 +730,12 @@ for the holding apart of these worlds [3].
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अ॒ग्नेस्त्रयो॒ ज्यायाँ॑सो॒ भ्रात॑र आस॒न्ते दे॒वेभ्यो॑ ह॒व्यव्ँवह॑न्त॒ᳶ प्रामी॑यन्त॒ सो॒॑ऽग्निर॑बिभेदि॒त्थव्ँ वाव स्य आर्ति॒मारि॑ष्य॒तीति॒ स निला॑यत॒ स याव्ँ वन॒स्पति॒ष्वव॑स॒त्ताम्पूतु॑द्रौ॒ यामोष॑धीषु॒ ताँ सु॑गन्धि॒तेज॑ने॒ याम्प॒शुषु॒ ताम्पेत्व॑स्यान्त॒रा शृङ्गे॒
+अ॒ग्नेस्त्रयो॒ ज्यायाँ॑सो॒ भ्रात॑र आस॒न्ते दे॒वेभ्यो॑ ह॒व्यव्ँवह॑न्त॒ᳶ प्रामी॑यन्त॒ सो॒॑ऽग्निर॑बिभेदि॒त्थव्ँ वाव स्य आर्ति॒मारि॑ष्य॒तीति॒ स निला॑यत॒ स याव्ँ वन॒स्पति॒ष्वव॑स॒त्ताम्पूतु॑द्रौ॒ यामोष॑धीषु॒ ताँ सु॑गन्धि॒तेज॑ने॒ याम्प॒शुषु॒ ताम्पेत्व॑स्यान्त॒रा शृङ्गे॒
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेस्त्रयो॒ ज्यायाँ॑सो॒ भ्रात॑र आसन् ।  
+अग्ने᳓स्त्र᳓यो ज्या᳓याँसो भ्रा᳓तर आसन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -752,7 +750,7 @@ Agni had three elder brothers.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वेभ्यो॑ ह॒व्यव्ँ वह॑न्त॒ᳶ प्रामी॑यन्त ।  
+ते᳓ देवे᳓भ्यो हव्यव्ँ᳓ व᳓हन्तᳶ प्रा᳓मीयन्त ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -767,7 +765,7 @@ They perished when carrying the offering to the gods.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॒॑ऽग्निर् अ॑बिभेत् ।
+सो᳓᳓ऽग्नि᳓र् अबिभेत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -777,12 +775,12 @@ Agni was afraid,
 
 <details><summary>मूलम्</summary>
 
-सो॒॑ऽग्निर् अ॑बिभेत् ।
+सो॒॑ऽग्निर् अ॑बिभेत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒त्थव्ँ वाव स्य आर्ति॒मारि॑ष्य॒तीति॑ ।  
+इत्थव्ँ᳓ वा᳓व᳓ स्य᳓ आ᳓र्तिमा᳓रिष्यती᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -797,7 +795,7 @@ Agni was afraid,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स निला॑यत ।  
+स᳓ नि᳓लायत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -812,7 +810,7 @@ He went away.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स याव् वँन॒स्पति॒ष्वव॑स॒त् ताम् पूतु॑द्रौ॒ , यामोष॑धीषु॒ ताँ सु॑गन्धि॒तेज॑ने॒ , याम् प॒शुषु॒ ताम् पेत्व॑स्यान्त॒रा शृङ्गे॑ ।
+स᳓ या᳓व् वँ᳓नस्प᳓तिष्व᳓वसत् ता᳓म् पू᳓तुद्रौ , या᳓मो᳓षधीषु ताँ᳓ सुगन्धिते᳓जने , या᳓म् पशु᳓षु ता᳓म् पे᳓त्वस्यान्तरा᳓ शृ᳓ङ्गे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -826,7 +824,6 @@ The (night) he spent among the trees was with the Butea frondosa: the (night) am
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 अ॒ग्नेः । त्रयः॑ । ज्यायाँ॑सः । भ्रात॑रः । आ॒स॒न् । 
 ते । दे॒वेभ्यः॑ । ह॒व्यम् । वह॑न्तः । प्रेति॑ । अ॒मी॒य॒न्त॒ ।   
@@ -850,7 +847,7 @@ The (night) he spent among the trees was with the Butea frondosa: the (night) am
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन् दे॒वता॒ᳶ प्रैष॑मैच्छन् ।
+त᳓न् देव᳓ताᳶ प्रै᳓षमैच्छन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -865,7 +862,7 @@ The gods sought to start him forth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमन्व॑विन्दन् ।
+त᳓म᳓न्वविन्दन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -880,7 +877,7 @@ They found him,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम॑ब्रुवन्न्  -
+त᳓मब्रुवन्न्  -
 </details>
 
 <details><summary>Keith</summary>
@@ -895,7 +892,7 @@ and said to him [4],'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उप॑ न॒ आ व॑र्तस्व ह॒व्यन्नो॑ व॒हेति ।[42]   
+उ᳓प न आ᳓ वर्तस्व हव्य᳓न्नो वहे᳓ति᳓ ।[42]   
 </details>
 
 <details><summary>Keith</summary>
@@ -910,7 +907,7 @@ Return to us; bear the offering for us.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ऽब्रवी॒द् - वरव्ँ॑वृणै॒ यदे॒व गृ॑ही॒तस्याहु॑तस्य बहिᳶपरि॒धि स्कन्दा॒त् तन्मे॒ भ्रातृ॑णाम् भाग॒धेय॑मस॒दिति॑  ।  
+सो᳓ऽब्रवीद् - व᳓रव्ँवृणै य᳓देव᳓ गृहीत᳓स्या᳓हुतस्य बहिᳶपरिधि᳓ स्क᳓न्दात् त᳓न्मे भ्रा᳓तृणाम् भागधे᳓यमसदि᳓ति  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -925,7 +922,7 @@ He said, 'Let me choose a boon. Whatever of the offering when taken up falls out
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् यद्गृ॑ही॒तस्याहु॑तस्य बहिᳶपरि॒धि स्कन्द॑ति॒ तेषा॒न् तद् भा॑ग॒धेयम् ।  
+त᳓स्माद् य᳓द्गृहीत᳓स्या᳓हुतस्य बहिᳶपरिधि᳓ स्क᳓न्दति ते᳓षान् त᳓द् भागधे᳓य᳓म् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -940,7 +937,7 @@ Therefore whatever of the offering when taken up falls outside the enclosing-sti
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताने॒व तेन॑ प्रीणाति ।
+ता᳓नेव᳓ ते᳓न प्रीणाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -955,7 +952,7 @@ verily therewith be delights them.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ऽमन्यत  -
+सो᳓ऽमन्यत  -
 </details>
 
 <details><summary>Keith</summary>
@@ -970,7 +967,7 @@ He reflected,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒स्थ॒न्वन्तो॑ मे॒ पूर्वे॒ भ्रात॑र॒ᳶ प्रामे॑षता॒स्थानि॑ शातया॒ इति॑ ।  
+अस्थन्व᳓न्तो मे पू᳓र्वे भ्रा᳓तरᳶ प्रा᳓मेषतास्था᳓नि शातया इ᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -985,7 +982,7 @@ He reflected,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स यानि॑ अ॒स्थान्यशा॑तयत॒ तत् पूतु॑द्र्वभवत् ।  [43]  
+स᳓ या᳓नि अस्था᳓न्य᳓शातयत त᳓त् पू᳓तुद्र्वभवत् ।  [43]  
 </details>
 
 <details><summary>Keith</summary>
@@ -1000,7 +997,7 @@ The bones he shattered became the Buteafrondosa,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन् माँ॒समुप॑मृत॒न् तद्गुल्गु॑लु ।
+य᳓न् माँस᳓मु᳓पमृतन् त᳓द्गु᳓ल्गुलु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1016,7 +1013,6 @@ the flesh which died on them bdellium.
 <details><summary>पद-पाठः</summary>
 
 तम् । दे॒वताः॑ । प्रैष॒मिति॑ प्र-एष॑म् । ऐ॒च्छ॒न् ।  
-
 
 तम् । अन्विति॑ । अ॒वि॒न्द॒न् ।  
 तम् । अ॒ब्रु॒व॒न् । [42]  
@@ -1043,7 +1039,7 @@ the flesh which died on them bdellium.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् ए॒तान्त् स॑म्भा॒रान्त् स॒म्भर॑ति।
+य᳓द् एता᳓न्त् सम्भारा᳓न्त् सम्भ᳓रति।
 </details>
 
 <details><summary>Keith</summary>
@@ -1058,7 +1054,7 @@ In that he brings together these paraphernalia,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निमे॒व तत्सम्भ॑रति ।  
+अग्नि᳓मेव᳓ त᳓त्स᳓म्भरति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1073,7 +1069,7 @@ verily thus be brings Agni together.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेᳶ पुरी॑षम् अ॒सीत्या॑ह ।
+अग्नेᳶ᳓ पु᳓रीषम् असी᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1088,7 +1084,7 @@ verily thus be brings Agni together.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेर् ह्य् ए॑तत् पुरी॑षय्ँ॒ यत् स॑म्भा॒राः ।  
+अग्ने᳓र् ह्य् एत᳓त् पु᳓रीषय्ँ य᳓त् सम्भाराः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1103,7 +1099,7 @@ he says, for the paraphernalia are the rubble of Agni.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ खल्वा॑हुर् - ए॒ते वावैन॒न्ते भ्रात॑र॒ᳶ परि॑ शेरे॒ यत् पौतु॑द्रवाᳶ परि॒धय॒ इति॑ ॥ [44]  
+अ᳓थो ख᳓ल्वाहुर् - एते᳓ वा᳓वै᳓नन्ते᳓ भ्रा᳓तरᳶ प᳓रि शेरे य᳓त् पौ᳓तुद्रवाᳶ परिध᳓य इ᳓ति ॥ [44]  
 </details>
 
 <details><summary>Keith</summary>
@@ -1117,7 +1113,6 @@ Or rather they say, 'These enclosing-sticks of Buteafrondosa which lie around ar
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 यत् । ए॒तान् । स॒म्भा॒रानिति॑ सम्-भा॒रान् । स॒म्भर॒तीति॑ सम्-भर॑ति । अ॒ग्निम् । ए॒व । तत् । समिति॑ । भ॒र॒ति॒ ।
 अ॒ग्नेः । पुरी॑षम् । अ॒सि॒ । इति॑ । आ॒ह॒ ।   

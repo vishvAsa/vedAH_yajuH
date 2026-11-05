@@ -1,6 +1,5 @@
 +++
 title = "०२ अग्नीषोमीयादि"
-
 +++
 
 प्रजापतिऋषिः ।
@@ -14,7 +13,7 @@ title = "०२ अग्नीषोमीयादि"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वष्टा॑ ह॒तपु॑त्रो॒ वीन्द्रँ॒ सोम॒माह॑रत् ।
+त्व᳓ष्टा हत᳓पुत्रो वी᳓न्द्रँ सो᳓ममा᳓हरत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -29,8 +28,8 @@ Tvastr, his son being slain, offered Soma excluding Indra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मि॒न्न् इन्द्र॑ उपह॒वम् ऐ॑च्छत ।  
-तन् नोपा॑ह्वयत -
+त᳓स्मिन्न् इ᳓न्द्र उपहव᳓म् ऐच्छत ।  
+त᳓न् नो᳓पाह्वयत -
 </details>
 
 <details><summary>Keith</summary>
@@ -46,7 +45,7 @@ Indra desired an invitation to the rite, but he did not invite him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"पु॒त्रम् मे॑ऽवधी॒र्" इति॑ ।
+"पुत्र᳓म् मेऽवधीर्" इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -61,8 +60,8 @@ Indra desired an invitation to the rite, but he did not invite him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स य॑ज्ञ-वेश॒सङ् कृ॒त्वा प्रा॒सहा॒ सोम॑म् अपिबत् ।  
-तस्य॒ यद् अ॒त्यशि॑ष्यत॒ ..
+स᳓ यज्ञ-वेशस᳓ङ् कृत्वा᳓ प्रास᳓हा सो᳓मम् अपिबत् ।  
+त᳓स्य य᳓द् अत्य᳓शिष्यत ..
 </details>
 
 <details><summary>Keith</summary>
@@ -78,8 +77,8 @@ He made a disturbance of the sacrifice, and forcibly drank the Soma.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् त्वष्टा॑हव॒नीय॒म् उप॒ प्राव॑र्तयत् ।   
-"स्वाहेन्द्र॑-शत्रुर्+++(=शातयिता)+++ वर्ध॒स्वे"ति॑ ।
+त᳓त् त्व᳓ष्टाहवनी᳓यम् उ᳓प प्रा᳓वर्तयत् ।   
+"स्वा᳓हे᳓न्द्र-शत्रुर्+++(=शातयिता)+++ वर्धस्वे᳓"ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -107,7 +106,7 @@ The remains of it Tvastr cast upon the Ahavaniya (fire), (saying), 'Hail! wax gr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् +++(आहवनीयम् पीत-शेषेण सोमेन)+++ अव॑र्तय॒त् तद् वृ॒त्रस्य॑ वृत्र॒त्वम् ।
+य᳓द् +++(आहवनीयम् पीत-शेषेण सोमेन)+++ अ᳓वर्तयत् त᳓द् वृत्र᳓स्य वृत्रत्व᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -139,8 +138,8 @@ In that he cast it (avartayat), Vrtra is Vrtra;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अब्र॑वी॒थ्  - स्वाहेन्द्र॑-शत्रुर् वर्ध॒स्वेति॒ ।  
-तस्मा॑द् अ॒स्येन्द्र॒श् शत्रु॑र् अभवत् ।  
+य᳓द् अ᳓ब्रवीथ्  - स्वा᳓हे᳓न्द्र-शत्रुर् वर्धस्वे᳓ति ।  
+त᳓स्माद् अस्ये᳓न्द्रश् श᳓त्रुर् अभवत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -166,7 +165,7 @@ in that he said, 'Hail! wax great, Indra's foe', therefore [1] Indra became his 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स +++(वृत्रः)+++ स॒म्भव॑न्न् अ॒ग्नी-षोमा॑व् अ॒भि सम॑भवत् ।
+स᳓ +++(वृत्रः)+++ सम्भ᳓वन्न् अग्नी᳓-षो᳓माव् अभि᳓ स᳓मभवत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -181,7 +180,7 @@ He sprang into life and came into union with Agni and Soma.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स इ॑षु-मा॒त्रम् इ॑षु-मात्रव्ँ॒ विष्व॑ङ्ङ् अवर्धत ।
+स᳓ इषु-मात्र᳓म् इषु-मात्रव्ँ वि᳓ष्वङ्ङ् अवर्धत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -201,7 +200,7 @@ He grew on all sides an arrow(shot),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स इ॒माल्ँ लो॒कान् अ॑वृणोत् ।
+स᳓ इमाल्ँ᳓ लोका᳓न् अवृणोत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -216,7 +215,7 @@ he enveloped these worlds.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् इ॒माल्ँ लो॒कान् अवृ॑णो॒त् - तद् वृ॒त्रस्य॑ वृत्र॒त्वम् ।
+य᳓द् इमाल्ँ᳓ लोका᳓न् अ᳓वृणोत् - त᳓द् वृत्र᳓स्य वृत्रत्व᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -243,7 +242,7 @@ Because he enveloped these worlds, therefore is Vrtra, Vrtra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् इन्द्रो॑ऽबिभेत् ।
+त᳓स्माद् इ᳓न्द्रोऽबिभेत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -258,8 +257,8 @@ Indra feared him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स प्र॒जाप॑ति॒म् उपा॑धावत् -  
-"शत्रु॑र् मेऽज॒नी"ति॑ ।
+स᳓ प्रजा᳓पतिम् उ᳓पाधा᳓व᳓त् -  
+"श᳓त्रुर् मेऽजनी᳓"ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -286,8 +285,8 @@ He ran up to Prajapati, (saying), 'A foe has sprung up for me.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मै॒ वज्रँ॑ सि॒क्त्वा प्राय॑च्छद् -  
-"ए॒तेन॑ ज॒ही"ति॑ ।
+त᳓स्मै व᳓ज्रँ सिक्त्वा᳓ प्रा᳓यच्छद् -  
+"एते᳓न जही᳓"ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -313,7 +312,7 @@ He dipped his bolt and gave it to him, (saying), 'Slay with it.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेना॒भ्या॑यत ।  
+ते᳓नाभ्या᳙यत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -340,8 +339,8 @@ He went against (him) with it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव् अ॑ब्रूताम् ।  
-अ॒ग्नी-षोमौ॒ "मा प्र हाः॑ ।
+ता᳓व् अब्रूताम् ।  
+अग्नी᳓-षो᳓मौ "मा᳓ प्र᳓ हाः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -357,7 +356,7 @@ Agni and Soma said, 'Hurl it not [2];
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒वम् अ॒न्तस् स्व॒" इति॑ ।
+आव᳓म् अन्त᳓स् स्व" इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -384,8 +383,8 @@ we are within.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"मम॒ वै यु॒वँ स्थ॒" इत्य् अ॑ब्रवीत् ।  
-"माम् अ॒भ्येत॒म्" इति॑ ।
+"म᳓म वै᳓ युवँ᳓ स्थ" इ᳓त्य् अब्रवीत् ।  
+"मा᳓म् अभ्ये᳓तम्" इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -413,7 +412,7 @@ we are within.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तौ भा॑ग॒धेय॑म् ऐच्छेताम् ।  
+तौ᳓ भागधे᳓यम् ऐच्छेताम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -438,7 +437,7 @@ They asked for a share;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताभ्या॑म् ए॒तम् अ॑ग्नीषो॒मीय॒म् एका॑दश-कपालम् पू॒र्णमा॑से॒ प्राय॑च्छत् ।
+ता᳓भ्याम् एत᳓म् अग्नीषोमी᳓यम् ए᳓कादश-कपालम् पूर्ण᳓मासे प्रा᳓यच्छत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -468,8 +467,8 @@ he gave them at the full moon this offering for Agni and Soma on eleven potsherd
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव् अ॑ब्रूताम् -  
-"अ॒भि सन्द॑ष्टौ॒ वै स्वो॒, न श॑क्नुव॒ ऐतु॒म्" इति॑ ।  
+ता᳓व् अब्रूताम् -  
+"अभि᳓ स᳓न्दष्टौ वै᳓ स्वो, न᳓ शक्नुव ऐ᳓तुम्" इ᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -500,7 +499,7 @@ They said, 'We are bitten all round, and cannot come.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स इन्द्र॑ आ॒त्मन॑श् शीत-रू॒राव् +++(=तापौ [रोगौ])+++ अ॑जनयत् ।
+स᳓ इ᳓न्द्र आत्म᳓नश् शीत-रूरा᳓व् +++(=तापौ [रोगौ])+++ अजनयत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -515,7 +514,7 @@ Indra produced from himself cold and fever heat;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच् छी॑त-रू॒रयो॒र् जन्म॑ ।
+त᳓च् छीत-रूर᳓योर् ज᳓न्म ।
 </details>
 
 <details><summary>Keith</summary>
@@ -542,8 +541,8 @@ that was the origin of cold and fever heat.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वँ शी॑तरू॒रयो॒र् जन्म॒ वेद॒ ।   
-नैनँ॑ शीतरू॒रौ ह॑तः।  
+य᳓ एवँ᳓ शीतरूर᳓योर् ज᳓न्म वे᳓द ।   
+नै᳓नँ शीतरूरौ᳓ हतः।  
 </details>
 
 <details><summary>Keith</summary>
@@ -569,8 +568,8 @@ Him who knows thus the origin of cold and fever heat [3] neither cold nor fever 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताभ्या॑म् एनम् अ॒भ्य॑नयत् ।  
-तस्मा॑ज् जञ्ज॒भ्यमा॑नाद्+++(=जृम्भमाणाद्)+++ अ॒ग्नी-षोमौ॒ निर॑क्रामताम् ।  
+ता᳓भ्याम् एनम् अभ्य᳙नयत् ।  
+त᳓स्माज् जञ्जभ्य᳓मानाद्+++(=जृम्भमाणाद्)+++ अग्नी᳓-षो᳓मौ नि᳓रक्रामताम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -603,7 +602,7 @@ By them he led him on, and as he gaped Agni and Soma went forth from him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णा॒पा॒नौ वा ए॑न॒न् तद् अ॑जहिताम् ।  
+प्राणापानौ᳓ वा᳓ एनन् त᳓द् अजहिताम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -630,7 +629,7 @@ Then expiration and inspiration deserted him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णो वै दक्षो॑, ऽपा॒नᳵ क्रतुः॑  ।  
+प्राणो᳓ वै᳓ द᳓क्षो, ऽपानᳵ᳓ क्र᳓तुः  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -655,8 +654,8 @@ skill is expiration, intelligence is inspiration;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑ज् जञ्ज॒भ्यमा॑नो ब्रूया॒न्  -   
-"मयि॑ दक्षक्र॒तू" इति॑ ।  
+त᳓स्माज् जञ्जभ्य᳓मानो ब्रूयान्  -   
+"म᳓यि दक्षक्रतू᳓" इ᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -682,7 +681,7 @@ therefore one who gapes should say, 'Skill and intelligence (remain) in me';
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णा॒पा॒नाव् ए॒वात्मन् ध॑त्ते ।
+प्राणापाना᳓व् एवा᳓त्म᳓न् धत्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -707,7 +706,7 @@ verily he places expiration and inspiration in himself
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व॒म् आयु॑र् एति  ।
+स᳓र्वम् आ᳓युर् एति  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -739,8 +738,8 @@ and lives all his days.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स +++(इन्द्रो)+++ दे॒वता॑ वृ॒त्रान् नि॒र्हूय॒  
-वार्त्र॑-घ्नँ ह॒विᳶ पू॒र्ण-मा॑से॒ निर॑वपत् ।   
+स᳓ +++(इन्द्रो)+++ देव᳓ता वृत्रा᳓न् निर्हू᳓य  
+वा᳓र्त्र-घ्नँ हविᳶ᳓ पूर्ण᳓-मासे नि᳓रवपत् ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -768,8 +767,8 @@ offered at the full moon the oblation to the Vrtra slayer;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घ्नन्ति॒ वा ए॑नम् पू॒र्णमा॑से ।  
-आमा॑वा॒स्या॑याम् प्याययन्ति ।  
+घ्न᳓न्ति वा᳓ एनम् पूर्ण᳓मासे ।  
+आ᳓मावास्या᳙याम् प्याययन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -796,8 +795,8 @@ but make him swell at the new moon;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् वार्त्र॑घ्नी पू॒र्णमा॒से ऽनू॑च्येते॒,  
-वृध॑न्वती अमावा॒स्या॑याम् ।  
+त᳓स्माद् वा᳓र्त्रघ्नी पूर्ण᳓मासे᳓ ऽनूच्येते,  
+वृ᳓धन्वती अमावास्या᳙याम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -829,8 +828,8 @@ at the new moon referring to his increase.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् सँ॒स्थाप्य॒ वार्त्र॑घ्नँ ह॒विर्,  
-वज्र॑म् आ॒दाय॒ पुन॑र् अ॒भ्या॑यत।  
+त᳓त् सँस्था᳓प्य वा᳓र्त्रघ्नँ हवि᳓र्,  
+व᳓ज्रम् आदा᳓य पु᳓नर् अभ्या᳙यत।  
 </details>
 
 <details><summary>Keith</summary>
@@ -859,7 +858,7 @@ Having performed the oblation to the Vrtra slayer, he took his bolt and again we
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते अ॑ब्रूताम् द्यावा॑पृथि॒वी -
+ते᳓ अब्रू᳓ता᳓म् द्या᳓वापृथिवी᳓ -
 </details>
 
 <details><summary>Keith</summary>
@@ -874,7 +873,7 @@ Sky and earth said, 'Hurl it not;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"मा प्र हाः॑ - आ॒वयो॒र् वै श्रि॒त" इति॑ ।
+"मा᳓ प्र᳓ हाः - आव᳓योर् वै᳓ श्रित᳓" इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -894,8 +893,8 @@ he rests in us two.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते अ॑ब्रूता॒म्  
-"वरव्ँ॑ वृणावहै ।
+ते᳓ अब्रूताम्  
+"व᳓रव्ँ वृणावहै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -910,8 +909,8 @@ They said, 'Let us choose a boon.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"वरव्ँ॑ वृणावहै ।  
-"नक्ष॑त्र-विहिता॒ऽहम् असा॒नी"त्य् अ॒साव् अ॑ब्रवीत् ।
+"व᳓रव्ँ वृणावहै ।  
+"न᳓क्षत्र-विहिताऽह᳓म् अ᳓सानी᳓"त्य् असा᳓व् अब्रवीत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -927,7 +926,7 @@ They said, 'Let us choose a boon.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"चि॒त्र-वि॑हिता॒ऽहम्" इती॒यम्।
+"चित्र᳓-विहिताऽह᳓म्" इ᳓तीय᳓म्।
 </details>
 
 <details><summary>Keith</summary>
@@ -952,7 +951,7 @@ They said, 'Let us choose a boon.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒न् नक्ष॑त्र-विहिता॒ऽसौ, चि॒त्रवि॑हिते॒यम् ।
+त᳓स्मान् न᳓क्षत्र-विहिताऽसौ᳓, चित्र᳓विहितेय᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -968,7 +967,7 @@ Therefore yonder (sky) is adorned with the Naksatras, this (earth) with variegat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वन् द्यावा॑पृथि॒व्योः वरव्ँ॒ वेदै॑नव्ँ॒ वरो॑ गच्छति ।
+य᳓ एव᳓न् द्या᳓वापृथिव्योः᳓ व᳓रव्ँ वे᳓दैनव्ँ व᳓रो गच्छति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -993,8 +992,8 @@ He who knows thus the boon of sky and earth [5] attains a boon.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स आ॒भ्याम् ए॒व प्रसू॑त॒  
-इन्द्रो॑ वृ॒त्रम् **अ॑हन्** ।  
+स᳓ आभ्या᳓म् एव᳓ प्र᳓सूत  
+इ᳓न्द्रो वृत्र᳓म् **अहन्** ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1021,8 +1020,8 @@ Indra thus impelled by these two slew Vrtra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वा वृ॒त्रँ ह॒त्वा ऽग्नीषोमा॑व् अब्रुवन् ।  
-ह॒व्यन् नो॑ वहत॒म् इति॑ ।  
+ते᳓ देवा᳓ वृत्रँ᳓ हत्वा᳓ ऽग्नी᳓षो᳓माव् अब्रुवन् ।  
+हव्य᳓न् नो वहतम् इ᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1050,9 +1049,9 @@ The gods having slain Vrtra said to Agni and Soma, 'Bear the offering for us.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव् अ॑ब्रूताम् -  
-"अप॑तेजसौ॒ वै त्यौ +++(=इमाव् [आवाम्])+++ ।  
-वृ॒त्रे वै त्ययो॒स् तेज॒" इति॑। 
+ता᳓व् अब्रू᳓ता᳓म् -  
+"अ᳓पतेजसौ वै᳓ त्यौ᳓ +++(=इमाव् [आवाम्])+++ ।  
+वृत्रे᳓ वै᳓ त्य᳓योस् ते᳓ज" इ᳓ति। 
 </details>
 
 <details><summary>Keith</summary>
@@ -1079,10 +1078,10 @@ They said, 'We two have lost our brilliance, our brilliance is in Vrtra.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽब्रुव॒न् -  
-"क इ॒दम् +++(ततो लब्धुम्)+++ अच्छै॒ती"ति॑ ।  
-"गौर्" इत्य् अ॑ब्रुवन् ।  
-"गौर् वाव सर्व॑स्य मि॒त्रम्" इति॑ ।    
+ते᳓ऽब्रुवन् -  
+"क᳓ इद᳓म् +++(ततो लब्धुम्)+++ अ᳓च्छैती᳓"ति ।  
+"गौ᳓र्" इ᳓त्य् अब्रुवन् ।  
+"गौ᳓र् वा᳓व᳓ स᳓र्वस्य मित्र᳓म्" इ᳓ति ।    
 </details>
 
 <details><summary>Keith</summary>
@@ -1118,9 +1117,9 @@ They said, 'Who is there to go for it?'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-साऽब्र॑वी॒द्  -  
+सा᳓ऽब्रवीद्  -  
 
-> "वरव्ँ॑ वृणै ।
+> "व᳓रव्ँ वृणै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1136,9 +1135,9 @@ She said [6], 'Let me choose a boon;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मय्य् ए॒व स॒तोभये॑न +++(→घृतेन पयसा च)+++ भुनजाध्वा॒" 
+म᳓य्य् एव᳓ सतो᳓भ᳓येन +++(→घृतेन पयसा च)+++ भुनजाध्वा" 
 
-इति॑ ।
+इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1168,7 +1167,7 @@ ye shall feed off both when they are in me.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् गौर् आह॑रत् ।
+त᳓द् गौ᳓र् आ᳓हरत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1183,7 +1182,7 @@ The cow brought the (brilliance);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् गवि॑ स॒तोभये॑न भुञ्जते ।
+त᳓स्माद् ग᳓वि सतो᳓भ᳓येन भुञ्जते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1203,8 +1202,8 @@ therefore they feed off both things that are in the cow;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद्वा अ॒ग्नेस् तेजो॒ यद् घृ॒तम्,  
-ए॒तत् सोम॑स्य॒ यत् पयः॑  ,  
+एत᳓द्वा᳓ अग्ने᳓स् ते᳓जो य᳓द् घृत᳓म्,  
+एत᳓त् सो᳓मस्य य᳓त् प᳓यः  ,  
 </details>
 
 <details><summary>Keith</summary>
@@ -1225,8 +1224,8 @@ ghee indeed is the brilliance of Agni, milk the brilliance of Soma.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वम् अ॒ग्नीषोम॑यो॒स् तेजो॒ वेद॑ -  
-तेज॒स्व्ये॒॑व भ॑वति ।  
+य᳓ एव᳓म् अग्नी᳓षो᳓मयोस् ते᳓जो वे᳓द -  
+तेजस्व्ये᳓व᳓ भवति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1255,8 +1254,8 @@ He who knows thus the brilliance of Agni and Soma becomes brilliant.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वा॒दिनो॑ वदन्ति -  
-"किन्-दे॒व॒त्य॑म् पौर्णमा॒सम्" इति॑ ।
+ब्रह्मवादि᳓नो वदन्ति -  
+"किन्-देवत्य᳙म् पौर्णमास᳓म्" इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1284,7 +1283,7 @@ The theologians say, 'What is the deity of the full moon (rite)?'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒जा॒प॒त्यम् इति॑ ब्रूयात् -
+प्राजापत्य᳓म् इ᳓ति ब्रूयात् -
 </details>
 
 <details><summary>Keith</summary>
@@ -1299,9 +1298,9 @@ He should reply, 'Prajapati;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> तेनेन्द्र॑ञ् ज्ये॒ष्ठम् पु॒त्रन् नि॒रवा॑सायय॒द् ।  
+> ते᳓ने᳓न्द्रञ् ज्येष्ठ᳓म् पुत्र᳓न् निर᳓वासाययद् ।  
 
-इति॑ ।
+इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1331,7 +1330,7 @@ by means of it he established his eldest son, Indra.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑ज् ज्ये॒ष्ठम् पु॒त्रन् धने॑न नि॒रव॑साययन्ति ॥  
+त᳓स्माज् ज्येष्ठ᳓म् पुत्र᳓न् ध᳓नेन निर᳓वसाययन्ति ॥  
 </details>
 
 <details><summary>Keith</summary>

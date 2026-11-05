@@ -1,6 +1,5 @@
 +++
 title = "०५ नमो भवाय"
-
 +++
 अग्निर्ऋषिः
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -15,7 +14,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ भ॒वाय॑ च
+न᳓मो भवा᳓य च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -33,7 +32,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रु॒द्राय॑ च +++(नमः)+++।  
+रुद्रा᳓य च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -53,7 +52,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑श्श॒र्वाय॑ च।  
+न᳓मश्शर्वा᳓य च।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -68,7 +67,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒शु॒पत॑ये च +++(नमः)+++
+पशुप᳓तये च +++(नमः)+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -88,7 +87,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॒  नील॑ग्रीवाय च  
+न᳓मो  नी᳓लग्रीवाय च  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -103,7 +102,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शि॒ति॒कण्ठा॑य च +++(नमः)+++।  
+शितिक᳓ण्ठाय च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -123,7 +122,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑ᳵ कप॒र्दिने॑ च
+न᳓मᳵ कपर्दि᳓ने च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -138,7 +137,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्यु॑प्तकेशाय च +++(नमः)+++।  
+व्यु᳙प्तकेशाय च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -160,7 +159,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑स्सहस्रा॒क्षाय॑ च ..   
+न᳓मस्सहस्राक्षा᳓य च ..   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -175,7 +174,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श॒तध॑न्वने च +++(नमः)+++।  
+शत᳓धन्वने च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -190,7 +189,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ गिरि॒शाय च
+न᳓मो गिरिशा᳓य᳓ च᳓
 </details>
 
 <details><summary>मूलम्</summary>
@@ -205,7 +204,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शि॒पि॒वि॒ष्टाय॑ च +++(नमः)+++।  
+शिपिविष्टा᳓य च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -226,7 +225,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ मी॒ढुष्ट॑माय॒ च
+न᳓मो मीढु᳓ष्टमाय च᳓
 </details>
 
 <details><summary>मूलम्</summary>
@@ -241,7 +240,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इषु॑मते च +++(नमः)+++।  
+इ᳓षुमते च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -256,7 +255,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ ह्र॒स्वाय॑ च
+न᳓मो ह्रस्वा᳓य च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -271,7 +270,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒म॒नाय॑ च +++(नमः)+++।  
+वामना᳓य च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -291,7 +290,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ बृह॒ते च
+न᳓मो बृहते᳓ च᳓
 </details>
 
 <details><summary>मूलम्</summary>
@@ -306,7 +305,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वर्षी॑यसे च +++(नमः)+++।  
+व᳓र्षीयसे च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -326,7 +325,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ वृ॒द्धाय॑ च
+न᳓मो वृद्धा᳓य च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -341,7 +340,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सव्ँ॒वृध्व॑ने च +++(नमः)+++।  
+सव्ँवृ᳓ध्वने च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -361,7 +360,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॒ अग्रि॑याय च
+न᳓मो अ᳓ग्रियाय च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -376,7 +375,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒थ॒माय॑ च +++(नमः)+++।
+प्रथमा᳓य च +++(नमः)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -396,7 +395,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑ आ॒शवे॑ च
+न᳓म आश᳓वे च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -411,7 +410,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒जि॒राय॑  च +++(नमः)+++।  
+अजिरा᳓य  च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -431,7 +430,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॒श्शीघ्रि॑याय च
+न᳓मश्शी᳓घ्रियाय च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -446,7 +445,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शीभ्या॑य च +++(नमः)+++।  
+शी᳓भ्याय च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -466,7 +465,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑ ऊ॒र्म्या॑य च  
+न᳓म ऊर्म्या᳙य च  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -481,7 +480,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒व॒स्व॒न्या॑य च +++(नमः)+++।
+अवस्वन्या᳙य च +++(नमः)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -501,7 +500,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑स्स्रोत॒स्या॑य च
+न᳓मस्स्रोतस्या᳙य च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -516,7 +515,7 @@ title = "०५ नमो भवाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वीप्या॑य च +++(नमः)+++।
+द्वी᳓प्याय च +++(नमः)+++।
 </details>
 
 <details><summary>मूलम्</summary>

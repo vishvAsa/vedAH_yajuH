@@ -5,10 +5,10 @@ title = "१७ गव्य-होमः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(दश गव्यानि जुहोति। त्रैष्टुभः सर्वोनुवाकः । इह धृतिरित्यादि यजुः ।)+++  
-+++(हे रुद्र!)+++ म॒यो॒भूर् वातो॑ अ॒भि वा॑तु + उ॒स्रा+++(=गाः)+++  
-ऊर्ज॑स्वती॒र् ओष॑धी॒र् आरि॑शन्ताम्+++(=आहरन्तु)+++ ।  
-पीव॑स्वतीर् जी॒व-ध॑न्याᳶ+++(=धनार्हा [वत्साः])+++ पिबन्त्व्  
-अव॒साय॑+++(=अवनीयाय)+++ प॒द्वते॑ +++(हे)+++ रुद्र मृड ॥
++++(हे रुद्र!)+++ मयोभू᳓र् वा᳓तो अभि᳓ वातु + उस्रा᳓+++(=गाः)+++  
+ऊ᳓र्जस्वतीर् ओ᳓षधीर् आ᳓रिशन्ताम्+++(=आहरन्तु)+++ ।  
+पी᳓वस्वतीर् जीव᳓-धन्याᳶ+++(=धनार्हा [वत्साः])+++ पिबन्त्व्  
+अवसा᳓य+++(=अवनीयाय)+++ पद्व᳓ते +++(हे)+++ रुद्र मृड ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -21,10 +21,10 @@ Rudra, be gracious to the food that hath feet.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यास् सरू॑पा॒ विरू॑पा॒ एक॑-रूपा॒ ,  
-यासा॑म् अ॒ग्निरिष्ट्या॒ नामा॑नि॒ वेद॑ +++(अन्यदेवतापेक्षया सर्वदेवमुखत्वात्)+++।  
-या अङ्गि॑रस॒स् तप॑से॒ह च॒क्रुस् ,  
-ताभ्यᳶ॑ +++(गोभ्यः)+++ पर्जन्य॒ महि॒ शर्म॑ यच्छ ।
+या᳓स् स᳓रूपा वि᳓रूपा ए᳓क-रूपा ,  
+या᳓साम् अग्नि᳓रि᳓ष्ट्या ना᳓मानि वे᳓द +++(अन्यदेवतापेक्षया सर्वदेवमुखत्वात्)+++।  
+या᳓ अ᳓ङ्गिरसस् त᳓पसेह᳓ चक्रु᳓स् ,  
+ता᳓भ्यᳶ +++(गोभ्यः)+++ पर्जन्य म᳓हि श᳓र्म यच्छ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -36,10 +36,10 @@ To those, O Parjanya, grant abundant protection.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या दे॒वेषु॑ त॒नुव॒म् ऐर॑यन्त॒  
-यासाँ॒ सोमो॒ विश्वा॑ रू॒पाणि॒ +++(दध्यादिलक्षणानि)+++ वेद॑ ।  
-ता अ॒स्मभ्य॒म् पय॑सा॒ पिन्व॑मानाᳶ  
-प्र॒जाव॑तीर् इन्द्र गो॒ष्ठे रि॑रीहि+++(=समागमय)+++ ।[43]
+या᳓ देवे᳓षु तनु᳓वम् ऐ᳓रयन्त  
+या᳓साँ सो᳓मो वि᳓श्वा रूपा᳓णि +++(दध्यादिलक्षणानि)+++ वे᳓द ।  
+ता᳓ अस्म᳓भ्यम् प᳓यसा पि᳓न्वमानाᳶ  
+प्रजा᳓वतीर् इन्द्र गोष्ठे᳓ रिरीहि+++(=समागमय)+++ ।[43]
 </details>
 
 <details><summary>Keith</summary>
@@ -52,9 +52,9 @@ Swelling with milk and rich in offspring.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑ति॒र् मह्य॑म् ए॒ता +++(गावो)+++ ररा॑णो॒+++(=ददन्)+++ ,  
-विश्वै॑र् दे॒वैᳶ पि॒तृभि॑स् सव्ँविदा॒नः+++(=ऐकमत्यं गतः)+++ ।  
-शि॒वास् स॒तीर् उप॑ नो गो॒ष्ठम् आक॒स्+++(=आकरोतु)+++
+प्रजा᳓पतिर् म᳓ह्यम् एता᳓ +++(गावो)+++ र᳓राणो+++(=ददन्)+++ ,  
+वि᳓श्वैर् देवैᳶ᳓ पितृ᳓भिस् सव्ँविदानः᳓+++(=ऐकमत्यं गतः)+++ ।  
+शिवा᳓स् सती᳓र् उ᳓प नो गोष्ठ᳓म् आ᳓कस्+++(=आकरोतु)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -66,7 +66,7 @@ Hath brought them, auspicious, to our pastures.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तासाव्ँ॑ व॒यम् प्र॒जया॒ सँ स॑देम ।
+ता᳓साव्ँ वय᳓म् प्रज᳓या सँ᳓ सदेम ।
 </details>
 
 <details><summary>Keith</summary>
@@ -74,8 +74,7 @@ Hath brought them, auspicious, to our pastures.
 May we possess their offspring.
 </details>
 
-<div class="js_include" includetitle="falseZ" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
-
+<div class="js_include" includetitle="falseZ" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
 <details open><summary><h2>इह धृतिः …{Loading}…</h2></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -91,7 +90,7 @@ May we possess their offspring.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह धृति॒स् +++(स्यात्)+++ स्वाहा॑।
+इह᳓ धृ᳓तिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -101,7 +100,7 @@ Here is support, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह विधृ॑ति॒स् +++(स्यात्)+++ स्वाहा॑।
+इह᳓ वि᳓धृतिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -111,7 +110,7 @@ Here is keeping apart, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह रन्ति॒स्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वाहा॑।
+इह᳓ र᳓न्तिस्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -121,7 +120,7 @@ Here is joy, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह रम॑ति॒स् +++(स्यात्)+++ स्वाहा॑।
+इह᳓ र᳓मतिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -151,43 +150,30 @@ Here is delight, hail!'
 इति सप्तमे प्रथमे अष्टादशोनुवाकः ॥  
 </details>
 </details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
+
+मही᳓म् ऊ षु᳓ मात᳓रँ सुव्रता᳓नाम्  
+ऋत᳓स्य प᳓त्नीम् अ᳓वसे **हुवेम** ।  
+तुवि+++(=प्रवृद्ध)+++-क्षत्त्रा᳓म् अज᳓रन्तीम् उरूचीँ᳓+++(=उरुगमनां)+++ 
+सुश᳓र्माणम् अ᳓दितिँ+++(=अखण्डनीयां)+++ सुप्र᳓णीतिम् ॥
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-म॒हीम् ऊ॒ षु मा॒तरँ॑ सुव्र॒ताना॑म्  
-ऋ॒तस्य॒ पत्नी॒म् अव॑से **हुवेम** ।  
-तु॒वि॒+++(=प्रवृद्ध)+++-क्ष॒त्त्राम् अ॒जर॑न्तीम् उरू॒चीँ+++(=उरुगमनां)+++ 
-सु॒शर्मा॑ण॒म् अदि॑तिँ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥
-</details>
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 <details><summary>Keith</summary>
 
 The mighty mother of the righteous,  
 The spouse of holy order, let us invoke to aid us,  
 The powerful, the unageing, the wide  
 Aditi, who giveth good protection and good guidance.
-</details> 
-
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
+</details>
 
 <details><summary>मूलम्</summary>
 
 म॒हीमू॒ षु मा॒तरँ॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हुवेम ।  
 तु॒वि॒क्ष॒त्त्राम॒जर॑न्तीमुरू॒चीँ सु॒शर्मा॑ण॒मदि॑तिँ सु॒प्रणी॑तिम्  ॥
-</details>
-
-<details><summary>Keith</summary>
-
-The mighty mother of the righteous,  
-The spouse of holy order, let us invoke to aid us,  
-The powerful, the unageing, the wide  
-Aditi, who giveth good protection and good guidance.
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -200,17 +186,13 @@ Aditi, who giveth good protection and good guidance.
 
 ईदृशीं महीं देवीम् **अवसे** रक्षणाय तस्यास्तर्पणाय वा **हुवेम** सुष्ठु आह्वयामः । व्यत्ययेन शः । पूर्ववत्सम्प्रसारणम्, 'सुञः' इति सोस्संहितायां षत्वम् । **उ** इति पादपूरणे । 'अन्येषामपि दृश्यते' इति तस्य संहितायां दीर्घत्वम् ॥
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
 
 सु॒त्रामा॑णम्+++(=सुत्राणं)+++ पृथि॒वीन् द्याम् अ॑ने॒हसँ॑+++(=अपापाम्)+++  
 सु॒शर्मा॑ण॒म् अदि॑तिँ सु॒प्रणी॑तिम् ।  
 दैवी॒न् **नावँ॑** स्व्-अरि॒त्राम्+++(=सुनौदण्डां)+++ अना॑गसो॒  
 अस्र॑वन्ती॒म् **आ रु॑हेमा** स्व॒स्तये᳚ ॥
-</details>
 
 </div>

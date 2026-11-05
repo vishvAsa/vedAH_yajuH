@@ -5,8 +5,7 @@ unicode_script: devanagari
 ---
 ## अन्नम्
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA">
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 1सप्तमे सौर्यादिपशूनां सूक्तान्यभिहितानि । अष्टमे वेहदादिपशूनां सूक्तान्युच्यन्ते । ते च पशवः शाखान्तरे समाम्नाताः । तन्न सूत्रकारणोदाहृतम् - 'सान्नाय्ये वेहतभालभेत' इत्यस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - बह्वृचा आरण्यकाण्डे त्रिविधमन्नमामनन्ति - 'त्रेधा विहितं वा इदमन्नमशनं पानं खादः' इति । तस्याशनादेस्त्रिविधस्यान्नस्याभिमानिनी या देवता तदीयानि वचनान्यस्मिन्सूक्ते प्रतिपाद्यन्ते ।
@@ -15,10 +14,11 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/02_aham_asmi.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-अ॒हम् **अ॑स्मि** प्रथम॒जा +++(=प्रथमजनयिता)+++ ऋ॒तस्य॑ +++(=यज्ञस्य)+++ ।  
-पूर्वं॑ दे॒वेभ्यो॑ अ॒मृत॑स्य॒ नाभिः॑ ।  
-यो मा॒ **ददा॑ति॒**, स इद् ए॒व मा +++(अन्नरूपं)+++ **ऽऽवाः॑** +++(=आवृणोति [पश्चात्])+++।  
-अ॒हम् +++(दात्रे)+++ अन्न॒म्, +++(अदत्वा)+++ अन्न॑म् अ॒दन्त॑म् **अद्मि**।
+अह᳓म् **अस्मि** प्रथमजा᳓ +++(=प्रथमजनयिता)+++ ऋत᳓स्य +++(=यज्ञस्य)+++ ।  
+पू᳓र्वं देवे᳓भ्यो अमृ᳓तस्य ना᳓भिः ।  
+यो᳓ मा **द᳓दाति**, स᳓ इ᳓द् एव᳓ मा᳓ +++(अन्नरूपं)+++ **ऽऽवाः** +++(=आवृणोति [पश्चात्])+++।  
+अह᳓म् +++(दात्रे)+++ अ᳓न्नम्, +++(अदत्वा)+++ अ᳓न्नम् अद᳓न्तम् **अद्मि**।
+
 </details>
 </div>
 
@@ -57,10 +57,11 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/06_pUrvam_agner.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-पूर्व॑म्  +++(मरण/नरक-)+++अ॒ग्नेर् अपि॑ **दह॒त्य्** अन्न॑म् +++(अदातारम्)+++।  
-य॒त्तौ +++(→ऽदाता, दाता च)+++ हा॑ **ऽऽसते**, अहम्-उत्त॒रेषु॑ ।  
-व्यात्त॑म् अस्य +++(=अन्न-देवस्य)+++  प॒शव॑स् +++(=ये ऽदातारस् तान्प्रति)+++ सु॒जम्भ॑म् ।  
-**पश्य॑न्ति॒** धीरा॒ +++(→दातारः)+++, **प्रच॑रन्ति॒** पाकाः॑  +++(=मूढा [अदातारः])+++ ।
+पू᳓र्वम्  +++(मरण/नरक-)+++अग्ने᳓र् अ᳓पि **दहत्य्** अ᳓न्नम् +++(अदातारम्)+++।  
+यत्तौ᳓ +++(→ऽदाता, दाता च)+++ हा **ऽऽसते**, अहम्-उत्तरे᳓षु ।  
+व्या᳓त्तम् अस्य +++(=अन्न-देवस्य)+++  पश᳓वस् +++(=ये ऽदातारस् तान्प्रति)+++ सुज᳓म्भम् ।  
+**प᳓श्यन्ति** धी᳓रा +++(→दातारः)+++, **प्र᳓चरन्ति** पा᳓काः  +++(=मूढा [अदातारः])+++ ।
+
 </details>
 </div>
 
@@ -103,10 +104,11 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/10_jahAmy_anyan.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-**जहा॑म्य्** अ॒न्यन्, **न ज॑हाम्य्** अ॒न्यम् ।  
-अ॒हम् अन्नं॒, +++(उक्त-नियम-)+++वश॒म् इच् **च॑रामि** ।  
-+++(दात्रदात्रोः)+++ स॒मा॒नम् अर्थं॒ +++(→नियमं)+++ **पर्ये॑मि** +++(केवलम्)+++ - "भु॒ञ्जत् +++(=पालयन्)+++ ।  
-को माम् अन्नं॑ मनु॒ष्यो॑ **दयेत**?"।
+**ज᳓हाम्य्** अन्य᳓न्, **न᳓ जहाम्य्** अन्य᳓म् ।  
+अह᳓म् अ᳓न्नं, +++(उक्त-नियम-)+++व᳓शम् इ᳓च् **चरामि** ।  
++++(दात्रदात्रोः)+++ समान᳓म् अ᳓र्थं +++(→नियमं)+++ **प᳓र्येमि** +++(केवलम्)+++ - "भुञ्ज᳓त् +++(=पालयन्)+++ ।  
+को᳓ मा᳓म् अ᳓न्नं मनुष्यो᳙ **दयेत**?"।
+
 </details>
 </div>
 
@@ -140,10 +142,11 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/14_parAke_annam.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-परा॑के॒ +++(→लोके)+++ अन्नं॒ **निहि॑तं** लो॒क ए॒तत् ।  
-विश्वै॑र् दे॒वैः पि॒तृभि॑र् **गु॒प्तम्** अन्न॑म् ।  
-यद् **अ॒द्यते॑ लु॒प्यते॒**, यत् **प॑रो॒प्यते॑** +++(=बहिस्त्यज्यते)+++ +++(अस्मिल्ँ लोके)+++ ।  
-श॒त॒त॒मी +++(=.०१)+++, **सा त॒नूर्** मे॑ बभूव +++(पर-लोके)+++ ।
+प᳓राके +++(→लोके)+++ अ᳓न्नं **नि᳓हितं** लोक᳓ एत᳓त् ।  
+वि᳓श्वैर् देवैः᳓ पितृ᳓भिर् **गुप्त᳓म्** अ᳓न्नम् ।  
+य᳓द् **अद्य᳓ते लुप्य᳓ते**, य᳓त् **परोप्य᳓ते** +++(=बहिस्त्यज्यते)+++ +++(अस्मिल्ँ लोके)+++ ।  
+शततमी᳓ +++(=.०१)+++, **सा᳓ तनू᳓र्** मे बभूव +++(पर-लोके)+++ ।
+
 </details>
 </div>
 
@@ -175,10 +178,11 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/18_mahAntau_charU.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-म॒हान्तौ॑ च॒रू +++(=कुम्भौ)+++ स॑कृद् दु॒ग्धेन॑ **पप्रौ**+++(←पूरणे)+++ ।  
-दिवं॑ च **पृश्नि** +++(=स्वल्पम् [अपि])+++ पृथि॒वीं च॑ सा॒कम् ।  
-तत् **सं॒पिब॑न्तो॒ न मि॑नन्ति** +++(=हिंसन्ति आत्मनः)+++ वे॒धसः॑ ।  
-नैतद् भू॒यो **भव॑ति॒**, नो कनी॑यः +++(अपि च पर्याप्तः)+++ ।
+महा᳓न्तौ चरू᳓ +++(=कुम्भौ)+++ सकृद् दुग्धे᳓न **पप्रौ**+++(←पूरणे)+++ ।  
+दि᳓वं च **पृश्नि** +++(=स्वल्पम् [अपि])+++ पृथिवीं᳓ च साक᳓म् ।  
+त᳓त् **संपि᳓बन्तो न᳓ मिनन्ति** +++(=हिंसन्ति आत्मनः)+++ वेध᳓सः ।  
+नै᳓त᳓द् भूयो᳓ **भ᳓वति**, नो᳓ क᳓नीयः +++(अपि च पर्याप्तः)+++ ।
+
 </details>
 </div>
 
@@ -210,10 +214,11 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/22_annaM_prANam.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-अन्नं॑ प्रा॒णम्, अन्न॑म् अपा॒नम् **आ॑हुः** ।  
-अन्नं॑ मृ॒त्युं तम् उ॑ जी॒वातु॑म् +++(=जीवनौषधिम्)+++ **आहुः** ।  
-अन्न॑म् ब्र॒ह्माणो॑ ज॒रसव्ँ॑ **वदन्ति** ।  
-अन्न॑म् **आहुᳶ** प्र॒जन॑नम् प्र॒जाना॑म् ।
+अ᳓न्नं प्राण᳓म्, अ᳓न्नम् अपान᳓म् **आहुः** ।  
+अ᳓न्नं मृत्युं᳓ त᳓म् उ जीवा᳓तुम् +++(=जीवनौषधिम्)+++ **आहुः** ।  
+अ᳓न्नम् ब्रह्मा᳓णो जर᳓सव्ँ **वदन्ति** ।  
+अ᳓न्नम् **आहुᳶ** प्रज᳓ननम् प्रजा᳓नाम् ।
+
 </details>
 </div>
 
@@ -242,10 +247,11 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/26_mogham_annav.N.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-मोघ॒म् अन्नव्ँ॑ **विन्दते॒** अ-प्र॑-चेताः +++(अदातृत्वेन लक्षितः)+++ ।  
-स॒त्यम् **ब्र॑वीमि** व॒ध इत्स तस्य॑ ।   
-नार्य॒मण॒म् **पुष्य॑ति॒** नो सखा॑यम् ।   
-केव॑लाघो **भवति** केवला॒दी ।
+मो᳓घम् अ᳓न्नव्ँ **विन्दते** अ᳓-प्र-चेताः +++(अदातृत्वेन लक्षितः)+++ ।  
+सत्य᳓म् **ब्रवीमि** वध᳓ इ᳓त्स᳓ त᳓स्य ।   
+ना᳓र्यम᳓णम् **पु᳓ष्यति** नो᳓ स᳓खायम् ।   
+के᳓वलाघो **भवति** केवलादी᳓ ।
+
 </details>
 </div>
 
@@ -274,10 +280,11 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/30_aham_meghas.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-अ॒हम् मे॒घस् स्त॒नय॒न् **वर्ष॑न्न् अस्मि** ।  
-माम् **अ॑दन्त्य्**, अ॒हम् **अ॑द्म्य्** अ॒न्यान् ॥ 61 ॥  
-अ॒हँ सद् अ॒मृतो॑ **भवामि** ।  
-मद् आ॑दि॒त्या अधि॒ सर्वे॑ **तपन्ति** ।
+अह᳓म् मेघ᳓स् स्तन᳓यन् **व᳓र्षन्न् अस्मि** ।  
+मा᳓म् **अदन्त्य्**, अह᳓म् **अद्म्य्** अन्या᳓न् ॥ 61 ॥  
+अहँ᳓ स᳓द् अमृ᳓तो **भवामि** ।  
+म᳓द् आदित्या᳓ अ᳓धि स᳓र्वे **तपन्ति** ।
+
 </details>
 </div>
 
@@ -297,13 +304,11 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
-
 </div>
 
 ## वाक्
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/">
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 9यदुक्तं सूत्रकारेण - 'वाचे वेहतम्' इति, गर्भघातिनी गौर्वेहदित्युच्यते, तस्य पशोः सूक्ते प्रतीकद्वयं दर्शयति - 'देवीं वाचमजनयन्त देवाः' इति वपायाः पुरोनुवाक्या ।
@@ -321,6 +326,14 @@ unicode_script: devanagari
 सा᳓ नो मन्द्रा᳓ इ᳓षम् ऊ᳓र्जं दु᳓हाना  
 धेनु᳓र् वा᳓ग् अस्मा᳓न् उ᳓प सु᳓ष्टुतइ᳓तु
 
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/100/11_devIM_vAchamajanayanta.md">
+<details><summary><h10>मूलम् …{Loading}…</h10></summary>
+
+दे॒वीं वाच॑मजनयन्त दे॒वास्तां वि॒श्वरू॑पाः प॒शवो॑ वदन्ति ।  
+सा नो॑ म॒न्द्रेष॒मूर्जं॒ दुहा॑ना धे॒नुर्वाग॒स्मानुप॒ सुष्टु॒तैतु॑ ॥
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/100/11_devIM_vAchamajanayanta.md">
@@ -599,7 +612,8 @@ The thunder entering into all beings,becomes the speaker of moral truth, eṣā 
 <details><summary>Jamison Brereton</summary>
 
 The gods begat goddess Speech. The beasts of all forms speak her. Gladdening, milking out refreshment and nourishment for us, let  Speech, the milk-cow, come well praised to us.
-᳓</details>
+᳓
+</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
@@ -653,6 +667,14 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 च᳓तस्र +++(दिग्देवताः)+++ ऊ᳓र्जं दुदुहे प᳓याँसी  
 क्व᳙स्विद् अस्याः परमं᳓ जगाम । 
 
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
+<details><summary><h10>मूलम् …{Loading}…</h10></summary>
+
+यद्वाग्वद॑न्त्यविचेत॒नानि॒ राष्ट्री॑ दे॒वानां॑ निष॒साद॑ म॒न्द्रा ।  
+चत॑स्र॒ ऊर्जं॑ दुदुहे॒ पयां॑सि॒ क्व॑ स्विदस्याः पर॒मं ज॑गाम ॥
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
@@ -1088,6 +1110,14 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 
 </div>
 
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/164/45_chatvAri_vAkparimitA.md">
+<details><summary><h10>मूलम् …{Loading}…</h10></summary>
+
+च॒त्वारि॒ वाक्परि॑मिता प॒दानि॒ तानि॑ विदुर्ब्राह्म॒णा ये म॑नी॒षिणः॑ ।  
+गुहा॒ त्रीणि॒ निहि॑ता॒ नेङ्ग॑यन्ति तु॒रीयं॑ वा॒चो म॑नु॒ष्या॑ वदन्ति ॥
+</details>
+</div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/164/45_chatvAri_vAkparimitA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -1423,14 +1453,12 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 
 भावार्थभाषाः -  विद्वान व अविद्वानात इतकाच फरक आहे, की जे विद्वान असतात ते नाम, आख्यात, उपसर्ग व निपात या चारहींना जाणतात. त्यापैकी तीन ज्ञानात असतात. चौथ्या सिद्ध शब्दसमूहाला (वाणीला) सर्वजण प्रसिद्ध व्यवहारात जाणतात. जे अविद्वान असतात ते नाम, आख्यात, उपसर्ग व निपात जाणत नाहीत, परंतु निपातरूपी साधन-ज्ञानरहित शब्दांचा प्रयोग करतात. ॥ ४५ ॥
 </details>
-</div> 
-
+</div>
 </div>
 
 ## श्रद्धा
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_15-20_shraddhayA/">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_15-20_shraddhayA/">
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 15यदुक्तं सूत्रकारेण 'श्रद्धायै वेहतम्' इति, तस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - 
@@ -1438,10 +1466,10 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्र॒द्धया॒ऽग्निस्समि॑ध्यते ।  
-श्र॒द्धया॑ विन्दते ह॒विः ।   
-श्र॒द्धाम्भग॑स्य मू॒र्धनि॑ ।  
-वच॒सा ऽऽवे॑दयामसि ।
+श्रद्ध᳓याऽग्नि᳓स्स᳓मिध्यते ।  
+श्रद्ध᳓या विन्दते हविः᳓ ।   
+श्रद्धा᳓म्भ᳓गस्य मूर्ध᳓नि ।  
+व᳓चसा᳓ ऽऽवेदयामसि ।
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/01_shraddhayAgniH_samidhyate.md">
@@ -1697,6 +1725,15 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 प्रिय᳓म् भोजे᳓षु य᳓ज्वसु  
 इद᳓म् म उदितं᳓ कृधि
 
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/02_priyaM_shraddhe.md">
+<details><summary><h10>मूलम् …{Loading}…</h10></summary>
+
+प्रि॒यँ श्र॑द्धे॒ दद॑तः । प्रि॒यँ श्र॑द्धे॒ दिदा॑सतः ।  
+प्रि॒यं भो॒जेषु॒ यज्व॑सु। इ॒दं म॑ उदि॒तङ् कृ॑धि ।  
+
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/02_priyaM_shraddhe.md">
@@ -1959,6 +1996,15 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 
 </div>
 
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/03_yathA_devA.md">
+<details><summary><h10>मूलम् …{Loading}…</h10></summary>
+
+यथा॑ दे॒वा असु॑रेषु । श्र॒द्धाम् उ॒ग्रेषु॑ चक्रि॒रे ।  
+ए॒वं भो॒जेषु॒ यज्व॑सु । अ॒स्माक॑म् उदि॒तङ् कृ॑धि ।  
+
+</details>
+</div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/03_yathA_devA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2206,10 +2252,10 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्र॒द्धां दे॒वा यज॑माना  
-वा॒युगो॑पा॒ **उपा॑सते** ।  
-श्र॒द्धां हृ॑द॒य्य१॒॑या ऽऽकू॑त्या+++(=संकल्पक्रियया [उपासते])+++,  
-श्र॒द्धया॑ हूयते ह॒विः॥
+श्रद्धां᳓ देवा᳓ य᳓जमाना  
+वायु᳓गोपा **उ᳓पासते** ।  
+श्रद्धां᳓ हृदय्य᳓१᳓या᳓ ऽऽकूत्या+++(=संकल्पक्रियया [उपासते])+++,  
+श्रद्ध᳓या हूयते हविः᳓॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2466,6 +2512,15 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 
 </div>
 
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/05_shraddhAM_prAtarhavAmahe.md">
+<details><summary><h10>मूलम् …{Loading}…</h10></summary>
+
+श्र॒द्धां प्रा॒तर् ह॑वामहे । श्र॒द्धां म॒ध्यन्दि॑नं॒ परि॑ ।  
+श्र॒द्धाँ सूर्य॑स्य नि॒म्रुचि॑ । श्रद्धे॒ श्रद्धा॑पये॒ह मा॑ ।
+
+</details>
+</div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/05_shraddhAM_prAtarhavAmahe.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2718,10 +2773,11 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_15-20_shraddhayA/07_shraddhA_devAnadhi.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-श्र॒द्धा दे॒वानधि॑ **वस्ते** ।  
-श्र॒द्धा विश्व॑म् इ॒दञ् जग॑त् ।   
-श्र॒द्धाङ् काम॑स्य मा॒तर॑म् ।   
-ह॒विषा॑ **वर्धयामसि** ।
+श्रद्धा᳓ देवा᳓न᳓धि **वस्ते** ।  
+श्रद्धा᳓ वि᳓श्वम् इद᳓ञ् ज᳓गत् ।   
+श्रद्धा᳓ङ् का᳓मस्य मात᳓रम् ।   
+हवि᳓षा **वर्धयामसि** ।
+
 </details>
 </div>
 
@@ -2741,13 +2797,11 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 </details>
 </details>
 </div>
-
 </div>
 
 ## ब्रह्म
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam">
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 21यद् उक्तं सूत्रकारेण  
@@ -2759,10 +2813,10 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः …{Loading}…</h8></summary>
 
-ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑द्  
-वि सी॑म॒तस् सु॒रुचो॑ वे॒न **आ॑वः** ।  
-स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य **वि॒ष्ठाः** +++(=विस्थितः)+++,  
-स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ **विवः॑** +++(=विवृतवान्)+++  ।
+ब्र᳓ह्म +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञानं᳓ +++(=उत्पन्नम्)+++ प्रथमं᳓ पुर᳓स्ताद्  
+वि᳓ सीमत᳓स् सुरु᳓चो वेन᳓ **आवः** ।  
+स᳓ बुध्न्या᳙ +++(=मूले भवः ([खस्य सूर्यः]))+++ उपमा᳓ अस्य **विष्ठाः᳓** +++(=विस्थितः)+++,  
+सत᳓श्च यो᳓निम् +++(सूर्यम्)+++ अ᳓सतश्च **वि᳓वः** +++(=विवृतवान्)+++  ।
 
 </details>
 </div>
@@ -2853,10 +2907,11 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-पि॒ता वि॒राजा॑म्, ऋष॒भो र॑यी॒णाम् ।  
-अ॒न्तरि॑क्षव्ँ वि॒श्व-रू॑प॒ **आवि॑वेश** ।  
-तम् अ॒र्कैर् **अ॒भ्य॑र्चन्ति** व॒त्सम् ।  
-ब्रह्म॒ सन्त॒म् ब्रह्म॑णा **व॒र्धय॑न्तः** ।
+पिता᳓ विरा᳓जाम्, ऋषभो᳓ रयीणा᳓म् ।  
+अन्त᳓रिक्षव्ँ विश्व᳓-रूप **आ᳓विवेश** ।  
+त᳓म् अर्कै᳓र् **अभ्य᳙र्चन्ति** वत्स᳓म् ।  
+ब्र᳓ह्म स᳓न्तम् ब्र᳓ह्मणा **वर्ध᳓यन्तः** ।
+
 </details>
 </div>
 
@@ -2885,10 +2940,11 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-ब्रह्म॑ दे॒वान् **अ॑जनयत्** ।  
-ब्रह्म॒ विश्व॑म् इ॒दञ् जग॑त् ।  
-ब्रह्म॑णः क्ष॒त्रन् **निर्मि॑तम्** ।   
-ब्रह्म॑ ब्राह्म॒ण आ॒त्मना॑ ।
+ब्र᳓ह्म देवा᳓न् **अजनयत्** ।  
+ब्र᳓ह्म वि᳓श्वम् इद᳓ञ् ज᳓गत् ।  
+ब्र᳓ह्मणः क्षत्र᳓न् **नि᳓र्मितम्** ।   
+ब्र᳓ह्म ब्राह्मण᳓ आत्म᳓ना ।
+
 </details>
 </div>
 
@@ -2917,10 +2973,11 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-अ॒न्तर् अ॑स्मिन्न् इ॒मे लो॒काः ॥ 67 ॥  
-अ॒न्तर् विश्व॑म् इ॒दञ् जग॑त् ।  
-ब्रह्मै॒व भू॒ताना॒ञ् ज्येष्ठ॑म् ।  
-तेन॒ को॑ **ऽर्हति॒** स्पर्धि॑तुम् ।
+अन्त᳓र् अस्मिन्न् इमे᳓ लोकाः᳓ ॥ 67 ॥  
+अन्त᳓र् वि᳓श्वम् इद᳓ञ् ज᳓गत् ।  
+ब्र᳓ह्मैव᳓ भूता᳓नाञ् ज्ये᳓ष्ठम् ।  
+ते᳓न को᳙ **ऽर्हति** स्प᳓र्धितुम् ।
+
 </details>
 </div>
 
@@ -2949,10 +3006,11 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-ब्रह्म॑न् दे॒वास् त्रय॑स्-त्रिँशत् ।  
-ब्रह्म॑न्न् इन्द्र-प्रजाप॒ती ।  
-ब्रह्म॑न् ह॒ विश्वा॑ भू॒तानि॑ ।   
-ना॒वीवा॒न्तस् **स॒माहि॑ता** ।
+ब्र᳓ह्मन् देवा᳓स् त्र᳓यस्-त्रिँशत् ।  
+ब्र᳓ह्मन्न् इन्द्र-प्रजापती᳓ ।  
+ब्र᳓ह्मन् ह वि᳓श्वा भूता᳓नि ।   
+नावी᳓वान्त᳓स् **समा᳓हिता** ।
+
 </details>
 </div>
 
@@ -2981,10 +3039,11 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-चत॑स्र॒ आशा॒ᳶ प्रच॑रन्त्व॒ग्नयः॑ ।   
-इ॒मन्नो॑ य॒ज्ञन्न॑यतु प्रजा॒नन् ।   
-घृ॒तम्पिन्व॑न्न॒जरँ॑ सु॒वीर॑म् ॥ 68 ॥  
-ब्रह्म॑ स॒मिद्भ॑व॒त्याहु॑तीनाम् ।
+च᳓तस्र आ᳓शाᳶ प्र᳓चरन्त्वग्न᳓यः ।   
+इम᳓न्नो यज्ञ᳓न्नयतु प्रजान᳓न् ।   
+घृत᳓म्पि᳓न्वन्नज᳓रँ सुवी᳓रम् ॥ 68 ॥  
+ब्र᳓ह्म समि᳓द्भवत्या᳓हुतीनाम् ।
+
 </details>
 </div>
 
@@ -3004,13 +3063,11 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 </details>
 </details>
 </div>
-
 </div>
 
 ## गौः
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_27-33_A_gAvo">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_27-33_A_gAvo">
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 27यदुक्तं सूत्रकारेण - 'आ गावो अग्मन्नित्युपहोमाः' इति । तत्राष्टानामृचां मध्ये प्रथमामाह । 
@@ -3023,6 +3080,14 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 प्रजा᳓वतीः पुरुरू᳓पा इह᳓ स्युर्  
 इ᳓न्द्राय पूर्वी᳓र् उष᳓सो दु᳓हानाः
 
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/028/01_A_gAvo.md">
+<details><summary><h10>मूलम् …{Loading}…</h10></summary>
+
+आ गावो॑ अग्मन्नु॒त भ॒द्रम॑क्र॒न्त्सीद॑न्तु गो॒ष्ठे र॒णय॑न्त्व॒स्मे ।  
+प्र॒जाव॑तीः पुरु॒रूपा॑ इ॒ह स्यु॒रिन्द्रा॑य पू॒र्वीरु॒षसो॒ दुहा॑नाः ॥
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/01_A_gAvo.md">
@@ -3373,6 +3438,14 @@ Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich 
 भू᳓योभूयो रयि᳓म् इ᳓द् अस्य **वर्ध᳓यन्न्**  
 अ᳓भिन्ने खिल्ये᳓ +++(स्वर्गे)+++ **नि᳓ दधाति** देवयु᳓म्+++(=देवकामम्)+++ ॥
 
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/028/02_indro_yajvane.md">
+<details><summary><h10>मूलम् …{Loading}…</h10></summary>
+
+इन्द्रो॒ यज्व॑ने पृण॒ते च॑ शिक्ष॒त्युपेद्द॑दाति॒ न स्वं मु॑षायति ।  
+भूयो॑भूयो र॒यिमिद॑स्य व॒र्धय॒न्नभि॑न्ने खि॒ल्ये नि द॑धाति देव॒युम् ॥
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/02_indro_yajvane.md">
@@ -3751,10 +3824,11 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6/63_na_tA.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-**न** ता +++(गाः)+++ **न॑शन्ति॒**+++(←नश् )+++, **न द॑भाति॒** तस्क॑रः॒।   
-नैना॑ अमि॒त्रो व्यथि॒र्+++(←व्यथ्)+++ **आद॑धर्षति** ।  
-दे॒वाँश् च॒ याभि॒र् **यज॑ते॒ ददा॑ति** च॒  
-ज्योग् इत् ताभिः॑ +++(उभय-लोकयोः)+++ **सचते॒**+++(←समवाये)+++ गोप॑तिः स॒ह ॥
+**न᳓** ता᳓ +++(गाः)+++ **नशन्ति**+++(←नश् )+++, **न᳓ दभाति** त᳓स्करः।   
+नै᳓ना अमित्रो᳓ व्य᳓थिर्+++(←व्यथ्)+++ **आ᳓दधर्षति** ।  
+देवाँ᳓श् च या᳓भिर् **य᳓जते द᳓दाति** च  
+ज्यो᳓ग् इ᳓त् ता᳓भिः +++(उभय-लोकयोः)+++ **सचते**+++(←समवाये)+++ गो᳓पतिः सह᳓ ॥
+
 </details>
 </div>
 
@@ -3788,6 +3862,14 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 उरुगाय᳓म् अ᳓भयं +++(स्थानं)+++ त᳓स्य ता᳓ अ᳓नु  
 गा᳓वो म᳓र्तस्य **वि᳓ चरन्ति** य᳓ज्वनः ॥
 
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/028/04_na_tA.md">
+<details><summary><h10>मूलम् …{Loading}…</h10></summary>
+
+न ता अर्वा॑ रे॒णुक॑काटो अश्नुते॒ न सं॑स्कृत॒त्रमुप॑ यन्ति॒ ता अ॒भि ।  
+उ॒रु॒गा॒यमभ॑यं॒ तस्य॒ ता अनु॒ गावो॒ मर्त॑स्य॒ वि च॑रन्ति॒ यज्व॑नः ॥
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/04_na_tA.md">
@@ -4165,10 +4247,11 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_27-33_A_gAvo/34_gAvo_bhago.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-गावो॒ भगो॒, गाव॒ इन्द्रो॑ मे अच्छात् ।   
-गाव॒स् सोम॑स्य प्रथ॒मस्य॑ भ॒क्षः ।   
-इ॒मा या गाव॒स्, स ज॑नास॒ इन्द्रः॑ ।   
-**इ॒च्छामीद्** +हृ॒दा मन॑सा चि॒दिन्द्र॑म् ।
+गा᳓वो भ᳓गो, गा᳓व इ᳓न्द्रो मे अच्छात् ।   
+गा᳓वस् सो᳓मस्य प्रथम᳓स्य भक्षः᳓ ।   
+इमा᳓ या᳓ गा᳓वस्, स᳓ जनास इ᳓न्द्रः ।   
+**इच्छा᳓मी᳓द्** +हृदा᳓ म᳓नसा चिदि᳓न्द्रम् ।
+
 </details>
 </div>
 
@@ -4203,6 +4286,14 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 भद्रं᳓ गृहं᳓ **कृणुथ** भद्र-वाचो  
 बृह᳓द् वो व᳓य+++(=अन्नं)+++ **उच्यते** सभा᳓सु ॥
 
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/028/06_yUyaM_gAvo.md">
+<details><summary><h10>मूलम् …{Loading}…</h10></summary>
+
+यू॒यं गा॑वो मेदयथा कृ॒शं चि॑दश्री॒रं चि॑त्कृणुथा सु॒प्रती॑कम् ।  
+भ॒द्रं गृ॒हं कृ॑णुथ भद्रवाचो बृ॒हद्वो॒ वय॑ उच्यते स॒भासु॑ ॥
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/06_yUyaM_gAvo.md">
@@ -4551,10 +4642,11 @@ Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön vo
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_27-33_A_gAvo/38_prajAvatIH_.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-प्र॒जाव॑तीः +++(गाः)+++, सू॒-यव॑सं +++(भक्षणेन)+++ **रि॒शन्तीः॑**।  
-शु॒द्धा अ॒पः सु॑-प्रपा॒णे **पिब॑न्तीः** ।  
-**मा** वः॑ स्ते॒न **ई॑शत॒** माघशं॑सः॒।  
-**परि॑** वो हे॒ती रु॒द्रस्य॑ **वृञ्ज्यात्** ।
+प्रजा᳓वतीः +++(गाः)+++, सू-य᳓वसं +++(भक्षणेन)+++ **रिश᳓न्तीः**।  
+शुद्धा᳓ अपः᳓ सु-प्रपाणे᳓ **पि᳓बन्तीः** ।  
+**मा᳓** वः स्तेन᳓ **ईशत** मा᳓घ᳓शंसः।  
+**प᳓रि** वो हेती᳓ रुद्र᳓स्य **वृञ्ज्यात्** ।
+
 </details>
 </div>
 
@@ -4578,10 +4670,11 @@ Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön vo
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_27-33_A_gAvo/41_upedam_upaparchanam.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-उपे॒दम् उ॑प॒पर्च॑नम् +++(तृणादिकं)+++।  
-आ॒सु गोषूप॑-**पृच्यताम्** ।   
-उप॑-र्ष॒भस्य॒ रेत॑सि ।   
-उपे॑न्द्र॒ तव॑ वी॒र्ये॑ ॥ 70 ॥
+उ᳓पेद᳓म् उपप᳓र्चनम् +++(तृणादिकं)+++।  
+आसु᳓ गो᳓षू᳓प-**पृच्यताम्** ।   
+उ᳓प-र्षभ᳓स्य रे᳓तसि ।   
+उ᳓पेन्द्र त᳓व वीर्ये᳙ ॥ 70 ॥
+
 </details>
 </div>
 
@@ -4602,7 +4695,6 @@ Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön vo
 </details>
 </details>
 </div>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>

@@ -1,6 +1,5 @@
 +++
 title = "०९ हविर्धानस्य शकटे अन्तर्भाव्यहविर्धानमण्टपनिर्माणम्"
-
 +++
 सोमऋषिः
 
@@ -11,7 +10,7 @@ title = "०९ हविर्धानस्य शकटे अन्तर�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒द्धमव॑ स्यति ।  
+बद्ध᳓म᳓व स्यति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -26,7 +25,7 @@ He loosens the knot;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒रु॒ण॒पा॒शा॒द् ए॒वैने॑ मुञ्चति ।   
+वरुणपाशाद् एवै᳓ने मुञ्चति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -41,7 +40,7 @@ verily he sets them free from the noose of Varuna;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र णे॑नेक्ति॒ मेध्ये॑ ए॒वैने॑ करोति ।  
+प्र᳓ णेनेक्ति मे᳓ध्ये एवै᳓ने करोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -56,7 +55,7 @@ verily he makes them fit for the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा॒वि॒त्रि॒यर्चा हु॒त्वा ह॑वि॒र्धाने॒ प्र व॑र्तयति ।  
+सावित्रिय᳓र्चा᳓ हुत्वा᳓ हविर्धा᳓ने प्र᳓ वर्तयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -71,7 +70,7 @@ Having sacrificed with a verse to Savitr, he brings forward the oblation-holders
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒वि॒तृप्र॑सूत ए॒वैने॒ प्र व॑र्तयति ।  
+सवितृ᳓प्रसूत एवै᳓ने प्र᳓ वर्तयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -86,7 +85,7 @@ verily on the instigation of Savitr he brings them forward.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरु॑णो॒ वा ए॒ष दु॒र्वाग् उ॑भ॒यतो॑ ब॒द्धो यदक्षः॑ ।  
+व᳓रुणो वा᳓ एष᳓ दुर्वा᳓ग् उभय᳓तो बद्धो᳓ य᳓द᳓क्षः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -101,7 +100,7 @@ The axle which is tied on both sides is Varuna of evil speech;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स यद् उ॒त्सर्जे॒द् यज॑मानस्य गृ॒हान् अ॒भ्युत्स॑र्जेत् ।  
+स᳓ य᳓द् उत्स᳓र्जेद् य᳓जमानस्य गृहा᳓न् अभ्यु᳓त्सर्जेत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -116,7 +115,7 @@ if it were to creak, it would creak against the house of the sacrificer.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒वाग्दे॑व॒ दुर्याँ॒ आ व॒देत्या॑ह ।  
+सुवा᳓ग्देव दु᳓र्याँ आ᳓ वदे᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -131,7 +130,7 @@ if it were to creak, it would creak against the house of the sacrificer.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गृ॒हा वै दुर्याः॑ । शान्त्यै॑ ।
+गृहा᳓ वै᳓ दु᳓र्याः । शा᳓न्त्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -161,14 +160,12 @@ the dwelling is the house; (verily it serves) for atonement.
 
 <details><summary>पद-पाठः</summary>
 
-
 वरु॑णः । वै । ए॒षः । दु॒र्वागिति॑ दुः-वाक् । उ॒भ॒यतः॑ । ब॒द्धः । यत् । अक्षः॑ ।   
 सः । यत् । उ॒त्सर्जे॒दित्यु॑त्-सर्जे॑त् । यज॑मानस्य । गृ॒हान् । अ॒भ्युत्स॑र्जे॒दित्य॑भि-उत्स॑र्जेत् ।   
 सु॒वागिति॑ सु-वाक् । दे॒व॒ । दुर्या॑न् । एति॑ । व॒द॒ । इति॑ । आ॒ह॒ ।   
 गृ॒हाः । वै । दुर्याः॑ ।   
 शान्त्यै॑ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -183,7 +180,7 @@ the dwelling is the house; (verily it serves) for atonement.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पत्न्य् - उपा॑नक्ति ।[45]  
+प᳓त्न्य् - उ᳓पानक्ति ।[45]  
 </details>
 
 <details><summary>Keith</summary>
@@ -198,7 +195,7 @@ The wife (of the sacrificer) [1] anoints (them),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पत्नी॒ हि सर्व॑स्य मि॒त्रम् , मि॑त्र॒त्वाय॑ ।  
+प᳓त्नी हि᳓ स᳓र्वस्य मित्र᳓म् , मित्रत्वा᳓य ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -213,7 +210,7 @@ for the wife is every one's friend, for friendship.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् वै पत्नी॑ य॒ज्ञस्य॑ क॒रोति॑ मिथु॒नन् तत् ।   
+य᳓द् वै᳓ प᳓त्नी यज्ञ᳓स्य करो᳓ति मिथुन᳓न् त᳓त् ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -228,7 +225,7 @@ The share of the wife in the sacrifice makes a pair;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ पत्नि॑या ए॒वैष य॒ज्ञस्या॑न्वार॒म्भो , ऽन॑वच्छित्त्यै ।
+अ᳓थो प᳓त्निया एवै᳓ष᳓ यज्ञ᳓स्यान्वारम्भो᳓ , ऽनवच्छित्त्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -250,7 +247,6 @@ verily also the wife grasps the sacrifice that it may not be interrupted.
 अथो॒ इति॑ । पत्नि॑याः । ए॒व । ए॒षः । य॒ज्ञस्य॑ । अ॒न्वा॒र॒म्भ इत्य॑नु-आ॒र॒म्भः । अन॑वच्छित्त्या॒ इत्यन॑व-छि॒त्त्यै॒ । 
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2पत्नी अक्षधुरे उपानक्तीति विधिः ॥ पत्नी हि सर्वस्य मित्रं मित्रमिव; स्त्रीत्वात् । तस्मात्तया कृतमुपाञ्जनं मित्रत्वाय भवति वरुणस्य वा अक्षस्य वा । यद्वा इत्यादि । व्याख्यातम् ॥
@@ -263,7 +259,7 @@ verily also the wife grasps the sacrifice that it may not be interrupted.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वर्त्म॑ना॒ वा अ॒न्वित्य॑ य॒ज्ञँ रक्षाँ॑सि जिघाँसन्ति ।  
+व᳓र्त्मना वा᳓ अन्वि᳓त्य यज्ञँ᳓ र᳓क्षाँसि जिघाँसन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -278,7 +274,7 @@ Now the Raksases following in its track seek to injure the sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वै॒ष्ण॒वीभ्या॑म् ऋ॒ग्भ्याव्ँ वर्त्म॑नोर् जुहोति ।  
+वैष्णवी᳓भ्याम् ऋग्भ्याव्ँ᳓ व᳓र्त्मनोर् जुहोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -293,7 +289,7 @@ he makes a libation in the two tracks with Rc verses addressed to Visnu.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञो वै विष्णुः॑ ।
+यज्ञो᳓ वै᳓ वि᳓ष्णुः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -308,7 +304,7 @@ The sacrifice is Visnu;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञादे॒व रक्षाँ॒स्यप॑ हन्ति ।
+यज्ञा᳓देव᳓ र᳓क्षाँस्य᳓प हन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -322,7 +318,6 @@ verily he drives away the Raksases from the sacrifice.
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 वर्त्म॑ना । वै । अ॒न्वित्येत्य॑नु-इत्य॑ । य॒ज्ञम् । रक्षाँ॑सि । जि॒घाँ॒स॒न्ति॒ ।   
 वै॒ष्ण॒वीभ्या॑म् । ऋ॒ग्भ्यामित्यृ॑क्-भ्याम् । वर्त्म॑नोः । जु॒हो॒ति॒ ।   
@@ -342,7 +337,7 @@ verily he drives away the Raksases from the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हिर॑ण्यम् उ॒पास्य॑ जुहोति ।
+हि᳓रण्यम् उपा᳓स्य जुहोति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -357,7 +352,7 @@ If the Adhvaryu were to pour the libation in (a place) without fire, the Adhvary
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नि॒वत्ये॒व जु॑होति ।  
+अग्निव᳓त्येव᳓ जुहोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -372,7 +367,7 @@ verily he makes the libation in that which has fire;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नान्धो॑ऽध्व॒र्युर्भव॑ति॒ , न य॒ज्ञँ रक्षाँ॑सि घ्नन्ति
+ना᳓न्धोऽध्वर्यु᳓र्भ᳓वति , न᳓ यज्ञँ᳓ र᳓क्षाँसि घ्नन्ति
 </details>
 
 <details><summary>Keith</summary>
@@ -390,7 +385,6 @@ the Adhvaryu does not become blind, the Raksases do not injure the sacrifice.
 अत्र मूलं नास्ति -यदध्वर्युः इति वाक्यम्
 </details>
 
-
 <details><summary>पद-पाठः</summary>
 
 यत् । अ॒ध्व॒र्युः । अ॒न॒ग्नौ । आहु॑ति॒मित्या-हु॒ति॒म् । जु॒हु॒यात् । अ॒न्धः । अ॒ध्व॒र्युः । स्या॒त् । रक्षाँ॑सि । य॒ज्ञम् । ह॒न्युः॒ । [46]  
@@ -398,9 +392,6 @@ the Adhvaryu does not become blind, the Raksases do not injure the sacrifice.
 हिर॑ण्यम् । उ॒पास्येत्यु॑प-अस्य॑ । जु॒हो॒ति॒ ।   
 अ॒ग्नि॒वतीत्य॑ग्नि-वति॑ । ए॒व । जु॒हो॒ति॒ । न । अ॒न्धः । अ॒ध्व॒र्युः । भव॑ति । न । य॒ज्ञम् । रक्षाँ॑सि । घ्न॒न्ति॒ ।   
 </details>
-
-
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -419,7 +410,7 @@ the Adhvaryu does not become blind, the Raksases do not injure the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"प्राची॒ प्रेत॑मध्व॒रङ् क॒ल्पय॑न्ती॒" इत्या॑ह ।
+"प्रा᳓ची प्रे᳓तमध्वर᳓ङ् कल्प᳓यन्ती" इ᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -434,7 +425,7 @@ the Adhvaryu does not become blind, the Raksases do not injure the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒व॒र्गमे॒वैने॑ लो॒कङ् ग॑मयति ।
+सुवर्ग᳓मेवै᳓ने लोक᳓ङ् गमयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -453,7 +444,6 @@ verily he makes them go to the world of heaven.
 सु॒व॒र्गमिति॑ सुवः-गम् । ए॒व । ए॒ने॒ इति॑ । लो॒कम् । ग॒म॒य॒ति॒ ।  
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5'प्राची' इत्यादिहविर्धानप्रवर्तनमन्त्रः । तं व्याचष्टे - सुवर्गमिति ॥ तस्मात्प्राचीप्रेतमित्याह यस्माच्चाध्वरं कल्पयन्ति प्रेतमित्याह तेन हेतुना एने हविर्धाने सुवर्गं सुष्ठु गन्तव्यं लोक स्थानं हविर्धानगृहं गमयति । तत्र गमने हि तदुभयमुपपद्यते इति ॥
@@ -466,7 +456,7 @@ verily he makes them go to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्र॑ रमेथाव्ँ॒ वर्ष्म॑न् पृथि॒व्या इत्या॑ह ।
+अ᳓त्र रमेथाव्ँ व᳓र्ष्मन् पृथिव्या᳓ इ᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -481,7 +471,7 @@ verily he makes them go to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वर्ष्म॒ ह्ये॑तत् पृ॑थि॒व्या यद् दे॑व॒यज॑नम् ।
+व᳓र्ष्म ह्ये᳙त᳓त् पृथिव्या᳓ य᳓द् देवय᳓जनम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -496,7 +486,7 @@ for the place of sacrifice is the height of the earth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शिरो॒ वा ए॒तद् य॒ज्ञस्य॒ यद्ध॑वि॒र्धान॑म् ।
+शि᳓रो वा᳓ एत᳓द् यज्ञ᳓स्य य᳓द्धविर्धा᳓नम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -529,7 +519,7 @@ Now the oblation-holder is the head of the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि॒वो वा॑ विष्णवु॒त वा॑ पृथि॒व्या इति॑ ।[47]  
+दिवो᳓ वा विष्णवुत᳓ वा पृथिव्या᳓ इ᳓ति ।[47]  
 </details>
 
 <details><summary>Keith</summary>
@@ -544,7 +534,7 @@ Now the oblation-holder is the head of the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒शीर्प॑दय॒र्चा दक्षि॑णस्य हवि॒र्धान॑स्य मे॒थीन्नि ह॑न्ति ।  
+आशी᳓र्पदयर्चा᳓ द᳓क्षिणस्य हविर्धा᳓नस्य मेथी᳓न्नि᳓ हन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -559,7 +549,7 @@ with this Rc verse which contains a blessing he strikes in the prop of the south
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शी॒र्ष॒त ए॒व य॒ज्ञस्य॒ यज॑मान आ॒शिषोऽव॑ रुन्धे ।  
+शीर्षत᳓ एव᳓ यज्ञ᳓स्य य᳓जमान आशि᳓षो᳓ऽव रुन्धे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -591,7 +581,7 @@ verily the sacrificer at the beginning of the sacrifice wins blessings.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द॒ण्डो वा औ॑प॒रस् तृ॒तीय॑स्य हवि॒र्धान॑स्य वषट्का॒रेणाक्ष॑मच्छिनत् ।   
+दण्डो᳓ वा᳓ औपर᳓स् तृती᳓यस्य हविर्धा᳓नस्य वषट्कारे᳓णा᳓क्षमच्छिनत् ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -606,7 +596,7 @@ Now Danda Aupara split by the Vasat call the axle of the third oblation-holder;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् तृ॒तीय॑ञ् छ॒दिर् ह॑वि॒र्धान॑योरुदाह्रि॒यते॑ , तृ॒तीय॑स्य हवि॒र्धान॒स्याव॑रुद्ध्यै ।
+य᳓त् तृती᳓यञ् छदि᳓र् हविर्धा᳓नयोरुदाह्रिय᳓ते , तृती᳓यस्य हविर्धा᳓नस्या᳓वरुद्ध्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -620,7 +610,6 @@ the third cover put on the oblation-holder (serves) to make up the third oblatio
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 द॒ण्डः । वै । औ॒प॒रः । तृ॒तीय॑स्य । ह॒वि॒र्धान॒स्येति॑ हविः-धान॑स्य । व॒ष॒ट्का॒रेणेति॑ वषट्-का॒रेण॑ । अक्ष॑म् । अ॒च्छि॒न॒त् ।   
 
@@ -639,7 +628,7 @@ the third cover put on the oblation-holder (serves) to make up the third oblatio
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शिरो॒ वा ए॒तद्य॒ज्ञस्य॒ यद्ध॑वि॒र्धानम् ।
+शि᳓रो वा᳓ एत᳓द्यज्ञ᳓स्य य᳓द्धविर्धा᳓न᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -654,7 +643,7 @@ The oblation-holder is the head of the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॑ र॒राट॑मसि॒ विष्णोः॑ पृ॒ष्ठम॒सीत्या॑ह ।
+वि᳓ष्णो ररा᳓टमसि वि᳓ष्णोः पृष्ठ᳓मसी᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -669,7 +658,7 @@ The oblation-holder is the head of the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑देताव॒द्धा शिरो॒ विष्यू॑तम् ।
+त᳓स्मादेतावद्धा᳓ शि᳓रो वि᳓ष्यूतम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -701,7 +690,7 @@ Therefore so often is the head divided.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒स् स्यूर॑सि॒ , विष्णो॑र्ध्रु॒वम॒सीत्या॑ह ।  
+वि᳓ष्णोस् स्यू᳓रसि , वि᳓ष्णोर्ध्रुव᳓मसी᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -716,7 +705,7 @@ Therefore so often is the head divided.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वै॒ष्ण॒वँ हि दे॒वत॑या हवि॒र्धान॑म् ।  
+वैष्णवँ᳓ हि᳓ देव᳓तया हविर्धा᳓नम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -731,7 +720,7 @@ for the oblation-holder is connected with Visnu as its deity.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यम् प्र॑थ॒मङ् ग्र॒न्थिङ् ग्र॑थ्नी॒याद् , यत् तन्न वि॑स्रँ॒सये॒द् - अमे॑हेनाध्व॒र्युᳶ प्र मी॑येत ।  
+य᳓म् प्रथम᳓ङ् ग्रन्थि᳓ङ् ग्रथ्नीया᳓द् , य᳓त् त᳓न्न᳓ विस्रँस᳓येद् - अ᳓मेहेनाध्वर्युᳶ᳓ प्र᳓ मीयेत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -746,7 +735,7 @@ Now the knot which he first ties, if he were not to unloose it, the Adhvaryu wou
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒त् स वि॒स्रस्यः॑ ॥ [48]  
+त᳓स्मात् स᳓ विस्र᳓स्यः ॥ [48]  
 </details>
 
 <details><summary>Keith</summary>

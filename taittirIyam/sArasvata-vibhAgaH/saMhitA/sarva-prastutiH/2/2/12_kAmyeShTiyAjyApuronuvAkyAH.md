@@ -13,7 +13,7 @@ title = "१२ काम्येष्टियाज्यापुरोन�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हि॒र॒ण्य॒ग॒र्भः..
+हिरण्यगर्भः᳓..
 </details>
 
 <details><summary>Keith</summary>
@@ -43,7 +43,7 @@ The golden germ.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आपो॑ ह॒ यत् ..
+आ᳓पो ह य᳓त् ..
 </details>
 
 <details><summary>Keith</summary>
@@ -71,7 +71,7 @@ When the waters.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजा॑पते ...
+प्र᳓जापते ...
 </details>
 
 <details><summary>Keith</summary>
@@ -108,8 +108,8 @@ O Prajapati.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स वे॑द पु॒त्रᳶ पि॒तरँ॒ स मा॒तरँ॒ स सू॒नुर्भु॑व॒त्स भु॑व॒त्पुन॑र्मघः ।   
-स द्यामौर्णो॑द॒न्तरि॑क्षँ॒ स सुव॒स्स विश्वा॒ भुवो॑ अभव॒त्स आऽभ॑वत् ।
+स᳓ वेद पुत्रᳶ᳓ पित᳓रँ स᳓ मात᳓रँ स᳓ सूनु᳓र्भुवत्स᳓ भुवत्पु᳓नर्मघः ।   
+स᳓ द्या᳓मौ᳓र्णोदन्त᳓रिक्षँ स᳓ सु᳓वस्स᳓ वि᳓श्वा भु᳓वो अभवत्स᳓ आ᳓ऽभवत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -136,7 +136,7 @@ He as a son knoweth the father, he the mother, He is a son, he is of generous re
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उदु॒ त्यम् ...
+उ᳓दु त्य᳓म् ...
 </details>
 
 <details><summary>Keith</summary>
@@ -170,7 +170,7 @@ Up that.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चि॒त्रम्...
+चित्र᳓म्...
 </details>
 
 <details><summary>Keith</summary>
@@ -203,8 +203,8 @@ The radiant.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सप्र॑त्न॒वन्नवी॑य॒साऽग्ने॑ द्यु॒म्नेन॑ सय्ँ॒यता॑ ।  
-बृ॒हत्त॑तन्थ भा॒नुना॑ ।
+स᳓प्रत्नव᳓न्न᳓वीयसा᳓ऽग्ने द्युम्ने᳓न सय्ँय᳓ता ।  
+बृह᳓त्ततन्थ भानु᳓ना ।
 </details>
 
 <details><summary>Keith</summary>
@@ -230,8 +230,8 @@ Thou from of old with thy new glory, O Agni, with thy companion light, Hast migh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निकाव्या॑ वे॒धस॒श्शश्व॑तस्क॒र्हस्ते॒ दधा॑नः (64)  नर्या॑ पु॒रूणि॑ ।  
-अ॒ग्निर्भु॑वद्रयि॒पती॑ रयी॒णाँ स॒त्रा च॑क्रा॒णो अ॒मृता॑नि॒ विश्वा॑ ।  
+नि᳓का᳓व्या वेध᳓सश्श᳓श्वतस्कर्ह᳓स्ते द᳓धानः᳓ (64)  न᳓र्या पुरू᳓णि ।  
+अग्नि᳓र्भुवद्रयिप᳓ती रयीणाँ᳓ सत्रा᳓ चक्राणो᳓ अमृ᳓तानि वि᳓श्वा ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -260,8 +260,8 @@ He doth put down the wise contrivings of every worshipper; Bearing in his arm [1
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हिर॑ण्यपाणिमू॒तये॑ सवि॒तार॒मुप॑ ह्वये ।   
-स चेत्ता॑ दे॒वता॑ प॒दम् ।
+हि᳓रण्यपाणिमूत᳓ये सविता᳓रमु᳓प ह्वये ।   
+स᳓ चे᳓त्ता देव᳓ता पद᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -287,8 +287,8 @@ To help us I summon The golden-handed Savitr; He as a god knoweth the place.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒मम॒द्य स॑वितर्वा॒ममु॒ श्वो दि॒वेदि॑वे वा॒मम॒स्मभ्यँ॑ सावीः ।   
-वा॒मस्य॒ हि क्षय॑स्य देव॒ भूरे॑र॒या धि॒या वा॑म॒भाज॑स्स्याम ।
+वाम᳓मद्य᳓ सवितर्वाम᳓मु श्वो᳓ दिवे᳓दिवे वाम᳓मस्म᳓भ्यँ सावीः ।   
+वाम᳓स्य हि᳓ क्ष᳓यस्य देव भू᳓रेरया᳓ धिया᳓ वामभा᳓जस्स्याम ।
 </details>
 
 <details><summary>Keith</summary>
@@ -312,7 +312,7 @@ Prosperity to-day, O Savitr prosperity to-morrow, Day by day prosperity mayst th
 11अथ भूम्याश्चरोः पुरोनुवाक्या - बडित्थेत्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
 
 ब᳓ड् इत्था᳓+++(त्थं)+++ प᳓र्वतानाङ्+++(→मेघानाम्)+++  
 खिद्र᳓म्+++(=छिद्रं →छेदनम्)+++ **बिभर्षि** पृथिवि ।  
@@ -322,8 +322,7 @@ Prosperity to-day, O Savitr prosperity to-morrow, Day by day prosperity mayst th
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
 <details><summary>Keith</summary>
 
 O earth, thou bearest
@@ -349,10 +348,9 @@ With thy hills, quicken with thy might [2].
 
 केचिदाहुः - सत्यमित्थं पर्वतानां मेखलानं खिद्रं छेदनप्रवहमुदकं बिभर्षि । पृथुत्वात्प्रभूतं वर्षोदकं बिभर्षि । या त्वं प्रणवती प्रवणगामिना उदकेन मह्ना महता विश्वमिदं प्रकर्षेण जिनोषि तर्पयसि, अत एव महनीयासि ; अनेनैव क्रमेण सर्वहिरण्यादिलाभहेतुत्वात् ॥
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_stomAsas_tvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_stomAsas_tvA.md">
 
 स्तोमा॑सस्त्वा विचारिणि॒  
 प्रति॑ष्टोभन्त्य् अ॒क्तुभिः॑ ।  
@@ -366,8 +364,7 @@ With thy hills, quicken with thy might [2].
 12 तत्रैव याज्या - स्तोमासस्त्वेत्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_18/09_stomAsas_tvA.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_18/09_stomAsas_tvA.md">
 <details><summary>Keith</summary>
 
 The songs salute thee,
@@ -387,7 +384,6 @@ The seed like great riches.
 हे भूमे विचारिणि विविधं चरणं गमनं भक्षणं वा विचारः । हे तद्वति, स्तोमासः स्तोमास्स्तोत्राणि प्रतिष्टोभन्ति प्रत्येकं प्रतिमुखा वा स्तुवन्ति । अक्तुभिस्त्वदीयैः कर्मभिः अपदानैस्स्तुतिभिः स्तोत्रभक्तिभिः या त्वं तथा स्तूयमाना हे अर्जुनि निर्मले । 'अन्यतो ङीष्' इति ङीष् । हेषन्तं शब्दवन्तं दुष्टं वाजन्न अश्वमिव यथा दुष्टो वाजीनिरर्थकान् शब्दान् करोति एव निरर्थकशब्दाभिधायिनं अमन्त्रार्थज्ञमिति ।   
 किञ्च - वाजमिव बलमिव पेरुं अश्वमिव पानशीलं उपलक्षणत्वात्पानाशनमात्रकृतार्थं अयज्ञार्हं पुरुषं प्रास्यसि त्वं खल्वर्जुनीति । सर्वे स्तोत्रादयस्त्वामेव स्तुवन्ति । तेषां च मध्ये वाजिनमिव हेषन्तमिव पेरुं त्वं नाद्रियसे तस्मात्तादृशानस्मान् त्वामेव स्तुवतो हिरण्यादिदानेन तृप्तान् कुर्विति । 'उपसर्गात्सुनोति' इत्यादिना स्तोभतेष्षत्वम् ॥
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -397,8 +393,8 @@ The seed like great riches.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒दू॒दरे॑ण॒ सख्या॑ सचेय॒ यो मा॒ न रिष्ये॑द्धर्यश्व पी॒तः ।   
-अ॒यय्ँयस्सोमो॒ न्यधा॑य्य॒स्मे तस्मा॒ इन्द्र॑म्प्र॒तिर॑मे॒म्यच्छ॑ ।
+ऋदूद᳓रेण स᳓ख्या सचेय यो᳓ मा न᳓ रि᳓ष्येद्धर्यश्व पीतः᳓ ।   
+अयय्ँ᳓य᳓स्सो᳓मो न्य᳓धाय्यस्मे᳓ त᳓स्मा इ᳓न्द्रम्प्रति᳓रमेम्य᳓च्छ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -424,8 +420,8 @@ May I be in companionship with the friend pleasant within, Who being drunk shall
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आपा॑न्तमन्युस्तृ॒पल॑प्रभर्मा॒ धुनि॒श्शिमी॑वा॒ञ्छरु॑माँ ऋजी॒षी ।  
-सोमो॒ विश्वा॑न्यत॒सा वना॑नि॒ नार्वागिन्द्र॑म्प्रति॒माना॑नि देभुः ।
+आ᳓पान्तमन्युस्तृप᳓लप्रभर्मा धु᳓निश्शि᳓मीवाञ्छ᳓रुमाँ ऋजीषी᳓ ।  
+सो᳓मो वि᳓श्वान्यतसा᳓ व᳓नानि ना᳓र्वा᳓गि᳓न्द्रम्प्रतिमा᳓नानि देभुः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -454,8 +450,8 @@ Giving spirit when drunken, with swift onset, Impetuous, strong, bearing arrows,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र (66)  सु॒वा॒नस्सोम॑ ऋत॒युश्चि॑के॒तेन्द्रा॑य॒ ब्रह्म॑ ज॒मद॑ग्नि॒रर्च॑न् ।   
-वृषा॑ य॒न्तासि॒ शव॑सस्तु॒रस्या॒न्तर्य॑च्छ गृण॒ते ध॒र्त्रन्दृँ॑ह ।
+प्र᳓ (66)  सुवान᳓स्सो᳓म ऋतयु᳓श्चिकेते᳓न्द्राय ब्र᳓ह्म जम᳓दग्निर᳓र्चन् ।   
+वृ᳓षा यन्ता᳓सि श᳓वसस्तुर᳓स्यान्त᳓र्यच्छ गृणते᳓ धर्त्र᳓न्दृँह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -482,8 +478,8 @@ Soma [3] the righteous as pressed becometh visible, Jamadagni singing the hymn t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒बाध॑स्ते॒ मद॑ञ्च शुष्म॒यञ्च॒ ब्रह्म॒ नरो॑ ब्रह्म॒कृत॑स्सपर्यन् ।   
-अ॒र्को वा॒ यत्तु॒रते॒ सोम॑चक्षा॒स्तत्रेदिन्द्रो॑ दधते पृ॒त्सु तु॒र्याम् ।  
+सबा᳓धस्ते म᳓दञ्च शुष्मय᳓ञ्च ब्र᳓ह्म न᳓रो ब्रह्मकृ᳓तस्सपर्यन् ।   
+अर्को᳓ वा य᳓त्तुर᳓ते सो᳓मचक्षास्त᳓त्रे᳓दि᳓न्द्रो दधते पृत्सु᳓ तुर्या᳓म् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -513,8 +509,8 @@ In unison men that make prayers offer to thee this prayer That giveth delight an
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वष॑ट्ते विष्णवा॒स आ कृ॑णोमि॒ तन्मे॑ जुषस्व शिपिविष्ट ह॒व्यम् । (67)  
-वर्ध॑न्तु त्वा सुष्टु॒तयो॒ गिरो॑ मे यू॒यम्पा॑त स्व॒स्तिभि॒स्सदा॑ नः ।
+व᳓षट्ते विष्णवास᳓ आ᳓ कृणोमि त᳓न्मे जुषस्व शिपिविष्ट हव्य᳓म् । (67)  
+व᳓र्धन्तु त्वा सुष्टुत᳓यो गि᳓रो मे यूय᳓म्पात स्वस्ति᳓भिस्स᳓दा नः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -540,8 +536,8 @@ From the mouth to thee, O Visnu, do I utter the Vasat call; Do thou accept my ob
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र तत्ते॑ अ॒द्य शि॑पिविष्ट॒ नामा॒र्यश्शँ॑सामि व॒युना॑नि वि॒द्वान् ।   
-तन्त्वा॑ गृणामि त॒वस॒मत॑वीया॒न्क्षय॑न्तम॒स्य रज॑सᳶ परा॒के ।
+प्र᳓ त᳓त्ते अद्य᳓ शिपिविष्ट ना᳓मार्य᳓श्शँसामि वयु᳓नानि विद्वा᳓न् ।   
+त᳓न्त्वा गृणामि तव᳓सम᳓तवीयान्क्ष᳓यन्तमस्य᳓ र᳓जसᳶ पराके᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -568,8 +564,8 @@ That name of thee, the noble, to-day I celebrate, O Śipivista, knowing the ways
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किमित्ते॑ विष्णो परि॒चक्ष्य॑म्भू॒त्प्रयद्व॑व॒क्षे शि॑पिवि॒ष्टो अ॑स्मि ।  
-मा वर्पो॑ अ॒स्मदप॑गूह ए॒तद्यद॒न्यरू॑पस्समि॒थे ब॒भूथ॑ । (68)
+कि᳓मि᳓त्ते विष्णो परिच᳓क्ष्यम्भूत्प्र᳓य᳓द्ववक्षे᳓ शिपिविष्टो᳓ अस्मि ।  
+मा᳓ व᳓र्पो अस्म᳓द᳓पगूह एत᳓द्य᳓दन्य᳓रूपस्समिथे᳓ बभू᳓थ । (68)
 </details>
 
 <details><summary>Keith</summary>
@@ -595,8 +591,8 @@ What was there to be disclosed in thee, O Visnu, What time thou didst declare, '
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॒ दा दा॒शुषे॑ र॒यिव्ँवी॒रव॑न्त॒म्परी॑णसम् ।  
-शि॒शी॒हि न॑स्सूनु॒मतः॑ ।
+अ᳓ग्ने दा᳓ दाशु᳓षे रयिव्ँ᳓वीर᳓वन्तम्प᳓रीणसम् ।  
+शिशीहि᳓ नस्सूनुम᳓तः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -623,8 +619,8 @@ O Agni, give to the giver Wealth of heroes in abundance; Quicken us to richness 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दा नो॑ अग्ने श॒तिनो॒ दास्स॑ह॒स्रिणो॑ दु॒रो न वाजँ॒ श्रुत्या॒ अपा॑वृधि ।   
-प्राची॒ द्यावा॑पृथि॒वी ब्रह्म॑णा कृधि॒ सुव॒र्ण शु॒क्रमु॒षसो॒ विदि॑द्युतुः ।
+दा᳓ नो अग्ने शति᳓नो दा᳓स्सहस्रि᳓णो दुरो᳓ न᳓ वा᳓जँ श्रु᳓त्या अ᳓पावृधि ।   
+प्रा᳓ची द्या᳓वापृथिवी᳓ ब्र᳓ह्मणा कृधि सु᳓वर्ण᳓ शुक्र᳓मुष᳓सो वि᳓दिद्युतुः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -654,8 +650,8 @@ Give to us, O Agni, a hundred, give a thousandfold; Like doors disclose for us b
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निर्दा॒ द्रवि॑णव्ँवी॒रपे॑शा अ॒ग्निर्ऋषिय्ँ॒यस्स॒हस्रा॑ स॒नोति॑ ।   
-अ॒ग्निर्दि॒वि ह॒व्यमात॑ताना॒ग्नेर्धामा॑नि॒ विभृ॑ता पुरु॒त्रा ।
+अग्नि᳓र्दा द्र᳓विणव्ँवीर᳓पेशा अग्नि᳓रृ᳓षिय्ँय᳓स्सह᳓स्रा सनो᳓ति ।   
+अग्नि᳓र्दिवि᳓ हव्य᳓मा᳓ततानाग्ने᳓र्धा᳓मानि वि᳓भृता पुरुत्रा᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -681,7 +677,7 @@ Agni give wealth that decketh the hero; Agni the Rsi who winneth thousands; Agni
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा (69) नो॒ म॒र्द्धी॒रा तू भ॑र ।
+मा᳓ (69) नो मर्द्धीरा᳓ तू᳓ भर ।
 </details>
 
 <details><summary>Keith</summary>
@@ -721,8 +717,8 @@ Destroy [6] us not. Bring to us.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृ॒तन्न पू॒तन्त॒नूर॑रे॒पाश्शुचि॒ हिर॑ण्यम् ।  
-तत्ते॑ रु॒क्मो न रो॑चत स्वधावः ।
+घृत᳓न्न᳓ पूत᳓न्तनू᳓ररेपा᳓श्शु᳓चि हि᳓रण्यम् ।  
+त᳓त्ते रुक्मो᳓ न᳓ रोचत स्वधावः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -746,8 +742,7 @@ Thy body is faultless, Like ghee purified, like pure gold That of thine shineth 
 26तत्रैव याज्या - उभे इति । पञ्चपदा पङ्क्तिः ॥
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/006/09_ubhe_sushchandra.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/006/09_ubhe_sushchandra.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 उभे᳓ सुश्चन्द्र सर्पि᳓षो  
@@ -756,11 +751,17 @@ Thy body is faultless, Like ghee purified, like pure gold That of thine shineth 
 उक्थे᳓षु शवसस् पत  
 इ᳓षं स्तोतृ᳓भ्य आ᳓ भर
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/006/09_ubhe_sushchandra.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/006/09_ubhe_sushchandra.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+उ॒भे सु॑श्चन्द्र स॒र्पिषो॒ दर्वी॑ श्रीणीष आ॒सनि॑ ।  
+उ॒तो न॒ उत्पु॑पूर्या उ॒क्थेषु॑ शवसस्पत॒ इषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/006/09_ubhe_sushchandra.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -775,15 +776,6 @@ Thy body is faultless, Like ghee purified, like pure gold That of thine shineth 
 उतो᳓ न उ᳓त् पुपूरिया  
 उक्थे᳓षु शवसस् पत  
 इ᳓षं स्तोतृ᳓भ्य आ᳓ भर
-</details>
-
-<details><summary>Keith</summary>
-
-O bright one, in thy mouth thou cookest
-Both ladles (full) of butter;
-Do thou make us full
-For our hymns, O lord of strength;
-Do thou bear food to the praisers.
 </details>
 
 <details><summary>तैत्तिरीयम् मूलम्</summary>
@@ -1020,6 +1012,15 @@ _________
 **Yajus**. 15.43; the two ladles: termed **juhu** and upabhṛt, two ladles used for pouring the oiled butter upon the fire; or ubhe **darvi**, two **hands** serving as ladles
 </details>
 
+<details><summary>Keith</summary>
+
+O bright one, in thy mouth thou cookest
+Both ladles (full) of butter;
+Do thou make us full
+For our hymns, O lord of strength;
+Do thou bear food to the praisers.
+</details>
+
 <details><summary>Jamison Brereton</summary>
 
 O you who are beautifully shimmering, you make the two spoonsful of  melted butter ready within your mouth,  
@@ -1105,7 +1106,6 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 भावार्थभाषाः -  जो राजा सेनेची भोजन व्यवस्था व उत्तम आरोग्य यासाठी वैद्य बाळगतो, तोच प्रशंसित होऊन राज्य वाढवितो. ॥ ९ ॥
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1115,8 +1115,8 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वायो॑ श॒तँ हरी॑णाय्ँयु॒वस्व॒ पोष्या॑णाम् ।   
-उ॒त वा॑ ते सह॒स्रिणो॒ रथ॒ आ या॑तु॒ पाज॑सा ।
+वा᳓यो शतँ᳓ ह᳓रीणाय्ँयुव᳓स्व पो᳓ष्याणाम् ।   
+उत᳓ वा ते सहस्रि᳓णो र᳓थ आ᳓ यातु पा᳓जसा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1148,8 +1148,8 @@ O Vayu, a hundred of bay (steeds) Worthy of nourishment do thou yoke; Or let the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र याभि॒र्यासि॑ दा॒श्वाँस॒मच्छा॑ नि॒युद्भि॑र्वायवि॒ष्टये॑ दुरो॒णे ।  
-नि नो॑ र॒यिँ सु॒भोज॑सय्ँयुवे॒ह नि वी॒रव॒द्गव्य॒मश्वि॑यञ्च॒ राधः॑ ।
+प्र᳓ या᳓भिर्या᳓सि दाश्वाँ᳓सम᳓च्छा नियु᳓द्भिर्वायविष्ट᳓ये दुरोणे᳓ ।  
+नि᳓ नो रयिँ᳓ सुभो᳓जसय्ँयुवेह᳓ नि᳓ वीर᳓वद्ग᳓व्यम᳓श्वियञ्च रा᳓धः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1175,8 +1175,8 @@ The teams [7] wherewith thou comest to the giver, O Vayu, for seeking in the hou
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रे॒वती॑र्नस्सध॒माद॒ इन्द्रे॑ सन्तु तु॒विवा॑जाः ।  
-क्षु॒मन्तो॒ याभि॒र्मदे॑म ।
+रेव᳓तीर्नस्सधमा᳓द इ᳓न्द्रे सन्तु तुवि᳓वाजाः ।  
+क्षुम᳓न्तो या᳓भिर्म᳓देम ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1202,8 +1202,8 @@ Rich banquets be ours with Indra, With mighty strength, Wherewith fed we may rej
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रे॒वाँ इद्रे॒वत॑स्स्तो॒ता स्यात्त्वाव॑तो म॒घोनः॑ ।  
-प्रेदु॑ हरिवश्श्रु॒तस्य॑ ॥ (71)  
+रेवाँ᳓ इ᳓द्रेव᳓तस्स्तोता᳓ स्या᳓त्त्वा᳓वतो मघो᳓नः ।  
+प्रे᳓दु हरिवश्श्रुत᳓स्य ॥ (71)  
 </details>
 
 <details><summary>Keith</summary>

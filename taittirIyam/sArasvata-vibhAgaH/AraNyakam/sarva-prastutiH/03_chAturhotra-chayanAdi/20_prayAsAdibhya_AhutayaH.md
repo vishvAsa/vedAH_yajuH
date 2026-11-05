@@ -1,14 +1,13 @@
 +++
 title = "२० प्रयासादिभ्य आहुतयः"
-
 +++
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अश्वमेधे रात्रिहोमेषु प्रयासायेति परमात्मपरिस्पन्दभेदा उच्यन्ते -
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/36_sruvAhutayaH">
-<details open><summary><h5>३६ स्रुवाहुतयः ...{Loading}...</h5></summary>
 
 विश्वेदेवा ऋषयः
 
@@ -255,6 +254,5 @@ To all hail!
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सर्वग्रहणं अनुक्तपरिस्पन्दपरिग्रहार्थम् ॥
-</details>
 </details>
 </div>

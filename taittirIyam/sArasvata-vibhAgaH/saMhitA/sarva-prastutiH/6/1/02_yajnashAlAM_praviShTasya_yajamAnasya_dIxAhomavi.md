@@ -1,6 +1,5 @@
 +++
 title = "०२ यज्ञशालां प्रविष्टस्य यजमानस्य दीक्षाहोमविधानम्"
-
 +++
 
 सोमऋषिः
@@ -12,7 +11,7 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याव॑न्तो॒ वै दे॒वा य॒ज्ञाया ऽपु॑नत॒ , त ए॒वाभ॑वन् ।  
+या᳓वन्तो वै᳓ देवा᳓ यज्ञा᳓या᳓ ऽपुनत , त᳓ एवा᳓भवन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -27,7 +26,7 @@ All the gods who purified themselves for the sacrifice waxed great.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वान् य॒ज्ञाय॑ पुनी॒ते भव॑त्ये॒व ।
+य᳓ एवव्ँ᳓ विद्वा᳓न् यज्ञा᳓य पुनीते᳓ भ᳓वत्येव᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -44,7 +43,6 @@ He who knowing thus purifies himself for the sacrifice waxes great.
 
 याव॑न्तः । वै । दे॒वाः । य॒ज्ञाय॑ । अपु॑नत । ते । ए॒व । अ॒भ॒व॒न् । 
 
-
 यः । ए॒वम् । वि॒द्वान् । य॒ज्ञाय॑ । पु॒नी॒ते । भव॑ति । ए॒व ।
 </details>
 
@@ -60,7 +58,7 @@ He who knowing thus purifies himself for the sacrifice waxes great.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒हिᳶ प॑वयि॒त्वान्तᳶ प्र पा॑दयति ।
+बहिᳶ᳓ पवयित्वा᳓न्तᳶ᳓ प्र᳓ पादयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -75,7 +73,7 @@ Having purified him without he makes him go within.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒नु॒ष्य॒लो॒क ए॒वैन॑म् पवयि॒त्वा पू॒तन् दे॑वलो॒कम् प्रण॑यति ।
+मनुष्यलोक᳓ एवै᳓नम् पवयित्वा᳓ पूत᳓न् देवलोक᳓म् प्र᳓णयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -89,7 +87,6 @@ Verily having purified him in the world of men, he leads him forward purified to
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 ब॒हिः । प॒व॒यि॒त्वा । अ॒न्तः । प्रेति॑ । पा॒द॒य॒ति॒ । 
  
@@ -108,7 +105,7 @@ Verily having purified him in the world of men, he leads him forward purified to
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदी॑क्षित॒ एक॒या ऽऽहु॒त्या + इत्या॑हुः ।
+अ᳓दीक्षित ए᳓कया᳓ ऽऽहुत्या᳓ + इ᳓त्याहुः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -123,7 +120,7 @@ Verily having purified him in the world of men, he leads him forward purified to
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्रु॒वेण॒ चत॑स्रो जुहोति दीक्षित॒त्वाय॑ , स्रु॒चा प॑ञ्च॒मीम् ।  
+स्रुवे᳓ण च᳓तस्रो जुहोति दीक्षितत्वा᳓य , स्रुचा᳓ पञ्चमी᳓म् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -138,8 +135,8 @@ verily he offers four with the dipping-ladle for consecration; the fifth he offe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्चा॑क्षरा प॒ङ्क्तिः ।
-पाङ्क्तो॑ य॒ज्ञः ।
+प᳓ञ्चाक्षरा पङ्क्तिः᳓ ।
+पा᳓ङ्क्तो यज्ञः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -155,7 +152,7 @@ the Pankti has five syllables, the sacrifice is fivefold;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञमे॒वाव॑ रुन्धे ।
+यज्ञ᳓मेवा᳓व रुन्धे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -190,8 +187,8 @@ verily he wins the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आकू॑त्यै प्र॒युजे॒ऽग्नये॒ स्वाहेत्या॑ह ।[10]  
-आकूत्या॒ हि पुरु॑षो य॒ज्ञम् अ॒भि प्र॑यु॒ङ्क्ते यजे॒येति॑ ।
+आ᳓कूत्यै प्रयु᳓जेऽग्न᳓ये स्वा᳓हे᳓त्याह ।[10]  
+आ᳓कू᳓त्या हि᳓ पु᳓रुषो यज्ञ᳓म् अभि᳓ प्रयुङ्क्ते᳓ य᳓जेये᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -206,7 +203,6 @@ verily he wins the sacrifice.
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 आकू॑त्या॒ इत्या-कू॒त्यै॒ । प्र॒युज॒ इति॑ प्र-युजे॑ । अ॒ग्नये॑ । [10]  स्वाहा॑ । इति॑ । आ॒ह॒ ।  
 
@@ -225,8 +221,8 @@ verily he wins the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मे॒धायै॒ मन॑से॒ऽग्नये॒ स्वाहेत्या॑ह ।  
-मे॒धया॒ हि मन॑सा॒ पुरु॑षो य॒ज्ञम् अ॑भि॒गच्छ॑ति ।  
+मेधा᳓यै म᳓नसेऽग्न᳓ये स्वा᳓हे᳓त्याह ।  
+मेध᳓या हि᳓ म᳓नसा पु᳓रुषो यज्ञ᳓म् अभिग᳓च्छति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -242,7 +238,7 @@ verily he wins the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर॑स्वत्यै पू॒ष्णे॑ऽग्नये॒ स्वाहेत्या॑ह ।  
+स᳓रस्वत्यै पूष्णे᳙ऽग्नये स्वा᳓हे᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -257,7 +253,7 @@ verily he wins the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाग्वै सर॑स्वती ।
+वा᳓ग्वै᳓ स᳓रस्वती ।
 </details>
 
 <details><summary>Keith</summary>
@@ -272,14 +268,11 @@ Sarasvati is speech,
 
 <details><summary>पद-पाठः</summary>
 
-
 मे॒धायै॑ । मन॑से । अ॒ग्नये॑ । स्वाहा॑ । इति॑ । आ॒ह॒ । 
-
 
 मे॒धया॑ । हि । मन॑सा । पुरु॑षः । य॒ज्ञम् । अ॒भि॒गच्छ॒तीत्य॑भि-गच्छ॑ति ।   
 
 सर॑स्वत्यै । पू॒ष्णे । अ॒ग्नये॑ । स्वाहा॑ । इति॑ । आ॒ह॒ ।    
-
 
 वाक् । वै । सर॑स्वती । 
 </details>
@@ -296,8 +289,8 @@ Sarasvati is speech,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒थि॒वी पू॒षा ।
-वा॒चैव पृ॑थि॒व्या य॒ज्ञम्प्र यु॑ङ्क्ते ।
+पृथिवी᳓ पूषा᳓ ।
+वाचै᳓व᳓ पृथिव्या᳓ यज्ञ᳓म्प्र᳓ युङ्क्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -332,7 +325,7 @@ Pusan the earth;. verily with speech and the earth he performs the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आपो॑ देवीर् बृहतीर् विश्वशम् भुव॒ इत्या॑ह ।  
+आ᳓पो देवीर् बृहतीर् विश्वशम् भुव इ᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -347,7 +340,7 @@ Pusan the earth;. verily with speech and the earth he performs the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या वै वर्ष्या॒स् , ता आपो॑ दे॒वीर् बृ॑ह॒तीर्वि॒श्वश॑म् भुवः [11] ।
+या᳓ वै᳓ व᳓र्ष्यास् , ता᳓ आ᳓पो देवी᳓र् बृहती᳓र्विश्व᳓शम् भुवः [11] ।
 </details>
 
 <details><summary>Keith</summary>
@@ -363,7 +356,6 @@ The waters of the rain [2] are the divine, vast, all-soothing waters;
 <details><summary>पद-पाठः</summary>
 
 आपः॑ । दे॒वीः॒ । बृ॒ह॒तीः । वि॒श्व॒श॒म्भु॒व॒ इति॑ विश्व-श॒म्भु॒वः॒ । इति॑ । आ॒ह॒ । 
-
 
 याः । वै । वर्ष्याः॑ । ताः । [11]  आपः॑ । दे॒वीः । बृ॒ह॒तीः । वि॒श्वश॑म्भुव॒ इति॑ वि॒श्व-श॒म्भु॒वः॒ । 
 </details>
@@ -381,8 +373,8 @@ The waters of the rain [2] are the divine, vast, all-soothing waters;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् ए॒तद् यजु॒र्न ब्रू॒याद्  
-दि॒व्या आपोऽशा॑न्ता इ॒मल्ँ  लो॒कम् आ ग॑च्छेयुः ।
+य᳓द् एत᳓द् य᳓जुर्न᳓ ब्रूया᳓द्  
+दिव्या᳓ आ᳓पो᳓ऽशान्ता इमल्ँ᳓  लोक᳓म् आ᳓ गच्छेयुः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -398,8 +390,8 @@ if he said not that praise, the divine waters would descend in anger on this wor
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आपो॑ देवीर् बृहतीर् विश्वशम् भुव॒ इत्या॑ह ।
-अ॒स्मा ए॒वैना॑ लो॒काय॑ शमयति ।
+आ᳓पो देवीर् बृहतीर् विश्वशम् भुव इ᳓त्याह ।
+अस्मा᳓ एवै᳓ना लोका᳓य शमयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -415,7 +407,7 @@ He says, 'O ye divine, vast, all-soothing waters.' Verily he makes them soothing
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑च् छा॒न्ता इ॒मल्ँ  लो॒कम् आ ग॑च्छन्ति ।
+त᳓स्माच् छान्ता᳓ इमल्ँ᳓  लोक᳓म् आ᳓ गच्छन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -429,7 +421,6 @@ accordingly being soothed they approach this world.
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 यत् । ए॒तत् । यजुः॑ । न । ब्रू॒यात् ।  
 दि॒व्याः । आपः॑ । अशा॑न्ताः । इ॒मम् । लो॒कम् । एति॑ । ग॒च्छे॒युः॒ ।  
@@ -451,8 +442,8 @@ accordingly being soothed they approach this world.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्यावा॑पृथि॒वी इत्या॑ह॒ -
-द्यावा॑पृथि॒व्योर्हि य॒ज्ञः ।
+द्या᳓वापृथिवी᳓ इ᳓त्याह -
+द्या᳓वापृथिव्यो᳓र्हि᳓ यज्ञः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -468,7 +459,7 @@ accordingly being soothed they approach this world.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒र्व॑न्तरि॑क्ष॒मित्या॑ह - अ॒न्तरि॑क्षे॒ हि य॒ज्ञः ।  
+उर्व᳙न्त᳓रिक्षमि᳓त्याह - अन्त᳓रिक्षे हि᳓ यज्ञः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -483,7 +474,7 @@ accordingly being soothed they approach this world.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह॒स्पति॑र् नो ह॒विषा॑ वृधातु + इत्या॑ह । [12]
+बृ᳓हस्प᳓तिर् नो हवि᳓षा वृ᳓धा᳓तु᳓ + इ᳓त्याह । [12]
 </details>
 
 <details><summary>Keith</summary>
@@ -498,7 +489,7 @@ accordingly being soothed they approach this world.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म॒ वै दे॒वाना॒म् बृह॒स्पतिः॑ ।
+ब्र᳓ह्म वै᳓ देवा᳓नाम् बृ᳓हस्प᳓तिः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -513,7 +504,7 @@ Brhaspati is the holy power (Brahman) of the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म॑णै॒वास्मै॑ य॒ज्ञमव॑ रुन्धे ।
+ब्र᳓ह्मणैवा᳓स्मै यज्ञ᳓म᳓व रुन्धे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -549,7 +540,7 @@ verily by the holy power he wins this sacrifice for him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्ब्रू॒याद्वि॑धे॒रिति॑ । य॒ज्ञ॒स्था॒णुम् ऋ॑च्छेत् ।  
+य᳓द्ब्रूया᳓द्विधेरि᳓ति । यज्ञस्थाणु᳓म् ऋच्छेत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -564,7 +555,7 @@ If he were to say vidheh then he would stumble on the sacrificial post;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृ॒धा॒त्वित्या॑ह यज्ञस्था॒णुम् ए॒व परि॑ वृणक्ति ।
+वृधात्वि᳓त्याह यज्ञस्थाणु᳓म् एव᳓ प᳓रि वृणक्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -596,7 +587,7 @@ he says vrdhatu; verily he avoids the sacrificial post.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तिर् य॒ज्ञम् अ॑सृजत ।  
+प्रजा᳓पतिर् यज्ञ᳓म् असृजत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -611,7 +602,7 @@ Prajapati created the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ ऽस्मात् सृ॒ष्टᳶ परा॑ङैत् । 
+सो᳓ ऽस्मात् सृष्टᳶ᳓ प᳓राङैत् । 
 </details>
 
 <details><summary>Keith</summary>
@@ -626,7 +617,7 @@ Being created it went away.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स प्र यजु॒रव्ली॑ना॒त्प्र साम॒ , तम् ऋगुद॑यच्छत् ।   
+स᳓ प्र᳓ य᳓जुर᳓व्लीनात्प्र᳓ सा᳓म , त᳓म् ऋ᳓गु᳓दयच्छत् ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -641,7 +632,7 @@ It crushed the Yajus, it crushed the Saman; the Rc raised it;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् ऋगु॒दय॑च्छ॒त् , तदौ॑द्ग्रह॒णस्यौ॑द्ग्रहण॒त्वम् ।
+य᳓द् ऋ᳓गुद᳓यच्छत् , त᳓दौद्ग्रहण᳓स्यौद्ग्रहणत्व᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -656,7 +647,7 @@ in that the Rc raised (it), hence the elevating offering has the name.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒चा जु॒हो॒ति॒ , य॒ज्ञस्योद्य॑त्यै । [13]  
+ऋचा᳓ जुहोति , यज्ञ᳓स्यो᳓द्यत्यै । [13]  
 </details>
 
 <details><summary>Keith</summary>
@@ -671,7 +662,7 @@ With a Rc [4] he sacrifices, to support the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒नु॒ष्टुप् छन्द॑सा॒म् उद॑यच्छ॒द् इत्या॑हुः ।
+अनुष्टु᳓प् छ᳓न्दसाम् उ᳓दयच्छद् इ᳓त्याहुः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -686,7 +677,7 @@ With a Rc [4] he sacrifices, to support the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् अनु॒ष्टुभा॑ जुहोति , य॒ज्ञस्योद्य॑त्यै ।
+त᳓स्माद् अनुष्टु᳓भा जुहोति , यज्ञ᳓स्यो᳓द्यत्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -732,7 +723,7 @@ Therefore he sacrifices with an Anustubh, to support the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वाद॑श वात्सब॒न्धान्य् उद॑यच्छ॒न्न् इत्या॑हुः ।  
+द्वा᳓दश वात्सबन्धा᳓न्य् उ᳓दयच्छन्न् इ᳓त्याहुः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -747,7 +738,7 @@ Therefore he sacrifices with an Anustubh, to support the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् द्वाद॒शभि॑र् वात्सबन्ध॒विदो॑ दीक्षयन्ति ।
+त᳓स्माद् द्वादश᳓भिर् वात्सबन्धवि᳓दो दीक्षयन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -778,7 +769,7 @@ Therefore with twelve those who know the 'calf-binders', consecrate.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा वा ए॒षा + ऋग॑नु॒ष्टुक् ।
+सा᳓ वा᳓ एषा᳓ + ऋ᳓गनुष्टु᳓क् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -793,7 +784,7 @@ This Rc is an Anustubh;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाग् अ॑नु॒ष्टुक् ।  
+वा᳓ग् अनुष्टु᳓क् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -808,7 +799,7 @@ the Anustubh is speech;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदे॒तया॑ + ऋ॒र्चा दी॒क्षय॑ति , वा॒चैवैनँ॒ सर्व॑या दीक्षयति ।
+य᳓देत᳓या + ऋर्चा᳓ दीक्ष᳓यति , वाचै᳓वै᳓नँ स᳓र्वया दीक्षयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -841,7 +832,7 @@ in that he consecrates him with this Rc, he consecrates him with the whole of sp
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वे॑ दे॒वस्य॑ ने॒तुर् इत्या॑ह ।
+वि᳓श्वे देव᳓स्य नेतु᳓र् इ᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -856,7 +847,7 @@ in that he consecrates him with this Rc, he consecrates him with the whole of sp
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा॒वि॒त्र्ये॑तेन॒ मर्तो॑ वृणीत स॒ख्यम् इत्या॑ह । [14]  
+सावित्र्ये᳙तेन म᳓र्तो वृणीत सख्य᳓म् इ᳓त्याह । [14]  
 </details>
 
 <details><summary>Keith</summary>
@@ -871,7 +862,7 @@ By that (the Rc) is connected with Savitr. '(Let every) man choose the companion
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पि॒तृ॒दे॒व॒त्यै॑तेन॒ विश्वे॑ रा॒य इ॑षुध्य॒सीत्या॑ह ।
+पितृदेवत्यै᳙तेन वि᳓श्वे राय᳓ इषुध्यसी᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -886,7 +877,7 @@ By that (the Rc) has the Pitrs for its deity.' 'Every man prayeth for wealth', h
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वै॒श्व॒दे॒व्ये॑तेन॑ द्यु॒म्नव्ँ वृ॑णीत पु॒ष्यस॒ इत्या॑ह पौ॒ष्ण्य् ए॑तेन॑ ।  
+वैश्वदेव्ये᳙ते᳓न द्युम्नव्ँ᳓ वृणीत पुष्य᳓स इ᳓त्याह पौष्ण्य् ए᳙ते᳓न ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -901,7 +892,7 @@ By that (the Rc) is connected with the All-gods. 'Let him choose glory that he m
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा वा ए॒षर्क्स॑र्वदेव॒त्या॑ यदे॒तय॒र्चा दी॒क्षय॑ति ।
+सा᳓ वा᳓ एष᳓र्क्सर्वदेवत्या᳙ यदेत᳓यर्चा᳓ दीक्ष᳓यति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -916,7 +907,7 @@ This Rc indeed is connected with all the gods. In that he consecrates with this 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वा॑भिर् ए॒वैन॑न् दे॒वता॑भिर् दीक्षयति ।
+स᳓र्वाभिर् एवै᳓नन् देव᳓ताभिर् दीक्षयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -931,16 +922,13 @@ he consecrates him with all the gods.
 
 <details><summary>पद-पाठः</summary>
 
-
 विश्वे॑ । दे॒वस्य॑ । ने॒तुः । इति॑ । आ॒ह॒ । सा॒वि॒त्री । ए॒तेन॑ । 
 
 मर्तः॑ । वृ॒णी॒त॒ । स॒ख्यम् । इति॑ । आ॒ह॒ । पि॒तृ॒दे॒व॒त्येति॑ पितृ-दे॒व॒त्या॑ । ए॒तेन॑ । 
 
 विश्वे॑ । रा॒यः । इ॒षु॒ध्य॒सि॒ । इति॑ । आ॒ह॒ । वै॒श्व॒दे॒वीति॑ वैश्व-दे॒वी । ए॒तेन॑ ।
 
-
 द्यु॒म्नम् । वृ॒णी॒त॒ । पु॒ष्यसे॑ । इति॑ । आ॒ह॒ । पौ॒ष्णी । ए॒तेन॑ । 
-
 
 सा । वै । ए॒षा । ऋक् । स॒र्व॒दे॒व॒त्येति॑ सर्व-दे॒व॒त्या॑ । 
 
@@ -959,7 +947,7 @@ he consecrates him with all the gods.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्ताक्ष॑रम् प्रथ॒मम् प॒दम् अ॒ष्टाक्ष॑राणि॒ त्रीणि ।
+सप्ता᳓क्षरम् प्रथम᳓म् पद᳓म् अष्टा᳓क्षराणि त्री᳓णि᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -990,7 +978,7 @@ The first quarter verse is of seven syllables; the other three are of eight syll
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यानि॒ त्रीणि॒ तान्य॒ष्टावुप॑ यन्ति ।  
+या᳓नि त्री᳓णि ता᳓न्यष्टा᳓वु᳓प यन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1005,7 +993,7 @@ The three approach the eight;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यानि॑ च॒त्वारि॒ तान्य॒ष्टौ ।
+या᳓नि चत्वा᳓रि ता᳓न्यष्टौ᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1020,7 +1008,7 @@ the four the eight.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद॒ष्टाक्ष॑रा॒ तेन॑ गा॒य॒त्री ।[15]  
+य᳓दष्टा᳓क्षरा ते᳓न गायत्री᳓ ।[15]  
 </details>
 
 <details><summary>Keith</summary>
@@ -1035,7 +1023,7 @@ Because it has eight syllables [6] it is a Gayatri.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदेका॑दशाक्षरा॒ तेन॑ त्रि॒ष्टुग् ।
+य᳓दे᳓कादशाक्षरा ते᳓न त्रिष्टु᳓ग् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1050,7 +1038,7 @@ Because it has eleven syllables it is a Tristubh.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् द्वाद॑शाक्षरा॒ तेन॒ जग॑ती॒ सा वा ए॒षर्क्सर्वा॑णि॒ छन्दाँ॑सि ।
+य᳓द् द्वा᳓दशाक्षरा ते᳓न ज᳓गती सा᳓ वा᳓ एष᳓र्क्स᳓र्वाणि छ᳓न्दाँसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1065,7 +1053,7 @@ Because it has twelve syllables, it is a Jagati. This Rc indeed is all the metre
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदे॒तय॒र्चा दी॒क्षय॑ति॒ , सर्वे॑भिर् ए॒वैन॒ञ् छन्दो॑भिर् दीक्षयति ।
+य᳓देत᳓यर्चा᳓ दीक्ष᳓यति , स᳓र्वेभिर् एवै᳓नञ् छ᳓न्दोभिर् दीक्षयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1101,7 +1089,7 @@ In that he consecrates him with this Rc, he consecrates him with all the metres.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्ताक्ष॑रम् प्रथ॒मम् प॒दम्।
+सप्ता᳓क्षरम् प्रथम᳓म् पद᳓म्।
 </details>
 
 <details><summary>Keith</summary>
@@ -1116,8 +1104,8 @@ The first quarter verse is of seven syllables;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्तप॑दा॒ शक्व॑री ।
-प॒शव॒श् शक्व॑री ।
+सप्त᳓पदा श᳓क्वरी ।
+पश᳓वश् श᳓क्वरी ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1133,7 +1121,7 @@ the Śakvari is of seven syllables, the Śakvari is cattle;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒शून् ए॒वाव॑ रुन्धे ।
+पशू᳓न् एवा᳓व रुन्धे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1148,7 +1136,7 @@ verily he wins cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एक॑स्माद् अ॒क्षरा॒द् अना॑प्तम् प्रथ॒मम् प॒दम् ।
+ए᳓कस्माद् अक्ष᳓राद् अ᳓नाप्तम् प्रथम᳓म् पद᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1163,7 +1151,7 @@ The first quarter-verse is defective by one syllable.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् यद् वा॒चोऽना॑प्त॒न् तन्म॑नु॒ष्या॑ उप॑ जीवन्ति ।
+त᳓स्माद् य᳓द् वाचो᳓ऽनाप्तन् त᳓न्मनुष्या᳙ उ᳓प जीवन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1198,7 +1186,7 @@ Therefore men live on what of speech is defective.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒र्णया॑ जुहोति ।
+पूर्ण᳓या जुहोति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1213,7 +1201,7 @@ He offers with a full (verse) to win Prajapati;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒र्ण इ॑व॒ हि प्र॒जाप॑तिᳶ ,
+पूर्ण᳓ इव हि᳓ प्रजा᳓पतिᳶ ,
 </details>
 
 <details><summary>Keith</summary>
@@ -1228,9 +1216,9 @@ full as it were is Prajapati.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑ते॒राप्त्यै॑ ।
-न्यू॑नया जुहोति ।
-न्यू॑ना॒द्धि प्र॒जाप॑तिᳶ प्र॒जा असृ॑जत , प्र॒जानाँ॒ सृष्ट्यै॑ ॥ [16]
+प्रजा᳓पतेरा᳓प्त्यै ।
+न्यू᳙नया जुहोति ।
+न्यू᳙नाद्धि᳓ प्रजा᳓पतिᳶ प्रजा᳓ अ᳓सृजत , प्रजा᳓नाँ सृ᳓ष्ट्यै ॥ [16]
 </details>
 
 <details><summary>Keith</summary>
@@ -1261,4 +1249,3 @@ He offers with a defective (verse), for the creation of offspring, for from what
 
 इति षष्ठे प्रथमे द्वितीयोनुवाकः ॥  
 </details>
-

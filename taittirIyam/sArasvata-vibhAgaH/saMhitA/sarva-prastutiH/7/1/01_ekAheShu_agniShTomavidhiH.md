@@ -1,12 +1,11 @@
 +++
 title = "०१ एकाहेषु अग्निष्टोमविधिः"
-
 +++
 ## परिचयः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(नानाफलक-विकृति)+++प्र॒जन॑न॒ञ् ज्योतिः॑+++(→अग्निष्टोमः)+++ ।
++++(नानाफलक-विकृति)+++प्रज᳓ननञ् ज्यो᳓तिः+++(→अग्निष्टोमः)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -34,7 +33,7 @@ ______________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(कुतो ऽग्निष्टोमो ज्योतिः इति चेत्- )+++  
-अ॒ग्निर् दे॒वता॑ना॒ञ् ज्योतिः॑ । 
+अग्नि᳓र् देव᳓तानाञ् ज्यो᳓तिः । 
 </details>
 
 <details><summary>Keith</summary>
@@ -61,7 +60,7 @@ ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒राट् छन्द॑सा॒ञ् ज्योतिः॑ ।  
+विरा᳓ट् छ᳓न्दसाञ् ज्यो᳓तिः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -86,7 +85,7 @@ the Viraj is the light of the metres.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒राड्+++(→१०)+++ +++(स्तोमगत)+++वा॒चो॑ ऽग्नौ+++(→अग्निष्टोमाख्ये यज्ञायज्ञीये सामनि)+++ सन्ति॑ष्ठते ।
+विरा᳓ड्+++(→१०)+++ +++(स्तोमगत)+++वाचो᳙ ऽग्नौ᳓+++(→अग्निष्टोमाख्ये यज्ञायज्ञीये सामनि)+++ स᳓न्तिष्ठते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -111,7 +110,7 @@ The Viraj of speech ends in Agni;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒राज॑म् +++(संपद्यमानाम्)+++ अ॒भि +++(अग्निष्टोमोऽपि)+++ सम्प॑द्यते ।  
+विरा᳓जम् +++(संपद्यमानाम्)+++ अभि᳓ +++(अग्निष्टोमोऽपि)+++ स᳓म्पद्यते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -136,7 +135,7 @@ it is produced according to the Viraj.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒त् तज्+++(→अग्निष्टोमः)+++ ज्योति॑र् उच्यते ।+++(४)+++  
+त᳓स्मात् त᳓ज्+++(→अग्निष्टोमः)+++ ज्यो᳓तिर् उच्यते ।+++(४)+++  
 +++(अग्निष्टोमस्य द्वादशस्तोत्रस्य नवतिशतं १९० = 9+60+15+68+17+21 स्तोत्रीया भवन्ति । ताश्च दशभिर् ह्रियमाणाः शुद्धं भागं प्रयच्छन्तीति विराट्-सम्पत्तिः, नैवम् उक्थ्यादीनां दशके सम्पूर्णे समाप्तिरिति ।)+++
 </details>
 
@@ -164,7 +163,7 @@ Therefore it is called light.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वौ +++(त्रिवृत्-पञ्चदशौ)+++ स्तोमौ॑ प्रा॒त॒स् स॒व॒नव्ँ व॑हतो॒,  यथा॑ प्रा॒णश् चा॑पा॒नश्च॑ ।  
+द्वौ᳓ +++(त्रिवृत्-पञ्चदशौ)+++ स्तो᳓मौ प्रातस् सवनव्ँ᳓ वहतो,  य᳓था प्राण᳓श् चापान᳓श्च ।  
 +++(तत्र बहिष्पवमाने नव ३*३ = ९ स्तोत्रिया त्रिवृद्वहिष्पवमान इति। पञ्चदशान्याज्यानि; तस्य षष्टिः १५*४ = ६० स्तोत्रीयाः ।)+++  
 </details>
 
@@ -198,7 +197,7 @@ ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वौ +++(पञ्चदशसप्तदशौ)+++ माध्य॑न्दिनँ॒ सव॑नं॒  +++(वहतः)+++  यथा॒ चक्षु॑श्च॒ श्रोत्र॑ञ्च ।  
+द्वौ᳓ +++(पञ्चदशसप्तदशौ)+++ मा᳓ध्यन्दिनँ स᳓वनं  +++(वहतः)+++  य᳓था च᳓क्षुश्च श्रो᳓त्रञ्च ।  
 +++( पञ्चदशो माध्यन्दिनः पवमान इति पञ्चदश १५ स्तोत्रीयाः । सप्तदशानि पृष्ठानि; तत्र अष्टषष्टिः १७*४ = ६८ स्तोत्रीयाः ।)+++  
 </details>
 
@@ -227,7 +226,7 @@ ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वौ +++(सप्तदशैकविंशौ)+++ तृ॑तीयसव॒नम् +++(वहतः)+++,  यथा॒ वाक् च॑ प्रति॒ष्ठा च ।  
+द्वौ᳓ +++(सप्तदशैकविंशौ)+++ तृतीयसवन᳓म् +++(वहतः)+++,  य᳓था वा᳓क् च प्रतिष्ठा᳓ च᳓ ।  
 +++(सप्तदशार्भवः पवमान इति सप्तदश १७ स्तोत्रीयाः । एकविंशम् अग्निष्टोम-सामेति एकविंशतिः २१ स्तोत्रीयाः ।)+++  
 +++(MT: "aitareya 30th brAhmaNa on the bringing of agni & soma regarding the recitation of the incantation to varuNa asura medhira; it clearly says there 12 mAsa-s+5 R^itu-s+3 loka-s all supported by the +1 Aditya (here ided with varuNa)=21")+++
 </details>
@@ -256,7 +255,7 @@ ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुरु॑ष-सम्मितो॒+++(=तुल्यः)+++ वा ए॒ष य॒ज्ञो ऽस्थू॑रिः+++(=अनेकाश्वशकटम् →अग्निष्टोमः इति शाखान्तरादपि, यतः प्रतिसवनं द्वाभ्यां युज्यमानस् स्वकार्यं करोति)+++।
+पु᳓रुष-सम्मितो+++(=तुल्यः)+++ वा᳓ एष᳓ यज्ञो᳓ ऽस्थूरिः+++(=अनेकाश्वशकटम् →अग्निष्टोमः इति शाखान्तरादपि, यतः प्रतिसवनं द्वाभ्यां युज्यमानस् स्वकार्यं करोति)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -284,8 +283,8 @@ This sacrifice is commensurate with man, and is perfect [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यङ् काम॑ङ् का॒मय॑ते, तम् ए॒तेना॒ऽभ्य॑श्ञुते।
-सर्वँ॒ ह्य् अस्थू॑रिणा ऽभ्यश्ञु॒ते ।
+य᳓ङ् का᳓मङ् काम᳓यते, तम् एते᳓नाऽभ्य᳙श्ञुते।
+स᳓र्वँ ह्य् अ᳓स्थूरिणा ऽभ्यश्ञुते᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -308,7 +307,7 @@ Whatever desire a man has, he wins by it, for one wins all by that which is perf
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अग्नेस्स्तोमो यज्ञायज्ञीयः, तदन्तः क्रतुरग्निष्टोमः।)+++  
-अ॒ग्नि॒ष्टो॒मेन॒ वै प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।  
+अग्निष्टोमे᳓न वै᳓ प्रजा᳓पतिᳶ प्रजा᳓ असृजत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -338,7 +337,7 @@ By means of the Agnistoma Prajapati created off spring;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता अ॒ग्नि॒ष्टो॒मेनै॒व पर्य॑गृह्णात्+++(=विधेयीकृतवान्)+++ ।
+ता᳓ अग्निष्टोमे᳓नैव᳓ प᳓र्यगृह्णात्+++(=विधेयीकृतवान्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -365,7 +364,7 @@ by means of the Agnistoma he grasped them.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तासा॒म् परि॑गृहीतानाम् अश्वत॒रो+++(=अश्वायां गर्दभेनोत्पन्नः)+++ ऽत्य् अ॑प्रवत+++(←ज्युङ् प्रुङ् प्लुङ् गतौ)+++ । 
+ता᳓साम् प᳓रिगृहीतानाम् अश्वतरो᳓+++(=अश्वायां गर्दभेनोत्पन्नः)+++ ऽत्य् अप्रवत+++(←ज्युङ् प्रुङ् प्लुङ् गतौ)+++ । 
 </details>
 
 <details><summary>Keith</summary>
@@ -390,7 +389,7 @@ When he grasped them the mule escaped.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्या॑नु॒हाय॒+++(←ओहाङ् गतौ)+++ रेत॒ आद॑त्त ।  
+त᳓स्यानुहा᳓य+++(←ओहाङ् गतौ)+++ रे᳓त आ᳓दत्त ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -415,7 +414,7 @@ Following it he took its seed,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् ग॑र्द॒भे न्य॑मार्ट्।
+त᳓द् गर्दभे᳓ न्यमार्ट्।
 </details>
 
 <details><summary>Keith</summary>
@@ -440,7 +439,7 @@ and placed it in the ass.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द्गर्द॒भो द्वि॒रेताः॑ +++(यतो गर्दभ्या बडबायाश्च जनयति)+++।+++(४)+++  
+त᳓स्माद्गर्दभो᳓ द्विरे᳓ताः +++(यतो गर्दभ्या बडबायाश्च जनयति)+++।+++(४)+++  
 </details>
 
 <details><summary>Keith</summary>
@@ -465,7 +464,7 @@ Therefore the ass has double seed.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॑ +++(अन्ये)+++ आहु॒र् वड॑बाया॒न्+++(=अश्व्यां)+++ न्य॑मा॒र्ड् इति ।  
+अ᳓थो +++(अन्ये)+++ आहुर् व᳓डबायान्+++(=अश्व्यां)+++ न्य᳙मार्ड् इ᳓ति᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -491,7 +490,7 @@ They also say, 'He placed it in the mare.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् वड॑बा द्वि॒रेताः +++(यतो अश्वगर्दभाभ्यां जनयति)+++।  
+त᳓स्माद् व᳓डबा द्विरे᳓ताः᳓ +++(यतो अश्वगर्दभाभ्यां जनयति)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -516,7 +515,7 @@ Therefore the mare has double seed.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॑ +++(अन्ये)+++ आ॒हु॒र् ओष॑धीषु न्य॑मा॒र्डिति॑ । 
+अ᳓थो +++(अन्ये)+++ आहुर् ओ᳓षधी᳓षु᳓ न्यमार्डि᳓ति । 
 </details>
 
 <details><summary>Keith</summary>
@@ -541,7 +540,7 @@ They also say, 'In the plants [2] he placed it.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् ओष॑ध॒यो ऽन॑भ्यक्ता+++(→अकृतमैथुना)+++ रेभन्ति+++(→प्रथन्ते)+++ ।  
+त᳓स्माद् ओ᳓षधयो᳓ ऽनभ्यक्ता+++(→अकृतमैथुना)+++ रेभन्ति+++(→प्रथन्ते)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -566,7 +565,7 @@ Therefore plants, though not anointed, glisten.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॑ आ॒हु॒ᳶ प्र॒जासु॑ न्य॑मा॒र्डिति ।   
+अ᳓थो आहुᳶ प्रजा᳓सु न्यमार्डि᳓ति᳓ ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -578,6 +577,7 @@ They also say, 'He placed it in offspring.'
 
 अथो॑ आ॒हु॒ᳶ प्र॒जासु॑ न्य॑मा॒र्डिति ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अथो॒ इति॑ । आ॒हुः॒ । प्र॒जास्विति॑ प्र-जासु॑ । नीति॑ । अ॒मा॒र्ट्॒ । इति॑ ।   
@@ -590,7 +590,7 @@ They also say, 'He placed it in offspring.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् य॒मौ जा॑येते ।+++(४)+++ 
+त᳓स्माद् यमौ᳓ जायेते ।+++(४)+++ 
 </details>
 
 <details><summary>Keith</summary>
@@ -615,14 +615,14 @@ Therefore twins are born.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् अश्वत॒रो न प्र जा॑यत ।   
+त᳓स्माद् अश्वतरो᳓ न᳓ प्र᳓ जायत ।   
 </details>
 
 <details><summary>Keith</summary>
 
 Therefore the mule has no offspring, for his seed has been taken from him.
 </details>
- 
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑दश्वत॒रो न प्र जा॑यत ।
@@ -640,7 +640,7 @@ Therefore the mule has no offspring, for his seed has been taken from him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आत्त॑-रेता॒ हि तस्मा॑द् ब॒र्हिष्य्+++(→यज्ञे दक्षिणादौ)+++ अन॑वकॢप्तः ।  
+आ᳓त्त-रेता हि᳓ त᳓स्माद् बर्हि᳓ष्य्+++(→यज्ञे दक्षिणादौ)+++ अ᳓नवकॢप्तः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -665,7 +665,7 @@ Therefore he is not suitable for the sacrifice,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒र्व॒-वे॒द॒से+++(=धनाय [यज्ञाय])+++ वा॑, स॒हस्रे॑+++(→सहस्रदक्षिणाय)+++  वाऽव॑क्ल्प्तः। 
+सर्व-वेदसे᳓+++(=धनाय [यज्ञाय])+++ वा, सह᳓स्रे+++(→सहस्रदक्षिणाय)+++  वा᳓ऽवक्ल्प्तः। 
 </details>
 
 <details><summary>Keith</summary>
@@ -691,7 +691,7 @@ but is suitable if there is a sacrifice when one gives (to the priests) all one'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(प्राकृतीर्दक्षिणा)+++ अति॒ ह्य् अप्र॑+++(प्ल)+++वत +++(विकृतियागेषु तु भवति)+++। +++('हि च' इति निघातप्रतिषेधः ।)+++
++++(प्राकृतीर्दक्षिणा)+++ अ᳓ति ह्य् अ᳓प्र+++(प्ल)+++वत +++(विकृतियागेषु तु भवति)+++। +++('हि च' इति निघातप्रतिषेधः ।)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -718,7 +718,7 @@ for he escaped.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वान् +++(स)+++ अ॒ग्नि॒ष्टो॒मेन॒ यज॑ते+++(→यजेत)+++ - प्राजा॑ताᳶ प्र॒जा ज॒नय॑ति॒,
+य᳓ एवव्ँ᳓ विद्वा᳓न् +++(स)+++ अग्निष्टोमे᳓न य᳓जते᳓+++(→यजेत)+++ - प्रा᳓जाताᳶ प्रजा᳓ जन᳓यति,
 </details>
 
 <details><summary>Keith</summary>
@@ -731,7 +731,7 @@ He who knowing thus sacrifices with the Agnistoma begets unborn offspring and gr
 य ए॒वव्ँवि॒द्वान् अ॒ग्नि॒ष्टो॒मेन॒ यज॑ते प्राजा॑ताᳶ प्र॒जा ज॒नय॑ति॒ परि॒ प्रजा॑ता गृह्णाति॒
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>परि॒ प्रजा॑ता गृह्णाति।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>प᳓रि प्र᳓जाता गृह्णाति।</details>
 
 <details><summary>Keith</summary>
 
@@ -759,8 +759,8 @@ Therefore they say, 'It is the best of sacrifices [3].'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑ति॒र् वा+++(वै)+++व ज्येष्ठः॑ ।   
-स ह्य् ए॑तेनाऽऽग्रे ऽय॑जत । +++(अतो ऽग्निष्ठोमो ज्येष्ठः।)+++
+प्रजा᳓पतिर् वा᳓+++(वै)+++व᳓ ज्ये᳓ष्ठः ।   
+स᳓ ह्य् एते᳓ना᳓ऽऽग्रे᳓ ऽयजत । +++(अतो ऽग्निष्ठोमो ज्येष्ठः।)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -793,6 +793,7 @@ Prajapati indeed is the best, for he sacrificed with it first.
 
 सः । हि । ए॒तेन॑ । अग्रे॑ । अय॑जत ।      
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अग्र इतीदानीमधिकं स्यात्; तस्मादन्यथा व्याख्यायते - ज्येष्ठः प्रथमः ज्येष्ठश्चासौ यज्ञश्चेति ज्येष्ठयज्ञः । प्राथम्ये हेतुमाह - यस्मात्प्रजापतिरनेनाग्रे प्रथममयजत ततोन्यः क्रतुभिः अयष्ट तस्मात् अयं प्रथमो यज्ञानामासीदिति, यथोक्तं - 'एष वाव प्रथमो यज्ञो यज्ञानाम्' इति । इदमिदानीं किमर्थं प्रजापतिर्वाव ज्येष्ठ इति? नानेन ज्येष्ठपदं व्याख्यायते, अपि तर्हि? वृद्धतमत्वं प्रजापतेरुच्यते; यथाऽनेन कृतं तथाऽन्यैः कर्तव्यमिति प्रतिपादनार्थम् । तस्मादनेनानिष्ट्वा अन्येन विकारेण न यजेतेति । 'हि च' इति निघाताभावः ॥
@@ -802,7 +803,7 @@ Prajapati indeed is the best, for he sacrificed with it first.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तिर् अकामयत । प्र जा॑ये॒येति॑।  
+प्रजा᳓पतिर् अकामयत । प्र᳓ जायेये᳓ति।  
 </details>
 
 <details><summary>Keith</summary>
@@ -823,7 +824,7 @@ Prajapati desired, 'May I have offspring.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स मु॑ख॒तस् त्रि॒वृत॒न्+++(=नवस्तोत्रीयं स्तोमं, त्र्यवयवास्तिस्रो वृत्तयोस्येति)+++ निर् अ॑मिमीत ।  
+स᳓ मुखत᳓स् त्रिवृ᳓तन्+++(=नवस्तोत्रीयं स्तोमं, त्र्यवयवास्तिस्रो वृत्तयोस्येति)+++ नि᳓र् अमिमीत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -848,7 +849,7 @@ He meted out the Trivrt from his mouth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम् अ॒ग्निर् दे॒वताऽन्व॑सृज्यत, गाय॒त्री छन्दो॑, रथन्त॒रँ साम॑, ब्राह्म॒णो म॑नु॒ष्या॑णाम्, अ॒जᳶ प॑शू॒नाम्। 
+त᳓म् अग्नि᳓र् देव᳓ता᳓ऽन्वसृज्यत, गायत्री᳓ छ᳓न्दो, रथन्तरँ᳓ सा᳓म, ब्राह्मणो᳓ मनुष्या᳙णाम्, अजᳶ᳓ पशूना᳓म्। 
 </details>
 
 <details><summary>Keith</summary>
@@ -873,7 +874,7 @@ After it the god Agni was created, the Gayatri metre, the Rathantara Saman, of m
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒त् ते मुख्याः॑। 
+त᳓स्मात् ते᳓ मु᳓ख्याः। 
 </details>
 
 <details><summary>Keith</summary>
@@ -898,7 +899,7 @@ therefore are they the chief,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मुख॒तो ह्यसृ॑ज्य॒न्त । +++("अग्न॒ आ या॑हि" इत्यादेस् त्र्यर्चस्य भवति।)+++
+मु᳓खतो᳓ ह्य᳓सृज्यन्त᳓ । +++("अ᳓ग्न आ᳓ याहि" इत्यादेस् त्र्यर्चस्य भवति।)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -925,7 +926,7 @@ _____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उर॑सो बा॒हुभ्या॑म् पञ्चद॒शन् +++(स्तोत्रीयं)+++ निर् अ॑मिमीत ।  
+उ᳓रसो बाहु᳓भ्याम् पञ्चदश᳓न् +++(स्तोत्रीयं)+++ नि᳓र् अमिमीत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -950,7 +951,7 @@ From the breast and arms he meted out the Pañcadaśa Stoma.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम् इन्द्रो॑ दे॒वताऽन्व॑सृज्यत - त्रि॒ष्टुप् छन्दो॑, बृ॒हत् साम॑, राज॒न्यो॑ मनु॒ष्या॑णा॒म्, अविᳶ॑ पशू॒नाम्।  
+त᳓म् इ᳓न्द्रो देव᳓ता᳓ऽन्वसृज्यत - त्रिष्टु᳓प् छ᳓न्दो, बृह᳓त् सा᳓म, राजन्यो᳙ मनुष्या᳙णाम्, अ᳓विᳶ पशूना᳓म्।  
 </details>
 
 <details><summary>Keith</summary>
@@ -975,7 +976,7 @@ After it the god Indra was created, the Tristubh metre, the Brhat [4] Saman, of 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒त्ते वी॒र्या॑वन्तः। 
+त᳓स्मात्ते᳓ वीर्या᳙वन्तः। 
 </details>
 
 <details><summary>Keith</summary>
@@ -995,7 +996,7 @@ There fore they are strong,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वी॒र्या॑द् ध्य् असृ॑ज्यन्त। +++("त्वामिद्धि हवा॑महे सा॒ता…")+++
+वीर्या᳙द् ध्य् अ᳓सृज्यन्त। +++("त्वा᳓मि᳓द्धि᳓ ह᳓वामहे साता᳓…")+++
 </details>
 
 <details><summary>Keith</summary>
@@ -1023,7 +1024,7 @@ _____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++("यद् द्याव इन्द्र ते")+++  
-मध्य॒तस् स॑प्तद॒शन् +++(स्तोत्रीयं)+++ निर् अ॑मिमीत ।  
+म᳓ध्यत᳓स् सप्तदश᳓न् +++(स्तोत्रीयं)+++ नि᳓र् अमिमीत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1048,7 +1049,7 @@ From the middle he meted out the Saptadaśa Stoma.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तव्ँ विश्वे॑ दे॒वा दे॒वता॒ अन्व् अ॑सृज्यन्त, जग॑ती॒ छन्दो॑, वैरू॒पँ साम॒, वैश्यो॑ मनु॒ष्या॑णा॒ङ्, गावᳶ॑ पशू॒नाम्।  
+तव्ँ᳓ वि᳓श्वे देवा᳓ देव᳓ता अ᳓न्व् असृ᳓ज्य᳓न्त᳓, ज᳓गती छ᳓न्दो, वैरूपँ᳓ सा᳓म, वै᳓श्यो मनुष्या᳙णाङ्, गा᳓वᳶ पशूना᳓म्।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1073,7 +1074,7 @@ After it the All-gods as deities were created, the Jagati metre, the Vairupa Sam
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒त् त आ॒द्याः॑+++(=उपजीव्याः)+++। अन्न॒-धाना॒द् ध्य् असृ॑ज्यन्त।  
+त᳓स्मात् त᳓ आद्याः᳙+++(=उपजीव्याः)+++। अ᳓न्न-धा᳓नाद् ध्य् अ᳓सृज्यन्त।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1099,7 +1100,7 @@ Therefore are they to be eaten, for they were created from the receptacle of foo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् भूयाँ॑सो॒ +++(स्तोत्राणि)+++ ऽन्येभ्यः॑।  
+त᳓स्माद् भू᳓याँसो +++(स्तोत्राणि)+++ ऽन्ये᳓भ्यः।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1124,7 +1125,7 @@ Therefore are they more numerous than others,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूयि॑ष्ठा॒ हि दे॒वता॒ अन्व् असृ॑ज्यन्त ।
+भू᳓यिष्ठा हि᳓ देव᳓ता अ᳓न्व् अ᳓सृज्यन्त ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1146,7 +1147,7 @@ _____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒त्त+++(=पद्भ्यां)+++ ए॑क-विँ॒शन् निर् अ॑मिमीत ।  
+पत्त᳓+++(=पद्भ्यां)+++ एक-विँश᳓न् नि᳓र् अमिमीत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1171,9 +1172,9 @@ From his feet he meted out the Ekavinśa Stoma.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम॑नु॒ष्टुप्छन्दो॑ऽन्व॑सृज्यत। +++(सम्पादकटिप्पनी -  सन्धिः परीक्षणीयः)+++,  
-वै॒रा॒जँ॒ साम॑,  
-शू॒द्रो म॒नुष्या॑णाम्, अश्वᳶ॑ पशू॒नाम् ।  +++("पिब सोमम् इन्द्र!?")+++ 
+त᳓मनुष्टु᳓प्छ᳓न्दोऽन्वसृज्यत। +++(सम्पादकटिप्पनी -  सन्धिः परीक्षणीयः)+++,  
+वैराजँ सा᳓म,  
+शूद्रो᳓ मनु᳓ष्याणा᳓म्, अ᳓श्वᳶ पशूना᳓म् ।  +++("पिब सोमम् इन्द्र!?")+++ 
 </details>
 
 <details><summary>Keith</summary>
@@ -1201,7 +1202,7 @@ After it the Anustubh metre [5] was created, the Vairaja Saman, of men the Śudr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒त् तौ भू॑त-सङ्क्रा॒मिणौ॑ अश्व॑श् च शू॒द्रश् च॑ ।  
+त᳓स्मात् तौ᳓ भूत-सङ्क्रामि᳓णौ अ᳓श्वश् च शूद्र᳓श् च ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1226,7 +1227,7 @@ Therefore the two, the horse and the Śudra, are dependent on others.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑च् छू॒द्रो य॒ज्ञे +++(दक्षिणात्वेन)+++ ऽन॑वकॢप्तः । 
+त᳓स्माच् छूद्रो᳓ यज्ञे᳓ +++(दक्षिणात्वेन)+++ ऽनवकॢप्तः । 
 </details>
 
 <details><summary>Keith</summary>
@@ -1251,7 +1252,7 @@ Therefore the Śudra is not fit for the sacrifice,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(यतो)+++ न हि दे॒वता॒ अन्वसृ॑ज्यत । 
++++(यतो)+++ न᳓ हि᳓ देव᳓ता अ᳓न्व᳓सृज्यत । 
 </details>
 
 <details><summary>Keith</summary>
@@ -1277,7 +1278,7 @@ for he was not created after any gods.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अश्वस् तु याग-योग्य एव - सर्वदेवताधारत्वात्।)+++  
-तस्मा॒त् पादा॒व् उप॑ जीवतः +++(शूद्राश्वौ)+++।  
+त᳓स्मात् पा᳓दाव् उ᳓प जीवतः +++(शूद्राश्वौ)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1302,7 +1303,7 @@ Therefore they depend on their feet,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒त्तो ह्य् असृ॑ज्येताम् ।
+पत्तो᳓ ह्य् अ᳓सृज्येताम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1329,7 +1330,7 @@ _____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(नवत्वान्वयात्)+++ प्रा॒णा वै त्रि॒वृत्+++(स्तोमानि)+++ ।  
++++(नवत्वान्वयात्)+++ प्राणा᳓ वै᳓ त्रिवृ᳓त्+++(स्तोमानि)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1354,7 +1355,7 @@ The Trivrt is the breaths;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(दिवसैः)+++ अ॒र्ध॒मा॒साᳶ प॑ञ्च-द॒शः +++(स्तोत्रम्)+++ ।  
++++(दिवसैः)+++ अर्धमासाᳶ᳓ पञ्च-दशः᳓ +++(स्तोत्रम्)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1379,7 +1380,7 @@ the Pañcadaśa the half-months;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जा-प॑तिस् सप्त-द॒शः +++(स्तोत्रम्)+++।  
+प्रजा᳓-पतिस् सप्त-दशः᳓ +++(स्तोत्रम्)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1404,7 +1405,7 @@ the Saptadaśa Prajapati;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रय॑ इ॒मे लो॒काः ।
+त्र᳓य इमे᳓ लोकाः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1429,7 +1430,7 @@ these worlds are three;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒साव् आ॑दि॒त्य ए॑कविँ॒शः +++(स्तोमः)+++।
+असा᳓व् आदित्य᳓ एकविँशः᳓ +++(स्तोमः)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -1454,7 +1455,7 @@ the Ekavinśa is the sun yonder.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तस्मि॒न् +++(अग्निष्टोमे)+++ वा ए॒ते +++(प्राणादय आदित्यपर्यन्ताश्)+++ श्रि॒ताः॑ ।
+एत᳓स्मिन् +++(अग्निष्टोमे)+++ वा᳓ एते᳓ +++(प्राणादय आदित्यपर्यन्ताश्)+++ श्रिताः᳙ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1479,7 +1480,7 @@ In this they rest,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तस्मि॒न् प्रति॑ष्ठिताः ।
+एत᳓स्मिन् प्र᳓तिष्ठिताः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1505,7 +1506,7 @@ in this they find support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वेदै॒तस्मि॑न्न् ए॒व श्र॑यते ।  ए॒तस्मि॒न् प्रति॑ तिष्ठति ॥
+य᳓ एवव्ँ᳓ वे᳓दैत᳓स्मिन्न् एव᳓ श्रयते ।  एत᳓स्मिन् प्र᳓ति तिष्ठति ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -1529,4 +1530,3 @@ He who knows thus rests on this, finds, support in this.
 
 इति सप्तमे प्रथमे प्रथमोनुवाकः ॥
 </details>
-

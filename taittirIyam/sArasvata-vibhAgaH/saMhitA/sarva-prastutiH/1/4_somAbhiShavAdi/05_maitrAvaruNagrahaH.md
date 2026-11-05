@@ -9,8 +9,7 @@ _______
 1मैत्रावरुणं गृह्णाति - अयं वामिति गायत्र्या त्रिपदया ॥
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/041/04_ayaM_vAM.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/041/04_ayaM_vAM.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 अयं᳓ वां मित्रा-वरुणा  
@@ -18,11 +17,18 @@ _______
 म᳓मे᳓द् इह᳓ श्रुतं+++(=श्रृणुतम्)+++ ह᳓वम्+++(=ह्वानम्)+++ ॥
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/041/04_ayaM_vAM.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/041/04_ayaM_vAM.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+अ॒यं वां॑ मित्रावरुणा सु॒तः सोम॑ ऋतावृधा ।  
+ममेदि॒ह श्रु॑तं॒ हव॑म् ॥
+
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/041/04_ayaM_vAM.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -267,14 +273,12 @@ O heil'ge Mitra-Varuna, gepresst ist dieser Soma euch; O höret recht auf meinen
 
 भावार्थभाषाः -  जसे वायू सर्वांकडून रस ग्रहण करून वृष्टी करतात तसेच सत्य विद्येचे श्रवण करून सर्वांना सुख दिले पाहिजे. ॥ ४ ॥
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -297,7 +301,6 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
 </div>  
 
 _______
@@ -306,11 +309,10 @@ _______
 इमामनुद्रुत्य उपयामगृहीतोसि मित्रावरुणाभ्यां त्वेति गृह्णाति ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -333,12 +335,11 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रावरु॑णाभ्यान्त्वा  ।
+मित्रा᳓व᳓रुणाभ्यान्त्वा  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -362,11 +363,10 @@ _______
 2एष ते योनिर् ऋतायुभ्यां त्वेति सादयति ॥   
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/eSha_te.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/eSha_te.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनिः॑।
+एष᳓ ते यो᳓निः।
 </details>
 
 <details><summary>Keith</summary>
@@ -383,12 +383,11 @@ This is thy birthplace;
 
 **एष ते योनिः** स्थानम् ।
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒ता॒युभ्या॑न्त्वा ॥  [6]
+ऋतायु᳓भ्यान्त्वा ॥  [6]
 </details>
 
 <details><summary>Keith</summary>

@@ -5,10 +5,10 @@ unicode_script: devanagari
 ---
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तिष्ठा॒ हरी॒ रथ॒ आ यु॒ज्यमा॑ना या॒हि ।  
-वा॒युर्न नि॒युतो॑ नो॒ अच्छ॑ ।  
-पिबा॒स्यन्धो॑ अ॒भिसृ॑ष्टो अ॒स्मे ।  
-इन्द्र॒स्स्वाहा॑ ररि॒मा ते॒ मदा॑य ।
+ति᳓ष्ठा ह᳓री र᳓थ आ᳓ युज्य᳓माना याहि᳓ ।  
+वायु᳓र्न᳓ नियु᳓तो नो अ᳓च्छ ।  
+पि᳓बास्य᳓न्धो अभि᳓सृष्टो अस्मे᳓ ।  
+इ᳓न्द्रस्स्वा᳓हा ररिमा᳓ ते म᳓दाय ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -34,19 +34,24 @@ unicode_script: devanagari
 2अथ तत्रैव द्वितीयां पुरोरुचमाह -
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/093/20_kasya_vRShA.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/093/20_kasya_vRShA.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 क᳓स्य वृ᳓षा सुते᳓ स᳓चा  
 नियु᳓त्वान् वृषभो᳓ रणत्  
 वृत्रहा᳓ सो᳓मपीतये
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/093/20_kasya_vRShA.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/093/20_kasya_vRShA.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+कस्य॒ वृषा॑ सु॒ते सचा॑ नि॒युत्वा॑न्वृष॒भो र॑णत् ।  
+वृ॒त्र॒हा सोम॑पीतये ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/093/20_kasya_vRShA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -231,14 +236,13 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 - गायत्री
 - षड्जः
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रव्ँ॑व॒यम्म॑हाध॒ने ।  
-इन्द्र॒मर्भे॑ हवामहे ।  
-युजव्ँ॑ वृ॒त्रेषु॑ व॒ज्रिण॑म् ॥41॥  
+इ᳓न्द्रव्ँवय᳓म्महाधने᳓ ।  
+इ᳓न्द्रम᳓र्भे हवामहे ।  
+यु᳓जव्ँ वृत्रे᳓षु वज्रि᳓णम् ॥41॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -255,9 +259,9 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वि॒ता यो वृ॑त्र॒हन्त॑मः ।  
-वि॒द इन्द्र॑श्श॒तक्र॑तुः ।  
-उप॑ नो॒ हरि॑भिस्सु॒तम् ।
+द्विता᳓ यो᳓ वृत्रह᳓न्तमः ।  
+विद᳓ इ᳓न्द्रश्शत᳓क्रतुः ।  
+उ᳓प नो ह᳓रिभिस्सुत᳓म् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -274,9 +278,9 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स सूर॒ आज॒नय॒ञ्ज्योति॒रिन्द्र॑म् ।  
-अ॒या धि॒या त॒रणि॒रद्रि॑बर्हाः ।  
-ऋ॒तेन॑ शु॒ष्मी नव॑मानो अ॒र्कैः ।
+स᳓ सू᳓र आ᳓जन᳓यञ्ज्यो᳓तिरि᳓न्द्रम् ।  
+अया᳓ धिया᳓ तर᳓णिर᳓द्रिबर्हाः ।  
+ऋते᳓न शुष्मी᳓ न᳓वमानो अर्कैः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -293,10 +297,10 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्यु॑स्रिधो॑ अ॒स्रो अद्रि॑र्बिभेद ।  
-उ॒तत्यदा॒श्वश्वि॑यम् ।  
-यदि॑न्द्र॒ नाहु॑षी॒ष्वा ।  
-अग्रे॑ वि॒क्षु प्रतीद॑यत् ॥42॥  
+व्यु᳙स्रि᳓धो अस्रो᳓ अ᳓द्रिर्बिभेद ।  
+उत᳓त्य᳓दाश्व᳓श्वियम् ।  
+य᳓दिन्द्र ना᳓हुषीष्वा᳓ ।  
+अ᳓ग्रे विक्षु᳓ प्र᳓ती᳓दयत् ॥42॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -314,10 +318,10 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भरे॒ष्विन्द्रँ॑ सु॒हवँ॑ हवामहे ।  
-अँ॒हो॒मुचँ॑ सु॒कृत॒न्दैव्य॒ञ्जन॑म् ।  
-अ॒ग्निम्मि॒त्रव्ँवरु॑णँ सा॒तये॒ भग॑म् ।
-द्यावा॑पृथि॒वी म॒रुत॑स्स्व॒स्तये॑ ।  
+भ᳓रेष्वि᳓न्द्रँ सुह᳓वँ हवामहे ।  
+अँहोमु᳓चँ सुकृ᳓तन्दै᳓व्यञ्ज᳓नम् ।  
+अग्नि᳓म्मित्रव्ँ᳓व᳓रुणँ सात᳓ये भ᳓गम् ।
+द्या᳓वापृथिवी᳓ मरु᳓तस्स्वस्त᳓ये ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -335,10 +339,10 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒हि क्षेत्र॑म्पु॒रुश्च॒न्द्रव्ँ वि वि॒द्वान् ।  
-आदित्सखि॑भ्यश्च॒रथँ॒ समै॑रत् ।  
-इन्द्रो॒ नृभि॑रजन॒द्दीद्या॑नस्सा॒कम् ।  
-सूर्य॑मु॒षस॑ङ्गा॒तुम॒ग्निम् ।  
+महि᳓ क्षे᳓त्रम्पुरु᳓श्चन्द्रव्ँ᳓ वि᳓ विद्वा᳓न् ।  
+आ᳓दि᳓त्स᳓खिभ्यश्चर᳓थँ स᳓मैरत् ।  
+इ᳓न्द्रो नृ᳓भिरजनद्दी᳓द्यानस्साक᳓म् ।  
+सू᳓र्यमुष᳓सङ्गातु᳓मग्नि᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -356,10 +360,10 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒रुन्नो॑ लो॒कमनु॑नेषि वि॒द्वान् ।  
-सुव॑र्व॒ज्ज्योति॒रभ॑यँ स्व॒स्ति ॥43॥  
-ऋ॒ष्वा त॑ इन्द्र॒ स्थवि॑रस्य बा॒हू ।  
-उप॑स्थेयाम शर॒णा बृ॒हन्ता॑ ।  
+उरु᳓न्नो लोक᳓म᳓नुनेषि विद्वा᳓न् ।  
+सु᳓वर्वज्ज्यो᳓तिर᳓भयँ स्वस्ति᳓ ॥43॥  
+ऋष्वा᳓ त इन्द्र स्थ᳓विरस्य बाहू᳓ ।  
+उ᳓पस्थेयाम शरणा᳓ बृह᳓न्ता ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -377,10 +381,10 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ नो॒ विश्वा॑भिरू॒तिभि॑स्स॒जोषाः॑ ।  
-ब्रह्म॑ जुषा॒णो ह॑र्यश्व याहि ।  
-वरी॑वृज॒त्स्थवि॑रेभिस्सुशिप्र ।   
-अ॒स्मे दध॒द्वृष॑णँ॒ शुष्म॑मिन्द्र ।  
+आ᳓ नो वि᳓श्वाभिरूति᳓भिस्सजो᳓षाः ।  
+ब्र᳓ह्म जुषाणो᳓ हर्यश्व याहि ।  
+व᳓रीवृजत्स्थ᳓विरेभिस्सुशिप्र ।   
+अस्मे᳓ द᳓धद्वृ᳓षणँ शु᳓ष्ममिन्द्र ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -398,9 +402,9 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य॒ गाव॑ आ॒शिर॑म् ।  
-दु॒दु॒ह्रे व॒ज्रिणे॒ मधु॑ ।  
-यत्सी॑मुपह्व॒रे वि॒दत् ।  
+इ᳓न्द्राय गा᳓व आशि᳓रम् ।  
+दुदुह्रे᳓ वज्रि᳓णे म᳓धु ।  
+य᳓त्सीमुपह्वरे᳓ विद᳓त् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -417,10 +421,10 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तास्ते॑ वज्रिन्धे॒नवो॑ जोजयुर्नः ॥44॥  
-गभ॑स्तयो नि॒युतो॑ वि॒श्ववा॑राः ।  
-अह॑रह॒र्भूय॒ इज्जोगु॑वानाः ।  
-पू॒र्णा इ॑न्द्र क्षु॒मतो॒ भोज॑नस्य ।
+ता᳓स्ते वज्रिन्धेन᳓वो जोजयुर्नः ॥44॥  
+ग᳓भस्तयो नियु᳓तो विश्व᳓वाराः ।  
+अ᳓हरहर्भू᳓य इ᳓ज्जो᳓गुवानाः ।  
+पूर्णा᳓ इन्द्र क्षुम᳓तो भो᳓जनस्य ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -438,10 +442,10 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒मान्ते॒ धिय॒म्प्र भ॑रे म॒हो म॒हीम् ।  
-अ॒स्य स्तो॒त्रे धि॒षणा॒ यत्त॑ आन॒जे ।  
-तमु॑त्स॒वे च॑ प्रस॒वे च॑ सास॒हिम् ।  
-इन्द्र॑न्दे॒वास॒श्शव॑सा मद॒न्ननु॑ ॥45॥  
+इमा᳓न्ते धि᳓यम्प्र᳓ भरे महो᳓ मही᳓म् ।  
+अस्य᳓ स्तोत्रे᳓ धिष᳓णा य᳓त्त आनजे᳓ ।  
+त᳓मुत्सवे᳓ च प्रसवे᳓ च सासहि᳓म् ।  
+इ᳓न्द्रन्देवा᳓सश्श᳓वसा मदन्न᳓नु ॥45॥  
 </details>
 
 <details><summary>मूलम्</summary>

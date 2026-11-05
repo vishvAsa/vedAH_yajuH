@@ -1,6 +1,5 @@
 +++
 title = "०६ नमो ज्येष्ठाय"
-
 +++
 अग्निर्ऋषिः
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -23,7 +22,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ ज्ये॒ष्ठाय॑ च
+न᳓मो ज्येष्ठा᳓य च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -38,7 +37,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क॒नि॒ष्ठाय॑ च +++(नमः)+++।  
+कनिष्ठा᳓य च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -58,7 +57,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमᳶ॑ पूर्व॒जाय॑ च  
+न᳓मᳶ पूर्वजा᳓य च  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -73,7 +72,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒प॒र॒जाय॑ च  +++(नमः)+++।
+अपरजा᳓य च  +++(नमः)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -93,7 +92,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ मध्य॒माय॑ च  
+न᳓मो मध्यमा᳓य च  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -108,7 +107,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒प॒ग॒ल्भाय॑ च +++(नमः)+++।
+अपगल्भा᳓य च +++(नमः)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -128,7 +127,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ जघ॒न्या॑य च
+न᳓मो जघन्या᳙य च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -143,7 +142,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बुध्नि॑याय च +++(नमः)+++।  
+बु᳓ध्नियाय च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -163,7 +162,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑स्सो॒भ्या॑य च
+न᳓मस्सोभ्या᳙य च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -180,7 +179,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒ति॒सर्या॑य च  +++(नमः)+++।  
+प्रतिस᳓र्याय च  +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -200,7 +199,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॒  याम्या॑य च
+न᳓मो  या᳓म्याय च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -215,7 +214,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षेम्या॑य च +++(नमः)+++।  
+क्षे᳓म्याय च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -236,7 +235,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑ उर्व॒र्या॑य च
+न᳓म उर्वर्या᳙य च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -251,7 +250,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-खल्या॑य च +++(नमः)+++।  
+ख᳓ल्याय च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -271,7 +270,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॒श्श्लोक्या॑य च
+न᳓मश्श्लो᳓क्याय च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -286,7 +285,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒व॒सा॒न्या॑य च +++(नमः)+++।  
+अवसान्या᳙य च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -316,7 +315,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कक्ष्या॑य च +++(नमः)+++।  
+क᳓क्ष्याय च +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -336,7 +335,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑श्श्र॒वाय॑ च
+न᳓मश्श्रवा᳓य च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -351,7 +350,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒ति॒श्र॒वाय॑ च  +++(नमः)+++।  
+प्रतिश्रवा᳓य च  +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -371,7 +370,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑ आ॒शुषे॑णाय च
+न᳓म आशु᳓षेणाय च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -386,7 +385,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒शुर॑थाय च+++(नमः)+++।  
+आशु᳓रथाय च+++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -406,7 +405,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॒श्शूरा॑य च
+न᳓मश्शू᳓राय च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -421,7 +420,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒व॒भि॒न्द॒ते  च +++(नमः)+++।
+अवभिन्दते᳓  च᳓ +++(नमः)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -441,7 +440,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ व॒र्मिणे॑ च
+न᳓मो वर्मि᳓णे च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -456,7 +455,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒रू॒थिने॑ च  +++(नमः)+++।  
+वरूथि᳓ने च  +++(नमः)+++।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -476,7 +475,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ बि॒ल्मिने॑ च
+न᳓मो बिल्मि᳓ने च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -491,7 +490,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क॒व॒चिने॑ च +++(नमः)+++।
+कवचि᳓ने च +++(नमः)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -511,7 +510,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑श्श्रु॒ताय॑ च
+न᳓मश्श्रुता᳓य च
 </details>
 
 <details><summary>मूलम्</summary>
@@ -526,7 +525,7 @@ title = "०६ नमो ज्येष्ठाय"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रु॒त॒से॒नाय॑ च +++(नमः)+++॥   
+श्रुतसेना᳓य च +++(नमः)+++॥   
 </details>
 
 <details><summary>मूलम्</summary>

@@ -1,6 +1,5 @@
 +++
 title = "०६ अन्नादनशक्तिकामस्य त्रिधातुसंज्ञकयागः"
-
 +++
 
 विश्वेदेवा ऋषयः ।
@@ -12,7 +11,7 @@ title = "०६ अन्नादनशक्तिकामस्य त्र
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तिर्दे॒वेभ्यो॒ऽन्नाद्य॒व्व्ँयादि॑शत् ।  
+प्रजा᳓पतिर्देवे᳓भ्योऽन्ना᳓द्यव्व्ँया᳓दिशत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -32,8 +31,8 @@ Prajapati assigned food to the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ऽब्रवीत् ।  
-यदि॒माल्ँ लो॒कान॒भ्य॑ति॒रिच्या॑ते, एतन्ममा॑स॒दिति॑ ।  
+सो᳓ऽब्रवीत् ।  
+य᳓दिमाल्ँ᳓ लोका᳓नभ्य᳙तिरि᳓च्याते᳓, ए᳓त᳓न्म᳓मासदि᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -54,7 +53,7 @@ he said, 'Whatever shall be left over these worlds, be that mine.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदि॒माल्ँ लो॒कान॒भ्यत्य॑रिच्यत ।  
+त᳓दिमाल्ँ᳓ लोका᳓नभ्य᳓त्यरिच्यत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -74,7 +73,7 @@ That was left over these worlds, Indra, the king, Indra, the overlord, Indra, th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रँ॒ राजा॑न॒मिन्द्र॑मधिरा॒जमिन्द्रँ॑ स्व॒राजा॑नम् ।   
+इ᳓न्द्रँ रा᳓जानमि᳓न्द्रमधिराज᳓मि᳓न्द्रँ स्वरा᳓जानम् ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -94,7 +93,7 @@ thence he milked these worlds threefold;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वै स इ॒माल्ँ लो॒काँस्त्रे॒धादु॑हत् ।   
+त᳓तो वै᳓ स᳓ इमाल्ँ᳓ लोकाँ᳓स्त्रेधा᳓दुहत् ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -114,7 +113,7 @@ that is the cause of its having three elements.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्त्रि॒धातो॑स्त्रिधातु॒त्वम् ।  
+त᳓त्त्रिधा᳓तोस्त्रिधातुत्व᳓म् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -134,10 +133,10 @@ For him of whom he desires, 'May he be an eater of food', let him offer this (of
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यङ्का॒मये॑तान्ना॒दस्स्या॒दिति॑ ।   
-तस्मा॑ ए॒तन्त्रि॒धातु॒न्निर्व॑पेत् ।   
-इन्द्रा॑य॒ राज्ञे॑ पुरो॒डाश॑मेका॑दशकपालम् ।  
-इन्द्रा॑याधिरा॒जायेन्द्रा॑य स्व॒राज्ञे॑ ।
+य᳓ङ्काम᳓येतान्नाद᳓स्स्यादि᳓ति ।   
+त᳓स्मा एत᳓न्त्रिधा᳓तुन्नि᳓र्वपेत् ।   
+इ᳓न्द्राय रा᳓ज्ञे पुरोडा᳓शमे᳓कादशकपालम् ।  
+इ᳓न्द्रायाधिराजा᳓ये᳓न्द्राय स्वरा᳓ज्ञे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -155,8 +154,8 @@ Indra, the king, is this (world of earth), Indra, the overlord, is this (atmosph
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒यव्ँवा इन्द्रो॒  राजा॒यमिन्द्रो॑ऽधिरा॒जो॑ऽसाविन्द्र॑स्स्व॒राट्,
-इ॒माने॒व लो॒कान्त्स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+अयव्ँ᳓वा᳓ इ᳓न्द्रो  रा᳓जाय᳓मि᳓न्द्रोऽधिराजो᳙ऽसा᳓वि᳓न्द्रस्स्वरा᳓ट्,
+इमा᳓नेव᳓ लोका᳓न्त्स्वे᳓न भागधे᳓येनो᳓प धावति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -172,7 +171,7 @@ verily he has recourse to these worlds with their own share;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त ए॒वास्मा॒ अन्न॒म्प्रय॑च्छन्ति ।
+त᳓ एवा᳓स्मा अ᳓न्नम्प्र᳓यच्छन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -187,7 +186,7 @@ verily they bestow food on him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्ना॒द ए॒व भ॑वति ।
+अन्नाद᳓ एव᳓ भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -207,8 +206,8 @@ he becomes an eater of food.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा॑ व॒त्सेन॒ प्रत्ता॒ङ्गान्दु॒हे ।  
-ए॒वमे॒वेमाल्ँ लो॒कान्प्रत्ता॒न्काम॑म॒न्नाद्य॑न्दुहे ।  
+य᳓था वत्से᳓न प्र᳓त्ताङ्गा᳓न्दुहे᳓ ।  
+एव᳓मेवे᳓माल्ँ᳓ लोका᳓न्प्र᳓त्तान्का᳓ममन्ना᳓द्यन्दुहे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -229,7 +228,7 @@ Even as one milks a cow ready to give milk by reason of its calf, so he milks th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒त्ता॒नेषु॑ क॒पाले॒ष्वधि॑ श्रय॒ति ।
+उत्ताने᳓षु कपा᳓लेष्व᳓धि श्रयति᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -244,7 +243,7 @@ he places (the cake) on potsherds face upwards, for variety.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अया॑तयामत्वाय॒ त्रयᳶ॑ पुरो॒डाशा॑ भवन्ति ।
+अ᳓यातयामत्वाय त्र᳓यᳶ पुरोडा᳓शा भवन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -264,7 +263,7 @@ There are three cakes,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रय॑ इ॒मे लो॒का ए॒षाल्ँ लो॒काना॒माप्त्यै ।
+त्र᳓य इमे᳓ लोका᳓ एषाल्ँ᳓ लोका᳓नामा᳓प्त्यै᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -284,7 +283,7 @@ these worlds are three; (verily they serve) to obtain these worlds;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत्त॑रउत्तरो॒ ज्याया॑न्भवति ।
+उ᳓त्तरउत्तरो ज्या᳓यान्भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -299,7 +298,7 @@ each one above the other is larger, for so as it were are these worlds;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒वमि॑व॒ हीमे लो॒कास्समृ॑द्ध्यै ।
+एव᳓मिव ही᳓मे᳓ लोका᳓स्स᳓मृद्ध्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -319,7 +318,7 @@ each one above the other is larger, for so as it were are these worlds;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वे॑षामभिग॒मय॒न्नव॑द्यति ।
+स᳓र्वेषामभिगम᳓यन्न᳓वद्यति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -339,7 +338,7 @@ he cuts off from all (the cakes) as he sets them up without making a failure;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अछ॑म्बट्कारव्व्ँय॒त्यास॒मन्वा॒हानि॑र्दाहाय ॥
+अ᳓छम्बट्कारव्व्ँयत्या᳓सम᳓न्वाहा᳓निर्दाहाय ॥
 </details>
 
 <details><summary>Keith</summary>

@@ -4,7 +4,7 @@ title = "४३ षोडशिग्रहः"
 
 त्रिष्टुप्
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/047/02_sajoShA_indra.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/047/02_sajoShA_indra.md">
 
 सजो᳓षा इन्द्र स᳓गणो मरु᳓द्भिः  
 सो᳓मम् पिब वृत्रहा᳓ शूर विद्वा᳓न्  
@@ -13,8 +13,15 @@ title = "४३ षोडशिग्रहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/047/02_sajoShA_indra.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/047/02_sajoShA_indra.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+स॒जोषा॑ इन्द्र॒ सग॑णो म॒रुद्भिः॒ सोमं॑ पिब वृत्र॒हा शू॑र वि॒द्वान् ।  
+ज॒हि शत्रूँ॒रप॒ मृधो॑ नुद॒स्वाथाभ॑यं कृणुहि वि॒श्वतो॑ नः ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/047/02_sajoShA_indra.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -362,13 +369,11 @@ Vereint, o Indra, mit den Marutscharen trink Soma, Held, du kund'ger Vritratödt
 
 भावार्थभाषाः -  जे राजे परस्पर मैत्री करून नियमित आहार-विहार, ब्रह्मचर्य, जितेन्द्रियता इत्यादीने शरीर व आत्म्याच्या पूर्ण बलाने शत्रूंचा संहार करतात व युद्ध जिंकून प्रजेला सर्व प्रकारे भयरहित करतात तेच सर्वत्र निर्भयतेने वावरून सुख प्राप्त करतात. ॥ २ ॥
 </details>
-
 </div>  
 
 _______
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिन॑ ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥
@@ -382,7 +387,7 @@ _______
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -409,7 +414,7 @@ ________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य त्वा षो॒ड॒शिने॑   +++(ग्रहणमन्त्रः)+++  ।
+इ᳓न्द्राय त्वा षोडशि᳓ने   +++(ग्रहणमन्त्रः)+++  ।
 
 </details>
 
@@ -439,7 +444,7 @@ __________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++
+एष᳓ ते यो᳓निरि᳓न्द्राय त्वा षोडशि᳓ने ॥ [38]   +++(सादनमन्त्रः)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -451,5 +456,4 @@ This is thy birthplace; to Indra of the Sodaśin thee!
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++
 </details>
-
 </div>

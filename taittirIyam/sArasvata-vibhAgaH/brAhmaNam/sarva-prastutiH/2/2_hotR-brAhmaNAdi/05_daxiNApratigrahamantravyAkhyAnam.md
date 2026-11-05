@@ -133,7 +133,6 @@ unicode_script: devanagari
 ततो॒ वै तान्दक्षि॑णा॒ नाव्ली॑नात् ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न्  
@@ -312,7 +311,6 @@ unicode_script: devanagari
 </details>
 
 <details><summary>मूलम्</summary>
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -407,7 +405,6 @@ unicode_script: devanagari
 > स प्रजापतये ददाति, इति ।
 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

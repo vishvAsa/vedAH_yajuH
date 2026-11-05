@@ -23,8 +23,6 @@ title = "०१ पवमानग्रहत्रयम्"
 He who, knowing the ascents of the Pavamāna [Soma-chants], sacrifices, ascends after the Pavamāna-s; he is not severed from the Pavamāna-s."
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 यो वै पव॑मानानामन्वारो॒हान्वि॒द्वान् यज॑ते  ।   
@@ -50,7 +48,6 @@ He who, knowing the ascents of the Pavamāna [Soma-chants], sacrifices, ascends 
 You are the Falcon, having the Gāyatrī meter;
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 श्ये॒नो॑ऽसि गाय॒त्रछ॑न्दाः ।  
@@ -71,7 +68,6 @@ You are the Falcon, having the Gāyatrī meter;
 I grasp onto you. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अनु॒ त्वा र॑भे ।  
@@ -91,7 +87,6 @@ I grasp onto you.
 
 Safely carry me across to the completion!
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -115,7 +110,6 @@ Safely carry me across to the completion!
 
 You are the Fair-Winged Bird (Golden Eagle), having the Triṣṭubh meter; I grasp onto you. Safely carry me across to the completion!
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -150,7 +144,6 @@ Only two birds would be vR^iddhatara to suparNa:
 Lammergeier or Cinereous Vulture
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सघा॑सि॒ जग॑तीछन्दाः ।  
@@ -178,7 +171,6 @@ Lammergeier or Cinereous Vulture
 ...thus he says. These, verily, are the ascents of the Pavamāna chants. He who, knowing thus, sacrifices, ascends after the Pavamānas; he is not severed from the Pavamānas.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ए॒ते वै पव॑मानानामन्वारो॒हाः ।  
@@ -196,7 +188,6 @@ Lammergeier or Cinereous Vulture
 
 We hold that the original soma was Ephedra. Hence, the original soma was not a hallucinogen sensu stricto. However, the exhilaration it produced was mind-altering and conveyed the sense of a divine flight, like that of a soaring raptor. This meditation with the above yajuṣ-es provided a primer for that. There are three ascents of soma, which correspond to the three main Pavamāna stotra-s, the Bahiṣ-pavamāna, the Mādhyandina and Ārbhava. 
 </details>
-
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 

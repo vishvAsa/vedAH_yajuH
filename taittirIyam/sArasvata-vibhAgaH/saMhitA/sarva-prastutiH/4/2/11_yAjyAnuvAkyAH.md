@@ -16,8 +16,8 @@ title = "११ याज्यानुवाक्याः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑ग्नी रोच॒ना दि॒वᳶ परि॒ वाजे॑षु भूषथः ।  
-तद्वा॑ञ्चेति॒ प्र वी॒र्य॑म् ।  
+इ᳓न्द्राग्नी रोचना᳓ दिवᳶ᳓ प᳓रि वा᳓जेषु भूषथः ।  
+त᳓द्वाञ्चेति प्र᳓ वीर्य᳙म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -39,8 +39,8 @@ title = "११ याज्यानुवाक्याः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्ञथ॑द्वृ॒त्रमु॒त स॑नोति॒ वाज॒मिन्द्रा॒ यो अ॒ग्नी सहु॑री सप॒र्यात् ।  
-इ॒र॒ज्यन्ता॑ वस॒व्य॑स्य॒ भूरे॒स्सह॑स्तमा॒ सह॑सा वाज॒यन्ता॑ ।  
+श्ञ᳓थद्वृत्र᳓मुत᳓ सनोति वा᳓जमि᳓न्द्रा यो᳓ अग्नी᳓ स᳓हुरी सपर्या᳓त् ।  
+इरज्य᳓न्ता वसव्य᳙स्य भू᳓रेस्स᳓हस्तमा स᳓हसा वाजय᳓न्ता ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -66,8 +66,8 @@ title = "११ याज्यानुवाक्याः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र च॑र्ष॒णिभ्यᳶ॑ पृतना॒ हवे॑षु॒ प्र पृ॑थि॒व्या रि॑रिचाथे दि॒वश्च॑ ।  
-प्र सिन्धु॑भ्य॒ᳶ प्र गि॒रिभ्यो॑ महि॒त्वा प्रेन्द्रा॑ग्नी॒ विश्वा॒ भुव॒नात्य॒न्या ।  
+प्र᳓ चर्षणि᳓भ्यᳶ पृतना ह᳓वेषु प्र᳓ पृथिव्या᳓ रिरिचाथे दिव᳓श्च ।  
+प्र᳓ सि᳓न्धुभ्यᳶ प्र᳓ गिरि᳓भ्यो महित्वा᳓ प्रे᳓न्द्राग्नी वि᳓श्वा भु᳓वना᳓त्यन्या᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -88,19 +88,24 @@ title = "११ याज्यानुवाक्याः"
 अथ मारुत्या आमिक्षायाः पुरोनुवाक्यामाह— मरुतो यस्य हीति।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/086/01_maruto_yasya.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/086/01_maruto_yasya.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 म᳓रुतो य᳓स्य हि᳓ क्ष᳓ये  
 पाथा᳓ दिवो᳓ विमहसः  
 स᳓ सुगोपा᳓तमो ज᳓नः
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/086/01_maruto_yasya.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/086/01_maruto_yasya.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+मरु॑तो॒ यस्य॒ हि क्षये॑ पा॒था दि॒वो वि॑महसः ।  
+स सु॑गो॒पात॑मो॒ जनः॑ ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/086/01_maruto_yasya.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -347,7 +352,6 @@ In wessen Haus o Maruts ihr, des Himmels hohe Helden, trinkt, Der Mann geniesst 
 
 भावार्थभाषाः -  जसे प्राणाशिवाय शरीर इत्यादीचे रक्षण होऊ शकत नाही. तसे सत्य उपदेशकाशिवाय प्रजेचे रक्षण होत नाही. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -357,8 +361,8 @@ In wessen Haus o Maruts ihr, des Himmels hohe Helden, trinkt, Der Mann geniesst 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञैर्वा॑ यज्ञवाहसो॒ विप्र॑स्य वा मती॒नाम् ।  
-मरु॑तश्शृणु॒ता हव॑म् ।  
+यज्ञै᳓र्वा यज्ञवाहसो वि᳓प्रस्य वा मतीना᳓म् ।  
+म᳓रुतश्शृणुता᳓ ह᳓वम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -379,8 +383,8 @@ In wessen Haus o Maruts ihr, des Himmels hohe Helden, trinkt, Der Mann geniesst 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रि॒यसे॒ कम्भा॒नुभि॒स्सम्मि॑मिक्षिरे॒ ते र॒श्मिभि॒स्त ऋक्व॑भिस्सुखा॒दयः॑ ।  
-ते वाशी॑मन्त इ॒ष्मिणो॒ अभी॑रवो वि॒द्रे प्रि॒यस्य॒ मारु॑तस्य॒ धाम्नः॑ ।  
+श्रिय᳓से क᳓म्भानु᳓भिस्स᳓म्मिमिक्षिरे ते᳓ रश्मि᳓भिस्त᳓ ऋ᳓क्वभिस्सुखाद᳓यः ।  
+ते᳓ वा᳓शीमन्त इष्मि᳓णो अ᳓भीरवो विद्रे᳓ प्रिय᳓स्य मा᳓रुतस्य धा᳓म्नः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -396,7 +400,7 @@ In wessen Haus o Maruts ihr, des Himmels hohe Helden, trinkt, Der Mann geniesst 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव॑ ते॒ हेड॒ ..
+अ᳓व ते हे᳓ड ..
 </details>
 
 <details><summary>मूलम्</summary>
@@ -424,7 +428,7 @@ In wessen Haus o Maruts ihr, des Himmels hohe Helden, trinkt, Der Mann geniesst 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उदु॑त्त॒मम् .. ।  
+उ᳓दुत्तम᳓म् .. ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -450,7 +454,7 @@ In wessen Haus o Maruts ihr, des Himmels hohe Helden, trinkt, Der Mann geniesst 
 अथ कायमेककपालमित्यस्य पुरोनुवाक्यामाह— कया नश्र्वित्र इति।   
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
 
 क᳓या नश् चित्र᳓ +++(→इन्द्रः)+++ **आ᳓ भुवद्**  
 **ऊती᳓** +++(=रक्षणम्/ तर्पणम् [तेन])+++, सदा᳓-वृधः +++(=वर्धमानः)+++ स᳓खा ।  
@@ -458,8 +462,15 @@ In wessen Haus o Maruts ihr, des Himmels hohe Helden, trinkt, Der Mann geniesst 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/031/01_kayA_nashchitra.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/031/01_kayA_nashchitra.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+कया॑ नश्चि॒त्र आ भु॑वदू॒ती स॒दावृ॑धः॒ सखा॑ ।  
+कया॒ शचि॑ष्ठया वृ॒ता ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/031/01_kayA_nashchitra.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -700,7 +711,6 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 
 भावार्थभाषाः -  हे राजा! आमच्याबरोबर असे वाग की ज्यामुळे आमचे प्रेम वाढावे. ॥ १ ॥ ००
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -710,8 +720,8 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-को अ॒द्य यु॑ङ्क्ते धु॒रि गा ऋ॒तस्य॒ शिमी॑वतो भा॒मिनो॑ दुर्हृणा॒यून् ।  
-आ॒सन्नि॑षून्हृ॒त्स्वसो॑ मयो॒भून्य ए॑षाम्भृ॒त्यामृ॒णध॒त्स जी॑वात् ।  
+को᳓ अद्य᳓ युङ्क्ते धुरि᳓ गा᳓ ऋत᳓स्य शि᳓मीवतो भामि᳓नो दुर्हृणायू᳓न् ।  
+आस᳓न्निषून्हृत्स्व᳓सो मयोभू᳓न्य᳓ एषाम्भृत्या᳓मृण᳓धत्स᳓ जीवात् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -727,7 +737,7 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॒ नय॑
+अ᳓ग्ने न᳓य
 </details>
 
 <details><summary>मूलम्</summary>
@@ -753,7 +763,7 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ दे॒वानाम्
+आ᳓ देवा᳓ना᳓म्
 </details>
 
 <details><summary>मूलम्</summary>
@@ -781,8 +791,8 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शन्नो॑ भवन्तु॒ ..
-वाजे॑वाजे ।  
+श᳓न्नो भवन्तु ..
+वा᳓जेवाजे ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -806,7 +816,7 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाजे॑वाजे ..  
+वा᳓जेवाजे ..  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -832,8 +842,8 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒प्स्व॑ग्ने॒ सधि॒ष्टव॒ सौष॑धी॒रनु॑ रुध्यसे ।  
-गर्भे॒ सञ्जा॑यसे॒ पुनः॑ ।
+अप्स्व᳙ग्ने स᳓धिष्ट᳓व सौ᳓षधीर᳓नु रुध्यसे ।  
+ग᳓र्भे स᳓ञ्जायसे पु᳓नः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -852,19 +862,24 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 अथ द्वितीयाज्यभागस्य पुरोनुवाक्यामाह- वृपा सोम द्युमामिति।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/064/01_vRShA_soma.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/064/01_vRShA_soma.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 वृ᳓षा सोम द्युमाँ᳓ असि  
 वृ᳓षा देव वृ᳓षव्रतः  
 वृ᳓षा ध᳓र्माणि दधिषे
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/064/01_vRShA_soma.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/064/01_vRShA_soma.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+वृषा॑ सोम द्यु॒माँ अ॑सि॒ वृषा॑ देव॒ वृष॑व्रतः ।  
+वृषा॒ धर्मा॑णि दधिषे ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/064/01_vRShA_soma.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -1024,6 +1039,7 @@ _____________
 
 हे सोम त्वं वृषा कामानां वर्षयिताऽसि।   द्युमान्दीप्तिमांश्चासि।   हे देव यस्मात्त्वं वृषा वर्षयिता तस्मात्वं वृषव्रतो वर्षणनिमित्तं व्रतं कर्म यस्य स वृषव्रतः।   किंच यस्मात्त्वं वृषा वर्षयिता तस्माद्धर्माणि पुण्यानि दधिषे।   हे सोम त्वं वृषा धारयिताऽसि।
 
+_____________
 हे सोम त्वं वृषा कामानां वर्षयिता द्युमान् दीप्तिमांश् चासि।
 हे देव यस्मात् त्वं वृषा वर्षयिता तस्मात् त्वं वृष-व्रतो वर्ष-निमित्तं कर्म यस्यासौ वृष-व्रतः।
 किंच यस्मात् त्वं वृषा वर्षयिता तस्माद् धर्माणि पुण्यानि दधिषे धारयसि।
@@ -1107,12 +1123,11 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 पदार्थान्वयभाषाः -  (सोम) हे परमात्मन् ! त्वं (द्युमानसि) दीप्तिमानसि। तथा (वृषा) समस्ताभीष्टवर्षकोऽसि। तथोपासकानां हृदयानि (वृषा) स्नेहेन सिञ्चसि। (देव) हे दिव्यगुणसम्पन्न ! भवान् (वृषव्रतः) आनन्दवर्षणशीलं ददाति। (वृषा धर्माणि दधिषे) तथा वर्षणशीलधर्मधारकोऽस्ति ॥१॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒मम्मे॑ वरुण ..
+इम᳓म्मे वरुण ..
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1133,7 +1148,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्त्वा॑ यामि ..
+त᳓त्त्वा यामि ..
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1155,7 +1170,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वन्नो॑ अग्ने॒  ...
+त्व᳓न्नो अग्ने  ...
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1177,7 +1192,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स त्वन्नो॑ अग्ने ॥ [48]  
+स᳓ त्व᳓न्नो अग्ने ॥ [48]  
 </details>
 
 <details><summary>मूलम्</summary>

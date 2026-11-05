@@ -1,6 +1,5 @@
 +++
 title = "०६ यागार्थं काम्या भूमयः"
-
 +++
 सोमऋषिः
 
@@ -11,7 +10,7 @@ title = "०६ यागार्थं काम्या भूमयः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पु॒रोह॑विषि देव॒यज॑ने याजये॒द् यङ् का॒मये॑त ।  
+पुरो᳓हविषि देवय᳓जने याजयेद् य᳓ङ् काम᳓येत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -26,7 +25,7 @@ On a place of sacrifice where the sacrifice faces the east should he make him to
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपै॑न॒मुत्त॑रो य॒ज्ञो न॑मेद् अ॒भि सु॑व॒र्गल्ँ लो॒कञ् ज॑ये॒दिति॑ ।  
+उ᳓पैनमु᳓त्तरो यज्ञो᳓ नमेद् अभि᳓ सुवर्गल्ँ᳓ लोक᳓ञ् जयेदि᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -41,7 +40,7 @@ On a place of sacrifice where the sacrifice faces the east should he make him to
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद् वै पु॒रोह॑विर् देव॒यज॑नय्ँ॒ यस्य॒ होता॑ प्रातरनुवा॒कम॑नुब्रु॒वन्न् अ॒ग्निम् अ॒प आ॑दि॒त्यम॒भि वि॒पश्य॑ति ।  
+एत᳓द् वै᳓ पुरो᳓हविर् देवय᳓जनय्ँ य᳓स्य हो᳓ता प्रातरनुवाक᳓मनुब्रुव᳓न्न् अग्नि᳓म् अप᳓ आदित्य᳓मभि᳓ विप᳓श्यति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -56,7 +55,7 @@ That is the place of sacrifice where the sacrifice faces the east, where the Hot
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपै॑न॒मुत्त॑रो य॒ज्ञो न॑मत्य॒भि सु॑व॒र्गल्ँ लो॒कञ् ज॑यति ।  
+उ᳓पैनमु᳓त्तरो यज्ञो᳓ नमत्यभि᳓ सुवर्गल्ँ᳓ लोक᳓ञ् जयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -81,7 +80,6 @@ To him the higher sacrifice condescends, he gains the world of heaven.
 उपेति॑ । ए॒न॒म् । उत्त॑र॒ इत्युत्-त॒रः॒ । य॒ज्ञः । न॒म॒ति॒ । अ॒भीति॑ । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । ज॒य॒ति॒ ।   
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1पुरोहविषीत्यादयः काम्याः । तत्र पुरोहविरादयश्शब्दाः वक्ष्यमाणानां नामानि । उत्तरो यज्ञः उत्तरः क्रतुः उक्थ्यादिः । अथ पुरोहविषो लक्ष्णामाह - एतदित्यादि । यस्य हविर्धाने आसीनः प्रातरनुवाकमनुब्रुवन् अग्निमाहवनीयं अपश्चादित्यं च एतत्त्रयमाभिमुख्येन पश्यति । एतत्पुरोहविः देवयजनम् । हूयतेऽस्मिन्निदं अस्मै इति च हवींष्यग्न्यादयः पुरस्ताद्यस्मिन्निति ॥
@@ -95,7 +93,7 @@ To him the higher sacrifice condescends, he gains the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒प्ते दे॑व॒यज॑ने याजये॒द् भ्रातृ॑व्यवन्तम् ।  
+आप्ते᳓ देवय᳓जने याजयेद् भ्रा᳓तृव्यवन्तम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -110,7 +108,7 @@ On a contiguous (aptá) place of sacrifice should he make him to sacrifice who h
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पन्थाव्ँ॑ वाधिस्प॒र्शये॑त् क॒र्तव्ँ वा ।
+प᳓न्थाव्ँ वाधिस्पर्श᳓येत् कर्तव्ँ᳓ वा᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -125,7 +123,7 @@ He should make it touch the road or a pit
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या॒व॒न्नान॑से॒ यात॒वै न रथा॑य [30] ।
+यावन्ना᳓नसे या᳓तवै᳓ न᳓ र᳓थाय [30] ।
 </details>
 
 <details><summary>Keith</summary>
@@ -140,7 +138,7 @@ so that neither a wagon nor a chariot can go between [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद्वा आ॒प्तन् दे॑व॒यज॑नम् ।
+एत᳓द्वा᳓ आप्त᳓न् देवय᳓जनम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -155,7 +153,7 @@ That is a contiguous place of sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒प्नोत्ये॒व भ्रातृ॑व्य॒न् नैन॒म् भ्रातृ॑व्य आप्नोति ।
+आप्नो᳓त्येव᳓ भ्रा᳓तृव्यन् नै᳓नम् भ्रा᳓तृव्य आप्नोति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -169,7 +167,6 @@ He conquers (apnoti) his foe, his foe conquers him not.
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 आ॒प्ते । दे॒व॒यज॑न॒ इति॑ देव-यज॑ने । या॒ज॒ये॒त् । भ्रातृ॑व्यवन्त॒मिति॒ भ्रातृ॑व्य-व॒न्त॒म् ।   
 
@@ -194,7 +191,7 @@ He conquers (apnoti) his foe, his foe conquers him not.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एको॑न्नते देव॒यज॑ने याजयेत् प॒शुका॑मम् ।  
+ए᳓कोन्नते देवय᳓जने याजयेत् पशु᳓कामम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -209,7 +206,7 @@ On a place of sacrifice which is elevated in one place he should make him to sac
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एको॑न्नता॒द् वै दे॑व॒यज॑ना॒दङ्गि॑रसᳶ प॒शून् अ॑सृजन्त ।  
+ए᳓कोन्नताद् वै᳓ देवय᳓जनाद᳓ङ्गिरसᳶ पशू᳓न् असृजन्त ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -224,7 +221,7 @@ The Angirases produced cattle from a place of sacrifice elevated in one place.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्त॒रा स॑दोहविर्धा॒ने उ॑न्न॒तँ स्या॑त् ।  
+अन्तरा᳓ सदोहविर्धाने᳓ उन्नतँ᳓ स्यात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -239,7 +236,7 @@ It should be elevated between the seat and the oblation-holders.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद्वा एको॑न्नतन् देव॒यज॑नम् ।
+एत᳓द्वा᳓ ए᳓कोन्नतन् देवय᳓जनम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -254,7 +251,7 @@ That is a place of sacrifice elevated in one place;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒शु॒माने॒व भ॑वति ।
+पशुमा᳓नेव᳓ भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -293,7 +290,7 @@ verily he becomes possessed of cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्र्यु॑न्नते देव॒यज॑ने याजयेत् सुव॒र्गका॑मम् ।  
+त्र्यु᳙न्नते देवय᳓जने याजयेत् सुवर्ग᳓कामम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -308,7 +305,7 @@ On a place of sacrifice which is elevated in three places should he make him to 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्र्यु॑न्नता॒द् वै दे॑व॒यज॑ना॒दङ्गि॑रसस् सुव॒र्गल्ँ लो॒कमा॑यन् ।  
+त्र्यु᳙न्नताद् वै᳓ देवय᳓जनाद᳓ङ्गिरसस् सुवर्गल्ँ᳓ लोक᳓मायन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -323,7 +320,7 @@ The Angirases went to the world of heaven from a place of sacrifice elevated in 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्त॒राऽऽह॑व॒नीय॑ञ् च हवि॒र्धान॑ञ् च + उ॒न्न॒तँ स्या॑द् ,  
+अन्तरा᳓ऽऽहवनी᳓यञ् च हविर्धा᳓नञ् च + उन्नतँ᳓ स्याद् ,  
 </details>
 
 <details><summary>Keith</summary>
@@ -338,7 +335,7 @@ It should be elevated between the Ahavaniya fire and the oblation holder [2],
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्त॒रा ह॑वि॒र्धान॑ञ् च॒ , सद॑श्चान्त॒रा सद॑श्च॒ गार्ह॑पत्यञ् च ।  
+अ᳓न्तरा᳓ हविर्धा᳓नञ् च , स᳓दश्चान्तरा᳓ स᳓दश्च गा᳓र्हपत्यञ् च ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -353,7 +350,7 @@ between the oblation-holder and the seat, and between the seat and the Garhapaty
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद् वै त्र्यु॑न्नतन् देव॒यज॑नँ सुव॒र्गमे॒व लो॒कमे॑ति ।  
+एत᳓द् वै᳓ त्र्युन्नतन् देवय᳓जनँ सुवर्ग᳓मेव᳓ लोक᳓मेति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -368,7 +365,7 @@ That is a place of sacrifice elevated in three places; verily he goes to the wor
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रति॑ष्ठिते देव॒यज॑ने याजयेत् प्रति॒ष्ठाका॑मम् ।  
+प्र᳓तिष्ठिते देवय᳓जने याजयेत् प्रतिष्ठा᳓कामम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -383,7 +380,7 @@ On a place of sacrifice which is firm should he make him to sacrifice who desire
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद्वै प्रति॑ष्ठितन् देव॒यज॑नय्ँ॒ यत् स॒र्वत॑स् स॒मम्प्रत्ये॒व ति॑ष्ठति ।
+एत᳓द्वै᳓ प्र᳓तिष्ठितन् देवय᳓जनय्ँ य᳓त् सर्व᳓तस् सम᳓म्प्र᳓त्येव᳓ तिष्ठति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -397,7 +394,6 @@ That is a place of sacrifice which is firm, which is level on all sides; verily 
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 त्र्यु॑न्नत॒ इति॒ त्रि-उ॒न्न॒ते॒ । दे॒व॒यज॑न॒ इति॑ देव-यज॑ने । या॒ज॒ये॒त् । सु॒व॒र्गका॑म॒मिति॑ सुव॒र्ग-का॒म॒म् ।   
 
@@ -429,7 +425,7 @@ That is a place of sacrifice which is firm, which is level on all sides; verily 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्रा॒न्याअ॑न्या॒ ओष॑धयो॒ व्यति॑षक्ता॒स्स्युस्तद्या॑जयेत्प॒शुका॑मम् ।  
+य᳓त्रान्या᳓अन्या ओ᳓षधयो व्य᳓तिषक्तास्स्यु᳓स्त᳓द्याजयेत्पशु᳓कामम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -444,7 +440,7 @@ Where diverse plants are intertwined, there should he make him sacrifice who des
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद्वै प॑शू॒नाँ रू॒पम् ।  
+एत᳓द्वै᳓ पशूनाँ᳓ रूप᳓म् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -459,7 +455,7 @@ That is the form of cattle;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रू॒पेणै॒वास्मै॑ प॒शून् अव॑ रुन्धे ।[32] प॒शु॒मान् ए॒व भ॑वति ।  
+रूपे᳓णैवा᳓स्मै पशू᳓न् अ᳓व रुन्धे ।[32] पशुमा᳓न् एव᳓ भवति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -492,7 +488,7 @@ verily by the form he wins cattle for him [3]; verily be becomes possessed of ca
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्ऋ॑तिगृहीते देव॒यज॑ने याजये॒द्यङ्का॒मये॑त ।  
+नि᳓रृतिगृहीते देवय᳓जने याजयेद्य᳓ङ्काम᳓येत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -507,7 +503,7 @@ On a place of sacrifice seized by destruction should he make him to sacrifice fo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्ऋ॑त्याऽस्य य॒ज्ञङ् ग्रा॑हयेय॒मिति॑ ।  
+नि᳓रृत्याऽस्य यज्ञ᳓ङ् ग्राहयेयमि᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -522,7 +518,7 @@ On a place of sacrifice seized by destruction should he make him to sacrifice fo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद् वै निर्ऋ॑तिगृहीतन् देव॒यज॑नय्ँ॒ , यत् स॒दृश्यै॑ स॒त्या॑ ऋ॒क्षम् ।  
+एत᳓द् वै᳓ नि᳓रृतिगृहीतन् देवय᳓जनय्ँ , य᳓त् सदृ᳓श्यै सत्या᳙ ऋक्ष᳓म् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -537,7 +533,7 @@ That is a place of sacrifice seized by destruction where there is a bare patch o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्ऋ॑त्यै॒वास्य॑ य॒ज्ञङ् ग्रा॑हयति ।
+नि᳓रृत्यैवा᳓स्य यज्ञ᳓ङ् ग्राहयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -570,7 +566,7 @@ verily he causes his sacrifice to be seized by destruction.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्यावृ॑त्ते देव॒यज॑ने याजयेद्व्या॒वृत्का॑मय्ँ॒यम्पात्रे॑ वा॒ तल्पे॑ वा॒ मीमाँ॑सेरन् ।  
+व्या᳓वृत्ते देवय᳓जने याजयेद्व्यावृ᳓त्कामय्ँय᳓म्पा᳓त्रे वा त᳓ल्पे वा मी᳓माँसेरन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -585,7 +581,7 @@ On a place of sacrifice which is distinctly marked should he cause him to sacrif
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒चीन॑माहव॒नीया॑त् प्रव॒णँ स्या॑त् प्रती॒चीन॒ङ् गार्ह॑पत्याद् ए॒तद्वै व्यावृ॑त्तन् देव॒यज॑नम् ।  
+प्राची᳓नमाहवनी᳓यात् प्रवणँ᳓ स्यात् प्रतीची᳓नङ् गा᳓र्हपत्याद् एत᳓द्वै᳓ व्या᳓वृत्तन् देवय᳓जनम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -600,7 +596,7 @@ It should be sloping east of the Ahavaniya and west of the Garhapatya. That is a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि पा॒प्मना॒ भ्रातृ॑व्ये॒णाऽऽ व॑र्तते॒ नैन॒म्पात्रे॒ न तल्पे॑ मीमाँसन्ते ।  
+वि᳓ पाप्म᳓ना भ्रा᳓तृव्येणा᳓ऽऽ वर्तते नै᳓नम्पा᳓त्रे न᳓ त᳓ल्पे मीमाँसन्ते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -614,7 +610,6 @@ be is distinguished from his evil foe, they doubt not of him for common meal or 
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 व्यावृ॑त्त॒ इति॑ वि-आवृ॑त्ते । दे॒व॒यज॑न॒ इति॑ देव-यज॑ने । या॒ज॒ये॒त् । व्या॒वृत्का॑म॒मिति॑ व्या॒वृत्-का॒म॒म् । यम् । पात्रे॑ । वा॒ । तल्पे॑ । वा॒ । मीमाँ॑सेरन् ।   
 
@@ -636,7 +631,7 @@ be is distinguished from his evil foe, they doubt not of him for common meal or 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-का॒र्ये॑ देव॒यज॑ने याजये॒द् भूति॑कामम् ।  
+कार्ये᳙ देवय᳓जने याजयेद् भू᳓तिकामम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -651,7 +646,7 @@ On a place of sacrifice which is artificial should he make him sacrifice who des
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-का॒र्यो॑ वै पुरु॑षो॒ , भव॑त्ये॒व ॥ [33]  
+कार्यो᳙ वै᳓ पु᳓रुषो , भ᳓वत्येव᳓ ॥ [33]  
 </details>
 
 <details><summary>Keith</summary>

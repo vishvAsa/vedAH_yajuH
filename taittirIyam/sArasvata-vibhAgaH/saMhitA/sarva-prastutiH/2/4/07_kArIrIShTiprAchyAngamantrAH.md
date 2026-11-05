@@ -1,6 +1,5 @@
 +++
 title = "०७ कारीरीष्टिप्राच्याङ्गमन्त्राः"
-
 +++
 
 २ त्रिष्टुप्, ११ पङ्क्तिः,  
@@ -14,8 +13,8 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा॒रु॒तम॑सि ।  
-म॒रुता॒मोजः॑ +++(असि)+++।  
+मारुत᳓मसि ।  
+मरु᳓तामो᳓जः +++(असि)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -53,7 +52,7 @@ Thou I art connected with the Maruts, thou art the force of the Maruts,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपान्धारा॑म्भिन्द्धि ।
+अ᳓पा᳓न्धा᳓राम्भिन्द्धि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -73,7 +72,7 @@ cleave the stream of the waters.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒मय॑त मरुतश्श्ये॒नमा॒यिन॒म्मनो॑जवसव्ँ॒वृष॑णँ सुवृ॒क्तिम् ।
+रम᳓यत मरुतश्श्येन᳓मायि᳓नम्म᳓नोजवसव्ँवृ᳓षणँ सुवृक्ति᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -88,7 +87,7 @@ Stay, O Maruts, the speeding falcon, Swift as mind, the strong, the glorious;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-येन॒ शर्ध॑ उ॒ग्रमव॑सृष्ट॒मेति॒ तद॑श्विना॒ परि॑ धत्तँ स्व॒स्ति ।
+ये᳓न श᳓र्ध उग्र᳓म᳓वसृष्टमे᳓ति त᳓दश्विना प᳓रि धत्तँ स्वस्ति᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -113,7 +112,7 @@ That whereby the dread host goeth set loose, Do ye, O Aśvins, put around; hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पु॒रो॒वा॒तो वर्ष॑ञ्जि॒न्वरा॒वृत्स्वाहा॑ ।  
+पुरोवातो᳓ व᳓र्षञ्जिन्व᳓रावृ᳓त्स्वा᳓हा ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -133,7 +132,7 @@ East wind, raining, quicken; Ravat! Hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒ताव॒द्वर्ष॑न्नु॒ग्ररा॒वृत्स्वाहा॑ ।  
+वाता᳓वद्व᳓र्षन्नुग्र᳓रावृ᳓त्स्वा᳓हा ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -153,7 +152,7 @@ Storming, raining, dread; Ravat! Hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्त॒नय॒न्वर्ष॑न्भी॒मरा॒वृत्स्वाहा॑ ।  
+स्तन᳓यन्व᳓र्षन्भीम᳓रावृ᳓त्स्वा᳓हा ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -173,7 +172,7 @@ Thundering, raining, formidable; Ravat! Hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न॒श॒न्य॑व॒स्फूर्ज॑न्दि॒द्युद्वर्ष॑न्त्वे॒षरा॒वृत्स्वाहा॑ ।  
+अनशन्य᳙वस्फू᳓र्जन्दिद्यु᳓द्व᳓र्षन्त्वेष᳓रावृ᳓त्स्वा᳓हा ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -193,7 +192,7 @@ Thundering without lightning, lightning, raining, resplendent; Ravat! Hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ति॒रा॒त्रव्ँवर्ष॑न्पू॒र्तिरा॒वृत्स्वाहा॑ ।  
+अतिरात्रव्ँ᳓व᳓र्षन्पूर्ति᳓रावृ᳓त्स्वा᳓हा ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -213,7 +212,7 @@ Raining over night, satisfying; Ravat! [1] Hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒हु हा॒यम॑वृषा॒दिति॑ श्रु॒तरा॒वृत्स्वाहा॑ ।  
+बहु᳓ हाय᳓मवृषादि᳓ति श्रुत᳓रावृ᳓त्स्वा᳓हा ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -233,7 +232,7 @@ Famed as having rained I much; Ravat! Hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒तप॑ति॒  वर्ष॑न्वि॒राडा॒वृत्स्वाहा॑ ।
+आत᳓पति  व᳓र्षन्विरा᳓डावृ᳓त्स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -248,7 +247,7 @@ Raining while the sun shines, radiant;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒व॒स्फूर्ज॑न्दि॒द्युद्वर्ष॑न्भू॒तरा॒वृत्स्वाहा॑ ।
+अवस्फू᳓र्जन्दिद्यु᳓द्व᳓र्षन्भूत᳓रावृ᳓त्स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -268,7 +267,7 @@ Ravat! Hail! Thundering, lightning, raining, waxing great; Ravat! Hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मान्दा॒ वाशा॒श्शुन्ध्यू॒रजि॑राः ।
+मा᳓न्दा वा᳓शाश्शु᳓न्ध्यूर᳓जिराः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -288,7 +287,7 @@ Gladdening, obedient, purifying, agile,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योति॑ष्मती॒स्तम॑स्वरी॒रुन्द॑ती॒स्सुफे॑नाः ।
+ज्यो᳓तिष्मतीस्त᳓मस्वरीरु᳓न्दतीस्सु᳓फेनाः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -310,7 +309,7 @@ Full of light, full of darkness, flooding, with fair foam,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मित्र॑भृतः॒ क्षत्र॑भृत॒स्सुरा॑ष्ट्रा इ॒ह मा॑ऽवत ।
+मि᳓त्रभृतः क्ष᳓त्रभृतस्सु᳓राष्ट्रा इह᳓ माऽवत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -332,7 +331,7 @@ Supporting friends, supporting the warrior caste, With fair realms, do ye help m
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृष्णो॒ अश्व॑स्य स॒न्दान॑मसि॒ वृष्ट्यै॒ त्वोप॑ नह्यामि ॥ [20]  
+वृ᳓ष्णो अ᳓श्वस्य सन्दा᳓नमसि वृ᳓ष्ट्यै त्वो᳓प नह्यामि ॥ [20]  
 </details>
 
 <details><summary>Keith</summary>

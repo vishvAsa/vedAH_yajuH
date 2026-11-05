@@ -16,9 +16,9 @@ title = "१८ (क्रतु)उत्तरदीक्षामन्त�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भुवो॑ +++(उत्पद्यस्व)+++ - दे॒वाना॒ङ् कर्म॑णा॒ , ऽप॑सा +ऋ॒तस्य॑ ।
-पथ्या॑ऽसि ।
-[भुवो॑ +++(उत्पद्यस्व)+++ दे॒वाना॒ङ् कर्म॑णा॒, ऽप॑सा +ऋ॒तस्य॑। प॒थ्या॑ऽसि ।]
+भु᳓वो +++(उत्पद्यस्व)+++ - देवा᳓नाङ् क᳓र्मणा , ऽप᳙सा +ऋत᳓स्य ।
+प᳓थ्याऽसि ।
+[भु᳓वो +++(उत्पद्यस्व)+++ देवा᳓नाङ् क᳓र्मणा, ऽप᳙सा +ऋत᳓स्य। पथ्या᳙ऽसि ।]
 </details>
 
 <details><summary>Keith</summary>
@@ -33,12 +33,12 @@ Thou hast come into being by the toil; the work of the gods thou art the way of 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**आदि॒त्येभि॑र्** दे॒वेभि॑र् दे॒वत॑या॒ **जाग॑तेन** त्वा॒ छन्द॑सा युनज्मि ।
-**व॒र्षाभि॑स्** त्व॒र्तुना॑ ह॒विषा॑ दीक्षयामि ।
-[आ ऽहन् दी॒क्षाम् अ॑रुहम् ऋ॒तस्य॒ पत्नी॑म्।
-गा॒य॒त्रेण॒ छन्द॑सा॒ ब्रह्म॑णा च ऋ॒तम् स॒त्ये॑ऽधाम्, स॒त्यम् ऋ॒ते॑ऽधाम् ॥]
-[म॒हीम् ऊ॒ षु … ]
-[सु॒त्रामा॑णम् पृथि॒वीन् …]
+**आ᳓दित्ये᳓भिर्** देवे᳓भिर् देव᳓तया **जा᳓गतेन** त्वा छ᳓न्दसा युनज्मि ।
+**वर्षा᳓भिस्** त्वर्तु᳓ना हवि᳓षा दीक्षयामि ।
+[आ᳓ ऽह᳓न् दीक्षा᳓म् अरुहम् ऋत᳓स्य प᳓त्नीम्।
+गायत्रे᳓ण छ᳓न्दसा ब्र᳓ह्मणा च ऋत᳓म् सत्ये᳙ऽधाम्, सत्य᳓म् ऋते᳙ऽधाम् ॥]
+[मही᳓म् ऊ षु᳓ … ]
+[सुत्रा᳓माणम् पृथिवी᳓न् …]
 </details>
 
 <details><summary>Keith</summary>
@@ -79,15 +79,15 @@ With the Vasus, the gods, as deity, with the Gayatri metre I yoke thee, with the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भुवो॑ +++(उत्पद्यस्व)+++ - दे॒वाना॒ङ् कर्म॑णा॒ , ऽप॑सा +ऋ॒तस्य॑ ।
-पथ्या॑ऽसि ।  
-[भुवो॑ +++(उत्पद्यस्व)+++ दे॒वाना॒ङ् कर्म॑णा॒, ऽप॑सा +ऋ॒तस्य॑। प॒थ्या॑ऽसि ।]  
-**आदि॒त्येभि॑र्** दे॒वेभि॑र् दे॒वत॑या॒ **जाग॑तेन** त्वा॒ छन्द॑सा युनज्मि ।  
-**व॒र्षाभि॑स्** त्व॒र्तुना॑ ह॒विषा॑ दीक्षयामि ।  
-[आ ऽहन् दी॒क्षाम् अ॑रुहम् ऋ॒तस्य॒ पत्नी॑म्।  
-गा॒य॒त्रेण॒ छन्द॑सा॒ ब्रह्म॑णा च ऋ॒तम् स॒त्ये॑ऽधाम्, स॒त्यम् ऋ॒ते॑ऽधाम् ॥]  
-[म॒हीम् ऊ॒ षु … ]  
-[सु॒त्रामा॑णम् पृथि॒वीन् …]
+भु᳓वो +++(उत्पद्यस्व)+++ - देवा᳓नाङ् क᳓र्मणा , ऽप᳙सा +ऋत᳓स्य ।
+प᳓थ्याऽसि ।  
+[भु᳓वो +++(उत्पद्यस्व)+++ देवा᳓नाङ् क᳓र्मणा, ऽप᳙सा +ऋत᳓स्य। पथ्या᳙ऽसि ।]  
+**आ᳓दित्ये᳓भिर्** देवे᳓भिर् देव᳓तया **जा᳓गतेन** त्वा छ᳓न्दसा युनज्मि ।  
+**वर्षा᳓भिस्** त्वर्तु᳓ना हवि᳓षा दीक्षयामि ।  
+[आ᳓ ऽह᳓न् दीक्षा᳓म् अरुहम् ऋत᳓स्य प᳓त्नीम्।  
+गायत्रे᳓ण छ᳓न्दसा ब्र᳓ह्मणा च ऋत᳓म् सत्ये᳙ऽधाम्, सत्य᳓म् ऋते᳙ऽधाम् ॥]  
+[मही᳓म् ऊ षु᳓ … ]  
+[सुत्रा᳓माणम् पृथिवी᳓न् …]
 </details>
 
 <details><summary>Keith</summary>
@@ -107,13 +107,13 @@ With the Adityas, the gods, as deity, with the Jagati metre, I yoke thee; with t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[भुवो॑ +++(उत्पद्यस्व)+++ दे॒वाना॒ङ् कर्म॑णा॒, ऽप॑सा +ऋ॒तस्य॑। प॒थ्या॑ऽसि ।]  
-**विश्वे॑भिर् दे॒वेभि॑र्** दे॒वत॒या **आनु॑ष्टुभेन** त्वा॒ छन्द॑सा युनज्मि [47]।  
-**श॒रदा॑** त्व॒र्तुना॑ ह॒विषा॑ दीक्षयामि ।  
-[आ ऽहन् दी॒क्षाम् अ॑रुहम् ऋ॒तस्य॒ पत्नी॑म्।  
-गा॒य॒त्रेण॒ छन्द॑सा॒ ब्रह्म॑णा च ऋ॒तम् स॒त्ये॑ऽधाम्, स॒त्यम् ऋ॒ते॑ऽधाम् ॥]  
-[म॒हीम् ऊ॒ षु … ]  
-[सु॒त्रामा॑णम् पृथि॒वीन् …]
+[भु᳓वो +++(उत्पद्यस्व)+++ देवा᳓नाङ् क᳓र्मणा, ऽप᳙सा +ऋत᳓स्य। पथ्या᳙ऽसि ।]  
+**वि᳓श्वेभिर् देवे᳓भिर्** देव᳓तया᳓ **आ᳓नुष्टुभेन** त्वा छ᳓न्दसा युनज्मि [47]।  
+**शर᳓दा** त्वर्तु᳓ना हवि᳓षा दीक्षयामि ।  
+[आ᳓ ऽह᳓न् दीक्षा᳓म् अरुहम् ऋत᳓स्य प᳓त्नीम्।  
+गायत्रे᳓ण छ᳓न्दसा ब्र᳓ह्मणा च ऋत᳓म् सत्ये᳙ऽधाम्, सत्य᳓म् ऋते᳙ऽधाम् ॥]  
+[मही᳓म् ऊ षु᳓ … ]  
+[सुत्रा᳓माणम् पृथिवी᳓न् …]
 </details>
 
 <details><summary>Keith</summary>
@@ -133,9 +133,9 @@ With the All-gods as deity, with the Anustubh metro, I yoke thee [1]; with the a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[भुवो॑ +++(उत्पद्यस्व)+++ दे॒वाना॒ङ् कर्म॑णा॒, ऽप॑सा +ऋ॒तस्य॑। प॒थ्या॑ऽसि ।]  
-**अङ्गि॑रोभिर्** दे॒वेभि॑र् दे॒वत॑या॒ पाङ्क्ते॑न त्वा॒ छन्द॑सा युनज्मि ।  
-**हेमन्त-शिशि॒राभ्या॑न्** त्व॒र्तुना॑ ह॒विषा॑ दीक्षयामि ।  
+[भु᳓वो +++(उत्पद्यस्व)+++ देवा᳓नाङ् क᳓र्मणा, ऽप᳙सा +ऋत᳓स्य। पथ्या᳙ऽसि ।]  
+**अ᳓ङ्गिरोभिर्** देवे᳓भिर् देव᳓तया पा᳓ङ्क्तेन त्वा छ᳓न्दसा युनज्मि ।  
+**हे᳓म᳓न्त᳓-शि᳓शिरा᳓भ्यान्** त्वर्तु᳓ना हवि᳓षा दीक्षयामि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -150,10 +150,10 @@ With the Angirases, the gods, as deity, with the Pankti metre, I yoke thee; with
 हेमन्तशिशि॒राभ्या॑न्त्व॒र्तुना॑ ह॒विषा॑ दीक्षया॒मि
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>[आ ऽहन् दी॒क्षाम् अ॑रुहम् ऋ॒तस्य॒ पत्नी॑म्।  
-गा॒य॒त्रेण॒ छन्द॑सा॒ ब्रह्म॑णा च ऋ॒तम् स॒त्ये॑ऽधाम्, स॒त्यम् ऋ॒ते॑ऽधाम् ॥]  
-[म॒हीम् ऊ॒ षु … ]  
-[सु॒त्रामा॑णम् पृथि॒वीन् …]</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>[आ᳓ ऽह᳓न् दीक्षा᳓म् अरुहम् ऋत᳓स्य प᳓त्नीम्।  
+गायत्रे᳓ण छ᳓न्दसा ब्र᳓ह्मणा च ऋत᳓म् सत्ये᳙ऽधाम्, सत्य᳓म् ऋते᳙ऽधाम् ॥]  
+[मही᳓म् ऊ षु᳓ … ]  
+[सुत्रा᳓माणम् पृथिवी᳓न् …]</details>
 
 <details><summary>Keith</summary>
 
@@ -179,40 +179,28 @@ I have mounted upon consecration, the wife of holy order, with the Gayatri metro
 गा॒य॒त्रेण॑ । छन्द॑सा ।   ब्रह्म॑णा । च॒ । ऋ॒तम् । स॒त्ये । अ॒धा॒म् । स॒त्यम् । ऋ॒ते । अ॒धा॒म् ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+मही᳓म् ऊ षु᳓ मात᳓रँ सुव्रता᳓नाम्  
+ऋत᳓स्य प᳓त्नीम् अ᳓वसे **हुवेम** ।  
+तुवि+++(=प्रवृद्ध)+++-क्षत्त्रा᳓म् अज᳓रन्तीम् उरूचीँ᳓+++(=उरुगमनां)+++ 
+सुश᳓र्माणम् अ᳓दितिँ+++(=अखण्डनीयां)+++ सुप्र᳓णीतिम् ॥
 
-म॒हीम् ऊ॒ षु मा॒तरँ॑ सुव्र॒ताना॑म्  
-ऋ॒तस्य॒ पत्नी॒म् अव॑से **हुवेम** ।  
-तु॒वि॒+++(=प्रवृद्ध)+++-क्ष॒त्त्राम् अ॒जर॑न्तीम् उरू॒चीँ+++(=उरुगमनां)+++ 
-सु॒शर्मा॑ण॒म् अदि॑तिँ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥
-</details>
+</div>
 
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 <details><summary>Keith</summary>
 
 The mighty mother of the righteous,  
 The spouse of holy order, let us invoke to aid us,  
 The powerful, the unageing, the wide  
 Aditi, who giveth good protection and good guidance.
-</details> 
-
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
+</details>
 
 <details><summary>मूलम्</summary>
 
 म॒हीमू॒ षु मा॒तरँ॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हुवेम ।  
 तु॒वि॒क्ष॒त्त्राम॒जर॑न्तीमुरू॒चीँ सु॒शर्मा॑ण॒मदि॑तिँ सु॒प्रणी॑तिम्  ॥
-</details>
-
-<details><summary>Keith</summary>
-
-The mighty mother of the righteous,  
-The spouse of holy order, let us invoke to aid us,  
-The powerful, the unageing, the wide  
-Aditi, who giveth good protection and good guidance.
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -225,7 +213,6 @@ Aditi, who giveth good protection and good guidance.
 
 ईदृशीं महीं देवीम् **अवसे** रक्षणाय तस्यास्तर्पणाय वा **हुवेम** सुष्ठु आह्वयामः । व्यत्ययेन शः । पूर्ववत्सम्प्रसारणम्, 'सुञः' इति सोस्संहितायां षत्वम् । **उ** इति पादपूरणे । 'अन्येषामपि दृश्यते' इति तस्य संहितायां दीर्घत्वम् ॥
 </details>
-
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -240,13 +227,13 @@ Aditi, who giveth good protection and good guidance.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[भुवो॑ +++(उत्पद्यस्व)+++ दे॒वाना॒ङ् कर्म॑णा॒, ऽप॑सा +ऋ॒तस्य॑। प॒थ्या॑ऽसि ।]  
-**रु॒द्रेभि॑र्** दे॒वेभि॑र् दे॒वत॑या॒ **त्रैष्टु॑भेन** त्वा॒ छन्द॑सा युनज्मि।  
-**ग्री॒ष्मेण॑** त्व॒र्तुना॑ ह॒विषा॑ दीक्षयामि ।  
-[आ ऽहन् दी॒क्षाम् अ॑रुहम् ऋ॒तस्य॒ पत्नी॑म्।  
-**त्रैष्टु॑भेन** छन्द॑सा॒ ब्रह्म॑णा च ऋ॒तम् स॒त्ये॑ऽधाम्, स॒त्यम् ऋ॒ते॑ऽधाम् ॥]  
-[म॒हीम् ऊ॒ षु … ]  
-[सु॒त्रामा॑णम् पृथि॒वीन् …]
+[भु᳓वो +++(उत्पद्यस्व)+++ देवा᳓नाङ् क᳓र्मणा, ऽप᳙सा +ऋत᳓स्य। पथ्या᳙ऽसि ।]  
+**रुद्रे᳓भिर्** देवे᳓भिर् देव᳓तया **त्रै᳓ष्टुभेन** त्वा छ᳓न्दसा युनज्मि।  
+**ग्रीष्मे᳓ण** त्वर्तु᳓ना हवि᳓षा दीक्षयामि ।  
+[आ᳓ ऽह᳓न् दीक्षा᳓म् अरुहम् ऋत᳓स्य प᳓त्नीम्।  
+**त्रै᳓ष्टुभे᳓न᳓** छ᳓न्दसा ब्र᳓ह्मणा च ऋत᳓म् सत्ये᳙ऽधाम्, सत्य᳓म् ऋते᳙ऽधाम् ॥]  
+[मही᳓म् ऊ षु᳓ … ]  
+[सुत्रा᳓माणम् पृथिवी᳓न् …]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -262,13 +249,13 @@ Aditi, who giveth good protection and good guidance.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[भुवो॑ +++(उत्पद्यस्व)+++ दे॒वाना॒ङ् कर्म॑णा॒, ऽप॑सा +ऋ॒तस्य॑। प॒थ्या॑ऽसि ।]  
-**आदि॒त्येभि॑र्** दे॒वेभि॑र् दे॒वत॑या॒ **जाग॑तेन** त्वा॒ छन्द॑सा युनज्मि ।  
-**व॒र्षाभि॑स्** त्व॒र्तुना॑ ह॒विषा॑ दीक्षयामि ।  
-[आ ऽहन् दी॒क्षाम् अ॑रुहम् ऋ॒तस्य॒ पत्नी॑म्।  
-**जाग॑तेन** छन्द॑सा॒ ब्रह्म॑णा च ऋ॒तम् स॒त्ये॑ऽधाम्, स॒त्यम् ऋ॒ते॑ऽधाम् ॥]  
-[म॒हीम् ऊ॒ षु … ]  
-[सु॒त्रामा॑णम् पृथि॒वीन् …]
+[भु᳓वो +++(उत्पद्यस्व)+++ देवा᳓नाङ् क᳓र्मणा, ऽप᳙सा +ऋत᳓स्य। पथ्या᳙ऽसि ।]  
+**आ᳓दित्ये᳓भिर्** देवे᳓भिर् देव᳓तया **जा᳓गतेन** त्वा छ᳓न्दसा युनज्मि ।  
+**वर्षा᳓भिस्** त्वर्तु᳓ना हवि᳓षा दीक्षयामि ।  
+[आ᳓ ऽह᳓न् दीक्षा᳓म् अरुहम् ऋत᳓स्य प᳓त्नीम्।  
+**जा᳓गते᳓न᳓** छ᳓न्दसा ब्र᳓ह्मणा च ऋत᳓म् सत्ये᳙ऽधाम्, सत्य᳓म् ऋते᳙ऽधाम् ॥]  
+[मही᳓म् ऊ षु᳓ … ]  
+[सुत्रा᳓माणम् पृथिवी᳓न् …]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -284,13 +271,13 @@ Aditi, who giveth good protection and good guidance.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[भुवो॑ +++(उत्पद्यस्व)+++ दे॒वाना॒ङ् कर्म॑णा॒, ऽप॑सा +ऋ॒तस्य॑। प॒थ्या॑ऽसि ।]  
-**विश्वे॑भिर् दे॒वेभि॑र्** दे॒वत॒या **आनु॑ष्टुभेन** त्वा॒ छन्द॑सा युनज्मि [47]।  
-**श॒रदा॑** त्व॒र्तुना॑ ह॒विषा॑ दीक्षयामि ।  
-[आ ऽहन् दी॒क्षाम् अ॑रुहम् ऋ॒तस्य॒ पत्नी॑म्।  
-**आनु॑ष्टुभेन** छन्द॑सा॒ ब्रह्म॑णा च ऋ॒तम् स॒त्ये॑ऽधाम्, स॒त्यम् ऋ॒ते॑ऽधाम् ॥]  
-[म॒हीम् ऊ॒ षु … ]  
-[सु॒त्रामा॑णम् पृथि॒वीन् …]
+[भु᳓वो +++(उत्पद्यस्व)+++ देवा᳓नाङ् क᳓र्मणा, ऽप᳙सा +ऋत᳓स्य। पथ्या᳙ऽसि ।]  
+**वि᳓श्वेभिर् देवे᳓भिर्** देव᳓तया᳓ **आ᳓नुष्टुभेन** त्वा छ᳓न्दसा युनज्मि [47]।  
+**शर᳓दा** त्वर्तु᳓ना हवि᳓षा दीक्षयामि ।  
+[आ᳓ ऽह᳓न् दीक्षा᳓म् अरुहम् ऋत᳓स्य प᳓त्नीम्।  
+**आ᳓नुष्टु᳓भे᳓न᳓** छ᳓न्दसा ब्र᳓ह्मणा च ऋत᳓म् सत्ये᳙ऽधाम्, सत्य᳓म् ऋते᳙ऽधाम् ॥]  
+[मही᳓म् ऊ षु᳓ … ]  
+[सुत्रा᳓माणम् पृथिवी᳓न् …]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -306,11 +293,11 @@ Aditi, who giveth good protection and good guidance.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[भुवो॑ +++(उत्पद्यस्व)+++ दे॒वाना॒ङ् कर्म॑णा॒, ऽप॑सा +ऋ॒तस्य॑। प॒थ्या॑ऽसि ।]  
-**अङ्गि॑रोभिर्** दे॒वेभि॑र् दे॒वत॑या॒ पाङ्क्ते॑न त्वा॒ छन्द॑सा युनज्मि ।  
-**हेमन्त-शिशि॒राभ्या॑न्** त्व॒र्तुना॑ ह॒विषा॑ दीक्षयामि ।  
-[आ ऽहन् दी॒क्षाम् अ॑रुहम् ऋ॒तस्य॒ पत्नी॑म्।  
-**पाङ्क्ते॑न** छन्द॑सा॒ ब्रह्म॑णा च ऋ॒तम् स॒त्ये॑ऽधाम्, स॒त्यम् ऋ॒ते॑ऽधाम् ॥]  
+[भु᳓वो +++(उत्पद्यस्व)+++ देवा᳓नाङ् क᳓र्मणा, ऽप᳙सा +ऋत᳓स्य। पथ्या᳙ऽसि ।]  
+**अ᳓ङ्गिरोभिर्** देवे᳓भिर् देव᳓तया पा᳓ङ्क्तेन त्वा छ᳓न्दसा युनज्मि ।  
+**हे᳓म᳓न्त᳓-शि᳓शिरा᳓भ्यान्** त्वर्तु᳓ना हवि᳓षा दीक्षयामि ।  
+[आ᳓ ऽह᳓न् दीक्षा᳓म् अरुहम् ऋत᳓स्य प᳓त्नीम्।  
+**पा᳓ङ्क्तेन᳓** छ᳓न्दसा ब्र᳓ह्मणा च ऋत᳓म् सत्ये᳙ऽधाम्, सत्य᳓म् ऋते᳙ऽधाम् ॥]  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -322,18 +309,18 @@ Aditi, who giveth good protection and good guidance.
 **पाङ्क्ते॑न** छन्द॑सा॒ ब्रह्म॑णा च ऋ॒तम् स॒त्ये॑ऽधाम्, स॒त्यम् ऋ॒ते॑ऽधाम् ॥]  
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/AryaH/hindukaH/classes/lokAntaram/Rk/mahIm_U_Shu/">
-
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/devaH/AryaH/hindukaH/classes/lokAntaram/Rk/mahIm_U_Shu/">
 <details open><summary><h2>महीम् ऊ षु …{Loading}…</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒हीम् ऊ॒ षु मा॒तरँ॑ सुव्र॒ताना॑म्  
-ऋ॒तस्य॒ पत्नी॒म् अव॑से **हुवेम** ।  
-तु॒वि॒+++(=प्रवृद्ध)+++-क्ष॒त्त्राम् अ॒जर॑न्तीम् उरू॒चीँ+++(=उरुगमनां)+++ 
-सु॒शर्मा॑ण॒म् अदि॑तिँ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥
-</details>
+मही᳓म् ऊ षु᳓ मात᳓रँ सुव्रता᳓नाम्  
+ऋत᳓स्य प᳓त्नीम् अ᳓वसे **हुवेम** ।  
+तुवि+++(=प्रवृद्ध)+++-क्षत्त्रा᳓म् अज᳓रन्तीम् उरूचीँ᳓+++(=उरुगमनां)+++ 
+सुश᳓र्माणम् अ᳓दितिँ+++(=अखण्डनीयां)+++ सुप्र᳓णीतिम् ॥
 
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 <details><summary>Keith</summary>
 
 The mighty mother of the righteous,  
@@ -341,21 +328,11 @@ The spouse of holy order, let us invoke to aid us,
 The powerful, the unageing, the wide  
 Aditi, who giveth good protection and good guidance.
 </details>
-</div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 <details><summary>मूलम्</summary>
 
 म॒हीमू॒ षु मा॒तरँ॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हुवेम ।  
 तु॒वि॒क्ष॒त्त्राम॒जर॑न्तीमुरू॒चीँ सु॒शर्मा॑ण॒मदि॑तिँ सु॒प्रणी॑तिम्  ॥
-</details>
-
-<details><summary>Keith</summary>
-
-The mighty mother of the righteous,  
-The spouse of holy order, let us invoke to aid us,  
-The powerful, the unageing, the wide  
-Aditi, who giveth good protection and good guidance.
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -370,7 +347,6 @@ Aditi, who giveth good protection and good guidance.
 </details>
 </div>
 </details>
-
 </div>  
 
 ## विनियोगः
@@ -384,32 +360,31 @@ Aditi, who giveth good protection and good guidance.
 उत्सृष्टे चतुर्षु पत्सु चतस्र आहुतीर्जुहोति  
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
 
 सु॒त्रामा॑णम्+++(=सुत्राणं)+++ पृथि॒वीन् द्याम् अ॑ने॒हसँ॑+++(=अपापाम्)+++  
 सु॒शर्मा॑ण॒म् अदि॑तिँ सु॒प्रणी॑तिम् ।  
 दैवी॒न् **नावँ॑** स्व्-अरि॒त्राम्+++(=सुनौदण्डां)+++ अना॑गसो॒  
 अस्र॑वन्ती॒म् **आ रु॑हेमा** स्व॒स्तये᳚ ॥
-</details>
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **सुत्रामाणं** सुष्ठु त्रात्रीं रक्षित्रीम् । 'आतो मनिन्' इति मनिन् ।  
 **पृथिवीं** विस्तीर्णाम् । प्रथेष्षिवन् सम्प्रसारणम् ।  
 **द्यां** द्युमतीम् **अनेहसम्** अपापाम् । पूर्ववदन्तोदात्तत्वम् ।  
-**सुशर्माणम्** इत्यादि गतम् ।
+**सुशर्माणम्** इत्यादि गतम् । 
 
 [**सुशर्माणं** सुसुखाम् । 'सोर्मनसी' इत्युत्तरपदाद्युदात्तत्वम् ।  
 **अदितिम्** अखण्डनीयां **सुप्रणीतिं** सुखेन शर्मणां प्रणेत्रीम् । कृदुत्तरपदप्रकृतिस्वरत्वम् । तत्र च 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ।  
 ]
 
 **दैवीं** देवानामियम् । 'देवाद्यञञौ' इत्यञ् । **नावं** नौसदृशीं **स्वरित्रां** शोभनारित्राम् । पूर्ववद् अन्तोदात्तत्वम् । **अरित्रं** नाम नौस्तम्भनदण्डः । **अनागसम्** आगो दोषः । पूर्ववत्प्रकृतिस्वरत्वम् । **अस्रवन्तीम्** अच्छिद्रां **स्वस्तये** ऽविनाशायारुहेमारुह्याम । 'लिङ्याशिष्यङ्' 'अन्येषामपि दृश्यते' इति संहितायां दीर्घत्वम् ॥
+
+_____________
+7अथ द्वितीया - सुत्रामाणं सुष्ठु त्रायन्तीं पृथिवीं द्यां दीपितवतीं अनेहसं अपापाम् । सुशर्माणमित्यादि । गतम् । दैवीं नावं स्वरित्रां अनागसं अनवद्यां अस्रवन्तीं अच्छिद्रामारुहेम स्वस्तये अविनाशायेति ॥
 </details>
 
 <details><summary>Whitney</summary>
@@ -446,7 +421,7 @@ Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protect
 
 <details><summary>पदपाठः</summary>
 
-सु॒ऽत्रामा॑णम्। पृ॒थि॒वीम्। द्याम्। अ॒ने॒हस॑म्। सु॒ऽशर्मा॑णम्। अदि॑तिम्। सु॒ऽप्रणी॑तिम्। दैवी॑म्। नाव॑म्। सु॒ऽअ॒रि॒त्राम्। अना॑गसः। अस्र॑वन्तीम्। आ। रु॒हे॒म॒। स्व॒स्तये॑। ७.१।
+सु॒ऽत्रामा॑णम्। पृ॒थि॒वीम्। द्याम्। अ॒ने॒हस॑म्। सु॒ऽशर्मा॑णम्। अदि॑तिम्। सु॒ऽप्रणी॑तिम्। दैवी॑म्। नाव॑म्। सु॒ऽअ॒रि॒त्राम्। अना॑गसः। अस्र॑वन्तीम्। आ। रु॒हे॒म॒। स्व॒स्तये॑। ७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -476,12 +451,9 @@ Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protect
 
 टिप्पणी:   ३−(सुत्रामाणम्) सुरक्षित्रीम् (पृथिवीम्) अ० १।२।१। विस्तृताम् (द्याम्) गमेर्डोः। उ० २।६७। द्यु अभिगमने−डो। अभिगन्तव्याम् (अनेहसम्) नञि हन एह च। उ० ४।२२४। अ+हन-असि। एन एतेः-निरु० ११।२४। अहिंसनीयाम् (सुशर्म्माणम्) बहुसुखवतीम् (अदितिम्) अ० २।२८।४। अदीनां वेदवाचम्। अदितिः=वाक्-निघ० १।११। (सुप्रणीतिम्) म० २ (दैवीम्) देव अञ्। विद्वद्भिनिर्मिताम् (नावम्) नोदनीयां नौकाम् (स्वरित्राम्) अशित्रादिभ्य इत्रोत्रौ। उ० ४।१७३। ऋ गतौ-इत्र। शोभननौकाचालनकाष्ठयुक्ताम् (अनागसः) अ० २।१०।१। इण आगोऽपराधे च। उ० ४।११२। इण् गतौ असुन्, आगादेशः। अनागस्त्वमनपराधत्वम्। आग आङ्पूर्वाद् गमेः-निरु० ११।२४। अनपराधाः (अस्रवन्तीम्) स्रवणरहिताम् (आ रुहेम) आरूढा भूयास्म (स्वस्तये) क्षेमाय ॥
 </details>
+</div>
 
-</div>  
-
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4सायमश्वस्य पत्सु चतस्रो धृतीर्जुहोति - इह धृतिरित्यादि ॥
@@ -496,7 +468,7 @@ Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protect
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह धृति॒स् +++(स्यात्)+++ स्वाहा॑।
+इह᳓ धृ᳓तिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -506,7 +478,7 @@ Here is support, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह विधृ॑ति॒स् +++(स्यात्)+++ स्वाहा॑।
+इह᳓ वि᳓धृतिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -516,7 +488,7 @@ Here is keeping apart, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह रन्ति॒स्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वाहा॑।
+इह᳓ र᳓न्तिस्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -526,7 +498,7 @@ Here is joy, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह रम॑ति॒स् +++(स्यात्)+++ स्वाहा॑।
+इह᳓ र᳓मतिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -555,5 +527,4 @@ Here is delight, hail!'
 
 इति सप्तमे प्रथमे अष्टादशोनुवाकः ॥  
 </details>
-
 </div>

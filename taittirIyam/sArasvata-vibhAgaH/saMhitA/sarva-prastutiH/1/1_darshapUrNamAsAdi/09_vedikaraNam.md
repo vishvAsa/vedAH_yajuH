@@ -13,13 +13,12 @@ ____
 स्फ्यमादत्ते
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
-+++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
-पू॒ष्णो हस्ता॑भ्याम्…
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
++++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
+पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
 
 <details><summary>Keith</summary>
@@ -53,12 +52,11 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ द॑दे ।
+आ᳓ ददे ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -85,9 +83,9 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(स्फ्य!)+++ इन्द्र॑स्य बा॒हुर॑सि दक्षि॑णस्  
-+++(शत्रूणां)+++ स॒हस्र॑-भृष्टिश्+++(=धारः)+++  
-श॒त-ते॑जाः ।
++++(स्फ्य!)+++ इ᳓न्द्रस्य बाहु᳓रसि᳓ द᳓क्षिणस्  
++++(शत्रूणां)+++ सह᳓स्र-भृष्टिश्+++(=धारः)+++  
+शत᳓-तेजाः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -120,7 +118,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(तेजोवृद्धिहेतुत्वात्)+++ वा॒युर् अ॑सि ति॒ग्म-ते॑जाः ।
++++(तेजोवृद्धिहेतुत्वात्)+++ वायु᳓र् असि तिग्म᳓-तेजाः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -152,7 +150,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे)+++ पृथि॑वि! देव-यज॒न्य् +++(नामेध्या वृत्र-रक्तादि-पातेन)+++! ओष॑ध्यास् ते॒ मूल॒म् मा हिँ॑सिषम् +++(स्फ्यप्रहारेण)+++।
++++(हे)+++ पृ᳓थिवि! देव-यजन्य् +++(नामेध्या वृत्र-रक्तादि-पातेन)+++! ओ᳓षध्यास् ते मू᳓लम् मा᳓ हिँसिषम् +++(स्फ्यप्रहारेण)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -184,7 +182,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप॑हतो॒ ऽररुᳶ॑ पृथि॒व्यै  ।  
+अ᳓पहतो ऽर᳓रुᳶ पृथिव्यै᳓  ।  
 +++('अररुर्वै नामासुर आसीत्' (तै.ब्रा. 3.2.9) इत्यादिब्राह्मणप्रसिद्धः असुरविशेषोऽररुः, अरणशीलः गूढचारी ।)+++
 </details>
 
@@ -210,8 +208,7 @@ Araru is smitten away from the earth.
 
 ____  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ??हरति
@@ -219,7 +216,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒जङ् ग॑च्छ गो॒-स्थान॑म् +++(→छन्दांसि)+++ ।
+व्रज᳓ङ् गच्छ गो-स्था᳓नम् +++(→छन्दांसि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -256,7 +253,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वर्ष॑तु +++(स्फ्येन प्रहृतायाः)+++ ते॒ द्यौः ।
+व᳓र्षतु +++(स्फ्येन प्रहृतायाः)+++ ते द्यौः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -287,11 +284,11 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒धा॒न दे॑व सवितᳶ पर॒मस्या॑म् परा॒वति॑+++(=सुदूरस्थे)+++  
-श॒तेन॒+++(=शतैः)+++ पाशै॒र्  
-यो॑ ऽस्मान् द्वेष्टि॒  
-यञ् च॑ व॒यन् द्वि॒ष्मः।  
-तम् अतो॒  मा मौ॑क् ।  
+बधान᳓ देव सवितᳶ परम᳓स्याम् पराव᳓ति+++(=सुदूरस्थे)+++  
+शते᳓न+++(=शतैः)+++ पा᳓शैर्  
+यो᳙ ऽस्मान् द्वेष्टि  
+य᳓ञ् च वय᳓न् द्विष्मः᳓।  
+त᳓म् अ᳓तो  मा᳓ मौक् ।  
 
 +++('अररुर्वै नामासुर आसीत्' (तै.ब्रा. 3.2.9) इत्यादिब्राह्मणप्रसिद्धः असुरविशेषोऽररुः, अरणशीलः गूढचारी ।)+++
 </details>
@@ -326,12 +323,11 @@ O god Savitr, bind thou in the furthest distance with a hundred fetters him who 
 बद्धं तमस्मादुत्करात् मा मौक् मा मुचः । यद्वा - परमस्यां परावति परागतौ पराजये शतेन पाशैः अस्माकं द्वेष्टारं द्वेष्यं च बधान । बद्धं च तं, अस्मात्पराजयात् मा मौक् मा मुचः ।  
 यद्वा - परमस्यां परावति पराजये पराजयार्थं तस्मिन्नुत्करे बधान । बद्धं च तं मा मुचः उत्करात्पराजयाद्वा । मुचेर्लुङि व्यत्ययेन अङं बाधित्वा च्लेस्सिजादेशः, 'बहुलं छन्दसि' (पा.सू. 7.3.97) इतीडभावः, हलन्तलक्षणा वृद्धिः, हल्ङ्यादिसंयोगान्तलोपौ ।
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप॑हतो॒ऽररुᳶ॑ पृथि॒व्यै दे॑व॒यज॑न्यै।  
+अ᳓पहतोऽर᳓रुᳶ पृथिव्यै᳓ देवय᳓जन्यै।  
 +++(प्रथमप्रहारेण देवयजनीकृता सा।)+++
 </details>
 
@@ -362,8 +358,7 @@ ____
 तस्यैवावर्तनम्
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ??हरति
@@ -371,7 +366,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒जङ् ग॑च्छ गो॒-स्थान॑म् +++(→छन्दांसि)+++ ।
+व्रज᳓ङ् गच्छ गो-स्था᳓नम् +++(→छन्दांसि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -408,7 +403,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वर्ष॑तु +++(स्फ्येन प्रहृतायाः)+++ ते॒ द्यौः ।
+व᳓र्षतु +++(स्फ्येन प्रहृतायाः)+++ ते द्यौः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -439,11 +434,11 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒धा॒न दे॑व सवितᳶ पर॒मस्या॑म् परा॒वति॑+++(=सुदूरस्थे)+++  
-श॒तेन॒+++(=शतैः)+++ पाशै॒र्  
-यो॑ ऽस्मान् द्वेष्टि॒  
-यञ् च॑ व॒यन् द्वि॒ष्मः।  
-तम् अतो॒  मा मौ॑क् ।  
+बधान᳓ देव सवितᳶ परम᳓स्याम् पराव᳓ति+++(=सुदूरस्थे)+++  
+शते᳓न+++(=शतैः)+++ पा᳓शैर्  
+यो᳙ ऽस्मान् द्वेष्टि  
+य᳓ञ् च वय᳓न् द्विष्मः᳓।  
+त᳓म् अ᳓तो  मा᳓ मौक् ।  
 
 +++('अररुर्वै नामासुर आसीत्' (तै.ब्रा. 3.2.9) इत्यादिब्राह्मणप्रसिद्धः असुरविशेषोऽररुः, अरणशीलः गूढचारी ।)+++
 </details>
@@ -478,11 +473,9 @@ O god Savitr, bind thou in the furthest distance with a hundred fetters him who 
 बद्धं तमस्मादुत्करात् मा मौक् मा मुचः । यद्वा - परमस्यां परावति परागतौ पराजये शतेन पाशैः अस्माकं द्वेष्टारं द्वेष्यं च बधान । बद्धं च तं, अस्मात्पराजयात् मा मौक् मा मुचः ।  
 यद्वा - परमस्यां परावति पराजये पराजयार्थं तस्मिन्नुत्करे बधान । बद्धं च तं मा मुचः उत्करात्पराजयाद्वा । मुचेर्लुङि व्यत्ययेन अङं बाधित्वा च्लेस्सिजादेशः, 'बहुलं छन्दसि' (पा.सू. 7.3.97) इतीडभावः, हलन्तलक्षणा वृद्धिः, हल्ङ्यादिसंयोगान्तलोपौ ।
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ??हरति
@@ -490,7 +483,7 @@ O god Savitr, bind thou in the furthest distance with a hundred fetters him who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒जङ् ग॑च्छ गो॒-स्थान॑म् +++(→छन्दांसि)+++ ।
+व्रज᳓ङ् गच्छ गो-स्था᳓नम् +++(→छन्दांसि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -527,7 +520,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वर्ष॑तु +++(स्फ्येन प्रहृतायाः)+++ ते॒ द्यौः ।
+व᳓र्षतु +++(स्फ्येन प्रहृतायाः)+++ ते द्यौः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -558,11 +551,11 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒धा॒न दे॑व सवितᳶ पर॒मस्या॑म् परा॒वति॑+++(=सुदूरस्थे)+++  
-श॒तेन॒+++(=शतैः)+++ पाशै॒र्  
-यो॑ ऽस्मान् द्वेष्टि॒  
-यञ् च॑ व॒यन् द्वि॒ष्मः।  
-तम् अतो॒  मा मौ॑क् ।  
+बधान᳓ देव सवितᳶ परम᳓स्याम् पराव᳓ति+++(=सुदूरस्थे)+++  
+शते᳓न+++(=शतैः)+++ पा᳓शैर्  
+यो᳙ ऽस्मान् द्वेष्टि  
+य᳓ञ् च वय᳓न् द्विष्मः᳓।  
+त᳓म् अ᳓तो  मा᳓ मौक् ।  
 
 +++('अररुर्वै नामासुर आसीत्' (तै.ब्रा. 3.2.9) इत्यादिब्राह्मणप्रसिद्धः असुरविशेषोऽररुः, अरणशीलः गूढचारी ।)+++
 </details>
@@ -597,12 +590,11 @@ O god Savitr, bind thou in the furthest distance with a hundred fetters him who 
 बद्धं तमस्मादुत्करात् मा मौक् मा मुचः । यद्वा - परमस्यां परावति परागतौ पराजये शतेन पाशैः अस्माकं द्वेष्टारं द्वेष्यं च बधान । बद्धं च तं, अस्मात्पराजयात् मा मौक् मा मुचः ।  
 यद्वा - परमस्यां परावति पराजये पराजयार्थं तस्मिन्नुत्करे बधान । बद्धं च तं मा मुचः उत्करात्पराजयाद्वा । मुचेर्लुङि व्यत्ययेन अङं बाधित्वा च्लेस्सिजादेशः, 'बहुलं छन्दसि' (पा.सू. 7.3.97) इतीडभावः, हलन्तलक्षणा वृद्धिः, हल्ङ्यादिसंयोगान्तलोपौ ।
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप॑हतो॒ऽररुᳶ॑ +++(→भ्रातृव्यः)+++ पृथि॒व्या+++(व्यै)+++ अदे॑वयजनः +++(असुरः)+++।
+अ᳓पहतोऽर᳓रुᳶ +++(→भ्रातृव्यः)+++ पृथिव्या᳓+++(व्यै)+++ अ᳓देवयजनः +++(असुरः)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -625,8 +617,7 @@ Araru is smitten away from the earth, he that sacrifices not to the gods.
 तृतीये च पर्याये अदेवयजनत्वमसुरस्य विशेषणम्, यस्मिन्वेदिदेशमनुप्रविश्य शयाने तस्यां भुवि देवयजनं नास्ति; तेन अदेवयजनोऽसुरोपहत इति । नञ्समासे कृते अव्ययपूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ??हरति
@@ -634,7 +625,7 @@ Araru is smitten away from the earth, he that sacrifices not to the gods.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒जङ् ग॑च्छ गो॒-स्थान॑म् +++(→छन्दांसि)+++ ।
+व्रज᳓ङ् गच्छ गो-स्था᳓नम् +++(→छन्दांसि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -671,7 +662,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वर्ष॑तु +++(स्फ्येन प्रहृतायाः)+++ ते॒ द्यौः ।
+व᳓र्षतु +++(स्फ्येन प्रहृतायाः)+++ ते द्यौः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -702,11 +693,11 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒धा॒न दे॑व सवितᳶ पर॒मस्या॑म् परा॒वति॑+++(=सुदूरस्थे)+++  
-श॒तेन॒+++(=शतैः)+++ पाशै॒र्  
-यो॑ ऽस्मान् द्वेष्टि॒  
-यञ् च॑ व॒यन् द्वि॒ष्मः।  
-तम् अतो॒  मा मौ॑क् ।  
+बधान᳓ देव सवितᳶ परम᳓स्याम् पराव᳓ति+++(=सुदूरस्थे)+++  
+शते᳓न+++(=शतैः)+++ पा᳓शैर्  
+यो᳙ ऽस्मान् द्वेष्टि  
+य᳓ञ् च वय᳓न् द्विष्मः᳓।  
+त᳓म् अ᳓तो  मा᳓ मौक् ।  
 
 +++('अररुर्वै नामासुर आसीत्' (तै.ब्रा. 3.2.9) इत्यादिब्राह्मणप्रसिद्धः असुरविशेषोऽररुः, अरणशीलः गूढचारी ।)+++
 </details>
@@ -741,12 +732,11 @@ O god Savitr, bind thou in the furthest distance with a hundred fetters him who 
 बद्धं तमस्मादुत्करात् मा मौक् मा मुचः । यद्वा - परमस्यां परावति परागतौ पराजये शतेन पाशैः अस्माकं द्वेष्टारं द्वेष्यं च बधान । बद्धं च तं, अस्मात्पराजयात् मा मौक् मा मुचः ।  
 यद्वा - परमस्यां परावति पराजये पराजयार्थं तस्मिन्नुत्करे बधान । बद्धं च तं मा मुचः उत्करात्पराजयाद्वा । मुचेर्लुङि व्यत्ययेन अङं बाधित्वा च्लेस्सिजादेशः, 'बहुलं छन्दसि' (पा.सू. 7.3.97) इतीडभावः, हलन्तलक्षणा वृद्धिः, हल्ङ्यादिसंयोगान्तलोपौ ।
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ररु॑स् +++(→भ्रातृव्यः)+++ ते॒ दिव॒म् मा ऽस्का॑न्+++(=गात्)+++ ।  
+अर᳓रुस् +++(→भ्रातृव्यः)+++ ते दि᳓वम् मा᳓ ऽस्कान्+++(=गात्)+++ ।  
 +++('भ्रातृव्यो वा अररुः' (तै.ब्रा. 3.2.9) इत्यादि ब्राह्मणम् ॥)+++
 </details>
 
@@ -779,7 +769,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(वेदे!)+++ +++(अष्टौ)+++ वस॑वस् त्वा॒ +++(दक्षिणतः)+++ परि॑गृह्णन्तु +++(अष्टाक्षरेण)+++ गाय॒त्रेण॒ छन्द॑सा ।
++++(वेदे!)+++ +++(अष्टौ)+++ व᳓सवस् त्वा +++(दक्षिणतः)+++ प᳓रिगृह्णन्तु +++(अष्टाक्षरेण)+++ गायत्रे᳓ण छ᳓न्दसा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -804,7 +794,7 @@ Let the Vasus grasp thee with the Gayatri metre
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(एकादश)+++ रु॒द्रास् त्वा॒ परि॑गृह्णन्तु॒ +++(एकादशाक्षरेण)+++ त्रैष्टु॑भेन॒ छन्द॑सा ।
++++(एकादश)+++ रुद्रा᳓स् त्वा प᳓रिगृह्णन्तु +++(एकादशाक्षरेण)+++ त्रै᳓ष्टुभेन छ᳓न्दसा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -824,7 +814,7 @@ let the Rudras grasp thee with the Tristubh metre
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(द्वादश)+++ आ॒दि॒त्यास्त्वा॒ +++(उत्तरतः)+++ परि॑गृह्णन्तु॒ +++(द्वादशाक्षरेण)+++ जाग॑तेन॒ छन्द॑सा ।  
++++(द्वादश)+++ आदित्या᳓स्त्वा +++(उत्तरतः)+++ प᳓रिगृह्णन्तु +++(द्वादशाक्षरेण)+++ जा᳓गतेन छ᳓न्दसा ।  
 +++('असुराणां वा इयमग्र आसीत्' (तै.ब्रा. 3.2.9) इत्यादि ब्राह्मणम् ॥)+++
 </details>
 
@@ -862,8 +852,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-दे॒वस्य॑ सवि॒तुस् स॒वे +++(=अनुज्ञायाम्)+++  
-कर्म॑ कृण्वन्ति वे॒धसः॑+++(=ऋत्विजः)+++ ।  
+देव᳓स्य सवितु᳓स् सवे᳓ +++(=अनुज्ञायाम्)+++  
+क᳓र्म कृण्वन्ति वेध᳓सः+++(=ऋत्विजः)+++ ।  
 +++(ततो मम नापराधः।)+++
 </details>
 
@@ -896,9 +886,9 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे वेदे!)+++ ऋ॒तम् अ॑सि ।  
-ऋत॒-सद॑नम् असि ।   
-ऋत॒-श्रीर् अ॑सि ।  
++++(हे वेदे!)+++ ऋत᳓म् असि ।  
+ऋ᳓त-स᳓दनम् असि ।   
+ऋ᳓त-श्री᳓र् असि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -942,8 +932,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धा अ॑सि ।  
-स्व॒धा+++(=अन्नं, स्वं पुरुषं दधातीति)+++ अ॑सि ।
+धा᳓ असि ।  
+स्वधा᳓+++(=अन्नं, स्वं पुरुषं दधातीति)+++ असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -959,8 +949,8 @@ Thou art the holder, thou art the self-holder.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒र्वी चाऽसि॑।  
-वस्वी॑ चासि ।
+उर्वी᳓ चा᳓ऽसि।  
+व᳓स्वी चासि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -988,20 +978,17 @@ Thou art broad, and wealthy art thou.
 उर्वी महती चासि । वस्वी वासहेतुश्चासि, पुरोडाशादिधनवत्त्वेन देवतानां धारकत्वात् । अत्र 'गुणवचनात् ङीबाद्युदात्तार्थम्' (पा.सू. 4.1.44 वा 1) इति वसुशब्दात् ङीप् । उरुशब्दात् ङीप् ङीष् वा; न कश्चन विशेषः । ङीप्यपि 'उदात्तयणो हल्पूर्वात्' (पा.सू. 6.1.174) इति नद्या उदात्तत्वेन भाव्यम् । अत्र 'चवायोगे प्रथमा' (पा.सू. 8.1.59) इति प्रथमा तिङ्विभक्तिर्न निहन्यते ।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/109_purA_krUrasya.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/109_purA_krUrasya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-पु॒रा क्रू॒रस्य॑ +++(अरुरोर् असुरस्य)+++ वि॒सृपो॑+++(=विसर्पणात्)+++ विरफ्शिन्न्+++(=विविधशब्दवति वेदे!)+++  
-**उदा॒दाय॑** पृथि॒वीञ्+++(=प्रथितां)+++, +++(त्वं)+++ जी॒र+++(=अग्नि/बुद्धि)+++-दा॑नुः+++(=दात्री)+++  ।  
-याम् +++(प्र-)+++**ऐर॑यञ्** च॒न्द्रम॑सि स्व॒धाभि॒स्,  
-तान् +++(मेध्यांशं)+++ धीरा॑सो **अनु॒दृश्य॑ यजन्ते** ॥ [15]
+पुरा᳓ क्रूर᳓स्य +++(अरुरोर् असुरस्य)+++ विसृ᳓पो+++(=विसर्पणात्)+++ विरफ्शिन्न्+++(=विविधशब्दवति वेदे!)+++  
+**उदादा᳓य** पृथिवी᳓ञ्+++(=प्रथितां)+++, +++(त्वं)+++ जीर᳓+++(=अग्नि/बुद्धि)+++-दानुः+++(=दात्री)+++  ।  
+या᳓म् +++(प्र-)+++**ऐ᳓रयञ्** चन्द्र᳓मसि स्वधा᳓भिस्,  
+ता᳓न् +++(मेध्यांशं)+++ धी᳓रासो **अनुदृ᳓श्य यजन्ते** ॥ [15]
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/09_vedikaraNam/109_purA_krUrasya.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/09_vedikaraNam/109_purA_krUrasya.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -1033,7 +1020,6 @@ Which wise men use to guide them in the sacrifice.
 यद्वा - हे **विरप्शिन्** वेदे, क्रूरस्याररुनाम्नोऽसुरस्य विसर्पणात् प्रागेव यां त्वाम् **उदादाय चन्द्रमसि** स्थिताभिस् **स्वधाभिः** अमृतैर्हेतुभिः **जीरदानु**-भूतां पृथिवीम् **ऐरयन्** प्रापयन्, तां तथाविधां त्वां अनुदृश्य धीरा यजन्ते । तस्माद्वयमपि तादृशीं त्वामवगम्य यजामः इति । दासीभारादित्वात् (पा.सू. 6.2.42) चन्द्रमसीति पदे पूर्वपदप्रकृतिस्वरत्वम्' । 'यदेवास्या अमेध्यम्' (तै.ब्रा. 3.2.9) इत्यादि ब्राह्मणम् ॥
 </details>
 </details>
-
 </div>
 
 इति प्रथमे नवमोनुवाकः  

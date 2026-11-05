@@ -1,11 +1,10 @@
 +++
 title = "२० वनस्पतिहोममन्त्राः"
-
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वन॒स्पति॑भ्य॒स् स्वाहा॑ ।
+व᳓नस्प᳓तिभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -15,7 +14,7 @@ To the trees hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मूले॑भ्य॒स् स्वाहा॑ ।
+मू᳓लेभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -25,7 +24,7 @@ To the roots hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तूले॑भ्य॒स्+++(=अग्रेभ्यः)+++ स्वाहा॑ ।
+तू᳓लेभ्यस्+++(=अग्रेभ्यः)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -35,7 +34,7 @@ To the panicles hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्कन्धो॑भ्य॒स् स्वाहा॑ ।
+स्क᳓न्धोभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -45,7 +44,7 @@ To the corona hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शाखा॑भ्य॒स् स्वाहा॑ ।
+शा᳓खाभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -55,7 +54,7 @@ To the branches hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒र्णेभ्य॒स् स्वाहा॑ ।
+पर्णे᳓भ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -65,7 +64,7 @@ To the leaves hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुष्पे॑भ्य॒स् स्वाहा॑ ।
+पु᳓ष्पेभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -75,7 +74,7 @@ To the flowers hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-फले॑भ्य॒स् स्वाहा॑ ।
+फ᳓लेभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -85,7 +84,7 @@ To the fruits hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गृ॒ही॒तेभ्य॒स् स्वाहा॑ ।
+गृहीते᳓भ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -95,7 +94,7 @@ To those that are used hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अगृ॑हीतेभ्य॒स् स्वाहा॑ ।
+अ᳓गृहीतेभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -105,7 +104,7 @@ To those that are not used hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव॑पन्नेभ्य॒स् स्वाहा॑ ।
+अ᳓वपन्नेभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -115,7 +114,7 @@ To those that have fallen off hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शया॑नेभ्य॒स् स्वाहा॑ ।
+श᳓यानेभ्यस् स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -125,7 +124,7 @@ To those that are lying (on the ground) hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शि॒ष्टाय॒+++(→क्रियासूपयुक्ताय)+++ स्वाहा॑ ।
+शिष्टा᳓य+++(→क्रियासूपयुक्ताय)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -135,7 +134,7 @@ To' the one that is left hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अति॑शिष्टाय॒+++(→उपयुज्य स्थापितैकदेशाय)+++ स्वाहा॑ ।
+अ᳓तिशिष्टाय+++(→उपयुज्य स्थापितैकदेशाय)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -145,7 +144,7 @@ To the one that is left over hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परि॑शिष्टाय॒+++(→उपयोगातिरिक्ताय)+++ स्वाहा॑ ।
+प᳓रिशिष्टाय+++(→उपयोगातिरिक्ताय)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -155,7 +154,7 @@ To the one that is left around hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सँशि॑ष्टाय॒+++(→संपूर्णमुपयुज्य)+++ स्वाहा॑ ।
+सँ᳓शिष्टाय+++(→संपूर्णमुपयुज्य)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -165,7 +164,7 @@ To the one that is left along hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उच्छि॑ष्टाय॒ स्वाहा॑ ।
+उ᳓च्छिष्टाय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -175,7 +174,7 @@ To the one left out hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पुष्पफलै)+++ रि॒क्ताय॒ स्वाहा॑ ।
++++(पुष्पफलै)+++ रिक्ता᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -185,7 +184,7 @@ To the one deprived (of leaves) hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अरि॑क्ताय॒ स्वाहा॑ ।
+अ᳓रिक्ताय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -195,7 +194,7 @@ To the one not deprived hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्ररि॑क्ताय॒+++(=सर्वथा रिक्ताय)+++ स्वाहा॑ ।
+प्र᳓रिक्ताय+++(=सर्वथा रिक्ताय)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -205,7 +204,7 @@ To the one deprived around hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पर्णैर् अपि)+++ सँरि॑क्ताय॒ स्वाहा॑ ।
++++(पर्णैर् अपि)+++ सँ᳓रिक्ताय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -215,7 +214,7 @@ To the one deprived along hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद्रि॑क्ताय॒+++(→सर्वैस्समृद्धाय)+++ स्वाहा॑ ।
+उ᳓द्रिक्ताय+++(→सर्वैस्समृद्धाय)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -225,13 +224,10 @@ To the one deprived altogether hail
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व॑स्मै॒ स्वाहा॑ ॥ [42]
+स᳓र्वस्मै स्वा᳓हा ॥ [42]
 </details>
 
 <details><summary>Keith</summary>
 
 To all hail!
 </details>
-
-
-

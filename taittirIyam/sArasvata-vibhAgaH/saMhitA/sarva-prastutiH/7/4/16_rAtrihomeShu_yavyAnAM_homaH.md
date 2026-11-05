@@ -1,11 +1,10 @@
 +++
 title = "१६ रात्रिहोमेषु यव्यानां होमः"
-
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॒ राज्ञे॑ +++(सोमाय)+++ ।
+न᳓मो रा᳓ज्ञे +++(सोमाय)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -13,11 +12,9 @@ title = "१६ रात्रिहोमेषु यव्यानां �
 Homage to the king!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॒ वरु॑णाय ।
+न᳓मो व᳓रुणाय ।
 </details>
 
 <details><summary>Keith</summary>
@@ -25,11 +22,9 @@ Homage to the king!
 Homage to Varuna!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमोऽश्वा॑य ।
+न᳓मो᳓ऽश्वाय ।
 </details>
 
 <details><summary>Keith</summary>
@@ -37,11 +32,9 @@ Homage to Varuna!
 Homage to the horse!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमᳶ॑ प्र॒जाप॑तये ।
+न᳓मᳶ प्रजा᳓पतये ।
 </details>
 
 <details><summary>Keith</summary>
@@ -49,11 +42,9 @@ Homage to the horse!
 Homage to Prajapati!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमोऽधि॑पतये ।
+न᳓मो᳓ऽधिपतये ।
 </details>
 
 <details><summary>Keith</summary>
@@ -61,13 +52,11 @@ Homage to Prajapati!
 Homage to the overlord!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अधि॑पतिर् अ॒सि।
-अधि॑पतिम् मा कु॒रु।
-अधि॑पतिर् अ॒हम् प्र॒जाना॑म् भूयास॒म् ।
+अ᳓धिपतिर् असि᳓।
+अ᳓धिपतिम् मा कुरु᳓।
+अ᳓धिपतिर् अह᳓म् प्रजा᳓नाम् भूयासम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -75,12 +64,10 @@ Homage to the overlord!
 Thou art an overlord; make me an overlord; may I be overlord of creatures.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मान् धे॑हि ।
-मयि॑ धेहि ।
+मा᳓न् धेहि ।
+म᳓यि धेहि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -88,11 +75,9 @@ Thou art an overlord; make me an overlord; may I be overlord of creatures.
 Place me, place in me.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒पाकृ॑ताय॒ स्वाहा॑ ।
+उपा᳓कृताय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -100,11 +85,9 @@ Place me, place in me.
 To him that is driven near hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आल॑ब्धाय॒ स्वाहा॑ ।
+आ᳓लब्धाय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -112,16 +95,12 @@ To him that is driven near hail!
 To him that is taken hold of hail!
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हु॒ताय॒ स्वाहा॑ ॥ [42]
+हुता᳓य स्वा᳓हा ॥ [42]
 </details>
 
 <details><summary>Keith</summary>
 
 To him that is sacrificed hail!
 </details>
-
-

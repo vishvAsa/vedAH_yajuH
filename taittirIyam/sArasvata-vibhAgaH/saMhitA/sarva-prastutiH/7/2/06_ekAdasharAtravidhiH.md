@@ -1,6 +1,5 @@
 +++
 title = "०६ एकादशरात्रविधिः"
-
 +++
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -8,32 +7,30 @@ title = "०६ एकादशरात्रविधिः"
 समाप्ता अहीनाः = अहस्-समूह-साध्याः। अथ सत्त्राण्यारभ्यन्ते उभयतोतिरात्राणि ।  
 </details>
 
-
-
 ## फलम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>ऋ॒तवो॒ वै प्र॒जाका॑माᳶ प्र॒जान् नावि॑न्दन्त ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>ऋत᳓वो वै᳓ प्रजा᳓कामाᳶ प्रजा᳓न् ना᳓विन्दन्त ।</details>
 
 <details><summary>Keith</summary>
 
 The seasons, desirous of offspring, could not procure offspring.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>ते॑ऽकामयन्त - प्र॒जाँ सृ॑जेमहि , प्र॒जामव॑ रुन्धीमहि , प्र॒जाव्ँ वि॑न्देमहि , प्र॒जाव॑न्तस् स्या॒मेति ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>ते᳓ऽकामयन्त - प्रजाँ᳓ सृजेमहि , प्रजा᳓म᳓व रुन्धीमहि , प्रजाव्ँ᳓ विन्देमहि , प्रजा᳓वन्तस् स्यामे᳓ति᳓ ।</details>
 
 <details><summary>Keith</summary>
 
 They desired, 'May we create offspring, may we win offspring, may we procure offspring, may we possess offspring.'
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>त ए॒तम् ए॑कादशरा॒त्रम् अ॑पश्यन् । तम् आह॑रन् । तेना॑यजन्त ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>त᳓ एत᳓म् एकादशरात्र᳓म् अपश्यन् । त᳓म् आ᳓हरन् । ते᳓नायजन्त ।</details>
 
 <details><summary>Keith</summary>
 
 They saw this (rite) of eleven nights; they grasped it, and sacrificed with it.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>ततो॒ वै ते प्र॒जाम् अ॑सृजन्त , प्र॒जाम् अवा॑रुन्धत , प्र॒जाम् अ॑विन्दन्त , प्र॒जाव॑न्तोऽभव॒न् ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>त᳓तो वै᳓ ते᳓ प्रजा᳓म् असृजन्त , प्रजा᳓म् अ᳓वारुन्धत , प्रजा᳓म् अविन्दन्त , प्रजा᳓वन्तोऽभवन् ।</details>
 
 <details><summary>Keith</summary>
 
@@ -42,7 +39,7 @@ Then indeed did they create offspring, win offspring, procure offspring, and pos
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त ऋ॒तवो॑ +++(सार्थका)+++ ऽभव॒न् । 
+त᳓ ऋत᳓वो +++(सार्थका)+++ ऽभवन् । 
 </details>
 
 <details><summary>Keith</summary>
@@ -52,9 +49,9 @@ They became the seasons, and that is why the seasonal periods are seasonal perio
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् आ॑र्त॒वाना॑म्+++(=ऋतुभवानां)+++ आर्तव॒त्वम् ।
-ऋ॒तू॒नाव्ँँ वा ए॒ते पु॒त्राः ।
-तस्मा॑द् आर्त॒वा उ॑च्यन्ते [19]।
+त᳓द् आर्तवा᳓नाम्+++(=ऋतुभवानां)+++ आर्तवत्व᳓म् ।
+ऋतूनाव्ँँ᳓ वा᳓ एते᳓ पुत्राः᳓ ।
+त᳓स्माद् आर्तवा᳓ उच्यन्ते [19]।
 </details>
 
 <details><summary>Keith</summary>
@@ -62,15 +59,13 @@ They became the seasons, and that is why the seasonal periods are seasonal perio
 They are the children of the seasons, and therefore [1] they are said to be connected with the seasons.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>य ए॒वव्ँ वि॒द्वाँस॑ एकादशरा॒त्रम् आस॑ते , प्र॒जाम् ए॒व सृ॑जन्ते ,  
-प्र॒जाम् अव॑ रुन्धते , प्र॒जाव्ँ वि॑न्दन्ते , प्र॒जाव॑न्तो भवन्ति ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>य᳓ एवव्ँ᳓ विद्वाँ᳓स एकादशरात्र᳓म् आ᳓सते , प्रजा᳓म् एव᳓ सृजन्ते ,  
+प्रजा᳓म् अ᳓व रुन्धते , प्रजाव्ँ᳓ विन्दन्ते , प्रजा᳓वन्तो भवन्ति ।</details>
 
 <details><summary>Keith</summary>
 
 Those, who knowing thus perform (the rite) of eleven nights, create offspring, win offspring, procure offspring, and possess offspring.
 </details>
-
-
 
 ## विधानम्
 
@@ -81,9 +76,9 @@ Those, who knowing thus perform (the rite) of eleven nights, create offspring, w
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योति॑र् अतिरा॒त्रो भ॑वति ।  
-ज्योति॑र् ए॒व पु॒रस्ता॑द् दधते ।
-सु॒व॒र्गस्य॑ लो॒कस्यानु॑ख्यात्यै ।
+ज्यो᳓तिर् अतिरात्रो᳓ भवति ।  
+ज्यो᳓तिर् एव᳓ पुर᳓स्ताद् दधते ।
+सुवर्ग᳓स्य लोक᳓स्या᳓नुख्यात्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -91,13 +86,11 @@ Those, who knowing thus perform (the rite) of eleven nights, create offspring, w
 There is an Atiratra with the form of light; verily they place light before them, to reveal the world of heaven.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृष्ठ्य॑ष्+++(=पृष्ठयुक्तः)+++ षड॒हो भ॑वति ।  
-षड् वा ऋ॒तवः॑। षट्पृ॒ष्ठानि॑ ।  
-पृ॒ष्ठैर्+++(=अनुप्रयुज्यमानसामभिः)+++ ए॒वर्तून् अन्वारो॑हन्ति + ऋ॒तुभि॑स् सव्ँवत्स॒रम् । ते सव्ँ॑वत्स॒र ए॒व प्रति॑ तिष्ठन्ति ।  
+पृ᳓ष्ठ्यष्+++(=पृष्ठयुक्तः)+++ षडहो᳓ भवति ।  
+ष᳓ड् वा᳓ ऋत᳓वः। ष᳓ट्पृष्ठा᳓नि ।  
+पृष्ठै᳓र्+++(=अनुप्रयुज्यमानसामभिः)+++ एव᳓र्तू᳓न् अ᳓न्वा᳓रोहन्ति + ऋतु᳓भिस् सव्ँवत्सर᳓म् । ते᳓ सव्ँवत्सर᳓ एव᳓ प्र᳓ति तिष्ठन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -107,8 +100,8 @@ There is a Prsthva Sadaha; the seasons are six, the Prsthas are six; verily by t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-च॒तु॒र्विँ॒शो +++(एकाहो)+++ भ॑वति ।  
-चतु॑र्विँशत्यक्षरा गाय॒त्री [20] । गा॒य॒त्रम् ब्र॑ह्मवर्च॒सम् । गा॑यत्रि॒याम् ए॒व ब्र॑ह्मवर्च॒से प्रति॑ तिष्ठन्ति ।  
+चतुर्विँशो᳓ +++(एकाहो)+++ भवति ।  
+च᳓तुर्विँशत्यक्षरा गायत्री᳓ [20] । गायत्र᳓म् ब्रह्मवर्चस᳓म् । गा᳓यत्रिया᳓म् एव᳓ ब्रह्मवर्चसे᳓ प्र᳓ति तिष्ठन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -116,12 +109,10 @@ There is a Prsthva Sadaha; the seasons are six, the Prsthas are six; verily by t
 There is a Caturvinśa; the Gayatri has twenty-four syllables [2], splendour is connected with the Gayatri; verily in the Gayatri and in splendour they find support.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-च॒तु॒श्च॒त्वा॒रिँ॒शो भ॑वति ।
-चतु॑श्चत्वारिँशदक्षरा त्रि॒ष्टुक् । इ॑न्द्रि॒यन् त्रि॒ष्टुप् । त्रि॒ष्टुभ्य् ए॒वेन्द्रि॒ये प्रति॑ तिष्ठन्ति ।  
+चतुश्चत्वारिँशो᳓ भवति ।
+च᳓तुश्चत्वारिँशदक्षरा त्रिष्टु᳓क् । इ᳓न्द्रिय᳓न् त्रिष्टु᳓प् । त्रिष्टु᳓भ्य् एवे᳓न्द्रिये᳓ प्र᳓ति तिष्ठन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -131,8 +122,8 @@ There is a Catucśatvarinśa; the Tristubh has forty-four syllables, the Tristub
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ष्टा॒च॒त्वा॒रिँ॒शो भ॑वति ।  
-अ॒ष्टाच॑त्वारिँशदक्षरा॒ जग॑ती । जाग॑ताᳶ प॒शवः । जग॑त्याम् ए॒व प॒शुषु॒ प्रति॑ तिष्ठन्ति ।  
+अष्टाचत्वारिँशो᳓ भवति ।  
+अष्टा᳓चत्वारिँशदक्षरा ज᳓गती । जा᳓गताᳶ पश᳓वः᳓ । ज᳓गत्याम् एव᳓ पशु᳓षु प्र᳓ति तिष्ठन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -140,13 +131,11 @@ There is a Catucśatvarinśa; the Tristubh has forty-four syllables, the Tristub
 There is an Astacatvarinśa; the Jagati has forty-eight syllables, cattle are connected with the Jagati; verily in the Jagati and in cattle they find support.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒का॒द॒श॒रा॒त्रो भ॑वति ।  
-पञ्च॒ वा ऋ॒तवः॑। आ॒र्त॒वाᳶ +++(प्रभावाः)+++ पञ्च॑  ।  
-ऋ॒र्तुष्व् ए॒वार्त॒वेषु॑ सव्ँवत्स॒रे प्र॑ति॒ष्ठाय॑, प्र॒जाम् अव॑ रुन्धते ।  
+एकादशरात्रो᳓ भवति ।  
+प᳓ञ्च वा᳓ ऋत᳓वः। आर्तवाᳶ᳓ +++(प्रभावाः)+++ प᳓ञ्च  ।  
+ऋर्तु᳓ष्व् एवा᳓र्तवे᳓षु सव्ँवत्सरे᳓ प्रतिष्ठा᳓य, प्रजा᳓म् अ᳓व रुन्धते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -156,14 +145,11 @@ There is an Astacatvarinśa; the Jagati has forty-eight syllables, cattle are co
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ति॒रा॒त्राव् अ॒भितो॑ भवतः ।  
-प्र॒जायै॒ परि॑गृहीत्यै ॥ [21]  
+अतिरात्रा᳓व् अभि᳓तो भवतः ।  
+प्रजा᳓यै प᳓रिगृहीत्यै ॥ [21]  
 </details>
 
 <details><summary>Keith</summary>
 
 There are Atiratras on either side, to secure offspring.
 </details>
-
-
-

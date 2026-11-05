@@ -11,21 +11,18 @@ title: ०५ हविःप्रोक्षणादिः
 1अप उत्पुनाति - देवो व इति गायत्र्या । 'सावित्रियर्चा' (तै.ब्रा. 3.2.5) इति ब्राह्मणम् ।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-दे॒वो व॑स् सवि॒तोत्पु॑ना॒त्व्  
-अच्छि॑द्रेण प॒वित्रे॑ण +++(सूर्येण)+++ ।   
-वसो॒स्+++(=वासहेतोः)+++ सूर्य॑स्य र॒श्मिभिः॑  ॥+++(५)+++
+देवो᳓ वस् सवितो᳓त्पुनात्व्  
+अ᳓च्छिद्रेण पवि᳓त्रेण +++(सूर्येण)+++ ।   
+व᳓सोस्+++(=वासहेतोः)+++ सू᳓र्यस्य रश्मि᳓भिः  ॥+++(५)+++
 
 +++('असौ वा आदित्योच्छिद्रं पवित्रम्' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ।)+++
 </details>
-
 </div>
 
-<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
-
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
 <details open><summary><h4>देवो वस् सविता …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -59,7 +56,6 @@ with the rays of the bright sun.
 </div>
 </details>
 </details>
-
 </div>  
 
 ____
@@ -76,8 +72,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे)+++ आपो॑ देवीर् अग्रेपुवो, अ॒ग्रे॒गु॒वो+++(=अग्रेसराः)+++ ऽग्र॑ इ॒मय्ँ य॒ज्ञन् न॑यत ।  
-अग्रे॑ य॒ज्ञप॑तिन् धत्त ।
++++(हे)+++ आ᳓पो देवीर् अग्रेपुवो, अग्रेगुवो᳓+++(=अग्रेसराः)+++ ऽग्र इमय्ँ᳓ यज्ञ᳓न् नयत ।  
+अ᳓ग्रे यज्ञ᳓पतिन् धत्त ।
 </details>
 
 <details><summary>Keith</summary>
@@ -93,8 +89,8 @@ Ye divine waters, that go in front and first purify, forward lead this sacrifice
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यु॒ष्मान् इन्द्रो॑ ऽवृणीत +++(अपाम् अभि-प्रवृत्ते)+++ वृत्र॒-तूर्ये॑+++(=वधे)+++  ।  
-यू॒यम् इन्द्र॑म् अवृणीध्वव्ँ वृत्र॒-तूर्ये॑  ।
+युष्मा᳓न् इ᳓न्द्रो ऽवृणीत +++(अपाम् अभि-प्रवृत्ते)+++ वृत्र-तू᳓र्ये+++(=वधे)+++  ।  
+यूय᳓म् इ᳓न्द्रम् अवृणीध्वव्ँ वृत्र-तू᳓र्ये  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -139,7 +135,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रोक्षि॑तास् स्थ ।
+प्रो᳓क्षितास् स्थ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -171,8 +167,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॑ वो॒ जुष्ट॒म्+++(=प्रियं)+++ +++(यथा तथा)+++ प्रोक्षा॑मि  ।  
-अ॒ग्नीषोमा॑भ्या॒म् [वो॒ जुष्ट॒म् प्रोक्षा॑मि ] +++(रक्ष॑सा॒म् अप॑हत्यै)+++।
+अग्न᳓ये वो जु᳓ष्टम्+++(=प्रियं)+++ +++(यथा तथा)+++ प्रो᳓क्षामि  ।  
+अग्नी᳓षो᳓माभ्याम् [वो जु᳓ष्टम् प्रो᳓क्षामि ] +++(र᳓क्षसाम् अ᳓पहत्यै)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -203,11 +199,10 @@ ____
 पात्राणि प्रोक्षति
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/shundhadhvam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/shundhadhvam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पात्राणि!)+++ शुन्ध॑ध्व॒न् दैव्या॑य॒ कर्म॑णे देवय॒ज्यायै॑ ।
++++(पात्राणि!)+++ शु᳓न्धध्वन् दै᳓व्याय क᳓र्मणे देवयज्या᳓यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -229,7 +224,6 @@ Be ye pure for the divine rite, the sacrifice to the gods.
 
 1सान्नाय्यपात्राणि प्रोक्षति - शुन्धध्वमिति ॥ शुन्ध शुद्धौ, उदात्तेत्, व्यत्ययेनात्मनेपदम् । यद्वा, शुन्ध शौचकर्मणि ; अस्माण्ण्यन्तात्कर्मकर्तर्यात्मनेपदम् । 'यक्चिणोः प्रतिषेधे णि श्रन्धिग्रन्थि' (पा.सू. 3.1.89 वा 1) इत्यादिना यक्प्रतिषेधः । 'बहुलं संज्ञाछन्दसोः' (उ.सू. 190) इति णिलुक् । लसार्वधातुकानुदात्तत्वे (पा.सू. 6.1.186) धातुस्वरः । देवानामिदं दैव्यं 'देवाद्यञञौ' (पा.सू. 4.1.85 वा 3) इति यञ्प्रत्ययः प्राग्दीव्यतीयः । ञित्त्वादाद्युदात्तत्वं । 'छन्दसि निष्टर्क्य' (पा.सू. 3.1.123) इत्यादौ देवयज्याशब्दो यप्रत्ययान्तो निपातितः । हे पात्राणि देवयज्यात्मने दैव्याय कर्मणे शुन्धध्वं शुद्धानि भवत, स्वयमेवात्मानं शोधयतेति वा । प्राधान्यख्यापनार्था देवशब्दावृत्तिः, साकल्यार्था वा, यथा 'निधीनां त्वा निधिपतिं हवामहे' (तै.सं. 7.4.12) इति ॥
 </details>
-
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -244,8 +238,7 @@ ____
 कृष्णाजिनमवधूनोति
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/avadhUtaM.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/avadhUtaM.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णाजिनम् अवधूनोति
@@ -253,7 +246,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव॑धूतँ॒ रक्षोऽव॑धूता॒ अरा॑त॒यः ।
+अ᳓वधूतँ र᳓क्षो᳓ऽवधूता अ᳓रातयः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -293,8 +286,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑त्या॒स् त्वग॑सि ।  
-प्रति॑ +++(तादृशीं)+++ त्वा॒+++(ं)+++ पृ॒थि॒वी +++(स्वस्या उपरि)+++ वे॑त्तु ।
+अ᳓दित्यास् त्व᳓गसि ।  
+प्र᳓ति +++(तादृशीं)+++ त्वा+++(ं)+++ पृथिवी᳓ +++(स्वस्या उपरि)+++ वेत्तु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -323,7 +316,6 @@ Thou art the skin of Aditi, may the earth' recognize thee [1].
 
 7कृष्णाजिनमवस्तृणाति - अदित्या इति ॥ अदितिः अखण्डनीया । कर्मणि क्तिन्, अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) । अखण्डितायाः पृथिव्यास्त्वगिव प्रियतममसि, अतस्त्वामास्तीर्णां पृथिवी प्रतिवेत्तु आत्मन उपरि तवावस्थानमनुजानातु न न्यक्कारयतु । सा तु माऽवमंस्त । पृथिवीशब्दो ङीषन्तोन्तोदात्तः ॥
 </details>
-
 </div>  
 
 ____
@@ -335,8 +327,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒धि॒-षव॑णम्+++(=निपीडनम्)+++ असि वानस्प॒त्यम् ।  
-प्रति॑ त्वा+++(ं)+++ ऽदि॑त्या॒स् त्वग् +++(कृष्णाजिनरूपम्)+++ वे॑त्तु ।  
+अधि-ष᳓वणम्+++(=निपीडनम्)+++ असि वानस्पत्य᳓म् ।  
+प्र᳓ति त्वा᳓+++(ं)+++ ऽदित्यास् त्व᳓ग् +++(कृष्णाजिनरूपम्)+++ वेत्तु ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -375,10 +367,10 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे पुरोडाशीयसमूह!)+++ अ॒ग्नेस् त॒नूर् अ॑सि  
-वा॒चो वि॒सर्ज॑नम् ।  
-+++(→य॒दा हि प्र॒जा ओष॑धीनाम् अ॒श्ञन्ति॑,  
-अथ॒ वाचव्ँ॒ विसृ॑जन्ते ।)+++
++++(हे पुरोडाशीयसमूह!)+++ अग्ने᳓स् तनू᳓र् असि  
+वाचो᳓ विस᳓र्जनम् ।  
++++(→यदा᳓ हि᳓ प्रजा᳓ ओ᳓षधीनाम् अश्ञ᳓न्ति,  
+अथ वा᳓चव्ँ वि᳓सृजन्ते ।)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -394,7 +386,7 @@ Thou art the body of Agni, loostener of speech.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒व-वी॑तये+++(=भोगाय)+++ त्वा गृह्णा॒मि ।  +++(दासीभारादित्वात् (पा.सू. 6.2.42) पूर्वपदप्रकृतिस्वरत्वम् ॥)+++
+देव᳓-वीतये+++(=भोगाय)+++ त्वा गृह्णामि᳓ ।  +++(दासीभारादित्वात् (पा.सू. 6.2.42) पूर्वपदप्रकृतिस्वरत्वम् ॥)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -430,7 +422,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(मुसल!)+++ अद्रि॑र् असि वानस्प॒त्यः ।
++++(मुसल!)+++ अ᳓द्रिर् असि वानस्पत्यः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -445,7 +437,7 @@ Thou art the stone of wood.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स इ॒दन् दे॒वेभ्यो॑ ह॒व्यँ सु॒शमि॑+++(=सु शाम्यतीति)+++  शमि॒ष्व+++(=शामय)+++ ।
+स᳓ इद᳓न् देवे᳓भ्यो हव्यँ᳓ सुश᳓मि+++(=सु शाम्यतीति)+++  शमिष्व᳓+++(=शामय)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -481,8 +473,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इष॒म् आ  व॑द  +++(देवेभ्यः!)+++।  
-ऊर्ज॒म्+++(=रसं)+++ आ व॑द  ।
+इ᳓षम् आ᳓  वद  +++(देवेभ्यः!)+++।  
+ऊ᳓र्जम्+++(=रसं)+++ आ᳓ वद  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -515,7 +507,7 @@ Utter food, utter strength;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे यज्ञायुधानि!)+++ द्यु॒मद् +++(अन्नं)+++ व॑दत ।
++++(हे यज्ञायुधानि!)+++ द्युम᳓द् +++(अन्नं)+++ वदत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -540,9 +532,9 @@ Make ye glorious sounds.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒यँ +++(शत्रु)+++स॑ङ्घा॒तञ् जे॑ष्म+++(=जयेम)+++ ।  
-+++(मनो॑श् श्र॒द्धा-दे॑वस्य॒ यज॑मानस्यासुर॒-घ्नी वाग्  
-य॑ज्ञायु॒धेषु॒ प्रवि॑ष्टा ऽऽसीत् ।)+++
+वयँ᳓ +++(शत्रु)+++सङ्घात᳓ञ् जेष्म+++(=जयेम)+++ ।  
++++(म᳓नोश् श्रद्धा᳓-देवस्य य᳓जमानस्यासुर-घ्नी᳓ वा᳓ग्  
+यज्ञायुधे᳓षु प्र᳓विष्टा ऽऽसीत् ।)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -572,11 +564,10 @@ ____
 शूर्पम् उपयच्छति
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/varSha-vRddham.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/varSha-vRddham.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒र्ष-वृ॑द्धम् असि।
+वर्ष᳓-वृद्धम् असि।
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -598,7 +589,6 @@ Thou art made to grow by the rains.
 
 वर्षेण वर्धितमसि । पूर्ववण्णिलुक् (उ.सू. 190) । 'तृतीया कर्मणि' (पा.सू. 6.2.48) इति पूर्वपदप्रकृतिस्वरत्वम् । वर्षशब्द उञ्छादित्वादन्तोदात्तः (पा.सू. 6.1.160) ॥
 </details>
-
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -615,7 +605,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रति॑ त्वा व॒र्षवृ॑द्धव्ँ वेत्तु ।
+प्र᳓ति त्वा वर्ष᳓वृद्धव्ँ वेत्तु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -647,8 +637,8 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परा॑पूतँ॒ रक्ष॒ᳶ  
-परा॑पूता॒ अरा॑तयः  ।
+प᳓रापूतँ र᳓क्षᳶ  
+प᳓रापूता अ᳓रातयः  ।
 
 +++('यज्ञँ रक्षाँस्यनुप्राविशन्' (तै.ब्रा. 3.2.5) इति ब्राह्मणम् ॥)+++
 </details>
@@ -682,7 +672,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रक्ष॑साम् भा॒गो॑ऽसि ।
+र᳓क्षसाम् भागो᳙ऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -714,7 +704,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒युर् वो॒ +++(तण्डुलेभ्यः कणान्)+++ विवि॑नक्तु ।
+वायु᳓र् वो +++(तण्डुलेभ्यः कणान्)+++ वि᳓विनक्तु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -744,11 +734,10 @@ ____
 तण्डुलान् [कृष्णाजिने?] प्रस्कन्दयति
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitA.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitA.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वो व॑स् सवि॒ता हिर॑ण्यपाणि॒ᳶ प्रति॑गृह्णातु ॥ [8]
+देवो᳓ वस् सविता᳓ हि᳓रण्यपाणिᳶ प्र᳓तिगृह्णातु ॥ [8]
 </details>
 
 <details><summary>Keith</summary>
@@ -770,7 +759,6 @@ Let the god Savitr of golden hands, seize you.
 
 17तण्डुलान् प्रस्कन्दयति - देवो व इति ॥ देवस्सविता सर्वस्य प्रेरकः हिरण्यपाणिः हिरण्याभरणपाणिः युष्मान् प्रतिगृह्णातु प्रतिगृह्य रक्षतु । हिरण्यस्य विकारो वलयाङ्गुलीयकादिः पाण्योर्य स्येति समुदायविकारषष्ठ्या (पा.सू. 2.2.24 वा 13) विगृह्य 'सप्तम्युपमानपूर्वपदस्य बहुव्रीहिर्वाच्यो वाचोत्तरपदलोपश्च' (पा.सू. 2.2.24 वा 12) इति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । 'उशीरदाशेरकपालपलालशैवालश्यामाकशरीरशरावहृदयहिरण्यारण्यापत्यदेवराणाम्' (फि.सू. 67) इति हिरण्यशब्द आद्युदात्तः । 'अन्तरिक्षादिव' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ॥
 </details>
-
 </div>  
 
 इति पञ्चमोनुवाकः ॥

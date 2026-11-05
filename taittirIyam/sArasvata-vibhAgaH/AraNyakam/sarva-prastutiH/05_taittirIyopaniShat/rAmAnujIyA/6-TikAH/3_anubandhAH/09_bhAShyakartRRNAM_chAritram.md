@@ -27,7 +27,6 @@ title = "०९ भाष्यकर्तॄणां चारित्रम
 विस्तारः - [TW](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/persons/sage-bloodlines/AngIrasaH/prajAH_khyAtyAH/bharadvAjaH/bhAradvAjaH/articles/kUra-nArAyaNaH_ranganAthaH)।
 </details>
 
-
 353 
 
 अतः पूर्वोक्तयोः श्रीवत्साङ्कमुन्योः अन्यतरेण  

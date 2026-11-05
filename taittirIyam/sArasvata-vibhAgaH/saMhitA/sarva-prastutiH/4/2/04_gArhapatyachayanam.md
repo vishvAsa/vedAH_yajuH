@@ -7,7 +7,6 @@ title = "०४ गार्हपत्यचयनम्"
 
 चतुर्थकाण्डे द्वितीयप्रपाठके चतुर्थोऽनुवाकः
 
-
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (अथ चतुर्थकाण्डे द्वितीयप्रपाठके चतुर्थोऽनुवाकः) ।
@@ -17,10 +16,10 @@ title = "०४ गार्हपत्यचयनम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपे॑त॒, वीत॒, वि च॑ सर्प॒तातो॒  
-येऽत्र॒ स्थ पु॑रा॒णा ये च॒ नूत॑नाः ।  
-अदा॑द् इ॒दय्ँ य॒मो॑ऽव॒सान॑म् पृथि॒व्या  
-अक्र॑न्नि् इ॒मम् पि॒तरो॑ लो॒कम् अ॑स्मै ।  
+अ᳓पेत, वी᳓त, वि᳓ च सर्पता᳓तो  
+ये᳓ऽत्र स्थ᳓ पुराणा᳓ ये᳓ च नू᳓तनाः ।  
+अ᳓दाद् इदय्ँ᳓ यमो᳙ऽवसा᳓नम् पृथिव्या᳓  
+अ᳓क्रन्नि् इम᳓म् पित᳓रो लोक᳓म् अस्मै ।  
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -28,7 +27,6 @@ title = "०४ गार्हपत्यचयनम्"
 Go away, depart, and creep away from here.
 You all that are stationed here from old and you that are new, Yama has given him a place of this earth. The manes fashioned this world for him.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -52,7 +50,7 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेर्भस्मा॑सि ।
+अग्ने᳓र्भ᳓स्मासि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -67,7 +65,7 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेᳶ पुरी॑षमसि ।
+अग्नेᳶ᳓ पु᳓रीषमसि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -91,7 +89,7 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सं॒ज्ञान॑मसि +++(निवपति)+++।
+संज्ञा᳓नमसि +++(निवपति)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -108,8 +106,8 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-का॒म॒धर॑णम् +++(असि)+++ ।  
-मयि॑ ते काम॒धर॑णम्भूयात् ।  
+कामध᳓रणम् +++(असि)+++ ।  
+म᳓यि ते कामध᳓रणम्भूयात् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -135,9 +133,9 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सय्ँया वᳶ॑ प्रि॒यास्त॒नुव॒स्सम्प्रि॒या हृ॑दयानि वः ।  
+सय्ँ᳓या᳓ वᳶ प्रिया᳓स्तनु᳓वस्स᳓म्प्रिया᳓ हृदयानि वः ।  
 
-आ॒त्मा वो॑ अस्तु [14]  सम्प्रि॑य॒स्सम्प्रि॑यास्त॒नुवो॒ मम॑ ।  
+आत्मा᳓ वो अ᳓स्तु᳓ [14]  स᳓म्प्रियस्स᳓म्प्रियास्तनु᳓वो म᳓म ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -162,8 +160,8 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒यँ सो अ॒ग्निर्यस्मि॒न्त्सोम॒मिन्द्र॑स्सु॒तन्द॒धे ज॒ठरे॑ वावशा॒नः ।  
-स॒ह॒स्रियव्ँ॒वाज॒मत्य॒न्न सप्तिँ॑ सस॒वान्त्सन्त्स्तू॑यसे जातवेदः ।  
+अयँ᳓ सो᳓ अग्नि᳓र्य᳓स्मिन्त्सो᳓ममि᳓न्द्रस्सुत᳓न्दधे᳓ जठ᳓रे वावशानः᳓ ।  
+सहस्रि᳓यव्ँवा᳓जम᳓त्यन्न᳓ स᳓प्तिँ ससवा᳓न्त्स᳓न्त्स्तूयसे जातवेदः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -184,8 +182,8 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ दि॒वो अर्ण॒मच्छा॑ जिगा॒स्यच्छा॑ दे॒वाँ ऊ॑चिषे॒ धिष्णि॑या॒ ये ।  
-याᳶ प॒रस्ता॑द्रोच॒ने सूर्य॑स्य॒ याश्चा॒वस्ता॑दुप॒तिष्ठ॑न्त॒ आपः॑ ।  
+अ᳓ग्ने दिवो᳓ अ᳓र्णम᳓च्छा जिगास्य᳓च्छा देवाँ᳓ ऊचिषे धि᳓ष्णिया ये᳓ ।  
+याᳶ᳓ पर᳓स्ताद्रोचने᳓ सू᳓र्यस्य या᳓श्चाव᳓स्तादुपति᳓ष्ठन्त आ᳓पः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -206,8 +204,8 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॒ यत्ते॑ दि॒वि वर्चᳶ॑ पृथि॒व्याय्ँयदोष॑धीषु [15]  अ॒प्सु वा॑ यजत्र ।  
-येना॒न्तरि॑क्षमु॒र्वा॑त॒तन्थ॑ त्वे॒षस्स भा॒नुर॑र्ण॒वो नृ॒चक्षाः॑ ।  
+अ᳓ग्ने य᳓त्ते दिवि᳓ व᳓र्चᳶ पृथिव्याय्ँ᳓य᳓दो᳓षधीषु [15]  अप्सु᳓ वा यजत्र ।  
+ये᳓नान्त᳓रिक्षमुर्वा᳙तत᳓न्थ त्वेष᳓स्स᳓ भानु᳓रर्णवो᳓ नृच᳓क्षाः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -228,8 +226,8 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पु॒री॒ष्या॑सो अ॒ग्नयᳶ॑ प्राव॒णेभि॑स्स॒जोष॑सः ।  
-जु॒षन्ताँ॑ ह॒व्यमाहु॑तमनमी॒वा इषो॑ म॒हीः ।  
+पुरीष्या᳙सो अग्न᳓यᳶ प्रावणे᳓भिस्सजो᳓षसः ।  
+जुष᳓न्ताँ हव्य᳓मा᳓हुतमनमीवा᳓ इ᳓षो महीः᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -250,8 +248,8 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इडा॑मग्ने पुरु॒दँसँ॑ स॒निङ्गोश्श॑श्वत्त॒मँ हव॑मानाय साध ।  
-स्यान्न॑स्सु॒नुस्तन॑यो वि॒जावाग्ने॒ सा ते॑ सुम॒तिर्भू॑त्व॒स्मे ।  
+इ᳓डामग्ने पुरुदँ᳓सँ सनि᳓ङ्गो᳓श्शश्वत्तमँ᳓ ह᳓वमानाय साध ।  
+स्या᳓न्नस्सुनु᳓स्त᳓नयो विजा᳓वा᳓ग्ने सा᳓ ते सुमति᳓र्भूत्वस्मे᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -272,8 +270,8 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒यन्ते॒ योनि॑र्ऋ॒त्वियो॒ यतो॑ जा॒तो अरो॑चथाः ।  
-तञ्जा॒नन्न् [16]  अ॒ग्न॒ आ रो॒हाथा॑ नो वर्धया र॒यिम् ।  
+अय᳓न्ते यो᳓निरृत्वि᳓यो य᳓तो जातो᳓ अ᳓रोचथाः ।  
+त᳓ञ्जान᳓न्न् [16]  अग्न आ᳓ रोहा᳓था नो वर्धया रयि᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -300,7 +298,7 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चिद॑सि॒ , तया॑ दे॒वत॑याङ्गिर॒स्वद्ध्रु॒वा सी॑द ।  
+चि᳓दसि , त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓ सीद ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -320,7 +318,7 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परि॒चिद॑सि॒ , तया॑ दे॒वत॑याऽङ्गिर॒स्वद्ध्रु॒वा सी॑द ।
+प᳓रिचि᳓दसि , त᳓या देव᳓तयाऽङ्गिरस्व᳓द्ध्रुवा᳓ सीद ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -349,8 +347,8 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-लो॒कम्पृ॑ण छि॒द्रम्पृ॒णाथो॑ सीद शि॒वा त्वम् ।  
-इ॒न्द्रा॒ग्नी त्वा॒ बृह॒स्पति॑र॒स्मिन् योना॑वसीषदन् ।  
+लोक᳓म्पृण छिद्र᳓म्पृणा᳓थो सीद शिवा᳓ त्व᳓म् ।  
+इन्द्राग्नी᳓ त्वा बृ᳓हस्प᳓तिरस्मि᳓न् यो᳓नावसीषदन् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -371,8 +369,8 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता अ॑स्य॒ सूद॑दोहस॒स्सोमँ॑ श्रीणन्ति॒ पृश्ञ॑यः ।  
-जन्म॑न्दे॒वानाव्ँ॒विश॑स्त्रि॒ष्वा रो॑च॒ने दि॒वः ॥ [17]  
+ता᳓ अस्य सू᳓ददोहसस्सो᳓मँ श्रीणन्ति पृ᳓श्ञयः ।  
+ज᳓न्मन्देवा᳓नाव्ँवि᳓शस्त्रिष्वा᳓ रोचने᳓ दिवः᳓ ॥ [17]  
 </details>
 
 <details><summary>मूलम्</summary>

@@ -14,7 +14,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒षे त्वा॑ +++(ऽऽददामि)+++।
+इषे᳓ त्वा +++(ऽऽददामि)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -57,7 +57,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे पशो!)+++ उ॒प॒-वीर्+++(←वी गतौ)+++ अ॑सि ।  
++++(हे पशो!)+++ उप-वी᳓र्+++(←वी गतौ)+++ असि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -88,8 +88,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उप॑ +उ दे॒वान् दैवी॒र् विश॒ᳶ+++(→पशवः)+++ प्रागुः॑,  
-वह्नी॑र् उ॒शिजः॑+++(→कामयमाना [ऋत्विजः])+++ ।
+उ᳓प +उ देवा᳓न् दै᳓वीर् वि᳓शᳶ+++(→पशवः)+++ प्रा᳓गुः,  
+व᳓ह्नीर् उशि᳓जः+++(→कामयमाना [ऋत्विजः])+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -122,7 +122,7 @@ the priests, the eager ones.
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह॑स्पते +++(→ब्रह्मन्)+++! धा॒रया॒ वसू॑नि।
+बृ᳓हस्पते +++(→ब्रह्मन्)+++! धार᳓या व᳓सूनि।
 </details>
 
 <details><summary>Keith</summary>
@@ -137,7 +137,7 @@ O Bihaspati, guard wealth.
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे पशो!)+++ ह॒व्या ते॑ स्वदन्ताम्+++(←स्वद आस्वादने)+++।
++++(हे पशो!)+++ हव्या᳓ ते स्वदन्ताम्+++(←स्वद आस्वादने)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -169,7 +169,7 @@ Let thy oblations taste sweet.
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देव॑ त्वष्ट॒र्! वसु॑ रण्व+++(=रमय)+++।
+दे᳓व त्वष्टर्! व᳓सु रण्व+++(=रमय)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -184,7 +184,7 @@ O god Tvastr make pleasant our possessions.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रेव॑ती॒ +++(←रै+मतुम् →पशवः)+++! रम॑ध्वम् ॥
+रे᳓वती +++(←रै+मतुम् →पशवः)+++! र᳓मध्वम् ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -218,7 +218,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेर् ज॒नित्र॑म् असि ।
+अग्ने᳓र् जनि᳓त्रम् असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -244,7 +244,7 @@ Thou art the birthplace of Agni.
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे शकलौ!)+++ वृष॑णौ स्थः ।
++++(हे शकलौ!)+++ वृ᳓षणौ स्थः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -275,7 +275,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(अधरारणे!)+++ उ॒र्वश्य् अ॑सि ।
++++(अधरारणे!)+++ उर्व᳓श्य् असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -306,7 +306,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(उत्तरारणे!)+++ आ॒युर् अ॑सि, पु॒रू॒रवाः॑ ।
++++(उत्तरारणे!)+++ आयु᳓र् असि, पुरूर᳓वाः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -337,7 +337,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(अरणी!)+++ घृ॒तेना॒क्ते वृष॑णन् +++(अग्निं)+++ दधाथाम् ।
++++(अरणी!)+++ घृते᳓नाक्ते᳓ वृ᳓षणन् +++(अग्निं)+++ दधाथाम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -373,7 +373,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गा॒य॒त्रञ्छन्दोऽनु॒ प्र जा॑यस्व ।  
+गायत्र᳓ञ्छ᳓न्दो᳓ऽनु प्र᳓ जायस्व ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -399,8 +399,8 @@ Be born with the Gayatri metre,
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रैष्टु॑भम् [छन्दोऽनु॒ प्रजा॑यस्व ]।   
-जाग॑त॒ञ्छन्दोऽनु॒ प्र जा॑यस्व ।  
+त्रै᳓ष्टुभम् [छन्दोऽनु प्र᳓जायस्व ]।   
+जा᳓गतञ्छ᳓न्दो᳓ऽनु प्र᳓ जायस्व ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -430,22 +430,19 @@ _______
 भव॑तं [12]न॒स्सम॑नसौ॒ समो॑कसावरे॒पसौ॑ ।  मा य॒ज्ञँ हिँ॑सिष्ट॒म्मा य॒ज्ञप॑तिञ्जातवेदसौ शि॒वौ भ॑वतम॒द्य नः॑ ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/02_bhavataM_nas.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/02_bhavataM_nas.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 +++(मथिताग्ने, आहवनीयाग्ने च!)+++  
-भव॑तं न॒स् स-म॑नसौ॒  
-सम्-ओ॑कसाव्+++(=गृहौ)+++ अ-रे॒पसौ॑+++(←रेपस्=दुष्ट)+++ ।     
-मा य॒ज्ञँ हिँ॑सिष्ट॒म्  
-मा य॒ज्ञप॑तिञ् +++(हे)+++ जातवेदसौ ।  
-शि॒वौ भ॑वतम् अ॒द्य नः॑ ॥
+भ᳓वतं नस् स᳓-मनसौ  
+स᳓म्-ओकसाव्+++(=गृहौ)+++ अ-रेप᳓सौ+++(←रेपस्=दुष्ट)+++ ।     
+मा᳓ यज्ञँ᳓ हिँसिष्टम्  
+मा᳓ यज्ञ᳓पतिञ् +++(हे)+++ जातवेदसौ ।  
+शिवौ᳓ भवतम् अद्य᳓ नः ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/02_bhavataM_nas.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/02_bhavataM_nas.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -484,7 +481,6 @@ be ye two auspicious to-day with us.
 तादृशौ युवां अद्य अस्मिन्कर्मकाले नः अस्माकं शिवौ शान्तौ भवतम् । 'सद्यः परुत्' इत्यत्र इदमोद्यशब्दो निपात्यते । 'अग्निः पुरा भवत्यग्निं मथित्वा प्र हरति' इत्यादि ब्राह्मणम् ॥
 </details>
 </details>
-
 </div>
 
 _______
@@ -493,16 +489,14 @@ _______
 12प्रहृत्य स्रुवेणाभिजुहोति - अग्नावग्निरिति चतुष्पदया त्रिष्टुभा ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/03_agnAv_agnish.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/03_agnAv_agnish.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-अ॒ग्नाव् अ॒ग्निश् च॑रति॒ प्रवि॑ष्ट॒  
-ऋषी॑णाम् पु॒त्त्रो अ॑धिरा॒ज ए॒षः ।    
-स्वा॒हा॒-कृत्य॒ ब्रह्म॑णा ते जुहोमि॒  
-मा दे॒वाना॑म् मिथु॒या क॑र् भाग॒-धेय॑म् ॥ [13]
+अग्ना᳓व् अग्नि᳓श् चरति प्र᳓विष्ट  
+ऋ᳓षीणाम् पुत्त्रो᳓ अधिराज᳓ एषः᳓ ।    
+स्वाहा-कृ᳓त्य ब्र᳓ह्मणा ते जुहोमि  
+मा᳓ देवा᳓नाम् मिथुया᳓ कर् भाग-धे᳓यम् ॥ [13]
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -510,8 +504,7 @@ _______
 12प्रहृत्य स्रुवेणाभिजुहोति -
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/03_agnAv_agnish.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/03_agnAv_agnish.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -542,7 +535,6 @@ Do thou not spoil the share of the gods.
 यद्वा - ब्रह्म बृहत् इदमाज्यं जुहोमि । 'तृतीया च होश्छन्दसि' इति तृतीया । त्वं च तथा हुतस्सन् देवानां भागधेयं भागं मिथुया मा कः मिथ्या मा कः मा कार्षीः; मिथ्याकरर्ण स्तेयम् । 'मन्त्रे घस' इत्यादिना च्लेर्लुक् । 'भागरूपनामभ्यो धेयः' इति स्वार्थे धेयप्रत्ययः । यद्वा - मिथःकरणं मिधुयाकरणं परस्परसङ्करो भागानां, यथा वायव्यमिन्द्राय प्रदीयते, तथा ऐन्द्रं वायव इति, तथा मा कार्षीः । 'अव्ययादाप्सुपः' इति लुकं बाधित्वा 'सुपां सुलुक्' इत्यादिना विभक्तेर्याजादेशः ॥
 </details>
 </details>
-
 </div>
 
 इति तृतीये सप्तमोनुवाकः ॥  

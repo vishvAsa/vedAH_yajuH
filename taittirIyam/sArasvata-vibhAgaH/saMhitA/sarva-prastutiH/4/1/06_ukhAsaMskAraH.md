@@ -28,24 +28,24 @@ title = "०६ उखासंस्कारः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(उखे!!)+++ वस॑वस् त्वा धूपयन्तु  
-गाय॒त्रेण॒ छन्द॑साऽङ्गिर॒स्वत् +++(=अङ्गिरस इव)+++ ,
++++(उखे!!)+++ व᳓सवस् त्वा धूपयन्तु  
+गायत्रे᳓ण छ᳓न्दसाऽङ्गिरस्व᳓त् +++(=अङ्गिरस इव)+++ ,
 
-रु॒द्रास् त्वा॑ धूपयन्तु,  
-त्रैष्टु॑भेन॒ छन्द॑साऽङ्गिर॒स्वत् ,
+रुद्रा᳓स् त्वा धू᳓प᳓य᳓न्तु᳓,  
+त्रै᳓ष्टुभेन छ᳓न्दसाऽङ्गिरस्व᳓त् ,
 
-आ॒दि॒त्यास् त्वा॑ धूपयन्तु,  
-जाग॑तेन॒ छन्द॑साऽङ्गिर॒स्वत्  ।  
+आदित्या᳓स् त्वा धू᳓प᳓य᳓न्तु᳓,  
+जा᳓गतेन छ᳓न्दसाऽङ्गिरस्व᳓त्  ।  
 
-विश्वे॑ त्वा दे॒वा वै॑श्वान॒रा धू॑पय॒न्तु ,  
-आनु॑ष्टुभेन॒ छन्द॑साऽङ्गिर॒स्वत् ।
+वि᳓श्वे त्वा देवा᳓ वैश्वानरा᳓ धूपयन्तु᳓ ,  
+आ᳓नुष्टुभेन छ᳓न्दसाऽङ्गिरस्व᳓त् ।
 
-इन्द्र॑स् त्वा धूपयतु,  
-अ॒ङ्गि॒र॒स्वद्,  
+इ᳓न्द्रस् त्वा धूपयतु,  
+अङ्गिरस्व᳓द्,  
 
-विष्णु॑स् त्वा धूपयत्व् अङ्गिर॒स्वत्
+वि᳓ष्णुस् त्वा धूपयत्व् अङ्गिरस्व᳓त्
 
-वरु॑णस्त्वा धूपयत्व् अङ्गिर॒स्वत् ।  
+व᳓रुणस्त्वा धूपयत्व् अङ्गिरस्व᳓त् ।  
 </details>
 
 <details open><summary>विश्वास-टिप्पनी</summary>
@@ -110,9 +110,9 @@ title = "०६ उखासंस्कारः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑तिस्त्वा दे॒वी वि॒श्वदे॑व्यावती+++(=तद्-योग्यतावतीः)+++  
-पृथि॒व्यास् स॒धस्थे॑  
-ऽङ्गिर॒स्वत् **ख॑नत्व् अवट** ।  
+अ᳓दितिस्त्वा देवी᳓ विश्व᳓देव्यावती+++(=तद्-योग्यतावतीः)+++  
+पृथिव्या᳓स् सध᳓स्थे  
+ऽङ्गिरस्व᳓त् **खनत्व् अवट** ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -144,10 +144,10 @@ title = "०६ उखासंस्कारः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वाना॑न् त्वा॒ पत्नी॑र् [22]   
-दे॒वीर् वि॒श्वदे॑व्यावतीᳶ  
-पृथि॒व्यास् स॒धस्थे॑  
-ऽङ्गिर॒स्वद्+++(=अङ्गिरस इव)+++ द॑धतूखे ।
+देवा᳓नान् त्वा प᳓त्नीर् [22]   
+देवी᳓र् विश्व᳓देव्यावतीᳶ  
+पृथिव्या᳓स् सध᳓स्थे  
+ऽङ्गिरस्व᳓द्+++(=अङ्गिरस इव)+++ दधतूखे ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -183,9 +183,9 @@ title = "०६ उखासंस्कारः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धि॒षणा॑स् त्वा दे॒वीर् वि॒श्व-दे॑व्यावतीᳶ  
-पृथि॒व्यास् स॒धस्थे॑  
-ऽङ्गिर॒स्वद् **अ॒भीन्ध॑ताम्** उखे।  
+धिष᳓णास् त्वा देवी᳓र् विश्व᳓-देव्यावतीᳶ  
+पृथिव्या᳓स् सध᳓स्थे  
+ऽङ्गिरस्व᳓द् **अभी᳓न्धताम्** उखे।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -200,10 +200,10 @@ title = "०६ उखासंस्कारः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ग्नास् त्वा॑ दे॒वीर्  
-वि॒श्वदे॑व्यावतीᳶ  
-पृथि॒व्यास् स॒धस्थे॑  
-ऽङ्गिर॒स्वच् **छ्र॑पयन्तूखे** ।  
+ग्ना᳓स् त्वा देवी᳓र्  
+विश्व᳓देव्यावतीᳶ  
+पृथिव्या᳓स् सध᳓स्थे  
+ऽङ्गिरस्व᳓च् **छ्रपयन्तूखे** ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -218,7 +218,7 @@ title = "०६ उखासंस्कारः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरू॑त्रयः [त्वा दे॒वीर्वि॒श्वदे॑व्यावतीᳶ पृथि॒व्यास्स॒धस्थे॑ऽङ्गिर॒स्वत्प॑चन्तूखे ।]
+व᳓रूत्रयः [त्वा देवी᳓र्विश्व᳓देव्यावतीᳶ पृथिव्या᳓स्सध᳓स्थेऽङ्गिरस्व᳓त्पचन्तूखे ।]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -240,9 +240,9 @@ title = "०६ उखासंस्कारः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जन॑यस्त्वा दे॒वीर्वि॒श्वदे॑व्यावतीᳶ  
-पृथि॒व्यास् स॒धस्थे॑  
-ऽङ्गिर॒स्वत् **प॑चन्तूखे** ।  
+ज᳓नयस्त्वा देवी᳓र्विश्व᳓देव्यावतीᳶ  
+पृथिव्या᳓स् सध᳓स्थे  
+ऽङ्गिरस्व᳓त् **पचन्तूखे** ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -260,19 +260,16 @@ title = "०६ उखासंस्कारः"
 कल्पः — ‘मित्रैतामुखां पचेति पच्यमानां तिसृभिर्मैत्रीभिरुपचरति’ इति।    
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/02_mitraitAm_ukhAm.md">
-
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/02_mitraitAm_ukhAm.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 मि᳓त्रैता᳓म् उखा᳓म् **पच**+एषा᳓ मा᳓ भेदि ।  
 एता᳓न्ते **प᳓रि ददाम्य्** अ᳓भित्त्यै ।
 
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/02_mitraitAm_ukhAm.md">
-
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/02_mitraitAm_ukhAm.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -288,11 +285,9 @@ title = "०६ उखासंस्कारः"
 एतामुखामभित्यै भेदाभावाय ते तुभ्यं परिददामि परित्राणाय ददामि।
 </details>
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/03_abhImAm_mahinA.md">
-
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/03_abhImAm_mahinA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अभी᳓मा᳓म् [23]  महिना᳓ दि᳓वम्  
@@ -300,7 +295,6 @@ title = "०६ उखासंस्कारः"
 उत᳓ श्र᳓वसा पृथिवी᳓म् ।
 
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -308,8 +302,7 @@ title = "०६ उखासंस्कारः"
 अथ द्वितीयामाह— अभिमामिति।
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/03_abhImAm_mahinA.md">
-
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/03_abhImAm_mahinA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -322,11 +315,9 @@ title = "०६ उखासंस्कारः"
 मित्र इमामुखामभिबभूवाभितः प्राप्तवान् ।   कीदृशो मित्रः, सप्रथाः सविस्तारः प्रचुरकीर्तिरित्यर्थः ।   कीदृशीमिमां, महिनां दिवं महिम्ना द्युलोक-सदृशीम् ।   उतापि च श्रवसा पृथिवीं श्रवणेन पृथिवीसदृशीम्।
 </details>
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
-
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 मित्र᳓स्य चर्षणी+++(मनुष्य)+++-**धृ᳓तः**  
@@ -334,11 +325,9 @@ title = "०६ उखासंस्कारः"
 **सत्यं᳓** चित्र᳓-श्रवस्तमम् ॥
 
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
-
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -358,7 +347,6 @@ title = "०६ उखासंस्कारः"
 **मित्रस्य** **देवस्य** मित्रणादिकृतः **चर्षणीधृतः** मनुष्याणां धारयितुः **श्रवः** अन्नं यशो वा **सानसिं** सननीयं सर्वेषां, देयं वा सर्वेभ्यः । व्यत्ययेन 'स्वमोर्नपुंसकात्' इति लुक् ङि प्रवर्तते । **सत्यम्** अविनश्वरं **चित्रश्रवस्तमं** अतिशयेन चित्रं चायनीयं श्रवणमस्येति चायनीयः । यशस्तमं वा । तस्मात्त्वामेव यजामहे इति ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -366,8 +354,7 @@ title = "०६ उखासंस्कारः"
 कल्पः – “पक्वां देवस्त्वा सवितोद्वपत्वित्युद्वास्य” इति।   
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/05_devastvA_savitodvapatu.md">
-
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/05_devastvA_savitodvapatu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 देव᳓स् त्वा सवितो᳓द्वपतु  
@@ -375,11 +362,9 @@ title = "०६ उखासंस्कारः"
 सु-बाहु᳓र् उत᳓ श᳓क्त्या ।
 
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/05_devastvA_savitodvapatu.md">
-
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/05_devastvA_savitodvapatu.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -393,7 +378,6 @@ title = "०६ उखासंस्कारः"
 १८१० सवित्रा प्रेरितः  सन्नेनां ब्रह्मणा मन्त्रेण देवताभिश्च सहो (द्वपत्यु) द्वपनं कृतवान्भवति।
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -408,8 +392,8 @@ title = "०६ उखासंस्कारः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(उखे!!)+++ **अप॑द्यमाना**+++(=अभग्ना)+++ पृथि॒व्य्! आशा॒ दिश॒ **आ पृ॑ण** ।  
-**उत्ति॑ष्ठ** बृह॒ती **भ॑वो॒र्ध्वा ति॑ष्ठ** ध्रु॒वा त्वम् ।  
++++(उखे!!)+++ **अ᳓पद्यमाना**+++(=अभग्ना)+++ पृथिव्य्! आ᳓शा दि᳓श **आ᳓ पृण** ।  
+**उ᳓त्तिष्ठ** बृहती᳓ **भवोर्ध्वा᳓ तिष्ठ** ध्रुवा᳓ त्व᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -443,17 +427,17 @@ title = "०६ उखासंस्कारः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वस॑व॒स् त्वा च्छृ॑न्दन्तु  
-गाय॒त्रेण॒ छन्द॑साऽङ्गिर॒स्वत् ,
+व᳓सवस् त्वा᳓ च्छृन्दन्तु  
+गायत्रे᳓ण छ᳓न्दसाऽङ्गिरस्व᳓त् ,
 
-रु॒द्रास्त्वा च्छृ॑न्दन्तु॒  
-त्रैष्टु॑भेन॒ छन्द॑साऽङ्गिर॒स्वत्,  
+रुद्रा᳓स्त्वा᳓ च्छृन्दन्तु  
+त्रै᳓ष्टुभेन छ᳓न्दसाऽङ्गिरस्व᳓त्,  
 
-आ॒दि॒त्यास् त्वा च्छृ॑न्दन्तु॒  
-जाग॑तेन॒ छन्द॑साऽङ्गिर॒स्वत् ।  
+आदित्या᳓स् त्वा᳓ च्छृन्दन्तु  
+जा᳓गतेन छ᳓न्दसाऽङ्गिरस्व᳓त् ।  
 
-विश्वे॑ त्वा दे॒वा वै॑श्वान॒रा आच्छृ॑न्द॒न्तु,  
-आनु॑ष्टुभेन॒ छन्द॑साऽङ्गिर॒स्वत् ॥
+वि᳓श्वे त्वा देवा᳓ वैश्वानरा᳓ आ᳓च्छृन्दन्तु᳓,  
+आ᳓नुष्टुभेन छ᳓न्दसाऽङ्गिरस्व᳓त् ॥
 </details>
 
 <details><summary>मूलम्</summary>

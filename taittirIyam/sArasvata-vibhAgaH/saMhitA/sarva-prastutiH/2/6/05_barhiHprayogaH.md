@@ -1,6 +1,5 @@
 +++
 title = "०५ बर्हिःप्रयोगः"
-
 +++
 प्रजापतिर्ऋषिः
 
@@ -13,9 +12,9 @@ title = "०५ बर्हिःप्रयोगः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वा॒दिनो॑ वदन्ति -  
-"अ॒द्भिर् ह॒वीँषि॒ प्रौक्षीः॑ ।  
-केना॒प?" इति॒ ,  
+ब्रह्मवादि᳓नो वदन्ति -  
+"अद्भि᳓र् हवीँ᳓षि प्रौ᳓क्षीः ।  
+के᳓नाप᳓?" इ᳓ति ,  
 </details>
 
 <details><summary>Keith</summary>
@@ -31,8 +30,8 @@ The theologians say, 'Thou hast sprinkled the offerings with water;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"ब्रह्म॒णे"ति॑ ब्रूयाद् -  
-अ॒द्भिर् ह्य् ए॒॑व ह॒वीँषि॑ प्रो॒क्षति॒, ब्रह्म॑णा॒ऽपः।
+"ब्र᳓ह्मणे᳓"ति ब्रूयाद् -  
+अद्भि᳓र् ह्य् ए᳓व᳓ हवीँ᳓षि प्रोक्ष᳓ति, ब्र᳓ह्मणाऽपः᳓।
 </details>
 
 <details><summary>Keith</summary>
@@ -73,7 +72,7 @@ but the waters with what?' 'With the holy power (Brahman)', he should say, for v
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ध्माब॒र्हिᳶ प्रोक्ष॑ति ।   
+इध्मा᳓बर्हिᳶ᳓ प्रो᳓क्षति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -88,7 +87,7 @@ He sprinkles the kindling-wood and the sacrificial strew;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मेध्य॑म् ए॒वैन॑त् करोति ।  
+मे᳓ध्यम् एवै᳓नत् करोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -115,7 +114,7 @@ verily he makes it pure.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वेदि॒म् प्रोक्ष॑ति ।  
+वे᳓दिम् प्रो᳓क्षति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -130,8 +129,8 @@ He sprinkles the altar, the altar was rough, hairless, and impure;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒क्षा वा ए॒षाऽलो॒मका॑ऽमे॒ध्या ।  
-यद् वेदि॒र् - मेध्या॑म् ए॒वैना॑ङ् करोति ।
+ऋक्षा᳓ वा᳓ एषा᳓ऽलोम᳓काऽमेध्या᳓ ।  
+य᳓द् वे᳓दिर् - मे᳓ध्याम् एवै᳓नाङ् करोति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -164,7 +163,7 @@ verily he makes it pure.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"दि॒वे त्वा॒ऽन्तरि॑क्षाय त्वा पृथि॒व्यै त्वे"ति॑  
+"दिवे᳓ त्वाऽन्त᳓रिक्षाय त्वा पृथिव्यै᳓ त्वे᳓"ति  
 </details>
 
 <details><summary>Keith</summary>
@@ -179,8 +178,8 @@ verily he makes it pure.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिर् आ॒साद्य॒ प्रोक्ष॑ति  ।  
-ए॒भ्य ए॒वैन॑ल् लो॒केभ्य॒ᳶ प्रोक्ष॑ति ।  
+बर्हि᳓र् आसा᳓द्य प्रो᳓क्षति  ।  
+एभ्य᳓ एवै᳓नल् लोके᳓भ्यᳶ प्रो᳓क्षति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -193,7 +192,7 @@ verily he sprinkles it for these worlds.
 ए॒भ्य ए॒वैन॑ल्लो॒केभ्य॒ᳶ प्रोक्ष॑ति ।  
 </details>
 
- <details><summary>पद-पाठः</summary>
+<details><summary>पद-पाठः</summary>
 
 दि॒वे । त्वा॒ । अ॒न्तरि॑क्षाय । त्वा॒ । पृ॒थि॒व्यै । त्वा॒ । इति॑ । ब॒र्हिः । आ॒साद्येत्या॑-साद्य॑ । प्रेति॑ । उ॒क्ष॒ति॒ ।  
 
@@ -215,7 +214,7 @@ verily he sprinkles it for these worlds.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्रू॒रम् इ॑व॒ वा ए॒तत् क॑रोति॒  
+क्रूर᳓म् इव वा᳓ एत᳓त् करोति  
 </details>
 
 <details><summary>Keith</summary>
@@ -230,8 +229,8 @@ Cruelly indeed does he act in that he digs.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् खन॑ति।  
-अ॒पो नि न॑यति॒ - शान्त्यै॑
+य᳓त् ख᳓नति।  
+अपो᳓ नि᳓ नयति - शा᳓न्त्यै
 </details>
 
 <details><summary>Keith</summary>
@@ -260,7 +259,7 @@ He pours down the waters, for healing.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पु॒रस्ता॑त् प्रस्त॒रङ् गृ॑ह्णाति ।  
+पुर᳓स्तात् प्रस्तर᳓ङ् गृह्णाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -275,7 +274,7 @@ He takes the bunch in front;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मुख्य॑म् ए॒वैन॑ङ् करोति ।  
+मु᳓ख्यम् एवै᳓नङ् करोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -296,8 +295,8 @@ verily he makes it the chief.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इय॑न्तङ् गृह्णाति -  
-प्र॒जाप॑तिना यज्ञ-मु॒खेन॒ सम्मि॑तम्।  
+इ᳓यन्तङ् गृह्णाति -  
+प्रजा᳓पतिना यज्ञ-मुखे᳓न स᳓म्मितम्।  
 </details>
 
 <details><summary>Keith</summary>
@@ -320,7 +319,7 @@ He takes so much as is measured by Prajapati as the mouth of the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिस् स्तृ॑णाति ।  
+बर्हि᳓स् स्तृणाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -335,8 +334,8 @@ He spreads the sacrificial strew, the sacrificial strew is offspring, the altar 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जा वै ब॒र्हिᳶ, पृ॑थि॒वी वेदिᳶ॑,  
-प्र॒जा ए॒व पृ॑थि॒व्याम् प्रति॑ ष्ठापयति ।
+प्रजा᳓ वै᳓ बर्हिᳶ᳓, पृथिवी᳓ वे᳓दिᳶ,  
+प्रजा᳓ एव᳓ पृथिव्या᳓म् प्र᳓ति ष्ठापयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -365,7 +364,7 @@ verily he places offspring on the earth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्-अ॑तिदृश्ञँ स्तृणाति ।   
+अ᳓न्-अतिदृश्ञँ स्तृणाति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -380,7 +379,7 @@ He strews it so as not to be very discernible;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जयै॒वैन॑म् प॒शुभि॒र् अन॑तिदृश्ञङ् करोति  ।  
+प्रज᳓यैवै᳓नम् पशु᳓भिर् अ᳓नतिदृश्ञङ् करोति  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -411,8 +410,8 @@ verily he makes him not very discernible by offspring and cattle [2].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत्त॑रम् ब॒र्हिषᳶ॑ प्रस्त॒रँ सा॑दयति ।  
-प्र॒जा वै ब॒र्हिर्, यज॑मानᳶ प्रस्त॒रो,  
+उ᳓त्तरम् बर्हि᳓षᳶ प्रस्तरँ᳓ सादयति ।  
+प्रजा᳓ वै᳓ बर्हि᳓र्, य᳓जमानᳶ प्रस्तरो᳓,  
 </details>
 
 <details><summary>Keith</summary>
@@ -427,7 +426,7 @@ He puts the bundle over the sacrificial strew, the strew is offspring, the bundl
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानम् ए॒वाऽय॑जमाना॒द् उत्त॑रङ् करोति ।   
+य᳓जमानम् एवा᳓ऽयजमानाद् उ᳓त्तरङ् करोति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -442,7 +441,7 @@ verily he makes the sacrificer superior to the non-sacrificer.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् यज॑मा॒नो ऽय॑जमाना॒द् उत्त॑रः।   
+त᳓स्माद् य᳓जमानो᳓ ऽयजमानाद् उ᳓त्तरः।   
 </details>
 
 <details><summary>Keith</summary>
@@ -457,7 +456,7 @@ Therefore the sacrificer is superior to the non-sacrificer.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्तर् द॑धाति॒ - व्यावृ॑त्त्यै।
+अन्त᳓र् दधाति - व्या᳓वृत्त्यै।
 </details>
 
 <details><summary>Keith</summary>
@@ -495,7 +494,7 @@ He puts (grass) between, for separation.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒नक्ति॑ ।  
+अन᳓क्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -510,7 +509,7 @@ He anoints it;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ह॒विष्-कृ॑तम् ए॒वैनँ॑ सुव॒र्गल्ँ लो॒कङ् ग॑मयति ।  
+हवि᳓ष्-कृतम् एवै᳓नँ सुवर्गल्ँ᳓ लोक᳓ङ् गमयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -531,7 +530,7 @@ verily he makes it into an offering and causes it to go to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रे॒धाऽन॑क्ति ।
+त्रेधा᳓ऽनक्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -546,7 +545,7 @@ He anoints it in three places;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रय॑ इ॒मे लो॒का,  
+त्र᳓य इमे᳓ लोका᳓,  
 </details>
 
 <details><summary>Keith</summary>
@@ -561,7 +560,7 @@ these worlds are three;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒भ्य ए॒वैनल्ँ॑ लो॒केभ्यो॑ऽनक्ति ।  
+एभ्य᳓ एवै᳓नल्ँ लोके᳓भ्योऽनक्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -592,7 +591,7 @@ verily he anoints it for these worlds.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न प्रति॑ शृणाति ।  
+न᳓ प्र᳓ति शृणाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -607,7 +606,7 @@ He does not break off (its edges);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् प्र॑तिशृणी॒याद् - अनू॑र्ध्वम्-भावुकय्ँ॒ यज॑मानस्य +++(कृते)+++ स्यात् ।
+य᳓त् प्रतिशृणीया᳓द् - अ᳓नूर्ध्वम्-भावुकय्ँ य᳓जमानस्य +++(कृते)+++ स्यात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -643,8 +642,8 @@ if he were to break them off, it would not go aloft for the sacrificer.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒परी॑व॒ प्र ह॑रति ।   
-उ॒परी॑व॒ हि सु॑व॒र्गो लो॒कः।
+उप᳓रीव प्र᳓ हरति ।   
+उप᳓रीव हि᳓ सुवर्गो᳓ लोकः᳓।
 </details>
 
 <details><summary>Keith</summary>
@@ -668,7 +667,7 @@ He pushes it upwards as it were [3], for the world of heaven is upwards as it we
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नि य॑च्छति ।  
+नि᳓ यच्छति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -683,7 +682,7 @@ He depresses it;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृष्टि॑म् ए॒वास्मै॒ नि य॑च्छति ।  
+वृ᳓ष्टिम् एवा᳓स्मै नि᳓ यच्छति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -710,7 +709,7 @@ verily he brings down rain for him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नात्य॑ग्र॒म् प्र ह॑रेत्  ।  
+ना᳓त्यग्रम् प्र᳓ हरेत्  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -725,8 +724,8 @@ He should not put forward the points too much;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अत्य॑ग्रम् प्र॒हरे॑द्  
-अत्यासा॒रिण्य् अ॑ध्व॒र्योर् नाशु॑का स्यात् ।   
+य᳓द् अ᳓त्यग्रम् प्रह᳓रेद्  
+अत्यासारि᳓ण्य् अध्वर्यो᳓र् ना᳓शुका स्यात् ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -755,7 +754,7 @@ if he were to do so, there would be a violent torrent to destroy the Adhvaryu.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न +++(मूलापेक्षया)+++ पु॒रस्ता॒त् प्रत्य॑स्येत् ।   
+न᳓ +++(मूलापेक्षया)+++ पुर᳓स्तात् प्र᳓त्यस्येत् ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -770,8 +769,8 @@ He should not throw it (so that the roots are) in front.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् पु॒रस्ता॑त् प्र॒त्यस्ये॑त् -  
-सुव॒र्गाल् लो॒काद् यज॑मान॒म् प्रति॑ नुदेत् ।
+य᳓त् पुर᳓स्तात् प्रत्य᳓स्येत् -  
+सुवर्गा᳓ल् लोका᳓द् य᳓जमानम् प्र᳓ति नुदेत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -799,7 +798,7 @@ If he were to do this, he would thrust the sacrificer from the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राञ्च॒म् प्र ह॑रति ।  
+प्रा᳓ञ्चम् प्र᳓ हरति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -814,7 +813,7 @@ He puts it forward (with its points) to the east;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानम् ए॒व सु॑व॒र्गल्ँ लो॒कङ् ग॑मयति ।  
+य᳓जमानम् एव᳓ सुवर्गल्ँ᳓ लोक᳓ङ् गमयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -842,7 +841,7 @@ verily he makes the sacrificer go to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न विष्व॑ञ्चव्ँ॒ वि यु॑यात् ।  
+न᳓ वि᳓ष्वञ्चव्ँ वि᳓ युयात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -857,7 +856,7 @@ He should not spread (the bunch) in all directions.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् विष्व॑ञ्चव्ँ वियु॒यात्  
+यद् विष्व᳓ञ्चव्ँ वियुयात्  
 स्त्र्य् अ᳙स्य जायेत ।
 </details>
 
@@ -888,7 +887,7 @@ If he were to spread (it) in all directions [4], a daughter would be born to him
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्ध्वम् उद्यौ॑ति ।  
+ऊर्ध्व᳓म् उ᳓द्यौति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -903,8 +902,8 @@ He strews it upwards, for upwards is as it were connected with a man;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्ध्वम् इ॑व॒ हि पुँ॒सᳶ।  
-पुमा॑न् ए॒वास्य॑ जायते ।  
+ऊर्ध्व᳓म् इव हि᳓ पुँसᳶ᳓।  
+पु᳓मान् एवा᳓स्य जायते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -937,8 +936,8 @@ verily a male child is born to him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् स्फ्येन॑ वोपवे॒षेण॑ वा योयु॒प्येत॒  
-स्तृति॑र् ए॒वास्य॒ सा ।  
+य᳓त् स्फ्ये᳓न वोपवेषे᳓ण वा योयुप्ये᳓त  
+स्तृ᳓तिर् एवा᳓स्य सा᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -964,8 +963,8 @@ If he were to smooth it with the sword or the poking-stick, that would be his ru
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हस्ते॑न योयुप्यते ।  
-यज॑मानस्य गोपी॒थाय॑ ।  
+ह᳓स्तेन योयुप्यते ।  
+य᳓जमानस्य गोपीथा᳓य ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -983,7 +982,6 @@ He smooths it with his hand, for the protection of the sacrificer.
 हस्ते॑न । यो॒यु॒प्य॒ते॒ ।  
 यज॑मानस्य । गो॒पी॒थाय॑ । 
 </details>
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1000,9 +998,9 @@ He smooths it with his hand, for the protection of the sacrificer.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वा॒दिनो॑ वदन्ति॒ -  
-"किय्ँ य॒ज्ञस्य॒ यज॑मान॒" इति॑।  
-"प्र॒स्त॒र" इति॑ ।  
+ब्रह्मवादि᳓नो वदन्ति -  
+"किय्ँ᳓ यज्ञ᳓स्य य᳓जमान" इ᳓ति।  
+"प्रस्तर᳓" इ᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1018,7 +1016,7 @@ The theologians say, 'What in the sacrifice is the sacrificer' 'The bundle' (is 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"तस्य॒ क्व᳙ सुव॒र्गो लो॒क" इति॑।  
+"तस्य क्व᳙ सुवर्गो लोक" इति᳓।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1033,7 +1031,7 @@ The theologians say, 'What in the sacrifice is the sacrificer' 'The bundle' (is 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"आ॒ह॒व॒नीय॒" इति॑ ब्रूयात् ।  
+"आहवनी᳓य" इ᳓ति ब्रूयात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1064,8 +1062,8 @@ In that he puts the bundle on the Ahavaniya, he makes the sacrificer [5] go to t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् प्र॑स्त॒रम् आ॑हव॒नीये॑ प्र॒हर॑ति॒  
-यज॑मानम् ए॒व सु॑व॒र्गल्ँ लो॒कङ् ग॑मयति ।
+य᳓त् प्रस्तर᳓म् आहवनी᳓ये प्रह᳓रति  
+य᳓जमानम् एव᳓ सुवर्गल्ँ᳓ लोक᳓ङ् गमयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1099,7 +1097,7 @@ In that he puts the bundle on the Ahavaniya, he makes the sacrificer [5] go to t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि वा ए॒तद् यज॑मानो लिशते॒  
+वि᳓ वा᳓ एत᳓द् य᳓जमानो लिशते  
 </details>
 
 <details><summary>Keith</summary>
@@ -1114,8 +1112,8 @@ The sacrificer is rent in that they smooth the bundle;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् प्र॑स्त॒रय्ँ यो॑यु॒प्यन्ते॑ ।   
-ब॒र्हिर् अनु॒ प्रह॑रति॒ शान्त्यै॑ ।
+य᳓त् प्रस्तरय्ँ᳓ योयुप्य᳓न्ते ।   
+बर्हि᳓र् अ᳓नु प्र᳓हरति शा᳓न्त्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1152,8 +1150,8 @@ he throws the strew along after it, for calming.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ना॒र॒+++(←ल)+++म्भ॒ण इ॑व॒ वा ए॒तर्ह्य् अ॑ध्व॒र्युः ।  
-स ई॑श्व॒रो वे॑प॒नो भवि॑तोः।  
+अनार+++(←ल)+++म्भण᳓ इव वा᳓ एत᳓र्ह्य् अध्वर्युः᳓ ।  
+स᳓ ईश्वरो᳓ वेपनो᳓ भ᳓वितोः।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1169,7 +1167,7 @@ The Adhvaryu has no support, and he is liable to be seized by shivering.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"ध्रु॒वासी"ती॒माम् अ॒भि मृ॑शति ।  
+"ध्रुवा᳓सी᳓"तीमा᳓म् अभि᳓ मृशति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1184,7 +1182,7 @@ The Adhvaryu has no support, and he is liable to be seized by shivering.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ वै ध्रु॒वा, ऽस्याम् ए॒व प्रति॑ तिष्ठति ।   
+इयव्ँ᳓ वै᳓ ध्रुवा᳓, ऽस्या᳓म् एव᳓ प्र᳓ति तिष्ठति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -1199,7 +1197,7 @@ the Dhruva is this (earth);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न वे॑प॒नो भ॑वति ।  
+न᳓ वेपनो᳓ भवति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1232,7 +1230,7 @@ verily he finds support in it, and shivers not.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अगा(३)न्+++(←प्रश्ने उदात्तप्लुतः)+++ अ॑ग्नी॒द्?" इत्या॑ह ।  
+"अ᳓गा᳓(३)न्+++(←प्रश्ने उदात्तप्लुतः)+++ अग्नीद्?" इ᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1260,9 +1258,9 @@ verily he finds support in it, and shivers not.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् ब्रू॒याद् "अग॑न्न् अ॒ग्निर्" इति॑   
-अ॒ग्नाव् अ॒ग्निङ् ग॑मये॒न्   
-निर् यज॑मानँ सुव॒र्गाल् लो॒काद् भ॑जेत् ।
+य᳓द् ब्रूया᳓द् "अ᳓गन्न् अग्नि᳓र्" इ᳓ति   
+अग्ना᳓व् अग्नि᳓ङ् गमयेन्   
+नि᳓र् य᳓जमानँ सुवर्गा᳓ल् लोका᳓द् भजेत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1292,8 +1290,8 @@ If (the Agnidh) were to say, 'Agni has gone?' he would make Agni go into the fir
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अग॒न्न्" इत्ये॒व ब्रू॑यात् ।  
-यज॑मानम् ए॒व सु॑व॒र्गल्ँ लो॒कङ् ग॑मयति ॥
+"अ᳓गन्न्" इ᳓त्येव᳓ ब्रूयात् ।  
+य᳓जमानम् एव᳓ सुवर्गल्ँ᳓ लोक᳓ङ् गमयति ॥
 </details>
 
 <details><summary>Keith</summary>

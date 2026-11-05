@@ -1,6 +1,5 @@
 +++
 title = "०१ नमस्ते रुद्र"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -17,13 +16,12 @@ title = "०१ नमस्ते रुद्र"
 तत्र प्रथमानुवाके प्रथमामृचमाह— नमस्ते रुद्रेति।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**नम॑स्** ते रुद्र **म॒न्यव॑**  
-उ॒तो त॒ **इष॑वे॒** नमः॑ ।   
-नम॑स्ते अस्तु॒ **धन्व॑ने**  
-**बा॒हुभ्या्॑** अु॒त ते॒ नमः॑ ।   
+**न᳓मस्** ते रुद्र **मन्य᳓व**  
+उतो᳓ त **इ᳓षवे** न᳓मः ।   
+न᳓मस्ते अस्तु **ध᳓न्वने**  
+**बाहु᳓भ्या्** अुत᳓ ते न᳓मः ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -33,7 +31,6 @@ To thine arrow homage also;
 Homage to thy bow,  
 And homage to thine arms.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -59,10 +56,10 @@ And homage to thine arms.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या त॒ इषु॑श् शि॒वत॑मा  
-**शि॒वम् ब॒भूव॑** ते॒ धनुः॑ ।   
-शि॒वा श॑र॒व्या॑+++(=इषुधिः)+++ या तव॒  
-तया॑ नो रुद्र **मृडय** ।  
+या᳓ त इ᳓षुश् शिव᳓तमा  
+**शिव᳓म् बभू᳓व** ते ध᳓नुः ।   
+शिवा᳓ शरव्या᳙+++(=इषुधिः)+++ या तव  
+त᳓या नो रुद्र **मृडय** ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -72,7 +69,6 @@ And kindly bow,
 With thy kindly missile,  
 Be gentle to us, O Rudra.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -93,10 +89,10 @@ Be gentle to us, O Rudra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या ते॑ रुद्र **शि॒वा त॒नूर्**  
-अघो॒रा ऽपा॑प-काशिनी ।   
-तया॑ नस् त॒नुवा॒ शन्त॑मया॒  
-गिरि॑-शन्त+++(←शम्)+++ +अ॒भि **चा॑कशीहि** ।   
+या᳓ ते रुद्र **शिवा᳓ तनू᳓र्**  
+अ᳓घोरा᳓ ऽपाप-काशिनी ।   
+त᳓या नस् तनु᳓वा श᳓न्तमया  
+गि᳓रि-शन्त+++(←शम्)+++ +अभि᳓ **चाकशीहि** ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -106,7 +102,6 @@ Not dread, with auspicious look,
 With that body, most potent to heal,  
 O haunter of the mountains, do thou look on us.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -135,10 +130,10 @@ O haunter of the mountains, do thou look on us.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याम् इषु॑ङ् गिरिशन्त॒  
-हस्ते॑ [1]  **बिभ॒र्ष्य्** +++(न्य्-)+++अस्त॑वे ।   
-**शि॒वाङ्** गि॑रि-त्र॒! ताङ् **कु॑रु॒**  
-**मा हिँ॑सी॒ᳶ** पुरु॑ष॒ञ् जग॑त् ।
+या᳓म् इ᳓षुङ् गिरिशन्त  
+ह᳓स्ते [1]  **बिभर्ष्य्** +++(न्य्-)+++अ᳓स्तवे ।   
+**शिवा᳓ङ्** गिरि-त्र! ता᳓ङ् **कुरु**  
+**मा᳓ हिँसीᳶ** पु᳓रुषञ् ज᳓गत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -147,7 +142,6 @@ The arrow which, O haunter of mountains,
 In thy hand [1] thou bearest to shoot,  
 That make thou kindly, O guardian of mountains; Harm not the world of men.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -170,10 +164,10 @@ That make thou kindly, O guardian of mountains; Harm not the world of men.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शि॒वेन॒ वच॑सा त्वा॒  
-गिरि॒शाच्छा॑ **वदामसि** ।   
-यथा॑ न॒स् सर्व॒म् इज् जग॑द्  
-अय॒क्ष्मँ **सु॒मना॒ अस॑त्** ।   
+शिवे᳓न व᳓चसा त्वा  
+गि᳓रिशा᳓च्छा **वदामसि** ।   
+य᳓था नस् स᳓र्वम् इ᳓ज् ज᳓गद्  
+अयक्ष्मँ᳓ **सुम᳓ना अ᳓सत्** ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -183,7 +177,6 @@ We address, O liver on the mountains,
 That all our folk  
 Be free from sickness and of good cheer.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -204,10 +197,10 @@ Be free from sickness and of good cheer.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**अध्य॑वोचद्** अधिव॒क्ता  
-प्र॑थ॒मो दैव्यो॑ भि॒षक् ।   
-अहीँ॑श् च॒ सर्वा॑ञ् **ज॒म्भय॒न्त्**  
-सर्वा॑श् च यातुधा॒न्यः॑ ।   
+**अ᳓ध्यवोचद्** अधिवक्ता᳓  
+प्रथमो᳓ दै᳓व्यो भिष᳓क् ।   
+अ᳓हीँश् च स᳓र्वाञ् **जम्भ᳓यन्त्**  
+स᳓र्वाश् च यातुधान्यः᳙ ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -217,8 +210,6 @@ The first divine leech,
 Confounding all the serpents  
 And all sorceries.
 </details>
-
-
 
 <details><summary>मूलम्</summary>
 
@@ -242,10 +233,10 @@ And all sorceries.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒सौ यस् ता॒म्रो अ॑रु॒ण  
-उ॒त ब॒भ्रुस् सु॑म॒ङ्गलः॑ ।   
-ये चे॒माँ रु॒द्रा अ॒भितो॑ दि॒क्षु [2]   
-**श्रि॒तास्** स॑हस्र॒शो **ऽवै॑षाँ॒ हेड॑ ईमहे** ।   
+असौ᳓ य᳓स् ताम्रो᳓ अरुण᳓  
+उत᳓ बभ्रु᳓स् सुमङ्ग᳓लः ।   
+ये᳓ चेमाँ᳓ रुद्रा᳓ अभि᳓तो दिक्षु᳓ [2]   
+**श्रिता᳓स्** सहस्रशो᳓ **ऽवैषाँ हे᳓ड ईमहे** ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -256,7 +247,6 @@ And the Rudras which in thousands
 Lie around this (earth) in the quarters [2],  
 Their wrath do we deprecate.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -282,12 +272,12 @@ Their wrath do we deprecate.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒सौ यो॑ऽव॒सर्प॑ति॒  
-नील॑ग्रीवो॒ विलो॑हितः ।   
-उ॒तैन॑ङ् गो॒पा **अ॑दृश॒न्न्**  
-**अदृ॑शन्न्** उद-हा॒र्यः॑ ।   
-उ॒तैनव्ँ॒ विश्वा॑ भू॒तानि॒  
-स **दृ॒ष्टो मृ॑डयाति** नः ।
+असौ᳓ योऽवस᳓र्पति  
+नी᳓लग्रीवो वि᳓लोहितः ।   
+उतै᳓नङ् गोपा᳓ **अदृशन्न्**  
+**अ᳓दृशन्न्** उद-हार्यः᳙ ।   
+उतै᳓नव्ँ वि᳓श्वा भूता᳓नि  
+स᳓ **दृष्टो᳓ मृडयाति** नः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -299,7 +289,6 @@ Have seen the bearers of water
 And him all creatures;  
 May be, seen, be gentle unto us.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -328,10 +317,10 @@ May be, seen, be gentle unto us.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**नमो॑ अस्तु॒** नील॑ग्रीवाय  
-सहस्रा॒क्षाय॑ मी॒ढुषे॑ ।   
-अथो॒ ये अ॑स्य॒ +++(भृत्यरूपाः)+++ सत्वा॑नो॒  
-ऽहन् तेभ्यो॑ **ऽकर॒न् नमः॑** ।   
+**न᳓मो अस्तु** नी᳓लग्रीवाय  
+सहस्राक्षा᳓य मीढु᳓षे ।   
+अ᳓थो ये᳓ अस्य +++(भृत्यरूपाः)+++ स᳓त्वानो  
+ऽह᳓न् ते᳓भ्यो **ऽकरन् न᳓मः** ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -341,7 +330,6 @@ Thousand-eyed one, the bountiful
 And to those that are his warriors  
 I have paid my homage.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -364,10 +352,10 @@ I have paid my homage.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**प्र मु॑ञ्च॒** धन्व॑न॒स् त्वम्  
-उ॒भयो॒र् आर्त्नि॑यो॒र्+++(=कोट्योर्)+++ ज्याम् ।   
-याश्च॑ ते॒ हस्त॒ इष॑वः॒ [3]   
-**परा॒** ता भ॑गवो **वप** ।  
+**प्र᳓ मुञ्च** ध᳓न्वनस् त्व᳓म्  
+उभ᳓योर् आ᳓र्त्नियोर्+++(=कोट्योर्)+++ ज्या᳓म् ।   
+या᳓श्च ते ह᳓स्त इ᳓षवः [3]   
+**प᳓रा** ता᳓ भगवो **वप** ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -377,7 +365,6 @@ Of thy bow the bowstring,
 And cast thou down  
 The arrows in thy hand [3].  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -400,10 +387,10 @@ The arrows in thy hand [3].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**अ॒व॒तत्य॒** धनु॒स् त्वँ  
-सह॑स्राक्ष॒ शते॑षुधे ।   
-**नि॒शीर्य॑** +++(बाण-)+++श॒ल्याना॒म् मुखा॑  
-शि॒वो न॑स् **सु॒मना॑ भव** ।   
+**अवत᳓त्य** ध᳓नुस् त्वँ᳓  
+स᳓हस्राक्ष श᳓तेषुधे ।   
+**निशी᳓र्य** +++(बाण-)+++शल्या᳓नाम् मु᳓खा  
+शिवो᳓ नस् **सुम᳓ना भव** ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -413,7 +400,6 @@ Do thou of a thousand eyes and a hundred quivers,
 Destroying the points of thine arrows,  
 Be gentle and kindly to us.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -435,10 +421,10 @@ Be gentle and kindly to us.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि-ज्य॒न् धनु॑ᳵ कप॒र्दिनो॒  
-विश॑ल्यो॒ बाण॑वाँ+++(=इषुधिर्)+++ उ॒त ।   
-अने॑शन्न्+++(←नश्)+++ अ॒स्येष॑व  
-आ॒भुर् अ॑स्य निष॒ङ्गथिः॑+++(=निषङ्ग-धिः इति माध्यन्दिनो वरः)+++ ।   
+वि᳓-ज्यन् ध᳓नुᳵ कपर्दि᳓नो  
+वि᳓शल्यो बा᳓णवाँ+++(=इषुधिर्)+++ उत᳓ ।   
+अ᳓नेशन्न्+++(←नश्)+++ अस्ये᳓षव  
+आभु᳓र् अस्य निषङ्ग᳓थिः+++(=निषङ्ग-धिः इति माध्यन्दिनो वरः)+++ ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -448,7 +434,6 @@ And arrowless his quiver;
 His arrows have departed,  
 Empty is his quiver.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -478,10 +463,10 @@ Empty is his quiver.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या ते॑ हे॒तिर् मी॑ढुष्टम॒  
-**हस्ते॑ ब॒भूव॑** ते॒ धनुः॑ ।   
-तया॒स्मान् वि॒श्वत॒स् त्वम्  
-अ॑यक्ष॒मया॒ **परि॑ भुज** ।   
+या᳓ ते हेति᳓र् मीढुष्टम  
+**ह᳓स्ते बभू᳓व** ते ध᳓नुः ।   
+त᳓यास्मा᳓न् विश्व᳓तस् त्व᳓म्  
+अयक्षम᳓या **प᳓रि भुज** ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -491,7 +476,6 @@ That is in thy hand, thy bow,
 With it on all sides do thou guard us,  
 Free from sickness.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -511,8 +495,8 @@ Free from sickness.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**नम॑स्** ते अ॒स्त्व् आयु॑धाय॒+ अना॑तताय धृ॒ष्णवे॑ ।   
-उ॒भाभ्या॑म् उ॒त ते॒ नमो॑ बा॒हुभ्या॒न् तव॒ धन्व॑ने ।   
+**न᳓मस्** ते अस्त्व् आ᳓युधाय+ अ᳓नातताय धृष्ण᳓वे ।   
+उभा᳓भ्याम् उत᳓ ते न᳓मो बाहु᳓भ्यान् त᳓व ध᳓न्वने ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -522,7 +506,6 @@ Unstrung, dread;
 And homage to thy two hands,  
 To thy bow.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -545,10 +528,10 @@ To thy bow.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**परि॑** ते॒ धन्व॑नो हे॒तिर्  
-अ॒स्मान् **वृ॑णक्तु** वि॒श्वतः॑ ।   
-अथो॒ य इ॑षु॒धिस् तवा॒रे  
-अ॒स्मत्+ **नि धे॑हि॒** तम् ॥ [4]  
+**प᳓रि** ते ध᳓न्वनो हेति᳓र्  
+अस्मा᳓न् **वृणक्तु** विश्व᳓तः ।   
+अ᳓थो य᳓ इषुधि᳓स् त᳓वारे᳓  
+अस्म᳓त्+ **नि᳓ धेहि** त᳓म् ॥ [4]  
 </details>
 
 <details><summary>Keith</summary>
@@ -558,7 +541,6 @@ Avoid us on every side,
 And do thou lay far from us  
 This quiver that is thine.
 </details>
-
 
 <details><summary>मूलम्</summary>
 

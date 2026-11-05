@@ -5,7 +5,7 @@ title = "१० प्रायणीयम् अहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वा॒दिनो॑ वदन्त्य् - "अतिरा॒त्रᳶ प॑र॒मो य॑ज्ञ-क्रतू॒नाङ्,
+ब्रह्मवादि᳓नो वदन्त्य् - "अतिरात्रᳶ᳓ परमो᳓ यज्ञ-क्रतूना᳓ङ्,
 </details>
 
 <details><summary>Keith</summary>
@@ -15,7 +15,7 @@ The theologians say, 'The Atiratra is the highest of the forms of sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कस्मा॒त् तम् प्र॑थ॒मम् उप॑ य॒न्ति"+ इति॑ ।
+क᳓स्मात् त᳓म् प्रथम᳓म् उ᳓प यन्ति᳓"+ इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -25,8 +25,8 @@ Why do they perform it first?'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(अथ समाधत्ते - )+++ ए॒तद् वा अ॑ग्निष्टो॒मम् प्र॑थ॒मम् उप॑य॒न्त्य्, अथो॒क्थ्य॑म्, अथ॑ षोड॒शिन॒म्, अथा॑तिरा॒त्रम् +++(संवत्सरस्य मुखय् एकाष्टकायाः ४ दिनेभ्यः पूर्वम् आरभ्य)+++।  
-अ॒नु॒पू॒र्वम् ए॒वैतद् य॑ज्ञक्र॒तून् उ॒पेत्य॒ तान् आ॒लभ्य॑ परि॒गृह्य॒ सोम॑म् ए॒वैतत् पिब॑न्त +++(संवत्सराय)+++ आसते ।
++++(अथ समाधत्ते - )+++ एत᳓द् वा᳓ अग्निष्टोम᳓म् प्रथम᳓म् उ᳓पयन्त्य्, अ᳓थोक्थ्य᳙म्, अ᳓थ षोडशि᳓नम्, अ᳓थातिरात्र᳓म् +++(संवत्सरस्य मुखय् एकाष्टकायाः ४ दिनेभ्यः पूर्वम् आरभ्य)+++।  
+अनुपूर्व᳓म् एवै᳓त᳓द् यज्ञक्रतू᳓न् उपे᳓त्य ता᳓न् आल᳓भ्य परिगृ᳓ह्य सो᳓मम् एवै᳓त᳓त् पि᳓बन्त +++(संवत्सराय)+++ आसते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -38,9 +38,9 @@ Now in doing so they really perform in order first the Agnistoma, then the Ukthy
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योति॑ष्टोमम् प्रथ॒मम् उप॑ यन्ति ।
-ज्योति॑ष्टोमो॒ वै स्तोमा॑ना॒म् मुख॑म् ।
-मु॒ख॒त ए॒व स्तोमा॒न् प्र यु॑ञ्जते ।
+ज्यो᳓तिष्टोमम् प्रथम᳓म् उ᳓प यन्ति ।
+ज्यो᳓तिष्टोमो वै᳓ स्तो᳓मानाम् मु᳓खम् ।
+मुखत᳓ एव᳓ स्तो᳓मान् प्र᳓ युञ्जते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -48,12 +48,11 @@ Now in doing so they really perform in order first the Agnistoma, then the Ukthy
 They perform the Jyotistoma first; the Jyotistoma is the beginning of the Stomas; verily they commence the Stomas from the beginning [1].
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/4/10_prAyaNIyam_ahaH/jyotir-virAT-tvam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/4/10_prAyaNIyam_ahaH/jyotir-virAT-tvam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते +++(ज्योतिर्गौरायुरिति त्रयः)+++ सँस्तु॑ता वि॒राज॑म् +++(दशाक्षरां)+++ अ॒भि सम्प॑द्यन्ते ।[32]
-+++(गोआयुषी)+++ द्वे च + ऋचा॒व् अति॑ रिच्येते - एक॑या॒ +++(२४१-स्तोत्रिया)+++ गौर् अति॑रिक्त॒ , एक॒या +++(२५९-स्तोत्रिया??)+++ ऽऽयु॑र् ऊ॒नः ।  
+ते᳓ +++(ज्योतिर्गौरायुरिति त्रयः)+++ सँ᳓स्तुता विरा᳓जम् +++(दशाक्षरां)+++ अभि᳓ स᳓म्पद्यन्ते ।[32]
++++(गोआयुषी)+++ द्वे᳓ च᳓ + ऋ᳓चाव् अ᳓ति रि᳓च्ये᳓ते᳓ - ए᳓कया +++(२४१-स्तोत्रिया)+++ गौ᳓र् अ᳓तिरिक्त , ए᳓कया᳓ +++(२५९-स्तोत्रिया??)+++ ऽऽयुर् ऊनः᳓ ।  
 +++(ज्योतिरतिरात्रस्य १९०*२ = ३७० स्तोत्रिया / ज्योतिष्टोमस्य १९० स्तोत्रिया इति कृत्वा, तस्यैव तु दशकपूरणम् भवति। ततो हि ज्योतिर् गृह्यते प्रथमं गोआयुषी परित्यज्य।)+++
 </details>
 
@@ -64,19 +63,18 @@ These (Stomas) being sung together make up the Viraj, and two verses are redunda
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒व॒र्गो वै लो॒को ज्योति॒र्, +++(यत)+++ ऊर्ग्+++(=अन्नं)+++ वि॒राट् ।
+सुवर्गो᳓ वै᳓ लोको᳓ ज्यो᳓तिर्, +++(यत)+++ ऊ᳓र्ग्+++(=अन्नं)+++ विरा᳓ट् ।
 </details>
 
 <details><summary>Keith</summary>
 
 The Jyotistoma is the world of heaven, the Viraj is strength; verily they win strength.
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒व॒र्गम् ए॒व तेन॑ लो॒कय्ँ य॑न्ति ।
+सुवर्ग᳓म् एव᳓ ते᳓न लोकय्ँ᳓ यन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -88,7 +86,7 @@ verily by it they go to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(अतिरात्रे)+++ "र॒थ॒न्त॒र॒न् दिवा॒ भव॑ति , रथन्त॒रन् नक्त॒म्" इत्य् आ॑हुर् ब्रह्मवा॒दिन॒ᳵ -"केन॒ तद् अजा॒मी"ति॑ ।
++++(अतिरात्रे)+++ "रथन्तरन् दि᳓वा भ᳓वति , रथन्तर᳓न् न᳓क्तम्" इ᳓त्य् आहुर् ब्रह्मवादि᳓नᳵ -"के᳓न त᳓द् अ᳓जामी᳓"ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -98,9 +96,9 @@ verily by it they go to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(उक्थ्यपर्याये)+++ सौ॒भ॒रन् तृ॑तीयसव॒ने ब्र॑ह्मसा॒मम् बृ॒हत् ।
-+++(बृहत् बृहता गेयः,)+++ तन् म॑ध्य॒तो द॑धति॒ विधृ॑त्यै ।
-तेनाजा॑मि ॥ [33]
++++(उक्थ्यपर्याये)+++ सौभर᳓न् तृतीयसवने᳓ ब्रह्मसाम᳓म् बृह᳓त् ।
++++(बृहत् बृहता गेयः,)+++ त᳓न् मध्यतो᳓ दधति वि᳓धृत्यै ।
+ते᳓ना᳓जामि ॥ [33]
 </details>
 
 <details><summary>Keith</summary>

@@ -19,16 +19,14 @@ _______
 ह॒विष्म॑तीरि॒मा आपो॑ ह॒विष्मा॑न्दे॒वो अ॑ध्व॒रो ह॒विष्माँ॒ आ वि॑वासति ह॒विष्माँ॑ अस्तु॒ सूर्यः॑ ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-ह॒विष्म॑तीर् इ॒मा +++(वसतीवरीसंज्ञा)+++ आपो॑  
-ह॒विष्मा॑न् दे॒वो अ॑ध्व॒रः ।   
-ह॒विष्माँ॒ आ **वि॑वासति** +++(←वा गतिगन्धनयोः)+++   
-**ह॒विष्माँ॑ अस्तु॒** सूर्यः॑ ॥
+हवि᳓ष्मतीर् इमा᳓ +++(वसतीवरीसंज्ञा)+++ आ᳓पो  
+हवि᳓ष्मान् देवो᳓ अध्वरः᳓ ।   
+हवि᳓ष्माँ आ᳓ **विवासति** +++(←वा गतिगन्धनयोः)+++   
+**हवि᳓ष्माँ अस्तु** सू᳓र्यः ॥
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -36,8 +34,7 @@ _______
 1वसतीवरीर्गृह्णाति - हविष्मतीरिति चतुष्पदया ॥ 'अनुष्टुभा गृह्णाति' इत्यादि ब्राह्मणम् ।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -68,7 +65,6 @@ Rich in oblation be the sun.
 तदर्थम् एताभिर्गृह्यमाणाभिः हविष्मान्भगवान् सूर्योस्तु । एतासां हविष्ट्वसम्पादनाय यावद्ग्रहणमस्तं नेयादित्यर्थः । 'यस्यागृहीता अभि निम्रोचेत्' इत्यादि ब्राह्मणम् । पूर्ववत्संहितायां रुत्वम् । 'देवा वै यज्ञमाग्नीध्रे व्यभजन्त ततो यदत्यशिष्यत' इत्यादि ब्राह्मणं समस्तोनुवाकः ॥
 </details>
 </details>
-
 </div>
 
 _______
@@ -84,8 +80,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेर् वो ऽप॑न्न-गृहस्य॒ सद॑सि सादयामि सु॒म्नाय॑+++(=सुखाय)+++।  
-सुम्निनीस् सु॒म्ने मा॑ धत्त ।
+अग्ने᳓र् वो᳓ ऽपन्न-गृहस्य स᳓दसि सादयामि सुम्ना᳓य+++(=सुखाय)+++।  
+सु᳓म्नि᳓नी᳓स् सुम्ने᳓ मा धत्त ।
 </details>
 
 <details><summary>Keith</summary>
@@ -123,7 +119,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒न्द्रा॒ग्नि॒योर् भा॑ग॒धेयीः॑ स्थ ।
+इन्द्राग्नियो᳓र् भागधे᳓यीः स्थ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -156,7 +152,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रावरु॑णयोर् भाग॒धेयीः॑ स्थ ।
+मित्रा᳓व᳓रुणयोर् भागधे᳓यीः स्थ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -188,7 +184,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वे॑षान्दे॒वाना॑म्भाग॒धेयीः॑ स्थ ।
+वि᳓श्वेषान्देवा᳓नाम्भागधे᳓यीः स्थ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -221,7 +217,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञे जा॑गृत ॥ [21]
+यज्ञे᳓ जागृत ॥ [21]
 </details>
 
 <details><summary>Keith</summary>

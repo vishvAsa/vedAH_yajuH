@@ -13,7 +13,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मु॒द्रङ्ग॑च्छ॒ स्वाहा॑ ।
+समुद्र᳓ङ्गच्छ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -39,7 +39,7 @@ Go to the ocean, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्तरि॑क्षङ्गच्छ॒ स्वाहा॑ ।
+अन्त᳓रिक्षङ्गच्छ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -65,7 +65,7 @@ Go to the atmosphere, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वँ स॑वि॒तार॑ङ्गच्छ॒ स्वाहा॑ ।
+देवँ᳓ सविता᳓रङ्गच्छ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -91,7 +91,7 @@ Go to god Savitr, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒हो॒रा॒त्रे ग॑च्छ  स्वाहा॑ ।
+अहोरात्रे᳓ गच्छ᳓  स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -117,7 +117,7 @@ Go to day and night, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रावरु॑णौ गच्छ॒ स्वाहा॑  ।
+मित्रा᳓व᳓रुणौ गच्छ स्वा᳓हा  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -143,7 +143,7 @@ Go to Mitra and Varuna, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑ङ्गच्छ॒ स्वाहा॑ ।
+सो᳓मङ्गच्छ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -169,7 +169,7 @@ Go to Soma, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञङ्ग॑च्छ॒ स्वाहा॑ ।
+यज्ञ᳓ङ्गच्छ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -195,7 +195,7 @@ Go to the sacrifice, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-छन्दाँ॑सि गच्छ॒ स्वाहा॑ ।
+छ᳓न्दाँसि गच्छ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -221,7 +221,7 @@ Go to the meters, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्यावा॑पृथि॒वी ग॑च्छ॒ स्वाहा॑ ।
+द्या᳓वापृथिवी᳓ गच्छ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -247,7 +247,7 @@ Go to the sky and the earth, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नभो॑ दि॒व्यङ्ग॑च्छ॒ स्वाहा॑ ।
+न᳓भो दिव्य᳓ङ्गच्छ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -273,7 +273,7 @@ Go to the clouds of the sky, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निव्ँ वै॑श्वान॒रङ्ग॑च्छ॒ स्वाहा॑ ।
+अग्निव्ँ᳓ वैश्वानर᳓ङ्गच्छ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -309,7 +309,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(गुदावदानलेप!)+++ अ॒द्भ्यस्
++++(गुदावदानलेप!)+++ अद्भ्य᳓स्
 </details>
 
 <details><summary>Keith</summary>
@@ -319,7 +319,7 @@ To the waters thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वौष॑धीभ्यः +++(निमार्ज्मि)+++।
+त्वौ᳓षधीभ्यः +++(निमार्ज्मि)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -329,7 +329,7 @@ To the plants thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मनो॑ मे॒ हार्दि॑ यच्छ ।
+म᳓नो मे हा᳓र्दि यच्छ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -370,7 +370,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त॒नून् त्वच॑म् पु॒त्त्रन् नप्ता॑रम् अशीय।
+तनू᳓न् त्व᳓चम् पुत्त्र᳓न् न᳓प्तारम् अशीय।
 </details>
 
 <details><summary>Keith</summary>
@@ -406,9 +406,9 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शुग॑सि ।  
-तम् अ॒भि शो॑च॒ यो॑ऽस्मान् द्वेष्टि॒  
-यञ् च॑ व॒यन् द्वि॒ष्मः।
+शु᳓गसि ।  
+त᳓म् अभि᳓ शोच यो᳙ऽस्मान् द्वेष्टि  
+य᳓ञ् च वय᳓न् द्विष्मः᳓।
 </details>
 
 <details><summary>Keith</summary>
@@ -445,27 +445,24 @@ _______
 धाम्नो॑धाम्नो राजन्नि॒तो व॑रुण नो मुञ्च॒ यदापो॒ अघ्नि॑या॒ वरु॒णेति॒ शपा॑महे॒ ततो॑ वरुण नो मुञ्च ॥ [20]
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam/02_dhAmnodhAmno_rAjann.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam/02_dhAmnodhAmno_rAjann.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-धाम्नो॑धाम्नो+++(=शृङ्खलाभ्यो)+++ राजन्न्  
-इ॒तो व॑रुण नो मुञ्च ।  
-यद् "+++(श्रुणुत)+++ आपो॒ अघ्नि॑या॒ +++(→गावः)+++ वरु॒णे"ति॒ शपा॑महे॒  
-ततो॑ वरुण नो मुञ्च ॥
+धा᳓म्नोधाम्नो+++(=शृङ्खलाभ्यो)+++ राजन्न्  
+इतो᳓ वरुण नो मुञ्च ।  
+य᳓द् "+++(श्रुणुत)+++ आ᳓पो अ᳓घ्निया +++(→गावः)+++ व᳓रुणे᳓"ति श᳓पामहे  
+त᳓तो वरुण नो मुञ्च ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam/02_dhAmnodhAmno_rAjann.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam/02_dhAmnodhAmno_rAjann.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-धाम्नो॑धाम्नो+++(=शृङ्खलाभ्यो)+++ राजन्न्  
-इ॒तो व॑रुण नो मुञ्च ।  
-यद् "+++(श्रुणुत)+++ आपो॒ अघ्नि॑या॒ +++(→गावः)+++ वरु॒णे"ति॒ शपा॑महे॒  
-ततो॑ वरुण नो मुञ्च ॥
+धा᳓म्नोधाम्नो+++(=शृङ्खलाभ्यो)+++ राजन्न्  
+इतो᳓ वरुण नो मुञ्च ।  
+य᳓द् "+++(श्रुणुत)+++ आ᳓पो अ᳓घ्निया +++(→गावः)+++ व᳓रुणे᳓"ति श᳓पामहे  
+त᳓तो वरुण नो मुञ्च ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -494,7 +491,6 @@ From whatever oath by the waters, by the kine, by Varuna, we have sworn, From th
 निदर्शनं चैतत् प्रशस्तदेवतानामन्यासामपि । यथा - हे इर्श्वर, हे तपन, हे विधातरिति । तत्र लौकिकानां कृताद्युदात्तानामामन्त्रणपदानामिदमनुकरणम् । ततश्च सत्यपि पदात्परत्वे आमन्त्रितनिघातो न प्रवर्तते । न ह्यत्र मार्जयमाना अबादीनामन्त्रयन्ते । शप आक्रोशे स्वरितेत्त्वादात्मनेपदम् । यद्वा - 'शप उपालम्भने' इत्यात्मनेपदम् । वाचा शरीरस्पर्शनमुपालम्भः । अतोयमर्थः - हे आपः युष्मभ्यं शपामहे नेदमस्माभिर्ज्ञातमिति । एवं यच्छपामहे सत्यमिति वा विषये शोकावेगेन ततोपि पापादस्मान्मुञ्चेति । अघ्नियाशब्दो यत्प्रत्ययान्तोन्तोदात्तः । यथा 'पतिरघ्नियानाम्' इति । तस्य षाष्ठिकमामन्त्रिताद्युदात्तत्वम् । वरुणेत्यप्यघ्नियाशब्दानन्तरमामन्त्रितानुकरणत्वान्न निहन्यते, अन्यस्तु निहन्यत एव ॥
 </details>
 </details>
-
 </div>
 
 इति तृतीये एकादशोनुवाकः ॥  

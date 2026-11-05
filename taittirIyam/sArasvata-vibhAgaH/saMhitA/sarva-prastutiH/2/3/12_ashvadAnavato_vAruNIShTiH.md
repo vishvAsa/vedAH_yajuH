@@ -1,6 +1,5 @@
 +++
 title = "१२ अश्वदानवतो वारुणीष्टिः"
-
 +++
 
 विश्वेदेवा ऋषयः ।
@@ -12,7 +11,7 @@ title = "१२ अश्वदानवतो वारुणीष्टिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑ति॒र्वरु॑णा॒याश्व॑मनयत् ।  
+प्रजा᳓पतिर्व᳓रुणाया᳓श्वमनयत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -32,7 +31,7 @@ Prajapati led the horse to Varuna,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स स्वान्दे॒वता॑मार्च्छत् ।  
+स᳓ स्वा᳓न्देव᳓तामार्च्छत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -52,7 +51,7 @@ it went to its own deity,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स पर्य॑दीर्यत ।  
+स᳓ प᳓र्यदीर्यत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -72,8 +71,8 @@ he was afflicted;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॒तव्ँवा॑रु॒णञ्चतु॑ष्कपालमपश्यत् ।  
-तन्निर॑वपत् ।  
+स᳓ एतव्ँ᳓वारुण᳓ञ्च᳓तुष्कपालमपश्यत् ।  
+त᳓न्नि᳓रवपत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -95,7 +94,7 @@ he saw this (offering) to Varuna on four potsherds, he offered it;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वै स व॑रुणपा॒शाद॑मुच्यत ।
+त᳓तो वै᳓ स᳓ वरुणपाशा᳓दमुच्यत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -110,7 +109,7 @@ then indeed was he set free from Varuna's noose.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरु॑णो॒ वा ए॒तङ्गृ॑ह्णाति ।
+व᳓रुणो वा᳓ एत᳓ङ्गृह्णाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -130,7 +129,7 @@ Varuna seizes him
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-योऽश्व॑म्प्रतिगृ॒ह्णाति॑।
+यो᳓ऽश्वम्प्रतिगृह्णा᳓ति।
 </details>
 
 <details><summary>Keith</summary>
@@ -145,7 +144,7 @@ who accepts the horse.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याव॒तोऽश्वा॑न्प्रतिगृह्णी॒यात् ।
+या᳓वतो᳓ऽश्वान्प्रतिगृह्णीया᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -160,7 +159,7 @@ As many horses as he accepts, so many (offerings) to Varuna should he offer; ver
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव॑तो वारु॒णाञ्चतु॑ष्कपाला॒न्निर्व॑पेत् ।
+ता᳓वतो वारुणा᳓ञ्च᳓तुष्कपालान्नि᳓र्वपेत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -208,7 +207,7 @@ As many horses as he accepts, so many (offerings) to Varuna should he offer; ver
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एक॒मति॑रिक्त॒न्निर्व॑पेत्  ।
+ए᳓कम᳓तिरिक्तन्नि᳓र्वपेत्  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -228,9 +227,9 @@ He should offer an extra one;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यमे॒व प्र॑तिग्रा॒ही भव॑ति ।  
-यव्ँवा॒ नाध्येति॑ ।  
-तस्मा॑दे॒व व॑रुणपा॒शान्मु॑च्यते ।  
+य᳓मेव᳓ प्रतिग्राही᳓ भ᳓वति ।  
+यव्ँ᳓वा ना᳓ध्ये᳓ति ।  
+त᳓स्मादेव᳓ वरुणपाशा᳓न्मुच्यते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -257,8 +256,8 @@ whatever (horse) he is going to accept or whatever (horse) he has overlooked, fr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्यप॑रम्प्रतिग्रा॒ही स्यात् ।  
-सौ॒र्यमेक॑कपाल॒मनु॒ निर्व॑पेत् ।  
+य᳓द्य᳓परम्प्रतिग्राही᳓ स्या᳓त् ।  
+सौर्य᳓मे᳓ककपालम᳓नु नि᳓र्वपेत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -279,7 +278,7 @@ If he is going to accept another, he should offer in supplement an offering to S
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒मुमे॒वादि॒त्यमु॑च्चा॒रङ्कु॑रुते ।
+अमु᳓मेवा᳓दित्य᳓मुच्चार᳓ङ्कुरुते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -304,7 +303,7 @@ verily he makes yonder sun to rise.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पो॑ऽवभृ॒थमवै॑ति ।
+अपो᳙ऽवभृथ᳓म᳓वैति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -319,7 +318,7 @@ He goes to the waters as the final bath, Varuna is in the waters;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒प्सु वै वरु॑णस्सा॒क्षादे॒व वरु॑ण॒मव॑ यजते ।
+अप्सु᳓ वै᳓ व᳓रुणस्साक्षा᳓देव᳓ व᳓रुणम᳓व यजते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -339,7 +338,7 @@ verily straightway he appeases Varuna.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पो॒न॒प्त्री॒य॑ञ्च॒रुम् पुन॒रेत्य॒ निर्व॑पेत् ।  
+अपोनप्त्रीय᳙ञ्चरु᳓म् पु᳓नरे᳓त्य नि᳓र्वपेत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -359,7 +358,7 @@ After his return he should offer an oblation to Apam Napat;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒प्सुयो॑नि॒र्वा अश्व॒स्स्वामे॒वैनय्ँ॒योनि॑ङ्गमयति ।  
+अप्सु᳓योनिर्वा᳓ अ᳓श्वस्स्वा᳓मेवै᳓नय्ँयो᳓निङ्गमयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -379,7 +378,7 @@ the horse has its birthplace in the waters; verily he makes him go to his own bi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॑नँ शा॒न्त उप॑ तिष्ठते ॥
+स᳓ एनँ शान्त᳓ उ᳓प तिष्ठते ॥
 </details>
 
 <details><summary>Keith</summary>

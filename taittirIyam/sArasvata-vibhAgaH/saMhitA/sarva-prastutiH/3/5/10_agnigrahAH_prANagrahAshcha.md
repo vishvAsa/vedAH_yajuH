@@ -1,14 +1,13 @@
 +++
 title = "१० अग्निग्रहाः प्राणग्रहाश्च"
-
 +++
 १ त्रिष्टुप्  
 विश्वेदेवा ऋषयः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वे क्रतु॒मपि॑ वृञ्जन्ति॒ विश्वे॒ द्विर्यदे॒ते त्रिर्भव॒न्त्यूमाः॑  ।   
-स्वा॒दोस्स्वादी॑यस्स्वा॒दुना॑ सृजा॒ समत॑ ऊ॒ षु मधु॒ मधु॑ना॒भि यो॑धि  ।   
+त्वे᳓ क्र᳓तुम᳓पि वृञ्जन्ति वि᳓श्वे द्वि᳓र्य᳓देते᳓ त्रि᳓र्भ᳓वन्त्यू᳓माः  ।   
+स्वादो᳓स्स्वा᳓दीयस्स्वादु᳓ना सृजा स᳓म᳓त ऊ षु᳓ म᳓धु म᳓धुनाभि᳓ योधि  ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -26,11 +25,11 @@ title = "१० अग्निग्रहाः प्राणग्रहा
 
 उ॒प॒या॒मगृ॑हीतोऽसि प्र॒जाप॑तये त्वा॒ जुष्ट॑ङ्गृह्णाम्ये॒ष ते॒ योनिᳶ॑ प्र॒जाप॑तये त्वा  ।   
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -53,13 +52,12 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/prajApataye_tvA.md">
-<details open><summary><h5>प्रजापतये त्वा ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/prajApataye_tvA.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तये त्वा॒ जुष्ट॑ङ्गृह्णामि ।
+प्रजा᳓पतये त्वा जु᳓ष्टङ्गृह्णामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -88,7 +86,7 @@ _________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॑ᳶ प्र॒जाप॑तये त्वा ॥ [46]
+एष᳓ ते यो᳓निᳶ प्रजा᳓पतये त्वा ॥ [46]
 </details>
 
 <details><summary>Keith</summary>
@@ -105,11 +103,11 @@ this is thy birthplace; to Prajapati thee!
 
 'पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒ण॒ग्र॒हान्गृ॑ह्णाति  ।   
+प्राणग्रहा᳓न्गृह्णाति  ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -129,7 +127,7 @@ this is thy birthplace; to Prajapati thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ताव॒द्वा अ॑स्ति॒ याव॑दे॒ते ग्रहा॒स्स्तोमा॒श्छन्दाँ॑सि पृ॒ष्ठानि॒ दिशो॒ याव॑दे॒वास्ति॒ तदव॑ रुन्द्धे ।  
+एता᳓वद्वा᳓ अस्ति या᳓वदेते᳓ ग्र᳓हास्स्तो᳓माश्छ᳓न्दाँसि पृष्ठा᳓नि दि᳓शो या᳓वदेवा᳓स्ति त᳓द᳓व रुन्द्धे ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -149,13 +147,13 @@ this is thy birthplace; to Prajapati thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्ये॒ष्ठा वा ए॒तान्ब्रा॑ह्म॒णाᳶ पु॒रा वि॒द्वाम॑क्रन् ।   
+ज्येष्ठा᳓ वा᳓ एता᳓न्ब्राह्मणाᳶ᳓ पुरा᳓ विद्वा᳓मक्रन् ।   
 
-तस्मा॒त्तेषाँ॒ सर्वा॒ दिशो॒ऽभिजि॑ता अभूवन् ।  
+त᳓स्मात्ते᳓षाँ स᳓र्वा दि᳓शोऽभि᳓जिता अभूवन् ।  
 
-यस्यै॒ते गृ॒ह्यन्ते॒ ज्यैष्ठ्य॑मे॒व ग॑च्छति ।  
+य᳓स्यैते᳓ गृह्य᳓न्ते ज्यै᳓ष्ठ्यमेव᳓ गच्छति ।  
 
-अ॒भि दिशो॑ जयति ।  
+अभि᳓ दि᳓शो जयति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -181,8 +179,8 @@ this is thy birthplace; to Prajapati thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्च॑ गृह्यन्ते ।  
-पञ्च॒ दिश॒स्सर्वा॑स्वे॒व दि॒क्ष्वृ॑ध्नुवन्ति ।  
+प᳓ञ्च गृह्यन्ते ।  
+प᳓ञ्च दि᳓शस्स᳓र्वास्वेव᳓ दिक्ष्वृ᳙ध्नुवन्ति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -198,7 +196,7 @@ this is thy birthplace; to Prajapati thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नव॑नव गृह्यन्ते ।  
+न᳓वनव गृह्यन्ते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -213,7 +211,7 @@ this is thy birthplace; to Prajapati thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नव॒ वै पुरु॑षे प्रा॒णाᳶ प्रा॒णाने॒व यज॑मानेषु दधति ।  
+न᳓व वै᳓ पु᳓रुषे प्राणाᳶ᳓ प्राणा᳓नेव᳓ य᳓जमानेषु दधति ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -233,9 +231,9 @@ this is thy birthplace; to Prajapati thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒य॒णीये॑  चोदय॒नीये॑ च गृह्यन्ते ।  
-प्रा॒णा वै प्रा॑णग्र॒हाᳶ प्रा॒णैरे॒व प्र॒यन्ति॑ ।  
-प्रा॒णैरुद्य॑न्ति दश॒मेऽह॑न्गृह्यन्ते ।
+प्रायणी᳓ये  चोदयनी᳓ये च गृह्यन्ते ।  
+प्राणा᳓ वै᳓ प्राणग्रहाᳶ᳓ प्राणै᳓रेव᳓ प्रय᳓न्ति ।  
+प्राणै᳓रु᳓द्यन्ति दशमे᳓ऽहन्गृह्यन्ते ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -257,11 +255,11 @@ this is thy birthplace; to Prajapati thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णा वै प्रा॑णग्र॒हाᳶ प्रा॒णेभ्य॒ᳵ खलु॒ वा ए॒तत्प्र॒जा य॑न्ति ।  
-यद्वा॑मदे॒व्यय्ँयोने॒श्च्यव॑ते ।  
-दश॒मेऽह॑न्वामदे॒व्यय्ँयोने॑श्च्यवते ।  
-यद्द॑श॒मेऽह॑न्गृ॒ह्यन्ते॑ ।  
-प्रा॒णेभ्य॑ ए॒व तत्प्र॒जा न य॑न्ति ॥
+प्राणा᳓ वै᳓ प्राणग्रहाᳶ᳓ प्राणे᳓भ्यᳵ ख᳓लु वा᳓ एत᳓त्प्रजा᳓ यन्ति ।  
+य᳓द्वामदेव्यय्ँ᳓यो᳓नेश्च्य᳓वते ।  
+द᳓शमे᳓ऽहन्वामदेव्यय्ँ᳓यो᳓नेश्च्यवते ।  
+य᳓द्दशमे᳓ऽहन्गृह्य᳓न्ते ।  
+प्राणे᳓भ्य एव᳓ त᳓त्प्रजा᳓ न᳓ यन्ति ॥
 </details>
 
 <details><summary>मूलम्</summary>

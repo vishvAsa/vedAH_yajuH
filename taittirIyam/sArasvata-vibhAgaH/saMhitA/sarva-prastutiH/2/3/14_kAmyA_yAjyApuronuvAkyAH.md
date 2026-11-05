@@ -1,6 +1,5 @@
 +++
 title = "१४ काम्या याज्यापुरोनुवाक्याः"
-
 +++
 इष्टिकाण्डे याज्याकाण्डम्
 
@@ -15,7 +14,7 @@ title = "१४ काम्या याज्यापुरोनुवाक
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स प्र॑त्न॒वत् ..
+स᳓ प्रत्नव᳓त् ..
 </details>
 
 <details><summary>Keith</summary>
@@ -45,7 +44,7 @@ Thou from of old.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निकाव्या॑ ..
+नि᳓का᳓व्या ..
 </details>
 
 <details><summary>Keith</summary>
@@ -77,7 +76,7 @@ The wise contrivings.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रव्ँ॑वो वि॒श्वत॒स्परि ..
+इ᳓न्द्रव्ँवो विश्व᳓तस्प᳓रि᳓ ..
 </details>
 
 <details><summary>Keith</summary>
@@ -107,7 +106,7 @@ Indra on all sides.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॒न्नरः॑ ..
+इ᳓न्द्रन्न᳓रः ..
 </details>
 
 <details><summary>Keith</summary>
@@ -139,7 +138,7 @@ Indra men.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वन्न॑स्सोम वि॒श्वतो॒ रक्षा॑ राजन्नघाय॒तः ।
+त्व᳓न्नस्सोम विश्व᳓तो र᳓क्षा राजन्नघायतः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -154,7 +153,7 @@ Do thou guard us, O Soma, on all sides, O king, from him who plots evil;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न रि॑ष्ये॒त्त्वाव॑त॒स्सखा॑ ।
+न᳓ रिष्येत्त्वा᳓वतस्स᳓खा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -179,8 +178,8 @@ Lot not the friend of such as thou come to harm.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या ते॒ धामा॑नि दि॒वि या पृ॑थि॒व्याय्ँ या पर्व॑ते॒ष्वोष॑धीष्व॒प्सु ।   
-तेभि॑र्नो॒ विश्वैः॑ सु॒मना॒ अहे॑ड॒न्राज॑न्त्सोम॒ प्रति॑ ह॒व्या गृ॑भाय ।
+या᳓ ते धा᳓मानि दिवि᳓ या᳓ पृथिव्याय्ँ᳓ या᳓ प᳓र्वतेष्वो᳓षधीष्वप्सु᳓ ।   
+ते᳓भिर्नो वि᳓श्वैः सुम᳓ना अ᳓हेडन्रा᳓जन्त्सोम प्र᳓ति हव्या᳓ गृभाय ।
 </details>
 
 <details><summary>Keith</summary>
@@ -206,8 +205,8 @@ Thy places in the sky, in the earth, In the mountains, in the plants, in the wat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्नी॑षोमा॒ सवे॑दसा॒ सहू॑ती वनत॒ङ्गिरः॑ ।  
-सन्दे॑व॒त्रा ब॑भूवथुः ।
+अ᳓ग्नीषोमा स᳓वेदसा स᳓हूती वनतङ्गि᳓रः ।  
+स᳓न्देवत्रा᳓ बभूवथुः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -233,7 +232,7 @@ O Agni and Soma, united, With common offering, accept our prayers, Ye were born 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यु॒वम् [51]  ए॒तानि॑ दि॒वि रो॑च॒नान्य॒ग्निश्च॑ सोम॒ सक्र॑तू अधत्तम् ।
+युव᳓म् [51]  एता᳓नि दिवि᳓ रोचना᳓न्यग्नि᳓श्च सोम स᳓क्रतू अधत्तम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -248,7 +247,7 @@ Ye [1], O Agni and Soma, with common inspiration, Placed these lights in the sky
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यु॒वँ सिन्धूँ॑ र॒भिश॑स्तेरव॒द्यादग्नी॑षोमा॒वमु॑ञ्चतङ्गृभी॒तान् ।
+युवँ᳓ सि᳓न्धूँ रभि᳓शस्तेरवद्या᳓द᳓ग्नीषोमाव᳓मुञ्चतङ्गृभीता᳓न् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -273,7 +272,7 @@ Ye freed the streams from the dread imprecation When they were held fast.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्नी॑षोमावि॒मँ सु मे॑ शृणु॒तव्ँवृ॑षणा॒ हव॑म् ।
+अ᳓ग्नीषोमाविमँ᳓ सु᳓ मे शृणुतव्ँ᳓वृषणा ह᳓वम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -288,7 +287,7 @@ O Agni and Soma, hearken kindly, O ye strong ones, to my invocation;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रति॑ सू॒क्तानि॑ हर्यत॒म्भव॑तन्दा॒शुषे॒ मयः॑ ।
+प्र᳓ति सूक्ता᳓नि हर्यतम्भ᳓वतन्दाशु᳓षे म᳓यः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -313,7 +312,7 @@ Accept gladly our songs, Be a refreshment to the giver.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आन्यन्दि॒वो मा॑त॒रिश्वा॑ जभा॒राम॑थ्नाद॒न्यम्परि॑ श्ये॒नो अद्रेः॑ ।
+आ᳓न्य᳓न्दिवो᳓ मातरि᳓श्वा जभारा᳓मथ्नादन्य᳓म्प᳓रि श्येनो᳓ अ᳓द्रेः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -328,7 +327,7 @@ One from the sky Matariśvan bore, The falcon churned another from the rock;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्नी॑षोमा॒ ब्रह्म॑णा वावृधा॒नोरुय्ँ य॒ज्ञाय॑ चक्रथुरु लो॒कम् ।
+अ᳓ग्नीषोमा ब्र᳓ह्मणा वावृधानो᳓रुय्ँ᳓ यज्ञा᳓य चक्रथुरु लोक᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -353,8 +352,8 @@ Agni and Soma, waxing great through prayer, Ye made broad room for the sacrifice
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्नी॑षोमा ह॒विष॒ᳶ प्रस्थि॑तस्य वी॒तम् [52]  हर्य॑तव्ँवृषणा जु॒षेथा॑म् ।   
-सु॒शर्मा॑णा॒ स्वव॑सा॒ हि भू॒तमथा॑ धत्तय्ँ॒यज॑मानाय॒ शय्ँयोः ।
+अ᳓ग्नीषोमा हवि᳓षᳶ प्र᳓स्थितस्य वीत᳓म् [52]  ह᳓र्यतव्ँवृषणा जुषे᳓थाम् ।   
+सुश᳓र्माणा स्व᳓वसा हि᳓ भूत᳓म᳓था धत्तय्ँय᳓जमानाय शय्ँ᳓योः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -380,7 +379,7 @@ O Agni and Soma, the oblation which is set forth [2], Do ye taste, accept it, re
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ प्या॑यस्व ..
+आ᳓ प्यायस्व ..
 </details>
 
 <details><summary>Keith</summary>
@@ -418,7 +417,7 @@ Swell.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सन्ते॑ ..
+स᳓न्ते ..
 </details>
 
 <details><summary>Keith</summary>
@@ -456,7 +455,7 @@ Together thee.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ग॒णाना॑न्त्वा ग॒णप॑तिँ हवामहे क॒विङ्क॑वी॒नामु॑प॒मश्र॑वस्तमम् ।
+गणा᳓नान्त्वा गण᳓पतिँ हवामहे कवि᳓ङ्कवीना᳓मुपम᳓श्रवस्तमम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -471,7 +470,7 @@ Troop lord of troops we invoke thee, Sage of sages, most famous;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्ये॒ष्ठ॒राज॒म्ब्रह्म॑णाम्ब्रह्मणस्पत॒ आ न॑श्शृ॒ण्वन्नू॒तिभि॑स्सीद॒ साद॑नम् ।
+ज्येष्ठरा᳓जम्ब्र᳓ह्मणाम्ब्रह्मणस्पत आ᳓ नश्शृण्व᳓न्नूति᳓भिस्सीद सा᳓दनम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -496,8 +495,8 @@ Highest king of Brahmans, O lord of prayer, Hearkening to us with help do thou s
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स इज्जने॑न॒ स वि॒शा स जन्म॑ना॒ स पु॒त्रैर्वाज॑म्भरते॒ धना॒ नृभिः॑ ।  
-दे॒वानाय्ँ॒यᳶ पि॒तर॑मा॒विवा॑सति [53]  श्र॒द्धाम॑ना ह॒विषा॒ ब्रह्म॑ण॒स्पति॑म् ।
+स᳓ इ᳓ज्ज᳓नेन स᳓ विशा᳓ स᳓ ज᳓न्मना स᳓ पुत्रै᳓र्वा᳓जम्भरते ध᳓ना नृ᳓भिः ।  
+देवा᳓नाय्ँयᳶ᳓ पित᳓रमावि᳓वासति [53]  श्रद्धा᳓मना हवि᳓षा ब्र᳓ह्मणस्प᳓तिम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -523,7 +522,7 @@ He shall win booty and prizes with tribe, With clan, with family, with sons, wit
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स सु॒ष्टुभा॒ स ऋक्व॑ता ग॒णेन॑ व॒लँ रु॑रोज फलि॒गँ रवे॑ण ।
+स᳓ सुष्टु᳓भा स᳓ ऋ᳓क्वता गणे᳓न वलँ᳓ रुरोज फलिगँ᳓ र᳓वेण ।
 </details>
 
 <details><summary>Keith</summary>
@@ -538,7 +537,7 @@ He with his fair singing, harmonious troop, Crushed Vala and Phaliga with his cr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह॒स्पति॑रु॒स्रिया॑ हव्य॒सूद॒ᳵ कनि॑क्रद॒द्वाव॑शती॒रुदा॑जत् ।
+बृ᳓हस्प᳓तिरुस्रि᳓या हव्यसू᳓दᳵ क᳓निक्रदद्वा᳓वशतीरु᳓दाजत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -563,7 +562,7 @@ Thundering as they lowed.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मरु॑तो॒ यद्ध॑ वो दि॒वः ..
+म᳓रुतो य᳓द्ध वो दिवः᳓ ..
 </details>
 
 <details><summary>Keith</summary>
@@ -593,7 +592,7 @@ O Maruts, what time from the sky.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या व॒श्शर्म॑ ..
+या᳓ वश्श᳓र्म ..
 </details>
 
 <details><summary>Keith</summary>
@@ -623,7 +622,7 @@ The protections that ye.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒र्य॒मा या॑ति वृष॒भस्तुवि॑ष्मान्दा॒ता वसू॑नाम्पुरुहू॒तो अर्ह॑न् ।
+अर्यमा᳓ याति वृषभ᳓स्तु᳓विष्मान्दाता᳓ व᳓सूनाम्पुरुहूतो᳓ अ᳓र्हन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -638,7 +637,7 @@ Aryaman goeth, the mighty bull, The giver of wealth, much invoked, deserving;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒ह॒स्रा॒क्षो गो॑त्र॒भिद्वज्र॑बाहुर॒स्मासु॑ दे॒वो द्रवि॑णन्दधातु ।
+सहस्राक्षो᳓ गोत्रभि᳓द्व᳓ज्रबाहुरस्मा᳓सु देवो᳓ द्र᳓विणन्दधातु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -663,7 +662,7 @@ With a thousand eyes, opening the cow-pens, with the thunderbolt in his arm, May
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये ते॑ऽर्यमन्ब॒हवो॑ देव॒याना॒ᳶ पन्था॑नः [54]  रा॒ज॒न्दि॒व आ॒चर॑न्ति ।
+ये᳓ तेऽर्यमन्बह᳓वो देवया᳓नाᳶ प᳓न्थानः [54]  राजन्दिव᳓ आच᳓रन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -678,7 +677,7 @@ Thy many paths, O Aryaman, on which the gods go, O king, which come from the sky
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेभि॑र्नो देव॒ महि॒ शर्म॑ यच्छ॒ शन्न॑ एधि द्वि॒पदे॒ शञ्चतु॑ष्पदे ।
+ते᳓भिर्नो देव म᳓हि श᳓र्म यच्छ श᳓न्न एधि द्विप᳓दे श᳓ञ्च᳓तुष्पदे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -703,8 +702,8 @@ Be auspicious to our bipeds, to our quadrupeds.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बु॒ध्नादग्र॒मङ्गि॑रोभिर्गृणा॒नो वि पर्व॑तस्य दृँहि॒तान्यै॑रत् ।  
-रु॒जद्रोधाँ॑सि कृ॒त्रिमा॑ण्येषाँ॒ सोम॑स्य॒ ता मद॒ इन्द्र॑श्चकार ।
+बुध्ना᳓द᳓ग्रम᳓ङ्गिरोभिर्गृणानो᳓ वि᳓ प᳓र्वतस्य दृँहिता᳓न्यैरत् ।  
+रुज᳓द्रो᳓धाँसि कृत्रि᳓माण्येषाँ सो᳓मस्य ता᳓ म᳓द इ᳓न्द्रश्चकार ।
 </details>
 
 <details><summary>Keith</summary>
@@ -730,8 +729,8 @@ From the depth to the top, sung by the Angirases, He moved asunder the firm plac
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बु॒ध्नादग्रे॑ण॒ वि मि॑माय॒ मानै॒र्वज्रे॑ण॒ खान्य॑तृणन्न॒दीना॑म् ।   
-वृथा॑सृजत्प॒थिभि॑र्दीर्घया॒थैस्सोम॑स्य॒ ता मद॒ इन्द्र॑श्चकार ॥ [55]  
+बुध्ना᳓द᳓ग्रेण वि᳓ मिमाय मा᳓नैर्व᳓ज्रेण खा᳓न्यतृणन्नदी᳓नाम् ।   
+वृ᳓थासृजत्पथि᳓भिर्दीर्घयाथै᳓स्सो᳓मस्य ता᳓ म᳓द इ᳓न्द्रश्चकार ॥ [55]  
 </details>
 
 <details><summary>Keith</summary>
@@ -757,8 +756,8 @@ From the depth with the top he meted with measures, With the thunderbolt he crus
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र यो ज॒ज्ञे वि॒द्वाँ अ॒स्य बन्धुव्ँ॒विश्वा॑नि दे॒वो जनि॑मा विवक्ति ।  
-ब्रह्म॒ ब्रह्म॑ण॒ उज्ज॑भार॒ मध्या॑न्नी॒चादु॒च्चा स्व॒धया॒भि प्र त॑स्थौ ।
+प्र᳓ यो᳓ जज्ञे᳓ विद्वाँ᳓ अस्य᳓ ब᳓न्धुव्ँवि᳓श्वानि देवो᳓ ज᳓निमा विवक्ति ।  
+ब्र᳓ह्म ब्र᳓ह्मण उ᳓ज्जभार म᳓ध्यान्नीचा᳓दुच्चा᳓ स्वध᳓याभि᳓ प्र᳓ तस्थौ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -784,7 +783,7 @@ Who was born knowing his connexion, The god declareth all births, From the middl
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒हान्म॒ही अ॑स्तभाय॒द्वि जा॒तो द्याँ सद्म॒ पार्थि॑वञ्च॒ रजः॑ ।
+महा᳓न्मही᳓ अस्तभायद्वि᳓ जातो᳓ द्याँ᳓ स᳓द्म पा᳓र्थिवञ्च र᳓जः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -799,7 +798,7 @@ Born in greatness, he established apart the great ones, The sky as a seat and th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स बु॒ध्नादा॑ष्ट ज॒नुषा॒भ्यग्र॒म्बृह॒स्पति॑र्दे॒वता॒ यस्य॑ स॒म्राट् ।
+स᳓ बुध्ना᳓दाष्ट जनु᳓षाभ्य᳓ग्रम्बृ᳓हस्प᳓तिर्देव᳓ता य᳓स्य सम्रा᳓ट् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -824,8 +823,8 @@ From the depth be hath won to the top with his race, Whose deity is Brhaspati, t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बु॒ध्नाद्यो अग्र॑म॒भ्यर्त्योज॑सा॒ बृह॒स्पति॒मा वि॑वासन्ति दे॒वाः ।  
-भि॒नद्व॒लव्ँवि पुरो॑ दर्दरीति॒ कनि॑क्रद॒त्सुव॑र॒पो जि॑गाय ॥ [56]  
+बुध्ना᳓द्यो᳓ अ᳓ग्रमभ्य᳓र्त्यो᳓जसा बृ᳓हस्प᳓तिमा᳓ विवासन्ति देवाः᳓ ।  
+भिन᳓द्वलव्ँ᳓वि᳓ पु᳓रो दर्दरीति क᳓निक्रदत्सु᳓वरपो᳓ जिगाय ॥ [56]  
 </details>
 
 <details><summary>Keith</summary>

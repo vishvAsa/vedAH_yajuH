@@ -2,8 +2,7 @@
 title = "९ ०८-१६ नासदीयम्"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/129_nAsadIyam/">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/129_nAsadIyam/">
 <div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/_index.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>सायण-भाष्यम्</summary>
@@ -1891,7 +1890,7 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 अ᳓था को᳓ वेद य᳓त आबभू᳓व
 </details>
 
-<details open><summary>मूलम् - तैत्तिरीयम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 को अ॒द्धा वे॑द॒ क इ॒ह प्र वो॑चत् ।  
 कुत॒ आजा॑ता॒ कुत॑ इ॒यव्विँसृ॑ष्टिः ।  
@@ -2562,11 +2561,9 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 </details>
 </details>
 </div>
-
 </div>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/081/04_kiM_svidvanaM.md">
-
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/081/04_kiM_svidvanaM.md">
 <details open><summary><h2>०४ किं स्विद्वनं …{Loading}…</h2></summary>
 
 किं᳓स्विद् व᳓नं क᳓ उ स᳓ वृक्ष᳓ **आस**+++(आसीत् इति तैत्तिरीयपाठः)+++᳙ -  
@@ -2575,11 +2572,17 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 य᳓द् **अध्य᳓तिष्ठद्** भु᳓वनानि **धार᳓यन्** ।  
 
 </details>
-
 </div>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/081/04_kiM_svidvanaM.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/081/04_kiM_svidvanaM.md">
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
+किं स्वि॒द्वनं॒ क उ॒ स वृ॒क्ष आ॑स॒ यतो॒ द्यावा॑पृथि॒वी नि॑ष्टत॒क्षुः ।  
+मनी॑षिणो॒ मन॑सा पृ॒च्छतेदु॒ तद्यद॒ध्यति॑ष्ठ॒द्भुव॑नानि धा॒रय॑न् ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/081/04_kiM_svidvanaM.md">
 <details open><summary><h2>004 …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2882,11 +2885,9 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 - धैवतः
 </details>
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ब्र᳓ह्म व᳓नम् ब्र᳓ह्म स᳓ वृक्ष᳓ **आसीत्** ॥ 76 ॥  
@@ -2895,11 +2896,9 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 ब्र᳓ह्माध्य᳓तिष्ठद् +++("चादिलोपे विभाषा")+++ भु᳓वनानि **धार᳓यन्** ।
 
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -2918,5 +2917,4 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 हे मनीषिणः आचार्योऽहं मनसा निश्चित्य वः युष्मभ्यं विब्रवीमि विविधमुत्तरं ब्रवीमि ॥
 </details>
 </details>
-
 </div>

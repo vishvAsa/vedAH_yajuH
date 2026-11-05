@@ -15,9 +15,19 @@ unicode_script: devanagari
 
 1मेधाकामो जुहोति जपति वा - मेधा देवीति ॥ द्वेत्रिष्टुभौ ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/02_medhA_devI.md"></div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/02_medhA_devI.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/02_medhA_devI.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+मेधा᳓ देवी᳓ **जुष᳓माणा** न **आ᳓गाद्**  
+**विश्वा᳓ची**+++(=विश्वम् अनक्तीति)+++ भद्रा᳓ **सुमनस्य᳓माना** +++(=सुमनः कामयन्ती)+++ ।  
+त्व᳓या **जु᳓ष्टा नुद᳓माना** दुरु᳓क्तान्  
+बृह᳓द् **वदेम** विद᳓थे+++(=यज्ञे)+++ सुवी᳓राः ॥
+</details>
+</div>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/02_medhA_devI.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 मे॒धा दे॒वी जु॒षमा॑णा न॒ आगा॑द्  
@@ -33,9 +43,20 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/04_tvayA_juShTa.md"></div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/04_tvayA_juShTa.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/04_tvayA_juShTa.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+त्व᳓या **जु᳓ष्ट** ऋ᳓षिर्+++(~~ऋषि᳓र्~~)+++ **भवति** देवि  
+त्व᳓या ब्र᳓ह्मा+++(←स्वरः??)+++ गत᳓-श्रीर्+++(←स्वरः??)+++ उत᳓ त्व᳓या ।  
+त्व᳓या **जु᳓ष्टश्** चित्रव्ँ᳓ **विन्दते** व᳓सु+++(←स्वरपरिष्कारः)+++  
+सा᳓ नो **जुषस्व** द्र᳓विणेन मेधे । (54)
+
+</details>
+</div>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/04_tvayA_juShTa.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 त्वया॒ जुष्ट॑ ऋ॒षिर् भ॑वति देवि॒  
@@ -54,9 +75,19 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/06_medhAM_ma.md"></div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/06_medhAM_ma.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/06_medhAM_ma.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+मेधां᳓ म इ᳓न्द्रो **ददातु**  
+मेधा᳓न् देवी᳓ स᳓रस्वती ।  
+मेधां᳓ मे अश्वि᳓नौ देवा᳓व्  
+**आ᳓धत्तां** पु᳓ष्करस्रजा । (55)
+</details>
+</div>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/06_medhAM_ma.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 मे॒धां म॒ इन्द्रो॑ ददातु  
@@ -72,9 +103,19 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/08_apsarAsu_yA.md"></div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/08_apsarAsu_yA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/08_apsarAsu_yA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अप्सरा᳓सु [च] या᳓ मेधा᳓  
+गन्धर्वे᳓षु च य᳓न् म᳓नः ।  
+दै᳓वी मेधा᳓ मनुष्य-**जा᳓** सा᳓ मां  
+मेधा᳓ सुर᳓भिर् **जुषताम्** । (56)
+</details>
+</div>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/08_apsarAsu_yA.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अ॒प्स॒रासु॑ [च॒] या मे॒धा  
@@ -91,9 +132,19 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/10_A_mAm.md"></div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/10_A_mAm.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/10_A_mAm.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+आ᳓ मां मेधा᳓ सुर᳓भिर् विश्व᳓रूपा  
+हि᳓रण्यवर्णा ज᳓गती **जगम्या᳓**+++(=??)+++ ।  
+ऊ᳓र्जस्वती प᳓यसा **पि᳓न्वमाना**  
+सा᳓ मां मेधा᳓ सुप्र᳓तीका **जुषताम्** । (57)
+</details>
+</div>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/10_A_mAm.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 आ मां॑ मे॒धा सु॒रभि॑र् वि॒श्वरू॑पा॒  

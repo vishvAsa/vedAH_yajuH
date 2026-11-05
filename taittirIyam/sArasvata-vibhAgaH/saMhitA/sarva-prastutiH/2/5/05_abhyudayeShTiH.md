@@ -1,6 +1,5 @@
 +++
 title = "०५ अभ्युदयेष्टिः"
-
 +++
 
 प्रजापतिऋषिः ।
@@ -14,7 +13,7 @@ title = "०५ अभ्युदयेष्टिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नासो॑मयाजी॒ सन्न॑येत् +++(अमावास्यासु दधि)+++।  
+ना᳓सोमयाजी स᳓न्नयेत् +++(अमावास्यासु दधि)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -44,7 +43,7 @@ No one who is not a Soma sacrificer should offer the Samnayya.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अना॑गतव्ँ॒ वा ए॒तस्य॒ पयो॒ योऽसो॑मयाजी।  
+अ᳓नागतव्ँ वा᳓ एत᳓स्य प᳓यो यो᳓ऽसोमयाजी।  
 </details>
 
 <details><summary>Keith</summary>
@@ -74,9 +73,9 @@ For the milk of him who is not a Soma sacrificer is imperfect,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् असो॑मयाजी स॒न्नये॑त् -  
-परिमो॒ष ए॒व सो ऽनृ॑तङ् करोति ।  
-अथो॒ परै॒व सि॑च्यते ।  
+य᳓द् अ᳓सोमयाजी सन्न᳓येत् -  
+परिमोष᳓ एव᳓ सो᳓ ऽनृतङ् करोति ।  
+अ᳓थो प᳓रैव᳓ सिच्यते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -113,7 +112,7 @@ and (his milk) is poured forth in vain.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॒म॒या॒ज्ये॒॑व सन्न॑येत् ।  
+सोमयाज्ये᳓व᳓ स᳓न्नयेत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -148,9 +147,9 @@ A Soma sacrificer only should offer the Samnayya.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पयो॒ वै सोमः॑   
-पय॑स् सान्ना॒य्यम्।  
-पय॑सै॒व पय॑ आ॒त्मन् ध॑त्ते ।  
+प᳓यो वै᳓ सो᳓मः   
+प᳓यस् सान्नाय्य᳓म्।  
+प᳓यसैव᳓ प᳓य आत्म᳓न् धत्ते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -191,9 +190,9 @@ verily with milk he places milk in himself.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**वि** वा ए॒तम् प्र॒जया॑ प॒शुभि॑र् +++(वि←)+++**अर्धयति**,  
-**व॒र्धय॑त्य्** अस्य॒ भ्रातृ॑व्यम्,  
-यस्य॑ ह॒विर् निरु॑प्तम् पु॒रस्ता॑च् च॒न्द्रमा॑ **अ॒भ्यु॒॑देति॑** ।
+**वि᳓** वा᳓ एत᳓म् प्रज᳓या पशु᳓भिर् +++(वि←)+++**अर्धयति**,  
+**वर्ध᳓यत्य्** अस्य भ्रा᳓तृव्य᳓म्,  
+य᳓स्य हवि᳓र् नि᳓रुप्तम् पुर᳓स्ताच् चन्द्र᳓मा **अभ्यु᳓दे᳓ति** ।
  । ।
 </details>
 
@@ -327,12 +326,12 @@ on whose sacrifice, when offered, it rises in the east [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रे॒धा त॑ण्डु॒लान् वि भ॑जेत् ।  
-ये म॑ध्य॒मास् स्युस्  
-तान् अ॒ग्नये॑ दा॒त्रे  
-पु॑रो॒डाश॑म् अ॒ष्टाक॑पालङ् कुर्या॒द्  
-ये स्थवि॑ष्ठा॒स् तान् इन्द्रा॑य प्रदा॒त्रे द॒धँश् च॒रुय्ँ  
-येऽणि॑ष्ठा॒स् तान् विष्ण॑वे शिपि+++(=किरण, गो)+++-वि॒ष्टाय॑ शृ॒ते च॒रुम्
+त्रेधा᳓ तण्डुला᳓न् वि᳓ भजेत् ।  
+ये᳓ मध्यमा᳓स् स्यु᳓स्  
+ता᳓न् अग्न᳓ये दात्रे᳓  
+पुरोडा᳓शम् अष्टा᳓कपालङ् कुर्याद्  
+ये᳓ स्थ᳓विष्ठास् ता᳓न् इ᳓न्द्राय प्रदात्रे᳓ दधँ᳓श् चरुय्ँ᳓  
+ये᳓ऽणिष्ठास् ता᳓न् वि᳓ष्णवे शिपि+++(=किरण, गो)+++-विष्टा᳓य शृते᳓ चरु᳓म्
  । ।
 </details>
 
@@ -406,8 +405,8 @@ the smallest (he should give) as a mess in boiled (milk) to Visnu Śipivista.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निर् ए॒वास्मै॑ प्र॒जाम् प्र॑ज॒नय॑ति +++(←चादिषु च)+++।  
-वृ॒द्धाम् इन्द्र॒ᳶ प्र य॑च्छति ।  
+अग्नि᳓र् एवा᳓स्मै प्रजा᳓म् प्रजन᳓यति +++(←चादिषु च)+++।  
+वृद्धा᳓म् इ᳓न्द्रᳶ प्र᳓ यच्छति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -435,9 +434,9 @@ Indra gives it in crease;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञो वै विष्णुः॑।  
-प॒शव॒श् शिपिः॑ ।  
-य॒ज्ञ ए॒व प॒शुषु॒ प्रति॑ तिष्ठति ।  
+यज्ञो᳓ वै᳓ वि᳓ष्णुः।  
+पश᳓वश् शि᳓पिः ।  
+यज्ञ᳓ एव᳓ पशु᳓षु प्र᳓ति तिष्ठति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -475,15 +474,15 @@ verily on the sacrifice and cattle he rests.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> न द्वे +++(इष्टी)+++ य॑जेत ।  
-यत् पूर्व॑या सम्प्र॒ति यजे॑त
-उत्त॑रया छ॒म्बट् कु॑र्यात् ।  
+> न᳓ द्वे᳓ +++(इष्टी)+++ यजेत ।  
+य᳓त् पू᳓र्वया सम्प्रति᳓ य᳓जेत᳓
+उ᳓त्तरया छम्ब᳓ट् कुर्यात् ।  
 >
-> यद् उत्त॑रया सम्प्र॒ति यजे॑त  
-पूर्व॑या छ॒म्बट् कु॑र्यात्  ।  
-नेष्टि॒र् भव॑ति ।  
-न य॒ज्ञः।  
-तद् अनु॑ ह्रीत-मु॒ख्य् अ॑पग॒ल्भो जा॑यते ।  
+> य᳓द् उ᳓त्तरया सम्प्रति᳓ य᳓जेत᳓  
+पू᳓र्वया छम्ब᳓ट् कुर्यात्  ।  
+ने᳓ष्टिर् भ᳓वति ।  
+न᳓ यज्ञः᳓।  
+त᳓द् अ᳓नु ह्रीत-मुख्य् अ᳙पगल्भो᳓ जायते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -555,8 +554,8 @@ for that cause a son is born shamefaced and retiring.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> एका॑म् ए॒व य॑जेत ।  
-प्र॒ग॒ल्भो॑ऽस्य जायते ।  
+> ए᳓काम् एव᳓ यजेत ।  
+प्रगल्भो᳙ऽस्य जायते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -590,17 +589,17 @@ a valiant son is born to him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अना॑दृत्य॒ तद्  
-द्वे ए॒व य॑जेत ।
+अ᳓नादृत्य त᳓द्  
+द्वे᳓ एव᳓ यजेत ।
 
-य॒ज्ञ॒मु॒खम् ए॒व पूर्व॑या॒ऽऽलभ॑ते +++(←चादिषु च)+++ ।  
-यज॑त॒ उत्त॑रया ।
+यज्ञमुख᳓म् एव᳓ पू᳓र्वयाऽऽल᳓भते +++(←चादिषु च)+++ ।  
+य᳓जत उ᳓त्तरया ।
 
-दे॒वता॑ ए॒व पूर्व॑याऽवरुन्द्धे  
-इन्द्रि॒यमुत्त॑रया ।
+देव᳓ता एव᳓ पू᳓र्वयाऽवरुन्द्धे  
+इन्द्रिय᳓मु᳓त्तरया ।
 
-दे॒व॒लो॒कम् ए॒व पूर्व॑याऽभि॒जय॑ति,  
-मनुष्यलो॒कम् उत्त॑रया ।  
+देवलोक᳓म् एव᳓ पू᳓र्वयाऽभिज᳓यति,  
+मनुष्यलोक᳓म् उ᳓त्तरया ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -648,8 +647,8 @@ the world of men with the second;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूय॑सो यज्ञक्र॒तून् उपै॑ति ।  
-ए॒षा वै सु॒मना॒ नामेष्टिः॑ ।  
+भू᳓यसो यज्ञक्रतू᳓न् उ᳓पैति ।  
+एषा᳓ वै᳓ सुम᳓ना ना᳓मे᳓ष्टिः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -727,8 +726,8 @@ This offering is called 'the friendly';
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यम् अ॒द्येजा॒नम् प॒श्चाच् च॒न्द्रमा॑ अ॒भ्यु॑देति +++(सूर्यास्त-समये)+++,  
-अ॒स्मिन्न् ए॒वास्मै॑ लो॒के ऽर्धु॑कम् भवति  ।
+य᳓म् अद्ये᳓जान᳓म् पश्चा᳓च् चन्द्र᳓मा अभ्यु᳙देति +++(सूर्यास्त-समये)+++,  
+अस्मि᳓न्न् एवा᳓स्मै लोके᳓ ऽर्धुकम् भवति  ।
  ।
 </details>
 
@@ -765,7 +764,7 @@ after he has sacrificed on that day.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दा॒क्षा॒य॒ण॒-य॒ज्ञेन॑ सुव॒र्ग-का॑मो यजेत ।  
+दाक्षायण-यज्ञे᳓न सुवर्ग᳓-कामो यजेत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -795,8 +794,8 @@ He who desires heaven should sacrifice with the Daksayana sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(द्वे)+++ पू॒र्णमा॑से॒ सन्न॑येन् मैत्रावरु॒ण्या ।  
-+++(द्वे)+++ आ॒मिक्ष॑या ऽमावा॒स्या॑याय्ँ यजेत ।  
++++(द्वे)+++ पूर्ण᳓मासे स᳓न्नयेन् मैत्रावरुण्या᳓ ।  
++++(द्वे)+++ आमि᳓क्षया ऽमावास्या᳙याय्ँ यजेत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -840,7 +839,7 @@ on the new moon he should sacrifice with clotted curds for Mitra and Varuna.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒र्णमा॑से॒ वै दे॒वानाँ॑ सु॒तः  
+पूर्ण᳓मासे वै᳓ देवा᳓नाँ सुतः᳓  
 </details>
 
 <details><summary>Keith</summary>
@@ -871,7 +870,7 @@ On the full moon (the Soma) is pressed for the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषा॑म् ए॒तम् अ॑र्धमा॒सम् प्रसु॑तः ।  
+ते᳓षाम् एत᳓म् अर्धमास᳓म् प्र᳓सुतः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -901,7 +900,7 @@ during this half-month it is pressed forth for them,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषा॑म् मैत्रावरु॒णी व॒शा+++(=वन्ध्या गौः)+++ ऽमा॑वा॒स्या॑याम् अनूब॒न्ध्या॑ ।  
+ते᳓षाम् मैत्रावरुणी᳓ वशा᳓+++(=वन्ध्या गौः)+++ ऽमावास्या᳙याम् अनूबन्ध्या᳙ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -936,8 +935,8 @@ and a cow for Mitra and Varuna is to be slaughtered for them at the new moon.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् पूर्वे॒द्युर् यज॑ते॒  
-वेदि॑म् ए॒व तत् क॑रोति।
+य᳓त् पू᳓र्वेद्यु᳓र् य᳓जते  
+वे᳓दिम् एव᳓ त᳓त् करोति।
  ।
 </details>
 
@@ -970,10 +969,10 @@ In that [4] he sacrifices on the day before, he makes the sacrificial enclosure.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् व॒त्सान् अ॑पाक॒रोति॑ -  
-सदो-हविर्-धा॒ने ए॒व **सम्मि॑नोति** ।
+य᳓द् वत्सा᳓न् अपाकरो᳓ति -  
+सदो-हविर्-धाने᳓ एव᳓ **स᳓म्मिनोति** ।
 
-यद् यज॑ते दे॒वैर् ए॒व सु॒त्याँ **सम्पा॑दयति**।  
+य᳓द् य᳓जते देवै᳓र् एव᳓ सुत्याँ᳓ **स᳓म्पादयति**।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1010,8 +1009,8 @@ In that he sacrifices, he produces with the gods the pressing day.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॒तम् अ॑र्धमा॒सँ स॑ध॒माद॑न्  
-दे॒वैस् सोम॑म् **पिबति** ।  
+स᳓ एत᳓म् अर्धमासँ᳓ सधमा᳓दन्  
+देवै᳓स् सो᳓मम् **पिबति** ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1041,9 +1040,9 @@ He drinks for the half-month Soma in carouse with the gods.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन् मै॑त्रावरु॒ण्या ऽमि॑क्षया ऽमावा॒स्या॑याय्ँ॒ यज॑ते॒  
-यैवासौ दे॒वानाव्ँ॑ व॒शाऽनू॑ब॒न्ध्या॒॑  
-सो ए॒वैषैतस्य॑।  
+य᳓न् मैत्रावरुण्या᳓ ऽमिक्षया ऽमावास्या᳙याय्ँ य᳓जते  
+यै᳓वा᳓सौ᳓ देवा᳓नाव्ँ वशा᳓ऽनूबन्ध्या᳓  
+सो᳓ एवै᳓षै᳓त᳓स्य।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1083,8 +1082,8 @@ becomes his also.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा॒क्षाद् वा ए॒ष दे॒वान् अ॒भ्यारो॑हति॒  
-य ए॑षाय्ँ य॒ज्ञम् अ॑भ्या॒रोह॑ति ।
+साक्षा᳓द् वा᳓ एष᳓ देवा᳓न् अभ्या᳓रोहति  
+य᳓ एषाय्ँ यज्ञ᳓म् अभ्यारो᳓हति ।
  ।
 </details>
 
@@ -1119,8 +1118,8 @@ who mounts upon their sacrifice [5].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा॒ खलु॒ वै श्रेया॑न् अ॒भ्यारू॑ढᳵ का॒मय॑ते॒  
-तथा॑ करोति ।  
+य᳓था ख᳓लु वै᳓ श्रे᳓यान् अभ्या᳓रूढᳵ काम᳓यते  
+त᳓था करोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1157,9 +1156,9 @@ Just as a great man who has attained (fortune) desires (and does), so he does.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्य् **अ॑व॒विध्य॑ति॒**  
-पापी॑यान् भवति॒  
-यदि॒ नाव॒विध्य॑ति स॒दृङ् ।  
+य᳓द्य् **अववि᳓ध्यति**  
+पा᳓पीयान् भवति  
+य᳓दि ना᳓ववि᳓ध्यति सदृ᳓ङ् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1195,7 +1194,7 @@ if he does not, he remains the same.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्या॒वृत्-का॑म ए॒तेन॑ य॒ज्ञेन॑ यजेत ।  
+व्यावृ᳓त्-काम एते᳓न यज्ञे᳓न यजेत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1225,9 +1224,9 @@ One who desires distinction should sacrifice with it,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षु॒र-प॑वि॒र् ह्य् ए॒॑ष य॒ज्ञस्  
-ता॒जक् पुण्यो॑ वा॒ भव॑ति॒  
-प्र वा॑ मीयते  ।  
+क्षुर᳓-पविर् ह्य् ए᳓ष᳓ यज्ञ᳓स्  
+ताज᳓क् पु᳓ण्यो वा भ᳓वति  
+प्र᳓ वा मीयते  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1263,12 +1262,12 @@ and swiftly he becomes holy or perishes.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्यै॒तद् व्र॒तम् -  
-नानृ॑तव्ँ वदेत्  ।  
-न माँ॒सम् अ॑श्ञीयात् ।  
-न स्त्रिय॒म् उपे॑यात् ।  
-नास्य॒ पल्पू॑लनेन॒ वासᳶ॑ पल्पूलयेयुः।  
-ए॒तद् +धि दे॒वास् सर्व॒न् न कु॒र्वन्ति॑ ॥  
+त᳓स्यैत᳓द् व्रत᳓म् -  
+ना᳓नृतव्ँ वदेत्  ।  
+न᳓ माँस᳓म् अश्ञीयात् ।  
+न᳓ स्त्रि᳓यम् उ᳓पेयात् ।  
+ना᳓स्य प᳓ल्पूलनेन वा᳓सᳶ पल्पूलयेयुः।  
+एत᳓द् +धि᳓ देवा᳓स् स᳓र्वन् न᳓ कुर्व᳓न्ति ॥  
 </details>
 
 <details><summary>Keith</summary>

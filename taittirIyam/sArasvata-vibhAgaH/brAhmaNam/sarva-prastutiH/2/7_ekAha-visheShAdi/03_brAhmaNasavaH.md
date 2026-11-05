@@ -1,13 +1,12 @@
 ---
-title:  ०३ ब्राह्मणसवः
+title: ०३ ब्राह्मणसवः
 unicode_script: devanagari
+
 ---
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदा॑ग्ने॒यो भव॑ति ।  
-आ॒ग्ने॒यो वै ब्रा॑ह्म॒णः ।  
+य᳓दाग्नेयो᳓ भ᳓वति ।  
+आग्नेयो᳓ वै᳓ ब्राह्मणः᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -23,8 +22,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॒ यत्सौ॒म्यः ।   
-सौ॒म्यो हि ब्रा॑ह्म॒णः ।  
+अ᳓थ य᳓त्सौम्यः᳓ ।   
+सौम्यो᳓ हि᳓ ब्राह्मणः᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -40,9 +39,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒स॒वायै॒व सा॑वि॒त्रः ।  
-अथ॒ यद्बा॑र्हस्प॒त्यः ।  
-ए॒तद्वै ब्रा॑ह्म॒णस्य॑ वाक्प॒तीय॑म्   ।
+प्रसवा᳓यैव᳓ सावित्रः᳓ ।  
+अ᳓थ य᳓द्बार्हस्पत्यः᳓ ।  
+एत᳓द्वै᳓ ब्राह्मण᳓स्य वाक्पती᳓यम्   ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -59,8 +58,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॒ यद॑ग्नीषो॒मीयः॑ ।  
-आ॒ग्ने॒यो वै ब्रा॑ह्म॒णः ।  
+अ᳓थ य᳓दग्नीषोमी᳓यः ।  
+आग्नेयो᳓ वै᳓ ब्राह्मणः᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -68,7 +67,6 @@ unicode_script: devanagari
 अथ॒ यद॑ग्नीषो॒मीयः॑ ।  
 आ॒ग्ने॒यो वै ब्रा॑ह्म॒णः ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -78,7 +76,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तौ य॒दा स॒ङ्गच्छे॑त॒ अथ॑ वी॒र्या॑वत्तरो भवति ।
+तौ᳓ यदा᳓ सङ्ग᳓च्छेत अ᳓थ वीर्या᳙वत्तरो भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -93,8 +91,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॒ यत्सा॑रस्व॒तः ।  
-ए॒तद्धि प्र॒त्यक्ष॑म्ब्राह्म॒णस्य॑ वाक्प॒तीय॑म् ।
+अ᳓थ य᳓त्सारस्वतः᳓ ।  
+एत᳓द्धि᳓ प्रत्य᳓क्षम्ब्राह्मण᳓स्य वाक्पती᳓यम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -110,7 +108,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नि॒र्व॒रु॒ण॒त्वायै॒व वा॑रु॒णः ।
+निर्वरुणत्वा᳓यैव᳓ वारुणः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -123,7 +121,6 @@ unicode_script: devanagari
 7सप्तमं विधत्ते - वारुणोऽष्टाकपालः कर्तव्यः । स च पूर्ववद्वरुणपाशराहित्यायैव संपद्यते ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अथो॒ य ए॒व कश्च॒ सन्त्सू॒यते॑ ।
@@ -132,7 +129,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ य ए॒व कश्च॒ सन्त्सू॒यते॒ स हि वा॑रु॒णः ।
+अ᳓थो य᳓ एव᳓ क᳓श्च स᳓न्त्सूय᳓ते स᳓ हि᳓ वारुणः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -147,7 +144,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॒ यद्द्या॑वापृथि॒व्यः॑ ।
+अ᳓थ य᳓द्द्यावापृथिव्यः᳙ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -162,7 +159,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो॑ वृ॒त्राय॒ वज्र॒मुद॑यच्छत् ।
+इ᳓न्द्रो वृत्रा᳓य व᳓ज्रमु᳓दयच्छत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -177,7 +174,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन्द्यावा॑पृथि॒वी नान्व॑मन्येताम् ।
+त᳓न्द्या᳓वापृथिवी᳓ ना᳓न्वमन्येताम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -190,7 +187,6 @@ unicode_script: devanagari
 तमिन्द्रं ते द्यावापृथिव्यौ नान्वमन्येताम् । अनूमत्यभावे कारणं दर्शपूर्णमासबाह्यणे स्पष्टमभिहितम् - 'ते अब्रूतां द्यावापृथिवी मा प्रहारावयोर्वै श्रितः' इति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तमे॒तेनै॒व भा॑ग॒धेये॒नान्व॑मन्येताम् ॥8॥  
@@ -200,7 +196,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वज्र॑स्य॒ वा ए॒षो॑ऽनुमा॒नाया॒नु॑मतवज्रस्सूयाता॒ इति॑ ।
+व᳓ज्रस्य वा᳓ एषो᳙ऽनुमाना᳓यानु᳙मतवज्रस्सूयाता इ᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -215,10 +211,10 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ष्टावे॒तानि॑ ह॒वीँषि॑ भवन्ति ।  
-अ॒ष्टाक्ष॑रा गाय॒त्री ।  
-गा॒य॒त्री ब्र॑ह्मवर्च॒सम् ।   
-गा॒य॒त्रि॒यैव ब॑ह्मवर्च॒समव॑रुन्धे ।  
+अष्टा᳓वेता᳓नि हवीँ᳓षि भवन्ति ।  
+अष्टा᳓क्षरा गायत्री᳓ ।  
+गायत्री᳓ ब्रह्मवर्चस᳓म् ।   
+गायत्रियै᳓व᳓ बह्मवर्चस᳓म᳓वरुन्धे ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -236,8 +232,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हिर॑ण्येन घृ॒तमुत्पु॑नाति ।  
-तेज॑स ए॒व रु॒चे ।  
+हि᳓रण्येन घृत᳓मु᳓त्पुनाति ।  
+ते᳓जस एव᳓ रुचे᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -253,14 +249,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कृ॒ष्णा॒जि॒ने॑ऽभिषि॑ञ्चति ।
+कृष्णाजिने᳙ऽभि᳓षिञ्चति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 कृ॒ष्णा॒जि॒ने॑ऽभिषि॑ञ्चति ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -270,8 +265,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म॑णो॒ वा ए॒तदृ॑क्सा॒मयो॑ रू॒पम् यत्कृ॑ष्णाजि॒नम् ।   
-ब्रह्म॑न्ने॒वैन॑मृक्सा॒मयो॒रध्य॒भिषि॑ञ्चति ।
+ब्र᳓ह्मणो वा᳓ एत᳓दृक्साम᳓यो रूप᳓म् य᳓त्कृष्णाजिन᳓म् ।   
+ब्र᳓ह्मन्नेवै᳓नमृक्साम᳓योर᳓ध्यभि᳓षिञ्चति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -287,8 +282,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृ॒तेना॒भिषि॑ञ्चति ।
-तथा॑ वी॒र्या॑वत्तरो भवति ॥9॥  
+घृते᳓नाभि᳓षिञ्चति ।
+त᳓था वीर्या᳙वत्तरो भवति ॥9॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -304,4 +299,3 @@ unicode_script: devanagari
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके सप्तमप्रपाठके तृतीयोऽनुवाकः ॥  
 
 </details>
-

@@ -22,12 +22,12 @@ unicode_script: devanagari
 
 … यो ऽपू॑त इव॒ मन्ये॑त॒ +++(ब्रह्मचारी)+++ स इ॒त्थञ् जु॑हुयादि॒त्थम॒भिम॑न्त्रयेत। पुनी॑त ए॒वात्मान॒म्। आयु॑रे॒वात्मन् ध॑त्ते।
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/vara-prashaMsA.md">
-<details open><summary><h2>वरः ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/vara-prashaMsA.md">
+<details open><summary><h2>वरः …{Loading}…</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरो॒+++(=महार्हो गौरिव)+++ दक्षि॑णा। वरे॑णै॒व वरँ॑+++(=श्रेष्ठं)+++ स्पृणोति+++(=प्रीणाति)+++।  
-आ॒त्मा हि वरः॑ +++(अत आत्मैव दत्तः)+++ । 
+व᳓रो+++(=महार्हो गौरिव)+++ द᳓क्षिणा। व᳓रेणैव᳓ व᳓रँ+++(=श्रेष्ठं)+++ स्पृणोति+++(=प्रीणाति)+++।  
+आत्मा᳓ हि᳓ व᳓रः +++(अत आत्मैव दत्तः)+++ । 
 </details>
 </details>
 </div>

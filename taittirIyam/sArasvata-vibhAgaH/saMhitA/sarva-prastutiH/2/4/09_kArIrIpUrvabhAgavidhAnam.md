@@ -1,6 +1,5 @@
 +++
 title = "०९ कारीरीपूर्वभागविधानम्"
-
 +++
 
 विश्वेदेवा ऋषयः ।
@@ -12,7 +11,7 @@ title = "०९ कारीरीपूर्वभागविधानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा॒रु॒तम॑सि म॒रुता॒मोज॒ इति॑ कृ॒ष्णव्ँवास॑ᳵ कृ॒ष्णतू॑ष॒म्परि॑ धत्ते ।  
+मारुत᳓मसि मरु᳓तामो᳓ज इ᳓ति कृष्णव्ँ᳓वा᳓सᳵ कृष्ण᳓तूषम्प᳓रि धत्ते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -32,7 +31,7 @@ title = "०९ कारीरीपूर्वभागविधानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद्वै वृष्ट्यै॑ रू॒पँ सरू॑प ए॒व भू॒त्वा प॒र्जन्यव्ँ॑वर्षयति ।
+एत᳓द्वै᳓ वृ᳓ष्ट्यै रूपँ᳓ स᳓रूप एव᳓ भूत्वा᳓ पर्ज᳓न्यव्ँवर्षयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -52,7 +51,7 @@ that is the hue of rain; verily becoming of like hue he causes Parjanya to rain.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒मय॑त मरुतः ।
+रम᳓यत मरुतः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -67,7 +66,7 @@ that is the hue of rain; verily becoming of like hue he causes Parjanya to rain.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्ये॒नमा॒यिन॒मिति॑ पश्चाद्वा॒तम्प्रति॑ मीवति पुरोवा॒तमे॒व ज॑नयति व॒र्षस्याव॑रुद्ध्यै ।
+श्येन᳓मायि᳓नमि᳓ति पश्चाद्वात᳓म्प्र᳓ति मीवति पुरोवात᳓मेव᳓ जनयति वर्ष᳓स्या᳓वरुद्ध्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -92,7 +91,7 @@ verily he produces the east wind, to win the rains.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒त॒ना॒मानि॑ जुहोति ।  
+वातनामा᳓नि जुहोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -112,7 +111,7 @@ He makes offering to the names of the wind;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒युर्वै वृष्ट्या॑ ईशे ।
+वायु᳓र्वै᳓ वृ᳓ष्ट्या ईशे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -127,7 +126,7 @@ the wind rules the rain;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒युमे॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+वायु᳓मेव᳓ स्वे᳓न भागधे᳓येनो᳓प धावति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -142,7 +141,7 @@ verily he has recourse to the wind with its own share;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॒वास्मै॑ प॒र्जन्यव्ँ॑वर्षयति ।
+स᳓ एवा᳓स्मै पर्ज᳓न्यव्ँवर्षयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -162,7 +161,7 @@ verily it makes Parjanya rain for him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ष्टौ जु॑होति ।
+अष्टौ᳓ जुहोति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -177,7 +176,7 @@ Eight offerings [1] he makes;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चत॑स्रो॒ वै दिश॒श्चत॑स्रोऽवान्तरदि॒शा ।
+च᳓तस्रो वै᳓ दि᳓शश्च᳓तस्रोऽवान्तरदिशा᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -192,7 +191,7 @@ the quarters are four, the intermediate quarters are four;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि॒ग्भ्य ए॒व वृष्टिँ॒ सम्प्र च्या॑वयति ।
+दिग्भ्य᳓ एव᳓ वृ᳓ष्टिँ स᳓म्प्र᳓ च्यावयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -212,7 +211,7 @@ verily from the quarters he makes the rain to move.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कृ॒ष्णा॒जि॒ने सय्ँयौ॑ति ।  
+कृष्णाजिने᳓ सय्ँ᳓यौति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -232,7 +231,7 @@ He unites (them) on a black antelope skin;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ह॒विरे॒वाक॑रन्तर्वे॒दि सय्ँयौ॒त्यव॑रुद्ध्यै ।
+हवि᳓रेवा᳓करन्तर्वेदि᳓ सय्ँ᳓यौत्य᳓वरुद्ध्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -252,7 +251,7 @@ verily he makes the offering; he unites within the Vedi, for accomplishment.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यती॑नाम॒द्यमा॑नानाँ शी॒र्षाणि॒ परा॑पतन् ।
+य᳓तीनामद्य᳓मानानाँ शीर्षा᳓णि प᳓रापतन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -272,7 +271,7 @@ When the Yatis were being eaten, their heads fell away;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते ख॒र्जूरा॑ अभवन् ।
+ते᳓ खर्जू᳓रा अभवन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -287,8 +286,8 @@ they became Kharjuras;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषाँ॒ रस॑ ऊ॒र्ध्वो॑ऽपतत् ।  
-तानि॑ क॒रीरा॑ण्यभवन् ।
+ते᳓षाँ र᳓स ऊर्ध्वो᳙ऽपतत् ।  
+ता᳓नि करी᳓राण्यभवन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -309,7 +308,7 @@ their sap rose upwards, they became Kariras;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सौ॒म्यानि॒ वै क॒रीरा॑णि सौ॒म्या खलु॒ वा आहु॑तिर्दि॒वो वृष्टि॑ञ्च्यावयति ।
+सौम्या᳓नि वै᳓ करी᳓राणि सौम्या᳓ ख᳓लु वा᳓ आ᳓हुतिर्दिवो᳓ वृ᳓ष्टिञ्च्यावयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -324,7 +323,7 @@ the Kariras are connected with Soma;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्क॒रीरा॑णि॒ भव॑न्ति ।
+य᳓त्करी᳓राणि भ᳓वन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -339,7 +338,7 @@ the offering connected with Soma makes rain to move from the sky;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सौ॒म्ययै॒वाहु॑त्या दि॒वो वृष्टि॒मव॑ रुन्द्धे ।
+सौम्य᳓यैवा᳓हुत्या दिवो᳓ वृ᳓ष्टिम᳓व रुन्द्धे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -369,7 +368,7 @@ in that there are Kariras (in the sacrifice) [2], by means of an offering which 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॑षा॒ सय्ँयौ॑ति ।
+म᳓धुषा सय्ँ᳓यौति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -384,7 +383,7 @@ With honey he unites (them);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पाव्ँवा ए॒ष ओष॑धीनाँ॒ रसो॒ यन्मधु॑ ।
+अपाव्ँ᳓वा᳓ एष᳓ ओ᳓षधीनाँ र᳓सो य᳓न्म᳓धु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -404,7 +403,7 @@ honey is the sap of the waters and the plants;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒द्भ्य ए॒वौष॑धीभ्यो वर्षति ।
+अद्भ्य᳓ एवौ᳓षधीभ्यो वर्षति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -424,7 +423,7 @@ verily it rains from the waters and the plants;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॑ अ॒द्भ्य ए॒वौष॑धीभ्यो॒ वृष्टि॒न्नि न॑यति ।
+अ᳓थो अद्भ्य᳓ एवौ᳓षधीभ्यो वृ᳓ष्टिन्नि᳓ नयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -439,7 +438,7 @@ verily also he brings down rain from the waters and the plants.
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-मान्दा॒ वाशा॒ इति॒ सय्ँयौ॑ति ।
+मा᳓न्दा वा᳓शा इ᳓ति सय्ँ᳓यौति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -464,7 +463,7 @@ verily also he brings down rain from the waters and the plants.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ना॒म॒धेयै॑रे॒वैना॒ अच्छै॑ति ।  
+नामधे᳓यैरेवै᳓ना अ᳓च्छैति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -484,9 +483,9 @@ verily he approaches them by their names;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ यथा॑ ब्रू॒यात् ।  
-असा॒वेहीति॑ ।  
-ए॒वमे॒वैना॑ नाम॒धेयै॒रा च्या॑वयति ।        
+अ᳓थो य᳓था ब्रूया᳓त् ।  
+अ᳓सावे᳓ही᳓ति ।  
+एव᳓मेवै᳓ना नामधे᳓यैरा᳓ च्यावयति ।        
 </details>
 
 <details><summary>Keith</summary>
@@ -513,7 +512,7 @@ just as one may say, 'Come hither, N. N.', so by their names [3] he makes them m
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृष्ट्यै॒ त्वोप॑ नह्या॒मीत्या॑ह ।  
+वृ᳓ष्ट्यै त्वो᳓प नह्यामी᳓त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -533,7 +532,7 @@ Thou art the fetter of the strong horse; for rain I yoke thee', he says
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृषा॒ वा अश्वो॒ वृषा॑ प॒र्जन्यः॑।  
+वृ᳓षा वा᳓ अ᳓श्वो वृ᳓षा पर्ज᳓न्यः।  
 </details>
 
 <details><summary>Keith</summary>
@@ -553,7 +552,7 @@ the horse is strong, Parjanya is strong;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कृ॒ष्ण इ॑व॒ खलु॒ वै भू॒त्वा व॑र्षति ।  
+कृष्ण᳓ इव ख᳓लु वै᳓ भूत्वा᳓ वर्षति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -573,7 +572,7 @@ becoming black as it were he rains;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रू॒पेणै॒वैनँ॒ सम॑र्धयति  व॒र्षस्याव॑रुद्ध्यै ॥
+रूपे᳓णैवै᳓नँ स᳓मर्धयति  वर्ष᳓स्या᳓वरुद्ध्यै ॥
 </details>
 
 <details><summary>Keith</summary>

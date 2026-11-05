@@ -34,7 +34,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आकू॑त्यै+++(=सङ्कल्पाय)+++ प्र॒युजे॒ ऽग्नये॒ स्वाहा॑ ।
+आ᳓कूत्यै+++(=सङ्कल्पाय)+++ प्रयु᳓जे ऽग्न᳓ये स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -76,7 +76,7 @@ To the purpose, to the impulse, to Agni, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मे॒धायै॒ मन॑से॒ऽग्नये॒ स्वाहा॑ ।
+मेधा᳓यै म᳓नसेऽग्न᳓ये स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -112,7 +112,7 @@ To wisdom, to thought, to Agni, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दी॒क्षायै॒ तप॑से॒ऽग्नये॒ स्वाहा॑ ।
+दीक्षा᳓यै त᳓पसेऽग्न᳓ये स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -142,7 +142,7 @@ To consecration, to penance, to Agni, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर॑स्वत्यै पू॒ष्णे॑ऽग्नये॒ स्वाहा॑ ।
+स᳓रस्वत्यै पूष्णे᳙ऽग्नये स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -206,17 +206,15 @@ ________
 आपो॑ देवीर्बृहतीर्विश्वशम्भुवो॒ द्यावा॑पृथि॒वी उ॒र्व॑न्तरि॑क्षम्बृह॒स्पति॑र्नो ह॒विषा॑ वृधातु॒ स्वाहा
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/02_Apo_devIr.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/02_Apo_devIr.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-आपो॑ देवीर् बृहतीर् विश्व-शम्-भुवो॒!  
-द्यावा॑-पृथि॒वी उ॒र्व् अ॑न्तरि॑क्षम्, बृह॒स्पति॑र्  
-नो ह॒विषा॑ वृधातु। 
+आ᳓पो देवीर् बृहतीर् विश्व-शम्-भुवो!  
+द्या᳓वा-पृथिवी᳓ उर्व् अ᳙न्त᳓रिक्षम्, बृहस्प᳓तिर्  
+नो हवि᳓षा वृधातु। 
 
-(… स्वाहा॑।)
+(… स्वा᳓हा।)
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -224,8 +222,7 @@ ________
 5स्रुचा पञ्चमीं जुहोति -
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/02_Apo_devIr.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/02_Apo_devIr.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -288,12 +285,11 @@ May Brhaspati rejoice in our oblation,
 बृहस्पतिर् विदधात्व् इत्य् उक्ते सत्य् अभिवृद्धेर् असूचितत्वाद् यज्ञ-विघ्नं यजमानः प्राप्नुयात् 'वृधात्व्' इत्य् उक्त्या तत्-परिहारः।
 </details>
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… स्वाहा॑।
+… स्वा᳓हा।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -338,22 +334,19 @@ ________
 इति।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/03_vishve_devasya.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/03_vishve_devasya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-विश्वे॑ +++(सवितुः)+++ दे॒वस्य॑ ने॒तुर्,  
-+++(अतो ऽयम्)+++ मर्तो॑ ऽवृणीत +++(तस्य सवितुः)+++ स॒ख्यम्।  
-विश्वे॑ रा॒य+++(ः)+++, +++(त्वम् अग्ने तस्य)+++ इ॑षुध्यसि+++(=इषुधिर् इवाचरसि)+++  
-द्यु॒म्नव्ँ+++(=धनं)+++ वृ॑णीत, +++(त्वञ्च तम्)+++ पु॒ष्यसे॑।+++(४)+++  
+वि᳓श्वे +++(सवितुः)+++ देव᳓स्य नेतु᳓र्,  
++++(अतो ऽयम्)+++ म᳓र्तो ऽवृणीत +++(तस्य सवितुः)+++ सख्य᳓म्।  
+वि᳓श्वे राय᳓+++(ः)+++, +++(त्वम् अग्ने तस्य)+++ इषुध्यसि+++(=इषुधिर् इवाचरसि)+++  
+द्युम्नव्ँ᳓+++(=धनं)+++ वृणीत, +++(त्वञ्च तम्)+++ पुष्य᳓से।+++(४)+++  
  
-(… स्वाहा॑ ।)
+(… स्वा᳓हा ।)
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/03_vishve_devasya.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/03_vishve_devasya.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -490,12 +483,11 @@ Let him choose glory that he may prosper,
 [[P213]]
 </details>
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा॑।
+स्वा᳓हा।
 </details>
 
 <details><summary>Keith</summary>
@@ -541,7 +533,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋख्-सा॒मयो॒श् शिल्पे॑ स्थः।+++(५)+++  
+ऋ᳓ख्-साम᳓योश् शि᳓ल्पे स्थः।+++(५)+++  
 +++('एष वा ऋचो वर्णो यच्छुक्लं कृष्णाजिनस्य' इत्यादि ब्राह्मणम् ।)+++
 </details>
 
@@ -557,8 +549,8 @@ Ye are images of the Rc and the Saman.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते वा॒म् आ र॑+++(ल)+++भे ।  
-ते मा॑ पातम् आऽस्य य॒ज्ञस्यो॒दृचः॑+++(=आसमाप्तेः)+++।+++(र४)+++
+ते᳓ वाम् आ᳓ र+++(ल)+++भे ।  
+ते᳓ मा पातम् आऽस्य यज्ञ᳓स्योदृ᳓चः+++(=आसमाप्तेः)+++।+++(र४)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -649,20 +641,17 @@ ________
 इति।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/04_imAn_dhiyam.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/04_imAn_dhiyam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-इ॒मान् धियँ॒ शिक्ष॑माणस्य देव॒  
-+++(अग्निष्टोम-)+++ क्रतु॒न् दक्षव्ँ॑ वरुण॒ सँशि॑शाधि+++(=शितं कुरु)+++ ।  
-यया ऽति॒ विश्वा॑ दुरि॒ता तरे॑म  
-सु॒तर्मा॑ण॒म्+++(=सुतारकम्)+++ अधि॒ नावँ॑ रुहेम॥+++(५)+++
+इमा᳓न् धि᳓यँ शि᳓क्षमाणस्य देव  
++++(अग्निष्टोम-)+++ क्र᳓तुन् द᳓क्षव्ँ वरुण सँ᳓शिशाधि+++(=शितं कुरु)+++ ।  
+य᳓या᳓ ऽति वि᳓श्वा दुरिता᳓ त᳓रेम  
+सुत᳓र्माणम्+++(=सुतारकम्)+++ अ᳓धि ना᳓वँ रुहेम॥+++(५)+++
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/04_imAn_dhiyam.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/04_imAn_dhiyam.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -708,7 +697,6 @@ Whereby we' may pass over all our difficulties.
 इति।
 </details>
 </details>
-
 </div>
 
 ________
@@ -729,10 +717,10 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊर्ग्॑+++(=बलम्)+++ अस्य् आ॒ङ्गि॒र॒सी +ऊर्ण॑-म्रदा+++(=मृद्वी)+++।  
-ऊर्ज॑म् मे यच्छ ।+++(र४)+++  
-पा॒हि मा॑ ।  
-मा मा॑ हिँसीः ।+++(र४)+++
+ऊ᳓र्ग्+++(=बलम्)+++ अस्य् आङ्गिरसी᳓ +ऊ᳓र्ण-म्रदा+++(=मृद्वी)+++।  
+ऊ᳓र्जम् मे यच्छ ।+++(र४)+++  
+पाहि᳓ मा ।  
+मा᳓ मा हिँसीः ।+++(र४)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -866,8 +854,8 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒श्+++(=यज्ञस्य)+++ शर्मा॑सि॒, शर्म॒ यज॑मानस्य +++(असि)+++।  
-शर्म॑ मे यच्छ।  
+वि᳓ष्णोश्+++(=यज्ञस्य)+++ श᳓र्मासि, श᳓र्म य᳓जमानस्य +++(असि)+++।  
+श᳓र्म मे यच्छ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -908,7 +896,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे वासः!)+++ नक्ष॑त्राणाम् मा ऽतीका॒शात् +++(छिद्रात्)+++ पा॒हि  ।+++(र४)+++
++++(हे वासः!)+++ न᳓क्षत्राणाम् मा ऽतीकाशा᳓त् +++(छिद्रात्)+++ पाहि᳓  ।+++(र४)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -954,9 +942,9 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य॒ योनि॑र् असि ।  
+इ᳓न्द्रस्य यो᳓निर् असि ।  
 +++( 'यज्ञो दक्षिणामभ्यध्यायत्तां समभवत्' इत्यारभ्य 'सा कृष्णविषाणाऽभवत्' इत्यन्ते ब्राह्मणे स्पष्टमिन्द्रयोनित्वमस्याः ॥)+++  
-मा मा॑ हिँसीः ।
+मा᳓ मा हिँसीः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1017,7 +1005,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे पृथिवि!)+++ कृ॒ष्यै त्वा॑ सुस॒स्यायै॑ +++(उद्धरामि)+++।+++(र४)+++
++++(हे पृथिवि!)+++ कृष्यै᳓ त्वा सुसस्या᳓यै +++(उद्धरामि)+++।+++(र४)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -1059,8 +1047,7 @@ ________
 14 तया दक्षिणं गोदानं कण्डूयते - सुपिप्पलाभ्य इति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/02_dIxA/supippalAH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/02_dIxA/supippalAH.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9चषालं प्रतिमुञ्चाति - सुपिप्पलाभ्य इति ॥
@@ -1079,7 +1066,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒पि॒प्प॒लाभ्य॑स्+++(=सुफलेभ्यः)+++ त्वौष॑धीभ्यः +++(कण्डूये)+++।+++(र४)+++
+सुपिप्पला᳓भ्यस्+++(=सुफलेभ्यः)+++ त्वौ᳓षधीभ्यः +++(कण्डूये)+++।+++(र४)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -1139,7 +1126,6 @@ For the plants with good berries thee!
 
 दक्षिणाभ्यो नेतोर् दक्षिणानाम् ऋत्विग्भिर् अपनयनात्। अवचृन्देत् परित्यजेत्। 'चात्वालाद् धिष्णियान् उपवपतीति' चात्वाल-नामकाद् गर्ताद् धिष्णियानाम् उत्पत्तेर् विधास्यमानत्वाच् चात्वालस्य यज्ञ-योनित्वम्।
 </details>
-
 </div>  
 
 ________
@@ -1167,7 +1153,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे दण्ड!)+++ सु॒+उ॒प॒स्था दे॒वो वन॒स्पति॑र्
++++(हे दण्ड!)+++ सु+उपस्था᳓ देवो᳓ व᳓नस्प᳓तिर्
 </details>
 
 <details><summary>Keith</summary>
@@ -1177,7 +1163,7 @@ Thou art of easy access, divine tree.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्ध्वो +++(त्वम्)+++ मा॑ पा॒ह्य् ओदृचः+++(=आसमाप्तेः)+++।
+ऊर्ध्वो᳓ +++(त्वम्)+++ मा पाह्य् ओ᳓दृ᳓चः᳓+++(=आसमाप्तेः)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -1246,11 +1232,11 @@ _____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(आर॑भे )+++ स्वाहा॑ ।  
-य॒ज्ञम् मन॑सा॒ +++(आर॑भे )+++ स्वाहा॑ ।+++(र४)+++  
-द्यावा॑पृथि॒वीभ्यां॒ +++(आर॑भे )+++ स्वाहा॑ ।  
-उ॒रोर् अ॒न्तरि॑क्षात् [आर॑भे ] स्वाहा॑ । +++('अन्तरिक्षे हि यज्ञः' इति च ब्राह्मणम् ।)+++  
-य॒ज्ञव्ँ वाता॒द् आ र॑भे ॥
++++(आ᳓रभे )+++ स्वा᳓हा ।  
+यज्ञ᳓म् म᳓नसा +++(आ᳓रभे )+++ स्वा᳓हा ।+++(र४)+++  
+द्या᳓वापृथिवी᳓भ्यां +++(आ᳓रभे )+++ स्वा᳓हा ।  
+उरो᳓र् अन्त᳓रिक्षा᳓त् [आ᳓रभे᳓ ] स्वा᳓हा । +++('अन्तरिक्षे हि यज्ञः' इति च ब्राह्मणम् ।)+++  
+यज्ञव्ँ᳓ वा᳓ताद् आ᳓ रभे ॥
 </details>
 
 <details><summary>Keith</summary>

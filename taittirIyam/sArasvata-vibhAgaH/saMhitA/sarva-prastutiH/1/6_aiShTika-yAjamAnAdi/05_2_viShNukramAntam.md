@@ -10,7 +10,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒ᳵ क्रमो॑ऽस्य् - अभिमाति॒हा।
+वि᳓ष्णोᳵ क्र᳓मोऽस्य् - अभिमातिहा᳓।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -34,7 +34,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गा॒य॒त्रेण॒ छन्द॑सा पृथि॒वीम् +++(विष्णुम्)+++ अनु॒ वि क्र॑मे।
+गायत्रे᳓ण छ᳓न्दसा पृथिवी᳓म् +++(विष्णुम्)+++ अ᳓नु वि᳓ क्रमे।
 </details>
 
 <details><summary>Keith</summary>
@@ -59,11 +59,10 @@ Thou art the step of Visnu, smiting enmity; with the Gayatri metre I step across
 पूर्वं विष्णुना क्रान्तां **पृथिवीं** पश्चादिदानीम् अहं **विक्रम** इत्यनोरर्थः ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्भ॑क्त॒स् स यन् द्वि॒ष्मः ।
+नि᳓र्भक्तस् स᳓ य᳓न् द्विष्मः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -97,14 +96,13 @@ excluded is he whom we hate.
 
 यमभिमातिं वयं द्विष्मः सोऽभिमातिर्निर्भक्तोऽ-स्मात्प्रदेशान्निःसारितः। एवमुत्तरत्र योज्यम्। अभिशस्तिरन्यैरापादितोऽ-पवादः। रातिर्दानं द्रव्यलाभः। तन्निवारणमरातिस्तदिच्छन्तो विरोधिनोऽ-रातीयतः(न्त)। तृतीयप्रक्रमस्तान्हन्ति।
 </details>
-
 </div>  
 
 ## विष्णुक्रममन्त्रः २
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒ᳵ **क्रमो॑ ऽस्य् अभिशस्ति॒हा**।
-त्रैष्टु॑भेन॒ छन्द॑साऽन्तरि॑क्ष॒म् अनु॒ वि क्र॑मे।
+वि᳓ष्णोᳵ **क्र᳓मो ऽस्य् अभिशस्तिहा᳓**।
+त्रै᳓ष्टुभेन छ᳓न्दसा᳓ऽन्त᳓रिक्षम् अ᳓नु वि᳓ क्रमे।
 </details>
 
 <details><summary>Keith</summary>
@@ -127,11 +125,10 @@ Thou art the step of Visnu, smiting imprecations; with the Tristubh metre I step
 अभिशस्तिरभिशंसनं अकृतगर्होक्तिः । त्रिष्टुब्जगत्यनुष्टुप्शब्देभ्य उत्सादित्वादञ्, 'छन्दसः प्रत्ययविधाने' इत्यस्य प्राग्दीव्यतीयत्वात् ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्भ॑क्त॒स् स यन् द्वि॒ष्मः ।
+नि᳓र्भक्तस् स᳓ य᳓न् द्विष्मः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -165,14 +162,13 @@ excluded is he whom we hate.
 
 यमभिमातिं वयं द्विष्मः सोऽभिमातिर्निर्भक्तोऽ-स्मात्प्रदेशान्निःसारितः। एवमुत्तरत्र योज्यम्। अभिशस्तिरन्यैरापादितोऽ-पवादः। रातिर्दानं द्रव्यलाभः। तन्निवारणमरातिस्तदिच्छन्तो विरोधिनोऽ-रातीयतः(न्त)। तृतीयप्रक्रमस्तान्हन्ति।
 </details>
-
 </div>  
 
 ## विष्णुक्रममन्त्रः ३
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒ᳵ क्रमो॑ऽस्य् अरातीय॒तो ह॒न्ता  
-जाग॑तेन॒ छन्द॑सा॒ दिव॒म् अनु॒ वि क्र॑मे।
+वि᳓ष्णोᳵ क्र᳓मोऽस्य् अरातीयतो᳓ हन्ता᳓  
+जा᳓गतेन छ᳓न्दसा दि᳓वम् अ᳓नु वि᳓ क्रमे।
 </details>
 
 <details><summary>Keith</summary>
@@ -197,11 +193,10 @@ with the Jagati metre I step across the sky;
 अरातीयत इति द्वितीयाबहुवचनम् ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्भ॑क्त॒स् स यन् द्वि॒ष्मः ।
+नि᳓र्भक्तस् स᳓ य᳓न् द्विष्मः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -235,13 +230,12 @@ excluded is he whom we hate.
 
 यमभिमातिं वयं द्विष्मः सोऽभिमातिर्निर्भक्तोऽ-स्मात्प्रदेशान्निःसारितः। एवमुत्तरत्र योज्यम्। अभिशस्तिरन्यैरापादितोऽ-पवादः। रातिर्दानं द्रव्यलाभः। तन्निवारणमरातिस्तदिच्छन्तो विरोधिनोऽ-रातीयतः(न्त)। तृतीयप्रक्रमस्तान्हन्ति।
 </details>
-
 </div>  
 
 ## विष्णुक्रममन्त्रः ४
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒ᳵ क्रमो॑ऽसि शत्रूय॒तो ह॒न्ताऽऽनु॑ष्टुभेन॒ छन्द॑सा॒ दिशोऽनु॒ वि क्र॑मे॥
+वि᳓ष्णोᳵ क्र᳓मोऽसि शत्रूयतो᳓ हन्ता᳓ऽऽनुष्टुभेन छ᳓न्दसा दि᳓शो᳓ऽनु वि᳓ क्रमे॥
 </details>
 
 <details><summary>Keith</summary>
@@ -273,11 +267,10 @@ with the Anustubh metre I stop across the quarters;
 इति षष्ठे पञ्चमोनुवाकः ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्भ॑क्त॒स् स यन् द्वि॒ष्मः ।
+नि᳓र्भक्तस् स᳓ य᳓न् द्विष्मः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -311,5 +304,4 @@ excluded is he whom we hate.
 
 यमभिमातिं वयं द्विष्मः सोऽभिमातिर्निर्भक्तोऽ-स्मात्प्रदेशान्निःसारितः। एवमुत्तरत्र योज्यम्। अभिशस्तिरन्यैरापादितोऽ-पवादः। रातिर्दानं द्रव्यलाभः। तन्निवारणमरातिस्तदिच्छन्तो विरोधिनोऽ-रातीयतः(न्त)। तृतीयप्रक्रमस्तान्हन्ति।
 </details>
-
 </div>

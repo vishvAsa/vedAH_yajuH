@@ -9,19 +9,16 @@ _______
 1अथैन्द्रं गृह्णाति - उत्तिष्ठन्निति गायत्र्या ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/30_aindro_atigrAhyagrahaH/02_uttiShThann_ojasA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/30_aindro_atigrAhyagrahaH/02_uttiShThann_ojasA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-उ॒त्तिष्ठ॒न्न् ओज॑सा स॒ह  
-पी॒त्वा, **शिप्रे॑+++(=हनू)+++ अवेपयः** ।  
-सोम॑म् इन्द्र च॒मू+++(←चमु अदने)+++ सु॒तम् ॥
+उत्ति᳓ष्ठन्न् ओ᳓जसा सह᳓  
+पीत्वा᳓, **शि᳓प्रे+++(=हनू)+++ अवेपयः** ।  
+सो᳓मम् इन्द्र चमू᳓+++(←चमु अदने)+++ सुत᳓म् ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/30_aindro_atigrAhyagrahaH/02_uttiShThann_ojasA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/30_aindro_atigrAhyagrahaH/02_uttiShThann_ojasA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -43,11 +40,9 @@ When thou hadst drunk the cup-pressed Soma.
 चमु छमु अदने, औणादिक ऊप्रत्ययः ॥
 </details>
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य 'उपयामगृहीतोसि विश्वेभ्यस्त्वा देवेभ्यः' इति गृह्णाति ॥
@@ -56,7 +51,7 @@ When thou hadst drunk the cup-pressed Soma.
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -83,7 +78,7 @@ ________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑]
+[वि᳓श्वेभ्यस्त्वा देवे᳓भ्यः]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -109,9 +104,9 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒ग्र॒य॒णो॑ऽसि ।  
-स्वा॑ग्रयणो॒ जिन्व॑ ।    
-य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम्  +++(जिन्व)+++ ।
+आग्रयणो᳙ऽसि ।  
+स्वा᳓ग्रयणो जि᳓न्व ।    
+यज्ञ᳓ञ्जि᳓न्व यज्ञ᳓पतिम्  +++(जिन्व)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -138,9 +133,9 @@ quicken the lord of the sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भि सव॑ना पाहि ।  
-विष्णु॒स् त्वाम् पा॑तु ।  
-विश॒न् त्वम् पा॑हीन्द्रि॒येण॑।
+अभि᳓ स᳓वना पाहि ।  
+वि᳓ष्णुस् त्वा᳓म् पातु ।  
+वि᳓शन् त्व᳓म् पाहीन्द्रिये᳓ण।
 </details>
 
 <details><summary>Keith</summary>
@@ -174,7 +169,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒र्, विश्वे॑भ्यस् त्वा दे॒वेभ्यः॑ ॥ [11]
+एष᳓ ते यो᳓निर्, वि᳓श्वेभ्यस् त्वा देवे᳓भ्यः ॥ [11]
 </details>
 
 <details><summary>Keith</summary>
@@ -191,12 +186,11 @@ this is thy birthplace; to the All-gods thee!
 
 'वैश्वदेवो ह्येष देवतया' इति ब्राह्मणम् । 'आत्मा वा एष यज्ञस्य यदाग्रयणः' इत्यादि च ॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य॒ त्वौज॑स्वते ।  
+इ᳓न्द्राय त्वौ᳓जस्वते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -217,7 +211,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒रिन्द्रा॑य॒ त्वौज॑स्वते ॥ [31]  +++(सादनमन्त्रः)+++
+एष᳓ ते यो᳓निरि᳓न्द्राय त्वौ᳓जस्वते ॥ [31]  +++(सादनमन्त्रः)+++
 </details>
 
 <details><summary>Keith</summary>

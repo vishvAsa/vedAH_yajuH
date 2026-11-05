@@ -83,8 +83,7 @@ and to the Maruts as lords of the house he milks at evening an oblation of all (
 2अव्युष्टायां रजन्यां पूर्णदर्व्येण चरन्ति, शरनिष्कासस्य दर्वीं पूरयित्वा गार्हपत्ये जुहोति । तत्र पुरोनुवाक्या - पूर्णेत्यनुष्टुप् ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 पूर्णा᳓ दर्वि प᳓रा पत  
@@ -93,11 +92,9 @@ and to the Maruts as lords of the house he milks at evening an oblation of all (
 इ᳓षम् ऊ᳓र्जँ शत-क्रतो  ॥
 
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -125,7 +122,6 @@ Let us barter food and strength.
 **क्रीणावहै** इन्द्रश्चाहं च परस्परतः वणिग्वद्विनिमयं करवावहै । किं विक्रीणावहा इत्युच्यते - **इषम् ऊर्जम्** अन्नं रसादिकं धनादिकं च ; अतोत्रावयोस्त्वं गतागतकारिणी साधनभावमाचरेति । तदेवाह - हे **शतक्रतो** बहुविधकर्मकरणकुशले गतागतसमर्थे ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -133,8 +129,7 @@ Let us barter food and strength.
 3अथ याज्या - देहीत्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 देहि᳓ मे, द᳓दामि ते  
@@ -143,11 +138,9 @@ Let us barter food and strength.
 निहा᳓रं [5] नि᳓ हरामि ते  ॥
 
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -173,7 +166,6 @@ I shall accept thy offering [1].
 देहि मे मह्यं अभिमतं धनं, अहमपि ते तुभ्यं ददामि । निधेहि स्थापय मे मदर्थं, अहमपि ते त्वदर्थं निदधे स्थापयामि । तथा निहारमित् निहारमेव निर्हृत्यनिर्हृत्यैव मे मम निहर, अहमपि ते निहारं निर्हृत्यनिहृत्य निहरामि । नियमेन नितरां निर्हृत्य वा समुदायाद्धरणं निहरणम् । आभीक्ष्ण्ये णमुल्, कृदुत्तरपदप्रकृतिस्वरत्वम् लित्स्वरः । एवमुपकारप्रत्युपकारितया आवयोर्वृत्तिरस्त्विति लोकवृत्तानानिदर्शनम् ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>

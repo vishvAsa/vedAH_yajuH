@@ -1,6 +1,5 @@
 +++
 title = "०६ त्रिरात्राङ्गहोमादिविधिश्च"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -19,7 +18,7 @@ title = "०६ त्रिरात्राङ्गहोमादिवि�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमो॒ वै +++(गवां)+++ स॒हस्र॑म् अविन्दत् ।  
+सो᳓मो वै᳓ +++(गवां)+++ सह᳓स्रम् अविन्दत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -39,7 +38,7 @@ Soma found a thousand;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम् इन्द्रो ऽन्व॑विन्दत् ।  
+त᳓म् इ᳓न्द्रो᳓ ऽन्वविन्दत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -64,7 +63,7 @@ Indra discovered it after him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तौ +++(निकामयमानः)+++ य॒मो न्याग॑च्छत् ।  
+तौ᳓ +++(निकामयमानः)+++ यमो᳓ न्या᳓गच्छत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -76,6 +75,7 @@ Yama approached them
 
 तौ य॒मो न्याग॑च्छत् ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 तौ । य॒मः । न्याग॑च्छ॒दिति॑ नि-आग॑च्छत् ।     
@@ -88,7 +88,7 @@ Yama approached them
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव् अ॑ब्रवी॒द् - "अस्तु॒ मेऽत्रापी"ति॑ ।  
+ता᳓व् अब्रवीद् - "अ᳓स्तु मे᳓ऽत्रा᳓पी᳓"ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -114,7 +114,7 @@ and said to them, 'May I have a share too in it.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्तु॒ ही३ इत्य॑ब्रूताम् । +++('प्रतिश्रवणे च' इति प्लुतः, अभिपूजिते वा ।)+++  
+अ᳓स्तु ही᳓३ इ᳓त्यब्रूताम् । +++('प्रतिश्रवणे च' इति प्लुतः, अभिपूजिते वा ।)+++  
 </details>
 
 <details><summary>Keith</summary>
@@ -138,7 +138,7 @@ They said to him, 'Be it so.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स य॒म +++(गोसमूहात्)+++ एक॑स्याव्ँ +++(सहस्रतम्यां)+++ वी॒र्य॑म् पर्य॑पश्यद् - इ॒यव्ँ वा अ॒स्य स॒हस्र॑स्य वी॒र्य॑म् बिभ॒र्तीति॑ ।  
+स᳓ यम᳓ +++(गोसमूहात्)+++ ए᳓कस्याव्ँ +++(सहस्रतम्यां)+++ वीर्य᳙म् प᳓र्यपश्यद् - इयव्ँ᳓ वा᳓ अस्य᳓ सह᳓स्रस्य वीर्य᳙म् बिभर्ती᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -165,7 +165,7 @@ Yama saw in one of the (cows) strength.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव् अ॑ब्रवीद् - इ॒यम् ममास्त्व्, ए॒तद् यु॒वयो॒र् इति॑ ।  
+ता᳓व् अब्रवीद् - इय᳓म् म᳓मा᳓स्त्व्, एत᳓द् युव᳓योर् इ᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -190,7 +190,7 @@ He said to them, 'This one has the strength of the thousand, this be mine, the r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव् अ॑ब्रूताँ॒ - +++(वयं)+++ सर्वे॒ वा ए॒तद् ए॒तस्याव्ँ॑ वी॒र्य॑म् [21] परि॑ पश्या॒मो, +++(अतो)+++ ऽँश॒म् आह॑रामहा॒ इति।
+ता᳓व् अब्रूताँ - +++(वयं)+++ स᳓र्वे वा᳓ एत᳓द् एत᳓स्याव्ँ वीर्य᳙म् [21] प᳓रि पश्यामो᳓, +++(अतो)+++ ऽँशम् आ᳓हरामहा इ᳓ति᳓।
 </details>
 
 <details><summary>Keith</summary>
@@ -205,7 +205,7 @@ They said, 'We all see that in this one is strength [1]. Let us each have a port
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्या॒म् अँश॒म् आह॑रन्त।
+त᳓स्याम् अँ᳓शम् आ᳓हरन्त।
 </details>
 
 <details><summary>Keith</summary>
@@ -234,7 +234,7 @@ So they took shares in the one.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम् अ॒प्सु प्रावे॑शय॒न्थ् - सोमा॑यो॒देहीति॑ ।  
+ता᳓म् अप्सु᳓ प्रा᳓वेशयन्थ् - सो᳓मायोदे᳓ही᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -260,7 +260,7 @@ They put her into the waters, saying, 'Come out for Soma.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा रोहि॑णी पिङ्ग॒लैक॑हायनी+++(=एकवर्षा)+++ +++(तदनुगुण)+++रू॒पङ् कृ॒त्वा त्रय॑स्त्रिँशता च त्रि॒भिश्च॑ श॒तैस् स॒होदैत्।  
+सा᳓ रो᳓हिणी पिङ्गलै᳓कहायनी+++(=एकवर्षा)+++ +++(तदनुगुण)+++रूप᳓ङ् कृत्वा᳓ त्र᳓यस्त्रिँशता च त्रिभि᳓श्च शतै᳓स् सहो᳓दै᳓त्।  
 </details>
 
 <details><summary>Keith</summary>
@@ -272,6 +272,7 @@ She came out in the shape of a red brown cow of one year old, together with thre
 
 सा रोहि॑णी पिङ्ग॒लैक॑हायनी रू॒पङ्कृ॒त्वा त्रय॑स्त्रिँशता च त्रि॒भिश्च॑ श॒तैस् स॒होदैत्।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सा । रोहि॑णी । पि॒ङ्ग॒ला । एक॑हाय॒नीत्येक॑-हा॒य॒नी॒ । रू॒पम् । कृ॒त्वा । त्रय॑स्त्रिँश॒तेति॒ त्रयः॑-त्रिँ॒श॒ता॒ । च॒ । त्रि॒भिरिति॑ त्रि-भिः । च॒ । श॒तैः । स॒ह । उ॒दैदित्यु॑त्-ऐत् ।   
@@ -284,7 +285,7 @@ She came out in the shape of a red brown cow of one year old, together with thre
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् रोहि॑ण्या पिङ्ग॒लयैक॑हायन्या॒ सोम॑ङ् क्रीणीयाद् ।
+त᳓स्माद् रो᳓हिण्या पिङ्गल᳓यै᳓कहायन्या सो᳓मङ् क्रीणीयाद् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -299,7 +300,7 @@ Therefore let one buy the Soma with a red brown cow one year old.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वान् रोहि॑ण्या पिङ्ग॒लयैक॑हायन्या॒ सोम॑ङ्क्री॒णाति, त्रय॑स्त्रिँशता चै॒वास्य॑ त्रि॒भिश्च॑ [22] श॒तैस् सोम॑ᳵ क्री॒तो भ॑वति। सुक्री॑तेन यजते ।
+य᳓ एवव्ँ᳓ विद्वा᳓न् रो᳓हिण्या पिङ्गल᳓यै᳓कहायन्या सो᳓मङ्क्रीणा᳓ति᳓, त्र᳓यस्त्रिँशता चैवा᳓स्य त्रिभि᳓श्च [22] शतै᳓स् सो᳓मᳵ क्रीतो᳓ भवति। सु᳓क्रीतेन यजते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -346,7 +347,7 @@ He, who knowing thus buys the Soma with a red brown cow one year old, buys the S
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम् अ॒प्सु प्रावे॑शय॒न्न्- इन्द्रा॑यो॒देहीति॑ ।  
+ता᳓म् अप्सु᳓ प्रा᳓वेशयन्न्- इ᳓न्द्रायोदे᳓ही᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -372,7 +373,7 @@ They put her into the waters, saying, 'Come out for Indra.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा रोहि॑णी लक्ष्म॒णा+++(=लक्ष्मवती)+++ प॑ष्ठौ॒ही+++(=चतुर्वर्षा)+++ वार्त्र॑घ्नी+++(→द्विरूपेत्येके, इन्द्ररूपधारिणीत्यन्ये)+++ +++(तदनुगुण)+++रू॒पङ् कृ॒त्वा, त्रय॑स्त्रिँशता च त्रि॒भिश्च॑ श॒तैस्स॒होदैत् ।  
+सा᳓ रो᳓हिणी लक्ष्मणा᳓+++(=लक्ष्मवती)+++ पष्ठौही᳓+++(=चतुर्वर्षा)+++ वा᳓र्त्रघ्नी+++(→द्विरूपेत्येके, इन्द्ररूपधारिणीत्यन्ये)+++ +++(तदनुगुण)+++रूप᳓ङ् कृत्वा᳓, त्र᳓यस्त्रिँशता च त्रिभि᳓श्च शतै᳓स्सहो᳓दै᳓त् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -397,7 +398,7 @@ She came out in the shape of a red draught animal with good characteristics, des
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् रोहि॑णील्ँ लक्ष्म॒णाम् प॑ष्ठौ॒हीव्ँ वार्त्र॑घ्नीन् दध्याद् ।
+त᳓स्माद् रो᳓हिणील्ँ लक्ष्मणा᳓म् पष्ठौहीव्ँ᳓ वा᳓र्त्रघ्नीन् दध्याद् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -412,7 +413,7 @@ Therefore one should give a red draught animal with good characteristics, destro
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वान् रोहि॑णील्ँ लक्ष्म॒णाम् प॑ष्ठौ॒हीव्ँ वार्त्र॑घ्नी॒न् ददा॑ति, त्रय॑स्त्रिँशच्चै॒वास्य॒ त्रीणि॑ च श॒तानि॑, सा द॒त्ता  भ॑वति ।[23] +++(उक्तमाचार्येण - 'सङ्ग्रामं जित्वा राजन्ये एतां दद्यात्' इति ।)+++
+य᳓ एवव्ँ᳓ विद्वा᳓न् रो᳓हिणील्ँ लक्ष्मणा᳓म् पष्ठौहीव्ँ᳓ वा᳓र्त्रघ्नीन् द᳓दाति᳓, त्र᳓यस्त्रिँशच्चैवा᳓स्य त्री᳓णि च शता᳓नि, सा दत्ता᳓  भवति ।[23] +++(उक्तमाचार्येण - 'सङ्ग्रामं जित्वा राजन्ये एतां दद्यात्' इति ।)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -447,7 +448,7 @@ He who knowing thus gives a red draught animal with good characteristics, destro
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम् अ॒प्सु प्रावे॑शयन् - य॒मयो॒देहीति॑ ।
+ता᳓म् अप्सु᳓ प्रा᳓वेशयन् - यम᳓योदे᳓ही᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -462,7 +463,7 @@ They put her into the waters' saying, 'Come out for Yama.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा जर॑ती मू॒र्खा+++(=रोषणशीला)+++ त॑ज्जघ॒न्या+++(→जघन्यतमरूपा, दुश्शीलेत्यन्ये)+++ +++(तदनुगुण)+++रू॒पङ् कृ॒त्वा त्रय॑स्त्रिँशता च त्रि॒भिश् च॑ श॒तैस् स॒होदैत् ।
+सा᳓ ज᳓रती मूर्खा᳓+++(=रोषणशीला)+++ तज्जघन्या᳓+++(→जघन्यतमरूपा, दुश्शीलेत्यन्ये)+++ +++(तदनुगुण)+++रूप᳓ङ् कृत्वा᳓ त्र᳓यस्त्रिँशता च त्रिभि᳓श् च शतै᳓स् सहो᳓दै᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -489,7 +490,7 @@ She came out in the shape of an aged, stupid, utterly bad animal, together with 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒ज् जर॑तीम् मू॒र्खान् त॑ज्जघ॒न्याम् +++(मृताय हन्यमाना, शवस्योपर्य्)+++ अ॑नु॒स्तर॑णीङ् कुर्वीत।  
+त᳓स्माज् ज᳓रतीम् मूर्खा᳓न् तज्जघन्या᳓म् +++(मृताय हन्यमाना, शवस्योपर्य्)+++ अनुस्त᳓रणीङ् कुर्वीत।  
 </details>
 
 <details><summary>Keith</summary>
@@ -514,8 +515,8 @@ Therefore one should offer as the funeral cow one that is aged, stupid, utterly 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वाञ् जर॑तीम् मू॒र्खान् त॑ज्जघ॒न्याम् अ॑नु॒स्तर॑णीङ् कुरु॒ते ,
-त्रय॑स्त्रिँशच् चै॒वास्य॒ त्रीणि॑ च श॒तानि॑ सा ऽमुष्मिल्ँ॑ लो॒के +++(भोगाय)+++ भ॑वति ।
+य᳓ एवव्ँ᳓ विद्वा᳓ञ् ज᳓रतीम् मूर्खा᳓न् तज्जघन्या᳓म् अनुस्त᳓रणीङ् कुरुते᳓ ,
+त्र᳓यस्त्रिँशच् चैवा᳓स्य त्री᳓णि च शता᳓नि सा᳓ ऽमु᳓ष्मिल्ँ लोके᳓ +++(भोगाय)+++ भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -543,7 +544,7 @@ If a man knowing thus offers a cow that is aged, stupid, utterly bad, as the fun
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(एवं दर्शितरूपत्रया)+++ वाग् ए॒व स॑हस्रत॒मी,
++++(एवं दर्शितरूपत्रया)+++ वा᳓ग् एव᳓ सहस्रतमी᳓,
 </details>
 
 <details><summary>Keith</summary>
@@ -558,7 +559,7 @@ Speech is the thousandth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् वरो॒ देयः॑ ।
+त᳓स्माद् वरो दे᳓यः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -590,7 +591,7 @@ Therefore [4] a boon must be given;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा हि वरः॑। +++(तद्दानेन)+++ +++(गो)+++स॒हस्र॑म् अस्य॒ सा द॒त्ता भ॑वति ।  
+सा᳓ हि᳓ व᳓रः। +++(तद्दानेन)+++ +++(गो)+++सह᳓स्रम् अस्य सा᳓ दत्ता᳓ भवति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -616,7 +617,7 @@ for she is a boon, and when she is given she is a thousand.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् वरो॒ न प्र॑तिगृह्यः॑ । 
+त᳓स्माद् व᳓रो न᳓ प्रति᳓गृ᳓ह्यः । 
 </details>
 
 <details><summary>Keith</summary>
@@ -646,7 +647,7 @@ Therefore one must not accept a boon;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा हि वर॑स् स॒हस्र॑म् अस्य॒ प्रति॑गृहीतम् भवति।
+सा᳓ हि᳓ व᳓रस् सह᳓स्रम् अस्य प्र᳓तिगृहीतम् भवति।
 </details>
 
 <details><summary>Keith</summary>
@@ -679,7 +680,7 @@ for she is a boon; verily he would be accepting a thousand.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"इ॒यव्ँ वर॒" इति॑ +++(प्रतिग्राहयिता)+++ ब्रू॒याद् ।  
+"इयव्ँ᳓ व᳓र" इ᳓ति +++(प्रतिग्राहयिता)+++ ब्रूया᳓द् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -704,7 +705,7 @@ Let him say, 'She is a boon',
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथा॒न्याम् +++(अन्यो)+++ ब्रू॑याद् - "इ॒यम् ममे"ति॑ ।  
+अ᳓थान्या᳓म् +++(अन्यो)+++ ब्रूयाद् - "इय᳓म् म᳓मे᳓"ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -729,7 +730,7 @@ and of another, 'Let this be mine';
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा॑स्य॒ तत् स॒हस्र॒म् अप्र॑तिगृहीतम् भवति ।
+त᳓थास्य त᳓त् सह᳓स्रम् अ᳓प्रतिगृहीतम् भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -756,7 +757,7 @@ verily he avoids accepting a thousand.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(सहस्रतमी)+++ उ॒भ॒य॒त॒-ए॒नी+++(=शुक्ला)+++ स्या॑त् ।
++++(सहस्रतमी)+++ उभयत-एनी᳓+++(=शुक्ला)+++ स्यात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -771,7 +772,7 @@ She should be spotted on either side.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् आ॑हुर् +++(अन्ये)+++ - अन्यत-ए॒नी+++(=शुक्ला)+++ स्या॑त् , +++(तस्यास् सहस्रेण तुल्यत्वात्)+++ स॒हस्र॑म् प॒रस्ता॒द् +++(पार्श्वे)+++ एत॒म् +++(शुक्लम्)+++ इति॑ ।
+त᳓द् आहुर् +++(अन्ये)+++ - अन्यत-एनी᳓+++(=शुक्ला)+++ स्यात् , +++(तस्यास् सहस्रेण तुल्यत्वात्)+++ सह᳓स्रम् पर᳓स्ताद् +++(पार्श्वे)+++ ए᳓तम् +++(शुक्लम्)+++ इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -800,7 +801,7 @@ They say, 'Let her be spotted on one side only;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पक्षान्तरमाह -)+++ यैव वरः॑ क॒ल्या॒णी रू॒प-स॑मृद्धा॒ सा स्या॑त् ।  
++++(पक्षान्तरमाह -)+++ यै᳓व᳓ व᳓रः कल्याणी᳓ रूप᳓-समृद्धा सा᳓ स्यात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -825,7 +826,7 @@ spotted is the thousand on the other side.' The one for a boon [5] should be bea
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा हि वर॒स् समृ॑द्ध्यै +++(दातुः)+++ ।
+सा᳓ हि᳓ व᳓रस् स᳓मृद्ध्यै +++(दातुः)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -852,16 +853,16 @@ for she is a boon; (verily it serves for) prosperity.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम् उत्त॑रे॒णाग्नी॑ध्रम् पर्या॒णीया॑हव॒नीय॒स्यान्ते॑ द्रोण-कल॒शम् अव॑ घ्रापयेद् -  
+ता᳓म् उ᳓त्तरेणा᳓ग्नीध्रम् पर्याणी᳓याहवनी᳓यस्या᳓न्ते द्रोण-कलश᳓म् अ᳓व घ्रा᳓प᳓ये᳓द् -  
 +++(सप्तपदा शक्वरी सर्वे च पादा अष्टाक्षराः ।)+++  
-"आ जि॑घ्र क॒लश॑म् मह्य्  
-उ॒रुधा॑रा॒ पय॑स्व॒त्या।  
-त्वा विश॒न्त्व् इन्द॑वस्+++(=सोमरसाः)+++  
-समु॒द्रम् इ॑व॒ सिन्ध॑वः ।  
-सा +++(सहस्रतमी)+++ मा॑ स॒हस्र॒ आ भ॑ज ।  
-प्र॒जया॑ प॒शुभि॑स् स॒ह  
-पुन॒र् मा वि॑शताद् र॒यिर्"  
-इति॑ ।
+"आ᳓ जिघ्र कल᳓शम् मह्य्  
+उरु᳓धारा प᳓यस्वत्या᳓।  
+त्वा᳓ वि᳓शन्त्व् इ᳓न्दवस्+++(=सोमरसाः)+++  
+समुद्र᳓म् इव सि᳓न्धवः ।  
+सा᳓ +++(सहस्रतमी)+++ मा सह᳓स्र आ᳓ भज ।  
+प्रज᳓या पशु᳓भिस् सह᳓  
+पु᳓नर् मा᳓ विशताद् रयि᳓र्"  
+इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -910,7 +911,7 @@ Leading her round to the north of the Agnidh's place he makes her smell the wood
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जयै॒वैन॑म् प॒शुभी॑ र॒य्या सम॑र्धयति । (26)
+प्रज᳓यैवै᳓नम् पशु᳓भी रय्या᳓ स᳓मर्धयति । (26)
 </details>
 
 <details><summary>Keith</summary>
@@ -925,7 +926,7 @@ Verily he unites him with offspring, with cattle, with wealth [6].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जावा॑न् पशु॒मान् र॑यि॒मान् भ॑वति॒ य ए॒वव्ँ वेद॑ ।
+प्रजा᳓वान् पशुमा᳓न् रयिमा᳓न् भवति य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
 
 <details><summary>Keith</summary>
@@ -954,11 +955,11 @@ He becomes rich in offspring, in cattle, in wealth, who knows thus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तया॑ स॒हाग्नी॑ध्रम् प॒रेत्य॑ पु॒रस्ता॑त् प्र॒तीच्या॒न् तिष्ठ॑न्त्याञ् जुहुयाद्-  
-"उ॒भा +++(इन्द्रविष्णू)+++ जि॑ग्यथुर्+++(=जयथः)+++ , न परा॑ जयेथे॒ ,  
-न परा॑ जिग्ये कत॒रश् च॒नैनोः॑ ।  
-+++(त्वम्)+++ इन्द्र॑श् च +++(हे)+++ विष्णो॒ यद् +++(अस्मिन् गवि)+++ अप॑स्पृधेथान्,  
-त्रे॒धा स॒हस्रव्ँ॒ +++(गावं)+++ वि तदै॑रयेथा॒म्+++(=विभक्तवन्तौ)+++" इति॑ ।  
+त᳓या सहा᳓ग्नीध्रम् परे᳓त्य पुर᳓स्तात् प्रती᳓च्यान् ति᳓ष्ठन्त्याञ् जुहुयाद्-  
+"उभा᳓ +++(इन्द्रविष्णू)+++ जिग्य᳓थु᳓र्+++(=जयथः)+++ , न᳓ प᳓रा जयेथे ,  
+न᳓ प᳓रा जिग्ये कतर᳓श् चनै᳓नोः ।  
++++(त्वम्)+++ इ᳓न्द्रश् च +++(हे)+++ विष्णो य᳓द् +++(अस्मिन् गवि)+++ अ᳓पस्पृधेथान्,  
+त्रेधा᳓ सह᳓स्रव्ँ +++(गावं)+++ वि᳓ त᳓दैरयेथाम्+++(=विभक्तवन्तौ)+++" इ᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1006,7 +1007,7 @@ vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/2/11_traidh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(ननु)+++ त्रेधा-विभ॒क्तव्ँ वै त्रि॑रा॒त्रे स॒हस्र॑म् +++(गौः - "ब्र॒ह्मणे॑ चा॒ग्नीधे॑ च॒ देयेति॑" पक्षे)+++ ।
++++(ननु)+++ त्रे᳓धा᳓-वि᳓भक्तव्ँ᳓ वै᳓ त्रिरात्रे᳓ सह᳓स्रम् +++(गौः᳓ - "ब्रह्म᳓णे चाग्नी᳓धे च दे᳓ये᳓ति" पक्षे)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1018,6 +1019,7 @@ The thousand is divided into three parts at the three-night festival;
 
 त्रे॒धा॒ वि॒भ॒क्तव्ँ॒ वै त्रि॑रा॒त्रे स॒हस्र॑म् ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 त्रे॒धा॒वि॒भ॒क्तमिति॑ त्रेधा-वि॒भ॒क्तम् । वै । त्रि॒रा॒त्र इति॑ त्रि-रा॒त्रे । स॒हस्र॑म् ।   
@@ -1030,7 +1032,7 @@ The thousand is divided into three parts at the three-night festival;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-साह॒स्रीम् ए॒वैना॑ङ् करोति +++(अनेन कर्मणा)+++ ।  
+सा᳓हस्री᳓म् एवै᳓नाङ् करोति +++(अनेन कर्मणा)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1055,7 +1057,7 @@ verily he makes her possessed of a thousand,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒हस्र॑स्यै॒वैना॒म् मात्रा॑ङ् करोति ।(27)
+सह᳓स्रस्यैवै᳓नाम् मा᳓त्राङ् करोति ।(27)
 </details>
 
 <details><summary>Keith</summary>
@@ -1080,7 +1082,7 @@ he makes her the measure of a thousand [7].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(यान्यश्वमेधे प्रसिद्धानि 'अञ्जन्नेताय' इत्यादीनि)+++ रू॒पाणि॑ +++(यथार्थमूहित्वा)+++ जुहोति । रू॒पैरे॒वैनाँ॒ सम॑र्धयति ।
++++(यान्यश्वमेधे प्रसिद्धानि 'अञ्जन्नेताय' इत्यादीनि)+++ रूपा᳓णि +++(यथार्थमूहित्वा)+++ जुहोति । रूपै᳓रेवै᳓नाँ स᳓मर्धयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1106,7 +1108,7 @@ He offers to her forms; verily he unites her with her forms.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्या॑ उपो॒त्थाय॒ कर्ण॒मा ज॑पेत् -  
+त᳓स्या उपोत्था᳓य क᳓र्णमा᳓ जपेत् -  
 +++('आमन्त्रितं पूर्वमविद्यमानवत्' इत्यविद्यमानत्वान्निघाताभावः)+++  
 </details>
 
@@ -1115,7 +1117,6 @@ He offers to her forms; verily he unites her with her forms.
 Rising up he mutters in her ear,
 </details>
 
- 
 <details><summary>मूलम्</summary>
 
 तस्या॑ उपो॒त्थाय॒ कर्ण॒मा ज॑पेद्,
@@ -1133,11 +1134,11 @@ Rising up he mutters in her ear,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इडे॒ रन्ते+++(=रतिहेतो)+++ ऽदि॑ते॒+++(=अखण्डिते)+++ सर॑स्वति॒  
-प्रिये॒ प्रेय॑सि॒+++(=प्रियतरे)+++ महि॒ विश्रु॑त्य् ,  
-ए॒तानि॑ ते अघ्निये॒ नामा॑नि ,  
-सु॒कृत॑म् मा दे॒वेषु॑ ब्रूताद् +++(भवती)+++  
-इति॑ ।
+इ᳓डे र᳓न्ते᳓+++(=रतिहेतो)+++ ऽदिते+++(=अखण्डिते)+++ स᳓रस्वति  
+प्रि᳓ये प्रे᳓यसि+++(=प्रियतरे)+++ म᳓हि वि᳓श्रुत्य् ,  
+एता᳓नि ते अघ्निये ना᳓मानि ,  
+सुकृ᳓तम् मा देवे᳓षु ब्रू᳓ता᳓द् +++(भवती)+++  
+इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1169,7 +1170,7 @@ Rising up he mutters in her ear,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वेभ्य॑ ए॒वैन॒म् आ वे॑दय॒ति । अन्व् ए॑नन् +++(सुकर्माणं)+++ दे॒वा बु॑ध्यन्ते ॥ [28]
+देवे᳓भ्य एवै᳓नम् आ᳓ वेदयति᳓ । अ᳓न्व् एनन् +++(सुकर्माणं)+++ देवा᳓ बुध्यन्ते ॥ [28]
 </details>
 
 <details><summary>Keith</summary>
@@ -1194,4 +1195,3 @@ Verily she proclaims him among the gods, and the gods take note of him.
 
 इति सप्तमे प्रथमे षष्ठोनुवाकः ॥
 </details>
-

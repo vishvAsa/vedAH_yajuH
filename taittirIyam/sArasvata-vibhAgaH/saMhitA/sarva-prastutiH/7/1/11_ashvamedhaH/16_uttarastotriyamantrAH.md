@@ -1,8 +1,6 @@
 +++
 title = "१६ (पूर्वदीक्षाहोमाः )उत्तरस्तोत्रियमन्त्राः"
-
 +++
-
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -16,7 +14,7 @@ title = "१६ (पूर्वदीक्षाहोमाः )उत्त�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॒ स्वाहा॑ ।
+अग्न᳓ये स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -26,7 +24,7 @@ To Agni hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमा॑य॒ स्वाहा॑ ।
+सो᳓माय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -36,7 +34,7 @@ To Soma hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒वि॒त्रेे स्वाहा॑ ।
+सवित्रे्᳓ए᳓ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -46,7 +44,7 @@ To Savitr hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर॑स्वत्यै॒ स्वाहा॑ ।
+स᳓रस्वत्यै स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -56,7 +54,7 @@ To Sarasvati hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒ष्णे स्वाहा॑ ।
+पूष्णे᳓ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -66,7 +64,7 @@ To Pusan hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह॒स्पत॑ये॒ स्वाहा॑ ।
+बृ᳓हस्प᳓तये स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -76,7 +74,7 @@ To Brhaspati hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पाम् मोदा॑य॒ +++(पर्जन्याय)+++ स्वाहा॑ ।
+अपा᳓म् मो᳓दाय +++(पर्जन्याय)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -86,7 +84,7 @@ To the joy of the waters hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒यवे॒ स्वाहा॑ ।
+वाय᳓वे स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -96,7 +94,7 @@ To Vayu hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्राय॒ स्वाहा॑ ।
+मित्रा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -106,7 +104,7 @@ To Mitra hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरु॑णाय॒ स्वाहा॑ ।
+व᳓रुणाय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -116,7 +114,7 @@ To Varuna hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व॑स्मै॒ स्वाहा॑ ॥
+स᳓र्वस्मै स्वा᳓हा ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -150,4 +148,3 @@ To all hail!
 
 इति सप्तमे प्रथमे षोडशोनुवाकः ॥  
 </details>
-

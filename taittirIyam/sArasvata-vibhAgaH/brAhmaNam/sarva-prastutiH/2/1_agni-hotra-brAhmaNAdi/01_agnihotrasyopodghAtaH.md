@@ -8,7 +8,7 @@ unicode_script: devanagari
 ## पितृ-भागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अङ्गि॑रसो॒ वै **स॒त्त्रम् आ॑सत** ।
+अ᳓ङ्गिरसो वै᳓ **सत्त्र᳓म् आसत** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -23,7 +23,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषा॒म् पृश्ञि॑र् **घर्म॒-धुग्** आ॑सीत् ।
+ते᳓षाम् पृ᳓श्ञिर् **घर्म-धु᳓ग्** आसीत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -38,7 +38,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स +++(सोम-कल्केन=)+++र्जी॒षेणा॑जीवत् ।
+स᳓ +++(सोम-कल्केन=)+++र्जीषे᳓णाजीवत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -53,9 +53,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ **ऽब्रुवन्** ।
-"कस्मै॒ नु स॒त्रम् **आ॑स्महे** ।
-+++(वयं)+++ ये॑ ऽस्या +++(पृश्न्याः प्रयोजनाय)+++ ओष॑धी॒र् **न ज॒नया॑म॒**" इति॑ ।
+ते᳓ **ऽब्रुवन्** ।
+"क᳓स्मै नु᳓ सत्र᳓म् **आस्महे** ।
++++(वयं)+++ ये᳓ ऽस्या᳓ +++(पृश्न्याः प्रयोजनाय)+++ ओ᳓षधीर् **न᳓ जन᳓याम**" इ᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -72,7 +72,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दि॒वो **वृष्टि॑म् असृजन्त** ।
+ते᳓ दिवो᳓ **वृ᳓ष्टिम् असृजन्त** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -85,7 +85,6 @@ unicode_script: devanagari
 अथ ते तथा मन्यमानाः दिवो वृष्टिमसृजन्त उदपादयन् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 याव॑न्तस्स्तो॒का अ॒वाप॑द्यन्त ।
@@ -94,8 +93,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याव॑न्तस् +++(तोय-)+++स्तो॒का **अ॒वाप॑द्यन्त॒**  
-ताव॑ती॒र् ओष॑धयो **ऽजायन्त** ।
+या᳓वन्तस् +++(तोय-)+++स्तोका᳓ **अवा᳓पद्यन्त**  
+ता᳓वतीर् ओ᳓षधयो **ऽजायन्त** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -110,7 +109,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता **जा॒ताᳶ** +++(भागलिप्सवः)+++ पि॒तरो॑ **वि॒षेणा॑लिम्पन्न्** ॥1॥  
+ता᳓ **जाताᳶ᳓** +++(भागलिप्सवः)+++ पित᳓रो **विषे᳓णालिम्पन्न्** ॥1॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -125,7 +124,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तासा॑ञ् **ज॒ग्ध्वा** **रुप्य॒न्त्य्+++(←मोहने)+++ ऐत्** ।
+ता᳓साञ् **जग्ध्वा᳓** **रु᳓प्यन्त्य्+++(←मोहने)+++ ऐ᳓त्** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -140,8 +139,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ **ऽब्रुवन्** ।
-"क इ॒दम् इ॒त्थम् **अ॑क॒र्**" इति॑ ।
+ते᳓ **ऽब्रुवन्** ।
+"क᳓ इद᳓म् इत्थ᳓म् **अकर्**" इ᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -157,7 +156,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"व॒यम् भा॑ग॒-धेय॑म् **इ॒च्छमा॑ना॒**" इति॑ पि॒तरो॑ **ऽब्रुवन्** ।
+"वय᳓म् भाग-धे᳓यम् **इच्छ᳓माना**" इ᳓ति पित᳓रो **ऽब्रुवन्** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -172,7 +171,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"किव्ँ वो॑ भाग॒-**धेय॒म्**" इति॑ ।
+"किव्ँ᳓ वो भाग-**धे᳓यम्**" इ᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -187,7 +186,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒ग्नि॒-हो॒त्र ए॒व नोऽप्य् अ॒स्त्व्" इत्य् **अ॑ब्रुवन्** ।
+"अग्नि-होत्र᳓ एव᳓ नो᳓ऽप्य् अस्त्व्" इ᳓त्य् **अब्रुवन्** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -200,7 +199,6 @@ unicode_script: devanagari
 अथ पितरोऽब्रुवन् - अग्निहोत्रे अस्माकमप्यस्त्विति अग्निहोत्र एव वयमपि भागिनौ भूयास्मेति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तेभ्य॑ ए॒तद्भा॑ग॒धेय॒म्प्राय॑च्छन् ।
@@ -209,8 +207,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेभ्य॑ ए॒तद् भा॑ग॒-धेय॒म् **प्राय॑च्छ॒न्न्**  
-यद् **धु॒त्वा नि॒मार्ष्टि॑** ।
+ते᳓भ्य एत᳓द् भाग-धे᳓यम् **प्रा᳓यच्छन्न्**  
+य᳓द् **धुत्वा᳓ निमा᳓र्ष्टि** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -225,7 +223,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वै त ओष॑धीर् **अस्वदयन्** ।
+त᳓तो वै᳓ त᳓ ओ᳓षधीर् **अस्वदयन्** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -238,7 +236,6 @@ unicode_script: devanagari
 ततस्ते पितर ओषधीरपगतविषभागा अस्वदयन् स्वादूकृतवन्तः । छान्दसः उपधावृद्ध्यभावः ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वेद॑ ॥2॥  
@@ -247,8 +244,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ **वेद॒**  
-**स्वद॑न्ते** ऽस्मा॒ ओष॑धयः ।
+य᳓ एवव्ँ᳓ **वे᳓द**  
+**स्व᳓दन्ते** ऽस्मा ओ᳓षधयः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -264,8 +261,8 @@ unicode_script: devanagari
 ## वत्स-वरः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते व॒त्सम् **उ॒पावा॑सृजन्न्** -  
-"इ॒दन् नो॑ ह॒व्यम् **प्रदा॑प॒ये"ति॑** ।
+ते᳓ वत्स᳓म् **उपा᳓वासृजन्न्** -  
+"इद᳓न् नो हव्य᳓म् **प्र᳓दापये᳓"ति** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -281,7 +278,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ **ऽब्रवी॒द्** "वरव्ँ॑ **वृणै** ।
+सो᳓ **ऽब्रवीद्** "व᳓रव्ँ **वृणै** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -296,7 +293,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दश॑ मा॒ रात्री॑र् जा॒तन् **न दो॑हन्** ।
+द᳓श मा रा᳓त्रीर् जात᳓न् **न᳓ दोहन्** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -311,7 +308,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒स॒ङ्ग॒वम् मा॒त्रा स॒ह **च॑रा॒णी"ति॑** ।
+आसङ्गव᳓म् मात्रा᳓ सह᳓ **चराणी᳓"ति** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -326,8 +323,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् व॒त्सञ् **जा॒तन्** दश॒ रात्री॒र् **न दु॑हन्ति** ।
-आ॒स॒ङ्ग॒वम् मा॒त्रा स॒ह **च॑रति** ।
+त᳓स्माद् वत्स᳓ञ् **जात᳓न्** द᳓श रा᳓त्रीर् **न᳓ दुहन्ति** ।
+आसङ्गव᳓म् मात्रा᳓ सह᳓ **चरति** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -344,8 +341,8 @@ unicode_script: devanagari
 ## रुद्राद् अपायः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वारे॑-वृतँ॒ ह्य् अ॑स्य +++(रुद्रस्य)+++ ।
-तस्मा॑द् व॒त्सँ **+++(होमार्थ-)+++सँ॑सृष्ट+++(-दुग्ध)+++-ध॒यँ** रु॒द्रो **घातु॑कः** ।
+वा᳓रे-वृतँ ह्य् अ᳙स्य +++(रुद्रस्य)+++ ।
+त᳓स्माद् वत्सँ᳓ **+++(होमार्थ-)+++सँसृष्ट+++(-दुग्ध)+++-धयँ᳓** रुद्रो᳓ **घा᳓तुकः** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -366,7 +363,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(यतः-)+++ अति॒ हि स॒न्धान् +++(=समयं)+++ **धय॑ति**+++(=पिबति)+++ ॥3॥  
++++(यतः-)+++ अ᳓ति हि᳓ सन्धा᳓न् +++(=समयं)+++ **ध᳓यति**+++(=पिबति)+++ ॥3॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -377,7 +374,6 @@ unicode_script: devanagari
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हेतुं चाह - अति हीत्यादि । **अतीत्य** संधां **संधानं** समयं स्वयं पिबति वत्सः, तं तु देवो न सहत इति । 'आतश्चोपसर्गे' इत्यङ्, 'हि च' इत्याख्यातस्य निघाताभावः
-
 
 इति तैत्तिरीयब्राह्मणे द्वितीयेऽष्टके प्रथमे प्रथमोऽनुवाकः ।  
 

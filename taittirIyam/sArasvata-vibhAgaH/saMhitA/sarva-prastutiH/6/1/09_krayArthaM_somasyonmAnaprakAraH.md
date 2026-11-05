@@ -1,6 +1,5 @@
 +++
 title = "०९ क्रयार्थं सोमस्योन्मानप्रकारः"
-
 +++
 
 सोमऋषिः
@@ -12,9 +11,9 @@ title = "०९ क्रयार्थं सोमस्योन्मान
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वा॒दिनो॑ वदन्ति -
-"वि॒चित्य॒स् सोमा३ न वि॒चित्या३" इति॑ ।  
-सोमो॒ वा ओष॑धीनाँ॒ राजा॑ ।
+ब्रह्मवादि᳓नो वदन्ति -
+"विचि᳓त्यस् सो᳓मा᳓३ न᳓ विचि᳓त्या᳓३" इ᳓ति ।  
+सो᳓मो वा᳓ ओ᳓षधीनाँ रा᳓जा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -31,7 +30,7 @@ The theologians say, 'Should the Soma be clarified or not?' Soma indeed is the k
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मि॒न् यदाप॑न्नङ् , ग्रसि॒तम् ए॒वास्य॒ तत् ।
+त᳓स्मिन् य᳓दा᳓पन्नङ् , ग्रसित᳓म् एवा᳓स्य त᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -46,7 +45,7 @@ whatever falls upon it is swallowed by it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् वि॑चिनु॒याद् यथा॒ऽऽस्या॑द् ग्रसि॒तन् नि॑ष्खि॒दति॑ ता॒दृगे॒व तत् ।  
+य᳓द् विचिनुया᳓द् य᳓थाऽऽस्या᳙द् ग्रसित᳓न् निष्खिद᳓ति तादृ᳓गेव᳓ त᳓त् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -61,7 +60,7 @@ If be were to clarify it, it would be as when one expels from the mouth what has
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन्न वि॑चिनु॒याद् यथा॒ ऽक्षन्नाप॑न्नव्ँ वि॒धाव॑ति ता॒दृगे॒व तत् ।
+य᳓न्न᳓ विचिनुया᳓द् य᳓था ऽक्ष᳓न्ना᳓पन्नव्ँ विधा᳓वति तादृ᳓गेव᳓ त᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -76,7 +75,7 @@ if he were not to clarify it, it would be as when something falls upon the eye a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षोधु॑कोऽध्व॒र्युस् स्यात् क्षोधु॑को॒ यज॑मानः ।  
+क्षो᳓धुकोऽध्वर्यु᳓स् स्या᳓त् क्षो᳓धुको य᳓जमानः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -128,7 +127,7 @@ the Adhvaryu would be hungry, the sacrificer would be hungry.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑विक्रयि॒न्त्सोमँ॑ शोध॒येत्ये॒व ब्रू॑यात् ।
+सो᳓मविक्रयिन्त्सो᳓मँ शोधये᳓त्येव᳓ ब्रूयात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -143,7 +142,7 @@ the Adhvaryu would be hungry, the sacrificer would be hungry.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदीत॑रय्ँ॒ +++( विचिनुयात् )+++ यदीत॑रम् +++( न विचिनुयात् )+++, उ॒भये॑नै॒व सो॑मविक्र॒यिण॑मर्पयति ।[59]
+य᳓दी᳓तरय्ँ +++( विचिनुयात् )+++ य᳓दी᳓तरम् +++( न विचिनुयात् )+++, उभ᳓येनैव᳓ सोमविक्रयि᳓णमर्पयति ।[59]
 </details>
 
 <details><summary>Keith</summary>
@@ -158,7 +157,7 @@ so whether it be the one [1] or the other '. he involves the Soma-seller in both
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑त् सोमविक्र॒यी क्षोधु॑कः ।
+त᳓स्मात् सोमविक्रयी᳓ क्षो᳓धुकः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -192,10 +191,10 @@ therefore the Soma-seller is hungry.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒रु॒णो ह॑ स्मा॒हौप॑वेशिः ।  
-सो॒म॒क्रय॑ण ए॒वाहन्तृ॑तीयसव॒नमव॑ रुन्ध॒ इति॑ ।  
-प॒शू॒नाञ्चर्म॑न्मिमीते प॒शूने॒वाव॑ रुन्धे ।  
-प॒शवो॒ हि तृ॒तीयँ॒ सव॑नम् ।
+अरुणो᳓ ह स्माहौ᳓पवेशिः ।  
+सोमक्र᳓यण एवा᳓ह᳓न्तृतीयसवन᳓म᳓व रुन्ध इ᳓ति ।  
+पशूना᳓ञ्च᳓र्मन्मिमीते पशू᳓नेवा᳓व रुन्धे ।  
+पश᳓वो हि᳓ तृती᳓यँ स᳓वनम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -212,7 +211,6 @@ Aruna Aupaveśi said, 'At the buying of the Soma I win the third pressing.' He m
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 अ॒रु॒णः । ह॒ । स्म॒ । आ॒ह॒ । औप॑वेशि॒रित्यौप॑-वे॒शिः॒ ।  
 
@@ -235,8 +233,8 @@ Aruna Aupaveśi said, 'At the buying of the Soma I win the third pressing.' He m
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यङ् का॒मये॑त -  
-"अप॒शुस् स्या॒दि"त्यृ॑क्ष॒तस् तस्य॑ मिमीत ।
+य᳓ङ् काम᳓येत -  
+"अपशु᳓स् स्यादि᳓"त्यृक्षत᳓स् त᳓स्य मिमीत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -252,7 +250,7 @@ If he desire of a man, 'May he be without cattle', he should measure it for him 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒र्क्षव्ँ वा अ॑पश॒व्यम् अ॑प॒शुरे॒व भ॑वति ।  
+ऋर्क्षव्ँ᳓ वा᳓ अपशव्य᳓म् अपशु᳓रेव᳓ भवति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -267,8 +265,8 @@ The rough side indeed is not connected with cattle; verily he becomes without ca
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यङ् का॒मये॑त -
-"पशु॒मान्त्स्या॒द्" इति॑ लोम॒तस् तस्य॑ मिमीत ।[60]  
+य᳓ङ् काम᳓येत -
+"पशुमा᳓न्त्स्याद्" इ᳓ति लोमत᳓स् त᳓स्य मिमीत ।[60]  
 </details>
 
 <details><summary>Keith</summary>
@@ -284,7 +282,7 @@ If he desire of a man, 'May he be rich in cattle' [2], he should measure for him
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद्वै प॑शू॒नाँ रू॒पम् ।
+एत᳓द्वै᳓ पशूनाँ᳓ रूप᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -299,7 +297,7 @@ That indeed is the form of cattle;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रू॒पेणै॒वास्मै॑ प॒शूनव॑ रुन्धे ।
+रूपे᳓णैवा᳓स्मै पशू᳓न᳓व रुन्धे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -314,7 +312,7 @@ verily by the form he obtains cattle for him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒शु॒माने॒व भ॑वति ।
+पशुमा᳓नेव᳓ भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -353,7 +351,7 @@ verily he becomes rich in cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पामन्ते॑ क्रीणाति ।
+अपा᳓म᳓न्ते क्रीणाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -368,7 +366,7 @@ He buys it at the end of the waters;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर॑सम् ए॒वैन॑ङ् क्रीणाति ।  
+स᳓रसम् एवै᳓नङ् क्रीणाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -383,7 +381,7 @@ verily he buys it with its sap.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒मात्यो॒ऽसी"त्या॑ह + अ॒मैवैन॑ङ् कुरुते ।  
+"अमा᳓त्योऽसी᳓"त्याह + अमै᳓वै᳓नङ् कुरुते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -398,7 +396,7 @@ verily he buys it with its sap.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"शु॒क्रस्ते॒ ग्रह॒ "इत्या॑ह, शु॒क्रो ह्य॑स्य॒ ग्रहः ।  
+"शुक्र᳓स्ते ग्र᳓ह "इ᳓त्याह, शुक्रो᳓ ह्यस्य ग्र᳓हः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -413,7 +411,7 @@ verily he buys it with its sap.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन॒साच्छ॑ याति ।
+अ᳓नसा᳓च्छ याति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -428,7 +426,7 @@ He advances (for it) with a cart;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒हि॒मान॑म् ए॒वास्याऽच्छ॑ या॒ति ।
+महिमा᳓नम् एवा᳓स्या᳓ऽच्छ याति᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -469,8 +467,8 @@ verily he advances to its mightiness.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन॑साऽच्छ॑ याति । [61]
-तस्मा॑दनो वा॒ह्यँ॑ स॒मे जीव॑नम् ।  
+अ᳓नसा᳓ऽच्छ याति । [61]
+त᳓स्मादनो वाह्यँ᳙ समे᳓ जी᳓वनम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -486,8 +484,8 @@ He advances with a cart [3], therefore what lives on the level is to be borne by
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्र॒ खलु॒ वा ए॒तँ शी॒र्ष्णा हर॑न्ति ।  
-तस्मा॑च् छीर्षहा॒र्य॑ङ् गि॒रौ जीव॑नम् ।
+य᳓त्र ख᳓लु वा᳓ एतँ᳓ शीर्ष्णा᳓ ह᳓रन्ति ।  
+त᳓स्माच् छीर्षहार्य᳙ङ् गिरौ᳓ जी᳓वनम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -522,7 +520,7 @@ Where, however, they bear it on their heads, therefore what lives on the hill is
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒भि त्यन्दे॒वँ स॑वि॒तार॒मि"त्य् अति॑च्छन्दसा + ऋ॒चा मि॑मी॒ते ।  
+"अभि᳓ त्य᳓न्देवँ᳓ सविता᳓रमि᳓"त्य् अ᳓तिच्छन्दसा + ऋचा᳓ मिमीते᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -537,7 +535,7 @@ With a verse, 'That god, Savitr', in the Atichandas metre he measures.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अति॑च्छन्दा॒ वै सर्वा॑णि॒ छन्दाँ॑सि ।
+अ᳓तिच्छन्दा वै᳓ स᳓र्वाणि छ᳓न्दाँसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -552,7 +550,7 @@ The Atichandas is all the metres;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वे॑भिरे॒वैन॒ञ् छन्दो॑भिर्मिमीते ।  
+स᳓र्वेभिरेवै᳓नञ् छ᳓न्दोभिर्मिमीते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -567,7 +565,7 @@ verily with all the metres he measures it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वर्ष्म॒ वा ए॒षा छन्द॑साय्ँ॒ यदति॑च्छन्दाः ।  
+व᳓र्ष्म वा᳓ एषा᳓ छ᳓न्दसाय्ँ य᳓द᳓तिच्छन्दाः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -582,7 +580,7 @@ The Atichandas is the highest of the metres.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदति॑च्छन्दस॒र्चा मिमी॑ते॒ , वर्ष्मै॒वैनँ॑ समा॒नाना॑ङ् करो॒ति ।
+य᳓द᳓तिच्छन्दसर्चा᳓ मि᳓मीते , व᳓र्ष्मैवै᳓नँ समाना᳓नाङ् करोति᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -596,7 +594,6 @@ In that he measures with a verse in the Atichandas metre, he makes it the highes
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 अ॒भीति॑ । त्यम् । दे॒वम् । स॒वि॒तार॑म् । इति॑ । अति॑च्छन्द॒सेत्यति॑-छ॒न्द॒सा॒ । ऋ॒चा । मि॒मी॒ते॒ ।   
 अति॑च्छन्दा॒ इत्यति॑-छ॒न्दाः॒ । वै । सर्वा॑णि । छन्दाँ॑सि ।   
@@ -618,7 +615,7 @@ In that he measures with a verse in the Atichandas metre, he makes it the highes
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एक॑यैकयो॒त्सर्ग॑म् मिमीते ।[62]  
+ए᳓कयैकयोत्स᳓र्गम् मिमीते ।[62]  
 </details>
 
 <details><summary>Keith</summary>
@@ -633,7 +630,7 @@ With each (finger) separately [4] he measures;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अया॑तयाम्निया ऽयातयाम्निया + ए॒वैन॑म् मिमीते ।  
+अ᳓यातयाम्निया ऽयातयाम्निया + एवै᳓नम् मिमीते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -648,7 +645,7 @@ verily he measures it with each fresh in turn;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒न् नाना॑वीर्या अ॒ङ्गुल॑यः ।
+त᳓स्मान् ना᳓नावीर्या अङ्गु᳓लयः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -663,7 +660,7 @@ therefore the fingers have various strengths.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वा॑स्वङ्गु॒ष्ठमुप॒ नि गृ॑ह्णाति ।
+स᳓र्वास्वङ्गुष्ठ᳓मु᳓प नि᳓ गृह्णाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -678,7 +675,7 @@ He presses down the thumb on them all;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑त्स॒माव॑द्वीर्यो॒ऽन्याभि॑र् अ॒ङ्गुलि॑भिः ।  
+त᳓स्मात्समा᳓वद्वीर्योऽन्या᳓भिर् अङ्गु᳓लिभिः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -693,7 +690,7 @@ therefore it has equal strength with the other fingers;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒त्सर्वा॒ अनु॒ सञ्च॑रति ।  
+त᳓स्मात्स᳓र्वा अ᳓नु स᳓ञ्चरति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -708,7 +705,7 @@ therefore all it accompanies.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्स॒ह सर्वा॑भि॒र् मिमी॑त॒ सँश्लि॑ष्टा अ॒ङ्गुल॑यो जायेरन् ।  
+य᳓त्सह᳓ स᳓र्वाभिर् मि᳓मीत सँ᳓श्लिष्टा अङ्गु᳓लयो जायेरन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -723,7 +720,7 @@ If he were to measure with all (the fingers), the fingers would grow united;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एक॑यैकयो॒त्सर्ग॑म् मिमीते ।
+ए᳓कयैकयोत्स᳓र्गम् मिमीते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -738,7 +735,7 @@ with each separately he measures;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् विभ॑क्ता जायन्ते  ।
+त᳓स्माद् वि᳓भक्ता जायन्ते  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -783,7 +780,7 @@ therefore they grow separate.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्च॒ कृत्वो॒ यजु॑षा मिमीते ।
+प᳓ञ्च कृ᳓त्वो य᳓जुषा मिमीते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -798,8 +795,8 @@ He measures five times with the Yajus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्चा॑क्षरा प॒ङ्क्तिᳶ ।  
-पाङ्क्तो॑ य॒ज्ञः ।
+प᳓ञ्चाक्षरा पङ्क्तिᳶ᳓ ।  
+पा᳓ङ्क्तो यज्ञः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -815,7 +812,7 @@ The Pankti has five syllables, the sacrifice is fivefold;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञमे॒वाव॑ रुन्धे ।
+यज्ञ᳓मेवा᳓व रुन्धे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -849,7 +846,7 @@ verily he wins the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्च॒ कृत्व॑स् तू॒ष्णीम् दश॒ सम्प॑द्यन्ते ।[63]  
+प᳓ञ्च कृ᳓त्वस् तूष्णी᳓म् द᳓श स᳓म्पद्यन्ते ।[63]  
 </details>
 
 <details><summary>Keith</summary>
@@ -864,8 +861,8 @@ verily he wins the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दशा॑क्षरा वि॒राट् ।  
-अन्नव्ँ॑ वि॒राट् ।  
+द᳓शाक्षरा विरा᳓ट् ।  
+अ᳓न्नव्ँ विरा᳓ट् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -881,7 +878,7 @@ The Viraj has ten syllables, the Viraj is food;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒राजै॒वान्नाद्य॒मव॑ रुन्धे ।  
+विरा᳓जैवा᳓न्ना᳓द्यम᳓व रुन्धे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -896,7 +893,7 @@ verily by the Viraj he wins proper food.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् यजु॑षा॒ मिमी॑ते , भू॒तम् ए॒वाव॑ रुन्धे ।  
+य᳓द् य᳓जुषा मि᳓मीते , भूत᳓म् एवा᳓व रुन्धे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -911,7 +908,7 @@ In that he measures with the Yajus, he wins the past;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् तू॒ष्णीम् भ॑वि॒ष्यत् ।
+य᳓त् तूष्णी᳓म् भविष्य᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -955,8 +952,8 @@ in that he measures in silence, the future.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्वै तावा॑ने॒व सोम॒स्स्याद् याव॑न्त॒म् मिमी॑ते॒ ,
-यज॑मानस्यै॒व स्या॒न् नापि॑ सद॒स्या॑नाम् ।  
+य᳓द्वै᳓ ता᳓वानेव᳓ सो᳓मस्स्या᳓द् या᳓वन्तम् मि᳓मीते ,
+य᳓जमानस्यैव᳓ स्यान् ना᳓पि सदस्या᳙नाम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -972,7 +969,7 @@ Now if there were only so much Soma as that which he measures, there would be en
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाभ्य॑स्त्वा + इत्युप॒ समू॑हति ।  
+प्रजा᳓भ्यस्त्वा + इत्युप स᳓मूहति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -987,7 +984,7 @@ With the words, 'For offspring thee!' he draws (the cloth for the Soma) together
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒द॒स्या॑न् ए॒वान्वाभ॑जति ।
+सदस्या᳙न् एवा᳓न्वा᳓भजति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1020,7 +1017,7 @@ verily he makes the priests in the Sadas share in it;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वास॒सोप॑ नह्यति ।
+वा᳓ससो᳓प नह्यति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1035,8 +1032,8 @@ with a garment he ties it up;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒र्व॒दे॒व॒त्यव्ँ॑ वै वासः॑ ।[64]  
-सर्वा॑भिर् ए॒वैन॑न् दे॒वता॑भि॒स् सम॑र्धयति ।
+सर्वदेवत्यव्ँ᳙ वै᳓ वा᳓सः ।[64]  
+स᳓र्वाभिर् एवै᳓नन् देव᳓ताभिस् स᳓मर्धयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1070,7 +1067,7 @@ the garment is connected with all the gods [6]; verily he unites it with all the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒शवो॒ वै सोमः॑ ।
+पश᳓वो वै᳓ सो᳓मः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1085,7 +1082,7 @@ the Soma is cattle;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णाय॒ त्वेत्युप॑ नह्यति ।  
+प्राणा᳓य त्वे᳓त्यु᳓प नह्यति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1100,7 +1097,7 @@ the Soma is cattle;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णमे॒व प॒शुषु॑ दधाति ।  
+प्राण᳓मेव᳓ पशु᳓षु दधाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1115,7 +1112,7 @@ verily he confers expiration upon cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्या॒नाय॒ त्वेत्यनु॑ शृन्थति ।  
+व्याना᳓य त्वे᳓त्य᳓नु शृन्थति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1130,7 +1127,7 @@ verily he confers expiration upon cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्या॒नमे॒व प॒शुषु॑ दधाति ।  
+व्यान᳓मेव᳓ पशु᳓षु दधाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1145,7 +1142,7 @@ verily he confers cross-breathing upon cattle;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑त् स्व॒पन्त॑म् प्रा॒णा न ज॑हति ॥ [65]  
+त᳓स्मात् स्वप᳓न्तम् प्राणा᳓ न᳓ जहति ॥ [65]  
 </details>
 
 <details><summary>Keith</summary>
@@ -1174,4 +1171,3 @@ therefore the vital breaths do not desert a sleeper.
 
 इति षष्ठे प्रथमे नवमोनुवाकः ॥  
 </details>
-

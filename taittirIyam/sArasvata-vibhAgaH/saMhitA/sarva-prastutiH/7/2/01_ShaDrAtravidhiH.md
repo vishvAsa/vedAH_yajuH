@@ -13,7 +13,7 @@ title = "०१ षड्रात्रविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा॒ध्या+++(=देवविशेषाः)+++ वै दे॒वास् सु॑व॒र्गका॑मा ए॒तँ ष॑ड्रा॒त्रम् अ॑पश्य॒न् ।
+साध्या᳓+++(=देवविशेषाः)+++ वै᳓ देवा᳓स् सुवर्ग᳓कामा एतँ᳓ षड्रात्र᳓म् अपश्यन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -23,8 +23,8 @@ The Sadhya gods, desirous of heaven, saw this (rite) of six nights.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमाह॑र॒न् ।
-तेना॑यजन्त ।
+त᳓मा᳓हरन् ।
+ते᳓नायजन्त ।
 </details>
 
 <details><summary>Keith</summary>
@@ -32,14 +32,14 @@ The Sadhya gods, desirous of heaven, saw this (rite) of six nights.
 They grasped it, and sacrificed with it.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>ततो॒ वै ते सु॑व॒र्गल्ँ लो॒कम् आ॑यन्।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>त᳓तो वै᳓ ते᳓ सुवर्गल्ँ᳓ लोक᳓म् आयन्।</details>
 
 <details><summary>Keith</summary>
 
 Then indeed did they go to the world of heaven.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>य ए॒वव्ँ वि॒द्वाँसष् षड्रा॒त्रम् आस॑ते , सुव॒र्गमे॒व लो॒कय्ँ य॑न्ति ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>य᳓ एवव्ँ᳓ विद्वाँ᳓स᳓ष् ष᳓ड्रात्र᳓म् आ᳓सते , सुवर्ग᳓मेव᳓ लोकय्ँ᳓ यन्ति ।</details>
 
 <details><summary>Keith</summary>
 
@@ -48,8 +48,8 @@ Those, who knowing thus perform (the rite) of six nights, go to the world of hea
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒व॒स॒त्त्रव्ँ वै ष॑ड्रा॒त्रः ।
-प्र॒त्यक्षँ॒ ह्य् ए॑तानि॑ पृ॒ष्ठानि॑ +++(रथन्तरादीनि देवतुल्यानि)+++ ।
+देवसत्त्रव्ँ᳓ वै᳓ षड्रात्रः᳓ ।
+प्रत्य᳓क्षँ ह्य् ए᳙ता᳓नि पृष्ठा᳓नि +++(रथन्तरादीनि देवतुल्यानि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -57,7 +57,7 @@ Those, who knowing thus perform (the rite) of six nights, go to the world of hea
 (The rite) of six nights is a Sattra of the gods, for these Prsthas are obvious.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>य ए॒वव्ँ वि॒द्वाँस॑ष् षड्रा॒त्रम् आस॑ते, सा॒क्षाद् ए॒व दे॒वता॑ अ॒भ्यारो॑हन्ति ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>य᳓ एवव्ँ᳓ विद्वाँ᳓सष् षड्रात्र᳓म् आ᳓सते, साक्षा᳓द् एव᳓ देव᳓ता अभ्या᳓रोहन्ति ।</details>
 
 <details><summary>Keith</summary>
 
@@ -68,10 +68,10 @@ Those, who knowing thus perform (the rite) of six nights, mount evidently upon t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पृष्ठ्यः)+++ षड्रा॒त्रो भ॑वति ।  
-षड् वा ऋ॒तव॒ष् षट् पृ॒ष्ठानि॑ +++( च सन्ति)+++[1]।  
-पृ॒ष्ठैर् ए॒व ऋ॒र्तून् अ॒न्वारो॑हन्ति +ऋ॒तुभि॑स् सव्ँवत्स॒रम् ।  
-ते सव्ँ॑वत्स॒र ए॒व प्रति॑ तिष्ठन्ति ।
++++(पृष्ठ्यः)+++ ष᳓ड्रात्रो᳓ भवति ।  
+ष᳓ड् वा᳓ ऋत᳓वष् ष᳓ट् पृष्ठा᳓नि +++( च सन्ति)+++[1]।  
+पृष्ठै᳓र् एव᳓ ऋर्तू᳓न् अन्वा᳓रोहन्ति +ऋतु᳓भिस् सव्ँवत्सर᳓म् ।  
+ते᳓ सव्ँवत्सर᳓ एव᳓ प्र᳓ति तिष्ठन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -79,8 +79,7 @@ Those, who knowing thus perform (the rite) of six nights, mount evidently upon t
 (The rite) is of six nights; the seasons are six, the Prsthas are six [1]; verily by the Prsthas they mount the seasons, by the seasons the year; verily in the year they find support.
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 बृहद्रथन्त॒राभ्याय्ँ॑यन्ती॒यव्ँ वाव र॑थन्त॒रम॒सौ बृ॒हदा॒भ्यामे॒व [2]  
@@ -89,7 +88,7 @@ Those, who knowing thus perform (the rite) of six nights, mount evidently upon t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(दिवसेषु एकान्तराभ्यां)+++ बृहद्रथन्त॒राभ्याय्ँ॑ यन्ति ।
++++(दिवसेषु एकान्तराभ्यां)+++ बृ᳓ह᳓द्र᳓थ᳓न्तरा᳓भ्याय्ँ यन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -104,8 +103,8 @@ They proceed with the Brhat and the Rathantara (Samans).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ वाव र॑थन्त॒रम्, अ॒सौ बृ॒हत् +++(चास्ति)+++।
-आ॒भ्यामे॒व य॒न्ति +++(प्रथमदिनयोः)+++ ।
+इयव्ँ᳓ वा᳓व᳓ रथन्तर᳓म्, असौ᳓ बृह᳓त् +++(चास्ति)+++।
+आभ्या᳓मेव᳓ यन्ति᳓ +++(प्रथमदिनयोः)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -119,7 +118,10 @@ The Rathantara is this (earth), the Brhat yonder (sky); verily with them do they
 आ॒भ्यामे॒व य॒न्ति [2]।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>अथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्ति ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ᳓थो अन᳓योरेव᳓ प्र᳓ति तिष्ठन्ति ।  
+</details>
 
 <details><summary>Keith</summary>
 
@@ -133,8 +135,8 @@ verily also in them they find support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ते वै य॒ज्ञस्या॑ञ्ज॒साय॑नी स्रु॒ती+++(=मार्गौ)+++ ।  
-ताभ्या॑म् ए॒व सु॑व॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
+एते᳓ वै᳓ यज्ञ᳓स्याञ्जसा᳓यनी स्रुती᳓+++(=मार्गौ)+++ ।  
+ता᳓भ्याम् एव᳓ सुवर्गल्ँ᳓ लोकय्ँ᳓ यन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -147,11 +149,9 @@ These indeed are the quick paths of the sacrifice; verily by them do they procee
 ए॒ते वै य॒ज्ञस्या॑ञ्ज॒साय॑नी स्रु॒ती ।
 ताभ्या॒मे॒व सु॑व॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्रि॒वृद॑ग्निष्टो॒मो भ॑वति॒ तेज॑ ए॒वाव॑ रुन्द्धे पञ्चद॒शो भ॑वतीन्द्रि॒यमे॒वाव॑ रुन्द्धे सप्तद॒शो भ॑वत्य॒न्नाद्य॒स्याव॑रुद्ध्या॒ अथो॒ प्रैव तेन॑ जायते 
@@ -159,7 +159,7 @@ These indeed are the quick paths of the sacrifice; verily by them do they procee
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रि॒वृद्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अ॑ग्निष्टो॒मो +++(यागो रथन्तरसामा)+++ भ॑वति +++("अग्न॒ आ या॑हि" इत्यादेस् त्र्यर्चस्य)+++ । तेज॑ ए॒वाव॑ रुन्धते ।  
+त्रिवृ᳓द्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अग्निष्टोमो᳓ +++(यागो रथन्तरसामा)+++ भवति +++("अ᳓ग्न आ᳓ याहि" इत्यादेस् त्र्यर्चस्य)+++ । ते᳓ज एवा᳓व रुन्धते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -186,8 +186,8 @@ There is an Agnistoma characterized by the Trivrt (Stoma); verily he wins brilli
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒ञ्च॒द॒शो भ॑वति॒ ,
-इन्द्रि॒यमे॒वाव रुन्द्धे ।
+पञ्चदशो᳓ भवति ,
+इ᳓न्द्रिय᳓मेवा᳓व᳓ रु᳓न्द्धे᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -214,8 +214,8 @@ There is a Pañcadaśa (Stoma); verily he wins power.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्त॒द॒शो भ॑वति॒ ,
-अ॒न्नाद्य॒स्याव॑रुध्यै ।
+सप्तदशो᳓ भवति ,
+अन्ना᳓द्यस्या᳓वरुध्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -242,7 +242,7 @@ There is a Saptadaśa (Stoma), for the obtainment of food;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ प्रैव तेन॑ जायते ।
+अ᳓थो प्रै᳓व᳓ ते᳓न जायते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -264,14 +264,12 @@ verily also he gains offspring by reason of it.
 
 अथो अपि च तेन सप्तदशेनाह्ना प्रजायते तस्य प्रजाहेतुत्वात् ।
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/2/01_ShaDrAtravidhiH/21-27-vidhAnam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/2/01_ShaDrAtravidhiH/21-27-vidhAnam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒क॒विँ॒शो +++(वैराजसामा षोडशी यागः)+++ भ॑वति॒ प्रति॑ष्ठित्यै । अथो॒ रुच॑म् ए॒वात्मन् द॑धते ।
+एकविँशो᳓ +++(वैराजसामा षोडशी यागः)+++ भवति प्र᳓तिष्ठित्यै । अ᳓थो रु᳓चम् एवा᳓त्म᳓न् दधते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -281,33 +279,30 @@ There is an Ekavinśa (Stoma), for support; verily also they place radiance in t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रि॒ण॒वो +++(शाक्वरसामा उक्थ्यः)+++ भ॑वति॒, विजि॑त्यै ।
+त्रिणवो᳓ +++(शाक्वरसामा उक्थ्यः)+++ भवति, वि᳓जित्यै ।
 </details>
 
 <details><summary>Keith</summary>
 
 There is a Trinava (Stoma), for conquest.
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/2/01_ShaDrAtravidhiH/33-vidhAnam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/2/01_ShaDrAtravidhiH/33-vidhAnam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्र॒य॒स्त्रिँ॒शो +++( रैवतसामा षष्ठम्)+++ भ॑वति, प्रति॑ष्ठित्यै ।
+त्रयस्त्रिँशो᳓ +++( रैवतसामा षष्ठम्)+++ भव᳓ति᳓, प्र᳓तिष्ठित्यै ।
 </details>
 
 <details><summary>Keith</summary>
 
 There is a Trayastrinśa (Stoma), for support.
 </details>
-
 </div>  
 
 ## उपकरणविवेकः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>स॒दो॒-ह॒वि॒र्-धा॒निन॒ ए॒तेन॑ षड्रा॒त्रेण॑ यजेरन् ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>सदो-हविर्-धानि᳓न एते᳓न षड्रात्रे᳓ण यजेरन् ।</details>
 
 <details><summary>Keith</summary>
 
@@ -316,8 +311,8 @@ They should sacrifice with this (rite) of six nights with both Sadas and oblatio
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आश्व॑त्थी हवि॒र्धान॒ञ्+++(=सोमशकटम्)+++ च+ आग्नी॑ध्रञ् +++(शकटम्)+++ च भवतः ।
-तद्धि सु॑व॒र्ग्य॑म् ।
+आ᳓श्वत्थी हविर्धा᳓नञ्+++(=सोमशकटम्)+++ च᳓+ आ᳓ग्नीध्रञ् +++(शकटम्)+++ च भवतः ।
+त᳓द्धि᳓ सुवर्ग्य᳙म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -327,7 +322,7 @@ The oblation-holder and the Agnidh's seat should be of Aśvattha wood, for that 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-च॒क्रीव॑ती +++(शकटे)+++ भवतस् सुव॒र्गस्य॑ लो॒कस्य॒ सम॑ष्ट्यै ।
+चक्री᳓वती +++(शकटे)+++ भवतस् सुवर्ग᳓स्य लोक᳓स्य स᳓मष्ट्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -337,7 +332,7 @@ They should have wheels, for gaining the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(आकृत्या)+++ उ॒लूख॑ल-बुध्नो॒+++(=मूलो)+++ यूपो॑ भवति - प्रति॑ष्ठित्यै।
++++(आकृत्या)+++ उलू᳓खल-बुध्नो+++(=मूलो)+++ यू᳓पो भ᳓व᳓ति᳓ - प्र᳓तिष्ठित्यै।
 </details>
 
 <details><summary>Keith</summary>
@@ -349,7 +344,7 @@ The sacrificial post is mortar-based, for support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राञ्चो॑ यान्ति । प्राङ् इ॑व॒ हि सु॑व॒र्गो लो॒कः ।  
+प्रा᳓ञ्चो यान्ति । प्रा᳓ङ् इव हि᳓ सुवर्गो᳓ लोकः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -359,7 +354,7 @@ They go forward, for forward as it were is the world of heaven [3].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर॑स्वत्या +++(तीर्थविशेषेण)+++ यान्ति [3]।  
+स᳓रस्वत्या +++(तीर्थविशेषेण)+++ यान्ति [3]।  
 </details>
 
 <details><summary>Keith</summary>
@@ -374,7 +369,7 @@ They go with the Sarasvati.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वै दे॑व॒यान॒ᳶ पन्था॒स्, तम् ए॒वान्वारो॑हन्ति ।
+एष᳓ वै᳓ देवया᳓नᳶ प᳓न्थास्, त᳓म् एवा᳓न्वा᳓रोहन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -389,8 +384,8 @@ This is the path that goes to the gods; verily they mount upon it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒क्रोश॑न्तो या॒न्ति ।
-अव॑र्तिम्+++(=दारिद्र्यं)+++ ए॒वान्यस्मि॑न् प्रति॒षज्य॑ प्रति॒ष्ठाङ् ग॑च्छन्ति।
+आक्रो᳓शन्तो यान्ति᳓ ।
+अ᳓वर्तिम्+++(=दारिद्र्यं)+++ एवा᳓न्य᳓स्मिन् प्रतिष᳓ज्य प्रतिष्ठा᳓ङ् गच्छन्ति।
 </details>
 
 <details><summary>Keith</summary>
@@ -402,7 +397,7 @@ They go calling aloud; verily fastening misfortune on another they attain suppor
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒दा दश॑ +++(गावः)+++ श॒तङ् +++(प्रसवेन)+++ कु॒र्वन्त्य् अथैक॑म् उ॒त्थान॑म् +++(→सत्रसमापनम्)+++ ।
+यदा᳓ द᳓श +++(गावः)+++ शत᳓ङ् +++(प्रसवेन)+++ कुर्व᳓न्त्य् अ᳓थै᳓कम् उत्था᳓नम् +++(→सत्रसमापनम्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -410,8 +405,8 @@ They go calling aloud; verily fastening misfortune on another they attain suppor
 When ten (cows) make a hundred, then is one time to stop.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>श॒तायु॒ᳶ पुरु॑षश् श॒तेन्द्रि॑यः।
-आयु॑ष्य् ए॒वेन्द्रि॒ये प्रति॑ तिष्ठन्ति ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>शता᳓युᳶ पु᳓रुषश् शते᳓न्द्रियः।
+आ᳓युष्य् एवे᳓न्द्रिये᳓ प्र᳓ति तिष्ठन्ति ।</details>
 
 <details><summary>Keith</summary>
 
@@ -420,7 +415,7 @@ Man is of a hundred (years of) life and of a hundred powers; verily in life and 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒दा श॒तँ स॒हस्र॑ङ् कु॒र्वन्त्य् अथ + एक॑म् उ॒त्थान॑म् +++(→सत्रसमापनम् पक्षान्तरे)+++ ।
+यदा᳓ शतँ᳓ सह᳓स्रङ् कुर्व᳓न्त्य् अ᳓थ᳓ + ए᳓कम् उत्था᳓नम् +++(→सत्रसमापनम् पक्षान्तरे)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -430,8 +425,8 @@ When a hundred make a thousand, then is one time to stop.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒हस्र॑-सम्मितो॒ वा अ॒सौ लो॒कः ।
-अ॒मुम् ए॒व लो॒कम् अ॒भि ज॑यन्ति ।
+सह᳓स्र-सम्मितो वा᳓ असौ᳓ लोकः᳓ ।
+अमु᳓म् एव᳓ लोक᳓म् अभि᳓ जयन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -441,8 +436,8 @@ Yonder world is measured by a thousand; verily they conquer yonder world.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒दैषा॑म् प्र॒मीये॑त, य॒दा वा॒ जीये॑रन्न् +++(→सर्वस्वमपि ह्रियेरन्)+++ अथैक॑म् उ॒त्थान॑म् ।  
-तद्धि ती॒र्थम्+++(=तारकम्)+++ ॥ [4]
+यदै᳓षाम् प्रमी᳓येत, यदा᳓ वा जी᳓येर᳓न्न् +++(→सर्वस्वमपि ह्रियेरन्)+++ अ᳓थै᳓कम् उत्था᳓नम् ।  
+त᳓द्धि᳓ तीर्थ᳓म्+++(=तारकम्)+++ ॥ [4]
 </details>
 
 <details><summary>Keith</summary>

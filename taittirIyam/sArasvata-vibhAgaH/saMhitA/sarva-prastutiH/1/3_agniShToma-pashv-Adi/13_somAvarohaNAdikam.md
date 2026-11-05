@@ -20,7 +20,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हृ॒दे त्वा॑   +++(उपावहरामि)+++ ।
+हृदे᳓ त्वा   +++(उपावहरामि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -35,7 +35,7 @@ To the heart thee!
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-मन॑से त्वा  +++(उपावहरामि)+++ ।
+म᳓नसे त्वा  +++(उपावहरामि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -50,7 +50,7 @@ To mind thee!
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि॒वे त्वा॑   +++(उपावहरामि)+++ ।
+दिवे᳓ त्वा   +++(उपावहरामि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -65,7 +65,7 @@ To the sky thee!
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूर्या॑य त्वा  +++(उपावहरामि)+++  ।
+सू᳓र्याय त्वा  +++(उपावहरामि)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -99,7 +99,7 @@ To the sun thee!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(सोम)+++ ऊ॒र्ध्वम् इ॒मम् अ॑ध्व॒रङ्कृ॑धि ।
++++(सोम)+++ ऊर्ध्व᳓म् इम᳓म् अध्वर᳓ङ्कृधि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -126,7 +126,7 @@ Raise aloft the sacrifice;
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि॒वि दे॒वेषु॒ होत्रा॑ यच्छ ।
+दिवि᳓ देवे᳓षु हो᳓त्रा यच्छ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -159,7 +159,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑ राज॒न्न् एह्य्, अव॑ रोह ।  
+सो᳓म राजन्न् ए᳓ह्य्, अ᳓व रोह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -185,7 +185,7 @@ O King Soma, come hither, descend.
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा भेर्, मा सव्ँवि॑क्थाः+++(=कम्पिष्ठाः)+++  ।
+मा᳓ भे᳓र्, मा᳓ सव्ँ᳓विक्थाः+++(=कम्पिष्ठाः)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -200,7 +200,7 @@ Fear not, tremble not.
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा त्वा॑ हिँसिषम् ।
+मा᳓ त्वा हिँसिषम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -229,8 +229,8 @@ Let me not harm thee.
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जास् त्वम् उ॒पाव॑रोह ।  
-प्र॒जास् त्वाम् उ॒पाव॑ रोहन्तु ।  
+प्रजा᳓स् त्व᳓म् उपा᳓वरोह ।  
+प्रजा᳓स् त्वा᳓म् उपा᳓व रोहन्तु ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -262,16 +262,14 @@ let creatures descend to thee.
 
 ________
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/02_shRNotv_agnis.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/02_shRNotv_agnis.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-शृ॒णोत्व् अ॒ग्निस् स॒मिधा॒ हव॑म् मे  
-शृ॒ण्वन्त्व् आपो॑ धि॒षणा॑श्+++(=धृष्टा विद्याः)+++ च दे॒वीः ।  
-शृ॒णोत॑ ग्रावाणो वि॒दुषो॒ नु य॒ज्ञँ  
-शृ॒णोतु॑ दे॒वस् स॑वि॒ता हव॑म् मे ॥
+शृणो᳓त्व् अग्नि᳓स् समि᳓धा ह᳓वम् मे  
+शृण्व᳓न्त्व् आ᳓पो धिष᳓णाश्+++(=धृष्टा विद्याः)+++ च देवीः᳓ ।  
+शृणो᳓त ग्रावाणो विदु᳓षो नु᳓ यज्ञँ᳓  
+शृणो᳓तु देव᳓स् सविता᳓ ह᳓वम् मे ॥
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -279,8 +277,7 @@ ________
 3एकधनादिलक्षणा अपो जिघृक्षन् स्रुचि चतुर्गृहीतं गृहीत्वा आहवनीये जुहोति - श्रुणोत्वग्निरिति त्रिष्टुभा चतुष्पदया ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/02_shRNotv_agnis.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/02_shRNotv_agnis.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -312,26 +309,22 @@ Hearken, ye pressing stones, to the sacrifice of me the wise one, Let the god Sa
 किञ्च - देवस्सविता सर्वस्य प्रेरकः मे मदीयं हवं शृणोतु । 'सवितृप्रसूत एव देवताभ्यो निवेद्यापोच्छैति' `इति ब्राह्मणम् । अग्न्यादयो मे हवं श्रुत्वा आगच्छन्तु, यज्ञं निर्वर्तयन्त्विति भावः ॥
 </details>
 </details>
-
 </div>
 
 ________
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/03_devIr_Apo.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/03_devIr_Apo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-देवी॑र् आपो, अपान्नपा॒द्  
-य ऊ॒र्मि-ह॑वि॒ष्यः॑ ।  
-इन्द्रि॒यावा॑न्+++(=वीर्यवान्)+++ म॒दिन्त॑म॒स्+++(=मादयितृतमः)+++  
-**तन्** दे॒वेभ्यो॑ देव॒त्रा+++(=देवस्थाने)+++ **ध॑त्त**,  
-शु॒क्रँ शु॑क्र॒पेभ्यो॒ येषा॑म् भा॒गस् स्थ॥
+दे᳓वीर् आपो, अपान्नपाद्  
+य᳓ ऊर्मि᳓-हविष्यः᳙ ।  
+इ᳓न्द्रिया᳓वान्+++(=वीर्यवान्)+++ मदि᳓न्तमस्+++(=मादयितृतमः)+++  
+**त᳓न्** देवे᳓भ्यो देवत्रा᳓+++(=देवस्थाने)+++ **धत्त**,  
+शुक्रँ᳓ शुक्रपे᳓भ्यो ये᳓षाम् भाग᳓स् स्थ᳓॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/03_devIr_Apo.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/03_devIr_Apo.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -374,12 +367,11 @@ Pure to the drinkers of the pure, (to them) whose share ye are;
 पुनश्च विशेष्यते - शुक्रं सोमं सोमीभविष्यन्तम् । केभ्यः? शुक्रपेभ्यः देवानां मध्ये ये शुक्रपास्सोमपास्तेभ्यः । पुनश्च देवा विशेष्यन्ते - हे आपः येषां देवानां यूयं भागस्स्थ्य भागभूता भविष्यथ तेभ्यो धत्तेति । भागशब्दः 'कर्षात्वतः' इत्यन्तोदात्तः ॥
 </details>
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा॑ ।
+स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -411,7 +403,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(आज्य!)+++ कार्षि॑र्+++(=कर्षणीयम्)+++ अ॒स्य्, अप +अ॒पाम् मृ॒ध्रम्+++(←मृध् युद्धे)+++ +++(कर्षामि/ कर्ष)+++।
++++(आज्य!)+++ का᳓र्षिर्+++(=कर्षणीयम्)+++ अस्य्, अ᳓प᳓ +अपा᳓म् मृध्र᳓म्+++(←मृध् युद्धे)+++ +++(कर्षामि/ कर्ष)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -444,7 +436,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मु॒द्रस्य॒॑ वो ऽक्षि॑त्या॒ उन्न॑ये ।
+समुद्र᳓स्य᳓ वो᳓ ऽक्षित्या उ᳓न्नये ।
 </details>
 
 <details><summary>Keith</summary>
@@ -469,15 +461,13 @@ I draw you for the sustenance of the waters.
 
 ________
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/04_yam_agne.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/04_yam_agne.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-**यम्** अ॑ग्ने पृ॒त्सु+++(=युद्धेषु)+++ मर्त्य॒म्  
-**आवो॒** वाजे॑षु॒+++(←वज्=स्पर्धासु)+++ यञ् जु॒नाः ।    
-**स यन्ता॒** शश्व॑ती॒र् **इषः॑** ॥ [23]
+**य᳓म्** अग्ने पृत्सु᳓+++(=युद्धेषु)+++ म᳓र्त्यम्  
+**आ᳓वो** वा᳓जेषु+++(←वज्=स्पर्धासु)+++ य᳓ञ् जुनाः᳓ ।    
+**स᳓ य᳓न्ता** श᳓श्वतीर् **इ᳓षः** ॥ [23]
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -485,8 +475,7 @@ ________
 7क्रतुकरणं जुहोति - यमग्न इति त्रिपदया गायत्र्या ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/04_yam_agne.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/04_yam_agne.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -509,7 +498,6 @@ That mortal, O Agni, whom thou hast helped in the battles, Whom thou hast streng
 'यद्यग्निष्टोमो जुहोति' `इति ब्राह्मणम् । हे अग्ने यं मर्त्यं पृत्सु सङ्ग्रामेषु आवः रक्षसि । 'छन्दसि लुङ्लङ्लिटः' इत्यवतेर्लङ्, आडागम उदात्तः ॥ 'मांस्पृत्स्नूनामुपसङ्ख्यानम्' इति पृतनाशब्दस्य पृद्भावः, 'सावेकाचः' इति विभक्तेरुदात्तत्वम् । कः पुनरसौ यं पृतनासु रक्षसीत्याह वाजेष्व् अन्नेषु निमित्तभूतेषु । 'निमित्तात्कर्मसंयोगे' इति सप्तमी । अन्नार्थं यं जुनाः गच्छसि । जु इति सौत्रो धातुः वेगितायां गतौ वर्तते, तस्मात्पूर्ववल्लुङ्, श्नाप्रत्ययः, 'बहुलं छन्दस्यमाङ्योगेपि' इत्यडभावः । हवींषि ग्रहीतुं यस्य सकाशं सदा गच्छसीत्यर्थः । स एव खलु त्वया सङ्ग्रामेषु रक्ष्यत्वेन ग्राह्यते । यश्च त्वयैवं रक्ष्यते स एव खलु त्वयानुगृहीतः यन्ता यमयिता वशीकर्ता ॥ 'न लुट् इति' निघातप्रतिषेधः, उदात्तनिवृत्तिस्वरो व्यत्ययेन प्रवर्तते । किं वशीकरिष्यतीत्याह - शश्वतीः नित्याः इषः अन्नादि प्रभूतं धनं प्राप्नोतीत्यर्थः । शश्वच्छब्दात् 'उगितश्च' इति ङीप् ॥
 </details>
 </details>
-
 </div>
 
 इति तृतीये त्रयोदशोनुवाकः ॥

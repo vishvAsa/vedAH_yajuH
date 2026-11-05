@@ -12,17 +12,19 @@ unicode_script: devanagari
 
 ## मेनिवारणम्
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/02_chaxuSho_hete.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/02_chaxuSho_hete.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-चक्षु॑षो हेते॒ मन॑सो हेते,  
-वा॒चो हे॑ते॒ +++(~~वाचो॑ हेते॒~~)+++ ब्रह्म॑णो हेते ।  
-यो मा॑ ऽघा॒युर् **अ॑भि॒दास॑ति**+++(=अभिचरति)+++,  
-तम् अ॑ग्ने मे॒न्या+++(=मन्युना)+++ **ऽमे॒निं कृ॑णु** ।
+च᳓क्षुषो-हेते म᳓नसो-हेते,  
+वा᳓चो-हेते ब्र᳓ह्मणो-हेते ।  
+यो᳓ मा ऽघायु᳓र् **अभिदा᳓सति**+++(=अभिचरति)+++,  
+त᳓म् अग्ने मेन्या᳓+++(=मन्युना)+++ **ऽमेनिं᳓ कृणु** ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/02_chaxuSho_hete.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/02_chaxuSho_hete.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 चक्षु॑षो हेते॒ मन॑सो हेते ।
@@ -37,17 +39,20 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/05_yo_mA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यो मा॒ चक्षु॑षा॒ यो मन॑सा,  
-यो वा॒चा ब्रह्म॑णा ऽऽघा॒युर् **अ॑भि॒दास॑ति** ।  
-तया॑ऽग्ने॒ त्वं मे॒न्या,   
-अ॒मुम् **अ॑मे॒निं कृ॑णु** ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/05_yo_mA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+यो᳓ मा च᳓क्षुषा यो᳓ म᳓नसा,  
+यो᳓ वाचा᳓ ब्र᳓ह्मणा ऽऽघायु᳓र् **अभिदा᳓सति** ।  
+त᳓याऽग्ने त्वं᳓ मेन्या᳓,   
+अमु᳓म् **अमेनिं᳓ कृणु** ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/05_yo_mA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/05_yo_mA.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 यो मा॒ चक्षु॑षा॒ यो मन॑सा ।
@@ -65,17 +70,19 @@ unicode_script: devanagari
 
 ## अभिचार-प्रतीकारः
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/08_yat_kinchAsau.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/08_yat_kinchAsau.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-यत् किञ्चा॒सौ मन॑सा॒ यच् च॑ वा॒चा,  
-य॒ज्ञैर् **जु॒होति॒** यजु॑षा ह॒विर्भिः॑ ।  
-तन् मृ॒त्युर् निरृ॑त्या **संविदा॒नः**+++(=समाहितः)+++,   
-पु॒रा दि॒ष्टाद्+++(=दैवात् तदनुकूलाद्)+++ आहु॑तीर् अस्य **हन्तु** ।
+य᳓त् कि᳓ञ्चासौ᳓ म᳓नसा य᳓च् च वाचा᳓,  
+यज्ञै᳓र् **जुहो᳓ति** य᳓जुषा हवि᳓र्भिः ।  
+त᳓न् मृत्यु᳓र् नि᳓रृत्या **संविदानः᳓**+++(=समाहितः)+++,   
+पुरा᳓ दिष्टा᳓द्+++(=दैवात् तदनुकूलाद्)+++ आ᳓हुतीर् अस्य **हन्तु** ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/08_yat_kinchAsau.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/08_yat_kinchAsau.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 यत्किञ्चा॒सौ मन॑सा॒ यच्च॑ वा॒चा ।
@@ -90,17 +97,20 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/11_yAtudhAnA_nirRtir.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-या॒तु॒धाना॒ निरृ॑ति॒र् आदु॒+++(=अनु)+++ रक्षः॑,  
-ते अ॑स्य **घ्न॒न्त्व्** अनृ॑तेन स॒त्यम् ।  
-इन्द्रे॑षिता॒+++(←बहुव्रीहिः!)+++ आज्य॑मस्य **मथ्नन्तु**,  
-मा तत् **समृ॑द्धि॒** यद् अ॒सौ **क॒रोति॑** ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/11_yAtudhAnA_nirRtir.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+यातुधा᳓ना नि᳓रृतिर् आ᳓दु+++(=अनु)+++ र᳓क्षः,  
+ते᳓ अस्य **घ्नन्त्व्** अ᳓नृतेन सत्य᳓म् ।  
+इ᳓न्द्रेषिता+++(←बहुव्रीहिः!)+++ आ᳓ज्यमस्य **मथ्नन्तु**,  
+मा᳓ त᳓त् **स᳓मृद्धि** य᳓द् असौ᳓ **करो᳓ति** ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/11_yAtudhAnA_nirRtir.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/11_yAtudhAnA_nirRtir.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 या॒तु॒धाना॒ निर्ऋ॑ति॒रादु॒रक्षः॑ ।
@@ -118,17 +128,19 @@ unicode_script: devanagari
 
 ## प्रतिज्ञा
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/14_hanmi_te-ham.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/14_hanmi_te-ham.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-**हन्मि॑** ते॒ऽहं  कृ॒तँ ह॒विः,  
-यो मे॑ घो॒रम् **अची॑कृतः**+++(=अकार्षीः)+++ ।  
-**अपां॑चौ** त उ॒भौ बा॒हू,  
-**अप॑नह्याम्य्** (=बध्नामि) आ॒स्य॑म् ।
+**ह᳓न्मि** तेऽहं᳓  कृतँ᳓ हविः᳓,  
+यो᳓ मे घोर᳓म् **अ᳓चीकृतः**+++(=अकार्षीः)+++ ।  
+**अ᳓पांचौ** त उभौ᳓ बाहू᳓,  
+**अ᳓पनह्याम्य्** (=बध्नामि) आस्य᳙म् ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/14_hanmi_te-ham.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/14_hanmi_te-ham.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 हन्मि॑ ते॒ऽहङ्कृ॒तँ ह॒विः ।
@@ -143,17 +155,20 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/17_apanahyAmi_te.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-**अप॑नह्यामि** ते बा॒हू,  
-**अप॑नह्याम्य्** आ॒स्य॑म् ।  
-अ॒ग्नेर् दे॒वस्य॒ ब्रह्म॑णा,  
-सर्वं॑ ते **ऽवधिषं** कृ॒तम् ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/17_apanahyAmi_te.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+**अ᳓पनह्यामि** ते बाहू᳓,  
+**अ᳓पनह्याम्य्** आस्य᳙म् ।  
+अग्ने᳓र् देव᳓स्य ब्र᳓ह्मणा,  
+स᳓र्वं ते **ऽवधिषं** कृत᳓म् ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/17_apanahyAmi_te.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/17_apanahyAmi_te.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अप॑नह्यामि ते बा॒हू ।
@@ -171,17 +186,19 @@ unicode_script: devanagari
 
 ## अभिचार-प्रतीकारः
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/20_purA.amuShya.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/20_purA.amuShya.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-पु॒रा ऽमुष्य॑ वषट्का॒रात्,  
-य॒ज्ञं दे॒वेषु॑ नस् **कृधि** ।  
-स्वि॑ष्टम् अ॒स्माकं॑ **भ्यूयात्**,  
-माऽस्मान् **प्राप॒न्न्** अरा॑तयः ।
+पुरा᳓ ऽमु᳓ष्य वषट्कारा᳓त्,  
+यज्ञं᳓ देवे᳓षु नस् **कृधि** ।  
+स्वि᳓ष्टम् अस्मा᳓कं **भूयात्**,  
+मा᳓ऽस्मा᳓न् **प्रा᳓पन्न्** अ᳓रातयः ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/20_purA.amuShya.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/20_purA.amuShya.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 पु॒राऽमुष्य॑ वषट्का॒रात् ।
@@ -196,17 +213,20 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/23_anti_dUre.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अन्ति॑ दू॒रे **स॒तो** अ॑ग्ने,  
-**भ्रातृ॑व्यस्याऽऽभि॒दास॑तः** ।  
-व॒ष॒ट्का॒रेण॒ वज्रे॑ण,  
-कृ॒त्याँ **ह॑न्मि कृ॒ताम्** अ॒हम् ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/23_anti_dUre.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अ᳓न्ति दूरे᳓ **सतो᳓** अग्ने,  
+**भ्रा᳓तृव्यस्याऽऽभिदा᳓सतः** ।  
+वषट्कारे᳓ण व᳓ज्रेण,  
+कृत्याँ᳓ **हन्मि कृता᳓म्** अह᳓म् ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/23_anti_dUre.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/23_anti_dUre.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अन्ति॑ दू॒रे स॒तो अ॑ग्ने ।
@@ -221,17 +241,20 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/26_yo_mA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यो मा॒ नक्तं॒ दिवा॑ सा॒यम्,  
-प्रा॒तश् चाह्नो॑ **नि॒पीय॑ति**+++(=बाधते)+++ ।  
-अ॒द्या तम् इ॑न्द्र॒ वज्रे॑ण,  
-भ्रातृ॑व्यं **पादयामसि**+++(=पातयामि)+++ ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/26_yo_mA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+यो᳓ मा न᳓क्तं दि᳓वा+++(→अव्ययः स्वर-भेदतः)+++ साय᳓म्,  
+प्रात᳓श् चा᳓ह्नो **निपी᳓यति**+++(=बाधते)+++ ।  
+अद्या᳓ त᳓म् इन्द्र व᳓ज्रेण,  
+भ्रा᳓तृव्यं **पादयामसि**+++(=पातयामि)+++ ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/26_yo_mA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/26_yo_mA.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 यो मा॒ नक्त॒न्दिवा॑ सा॒यम् ।

@@ -1,6 +1,5 @@
 +++
 title = "०९ ग्रामकामस्य साङ्ग्रहिणीष्टिः"
-
 +++
 
 विश्वेदेवा ऋषयः ।
@@ -12,7 +11,7 @@ title = "०९ ग्रामकामस्य साङ्ग्रहिण
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वो॑ऽसि ।
+ध्रुवो᳙ऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -27,8 +26,8 @@ Thou art secure;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयासम् ।  
-धीर॒श्चेत्ता॑ वसु॒वित् +++(भूयासम्)+++।
+ध्रुवो᳙ऽहँ᳓ सजाते᳓षु भूयासम् ।  
+धी᳓रश्चे᳓त्ता वसुवि᳓त् +++(भूयासम्)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -54,7 +53,7 @@ may I be secure among my equals, wise, a guardian, a gainer of wealth;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वो॑ऽसि ।
+ध्रुवो᳙ऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -69,8 +68,8 @@ thou art secure;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयासम् ।  
-उ॒ग्रश्चेत्ता॑ वसु॒वित् ।
+ध्रुवो᳙ऽहँ᳓ सजाते᳓षु भूयासम् ।  
+उग्र᳓श्चे᳓त्ता वसुवि᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -98,7 +97,7 @@ may I be secure among my equals, dread, a guardian, a gainer of wealth;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वो॑ऽसि ।
+ध्रुवो᳙ऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -113,8 +112,8 @@ thou art secure;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयासम् ।  
-अ॒भि॒भूश्चेत्ता॑  वसु॒वित्।
+ध्रुवो᳙ऽहँ᳓ सजाते᳓षु भूयासम् ।  
+अभिभू᳓श्चे᳓त्ता  वसुवि᳓त्।
 </details>
 
 <details><summary>Keith</summary>
@@ -140,12 +139,12 @@ may I be secure among my equals, dread, a guardian, a gainer of wealth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आम॑नमसि ।  
-आम॑नस्य देवा॒ ये स॑जा॒तास्सम॑नसः॒ ..
-तान॒हङ्का॑मये हृ॒दा ।  
-ते माङ्का॑मयन्ताँ हृ॒दा ।  
-तान्म॒ आम॑नसᳵ कृधि ।   
-स्वाहा॑ ।
+आ᳓मनमसि ।  
+आ᳓मनस्य देवा ये᳓ सजाता᳓स्स᳓मनसः ..
+ता᳓नह᳓ङ्कामये हृदा᳓ ।  
+ते᳓ मा᳓ङ्कामयन्ताँ हृदा᳓ ।  
+ता᳓न्म आ᳓मनसᳵ कृधि ।   
+स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -172,7 +171,7 @@ Thou art affection; O ye gods of affection, those equals,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(आम॑नम॒सि , आम॑नस्य देवा॒ ये )+++कु॑मा॒राः +++(सम॑नसः॒ )+++ ..
++++(आ᳓मनमसि᳓ , आ᳓मनस्य देवा ये᳓ )+++कु᳓माराः᳓ +++(स᳓मनसः )+++ ..
 </details>
 
 <details><summary>Keith</summary>
@@ -187,7 +186,7 @@ youths, of one mind, them I love with my heart;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-{तान॒हङ्का॑मये हृ॒दा । ते माङ्का॑मयन्ताँ हृ॒दा ।
+{ता᳓नह᳓ङ्कामये हृदा᳓ । ते᳓ मा᳓ङ्कामयन्ताँ हृदा᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -202,7 +201,7 @@ may they love me with their hearts;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तान्म॒ आम॑नसᳵ कृधि ।
+ता᳓न्म आ᳓मनसᳵ कृधि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -217,7 +216,7 @@ make them of one mind with me;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा॑ ।}
+स्वा᳓हा ।}
 </details>
 
 <details><summary>Keith</summary>
@@ -237,7 +236,7 @@ hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आम॑नमसि , आम॑नस्य देवा॒ यास्स्त्रिय॒स्सम॑नसः  ।
+आ᳓मन᳓म᳓सि᳓ , आ᳓मनस्य देवा या᳓स्स्त्रि᳓यस्स᳓मनसः  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -252,7 +251,7 @@ Thou [1] art affection;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता अ॒हङ्का॑मये हृ॒दा ।
+ता᳓ अह᳓ङ्कामये हृदा᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -267,7 +266,7 @@ O ye gods of affection, the women of one mind, them I love with my heart;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता माङ्का॑मयन्ताँ हृ॒दा ।
+ता᳓ मा᳓ङ्कामयन्ताँ हृदा᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -282,7 +281,7 @@ may they love me with their hearts;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता म॒ आम॑नसᳵ कृधि ।
+ता᳓ म आ᳓मनसᳵ कृधि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -297,7 +296,7 @@ make them of one mind with me;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा॑ ।
+स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -322,12 +321,12 @@ hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वै॒श्व॒दे॒वीँ सा॑ङ्ग्रह॒णीन्निर्व॑पे॒द्ग्राम॑कामः ।  
-वै॒श्व॒दे॒वा वै स॑जा॒ता विश्वा॑ने॒व दे॒वान्त्स्वेन॑ भाग॒धेये॒नोप॑ धावति ।  
-त ए॒वास्मै॑ सजा॒तान्प्र य॑च्छन्ति ।  
-ग्रा॒म्ये॑व भ॑वति ।  
-सा॒ङ्ग्र॒ह॒णी भ॑वति ।  
-म॒नो॒ग॑हणव्ँ॒ वै स॒ङ्ग्रह॑ण॒म्, .. मन॑ ए॒व स॑जा॒ताना॑म् गृह्णाति ।
+वैश्वदेवीँ᳓ साङ्ग्रहणी᳓न्नि᳓र्वपेद्ग्रा᳓मकामः ।  
+वैश्वदेवा᳓ वै᳓ सजाता᳓ वि᳓श्वानेव᳓ देवा᳓न्त्स्वे᳓न भागधे᳓येनो᳓प धावति ।  
+त᳓ एवा᳓स्मै सजाता᳓न्प्र᳓ यच्छन्ति ।  
+ग्राम्ये᳙व᳓ भवति ।  
+साङ्ग्रहणी᳓ भवति ।  
+मनोग᳙हणव्ँ वै᳓ सङ्ग्र᳓हणम्, .. म᳓न एव᳓ सजाता᳓नाम् गृह्णाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -357,7 +356,7 @@ He who desires a village should offer to the All-gods (the sacrifice) for taking
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वो॑ऽसि ।
+ध्रुवो᳙ऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -372,7 +371,7 @@ He who desires a village should offer to the All-gods (the sacrifice) for taking
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयास॒मिति॑ परि॒धीन्परि॑ दधाति ।
+ध्रुवो᳙ऽहँ᳓ सजाते᳓षु भूयासमि᳓ति परिधी᳓न्प᳓रि दधाति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -387,7 +386,7 @@ may I be secure among my equals', (with these words) he puts the enclosing-stick
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒शिष॑मे॒वैतामा शा॒स्ते ।
+आशि᳓षमेवै᳓ता᳓मा᳓ शास्ते᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -402,8 +401,8 @@ verily he invokes this blessing.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॑ ए॒तदे॒व सर्वँ॑ सजा॒तेष्वधि॑ भवति ।  
-यस्यै॒वव्ँवि॒दुष॑ ए॒ते प॑रि॒धयᳶ॑ परिधी॒यन्ते ।
+अ᳓थो एत᳓देव᳓ स᳓र्वँ सजाते᳓ष्व᳓धि भवति ।  
+य᳓स्यैवव्ँ᳓विदु᳓ष एते᳓ परिध᳓यᳶ परिधीय᳓न्ते᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -429,9 +428,9 @@ Then all this comes to pass with regard to the equals of him for whom knowing th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आम॑नमसि , आम॑नस्य देवा॒ इति॑ ति॒स्र आहु॑तीर्जुहोति।  
-ए॒ताव॑न्तो॒ वै स॑जा॒ता ये म॒हान्तो॒ ये क्षु॑ल्ल॒का यास्स्त्रिय॒स्ताने॒वाव॑ रुन्द्धे ।  
-त ए॑न॒मव॑रुद्धा॒ उप॑ तिष्ठन्ते ॥
+आ᳓मन᳓म᳓सि᳓ , आ᳓मनस्य देवा इ᳓ति तिस्र᳓ आ᳓हुतीर्जुहोति।  
+एता᳓वन्तो वै᳓ सजाता᳓ ये᳓ महा᳓न्तो ये᳓ क्षुल्लका᳓ या᳓स्स्त्रि᳓यस्ता᳓नेवा᳓व रुन्द्धे ।  
+त᳓ एनम᳓वरुद्धा उ᳓प तिष्ठन्ते ॥
 </details>
 
 <details><summary>Keith</summary>

@@ -1,6 +1,5 @@
 +++
 title = "भृगुवल्ली"
-
 +++
 **तैत्तिरीयोपनिषत्**
 
@@ -72,7 +71,6 @@ title = "भृगुवल्ली"
 
 अन्तरङ्गोपाय = internal means - indriya-nigraha/ tapas as an upAya is internal to brahma-vidyA (upAsana the upAya proper), which proceeds as prescribed.
 </details>
-
 
 **द्वितीयोऽनुवाकः**
 

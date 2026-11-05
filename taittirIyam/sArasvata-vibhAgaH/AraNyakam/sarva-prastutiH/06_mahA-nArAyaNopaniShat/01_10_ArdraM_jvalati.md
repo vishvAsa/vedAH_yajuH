@@ -1,6 +1,5 @@
 +++
 title = "०१ १० आर्द्रं ज्वलति"
-
 +++
 
 __________________
@@ -8,17 +7,20 @@ __________________
 
 इति चुलुकेन जलं पीत्वा,
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_10_ArdraM_jvalati/02_Ardra~n_jvalati.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-आर्द्र॒ञ् **ज्वल॑ति॒** ज्योति॑र् अ॒हम् **अ॑स्मि** ।  
-ज्योति॒र् **ज्वल॑ति॒** ब्रह्मा॒ ऽहम् अ॑स्मि ।  
-यो॑ऽहम् **अ॑स्मि॒**  ब्रह्मा॒ ऽहम् अ॑स्मि ।  
-अ॒हम् ए॒वा ऽहं माञ् **जु॑होमि॒** स्वाहा॑ ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_10_ArdraM_jvalati/02_Ardra~n_jvalati.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+आ᳓र्द्रञ् **ज्व᳓लति** ज्यो᳓तिर् अह᳓म् **अस्मि** ।  
+ज्यो᳓तिर् **ज्व᳓लति** ब्र᳓ह्मा ऽह᳓म् अस्मि ।  
+यो᳓ऽह᳓म् **अस्मि**  ब्र᳓ह्मा ऽह᳓म् अस्मि ।  
+अह᳓म् एवा᳓ ऽहं᳓ मा᳓ञ् **जुहोमि** स्वा᳓हा ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_10_ArdraM_jvalati/02_Ardra~n_jvalati.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_10_ArdraM_jvalati/02_Ardra~n_jvalati.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 आर्द्र॒ञ् ज्वल॑ति॒ ज्योति॑र् अ॒हम् अ॑स्मि ।  
@@ -34,29 +36,33 @@ __________________
 
 इति द्वाभ्यां प्रोक्ष्य आचम्य,
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_10_ArdraM_jvalati/05_akAryakAry_avakIrNI.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒-का॒र्य॒-का॒र्य्॑ अवकी॒र्णी  
-स्ते॒नो भ्रू॑ण॒हा गु॑रु-त॒ल्प-गः ।  
-वरु॑णो॒ऽपाम् अ॑घ-मर्ष॒णस्  
-तस्मा॑त् पा॒पात् **प्रमु॑च्यते** ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_10_ArdraM_jvalati/05_akAryakAry_avakIrNI.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अ-कार्य-कार्य्᳙ अवकीर्णी᳓  
+स्तेनो᳓ भ्रूणहा᳓ गुरु-तल्प᳓-गः᳓ ।  
+व᳓रुणोऽपा᳓म् अघ-मर्षण᳓स्  
+त᳓स्मात् पापा᳓त् **प्र᳓मुच्यते** ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_10_ArdraM_jvalati/05_akAryakAry_avakIrNI.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_10_ArdraM_jvalati/05_akAryakAry_avakIrNI.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
-अ॒का॒र्य॒-का॒र्य्॑-अवकी॒र्णी स्ते॒नो भ्रू॑ण॒हा गु॑रुत॒ल्पगः ।  
+अ॒का॒र्य॒-का॒र्य्॑-अवकी॒र्णी स्ते॒नो भ्रू॑ण॒हा गु॑रुत॒ल्पगः ।  
 वरु॑णो॒ऽपाम् अ॑घमर्ष॒णस् तस्मा॑त् पा॒पात् प्रमु॑च्यते ।
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
-र॒जो भूमि॑स् त्व॒माँ रोद॑यस्व॒ प्रव॑दन्ति॒ धीराः॑ ।  
-पु॒नन्तु॒ ऋष॑यः, पु॒नन्तु॒ वस॑वः,  
-पु॒नातु॒ वरु॑णः, पु॒नात्व् अ॑घमर्ष॒णः । 
+रजो᳓ भू᳓मिस् त्वमाँ᳓ रो᳓दयस्व प्र᳓वदन्ति धी᳓राः ।  
+पुन᳓न्तु ऋ᳓षयः, पुन᳓न्तु व᳓सवः,  
+पुना᳓तु व᳓रुणः, पुना᳓त्व् अघमर्षणः᳓ । 
 </details>
 
 <details><summary>मूलम्</summary>

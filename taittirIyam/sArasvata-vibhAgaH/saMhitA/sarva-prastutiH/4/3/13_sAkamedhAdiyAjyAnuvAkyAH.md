@@ -9,8 +9,8 @@ title = "१३ साकमेधादियाज्यानुवाक्�
 चतुर्थकाण्डे तृतीयप्रपाठके त्रयोदशोऽनुवाकः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निर्वृ॒त्राणि॑ जङ्घनद्द्रविण॒स्युर्वि॑प॒न्यया॑ ।  
-समि॑द्धश्शु॒क्र आहु॑तः ॥  
+अग्नि᳓र्वृत्रा᳓णि जङ्घनद्द्रविणस्यु᳓र्विपन्य᳓या ।  
+स᳓मिद्धश्शुक्र᳓ आ᳓हुतः ॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -40,19 +40,24 @@ title = "१३ साकमेधादियाज्यानुवाक्�
 अथ द्वितीयस्याऽऽज्यभागस्य पुरोनुवाक्याम् आह— “त्वं सोमासीति”।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/05_tvaM_somAsi.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/05_tvaM_somAsi.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 तुवं᳓ सोमासि स᳓त्पतिस्  
 तुवं᳓ रा᳓जोत᳓ वृत्रहा᳓  
 तुव᳓म् भद्रो᳓ असि क्र᳓तुः
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/091/05_tvaM_somAsi.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/091/05_tvaM_somAsi.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+त्वं सो॑मासि॒ सत्प॑ति॒स्त्वं राजो॒त वृ॑त्र॒हा ।  
+त्वं भ॒द्रो अ॑सि॒ क्रतुः॑ ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/091/05_tvaM_somAsi.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -333,13 +338,12 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 
 भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. परमेश्वर, विद्वान, सोमलता इत्यादी औषधींचा समूह हे संपूर्ण ऐश्वर्य देणारे, श्रेष्ठांचे रक्षण करणारे, अधिपती, दुःखांचा नाश करणारे व विज्ञान देणारे, कल्याणकारी आहेत हे चांगल्या प्रकारे जाणून सर्वांनी त्यांचा अंगीकार करणे योग्य आहे. ॥ ५ ॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भ॒द्रा ते॑ अग्ने स्वनीक स॒न्दृग्घो॒रस्य॑ स॒तो विषु॑णस्य॒ चारुः॑ ।  
-न यत्ते॑ शो॒चिस्तम॑सा॒ वर॑न्त॒ न ध्व॒स्मान॑स्त॒नुवि॒ रेप॒ आ धुः॑ ॥  
+भद्रा᳓ ते अग्ने स्वनीक सन्दृ᳓ग्घोर᳓स्य सतो᳓ वि᳓षुणस्य चा᳓रुः ।  
+न᳓ य᳓त्ते शोचि᳓स्त᳓मसा व᳓रन्त न᳓ ध्वस्मा᳓नस्तनु᳓वि रे᳓प आ᳓ धुः ॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -365,8 +369,8 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भ॒द्रन्ते॑ अग्ने सहसि॒न्ननी॑कमुपा॒क आ रो॑चते॒ सूर्य॑स्य ।  [29]   
-रुश॑द्दृ॒शे द॑दृशे नक्त॒या चि॒दरू॑क्षितन्दृ॒श आ रू॒पे अन्न॑म् ।  
+भद्र᳓न्ते अग्ने सहसिन्न᳓नीकमुपाक᳓ आ᳓ रोचते सू᳓र्यस्य ।  [29]   
+रु᳓शद्दृशे᳓ ददृशे नक्तया᳓ चिद᳓रूक्षितन्दृश᳓ आ᳓ रूपे᳓ अ᳓न्नम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -388,8 +392,8 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ैसैनानी॑केन सुवि॒दत्रो॑ अ॒स्मे यष्टा॑ दे॒वाँ आय॑जिष्ठस्स्व॒स्ति ।  
-अद॑ब्धो गो॒पा उ॒त नᳶ॑ पर॒स्पा अग्ने॑ द्यु॒मदु॒त रे॒वद्दि॑दीहि ।
+ै᳓सै᳓ना᳓नीकेन सुविद᳓त्रो अस्मे᳓ य᳓ष्टा देवाँ᳓ आ᳓यजिष्ठस्स्वस्ति᳓ ।  
+अ᳓दब्धो गोपा᳓ उत᳓ नᳶ परस्पा᳓ अ᳓ग्ने द्युम᳓दुत᳓ रेव᳓द्दिदीहि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -413,8 +417,8 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व॒स्ति नो॑ दि॒वो अ॑ग्ने पृथि॒व्या वि॒श्वायु॑र्धेहि य॒जथा॑य देव ।  
-यत्सी॒महि॑ दिविजात॒ प्रश॑स्त॒न्तद॒स्मासु॒ द्रवि॑णन्धेहि चि॒त्रम् ।  
+स्वस्ति᳓ नो दिवो᳓ अग्ने पृथिव्या᳓ विश्वा᳓युर्धेहि यज᳓थाय देव ।  
+य᳓त्सीम᳓हि दिविजात प्र᳓शस्तन्त᳓दस्मा᳓सु द्र᳓विणन्धेहि चित्र᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -442,8 +446,8 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा॑ होत॒र्मनु॑षः [30]  दे॒वता॑ता य॒ज्ञेभि॑स्सूनो सहसो॒ यजा॑सि ।  
-ए॒वा नो॑ अ॒द्य स॑म॒ना स॑मा॒नानु॒शन्न॑ग्न उश॒तो य॑क्षि दे॒वान् ॥   
+य᳓था होतर्म᳓नुषः [30]  देव᳓ताता यज्ञे᳓भिस्सूनो सहसो य᳓जासि ।  
+एवा᳓ नो अद्य᳓ समना᳓ समाना᳓नुश᳓न्नग्न उशतो᳓ यक्षि देवा᳓न् ॥   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -475,8 +479,8 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निमी॑डे पु॒रोहि॑तय्ँ य॒ज्ञस्य॑ दे॒वमृ॒त्विज॑म् ।  
-होता॑रँ रत्न॒धात॑मम् ॥
+अग्नि᳓मीडे पुरो᳓हितय्ँ यज्ञ᳓स्य देव᳓मृत्वि᳓जम् ।  
+हो᳓तारँ रत्नधा᳓तमम् ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -501,19 +505,24 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 अथ द्वितीयाज्यभागस्य पुरोनुवाक्याम् आह— “वृषा सोमेति”।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/064/01_vRShA_soma.md">
-
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/064/01_vRShA_soma.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 वृ᳓षा सोम द्युमाँ᳓ असि  
 वृ᳓षा देव वृ᳓षव्रतः  
 वृ᳓षा ध᳓र्माणि दधिषे
 </details>
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/064/01_vRShA_soma.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/064/01_vRShA_soma.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
+वृषा॑ सोम द्यु॒माँ अ॑सि॒ वृषा॑ देव॒ वृष॑व्रतः ।  
+वृषा॒ धर्मा॑णि दधिषे ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/064/01_vRShA_soma.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -673,6 +682,7 @@ _____________
 
 हे सोम त्वं वृषा कामानां वर्षयिताऽसि।   द्युमान्दीप्तिमांश्चासि।   हे देव यस्मात्त्वं वृषा वर्षयिता तस्मात्वं वृषव्रतो वर्षणनिमित्तं व्रतं कर्म यस्य स वृषव्रतः।   किंच यस्मात्त्वं वृषा वर्षयिता तस्माद्धर्माणि पुण्यानि दधिषे।   हे सोम त्वं वृषा धारयिताऽसि।
 
+_____________
 हे सोम त्वं वृषा कामानां वर्षयिता द्युमान् दीप्तिमांश् चासि।
 हे देव यस्मात् त्वं वृषा वर्षयिता तस्मात् त्वं वृष-व्रतो वर्ष-निमित्तं कर्म यस्यासौ वृष-व्रतः।
 किंच यस्मात् त्वं वृषा वर्षयिता तस्माद् धर्माणि पुण्यानि दधिषे धारयसि।
@@ -756,13 +766,12 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 पदार्थान्वयभाषाः -  (सोम) हे परमात्मन् ! त्वं (द्युमानसि) दीप्तिमानसि। तथा (वृषा) समस्ताभीष्टवर्षकोऽसि। तथोपासकानां हृदयानि (वृषा) स्नेहेन सिञ्चसि। (देव) हे दिव्यगुणसम्पन्न ! भवान् (वृषव्रतः) आनन्दवर्षणशीलं ददाति। (वृषा धर्माणि दधिषे) तथा वर्षणशीलधर्मधारकोऽस्ति ॥१॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सान्त॑पना इ॒दँ ह॒विर्मरु॑त॒स्तज्जु॑जुष्टन ।  
-यु॒ष्माको॒ती रि॑शादसः ॥    
+सा᳓न्तपना इदँ᳓ हवि᳓र्म᳓रुतस्त᳓ज्जुजुष्टन ।  
+युष्मा᳓कोती᳓ रिशादसः ॥    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -783,8 +792,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो नो॒ मर्तो॑ वसवो दुर्हृणा॒युस्ति॒रस्स॒त्यानि॑ मरुतः [31]  जिघाँ॑सात् ।  
-द्रु॒हᳶ पाश॒म्प्रति॒ स मु॑चीष्ट॒ तपि॑ष्ठेन॒ तप॑सा हन्तना॒ तम् ।  
+यो᳓ नो म᳓र्तो वसवो दुर्हृणायु᳓स्तिर᳓स्सत्या᳓नि म᳓रु᳓तः᳓ [31]  जि᳓घाँसात् ।  
+द्रुहᳶ᳓ पा᳓शम्प्र᳓ति स᳓ मुचीष्ट त᳓पिष्ठेन त᳓पसा हन्तना त᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -802,8 +811,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सव्ँ॒व॒त्स॒रीणा॑ म॒रुत॑स्स्व॒र्का उ॑रु॒क्षया॒स्सग॑णा॒ मानु॑षेषु ।  
-ते॑ऽस्मत्पाशा॒न्प्र मु॑ञ्च॒न्त्वँह॑सस्सान्तप॒ना म॑दि॒रा मा॑दयि॒ष्णवः॑ ।  
+सव्ँवत्सरी᳓णा मरु᳓तस्स्वर्का᳓ उरुक्ष᳓यास्स᳓गणा मा᳓नुषेषु ।  
+ते᳓ऽस्मत्पाशान्प्र᳓ मुञ्चन्त्वँ᳓हसस्सान्तपना᳓ मदिरा᳓ मादयिष्ण᳓वः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -827,8 +836,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पि॒प्री॒हि दे॒वाँ उ॑श॒तो य॑विष्ठ वि॒द्वाँ ऋ॒तूँर्ऋ॑तुपते यजे॒ह ।  
-ये दैव्या॑ ऋ॒त्विज॒स्तेभि॑रग्ने॒ त्वँ होतॄ॑णाम॒स्याय॑जिष्ठः ।  
+पिप्रीहि᳓ देवाँ᳓ उशतो᳓ यविष्ठ विद्वाँ᳓ ऋतूँ᳓रृतुपते यजेह᳓ ।  
+ये᳓ दै᳓व्या ऋत्वि᳓जस्ते᳓भिरग्ने त्वँ᳓ हो᳓तॄणामस्या᳓यजिष्ठः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -851,8 +860,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॒ यद॒द्य वि॒शो अ॑ध्वरस्य होत॒ᳶ पाव॑क [32]  शो॒चे॒ वेष्ट्वँ हि यज्वा॑ ।  
-ऋ॒ता य॑जासि महि॒ना वि यद्भूर्ह॒व्या व॑ह यविष्ठ॒ या ते॑ अ॒द्य ।  
+अ᳓ग्ने य᳓दद्य᳓ विशो᳓ अध्वरस्य होतᳶ पा᳓वक [32]  शोचे वे᳓ष्ट्वँ᳓ हि᳓ य᳓ज्वा ।  
+ऋता᳓ यजासि महिना᳓ वि᳓ य᳓द्भू᳓र्हव्या᳓ वह यविष्ठ या᳓ ते अद्य᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -875,8 +884,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निना॑ र॒यिम॑श्ञव॒त्पोष॑मे॒व दि॒वेदि॑वे ।  
-य॒शसव्ँ॑वी॒रव॑त्तमम् ॥    
+अग्नि᳓ना रयि᳓मश्ञवत्पो᳓षमेव᳓ दिवे᳓दिवे ।  
+यश᳓सव्ँवीर᳓वत्तमम् ॥    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -898,8 +907,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ग॒य॒स्फानो॑ अमीव॒हा व॑सु॒वित्पु॑ष्टि॒वर्ध॑नः ।  
-सु॒मि॒त्रस्सो॑म नो भव ।  
+गयस्फा᳓नो अमीवहा᳓ वसुवि᳓त्पुष्टिव᳓र्धनः ।  
+सुमित्र᳓स्सोम नो भव ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -919,8 +928,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गृह॑मेधास॒ आ ग॑त॒ मरु॑तो॒ माप॑ भूतन ।  
-प्र॒मु॒ञ्चन्तो॑ नो॒ अँह॑सः ।
+गृ᳓हमेधास आ᳓ गत म᳓रुतो मा᳓प भूतन ।  
+प्रमुञ्च᳓न्तो नो अँ᳓हसः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -942,8 +951,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒र्वीभि॒र्हि द॑दाशि॒म श॒रद्भि॑र्मरुतो व॒यम् ।  
-महो॑भिः [33]  च॒र्ष॒णी॒नाम् ।  
+पूर्वी᳓भिर्हि᳓ ददाशिम᳓ शर᳓द्भिर्मरुतो वय᳓म् ।  
+म᳓होभिः [33]  चर्षणीना᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -961,8 +970,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र बु॒ध्निया॑ ईरते वो॒ महाँ॑सि॒ प्र णामा॑नि प्रयज्यवस्तिरध्वम् ।  
-स॒ह॒स्रिय॒न्दम्य॑म्भा॒गमे॒तङ्गृ॑हमे॒धीय॑म्मरुतो जुषध्वम् ।  
+प्र᳓ बुध्नि᳓या ईरते वो म᳓हाँसि प्र᳓ णा᳓मानि प्रयज्यवस्तिरध्वम् ।  
+सहस्रि᳓यन्द᳓म्यम्भाग᳓मेत᳓ङ्गृहमेधी᳓यम्मरुतो जुषध्वम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -983,8 +992,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उप॒ यमेति॑ युव॒तिस्सु॒दक्ष॑न्दो॒षा वस्तो॑र्ह॒विष्म॑ती घृ॒ताची॑ ।  
-उप॒ स्वैन॑म॒रम॑तिर्वसू॒युः ।  
+उ᳓प य᳓मे᳓ति युवति᳓स्सुद᳓क्षन्दोषा᳓ व᳓स्तोर्हवि᳓ष्मती घृता᳓ची ।  
+उ᳓प स्वै᳓नमर᳓मतिर्वसूयुः᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1004,8 +1013,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒मो अ॑ग्ने वी॒तत॑मानि ह॒व्याज॑स्रो वक्षि दे॒वता॑ति॒मच्छ॑ ।  
-प्रति॑ न ईँ सुर॒भीणि॑ वियन्तु ।  
+इमो᳓ अग्ने वीत᳓तमानि हव्या᳓जस्रो वक्षि देव᳓तातिम᳓च्छ ।  
+प्र᳓ति न ईँ सुरभी᳓णि वियन्तु ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1024,8 +1033,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्री॒डव्ँव॒श्शर्धो॒ मारु॑तमन॒र्वाणँ॑ रथे॒शुभ॑म् ।  
-[34]  कण्वा॑ अ॒भि प्र गा॑यत ।  
+क्रीडव्ँ᳓वश्श᳓र्धो मा᳓रुतमनर्वा᳓णँ रथेशु᳓भम् ।  
+[34]  क᳓ण्वा अभि᳓ प्र᳓ गायत ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1047,8 +1056,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्या॑सो॒ न ये म॒रुत॒स्स्वञ्चो॑ यक्ष॒दृशो॒ न शु॒भय॑न्त॒ मर्याः॑ ।  
-ते ह॑र्म्ये॒ष्ठाश्शिश॑वो॒ न शु॒भ्रा व॒त्सासो॒ न प्र॑क्री॒डिनᳶ॑ पयो॒धाः ।  
+अ᳓त्यासो न᳓ ये᳓ मरु᳓तस्स्व᳓ञ्चो यक्षदृ᳓शो न᳓ शुभ᳓यन्त म᳓र्याः ।  
+ते᳓ हर्म्येष्ठा᳓श्शि᳓शवो न᳓ शुभ्रा᳓ वत्सा᳓सो न᳓ प्रक्रीडि᳓नᳶ पयोधाः᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1074,8 +1083,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रैषा॒मज्मे॑षु विथु॒रेव॑ रेजते॒ भूमि॒र्यामे॑षु॒ यद्ध॑ यु॒ञ्जते॑ शु॒भे ।  
-ते क्री॒डयो॒ धुन॑यो॒ भ्राज॑दृष्टयस्स्व॒यम्म॑हि॒त्वम्प॑नयन्त॒ धूत॑यः ।  
+प्रै᳓षाम᳓ज्मेषु विथुरे᳓व रेजते भू᳓मिर्या᳓मेषु य᳓द्ध युञ्ज᳓ते शुभे᳓ ।  
+ते᳓ क्रीड᳓यो धु᳓नयो भ्रा᳓जदृष्टयस्स्वय᳓म्महित्व᳓म्पनयन्त धू᳓तयः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1098,8 +1107,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒ह्व॒रेषु॒ यदचि॑ध्वय्ँय॒यिव्ँवय॑ इव मरुत॒ᳵ केन॑ [35]  चि॒त्प॒था ।  
-श्चोत॑न्ति॒ कोशा॒ उप॑ वो॒ रथे॒ष्वा घृ॒तमु॑क्षता॒ मधु॑वर्ण॒मर्च॑ते ।  
+उपह्वरे᳓षु य᳓द᳓चिध्वय्ँययिव्ँ᳓व᳓य इव मरुतᳵ के᳓न [35]  चित्पथा᳓ ।  
+श्चो᳓तन्ति को᳓शा उ᳓प वो र᳓थेष्वा᳓ घृत᳓मुक्षता म᳓धुवर्णम᳓र्चते ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1121,8 +1130,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निम॑ग्निँ॒ हवी॑मभि॒स्सदा॑ हवन्त वि॒श्पति॑म् ।  
-ह॒व्य॒वाह॑म्पुरुप्रि॒यम् ।  
+अग्नि᳓मग्निँ ह᳓वीमभिस्स᳓दा हवन्त विश्प᳓तिम् ।  
+हव्यवा᳓हम्पुरुप्रिय᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1142,8 +1151,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तँ हि शश्व॑न्त॒ ईड॑ते स्रु॒चा दे॒वङ्घृ॑त॒श्चुता॑ ।  
-अ॒ग्निँ ह॒व्याय॒ वोढ॑वे ।  
+तँ᳓ हि᳓ श᳓श्वन्त ई᳓डते स्रुचा᳓ देव᳓ङ्घृतश्चु᳓ता ।  
+अग्निँ᳓ हव्या᳓य वो᳓ढवे ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1163,7 +1172,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑ग्नी रोच॒ना दि॒वः ..
+इ᳓न्द्राग्नी रोचना᳓ दिवः᳓ ..
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1187,7 +1196,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्नथ॑द्वृ॒त्रम् ..  
+श्न᳓थद्वृत्र᳓म् ..  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1208,7 +1217,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रव्ँ॑वो वि॒श्वत॒स्परि ..  
+इ᳓न्द्रव्ँवो विश्व᳓तस्प᳓रि᳓ ..  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1233,7 +1242,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॒न्नरः॑ ..
+इ᳓न्द्रन्न᳓रः ..
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1257,7 +1266,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्व॑कर्मन्ह॒विषा॑ वावृधा॒नः ..
+वि᳓श्वकर्मन्हवि᳓षा वावृधानः᳓ ..
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1278,7 +1287,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्व॑कर्मन्ह॒विषा॒ वर्ध॑नेन ..  
+वि᳓श्वकर्मन्हवि᳓षा व᳓र्धनेन ..  
 </details>
 
 <details><summary>मूलम्</summary>

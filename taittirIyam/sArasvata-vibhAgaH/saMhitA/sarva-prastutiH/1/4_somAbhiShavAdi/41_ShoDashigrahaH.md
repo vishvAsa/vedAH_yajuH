@@ -9,20 +9,17 @@ _______
 1अतः परं षोडशिग्रहणमन्त्राः पूर्वैस्सह विकल्प्यन्ते । तत्र प्रथमा - सर्वस्येत्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/41_ShoDashigrahaH/02_sarvasya_pratishIvarI.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/41_ShoDashigrahaH/02_sarvasya_pratishIvarI.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-सर्व॑स्य प्रति॒शीव॑री॒+++(←शी शयने)+++  
-**भूमि॑स् +++(इन्द्र!)+++ त्वो॒पस्थ॒ आऽधि॑त**+++(←धा)+++ ।  
-+++(पृथिवि!)+++ स्यो॒नास्मै॑ **सु॒-षदा॑ भव॒**  
-**यच्छा॑स्मै॒ शर्म॑** स॒-प्रथाः॑+++(=विस्तारा)+++ ॥
+स᳓र्वस्य प्रतिशी᳓वरी+++(←शी शयने)+++  
+**भू᳓मिस् +++(इन्द्र!)+++ त्वोप᳓स्थ आ᳓ऽधित**+++(←धा)+++ ।  
++++(पृथिवि!)+++ स्योना᳓स्मै **सु-ष᳓दा भव**  
+**य᳓च्छास्मै श᳓र्म** स-प्र᳓थाः+++(=विस्तारा)+++ ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/41_ShoDashigrahaH/02_sarvasya_pratishIvarI.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/41_ShoDashigrahaH/02_sarvasya_pratishIvarI.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -53,13 +50,11 @@ Grant him protection, extending wide.
 उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिन॑ ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥
 </details>
 </details>
-
 </div>
 
 _______
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिन॑ ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥
@@ -73,7 +68,7 @@ _______
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -100,7 +95,7 @@ ________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य त्वा षो॒ड॒शिने॑   +++(ग्रहणमन्त्रः)+++  ।
+इ᳓न्द्राय त्वा षोडशि᳓ने   +++(ग्रहणमन्त्रः)+++  ।
 
 </details>
 
@@ -130,7 +125,7 @@ __________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++
+एष᳓ ते यो᳓निरि᳓न्द्राय त्वा षोडशि᳓ने ॥ [38]   +++(सादनमन्त्रः)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -142,7 +137,6 @@ This is thy birthplace; to Indra of the Sodaśin thee!
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++
 </details>
-
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>

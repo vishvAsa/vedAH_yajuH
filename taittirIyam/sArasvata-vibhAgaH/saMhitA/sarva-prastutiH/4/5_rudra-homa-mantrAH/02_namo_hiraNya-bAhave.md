@@ -1,6 +1,5 @@
 +++
 title = "०२ नमो॒ हिर॑ण्य-बाहवे"
-
 +++
 अग्निर्ऋषिः
 
@@ -28,18 +27,16 @@ title = "०२ नमो॒ हिर॑ण्य-बाहवे"
 रोहि॑ताय स्थ॒पत॑ये वृ॒क्षाणा॒म्पत॑ये॒ नमो॒ नमो॑ म॒न्त्रिणे॑ वाणि॒जाय॒ कक्षा॑णा॒म्पत॑ये॒ नमो॒ नमो॑ भुव॒न्तये॑ वारिवस्कृ॒तायौष॑धीना॒म्पत॑ये॒ नमो॒ नम॑ उ॒च्चैर्घो॑षायाक्र॒न्दय॑ते पत्ती॒नाम्पत॑ये॒ नमो॒ नम॑ᳵ कृत्स्नवी॒ताय॒ धाव॑ते॒ सत्व॑ना॒म्पत॑ये॒ नमः॑ ॥ [6]  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॒ हिर॑ण्य-बाहवे सेना॒न्ये॑  
-दि॒शाञ्च॒ पत॑ये॒ नमः॑ ।
+न᳓मो हि᳓रण्य-बाहवे सेनान्ये᳙  
+दिशा᳓ञ्च प᳓तये न᳓मः ।
 </details>
 
 <details><summary>Keith</summary>
 
 Homage to the golden-armed leader of hosts, and to the lord of the quarters homage!
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -56,15 +53,14 @@ Homage to the golden-armed leader of hosts, and to the lord of the quarters homa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ वृ॒क्षेभ्यो॒ हरि॑-केशेभ्यᳶ  
-पशू॒नाम् पत॑ये॒ नमः॑ ।
+न᳓मो वृक्षे᳓भ्यो ह᳓रि-केशेभ्यᳶ  
+पशूना᳓म् प᳓तये न᳓मः ।
 </details>
 
 <details><summary>Keith</summary>
 
 Homage to the trees with green tresses, to the lord of cattle homage!
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -81,15 +77,14 @@ Homage to the trees with green tresses, to the lord of cattle homage!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑स् स॒स्पिञ्+++(=बालतृण)+++-ज॑राय॒ त्विषी॑मते  
-पथी॒नाम् पत॑ये॒ नमः॑ ।
+न᳓मस् सस्पि᳓ञ्+++(=बालतृण)+++-जराय त्वि᳓षीमते  
+पथीना᳓म् प᳓तये न᳓मः ।
 </details>
 
 <details><summary>Keith</summary>
 
 Homage to the one who is yellowish-red like young grass, to the radiant, to the lord of paths homage!
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -112,8 +107,8 @@ Homage to the one who is yellowish-red like young grass, to the radiant, to the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ बभ्लु॒+++(=बभ्रु)+++-शाय॑ विव्या॒धिने  
-ऽन्ना॑ना॒म् पत॑ये॒  नमः॑ ।
+न᳓मो बभ्लु+++(=बभ्रु)+++-शा᳓य विव्याधि᳓ने᳓  
+ऽन्नानाम् प᳓तये  न᳓मः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -141,14 +136,13 @@ Homage to the brown one, to the piercer, to the lord of food homage!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॒ हरि॑केशायोपवी॒तिने॑ पु॒ष्टाना॒म् पत॑ये॒ नमः
+न᳓मो ह᳓रिकेशायोपवीति᳓ने पुष्टा᳓नाम् प᳓तये न᳓मः᳓
 </details>
 
 <details><summary>Keith</summary>
 
 Homage to the green-haired, wearer of the cord, to the lord of prosperity homage!
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -165,8 +159,8 @@ Homage to the green-haired, wearer of the cord, to the lord of prosperity homage
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ भ॒वस्य॑ हे॒त्यै  
-जग॑ता॒म् पत॑ये॒ नमः॑ ।
+न᳓मो भव᳓स्य हेत्यै᳓  
+ज᳓गताम् प᳓तये न᳓मः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -186,14 +180,13 @@ Homage to the dart of Bhava, to the lord of the moving world homage!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ रु॒द्राया॑तत+++(धनुर्)++++अ॒विने॒ क्षेत्रा॑णा॒म्पत॑ये॒ नमः
+न᳓मो रुद्रा᳓यातत+++(धनुर्)++++अवि᳓ने क्षे᳓त्राणाम्प᳓तये न᳓मः᳓
 </details>
 
 <details><summary>Keith</summary>
 
 Homage to Rudra, with bent bow, to the lord of fields homage!
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -207,18 +200,16 @@ Homage to Rudra, with bent bow, to the lord of fields homage!
 क्षेत्राणां पालको यो रुद्रस्तस्मै नमोऽस्तु।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑स् सू॒तायाह॑न्त्याय॒  
-वना॑ना॒म्पत॑ये॒ नमः॑ ।
+न᳓मस् सूता᳓या᳓हन्त्याय  
+व᳓नानाम्प᳓तये न᳓मः ।
 </details>
 
 <details><summary>Keith</summary>
 
 Homage to the minstrel, the inviolate, to the lord of the woods homage!
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -242,15 +233,14 @@ Homage to the minstrel, the inviolate, to the lord of the woods homage!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॒ रोहि॑ताय स्थ॒पत॑ये  
-वृ॒क्षाणा॒म्पत॑ये॒ नमः॑ ।
+न᳓मो रो᳓हिताय स्थप᳓तये  
+वृक्षा᳓णाम्प᳓तये न᳓मः ।
 </details>
 
 <details><summary>Keith</summary>
 
 Homage [1] to the ruddy one, the ruler, to the lord of woods homage!
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -268,8 +258,8 @@ Homage [1] to the ruddy one, the ruler, to the lord of woods homage!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ म॒न्त्रिणे॑ वाणि॒जाय॒  
-कक्षा॑णा॒म्+++(=गुल्मानाम्)+++ पत॑ये॒ नमः॑ ।
+न᳓मो मन्त्रि᳓णे वाणिजा᳓य  
+क᳓क्षाणाम्+++(=गुल्मानाम्)+++ प᳓तये न᳓मः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -293,15 +283,14 @@ Homage to the minister, the trader, to the lord of thickets homage!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ भुव॒न्-तये॑+++(←तन्)+++ वारिवस्कृ॒ताय+++(←वरिवस्=अवकाश)+++  
-+औष॑धीना॒म् पत॑ये॒ नमः॑ ।
+न᳓मो भुवन्-त᳓ये+++(←तन्)+++ वारिवस्कृता᳓य᳓+++(←वरिवस्=अवकाश)+++  
++औ᳓षधीनाम् प᳓तये न᳓मः ।
 </details>
 
 <details><summary>Keith</summary>
 
 Homage to the extender of the world, the offspring of the maker of room, to the lord of plants homage!
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -319,8 +308,8 @@ Homage to the extender of the world, the offspring of the maker of room, to the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑ उ॒च्चैर् घो॑षायाक्र॒न्दय॑ते  
-पत्ती॒नाम्+++(=पदातीनाम्)+++ पत॑ये॒ नमः॑ ।
+न᳓म उच्चै᳓र् घोषायाक्रन्द᳓यते  
+पत्तीना᳓म्+++(=पदातीनाम्)+++ प᳓तये न᳓मः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -328,7 +317,6 @@ Homage to the extender of the world, the offspring of the maker of room, to the 
 Homage to the loud calling, the screaming,  
 to the lord of footmen homage!
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -346,15 +334,14 @@ to the lord of footmen homage!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑ᳵ कृत्स्न-वी॒ताय॒ धाव॑ते॒  
-सत्व॑ना॒म्+++(←सत्वन्=योद्धा)+++ पत॑ये॒ नमः॑ ॥
+न᳓मᳵ कृत्स्न-वीता᳓य धा᳓वते  
+स᳓त्वनाम्+++(←सत्वन्=योद्धा)+++ प᳓तये न᳓मः ॥
 </details>
 
 <details><summary>Keith</summary>
 
 Homage to the wholly covered, to the running, to the lord of warriors homage!
 </details>
-
 
 <details><summary>मूलम्</summary>
 

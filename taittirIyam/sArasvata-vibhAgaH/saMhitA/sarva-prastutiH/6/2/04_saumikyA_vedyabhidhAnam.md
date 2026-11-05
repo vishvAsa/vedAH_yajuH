@@ -1,6 +1,5 @@
 +++
 title = "०४ सौमिक्या वेद्यभिधानम्"
-
 +++
 सोमऋषिः
 
@@ -11,7 +10,7 @@ title = "०४ सौमिक्या वेद्यभिधानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒व॒र्गव्ँ वा ए॒ते लो॒कय्ँ य॑न्ति॒ ,य उ॑प॒सद॑ उप॒यन्ति॑ ।  
+सुवर्गव्ँ᳓ वा᳓ एते᳓ लोकय्ँ᳓ यन्ति ,य᳓ उपस᳓द उपय᳓न्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -26,7 +25,7 @@ They go to the world of heaven who perform the Upasads.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषाय्ँ॒ य उ॒न्नय॑ते॒ , हीय॑त ए॒व सः ।
+ते᳓षाय्ँ य᳓ उन्न᳓यते , ही᳓यत एव᳓ सः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -58,7 +57,7 @@ Of them he who takes out (a little food) is left behind;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नोद॑ने॒षीति॒ सू॑न्नीयमिव ।
+नो᳓दनेषी᳓ति सू᳙न्नीयमिव ।
 </details>
 
 <details><summary>Keith</summary>
@@ -88,7 +87,7 @@ one must take out carefully, (thinking) 'I have not taken out anything.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै स्वा॒र्थेता॑य् यँ॒ताँ श्रा॒न्तो हीय॑त , उ॒त स नि॒ष्ट्याय॑ स॒ह व॑सति ।
+यो᳓ वै᳓ स्वार्थे᳓ताय् यँताँ᳓ श्रान्तो᳓ ही᳓यत , उत᳓ स᳓ निष्ट्या᳓य सह᳓ वसति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -118,7 +117,7 @@ He who is left behind wearied among those who go on their own mission sticks beh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑त् स॒कृद् उ॒न्नीय॒ नाप॑र॒म् उन्न॑येत ।  
+त᳓स्मात् सकृ᳓द् उन्नी᳓य ना᳓परम् उ᳓न्नयेत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -133,7 +132,7 @@ Therefore after once taking out, one should not take out a second time.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द॒ध्नोन्न॑येत ।
+दध्नो᳓न्नयेत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -148,7 +147,7 @@ One should take out of curd,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद्वै प॑शू॒नाँ रू॒पम् ।
+एत᳓द्वै᳓ पशूनाँ᳓ रूप᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -163,7 +162,7 @@ that is the symbol of cattle;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रू॒पेणै॒व प॒शूनव॑ रुन्धे ।[20]  
+रूपे᳓णैव᳓ पशू᳓न᳓व रुन्धे ।[20]  
 </details>
 
 <details><summary>Keith</summary>
@@ -196,10 +195,10 @@ verily by the symbol he wins cattle [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञो दे॒वेभ्यो॒ निला॑यत॒ विष्णू॑ रू॒पङ् कृ॒त्वा।
-स पृ॑थि॒वीम् प्रावि॑शत् ।  
-तन् दे॒वा हस्ता॑न्त् सँ॒रभ्यै॑च्छन् ।
-तम् इन्द्र॑ उ॒पर्य् उ॑प॒र्य् अत्य॑क्रामत् ।
+यज्ञो᳓ देवे᳓भ्यो नि᳓लायत वि᳓ष्णू रूप᳓ङ् कृत्वा᳓।
+स᳓ पृथिवी᳓म् प्रा᳓विशत् ।  
+त᳓न् देवा᳓ ह᳓स्तान्त् सँर᳓भ्यैच्छन् ।
+त᳓म् इ᳓न्द्र उप᳓र्य् उपर्य् अ᳓त्यक्रामत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -226,12 +225,10 @@ verily by the symbol he wins cattle [1].
 5अथ सौमिकीं विधास्यन्नाह - यज्ञो देवेभ्य इत्यादि ॥ निलायत निरगच्छत् । अयतेर्लङि 'उपसर्गस्यायतौ ' इति लत्वम् । विष्णुर्भूत्वा रूपं च वैष्णवं व्यापनशीलमव्यक्तलक्षणं कृत्वा देवेभ्यः अगच्छत् । 
 </details>
 
-
 <details><summary>पद-पाठः</summary>
 
 सः । पृ॒थि॒वीम् । प्रेति॑ । अ॒वि॒श॒त् ।   
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -242,7 +239,6 @@ verily by the symbol he wins cattle [1].
 
 ततस्स पृथिवीं प्राविशत् । तं यज्ञं देवाः इन्द्रादयः हस्तान् संरभ्य अन्योन्यस्य गृहीत्वा वेष्टित्वा तमैच्छन् । यद्वा - हस्तान् संरभ्य संसृष्टान् वितत्य तं ग्रहीतुमैच्छन् । 
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -262,8 +258,8 @@ verily by the symbol he wins cattle [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ऽब्रवी॒त् ,
-को मा॒यमु॒पर्यु॑प॒र्यत्य॑क्रमी॒दिति॑ ।
+सो᳓ऽब्रवीत् ,
+को᳓ माय᳓मुप᳓र्युपर्य᳓त्यक्रमीदि᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -276,7 +272,7 @@ verily by the symbol he wins cattle [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒हन् दु॒र्गे हन्तेत्यथ॒ कस्त्वमिति॑।  
+अह᳓न् दुर्गे᳓ ह᳓न्ते᳓त्य᳓थ क᳓स्त्व᳓मि᳓ति।  
 </details>
 
 <details><summary>Keith</summary>
@@ -289,8 +285,8 @@ verily by the symbol he wins cattle [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒हन् दु॒र्गादाह॒र्तेति॑ ।
-सो॑ऽब्रवीद् 
+अह᳓न् दुर्गा᳓दा᳓हर्ते᳓ति ।
+सो᳓ऽब्रवीद् 
 </details>
 
 <details><summary>Keith</summary>
@@ -303,8 +299,8 @@ verily by the symbol he wins cattle [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> दु॒र्गे वै हन्ता॑ ऽवोचथा,  
-> वरा॒हो॑ऽयव्ँ वा॑ममो॒षस् [21]  
+> दुर्गे᳓ वै᳓ ह᳓न्ता ऽवोचथा,  
+> वराहो᳙ऽयव्ँ᳓ वाममोष᳓स् [21]  
 </details>
 
 <details><summary>Keith</summary>
@@ -317,7 +313,7 @@ verily by the symbol he wins cattle [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॑प्ता॒नाङ् गि॑री॒णाम् प॒रस्ता॑द् वि॒त्तव्ँ वेद्य॒म् असु॑राणाम् बिभर्ति॒ ,  
+स᳓प्ताना᳓ङ् गिरीणा᳓म् पर᳓स्ताद् वित्तव्ँ᳓ वे᳓द्यम् अ᳓सुराणाम् बिभर्ति ,  
 </details>
 
 <details><summary>Keith</summary>
@@ -330,7 +326,7 @@ verily by the symbol he wins cattle [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तञ् ज॑हि॒ यदि॑ दु॒र्गे हन्तासीति॑ ।  
+त᳓ञ् जहि य᳓दि दुर्गे᳓ ह᳓न्ता᳓सी᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -343,7 +339,7 @@ verily by the symbol he wins cattle [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स द॑र्भपुञ्जी॒लम् उ॒द्वृह्य॑ स॒प्त गि॒रीन् भि॒त्त्वा तम॑हन् ।  
+स᳓ दर्भपुञ्जील᳓म् उद्वृ᳓ह्य सप्त᳓ गिरी᳓न् भित्त्वा᳓ त᳓महन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -356,7 +352,7 @@ verily by the symbol he wins cattle [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ ऽब्रवीद् दु॒र्गाद् वा आह॑र्ता ऽवोचथा ए॒तम् +++(हतं यज्ञवराहं)+++ आ ह॒रेति॑ ।  
+सो᳓ ऽब्रवीद् दुर्गा᳓द् वा᳓ आ᳓हर्ता ऽवोचथा एत᳓म् +++(हतं यज्ञवराहं)+++ आ᳓ हरे᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -369,7 +365,7 @@ verily by the symbol he wins cattle [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमे॑भ्यो य॒ज्ञ ए॒व य॒ज्ञमाह॑रत् ।  
+त᳓मेभ्यो यज्ञ᳓ एव᳓ यज्ञ᳓मा᳓हरत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -382,7 +378,7 @@ verily by the symbol he wins cattle [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् तद् वि॒त्तव्ँ वेद्य॒म् असु॑राणा॒म् अवि॑न्दन्त॒  
+य᳓त् त᳓द् वित्तव्ँ᳓ वे᳓द्यम् अ᳓सुराणाम् अ᳓विन्दन्त  
 </details>
 
 <details><summary>Keith</summary>
@@ -395,7 +391,7 @@ verily by the symbol he wins cattle [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् एकव्ँ॒ वेद्यै॑ वेदि॒त्वम् ।
+त᳓द् ए᳓कव्ँ वे᳓द्यै वेदित्व᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -417,7 +413,6 @@ verily by the symbol he wins cattle [1].
 6स यज्ञोब्रवीत् - को यज्ञं मामुपर्युपर्यत्यक्रमीदिति । अद्यतनत्वाल्लङ्न भवति । लुङि 'नेटि' इति वृद्ध्यभावः । 
 </details>
 
-
 <details><summary>पद-पाठः</summary>
 
 अ॒हम् । दु॒र्ग इति॑ दुः-गे । हन्ता॑ । इति॑ । अथ॑ । कः । त्वम् । इति॑ ।   
@@ -427,7 +422,6 @@ verily by the symbol he wins cattle [1].
 
 अथोचे - अहं दुर्गे हन्ता यत्रान्येन केन चिद्गन्तुं न शक्यते तत्रागन्तुं तत्र न्यञ्चं गन्तुं शक्तोहं कश्चिदिति । 'सुदुरोरधिकरणे' इति डः । हन्तेस्साधुकारिणि तृन् । एवमुक्त्वा इन्द्र एव पुनरूचे - अथ कस्त्वमिति । 
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -439,24 +433,20 @@ verily by the symbol he wins cattle [1].
 अथ यज्ञ ऊचे - अहं तादृशाद्दुर्गादाहर्तेति दुर्गादिष्टमाहर्तुं समर्थोहं कश्चिदिति । पूर्ववत् तृनि 'तादौ च' इति गतेः प्रकृतिस्वरत्वमुभयत्र । 
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवमुक्त्वा स एवाब्रवीद्यज्ञः - दुर्गे हन्तेत्यवोचथास्त्वमिदानीम् । प्रूर्ववदद्यतनत्वात् लुङेव । सत्यमुच्यते वराहः सुत्यायज्ञाख्यो वरणीयदिवसात्मा वाममोषः वननीयानां धनानां मोषकः वननीयो वा मोषकः सप्तानां गिरीणामहरात्मनां दुर्गाणां परस्तात्परतः असुराणां वित्तं वसु वेद्यं वेदितव्यं वेत्तुं वा शक्यं यावत्किंचित्तत्सर्वं बिभर्ति रक्षति तं जहीति दुर्गे हन्ताऽसि अहं दुर्गे हन्तेति यत्त्वयोक्तं यदि तत्सत्यमिति । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स इन्द्रः दर्भपुञ्जीलमुद्वृह्य आदाय तेन सप्त गिरीन् भित्त्वा तमहन् तं हतवान् । 
 </details>
 
-
 <details><summary>पद-पाठः</summary>
 
 सः । द॒र्भ॒पु॒ञ्जी॒लमिति॑ दर्भ-पु॒ञ्जी॒लम् । उ॒द्वृह्येत्यु॑त्-वृह्य॑ । स॒प्त । गि॒रीन् । भि॒त्त्वा । तम् । अह॑न् ।  
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -469,18 +459,15 @@ verily by the symbol he wins cattle [1].
 हत्वा च सोब्रवीदिन्द्रः - त्वमपि दुर्गादाहर्तेत्यवोचथाः तद्यदि सत्यं यदि तथा तत्कर्तुं शक्यते तमाहर यमहं हतवानिति । 
 </details>
 
-
 <details><summary>पद-पाठः</summary>
 
 तम् । ए॒भ्यः॒ । य॒ज्ञः । ए॒व । य॒ज्ञम् । एति॑ । अ॒ह॒र॒त् ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथ तं यज्ञं वराहाख्यं यज्ञ एव विष्णुरूपः एभ्यो देवेभ्य आहरत् ।
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -503,7 +490,7 @@ verily by the symbol he wins cattle [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असु॑राणाव्ँ॒ वा इ॒यमग्र॑ आसीत् । [22]   
+अ᳓सुराणाव्ँ वा᳓ इय᳓म᳓ग्र आसीत् । [22]   
 </details>
 
 <details><summary>Keith</summary>
@@ -518,7 +505,7 @@ The Asuras [3] indeed at first owned the earth,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याव॒दासी॑नᳶ परा॒पश्य॑ति॒ ताव॑द् दे॒वाना॑म् ।  
+या᳓वदा᳓सीनᳶ पराप᳓श्यति ता᳓वद् देवा᳓नाम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -533,7 +520,7 @@ the gods had so much as one seated can espy.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वा अ॑ब्रुव॒न्न् -  
+ते᳓ देवा᳓ अब्रुवन्न् -  
 </details>
 
 <details><summary>Keith</summary>
@@ -548,7 +535,7 @@ The gods said,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्त्वे॒व नो॒ ऽस्यामपीति॑ ।
+अ᳓स्त्वेव᳓ नो ऽस्या᳓म᳓पी᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -563,7 +550,7 @@ The gods said,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किय॑द्वो दास्याम॒ इति॑ ।  
+कि᳓यद्वो दास्याम इ᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -578,7 +565,7 @@ The gods said,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याव॑दि॒यँ स॑लावृ॒की त्रिᳶ प॑रि॒क्राम॑ति॒ ताव॑न्नो द॒त्तेति॑ ।  
+या᳓वदियँ᳓ सलावृकी᳓ त्रिᳶ᳓ परिक्रा᳓मति ता᳓वन्नो दत्ते᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -593,7 +580,7 @@ The gods said,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स इन्द्र॑स् सलावृ॒की रू॒पङ् कृ॒त्वेमान् त्रिस् स॒र्वत॒ᳶ पर्य॑क्रामत् ।  
+स᳓ इ᳓न्द्रस् सलावृकी᳓ रूप᳓ङ् कृत्वे᳓मा᳓न् त्रि᳓स् सर्व᳓तᳶ प᳓र्यक्रामत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -608,7 +595,7 @@ Indra taking the form of a Salavrki thrice ran round on all sides the earth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदि॒माम् अ॑विन्दन्त ।
+त᳓दिमा᳓म् अविन्दन्त ।
 </details>
 
 <details><summary>Keith</summary>
@@ -623,7 +610,7 @@ So they won the earth,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि॒मामवि॑न्दन्त॒ तद् वेद्यै॑ वेदि॒त्वम् ।[23]  
+य᳓दिमा᳓म᳓विन्दन्त त᳓द् वे᳓द्यै वेदित्व᳓म् ।[23]  
 </details>
 
 <details><summary>Keith</summary>
@@ -638,7 +625,7 @@ and in that they won it therefore is the Vedi so called [4].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा वा इ॒यँ सर्वै॒व वेदिः॑ ।
+सा᳓ वा᳓ इयँ᳓ स᳓र्वैव᳓ वे᳓दिः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -653,7 +640,7 @@ All this earth is the Vedi,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इय॑ति शक्ष्या॒मीति॒ त्वा अ॑व॒माय॑ यजन्ते ।
+इ᳓यति शक्ष्यामी᳓ति त्वा᳓ अवमा᳓य यजन्ते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -678,7 +665,6 @@ but they measure off and sacrifice on so much as they deem they can use.
 </details>
 
 <details><summary>पद-पाठः</summary>
-
 
 ते । दे॒वाः । अ॒ब्रु॒व॒न् ।  
 अस्तु॑ । ए॒व । नः॒ । अ॒स्याम् । अपीति॑ । इति॑ ।  
@@ -713,7 +699,7 @@ but they measure off and sacrifice on so much as they deem they can use.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रिँ॒शत्प॒दानि॑ प॒श्चात् ति॒रश्ची॑ भवति॒ ,
+त्रिँश᳓त्पदा᳓नि पश्चा᳓त् तिर᳓श्ची भवति ,
 </details>
 
 <details><summary>Keith</summary>
@@ -728,7 +714,7 @@ The back cross-line is thirty feet,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-षट्त्रिँ॑श॒त्प्राची॒ चतु॑र्विँशतिᳶ पु॒रस्ता॑त् ।  
+ष᳓ट्त्रिँशत्प्रा᳓ची च᳓तुर्विँशतिᳶ पुर᳓स्तात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -743,7 +729,7 @@ the eastern line is thirty-six feet, the front cross-line is twenty-four feet.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ति॒रश्ची॒ दश॑दश॒ सम्प॑द्यन्ते ।  
+तिर᳓श्ची द᳓शदश स᳓म्पद्यन्ते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -758,7 +744,7 @@ These make up tens;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दशा॑क्षरा वि॒राट् । अन्नव्ँ॑ वि॒राट् ।
+द᳓शाक्षरा विरा᳓ट् । अ᳓न्नव्ँ विरा᳓ट् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -773,7 +759,7 @@ the Viraj has ten syllables; the Viraj is food;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒राजै॒वान्नाद्य॒मव॑ रुन्धे ।
+विरा᳓जैवा᳓न्ना᳓द्यम᳓व रुन्धे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -807,7 +793,7 @@ verily by the Viraj he wins food.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद्ध॑न्ति॒ , यदे॒वास्या॑ अमे॒ध्यन्तदप॑ ह॒न्ति ।  
+उ᳓द्धन्ति , य᳓देवा᳓स्या अमेध्य᳓न्त᳓द᳓प हन्ति᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -822,7 +808,7 @@ He digs up (the earth); verily he digs away whatever in it is impure.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद्ध॑न्ति॒ , तस्मा॒दोष॑धय॒ᳶ परा॑ भवन्ति ।  
+उ᳓द्धन्ति , त᳓स्मादो᳓षधयᳶ प᳓रा भवन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -837,7 +823,7 @@ He digs up; therefore the plants perish.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिस्स्तृ॑णाति॒ , तस्मा॒दोष॑धय॒ᳶ पुन॒रा भ॑वन्ति ।
+बर्हि᳓स्स्तृणाति , त᳓स्मादो᳓षधयᳶ पु᳓नरा᳓ भवन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -870,7 +856,7 @@ He spreads the sacrificial strew; therefore the plants again revive.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत्त॑रम् ब॒र्हिष॑ उत्तरब॒र्हिस्स्तृ॑णाति ।  
+उ᳓त्तरम् बर्हि᳓ष उत्तरबर्हि᳓स्स्तृणाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -885,7 +871,7 @@ He spreads over the strew the upper strew.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जा वै ब॒र्हिर् यज॑मान उत्तरब॒र्हिः ।  
+प्रजा᳓ वै᳓ बर्हि᳓र् य᳓जमान उत्तरबर्हिः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -900,7 +886,7 @@ The strew is the people; the upper strew is the sacrificer;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानम् ए॒वाय॑जमाना॒द् उत्त॑रङ् करोति ।   
+य᳓जमानम् एवा᳓यजमानाद् उ᳓त्तरङ् करोति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -915,7 +901,7 @@ verily he makes the sacrificer higher than the man who does not sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् यज॑मा॒नो ऽय॑जमाना॒दुत्त॑रः ॥ [24]  
+त᳓स्माद् य᳓जमानो᳓ ऽयजमानादु᳓त्तरः ॥ [24]  
 </details>
 
 <details><summary>Keith</summary>
@@ -935,7 +921,6 @@ therefore the sacrificer is higher than the man who does not sacrifice.
 यज॑मानम् । ए॒व । अय॑जमानात् । उत्त॑र॒मित्युत्-त॒र॒म् । क॒रो॒ति॒ ।   
 तस्मा॑त् । यज॑मानः । अय॑जमानात् । उत्त॑र॒ इत्युत्-त॒रः॒ ॥ [24]  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

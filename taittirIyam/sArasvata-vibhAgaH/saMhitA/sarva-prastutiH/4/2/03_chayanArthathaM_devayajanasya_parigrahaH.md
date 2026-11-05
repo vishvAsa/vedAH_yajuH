@@ -19,18 +19,15 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/02_annapate-nnasya_no.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/02_annapate-nnasya_no.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-अन्न॑प॒तेऽन्न॑स्य नो देह्यनमी॒वस्य॑ शु॒ष्मिणः॑ ।  
-प्रप्र॑ दा॒तार॑न्तारिष॒ ऊर्ज॑न्नो धेहि द्वि॒पदे॒ चतु॑ष्पदे ।
+अ᳓न्नपते᳓ऽन्नस्य नो देह्यनमीव᳓स्य शुष्मि᳓णः ।  
+प्र᳓प्र दाता᳓रन्तारिष ऊ᳓र्जन्नो धेहि द्विप᳓दे च᳓तुष्पदे ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/02_annapate-nnasya_no.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/02_annapate-nnasya_no.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -49,7 +46,6 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 उत्तरार्धे तारिषो घेहीति पदयोस्तात्पर्यं दर्शयति— “प्र प्रदातारं तारिष ऊर्जं नो धेहि द्विपदे चतुष्पद इत्याहाऽऽशिषमेवैतामाशास्ते” (सं. का. ५ प्र. २ अ. २) इति।
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -59,18 +55,15 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/06_udu_tvA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/06_udu_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-उदु॑ त्वा॒ विश्वे॑ दे॒वा अग्ने॒ भर॑न्तु॒ चित्ति॑भिः ।  
-स नो॑ भव शि॒वत॑मस्सु॒प्रती॑को वि॒भाव॑सुः ।
+उ᳓दु त्वा वि᳓श्वे देवा᳓ अ᳓ग्ने भ᳓रन्तु चि᳓त्तिभिः ।  
+स᳓ नो भव शिव᳓तमस्सुप्र᳓तीको विभा᳓वसुः ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/06_udu_tvA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/06_udu_tvA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -93,7 +86,6 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
  १८७७ सीद त्वमित्यादयश्चतस्र ऋचस्तद्ब्राह्मणं चेत्येतत्सर्वं प्रथमानुवाके व्याख्या तम्।
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -103,18 +95,15 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/10_predagne_jyotiShmAn.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/10_predagne_jyotiShmAn.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-प्रेद॑ग्ने॒ ज्योति॑ष्मान् याहि शि॒वेभि॑र॒र्चिभि॒स्त्वम् ।  
-बृ॒हद्भि॑र्भा॒नुभि॒र्भास॒न्मा हिँ॑सीस्त॒नुवा॑ प्र॒जाः ।
+प्रे᳓दग्ने ज्यो᳓तिष्मान् याहि शिवे᳓भिरर्चि᳓भिस्त्व᳓म् ।  
+बृह᳓द्भिर्भानु᳓भिर्भा᳓सन्मा᳓ हिँसीस्तनु᳓वा प्रजाः᳓ ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/10_predagne_jyotiShmAn.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/10_predagne_jyotiShmAn.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -137,7 +126,6 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
  १८७८ एतद्वेदनं प्रशंसति— “अपचितिमान्भवति य एवं वेद” [सं. का. ५ प्र. २ अ. २] इति।
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -145,18 +133,15 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 कल्पः “समिधाऽग्निं दुवस्यतेति घृतानुषिक्तामवसिते समिधमादधाति” इति।   पाठस्तु— समिधाऽग्निमिति।   
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/14_samidhAgninduvasyata_ghRtairbodhayatAtithim.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/14_samidhAgninduvasyata_ghRtairbodhayatAtithim.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-स॒मिधा॒ग्निन्दु॑वस्यत घृ॒तैर्बो॑धय॒ताति॑थिम् ।  
-आ [10]  अ॒स्मि॒न्ह॒व्या जु॑होतन ।
+समि᳓धाग्नि᳓न्दुवस्यत घृतै᳓र्बोधयता᳓तिथिम् ।  
+आ᳓ [10]  अस्मिन्हव्या᳓ जुहोतन ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/14_samidhAgninduvasyata_ghRtairbodhayatAtithim.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/14_samidhAgninduvasyata_ghRtairbodhayatAtithim.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -169,7 +154,6 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 हे ऋत्विग्यजमाना एतमग्निं समिधा दुवस्यत परिचरत।   घृतानुषिक्तयाऽनया परिचरतेत्यर्थः।   घृतैरेतस्येष्टेरतिथिमिवैनं बोधयतोद्दीषयत।   ततश्चास्मिन्नग्नौ हव्यानि हवींष्याजुहोतन साकल्येन जुहूत।  
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -177,18 +161,15 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 कल्पः—“उत्तरया त्रिष्टुभा राजन्यस्य” इति।   समिधमादधातीत्यनुवर्तते।   पाठस्तु— प्रप्रायमग्निरिति।   
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/18_praprAyamagnirbharatasya_shRNve.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/18_praprAyamagnirbharatasya_shRNve.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-प्रप्रा॒यम॒ग्निर्भ॑र॒तस्य॑ शृण्वे॒ वि यत्सूर्यो॒ न रोच॑ते बृ॒हद्भाः ।  
-अ॒भि यᳶ पू॒रुम्पृत॑नासु त॒स्थौ दी॒दाय॒ दैव्यो॒ अति॑थिश्शि॒वो नः॑ ।
+प्र᳓प्राय᳓मग्नि᳓र्भरत᳓स्य शृण्वे वि᳓ य᳓त्सू᳓र्यो न᳓ रो᳓चते बृह᳓द्भाः᳓ ।  
+अभि᳓ यᳶ᳓ पूरु᳓म्पृ᳓तनासु तस्थौ᳓ दीदा᳓य दै᳓व्यो अ᳓तिथिश्शिवो᳓ नः ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/18_praprAyamagnirbharatasya_shRNve.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/18_praprAyamagnirbharatasya_shRNve.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -203,7 +184,6 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
  १८७९ समिधाऽग्निमिति गायत्री, प्रप्रायमिति त्रिष्टुप्।
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -211,18 +191,15 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 कल्पः —  “आपो देवीः प्रतिगृह्णीत भस्मैदिति तिसृभिरप्सु भस्म प्रवेश यति” इति।   तत्र प्रथमामाह— आपो देवीरिति।   
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/22_Apo_devIpH.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/22_Apo_devIpH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-आपो॑ देवी॒ᳶ प्रति॑ गृह्णीत॒ भस्मै॒तत्स्यो॒ने कृ॑णुध्वँ सुर॒भावु॑ लो॒के ।  
-तस्मै॑ नमन्ता॒ञ्जन॑यस्सु॒पत्नी॑र्मा॒तेव॑ पु॒त्रम्बि॑भृ॒ता स्वे॑नम् ।
+आ᳓पो देवीᳶ प्र᳓ति गृह्णीत भ᳓स्मैत᳓त्स्योने᳓ कृणुध्वँ सुरभा᳓वु लोके᳓ ।  
+त᳓स्मै नमन्ताञ्ज᳓नयस्सुप᳓त्नीर्माते᳓व पुत्र᳓म्बिभृता᳓ स्वेनम् ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/22_Apo_devIpH.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/22_Apo_devIpH.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -235,7 +212,6 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 हे आपो देवीर्देव्यो भस्मोख्याग्नेरुपरि संचितं भस्म प्रतिगृह्णीत।   एतदेवाभिप्रेत्य सूत्रकारेणोक्तम्—‘ यद्युखां भस्माभिनिषीददुख्यप्रादायो-दकान्तं गत्वा” इति।   एतत्प्रतिगृहीतं भस्म स्योने सुखकरे सुरभावु सुगन्धयुक्त एव लोके स्थाने कृणुध्वं स्थापयत।   शोभन पतिर्वरुणो यासां ताः सुपत्न्यः।   आपो वरुणस्य पत्नय आसन्नित्यन्यत्र श्रूयते।   जनयोऽग्नेर्जनन्य आपः।   वाडववैद्युतरूपमग्निं प्रत्यपां जनयितृत्वम्।   ईदृश्य आपस्तस्मा अग्नये नमन्तां प्रह्वी भवन्तु, तमाग्निं पालयितुं वश्याः सावधाना भवन्त्वि-त्यर्थः ।   हे आपे माता पुत्रं पोषयति यद्वत्तद्वदेनमग्निं सुष्ठु बिभृत पोषयत दीपयत।
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -243,18 +219,15 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 अथ द्वितीयामाह— अप्स्वग्न इति ।   
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/26_aphsvagne_sadhiShTava.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/26_aphsvagne_sadhiShTava.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-अ॒प्स्व॑ग्ने॒ सधि॒ष्टव॑ [11]  सौष॑धी॒रनु॑ रुध्यसे ।  
-गर्भे॒ सञ्जा॑यसे॒ पुनः॑ ।
+अप्स्व᳙ग्ने स᳓धिष्ट᳓व [11]  सौ᳓षधीर᳓नु रुध्यसे ।  
+ग᳓र्भे स᳓ञ्जायसे पु᳓नः ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/26_aphsvagne_sadhiShTava.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/26_aphsvagne_sadhiShTava.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -267,7 +240,6 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 हेग्ने तव सघिः सहो बलं भस्मरूपमप्सु वर्तते।   स त्वमोषधीरनु-रुध्यसे व्रीहियवाद्योषधीरनुसरसि।   जाठराग्निरूपेण तत्स्वीकारात।   अरण्योर्गर्भे स्थितः सन्पुनः पुनः सम्यग्जायसे।
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -275,18 +247,15 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 अथ तृतीयामाह— गर्भो अस्योषधीनामिति।   
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/30_garbho_asyoShadhInAngarbho.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/30_garbho_asyoShadhInAngarbho.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-गर्भो॑ अ॒स्योष॑धीना॒ङ्गर्भो॒ वन॒स्पती॑नाम् ।  
-गर्भो॒ विश्व॑स्य भू॒तस्याग्ने॒ गर्भो॑ अ॒पाम॑सि ।
+ग᳓र्भो अस्यो᳓षधीनाङ्ग᳓र्भो व᳓नस्प᳓तीनाम् ।  
+ग᳓र्भो वि᳓श्वस्य भूत᳓स्या᳓ग्ने ग᳓र्भो अपा᳓मसि ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/30_garbho_asyoShadhInAngarbho.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/30_garbho_asyoShadhInAngarbho.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -301,7 +270,6 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
  १८८० आहवनीयादिरूपेणाग्नेस्त्रिवृत्त्वम्।
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -309,18 +277,15 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 कल्पः—“भस्मनोपादाय प्रपीड्य प्रसद्य भस्मनेति द्वाभ्यामुखायां प्रत्यवधाय” इति।   तत्र प्रथमामाह— प्रसद्य भस्मनेति।   
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/34_prasadya_bhasmanA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/34_prasadya_bhasmanA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-प्र॒सद्य॒ भस्म॑ना॒ योनि॑म॒पश्च॑ पृथि॒वीम॑ग्ने ।  
-सँ॒सृज्य॑ मा॒तृभि॒स्त्वञ्ज्योति॑ष्मा॒न्पुन॒रास॑दः ।
+प्रस᳓द्य भ᳓स्मना यो᳓निमप᳓श्च पृथिवी᳓मग्ने ।  
+सँसृ᳓ज्य मातृ᳓भिस्त्व᳓ञ्ज्यो᳓तिष्मान्पु᳓नरा᳓सदः ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/34_prasadya_bhasmanA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/34_prasadya_bhasmanA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -333,7 +298,6 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 हेऽग्ने भस्मना सह योनिं कारणभूतां पृथिवीं प्रसद्य, किं पृथिवीमेव, नेत्याह—अपश्च योनिभूताः प्रतिपद्य, किंच मातृभिराद्भिः पृथिव्या च संसृज्यैकीभूय त्वं ज्योतिष्मान्भृशं ज्योतिः संपन्नः पुनः पश्चादासदः स्वीयमेव स्थान-मुखामासीद।
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -341,18 +305,15 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 अथ द्वितीयामाह— पुनरासद्येति।   
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/38_punarAsadya_sadanamapashcha.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/38_punarAsadya_sadanamapashcha.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-पुन॑रा॒सद्य॒ सद॑नम॒पश्च॑ पृथि॒वीम॑ग्ने ।  
-शेषे॑ मा॒तुर्यथो॒पस्थे॒ऽन्तर॒स्याँ शि॒वत॑मः ।
+पु᳓नरास᳓द्य स᳓दनमप᳓श्च पृथिवी᳓मग्ने ।  
+शे᳓षे मातु᳓र्य᳓थोप᳓स्थेऽन्त᳓रस्याँ᳓ शिव᳓तमः ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/38_punarAsadya_sadanamapashcha.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/38_punarAsadya_sadanamapashcha.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -366,7 +327,6 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 यो यजमान उखाग्निसंबद्धं भस्माप्सु प्रवेशयति स एषोऽग्निं परावपति नाशयति।   अतो विनाशपरिहाराय जलगतं भस्म निष्पीड्य ज्योतिष्मच्छब्दोपेताभ्यामृग्भ्यामुखायाम-वदध्यात्।   त्वं ज्योतिष्मान्पुनरासद इत्येवं ज्योतिष्मच्छब्दो पेतत्वम।   मन्त्रिद्वित्वं प्रशंसति- “द्वाभ्यां प्रतिष्ठित्यै” (सं. का. ५ प्र. २ अ. २) इति।
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -374,18 +334,15 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 कल्पः—“पुनरूर्जासह रय्येति पुनरुदैति” इति।   निष्पीडितभस्मोपेताया मुखायामग्निं स्थापयेदित्यर्थः।   तत्र प्रथमामाह— पुनरूर्जा नीति।   
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/42_punarUrjA_ni.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/42_punarUrjA_ni.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-पुन॑रू॒र्जा [12]  नि व॑र्तस्व॒ पुन॑रग्न इ॒षायु॑षा ।  
-पुन॑र्नᳶ पाहि वि॒श्वतः॑ ।
+पु᳓नरूर्जा᳓ [12]  नि᳓ वर्तस्व पु᳓नरग्न इषा᳓युषा ।  
+पु᳓नर्नᳶ पाहि विश्व᳓तः ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/42_punarUrjA_ni.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/42_punarUrjA_ni.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -398,17 +355,14 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 हेऽग्ने त्वमूर्जा क्षीरादिरसेन सह पुनर्निवर्तस्वाऽऽगच्छ।   इषाऽन्नेनाऽऽयुषा सह पुनरागच्छ।   नोऽस्मान्पुनर्विश्वतः सर्वस्मादपराधात्पाहि।
 </details>
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/45_saha_rayyA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/45_saha_rayyA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-स॒ह र॒य्या नि व॑र्त॒स्वाग्ने॒ पिन्व॑स्व॒ धार॑या ।  
-वि॒श्वप्स्नि॑या वि॒श्वत॒स्परि॑ ।
+सह᳓ रय्या᳓ नि᳓ वर्तस्वा᳓ग्ने पि᳓न्वस्व धा᳓रया ।  
+विश्व᳓प्स्निया विश्व᳓तस्प᳓रि ।
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -416,8 +370,7 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 अथ द्वितीयामाह— सह रय्या नीति।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/45_saha_rayyA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/45_saha_rayyA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -432,7 +385,6 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 भस्मनोऽप्सु प्रवेशनेन विनाशितायाः प्रजायाः पशूनां च स्वात्मनि स्थापनाय पुनरुदैति पूर्वमुखाया अपनीतमाग्निं पुनरपि निष्पीडितभस्मसहितायामुखायां मन्त्रद्वयेन स्थापयेत्।   तत्र मन्त्रद्वयबलात्प्रजायाः पशूनां च स्वात्मनि स्थापनं भवति।
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -440,22 +392,19 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 कल्पः—“पुनस्त्वाऽऽदित्या रुद्रा वसवः समिन्धतामिति पुनरुख्यमुपसनिन्धे” इति।   पाठस्तु— पुनस्त्वाऽऽदित्या इति।   
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/49_punas_tvA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/49_punas_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-पुन॑स् त्वा ऽऽदि॒त्या रु॒द्रा वस॑वः॒ **समि॑न्धतां॒**,  
-पुन॑र् ब्र॒ह्माणो॑ वसुनीथ! य॒ज्ञैः ।  
-घृ॒तेन॒ त्वं त॒नुवो॑ **वर्धयस्व**,  
-स॒त्याः **स॑न्तु॒** यज॑मानस्य॒ कामाः॑ ॥
+पु᳓नस् त्वा ऽऽदित्या᳓ रुद्रा᳓ व᳓सवः **स᳓मिन्धतां**,  
+पु᳓नर् ब्रह्मा᳓णो वसुनीथ! यज्ञैः᳓ ।  
+घृते᳓न त्वं᳓ तनु᳓वो **वर्धयस्व**,  
+सत्याः᳓ **सन्तु** य᳓जमानस्य का᳓माः ॥
 
 +++(अग्नये वसुनीथायेदं न मम॥)+++
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/49_punas_tvA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/49_punas_tvA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -469,7 +418,6 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 हे वसुनीथ वसूनां धनानां नीथ प्रापयितर्ब्रह्माणो ब्राह्मणा ऋत्विजो यज्ञैर्निमित्तभूतैस्त्वां पुनः समिन्धताम्।   त्वं घृतेन तुष्टः संस्तनुवोऽस्मदीयशरीराणि वर्धयस्व।   तत्त्वतस्त्वयि तुष्टे सति यजमानस्य कामाः सत्याः सन्तु।   अस्मिन्मन्त्रे रुद्राद्युक्तेस्तात्पर्यं दर्शयति— “पुनस्त्वाऽऽदित्या रुद्रा वसषः समिन्वतामित्याहैता वा एतं देवता अग्रे समैन्धत ताभिरेवैनँ समिन्धे” [सं. का. ५ प्र. २ अ. २] इति।
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -478,18 +426,15 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 तत्र प्रथमामाह— बोधा नो अस्येति।   
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/53_bodhA_no.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/53_bodhA_no.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-बोधा॑ नो अ॒स्य वच॑सो यविष्ठ॒ मँहि॑ष्ठस्य॒ प्रभृ॑तस्य स्वधावः ।  
-पीय॑ति त्वो॒ अनु॑ त्वो गृणाति व॒न्दारु॑स्ते त॒नुवव्ँ॑वन्दे अग्ने ।
+बो᳓धा नो अस्य᳓ व᳓चसो यविष्ठ मँ᳓हिष्ठस्य प्र᳓भृतस्य स्वधावः ।  
+पी᳓यति त्वो अ᳓नु त्वो गृणाति वन्दा᳓रुस्ते तनु᳓वव्ँवन्दे अग्ने ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/53_bodhA_no.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/53_bodhA_no.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -502,7 +447,6 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 हे स्वधावः स्वधोपलक्षितान्नवन्यविष्ठ युवतम नोऽस्मदीय-स्यास्य वचसः स्तुतिरूपस्य बोध तात्पर्यं बुध्यस्व।   कीदृशस्य वचसः, मंहिष्ठस्यातिशये-नाभिवृद्धिहेतोः प्रभूतस्य प्रकृष्टेनाऽऽदरेण संपादितस्य ।   पीयति त्वः ।   ओप्यायी बद्धावित्यस्माद्धातोरुत्पन्नः पीयतिशब्दः त्वशब्द एकशब्दार्थे वर्तते।   भवदीयस्तुतिकारि-णोर्द्वयोर्यजमानयोर्मध्ये त्व एकः स्तोता यजमानः पीयति वृद्धिमधिकं वक्ति उचितोक्ति-मुल्लङ्घ्य निन्दारूपेणातिप्रशंसारूपेण वा य   १८८२ त्किंचिद्वक्ति।   त्वोऽऽनुगृणाति, एकः स्तोताऽनुकूलमुचितमेव वक्ति ।   अतोऽस्मदभिप्रायं बुध्यस्वेति प्रार्थ्यते ।   वन्दारुरभिवन्दनपरोऽहं हेऽग्ने त्वदीयां तनुवं वन्दे।
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -510,18 +454,15 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 अथ द्वितीयामाह— स बोधि सूरिरिति।   
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/57_sa_bodhi.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/57_sa_bodhi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-स बो॑धि सू॒रिर्म॒घवा॑ वसु॒दावा॒ वसु॑पतिः ।  
-यु॒यो॒ध्य॑स्मद्द्वेषाँ॑सि ॥ [13]
+स᳓ बोधि सूरि᳓र्मघ᳓वा वसुदा᳓वा व᳓सुपतिः ।  
+युयोध्य᳙स्म᳓द्द्वे᳓षाँसि ॥ [13]
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/57_sa_bodhi.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/57_sa_bodhi.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -537,7 +478,6 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 आऽऽहवनीयस्य दक्षिणभागो यजमानस्योपस्थानदेशः।   अतोऽत्रापि दक्षिण देश एव स्थित्वोपतिष्ठेत।   यस्मादेवं तस्माल्लोकेऽपि पशवः प्रातःकाले शालाया निर्गत्यारण्ये गत्वा सायं पुनरागत्य स्वं स्वं स्थानमेव सेवन्ते।
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>

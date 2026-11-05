@@ -1,12 +1,11 @@
 +++
 title = "०१ नमो॑ वा॒चे"
-
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ वा॒चे या चो॑दि॒ता या चानु॑दिता॒  
-तस्यै॑ वा॒चे नमो॒  
+न᳓मो वाचे᳓ या᳓ चोदिता᳓ या᳓ चा᳓नुदिता  
+त᳓स्यै वाचे᳓ न᳓मो  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -17,9 +16,9 @@ title = "०१ नमो॑ वा॒चे"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ वा॒चे  
-नमो॑ वा॒चस्पत॑ये॒  
-नम॒ ऋषि॑भ्यो मन्त्र॒कृद्भ्यो॒ मन्त्र॑पतिभ्यो॒  
+न᳓मो वाचे᳓  
+न᳓मो वाच᳓स्प᳓तये  
+न᳓म ऋ᳓षिभ्यो मन्त्रकृ᳓द्भ्यो म᳓न्त्रपतिभ्यो  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -31,8 +30,8 @@ title = "०१ नमो॑ वा॒चे"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा माम् ऋष॑यो मन्त्र॒कृतो॑ मन्त्र॒-पत॑यः॒ **परा॑दु॒र्**  
-मा ऽहम् ऋषी॑न् मन्त्र॒कृतो॑ मन्त्र॒-पती॒न् परा॑दाम्
+मा᳓ मा᳓म् ऋ᳓षयो मन्त्रकृ᳓तो मन्त्र-प᳓तयः **प᳓रादुर्**  
+मा᳓ ऽह᳓म् ऋ᳓षीन् मन्त्रकृ᳓तो मन्त्र-प᳓तीन् प᳓रादाम्
 </details>
 
 <details><summary>मूलम्</summary>
@@ -43,8 +42,8 @@ title = "०१ नमो॑ वा॒चे"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वैश्वदे॒वीव्ँ वाच॑मुद्यासँ
-शि॒वाम् अद॑स् तां॒ जुष्टा॑न् दे॒वेभ्यः॑  
+वै᳓श्व᳓देवीव्ँ᳓ वा᳓चमुद्यासँ
+शिवा᳓म् अ᳓दस् तां जु᳓ष्टान् देवे᳓भ्यः  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -55,9 +54,9 @@ title = "०१ नमो॑ वा॒चे"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शर्म॑ मे॒ द्यौश्, शर्म॑ पृथि॒वी, शर्म॒ विश्व॑म् इ॒दं जग॑त् ।  
-शर्म॑ च॒न्द्रश् च॒ सूर्य॑श् च॒,  
-शर्म॑ ब्रह्म--प्रजा-प॒ती ।  
+श᳓र्म मे द्यौ᳓श्, श᳓र्म पृथिवी᳓, श᳓र्म वि᳓श्वम् इदं᳓ ज᳓गत् ।  
+श᳓र्म चन्द्र᳓श् च सू᳓र्यश् च,  
+श᳓र्म ब्रह्म--प्रजा-पती᳓ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -68,10 +67,10 @@ title = "०१ नमो॑ वा॒चे"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भू॒तव्ँ व॑दिष्ये॒, भुव॑नव्ँ वदिष्ये॒,  
-तेजो॑ वदिष्ये॒, यशो॑ वदिष्ये॒,  
-तपो॑ वदिष्ये॒, ब्रह्म॑ वदिष्ये,  
-स॒त्यव्ँ व॑दिष्ये॒,  
+भूतव्ँ᳓ वदिष्ये, भु᳓वनव्ँ वदिष्ये,  
+ते᳓जो वदिष्ये, य᳓शो वदिष्ये,  
+त᳓पो वदिष्ये, ब्र᳓ह्म वदिष्ये,  
+सत्यव्ँ᳓ वदिष्ये,  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -81,9 +80,9 @@ title = "०१ नमो॑ वा॒चे"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑ अ॒हम् इ॒दम् उ॑प॒स्तर॑ण॒म् **उप॑स्तृण**  
-उप॒स्तर॑णं मे प्र॒जायै॑ पशू॒नां **भू॑याद्**  
-उप॒स्तर॑णम् अ॒हं प्र॒जायै॑ पशू॒नां **भू॑यासं॒** 
+त᳓स्मा अह᳓म् इद᳓म् उपस्त᳓रणम् **उ᳓पस्तृण**  
+उपस्त᳓रणं मे प्रजा᳓यै पशूनां᳓ **भूयाद्**  
+उपस्त᳓रणम् अहं᳓ प्रजा᳓यै पशूनां᳓ **भूयासं** 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -93,22 +92,22 @@ title = "०१ नमो॑ वा॒चे"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राणा॑पानौ मृ॒त्योर् मा॑ **पातं॒**  
-प्राणा॑पानौ॒ मा **मा॑ हासिष्टं॒**
+प्रा᳓णापानौ मृत्यो᳓र् मा **पातं**  
+प्रा᳓णापानौ मा᳓ **मा हासिष्टं**
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्राणा॑पानौ मृ॒त्योर्मा॑ पातं॒ प्राणा॑पानौ॒ मा मा॑ हासिष्टं॒
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md">
-<details open><summary><h5>मधु॑ मनिष्ये ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॑ **मनिष्ये** ।  
-मधु॑ **जनिष्ये** ।  
-मधु॑ **वक्ष्यामि** ।  
-मधु॑ **वदिष्यामि** ।
+म᳓धु **मनिष्ये** ।  
+म᳓धु **जनिष्ये** ।  
+म᳓धु **वक्ष्यामि** ।  
+म᳓धु **वदिष्यामि** ।
 </details>
 
 <details><summary>Keith</summary>
@@ -131,8 +130,8 @@ Of honey shall I think, honey shall I produce, honey shall I proclaim, honey sha
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॑मतीन् दे॒वेभ्यो॒ वाच॑म् **उद्यासँ**
-शुश्रू॒षेण्या॑म् मनु॒ष्ये॑भ्यः
+म᳓धुमतीन् देवे᳓भ्यो वा᳓चम् **उद्यासँ**
+शुश्रूषे᳓ण्याम् मनुष्ये᳙भ्यः
 </details>
 
 <details><summary>Keith</summary>
@@ -155,8 +154,8 @@ may I utter speech full of honey for the gods, and acceptable to men.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम् मा॑ दे॒वा **अ॑वन्तु** शो॒भायै॑ ।
-पि॒तरो **ऽनु॑ मदन्तु** ॥
+त᳓म् मा देवा᳓ **अवन्तु** शोभा᳓यै ।
+पित᳓रो᳓ **ऽनु मदन्तु** ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -176,12 +175,11 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 
 इति तृतीये तृतीये द्वितीयोनुवाकः ॥
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं शान्ति॒श्शान्ति॒श्शान्तिः॑ ॥ 
+ओं᳓ शा᳓न्तिश्शा᳓न्तिश्शा᳓न्तिः ॥ 
 </details>
 
 <details><summary>मूलम्</summary>

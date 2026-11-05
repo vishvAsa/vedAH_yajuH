@@ -1,6 +1,5 @@
 +++
 title = "०४ वेदिविधिः"
-
 +++
 प्रजापतिर्ऋषिः
 
@@ -13,8 +12,8 @@ title = "०४ वेदिविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इति॒  
-स्फ्यम् आ द॑त्ते प्रसू॑त्यै,  
+"देव᳓स्य त्वा सवितुᳶ᳓ प्रसव᳓" इ᳓ति  
+स्फ्य᳓म् आ᳓ दत्ते᳓ प्र᳓सूत्यै,  
 </details>
 
 <details><summary>Keith</summary>
@@ -37,14 +36,11 @@ title = "०४ वेदिविधिः"
 1देवस्य त्वेत्यादि ॥ वेदिविधिः । **प्रसूतिः** सवितुरनुज्ञा । अपिच यतत्वाय प्रयत्यै वा ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
-
-<details open><summary><h5>अ॒श्विनो॑र् बा॒हुभ्या॒म् ...{Loading}...</h5></summary>
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒श्विनो॑र् बा॒हुभ्या॒म्" इत्य् आ॑ह ।  
-अ॒श्विनौ॒ हि दे॒वाना॑म् अध्व॒र्यू आस्ता॑म् ।
+"अश्वि᳓नोर् बाहु᳓भ्याम्" इ᳓त्य् आह ।  
+अश्वि᳓नौ हि᳓ देवा᳓नाम् अध्वर्यू᳓ आ᳓स्ताम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -77,7 +73,7 @@ title = "०४ वेदिविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"पू॒ष्णो हस्ता॑भ्या॒"म् इत्य् आ॑ह॒ यत्यै॑ ।
+"पूष्णो᳓ ह᳓स्ताभ्या"म् इ᳓त्य् आह य᳓त्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -105,8 +101,6 @@ title = "०४ वेदिविधिः"
 पूष्णो हस्ताभ्यामित्याह यत्यै (ब्रा. का.३ प्र.२ अ.९) इति ।
 
 </details>
-</details>
-
 </div>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -116,7 +110,7 @@ title = "०४ वेदिविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"श॒त-भृ॑ष्टिर् असि वानस्प॒त्यो, द्वि॑ष॒तो व॒ध" इत्य् आ॑ह ।  
+"शत᳓-भृष्टिर् असि वानस्पत्यो᳓, द्विषतो᳓ वध᳓" इ᳓त्य् आह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -131,8 +125,8 @@ title = "०४ वेदिविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वज्र॑म् ए॒व तत् सँ श्य॑ति  
-भ्रातृ॑व्याय प्रहरि॒ष्यन्।
+व᳓ज्रम् एव᳓ त᳓त् सँ᳓ श्यति᳓  
+भ्रा᳓तृव्याय प्रहरिष्य᳓न्।
 </details>
 
 <details><summary>Keith</summary>
@@ -166,7 +160,7 @@ verily he sharpens the bolt, being about to hurl it at his enemy.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्त॒म्ब॒-य॒जुर् ह॑रति ।
+स्तम्ब-यजु᳓र् हरति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -181,8 +175,8 @@ He throws away the grass with a Yajus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ताव॑ती॒ वै पृ॑थि॒वी,  
-याव॑ती॒ वेदिः॑ ।  
+एता᳓वती वै᳓ पृथिवी᳓,  
+या᳓वती वे᳓दिः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -197,7 +191,7 @@ The earth is the size of the altar;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्या॑ ए॒ताव॑त ए॒व भ्रातृ॑व्य॒न् निर्भ॑जति ।   
+त᳓स्या एता᳓वत एव᳓ भ्रा᳓तृव्यन् नि᳓र्भजति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -212,7 +206,7 @@ verily he deprives his enemy of so much of that [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒न् नाभा॒गन् निर्भ॑जन्ति ।
+त᳓स्मान् ना᳓भाग᳓न् नि᳓र्भजन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -255,7 +249,7 @@ Therefore they do not deprive one who has no share.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रिर् ह॑रति॒,  
+त्रि᳓र् हरति,  
 </details>
 
 <details><summary>Keith</summary>
@@ -270,7 +264,7 @@ He throws it away thrice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रय॑ इ॒मे लो॒काः ।  
+त्र᳓य इमे᳓ लोकाः᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -285,7 +279,7 @@ these worlds are three;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒भ्य ए॒वैनल्ँ॑ लो॒केभ्यो॒ निर्भ॑जति ।  
+एभ्य᳓ एवै᳓नल्ँ लोके᳓भ्यो नि᳓र्भजति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -300,7 +294,7 @@ verily he excludes him from these worlds.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तू॒ष्णीञ् च॑तु॒र्थँ ह॑रति ।  
+तूष्णी᳓ञ् चतुर्थँ᳓ हरति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -315,7 +309,7 @@ He throws it silently a fourth time;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप॑रिमिताद् ए॒वैन॒न् निर्भ॑जति। 
+अ᳓परिमिताद् एवै᳓नन् नि᳓र्भजति। 
 </details>
 
 <details><summary>Keith</summary>
@@ -351,7 +345,7 @@ verily he excludes him from the unmeasured.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद्ध॑न्ति।  
+उ᳓द्धन्ति।  
 </details>
 
 <details><summary>Keith</summary>
@@ -366,8 +360,8 @@ He uproots it;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् ए॒वास्या॑ अमे॒ध्यन्  
-तद् अप॑ हन्ति।  
+य᳓द् एवा᳓स्या अमेध्य᳓न्  
+त᳓द् अ᳓प हन्ति।  
 </details>
 
 <details><summary>Keith</summary>
@@ -392,7 +386,7 @@ verily what of it is impure he cuts off.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद्ध॑न्ति।  
+उ᳓द्धन्ति।  
 </details>
 
 <details><summary>Keith</summary>
@@ -407,7 +401,7 @@ He uproots it;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् ओष॑धय॒ᳶ परा॑ भवन्ति ।  
+त᳓स्माद् ओ᳓षधयᳶ प᳓रा भवन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -432,7 +426,7 @@ therefore the plants perish.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मूल॑ञ् छिनत्ति ।  
+मू᳓लञ् छिनत्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -447,7 +441,7 @@ He cuts the root;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भ्रातृ॑व्यस्यै॒व मूल॑ञ् छिनत्ति ।  
+भ्रा᳓तृव्यस्यैव᳓ मू᳓लञ् छिनत्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -469,7 +463,7 @@ verily he cuts the root of the enemy.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पि॒तृ॒दे॒व॒त्या ऽति॑खा॒ता,  
+पितृदेवत्या᳓ ऽतिखाता᳓,  
 </details>
 
 <details><summary>Keith</summary>
@@ -484,8 +478,8 @@ If dug too deep, it has the Pitrs for its deity;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इय॑तीङ् खनति,  
-प्र॒जाप॑तिना यज्ञमु॒खेन॑ सम्मि॑ताम्।
+इ᳓यतीङ् खनति,  
+प्रजा᳓पतिना यज्ञमुखे᳓न स᳓म्मिताम्।
 </details>
 
 <details><summary>Keith</summary>
@@ -515,7 +509,7 @@ so much does he dig as is measured [2] by Prajapati as the mouth of the sacrific
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ प्र॑ति॒ष्ठायै॑ खनति ।  
+आ᳓ प्रतिष्ठा᳓यै खनति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -530,7 +524,7 @@ He digs until (he reaches) support;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानम् ए॒व प्र॑ति॒ष्ठाङ् ग॑मयति ।    
+य᳓जमानम् एव᳓ प्रतिष्ठा᳓ङ् गमयति ।    
 </details>
 
 <details><summary>Keith</summary>
@@ -561,7 +555,7 @@ verily he causes the sacrificer to reach support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द॒क्षि॒ण॒तो वर्षी॑यसीङ् करोति ।  
+दक्षिणतो᳓ व᳓र्षीयसीङ् करोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -576,7 +570,7 @@ He makes it higher on the south;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒व॒यज॑नस्यै॒व रू॒पम् अ॑कः। 
+देवय᳓जनस्यैव᳓ रूप᳓म् अकः। 
 </details>
 
 <details><summary>Keith</summary>
@@ -605,7 +599,7 @@ verily he makes it the form of the sacrificial ground.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुरी॑षवतीङ् करोति ।  
+पु᳓रीषवतीङ् करोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -620,7 +614,7 @@ He makes it full of loose earth;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जा वै प॒शव॒ᳶ पुरी॑षम्  
+प्रजा᳓ वै᳓ पश᳓वᳶ पु᳓रीषम्  
 </details>
 
 <details><summary>Keith</summary>
@@ -635,7 +629,7 @@ loose earth is offspring and cattle;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जयै॒वैन॑म् प॒शुभि॒ᳶ पुरी॑षवन्तङ् करोति ।  
+प्रज᳓यैवै᳓नम् पशु᳓भिᳶ पु᳓रीषवन्तङ् करोति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -669,7 +663,7 @@ verily he makes him full of offspring and cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत्त॑रम् परिग्रा॒हम् परि॑ गृह्णाति ।    
+उ᳓त्तरम् परिग्राह᳓म् प᳓रि गृह्णाति ।    
 </details>
 
 <details><summary>Keith</summary>
@@ -695,7 +689,7 @@ He performs the second drawing of a boundary.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ताव॑ती॒ वै पृ॑थि॒वी, याव॑ती॒ वेदिः॑ ।  
+एता᳓वती वै᳓ पृथिवी᳓, या᳓वती वे᳓दिः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -710,8 +704,8 @@ The earth is the size of the altar;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्या॑ ए॒ताव॑त ए॒व भ्रातृ॑व्यन् नि॒र्भज्य॑  
-+आ॒त्मन॒ उत्त॑रम् परिग्रा॒हम् परि॑ गृह्णाति ।  
+त᳓स्या एता᳓वत एव᳓ भ्रा᳓तृव्यन् निर्भ᳓ज्य  
++आत्म᳓न उ᳓त्तरम् परिग्राह᳓म् प᳓रि गृह्णाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -739,8 +733,8 @@ verily having excluded his enemy from so much of it, he performs the second draw
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्रू॒रम् इ॑व॒ वा ए॒तत् क॑रोति॒  
-यद् वेदि॑ङ् क॒रोति॑
+क्रूर᳓म् इव वा᳓ एत᳓त् करोति  
+य᳓द् वे᳓दिङ् करो᳓ति
 </details>
 
 <details><summary>Keith</summary>
@@ -765,7 +759,7 @@ Cruelly he acts [3] in making an altar.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"धा अ॑सि, स्व॒धा अ॒सी"ति॑ **योयुप्यते॒**+++(=मसृणं करोति)+++ शान्त्यै॑ । [23]  ।  
+"धा᳓ असि, स्वधा᳓ असी᳓"ति **योयुप्यते**+++(=मसृणं करोति)+++ शा᳓न्त्यै । [23]  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -798,7 +792,7 @@ Cruelly he acts [3] in making an altar.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रोक्ष॑णी॒र् आ सा॑दयति ।  
+प्रो᳓क्षणीर् आ᳓ सादयति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -813,7 +807,7 @@ He places the sprinkling waters;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आपो॒ वै र॑क्षो॒घ्नी, रक्ष॑सा॒म् अप॑हत्यै ।  
+आ᳓पो वै᳓ रक्षोघ्नी᳓, र᳓क्षसाम् अ᳓पहत्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -828,7 +822,7 @@ the waters are Raksas-slaying;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्फ्यस्य॒ वर्त्म॑न्त् सादयति  
+स्फ्य᳓स्य व᳓र्त्मन्त् सादयति  
 </details>
 
 <details><summary>Keith</summary>
@@ -843,7 +837,7 @@ the waters are Raksas-slaying;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञस्य॒ सन्त॑त्यै ।  
+यज्ञ᳓स्य स᳓न्तत्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -858,7 +852,7 @@ He places them in the path made by the sword, for the continuity of the sacrific
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन् द्वि॒ष्यात् तन् ध्या॑येत् ,
+य᳓न् द्विष्या᳓त् त᳓न् ध्यायेत् ,
 </details>
 
 <details><summary>Keith</summary>
@@ -873,7 +867,7 @@ He should think of any one whom he hates;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शु॒चैवैन॑म् अर्पयति ॥+++(5)+++
+शुचै᳓वै᳓नम् अर्पयति ॥+++(5)+++
 </details>
 
 <details><summary>Keith</summary>

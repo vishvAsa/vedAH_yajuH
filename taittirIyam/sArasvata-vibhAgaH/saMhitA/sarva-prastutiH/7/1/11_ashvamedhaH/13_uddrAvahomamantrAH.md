@@ -1,26 +1,21 @@
 +++
 title = "१३ उद्द्रावहोममन्त्राः"
-
 +++
-
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विश्वेदेवा ऋषयः
 </details>
 
-
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ त्रयोदश ध्रुवा जुहोति - आयनाय स्वाहेत्यादि ॥  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(त्रयोदश ध्रुवा जुहोति)+++  
-आय॑नाय॒ स्वाहा॑ ।
+आ᳓यनाय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -30,7 +25,7 @@ To the going hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राय॑णाय॒ स्वाहा॑ ।
+प्रा᳓यणाय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -40,7 +35,7 @@ To the advancing hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒द्द्रा॒वाय॒ +++(भावाय)+++ स्वाहाः॑।
+उद्द्रावा᳓य +++(भावाय)+++ स्वा᳓हाः।
 </details>
 
 <details><summary>Keith</summary>
@@ -50,7 +45,7 @@ To the running hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद्द्रु॑ताय॒ +++(कर्मणे)+++ स्वाहा॑ ।
+उ᳓द्द्रुताय +++(कर्मणे)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -60,7 +55,7 @@ To him after be hath run hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शू॒का॒राय॒+++(=swish-शब्दाय)+++ स्वाहा॑ ।
+शूकारा᳓य+++(=swish-शब्दाय)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -70,7 +65,7 @@ To the crying of 'shoo' hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शूकृ॑ताय॒ +++(कर्मणे)+++ स्वाहा॑ ।
+शू᳓कृताय +++(कर्मणे)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -80,7 +75,7 @@ To him over whom is cried 'shoo' hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पला॑यिताय॒ स्वाहा॑ ।
+प᳓लायिताय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -90,7 +85,7 @@ To him who hath moved hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒पला॑यिताय॒ स्वाहा॑ ।
+आप᳓लायिताय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -100,7 +95,7 @@ To him who hath moved forward hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒वल्ग॑ते॒+++(=विक्रमणाय)+++ स्वाहा॑ ।
+आव᳓ल्गते+++(=विक्रमणाय)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -110,7 +105,7 @@ To him springing forward hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒रा॒वल्ग॑ते॒ स्वाहा॑ ।
+पराव᳓ल्गते स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -120,7 +115,7 @@ To him jumping away hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒य॒ते स्वाहा॑ ।
+आयते᳓ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -130,7 +125,7 @@ To him who advanceth hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒य॒ते+++(=प्रयाणकुशलाय)+++ स्वाहा॑ ।
+प्रयते᳓+++(=प्रयाणकुशलाय)+++ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -140,7 +135,7 @@ To him who advanceth forward hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व॑स्मै॒ स्वाहा॑ ॥ [42]
+स᳓र्वस्मै स्वा᳓हा ॥ [42]
 </details>
 
 <details><summary>Keith</summary>
@@ -153,7 +148,6 @@ To all hail!
 आय॑नाय॒ स्वाहा॒ प्राय॑णाय॒ स्वाहो॑द्द्रा॒वाय॒ स्वाहोद्द्रु॑ताय॒ स्वाहा॑ शूका॒राय॒ स्वाहा॒ शूकृ॑ताय॒ स्वाहा॒
 </details>
 
-
 <details><summary>पद-पाठः</summary>
 
 आय॑ना॒येत्या-अ॒य॒ना॒य॒ । स्वाहा॑ ।
@@ -165,8 +159,6 @@ To all hail!
 शू॒का॒रायेति॑ शू-का॒राय॑ । स्वाहा॑ ।   
 शूकृ॑ता॒येति॒ शू-कृ॒ता॒य॒ । स्वाहा॑ ।   
 </details>
-
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 आयनमागमनम्, प्रायणं प्रकृष्टगमनम्, गमनारम्भो वा । उभयत्रापि कृदुऽत्तरपदप्रकृतिस्वरत्वम् । 
@@ -181,7 +173,6 @@ To all hail!
 पला॑यिताय॒ स्वाहा॒ऽऽपला॑यिताय॒ स्वाहा॒ऽऽवल्ग॑ते॒ स्वाहा॑ परा॒वल्ग॑ते॒ स्वाहा॑
 </details>
 
-
 <details><summary>पद-पाठः</summary>
 
 पला॑यिताय । स्वाहा॑ ।     
@@ -191,7 +182,6 @@ To all hail!
 प॒रा॒वल्ग॑त॒ इति॑ परा-वल्ग॑ते । स्वाहा॑ ।   
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पलायितं शीघ्रगमनम् । 'उपसर्गस्यायतौ' इति लत्वम् । विकारत्वादनवग्रहः, पूर्ववद्गतिस्वरः । आपलायितं शीघ्रगमनम् । अनन्तरस्य गतेः प्रकतिस्वरत्वम् । 
@@ -199,12 +189,10 @@ To all hail!
 आवल्गते आवल्गनं गतिविशेषः विक्रमणपर्यायः, तेन गतिविशेषेणागच्छते । परावल्गनेनापि गतिविशेषेणागच्छते । उभयत्रापि कृदुत्तरपदप्रकृतिस्वरत्वम् । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 आय॒ते स्वाहा॑ प्रय॒ते स्वाहा॒ सर्व॑स्मै॒ स्वाहा॑ ॥ [42]  
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -213,12 +201,11 @@ To all hail!
 सर्व॑स्मै । स्वाहा॑ ॥ [42]
 </details>
 
-
 <details><summary>प्रदीपसिंहः</summary>
 
 जायते - इति ठङ्कितपाठ आसीत् । आयते इति मूलानुगुण्येन परिवर्तितम्
 </details>
- 
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आयते आयनकुशलाय । वर्तमानविवक्षायामेतेर्लट्, शत्रादेशः । 'इणो यण्' । प्रयते प्रयाणकुशलाय प्रकृष्टगमनकुशलाय । उभयत्रापि 'शतुरनुमः' इति चतुर्थ्या उदात्तत्वम् ।   

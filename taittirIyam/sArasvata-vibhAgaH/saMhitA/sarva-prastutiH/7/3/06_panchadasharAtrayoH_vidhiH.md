@@ -13,8 +13,8 @@ title = "०६ पञ्चदशरात्रयोः विधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो॒ वै स॒दृङ् दे॒वता॑भिर् आसीत् ।  
-स न व्या॒वृत॑म् अगच्छत् ।  
+इ᳓न्द्रो वै᳓ सदृ᳓ङ् देव᳓ताभिर् आसीत् ।  
+स᳓ न᳓ व्यावृ᳓तम् अगच्छत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -24,8 +24,8 @@ Indra was on a level with the gods, he was not distinguished from them.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स प्र॒जाप॑ति॒म् उपा॑धावत् ।  
-तस्मा॑ ए॒तम् प॑ञ्चदशरा॒त्रम् प्राय॑च्छत् ।  
+स᳓ प्रजा᳓पतिम् उ᳓पाधावत् ।  
+त᳓स्मा एत᳓म् पञ्चदशरात्र᳓म् प्रा᳓यच्छत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -35,7 +35,7 @@ He ran up to Prajapati; he gave him this (rite) of fifteen nights.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमाह॑रत् । तेना॑यजत ।  
+त᳓मा᳓हरत् । ते᳓नायजत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -45,7 +45,7 @@ He grasped it, and sacrificed with it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वै सो॑ ऽन्याभि॑र् दे॒वता॑भिर् व्या॒वृत॑म् अगच्छत् ।  
+त᳓तो वै᳓ सो ऽन्या᳓भिर् देव᳓ताभिर् व्यावृ᳓तम् अगच्छत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -55,8 +55,8 @@ Then indeed he became distinguished from the other gods.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वाँसᳶ॑ पञ्चदशरा॒त्रम् आस॑ते,  
-व्या॒वृत॑म् ए॒व पा॒प्मना॒ भ्रातृ॑व्येण गच्छन्ति ।  
+य᳓ एवव्ँ᳓ विद्वाँ᳓सᳶ पञ्चदशरात्र᳓म् आ᳓सते,  
+व्यावृ᳓तम् एव᳓ पाप्म᳓ना भ्रा᳓तृव्येण गच्छन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -65,11 +65,10 @@ Those who knowing thus perform (the rite) of fifteen nights attain distinction f
 </details>
 
 ## विधानम्
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/jyotir_gaur_AyuH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/jyotir_gaur_AyuH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योति॒र् गौर् आयु॒र् इति॑ त्र्य॒हो भ॑वति ।
+ज्यो᳓तिर् गौ᳓र् आ᳓युर् इ᳓ति त्र्यहो᳓ भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -79,7 +78,7 @@ The three days are the Jyotis, Go, and Ayus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ वाव ज्योति॑र्, अ॒न्तरि॑क्ष॒ङ् गौर्, अ॒साव् आयुः॑ ।
+इयव्ँ᳓ वा᳓व᳓ ज्यो᳓तिर्, अन्त᳓रिक्षङ् गौ᳓र्, असा᳓व् आ᳓युः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -93,12 +92,11 @@ The Jyotis is this (earth), the Go the atmosphere, the Ayus yonder (sky); verily
 गौः - खलु पञ्चदशो बहिष्पवमानः, त्रिवृन्त्य् आज्यानि, सप्तदशं माध्यन्दिनं सवनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २४१-स्तोत्रिया। क्थम्??  
 आयुः - त्रिवृत् बहिष्पवमानं, पञ्चदशाज्यानि, सर्वसप्तदशं माध्यन्दिनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २५९-स्तोत्रियम्। कथम्??
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष्वे॑व लो॒केषु॒ प्रति॑ तिष्ठ॒न्ति ।
+एष्वे᳙व लोके᳓षु प्र᳓ति तिष्ठन्ति᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -111,8 +109,7 @@ The Jyotis is this (earth), the Go the atmosphere [1], the Ayus yonder (sky); ve
 द्वादशाहस्य दशाहानि विदधाति -  
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/06_panchadasharAtrayoH_vidhiH/asatram_aChandomam.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/06_panchadasharAtrayoH_vidhiH/asatram_aChandomam.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अस॑त्त्रव्ँ॒वा ए॒तद्यद॑छन्दो॒मय्ँयच्छ॑न्दो॒मा भव॑न्ति॒ तेन॑ स॒त्त्रन्दे॒वता॑ ए॒व पृ॒ष्ठैरव॑ रुन्धते प॒शूञ्छ॑न्दो॒मैरोजो॒ वै वी॒र्य॑म्पृ॒ष्ठानि॑ प॒शव॑श्छन्दो॒मा ओज॑स्ये॒व वी॒र्ये॑ प॒शुषु॒ प्रति॑ तिष्ठन्ति
@@ -120,8 +117,8 @@ The Jyotis is this (earth), the Go the atmosphere [1], the Ayus yonder (sky); ve
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(छन्दोमवतः प्रशंसार्थं वक्ति - )+++ अस॑त्त्रव्ँ॒ वा ए॒तद् यद् अ॑छन्दो॒मम् ।
-यच् छ॑न्दो॒मा भव॑न्ति॒ तेन॑ स॒त्त्रम् ।  
++++(छन्दोमवतः प्रशंसार्थं वक्ति - )+++ अ᳓सत्त्रव्ँ वा᳓ एत᳓द् य᳓द् अछन्दोम᳓म् ।
+य᳓च् छन्दोमा᳓ भ᳓वन्ति ते᳓न सत्त्र᳓म् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -135,7 +132,10 @@ There can be no Sattra where there is no Chandoma; in that there axe Chandomas, 
 यच्छ॑न्दो॒मा भव॑न्ति॒ तेन॑ स॒त्त्रम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>दे॒वता॑ ए॒व पृ॒ष्ठैर् अव॑ रुन्धते प॒शूञ् छ॑न्दो॒मैः ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देव᳓ता एव᳓ पृष्ठै᳓र् अ᳓व रुन्धते पशू᳓ञ् छन्दोमैः᳓ ।  
+</details>
 
 <details><summary>Keith</summary>
 
@@ -147,7 +147,10 @@ The gods they win by the Prsthas, the cattle by the Chandomas.
 दे॒वता॑ ए॒व पृ॒ष्ठैरव॑ रुन्धते प॒शूञ्छ॑न्दो॒मैः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>ओजो॒ वा वी॒र्य॑म् पृ॒ष्ठानि॑, प॒शव॑श् छन्दो॒मा ।</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओ᳓जो वा᳓ वीर्य᳙म् पृष्ठा᳓नि, पश᳓वश् छन्दोमा᳓ ।  
+</details>
 
 <details><summary>Keith</summary>
 
@@ -161,7 +164,7 @@ The Prsthas are force and strength, the Chandomas cattle;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओज॑स्य् ए॒व वी॒र्ये॑, प॒शुषु॒ +++(च)+++ प्रति॑ तिष्ठन्ति ।  
+ओ᳓जस्य् एव᳓ वीर्ये᳙, पशु᳓षु +++(च)+++ प्र᳓ति तिष्ठन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -173,13 +176,12 @@ verily in force [2] and strength they find support.
 
 ओज॑स्ये॒व वी॒र्ये॑ प॒शुषु॒ प्रति॑ तिष्ठन्ति ।
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्चदशरा॒त्रो भ॑वति, पञ्चद॒शो वज्रः॑।  
-वज्र॑मे॒व भ्रातृ॑व्येभ्य॒ᳶ प्र ह॑रन्ति ।
+प᳓ञ्च᳓द᳓श᳓रात्रो᳓ भवति, पञ्चदशो᳓ व᳓ज्रः।  
+व᳓ज्रमेव᳓ भ्रा᳓तृव्येभ्यᳶ प्र᳓ हरन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -189,8 +191,8 @@ verily in force [2] and strength they find support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ति॒रा॒त्राव॒भितो॑ भवतः ।
-इन्द्रि॒यस्य॒ परि॑गृहीत्यै ॥ [15]  
+अतिरात्रा᳓वभि᳓तो भवतः ।
+इ᳓न्द्रिय᳓स्य प᳓रिगृहीत्यै ॥ [15]  
 </details>
 
 <details><summary>Keith</summary>

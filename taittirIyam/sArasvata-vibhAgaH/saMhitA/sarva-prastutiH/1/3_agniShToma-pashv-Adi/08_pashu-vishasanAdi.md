@@ -13,13 +13,12 @@ _______
 1अथ पशुरशनाम् आदत्ते - आ दद इति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
-+++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
-पू॒ष्णो हस्ता॑भ्याम्…
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
++++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
+पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
 
 <details><summary>Keith</summary>
@@ -53,12 +52,11 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ द॑दे ।
+आ᳓ ददे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -89,7 +87,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒तस्य॑ त्वा देव-हवि॒ᳶ! पाशे॒नाऽऽर॑भे ।
+ऋत᳓स्य त्वा देव-हविᳶ! पा᳓शेना᳓ऽऽरभे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -120,7 +118,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धर्षा॒ मानु॑षान्  ।
+ध᳓र्षा मा᳓नुषान्  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -156,8 +154,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒द्भ्यस् त्वा॑   
-ओष॑धीभ्य॒ᳶ प्रोक्षा॑मि ।
+अद्भ्य᳓स् त्वा   
+ओ᳓षधीभ्यᳶ प्रो᳓क्षामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -191,7 +189,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पाम् पे॒रुर्+++(=पाता)+++ अ॑सि ।
+अपा᳓म् पेरु᳓र्+++(=पाता)+++ असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -222,8 +220,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वा॒त्तञ् चि॒त् सद् ए॑वँ ह॒व्यम्   
-आपो॑ देेवी॒स् स्वद॑तैनम् ।
+स्वात्त᳓ञ् चित् स᳓द् एवँ हव्य᳓म्   
+आ᳓पो देेवीस् स्व᳓दतैनम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -271,7 +269,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सन् ते॑ प्रा॒णो वा॒युना॑ गच्छताँ।  
+स᳓न् ते प्राणो᳓ वायु᳓ना गच्छताँ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -304,7 +302,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सय्ँ यज॑त्रै॒र् अङ्गा॑नि +++(गच्छताम्)+++ ।
+सय्ँ᳓ य᳓जत्रैर् अ᳓ङ्गानि +++(गच्छताम्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -335,7 +333,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सय्ँ य॒ज्ञप॑तिर् आ॒शिषा॑ +++(गच्छताम्)+++ ।
+सय्ँ᳓ यज्ञ᳓पतिर् आशि᳓षा +++(गच्छताम्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -366,7 +364,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृ॒तेना॒क्तौ प॒शुन् त्रा॑येथाः ।
+घृते᳓नाक्तौ᳓ पशु᳓न् त्रायेथाः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -402,7 +400,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रे-व॑तीर् य॒ज्ञ-प॑तिम् प्रिय॒-धा ऽऽवि॑शत ।
+रे᳓-वतीर् यज्ञ᳓-पतिम् प्रिय-धा᳓ ऽऽविशत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -430,20 +428,17 @@ Ye wealthy ones, do ye kindly resort to the lord of the sacrifice.
 यद्वा - सर्वे पशव उच्यन्ते - वयमस्माकमेको हन्तुं नीयत इति उद्वेगं मा कार्ष्ट । यजमानस्योपभोगाय प्रीतिपूर्वकं तस्मिन्वर्तध्वम् ।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-उरो॑ अन्तरिक्ष!  
-स॒जूर् दे॒वेन॑ वाते॑ना॒  
-ऽस्य ह॒विष॒स् त्मना॑+++(=जीवेन)+++ यज।  
-सम् अ॑स्य त॒नुवा॑ भव।
+उ᳓रो अन्तरिक्ष!  
+सजू᳓र् देवे᳓न वा᳓तेना  
+ऽस्य᳓ हवि᳓षस् त्म᳓ना+++(=जीवेन)+++ यज।  
+स᳓म् अस्य तनु᳓वा भव।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -475,12 +470,11 @@ be united with its body
 किञ्च - अस्य पशोस्तन्वा शरीरेण सम्भव संयुजस्व । देवभूयस्याप्यस्य पशोश्शरीरं मा हिंसीः ।
 </details>
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वर्षी॑यो॒ वर्षी॑यसि य॒ज्ञे य॒ज्ञप॑तिन्धाः ।  
+व᳓र्षीयो व᳓र्षीयसि यज्ञे᳓ यज्ञ᳓पतिन्धाः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -513,14 +507,13 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒थि॒व्यास् स॒म्पृचᳶ॑ पाहि ।
+पृथिव्या᳓स् सम्पृ᳓चᳶ पाहि ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pRthivyAH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pRthivyAH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒थि॒व्यास् स॒म्पृच॑ᳶ पाहि ।
+पृथिव्या᳓स् सम्पृ᳓चᳶ पाहि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -542,7 +535,6 @@ Guard from the contact of earth.
 
 ङीष उदात्तत्वात् 'उदात्तयणो हल्पूर्वात्' (पा.सू. 6.1.174) इति विभक्तेरुदात्तत्वम् । संपृचन्तीति संपृचः । 'क्विप्च' (पा.सू. 3.2.76) इति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) । नित्यसमासत्वाद्विभक्तिस्वराभावः । पृथिवीसम्पृक्तानस्मान्पाहि । दिविष्ठस्त्वम्, उपरि निधानात् ॥
 </details>
-
 </div>
 
 <details><summary>मूलम्</summary>
@@ -563,7 +555,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॑स् त आतान ।
+न᳓मस् त आतान ।
 </details>
 
 <details><summary>Keith</summary>
@@ -594,10 +586,10 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न॒र्वा प्रेहि॑  
-घृ॒तस्य॑ कु॒ल्याम् अनु॑   
-स॒ह प्र॒जया॑  
-स॒ह  रा॒यस्पोषे॑ण  ।
+अनर्वा᳓ प्रे᳓हि  
+घृत᳓स्य कुल्या᳓म् अ᳓नु   
+सह᳓ प्रज᳓या  
+सह᳓  राय᳓स्पो᳓षेण  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -637,20 +629,17 @@ _______
 15अपोवेक्षमाणां पत्नीं वाचयति - आपो देवीरिति चतुष्पदयानुष्टुभा विद्युन्मालया ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/03_Apo_devIsh.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/03_Apo_devIsh.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-आपो॑ देवीश् शुद्धायुवश्  
-शु॒द्धा यू॒यन् दे॒वाँ ऊ॑ड्ढ्वम् ।    
-शु॒द्धा व॒यम् +++(भवतीभिः)+++ परि॑विष्टाᳶ  
-+++(युष्मत्-)+++परिवे॒ष्टारो॑ वो भूयास्म ॥ [15]
+आ᳓पो देवीश् शुद्धायुवश्  
+शुद्धा᳓ यूय᳓न् देवाँ᳓ ऊड्ढ्वम् ।    
+शुद्धा᳓ वय᳓म् +++(भवतीभिः)+++ प᳓रिविष्टाᳶ  
++++(युष्मत्-)+++परिवेष्टा᳓रो वो भूयास्म ॥ [15]
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/03_Apo_devIsh.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/03_Apo_devIsh.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -670,7 +659,6 @@ may we, pure and served (by you), be servers upon you.
 शु॒द्धाः । व॒यम् । परि॑विष्टा॒ इति॒ परि॑-वि॒ष्टाः॒ । प॒रि॒वे॒ष्टार॒ इति॑ परि-वे॒ष्टारः॑ । वः॒ । भू॒या॒स्म॒ ॥ [15]
 </details>
 </details>
-
 </div>
 
 <details><summary>प्रदीपसिंहः</summary>

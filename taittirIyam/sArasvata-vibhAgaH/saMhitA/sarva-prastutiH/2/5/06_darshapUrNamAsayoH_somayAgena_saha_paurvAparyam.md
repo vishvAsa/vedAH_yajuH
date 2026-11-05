@@ -1,6 +1,5 @@
 +++
 title = "०६ दर्शपूर्णमासौ सोमात् प्राक्"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -19,7 +18,7 @@ title = "०६ दर्शपूर्णमासौ सोमात् प�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वै दे॑वर॒थो यद् द॑र्शपूर्णमा॒सौ ।
+एष᳓ वै᳓ देवरथो᳓ य᳓द् दर्शपूर्णमासौ᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -50,8 +49,8 @@ The new and the full moon (sacrifices) are the chariot of the gods.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो द॑र्शपूर्णमा॒साव् **इ॒ष्ट्वा** सोमे॑न॒ **यज॑ते॒**
-रथ॑-स्पष्ट ए॒वाव॒साने॒ वरे॑ दे॒वाना॒म् **अव॑स्यति** ।
+यो᳓ दर्शपूर्णमासा᳓व् **इष्ट्वा᳓** सो᳓मेन **य᳓जते**
+र᳓थ-स्पष्ट एवा᳓वसा᳓ने व᳓रे देवा᳓नाम् **अ᳓वस्यति** ।
  ।
 </details>
 
@@ -93,8 +92,8 @@ which is conspicuous for its chariot (tracks).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तानि॒ वा अङ्गा॒परूँ॑षि  
-सव्ँवत्स॒रस्य॒ यद् द॑र्श-पूर्णमा॒सौ
+एता᳓नि वा᳓ अ᳓ङ्गाप᳓रूँषि  
+सव्ँवत्सर᳓स्य य᳓द् दर्श-पूर्णमासौ᳓
 </details>
 
 <details><summary>Keith</summary>
@@ -125,8 +124,8 @@ The new and the full moons are the limbs and joints of the year;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॒ते  
-ऽङ्गा॒परूँ॑ष्य् ए॒व सव्ँ॑वत्स॒रस्य॒ प्रति॑ दधाति
+य᳓ एवव्ँ᳓ विद्वा᳓न् दर्शपूर्णमासौ᳓ य᳓जते᳓  
+ऽङ्गाप᳓रूँष्य् एव᳓ सव्ँवत्सर᳓स्य प्र᳓ति दधाति
 </details>
 
 <details><summary>Keith</summary>
@@ -152,7 +151,7 @@ thus unites the limbs and joints of the year.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ते वै सव्ँ॑वत्स॒रस्य॒ चक्षु॑षी॒ यद्द॑र्शपूर्णमा॒सौ 
+एते᳓ वै᳓ सव्ँवत्सर᳓स्य च᳓क्षुषी य᳓द्दर्शपूर्णमासौ᳓ 
 </details>
 
 <details><summary>Keith</summary>
@@ -177,8 +176,8 @@ The new and the full moon are the eyes of the year;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते॒  
-ताभ्या॑म् ए॒व सु॑व॒र्गल्ँ लो॒कम् अनु॑ पश्यति    
+य᳓ एवव्ँ᳓ विद्वा᳓न् दर्शपूर्णमासौ᳓ य᳓जते  
+ता᳓भ्याम् एव᳓ सुवर्गल्ँ᳓ लोक᳓म् अ᳓नु पश्यति    
 </details>
 
 <details><summary>Keith</summary>
@@ -210,7 +209,7 @@ he who knowing thus offers the new and the full moon (sacrifices) thus sees with
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒षा वै दे॒वानाव्ँ॒ विक्रा॑न्ति॒र् यद् द॑र्श-पूर्णमा॒सौ ।   
+एषा᳓ वै᳓ देवा᳓नाव्ँ वि᳓क्रान्तिर् य᳓द् दर्श-पूर्णमासौ᳓ ।   
 </details>
 
 <details><summary>English</summary>
@@ -236,8 +235,8 @@ The new and the full moon are the striding of the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते    
-दे॒वाना॑म् ए॒व विक्रा॑न्ति॒म् अनु॒ वि क्र॑मते  ।
+य᳓ एवव्ँ᳓ विद्वा᳓न् दर्शपूर्णमासौ᳓ य᳓जते    
+देवा᳓नाम् एव᳓ वि᳓क्रान्तिम् अ᳓नु वि᳓ क्रमते  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -276,8 +275,8 @@ he who knowing thus offers the new and the full moon (sacrifices) steps in the s
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वै दे॑व॒यान॒ᳶ पन्था॒  
-यद् द॑र्शपूर्णमा॒सौ
+एष᳓ वै᳓ देवया᳓नᳶ प᳓न्था  
+य᳓द् दर्शपूर्णमासौ᳓
 </details>
 
 <details><summary>Keith</summary>
@@ -297,9 +296,9 @@ The new and the full moon are the path on which the gods fare;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते॒  
-य ए॒व दे॑व॒यान॒ᳶ पन्था॒स्  
-तँ स॒मारो॑हति
+य᳓ एवव्ँ᳓ विद्वा᳓न् दर्शपूर्णमासौ᳓ य᳓जते  
+य᳓ एव᳓ देवया᳓नᳶ प᳓न्थास्  
+तँ᳓ समा᳓रोहति
 </details>
 
 <details><summary>Keith</summary>
@@ -339,8 +338,8 @@ he who knowing thus offers the new and the full moon (sacrifices) mounts the pat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तौ वै दे॒वानाँ॒ हरी॒  
-यद् द॑र्शपूर्णमा॒सौ ।
+एतौ᳓ वै᳓ देवा᳓नाँ ह᳓री  
+य᳓द् दर्शपूर्णमासौ᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -360,9 +359,9 @@ The new and the full moons are the bay steeds of the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते॒  
-याव् ए॒व दे॒वानाँ॒ हरी॒  
-ताभ्या॑म् [34] ए॒वैभ्यो॑ ह॒व्यव्ँ व॑हति ।
+य᳓ एवव्ँ᳓ विद्वा᳓न् दर्शपूर्णमासौ᳓ य᳓जते  
+या᳓व् एव᳓ देवा᳓नाँ ह᳓री  
+ता᳓भ्याम् [34] एवै᳓भ्यो हव्यव्ँ᳓ वहति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -401,8 +400,8 @@ he who knowing thus offers the new and the full moon (sacrifices) carries to the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद् वै दे॒वाना॑म् आ॒स्यय्ँ॑  
-यद् द॑र्शपूर्णमा॒सौ
+एत᳓द् वै᳓ देवा᳓नाम् आस्यय्ँ᳙  
+य᳓द् दर्शपूर्णमासौ᳓
 </details>
 
 <details><summary>Keith</summary>
@@ -422,8 +421,8 @@ The new and the full moon (sacrifices) are the mouth of the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते  
-सा॒क्षाद् ए॒व दे॒वाना॑म् आ॒स्ये॑ जुहोति
+य᳓ एवव्ँ᳓ विद्वा᳓न् दर्शपूर्णमासौ᳓ य᳓जते  
+साक्षा᳓द् एव᳓ देवा᳓नाम् आस्ये᳙ जुहोति
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -466,10 +465,10 @@ he who knowing thus offers the new and the full moon (sacrifices) manifestly sac
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वै ह॑विर्-धा॒नी यो द॑र्शपूर्णमासया॒जी,  
-सा॒यम्-प्रा॑तर् अग्निहो॒त्रञ् जु॑होति॒,  
-यज॑ते दर्शपूर्णमा॒सौ  
-अह॑र्-अहर् हविर्धा॒निनाँ॑ सु॒तः
+एष᳓ वै᳓ हविर्-धानी᳓ यो᳓ दर्शपूर्णमासयाजी᳓,  
+साय᳓म्-प्रातर् अग्निहोत्र᳓ञ् जुहोति,  
+य᳓जते दर्शपूर्णमासौ᳓  
+अ᳓हर्-अहर् हविर्धानि᳓नाँ सुतः᳓
 </details>
 
 <details><summary>Keith</summary>
@@ -509,9 +508,9 @@ on every day (the Soma) of those who have oblation holders is pressed.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते  
-हविर्धा॒न्य् अ॑स्मीति॒  
-सर्व॑म् ए॒वास्य॑ बर्हि॒ष्य॑न् द॒त्तम् भ॑वति
+य᳓ एवव्ँ᳓ विद्वा᳓न् दर्शपूर्णमासौ᳓ य᳓जते  
+हविर्धान्य् अ᳙स्मीति  
+स᳓र्वम् एवा᳓स्य बर्हिष्य᳙न् दत्त᳓म् भवति
 </details>
 
 <details><summary>Keith</summary>
@@ -559,7 +558,7 @@ everything is given as on the strew.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा वा अह॑र् य॒ज्ञिय॒न् नावि॑न्दन्  ।
+देवा᳓ वा᳓ अ᳓हर् यज्ञि᳓यन् ना᳓विन्दन्  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -592,8 +591,8 @@ The gods [3] could not find the suitable day for the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते द॑र्शपूर्णमा॒साव् अ॑पुनन् ।
-तौ वा ए॒तौ पू॒तौ मेध्यौ॒ यद् द॑र्शपूर्णमा॒सौ ।
+ते᳓ दर्शपूर्णमासा᳓व् अपुनन् ।
+तौ᳓ वा᳓ एतौ᳓ पूतौ᳓ मे᳓ध्यौ य᳓द् दर्शपूर्णमासौ᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -631,8 +630,8 @@ the new and the full moon (sacrifices) are these pure and sacrificial (days).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते
-पू॒ताव् ए॒वैनौ॒ मेध्यौ॑ यजते ।
+य᳓ एवव्ँ᳓ विद्वा᳓न् दर्शपूर्णमासौ᳓ य᳓जते
+पूता᳓व् एवै᳓नौ मे᳓ध्यौ यजते ।
  ।
 </details>
 
@@ -668,7 +667,7 @@ offers them as pure and sacrificial.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नामा॑वा॒स्या॑याञ्च पौर्णमा॒स्याञ्च॒ स्त्रिय॒म् उपे॑यात् ।
+ना᳓मावास्या᳙याञ्च पौर्णमास्या᳓ञ्च स्त्रि᳓यम् उ᳓पेयात् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -698,7 +697,7 @@ One should not approach a woman on the new moon or the full moon night;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् उ॑पे॒यात् निरि॑न्द्रियस् स्यात् ।  
+य᳓द् उपेया᳓त् नि᳓रिन्द्रियस् स्यात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -724,9 +723,9 @@ if one were to do so, one would be impotent.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑स्य॒ वै राज्ञो॑ ऽर्धमा॒सस्य॒  
-रात्र॑य॒ᳶ पत्न॑य आसन् ।  
-तासा॑म् अमावा॒स्या॑ञ् च पौर्णमा॒सीञ् च॒ नोपै॑त् ।  
+सो᳓मस्य वै᳓ रा᳓ज्ञो ऽर्धमास᳓स्य  
+रा᳓त्रयᳶ प᳓त्नय आसन् ।  
+ता᳓साम् अमावास्या᳙ञ् च पौर्णमासी᳓ञ् च नो᳓पैत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -755,8 +754,8 @@ of these be did not approach the new moon night and the full moon night [4].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते+++(←द्विवचनत्वात् न सन्धिः)+++ ए॑नम् अ॒भि सम॑नह्येताम् ।   
-तय्ँ यक्ष्म॑ आर्च्छत्।
+ते᳓+++(←द्विवचनत्वात् न सन्धिः)+++ एनम् अभि᳓ स᳓मनह्येताम् ।   
+तय्ँ᳓ य᳓क्ष्म आर्च्छत्।
 </details>
 
 <details><summary>Keith</summary>
@@ -796,12 +795,12 @@ They grasped him about, and illness seized him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"राजा॑नय्ँ॒ यक्ष्म॑ **आर॒द्**" इति॒ ..  
-तद् रा॑ज-य॒क्ष्मस्य॒ जन्म॒,  
-यत् पापी॑या॒न् अभ॑व॒त्  
-तत् पा॑प-य॒क्ष्मस्य॒,  
-यज् जा॒याभ्या॒म् अवि॑न्द॒त्  
-तज् जा॒येन्य॑स्य।
+"रा᳓जानय्ँ य᳓क्ष्म **आरद्**" इ᳓ति ..  
+त᳓द् राज-यक्ष्म᳓स्य ज᳓न्म,  
+य᳓त् पा᳓पीयान् अ᳓भवत्  
+त᳓त् पाप-यक्ष्म᳓स्य,  
+य᳓ज् जाया᳓भ्याम् अ᳓विन्दत्  
+त᳓ज् जाये᳓न्यस्य।
 </details>
 
 <details><summary>Keith</summary>
@@ -832,8 +831,8 @@ that is (the origin) of the 'wife's disease' (Jayenya),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वम् ए॒तेषाय्ँ॒ यक्ष्मा॑णा॒ञ् जन्म॒ वेद॒   
-नैन॑मे॒ते यक्ष्मा॑ विन्दन्ति ।+++(4)+++  
+य᳓ एव᳓म् एते᳓षाय्ँ य᳓क्ष्माणाञ् ज᳓न्म वे᳓द   
+नै᳓नमेते᳓ य᳓क्ष्मा विन्दन्ति ।+++(4)+++  
 </details>
 
 <details><summary>Keith</summary>
@@ -865,7 +864,7 @@ these illnesses do not visit.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॒ते ए॒व न॑म॒स्यन्न् उपा॑धावत् ।   
+स᳓ एते᳓ एव᳓ नमस्य᳓न्न् उ᳓पाधावत् ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -890,13 +889,13 @@ He ran up to these two in reverence;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते **अ॑ब्रूताव्ँ॒**  
+ते᳓ **अब्रूताव्ँ**  
 
-> वरव्ँ॑ **वृणावहै** ।   
-आ॒वन् दे॒वाना॑म् **भाग॒-धे अ॑साव** ।  
-आ॒वद् अधि॑ दे॒वा इ॑ज्यान्ता॒
+> व᳓रव्ँ **वृणावहै** ।   
+आव᳓न् देवा᳓नाम् **भाग-धे᳓ असाव** ।  
+आव᳓द् अ᳓धि देवा᳓ इज्यान्ता
 
-इति॑ ।
+इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -939,12 +938,12 @@ they said,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑त् स॒दृशी॑नाँ॒ रात्री॑णाम्  
-अमावा॒स्या॑याञ्च पौर्णमा॒स्याञ्च॑  
-दे॒वा इ॑ज्यन्ते   
-ए॒ते हि दे॒वाना॑म् भाग॒-धे   
-भा॒ग॒-धा अ॑स्मै मनु॒ष्या॑ भवन्ति॒,  
-य ए॒वव्ँ वेद॑   
+त᳓स्मात् सदृ᳓शीनाँ रा᳓त्रीणाम्  
+अमावास्या᳙याञ्च पौर्णमास्या᳓ञ्च  
+देवा᳓ इज्यन्ते   
+एते᳓ हि᳓ देवा᳓नाम् भाग-धे᳓   
+भाग-धा᳓ अस्मै मनुष्या᳙ भवन्ति,  
+य᳓ एवव्ँ᳓ वे᳓द   
 </details>
 
 <details><summary>Keith</summary>
@@ -983,11 +982,11 @@ Men appoint portions to him who knows thus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भू॒तानि॒ क्षुध॑म् अघ्नन्थ्
-स॒द्यो म॑नु॒ष्या॑  
-अर्धमा॒से दे॒वा  
-मा॒सि पि॒तर॑स्  
-सव्ँवत्स॒रे वन॒स्पत॑यः
+भूता᳓नि क्षु᳓धम् अघ्नन्थ्
+सद्यो᳓ मनुष्या᳙  
+अर्धमासे᳓ देवा᳓  
+मासि᳓ पित᳓रस्  
+सव्ँवत्सरे᳓ व᳓नस्प᳓तयः
 </details>
 
 <details><summary>Keith</summary>
@@ -1025,10 +1024,10 @@ trees in a year.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् अह॑र्-अहर् मनु॒ष्या॑ अश॑नम् इच्छन्ते,  
-ऽर्धमा॒से दे॒वा इ॑ज्यन्ते,  
-मा॒सि पि॒तृभ्य॑ᳵ क्रियते,  
-सव्ँवत्स॒रे वन॒स्पत॑य॒ᳶ फल॑ङ् गृह्णन्ति
+त᳓स्माद् अ᳓हर्-अहर् मनुष्या᳙ अ᳓शनम् इच्छन्ते,  
+ऽर्धमासे᳓ देवा᳓ इज्यन्ते,  
+मासि᳓ पितृ᳓भ्यᳵ क्रियते,  
+सव्ँवत्सरे᳓ व᳓नस्प᳓तयᳶ फ᳓लङ् गृह्णन्ति
 </details>
 
 <details><summary>Keith</summary>
@@ -1068,8 +1067,8 @@ in a year trees produce fruit.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वेद॒  
-हन्ति॒ क्षुध॒म् भ्रातृ॑व्यम् ॥ 
+य᳓ एवव्ँ᳓ वे᳓द  
+ह᳓न्ति क्षु᳓धम् भ्रा᳓तृव्यम् ॥ 
 </details>
 
 <details><summary>Keith</summary>

@@ -1,6 +1,5 @@
 +++
 title = "०९ चतूरात्रस्य जामदग्न्यस्य विधिः"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -22,10 +21,10 @@ title = "०९ चतूरात्रस्य जामदग्न्यस
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज॒मद॑ग्नि॒ᳶ पुष्टि॑कामश् चतूरा॒त्रेणा॑यजत ।  
-स ए॒तान् पोषाँ॑ अपुष्यत् ।  
-तस्मा॑त् +++(पितापुत्रौ वृद्धाविव केशैः)+++ पलि॒तौ जाम॑दग्नियौ॒ न सञ्जा॑नाते+++(=सञ्जायेते / ज्ञायेते ऽद्यापि, एकतरो भवति चेदपि नेतरः)+++ ।+++(५)+++  
-ए॒तान् ए॒व पोषा॑न् पुष्यति॒ , य ए॒वव्ँ वि॒द्वाँश् च॑तूरा॒त्रेण॒ यज॑ते ।
+जम᳓दग्निᳶ पु᳓ष्टिकामश् चतूरात्रे᳓णायजत ।  
+स᳓ एता᳓न् पो᳓षाँ अपुष्यत् ।  
+त᳓स्मात् +++(पितापुत्रौ वृद्धाविव केशैः)+++ पलितौ᳓ जा᳓मदग्नियौ न᳓ स᳓ञ्जानाते+++(=सञ्जायेते / ज्ञायेते ऽद्यापि, एकतरो भवति चेदपि नेतरः)+++ ।+++(५)+++  
+एता᳓न् एव᳓ पो᳓षान् पुष्यति , य᳓ एवव्ँ᳓ विद्वाँ᳓श् चतूरात्रे᳓ण य᳓जते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -50,7 +49,7 @@ Jamadagni desiring prosperity, sacrificed with the four-night rite.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॒तान्पोषाँ॑ अपुष्यत् ।
+स᳓ एता᳓न्पो᳓षाँ अपुष्यत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -62,6 +61,7 @@ He prospered therein,
 
 स ए॒तान्पोषाँ॑ अपुष्यत् ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सः । ए॒तान् । पोषान्॑ । अ॒पु॒ष्य॒त् ।     
@@ -79,7 +79,7 @@ He prospered therein,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑त् पलि॒तौ जाम॑दग्नियौ॒ न सञ्जा॑नाते ।
+त᳓स्मात् पलितौ᳓ जा᳓मदग्नियौ न᳓ स᳓ञ्जानाते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -104,8 +104,8 @@ and accordingly the two descendants of Jamadagni are not seen as grey-haired.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ताने॒व पोषा॑न् पुष्यति॒ ,
-य ए॒वव्ँ वि॒द्वाँश्च॑तूरा॒त्रेण॒ यज॑ते ।
+एता᳓नेव᳓ पो᳓षान् पुष्यति ,
+य᳓ एवव्ँ᳓ विद्वाँ᳓श्चतूरात्रे᳓ण य᳓जते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -138,7 +138,7 @@ That prosperity is his who knowing thus offers the four-night rite.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुरोडा॒शिन्य॑ +++(१२)+++ उप॒सदो॑ भवन्ति ।
+पु᳓रो᳓डाशि᳓न्य +++(१२)+++ उपस᳓दो भवन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -150,6 +150,7 @@ On the Upasads offerings of the sacrificial cake are made.
 
 पु॒रो॒डा॒शिन्य॑ उप॒सदो॑ भवन्ति ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 पु॒रो॒डा॒शिन्यः॑ । उ॒प॒सद॒ इत्यु॑प-सदः॑ । भ॒व॒न्ति॒ ।   
@@ -160,10 +161,9 @@ On the Upasads offerings of the sacrificial cake are made.
 2पुरोडाशिन्य इत्यादि ॥ अत्रोक्तमाचार्येण - 'आग्नेय एककपालः आश्विनो द्विकपालः वैष्णवस्त्रिकपालः सौम्यश्चतुष्कपालः सावित्रः पञ्चकपालो धात्रष्षट्कपालः मारुतस्सप्तकपालः बार्हस्पत्योष्टाकपालः मैत्रो नवकपालो वारुणो दशकपाल ऐन्द्वाग्न एकादशकपालो वैश्वदेवो द्वादशकपालो दर्विहोमा भवन्ति' इति । एवमौत्तर्ययुक्ता द्वादशोपसदो भवन्तीति ।
 </details>
 
- 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒शवो॒ वै पु॑रोडाशः॑ । प॒शून् ए॒वाव॑ रुन्धे ।  
+पश᳓वो वै᳓ पुरो᳓डा᳓शः । पशू᳓न् एवा᳓व रुन्धे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -173,7 +173,7 @@ The sacrificial cake is cattle; verily he wins cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्नव्ँ॒ वै पु॑रो॒डाशः । अन्न॑म् ए॒वाव॑ रुन्धे ।  
+अ᳓न्नव्ँ वै᳓ पुरोडा᳓शः᳓ । अ᳓न्नम् एवा᳓व रुन्धे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -183,7 +183,7 @@ The sacrificial cake is food; verily he wins food.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्ना॒दᳶ प॑शु॒मान् भ॑वति,  य ए॒वव्ँ वि॒द्वाँश् च॑तूरा॒त्रेण॒ यज॑ते ॥ [35]
+अन्नादᳶ᳓ पशुमा᳓न् भवति,  य एवव्ँ᳓ विद्वाँ᳓श् चतूरात्रे᳓ण य᳓जते ॥ [35]
 </details>
 
 <details><summary>Keith</summary>
@@ -218,4 +218,3 @@ An eater of food and owner of cattle he becomes who knowing thus offers the four
 
 TODO
 </details>
-

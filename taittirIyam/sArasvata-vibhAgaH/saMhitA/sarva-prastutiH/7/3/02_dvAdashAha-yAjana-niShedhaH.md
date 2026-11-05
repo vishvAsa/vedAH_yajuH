@@ -1,12 +1,11 @@
 +++
 title = "०२ द्वादशाह-याजन-निषेधः"
-
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वा॒दिनो॑ वदन्ति॒ -  
-किन् द्वा॑दशा॒हस्य॑ प्रथ॒मेनाह्न॒र्त्विजाय्ँ॒ यज॑मानो वृङ्क्त॒ इति॑ ।
+ब्रह्मवादि᳓नो वदन्ति -  
+कि᳓न् द्वादशाह᳓स्य प्रथमे᳓ना᳓ह्नर्त्वि᳓जाय्ँ य᳓जमानो वृङ्क्त इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -16,7 +15,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेज॑ इन्द्रि॒यम् इति॑  ।
+ते᳓ज इन्द्रिय᳓म् इ᳓ति  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -24,11 +23,9 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 'Brilliance and power' is (the answer).
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किन् द्वि॒तीये॒नेति॑ ।
+कि᳓न् द्विती᳓येने᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -38,7 +35,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णान् अ॒न्नाद्य॒म्+++(=अन्नस्यादनं)+++ इति॑ ।
+प्राणा᳓न् अन्ना᳓द्यम्+++(=अन्नस्यादनं)+++ इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -48,7 +45,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किन् तृ॒तीये॒नेति॑ ।
+कि᳓न् तृती᳓येने᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -58,7 +55,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रीन् इ॒माल्ँ लो॒कान् इति॑ ।
+त्री᳓न् इमाल्ँ᳓ लोका᳓न् इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -68,7 +65,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किञ् च॑तु॒र्थेनेति॑ ।
+कि᳓ञ् चतुर्थे᳓ने᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -78,7 +75,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चतु॑ष्पदᳶ प॒शून् इति॑ ।
+च᳓तुष्पदᳶ पशू᳓न् इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -88,7 +85,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किम् प॑ञ्च॒मेनेति॑ ।
+कि᳓म् पञ्चमे᳓ने᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -98,7 +95,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्चा॑क्षराम् प॒ङ्क्तिम् इति॑ ।
+प᳓ञ्चाक्षराम् पङ्क्ति᳓म् इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -108,7 +105,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किँ ष॒ष्ठेनेति॑ ।
+किँ᳓ षष्ठे᳓ने᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -118,7 +115,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-षड् ऋ॒तून् इति॑ ।
+ष᳓ड् ऋतू᳓न् इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -128,7 +125,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किँ स॑प्त॒मेनेति॑ ।
+किँ᳓ सप्तमे᳓ने᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -138,7 +135,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्तप॑दाँ॒ शक्व॑री॒म् इति॑ [5] ।
+सप्त᳓पदाँ श᳓क्वरीम् इ᳓ति [5] ।
 </details>
 
 <details><summary>Keith</summary>
@@ -148,7 +145,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किम् अ॑ष्ट॒मेनेति॑ ।
+कि᳓म् अष्टमे᳓ने᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -158,7 +155,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ष्टाक्ष॑राङ् गाय॒त्रीम् इति॑ ।
+अष्टा᳓क्षराङ् गायत्री᳓म् इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -168,7 +165,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किन् न॑व॒मेनेति॑ ।
+कि᳓न् नवमे᳓ने᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -178,7 +175,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रि॒वृतँ॒ स्तोम॒म् इति॑ ।
+त्रिवृ᳓तँ स्तो᳓मम् इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -188,7 +185,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किन् द॑श॒मेनेति॑ ।
+कि᳓न् दशमे᳓ने᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -198,7 +195,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दशा॑क्षराव्ँ वि॒राज॒म् इति॑ ।
+द᳓शाक्षराव्ँ विरा᳓जम् इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -208,7 +205,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किम् ए॑काद॒शेनेति॑ ।
+कि᳓म् एकादशे᳓ने᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -218,7 +215,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एका॑दशाक्षरान् त्रि॒ष्टुभ॒म् इति॑ ।
+ए᳓कादशाक्षरान् त्रिष्टु᳓भम् इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -228,7 +225,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किन् द्वा॑द॒शेनेति॑ ।
+कि᳓न् द्वादशे᳓ने᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -238,7 +235,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वाद॑शाक्षरा॒ञ् जग॑ती॒म् इति॑ ।
+द्वा᳓दशाक्षराञ् ज᳓गतीम् इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -248,7 +245,7 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ताव॒द् वा अ॑स्ति॒ याव॑द् ए॒तत् ।
+एता᳓वद् वा᳓ अस्ति या᳓वद् एत᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -258,13 +255,10 @@ So much is there as that.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याव॑द् ए॒वास्ति॒ तद् ए॑षाव्ँ वृङ्क्ते ॥ [6]
+या᳓वद् एवा᳓स्ति त᳓द् एषाव्ँ वृङ्क्ते ॥ [6]
 </details>
 
 <details><summary>Keith</summary>
 
 So much as that he takes from them.
 </details>
-
-
-

@@ -15,7 +15,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒चस्पत॑ये पवस्व वाजिन् ।
+वाच᳓स्प᳓तये पवस्व वाजिन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -41,7 +41,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृषा॒ वृष्णो॑ अँ॒शुभ्या॒ङ्+++(=काण्डाभ्यां)+++ गभ॑स्ति+++(=बाहु|किरण)+++-पूतः ।
+वृ᳓षा वृ᳓ष्णो अँशु᳓भ्याङ्+++(=काण्डाभ्यां)+++ ग᳓भस्ति+++(=बाहु|किरण)+++-पूतः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -68,8 +68,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वो दे॒वाना॑म् प॒वित्र॑म् असि;    
-येषा॑म् भा॒गो ऽसि॒, तेभ्य॑स् त्वा  +++(गृण्हामि)+++ ।
+देवो᳓ देवा᳓नाम् पवि᳓त्रम् अ᳓सि᳓;    
+ये᳓षाम् भागो᳓ ऽसि, ते᳓भ्यस् त्वा  +++(गृण्हामि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -94,11 +94,10 @@ _______
 4प्रतिप्रस्थातुर् हस्ताद् ग्रहम् आदत्ते - स्वां कृतोसीति ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/svAnkRtosi.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/svAnkRtosi.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाङ्-कृ॑तोऽसि।
+स्वा᳓ङ्-कृतोऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -124,7 +123,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॑मतीर् न॒ इष॑स् कृधि ।
+म᳓धुमतीर् न इ᳓षस् कृधि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -150,7 +149,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वे॑भ्यस् त्वेन्द्रि॒येभ्यो॑ दि॒व्येभ्य॒ᳶ पार्थि॑वेभ्यः ।
+वि᳓श्वेभ्यस् त्वेन्द्रिये᳓भ्यो दिव्ये᳓भ्यᳶ पा᳓र्थिवेभ्यः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -178,7 +177,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मन॑स् त्वा ऽष्टु+++(←अश्)+++।
+म᳓नस् त्वा ऽष्टु+++(←अश्)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -214,7 +213,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒र्व् अ᳙न्तरि॑क्ष॒म् अन्वि॑हि ।  
+उर्व् अ᳙न्तरि᳓क्षम् अन्वि᳓हि ।  
 +++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
 </details>
 
@@ -262,7 +261,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा॑ त्वा सुभव॒स्! सूर्या॑य
+स्वा᳓हा त्वा सुभवस्! सू᳓र्याय
 </details>
 
 <details><summary>Keith</summary>
@@ -288,7 +287,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वेभ्य॑स् त्वा मरीचि॒पेभ्यः॑।
+देवे᳓भ्यस् त्वा मरीचिपे᳓भ्यः।
 </details>
 
 <details><summary>Keith</summary>
@@ -314,7 +313,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनिः॑ ।
+एष᳓ ते यो᳓निः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -331,7 +330,6 @@ This is thy birthplace;
 
 हे उपांशुसंस्राव एष आग्रयणस्थाल्याख्यस्ते तव योनिः स्थानम्, यत्र निहितस्त्वं यागसिद्ध्यै सम्पत्स्यसे । अतस्तं प्रविशेति शेषः ॥
 </details>
-
 </div>  
 
 _______
@@ -342,7 +340,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णाय॑ त्वा ॥ [3]  
+प्राणा᳓य त्वा ॥ [3]  
 </details>
 
 <details><summary>Keith</summary>

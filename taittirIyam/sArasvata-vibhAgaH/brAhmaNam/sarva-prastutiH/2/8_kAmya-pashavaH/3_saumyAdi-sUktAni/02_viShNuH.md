@@ -1,6 +1,5 @@
 +++
 title = "०२ विष्णुः"
-
 +++
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -14,18 +13,28 @@ title = "०२ विष्णुः"
 
 विष्णो॒र्नुक॒न्, तद॑स्य प्रि॒यम् । प्र तद्विष्णुः॑ ।
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/01_viShNornu_kaM.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
-वि᳓ष्णोर् नु᳓कव्ँ वीर्या᳙णि **प्र᳓ वोचय्ँ**  
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/01_viShNornu_kaM.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
+
+वि᳓ष्णोर् नु᳓कव्ँ+++(=शीघ्रं)+++ वीर्या᳙णि **प्र᳓ वोचय्ँ**  
 यᳶ᳓ पा᳓र्थिवानि **विममे᳓** र᳓जाँसि।  
 यो᳓ **अ᳓स्कभायद्** उ᳓त्तरँ सध᳓स्थव्ँ +++(अन्तरिक्षम्)+++  
 **विचक्रमाण᳓स्** त्रेधो᳓रु-गायः᳓+++(=गीतः/‌गतिः)+++ ॥
 
 </details>
 </div>
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/01_viShNornu_kaM.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/154/01_viShNornu_kaM.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+विष्णो॒र्नु कं॑ वी॒र्या॑णि॒ प्र वो॑चं॒ यः पार्थि॑वानि विम॒मे रजां॑सि ।  
+यो अस्क॑भाय॒दुत्त॑रं स॒धस्थं॑ विचक्रमा॒णस्त्रे॒धोरु॑गा॒यः ॥
+</details>
+</div>
+
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/01_viShNornu_kaM.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -110,13 +119,13 @@ vicakramāṇáḥ ← √kramⁱ- (root)
 
 <details><summary>पद-पाठः</summary>
 
-विष्णोः॑ । नु । क॒म् । वी॒र्या॑णि । प्र । वो॒च॒म् । यः । पार्थि॑वानि । वि॒ऽम॒मे । रजां॑सि ।  
-यः । अस्क॑भायत् । उत्ऽत॑रम् । स॒धऽस्थ॑म् । वि॒ऽच॒क्र॒मा॒णः । त्रे॒धा । उ॒रु॒ऽगा॒यः ॥
+वि᳓ष्णोः । नु᳓ । कम् । वीर्या᳙णि । प्र᳓ । वोचम् । यः᳓ । पा᳓र्थिवानि । विऽममे᳓ । र᳓जांसि ।  
+यः᳓ । अ᳓स्कभायत् । उ᳓त्ऽतरम् । सध᳓ऽस्थम् । विऽचक्रमाणः᳓ । त्रेधा᳓ । उरुऽगायः᳓ ॥
 </details>
 
 <details><summary>पद-पाठः-तैत्तिरीयः</summary>
 
-विष्णोः॑ । नुक॑म् । वी॒र्या॑णि । प्रेति॑ । वो॒च॒म् । यः । पार्थि॑वानि । वि॒म॒म इति॑ वि-म॒मे । रजाँ॑सि । यः । अस्क॑भायत् । उत्त॑र॒मित्युत्-त॒र॒म् । स॒धस्थ॒मिति॑ स॒ध-स्थ॒म् । वि॒च॒क्र॒मा॒ण इति॑ वि-च॒क्र॒मा॒णः । त्रे॒धा । उ॒रु॒गा॒य इत्यु॑रु-गा॒यः । 
+वि᳓ष्णोः । नु᳓कम् । वीर्या᳙णि । प्रे᳓ति । वोचम् । यः᳓ । पा᳓र्थिवानि । विमम᳓ इ᳓ति वि-ममे᳓ । र᳓जाँसि । यः᳓ । अ᳓स्कभायत् । उ᳓त्तरमि᳓त्यु᳓त्-तरम् । सध᳓स्थमि᳓ति सध᳓-स्थम् । विचक्रमाण᳓ इ᳓ति वि-चक्रमाणः᳓ । त्रेधा᳓ । उरुगाय᳓ इ᳓त्युरु-गायः᳓ । 
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -238,9 +247,19 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। पार्थिवानि- पृथिवीसंबन्धिनः। रजांसि- लोकान्। विममे- विशेषेण निर्ममे। यः। उरुगायः-  पुरुधा सामभिर्गायमानः। त्रेधा विचक्रमाणः- त्रिविक्रमः। उत्तरं सधस्थम्- अन्तरिक्षमपि।  अस्कभायत्- स्तम्भितवान्निर्ममे। विष्णोः- तस्य व्यापनशीलस्यान्तर्यामिणः। विष्लृ व्याप्तौ। विश  प्रवेशने। नु- क्षिप्रम्। वीर्याणि। कम्- सुखेन। प्र वोचम्- प्रब्रवीमि॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे नराः **विष्णोः** व्यापनशीलस्य देवस्य **वीर्याणि** वीरकर्माणि **नु** **कम्** अतिशीघ्रं **प्र** **वोचम्** प्रब्रवीमि । अत्र यद्यपि नु कम् इति पदद्वयं तथापि यास्केन ' नवोत्तराणि पदानि ' (नि. ३. १३ ) इत्युक्तत्वात् शाखान्तरे एकत्वेन पाठाच्च नु इत्येतस्मिन्नेवार्थे नु कम् इति पदद्वयम् । कानि तानीति तत्राह । **यः** विष्णुः **पार्थिवानि** पृथिवीसंबन्धीनि **रजांसि** रञ्जनात्मकानि क्षित्यादिलोकत्रयाभिमानीनि अग्निवाय्वादित्यरूपाणि रजांसि **विममे** विशेषेण निर्ममे । अत्र त्रयो लोका अपि पृथिवी शब्दवाच्याः । तथा च मन्त्रान्तरं -- यदिन्द्राग्नी अवमस्यां पृथिव्यां मध्यमस्यां परमस्यामुत स्थः ( ऋ. सं. १. १०८.९) इति। तैत्तिरीयेऽपि - योऽस्यां पृथिव्यामस्यायुषा' इत्युपक्रम्य ‘यो द्वितीयस्यां तृतीयस्यां पृथिव्याम्' (तै. सं. १. २. १२. १ ) इति । तस्मात् लोकत्रयस्य पृथिवीशब्दवाच्यत्वम् । किंच **यः** च विष्णुः **उत्तरम्** उद्गततरमतिविस्तीर्णं **सधस्थं** सहस्थानं लोकत्रयाश्रयभूतमन्तरिक्षम् **अस्कभायत्** तेषामाधारत्वेन स्तम्भितवान् निर्मितवानित्यर्थः । अनेन अन्तरिक्षाश्रितं लोकत्रयमपि सृष्टवानित्युक्तं भवति । यद्वा । यो विष्णुः पार्थिवानि पृथिवीसंबन्धीनि रजांसि पृथिव्या अधस्तनसप्तलोकान् विममे विविधं निर्मितवान् । रजःशब्दो लोकवाची,  ‘ लोका रजांस्युच्यन्ते । इति यास्केनोक्तत्वात् । किंच यश्चोत्तरम् उद्गततरम् उत्तरभाविनं सधस्थं सहस्थानं पुण्यकृतां सहनिवासयोग्यं भूरादिलोकसप्तकम् अस्कभायत् स्कम्भितवान् सृष्टवानित्यर्थः ॥ स्कम्भेः 'स्तम्भुस्तुम्भु  इति विहितस्य श्नः छन्दसि शायजपि' इति व्यत्ययेन शायजादेशः ॥ अथवा पार्थिवानि पृथिवीनिमित्तकानि रजांसि लोकान् विममे । भूरादिलोकत्रयमित्यर्थः । भूम्याम् उपार्जितकर्मभोगार्थत्वात् इतरलोकानां तत्कारणत्वम्। किंच यश्चोत्तरम् उत्कृष्टतरं सर्वेषां लोकानामुपरिभूतम् । अपुनरावृत्तेः तस्योत्कृष्टत्वम् । सधस्थम् उपासकानां सहस्थानं सत्यलोकमस्कभायत् स्कम्भितवान् ध्रुवं स्थापितवानित्यर्थः । किं कुर्वन् । **त्रेधा** **विचक्रमाणः** त्रिप्रकारं स्वसृष्टान् लोकान्विविधं क्रममाणः । विष्णोस्त्रेधा क्रमणम् इदं विष्णुर्वि चक्रमे ' ( ऋ. सं. १, २२, १७ ) इत्यादिश्रुतिषु प्रसिद्धम् । अत एव **उरुगायः** उरुभिः महद्भिः गीयमानः अतिप्रभूतं गीयमानो वा । य एवं कृतवान् तादृशस्य विष्णोर्वीर्याणि प्र वोचम् ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+नुकम् इत्य् अव्ययं कर्म-वाचकम्। विष्णोर् वीर्याणि कर्माणि प्रवोचं ब्रवीमि। कानि कर्माणि। यो विष्णुः पार्थिवानि रजांसि परमाणून् विममे निर्मितवान् परिगणितवांश् च। पुनरपि यो विष्णुर् उत्तरम् उपरि-वर्ति सधस्थं देवानां सह वास-स्थानं द्यु-लोकम् अस्कभयात्, यथा ऽधो न पतति तथा स्तम्भितवान्। पुनरपि यस् त्रेधा विचक्रमाणस् त्रिषु लोकेषु पद-त्रयं निदधौ, उरुभिर् महात्मभिर् गीयते च।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -250,6 +269,41 @@ _________
 किञ्च - **य उत्तरं सधस्थं** संस्थानं सर्वेषाम् अन्तरिक्षम् । 'सुपि स्थः' इति कः । 'सधमाधस्थयोः' इति सधादेश । तद् **अस्कभायत्** अस्तम्भयत् अधारयत् । अस्कभ्नाद् इति वक्तव्ये 'स्तन्भुस्तुन्भुस्कन्भुस्कुन्भुस्कुञ्भ्यः श्नुश्च' इति श्नाप्रत्ययः । 'छन्दसि शायजपि' इति व्यत्ययेन हेरभावेपि श्नश्शायजादेशः ।
 
 किं कुर्वन्न् इत्य् आह – **विचक्रमाणस् त्रेधा** त्रिषु लोकेषु विभज्य क्रममाणः पदत्रयं कुर्वन् । लिटः कानजादेशः । **उरुगायः** उरुभिर् महात्मभिर् गायत इति उरुगायः । कै गै शब्दे, घञि 'आतो युक्चिण्कृतोः' इति युक्, थाथादिना उत्तरपदान्तोदात्तत्वम् । यद्वा - उरुभिर् गन्तव्यः । गाङ् गतौ । य इत्थमित्थमकरोत्तस्य विष्णोर्वीर्यार्णि प्रवोचम् स मेधीदार्ढ्यं करोत्विति ॥
+</details>
+
+<details><summary>उत्तमूर्-वीर-राघवः</summary>
+
+वेद-भाष्ये,  
+
+> "यः पृथिवी-विकारान् रजोमयान् लोकान् माति स्म,  
+> तस्य विष्णोर् वीर्याणि शीघ्रं प्रब्रवीमि" ('नु कम्' इति शीघ्रार्थकम्) 
+
+इत्यर्थ उक्तः ।  
+अत्र श्री-भागवत-दशम-स्कन्ध-गतम् (१०-५१),
+
+> "क्वचिद् रजांसि विममे  
+> पार्थिवान्य् उरु-जन्मभिः ।  
+> गुण-कर्माभिधानानि  
+> न मे जन्मानि कर्हिचित्"
+
+इति श्लोकम्, एकादश-स्कन्ध-गतञ्च (११-४),
+
+> "यो वा अनन्तस्य गुणान् अनन्तान्  
+> अनुक्रमिष्यन् स तु मन्द-बुद्धिः ।  
+> रजांसि भूमेर् गणयेत् कथञ्चित्  
+> कालेन नैवाखिल-शक्ति-धाम्नः"
+
+इति श्लोकम् अनुसृत्यार्थो भाव्यः ।  
+स तावद् ऋचः -  
+
+> यो ऽहं भूम्यां स्थितानि सर्वाणि रजांसि विशिष्य परिगणितवान् अस्मि,  
+> सो ऽहं शीघ्रम् अवोचम् एव तस्य विष्णोर् वीर्याणि,  
+> य उरुगायः त्रेधा विक्रान्तवान् 
+
+इत्य्-एवं-रीत्या स्यात् ।  
+यस्मात् पार्थिव-रेणु-गणनम् एव कर्तुम् अशक्तो ऽस्मि,  
+अत एव विष्णु-वीर्य-गणने ऽप्य् अशक्तः इत्यत्र तात्पर्यम् ।  
+आस्ताम् एतत् । 
 </details>
 
 <details><summary>Wilson</summary>
@@ -371,18 +425,25 @@ Des Vischnu grosse Thaten will ich preisen, der weit durchmessen hat der Erde R�
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/05_tadasya_priyamabhi.md">
-<details open><summary><h5>०५ तदस्य प्रियमभि ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/05_tadasya_priyamabhi.md">
 
 त᳓द् अस्य प्रिय᳓म् अभि᳓ पा᳓थो **अश्यां**  
 न᳓रो य᳓त्र देवय᳓वो+++(=देवकामा)+++ **म᳓दन्ति** ।  
 उरु-क्रम᳓स्य स᳓ हि᳓ ब᳓न्धुर् इत्था᳓+++(=इत्थं)+++  
 **वि᳓ष्णोः पदे᳓** परमे᳓ **म᳓ध्व उ᳓त्सः** ॥
 
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/154/05_tadasya_priyamabhi.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+तद॑स्य प्रि॒यम॒भि पाथो॑ अश्यां॒ नरो॒ यत्र॑ देव॒यवो॒ मद॑न्ति ।  
+उ॒रु॒क्र॒मस्य॒ स हि बन्धु॑रि॒त्था विष्णोः॑ प॒दे प॑र॒मे मध्व॒ उत्सः॑ ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/05_tadasya_priyamabhi.md">
-<details open><summary><h5>005 ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/05_tadasya_priyamabhi.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -613,13 +674,18 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्र। देवयवः- देवकामाः। नरः- उपासकाः। मदन्ति- तुष्यन्ति। तत्- तम्। अस्य- एतस्य।  प्रियं पाथः- प्रेममयं पदम्। अभि- अभितः। अश्याम्- व्याप्नुयाम्। इत्था- एवम्। सः- उपासकः।  उरुक्रमस्य- त्रिविक्रमस्य। बन्धुः। हि- खलु। विष्णोः- व्यापनशीलस्यान्तर्यामिणो देवस्य। परमे  पदे- उत्कृष्टस्थाने। मध्वः- माधुर्यस्य। उत्सः- निष्यन्दो भवति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अस्य** महतो विष्णोः **प्रियं** प्रियभूतं **तत्** सर्वैः सेव्यत्वेन प्रसिद्धं **पाथः** । अन्तरिक्षनामैतत्,  ‘पाथोऽन्तरिक्षं पथा व्याख्यातम्' (निरु. ६. ७) इति यास्केनोक्तत्वात्। अविनश्वरं ब्रह्मलोकमित्यर्थः। **अश्याम्** व्याप्नुयाम् । तदेव विशेष्यते । **यत्र** स्थाने **देवयवः** देवं द्योतनस्वभावं विष्णुमात्मन इच्छन्तो यज्ञदानादिभिः प्राप्तुमिच्छन्तः **नरः** **मदन्ति** तृप्तिमनुभवन्ति । तदश्यामित्यन्वयः । पुनरपि तदेव विशेष्यते । **उरुक्रमस्य** अत्यधिकं सर्वं जगदाक्रममाणस्य तत्तदात्मना अत एब **विष्णोः** व्यापकस्य परमेश्वरस्य **परमे** उत्कृष्टे निरतिशये केवलसुखात्मके **पदे** स्थाने **मध्वः** मधुरस्य **उत्सः** निष्यन्दो वर्तते । तदश्याम् । यत्र क्षुत्तृष्णाजरामरणपुनरावृत्त्यादिभयं नास्ति संकल्पमात्रेण अमृतकुल्यादिभोगा: प्राप्यन्ते तादृशमित्यर्थः। ततोऽधिकं नास्तीत्याह । **इत्था** इत्थमुक्तप्रकारेण **स** **हि** **बन्धुः** स खलु सर्वेषां सुकृतिनां बन्धुभूतो हितकरः वा तस्य पदं प्राप्तवतां न पुनरावृत्तेः ।  ‘ न च पुनरावर्तते ' इति श्रुतेस्तस्य बन्धुत्वम् । हिशब्दः सर्वश्रुतिस्मृतिपुराणादिप्रसिद्धिद्योतनार्थः ॥
 
 __________________
 
-4अथ चतुर्थीमाह - देवयवो देवानिच्छन्तो नरो यजमाना यत्र भागीरथीजले मदन्ति हृष्यन्ति । अस्य विष्णोः प्रियं तत्पाथो भागीरथीजलं अभ्यश्यां अभितो व्याप्तवान् । उरुक्रमस्य विस्तीर्णपादस्य विष्णोः परमे पदे तृतीये पादे बन्धुः संबद्धो मध्वो मधुर उत्सो भागीरथीप्रवाह इत्था हि एवंविधः । हिशब्दः सर्वलोकप्रसिद्धिद्योतनार्थः ॥
+देवयवो देवानिच्छन्तो नरो यजमाना यत्र भागीरथीजले मदन्ति हृष्यन्ति । अस्य विष्णोः प्रियं तत्पाथो भागीरथीजलं अभ्यश्यां अभितो व्याप्तवान् । उरुक्रमस्य विस्तीर्णपादस्य विष्णोः परमे पदे तृतीये पादे बन्धुः संबद्धो मध्वो मधुर उत्सो भागीरथीप्रवाह इत्था हि एवंविधः । हिशब्दः सर्वलोकप्रसिद्धिद्योतनार्थः ॥
 
 </details>
 
@@ -718,20 +784,26 @@ O möcht' ich seinen lieben Sitz erreichen, in dem die frommen Männer selig leb
 
 भावार्थभाषाः -  या मंत्रात उपमा व वाचकलुप्तोपमालंकार आहेत. जे परमेश्वराने वेदाद्वारे दिलेल्या आज्ञेप्रमाणे वागतात ते मोक्षसुख प्राप्त करतात. जसे लोक बंधूकडून साह्य प्राप्त करतात किंवा तृषार्त लोक विहिरीद्वारे मधुर जल प्राप्त करून तृप्त होतात तसे ते परमेश्वराला प्राप्त करून आनंद भोगतात. ॥ ५ ॥
 </details>
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/02_pra_tadviShNuH.md">
-<details open><summary><h5>०२ प्र तद्विष्णुः ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/02_pra_tadviShNuH.md">
 
 प्र᳓ त᳓द् वि᳓ष्णुः **स्तवते**+++(=स्तूयते)+++ वीर्ये᳙ण  
 मृगो᳓ न᳓ भीमः᳓ कुचरो᳓ गिरिष्ठाः᳓ ।  
 य᳓स्योरु᳓षु त्रिषु᳓ विक्र᳓मणेष्व्  
 **अधिक्षिय᳓न्ति** भु᳓वनानि वि᳓श्वा ॥
 
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/154/02_pra_tadviShNuH.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+प्र तद्विष्णुः॑ स्तवते वी॒र्ये॑ण मृ॒गो न भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः ।  
+यस्यो॒रुषु॑ त्रि॒षु वि॒क्रम॑णेष्वधिक्षि॒यन्ति॒ भुव॑नानि॒ विश्वा॑ ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/02_pra_tadviShNuH.md">
-<details open><summary><h5>002 ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/02_pra_tadviShNuH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -927,12 +999,17 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्य। उरुषु- विस्तृतेषु। त्रिषु। विक्रमणेषु। विश्वा भुवनानि- सर्वे लोकाः। अधिक्षियन्ति- आश्रिता  भवन्ति। तत्- सः। विष्णुः- व्यापनशीलोऽन्तर्यामी। वीर्येण- पराक्रमेण। कुचरः- वनचरः।  गिरिष्ठाः- पर्वतस्थः। मृगो न भीमः- भयङ्करः सिंह इव स्थितः। प्र- प्रकर्षेण। स्तवते-  स्तूयते॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 यस्येति वक्ष्यमाणत्वात् स इति अवगम्यते । स महानुभावः **वीर्येण** स्वकीयेन वीरकर्मणा पूर्वोक्तरूपेण **स्तवते** स्तूयते सर्वैः ॥ कर्मणि व्यत्ययेन शप् । वीर्येण स्तूयमानत्वे दृष्टान्तः । **मृगो** **न** सिंहादिरिव । यथा स्वविरोधिनो मृगयिता सिंहः **भीमः** भीतिजनकः **कुचरः** कुत्सितहिंसादिकर्ता दुर्गमप्रदेशगन्ता वा **गिरिष्ठाः** पर्वताद्युन्नतप्रदेशस्थायी सर्वैः स्तूयते । अस्मिन्नर्थे निरुक्तं - मृगो न भीमः कुचरो गिरिष्ठाः । मृग इव भीमः कुचरो गिरिष्ठा मृगो मार्ष्टेर्गतिकर्मणो भीमो बिभ्यत्यस्माद्भीष्मोऽप्येतस्मादेव । कुचर इति चरतिकर्म कुत्सितमथ चेद्देवताभिधानं क्वायं न चरतीति वा । गिरिष्ठा गिरिस्थायी गिरिः पर्वतः समुद्गीर्णो भवति पर्ववान् पर्वतः पर्व पुनः पृणातेः प्रीणातेर्वा' (निरु. १, २० ) इति । तद्वदयमपि मृगोऽन्वेष्टा शत्रूणां भीमो भयानकः सर्वेषां भीत्यपादानभूतः । परमेश्वराद्भीतिः ‘भीषास्माद्वातः पवते ' ( तै. आ. ८.८. १) इत्यादिश्रुतिषु प्रसिद्धा । किंच कुचरः शत्रुवधादिकुत्सितकर्मकर्ता कुषु सर्वासु भूमिषु लोकत्रये संचारी वा तथा गिरिष्ठाः गिरिवत् उच्छ्रितलोकस्थायी । यद्वा । गिरि मन्त्रादिरूपायां वाचि सर्वदा वर्तमानः । ईडशोऽयं स्वमहिम्ना स्तूयते । किंच **यस्य** विष्णोः **उरुषु** विस्तीर्णेषु त्रिसंख्याकेषु **विक्रमणेषु** पादप्रक्षेपेषु **विश्वा** सर्वाणि **भुवनानि** भूतजातानि **अधिक्षियन्ति** आश्रित्य निवसन्ति स विष्णुः स्तूयते ॥
 
 ________________
-10अथ दशमीमाह - तत्तस्मिन्कर्मणि यजमानानां वीर्यार्थं विष्णुः प्रस्तवते प्रकर्षेण स्तूयते । कुचरो भूमौ वर्तमानो भीमो भयंकरो मृगो न सिंहो यथोर्ध्वमुत्प्लुत्य गिरिष्ठाः पर्वतस्थो भवति, तथा यस्य विष्णोः पूर्वं वामनस्य पश्चात्त्रिविक्रमत्वं गच्छत उरुषु विस्तीर्णेषु त्रिषु विक्रमणेषु विश्वा भुवनानि सर्वे लोका अधिक्षियन्ति आधिक्येन निवसन्ति । स विष्णुः स्तूयत हति पूर्वत्रान्वयः ॥
+तत्तस्मिन्कर्मणि यजमानानां वीर्यार्थं विष्णुः प्रस्तवते प्रकर्षेण स्तूयते । कुचरो भूमौ वर्तमानो भीमो भयंकरो मृगो न सिंहो यथोर्ध्वमुत्प्लुत्य गिरिष्ठाः पर्वतस्थो भवति, तथा यस्य विष्णोः पूर्वं वामनस्य पश्चात्त्रिविक्रमत्वं गच्छत उरुषु विस्तीर्णेषु त्रिषु विक्रमणेषु विश्वा भुवनानि सर्वे लोका अधिक्षियन्ति आधिक्येन निवसन्ति । स विष्णुः स्तूयत हति पूर्वत्रान्वयः ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -1015,7 +1092,7 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
 
-अन्वय:  हे मनुष्या यस्य निर्मितेषूरुषु त्रिषु विक्रमणेषु विश्वा भुवनान्यधिक्षियन्ति तत् स विष्णुः स्ववीर्येण कुचरो गिरिष्ठा मृगो भीमो नेव विश्वाल्ँ लोकान् प्रस्तवते ॥ २ ॥
+अन्वय:  हे मनुष्या यस्य निर्मितेषूरुषु त्रिषु विक्रमणेषु विश्वा भुवनान्यधिक्षियन्ति तत् स विष्णुः स्ववीर्येण कुचरो गिरिष्ठा मृगो भीमो नेव विश्वाल्ँलोकान् प्रस्तवते ॥ २ ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
@@ -1037,23 +1114,31 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 
 भावार्थभाषाः -  कोणताही पदार्थ ईश्वर व सृष्टीच्या नियमाचे उल्लंघन करू शकत नाही, जो धार्मिक लोकांना मित्राप्रमाणे आनंद देणारा, दुष्टांना सिंहाप्रमाणे भयभीत करविणारा न्याय इत्यादी गुणांना धारण करणारा परमेश्वर आहे, तोच सर्वांचा अधिष्ठाता, न्यायाधीश आहे हे जाणले पाहिजे. ॥ २ ॥
 </details>
-</details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6अथ पुरोडाशस्य याज्यामाह - 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/099/01_paro_mAtrayA.md">
-<details open><summary><h5>०१ परो मात्रया ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/099/01_paro_mAtrayA.md">
 
 परो᳓ मा᳓त्रया तनु᳓वा वृधान  
 न᳓ ते महित्व᳓म् अ᳓नु अश्नुवन्ति  
 उभे᳓ ते विद्म र᳓जसी पृथिव्या᳓  
 वि᳓ष्णो देव त्व᳓म् परम᳓स्य वित्से
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/099/01_paro_mAtrayA.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+प॒रो मात्र॑या त॒न्वा॑ वृधान॒ न ते॑ महि॒त्वमन्व॑श्नुवन्ति ।  
+उ॒भे ते॑ विद्म॒ रज॑सी पृथि॒व्या विष्णो॑ देव॒ त्वं प॑र॒मस्य॑ वित्से ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/099/01_paro_mAtrayA.md">
-<details open><summary><h5>001 ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/099/01_paro_mAtrayA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -1282,6 +1367,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मात्रया परः- परस्ताद्वर्तमानया अपरिमितया। तन्वा। वृधान- वर्धमान। ते- तव। महित्वम्-  माहात्म्यम्। न। अन्वश्नुवन्ति- अनुव्याप्नुवन्ति। पृथिव्याः- भूम्या आरभ्य। उभे रजसी-  भूमिमन्तरिक्षम्। ते- तव। विुद्म- जानीमः। देव- द्योतनशील। विष्णो- सर्वव्यापिन्।  अन्तर्यामिन्। त्वमेव। परमस्य- तृतीयं नभः। वित्से- जानासि॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पर इति सकारान्तं परस्तादित्यस्यार्थे । परशब्दाच्छान्दसोऽसिप्रत्ययः ‘परो दिवा पर एना पृथिव्या ' (ऋ. सं. १०. ८२.५) इति यथा। मात्रयेति व्यत्ययेन तृतीया। **मात्रया** **परः** परस्ताद्वर्तमानयापरिमितया **तन्वा** शरीरेण **वृधान** वर्धमान हे विष्णो **ते** तव **महित्वं** महत्त्वं **न** **अन्वश्नुवन्ति** नानुव्याप्नुवन्ति । त्रैविक्रमसमये यत्तव माहात्म्यं तत्सर्वैरपि जनैर्ज्ञातुं न शक्यत इत्यर्थः । **ते** तव **उभे** **रजसी** उभौ लोकौ **पृथिव्याः** आरभ्य पृथिवीमन्तरिक्षं च **विद्म** जानीमः । वयं चक्षुषोपलभामहे नान्यत् । हे **देव** द्योतमान **विष्णो** **त्वम्** एव **परमस्य** स्वर्गादेरुकृष्टलोकस्य । द्वितीयार्थे षष्ठी। परमं लोकं **वित्से** जानासि । अतस्तव महत्त्वं न केनापि व्याप्तुं शक्यमिति भावः ॥
@@ -1317,7 +1407,7 @@ Renou supplies “other gods” as the subj. of ánv aśnuvanti in b. This seems
 As Renou points out, both the case of the complement (acc. versus gen.) and the voice (act. versus mid.) differ between 1st pl. vidma in c and 2nd sg. vitse in d. The middle voice of vitse makes sense, since Viṣṇu knows his own farthest realm; the variation in case is harder to account for. Perhaps the two earthly realms are subjects of direct knowledge, while the farthest realm is something even Viṣṇu only knows of.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/099/01-02.md">
-<details open><summary><h7>01-02 ...{Loading}...</h7></summary>
+<details open><summary><h7>01-02 …{Loading}…</h7></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
 The b-pādas of these two vss. are variants of each other, using two different roots for ‘attain’ (√naś, √āp) and two different formulations of ‘greatness’, the 2nd an elaboration on the first: 1b ná te mahitvám ánv aśnuvanti 2ab ná te … mahimnáḥ páram ántam āpa Another example of the freedom of RVic formulaics; see comm. ad VII.98.5 in the previous hymn for further on this.
@@ -1365,15 +1455,15 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  जीव केवल प्रत्यक्ष से लोकों को जान सकता है। सम्पूर्ण ब्रह्माण्डों का ज्ञाता एकमात्र परमात्मा है। तन्मात्रा कथन करना यहाँ प्रकृति के सूक्ष्म कार्य्यों का उपलक्षणमात्र है। तात्पर्य यह है कि प्रकृति उसके शरीरस्थानी होकर उस परमात्मा के महत्त्व को बढ़ा रही है, या यों कहो कि प्रकृत्यादि सब पदार्थ उस परमात्मा के एकदेश में हैं और वह असीम अर्थात् अवधिरहित है ॥१॥
+भावार्थभाषाः -  जीव केवल प्रत्यक्ष से लोकों को जान सकता है। सम्पूर्ण ब्रह्माण्डों का ज्ञाता एकमात्र परमात्मा है। तन्मात्रा कथन करना यहाँ प्रकृति के सूक्ष्म कार्य्यों का उपलक्षणमात्र है। तात्पर्य यह है कि प्रकृति उसके शरीरस्थानी होकर उस परमात्मा के महत्त्व को बढ़ा रही है, या यों कहो कि प्रकृत्यादि सब पदार्थ उस परमात्मा के एकदेश में हैं और वह असीम अर्थात् अवधिरहित है ॥१॥
 </details>
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मात्रया) प्रकृत्यापञ्चतन्मात्ररूपेण (तन्वा) शरीरेण (वृधानः) वृद्धिं प्राप्तं (ते) तव (महित्वम्) महिमानं (विष्णो) हे विभो ! (न) नैव (अश्नुवन्ति) प्राप्नुवन्ति, हे विभो ! (ते) तव (उभे) उभावपि लोकौ (विद्म) जानीमः यौ (पृथिव्याः) पृथिवीतः (रजसी)  अन्तरिक्षपर्यन्तौ स्तः (देव) हेदिव्यशक्तिमन् ! (त्वम्) त्वमेव (अस्य) अस्य ब्रह्माण्डस्य (परम्) पारं (वित्से) जानासि नान्यः, यतः (परः) सर्वस्मात्परोऽसि ॥१॥
 </details>
-</details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 7अथ हविषो याज्यानुवाक्ययोः प्रतीके दर्शयति - 'विचक्रमे पृथिवीमेषः' इति पुरोनुवाक्या । 'त्रिर्देवः पृथिवीमेषः' इति याज्या । एतच्चोभयं 'जुष्टो नरः' इत्यत्र व्याख्यातम् ॥
@@ -1383,18 +1473,25 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 
 विच॑क्रमे॒, त्रिर्दे॒वः ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/100/04_vi_chakrame.md">
-<details open><summary><h5>०४ वि चक्रमे ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/100/04_vi_chakrame.md">
 
 वि᳓ चक्रमे पृथिवी᳓म् एष᳓ एतां᳓  
 क्षे᳓त्राय वि᳓ष्णुर् म᳓नुषे दशस्य᳓न् ।  
 ध्रुवा᳓सो अस्य कीर᳓यो ज᳓नास  
 उरु-क्षितिं᳓ सुज᳓निमा चकार ॥
 
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/100/04_vi_chakrame.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+वि च॑क्रमे पृथि॒वीमे॒ष ए॒तां क्षेत्रा॑य॒ विष्णु॒र्मनु॑षे दश॒स्यन् ।  
+ध्रु॒वासो॑ अस्य की॒रयो॒ जना॑स उरुक्षि॒तिं सु॒जनि॑मा चकार ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/100/04_vi_chakrame.md">
-<details open><summary><h5>004 ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/100/04_vi_chakrame.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -1602,9 +1699,14 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मनुषे- मनुष्याय। दशस्यन्- यच्छन्। क्षेत्राय- भूमिकाप्राप्त्यै। एताम्- इमाम्। पृथिवीम्- भूमिम्।  विष्णुः। वि चक्रमे- विक्रान्तवान्। अस्य- एतस्य विष्णोः कल्याणगुणान्। कीरयः- कीर्तयन्तः।  जनासः- जनाः। ध्रुवासः- नित्याः स्थिराः। सुजनिमा- सुष्ठ्वाविर्भूतः। उरुक्षितिम्-  विस्तारभूमिकां स्वविक्रमेण। चकार- अकरोत्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
-**एषः** देवः **विष्णुः** **एतां** **पृथिवीं** पृथिव्यादीनिमांस्त्रील्ँ लोकान् **क्षेत्राय** निवासार्थं **मनुषे** स्तुवते देवगणाय **दशस्यन्** असुरेभ्योऽपहृत्य प्रदास्यन् **वि** **चक्रमे** विक्रान्तवान् । **अस्य** च विष्णोः **कीरयः** स्तोतारः **जनासः** जनाः **ध्रुवासः** निश्चला भवन्ति । ऐहिकामुष्मिकयोर्लाभेन स्थिरा भवन्तीत्यर्थः । **सुजनिमा** शोभनानि जनिमानि कीर्तनस्मरणादिना सुखहेतुभूतानि यस्य तादृशो विष्णुः **उरुक्षितिं** विस्तीर्णनिवासं **चकार** स्तोतृभ्यः करोति ॥
+**एषः** देवः **विष्णुः** **एतां** **पृथिवीं** पृथिव्यादीनिमांस्त्रील्ँलोकान् **क्षेत्राय** निवासार्थं **मनुषे** स्तुवते देवगणाय **दशस्यन्** असुरेभ्योऽपहृत्य प्रदास्यन् **वि** **चक्रमे** विक्रान्तवान् । **अस्य** च विष्णोः **कीरयः** स्तोतारः **जनासः** जनाः **ध्रुवासः** निश्चला भवन्ति । ऐहिकामुष्मिकयोर्लाभेन स्थिरा भवन्तीत्यर्थः । **सुजनिमा** शोभनानि जनिमानि कीर्तनस्मरणादिना सुखहेतुभूतानि यस्य तादृशो विष्णुः **उरुक्षितिं** विस्तीर्णनिवासं **चकार** स्तोतृभ्यः करोति ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -1633,10 +1735,10 @@ By concentrating Viṣṇu’s strides in the first pāda of 4, the poet is free
 -- in the rest of the vs. As Geldner points out (n. 4c), asya can refer either to Viṣṇu or to Manu, although in actuality this may not matter. It may be an instance of “trickle-down” ownership: Viṣṇu makes a dwelling place for Manu, and in turn Manu’s people also get firmly planted. Or, Manu and the people may both be under Viṣṇu’s auspices.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
-<details open><summary><h7>03-04 ...{Loading}...</h7></summary>
+<details open><summary><h7>03-04 …{Loading}…</h7></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
-As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
+As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
 </details>
 </details>
 </div>
@@ -1681,7 +1783,7 @@ Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnu
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (विष्णुः) व्यापक पमेश्वर ने (मनुषे) मनुष्य के (क्षेत्राय) अभ्युदय (दशस्यन्) देने के लिये (पृथिवीम्,एतां) इस पृथिवी को (विचक्रमे) रचा, जिससे (अस्य) इस परमात्मा के कीर्तन करनेवाले (जनासः) भक्त लोग (धुवासः) दृढ़ हो गए, क्योंकि (उरुक्षितिं) इस विस्तृत क्षेत्ररूप पृथिवी को (सुजनिमा) सुन्दर प्रादुर्भाववाले ब्रह्माण्डपति परमात्मा ने (चकार) रचा है॥४॥
+पदार्थान्वयभाषाः -  (विष्णुः) व्यापक पमेश्वर ने (मनुषे) मनुष्य के (क्षेत्राय) अभ्युदय (दशस्यन्) देने के लिये (पृथिवीम्,एतां) इस पृथिवी को (विचक्रमे) रचा, जिससे (अस्य) इस परमात्मा के कीर्तन करनेवाले (जनासः) भक्त लोग (धुवासः) दृढ़ हो गए, क्योंकि (उरुक्षितिं) इस विस्तृत क्षेत्ररूप पृथिवी को (सुजनिमा) सुन्दर प्रादुर्भाववाले ब्रह्माण्डपति परमात्मा ने (चकार) रचा है॥४॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
@@ -1698,19 +1800,26 @@ Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnu
 
 पदार्थान्वयभाषाः -  (विष्णुः) व्यापक ईश्वरः (मनुषे, क्षेत्राय, दशस्यन्) मनुष्याय क्षेत्रं दित्सन् (पृथिवीम्, एताम्, विचक्रमे) इमां भुवं कृतवान्, यतः (अस्य) अस्य परमात्मनः (कीरयः) स्तोतारः (जनासः) भक्ताः (ध्रुवासः) दृढा अभवन् यतः (उरुक्षितिम्) विस्तृतां पृथिवीं (सुजनिमा) सर्वाङ्गशोभनां (चकार) कृतवान् ॥४॥
 </details>
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/100/03_trirdevaH_pRthivImeSha.md">
-<details open><summary><h5>०३ त्रिर्देवः पृथिवीमेष ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/100/03_trirdevaH_pRthivImeSha.md">
 
 त्रि᳓र् देवः᳓ · पृथिवी᳓म् एष᳓ एतां᳓  
 वि᳓ चक्रमे शत᳓र्चसम् महित्वा᳓  
 प्र᳓ वि᳓ष्णुर् अस्तु तव᳓सस् त᳓वीयान्  
 त्वेषं᳓ हि᳓ अस्य स्थ᳓विरस्य ना᳓म
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/100/03_trirdevaH_pRthivImeSha.md">
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+त्रिर्दे॒वः पृ॑थि॒वीमे॒ष ए॒तां वि च॑क्रमे श॒तर्च॑सं महि॒त्वा ।  
+प्र विष्णु॑रस्तु त॒वस॒स्तवी॑यान्त्वे॒षं ह्य॑स्य॒ स्थवि॑रस्य॒ नाम॑ ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/100/03_trirdevaH_pRthivImeSha.md">
-<details open><summary><h5>003 ...{Loading}...</h5></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/100/03_trirdevaH_pRthivImeSha.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -1925,9 +2034,14 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देवः- द्योतकः। एषः- अयं विष्णुः। महित्वा- स्वमाहात्म्येन। शतर्चसम्- अनन्तप्रकाशाम्।  पृथिवीम्- भूमिम्। त्रिः- त्रिधा। वि चक्रमे- विक्रान्तवान्। विष्णुः। तवसस्तवीयान्- प्रवृद्धेषु  प्रवृद्धः। अस्तु- भवतु। अस्य- एतस्य। स्थविरस्य- प्रवृद्धस्य। नाम। त्वेषम्- दीप्तम्॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
-**एषः** **देवः** दानादिगुणयुक्तो विष्णुः **शतर्चसं** शतसंख्यान्यर्चींषि यस्यास्तादृशम् **एतां** **पृथिवीम्** । उपलक्षणमेतत् । पृथिव्यादींस्त्रील्ँ लोकान् महित्वा महत्त्वेन **त्रिः** **वि** **चक्रमे** त्रिभिः पदैर्विक्रान्तवान् । **तवसः** तवस्विनो वृद्धादपि **तवीयान्** तवस्वितरः **विष्णुः** **प्र** **अस्तु** अस्माकं प्रभवतु स्वामी भवतु। **अस्य** **स्थविरस्य** वृद्धस्य विष्णोः **नाम** नामकं रूपं विष्णुरित्येतन्नामैव वा **त्वेषं** **हि** यस्माद्दीप्तं तस्मात्कारणात् स विष्णुः प्रभवत्वित्यर्थः ॥
+**एषः** **देवः** दानादिगुणयुक्तो विष्णुः **शतर्चसं** शतसंख्यान्यर्चींषि यस्यास्तादृशम् **एतां** **पृथिवीम्** । उपलक्षणमेतत् । पृथिव्यादींस्त्रील्ँलोकान् महित्वा महत्त्वेन **त्रिः** **वि** **चक्रमे** त्रिभिः पदैर्विक्रान्तवान् । **तवसः** तवस्विनो वृद्धादपि **तवीयान्** तवस्वितरः **विष्णुः** **प्र** **अस्तु** अस्माकं प्रभवतु स्वामी भवतु। **अस्य** **स्थविरस्य** वृद्धस्य विष्णोः **नाम** नामकं रूपं विष्णुरित्येतन्नामैव वा **त्वेषं** **हि** यस्माद्दीप्तं तस्मात्कारणात् स विष्णुः प्रभवत्वित्यर्थः ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -1961,10 +2075,10 @@ Oldenberg posits a masc. s-stem *arcás- ‘singer’, comparing VI.34.3 yádi s
 Because of the lack of accent on asya, it should be pronominal, not adjectival; I would adjust the tr. to “of him, the stalwart.”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
-<details open><summary><h7>03-04 ...{Loading}...</h7></summary>
+<details open><summary><h7>03-04 …{Loading}…</h7></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
-As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
+As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
 </details>
 </details>
 </div>
@@ -2004,7 +2118,7 @@ Dreimal schritt aus der Gott mit seiner Grösse, durch diese Erd' die hundertfac
 
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (देवः) दिव्यशक्तियुक्त उक्त परमात्मा (एतां) इस (पृथिवीं) पृथिवी को (त्रिः) तीन प्रकार से (विचक्रमे) रचता है, (शतर्चसं) जिस पृथिवी में सैकड़ों प्रकार की (अर्चिः) ज्वालायें हैं, (महित्वा) जिसका बहुत विस्तार है और इस(स्थविरस्य) प्राचीन पुरुष का नाम इसीलिये (विष्णुः) विष्णु है, क्योंकि (तवसः, तवीयान्) यह तेरा स्वामी है, इसलिये इसका नाम विष्णु है अथवा यह सर्वव्यापक होने से सर्वस्वामी है, इसलिये इसका नाम विष्णु है॥३॥
+पदार्थान्वयभाषाः -  (देवः) दिव्यशक्तियुक्त उक्त परमात्मा (एतां) इस (पृथिवीं) पृथिवी को (त्रिः) तीन प्रकार से (विचक्रमे) रचता है, (शतर्चसं) जिस पृथिवी में सैकड़ों प्रकार की (अर्चिः) ज्वालायें हैं, (महित्वा) जिसका बहुत विस्तार है और इस(स्थविरस्य) प्राचीन पुरुष का नाम इसीलिये (विष्णुः) विष्णु है, क्योंकि (तवसः, तवीयान्) यह तेरा स्वामी है, इसलिये इसका नाम विष्णु है अथवा यह सर्वव्यापक होने से सर्वस्वामी है, इसलिये इसका नाम विष्णु है॥३॥
 </details>
 
 <details><summary>आर्यमुनि - भावार्थः</summary>
@@ -2015,6 +2129,5 @@ Dreimal schritt aus der Gott mit seiner Grösse, durch diese Erd' die hundertfac
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवः) दिव्यशक्तिः परमात्मा (एताम्) इमां (पृथिवीम्) भुवं (त्रिः) त्रेधा (विचक्रमे) रचयामास (शतर्चसम्) यस्यां शतधा ज्वालाः (महित्वा) यातिविस्तृता (अस्य, स्थविरस्य, विष्णुः, नाम) अस्य प्राचो नाम विष्णुरिति यतः (तवसः, तवीयान्) अयं ते स्वामी यद्वा व्यापकः ॥३॥
-</details>
 </details>
 </div>

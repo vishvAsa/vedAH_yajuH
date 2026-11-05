@@ -1,6 +1,5 @@
 +++
 title = "०४ चित्रायोगोपहोममन्त्राः"
-
 +++
 
 गायत्री, ५ उपरिष्टाद् बृहती ।  
@@ -13,7 +12,7 @@ title = "०४ चित्रायोगोपहोममन्त्रा�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।
+प्रजा᳓पतिᳶ प्रजा᳓ असृजत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -28,7 +27,7 @@ Prajapati created offspring;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता अ॑स्मात्सृ॒ष्टाᳶ परा॑चीरायन् ।
+ता᳓ अस्मात्सृष्टाᳶ᳓ प᳓राचीरायन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -43,8 +42,8 @@ they created went away from him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता यत्राव॑सन्।  
-ततो॑ ग॒र्मुदुद॑तिष्ठत् ।
+ता᳓ य᳓त्रा᳓वसन्।  
+त᳓तो गर्मु᳓दु᳓दतिष्ठत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -65,7 +64,7 @@ where they stayed, thence sprung the bean.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता बृह॒स्पति॑श्चा॒न्ववै॑ताम् ।  
+ता᳓ बृ᳓हस्प᳓तिश्चान्व᳓वैताम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -85,7 +84,7 @@ Those he followed with Brhaspati;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ऽब्रवी॒द्, बृह॒स्पति॑र॒नया॑ त्वा॒ प्र ति॑ष्ठानि ।  
+सो᳓ऽब्रवीद्, बृ᳓हस्प᳓तिरन᳓या त्वा प्र᳓ तिष्ठानि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -105,7 +104,7 @@ Brhaspati said, 'With this will I go before thee,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॑ त्वा प्र॒जा उ॒पाव॑र्त्स्य॒न्तीति॑ ।  
+अ᳓थ त्वा प्रजा᳓ उपा᳓वर्त्स्यन्ती᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -125,7 +124,7 @@ then shall offspring have resort to thee.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम्प्राति॑ष्ठत् ।  
+त᳓म्प्रा᳓तिष्ठत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -145,7 +144,7 @@ He went before him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वै प्र॒जाप॑तिम्प्र॒जा उ॒पाव॑र्तन्त ।
+त᳓तो वै᳓ प्रजा᳓पतिम्प्रजा᳓ उपा᳓वर्तन्त ।
 </details>
 
 <details><summary>Keith</summary>
@@ -160,9 +159,9 @@ then indeed did offspring resort to Prajapati.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यᳶ प्र॒जाका॑म॒स्स्यात् ।  
-तस्मा॑ ए॒तम्प्रा॑जाप॒त्यङ्गा॑र्मु॒तञ्च॒रुन्निर्व॑पेत् ।  
-प्र॒जाप॑तिमे॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+यᳶ᳓ प्रजा᳓कामस्स्या᳓त् ।  
+त᳓स्मा एत᳓म्प्राजापत्य᳓ङ्गार्मुत᳓ञ्चरु᳓न्नि᳓र्वपेत् ।  
+प्रजा᳓पतिमेव᳓ स्वे᳓न भागधे᳓येनो᳓प धावति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -179,7 +178,7 @@ For him who desires offspring he should offer this oblation of beans to Prajapat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॒वास्मै॑ प्र॒जाम्प्र ज॑नयति ।
+स᳓ एवा᳓स्मै प्रजा᳓म्प्र᳓ जनयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -204,7 +203,7 @@ verily he produces offspring for him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तिᳶ प॒शून॑सृजत ।
+प्रजा᳓पतिᳶ पशू᳓नसृजत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -219,8 +218,8 @@ Prajapati created cattle;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽस्मात्सृ॒ष्टाᳶ परा॑ञ्च आयन् ।  
-ते यत्राव॑सन् ।
+ते᳓ऽस्मात्सृष्टाᳶ᳓ प᳓राञ्च आयन् ।  
+ते᳓ य᳓त्रा᳓वसन् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -236,8 +235,8 @@ they created went away from him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॑ ग॒र्मुदुद॑तिष्ठत् ।  
-तान्पू॒षा चा॒न्ववै॑ताम् ।
+त᳓तो गर्मु᳓दु᳓दतिष्ठत् ।  
+ता᳓न्पूषा᳓ चान्व᳓वैताम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -253,8 +252,8 @@ where they stayed, thence sprung the bean;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ऽब्रवीत् ।  
-पू॒षानया॑ मा॒ प्र ति॑ष्ठ।
+सो᳓ऽब्रवीत् ।  
+पूषा᳓न᳓या मा प्र᳓ तिष्ठ।
 </details>
 
 <details><summary>Keith</summary>
@@ -270,7 +269,7 @@ those he followed with Pusan;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॑ त्वा प॒शव॑ उ॒पाव॑र्त्स्य॒न्तीति॑ ।
+अ᳓थ त्वा पश᳓व उपा᳓वर्त्स्यन्ती᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -290,7 +289,7 @@ Pusan said, 'With this do thou go before me;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-माम्प्र ति॒ष्ठेति॒ सोमो॑ऽब्रवीत् ।  
+मा᳓म्प्र᳓ तिष्ठे᳓ति सो᳓मोऽब्रवीत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -310,7 +309,7 @@ then shall cattle resort to thee.' 'Do thou go before me', said Soma,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मम॒ वा अ॑कृष्टप॒च्यमिति॑ ।  
+म᳓म वा᳓ अकृष्टपच्य᳓मि᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -330,7 +329,7 @@ then shall cattle resort to thee.' 'Do thou go before me', said Soma,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒भौ वा॒म्प्र ति॑ष्ठा॒नीत्य॑ब्रवीत् ।
+उभौ᳓ वाम्प्र᳓ तिष्ठानी᳓त्यब्रवीत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -350,7 +349,7 @@ then shall cattle resort to thee.' 'Do thou go before me', said Soma,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तौ प्राति॑ष्ठत् ।  
+तौ᳓ प्रा᳓तिष्ठत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -370,14 +369,14 @@ he went before them both;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वै प्र॒जाप॑तिम्प॒शव॑ उ॒पाव॑र्तन्त ।  
-यᳶ प॒शुका॑म॒स्स्यात् ।  
-तस्मा॑ ए॒तँ सो॑मापौ॒ष्णङ्गा॑र्मु॒तञ्च॒रुन्निर्व॑पेत् ।  
-सो॒मा॒पू॒ष॒णा॑वे॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।  
-तावे॒वास्मै॑ प॒शून्प्र ज॑नयतः ।  
-सोमो॒ वै रे॑तो॒धाᳶ पू॒षा प॑शू॒नाम्प्र॑जनयि॒ता ,  
-सोम॑ ए॒वास्मै॒ रेतो॒ दधा॑ति ।  
-पू॒षा प॒शून्प्र ज॑नयति ॥  
+त᳓तो वै᳓ प्रजा᳓पतिम्पश᳓व उपा᳓वर्तन्त ।  
+यᳶ᳓ पशु᳓कामस्स्या᳓त् ।  
+त᳓स्मा एतँ᳓ सोमापौष्ण᳓ङ्गार्मुत᳓ञ्चरु᳓न्नि᳓र्वपेत् ।  
+सोमापूषणा᳙वेव᳓ स्वे᳓न भागधे᳓येनो᳓प धावति ।  
+ता᳓वेवा᳓स्मै पशू᳓न्प्र᳓ जनयतः ।  
+सो᳓मो वै᳓ रेतोधाᳶ᳓ पूषा᳓ पशूना᳓म्प्रजनयिता᳓ ,  
+सो᳓म एवा᳓स्मै रे᳓तो द᳓धाति ।  
+पूषा᳓ पशू᳓न्प्र᳓ जनयति ॥  
 </details>
 
 <details><summary>Keith</summary>

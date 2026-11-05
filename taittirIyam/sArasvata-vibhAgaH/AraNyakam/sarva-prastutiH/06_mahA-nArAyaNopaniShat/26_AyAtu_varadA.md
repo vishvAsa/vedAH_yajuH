@@ -1,22 +1,23 @@
 +++
 title = "२६ आयातु वरदा"
 unicode_script = "devanagari"
-
 +++
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 +++(आरण्यक-स्वर-विकारम् उपेक्षते विश्वासः।)+++
 
-आया॑तु॒ वर॑दा दे॒वी॒  
-अ॒क्षरं॑ ब्रह्म॒संमि॑तम् ।  
-गा॒य॒त्री॑ञ् छन्द॑सां  
-मा॒तेदं ब्र॑ह्म जु॒षस्व॑ नः ।
+आ᳓यातु व᳓रदा देवी  
+अक्ष᳓रं ब्रह्मसं᳓मितम् ।  
+गायत्री᳙ञ् छ᳓न्दसां  
+माते᳓दं᳓ ब्रह्म जुष᳓स्व नः ।
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 आया॑तु॒ वर॑दा दे॒वी॒  
@@ -26,16 +27,17 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
-ओजो॑ऽसि।  
-सहो॑ऽसि।  
-बल॑मसि।  
-भ्राजो॑ऽसि।  
-दे॒वाना॒न् धाम॒ नामा॑सि॒।  
-विश्व॑म् असि वि॒श्वायु॒स्,  
-सर्व॑म् असि स॒र्वायुः॑।  
-अ॒भि॒भूर् [ओङ् गायत्रीम् आवा॑हयामि । (41)]
+ओ᳓जोऽसि।  
+स᳓होऽसि।  
+ब᳓लमसि।  
+भ्रा᳓जोऽसि।  
+देवा᳓नान् धा᳓म ना᳓मासि।  
+वि᳓श्वम् असि विश्वा᳓युस्,  
+स᳓र्वम् असि सर्वा᳓युः।  
+अभिभू᳓र् [ओ᳓ङ् गा᳓य᳓त्री᳓म् आ᳓वाहयामि । (41)]
 </details>
 
 <details><summary>विश्वास-टिप्पनी - यजुः</summary>

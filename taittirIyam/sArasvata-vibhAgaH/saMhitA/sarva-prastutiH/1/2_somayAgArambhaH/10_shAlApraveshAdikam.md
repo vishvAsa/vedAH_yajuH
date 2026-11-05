@@ -24,7 +24,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेर् आ॑ति॒थ्यम् अ॑सि॒,
+अग्ने᳓र् आतिथ्य᳓म् असि,
 </details>
 
 <details><summary>Keith</summary>
@@ -39,7 +39,7 @@ Thou art the hospitality of Agni.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(सर्वदेवतात्मने)+++ विष्ण॑वे त्वा +++(निर्वपामि)+++ ।  
++++(सर्वदेवतात्मने)+++ वि᳓ष्णवे त्वा +++(निर्वपामि)+++ ।  
 +++(सर्वदेवतात्मनो विष्णोर् अंशभूता एते अग्न्य्-आदयो राज्ञि गृहम् आगते आगता भवन्ति । 'यावद्भिर् वै राजानुचरैर् आगच्छति सर्वेभ्यो वै तेभ्य आतिथ्यं क्रियते' इति ब्राह्मणम्।)+++
 </details>
 
@@ -79,7 +79,7 @@ For Visnu thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑स्याऽऽति॒थ्यम् अ॑सि॒,
+सो᳓मस्याऽऽतिथ्य᳓म् असि,
 </details>
 
 <details><summary>Keith</summary>
@@ -94,7 +94,7 @@ Thou art the hospitality of Soma.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(सर्वदेवतात्मने)+++ विष्ण॑वे॒ त्वा +++(निर्वपामि)+++  ।
++++(सर्वदेवतात्मने)+++ वि᳓ष्णवे त्वा᳓ +++(निर्वपामि)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -126,7 +126,7 @@ For Visnu thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अति॑थेर्+++(=अतनशीलस्य [सुर्यस्य वायोर् वा])+++ आति॒थ्यम॑सि॒,
+अ᳓तिथेर्+++(=अतनशीलस्य [सुर्यस्य वायोर् वा])+++ आतिथ्य᳓मसि,
 </details>
 
 <details><summary>Keith</summary>
@@ -141,7 +141,7 @@ Thou art the hospitality of the stranger.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(सर्वदेवतात्मने)+++ विष्ण॑वे त्वा॒ऽग्नये॑ त्वा +++(निर्वपामि)+++  ।
++++(सर्वदेवतात्मने)+++ वि᳓ष्णवे त्वाऽग्न᳓ये त्वा +++(निर्वपामि)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -171,7 +171,7 @@ For Visnu thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रा॒य॒स्-पो॒ष॒दाव्न्ने॒ +++(ऽग्नये)+++ +++(तदात्मने)+++ विष्ण॑वे +++(च)+++ त्वा +++(निर्वपामि)+++ ।
+रायस्-पोषदा᳓व्न्ने +++(ऽग्नये)+++ +++(तदात्मने)+++ वि᳓ष्णवे +++(च)+++ त्वा +++(निर्वपामि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -201,7 +201,7 @@ For Agni thee, giver of wealth, for Visnu thee;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्ये॒नाय॑ त्वा सोम॒भृते॒ विष्ण॑वे +++(च)+++ त्वा +++(निर्वपामि)+++।
+श्येना᳓य त्वा सोमभृ᳓ते वि᳓ष्णवे +++(च)+++ त्वा +++(निर्वपामि)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -369,8 +369,8 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे सोम)+++ या ते॒ धामा॑नि ह॒विषा॒ यज॑न्ति॒  
-ता ते॒ विश्वा॑ परि॒-भूर् अ॑स्तु य॒ज्ञम्+++(स्य)+++ ।
++++(हे सोम)+++ या᳓ ते धा᳓मानि हवि᳓षा य᳓जन्ति  
+ता᳓ ते वि᳓श्वा परि-भू᳓र् अस्तु यज्ञ᳓म्+++(स्य)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -413,8 +413,8 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ग॒य॒+++(=गृह)+++स्फानᳶ॑+++(=वर्धयिता)+++ प्र॒तर॑णस् सु॒वीरो  
-ऽ+++(स्वपक्ष)+++वी॑रहा॒ प्र च॑रा सोम॒ दुर्या॑न्+++(=गृहान् [प्राग्वंशदीन्])+++ ॥
+गय+++(=गृह)+++स्फा᳓नᳶ+++(=वर्धयिता)+++ प्रत᳓रणस् सुवी᳓रो᳓  
+ऽ+++(स्वपक्ष)+++वीरहा प्र᳓ चरा सोम दु᳓र्यान्+++(=गृहान् [प्राग्वंशदीन्])+++ ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -451,8 +451,7 @@ ________
 नीडे कृष्णाजिनम् आस्तृणाति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 नीडे कृष्णाजिनमास्तृणाति।
@@ -468,7 +467,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑त्या॒स् सदो॑ऽसि ।
+अ᳓दित्यास् स᳓दोऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -500,7 +499,6 @@ Thou art the seat of Aditi.
 
 आपस्तम्बो द्वितीय-तृतीय-मन्त्राव् एकी-चकार। हे कृष्णाजिन, त्वम् अदित्या भूमेः सदः स्थानम् असि। 
 </details>
-
 </div>  
 
 ________
@@ -509,8 +507,7 @@ ________
 तस्मिन् सोमं निदधाति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तस्मिन् सोमं निदधाति।
@@ -528,7 +525,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑त्या॒स् सद॒ आसीद ।
+अ᳓दित्यास् स᳓द आ᳓सी᳓द᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -557,7 +554,6 @@ Sit on the seat of Aditi.
 
 हे सोम, तस्याः सदः प्राप्नुहि। 
 </details>
-
 </div>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -592,7 +588,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(तादात्म्येनाऽधुना)+++ वरु॑णोऽसि धृ॒तव्र॑तो, वारु॒णम् अ॑सि ।  
++++(तादात्म्येनाऽधुना)+++ व᳓रुणोऽसि धृत᳓व्रतो, वारुण᳓म् असि ।  
 +++('वरुणो वा एष यजमानमभ्यैति यत्क्रीतस्सोम उपनद्धः' इति ब्राह्मणम् ।)+++
 </details>
 
@@ -635,7 +631,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शय्ँ॒+++(=शमनम्)+++ योर्+++(=बन्धनाद्)+++ दे॒वाना॑म् ।
+शय्ँ+++(=शमनम्)+++ यो᳓र्+++(=बन्धनाद्)+++ देवा᳓नाम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -671,7 +667,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒ख्यान् मा दे॒वाना॑म् अ॒पस॑श्+++(=कर्मतः)+++ छित्स्महि ।
+सख्या᳓न् मा᳓ देवा᳓नाम् अप᳓सश्+++(=कर्मतः)+++ छित्स्महि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -739,7 +735,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे आज्य)+++ आप॑तये+++(आपतततीति→प्राणाय)+++ त्वा गृह्णामि ।
++++(हे आज्य)+++ आ᳓पतये+++(आपतततीति→प्राणाय)+++ त्वा गृह्णामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -769,7 +765,7 @@ For him who rushes on I seize thee;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परि॑पतये+++(परिपततीति→मनसे)+++ त्वा गृह्णामि।
+प᳓रिपतये+++(परिपततीति→मनसे)+++ त्वा गृह्णामि।
 </details>
 
 <details><summary>Keith</summary>
@@ -799,7 +795,7 @@ for him who rushes around I seize thee;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तनू॒+++(=जल)+++नप्त्रे॑+++(=शरीरस्थायाग्नये)+++ त्वा गृह्णामि।
+त᳓नू+++(=जल)+++न᳓प्त्रे+++(=शरीरस्थायाग्नये)+++ त्वा गृह्णामि।
 </details>
 
 <details><summary>Keith</summary>
@@ -829,7 +825,7 @@ for Tanunapat I seize thee;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शा॒क्व॒राय॑+++(=शक्त्यै)+++ त्वा गृह्णामि।
+शाक्वरा᳓य+++(=शक्त्यै)+++ त्वा गृह्णामि।
 </details>
 
 <details><summary>Keith</summary>
@@ -859,7 +855,7 @@ for the mighty I seize thee;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शक्म॒न्न्+++(=शक्तेषु)+++ ओजि॑ष्ठाय +++(प्राणाय)+++ त्वा गृह्णामि।
+श᳓क्मन्न्+++(=शक्तेषु)+++ ओ᳓जिष्ठाय +++(प्राणाय)+++ त्वा गृह्णामि।
 </details>
 
 <details><summary>Keith</summary>
@@ -941,8 +937,8 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अना॑धृष्टम् असि,   
-अनाधृ॒ष्यन्, दे॒वाना॒म् ओजो॑, ऽभिशस्ति॒+++(=अभिशाप)+++पाः, अ॑नभिशस्ते॒न्यम्+++(=अभिशस्तेनाऽवेध्या)+++ +++(असि)+++।
+अ᳓नाधृष्टम् असि,   
+अनाधृष्य᳓न्, देवा᳓नाम् ओ᳓जो, ऽभिशस्ति+++(=अभिशाप)+++पाः᳓, अनभिशस्तेन्य᳓म्+++(=अभिशस्तेनाऽवेध्या)+++ +++(असि)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -1005,8 +1001,8 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनु॑ मे दी॒क्षान् दी॒क्षाप॑तिर् मन्यताम्,  
-अनु॒ तप॒स् तप॑स्पतिः+++(=अग्निः [मन्यताम्])+++।
+अ᳓नु मे दीक्षा᳓न् दीक्षा᳓पतिर् मन्यताम्,  
+अनु त᳓पस् त᳓पस्पतिः+++(=अग्निः [मन्यताम्])+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -1023,7 +1019,7 @@ the lord of penance my penance.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अञ्ज॑सा+++(=ऋजुना)+++ स॒त्यम् +++(समयं तानूनप्त्राभिमर्शनेन)+++ उप॑ गेषम्+++(=अगच्छम्)+++।
+अ᳓ञ्जसा+++(=ऋजुना)+++ सत्य᳓म् +++(समयं तानूनप्त्राभिमर्शनेन)+++ उ᳓प गेषम्+++(=अगच्छम्)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -1038,7 +1034,7 @@ Speedily may I attain truth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒वि॒ते+++(=सूताय)+++ मा॑ धाः ॥
+सुविते᳓+++(=सूताय)+++ मा धाः ॥
 </details>
 
 <details><summary>Keith</summary>

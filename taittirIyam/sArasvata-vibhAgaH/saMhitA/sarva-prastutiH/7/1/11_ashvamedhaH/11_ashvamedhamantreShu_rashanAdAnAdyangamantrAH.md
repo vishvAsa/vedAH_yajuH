@@ -13,13 +13,12 @@ title = "११ अश्वमेधमन्त्रेषु रशनाद
 1इत ऊर्ध्वमश्वमेधमन्त्राः । रशनामादत्ते। व्याख्यातं दर्शपूर्णमासयोः । देवस्य सवितुराज्ञां लब्ध्वा अश्विनोरेव बाहुभ्यां नात्मीयाभ्यां पूष्णा एव हस्ताभ्यां त्वामाददे ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
-+++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
-पू॒ष्णो हस्ता॑भ्याम्…
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
++++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
+पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
 
 <details><summary>Keith</summary>
@@ -53,12 +52,11 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ द॑दे ।
+आ᳓ ददे ।
 </details>
 
 <details><summary>Keith</summary>
@@ -71,49 +69,33 @@ I take thee with the arms of the Aśvins, with the hands of Pusan.
 आ द॑दे ।
 </details>
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/02_imAmagRbhNan_rashanAmRtasya.md">
-
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/02_imAmagRbhNan_rashanAmRtasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
-इ॒माम॑गृभ्णन् रश॒नामृ॒तस्य॒ पूर्व॒ऽआयु॑षि वि॒दथे॑षु क॒व्या। सा नो॑ऽअ॒स्मिन्त्सु॒तऽआब॑भूवऽऋ॒तस्य॒ साम॑न्त्स॒रमा॒रप॑न्ती ॥२ ॥
+इमा᳓मगृभ्णन् रशना᳓मृत᳓स्य पू᳓र्वऽआ᳓युषि विद᳓थेषु कव्या᳓। सा᳓ नोऽअस्मि᳓न्त्सुत᳓ऽआ᳓बभूवऽऋत᳓स्य सा᳓मन्त्सर᳓मार᳓पन्ती ॥२ ॥
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒माम् अ॑गृभ्णन् रश॒नाम् ऋ॒तस्य॒+++(=यज्ञस्य)+++  
-पूर्व॒ आयु॑षि+++(षे)+++ वि॒दथे॑षु+++(=यज्ञेषु)+++ क॒व्या+++(=कवयः)+++ ।  
-तया॑ दे॒वास् सु॒तम् +++(सोमम्)+++ आ ब॑भूवुर् ,
-ऋ॒तस्य॒ साम॑न्थ्+++(म्नि [समाप्तौ])+++ स॒रम्+++(=सरणं)+++ आ॒रप॑न्ती+++(=अभिवदन्ती)+++ ।
-</details>
-
-<details><summary>Keith</summary>
-
-This bond of order they grasped  
-At their assemblies in ages gone by, the sages;  
-Therewith the gods mastered the pressed (juice),  
-In the Saman of order declaring the stream.
+इमा᳓म् अगृभ्णन् रशना᳓म् ऋत᳓स्य+++(=यज्ञस्य)+++  
+पू᳓र्व आ᳓युषि+++(षे)+++ विद᳓थेषु+++(=यज्ञेषु)+++ कव्या᳓+++(=कवयः)+++ ।  
+त᳓या देवा᳓स् सुत᳓म् +++(सोमम्)+++ आ᳓ बभूवुर् ,
+ऋत᳓स्य सा᳓मन्थ्+++(म्नि [समाप्तौ])+++ सर᳓म्+++(=सरणं)+++ आर᳓पन्ती+++(=अभिवदन्ती)+++ ।
 </details>
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/03_abhidhA-asi_bhuvanamasi.md">
-
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/03_abhidhA-asi_bhuvanamasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
-अ॒भि॒धाऽअ॑सि॒ भुव॑नमसि य॒न्तासि॑ ध॒र्त्ता। स त्वम॒ग्निं वै॑श्वान॒रँ सप्र॑थसं गच्छ॒ स्वाहा॑कृतः ॥३ ॥
+अभिधा᳓ऽअसि भु᳓वनमसि यन्ता᳓सि धर्त्ता᳓। स᳓ त्व᳓मग्निं᳓ वैश्वानरँ᳓ स᳓प्रथसं गच्छ स्वा᳓हाकृतः ॥३ ॥
 
-<details><summary>Keith</summary>
-
-Thou art surrounding; thou art the world; thou art the restrainer; thou art the supporter; do thou go, with the cry of 'Hail!' to Agni Vaiśvanara, the extending.
 </details>
-</details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
  
-पृ॒थि॒व्याय्ँ य॒न्ता राड्+++(=दीप्यमानः)+++ य॒न्ताऽसि॒  
-यम॑नो+++(=यमसाधनभूतः)+++, ध॒र्तासि॑ ध॒रुणः॑ ॥
+पृथिव्याय्ँ᳓ यन्ता᳓ रा᳓ड्+++(=दीप्यमानः)+++ यन्ता᳓ऽसि  
+य᳓मनो+++(=यमसाधनभूतः)+++, धर्ता᳓सि धरु᳓णः ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -144,7 +126,7 @@ Thou art the restrainer, the ruler on earth; thou art the restrainer who dost re
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कृ॒ष्यै त्वा॒ +++(प्रोक्षामि)+++
+कृष्यै᳓ त्वा +++(प्रोक्षामि)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -154,7 +136,7 @@ For ploughing thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षेमा॑य त्वा +++(प्रोक्षामि)+++
+क्षे᳓माय त्वा +++(प्रोक्षामि)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -164,7 +146,7 @@ For comfort thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒य्यै त्वा॒ +++(प्रोक्षामि)+++
+रय्यै᳓ त्वा +++(प्रोक्षामि)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -174,7 +156,7 @@ For wealth thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पोषा॑य त्वा +++(प्रोक्षामि)+++
+पो᳓षाय त्वा +++(प्रोक्षामि)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -184,7 +166,7 @@ For increase thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृथि॒व्यै त्वा॒  +++(प्रोक्षामि)+++
+पृ᳓थिव्यै᳓ त्वा  +++(प्रोक्षामि)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -194,7 +176,7 @@ For earth thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऽन्तरि॑क्षाय त्वा +++(प्रोक्षामि)+++
+ऽन्त᳓रिक्षाय त्वा +++(प्रोक्षामि)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -204,7 +186,7 @@ For the atmosphere thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि॒वे त्वा॑ +++(प्रोक्षामि)+++
+दिवे᳓ त्वा +++(प्रोक्षामि)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -214,7 +196,7 @@ For sky thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒ते त्वा +++(प्रोक्षामि)+++
+सते᳓ त्वा᳓ +++(प्रोक्षामि)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -224,7 +206,7 @@ For being thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऽस॑ते त्वा॒ +++(प्रोक्षामि)+++
+ऽस᳓ते त्वा +++(प्रोक्षामि)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -244,7 +226,7 @@ For the waters thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओष॑धीभ्यस् त्वा॒ +++(प्रोक्षामि)+++
+ओ᳓षधीभ्यस् त्वा +++(प्रोक्षामि)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -254,7 +236,7 @@ For the plants thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वे॑भ्यस् त्वा भू॒तेभ्यः॑ +++(प्रोक्षामि)+++॥ [40]
+वि᳓श्वेभ्यस् त्वा भूते᳓भ्यः +++(प्रोक्षामि)+++॥ [40]
 </details>
 
 <details><summary>Keith</summary>

@@ -107,8 +107,8 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आप॑ उन्दन्तु+++(=क्लेदयन्तु)+++ जी॒वसे॑ ।  
-दी॒र्घा॒यु॒त्वाय॒ वर्च॑से ॥
+आ᳓प उन्दन्तु+++(=क्लेदयन्तु)+++ जीव᳓से ।  
+दीर्घायुत्वा᳓य व᳓र्चसे ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -149,8 +149,7 @@ ________
 2ऊर्ध्वाग्रं बर्हिरनुच्छ्रयति - ओषध इति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ऊर्ध्वाग्रं बार्हिर् अनूच्छ्रयति - ओषधे त्रायस्वैनमिति ॥
@@ -169,7 +168,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओष॑धे॒ त्राय॑स्वैनम्।
+ओ᳓षधे त्रा᳓यस्वैनम्।
 </details>
 
 <details><summary>Keith</summary>
@@ -204,7 +203,6 @@ O plant, protect him.
 
 10वपाग्रहणदेशे प्राचीनाग्रं बर्हिर्निदधाति - ओषधे त्रायस्वैनमिति ॥ व्याख्यातम् ॥
 </details>
-
 </div>  
 
 ________
@@ -213,8 +211,7 @@ ________
 तस्मिन् बर्हिषि स्वधितिं तिर्यञ्चं निदधाति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md">
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4स्वधितिना तिर्यञ्चं प्रहरति
@@ -222,7 +219,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वधि॑ते॒+++(=क्षुर)+++! मैनँ॑ हिँसीः  ।+++(र४)+++
+स्व᳓धिते+++(=क्षुर)+++! मै᳓नँ हिँसीः  ।+++(र४)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -256,7 +253,6 @@ Axe, hurt him not.
 
 स्वधितिः क्षुरः। देवेषु प्रसिद्धत्वेन श्रूयत इति देवश्रूर् देव-नापितस् तद्-रूपो ऽहं वपनं कुर्वे। एतानि केशादीनि।
 </details>
-
 </div>  
 
 ________
@@ -267,7 +263,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒व॒श्रूर्+++(=देवनापितः)+++ ए॒तानि॒ प्र व॑पे।  
+देवश्रू᳓र्+++(=देवनापितः)+++ एता᳓नि प्र᳓ वपे।  
 +++('केशश्मश्रु वपते' इत्यादि ब्राह्मणम् ॥)+++
 </details>
 
@@ -299,7 +295,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व॒स्त्य् उत्त॑राण्य् +++(कर्माणि)+++ अशी॒य+++(=व्याप्नुयाम्)+++।+++(र४)+++
+स्वस्त्य् उ᳓त्तराण्य् +++(कर्माणि)+++ अशीय᳓+++(=व्याप्नुयाम्)+++।+++(र४)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -338,18 +334,15 @@ ________
 इति।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-आपो॑ अ॒स्मान् मा॒तर॑श् शुन्धन्तु।+++(र४)+++  
-घृ॒तेन॑ नो घृत॒-पुवᳶ॑+++(→घृतपावकाः)+++ पुनन्तु ।
+आ᳓पो अस्मा᳓न् मात᳓रश् शुन्धन्तु।+++(र४)+++  
+घृते᳓न नो घृत-पु᳓वᳶ+++(→घृतपावकाः)+++ पुनन्तु ।
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -379,7 +372,6 @@ With ghee let those that purify our ghee purify us.
 आपस्तम्बस् त्व् एक-मन्त्रतां मन्यते। अस्मान् अस्मदीयान् यजमानान्। क्षरद् उदकम् अत्र घृतम्। तेन पुनन्ति पर्जन्यादयो घृतपुवः रिप्रं पापम्। इमा आपः सर्वं पापम् अस्मत्तो ऽपनयन्तु।
 </details>
 </details>
-
 </div>
 
 ________
@@ -390,7 +382,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्व॑म् अ॒स्मत् प्र व॑हन्तु रि॒प्रम्+++(=पापम्)+++ ।+++(र५)+++
+वि᳓श्वम् अस्म᳓त् प्र᳓ वहन्तु रिप्र᳓म्+++(=पापम्)+++ ।+++(र५)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -416,7 +408,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद् +++(अद्भ्य)+++ आ॑भ्य॒श् शुचि॒र् आ पू॒त ए॑मि ।+++(र५)+++
+उ᳓द् +++(अद्भ्य)+++ आभ्यश् शु᳓चिर् आ᳓ पूत᳓ एमि ।+++(र५)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -487,9 +479,9 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑स्य त॒नूर् अ॑सि ।  
+सो᳓मस्य तनू᳓र् असि ।  
 +++('सौम्यं वै क्षौमं देवतया' इति च ब्राह्मणम् ।  )+++  
-त॒नुव॑म् मे पाहि।+++(र४)+++
+तनु᳓वम् मे पाहि।+++(र४)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -568,9 +560,9 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒ही॒नाम् +++(गवाम्)+++ पयो॑ऽसि ।  
-व॒र्चो॒धा अ॑सि ।  
-वर्चो॒ मयि॑ धेहि।+++(र४)+++  
+महीना᳓म् +++(गवाम्)+++ प᳓योऽसि ।  
+वर्चोधा᳓ असि ।  
+व᳓र्चो म᳓यि धेहि।+++(र४)+++  
 </details>
 
 <details><summary>Keith</summary>
@@ -658,9 +650,9 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृ॒त्रस्य॑ क॒नीनि॑का+++(=अक्षिस्थकृष्ण-मण्डलम्)+++ ऽसि ।    
-च॒क्षु॒ष्पा अ॑सि ।  
-चक्षु॑र् मे पाहि ।+++(र५)+++
+वृत्र᳓स्य कनी᳓निका+++(=अक्षिस्थकृष्ण-मण्डलम्)+++ ऽसि ।    
+चक्षुष्पा᳓ असि ।  
+च᳓क्षुर् मे पाहि ।+++(र५)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -744,20 +736,17 @@ ________
 इति।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/03_chitpatis_tvA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/03_chitpatis_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-चि॒त्-पति॑स् त्वा पुनातु ।  
+चित्-प᳓तिस् त्वा पुनातु ।  
 +++('मनो वै चित्पतिः' इति ब्राह्मणम् ।)+++  
-[अच्छि॑द्रेण प॒वित्रे॑ण॒  
-वसो॒स्सूर्य॑स्य र॒श्मिभिः॑।]
+[अ᳓च्छिद्रेण पवि᳓त्रेण  
+व᳓सोस्सू᳓र्यस्य रश्मि᳓भिः।]
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/03_chitpatis_tvA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/03_chitpatis_tvA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -827,23 +816,19 @@ With the rays of the bright sun.
 [[P201]]
 </details>
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/04_vAkpatistvA_punAtu.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/04_vAkpatistvA_punAtu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 +++('यद्धि मनसा ध्यायति तद्वाचा वदति' इति ब्राह्मणम् ।)+++  
-वा॒क्-पति॑स्त्वा पुनातु ।  
-[अच्छि॑द्रेण प॒वित्रे॑ण॒ +++(सूर्येण)+++ ।   
- वसो॒स्+++(=वासहेतोः)+++ सूर्य॑स्य र॒श्मिभिः॑  ॥]
+वाक्-प᳓तिस्त्वा पुनातु ।  
+[अ᳓च्छिद्रेण पवि᳓त्रेण +++(सूर्येण)+++ ।   
+ व᳓सोस्+++(=वासहेतोः)+++ सू᳓र्यस्य रश्मि᳓भिः  ॥]
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/04_vAkpatistvA_punAtu.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/04_vAkpatistvA_punAtu.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -877,22 +862,18 @@ With the rays of the bright sun.
 **वसोर्** जगतां वासहेतोः **सूर्यस्य** मण्डलात्मनो **रश्मिभिः** जगतां शुद्धि-हेतुभिः **उत्पुनातु** । वसेः करणे उप्रत्ययः, (उ.सू. 10) स च नित् ।
 </details>
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/05_devas_tvA.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/05_devas_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-दे॒वस् त्वा॑ सवि॒ता पु॑ना॒त्व्  
-अच्छि॑द्रेण प॒वित्रे॑ण॒ +++(सूर्येण)+++ ।   
-वसो॒स्+++(=वासहेतोः)+++ सूर्य॑स्य र॒श्मिभिः॑ ।+++(र४)+++
+देव᳓स् त्वा सविता᳓ पुनात्व्  
+अ᳓च्छिद्रेण पवि᳓त्रेण +++(सूर्येण)+++ ।   
+व᳓सोस्+++(=वासहेतोः)+++ सू᳓र्यस्य रश्मि᳓भिः ।+++(र४)+++
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/05_devas_tvA.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/05_devas_tvA.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -924,7 +905,6 @@ With the rays of the bright sun.
 **वसोर्** जगतां वासहेतोः **सूर्यस्य** मण्डलात्मनो **रश्मिभिः** जगतां शुद्धि-हेतुभिः **उत्पुनातु** । वसेः करणे उप्रत्ययः, (उ.सू. 10) स च नित् ।
 </details>
 </details>
-
 </div>
 
 ________
@@ -945,7 +925,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य॑ ते पवित्र-पते प॒वित्रे॑ण॒ +++(रश्मिलक्षणेन)+++ यस्मै॒ +++(प्रयोजनाय)+++ कम्+++(=आत्मानम्)+++ **पु॒ने**, +++(कर्म)+++ तच् **छ॑केयम्** ।+++(र४)+++
+त᳓स्य ते पवित्र-पते पवि᳓त्रेण +++(रश्मिलक्षणेन)+++ य᳓स्मै +++(प्रयोजनाय)+++ क᳓म्+++(=आत्मानम्)+++ **पुने᳓**, +++(कर्म)+++ त᳓च् **छकेयम्** ।+++(र४)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -1001,20 +981,17 @@ ________
 इति।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/06_A_vo.md">
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/06_A_vo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-आ वो॑ देवास ईमहे॒  
-सत्य॑-धर्माणो अध्व॒रे ।  
-यद् वो॑ देवास आगु॒रे+++(←गुर् उद्यमने)+++  
-यज्ञि॑यासो॒ हवा॑महे+++(=आह्वयामहे)+++ ॥
+आ᳓ वो देवास ईमहे  
+स᳓त्य-धर्माणो अध्वरे᳓ ।  
+य᳓द् वो देवास आगुरे᳓+++(←गुर् उद्यमने)+++  
+य᳓ज्ञियासो ह᳓वामहे+++(=आह्वयामहे)+++ ॥
 </details>
-
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/06_A_vo.md">
-
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/06_A_vo.md">
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -1052,7 +1029,6 @@ For that we ask you, O holy ones.
 हे देवा, युष्माकं संबन्धिन्य् अस्मिन्न् अध्वरे वयं सत्य-धर्माणो ऽवश्यंभाव्य्-अनुष्ठान-परा आगच्छामः। हे यज्ञ-संबन्धिनो देवा, यस्माद् आगुरी कर्मोद्यमे युष्मान् आह्वास्यामस् तस्माद् वयम् अत्रागच्छामः।
 </details>
 </details>
-
 </div>
 
 ________
@@ -1063,7 +1039,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑ग्नी॒ द्यावा॑पृथिवी॒ आप॑ ओषधीः +++(अनुमन्यध्वम्!)+++।+++(र४)+++
+इ᳓न्द्राग्नी द्या᳓वापृथिवी आ᳓प ओषधीः +++(अनुमन्यध्वम्!)+++।+++(र४)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -1112,7 +1088,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वन् दी॒क्षाणा॒म् अधि॑पतिर् असि ।+++(र४)+++
+त्व᳓न् दीक्षा᳓णाम् अ᳓धिपतिर् असि ।+++(र४)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -1176,7 +1152,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह मा॒ सन्त॑म् पाहि ॥  
+इह᳓ मा स᳓न्तम् पाहि ॥  
 </details>
 
 <details><summary>पद-पाठः</summary>
