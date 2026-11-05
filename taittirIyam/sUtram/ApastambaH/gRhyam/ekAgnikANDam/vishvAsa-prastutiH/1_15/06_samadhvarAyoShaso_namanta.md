@@ -1,10 +1,8 @@
 +++
 title = "०६ समध्वरायोषसो नमन्त"
-
 +++
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/06_samadhvarAyoShaso_namanta.md">
-<details open><summary><h2>०६ समध्वरायोषसो नमन्त ...{Loading}...</h2></summary>
 
 स᳓म् अध्वरा᳓योष᳓सो **नमन्त**,  
 दधिक्रा᳓वेव +++(=pegasus-अश्व इव खे)+++ शु᳓चये पदा᳓य +++(प्रोष्ठ-पदरूपेण खे, आधाने ऽश्वक्रमवद् भुवि)+++।  
@@ -13,5 +11,4 @@ title = "०६ समध्वरायोषसो नमन्त"
 र᳓थम् इवा᳓श्वा वाजि᳓न **आ᳓ वहन्तु** ॥६॥  
 +++(३००० BCE इति काले फाल्गुनीषु प्रोष्ठपदासु च सौरायनवर्तनम् अदृश्यतेति प्रासङ्गिकं स्यात्।)+++
 
-</details>
 </div>
