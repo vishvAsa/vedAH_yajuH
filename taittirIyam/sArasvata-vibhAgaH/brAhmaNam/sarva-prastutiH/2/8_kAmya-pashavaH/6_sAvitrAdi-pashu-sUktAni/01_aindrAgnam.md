@@ -6,7 +6,8 @@ title = "०१ ऐन्द्राग्नम्"
 (SB) 1पञ्चम ऐन्द्राग्नपश्वादींनां सूक्तान्यभिहितानि । षष्ठे सावित्रादि पशूनां सूक्तान्यभिधीयन्ते । तत्र 'सावित्रमुपध्वस्तमालभेत' इत्यस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - 
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/045/01_A_devo.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/045/01_A_devo.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 आ᳓ देवो᳓ यातु सविता᳓ सुर᳓त्नो  
@@ -14,17 +15,21 @@ title = "०१ ऐन्द्राग्नम्"
 ह᳓स्ते द᳓धानो न᳓रिया पुरू᳓णि  
 निवेश᳓यञ् च प्रसुव᳓ञ् च भू᳓म
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/045/01_A_devo.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/045/01_A_devo.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 आ दे॒वो या॑तु सवि॒ता सु॒रत्नो॑ऽन्तरिक्ष॒प्रा वह॑मानो॒ अश्वैः॑ ।  
 हस्ते॒ दधा॑नो॒ नर्या॑ पु॒रूणि॑ निवे॒शय॑ञ्च प्रसु॒वञ्च॒ भूम॑ ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/045/01_A_devo.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/045/01_A_devo.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -366,6 +371,7 @@ Gott Savitar, der güterreiche, komme, die Luft durchdringend, mit den Rossen fa
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जी माणसे सूर्याप्रमाणे शुभ गुण, कर्म प्रकट करतात व माणसांचे हित करतात ती अत्यंत ऐश्वर्य प्राप्त करतात. ॥ १ ॥
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>

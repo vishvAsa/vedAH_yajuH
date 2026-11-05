@@ -267,16 +267,20 @@ ____
 आघारम् आघारयति
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 इत᳓ +++(अस्माद् आघारात्)+++ इ᳓न्द्रो अकृणोद् वीर्या᳙णि समार᳓भ्य  
 +++(अयम् आघार)+++ ऊर्ध्वो᳓ अध्वरो᳓ दिविस्पृ᳓शम् ।   
 +++(आघारवद्)+++ अ᳓ह्रुतो+++(=अकुटिलः)+++ यज्ञो᳓ यज्ञ᳓पतेर् इ᳓न्द्रावान् ।
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -312,6 +316,7 @@ Offered to Indra, hail!
 कोस्य विशेषः यत एवमकरोत् ? इत्याह - इन्द्रावान् इन्द्रेण देवतया तद्वान् । 'अन्येषामपि दृश्यते' (पा.सू. 6.3.137) इति दीर्घः । यतोयमाघार इन्द्रावान् तस्मादयमेव खलु यज्ञपतेर्यजमानस्य । 'पत्यावैश्वर्ये' (पा.सू. 6.2.18) इति पूर्वपदप्रकृतिस्वरत्वम् । अह्रुतः अकुटिलः निश्चितफलो यज्ञः ।
 </details>
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

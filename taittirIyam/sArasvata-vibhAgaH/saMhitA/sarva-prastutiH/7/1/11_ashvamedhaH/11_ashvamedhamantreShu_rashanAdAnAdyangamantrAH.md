@@ -13,7 +13,8 @@ title = "११ अश्वमेधमन्त्रेषु रशनाद
 1इत ऊर्ध्वमश्वमेधमन्त्राः । रशनामादत्ते। व्याख्यातं दर्शपूर्णमासयोः । देवस्य सवितुराज्ञां लब्ध्वा अश्विनोरेव बाहुभ्यां नात्मीयाभ्यां पूष्णा एव हस्ताभ्यां त्वामाददे ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
@@ -52,6 +53,7 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -69,27 +71,31 @@ I take thee with the arms of the Aśvins, with the hands of Pusan.
 आ द॑दे ।
 </details>
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/02_imAmagRbhNan_rashanAmRtasya.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/02_imAmagRbhNan_rashanAmRtasya.md">
+
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
-इमा᳓मगृभ्णन् रशना᳓मृत᳓स्य पू᳓र्वऽआ᳓युषि विद᳓थेषु कव्या᳓। सा᳓ नोऽअस्मि᳓न्त्सुत᳓ऽआ᳓बभूवऽऋत᳓स्य सा᳓मन्त्सर᳓मार᳓पन्ती ॥२ ॥
+इ॒माम॑गृभ्णन् रश॒नामृ॒तस्य॒ पूर्व॒ऽआयु॑षि वि॒दथे॑षु क॒व्या। सा नो॑ऽअ॒स्मिन्त्सु॒तऽआब॑भूवऽऋ॒तस्य॒ साम॑न्त्स॒रमा॒रप॑न्ती ॥२ ॥
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इमा᳓म् अगृभ्णन् रशना᳓म् ऋत᳓स्य+++(=यज्ञस्य)+++  
-पू᳓र्व आ᳓युषि+++(षे)+++ विद᳓थेषु+++(=यज्ञेषु)+++ कव्या᳓+++(=कवयः)+++ ।  
-त᳓या देवा᳓स् सुत᳓म् +++(सोमम्)+++ आ᳓ बभूवुर् ,
-ऋत᳓स्य सा᳓मन्थ्+++(म्नि [समाप्तौ])+++ सर᳓म्+++(=सरणं)+++ आर᳓पन्ती+++(=अभिवदन्ती)+++ ।
+इ॒माम् अ॑गृभ्णन् रश॒नाम् ऋ॒तस्य॒+++(=यज्ञस्य)+++  
+पूर्व॒ आयु॑षि+++(षे)+++ वि॒दथे॑षु+++(=यज्ञेषु)+++ क॒व्या+++(=कवयः)+++ ।  
+तया॑ दे॒वास् सु॒तम् +++(सोमम्)+++ आ ब॑भूवुर् ,
+ऋ॒तस्य॒ साम॑न्थ्+++(म्नि [समाप्तौ])+++ स॒रम्+++(=सरणं)+++ आ॒रप॑न्ती+++(=अभिवदन्ती)+++ ।
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/03_abhidhA-asi_bhuvanamasi.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/03_abhidhA-asi_bhuvanamasi.md">
+
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
-अभिधा᳓ऽअसि भु᳓वनमसि यन्ता᳓सि धर्त्ता᳓। स᳓ त्व᳓मग्निं᳓ वैश्वानरँ᳓ स᳓प्रथसं गच्छ स्वा᳓हाकृतः ॥३ ॥
+अ॒भि॒धाऽअ॑सि॒ भुव॑नमसि य॒न्तासि॑ ध॒र्त्ता। स त्वम॒ग्निं वै॑श्वान॒रँ सप्र॑थसं गच्छ॒ स्वाहा॑कृतः ॥३ ॥
 
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

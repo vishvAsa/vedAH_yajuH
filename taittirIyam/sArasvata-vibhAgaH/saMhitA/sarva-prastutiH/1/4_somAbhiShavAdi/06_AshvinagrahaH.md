@@ -10,7 +10,8 @@ _______
 1बहिष्पवमाने स्तुते आश्विनं गृह्णाति - या वां कशेति गायत्र्या त्रिपदया ॥ 
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/03_yA_vAM.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/03_yA_vAM.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 या᳓ वां क᳓शा म᳓धुमत्य्  
@@ -18,17 +19,21 @@ _______
 त᳓या यज्ञं᳓ **मिमिक्षतम्**+++(←मिह्)+++ ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/022/03_yA_vAM.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/022/03_yA_vAM.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 या वां॒ कशा॒ मधु॑म॒त्यश्वि॑ना सू॒नृता॑वती ।  
 तया॑ य॒ज्ञं मि॑मिक्षतम् ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/03_yA_vAM.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/03_yA_vAM.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -263,6 +268,7 @@ Die Peitsche, die von Honig trieft, o Ritter, reich an Gaben ist, Mit der benetz
 
 भावार्थभाषाः -  उपदेशाशिवाय कोणत्याही माणसाच्या ज्ञानाची थोडीही वृद्धी होऊ शकत नाही. त्यासाठी सर्व माणसांनी उत्तम विद्येचा उपदेश व श्रवण निरंतर केले पाहिजे. ॥ ३ ॥
 </details>
+
 </div>  
 
 _______
@@ -271,7 +277,8 @@ _______
 इत्यनुद्रुत्य उपयामगृहीतोस्यश्विभ्यां त्वेति गृह्णाति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -297,6 +304,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

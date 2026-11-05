@@ -15,15 +15,20 @@ unicode_script = "devanagari"
 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/01_prANo_rakhShati.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/01_prANo_rakhShati.md">
 
-प्रा॒णो **र॑क्षति॒** विश्व॒म् **एज॑त्** ।  
-**इर्यो॑ भू॒त्वा** ब॑हु॒धा ब॒हूनि॑ ।  
-स इत् सर्वव्ँ॒ **व्या॑नशे**+++(=व्याप्तवान्)+++ ।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+प्राणो᳓ **रक्षति** वि᳓श्वम् **ए᳓जत्** ।  
+**इ᳓र्यो भूत्वा᳓** बहुधा᳓ बहू᳓नि ।  
+स᳓ इ᳓त् स᳓र्वव्ँ **व्या᳙नशे**+++(=व्याप्तवान्)+++ ।  
+
+</details>
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/01_prANo_rakhShati.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/01_prANo_rakhShati.md">
+
 <details><summary>मूलम्</summary>
 
 प्रा॒णो र॑क्षति॒ विश्व॒मेज॑त् ।  
@@ -37,18 +42,24 @@ unicode_script = "devanagari"
 1तत्र प्रथमानुवाके प्रथमामृचमाह - योऽयं मुखनासिकावर्ती प्राणवायुः सोऽयं बहुधा भूत्वा प्राणापानादिवृत्तिभेदेनानेकप्रकारो भूत्वा बहूनि जीवजातानि प्रति इर्यः प्रेरकस्सन् एजत् कम्पमानं जङ्गमरूपं जगद्रक्षति स इत् स एव प्राणः सर्वं जगत् व्यानशे व्याप्तवान् ॥॥
 
 </details>
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/02_yo_devo.md">
-
-यो दे॒वो दे॒वेषु॑ वि॒भूर् अ॒न्तः ।  
-आ-वृ॑द् **ऊ॒दात्**+++(←वचने)+++ क्षेत्रिय् अ॑ध्व॒-गद् वृषा॑ ।  
-तम् इत् प्रा॒णम् मन॒सोप॑ **शिक्षत** ।  
-अग्र॑न् दे॒वाना॑म् इ॒दम् **अ॑त्तु** नो ह॒विः ।  
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/02_yo_devo.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/02_yo_devo.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+यो᳓ देवो᳓ देवे᳓षु विभू᳓र् अन्तः᳓ ।  
+आ᳓-वृद् **ऊदा᳓त्**+++(←वचने)+++ क्षे᳓त्रि᳓य् अध्व-ग᳓द् वृ᳓षा ।  
+त᳓म् इ᳓त् प्राण᳓म् म᳓नसो᳓प **शिक्षत** ।  
+अ᳓ग्रन् देवा᳓नाम् इद᳓म् **अत्तु** नो हविः᳓ ।  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/02_yo_devo.md">
+
 <details><summary>मूलम्</summary>
 
 यो दे॒वो दे॒वेषु॑ वि॒भूर॒न्तः ।  
@@ -68,17 +79,23 @@ unicode_script = "devanagari"
 
 यः इत्यस्य वाक्ये वर्तमानत्वाद्  तिङन्तस्वरो न हन्यते - तथा सति वद् → ऊदात्  इत्यस्मिन् तादृशः स्वरो भवितुम् अर्हति न वेति … ??
 </details>
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/03_manasashchittedam.md">
-
-मन॑स॒श् चित्ता॑+इ॒दम् ।  
-भू॒तम् भव्य॑ञ् च **गुप्यते** ।  
-तद् +हि दे॒वेष्व् अ॑ग्रि॒यम् ॥1॥  
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/03_manasashchittedam.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/03_manasashchittedam.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+म᳓नसश् चि᳓त्ता+इद᳓म् ।  
+भूत᳓म् भ᳓व्यञ् च **गुप्यते** ।  
+त᳓द् +हि᳓ देवे᳓ष्व् अग्रिय᳓म् ॥1॥  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/03_manasashchittedam.md">
+
 <details><summary>मूलम्</summary>
 
 मन॑स॒श्चित्ते॒दम् ।  
@@ -92,18 +109,24 @@ unicode_script = "devanagari"
 3अथ तृतीयामाह - यदिदं मनः अन्तःकरणमस्ति तस्य चित्ता चित्तेन वृत्तिविशेषेणेदं दृश्यमानं भूतं भव्यं चातीतमनागतं च सर्वं गुप्यते रक्ष्यते ॥ यत्पूर्वं निष्पन्नं पुत्रभृत्यादिचेतनं धनधान्याद्यचेतनं यच्चेतःपरं संपादनीयं चेतनमचेतनं च तत्सर्वं मनसैव परिरक्ष्यते ॥ तद्रक्षोपायानां मनसा चिन्त्यमानत्वात् ॥ हि यस्मात्कारणात् तन्मनो देवेषु दीप्यमानेष्विन्द्रियेषु अग्रियं श्रेष्ठं तस्मात्तेन रक्षणमुचितम् ॥॥
 
 </details>
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/04_A_na.md">
-
-आ न॑ **एतु** पुरश् च॒रम् ।  
-स॒ह दे॒वैर् इ॒मँ हव॑म्+++(=आह्वानम्)+++ ।  
-मन॒श् श्रेय॑सिश्रेयसि ।  
-कर्म॑न्+++(→णि)+++ य॒ज्ञ-प॑ति॒न् **दध॑त्** ।+++(5)+++
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/04_A_na.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/04_A_na.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+आ᳓ न **एतु** पुरश् चर᳓म् ।  
+सह᳓ देवै᳓र् इमँ᳓ ह᳓वम्+++(=आह्वानम्)+++ ।  
+म᳓नश् श्रे᳓यसिश्रेयसि ।  
+क᳓र्मन्+++(→णि)+++ यज्ञ᳓-पतिन् **द᳓धत्** ।+++(5)+++
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/04_A_na.md">
+
 <details><summary>मूलम्</summary>
 
 आ न॑ एतु पुरश्च॒रम् ।  
@@ -118,17 +141,23 @@ unicode_script = "devanagari"
 4अथ चतुर्थीमाह - तन्मनो देवैर्दीप्यमानैरन्यैरिन्द्रियैः सह पुरश्चरं स्वयमग्रगामि भूत्वा नोऽस्मदीयमिमं हवमाह्वानं प्रत्येतु आभिमुख्यं प्राप्नोतु ॥ किं कुर्वन्? श्रेयसिश्रेयसि कर्मन् तस्मिंस्तस्मिन्प्रशस्ते कर्मणि यज्ञपतिं दधत् यजमानं स्थापयतु सर्वेषु पुण्यकर्मसु प्रवर्तयत्वित्यर्थः ॥ तदेतन्मन्त्रद्वयं मनोदेवताविषयं द्रष्टव्यम् ॥॥
 
 </details>
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/05_juShatAmme_vAgidam.md">
-
-**जु॒षता॑म्** मे॒ वाग् इ॒दँ ह॒विः ।  
-वि॒राड् दे॒वी पु॒रोहि॑ता ।  
-ह॒व्य॒-वाड् **अन॑पायिनी** ।
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/05_juShatAmme_vAgidam.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/05_juShatAmme_vAgidam.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+**जुष᳓ताम्** मे वा᳓ग् इदँ᳓ हविः᳓ ।  
+विरा᳓ड् देवी᳓ पुरो᳓हिता ।  
+हव्य-वा᳓ड् **अ᳓नपायिनी** ।
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/05_juShatAmme_vAgidam.md">
+
 <details><summary>मूलम्</summary>
 
 जु॒षता॑म्मे॒ वागि॒दँ ह॒विः ।  
@@ -142,18 +171,24 @@ unicode_script = "devanagari"
 5अथ पञ्चमीमाह - इदं पुरोवर्ति मे हविः वाग्देवी सेवताम् ॥ कीदृशी? विराट् विविधं राजत हति विराड्विराजमाना देवी देवताविग्रहा पुरोहिता प्रथमतः प्रवृत्ता ॥ यद्यपि पुरश्चरत्वं मनस उक्तं, तथाऽपि कायव्याप्रारापेक्षया पूर्वभावित्वं प्रथममवृत्तिर्वचसो युक्ता ॥ अत एव व्यवहारक्रमोऽन्यत्राम्नातः - 'यद्धि मनसा ध्यायति तद्वाचा वदति तत्कर्मणा करोति' इति ॥ हव्यवाट्, वाचा हि मन्त्रमुच्चार्य हविर्दीयते तस्माद्वागियं हविर्वहतीत्युपचर्यते ॥ अनपायिनी सर्वेष्वपि व्यवहारेष्वनुगता ॥ न हि वागिन्द्रियमन्तरेणातीतानागतविषयो व्यवहारः संभवति ॥॥
 
 </details>
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/06_yayA_rUpANi.md">
-
-यया॑ रू॒पाणि॑ बहु॒धा **वद॑न्ति** ।  
-पेशाँ॑सि दे॒वाᳶ प॑र॒मे ज॒नित्रे॑ ।          
-सा नो॑ वि॒राड् **अन॑पस्फुरन्ती** ॥2॥                   
-वाग्-दे॒वी **जु॑षताम्** इ॒दँ ह॒विः ।  
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/06_yayA_rUpANi.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/06_yayA_rUpANi.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+य᳓या रूपा᳓णि बहुधा᳓ **व᳓दन्ति** ।  
+पे᳓शाँसि देवाᳶ᳓ परमे᳓ जनि᳓त्रे ।          
+सा᳓ नो विरा᳓ड् **अ᳓नपस्फुरन्ती** ॥2॥                   
+वा᳓ग्-देवी᳓ **जुषताम्** इदँ᳓ हविः᳓ ।  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/06_yayA_rUpANi.md">
+
 <details><summary>मूलम्</summary>
 
 यया॑ रू॒पाणि॑ बहु॒धा वद॑न्ति ।  
@@ -168,18 +203,24 @@ unicode_script = "devanagari"
 6अथ षष्ठीमाह - यान्येतानि देवतिर्यङ्मनुष्यादिरूपाणि यानि च नीलपीतशुक्लकृष्णादिरूपाणि तानि सर्वाणि यया वाचा मनुष्या वहुधा वदन्ति, इदं समीचीनमिदमसमीचीनमित्येतादृशं बहुधा वदन्ति ॥ तथा - परमे जनित्रे उत्तमे जन्मनि वर्तमाना देवाश्च पेशांमि रमणीयानि रूपाणि यया वाचा वदन्ति ॥ सा वाग्देवी नौऽस्मदीयमिदं हृविर्जुषताम् ॥ कीदृशी वाक्? अर्थप्रकाशकत्वेन विविधं राजत इति विराट् ॥ अपस्फुरणमर्थाभिधाने कुण्ठीभावः तद्राहित्यादनपस्फुरन्ती ॥ तदिदं मन्त्रद्वयं वाग्देवता विषयं द्रष्टव्यम् ॥॥
 
 </details>
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/07_chakhShurdevAnAnjyotiramRte.md">
-
-चक्षु॑र् दे॒वाना॒ञ् +++(→सूर्यः)+++ ज्योति॑र् अ॒मृते॒ **न्य॑क्तम्** ।  
-अ॒स्य +++(→सर्वस्य)+++ वि॒ज्ञाना॑य बहु॒धा **निधी॑यते** ।  
-तस्य॑ +++(→चक्षुषोः)+++ सु॒म्नम् **अ॑शीमहि** ।  
-मा नो॑ **हासीद्** विचक्ष॒णम् ।  
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/07_chakhShurdevAnAnjyotiramRte.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/07_chakhShurdevAnAnjyotiramRte.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+च᳓क्षुर् देवा᳓नाञ् +++(→सूर्यः)+++ ज्यो᳓तिर् अमृ᳓ते **न्य᳙क्तम्** ।  
+अस्य᳓ +++(→सर्वस्य)+++ विज्ञा᳓नाय बहुधा᳓ **नि᳓धीयते** ।  
+त᳓स्य +++(→चक्षुषोः)+++ सुम्न᳓म् **अशीमहि** ।  
+मा᳓ नो **हासीद्** विचक्षण᳓म् ।  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/07_chakhShurdevAnAnjyotiramRte.md">
+
 <details><summary>मूलम्</summary>
 
 चक्षु॑र्दे॒वाना॒ञ्ज्योति॑र॒मृते॒ न्य॑क्तम् ।  
@@ -196,18 +237,24 @@ unicode_script = "devanagari"
 **तस्य** चक्षुरिन्द्रियस्य **सुम्नं** सुखं तेन चक्षुरिन्द्रियेण रूपप्रकाशने सति यात्सुखं जायते तत्सर्वमशीमहे अश्नुवीमहि प्राप्नुयाम ॥ **विचक्षणं** विशेषेण प्रकाशकं, तच्चक्षुरिन्द्रियं नोऽस्मान् मा हासीत् कदाचिदपि मा परित्यजतु ॥॥
 
 </details>
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/08_AyurinnapH_pratIryatAm.md">
-
-आयु॒र् इन् न॒ᳶ **प्रती॑र्यताम्** ।  
-अन॑न्धा॒श् चक्षु॑षा व॒यम् ।  
-जी॒वा ज्योति॑र् **अशीमहि** ।  
-सुव॒र् ज्योति॑र् उ॒तामृत॑म् ।  
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/08_AyurinnapH_pratIryatAm.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/08_AyurinnapH_pratIryatAm.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+आ᳓युर् इ᳓न् नᳶ **प्र᳓तीर्यताम्** ।  
+अ᳓नन्धाश् च᳓क्षुषा वय᳓म् ।  
+जीवा᳓ ज्यो᳓तिर् **अशीमहि** ।  
+सु᳓वर् ज्यो᳓तिर् उता᳓मृ᳓तम् ।  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/08_AyurinnapH_pratIryatAm.md">
+
 <details><summary>मूलम्</summary>
 
 आयु॒रिन्न॒ᳶ प्रती॑र्यताम् ।  
@@ -222,18 +269,24 @@ unicode_script = "devanagari"
 8अथाष्टमीमाह - चक्षुर्देवताप्रसादेन नोऽस्मदीयमायुरित् प्रतीर्यतां सर्वथा वर्धताम् ॥ अनेन चक्षुषा युक्ता वयं जीवाः क्वाप्यनन्धाः सन्तो रूपाभिव्यक्तवृतिलक्षणं ज्योतिः अशीमहि प्राप्नुयाम ॥ उत अपि च सुवः स्वर्गस्थितममृतं ज्योतिः विनाशरहितमादित्यप्रकाशं अशीमहि चक्षुषा पश्येम ॥ तदिदं मन्त्रद्वयं चक्षुर्देवताविषयं द्रष्टव्यम् ॥॥
 
 </details>
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/09_shrotreNa_bhadramuta.md">
-
-श्रोत्रे॑ण भ॒द्रम् उ॒त **शृ॑ण्वन्ति** स॒त्यम् ।  
-श्रोत्रे॑ण॒ वाच॑म् **बहु॒धोद्यमा॑नाम्** ।  
-श्रोत्रे॑ण॒ मोद॑श् च॒ मह॑श् च **श्रूयते** ।  
-श्रोत्रे॑ण॒ सर्वा॒ दिश॒ आ **शृ॑णोमि** ।  
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/09_shrotreNa_bhadramuta.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/09_shrotreNa_bhadramuta.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+श्रो᳓त्रेण भद्र᳓म् उत᳓ **शृण्वन्ति** सत्य᳓म् ।  
+श्रो᳓त्रेण वा᳓चम् **बहुधो᳓द्य᳓मानाम्** ।  
+श्रो᳓त्रेण मो᳓दश् च म᳓हश् च **श्रूयते** ।  
+श्रो᳓त्रेण स᳓र्वा दि᳓श आ᳓ **शृणोमि** ।  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/09_shrotreNa_bhadramuta.md">
+
 <details><summary>मूलम्</summary>
 
 श्रोत्रे॑ण भ॒द्रमु॒त शृ॑ण्वन्ति स॒त्यम् ।  
@@ -248,18 +301,24 @@ unicode_script = "devanagari"
 9अथ नवमीमाह - यद्भद्रं कल्याणं यच्च सत्यं वचनं तत्सर्वं श्रोत्रेणैव सर्वे शृण्वन्ति ॥ येयं वाक् प्राणिभिर्बहोधोच्यते तां सर्वां वाचमनेन श्रोत्रेन्द्रियेण सर्वो जनः शृणोति ॥ किं च - योऽयं मोदो हर्षविषयो वृत्तान्तो यच्च महः पूजाविषयो वृत्तान्तः स सर्वोऽपि श्रोत्रेणैव श्रूयते ॥ किं च - सर्वा दिशो योऽयं सर्वदिग्विषयो वृत्तान्तः तमप्यहं श्रोत्रेण सर्वत आशृणोनि ॥॥
 
 </details>
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/10_yena_prAchyA.md">
-
-येन॒ प्राच्या॑ उ॒त द॑क्षि॒णा ।
-प्र॒तीच्यै॑ दि॒शश् **शृ॒ण्वन्त्य्** उ॑त्त॒रात् ।  
-तद् इच् छ्रोत्र॑म् **बहु॒धोद्यमा॑नम्** ।  
-अ॒रान् न ने॒मिᳶ परि॒ सर्व॑म् **बभूव** ॥3॥+++(5)+++  
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/10_yena_prAchyA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/10_yena_prAchyA.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+ये᳓न प्रा᳓च्या उत᳓ दक्षिणा᳓ ।
+प्रती᳓च्यै दिश᳓श् **शृण्व᳓न्त्य्** उत्तरा᳓त् ।  
+त᳓द् इ᳓च् छ्रो᳓त्रम् **बहुधो᳓द्य᳓मानम्** ।  
+अरा᳓न् न᳓ नेमिᳶ᳓ प᳓रि स᳓र्वम् **बभूव** ॥3॥+++(5)+++  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/10_yena_prAchyA.md">
+
 <details><summary>मूलम्</summary>
 
 येन॒ प्राच्या॑ उ॒त द॑क्षि॒णा ।
@@ -275,4 +334,5 @@ unicode_script = "devanagari"
 
 इति तैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके पञ्चमप्रपाठके प्रथमोऽनुवाकः ॥  
 </details>
+
 </div>

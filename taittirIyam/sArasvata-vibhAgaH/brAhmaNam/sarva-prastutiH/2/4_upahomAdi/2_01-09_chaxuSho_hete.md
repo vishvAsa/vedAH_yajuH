@@ -12,7 +12,8 @@ unicode_script: devanagari
 
 ## मेनिवारणम्
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/02_chaxuSho_hete.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/02_chaxuSho_hete.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 च᳓क्षुषो-हेते म᳓नसो-हेते,  
@@ -21,9 +22,11 @@ unicode_script: devanagari
 त᳓म् अग्ने मेन्या᳓+++(=मन्युना)+++ **ऽमेनिं᳓ कृणु** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/02_chaxuSho_hete.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/02_chaxuSho_hete.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -38,9 +41,11 @@ unicode_script: devanagari
 चक्षुरादीनां ज्ञानेन्द्रियाणां शत्रुसंबन्धिनां हे! हेते! विनाशहेतो! मनसस्चान्तःकरणस्य हेते! वागादीनां च कर्मेन्द्रियाणां हेते! ब्रह्मणो मन्त्रस्य कर्मणो वा हेते! यो मामघायुः अघं पापं वधादिकं ममेच्छन् 'छन्दसि परेच्छायामपि' इति क्यच् । 'अश्वाघस्स्यात्' इत्यात्वम् । अभिदासति क्षपयति 'दमु उपक्षये' वर्णविकारश्छान्दसः । हे! अग्ने! तदीयचक्षुरादिविनाशक! तं मेन्या वज्ज्रेणायुधेन अमेनिं अशरीरं कृणु कुरु । अमनस्कमित्येके । मारयेति यावत् ॥
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/05_yo_mA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/05_yo_mA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 यो᳓ मा च᳓क्षुषा यो᳓ म᳓नसा,  
@@ -49,9 +54,11 @@ unicode_script: devanagari
 अमु᳓म् **अमेनिं᳓ कृणु** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/05_yo_mA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/05_yo_mA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -66,11 +73,13 @@ unicode_script: devanagari
 2यो मेति बृहतीविशेषः ॥ यो मां चक्षुरादिना अघायुः चक्षुरादिविनाशरूपं ममेच्छन् मामभिदासति अमुं अमुकशर्माणं मेन्या तया अमेनिं कृणु हे! अग्ने! ॥
 </details>
 </details>
+
 </div>
 
 ## अभिचार-प्रतीकारः
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/08_yat_kinchAsau.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/08_yat_kinchAsau.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 य᳓त् कि᳓ञ्चासौ᳓ म᳓नसा य᳓च् च वाचा᳓,  
@@ -79,9 +88,11 @@ unicode_script: devanagari
 पुरा᳓ दिष्टा᳓द्+++(=दैवात् तदनुकूलाद्)+++ आ᳓हुतीर् अस्य **हन्तु** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/08_yat_kinchAsau.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/08_yat_kinchAsau.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -96,9 +107,11 @@ unicode_script: devanagari
 3यत्किंचेति त्रिष्टुप् ॥ असौ अमुकनामा मम मरणार्थं यत्किंचिन्मनसा वाचा च यज्ञैर्जुहोति हविर्भिस्माधनैः, तत् तदा अस्य आहुतीर्हन्तु मृत्युः । निर्ऋत्या कृच्छ्रवत्या संविदानः ऐकमत्यं गतः आदिष्टात्पुरा प्रागेव देवतादेशात् प्रागेव हन्तु उत्तरकाले हन्तुमशक्यत्वात् ॥
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/11_yAtudhAnA_nirRtir.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/11_yAtudhAnA_nirRtir.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 यातुधा᳓ना नि᳓रृतिर् आ᳓दु+++(=अनु)+++ र᳓क्षः,  
@@ -107,9 +120,11 @@ unicode_script: devanagari
 मा᳓ त᳓त् **स᳓मृद्धि** य᳓द् असौ᳓ **करो᳓ति** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/11_yAtudhAnA_nirRtir.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/11_yAtudhAnA_nirRtir.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -124,11 +139,13 @@ unicode_script: devanagari
 4यातुधाना इति त्रिष्टुप् ॥ दक्षिणादिग्वासिनी निर्ऋतिरुक्ता । रक्षः प्रसिद्धम् । ते यज्ञविद्वेषिणः सर्वे अस्य मदीयस्य शत्रोः सत्यं यागफलं आदु अनन्तरमेव घ्नन्तु अनृतेन विपरीतसाधनेन । पुंसश्शेषश्छान्दसः । किंच ते सर्वेऽपि इन्द्रेषिता इन्द्रेण प्रेषिताः आज्यं आज्यादिकं हविः मथ्नन्तु । मा तत्समृद्धि तत्कर्म संगतर्द्धिकं समृद्धं मा भूत् । यदसौ यज्ञशर्मा करोति साधयति । यद्वा - तत्कर्म मा समृद्धिं यत्करोति कर्म अमुकः । च्लेः वर्णविकारः ॥
 </details>
 </details>
+
 </div>
 
 ## प्रतिज्ञा
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/14_hanmi_te-ham.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/14_hanmi_te-ham.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **ह᳓न्मि** तेऽहं᳓  कृतँ᳓ हविः᳓,  
@@ -137,9 +154,11 @@ unicode_script: devanagari
 **अ᳓पनह्याम्य्** (=बध्नामि) आस्य᳙म् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/14_hanmi_te-ham.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/14_hanmi_te-ham.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -154,9 +173,11 @@ unicode_script: devanagari
 5हन्मि त इत्याद्या अनुष्टुभः ॥ शत्रो! त्वदीयं कृतं हविः अहं हन्मि नाशयामि यस्त्वं मे घोरं क्रूरं आयुरादिकं अचीकृतः कृन्तासि । 'कृती छेदने' । किंच तव ते उभावपि बाहू अपाञ्चौ अपगतौ आस्यं च अपनह्यामि ॥
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/17_apanahyAmi_te.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/17_apanahyAmi_te.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **अ᳓पनह्यामि** ते बाहू᳓,  
@@ -165,9 +186,11 @@ unicode_script: devanagari
 स᳓र्वं ते **ऽवधिषं** कृत᳓म् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/17_apanahyAmi_te.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/17_apanahyAmi_te.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -182,11 +205,13 @@ unicode_script: devanagari
 6अपनह्यामीत्याद्यर्धर्चो गतः । अग्नेर्देवस्य दीप्तिमतः ब्रह्मणा तेजसा कर्मणा वा ते त्वदीयं कृतं सर्वमपि कर्म अवधिषं हतवानेवास्मि ॥
 </details>
 </details>
+
 </div>
 
 ## अभिचार-प्रतीकारः
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/20_purA.amuShya.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/20_purA.amuShya.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 पुरा᳓ ऽमु᳓ष्य वषट्कारा᳓त्,  
@@ -195,9 +220,11 @@ unicode_script: devanagari
 मा᳓ऽस्मा᳓न् **प्रा᳓पन्न्** अ᳓रातयः ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/20_purA.amuShya.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/20_purA.amuShya.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -212,9 +239,11 @@ unicode_script: devanagari
 7पुराऽमुष्येति ॥ अमुष्य यज्ञशर्मणो वषट्कारात्पुरैव अस्माकं यज्ञं देवेषु कृधि कुरु स्थापय । अस्य यज्ञः छिनत्तु । अस्माकं स्विष्टं भूयात् । अस्मान् मा प्रापन् अप्राप्यैव विनश्यन्तु ॥
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/23_anti_dUre.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/23_anti_dUre.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अ᳓न्ति दूरे᳓ **सतो᳓** अग्ने,  
@@ -223,9 +252,11 @@ unicode_script: devanagari
 कृत्याँ᳓ **हन्मि कृता᳓म्** अह᳓म् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/23_anti_dUre.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/23_anti_dUre.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -240,9 +271,11 @@ unicode_script: devanagari
 8अन्ति दूर इत्यादि ॥ अन्तिके दूरे वा सतः भ्रातृव्यस्य शत्रोः 'कादिलोपो बहुलम्' इत्यन्तिकस्य लोपः । अभिदासतः मामुपक्षयितुं प्रवृत्तस्य संबन्धिनीं तेन कृतां कृत्यां वज्रस्थानीयेन वषट्कारेण अहं हन्मि त्वत्प्रसादात् ॥
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/26_yo_mA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/26_yo_mA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 यो᳓ मा न᳓क्तं दि᳓वा+++(→अव्ययः स्वर-भेदतः)+++ साय᳓म्,  
@@ -251,9 +284,11 @@ unicode_script: devanagari
 भ्रा᳓तृव्यं **पादयामसि**+++(=पातयामि)+++ ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/26_yo_mA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/26_yo_mA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -268,4 +303,5 @@ unicode_script: devanagari
 9यो मा नक्तमिति ॥ नक्तं दिवा च अह्नोपि सायं प्रातश्च अविरतं यो मां निपीयति नियमेन पिबति शोषयति अद्य अस्मिन् कर्मणि अप्रतिहतशक्त्या तं भ्रातृव्यं पादयामसि गमयामः मनुष्यलोकात् हे! इन्द्र! त्वत्प्रसादात् ॥
 </details>
 </details>
+
 </div>

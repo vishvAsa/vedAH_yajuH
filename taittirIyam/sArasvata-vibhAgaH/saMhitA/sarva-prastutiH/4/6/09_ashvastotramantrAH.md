@@ -133,7 +133,8 @@ title = "०९ अश्वस्तोत्रमन्त्राः"
 अथ षष्ठीमृचमाह– यत्ते साद इति ।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/162/17_yatte_sAde.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/162/17_yatte_sAde.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 य᳓त् ते सादे᳓ म᳓हसा शू᳓कृतस्य  
@@ -141,17 +142,21 @@ title = "०९ अश्वस्तोत्रमन्त्राः"
 स्रुचे᳓व ता᳓ हवि᳓षो अध्वरे᳓षु  
 स᳓र्वा ता᳓ ते ब्र᳓ह्मणा सूदयामि
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/162/17_yatte_sAde.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/162/17_yatte_sAde.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 यत्ते॑ सा॒दे मह॑सा॒ शूकृ॑तस्य॒ पार्ष्ण्या॑ वा॒ कश॑या वा तु॒तोद॑ ।  
 स्रु॒चेव॒ ता ह॒विषो॑ अध्व॒रेषु॒ सर्वा॒ ता ते॒ ब्रह्म॑णा सूदयामि ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/162/17_yatte_sAde.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/162/17_yatte_sAde.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -496,6 +501,7 @@ Was bei deiner Ermüdung durch das Uebermass des Antreibens, oder durch die Fers
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे जसे विद्वान घोड्याला वेताने, बैलाला चाबकाने व हत्तीला अंकुशाने मारतात व त्यांना त्वरित पळवितात, तसेच कलायंत्राने अग्नीला चांगल्या प्रकारे चालवून विमान इत्यादी याने शीघ्र चालवावीत. ॥ १७ ॥
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>

@@ -10,7 +10,8 @@ title: १० हविर्ग्रहणम्
 गार्हपत्ये स्रुवादीन् प्रतितपति
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pratyuShTam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pratyuShTam.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓त्युष्टँ र᳓क्षᳶ, प्र᳓त्युष्टा अ᳓रातयः+++(=अदातारः)+++।
@@ -44,6 +45,7 @@ The Raksas is burned up, the evil spirits are burned up.
 
 किञ्च, अरातयोपि प्रत्युष्टास्सन्तु । रातयो धनस्य दातारस्सुहृदः । 'कृत्यल्युटो बहुळम्' (पा.सू. 3.3.113) इति बहुलवचनात्कर्तरि क्तिन् । अतोन्येऽरातयः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) ॥
 </details>
+
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -245,12 +247,16 @@ ____
 पत्नीं योक्त्रेण सन्नह्यति, तदा पत्नी वदति-
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 आशा᳓साना सौमनसं᳓  
 प्रजां᳓ सौ᳓भाग्यं तनूम्।  
 अग्ने᳓र् अ᳓नुव्रता भूत्वा᳓ +++(तिष्ठति/ तिष्ठामि)+++,  
 +++(तां)+++ सं᳓ नह्ये सुकृता᳓य क᳓म् +++(=सुखम् [यथा])+++।
+
+</details>
 
 </div>
 
@@ -284,17 +290,21 @@ ____
 7पत्नी गार्हपत्यमुपसीदति - सुप्रजस इति चतुष्पदयानुष्टुभा ॥   
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 सु-प्रज᳓सस् त्वा वयँ᳓  
 सु-प᳓त्नीर् **उ᳓प सेदिम** ।  
 अ᳓ग्ने सपत्न-द᳓म्भनम् +++(त्वां)+++  
 **अ᳓-दब्धासो** अ᳓-दाभ्यम् ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -322,6 +332,7 @@ The undeceivable, we that are not deceived.
 कीदृशं - सपत्नदम्भनं शत्रूणां विनाशसाधनम् । करणे ल्युटि, कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) । यस्मादीदृशस्त्वं तस्मात् त्वामुपसीदामः । अदब्धासः त्वत्प्रसादेन केनाप्यहिंसिताः । 'आज्जसेरसुक्' (पा.सू. 7.1.50) । अदाभ्यं केनचिदप्यनभिभवनीयं त्वाम् । दभिः प्रकृत्यन्तरमस्तीति केचिदाहुः । 'दभेश्चेति वक्तव्यम्' (पा.सू. 3.1.124 वा 3) इति ण्यत्, उभयत्राप्यव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) ॥
 </details>
 </details>
+
 </div>
 
 ____
@@ -331,17 +342,21 @@ ____
 8योक्त्रं पत्नी विमुञ्चति - इममिति त्रिष्टुभा चतुष्पदया ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/46_imav.N_viShyAmi.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/46_imav.N_viShyAmi.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 इमव्ँ᳓ **वि᳓ष्यामि**+++(=प्रमुञ्चामि)+++ व᳓रुणस्य+++(=छादकस्य [वस्त्रस्य/ वरुणस्य वा])+++ पा᳓शय्ँ +++(योक्त्ररूपम्)+++  
 य᳓म् **अ᳓बध्नीत** सविता᳓ सुके᳓तः ।   
 धातु᳓श्+++(→अग्नेः)+++ च यो᳓नौ, सुकृत᳓स्य लोके᳓  
 **स्योन᳓म्** मे सह᳓ प᳓त्या **करोमि** ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/46_imav.N_viShyAmi.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/46_imav.N_viShyAmi.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -368,6 +383,7 @@ I make it pleasant for me with my husband.
 किञ्च - धातुः प्रजापतेरपि योनौ स्थाने सुकृतस्य लोके शोभनकर्मसम्बन्धिनि लोके पत्या सह मे स्योनं सुखं करोमि, योक्त्रविमोकेन सम्यग्यज्ञनिष्पत्तेः । सुकृतशब्दोऽन्तोदात्तस्वरः ॥
 </details>
 </details>
+
 </div>
 
 ____
@@ -377,17 +393,21 @@ ____
 सयोक्त्रे ऽञ्जलौ उद-पात्र आनीयमाने पत्नी गार्हपत्यम् उपतिष्ठते
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/51_samAyuShA_samprajayA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/51_samAyuShA_samprajayA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 स᳓म् आ᳓युषा स᳓म् प्रज᳓या  
 **स᳓म्** अग्ने व᳓र्चसा पु᳓नः ।  
 स᳓म्प᳓त्नी प᳓त्या ऽह᳓ङ् **गच्छे**  
 स᳓म् आत्मा᳓ तनु᳓वा म᳓म ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/51_samAyuShA_samprajayA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/51_samAyuShA_samprajayA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -416,6 +436,7 @@ United be my spirit with my body.
 किञ्च - ममात्मा क्षेत्रज्ञस्तनुवा अविकलेन्द्रियेण शरीरेण संगच्च्छताम् । अनेन कर्मणा एतत्सर्वं ममास्त्विति । तनुवेति 'तन्वादीनां छन्दसि बहुलम्' (पा.सू. 6.4.77 वा 1) इत्युवङादेशः । ममेति 'युष्मदस्मदोर्ङसि' (पा.सू. 6.1.211) इत्याद्युदात्तत्वम् ॥
 </details>
 </details>
+
 </div>
 
 ____
@@ -430,7 +451,8 @@ ____
 म॒ही॒नाम्पयो॒ऽस्योष॑धीनाँ॒ रस॒स्तस्य॒ तेऽक्षी॑यमाणस्य॒ निः [17]व॒पा॒मि
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आज्य!)+++ महीना᳓म् +++(गवां)+++ प᳓यो ऽसि  ।  
@@ -461,6 +483,7 @@ of plants the sap.
 किञ्च - ओषधीनां रसोसि रसभूतमसि, भक्षिततृणादिपरिणामत्वात्तस्य । दासीभारादित्वात् (पा.सू. 6.2.42) ओषधिशब्दस्य पूर्वपदप्रकृतिस्वरत्वम् । 'नामन्यतरस्याम्' (पा.सू. 6.1.177), इति वचनादत्र नाम उदात्तत्वं न भवति ।
 
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -496,7 +519,8 @@ __
 पत्नी आज्यमवेक्षते
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आज्य!)+++ महीना᳓म् +++(गवां)+++ प᳓यो ऽसि  ।  
@@ -527,6 +551,7 @@ of plants the sap.
 किञ्च - ओषधीनां रसोसि रसभूतमसि, भक्षिततृणादिपरिणामत्वात्तस्य । दासीभारादित्वात् (पा.सू. 6.2.42) ओषधिशब्दस्य पूर्वपदप्रकृतिस्वरत्वम् । 'नामन्यतरस्याम्' (पा.सू. 6.1.177), इति वचनादत्र नाम उदात्तत्वं न भवति ।
 
 </details>
+
 </div>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -773,7 +798,8 @@ ____
 प्रोक्षणीरुत्पुनाति
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 देवो᳓ वस् सवितो᳓त्पुनात्व्  
@@ -782,9 +808,11 @@ ____
 
 +++('असौ वा आदित्योच्छिद्रं पवित्रम्' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ।)+++
 </details>
+
 </div>
 
-<div class="js_include" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
+
 <details open><summary><h4>देवो वस् सविता …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -818,6 +846,7 @@ with the rays of the bright sun.
 </div>
 </details>
 </details>
+
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -868,7 +897,8 @@ I grasp thee shining in the shining,
 आघारार्थत्वात्, प्रयाजार्थत्वाच्च 'धाम्नेधाम्ने' इत्याद्युपपद्यते । एवमुपभृद्ध्रुवयोरपि वेदितव्यम्॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … धा᳓म्नेधाम्ने+++(=धारणेधारणे)+++ देवे᳓भ्यो य᳓जुषेयजुषे गृह्णामि।
@@ -935,7 +965,8 @@ I grasp thee shining in the shining,
 I grasp thee radiance in the radiance,  
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … धा᳓म्नेधाम्ने+++(=धारणेधारणे)+++ देवे᳓भ्यो य᳓जुषेयजुषे गृह्णामि।
@@ -997,7 +1028,8 @@ I grasp thee resplendent in the resplendence
 20ध्रुवायां गृह्णाति - अर्चिरिति ॥ अर्चिषो हेतुत्वादर्चिश्शब्देनोच्यते । तादृशं त्वां अर्चिषि देवानामर्चनसाधने ध्रुवायां गृह्णामि । शिष्टं स्पष्टम् (तै.सं. 1.1.10) ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … धा᳓म्नेधाम्ने+++(=धारणेधारणे)+++ देवे᳓भ्यो य᳓जुषेयजुषे गृह्णामि।

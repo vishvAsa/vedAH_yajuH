@@ -279,7 +279,8 @@ _______
 11-13स्रुग्-व्यूहन-मन्त्रौ वाजस्येत्यनुष्टुभौ ॥ व्याख्याते चैते ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/vAjasya_mA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/vAjasya_mA.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1स्रुचौ व्यूहति - वाजस्येत्यनुष्टुब्भ्यां चतुष्पदाभ्याम् ॥
@@ -447,6 +448,7 @@ __________
 
 अथेन्द्राग्नी मम सपत्नान्विषूचीनान्सर्वतः पलायमानान्व्यस्यतां विनाशयेताम्। 
 </details>
+
 </div>  
 
 ## दोहः
@@ -461,16 +463,20 @@ _______
 एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा॒ इन्द्र॑वन्तः [12]व॒ना॒म॒हे॒ धु॒क्षी॒महि॑ प्र॒जामिष॑म् ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 आ᳓+इमा᳓ अग्मन्न् आशि᳓षो दो᳓ह-का᳓मा᳓  
 इ᳓न्द्रवन्तो  वनामहे᳓ ।    
 धुक्षीम᳓हि प्रजा᳓म् इ᳓षम्  ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -507,6 +513,7 @@ May we milk offspring and food.
 यस्मिन्काले होता सूक्तवाकं पठन्नाशास्तेऽयमित्यादिवाक्यामुच्चारयति तस्मिन्कालेऽध्वर्युर्यजमानमेमा अग्मन्नित्यादियज्ञदोहमन्त्रं वाचयति। सूक्तवाक आयुराशास्ते सुप्रजास्त्वमाशास्त इत्यादय आयुराद्याशिषः समाम्नाताः। इमा आशिषोऽग्मन्मां प्रत्यागच्छन्तु। वयमप्यायुरादिदोहं कामयमानास्तत्फलप्रदेनेन्द्रेण युक्तत्वादिन्द्रवन्तस्तमिन्द्रं वनामहे भजामहे। तेन भजनेन पुत्रपौत्रादिप्रजामिष-मिष्यमाणमन्नायुरादिकं धुक्षीमहि कामधेनुसदृशीमिन्द्रदेवतां दुह्यास्म।  
 </details>
 </details>
+
 </div>
 
 ## प्रस्तरप्रहारे
@@ -615,17 +622,21 @@ _______
 वि ते॑ मुञ्चामि रश॒ना वि र॒श्मीन् वि योक्त्रा॒ यानि॑ परि॒चर्त॑नानि ध॒त्ताद॒स्मासु॒ द्रवि॑णय्ँ॒यच्च॑ भ॒द्रम्प्र णो॑ ब्रूताद्भाग॒धान्दे॒वता॑सु ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 +++(अश्वीकृताग्ने!)+++ वि᳓ ते **मुञ्चामि** रशना᳓, वि᳓ रश्मी᳓न्,  
 वि᳓ यो᳓क्त्रा, या᳓नि परिच᳓र्तनानि+++(←चृती हिंसादौ)+++ ।  
 **धत्ता᳓द्** अस्मा᳓सु द्र᳓विणय्ँ य᳓च् च भद्र᳓म्,  
 +++(तेषु)+++ प्र᳓ णो **ब्रूताद्** भाग-धा᳓न् देव᳓तासु  ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -663,6 +674,7 @@ Proclaim us sharers among the gods.
 लोके ह्यारुरुक्षुरारोहणीयमश्वं रशनादिभिः सर्वतो बध्नाति। तत्र रशनाशब्देन पल्ययनदार्ढ्यायोदरे बध्यमाना तन्तुमयी चर्ममयी वा कक्ष्याऽभिधीयते। रश्मिशब्देनाश्वमुखे संलग्नो हस्तेनाश्वनियमनार्थो रज्‍जु-विशेष उच्यते। योक्त्रशब्देनाश्वं स्तम्भे बद्धु(न्धु)मुपयुक्तो रज्‍जुविशेषः। पल्ययनस्य पुरतः पृष्ठतश्चापसरणं वारयितुमुरःपुच्छादौ बन्धनोपयुक्ता रज्जुविशेषाः परिचर्तनशब्देनोच्‍यन्ते। अश्ववदग्नेश्च रशनादिस्थानीयाः परिधयः। हेऽग्ने तव बन्धनहेतून्परिधिरूपान्‍रशनादीन्विमुञ्चामि। तद्विमोकेन संतुष्टस्त्वमस्मासु द्रविणं धेहि। यच्चान्यद्भद्रमन्नपानादिकं तदप्यस्मासु धेहि। अस्मदीयहविर्भुक्षु देवतासु भागधान्हविष्प्रदानस्मान्प्रकर्षेण ब्रूहि।  
 </details>
 </details>
+
 </div>
 
 ## शंयुवाकानुमन्त्रणम्
@@ -957,16 +969,20 @@ Thou art winning, thou art the winner, may I win.
 तथा त्वं सनिरसि सनिनामाऽसि। तद्व्याख्यानं सनिताऽसीति। धनस्य दाताऽसीत्यर्थः। अतस्त्वत्प्रसादेन सनेयं धनमृत्विगादिभ्यो देयासम्। 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 घृत᳓वन्तङ् कुलायि᳓नं+++(=नीडवन्तं)+++   
 राय᳓स्पो᳓षँ सहस्रि᳓णं   
 **वेदो᳓ ददातु** वाजि᳓नम् ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -1000,4 +1016,5 @@ A thousandfold, strong.
 किंच वेदो भवान्मह्यं रायस्पोषं धनं पुष्टिं ददाति। कीदृशं रायस्पोषं, घृतवन्तं घृतादिभोजनसाधनसमृद्धम्। कुलायिनं निवासहेतुबहुगृहोपेतम्। सहस्रिणं सहस्रलक्षादिसंख्योपेतम्। वाजिनं भोज्यान्नसमृद्धम्।
 </details>
 </details>
+
 </div>

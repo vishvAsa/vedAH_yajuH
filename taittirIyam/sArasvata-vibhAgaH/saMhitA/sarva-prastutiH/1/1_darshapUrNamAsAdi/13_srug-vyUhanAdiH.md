@@ -7,7 +7,8 @@ title: १३ स्रुग्-व्यूहनादिः
 १४ त्रिष्टुप्  
 प्रजापतिर्ऋषिः  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/vAjasya_mA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/vAjasya_mA.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1स्रुचौ व्यूहति - वाजस्येत्यनुष्टुब्भ्यां चतुष्पदाभ्याम् ॥
@@ -175,6 +176,7 @@ __________
 
 अथेन्द्राग्नी मम सपत्नान्विषूचीनान्सर्वतः पलायमानान्व्यस्यतां विनाशयेताम्। 
 </details>
+
 </div>  
 
 ____
@@ -504,17 +506,21 @@ ____
 14मध्यमं परिधिमनुप्रहरति - यमिति त्रिष्टुभा पुरस्ताज्ज्योतिषा वसुरुद्रेशभवाक्षरपदया ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/63_yam_paridhim.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/63_yam_paridhim.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 य᳓म् परिधि᳓म् पर्य᳓धत्था  
 अ᳓ग्ने +++(पादादित्वान्न निहन्यते स्वरः)+++ देव +++(दुष्टैः)+++ पणि᳓भिर् वीय᳓माणः+++(=वेष्ट्यमानः)+++ ।  
 त᳓न् त एत᳓म् अ᳓नु जो᳓षम्+++(=इष्टम्)+++ भरामि  
 ने᳓द् एष᳓ त्व᳓द्-अपचेत᳓यातै+++(=अपरक्तचेता भवेत्)+++ ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/63_yam_paridhim.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/63_yam_paridhim.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -542,6 +548,7 @@ That it be not removed from thee.
 तमेतं मध्यमं परिधिं तव जोषमिष्टम् । कर्मणि घञ् (पा.सू. 3.3.19) । अनुभरामि त्वामेवानुगतं हरामि प्रहरामि । 'हृग्रहोर्भश्छन्दसि' (पा.सू. 8.2.32 वा 1) इति भत्वम् । युक्तमेव खल्वेवं कर्तुमित्याह - एषः अयं परिधिः एवं नाम तवाभिमतः त्वत्तो हेतोः नेदपचेतयातै नैवापरक्तचित्तो भवेत्; यद्ययं न प्रह्रियेत, उपेक्षितोऽहमनेनाग्निनेति त्वत्तोऽपचेतयेत । तस्मात्त्वय्येवैनमनुप्रहरामि । चित संचेतने, चुरादिः, अनुदात्तेत् (पा.सू. 1.3.2), तस्माल्लेटि 'लेटोऽडाटौ' (पा.सू. 3.4.94) इत्याडागमः, 'वैतोन्यत्र' (पा.सू. 3.4.96) इत्यैत्वम्, 'निपातैर्यत्' (पा.सू. 8.1.30) इत्यादिना निघातप्रतिषेधः, पूर्ववद्गतिनिघातसमासौ, णिचश्चित्त्वादुदात्तत्वम् (पा.सू. 6.1.163) ॥
 </details>
 </details>
+
 </div>
 
 ____
@@ -583,17 +590,21 @@ ____
 एतान् संस्रावेणाभिघारयति
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/73_sasrAvabhAgAs_sthaiShA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/73_sasrAvabhAgAs_sthaiShA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 सँ᳓स्राव᳓+++(=जुहूपभृद्भ्यां सिच्यमान आज्य-शेषः)+++भागास् स्थ+इषा᳓ बृह᳓न्तᳶ  
 प्रस्तरेष्ठा᳓ बर्हिष᳓दश् च देवाः᳓ ।  
 +++(स्तोत्ररूपम्)+++ इमाव्ँ᳓ वा᳓चम् अभि᳓ वि᳓श्वे गृण᳓न्त +++(=प्रशंसन्तः)+++  
 आस᳓द्यास्मि᳓न् बर्हि᳓षि मादयध्वम् ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/73_sasrAvabhAgAs_sthaiShA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/73_sasrAvabhAgAs_sthaiShA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -628,6 +639,7 @@ Seated on this strew enjoy yourselves.
 ते विश्वेपि देवा देवनादिगुणयुक्ता यूयं, इमामस्मदीयां त्वद्विषयां स्तोत्ररूपां वाचं अभिगृणन्तः आभिमुख्येन शब्दयन्तः अहो सम्यगियं स्तुतिः कृतेत्येवं प्रशंसन्तः । 'अभिरभागे' (पा.सू. 1.4.91) इति लक्षणादिषु (पा.सू. 1.4.90) कर्मप्रवचनीयत्वम् । अस्मिन् बर्हिषि स्तीर्णे यज्ञे आसद्य उपविश्य मादयध्वं तृप्यत । मद तृप्तियोगे, चौरादिकः, आकुस्मीय आत्मनेपदी (आकुस्मादात्मनेपदिनः - गणसूत्रं - चित संचेतने इति धातौ) । आसद्येति कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना इदमस्सप्तम्या उदात्तत्वम् । 'स्रुचौ संप्रस्रावयति' (तै.ब्रा. 3.3.9) इत्यादि ब्राह्मणं । 'वैश्वदेव्यर्चा' (तै.ब्रा. 3.3.9) इत्यादि च ॥
 </details>
 </details>
+
 </div>
 
 ____
@@ -870,7 +882,8 @@ ____
 19समिष्टयजूंषि जुहोति - देवा इति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/devA_gAtuvidaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/devA_gAtuvidaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे᳓वा गातुविदो+++(=गतिज्ञाः)+++ गातुव्ँ᳓+++(=मार्गं)+++ वित्वा᳓+++(=लब्ध्वा)+++ **गातु᳓म् इत** +++(=गच्छत)+++।
@@ -970,6 +983,7 @@ in/or the wind, hail!
 
 ततः पश्चादिमं यज्ञं वाते सर्वक्रियाधारे धाः स्थापय । यस्मादयं यज्ञः प्रयुक्तः तत्रैव वाते स्थापय । 'वाताद्वा अध्वर्युर्यज्ञं प्रयुङ्क्ते' (तै.ब्रा. 3.3.9) इत्यादि ब्राह्मणम् । दधातेः लेटि 'बहुलं छन्दसि' (पा.सू. 2.4.73) इति शपो लुक्, 'इतश्च लोपः परस्मैपदेषु' (पा.सू. 3.4.98) इतीकारलोपः ॥
 </details>
+
 </div>  
 
 इति त्रयोदशोनुवाकः ।  

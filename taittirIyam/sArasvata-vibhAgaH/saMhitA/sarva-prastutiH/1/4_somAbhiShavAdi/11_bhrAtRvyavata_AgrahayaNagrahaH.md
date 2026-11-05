@@ -11,17 +11,21 @@ _______
 'रुग्णवत्यर्चा भ्रातृव्यवतः' इति ब्राह्मणम् ।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH/02_triMshat_trayash.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH/02_triMshat_trayash.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 त्रिँश᳓त् त्र᳓यश् +++(=३३)+++ च गणि᳓नो रुज᳓न्तो  
 दि᳓वँ रुद्राᳶ᳓ पृथिवी᳓ञ् च सचन्ते ।  
 एकादशा᳓सो अप्सु-ष᳓दस् सुतँ᳓   
 सो᳓मञ् जुषन्ताँ स᳓वनाय वि᳓श्वे ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH/02_triMshat_trayash.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH/02_triMshat_trayash.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -47,6 +51,7 @@ May all of them accept the Soma pressed for the pressing.
 क्व पुनस्ते वर्तन्ते? इत्याह - ये दिवं सचन्ते सेवन्ते, ये च पृथिवीं, ये चाप्सुषदः अन्तरिक्षेणावतीर्णाः; पूरणप्रत्ययान्ता वा ये त्रयो गणिनः, त्रयश्च गणा वर्तन्त इति; ते च विश्वे देवाः इमं सुतं सोमं आग्रयणाख्यं जुषन्तां सेवन्तां सवनाय सवनार्थं तृतीयसवनार्थं; तत्र हि तस्य सावित्रपात्नीवतहारियोजनेषु विनियोगः । यद्वा - तृतीयसवने जुषन्तामिति सप्तम्यर्थे चतुर्थी । 'रुग्णवत्यर्चा भ्रातृव्यवतो गृह्णीयात्' इति ब्राह्मणम् ॥
 </details>
 </details>
+
 </div>
 
 _______
@@ -57,7 +62,8 @@ _______
 3एष ते योनिरित्यादिना सादयति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य 'उपयामगृहीतोसि विश्वेभ्यस्त्वा देवेभ्यः' इति गृह्णाति ॥
@@ -201,4 +207,5 @@ this is thy birthplace; to the All-gods thee!
 
 'वैश्वदेवो ह्येष देवतया' इति ब्राह्मणम् । 'आत्मा वा एष यज्ञस्य यदाग्रयणः' इत्यादि च ॥
 </details>
+
 </div>

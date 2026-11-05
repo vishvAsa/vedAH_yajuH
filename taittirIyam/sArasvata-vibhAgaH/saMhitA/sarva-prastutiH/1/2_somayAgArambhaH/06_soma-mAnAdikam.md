@@ -208,17 +208,21 @@ ________
 इति।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अभि᳓ त्य᳓न्+++(=तन्)+++ देवँ᳓ सविता᳓रम् ऊण्योः᳙+++(=अवित्र्योः [द्यावापृथिव्योः])+++ कवि᳓क्रतुम्  
 अ᳓र्चामि सत्य᳓-सवसँ+++(=सत्यानुज्ञं)+++ रत्नधा᳓म् अभि᳓ प्रिय᳓म् मति᳓म् +++(धारयन्तम्)+++ । +++(पादादित्वान् न स्वरनिघातः)+++  
 ऊ᳓र्ध्वा᳓ य᳓स्याऽम᳓तिर्+++(=अमनशीला/ व्यापनशीला)+++ भा᳓ अ᳓दिद्युतत् स᳓वीमनि+++(=सवे)+++  
 +++(माम् आविश्य स)+++ हि᳓रण्य-पाणिर् अमिमीत +++(सोमं)+++ सुक्र᳓तुᳵ कृपा᳓+++(=कृपया)+++ सु᳓वः+++(=सुष्ठु वृतः)+++ ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -305,6 +309,7 @@ The golden-banded sage hath measured the heaven with his form.
 विराट्-छन्दसो ऽन्न-प्रदत्वाद् अन्नत्वम्। समन्त्रका-अमन्त्रकयोः प्रयोगयोः पूर्वोत्तर-भाव-साम्येन भूत-भविष्यद्-वस्तु-प्राप्तिः।
 </details>
 </details>
+
 </div>
 
 ________

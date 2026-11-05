@@ -10,18 +10,21 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 वपायाः पुरोनुवाक्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
+
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
-ब्र᳓ह्म +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञानं᳓ +++(=उत्पन्नम्)+++ प्रथमं᳓ पुर᳓स्ताद्  
-वि᳓ सीमत᳓स् सुरु᳓चो वेन᳓ **आवः** ।  
-स᳓ बुध्न्या᳙ +++(=मूले भवः ([खस्य सूर्यः]))+++ उपमा᳓ अस्य **विष्ठाः᳓** +++(=विस्थितः)+++,  
-सत᳓श्च यो᳓निम् +++(सूर्यम्)+++ अ᳓सतश्च **वि᳓वः** +++(=विवृतवान्)+++  ।
+ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑द्  
+वि सी॑म॒तस् सु॒रुचो॑ वे॒न **आ॑वः** ।  
+स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य **वि॒ष्ठाः** +++(=विस्थितः)+++,  
+स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ **विवः॑** +++(=विवृतवान्)+++  ।
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/mUlam/13/03_brahma_jajnAnam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/mUlam/13/03_brahma_jajnAnam.md">
+
 <details><summary><h3>मूलम् …{Loading}…</h3></summary>
 
 ब्रह्म॑ जज्ञा॒नं प्र॑थ॒मं पु॒रस्ता॒द्वि सी॑म॒तः सु॒रुचो॑ वे॒नऽआ॑वः। स बु॒ध्न्या᳖ऽ उप॒माऽ अ॑स्य वि॒ष्ठाः स॒तश्च॒ योनि॒मस॑तश्च॒ वि वः॑ ॥३ ॥
@@ -34,9 +37,11 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 स॒तश्च॒ योनि॒मस॑तश्च॒ विवः॑ ।
 </details>
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/13/03_brahma_jajnAnam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/13/03_brahma_jajnAnam.md">
+
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
@@ -97,6 +102,7 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 भावार्थभाषाः -  ज्या ब्रह्माला जाणण्यासाठी या जगात व्यक्त व अव्यक्त अनेक प्रकारचे दृष्टांत आहेत, असा तो सर्वत्र व्याप्त असून सर्वांचे आच्छादन आहे व सर्वांना प्रकाश देणारा आहे. उत्तम नियमांनी सर्व ग्रह व गोलांना (चंद्र, सूर्य इत्यादींना) आपल्या कक्षेत ठेवणारा आहे. तोच अंतर्यामी परमात्मा (सर्व माणसांनी) सदैव उपासना करण्यायोग्य आहे. याशिवाय इतर कोणताही पदार्थ उपासना करण्यायोग्य नाही.
 </details>
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -104,7 +110,8 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 22अथ वपाया याज्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 पिता᳓ विरा᳓जाम्, ऋषभो᳓ रयीणा᳓म् ।  
@@ -113,9 +120,11 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 ब्र᳓ह्म स᳓न्तम् ब्र᳓ह्मणा **वर्ध᳓यन्तः** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -130,6 +139,7 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 योऽयं वेन आदित्यः पूर्वमुक्तः सोऽयं विराजां विशेषेण राजमानानां रयीणां धनानां पिता पालयिता, ऋषभः श्रेष्ठः, विश्वरूपः पुर्वाह्णादिषु वसन्तादिषु कालविशेषेषु च बहुरूपः तादृशोऽयमिदमन्तरिक्षमाविवेश प्रतिदिनं प्रविशति । ब्रह्म सन्तं परब्रह्मस्वरूप एव भूत्वाऽवस्थितं ततं आदित्यं ब्रह्मणा मन्त्रेण वर्धयन्तो ब्राह्मणा अर्कैः अर्चनीयैः अभ्यर्चन्ति अभितः पूजयन्ति । तत्र दृष्टान्तः - वत्सं यथा दोग्धुकामाः पुरुषा वत्समुपलालयन्ति एवं फलकामा आदित्यमभ्यर्चन्ति ॥
 </details>
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -137,7 +147,8 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 23अथ पुरोडाशस्य पुरोनुवाक्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ब्र᳓ह्म देवा᳓न् **अजनयत्** ।  
@@ -146,9 +157,11 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 ब्र᳓ह्म ब्राह्मण᳓ आत्म᳓ना ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -163,6 +176,7 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 यज्जगत्कारणं ब्रह्म तदेव देवान् इन्द्रादीन् जनयत् । तथैव तद्ब्रह्मान्यदपि विश्वं सर्वमिदं जगत् अजनयत् । ब्रह्मणः सकाशात् क्षत्त्रं निर्मितं क्षत्त्रियजातिर्निर्मिता । यत्परं ब्रह्म तत् आत्मना स्वस्वरूपेणैव ब्राह्मणः अभवत् । अस्ति हि ब्राह्मणशरीरे परब्रह्मण आविर्भावविशेपः । अत एवाध्यापनादावधिक्रियते ॥
 </details>
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -170,7 +184,8 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 24अथ पुरोडाशस्य याज्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अन्त᳓र् अस्मिन्न् इमे᳓ लोकाः᳓ ॥ 67 ॥  
@@ -179,9 +194,11 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 ते᳓न को᳙ **ऽर्हति** स्प᳓र्धितुम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -196,6 +213,7 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 अस्मिन् ब्रह्मणि अन्तः मध्ये इमे भूरादयो लोकाः अवस्थिताः । तथैव अन्तः मध्ये विश्वं सर्वमिदं जगत्स्थावरजङ्गमरूपमवस्थितम् । तस्मात्कारणाद्ब्रह्मैव भूतानामाकाशादिपञ्चमहाभूतानां प्राणिनां च मध्ये ज्येष्ठं अतिशयेन श्रेष्ठं प्रशस्तं च । तेन तादृशेन ब्रह्मणा को नामान्यः पुरुषः स्पर्धितुमर्हति' तत्समानस्य स्पर्धा युक्ता, न चास्ति कश्चित्समानः । अत एव श्वेताश्वतरशाखायामभिधीयते 'न तत्समश्चाभ्यधिकश्च दृश्यते' इति ॥
 </details>
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -203,7 +221,8 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 25अथ हविषः पुरोनुवाक्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ब्र᳓ह्मन् देवा᳓स् त्र᳓यस्-त्रिँशत् ।  
@@ -212,9 +231,11 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 नावी᳓वान्त᳓स् **समा᳓हिता** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -229,6 +250,7 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 हे ब्रह्मन्यथोक्ते ब्रह्मणि त्रयस्त्रिंशद्देवाः 'ये देवा दिव्येकादश स्थ' इति मन्त्रोक्ताः समाहिताः । तथा ब्रह्मन् परब्रह्मण्येव देवस्वामिनाविन्द्रप्रजापती समाहितौ । तया ब्रह्मण्येव विश्वा भूतानि सर्वाणि स्थावरजङ्गमान्यन्तः समाहितानि सम्यगवस्थितानि । तत्र दृष्टान्तो नावीवेति । यथा समुद्रनद्यादितरणवेलायां चेतनाचेतनानि वस्तूनि नौमध्येऽवस्थाप्यन्ते तद्वत् ॥
 </details>
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -236,7 +258,8 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 26अथ हविषो याज्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 च᳓तस्र आ᳓शाᳶ प्र᳓चरन्त्वग्न᳓यः ।   
@@ -245,9 +268,11 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 ब्र᳓ह्म समि᳓द्भवत्या᳓हुतीनाम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -262,4 +287,5 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 यथोक्ते ब्रह्मणि चतस्र आशाः चतुर्विधाः प्राच्यादिदिशः प्रति अग्नय आहवनीयाद्याः प्रचरन्तु प्रकर्षेण वर्तन्ताम् । पूर्वस्यां दिश्याहववनीयः दक्षिणस्यां दिश्यन्वाहार्यपचनः पश्चिमायां दिशि गार्हपत्यः उदीच्यां दिश्याग्नीध्रीयः । तथाविधः सर्वाधारपरमात्मा नः अस्मदीयं इमं यज्ञं प्रजानन् प्रकर्षेणानुसंदधानो नयतु समाप्तिं प्रापयतु । किं कुर्वन्? अजरमविनश्वरं सुवीरं शोभनापत्यहेतुभूतमिदं घृतमाहुतिरूपं पिन्वन् पिबन् । किं बहुना, आहुतीनामस्माभिरनुष्ठीयमानानां ब्रह्म समिद्भवति परब्रह्मैव सम्यक्प्रकाशकं भवति ॥
 </details>
 </details>
+
 </div>

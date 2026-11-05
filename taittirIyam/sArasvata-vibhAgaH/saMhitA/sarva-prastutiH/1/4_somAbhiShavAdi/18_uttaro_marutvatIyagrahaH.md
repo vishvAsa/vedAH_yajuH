@@ -10,7 +10,8 @@ _______
 1द्वितीयं मरुत्वतीयं गृह्णाति - इन्द्र मरुत्व इति चतुष्पदया त्रिष्टुभा । 
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/051/07_indra_marutva.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/051/07_indra_marutva.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 इ᳓न्द्र मरुत्व इह᳓ **पाहि**+++(=पिब)+++ सो᳓मं  
@@ -19,17 +20,21 @@ _______
 **आ᳓ विवासन्ति** कव᳓यः सुयज्ञाः᳓ ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/051/07_indra_marutva.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/051/07_indra_marutva.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 इन्द्र॑ मरुत्व इ॒ह पा॑हि॒ सोमं॒ यथा॑ शार्या॒ते अपि॑बः सु॒तस्य॑ ।  
 तव॒ प्रणी॑ती॒ तव॑ शूर॒ शर्म॒न्ना वि॑वासन्ति क॒वयः॑ सुय॒ज्ञाः ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/051/07_indra_marutva.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/051/07_indra_marutva.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -379,6 +384,7 @@ Hier trinke Soma mit den Maruts, Indra, wie bei Çarjata du den Saft getrunken; 
 
 भावार्थभाषाः -  हे राजा! जसे तू आपले राज्य, ऐश्वर्य, न्याय व धर्माचे रक्षण करतोस त्याच प्रकारचे तुझे मंत्री व नोकर इत्यादी असावेत. त्यांचा तू सत्कार सदैव करावा. ॥ ७ ॥
 </details>
+
 </div>  
 
 _______
@@ -387,7 +393,8 @@ _______
 2 पूर्ववद्ग्रहणं सादनं च ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/17_pUrvo_marutvatIyagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/17_pUrvo_marutvatIyagrahaH/upayAmagRhItaH.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य उपयामगृहीतोसीन्द्राय त्वा मरुत्वत इति गृह्णाति ॥
@@ -456,6 +463,7 @@ This is thy birthplace; to Indra with the Maruts thee!
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा म॒रुत्व॑ते ॥ [18]
 </details>
+
 </div>  
 
 इति चतुर्थेष्टादशोनुवाकः ॥  

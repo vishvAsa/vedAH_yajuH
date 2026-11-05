@@ -11,7 +11,8 @@ _______
 पथ्या बृहती वा जागत-तृतीय-पादत्वात् ।  
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/051/07_kadA_chana.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/051/07_kadA_chana.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 कदा᳓ चन᳓ **स्तरी᳓र्**+++(=वन्ध्या गौः)+++ असि?  
@@ -20,17 +21,21 @@ _______
 **दा᳓नं** देव᳓स्य +++(उप+उप-)+++**पृच्यते**+++(←पृची सम्पर्के)+++ ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/051/07_kadA_chana.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/051/07_kadA_chana.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 क॒दा च॒न स्त॒रीर॑सि॒ नेन्द्र॑ सश्चसि दा॒शुषे॑ ।  
 उपो॒पेन्नु म॑घव॒न्भूय॒ इन्नु ते॒ दानं॑ दे॒वस्य॑ पृच्यते ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/051/07_kadA_chana.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/051/07_kadA_chana.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -342,6 +347,7 @@ Bisweilen, o Indra, bist du karg und bist dem Verehrer nicht zu Willen; nun aber
 - बृहती
 - मध्यमः
 </details>
+
 </div>  
 
 _______
@@ -350,7 +356,8 @@ _______
 इमामनुद्रुत्योपयामगृहीतोस्यादित्येभ्यस्त्वेति गृह्णाति । 'अदितिः पुत्राकामा इत्यादि ब्राह्मणम्  ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -393,6 +400,7 @@ to the Adityas thee!
 
 आ॒दि॒त्येभ्य॑स्त्वा ॥
 </details>
+
 </div>  
 
 _______
@@ -401,7 +409,8 @@ _______
 2शृतातंक्येन श्रीणाति - कदा चन प्र युच्छसीति पथ्ययैव पूर्वोक्तया । अत्र तु तृतीयपादः पञ्चाक्षरः । आदित्यग्रह एवात्रामन्त्र्यते । 
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/051/07_kadA_chana.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/051/07_kadA_chana.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 कदा᳓ चन᳓ **स्तरी᳓र्**+++(=वन्ध्या गौः)+++ असि?  
@@ -410,17 +419,21 @@ _______
 **दा᳓नं** देव᳓स्य +++(उप+उप-)+++**पृच्यते**+++(←पृची सम्पर्के)+++ ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/051/07_kadA_chana.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/051/07_kadA_chana.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 क॒दा च॒न स्त॒रीर॑सि॒ नेन्द्र॑ सश्चसि दा॒शुषे॑ ।  
 उपो॒पेन्नु म॑घव॒न्भूय॒ इन्नु ते॒ दानं॑ दे॒वस्य॑ पृच्यते ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/051/07_kadA_chana.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/051/07_kadA_chana.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -732,6 +745,7 @@ Bisweilen, o Indra, bist du karg und bist dem Verehrer nicht zu Willen; nun aber
 - बृहती
 - मध्यमः
 </details>
+
 </div>  
 
 _______
@@ -741,7 +755,8 @@ _______
 उपयामगृहीतोसीत्यस्य पूर्वत्राम्नातस्य उत्तरयानया ऋचा सम्बन्धः । 'पशवो वा एते यदादित्य ऊर्ग्दधि' इत्यादि ब्राह्मणम्  ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -784,6 +799,7 @@ to the Adityas thee!
 
 आ॒दि॒त्येभ्य॑स्त्वा ॥
 </details>
+
 </div>  
 
 _______
@@ -792,7 +808,8 @@ _______
 3पुनरपि तस्मिन्नेव सोमं गृह्णाति - यज्ञो देवानामिति चतुष्पदया त्रिष्टुभा । 'तिसृभिर् ऋग्भिर्गृह्णाति' इति ब्राह्मणम् ॥ 
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/107/01_yajno_devAnAM.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/107/01_yajno_devAnAM.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 **यज्ञो᳓** देवा᳓नां **प्र᳓त्येति** सुम्न᳓म्+++(=सुखम्)+++  
@@ -801,17 +818,21 @@ _______
 अंहो᳓श्+++(=पापि)+++-चिद् या᳓ **वरिवो++(=ध᳓न᳓)+++-वि᳓त्-तरा᳓ +आ᳓सत्** ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/107/01_yajno_devAnAM.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/107/01_yajno_devAnAM.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 य॒ज्ञो दे॒वानां॒ प्रत्ये॑ति सु॒म्नमादि॑त्यासो॒ भव॑ता मृळ॒यन्तः॑ ।  
 आ वो॒ऽर्वाची॑ सुम॒तिर्व॑वृत्यादं॒होश्चि॒द्या व॑रिवो॒वित्त॒रास॑त् ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/107/01_yajno_devAnAM.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/107/01_yajno_devAnAM.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -1186,6 +1207,7 @@ Zur Huld der Götter eilet hin das Opfer, o seid uns gnädig, ihr Aditi-Söhne, 
 
 भावार्थभाषाः -  या जगात विद्वानांनी आपल्या पुरुषार्थाने जी शिल्पविद्या (कारागिरी) प्रत्यक्ष केलेली आहे. त्यांनी ती सर्व माणसांसाठी प्रकट करावी ज्यामुळे पुष्कळ माणसे शिल्पक्रियेमुळे सुखी व्हावीत. ॥ १ ॥
 </details>
+
 </div>
 
 _______
@@ -1194,7 +1216,8 @@ _______
 इमामनुद्रुत्योपयामगृहीतोस्यादित्येभ्यस्त्वेति गृह्णाति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1237,6 +1260,7 @@ to the Adityas thee!
 
 आ॒दि॒त्येभ्य॑स्त्वा ॥
 </details>
+
 </div>  
 
 _______

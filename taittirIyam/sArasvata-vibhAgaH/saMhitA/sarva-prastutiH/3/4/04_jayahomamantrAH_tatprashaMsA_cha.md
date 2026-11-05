@@ -11,7 +11,8 @@ title = "०४ जयहोममन्त्राः, तत्प्रश�
 1अथ जयाः स्पर्धमानस्य 'स्पर्धमानेनैते होतव्याः' इति, सामान्येन विहिताश्च 'येन कर्मणेर्त्सेत्' इति । 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/chittaM_cha_chittish_cha.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/chittaM_cha_chittish_cha.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चित्तं᳓ च [स्वा᳓हा]। चि᳓त्तिश् च [स्वा᳓हा]।  
@@ -49,6 +50,7 @@ title = "०४ जयहोममन्त्राः, तत्प्रश�
 
 एवं बृहद्रथन्तरयोस्साम्नोर्वेदितव्यम् ॥
 </details>
+
 </div>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -56,7 +58,8 @@ title = "०४ जयहोममन्त्राः, तत्प्रश�
 प्र॒जाप॑ति॒र्जया॒निन्द्रा॑य॒ वृष्णे॒ प्राय॑च्छदु॒ग्रᳶ पृ॑त॒नाज्ये॑षु॒ तस्मै॒ विश॒स्सम॑नमन्त॒ सर्वा॒स्स उ॒ग्रस्स हि हव्यो॑ ब॒भूव॑  
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 प्रजा᳓पतिर् ज᳓यान् इ᳓न्द्राय वृ᳓ष्णे  
@@ -65,6 +68,7 @@ title = "०४ जयहोममन्त्राः, तत्प्रश�
 स᳓ उग्र᳓स् स᳓ हि᳓ **ह᳓व्यो बभू᳓व**॥  
 [स्वा᳓हा॥]
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -72,7 +76,8 @@ title = "०४ जयहोममन्त्राः, तत्प्रश�
 2अथ प्रजापतिर्जयानिति अत्र त्रयोदशी त्रिष्टुप् ॥ 'वृष्णे' इति प्रथमपादान्तः 'सर्वाः' इति तृतीयापादान्तः ।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -98,6 +103,7 @@ title = "०४ जयहोममन्त्राः, तत्प्रश�
 यद्वा - यो जयान् जुहोति स खलूग्रो भवति स एब हव्यो यागार्हश्च इज्यश्च बभूव भवति । छान्दसो लिट् ॥
 </details>
 </details>
+
 </div>
 
 ## ब्राह्मणम्

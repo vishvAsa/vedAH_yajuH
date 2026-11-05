@@ -9,7 +9,8 @@ _______
 1ऐन्द्रवायवपात्रेण वायव्यं गृह्णाति - आवायो इति चतुष्पदया त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/092/01_A_vAyo.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/092/01_A_vAyo.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 आ᳓ वायो **भूष** शुचि-पा उ᳓प नः +++(सोमं)+++  
@@ -18,17 +19,21 @@ _______
 य᳓स्य देव **दधिषे᳓**+++(←धा)+++ पूर्व-पे᳓यम् ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/092/01_A_vAyo.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/092/01_A_vAyo.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 आ वा॑यो भूष शुचिपा॒ उप॑ नः स॒हस्रं॑ ते नि॒युतो॑ विश्ववार ।  
 उपो॑ ते॒ अन्धो॒ मद्य॑मयामि॒ यस्य॑ देव दधि॒षे पू॑र्व॒पेय॑म् ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/092/01_A_vAyo.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/092/01_A_vAyo.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -400,6 +405,7 @@ Komm her, o Vaju, du des Reinen Trinker, o gabenreicher, tausend Rosse lenkst du
 
 पदार्थान्वयभाषाः -  (वायो) हे कर्मयोगिन् ! भगवन् अस्मद्यज्ञं (आ, भूष) आगत्य भूषयतु (शुचिपाः) शुचिपदार्थस्य पातास्ति, (विश्ववार) हे लोकभजनीय ! (ते) तव (सहस्रम्, नियुतः) अनेकधा कर्मप्रकाराः सन्ति (नः) अस्माकम् (अन्धः) अन्नादिकैः (मद्यम्) आह्लादनीयं सोमरसं (उप, अयामि) पात्रे निदधामि (देव) हे दिव्यशक्तिमन् ! (पूर्वपेयम्) भवतैव पूर्वपेयमिमं रसं (दधिषे) गृह्णातु ॥१॥
 </details>
+
 </div>  
 
 _______
@@ -408,7 +414,8 @@ _______
 एवम् इमाम् अनुद्रुत्य गृह्णाति ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -434,6 +441,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -462,7 +470,8 @@ _______
 2तस्मिन्नैन्द्रवायवं गृह्णाति - इन्द्रवायू इति गायत्र्या ॥ 
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/002/04_indravAyU_ime.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/002/04_indravAyU_ime.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 इ᳓न्द्रवायू! इमे᳓ सुता᳓  
@@ -470,17 +479,21 @@ _______
 +++(बिन्दुरूपा)+++ इ᳓न्दवो वाम् **उश᳓न्ति** हि᳓ ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/002/04_indravAyU_ime.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/002/04_indravAyU_ime.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 इन्द्र॑वायू इ॒मे सु॒ता उप॒ प्रयो॑भि॒रा ग॑तम् ।  
 इन्द॑वो वामु॒शन्ति॒ हि ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/002/04_indravAyU_ime.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/002/04_indravAyU_ime.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -754,6 +767,7 @@ Hier, Indra-Vaju, steht der Saft, so kommt zu ihm nach eurer Lust, Die Tropfen s
 
 भावार्थभाषाः -  या मंत्रात परमेश्वराकडून प्राप्य व प्रापक या दोन पदार्थांना प्रकट केलेले आहे.
 </details>
+
 </div>  
 
 _______
@@ -762,7 +776,8 @@ _______
 इमामनुद्रुत्य उपयामगृहीतोसीन्द्रवायुभ्यां त्वेति गृह्णाति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -788,6 +803,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -811,7 +827,8 @@ _______
 3सादयति ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/eSha_te.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/eSha_te.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निः।
@@ -831,6 +848,7 @@ This is thy birthplace;
 
 **एष ते योनिः** स्थानम् ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

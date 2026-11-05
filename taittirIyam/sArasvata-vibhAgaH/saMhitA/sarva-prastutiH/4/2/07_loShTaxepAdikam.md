@@ -19,7 +19,8 @@ title = "०७ लोष्टक्षेपादिकम्"
  १९२२ कर्षणे ये लोष्टाः परिमितक्षेत्राद्वहिः पतन्ति तान्पुनरन्तः पातयोदित्यर्थः ।    तत्र प्रथमामाह— मा नो हिँसीदिति ।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/09_mA_no.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/09_mA_no.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 मा᳓ नो हिंसीज् जनिता᳓ यः᳓ पृथिव्या᳓  
@@ -27,17 +28,21 @@ title = "०७ लोष्टक्षेपादिकम्"
 य᳓श् चाप᳓श् चन्द्रा᳓ बृहती᳓र् जजा᳓न  
 क᳓स्मै देवा᳓य हवि᳓षा विधेम
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/121/09_mA_no.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/121/09_mA_no.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 मा नो॑ हिंसीज्जनि॒ता यः पृ॑थि॒व्या यो वा॒ दिवं॑ स॒त्यध॑र्मा ज॒जान॑ ।  
 यश्चा॒पश्च॒न्द्रा बृ॑ह॒तीर्ज॒जान॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/09_mA_no.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/09_mA_no.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कः
@@ -368,6 +373,7 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 
 पदार्थान्वयभाषाः -  (यः) यः खलु (पृथिव्याः-जनिता) भूमेरुत्पादयिता (वा) अथ च “वा समुच्चयार्थे” [निरु० १।५] (यः) यो हि (सत्यधर्मा) सत्यनियमवान् (दिवं जजान) द्युलोकमुत्पादयति (च) अपि च (यः) यः खलु (बृहतीः-चन्द्राः-आपः-जजान) महतीराह्लादकारिणीरन्तरिक्षविभक्तिर्नक्षत्रयुताः ‘आपोऽन्तरिक्षनाम” [निघ० १।३] उत्पादयति (कस्मै....) पूर्ववत् ॥९॥
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>

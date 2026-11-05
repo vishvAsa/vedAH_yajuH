@@ -101,24 +101,31 @@ unicode_script: devanagari
 5देवानां पत्नीरिति ॥ देवानां पत्नयः इन्द्राण्याद्याः सेनादयो वा 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम् । उशतीः उशत्यः कामयमानाः अस्मद्धितानि ता अस्मानवन्तु रक्षन्तु प्राप्नुवन्तु वा । किञ्च - अस्माकं तुजये अपत्याय वाजसातये अन्नलाभाय च ता देव्यः प्रावन्तु प्रकर्षेण तृप्यन्तु । किञ्च - याः पार्थिवासः पृथिव्यां भवाः । 'आज्जसेरमुक्' याश्च अपां व्रते कर्मस्थाने अन्तरिक्षे । अपिशब्दात् पूर्वोक्ताश्च दिवि भवाः इन्द्राण्याद्याः तास्सर्वाः यूयं सुहवाः सुखेनाह्वातव्याः आह्वानप्रयोजनस्य सद्यः कर्त्र्यः अस्मभ्यं शर्म सुखं यच्छत दत्त हे देव्यः! । उत्तरोऽर्थः प्रत्यक्षकृतः ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/046/08_uta_gnA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/046/08_uta_gnA.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 उत᳓ ग्ना᳓+++(=देव्यः)+++ व्यन्तु+++(वियन्तु तैत्तिरीये)+++ देव᳓पत्नीर्  
 इन्द्राणी᳓ · अग्ना᳓यी अश्वि᳓नी रा᳓ट् ।  
 आ᳓ रो᳓दसी+++(=लोकौ, मरुत्पत्न्यौ)+++ वरुणानी᳓ शृणोतु  
 व्य᳓न्तु+++(वियन्तु तैत्तिरीये)+++ देवी᳓र् य᳓ ऋतु᳓र् ज᳓नीनाम् ॥
 
+</details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/046/08_uta_gnA.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/046/08_uta_gnA.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 उ॒त ग्ना व्य॑न्तु दे॒वप॑त्नीरिन्द्रा॒ण्य१॒॑ग्नाय्य॒श्विनी॒ राट् ।  
 आ रोद॑सी वरुणा॒नी शृ॑णोतु॒ व्यन्तु॑ दे॒वीर्य ऋ॒तुर्जनी॑नाम् ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/046/08_uta_gnA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/046/08_uta_gnA.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवपत्न्यः
@@ -443,6 +450,7 @@ Die gottvermählten Frauen mögen kommen, Indrani, Agnani, die Ritterfürstin, d
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसे राजे लोकांजवळ पुरुष मंत्री असतात तशा राण्यांजवळ स्त्रिया मंत्री असाव्यात. ॥ ८ ॥
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>

@@ -10,7 +10,8 @@ unicode_script = "devanagari"
 20अतः परं राजाभिषेके विनियोज्याः पश्चाप्यनुष्टुभः - आ त्वाऽहार्षमिति ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/02_AtvA.ahArSham.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/02_AtvA.ahArSham.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 आ᳓त्वा ऽहार्षम्, +++(राष्ट्रे)+++ अन्त᳓र् **अभूः**+++(→भूयाः)+++ ।
@@ -19,9 +20,11 @@ unicode_script = "devanagari"
 मा᳓ त्व᳓द्-राष्ट्र᳓म् **अ᳓धि-भ्रशत्** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/02_AtvA.ahArSham.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/02_AtvA.ahArSham.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -36,9 +39,11 @@ unicode_script = "devanagari"
 व्याख्याता 'विष्णोः क्रमोसि' इत्यत्र । पुरोहितो राजानं प्रत्याह - **त्वां** अहं **आहार्षं** स्थानाच्च्युतमाहरामि । आहृतश्च त्वं **अन्तर् अभूः** राष्ट्रस्य मध्ये भव । अविचाचलिः विचालयितुमशक्यः ध्रुवश्च तिष्ठ । विशो राष्ट्रवर्तिन्यः प्रजाः त्वामेव राजानं वाञ्छन्तु राष्ट्रं च त्वत्तो माऽधिभ्रशत् । अधिरत्र पञ्चम्यर्थानुवादी । भ्रष्टं मा मृत् ।।
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/05_dhruvA_dyaur.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/05_dhruvA_dyaur.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ध्रुवा᳓ द्यौ᳓र्, ध्रुवा᳓ पृथिवी᳓ ।
@@ -47,9 +52,11 @@ unicode_script = "devanagari"
 ध्रुवो᳓ रा᳓जा विशा᳓म् अय᳓म् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/05_dhruvA_dyaur.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/05_dhruvA_dyaur.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -64,9 +71,11 @@ unicode_script = "devanagari"
 21त्रिषु पादेषु दृष्टान्ताः, चतुर्थो दार्ष्टान्तिकः - ध्रुवेत्यादि ॥ द्यौः पृथिवी च ध्रुवा । इदं च विश्वं ध्रुव जगत् आप्रवाहं नित्यं ध्रुवं, बहुकालावस्थायित्वात् । इमे च पर्वताः ध्रुवाः । अयं च विशां मनुष्याणां राजा ध्रुवः । तुल्ययोगोपमैषां, द्युप्रभृतिविषयो राजा भवत्विति यावत् ॥
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/08_ihaivaidhi_mA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/08_ihaivaidhi_mA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **इहै᳓वै᳓धि** मा᳓ **व्यथिष्ठाः** ॥19॥  
@@ -75,11 +84,14 @@ unicode_script = "devanagari"
 इह᳓ राष्ट्र᳓म् उ **धारय** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/08_ihaivaidhi_mA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/08_ihaivaidhi_mA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 </details>
+
 </div>
 
 <details><summary>English</summary>
@@ -103,7 +115,8 @@ Bear the nation here.
 22इहैवैधीति ॥ **इहैव** राष्ट्रे **एधि** राजा भव । **मा व्यथिष्ठाः पर्वत इव अविचाचलिः** अविचलो भव । 'उपसर्गाच्छन्दसि' इति इप्रत्ययः । **इन्द्र इव ध्रुवो** भव । **इह** राजभावे **तिष्ठ** । **राष्ट्रं** च **धारय** । अवधारणे उकारः । राष्ट्रं धारयैव माऽमुचः ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/12_abhitiShTha_pRtanyataH.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/12_abhitiShTha_pRtanyataH.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **अभि᳓-तिष्ठ** पृतन्यतः᳓ ।  
@@ -112,9 +125,11 @@ Bear the nation here.
 अपः᳓ क्षे᳓त्राणि **सञ्ज᳓यन्** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/12_abhitiShTha_pRtanyataH.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/12_abhitiShTha_pRtanyataH.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -124,6 +139,7 @@ Bear the nation here.
 अ॒पः क्षेत्रा॑णि स॒ञ्जय॑न् ।
 </details>
 </details>
+
 </div>
 
 <details><summary>English</summary>
@@ -139,7 +155,8 @@ Thoroughly winning (their) deeds and lands.
 23अभितिष्ठेति । । पृतन्यतः संग्रामं कर्तुमिच्छतः 'कव्यध्वरपृतनस्यर्चि लोपः' 'शतुरनुमः' इति विभक्तेरुदात्तत्वम् । शत्रवोऽधरे त्वत्तो निकृष्टैश्वर्यबलास्सन्तु । **वृत्रहा** वृत्रस्य हन्ता **इन्द्र इव पृतन्यतोऽभितिष्ठ** । यथा **शत्रूणां अपः** कर्माणि **क्षेत्राणि संजयन्** **वृत्रहेव** शत्रूनाक्राम ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/16_indra_eNam.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/16_indra_eNam.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 इ᳓न्द्र एणम् **अदीधरत्** ।
@@ -148,11 +165,14 @@ Thoroughly winning (their) deeds and lands.
 अय᳓ञ् च ब्र᳓ह्मणस्-प᳓तिः ॥20॥
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/16_indra_eNam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/16_indra_eNam.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 </details>
+
 </div>
 
 <details open><summary>English</summary>

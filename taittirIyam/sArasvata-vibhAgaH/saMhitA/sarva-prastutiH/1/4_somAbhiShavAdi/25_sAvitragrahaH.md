@@ -10,7 +10,8 @@ _______
 1पुनश्च सावित्रं गृह्णाति - हिरण्यपाणिमिति त्रिपदया गायत्र्या ॥ पूर्ववद्विकल्प एव । 
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/05_hiraNyapANimUtaye_savitAramupa.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/05_hiraNyapANimUtaye_savitAramupa.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 हि᳓रण्य-पाणिम् **ऊत᳓ये**  
@@ -18,17 +19,21 @@ _______
 स᳓ चे᳓त्ता+++(=ज्ञाता)+++ देव᳓ता पद᳓म् ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/022/05_hiraNyapANimUtaye_savitAramupa.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/022/05_hiraNyapANimUtaye_savitAramupa.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 हिर॑ण्यपाणिमू॒तये॑ सवि॒तार॒मुप॑ ह्वये ।  
 स चेत्ता॑ दे॒वता॑ प॒दम् ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/05_hiraNyapANimUtaye_savitAramupa.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/05_hiraNyapANimUtaye_savitAramupa.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -271,6 +276,7 @@ Den Savitar mit goldner Hand, ihn rufe ich zur Hülfe her; Er kennt als Gott den
 
 भावार्थभाषाः -  जो चैतन्यमय, सर्वव्यापक, निरंतर पूजनीय, प्रेमपुंज व संपूर्ण ऐश्वर्यदाता परमेश्वर आहे. तोच माणसांनी उपासना करण्यायोग्य आहे. त्याच्याशिवाय दुसरा कोणताही पदार्थ उपासना करण्यायोग्य नाही. ॥ ५ ॥
 </details>
+
 </div>
 
 _______
@@ -279,7 +285,8 @@ _______
 2उपयामगृहीतोसीत्यादि पूर्ववत् ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/23_sAvitragrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/23_sAvitragrahaH/upayAmagRhItaH.md">
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -322,4 +329,5 @@ to the god Savitr thee!
 
 दे॒वाय॑ त्वा सवि॒त्रे ॥ [24]
 </details>
+
 </div>

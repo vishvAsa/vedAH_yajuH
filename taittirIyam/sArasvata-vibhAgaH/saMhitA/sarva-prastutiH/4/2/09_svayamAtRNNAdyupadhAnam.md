@@ -273,16 +273,21 @@ with that deity, in the manner of Angiras, do thou sit firm.
 कल्पः—“काण्डात्काण्डात्प्ररोहन्तीति द्वाभ्यां दूर्वेष्टकाम्” इति।   उपदध्या दित्यनुवर्तते।   
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/20_kANDAtkANDAtprarohantI_paruShaHparuShaspari.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/20_kANDAtkANDAtprarohantI_paruShaHparuShaspari.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 काण्डा॑त्-काण्डात् **प्र॒रोह॑न्ती॒**  
 परु॑षᳶपरुष॒ᳶ+++(=पर्वणः पर्वणः)+++ परि॑ ।  
 ए॒वा नो॑ दूर्वे॒ **प्र त॑नु**  
 स॒हस्रे॑ण श॒तेन॑ च ।  
 
+</details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/13/20_kANDAtkANDAtprarohantI_paruShaHparuShaspari.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/13/20_kANDAtkANDAtprarohantI_paruShaHparuShaspari.md">
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 काण्डा॑त्काण्डा॒दिति॒ काण्डा॑त्ऽकाण्डात्। प्र॒रोह॒न्तीति॑ प्र॒ऽरोह॑न्ती। परु॑षःपरुष॒ इति॒ परु॑षःऽपरुषः। परि॑। ए॒व। नः॒। दू॒र्वे॒। प्र॒। त॒नु॒। स॒हस्रे॑ण। श॒तेन॑। च॒। २०।
@@ -357,18 +362,24 @@ With a thousand, a hundred.
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जशी दूर्वा ही औषधी रोगाचा नाश करून सुख वाढविते व उत्तम प्रकारे विस्तारित होते, तसेच विद्वान स्त्रीने अनेक प्रकारे आपले कुल वाढवावे.
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/21_yA_shatena.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/21_yA_shatena.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 या श॒तेन॑ **प्रत॒नोषि॑**  
 स॒हस्रे॑ण **वि॒रोह॑सि** ।  
 तस्या॑स् ते देवीष्टके  
 **वि॒धेम॑** ह॒विषा॑ व॒यम् ।  
 
+</details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/13/21_yA_shatena.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/13/21_yA_shatena.md">
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 या। श॒तेन॑। प्र॒त॒नोषीति॑ प्रऽत॒नोषि॑। स॒हस्रे॑ण। वि॒रोह॒सीति॑ वि॒ऽरोह॑सि। तस्याः॑। ते॒। दे॒वि॒। इ॒ष्ट॒के॒। वि॒धेम॑। ह॒विषा॑। व॒यम्। २१।
@@ -412,6 +423,7 @@ Let us sacrifice with oblation.
 द्वितीयेऽर्धे सहस्रशब्दतात्पर्यं दर्शयति— “एवा नो दूर्वे प्र तनु सहस्रेण शतेन चेत्याह साहस्रः प्रजापतिः प्रजापते- राप्त्यै” (सं. का. ५ प्र. २ अ. ८) इति।  
 सहस्रसंख्याकप्राण्युत्पादकत्वात्प्रजापतेः साहस्रत्वम् ।
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -543,24 +555,29 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 अथ तृतीयामाह—  १९४६ मबुमान्न इति ।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 म᳓धुमान् नो व᳓नस्प᳓तिर्  
 म᳓धुमाँ अस्तु सू᳓रियः  
 मा᳓ध्वीर् गा᳓वो भवन्तु नः
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 मधु॑मान्नो॒ वन॒स्पति॒र्मधु॑माँ अस्तु॒ सूर्यः॑ ।  
 माध्वी॒र्गावो॑ भवन्तु नः ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -799,6 +816,7 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 भावार्थभाषाः -  हे विद्वान लोकांनो! तुम्ही व आम्ही मिळून असा पुरुषार्थ करावा की ज्यामुळे आमचे सर्व कार्य सिद्ध व्हावे. ॥ ८ ॥
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>

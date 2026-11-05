@@ -10,7 +10,8 @@ _______
 1अन्तर्यामपात्रेण सावित्रम् आग्रयणाद् गृह्णाति - वाममद्य सवितरिति चातुष्पदया त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/071/06_vAmamadya_savitarvAmamu.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/071/06_vAmamadya_savitarvAmamu.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 वाम᳓म् अद्य᳓ सवितर्, वाम᳓म् उ श्वो᳓,  
@@ -19,17 +20,21 @@ _______
 अया᳓+++(=अनया)+++ धिया᳓ **वाम-भा᳓जः स्याम** ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/071/06_vAmamadya_savitarvAmamu.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/071/06_vAmamadya_savitarvAmamu.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 वा॒मम॒द्य स॑वितर्वा॒ममु॒ श्वो दि॒वेदि॑वे वा॒मम॒स्मभ्यं॑ सावीः ।  
 वा॒मस्य॒ हि क्षय॑स्य देव॒ भूरे॑र॒या धि॒या वा॑म॒भाजः॑ स्याम ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/071/06_vAmamadya_savitarvAmamu.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/071/06_vAmamadya_savitarvAmamu.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -389,6 +394,7 @@ Gut führ uns heute zu und Gut auch morgen, und Tag für Tag, o Savitar, uns Gut
 
 भावार्थभाषाः -  हे राजा ! तू आमच्या प्रजेसाठी प्रशंसनीय सुख उत्पन्न करतोस. रक्षणाचे नियम बनवितोस. त्यासाठी आम्ही सुखाने धन, घर व प्रशंसित कार्य करून नित्य तुझ्या आज्ञेत राहावे. ॥ ६ ॥
 </details>
+
 </div>  
 
 _______
@@ -397,7 +403,8 @@ _______
 2इमामनुद्रुत्य उपयामगृहीतोसि देवाय त्वा सवित्र इति गृह्णाति । 'एष वै गायत्रो देवानाम्' इत्यादि ब्राह्मणम् ; 'विश्वे देवास्तृतीयँ सवनं नोदयच्छन्' इत्यादि च ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/23_sAvitragrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/23_sAvitragrahaH/upayAmagRhItaH.md">
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -440,4 +447,5 @@ to the god Savitr thee!
 
 दे॒वाय॑ त्वा सवि॒त्रे ॥ [24]
 </details>
+
 </div>

@@ -3,7 +3,8 @@ title = "+०१-२२ सांहितोपनिषत् शिक्ष�
 +++
 ## प्रवेशः
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="01_shanno_mitraH_prArambhe">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="01_shanno_mitraH_prArambhe">
+
 <details open><summary><h2>०१ शन्नो मित्रः प्रारम्भे …{Loading}…</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/05_taittirIyopaniShat/shanno_mitraH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -23,6 +24,7 @@ title = "+०१-२२ सांहितोपनिषत् शिक्ष�
 अव॑तु॒ माम् । अव॑तु व॒क्तार॑म् ।  
 ओम् शान्ति॒श् शान्ति॒श् शान्तिः॑ ॥
 </details>
+
 </div>  
 
 ## शिक्षा
@@ -64,7 +66,8 @@ title = "+०१-२२ सांहितोपनिषत् शिक्ष�
 
 ## प्रकीर्णम्
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/01-22_sAMhitopaniShat_shixA-vallI/07_yash_ChandasAm">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/01-22_sAMhitopaniShat_shixA-vallI/07_yash_ChandasAm">
+
 <details open><summary><h2>०७ यश् छन्दसाम् …{Loading}…</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -110,9 +113,11 @@ title = "+०१-२२ सांहितोपनिषत् शिक्ष�
 मेधाजनकतया तद्भरिततया वा **मेधया** ऽच्छादितोऽसि । तादृशः त्वम्, श्रुतार्थो यथा अप्रमृष्टो भवति, तथा कुरु इत्यर्थः ।
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/05_taittirIyopaniShat/02_AvahantI_vitanvAnA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/05_taittirIyopaniShat/02_AvahantI_vitanvAnA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 आव᳓हन्ती वितन्वाना᳓,,  
@@ -124,9 +129,11 @@ title = "+०१-२२ सांहितोपनिषत् शिक्ष�
 स्वा᳓हा ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/05_taittirIyopaniShat/02_AvahantI_vitanvAnA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/05_taittirIyopaniShat/02_AvahantI_vitanvAnA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -148,6 +155,7 @@ title = "+०१-२२ सांहितोपनिषत् शिक्ष�
 सा हि श्रीरमृता सताम् (तै.ब्रा.१-२-१) इति त्रयी-लक्षणां **श्रियम्**, **लोमशाम्** - बहुलां यज्ञाद्यौपयिकपश्वादिद्रव्यैस्सह **आवह** - उत्पादय ॥ होमसाधनत्वात् मन्त्रस्य **स्वाहा**न्तत्वम् । आ मा यन्तु इति । ब्रह्मविद्यायोग्याः ब्रह्मचर्यव्रतसम्पन्नाः शिष्याः 'समागच्छन्तु इत्यनुकूलशिष्यप्रार्थनामन्त्रः ।
 </details>
 </details>
+
 </div>
 
 आ मा॑ यन्तु ब्रह्मचा॒रिण॒स् स्वाहा॑ ।  
@@ -259,7 +267,8 @@ title = "+०१-२२ सांहितोपनिषत् शिक्ष�
 सुमेधा अ॑मृतो॒क्षितः ।  
 इति त्रिशङ्कोर् वेदा॑नुव॒चनम् । (17)
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="18-21_veda-sAraH/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="18-21_veda-sAraH/">
+
 <details open><summary><h2>१८-२१ वेद-सारः …{Loading}…</h2></summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -303,9 +312,11 @@ title = "+०१-२२ सांहितोपनिषत् शिक्ष�
 
 एष॑ आदे॒शः । एष उ॑पदे॒शः । एषा वे॑दोप॒निषत् । एतद॑नुशा॒सनम् । एवमुपा॑सित॒व्यम् । एवम् उ चैत॑दुपा॒स्यम् ॥ (21)
 </details>
+
 </div>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="22_shanno_mitraH_samApanam/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="22_shanno_mitraH_samApanam/">
+
 <details open><summary><h2>२२ शन्नो मित्रः समापनम् …{Loading}…</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/05_taittirIyopaniShat/shanno_mitraH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -325,4 +336,5 @@ title = "+०१-२२ सांहितोपनिषत् शिक्ष�
 आवी॒न् माम् । आवी॑द् व॒क्तार॑म् ।  
 ओम् शान्ति॒श् शान्ति॒श् शान्तिः॑ ॥
 </details>
+
 </div>

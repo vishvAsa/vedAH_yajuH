@@ -3,7 +3,8 @@ title = "+०७ प्रवर्ग्यादि"
 unicode_script = "devanagari"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/01_namo_vAche_yA">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/01_namo_vAche_yA">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वाचे᳓ या᳓ चोदिता᳓ या᳓ चा᳓नुदिता  
@@ -188,6 +189,7 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 
 ओं शान्ति॒श्शान्ति॒श्शान्तिः॑ ॥ 1 । - । 1 ।
 </details>
+
 </div>  
 
 यु॒ञ्जते॒ मन॑ उ॒त यु॑ञ्जते॒ धियः॑ । विप्रा॒ विप्र॑स्य बृह॒तो वि॑प॒श्चितः॑ । वि होत्रा॑ दधे वयुना॒विदेक॒ इत् । म॒ही दे॒वस्य॑ सवि॒तुः परि॑ष्टुतिः । दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वे । अ॒श्विनो॑र्बा॒हुभ्या॑म् । पू॒ष्णो हस्ता॑भ्या॒मा द॑दे । अभ्रि॑रसि॒ नारि॑रसि । अ॒द्ध्व॒र॒कृद्दे॒वेभ्यः॑ । उत्ति॑ष्ठ ब्रह्मणस्पते । (2)  
@@ -271,7 +273,8 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 उत्तु॑द शिमिजावरि । तल्पे॑जे॒ तल्प॒ उत्तु॑द । गि॒रीँ रनु॒ प्रवे॑शय । मरी॑ची॒रुप॒ सन्नु॑द । याव॑दि॒तः पु॒रस्ता॑दु॒दया॑ति॒ सूर्यः॑ । ताव॑दि॒तो॑ऽमुन्ना॑शय । यो॑ऽस्मान्द्वेष्टि॑ । यञ्च॑ व॒यन्द्वि॒ष्मः । (80)  
 भूर्भुव॒स्सुवो॒ भूर्भुव॒स्सुवो॒ भूर्भुव॒स्सुवः॑ । भुवो॑ऽद्धायि॒ भुवो॑ऽद्धायि॒ भुवो॑ऽद्धायि । नृ॒म्णायि नृ॒म्णं नृ॒म्णायि नृ॒म्णं नृ॒म्णायि नृ॒म्णम् । नि॒धाय्यो॑ वायि नि॒धाय्यो॑ वायि नि॒धाय्यो॑ वायि । ए अ॒स्मे अ॒स्मे । सुव॒र्न ज्योतीः॑ । (81)  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="82_pRthivI_samit">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="82_pRthivI_samit">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिवी᳓ समि᳓त् ।  
@@ -305,9 +308,11 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 ताम॒हँ समि॑न्धे ।  
 सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="83_antarixaM_samit">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="83_antarixaM_samit">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षँ समि᳓त् । (82)  
@@ -341,9 +346,11 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 ताम॒हँ समि॑न्धे ।  
 सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="84_dyaus_samit">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="84_dyaus_samit">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्यौ᳓स्समि᳓त् ।  
@@ -377,9 +384,11 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 ताम॒हँ समि॑न्धे ।  
 सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समिन्ताँ॒ स्वाहा॑ । 
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="84_prAjApatyA_me">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="84_prAjApatyA_me">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राजापत्या᳓ मे समि᳓दसि सपत्नक्ष᳓यणी । भ्रातृव्यहा᳓ मेऽसि स्वा᳓हा ।
@@ -389,9 +398,11 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 
 प्रा॒जा॒प॒त्या मे॑ स॒मिद॑सि सपत्न॒क्षय॑णी । भ्रा॒तृ॒व्य॒हा मे॑ऽसि॒ स्वाहा॑ ।
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="84_agne_vratapate">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="84_agne_vratapate">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने व्रतपते!
@@ -402,11 +413,13 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 अग्ने॑ व्रतपते!
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
+</details>
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
@@ -432,11 +445,13 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 वायो॑ व्रतपते
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
+</details>
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
@@ -457,11 +472,13 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 आदि॑त्य व्रतपते
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
+</details>
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
@@ -482,11 +499,13 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 व्र॒ताना॑व्व्ँरतपते
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
+</details>
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
@@ -496,9 +515,11 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
 </div>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="84_dyaus_samit">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="84_dyaus_samit">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्यौ᳓स्समि᳓त् ।  
@@ -532,9 +553,11 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 ताम॒हँ समि॑न्धे ।  
 सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समिन्ताँ॒ स्वाहा॑ । 
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="83_antarixaM_samit">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="83_antarixaM_samit">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षँ समि᳓त् । (82)  
@@ -568,9 +591,11 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 ताम॒हँ समि॑न्धे ।  
 सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="82_pRthivI_samit">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="82_pRthivI_samit">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिवी᳓ समि᳓त् ।  
@@ -604,9 +629,11 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 ताम॒हँ समि॑न्धे ।  
 सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="84_prAjApatyA_me">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="84_prAjApatyA_me">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राजापत्या᳓ मे समि᳓दसि सपत्नक्ष᳓यणी । भ्रातृव्यहा᳓ मेऽसि स्वा᳓हा ।
@@ -616,9 +643,11 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 
 प्रा॒जा॒प॒त्या मे॑ स॒मिद॑सि सपत्न॒क्षय॑णी । भ्रा॒तृ॒व्य॒हा मे॑ऽसि॒ स्वाहा॑ ।
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="84_agne_vratapate">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="84_agne_vratapate">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने व्रतपते!
@@ -629,11 +658,13 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 अग्ने॑ व्रतपते!
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
+</details>
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
@@ -659,11 +690,13 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 वायो॑ व्रतपते
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
+</details>
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
@@ -684,11 +717,13 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 आदि॑त्य व्रतपते
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
+</details>
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
@@ -709,11 +744,13 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 व्र॒ताना॑व्व्ँरतपते
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
+</details>
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
@@ -723,6 +760,7 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
 </div>
+
 </div>
 
 शन्नो॒ वातः॑ पवतां मात॒रिश्वा॒ शन्न॑स्तपतु॒ सूर्यः॑ । अहा॑नि॒ शं भ॑वन्तु न॒श्शँ रात्रिः॒ प्रति॑धीयताम् । शमु॒षा नो॒ व्यु॑च्छतु॒ शमा॑दि॒त्य उदे॑तु नः । शि॒वा न॒श्शन्त॑मा भव सुमृडी॒का सर॑स्वति । मा ते॒ व्यो॑म स॒न्दृशि॑ । इडा॑यै॒ वास्त्व॑सि वास्तु॒मद्वा॑स्तु॒मन्तो॑ भूयास्म॒ मा वास्तो॑श्छित्स्मह्यवा॒स्तुः स भू॑या॒द्यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः । प्र॒ति॒ष्ठासि॑ प्रति॒ष्ठाव॑न्तो भूयास्म॒ मा प्र॑ति॒ष्ठाया॑श्छित्स्मह्यप्रति॒ष्ठः स भू॑या॒द्यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः । आ वा॑त वाहि भेष॒जं वि वा॑त वाहि॒ यद्रपः॑ । त्वँ हि वि॒श्वभे॑षजो दे॒वाना॑न्दू॒त ईय॑से । द्वावि॒मौ वातौ॑ वात॒ आ सिन्धो॑रा प॑रा॒वतः॑ । (89)  

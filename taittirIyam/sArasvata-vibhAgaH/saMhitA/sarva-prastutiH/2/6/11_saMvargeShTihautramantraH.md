@@ -568,24 +568,29 @@ Since we have known of old Of thy help, O Agni, as a father's, Now we seek thy f
 'विद्मा हि त इति'। हे अग्ने यस्मात् पुरा वयं ते तव अवसो रक्षणं विद्म ज्ञातवन्तः। कस्येव, पितुर् यथा। लोके पुरा यथा पितुः पालनं जानन्ति तद्वत्। अध तस्मात् कारणात् ते सुम्नम् ईमहे त्वया संपादितं सुखं प्राप्नुमः।"
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/016/39_ya_ugra.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/016/39_ya_ugra.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 य᳓ उग्र᳓ इव शर्यहा᳓  
 तिग्म᳓शृङ्गो न᳓ वं᳓सगः  
 अ᳓ग्ने पु᳓रो रुरो᳓जिथ
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/016/39_ya_ugra.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/016/39_ya_ugra.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 य उ॒ग्र इ॑व शर्य॒हा ति॒ग्मशृ॑ङ्गो॒ न वंस॑गः ।  
 अग्ने॒ पुरो॑ रु॒रोजि॑थ ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/016/39_ya_ugra.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/016/39_ya_ugra.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -844,6 +849,7 @@ Der einem mächt'gen Schützen gleich und einem scharfgehörnten Stier Die Burge
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जे राजे इत्यादी अधिकारीगण सूर्याप्रमाणे तेजस्वी असतात ते शत्रूंना जिंकण्यास समर्थ असतात. ॥ ३९ ॥
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

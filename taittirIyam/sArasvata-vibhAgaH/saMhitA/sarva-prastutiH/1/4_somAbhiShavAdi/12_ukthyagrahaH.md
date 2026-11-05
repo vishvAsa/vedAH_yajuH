@@ -15,7 +15,8 @@ _______
 उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा बृ॒हद्व॑ते॒ वय॑स्वत उक्था॒युवे॒ यत्त॑ इन्द्र बृ॒हद्वय॒स्तस्मै॑ त्वा॒ विष्ण॑वे त्वा ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य 'उपयामगृहीतोसि विश्वेभ्यस्त्वा देवेभ्यः' इति गृह्णाति ॥
@@ -159,19 +160,24 @@ this is thy birthplace; to the All-gods thee!
 
 'वैश्वदेवो ह्येष देवतया' इति ब्राह्मणम् । 'आत्मा वा एष यज्ञस्य यदाग्रयणः' इत्यादि च ॥
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/12_ukthyagrahaH/02_indrAya_tvA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/12_ukthyagrahaH/02_indrAya_tvA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 इ᳓न्द्राय त्वा +++(बृहता साम्ना पृष्ठाख्येन)+++ बृह᳓द्-वते  
 व᳓यस्वत उक्थायु᳓वे+++(=उक्थ-कामाय)+++ ।   
 य᳓त् त इन्द्र बृह᳓द्-व᳓यस्  
 त᳓स्मै त्वा वि᳓ष्णवे त्वा ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/12_ukthyagrahaH/02_indrAya_tvA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/12_ukthyagrahaH/02_indrAya_tvA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -194,6 +200,7 @@ To that thee! To Visnu thee!
 **उक्थायुवे** उक्थं शस्त्रं कामयमानाय । 'क्याच्छन्दसि' इत्युप्रत्ययः, 'न च्छन्दस्यपुत्रस्य' इतीत्वाभावः । 'जसादिषु वा वचनम्' इति 'घेर्ङिति' इति गुणाभावः । हे इन्द्र तव बृहत् प्रभूतं यद्वयः अन्नं सोमलक्षणं गृह्यमाणं तस्मै तदर्थं तत्पानार्थं त्वां प्रार्थयामह इति शेषः । विष्णवे व्यापकाय तस्मै वयसे त्वां प्रार्थयामह इति । यद्वा - हे सोम विष्णवे भगवते च त्वां गृह्णामीत्येव शेषः । अत्र विष्णुर्ग्रहणकाल एव देवता । यागकाले तु मित्रावरुणाविन्द्राग्नी च । विष्णुर्हि वृत्रवधे साहाय्यकमिन्द्रस्याचरत् । 'यदेव विष्णुरन्वतिष्ठत जहीति तस्माद्विष्णुमन्वाभजति' इति ब्राह्मणम् । इन्द्रस्य सखा विष्णुः तस्मै तदर्थं तत्प्रीत्यर्थं इन्द्राय त्वां गृह्णामीति ॥
 </details>
 </details>
+
 </div>
 
 _______

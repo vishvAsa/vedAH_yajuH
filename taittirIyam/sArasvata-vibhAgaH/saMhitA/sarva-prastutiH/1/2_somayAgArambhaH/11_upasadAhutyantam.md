@@ -438,16 +438,20 @@ ________
 इति।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 या᳓ ते अग्ने ऽया+++(=अयसि/अस्यां [भुवि])+++शया᳓ [ तनू᳓र्  
 व᳓र्षिष्ठा+++(=वृद्धतमा)+++ गह्वरेष्ठो᳓ग्रव्ँ᳓ व᳓चो अ᳓पावधीम्+++(→अपहन्मि)+++,,  
 त्वेषव्ँ᳓+++(=दीप्तं/ क्रूरं)+++ व᳓चो अ᳓पावधीँ स्वा᳓हा ॥ ] ।
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -487,15 +491,19 @@ the highest, that dwells in the cleft,
 'तनूर्' इति चोभयम् अनुषज्यते। तृतीये तु 'या ते अग्न' इत्य् अयम् एवानुषज्यते। तैर् एतैस् त्रिभिर् मन्त्रैस् त्रिषु दिनेषु क्रमेणोपसदाख्या आहुतयो होतव्याः। 
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 [या᳓ ते अग्ने] रजा+++(=रजते/ऽन्तरिक्षे)+++-शया᳓ [ तनू᳓र्  
 व᳓र्षिष्ठा+++(=वृद्धतमा)+++ गह्वरेष्ठो᳓ग्रव्ँ᳓ व᳓चो अ᳓पावधीम्+++(→अपहन्मि)+++,,  
 त्वेषव्ँ᳓+++(=दीप्तं/ क्रूरं)+++ व᳓चो अ᳓पावधीँ स्वा᳓हा ॥ ] ।
+
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -503,7 +511,8 @@ the highest, that dwells in the cleft,
 7द्वितीयस्यां जुहोति -
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -541,15 +550,19 @@ the highest, that dwells in the cleft,
 अयसि शेत इत्य् अयाशया लोह-निर्मिता। तथा रजते शेत इति रजाशया। 
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 [या᳓ ते अग्ने] हरा+++(=हिरण्ये‌/द्यवि)+++शया᳓ [ तनू᳓र्  
 व᳓र्षिष्ठा+++(=वृद्धतमा)+++ गह्वरेष्ठो᳓ग्रव्ँ᳓ व᳓चो अ᳓पावधीम्+++(→अपहन्मि)+++,,  
 त्वेषव्ँ᳓+++(=दीप्तं/ क्रूरं)+++ व᳓चो अ᳓पावधीँ स्वा᳓हा ॥ ] ।
+
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -557,7 +570,8 @@ the highest, that dwells in the cleft,
 8तृतीयायां जुहोति -
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -608,6 +622,7 @@ the highest, that dwells in the cleft,
 
 </details>
 </details>
+
 </div>
 
 इति द्वितीये एकादशोनुवाकः

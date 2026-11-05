@@ -68,16 +68,20 @@ unicode_script: devanagari
 3नराशंसस्येति ॥ नराशंसस्य नरैः शंसनयिस्य अग्नेः यजतस्य यजनीयस्य महिमानं माहात्म्यं उपस्तोषाम उपेत्य स्तुमः । लेट्याडागमः । 'सिब्बहुलं लेटि' इति सिप् । एषां ऋत्विग्यजमानानां यज्ञैः यजनप्रकारैः स्तुमः । किमर्थमिति चेत्? एवं स्तुते ते देवाः सुक्रतवः शोभनप्रज्ञानाः शुचयः शुद्धाः धियंधाः कर्मणां ज्ञानानां वा धातारः दातारः । दधातेः छान्दसः खच् । 'इच एकाचः' इत्यम्भावः । स्वदन्तु आस्वदन्तां उभयानि आज्यपुरोडाशलक्षणानि । सोमे चेत् सोमात्मकानि हव्या हवींषि । 'शेश्छन्दसि' इति लोपः ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/28_AjuhvAna-IDyo_vandyashchAyAhyagne.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/28_AjuhvAna-IDyo_vandyashchAyAhyagne.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 **आ॒जुह्वा॑न॒ ईड्यो॒ वन्द्य॒श् च+  
 +आया॑ह्य्** अग्ने॒ वसु॑भिः स॒जोषाः॑।  
 त्वं दे॒वाना॑म् **असि** यह्व॒ होता॒  
 सऽए॑नान् **यक्षीषि॒तो** यजी॑यान् ॥२८ ॥
+</details>
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/29/28_AjuhvAna-IDyo_vandyashchAyAhyagne.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/29/28_AjuhvAna-IDyo_vandyashchAyAhyagne.md">
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 आ॒जुह्वा॑न॒ इत्या॒ऽजुह्वा॑नः। ईड्यः॑। वन्द्यः॑। च॒। आ। या॒हि॒। अ॒ग्ने॒। वसु॑भि॒रिति॒ वसु॑ऽभिः। स॒जोषा॒ इति॑ स॒ऽजोषाः॑। त्वम्। दे॒वाना॑म्। अ॒सि॒। य॒ह्व॒। होता॑। सः। ए॒ना॒न्। य॒क्षि॒। इ॒षि॒तः। यजी॑यान्। २८।
@@ -144,6 +148,7 @@ unicode_script: devanagari
 
 भावार्थभाषाः -  जी माणसे पवित्र व प्रशंसित विद्वानांच्या संगतीत राहून पवित्र बनतात त्यांचा धर्मात्मा म्हणून सर्वत्र सत्कार होतो.
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -228,16 +228,20 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 तत्र प्रथमामाह– स्वादुषँ सद इति।   
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/46_svAduShaM_sadaH.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/46_svAduShaM_sadaH.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 स्वा॒दु॒-षँ॒सदः॑ पि॒तरो॑ वयो॒-धाः  
 कृ॑च्छ्रे॒-श्रितः॒ शक्ती॑वन्तो गभी॒राः।  
 चि॒त्रसे॑ना॒ ऽइषु॑-बला॒ ऽअमृ॑ध्राः+++(=अयोध्याः)+++  
 स॒तो+++(ऽधिक)+++-वी॑रा ऽउ॒रवो॑ व्रात-सा॒हाः ॥४६ ॥
+</details>
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/29/46_svAduShaM_sadaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/29/46_svAduShaM_sadaH.md">
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 स्वा॒दु॒षँ॒सदः॑। स्वा॒दु॒सँ॒सद इति॑ स्वादुऽसँ॒सदः॑। पि॒तरः॑। व॒यो॒धा इति॑ वयः॒ऽधाः। कृ॒च्छ्रे॒श्रित॒ इति॑ कृच्छ्रे॒ऽश्रितः॑। शक्ती॑वन्तः॒। शक्ति॑वन्त॒ इति॒ शक्ति॑ऽवन्तः। ग॒भी॒राः। चि॒त्रसे॑ना॒ इति॑ चि॒त्रऽसे॑नाः। इषु॑बला॒ इतीषु॑ऽबलाः। अमृ॑ध्राः। स॒तोवी॑रा॒ इति॑ स॒तःऽवी॑राः। उ॒रवः॑। व्रा॒त॒सा॒हाः। व्रा॒त॒स॒हा इति॑ व्रातऽस॒हाः। ४६।
@@ -314,6 +318,7 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 
 भावार्थभाषाः -  जे वीरपुरुष, अधिष्ठाते, आप्त, सत्यवादी सज्जनाकडून शिक्षण घेतात त्यांचा नेहमी विजय होतो व त्यांना राज्य, श्री, प्रतिष्ठा, मानसन्मान, बल आणि विद्या प्राप्त होते.
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -321,16 +326,20 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 अथ द्वितीयामाह– ब्राह्मणास इति ।  
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/47_brAhmaNAsaH_pitaraH.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/47_brAhmaNAsaH_pitaraH.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 ब्राह्म॑णासः॒ पित॑रः॒ सोम्या॑सः  
 शि॒वे नो॒ द्यावा॑-पृथि॒वी ऽअ॑ने॒हसा॑।  
 पू॒षा नः॑ **पातु** दुरि॒ताद् ऋ॑ता-वृधो॒  
 रक्षा॒ माकि॑र् **नो ऽअ॒घशँ॑स ऽईशत** ॥४७ ॥
+</details>
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/29/47_brAhmaNAsaH_pitaraH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/29/47_brAhmaNAsaH_pitaraH.md">
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 ब्रा॒ह्म॑णासः। पित॑रः। सोम्यासः॑। शि॒वेऽइति॑ शि॒वे। नः॒। द्यावा॑पृथि॒वीऽइति॒ द्यावा॑पृथि॒वी। अ॒ने॒हसा॑। पू॒षा। नः॒। पा॒तु॒। दु॒रि॒तादिति॑ दुःऽइ॒तात् ऋ॒ता॒वृ॒धः॒। ऋ॒त॒वृध॒ इत्यृ॑तऽवृधः। रक्ष॑। माकिः॑। न॒। अ॒घशँ॑स॒ इत्य॒घऽशँ॑सः। ई॒श॒त॒। ४७।
@@ -400,6 +409,7 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 
 भावार्थभाषाः -  हे माणसांनो ! जे विद्वान लोक तुम्हाला धर्मयुक्त कर्तव्यामध्ये प्रवृत्त करून दुष्ट वर्तनापासून दूर ठेवतात व दुष्ट माणसांचे बळ नष्टा करून सर्व माणसांना बलवान करतात त्यांचा सदैव सत्कार केला पाहिजे.
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -407,16 +417,20 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 अथ तृतीयामाह—  २२०४ सुपर्णं वस्त इति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/48_suparNaM_vaste.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/48_suparNaM_vaste.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 +++(इषोः पुच्छे)+++ सु॒प॒र्णं व॑स्ते+++(=आच्छादयति)+++, मृ॒गो ऽअ॑स्या॒ दन्तो॒  
 +++(शल्ययोजने)+++ गोभिः॒ सन्न॑द्धा, पतति॒ प्रसू॑ता।  
 यत्रा॒ नरः॒ सं च॒ वि च॒ द्रव॑न्ति॒  
 तत्रा॒स्माभ्य॒म् इष॑वः॒ शर्म॑ यँसन् ॥४८ ॥+++(5)+++
+</details>
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/29/48_suparNaM_vaste.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/29/48_suparNaM_vaste.md">
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 सु॒प॒र्णमिति॑ सुऽप॒र्णम्। व॒स्ते॒। मृ॒गः। अ॒स्याः॒। दन्तः॑। गोभिः॑। सन्न॒द्धेति सम्ऽन॑द्धा। प॒त॒ति॒। प्रसू॒तेति॒ प्रऽसू॑ता। यत्र॒। नरः॑। सम्। च॒। वि। च॒। द्रव॑न्ति। तत्र॑। अ॒स्मभ्य॑म्। इष॑वः। शर्म॑। यँ॒स॒न्। ४८।
@@ -489,6 +503,7 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे राजपुरुषांनो तुम्ही शत्रूला न घाबरणारी बलवान सेना तयार करा त्या सेनेत प्रशिक्षित योद्धे व अध्यक्ष असावेत. अशा अस्र शस्रात निष्णात असणाऱ्या लोकांकडून विजय प्राप्त करा.
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>

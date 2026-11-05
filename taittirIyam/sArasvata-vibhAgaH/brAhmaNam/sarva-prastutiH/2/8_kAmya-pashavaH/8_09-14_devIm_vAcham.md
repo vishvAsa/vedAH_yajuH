@@ -14,24 +14,30 @@ unicode_script: devanagari
 दे॒वीव्ँ वाच॑मजनयन्त॒ यद्वाग्वद॑न्ती ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/100/11_devIM_vAchamajanayanta.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/100/11_devIM_vAchamajanayanta.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 देवीं᳓ वा᳓चम् अजनयन्त देवा᳓स्  
 तां᳓ विश्व᳓रूपाः पश᳓वो वदन्ति  
 सा᳓ नो मन्द्रा᳓ इ᳓षम् ऊ᳓र्जं दु᳓हाना  
 धेनु᳓र् वा᳓ग् अस्मा᳓न् उ᳓प सु᳓ष्टुतइ᳓तु
+</details>
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/100/11_devIM_vAchamajanayanta.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/100/11_devIM_vAchamajanayanta.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 दे॒वीं वाच॑मजनयन्त दे॒वास्तां वि॒श्वरू॑पाः प॒शवो॑ वदन्ति ।  
 सा नो॑ म॒न्द्रेष॒मूर्जं॒ दुहा॑ना धे॒नुर्वाग॒स्मानुप॒ सुष्टु॒तैतु॑ ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/100/11_devIM_vAchamajanayanta.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/100/11_devIM_vAchamajanayanta.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाक्
@@ -353,26 +359,34 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 - निचृत्त्रिष्टुप्
 - धैवतः
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 य᳓द् वा᳓ग् व᳓दन्त्य् अविचेतना᳓नि  
 रा᳓ष्ट्री देवा᳓नां निषसा᳓द मन्द्रा᳓ +++(अस्मत्कर्मणि)+++।  
 च᳓तस्र +++(दिग्देवताः)+++ ऊ᳓र्जं दुदुहे प᳓याँसी  
 क्व᳙स्विद् अस्याः परमं᳓ जगाम । 
 
+</details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 यद्वाग्वद॑न्त्यविचेत॒नानि॒ राष्ट्री॑ दे॒वानां॑ निष॒साद॑ म॒न्द्रा ।  
 चत॑स्र॒ ऊर्जं॑ दुदुहे॒ पयां॑सि॒ क्व॑ स्विदस्याः पर॒मं ज॑गाम ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाक्
@@ -658,6 +672,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 - विराट्त्रिष्टुप्
 - धैवतः
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -665,7 +680,8 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 10अथ पुरोडाशस्य पुरोनुवाक्यामाह -
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/40_anantAm_antAd.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/40_anantAm_antAd.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अनन्ता᳓म् अ᳓न्ताद् अ᳓धि **नि᳓र्मितां** मही᳓म्।  
@@ -673,9 +689,11 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 ए᳓काक्षरां द्विप᳓दाँ ष᳓ट्पदां च।  
 वा᳓चं देवा᳓ **उ᳓पजीवन्ति** वि᳓श्वे ।
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/40_anantAm_antAd.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/40_anantAm_antAd.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -690,6 +708,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 देवाः इन्द्रादयः यस्यां वाचि भोजनानि अदधुः संपादितवन्तः । इन्द्राय स्वाहेति मन्त्रेण हुतं भुङ्क्ते, अतो वाङ्निमित्तं तद्भोजनम् । तां वाचं स्वभोजनहेतुं विश्वे सर्वे देवाः उपजीवन्ति । सर्वेषामपि देवानां मन्त्रपुरस्सरं दत्तमेवान्नं जीवनहेतुः । कीदृशीं वाचं? अनन्तां न हि लौकिकवैदिकशब्दानामन्तः पारोऽस्ति । अत एव महाभाष्यकार उदाजहार - 'बृहस्पतिश्च वक्ता, इन्द्रश्चाध्येता, दिव्यं च वर्षसहस्रमध्ययनकालः, शब्दपारायणस्यान्तं च न जगाम' इति । अन्तादधिनिर्मितां, पूर्वसृष्टेरन्तः परमेश्वरस्वरूपं, तस्मिन्हि जगल्लीयते तस्मादन्तात्परमेश्वरादधिकत्वेन निर्मितां तामेकाक्षरां प्रणवरूपां द्विपदां संस्कृतापशब्दरूपां षट्पदां प्राकृतपैशाचिकादिभाषाभेदेन षड्विधां अत एव महीं महतीम् ॥
 </details>
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -697,7 +716,8 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 11अथ पुरोडाशस्य याज्यामाह -
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/44_vAchaM_devA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/44_vAchaM_devA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 वा᳓चं देवा᳓ **उ᳓पजीवन्ति** वि᳓श्वे।  
@@ -705,9 +725,11 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 वाची᳓मा᳓ वि᳓श्वा भु᳓वनान्य् **अ᳓र्पिता**+++(←जुष्टार्पिते च च्छन्दसि)+++।  
 सा᳓ नो ह᳓वं **जुषताम्** इ᳓न्द्रपत्नी +++(बहुव्रीहेर् ङीप्)+++ ।
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/44_vAchaM_devA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/44_vAchaM_devA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -722,6 +744,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 पूर्वमन्त्रोक्तरीत्या सर्वे देवा आहुतिकालीनमन्त्ररूपां वाचमेवोपजीवन्ति । गन्धर्वादयश्च वाचैव व्यवहरन्ति । पशूनामपि हम्भारवादिरूपया वाचैव व्यवहारो दृश्यते । तस्मात् इमा विश्वा भुवनानि सर्वलोकनिवासिन एते प्राणिनः वाच्यर्पिता वाचमेवाश्रित्य वर्तन्ते । येयमीदृशी वाक्सेयं इन्द्रपत्नी इन्द्रस्य पालयित्री ततो नो हवं अस्मदीयमिदं हविः जुषताम् ॥
 </details>
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -729,7 +752,8 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 12अथ हविषः पुरोनुवाक्यामाह -
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/48_vAg_axaram.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/48_vAg_axaram.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 वा᳓ग् अक्ष᳓रं प्रथम-जा᳓ ऋत᳓स्य।  
@@ -737,9 +761,11 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 सा᳓ नो **जुषाणो᳓प** यज्ञ᳓म् **आ᳓गात्**।  
 **अ᳓वन्ती** देवी᳓ सुह᳓वा मे **अस्तु** ।
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/48_vAg_axaram.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/48_vAg_axaram.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -754,6 +780,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 येयं वाक्सैव अक्षरं अविनश्वरं परमात्मस्वरूपं, तत उत्पन्नत्वात् । सा च ऋतस्य यज्ञस्य प्रथमजा प्रथममुत्पादयित्री । मन्त्रैर्हि कर्माण्युत्पाद्यन्ते । अत एवाथर्वणिका आमनन्ति - 'तदेतत्सत्यं मन्त्रेषु कर्माणि कवयो यान्यपश्यन्' इति । सा च ऋग्वेदादीनां माता, तेषां वाग्विशेषरूपत्वात् । अमृतस्य नाभिः अमृतत्वं हि देवत्वं । वाचि नह्यते बध्यते मन्त्रपूर्वकानुष्ठानेन तत्प्राप्तिः । मा वाग्देवी जुषाणा प्रीतियुक्ता सती न: अस्मदीयं यज्ञं उपागात् प्राप्नोतु । सा च देवी अवन्ती अस्मान्रक्षन्ती मे मम सुहवा सुखेनाह्वातुं शक्या अस्तु ॥
 </details>
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -761,7 +788,8 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 13अथ हविषो याज्यामाह
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/52_yAm_RShayo.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/52_yAm_RShayo.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 या᳓म् ऋ᳓षयो मन्त्रकृ᳓तो मनीषि᳓णः ।  
@@ -769,9 +797,11 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 तां᳓ देवीं᳓ वा᳓चँ हवि᳓षा **यजामहे** ।  
 सा᳓ नो **दधातु** सुकृत᳓स्य लोके᳓ ।
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/52_yAm_RShayo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/52_yAm_RShayo.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -789,6 +819,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 इति । तां तादृशीं वाचं देवीं अनेन हविषा यजामहे । सा च देवी सुकृतस्य कर्मणः फलभूते लोके नः अस्मान् दधातु स्थापयतु ॥
 </details>
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -796,24 +827,31 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 14अथ हविष एव विकल्पितां याज्यामाह -
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/45_chatvAri_vAkparimitA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/45_chatvAri_vAkparimitA.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 चत्वा᳓रि वा᳓क् प᳓रिमिता पदा᳓नि  
 ता᳓नि **विदुर्**, ब्राह्मणा᳓ ये᳓ मनीषि᳓णः +++(स᳓न्ति)+++।  
 गु᳓हा त्री᳓णि +++(=परा-पश्यन्ती-मध्यमाः)+++ **नि᳓हिता** ने᳓ङ्गयन्ति  
 तुरी᳓यं वाचो᳓ +++(=वैखरी)+++ मनुष्या᳙ **वदन्ति** ॥
 
+</details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/164/45_chatvAri_vAkparimitA.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/164/45_chatvAri_vAkparimitA.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 च॒त्वारि॒ वाक्परि॑मिता प॒दानि॒ तानि॑ विदुर्ब्राह्म॒णा ये म॑नी॒षिणः॑ ।  
 गुहा॒ त्रीणि॒ निहि॑ता॒ नेङ्ग॑यन्ति तु॒रीयं॑ वा॒चो म॑नु॒ष्या॑ वदन्ति ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/164/45_chatvAri_vAkparimitA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/164/45_chatvAri_vAkparimitA.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाक्
@@ -1148,4 +1186,5 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 
 भावार्थभाषाः -  विद्वान व अविद्वानात इतकाच फरक आहे, की जे विद्वान असतात ते नाम, आख्यात, उपसर्ग व निपात या चारहींना जाणतात. त्यापैकी तीन ज्ञानात असतात. चौथ्या सिद्ध शब्दसमूहाला (वाणीला) सर्वजण प्रसिद्ध व्यवहारात जाणतात. जे अविद्वान असतात ते नाम, आख्यात, उपसर्ग व निपात जाणत नाहीत, परंतु निपातरूपी साधन-ज्ञानरहित शब्दांचा प्रयोग करतात. ॥ ४५ ॥
 </details>
+
 </div> 

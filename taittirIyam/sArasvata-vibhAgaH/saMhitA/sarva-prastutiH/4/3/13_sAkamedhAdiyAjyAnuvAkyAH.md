@@ -40,24 +40,29 @@ title = "१३ साकमेधादियाज्यानुवाक्�
 अथ द्वितीयस्याऽऽज्यभागस्य पुरोनुवाक्याम् आह— “त्वं सोमासीति”।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/05_tvaM_somAsi.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/05_tvaM_somAsi.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 तुवं᳓ सोमासि स᳓त्पतिस्  
 तुवं᳓ रा᳓जोत᳓ वृत्रहा᳓  
 तुव᳓म् भद्रो᳓ असि क्र᳓तुः
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/091/05_tvaM_somAsi.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/091/05_tvaM_somAsi.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 त्वं सो॑मासि॒ सत्प॑ति॒स्त्वं राजो॒त वृ॑त्र॒हा ।  
 त्वं भ॒द्रो अ॑सि॒ क्रतुः॑ ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/091/05_tvaM_somAsi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/091/05_tvaM_somAsi.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -338,6 +343,7 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 
 भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. परमेश्वर, विद्वान, सोमलता इत्यादी औषधींचा समूह हे संपूर्ण ऐश्वर्य देणारे, श्रेष्ठांचे रक्षण करणारे, अधिपती, दुःखांचा नाश करणारे व विज्ञान देणारे, कल्याणकारी आहेत हे चांगल्या प्रकारे जाणून सर्वांनी त्यांचा अंगीकार करणे योग्य आहे. ॥ ५ ॥
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -505,24 +511,29 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 अथ द्वितीयाज्यभागस्य पुरोनुवाक्याम् आह— “वृषा सोमेति”।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/064/01_vRShA_soma.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/064/01_vRShA_soma.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 वृ᳓षा सोम द्युमाँ᳓ असि  
 वृ᳓षा देव वृ᳓षव्रतः  
 वृ᳓षा ध᳓र्माणि दधिषे
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/064/01_vRShA_soma.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/064/01_vRShA_soma.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 वृषा॑ सोम द्यु॒माँ अ॑सि॒ वृषा॑ देव॒ वृष॑व्रतः ।  
 वृषा॒ धर्मा॑णि दधिषे ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/064/01_vRShA_soma.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/064/01_vRShA_soma.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -766,6 +777,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 पदार्थान्वयभाषाः -  (सोम) हे परमात्मन् ! त्वं (द्युमानसि) दीप्तिमानसि। तथा (वृषा) समस्ताभीष्टवर्षकोऽसि। तथोपासकानां हृदयानि (वृषा) स्नेहेन सिञ्चसि। (देव) हे दिव्यगुणसम्पन्न ! भवान् (वृषव्रतः) आनन्दवर्षणशीलं ददाति। (वृषा धर्माणि दधिषे) तथा वर्षणशीलधर्मधारकोऽस्ति ॥१॥
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

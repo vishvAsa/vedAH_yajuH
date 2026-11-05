@@ -4,7 +4,8 @@ unicode_script = "devanagari"
 +++
 Source: [भास्करः](https://archive.org/details/taittiriya/taittiriya_aranyaka_bhaskara_01/page/n329/mode/1up?view=theater)
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 स᳓न् त्वा सिञ्चामि य᳓जुषा  
@@ -13,9 +14,11 @@ Source: [भास्करः](https://archive.org/details/taittiriya/taittiriy
 य᳓जमान इह᳓ मा᳓ रिषत्  ॥
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -49,4 +52,5 @@ Instigated by Brhaspati may the sacrificer here come to no harm.
 सं त्वा सिञ्चामीति। हे स्कन्नाज्य बृहस्पतिप्रेरितोऽहं प्रजादीन्संपादयेयम। त्वामनेन यजुषा मन्त्रेण पात्रे सम्यक्सिञ्चामि। इह कर्मणि यजमानः स्कन्दनापराधेन मा रिषन्मा हिंस्यताम्। अयं मन्त्र आध्वर्यवः। अतो यजमानस्यान्यत्वेनोक्तिरविरुद्धा।  
 </details>
 </details>
+
 </div>

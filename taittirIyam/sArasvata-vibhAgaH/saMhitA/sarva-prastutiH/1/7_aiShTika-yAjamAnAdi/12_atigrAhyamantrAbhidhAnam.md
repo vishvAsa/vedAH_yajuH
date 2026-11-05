@@ -14,7 +14,8 @@ title = "१२ अतिग्राह्यमन्त्राभिधा�
 1पञ्चैन्द्रान् अतिग्राह्यान् ग्रहान् गृह्णाति - उपयामगृहीतोसीत्यादिभिः ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -40,6 +41,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -63,7 +65,8 @@ ________________
 हे ग्रह त्वा त्वां नृषदं नृषु प्रजासु सीदति स्थित्यर्थं तेषां नृषत् । एवमुत्तरत्र । सुषामादित्वात्षत्वम्, 'सन्दिरप्रतेः' इति वा सर्वविषयं द्रष्टव्यम् । द्रुषदं 'वनस्पतयो वै द्रु' । भुवनसदं भुवनं सर्वभूतजातम् । इन्द्राय जुष्टं प्रियं गृह्णामीति व्याख्यातप्रायम् ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2गृहीत्वा यथायतनं सादयति -
@@ -88,6 +91,7 @@ this is thy birthplace; to Indra thee!
 
 एष ते योनिः कारणं इन्द्राय त्वा सादयामि । व्याख्यातमेव ॥
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -95,7 +99,8 @@ this is thy birthplace; to Indra thee!
 3-4द्वितीयम् - उपयामगृहीतोसीति ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -121,6 +126,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -144,7 +150,8 @@ thee that sittest in the waters, that sittest in the ghee, that sittest in the s
 त्वा त्वामप्सुषदम् । 'तत्पुरुषे कृतिबहुलम्' इत्यलुक् । अन्नादीनामुत्पादकतया तत्र सीदतीति । अग्नौ प्रास्ताहुतिस्सम्यक्' इत्यादि ।  
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2गृहीत्वा यथायतनं सादयति -
@@ -169,6 +176,7 @@ this is thy birthplace; to Indra thee!
 
 एष ते योनिः कारणं इन्द्राय त्वा सादयामि । व्याख्यातमेव ॥
 </details>
+
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -181,7 +189,8 @@ this is thy birthplace; to Indra thee!
 5-6अथ तृतीयम् - उपयामगृहीतोसीति ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -207,6 +216,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -232,7 +242,8 @@ thee that sittest on the earth, that sittest on the atmosphere, that sittest on 
 पृथिविषदम् । 'ङ्यापोस्संज्ञाच्छन्दसोः' इति ह्रस्वत्वम् । पूर्ववद्भूतिहेतुत्वेन पृथिव्यादिषु सदनम् । गतमन्यत् ।  
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2गृहीत्वा यथायतनं सादयति -
@@ -257,6 +268,7 @@ this is thy birthplace; to Indra thee!
 
 एष ते योनिः कारणं इन्द्राय त्वा सादयामि । व्याख्यातमेव ॥
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -264,7 +276,8 @@ this is thy birthplace; to Indra thee!
 7अथ चतुर्थम् - ये ग्रहा इति पञ्चपदया पङ्क्त्या ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/02_ye_grahAH.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/02_ye_grahAH.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ये᳓ ग्र᳓हाः पञ्चजनी᳓ना  
@@ -272,10 +285,13 @@ this is thy birthplace; to Indra thee!
 दै᳓व्यᳵ को᳓शः [45] स᳓मुब्जितः+++(=अधोमुखः)+++ ।  
 ते᳓षाव्ँ वि᳓शि-प्रियाणाम्  
 इ᳓षम् ऊ᳓र्जँ **स᳓मग्रभीम्**+++(←स्वरः??)+++ ।
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/02_ye_grahAH.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/02_ye_grahAH.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -302,9 +318,11 @@ The food and strength have I seized;
 तेषां तेभ्यः । तादर्थ्यचतुर्थ्याष्षष्ठी । विशिप्रियाणां विविधहनुपर्यन्तानां इषमन्नमूर्जं रसं च समग्रभीं सङ्गृह्णामि । उपयामगृहीतोसीति गृह्णाति । छान्दसे लुङि 'अमो मश्' 'हृग्रहोर्भः' ॥
 </details>
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2गृहीत्वा यथायतनं सादयति -
@@ -329,6 +347,7 @@ this is thy birthplace; to Indra thee!
 
 एष ते योनिः कारणं इन्द्राय त्वा सादयामि । व्याख्यातमेव ॥
 </details>
+
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -341,17 +360,21 @@ this is thy birthplace; to Indra thee!
 9-10अथ पञ्चमम् - अपां रसमित्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/03_apAM_rasam.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/03_apAM_rasam.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अपाँ᳓ र᳓सम्, उ᳓द्-वयसँ+++(=उज्जीवनम्)+++,  
 सू᳓र्य-रश्मिँ समा᳓भृतम् ।  
 अपाँ᳓ र᳓सस्य यो᳓ र᳓सस्  
 तव्ँ᳓ वो **गृह्णाम्य्** उत्तम᳓म् ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/03_apAM_rasam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/03_apAM_rasam.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -374,9 +397,11 @@ That of you I take which is the best;
 उपयामगृहीतोसीति गृह्णाति । क्रियाविशेषणं वा, उत्तमं गृह्णामीति । तादर्थ्यात्ताच्छब्द्यम् । उत्तमशब्द उञ्छादिः । 'ऊडिदम्' इत्यद्भ्यष्षष्ठ्या उदात्तत्वम् ।
 </details>
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2गृहीत्वा यथायतनं सादयति -
@@ -401,6 +426,7 @@ this is thy birthplace; to Indra thee!
 
 एष ते योनिः कारणं इन्द्राय त्वा सादयामि । व्याख्यातमेव ॥
 </details>
+
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -413,17 +439,21 @@ this is thy birthplace; to Indra thee!
 11-12सुराग्रहान् गृह्णाति - अया विष्ठा इति त्रिष्टुभा यजुरन्तया ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/04_ayA_viShThA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/04_ayA_viShThA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अया᳓+++(=अनया)+++ वि-ष्ठा᳓ जन᳓यन् क᳓र्वराणि+++(=कर्माणि)+++  
 स᳓ हि᳓ घृ᳓णिर्+++(←घृ सेके छादने वा)+++ उरु᳓र् व᳓राय गातुः᳓+++(=मार्गः)+++ ।  
 स᳓ **प्र᳓त्य्-उ᳓दैद्** धरु᳓णो म᳓ध्वो अ᳓ग्रँ  
 स्वा᳓याय्ँ य᳓त् तनु᳓वान् +++(काम् अपि)+++ तनू᳓म् **ऐ᳓रयत** ।
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/04_ayA_viShThA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/04_ayA_viShThA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -450,9 +480,11 @@ What time he moved a body in his own body.
 **उरुर्** महान् **वराय** वरिष्ठाय फलाय **गातुर्** मार्गः प्राप्तेः पुरुषार्थप्राप्तिरित्यर्थः । तादर्थ्ये चतुर्थी । स तादृशः प्रत्युदैत् प्रत्युद्गच्छतु । छान्दसो लुङ् । किम् ? **मध्वः** उदकस्य अग्रं सारम् । नुमभावच्छान्दसः, 'जसादिषु वा वचनं प्राङ्णौ चङ्युपधायाः' इति गुणाभावः । धरुणो धारयिता स तादृशः मदुनोग्रं प्राप्नोतु । यद्यस्मात्स्वायामात्मीयायां तनुवां शरीरभूतेस्मिन् ग्रहे तनुं स्वशरीरमैरयत प्रेरयति ; तस्मादेतद्ग्रहात्मा अस्मदभिमतं साधयत्विति ।
 </details>
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -478,9 +510,11 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/prajApataye_tvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/prajApataye_tvA.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतये त्वा जु᳓ष्टङ्गृह्णामि ।
@@ -529,6 +563,7 @@ this is thy birthplace; to Prajapati thee!
 
 'पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
+
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>

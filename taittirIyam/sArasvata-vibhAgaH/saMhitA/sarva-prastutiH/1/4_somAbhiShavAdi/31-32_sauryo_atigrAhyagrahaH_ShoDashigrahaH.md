@@ -11,7 +11,8 @@ _______
 केचिद् आहुर् - एकत्रिंशो ऽयम् अनुवाको ऽस्मिन् प्रदेशेध्येतव्य इति । अन्ये तु - यथाम्नातेनैव सौर्यो ऽतिग्राह्यो गृह्यते, नावश्यकम् अत्राध्ययनम् इत्य् आहुः ॥
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/04_taraNirvishvadarshato_jyotiShkRdasi.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/04_taraNirvishvadarshato_jyotiShkRdasi.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 तर᳓णिर् विश्व᳓-दर्श-तो  
@@ -19,17 +20,21 @@ _______
 वि᳓श्वम् **आ᳓ भासि** रोचन᳓म् ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/050/04_taraNirvishvadarshato_jyotiShkRdasi.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/050/04_taraNirvishvadarshato_jyotiShkRdasi.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 त॒रणि॑र्वि॒श्वद॑र्शतो ज्योति॒ष्कृद॑सि सूर्य ।  
 विश्व॒मा भा॑सि रोच॒नम् ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/04_taraNirvishvadarshato_jyotiShkRdasi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/04_taraNirvishvadarshato_jyotiShkRdasi.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -295,9 +300,11 @@ Für alle sichtbar, schnellen Laufs erzeugst du Licht, o Sonnengott, Den ganzen 
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा सूर्य व विद्युत आत बाहेर राहणाऱ्या सर्व स्थूल पदार्थांना प्रकाशित करतात तसेच ईश्वरही सर्व वस्तूंना प्रकाशित करतो. ॥ ४ ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य 'उपयामगृहीतोसि विश्वेभ्यस्त्वा देवेभ्यः' इति गृह्णाति ॥
@@ -441,6 +448,7 @@ this is thy birthplace; to the All-gods thee!
 
 'वैश्वदेवो ह्येष देवतया' इति ब्राह्मणम् । 'आत्मा वा एष यज्ञस्य यदाग्रयणः' इत्यादि च ॥
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

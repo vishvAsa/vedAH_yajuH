@@ -377,24 +377,29 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 तत्र प्रथमामाह— सीरा युञ्जन्तीति ।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/101/04_sIrA_yunjanti.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/101/04_sIrA_yunjanti.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 सी᳓रा युञ्जन्ति कव᳓यो  
 युगा᳓ वि᳓ तन्वते पृ᳓थक्  
 धी᳓रा देवे᳓षु सुम्नया᳓
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/101/04_sIrA_yunjanti.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/101/04_sIrA_yunjanti.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 सीरा॑ युञ्जन्ति क॒वयो॑ यु॒गा वि त॑न्वते॒ पृथ॑क् ।  
 धीरा॑ दे॒वेषु॑ सुम्न॒या ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/101/04_sIrA_yunjanti.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/101/04_sIrA_yunjanti.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवा ऋत्विजो वा
@@ -614,6 +619,7 @@ Die es verstehen, spannen die Stränge an und legen die Joche gesondert auf, die
 
 पदार्थान्वयभाषाः -  (कवयः) कृषिवलाः-कृषकाः-(सीरा युञ्जन्ति) सीराणि हलादीनि योजयन्ति बलिवर्देषु (युगा पृथक् वि तन्वते) योक्त्राणि चर्मसाधनानि पृथक् पृथग्बलीवर्दिषु वितन्वन्ति-बध्नन्ति (धीराः सुम्नया-देवेषु) धीमन्तो वैज्ञानिका लोकेषु स्वेच्छया विद्युन्मेघमरुत्सु मनो युञ्जते यत् कृषिः सम्पन्ना स्यादिति चिन्तयन्ति तदुपायान् ॥४॥
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>

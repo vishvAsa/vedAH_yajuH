@@ -10,16 +10,20 @@ _______
 1पुनरप्याश्विनग्रहणमन्त्रः - प्रातर्युजाविति गायत्री त्रिपदा । पूर्वेण सहास्य विकल्पः ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/07_AshvinagrahaH/02_prAtaryujau_vi.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/07_AshvinagrahaH/02_prAtaryujau_vi.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 +++(आश्विनशस्त्रादिभिः)+++ प्रातर्-यु᳓जौ **वि᳓ मुच्येथाम्**  
 अ᳓श्विनाव् **ए᳓ह᳓ गच्छतम्** ।  
 अस्य᳓ सो᳓मस्य पीत᳓ये ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/07_AshvinagrahaH/02_prAtaryujau_vi.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/07_AshvinagrahaH/02_prAtaryujau_vi.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -39,6 +43,7 @@ To drink this Soma.
 हे **अश्विनौ** यौ युवां **प्रातर्-युजौ** प्रातर्-योक्तारौ तौ **विमुच्येथाम्** यजमानान्तरैर् विमुक्तौ भवतं अन्य-यजमानान् विहाय इहास्मिन्कर्मण्य् आगच्छतम् । किमर्थम् ? - **अस्य सोमस्य पीतये** पानाय । 'क्तिच्कौ च संज्ञायाम्' इति क्तिच्, पानविशेषस्य संज्ञात्वात् ॥
 </details>
 </details>
+
 </div>
 
 _______
@@ -47,7 +52,8 @@ _______
 इत्यनुद्रुत्योपयामगृहीतोस्यश्विभ्यां त्वेति गृह्णाति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -73,6 +79,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

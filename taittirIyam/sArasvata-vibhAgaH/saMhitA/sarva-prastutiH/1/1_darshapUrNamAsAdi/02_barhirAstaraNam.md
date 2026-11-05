@@ -45,7 +45,8 @@ ____
 गार्हपत्ये प्रतितपति
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pratyuShTam.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pratyuShTam.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓त्युष्टँ र᳓क्षᳶ, प्र᳓त्युष्टा अ᳓रातयः+++(=अदातारः)+++।
@@ -79,6 +80,7 @@ The Raksas is burned up, the evil spirits are burned up.
 
 किञ्च, अरातयोपि प्रत्युष्टास्सन्तु । रातयो धनस्य दातारस्सुहृदः । 'कृत्यल्युटो बहुळम्' (पा.सू. 3.3.113) इति बहुलवचनात्कर्तरि क्तिन् । अतोन्येऽरातयः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) ॥
 </details>
+
 </div>  
 
 ____
@@ -89,17 +91,21 @@ ____
 वेदिं प्रत्यवेक्षमाणो मन्त्रशेषं ब्रवीति - "इह बह्रिर् आसदे"। 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/14_praiyam_agAd.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/14_praiyam_agAd.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 प्र᳓+इय᳓म् +++(अश्वपर्शोर् धारा)+++ **अगाद्**, धिष᳓णा+++(=धृष्टा [लवने], धीः)+++ बर्हि᳓र् अ᳓च्छ +++(आप्तुं)+++  
 म᳓नुना कृता᳓, स्वध᳓या+++(→अश्वमांसेन)+++ वि᳓तष्टा+++(=वितनूकृता)+++।  
 त᳓ +++(कवयो बर्हिर्)+++ **आ᳓वहन्ति** कव᳓यᳶ पुर᳓स्ताद् +++(→पूर्वस्माद् यज्ञारम्भाय)+++  
 +++(बर्हि᳓षस् स᳓मृद्ध्यै, क᳓र्मणो᳓ऽनपराधाय→)+++ देवे᳓भ्यो जु᳓ष्टम्, इह᳓ +++(वेद्यां)+++ बर्हि᳓र् आस᳓दे+++(=आसादयितव्यम्)+++।
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/14_praiyam_agAd.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/14_praiyam_agAd.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -157,6 +163,7 @@ The delightful straw for the gods to sit on here.
 सदेर्ण्यन्तात् 'कृत्यार्थे तवैकेन्' (पा.सू. 3.4.14) इति केन्प्रत्ययः । 'बहुळं संज्ञाछन्दसोः' (उ.सू. 190) इति णेर्लुक् । 'न लुमता' (पा.सू. 1.1.63) इति वृद्ध्यभावः । कृदुत्तरपदप्रकृतिस्वरेण ('ञ्नित्यादिः' (पा.सू. 6.1.197) इति) नित्त्वात् आद्युदात्तः ॥
 </details>
 </details>
+
 </div>
 
 ____
@@ -198,7 +205,8 @@ ____
 5दर्भस्तम्बमुन्मार्ष्टि - वर्षवृद्धमसीति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/varSha-vRddham.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/varSha-vRddham.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्ष᳓-वृद्धम् असि।
@@ -223,6 +231,7 @@ Thou art made to grow by the rains.
 
 वर्षेण वर्धितमसि । पूर्ववण्णिलुक् (उ.सू. 190) । 'तृतीया कर्मणि' (पा.सू. 6.2.48) इति पूर्वपदप्रकृतिस्वरत्वम् । वर्षशब्द उञ्छादित्वादन्तोदात्तः (पा.सू. 6.1.160) ॥
 </details>
+
 </div>  
 
 ____
@@ -348,7 +357,8 @@ O divine straw, rise with a hundred shoots,
 आत्मानं प्रत्यभिमृशति
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/sahasra-valshAH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/sahasra-valshAH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह᳓स्र-वल्शाः+++(=प्ररोहाः)+++ वि᳓ वयँ᳓ रुहेम ।
@@ -374,6 +384,7 @@ Let us rise with a thousand shoots.
 9आत्मानं प्रत्यभिमृशति - सहस्रवल्शा इति त्रिष्टुभैकपदया ॥   
 वयमपि सहस्रवल्शाः पुत्रपौत्राद्यनेकप्ररोहवन्तो विरुहेम विरूढा भूयास्म । 'लिङ्याशिष्यङ्' (पा.सू. 3.1.86) इत्यङ्प्रत्ययः । यासुडादि (पा.सू. 3.4.103) । 'छन्दस्युभयथा' (पा.सू. 3.4.117) इति सार्वधातुकत्वादिय् । यस्य लोपः (पा.सू. 6.1.66) ॥
 </details>
+
 </div>  
 
 ____
@@ -383,7 +394,8 @@ ____
 10प्रस्तरं निदधाति - पृथिव्या इति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pRthivyAH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pRthivyAH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्या᳓स् सम्पृ᳓चᳶ पाहि ।
@@ -408,6 +420,7 @@ Guard from the contact of earth.
 
 ङीष उदात्तत्वात् 'उदात्तयणो हल्पूर्वात्' (पा.सू. 6.1.174) इति विभक्तेरुदात्तत्वम् । संपृचन्तीति संपृचः । 'क्विप्च' (पा.सू. 3.2.76) इति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) । नित्यसमासत्वाद्विभक्तिस्वराभावः । पृथिवीसम्पृक्तानस्मान्पाहि । दिविष्ठस्त्वम्, उपरि निधानात् ॥
 </details>
+
 </div>
 
 ____
@@ -642,7 +655,8 @@ ____
 प्रत्यागच्छति
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव ।
@@ -650,7 +664,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उर्व् अ᳙न्तरि᳓क्षम् अन्वि᳓हि ।  
+उ॒र्व् अ᳙न्तरि॑क्ष॒म् अन्वि॑हि ।  
 +++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
 </details>
 
@@ -688,6 +702,7 @@ Fare along the wide atmosphere.
 
 इति।
 </details>
+
 </div>  
 
 ____

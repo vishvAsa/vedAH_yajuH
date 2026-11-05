@@ -315,7 +315,8 @@ ________
 इति।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/04_somakrayaNI-saMskArAdikam/02_sUryasya_chakhShur.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/04_somakrayaNI-saMskArAdikam/02_sUryasya_chakhShur.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 सू᳓र्यस्य च᳓क्षुर् आ᳓ ऽरुहम्  
@@ -323,10 +324,13 @@ ________
 +++(तस्मिन् सति सूर्यस्याग्नेश्च पन्थानमारूढो रक्षोभिर्न बाध्यते । 'एष खलु वा अरक्षोहतः पन्थाः' इत्यादि ब्राह्मणम् ।  )+++
 +++(हे सूर्य!)+++ य᳓द् ए᳓तशेभिर्+++(=भ्राजमद्भिर् [अश्वैः])+++ ई᳓यसे  
 भ्रा᳓जमानो विपश्चि᳓ता +++(ऋषिगणेन, तस्य ते मण्डलम् आरुहम्)+++।
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/04_somakrayaNI-saMskArAdikam/02_sUryasya_chakhShur.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/04_somakrayaNI-saMskArAdikam/02_sUryasya_chakhShur.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -377,6 +381,7 @@ Blazing with the wise.
 काण्डे-काण्डे तत्तद्-उपाङ्ग-युक्त एकैकस्मिन् यज्ञाङ्गे।
 </details>
 </details>
+
 </div>
 
 ________

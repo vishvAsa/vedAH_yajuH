@@ -14,7 +14,8 @@ title = "०१ ०१"
 अयं स्वगुणैः प्रकृत्येकान्तैः कदाचिद्वर्ण्यते । परगुणेन कदाचित् तदभेदात् । त्रैष्टुभस्सर्वोऽनुवाकः । विशेषो वक्ष्यते ।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/01_ambhasya_pAre.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/01_ambhasya_pAre.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अं᳓भस्य् अपारे᳓, भु᳓वनस्य म᳓द्ध्ये,  
@@ -23,9 +24,11 @@ title = "०१ ०१"
 प्रजा᳓पतिश् **चरति**  ग᳓र्भे अन्तः᳓ ॥
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/01_ambhasya_pAre.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/01_ambhasya_pAre.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -40,9 +43,11 @@ title = "०१ ०१"
 अम्भसि तोये अपारे पाररहिते अधस्ताद् भुवनस्य मध्ये प्रपञ्चस्य मध्यावकाशे नाकस्य स्वर्गस्य पृष्ठे उपरि च एवं सर्वेषु विकारेषु समनुप्रविष्टः समन्तादनुक्रमेण च प्रविश्य स्थितः कारणत्वान् मृदिव घटादिषु महतो महीयान् यन्नाम किञ्चिन्महत् ततोऽपि महीयान् महत्तरः । यद्वा - अम्भस्य् अपारे महाप्रळयावस्थायां भुवनस्य मध्ये प्रपञ्चावस्थायां नाकस्य पृष्ठे अपवर्गावस्थायां च सर्वदा सन्निहितः । किञ्च - अयं प्रजापतिः प्रजानां पाता परमात्मा विष्णुः शुक्रेण ज्योतींषि द्योतमानान्य् अग्निसोमपूषादीन् प्रजापरिणामहेतुभूतान् देवान् समनुप्रविष्टस् तैरेकीभूतः गर्भे अन्तः शरीरमध्ये चरति जीवत्वेन वर्तते कर्म वैचित्र्यद्वारेण नानाक्षेत्रज्ञात्मना चरति ॥  
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/02_yasminn_idam.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/02_yasminn_idam.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 य᳓स्मिन्न् इदँ᳓ स᳓ञ् च **वि᳓चै᳓ति** स᳓र्वय्ँ  
@@ -51,9 +56,11 @@ title = "०१ ०१"
 इद᳓न् त᳓द् अक्ष᳓रे परमे᳓ व्योमन्न् ॥
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/02_yasminn_idam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/02_yasminn_idam.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -72,9 +79,11 @@ title = "०१ ०१"
 यस्मिन् इदं सर्वं तत्र अक्षरे अविनाशे परमे व्योनि वर्तते तादात्म्येन तिष्ठति ॥  
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/03_yenAvRta~N_kha~n.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/03_yenAvRta~N_kha~n.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **ये᳓नावृत᳓ङ्** ख᳓ञ् च दि᳓वं मही᳓ञ् च  
@@ -83,9 +92,11 @@ title = "०१ ०१"
 य᳓द् अक्ष᳓रे परमे᳓ प्रजाः᳓ ॥
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/03_yenAvRta~N_kha~n.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/03_yenAvRta~N_kha~n.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -100,9 +111,11 @@ title = "०१ ०१"
 3येनेत्यादि ॥ येन कारणेन खं च द्योश्च मही च त्रैलोक्यम् आवृतं मृदा घटादिकमिव स्वात्मनाऽऽच्छादितम् । विभक्तिव्यत्ययः । येन आत्मवस्तुना कारणेन सूर्यस्तपति यदनुग्रहण येन वा इद्धस् तपति तेजसा औष्ण्येन भ्राजसा दीप्त्या च । यद्वा - येन आवृतं त्रैलोक्यं सूर्यस्तपति येन अनुगृहीतः येन तेजोनिधिनाऽनुगृहीतः सूर्यस्तपति तेजसा भ्राजसा चोपलक्षितः । समुद्रे यस्मादिन्द्रियाणि बहिः प्रसरन्ति स समुद्रः शरीरं तस्मिन् अन्तः मध्ये यं कवयो मेधाविनो वयन्ति सन्तन्वन्ति ध्यानतन्तुना बध्नन्ति तस्मिन्नक्षरे परमे व्योनि सर्वाः प्रजाः स्थिताः ॥  
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/04_yataH_prasUtA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/04_yataH_prasUtA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 य᳓तः **प्रसूता᳓** जग᳓तः प्रसूती  
@@ -111,9 +124,11 @@ title = "०१ ०१"
 **वि᳓वेश** भूता᳓नि चराचरा᳓णि ॥
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/04_yataH_prasUtA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/04_yataH_prasUtA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -128,9 +143,11 @@ title = "०१ ०१"
 4यतः यस्मात् कारणाज् जगतः प्रसूती त्रिगुणात्मिका प्रकृतिः प्रसूता उत्पन्ना । छान्दसं दीर्घत्वम् । किञ्च - यद्वस्तु तोयेन उपलक्षितत्वात् तोयादिभूतैः पञ्चभिर् जीवान् व्यससर्ज विसृजत्य् उत्पादयति । अकारोपजनश्छान्दसः । लिटि वा अडागमः । भूम्यां तत्तद्भूमिकासु । यद्वा - एकमिदं वाक्यम् । यस्मात् प्रसूता जगतः प्रसूतिस् तोयादिभिस्सह शुक्लेन वा सहकारिणा जीवानुत्पादयति । किञ्च - यद्वस्तु भूतानि विकारद्रव्याणि चराचराणि जङ्गमानि स्थावराणि च पुरुषान् पशूंश्च प्रदर्शनार्थत्वाद् एवम्प्रकारांश्चेतनान् विवेश सृष्ट्वा प्रविवेश ओषधीभिः सहितान् प्रदर्शनार्थत्वात् सर्वाण्यचेतनानि ॥  
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/05_ataH_paran.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/05_ataH_paran.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अ᳓तः परन् ना᳓न्यद्, अ᳓णीयसँ हि,  
@@ -139,9 +156,11 @@ title = "०१ ०१"
 वि᳓श्वं पुराण᳓न् त᳓मसः प᳓रस्तात् ॥ (1)
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/05_ataH_paran.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/05_ataH_paran.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -156,9 +175,11 @@ title = "०१ ०१"
 5अतः परमिति ॥ अत आत्मनः परं प्रकृष्टम् अणीयसम् अणुतरम् । छान्दसोऽकारः । अन्यद्वस्तु नास्ति पराभेदात् । यद्वा - अतो ऽन्यत् पृथग्भूतं वस्तु नास्ति । अतोऽन्यद् अणुतरं नास्ति । किञ्च - इदं कारणं परात्परं सर्वपरं महतो महान्तं सर्वमहत् । लिङ्गविभक्तिव्यत्ययः । यद्वा - महान् अन्त आभोगो यस्य तं महान्तं यदीदृशम् अतः परमणीयो नास्ति । किञ्च - यद् एकम् असहायमेव स्वकार्ये अव्यक्तम् अनिश्चितस्वभावम् अनन्तरूपम् अनन्तभेदशक्तिकं विश्वं विश्वात्मकं पुराणं कारणानामाद्यं तमसः प्रधानस्य अज्ञानस्य वा परस्ताद् अवस्थितम् ॥  
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/06_tadevartan_tadu.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/06_tadevartan_tadu.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 त᳓द् एव᳓ र्त᳓न्, त᳓दु सत्य᳓म् **आहुस्**  
@@ -167,9 +188,11 @@ title = "०१ ०१"
 विश्वं᳓ **बिभर्ति**  भु᳓वनस्य ना᳓भिः ॥
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/06_tadevartan_tadu.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/06_tadevartan_tadu.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -184,9 +207,11 @@ title = "०१ ०१"
 6तदेवेति ॥ तदेव कारणवस्त्व् ऋतं मानसं सत्यं यज्ञं वा आहुर् उ एव तदेव सत्यं वाचिकं यज्ञदेवतां वा आहुस् तदेव कवीनां मेधाविनां यज्वनां परमं पूजितं ब्रह्म तपो ऽग्निर्वा । किञ्च - तदेव वस्त्व् इष्टं च पूर्तं च यज्ञसाध्यं फलं यज्ञद्वारेण बहुधा बहुप्रकारं जातं जायमानम् उपलक्षणत्वाज्जनिष्यमाणं च विश्वं बिभर्ति भुवनस्य भूतजातस्य नाभिर् नहनस्थानम् उपादानम् ॥  
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/07_tadevAgnis_tadvAyus.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/07_tadevAgnis_tadvAyus.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 त᳓द् एवा᳓ग्नि᳓स् त᳓द् वायु᳓स्  
@@ -195,9 +220,11 @@ title = "०१ ०१"
 त᳓द् ब्र᳓ह्म त᳓द् आ᳓पस् स᳓  प्रजा᳓पतिः ॥
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/07_tadevAgnis_tadvAyus.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/07_tadevAgnis_tadvAyus.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -212,9 +239,11 @@ title = "०१ ०१"
 7तदेवाग्निरिति ॥ अतः पराश्चतस्रोऽनुष्टुभः । तत्र प्रथमायां 'तद्ब्रह्म' इति त्र्यक्षराभिक्रान्तस्तृतीयः पादः । तदेव वस्त्व् अग्निर् अग्निभूत्वा हविर्वहनादिना जगत उपकरोति । तद् एव वायुभावेन विहरणप्रेरणादिना जगद्यन्त्रं प्रवर्तयति । तद् एव सूर्यात्मकं वृष्टिप्रकाशादिकारणम् । तदेव कार्यद्वारेण सम्प्रति जगद्धारयति । तदेव चन्द्रमा भूत्वा ओषधिवनस्पत्यादिवृद्ध्या प्राणिनो जीवयति । तदेव शुक्रं रेतोभावेन परिणतं सद् अमृतम् अमृतत्वहेतुः प्रजाभावेन स जायते यथा - 'प्रजामनु प्रजायसे । तदु ते मर्त्यामृतं' इति । तद् एव ब्रह्म परिबृढमन्नं भूत्वा ताः प्रजा जीवयति । तद् एव आपो भूत्वा सस्यादिनिष्पत्तिद्वारेण प्राणिनः प्राणयति । तदेव प्रजापतिपदे स्थितं प्रजानां प्राकृतानां पाता उत्पादयिता भवति ॥  
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/08_sarve_nimeShA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/08_sarve_nimeShA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 स᳓र्वे निमेषा᳓ **जज्ञि᳓रे**  
@@ -225,9 +254,11 @@ title = "०१ ०१"
 सव्ँवत्सर᳓श् च **कल्पताम्** ।  
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/08_sarve_nimeShA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/08_sarve_nimeShA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -242,18 +273,22 @@ title = "०१ ०१"
 8सर्व इति ॥ अस्मात्कारणाद् विद्युतः विद्योतमानाद् देदीप्यमानात् पुरुषात् पूरणशीलात् सर्वे निमेषादयः कालावयवा अधिजज्ञिरे अधि जायन्ते । अष्टादशनिमेषाः काष्ठाः, तास्त्रिंशत् कलाः, तास्त्रिंशन् मुहूर्ताः, ते त्रिंशद् अहोरात्राः, ते पञ्चदश अर्धमासाः, तौ द्वौ मासः, तौ द्वावृतुः, ते षट् संवत्सरः परस्मादात्मनो जातः कल्पतां स्वकार्ये समर्थो भवत्विति वेदात्मा आशास्ते । लकारव्यत्ययः । संवत्सरश्च परस्मादात्मनो जातः कल्पत इति ॥  
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/09_arddhamAsA_mAsA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/09_arddhamAsA_mAsA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 स᳓ आ᳓पः **प्रदुघे᳓** उभे᳓ +++(द्यावापृथिव्यौ)+++  
 इमे᳓, अन्त᳓रिक्षम् अ᳓थो सु᳓वः ॥
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/09_arddhamAsA_mAsA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/09_arddhamAsA_mAsA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -266,9 +301,11 @@ title = "०१ ०१"
 9किञ्च - **स** एव परमात्मा **आप** आपो **भूत्वा** प्राणिनो जीवयति । किञ्च - **उभे इमे** इयं च असौ च द्यावापृथिव्यौ 'त्यदादीनां यद्यत्परं' इतीदमश्शेषः । कीदृश्यौ **प्रदुधे** प्रकर्षण दोग्ध्र्यौ कामानां द्यावापृथिवीभावेन कामान् दुग्ध इत्यर्थः । स एव अन्तरिक्षभावेन अवकाशप्रदानादि कुर्वन् विश्वं बिभर्ति । किञ्च - स एव **सुवः** परमसुखस्थानादित्य-मण्डलभावेन विश्वं पुनाति । यद्वा - परमसुखभावेन प्राणिनः प्रीणयति ॥  
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/10_nainamUrdhvan_na.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/10_nainamUrdhvan_na.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 नै᳓नम् ऊर्ध्व᳓न् न᳓ तिर्य᳓ञ्चन्  
@@ -277,9 +314,11 @@ title = "०१ ०१"
 त᳓स्य नाम मह᳓द् य᳓शः ॥ (2)
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/10_nainamUrdhvan_na.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/10_nainamUrdhvan_na.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -294,9 +333,11 @@ title = "०१ ०१"
 10नैनमिति ॥ एनं परमात्मानम् उर्ध्वम् उर्ध्वाधोभावेन परिच्छिन्नं न खलु कश्चित् परिजग्रभत् परिगृह्णाति परिच्छिन्नं नोपादत्ते । तिर्यञ्चं तिर्यग्विस्तारप्रमाणपरिच्छिन्नम् एनं न कश्चित् परिगृह्णाति । न मध्ये विष्कम्भगत्या परिच्छिन्नमध्यावकाशम् एनं न कश्चित् परिगृह्णाति । यद्वा - अयमस्य मध्यमः प्रदेश इति न कश्चित्तं परिगृह्णाति । लेटि शपः श्लुः । ‘लेटाऽडाटौ' इत्यडागमः । 'हग्रहोर्भः' इति भत्वम् । बुद्ध्या परिग्रहणं ज्ञानमेव । तस्य परमात्मनो ऽन्यः कश्चन कश्चिदपि नेशे नेष्टे पराभेदात् स एव सर्वस्येष्टे । हेतुमाह - तस्य कारणस्य यन् नाम नमनं कार्यप्रपञ्चं प्रति प्रह्वीभवनं, यथा - 'सं बाहुभ्यां नमति सम्पतत्रैः' इति । तत्खलु महद्यशः महायशोहेतुस् तद्धेतुत्वात्ताच्छब्द्यम् । तत्खल्वन्येन कर्तुमशक्यम् । महाश्चर्यभूतस्य महते यशसे भवति । तस्मान् नान्यः कश्चिदस्येष्टे ॥  
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/11_na_sandRshe.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/11_na_sandRshe.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **न᳓** सन्दृ᳓शे **तिष्ठति** रू᳓पम् अस्य  
@@ -305,9 +346,11 @@ title = "०१ ०१"
 य᳓ एनव्ँ **विदु᳓र्** अ᳓मृतास् ते᳓ **भवन्ति** ॥
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/11_na_sandRshe.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/11_na_sandRshe.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -323,4 +366,5 @@ title = "०१ ०१"
 एनम् एवंस्वभावम् आत्मानं ये विदुर् जानन्ति ते अमृता अमरणधर्माणो भवन्ति परं प्राप्नुवन्ति 'ब्रह्मविदाप्नोति परं' इति दर्शनात् ॥
 </details>
 </details>
+
 </div>

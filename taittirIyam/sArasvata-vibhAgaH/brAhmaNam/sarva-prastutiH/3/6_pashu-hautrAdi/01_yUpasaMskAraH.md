@@ -31,7 +31,8 @@ unicode_script: devanagari
 2यूपायोच्छ्रीयमाणायानुब्रूहीत्युक्तोन्वाह - उच्छ्रयस्वेति ॥
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/008/03_uchChrayasva_vanaspate.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/008/03_uchChrayasva_vanaspate.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 उ᳓च् छ्रयस्व वनस्पते  
@@ -39,17 +40,21 @@ unicode_script: devanagari
 सु᳓मिती मीय᳓मानो  
 व᳓र्चो धा यज्ञ᳓वाहसे
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/008/03_uchChrayasva_vanaspate.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/008/03_uchChrayasva_vanaspate.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 उच्छ्र॑यस्व वनस्पते॒ वर्ष्म॑न्पृथि॒व्या अधि॑ ।  
 सुमि॑ती मी॒यमा॑नो॒ वर्चो॑ धा य॒ज्ञवा॑हसे ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/008/03_uchChrayasva_vanaspate.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/008/03_uchChrayasva_vanaspate.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यूपः
@@ -316,6 +321,7 @@ Erhebe du, o Waldesherr auf dieser Erde Fläche dicli, mit rechtem Mass gemessen
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसे वड इत्यादी वनस्पती मूळ, खोड, फांद्या इत्यादीने वाढतात, तसेच पुरुषार्थाने विद्येचा प्रचार करून माणसांना वाढविले पाहिजे. ॥ ३ ॥
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

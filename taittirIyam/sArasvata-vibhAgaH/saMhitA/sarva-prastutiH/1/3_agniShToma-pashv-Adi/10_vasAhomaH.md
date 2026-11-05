@@ -66,16 +66,20 @@ _______
 ऐ॒न्द्रᳶप्रा॒णो अङ्गे॑अङ्गे॒ नि दे॑ध्यदै॒न्द्रो॑ऽपा॒नो अङ्गे॑अङ्गे॒ वि बो॑भुव॒द्देव॑ त्वष्ट॒र्भूरि॑ ते॒ सँस॑मेतु॒ विषु॑रूपा॒ यत् सल॑क्ष्माणो॒ भव॑थ देव॒त्रा यन्त॒मव॑से॒ सखा॒योऽनु॑ त्वा मा॒ता पि॒तरो॑ मदन्तु॒ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ऐन्द्रᳶ᳓ प्राणो᳓ अ᳓ङ्गेअङ्गे नि᳓ देध्यत्+++(←धीङ् आधारे)+++ ।  
 ए्᳓ऐन्द्रो᳙ऽपानो᳓ अ᳓ङ्गेअङ्गे वि᳓ बोभुवत् ।  
 दे᳓व त्वष्टर् +++(पशोर्)+++ भू᳓रि ते सँ᳓समेतु ।
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -115,20 +119,25 @@ O god Tvastr, let mind be united for thee,
 एतद् उक्तं भवति, यद् विकर्तने पश्वङ्गं विच्छिन्नम् अवशिष्टं तत्सर्वं त्वया आर्द्रतया एकीकार्यम् इति । एवं हि कृत्स्नेन पशुना यागः कृतो भवति । 'प्रसमुपोदः पादपूरणे' इति समो द्विर्वचनम् । 'अनुदात्तं च' इति द्वितीयस्यानुदात्तत्वम् ।
 </details>
 </details>
+
 </div>
 
 ________
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 +++(शरीर-खण्डानि!)+++ वि᳓षुरूपा य᳓त् **स᳓लक्ष्माणो**+++(=सलक्षणा [हवीरूपेण])+++ **भ᳓वथ**,  
 देवत्रा᳓+++(=देवस्थानं)+++ य᳓न्तम्, अ᳓वसे, +++(तस्य पशोः)+++ स᳓खायः᳓   
 अ᳓नु त्वा माता᳓-पित᳓रो **मदन्तु** ।
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -139,9 +148,9 @@ And thy father and mother rejoice.
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-+++(शरीर-खण्डानि!)+++ वि᳓षुरूपा य᳓त् **स᳓लक्ष्माणो**+++(=सलक्षणा [हवीरूपेण])+++ **भ᳓वथ**,  
-देवत्रा᳓+++(=देवस्थानं)+++ य᳓न्तम्, अ᳓वसे, +++(तस्य पशोः)+++ स᳓खायः᳓   
-अ᳓नु त्वा माता᳓-पित᳓रो **मदन्तु** ।
++++(शरीर-खण्डानि!)+++ विषु॑रूपा॒ यत् **सल॑क्ष्माणो॒**+++(=सलक्षणा [हवीरूपेण])+++ **भव॑थ**,  
+दे॒व॒त्रा+++(=देवस्थानं)+++ यन्त॒म्, अव॑से॒, +++(तस्य पशोः)+++ सखा॑यः   
+अनु॑ त्वा मा॒ता-पि॒तरो॑ **मदन्तु** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -176,6 +185,7 @@ And thy father and mother rejoice.
 तदेवाह - **अवसे** रक्षणाय तव चात्मनश् च । तृप्त्यर्थं वा, अवतिर्हि तृप्तौ च पठ्यते । तस्मादसुन् । 'अनुमतमेवैनं मात्रा पित्रा सुवर्गं लोकं गमयति' ` इति च ब्राह्मणम् । मदि हर्षे दैवादिकः विकरणव्यत्ययेन शप् ॥
 </details>
 </details>
+
 </div>
 
 _______

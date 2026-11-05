@@ -10,7 +10,8 @@ _______
 1त्रयो मरुत्वतीया माध्यंदिने सवने गृह्यन्ते ॥ 'इन्द्रो मरुद्भिस्सांविद्येन' इत्यादि ब्राह्मणम्  । ते चर्तुपात्रेण गृह्यन्ते । 'तस्य वृत्रं जघ्नुष ऋतवोमुह्यन्' इत्यादि ब्राह्मणम्  । 'वज्रं वा एतं यजमानो भ्रातृव्याय प्रहरति यन्मरुत्वतीयाः' इत्यादि च । तत्र प्रथमं गृह्णाति - मरुत्वन्तमिति त्रिष्टुभा चतुष्पदया ॥
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/047/05_marutvantaM_vRShabhaM.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/047/05_marutvantaM_vRShabhaM.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 मरु᳓त्वन्तं वृषभं᳓ वावृधान᳓म्  
@@ -19,17 +20,21 @@ _______
 +उग्रं᳓ सहो-दा᳓म् इह᳓ तं᳓ हुवेम ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/047/05_marutvantaM_vRShabhaM.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/047/05_marutvantaM_vRShabhaM.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 म॒रुत्व॑न्तं वृष॒भं वा॑वृधा॒नमक॑वारिं दि॒व्यं शा॒समिन्द्र॑म् ।  
 वि॒श्वा॒साह॒मव॑से॒ नूत॑नायो॒ग्रं स॑हो॒दामि॒ह तं हु॑वेम ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/047/05_marutvantaM_vRShabhaM.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/047/05_marutvantaM_vRShabhaM.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -358,11 +363,13 @@ Den Marutherrscher Indra, den erstarkten, der nimmer geizt, den himmlischen Gebi
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. माणसांनी त्यालाच राजा करावे ज्याच्यामध्ये संपूर्ण राजधर्म पाळण्याची क्षमता असते. ॥ ५ ॥
 </details>
+
 </div>  
 
 _______
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/17_pUrvo_marutvatIyagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/17_pUrvo_marutvatIyagrahaH/upayAmagRhItaH.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य उपयामगृहीतोसीन्द्राय त्वा मरुत्वत इति गृह्णाति ॥
@@ -431,6 +438,7 @@ This is thy birthplace; to Indra with the Maruts thee!
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा म॒रुत्व॑ते ॥ [18]
 </details>
+
 </div>  
 
 इति चतुर्थे सप्तदशोनुवाकः ॥  

@@ -10,24 +10,31 @@ _______
 1तस्मिन्नेव तृतीयसवने गृह्णाति - असावित्यनुष्टुभा ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/01_asAvi_soma.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/01_asAvi_soma.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 **अ᳓सावि सो᳓म** इन्द्र ते,  
 श᳓विष्ठ धृष्णव्! **आ᳓ गहि+++(=गच्छ)+++** ।  
 आ᳓ त्वा **पृणक्त्व्**+++(=पूरयतु)+++ इन्द्रियं᳓+++(=वीर्यं)+++  
 र᳓जः सू᳓र्यो न᳓ रश्मि᳓भिः ॥
 
+</details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/01_asAvi_soma.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/01_asAvi_soma.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 असा॑वि॒ सोम॑ इन्द्र ते॒ शवि॑ष्ठ धृष्ण॒वा ग॑हि ।  
 आ त्वा॑ पृणक्त्विन्द्रि॒यं रजः॒ सूर्यो॒ न र॒श्मिभिः॑ ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/01_asAvi_soma.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/01_asAvi_soma.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -342,11 +349,13 @@ Gepresst ist Soma, Indra, dir, o stärkster, kühner, komme her; Die Indrakraft 
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे, प्रजा, सेना, शाळा व सभा यांच्यात स्थित पुरुषांनी सूर्याप्रमाणे तेजस्वी पुरुषाला प्रजा, सेना शाळेत अध्यक्ष करून सर्व प्रकारे त्याचा सत्कार केला पाहिजे तसे सभ्य लोकांचाही आदर केला पाहिजे. ॥ १ ॥
 </details>
+
 </div>  
 
 _______
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिन॑ ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥
@@ -429,6 +438,7 @@ This is thy birthplace; to Indra of the Sodaśin thee!
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++
 </details>
+
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>

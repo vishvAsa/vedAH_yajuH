@@ -6,17 +6,21 @@ title = "०१ गार्हपत्यम्"
 1अथ पुनराधेयमन्त्राः । तत्र गार्हपत्य आधीयमाने सर्पराज्ञीस्तिस्रोनुवर्तयति - भूमिर्भूम्नेति ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/02_bhUmir_bhUmnA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/02_bhUmir_bhUmnA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 भू᳓मिर् भूम्ना᳓+++(=बहुत्वेन)+++, द्यौ᳓र् वरिणा᳓+++(=उरुत्वेन)+++,  
 ऽन्त᳓रिक्षम् महित्वा᳓ +++(असि)+++।  
 +++(पुरा वृषभराशौ खे यथा)+++ **उप᳓स्थे** ते देव्य् **अदिते**  
 +++(सूर्यः खे यथा)+++ **ऽग्नि᳓म्** अन्नाद᳓म् अन्ना᳓द्याया᳓+++(=अन्नाद-हिताय)+++ **ऽऽदधे**  ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/02_bhUmir_bhUmnA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/02_bhUmir_bhUmnA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -41,6 +45,7 @@ I place, food-eater for the eating of food.
 प्रथमोपरिष्टाद्भृहती, अन्त्यस्य पादस्य द्वादशाक्षरत्वात् । हे देवि **अदिते** अखाण्डिते भूमे । आहवनीयो भूमित्वेन स्तूयते । **भूम्ना** बहुत्वेन विपुलत्वेन त्वं भूमिरेवासि । **द्यौर्** असि त्वं **वरिणा** उरुत्वेन । ताद्धर्म्यात्ताच्छब्द्यम् । अ[म?]कारलोपश्छान्दसः । अन्तरिक्षमसि माहित्वा माहात्म्येन । व्यञ्जनविपर्ययः । सर्वत्रोदात्तनिवृत्तिस्वरेण तृतीयाया उदात्तत्वम् । महित्वशब्दात्तृतीयाया आकारो वा । अत्र **तवोपस्थे** उत्सङ्गे गार्हपत्यात्मनि अग्निमन्नादमन्नस्य हविषोत्तारं **अन्नाद्याय** अन्नादनसामर्थ्यात्मिकायै ऋद्ध्यै **आदधे** स्थापयामि । पचाद्यचि **अन्नादः** । इतरत्र छान्दसो भावे यत् । 'लघावन्ते' इति मध्योदात्त उपस्थशब्दः । मरुद्वृधादित्वाद्वा ॥
 </details>
 </details>
+
 </div>
 
 _______
@@ -49,16 +54,20 @@ _______
 2द्वितीया - आयमिति गायत्री ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/03_A.ayam.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/03_A.ayam.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 आ᳓ ऽयं᳓ गौः᳓+++(→गमनशीलो अग्निस् सूर्यो वा, पुरा वृषभराशिस्थः)+++ पृ᳓श्निर् **अक्रमीद्**  
 **अ᳓सदन्** +++(→असदत् इति शाकले)+++ मात᳓रं +++(भूमिं, खे रोहिणीं च)+++ पुरः᳓ ।  
 पित᳓रं +++(द्यौः)+++ च, **प्र-य᳓न्त्** सु᳓वः+++(→स्वः᳓ इति शाकले)+++ ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/03_A.ayam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/03_A.ayam.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -88,6 +97,7 @@ And the father, faring to the heaven.
 आक्रम्य च मातरं भूमिम् **असनत्** भूमौ मातरि शान्तोभूत् । **पितरं** दिवं **प्रयन्** प्रकर्षेण गच्छन् सर्वतो ज्वलन् धूमज्वालाभ्यामभ्रं लिहन् **सुवः** पितृस्थानीये दिवि स्वरतिरभूत् ॥
 </details>
 </details>
+
 </div>
 
 _______
@@ -96,17 +106,21 @@ _______
 3तृतीया - त्रिंशदिति गायत्री ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/04_triMshad_dhAma.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/04_triMshad_dhAma.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 +++(दिने मुहूर्ता, मासे दिनानि वा)+++  
 त्रिँश᳓द् **धा᳓म वि᳓ राजति** +++(आदित्यात्मा ऽग्निः)+++,  
 +++(रोहिणी स्तुतिर् वा)+++ **वा᳓क्** +++(सूर्य-)+++पतङ्-गा᳓य **शिश्रिये**+++(→धीयते इति शाकले)+++ ।  
 प्र᳓त्य्+++(कूलम्)+++ अस्य **वह** द्यु᳓भिः᳓  ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/04_triMshad_dhAma.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/04_triMshad_dhAma.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -135,4 +149,5 @@ Bear it with the days.
 तस्मात्तादृशः महानुभावः आदित्यात्मा त्वं **प्रत्यस्य** प्रति-कूलं यत्प्रकृतं तवोद्वासनं तद् **अस्य** विसृज बुद्धौ मा कृथाः । 'ससाधनां क्रियामुपसर्ग आह' इति प्रतिशब्देन प्रतिकूलमुच्यते । ततः प्रसन्नो भूत्वा **वह** हवींष्यस्माकं **द्युभिः** दिनेदिने । अधिकरणानां साधकतमत्वविवक्षया तृतीया; यथा 'स्थाल्या पचति' इति । 'ऊडिदम्' इति प्राप्तस्य विभक्त्युदात्तत्वस्य 'दिवो झल्' इति प्रतिषेधः । अस्मिन्व्याख्याने तिङः परत्वाद्वहेत्यस्य निघातो दुर्लभस्स्यात् । अथ ब्रूमः - एवं महातेजाः पतङ्गः अस्य प्रतिवह प्रतिरूपतया वर्तस्व द्युभिः तेजोभिः । अन्वादेशत्वादस्येति सर्वानुदात्तः ॥
 </details>
 </details>
+
 </div>

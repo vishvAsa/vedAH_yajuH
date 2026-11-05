@@ -12,17 +12,21 @@ _______
 1ध्रुवाम् आप्यायमानाम् अनुमन्त्रयते - आ प्यायतामिति । 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/05_1_dhruvApyAyanAdi/02_A_pyAyatAn.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/05_1_dhruvApyAyanAdi/02_A_pyAyatAn.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **आ᳓ प्यायतान्** ध्रुवा᳓ घृते᳓न  
 यज्ञय्ँ᳓ यज्ञम् प्र᳓ति देवय᳓द्भ्यः +++(←कामे क्यच्, ईत्वाभावः)+++ ।   
 +++(ध्रुवा)+++ सूर्या᳓या ऊ᳓धो᳓, ऽदित्या उप᳓स्थ,  
 उरु᳓-धारा पृथिवी᳓ यज्ञे᳓ अस्मि᳓न्न्  ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/05_1_dhruvApyAyanAdi/02_A_pyAyatAn.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/05_1_dhruvApyAyanAdi/02_A_pyAyatAn.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -59,6 +63,7 @@ Broad streamed be the earth at this sacrifice.
 यज्ञंयज्ञं प्रति तां तामाहुतिं प्रति देवयद्भ्यो देवान्होतुमिच्छद्भ्य ऋत्विग्भ्यः। पर्याप्तेन घृतेनेयं ध्रुवाऽऽप्यायतां पुनः पुनः पूर्यताम्। ऊधःशब्देन पयःपूर्णस्तनसंघोऽभिधीयते। सूर्याशब्देनोषा आदित्यपत्नी विवक्ष्यते। तत्पत्नीत्वं च नक्षत्रेष्टावाम्नायते – ‘उषा वा अकामयत। प्रियाऽऽदित्यस्य सुभगा स्यामिति’ (ब्रा॰ का॰ ३ प्र॰ १ अ॰ ६) इति। इवशब्दोऽत्राध्याहर्तव्यः। यथा सूर्याया गोरूपधारिण्या ऊधः पयःपूर्णं तथा ध्रुवा घृतेनाऽऽप्यायताम्। किंच, अदित्या वेदिरूपायाः पृथिव्या उपस्थ उत्सङ्गे वर्तमाना सेयं ध्रुवोरूधारा महाधारा पुनः पुनः सिच्यमानाभिराज्यधारामिरुपेताऽत एव पृथिवी विस्तीर्णा सत्यस्मिन्सर्वस्मिन्यज्ञे सम्यगाप्यायताम्। 
 </details>
 </details>
+
 </div>
 
 _______

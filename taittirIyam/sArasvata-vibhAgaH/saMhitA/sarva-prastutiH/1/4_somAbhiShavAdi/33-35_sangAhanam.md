@@ -10,7 +10,8 @@ title = "३३-३ सङ्गाहनम्"
 अत्र  33-तः 37 पर्यन्तं संहिताभाष्यं नास्ति । अत्र भास्कराचार्यैर्न व्याख्यातः  । किन्तु आरण्यकभाष्ये ।
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 **आ᳓ प्यायस्व** मदिन्-तम  
@@ -18,9 +19,11 @@ title = "३३-३ सङ्गाहनम्"
 भ᳓वा नस् सप्र᳓थस्तमः ॥ 
 
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
+
 <details><summary>Keith</summary>
 
 Swell, O sweetest Soma,  
@@ -39,13 +42,15 @@ Be fullest of help for us.
 **सोम! मदिन्तम!** मादयितृतम! ।  
 यद्वा - माद्यतम आत्मानन्दमय । 'शमित्यष्टाभ्यो घिनुण्' 'नाद्घस्य' इति नुट् । **आप्यायस्व** वर्धस्व **विश्वाभिर् ऊतिभिः** रक्षणैस् तर्पणैर्वा अस्माकं **सप्रथस्तमो** भव अतिशयेन प्रथा-समन्वितः सप्रथस्तमः । त्वमस्मद्विषयाभिस्सर्वाभिरूतिभिः भृशं प्रथितो भव अस्माभिस्सह वर्धस्व ॥
 </details>
+
 </div>  
 
 ## अवगाहनम्
 
 गायत्री। सोमऋषिः
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 +++(पूर्वजाः)+++ **ईयु᳓ष् टे᳓ ये᳓** पू᳓र्वतराम् **अ᳓पश्यन्**  
@@ -54,17 +59,21 @@ Be fullest of help for us.
 आ᳓+उ᳓ ते᳓ +++(प्रजाः)+++ **यन्ति ये᳓ अपरी᳓षु+++(=अनागतासु)+++ प᳓श्यान्** ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/113/11_IyuShTe_ye.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/113/11_IyuShTe_ye.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 ई॒युष्टे ये पूर्व॑तरा॒मप॑श्यन्व्यु॒च्छन्ती॑मु॒षसं॒ मर्त्या॑सः ।  
 अ॒स्माभि॑रू॒ नु प्र॑ति॒चक्ष्या॑भू॒दो ते य॑न्ति॒ ये अ॑प॒रीषु॒ पश्या॑न् ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/113/11_IyuShTe_ye.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/113/11_IyuShTe_ye.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -428,13 +437,15 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 
 भावार्थभाषाः -  जी माणसे उषेचे आगमन होण्यापूर्वी जागे होऊन आवश्यक कार्य करतात व नंतर परमेश्वराचे ध्यान करतात ती बुद्धिमान व धार्मिक असतात. जे स्त्री-पुरुष परमेश्वराचे ध्यान करून प्रेमाने आपापसात बोलतात. त्यांना अनेक प्रकारचे सुख प्राप्त होते. ॥ ११ ॥
 </details>
+
 </div>  
 
 ## ओषणम्
 
 सोमऋषिः
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/jyotiShmantaM.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/jyotiShmantaM.md">
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ज्योति॑ष्मतीन्त्वा सादयामि ज्योति॒ष्कृत॑न्त्वा सादयामि ज्योति॒र्विद॑न्त्वा सादयामि॒ भास्व॑तीन्त्वा सादयामि॒ ज्वल॑न्तीन्त्वा सादयामि मल्मला॒भव॑न्तीन्त्वा सादयामि॒ दीप्य॑मानान्त्वा सादयामि॒ रोच॑मानान्त्वा सादया॒म्यज॑स्रान्त्वा सादयामि बृ॒हज्ज्यो॑तिषन्त्वा सादयामि बो॒धय॑न्तीन्त्वा सादयामि॒ जाग्र॑तीन्त्वा सादयामि ॥ [35]
@@ -679,4 +690,5 @@ I place thee that art awake.
 
 जाग्रती स्वयंप्रकाशात्मना ॥
 </details>
+
 </div>

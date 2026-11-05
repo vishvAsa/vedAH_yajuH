@@ -19,14 +19,17 @@ _______
 ह॒विष्म॑तीरि॒मा आपो॑ ह॒विष्मा॑न्दे॒वो अ॑ध्व॒रो ह॒विष्माँ॒ आ वि॑वासति ह॒विष्माँ॑ अस्तु॒ सूर्यः॑ ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 हवि᳓ष्मतीर् इमा᳓ +++(वसतीवरीसंज्ञा)+++ आ᳓पो  
 हवि᳓ष्मान् देवो᳓ अध्वरः᳓ ।   
 हवि᳓ष्माँ आ᳓ **विवासति** +++(←वा गतिगन्धनयोः)+++   
 **हवि᳓ष्माँ अस्तु** सू᳓र्यः ॥
+
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -34,7 +37,8 @@ _______
 1वसतीवरीर्गृह्णाति - हविष्मतीरिति चतुष्पदया ॥ 'अनुष्टुभा गृह्णाति' इत्यादि ब्राह्मणम् ।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -65,6 +69,7 @@ Rich in oblation be the sun.
 तदर्थम् एताभिर्गृह्यमाणाभिः हविष्मान्भगवान् सूर्योस्तु । एतासां हविष्ट्वसम्पादनाय यावद्ग्रहणमस्तं नेयादित्यर्थः । 'यस्यागृहीता अभि निम्रोचेत्' इत्यादि ब्राह्मणम् । पूर्ववत्संहितायां रुत्वम् । 'देवा वै यज्ञमाग्नीध्रे व्यभजन्त ततो यदत्यशिष्यत' इत्यादि ब्राह्मणं समस्तोनुवाकः ॥
 </details>
 </details>
+
 </div>
 
 _______

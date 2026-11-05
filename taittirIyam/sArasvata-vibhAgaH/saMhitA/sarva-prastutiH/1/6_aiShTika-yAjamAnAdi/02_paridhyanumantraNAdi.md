@@ -229,17 +229,21 @@ _______
 6हवींष्यासन्नान्य् अभिमन्त्रयते - यन्मे अग्न इति त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/02_yan_me.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/02_yan_me.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 य᳓न् मे अग्ने अस्य᳓ यज्ञ᳓स्य **रि᳓ष्यात्** [4]  
-यद् वा **स्क᳓न्दाद्** आ᳓ज्यस्योत᳓ विष्णो ।   
+य᳓द् वा **स्क᳓न्दाद्** आ᳓ज्यस्योत᳓ विष्णो ।   
 ते᳓न **हन्मि** सप᳓त्नन् दुर्मरायु᳓म्  
 ऐ᳓नन् **दधामि** नि᳓रृत्या उप᳓स्थे ।
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/02_yan_me.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/02_yan_me.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -274,6 +278,7 @@ I place him on the lap of destruction.
 हेऽग्नेऽस्य मम यज्ञस्य संबन्धि यद्बर्हिरादिकं रिष्यान्नश्येद्रक्षःप्रभृतिभिर्वि-नाशितं, आज्यस्योताऽऽज्यस्यापि संबन्धि यद्वा यदल्पं बिन्दुजातं जौहवादिकं स्कन्दादधः पतेत्, हे विष्णो व्यापक तेन नष्टेन स्कन्नेन च वैरिणं हन्मि। यः सपत्नो मारयितुमशक्य एनं दुर्भरायुं सपत्नं नित्याः पापदेवताया उपस्थ उत्सङ्ग आदधामि स्थापयामि।  
 </details>
 </details>
+
 </div>
 
 _______
@@ -321,16 +326,20 @@ _______
 10इध्मम् अभ्याधीयमानम् अनुमन्त्रयते - उच्छुष्म इति पिपीलिकामध्यया त्रिपदया यजुरन्तयानुष्टुभा । 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 उ᳓च्छुष्मो अग्ने **य᳓जमानायैधि**  
 नि᳓+++(=न्यक्)+++-शुष्मो अभिदा᳓सते ।  
 अ᳓ग्ने **दे᳓वेद्ध म᳓न्व्-इद्ध** म᳓न्द्र-जिह्व॥+++(5)+++
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -366,6 +375,7 @@ O Agni, kindled by the gods, kindled by Manu, with sweet tongue,
 एतच्च पदद्वयं निविद्ब्राह्मणेन व्याख्यातम् - “देवेद्ध इत्याह देवा ह्येतमैन्धत मन्विद्ध इत्याह मनुर्ह्ये-तमुत्तरो देवेभ्य ऐन्ध” इति। मन्द्रजिह्व मन्द्रा हर्षहेतुर्जिह्वा यस्येति विग्रहः। 
 </details>
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

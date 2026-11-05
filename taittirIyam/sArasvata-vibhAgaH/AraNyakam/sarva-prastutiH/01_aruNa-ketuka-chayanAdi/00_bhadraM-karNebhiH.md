@@ -16,8 +16,9 @@ title = "०० भद्रं-कर्णेभिः"
 भद्रं कर्णेभिरिति द्वाभ्यां शान्तिं कृत्वा ताभ्यामुपदधाति" इति । (हस्तग्राभं) हस्तग्राहं हस्तेन गृहीत्वा जलमित्यर्थः । तत्र शान्त्यर्थां प्रथमामृचमाह -  हे देवा इन्द्रादयो भद्रं कल्याणं श्रुतिस्मृतिवाक्यरूपं कर्णेभिराचार्यान्तेवासिरूपाणामृत्विग्यजमानरूपाणां वाऽस्माकं बहूनां कर्णैः युष्मत्प्रसादात्सर्वदा श्रोतुं समर्थाः स्याम । श्रुत्वा च यजत्रा यागक्षमा वयं भद्रं कल्याणं यज्ञादिकं कर्माक्षभिश्चक्षुरिन्द्रियैः साक्षात्पश्येम । स्थिरैरविकलैरङ्गैश्चक्षुरादिभिर्हस्तादिभिश्चावयवैस्तनूभिस्तथाविधशरीरैर्युक्ता वयं तुष्टुवांसो युष्मदीयां स्तुतिं कुर्वाणा यद्यस्मात्कारणाद्देवहितं देवेन प्रजापतिना समर्पितं सर्वमप्यायुर्व्यशेम विशेषेण प्राप्नवाम । तस्मादपमृत्योरभावाच्चिरं भद्रं शृणुयामेति पूर्वत्रान्वयः । 
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH.md">
-<details open><summary><h2>०८ भद्रं कर्णेभिः …{Loading}…</h2></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 भद्रं᳓ क᳓र्णेभिः **शृणुयाम** देवा  
 भद्रं᳓ **पश्येमाक्ष᳓भिर्** यजत्राः+++(=यष्टव्याः)+++ ।  
@@ -25,17 +26,21 @@ title = "०० भद्रं-कर्णेभिः"
 **व्य᳓शेम**+++(=प्राप्नुयाम)+++ देव᳓-हितं य᳓द् आ᳓युः॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/089/08_bhadraM_karNebhiH.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/089/08_bhadraM_karNebhiH.md">
+
 <details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 भ॒द्रं कर्णे॑भिः शृणुयाम +++(शृणु॒याम॑ - तैत्तिरीये)+++ देवा भ॒द्रं प॑श्येमा॒क्षभि॑र्यजत्राः ।  
 स्थि॒रैरङ्गै॑स्तुष्टु॒वांस॑स्त॒नूभि॒र्व्य॑शेम दे॒वहि॑तं॒ यदायुः॑ ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/089/08_bhadraM_karNebhiH.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/089/08_bhadraM_karNebhiH.md">
+
 <details open><summary><h2>008 …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -351,10 +356,12 @@ Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre G�
 भावार्थभाषाः -  विद्वान, आप्त व सज्जनांच्या संगतिशिवाय कुणीही सत्यविद्येची वाणी, सत्यदर्शन व व्यवहार प्राप्त करू शकत नाही व त्यांच्याशिवाय कुणाचे शरीर व आत्मा दृढ होऊ शकत नाही, त्यासाठी सर्व माणसांनी वरील व्यवहाराप्रमाणे वागणे योग्य आहे. ॥ ८ ॥
 </details>
 </details>
+
 </div>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/06_svasti_na.md">
-<details open><summary><h2>०६ स्वस्ति न …{Loading}…</h2></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/06_svasti_na.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 स्वस्ति᳓ न इ᳓न्द्रो वृद्ध᳓-श्रवाः  
 स्वस्ति᳓ नः पूषा᳓ विश्व᳓-वेदाः+++(=ज्ञानानि)+++ ।  
@@ -362,14 +369,17 @@ Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre G�
 स्वस्ति᳓ नो बृ᳓हस्प᳓तिर् दधातु ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/089/06_svasti_na.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/089/06_svasti_na.md">
+
 <details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 स्व॒स्ति न॒ इन्द्रो॑ वृ॒द्धश्र॑वाः स्व॒स्ति नः॑ पू॒षा वि॒श्ववे॑दाः ।  
 स्व॒स्ति न॒स्तार्क्ष्यो॒ अरि॑ष्टनेमिः स्व॒स्ति नो॒ बृह॒स्पति॑र्दधातु ॥
 </details>
+
 </div>
 
 <details><summary>सायण-टीका</summary>
@@ -377,7 +387,8 @@ Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre G�
 अथ द्वितीयमाह-  वृद्धैर्महात्मभिः सदा पुराणादिषु श्रूयत इति वृद्धश्रवाः । तादृश इन्द्रो नोऽस्माकं स्वस्ति दधात्वध्ययनश्रवणानुष्ठानार्थं क्षेमं सम्पादयतु । विश्वं वेत्ति जानातीति विश्ववेदाः । तादृशः पूषाऽपि नः स्नस्ति दधातु । अरिष्टमहिंसा तस्य नेमिस्थानीयः । यथा लोहमयी नेमिः काष्ठमयस्य चक्रस्य भङ्गाभावाय पालयत्येवमयंतार्क्ष्यो गरुडोऽपि सर्पादिकृतां हिंसां निवार्य तत्पालकत्वादरिष्टनेमिः । तादृशस्तार्क्ष्यो नः स्वस्ति दधातु । 
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/089/06_svasti_na.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/089/06_svasti_na.md">
+
 <details open><summary><h2>006 …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -700,4 +711,5 @@ Heil schenke uns Indra, der hochberühmte, Heil uns Puschan der alles besitzende
 भावार्थभाषाः -  ईश्वराची प्रार्थना व आपल्या पुरुषार्थाशिवाय कुणालाही शरीर, इंद्रिये व आत्मा यांचे परिपूर्ण सुख मिळत नाही, त्यामुळे त्याचे अनुष्ठान अवश्य करावे. ॥ ६ ॥
 </details>
 </details>
+
 </div>

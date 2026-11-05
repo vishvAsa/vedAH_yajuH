@@ -465,7 +465,8 @@ unicode_script: devanagari
 21हविषो याज्यामाह -
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/185/07_urvI_pRthvI.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/185/07_urvI_pRthvI.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 उर्वी᳓ पृथ्वी᳓ बहुले᳓ दूरे᳓अन्ते  
@@ -473,17 +474,21 @@ unicode_script: devanagari
 दधा᳓ते ये᳓ सुभ᳓गे सुप्र᳓तूर्ती  
 द्या᳓वा र᳓क्षतम् पृथिवी नो अ᳓भ्वात्
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/185/07_urvI_pRthvI.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/185/07_urvI_pRthvI.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 उ॒र्वी पृ॒थ्वी ब॑हु॒ले दू॒रेअ॑न्ते॒ उप॑ ब्रुवे॒ नम॑सा य॒ज्ञे अ॒स्मिन् ।  
 द॒धाते॒ ये सु॒भगे॑ सु॒प्रतू॑र्ती॒ द्यावा॒ रक्ष॑तं पृथिवी नो॒ अभ्वा॑त् ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/185/07_urvI_pRthvI.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/185/07_urvI_pRthvI.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -807,6 +812,7 @@ Die weiten, breiten, grossen, fernbegrenzten ruf' ich mit Ehrfurcht an bei diese
 
 भावार्थभाषाः -  जसा चंद्रलोक पृथ्वीजवळ आहे तसा सूर्यलोक दूर आहे. सर्व स्थानी (गोलांमध्ये) प्रकाश व अंधकाररूपी गोल द्वय वर्तमान असतात. त्या गोलामुळे जशी उन्नती होईल तसा प्रयत्न सर्वांनी करावा. ॥ ७ ॥
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

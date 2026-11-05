@@ -10,7 +10,8 @@ _______
 1स्थाल्या धुवं गृह्णाति - मूर्धानमिति चतुष्पदया त्रिष्टुभा ॥
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/007/01_mUrdhAnaM_divo.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/007/01_mUrdhAnaM_divo.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 +++(विषुव-स्थान-रूपेण)+++ मूर्धा᳓नं दिवो᳓, अरतिं᳓+++(=चक्र-परिधिं)+++ पृथिव्या᳓,  
@@ -19,17 +20,21 @@ _______
 +++(विषुव-स्थान-रूपेणापि)+++ आस᳓न्न्+++(=आस्यं)+++ आ᳓ पा᳓त्रं **जनयन्त** देवाः᳓ ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/007/01_mUrdhAnaM_divo.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/007/01_mUrdhAnaM_divo.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 मू॒र्धानं॑ दि॒वो अ॑र॒तिं पृ॑थि॒व्या वै॑श्वान॒रमृ॒त आ जा॒तम॒ग्निम् ।  
 क॒विं स॒म्राज॒मति॑थिं॒ जना॑नामा॒सन्ना पात्रं॑ जनयन्त दे॒वाः ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/007/01_mUrdhAnaM_divo.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/007/01_mUrdhAnaM_divo.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -396,6 +401,7 @@ Das Haupt des Himmels und der Erde Ordner, den Männerhort, den frommerzeugten A
 
 भावार्थभाषाः -  जी माणसे परमेश्वराप्रमाणे न्यायकारी बनून अग्नीप्रमाणे विद्या व विनय यामुळे प्रसिद्ध होऊन चक्रवर्ती बनतात ती सर्वांना सुख देतात. ॥ १ ॥
 </details>
+
 </div>  
 
 _______
@@ -404,7 +410,8 @@ _______
 इमाम् अनुद्रुत्य उपयाम-गृहीतोस्य् अग्नये त्वा वैश्वानरायेति गृह्णाति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -430,6 +437,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

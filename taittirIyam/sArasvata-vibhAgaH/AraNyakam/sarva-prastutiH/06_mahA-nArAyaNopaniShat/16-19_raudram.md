@@ -95,11 +95,15 @@ title = "१६-१९ रौद्रम्"
 
 ## 17
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/17_kad_rudrAya.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/17_kad_rudrAya.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 क᳓द्रुद्रा᳓य प्र᳓चेतसे  
 मीढु᳓ष्टमाय त᳓व्यसे ।  
 वोचे᳓म श᳓न्तमँ हृदे᳓ ।  
+
+</details>
 
 </div>  
 

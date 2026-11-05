@@ -232,7 +232,9 @@ title = "०२ वशालम्भनमन्त्राः"
 6अथास्यै वपां जुहोति - तन्तुं तन्वन्निति जगत्या ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/06_tantuM_tanvanrajaso.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/06_tantuM_tanvanrajaso.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 त᳓न्तुं तन्व᳓न् र᳓जसो+++(=दिवः)+++ भानु᳓म् **अ᳓न्विहि**  
 ज्यो᳓तिष्मतः पथो᳓ **रक्ष** धिया᳓ कृता᳓न् ।  
@@ -241,18 +243,22 @@ title = "०२ वशालम्भनमन्त्राः"
 +++(विषुव-स्थानीय! अग्ने)+++ म᳓नुर् **भव**, **जन᳓या** दै᳓व्यं ज᳓नम् ॥६
 
 +++(अग्नये तन्तुमत इदं न मम)+++
+</details>
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/053/06_tantuM_tanvanrajaso.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/053/06_tantuM_tanvanrajaso.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 तन्तुं॑ त॒न्वन्रज॑सो भा॒नुमन्वि॑हि॒ ज्योति॑ष्मतः प॒थो र॑क्ष धि॒या कृ॒तान् ।  
 अ॒नु॒ल्ब॒णं व॑यत॒ जोगु॑वा॒मपो॒ मनु॑र्भव ज॒नया॒ दैव्यं॒ जन॑म् ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/053/06_tantuM_tanvanrajaso.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/053/06_tantuM_tanvanrajaso.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सौचीकः
@@ -586,6 +592,7 @@ Die Fäden spannend geh dem Glanz der Lüfte nach, beschirm die lichten Pfade, d
 
 पदार्थान्वयभाषाः -  (तन्तुं तन्वन् रजसः-भानुम्-अन्विहि) हे गृहस्थस्य कुले पितृकुले गुरुकुले जातो निष्णातो विद्वन् त्वं सन्ततिक्रमं शिष्यक्रमं विस्तारयन्-विस्तारयितुं मनोरञ्जनस्याध्यात्मरञ्जनस्य भानुं परम्परया प्रसिद्धं ज्ञानमनुगच्छानुतिष्ठ (धिया कृतान्) कर्मणा कृतान् “धीः कर्मनाम” [निघ० २।१] “धीः प्रज्ञानाम” [निघ० ३।९] यद्वा बुद्ध्या कृतान् (ज्योतिष्मतः पथः-रक्ष) बहुन्याययुक्तान् मार्गान् “ज्योतिष्मत्-बहुन्याययुक्तम्” [ऋ० १।१३६।३ दयानन्दः] रक्ष-आचर (जोगुवाम्-अनुल्बणम्-अपः-वयत) भृशमुपदेष्टॄणां दोषरहितं कर्म “अपः कर्मनाम” [निघ० २।१] प्रतानय (मनुः-भव) मननशीलो भव (दैव्यं जनं जनय)दिव्यगुणयुक्तं पुत्रं शिष्यं वा उत्पादय सम्पादय वा ॥६॥
 </details>
+
 </div>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>

@@ -10,7 +10,8 @@ _______
 1शुक्रपात्रेण वैश्वदेवं कलशाद् गृह्णाति - ओमास इति त्रिपदया गायत्र्या ॥ 
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/003/07_omAsashcharShaNIdhRto_vishve.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/003/07_omAsashcharShaNIdhRto_vishve.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 ओ᳓मासश्+++(=अवितारः)+++ चर्षणी-धृतो  
@@ -18,17 +19,21 @@ _______
 दाश्वां᳓सो+++(←दाशृ दाने)+++ दाशु᳓षः सुत᳓म् +++(प्रति)+++॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/003/07_omAsashcharShaNIdhRto_vishve.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/003/07_omAsashcharShaNIdhRto_vishve.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 ओमा॑सश्चर्षणीधृतो॒ विश्वे॑ देवास॒ आ ग॑त ।  
 दा॒श्वांसो॑ दा॒शुषः॑ सु॒तम् ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/003/07_omAsashcharShaNIdhRto_vishve.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/003/07_omAsashcharShaNIdhRto_vishve.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वे देवाः
@@ -246,6 +251,7 @@ Vereint, o menschenschirmende, ihr Götter alle, kommt herbei, Ihr frommen, in d
 - गायत्री
 - षड्जः
 </details>
+
 </div>
 
 _______
@@ -254,7 +260,8 @@ _______
 इमामनुद्रुत्योपयामगृहीतोसि विश्वेभ्यस्त्वा देवेभ्यः इति गृह्णाति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -280,6 +287,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -299,7 +307,8 @@ to the All-gods thee!
 
 _______
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/16_vaishvadevagrahaH/eShaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/16_vaishvadevagrahaH/eShaH.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एष ते योनिर्विश्वेभ्यस्त्वा देवेभ्य इति सादयति ॥ 'वैश्वदेव्यो वै प्रजा असावादित्यश्शुक्रः' इत्यादि ब्राह्मणम्  ॥
@@ -319,4 +328,5 @@ This is thy birthplace; to the All-gods thee!
 
 ए॒ष ते॒ योनि॒र्विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]
 </details>
+
 </div>

@@ -30,24 +30,30 @@ unicode_script: devanagari
 दक्षिणोत्त॒रौ पा॒णी +++("पा॒दौ" इत्य् अधिकं द्राविडपाठे)+++ कृ॒त्वा सप॒वित्रा॒व्,  
 ओम् इति॒ प्रति॑पद्यत - ए॒तद् वै यजु॑स्, त्रयीव्ँ वि॒द्यां प्रत्य् ए॒षा वाग्, ए॒तत् प॑र॒मम् अ॒क्षर॒न्, तद् ए॒तद् ऋ॒चा ऽभ्यु॑क्तम् -  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/39_Rcho_axare.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/39_Rcho_axare.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 ऋचो᳓ अक्ष᳓रे परमे᳓ वि᳓ओमन्  
 य᳓स्मिन् देवा᳓ अ᳓धि वि᳓श्वे निषेदुः᳓  
 य᳓स् त᳓न् न᳓ वे᳓द कि᳓म् ऋचा᳓ करिष्यति  
 य᳓ इ᳓त् त᳓द् विदु᳓स् त᳓ इमे᳓ स᳓म् आसते
+</details>
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/164/39_Rcho_axare.md">
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/164/39_Rcho_axare.md">
+
 <details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 ऋ॒चो अ॒क्षरे॑ पर॒मे व्यो॑म॒न्यस्मि॑न्दे॒वा अधि॒ विश्वे॑ निषे॒दुः ।  
 यस्तन्न वेद॒ किमृ॒चा क॑रिष्यति॒ य इत्तद्वि॒दुस्त इ॒मे समा॑सते ॥
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/164/39_Rcho_axare.md">
+<div class="js_include collapsed" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/164/39_Rcho_axare.md">
+
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -427,6 +433,7 @@ Auf welchem Worte [oder welcher Silbe »Om«] des Preisliedes im höchsten Himme
 भावार्थभाषाः -  जे सर्व वेद प्रमाणित असलेले अमर ब्रह्म व जीव आणि कार्यकारणरूपी जग आहे त्या सर्वांपैकी सर्वांचा आधार अर्थात स्थित राहण्याचे ठिकाण आकाशाप्रमाणे व्यापक परमात्मा व जीव आणि कार्यकारणरूपी जगत व्याप्य आहे. त्यामुळे सर्व जीव इत्यादी पदार्थ परमेश्वरात निवास करतात. जे वेद वाचून हे प्रमेय जाणत नाहीत ते वेदापासून कोणतेही फळ प्राप्त करू शकत नाहीत व जे वेद वाचून जीव, कार्यकारण व ब्रह्माच्या गुण, कर्म, स्वभावाला जाणतात. ते सर्व धर्म, अर्थ, काम, मोक्ष सिद्ध करतात व आनंद प्राप्त करतात. ॥ ३९ ॥
 </details>
 </details>
+
 </div>
 
 इति।  
@@ -448,7 +455,9 @@ Auf welchem Worte [oder welcher Silbe »Om«] des Preisliedes im höchsten Himme
 ### पर्यवसानम्
 स वा ए॒ष य॒ज्ञस्, स॒द्यः प्रता॑यते स॒द्यस् सन्ति॑ष्ठते। तस्य॒ प्राक् सा॒यम् अ॑वभृ॒थो -
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/02_svAdhyAya-brAhmaNAdi/namo_brahmaNe.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/02_svAdhyAya-brAhmaNAdi/namo_brahmaNe.md">
+
+<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
 (ॐ)  
 न᳓मो ब्र᳓ह्मणे+++(=वेदाय)+++, न᳓मो अस्त्वग्न᳓ये  
@@ -458,6 +467,7 @@ Auf welchem Worte [oder welcher Silbe »Om«] des Preisliedes im höchsten Himme
 +++(श᳓तु᳓र᳓नु᳓मो᳓ न᳓द्य᳓जा᳓दी᳓ ⇒ बृ᳓ह᳓न्म᳓ह᳓तो᳓रु᳓प᳓सं᳓ख्या᳓न᳓म्। (वा᳓॰) इ᳓ति बृहच्छब्दा᳓द् अनु᳓मो᳓ऽजादिर् वि᳓भक्तिर् अ᳓सर्वनामस्थानम् उदा᳓त्ता भवति।)+++
 
 ॐ शा᳓न्तिः शा᳓न्तिः शा᳓न्तिः ॥
+</details>
 
 </div>  
 
@@ -487,18 +497,20 @@ Auf welchem Worte [oder welcher Silbe »Om«] des Preisliedes im höchsten Himme
 
 तस्मा॑त् स्वाध्या॒यो ऽध्ये॑त॒व्यो॑ - यय्ँय॑ड्क्र॒तुमधी॑ते॒ तेन॑ तेनास्ये॒ष्टं भ॑वत्य्, अ॒ग्नेर्वा॒योरा॑दि॒त्यस्य॒ सायु॑ज्यङ्गच्छति॒ तदे॒षाऽभ्यु॑क्ता -
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/brAhmaNa-vandanam.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/brAhmaNa-vandanam.md">
+
 <details open><summary><h3>ये अर्वाङुत वा पुराणे …{Loading}…</h3></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ अर्वा᳓ङुत᳓ वा पुराणे᳓  
-वेदव्ँ᳓ विद्वाँ᳓सम् अभि᳓तो वदन्त्य्,  
-आदित्य᳓म् एव᳓ ते᳓ प᳓रिवदन्ति स᳓र्वे,  
-अग्नि᳓न् द्विती᳓यन् तृती᳓यञ्च हँस᳓म्+++(→गमनशीलम् वायुम्)+++ इ᳓ति।  
+वेदव्ँ᳓ विद्वाँ᳓सम् **अभि᳓तो वदन्त्य्**,  
+आदित्य᳓म् एव᳓ ते᳓ **प᳓रिवदन्ति** स᳓र्वे,  
+अग्नि᳓न् द्विती᳓यन्, तृती᳓यञ्च हँस᳓म्+++(→गमनशीलम् वायुम्)+++ इ᳓ति।  
 
-या᳓वतीर् वै᳓ देव᳓तास् - ता᳓स् स᳓र्वा वेदवि᳓दि ब्राह्मणे᳓ वसन्ति।  
-त᳓स्मा ब्राह्मणे᳓भ्यो वेद-वि᳓द्भ्यो दिवे᳓-दिवे न᳓मस्-कुर्यात्।  
-ना᳓श्लील᳓ङ् कीर्तयेत्। एता᳓ एव᳓ देव᳓ताः प्रीणाति ।
+या᳓वतीर् वै᳓ देव᳓तास् - ता᳓स् स᳓र्वा वेदवि᳓दि ब्राह्मणे᳓ **वसन्ति**।  
+त᳓स्मा ब्राह्मणे᳓भ्यो वेद-वि᳓द्भ्यो दिवे᳓-दिवे न᳓मस् **कुर्यात्**।  
+**ना᳓श्लील᳓ङ् कीर्तयेत्**। एता᳓ एव᳓ देव᳓ताः **प्रीणाति** ।
 </details>
 </details>
+
 </div>

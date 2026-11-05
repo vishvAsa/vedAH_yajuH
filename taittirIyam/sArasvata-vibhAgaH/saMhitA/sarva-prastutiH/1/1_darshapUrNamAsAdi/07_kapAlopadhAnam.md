@@ -163,7 +163,7 @@ The Raksas is burnt, the evil spirits are burnt.
 प्रत्युष्टादिना व्याख्यातम् (तै.सं. 1.1.2) ।  
 'अग्निवत्युपदधाति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
 
 रक्षेर् असुनि अर्थविपर्यासः । 'क्षर मूर्छने' इत्यस्य वर्णविपर्यासो वा ।
 
@@ -219,7 +219,8 @@ Thou art firm; make firm the earth, make life firm, make offspring firm,
 यजमानस्यायुः प्रजां च दृंह । प्रजाशब्दः कृदुत्तरप्रकृतिस्वरेण (पा.सू. 6.2.139) अन्तोदात्तः ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓जाता᳓न् अस्मै᳓ य᳓जमानाय प᳓र्यूह ।  
@@ -246,6 +247,7 @@ make his follows subordinate to this sacrificer.
 
 किञ्च अस्मै यजमानाय । षष्ठ्यर्थे चतुर्थ्यौ (पा.सू. 2.3.62 वा 1) । अस्य यजमानस्य सजातान् समानजन्मनः पर्यूह परितस्सेवमानान् कुरु । 'सजातानस्मा अभितो बहुलान् करोति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् । 'समानस्य छन्दसि' (पा.सू. 6.3.84) इत्यादिना सभावः । 'वा जाते' (पा.सू. 6.2.171) इत्युत्तरपदान्तोदात्तत्वम् । जात्यादिग्रहणं नानुवर्तिष्यते । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना अस्मा इति विभक्तेरुदात्तत्वम् । लसार्वधातुकानुदात्तत्वे (पा.सू. 6.1.176) यजमाने धातुस्वरः । 'उपसर्गादस्यत्यूह्योर्वा वचनम्' (पा.सू. 1.3.29 वा 3) इत्यूह्यतेः परस्मैपदत्वम् ॥
 </details>
+
 </div>  
 
 ____
@@ -295,7 +297,8 @@ Thou art a supporter, make firm the atmosphere, make expiration firm, make inspi
 प्राणापानशब्दौ थाथादिस्वरेण (पा.सू. 6.2.144) अन्तोदात्तौ ।  समानमन्यत् ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓जाता᳓न् अस्मै᳓ य᳓जमानाय प᳓र्यूह ।  
@@ -322,6 +325,7 @@ make his follows subordinate to this sacrificer.
 
 किञ्च अस्मै यजमानाय । षष्ठ्यर्थे चतुर्थ्यौ (पा.सू. 2.3.62 वा 1) । अस्य यजमानस्य सजातान् समानजन्मनः पर्यूह परितस्सेवमानान् कुरु । 'सजातानस्मा अभितो बहुलान् करोति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् । 'समानस्य छन्दसि' (पा.सू. 6.3.84) इत्यादिना सभावः । 'वा जाते' (पा.सू. 6.2.171) इत्युत्तरपदान्तोदात्तत्वम् । जात्यादिग्रहणं नानुवर्तिष्यते । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना अस्मा इति विभक्तेरुदात्तत्वम् । लसार्वधातुकानुदात्तत्वे (पा.सू. 6.1.176) यजमाने धातुस्वरः । 'उपसर्गादस्यत्यूह्योर्वा वचनम्' (पा.सू. 1.3.29 वा 3) इत्यूह्यतेः परस्मैपदत्वम् ॥
 </details>
+
 </div>  
 
 ____
@@ -369,7 +373,8 @@ Thou are supporting, make the heaven firm, make the eye [1] firm, make the ear f
 - [दृंह दृढां कुरु । दृह दृहि वृद्धौ, अन्तर्भावितण्यर्थः]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓जाता᳓न् अस्मै᳓ य᳓जमानाय प᳓र्यूह ।  
@@ -396,6 +401,7 @@ make his follows subordinate to this sacrificer.
 
 किञ्च अस्मै यजमानाय । षष्ठ्यर्थे चतुर्थ्यौ (पा.सू. 2.3.62 वा 1) । अस्य यजमानस्य सजातान् समानजन्मनः पर्यूह परितस्सेवमानान् कुरु । 'सजातानस्मा अभितो बहुलान् करोति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् । 'समानस्य छन्दसि' (पा.सू. 6.3.84) इत्यादिना सभावः । 'वा जाते' (पा.सू. 6.2.171) इत्युत्तरपदान्तोदात्तत्वम् । जात्यादिग्रहणं नानुवर्तिष्यते । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना अस्मा इति विभक्तेरुदात्तत्वम् । लसार्वधातुकानुदात्तत्वे (पा.सू. 6.1.176) यजमाने धातुस्वरः । 'उपसर्गादस्यत्यूह्योर्वा वचनम्' (पा.सू. 1.3.29 वा 3) इत्यूह्यतेः परस्मैपदत्वम् ॥
 </details>
+
 </div>  
 ____
 
@@ -442,7 +448,8 @@ Thou art a support, make the quarters firm, make the organ firm, make offspring 
 - [दृंह दृढां कुरु । दृह दृहि वृद्धौ, अन्तर्भावितण्यर्थः]
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓जाता᳓न् अस्मै᳓ य᳓जमानाय प᳓र्यूह ।  
@@ -469,6 +476,7 @@ make his follows subordinate to this sacrificer.
 
 किञ्च अस्मै यजमानाय । षष्ठ्यर्थे चतुर्थ्यौ (पा.सू. 2.3.62 वा 1) । अस्य यजमानस्य सजातान् समानजन्मनः पर्यूह परितस्सेवमानान् कुरु । 'सजातानस्मा अभितो बहुलान् करोति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् । 'समानस्य छन्दसि' (पा.सू. 6.3.84) इत्यादिना सभावः । 'वा जाते' (पा.सू. 6.2.171) इत्युत्तरपदान्तोदात्तत्वम् । जात्यादिग्रहणं नानुवर्तिष्यते । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना अस्मा इति विभक्तेरुदात्तत्वम् । लसार्वधातुकानुदात्तत्वे (पा.सू. 6.1.176) यजमाने धातुस्वरः । 'उपसर्गादस्यत्यूह्योर्वा वचनम्' (पा.सू. 1.3.29 वा 3) इत्यूह्यतेः परस्मैपदत्वम् ॥
 </details>
+
 </div>  
 
 ____
@@ -514,7 +522,8 @@ Ye are gatherers, bring offspring to this sacrificer, wealth to him,
 चीयन्ते उपचीयन्ते इति चितः चितयः । यस्माच्चितः स्थ, तस्मादस्य यजमानस्य प्रजार्थं पर्यूहत परितश्चिनुत । प्रत्येकमभिधानादेकवचनम् । शिष्टं स्पष्टम् ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓जाता᳓न् अस्मै᳓ य᳓जमानाय प᳓र्यूह ।  
@@ -541,6 +550,7 @@ make his follows subordinate to this sacrificer.
 
 किञ्च अस्मै यजमानाय । षष्ठ्यर्थे चतुर्थ्यौ (पा.सू. 2.3.62 वा 1) । अस्य यजमानस्य सजातान् समानजन्मनः पर्यूह परितस्सेवमानान् कुरु । 'सजातानस्मा अभितो बहुलान् करोति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् । 'समानस्य छन्दसि' (पा.सू. 6.3.84) इत्यादिना सभावः । 'वा जाते' (पा.सू. 6.2.171) इत्युत्तरपदान्तोदात्तत्वम् । जात्यादिग्रहणं नानुवर्तिष्यते । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना अस्मा इति विभक्तेरुदात्तत्वम् । लसार्वधातुकानुदात्तत्वे (पा.सू. 6.1.176) यजमाने धातुस्वरः । 'उपसर्गादस्यत्यूह्योर्वा वचनम्' (पा.सू. 1.3.29 वा 3) इत्यूह्यतेः परस्मैपदत्वम् ॥
 </details>
+
 </div>  
 
 ____
@@ -582,17 +592,21 @@ ____
 12कपालानि विमुञ्चति - यानीति ॥ इष्टिसंस्थानकालभाविनोपि विमोकमन्त्रस्य प्रासङ्गिकमिहाम्नानम् ।
 </details>
 
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 या᳓नि घर्मे᳓ **कपा᳓लान्य्**  
 **उपचिन्व᳓न्ति** वेध᳓सः+++(=अध्वर्यवः)+++ ।  
 **पूष्ण᳓स् ता᳓न्य्** अ᳓पि +++(श्रपण-)+++व्रत᳓+++(य् समाप्ते)+++  
 **इन्द्र-वायू᳓ वि᳓ मुञ्चताम्** ॥ [11]   
+
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
+
 <details><summary>Keith</summary>
 
 The potsherds which wise men collect for the cauldron,  
@@ -636,6 +650,7 @@ ______________
 मन्त्रपाठस्तु -  
 यानि घर्म इति। अयं मन्त्रोऽप्यध्वर्युकाण्ड आम्नातत्वात्प्रथमप्रपाठके व्याख्यातः। वेधसो ब्रह्मसमाः पूष्णः पोषका ऋत्विजो यानि कपालानि वह्ना वुपस्थापयन्ति तानि सर्वाण्यपि व्रते समाप्ते सतीन्द्रवायू विमुञ्चताम्।  
 </details>
+
 </div>  
 
 इति सप्तमोनुवाकः

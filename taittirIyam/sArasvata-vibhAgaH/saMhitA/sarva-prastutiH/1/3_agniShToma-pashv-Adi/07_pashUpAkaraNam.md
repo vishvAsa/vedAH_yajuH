@@ -430,7 +430,8 @@ _______
 भव॑तं [12]न॒स्सम॑नसौ॒ समो॑कसावरे॒पसौ॑ ।  मा य॒ज्ञँ हिँ॑सिष्ट॒म्मा य॒ज्ञप॑तिञ्जातवेदसौ शि॒वौ भ॑वतम॒द्य नः॑ ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/02_bhavataM_nas.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/02_bhavataM_nas.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 +++(मथिताग्ने, आहवनीयाग्ने च!)+++  
@@ -439,10 +440,13 @@ _______
 मा᳓ यज्ञँ᳓ हिँसिष्टम्  
 मा᳓ यज्ञ᳓पतिञ् +++(हे)+++ जातवेदसौ ।  
 शिवौ᳓ भवतम् अद्य᳓ नः ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/02_bhavataM_nas.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/02_bhavataM_nas.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -481,6 +485,7 @@ be ye two auspicious to-day with us.
 तादृशौ युवां अद्य अस्मिन्कर्मकाले नः अस्माकं शिवौ शान्तौ भवतम् । 'सद्यः परुत्' इत्यत्र इदमोद्यशब्दो निपात्यते । 'अग्निः पुरा भवत्यग्निं मथित्वा प्र हरति' इत्यादि ब्राह्मणम् ॥
 </details>
 </details>
+
 </div>
 
 _______
@@ -489,14 +494,17 @@ _______
 12प्रहृत्य स्रुवेणाभिजुहोति - अग्नावग्निरिति चतुष्पदया त्रिष्टुभा ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/03_agnAv_agnish.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/03_agnAv_agnish.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अग्ना᳓व् अग्नि᳓श् चरति प्र᳓विष्ट  
 ऋ᳓षीणाम् पुत्त्रो᳓ अधिराज᳓ एषः᳓ ।    
 स्वाहा-कृ᳓त्य ब्र᳓ह्मणा ते जुहोमि  
 मा᳓ देवा᳓नाम् मिथुया᳓ कर् भाग-धे᳓यम् ॥ [13]
+
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -504,7 +512,8 @@ _______
 12प्रहृत्य स्रुवेणाभिजुहोति -
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/03_agnAv_agnish.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/03_agnAv_agnish.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -535,6 +544,7 @@ Do thou not spoil the share of the gods.
 यद्वा - ब्रह्म बृहत् इदमाज्यं जुहोमि । 'तृतीया च होश्छन्दसि' इति तृतीया । त्वं च तथा हुतस्सन् देवानां भागधेयं भागं मिथुया मा कः मिथ्या मा कः मा कार्षीः; मिथ्याकरर्ण स्तेयम् । 'मन्त्रे घस' इत्यादिना च्लेर्लुक् । 'भागरूपनामभ्यो धेयः' इति स्वार्थे धेयप्रत्ययः । यद्वा - मिथःकरणं मिधुयाकरणं परस्परसङ्करो भागानां, यथा वायव्यमिन्द्राय प्रदीयते, तथा ऐन्द्रं वायव इति, तथा मा कार्षीः । 'अव्ययादाप्सुपः' इति लुकं बाधित्वा 'सुपां सुलुक्' इत्यादिना विभक्तेर्याजादेशः ॥
 </details>
 </details>
+
 </div>
 
 इति तृतीये सप्तमोनुवाकः ॥  

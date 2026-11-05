@@ -312,7 +312,9 @@ Prosperity to-day, O Savitr prosperity to-morrow, Day by day prosperity mayst th
 11अथ भूम्याश्चरोः पुरोनुवाक्या - बडित्थेत्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 ब᳓ड् इत्था᳓+++(त्थं)+++ प᳓र्वतानाङ्+++(→मेघानाम्)+++  
 खिद्र᳓म्+++(=छिद्रं →छेदनम्)+++ **बिभर्षि** पृथिवि ।  
@@ -320,9 +322,12 @@ Prosperity to-day, O Savitr prosperity to-morrow, Day by day prosperity mayst th
 मह्ना᳓+++(=महिम्ना)+++ +++(देवादीन्)+++ जिनो᳓षि+++(=तर्पयसि)+++ महिनि+++(=महति)+++ ।+++(र४)+++  
 +++(अत्र देवप्रीत्या वृष्टिरिति चक्रम् उच्यते।)+++
 
+</details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
+
 <details><summary>Keith</summary>
 
 O earth, thou bearest
@@ -348,14 +353,19 @@ With thy hills, quicken with thy might [2].
 
 केचिदाहुः - सत्यमित्थं पर्वतानां मेखलानं खिद्रं छेदनप्रवहमुदकं बिभर्षि । पृथुत्वात्प्रभूतं वर्षोदकं बिभर्षि । या त्वं प्रणवती प्रवणगामिना उदकेन मह्ना महता विश्वमिदं प्रकर्षेण जिनोषि तर्पयसि, अत एव महनीयासि ; अनेनैव क्रमेण सर्वहिरण्यादिलाभहेतुत्वात् ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_stomAsas_tvA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_stomAsas_tvA.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 स्तोमा॑सस्त्वा विचारिणि॒  
 प्रति॑ष्टोभन्त्य् अ॒क्तुभिः॑ ।  
 प्र या वाज॒न् न हेष॑न्तम्  
 पे॒रुम् अस्य् अ॑स्य् अर्जुनि ।
+
+</details>
 
 </div>
 
@@ -364,7 +374,8 @@ With thy hills, quicken with thy might [2].
 12 तत्रैव याज्या - स्तोमासस्त्वेत्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_18/09_stomAsas_tvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_18/09_stomAsas_tvA.md">
+
 <details><summary>Keith</summary>
 
 The songs salute thee,
@@ -384,6 +395,7 @@ The seed like great riches.
 हे भूमे विचारिणि विविधं चरणं गमनं भक्षणं वा विचारः । हे तद्वति, स्तोमासः स्तोमास्स्तोत्राणि प्रतिष्टोभन्ति प्रत्येकं प्रतिमुखा वा स्तुवन्ति । अक्तुभिस्त्वदीयैः कर्मभिः अपदानैस्स्तुतिभिः स्तोत्रभक्तिभिः या त्वं तथा स्तूयमाना हे अर्जुनि निर्मले । 'अन्यतो ङीष्' इति ङीष् । हेषन्तं शब्दवन्तं दुष्टं वाजन्न अश्वमिव यथा दुष्टो वाजीनिरर्थकान् शब्दान् करोति एव निरर्थकशब्दाभिधायिनं अमन्त्रार्थज्ञमिति ।   
 किञ्च - वाजमिव बलमिव पेरुं अश्वमिव पानशीलं उपलक्षणत्वात्पानाशनमात्रकृतार्थं अयज्ञार्हं पुरुषं प्रास्यसि त्वं खल्वर्जुनीति । सर्वे स्तोत्रादयस्त्वामेव स्तुवन्ति । तेषां च मध्ये वाजिनमिव हेषन्तमिव पेरुं त्वं नाद्रियसे तस्मात्तादृशानस्मान् त्वामेव स्तुवतो हिरण्यादिदानेन तृप्तान् कुर्विति । 'उपसर्गात्सुनोति' इत्यादिना स्तोभतेष्षत्वम् ॥
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -742,7 +754,8 @@ Thy body is faultless, Like ghee purified, like pure gold That of thine shineth 
 26तत्रैव याज्या - उभे इति । पञ्चपदा पङ्क्तिः ॥
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/006/09_ubhe_sushchandra.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/006/09_ubhe_sushchandra.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 उभे᳓ सुश्चन्द्र सर्पि᳓षो  
@@ -751,17 +764,21 @@ Thy body is faultless, Like ghee purified, like pure gold That of thine shineth 
 उक्थे᳓षु शवसस् पत  
 इ᳓षं स्तोतृ᳓भ्य आ᳓ भर
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/006/09_ubhe_sushchandra.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/006/09_ubhe_sushchandra.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 उ॒भे सु॑श्चन्द्र स॒र्पिषो॒ दर्वी॑ श्रीणीष आ॒सनि॑ ।  
 उ॒तो न॒ उत्पु॑पूर्या उ॒क्थेषु॑ शवसस्पत॒ इषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/006/09_ubhe_sushchandra.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/006/09_ubhe_sushchandra.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -1106,6 +1123,7 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 भावार्थभाषाः -  जो राजा सेनेची भोजन व्यवस्था व उत्तम आरोग्य यासाठी वैद्य बाळगतो, तोच प्रशंसित होऊन राज्य वाढवितो. ॥ ९ ॥
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>

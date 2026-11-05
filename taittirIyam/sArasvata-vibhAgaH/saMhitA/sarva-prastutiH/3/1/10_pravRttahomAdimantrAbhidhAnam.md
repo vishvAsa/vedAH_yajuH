@@ -8,7 +8,8 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 1अथ प्रवृताहुती जुहोति - जुष्टो वाचः, ऋचा स्तोममिति द्वाभ्याम् । प्रथमाऽनुष्टुप् विषमपादा, द्वितीया गायत्री ॥ 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/02_juShTo_vAcho.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/02_juShTo_vAcho.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 जु᳓ष्टो वाचो᳓ **भूयासञ्**  
@@ -17,9 +18,11 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 मा **धास्** स्वा᳓हा स᳓रस्वत्यै ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/02_juShTo_vAcho.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/02_juShTo_vAcho.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -32,9 +35,11 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 जुष्टः इष्टः वाचः भूयासम् । वाचस्पतये मनसे प्राणाय जुष्टः भूयासमित्येव । षष्ठ्यर्थे चतुर्थी । 'सावेकाचः' इति वाचः षष्ठ्या उदात्तत्वम् । 'षष्ठ्याः पतिपुत्र' इति सत्वम् । 'नित्यं मन्त्रे' इति जुष्टशब्द आद्युदात्तः । हे देवि वाक् यद्वाचः पदं वास्तवं मधुमत् मधुरं तस्मिन् मा धाः धेहि स्थापय । सरस्वत्यै तुभ्यं स्वाहुतमिदमस्तु । दधातेर्लोटि 'बहुलं छन्दसि' इति शपो लुक् ॥
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/05_RchA_stomam.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/05_RchA_stomam.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ऋचा᳓ स्तो᳓मँ **स᳓मर्धय**  
@@ -42,9 +47,11 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 बृह᳓द् +++(साम)+++ गायत्र᳓-वर्तनि ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/05_RchA_stomam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/05_RchA_stomam.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -58,6 +65,7 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 प्रवृतेषु ऋत्विक्षु सम्यग्यज्ञप्रवृत्तौ यथोक्तसमृद्धिकं सर्वं भवतीति ॥
 </details>
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -65,7 +73,8 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 8द्रप्साननुमन्त्रयते - यस्ते इति तिसृभिस्त्रिष्टुभिः । 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/09_yas_te.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/09_yas_te.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 य᳓स् ते द्रप्स᳓स् **स्क᳓न्दति**, य᳓स् ते अँशु᳓र्  
@@ -74,9 +83,11 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 **स्वा᳓हाकृतम्** इ᳓न्द्राय त᳓ञ् **जुहोमि** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/09_yas_te.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/09_yas_te.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -89,9 +100,11 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 तत्र प्रथमा - यस्ते इति ॥ 'अंशुः' इति प्रथमपादान्तः । हे सोम यस्तेऽभिषूयमाणस्य द्रप्सो रसस्स्कन्दति । यो वा तवांशुः सूक्ष्मलतावयवः बाहुच्युतः बाह्वोर्हस्तयोश्च्युतः निपतितः संलग्नः । थाथादिस्वरं बाधित्वा व्यत्ययेन सप्तमीपूर्वपदप्रकृतिस्वरत्वम् । धिषणयोरुपस्थात् - अधिषवणफलके धिषणे । दृश्यते हि 'धिषाणे वीडू' इति । तयोरुपस्थादुत्सङ्गात् हस्तयोश्च्युतः । अध्वर्योरिति । यद्वा यो वा तव रसः पवित्रात् दशापवित्रात् विततात्पतितः सर्वतस्स्कन्दति तं सर्वं स्वाहाकृतं स्वाहाकारेण प्रक्षिप्तं स्वाहाकृतवदवृधानिपतितं कृत्वा इन्द्राय जुहोमि स्वाहुतमेव करोमि । स्वाहाशब्दस्योर्यादित्वेन गतित्वात् 'गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/12_yo_draphso.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/12_yo_draphso.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 यो᳓ द्रप्सो᳓ अँशुᳶ᳓ **पतितᳶ᳓** पृथिव्या᳓म्  
@@ -100,9 +113,11 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 **स्वा᳓हाकृतम्** इ᳓न्द्राय त᳓ञ् **जुहोमि** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/12_yo_draphso.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/12_yo_draphso.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -123,9 +138,11 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 **मन्थी शुक्रश्च** ग्रहौ ॥
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/15_yas_te.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/15_yas_te.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 य᳓स् ते द्रप्सो᳓ म᳓धुमाँ इन्द्रिया᳓वान्त्  
@@ -134,9 +151,11 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 **स्वा᳓हा-कृतम्** इ᳓न्द्राय त᳓ञ् **जुहोमि** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/15_yas_te.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/15_yas_te.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -154,6 +173,7 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 अ॒ध्व॒र्युर्वा ऋ॒त्विजा॑म्प्रथ॒मो यु॑ज्यते॒ तेन॒ स्तोमो॑ योक्त॒व्य॑ इत्या॑हु॒र्वाग॑ग्रे॒गा अग्र॑ एत्वृजु॒गा दे॒वेभ्यो॒ यशो॒ मयि॒ दध॑ती प्रा॒णान्प॒शुषु॑ प्र॒जाम्मयि॑ [33]  च॒ यज॑माने॒ चेत्या॑ह॒ वाच॑मे॒व तद्य॑ज्ञमु॒खे यु॑नक्ति॒ वास्तु॒ वा ए॒तद्य॒ज्ञस्य॑ क्रियते॒ यद्ग्रहा॑न्गृही॒त्वा ब॑हिष्पवमा॒नँ सर्प॑न्ति
 </details>
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
@@ -266,7 +286,8 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 वैष्णव्येत्यादि । पुनरेत्यागत्य वैष्णव्यर्चा वक्ष्यमाणया अनुष्टुभा राजानमुपतिष्ठते - तस्मादनेनोपस्थानेन **यज्ञमेवाकः** करोति । करोतेः छान्दसे लुङि 'मन्त्रे घस' इति च्लेर्लुक् । 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 वि᳓ष्णो त्व᳓न् नो अ᳓न्तमश्+++(=अन्तिकतमः)+++  
@@ -275,9 +296,11 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 उ᳓त्सन् **दुह्रते** अ᳓क्षितम्॥
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -290,6 +313,7 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 मन्त्रार्थस्तु - हे **विष्णो** यज्ञात्मन् सोम **त्वं नः** अस्माकं **अन्तिमः** अन्तिकतमः प्रत्यासन्नतमः । 'तमेतादेश्च' इति कलोपः । सः त्वमस्मभ्यं **शर्म** सुखं **यच्छ** देहि । हे **सहन्त्य** परेषामभिभवितः महाप्रभाव । सहतेरौणादिको झच् । सहन्ताः सोढारः, ततस्स्वार्थिको यः । सहन्त्य ते तव धाराः रसप्रवाहाः मधुश्चुतः मधुरं रसं क्षरन्त्यः **उत्सं** कूपभूतं **अक्षितं** अनुपक्षीणं सोमरसं प्रदुह्रते प्रकर्षेण दुहताम् । तेन यच्छुष्यति तदाप्यायितं भवति । दुहेश्छान्दसे लेटि 'बहुलं छन्दसि' इति रुडागमः ॥
 </details>
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>

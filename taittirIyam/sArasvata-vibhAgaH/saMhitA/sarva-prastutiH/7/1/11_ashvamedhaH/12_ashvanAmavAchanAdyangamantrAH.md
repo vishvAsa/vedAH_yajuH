@@ -37,7 +37,9 @@ Many through thy dam, powerful through thy sire,
 1अश्वस्य दक्षिणे कर्णे यजमानमश्वनामानि वाचयति - विभूरित्यादि ॥ धारणान्माता पृथिवी । तत्र वृष्ट्या प्रजा उत्पादयतीति पिता द्यौः । ब्राह्मणं च भवति 'इयं वै माता । असौ पिता' इति । तत्र मात्रा पृथिव्या त्वं विभूरसि विशेषण भवसि विशिष्टोसि । पित्रा दिवा च त्वं प्रभूरसि प्रकर्षेण भवसि प्रकृष्टोसि । 'उदात्तयणः' इति तृतीयाया उदात्तत्वम् । 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/20_ashvo-si_hayo-syatyo-si.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/20_ashvo-si_hayo-syatyo-si.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 +++(अश्वस्य दक्षिणे कर्णे यजमानम् अश्वनामानि वाचयति)+++  
 अ᳓श्वो+++(=व्यापकः)+++ ऽसि । ह᳓यो+++(←हि गतौ)+++ **ऽस्य्**, अ᳓त्यो+++(←अत सातत्य-गमने)+++ **ऽसि**,  
@@ -52,6 +54,8 @@ Many through thy dam, powerful through thy sire,
 
 thou art a horse, thou art a steed, thou art a runner, thou art a male, thou art a strong horse, thou art a racer, thou art powerful, thou art a stallion, thou art heroic hearted; 'goer' is thy name;
 </details>
+</details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -182,7 +186,8 @@ Hail to all the deities!
 4सायमश्वस्य पत्सु चतस्रो धृतीर्जुहोति - इह धृतिरित्यादि ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4सायमश्वस्य पत्सु चतस्रो धृतीर्जुहोति - इह धृतिरित्यादि ॥
@@ -256,6 +261,7 @@ Here is delight, hail!'
 
 इति सप्तमे प्रथमे अष्टादशोनुवाकः ॥  
 </details>
+
 </div>  
 
 ## विनियोगः

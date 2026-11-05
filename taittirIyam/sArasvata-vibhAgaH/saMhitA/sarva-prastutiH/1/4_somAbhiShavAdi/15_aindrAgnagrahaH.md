@@ -10,7 +10,8 @@ _______
 1ऋतुपात्रेणैन्द्राग्नं गृह्णाति ॥ 'यदैन्द्राग्नमृतुपात्रेण गृह्णाति' इति ब्राह्मणम्, 'ओजोभृतौ वा एतौ देवानाम्' इत्यादि च । 
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/012/01_indrAgnI_A.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/012/01_indrAgnI_A.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 इ᳓न्द्राग्नी **आ᳓ गतं**+++(=गच्छतं)+++ सुतं᳓  
@@ -18,17 +19,21 @@ _______
 अस्य᳓ **पातं** धिया᳓ +ईषिता᳓+++(=प्रेरितौ)+++ ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/012/01_indrAgnI_A.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/012/01_indrAgnI_A.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 इन्द्रा॑ग्नी॒ आ ग॑तं सु॒तं गी॒र्भिर्नभो॒ वरे॑ण्यम् ।  
 अ॒स्य पा॑तं धि॒येषि॒ता ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/012/01_indrAgnI_A.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/012/01_indrAgnI_A.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -309,6 +314,7 @@ Indrāgni kommt zu diesem Saft, durch Lieder zu dem schönen Duft, O trinkt ihn,
 
 भावार्थभाषाः -  हे अध्यापक व उपदेशक पुरुषांनो! जसे वायू व सूर्य संपूर्ण जगाचे रक्षक आहेत, तसेच विद्या व उत्तम शिक्षणाने संपूर्ण जगाचे रक्षक व्हा! ॥ १ ॥
 </details>
+
 </div>  
 
 _______
@@ -317,7 +323,8 @@ _______
 इमामनुद्रुत्योपयामगृहीतोसीन्द्राग्निभ्यां त्वेति गृह्णाति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -343,6 +350,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

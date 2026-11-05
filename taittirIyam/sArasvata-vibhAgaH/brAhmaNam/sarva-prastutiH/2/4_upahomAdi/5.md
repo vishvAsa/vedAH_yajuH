@@ -34,24 +34,29 @@ unicode_script: devanagari
 2अथ तत्रैव द्वितीयां पुरोरुचमाह -
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/093/20_kasya_vRShA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/093/20_kasya_vRShA.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 क᳓स्य वृ᳓षा सुते᳓ स᳓चा  
 नियु᳓त्वान् वृषभो᳓ रणत्  
 वृत्रहा᳓ सो᳓मपीतये
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/093/20_kasya_vRShA.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/093/20_kasya_vRShA.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 कस्य॒ वृषा॑ सु॒ते सचा॑ नि॒युत्वा॑न्वृष॒भो र॑णत् ।  
 वृ॒त्र॒हा सोम॑पीतये ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/093/20_kasya_vRShA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/093/20_kasya_vRShA.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -236,6 +241,7 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 - गायत्री
 - षड्जः
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

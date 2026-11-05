@@ -10,7 +10,8 @@ unicode_script: devanagari
 1पर्यग्निकरणे मैत्रावरुणः प्रेषितो ब्रवीति - अग्निर्होता न इति ॥
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/015/01_agnirhotA_no.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/015/01_agnirhotA_no.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 **अग्नि᳓र्** हो᳓ता नो अध्वरे᳓  
@@ -18,17 +19,21 @@ unicode_script: devanagari
 देवो᳓ देवे᳓षु यज्ञि᳓यः ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/015/01_agnirhotA_no.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/015/01_agnirhotA_no.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 अ॒ग्निर्होता॑ नो अध्व॒रे वा॒जी सन्परि॑ णीयते ।  
 दे॒वो दे॒वेषु॑ य॒ज्ञियः॑ ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/015/01_agnirhotA_no.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/015/01_agnirhotA_no.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -304,6 +309,7 @@ Herumgeführt wird bei dem Fest als Priester Agni wie ein Ross, Der Gott bei Gö
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा अग्नी सूर्यरूपाने सर्व व्यवहारांना प्राप्त करवितो तसेच विद्वान संपूर्ण मनोरथांना प्राप्त करवितो. ॥ १ ॥
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

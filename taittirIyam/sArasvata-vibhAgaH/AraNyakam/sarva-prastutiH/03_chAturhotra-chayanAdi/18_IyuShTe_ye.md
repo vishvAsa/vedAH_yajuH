@@ -7,7 +7,8 @@ _______
 1 सन्ति वृष्टयो नाम षोडशेष्टकाः 'इयमेव सा या' इत्याद्याः । तासामियं षोडशी ईयुष्ट इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 +++(पूर्वजाः)+++ **ईयु᳓ष् टे᳓ ये᳓** पू᳓र्वतराम् **अ᳓पश्यन्**  
@@ -16,17 +17,21 @@ _______
 आ᳓+उ᳓ ते᳓ +++(प्रजाः)+++ **यन्ति ये᳓ अपरी᳓षु+++(=अनागतासु)+++ प᳓श्यान्** ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/113/11_IyuShTe_ye.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/113/11_IyuShTe_ye.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 ई॒युष्टे ये पूर्व॑तरा॒मप॑श्यन्व्यु॒च्छन्ती॑मु॒षसं॒ मर्त्या॑सः ।  
 अ॒स्माभि॑रू॒ नु प्र॑ति॒चक्ष्या॑भू॒दो ते य॑न्ति॒ ये अ॑प॒रीषु॒ पश्या॑न् ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/113/11_IyuShTe_ye.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/113/11_IyuShTe_ye.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -390,4 +395,5 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 
 भावार्थभाषाः -  जी माणसे उषेचे आगमन होण्यापूर्वी जागे होऊन आवश्यक कार्य करतात व नंतर परमेश्वराचे ध्यान करतात ती बुद्धिमान व धार्मिक असतात. जे स्त्री-पुरुष परमेश्वराचे ध्यान करून प्रेमाने आपापसात बोलतात. त्यांना अनेक प्रकारचे सुख प्राप्त होते. ॥ ११ ॥
 </details>
+
 </div>

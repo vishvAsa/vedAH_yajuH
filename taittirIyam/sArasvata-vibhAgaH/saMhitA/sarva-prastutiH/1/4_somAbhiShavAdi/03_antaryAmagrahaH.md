@@ -10,7 +10,8 @@ _______
 1उदित आदित्ये ऽन्तर्यामं गृह्णाति अतिधारया पवमानस्य राज्ञः - उपयामगृहीतोसि ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -36,6 +37,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>  
 
 _______
@@ -49,7 +51,8 @@ _______
 अ॒न्तर्य॑च्छ मघवन्पा॒हि सोम॑मुरु॒ष्य राय॒स्समिषो॑ यजस्वा॒न्तस्ते॑ दधामि॒ द्यावा॑पृथि॒वी अ॒न्तरु॒र्व॑न्तरि॑क्षँ स॒जोषा॑ दे॒वैरव॑रै॒ᳶ परै॑श्चान्तर्या॒मे म॑घवन्मादयस्व 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/02_antar_yachCha.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/02_antar_yachCha.md">
+
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अन्त᳓र् **यच्छ**  मघवन् **पाहि᳓++(=पि᳓ब᳓)+++ सो᳓मम्**   
@@ -60,10 +63,13 @@ _______
 
 सजो᳓षा देवै᳓र् अ᳓वरैᳶ प᳓रैश् च+   
 +अन्तर्यामे᳓ +++(ग्रहे)+++ मघवन् **मादयस्व**
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/02_antar_yachCha.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/02_antar_yachCha.md">
+
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
@@ -104,6 +110,7 @@ O bounteous one, do thou rejoice in the Antaryama (cup).
 केचिदाहुः - हे मघवन् सोममिममन्तर्यच्छ तस्याधोदेशे निधाय तिरोहितं कुरु । तथा च कृत्वा पाहि रक्ष यथा न मे भ्रातृव्याः पश्येयुः । 'उरुष्य रायः' इत्यादि पूर्ववत् ॥
 </details>
 </details>
+
 </div>
 
 _______
@@ -112,7 +119,8 @@ _______
 3स्वां कृतोसीति ग्रहमादत्ते ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/svAnkRtosi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/svAnkRtosi.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓ङ्-कृतोऽसि।
@@ -231,7 +239,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उर्व् अ᳙न्तरि᳓क्षम् अन्वि᳓हि ।  
+उ॒र्व् अ᳙न्तरि॑क्ष॒म् अन्वि॑हि ।  
 +++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
 </details>
 
@@ -348,6 +356,7 @@ This is thy birthplace;
 
 हे उपांशुसंस्राव एष आग्रयणस्थाल्याख्यस्ते तव योनिः स्थानम्, यत्र निहितस्त्वं यागसिद्ध्यै सम्पत्स्यसे । अतस्तं प्रविशेति शेषः ॥
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -10,7 +10,8 @@ _______
 1षोडशिनं गृह्णाति - आतिष्ठेत्यनुष्टुभा ॥ 
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/03_A_tiShTha.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/03_A_tiShTha.md">
+
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 **आ᳓ तिष्ठ** वृत्रहन् र᳓थं  
@@ -19,17 +20,21 @@ _______
 **ग्रा᳓वा कृणोतु** वग्नु᳓ना+++(=वचनीयेन [अभिषवशब्देन])+++ ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/03_A_tiShTha.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/03_A_tiShTha.md">
+
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 आ ति॑ष्ठ वृत्रह॒न्रथं॑ यु॒क्ता ते॒ ब्रह्म॑णा॒ हरी॑ ।  
 अ॒र्वा॒चीनं॒ सु ते॒ मनो॒ ग्रावा॑ कृणोतु व॒ग्नुना॑ ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/03_A_tiShTha.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/03_A_tiShTha.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -332,11 +337,13 @@ Besteig' den Wagen, Vritrafeind; die Rosse hat Gebet geschirrt; Der Pressstein l
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. सभापतींनी सेनेत दोन प्रकारचे अधिकारी ठेवावेत. एकाने सेनेला युद्ध करण्यास लावावे व दुसऱ्याने चांगल्या बोलण्याने योद्ध्यांना उत्साहित करावे. जेव्हा युद्ध होईल तेव्हा सेनापतीने चांगल्या प्रकारे परीक्षा करून उत्साहाने शत्रूबरोबर असे युद्ध करावे की निश्चित विजय होईल. युद्ध थांबल्यावर उपदेशक, योद्धे व सेवक यांना धर्मयुक्त कर्माचा उपदेश करून चांगल्या प्रकारे उत्साहित करावे. असे करणाऱ्याचा कधी पराभव होत नाही. ॥ ३ ॥
 </details>
+
 </div>  
 
 _______
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिन॑ ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥
@@ -419,4 +426,5 @@ This is thy birthplace; to Indra of the Sodaśin thee!
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++
 </details>
+
 </div>
