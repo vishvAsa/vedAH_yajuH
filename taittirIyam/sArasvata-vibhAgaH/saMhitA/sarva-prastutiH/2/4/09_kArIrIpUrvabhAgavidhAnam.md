@@ -37,22 +37,7 @@ title = "०९ कारीरीपूर्वभागविधानम्"
 
 <details><summary>Keith</summary>
 
-that is the hue of rain;
-</details>
-
-<details><summary>मूलम्</summary>
-
-ए॒तद्वै वृष्ट्यै॑ रू॒पँ सरू॑प ए॒व भू॒त्वा प॒र्जन्यव्ँ॑वर्षयति ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ए॒तद्वै वृष्ट्यै॑ रू॒पँ सरू॑प ए॒व भू॒त्वा प॒र्जन्यव्ँ॑वर्षयति ।
-</details>
-
-<details><summary>Keith</summary>
-
-verily becoming of like hue he causes Parjanya to rain.
+that is the hue of rain; verily becoming of like hue he causes Parjanya to rain.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -252,22 +237,7 @@ He unites (them) on a black antelope skin;
 
 <details><summary>Keith</summary>
 
-verily he makes the offering;
-</details>
-
-<details><summary>मूलम्</summary>
-
-ह॒विरे॒वाक॑रन्तर्वे॒दि सय्ँयौ॒त्यव॑रुद्ध्यै ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ह॒विरे॒वाक॑रन्तर्वे॒दि सय्ँयौ॒त्यव॑रुद्ध्यै ।
-</details>
-
-<details><summary>Keith</summary>
-
-he unites within the Vedi, for accomplishment.
+verily he makes the offering; he unites within the Vedi, for accomplishment.
 </details>
 
 <details><summary>मूलम्</summary>
