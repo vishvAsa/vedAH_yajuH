@@ -529,7 +529,7 @@ To see great joy.
 म॒हे रणा॑य॒ चक्ष॑से ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 यो᳓ वश् शिव᳓तमो र᳓सस्
 त᳓स्य भाजयतेह᳓ नः ।  

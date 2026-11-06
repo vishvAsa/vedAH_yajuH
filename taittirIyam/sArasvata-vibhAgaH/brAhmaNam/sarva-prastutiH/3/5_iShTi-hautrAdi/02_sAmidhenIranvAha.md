@@ -675,7 +675,7 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 अयम् अग्निः सम्यग् इध्यते। कीदृशः, ईडेन्यः स्तोतुं योग्यः, नमस्यो नमस्कार-योग्यः, तमांसि तिरस्कुर्वन् दर्शतः पदार्थानाम् आर्दशयिता, वृषा कामानां वर्धयिता।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वृ᳓षो अग्नि᳓स् स᳓मिध्यते ।  
 अ᳓श्वो न᳓ देव-वा᳓हनः ।  
@@ -737,7 +737,7 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 हे वृषन् कामानां वर्षकाग्ने वृषणं कामानां वर्षितारं त्वां वृषाणो वयम् आहुति-वृष्टिं कुर्वन्तो वयं समिधीमहि सम्यक् प्रकाशयामः। कीदृशं त्वां, बृहद् दीद्यतं प्रौढ-ज्वालं यथा भवति तथा दीप्यमानम्। 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अग्नि᳓न् दूतव्ँ᳓ वृणीमहे ।  
 हो᳓तारव्ँ विश्व᳓वेदसम् ।  

@@ -34,7 +34,7 @@ Those which the Angirases made here by devotion,
 To those, O Parjanya, grant abundant protection.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 या᳓ देवे᳓षु तनु᳓वम् ऐ᳓रयन्त  
 या᳓साँ सो᳓मो वि᳓श्वा रूपा᳓णि +++(दध्यादिलक्षणानि)+++ वे᳓द ।  

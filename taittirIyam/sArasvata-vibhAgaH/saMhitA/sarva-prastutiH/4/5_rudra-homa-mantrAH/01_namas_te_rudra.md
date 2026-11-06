@@ -54,7 +54,7 @@ And homage to thine arms.
 द्वितीयामृचमाह— या त इषुरिति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 या᳓ त इ᳓षुश् शिव᳓तमा  
 **शिव᳓म् बभू᳓व** ते ध᳓नुः ।   

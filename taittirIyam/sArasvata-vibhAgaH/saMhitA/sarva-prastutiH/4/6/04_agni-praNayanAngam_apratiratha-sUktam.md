@@ -3463,7 +3463,7 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 य᳓त्र बाणा᳓स् **सम्प᳓तन्ति**  
 कुमारा᳓ विशिखा᳓ इव +++(चपलाः)+++।  

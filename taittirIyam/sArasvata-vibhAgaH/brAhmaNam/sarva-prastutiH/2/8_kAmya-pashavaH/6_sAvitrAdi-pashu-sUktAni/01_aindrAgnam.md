@@ -379,7 +379,7 @@ Gott Savitar, der güterreiche, komme, die Luft durchdringend, mit den Rossen fa
 2अथ वपाया याज्यामाह - 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अभी᳓वृतङ्कृ᳓शनैर्विश्व᳓रूपम् ।  
 हि᳓रण्यशम्यय्ँयजतो᳓ बृह᳓न्तम् ।   
@@ -405,7 +405,7 @@ Gott Savitar, der güterreiche, komme, die Luft durchdringend, mit den Rossen fa
 3अथ पुरोडाशस्य पुरोनुवाक्यामाह - 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 स᳓घा नो देव᳓स्सविता᳓ सवा᳓य ।  
 आ᳓ साविषद्व᳓सुपतिर्व᳓सूनि ॥ 40 ॥    

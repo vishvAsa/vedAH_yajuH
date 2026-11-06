@@ -158,7 +158,7 @@ You all that are stationed here from old and you that are new, Yama has given hi
 अयँ सो अग्निरित्येतस्मिन्सूक्ते प्रथमामाह—  १८८८ अयँ सो अग्निरिति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अयँ᳓ सो᳓ अग्नि᳓र्य᳓स्मिन्त्सो᳓ममि᳓न्द्रस्सुत᳓न्दधे᳓ जठ᳓रे वावशानः᳓ ।  
 सहस्रि᳓यव्ँवा᳓जम᳓त्यन्न᳓ स᳓प्तिँ ससवा᳓न्त्स᳓न्त्स्तूयसे जातवेदः ।  
@@ -180,7 +180,7 @@ You all that are stationed here from old and you that are new, Yama has given hi
 अथ द्वितीयामाह— अग्ने दिवो अर्णमिंति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ᳓ग्ने दिवो᳓ अ᳓र्णम᳓च्छा जिगास्य᳓च्छा देवाँ᳓ ऊचिषे धि᳓ष्णिया ये᳓ ।  
 याᳶ᳓ पर᳓स्ताद्रोचने᳓ सू᳓र्यस्य या᳓श्चाव᳓स्तादुपति᳓ष्ठन्त आ᳓पः ।  
@@ -202,7 +202,7 @@ You all that are stationed here from old and you that are new, Yama has given hi
 अथ तृतीयामाह— अग्न इति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ᳓ग्ने य᳓त्ते दिवि᳓ व᳓र्चᳶ पृथिव्याय्ँ᳓य᳓दो᳓षधीषु [15]  अप्सु᳓ वा यजत्र ।  
 ये᳓नान्त᳓रिक्षमुर्वा᳙तत᳓न्थ त्वेष᳓स्स᳓ भानु᳓रर्णवो᳓ नृच᳓क्षाः ।  

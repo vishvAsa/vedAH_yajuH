@@ -3,7 +3,7 @@ title: ०६  आज्यभागयोः पुरोनुवाक्य�
 unicode_script: devanagari
 
 ---
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अग्नि᳓र् वृत्रा᳓णि जङ्घनत् ।  
 द्रविणस्यु᳓र् विपन्य᳓या ।  

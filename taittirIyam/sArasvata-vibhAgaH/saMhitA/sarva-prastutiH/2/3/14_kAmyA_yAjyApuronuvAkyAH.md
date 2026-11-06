@@ -176,7 +176,7 @@ Lot not the friend of such as thou come to harm.
 6तत्रैव याज्या - या त इति त्रिष्टुप् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 या᳓ ते धा᳓मानि दिवि᳓ या᳓ पृथिव्याय्ँ᳓ या᳓ प᳓र्वतेष्वो᳓षधीष्वप्सु᳓ ।   
 ते᳓भिर्नो वि᳓श्वैः सुम᳓ना अ᳓हेडन्रा᳓जन्त्सोम प्र᳓ति हव्या᳓ गृभाय ।
@@ -350,7 +350,7 @@ Agni and Soma, waxing great through prayer, Ye made broad room for the sacrifice
 11।अथ याज्याविकल्पः - अग्नीषोमा हविष इति त्रिष्टुप् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ᳓ग्नीषोमा हवि᳓षᳶ प्र᳓स्थितस्य वीत᳓म् [52]  ह᳓र्यतव्ँवृषणा जुषे᳓थाम् ।   
 सुश᳓र्माणा स्व᳓वसा हि᳓ भूत᳓म᳓था धत्तय्ँय᳓जमानाय शय्ँ᳓योः᳓ ।
@@ -493,7 +493,7 @@ Highest king of Brahmans, O lord of prayer, Hearkening to us with help do thou s
 15तत्रैव याज्या - स इज्जनेनेति जगती ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 स᳓ इ᳓ज्ज᳓नेन स᳓ विशा᳓ स᳓ ज᳓न्मना स᳓ पुत्रै᳓र्वा᳓जम्भरते ध᳓ना नृ᳓भिः ।  
 देवा᳓नाय्ँयᳶ᳓ पित᳓रमावि᳓वासति [53]  श्रद्धा᳓मना हवि᳓षा ब्र᳓ह्मणस्प᳓तिम् ।
@@ -700,7 +700,7 @@ Be auspicious to our bipeds, to our quadrupeds.
 21'यो राजन्य आनुजावरस्स्यात्तस्मा एतमैन्द्रमानुषूकमेकादशकपालं निर्वपेत् ... बुध्नवती अग्रवती याज्यानुवाक्ये भवतः' इत्यस्याः पुरोनुवाक्या - बुध्नादग्रमङ्गिरोभिरिति त्रिष्टुप् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 बुध्ना᳓द᳓ग्रम᳓ङ्गिरोभिर्गृणानो᳓ वि᳓ प᳓र्वतस्य दृँहिता᳓न्यैरत् ।  
 रुज᳓द्रो᳓धाँसि कृत्रि᳓माण्येषाँ सो᳓मस्य ता᳓ म᳓द इ᳓न्द्रश्चकार ।
@@ -727,7 +727,7 @@ From the depth to the top, sung by the Angirases, He moved asunder the firm plac
 22तत्रैव याज्या - बुध्नादग्रेण विमिमायेति त्रिष्टुप् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 बुध्ना᳓द᳓ग्रेण वि᳓ मिमाय मा᳓नैर्व᳓ज्रेण खा᳓न्यतृणन्नदी᳓नाम् ।   
 वृ᳓थासृजत्पथि᳓भिर्दीर्घयाथै᳓स्सो᳓मस्य ता᳓ म᳓द इ᳓न्द्रश्चकार ॥ [55]  
@@ -754,7 +754,7 @@ From the depth with the top he meted with measures, With the thunderbolt he crus
 23अथोपहोमादिष्वन्यत्र विनियोगा द्रष्टव्याः - प्र यो जज्ञे इति त्रिष्टुप् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प्र᳓ यो᳓ जज्ञे᳓ विद्वाँ᳓ अस्य᳓ ब᳓न्धुव्ँवि᳓श्वानि देवो᳓ ज᳓निमा विवक्ति ।  
 ब्र᳓ह्म ब्र᳓ह्मण उ᳓ज्जभार म᳓ध्यान्नीचा᳓दुच्चा᳓ स्वध᳓याभि᳓ प्र᳓ तस्थौ ।
@@ -821,7 +821,7 @@ From the depth be hath won to the top with his race, Whose deity is Brhaspati, t
 25तत्रैव याज्या - बुध्नाद्यो अग्रमिति त्रिष्टुप् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 बुध्ना᳓द्यो᳓ अ᳓ग्रमभ्य᳓र्त्यो᳓जसा बृ᳓हस्प᳓तिमा᳓ विवासन्ति देवाः᳓ ।  
 भिन᳓द्वलव्ँ᳓वि᳓ पु᳓रो दर्दरीति क᳓निक्रदत्सु᳓वरपो᳓ जिगाय ॥ [56]  

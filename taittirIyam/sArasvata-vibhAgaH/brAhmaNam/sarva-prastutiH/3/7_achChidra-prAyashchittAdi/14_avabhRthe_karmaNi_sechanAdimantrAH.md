@@ -130,7 +130,7 @@ unicode_script: devanagari
 इन्द्रस्य, विश्वेषां देवानां, इति विशेषौ ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वयँ᳓ सोम व्रते᳓ त᳓व ।  
 म᳓नस्तनू᳓षु पि᳓प्रतः ।  

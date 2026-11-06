@@ -146,7 +146,7 @@ I summon for thee the sacrifices of the wives, O offering,
 I take thy I offering and sacrificial utterance.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 पशू᳓न्त् सुत᳓म् पुरोडा᳓शान्त्  
 स᳓वनान्य् आ᳓+उ᳓त᳓ यज्ञ᳓म् ।  

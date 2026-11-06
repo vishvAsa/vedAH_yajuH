@@ -72,7 +72,7 @@ In the case of a Rajanya let him repeat the Trcas thrice three other sorts of me
 
 ### १५त्वम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प᳓ञ्च-दशा᳓नु ब्रूयाद् राजन्य᳙स्य ।  
 पञ्चदशो᳓ वै᳓ राजन्यः᳙ ।  

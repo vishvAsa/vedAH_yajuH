@@ -1023,7 +1023,7 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 उदाहृतेपु मन्त्रेषु प्रथमामृचमाह—   १९५१ द्रप्सश्चस्कन्देति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 द्रप्स᳓श्चस्कन्द पृथिवी᳓म᳓नु द्या᳓मिम᳓ञ्च यो᳓निम᳓नु य᳓श्च पू᳓र्वः ।  
 तृती᳓यय्ँयो᳓निम᳓नु सञ्च᳓रन्तन्द्रप्स᳓ञ्जुहोम्य᳓नु सप्त᳓ [40] हो᳓त्राः ।
@@ -1091,7 +1091,7 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 कल्पः—“समित्स्रवन्तीति शतातङ्क्यनां दघ्न मधुमिश्रेण परुषशिरः पूरयति” इति ।   पाठस्तु— समित्स्रवन्तीति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 स᳓मि᳓त्स्रवन्ति सरि᳓तो न᳓ धे᳓नाः ।  
 अन्त᳓र्हृदा᳓ म᳓नसा पूय᳓मानाः ।  
@@ -1119,7 +1119,7 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 कल्पः—“तस्मिन्त्सुपर्णो मधुत्कुलायीति पुरुषशिर आदाय” इति ।    पाठस्तु— तस्मिन्त्सुपर्ण इति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 त᳓स्मिन्त्सुपर्णो᳓ मधुकृ᳓त्कुलायी᳓ भ᳓जन्नास्ते म᳓धु देव᳓ताभ्यः ।  
 त᳓स्यासते ह᳓रयस्सप्त᳓ ती᳓रे स्वधा᳓न्दु᳓हाना अमृ᳓तस्य धा᳓राम् ॥ [41]  

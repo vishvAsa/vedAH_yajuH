@@ -3,7 +3,7 @@ title = "४७ ईशानस् सर्वभूतानाम्"
 unicode_script = "devanagari"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 ई᳓शा᳓न᳓स् स᳓र्वविद्यानाम्  
 ई᳓श्व᳓र᳓स् स᳓र्वभूतानां  

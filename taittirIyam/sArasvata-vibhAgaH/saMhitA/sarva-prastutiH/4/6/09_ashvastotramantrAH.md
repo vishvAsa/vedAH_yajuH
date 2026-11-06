@@ -16,7 +16,7 @@ title = "०९ अश्वस्तोत्रमन्त्राः"
 तत्र प्रथमामृचमाह— ये बाजिनमिति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 ये᳓ वाजि᳓नम्परिप᳓श्यन्ति पक्वय्ँ᳓य᳓ ईमाहु᳓स्सुरभि᳓र्नि᳓र्हरे᳓ति ।  
 ये᳓ चा᳓र्वतो माँसभिक्षा᳓मुपा᳓सत उतो᳓ ते᳓षामभि᳓गूर्तिर्न इन्वतु ।  
@@ -60,7 +60,7 @@ title = "०९ अश्वस्तोत्रमन्त्राः"
 अथ तृतीयामृचमाह– निष्क्रमणमिति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 निक्र᳓मणन्निष᳓दनव्ँविव᳓र्तनय्ँय᳓च्च प᳓ड्बीशम᳓र्वतः ।  
 य᳓च्च पपौ᳓ य᳓च्च घासि᳓म् [43]  जघा᳓स स᳓र्वा ता᳓ ते अ᳓पि देवे᳓ष्वस्तु ।  
@@ -509,7 +509,7 @@ Was bei deiner Ermüdung durch das Uebermass des Antreibens, oder durch die Fers
 सप्तमीमाह चतुस्त्रिँशदिति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 च᳓तुस्त्रिँशद्वाजि᳓नो देव᳓बन्धोर्व᳓ङ्क्रीर᳓श्वस्य स्व᳓धितिस्स᳓मेति ।  
 अ᳓च्छिद्रा गा᳓त्रा वयु᳓ना कृणोत प᳓रुष्परुरनुघु᳓ष्या वि᳓ शस्त ।  
@@ -560,7 +560,7 @@ Was bei deiner Ermüdung durch das Uebermass des Antreibens, oder durch die Fers
 अथ नवमी (मृच)माह— मा त्वेति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 मा᳓ त्वा तपत् [45]  प्रिय᳓ आत्मा᳓पिय᳓न्तम्मा᳓ स्व᳓धितिस्तनु᳓व आ᳓ तिष्ठिपत्ते ।  
 मा᳓ ते गृध्नु᳓रविशस्ता᳓तिहा᳓य छिद्रा᳓ गा᳓त्राण्यसि᳓ना मि᳓थू कः ।  
@@ -584,7 +584,7 @@ Was bei deiner Ermüdung durch das Uebermass des Antreibens, oder durch die Fers
 अथ दशमी (मृच) माह– न वा उवेतदिति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 न᳓ वा᳓ उ वेत᳓न्म्रियसे न᳓ रिष्यसि देवाँ᳓ इ᳓देषि पथि᳓भिस्सुगे᳓भिः ।  
 ह᳓री ते यु᳓ञ्जा पृ᳓षती अभूतामु᳓पास्थाद्वाजी᳓ धुरि᳓ रा᳓सभस्य ।  
@@ -610,7 +610,7 @@ Was bei deiner Ermüdung durch das Uebermass des Antreibens, oder durch die Fers
 अथैकादशी[ मृच ]माह– सुगव्यमिति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 सुग᳓व्यन्नो वाजी᳓ स्व᳓श्वियम्पुँसᳶ᳓ पुत्राँ᳓ उत᳓ विश्वापु᳓षँ रयि᳓म् ।  
 अनागास्त्व᳓न्नो अ᳓दितिᳵ कृणोतु क्षत्र᳓न्नो अ᳓श्वो वनताँ हवि᳓ष्मान् ॥ [46]

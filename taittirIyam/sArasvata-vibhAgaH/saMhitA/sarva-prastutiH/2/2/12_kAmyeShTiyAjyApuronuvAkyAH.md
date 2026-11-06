@@ -106,7 +106,7 @@ O Prajapati.
 4अथ तत्रैव याज्याविकल्पः - स वेद पुत्र इतीयं जगती ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 स᳓ वेद पुत्रᳶ᳓ पित᳓रँ स᳓ मात᳓रँ स᳓ सूनु᳓र्भुवत्स᳓ भुवत्पु᳓नर्मघः ।   
 स᳓ द्या᳓मौ᳓र्णोदन्त᳓रिक्षँ स᳓ सु᳓वस्स᳓ वि᳓श्वा भु᳓वो अभवत्स᳓ आ᳓ऽभवत् ।
@@ -285,7 +285,7 @@ To help us I summon The golden-handed Savitr; He as a god knoweth the place.
 10तत्रैव याज्या - वाममद्येति त्रिष्टुप् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वाम᳓मद्य᳓ सवितर्वाम᳓मु श्वो᳓ दिवे᳓दिवे वाम᳓मस्म᳓भ्यँ सावीः ।   
 वाम᳓स्य हि᳓ क्ष᳓यस्य देव भू᳓रेरया᳓ धिया᳓ वामभा᳓जस्स्याम ।
@@ -430,7 +430,7 @@ May I be in companionship with the friend pleasant within, Who being drunk shall
 14तत्रैव याज्या - आपान्तमन्युरिति त्रिष्टुप् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 आ᳓पान्तमन्युस्तृप᳓लप्रभर्मा धु᳓निश्शि᳓मीवाञ्छ᳓रुमाँ ऋजीषी᳓ ।  
 सो᳓मो वि᳓श्वान्यतसा᳓ व᳓नानि ना᳓र्वा᳓गि᳓न्द्रम्प्रतिमा᳓नानि देभुः ।
@@ -460,7 +460,7 @@ Giving spirit when drunken, with swift onset, Impetuous, strong, bearing arrows,
 15(अथ सोमवामी ह वा अन्यो भवत्यन्यस्सोमाति पवितः सयस्सोमातिपवितस्स्यात्) 'तस्मा एतं सोमेन्द्रं श्यामाकं चरुं निर्वपेत्' इत्यस्यैषा पुरोनुवाक्या - प्र सुवान इति त्रिष्टुप् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प्र᳓ (66)  सुवान᳓स्सो᳓म ऋतयु᳓श्चिकेते᳓न्द्राय ब्र᳓ह्म जम᳓दग्निर᳓र्चन् ।   
 वृ᳓षा यन्ता᳓सि श᳓वसस्तुर᳓स्यान्त᳓र्यच्छ गृणते᳓ धर्त्र᳓न्दृँह ।
@@ -488,7 +488,7 @@ Soma [3] the righteous as pressed becometh visible, Jamadagni singing the hymn t
 16तत्रिव याज्या - सबाध इति त्रिष्टुप् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 सबा᳓धस्ते म᳓दञ्च शुष्मय᳓ञ्च ब्र᳓ह्म न᳓रो ब्रह्मकृ᳓तस्सपर्यन् ।   
 अर्को᳓ वा य᳓त्तुर᳓ते सो᳓मचक्षास्त᳓त्रे᳓दि᳓न्द्रो दधते पृत्सु᳓ तुर्या᳓म् ।  
@@ -519,7 +519,7 @@ In unison men that make prayers offer to thee this prayer That giveth delight an
 17न्यादितेषां पुरोनुवाक्याविकल्पेन उत्तरत्र ['यस्य हविर्निरुप्तं पुरस्तात्' इत्यादीनाम्नातानां त्रयाणां हविषामन्तिमस्य हविषः पुरोनुवाक्यायाज्ये पुरोनुवाक्या च विकल्पेन उत्तरास्तिस्रः ।] वषडिति त्रिष्टुप् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 व᳓षट्ते विष्णवास᳓ आ᳓ कृणोमि त᳓न्मे जुषस्व शिपिविष्ट हव्य᳓म् । (67)  
 व᳓र्धन्तु त्वा सुष्टुत᳓यो गि᳓रो मे यूय᳓म्पात स्वस्ति᳓भिस्स᳓दा नः ।
@@ -546,7 +546,7 @@ From the mouth to thee, O Visnu, do I utter the Vasat call; Do thou accept my ob
 18प्र तत्त इति त्रिष्टुप् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प्र᳓ त᳓त्ते अद्य᳓ शिपिविष्ट ना᳓मार्य᳓श्शँसामि वयु᳓नानि विद्वा᳓न् ।   
 त᳓न्त्वा गृणामि तव᳓सम᳓तवीयान्क्ष᳓यन्तमस्य᳓ र᳓जसᳶ पराके᳓ ।
@@ -574,7 +574,7 @@ That name of thee, the noble, to-day I celebrate, O Śipivista, knowing the ways
 19किमित्त इति त्रिष्टुबेव ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 कि᳓मि᳓त्ते विष्णो परिच᳓क्ष्यम्भूत्प्र᳓य᳓द्ववक्षे᳓ शिपिविष्टो᳓ अस्मि ।  
 मा᳓ व᳓र्पो अस्म᳓द᳓पगूह एत᳓द्य᳓दन्य᳓रूपस्समिथे᳓ बभू᳓थ । (68)
@@ -629,7 +629,7 @@ O Agni, give to the giver Wealth of heroes in abundance; Quicken us to richness 
 21तत्रैव याज्या - दा न इति जगती ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 दा᳓ नो अग्ने शति᳓नो दा᳓स्सहस्रि᳓णो दुरो᳓ न᳓ वा᳓जँ श्रु᳓त्या अ᳓पावृधि ।   
 प्रा᳓ची द्या᳓वापृथिवी᳓ ब्र᳓ह्मणा कृधि सु᳓वर्ण᳓ शुक्र᳓मुष᳓सो वि᳓दिद्युतुः ।
@@ -1164,7 +1164,7 @@ O Vayu, a hundred of bay (steeds) Worthy of nourishment do thou yoke; Or let the
 28तत्रैव याज्या - प्र याभिरिति त्रिष्टुप् । अच्छेति प्रथमपादान्तः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प्र᳓ या᳓भिर्या᳓सि दाश्वाँ᳓सम᳓च्छा नियु᳓द्भिर्वायविष्ट᳓ये दुरोणे᳓ ।  
 नि᳓ नो रयिँ᳓ सुभो᳓जसय्ँयुवेह᳓ नि᳓ वीर᳓वद्ग᳓व्यम᳓श्वियञ्च रा᳓धः ।

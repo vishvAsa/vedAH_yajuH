@@ -908,7 +908,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 तत्रैव याज्यामाह— अचित्ती यदिति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ᳓चित्ती य᳓च्चकृमा᳓ दै᳓व्ये ज᳓ने दीनै᳓र्द᳓क्षैᳶ प्र᳓भूती पूरुषत्व᳓ता ।  [43]  
 देवे᳓षु च सवितर्मा᳓नुषेषु च त्व᳓न्नो अ᳓त्र सुवताद᳓नागसः ।  
@@ -1006,7 +1006,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 तत्रैव याज्यामाह—  १८५५ शुक्रं ते अन्यदिति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 शुक्र᳓न्ते अन्य᳓द्यजत᳓न्ते अन्य᳓त् [44]  वि᳓षुरूपे अ᳓हनी द्यौ᳓रिवासि ।  
 वि᳓श्वा हि᳓ माया᳓ अ᳓वसि स्वधावो भद्रा᳓ ते पूषन्निह᳓ राति᳓रस्तु ।  
@@ -1040,7 +1040,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 अथ मारुतं सप्तकपालमित्यस्य पुरोनुवाक्यामाह— तेऽवर्धन्तेति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 ते᳓ऽवर्धन्त स्व᳓तवसो महित्वना᳓ऽऽना᳓कन्तस्थु᳓रुरु᳓ चक्रिरे स᳓दः ।  
 वि᳓ष्णुर्य᳓द्धा᳓वद्वृ᳓षणम्मदच्यु᳓तव्ँव᳓यो न᳓ सीदन्न᳓धि बर्हि᳓षि प्रिये᳓ ।
@@ -1151,7 +1151,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 तत्रैव याज्यामाह— प्र पूर्वजे पितरेति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प्र᳓ पूर्वजे᳓ पित᳓रा न᳓व्यसीभिर्गीर्भिᳵ᳓ कृणुध्वँ स᳓दने ऋत᳓स्य ।  
 आ᳓ नो द्यावापृथिवी दै᳓व्येन ज᳓नेन यातम्म᳓हि वाव्ँव᳓रूथम् ।  

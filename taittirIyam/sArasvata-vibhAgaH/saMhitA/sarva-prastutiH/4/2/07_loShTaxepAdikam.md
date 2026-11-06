@@ -425,7 +425,7 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 अत चतुर्थीमाह— इदभूर्जमिति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 इ᳓षमू᳓र्जमह᳓मित᳓ आ᳓ [29]  दद ऋत᳓स्य धा᳓म्नो अमृ᳓तस्य यो᳓नेः ।  
 आ᳓ नो गो᳓षु विशत्वौ᳓षधीषु ज᳓हामि सेदि᳓म᳓निराम᳓मीवाम् ।  
@@ -657,7 +657,7 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 अथोत्तरां त्रिष्टुभमाह— सं ते पयाँ सीति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 स᳓न्ते प᳓याँसि स᳓मु यन्तु वा᳓जास्सव्ँ᳓वृ᳓ष्णियान्यभिमातिषा᳓हः ।  
 आप्या᳓यमानो अमृ᳓ताय सोम दिवि᳓ श्र᳓वाँस्युत्तमा᳓नि धिष्व ॥ [32]  

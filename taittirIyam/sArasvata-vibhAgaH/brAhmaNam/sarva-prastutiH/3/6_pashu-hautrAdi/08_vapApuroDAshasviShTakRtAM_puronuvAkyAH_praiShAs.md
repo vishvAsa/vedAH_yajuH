@@ -3,7 +3,7 @@ title: ०८ वपापुरोडाशस्विष्टकृतां
 unicode_script: devanagari
 
 ---
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 आ᳓वृत्रहणा वृत्रह᳓भिश्शु᳓ष्मैः ।   
 इ᳓न्द्र यात᳓न्न᳓मोभिरग्ने अर्वा᳓क् ।  

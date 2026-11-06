@@ -5,7 +5,7 @@ unicode_script: devanagari
 ---
 ## सोमादिब्राह्मणम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 उ᳓दस्थाद्देव्य᳓दितिर्विश्वरूपी᳓ ।  
 आ᳓युर्यज्ञ᳓पतावधात् ।   
