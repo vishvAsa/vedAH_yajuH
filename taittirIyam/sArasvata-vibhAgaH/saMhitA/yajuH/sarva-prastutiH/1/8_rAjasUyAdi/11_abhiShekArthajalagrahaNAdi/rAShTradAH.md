@@ -1,0 +1,72 @@
++++
+title = "राष्ट्रदाः"
++++
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
+
+आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
+ऊ᳓र्जस्वती राजसू᳓याय चि᳓तानाः ।    
+या᳓भिर् मित्रा᳓-व᳓रुणाव् **अभ्य᳓षिञ्चन्** +++(देवाः)+++,  
+या᳓भिर् इ᳓न्द्रम् **अ᳓नयन्न्** अ᳓त्य् अ᳓रातीः  ॥
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+
+<details open><summary>मूलम्</summary>
+
+आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
+याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तादृशीर्व **आपः** व्यापनस्वभावाः **देवीः** दीप्तिमतीः **मधुमतीः** मधुरसवतीः **अगृह्णन्** देवाः, ऋत्वीजो वा । **ऊर्जस्वतीः** बलवतीः **राजसूयाय** राजसूयार्थं राजसूये अभिषेकार्थम् **अगृह्णन् चितानाः** चिन्तयन्तीः राजसूयाभिनिष्पत्त्य्-उपाय-चिन्ताव्यापृताः । यद्वा - **राजसूयाय चिताना** देवा **अगृह्णन्** ।  
+राजेह सूयते राजा वानेन सूयते इति **राजसूयः** क्रतुः, 'राजसूयसूर्य' इति क्यपि निपात्यते ।  
+चिती सञ्चेतने, चुरादिरनुदात्तेत्, 'बहुलमन्यत्रापि' इति णिलुक्, 'बहुलं छन्दसि' इति शपो लुक्, लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  
+याभिर् युष्माभिर् **मित्रावरुणौ** कर्मस्व् **अभ्यषिञ्चन्** देवाः, याभिश्च युष्माभिर् **इन्द्रम् अभ्यषिञ्चन्** देवाः, **अरातींश् चात्यनयन्** इन्द्रं सर्वान् शत्रूनतीत्योपरीन्द्रं स्थापितवन्तः ॥
+</details>
+
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
+</details>
+
+<details><summary>Keith</summary>
+
+Ye are givers of the kingdom; give ye the kingdom, hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+रा॒ष्ट्र॒दास्स्थ॑ रा॒ष्ट्रन्द॑त्त॒ स्वाहा॑॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
+</details>
