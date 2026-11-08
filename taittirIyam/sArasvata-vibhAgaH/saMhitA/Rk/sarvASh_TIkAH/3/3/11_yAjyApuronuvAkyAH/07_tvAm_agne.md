@@ -4,6 +4,14 @@ title = "07 त्वाम् अग्ने"
 +++
 
 
+<details><summary>Keith</summary>
+
+Thee, O Agni, the tribes of men praise,  
+Who knowest the Hotr's duty, discerning, best bestower of jewels,  
+Who art in secret yet, O happy one, seen by all,  
+Of impetuous spirit, a good sacrificer, brilliant with ghee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वाम॑ग्ने॒ मानु॑षीरीडते॒ विशो॑ होत्रा॒विदव्ँ॒विवि॑चिँ रत्न॒धात॑मम् ।  

@@ -4,6 +4,14 @@ title = "52 कुहूर् देवानाम्"
 +++
 
 
+<details><summary>Keith</summary>
+
+Kuhu, lady of the gods and of immortality,  
+Worthy of invocation, may she be aware of the oblation  
+To the giver may she assign much good fortune,  
+To the wise may she grant increase of wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कु॒हूर्दे॒वाना॑म॒मृत॑स्य॒ पत्नी॒ हव्या॑ नो अ॒स्य ह॒विष॑श्चिकेतु ।   

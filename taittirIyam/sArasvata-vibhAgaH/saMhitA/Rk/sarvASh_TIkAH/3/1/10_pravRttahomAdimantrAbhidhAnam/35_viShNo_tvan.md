@@ -4,6 +4,11 @@ title = "35 विष्णो त्वन्"
 +++
 
 
+<details><summary>Keith</summary>
+
+O Visnu, as our nearest, O mighty one, grant us protection; the streams dripping honey milk for thee the unfailing source.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विष्णो॒ त्वन्नो॒ अन्त॑म॒श्शर्म॑ यच्छ सहन्त्य ।   

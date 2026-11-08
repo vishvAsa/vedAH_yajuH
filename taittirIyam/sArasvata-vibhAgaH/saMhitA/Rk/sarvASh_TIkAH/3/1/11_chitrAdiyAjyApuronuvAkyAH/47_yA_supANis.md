@@ -4,6 +4,14 @@ title = "47 या सुपाणिस्"
 +++
 
 
+<details><summary>Keith</summary>
+
+To her that hath fair hands, fair fingers,  
+Prolific, and mother of many,  
+To her the queen Sinivali,  
+Pour the offering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 या सु॑पा॒णिस्स्व॑ङ्गु॒रिस्सु॒षूमा॑ बहु॒सूव॑री ।   

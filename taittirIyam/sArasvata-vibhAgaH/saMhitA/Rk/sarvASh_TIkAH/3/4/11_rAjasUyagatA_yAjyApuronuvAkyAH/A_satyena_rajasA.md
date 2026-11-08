@@ -1,6 +1,14 @@
 +++
 title = "आ सत्येन रजसा"
 +++
+<details><summary>Keith</summary>
+
+Coming with true light,  
+Placing the mortal and the immortal,  
+With golden car Savitr  
+The god advanceth gazing on the worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ स॒त्येन॒ रज॑सा॒ वर्त॑मानो निवे॒शय॑न्न॒मृत॒म्मर्त्य॑ञ्च ।   

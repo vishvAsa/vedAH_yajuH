@@ -4,6 +4,12 @@ title = "07 यन् म"
 +++
 
 
+<details><summary>Keith</summary>
+
+Whatever fault has been mine,  
+Agni hath put that right, all-knower, he who belongeth to all men;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यन्म॑ आ॒त्मनो॑ मि॒न्दाभू॑द॒ग्निस्तत्पुन॒राहा॑र्जा॒तवे॑दा॒ विच॑र्षणिः ।

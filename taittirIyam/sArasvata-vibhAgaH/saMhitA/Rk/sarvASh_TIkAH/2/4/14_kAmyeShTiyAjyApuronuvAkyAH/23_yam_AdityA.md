@@ -4,6 +4,14 @@ title = "23 यम् आदित्या"
 +++
 
 
+<details><summary>Keith</summary>
+
+The drop which the Adityas make to swell,  
+The imperishable which the imperishable drink,  
+With that may king Varuna, Brhaspati,  
+The guardians of the world make us to swell.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यमा॑दि॒त्या अँ॒शुमा॑प्या॒यय॑न्ति॒ यमक्षि॑त॒मक्षि॑तय॒ᳶ पिब॑न्ति ।  
@@ -18,10 +26,4 @@ title = "23 यम् आदित्या"
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यमंशुं रश्मिं आत्मीयरश्मिभूतं सोमम् आदित्या आप्याययन्ति वर्धयन्ति, यं च सोममक्षितमविच्छिन्नं सर्वेष्वपि पर्वसु अक्षितयोऽक्षीणाः पित्रादयः पिबन्ति, तेन सोमेन सह राजा देवराजः वरुणश्च बृहस्मतिश्चाप्याययन्तु इममक्षीणं यजमानं वर्धयन्तु भुवनस्य भूतजातस्य गोपाः प्रवृत्तिप्रदाः ॥
-</details>
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-प्राच्या॑न्दि॒शि त्वमि॑न्द्रासि॒ राजो॒तोदी॑च्याव्ँवृत्रहन्वृत्र॒हासि॑ ।   
-यत्र॒ यन्ति॑ स्रो॒त्यास्तत् [44] जि॒तन्ते॑  दक्षिण॒तो वृ॑ष॒भ ए॑धि॒ हव्यः॑ ।
 </details>

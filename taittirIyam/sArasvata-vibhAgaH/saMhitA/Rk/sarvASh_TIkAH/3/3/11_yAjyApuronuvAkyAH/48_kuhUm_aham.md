@@ -4,6 +4,14 @@ title = "48 कुहूम् अहम्"
 +++
 
 
+<details><summary>Keith</summary>
+
+I invoke at the sacrifice Kuhu the fortunate,  
+Who accomplisheth her work, the easy to invoke;  
+May she give us the fame of our fathers;  
+To thee, O goddess, let us offer with oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कु॒हूम॒हँ सु॒भगाव्ँ॑ विद्म॒नाप॑सम॒स्मिन्य॒ज्ञे सु॒हवा॑ञ्जोहवीमि ।  

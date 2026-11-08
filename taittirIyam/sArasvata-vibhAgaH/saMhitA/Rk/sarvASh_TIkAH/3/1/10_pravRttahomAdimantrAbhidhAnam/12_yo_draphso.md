@@ -4,6 +4,11 @@ title = "12 यो द्रप्सो"
 +++
 
 
+<details><summary>Keith</summary>
+
+Together for thee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो द्र॒प्सो अँ॒शुᳶ प॑ति॒तᳶ पृ॑थि॒व्याम्प॑रिवा॒पात् [32]  पु॒रो॒डाशा॑त्कर॒म्भात् ।   

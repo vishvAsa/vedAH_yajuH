@@ -4,6 +4,15 @@ title = "05 ऋचा स्तोमम्"
 +++
 
 
+<details><summary>Keith</summary>
+
+Rich in cattle, in sheep, O Agni, in horses is the sacrifice;  
+With manly companions, ever unalterable;  
+Rich in food is this, O Asura, in offspring,  
+Enduring, wealth, deep based and rich in houses.  
+C Swell up.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒चा स्तोमँ॒ सम॑र्धय गाय॒त्रेण॑ रथन्त॒रम् ।  

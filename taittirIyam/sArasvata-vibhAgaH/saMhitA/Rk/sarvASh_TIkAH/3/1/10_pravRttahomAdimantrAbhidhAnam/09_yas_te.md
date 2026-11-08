@@ -4,6 +4,14 @@ title = "09 यस् ते"
 +++
 
 
+<details><summary>Keith</summary>
+
+The drop that falleth of them, that shoot,  
+Shaken by the arms, from the womb of the pressing-planks,  
+Or from the filter of the Adhvaryu,  
+Over it I say Hail! and offer it to Indra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्ते॑ द्र॒प्सस्स्कन्द॑ति॒ यस्ते॑ अँ॒शुर्बा॒हुच्यु॑तो धि॒षण॑योरु॒पस्था॑त् ।   

@@ -4,6 +4,13 @@ title = "02 जुष्टो वाचो"
 +++
 
 
+<details><summary>Keith</summary>
+
+By Agni may one win wealth  
+And abundance day by day,  
+Glory, full of heroes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जुष्टो॑ वा॒चो भू॑यास॒ञ्जुष्टो॑ वा॒चस्पत॑ये॒ देवि॑ वाक् ।   

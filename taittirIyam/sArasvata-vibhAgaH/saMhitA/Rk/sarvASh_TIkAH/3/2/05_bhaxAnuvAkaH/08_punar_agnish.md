@@ -6,8 +6,6 @@ title = "08 पुनर् अग्निश्"
 
 <details><summary>Keith</summary>
 
-Whatever fault has been mine,  
-Agni hath put that right, all-knower, he who belongeth to all men;  
 Agni hath given back the eye,  
 Indra and Brhaspati have given it back;  
 Do ye two, O Aśvins,  

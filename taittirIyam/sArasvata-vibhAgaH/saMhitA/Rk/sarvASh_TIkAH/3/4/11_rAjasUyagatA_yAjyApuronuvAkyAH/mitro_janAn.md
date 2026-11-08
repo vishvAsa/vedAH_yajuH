@@ -3,6 +3,14 @@ title = "मित्रो जनान्"
 
 +++
 
+<details><summary>Keith</summary>
+
+Mitra stirreth men, the wise one,  
+Mitra supporteth earth and sky;  
+Mitra regardeth men with unwinking (eye);  
+To the true one, let us offer an oblation rich in ghee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒त्रो जना॑न्यातयति प्रजा॒नन्मि॒त्रो दा॑धार पृथि॒वीमु॒त द्याम् ।   
