@@ -11,3 +11,8 @@ title = "३३-विधानम्"
 
 There is a Trayastrinśa (Stoma), for support.
 </details>
+
+<details><summary>मूलम्</summary>
+
+त्रय॑स्त्रिँशो भ॑वति प्रति॒ष्ठित्यै॒ ।
+</details>

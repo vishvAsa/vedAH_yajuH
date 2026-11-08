@@ -2,6 +2,7 @@
 title = "ज्योतिर् गौर् आयुः"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्यो᳓तिर् गौ᳓र् आ᳓युर् इ᳓ति त्र्यहो᳓ भवति ।
@@ -12,6 +13,11 @@ unicode_script = "devanagari"
 The three days are the Jyotis, Go, and Ayus.
 </details>
 
+<details><summary>मूलम्</summary>
+
+ज्योति॒र् गौरायु॒रिति॑ त्र्य॒हो भ॑वति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वा᳓व᳓ ज्यो᳓तिर्, अन्त᳓रिक्षङ् गौ᳓र्, असा᳓व् आ᳓युः ।
@@ -20,6 +26,11 @@ The three days are the Jyotis, Go, and Ayus.
 <details><summary>Keith</summary>
 
 The Jyotis is this (earth), the Go the atmosphere, the Ayus yonder (sky); verily they mount upon these worlds.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒यव्ँ वाव ज्योति॑र॒न्तरि॑क्ष॒ङ् गौर॒सावायुः॑ ।
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>

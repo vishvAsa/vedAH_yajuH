@@ -15,6 +15,11 @@ unicode_script = "devanagari"
 These (Stomas) being sung together make up the Viraj, and two verses are redundant; the Gostoma has one too many, and the Ayustoma one too few.
 </details>
 
+<details><summary>मूलम्</summary>
+
+ते सँ॑स्तुता वि॒राज॑म॒भि स॑म्पद्यन्ते । द्वे च॒ ऋचा॒वति॑रिच्येते । एक॑या॒ गौरति॑रिक्ता । एक॒याऽऽयुरू॑नः [32] ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्गो᳓ वै᳓ लोको᳓ ज्यो᳓तिर्, +++(यत)+++ ऊ᳓र्ग्+++(=अन्नं)+++ विरा᳓ट् ।
@@ -23,4 +28,9 @@ These (Stomas) being sung together make up the Viraj, and two verses are redunda
 <details><summary>Keith</summary>
 
 The Jyotistoma is the world of heaven, the Viraj is strength; verily they win strength.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सु॒व॒र्गो वै लो॒को ज्योति॒र्यदू॒र्ग्वि॒राट् । ऊर्ज॑मे॒वाव॑ रुन्धते ।
 </details>

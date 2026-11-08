@@ -13,6 +13,11 @@ unicode_script = "devanagari"
 There is an Ekavinśa (Stoma), for support; verily also they place radiance in themselves.
 </details>
 
+<details><summary>मूलम्</summary>
+
+एकविँ॒शो भ॑वति॒ प्रति॑ष्ठित्या॒ अथो॒ रुच॑मे॒वात्मन्द॑धते ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिणवो᳓ +++(शाक्वरसामा उक्थ्यः)+++ भवति, वि᳓जित्यै ।
@@ -21,4 +26,9 @@ There is an Ekavinśa (Stoma), for support; verily also they place radiance in t
 <details><summary>Keith</summary>
 
 There is a Trinava (Stoma), for conquest.
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्रिण॒वो भ॑वति॒ विजि॑त्यै ।
 </details>

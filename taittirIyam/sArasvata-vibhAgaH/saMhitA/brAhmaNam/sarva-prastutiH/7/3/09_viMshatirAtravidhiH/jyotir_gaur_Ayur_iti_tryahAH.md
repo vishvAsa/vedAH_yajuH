@@ -1,6 +1,7 @@
 +++
 title = "ज्योति॒र् गौर् आयु॒र् इति॑ त्र्य॒हाः"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्यो᳓तिर् गौ᳓र् आ᳓युर् इ᳓ति त्र्यहा᳓ भवन्ति।
@@ -9,6 +10,11 @@ title = "ज्योति॒र् गौर् आयु॒र् इति�
 <details><summary>Keith</summary>
 
 There are Tryahas consisting of Jyotis, Go, and Ayus.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्योति॒र्गौरायु॒रिति॑ त्र्य॒हा भ॑वन्ति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -23,7 +29,7 @@ The Jyotis is this (earth), the Go the atmosphere, the Ayus yonder (sky); verily
 
 <details><summary>मूलम्</summary>
 
-ज्योति॒र्गौरायु॒रिति॑ त्र्य॒हा भ॑वन्ती॒यव्ँ वाव ज्योति॑र॒न्तरि॑क्ष॒ङ्गौर॒सावायु॑
+इ॒यव्ँ वाव ज्योति॑र॒न्तरि॑क्ष॒ङ्गौर॒सावायुः॑ ।
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>

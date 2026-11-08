@@ -25,6 +25,11 @@ unicode_script = "devanagari"
 Here is support, hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+इ॒ह धृति॒स्स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ वि᳓धृतिस् +++(स्यात्)+++ स्वा᳓हा।
@@ -35,6 +40,11 @@ Here is support, hail!
 Here is keeping apart, hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+इ॒ह विधृ॑ति॒स्स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ र᳓न्तिस्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वा᳓हा।
@@ -43,6 +53,11 @@ Here is keeping apart, hail!
 <details><summary>Keith</summary>
 
 Here is joy, hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒ह रन्ति॒स्स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -57,7 +72,7 @@ Here is delight, hail!'
 
 <details><summary>मूलम्</summary>
 
-इ॒ह धृति॒स्स्वाहे॒ह विधृ॑ति॒स्स्वाहे॒ह रन्ति॒स्स्वाहे॒ह रम॑ति॒स्स्वाहा॑
+इ॒ह रम॑ति॒स्स्वाहा॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
