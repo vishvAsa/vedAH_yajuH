@@ -3740,7 +3740,7 @@ Als unsre Väter, sie die frühern, alten, anfachten einst das heil'ge Feur, o A
 
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 य᳓दग्ने कव्यवाहन पितॄ᳓न्य᳓क्ष्यृतावृ᳓धः ।  
 प्र᳓ च हव्या᳓नि वक्ष्यसि देवे᳓भ्यश्च पितृ᳓भ्य आ᳓ ।

@@ -511,7 +511,7 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 कल्पः—“मधु वाता ऋतायत इति तिसृभिर्दध्ना मधुमिश्रेण कूर्ममभ्यज्य” इति ।   तत्र प्रथमामाह— मधु वाता इति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 म᳓धु वा᳓ता ऋतायते᳓ म᳓धु क्षरन्ति सि᳓न्धवः ।  
 मा᳓ध्वीर्नस्सन्त्वो᳓षधीः ।  
@@ -533,7 +533,7 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 अथ द्वितीयामाह— मधु नक्तमुतेति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 म᳓धु न᳓क्तमुतो᳓ष᳓सि म᳓धुमत्पा᳓र्थिवँ र᳓जः।  
 म᳓धु द्यौ᳓रस्तु नᳶ पिता᳓ ।
@@ -824,7 +824,7 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 कल्पः—“मही द्यौः पृथिवी च न इति पुरस्तात्स्वयमातृण्णायाः प्रत्यञ्चं जीवन्तं कूर्मं प्राङ्मुख उपदधाति” इति ।   पाठस्तु— मही द्यौरिति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 मही᳓ द्यौᳶ᳓ पृथिवी᳓ च न इमय्ँ᳓ यज्ञ᳓म्मिमिक्षताम् ।  
 पिपृता᳓न्नो भ᳓रीमभिः ।  
@@ -864,7 +864,7 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 कल्पः “तद्विष्णोः परमं पदमिति मुसलम्” इति ।   पाठस्तु— तद्विष्णोः परममिति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 त᳓द्वि᳓ष्णोः परम᳓म् [38]  पदँ᳓ स᳓दा पश्यन्ति सूर᳓यः ।  
 दिवी᳓व च᳓क्षुरा᳓ततम् ।  
@@ -1000,7 +1000,7 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 अथ द्वितीयामाह— युक्ष्वा हीति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 युक्ष्वा᳓ हि᳓ देवहू᳓तमाँ अ᳓श्वाँ अग्ने रथी᳓रिव ।  
 नि᳓ हो᳓ता पूर्व्य᳓स्सदः ।  

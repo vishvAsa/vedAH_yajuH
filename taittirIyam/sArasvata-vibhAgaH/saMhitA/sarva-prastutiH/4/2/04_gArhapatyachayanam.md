@@ -131,7 +131,7 @@ You all that are stationed here from old and you that are new, Yama has given hi
 कल्पः—“सं या वः प्रियास्तनुव इत्यूषान्सिकताश्चसँ सृज्य” इति।    पाठस्तु — सं या व इति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 सय्ँ᳓या᳓ वᳶ प्रिया᳓स्तनु᳓वस्स᳓म्प्रिया᳓ हृदयानि वः ।  
 
@@ -224,7 +224,7 @@ You all that are stationed here from old and you that are new, Yama has given hi
 अथ चतुर्थीमाह— पुरीष्यास इति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 पुरीष्या᳙सो अग्न᳓यᳶ प्रावणे᳓भिस्सजो᳓षसः ।  
 जुष᳓न्ताँ हव्य᳓मा᳓हुतमनमीवा᳓ इ᳓षो महीः᳓ ।  

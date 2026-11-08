@@ -7,7 +7,7 @@ title = "१३ साकमेधादियाज्यानुवाक्�
 २०-२१ विराट्  
 विश्वेदेवा ऋषयः
 चतुर्थकाण्डे तृतीयप्रपाठके त्रयोदशोऽनुवाकः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अग्नि᳓र्वृत्रा᳓णि जङ्घनद्द्रविणस्यु᳓र्विपन्य᳓या ।  
 स᳓मिद्धश्शुक्र᳓ आ᳓हुतः ॥  
@@ -396,7 +396,7 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 किम् अर्थं रात्रौ तज्-ज्वाला-दर्शनम् इति तद् उच्यते? - रुशद् धिंसकं सर्पादिकं दृशे मार्गे द्रष्टुं, तथा रात्रौ भोजन-वेलायां रूपे पुरतो निरूपिते पात्रे ऽरूक्षितं रूक्षोपलक्षितम् अक्षिकाद्युपद्रव-रहितम् अन्नम् आदृशे सर्वतो द्रष्टुम्।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 ै᳓सै᳓ना᳓नीकेन सुविद᳓त्रो अस्मे᳓ य᳓ष्टा देवाँ᳓ आ᳓यजिष्ठस्स्वस्ति᳓ ।  
 अ᳓दब्धो गोपा᳓ उत᳓ नᳶ परस्पा᳓ अ᳓ग्ने द्युम᳓दुत᳓ रेव᳓द्दिदीहि ।
@@ -483,7 +483,7 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 कीदृशान् देवान्, समानांस् त्वया तुल्यान् उशतः कामयमानांस् त्वयि प्रीति-युक्तान् इत्य् अर्थः।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अग्नि᳓मीडे पुरो᳓हितय्ँ यज्ञ᳓स्य देव᳓मृत्वि᳓जम् ।  
 हो᳓तारँ रत्नधा᳓तमम् ॥
@@ -780,7 +780,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 सा᳓न्तपना इदँ᳓ हवि᳓र्म᳓रुतस्त᳓ज्जुजुष्टन ।  
 युष्मा᳓कोती᳓ रिशादसः ॥    
@@ -894,7 +894,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 यद्यप्य् एतन्-मन्त्र-द्वयं दार्शिक-हौत्र-काण्डे समाम्नातत्वाच् चोदकाद् एव प्राप्तं, तथापि विस्पष्टार्थं पुनर्-वचनम् इति द्रष्टव्यम्।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अग्नि᳓ना रयि᳓मश्ञवत्पो᳓षमेव᳓ दिवे᳓दिवे ।  
 यश᳓सव्ँवीर᳓वत्तमम् ॥    
@@ -917,7 +917,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 कीदृशं पोषं? यशसं कीर्ति-करं, वीरवत्तमं, वीरा अस्मदीयाः पुत्रा अन्येति वीरवान् अतिशयेन तथा-विधम्।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 गयस्फा᳓नो अमीवहा᳓ वसुवि᳓त्पुष्टिव᳓र्धनः ।  
 सुमित्र᳓स्सोम नो भव ।  
@@ -938,7 +938,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 कानि तानि विशेषणानीति तान्य् उच्यन्ते— गयस्फानो गृहाणां वर्धयिता। अमीवहा रोगाणां हन्ता। वसुविद् धनस्य लम्भयिता। पुष्टि-वर्धनो गवादिषु पुष्टेर् वर्धयिता। सुमित्रः शोभनं यजमान-रूपं मित्रं यस्यासौ सुमित्रः।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 गृ᳓हमेधास आ᳓ गत म᳓रुतो मा᳓प भूतन ।  
 प्रमुञ्च᳓न्तो नो अँ᳓हसः ।
@@ -961,7 +961,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 किं कुर्वन्तः? अंहसः पापान् नोऽस्मान्नोऽस्मान् प्रमुञ्चन्तः प्रकर्षेण वियोजयन्तः।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 पूर्वी᳓भिर्हि᳓ ददाशिम᳓ शर᳓द्भिर्मरुतो वय᳓म् ।  
 म᳓होभिः [33]  चर्षणीना᳓म् ।  
@@ -1043,7 +1043,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 नो ऽस्मत्-संबन्धीनि सुरभीणि सुगन्धीनि हवींषि प्रतीं प्रत्येकम् एव वियन्तु देवा भक्षयतु।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 क्रीडव्ँ᳓वश्श᳓र्धो मा᳓रुतमनर्वा᳓णँ रथेशु᳓भम् ।  
 [34]  क᳓ण्वा अभि᳓ प्र᳓ गायत ।  
@@ -1140,7 +1140,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 यूयम् अप्य् अर्चत यजमानाय मधु-वर्णं मधुर-रसोपेतं घृतं घृत-समानम् उदकम् आ समन्ताद् उक्षत सिञ्चत।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अग्नि᳓मग्निँ ह᳓वीमभिस्स᳓दा हवन्त विश्प᳓तिम् ।  
 हव्यवा᳓हम्पुरुप्रिय᳓म् ।  
@@ -1161,7 +1161,7 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 कीदृशम् अग्निं? विश्पतिं प्रजानां पालकं, हव्य-वाहं देवान् प्रति हविषो वोढारं, पुरु-प्रियं पुरूणां बहूनां यजमानानां प्रीति-हेतुम्।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 तँ᳓ हि᳓ श᳓श्वन्त ई᳓डते स्रुचा᳓ देव᳓ङ्घृतश्चु᳓ता ।  
 अग्निँ᳓ हव्या᳓य वो᳓ढवे ।  

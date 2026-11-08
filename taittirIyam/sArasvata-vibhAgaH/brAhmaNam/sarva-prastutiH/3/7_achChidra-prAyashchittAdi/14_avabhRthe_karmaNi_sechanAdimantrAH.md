@@ -255,7 +255,7 @@ unicode_script: devanagari
 अपि च शचीपतिः इन्द्रश्च अस्माकं अस्मान्वा सचतां समवैतु ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प᳓रम्मृत्यो अ᳓नुप᳓रेहि प᳓न्थाम् ।  
 य᳓स्ते स्व᳓ इ᳓तरो देवया᳓नात् ।  

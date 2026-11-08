@@ -6661,7 +6661,7 @@ bahurUpI was archaic but popular para-vedic mantra used outside of core saMhitA 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="47_IshAnas_sarvabhUtAnAm">
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 ई᳓शा᳓न᳓स् स᳓र्वविद्यानाम्  
 ई᳓श्व᳓र᳓स् स᳓र्वभूतानां  

@@ -16,7 +16,7 @@ title = "०१ नमस्ते रुद्र"
 तत्र प्रथमानुवाके प्रथमामृचमाह— नमस्ते रुद्रेति।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **न᳓मस्** ते रुद्र **मन्य᳓व**  
 उतो᳓ त **इ᳓षवे** न᳓मः ।   
@@ -162,7 +162,7 @@ That make thou kindly, O guardian of mountains; Harm not the world of men.
 अथ पञ्चमीमाह— शिवेन वचसेति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 शिवे᳓न व᳓चसा त्वा  
 गि᳓रिशा᳓च्छा **वदामसि** ।   
@@ -385,7 +385,7 @@ The arrows in thy hand [3].
 अथैकादशीमाह— अवतत्येति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **अवत᳓त्य** ध᳓नुस् त्वँ᳓  
 स᳓हस्राक्ष श᳓तेषुधे ।   
@@ -419,7 +419,7 @@ Be gentle and kindly to us.
 अथ द्वादशीमाह— विज्यं धनुरिति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वि᳓-ज्यन् ध᳓नुᳵ कपर्दि᳓नो  
 वि᳓शल्यो बा᳓णवाँ+++(=इषुधिर्)+++ उत᳓ ।   
@@ -493,7 +493,7 @@ Free from sickness.
 अथ चतुर्दशीमाह— नमस्ते अस्त्विति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **न᳓मस्** ते अस्त्व् आ᳓युधाय+ अ᳓नातताय धृष्ण᳓वे ।   
 उभा᳓भ्याम् उत᳓ ते न᳓मो बाहु᳓भ्यान् त᳓व ध᳓न्वने ।   

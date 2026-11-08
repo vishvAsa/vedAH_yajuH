@@ -261,7 +261,7 @@ O fair one, clad in fair raiment in the world of heaven be ye two covered....
 6तां यजमानः अभिमेधति - ऊर्ध्वामित्यनुष्टुभा ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 ऊर्ध्वा᳓मेनाम् उ᳓च्छ्रयताद् वेणुभार᳓ङ् गिरा᳓विव ।  
 अ᳓थास्या म᳓ध्यम् एधताँ शीते᳓ वा᳓ते पुन᳓न्निव ।

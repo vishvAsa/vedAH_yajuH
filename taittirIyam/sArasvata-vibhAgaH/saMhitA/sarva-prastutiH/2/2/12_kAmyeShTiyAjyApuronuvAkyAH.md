@@ -201,7 +201,7 @@ The radiant.
 7आग्नेयमष्टाकपालं निर्वपेत्सावित्रं द्वादशकपालं भूम्यै चरुं यः कामयेत हिरण्यं विन्देय हिरण्यं मोप नमेत्' इत्यस्यास्त्रिहविष्काया आग्नेयस्य पुरोनुवाक्या - स प्रत्नवदिति गायत्री ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 स᳓प्रत्नव᳓न्न᳓वीयसा᳓ऽग्ने द्युम्ने᳓न सय्ँय᳓ता ।  
 बृह᳓त्ततन्थ भानु᳓ना ।
@@ -228,7 +228,7 @@ Thou from of old with thy new glory, O Agni, with thy companion light, Hast migh
 8तत्रैव याज्या - नि काव्येति त्रिष्टुप् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 नि᳓का᳓व्या वेध᳓सश्श᳓श्वतस्कर्ह᳓स्ते द᳓धानः᳓ (64)  न᳓र्या पुरू᳓णि ।  
 अग्नि᳓र्भुवद्रयिप᳓ती रयीणाँ᳓ सत्रा᳓ चक्राणो᳓ अमृ᳓तानि वि᳓श्वा ।  
@@ -258,7 +258,7 @@ He doth put down the wise contrivings of every worshipper; Bearing in his arm [1
 9अथ सावित्रस्य द्वादशकपालस्य पुरोनुवाक्या - हिरण्यपाणिमिति गायत्री ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 हि᳓रण्यपाणिमूत᳓ये सविता᳓रमु᳓प ह्वये ।   
 स᳓ चे᳓त्ता देव᳓ता पद᳓म् ।
@@ -601,7 +601,7 @@ What was there to be disclosed in thee, O Visnu, What time thou didst declare, '
 20अथ 'अग्नये दात्रे पुरोडाशमष्टाकपालं निर्वपेदिन्द्राय प्रदात्रे पुरोडाशमेकादशकपालं पशुकामः' इत्यस्य प्राजापत्येन सह त्रिहविष आग्नेयस्य पुरोनुवाक्या - अग्रे दा इति गायत्री ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ᳓ग्ने दा᳓ दाशु᳓षे रयिव्ँ᳓वीर᳓वन्तम्प᳓रीणसम् ।  
 शिशीहि᳓ नस्सूनुम᳓तः ।
@@ -660,7 +660,7 @@ Give to us, O Agni, a hundred, give a thousandfold; Like doors disclose for us b
 22अत्रैव विकल्प्यते - अग्निर्दा इति त्रिष्टुप् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अग्नि᳓र्दा द्र᳓विणव्ँवीर᳓पेशा अग्नि᳓रृ᳓षिय्ँय᳓स्सह᳓स्रा सनो᳓ति ।   
 अग्नि᳓र्दिवि᳓ हव्य᳓मा᳓ततानाग्ने᳓र्धा᳓मानि वि᳓भृता पुरुत्रा᳓ ।
@@ -1191,7 +1191,7 @@ The teams [7] wherewith thou comest to the giver, O Vayu, for seeking in the hou
 29उत्तरयोः क्वचिदैन्द्रे द्रष्टव्यो विनियोगः - रेवतीर्न इति गायत्री पुरोनुवाक्या ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 रेव᳓तीर्नस्सधमा᳓द इ᳓न्द्रे सन्तु तुवि᳓वाजाः ।  
 क्षुम᳓न्तो या᳓भिर्म᳓देम ।

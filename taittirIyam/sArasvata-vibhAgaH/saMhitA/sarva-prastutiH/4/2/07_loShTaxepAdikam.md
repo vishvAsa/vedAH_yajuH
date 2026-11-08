@@ -403,7 +403,7 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 अथ तृतीयामाह— अग्ने यत्त इति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ᳓ग्ने य᳓त्ते शुक्रय्ँ᳓य᳓च्चन्द्रय्ँ᳓य᳓त्पूतय्ँ᳓य᳓द्यज्ञि᳓यम् ।  
 त᳓द्देवे᳓भ्यो भरामसि ।  
@@ -562,7 +562,7 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 षष्ठीमाह— निष्कर्तारमिति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 निष्कर्ता᳓रमध्वर᳓स्य प्र᳓चेतसङ्क्ष᳓यन्तँ रा᳓धसे महे᳓ ।  
 राति᳓म्भृ᳓गूणामुशि᳓जङ्कवि᳓क्रतुम्पृण᳓क्षि सानसि᳓म् [31]  रयि᳓म् ।  
@@ -627,7 +627,7 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 १९२८ कल्पः—“आ प्यायस्व समेतु त इति सिकता व्यूहत्युत्तरया त्रिष्टुभा राज-न्यस्य” इति ।   तत्र प्रथममन्त्रमाह— आ प्यायस्वेति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 आ᳓ प्यायस्व स᳓मेतु ते विश्व᳓तस्सोम वृ᳓ष्णियम् ।  
 भ᳓वा वा᳓जस्य सङ्गथे᳓ ।

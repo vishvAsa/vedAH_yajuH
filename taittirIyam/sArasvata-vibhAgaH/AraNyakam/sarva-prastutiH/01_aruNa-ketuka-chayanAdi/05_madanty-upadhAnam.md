@@ -10,7 +10,7 @@ title = "०५ मदन्त्य्-उपधानम्"
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ᳓तिताम्रा᳓णि वासाँसि᳓ ।  
 अष्टि᳓ वज्रि शत᳓घ्नि च ।  

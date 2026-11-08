@@ -14,7 +14,7 @@ title = "११ याज्यानुवाक्याः"
 तत्रैन्द्रग्नस्य पुरोनुवाक्यामाह— इन्द्राग्नी रोचनेति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 इ᳓न्द्राग्नी रोचना᳓ दिवᳶ᳓ प᳓रि वा᳓जेषु भूषथः ।  
 त᳓द्वाञ्चेति प्र᳓ वीर्य᳙म् ।  
@@ -365,7 +365,7 @@ In wessen Haus o Maruts ihr, des Himmels hohe Helden, trinkt, Der Mann geniesst 
 तत्रैव विकल्पितामन्यां पुरोनुवाक्यामाह— यज्ञैर्वा यज्ञेति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 यज्ञै᳓र्वा यज्ञवाहसो वि᳓प्रस्य वा मतीना᳓म् ।  
 म᳓रुतश्शृणुता᳓ ह᳓वम् ।  
@@ -854,7 +854,7 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 अथावभृते प्रथमाज्यभागस्य पुरोनुवाक्यामाह—  १९६८ अप्स्वग्ने सधिष्टवेति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अप्स्व᳙ग्ने स᳓धिष्ट᳓व सौ᳓षधीर᳓नु रुध्यसे ।  
 ग᳓र्भे स᳓ञ्जायसे पु᳓नः ।

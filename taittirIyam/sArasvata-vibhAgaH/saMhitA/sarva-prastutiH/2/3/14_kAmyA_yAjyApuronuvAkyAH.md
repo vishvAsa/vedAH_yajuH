@@ -203,7 +203,7 @@ Thy places in the sky, in the earth, In the mountains, in the plants, in the wat
 7'अग्नीषोमीयमेकादशकपालं निर्वपेद्यं कामो नोपनमेत्' इत्यस्य पुरोनुवाक्या - अग्नीषोमा इति गायत्री ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ᳓ग्नीषोमा स᳓वेदसा स᳓हूती वनतङ्गि᳓रः ।  
 स᳓न्देवत्रा᳓ बभूवथुः ।

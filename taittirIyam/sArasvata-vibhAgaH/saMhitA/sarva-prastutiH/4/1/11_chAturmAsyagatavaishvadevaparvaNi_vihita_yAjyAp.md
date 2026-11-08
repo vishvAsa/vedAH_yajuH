@@ -932,7 +932,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 अथ सारस्वतं चरुमित्यस्य पुरोनुवाक्यामाह— चोदयित्रीति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 चोदयित्री᳓ सूनृ᳓तानाञ्चे᳓तन्ती सुमतीना᳓म् ।  
 यज्ञ᳓न्दधे स᳓रस्वती ।  
@@ -954,7 +954,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 तत्रैव याज्यामाह— पावीरवी कन्येति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 पा᳓वीरवी कन्या᳙ चित्रा᳓युस्स᳓रस्वती वीर᳓पत्नी धि᳓यन्धात् ।  
 ग्ना᳓भिर᳓च्छिद्रँ शरणँ᳓ सजो᳓षा दुराध᳓र्षङ्गृणते᳓ श᳓र्म यँसत् ।  
@@ -1128,7 +1128,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 द्यावापृथिव्यमेककपालमित्यस्य पुरोनुवाक्यामाह— द्यावा नः पृथिवीति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 द्या᳓वा नᳶ पृथिवी᳓ इमँ᳓ सिध्र᳓मद्य᳓ दिविस्पृ᳓शम् ।  
 यज्ञ᳓न्देवे᳓षु यच्छताम् ।  
@@ -1441,7 +1441,7 @@ Den Agni weck durch Loblied auf, entzündend den unsterblichen, Zu Göttern brin
 तत्रैव याज्यामाह— स हव्यवाडिति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 स᳓ हव्यवा᳓ड᳓मर्त्य उशि᳓ग्दूत᳓श्च᳓नोहितः ।  
 अग्नि᳓र्धिया᳓ स᳓मृण्वति ।

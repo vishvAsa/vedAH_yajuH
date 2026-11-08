@@ -388,7 +388,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प्र᳓जापते न᳓ त्व᳓देता᳓न्यन्यः᳓ ।  
 वि᳓श्वा जाता᳓नि प᳓रि ता᳓ बभूव ।  

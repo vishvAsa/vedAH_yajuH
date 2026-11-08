@@ -428,7 +428,7 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 म᳓ह्यय्ँ **यजन्तु** म᳓म या᳓नि हव्या᳓  
 ऽऽकूतिस् **सत्या᳓** म᳓नसो मे **अस्तु** ।   

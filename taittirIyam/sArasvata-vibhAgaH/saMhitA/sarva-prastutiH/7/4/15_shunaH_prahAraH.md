@@ -46,7 +46,7 @@ Must think of us;
 Good are Indra's gifts.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 +++(त्रिष्टुप्)+++  
 अभि᳓ क्र᳓त्वेन्द्र भूर् अ᳓ध ज्म᳓न्+++(←जम् = गम्)+++  

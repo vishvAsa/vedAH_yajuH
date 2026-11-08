@@ -405,7 +405,7 @@ Du hast, o Soma, alle diese Pflanzen, die Rinder du erzeugt und die Gewässer, H
 4अथ हविषो याज्यामाह - 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 या᳓ ते धा᳓मानि दिवि᳓ या᳓ पृथिव्या᳓म् ।  
 या᳓ प᳓र्वतेष्वो᳓षधीष्वप्सु᳓ ।    

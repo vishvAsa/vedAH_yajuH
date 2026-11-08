@@ -39,7 +39,7 @@ But with whatever metre the gods yoked him, they achieved not him.
 They saw (the rite of) these thirty-two nights.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वा᳓त्रिँशद्-अक्षरा ऽनुष्टु᳓क् ।  
 आ᳓नुष्टुभᳶ प्रजा᳓पतिः ।  

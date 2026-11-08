@@ -582,7 +582,7 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 त᳓न् त्वा समि᳓द्भिर् अङ्गिरः ।  
 घृते᳓न वर्धयामसि ।  
@@ -706,7 +706,7 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 अयम् अग्निः सम्यग् इध्यते। कीदृशः। वृषः कामानां वर्षयिता। अश्वो न देव-वाहनो ऽश्व इव देवार्थस्य हविषो वोढा। तम् इमम् अग्निं हविष्मन्तो यजमानाः स्तुवते। 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वृ᳓षणन् त्वा वयव्ँ᳓ वृ᳓षन् ।  
 वृ᳓षाणस् स᳓मिधीमहि ॥3॥  
@@ -768,7 +768,7 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 इमम् अग्निं वयं वृणीमहे प्रार्थयामहे। कीदृशं, दूतं देवान् प्रति प्रेषणार्हं, होतारम् आह्वातारं, विश्ववेदसं विश्वान् सर्वान् देवान् वेत्तीति विश्ववेदास् तादृशम्। अस्य यज्ञस्य संबन्धिनं सुक्रतुं शोभन-कर्माणम्। 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 समिध्य᳓मानो अध्वरे᳓ ।  
 अग्निᳶ᳓ पावक᳓ ई᳓ड्यः ।  
@@ -831,7 +831,7 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 हे आहुताऽऽहुत्याराधिताग्ने त्वं समिद्धः सन् देवान् यक्षि यजसि। हे स्वध्वर सुष्ठु-निष्पादित-याग हि यस्मात् त्वं हव्यवाड् असि तस्माद् यजेत्य् अन्वयः।   
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 आ᳓जुहोत दुवस्य᳓त ।  
 अग्नि᳓म् प्रयत्य् अ᳙ध्वरे᳓ ।  

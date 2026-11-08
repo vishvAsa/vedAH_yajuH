@@ -337,7 +337,7 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 अथ द्वितीयामाह— यो वः शिवतम इति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 यो᳓ वश्शिव᳓तमो र᳓सस्त᳓स्य भाजयतेह᳓ नः ।  
 उशती᳓रिव मात᳓रः ।  
@@ -359,7 +359,7 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 अथ तृतीयामाह— तस्मा अरमिति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 त᳓स्मा अ᳓रङ्गमाम वो य᳓स्य क्ष᳓याय जि᳓न्वथ ।  
 आ᳓पो जन᳓यथा च नः ।  
@@ -383,7 +383,7 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 कल्पः—‘मित्रः सँ सृज्य पृथिवीमिति द्वाभ्यां संजर्जनीयैः संसृजत्यर्मक-पालैः पित्रैः पिष्टैर्वेण्वङ्गारैर्व्रीहितुषैः पलाशकषायेण शर्कराभिः पिष्टाभिः कृष्णाजिन लोमभिरजलोमभिः ’  इति।   तत्र प्रथमामाह— मित्रः सँसृज्येति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 मित्रः᳓ [18]  सँसृ᳓ज्य पृथिवी᳓म्भू᳓मिञ्च ज्यो᳓तिषा सह᳓ ।  
 सु᳓जातञ्जात᳓वेदसमग्निव्ँ᳓ वैश्वानरव्ँ᳓विभु᳓म् ।  
@@ -405,7 +405,7 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 अथ द्वितीयामाह— अयक्ष्माय त्वेति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 मित्रः᳓ [18]  सँसृ᳓ज्य पृथिवी᳓म्भू᳓मिञ्च ज्यो᳓तिषा सह᳓ ।  
 सु᳓जातञ्जात᳓वेदसमग्निव्ँ᳓ वैश्वानरव्ँ᳓विभु᳓म् ।  
@@ -434,7 +434,7 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 कल्पः—“रुद्राः संभृत्य पृथिवीमिति मृदं संक्षिप्यं” इति।   पाठस्तु— रुद्राः संभृत्येति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 रुद्रा᳓स्सम्भृ᳓त्य पृथिवी᳓म्बृह᳓ज्ज्यो᳓तिस्स᳓मीधिरे ।  
 ते᳓षाम्भानु᳓र᳓जस्र इ᳓च्छुक्रो᳓ देवे᳓षु रोचते ।  
@@ -480,7 +480,7 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 अथ द्वितीयामाह— सिनिवालीति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 सिनीवाली᳓ सुकपर्दा᳓ सुकुरीरा᳓ स्वौपशा᳓ ।  
 सा᳓ तु᳓भ्यमदिते मह ओ᳓खा᳓न्दधातु ह᳓स्तयोः ।  
@@ -502,7 +502,7 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 अथ तृतीयामाह—  १८०१ उखां करोत्विति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 उखा᳓ङ्करोतु श᳓क्त्या बाहु᳓भ्याम᳓दितिर्धिया᳓ ।  
 माता᳓ पुत्रय्ँ᳓य᳓थोप᳓स्थे सा᳓ग्नि᳓म्बिभर्तु ग᳓र्भ आ᳓ ।
@@ -704,7 +704,7 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 कल्पः—‘कृत्वाय सा महीमुखामित्युत्तरसः सिकतासु प्रतिष्ठाप्य’ इति।    पाठस्तु— कृत्वाय सेति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 कृत्वा᳓य सा᳓ मही᳓मुखा᳓म्मृन्म᳓यीय्ँयो᳓निमग्न᳓ये ।  
 ता᳓म्पुत्रे᳓भ्यस्स᳓म्प्रा᳓यच्छद᳓दितिश्श्रप᳓यानि᳓ति ॥ [21]  
