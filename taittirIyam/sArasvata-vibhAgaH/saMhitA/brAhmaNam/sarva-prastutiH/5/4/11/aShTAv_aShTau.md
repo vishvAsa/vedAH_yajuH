@@ -120,6 +120,11 @@ the seasons are six, the gods, the fathers, are the seasons;
 षट् । वै । ऋ॒तवः॑ । ऋ॒तवः॑ । खलु॑ । वै । दे॒वाः । पि॒तरः॑ ।
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ऋतव एव खलु पितृरूपेण वर्तन्ते ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतू᳓नेव᳓ देवा᳓न्पितॄ᳓न्प्रीणाति ॥ [55]
@@ -142,7 +147,7 @@ verily he delights the seasons, the gods, the fathers.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-ऋतव एव खलु पितृरूपेण वर्तन्ते । तस्माद् उभयान्प्रीणातीति ॥
+तस्माद् उभयान्प्रीणातीति ॥
 
 इति पञ्चमे चतुर्थे एकादशोनुवाकः ॥
 </details>
