@@ -2,12 +2,25 @@
 title = "29 पूर्णा पश्चादुत"
 
 +++
+<details><summary>Keith</summary>
+
+Full behind, and full in front,  
+In the middle hath she of the full moon been victorious;  
+In her let the gods dwelling together  
+Rejoice here in the highest firmament.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता॑त् ।   
 उन्म॑ध्य॒तᳶ पौ॑र्णमा॒सी जि॑गाय ।  
 तस्या॑न्दे॒वा अधि॑ सव्ँ॒वस॑न्तः ।  
 उ॒त्त॒मे नाक॑ इ॒ह मा॑दयन्ताम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पू॒र्णा । प॒श्चात् । उ॒त । पू॒र्णा । पु॒रस्ता॑त् । उदिति॑ । म॒ध्य॒तः । पौ॒र्ण॒मा॒सीति॑ पौर्ण-मा॒सी । जि॒गा॒य॒ ॥ तस्या॑म् । दे॒वाः । अधीति॑ । सव्ँ॒वस॑न्त॒ इति॑ सं-वस॑न्तः । उ॒त्त॒म इत्यु॑त्-त॒मे । नाके॑ । इ॒ह । मा॒द॒य॒न्ता॒म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -21,4 +34,3 @@ _________________
 
 29पौर्णमास्याः - पूर्णा पश्चादिति ॥ व्याख्याता पञ्चमाद्ये ॥
 </details>
-

@@ -5,30 +5,52 @@ title = "एतत् ते तत"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒तत् ते॑ तत॒ ये च॒ त्वाम् अनु॑।  
-[ए॒तत् ते॑] पितामह [ये᳓ च॒ त्वाम् अनु॑]।  
-[ए॒तत् ते॑] प्रपितामह॒ [ये᳓ च॒ त्वाम् अनु॑]।  
 </details>
 
 <details><summary>Keith</summary>
 
-This for thee, O father, and for thy line;  
-This for thee, O grandfather, great-grandfather, and for thy line
+This for thee, O father, and for thy line;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ए॒तत्ते॑ तत॒ ये च॒ त्वामन्वे॒तत्ते॑ पितामह प्रपितामह॒ ये च॒ त्वामनु॑ ।
+ए॒तत्ते॑ तत॒ ये च॒ त्वामनु॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-ए॒तत् । ते॒ । त॒त॒ । ये । च॒ । त्वाम् । अन्विति॑ । ए॒तत् । ते॒ । पि॒ता॒म॒ह॒ । प्र॒पि॒ता॒म॒हेति॑ प्र-पि॒ता॒म॒ह॒ । ये । च॒ । त्वाम् । अन्विति॑ ।
+ए॒तत् । ते॒ । त॒त॒ । ये । च॒ । त्वाम् । अन्विति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एनदन्नं ते तव भवतु हे तत तात ।  
 ये च त्वामनुगता आश्रिताः अन्ये, तेषाञ्चैतदन्नं भवतु ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[ए॒तत् ते॑] पितामह [ये᳓ च॒ त्वाम् अनु॑]।  
+[ए॒तत् ते॑] प्रपितामह॒ [ये᳓ च॒ त्वाम् अनु॑]।  
+</details>
+
+<details><summary>Keith</summary>
+
+This for thee, O grandfather, great-grandfather, and for thy line
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒तत्ते॑ पितामह प्रपितामह॒ ये च॒ त्वामनु॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒तत् । ते॒ । पि॒ता॒म॒ह॒ । प्र॒पि॒ता॒म॒हेति॑ प्र-पि॒ता॒म॒ह॒ । ये । च॒ । त्वाम् । अन्विति॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
 एतत्ते अन्नं हे पितामह, ये च त्वामनुगताः तेषां च । पितुः पिता पितामहः । एवमेतत्ते अन्नं हे प्रपितामह, ये चान्ये त्वामनुगताः, तेषाञ्च ।
 पितामहस्य पिता प्रपितामहः । 
 

@@ -139,29 +139,51 @@ homage to your anger, O fathers;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न᳓मो वᳶ पितरो घोरा᳓य ,  
-पि᳓तरो न᳓मो वः ।
+न᳓मो वᳶ पितरो घोरा᳓य । [पि᳓तरो न᳓मो वः।]
 </details>
 
 <details><summary>Keith</summary>
 
-homage to your terrors, O fathers; O fathers, homage to you.
+homage to your terrors, O fathers;
 </details>
 
 <details><summary>मूलम्</summary>
 
-नमो॑ वᳶ पितरो घो॒राय॑ ,  
-पित॑रो॒ नमो॑ वः ।
+नमो॑ वᳶ पितरो घो॒राय॑ । [पित॑रो॒ नमो॑ वः।]
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-नमः॑ । वः॒ । पि॒त॒रः॒ । घो॒राय॑ । पित॑रः । नमः॑ । वः॒ ।
+नमः॑ । वः॒ । पि॒त॒रः॒ । घो॒राय॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 घोरः क्रूरम् । एतयोः स्थाने प्राधान्यं प्रार्थ्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पि᳓तरो न᳓मो वः ।
+</details>
+
+<details><summary>Keith</summary>
+
+O fathers, homage to you.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पित॑रो॒ नमो॑ वः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पित॑रः । नमः॑ । वः॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
 हे पितरः युष्मभ्यं नमः । फलमनपेक्ष्य सप्तमोयं नमस्कारः क्रियते । पुनर्वचनं फलनिरपेक्षया नमस्कारार्थम् । अन्य आहुः - पितृसंबन्धिभ्यो रसादिभ्यः प्रथमं षण्णमस्काराः, ततः पितृभ्य एव सप्तम इति ।
 </details>
 
