@@ -808,7 +808,7 @@ He appealed to the trees, 'Take a third part of my guilt.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽब्रु᳓व᳓न् -  
+ते᳙ऽब्रुवन् -  
 "व᳓रव्ँ वृणामहै ।
 </details>
 

@@ -119,7 +119,7 @@ The gods said to him, > 'The oblation is the sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्र᳓वी᳓त्  -    
+सो᳙ऽब्रवीत्  -    
 
 > य᳓जान्,  
 > व आ᳓ज्य-भागाव् उ᳓प स्तृणान्  

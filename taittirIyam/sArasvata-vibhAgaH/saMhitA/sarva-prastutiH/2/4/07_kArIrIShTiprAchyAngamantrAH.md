@@ -57,7 +57,7 @@ Thou I art connected with the Maruts, thou art the force of the Maruts,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓पा᳓न्धा᳓राम्भिन्द्धि ।
+अपा᳓न्धा᳓राम्भिन्द्धि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -67,7 +67,7 @@ cleave the stream of the waters.
 
 <details><summary>मूलम्</summary>
 
-अपान्धारा॑म्भिन्द्धि ।
+अ॒पान्धारा॑म्भिन्द्धि ।
 </details>
 
 <details><summary>पद-पाठः</summary>

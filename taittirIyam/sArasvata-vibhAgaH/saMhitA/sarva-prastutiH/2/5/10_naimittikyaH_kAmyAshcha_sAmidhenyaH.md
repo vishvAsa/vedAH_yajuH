@@ -424,7 +424,7 @@ He should repeat thirty for one who desires food; the Viraj has thirty syllables
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वा᳓त्रिँशतम् अ᳓नुब्रूयात् प्रतिष्ठा᳓कामस्य  
-द्वा᳓त्रिँशद्-अक्षरा ऽनुष्टु᳙क्   
+द्वा᳓त्रिँशद्-अक्षरा ऽनुष्टु᳓क्   
 अनुष्टु᳓प् छ᳓न्दसाम् प्रतिष्ठा᳓  
 प्र᳓तिष्ठित्यै    
 </details>
@@ -436,7 +436,7 @@ He should repeat thirty-two, for one who desires support; the Anustubh has thirt
 
 <details><summary>मूलम्</summary>
 
-द्वात्रिँ॑शत॒मनु॑ब्रूयात्प्रति॒ष्ठाका॑मस्य॒ द्वात्रिँ॑शदक्षराऽनु॒ष्टु॑गनु॒ष्टुप्छन्द॑साम्प्रति॒ष्ठा प्रति॑ष्ठित्यै
+द्वात्रिँ॑शत॒मनु॑ब्रूयात्प्रति॒ष्ठाका॑मस्य॒ द्वात्रिँ॑शदक्षराऽनु॒ष्टुग॑नु॒ष्टुप्छन्द॑साम्प्रति॒ष्ठा प्रति॑ष्ठित्यै
 </details>
 
 <details><summary>पद-पाठः</summary>

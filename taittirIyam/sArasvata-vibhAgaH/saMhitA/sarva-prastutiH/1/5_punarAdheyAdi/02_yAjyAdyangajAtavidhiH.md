@@ -201,7 +201,7 @@ They are of a hundred syllables; man lives a hundred years and has a hundred pow
 य᳓द् वा᳓ अग्नि᳓र् आ᳓हितो न᳓र्ध्य᳓ते ..   
 +++(तत् पुनराधानेन)+++ ज्या᳓यो भागधे᳓यन् निकाम᳓यमानः।   
 य᳓द् आग्नेयँ᳓ स᳓र्वम् भ᳓वति +++(पुनराधाने प्राक्तनप्रपाठके देवगणोक्तरीत्या)+++,  
-सै᳓वा᳓स्य᳓र्धिः᳓।
+सै᳓वा᳓स्य᳓र्धिः।
 </details>
 
 <details><summary>Keith</summary>
@@ -212,7 +212,7 @@ In that Agni when established does not prosper, (it is that he is) desiring a gr
 <details><summary>मूलम्</summary>
 
 यद्वा अ॒ग्निराहि॑तो॒ नर्ध्यते॒ ..   
-ज्यायो॑ भाग॒धेय॑न्निका॒मय॑मानो॒ यदा॑ग्ने॒यँ सर्व॒म्भव॑ति॒ सैवास्यर्धिः।
+ज्यायो॑ भाग॒धेय॑न्निका॒मय॑मानो॒ यदा॑ग्ने॒यँ सर्व॒म्भव॑ति॒ सैवास्यर्धिः॑।
 </details>
 
 <details><summary>पद-पाठः</summary>

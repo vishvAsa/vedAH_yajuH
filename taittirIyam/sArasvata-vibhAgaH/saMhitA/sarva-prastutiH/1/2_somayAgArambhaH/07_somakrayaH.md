@@ -483,7 +483,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓म᳓वि᳓क्रयि᳓णि त᳓मः ।
+सोमविक्रयि᳓णि त᳓मः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -493,7 +493,7 @@ darkness be on the Soma-seller.
 
 <details><summary>मूलम्</summary>
 
-सोमविक्र॒यिणि॒ तमः॑ ।
+सो॒म॒वि॒क्र॒यिणि॒ तमः॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>

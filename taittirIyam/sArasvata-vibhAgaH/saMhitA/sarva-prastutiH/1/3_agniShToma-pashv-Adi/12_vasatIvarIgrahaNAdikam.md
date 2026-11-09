@@ -86,7 +86,7 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने᳓र् वो᳓ ऽपन्न-गृहस्य स᳓दसि सादयामि सुम्ना᳓य+++(=सुखाय)+++।  
-सु᳓म्नि᳓नी᳓स् सुम्ने᳓ मा धत्त ।
+सुम्निनीस् सुम्ने᳓ मा धत्त ।
 </details>
 
 <details><summary>Keith</summary>
@@ -97,7 +97,7 @@ In the seat of Agni whose home is abiding I set you down, kindly for kindness, a
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेर्वोऽप॑न्नगृहस्य॒ सद॑सि सादयामि सु॒म्नाय॑।  
-सुम्निनीस्सु॒म्ने मा॑ धत्त ।
+सु॒म्नि॒नी॒स्सु॒म्ने मा॑ धत्त ।
 </details>
 
 <details><summary>पद-पाठः</summary>
