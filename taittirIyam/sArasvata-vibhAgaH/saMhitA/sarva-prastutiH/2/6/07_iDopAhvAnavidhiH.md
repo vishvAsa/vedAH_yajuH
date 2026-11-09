@@ -783,6 +783,7 @@ verily he invokes the Soma drink.
 </details>
 
 <details><summary>प्रदीपसिंहः</summary>
+
 हो इत्यात्मोच्यते । इति अग्रिममूलव्याख्याने टीकावचनम् ।
 </details>
 

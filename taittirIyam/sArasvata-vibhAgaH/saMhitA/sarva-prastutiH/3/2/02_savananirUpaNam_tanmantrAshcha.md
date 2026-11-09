@@ -19,7 +19,7 @@ title = "०२ सवन-निरूपणम्, तन्मन्त्र�
 
 <details><summary>Keith</summary>
 
-There are three pressings. 
+There are three pressings.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -27,9 +27,14 @@ There are three pressings.
 त्रीणि॒ वाव सव॑नानि
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+त्रीणि॑ । वाव । सव॑नानि ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-1त्रीणि वाव सवनानीत्यादि ॥ त्रीण्येतानि सवनानि प्रातस्सवनादीनि तैः त्रिभिर् अपि सवनैः सवनवद्भिर् भवितव्यम् ।  
+1त्रीणि वाव सवनानीत्यादि ॥ त्रीण्येतानि सवनानि प्रातस्सवनादीनि तैः त्रिभिर् अपि सवनैः सवनवद्भिर् भवितव्यम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -39,7 +44,7 @@ There are three pressings.
 
 <details><summary>Keith</summary>
 
-Now they spoil the third pressing if there are no stalks of the Soma in it. 
+Now they spoil the third pressing if there are no stalks of the Soma in it.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -47,11 +52,15 @@ Now they spoil the third pressing if there are no stalks of the Soma in it.
 अथ॑ तृ॒तीयँ॒ सव॑न॒मव॑ लुम्पन्त्यनँ॒शु कु॒र्वन्तः॑
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अथ॑ । तृ॒तीय॑म् । सव॑नम् । अवेति॑ । लु॒म्प॒न्ति॒ । अ॒नँ॒शु । कु॒र्वन्तः॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथैवं सति तृतीयसवनं **अनंशु** कुर्युः।  
-इदं **लुम्पेयुर्** विनाशयेयुः, सवन-स्वभाववैधुर्यात् ।  
-
+इदं **लुम्पेयुर्** विनाशयेयुः, सवन-स्वभाववैधुर्यात् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -59,17 +68,22 @@ Now they spoil the third pressing if there are no stalks of the Soma in it.
 उपाँशुँ᳓ **हुत्वा᳓** +  
 +उ᳓पाँशु-पात्रे᳓ ऽँशु᳓म् **अवा᳓स्य**  
 त᳓न् तृतीय-सवने᳙ **ऽपिसृ᳓ज्य᳓**+  
-+**अभि᳓षुणुयात्** ।   
++**अभि᳓षुणुयात्** ।
 </details>
 
 <details><summary>Keith</summary>
 
-Having offered the silent cup, he puts a shoot in the vessel which holds it, and placing it with the third pressing he should press it out. 
+Having offered the silent cup, he puts a shoot in the vessel which holds it, and placing it with the third pressing he should press it out.
 </details>
 
 <details><summary>मूलम्</summary>
 
-उपाँ॒शुँ हु॒त्वोपाँ॑शुपा॒त्रेऽँ॑शुम॒वास्य॒ तन्तृ॑तीयसव॒ने॑ऽपि॒सृज्या॒भि षु॑णुयात् ।   
+उपाँ॒शुँ हु॒त्वोपाँ॑शुपा॒त्रेऽँ॑शुम॒वास्य॒ तन्तृ॑तीयसव॒ने॑ऽपि॒सृज्या॒भि षु॑णुयात् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒पाँ॒शुमित्यु॑प-अँ॒शुम् । हु॒त्वा । उ॒पाँ॒शु॒पा॒त्र इत्यु॑पाँशु-पा॒त्रे । अँ॒शुम् । अ॒वास्येत्य॑व-अस्य॑ । तम् । तृ॒ती॒य॒स॒व॒न इति॑ तृतीय-स॒व॒ने । अ॒पि॒सृज्येत्य॑पि-सृज्य॑ । अ॒भीति॑ । सु॒नु॒या॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -83,20 +97,77 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓द् आप्याय᳓यति  
-ते᳓नाँशुम᳓द् य᳓द् अभिषुणो᳓ति    
-ते᳓नर्जीषि᳓ स᳓र्वाण्येव᳓ त᳓त्स᳓वनान्यँशुम᳓न्ति शुक्र᳓वन्ति समा᳓वद्वीर्याणि करोति ।
+य᳓द् आप्याय᳓यति ते᳓नाँशुम᳓त् ।
+</details>
+
+<details><summary>Keith</summary>
+
+In that he makes it swell, it has a stalk (of the Soma);
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदा॑प्या॒यय॑ति॒ तेनाँ॑शु॒मद्यद॑भिषु॒णोति॒    
-तेन॑र्जी॒षि सर्वा॑ण्ये॒व तत्सव॑नान्यँशु॒मन्ति॑ शु॒क्रव॑न्ति स॒माव॑द्वीर्याणि करोति ।
+यदा॑प्या॒यय॑ति॒ तेनाँ॑शु॒मत् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । आ॒प्या॒यय॒तीत्या॑-प्या॒यय॑ति । तेन॑ । अँ॒शु॒मदित्यँ॑शु-मत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-यदाप्याययतीत्यादि । केचिदाहुः - अंशोः प्रक्षेप आप्यायनमिति । अन्ये आहुः - अद्भिराप्यायनं कर्तव्यमिति । तेनाप्यायनेन अंशुमद्भवति । तृतीयसवनस्याभिषवणे च ऋजीषवत्त्वं, तेन सर्वाणि सवनानि अंशुमन्ति शुक्रवन्ति रसवन्ति च भवन्ति । अतस्सर्वाणि सवनानि समावद्वीर्याणि तुल्यवीर्याणि च करोति । समादावतुप् ॥
+यदाप्याययतीत्यादि । केचिदाहुः - अंशोः प्रक्षेप आप्यायनमिति । अन्ये आहुः - अद्भिराप्यायनं कर्तव्यमिति । तेनाप्यायनेन अंशुमद्भवति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓द् अभिषुणो᳓ति ते᳓नर्जीषि᳓ ।
+</details>
+
+<details><summary>Keith</summary>
+
+in that he presses it out, it has the lees (of the Soma);
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद॑भिषु॒णोति॒ तेन॑र्जी॒षि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । अ॒भि॒षु॒णोतीत्य॑भि-सु॒नोति॑ । तेन॑ । ऋ॒जी॒षि ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तृतीयसवनस्याभिषवणे च ऋजीषवत्त्वं,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स᳓र्वाण्येव᳓ त᳓त्स᳓वनान्यँशुम᳓न्ति शुक्र᳓वन्ति समा᳓वद्वीर्याणि करोति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he makes all the pressings have stalks and pure Soma, and be of equal strength.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वा॑ण्ये॒व तत्सव॑नान्यँशु॒मन्ति॑ शु॒क्रव॑न्ति स॒माव॑द्वीर्याणि करोति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सर्वा॑णि । ए॒व । तत् । सव॑नानि । अँ॒शु॒मन्तीत्यँ॑शु-मन्ति॑ । शु॒क्रव॒न्तीति॑ शु॒क्र-व॒न्ति॒ । स॒माव॑द्वीर्या॒णीति॑ स॒माव॑त्-वी॒र्या॒णि॒ । क॒रो॒ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तेन सर्वाणि सवनानि अंशुमन्ति शुक्रवन्ति रसवन्ति च भवन्ति । अतस्सर्वाणि सवनानि समावद्वीर्याणि तुल्यवीर्याणि च करोति । समादावतुप् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -105,10 +176,23 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 त᳓योᳶ प᳓श्यन्तो अ᳓ति यन्त्यन्य᳓म᳓पश्यन्तः [4]  सेतुना᳓ति यन्त्यन्य᳓म् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Two oceans are there extended, unperishing;  
+They revolve in turns like the waves in the bosom of the sea;  
+Seeing they pass over one of them,  
+Seeing not [1] they pass over the other with a bridge.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वौ स॑मु॒द्रौ वित॑तावजू॒र्यौ प॒र्याव॑र्तेते ज॒ठरे॑व॒ पादाः॑ ।  
 तयो॒ᳶ पश्य॑न्तो॒ अति॑ यन्त्य॒न्यमप॑श्यन्तः [4]  सेतु॒नाति॑ यन्त्य॒न्यम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्वौ । स॒मु॒द्रौ । वित॑ता॒विति॒ वि-त॒तौ॒ । अ॒जू॒र्यौ । प॒र्याव॑र्तेते॒ इति॑ परि-आव॑र्तेते । ज॒ठरा॑ । इ॒व॒ । पादाः॑ ॥ तयोः॑ । पश्य॑न्तः । अतीति॑ । य॒न्ति॒ । अ॒न्यम् । अप॑श्यन्तः । सेतु॑ना । अतीति॑ । य॒न्ति॒ । अ॒न्यम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -122,10 +206,23 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 तिरोधा᳓यैत्य᳓सितव्ँव᳓सानश्शुक्र᳓मा᳓ दत्ते अनुहा᳓य जार्यै᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Two garments continuous one weareth;  
+With locks, knowing all the worlds;  
+He goeth in secret clad in the dark;  
+He putteth on his bright robe abandoning that of the worn-out one.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वे द्रध॑सी स॒तती॑ वस्त॒ एक॑ᳵ के॒शी विश्वा॒ भुव॑नानि वि॒द्वान् ।  
 ति॒रो॒धायै॒त्यसि॑तव्ँ॒वसा॑नश्शु॒क्रमा द॑त्ते अनु॒हाय॑ जा॒र्यै ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्वे इति॑ । द्रध॑सी॒ इति॑ । स॒तती॒ इति॑ स-तती॑ । व॒स्ते॒ । एकः॑ । के॒शी । विश्वा॑ । भुव॑नानि । वि॒द्वान् ॥ ति॒रो॒धायेति तिरः-धाय॑ । ए॒ति॒ । असि॑तम् । वसा॑नः । शु॒क्रम् । एति॑ । द॒त्ते॒ । अ॒नु॒हायेत्य॑नु-हाय॑ । जा॒र्यै ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -141,35 +238,57 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓ वै᳓ य᳓द्यज्ञे᳓ऽकुर्वत ।  
-त᳓द᳓सुरा अकुर्वत ।  
-ते᳓ देवा᳓ एत᳓म्महायज्ञ᳓मपश्यन्त᳓मतन्वत ।  
+त᳓द᳓सुरा अकुर्वत ।
+</details>
+
+<details><summary>Keith</summary>
+
+Whatever the gods did at the sacrifice the Asuras did.
 </details>
 
 <details><summary>मूलम्</summary>
 
 दे॒वा वै यद्य॒ज्ञेऽकु॑र्वत ।  
-तदसु॑रा अकुर्वत ।  
-ते दे॒वा ए॒तम्म॑हाय॒ज्ञम॑पश्य॒न्तम॑तन्वत ।  
+तदसु॑रा अकुर्वत ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वाः । वै । यत् । य॒ज्ञे । अकु॑र्वत । तत् । असु॑राः । अ॒कु॒र्व॒त॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-4देवा वा इत्यादि ॥ यन्नाम यत्किंचित्कर्म देवा असुरजयार्थं यज्ञे विषये अकुर्वत, तत्सर्वं असुरा अप्यकुर्वत । ततोसुरान् जेतुमशक्नुवन्तः तद्विजयोपायमन्विच्छन्तो देवा एतं वक्ष्यमाणं महायज्ञमपश्यन् । ततस्तमतन्वत अतिष्ठन् ।  
+4देवा वा इत्यादि ॥ यन्नाम यत्किंचित्कर्म देवा असुरजयार्थं यज्ञे विषये अकुर्वत, तत्सर्वं असुरा अप्यकुर्वत ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्निहोत्र᳓व्व्ँरत᳓मकुर्वत ।  
+ते᳓ देवा᳓ एत᳓म्महायज्ञ᳓मपश्यन्त᳓मतन्वत ।  
+अग्निहोत्र᳓व्व्ँरत᳓मकुर्वत ।
+</details>
+
+<details><summary>Keith</summary>
+
+The gods saw this great sacrifice, they extended it, they performed the Agnihotra as the vow;
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्नि॒हो॒त्रव्व्ँर॒तम॑कुर्वत ।  
+ते दे॒वा ए॒तम्म॑हाय॒ज्ञम॑पश्य॒न्तम॑तन्वत ।  
+अ॒ग्नि॒हो॒त्रव्व्ँर॒तम॑कुर्वत ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । दे॒वाः । ए॒तम् । म॒हा॒य॒ज्ञमिति॑ महा-य॒ज्ञम् । अ॒प॒श्य॒न् । तम् । अ॒त॒न्व॒त॒ । अ॒ग्नि॒हो॒त्रमित्य॑ग्नि-हो॒त्रम् । व्र॒तम् । अ॒कु॒र्व॒त॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-कः पुनस्स महायज्ञ इत्याह - अग्निहोत्रमित्यदि । अत्रोक्तमाचार्येण – 'तत्पृच्छति कः पुनस्स महायज्ञ इति । अयमेवैष चातुर्मास्यः सोम उक्तो भवति इति । अथ खलु य एव कश्चन सौम्योध्वरस्स महायज्ञः' इति । अग्निहोत्रादिरूपेण प्रच्छन्नं व्रतोपाकरणादि कुवर्न्तः सोममाहरन् । यथाधिगतपरमार्था असुरास्स्वयमनुष्ठातुं न शक्नुयुः, यथा चाग्निहोत्रादिकमेवैते कर्म कुर्वन्तीति मन्येरन् तथा प्रच्छन्नं सोममाहरन्निति । द्वयोः कालयोः व्रतं यस्य स द्विव्रतः ।  
+ततोसुरान् जेतुमशक्नुवन्तः तद्विजयोपायमन्विच्छन्तो देवा एतं वक्ष्यमाणं महायज्ञमपश्यन् । ततस्तमतन्वत अतिष्ठन् ।  
+
+कः पुनस्स महायज्ञ इत्याह - अग्निहोत्रमित्यदि । अत्रोक्तमाचार्येण – 'तत्पृच्छति कः पुनस्स महायज्ञ इति । अयमेवैष चातुर्मास्यः सोम उक्तो भवति इति । अथ खलु य एव कश्चन सौम्योध्वरस्स महायज्ञः' इति । अग्निहोत्रादिरूपेण प्रच्छन्नं व्रतोपाकरणादि कुवर्न्तः सोममाहरन् । यथाधिगतपरमार्था असुरास्स्वयमनुष्ठातुं न शक्नुयुः, यथा चाग्निहोत्रादिकमेवैते कर्म कुर्वन्तीति मन्येरन् तथा प्रच्छन्नं सोममाहरन्निति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -177,62 +296,164 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 त᳓स्माद्द्वि᳓व्रतस्स्याद्द्वि᳓र्ह्यग्निहोत्र᳓ञ्जु᳓ह्वति ।
 </details>
 
+<details><summary>Keith</summary>
+
+therefore one should perform the vow twice, for twice they offer the Agnihotra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒द्द्विव्र॑तस्स्या॒द्द्विर्ह्य॑ग्निहो॒त्रञ्जुह्व॑ति ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-जुह्वतीति । 'हि च' इति निघातप्रतिषेधः 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-पौर्णमासय्ँ᳓ यज्ञ᳓मग्नीषोमी᳓यम्पशु᳓मकुर्वत ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
-पौ॒र्ण॒मा॒सय्ँ य॒ज्ञम॑ग्नीषो॒मीय॑म्प॒शुम॑कुर्वत ।  
+तस्मा॑त् । द्विव्र॑त॒ इति॒ द्वि-व्र॒तः॒ । स्या॒त् । द्विः । हि । अ॒ग्नि॒हो॒त्रमित्य॑ग्नि-हो॒त्रम् । जुह्व॑ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अग्नीषोमीयमिति । द्यावापृथिव्यादिना छः, 'अग्नेस्तुत्स्तोमसोमाः' इति षत्वम्, 'ईदग्नेस्सोमवरुणयोः' इतीकारः । दर्शे भवो दार्श्यः, छान्दसो ण्यः ।
+द्वयोः कालयोः व्रतं यस्य स द्विव्रतः । जुह्वतीति । 'हि च' इति निघातप्रतिषेधः 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दार्श्यय्ँ᳓ यज्ञ᳓माग्नेय᳓म्पशु᳓मकुर्वत ।  
+पौर्णमासय्ँ᳓ यज्ञ᳓मग्नीषोमी᳓यम्पशु᳓मकुर्वत ।
+</details>
 
-वैश्वदेव᳓म्प्रातस्सवन᳓मकुर्वत ।  
+<details><summary>Keith</summary>
 
-वरुणप्रघासा᳓न्मा᳓ध्यन्दिनँ स᳓वनँ साकमेधा᳓न्पितृयज्ञ᳓न्त्र्यम्बकाँस्तृतीयसवन᳓मकुर्वत ।  
+They performed the full moon rite, as the animal sacrifice to Agni and Soma [2].
 </details>
 
 <details><summary>मूलम्</summary>
 
-दा॒र्श्यय्ँ य॒ज्ञमा॑ग्ने॒यम्प॒शुम॑कुर्वत ।  
+पौ॒र्ण॒मा॒सय्ँ य॒ज्ञम॑ग्नीषो॒मीय॑म्प॒शुम॑कुर्वत ।
+</details>
 
-वै॒श्व॒दे॒वम्प्रा॑तस्सव॒नम॑कुर्वत ।  
+<details><summary>पद-पाठः</summary>
 
-व॒रु॒ण॒प्र॒घा॒सान्माध्य॑न्दिनँ॒ सव॑नँ साकमे॒धान्पि॑तृय॒ज्ञन्त्र्य॑म्बकाँस्तृतीयसव॒नम॑कुर्वत ।  
+पौ॒र्ण॒मा॒समिति॑ पौर्ण-मा॒सम् । य॒ज्ञम् । अ॒ग्नी॒षो॒मीय॒मित्य॑ग्नी-सो॒मीय॑म् । प॒शुम् । अ॒कु॒र्व॒त॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-आग्नेयमिति । अग्नेर्ढक् । वैश्वदेवादयः चातुर्मास्ययागाः । साकमेधादित्रयं तृतीयसवनमकुर्वत ।
+अग्नीषोमीयमिति । द्यावापृथिव्यादिना छः, 'अग्नेस्तुत्स्तोमसोमाः' इति षत्वम्, 'ईदग्नेस्सोमवरुणयोः' इतीकारः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓मेषाम᳓सुरा यज्ञ᳓मन्व᳓वाजिगाँसन्त᳓न्ना᳓न्व᳓वायन् ।  
+दार्श्यय्ँ᳓ यज्ञ᳓माग्नेय᳓म्पशु᳓मकुर्वत ।
+</details>
+
+<details><summary>Keith</summary>
+
+They performed the new moon rite, as the animal sacrifice to Agni.
 </details>
 
 <details><summary>मूलम्</summary>
 
-तमे॑षा॒मसु॑रा य॒ज्ञम॒न्ववा॑जिगाँस॒न्तन्नान्ववा॑यन् ।  
+दा॒र्श्यय्ँ य॒ज्ञमा॑ग्ने॒यम्प॒शुम॑कुर्वत ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दा॒र्श्यम् । य॒ज्ञम् । आ॒ग्ने॒यम् । प॒शुम् । अ॒कु॒र्व॒त॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+दर्शे भवो दार्श्यः, छान्दसो ण्यः । आग्नेयमिति । अग्नेर्ढक् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वैश्वदेव᳓म्प्रातस्सवन᳓मकुर्वत ।
+</details>
+
+<details><summary>Keith</summary>
+
+They performed the sacrifice to the All-gods as the morning pressing.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वै॒श्व॒दे॒वम्प्रा॑तस्सव॒नम॑कुर्वत ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वै॒श्व॒दे॒वमिति॑ वैश्व-दे॒वम् । प्रा॒त॒स्स॒व॒नमिति॑ प्रातः-स॒व॒नम् । अ॒कु॒र्व॒त॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+वैश्वदेवादयः चातुर्मास्ययागाः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वरुणप्रघासा᳓न्मा᳓ध्यन्दिनँ स᳓वनम् +++(अकुर्वत)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+They performed the Varunapraghasas, as the midday pressing.
+</details>
+
+<details><summary>मूलम्</summary>
+
+व॒रु॒ण॒प्र॒घा॒सान्माध्य॑न्दिनँ॒ सव॑नम् +++(अकुर्वत)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒रु॒ण॒प्र॒घा॒सानिति॑ वरुण-प्र॒घा॒सान् । माध्य॑न्दिनम् । सव॑नम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साकमेधा᳓न्पितृयज्ञ᳓न्त्र्यम्बकाँस्तृतीयसवन᳓मकुर्वत ।
+</details>
+
+<details><summary>Keith</summary>
+
+They performed the Sakamedhas, the sacrifice to the fathers, and the offering to Tryambaka, as the third pressing.
+</details>
+
+<details><summary>मूलम्</summary>
+
+साकमे॒धान्पि॑तृय॒ज्ञन्त्र्य॑म्बकाँस्तृतीयसव॒नम॑कुर्वत ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सा॒क॒मे॒धानिति॑ साक-मे॒धान् । पि॒तृ॒य॒ज्ञमिति॑ पितृ-य॒ज्ञम् । त्र्य॑म्बका॒निति॒ त्रि-अ॒म्ब॒का॒न् । तृ॒ती॒य॒स॒व॒नमिति॑ तृतीय-स॒व॒नम् । अ॒कु॒र्व॒त॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+साकमेधादित्रयं तृतीयसवनमकुर्वत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓मेषाम᳓सुरा यज्ञ᳓मन्व᳓वाजिगाँसन्त᳓न्ना᳓न्व᳓वायन् ।
+</details>
+
+<details><summary>Keith</summary>
+
+The Asuras sought to follow their sacrifice, but could not get on its tracks.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तमे॑षा॒मसु॑रा य॒ज्ञम॒न्ववा॑जिगाँस॒न्तन्नान्ववा॑यन् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । ए॒षा॒म् । असु॑राः । य॒ज्ञम् । अ॒न्ववा॑जिगाँस॒न्नित्य॑नु-अवा॑जिगाँसन् । तम् । न । अ॒न्ववा॑य॒न्नित्य॑नु-अवा॑यन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -244,14 +465,24 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 
 ते᳓ऽब्रुवन् ।  
 
-अध्वर्तव्या᳓ वा᳓ इमे᳓ देवा᳓ अभूवन्नि᳓ति ।  
+अध्वर्तव्या᳓ वा᳓ इमे᳓ देवा᳓ अभूवन्नि᳓ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+They said, 'These gods have become inviolable (adhvartavyah).
 </details>
 
 <details><summary>मूलम्</summary>
 
 ते॑ऽब्रुवन् ।  
 
-अ॒ध्व॒र्त॒व्या वा इ॒मे दे॒वा अ॑भूव॒न्निति॑ ।  
+अ॒ध्व॒र्त॒व्या वा इ॒मे दे॒वा अ॑भूव॒न्निति॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । अ॒ब्रु॒व॒न् । अ॒ध्व॒र्त॒व्याः । वै । इ॒मे । दे॒वाः । अ॒भू॒व॒न् । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -261,12 +492,22 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓दध्वर᳓स्याध्वरत्व᳓म् ।  
+त᳓दध्वर᳓स्याध्वरत्व᳓म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+That is why the sacrifice (adhvara) is inviolable.
 </details>
 
 <details><summary>मूलम्</summary>
 
-तद॑ध्व॒रस्या॑ध्वर॒त्वम् ।  
+तद॑ध्व॒रस्या॑ध्वर॒त्वम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तत् । अ॒ध्व॒रस्य॑ । अ॒ध्व॒र॒त्वमित्य॑ध्वर-त्वम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -276,25 +517,56 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓तो देवा᳓ अ᳓भवन् , प᳓रा᳓सुराः ।  
+त᳓तो देवा᳓ अ᳓भवन् , प᳓रा᳓सुराः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Then the gods prospered, the Asuras were defeated.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततो॑ दे॒वा अभ॑व॒न् , परासु॑राः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ततः॑ । दे॒वाः । अभ॑वन् । परेति॑ । असु॑राः ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ततो देवा अभवन् भूतिमन्तस्सम्पन्नाः । अस्रुराश्च पराभवन् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓विद्वा᳓न्त्सो᳓मेन य᳓जते ।  
 
 भ᳓वत्यात्म᳓ना प᳓रास्य भ्रा᳓तृव्यो भवति ॥ [6]
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Keith</summary>
 
-ततो॑ दे॒वा अभ॑व॒न् , परासु॑राः ।  
+He who knowing thus offers the Soma, prospers himself, the enemy is defeated.
+</details>
+
+<details><summary>मूलम्</summary>
 
 य ए॒वव्ँवि॒द्वान्त्सोमे॑न॒ यज॑ते ।  
 
 भव॑त्या॒त्मना॒ परा॑स्य॒ भ्रातृ॑व्यो भवति ॥ [6]
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यः । ए॒वम् । वि॒द्वान् । सोमे॑न । यज॑ते । भव॑ति । आ॒त्मना॑ । परेति॑ । अ॒स्य॒ । भ्रातृ॑व्यः । भ॒व॒ति॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-ततो देवा अभवन् भूतिमन्तस्सम्पन्नाः । अस्रुराश्च पराभवन् । य एवमित्यादि । गतम् ॥
+य एवमित्यादि । गतम् ॥
 
 इति तृतीये द्वितीये द्वितीयोनुवाकः ॥
 </details>

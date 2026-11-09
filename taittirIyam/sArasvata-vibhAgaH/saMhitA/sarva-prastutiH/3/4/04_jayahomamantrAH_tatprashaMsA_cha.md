@@ -133,27 +133,21 @@ For he waxed dread, worthy of offering.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवासुरा᳓स्सय्ँ᳓यत्ता आसन् ।
+</details>
 
-स᳓ इ᳓न्द्रᳶ प्रजा᳓पतिमु᳓पाधावत् ।  
+<details><summary>Keith</summary>
 
-त᳓स्मा एता᳓ञ् ज᳓यान् प्रा᳓यच्छत् ।  
-
-ता᳓न् अजुहोत् ।   
-
-त᳓तो वै᳓ देवा᳓ अ᳓सुरानजयन्  ।  
+The gods and the Asuras were in conflict.
 </details>
 
 <details><summary>मूलम्</summary>
 
 दे॒वा॒सु॒रास्सय्ँय॑त्ता आसन् ।
+</details>
 
-स इन्द्रᳶ॑ प्र॒जाप॑ति॒मुपा॑धावत् ।  
+<details><summary>पद-पाठः</summary>
 
-तस्मा॑ ए॒ताञ्जया॒न्प्राय॑च्छत् ।  
-
-तान॑जुहोत् ।   
-
-ततो॒ वै दे॒वा असु॑रानजयन्  ।  
+दे॒वा॒सु॒रा इति॑ देव-अ॒सु॒राः । सय्यँ॑त्ता॒ इति॒ सं-य॒त्ताः॒ । आ॒स॒न् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -163,21 +157,133 @@ For he waxed dread, worthy of offering.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+स᳓ इ᳓न्द्रᳶ प्रजा᳓पतिमु᳓पाधावत् ।  
+त᳓स्मा एता᳓ञ् ज᳓यान् प्रा᳓यच्छत् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Indra had recourse to Prajapati, to him he gave these victories (offerings)
+</details>
+
+<details><summary>मूलम्</summary>
+
+स इन्द्रᳶ॑ प्र॒जाप॑ति॒मुपा॑धावत् ।  
+तस्मा॑ ए॒ताञ्जया॒न्प्राय॑च्छत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । इन्द्रः॑ । प्र॒जाप॑ति॒मिति॑ प्र॒जा-प॒ति॒म् । उपेति॑ । अ॒धा॒व॒त् । तस्मै॑ । ए॒तान् । जयान्॑ । प्रेति॑ । अ॒य॒च्छ॒त् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता᳓न् अजुहोत् ।   
+</details>
+
+<details><summary>Keith</summary>
+
+he offered them
+</details>
+
+<details><summary>मूलम्</summary>
+
+तान॑जुहोत् ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तान् । अ॒जु॒हो॒त् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓तो वै᳓ देवा᳓ अ᳓सुरानजयन्  ।  
+</details>
+
+<details><summary>Keith</summary>
+
+then indeed were the gods victorious over the Asuras
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततो॒ वै दे॒वा असु॑रानजयन्  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ततः॑ । वै । दे॒वाः । असु॑रान् । अ॒ज॒य॒न् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 य᳓द् अ᳓जयन्  
 त᳓ज् ज᳓यानाञ् जयत्व᳓म् ।   
-स्प᳓र्धमानेनैते᳓ होतव्या᳙ -  
-ज᳓यत्य् एव᳓ ता᳓म् पृ᳓तनाम् ॥ [15]  
+</details>
+
+<details><summary>Keith</summary>
+
+in that they were victorious, that is why (the offerings) are called 'victorious'.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यदज॑य॒न् तज्जया॑नाञ्जय॒त्वम् ।   
-स्पर्ध॑मानेनै॒ते हो॑त॒व्या॑ जय॑त्ये॒व ताम्पृत॑नाम् ॥ [15]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । अज॑यन् । तत् । जया॑नाम् । ज॒य॒त्वमिति॑ जय-त्वम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तज्जयानां जयत्वमिति । जयति परसेनामेतैरिति जयाः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्प᳓र्धमानेनैते᳓ होतव्याः᳙ ।
+</details>
+
+<details><summary>Keith</summary>
+
+They should be offered by one engaged in conflict
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्पर्ध॑मानेनै॒ते हो॑त॒व्याः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्पर्ध॑मानेन । ए॒ते । हो॒त॒व्याः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज᳓यत्य् एव᳓ ता᳓म् पृ᳓तनाम् ॥ [15]  
+</details>
+
+<details><summary>Keith</summary>
+
+verily does he win in the conflict.
+</details>
+
+<details><summary>मूलम्</summary>
+
+जय॑त्ये॒व ताम्पृत॑नाम् ॥ [15]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जय॑ति । ए॒व । ताम् । पृत॑नाम् ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
 
 इति तृतीये चतुर्थे चतुर्थोनुवाकः ॥  
 </details>

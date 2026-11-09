@@ -12,10 +12,23 @@ title = "०६ पत्नीविषयका योक्त्रबन्
 स᳓न्त्वा नह्यामि प्रज᳓याह᳓मद्य᳓ सा᳓ दीक्षिता᳓ सनवो वा᳓जमस्मे᳓  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+I yoke thee with milk, with ghee;  
+I yoke thee with water, and plants;  
+I yoke thee with offspring;  
+To-day being consecrated do thou win strength for us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्त्वा॑ नह्यामि॒ पय॑सा घृ॒तेन॒ सन्त्वा॑ नह्याम्य॒प ओष॑धीभिः  ।   
 सन्त्वा॑ नह्यामि प्र॒जया॒हम॒द्य सा दी॑क्षि॒ता स॑नवो॒ वाज॑म॒स्मे  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । त्वा॒ । न॒ह्या॒मि॒ । पय॑सा । घृ॒तेन॑ । समिति॑ । त्वा॒ । न॒ह्या॒मि॒ । अ॒पः । ओष॑धीभि॒रित्योष॑धि-भिः॒ ॥ समिति॑ । त्वा॒ । न॒ह्या॒मि॒ । प्र॒जयेति॑ प्र-जया॑ । अ॒हम् । अ॒द्य । सा । दी॒क्षि॒ता । स॒न॒वः॒ । वाज॑म् । अ॒स्मे इति॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -23,10 +36,18 @@ title = "०६ पत्नीविषयका योक्त्रबन्
 1पत्नीं संनह्यति - हे पत्नि त्वां संनह्यामि पयसा घृतेन च सह बध्नामि अनेन योक्त्रसंनहनेन हेतुना । किं च - अद्भिरोषधीभिश्च त्वां संनह्यामि । अप इति व्यत्ययेन तृतीयार्थे द्वितीया । यद्वा - त्वत्सन्नहनेन हेतुना अप ओषधीभिस्सह सन्नह्यामि । किं च - त्वां प्रजया पुत्रादिकयाऽहमद्य इदानीं सन्नह्यामि । सा त्वमनेन दीक्षिता अस्मे अस्मभ्यं वाजमन्नं सनवः संविभज देहि वा । यद्वा - अस्मदर्थं हविर्लक्षणमन्नं साधय ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प्रै᳓तु ब्र᳓ह्मणस्प᳓त्नी वे᳓दिव्ँव᳓र्णेन सीदतु  ।   
 अ᳓थाह᳓मनुकामि᳓नी स्वे᳓ लोके᳓ विशा᳓ इह᳓  ।   
+</details>
+
+<details><summary>Keith</summary>
+
+Let the lady of holy power advance,  
+Let her sit on the altar with fair colour;  
+Then may I, full of desire,  
+Enter my own place, here.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -35,21 +56,39 @@ title = "०६ पत्नीविषयका योक्त्रबन्
 अथा॒हम॑नुका॒मिनी॒ स्वे लो॒के वि॒शा इ॒ह  ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । ए॒तु॒ । ब्रह्म॑णः । पत्नी॑ । वेदि॑म् । वर्णे॑न । सी॒द॒तु॒ ॥ अथ॑ । अ॒हम् । अ॒नु॒का॒मिनीत्य॑नु-का॒मिनी॑ । स्वे । लो॒के । वि॒शै । इ॒ह ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2दीक्षणीयायां पत्नीं प्राचीमुदानयन् वाचयति - प्रैत्वित्यनुष्टुभा ॥ प्रैतु गच्छतु । ब्रह्मणः परिबृढस्यास्य यज्ञस्य पत्नी पालयित्री वेदिं प्राप्नोतु । 'षष्ठ्याः पतिपुत्र' इति सत्वम् । प्राप्य च वर्णेन रूपेण सीदतु उपविशतु आत्मानमेवाह, पुरुषव्यत्ययो वा । अथानन्तरमहं अनुकामिनी अनुक्रमेण यज्ञफलं यज्ञस्यापि धनसंपादनद्वारेण कामयमाना स्वे लोके बर्हिस्थाने जघनेन गार्हपत्यं विशै उपविशानि । कारकस्य सर्वानन्यत्वात् लोपे सति निघाताभावः । इहास्मिन् कर्मणि ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 सुप्रज᳓सस्त्वा वयँ᳓ सुप᳓त्नीरु᳓प सेदिम  ।   
 अ᳓ग्ने सपत्नद᳓म्भनम᳓दब्धासो अ᳓दाभ्यम्  ।   
+</details>
+
+<details><summary>Keith</summary>
+
+With fair offspring, with noble husbands,  
+We are come to thee,  
+O Agni, to thee that deceivest the foe,  
+The undeceivable, we that are not deceived.
 </details>
 
 <details><summary>मूलम्</summary>
 
 सु॒प्र॒जस॑स्त्वा व॒यँ सु॒पत्नी॒रुप॑ सेदिम  ।   
 अग्ने॑ सपत्न॒दम्भ॑न॒मद॑ब्धासो॒ अदा॑भ्यम्  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒प्र॒जस॒ इति॑ सु-प्र॒जसः॑ । त्वा॒ । व॒यम् । सु॒पत्नी॒रिति॑ सु-पत्नीः॑ । उपेति॑ । से॒दि॒म॒ ॥ अग्ने॑ । स॒प॒त्न॒दम्भ॑न॒मिति॑ सपत्न-दम्भ॑नम् । अद॑ब्धासः । अदा॑भ्यम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -63,10 +102,23 @@ title = "०६ पत्नीविषयका योक्त्रबन्
 धातु᳓श्च यो᳓नौ सुकृत᳓स्य लोके᳓ स्योन᳓म्मे सह᳓ प᳓त्या करोमि  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+I loosen this bond of Varuna [1],  
+Which Savitr, the kindly, hath bound,  
+And in the birthplace of the creator, in the place of good action,  
+I make it pleasant for me with my husband.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मव्ँवि ष्या॑मि॒ वरु॑णस्य॒ पाश॑म् [19]  यमब॑ध्नीत सवि॒ता सु॒केतः॑  ।   
 धा॒तुश्च॒ योनौ॑ सुकृ॒तस्य॑ लो॒के स्यो॒नम्मे॑ स॒ह पत्या॑ करोमि  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒मम् । वीति॑ । स्या॒मि॒ । वरु॑णस्य । पाश॑म् । यम् । अब॑ध्नीत । स॒वि॒ता । सु॒केत॒ इति॑ सु-केतः॑ ॥ धा॒तुः । च॒ । योनौ॑ । सु॒कृ॒तस्येति॑ सु-कृ॒तस्य॑ । लो॒के । स्यो॒नम् । मे॒ । स॒ह । पत्या॑ । क॒रो॒मि॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -85,10 +137,20 @@ title = "०६ पत्नीविषयका योक्त्रबन्
 उदे᳓हि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Go forth, go up, to the lovers of holy order;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रेहि॑ ।  
 उ॒देहि॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । इ॒हि॒ । उ॒देहीत्यु॑त्-एहि॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -101,9 +163,19 @@ title = "०६ पत्नीविषयका योक्त्रबन्
 ऋत᳓स्य वामी᳓र᳓न्वग्नि᳓स्ते᳓ऽग्रन्नयतु᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+may Agni lead thy head,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तस्य॑ वा॒मीरन्व॒ग्निस्तेऽग्र॑न्नय॒तु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तस्य॑ । वा॒मीः । अन्विति॑ । अ॒ग्निः । ते॒ । अग्र॑म् । न॒य॒तु॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -116,9 +188,19 @@ title = "०६ पत्नीविषयका योक्त्रबन्
 अ᳓दितिर्म᳓ध्यन्ददताम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Aditi give (thee) a middle,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अदि॑ति॒र्मध्य॑न्ददताम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अदि॑तिः । मध्य॑म् । द॒द॒ता॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -131,9 +213,19 @@ title = "०६ पत्नीविषयका योक्त्रबन्
 रुद्रा᳓वसृष्टासि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+thou art that let loose by Rudra,
+</details>
+
 <details><summary>मूलम्</summary>
 
 रु॒द्राव॑सृष्टासि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रु॒द्राव॑सृ॒ष्टेति॑ रु॒द्र-अ॒व॒सृ॒ष्टा॒ । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -151,9 +243,19 @@ title = "०६ पत्नीविषयका योक्त्रबन्
 युवा᳓ ना᳓म +++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Yuva by name;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यु॒वा नाम॑ +++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यु॒वा । नाम॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -166,9 +268,19 @@ title = "०६ पत्नीविषयका योक्त्रबन्
 मा᳓ मा हिँसीः  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+harm me not.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मा मा॑ हिँसीः  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मा । मा॒ । हिँ॒सीः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -184,20 +296,51 @@ title = "०६ पत्नीविषयका योक्त्रबन्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓सुभ्यो रुद्रे᳓भ्य आदित्ये᳓भ्यो वि᳓श्वेभ्यो वो देवे᳓भ्यो  यज्ञा᳓य वᳶ पन्ने᳓जनीर्गृह्णामि  
+</details>
 
-+++(व᳓सुभ्यो रुद्रे᳓भ्य आदित्ये᳓भ्यो वि᳓श्वेभ्यो वो देवे᳓भ्यो )+++ यज्ञा᳓य वᳶ पन्ने᳓जनीस्सादयामि ।   
+<details><summary>Keith</summary>
+
+For the Vasus, the Rudras, the Adityas, for the All-gods, I take you, foot-washing (waters);
 </details>
 
 <details><summary>मूलम्</summary>
 
 वसु॑भ्यो रु॒द्रेभ्य॑ आदि॒त्येभ्यो॒ विश्वे॑भ्यो वो दे॒वेभ्यो॒  य॒ज्ञाय॑ वᳶ प॒न्नेज॑नीर्गृह्णामि  
+</details>
 
-+++(वसु॑भ्यो रु॒द्रेभ्य॑ आदि॒त्येभ्यो॒ विश्वे॑भ्यो वो दे॒वेभ्यो॒ )+++ य॒ज्ञाय॑ वᳶ प॒न्नेज॑नीस्सादयामि ।   
+<details><summary>पद-पाठः</summary>
+
+वसु॑भ्य॒ इति॒ वसु॑-भ्यः॒ । रु॒द्रेभ्यः॑ । आ॒दि॒त्येभ्यः॑ । विश्वे॑भ्यः । वः॒ । दे॒वेभ्यः॑ । प॒न्नेज॑नी॒रिति॑ पत्-नेज॑नीः । गृ॒ह्णा॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-6-7पन्नेजनीनां ग्रहणसादन मन्त्रौ वसुभ्य इत्यादिका उष्णिहौ, मध्ये अष्टाक्षरः पादः, अभित एकादशाक्षरौ । 'यज्ञाय वः' इति मन्त्रयोरन्तः । गृह्णामीति सादयामीति चेति । सादने वसुभ्य इत्याद्यनुषज्यते ॥
+6-7पन्नेजनीनां ग्रहणसादन मन्त्रौ वसुभ्य इत्यादिका उष्णिहौ, मध्ये अष्टाक्षरः पादः, अभित एकादशाक्षरौ । 'यज्ञाय वः' इति मन्त्रयोरन्तः । गृह्णामीति सादयामीति चेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(व᳓सुभ्यो रुद्रे᳓भ्य आदित्ये᳓भ्यो वि᳓श्वेभ्यो वो देवे᳓भ्यो )+++ यज्ञा᳓य वᳶ पन्ने᳓जनीस्सादयामि ।   
+</details>
+
+<details><summary>Keith</summary>
+
+For the sacrifice I place you, foot-washing (waters).
+</details>
+
+<details><summary>मूलम्</summary>
+
++++(वसु॑भ्यो रु॒द्रेभ्य॑ आदि॒त्येभ्यो॒ विश्वे॑भ्यो वो दे॒वेभ्यो॒ )+++ य॒ज्ञाय॑ वᳶ प॒न्नेज॑नीस्सादयामि ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒ज्ञाय॑ । वः॒ । प॒न्नेज॑नी॒रिति॑ पत्-नेज॑नीः । सा॒द॒या॒मि॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सादने वसुभ्य इत्याद्यनुषज्यते ॥
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -213,12 +356,22 @@ title = "०६ पत्नीविषयका योक्त्रबन्
 वि᳓श्वा रे᳓ताँसि धिषीय᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+In the sight of thee that art all, that hast all, that hast manly power [2], O Agni, in the lovers, may I deposit all seed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्व॑स्य ते॒ विश्वा॑वतो॒ ..  
 वृष्णि॑यावत॒स्तव॑ ..  
 अग्ने वा॒मीरनु॑ स॒न्दृशि॒ ..   
 विश्वा॒ रेताँ॑सि धिषी॒य ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्व॑स्य । ते॒ । विश्वा॑वत॒ इति॒ विश्व॑-व॒तः॒ । वृष्णि॑यावत॒ इति॒ वृष्णि॑य-व॒तः॒ । तव॑ । अ॒ग्ने॒ । वा॒मीः । अन्विति॑ । स॒न्दृशीति॑ सं-दृशि॑ । विश्वा॑ । रेताँ॑सि । धि॒षी॒य॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -242,11 +395,21 @@ title = "०६ पत्नीविषयका योक्त्रबन्
 वा᳓तस्य प᳓त्मन्निड᳓ ईडिताः᳓ ॥   
 </details>
 
+<details><summary>Keith</summary>
+
+The sacrifice hath come to the gods, the goddesses have left the sacrifice for the gods, to the sacrificer that poureth blessings, accompanied by the cry 'Hail!', standing in the waters, do ye follow the Gandharva, in the rush of the wind, food that is praised.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग॑न्दे॒वान्य॒ज्ञो नि दे॒वीर्दे॒वेभ्यो॑ य॒ज्ञम॑शिषन्न॒स्मिन्त्सु॑न्व॒ति ।  
 यज॑मान आ॒शिष॒स्स्वाहा॑कृतास्समुद्रे॒ष्ठा ग॑न्ध॒र्वमा ति॑ष्ठ॒ताऽनु॑  ।   
 वात॑स्य॒ पत्म॑न्नि॒ड ई॑डि॒ताः ॥   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग॑न् । दे॒वान् । य॒ज्ञः । नीति॑ । दे॒वीः । दे॒वेभ्यः॑ । य॒ज्ञम् । अ॒शि॒ष॒न् । अ॒स्मिन् । सु॒न्व॒ति । यज॑माने । आ॒शिष॒ इत्या॑-शिषः॑ । स्वाहा॑कृता॒ इति॒ स्वाहा॑-कृ॒ताः॒ । स॒मु॒द्रे॒ष्ठा इति॑ समुद्रे-स्थाः । ग॒न्ध॒र्वम् । एति॑ । ति॒ष्ठ॒त॒ । अनु॑ ॥ वात॑स्य । पत्म॑न् । इ॒डः । ई॒डि॒ताः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

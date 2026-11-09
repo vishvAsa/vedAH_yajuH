@@ -8,9 +8,19 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 वायु᳓रसि प्राणो᳓ ना᳓म सवितु᳓रा᳓धिपत्येऽपान᳓म्मे दाः।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the wind, expiration by name, in the lordship of Savitr give me expiration.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒युर॑सि प्रा॒णो नाम॑ सवि॒तुराधि॑पत्येऽपा॒नम्मे॑ दाः।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒युः । अ॒सि॒ । प्रा॒ण इति॑ प्र-अ॒नः । नाम॑ । स॒वि॒तुः । आधि॑पत्य॒ इत्याधि॑-प॒त्ये॒ । अ॒पा॒नमित्य॑प-अ॒नम् । मे॒ । दाः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -23,9 +33,19 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 च᳓क्षुरसि श्रो᳓त्रन्ना᳓म धातु᳓रा᳓धिपत्य आ᳓युर्मे दाः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the eye, the ear by name, in the lordship of Dhatr give me life.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चक्षु॑रसि॒ श्रोत्र॒न्नाम॑ धा॒तुराधि॑पत्य॒ आयु॑र्मे दाः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चक्षुः॑ । अ॒सि॒ । श्रोत्र॑म् । नाम॑ । धा॒तुः । आधि॑पत्य॒ इत्याधि॑-प॒त्ये॒ । आयुः॑ । मे॒ । दाः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -38,9 +58,19 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 रूप᳓मसि व᳓र्णो ना᳓म बृ᳓हस्प᳓तेरा᳓धिपत्ये प्रजा᳓म्मे दाः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the form, colour by name, in the lordship of Brhaspati, give me offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रू॒पम॑सि॒ वर्णो॒ नाम॒ बृह॒स्पते॒राधि॑पत्ये प्र॒जाम्मे॑ दाः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रू॒पम् । अ॒सि॒ । वर्णः॑ । नाम॑ । बृह॒स्पतेः॑ । आधि॑पत्य॒ इत्याधि॑-प॒त्ये॒ । प्र॒जामिति॑ प्र-जाम् । मे॒ । दाः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -53,9 +83,19 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 ऋत᳓मसि सत्य᳓न्ना᳓मे᳓न्द्रस्या᳓धिपत्ये क्षत्र᳓म्मे दाः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art holy order, truth by name, in the lordship of Indra, give me lordly power.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तम॑सि स॒त्यन्नामेन्द्र॒स्याधि॑पत्ये क्ष॒त्रम्मे॑ दाः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तम् । अ॒सि॒ । स॒त्यम् । नाम॑ । इन्द्र॑स्य । आधि॑पत्य॒ इत्याधि॑-प॒त्ये॒ । क्ष॒त्रम् । मे॒ । दाः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -68,9 +108,19 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 भूत᳓मसि भ᳓व्यन्ना᳓म पितृणा᳓मा᳓धिपत्येऽपा᳓मो᳓षधीनाङ्ग᳓र्भन्धाः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the past, the future by name, in the lordship of the Pitrs, expugnate the waters and the plants.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भू॒तम॑सि॒ भव्य॒न्नाम॑ पितृ॒णामाधि॑पत्ये॒ऽपामोष॑धीना॒ङ्गर्भ॑न्धाः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भू॒तम् । अ॒सि॒ । भव्य॑म् । नाम॑ । पि॒तृ॒णाम् । आधि॑पत्य॒ इत्याधि॑-प॒त्ये॒ । अ॒पाम् । ओष॑धीनाम् । गर्भ॑म् । धाः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -83,9 +133,19 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 ऋत᳓स्य त्वा व्यो᳙मने +++(गृण्हामि)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thee for the realm of holy order!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तस्य॑ त्वा॒ व्यो॑मने +++(गृण्हामि)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तस्य॑ । त्वा॒ । व्यो॑मन॒ इति॒ वि-ओ॒म॒ने॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -98,9 +158,19 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 ऋत᳓स्य [11]  त्वा वि᳓भूमने +++(गृण्हामि)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thee for the might of holy order! [1]
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तस्य॑ [11]  त्वा॒ विभू॑मने +++(गृण्हामि)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तस्य॑ । त्वा॒ । विभू॑मन॒ इति॒ वि-भू॒म॒ने॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -113,9 +183,19 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 ऋत᳓स्य त्वा वि᳓धर्मणे +++(गृण्हामि)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thee for the circumference of holy order!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तस्य॑ त्वा॒ विध॑र्मणे +++(गृण्हामि)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तस्य॑ । त्वा॒ । विध॑र्मण॒ इति॒ वि-ध॒र्म॒णे॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -128,9 +208,19 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 ऋत᳓स्य त्वा सत्या᳓य +++(गृण्हामि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thee for the truth of holy order!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तस्य॑ त्वा स॒त्याय॑ +++(गृण्हामि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तस्य॑ । त्वा॒ । स॒त्याय॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -143,9 +233,19 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 ऋत᳓स्य त्वा ज्यो᳓तिषे +++(गृण्हामि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thee for the light of holy order!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तस्य॑ त्वा॒ ज्योति॑षे +++(गृण्हामि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तस्य॑ । त्वा॒ । ज्योति॑षे ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -161,20 +261,71 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिर्विरा᳓जमपश्यत् ।  
-त᳓या भूत᳓ञ्च भ᳓व्यञ्चासृजत ।  
-ता᳓मृ᳓षिभ्यस्तिरो᳙ऽदधात् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Prajapati saw the Viraj;
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिर्वि॒राज॑मपश्यत् ।  
-तया॑ भू॒तञ्च॒ भव्य॑ञ्चासृजत ।  
-तामृषि॑भ्यस्ति॒रो॑ऽदधात् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । वि॒राज॒मिति॑ वि-राज॑म् । अ॒प॒श्य॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-11अथैतेषां पृश्नीनामेव ब्राह्मणं - प्रजापतिरित्यादि ॥ विराड्दशाक्षरा, गौर्वा । ऋषिभ्यस्तिरोदधात् तिरोहितामकरोत् ।
+11अथैतेषां पृश्नीनामेव ब्राह्मणं - प्रजापतिरित्यादि ॥ विराड्दशाक्षरा, गौर्वा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓या भूत᳓ञ्च भ᳓व्यञ्चासृजत ।  
+</details>
+
+<details><summary>Keith</summary>
+
+by it he created the past and the future;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तया॑ भू॒तञ्च॒ भव्य॑ञ्चासृजत ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तया॑ । भू॒तम् । च॒ । भव्य॑म् । च॒ । अ॒सृ॒ज॒त॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता᳓मृ᳓षिभ्यस्तिरो᳙ऽदधात् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he concealed it from the Rsis;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तामृषि॑भ्यस्ति॒रो॑ऽदधात् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ताम् । ऋषि॑भ्य॒ इत्यृषि॑-भ्यः॒ । ति॒रः । अ॒द॒धा॒त् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ऋषिभ्यस्तिरोदधात् तिरोहितामकरोत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -183,10 +334,20 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 त᳓या वै᳓ स᳓ पृ᳓श्ञीन्का᳓मानसृजत ।  
 </details>
 
+<details><summary>Keith</summary>
+
+by penance Jamadagni beheld it, and by it he created various delights;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ताञ्ज॒मद॑ग्नि॒स्तप॑साऽपश्यत् ।  
 तया॒ वै स पृश्ञी॒न्कामा॑नसृजत ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ताम् । ज॒मद॑ग्निः । तप॑सा । अ॒प॒श्य॒त् । तया॑ । वै । सः । पृश्ञीन्॑ । कामान्॑ । अ॒सृ॒ज॒त॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -197,20 +358,53 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त्पृश्ञीनाम्पृश्ञित्व᳓म् ।   
-य᳓त्पृ᳓श्ञयो गृह्य᳓न्ते᳓ ।  
-पृ᳓श्ञीनेव᳓ तैᳵ᳓ का᳓मान्य᳓जमानो᳓ऽव रुन्द्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+that is why the various (cups) have their name.
 </details>
 
 <details><summary>मूलम्</summary>
 
 तत्पृ॑श्ञीनाम्पृश्ञि॒त्वम् ।   
-यत्पृश्ञ॑यो गृ॒ह्यन्ते ।  
-पृश्ञी॑ने॒व तैᳵ कामा॒न्यज॑मा॒नोऽव॑ रुन्द्धे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तत् । पृश्ञी॑नाम् । पृ॒श्ञि॒त्वमिति॑ पृश्ञि-त्वम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तत्पृश्निग्रहाणां पृश्नित्वम्, पृश्निस्थान्कामान् प्राणादीन् दश यजमानोवरुन्धे ।
+तत्पृश्निग्रहाणां पृश्नित्वम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓त्पृ᳓श्ञयो गृह्य᳓न्ते᳓ ।  
+पृ᳓श्ञीनेव᳓ तैᳵ᳓ का᳓मान्य᳓जमानो᳓ऽव रुन्द्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+In that the various (cups) are drawn, so the sacrificer wins various delights.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्पृश्ञ॑यो गृ॒ह्यन्ते ।  
+पृश्ञी॑ने॒व तैᳵ कामा॒न्यज॑मा॒नोऽव॑ रुन्द्धे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । पृश्ञ॑यः । गृ॒ह्यन्ते॑ । पृश्ञीन्॑ । ए॒व । तैः । कामान्॑ । यज॑मानः । अवेति॑ । रु॒न्द्धे॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+पृश्निस्थान्कामान् प्राणादीन् दश यजमानोवरुन्धे ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -220,31 +414,92 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वायु᳓रसि प्राणो᳓ ना᳓मे᳓त्याह ।  
-प्राणापाना᳓वेवा᳓व रुन्द्धे ।
+वायु᳓रसि प्राणो᳓ [12] ना᳓मे᳓त्याह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art the wind, expiration [2] by name', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
-वा॒युर॑सि प्रा॒णो नामेत्या॑ह ।  
-प्रा॒णा॒पा॒नावे॒वाव॑ रुन्द्धे ।
+वा॒युर॑सि प्रा॒णः [12] नामेत्या॑ह ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒युः । अ॒सि॒ । प्रा॒ण इति॑ प्र-अ॒नः । नाम॑ । इति॑ । आ॒ह॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अधुना ग्रहान् तांश्च क्रमेण दर्शयति वायुरसीत्यादि । सर्वप्राणतृप्त्युपलक्षणं प्राणापानग्रहणम् ॥
+अधुना ग्रहान् तांश्च क्रमेण दर्शयति वायुरसीत्यादि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राणापाना᳓वेवा᳓व रुन्द्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he wins expiration and inspiration.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रा॒णा॒पा॒नावे॒वाव॑ रुन्द्धे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रा॒णा॒पा॒नाविति॑ प्राण-अ॒पा॒नौ । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सर्वप्राणतृप्त्युपलक्षणं प्राणापानग्रहणम् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓क्षुरसि श्रो᳓त्रन्ना᳓मे᳓त्याह ।  
-आ᳓युरेवा᳓व रुन्द्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art the eye, the ear by name', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 चक्षु॑रसि॒ श्रोत्र॒न्नामेत्या॑ह ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चक्षुः॑ । अ॒सि॒ । श्रोत्र॑म् । नाम॑ । इति॑ । आ॒ह॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ᳓युरेवा᳓व रुन्द्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he wins life.
+</details>
+
+<details><summary>मूलम्</summary>
+
 आयु॑रे॒वाव॑ रुन्द्धे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आयुः॑ । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -254,12 +509,42 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रूप᳓मसि व᳓र्णो ना᳓मे᳓त्याह प्रजा᳓मेवा᳓व रुन्द्धे ।  
+रूप᳓मसि व᳓र्णो ना᳓मे᳓त्याह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art the form, colour by name', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
-रू॒पम॑सि॒ वर्णो॒ नामेत्या॑ह प्र॒जामे॒वाव॑ रुन्द्धे ।  
+रू॒पम॑सि॒ वर्णो॒ नामेत्या॑ह ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रू॒पम् । अ॒सि॒ । वर्णः॑ । नाम॑ । इति॑ । आ॒ह॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रजा᳓मेवा᳓व रुन्द्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he wins offspring.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्र॒जामे॒वाव॑ रुन्द्धे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जामिति॑ प्र-जाम् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -269,19 +554,67 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋत᳓मसि सत्य᳓न्ना᳓मे᳓त्याह क्षत्र᳓मेवा᳓व रुन्द्धे ।  
-भूत᳓मसि भ᳓व्यन्ना᳓मे᳓त्याह ।  
+ऋत᳓मसि सत्य᳓न्ना᳓मे᳓त्याह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art holy order, truth by name', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऋ॒तम॑सि स॒त्यन्नामेत्या॑ह क्ष॒त्रमे॒वाव॑ रुन्द्धे ।  
-भू॒तम॑सि॒ भव्य॒न्नामेत्या॑ह ।  
+ऋ॒तम॑सि स॒त्यन्नामेत्या॑ह ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तम् । अ॒सि॒ । स॒त्यम् । नाम॑ । इति॑ । आ॒ह॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्षत्र᳓मेवा᳓व रुन्द्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he wins lordly power.
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्ष॒त्रमे॒वाव॑ रुन्द्धे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्ष॒त्रम् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 14क्षत्रमिति ॥ बलं सत्यहेतुकम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भूत᳓मसि भ᳓व्यन्ना᳓मे᳓त्याह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art the past, the future by name', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+भू॒तम॑सि॒ भव्य॒न्नामेत्या॑ह ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भू॒तम् । अ॒सि॒ । भव्य॑म् । नाम॑ । इति॑ । आ॒ह॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -293,13 +626,21 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश᳓वो वा᳓ अपा᳓मो᳓षधीनाङ्ग᳓र्भः ।   
-पशू᳓नेवा᳓ऽव रुन्द्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the foetus of the waters and the plants is cattle;
 </details>
 
 <details><summary>मूलम्</summary>
 
 प॒शवो॒ वा अ॒पामोष॑धीना॒ङ्गर्भः॑ ।   
-प॒शूने॒वाऽव॑ रुन्द्धे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒शवः॑ । वै । अ॒पाम् । ओष॑धीनाम् । गर्भः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -309,19 +650,67 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+पशू᳓नेवा᳓ऽव [13] रुन्द्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he wins cattle [3].
+</details>
+
+<details><summary>मूलम्</summary>
+
+प॒शूने॒वाऽव॑ [13] रुन्द्धे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒शून् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एता᳓वद्वै᳓ पु᳓रुषम्परि᳓तस्त᳓देवा᳓व रुन्द्धे ।   
-ऋत᳓स्य त्वा व्यो᳙मन इ᳓त्याह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+So much as is around a man, that does he thus win.
 </details>
 
 <details><summary>मूलम्</summary>
 
 ए॒ताव॒द्वै पुरु॑षम्प॒रित॒स्तदे॒वाव॑ रुन्द्धे ।   
-ऋ॒तस्य॑ त्वा॒ व्यो॑मन॒ इत्या॑ह ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒ताव॑त् । वै । पुरु॑षम् । प॒रितः॑ । तत् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एतावदिति । पुरुषस्य परिकरवत् प्रत्यासज्ज्य स्थितं एतावत्प्राणादि पश्वन्तमेतत्सर्वमवरुन्धे एभिः पृश्निभिः दशभिः । 'अभितःपरितः' इति द्वितीया ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऋत᳓स्य त्वा व्यो᳙मन इ᳓त्याह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thee for the realm of holy order', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऋ॒तस्य॑ त्वा॒ व्यो॑मन॒ इत्या॑ह ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तस्य॑ । त्वा॒ । व्यो॑मन॒ इति॒ वि-ओ॒म॒ने॒ । इति॑ । आ॒ह॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -331,27 +720,192 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इयव्ँ᳓वा᳓ ऋत᳓स्य व्यो᳙मेमा᳓मेवा᳓भि᳓ जयति ।   
-ऋत᳓स्य त्वा वि᳓भूमन इ᳓त्याह ।    
-अन्त᳓रिक्षव्ँवा᳓ ऋत᳓स्य वि᳓भूमान्त᳓रिक्षमेवा᳓भि᳓ जयति ।  
-ऋत᳓स्य त्वा वि᳓धर्मण इ᳓त्याह ।  
-द्यौ᳓र्वा᳓ ऋत᳓स्य वि᳓धर्म दि᳓वमेवा᳓भि᳓ जयति ।  
-ऋत᳓स्य त्वा सत्या᳓ये᳓त्याह ।  
+इयव्ँ᳓वा᳓ ऋत᳓स्य व्यो᳙म ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the realm of holy order is this (earth);
 </details>
 
 <details><summary>मूलम्</summary>
 
-इ॒यव्ँवा ऋ॒तस्य॒ व्यो॑मे॒मामे॒वाभि ज॑यति ।   
-ऋ॒तस्य॑ त्वा॒ विभू॑मन॒ इत्या॑ह ।    
-अ॒न्तरि॑क्षव्ँ॒वा ऋ॒तस्य॒ विभू॑मा॒न्तरि॑क्षमे॒वाभि ज॑यति ।  
-ऋ॒तस्य॑ त्वा॒ विध॑र्मण॒ इत्या॑ह ।  
-द्यौर्वा ऋ॒तस्य॒ विध॑र्म॒ दिव॑मे॒वाभि ज॑यति ।  
-ऋ॒तस्य॑ त्वा॒ स॒त्यायेत्या॑ह ।  
+इ॒यव्ँवा ऋ॒तस्य॒ व्यो॑म ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒यम् । वै । ऋ॒तस्य॑ । व्यो॑मेति॒ वि-ओ॒म॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-16-18इयं वा इति ॥ पृथिवी यज्ञश्च विविधं रक्षितौ 'द्यावापृथिव्योर्हि यज्ञः' इति । तस्मात् षष्ठेन पृश्निना पृथिवीमेवाभिजयति । एवमुत्तरेषु द्रष्टव्यम् ॥
+16-18इयं वा इति ॥ पृथिवी यज्ञश्च विविधं रक्षितौ 'द्यावापृथिव्योर्हि यज्ञः' इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इमा᳓मेवा᳓भि᳓ जयति ।   
+</details>
+
+<details><summary>Keith</summary>
+
+verily he conquers this (earth).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒मामे॒वाभि ज॑यति ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒माम् । ए॒व । अ॒भीति॑ । ज॒य॒ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्मात् षष्ठेन पृश्निना पृथिवीमेवाभिजयति । एवमुत्तरेषु द्रष्टव्यम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऋत᳓स्य त्वा वि᳓भूमन इ᳓त्याह ।    
+</details>
+
+<details><summary>Keith</summary>
+
+'Thee for the might of holy order', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऋ॒तस्य॑ त्वा॒ विभू॑मन॒ इत्या॑ह ।    
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तस्य॑ । त्वा॒ । विभू॑मन॒ इति॒ वि-भू॒म॒ने॒ । इति॑ । आ॒ह॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्त᳓रिक्षव्ँवा᳓ ऋत᳓स्य वि᳓भूम ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the might of holy order is the atmosphere;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒न्तरि॑क्षव्ँ॒वा ऋ॒तस्य॒ विभू॑म ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्तरि॑क्षम् । वै । ऋ॒तस्य॑ । विभू॒मेति॒ वि-भू॒म॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्त᳓रिक्षमेवा᳓भि᳓ जयति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he conquers the atmosphere.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒न्तरि॑क्षमे॒वाभि ज॑यति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्तरि॑क्षम् । ए॒व । अ॒भीति॑ । ज॒य॒ति॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऋत᳓स्य त्वा वि᳓धर्मण इ᳓त्याह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thee for the circumference of holy order', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऋ॒तस्य॑ त्वा॒ विध॑र्मण॒ इत्या॑ह ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तस्य॑ । त्वा॒ । विध॑र्मण॒ इति॒ वि-ध॒र्म॒णे॒ । इति॑ । आ॒ह॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्यौ᳓र्वा᳓ ऋत᳓स्य वि᳓धर्म ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the circumference of holy order is the sky;
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्यौर्वा ऋ॒तस्य॒ विध॑र्म ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्यौः । वै । ऋ॒तस्य॑ । विध॒र्मेति॒ वि-ध॒र्म॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दि᳓वमेवा᳓भि᳓ जयति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he conquers the sky.
+</details>
+
+<details><summary>मूलम्</summary>
+
+दिव॑मे॒वाभि ज॑यति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दिव॑म् । ए॒व । अ॒भीति॑ । ज॒य॒ति॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऋत᳓स्य [14] त्वा सत्या᳓ये᳓त्याह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Thee for the truth of holy order' [4], he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऋ॒तस्य॑ [14] त्वा॒ स॒त्यायेत्या॑ह ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तस्य॑ । त्वा॒ । स॒त्याय॑ । इति॑ । आ॒ह॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -361,19 +915,67 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि᳓शो वा᳓ ऋत᳓स्य सत्य᳓न्दि᳓श एवा᳓भि᳓ जयति ।  
-ऋत᳓स्य त्वा ज्यो᳓तिष इ᳓त्याह ।   
+दि᳓शो वा᳓ ऋत᳓स्य सत्य᳓म् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the truth of holy order is the quarters;
 </details>
 
 <details><summary>मूलम्</summary>
 
-दिशो॒ वा ऋ॒तस्य॑ स॒त्यन्दिश॑ ए॒वाभि ज॑यति ।  
-ऋ॒तस्य॑ त्वा॒ ज्योति॑ष॒ इत्या॑ह ।   
+दिशो॒ वा ऋ॒तस्य॑ स॒त्यम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दिशः॑ । वै । ऋ॒तस्य॑ । स॒त्यम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 19दिशो वा इति ॥ यज्ञस्य सत्यत्वस्य दिगधीनत्वाद्दिक्षु हि विस्तीर्णं अनपायं भवतीति ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दि᳓श एवा᳓भि᳓ जयति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he conquers the quarters.
+</details>
+
+<details><summary>मूलम्</summary>
+
+दिश॑ ए॒वाभि ज॑यति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दिशः॑ । ए॒व । अ॒भीति॑ । ज॒य॒ति॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऋत᳓स्य त्वा ज्यो᳓तिष इ᳓त्याह ।   
+</details>
+
+<details><summary>Keith</summary>
+
+'Thee for the light of holy order', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऋ॒तस्य॑ त्वा॒ ज्योति॑ष॒ इत्या॑ह ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तस्य॑ । त्वा॒ । ज्योति॑षे । इति॑ । आ॒ह॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -383,36 +985,167 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुवर्गो᳓ वै᳓ लोक᳓ ऋत᳓स्य ज्यो᳓तिस्सुवर्ग᳓मेव᳓ लोक᳓मभि᳓ जयति ।  
-एता᳓वन्तो वै᳓ देवलोका᳓स्ता᳓नेवा᳓भि᳓ जयति ।  
+सुवर्गो᳓ वै᳓ लोक᳓ ऋत᳓स्य ज्यो᳓तिः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the light of holy order is the world of heaven;
 </details>
 
 <details><summary>मूलम्</summary>
 
-सु॒व॒र्गो वै लो॒क ऋ॒तस्य॒ ज्योति॑स्सुव॒र्गमे॒व लो॒कम॒भि ज॑यति ।  
-ए॒ताव॑न्तो॒ वै दे॑वलो॒कास्ताने॒वाभि ज॑यति ।  
+सु॒व॒र्गो वै लो॒क ऋ॒तस्य॒ ज्योतिः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒व॒र्ग इति॑ सुवः-गः । वै । लो॒कः । ऋ॒तस्य॑ । ज्योतिः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-20सुवर्ग इति ॥ यज्ञस्य द्योतनस्थानं स्वर्गः, तत्र हि यज्ञो द्योतते फलाविर्भावेन । एतावन्त इत्यादि । पृथिव्यादिस्वर्गान्ता देवलोकाः यज्ञाधिकरणत्वेन देवस्थानानि, तान् सर्वानभिजयत्येतेन पञ्चाभिः पृश्निभिः ।
+20सुवर्ग इति ॥ यज्ञस्य द्योतनस्थानं स्वर्गः, तत्र हि यज्ञो द्योतते फलाविर्भावेन ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुवर्ग᳓मेव᳓ लोक᳓मभि᳓ जयति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he conquers the world of heaven.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सुव॒र्गमे॒व लो॒कम॒भि ज॑यति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒व॒र्गमिति॑ सुवः-गम् । ए॒व । लो॒कम् । अ॒भीति॑ । ज॒य॒ति॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एता᳓वन्तो वै᳓ देवलोकाः᳓ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+So many are the worlds of the gods;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒ताव॑न्तो॒ वै दे॑वलो॒काः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒ताव॑न्तः । वै । दे॒व॒लो॒का इति॑ देव-लो॒काः ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+एतावन्त इत्यादि । पृथिव्यादिस्वर्गान्ता देवलोकाः यज्ञाधिकरणत्वेन देवस्थानानि,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता᳓नेवा᳓भि᳓ जयति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he conquers them.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताने॒वाभि ज॑यति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तान् । ए॒व । अ॒भीति॑ । ज॒य॒ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तान् सर्वानभिजयत्येतेन पञ्चाभिः पृश्निभिः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓श स᳓म्पद्यन्ते ।
-द᳓शाक्षरा विरा᳓ड᳓न्नव्ँविरा᳓ड्विरा᳓ज्येवा᳓न्ना᳓द्ये प्र᳓ति तिष्ठति ॥   
+</details>
+
+<details><summary>Keith</summary>
+
+They make up ten;
 </details>
 
 <details><summary>मूलम्</summary>
 
 दश॒ सम्प॑द्यन्ते ।
-दशा॑क्षरा वि॒राडन्नव्ँ॑वि॒राड्वि॒राज्ये॒वान्नाद्ये॒ प्रति॑ तिष्ठति ॥   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दश॑ । समिति॑ । प॒द्य॒न्ते॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-दश सम्पद्यन्ते इत्यादि । गतम् । विराजमानेऽन्नाद्ये प्रतितिष्ठति । अन्नस्यादनमन्नाद्यं छान्दसो यत् ॥
+दश सम्पद्यन्ते इत्यादि । गतम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द᳓शाक्षरा विरा᳓ड᳓न्नव्ँविरा᳓ट् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the Viraj has ten syllables, the Viraj is food;
+</details>
+
+<details><summary>मूलम्</summary>
+
+दशा॑क्षरा वि॒राडन्नव्ँ॑वि॒राट् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दशा॑क्ष॒रेति॒ दश॑-अ॒क्ष॒रा॒ । वि॒राडिति॑ वि-राट् । अन्न॑म् । वि॒राडिति॑ वि-राट् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विरा᳓ज्येवा᳓न्ना᳓द्ये प्र᳓ति तिष्ठति ॥ [15]   
+</details>
+
+<details><summary>Keith</summary>
+
+verily he finds support in the Viraj, the eating of food.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वि॒राज्ये॒वान्नाद्ये॒ प्रति॑ तिष्ठति ॥ [15]   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒राजीति॑ वि-राजि॑ । ए॒व । अ॒न्नाद्य॒ इत्य॑न्न-अद्ये॑ । प्रतीति॑ । ति॒ष्ठ॒ति॒ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विराजमानेऽन्नाद्ये प्रतितिष्ठति । अन्नस्यादनमन्नाद्यं छान्दसो यत् ॥
 
 इति तृतीये तृतीये पञ्चमोनुवाकः ॥  
 </details>

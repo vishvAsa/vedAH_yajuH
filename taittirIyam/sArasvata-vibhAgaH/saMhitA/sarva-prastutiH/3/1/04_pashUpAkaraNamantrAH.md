@@ -10,10 +10,23 @@ title = "०४ पशूपाकरणमन्त्राः"
 त᳓स्मै प्र᳓ति प्र᳓ वेदय चिकित्वाँ᳓ अ᳓नु मन्यताम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+The offspring, being born of Prajapati  
+And those that have been born,  
+To him declare them;  
+Let the wise one reflect thereon.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ते॒र्जाय॑मानाᳶ प्र॒जा जा॒ताश्च॒ या इ॒माः ।   
 तस्मै॒ प्रति॒ प्र वे॑दय चिकि॒त्वाँ अनु॑ मन्यताम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑ते॒रिति॑ प्र॒जा-प॒तेः॒ । जाय॑मानाः । प्र॒जा इति॑ प्र-जाः । जा॒ताः । च॒ । याः । इ॒माः ॥ तस्मै॑ । प्रति॑ । प्रेति॑ । वे॒द॒य॒ । चि॒कि॒त्वान् । अन्विति॑ । म॒न्य॒ता॒म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -28,10 +41,23 @@ title = "०४ पशूपाकरणमन्त्राः"
 अ᳓नु मन्यस्व सुय᳓जा यजाम जु᳓ष्टन्देवा᳓नामिद᳓मस्तु हव्य᳓म् ।
 </details>
 
+<details><summary>Keith</summary>
+
+This victim, O lord of cattle, for thee to-day,  
+I bind, O Agni, in the midst of righteous action;  
+Approve it, and let us sacrifice with a good offering  
+May this offering be welcome to the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मम्प॒शुम्प॑शुपते ते अ॒द्य ब॒ध्नाम्य॑ग्ने सुकृ॒तस्य॒ मध्ये॑ ।  
 अनु॑ मन्यस्व सु॒यजा॑ यजाम॒ जुष्ट॑न्दे॒वाना॑मि॒दम॑स्तु ह॒व्यम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒मम् । प॒शुम् । प॒शु॒प॒त॒ इति॑ पशु-प॒ते॒ । ते॒ । अ॒द्य । ब॒ध्नामि॑ । अ॒ग्ने॒ । सु॒कृ॒तस्येति॑ सु-कृ॒तस्य॑ । मध्ये॑ ॥ अन्विति॑ । म॒न्य॒स्व॒ । सु॒यजेति॑ सु-यजा॑ । य॒जा॒म॒ । जुष्ट॑म् । दे॒वाना॑म् । इ॒दम् । अ॒स्तु॒ । ह॒व्यम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -45,10 +71,23 @@ title = "०४ पशूपाकरणमन्त्राः"
 सुवर्गय्ँ᳓याहि पथि᳓भिर्देवया᳓नैरो᳓षधीषु प्र᳓ति तिष्ठा श᳓रीरैः ।
 </details>
 
+<details><summary>Keith</summary>
+
+The ancient wise ones grasp  
+The breath as it speedeth from the limbs;  
+Go to heaven by the paths which lead to the gods;  
+Be among the plants with thy members.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जा॒नन्त॒ᳶ प्रति॑ गृह्णन्ति॒ पूर्वे॑ प्रा॒णमङ्गे॑भ्य॒ᳶ पर्या॒चर॑न्तम् ।   
 सु॒व॒र्गय्ँया॑हि प॒थिभि॑र्देव॒यानै॒रोष॑धीषु॒ प्रति॑ तिष्ठा॒ शरी॑रैः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जा॒नन्त॒ इति॑ प्र-जा॒नन्तः॑ । प्रतीति॑ । गृ॒ह्ण॒न्ति॒ । पूर्वे॑ । प्रा॒णमिति॑ प्र-अ॒नम् । अङ्गे॑भ्यः । परीति॑ । आ॒चर॑न्त॒मित्या॑-चर॑न्तम् ॥ सु॒व॒र्गमिति॑ सुवः-गम् । या॒हि॒ । प॒थिभि॒रिति॑ प॒थि-भिः॒ । दे॒व॒यानै॒रिति॑ देव-यानैः॑ । ओष॑धीषु । प्रतीति॑ । ति॒ष्ठ॒ । शरी॑रैः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -64,10 +103,23 @@ title = "०४ पशूपाकरणमन्त्राः"
 नि᳓ष्क्रीतोऽयय्ँ᳓ यज्ञि᳓यम्भाग᳓मेतु राय᳓स्पो᳓षा य᳓जमानस्य सन्तु ।
 </details>
 
+<details><summary>Keith</summary>
+
+What cattle the lord of cattle ruleth [1],  
+Both the four-footed and the two-footed,  
+May he, bought off, go to his sacrificial share;  
+May abundances of wealth fall to the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 येषा॒मीशे॑ [11]  प॒शु॒पतिᳶ॑ पशू॒नाञ्चतु॑ष्पदामु॒त च॑ द्वि॒पदा॑म् ।  
 निष्क्री॑तो॒ऽयय्ँ य॒ज्ञिय॑म्भा॒गमे॑तु रा॒यस्पोषा॒ यज॑मानस्य सन्तु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+येषा॑म् । ईशे॑ । प॒शु॒पति॒रिति॑ पशु-पतिः॑ । प॒शू॒नाम् । चतु॑ष्पदा॒मिति॒ चतुः॑-प॒दा॒म् । उ॒त । च॒ । द्वि॒पदा॒मिति॑ द्वि-पदा॑म् ॥ निष्क्री॑त॒ इति॒ निः-क्री॒तः॒ । अ॒यम् । य॒ज्ञिय॑म् । भा॒गम् । ए॒तु॒ । रा॒यः । पोषाः॑ । यज॑मानस्य । स॒न्तु॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -81,10 +133,23 @@ title = "०४ पशूपाकरणमन्त्राः"
 अग्नि᳓स्ताँ᳓ अ᳓ग्रे प्र᳓ मुमोक्तु देवᳶ᳓ प्रजा᳓पतिᳶ प्रज᳓या सव्ँविदानः᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Those, who being bound, contemplated  
+With mind and with eye him who was being bound  
+Let the god Agni first release them,  
+Lord of offspring, in harmony with offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये ब॒ध्यमा॑न॒मनु॑ ब॒ध्यमा॑ना अ॒भ्यैक्ष॑न्त॒ मन॑सा॒ चक्षु॑षा च ।  
 अ॒ग्निस्ताँ अग्रे॒ प्र मु॑मोक्तु दे॒वᳶ प्र॒जाप॑तिᳶ प्र॒जया॑ सव्ँविदा॒नः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । ब॒ध्यमा॑नम् । अन्विति॑ । ब॒ध्यमा॑नाः । अ॒भ्यैक्ष॒न्तेत्य॑भि-ऐक्ष॑न्त । मन॑सा । चक्षु॑षा । च॒ ॥ अ॒ग्निः । तान् । अग्रे॑ । प्रेति॑ । मु॒मो॒क्तु॒ । दे॒वः । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । प्र॒जयेति॑ प्र-जया॑ । सव्ँ॒वि॒दा॒न इति॑ सम्-वि॒दा॒नः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -98,10 +163,23 @@ title = "०४ पशूपाकरणमन्त्राः"
 वायु᳓स्ताँ᳓ अ᳓ग्रे प्र᳓ मुमोक्तु देवᳶ᳓ प्रजा᳓पतिᳶ प्रज᳓या सव्ँविदानः᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+The cattle of the forest, of all forms,  
+Of various forms, many of one form.  
+Let the god Vayu first release them,  
+Lord of offspring, in harmony with offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य आ॑र॒ण्याᳶ प॒शवो॑ वि॒श्वरू॑पा॒ विरू॑पा॒स्सन्तो॑ बहु॒धैक॑रूपाः ।   
 वा॒युस्ताँ अग्रे॒ प्र मु॑मोक्तु दे॒वᳶ प्र॒जाप॑तिᳶ प्र॒जया॑ सव्ँविदा॒नः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । आ॒र॒ण्याः । प॒शवः॑ । वि॒श्वरू॑पा॒ इति॑ वि॒श्व-रू॒पाः॒ । विरू॑पा॒ इति॒ वि-रू॒पाः॒ । सन्तः॑ । ब॒हु॒धेति॑ बहु-धा । एक॑रूपा॒ इत्येक॑-रू॒पाः॒ ॥ वा॒युः । तान् । अग्रे॑ । प्रेति॑ । मु॒मो॒क्तु॒ । दे॒वः । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । प्र॒जयेति॑ प्र-जया॑ । सव्ँ॒वि॒दा॒न इति॑ सम्-वि॒दा॒नः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -115,10 +193,23 @@ title = "०४ पशूपाकरणमन्त्राः"
 उपा᳓कृतँ शशमानय्ँ᳓य᳓द᳓स्थाज्जीव᳓न्देवा᳓नाम᳓प्येतु पा᳓थः ।
 </details>
 
+<details><summary>Keith</summary>
+
+Releasing [2] the seed of being,  
+Do ye further the sacrificer, O gods;  
+May that which hath stood ready and strenuous,  
+Go alive to the place of the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒मु॒ञ्चमा॑नाः [12]  भुव॑नस्य॒ रेतो॑ गा॒तुन्ध॑त्त॒ यज॑मानाय देवाः ।  
 उ॒पाकृ॑तँ शशमा॒नय्ँयदस्था॑ज्जी॒वन्दे॒वाना॒मप्ये॑तु॒ पाथः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒मु॒ञ्चमा॑ना॒ इति॑ प्र-मु॒ञ्चमा॑नाः । भुव॑नस्य । रेतः॑ । गा॒तुम् । ध॒त्त॒ । यज॑मानाय । दे॒वाः॒ ॥ उ॒पाकृ॑त॒मित्यु॑प-आकृ॑तम् । श॒श॒मा॒नम् । यत् । अस्था॑त् । जी॒वम् । दे॒वाना॑म् । अपीति॑ । ए॒तु॒ । पाथः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -132,10 +223,23 @@ title = "०४ पशूपाकरणमन्त्राः"
 जीव᳓न्देवा᳓नाम᳓प्येतु पा᳓थस्सत्या᳓स्सन्तु य᳓जमानस्य का᳓माः ।
 </details>
 
+<details><summary>Keith</summary>
+
+The breath of the sacrificer is apart from the victim;  
+The sacrifice goeth to the gods with the gods;  
+Let it go alive to the place of the gods;  
+Fulfilled may the desires of the sacrificer be.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नाना॑ प्रा॒णो यज॑मानस्य प॒शुना॑ य॒ज्ञो दे॒वेभि॑स्स॒ह दे॑व॒यानः॑ ।   
 जी॒वन्दे॒वाना॒मप्ये॑तु॒ पाथ॑स्स॒त्यास्स॑न्तु॒ यज॑मानस्य॒ कामाः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नाना॑ । प्रा॒ण इति॑ प्र-अ॒नः । यज॑मानस्य । प॒शुना॑ । य॒ज्ञः । दे॒वेभिः॑ । स॒ह । दे॒व॒यान॒ इति॑ देव-यानः॑ ॥ जी॒वम् । दे॒वाना॑म् । अपीति॑ । ए॒तु॒ । पाथः॑ । स॒त्याः । स॒न्तु॒ । यज॑मानस्य । कामाः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -143,16 +247,29 @@ title = "०४ पशूपाकरणमन्त्राः"
 8पशुं नीयमानमभिमन्त्रयते - नानेति त्रिष्टुभा ॥ नाना पृथ ग्भूतः पशुना पशुप्राणेन यजमानस्य प्राणः तेन तदन्वारम्भदोषाभावः । 'मृत्यवे वा एष नीयते' इत्यादि ब्राह्मणम् । यज्ञश्च देवेभिः देवैः पशुप्राणैस्सह देवयानः देवान् गन्ता देवानां जीवमप्येतु । पाथः पशुशरीरलक्षणमन्नं च देवानां जीवमप्येतु । ततश्च सत्या अवितथा यजमानस्य कामास्सन्तु ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 य᳓त्पशु᳓र्मायु᳓म᳓कृतो᳓रो वा पद्भि᳓राहते᳓ ।  
 अग्नि᳓र्मा त᳓स्मादे᳓नसो वि᳓श्वान्मुञ्चत्वँ᳓हसः ।
+</details>
+
+<details><summary>Keith</summary>
+
+If the victim has uttered a cry,  
+Or striketh its breast with its feet,  
+May Agni release me from that sin,  
+From all misfortune.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यत्प॒शुर्मा॒युमकृ॒तोरो॑ वा प॒द्भिरा॑ह॒ते ।  
 अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ विश्वा॑न्मुञ्च॒त्वँह॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । प॒शुः । मा॒युम् । अकृ॑त । उरः॑ । वा॒ । प॒द्भिरिति॑ पत्-भिः । आ॒ह॒त इत्या॑-ह॒ते ॥ अ॒ग्निः । मा॒ । तस्मा॑त् । एन॑सः । विश्वा॑त् । मु॒ञ्च॒तु॒ । अँह॑सः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -166,10 +283,23 @@ title = "०४ पशूपाकरणमन्त्राः"
 पा᳓शात्पशु᳓म्प्र᳓ मुञ्चत बन्धा᳓द्यज्ञ᳓पतिम्प᳓रि ।
 </details>
 
+<details><summary>Keith</summary>
+
+O ye slayers, come  
+To the sacrifice [3] sped by the gods;  
+Free the victim from the noose,  
+The lord of the sacrifice from the bond.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शमि॑तार उ॒पेत॑न य॒ज्ञम् [13]  दे॒वेभि॑रिन्वि॒तम् ।  
 पाशा॑त्प॒शुम्प्र मु॑ञ्चत ब॒न्धाद्य॒ज्ञप॑ति॒म्परि॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शमि॑तारः । उ॒पेत॒नेत्यु॑प-एत॑न । य॒ज्ञम् । दे॒वेभिः॑ । इ॒न्वि॒तम् ॥ पाशा॑त् । प॒शुम् । प्रेति॑ । मु॒ञ्च॒त॒ । ब॒न्धात् । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म् । परि॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -183,10 +313,23 @@ title = "०४ पशूपाकरणमन्त्राः"
 अरातीय᳓न्तम᳓धरङ्कृणोमि य᳓न्द्विष्म᳓स्त᳓स्मिन्प्र᳓ति मुञ्चामि पा᳓शम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+May Aditi loosen this noose;  
+Homage to the cattle, to the lord of cattle, I pay;  
+I cast down the enemy;  
+On him whom we hate I fasten the noose.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अदि॑ति॒ᳶ पाश॒म्प्र मु॑मोक्त्वे॒तन्नमᳶ॑ प॒शुभ्यᳶ॑ पशु॒पत॑ये करोमि ।   
 अ॒रा॒ती॒यन्त॒मध॑रङ्कृणोमि॒ यन्द्वि॒ष्मस्तस्मि॒न्प्रति॑ मुञ्चामि॒ पाश॑म् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अदि॑तिः । पाश॑म् । प्रेति॑ । मु॒मो॒क्तु॒ । ए॒तम् । नमः॑ । प॒शुभ्य॒ इति॑ प॒शु-भ्यः॒ । प॒शु॒पत॑य॒ इति॑ पशु-पत॑ये । क॒रो॒मि॒ ॥ अ॒रा॒ती॒यन्त॑म् । अध॑रम् । कृ॒णो॒मि॒ । यम् । द्वि॒ष्मः । तस्मि॑न् । प्रतीति॑ । मु॒ञ्चा॒मि॒ । पाश॑म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -200,10 +343,23 @@ title = "०४ पशूपाकरणमन्त्राः"
 अ᳓ग्ने स᳓दक्षस्स᳓तनुर्हि᳓ भूत्वा᳓ऽथ हव्या᳓ जातवेदो जुषस्व ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thee they keep to carry the offering,  
+To cook (the victim) and as worthy of sacrifice;  
+O Agni, with thy strength and thy body, be present  
+And accept our offerings, O Jatavedas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वामु॒ ते द॑धिरे हव्य॒वाहँ॑ शृतङ्क॒र्तार॑मु॒त य॒ज्ञिय॑ञ्च ।  
 अग्ने॒ सद॑क्ष॒स्सत॑नु॒र्हि भू॒त्वाऽथ॑ ह॒व्या जा॑तवेदो जुषस्व ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वाम् । उ॒ । ते । द॒धि॒रे॒ । ह॒व्य॒वाह॒मिति॑ हव्य-वाह॑म् । शृ॒त॒ङ्क॒र्तार॒मिति॑ शृतम्-क॒र्तार॑म् । उ॒त । य॒ज्ञिय॑म् । च॒ ॥ अग्ने॑ । सद॑क्ष॒ इति॒ स-द॒क्षः॒ । सत॑नु॒रिति॒ स-त॒नुः॒ । हि । भू॒त्वा । अथ॑ । ह॒व्या । जा॒त॒वे॒द॒ इति॑ जात-वे॒दः॒ । जु॒ष॒स्व॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -217,10 +373,23 @@ title = "०४ पशूपाकरणमन्त्राः"
 घृते᳓न त्व᳓न्तनु᳓वो वर्धयस्व स्वा᳓हाकृतँ हवि᳓रदन्तु देवाः᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+O Jatavedas, go with the caul to the gods,  
+For thou art the first Hotr;  
+With ghee do thou strengthen their bodies;  
+May the gods eat the offering made with the cry of 'hail!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 जात॑वेदो व॒पया॑ गच्छ दे॒वान्त्वँ हि होता॑ प्रथ॒मो ब॒भूथ॑ ।  
 घृ॒तेन॒ त्वन्त॒नुवो॑ वर्धयस्व॒ स्वाहा॑कृतँ ह॒विर॑दन्तु दे॒वाः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जात॑वेद॒ इति॒ जात॑-वे॒दः॒ । व॒पया॑ । ग॒च्छ॒ । दे॒वान् । त्वम् । हि । होता॑ । प्र॒थ॒मः । ब॒भूथ॑ ॥ घृ॒तेन॑ । त्वम् । त॒नुवः॑ । व॒र्ध॒य॒स्व॒ । स्वाहा॑कृत॒मिति॒ स्वाहा॑-कृ॒त॒म् । ह॒विः । अ॒द॒न्तु॒ । दे॒वाः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -233,9 +402,19 @@ title = "०४ पशूपाकरणमन्त्राः"
 स्वा᳓हा देवे᳓भ्यः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Hail to the gods;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वाहा॑ दे॒वेभ्यः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्वाहा॑ । दे॒वेभ्यः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -248,17 +427,24 @@ title = "०४ पशूपाकरणमन्त्राः"
 देवे᳓भ्यस्स्वा᳓हा ॥ [14]  
 </details>
 
+<details><summary>Keith</summary>
+
+to the gods hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वेभ्य॒स्स्वाहा॑ ॥ [14]  
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-16उत्तरं जुहोति - देवेभ्यस्स्वाहेति यजुषैव ॥ देवेम्यः उपरिष्टात्स्वाहाकृतिभ्यः स्वाहुतमस्त्विति । 'पुरस्तात्स्वाहाकृतयो वा अन्ये देवाः' इत्यादि ब्राह्मणम् । तत्राभितो वपाया होमः स परितो वपां भवः परिवप्यः । द्वावप्येतौ एकार्थावेव मन्त्रौ । तत्र वपा भागिभिः अव्यवहितान् देवान् प्रतिपादयितुं प्रथमस्वाहाकारादिरभूत्, द्वितीयास्वाहाकारान्ता स्वाहाकारेण व्यवधानं मा भूदिति ॥
+दे॒वेभ्यः॑ । स्वाहा॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
+
+16उत्तरं जुहोति - देवेभ्यस्स्वाहेति यजुषैव ॥ देवेम्यः उपरिष्टात्स्वाहाकृतिभ्यः स्वाहुतमस्त्विति । 'पुरस्तात्स्वाहाकृतयो वा अन्ये देवाः' इत्यादि ब्राह्मणम् । तत्राभितो वपाया होमः स परितो वपां भवः परिवप्यः । द्वावप्येतौ एकार्थावेव मन्त्रौ । तत्र वपा भागिभिः अव्यवहितान् देवान् प्रतिपादयितुं प्रथमस्वाहाकारादिरभूत्, द्वितीयास्वाहाकारान्ता स्वाहाकारेण व्यवधानं मा भूदिति ॥
 
 इति तृतीये प्रथमे चतुर्थोनुवाकः ॥  
 </details>

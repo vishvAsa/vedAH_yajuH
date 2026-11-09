@@ -11,10 +11,23 @@ title = "०२ वशालम्भनमन्त्राः"
 उ᳓पो ते अ᳓न्धो म᳓द्यमयामि य᳓स्य देव दधिषे᳓ पूर्वपे᳓यम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Vayu, drinker of the pure, come to us;  
+A thousand are thy teams, O thou that hast all choice boons;  
+For thee the sweet drink bath been drawn,  
+Whereof, O God, thou hast the first drink.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ वा॑यो भूष शुचिपा॒ उप॑ नस्स॒हस्र॑न्ते नि॒युतो॑ विश्ववार ।   
 उपो॑ ते॒ अन्धो॒ मद्य॑मयामि॒ यस्य॑ देव दधि॒षे पू॑र्व॒पेय॑म् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । वा॒यो॒ इति॑ । भू॒ष॒ । शु॒चि॒पा॒ इति॑ शुचि-पाः॒ । उपेति॑ । नः॒ । स॒हस्र॑म् । ते॒ । नि॒युत॒ इति॑ नि-युतः॑ । वि॒श्व॒वा॒रेति॑ विश्व-वा॒र॒ ॥ उपो॒ इति॑ । ते॒ । अन्धः॑ । मद्य॑म् । अ॒या॒मि॒ । यस्य॑ । दे॒व॒ । द॒धि॒षे । पू॒र्व॒पेय॒मिति॑ पूर्व-पेय॑म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -34,45 +47,31 @@ title = "०२ वशालम्भनमन्त्राः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓कूत्यै त्वा +++(नियुनज्मि)+++,  
+का᳓माय त्वा  +++(नियुनज्मि)+++,  
+समृ᳓धे त्वा  +++(नियुनज्मि)+++   ।  
+</details>
+
+<details><summary>Keith</summary>
+
+For intent thee, for desire thee, for prosperity thee
 </details>
 
 <details><summary>मूलम्</summary>
 
 आकू॑त्यै त्वा॒ +++(नियुनज्मि)+++,  
+कामा॑य त्वा  +++(नियुनज्मि)+++,  
+स॒मृधे॑ त्वा  +++(नियुनज्मि)+++   ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आकू॑त्या॒ इत्या-कू॒त्यै॒ । त्वा॒ । कामा॑य । त्वा॒ । स॒मृध॒ इति॑ सम्-ऋधे॑ । त्वा॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2नियोजने अनुवर्तयति ॥ आकूत्यै त्वेति यजुः - आकूतिः संकल्पलक्षणा देवी तस्यै हे वशे त्वां नियुनज्मि । कूङ् शब्दे, 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-का᳓माय त्वा  +++(नियुनज्मि)+++,  
-</details>
-
-<details><summary>मूलम्</summary>
-
-कामा॑य त्वा  +++(नियुनज्मि)+++,  
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
 कामाय इच्छायै ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-समृ᳓धे त्वा  +++(नियुनज्मि)+++   ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
-स॒मृधे॑ त्वा  +++(नियुनज्मि)+++   ।  
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
 समृधे समृद्ध्यै । संपदादिलक्षणः क्विप् ॥
 </details>
 
@@ -86,9 +85,19 @@ title = "०२ वशालम्भनमन्त्राः"
 कि᳓क्किटा᳓ ते म᳓नᳶ प्रजा᳓पतये स्वा᳓हा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Kikkita thy mind! to Prajapati hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 किक्कि॒टा ते॒ मनᳶ॑ प्र॒जाप॑तये॒ स्वाहा॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कि॒क्कि॒टा । ते॒ । मनः॑ । प्र॒जाप॑तय॒ इति॑ प्र॒जा-प॒त॒ये॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -103,9 +112,19 @@ title = "०२ वशालम्भनमन्त्राः"
 कि᳓क्किटा᳓ ते प्राणव्ँ᳓वाय᳓वे स्वा᳓हा  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Kikkita thy breath, to Vayu hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 किक्कि॒टा ते॑ प्रा॒णव्ँवा॒यवे॒ स्वाहा॑  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कि॒क्कि॒टा । ते॒ । प्रा॒णमिति॑ प्र-अ॒नम् । वा॒यवे॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -118,9 +137,19 @@ title = "०२ वशालम्भनमन्त्राः"
 कि᳓क्किटा᳓ ते च᳓क्षुस्सू᳓र्याय स्वा᳓हा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Kikkita thy eye, to Surya hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 किक्कि॒टा ते॒ चक्षु॒स्सूर्या॑य॒ स्वाहा॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कि॒क्कि॒टा । ते॒ । चक्षुः॑ । सूर्या॑य । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -133,9 +162,19 @@ title = "०२ वशालम्भनमन्त्राः"
 कि᳓क्किटा᳓ ते श्रो᳓त्रन्द्या᳓वापृथिवी᳓भ्याँ स्वा᳓हा  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Kikkita thy ear, to sky and earth hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 किक्कि॒टा ते॒ श्रोत्र॒न्द्यावा॑पृथि॒वीभ्याँ॒ स्वाहा॑  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कि॒क्कि॒टा । ते॒ । श्रोत्र॑म् । द्यावा॑पृथि॒वीभ्या॒मिति॒ द्यावा॑-पृ॒थि॒वीभ्या॑म् । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -148,9 +187,19 @@ title = "०२ वशालम्भनमन्त्राः"
 कि᳓क्किटा᳓ ते वा᳓चँ स᳓रस्वत्यै स्वा᳓हा    ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Kikkita, thy speech, to Sarasvati hail! [1]
+</details>
+
 <details><summary>मूलम्</summary>
 
 किक्कि॒टा ते॒ वाचँ॒ सर॑स्वत्यै॒ स्वाहा॑    ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कि॒क्कि॒टा । ते॒ । वाच॑म् । सर॑स्वत्यै । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -164,10 +213,23 @@ title = "०२ वशालम्भनमन्त्राः"
 वशा᳓ त्वव्ँ᳓वशि᳓नी गच्छ देवा᳓न्त्सत्या᳓स्सन्तु य᳓जमानस्य का᳓माः ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Thou, the fourth, art the barren, the eager one,  
+Since once in thought the embryo hath entered thy womb;  
+Do thou, the barren, go eagerly to the gods,  
+Be the desires of the sacrificer fulfilled.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वन्तु॒रीया॑ व॒शिनी॑ व॒शासि॑ स॒कृद्यत्त्वा॒ मन॑सा॒ गर्भ॒ आऽश॑यत् ।   
 व॒शा त्वव्ँव॒शिनी॑ गच्छ दे॒वान्त्स॒त्यास्स॑न्तु॒ यज॑मानस्य॒ कामाः॑ ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । तु॒रीया॑ । व॒शिनी॑ । व॒शा । अ॒सि॒ । स॒कृत् । यत् । त्वा॒ । मन॑सा । गर्भः॑ । एति॑ । अश॑यत् ॥ व॒शा । त्वम् । व॒शिनी॑ । ग॒च्छ॒ । दे॒वान् । स॒त्याः । स॒न्तु॒ । यज॑मानस्य । कामाः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -184,46 +246,32 @@ title = "०२ वशालम्भनमन्त्राः"
 
 अजा᳓सि,  
 रयिष्ठा᳓  पृथिव्याँ᳓ सीद ।  
+ऊर्ध्वा᳓न्त᳓रिक्षमु᳓प तिष्ठस्व ।  
+दिवि᳓ ते बृह᳓द्भाः᳓ ।   
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the goat, resting on wealth, sit on the earth, mount aloft on the atmosphere, in the sky be thy great radiance.
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒जासि॑,  
 र॒यि॒ष्ठा  पृ॑थि॒व्याँ सी॑द ।  
+ऊ॒र्ध्वान्तरि॑क्ष॒मुप॑ तिष्ठस्व ।  
+दि॒वि ते॑ बृ॒हद्भाः ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒जा । अ॒सि॒ । र॒यि॒ष्ठेति॑ रयि-स्था । पृ॒थि॒व्याम् । सी॒द॒ । ऊ॒र्ध्वा । अ॒न्तरि॑क्षम् । उपेति॑ । ति॒ष्ठ॒स्व॒ । दि॒वि । ते॒ । बृ॒हत् । भाः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5उपासने वर्तयति - अजाऽसीति यजुः ॥ अजा त्वमसि रयिष्ठा धने स्थिता धनहेतुभूता त्वं पृथिवीं सीद आस्व ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ऊर्ध्वा᳓न्त᳓रिक्षमु᳓प तिष्ठस्व ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
-ऊ॒र्ध्वान्तरि॑क्ष॒मुप॑ तिष्ठस्व ।  
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
 ततः ऊर्ध्वा उन्नीता अन्तरिक्षमुपतिष्ठस्व
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-दिवि᳓ ते बृह᳓द्भाः᳓ ।   
-</details>
-
-<details><summary>मूलम्</summary>
-
-दि॒वि ते॑ बृ॒हद्भाः ।   
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
 दिवि ते तव बृहद्भाः महती दीप्तिः । भासेरसुनि भाः । यद्वा - 'भ्राजभास' इति भासतेः क्विप् । बृहदिति लिङ्गव्यत्ययः । एवं त्रिष्वपि लोकेषु तिष्ठेति ॥
 </details>
 
@@ -247,6 +295,14 @@ title = "०२ वशालम्भनमन्त्राः"
 
 </div>
 
+<details><summary>Keith</summary>
+
+Stretching the thread of the atmosphere do thou pursue the light;  
+Guard the paths of light made by prayer.
+Weave ye without a flaw the work of the singers;  
+Become Manu; produce thou. the host divine.
+</details>
+
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/053/06_tantuM_tanvanrajaso.md">
 
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
@@ -266,7 +322,7 @@ title = "०२ वशालम्भनमन्त्राः"
 - छन्दः - जगती
 </details>
 
-<details><summary>मूलम् - तैत्तिरीयम्</summary>
+<details><summary>तैत्तिरीय-पाठः</summary>
 
 तन्तु॑न्त॒न्वन्रज॑सो भा॒नुमन्वि॑हि॒ ज्योति॑ष्मतᳶ प॒थो र॑क्ष धि॒या कृ॒तान् ।   
 अ॒नु॒ल्ब॒णव्ँव॑यत॒ जोगु॑वा॒मपो॒ मनु॑र्भव ज॒नया॒ दैव्य॒ञ्जन॑म् ।
@@ -603,29 +659,28 @@ Die Fäden spannend geh dem Glanz der Lüfte nach, beschirm die lichten Pfade, d
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नसो हवि᳓रसि प्रजा᳓पतेर्व᳓र्णः ।
+गा᳓त्राणान्ते गात्रभा᳓जो भूयास्म ॥ [6]  
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the offering of mind, the colour of Prajapati, may we share thy limbs.
 </details>
 
 <details><summary>मूलम्</summary>
 
 मन॑सो ह॒विर॑सि प्र॒जाप॑ते॒र्वर्णः॑ ।
+गात्रा॑णान्ते गात्र॒भाजो॑ भूयास्म ॥ [6]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मन॑सः । ह॒विः । अ॒सि॒ । प्र॒जाप॑ते॒रिति॑ प्र॒जा-प॒तेः॒ । वर्णः॑ । गात्रा॑णाम् । ते॒ । गा॒त्र॒भाज॒ इति॑ गात्र-भाजः॑ । भू॒या॒स्म॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7हविर्जुहोति - मनस इति ॥ 'मनो वै प्रजापतिः' इति मनश्शब्देनाभेदात्प्रजापतिरुच्यते प्रजापतेर्हविस्त्वमसीति । तस्मात्प्रजापतेः वर्णः प्रजापतेस्सर्वदेवतामयत्वात् सर्वदेवतास्त्वमसीति स्तुतिः । वक्ष्यति हि 'सा वा एषा सर्वदेवत्या यदजा' इति । यद्वा - या वक्ष्यमाणा अस्या देवता अग्न्यादयः तासां प्रजापतिरुपलक्षणः ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-गा᳓त्राणान्ते गात्रभा᳓जो भूयास्म ॥ [6]  
-</details>
-
-<details><summary>मूलम्</summary>
-
-गात्रा॑णान्ते गात्र॒भाजो॑ भूयास्म ॥ [6]  
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
 
 8अथास्या अवदानानि प्राश्नाति - गात्राणामिति ॥ त्वदीयानां गात्राणां संबन्धिनो वयं गात्रभाजो भूयास्म त्वत्संबन्धात् पुनरपि कर्मकृतो भूयास्म । यद्वा - अविकलाङ्गा भूयास्मेत्याशास्ते ॥
 

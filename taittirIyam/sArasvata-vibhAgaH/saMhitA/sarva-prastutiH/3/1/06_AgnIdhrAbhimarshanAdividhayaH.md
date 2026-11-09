@@ -17,11 +17,21 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 पा᳓पीयान्भवति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He who performs the sacrifice not according to the deities falls a victim to the deities, he becomes worse.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो वा अय॑थादेवतय्ँ य॒ज्ञमु॑प॒चर॑ति ।  
 आ दे॒वता॑भ्यो वृश्च्यते ।  
 पापी॑यान्भवति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । वै । अय॑थादेवत॒मित्यय॑था-दे॒व॒त॒म् । य॒ज्ञम् । उ॒प॒चर॒तीत्यु॑प-चर॑ति । एति॑ । दे॒वता॑भ्यः । वृ॒श्च्य॒ते॒ । पापी॑यान् । भ॒व॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -32,31 +42,28 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ यथादेवत᳓न्न᳓ देव᳓ताभ्य आ᳓ वृश्च्यते ।  
+व᳓सीयान्भवति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He who (performs) in accordance with the deities does not fall a victim to the deities, he becomes better.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यो य॑थादेव॒तन्न दे॒वता॑भ्य॒ आ वृ॑श्च्यते ।  
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-यो यथादेवतमित्यादि । गतम् ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-व᳓सीयान्भवति ।
-</details>
-
-<details><summary>मूलम्</summary>
-
 वसी॑यान्भवति ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यः । य॒था॒दे॒व॒तमिति॑ यथा-दे॒व॒तम् । न । दे॒वता॑भ्यः । एति॑ । वृ॒श्च्य॒ते॒ । वसी॑यान् । भ॒व॒ति॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-वसीयान् वसुमत्तरः ।
+यो यथादेवतमित्यादि । गतम् । वसीयान् वसुमत्तरः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,8 +73,11 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 आग्नेय्या᳓ स्रु᳓चः ,  
 वायव्य᳙या वायव्या᳙नि  ।   
 ऐन्द्रिया᳓ स᳓दः ।   
+</details>
 
-यथादेवत᳓मेव᳓ यज्ञ᳓मु᳓प चरति ।    
+<details><summary>Keith</summary>
+
+He should rub the Agnidh's place with a verse addressed to Agni, the oblation holder with one addressed to Visnu, the offering-spoons with one addressed to Agni, the Vayu cups with one addressed to Vayu, the Sadas with one addressed to Indra.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -77,8 +87,11 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 आ॒ग्ने॒य्या स्रुचः॑ ,  
 वा॒य॒व्य॑या वाय॒व्या॑नि  ।   
 ऐ॒न्द्रि॒या सदः॑ ।   
+</details>
 
-य॒था॒दे॒व॒तमे॒व य॒ज्ञमुप॑ चरति ।    
+<details><summary>पद-पाठः</summary>
+
+आ॒ग्ने॒य्या । ऋ॒चा । आग्नी॑ध्र॒मित्याग्नि॑-इ॒ध्र॒म् । अ॒भीति॑ । मृ॒शे॒त् । वै॒ष्ण॒व्या । ह॒वि॒र्धान॒मिति॑ हविः-धान॑म् । आ॒ग्ने॒य्या । स्रुचः॑ । वा॒य॒व्य॑या । वा॒य॒व्या॑नि । ऐ॒न्द्रि॒या । सदः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -88,14 +101,26 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+यथादेवत᳓मेव᳓ यज्ञ᳓मु᳓प चरति ।    
 न᳓ देव᳓ताभ्य आ᳓ वृश्च्यते ।  
 व᳓सीयान्भवति  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thus he forms the sacrifice in accordance with the deities, he does not fall a victim to the deities, he becomes better.
+</details>
+
 <details><summary>मूलम्</summary>
 
+य॒था॒दे॒व॒तमे॒व य॒ज्ञमुप॑ चरति ।    
 न दे॒वता॑भ्य॒ आ वृ॑श्च्यते ।  
 वसी॑यान्भवति  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒था॒दे॒व॒तमिति॑ यथा-दे॒व॒तम् । ए॒व । य॒ज्ञम् । उपेति॑ । च॒र॒ति॒ । न । दे॒वता॑भ्यः । एति॑ । वृ॒श्च्य॒ते॒ । वसी॑यान् । भ॒व॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -110,11 +135,21 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 वा᳓चँ सह᳓ सू᳓र्येण ते +++(युन᳓ज्मि )+++  
 </details>
 
+<details><summary>Keith</summary>
+
+I yoke earth for thee with light, I yoke wind for thee with the atmosphere [1], I yoke speech for thee with the sun,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यु॒नज्मि॑ ते पृथि॒वीञ्ज्योति॑षा स॒ह यु॒नज्मि॑  
 वा॒युम॒न्तरि॑क्षेण [17]  ते॒ स॒ह यु॒नज्मि॑     
 वाचँ॑ स॒ह सूर्ये॑ण ते +++(यु॒नज्मि॑ )+++  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यु॒नज्मि॑ । ते॒ । पृ॒थि॒वीम् । ज्योति॑षा । स॒ह । यु॒नज्मि॑ । वा॒युम् । अ॒न्तरि॑क्षेण । ते॒ । स॒ह । यु॒नज्मि॑ । वाच॑म् । स॒ह । सूर्ये॑ण । ते॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -127,9 +162,19 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 युन᳓ज्मि तिस्रो᳓ विपृ᳓चस्सू᳓र्यस्य ते ।  
 </details>
 
+<details><summary>Keith</summary>
+
+I yoke the three spaces of the sun for thee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यु॒नज्मि॑ ति॒स्रो वि॒पृच॒स्सूर्य॑स्य ते ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यु॒नज्मि॑ । ति॒स्रः । वि॒पृच॒ इति॑ वि-पृचः॑ । सूर्य॑स्य । ते॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -142,9 +187,19 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 अग्नि᳓र्देव᳓ता गायत्री᳓ छ᳓न्द उपाँशोᳶ᳓ पा᳓त्रमसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Agni is the deity, Gayatri the metre, thou art the vessel of the silent offering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्दे॒वता॑ गाय॒त्री छन्द॑ उपाँ॒शोᳶ पात्र॑मसि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । दे॒वता॑ । गा॒य॒त्री । छन्दः॑ । उ॒पाँ॒शोरित्यु॑प-अँ॒शोः । पात्र॑म् । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -157,9 +212,19 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 सो᳓मो देव᳓ता त्रिष्टु᳓प्छ᳓न्दोऽन्तर्याम᳓स्य पा᳓त्रमसि᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Soma is the deity, Tristubh the metre, thou art the vessel of the restrained offering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोमो॑ दे॒वता॑ त्रि॒ष्टुप्छन्दो॑ऽन्तर्या॒मस्य॒ पात्र॑म॒सि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सोमः॑ । दे॒वता॑ । त्रि॒ष्टुप् । छन्दः॑ । अ॒न्त॒र्या॒मस्येत्य॑न्तः-या॒मस्य॑ । पात्र॑म् । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -172,9 +237,19 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 इ᳓न्द्रो देव᳓ता ज᳓गती छ᳓न्द इन्द्रवायुवोᳶ᳓ पा᳓त्रमसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Indra is the deity, Jagati the metre, thou art the vessel of Indra and Vayu.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रो॑ दे॒वता॒ जग॑ती॒ छन्द॑ इन्द्रवायु॒वोᳶ पात्र॑मसि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्रः॑ । दे॒वता॑ । जग॑ती । छन्दः॑ । इ॒न्द्र॒वा॒यु॒वोरिती॑न्द्र-वा॒यु॒वोः । पात्र॑म् । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -187,9 +262,19 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 बृ᳓हस्प᳓तिर्देव᳓ताऽनुष्टु᳓प्छ᳓न्दो मित्रा᳓व᳓रुणयोᳶ पा᳓त्रमसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Brhaspati is the deity, Anustubh the metre, thou art the vessel of Mitra and Varuna.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृह॒स्पति॑र्दे॒वता॑ऽनु॒ष्टुप्छन्दो॑ मि॒त्रावरु॑णयो॒ᳶ पात्र॑मसि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बृह॒स्पतिः॑ । दे॒वता॑ । अ॒नु॒ष्टुबित्य॑नु-स्तुप् । छन्दः॑ । मि॒त्रावरु॑णयो॒रिति॑ मि॒त्रा-वरु॑णयोः । पात्र॑म् । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -202,9 +287,19 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 अश्वि᳓नौ देव᳓ता पङ्क्ति᳓श्छ᳓न्दोऽश्वि᳓नोᳶ पा᳓त्रमसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The Aśvins are the deity, Pañkti the metre, thou art the vessel of the Aśvins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒श्विनौ॑ दे॒वता॑ प॒ङ्क्तिश्छन्दो॒ऽश्विनो॒ᳶ पात्र॑मसि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒श्विनौ॑ । दे॒वता॑ । प॒ङ्क्तिः । छन्दः॑ । अ॒श्विनोः॑ । पात्र॑म् । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -217,9 +312,19 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 सू᳓र्यो देव᳓ता बृहती᳓ [18]  छ᳓न्दश्शुक्र᳓स्य पा᳓त्रमसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Surya is the deity, Brhati the metre [2], thou art the vessel of the pure (Soma).
+</details>
+
 <details><summary>मूलम्</summary>
 
 सूर्यो॑ दे॒वता॑ बृह॒ती [18]  छन्द॑श्शु॒क्रस्य॒ पात्र॑मसि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सूर्यः॑ । दे॒वता॑ । बृ॒ह॒ती । छन्दः॑ । शु॒क्रस्य॑ । पात्र॑म् । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -232,9 +337,19 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 चन्द्र᳓मा देव᳓ता सतो᳓बृहती छ᳓न्दो मन्थि᳓नᳶ पा᳓त्रमसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Candramas is the deity, Satobrhati the metre, thou art the vessel of the mixed (Soma).
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒न्द्रमा॑ दे॒वता॑ स॒तोबृ॑हती॒ छन्दो॑ म॒न्थिन॒ᳶ पात्र॑मसि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+च॒न्द्रमाः॑ । दे॒वता॑ । स॒तोबृ॑ह॒तीति॑ स॒तः-बृ॒ह॒ती॒ । छन्दः॑ । म॒न्थिनः॑ । पात्र॑म् । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -247,9 +362,19 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 वि᳓श्वे देवा᳓ देव᳓तोष्णि᳓हा छ᳓न्द आग्रयण᳓स्य पा᳓त्रमसि᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The All-gods are the deity, Usnih the metre, thou art the vessel of the opening offering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्वे॑ दे॒वा दे॒वतो॒ष्णिहा॒ छन्द॑ आग्रय॒णस्य॒ पात्र॑म॒सि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्वे॑ । दे॒वाः । दे॒वता॑ । उ॒ष्णिहा॑ । छन्दः॑ । आ॒ग्र॒य॒णस्य॑ । पात्र॑म् । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -262,9 +387,19 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 इ᳓न्द्रो देव᳓ता ककु᳓च्छ᳓न्द उक्था᳓नाम्पा᳓त्रमसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Indra is the deity, Kakubh the metre, thou art the vessel of the hymns.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रो॑ दे॒वता॑ क॒कुच्छन्द॑ उ॒क्थाना॒म्पात्र॑मसि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्रः॑ । दे॒वता॑ । क॒कुत् । छन्दः॑ । उ॒क्थाना॑म् । पात्र॑म् । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -277,17 +412,24 @@ title = "०६ आग्नीध्राभिमर्शनादिवि�
 पृथिवी᳓ देव᳓ता विरा᳓ट्छ᳓न्दो ध्रुव᳓स्य पा᳓त्रमसि ॥ [19]
 </details>
 
+<details><summary>Keith</summary>
+
+Earth is the deity, Viraj the metre, thou art the vessel of the reserved (offering).
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒वी दे॒वता॑ वि॒राट्छन्दो॑ ध्रु॒वस्य॒ पात्र॑मसि ॥ [19]
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-19विराट् दशाक्षरा । ध्रुवस्य ग्रहस्य पात्रं स्थाल्यसि ॥
+पृ॒थि॒वी । दे॒वता॑ । वि॒राडिति॑ वि-राट् । छन्दः॑ । ध्रु॒वस्य॑ । पात्र॑म् । अ॒सि॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
+
+19विराट् दशाक्षरा । ध्रुवस्य ग्रहस्य पात्रं स्थाल्यसि ॥
 
 इति तृतीये प्रथमे षष्ठोनुवाकः ॥  
 </details>

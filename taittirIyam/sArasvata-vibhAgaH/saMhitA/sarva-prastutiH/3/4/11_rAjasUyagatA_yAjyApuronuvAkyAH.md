@@ -12,10 +12,22 @@ title = "११ राजसूयगता याज्यापुरोनु
 कवि᳓र्गृह᳓पतिर्यु᳓वा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Long life thou givest, O Agni,  
+O god, to the giver,  
+Sage, lord of the house, the youthful.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वम॑ग्ने बृ॒हद्वयो॒ दधा॑सि देव दा॒शुषे॑ ।   
 क॒विर्गृ॒हप॑ति॒र्युवा॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । अ॒ग्ने॒ । बृ॒हत् । वयः॑ । दधा॑सि । दे॒व॒ । दा॒शुषे॑ ॥ क॒विः । गृ॒हप॑ति॒रिति॑ गृ॒ह-प॒तिः॒ । युवा॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -29,10 +41,23 @@ title = "११ राजसूयगता याज्यापुरोनु
 सुगार्हपत्या᳓स्स᳓मि᳓षो दिदीह्यस्मद्रि᳓यक्स᳓म्मिमीहि श्र᳓वाँसि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Bearing the oblations, Agni, immortal, our father,  
+Wide extending, widely refulgent, fair to see for us,  
+With good household fire, do thou shine forth food,  
+Mete out to uswards renown.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ह॒व्य॒वाड॒ग्निर॒जरᳶ॑ पि॒ता नो॑ वि॒भुर्वि॒भावा॑ सु॒दृशी॑को अ॒स्मे ।   
 सु॒गा॒र्ह॒प॒त्यास्समिषो॑ दिदीह्यस्म॒द्रिय॒क्सम्मि॑मीहि॒ श्रवाँ॑सि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ह॒व्य॒वाडिति॑ हव्य-वाट् । अ॒ग्निः । अ॒जरः॑ । पि॒ता । नः॒ । वि॒भुरिति॑ वि-भुः । वि॒भावेति॑ वि-भावा॑ । सु॒दृशी॑क॒ इति॑ सु-दृशी॑कः । अ॒स्मे इति॑ ॥ सु॒गा॒र्ह॒प॒त्या इति॑ सु-गा॒र्ह॒प॒त्याः । समिति॑ । इषः॑ । दि॒दी॒हि॒ । अ॒स्म॒द्रिय॒गित्य॑स्म-द्रिय॑क् । समिति॑ । मि॒मी॒हि॒ । श्रवाँ॑सि ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -46,10 +71,22 @@ title = "११ राजसूयगता याज्यापुरोनु
 प्रिय᳓स्तोत्रो व᳓नस्प᳓तिः ।
 </details>
 
+<details><summary>Keith</summary>
+
+O do thou, O Soma, will life for us,  
+That we may not die,  
+Thou that lovest praise, lord of the forest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वञ्च॑ सोम नो॒ वशो॑ जी॒वातु॒न्न म॑रामहे ।   
 प्रि॒यस्तो॑त्रो॒ वन॒स्पतिः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । च॒ । सो॒म॒ । नः॒ । वशः॑ । जी॒वातु॑म् । न । म॒रा॒म॒हे॒ ॥ प्रि॒यस्तो॑त्र॒ इति॑ प्रि॒य-स्तो॒त्रः॒ । वन॒स्पतिः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -63,10 +100,22 @@ title = "११ राजसूयगता याज्यापुरोनु
 श्येनो᳓ गृध्राणाँ स्व᳓धितिर्व᳓नानाँ सो᳓मः [41]  पवि᳓त्रम᳓त्येति रे᳓भन् ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Brahman of the gods, leader of poets,  
+Sage of seers, bull of wild beasts,
+Soma [1] goeth over the seive singing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्मा दे॒वाना॑म्पद॒वीᳵ क॑वी॒नामृषि॒र्विप्रा॑णाम्महि॒षो मृ॒गाणा॑म् ।   
 श्ये॒नो गृ॑ध्राणाँ॒ स्वधि॑ति॒र्वना॑नाँ॒ सोमः॑ [41]  प॒वित्र॒मत्ये॑ति॒ रेभ॑न् ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्र॒ह्मा । दे॒वाना॑म् । प॒द॒वीरिति॑ पद-वीः । क॒वी॒नाम् । ऋषिः॑ । विप्रा॑णाम् । म॒हि॒षः । मृ॒गाणा॑म् ॥ श्ये॒नः । गृध्रा॑णाम् । स्वधि॑ति॒रिति॒ स्व-धि॒तिः॒ । वना॑नाम् । सोमः॑ । प॒वित्र॑म् । अतीति॑ । ए॒ति॒ । रेभ॑न्न् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -80,10 +129,22 @@ title = "११ राजसूयगता याज्यापुरोनु
 सत्य᳓सवँ सविता᳓रम् ।   
 </details>
 
+<details><summary>Keith</summary>
+
+With our hymns to-day we choose  
+The god of all, the lord of the true,  
+Savitr of true instigation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ वि॒श्वदे॑वँ॒ सत्प॑तिँ सू॒क्तैर॒द्या वृ॑णीमहे ।   
 स॒त्यस॑वँ सवि॒तार॑म् ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । वि॒श्वदे॑व॒मिति॑ वि॒श्व-दे॒व॒म्॒ । सत्प॑ति॒मिति॒ सत्-प॒ति॒म्॒ । सू॒क्तैरिति॑ सु-उ॒क्तैः । अ॒द्य । वृ॒णी॒म॒हे॒ ॥ स॒त्यस॑व॒मिति॑ स॒त्य-स॒व॒म्॒ । स॒वि॒तार॑म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -148,6 +209,13 @@ The god advanceth gazing on the worlds.
 
 </div>
 
+<details><summary>Keith</summary>
+
+That Aditi may accord  
+To our cattle, our men, our kine,  
+To our offspring, Rudra's grace.
+</details>
+
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/043/02_yathA_no.md">
 
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
@@ -174,7 +242,7 @@ The god advanceth gazing on the worlds.
 य᳓था तोका᳓य रुद्रि᳓यम्
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>तैत्तिरीय-पाठः</summary>
 
 यथा॑ नो॒ अदि॑ति॒ᳵ कर॒त्पश्वे॒ नृभ्यो॒ यथा॒ गवे॑ ।   
 यथा॑ तो॒काय॑ रु॒द्रिय॑म्
@@ -425,10 +493,22 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 वीरा᳓न्मा᳓ नो रुद्र भामितो᳓ वधीर्हवि᳓ष्मन्तो न᳓मसा विधेम ते ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Harm us not in our children, our descendants, nor in our life, Harm us not in our cattle, in our horses [2]  
+Smite not in anger our heroes, O Rudra,  
+With oblations let us serve thee with honour.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मा न॑स्तो॒के तन॑ये॒ मा न॒ आयु॑षि॒ मा नो॒ गोषु॒ मा [42]  नो॒ अश्वे॑षु रीरिषः ।   
 वी॒रान्मा नो॑ रुद्र भामि॒तो व॑धीर्ह॒विष्म॑न्तो॒ नम॑सा विधेम ते ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मा । नः॒ । तो॒के । तन॑ये । मा । नः॒ । आयु॑षि । मा । नः॒ । गोषु॑ । मा । नः॒ । अश्वे॑षु । री॒रि॒षः॒ ॥ वी॒रान् । मा । नः॒ । रु॒द्र॒ । भा॒मि॒तः । व॒धीः॒ । ह॒विष्म॑न्तः । नम॑सा । वि॒धे॒म॒ । ते॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -442,10 +522,22 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 गिरिभ्र᳓जो नो᳓र्म᳓यो म᳓दन्तो बृ᳓हस्प᳓तिमभ्य᳙र्का᳓ अनावन् ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Like watchful birds swimming in water,  
+Like the noises of the loud thundercloud,  
+Like joyous waves breaking forth from the mountains, The praises have lauded Brhaspati.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒द॒प्रुतो॒ न वयो॒ रक्ष॑माणा॒ वाव॑दतो अ॒भ्रिय॑स्येव॒ घोषाः॑ ।   
 गि॒रि॒भ्रजो॒ नोर्मयो॒ मद॑न्तो॒ बृह॒स्पति॑म॒भ्य॑र्का अ॑नावन् ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒द॒प्रुत॒ इत्यु॑द-प्रुतः॑ । न । वयः॑ । रक्ष॑माणाः । वाव॑दतः । अ॒भ्रिय॑स्य । इ॒व॒ । घोषाः॑ ॥ गि॒रि॒भ्रज॒ इति॑ गिरि-भ्रजः॑ । न । ऊ॒र्मयः॑ । मद॑न्तः । बृह॒स्पति॑म् । अ॒भीति॑ । अ॒र्काः । अ॒ना॒व॒न् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -459,10 +551,23 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 बृ᳓हस्प᳓तिरभि क᳓निक्रदद्गा᳓ उत᳓ प्रा᳓स्तौदु᳓च्च विद्वाँ᳓ अगायत् ।   
 </details>
 
+<details><summary>Keith</summary>
+
+With comrades shouting like swans,  
+Casting aside his stone-made fetters,  
+Brhaspati thundered towards the cows,  
+And praised and sang in celebration perceiving them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हँ॒सैरि॑व॒ सखि॑भि॒र्वाव॑दद्भिरश्म॒न्मया॑नि॒ नह॑ना॒ व्यस्य॑न् ।   
 बृह॒स्पति॑रभि॒ कनि॑क्रद॒द्गा उ॒त प्रास्तौ॒दुच्च॑ वि॒द्वाँ अ॑गायत् ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+हँ॒सैः । इ॒व॒ । सखि॑भि॒रिति॒ सखि॑-भिः॒ । वाव॑दद्भि॒रिति॒ वाव॑दत्-भिः॒ । अ॒श्म॒न्मया॒नीत्य॑श्मन्न्-मया॑नि । नह॑ना । व्यस्य॒न्निति॑ वि-अस्य॑न्न् ॥ बृह॒स्पतिः॑ । अ॒भि॒कनि॑क्रद॒दित्य॑भि-कनि॑क्रदत् । गाः । उ॒त । प्रेति॑ । अ॒स्तौ॒त्॒ । उदिति॑ । च॒ । वि॒द्वान् । अ॒गा॒य॒त्॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -476,10 +581,22 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 व᳓र्षिष्ठमूत᳓ये भर ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Hither, O Indra, enduring wealth [3],  
+Victorious, bearing all,  
+Highest for help, do thou bring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एन्द्र॑ सान॒सिँ र॒यिम् [43]  स॒जित्वा॑नँ सदा॒सह॑म् ।   
 वर्षि॑ष्ठमू॒तये॑ भर ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । इ॒न्द्र॒ । सा॒न॒सिम् । र॒यिम् । स॒जित्वा॑न॒मिति॑ स-जित्वा॑नम् । स॒दा॒सह॒मिति॑ सदा-सह॑म् ॥ वर्षि॑ष्ठम् । ऊ॒तये॑ । भ॒र॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -498,10 +615,22 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 इ᳓न्द्रा᳓ भर द᳓क्षिणेना व᳓सूनि प᳓तिस्सि᳓न्धूनामसि रेव᳓तीनाम् ।   
 </details>
 
+<details><summary>Keith</summary>
+
+O thou much invoked, thou dost endure the foes; Best be thy strength, thy gift here;  
+Bring riches with thy right (hand), O Indra,  
+Thou art the lord of rich rivers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र स॑साहिषे पुरुहूत॒ शत्रू॒ञ्ज्येष्ठ॑स्ते॒ शुष्म॑ इ॒ह रा॒तिर॑स्तु ।   
 इन्द्रा भ॑र॒ दक्षि॑णेना॒ वसू॑नि॒ पति॒स्सिन्धू॑नामसि रे॒वती॑नाम् ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । स॒सा॒हि॒षे॒ । पु॒रु॒हू॒तेति॑ पुरु-हू॒त॒ । शत्रून्॑ । ज्येष्ठः॑ । ते॒ । शुष्मः॑ । इ॒ह । रा॒तिः । अ॒स्तु॒ ॥ इन्द्र॑ । एति॑ । भ॒र॒ । दक्षि॑णेन । वसू॑नि । पतिः॑ । सिन्धू॑नाम् । अ॒सि॒ । रे॒वती॑नाम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -515,10 +644,22 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 इ᳓न्द्र ज्यै᳓ष्ठ्याय सुक्रतो ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou were born, in full size at once,  
+For the drinking of (Soma) when pressed,  
+O Indra, O wise one, for pre-eminence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वँ सु॒तस्य॑ पी॒तये॑ स॒द्यो वृ॒द्धो अ॑जायथाः ।   
 इन्द्र॒ ज्यैष्ठ्या॑य सुक्रतो ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । सु॒तस्य॑ । पी॒तये॑ । स॒द्यः । वृ॒द्धः । अ॒जा॒य॒थाः॒ ॥ इन्द्र॑ । ज्यैष्ठ्या॑य । सु॒क्र॒तो॒ इति॑ सु-क्र॒तो॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -537,10 +678,22 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 भु᳓वो नॄँ᳓श्च्यौत्नो᳓ वि᳓श्वस्मिन्भ᳓रे ज्ये᳓ष्ठश्च म᳓न्त्रः [44]  विश्वचर्षणे ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art mighty, O Indra, with holy power,  
+To be adored at every pressing;  
+Thou art an overthrower of men in every conflict, And highest song [4], O lord of all the people.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भु॒वस्त्वमि॑न्द्र॒ ब्रह्म॑णा म॒हान्भुवो॒ विश्वे॑षु॒ सव॑नेषु य॒ज्ञियः॑ ।   
 भुवो॒ नॄँश्च्यौ॒त्नो विश्व॑स्मि॒न्भरे॒ ज्येष्ठ॑श्च॒ मन्त्रः॑ [44]  वि॒श्व॒च॒र्ष॒णे॒ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भुवः॑ । त्वम् । इ॒न्द्र॒ । ब्रह्म॑णा । म॒हान् । भुवः॑ । विश्वे॑षु । सव॑नेषु । य॒ज्ञियः॑ ॥ भुवः॑ । नॄन् । च्यौ॒त्नः । विश्व॑स्मिन् । भरे॑ । ज्येष्ठः॑ । च॒ । मन्त्रः॑ । वि॒श्व॒च॒र्ष॒ण॒ इति॑ विश्व-च॒र्ष॒णे॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -642,7 +795,7 @@ To the true one, let us offer an oblation rich in ghee.
 
 <details><summary>पद-पाठः</summary>
 
-मि॒त्रः । जनान्॑ । या॒त॒य॒ति॒ । प्र॒जा॒नन्निति॑ प्र-जा॒नन् । मि॒त्रः । दा॒धा॒र॒ । पृ॒थि॒वीम् । उ॒त । द्याम् ॥ मि॒त्रः । कृ॒ष्टीः । अनि॑मि॒षेत्यनि॑-मि॒षा॒ । अ॒भीति॑ । च॒ष्टे॒ । स॒त्याय॑ । ह॒व्यम् । घृ॒तव॒दिति॑ घृ॒त-व॒त्॒ ।
+मि॒त्रः । जनान्॑ । या॒त॒य॒ति॒ । प्र॒जा॒नन्निति॑ प्र-जा॒नन् । मि॒त्रः । दा॒धा॒र॒ । पृ॒थि॒वीम् । उ॒त । द्याम् ॥ मि॒त्रः । कृ॒ष्टीः । अनि॑मि॒षेत्यनि॑-मि॒षा॒ । अ॒भीति॑ । च॒ष्टे॒ । स॒त्याय॑ । ह॒व्यम् । घृ॒तव॒दिति॑ घृ॒त-व॒त्॒ । वि॒धे॒म॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -676,6 +829,14 @@ To the true one, let us offer an oblation rich in ghee.
 
 </div>
 
+<details><summary>Keith</summary>
+
+Rich in food be that mortal, O Mitra,  
+Who, O Aditya, seeks to follow thy law;  
+Aided by thee he is not slain nor oppressed;  
+Affliction cometh to him neither from near nor from afar.
+</details>
+
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/059/02_pra_sa.md">
 
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
@@ -695,7 +856,7 @@ To the true one, let us offer an oblation rich in ghee.
 - छन्दः - त्रिष्टुप्
 </details>
 
-<details><summary>मूलम् - तैत्तिरीयम्</summary>
+<details><summary>तैत्तिरीय-पाठः</summary>
 
 प्र स मि॑त्र॒ मर्तो॑ अस्तु॒ प्रय॑स्वा॒न्यस्त॑ आदित्य॒ शिक्ष॑ति व्र॒तेन॑ ।   
 न ह॑न्यते॒ न जी॑यते॒ त्वोतो॒ नैन॒मँहो॑ अश्ञो॒त्यन्ति॑तो॒ न दू॒रात् ।
@@ -1069,6 +1230,13 @@ Der Mensch, o Mitra, sei vor allen glücklich, der dir, Aditja, dient nach deine
 
 </div>
 
+<details><summary>Keith</summary>
+
+Whatever [5] law of thine, as men,  
+O god Varuna,  
+Day by day we transgress.
+</details>
+
 <div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/025/01_yachchiddhi_te.md">
 
 <details><summary><h2>मूलम् …{Loading}…</h2></summary>
@@ -1360,6 +1528,14 @@ Wie sehr wir auch, o Varuna, verletzen dein Gebot, o Gott, Nach Menschen Weise T
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Whatever wrong we mortals here do  
+Against the host divine,
+Whatever breach of thy laws we make through lack of thought,  
+For that sin, O god, harm us not.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/089/05_yatkiM_chedaM.md">
 
@@ -1705,6 +1881,14 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+As gamesters cheat in dicing,  
+What we know in truth or what we know not,  
+All that do thou, O god, loosen as it were,  
+And may we be dear to thee, O Varuna.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/085/08_kitavAso_yadriripurna.md">
 

@@ -394,6 +394,7 @@ O Visnu, as our nearest, O mighty one, grant us protection; the streams dripping
 </details>
 
 <details><summary>मूलम्</summary>
+
 इत्या॑ह  
 यदे॒वास्य॒ शया॑नस्योप॒शुष्य॑ति   
 तदे॒वास्यै॒तेना प्या॑ययति ॥ [34]

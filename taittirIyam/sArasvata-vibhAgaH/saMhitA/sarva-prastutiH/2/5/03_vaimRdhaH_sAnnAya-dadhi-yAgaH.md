@@ -233,6 +233,7 @@ In that at the new moon there is (an offering) to Agni on eight potsherds, and c
 </details>
 
 <details><summary>पद-पाठः</summary>
+
 यत् । आ॒ग्ने॒यः । अ॒ष्टाक॑पाल॒ इत्य॒ष्टा-क॒पा॒लः॒ । अ॒मा॒वा॒स्या॑या॒मित्य॑मा-वा॒स्या॑याम् । भव॑ति ।  
 ऐ॒न्द्रम् । दधि॑ । दे॒वताः॑ । च॒ । ए॒व । तेन॑ । इ॒न्द्रि॒यम् । च॒ । यज॑मानः । अवेति॑ । रु॒न्द्धे॒ ।
 </details>

@@ -365,6 +365,7 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the second ea
 </details>
 
 <details><summary>मूलम्</summary>
+
 [ वि॒देर॒ग्निर्नभो॒ नाम] अग्ने॑ अङ्गिरो॒ यो द्वि॒तीय॑स्यां  
 </details>
 

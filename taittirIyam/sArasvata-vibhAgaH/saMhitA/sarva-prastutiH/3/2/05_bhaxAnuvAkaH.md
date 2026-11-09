@@ -37,6 +37,11 @@ Food come hither, enter me for long life, for health, for increase of wealth, fo
 भक्षेहि॒ मा वि॑श दीर्घायु॒त्वाय॑ शन्तनु॒त्वाय॑ रा॒यस्पोषा॑य॒ वर्च॑से सुप्रजा॒स्त्वाय॑ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+भक्ष॑ । एति॑ । इ॒हि॒ । मा॒ । एति॑ । वि॒श॒ । दी॒र्घा॒यु॒त्वायेति॑ दीर्घायु-त्वाय॑ । श॒न्त॒नु॒त्वायेति॑ शन्तनु-त्वाय॑ । रा॒यः । पोषा॑य । वर्च॑से । सु॒प्र॒जा॒स्त्वायेति॑ सुप्रजाः-त्वाय॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 भक्ष्यत इति भक्षः । हे भक्ष । षाष्ठिकमामन्त्रिताद्युदात्तत्वम् । एहि आगच्छ । गुणे कृते, 'अन्तादिवच्च' इति तस्य आङ्ग्रहणेन ग्रहणात् 'ओमाङोश्च' इति पररूपत्वम् । स त्वं मामाविश भक्षितोन्तः प्रविश दीर्घायुत्वाय । तादर्थ्ये चतुर्थी । मम दीर्घमायुर्यथा स्यादिति । बहुव्रीहौ छान्दसोन्त्यलोपः । शन्तनुत्वाय आरोग्याय रायो धनस्य पोषाय पुष्ट्यर्थम् । पूर्ववत्सत्वम् । वर्चसे दीप्तये बलाय वा । सुप्रजास्त्वाय शोभनापत्यत्वार्थं मामाविशेति ।
@@ -45,22 +50,51 @@ Food come hither, enter me for long life, for health, for increase of wealth, fo
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **ए᳓हि** वसो! पुरो-वसो!  
+</details>
+
+<details><summary>Keith</summary>
+
+Come hither, O Vasu, preceded by wealth;
+</details>
+
+<details><summary>मूलम्</summary>
+
+एहि॑ वसो पुरोवसो ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । इ॒हि॒ । व॒सो॒ इति॑ । पु॒रो॒व॒सो॒ इति॑ पुरः-व॒सो॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+एहि वसो वासहेतो सर्वेषां, आगच्छ हे पुरोवसो पुरस्ताद्वसो वासयितॄणां पूर्वधनानां वा,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रियो᳓ मे हृदो᳙ऽसि ।  
 </details>
 
 <details><summary>Keith</summary>
 
-Come hither, O Vasu, preceded by wealth; thou art dear to my heart.
+thou art dear to my heart.
 </details>
 
 <details><summary>मूलम्</summary>
 
-एहि॑ वसो पुरोवसो प्रि॒यो मे॑ हृ॒दो॑ऽसि ।  
+प्रि॒यो मे॑ हृ॒दो॑ऽसि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रि॒यः । मे॒ । हृ॒दः । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-एहि वसो वासहेतो सर्वेषां, आगच्छ हे पुरोवसो पुरस्ताद्वसो वासयितॄणां पूर्वधनानां वा, प्रथमं मे मम हृदयस्य प्रियोसि, प्रीणयिताऽसि उपकारकत्वात् ।
+प्रथमं मे मम हृदयस्य प्रियोसि, प्रीणयिताऽसि उपकारकत्वात् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -76,6 +110,11 @@ May I grasp thee with the arms of the Aśvins.
 <details><summary>मूलम्</summary>
 
 अ॒श्विनो॑स्त्वा बा॒हुभ्याँ॑ सघ्यासम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒श्विनोः॑ । त्वा॒ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । स॒घ्या॒स॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -102,6 +141,11 @@ With clear sight may I gaze' upon thee, O god Soma, who regardest men.
 <details><summary>मूलम्</summary>
 
 नृ॒चक्ष॑सन्त्वा देव सोम सु॒चक्षा॒ अव॑ ख्येषम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नृ॒चक्ष॑स॒मिति॑ नृ-चक्ष॑सम् । त्वा॒ । दे॒व॒ । सो॒म॒ । सु॒चक्षा॒ इति॑ सु-चक्षाः॑ । अवेति॑ । ख्ये॒ष॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -265,6 +309,11 @@ Of thee, O god Soma, who hast the Vasus for thy troop, who knowest the mind, who
 वसु॑मद्गणस्य सोम देव ते मति॒विदᳶ॑ प्रातस्सव॒नस्य॑ गाय॒त्रछ॑न्दस॒  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वसु॑मद्गण॒स्येति॒ वसु॑मत्-ग॒ण॒स्य॒ । सो॒म॒ । दे॒व॒ । ते॒ । म॒ति॒विद॒ इति॑ मति-विदः॑ । प्रा॒त॒स्स॒व॒नस्येति॑ प्रातः-स॒व॒नस्य॑ । गा॒य॒त्रछ॑न्दस॒ इति॑ गाय॒त्र-छ॒न्द॒सः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5वसुमद्गणस्य वसुमान् गणो यस्य स तथोक्तः । अष्टौ वसवः तत्रावयवेन समुदायो गणस्तद्वानिति मत्वर्थोपपत्तिः । कश्चिदाह - वसुमान् धनवान् गण ऋत्विक्सङ्घो यस्येति । तस्य रुद्गवद्गणस्येत्यादि अघटमानं स्यात् । हे सोम देव दीप्तिमन् ते तव मति विदः सर्वेषां मतानि जानतः अभिमतानां लम्भयितुर्वा प्रातस्सवनस्य प्रातस्सूयत इति प्रातस्सवनं, कर्मणि ल्युट्, 'अनो भावकर्मवचने' इत्युत्तरपदान्तोदात्तत्वम् ।   
@@ -327,6 +376,11 @@ Of thee, O god Soma, who hast the Rudras for thy troop, who knowest the mind, wh
 रु॒द्रव॑द्गणस्य सोम देव ते मति॒विदो॒ माध्य॑न्दिनस्य॒ सव॑नस्य त्रि॒ष्टुप्छ॑न्दस॒ 
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रु॒द्रव॑द्गण॒स्येति॑ रु॒द्रव॑त्-ग॒ण॒स्य॒ । सो॒म॒ । दे॒व॒ । ते॒ । म॒ति॒विद॒ इति॑ मति-विदः॑ । माध्य॑न्दिनस्य । सव॑नस्य । त्रि॒ष्टुफ्छ॑न्दस॒ इति॑ त्रि॒ष्टुप्-छ॒न्द॒सः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 माध्यन्दिनस्येति । दिनस्य मध्यं मध्यन्दिनम् 'मध्यो मध्यन्दिनं चास्मात्' इति । तत्र भवं माध्यन्दिनम् । तस्य सवनस्य सूयमानस्य सोमस्य तव भक्षयामीति । एवमेतादृशसोमसंबन्धात् प्रातस्सवनादयश्शब्दाः कर्मणि वर्तन्ते । गतमन्यत् ॥
@@ -385,6 +439,11 @@ Of thee, O god Soma, who hast the Adityas for thy troop, who knowest the heart, 
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्यव॑द्गणस्य सोम देव ते मति॒विद॑स्तृ॒तीय॑स्य॒ सव॑नस्य॒ जग॑तीछन्दस॒ 
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒दि॒त्य॒व॑द्गण॒स्येत्या॑दि॒त्यव॑त्-ग॒ण॒स्य॒ । सो॒म॒ । दे॒व॒ । ते॒ । म॒ति॒विद॒ इति॑ मति-विदः॑ । तृ॒तीय॑स्य । सव॑नस्य । जग॑तीछन्दस॒ इति॒ जग॑ती-छ॒न्द॒सः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -936,6 +995,11 @@ Of thee, O god Soma, over whom the Yajus is spoken, the Stoma sung [4], the Ukth
 इ॒ष्टय॑जुषस्ते देव सोम स्तु॒तस्तो॑मस्य श॒स्तोक्थ॑स्य॒ हरि॑वत॒ इन्द्र॑पीतस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भक्षयामि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इ॒ष्टय॑जुष॒ इती॒ष्ट-य॒जु॒षः॒ । ते॒ । दे॒व॒ । सो॒म॒ । स्तु॒तस्तो॑म॒स्येति॑ स्तु॒त-स्तो॒म॒स्य॒ । श॒स्तोक्थ॒स्येति॑ श॒स्त-उ॒क्थ॒स्य॒ । हरि॑वत॒ इति॒ हरि॑-व॒तः॒ । इन्द्र॑पीत॒स्येतीन्द्र॑-पी॒त॒स्य॒ । मधु॑मत॒ इति॒ मधु॑-म॒तः॒ । उप॑हूत॒स्येत्युप॑-हू॒त॒स्य॒ । उप॑हूत॒ इत्युप॑-हू॒तः॒ । भ॒क्ष॒या॒मि॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे देव सोम ते तव त्वां भक्षयामि । पूर्ववत्कर्मणि षष्ठी कीदृशस्य? इष्टयजुषः । इष्टमेभिरिति छान्दसः करणे क्तः । इष्टानि यजूंषि यस्य । स्तुतस्तोमस्य स्तुताः स्तोमाः यस्य । शस्तोक्थस्य शस्तानि शस्त्राणि यस्य तादृशस्य, हरिवत इत्यादि । गतम् ॥
@@ -948,26 +1012,55 @@ Of thee, O god Soma, over whom the Yajus is spoken, the Stoma sung [4], the Ukth
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**आपू᳓र्यास्** स्थ᳓,  
-+आ᳓ मा **पूरयत** प्रज᳓या च ध᳓नेन च ।
+**आपू᳓र्यास्** स्थ᳓ ।  
 </details>
 
 <details><summary>Keith</summary>
 
-Ye are to be filled; fill me  
-With offspring and wealth.
+Ye are to be filled;
 </details>
 
 <details><summary>मूलम्</summary>
 
-आ॒पूर्या॒स्स्था मा॑ पूरयत प्र॒जया॑ च॒ धने॑न च ।
+आ॒पूर्या॒स्स्थ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒पूर्या॒ इत्या॑-पूर्याः॑ । स्थ॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आपूर्याः आपूर्णा एव यूयं स्थ ।  
 भक्षणेन न क्षयः कश्चिद् अस्माभिः कृतः ।  
-कर्तरि कृत्यः । यद्वा - करणे । आपूर्यः स्थ । तस्मान्मामापूरयत प्रजया च धनेन च ॥
+कर्तरि कृत्यः । यद्वा - करणे । आपूर्यः स्थ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++आ᳓ मा **पूरयत** प्रज᳓या च ध᳓नेन च ।
+</details>
+
+<details><summary>Keith</summary>
+
+fill me  
+With offspring and wealth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ मा॑ पूरयत प्र॒जया॑ च॒ धने॑न च ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । मा॒ । पू॒र॒य॒त॒ । प्र॒जयेति॑ प्र-जया॑ । च॒ । धने॑न । च॒ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्मान्मामापूरयत प्रजया च धनेन च ॥
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -980,30 +1073,52 @@ With offspring and wealth.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒तत् ते॑ तत॒ ये च॒ त्वाम् अनु॑।  
-[ए॒तत् ते॑] पितामह [ये᳓ च॒ त्वाम् अनु॑]।  
-[ए॒तत् ते॑] प्रपितामह॒ [ये᳓ च॒ त्वाम् अनु॑]।  
 </details>
 
 <details><summary>Keith</summary>
 
-This for thee, O father, and for thy line;  
-This for thee, O grandfather, great-grandfather, and for thy line
+This for thee, O father, and for thy line;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ए॒तत्ते॑ तत॒ ये च॒ त्वामन्वे॒तत्ते॑ पितामह प्रपितामह॒ ये च॒ त्वामनु॑ ।
+ए॒तत्ते॑ तत॒ ये च॒ त्वामनु॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-ए॒तत् । ते॒ । त॒त॒ । ये । च॒ । त्वाम् । अन्विति॑ । ए॒तत् । ते॒ । पि॒ता॒म॒ह॒ । प्र॒पि॒ता॒म॒हेति॑ प्र-पि॒ता॒म॒ह॒ । ये । च॒ । त्वाम् । अन्विति॑ ।
+ए॒तत् । ते॒ । त॒त॒ । ये । च॒ । त्वाम् । अन्विति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एनदन्नं ते तव भवतु हे तत तात ।  
 ये च त्वामनुगता आश्रिताः अन्ये, तेषाञ्चैतदन्नं भवतु ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[ए॒तत् ते॑] पितामह [ये᳓ च॒ त्वाम् अनु॑]।  
+[ए॒तत् ते॑] प्रपितामह॒ [ये᳓ च॒ त्वाम् अनु॑]।  
+</details>
+
+<details><summary>Keith</summary>
+
+This for thee, O grandfather, great-grandfather, and for thy line
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒तत्ते॑ पितामह प्रपितामह॒ ये च॒ त्वामनु॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒तत् । ते॒ । पि॒ता॒म॒ह॒ । प्र॒पि॒ता॒म॒हेति॑ प्र-पि॒ता॒म॒ह॒ । ये । च॒ । त्वाम् । अन्विति॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
 एतत्ते अन्नं हे पितामह, ये च त्वामनुगताः तेषां च । पितुः पिता पितामहः । एवमेतत्ते अन्नं हे प्रपितामह, ये चान्ये त्वामनुगताः, तेषाञ्च ।
 पितामहस्य पिता प्रपितामहः । 
 
@@ -1181,29 +1296,51 @@ homage to your anger, O fathers;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न᳓मो वᳶ पितरो घोरा᳓य ,  
-पि᳓तरो न᳓मो वः ।
+न᳓मो वᳶ पितरो घोरा᳓य । [पि᳓तरो न᳓मो वः।]
 </details>
 
 <details><summary>Keith</summary>
 
-homage to your terrors, O fathers; O fathers, homage to you.
+homage to your terrors, O fathers;
 </details>
 
 <details><summary>मूलम्</summary>
 
-नमो॑ वᳶ पितरो घो॒राय॑ ,  
-पित॑रो॒ नमो॑ वः ।
+नमो॑ वᳶ पितरो घो॒राय॑ । [पित॑रो॒ नमो॑ वः।]
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-नमः॑ । वः॒ । पि॒त॒रः॒ । घो॒राय॑ । पित॑रः । नमः॑ । वः॒ ।
+नमः॑ । वः॒ । पि॒त॒रः॒ । घो॒राय॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 घोरः क्रूरम् । एतयोः स्थाने प्राधान्यं प्रार्थ्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पि᳓तरो न᳓मो वः ।
+</details>
+
+<details><summary>Keith</summary>
+
+O fathers, homage to you.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पित॑रो॒ नमो॑ वः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पित॑रः । नमः॑ । वः॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
 हे पितरः युष्मभ्यं नमः । फलमनपेक्ष्य सप्तमोयं नमस्कारः क्रियते । पुनर्वचनं फलनिरपेक्षया नमस्कारार्थम् । अन्य आहुः - पितृसंबन्धिभ्यो रसादिभ्यः प्रथमं षण्णमस्काराः, ततः पितृभ्य एव सप्तम इति ।
 </details>
 

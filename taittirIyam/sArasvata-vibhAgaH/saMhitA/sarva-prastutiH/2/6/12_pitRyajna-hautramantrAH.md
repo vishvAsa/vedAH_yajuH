@@ -3212,6 +3212,7 @@ yé ← yá- (pronoun)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
+
 -   *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”

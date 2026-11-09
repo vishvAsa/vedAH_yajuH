@@ -21,12 +21,17 @@ title = "०१ अतिग्राह्यमन्त्राः"
 
 <details><summary>Keith</summary>
 
-O Agni, brilliant, be thou brilliant among the gods; 
+O Agni, brilliant, be thou brilliant among the gods;
 </details>
 
 <details><summary>मूलम्</summary>
 
 अग्ने॑ तेजस्विन्तेज॒स्वी त्वन्दे॒वेषु॑ भूयाः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । ते॒ज॒स्वि॒न् । ते॒ज॒स्वी । त्वम् । दे॒वेषु॑ । भू॒याः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -41,12 +46,17 @@ O Agni, brilliant, be thou brilliant among the gods;
 
 <details><summary>Keith</summary>
 
-make me brilliant, of long life, radiant among men; 
+make me brilliant, of long life, radiant among men;
 </details>
 
 <details><summary>मूलम्</summary>
 
 तेज॑स्वन्त॒म्मामायु॑ष्मन्तव्ँ॒वर्च॑स्वन्तम्मनु॒ष्ये॑षु कुरु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तेज॑स्वन्तम् । माम् । आयु॑ष्मन्तम् । वर्च॑स्वन्तम् । म॒नु॒ष्ये॑षु । कु॒रु॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -74,6 +84,11 @@ for the brilliance of consecration and of penance do I offer to thee.
 दी॒क्षायै॑ च त्वा॒ तप॑सश्च॒ तेज॑से जुहोमि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+दी॒क्षायै॑ । च॒ । त्वा॒ । तप॑सः । च॒ । तेज॑से । जु॒हो॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 दीक्षायै दीक्षायास्तपस उपवासादेश्च सकाशात् यत्तेज उत्पद्यते तन्मे भूयादिति त्वां जुहोमि ॥
@@ -92,23 +107,51 @@ for the brilliance of consecration and of penance do I offer to thee.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेजो-वि᳓द् असि ।
-ते᳓जो मा मा᳓ हासीत्  ।  
 </details>
 
 <details><summary>Keith</summary>
 
-Thou dost win brilliance; may brilliance forsake me not, 
+Thou dost win brilliance;
 </details>
 
 <details><summary>मूलम्</summary>
 
 ते॒जो॒विद॑सि ।
-तेजो॑ मा॒ मा हा॑सीत्  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते॒जो॒विदिति॑ तेजः-वित् । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तेजसो वेत्ता लब्धा लम्भयिता वा त्वमसि, त्वंर्त्संबन्धात् मां तेजो मा हासीत् मा त्याक्षीत् । जहातेः लुङि 'यमरमनमातां सक्च' इति सगिटौ ।
+तेजसो वेत्ता लब्धा लम्भयिता वा त्वमसि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते᳓जो मा मा᳓ हासीत्  ।  
+</details>
+
+<details><summary>Keith</summary>
+
+may brilliance forsake me not,
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेजो॑ मा॒ मा हा॑सीत्  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तेजः॑ । मा॒ । मा । हा॒सी॒त् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+त्वंर्त्संबन्धात् मां तेजो मा हासीत् मा त्याक्षीत् । जहातेः लुङि 'यमरमनमातां सक्च' इति सगिटौ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -126,6 +169,11 @@ may I forsake not brilliance, may brilliance forsake me not.
 
 माऽहन्तेजो॑ हासिषम् ।  
 मा मान्तेजो॑ हासीत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मा । अ॒हम् । तेजः॑ । हा॒सि॒ष॒म् । मा । माम् । तेजः॑ । हा॒सी॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -151,13 +199,18 @@ may I forsake not brilliance, may brilliance forsake me not.
 
 <details><summary>Keith</summary>
 
-O Indra, full of force, be thou full of force among the gods, make me full of force, of long life, radiant among men; for 
+O Indra, full of force, be thou full of force among the gods, make me full of force, of long life, radiant among men;
 </details>
 
 <details><summary>मूलम्</summary>
 
 इन्द्रौ॑जस्विन्नोज॒स्वी त्वन्दे॒वेषु॑ भूयाः ।  
 ओज॑स्वन्त॒म्मामायु॑ष्मन्तव्ँ॒वर्च॑स्वन्तम् मनु॒ष्ये॑षु कुरु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑ । ओ॒ज॒स्वि॒न् । ओ॒ज॒स्वी । त्वम् । दे॒वेषु॑ । भू॒याः॒ । ओज॑स्वन्तम् । माम् । आयु॑ष्मन्तम् । वर्च॑स्वन्तम् । म॒नु॒ष्ये॑षु । कु॒रु॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -172,12 +225,17 @@ O Indra, full of force, be thou full of force among the gods, make me full of fo
 
 <details><summary>Keith</summary>
 
-the force of the Brahmanhood and royalty [1] do I offer to thee.
+for the force of the Brahmanhood and royalty [1] do I offer to thee.
 </details>
 
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑णश्च त्वा क्ष॒त्रस्य॑ चौज॑से जुहोमि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्रह्म॑णः । च॒ । त्वा॒ । क्ष॒त्रस्य॑ । च॒ । ओज॑से । जु॒हो॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -198,6 +256,30 @@ the force of the Brahmanhood and royalty [1] do I offer to thee.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओजो-वि᳓द् असि ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Thou dost win force;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ओ॒जो॒विद॑सि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ओ॒जो॒विदित्यो॑जः-वित् । अ॒सि॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ओजोविदिति ॥ गतम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ओ᳓जो मा मा᳓ हासीत् ।  
 मा᳓ ऽह᳓म् ओ᳓जो हासिषम् ।  
 मा᳓ मा᳓म् ओ᳓जो हासीत् ।  
@@ -205,20 +287,19 @@ the force of the Brahmanhood and royalty [1] do I offer to thee.
 
 <details><summary>Keith</summary>
 
-Thou dost win force; may force forsake me not, may I forsake not force, may force forsake me not.
+may force forsake me not, may I forsake not force, may force forsake me not.
 </details>
 
 <details><summary>मूलम्</summary>
 
-ओ॒जो॒विद॑सि ।  
 ओजो॑ मा॒ मा हा॑सीत् ।  
 माहमोजो॑ हासिष॒म् ।  
 मा मामोजो॑ हासीत् ।  
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-ओजोविदिति ॥ गतम् ॥
+ओजः॑ । मा॒ । मा । हा॒सी॒त् । मा । अ॒हम् । ओजः॑ । हा॒सि॒ष॒म् । मा । माम् । ओजः॑ । हा॒सी॒त् ।
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -234,23 +315,46 @@ Thou dost win force; may force forsake me not, may I forsake not force, may forc
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू᳓र्य भ्राजस्विन्भ् राजस्वी᳓ त्व᳓न् देवे᳓षु भूयाः ।
-भ्रा᳓जस्वन्तम् मा᳓म् आ᳓युष्मन्तव्ँ व᳓र्चस्वन्तम् मनुष्ये᳙षु कुरु ।  
 </details>
 
 <details><summary>Keith</summary>
 
-O sun, blazing, be thou blazing among the gods; make me blazing, of long life, radiant among men; 
+O sun, blazing, be thou blazing among the gods;
 </details>
 
 <details><summary>मूलम्</summary>
 
 सूर्य॑ भ्राजस्विन्भ्राज॒स्वी त्वन्दे॒वेषु॑ भूयाः ।
-भ्राज॑स्वन्त॒म् मामायु॑ष्मन्तव्ँ॒वर्च॑स्वन्तम्मनु॒ष्ये॑षु कुरु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सूर्य॑ । भ्रा॒ज॒स्वि॒न् । भ्रा॒ज॒स्वी । त्वम् । दे॒वेषु॑ । भू॒याः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 भ्राजो दीप्तिः समानमन्यत् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भ्रा᳓जस्वन्तम् मा᳓म् आ᳓युष्मन्तव्ँ व᳓र्चस्वन्तम् मनुष्ये᳙षु कुरु ।  
+</details>
+
+<details><summary>Keith</summary>
+
+make me blazing, of long life, radiant among men;
+</details>
+
+<details><summary>मूलम्</summary>
+
+भ्राज॑स्वन्त॒म् मामायु॑ष्मन्तव्ँ॒वर्च॑स्वन्तम्मनु॒ष्ये॑षु कुरु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भ्राज॑स्वन्तम् । माम् । आयु॑ष्मन्तम् । वर्च॑स्वन्तम् । म॒नु॒ष्ये॑षु । कु॒रु॒ ।
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -273,6 +377,11 @@ for the blazing of the wind and of the waters do I offer to thee.
 वा॒योश्च॑ त्वा॒ऽपाञ्च॒ भ्राज॑से जुहोमि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वा॒योः । च॒ । त्वा॒ । अ॒पाम् । च॒ । भ्राज॑से । जु॒हो॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वायुना अद्भिश्च यद्वाजस्संपद्यते तन्मे भूयादिति त्वां जुहोमि ॥
@@ -291,6 +400,30 @@ for the blazing of the wind and of the waters do I offer to thee.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्-वि᳓द् असि ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Thou dost win the light;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सु॒व॒र्विद॑सि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒व॒र्विदिति॑ सुवः-वित् । अ॒सि॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+गतम् । सुवः स्वर्गम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सु᳓वर् मा मा᳓ हासीत्  ।  
 मा᳓हँ᳓ सु᳓वर् हासिषम् ।  
 मा᳓ माँ᳓ सु᳓वर् हासीत् ।  
@@ -298,20 +431,19 @@ for the blazing of the wind and of the waters do I offer to thee.
 
 <details><summary>Keith</summary>
 
-Thou dost win the light; may the light forsake me not, may I not forsake the light, may the light forsake me not.
+may the light forsake me not, may I not forsake the light, may the light forsake me not.
 </details>
 
 <details><summary>मूलम्</summary>
 
-सु॒व॒र्विद॑सि ।  
 सुव॑र्मा॒ मा हा॑सीत्  ।  
 माहँ सुव॑र्हासिष॒म् ।  
 मा माँ सुव॑र्हासीत् ।  
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-गतम् । सुवः स्वर्गम् ॥
+सुवः॑ । मा॒ । मा । हा॒सी॒त् । मा । अ॒हम् । सुवः॑ । हा॒सि॒ष॒म् । मा । माम् । सुवः॑ । हा॒सी॒त् ।
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>

@@ -24,12 +24,25 @@ title = "०१ दर्शपूर्णमासाङ्गभूतार�
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
 
+<details><summary>Keith</summary>
+
+Full behind, and full in front,  
+In the middle hath she of the full moon been victorious;  
+In her let the gods dwelling together  
+Rejoice here in the highest firmament.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता॑त् ।   
 उन्म॑ध्य॒तᳶ पौ॑र्णमा॒सी जि॑गाय ।  
 तस्या॑न्दे॒वा अधि॑ सव्ँ॒वस॑न्तः ।  
 उ॒त्त॒मे नाक॑ इ॒ह मा॑दयन्ताम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पू॒र्णा । प॒श्चात् । उ॒त । पू॒र्णा । पु॒रस्ता॑त् । उदिति॑ । म॒ध्य॒तः । पौ॒र्ण॒मा॒सीति॑ पौर्ण-मा॒सी । जि॒गा॒य॒ ॥ तस्या॑म् । दे॒वाः । अधीति॑ । सव्ँ॒वस॑न्त॒ इति॑ सं-वस॑न्तः । उ॒त्त॒म इत्यु॑त्-त॒मे । नाके॑ । इ॒ह । मा॒द॒य॒न्ता॒म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -66,16 +79,25 @@ _________________
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/30_yatte_devA.md">
 
-<details><summary>मूलम्</summary>
+<details><summary>Keith</summary>
 
-यत्ते॑ दे॒वा अद॑धुर्भाग॒धेय॒ममा॑वास्ये सव्ँ॒वस॑न्तो महि॒त्वा ।   
-सा नो॑ य॒ज्ञम्पि॑पृहि विश्ववारे र॒यिन्नो॑ धेहि सुभगे सु॒वीर॑म् ।
+The share that the gods dwelling together  
+In greatness bestowed on thee, O new moon,  
+(Therewith) do thou fill our sacrifice, O thou of every boon  
+Grant us wealth of good heroes, O fortunate one.
 </details>
 
 <details><summary>मूलम्</summary>
 
+यत्ते॑ दे॒वा अद॑धुर्भाग॒धेय॒ममा॑वास्ये सव्ँ॒वस॑न्तो महि॒त्वा ।   
+सा नो॑ य॒ज्ञम्पि॑पृहि विश्ववारे र॒यिन्नो॑ धेहि सुभगे सु॒वीर॑म् ।
+________________
 यत्ते॑ दे॒वा अद॑धुः ॥23॥
+</details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । दे॒वाः । अद॑धुः । भा॒ग॒धेय॒मिति॑ भाग-धेय॑म् । अमा॑वास्य॒ इत्यमा॑-वा॒स्ये॒ । सव्ँ॒वस॑न्त॒ इति॑ सं-वस॑न्तः । म॒हि॒त्वेति॑ महि-त्वा ॥ सा । नः॒ । य॒ज्ञम् । पि॒पृ॒हि॒ । वि॒श्व॒वा॒र॒ इति॑ विश्व-वा॒रे॒ । र॒यिम् । नः॒ । धे॒हि॒ । सु॒भ॒ग॒ इति॑ सु-भ॒गे॒ । सु॒वीर॒मिति॑ सु-वीर॑म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -113,15 +135,25 @@ ________________
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/29_niveshanI.md">
 
-<details><summary>मूलम्</summary>
+<details><summary>Keith</summary>
 
-नि॒वेश॑नी स॒ङ्गम॑नी॒ वसू॑नाव्ँ॒ विश्वा॑ रू॒पाणि॒ वसू॑न्यावे॒शय॑न्ती ।  
-स॒ह॒स्र॒पो॒षँ सु॒भगा॒ ररा॑णा॒ सा न॒ आ ग॒न्वर्च॑सा सव्ँविदा॒ना ।
+Holder and gatherer of riches,  
+Clad in all rich forms,  
+Granting a thousandfold prosperity,  
+The fortunate one hath come to us with radiance accordant [1].
 </details>
 
 <details><summary>मूलम्</summary>
 
+नि॒वेश॑नी स॒ङ्गम॑नी॒ वसू॑नाव्ँ॒ विश्वा॑ रू॒पाणि॒ वसू॑न्यावे॒शय॑न्ती ।  
+स॒ह॒स्र॒पो॒षँ सु॒भगा॒ ररा॑णा॒ सा न॒ आ ग॒न्वर्च॑सा सव्ँविदा॒ना ।
+________________
 नि॒वेश॑नी॒   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नि॒वेश॒नीति॑ नि-वेश॑नी । स॒ङ्गम॒नीति॑ सं-गम॑नी । वसू॑नाम् । विश्वा॑ । रू॒पाणि॑ । वसू॑नि । आ॒वे॒शय॒न्तीत्या॑-वे॒शय॑न्ती ॥ स॒ह॒स्र॒पो॒षमिति॑ सहस्र-पो॒षम् । सु॒भगेति॑ सु-भगा॑ । ररा॑णा । सा । नः॒ । एति॑ । ग॒न् । वर्च॑सा । सव्ँ॒वि॒दा॒नेति॑ सं-वि॒दा॒ना ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -141,16 +173,30 @@ ________________
 4अथ प्रथमस्य याज्या - अग्नीषोमावित्यतिशक्वरी पञ्चपदा ॥ 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ᳓ग्नीषोमौ प्रथमौ᳓ वीर्ये᳙ण व᳓सून्रुद्रा᳓नादित्या᳓निह᳓ जिन्वतम् ।   
 माध्यँ᳓ हि᳓ पौर्णमास᳓ञ्जुषे᳓थाम्ब्र᳓ह्मणा वृद्धौ᳓ सुकृते᳓न साता᳓व᳓थास्म᳓भ्यँ सह᳓वीराँ रयि᳓न्नि᳓ यच्छतम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni and Soma, the first in strength,  
+Do ye quicken the Vasus, the Rudras, the Adityas here;  
+Rejoice in him of the full moon in the midst,  
+Ye that are made to grow by holy power, won by good deeds,  
+And allot to us wealth with heroes.
 </details>
 
 <details><summary>मूलम्</summary>
 
 अग्नी॑षोमौ प्रथ॒मौ वी॒र्ये॑ण॒ वसू॑न्रु॒द्राना॑दि॒त्यानि॒ह जि॑न्वतम् ।   
 मा॒ध्यँ हि पौ॑र्णमा॒सञ्जु॒षेथा॒म्ब्रह्म॑णा वृ॒द्धौ सु॑कृ॒तेन॑ सा॒तावथा॒स्मभ्यँ॑ स॒हवी॑राँ र॒यिन्नि य॑च्छतम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्नी॑षोमा॒वित्यग्नी॑-सो॒मौ॒ । प्र॒थ॒मौ । वी॒र्ये॑ण । वसून्॑ । रु॒द्रान् । आ॒दि॒त्यान् । इ॒ह । जि॒न्व॒त॒म् ॥ मा॒ध्यम् । हि । पौ॒र्ण॒मा॒समिति॑ पौर्ण-मा॒सम् । जु॒षेथा॑म् । ब्रह्म॑णा । वृ॒द्धौ । सु॒कृ॒तेनेति॑ सु-कृ॒तेन॑ । सा॒तौ । अथ॑ । अ॒स्मभ्य॒मित्य॒स्म-भ्य॒म् । स॒हवी॑रा॒मिति॑ स॒ह-वी॒रा॒म् । र॒यिम् । नीति॑ । य॒च्छ॒त॒म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -169,10 +215,20 @@ ________________
 ते᳓ दर्शपूर्णमासौ᳓ प्रै᳓प्सन् ।     
 </details>
 
+<details><summary>Keith</summary>
+
+The Adityas and the Angirases piled up the fires, they desired to obtain the new and the full moon (offerings);
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्याश्चाङ्गि॑रसश्चा॒ग्नीनाऽद॑धत  ।   
 ते द॑र्शपूर्णमा॒सौ प्रैप्स॑न् ।     
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒दि॒त्याः । च॒ । अङ्गि॑रसः । च॒ । अ॒ग्नीन् । एति॑ । अ॒द॒ध॒त॒ । ते । द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ । प्रेति॑ । ऐ॒प्स॒न् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -183,37 +239,93 @@ ________________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षाम᳓ङ्गिरसान्नि᳓रुप्तँ  हवि᳓रा᳓सीत् ।   
+अ᳓थादित्या᳓ एतौ᳓ हो᳓मावपश्यन्ता᳓वजुहवुः ।   
+</details>
+
+<details><summary>Keith</summary>
+
+the Angirases offered the oblation, then the Adityas saw these two offerings, and offered them;
 </details>
 
 <details><summary>मूलम्</summary>
 
 तेषा॒मङ्गि॑रसा॒न्निरु॑प्तँ  ह॒विरासी॑त् ।   
+अथा॑दि॒त्या ए॒तौ होमा॑वपश्य॒न्ताव॑जुहवुः ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तेषा॑म् । अङ्गि॑रसाम् । निरु॑प्त॒मिति॒ निः-उ॒प्त॒म् । ह॒विः । आसी॑त् । अथ॑ । आ॒दि॒त्याः । ए॒तौ । होमौ॑ । अ॒प॒श्य॒न् । तौ । अ॒जु॒ह॒वुः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तेषां मध्ये अङ्गिरसां निरुप्तमासीद्धविः । अहुत्वैव सारस्वतौ होमौ हविरुप्तवन्तः । दर्शपूर्णमासस्थानीयत्वादेतयोः होमयोर्दर्शपूर्णमासशब्दौ कर्मप्रवचनौ । तत्र दृशिरयं ज्ञानमात्रे वर्तते ।
+तेषां मध्ये अङ्गिरसां निरुप्तमासीद्धविः । अहुत्वैव सारस्वतौ होमौ हविरुप्तवन्तः । दर्शपूर्णमासस्थानीयत्वादेतयोः होमयोर्दर्शपूर्णमासशब्दौ कर्मप्रवचनौ । तत्र दृशिरयं ज्ञानमात्रे वर्तते । अथादृष्टार्थः 'पश्यार्थैश्चानालोचने' इत्यालोचनेन न गृह्यते, अस्ति चेति तु केवलं ज्ञायते ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓थादित्या᳓ एतौ᳓ हो᳓मावपश्यन्ता᳓वजुहवुः ।   
 त᳓तो वै᳓ ते᳓ दर्शपूर्णमासौ᳓  पू᳓र्व आ᳓ऽलभन्त  ।   
-दर्शपूर्णमासा᳓वाल᳓भमान एतौ᳓ हो᳓मौ पुर᳓स्ताज्जुहुयात्   ।   
-साक्षा᳓देव᳓ दर्शपूर्णमासा᳓वा᳓ लभते  ।   
+</details>
+
+<details><summary>Keith</summary>
+
+then they first grasped the new and full moon (offerings) [2].
 </details>
 
 <details><summary>मूलम्</summary>
 
-अथा॑दि॒त्या ए॒तौ होमा॑वपश्य॒न्ताव॑जुहवुः ।   
 ततो॒ वै ते द॑र्शपूर्णमा॒सौ  पूर्व॒ आऽल॑भन्त  ।   
-द॒र्श॒पू॒र्ण॒मा॒सावा॒लभ॑मान ए॒तौ होमौ॑ पु॒रस्ता॑ज्जुहुयात्   ।   
-सा॒क्षादे॒व द॑र्शपूर्णमा॒सावा ल॑भते  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ततः॑ । वै । ते । द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ । पूर्वे॑ । एति॑ । अ॒ल॒भ॒न्त॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अथादृष्टार्थः 'पश्यार्थैश्चानालोचने' इत्यालोचनेन न गृह्यते, अस्ति चेति तु केवलं ज्ञायते । अधिकरणे सन्तन्यते दिनेदिने चाप्यते तं सन्ततमुत्तरार्धमासः आत्मलाभत्वात्तदनुविधायिनोः तदपेक्षे आनुलोम्यप्रतिलोम्ये । विपर्ययलक्षणेत्येके । पूर्णमासो व्याख्यातः ॥
+अधिकरणे सन्तन्यते दिनेदिने चाप्यते तं सन्ततमुत्तरार्धमासः आत्मलाभत्वात्तदनुविधायिनोः तदपेक्षे आनुलोम्यप्रतिलोम्ये । विपर्ययलक्षणेत्येके । पूर्णमासो व्याख्यातः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दर्शपूर्णमासा᳓वाल᳓भमान एतौ᳓ हो᳓मौ पुर᳓स्ताज्जुहुयात्   ।   
+</details>
+
+<details><summary>Keith</summary>
+
+He who is commencing the new and full moon (sacrifices) should first offer these two (offerings);
+</details>
+
+<details><summary>मूलम्</summary>
+
+द॒र्श॒पू॒र्ण॒मा॒सावा॒लभ॑मान ए॒तौ होमौ॑ पु॒रस्ता॑ज्जुहुयात्   ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ । आ॒लभ॑मान॒ इत्या॑-लभ॑मानः । ए॒तौ । होमौ॑ । पु॒रस्ता॑त् । जु॒हु॒या॒त् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साक्षा᳓देव᳓ दर्शपूर्णमासा᳓वा᳓ लभते  ।   
+</details>
+
+<details><summary>Keith</summary>
+
+verily straightway he commences the new and full moon (sacrifices).
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा॒क्षादे॒व द॑र्शपूर्णमा॒सावा ल॑भते  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सा॒क्षादिति॑ स-अ॒क्षात् । ए॒व । द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ । एति॑ । ल॒भ॒ते॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -226,6 +338,12 @@ ________________
 ब्रह्मवादि᳓नो वदन्ति ।  
 
 स᳓ त्वै᳓ दर्शपूर्णमासा᳓वा᳓ लभेत  ।  
+य᳓ एनयोरनुलोम᳓ञ्च प्रतिलोम᳓ञ्च  विद्या᳓दि᳓ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The theologians say, 'He indeed would begin the new and full moon (sacrifices) who should know the normal and reversed order'.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -233,26 +351,17 @@ ________________
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति ।  
 
 स त्वै द॑र्शपूर्णमा॒सावा ल॑भेत  ।  
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-6ब्रह्मवादिन इत्यादि ॥ तुशब्दोनुलोमविदन्येभ्यो व्यावर्तयति अत्रायं यज्ञात्मनः औत्तरस्मादर्धमासात् प्रतिपत्प्तभृति सन्ततं सन्तन्यते दिनेदिने चाप्यते तं सन्ततमुत्तरार्धमासे आगते आलभते न विकरोति । ततस्तं कालेकाले आगते यजते तत्र मध्यात् पूर्वपर्वसन्धौ भूयिष्ठस्योत्तरार्धमासस्य तस्मन्नह्नि यागः कर्तव्यः, अन्यथोत्तरेद्युः ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-य᳓ एनयोरनुलोम᳓ञ्च प्रतिलोम᳓ञ्च  विद्या᳓दि᳓ति ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
 य ए॑नयोरनुलो॒मञ्च॑ प्रतिलो॒मञ्च॑  वि॒द्यादिति॑ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ब्र॒ह्म॒वा॒दिन॒ इति॑ ब्रह्म-वा॒दिनः॑ । व॒द॒न्ति॒ । सः । तु । वै । द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ । एति॑ । ल॒भे॒त॒ । यः । ए॒न॒योः॒ । अ॒नु॒लो॒ममित्य॑नु-लो॒मम् । च॒ । प्र॒ति॒लो॒ममिति॑ प्रति-लो॒मम् । च॒ । वि॒द्यात् । इति॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-एतयोश्चन्द्राधीनात्मलाभत्वात्तदनुविधायनोः तदपेक्षे आनुलोम्यप्रातिलोम्ये ।
+6ब्रह्मवादिन इत्यादि ॥ तुशब्दोनुलोमविदन्येभ्यो व्यावर्तयति अत्रायं यज्ञात्मनः औत्तरस्मादर्धमासात् प्रतिपत्प्तभृति सन्ततं सन्तन्यते दिनेदिने चाप्यते तं सन्ततमुत्तरार्धमासे आगते आलभते न विकरोति । ततस्तं कालेकाले आगते यजते तत्र मध्यात् पूर्वपर्वसन्धौ भूयिष्ठस्योत्तरार्धमासस्य तस्मन्नह्नि यागः कर्तव्यः, अन्यथोत्तरेद्युः । एतयोश्चन्द्राधीनात्मलाभत्वात्तदनुविधायनोः तदपेक्षे आनुलोम्यप्रातिलोम्ये ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -260,9 +369,11 @@ ________________
 अमावास्या᳙या ऊर्ध्व᳓न्त᳓दनुलोम᳓म् ।  
 
 पौर्णमास्यै᳓ प्रतीची᳓नन्त᳓त्प्रतिलोम᳓म् ।  
+</details>
 
-य᳓त्पौर्णमासी᳓म्पू᳓र्वामाल᳓भेत ।  
-प्रतिलोम᳓मेनावा᳓ लभेत ।  
+<details><summary>Keith</summary>
+
+What follows on the new moon is the normal, what is after the full moon is the reversed order;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -270,14 +381,43 @@ ________________
 अ॒मा॒वा॒स्या॑या ऊ॒र्ध्वन्तद॑नुलो॒मम् ।  
 
 पौ॒र्ण॒मा॒स्यै प्र॑ती॒चीन॒न्तत्प्र॑तिलो॒मम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒मा॒वा॒स्या॑या॒ इत्य॑मा-वा॒स्या॑याः । ऊ॒र्ध्वम् । तत् । अ॒नु॒लो॒ममित्य॑नु-लो॒मम् । पौ॒र्ण॒मा॒स्या इति॑ पौर्ण-मा॒स्यै । प्र॒ती॒चीन॑म् । तत् । प्र॒ति॒लो॒ममिति॑ प्रति-लो॒मम् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तत्रामावास्यायाः परस्तादूर्ध्वं उपर्युपर्युपचीयमानस्वस्वरूपं चन्द्रस्यावस्थानं यज्ञस्य तु विपरीतं तत्प्रतिलोमं भवती,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓त्पौर्णमासी᳓म्पू᳓र्वामाल᳓भेत ।  
+प्रतिलोम᳓मेनावा᳓ लभेत ।  
+</details>
+
+<details><summary>Keith</summary>
+
+if he were to begin the full moon (offering) first, he would offer these two (libations) in reverse order;
+</details>
+
+<details><summary>मूलम्</summary>
 
 यत्पौ॑र्णमा॒सीम्पूर्वा॑मा॒लभे॑त ।  
 प्र॒ति॒लो॒ममे॑ना॒वा ल॑भेत ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । पौ॒र्ण॒मा॒सीमिति॑ पौर्ण-मा॒सीम् । पूर्वा॑म् । आ॒लभे॒तेत्या॑-लभे॑त । प्र॒ति॒लो॒ममिति॑ प्रति-लो॒मम् । ए॒नौ॒ । एति॑ । ल॒भे॒त॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तत्रामावास्यायाः परस्तादूर्ध्वं उपर्युपर्युपचीयमानस्वस्वरूपं चन्द्रस्यावस्थानं यज्ञस्य तु विपरीतं तत्प्रतिलोमं भवती, ततश्च यदि पौर्णमासीं पूर्वामालभेत प्रतिलोममेनावालभेत प्राप्नुयात् तदानीं हि चन्द्रोपचीयते यज्ञ उपचीयते इति प्रतिलोमत्वम् ।
+ततश्च यदि पौर्णमासीं पूर्वामालभेत प्रतिलोममेनावालभेत प्राप्नुयात् तदानीं हि चन्द्रोपचीयते यज्ञ उपचीयते इति प्रतिलोमत्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -285,9 +425,19 @@ ________________
 अमु᳓मपक्षी᳓यमाणम᳓न्व᳓प क्षीयेत ।  
 </details>
 
+<details><summary>Keith</summary>
+
+he would waste away as the moon waned [3];
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒मुम॑प॒क्षीय॑माण॒मन्वप॑ क्षीयेत ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒मुम् । अ॒प॒क्षीय॑माण॒मित्य॑प-क्षीय॑माणम् । अनु॑ । अपेति॑ । क्षी॒ये॒त॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -306,26 +456,89 @@ ________________
 सारस्वतौ᳓ हो᳓मौ पुर᳓स्ताज्जुहुयात् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+he should offer these libations to Sarasvant and Sarasvati in front;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सा॒र॒स्व॒तौ होमौ॑ पु॒रस्ता॑ज्जुहुयात् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सा॒र॒स्व॒तौ । होमौ॑ । पु॒रस्ता॑त् । जु॒हु॒या॒त् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अमावास्या᳙ वै᳓ स᳓रस्वत्यनुलोम᳓मेवै᳓नावा᳓ लभते ।   
-अमु᳓माप्या᳓यमानम᳓न्वा᳓प्यायते ।   
+अमावास्या᳙ वै᳓ स᳓रस्वती ।   
+</details>
+
+<details><summary>Keith</summary>
+
+Sarasvati is the new moon;
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒मा॒वा॒स्या॑ वै सर॑स्वत्यनुलो॒ममे॒वैना॒वा ल॑भते ।   
-अ॒मुमा॒प्याय॑मान॒मन्वाप्या॑यते ।   
+अ॒मा॒वा॒स्या॑ वै सर॑स्वती ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒मा॒वा॒स्येत्य॑मा-वा॒स्या॑ । वै । सर॑स्वती ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अमावास्या अमावास्यास्थानीया । सरस्वत्याः प्रथमयागात्पौर्णमास्युपक्रमदोषाप्रसंगः ॥
+अमावास्या अमावास्यास्थानीया ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुलोम᳓मेवै᳓नावा᳓ लभते ।   
+</details>
+
+<details><summary>Keith</summary>
+
+verily he commences them in normal order;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒नु॒लो॒ममे॒वैना॒वा ल॑भते ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒नु॒लो॒ममित्य॑नु-लो॒मम् । ए॒व । ए॒नौ॒ । एति॑ । ल॒भ॒ते॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सरस्वत्याः प्रथमयागात्पौर्णमास्युपक्रमदोषाप्रसंगः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अमु᳓माप्या᳓यमानम᳓न्वा᳓प्यायते ।   
+</details>
+
+<details><summary>Keith</summary>
+
+he waxes as the moon waxes.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒मुमा॒प्याय॑मान॒मन्वाप्या॑यते ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒मुम् । आ॒प्याय॑मान॒मित्या॑-प्याय॑मानम् । अनु॑ । एति॑ । प्या॒य॒ते॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -337,41 +550,185 @@ ________________
 
 आग्नावैष्णव᳓मे᳓कादशकपालम् पुर᳓स्तान्नि᳓र्वपेत् ।   
 स᳓रस्वत्यै चरुँ᳓ स᳓रस्वते द्वा᳓दशकपालम् ।  
+</details>
 
-य᳓दाग्नेयो᳓ भ᳓वति  ।  
-अग्नि᳓र्वै᳓ यज्ञमुखय्ँ᳓यज्ञमुख᳓मेव᳓र्द्धिम्पुर᳓स्ताद्धत्ते ।  
+<details><summary>Keith</summary>
 
-य᳓द्वैष्णवो᳓ भ᳓वति ।   
-यज्ञो᳓ वै᳓ वि᳓ष्णुर्यज्ञ᳓मेवा᳓र᳓भ्य प्र᳓ तनुते ।  
-स᳓रस्वत्यै चरु᳓र्भवति ।  
-स᳓रस्वते द्वा᳓दशकपालः ।  
-अमावास्या᳙ वै᳓ स᳓रस्वती , पूर्ण᳓मासस्स᳓रस्वान् , ता᳓वेव᳓ साक्षा᳓दा᳓ रभते ।   
-ऋध्नो᳓त्याभ्याम्  ।  
-द्वा᳓दशकपालस्स᳓रस्वते भवति मिथुनत्वा᳓य प्र᳓जात्यै
-मिथुनौ᳓ गा᳓वौ द᳓क्षिणा स᳓मृद्ध्यै ॥ [4]
+He should offer first on eleven potsherds to Agni and Visnu, to Sarasvati an oblation, to Sarasvant on twelve potsherds.
 </details>
 
 <details><summary>मूलम्</summary>
 
 आ॒ग्ना॒वै॒ष्ण॒वमेका॑दशकपालम् पु॒रस्ता॒न्निर्व॑पेत् ।   
 सर॑स्वत्यै च॒रुँ सर॑स्वते॒ द्वाद॑शकपालम् ।  
+</details>
 
-यदा॑ग्ने॒यो भव॑ति  ।  
-अ॒ग्निर्वै य॑ज्ञमु॒खय्ँय॑ज्ञमु॒खमे॒वर्द्धि॑म्पु॒रस्ता॑द्धत्ते ।  
+<details><summary>पद-पाठः</summary>
 
-यद्वै॑ष्ण॒वो भव॑ति ।   
-य॒ज्ञो वै विष्णु॑र्य॒ज्ञमे॒वारभ्य॒ प्र त॑नुते ।  
-सर॑स्वत्यै च॒रुर्भ॑वति ।  
-सर॑स्वते॒ द्वाद॑शकपालः ।  
-अ॒मा॒वा॒स्या॑ वै सर॑स्वती , पू॒र्णमा॑स॒स्सर॑स्वा॒न् , तावे॒व सा॒क्षादा र॑भते ।   
-ऋ॒ध्नोत्या॑भ्याम्  ।  
-द्वाद॑शकपाल॒स्सर॑स्वते भवति मिथुन॒त्वाय॒ प्रजा॑त्यै
-मिथु॒नौ गावौ॒ दक्षि॑णा॒ समृ॑द्ध्यै ॥ [4]
+आ॒ग्ना॒वै॒ष्ण॒वमित्या॑ग्ना-वै॒ष्ण॒वम् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । पु॒रस्ता॑त् । निरिति॑ । व॒पे॒त् । सर॑स्वत्यै । च॒रुम् । सर॑स्वते । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-7आग्नावैष्णवमित्यादि ॥ साक्षादारभते इति । अन्वारम्भणीयेयमिति त्रीण्येतानिहवींषि । मिथुनौ गावौ स्त्रीपुंसौ । गतमन्यत् ॥
+7आग्नावैष्णवमित्यादि ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓दाग्नेयो᳓ भ᳓वति  ।  
+अग्नि᳓र्वै᳓ यज्ञमुखय्ँ᳓यज्ञमुख᳓मेव᳓र्द्धिम्पुर᳓स्ताद्धत्ते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+In that it is (offered) to Agni, and the mouth of the sacrifice is Agni, verily he places in front prosperity and the mouth of the sacrifice;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदा॑ग्ने॒यो भव॑ति  ।  
+अ॒ग्निर्वै य॑ज्ञमु॒खय्ँय॑ज्ञमु॒खमे॒वर्द्धि॑म्पु॒रस्ता॑द्धत्ते ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । आ॒ग्ने॒यः । भव॑ति । अ॒ग्निः । वै । य॒ज्ञ॒मु॒खमिति॑ यज्ञ-मु॒खम् । य॒ज्ञ॒मु॒खमिति॑ यज्ञ-मु॒खम् । ए॒व । ऋद्धि॑म् । पु॒रस्ता॑त् । ध॒त्ते॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓द्वैष्णवो᳓ भ᳓वति ।   
+यज्ञो᳓ वै᳓ वि᳓ष्णुर्यज्ञ᳓मेवा᳓र᳓भ्य प्र᳓ तनुते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+in that it is (offered) to Visnu, and Visnu is the sacrifice, verily commencing the sacrifice he continues it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्वै॑ष्ण॒वो भव॑ति ।   
+य॒ज्ञो वै विष्णु॑र्य॒ज्ञमे॒वारभ्य॒ प्र त॑नुते ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । वै॒ष्ण॒वः । भव॑ति । य॒ज्ञः । वै । विष्णुः॑ । य॒ज्ञम् । ए॒व । आ॒रभ्येत्या॑-रभ्य॑ । प्रेति॑ । त॒नु॒ते॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स᳓रस्वत्यै चरु᳓र्भवति ।  
+स᳓रस्वते द्वा᳓दशकपालः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+There is an oblation for Sarasvati, and (an offering) on twelve potsherds for Sarasvant;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर॑स्वत्यै च॒रुर्भ॑वति ।  
+सर॑स्वते॒ द्वाद॑शकपालः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सर॑स्वत्यै । च॒रुः । भ॒व॒ति॒ । सर॑स्वते । द्वाद॑शकपाल॒ इति॒ द्वाद॑श-क॒पा॒लः॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अमावास्या᳙ वै᳓ स᳓रस्वती , पूर्ण᳓मासस्स᳓रस्वान् ।   
+</details>
+
+<details><summary>Keith</summary>
+
+Sarasvati is the new moon, Sarasvant is the full moon;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒मा॒वा॒स्या॑ वै सर॑स्वती , पू॒र्णमा॑स॒स्सर॑स्वान् ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒मा॒वा॒स्येत्य॑मा-वा॒स्या॑ । वै । सर॑स्वती । पू॒र्णमा॑स॒ इति॑ पू॒र्ण-मा॒सः॒ । सर॑स्वान् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता᳓वेव᳓ साक्षा᳓दा᳓ रभते ।   
+ऋध्नो᳓त्याभ्याम्  ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily straightway he commences these (offerings), he prospers by them.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तावे॒व सा॒क्षादा र॑भते ।   
+ऋ॒ध्नोत्या॑भ्याम्  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तौ । ए॒व । सा॒क्षादिति॑ स-अ॒क्षात् । एति॑ । र॒भ॒ते॒ । ऋ॒ध्नोति॑ । आ॒भ्या॒म् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+साक्षादारभते इति । अन्वारम्भणीयेयमिति त्रीण्येतानिहवींषि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वा᳓दशकपालस्स᳓रस्वते भवति मिथुनत्वा᳓य प्र᳓जात्यै ।  
+</details>
+
+<details><summary>Keith</summary>
+
+That to Sarasvant is on twelve potsherds, for pairing, for generation.
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्वाद॑शकपाल॒स्सर॑स्वते भवति मिथुन॒त्वाय॒ प्रजा॑त्यै ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्वाद॑शकपाल॒ इति॒ द्वाद॑श-क॒पा॒लः॒ । सर॑स्वते । भ॒व॒ति॒ । मि॒थु॒न॒त्वायेति॑ मिथुन-त्वाय॑ । प्रजा॑त्या॒ इति॒ प्र-जा॒त्यै॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मिथुनौ᳓ गा᳓वौ द᳓क्षिणा स᳓मृद्ध्यै ॥ [4]
+</details>
+
+<details><summary>Keith</summary>
+
+The sacrificial fee is a pair of kine, for prosperity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मिथु॒नौ गावौ॒ दक्षि॑णा॒ समृ॑द्ध्यै ॥ [4]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मि॒थु॒नौ । गावौ॑ । दक्षि॑णा । समृ॑द्ध्या॒ इति॒ सम्-ऋ॒द्ध्यै॒ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+मिथुनौ गावौ स्त्रीपुंसौ । गतमन्यत् ॥
 
 इति तृतीये पञ्चमे प्रथमोनुवाकः ॥  
 </details>

@@ -351,6 +351,7 @@ he makes rich in fresh grass and in water his own birthplace.
 </details>
 
 <details><summary>सायण-टीका</summary>
+
 वेदेर्हविर्धारणेन यजमानस्थानत्वम्। एतच्च स्थानं बर्हिषाऽऽ-स्तीर्णत्वात्समीचीनतृणोपेतं प्रणीतानामत्र स्थापितत्वादुदकोपेतं च।  
 
 विधत्ते-  

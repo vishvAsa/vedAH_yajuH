@@ -34,6 +34,13 @@ title = "११ याज्यापुरोनुवाक्याः"
 
 </div>
 
+<details><summary>Keith</summary>
+
+This oblation is dear in your mouth,  
+O Indra and Brhaspati,  
+The hymn and acclamation is recited.
+</details>
+
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/049/01_idaM_vAmAsye.md">
 
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>
@@ -288,16 +295,6 @@ Hier steht der liebe Opfertrank vor euch, Indra-Brihaspati, Verkündet wird euch
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/049/01_idaM_vAmAsye.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-इ॒दं वा॑मा॒स्ये॑ ह॒विः प्रि॒यमि॑न्द्राबृहस्पती ।  
-उ॒क्थं मद॑श्च शस्यते ॥
-</details>
-
-</div>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अथ तत्रैव पुरोनुवाक्या विकल्प्यते - अयं वामिति गायत्री ॥ 
@@ -314,6 +311,13 @@ Hier steht der liebe Opfertrank vor euch, Indra-Brihaspati, Verkündet wird euch
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+This Soma is poured for you,  
+O Indra and Brhaspati,  
+Dear for delight, for drinking.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/049/02_ayaM_vAM.md">
 
@@ -552,16 +556,6 @@ Euch wird, Indra-Brihaspati, ergossen dieser Somasaft, Der schön zum Trunk und 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/049/02_ayaM_vAM.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-अ॒यं वां॒ परि॑ षिच्यते॒ सोम॑ इन्द्राबृहस्पती ।  
-चारु॒र्मदा॑य पी॒तये॑ ॥
-</details>
-
-</div>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3पुनश्च विकल्पः - अस्मे इति गायत्री ॥ 
@@ -578,6 +572,13 @@ Euch wird, Indra-Brihaspati, ergossen dieser Somasaft, Der schön zum Trunk und 
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+To us, O Indra and Brhaspati,  
+Grant wealth of a hundred kine,  
+Of horses a thousandfold.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/049/04_asme_indrAbRhaspatI.md">
 
@@ -797,16 +798,6 @@ O gebt, Indra-Brihaspati, den Reichthum uns, der hundertfach, An Rossen reich is
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/049/04_asme_indrAbRhaspatI.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-अ॒स्मे इ॑न्द्राबृहस्पती र॒यिं ध॑त्तं शत॒ग्विन॑म् ।  
-अश्वा॑वन्तं सह॒स्रिण॑म् ॥
-</details>
-
-</div>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ याज्या - बृहस्पतिर्न इति त्रिष्टुप् ॥ 
@@ -823,6 +814,14 @@ O gebt, Indra-Brihaspati, den Reichthum uns, der hundertfach, An Rossen reich is
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+From behind may Brhaspati guard us,  
+From above, from below, from the plotter of evil;  
+May Indra from the front, from the middle,  
+Friend to friend, grant us wide room.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/042/11_bRhaspatirnaH_pari.md">
 
@@ -1130,16 +1129,6 @@ Brihaspati beschütze uns von Westen von Norden und von Süden vor dem Frevler, 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/042/11_bRhaspatirnaH_pari.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-बृह॒स्पति॑र्नः॒ परि॑ पातु प॒श्चादु॒तोत्त॑रस्मा॒दध॑रादघा॒योः ।  
-इन्द्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरि॑वः कृणोतु ॥
-</details>
-
-</div>
-
   
 
 ## अग्निः
@@ -1161,6 +1150,14 @@ Brihaspati beschütze uns von Westen von Norden und von Süden vor dem Frevler, 
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Sped by the winds on all sides, O Agni,  
+Thy flames [1], O pure one, pure are diffused  
+Mightily destroying, the divine ones, the Navagvas  
+Assail the forests, rudely crushing (them).
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/006/03_vi_te.md">
 
@@ -1503,16 +1500,6 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/006/03_vi_te.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-वि ते॒ विष्व॒ग्वात॑जूतासो अग्ने॒ भामा॑सः शुचे॒ शुच॑यश्चरन्ति ।  
-तु॒वि॒म्र॒क्षासो॑ दि॒व्या नव॑ग्वा॒ वना॑ वनन्ति धृष॒ता रु॒जन्तः॑ ॥
-</details>
-
-</div>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथ याज्या - त्वामग्ने मानुषीरिति त्रिष्टुप् ॥ 
@@ -1591,11 +1578,23 @@ Of impetuous spirit, a good sacrificer, brilliant with ghee.
 सीमन्तोन्नयने होममन्त्राः - धाता ददात्विति ॥ 
 </details>
 
+<details><summary>Keith</summary>
+
+May Dhatr give us wealth,  
+The lord the ruler of the world,  
+May he favour us with a full (gift).
+</details>
+
 <details><summary>मूलम्</summary>
 
 धा॒ता द॑दातु नो र॒यिम्  
 ईशा॑नो॒ जग॑त॒स्पतिः॑ ।  
 स नः॑ पू॒र्णेन॑ वावनत् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धा॒ता । द॒दा॒तु॒ । नः॒ । र॒यिम् । ईशा॑नः । जग॑तः । पतिः॑ ॥ सः । नः॒ । पू॒र्णेन॑ । वा॒व॒न॒त्॒ ॥
 </details>
 
 <details><summary>हरदत्तः</summary>
@@ -1632,12 +1631,25 @@ Of impetuous spirit, a good sacrificer, brilliant with ghee.
 <div class="js_include collapsed" newlevelforh1="3" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_11/02_dhAtA_prajAyA.md">
 
 <details><summary><h3>सर्वाष्टीकाः …{Loading}…</h3></summary>
+<details><summary>Keith</summary>
+
+Dhatr is lord of offspring and of wealth,  
+Dhatr created all this world.  
+Dhatr giveth a son to the sacrificer [2]  
+To him let us offer the oblation rich in ghee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धा॒ता प्र॒जाया॑ उ॒त रा॒य ई॑शे    
 धा॒तेदं विश्व॒म्भुव॑नं जजान ।   
 धा॒ता पु॒त्रं यज॑मानाय॒ दाता॑  
 तस्मा॑ उ ह॒व्यं घृ॒तव॑द्विधेम ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धा॒ता । प्र॒जाया॒ इति॑ प्र-जायाः॑ । उ॒त । रा॒यः । ई॒शे॒ । धा॒ता । इ॒दम् । विश्व॑म् । भुव॑नम् । ज॒जा॒न॒ ॥ धा॒ता । पु॒त्रम् । यज॑मानाय । दाता॑ । तस्मै॑ । उ॒ । ह॒व्यम् । घृ॒तव॒दिति॑ घृ॒त-व॒त्॒ । वि॒धे॒म॒ ॥
 </details>
 
 <details><summary>हरदत्तः</summary>
@@ -1674,12 +1686,26 @@ Of impetuous spirit, a good sacrificer, brilliant with ghee.
 <div class="js_include collapsed" newlevelforh1="3" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_11/03_dhAtA_dadAtu.md">
 
 <details><summary><h3>सर्वाष्टीकाः …{Loading}…</h3></summary>
+<details><summary>Keith</summary>
+
+may Dhatr give us wealth,
+  
+Life in days to come and unfailing;  
+May we obtain the favour  
+Of the god whose gifts are true.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धा॒ता द॑दातु नो र॒यिम्  
 प्राचीं॑ जी॒वातु॒मक्षि॑ताम् ।  
 व॒यं दे॒वस्य॑ धीमहि  
 सुम॒तिँ स॒त्य-रा॑धसः।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धा॒ता । द॒दा॒तु॒ । नः॒ । र॒यिम् । प्राची॑म् । जी॒वातु॑म् । अक्षि॑ताम् ॥ व॒यम् । दे॒वस्य॑ । धी॒म॒हि॒ । सु॒म॒तिमिति॑ सु-म॒तिम् । स॒त्यरा॑धस॒ इति॑ स॒त्य-रा॒ध॒सः॒ ॥
 </details>
 
 <details><summary>हरदत्तः</summary>
@@ -1716,12 +1742,25 @@ Of impetuous spirit, a good sacrificer, brilliant with ghee.
 <div class="js_include collapsed" newlevelforh1="3" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_11/04_dhAtA_dadAtu.md">
 
 <details><summary><h3>सर्वाष्टीकाः …{Loading}…</h3></summary>
+<details><summary>Keith</summary>
+
+May Dhatr give wealth to the giver,  
+Desiring offspring, generous in his home;  
+Let all the immortal gods roll themselves up for him,  
+The All-gods and Aditi in unison.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धा॒ता द॑दातु दा॒शुषे॒ वसू॑नि  
 प्र॒जाका॑माय मी॒ढुषे॑ दुरो॒णे ।  
 तस्मै॑ दे॒वा अ॒मृताः॒ सं व्य॑यन्तां॒   
 विश्वे॑ दे॒वासो॒ अदि॑तिः स॒जोषाः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धा॒ता । द॒दा॒तु॒ । दा॒शुषे॑ । वसू॑नि । प्र॒जाका॑मा॒येति॑ प्र॒जा-का॒मा॒य॒ । मी॒ढुषे॑ । दु॒रो॒ण इति॑ दुः-ओ॒ने ॥ तस्मै॑ । दे॒वाः । अ॒मृताः॑ । समिति॑ । व्य॒य॒न्ता॒म्॒ । विश्वे॑ । दे॒वासः॑ । अदि॑तिः । स॒जोषा॒ इति॑ स-जोषाः॑ ॥
 </details>
 
 <details><summary>हरदत्तः</summary>
@@ -1958,6 +1997,14 @@ The goddess, easy to invoke, grant us protection [4].
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Raka, easy to invoke, I invoke with fair praise;  
+May the fortunate one hear us and be aware of us  
+With needle that breaks not may she sew her task;  
+May she give a hero, whose wergild is a hundred, worthy of song.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/032/04_rAkAmahaM_suhavAM.md">
 
@@ -2312,16 +2359,6 @@ Die gern erhört, die Rākā ruf' ich mit Gesang, es höre uns die reiche und be
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/032/04_rAkAmahaM_suhavAM.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-रा॒काम॒हं सु॒हवां॑ सुष्टु॒ती हु॑वे शृ॒णोतु॑ नः सु॒भगा॒ बोध॑तु॒ त्मना॑ ।  
-सीव्य॒त्वपः॑ सू॒च्याच्छि॑द्यमानया॒ ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्य॑म् ॥
-</details>
-
-</div>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16याज्या - यास्ते इति जगती ॥ 
@@ -2339,6 +2376,14 @@ Die gern erhört, die Rākā ruf' ich mit Gesang, es höre uns die reiche und be
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+The fair thoughts of thine, O Raka,  
+Whereby thou art wont to give wealth to the giver,  
+With them to-day come to us in kindliness,  
+Granting, O fortunate one, a thousandfold prosperity.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/032/05_yAste_rAke.md">
 
@@ -2664,16 +2709,6 @@ Mit reichen Gaben, die dir, Rākā, eigen sind, durch die du Güter dem Verehren
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/032/05_yAste_rAke.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-यास्ते॑ राके सुम॒तयः॑ सु॒पेश॑सो॒ याभि॒र्ददा॑सि दा॒शुषे॒ वसू॑नि ।  
-ताभि॑र्नो अ॒द्य सु॒मना॑ उ॒पाग॑हि सहस्रपो॒षं सु॑भगे॒ ररा॑णा ॥
-</details>
-
-</div>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17सिनीवाल्याः पुरोनुवाक्या याज्या च - सिनीवालि या सुपाणिरित्युभे अनुष्टुभौ प्रतीकग्रहणं चेदम् ॥ 
@@ -2696,6 +2731,11 @@ Mit reichen Gaben, die dir, Rākā, eigen sind, durch die du Güter dem Verehren
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+O Sinivali,
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/032/06_sinIvAli_pRthuShTuke.md">
 
@@ -2982,24 +3022,24 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/032/06_sinIvAli_pRthuShTuke.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-सिनी॑वालि॒ पृथु॑ष्टुके॒ या दे॒वाना॒मसि॒ स्वसा॑ ।  
-जु॒षस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि दिदिड्ढि नः ॥
-</details>
-
-</div>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 सि᳓नीवालि या᳓ सुपाणिः᳓ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The fairhanded.
 </details>
 
 <details><summary>मूलम्</summary>
 
 सिनी॑वालि॒ या सु॑पा॒णिः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सिनी॑वालि । या । सु॒पा॒णिरिति॑ सु-पा॒णिः । स्व॒ङ्गुरिरिति॑ सु-अ॒ङ्गु॒रिः । सु॒षूमेति॑ सु-सूमा॑ । ब॒हु॒सूव॒रीति॑ बहु-सूव॑री ॥ तस्यै॑ । वि॒श्पत्नि॑यै । ह॒विः । सि॒नी॒वा॒ल्यै । जु॒हो॒त॒न॒ ॥
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>

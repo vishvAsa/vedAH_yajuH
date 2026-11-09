@@ -1058,6 +1058,7 @@ He smooths it with his hand, for the protection of the sacrificer.
 </details>
 
 <details><summary>मूलम्</summary>
+
 हस्ते॑न योयुप्यते ।  
 
 यज॑मानस्य गोपी॒थाय॑ ।
