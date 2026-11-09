@@ -16,6 +16,11 @@ title = "नमस् सदसे"
 न᳓मᳶ पृथिव्यै᳓॥
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the friends who go before, homage to sky, homage to earth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॒स्सद॑से  
@@ -23,6 +28,11 @@ title = "नमस् सदसे"
 नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे    
 नमो॑ दि॒वे   
 नमᳶ॑ पृथि॒व्यै
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । सद॑से । नमः॑ । सद॑सः । पत॑ये । नमः॑ । सखी॑नाम् । पु॒रो॒गाणा॒मिति॑ पुरः-गाना॑म् । चक्षु॑षे । नमः॑ । दि॒वे । नमः॑ । पृ॒थि॒व्यै ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

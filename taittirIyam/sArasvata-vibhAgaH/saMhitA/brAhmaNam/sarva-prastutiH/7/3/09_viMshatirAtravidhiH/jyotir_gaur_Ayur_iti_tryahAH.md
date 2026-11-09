@@ -17,6 +17,11 @@ There are Tryahas consisting of Jyotis, Go, and Ayus.
 ज्योति॒र्गौरायु॒रिति॑ त्र्य॒हा भ॑वन्ति ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ज्योतिः॑ । गौः । आयुः॑ । इति॑ । त्र्य॒हा इति॑ त्रि-अ॒हाः । भ॒व॒न्ति॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वा᳓व᳓ ज्यो᳓तिर्, अन्त᳓रिक्षङ् गौ᳓र्, असा᳓व् आ᳓युः।
@@ -24,12 +29,17 @@ There are Tryahas consisting of Jyotis, Go, and Ayus.
 
 <details><summary>Keith</summary>
 
-The Jyotis is this (earth), the Go the atmosphere, the Ayus yonder (sky); verily they mount upon these worlds.
+The Jyotis is this (earth), the Go the atmosphere, the Ayus yonder (sky);
 </details>
 
 <details><summary>मूलम्</summary>
 
 इ॒यव्ँ वाव ज्योति॑र॒न्तरि॑क्ष॒ङ्गौर॒सावायुः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒यम् । वाव । ज्योतिः॑ । अ॒न्तरि॑क्षम् । गौः । अ॒सौ । आयुः॑ ।
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>

@@ -18,7 +18,7 @@ This is your king, O Bharatas;
 
 <details><summary>पद-पाठः</summary>
 
-3D । ए॒षः । वः॒ । भ॒र॒ताः॒ । राजा॑ ।
+ए॒षः । वः॒ । भ॒र॒ताः॒ । राजा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

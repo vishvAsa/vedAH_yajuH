@@ -32,9 +32,19 @@ title = "अ॒यम्पु॒रो हरि॑केशः"
 अय᳓म् पुरो᳓ ह᳓रि-केशस् सू᳓र्य-रश्मिः ।
 </details>
 
+<details><summary>Keith</summary>
+
+This in the front, with tawny hair, with the sun's rays;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यम्पु॒रो हरि॑केश॒स्सूर्य॑रश्मिः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । पु॒रः । हरि॑केश॒ इति॒ हरि॑-के॒शः॒ । सूर्य॑रश्मि॒रिति॒ सूर्य॑-र॒श्मिः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -47,9 +57,19 @@ title = "अ॒यम्पु॒रो हरि॑केशः"
 त᳓स्य रथगृत्स᳓श् च र᳓थौजाश्च सेनानिग्रामण्यौ᳙ ।
 </details>
 
+<details><summary>Keith</summary>
+
+the leaders of his host and bands are Rathagrtsa and Rathaujas,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य॑ रथगृ॒त्सश्च॒ रथौ॑जाश्च सेनानिग्राम॒ण्यौ॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्य॑ । र॒थ॒गृ॒त्स इति॑ रथ-गृ॒त्सः । च॒ । रथौ॑जा॒ इति॒ रथ॑-ओ॒जाः॒ । च॒ । से॒ना॒नि॒ग्रा॒म॒ण्या॑विति॑ सेनानि-ग्रा॒म॒ण्यौ॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -71,9 +91,19 @@ title = "अ॒यम्पु॒रो हरि॑केशः"
 पुञ्जिकस्थला᳓ च कृतस्थला᳓ चाप्सर᳓सौ ।
 </details>
 
+<details><summary>Keith</summary>
+
+and Puñjikasthala and Krtasthala his Apsarases,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒ञ्जि॒क॒स्थ॒ला च॑ कृतस्थ॒ला चा॑प्स॒रसौ॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पु॒ञ्जि॒क॒स्थ॒लेति॑ पुञ्जिक-स्थ॒ला । च॒ । कृ॒त॒स्थ॒लेति॑ कृत-स्थ॒ला । च॒ । अ॒प्स॒रसौ॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -90,9 +120,19 @@ title = "अ॒यम्पु॒रो हरि॑केशः"
 ते᳓ य᳓न्द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि, तव्ँ᳓ वो ज᳓म्भे दधामि]
 </details>
 
+<details><summary>Keith</summary>
+
+his missile wizards, his weapon the Raksases.
+</details>
+
 <details><summary>मूलम्</summary>
 
 या॒तु॒धाना॑ हे॒ती रक्षाँ॑सि॒ प्रहे॑तिः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+या॒तु॒धाना॒ इति॑ यातु-धानाः॑ । हे॒तिः । रक्षाँ॑सि । प्रहे॑ति॒रिति॒ प्र-हे॒तिः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -108,9 +148,19 @@ title = "अ॒यम्पु॒रो हरि॑केशः"
 अय᳓न् दक्षिणा᳓ विश्व᳓कर्मा   ।
 </details>
 
+<details><summary>Keith</summary>
+
+This on the right, all worker;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यन्द॑क्षि॒णा वि॒श्वक॑र्मा   ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । द॒क्षि॒णा । वि॒श्वक॒र्मेति॑ वि॒श्व-क॒र्मा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -124,10 +174,20 @@ title = "अ॒यम्पु॒रो हरि॑केशः"
 मेनका᳓ च सहजन्या᳓ चाप्सर᳓सौ ।
 </details>
 
+<details><summary>Keith</summary>
+
+the leaders of his host and bands are Rathasvana and Rathecitra, and Menaka and Sahajanya his Apsarases,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य॑ रथस्व॒नश्च॒ रथे॑चित्रश्च सेनानिग्राम॒ण्यौ॑   ।
 मे॒न॒का च॑ सहज॒न्या चा॑प्स॒रसौ॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्य॑ । र॒थ॒स्व॒न इति॑ रथ-स्व॒नः । च॒ । रथे॑चित्र॒ इति॒ रथे॑-चि॒त्रः॒ । च॒ । से॒ना॒नि॒ग्रा॒म॒ण्या॑विति॑ सेनानि-ग्रा॒म॒ण्यौ॑ । मे॒न॒का । च॒ । स॒ह॒ज॒न्येति॑ सह-ज॒न्या । च॒ । अ॒प्स॒रसौ॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -142,9 +202,19 @@ title = "अ॒यम्पु॒रो हरि॑केशः"
 ते᳓ य᳓न् द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि, तव्ँ᳓ वो ज᳓म्भे दधामि]
 </details>
 
+<details><summary>Keith</summary>
+
+his missile biting beasts, his weapon the death of men.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द॒ङ्क्ष्णवᳶ॑ प॒शवो॑ हे॒तिᳶ पौरु॑षेयो व॒धᳶ प्रहे॑तिः+++( तेभ्यो॒ नम॒स् , ते नो॑ मृडयन्तु॒ ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ , तव्ँवो॒ जम्भे॑ दधामि )+++  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द॒ङ्क्ष्णवः॑ । प॒शवः॑ । हे॒तिः । पौरु॑षेयः । व॒धः । प्रहे॑ति॒रिति॒ प्र-हे॒तिः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -155,19 +225,21 @@ title = "अ॒यम्पु॒रो हरि॑केशः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अय᳓म् पश्चा᳓द् विश्व᳓व्यचाः   ।   
-त᳓स्य र᳓थप्रोतश् चा᳓समरथश्च सेनानिग्रामण्यौ᳙    ।   
-प्रम्लो᳓चन्ती चानुम्लो᳓चन्ती चाप्सर᳓सौ    
-सर्पा᳓ हेति᳓र्, व्याघ्राᳶ᳓ प्र᳓हेतिः।   
-[ते᳓भ्यो न᳓मस्, ते᳓ नो मृडयन्तु।  
-ते᳓ य᳓न् द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि, तव्ँ᳓ वो ज᳓म्भे दधामि]
+</details>
+
+<details><summary>Keith</summary>
+
+This behind, all extending;
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒यम्प॒श्चाद्वि॒श्वव्य॑चाः   ।   
-तस्य॒ रथ॑प्रोत॒श्चास॑मरथश्च सेनानिग्राम॒ण्यौ॑    ।   
-प्र॒म्लोच॑न्ती चा॒नु॒म्लोच॑न्ती चाप्स॒रसौ॑    
-स॒र्पा हे॒तिर्व्या॒घ्राᳶ प्रहे॑तिः +++(तेभ्यो॒ नम॒स् , ते नो॑ मृडयन्तु॒  ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ , तव्ँवो॒ जम्भे॑ दधामि )+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । प॒श्चात् । वि॒श्वव्य॑चा॒ इति॑ वि॒श्व-व्य॒चाः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -177,20 +249,48 @@ title = "अ॒यम्पु॒रो हरि॑केशः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अय᳓म् उत्तरा᳓त् सय्ँय᳓द्-वसुः  ।     
-त᳓स्य सेनजि᳓च्च सुषे᳓णश्च सेनानिग्रामण्यौ᳙    ।   
-विश्वा᳓ची च घृता᳓ची चाप्सर᳓सौ ।   
-आ᳓पो हेति᳓र्, वा᳓तᳶ प्र᳓हेतिः ।   
+त᳓स्य र᳓थप्रोतश् चा᳓समरथश्च सेनानिग्रामण्यौ᳙    ।   
+प्रम्लो᳓चन्ती चानुम्लो᳓चन्ती चाप्सर᳓सौ    
+सर्पा᳓ हेति᳓र्, व्याघ्राᳶ᳓ प्र᳓हेतिः।   
 [ते᳓भ्यो न᳓मस्, ते᳓ नो मृडयन्तु।  
 ते᳓ य᳓न् द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि, तव्ँ᳓ वो ज᳓म्भे दधामि]
+</details>
+
+<details><summary>Keith</summary>
+
+the leaders of his host and bands are Ratheprota and Asamaratha, and Pramlocanti [1] and Anumlocanti his Apsarases, his missile the serpents, his weapon tigers.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्य॒ रथ॑प्रोत॒श्चास॑मरथश्च सेनानिग्राम॒ण्यौ॑    ।   
+प्र॒म्लोच॑न्ती चा॒नु॒म्लोच॑न्ती चाप्स॒रसौ॑    
+स॒र्पा हे॒तिर्व्या॒घ्राᳶ प्रहे॑तिः +++(तेभ्यो॒ नम॒स् , ते नो॑ मृडयन्तु॒  ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ , तव्ँवो॒ जम्भे॑ दधामि )+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्य॑ । रथ॑प्रोत॒ इति॒ रथ॑-प्रो॒तः॒ । च॒ । अस॑मरथ॒ इत्यस॑म-र॒थः॒ । च॒ । से॒ना॒नि॒ग्रा॒म॒ण्या॑विति॑ सेनानि-ग्रा॒म॒ण्यौ॑ । प्र॒म्लोच॒न्तीति॑ प्र-म्लोच॑न्ती । च॒ । अ॒नु॒म्लोच॒न्तीत्य॑नु-म्लोच॑न्ती । च॒ । अ॒प्स॒रसौ॑ । स॒र्पाः । हे॒तिः । व्या॒घ्राः । प्रहे॑ति॒रिति॒ प्र-हे॒तिः॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अय᳓म् उत्तरा᳓त् सय्ँय᳓द्-वसुः  ।     
+</details>
+
+<details><summary>Keith</summary>
+
+This on the left, collecting riches;
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒यमु॑त्त॒रात्सय्ँ॒यद्व॑सुः  ।     
-तस्य॑ सेन॒जिच्च॑ सु॒षेण॑श्च सेनानिग्राम॒ण्यौ॑    ।   
-वि॒श्वाची॑ च घृ॒ताची॑ चाप्स॒रसौ ।   
-आपो॑ हे॒तिर्वात॒ᳶ प्रहे॑तिः +++(तेभ्यो॒ नम॒स् , ते नो॑ मृडयन्तु॒  ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ , तव्ँवो॒ जम्भे॑ दधामि )+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । उ॒त्त॒रादित्यु॑त्-त॒रात् । सय्ँ॒यद्व॑सु॒रिति॑ सय्ँ॒यत्-व॒सुः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -200,23 +300,82 @@ title = "अ॒यम्पु॒रो हरि॑केशः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+त᳓स्य सेनजि᳓च्च सुषे᳓णश्च सेनानिग्रामण्यौ᳙    ।   
+विश्वा᳓ची च घृता᳓ची चाप्सर᳓सौ ।   
+आ᳓पो हेति᳓र्, वा᳓तᳶ प्र᳓हेतिः ।   
+[ते᳓भ्यो न᳓मस्, ते᳓ नो मृडयन्तु।  
+ते᳓ य᳓न् द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि, तव्ँ᳓ वो ज᳓म्भे दधामि]
+</details>
+
+<details><summary>Keith</summary>
+
+the leaders of his host and bands are Senajit and Susena, and Viśvaci and Ghrtaci his Apsarases, his missile the waters, his weapon the wind.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्य॑ सेन॒जिच्च॑ सु॒षेण॑श्च सेनानिग्राम॒ण्यौ॑    ।   
+वि॒श्वाची॑ च घृ॒ताची॑ चाप्स॒रसौ ।   
+आपो॑ हे॒तिर्वात॒ᳶ प्रहे॑तिः +++(तेभ्यो॒ नम॒स् , ते नो॑ मृडयन्तु॒  ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ , तव्ँवो॒ जम्भे॑ दधामि )+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्य॑ । से॒न॒जिदिति॑ सेन-जित् । च॒ । सु॒षेण॒ इति॑ सु-सेनः॑ । च॒ । से॒ना॒नि॒ग्रा॒म॒ण्या॑विति॑ सेनानि-ग्रा॒म॒ण्यौ॑ । वि॒श्वाची॑ । च॒ । घृ॒ताची॑ । च॒ । अ॒प्स॒रसौ॑ । आपः॑ । हे॒तिः । वातः॑ । प्रहे॑ति॒रिति॒ प्र-हे॒तिः॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अय᳓म् उप᳓र्य् अर्वा᳓ग्-वसुः   ।   
-त᳓स्य ता᳓र्क्ष्यश् चा᳓रिष्टनेमिश्च सेनानिग्रामण्यौ᳙    ।   
-उर्व᳓शी च पूर्व᳓-चित्तिश् चाप्सर᳓सौ    ।   
-विद्यु᳓द्+हेति᳓र्, अवस्फू᳓र्जन् प्र᳓हेतिः ।
+</details>
+
+<details><summary>Keith</summary>
+
+This above, bringing riches;
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒यमु॒पर्य॒र्वाग्व॑सुः   ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । उ॒परि॑ । अ॒र्वाग्व॑सु॒रित्य॒र्वाक्-व॒सुः॒ ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ पञ्चममन्त्रमाह— अयमुत्तर्यर्वादिति ।   अर्वाग्वसुरधोमुखत्वेन वसुनो मेघाद्भूमौ पतनाद्वैद्युतोऽग्निस्तथोच्यते ।   स चोपर्यूर्ध्वायां दिशि प्रवर्तते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓स्य ता᳓र्क्ष्यश् चा᳓रिष्टनेमिश्च सेनानिग्रामण्यौ᳙    ।   
+उर्व᳓शी च पूर्व᳓-चित्तिश् चाप्सर᳓सौ    ।   
+विद्यु᳓द्+हेति᳓र्, अवस्फू᳓र्जन् प्र᳓हेतिः ।
+</details>
+
+<details><summary>Keith</summary>
+
+the leaders of his host and bands Tarksya and Aristamemi, and Urvaśi and Parvacitti his Apsarases, his missile the lightning, his weapon the thunder.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्य॒ तार्क्ष्य॒श्चारि॑ष्टनेमिश्च सेनानिग्राम॒ण्यौ॑    ।   
 उ॒र्वशी॑ च पू॒र्वचि॑त्तिश्चाप्स॒रसौ॑    ।   
 वि॒द्युद्धे॒तिर॑व॒स्फूर्ज॒न्प्रहे॑तिः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तस्य॑ । तार्क्ष्यः॑ । च॒ । अरि॑ष्टनेमि॒रित्यरि॑ष्ट-ने॒मिः॒ । च॒ । से॒ना॒नि॒ग्रा॒म॒ण्या॑विति॑ सेनानि-ग्रा॒म॒ण्यौ॑ । उ॒र्वशी॑ । च॒ । पू॒र्वचि॑त्ति॒रिति॑ पू॒र्व-चि॒त्तिः॒ । च॒ । अ॒प्स॒रसौ॑ । वि॒द्युदिति॑ वि-द्युत् । हे॒तिः । अ॒व॒स्फूर्ज॒न्नित्य॑व-स्फूर्ज॑न् । प्रहे॑ति॒रिति॒ प्र-हे॒तिः॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ पञ्चममन्त्रमाह— अयमुत्तर्यर्वादिति ।   अर्वाग्वसुरधोमुखत्वेन वसुनो मेघाद्भूमौ पतनाद्वैद्युतोऽग्निस्तथोच्यते ।   स चोपर्यूर्ध्वायां दिशि प्रवर्तते ।  भयहेतुप्रकाशा विद्युत् ।   मारकोऽशनिरवस्फूर्जन् ।
+भयहेतुप्रकाशा विद्युत् ।   मारकोऽशनिरवस्फूर्जन् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -224,9 +383,19 @@ title = "अ॒यम्पु॒रो हरि॑केशः"
 ते᳓भ्यो न᳓मः ।
 </details>
 
+<details><summary>Keith</summary>
+
+To them homage;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेभ्यो॒ नमः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तेभ्यः॑ । नमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -240,9 +409,19 @@ title = "अ॒यम्पु॒रो हरि॑केशः"
 ते᳓ नो मृडयन्तु  ।
 </details>
 
+<details><summary>Keith</summary>
+
+be they gracious to us;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते नो॑ मृडयन्तु  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । नः॒ । मृ॒ड॒य॒न्तु॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -255,9 +434,19 @@ title = "अ॒यम्पु॒रो हरि॑केशः"
 ते᳓ य᳓न् द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि , तव्ँ᳓ वो ज᳓म्भे दधामि ।
 </details>
 
+<details><summary>Keith</summary>
+
+him whom [2] we hate and who hateth us I place in your jaws.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ , तव्ँवो॒ जम्भे॑ दधामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । यम् । द्वि॒ष्मः । यः । च॒ । नः॒ । द्वेष्टि॑ । तम् । वः॒ । जम्भे॑ । द॒धा॒मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>

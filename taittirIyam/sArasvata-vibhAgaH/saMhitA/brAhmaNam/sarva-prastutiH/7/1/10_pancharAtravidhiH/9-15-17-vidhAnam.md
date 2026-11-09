@@ -10,24 +10,22 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रिवृ᳓द्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अग्निष्टोमो᳓ +++(यागो रथन्तरसामा)+++ भवति +++("अ᳓ग्न आ᳓ याहि" इत्यादेस् त्र्यर्चस्य)+++ । ते᳓ज एवा᳓व रुन्धते ।  
+त्रिवृ᳓द्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अग्निष्टोमो᳓ +++(यागो रथन्तरसामा)+++ भवति +++("अ᳓ग्न आ᳓ याहि" इत्यादेस् त्र्यर्चस्य)+++ ।
 </details>
 
 <details><summary>Keith</summary>
 
-There is an Agnistoma characterized by the Trivrt (Stoma); verily he wins brilliance.
+There is an Agnistoma characterized by the Trivrt (Stoma);
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्रि॒वृद॑ग्निष्टो॒मो भ॑वति॒,
-तेज॑ ए॒वाव॑ रुन्द्धे ।
+त्रि॒वृद॑ग्निष्टो॒मो भ॑वति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-त्रि॒वृदिति॑ त्रि-वृत् । अ॒ग्नि॒ष्टो॒म इत्य॑ग्नि-स्तो॒मः । भ॒व॒ति॒ ।   
-तेजः॑ । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।   
+त्रि॒वृदिति॑ त्रि-वृत् । अ॒ग्नि॒ष्टो॒म इत्य॑ग्नि-स्तो॒मः । भ॒व॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -37,25 +35,42 @@ There is an Agnistoma characterized by the Trivrt (Stoma); verily he wins brilli
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्चदशो᳓ भवति ,
-इ᳓न्द्रिय᳓मेवा᳓व᳓ रु᳓न्द्धे᳓ ।
+ते᳓ज एवा᳓व रुन्धते ।
 </details>
 
 <details><summary>Keith</summary>
 
-There is a Pañcadaśa (Stoma); verily he wins power.
+verily he wins brilliance.
 </details>
 
 <details><summary>मूलम्</summary>
 
-प॒ञ्च॒द॒शो भ॑वति॒ ,
-इन्द्रि॒यमे॒वाव रुन्द्धे ।
+तेज॑ ए॒वाव॑ रुन्द्धे ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः । भ॒व॒ति॒ ।     
-इ॒न्द्रि॒यम् । ए॒व । अवेति॑ । रु॒न्द्धे॒ । 
+तेजः॑ । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पञ्चदशो᳓ भवति ।
+</details>
+
+<details><summary>Keith</summary>
+
+There is a Pañcadaśa (Stoma);
+</details>
+
+<details><summary>मूलम्</summary>
+
+प॒ञ्च॒द॒शो भ॑वति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः । भ॒व॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -65,7 +80,27 @@ There is a Pañcadaśa (Stoma); verily he wins power.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सप्तदशो᳓ भवति ,
+इ᳓न्द्रिय᳓मेवा᳓व᳓ रु᳓न्द्धे᳓ ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he wins power.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्रि॒यमे॒वाव रुन्द्धे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒न्द्रि॒यम् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सप्तदशो᳓ भवति,  
 अन्ना᳓द्यस्या᳓वरुध्यै ।
 </details>
 
@@ -76,14 +111,14 @@ There is a Saptadaśa (Stoma), for the obtainment of food;
 
 <details><summary>मूलम्</summary>
 
-स॒प्त॒द॒शो भ॑वति॒ ,
+स॒प्त॒द॒शो भ॑वति॒ ,  
 अ॒न्नाद्य॒स्याव॑रुध्यै ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-स॒प्त॒द॒श इति॑ सप्त-द॒शः । भ॒व॒ति॒ ।   
-अ॒न्नाद्य॒स्येत्य॑न्न-अद्य॑स्य । अव॑रुद्ध्या॒ इत्यव॑-रु॒द्ध्यै॒ ।  
+स॒प्त॒द॒श इति॑ सप्त-द॒शः । भ॒व॒ति॒ ।  
+अ॒न्नाद्य॒स्येत्य॑न्न-अद्य॑स्य । अव॑रुद्ध्या॒ इत्यव॑-रु॒द्ध्यै॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -108,7 +143,7 @@ verily also he gains offspring by reason of it.
 
 <details><summary>पद-पाठः</summary>
 
-अथो॒ इति॑ । प्रेति॑ । ए॒व । तेन॑ । जा॒य॒ते॒  ।     
+अथो॒ इति॑ । प्रेति॑ । ए॒व । तेन॑ । जा॒य॒ते॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

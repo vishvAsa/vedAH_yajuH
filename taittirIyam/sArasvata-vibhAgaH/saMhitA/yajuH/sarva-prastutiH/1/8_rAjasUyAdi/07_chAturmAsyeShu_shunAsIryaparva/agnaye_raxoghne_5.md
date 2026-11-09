@@ -20,7 +20,7 @@ To Agni, slayer of Raksases, hail!  To Yama,
 
 <details><summary>पद-पाठः</summary>
 
-3E । अ॒ग्नये॑ । र॒क्षो॒घ्न इति॑ रक्षः-घ्ने । स्वाहा॑ । य॒माय॑ ।
+अ॒ग्नये॑ । र॒क्षो॒घ्न इति॑ रक्षः-घ्ने । स्वाहा॑ । य॒माय॑ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>

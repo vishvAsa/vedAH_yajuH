@@ -35,10 +35,8 @@ For the plants with good berries thee!
 </details>
 
 <details><summary>पद-पाठः</summary>
-<details><summary>पद-पाठः</summary>
 
-सु॒पि॒प्प॒लाभ्य॒ इति॑ सु-पि॒प्प॒लाभ्यः॑ । त्वा॒ । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ ।  
-</details>
+सु॒पि॒प्प॒लाभ्य॒ इति॑ सु-पि॒प्प॒लाभ्यः॑ । त्वा॒ । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -17,6 +17,11 @@ agreeable to Prajapati I take thee
 प्र॒जाप॑तये त्वा॒ जुष्ट॑ङ्गृह्णामि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑तय॒ इति॑ प्र॒जा-प॒त॒ये॒ । त्वा॒ । जुष्ट॑म् । गृ॒ह्णा॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रजापतये जुष्टं प्रियं गृह्णामि  । गृहीत्वा यथायतनं सादयति एष ते योनिः कारणं प्रजापतये सादयामि
@@ -44,6 +49,11 @@ this is thy birthplace; to Prajapati thee!
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॑ᳶ प्र॒जाप॑तये त्वा ॥ [46]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । प्र॒जाप॑तय॒ इति॑ प्र॒जा-प॒त॒ये॒ । त्वा॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

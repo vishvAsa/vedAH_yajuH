@@ -7,7 +7,7 @@ unicode_script = "devanagari"
 वर्ष᳓-वृद्धम् असि।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>Keith</summary>
 
 Thou art made to grow by the rains.
 </details>

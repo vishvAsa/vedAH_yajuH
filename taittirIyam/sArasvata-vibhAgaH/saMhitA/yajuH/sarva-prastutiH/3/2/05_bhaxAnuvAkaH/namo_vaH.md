@@ -27,6 +27,11 @@ Homage to your taste, O fathers;
 नमो॑ वᳶ पितरो॒ रसा॑य । [पित॑रो॒ नमो॑ वः।],
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वः॒ । पि॒त॒रः॒ । रसा॑य ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे पितरः युष्मभ्यं नमः नमस्करोमि रसाय रसार्थं रसवान् भूयासमिति । 'पितरो नमो वः' इत्यादिकं षट्स्वप्यजुषज्यते ।
@@ -45,6 +50,11 @@ homage to your birth, O fathers;
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पितर॒श्शुष्मा॑य +++(पित॑रो॒ नमो॑ वः )+++,,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वः॒ । पि॒त॒रः॒ । शुष्मा॑य ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -67,6 +77,11 @@ homage to your life, O fathers;
 नमो॑ वᳶ पितरो जी॒वाय । [पित॑रो॒ नमो॑ वः।],
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वः॒ । पि॒त॒रः॒ । जी॒वाय॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 जीवः प्राणः ।
@@ -87,6 +102,11 @@ homage to your [5] custom, O fathers;
 नमो॑ वᳶ पि॒त॒र॒स्स्व॒धायै॑ । [पित॑रो॒ नमो॑ वः।],,
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वः॒ । पि॒त॒रः॒ । स्व॒धाया॒ इति॑ स्व-धायै॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स्वधा अन्नम् ।
@@ -105,6 +125,11 @@ homage to your anger, O fathers;
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पितरो म॒न्यवे॑ । [पित॑रो॒ नमो॑ वः।],,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वः॒ । पि॒त॒रः॒ । म॒न्यवे॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -129,6 +154,11 @@ homage to your terrors, O fathers; O fathers, homage to you.
 पित॑रो॒ नमो॑ वः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वः॒ । पि॒त॒रः॒ । घो॒राय॑ । पित॑रः । नमः॑ । वः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 घोरः क्रूरम् । एतयोः स्थाने प्राधान्यं प्रार्थ्यते ।
@@ -148,6 +178,11 @@ Ye that are in that world, may they follow you;
 <details><summary>मूलम्</summary>
 
 य ए॒तस्मिल्ँ॑ लो॒के स्थ यु॒ष्माँस्तेऽनु॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । ए॒तस्मि॑न् । लो॒के । स्थ । यु॒ष्मान् । ते । अन्विति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -170,6 +205,11 @@ ye that are in this world, may they follow me.
 ये॑ऽस्मिल्ँ लो॒के मान्तेऽनु॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ये । अ॒स्मिन् । लो॒के । माम् । ते । अन्विति॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अस्मिन् मनुष्यलोके मनुष्याः स्थ, ते सर्वे मामनु सन्तु मत्प्रधाना भवन्तु ।
@@ -190,6 +230,11 @@ Ye that are in that world, of them be ye the most fortunate;
 य ए॒तस्मिल्ँ॑ लो॒के स्थ यू॒यन्तेषाव्ँ॒वसि॑ष्ठा भूयास्त ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ये । ए॒तस्मि॑न् । लो॒के । स्थ । यू॒यम् । तेषा॑म् । वसि॑ष्ठाः । भू॒या॒स्त॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ये यूयमेतस्मिन् लोके स्थ तेषां पितॄणां यूयं वसिष्ठाः वसुमत्तमा भूयास्त ।
@@ -208,6 +253,11 @@ ye that are in this world, of these may I be the most fortunate.
 <details><summary>मूलम्</summary>
 
 ये॑ऽस्मिल्ँ लो॒के॑ऽहन्तेषाव्ँ॒वसि॑ष्ठो भूयासम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । अ॒स्मिन् । लो॒के । अ॒हम् । तेषा॑म् । वसि॑ष्ठः । भू॒या॒स॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

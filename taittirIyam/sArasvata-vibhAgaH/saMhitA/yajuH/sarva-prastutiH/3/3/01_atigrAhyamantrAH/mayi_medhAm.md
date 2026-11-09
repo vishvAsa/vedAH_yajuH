@@ -23,6 +23,11 @@ On me wisdom, on me offspring, on me brilliance may Agni bestow;
 मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मय्य॒ग्निस्तेजो॑ दधातु ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मयि॑ । मे॒धाम् । मयि॑ । प्र॒जामिति॑ प्र-जाम् । मयि॑ । अ॒ग्निः । तेजः॑ । द॒धा॒तु॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मेधा ग्रन्थार्थधारणसामर्थ्यम् ।  
@@ -45,6 +50,11 @@ on me wisdom, on me offspring, on me power may Indra bestow;
 <details><summary>मूलम्</summary>
 
 मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयीन्द्र॑ इन्द्रि॒यन्द॑धातु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मयि॑ । मे॒धाम् । मयि॑ । प्र॒जामिति॑ प्र-जाम् । मयि॑ । इन्द्रः॑ । इ॒न्द्रि॒यम् । द॒धा॒तु॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -70,3 +80,9 @@ on me wisdom, on me offspring, on me blazing may Surya bestow.
 
 मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयि॒ सूर्यो॒ भ्राजो॑ दधातु  ॥ [2]  
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+मयि॑ । मे॒धाम् । मयि॑ । प्र॒जामिति॑ प्र-जाम् । मयि॑ । सूर्यः॑ । भ्राजः॑ । द॒धा॒तु॒ ॥
+</details>
+

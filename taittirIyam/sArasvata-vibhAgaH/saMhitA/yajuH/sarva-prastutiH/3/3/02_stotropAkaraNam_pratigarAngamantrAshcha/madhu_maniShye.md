@@ -22,6 +22,11 @@ Of honey shall I think, honey shall I produce, honey shall I proclaim, honey sha
 मधु॑ वदिष्यामि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मधु॑ । म॒नि॒ष्ये॒ । मधु॑ । ज॒नि॒ष्ये॒ । मधु॑ । व॒क्ष्या॒मि॒ । मधु॑ । व॒दि॒ष्या॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अहं तु मधु मनिष्ये मधुवदेव मनसा चिन्तयिष्यामि ।
@@ -42,6 +47,11 @@ may I utter speech full of honey for the gods, and acceptable to men.
 
 मधु॑मतीन्दे॒वेभ्यो॒ वाच॑मुद्यासँ
 शुश्रू॒षेण्या॑म्मनु॒ष्ये॑भ्यः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मधु॑मती॒मिति॒ मधु॑-म॒ती॒म् । दे॒वेभ्यः॑ । वाच॑म् । उ॒द्या॒स॒म् । शु॒श्रू॒षेण्या॑म् । म॒नु॒ष्ये॑भ्यः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -66,6 +76,11 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 
 तम्मा॑ दे॒वा अ॑वन्तु शो॒भायै॑ ।
 पि॒तरोऽनु॑ मदन्तु ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । मा॒ । दे॒वाः । अ॒व॒न्तु॒ । शो॒भायै॑ । पि॒तरः॑ । अन्विति॑ । म॒द॒न्तु॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

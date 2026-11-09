@@ -19,6 +19,11 @@ They mount the world of heaven turning away (from earth), who perform the Prstha
 परा॑ञ्चो॒ वा ए॒ते सु॑व॒र्गल्ँ लो॒कम॒भ्यारो॑हन्ति॒ ये प॑राची॒नानि॑ पृ॒ष्ठान्यु॑प॒यन्ति॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+परा॑ञ्चः । वै । ए॒ते । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । अ॒भ्यारो॑ह॒न्तीत्य॑भि-आरो॑हन्ति । ये । प॒रा॒चीना॑नि । पृ॒ष्ठानि॑ । उ॒प॒यन्तीत्यु॑प-यन्ति॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्य᳓ङ् त्र्यहो᳓ भवति प्रत्य᳓वरूढ्या+++(य्)+++, अ᳓थो प्र᳓तिष्ठित्यै ।  
@@ -32,6 +37,11 @@ The Tryaha is reversed, for the return (from heaven), and for support.
 <details><summary>मूलम्</summary>
 
 प्रत्यङ्त्र्य॑हो भवति प्रत्यवरू॒ढ्या॒ अथो॒ प्रति॑ष्ठित्यै ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒त्यङ्ङ् । त्र्य॒ह इति॑ त्रि-अ॒हः । भ॒व॒ति॒ । प्र॒त्यव॑रूढ्या॒ इति॑ प्रति-अव॑रूढ्यै । अथो॒ इति॑ । प्रति॑ष्ठित्या॒ इति॒ प्रति॑-स्थि॒त्यै॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -48,3 +58,9 @@ Having prospered in either world they cease (the rite).
 
 उ॒भयो॑रे॒व लो॒कयो॒रृद्ध्वोत्ति॑ष्ठन्ति ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒भयोः॑ । लो॒कयोः॑ । ऋ॒द्ध्वा । उदिति॑ । ति॒ष्ठ॒न्ति॒ ।
+</details>
+

@@ -25,7 +25,7 @@ uncut, with wealth of heroes, (give us) riches.
 
 <details><summary>पद-पाठः</summary>
 
-अच्छि॑न्नः । रायः॑ । सु॒वीर॒ इति॑ सु-वीरः॑ ॥ [9]
+अच्छि॑न्नः । रायः॑ । सु॒वीर॒ इति॑ सु-वीरः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

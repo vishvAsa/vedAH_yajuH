@@ -30,6 +30,11 @@ Here is support, hail!
 इ॒ह धृति॒स्स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इ॒ह । धृतिः॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ वि᳓धृतिस् +++(स्यात्)+++ स्वा᳓हा।
@@ -45,6 +50,11 @@ Here is keeping apart, hail!
 इ॒ह विधृ॑ति॒स्स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इ॒ह । विधृ॑ति॒रिति॒ वि-धृ॒तिः॒ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ र᳓न्तिस्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वा᳓हा।
@@ -58,6 +68,11 @@ Here is joy, hail!
 <details><summary>मूलम्</summary>
 
 इ॒ह रन्ति॒स्स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒ह । रन्तिः॑ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

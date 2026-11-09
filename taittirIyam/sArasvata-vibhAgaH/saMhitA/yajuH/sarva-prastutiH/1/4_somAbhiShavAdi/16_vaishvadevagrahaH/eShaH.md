@@ -21,3 +21,9 @@ This is thy birthplace; to the All-gods thee!
 
 ए॒ष ते॒ योनि॒र्विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । विश्वे॑भ्यः । त्वा॒ । दे॒वेभ्यः॑ ॥
+</details>
+

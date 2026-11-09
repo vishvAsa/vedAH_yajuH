@@ -1,6 +1,5 @@
 +++
 title = "चि॒त्तं च॒"
-
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13,9 +12,19 @@ title = "चि॒त्तं च॒"
 बृह᳓च् च [स्वा᳓हा]।  रथन्तरं᳓ च [स्वा᳓हा]।
 </details>
 
+<details><summary>Keith</summary>
+
+Thought and thinking, intent and intention, known and knowledge, mind and power, the new and the full moon, the Brhat and the Rathantara.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चि॒त्तञ्च॒ चित्ति॒श्चाकू॑त॒ञ्चाकू॑तिश्च॒ विज्ञा॑तञ्च वि॒ज्ञान॑ञ्च॒ मन॑श्च॒ शक्व॑रीश्च॒ दर्श॑श्च पू॒र्णमा॑सश्च बृ॒हच्च॑ रथन्त॒रञ्च॑
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चि॒त्तम् । च॒ । चित्तिः॑ । च॒ । आकू॑त॒मित्या-कू॒त॒म् । च॒ । आकू॑ति॒रित्या-कू॒तिः॒ । च॒ । विज्ञा॑त॒मिति॒ वि-ज्ञा॒त॒म् । च॒ । वि॒ज्ञान॒मिति॑ वि-ज्ञान॑म् । च॒ । मनः॑ । च॒ । शक्व॑रीः । च॒ । दर्शः॑ । च॒ । पू॒र्णमा॑स॒ इति॑ पू॒र्ण-मा॒सः॒ । च॒ । बृ॒हत् । च॒ । र॒थ॒न्त॒रमिति॑ रथं-त॒रम् । च॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

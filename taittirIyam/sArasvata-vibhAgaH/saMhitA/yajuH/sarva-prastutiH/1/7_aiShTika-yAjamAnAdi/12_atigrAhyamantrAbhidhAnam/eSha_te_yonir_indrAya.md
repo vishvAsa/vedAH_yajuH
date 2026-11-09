@@ -22,6 +22,11 @@ this is thy birthplace; to Indra thee!
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । इन्द्रा॑य । त्वा॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एष ते योनिः कारणं इन्द्राय त्वा सादयामि । व्याख्यातमेव ॥

@@ -24,9 +24,19 @@ title = "या᳓ वाम्"
 त᳓येम᳓म् अँ᳓हसो मुञ्चतम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+That body of yours, to be striven for, O Indra and Varuna, with that do ye free this one from tribulation;
+</details>
+
 <details><summary>मूलम्</summary>
 
 या वा॑मिन्द्रावरुणा यत॒व्या॑ त॒नूस्तये॒ममँह॑सो मुञ्चतम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+या । वा॒म्॒ । इ॒न्द्रा॒व॒रु॒णेती॑न्द्रा-व॒रु॒णा॒ । य॒त॒व्या॑ । त॒नूः । तया॑ । इ॒मम् । अँह॑सः । मु॒ञ्च॒त॒म्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -40,9 +50,19 @@ title = "या᳓ वाम्"
 सहस्या᳙ [तनू᳓स् त᳓येम् अ᳓मँ᳓हसो मुञ्चतम्] ।
 </details>
 
+<details><summary>Keith</summary>
+
+that strong [body of yours, O Indra and Varuna, with that do ye free him from tribulation].
+</details>
+
 <details><summary>मूलम्</summary>
 
 या वा॑मिन्द्रावरुणा सह॒स्या॑ {रक्ष॒स्या॑ तेज॒स्या॑ } त॒नूस्तये॒ममँह॑सो मुञ्चतम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+[या । वा॒म्॒ । इ॒न्द्रा॒व॒रु॒णेती॑न्द्रा-व॒रु॒णा॒ ।] स॒ह॒स्या॑ । [त॒नूः । तया॑ । इ॒मम् । अँह॑सः । मु॒ञ्च॒त॒म्॒ ।]
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -55,9 +75,19 @@ title = "या᳓ वाम्"
 [या᳓ वामिन्द्रावरुणा] रक्षस्या᳙ [तनू᳓स् त᳓येम᳓म् अँ᳓हसो मुञ्चतम्] ।
 </details>
 
+<details><summary>Keith</summary>
+
+[that] protecting [body of yours, O Indra and Varuna, with that do ye free him from tribulation].
+</details>
+
 <details><summary>मूलम्</summary>
 
 या वा॑मिन्द्रावरुणा {सह॒स्या॑} रक्ष॒स्या॑ {तेज॒स्या॑} त॒नूस्तये॒ममँह॑सो मुञ्चतम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+[या । वा॒म्॒ । इ॒न्द्रा॒व॒रु॒णेती॑न्द्रा-व॒रु॒णा॒ ।] र॒क्ष॒स्या॑ । [त॒नूः । तया॑ । इ॒मम् । अँह॑सः । मु॒ञ्च॒त॒म्॒ ।]
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -70,9 +100,19 @@ title = "या᳓ वाम्"
 [या᳓ वामिन्द्रावरुणा] तेजस्या᳙ तनू᳓स् त᳓येम᳓म् अँ᳓हसो मुञ्चतम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+[that] brilliant body of yours, [O Indra and Varuna,] with that do ye free him from tribulation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 या वा॑मिन्द्रावरुणा {सह॒स्या॑ रक्ष॒स्या॑} तेज॒स्या॑ त॒नूस्तये॒ममँह॑सो मुञ्चतम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+[या । वा॒म्॒ । इ॒न्द्रा॒व॒रु॒णेती॑न्द्रा-व॒रु॒णा॒ ।] ते॒ज॒स्या॑ । त॒नूः । तया॑ । इ॒मम् । अँह॑सः । मु॒ञ्च॒त॒म्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -98,12 +138,17 @@ title = "या᳓ वाम्"
 
 <details><summary>Keith</summary>
 
-(That disease of yours, O Indra and Varuna, that is in the fire, that of yours I appease hereby', he says;
+That disease of yours, O Indra and Varuna, that is in the fire, that of yours I appease hereby;
 </details>
 
 <details><summary>मूलम्</summary>
 
 यो वा॑मिन्द्रावरुणाव॒ग्नौ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यजे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । वा॒म्॒ । इ॒न्द्रा॒व॒रु॒णा॒विती॑न्द्रा-व॒रु॒णौ॒ । अ॒ग्नौ । स्रामः॑ । तम् । वा॒म्॒ । ए॒तेन॑ । अवेति॑ । य॒जे॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -118,12 +163,17 @@ title = "या᳓ वाम्"
 
 <details><summary>Keith</summary>
 
-'That disease of yours, O Indra and Varuna, that is in the two footed cattle, that of yours I appease hereby', he says; 
+that disease of yours, O Indra and Varuna, that is in the two-footed cattle, [that of yours I appease hereby;]
 </details>
 
 <details><summary>मूलम्</summary>
 
 यो वा॑मिन्द्रावरुणा द्वि॒पात्सु॑ प॒शुषु॒
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । वा॒म्॒ । इ॒न्द्रा॒व॒रु॒णेती॑न्द्रा-व॒रु॒णा॒ । द्वि॒पात्स्विति॑ द्वि॒पात्-सु॒ । प॒शुषु॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -136,9 +186,19 @@ title = "या᳓ वाम्"
 [यो᳓ वाम् इन्द्रा-वरुणा] च᳓तुष्पात्सु पशु᳓षु  [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
 </details>
 
+<details><summary>Keith</summary>
+
+[that disease of yours, O Indra and Varuna, that is in] the four-footed, [that of yours I appease hereby;]
+</details>
+
 <details><summary>मूलम्</summary>
 
 चतु॑ष्पात्सु प॒शुषु॒
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चतु॑ष्पा॒त्स्विति॒ चतु॑ष्पात्-सु॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -151,9 +211,19 @@ title = "या᳓ वाम्"
 [यो᳓ वाम् इन्द्रा-वरुणा] गोष्ठे᳓  [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
 </details>
 
+<details><summary>Keith</summary>
+
+[that disease of yours, O Indra and Varuna, that is in] the cattle yard, [that of yours I appease hereby;]
+</details>
+
 <details><summary>मूलम्</summary>
 
 गो॒ष्ठे
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गो॒ष्ठ इति॑ गो-स्थे ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -166,9 +236,19 @@ title = "या᳓ वाम्"
 [यो᳓ वाम् इन्द्रा-वरुणा] गृहे᳓षु   [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
 </details>
 
+<details><summary>Keith</summary>
+
+[that disease of yours, O Indra and Varuna, that is in] the houses, [that of yours I appease hereby;]
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृ॒हेषु
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गृ॒हेषु॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -181,9 +261,19 @@ title = "या᳓ वाम्"
 [यो᳓ वाम् इन्द्रा-वरुणाव्] अप्सु᳓  [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
 </details>
 
+<details><summary>Keith</summary>
+
+[that disease of yours, O Indra and Varuna, that is in] the waters, [that of yours I appease hereby;]
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒प्सु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒प्स्वित्य॑प्-सु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -196,9 +286,19 @@ title = "या᳓ वाम्"
 [यो᳓ वाम् इन्द्रा-वरुणा] ओ᳓षधीषु [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]।
 </details>
 
+<details><summary>Keith</summary>
+
+[that disease of yours, O Indra and Varuna, that is in] the plants, [that of yours I appease hereby;]
+</details>
+
 <details><summary>मूलम्</summary>
 
 ओष॑धीषु।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ओष॑धीषु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -211,9 +311,19 @@ title = "या᳓ वाम्"
 [यो᳓ वाम् इन्द्रा-वरुणा] व᳓नस्प᳓तिषु स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।
 </details>
 
+<details><summary>Keith</summary>
+
+[that disease of yours, O Indra and Varuna, that is in] the trees, that of yours I appease hereby.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वन॒स्पति॑षु॒ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यजे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वन॒स्पति॑षु । स्रामः॑ । तम् । वा॒म्॒ । ए॒तेन॑ । अवेति॑ । य॒जे॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -12,6 +12,11 @@ title = "विश्वजित्-विधानम्"
 विश्वजि᳓थ् +++(सहस्रदक्षिणत्वादिधर्मः)+++ स᳓र्वपृष्ठो+++(=रथन्तर-बृहद्-वैरूप-वैराज-शाक्वर-रैवत-पृष्ठः)+++ ऽतिरात्रो᳓ भवति, स᳓र्वस्याभि᳓जित्यै ॥ 
 </details>
 
+<details><summary>Keith</summary>
+
+There is a Viśvajit Atiratra, with all the Prstha (Stotras), for the winning of all.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्व॒जित्सर्व॑पृष्ठो ऽतिरा॒त्रो भ॑वति॒ ,
@@ -29,9 +34,4 @@ title = "विश्वजित्-विधानम्"
 विश्वजित् सर्वपृष्ठोतिरात्र पञ्चममहः । विश्वजित् सहस्रदक्षिणत्वादिधर्मः सर्वपृष्ठः रथन्तरबृहद्वैरूपवैराजशाक्वररैवतपृष्ठः सर्वस्याभिजयार्थं भवति । सर्वपृष्ठः 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् । त्रिवृदादयो निरुक्ताः ॥
 
 इति सप्तमे प्रथमे दशमोनुवाकः ॥
-
-<details><summary>Keith</summary>
-
-There is a Viśvajit Atiratra, with all the Prstha (Stotras), for the winning of all.
-</details>
 </details>

@@ -24,7 +24,7 @@ Thou art the stepping of Visnu,
 
 <details><summary>पद-पाठः</summary>
 
-4G । विष्णोः॑ । क्रमः॑ । अ॒सि॒ ।
+विष्णोः॑ । क्रमः॑ । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

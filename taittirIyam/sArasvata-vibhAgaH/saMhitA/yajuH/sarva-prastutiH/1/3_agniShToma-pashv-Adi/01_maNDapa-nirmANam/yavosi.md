@@ -32,8 +32,7 @@ bar evil spirits.
 <details><summary>पद-पाठः</summary>
 
 यवः॑ । अ॒सि॒ ।   
-य॒वय॑ । अ॒स्मत् । द्वेषः॑ । [1]
-य॒वय॑ । अरा॑तीः । 
+य॒वय॑ । अ॒स्मत् । द्वेषः॑ । य॒वय॑ । अरा॑तीः । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

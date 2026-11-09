@@ -24,21 +24,49 @@ They proceed with the Brhat and the Rathantara (Samans).
 बृ॒ह॒द्र॒थ॒न्त॒राभ्याय्ँ॑ यन्ति ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+बृ॒ह॒द्र॒थ॒न्त॒राभ्या॒मिति॑ बृहत्-र॒थ॒न्त॒राभ्या॑म् । य॒न्ति॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वा᳓व᳓ रथन्तर᳓म्, असौ᳓ बृह᳓त् +++(चास्ति)+++।
-आभ्या᳓मेव᳓ यन्ति᳓ +++(प्रथमदिनयोः)+++ ।
 </details>
 
 <details><summary>Keith</summary>
 
-The Rathantara is this (earth), the Brhat yonder (sky); verily with them do they proceed;
+The Rathantara is this (earth), the Brhat yonder (sky);
 </details>
 
 <details><summary>मूलम्</summary>
 
 इ॒यव्ँ वाव र॑थन्त॒रम् अ॒सौ बृ॒हत् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒यम् । वाव । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् । अ॒सौ । बृ॒हत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आभ्या᳓मेव᳓ यन्ति᳓ +++(प्रथमदिनयोः)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily with them do they proceed;
+</details>
+
+<details><summary>मूलम्</summary>
+
 आ॒भ्यामे॒व य॒न्ति [2]।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒भ्याम् । ए॒व । य॒न्ति॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -56,19 +84,47 @@ verily also in them they find support.
 अथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्ति ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अथो॒ इति॑ । अ॒नयोः॑ । ए॒व । प्रतीति॑ । ति॒ष्ठ॒न्ति॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एते᳓ वै᳓ यज्ञ᳓स्याञ्जसा᳓यनी स्रुती᳓+++(=मार्गौ)+++ ।  
-ता᳓भ्याम् एव᳓ सुवर्गल्ँ᳓ लोकय्ँ᳓ यन्ति ।
+एते᳓ वै᳓ यज्ञ᳓स्याञ्जसा᳓यनी स्रुती᳓+++(=मार्गौ)+++ ।
 </details>
 
 <details><summary>Keith</summary>
 
-These indeed are the quick paths of the sacrifice; verily by them do they proceed to the world of heaven.
+These indeed are the quick paths of the sacrifice;
 </details>
 
 <details><summary>मूलम्</summary>
 
 ए॒ते वै य॒ज्ञस्या॑ञ्ज॒साय॑नी स्रु॒ती ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒ते इति॑ । वै । य॒ज्ञस्य॑ । अ॒ञ्ज॒साय॑नी॒ इत्य॑ञ्जसा-अय॑नी । स्रु॒ती इति॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता᳓भ्याम् एव᳓ सुवर्गल्ँ᳓ लोकय्ँ᳓ यन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily by them do they proceed to the world of heaven.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ताभ्या॒मे॒व सु॑व॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ताभ्या॑म् । ए॒व । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । य॒न्ति॒ ।
 </details>

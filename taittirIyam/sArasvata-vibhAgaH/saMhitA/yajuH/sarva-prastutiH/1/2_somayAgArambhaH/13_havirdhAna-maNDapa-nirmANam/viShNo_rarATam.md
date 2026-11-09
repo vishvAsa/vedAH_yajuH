@@ -243,7 +243,7 @@ Thou art of Vishu; to Visnu thee!
 
 <details><summary>पद-पाठः</summary>
 
-वै॒ष्ण॒वम् । अ॒सि॒ । विष्ण॑वे । त्वा॒ ॥ [27] 
+वै॒ष्ण॒वम् । अ॒सि॒ । विष्ण॑वे । त्वा॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

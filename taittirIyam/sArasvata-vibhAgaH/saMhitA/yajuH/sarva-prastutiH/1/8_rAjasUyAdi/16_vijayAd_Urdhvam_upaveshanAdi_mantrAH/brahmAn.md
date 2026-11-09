@@ -19,7 +19,7 @@ O Brahman!
 
 <details><summary>पद-पाठः</summary>
 
-7G । ब्रह्मा(३)न् ।
+ब्रह्मा(३)न् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

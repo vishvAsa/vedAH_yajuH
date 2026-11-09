@@ -11,18 +11,41 @@ unicode_script = "devanagari"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(छन्दोमवतः प्रशंसार्थं वक्ति - )+++ अ᳓सत्त्रव्ँ वा᳓ एत᳓द् य᳓द् अछन्दोम᳓म् ।
-य᳓च् छन्दोमा᳓ भ᳓वन्ति ते᳓न सत्त्र᳓म् ।  
 </details>
 
 <details><summary>Keith</summary>
 
-There can be no Sattra where there is no Chandoma; in that there axe Chandomas, there is the Sattra.
+There can be no Sattra where there is no Chandoma;
 </details>
 
 <details><summary>मूलम्</summary>
 
 अस॑त्त्रव्ँ॒ वा ए॒तद् यद॑छन्दो॒मम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अस॑त्त्र॒मित्य॑-स॒त्त्र॒म् । वै । ए॒तत् । यत् । अ॒छ॒न्दो॒ममित्य॑-छ॒न्दो॒मम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓च् छन्दोमा᳓ भ᳓वन्ति ते᳓न सत्त्र᳓म् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+in that there axe Chandomas, there is the Sattra.
+</details>
+
+<details><summary>मूलम्</summary>
+
 यच्छ॑न्दो॒मा भव॑न्ति॒ तेन॑ स॒त्त्रम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । छ॒न्दो॒माः । भव॑न्ति । तेन॑ । स॒त्त्रम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -40,6 +63,11 @@ The gods they win by the Prsthas, the cattle by the Chandomas.
 दे॒वता॑ ए॒व पृ॒ष्ठैरव॑ रुन्धते प॒शूञ्छ॑न्दो॒मैः ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+दे॒वताः॑ । ए॒व । पृ॒ष्ठैः । अवेति॑ । रु॒न्ध॒ते॒ । प॒शून् । छ॒न्दो॒मैः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जो वा᳓ वीर्य᳙म् पृष्ठा᳓नि, पश᳓वश् छन्दोमा᳓ ।  
@@ -55,6 +83,11 @@ The Prsthas are force and strength, the Chandomas cattle;
 ओजो॒ वै वी॒र्य॑म्पृ॒ष्ठानि॑ प॒शव॑श्छन्दो॒माः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ओजः॑ । वै । वी॒र्य॑म् । पृ॒ष्ठानि॑ । प॒शवः॑ । छ॒न्दो॒माः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जस्य् एव᳓ वीर्ये᳙, पशु᳓षु +++(च)+++ प्र᳓ति तिष्ठन्ति ।  
@@ -68,4 +101,9 @@ verily in force [2] and strength they find support.
 <details><summary>मूलम्</summary>
 
 ओज॑स्ये॒व वी॒र्ये॑ प॒शुषु॒ प्रति॑ तिष्ठन्ति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ओज॑सि । ए॒व । वी॒र्ये॑ । प॒शुषु॑ । प्रतीति॑ । ति॒ष्ठ॒न्ति॒ ।
 </details>

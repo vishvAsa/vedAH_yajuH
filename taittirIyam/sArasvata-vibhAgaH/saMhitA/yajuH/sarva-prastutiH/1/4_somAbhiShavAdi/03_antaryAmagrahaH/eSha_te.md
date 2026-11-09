@@ -17,6 +17,11 @@ This is thy birthplace;
 ए॒ष ते॒ योनिः॑।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **एष ते योनिः** स्थानम् ।
