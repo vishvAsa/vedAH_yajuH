@@ -4,9 +4,7 @@ title = "02 जुष्टो वाचो"
 
 <details><summary>Keith</summary>
 
-By Agni may one win wealth  
-And abundance day by day,  
-Glory, full of heroes.
+May I be pleasing to speech; pleasing to the lord of speech, O divine speech. The sweetness of speech place in me; hail to Sarasvati.
 </details>
 
 <details><summary>मूलम्</summary>

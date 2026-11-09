@@ -38,22 +38,42 @@ _________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एष᳓ ते यो᳓निᳶ प्रजा᳓पतये त्वा ॥ [46]
+एष᳓ ते यो᳓निः ।
 </details>
 
 <details><summary>Keith</summary>
 
-this is thy birthplace; to Prajapati thee!
+this is thy birthplace;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॒ योनि॑ᳶ प्र॒जाप॑तये त्वा ॥ [46]
+ए॒ष ते॒ योनि॑ᳶ
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-ए॒षः । ते॒ । योनिः॑ । प्र॒जाप॑तय॒ इति॑ प्र॒जा-प॒त॒ये॒ । त्वा॒ ॥
+ए॒षः । ते॒ । योनिः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रजा᳓पतये त्वा ॥ [46]
+</details>
+
+<details><summary>Keith</summary>
+
+to Prajapati thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्र॒जाप॑तये त्वा ॥ [46]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑तय॒ इति॑ प्र॒जा-प॒त॒ये॒ । त्वा॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

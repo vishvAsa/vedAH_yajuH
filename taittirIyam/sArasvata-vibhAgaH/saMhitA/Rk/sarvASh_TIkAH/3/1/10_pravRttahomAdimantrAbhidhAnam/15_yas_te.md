@@ -4,9 +4,10 @@ title = "15 यस् ते"
 
 <details><summary>Keith</summary>
 
-Here Tvastr the first,  
-Of all forms, I call.  
-May he be ours only.
+Thy sweet drop, powerful,  
+Over which Hail! is said and which goeth back to the gods  
+From the sky, the earth, the atmosphere  
+Over it I say Hail! and offer it to Indra.
 </details>
 
 <details><summary>मूलम्</summary>

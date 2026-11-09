@@ -4,10 +4,9 @@ title = "05 ऋचा स्तोमम्"
 
 <details><summary>Keith</summary>
 
-Rich in cattle, in sheep, O Agni, in horses is the sacrifice;  
-With manly companions, ever unalterable;  
-Rich in food is this, O Asura, in offspring,  
-Enduring, wealth, deep based and rich in houses.  
+By the Rc make the Soma to prosper,  
+By the Gayatra the Rathantara,  
+The Brhat with the Gayatri for its metre.
 </details>
 
 <details><summary>मूलम्</summary>

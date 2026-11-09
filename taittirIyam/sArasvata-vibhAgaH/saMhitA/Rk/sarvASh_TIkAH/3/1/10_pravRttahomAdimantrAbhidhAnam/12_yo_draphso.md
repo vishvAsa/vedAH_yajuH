@@ -4,7 +4,10 @@ title = "12 यो द्रप्सो"
 
 <details><summary>Keith</summary>
 
-Together for thee.
+The drop, the shoot, that hath fallen on the ground,  
+From the rice grains [1], the cake, the mush,  
+From the Soma with grain, from the mixed, O Indra, from the pure,  
+Over it I say Hail! and offer it to Indra.
 </details>
 
 <details><summary>मूलम्</summary>
