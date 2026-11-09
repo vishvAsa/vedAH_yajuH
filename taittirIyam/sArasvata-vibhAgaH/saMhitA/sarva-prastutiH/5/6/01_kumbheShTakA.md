@@ -2384,7 +2384,7 @@ O Arise to the sky, aim at the atmosphere, be united with the earth;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र᳓ह्म᳓-व᳓र्चस᳓म् **असि** ।  
+ब्रह्म-वर्चस᳓म् **असि** ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -2394,7 +2394,7 @@ thou art splendour;
 
 <details><summary>मूलम्</summary>
 
-ब्रह्मवर्च॒सम॑सि ।  
+ब्र॒ह्म॒व॒र्च॒सम॑सि ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
