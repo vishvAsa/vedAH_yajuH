@@ -275,5 +275,44 @@ These are thine overlords, to them honour, be they gracious to us, him whom we h
 ### o
 Thou art the measure of a thousand, thou art the image of a thousand, thou art the size of a thousand, thou art the replica of a thousand, thou art of a thousand, for a thousand thee!
 ### p
-May these bricks, O Agni, be milch cows for me, one, and a hundred, and a thousand, and ten thousand [3], and a hundred thousand, and a million, and ten million, and a hundred million, and a thousand million, and ten thousand million, and a hundred thousand million, and ten hundred thousand million, and a hundred hundred thousand million; may these bricks, O Agni, be for me milch cows, sixty, a thousand, ten thousand unperishing; ye are standing on holy order, increasing holy order, dripping ghee, dripping honey, full of strength, full of power; may these bricks, O Agni, be for me milkers of desires named the glorious yonder in yon world.  
+May these bricks, O Agni, be milch cows for me, one, and a hundred, and a thousand, and ten thousand [3], and a hundred thousand, and a million, and ten million, and a hundred million, and a thousand million, and ten thousand million, and a hundred thousand million, and ten hundred thousand million, and a hundred hundred thousand million; may these bricks, O Agni, be for me milch cows, sixty, a thousand, ten thousand unperishing; ye are standing on holy order, increasing holy order, dripping ghee, dripping honey, full of strength, full of power; may these bricks, O Agni, be for me milkers of desires named the glorious yonder in yon world.
+
+## 12
+a Resounding, framing by queries the thought,  
+Self-linked, first born in order,  
+Longing for wealth, creating all forms,  
+May the wise (Visvakarman) accord us protection in our invoke \[1\].  
+b Do thou make to prosper our sacrifice, O lord of the world;  
+Enkindled, may the Steer, the joyous, wait on us;  
+Loving our ancestral track of the rich path,  
+Bear cleanly the oblations, O Agni, to the gods.  
+c Make wide, O god, the widespread mantle  
+Whose tracks are glorious;  
+Bend over us, O heaven, extend wide;  
+Accord us prosperity in abundant room \[2\].  
+d Be the paths of approach to the gods easy for us  
+To pass over; may we have authority for the ceremony;  
+Right upfront be the building of the sacrifice;  
+Listen to us, all ye gods, with protection.  
+e We invoke the twin-born, the youthful, the wide-extending;  
+Thinking of our track, ye rule over all;  
+Looking upon the lovable generating of the gods,  
+Accept gladly, O Mitra and Varuna, this oblation \[3\].  
+f The golden germ first arose;  
+Born, he was the sole lord of creation;  
+He supported the earth and this sky;  
+Who is the god to whom we shall offer with oblation?  
+g Let all the gods who over the sky and earth  
+With skill are eager for the pressing;  
+Let the great ones protect us;  
+Let the bright ones hear our call at this hour \[4\].  
+h Let the rich (Maruts) with the rush of the wind, protecting well,  
+From sky to sky dropping down their gleaming moisture,  
+Whose greatness is deep as are their pathways,  
+Three times wandering, protect us cleanly.  
+i What then, as similarity of will is vanished,  
+Has become of our ancient friendship?  
+When again, O brilliant Indra, hastening to us  
+From the great enclosure wilt thou draw nigh to the weaponry \[5\]?  
+k Who to-day yoketh?
 

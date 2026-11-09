@@ -8,7 +8,7 @@ O Agni and Visnu, may these songs gladden you in unison; come ye with radiance a
 ### b
 May for me strength, instigation, influence, inclination, thought, inspiration, speech, fame, renown, reputation, light, heaven, expiration, inspiration [1], cross-breathing, breath, mind, learning, voice, mind, eye, ear, skill, might, force, strength, life, old age, breath, body, protection, guard, limbs, bones, joints, bodies (prosper through the sacrifice).
 ## 02
-May for me pre-eminence, overlordship, spirit, anger, violence, impetuosity, victorious power, greatness, breadth, extent, greatness, length, growth, growing, truth, faith, world [1], wealth, power,
+May for me pre-eminence, overlordship, spirit, anger, violence, impetuosity, victorious power, greatness, breadth, extent, greatness, length, growth, growing, truth, faith, world [1], wealth, power, radiance, play, delight, what is born, what is to be born, good words, good deeds, finding, what there is to find, what has been, what will be, easy road, good way, prosperity, prospering, agreement, agreeing, thought, good thought (prosper through the sacrifice).
 
 ## 03
 May for me prosperity, comfort, desire, wish, longing, kindliness, good, better, superior, fame, good luck, riches, restrainer, supporter, peace, firmness, all [1], greatness, discovery, knowledge, begetting, procreation, plough, harrow, holy order, immortality, freeness from disease, freedom from illness, life, longevity, freedom from foes, fearlessness, ease of going, lying, fair dawning, and fair day (prosper through the sacrifice).
