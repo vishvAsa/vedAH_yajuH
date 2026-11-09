@@ -53,7 +53,7 @@ title = "१० पाशुकगर्भप्रायश्चित्त�
 TODO: taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/3/10_pAshukagarbhaprAyashchittam.md इतीतो योजनीयम्। 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/07_Avartana_vartaya.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/07_Avartana_vartaya.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 

@@ -319,7 +319,8 @@ Thou dost win the light; may the light forsake me not, may I not forsake the lig
 10-12त्रयाणां क्रमेण भक्षमन्त्राः - मयि मेधामित्याद्याः ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/01_atigrAhyamantrAH/mayi_medhAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/01_atigrAhyamantrAH/mayi_medhAm.md">
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मय्य॒ग्निस्तेजो॑ दधातु॒ मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयीन्द्र॑ इन्द्रि॒यन्द॑धातु॒ मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयि॒ सूर्यो॒ भ्राजो॑ दधातु ॥ [2]  
@@ -339,6 +340,11 @@ On me wisdom, on me offspring, on me brilliance may Agni bestow;
 <details><summary>मूलम्</summary>
 
 मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मय्य॒ग्निस्तेजो॑ दधातु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मयि॑ । मे॒धाम् । मयि॑ । प्र॒जामिति॑ प्र-जाम् । मयि॑ । अ॒ग्निः । तेजः॑ । द॒धा॒तु॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -365,6 +371,11 @@ on me wisdom, on me offspring, on me power may Indra bestow;
 मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयीन्द्र॑ इन्द्रि॒यन्द॑धातु ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मयि॑ । मे॒धाम् । मयि॑ । प्र॒जामिति॑ प्र-जाम् । मयि॑ । इन्द्रः॑ । इ॒न्द्रि॒यम् । द॒धा॒तु॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इन्द्रियं चक्षुरादिशक्तिः ।  
@@ -388,4 +399,10 @@ on me wisdom, on me offspring, on me blazing may Surya bestow.
 
 मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयि॒ सूर्यो॒ भ्राजो॑ दधातु  ॥ [2]  
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+मयि॑ । मे॒धाम् । मयि॑ । प्र॒जामिति॑ प्र-जाम् । मयि॑ । सूर्यः॑ । भ्राजः॑ । द॒धा॒तु॒ ॥
+</details>
+
 </div>

@@ -232,7 +232,7 @@ title = "०२ वशालम्भनमन्त्राः"
 6अथास्यै वपां जुहोति - तन्तुं तन्वन्निति जगत्या ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/06_tantuM_tanvanrajaso.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/06_tantuM_tanvanrajaso.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 

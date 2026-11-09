@@ -119,7 +119,7 @@ With clear sight may I gaze' upon thee, O god Soma, who regardest men.
 म॒न्द्राभिभू॑तिᳵ के॒तुर्य॒ज्ञानाव्ँ॒वाग्जु॑षा॒णा सोम॑स्य तृप्यतु म॒न्द्रा स्व॑र्वा॒च्यदि॑ति॒रना॑हतशीर्ष्णी॒ वाग्जु॑षा॒णा सोम॑स्य तृप्य॒त्वेहि॑ विश्वचर्षणे [16]  श॒म्भूर्म॑यो॒भूस्स्व॒स्ति मा॑ हरिवर्ण॒ प्र च॑र॒ क्रत्वे॒ दक्षा॑य रा॒यस्पोषा॑य सुवी॒रता॑यै
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/02_mandrA.abhibhUtikH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/02_mandrA.abhibhUtikH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -146,6 +146,11 @@ Gentle control, banner of the sacrifices, may speech accept and delight in the S
 म॒न्द्रा स्व॑र्वा॒च्यदि॑ति॒रना॑हतशीर्ष्णी॒ वाग्जु॑षा॒णा सोम॑स्य तृप्यतु ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+म॒न्द्रा । अ॒भिभू॑ति॒रित्य॒भि-भू॒तिः॒ । के॒तुः । य॒ज्ञाना॑म् । वाक् । जु॒षा॒णा । सोम॑स्य । तृ॒प्य॒तु॒ । म॒न्द्रा । स्व॑र्वा॒चीति॒ सु-अ॒र्वा॒ची॒ । अदि॑तिः । अना॑हतशी॒र्ष्णीत्यना॑हत-शी॒र्ष्णी॒ । वाक् । जु॒षा॒णा । सोम॑स्य । तृ॒प्य॒तु॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 नराशंसपीतस्येति नराशंसान् - मन्द्रा मदकरी, अभिभूतिः अभिभवित्री सर्वशरीरस्य, केतुः प्रधानभूता यज्ञानां; तदधीनत्वात्सर्वप्रवृत्तीनाम् । ईदृशी वाक् जुषाणा प्रीयमाणा सोमस्य तृप्यतु सोमेन पीतेन तृप्ता भवतु । यद्वा - सोमस्य जुषाणा सेवमाना सोममाप्रियमाणा वाक् तृप्यतु ।
@@ -158,7 +163,7 @@ Gentle control, banner of the sacrifices, may speech accept and delight in the S
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/03_ehi_vishvacharShaNe.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/03_ehi_vishvacharShaNe.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -185,6 +190,11 @@ Come hither, O thou who art of all men [1], with healing and favour; with safety
 क्रत्वे॒ दक्षा॑य रा॒यस्पोषा॑य सुवी॒रता॑यै ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+एति॑ । इ॒हि॒ । वि॒श्व॒च॒र्ष॒ण॒ इति॑ विश्व-च॒र्ष॒णे॒ । श॒म्भूरिति॑ शं-भूः । म॒यो॒भूरिति॑ मयः-भूः । स्व॒स्ति । मा॒ । ह॒रि॒व॒र्णेति॑ हरि-व॒र्ण॒ । प्रेति॑ । च॒र॒ । क्रत्वे॑ । दक्षा॑य । रा॒यः । पोषा॑य । सु॒वी॒रता॑या॒ इति॑ सु-वी॒रता॑यै ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे विश्वचर्षणे विश्वचर्षणयो मनुष्याः स्वभूता यस्य स तादृशः ।  
@@ -198,7 +208,7 @@ Come hither, O thou who art of all men [1], with healing and favour; with safety
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/04_mA_mA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/04_mA_mA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -222,6 +232,11 @@ Terrify me not, O king, pierce not my heart with thy radiance, for manly strengt
 
 मा मा॑ राज॒न्वि बी॑भिषो॒ मा मे॒ हार्दि॑ त्वि॒षा व॑धीः ।  
 वृष॑णे॒ शुष्मा॒यायु॑षे॒ वर्च॑से ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मा । मा॒ । रा॒ज॒न् । वीति॑ । बी॒भि॒षः॒ । मा । मे॒ । हार्दि॑ । त्वि॒षा । व॒धीः॒ ॥ वृष॑णे । शुष्मा॑य । आयु॑षे । वर्च॑से ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -274,6 +289,11 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 <details><summary>मूलम्</summary>
 
 इन्द्र॑पीतस्य॒ नरा॒शँस॑पीतस्य पि॒तृपी॑तस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भक्षयामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑पीत॒स्येतीन्द्र॑-पी॒त॒स्य॒ । नरा॒शँस॑पीत॒स्येति॒ नरा॒शँस॑-पी॒त॒स्य॒ । पि॒तृपी॑त॒स्येति॑ पि॒तृ-पी॒त॒स्य॒ । मधु॑मत॒ इति॒ मधु॑-म॒तः॒ । उप॑हूत॒स्येत्युप॑-हू॒त॒स्य॒ । उप॑हूत॒ इत्युप॑-हू॒तः॒ । भ॒क्ष॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -331,6 +351,11 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 इन्द्र॑पीतस्य॒ नरा॒शँस॑पीतस्य पि॒तृपी॑तस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भक्षयामि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑पीत॒स्येतीन्द्र॑-पी॒त॒स्य॒ । नरा॒शँस॑पीत॒स्येति॒ नरा॒शँस॑-पी॒त॒स्य॒ । पि॒तृपी॑त॒स्येति॑ पि॒तृ-पी॒त॒स्य॒ । मधु॑मत॒ इति॒ मधु॑-म॒तः॒ । उप॑हूत॒स्येत्युप॑-हू॒त॒स्य॒ । उप॑हूत॒ इत्युप॑-हू॒तः॒ । भ॒क्ष॒या॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इन्द्रपीतस्य इन्द्रेण प्रथमं पीतस्य । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । इन्द्रस्य सर्वदेवतामयत्वात् सर्वत्रैवमप्यन्यदेवते ।  
@@ -386,6 +411,11 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 इन्द्र॑पीतस्य॒ नरा॒शँस॑पीतस्य पि॒तृपी॑तस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भक्षयामि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑पीत॒स्येतीन्द्र॑-पी॒त॒स्य॒ । नरा॒शँस॑पीत॒स्येति॒ नरा॒शँस॑-पी॒त॒स्य॒ । पि॒तृपी॑त॒स्येति॑ पि॒तृ-पी॒त॒स्य॒ । मधु॑मत॒ इति॒ मधु॑-म॒तः॒ । उप॑हूत॒स्येत्युप॑-हू॒त॒स्य॒ । उप॑हूत॒ इत्युप॑-हू॒तः॒ । भ॒क्ष॒या॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इन्द्रपीतस्य इन्द्रेण प्रथमं पीतस्य । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । इन्द्रस्य सर्वदेवतामयत्वात् सर्वत्रैवमप्यन्यदेवते ।  
@@ -401,7 +431,7 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 8चमसान् आप्याययति - आप्यायस्वेति गायत्र्या ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -666,7 +696,7 @@ Schwill, Soma, an, es komme dir von allen Seiten Heldenkraft, Sei, wo die Kraft 
 9भक्षयित्वा आत्मानमभिमृशति - हिन्वेति पथ्याबृहत्या ॥ तृतीयस्य द्वादशाक्षरत्वात् । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/05_hinva_me.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/05_hinva_me.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -696,6 +726,11 @@ Do not go below my navel [3].
 शि॒वो मे॑ सप्त॒र्षीनुप॑ तिष्ठस्व॒ मा मेऽवा॒ङ्नाभि॒मति॑ [18]  गाः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+हिन्व॑ । मे॒ । गात्रा॑ । ह॒रि॒व॒ इति॑ हरि-वः॒ । ग॒णान् । मे॒ । मा । वीति॑ । ती॒तृ॒षः॒ ॥ शि॒वः । मे॒ । स॒प्त॒र्षीनिति॑ सप्त-ऋ॒षीन् । उपेति॑ । ति॒ष्ठ॒स्व॒ । मा । मे॒ । अवाङ्॑ । नाभि॑म् । अतीति॑ । गाः॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे **हरिवः** हरितवर्ण । 'मतुवसोः' इति रुत्वम् । मे मम गात्रा गात्राणि **हिन्व** प्रीणय । हिवि प्रीणने, इदित्वान्नुम् । मे मदीयान् **गणान्** पुत्रादीन् मा वितीतृषः **वितृष्णान्** मा कार्षीः पुनःपुनः पातॄन् कुरु । किंच - शिवो भूत्वा मे मदीयान् **सप्त ऋषीन्** अरिषितॄन् प्राणान् शीर्षण्यान् द्वेद्वे चक्षुषी श्रोत्रे नासिके एकमास्यमिति, तानुपतिठस्व । ऋषि गतौ, औणादिक इनिप्रत्ययः । उपस्थानमुपेत्य तर्पणं तदर्थं **मे** मम नाभिमतीत्य **अवाक्** अधस्तात् **मा गाः** मा गमः । अवपूर्वादञ्चतेः क्विनि 'अनिगन्तोञ्चतौ' इति गतेः प्रकृतिस्वरत्वम् ॥
@@ -709,7 +744,7 @@ Do not go below my navel [3].
 10आदित्यमुपतिष्ठते - अपामेति त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/06_apAma_somam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/06_apAma_somam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -737,6 +772,11 @@ Of mortal man do to us, O immortal?
 
 अपा॑म॒ सोम॑म॒मृता॑ अभू॒माद॑र्श्म॒ ज्योति॒रवि॑दाम दे॒वान् ।    
 किम॒स्मान्कृ॑णव॒दरा॑ति॒ᳵ किमु॑ धू॒र्तिर॑मृत॒ मर्त्य॑स्य ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अपा॑म । सोम॑म् । अ॒मृताः॑ । अ॒भू॒म॒ । अद॑र्श्म । ज्योतिः॑ । अवि॑दाम । दे॒वान् ॥ किम् । अ॒स्मान् । कृ॒ण॒व॒त् । अरा॑तिः । किम् । उ॒ । धू॒र्तिः । अ॒मृ॒त॒ । मर्त्य॑स्य ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -772,7 +812,7 @@ Of mortal man do to us, O immortal?
  सर्वेष्वग्न्युपघातेषु "पुनस्त्वादित्या रुद्रा वसवः समिन्धतामि"त्येतया समिधमादध्यादेतयैव स्रुवाहुतिं जुहुयात्।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/07_yan_ma.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/07_yan_ma.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -787,9 +827,20 @@ Of mortal man do to us, O immortal?
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/2/05_bhaxAnuvAkaH/07_yan_ma.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Whatever fault has been mine,  
+Agni hath put that right, all-knower, he who belongeth to all men;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यन्म॑ आ॒त्मनो॑ मि॒न्दाभू॑द॒ग्निस्तत्पुन॒राहा॑र्जा॒तवे॑दा॒ विच॑र्षणिः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । मे॒ । आ॒त्मनः॑ । मि॒न्दा । अभू॑त् । अ॒ग्निः । तत् । पुनः॑ । एति॑ । अ॒हाः॒ । जा॒तवे॑दा॒ इति॑ जा॒त-वे॒दाः॒ । विच॑र्षणि॒रिति॒ वि-च॒र्ष॒णिः॒ ॥
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -816,7 +867,7 @@ Of mortal man do to us, O immortal?
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/08_punar_agnish.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/08_punar_agnish.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -836,8 +887,6 @@ Of mortal man do to us, O immortal?
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
-Whatever fault has been mine,  
-Agni hath put that right, all-knower, he who belongeth to all men;  
 Agni hath given back the eye,  
 Indra and Brhaspati have given it back;  
 Do ye two, O Aśvins,  
@@ -848,6 +897,11 @@ Replace my eye within its sockets.
 
 पुन॑र॒ग्निश्चक्षु॑रदा॒त्पुन॒रिन्द्रो॒ बृह॒स्पतिः॑ ।
 पुन॑र्मे अश्विना यु॒वञ्चक्षु॒रा ध॑त्तम॒क्ष्योः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पुनः॑ । अ॒ग्निः । चक्षुः॑ । अ॒दा॒त् । पुनः॑ । इन्द्रः॑ । बृह॒स्पतिः॑ ॥ पुनः॑ । मे॒ । अ॒श्वि॒ना॒ । यु॒वम् । चक्षुः॑ । एति॑ । ध॒त्त॒म् । अ॒क्ष्योः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -943,7 +997,7 @@ This for thee, O grandfather, great-grandfather, and for thy line
 
 <details><summary>पद-पाठः</summary>
 
-2B । ए॒तत् । ते॒ । त॒त॒ । ये । च॒ । त्वाम् । अन्विति॑ । ए॒तत् । ते॒ । पि॒ता॒म॒ह॒ । प्र॒पि॒ता॒म॒हेति॑ प्र-पि॒ता॒म॒ह॒ । ये । च॒ । त्वाम् । अन्विति॑ ।
+ए॒तत् । ते॒ । त॒त॒ । ये । च॒ । त्वाम् । अन्विति॑ । ए॒तत् । ते॒ । पि॒ता॒म॒ह॒ । प्र॒पि॒ता॒म॒हेति॑ प्र-पि॒ता॒म॒ह॒ । ये । च॒ । त्वाम् । अन्विति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1015,6 +1069,11 @@ Homage to your taste, O fathers;
 नमो॑ वᳶ पितरो॒ रसा॑य । [पित॑रो॒ नमो॑ वः।],
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वः॒ । पि॒त॒रः॒ । रसा॑य ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे पितरः युष्मभ्यं नमः नमस्करोमि रसाय रसार्थं रसवान् भूयासमिति । 'पितरो नमो वः' इत्यादिकं षट्स्वप्यजुषज्यते ।
@@ -1033,6 +1092,11 @@ homage to your birth, O fathers;
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पितर॒श्शुष्मा॑य +++(पित॑रो॒ नमो॑ वः )+++,,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वः॒ । पि॒त॒रः॒ । शुष्मा॑य ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1055,6 +1119,11 @@ homage to your life, O fathers;
 नमो॑ वᳶ पितरो जी॒वाय । [पित॑रो॒ नमो॑ वः।],
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वः॒ । पि॒त॒रः॒ । जी॒वाय॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 जीवः प्राणः ।
@@ -1075,6 +1144,11 @@ homage to your [5] custom, O fathers;
 नमो॑ वᳶ पि॒त॒र॒स्स्व॒धायै॑ । [पित॑रो॒ नमो॑ वः।],,
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वः॒ । पि॒त॒रः॒ । स्व॒धाया॒ इति॑ स्व-धायै॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स्वधा अन्नम् ।
@@ -1093,6 +1167,11 @@ homage to your anger, O fathers;
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पितरो म॒न्यवे॑ । [पित॑रो॒ नमो॑ वः।],,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वः॒ । पि॒त॒रः॒ । म॒न्यवे॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1117,6 +1196,11 @@ homage to your terrors, O fathers; O fathers, homage to you.
 पित॑रो॒ नमो॑ वः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वः॒ । पि॒त॒रः॒ । घो॒राय॑ । पित॑रः । नमः॑ । वः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 घोरः क्रूरम् । एतयोः स्थाने प्राधान्यं प्रार्थ्यते ।
@@ -1136,6 +1220,11 @@ Ye that are in that world, may they follow you;
 <details><summary>मूलम्</summary>
 
 य ए॒तस्मिल्ँ॑ लो॒के स्थ यु॒ष्माँस्तेऽनु॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । ए॒तस्मि॑न् । लो॒के । स्थ । यु॒ष्मान् । ते । अन्विति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1158,6 +1247,11 @@ ye that are in this world, may they follow me.
 ये॑ऽस्मिल्ँ लो॒के मान्तेऽनु॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ये । अ॒स्मिन् । लो॒के । माम् । ते । अन्विति॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अस्मिन् मनुष्यलोके मनुष्याः स्थ, ते सर्वे मामनु सन्तु मत्प्रधाना भवन्तु ।
@@ -1176,6 +1270,11 @@ Ye that are in that world, of them be ye the most fortunate;
 <details><summary>मूलम्</summary>
 
 य ए॒तस्मिल्ँ॑ लो॒के स्थ यू॒यन्तेषाव्ँ॒वसि॑ष्ठा भूयास्त ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । ए॒तस्मि॑न् । लो॒के । स्थ । यू॒यम् । तेषा॑म् । वसि॑ष्ठाः । भू॒या॒स्त॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1198,6 +1297,11 @@ ye that are in this world, of these may I be the most fortunate.
 ये॑ऽस्मिल्ँ लो॒के॑ऽहन्तेषाव्ँ॒वसि॑ष्ठो भूयासम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ये । अ॒स्मिन् । लो॒के । अ॒हम् । तेषा॑म् । वसि॑ष्ठः । भू॒या॒स॒म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 येऽस्मिन् लोके सन्ति मनुष्यास्तेषां मनुष्याणामहं वसिष्ठो वसुमत्तमो भूयासम् । वसुशब्दादिष्ठनि 'विन्मतोर्लुक्' इति लुक्, 'टेः' इति टिलोपः ॥
@@ -1210,7 +1314,7 @@ ye that are in this world, of these may I be the most fortunate.
 19प्राजापत्यया त्रैष्टुभा गार्हपत्यमुपतिष्ठते - प्रजापत इति ॥ व्याख्याता चेयं 'सोमस्य त्विषिरसि' इत्यत्र । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -1619,6 +1723,11 @@ Thou art the expiation of sin committed by the gods, thou art the expiation of s
 पि॒तृ-कृ॑त॒स्यैन॑सोऽव॒यज॑नमसि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+दे॒वकृ॑त॒स्येति॑ दे॒व-कृ॒त॒स्य॒ । एन॑सः । अ॒व॒यज॑न॒मित्य॑व-यज॑नम् । अ॒सि॒ । म॒नु॒ष्य॑कृत॒स्येति॑ मनु॒ष्य॑-कृ॒त॒स्य॒ । एन॑सः । अ॒व॒यज॑न॒मित्य॑व-यज॑नम् । अ॒सि॒ । पि॒तृकृ॑त॒स्येति॑ पि॒तृ-कृ॒त॒स्य॒ । एन॑सः । अ॒व॒यज॑न॒मित्य॑व-यज॑नम् । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 देवादिविषये यदस्माभिः कृतमेनः अधर्मः तस्यावयजनं नाशनं असि । 'क्षेपे' इति सप्तम्यास्समासः, सप्तमीपूर्वपदप्रकृतिस्वरत्वम् । यद्वा - देवादिभिरस्मद्विषये, यत्कृतमेनःफलं दुखं तस्यावयजनमसि । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्ववम् । एतेनोभे व्याख्याते ॥
@@ -1657,6 +1766,11 @@ Of thee, O god Soma, that art purified in the waters, that art pressed by men, o
 <details><summary>मूलम्</summary>
 
 अ॒प्सु धौ॒तस्य॑ सोम देव ते॒ नृभि॑स्सु॒तस्ये॒ष्टय॑जुषस्स्तु॒तस्तो॑मस्य श॒स्तोक्थ॑स्य॒ यो भ॒क्षो अ॑श्व॒सनि॒र्यो गो॒सनि॒स्तस्य॑ ते पि॒तृभि॑र्भ॒क्षङ्कृ॑त॒स्योप॑हूत॒स्योप॑हूतो भक्षयामि ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒प्स्वित्य॑प्-सु । धौ॒तस्य॑ । सो॒म॒ । दे॒व॒ । ते॒ । नृभि॒रिति॒ नृ-भिः॒ । सु॒तस्य॑ । इ॒ष्टय॑जुष॒ इती॒ष्ट-य॒जु॒षः॒ । स्तु॒तस्तो॑म॒स्येति॑ स्तु॒त-स्तो॒म॒स्य॒ । श॒स्तोक्थ॒स्येति॑ श॒स्त-उ॒क्थ॒स्य॒ । यः । भ॒क्षः । अ॒श्व॒सनि॒रित्य॑श्व-सनिः॑ । यः । गो॒सनि॒रिति॑ गो-सनिः॑ । तस्य॑ । ते॒ । पि॒तृभि॒रिति॑ पि॒तृ-भिः॒ । भ॒क्षङ्कृ॑त॒स्येति॑ भ॒क्षं-कृ॒त॒स्य॒ । उप॑हूत॒स्येत्युप॑-हू॒त॒स्य॒ । उप॑हूत॒ इत्युप॑-हू॒तः॒ । भ॒क्ष॒या॒मि॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

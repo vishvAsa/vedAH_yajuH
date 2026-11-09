@@ -9,7 +9,7 @@ title = "०१ दर्शपूर्णमासाङ्गभूतार�
 1दर्शपूर्णमासावारभमाणस्य द्वौ सारस्वतौ होमौ स्तः, तयोर्द्वे अनुवाक्ये द्वे याज्ये । तत्र प्रथमस्पानुवाक्या - पूर्णेति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -51,7 +51,7 @@ _________________
 2अथ द्वितीयस्य याज्या - यत्ते इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/30_yatte_devA.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/30_yatte_devA.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -98,7 +98,7 @@ ________________
 3अथ द्वितीयस्यानुवाक्या - निवेशनीति त्रिष्टुप् । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/29_niveshanI.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/29_niveshanI.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 

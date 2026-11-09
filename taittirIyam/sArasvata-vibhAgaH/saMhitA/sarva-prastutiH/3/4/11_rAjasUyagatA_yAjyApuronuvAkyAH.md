@@ -96,7 +96,7 @@ title = "११ राजसूयगता याज्यापुरोनु
 6तत्रैव याज्या - आ सत्येनेति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -111,10 +111,23 @@ title = "११ राजसूयगता याज्यापुरोनु
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md">
 
+<details><summary>Keith</summary>
+
+Coming with true light,  
+Placing the mortal and the immortal,  
+With golden car Savitr  
+The god advanceth gazing on the worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ स॒त्येन॒ रज॑सा॒ वर्त॑मानो निवे॒शय॑न्न॒मृत॒म्मर्त्य॑ञ्च ।   
 हि॒र॒ण्यये॑न सवि॒ता रथे॒ना दे॒वो या॑ति॒ भुव॑ना वि॒पश्य॑न् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । स॒त्येन॑ । रज॑सा । वर्त॑मानः । नि॒वे॒शय॒न्निति॑ नि-वे॒शय॑न् । अ॒मृत॑म् । मर्त्य॑म् । च॒ ॥ हि॒र॒ण्यये॑न । स॒वि॒ता । रथे॑न । एति॑ । दे॒वः । या॒ति॒ । भुव॑ना । वि॒पश्य॒न्निति॑ वि-पश्य॑न्न् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -124,7 +137,7 @@ title = "११ राजसूयगता याज्यापुरोनु
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/043/02_yathA_no.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/043/02_yathA_no.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -540,7 +553,7 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 15'मित्राय सत्यायाम्बानां चरुम्' इत्यस्य मैत्रस्य पुरोनुवाक्या - मित्रस्येति गायत्री ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -560,10 +573,22 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+The fame of Mitra, supporter of the people,  
+Of the god is eternal,  
+True, and most varied in fame.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒त्रस्य॑ चर्षणी॒धृत॒श्श्रवो॑ दे॒वस्य॑ सान॒सिम् ।  
 द्यु॒म्नञ्चि॒त्रश्र॑वस्तमम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मि॒त्रस्य॑ । च॒र्ष॒णी॒धृत॒ इति॑ चर्षणि-धृतः॑ । श्रवः॑ । दे॒वस्य॑ । सा॒न॒सिम् ॥ द्यु॒म्नम् । चि॒त्रश्र॑वस्तम॒मिति॑ चि॒त्रश्र॑वः-त॒म॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -586,7 +611,7 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 16तत्रैव याज्या - मित्र इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/mitro_janAn.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/mitro_janAn.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -601,10 +626,23 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/mitro_janAn.md">
 
+<details><summary>Keith</summary>
+
+Mitra stirreth men, the wise one,  
+Mitra supporteth earth and sky;  
+Mitra regardeth men with unwinking (eye);  
+To the true one, let us offer an oblation rich in ghee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒त्रो जना॑न्यातयति प्रजा॒नन्मि॒त्रो दा॑धार पृथि॒वीमु॒त द्याम् ।   
 मि॒त्रᳵ कृ॒ष्टीरनि॑मिषा॒भि च॑ष्टे स॒त्याय॑ ह॒व्यङ्घृ॒तव॑द्विधेम ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मि॒त्रः । जनान्॑ । या॒त॒य॒ति॒ । प्र॒जा॒नन्निति॑ प्र-जा॒नन् । मि॒त्रः । दा॒धा॒र॒ । पृ॒थि॒वीम् । उ॒त । द्याम् ॥ मि॒त्रः । कृ॒ष्टीः । अनि॑मि॒षेत्यनि॑-मि॒षा॒ । अ॒भीति॑ । च॒ष्टे॒ । स॒त्याय॑ । ह॒व्यम् । घृ॒तव॒दिति॑ घृ॒त-व॒त्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -625,7 +663,7 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 17अथ तत्रैव याज्या विकल्प्यते - प्र स मित्रेति त्रिष्टुप् । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/059/02_pra_sa.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/059/02_pra_sa.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1019,7 +1057,7 @@ Der Mensch, o Mitra, sei vor allen glücklich, der dir, Aditja, dient nach deine
 18'वरुणाय धर्मपतये यवमयं चरुम्' इत्यस्य पुरोनुवाक्या - यच्चिदिति गायत्री ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/01_yachchiddhi_te.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/01_yachchiddhi_te.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -1310,7 +1348,7 @@ Wie sehr wir auch, o Varuna, verletzen dein Gebot, o Gott, Nach Menschen Weise T
 19तत्रैव याज्या - 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/089/05_yatkiM_chedaM.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/089/05_yatkiM_chedaM.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -1655,7 +1693,7 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 20तत्रैव याज्याविकल्पः - कितवास इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/085/08_kitavAso_yadriripurna.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/085/08_kitavAso_yadriripurna.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 

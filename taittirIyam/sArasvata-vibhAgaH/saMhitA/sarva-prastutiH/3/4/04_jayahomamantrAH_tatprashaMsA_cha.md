@@ -23,9 +23,19 @@ title = "०४ जयहोममन्त्राः, तत्प्रश�
 बृह᳓च् च [स्वा᳓हा]।  रथन्तरं᳓ च [स्वा᳓हा]।
 </details>
 
+<details><summary>Keith</summary>
+
+Thought and thinking, intent and intention, known and knowledge, mind and power, the new and the full moon, the Brhat and the Rathantara.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चि॒त्तञ्च॒ चित्ति॒श्चाकू॑त॒ञ्चाकू॑तिश्च॒ विज्ञा॑तञ्च वि॒ज्ञान॑ञ्च॒ मन॑श्च॒ शक्व॑रीश्च॒ दर्श॑श्च पू॒र्णमा॑सश्च बृ॒हच्च॑ रथन्त॒रञ्च॑
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चि॒त्तम् । च॒ । चित्तिः॑ । च॒ । आकू॑त॒मित्या-कू॒त॒म् । च॒ । आकू॑ति॒रित्या-कू॒तिः॒ । च॒ । विज्ञा॑त॒मिति॒ वि-ज्ञा॒त॒म् । च॒ । वि॒ज्ञान॒मिति॑ वि-ज्ञान॑म् । च॒ । मनः॑ । च॒ । शक्व॑रीः । च॒ । दर्शः॑ । च॒ । पू॒र्णमा॑स॒ इति॑ पू॒र्ण-मा॒सः॒ । च॒ । बृ॒हत् । च॒ । र॒थ॒न्त॒रमिति॑ रथं-त॒रम् । च॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -58,7 +68,7 @@ title = "०४ जयहोममन्त्राः, तत्प्रश�
 प्र॒जाप॑ति॒र्जया॒निन्द्रा॑य॒ वृष्णे॒ प्राय॑च्छदु॒ग्रᳶ पृ॑त॒नाज्ये॑षु॒ तस्मै॒ विश॒स्सम॑नमन्त॒ सर्वा॒स्स उ॒ग्रस्स हि हव्यो॑ ब॒भूव॑  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -79,6 +89,14 @@ title = "०४ जयहोममन्त्राः, तत्प्रश�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Prajapati bestowed victories on Indra  
+The strong, he who is dread in battle contest,  
+To him all the people bowed in reverence,  
+For he waxed dread, worthy of offering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति॒र्जया॒निन्द्रा॑य॒ वृष्णे॒ प्राय॑च्छदु॒ग्रᳶ पृ॑त॒नाज्ये॑षु॒ तस्मै॒ विश॒स्सम॑नमन्त॒ सर्वा॒स्स उ॒ग्रस्स हि हव्यो॑ ब॒भूव॑
@@ -86,7 +104,7 @@ title = "०४ जयहोममन्त्राः, तत्प्रश�
 
 <details><summary>पद-पाठः</summary>
 
-प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । जयान्॑ । इन्द्रा॑य । वृष्णे॑ । प्रेति॑ । अ॒य॒च्छ॒त् । उ॒ग्रः । पृ॒त॒नाज्ये॑षु । तस्मै॑ । विशः॑ । समिति॑ । अ॒न॒म॒न्त॒ । सर्वाः॑ । सः । उ॒ग्रः । सः । हि । हव्यः॑ । ब॒भूव॑ । 3 ।
+प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । जयान्॑ । इन्द्रा॑य । वृष्णे॑ । प्रेति॑ । अ॒य॒च्छ॒त् । उ॒ग्रः । पृ॒त॒नाज्ये॑षु । तस्मै॑ । विशः॑ । समिति॑ । अ॒न॒म॒न्त॒ । सर्वाः॑ । सः । उ॒ग्रः । सः । हि । हव्यः॑ । ब॒भूव॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

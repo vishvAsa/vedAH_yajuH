@@ -133,7 +133,8 @@ title = "०३ विष्ण्वतिक्रमाः"
 4अथ शुक्रामन्थिनः - इन्द्रेणेति गायत्री ॥ इन्द्रेण सयुजः संयुक्ता वयं सासह्याम भृशमभिभवेम । यङन्ताद्व्यत्ययेन परस्मैपदम् । पृतन्यतः पृअतनां सङ्ग्राममस्माभिस्सह कर्तुमिच्छतः । क्यचि 'कव्यध्वरपृतनस्य' इति लोपः । घ्नन्तो वृत्राणि वारकाणि परबलानि पापानि वा । अप्रति अप्रतिबलं यथा भवति तथा । 'नञ्सुभ्याम् इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/5/03_viShNvatikramAH/yat_te_agne.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/5/03_viShNvatikramAH/yat_te_agne.md">
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यत्ते॑ अग्ने॒ तेज॒स्तेना॒हन्ते॑ज॒स्वी भू॑यासय्ँ॒यत्ते॑ अग्ने॒ वर्च॒स्तेना॒हव्ँव॑च॒स्वी भू॑यासय्ँ॒यत्ते॑ अग्ने॒ हर॒स्तेना॒हँ ह॑र॒स्वी भू॑यासम् ॥ [11]
@@ -144,9 +145,19 @@ title = "०३ विष्ण्वतिक्रमाः"
 य᳓त्ते अग्ने ते᳓जस् ते᳓नाह᳓न् तेजस्वी᳓ भूयासम्  ।
 </details>
 
+<details><summary>Keith</summary>
+
+With the brilliance that is thine, O Agni, may I become brilliant;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्ते॑ अग्ने॒ तेज॒स्तेना॒हन्ते॑ज॒स्वी भू॑यासम्  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । अ॒ग्ने॒ । तेजः॑ । तेन॑ । अ॒हम् । ते॒ज॒स्वी । भू॒या॒स॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -159,9 +170,19 @@ title = "०३ विष्ण्वतिक्रमाः"
 य᳓त्ते अग्ने व᳓र्चस् ते᳓नाहव्ँ᳓ वचस्वी᳓ भूयासम्  ।
 </details>
 
+<details><summary>Keith</summary>
+
+with the radiance that is thine, O Agni, may I become radiant;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्ते॑ अग्ने॒ वर्च॒स्तेना॒हव्ँव॑च॒स्वी भू॑यासम्  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । अ॒ग्ने॒ । वर्चः॑ । तेन॑ । अ॒हम् । व॒र्च॒स्वी । भू॒या॒स॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -174,9 +195,19 @@ title = "०३ विष्ण्वतिक्रमाः"
 य᳓त्ते अग्ने ह᳓रस् ते᳓नाहँ᳓ हरस्वी᳓ भूयासम् ॥
 </details>
 
+<details><summary>Keith</summary>
+
+with the splendour that is thine, O Agni, may I become resplendent.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्ते॑ अग्ने॒ हर॒स्तेना॒हँ ह॑र॒स्वी भू॑यासम् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । अ॒ग्ने॒ । हरः॑ । तेन॑ । अ॒हम् । ह॒र॒स्वी । भू॒या॒स॒म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -185,4 +216,5 @@ title = "०३ विष्ण्वतिक्रमाः"
 
 इति तृतीये पञ्चमे तृतीयोनुवाकः ॥
 </details>
+
 </div>

@@ -8,7 +8,7 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 1अथ प्रवृताहुती जुहोति - जुष्टो वाचः, ऋचा स्तोममिति द्वाभ्याम् । प्रथमाऽनुष्टुप् विषमपादा, द्वितीया गायत्री ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/02_juShTo_vAcho.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/02_juShTo_vAcho.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -24,10 +24,22 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/02_juShTo_vAcho.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+By Agni may one win wealth  
+And abundance day by day,  
+Glory, full of heroes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जुष्टो॑ वा॒चो भू॑यास॒ञ्जुष्टो॑ वा॒चस्पत॑ये॒ देवि॑ वाक् ।   
 यद्वा॒चो मधु॑म॒त्तस्मि॑न्मा धा॒स्स्वाहा॒ सर॑स्वत्यै ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जुष्टः॑ । वा॒चः । भू॒या॒स॒म्॒ । जुष्टः॑ । वा॒चः । पत॑ये । देवि॑ । वा॒क्॒ ॥ यत् । वा॒चः । मधु॑म॒दिति॒ मधु॑-म॒त्॒ । तस्मि॑न् । मा॒ । धाः॒ । स्वाहा॑ । सर॑स्वत्यै ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -38,7 +50,7 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/05_RchA_stomam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/05_RchA_stomam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -53,10 +65,23 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/05_RchA_stomam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Rich in cattle, in sheep, O Agni, in horses is the sacrifice;  
+With manly companions, ever unalterable;  
+Rich in food is this, O Asura, in offspring,  
+Enduring, wealth, deep based and rich in houses.  
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒चा स्तोमँ॒ सम॑र्धय गाय॒त्रेण॑ रथन्त॒रम् ।  
 बृ॒हद्गा॑य॒त्रव॑र्तनि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒चा । स्तोम॑म् । समिति॑ । अ॒र्ध॒य॒ । गा॒य॒त्रेण॑ । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् ॥ बृ॒हत् । गा॒य॒त्रव॑र्त॒नीति॑ गाय॒त्र-व॒र्त॒नि॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -73,7 +98,7 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 8द्रप्साननुमन्त्रयते - यस्ते इति तिसृभिस्त्रिष्टुभिः । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/09_yas_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/09_yas_te.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -89,10 +114,23 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/09_yas_te.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+The drop that falleth of them, that shoot,  
+Shaken by the arms, from the womb of the pressing-planks,  
+Or from the filter of the Adhvaryu,  
+Over it I say Hail! and offer it to Indra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्ते॑ द्र॒प्सस्स्कन्द॑ति॒ यस्ते॑ अँ॒शुर्बा॒हुच्यु॑तो धि॒षण॑योरु॒पस्था॑त् ।   
 अ॒ध्व॒र्योर्वा॒ परि॒ यस्ते॑ प॒वित्रा॒त्स्वाहा॑कृत॒मिन्द्रा॑य॒ तञ्जु॑होमि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । ते॒ । द्र॒प्सः । स्कन्द॑ति । यः । ते॒ । अँ॒शुः । बा॒हुच्यु॑त॒ इति॑ बा॒हु-च्यु॒तः॒ । धि॒षण॑योः । उ॒पस्था॒दित्यु॒प-स्था॒त्॒ ॥ अ॒ध्व॒र्योः । वा॒ । परीति॑ । यः । ते॒ । प॒वित्रा॑त् । स्वाहा॑कृत॒मिति॒ स्वाहा॑-कृ॒त॒म्॒ । इन्द्रा॑य । तम् । जु॒हो॒मि॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -103,7 +141,7 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/12_yo_draphso.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/12_yo_draphso.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -119,10 +157,20 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/12_yo_draphso.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Together for thee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो द्र॒प्सो अँ॒शुᳶ प॑ति॒तᳶ पृ॑थि॒व्याम्प॑रिवा॒पात् [32]  पु॒रो॒डाशा॑त्कर॒म्भात् ।   
 धा॒ना॒सो॒मान्म॒न्थिन॑ इन्द्र शु॒क्रात्स्वाहा॑कृत॒मिन्द्रा॑य॒ तञ्जु॑होमि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । द्र॒प्सः । अँ॒शुः । प॒ति॒तः । पृ॒थि॒व्याम् । प॒रि॒वा॒पादिति॑ परि-वा॒पात् । पु॒रो॒डाशा॑त् । क॒र॒म्भात् ॥ धा॒ना॒सो॒मादिति॑ धाना-सो॒मात् । म॒न्थिनः॑ । इ॒न्द्र॒ । शु॒क्रात् । स्वाहा॑कृत॒मिति॒ स्वाहा॑-कृ॒त॒म्॒ । इन्द्रा॑य । तम् । जु॒हो॒मि॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -141,7 +189,7 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/15_yas_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/15_yas_te.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -157,20 +205,27 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/15_yas_te.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Here Tvastr the first,  
+Of all forms, I call.  
+May he be ours only.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्ते॑ द्र॒प्सो मधु॑माँ इन्द्रि॒यावा॒न्त्स्वाहा॑कृत॒ᳶ पुन॑र॒प्येति॑ दे॒वान् ।   
 दि॒वᳶ पृ॑थि॒व्याᳶ पर्य॒न्तरि॑क्षा॒त्स्वाहा॑कृत॒मिन्द्रा॑य॒ तञ्जु॑होमि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यः । ते॒ । द्र॒प्सः । मधु॑मा॒निति॒ मधु॑-मा॒न्॒ । इ॒न्द्रि॒यावा॒निती॑न्द्रि॒य-वा॒न्॒ । स्वाहा॑कृत॒ इति॒ स्वाहा॑-कृ॒तः॒ । पुनः॑ । अ॒प्येतीत्य॑पि-एति॑ । दे॒वान् ॥ दि॒वः । पृ॒थि॒व्याः । परीति॑ । अ॒न्तरि॑क्षात् । स्वाहा॑कृत॒मिति॒ स्वाहा॑-कृ॒त॒म्॒ । इन्द्रा॑य । तम् । जु॒हो॒मि॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5अथ तृतीया - यस्ते इति ॥ हे सोम यस्ते द्रप्सो मधुमान् मधुररसवान् इन्द्रियावान् वीर्यवांश्च भूत्वा स्वाहाकृतः पुनर्देवानप्येति गच्छति । दिवो वा पृथिव्या वा अन्तरिक्षाद्वा यत्र यत्र स्कन्नः ततस्सर्वस्मादागत्य पुनरपि देवान्प्राप्नोति मम स्वाहाकारेण तमहमिन्द्राय स्वाहाकृतं कृत्वा जुहोमि साऽपि तथा करोत्विति । 'मन्त्रे सोमाश्व' इतीन्द्रियशब्दस्य दीर्घत्वम् । 'ऊडिदम्' इति दिवो विभक्तिरुदात्ता । 'उदात्तयणः' इति पृथिव्याः ॥
-</details>
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-अ॒ध्व॒र्युर्वा ऋ॒त्विजा॑म्प्रथ॒मो यु॑ज्यते॒ तेन॒ स्तोमो॑ योक्त॒व्य॑ इत्या॑हु॒र्वाग॑ग्रे॒गा अग्र॑ एत्वृजु॒गा दे॒वेभ्यो॒ यशो॒ मयि॒ दध॑ती प्रा॒णान्प॒शुषु॑ प्र॒जाम्मयि॑ [33]  च॒ यज॑माने॒ चेत्या॑ह॒ वाच॑मे॒व तद्य॑ज्ञमु॒खे यु॑नक्ति॒ वास्तु॒ वा ए॒तद्य॒ज्ञस्य॑ क्रियते॒ यद्ग्रहा॑न्गृही॒त्वा ब॑हिष्पवमा॒नँ सर्प॑न्ति
 </details>
 </details>
 
@@ -291,7 +346,7 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 वैष्णव्येत्यादि । पुनरेत्यागत्य वैष्णव्यर्चा वक्ष्यमाणया अनुष्टुभा राजानमुपतिष्ठते - तस्मादनेनोपस्थानेन **यज्ञमेवाकः** करोति । करोतेः छान्दसे लुङि 'मन्त्रे घस' इति च्लेर्लुक् । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -307,10 +362,20 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+O Visnu, as our nearest, O mighty one, grant us protection; the streams dripping honey milk for thee the unfailing source.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विष्णो॒ त्वन्नो॒ अन्त॑म॒श्शर्म॑ यच्छ सहन्त्य ।   
 प्र ते॒ धारा॑ मधु॒श्चुत॒ उत्स॑न्दुह्रते॒ अक्षि॑तम्॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विष्णो॒ इति॑ । त्वम् । नः॒ । अन्त॑मः । शर्म॑ । य॒च्छ॒ । स॒ह॒न्त्य॒ ॥ प्रेति॑ । ते॒ । धाराः॑ । म॒धु॒श्चुत॒ इति॑ मधु-श्चुतः॑ । उत्स॑म् । दु॒ह्र॒ते॒ । अक्षि॑तम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

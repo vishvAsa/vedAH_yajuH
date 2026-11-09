@@ -22,7 +22,7 @@ title = "११ याज्यापुरोनुवाक्याः"
 इत्यस्य पुरोनुवाक्या - इदं वामिति गायत्री ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/049/01_idaM_vAmAsye.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/049/01_idaM_vAmAsye.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -303,7 +303,7 @@ Hier steht der liebe Opfertrank vor euch, Indra-Brihaspati, Verkündet wird euch
 2अथ तत्रैव पुरोनुवाक्या विकल्प्यते - अयं वामिति गायत्री ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/049/02_ayaM_vAM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/049/02_ayaM_vAM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -567,7 +567,7 @@ Euch wird, Indra-Brihaspati, ergossen dieser Somasaft, Der schön zum Trunk und 
 3पुनश्च विकल्पः - अस्मे इति गायत्री ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/049/04_asme_indrAbRhaspatI.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/049/04_asme_indrAbRhaspatI.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -812,7 +812,7 @@ O gebt, Indra-Brihaspati, den Reichthum uns, der hundertfach, An Rossen reich is
 4अथ याज्या - बृहस्पतिर्न इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/042/11_bRhaspatirnaH_pari.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/042/11_bRhaspatirnaH_pari.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1149,7 +1149,7 @@ Brihaspati beschütze uns von Westen von Norden und von Süden vor dem Frevler, 
 5'मेध्या च वा एतस्यामेध्या च तनुवौ संसृज्येते । यस्याहिताग्नेरन्यैरग्निभिरग्नयस्संसृज्यन्ते । अग्नये विविचये पुरोडाशमष्टाकपालं निर्वपेत्' इत्यस्य पुरोनुवाक्या - वि ते इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/006/03_vi_te.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/006/03_vi_te.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1518,7 +1518,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 6अथ याज्या - त्वामग्ने मानुषीरिति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/07_tvAm_agne.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/07_tvAm_agne.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1534,11 +1534,24 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/07_tvAm_agne.md">
 
 <details><summary><h5>सर्वाष्टीकाः …{Loading}…</h5></summary>
+<details><summary>Keith</summary>
+
+Thee, O Agni, the tribes of men praise,  
+Who knowest the Hotr's duty, discerning, best bestower of jewels,  
+Who art in secret yet, O happy one, seen by all,  
+Of impetuous spirit, a good sacrificer, brilliant with ghee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वाम॑ग्ने॒ मानु॑षीरीडते॒ विशो॑ होत्रा॒विदव्ँ॒विवि॑चिँ रत्न॒धात॑मम् ।  
 
 गुहा॒ सन्तँ॑ सुभग वि॒श्वद॑र्शतन्तुविष्म॒णसँ॑ सु॒यज॑ङ्घृत॒श्रिय॑म् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वाम् । अ॒ग्ने॒ । मानु॑षीः । ई॒ड॒ते॒ । विशः॑ । हो॒त्रा॒विद॒मिति॑ होत्रा-विद॑म् । विवि॑चि॒मिति॒ वि-वि॒चि॒म्॒ । र॒त्न॒धात॑म॒मिति॑ रत्न-धात॑मम् ॥ गुहा॑ । सन्त॑म् । सु॒भ॒गेति॑ सु-भ॒ग॒ । वि॒श्वद॑र्शत॒मिति॑ वि॒श्व-द॒र्श॒त॒म्॒ । तु॒वि॒ष्म॒णस॑म् । सु॒यज॒मिति॑ सु-यज॑म् । घृ॒त॒श्रिय॒मिति॑ घृत-श्रिय॑म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1558,7 +1571,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 
 ## धाता
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/01_dhAtA_dadAtu.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/01_dhAtA_dadAtu.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -1603,7 +1616,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 8याज्या - धाता प्रजाया इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/02_dhAtA_prajAyA.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/02_dhAtA_prajAyA.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -1645,7 +1658,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 9तत्रैव याज्यानुवाक्ये विकल्प्येते - धातेत्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/03_dhAtA_dadAtu.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/03_dhAtA_dadAtu.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -1687,7 +1700,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 10याज्या - धातेति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/04_dhAtA_dadAtu.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/04_dhAtA_dadAtu.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -1731,7 +1744,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 11अनुमतेः पुरोनुवाक्या - अनु न इत्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/19_anu_no-dyAnumatir.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/19_anu_no-dyAnumatir.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1761,6 +1774,11 @@ A joy to the giver.
 अ॒ग्निश्च॑ हव्य॒वाह॑नो॒ भव॑तान्दा॒शुषे॒ मयः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अन्विति॑ । नः॒ । अ॒द्य । अनु॑मति॒रित्यनु॑-म॒तिः॒ । य॒ज्ञम् । दे॒वेषु॑ । म॒न्य॒ता॒म्॒ ॥ अ॒ग्निः । च॒ । ह॒व्य॒वाह॑न॒ इति॑ हव्य-वाह॑नः । भव॑ताम् । दा॒शुषे॑ । मयः॑ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 नोस्माकम् इमं यज्ञं  
@@ -1779,7 +1797,7 @@ A joy to the giver.
 12याज्या - अन्वित्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1809,6 +1827,11 @@ Lengthen our days for us.
 क्रत्वे॒ दक्षा॑य नो हिनु॒ प्र ण॒ आयूँ॑षि तारिषः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अन्विति॑ । इत् । अ॒नु॒म॒त॒ इत्य॑नु-म॒ते॒ । त्वम् । मन्या॑सै । शम् । च॒ । नः॒ । कृ॒धि॒ ॥ क्रत्वे॑ । दक्षा॑य । नः॒ । हि॒नु॒ । प्रेति॑ । नः॒ । आयूँ॑षि । ता॒रि॒षः॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अनुमते त्वं मन्यासै अनुमन्यस्व लोटि 'वैतोन्यत्र' इत्यैकारः । किंच - नोस्माकं शं सुखं च कृधि कुरु । करोतेर्लोटि शपो लुक्, 'श्रुशृणुकृवृभ्यः' इति धिभावः । किं पुनरनुमन्तव्यमित्याह - क्रत्वे क्रतवे यागाय प्रत्ययाय वा दक्षाय समर्थाय शीघ्रकरणाय क्रत्वर्थं वा यद्दक्षमन्नं तदर्थं नः अस्मान् **हिनु** प्रेरय । 'जसादिषु वा वचनम् प्राङ्णौ चङ्युपधायाः' इति दीर्घं ङितीति गुणो न प्रवर्तते । तदर्थं चास्माकं आयूंषि प्रतारिषः प्रवर्तय । तरतेर्ण्यान्ताल्लेटि 'सिब्बहुलं लेटि' इति सिप् 'लेटोडाटौ' इत्यडागमः, 'उपसर्गाद्बहुलम्' इति नसो णत्वम् ॥
@@ -1822,7 +1845,7 @@ Lengthen our days for us.
 13अथ विकल्पार्थे अनुमन्यतामिति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/29_anu_manyatAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/29_anu_manyatAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1852,6 +1875,11 @@ May the goddess easy to invoke grant us protection.
 तस्यै॑ व॒यँ हेड॑सि॒ मापि॑ भूम॒ सा नो॑ दे॒वी सु॒हवा॒ शर्म॑ यच्छतु ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अन्विति॑ । म॒न्य॒ता॒म्॒ । अ॒नु॒मन्य॑मा॒नेत्य॑नु-मन्य॑माना । प्र॒जाव॑न्त॒मिति॑ प्र॒जा-व॒न्त॒म्॒ । र॒यिम् । अक्षी॑यमाणम् ॥ तस्यै॑ । व॒यम् । हेड॑सि । मा । अपीति॑ । भू॒म॒ । सा । नः॒ । दे॒वी । सु॒हवेति॑ सु-हवा॑ । शर्म॑ । य॒च्छ॒तु॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अनुमन्यमाना अनुमतिर्देवी संगत्या रयिमनुमन्यताम् । कीदृशम्? प्रजावन्तं प्रजायुक्तं अक्षीयमाणं च । किंच - तस्यै तस्या अनुमतिदेव्याः **हेडसि** क्रोधे **ऽपि मा भूम**, किन्तु अनुग्रह एव भूयास्म । सा च देवी नोस्मभ्यं शर्म सुखं यच्छतु ददातु सुहवा स्वाह्वाना । 'बहुलं छन्दसि' इति प्रागेव प्रत्ययोत्पत्तेस्संप्रसारणे कृते आकारान्तत्वाभावात्तलेव प्रवर्तते ॥
@@ -1865,7 +1893,7 @@ May the goddess easy to invoke grant us protection.
 14[याज्या]यस्यामिति जगती ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/34_yasyAm_idam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/34_yasyAm_idam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1895,6 +1923,11 @@ The goddess, easy to invoke, grant us protection [4].
 यस्या॑ उ॒पस्थ॑ उ॒र्व॑न्तरि॑क्षँ॒ सा नो॑ दे॒वी सु॒हवा॒ शर्म॑ यच्छतु ॥ [35]
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यस्या॑म् । इ॒दम् । प्र॒दिशीति॑ प्र-दिशि॑ । यत् । वि॒रोच॑त॒ इति॑ वि-रोच॑ते । अनु॑मति॒मित्यनु॑-म॒ति॒म्॒ । प्रतीति॑ । भू॒ष॒न्ति॒ । आ॒यवः॑ ॥ यस्याः॑ । उ॒पस्थ॒ इत्यु॒प-स्थः॒ । उ॒रु । अ॒न्तरि॑क्षम् । सा । नः॒ । दे॒वी । सु॒हवेति॑ सु-हवा॑ । शर्म॑ । य॒च्छ॒तु॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यस्यां देव्यां [**प्रदिशि** प्रकर्षेण दिशन्त्याम् आज्ञापयन्त्यां] **यद् विरोचते** विविधं भासते  
@@ -1913,7 +1946,7 @@ The goddess, easy to invoke, grant us protection [4].
 15राकायाः पुरोनुवाक्या - राकामिति जगती ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/032/04_rAkAmahaM_suhavAM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/032/04_rAkAmahaM_suhavAM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2294,7 +2327,7 @@ Die gern erhört, die Rākā ruf' ich mit Gesang, es höre uns die reiche und be
 16याज्या - यास्ते इति जगती ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/032/05_yAste_rAke.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/032/05_yAste_rAke.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2651,7 +2684,7 @@ Mit reichen Gaben, die dir, Rākā, eigen sind, durch die du Güter dem Verehren
 सिनी॑वालि॒ या, सु॑पा॒णिः ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/032/06_sinIvAli_pRthuShTuke.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/032/06_sinIvAli_pRthuShTuke.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2974,7 +3007,7 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 19कुह्वाः पुरोनुवाक्या - कुहूमहमिति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/48_kuhUm_aham.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/48_kuhUm_aham.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -2990,10 +3023,23 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/48_kuhUm_aham.md">
 
 <details><summary><h5>सर्वाष्टीकाः …{Loading}…</h5></summary>
+<details><summary>Keith</summary>
+
+I invoke at the sacrifice Kuhu the fortunate,  
+Who accomplisheth her work, the easy to invoke;  
+May she give us the fame of our fathers;  
+To thee, O goddess, let us offer with oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कु॒हूम॒हँ सु॒भगाव्ँ॑ विद्म॒नाप॑सम॒स्मिन्य॒ज्ञे सु॒हवा॑ञ्जोहवीमि ।  
 सा नो॑ ददातु॒ श्रव॑णम्पितृ॒णान्तस्या॑स्ते देवि ह॒विषा॑ विधेम ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कु॒हूम् । अ॒हम् । सु॒भगा॒मिति॑ सु-भगा॑म् । वि॒द्म॒नाप॑स॒मिति॑ विद्म॒न-अ॒प॒स॒म्॒ । अ॒स्मिन् । य॒ज्ञे । सु॒हवा॒मिति॑ सु-हवा॑म् । जो॒ह॒वी॒मि॒ ॥ सा । नः॒ । द॒दा॒तु॒ । श्रव॑णम् । पि॒तृ॒णाम् । तस्याः॑ । ते॒ । दे॒वि॒ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -3009,7 +3055,7 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 20याज्या - कुहूरिति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/52_kuhUr_devAnAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/52_kuhUr_devAnAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3025,10 +3071,23 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/52_kuhUr_devAnAm.md">
 
 <details><summary><h5>सर्वाष्टीकाः …{Loading}…</h5></summary>
+<details><summary>Keith</summary>
+
+Kuhu, lady of the gods and of immortality,  
+Worthy of invocation, may she be aware of the oblation  
+To the giver may she assign much good fortune,  
+To the wise may she grant increase of wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कु॒हूर्दे॒वाना॑म॒मृत॑स्य॒ पत्नी॒ हव्या॑ नो अ॒स्य ह॒विष॑श्चिकेतु ।   
 सन्दा॒शुषे॑ कि॒रतु॒ भूरि॑ वा॒मँ रा॒यस्पोष॑ञ्चिकि॒तुषे॑ दधातु ॥ [36]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कु॒हूः । दे॒वाना॑म् । अ॒मृत॑स्य । पत्नी॑ । हव्या॑ । नः॒ । अ॒स्य । ह॒विषः॑ । चि॒के॒तु॒ ॥ समिति॑ । दा॒शुषे॑ । कि॒रतु॑ । भूरि॑ । वा॒मम् । रा॒यः । पोष॑म् । चि॒कि॒तुषे॑ । द॒धा॒तु॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

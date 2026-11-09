@@ -309,7 +309,7 @@ title = "११ चित्रादियाज्यापुरोनुव�
 16अथ तत्रैव याज्या - या सुपाणिरित्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/11_chitrAdiyAjyApuronuvAkyAH/47_yA_supANis.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/11_chitrAdiyAjyApuronuvAkyAH/47_yA_supANis.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -325,10 +325,23 @@ title = "११ चित्रादियाज्यापुरोनुव�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/11_chitrAdiyAjyApuronuvAkyAH/47_yA_supANis.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+To her that hath fair hands, fair fingers,  
+Prolific, and mother of many,  
+To her the queen Sinivali,  
+Pour the offering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 या सु॑पा॒णिस्स्व॑ङ्गु॒रिस्सु॒षूमा॑ बहु॒सूव॑री ।   
 तस्यै॑ वि॒श्पत्नि॑यै ह॒विस्सि॑नीवा॒ल्यै जु॑होतन ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+या । सु॒पा॒णिरिति॑ सु-पा॒णिः । स्व॒ङ्गुरिरिति॑ सु-अ॒ङ्गु॒रिः । सु॒षूमेति॑ सु-सूमा॑ । ब॒हु॒सूव॒रीति॑ बहु-सूव॑री ॥ तस्यै॑ । वि॒श्पत्नि॑यै । ह॒विः । सि॒नी॒वा॒ल्यै । जु॒हो॒त॒न॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -678,7 +691,7 @@ ___________________
 33अथोपहोमार्थाः तिस्रो गायत्र्यः - और्वभृगुवदित्याद्याः तत्र ॥ प्रथमा । 'शुचिम्' इति प्रथमपादान्तः । और्वाप्नवानौ भार्गवावृषी । यथोक्तं भृगूणां पञ्चार्षेयप्रवरे - 'जमदग्निवदौर्ववदप्नवानवच्च्यवनवद्भृगुवत्' इति । और्वश्चासौ भृगुश्च और्वभृगुः । भृगुरिति भार्गवोऽभेदेनोच्यते । यथा और्वो भार्गवोग्निमाह्वयत् यथा चाप्नवानोग्निं तद्वदहमपि अग्निं शुचिं समुद्रवाससं आह्वये आह्वयामि आजुहोमि वा । शपो लुक् । समुद्रे वासो यस्य स समुद्रवासाः । अन्तरिक्षे वसतीति के चित् । अपामाच्छादयितेत्यन्ये ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/102/06_A_savaM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/102/06_A_savaM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 

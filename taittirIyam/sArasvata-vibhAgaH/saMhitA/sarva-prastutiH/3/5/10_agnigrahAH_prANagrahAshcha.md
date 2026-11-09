@@ -26,7 +26,8 @@ title = "१० अग्निग्रहाः प्राणग्रहा
 उ॒प॒या॒मगृ॑हीतोऽसि प्र॒जाप॑तये त्वा॒ जुष्ट॑ङ्गृह्णाम्ये॒ष ते॒ योनिᳶ॑ प्र॒जाप॑तये त्वा  ।   
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -42,6 +43,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -52,9 +58,11 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/prajApataye_tvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/prajApataye_tvA.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतये त्वा जु᳓ष्टङ्गृह्णामि ।
@@ -68,6 +76,11 @@ agreeable to Prajapati I take thee
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तये त्वा॒ जुष्ट॑ङ्गृह्णामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑तय॒ इति॑ प्र॒जा-प॒त॒ये॒ । त्वा॒ । जुष्ट॑म् । गृ॒ह्णा॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -99,10 +112,16 @@ this is thy birthplace; to Prajapati thee!
 ए॒ष ते॒ योनि॑ᳶ प्र॒जाप॑तये त्वा ॥ [46]
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । प्र॒जाप॑तय॒ इति॑ प्र॒जा-प॒त॒ये॒ । त्वा॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

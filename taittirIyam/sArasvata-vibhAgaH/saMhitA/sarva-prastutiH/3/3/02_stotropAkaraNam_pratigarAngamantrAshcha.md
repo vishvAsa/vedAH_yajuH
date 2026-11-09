@@ -109,7 +109,8 @@ All this the Adhvaryu, as he begins, begins for the Udgatrs;
 यस्मादेवमाह, तस्मादेतत्सर्वं हिंकर्त्रादीनि सर्वाण्यपि आत्मन् धत्ते आत्मनि स्थापयति स्वयमेव हिंकर्तादिना प्रतिपद्यते । 'सुपां सुलुक्' इति सप्तम्याः लुकि 'न ङिसम्बुध्योः' इति नलोपाभावः ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/iDA_devahUH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/iDA_devahUH.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3आर्त्विज्यं वा करिष्यन् शस्त्रं वा प्रतिगरिष्यन् जपति - इडेति ॥ 
@@ -140,6 +141,11 @@ The All-gods [1] are reciters of the hymns.
 इडा॑ देव॒हूर्, मनु॑र्यज्ञ॒नीर्, बृह॒स्पति॑रुक्थाम॒दानि॑ शँसिष॒द् , विश्वे॑ दे॒वास्सू॑क्त॒वाचः॑  ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इडा॑ । दे॒व॒हूरिति॑ देव-हूः । मनुः॑ । य॒ज्ञ॒नीरिति॑ यज्ञ-नीः । बृह॒स्पतिः॑ । उ॒क्था॒म॒दानीत्यु॑क्थ-म॒दानि॑ । शँ॒सि॒ष॒त् । विश्वे॑ । दे॒वाः । सू॒क्त॒वाच॒ इति॑ सूक्त-वाचः॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इडा देवी गौर् वा प्रष्टिर्वा,  
@@ -167,13 +173,20 @@ O earth mother, do not harm me.
 पृथि॑वि मात॒र्मा मा॑ हिँसीः ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पृथि॑वि । मा॒तः॒ । मा । मा॒ । हिँ॒सीः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मात् हे पृथिवि मातः सर्वस्य रक्षिके मा मा हिंसीः ।
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓धु **मनिष्ये** ।  
@@ -193,6 +206,11 @@ Of honey shall I think, honey shall I produce, honey shall I proclaim, honey sha
 मधु॑ जनिष्ये ।  
 मधु॑ वक्ष्यामि ।  
 मधु॑ वदिष्यामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मधु॑ । म॒नि॒ष्ये॒ । मधु॑ । ज॒नि॒ष्ये॒ । मधु॑ । व॒क्ष्या॒मि॒ । मधु॑ । व॒दि॒ष्या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -215,6 +233,11 @@ may I utter speech full of honey for the gods, and acceptable to men.
 
 मधु॑मतीन्दे॒वेभ्यो॒ वाच॑मुद्यासँ
 शुश्रू॒षेण्या॑म्मनु॒ष्ये॑भ्यः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मधु॑मती॒मिति॒ मधु॑-म॒ती॒म् । दे॒वेभ्यः॑ । वाच॑म् । उ॒द्या॒स॒म् । शु॒श्रू॒षेण्या॑म् । म॒नु॒ष्ये॑भ्यः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -241,10 +264,16 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 पि॒तरोऽनु॑ मदन्तु ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तम् । मा॒ । दे॒वाः । अ॒व॒न्तु॒ । शो॒भायै॑ । पि॒तरः॑ । अन्विति॑ । म॒द॒न्तु॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तं मामेवंगुणं देवा अवन्तु रक्षन्तु शोभायै यथा मया कृतं शोभते तथा अनुमदन्तु अनुमोदन्तां, उत्कृष्टत्वेन समीचीनं करोतीति शोभार्थं पितरश्च अनुमोदन्तु । माद्यतेर्व्यत्ययेन शप् ॥
 
 इति तृतीये तृतीये द्वितीयोनुवाकः ॥
 </details>
+
 </div>

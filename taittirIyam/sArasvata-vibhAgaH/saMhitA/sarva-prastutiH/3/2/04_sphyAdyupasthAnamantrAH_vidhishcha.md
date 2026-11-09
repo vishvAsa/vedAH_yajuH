@@ -420,7 +420,8 @@ title = "०४ स्फ्याद्युपस्थानमन्त्�
 20सदः प्रपद्यते - नम इति ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
@@ -435,6 +436,11 @@ title = "०४ स्फ्याद्युपस्थानमन्त्�
 न᳓मᳶ पृथिव्यै᳓॥
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the friends who go before, homage to sky, homage to earth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॒स्सद॑से  
@@ -444,10 +450,16 @@ title = "०४ स्फ्याद्युपस्थानमन्त्�
 नमᳶ॑ पृथि॒व्यै
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । सद॑से । नमः॑ । सद॑सः । पत॑ये । नमः॑ । सखी॑नाम् । पु॒रो॒गाणा॒मिति॑ पुरः-गाना॑म् । चक्षु॑षे । नमः॑ । दि॒वे । नमः॑ । पृ॒थि॒व्यै ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
