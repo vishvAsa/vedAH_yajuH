@@ -27,7 +27,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/02_ud_AyuShA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/02_ud_AyuShA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -282,7 +282,7 @@ ________
 5सोमम् उपतिष्ठते - अस्तभ्नादिति त्रिष्टुभा ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -366,7 +366,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/03_vaneShu_vyantarikhShan.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/03_vaneShu_vyantarikhShan.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -405,8 +405,7 @@ The sun in the sky, the Soma on the hill.
 
 <details><summary>पद-पाठः</summary>
 
-वने॑षु । वीति॑ । अ॒न्तरि॑क्षम् । त॒ता॒न॒ । वाज॑म् । अर्व॒त्स्वित्यर्व॑त्-सु॒ । पयः॑ । अ॒घ्नि॒यासु॑ । हृ॒त्स्विति॑ हृत्-सु । [15]  
-क्रतु॑म् । वरु॑णः । वि॒क्षु । अ॒ग्निम् । दि॒वि । सूर्य॑म् । अ॒द॒धा॒त् । सोम॑म् । अद्रौ॑ । 
+वने॑षु । वीति॑ । अ॒न्तरि॑क्षम् । त॒ता॒न॒ । वाज॑म् । अर्व॒त्स्वित्यर्व॑त्-सु॒ । पयः॑ । अ॒घ्नि॒यासु॑ । हृ॒त्स्विति॑ हृत्-सु । क्रतु॑म् । वरु॑णः । वि॒क्षु । अ॒ग्निम् । दि॒वि । सूर्य॑म् । अ॒द॒धा॒त् । सोम॑म् । अद्रौ॑ । 
 
 </details>
 
@@ -458,7 +457,7 @@ ________
 **उद् उ त्यमिति।**
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -965,7 +964,7 @@ Varuna's noose is tied.
 
 <details><summary>पद-पाठः</summary>
 
-प्रत्य॑स्त॒ इति॒ प्रति॑-अ॒स्तः॒ । वरु॑णस्य । पाशः॑ ॥ [16]  
+प्रत्य॑स्त॒ इति॒ प्रति॑-अ॒स्तः॒ । वरु॑णस्य । पाशः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

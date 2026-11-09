@@ -19,7 +19,7 @@ _______
 ह॒विष्म॑तीरि॒मा आपो॑ ह॒विष्मा॑न्दे॒वो अ॑ध्व॒रो ह॒विष्माँ॒ आ वि॑वासति ह॒विष्माँ॑ अस्तु॒ सूर्यः॑ ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -57,7 +57,7 @@ Rich in oblation be the sun.
 <details><summary>पद-पाठः</summary>
 
 ह॒विष्म॑तीः । इ॒माः । आपः॑ । ह॒विष्मा॑न् । दे॒वः । अ॒ध्व॒रः ।   
-ह॒विष्मा॑न् । एति॑ । वि॒वा॒स॒ति॒ । ह॒विष्मा॑न् । अ॒स्तु॒ । सूर्यः॑ ॥ 2B । 
+ह॒विष्मा॑न् । एति॑ । वि॒वा॒स॒ति॒ । ह॒विष्मा॑न् । अ॒स्तु॒ । सूर्यः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -237,7 +237,7 @@ Be watchful over the sacrifice.
 
 <details><summary>पद-पाठः</summary>
 
-य॒ज्ञे । जा॒गृ॒त॒ ॥ [21]
+य॒ज्ञे । जा॒गृ॒त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -317,6 +317,16 @@ _______
 To the waters thee!
 </details>
 
+<details><summary>मूलम्</summary>
+
+अ॒द्भ्यः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒द्भ्य इत्य॑त्-भ्यः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वौ᳓षधीभ्यः +++(निमार्ज्मि)+++।
@@ -325,6 +335,16 @@ To the waters thee!
 <details><summary>Keith</summary>
 
 To the plants thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्वौष॑धीभ्यः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वा॒ । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -339,22 +359,29 @@ Give me mind and heart!
 
 <details><summary>मूलम्</summary>
 
-अ॒द्भ्यस्त्वौष॑धीभ्यः।  
 मनो॑ मे॒ हार्दि॑ यच्छ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
-
-अ॒द्भ्य इत्य॑त्-भ्यः । त्वा॒ । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । 
 
 मनः॑ । मे॒ । हार्दि॑ । य॒च्छ॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-12बर्हिषि हस्तौ निमार्ष्टि - अद्भ्यस्त्वेति ॥ हस्तगतो गुदावदानलेपः उच्यते । अपामोषधीनां च सिद्धिर् यजमानस्य स्यादिति त्वां निमार्ज्मीति शेषः । बार्हिष्युदकेन शोधयामीत्यर्थः । उक्तस्वरौ चैतौ । 
+12बर्हिषि हस्तौ निमार्ष्टि - अद्भ्यस्त्वेति ॥ हस्तगतो गुदावदानलेपः उच्यते ।
 
-स त्वं मे **हार्दि** हर्षवन् **मनो यच्छ** देहि मदीयं मनो हृष्टं कुर्व्विति यावत् । हृदि भवो हार्दः हृदयविकारः प्रार्थनीयः, स च हर्षः प्रसादो वा, सोस्यास्तीति हार्दि । 'हृदयस्य हृल्लेखयदणलासेषु' इति हृद्भावः, वृषादित्वादाद्युदात्तत्वं द्रष्टव्यम् । 'प्राणानां वा एषोऽवद्यति योऽवद्यति गुदस्य मनो मे' इत्यादि ब्राह्मणम् ॥
+अपामोषधीनां च सिद्धिर् यजमानस्य स्यादिति त्वां निमार्ज्मीति शेषः ।
+
+बार्हिष्युदकेन शोधयामीत्यर्थः । उक्तस्वरौ चैतौ ।
+
+स त्वं मे **हार्दि** हर्षवन् **मनो यच्छ** देहि मदीयं मनो हृष्टं कुर्व्विति यावत् ।
+
+हृदि भवो हार्दः हृदयविकारः प्रार्थनीयः, स च हर्षः प्रसादो वा, सोस्यास्तीति हार्दि ।
+
+'हृदयस्य हृल्लेखयदणलासेषु' इति हृद्भावः, वृषादित्वादाद्युदात्तत्वं द्रष्टव्यम् ।
+
+'प्राणानां वा एषोऽवद्यति योऽवद्यति गुदस्य मनो मे' इत्यादि ब्राह्मणम् ॥
 </details>
 
 _______
@@ -445,7 +472,7 @@ _______
 धाम्नो॑धाम्नो राजन्नि॒तो व॑रुण नो मुञ्च॒ यदापो॒ अघ्नि॑या॒ वरु॒णेति॒ शपा॑महे॒ ततो॑ वरुण नो मुञ्च ॥ [20]
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam/02_dhAmnodhAmno_rAjann.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam/02_dhAmnodhAmno_rAjann.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -484,7 +511,7 @@ From whatever oath by the waters, by the kine, by Varuna, we have sworn, From th
 <details><summary>पद-पाठः</summary>
 
 धाम्नो॑धाम्न॒ इति॒ धाम्नः॑-धा॒म्नः॒ । रा॒ज॒न् । इ॒तः । व॒रु॒ण॒ । नः॒ । मु॒ञ्च॒ ।  
-यत् । आपः॑ । अघ्नि॑याः । वरु॑ण । इति॑ । शपा॑महे । ततः॑ । व॒रु॒ण॒ । नः॒ । मु॒ञ्च॒ ॥ [20]
+यत् । आपः॑ । अघ्नि॑याः । वरु॑ण । इति॑ । शपा॑महे । ततः॑ । व॒रु॒ण॒ । नः॒ । मु॒ञ्च॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

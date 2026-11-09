@@ -72,7 +72,7 @@ Ye are winds, ye are approachers.
 
 <details><summary>पद-पाठः</summary>
 
-वायवः । स्थ । उपायव इत्युप-आयवः । स्थ । 3C ।
+वायवः । स्थ । उपायव इत्युप-आयवः । स्थ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -87,7 +87,7 @@ ____
 3गोचराय गाः प्रस्थापयति - देवो व इत्यादिभिस्तिसृभिः ऋग्भिः । तत्र प्रथमया सवितारमभ्यर्थयते । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/14_devo_vas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/14_devo_vas.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -113,7 +113,7 @@ Let the god Savitr impel you to the most excellent offering.
 
 <details><summary>पद-पाठः</summary>
 
-देवः । वः । सविता । प्रेति । अर्पयतु । श्रेष्ठतमायेति श्रेष्ठ-तमाय । कर्मणे । 4D ।
+देवः । वः । सविता । प्रेति । अर्पयतु । श्रेष्ठतमायेति श्रेष्ठ-तमाय । कर्मणे ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -131,7 +131,7 @@ ____
 4अथ प्रस्थाप्यमाना गा एव प्रार्थयते द्वितीयया। 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/19_A_pyAyadhvam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/19_A_pyAyadhvam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -165,8 +165,7 @@ Let no thief, no evil worker, have control over you.
 
 <details><summary>पद-पाठः</summary>
 
-एति । प्यायध्वम् । अघ्नियाः । देवभागमिति देव-भागम् । ऊर्जस्वतीः । पयस्वतीः । प्रजावतीरिति प्रजा-वतीः । अनमीवाः । अयक्ष्माः । 5E ।  
-मा । वः । स्तेनः । ईशत । मा । अघशँस इत्यघ-शँसः । 6F ।
+एति । प्यायध्वम् । अघ्नियाः । देवभागमिति देव-भागम् । ऊर्जस्वतीः । पयस्वतीः । प्रजावतीरिति प्रजा-वतीः । अनमीवाः । अयक्ष्माः । मा । वः । स्तेनः । ईशत । मा । अघशँस इत्यघ-शँसः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -201,7 +200,7 @@ Let Rudra's dart avoid you.
 
 <details><summary>पद-पाठः</summary>
 
-रुद्रस्य । हेतिः । परीति । वः । वृणक्तु । 7G ।
+रुद्रस्य । हेतिः । परीति । वः । वृणक्तु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

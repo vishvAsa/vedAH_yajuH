@@ -553,7 +553,8 @@ unicode_script: devanagari
 
 ह᳓रन्त्यस्मै प्रजा᳓ बलि᳓म् ।  
 ऐ᳓नम् अ᳓प्रतिख्यातङ् गच्छति  
-य᳓ एवव्ँ᳓ वे᳓द ॥ 26 ॥    </details>
+य᳓ एवव्ँ᳓ वे᳓द ॥ 26 ॥
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -31,6 +31,16 @@ To I earth thee!
 पृ॒थि॒व्यै त्वा॑  +++(प्रोक्षामि)+++ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पृ॒थि॒व्यै । त्वा॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+1-3यूपं पराञ्चं प्रोक्षति - पृथिव्यै त्वेति ॥ व्याख्यातम् ।
+</details>
+
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षाय त्वा    +++(प्रोक्षामि)+++  ।
@@ -44,6 +54,16 @@ To atmosphere thee!
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्षाय त्वा    +++(प्रोक्षामि)+++  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्तरि॑क्षाय । त्वा॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्रोक्षामीति शेषः ।
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
@@ -63,17 +83,18 @@ To sky thee!
 
 <details><summary>पद-पाठः</summary>
 
-पृ॒थि॒व्यै । त्वा॒ ।  
-अ॒न्तरि॑क्षाय । त्वा॒ ।  
-दि॒वे । त्वा॒ । 
+दि॒वे । त्वा॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-1-3यूपं पराञ्चं प्रोक्षति - पृथिव्यै त्वेति ॥ व्याख्यातम् ।   
-प्रोक्षामीति शेषः । पृथिव्यादीनां स्थित्यर्थं त्वां प्रोक्षामीति ॥  
+पृथिव्यादीनां स्थित्यर्थं त्वां प्रोक्षामीति ॥  
 
-[यागनिर्वृत्तिद्वारेण द्युप्रभृतीनां लोकानां धारणार्थं प्रोक्षणं भवति । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना दिव इति विभक्तेरुदात्तत्वम् । पृथिव्या इत्यादौ 'उदात्तयणो हल्पूर्वात्' (पा.सू. 6.1.174) इति विभक्तेरुदात्तत्वम् ॥]
+[यागनिर्वृत्तिद्वारेण द्युप्रभृतीनां लोकानां धारणार्थं प्रोक्षणं भवति ।
+
+'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना दिव इति विभक्तेरुदात्तत्वम् ।
+
+पृथिव्या इत्यादौ 'उदात्तयणो हल्पूर्वात्' (पा.सू. 6.1.174) इति विभक्तेरुदात्तत्वम् ॥]
 </details>
 
 _______
@@ -163,8 +184,7 @@ bar evil spirits.
 <details><summary>पद-पाठः</summary>
 
 यवः॑ । अ॒सि॒ ।   
-य॒वय॑ । अ॒स्मत् । द्वेषः॑ । [1]
-य॒वय॑ । अरा॑तीः । 
+य॒वय॑ । अ॒स्मत् । द्वेषः॑ । य॒वय॑ । अरा॑तीः । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -381,10 +401,8 @@ For the plants with good berries thee!
 </details>
 
 <details><summary>पद-पाठः</summary>
-<details><summary>पद-पाठः</summary>
 
-सु॒पि॒प्प॒लाभ्य॒ इति॑ सु-पि॒प्प॒लाभ्यः॑ । त्वा॒ । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ ।  
-</details>
+सु॒पि॒प्प॒लाभ्य॒ इति॑ सु-पि॒प्प॒लाभ्यः॑ । त्वा॒ । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -494,7 +512,7 @@ _______
 11यूपं वैष्णवीभ्यामृग्भ्यां कल्प्यति स्थापयति - ते ते धामानि ... विष्णोः कर्माणि पश्यतेति ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/06_yUpasya_avaTe_sthApanam/02_te_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/06_yUpasya_avaTe_sthApanam/02_te_te.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -534,7 +552,7 @@ Of the wide-stepping Visnu, the mighty!
 
 <details><summary>पद-पाठः</summary>
 
-ते । ते॒ । धामा॑नि । उ॒श्म॒सि॒ । [10]1 । ग॒मध्ये॑ । गावः॑ । यत्र॑ । भूरि॑शृङ्गा॒ इति॒ भूरि॑-शृ॒ङ्गाः॒ । अ॒यासः॑ ॥   अत्र॑ । अह॑ । तत् । उ॒रु॒गा॒यस्येत्यु॑रु-गा॒यस्य॑ । विष्णोः॑ । प॒र॒मम् । प॒दम् । अवेति॑ । भा॒ति॒ । भूरेः॑ ॥ 
+ते । ते॒ । धामा॑नि । उ॒श्म॒सि॒ । ग॒मध्ये॑ । गावः॑ । यत्र॑ । भूरि॑शृङ्गा॒ इति॒ भूरि॑-शृ॒ङ्गाः॒ । अ॒यासः॑ ॥   अत्र॑ । अह॑ । तत् । उ॒रु॒गा॒यस्येत्यु॑रु-गा॒यस्य॑ । विष्णोः॑ । प॒र॒मम् । प॒दम् । अवेति॑ । भा॒ति॒ । भूरेः॑ ॥ 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -555,7 +573,7 @@ Of the wide-stepping Visnu, the mighty!
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/19_viShNoH_karmANi.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/19_viShNoH_karmANi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -827,7 +845,7 @@ _______
 13चषालमीक्षते - तद्विष्णोरिति त्रिपदया गायत्र्या ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/20_tadviShNoH_paramaM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/20_tadviShNoH_paramaM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1138,6 +1156,21 @@ _______
 ब्रह्मव᳓निन्त्वा क्षत्त्रव᳓निँ सुप्रजाव᳓निँ रायस्पोषव᳓निम्प᳓र्यूहामि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thee that art winner of Brahmans, winner of nobles, winner of fair offspring, winner of increase of wealth, I close in.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्र॒ह्म॒वनि॑न्त्वा क्षत्र॒वनिँ॑ सुप्रजा॒वनिँ॑ रायस्पोष॒वनि॒म्पर्यू॑हामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्र॒ह्म॒वनि॒मिति॑ ब्रह्म-वनि॑म् । त्वा॒ । क्ष॒त्र॒वनि॒मिति॑ क्षत्र-वनि॑म् । सु॒प्र॒जा॒वनि॒मिति॑ सुप्रजा-वनि॑म् । रा॒य॒स्पो॒ष॒वनि॒मिति॑ रायस्पोष-वनि॑म् । परीति॑ । ऊ॒हा॒मि॒ ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma-vanim.md">
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1339,7 +1372,7 @@ On the slope of the atmosphere I conceal thee.
 
 <details><summary>पद-पाठः</summary>
 
-अ॒न्तरि॑क्षस्य । त्वा॒ । सानौ॑ । अवेति॑ । गू॒हा॒मि॒ ॥ [11]
+अ॒न्तरि॑क्षस्य । त्वा॒ । सानौ॑ । अवेति॑ । गू॒हा॒मि॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

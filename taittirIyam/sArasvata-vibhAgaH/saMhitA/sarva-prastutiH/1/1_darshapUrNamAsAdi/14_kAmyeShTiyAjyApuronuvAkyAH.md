@@ -22,7 +22,7 @@ title: १४ काम्येष्टि-याज्या-पुरोन�
 अयं च सर्वोऽनुवाको वैश्वदेवकाण्डम् ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/060/13_ubhA_vAmindrAgnI.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/060/13_ubhA_vAmindrAgnI.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -397,7 +397,7 @@ ____
 तत्रैव याज्या
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/109/02_ashravaM_hi.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/109/02_ashravaM_hi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -774,7 +774,7 @@ ____
 अथ 'ऐन्द्राग्नमेकादशकपालं निर्वपेत्सङ्ग्रामं जित्वा' (तै.सं. 2.2.1) इत्यस्य पुरोनुवाक्या
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/012/06_indrAgnI_navatiM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/012/06_indrAgnI_navatiM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1056,7 +1056,7 @@ ____
 4तत्रैव याज्या - शुचिमिति चतुष्पदा त्रिष्टुप् ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/093/01_shuchiM_nu.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/093/01_shuchiM_nu.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1413,7 +1413,7 @@ ____
 5अथ सङ्ग्रामं जित्वा जनतामेष्यतः 'पौष्णं चरुमनु निर्वपेत्' (तै.सं. 2.2.1) इति पौष्णश्चरुः अनुनिर्वाप्यत्वेनाम्नातः । तत्र पुरोनुवाक्या - वयमिति गायत्री त्रिपदा ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/053/01_vayamu_tvA.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/053/01_vayamu_tvA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1714,7 +1714,7 @@ ____
 6तत्रैव याज्या - पथस्पथ इति चतुष्पदा त्रिष्ठुप् ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/049/08_pathaspathaH_paripatiM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/049/08_pathaspathaH_paripatiM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2061,7 +2061,7 @@ Zum Hüter jedes Weges drang das Loblied, das durch Begier aus Liederlust gescha
 7'क्षैत्रपत्यं चरुं निर्वपेज्जनतामागत्य' (तै.सं. 2.2.1) इत्यस्य पुरोनुवाक्या - चतुष्पदानुष्टुप् ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/057/01_xetrasya_patinA.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/057/01_xetrasya_patinA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2355,7 +2355,7 @@ ____
 8तत्रैव याज्या - क्षेत्रस्य पत इति चतुष्पदा त्रिष्टुप् ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/057/02_xetrasya_pate.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/057/02_xetrasya_pate.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2656,7 +2656,7 @@ ____
 9'अग्नये पथिकृते पुरोडाशमष्टाकपालं निर्वपेद्यो दर्शपूर्णमासयाजी सन्नमावास्यां वा पौर्णमासीं वातिपादयेत्' (तै.सं. 2.2.2) इत्यस्य पुरोनुवाक्या - अग्ने नयेति त्रिष्टुप्चतुष्पदा ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/01_agne_naya.md">
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/01_agne_naya.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -3036,7 +3036,7 @@ ____
 10तत्रैव याज्या - आ देवानामिति चतुष्पदा त्रिष्टुप् ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/002/03_A_devAnAmapi.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/002/03_A_devAnAmapi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -3427,7 +3427,7 @@ ____
 11तत्रैव स्विष्टकृतः पुरोनुवाक्या - यद्वाहिष्ठमिति चतुष्पदानुष्टुप् ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/025/07_yadvAhiShThaM_tadagnaye.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/025/07_yadvAhiShThaM_tadagnaye.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -3763,7 +3763,7 @@ ____
 12तत्रैव याज्या - अग्ने त्वमिति चतुष्पदा त्रिष्टुप् ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/02_agne_tvaM.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/02_agne_tvaM.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -4160,7 +4160,7 @@ ____
 13'अग्नये व्रतपतये पुरोडाशमष्टाकपालं निर्वपेद्य आहिताग्निस्सन्नव्रत्यमिव चरेत्' (तै.सं. 2.2.2) इत्यस्य पुरोनुवाक्या - त्वमग्ने इति त्रिपदा गायत्री, अष्टकसप्तकषट्कपदा प्रतिष्ठानाम्नी, 'षट्सप्तकाष्टकैर्वर्धमाना । विपरीता प्रतिष्ठा' (पि.छ.सू. 3.14.15) इति वचनात् ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/011/01_tvamagne_vratapA.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/011/01_tvamagne_vratapA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -4469,7 +4469,7 @@ ____
 14तत्रैव याज्या - यद्व इति चतुष्पदा त्रिष्टुप् ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/002/04_yadvo_vayaM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/002/04_yadvo_vayaM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 

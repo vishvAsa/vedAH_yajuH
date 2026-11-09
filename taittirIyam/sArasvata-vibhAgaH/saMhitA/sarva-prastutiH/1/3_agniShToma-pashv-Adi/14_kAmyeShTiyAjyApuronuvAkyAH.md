@@ -32,7 +32,7 @@ _______
 1अतः परं याज्याकाण्डं वैश्वदेवम् ॥ तत्र 'अग्नये रुद्रवते पुरोडाशम् अष्टाकपालं निर्वपेदभिचरन्' इत्यस्य पुरोनुवाक्या - त्वमग्न इति जगती ॥  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/001/06_tvamagne_rudro.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/001/06_tvamagne_rudro.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -451,7 +451,7 @@ _______
 2तस्यैव याज्या - आ व इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/003/01_A_vo.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/003/01_A_vo.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -814,7 +814,7 @@ _______
 3'अग्नये सुरभिमते पुरोडाशम् अष्टाकपालं निर्वपेद् यस्य गावो वा पूरुषा वा प्रमीयेरन् यो वा बिभीयात्' इत्यस्य पुरोनुवाक्या - अग्निर्होतेति त्रिष्टुप् ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/02_agnir_hotA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/02_agnir_hotA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -844,6 +844,11 @@ Supporter of the folk in whose midst he is kindled.
 युवा॑ क॒विᳶ पु॑रुनि॒ष्ठ [24] ऋ॒तावा॑ ध॒र्ता कृ॑ष्टी॒नामु॒त मध्य॑ इ॒द्धः ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । होता॑ । नीति॑ । स॒सा॒द॒ । यजी॑यान् । उ॒पस्थ॒ इत्यु॒प-स्थे॒ । मा॒तुः । सु॒र॒भौ । उ॒ । लो॒के ॥ युवा॑ । क॒विः । पु॒रु॒नि॒ष्ठ इति॑ पुरु-नि॒ष्ठः । ऋ॒तावेत्यृ॒त-वा॒ । ध॒र्ता । कृ॒ष्टी॒नाम् । उ॒त । मध्ये॑ । इ॒द्धः ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 होता देवानामाह्वाता । पूर्ववत्सम्प्रसारणम् । यजीयान् यष्टृतमः मानुषाद्धोतुः । ' तुश्छन्दसि' इति यष्टृशब्दादीयसुन्प्रत्ययः, 'तुरिष्ठेमेयस्सु' इति टिलोपः । युवा नित्यतरुणः । कविर्मेधावी । पुरुनिष्ठः प्रुषु बहुषु स्थानेषु स्थितः । 'आतश्चोपसर्गे' इति कः, थाथादिस्वरेणोत्तरपदान्तोदात्तत्वम् । ऋतावा ऋतवान् यज्ञवान् । 'छन्दसीवनिपौ' इति वनिप्प्रत्ययः, 'अन्येषामपि दृश्यते' इति दीर्घः । धर्ता धारयिता कृष्टीनां मनुष्याणाम् । 'नामन्यतरस्याम्` इति नाम उदात्तत्वम् । उत अपि च मध्ये तेषां मनुष्याणां हृदये इद्धः दीप्तः । एवं सर्वोपकारी सर्वसद्गुणान्वितोऽयमग्निः मातुः मातृस्थानीयाया वेदेः, निर्मात्र्या वा श्रेयसामुपस्थे उपस्थस्थानीये उत्सङ्गसदृशे सुरभौ शोभनहविर्गन्धयुक्ते लोके आलोकवति अस्मिन्प्रदेशे निषसाद निषीदति । 'छन्दसि लुङ्लङ्लिटः' इति लिट् । सोयमस्माकं भेषजं करोत्विति भावः । 'एषा वा अस्य भेषज्या तनूर्यत्सुरभिमती' इति ब्रह्मणम् ॥
@@ -858,7 +863,7 @@ _______
 4तत्रैव याज्या - साध्वीमिति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/03_sAdhvImakardevavItiM_no.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/03_sAdhvImakardevavItiM_no.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1232,7 +1237,7 @@ _______
 5'अग्नये क्षामवते पुरोडाशम् अष्टाकपालं निर्वपेत् सङ्ग्रामे संयत्ते' इत्यस्य परोनुवाक्या - अक्रन्ददिति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/04_akrandadagniH_stanayanniva.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/04_akrandadagniH_stanayanniva.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1606,7 +1611,7 @@ _______
 6तेषु त्रिष्वपि याज्या - त्वे वसूनीति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/005/02_tve_vasUni.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/005/02_tve_vasUni.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1968,7 +1973,7 @@ _______
 7'अग्नये कामाय पुरोडाशम् अष्टाकपालं निर्वपेद् यं कामो नोपनमेत्' इत्यस्य पुरोनुवाक्या - तुभ्यं ता इति गायत्री ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/03_tubhyan_tA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/03_tubhyan_tA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1996,6 +2001,11 @@ O Agni, have turned to gain their wish.
 अग्ने॒ कामा॑य येमिरे ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तुभ्य॑म् । ताः । अ॒ङ्गि॒र॒स्त॒मेत्य॑ङ्गिरः-त॒म॒ । विश्वाः॑ । सु॒क्षि॒तय॒ इति॑ सु-क्षि॒तयः॑ । पृथ॑क् ॥ अग्ने॑ । कामा॑य । ये॒मि॒रे॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे **अङ्गिरस्तम** गन्तव्यतम गतिमत्तमेति वा । अगि रगि लघि गत्यर्थाः, अस्माद् असुनि इरुड्-आगमो निपात्यते । 
@@ -2012,7 +2022,7 @@ _______
 8तत्रैव याज्या - अश्यामेति त्रिष्टुप् । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/005/07_ashyAma_taM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/005/07_ashyAma_taM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2404,7 +2414,7 @@ _______
 9'अग्नये यविष्ठाय पुरोडाशम् अष्टाकपालं निर्वृपेत् स्पर्धमानः क्षेत्रे वा सजातेषु वा' इत्यस्य पुरोनुवाक्या - श्रेष्ठमिति गायत्री ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/01_shreShThaM_yaviShTha.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/01_shreShThaM_yaviShTha.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2698,7 +2708,7 @@ _______
 10तत्रैव याज्या - स श्वितान  इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/006/02_sa_shvitAnastanyatU.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/006/02_sa_shvitAnastanyatU.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -3052,7 +3062,7 @@ _______
 11'अग्नय आयुष्मते पुरोडाशम् अष्टाकपालं निर्वपेद् - यः कामयेत सर्वम् आयुर् इयाम्' इत्य् अस्य पुरोनुवाक्या - आयुष्ट इत्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/04_AyuShTe_vishvato.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/04_AyuShTe_vishvato.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3082,6 +3092,11 @@ I drive away the disease from thee.
 पुन॑स्ते प्रा॒ण आय॑ति॒ परा॒ यक्ष्मँ॑ सुवामि ते ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+आयुः॑ । ते॒ । वि॒श्वतः॑ । द॒ध॒त्॒ । अ॒यम् । अ॒ग्निः । वरे॑ण्यः ॥ पुनः॑ । ते॒ । प्रा॒ण इति॑ प्र-अ॒नः । एति॑ । अ॒य॒ति॒ । परेति॑ । यक्ष्म॑म् । सु॒वा॒मि॒ । ते॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे यजमान अयमग्निर्वरेण्यः वरणीयः । 'वृञ एण्यः', वृषादित्वादाद्युदात्तत्वम् । ते तुभ्यं विश्वतः विश्वमायुर्दधत् दधातु । 'इतराभ्योपि दृश्यन्ते' इति द्वितीयान्तात्तसिल् । दधातेर्लेटि 'लेटोडाटौ' इत्यडागमः, 'घोर्लोपो लेटि वा' इत्याकारलोपः । 'युष्मत्तत्ततक्षुष्वन्तःपादम्' इति संहितायां आयुस्सकारस्य षत्वम् । यदायं प्रसीदति तदानीं गतोपि प्राणः पुनरायति पुनराभिमुख्येनास्मान्प्राप्नोति । इ गतौ भौवादिक उदात्तेत् । यद्वा - पुनरपि त्वदीयः प्राण आयात्वस्य प्रसादेन । अहमपि तदर्थं त्वदीयं शत्रुपक्षं परासुवामि नाशयामि । षू प्रेरणे तौदादिक उदात्तेत् । 'स एवास्मिन्नायुर्दधाति' `इति ब्राह्मणम् ॥
@@ -3098,7 +3113,7 @@ _______
 12तत्रैव याज्या - आयुर्दा इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/AyurdA.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/AyurdA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -3125,6 +3140,11 @@ As a father his son [4], do thou protect him.
 
 आ॒यु॒र्दा अ॑ग्ने ह॒विषो॑ जुषा॒णो घृ॒तप्र॑तीको घृ॒तयो॑निरेधि ।  
 घृ॒तम्पी॒त्वा मधु॒ चारु॒ गव्य॑म्पि॒तेव॑ पु॒त्रम॒भि [27] रक्षतादि॒मम् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒यु॒र्दा इत्या॑युः-दाः । अ॒ग्ने॒ । ह॒विषः॑ । जु॒षा॒णः । घृ॒तप्र॑तीक॒ इति॑ घृ॒त-प्र॒ती॒कः॒ । घृ॒तयो॑नि॒रिति॑ घृ॒त-यो॒निः॒ । ए॒धि॒ ॥ घृ॒तम् । पी॒त्वा । मधु॑ । चारु॑ । गव्य॑म् । पि॒ता । इ॒व॒ । पु॒त्रम् । अ॒भीति॑ । र॒क्ष॒ता॒त्॒ । इ॒मम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -3157,7 +3177,7 @@ _______
 13'अग्नये जातवेदसे पुरोडाशम् अष्टाकपालं निर्वपेद् भूतिकामः' इत्यस्य पुरोनुवाक्या - तस्मै त इति गायत्री ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/05_tasmai_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/05_tasmai_te.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3185,6 +3205,11 @@ Agni, I offer this fair praise.
 अग्ने॒ जना॑मि सुष्टु॒तिम् ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तस्मै॑ । ते॒ । प्र॒ति॒हर्य॑त॒ इति॑ प्रति-हर्य॑ते । जात॑वेद॒ इति॒ जात॑-वे॒दः॒ । विच॑र्षण॒ इति॒ वि-च॒र्ष॒णे॒ ॥ अग्ने॑ । जना॑मि । सु॒ष्टु॒तिमिति॑ सु-स्तु॒तिम् ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे अग्ने जातवेदः जातप्रज्ञ । यद्वा - जातानां भूतानां वेदितः । 'गतिकारकयोरपि' इत्यसुन् । **विचर्षणे** विविधदर्शन [विविधचर्षणे] विविध-मनुष्य, एतेषामुत्पादकत्वात् । **तस्मै ते** तादृशाय तुभ्यं 
@@ -3205,7 +3230,7 @@ _______
 14तत्रैव याज्या - दिवस्परीति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/01_divaspari_prathamaM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/01_divaspari_prathamaM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -3534,7 +3559,7 @@ Erzeugt zuerst ward Agni aus dem Himmel, von uns zum zweiten als der Wesenkenner
 
 ## रुक्मवद्-यागः
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/04_shuchiH_pAvaka.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/04_shuchiH_pAvaka.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -3813,7 +3838,7 @@ _______
 16तत्रैव याज्या - दृशान इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/08_dRshAno_rukma.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/08_dRshAno_rukma.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -4170,7 +4195,7 @@ _______
 17अग्नये तेजस्वते पुरोडाशम् अष्टाकपालं निर्वपेत्तेजस्कामः' इत्यस्य पुरोनुवाक्या - आ यदिति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/071/08_A_yadiShe.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/071/08_A_yadiShe.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -4564,7 +4589,7 @@ _______
 18तत्रैव याज्या - स तेजीयसेति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/019/03_sa_tejIyasA.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/019/03_sa_tejIyasA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -4929,7 +4954,7 @@ _______
 19'अग्नये साहन्त्याय पुरोडाशम् अष्टाकपालं निर्वपेत्सीक्षमाणः' इत्यस्य पुरोनुवाक्या - अग्ने सहन्तमित्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/023/01_agne_sahantamA.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/023/01_agne_sahantamA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -5258,7 +5283,7 @@ _______
 20तत्रैव याज्या - तमग्ने पृतनासहमित्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/023/02_tamagne_pRtanAShahaM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/023/02_tamagne_pRtanAShahaM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -5579,7 +5604,7 @@ _______
 21'अग्नयेन्नवते पुरोडाशम् अष्टाकपालं निर्वपेद् यः कामयेतान्नवान् स्याम्' इत्यस्य पुरोनुवाक्या - उक्षान्नायेति गायत्री ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/043/11_uxAnnAya_vashAnnAya.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/043/11_uxAnnAya_vashAnnAya.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -5827,7 +5852,7 @@ _______
 22तत्रैव याज्या - वद्मा हीति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/06_vadmA_hi.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/06_vadmA_hi.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -5855,6 +5880,11 @@ Be victorious like a king; thou rulest within without a foe.
 
 व॒द्मा हि सू॑नो॒ अस्य॑द्म॒सद्वा॑ च॒क्रे अ॒ग्निर्ज॒नुषाज्मान्न॑म् ।   
 स त्वन्न॑ ऊर्जसन॒ ऊर्ज॑न्धा॒ राजे॑व जेरवृ॒के क्षे॑ष्य॒न्तः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒द्मा । हि । सू॒नो॒ इति॑ । असि॑ । अ॒द्म॒सद्वेत्य॑द्म-सद्वा॑ । च॒क्रे । अ॒ग्निः । ज॒नुषा॑ । अज्म॑ । अन्न॑म् ॥ सः । त्वम् । नः॒ । ऊ॒र्ज॒स॒न॒ इत्यू॑र्ज-स॒ने॒ । ऊर्ज॑म् । धाः॒ । राजा॑ । इ॒व॒ । जेः॒ । अ॒वृ॒के । क्षे॒षि॒ । अ॒न्तः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -5896,7 +5926,7 @@ _______
 प॒व॒स॒ आ सु॒वोर्ज॒मिष॑ञ्च नः ।  आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/19_agna_AyUMShi.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/19_agna_AyUMShi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -6190,7 +6220,7 @@ _______
 24तत्रैव याज्या - अग्ने पवस्वेति गायत्री ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/21_agne_pavasva.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/21_agne_pavasva.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -6474,7 +6504,7 @@ _______
 25अग्नये पावकायेत्यस्य पुरोनुवाक्या - अग्ने पावकेति गायत्री ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/026/01_agne_pAvaka.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/026/01_agne_pAvaka.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -6782,7 +6812,7 @@ _______
 26तत्रैव याज्या - स नः पावकेति गायत्री ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/agne_naH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/agne_naH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -6809,6 +6839,11 @@ To our sacrifice and our oblation.
 उप॑ य॒ज्ञँ ह॒विश्च॑ नः ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सः । नः॒ । पा॒व॒क॒ । दी॒दि॒वः॒ । अग्ने॑ । दे॒वान् । इ॒ह । एति॑ । व॒ह॒ ॥ उपेति॑ । य॒ज्ञम् । ह॒विः । च॒ । नः॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे अग्ने पावक शोधक दीदिवः दीप्यमानः । 'छन्दसि लुङ्लङ्लिटः' इति दिवेर्लिट् 'क्वसुश्च' इति क्वसुरादेशः, 'वस्वेकाजाद्घसाम्' इति नियमादिडभावः, वलि लोपः, तुजादित्वादभ्यासस्य दीर्घ', 'उगिदचाम्' इति नुम्, 'मतुवसोः' इति रुत्वम् । स त्वं नः अस्माकमिहास्मिन्कर्मणि देवानावह । आहूय च नः अस्माकमिमं यज्ञं च हविश्च उपावह देवेभ्य उपहर देवान्प्रापयेत्वर्थः । देवानित्यस्व नकारस्य संहितायां पूर्ववद्रुत्वानुनासिकानुस्वाराः ॥
@@ -6826,7 +6861,7 @@ _______
 27'अग्नये शुचये' इत्यस्य पुरोनुवाक्या - अग्निश्शुचिव्रततम इति गायत्री ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/21_agniH_shuchivratatamaH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/21_agniH_shuchivratatamaH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -7080,7 +7115,7 @@ _______
 28तत्रैव याज्या - उदग्ने इति गायत्री ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/17_udagne_shuchayastava.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/17_udagne_shuchayastava.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 

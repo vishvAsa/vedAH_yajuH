@@ -37,7 +37,7 @@ with the hands of Pusan.
 
 <details><summary>पद-पाठः</summary>
 
-3M । दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
+दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -430,7 +430,7 @@ Ye wealthy ones, do ye kindly resort to the lord of the sacrifice.
 यद्वा - सर्वे पशव उच्यन्ते - वयमस्माकमेको हन्तुं नीयत इति उद्वेगं मा कार्ष्ट । यजमानस्योपभोगाय प्रीतिपूर्वकं तस्मिन्वर्तध्वम् ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -462,7 +462,7 @@ be united with its body
 
 <details><summary>पद-पाठः</summary>
 
-उरो॒ इति॑ । अ॒न्त॒रि॒क्ष॒ । स॒जूरिति॑ स-जूः । दे॒वेन॑ । [14]1 । वाते॑न । अ॒स्य । ह॒विषः॑ । त्मना॑ । य॒ज॒ । समिति॑ । अ॒स्य॒ । त॒नुवा॑ । भ॒व॒ । 
+उरो॒ इति॑ । अ॒न्त॒रि॒क्ष॒ । स॒जूरिति॑ स-जूः । दे॒वेन॑ । वाते॑न । अ॒स्य । ह॒विषः॑ । त्मना॑ । य॒ज॒ । समिति॑ । अ॒स्य॒ । त॒नुवा॑ । भ॒व॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -549,6 +549,11 @@ Guard from the contact of earth.
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒व्यास्स॒म्पृचᳶ॑ पाहि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पृ॒थि॒व्याः । स॒म्पृच॒ इति॑ सम्-पृचः॑ । पा॒हि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -638,7 +643,7 @@ _______
 15अपोवेक्षमाणां पत्नीं वाचयति - आपो देवीरिति चतुष्पदयानुष्टुभा विद्युन्मालया ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/03_Apo_devIsh.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/03_Apo_devIsh.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -669,7 +674,7 @@ may we, pure and served (by you), be servers upon you.
 <details><summary>पद-पाठः</summary>
 
 आपः॑ । दे॒वीः॒ । शु॒द्धा॒यु॒व॒ इति॑ शुद्ध-यु॒वः॒ । शु॒द्धाः । यू॒यम् । दे॒वान् । ऊ॒ढ्व॒म् ।   
-शु॒द्धाः । व॒यम् । परि॑विष्टा॒ इति॒ परि॑-वि॒ष्टाः॒ । प॒रि॒वे॒ष्टार॒ इति॑ परि-वे॒ष्टारः॑ । वः॒ । भू॒या॒स्म॒ ॥ [15]
+शु॒द्धाः । व॒यम् । परि॑विष्टा॒ इति॒ परि॑-वि॒ष्टाः॒ । प॒रि॒वे॒ष्टार॒ इति॑ परि-वे॒ष्टारः॑ । वः॒ । भू॒या॒स्म॒ ॥
 </details>
 </details>
 

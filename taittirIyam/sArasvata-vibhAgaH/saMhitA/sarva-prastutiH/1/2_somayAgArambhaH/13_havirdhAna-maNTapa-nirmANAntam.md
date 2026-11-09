@@ -31,7 +31,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/081/01_yunjate_mana.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/081/01_yunjate_mana.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -506,6 +506,31 @@ With fair voice, O god, do thou address the dwelling.
 सु॒वाग्दे॑व॒ दुर्याँ॒ आ व॑द
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सु॒वागिति॑ सु-वाक् । दे॒व॒ । दुर्या॑न् । एति॑ । व॒द॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2अक्षोत्सर्जने जपति - सुवागिति ॥
+
+हे **देव** देवनशील अक्षेषु **सुवाक्** शोभनवाक् भूत्वा **दुर्यान्** गृहान् यजमानस्य सम्बन्धिन **आवद** आभिमुख्येन वद, कल्यणीं गृहाणां शान्तिकरीं वाचं वदेत्यर्थः ।
+
+'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वं सुवागिति ।
+
+दुर्यान् इति नकारस्य पूर्ववद् रुत्वादि ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+स च मन्त्र एवम् आम्नातः —
+
+सुवाग् इति। हे ऽक्षदेव दुर्यान् गृहान् प्रति सुवाग् भूत्वा ऽऽसमन्ताच् श्रेयस्करीं वाजं वद।
+
+हे देवश्रुतौ प्रख्याताव् अक्षौ यजमानो ऽयं युष्मान् यजतीति देवेष्वा घोषेथाम्।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे अक्षौ!)+++ दे᳓व-श्रु᳓तौ देवे᳓ष्व् **आ᳓ घोषेथाम्**।
@@ -523,24 +548,22 @@ Ye two, famed among the gods, make proclamation among the gods.
 
 <details><summary>पद-पाठः</summary>
 
-सु॒वागिति॑ सु-वाक् । दे॒व॒ । दुर्या॑न् । एति॑ । व॒द॒ ।   
 दे॒व॒श्रुता॒विति॑ देव-श्रुतौ॑ । दे॒वेषु॑ । एति॑ । घो॒षे॒था॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-2अक्षोत्सर्जने जपति - सुवागिति ॥ हे **देव** देवनशील अक्षेषु **सुवाक्** शोभनवाक् भूत्वा **दुर्यान्** गृहान् यजमानस्य सम्बन्धिन **आवद** आभिमुख्येन वद, कल्यणीं गृहाणां शान्तिकरीं वाचं वदेत्यर्थः । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वं सुवागिति । दुर्यान् इति नकारस्य पूर्ववद् रुत्वादि । 'वरुणो वा एष दुर्वाग् उभयतो बद्धो यद् अक्षः' इत्यादि ब्राह्मंणम् ।
+'वरुणो वा एष दुर्वाग् उभयतो बद्धो यद् अक्षः' इत्यादि ब्राह्मंणम् ।
 
-अथ **देव-श्रुतौ देवेष्व् आघोषेथाम्** इत्यस्य द्विवचनान्तत्वान् न पूर्वेण सम्बन्धः । आचार्यवचनाच् च, "वाग् देव दुर्यान् आवदे"त्य् एवं तत्र जपति इति । द्विवचन-सम्बन्धाद् एवोपरितनेनाक्ष-धुरो ऽवाञ्जने न च सम्बध्यते । न च प्रकरणाद् उत्कृष्य विकृतिम् आसाद्य यद् अयं करिष्यति तत् प्रतीयते । तस्माद् अत्रैव विनियोगः कल्पयितव्यः । स च वचनात् पुल्लिङ्गाच् चाक्ष-द्वयोत्सर्जनजपे युक्त इव लक्ष्यते ।
+अथ **देव-श्रुतौ देवेष्व् आघोषेथाम्** इत्यस्य द्विवचनान्तत्वान् न पूर्वेण सम्बन्धः ।
 
-अयमर्थः - देवाश् शृण्वन्ति यौ तौ **देवश्रुतौ** । कर्मणि क्विप्, निष्ठायां वा, 'परादिश्छन्दसि बहुलम्' इति उत्तरपदाद्युदात्तत्वम् । हे अक्षौ ईदृशौ युवां आत्मीयोत्सर्जनेन देवेष्वाघोषेथाम्, अयं यजमानो युष्मान्यजत इत्येवं महता शब्देन घोषणं कुरुतम् । घुषि कान्तिकरणे उदात्त अनुदात्तेत् भौवादिकः ॥
-</details>
+आचार्यवचनाच् च, "वाग् देव दुर्यान् आवदे"त्य् एवं तत्र जपति इति । द्विवचन-सम्बन्धाद् एवोपरितनेनाक्ष-धुरो ऽवाञ्जने न च सम्बध्यते । न च प्रकरणाद् उत्कृष्य विकृतिम् आसाद्य यद् अयं करिष्यति तत् प्रतीयते । तस्माद् अत्रैव विनियोगः कल्पयितव्यः । स च वचनात् पुल्लिङ्गाच् चाक्ष-द्वयोत्सर्जनजपे युक्त इव लक्ष्यते ।
 
-<details><summary>सायण-टीका</summary>
+अयमर्थः - देवाश् शृण्वन्ति यौ तौ **देवश्रुतौ** ।
 
-स च मन्त्र एवम् आम्नातः —
+कर्मणि क्विप्, निष्ठायां वा, 'परादिश्छन्दसि बहुलम्' इति उत्तरपदाद्युदात्तत्वम् ।
 
-सुवाग् इति। हे ऽक्षदेव दुर्यान् गृहान् प्रति सुवाग् भूत्वा ऽऽसमन्ताच् श्रेयस्करीं वाजं वद। हे देवश्रुतौ प्रख्याताव् अक्षौ यजमानो ऽयं युष्मान् यजतीति देवेष्वा घोषेथाम्।
+हे अक्षौ ईदृशौ युवां आत्मीयोत्सर्जनेन देवेष्वाघोषेथाम्, अयं यजमानो युष्मान्यजत इत्येवं महता शब्देन घोषणं कुरुतम् । घुषि कान्तिकरणे उदात्त अनुदात्तेत् भौवादिकः ॥
 </details>
 
 ________
@@ -625,7 +648,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -937,7 +960,7 @@ ________
 5उत्तरस्यां वर्तन्यां जुहोति - इरावतीति त्रिष्टुभा ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/099/03_irAvatI_dhenumatI.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/099/03_irAvatI_dhenumatI.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1374,7 +1397,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam/02_divo_vA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam/02_divo_vA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1407,7 +1430,7 @@ Give to us [2] from right and from left.
 <details><summary>पद-पाठः</summary>
 
 दि॒वः । वा॒ । वि॒ष्णो॒ । उ॒त । वा॒ । पृ॒थि॒व्याः । म॒हः । वा॒ । वि॒ष्णो॒ । उ॒त । वा॒ । अ॒न्तरि॑क्षात् ।   
-हस्तौ॑ । पृ॒ण॒स्व॒ । ब॒हुभि॒रिति॑ ब॒हु-भिः॒ । व॒स॒व्यैः॑ । आ । प्रेति॑ । य॒च्छ॒ । [26]  दक्षि॑णात् । एति॑ । उ॒त । स॒व्यात् ॥ 
+हस्तौ॑ । पृ॒ण॒स्व॒ । ब॒हुभि॒रिति॑ ब॒हु-भिः॒ । व॒स॒व्यैः॑ । आ । प्रेति॑ । य॒च्छ॒ । दक्षि॑णात् । एति॑ । उ॒त । स॒व्यात् ॥ 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1432,7 +1455,7 @@ ________
 अध्वर्यू मेध्यौ बध्नीतः - विष्णोर्नुकमिति त्रिष्टुभा ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/01_viShNornu_kaM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/01_viShNornu_kaM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2099,7 +2122,7 @@ Thou art of Vishu; to Visnu thee!
 
 <details><summary>पद-पाठः</summary>
 
-वै॒ष्ण॒वम् । अ॒सि॒ । विष्ण॑वे । त्वा॒ ॥ [27] 
+वै॒ष्ण॒वम् । अ॒सि॒ । विष्ण॑वे । त्वा॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -160,7 +160,8 @@ protect me when afflicted.
 
 <details><summary>पद-पाठः</summary>
 
-अव॑तात् । मा॒ । व्य॒थि॒तम् ।  
+अव॑तात् । मा॒ । व्य॒थि॒तम् ।
+</details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -213,7 +214,6 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in this earth.
 
 वि॒देः । अ॒ग्निः । नभः॑ । नाम॑ ।  अग्ने॑ । अ॒ङ्गि॒रः॒ ।   
 यः । अ॒स्याम् । पृ॒थि॒व्याम् । असि॑ । 
-</details>
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -287,7 +287,8 @@ ________
 उत्तरवेद्यां निवपति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् ते᳓ ऽनाधृष्टन् ना᳓म यज्ञि᳓यन् +++(नभ इत्यादि)+++ ते᳓न त्वा᳓ ऽऽदधे ।
@@ -319,6 +320,7 @@ Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 
 यत् तवानाधृष्टं केनाप्य् अतिरस्कृतं नाम यज्ञ-संबद्धं तेन नाम्ना व्यवहृत्य त्वाम् उत्तर-वेद्याम् आदधे।
 </details>
+
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -376,7 +378,8 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the second ea
 अयं तु विशेषः, द्वितीयपर्याये 'अग्ने अङ्गिरो यो द्वितीयस्यां पृथिव्यामसि' इति भवति । द्वितीया पृथिवी अन्तरिक्षम् ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् ते᳓ ऽनाधृष्टन् ना᳓म यज्ञि᳓यन् +++(नभ इत्यादि)+++ ते᳓न त्वा᳓ ऽऽदधे ।
@@ -408,6 +411,7 @@ Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 
 यत् तवानाधृष्टं केनाप्य् अतिरस्कृतं नाम यज्ञ-संबद्धं तेन नाम्ना व्यवहृत्य त्वाम् उत्तर-वेद्याम् आदधे।
 </details>
+
 </div>  
 
 ________
@@ -442,7 +446,7 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the third ear
 
 अग्ने॑ । अ॒ङ्गि॒रः॒ । यः । तृ॒तीय॑स्याम् । पृ॒थि॒व्याम् । असि॑ ।  
 आयु॑षा । नाम्ना॑ । एति॑ । इ॒हि॒ ।   
-यत् । ते॒ । अना॑धृष्ट॒मित्यना॑-धृ॒ष्ट॒म् । नाम॑ । [22]  य॒ज्ञिय॑म् । तेन॑ । त्वा॒ । एति॑ । द॒धे॒ । 
+यत् । ते॒ । अना॑धृष्ट॒मित्यना॑-धृ॒ष्ट॒म् । नाम॑ । य॒ज्ञिय॑म् । तेन॑ । त्वा॒ । एति॑ । द॒धे॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -450,7 +454,8 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the third ear
 तृतीये तु, 'अग्ने अङ्गिरो यस्तृतीयस्यां पृथिव्यामसि' इति । तृतीया पृथिवी द्युलोकः पृथुत्वात्पृथिवी । समानमन्यत् । 'विदेरग्निर्नभो नामाग्ने अङ्गिर इति त्रिर्हरति' इति ब्राह्मणम् ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् ते᳓ ऽनाधृष्टन् ना᳓म यज्ञि᳓यन् +++(नभ इत्यादि)+++ ते᳓न त्वा᳓ ऽऽदधे ।
@@ -482,6 +487,7 @@ Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 
 यत् तवानाधृष्टं केनाप्य् अतिरस्कृतं नाम यज्ञ-संबद्धं तेन नाम्ना व्यवहृत्य त्वाम् उत्तर-वेद्याम् आदधे।
 </details>
+
 </div>  
 
 ________
@@ -560,7 +566,8 @@ ________
 इति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/uru.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/uru.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उरु᳓ प्रथस्व ।  
@@ -585,12 +592,6 @@ Be extended wide, let the lord of the sacrifice be extended wide.
 
 <details><summary>पद-पाठः</summary>
 
-उ॒रु । प्र॒थ॒स्व॒ ।  
-उ॒रु । ते॒ । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । प्र॒थ॒ता॒म् । 
-</details>
-
-<details><summary>पद-पाठः</summary>
-
 उ॒रु । प्र॒थ॒स्व॒ । उ॒रु । ते॒ । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । प्र॒थ॒ता॒म् ।
 </details>
 
@@ -603,6 +604,7 @@ Be extended wide, let the lord of the sacrifice be extended wide.
 
 प्रथस्व प्रसर। 
 </details>
+
 </div>  
 
 ________
@@ -969,7 +971,7 @@ Thou art a lioness, [2] bestowing increase of wealth; hail!
 
 <details><summary>पद-पाठः</summary>
 
-सिँ॒हीः । [23]  अ॒सि॒ ।  
+सिँ॒हीः । अ॒सि॒ ।  
 रा॒य॒स्पो॒ष॒वनि॒रिति॑ रायस्पोष-वनिः॑ । स्वाहा॑ । 
 </details>
 
@@ -1284,7 +1286,7 @@ Thou art the ashes of Agni; thou art the rubble of Agni.
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्नेः । भस्म॑ । अ॒सि॒ ।   
-अ॒ग्नेः । पुरी॑षम् । अ॒सि॒ ॥ [24]  
+अ॒ग्नेः । पुरी॑षम् । अ॒सि॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -631,7 +631,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पशु᳓र् वा᳓ एष᳓ य᳓द् अ᳓श्वः । </details>
+पशु᳓र् वा᳓ एष᳓ य᳓द् अ᳓श्वः ।
+</details>
 
 <details><summary>मूलम्</summary>
 

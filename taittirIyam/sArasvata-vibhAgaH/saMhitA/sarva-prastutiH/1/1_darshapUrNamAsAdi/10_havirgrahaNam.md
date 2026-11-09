@@ -247,7 +247,7 @@ ____
 पत्नीं योक्त्रेण सन्नह्यति, तदा पत्नी वदति-
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -290,7 +290,7 @@ ____
 7पत्नी गार्हपत्यमुपसीदति - सुप्रजस इति चतुष्पदयानुष्टुभा ॥   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -322,8 +322,7 @@ The undeceivable, we that are not deceived.
 
 <details><summary>पद-पाठः</summary>
 
-सु॒प्र॒जस॒ इति॑ सु-प्र॒जसः॑ । त्वा॒ । व॒यम् । सु॒पत्नी॒रिति॑ सु-पत्नीः॑ । उपेति॑ । [16]  
-1 । से॒दि॒म॒ ॥ अग्ने॑ । स॒प॒त्न॒दम्भ॑न॒मिति॑ सपत्न-दम्भ॑नम् । अद॑ब्धासः । अदा॑भ्यम् ॥
+सु॒प्र॒जस॒ इति॑ सु-प्र॒जसः॑ । त्वा॒ । व॒यम् । सु॒पत्नी॒रिति॑ सु-पत्नीः॑ । उपेति॑ । से॒दि॒म॒ ॥ अग्ने॑ । स॒प॒त्न॒दम्भ॑न॒मिति॑ सपत्न-दम्भ॑नम् । अद॑ब्धासः । अदा॑भ्यम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -342,7 +341,7 @@ ____
 8योक्त्रं पत्नी विमुञ्चति - इममिति त्रिष्टुभा चतुष्पदया ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/46_imav.N_viShyAmi.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/46_imav.N_viShyAmi.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -393,7 +392,7 @@ ____
 सयोक्त्रे ऽञ्जलौ उद-पात्र आनीयमाने पत्नी गार्हपत्यम् उपतिष्ठते
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/51_samAyuShA_samprajayA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/51_samAyuShA_samprajayA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -503,8 +502,7 @@ Of thee that art the imperishable I make the offering.
 
 <details><summary>पद-पाठः</summary>
 
-तस्य॑ । ते॒ । अक्षी॑यमाणस्य । निरिति॑ । [17]  
-1 । व॒पा॒मि॒ ।
+तस्य॑ । ते॒ । अक्षी॑यमाणस्य । निरिति॑ । व॒पा॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -715,6 +713,16 @@ the good one of the gods.
 अ॒ग्नेर्जि॒ह्वाऽसि॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । जि॒ह्वा । अ॒सि॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+15आज्यमवेक्षते - अग्नेरिति ॥ अग्नेस्त्वं जिह्वासि, जिह्वास्थानीयज्वालाहेतुत्वात् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुभू᳓र् देवा᳓नान्,  
@@ -733,17 +741,22 @@ Be thou (good) for every sacrifice, for the gods, for every prayer.
 
 <details><summary>पद-पाठः</summary>
 
-अ॒ग्नेः । जि॒ह्वा । अ॒सि॒ । सु॒भूरिति॑ सु-भूः । दे॒वाना॑म् ।
-धाम्ने॑धाम्न॒ इति॒ धाम्ने॑-धा॒म्ने॒ । दे॒वेभ्यः॑ । यजु॑षेयजुष॒ इति॒ यजु॑षे-य॒जु॒षे॒ । भ॒व॒ ।
+सु॒भूरिति॑ सु-भूः । दे॒वाना॑म् । धाम्ने॑धाम्न॒ इति॒ धाम्ने॑-धा॒म्ने॒ । दे॒वेभ्यः॑ । यजु॑षेयजुष॒ इति॒ यजु॑षे-य॒जु॒षे॒ । भ॒व॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-15आज्यमवेक्षते - अग्नेरिति ॥ अग्नेस्त्वं जिह्वासि, जिह्वास्थानीयज्वालाहेतुत्वात् । सुभूः सुष्ठु भूतं जातं सर्वोत्कर्षेणोत्पन्नम् । देवानां स्वभूतं, देवार्थं वा जातम् । यस्मात्त्वमीदृशं, तस्माद्देवेभ्यः देवानाम् । षष्ठ्यर्थे चतुर्थी (पा.सू. 2.3.62 वा 1) । देवार्थं वा । 
+सुभूः सुष्ठु भूतं जातं सर्वोत्कर्षेणोत्पन्नम् । देवानां स्वभूतं, देवार्थं वा जातम् । यस्मात्त्वमीदृशं, तस्माद्देवेभ्यः देवानाम् । षष्ठ्यर्थे चतुर्थी (पा.सू. 2.3.62 वा 1) । देवार्थं वा ।
 
-**धाम्नेधाम्ने** सर्वस्मै धारणाय । 'अनुदात्तं च' (पा.सू. 8.1.3) इति द्वितीयस्याम्रेडितस्य अनुदात्तत्वम् । यथायथं स्वस्वपदस्थितये देवानां प्रभूतं भव । तदर्थं **यजुषेयजुषे भव** पर्याप्तं सम्भव । पूर्वपदाम्रेडितस्यानुदात्तत्वम् । 
+**धाम्नेधाम्ने** सर्वस्मै धारणाय ।
 
-'शुक्रं त्वा शुक्रायाम्' इत्यादिना येन येन यजुषा पुनर्ग्रहीष्यते, येन चावद्यते, तस्मै सर्वस्मै **यजुषे** प्रभूतं **भव** । यदि च **यजुषेयजुषे** प्रभवेत्, ततो **धाम्नेधाम्ने** प्रभवतीति भावः । 'ब्रह्मवादिनो वदन्ति । यदाज्येनान्यानि' (तै.ब्रा. 3.3.5) इत्यादि ब्राह्मणम् ॥
+'अनुदात्तं च' (पा.सू. 8.1.3) इति द्वितीयस्याम्रेडितस्य अनुदात्तत्वम् । यथायथं स्वस्वपदस्थितये देवानां प्रभूतं भव । तदर्थं **यजुषेयजुषे भव** पर्याप्तं सम्भव । पूर्वपदाम्रेडितस्यानुदात्तत्वम् ।
+
+'शुक्रं त्वा शुक्रायाम्' इत्यादिना येन येन यजुषा पुनर्ग्रहीष्यते, येन चावद्यते, तस्मै सर्वस्मै **यजुषे** प्रभूतं **भव** ।
+
+यदि च **यजुषेयजुषे** प्रभवेत्, ततो **धाम्नेधाम्ने** प्रभवतीति भावः । 'ब्रह्मवादिनो वदन्ति ।
+
+यदाज्येनान्यानि' (तै.ब्रा. 3.3.5) इत्यादि ब्राह्मणम् ॥
 </details>
 
 ____
@@ -798,7 +811,7 @@ ____
 प्रोक्षणीरुत्पुनाति
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 

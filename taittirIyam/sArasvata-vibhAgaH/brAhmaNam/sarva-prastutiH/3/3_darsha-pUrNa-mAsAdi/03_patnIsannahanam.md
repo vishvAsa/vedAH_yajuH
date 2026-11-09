@@ -7,7 +7,8 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ-य᳓ज्ञो वा एष यो᳙ऽपत्नीकः᳓ ।  
-न᳓ प्रजाᳶ᳓ प्र᳓जायेरन् ।</details>
+न᳓ प्रजाᳶ᳓ प्र᳓जायेरन् ।
+</details>
 
 <details><summary>मूलम्</summary>
 

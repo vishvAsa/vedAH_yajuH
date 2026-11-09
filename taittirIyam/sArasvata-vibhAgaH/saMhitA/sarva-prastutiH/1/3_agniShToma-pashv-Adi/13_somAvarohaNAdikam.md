@@ -33,6 +33,16 @@ To the heart thee!
 हृ॒दे त्वा॑   +++(उपावहरामि)+++ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+हृ॒दे । त्वा॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+1-2दक्षिणस्य हविर्-धानस्यान्तरेणेषे राजानम् उपावहरति - अवतारयति हविर्धानात् - हृदे त्वेति ॥
+</details>
+
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नसे त्वा  +++(उपावहरामि)+++ ।
@@ -48,6 +58,16 @@ To mind thee!
 मन॑से त्वा  +++(उपावहरामि)+++ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मन॑से । त्वा॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे सोम त्वां हृदे हृदयवद्भ्यो मनुष्येभ्यः उपावहरामीति शेषः ।
+</details>
+
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवे᳓ त्वा   +++(उपावहरामि)+++ ।
@@ -61,6 +81,20 @@ To the sky thee!
 <details><summary>मूलम्</summary>
 
 दि॒वे त्वा॑   +++(उपावहरामि)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒वे । त्वा॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'हृदे त्वेत्याह मनुष्येभ्य एवैतेन करोति' इत्यादि ब्राह्मणम् ।
+
+मनसे मनस्विभ्यः पितृभ्यश्च ।
+
+'पितृभ्य एवैतेन करोति' इत्यादि ब्राह्मणम् ।
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
@@ -80,20 +114,18 @@ To the sun thee!
 
 <details><summary>पद-पाठः</summary>
 
-हृ॒दे । त्वा॒ ।   
-मन॑से । त्वा॒ ।  
-दि॒वे । त्वा॒ ।   
 सूर्या॑य । त्वा॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-1-2दक्षिणस्य हविर्-धानस्यान्तरेणेषे राजानम् उपावहरति - अवतारयति हविर्धानात् - हृदे त्वेति ॥ हे सोम त्वां हृदे हृदयवद्भ्यो मनुष्येभ्यः उपावहरामीति शेषः । 'हृदे त्वेत्याह मनुष्येभ्य एवैतेन करोति' इत्यादि ब्राह्मणम् ।
-
-मनसे मनस्विभ्यः पितृभ्यश्च । 'पितृभ्य एवैतेन करोति' इत्यादि ब्राह्मणम् ।
 दिवे दिविष्ठेभ्यो देवेभ्यश्च त्वामुपावहरामि ।
 
-सूर्याय च त्वामुपावहरामि, प्राधान्यात्पुनरुपादानम् । 'देवेभ्य एवैतेन करोत्येतावतीर्वैदेवतास्ताभ्यः' इत्यादि ब्राह्मणम् ।  हृदे दिवे इति 'ऊडिदम्' इत्यादिना विभक्तेरुदात्तत्वम् ।  
+सूर्याय च त्वामुपावहरामि, प्राधान्यात्पुनरुपादानम् ।
+
+'देवेभ्य एवैतेन करोत्येतावतीर्वैदेवतास्ताभ्यः' इत्यादि ब्राह्मणम् ।
+
+हृदे दिवे इति 'ऊडिदम्' इत्यादिना विभक्तेरुदात्तत्वम् ।
 </details>
 
 ________
@@ -198,6 +230,20 @@ Fear not, tremble not.
 मा भेर्मा सव्ँवि॑क्थाः  ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मा । भेः । मा । समिति॑ । वि॒क्थाः॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अवरोहंश्च **मा भेः** मा च भैषीः मामयं भेत्स्यतीति ।'बहुळं छन्दसि' इतीडभावः, व्यत्ययेन सिचिवृद्धिर्न क्रियते ।
+
+**मा संविक्थाः** मा च कम्पिष्ठाः ।
+
+कस्मादित्याह - मा खलु त्वामहं हिंसिषम्, यागसाधनत्वापत्त्या उत्तमा गतिस्त्वया प्राप्स्यत इति ।
+</details>
+
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓ त्वा हिँसिषम् ।
@@ -215,15 +261,7 @@ Let me not harm thee.
 
 <details><summary>पद-पाठः</summary>
 
-मा । भेः । मा । समिति॑ । वि॒क्थाः॒ ।  
-मा । त्वा॒ । हिँ॒सि॒ष॒म् । 
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-अवरोहंश्च **मा भेः** मा च भैषीः मामयं भेत्स्यतीति ।'बहुळं छन्दसि' इतीडभावः, व्यत्ययेन सिचिवृद्धिर्न क्रियते । 
-
-**मा संविक्थाः** मा च कम्पिष्ठाः । कस्मादित्याह - मा खलु त्वामहं हिंसिषम्, यागसाधनत्वापत्त्या उत्तमा गतिस्त्वया प्राप्स्यत इति ।
+मा । त्वा॒ । हिँ॒सि॒ष॒म् ।
 </details>
 
 ________
@@ -262,7 +300,7 @@ let creatures descend to thee.
 
 ________
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/02_shRNotv_agnis.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/02_shRNotv_agnis.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -292,13 +330,13 @@ Hearken, ye pressing stones, to the sacrifice of me the wise one, Let the god Sa
 <details><summary>मूलम्</summary>
 
 शृ॒णोत्व॒ग्निस्स॒मिधा॒ हव॑म्मे शृ॒ण्वन्त्वापो॑ धि॒षणा॑श्च दे॒वीः ।  
-शृ॒णोत॑ ग्रावाणो वि॒दुषो॒ नु [22] य॒ज्ञँ शृ॒णोतु॑ दे॒वस्स॑वि॒ता हव॑म्मे ॥
+शृ॒णोत॑ ग्रावाणो वि॒दुषो॒ नु य॒ज्ञँ शृ॒णोतु॑ दे॒वस्स॑वि॒ता हव॑म्मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
 
 शृ॒णोतु॑ । अ॒ग्निः । स॒मिधेति॑ सम्-इधा॑ । हव॑म् । मे॒ । शृ॒ण्वन्तु॑ । आपः॑ । धि॒षणाः॑ । च॒ । दे॒वीः ॥  
-शृ॒णोत॑ । ग्रा॒वा॒णः॒ । वि॒दुषः॑ । नु । [22]1 । य॒ज्ञम् । शृ॒णोतु॑ । दे॒वः । स॒वि॒ता । हव॑म् । मे॒ ॥  
+शृ॒णोत॑ । ग्रा॒वा॒णः॒ । वि॒दुषः॑ । नु । य॒ज्ञम् । शृ॒णोतु॑ । दे॒वः । स॒वि॒ता । हव॑म् । मे॒ ॥  
 
 </details>
 
@@ -318,7 +356,7 @@ Hearken, ye pressing stones, to the sacrifice of me the wise one, Let the god Sa
 
 ________
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/03_devIr_Apo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/03_devIr_Apo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -471,7 +509,7 @@ I draw you for the sustenance of the waters.
 
 ________
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/04_yam_agne.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/04_yam_agne.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -504,7 +542,7 @@ That mortal, O Agni, whom thou hast helped in the battles, Whom thou hast streng
 
 <details><summary>पद-पाठः</summary>
 
-यम् । अ॒ग्ने॒ । पृ॒त्स्विति॑ पृत्-सु । मर्त्य॑म् । आवः॑ । वाजे॑षु । यम् । जु॒नाः ॥ सः । यन्ता॑ । शश्व॑तीः । इषः॑ ॥ [23]
+यम् । अ॒ग्ने॒ । पृ॒त्स्विति॑ पृत्-सु । मर्त्य॑म् । आवः॑ । वाजे॑षु । यम् । जु॒नाः ॥ सः । यन्ता॑ । शश्व॑तीः । इषः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

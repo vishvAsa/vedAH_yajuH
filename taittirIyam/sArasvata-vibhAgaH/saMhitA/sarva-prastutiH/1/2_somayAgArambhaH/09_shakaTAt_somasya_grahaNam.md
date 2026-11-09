@@ -31,7 +31,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/02_prachyavasva_bhuvaspate.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/02_prachyavasva_bhuvaspate.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -108,7 +108,7 @@ Nor the Gandharva, Viçvavasu, injure thee.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/03_shyeno_bhUtvA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/03_shyeno_bhUtvA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -205,7 +205,7 @@ Thou art the good luck of the sacrificer.
 हे सोम, त्वं श्येनवद् उत्पतन-समर्थो भूत्वास्मद्-यजमानस्य गृहे प्राचीन-वंशे परापत शीघ्रं गच्छ। देव-सदृशैर् अध्वर्यु-प्रभृतिभिस् तवोपवेशनायाऽऽसन्दी-रूपं स्थानं संस्कृतम्। 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/04_api_panthAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/04_api_panthAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -295,7 +295,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/05_namo_mitrasya.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/05_namo_mitrasya.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -456,15 +456,6 @@ Thou art the pillar of Varuna.
 वरु॑णस्य॒ स्कम्भ॑नमसि॒ वरु॑णस्य स्कम्भ॒सर्ज॑नम॒स्युन्मु॑क्तो॒ वरु॑णस्य॒ पाशः॑ ॥ [17]
 </details>
 
-<details><summary>पद-पाठः</summary>
-
-वरु॑णस्य । स्कम्भ॑नम् । अ॒सि॒ ।   
-वरु॑णस्य । स्क॒म्भ॒सर्ज॑न॒मिति॑ स्कम्भ-सर्ज॑नम् । अ॒सि॒ ।   
-वरु॑णस्य । स्क॒म्भ॒सर्ज॑न॒मिति॑ स्कम्भ-सर्ज॑नम् । अ॒सि॒ । 
-
-उन्मु॑क्त॒ इत्युत्-मु॒क्तः॒ । वरु॑णस्य । पाशः॑ ॥ [17]  
-</details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6शकटमुदगीषमुपस्तम्भयति - वरुणस्य स्कम्भनमसीति ॥ व्याख्यातम् । इह त्वयं विशेषः - ईषाया उपस्कम्भनमभिधेयम्, तत्र तु गौः ॥
@@ -544,7 +535,7 @@ Varuna's noose is loosened.
 
 <details><summary>पद-पाठः</summary>
 
-उन्मु॑क्त॒ इत्युत्-मु॒क्तः॒ । वरु॑णस्य । पाशः॑ ॥ [17]  
+उन्मु॑क्त॒ इत्युत्-मु॒क्तः॒ । वरु॑णस्य । पाशः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

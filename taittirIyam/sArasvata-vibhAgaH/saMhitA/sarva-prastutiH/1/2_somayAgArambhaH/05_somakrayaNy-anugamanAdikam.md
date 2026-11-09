@@ -126,6 +126,25 @@ May Brhaspati make thee rejoice in happiness.
 बृह॒स्पति॑स्त्वा सु॒म्ने र॑ण्वतु ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+बृह॒स्पतिः॑ । त्वा॒ । सु॒म्ने । र॒ण्व॒तु॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+7सप्तमं पदमभिगृह्णाति - बृहस्पतिरिति ॥
+
+बृहस्पतिर्ब्रह्मा, 'ब्रह्म वै देवानां बृहस्पतिः' इति । वनस्पत्यादित्वादुभयपदप्रकृतिस्वरत्वम् । स त्वां सुम्ने सुखे प्रदेशे रण्वतु गमयतु पदं कारयतु । रवि मवि धवि गत्यर्थाः; भौवादिकः इदित्त्वान्नुम् ।
+
+किञ्च - क्रियमाणं वसुभिस्सह रुद्रः आचिकेतु अनुजानातु यः पशूनां पतिः । कि त ज्ञाने, जौहोत्यादिकौ, तयोः प्रथमस्येदं लोटि रूपम् ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हे सोम-क्रयणी-पद, त्वां बृहस्पतिर् अस्मिन् सुख-प्रदेशे रमयतु वसुभिः सहितो रुद्रस् त्वाम् अनुजानातु आवर्तयतु वा।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्रो᳓ व᳓सुभिर् आ᳓ चिकेतु+++(=जानातु)+++ ।
@@ -143,20 +162,7 @@ May Rudra with the Vasus be favourable to thee.
 
 <details><summary>पद-पाठः</summary>
 
-बृह॒स्पतिः॑ । त्वा॒ । सु॒म्ने । र॒ण्व॒तु॒ ।   
-रु॒द्रः । वसु॑भि॒रिति॒ वसु॑-भिः॒ । एति॑ । चि॒के॒तु॒ । 
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-7सप्तमं पदमभिगृह्णाति - बृहस्पतिरिति ॥ बृहस्पतिर्ब्रह्मा, 'ब्रह्म वै देवानां बृहस्पतिः' इति । वनस्पत्यादित्वादुभयपदप्रकृतिस्वरत्वम् । स त्वां सुम्ने सुखे प्रदेशे रण्वतु गमयतु पदं कारयतु । रवि मवि धवि गत्यर्थाः; भौवादिकः इदित्त्वान्नुम् ।
-
-किञ्च - क्रियमाणं वसुभिस्सह रुद्रः आचिकेतु अनुजानातु यः पशूनां पतिः । कि त ज्ञाने, जौहोत्यादिकौ, तयोः प्रथमस्येदं लोटि रूपम् ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-हे सोम-क्रयणी-पद, त्वां बृहस्पतिर् अस्मिन् सुख-प्रदेशे रमयतु वसुभिः सहितो रुद्रस् त्वाम् अनुजानातु आवर्तयतु वा।
+रु॒द्रः । वसु॑भि॒रिति॒ वसु॑-भिः॒ । एति॑ । चि॒के॒तु॒ ।
 </details>
 
 ________
@@ -317,7 +323,7 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 
 यः । अ॒स्मान् । द्वेष्टि॑ ।  
 यम् । च॒ । व॒यम् । द्वि॒ष्मः ।   
-इ॒दम् । अ॒स्य॒ । ग्री॒वाः । [11]  अपीति॑ । कृ॒न्ता॒मि॒ । 
+इ॒दम् । अ॒स्य॒ । ग्री॒वाः । अपीति॑ । कृ॒न्ता॒मि॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -545,7 +551,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/02_tvaShTImatI_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/02_tvaShTImatI_te.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -640,14 +646,14 @@ May I not be separated from abundance of wealth.
 माऽहँ रा॒यस्पोषे॑ण॒ वि यो॑षम् ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मा । अ॒हम् । रा॒यः । पोषे॑ण । वीति॑ । यो॒ष॒म् ॥
+</details>
+
 <details><summary>प्रदीपसिंहः</summary>
 
 अत्र विश्वासप्रस्तुतिमात्रम् आसीत् । मूलं नासीत् । मूलं योजितम् ।
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-मा । अ॒हम् । रा॒यः । पोषे॑ण । वीति॑ । यो॒ष॒म् ॥ [12]  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

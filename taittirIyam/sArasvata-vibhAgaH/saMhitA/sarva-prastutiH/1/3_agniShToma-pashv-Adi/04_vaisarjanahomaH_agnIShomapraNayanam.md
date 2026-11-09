@@ -30,7 +30,7 @@ _______
 त्वँ सो॑म तनू॒कृद्भ्यो॒ द्वेषो॑भ्यो॒ऽन्यकृ॑तेभ्य उ॒रु य॒न्तासि॒ वरू॑थँ॒ स्वाहा॑
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/079/03_tvaM_soma.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/079/03_tvaM_soma.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -372,7 +372,7 @@ _______
 3पूर्वया द्वारा शालाया उपनिष्क्रामति- अयं न इति चतुष्पदया त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/02_ayan_no.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/02_ayan_no.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -401,6 +401,32 @@ May he win booty in the contest for booty.
 
 3पूर्वया द्वारा शालाया उपनिष्क्रामति- अयं न इति चतुष्पदया त्रिष्टुभा ॥ 
 </details>
+
+<details><summary>मूलम्</summary>
+
+अ॒यन्नो॑ अ॒ग्निर्वरि॑वᳵ कृणोत्व॒यम्मृधᳶ॑ पु॒र ए॑तु प्रभि॒न्दन् ।   
+अ॒यँ शत्रू॑ञ्जयतु॒ जर्हृ॑षाणो॒ऽयव्ँवाज॑ञ्जयतु॒ वाज॑सातौ ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । नः॒ । अ॒ग्निः । वरि॑वः । कृ॒णो॒तु॒ । अ॒यम् । मृधः॑ । पु॒रः । ए॒तु॒ । प्र॒भि॒न्दन्निति॑ प्र-भि॒न्दन्न् ॥   
+अ॒यम् । शत्रू॑न् । ज॒य॒तु॒ । जर्हृ॑षाणः । अ॒यम् । वाज॑म् । ज॒य॒तु॒ । वाज॑साता॒विति॒ वाज॑-सा॒तौ॒ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+**अयम्** अग्नी-षोमाख्यः प्रणीयमानो **ऽग्रिर् वरिवः कृणोतु** अभीष्टानि धनानि ददातु । कृवि हिंसाकरणयोः, 'धिन्विकृण्व्योरच' इत्युप्रत्ययः । 
+
+किञ्च - **अयं मृधस्** सङ्ग्रामान् **प्रभिन्दन्** प्रकर्षेण विनाशयन् **पुरो** ऽग्रत **एतु** गच्छतु । ततश् चायम् अग्निर् अस्माकं **शत्रून् जयतु जर्हृषाणः** जयेन भृशं हृष्टान्तःकरणः - हृषेर् यड्लुगन्ताद् व्यत्ययेनात्मनेपदम्, 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ।  
+
+किञ्च - **अयम्** अग्निर् **वाजम्** अन्नं जयतु अस्मदर्थम् आत्मवशं करोतु । क्व ? **वाजसातौ** । 'ऊतियूति' इत्यादिना निपातनात् सनोतेः कर्मणि क्तिन्, 'जनसन' इत्यात्वम् । वाजो लभ्यते यस्मिन् तस्मिन् **वाज-सातौ** सङ्गामे वाजं जयतु । वाजशब्दो वृषादित्वादाद्युदात्तः ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पूर्व-द्वारेण निष्क्रामन्तो यम् अग्निं प्रणयन्ति। अयम् अग्निर् अस्माकं वरिवः कृणोतु श्रेयः करोतु। अयं मृधो वैरिणः प्रभिन्दन् पुर एतु अग्रे गच्छतु। अयं जर्हृषाणो हृष्टान्तःकरणः शत्रूञ् जयतु। वाजस्यान्नस्य सातिर् लाभो यस्मिन् संग्रामे स वाज-सातिस् तस्मिन्न् अयम् अस्मदर्थं वाजं जयतु वशी करोतु।
+</details>
 </details>
 
 </div>
@@ -411,7 +437,7 @@ _______
 4आह्वनीये स्रुवाहुतिं जुहोति - उरु विष्णो इति चतुष्पदयानुष्टुभा ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/03_uru_viShNo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/03_uru_viShNo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -494,7 +520,7 @@ _______
 सोमो॑ जिगाति गातु॒विद् [6]दे॒वाना॑मेति निष्कृ॒तमृ॒तस्य॒ योनि॑मा॒सदम् 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/13_somo_jigAti.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/13_somo_jigAti.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -954,7 +980,7 @@ _______
 ए॒तत्त्वँ सो॑म दे॒वो दे॒वानुपा॑गा इ॒दम॒हम्म॑नु॒ष्यो॑ मनु॒ष्या॑न्त्स॒ह प्र॒जया॑ स॒ह रा॒यस्पोषे॑ण।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/04_etat_tvam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/04_etat_tvam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1192,6 +1218,11 @@ Agni, lord of vows, thou art the vow-lord of vows.
 अग्ने॑ व्रतपते॒ त्वव्ँ व्र॒तानाव्ँ॑ व्र॒तप॑तिर् असि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । व्र॒त॒प॒त॒ इति॑ व्रत-प॒ते॒ । त्वम् । व्र॒ताना॑म् । व्र॒तप॑ति॒रिति॑ व्र॒त-प॒तिः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ म᳓म तनू᳓स् त्व᳓य्य् अ᳓भूद्, इयँ᳓ सा᳓ म᳓यि ।
@@ -1210,6 +1241,11 @@ may thy body that hath been in me be there in thee.
 या तव॑ त॒नूर्मय्य् अभू॑दे॒षा सा त्वयि॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+या । मम॑ । त॒नूः । त्वयि॑ । अभू॑त् । इ॒यम् । सा । मयि॑ । या । तव॑ । त॒नूः । मयि॑ । अभू॑त् । ए॒षा । सा । त्वयि॑ ।
+</details>
+
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथायथ᳓न् नौ व्रतपते व्रति᳓नोर् व्रता᳓नि ।+++(5)+++
@@ -1225,20 +1261,14 @@ Be aright the vows, O vow-lord, of both of us votaries.
 य॒था॒य॒थन् नौ॑ व्रतपते व्र॒तिनो॑र् व्र॒तानि॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+य॒था॒य॒थमिति॑ यथा-य॒थम् । नौ॒ । व्र॒त॒प॒त॒ इति॑ व्रत-प॒ते॒ । व्र॒तिनोः॑ । व्र॒तानि॑ ॥
+</details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अग्ने॑ व्रतपते॒ त्वव्व्ँर॒ताना॑व्व्ँर॒तप॑तिरसि॒ या मम॑ त॒नूस्त्वय्यभू॑दि॒यँ सा मयि॒ या तव॑ त॒नूर्मय्यभू॑दे॒षा सा त्वयि॑ यथाय॒थन्नौ॑ व्रतपते व्र॒तिनो॑र्व्र॒तानि॑ ॥ [8]
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-अग्ने॑ । व्र॒त॒प॒त॒ इति॑ व्रत-प॒ते॒ । त्वम् । व्र॒ताना॑म् ।  
-व्र॒तप॑ति॒रिति॑ व्र॒त-प॒तिः॒ । अ॒सि॒ ।   
-या । मम॑ । त॒नूः । त्वयि॑ । अभू॑त् ।   ़
-इ॒यम् । सा । मयि॑ ।   
-या । तव॑ । त॒नूः । मयि॑ । अभू॑त् ।    
-ए॒षा । सा । त्वयि॑ ।    
-य॒था॒य॒थमिति॑ यथा-य॒थम् । नौ॒ । व्र॒त॒प॒त॒ इति॑ व्रत-प॒ते॒ । व्र॒तिनोः॑ । व्र॒तानि॑ ॥ [8]
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

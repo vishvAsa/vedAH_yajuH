@@ -36,7 +36,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/02_daivIn_dhiyam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/02_daivIn_dhiyam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -120,7 +120,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/03_ye_devA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/03_ye_devA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -234,7 +234,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/04_agne_tvam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/04_agne_tvam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -310,7 +310,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/011/01_tvamagne_vratapA.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/011/01_tvamagne_vratapA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -618,6 +618,11 @@ Du Agni bist des Opfers Hort, ein Gott du unter Sterblichen, Und bei den Opfern 
 त्वम् [6] य॒ज्ञेष्वीड्यः॑ ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+त्वम् । अ॒ग्ने॒ । व्र॒त॒पा इति॑ व्रत-पाः । अ॒सि॒ । दे॒वः । एति॑ । मर्त्ये॑षु । आ ॥ त्वम् । य॒ज्ञेषु॑ । ईड्यः॑ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4प्रबुद्धं यजमानं वाचयति - त्वमग्ने इति गायत्रीं त्रिपदां प्रतिष्ठानाम्नीम् 'विपरीता प्रीतष्ठा' इति वचनात् । व्याख्याता चेयमृक् 'उभा वामिन्द्राग्नी' इत्यनुवाके । 'अव्रत्यमिव वा एष करोति यो दीक्षितः' इत्यादि ब्राह्मणम् ॥
@@ -641,7 +646,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/05_vishve_devA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/05_vishve_devA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -737,7 +742,7 @@ ________
 आहरन्तं दृष्ट्वा जपति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/06_rAsveyat_somA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/06_rAsveyat_somA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -947,7 +952,7 @@ _____
 
 <details><summary>पद-पाठः</summary>
 
-हयः॑ । अ॒सि॒ । मम॑ । भोगा॑य । भ॒व॒ । [7]  
+हयः॑ । अ॒सि॒ । मम॑ । भोगा॑य । भ॒व॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1201,7 +1206,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/07_devIr_Apo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/07_devIr_Apo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1329,6 +1334,11 @@ Along an unbroken web of earth may I go.
 अच्छि॑न्न॒न्तन्तु॑म्पृथि॒व्या अनु॑ गेषम्। +++(यजुः)+++
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+देवीः॑ । आ॒पः॒ । अ॒पा॒म् । न॒पा॒त् । यः । ऊ॒र्मिः । ह॒वि॒ष्यः॑ । इ॒न्द्रि॒यावा॒निती॑न्द्रि॒य-वा॒न् । म॒दिन्त॑मः । तम् । वः॒ । मा । अवेति॑ । क्र॒मि॒ष॒म् । अच्छि॑न्नम् । तन्तु॑म् । पृ॒थि॒व्याः । अन्विति॑ । गे॒ष॒म् ।
+</details>
+
 <details><summary>प्रदीप-टिप्पनी</summary>
 
 अत्र छन्दोविषये अनुष्टुप्－त्रिष्टुबिति द्वेधा उल्लेखः कृतः । त्रिष्टुप्त्वेन विभागे १८－११－१२ अक्षरणि भवन्ति। यथा
@@ -1393,6 +1403,28 @@ From good to better do thou advance.
 भ॒द्राद॒भि श्रेय॒ᳶ  प्रेहि॑  ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+भ॒द्रात् । अ॒भीति॑ । श्रेयः॑ । प्रेति॑ । इ॒हि॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+18प्रयाणे कर्तव्ये प्रयाति - भद्रादिति विराजा गायत्र्या, वस्वेकपादत्वात् । अयं च मन्त्रस्सामर्थ्यान्नदीतरणमन्त्रात्पूर्वो द्रष्टव्यः ॥
+
+भद्रात्प्रशस्तादस्मात् स्थानात् श्रेयः प्रशस्यतरं स्थानं योगक्षेमोपपन्नमभिप्रेहि आभिमुख्येन गच्छ । अन्तरात्मानमाह समारूढं वाग्निम् ।   
+किञ्च - बृहस्पतिः ।
+
+'तद्बृहतोः करपत्योः' इति सुट्, वनस्पत्यादित्वात् पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अत्रार्थ-क्रमेण 'देवीर् आप' इत्य् अस्मात् पूर्वम् एवायं मन्त्रो ऽवगन्तव्यः। हे रथ, भद्रात् प्रशस्ताद् अस्मान् नित्याग्नि-होत्र-स्नानाद् अतिप्रशस्तं सौमिकं देव-यजनम् अभि प्रयाहि। बृहस्पतिस् तव पुरतो गन्ता भवतु। अथ प्रयाणाद् ऊर्ध्वं पृथिव्याः संबन्धिन्या आ समन्ताद् वरे श्रेष्ठे स्थान ईम् इमां गतिम् अवस्य समापय।
+
+हे रथाभिमानिन्न् आदित्य, शत्रून् राक्षसादीन् आरे देव-यजनाद् दूरे कुरु।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ᳓हस्प᳓तिᳶ पुरएता᳓ ते अस्तु᳓ ।
@@ -1412,20 +1444,16 @@ May Brhaspati be thy leader
 
 <details><summary>पद-पाठः</summary>
 
-भ॒द्रात् । अ॒भीति॑ । श्रेयः॑ । प्रेति॑ । इ॒हि॒ ।  
-बृह॒स्पतिः॑ । पु॒र॒ए॒तेति॑ पुरः-ए॒ता । ते॒ । अ॒स्तु॒ । 
+बृह॒स्पतिः॑ । पु॒र॒ए॒तेति॑ पुरः-ए॒ता । ते॒ । अ॒स्तु॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-18प्रयाणे कर्तव्ये प्रयाति - भद्रादिति विराजा गायत्र्या, वस्वेकपादत्वात् । अयं च मन्त्रस्सामर्थ्यान्नदीतरणमन्त्रात्पूर्वो द्रष्टव्यः ॥  
-भद्रात्प्रशस्तादस्मात् स्थानात् श्रेयः प्रशस्यतरं स्थानं योगक्षेमोपपन्नमभिप्रेहि आभिमुख्येन गच्छ । अन्तरात्मानमाह समारूढं वाग्निम् ।   
-किञ्च - बृहस्पतिः । 'तद्बृहतोः करपत्योः' इति सुट्, वनस्पत्यादित्वात् पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् । पुरएता अग्रगामी ते तव अस्तु । प्राप्तकाले लोट्, 'पुरोव्ययम्' इति गतित्वात् 'गतिकारकोपपदात्कृत्' इति कृदुत्तरपदप्रकृतिस्वरत्वम् । 'ब्रह्म वै देवानां बृहस्पतिस्तमेवान्वारभते' इत्यादि ब्राह्मणम् ॥
-</details>
+पुरएता अग्रगामी ते तव अस्तु ।
 
-<details><summary>सायण-टीका</summary>
+प्राप्तकाले लोट्, 'पुरोव्ययम्' इति गतित्वात् 'गतिकारकोपपदात्कृत्' इति कृदुत्तरपदप्रकृतिस्वरत्वम् ।
 
-अत्रार्थ-क्रमेण 'देवीर् आप' इत्य् अस्मात् पूर्वम् एवायं मन्त्रो ऽवगन्तव्यः। हे रथ, भद्रात् प्रशस्ताद् अस्मान् नित्याग्नि-होत्र-स्नानाद् अतिप्रशस्तं सौमिकं देव-यजनम् अभि प्रयाहि। बृहस्पतिस् तव पुरतो गन्ता भवतु। अथ प्रयाणाद् ऊर्ध्वं पृथिव्याः संबन्धिन्या आ समन्ताद् वरे श्रेष्ठे स्थान ईम् इमां गतिम् अवस्य समापय। हे रथाभिमानिन्न् आदित्य, शत्रून् राक्षसादीन् आरे देव-यजनाद् दूरे कुरु।
+'ब्रह्म वै देवानां बृहस्पतिस्तमेवान्वारभते' इत्यादि ब्राह्मणम् ॥
 </details>
 
 ________
@@ -1505,7 +1533,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/08_Aidam_aganma.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/08_Aidam_aganma.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1546,7 +1574,7 @@ Let us rejoice in fullness of wealth, in sustenance.
 
 एति॑ । इ॒दम् । अ॒ग॒न्म॒ । दे॒व॒यज॑न॒मिति॑ देव-यज॑नम् । पृ॒थि॒व्याः । विश्वे॑ । दे॒वाः । यत् । अजु॑षन्त । पूर्वे॑ । 
 ऋ॒क्सा॒माभ्या॒मित्यृ॑क्सा॒म-भ्या॒म् । यजु॑षा । स॒न्तर॑न्त॒ इति॑ सं-तर॑न्तः । 
-रा॒यः । पोषे॑ण । समिति॑ । इ॒षा । म॒दे॒म॒ ॥ [8]
+रा॒यः । पोषे॑ण । समिति॑ । इ॒षा । म॒दे॒म॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

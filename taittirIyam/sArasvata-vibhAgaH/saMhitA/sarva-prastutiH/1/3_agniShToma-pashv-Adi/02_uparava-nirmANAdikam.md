@@ -28,7 +28,7 @@ I dig those which slay the Raksas, which slay the spell, which are of Visnu.
 
 <details><summary>पद-पाठः</summary>
 
-र॒क्षो॒हण॒ इति॑ रक्षः-हनः॑ । व॒ल॒ग॒हन॒ इति॑ वलग-हनः॑ । वै॒ष्ण॒वान् । ख॒ना॒मि॒ । 2B ।
+र॒क्षो॒हण॒ इति॑ रक्षः-हनः॑ । व॒ल॒ग॒हन॒ इति॑ वलग-हनः॑ । वै॒ष्ण॒वान् । ख॒ना॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -55,7 +55,8 @@ _______
 इदम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒ यन्न॑स्समा॒नो यमस॑मानो निच॒खाने॒दमे॑न॒मध॑रङ्करोमि॒ यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ गाय॒त्रेण॒ छन्द॒सा 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam/idam_aham.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam/idam_aham.md">
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इदम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒ यन्न॑स्समा॒नो यमस॑मानो निच॒खाने॒दमे॑न॒मध॑रङ्करोमि॒ यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ 
@@ -126,6 +127,7 @@ Here do I overthrow him who equal or unequal is ill-disposed to us.
 अत्र विश्वासप्रस्तुतौ मूले पि वाक्यविभागे दोषः भाति। निचखानेदम् इदं पूर्ववाक्यम् समाप्तमासीत् । इदम् इति पदम् अग्रिमवाक्यान्वयि । 
 किञ्च – एनमहमधरं अधोगतिं करोमि । इदमिति पूर्ववत्क्रियाविशेषणम् । इति टीका । अतः व्यत्यासः कृतः
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -366,7 +368,7 @@ thou art Viśvaraj, slayer of all destructive things [1].
 
 <details><summary>पद-पाठः</summary>
 
-वि॒श्वा॒राडिति॑ विश्व-राट् । अ॒सि॒ । विश्वा॑साम् । ना॒ष्ट्राणा॑म् । ह॒न्ता । [3]
+वि॒श्वा॒राडिति॑ विश्व-राट् । अ॒सि॒ । विश्वा॑साम् । ना॒ष्ट्राणा॑म् । ह॒न्ता ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -443,7 +445,8 @@ _______
 यवो॑ऽसि य॒वया॒स्मद्द्वेषो॑ य॒वयारा॑तीः 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓वोऽसि।  
@@ -473,8 +476,7 @@ bar evil spirits.
 <details><summary>पद-पाठः</summary>
 
 यवः॑ । अ॒सि॒ ।   
-य॒वय॑ । अ॒स्मत् । द्वेषः॑ । [1]
-य॒वय॑ । अरा॑तीः । 
+य॒वय॑ । अ॒स्मत् । द्वेषः॑ । य॒वय॑ । अरा॑तीः । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -498,6 +500,7 @@ bar evil spirits.
 
 हे धान्य त्वं यवो ऽसि अमिश्री-कर्ता ऽसि। अतो द्वेषिणो राक्षसान् इतरान् अपि शत्रून् अस्मत्तो वियोजय।
 </details>
+
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -555,7 +558,7 @@ _______
 <details><summary>Keith</summary>
 
 I pour the libation over those which slay the Raksas, which slay the spell, and which are of Visnu.
-\</details>
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -723,7 +726,7 @@ call forth to Indra with a great voice.
 <details><summary>पद-पाठः</summary>
 
 बृ॒हन् । अ॒सि॒ । बृ॒हद्ग्रा॒वेति॑ बृ॒हत्-ग्रा॒वा॒ ।   
-बृ॒ह॒तीम् । इन्द्रा॑य । वाच॑म् । व॒द॒ ॥ [4]
+बृ॒ह॒तीम् । इन्द्रा॑य । वाच॑म् । व॒द॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

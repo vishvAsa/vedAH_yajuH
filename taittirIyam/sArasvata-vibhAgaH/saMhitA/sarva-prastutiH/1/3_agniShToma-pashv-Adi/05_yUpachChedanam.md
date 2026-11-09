@@ -27,7 +27,7 @@ _______
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/02_atyanyAn_agAn.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/02_atyanyAn_agAn.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -187,15 +187,6 @@ O plant, protect him.
 </div>  
 
 _______
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-4स्वधितिना तिर्यञ्चं प्रहरति
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-स्व᳓धिते मै᳓नँ हिँसीः।
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md">
 
@@ -420,7 +411,7 @@ uncut, with wealth of heroes, (give us) riches.
 
 <details><summary>पद-पाठः</summary>
 
-अच्छि॑न्नः । रायः॑ । सु॒वीर॒ इति॑ सु-वीरः॑ ॥ [9]
+अच्छि॑न्नः । रायः॑ । सु॒वीर॒ इति॑ सु-वीरः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

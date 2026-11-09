@@ -338,7 +338,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -404,6 +404,11 @@ Let them bear from us all pollution.
 विश्व॑म॒स्मत्प्र व॑हन्तु रि॒प्रम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+विश्व॑म् । अ॒स्मत् । प्रेति॑ । व॒ह॒न्तु॒ । रि॒प्रम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7सम्प्रधाव्य रजः प्लावयति - विश्वमिति विराजैकपदया ॥अस्मत् अस्मभ्यं अस्मदीयेभ्यो यजमानेभ्यः विश्वं रिप्रं पापं इमा आपः प्रवहन्तु देशान्तरं प्रापयन्तु नाशयन्त्विति यावत् ॥
@@ -428,6 +433,11 @@ Forth from these waters do I come bright, in purity.
 <details><summary>मूलम्</summary>
 
 उदा॑भ्य॒श्शुचि॒रा पू॒त ए॑मि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उदिति॑ । आ॒भ्यः॒ । शुचिः॑ । एति॑ । पू॒तः । ए॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -597,7 +607,7 @@ splendour [1] place in me.
 
 म॒ही॒नाम् । पयः॑ । अ॒सि॒ ।  
 व॒र्चो॒धा इति॑ वर्चः-धाः । अ॒सि॒ ।   
-वर्चः॑ । [1]  मयि॑ । धे॒हि॒ ।
+वर्चः॑ । मयि॑ । धे॒हि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -745,7 +755,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/03_chitpatis_tvA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/03_chitpatis_tvA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -783,7 +793,7 @@ With the rays of the bright sun.
 
 चि॒त्पति॒रिति॑ चित्-पतिः॑ । त्वा॒ । पु॒ना॒तु॒ ।   
 दे॒वः । त्वा॒ । स॒वि॒ता । पु॒ना॒तु॒ । अच्छि॑द्रेण । प॒वित्रे॑ण । वसोः॑ । सूर्य॑स्य । र॒श्मिभि॒रिति॑ र॒श्मि-भिः॒ । 
-()
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -832,7 +842,7 @@ With the rays of the bright sun.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/04_vAkpatistvA_punAtu.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/04_vAkpatistvA_punAtu.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -883,7 +893,7 @@ With the rays of the bright sun.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/05_devas_tvA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/05_devas_tvA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1005,7 +1015,7 @@ ________
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/06_A_vo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/06_A_vo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1034,15 +1044,15 @@ For that we ask you, O holy ones.
 आ वो॑ देवास ईमहे॒ सत्य॑धर्माणो अध्व॒रे यद्वो॑ देवास आगु॒रे यज्ञि॑यासो॒ हवा॑महे
 </details>
 
-<details><summary>पद-पाठः</summary>
-
-एति॑ । वः॒ । दे॒वा॒सः॒ । ई॒म॒हे॒ । सत्य॑धर्माण॒ इति॒ सत्य॑-ध॒र्मा॒णः॒ । अ॒ध्व॒रे । यत् । वः॒ । दे॒वा॒सः॒ । आ॒गु॒र इत्या॑-गु॒रे । यज्ञि॑यासः । हवा॑महे । 
-</details>
-
 <details><summary>मूलम्</summary>
 
 आ वो॑ देवास ईमहे॒ सत्य॑धर्माणो अध्व॒रे ।  
 यद्वो॑ देवास आगु॒रे यज्ञि॑यासो॒ हवा॑महे ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । वः॒ । दे॒वा॒सः॒ । ई॒म॒हे॒ । सत्य॑धर्माण॒ इति॒ सत्य॑-ध॒र्मा॒णः॒ । अ॒ध्व॒रे । यत् । वः॒ । दे॒वा॒सः॒ । आ॒गु॒र इत्या॑-गु॒रे । यज्ञि॑यासः । हवा॑महे ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1184,11 +1194,6 @@ ________
 इह᳓ मा स᳓न्तम् पाहि ॥  
 </details>
 
-<details><summary>पद-पाठः</summary>
-
-इ॒ह । मा॒ । सन्त॑म् । पा॒हि॒ ॥ [2]  
-</details>
-
 <details><summary>Keith</summary>
 
 Guard me that am here.
@@ -1197,6 +1202,11 @@ Guard me that am here.
 <details><summary>मूलम्</summary>
 
 इ॒ह मा॒ सन्त॑म्पाहि ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒ह । मा॒ । सन्त॑म् । पा॒हि॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

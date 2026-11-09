@@ -9,7 +9,7 @@ _______
 1ऐन्द्रवायवपात्रेण वायव्यं गृह्णाति - आवायो इति चतुष्पदया त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/092/01_A_vAyo.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/092/01_A_vAyo.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -431,6 +431,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -459,6 +464,11 @@ to Vayu thee!
 वा॒यवे॑ त्वा  ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वा॒यवे॑ । त्वा॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे सोम त्वमपि उपयामगृहीतोसि, अतो वायवे त्वां गृह्णामीति शेषः । जुष्टमिति केचिच्छेषमिच्छन्ति, इष्टं सेव्यं वा गृह्णामीत्यर्थः ॥
@@ -470,7 +480,7 @@ _______
 2तस्मिन्नैन्द्रवायवं गृह्णाति - इन्द्रवायू इति गायत्र्या ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/002/04_indravAyU_ime.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/002/04_indravAyU_ime.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -793,6 +803,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -821,6 +836,11 @@ ________________
 इ॒न्द्र॒वा॒युभ्या॑न्त्वा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इ॒न्द्र॒वा॒युभ्या॒मिती॑न्द्रवा॒यु-भ्या॒म् । त्वा॒ ।
+</details>
+
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -844,6 +864,11 @@ This is thy birthplace;
 ए॒ष ते॒ योनिः॑।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **एष ते योनिः** स्थानम् ।
@@ -864,6 +889,11 @@ to the comrades thee!
 <details><summary>मूलम्</summary>
 
 स॒जोषा॑भ्यान्त्वा ॥  [5]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒जोषा॑भ्या॒मिति॑ स-जोषा॑भ्याम् । त्वा॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

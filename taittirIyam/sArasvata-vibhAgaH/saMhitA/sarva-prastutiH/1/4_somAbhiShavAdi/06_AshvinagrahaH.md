@@ -10,7 +10,7 @@ _______
 1बहिष्पवमाने स्तुते आश्विनं गृह्णाति - या वां कशेति गायत्र्या त्रिपदया ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/03_yA_vAM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/03_yA_vAM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -294,6 +294,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -322,6 +327,11 @@ to the Aśvins thee!
 अ॒श्विभ्या॑न्त्वा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒श्विभ्या॒मित्य॒श्वि-भ्या॒म् । त्वा॒ ।
+</details>
+
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -341,6 +351,11 @@ This is thy birthplace; to the sweet thee!
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॒र्माध्वी॑भ्यान्त्वा ॥ [7]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । माध्वी॑भ्याम् । त्वा॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
