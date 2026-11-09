@@ -512,11 +512,6 @@ _______
 12 पशुनिहननस्थाने निहन्यमानाय बर्हिर् उपास्यति - पृथिव्या इति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-पृथिव्या᳓स् सम्पृ᳓चᳶ पाहि ।
-</details>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pRthivyAH.md">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -545,16 +540,6 @@ Guard from the contact of earth.
 </details>
 
 </div>
-
-<details><summary>मूलम्</summary>
-
-पृ॒थि॒व्यास्स॒म्पृचᳶ॑ पाहि ।
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-पृ॒थि॒व्याः । स॒म्पृच॒ इति॑ सम्-पृचः॑ । पा॒हि॒ ।
-</details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

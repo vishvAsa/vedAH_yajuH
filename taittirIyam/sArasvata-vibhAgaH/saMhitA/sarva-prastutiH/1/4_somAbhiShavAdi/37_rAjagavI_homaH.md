@@ -19,6 +19,11 @@ title = "३७ राजगवी-होमः"
 चि॒त्तँ स॑न्ता॒नेन॑  +++(यजामि)+++ ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+चि॒त्तम् । स॒न्ता॒नेनेति॑ सम्-ता॒नेन॑ ।
+</details>
+
 <details><summary>Keith</summary>
 
 Citta with the sinew, 
@@ -44,6 +49,11 @@ Bhava with the liver,
 भ॒वय्ँय॒क्ना  +++(यजामि)+++ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+भ॒वम् । य॒क्ना ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 भवः अपामधिष्ठाता । यकृत् कृष्णो मांसविशेषः ।  
@@ -57,6 +67,11 @@ Bhava with the liver,
 <details><summary>मूलम्</summary>
 
 रु॒द्रन् तनि॑म्ना  +++(यजामि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रु॒द्रम् । तनि॑म्ना ।
 </details>
 
 <details><summary>Keith</summary>
@@ -84,6 +99,11 @@ Paśupati with the thick heart,
 पशु॒पतिँ॑ स्थूलहृद॒येन  +++(यजामि)+++ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प॒शु॒पति॒मिति॑ पशु-पति॑म् । स्थू॒ल॒हृ॒द॒येनेति॑ स्थूल-हृ॒द॒येन॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पशुपतिः पृथिव्या अधिष्ठाता । स्थूलहृदयं पद्मकोशाकारो मांसविशेषः ।
@@ -102,6 +122,11 @@ Agni with the heart,
 <details><summary>मूलम्</summary>
 
 अ॒ग्निँ हृद॑येन  +++(यजामि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निम् । हृद॑येन ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -124,6 +149,11 @@ Rudra with the blood,
 रु॒द्रल्ँलोहि॑तेन  +++(यजामि)+++ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रु॒द्रम् । लोहि॑तेन ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 रुद्रः यजमानस्य अधिष्ठाता । लोहितं रक्तम् ।   
@@ -142,6 +172,11 @@ Rudra with the blood,
 <details><summary>मूलम्</summary>
 
 श॒र्वम्मत॑स्नाभ्याम्  +++(यजामि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+श॒र्वम् । मत॑स्नाभ्याम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -164,6 +199,11 @@ Mahadeva with the intestinal flesh,
 म॒हा॒दे॒वम॒न्तᳶपा॑र्श्वेन ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+म॒हा॒दे॒वमिति॑ महा-दे॒वम् । अ॒न्तᳶपा॑र्श्वे॒नेत्य॒न्तः-पा॒र्श्वे॒न॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **महादेवः** प्राणस्य वायोरधिष्ठाता । **अन्तःपार्श्वं** पार्श्वयोरन्तः अन्तःपार्श्वम् ।
@@ -182,6 +222,11 @@ him that slayest most quickly with the entrails.
 <details><summary>मूलम्</summary>
 
 ओ॒षि॒ष्ठ॒हनँ॑ शिङ्गी-निको॒श्या॑भ्याम्+++(=??)+++   +++(यजामि)+++ ॥ [37]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ओ॒षि॒ष्ठ॒हन॒मित्यो॑षिष्ठ-हन॑म् । शि॒ङ्गी॒नि॒को॒श्या॑भ्या॒मिति॑ शिङ्गी-नि॒को॒श्या॑भ्याम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

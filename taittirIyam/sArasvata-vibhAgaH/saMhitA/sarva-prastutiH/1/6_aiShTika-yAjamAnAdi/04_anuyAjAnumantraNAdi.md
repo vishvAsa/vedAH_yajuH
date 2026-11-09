@@ -135,6 +135,26 @@ May I be victorious through the victory of Agni.
 अ॒ग्नेर॒हमुज्जि॑ति॒मनूज्जे॑षम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तत्राग्नेर् या उज्जितिरभूत् पूर्वं तामहमनूज्जेषम्; यथाग्निरुदजयत, तद्वदहमप्यनेनाग्नेर्यागेन उज्जेषमुज्जयेयं तादृशमैश्वर्यम्ममामुत्र भूयादिति ।
+
+'दर्शपूर्णमासयोरेव देवतानां यजमान उज्जितिमनूज्ज यति' इत्यादि ब्राह्मणम् । जयतेर्लेटि 'सिब्बहुलं लेटि' अडागमः, 'इतश्च लोपः' शपो लुक्, 'तादौ च' इत्युज्जितिशब्दे गतेः प्रकृतिस्वरत्वं, लक्षणेऽनोः कर्मप्रवचनीयत्वम् । एतेन सर्वा उज्जितयो व्याख्याताः ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+यस्मिन्काले होता सूक्तवाकं पठन्नग्निरिदँ हविरजुषतेत्यादीनि तत्तद्देवता-स्मारकाणि वाक्यानि पठति तस्मिन्कालेऽध्वर्युर्यजमानं तत्तद्देवताविषयाण्युज्जितिवाक्यानि वाचयेत्। अमावास्यायां पौर्णामास्यां वा यां देवतां यजति तदिष्टमनतिक्रम्य तदनुसारेण सूक्तवाकभागा उज्जितिभागाश्च प्रयोक्तव्याः।  
+
+पाठस्तु -  
+अग्नेहरमिति। आज्यभागदेवोऽग्निर्हविः सेवित्वा तेन हविषा पुष्टो यज्ञविरोधिनोऽसुरादीनभिभवन्नुत्कृष्टं जयं प्राप्तवान्। तदीयां तामुज्जितिमनु यजमानोऽहं पापरूपं वैरिणमभिभवन्नुत्कृष्टं जयं प्राप्तोऽस्मि। एवं सर्वत्र योज्यम्।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मस्याह᳓म् उ᳓ज्जितिम् अ᳓नू᳓ज्जेषम् ।
@@ -148,6 +168,11 @@ May I be victorious through the victory of Soma.
 <details><summary>मूलम्</summary>
 
 सोम॑स्या॒हमुज्जि॑ति॒मनूज्जे॑षम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सोम॑स्य । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -165,6 +190,11 @@ May I be victorious through the victory of Agni.
 अ॒ग्नेर॒हमुज्जि॑ति॒मनूज्जे॑षम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नी᳓षो᳓मयोर् अह᳓म् उ᳓ज्जितिम् अ᳓नू᳓ज्जेषम् ।
@@ -178,6 +208,11 @@ May I be victorious through the victory of Agni and Soma.
 <details><summary>मूलम्</summary>
 
 अ॒ग्नीषोम॑योर॒हमुज्जि॑ति॒मनूज्जे॑षम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नीषोम॑यो॒रित्य॒ग्नी-सोम॑योः । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -195,6 +230,11 @@ May I be victorious through the victory of Indra and Agni.
 इ॒न्द्रा॒ग्नि॒योर॒हमुज्जि॑ति॒मनूज्जे॑षम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इ॒न्द्रा॒ग्नि॒योरिती॑न्द्र-अ॒ग्नि॒योः । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस्याह᳓म् उ᳓ज्जितिम् अ᳓नू᳓ज्जेषम् ।
@@ -210,6 +250,11 @@ May I be victorious through the victory of Indra [1].
 इन्द्र॑स्या॒हमुज्जि॑ति॒मनूज्जे॑षम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑स्य । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महेन्द्र᳓स्याह᳓म् उ᳓ज्जितिम् अ᳓नू᳓ज्जेषम् ।
@@ -223,6 +268,11 @@ May I be victorious through the victory of Mahendra.
 <details><summary>मूलम्</summary>
 
 म॒हे॒न्द्रस्या॒हमुज्जि॑ति॒मनूज्जे॑षम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒हे॒न्द्रस्येति॑ महा-इ॒न्द्रस्य॑ । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,34 +292,7 @@ I May I be victorious through the victory of Agni Svistakrt.
 
 <details><summary>पद-पाठः</summary>
 
-अ॒ग्नेः । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।  
-
-सोम॑स्य । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् । 
-
-अ॒ग्नेः । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
-
-अ॒ग्नीषोम॑यो॒रित्य॒ग्नी-सोम॑योः । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
-
-इ॒न्द्रा॒ग्नि॒योरिती॑न्द्र-अ॒ग्नि॒योः । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् । 
-
-इन्द्र॑स्य । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् । 
-
-म॒हे॒न्द्रस्येति॑ महा-इ॒न्द्रस्य॑ । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् । 
-
-अ॒ग्नेः । स्वि॒ष्ट॒कृत॒ इति॑ स्विष्ट-कृतः॑ । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् । 
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-तत्राग्नेर् या उज्जितिरभूत् पूर्वं तामहमनूज्जेषम्; यथाग्निरुदजयत, तद्वदहमप्यनेनाग्नेर्यागेन उज्जेषमुज्जयेयं तादृशमैश्वर्यम्ममामुत्र भूयादिति । 'दर्शपूर्णमासयोरेव देवतानां यजमान उज्जितिमनूज्ज यति' इत्यादि ब्राह्मणम् । जयतेर्लेटि 'सिब्बहुलं लेटि' अडागमः, 'इतश्च लोपः' शपो लुक्, 'तादौ च' इत्युज्जितिशब्दे गतेः प्रकृतिस्वरत्वं, लक्षणेऽनोः कर्मप्रवचनीयत्वम् । एतेन सर्वा उज्जितयो व्याख्याताः ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-यस्मिन्काले होता सूक्तवाकं पठन्नग्निरिदँ हविरजुषतेत्यादीनि तत्तद्देवता-स्मारकाणि वाक्यानि पठति तस्मिन्कालेऽध्वर्युर्यजमानं तत्तद्देवताविषयाण्युज्जितिवाक्यानि वाचयेत्। अमावास्यायां पौर्णामास्यां वा यां देवतां यजति तदिष्टमनतिक्रम्य तदनुसारेण सूक्तवाकभागा उज्जितिभागाश्च प्रयोक्तव्याः।  
-
-पाठस्तु -  
-अग्नेहरमिति। आज्यभागदेवोऽग्निर्हविः सेवित्वा तेन हविषा पुष्टो यज्ञविरोधिनोऽसुरादीनभिभवन्नुत्कृष्टं जयं प्राप्तवान्। तदीयां तामुज्जितिमनु यजमानोऽहं पापरूपं वैरिणमभिभवन्नुत्कृष्टं जयं प्राप्तोऽस्मि। एवं सर्वत्र योज्यम्।  
+अ॒ग्नेः । स्वि॒ष्ट॒कृत॒ इति॑ स्विष्ट-कृतः॑ । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
 </details>
 
 ## स्रुग्-व्यूहनम्
@@ -463,7 +486,7 @@ _______
 एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा॒ इन्द्र॑वन्तः [12]व॒ना॒म॒हे॒ धु॒क्षी॒महि॑ प्र॒जामिष॑म् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -622,7 +645,7 @@ _______
 वि ते॑ मुञ्चामि रश॒ना वि र॒श्मीन् वि योक्त्रा॒ यानि॑ परि॒चर्त॑नानि ध॒त्ताद॒स्मासु॒ द्रवि॑णय्ँ॒यच्च॑ भ॒द्रम्प्र णो॑ ब्रूताद्भाग॒धान्दे॒वता॑सु ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -969,7 +992,7 @@ Thou art winning, thou art the winner, may I win.
 तथा त्वं सनिरसि सनिनामाऽसि। तद्व्याख्यानं सनिताऽसीति। धनस्य दाताऽसीत्यर्थः। अतस्त्वत्प्रसादेन सनेयं धनमृत्विगादिभ्यो देयासम्। 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 

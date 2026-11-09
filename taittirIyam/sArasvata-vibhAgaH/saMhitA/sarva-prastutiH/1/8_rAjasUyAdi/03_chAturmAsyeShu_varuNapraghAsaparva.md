@@ -43,7 +43,7 @@ and on one potsherd to Ka.
 
 <details><summary>पद-पाठः</summary>
 
-1A । ऐ॒न्द्रा॒ग्नमित्यै॑न्द्र-अ॒ग्नम् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । मा॒रु॒तीम् । आ॒मिक्षा॑म् । वा॒रु॒णीम् । आ॒मिक्षा॑म् । का॒यम् । एक॑कपाल॒मित्येक॑-क॒पा॒ल॒म् ।
+ऐ॒न्द्रा॒ग्नमित्यै॑न्द्र-अ॒ग्नम् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । मा॒रु॒तीम् । आ॒मिक्षा॑म् । वा॒रु॒णीम् । आ॒मिक्षा॑म् । का॒यम् । एक॑कपाल॒मित्येक॑-क॒पा॒ल॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -61,7 +61,7 @@ and on one potsherd to Ka.
 2गृहीत-करम्भ-पात्रां पत्नीम् उदानयित्वा वाचयति प्रतिप्रस्थाता - प्रघास्यानिति । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/02_praghAsyAn_havAmahe.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/02_praghAsyAn_havAmahe.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -91,7 +91,7 @@ Rejoicing in the mush.
 
 <details><summary>पद-पाठः</summary>
 
-2B । प्र॒घा॒स्या॑निति॑ प्र-घा॒स्यान्॑ । ह॒वा॒म॒हे॒ । म॒रुतः॑ । य॒ज्ञवा॑हस॒ इति॑ य॒ज्ञ-वा॒ह॒सः॒ । क॒र॒म्भेण॑ । स॒जोष॑स॒ इति॑ स-जोष॑सः ॥
+प्र॒घा॒स्या॑निति॑ प्र-घा॒स्यान्॑ । ह॒वा॒म॒हे॒ । म॒रुतः॑ । य॒ज्ञवा॑हस॒ इति॑ य॒ज्ञ-वा॒ह॒सः॒ । क॒र॒म्भेण॑ । स॒जोष॑स॒ इति॑ स-जोष॑सः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -110,7 +110,7 @@ Rejoicing in the mush.
 3यजमानः पुरोनुवाक्यामन्वाह - मो षूण इति । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/03_mo_ShU.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/03_mo_ShU.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -143,7 +143,7 @@ Rich in oblation are the Maruts whom our song praises.
 
 <details><summary>पद-पाठः</summary>
 
-3C । मो इति॑ । स्विति॑ । नः॒ । इ॒न्द्र॒ । पृ॒त्स्विति॑ पृत्-सु । दे॒व॒ । अस्तु॑ । स्म॒ । ते॒ । शु॒ष्मि॒न् । अ॒व॒या ॥ म॒ही । हि । अ॒स्य॒ । मी॒ढुषः॑ । य॒व्या ॥ ह॒विष्म॑तः । म॒रुतः॑ । वन्द॑ते । गीः ॥
+मो इति॑ । स्विति॑ । नः॒ । इ॒न्द्र॒ । पृ॒त्स्विति॑ पृत्-सु । दे॒व॒ । अस्तु॑ । स्म॒ । ते॒ । शु॒ष्मि॒न् । अ॒व॒या ॥ म॒ही । हि । अ॒स्य॒ । मी॒ढुषः॑ । य॒व्या ॥ ह॒विष्म॑तः । म॒रुतः॑ । वन्द॑ते । गीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -188,7 +188,7 @@ Rich in oblation are the Maruts whom our song praises.
 यद्ग्रामे॒ यदर॑ण्ये॒ यत् स॒भायाय्ँ॒यदि॑न्द्रि॒ये । यच्छू॒द्रे यद॒र्य॑ एन॑श्चकृ॒मा व॒यम् । यदेक॒स्याधि॒ धर्म॑णि॒ तस्या॑व॒यज॑नमसि॒ स्वाहा॑ ॥  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/04_yad_grAme.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/04_yad_grAme.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -227,7 +227,7 @@ Of that thou art the expiation; hail!
 
 <details><summary>पद-पाठः</summary>
 
-4D । यत् । ग्रामे॑ । यत् । अर॑ण्ये । यत् । स॒भाया॑म् । यत् । इ॒न्द्रि॒ये ॥ यत् । शू॒द्रे । यत् । अ॒र्ये॑ । एनः॑ । च॒कृ॒म । व॒यम् ॥ यत् । एक॑स्य । अधीति॑ । धर्म॑णि । तस्य॑ । अ॒व॒यज॑न॒मित्य॑व-यज॑नम् । अ॒सि॒ । स्वाहा॑ ॥
+यत् । ग्रामे॑ । यत् । अर॑ण्ये । यत् । स॒भाया॑म् । यत् । इ॒न्द्रि॒ये ॥ यत् । शू॒द्रे । यत् । अ॒र्ये॑ । एनः॑ । च॒कृ॒म । व॒यम् ॥ यत् । एक॑स्य । अधीति॑ । धर्म॑णि । तस्य॑ । अ॒व॒यज॑न॒मित्य॑व-यज॑नम् । अ॒सि॒ । स्वाहा॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -243,7 +243,7 @@ Of that thou art the expiation; hail!
 5पृथग् गच्छन्ताव् अनुमन्त्रयेते पत्नीय-जमानौ - अक्रन्निति । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/05_akran_karma.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/05_akran_karma.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -275,7 +275,7 @@ To your home, ye bounteous ones.
 
 <details><summary>पद-पाठः</summary>
 
-5E । अक्र॑न् । कर्म॑ । क॒र्म॒कृत॒ इति॑ कर्म-कृतः॑ । स॒ह । वा॒चा । म॒यो॒भु॒वेति॑ मयः-भु॒वा ॥ दे॒वेभ्यः॑ । कर्म॑ । कृ॒त्वा । अस्त॑म् । प्रेति॑ । इ॒त॒ । सु॒दा॒न॒व॒ इति॑ सु-दा॒न॒वः॒ ॥
+अक्र॑न् । कर्म॑ । क॒र्म॒कृत॒ इति॑ कर्म-कृतः॑ । स॒ह । वा॒चा । म॒यो॒भु॒वेति॑ मयः-भु॒वा ॥ दे॒वेभ्यः॑ । कर्म॑ । कृ॒त्वा । अस्त॑म् । प्रेति॑ । इ॒त॒ । सु॒दा॒न॒व॒ इति॑ सु-दा॒न॒वः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

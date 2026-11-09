@@ -20,7 +20,7 @@ To Agni he offers on eight potsherds;
 
 <details><summary>पद-पाठः</summary>
 
-1 । आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ ।
+आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -45,7 +45,7 @@ to Soma, an oblation;
 
 <details><summary>पद-पाठः</summary>
 
-2 । सौ॒म्यम् । च॒रुम् ।
+सौ॒म्यम् । च॒रुम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -65,7 +65,7 @@ to Savitr on twelve potsherds;
 
 <details><summary>पद-पाठः</summary>
 
-3 । सा॒वि॒त्रम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् ।
+सा॒वि॒त्रम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,7 +85,7 @@ to Brhaspati an oblation;
 
 <details><summary>पद-पाठः</summary>
 
-4 । बा॒र्ह॒स्प॒त्यम् । च॒रुम् ।
+बा॒र्ह॒स्प॒त्यम् । च॒रुम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -105,7 +105,7 @@ to Tvastr on eight potsherds;
 
 <details><summary>पद-पाठः</summary>
 
-5 । त्वा॒ष्ट्रम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् ।
+त्वा॒ष्ट्रम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -129,7 +129,7 @@ to (Agni) Vaiśvanara on twelve potsherds; the sacrificial fee is the southern d
 
 <details><summary>पद-पाठः</summary>
 
-6 । वै॒श्वा॒न॒रम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । 7 । दक्षि॑णः । र॒थ॒वा॒ह॒न॒वा॒ह इति॑ रथवाहन-वा॒हः । दक्षि॑णा ।
+वै॒श्वा॒न॒रम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । दक्षि॑णः । र॒थ॒वा॒ह॒न॒वा॒ह इति॑ रथवाहन-वा॒हः । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -160,7 +160,7 @@ To Sarasvati he offers an oblation;
 
 <details><summary>पद-पाठः</summary>
 
-8 । सा॒र॒स्व॒तम् । च॒रुम् । निरिति॑ । व॒प॒ति॒ ।
+सा॒र॒स्व॒तम् । च॒रुम् । निरिति॑ । व॒प॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -185,7 +185,7 @@ to Pusan an oblation;
 
 <details><summary>पद-पाठः</summary>
 
-9 । पौ॒ष्णम् । च॒रुम् ।
+पौ॒ष्णम् । च॒रुम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -205,7 +205,7 @@ to Mitra an oblation;
 
 <details><summary>पद-पाठः</summary>
 
-10 । मै॒त्रम् । च॒रुम् ।
+मै॒त्रम् । च॒रुम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -225,7 +225,7 @@ to Varuna an oblation;
 
 <details><summary>पद-पाठः</summary>
 
-11 । वा॒रु॒णम् । च॒रुम् ।
+वा॒रु॒णम् । च॒रुम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -245,7 +245,7 @@ to the lord of the fields an oblation;
 
 <details><summary>पद-पाठः</summary>
 
-12 । क्षै॒त्र॒प॒त्यमिति॑ क्षैत्र-प॒त्यम् । च॒रुम् ।
+क्षै॒त्र॒प॒त्यमिति॑ क्षैत्र-प॒त्यम् । च॒रुम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -265,7 +265,7 @@ to the Adityas an oblation;
 
 <details><summary>पद-पाठः</summary>
 
-13 । आ॒दि॒त्यम् । च॒रुम् ।
+आ॒दि॒त्यम् । च॒रुम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -285,7 +285,7 @@ the sacrificial fee is the northern drawer of the chariot stand.
 
 <details><summary>पद-पाठः</summary>
 
-14 । उत्त॑र॒ इत्युत्-त॒रः॒ । र॒थ॒वा॒ह॒न॒वा॒ह इति॑ रथवाहन-वा॒हः । दक्षि॑णा ॥
+उत्त॑र॒ इत्युत्-त॒रः॒ । र॒थ॒वा॒ह॒न॒वा॒ह इति॑ रथवाहन-वा॒हः । दक्षि॑णा ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

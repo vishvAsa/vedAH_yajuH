@@ -111,7 +111,7 @@ ________
 अ᳓भ्रिर्+++(=अग्नीध्र-खनित्रम्)+++ असि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 thou art the spade
 </details>
@@ -144,7 +144,7 @@ thou art the spade
 ना᳓रिर् असि।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 thou art the woman.
 </details>
@@ -859,6 +859,11 @@ _______
 विश्वजन᳓स्य छाया᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+the shade of all folk.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्व॒ज॒नस्य॑ छा॒या ।
@@ -867,11 +872,6 @@ _______
 <details><summary>पद-पाठः</summary>
 
 वि॒श्व॒ज॒नस्येति॑ विश्व-ज॒नस्य॑ । छा॒या । 
-</details>
-
-<details><summary>Keith</summary>
-
-the shade of all folk.
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

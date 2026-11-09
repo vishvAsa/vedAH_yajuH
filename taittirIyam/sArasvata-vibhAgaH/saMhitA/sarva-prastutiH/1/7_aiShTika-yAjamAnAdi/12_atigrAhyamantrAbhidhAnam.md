@@ -31,6 +31,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -60,6 +65,11 @@ ________________
 नृ॒षद॑न्त्वा द्रु॒षद॑म्भुवन॒सद॒मिन्द्रा॑य॒ जुष्ट॑ङ्गृह्णामि ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नृ॒षद॒मिति॑ नृ-सद॑म् । त्वा॒ । द्रु॒षद॒मिति॑ द्रु-सद॑म् । भु॒व॒न॒सद॒मिति॑ भुवन-सद॑म् । इन्द्रा॑य । जुष्ट॑म् । गृ॒ह्णा॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे ग्रह त्वा त्वां नृषदं नृषु प्रजासु सीदति स्थित्यर्थं तेषां नृषत् । एवमुत्तरत्र । सुषामादित्वात्षत्वम्, 'सन्दिरप्रतेः' इति वा सर्वविषयं द्रष्टव्यम् । द्रुषदं 'वनस्पतयो वै द्रु' । भुवनसदं भुवनं सर्वभूतजातम् । इन्द्राय जुष्टं प्रियं गृह्णामीति व्याख्यातप्रायम् ॥
@@ -85,6 +95,11 @@ this is thy birthplace; to Indra thee!
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । इन्द्रा॑य । त्वा॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -116,6 +131,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -145,6 +165,11 @@ thee that sittest in the waters, that sittest in the ghee, that sittest in the s
 अ॒प्सु॒षद॑न्त्वा घृत॒सद॑व्व्ँयोम॒सद॒मिन्द्रा॑य॒ जुष्ट॑ङ्गृह्णामि ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒प्सु॒षद॒मित्य॑प्सु-सद॑म् । त्वा॒ । घृ॒त॒सद॒मिति॑ घृत-सद॑म् । व्यो॒म॒सद॒मिति॑ व्योम-सद॑म् । इन्द्रा॑य । जुष्ट॑म् । गृ॒ह्णा॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 त्वा त्वामप्सुषदम् । 'तत्पुरुषे कृतिबहुलम्' इत्यलुक् । अन्नादीनामुत्पादकतया तत्र सीदतीति । अग्नौ प्रास्ताहुतिस्सम्यक्' इत्यादि ।  
@@ -170,6 +195,11 @@ this is thy birthplace; to Indra thee!
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । इन्द्रा॑य । त्वा॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -206,6 +236,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -237,6 +272,11 @@ thee that sittest on the earth, that sittest on the atmosphere, that sittest on 
 पृ॒थि॒वि॒षद॑न् त्वा अन्तरिक्ष॒सद॑न्नाक॒सद॒मिन्द्रा॑य॒ जुष्ट॑ङ्गृह्णामि ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पृ॒थि॒वि॒षद॒मिति॑ पृथिवि-सद॑म् । त्वा॒ । अ॒न्त॒रि॒क्ष॒सद॒मित्य॑न्तरिक्ष-सद॑म् । ना॒क॒सद॒मिति॑ नाक-सद॑म् । इन्द्रा॑य । जुष्ट॑म् । गृ॒ह्णा॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पृथिविषदम् । 'ङ्यापोस्संज्ञाच्छन्दसोः' इति ह्रस्वत्वम् । पूर्ववद्भूतिहेतुत्वेन पृथिव्यादिषु सदनम् । गतमन्यत् ।  
@@ -264,6 +304,11 @@ this is thy birthplace; to Indra thee!
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । इन्द्रा॑य । त्वा॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एष ते योनिः कारणं इन्द्राय त्वा सादयामि । व्याख्यातमेव ॥
@@ -276,7 +321,7 @@ this is thy birthplace; to Indra thee!
 7अथ चतुर्थम् - ये ग्रहा इति पञ्चपदया पङ्क्त्या ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/02_ye_grahAH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/02_ye_grahAH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -307,6 +352,11 @@ The food and strength have I seized;
 ये ग्रहाः॑ पञ्चज॒नीना॒ येषा॑न्ति॒स्रᳶ प॑रम॒जाः ।  
 दैव्य॒ᳵ कोशः॒ [45] समु॑ब्जितः ।  
 तेषाव्ँ॒विशि॑प्रियाणा॒म्  इष॒मूर्जँ॒ सम॑ग्रभीम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । ग्रहाः॑ । प॒ञ्च॒ज॒नीना॒ इति॑ पञ्च-ज॒नीनाः॑ । येषा॑म् । ति॒स्रः । प॒र॒म॒जा इति॑ परम-जाः ॥ दैव्यः॑ । कोशः॑ । समु॑ब्जित॒ इति॒ सम्-उ॒ब्जि॒तः॒ ॥ तेषा॑म् । विशि॑प्रियाणा॒मिति॒ वि-शि॒प्रि॒या॒णा॒म् । इष॑म् । ऊर्ज॑म् । समिति॑ । अ॒ग्र॒भी॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -343,6 +393,11 @@ this is thy birthplace; to Indra thee!
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । इन्द्रा॑य । त्वा॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एष ते योनिः कारणं इन्द्राय त्वा सादयामि । व्याख्यातमेव ॥
@@ -360,7 +415,7 @@ this is thy birthplace; to Indra thee!
 9-10अथ पञ्चमम् - अपां रसमित्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/03_apAM_rasam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/03_apAM_rasam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -388,6 +443,11 @@ That of you I take which is the best;
 
 अ॒पाँ रस॒मुद्व॑यसँ॒ सूर्य॑रश्मिँ स॒माभृ॑तम् ।  
 अ॒पाँ रस॑स्य॒ यो रस॒स्तव्ँवो॑ गृह्णाम्युत्त॒मम् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । रस॑म् । उद्व॑यस॒मित्युत्-व॒य॒स॒म् । सूर्य॑रश्मि॒मिति॒ सूर्य॑-र॒श्मि॒म् । स॒माभृ॑त॒मिति॑ सम्-आभृ॑तम् ॥ अ॒पाम् । रस॑स्य । यः । रसः॑ । तम् । वः॒ । गृ॒ह्णा॒मि॒ । उ॒त्त॒ममित्यु॑त्-त॒मम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -422,6 +482,11 @@ this is thy birthplace; to Indra thee!
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । इन्द्रा॑य । त्वा॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एष ते योनिः कारणं इन्द्राय त्वा सादयामि । व्याख्यातमेव ॥
@@ -439,7 +504,7 @@ this is thy birthplace; to Indra thee!
 11-12सुराग्रहान् गृह्णाति - अया विष्ठा इति त्रिष्टुभा यजुरन्तया ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/04_ayA_viShThA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/04_ayA_viShThA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -467,6 +532,11 @@ What time he moved a body in his own body.
 
 अ॒या वि॒ष्ठा ज॒नय॒न्कर्व॑राणि॒ स हि घृणि॑रु॒रुर्वरा॑य गा॒तुः ।  
 स प्रत्युदै॑द्ध॒रुणो॒ मध्वो॒ अग्रँ॒ स्वायाय्ँ॒यत्त॒नुवा॑न्त॒नूमैर॑यत ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒या । वि॒ष्ठा इति॑ वि-स्थाः । ज॒नय॑न् । कर्व॑राणि । सः । हि । घृणिः॑ । उ॒रुः । वरा॑य । गा॒तुः ॥ सः । प्रति॑ । उदिति॑ । ऐ॒त् । ध॒रुणः॑ । मध्वः॑ । अग्र॑म् । स्वाया॑म् । यत् । त॒नुवा॑म् । त॒नूम् । ऐर॑यत ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -500,6 +570,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -530,6 +605,11 @@ agreeable to Prajapati I take thee
 प्र॒जाप॑तये त्वा॒ जुष्ट॑ङ्गृह्णामि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑तय॒ इति॑ प्र॒जा-प॒त॒ये॒ । त्वा॒ । जुष्ट॑म् । गृ॒ह्णा॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रजापतये जुष्टं प्रियं गृह्णामि  । गृहीत्वा यथायतनं सादयति एष ते योनिः कारणं प्रजापतये सादयामि
@@ -557,6 +637,11 @@ this is thy birthplace; to Prajapati thee!
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॑ᳶ प्र॒जाप॑तये त्वा ॥ [46]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । प्र॒जाप॑तय॒ इति॑ प्र॒जा-प॒त॒ये॒ । त्वा॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

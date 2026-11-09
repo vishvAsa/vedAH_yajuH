@@ -30,6 +30,20 @@ through the sacrificer offspring.
 य॒ज्ञय्ँ यज॑मानो॒, यज॑मानम् प्र॒जाः।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ध्रु॒वाम् । वै । रिच्य॑मानाम् । य॒ज्ञः । अन्विति॑ । रि॒च्य॒ते॒ । य॒ज्ञम् । यज॑मानः । यज॑मानम् । प्र॒जा इति॑ प्र-जाः ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+चतुर्थे शेषाहुत्यनुमन्त्रणमन्त्रा व्याख्याताः। पञ्चमे त्वाप्यायनादिमन्त्रा व्याख्यायन्ते। तत्राऽऽप्यायनमन्त्रं व्याख्यातुमन्वयव्यतिरेकाभ्यां प्रस्तौति-  
+
+ध्रुवां वा इति।
+
+ध्रुवायां रिक्तायां यज्ञस्यासंपूर्त्या यजमानस्य फलाभावात्त-दीयप्रजाया अन्नाद्यभाव इति व्यतिरेकः। एवमन्वये योज्यम्।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवा᳓म् आप्या᳓यमानाय्ँ  
@@ -51,6 +65,11 @@ through the sacrificer offspring.
 य॒ज्ञय्ँयज॑मानो॒ यज॑मानम्प्र॒जाः।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ध्रु॒वाम् । आ॒प्याय॑माना॒मित्या॑-प्याय॑मानाम् । य॒ज्ञः । अनु॑ । एति॑ । प्या॒य॒ते॒ । य॒ज्ञम् । यज॑मानः । यज॑मानम् । प्र॒जा इति॑ प्र-जाः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "आ᳓ प्यायतान् ध्रुवा᳓ घृते᳓ने᳓"त्याह -  
@@ -67,16 +86,14 @@ through the sacrificer offspring.
 आ प्या॑यतान्ध्रु॒वा घृ॒तेनेत्या॑ह - ध्रु॒वामे॒वाऽऽप्या॑ययति ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-1आप्यायताम् इति ध्रुवाया आप्यायमानाया अनुमन्त्रणम् । 
+एति॑ । प्या॒य॒ता॒म् । ध्रु॒वा । घृ॒तेन॑ । इति॑ । आ॒ह॒ । ध्रु॒वाम् । ए॒व । एति॑ । प्या॒य॒य॒ति॒ ।
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
-चतुर्थे शेषाहुत्यनुमन्त्रणमन्त्रा व्याख्याताः। पञ्चमे त्वाप्यायनादिमन्त्रा व्याख्यायन्ते। तत्राऽऽप्यायनमन्त्रं व्याख्यातुमन्वयव्यतिरेकाभ्यां प्रस्तौति-  
-
-ध्रुवां वा इति। ध्रुवायां रिक्तायां यज्ञस्यासंपूर्त्या यजमानस्य फलाभावात्त-दीयप्रजाया अन्नाद्यभाव इति व्यतिरेकः। एवमन्वये योज्यम्।  
+1आप्यायताम् इति ध्रुवाया आप्यायमानाया अनुमन्त्रणम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -94,6 +111,11 @@ through its swelling the sacrifice is made to swell, through the sacrifice the s
 <details><summary>मूलम्</summary>
 
 तामा॒प्याय॑मानाय्ँ य॒ज्ञोऽन्वा प्या॑यते य॒ज्ञय्ँयज॑मानो॒ यज॑मानम्प्र॒जा
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ताम् । आ॒प्याय॑माना॒मित्या॑-प्याय॑मानाम् । य॒ज्ञः । अनु॑ । एति॑ । प्या॒य॒ते॒ । य॒ज्ञम् । यज॑मानः । यज॑मानम् । प्र॒जा इति॑ प्र-जाः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -121,6 +143,11 @@ through its swelling the sacrifice is made to swell, through the sacrifice the s
 प्र॒जाप॑तेर्वि॒भान्नाम॑ लो॒कः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑ते॒रिति॑ प्र॒जा-प॒तेः॒ । वि॒भानिति॑ वि-भान् । नाम॑ । लो॒कः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "त᳓स्मिँस् त्वा दधामि सह᳓ य᳓जमानेने᳓"त्याह ।
@@ -134,6 +161,11 @@ In it I place thee along with the sacrificer', he says [1];
 <details><summary>मूलम्</summary>
 
 तस्मिँ॑ स्त्वा दधामि स॒ह यज॑माने॒नेत्या॑ह ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्मि॑न् । त्वा॒ । द॒धा॒मि॒ । स॒ह । यज॑मानेन । इति॑ । आ॒ह॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -157,6 +189,11 @@ the world of Prajapati, named Vibhan, is this (world); verily he places it in it
 
 अ॒यव्ँ वै प्र॒जाप॑तेर्वि॒भान्नाम॑ लो॒कः ।   
 तस्मि॑न्ने॒वैन॑न्दधाति स॒ह यज॑मानेन ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । वै । प्र॒जाप॑ते॒रिति॑ प्र॒जा-प॒तेः॒ । वि॒भानिति॑ वि-भान् । नाम॑ । लो॒कः । तस्मि॑न् । ए॒व । ए॒न॒म् । द॒धा॒ति॒ । स॒ह । यज॑मानेन ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -187,6 +224,11 @@ In that he sacrifices he is as it were emptied; in that he eats the sacrificer's
 रिच्य॑त इव॒ वा ए॒तद्यद्यज॑ते ।  
 यद्य॑जमानभा॒गम्प्रा॒श्ञाति॒   
 आ॒त्मान॑मे॒व प्री॑णाति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रिच्य॑ते । इ॒व॒ । वै । ए॒तत् । यत् । यज॑ते । यत् । य॒ज॒मा॒न॒भा॒गमिति॑ यजमान-भा॒गम् । प्रा॒श्ञातीति॑ प्र-अ॒श्ञाति॑ । आ॒त्मान॑म् । ए॒व । प्री॒णा॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -224,6 +266,11 @@ he places the sacrifice in the sacrifice.
 य॒ज्ञ ए॒व य॒ज्ञम्प्रति॑ष्ठापयति ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ए॒तावान्॑ । वै । य॒ज्ञः । यावान्॑ । य॒ज॒मा॒न॒भा॒ग इति॑ यजमान-भा॒गः । य॒ज्ञः । यज॑मानः । यत् । य॒ज॒मा॒न॒भा॒गमिति॑ यजमान-भा॒गम् । प्रा॒श्ञातीति॑ प्र-अ॒श्ञाति॑ । य॒ज्ञे । ए॒व । य॒ज्ञम् । प्रतीति॑ । स्था॒प॒य॒ति॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एतावानित्यादि । प्राधान्याद्यज्ञो यजमान इति तदधीनत्वात्तन्निवृत्तेः ॥
@@ -246,9 +293,19 @@ he places the sacrifice in the sacrifice.
 य᳓द् बर्हि᳓श् चा᳓ऽऽपश् च ।  
 </details>
 
+<details><summary>Keith</summary>
+
+This is rich in fresh grass, and rich in water, where the strew and the water are.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒तद्वै सू॒यव॑सँ॒ सोद॑कं॒ यद्ब॒र्हिश्चाऽऽप॑श्च ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒तत् । वै । सू॒यव॑स॒मिति॑ सु-यव॑सम् । सोद॑क॒मिति॒ स-उ॒द॒क॒म् । यत् । ब॒र्हिः । च॒ । आपः॑ । च॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -271,9 +328,9 @@ he places the sacrifice in the sacrifice.
 
 <details><summary>Keith</summary>
 
-There is good grass and good water where the strew and the waters are [2];  
-the Vedi is the abode of the sacrificer;  
-in that he places the full bowl within the Vedi, he establishes good grass and good water in his own abode. 
+The altar is the birthplace of the sacrificer;  
+in that he pours the full cup within the altar,  
+he makes rich in fresh grass and in water his own birthplace.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -281,6 +338,11 @@ in that he places the full bowl within the Vedi, he establishes good grass and g
 ए॒तत् [22] यज॑मानस्या॒ऽऽयत॑नय्ँ॒ यद्वेदिः॑। 
 यत्पू॑र्णपा॒त्रम॑न्तर्वे॒दि नि॒नय॑ति॒,   
 स्व ए॒वाऽऽयत॑ने सू॒यव॑सँ॒ सोद॑कङ्कुरुते ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒तत् । यज॑मानस्य । आ॒यत॑न॒मित्या॑-यत॑नम् । यत् । वेदिः॑ । यत् । पू॒र्ण॒पा॒त्रमिति॑ पूर्ण-पा॒त्रम् । अ॒न्त॒र्वे॒दीत्य॑न्तः-वे॒दि । नि॒नय॒तीति॑ नि-नय॑ति । स्वे । ए॒व । आ॒यत॑न॒ इत्या॑-यत॑ने । सू॒यव॑स॒मिति॑ सु-यव॑सम् । सोद॑क॒मिति॒ स-उ॒द॒क॒म् । कु॒रु॒ते॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -316,6 +378,11 @@ in that he places the full bowl within the Vedi, he establishes good grass and g
 सद॑सि॒ सन्मे॑ भूया॒ इत्या॑ह ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सत् । अ॒सि॒ । सत् । मे॒ । भू॒याः॒ । इति॑ । आ॒ह॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4तत्र सदसि सन्मे इति पूर्णपात्र अनीयमाने यजमानो जपति ॥
@@ -344,6 +411,11 @@ verily he bestows upon himself the sacrifice and the waters.
 
 आपो॒ वै य॒ज्ञः ।   
 आपो॒ऽमृतय्ँ॑ य॒ज्ञमे॒वामृत॑मा॒त्मन्ध॑त्ते ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आपः॑ । वै । य॒ज्ञः । आपः॑ । अ॒मृत॑म् । य॒ज्ञम् । ए॒व । अ॒मृत॑म् । आ॒त्मन् । ध॒त्ते॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -376,6 +448,11 @@ All creatures attend him who is performing the vow.
 सर्वा॑णि॒ वै भू॒तानि॑ व्र॒तमु॑प॒यन्त॒मनूप॑ यन्ति ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सर्वा॑णि । वै । भू॒तानि॑ । व्र॒तम् । उ॒प॒यन्त॒मित्यु॑प-यन्त॑म् । अनु॑ । उपेति॑ । य॒न्ति॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5सर्वाणीत्यादि ॥ व्रतोपायनकाल एवैनमनु सर्वाणि भूतानि देवादीनि उपयन्ति उपगच्छन्ति । इदानीं तैस्सर्वैस्सहावभृथमवैति ।  
@@ -405,6 +482,16 @@ this is the concluding bath of the new and full moon sacrifices [3].
 ए॒ष वै द॑र्शपूर्णमा॒सयो॑रवभृ॒थः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्राच्या॑म् । दि॒शि । दे॒वाः । ऋ॒त्विजः॑ । मा॒र्ज॒य॒न्ता॒म् । इति॑ । आ॒ह॒ । ए॒षः । वै । द॒र्श॒पू॒र्ण॒मा॒सयो॒रिति॑ दर्श-पू॒र्ण॒मा॒सयोः॑ । अ॒व॒भृ॒थ इत्य॑व-भृ॒थः ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+कः पुनरयमवभृथ इत्याह – प्राच्यामित्यादि । अनेन मन्त्रेण यद्दिशां व्युत्सेचनम् ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓न्य् एवै᳓नम् भूता᳓नि  
@@ -423,9 +510,9 @@ He goes to the bath along with the creatures which attend him as he performs the
 तैरे॒व स॒हाव॑भृ॒थमवै॑ति ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-कः पुनरयमवभृथ इत्याह – प्राच्यामित्यादि । अनेन मन्त्रेण यद्दिशां व्युत्सेचनम् ॥
+यानि॑ । ए॒व । ए॒न॒म् । भू॒तानि॑ । व्र॒तम् । उ॒प॒यन्त॒मित्यु॑प-यन्त॑म् । अ॒नू॒प॒यन्तीत्य॑नु-उ॒प॒यन्ति॑ । तैः । ए॒व । स॒ह । अ॒व॒भृ॒थमित्य॑व-भृ॒थम् । अवेति॑ । ए॒ति॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -450,15 +537,20 @@ Headed by Visnu the gods won these worlds by the metres so as to be irrecoverabl
 विष्णु॑मुखा॒ वै दे॒वाश्छन्दो॑भिरि॒माल्ँ लो॒कान॑नपज॒य्यम॒भ्य॑जयन् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+विष्णु॑मुखा॒ इति॒ विष्णु॑-मु॒खाः॒ । वै । दे॒वाः । छन्दो॑भि॒रिति॒ छन्दः॑-भिः॒ । इ॒मान् । लो॒कान् । अ॒न॒प॒ज॒य्यमित्य॑नप-ज॒य्यम् । अ॒भीति॑ । अ॒ज॒य॒न् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-6विष्णुमुखा इत्यादि ॥ विष्णुक्रमाणां क्रमणविधिः । ते च 'विष्णोः क्रमोसि' इत्यादयः । विष्णुमुखाः विष्णुप्रधानाः । अनपजय्यमन्यैरपजेतुमशक्यम् । क्रियाविशेषणम्, 'अचो यत्' 'क्षय्यजय्यौ शक्यार्थे' इति अयादेशः, 'ययतोश्चातदर्थे' इत्युत्तरपदान्तोदात्तत्वम् ।  
+6विष्णुमुखा इत्यादि ॥ विष्णुक्रमाणां क्रमणविधिः । ते च 'विष्णोः क्रमोसि' इत्यादयः । विष्णुमुखाः विष्णुप्रधानाः । अनपजय्यमन्यैरपजेतुमशक्यम् । क्रियाविशेषणम्, 'अचो यत्' 'क्षय्यजय्यौ शक्यार्थे' इति अयादेशः, 'ययतोश्चातदर्थे' इत्युत्तरपदान्तोदात्तत्वम् ।
+</details>
 
 <details><summary>सायण-टीका</summary>
 
 विष्णुक्रमान्विधत्ते-  
-विष्णुमुखा इति। देवाः पूर्वं स्वेषु विष्णुमेव मुख्यं कृत्वा छन्दोभिमानिदेवैः सहिता अन्यैर्जेतुं यथा न शक्यते तथा लोकानजयन्। 
-</details>
+विष्णुमुखा इति। देवाः पूर्वं स्वेषु विष्णुमेव मुख्यं कृत्वा छन्दोभिमानिदेवैः सहिता अन्यैर्जेतुं यथा न शक्यते तथा लोकानजयन्।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -478,6 +570,11 @@ in that he takes the steps of Visnu the sacrificer becoming Visnu wins these wor
 
 यद्वि॑ष्णुक्र॒मान्क्रम॑ते॒ विष्णु॑रे॒व भू॒त्वा यज॑मान॒श्
 छन्दो॑भिरि॒माल्ँ लो॒कान॑नपज॒य्यम॒भि ज॑यति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । वि॒ष्णु॒क्र॒मानिति॑ विष्णु-क्र॒मान् । क्रम॑ते । विष्णुः॑ । ए॒व । भू॒त्वा । यज॑मानः । छन्दो॑भि॒रिति॒ छन्दः॑-भिः॒ । इ॒मान् । लो॒कान् । अ॒न॒प॒ज॒य्यमित्य॑नप-ज॒य्यम् । अ॒भीति॑ । ज॒य॒ति॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -508,6 +605,11 @@ in that he takes the steps of Visnu the sacrificer becoming Visnu wins these wor
 आनु॑ष्टुभी॒र्दिशः॑ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । क्रमः॑ । अ॒सि॒ । अ॒भि॒मा॒ति॒हेत्य॑भिमाति-हा । इति॑ । आ॒ह॒ । गा॒य॒त्री । वै । पृ॒थि॒वी । त्रैष्टु॑भम् । अ॒न्तरि॑क्षम् । जाग॑ती । द्यौः । आनु॑ष्टुभी॒रित्यानु॑-स्तु॒भीः॒ । दिशः॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 विष्णोः क्रमोसीति । चतुर्णां क्रमाणां ग्रहणम् । त्रिष्टुब्जगत्यनुष्टुप्शब्देभ्य उत्सादित्वादञ् । आनुष्टुभीः अनुष्टुब्भ्यः । 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम् ।  
@@ -533,6 +635,11 @@ verily by the metres he wins these worlds in order.
 <details><summary>मूलम्</summary>
 
 छन्दो॑भिरे॒वेमाल्ँ लो॒कान् य॑थापू॒र्वम॒भि ज॑यति ॥ [24] 
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+छन्दो॑भि॒रिति॒ छन्दः॑-भिः॒ । ए॒व । इ॒मान् । लो॒कान् । य॒था॒पू॒र्वमिति॑ यथा-पू॒र्वम् । अ॒भीति॑ । ज॒य॒ति॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

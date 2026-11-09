@@ -955,7 +955,7 @@ ____
 
 <details><summary>Keith</summary>
 
-I grasp thee shining in the shining,  
+I grasp thee radiance in the radiance,  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -971,11 +971,6 @@ I grasp thee shining in the shining,
 <details><summary>भट्टभास्कर-टीका</summary>
 
 19उपभृति गृह्णाति - ज्योतिरिति ॥ ज्योतिः दीप्तं त्वां, ज्योतिषि दीप्तायामुपभृति गृह्णामि । 'धाम्नेधाम्ने' इत्यनुषज्यते ॥
-</details>
-
-<details><summary>Keith</summary>
-
-I grasp thee radiance in the radiance,  
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">

@@ -7,7 +7,7 @@ _______
 9अभितः पुरोडाशम् आहुतीर् जुहोति पुरस्ताद् उपरिष्टाच् च - पनर् ऊर्जेति द्वाभ्यां गायत्रीभ्याम् ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/02_punar_UrjA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/02_punar_UrjA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -37,7 +37,7 @@ Again guard us on all sides.
 
 <details><summary>पद-पाठः</summary>
 
-2I । पुनः॑ । ऊ॒र्जा । नीति॑ । व॒र्त॒स्व॒ । पुनः॑ । अ॒ग्ने॒ । इ॒षा । आयु॑षा ॥ पुनः॑ । नः॒ । पा॒हि॒ । वि॒श्वतः॑ ॥
+पुनः॑ । ऊ॒र्जा । नीति॑ । व॒र्त॒स्व॒ । पुनः॑ । अ॒ग्ने॒ । इ॒षा । आयु॑षा ॥ पुनः॑ । नः॒ । पा॒हि॒ । वि॒श्वतः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -54,7 +54,7 @@ _______
 10द्वितीया -  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/03_saha_rayyA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/03_saha_rayyA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -84,7 +84,7 @@ All gaining on every side.
 
 <details><summary>पद-पाठः</summary>
 
-3K । स॒ह । र॒य्या । नीति॑ । व॒र्त॒स्व॒ । अग्ने॑ । पिन्व॑स्व । धार॑या ॥ वि॒श्वप्स्नि॒येति॑ वि॒श्व-प्स्नि॒या॒ । वि॒श्वतः॑ । परि॑ ॥
+स॒ह । र॒य्या । नीति॑ । व॒र्त॒स्व॒ । अग्ने॑ । पिन्व॑स्व । धार॑या ॥ वि॒श्वप्स्नि॒येति॑ वि॒श्व-प्स्नि॒या॒ । वि॒श्वतः॑ । परि॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -25,6 +25,11 @@ The gods, men, and the Pitrs were on one side, the Asuras, Raksases, and Piśaca
 असु॑रा॒ रक्षाँ॑सि पिशा॒चास्ते॑न्यतः॑  +++(आसन्)+++ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+दे॒वाः । म॒नु॒ष्याः॑ । पि॒तरः॑ । ते । अ॒न्यतः॑ । आ॒स॒न् । असु॑राः । रक्षाँ॑सि । पि॒शा॒चाः । ते । अ॒न्यतः॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1देवा मनुष्या इत्यादि ॥ अन्यतः एकस्मिन् पक्षे देवादयोऽभवन् । असुरादयोऽप्येकस्मिन् । 'नपुंसकमनपुंसकेन' इत्येतद्व्यत्ययेन न प्रवर्तते ।
@@ -47,6 +52,11 @@ Of the gods the little blood they drew the Raksases smothered by the nights
 तद्रक्षाँ॑सि॒ रात्री॑भिरसुभ्नन् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तेषा॑म् । दे॒वाना॑म् । उ॒त । यत् । अल्प॑म् । लोहि॑तम् । अकु॑र्वन् । तत् । रक्षाँ॑सि । रात्री॑भि॒रिति॒ रात्रि॑-भिः॒ । अ॒सु॒भ्न॒न् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथ तेषां देवानां शरीरेषु असुरादयः यदल्पमपि लोहितमकुर्वन् व्रणमुदपादयन् तत् असुरपक्षपातीनि रक्षांसि रत्रीभिरसुभ्नन् रात्रिष्वागम्य धर्षितमकुर्वन्, येन सुम्भनेन ते मृतास्स्युः ।
@@ -65,6 +75,11 @@ and dawn dawned on them smothered and dead.
 <details><summary>मूलम्</summary>
 
 तान्त्सु॒ब्धान्मृ॒तान॒भि व्यौ॑च्छत् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तान् । सु॒ब्धान् । मृ॒तान् । अ॒भि । वीति॑ । औ॒च्छ॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -106,6 +121,11 @@ The gods understood, 'Him who of us dies, it is the Raksases who kill.'
 तन्न॑स्स॒हास॒दिति॑ ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ते । दे॒वाः । अ॒वि॒दुः॒ । यः । वै । नः॒ । अ॒यम् । म्रि॒यते॑ । रक्षाँ॑सि । वै । इ॒मम् । घ्न॒न्ति॒ । इति॑ । ते । रक्षाँ॑सि । उपेति॑ । अ॒म॒न्त्र॒य॒न्त॒ । तानि॑ । अ॒ब्रु॒व॒न् । वर॑म् । वृ॒णा॒म॒है॒ । यत् । असु॑रान् । जया॑म । तत् । नः॒ । स॒ह । अ॒स॒त् । इति॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2ते देवा इत्यादि ॥ गतम् । तन्नस्सहेति । अस्मत्पक्षे युष्माभिर्वर्तितव्यमिति ।
@@ -128,6 +148,11 @@ They invited the Raksases; they said, 'Let us choose a boon; what [1] we win fro
 तेऽसु॑राञ्जि॒त्वा रक्षाँ॒स्यपा॑नुदन्त ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ततः॑ । वै । दे॒वाः । असु॑रान् । अ॒ज॒य॒न् । ते । असु॑रान् । जि॒त्वा । रक्षाँ॑सि । अपेति॑ । अ॒नु॒द॒न्त॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ततो रक्षोभिस्सहायैः देवाः असुरानजयन् । जयानन्तरं रक्षांसि अपानुदन्त ॥
@@ -146,6 +171,11 @@ Then indeed did the gods conquer the Asuras, and having conquered the Asuras, th
 <details><summary>मूलम्</summary>
 
 तानि॒ रक्षाँ॒स्यनृ॑तमक॒र्तेति॑ सम॒न्तन्दे॒वान्पर्य॑विशन्।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तानि॑ । रक्षाँ॑सि । अनृ॑तम् । अ॒क॒र्त॒ । इति॑ । स॒म॒न्तमिति॑ सम्-अ॒न्तम् । दे॒वान् । परीति॑ । अ॒वि॒श॒न् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -173,6 +203,11 @@ The Raksases (saying), 'Ye have done falsely', surrounded the gods on all sides.
 ते दे॒वा अ॒ग्नाव॑नाथन्त ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ते । दे॒वाः । अ॒ग्नौ । अ॒ना॒थ॒न्त॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4अथैवं तैरभिभूयमाना देवा अग्नावनाथन्त; ऐश्वर्यमारोपयन् अग्निं नाथयन्ति स्मेति यावत् । यद्वा - अग्नौ याचितृत्वेनावर्तन्त । नाथृ नाधृ याच्ञोपतापैश्वर्याशीष्षु । त्वया वयं रक्ष्या इति ।   
@@ -193,6 +228,11 @@ The gods found a protector in Agni;
 ते॑ऽग्नये॒ प्रव॑ते पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर॑वपन् ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ते । अ॒ग्नये॑ । प्रव॑त॒ इति॒ प्र-व॒ते॒ । पु॒रो॒डाश॑म् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । अ॒व॒प॒न् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तत एतां त्रिहविष्कामिष्टिमग्नये निरवपन् देवाः ।
@@ -211,6 +251,11 @@ they offered to Agni, the forward, a cake on eight potsherds,
 <details><summary>मूलम्</summary>
 
 अ॒ग्नये॑ विबा॒धव॑ते॒ऽग्नये॒ प्रती॑कवते॒ यद॒ग्नये॒ प्रव॑ते नि॒रव॑पन् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नये॑ । वि॒बा॒धव॑त॒ इति॑ विबा॒ध-व॒ते॒ । अ॒ग्नये॑ । प्रती॑कवत॒ इति॒ प्रती॑क-व॒ते॒ । यत् । अ॒ग्नये॑ । प्रव॑त॒ इति॒ प्र-व॒ते॒ । नि॒रव॑प॒न्निति॑ निः-अव॑पन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -238,6 +283,11 @@ to Agni, the overcomer, to Agni with the face.
 यान्ये॒व पु॒रस्ता॒द् रक्षाँ॒स्यास॑न् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यानि॑ । ए॒व । पु॒रस्ता॑त् । रक्षाँ॑सि । आस॑न् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5पुरस्तादिति ॥ पूर्वस्यां दिशि । 'अस्ताति च' इति पुरादेशः । प्रहत[थम]त्वात्तस्याः ।
@@ -256,6 +306,11 @@ In that they offered to Agni, the forward,
 <details><summary>मूलम्</summary>
 
 तानि॒ तेन॒ प्राणु॑दन्त।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तानि॑ । तेन॑ । प्रेति॑ । अ॒नु॒द॒न्त॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -278,6 +333,11 @@ the Raksases in front [2] they repelled thereby;
 यद॒ग्नये॑ विबा॒धव॑ते॒ यान्ये॒वाभितो॒  रक्षाँ॒स्यास॑न् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । अ॒ग्नये॑ । वि॒बा॒धव॑त॒ इति॑ विबा॒ध-व॒ते॒ । यानि॑ । ए॒व । अ॒भितः॑ । रक्षाँ॑सि । आस॑न् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अभित इति । दक्षिणत उत्तरतश्च ।
@@ -296,6 +356,11 @@ in that (they offered) to Agni, the overcomer,
 <details><summary>मूलम्</summary>
 
 तानि॒ तेन॒ व्य॑बाधन्त ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तानि॑ । तेन॑ । वीति॑ । अ॒बा॒ध॒न्त॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -318,6 +383,11 @@ the Raksases that were around they repelled thereby;
 यद॒ग्नये॒ प्रती॑कवते॒ यान्ये॒व प॒श्चाद् रक्षाँ॒स्यास॑न् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । अ॒ग्नये॑ । प्रती॑कवत॒ इति॒ प्रती॑क-व॒ते॒ । यानि॑ । ए॒व । प॒श्चात् । रक्षाँ॑सि । आस॑न् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पश्चादिति । अपरस्यां दिशि । 'पश्चात्' इति निपात्यते ।
@@ -336,6 +406,11 @@ in that (they offered) to Agni with the face, the Raksases behind were repelled 
 <details><summary>मूलम्</summary>
 
 तानि॒ तेनापा॑नुदन्त ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तानि॑ । तेन॑ । अपेति॑ । अ॒नु॒द॒न्त॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -360,6 +435,20 @@ That the gods prospered, the Raksases were defeated.
 परासु॑रा॒ यो भ्रातृ॑व्यवा॒न्त्स्यात् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ततः॑ । दे॒वाः । अभ॑वन् । परेति॑ । असु॑राः । यः । भ्रातृ॑व्यवा॒निति॒ भ्रातृ॑व्य-वा॒न् । स्यात् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तत इति ।
+
+रक्षःपीडाया निर्मुक्ता भूतिमन्तोऽभवन् असुरानजयन्नित्यर्थः ।
+
+अत एवाह – पराभूता असुरा इति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ स्प᳓र्धमान एत᳓ये᳓ष्ट्या यजेत ।
@@ -373,6 +462,11 @@ He who has foes should in conflict sacrifice with this offering;
 <details><summary>मूलम्</summary>
 
 स स्पर्ध॑मान ए॒तयेष्ट्या॑ यजेत ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । स्पर्ध॑मानः । ए॒तया॑ । इष्ट्या॑ । य॒जे॒त॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -392,9 +486,9 @@ he should offer to Agni, the forward, a cake on eight potsherds, to Agni, the ov
 अ॒ग्नये॑ विबा॒धव॑ते॒ऽग्नये ये॒ प्रती॑कवते॒ यद॒ग्नये॒ प्रव॑ते नि॒र्वप॑ति ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-तत इति । रक्षःपीडाया निर्मुक्ता भूतिमन्तोऽभवन् असुरानजयन्नित्यर्थः । अत एवाह – पराभूता असुरा इति ॥
+अ॒ग्नये॑ । प्रव॑त॒ इति॒ प्र-व॒ते॒ । पु॒रो॒डाश॑म् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒पे॒त् । अ॒ग्नये॑ । वि॒बा॒धव॑त॒ इति॑ विबा॒ध-व॒ते॒ । अ॒ग्नये॑ । प्रती॑कवत॒ इति॒ प्रती॑क-व॒ते॒ । यत् । अ॒ग्नये॑ । प्रव॑त॒ इति॒ प्र-व॒ते॒ । नि॒र्वप॒तीति॑ निः-वप॑ति ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -417,6 +511,11 @@ In that he offers to Agni, the forward, he repels thereby the foe who is superio
 य ए॒वास्मा॒च्छ्रेया॒न्भ्रातृ॑व्य॒स्तन्तेन॒ प्र णु॑दते ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यः । ए॒व । अ॒स्मा॒त् । श्रेयान्॑ । भ्रातृ॑व्यः । तम् । तेन॑ । प्रेति॑ । नु॒द॒ते॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6य इत्यादि ॥ गतम् । श्रेयान् प्रशस्यतरः । तं तावत्प्रणुदते स्वरूपाच्च्यावयति ।
@@ -437,6 +536,11 @@ in that (he offers) to Agni, the overcomer, he repels thereby (the foe) who is e
 यद॒ग्नये॑ विबा॒धव॑ते॒ य ए॒वैने॑न स॒दृङ्तन्तेन॒ वि बा॑धते ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । अ॒ग्नये॑ । वि॒बा॒धव॑त॒ इति॑ विबा॒ध-व॒ते॒ । यः । ए॒व । ए॒ने॒न॒ । स॒दृङ्ङिति॑ स-दृङ्ङ् । तम् । तेन॑ । वीति॑ । बा॒ध॒ते॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सदृङिति । समानं पश्यतीति सदृङ् । 'समानान्ययोश्च' इति दृग्भावः, 'दृक्स्ववस्स्ववतसां छन्दसि' इति नुम् ।  विबाधत इति । विश्लेष्य नाशयति । किं नैनं कदाचिदपि पीडा प्राप्नोति । साम्यमस्य निवर्तयति स्वयमतिशेत इति यावत् ।
@@ -455,6 +559,11 @@ in that (he offers) to Agni with the face, he repels thereby the foe which is in
 <details><summary>मूलम्</summary>
 
 यद॒ग्नये॒ प्रती॑कवते॒ य ए॒वास्मा॒त्पापी॑या॒न्तन्तेनाप॑ नुदते ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । अ॒ग्नये॑ । प्रती॑कवत॒ इति॒ प्रती॑क-व॒ते॒ । यः । ए॒व । अ॒स्मा॒त् । पापी॑यान् । तम् । तेन॑ । अपेति॑ । नु॒द॒ते॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -481,6 +590,11 @@ He repels the foe who is superior, he surpasses him who is like, the inferior do
 अति॑ स॒दृश॑ङ्क्रामति ।  
 नैन॒म्पापी॑यानाप्नोति ।   
 य ए॒वव्ँवि॒द्वाने॒तयेष्ट्या॒ यज॑ते ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । श्रेयाँ॑सम् । भ्रातृ॑व्यम् । नु॒द॒ते॒ । अतीति॑ । स॒दृश॑म् । क्रा॒म॒ति॒ । न । ए॒न॒म् । पापी॑यान् । आ॒प्नो॒ति॒ । यः । ए॒वम् । वि॒द्वान् । ए॒तया॑ । इष्ट्या॑ । यज॑ते ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

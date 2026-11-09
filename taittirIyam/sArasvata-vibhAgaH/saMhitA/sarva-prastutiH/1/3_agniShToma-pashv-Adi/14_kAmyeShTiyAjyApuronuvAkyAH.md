@@ -464,6 +464,14 @@ _______
 
 </div>
 
+<details><summary>Keith</summary>
+
+Rudra, king of the sacrifice,  
+True offerer, priest of both worlds,  
+Agni before the dreadful thunder,  
+Of golden colour, win ye for help.
+</details>
+
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/003/01_A_vo.md">
 
 <details><summary><h5>मूलम् …{Loading}…</h5></summary>

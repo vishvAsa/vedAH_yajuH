@@ -173,6 +173,16 @@ From the waters ye are born, be united with the waters.
 3अपः परिप्लावयति - अद्भ्य इति गायत्र्यैकपदया यजुरन्तया ॥ हे ओषधयः यूयं अद्भ्यः परिप्रजाताः अद्भ्य एव सर्वास्सम्भूताः ।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सम᳓द्भिᳶ पृच्यध्वम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+be united with the waters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सम॒द्भिᳶ पृ॑च्यध्वम् ।
@@ -251,6 +261,16 @@ For Agni thee, for Agni and Soma.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5व्यूह्याभिमृशति - अग्नय इति ॥ अग्न्यर्थं त्वामभिमृशामीति शेषः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अग्नीषो᳓माभ्याम् [ त्वा ] ।
+</details>
+
+<details><summary>Keith</summary>
+
+For Agni and Soma thee!
 </details>
 
 <details><summary>मूलम्</summary>

@@ -28,7 +28,7 @@ He offers to Agni on eight potsherds; the sacrificial fee is gold.
 
 <details><summary>पद-पाठः</summary>
 
-1 । आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । 2 । हिर॑ण्यम् । दक्षि॑णा ।
+आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । हिर॑ण्यम् । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -71,9 +71,9 @@ He offers to Agni on eight potsherds; the sacrificial fee is gold.
 उपध्वस्तो᳓ द᳓क्षिणा ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>Keith</summary>
 
-To Savitr (he offers) on twelve potsherds; the sacrificial fee is a speckled (ox). 
+To Savitr (he offers) on twelve potsherds; the sacrificial fee is a speckled (ox).
 </details>
 
 <details><summary>मूलम्</summary>

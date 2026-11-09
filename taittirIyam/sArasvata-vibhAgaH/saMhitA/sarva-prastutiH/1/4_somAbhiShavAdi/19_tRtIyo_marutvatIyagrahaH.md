@@ -10,7 +10,7 @@ _______
 1तृतीयं मरुत्वतीयं गृह्णाति - मरुत्वानिन्द्रेति चतुष्पदया त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/047/01_marutvA_N_indra.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/047/01_marutvA_N_indra.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -407,6 +407,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -434,6 +439,11 @@ to Indra with the Maruts thee!
 इन्द्रा॑य त्वा म॒रुत्व॑ते ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इन्द्रा॑य । त्वा॒ । म॒रुत्व॑ते ।
+</details>
+
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -455,6 +465,12 @@ This is thy birthplace; to Indra with the Maruts thee!
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा म॒रुत्व॑ते ॥ [18]
 </details>
 
-</div>  
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । इन्द्रा॑य । त्वा॒ । म॒रुत्व॑ते ॥
+</details>
+
+</div>
+  
 
 इति चतुर्थे एकोनविंशोनुवाकः ॥  

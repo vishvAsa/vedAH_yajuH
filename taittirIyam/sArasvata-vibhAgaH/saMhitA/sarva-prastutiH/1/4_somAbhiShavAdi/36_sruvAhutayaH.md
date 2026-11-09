@@ -24,6 +24,11 @@ To energy hail!
 प्र॒या॒साय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्र॒या॒सायेति॑ प्र-या॒साय॑ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रयासः प्रकृष्टो यासः क्रिया यागादिः ।
@@ -42,6 +47,11 @@ To effort hail!
 <details><summary>मूलम्</summary>
 
 आ॒या॒साय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒या॒सायेत्या॑-या॒साय॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -64,6 +74,11 @@ To distraction hail!
 वि॒या॒साय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वि॒या॒सायेति॑ वि-या॒साय॑ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वियासः विविधो व्यापारः हसितकण्डूयितादिः ।
@@ -82,6 +97,11 @@ To attempt hail!
 <details><summary>मूलम्</summary>
 
 सय्ँ॒या॒साय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सय्ँ॒या॒सायेति॑ सम्-या॒साय॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -104,6 +124,11 @@ To endeavour hail!
 उ॒द्या॒साय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒द्या॒सायेत्यु॑त्-या॒साय॑ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उद्यासः उद्भूतो व्यापारः महाभूतविकारादिः ।
@@ -122,6 +147,11 @@ To striving hail!
 <details><summary>मूलम्</summary>
 
 अ॒व॒या॒साय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒व॒या॒सायेत्य॑व-या॒साय॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -144,6 +174,11 @@ To heat hail!
 शु॒चे स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+शु॒चे । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 शुक् शोचयितृस्वभावं दुःखात्मकं कर्म ।
@@ -162,6 +197,11 @@ To burning hail!
 <details><summary>मूलम्</summary>
 
 शोका॑य॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शोका॑य । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -184,6 +224,11 @@ To heating hail!
 त॒प्य॒त्वै स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+त॒प्य॒त्वै । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तप्यतुः तापहेतुः अनिष्टाचरणम् । तपतेरौणादिकोतुच्प्रत्ययः, यकारोपजनश्छान्दसः, 'उदात्तयणः ' इति विभक्तेरुदात्तत्वम् ।
@@ -202,6 +247,11 @@ To the hot hail!
 <details><summary>मूलम्</summary>
 
 तप॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तप॑ते । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -224,6 +274,11 @@ To the slaying of a Brahmin hail!
 ब्र॒ह्म॒ह॒त्यायै॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै॑ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ब्रह्महत्या ग्रहणं महापातकानामुपलक्षणम् ।
@@ -237,6 +292,11 @@ To the slaying of a Brahmin hail!
 <details><summary>मूलम्</summary>
 
 सर्व॑स्मै॒ स्वाहा॑ ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सर्व॑स्मै । स्वाहा॑ ॥
 </details>
 
 <details><summary>Keith</summary>

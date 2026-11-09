@@ -158,17 +158,15 @@ Soma is milk, the Samnayya is milk;
 verily with milk he places milk in himself.  
 </details>
 
-<details><summary>पद-पाठः</summary>
-
-पयः॑ । वै । सोमः॑ ।  
-पयः॑ । सा॒न्ना॒य्यमिति॑ साम्-ना॒य्यम् ।  
-पय॑सा । ए॒व । पयः॑ । आ॒त्मन् । ध॒त्ते॒ ।  
-</details>
-
 <details><summary>मूलम्</summary>
 
 पयो॒ वै सोमः॑ ।  
 पय॑स्सान्ना॒य्यम्पय॑सै॒व पय॑ आ॒त्मन्ध॑त्ते ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पयः॑ । वै । सोमः॑ । पयः॑ । सा॒न्ना॒य्यमिति॑ साम्-ना॒य्यम् । पय॑सा । ए॒व । पयः॑ । आ॒त्मन् । ध॒त्ते॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1103,7 +1101,7 @@ who mounts upon their sacrifice [5].
 
 सा॒क्षादिति॑ स-अ॒क्षात् । वै । ए॒षः । दे॒वान् । अ॒भ्यारो॑ह॒तीत्य॑भि-आरो॑हति ।  
 यः । ए॒षा॒म् । य॒ज्ञम् ।  
-1 । अ॒भ्या॒रोह॒तीत्य॑भि-आ॒रोह॑ति ।  
+अ॒भ्या॒रोह॒तीत्य॑भि-आ॒रोह॑ति ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

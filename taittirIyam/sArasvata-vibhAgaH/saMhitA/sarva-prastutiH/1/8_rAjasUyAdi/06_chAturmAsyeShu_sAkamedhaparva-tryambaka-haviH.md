@@ -32,7 +32,7 @@ For each he offers on one potsherd, and one over.
 
 <details><summary>पद-पाठः</summary>
 
-1A । प्र॒ति॒पूरु॒षमिति॑ प्रति-पू॒रु॒षम् । एक॑कपाला॒नित्येक॑-क॒पा॒ला॒न् । निरिति॑ । व॒प॒ति॒ । एक॑म् । अति॑रिक्त॒मित्यति॑-रि॒क्त॒म् ।
+प्र॒ति॒पूरु॒षमिति॑ प्रति-पू॒रु॒षम् । एक॑कपाला॒नित्येक॑-क॒पा॒ला॒न् । निरिति॑ । व॒प॒ति॒ । एक॑म् । अति॑रिक्त॒मित्यति॑-रि॒क्त॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -66,7 +66,7 @@ As many as we are of the house, to them have I made prosperity.
 
 <details><summary>पद-पाठः</summary>
 
-2B । याव॑न्तः । गृ॒ह्याः॑ । स्मः । तेभ्यः॑ । कम् । अ॒क॒र॒म् ।
+याव॑न्तः । गृ॒ह्याः॑ । स्मः । तेभ्यः॑ । कम् । अ॒क॒र॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -97,7 +97,7 @@ give me protection.
 
 <details><summary>पद-पाठः</summary>
 
-3C । प॒शू॒नाम् । शर्म॑ । अ॒सि॒ । शर्म॑ । यज॑मानस्य । शर्म॑ । मे॒ । य॒च्छ॒ ।
+प॒शू॒नाम् । शर्म॑ । अ॒सि॒ । शर्म॑ । यज॑मानस्य । शर्म॑ । मे॒ । य॒च्छ॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -129,7 +129,7 @@ Rudra alone yieldeth to no second.
 
 <details><summary>पद-पाठः</summary>
 
-4D । एकः॑ । ए॒व । रु॒द्रः । न । द्वि॒तीया॑य । त॒स्थे॒ ।
+एकः॑ । ए॒व । रु॒द्रः । न । द्वि॒तीया॑य । त॒स्थे॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -155,7 +155,7 @@ The mole is thy beast, O Rudra; rejoice in it.
 
 <details><summary>पद-पाठः</summary>
 
-5E । आ॒खुः । ते॒ । रु॒द्र॒ । प॒शुः । तम् । जु॒ष॒स्व॒ ।
+आ॒खुः । ते॒ । रु॒द्र॒ । प॒शुः । तम् । जु॒ष॒स्व॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -181,7 +181,7 @@ This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
 
 <details><summary>पद-पाठः</summary>
 
-6F । ए॒षः । ते॒ । रु॒द्र॒ । भा॒गः । स॒ह । स्वस्रा॑ । अम्बि॑कया । तम् । जु॒ष॒स्व॒ ।
+ए॒षः । ते॒ । रु॒द्र॒ । भा॒गः । स॒ह । स्वस्रा॑ । अम्बि॑कया । तम् । जु॒ष॒स्व॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -194,7 +194,7 @@ This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
 4ततश्च त्वत्प्रसादाद् अस्माकम् इत्थम् अस्त्व् इत्य् आशास्ते - भेषजं गव इति पङ्क्त्या पञ्चपदया ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -230,7 +230,7 @@ Good [1] for ram and sheep.
 
 <details><summary>पद-पाठः</summary>
 
-7G । भे॒ष॒जम् । गवे॑ । अश्वा॑य । पुरु॑षाय । भे॒ष॒जम् । अथो॒ इति॑ । अ॒स्मभ्य॒मित्य॒स्म-भ्य॒म् । भे॒ष॒जम् । सुभे॑षज॒मिति॒ सु-भे॒ष॒ज॒म् । 1 । यथा॑ । अस॑ति ॥ सु॒गमिति॑ सु-गम् । मे॒षाय॑ । मे॒ष्यै॑ ।
+भे॒ष॒जम् । गवे॑ । अश्वा॑य । पुरु॑षाय । भे॒ष॒जम् । अथो॒ इति॑ । अ॒स्मभ्य॒मित्य॒स्म-भ्य॒म् । भे॒ष॒जम् । सुभे॑षज॒मिति॒ सु-भे॒ष॒ज॒म् । यथा॑ । अस॑ति ॥ सु॒गमिति॑ सु-गम् । मे॒षाय॑ । मे॒ष्यै॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -238,14 +238,14 @@ Good [1] for ram and sheep.
 भेषजं गवेश्वायेति प्रथमः पादः । सर्वत्र जातावेकवचनम् । गोभ्योश्वेभ्यः पुरुषेभ्यश्च भेषजमौषधं यथा असति भवेत् ; तथा जुषस्व । अथो अपि च अस्मभ्यं यथा भेषजं रोगशमनं च भवेत्, सुभेषजं च शरीरसिद्ध्यादिकारणं यथा भवेत्, सुगं सुष्ठुगम्यं सेव्यं यथा भवेत् । सुष्ठु वा गम्यतेऽनेन सर्वमभिमतं यथा तथा तं जुषस्व ।    
 किञ्च - मेषेभ्यो मेषीभ्यश्च भेषजं यथा स्यात् तथा जुषस्व । अस्तेर्लेटि शपो लुकि 'लेटोडाटौ' इत्यडागमः । गोशब्दात् 'सावेकाचः' इति प्राप्तं विभक्त्युदात्तत्वं 'न गोश्वन्' इति प्रतिषिध्यते ॥
 </details>
+</details>
+
+</div>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अवा॑म्ब रु॒द्रम॑दिम॒ह्यव॑ दे॒वन्त्र्य॑म्बकम्  ॥ यथा॑ न॒श्श्रेय॑स॒ᳵ कर॒द्यथा॑ नो॒ वस्य॑स॒ᳵ कर॒द्यथा॑ नᳶ पशु॒मत॒ᳵ कर॒द्यथा॑ नो व्यवसा॒यया॑त्  ॥
 </details>
-</details>
-
-</div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -269,7 +269,7 @@ Good [1] for ram and sheep.
 
 <details><summary>पद-पाठः</summary>
 
-2 । अवेति॑ । अ॒म्ब॒ । रु॒द्रम् । अ॒दि॒म॒हि॒ । अवेति॑ । दे॒वम् । त्र्य॑म्बक॒मिति॒ त्रि-अ॒म्ब॒क॒म् ॥ यथा॑ । नः॒ । श्रेय॑सः । कर॑त् । यथा॑ । नः॒ । वस्य॑सः । कर॑त् । यथा॑ । नः॒ । प॒शु॒मत॒ इति॑ पशु-मतः॑ । कर॑त् । यथा॑ । नः॒ । व्य॒व॒सा॒यया॒दिति॑ वि-अ॒व॒सा॒यया॑त् ॥
+अवेति॑ । अ॒म्ब॒ । रु॒द्रम् । अ॒दि॒म॒हि॒ । अवेति॑ । दे॒वम् । त्र्य॑म्बक॒मिति॒ त्रि-अ॒म्ब॒क॒म् ॥ यथा॑ । नः॒ । श्रेय॑सः । कर॑त् । यथा॑ । नः॒ । वस्य॑सः । कर॑त् । यथा॑ । नः॒ । प॒शु॒मत॒ इति॑ पशु-मतः॑ । कर॑त् । यथा॑ । नः॒ । व्य॒व॒सा॒यया॒दिति॑ वि-अ॒व॒सा॒यया॑त् ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -307,7 +307,7 @@ That he may embolden us.
 6त्रिः प्रदक्षिणं परियन्ति - त्र्यम्बकमिति । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/059/12_tryambakaM_yajAmahe.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/059/12_tryambakaM_yajAmahe.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -658,7 +658,7 @@ This is thy portion, O Rudra; rejoice in it;
 
 <details><summary>पद-पाठः</summary>
 
-4K । ए॒षः । ते॒ । रु॒द्र॒ । भा॒गः । तम् । जु॒ष॒स्व॒ ।
+ए॒षः । ते॒ । रु॒द्र॒ । भा॒गः । तम् । जु॒ष॒स्व॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -672,6 +672,12 @@ This is thy portion, O Rudra; rejoice in it;
 अ᳓वतत-धन्वा पि᳓नाक-हस्तᳵ कृ᳓त्तिवासाः ॥ [11]
 </details>
 
+<details><summary>Keith</summary>
+
+With it for food, do thou go away beyond the Mujavants,  
+with unstrung bow, thy club in thy hand, clad in skins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेना॑व॒सेन॑ प॒रो मूज॑व॒तोऽती॒ह्यव॑ततधन्वा॒ पिना॑कहस्त॒ᳵ कृत्ति॑वासाः ॥ [11]
@@ -679,7 +685,7 @@ This is thy portion, O Rudra; rejoice in it;
 
 <details><summary>पद-पाठः</summary>
 
-तेन॑ । अ॒व॒सेन॑ । प॒रः । मूज॑वत॒ इति॒ मूज॑-व॒तः॒ । अतीति॑ । इ॒हि॒ । 5L । अव॑ततध॒न्वेत्यव॑तत-ध॒न्वा॒ । पिना॑कहस्त॒ इति॒ पिना॑क-ह॒स्तः॒ । कृत्ति॑वासा॒ इति॒ कृत्ति॑-वा॒साः॒ ॥
+तेन॑ । अ॒व॒सेन॑ । प॒रः । मूज॑वत॒ इति॒ मूज॑-व॒तः॒ । अतीति॑ । इ॒हि॒ । अव॑ततध॒न्वेत्यव॑तत-ध॒न्वा॒ । पिना॑कहस्त॒ इति॒ पिना॑क-ह॒स्तः॒ । कृत्ति॑वासा॒ इति॒ कृत्ति॑-वा॒साः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

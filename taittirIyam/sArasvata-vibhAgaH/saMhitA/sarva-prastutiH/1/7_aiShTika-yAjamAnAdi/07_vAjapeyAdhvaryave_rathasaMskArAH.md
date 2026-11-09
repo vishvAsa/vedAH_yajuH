@@ -26,7 +26,7 @@ title = "०७ वाजपेयाध्वर्यवे रथसंस्
 'सावित्रं जुहोति कर्मणःकर्मणः पुरस्तात्' इत्यादि ब्राह्मणम् ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/02_deva_savitapH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/02_deva_savitapH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -51,6 +51,11 @@ O god Savitr, instigate the sacrifice, instigate the lord of the sacrifice for g
 
 देव॑ सवित॒ᳶ प्रसु॑व य॒ज्ञम्प्रसु॑व य॒ज्ञप॑ति॒म्भगा॑य दि॒व्यो ग॑न्ध॒र्वः ।  
 के॒त॒पूᳵ केत॑न्नᳶ पुनातु वा॒चस्पति॒र्वाच॑म॒द्य स्व॑दाति नः  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+देव॑ । स॒वि॒तः॒ । प्रेति॑ । सु॒व॒ । य॒ज्ञम् । प्रेति॑ । सु॒व॒ । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म् । भगा॑य । दि॒व्यः । ग॒न्ध॒र्वः ॥ के॒त॒पूरिति॑ केत-पूः । केत॑म् । नः॒ । पु॒ना॒तु॒ । वा॒चः । पतिः॑ । वाच॑म् । अ॒द्य । स्व॒दा॒ति॒ । नः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -92,7 +97,7 @@ Thou art the bolt of Indra [2] slaying foes;
 
 <details><summary>पद-पाठः</summary>
 
-2B । इन्द्र॑स्य । वज्रः॑ । अ॒सि॒ । वार्त्र॑घ्न॒ इति॒ वार्त्र॑-घ्नः॒ ।
+इन्द्र॑स्य । वज्रः॑ । अ॒सि॒ । वार्त्र॑घ्न॒ इति॒ वार्त्र॑-घ्नः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -140,7 +145,7 @@ ______________
 2अन्तर्वेद्य् अभ्यावर्तयति - वाजस्येति जगत्या ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/03_vAjasya_nu.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/03_vAjasya_nu.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -170,6 +175,11 @@ In her may the god Savitr instigate right for us.
 यस्या॑मि॒दव्ँविश्व॒म्भुव॑नमावि॒वेश॒ तस्या॑न्नो दे॒वस्स॑वि॒ता धर्म॑ साविषत्  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वाज॑स्य । नु । प्र॒स॒व इति॑ प्र-स॒वे । मा॒तर॑म् । म॒हीम् । अदि॑तिम् । नाम॑ । वच॑सा । क॒रा॒म॒हे॒ ॥ यस्या॑म् । इ॒दम् । विश्व॑म् । भुव॑नम् । आ॒वि॒वेशेत्या॑-वि॒वेश॑ । तस्या॑म् । नः॒ । दे॒वः । स॒वि॒ता । धर्म॑ । सा॒वि॒ष॒त् ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **वाजस्य** +अन्नस्य **प्रसवे** उत्पत्तौ उत्पत्त्यर्थम् ।  
@@ -178,21 +188,21 @@ In her may the god Savitr instigate right for us.
 
 किञ्च - **यस्याम् इदं विश्वं** भुवनं भूतजातं **आविवेश** उपरि सुखेन वर्तते । **तस्याम्** अस्यां **नो** ऽस्माकं **धर्म** धारणं रथस्य **देवस् सविता साविषत्** अनुजानातु । सुवतेर्लेटि 'सिब्बहुलं लेटि' इति सिब्विकरणस्य लुक्, इतश्च लोपः, गुणे कृते छान्दसं दीर्घत्वम् । यद्वा - छान्दसो लुङ्, सिचि वृद्धिः, ईटोपवादोडागमः 'अमाङ्योगेपि' इति धातोरडभावः ॥
 </details>
+</details>
+
+</div>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒प्सु [32]अ॒न्तर॒मृत॑म॒प्सु भे॑ष॒जम॒पामु॒त  प्रश॑स्ति॒ष्वश्वा॑ भवथ वाजिनः ॥
 </details>
-</details>
-
-</div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अश्वानप्सु स्नापयति - अप्स्वन्तरिति पुरउष्णिहा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/04_aphsv_antar.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/04_aphsv_antar.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -220,6 +230,11 @@ Be ye steeds, O ye that are strong.
 अश्वा॑ भवथ वाजिनः  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒प्स्वित्य॑प्-सु । अ॒न्तः । अ॒मृत॑म् । अ॒प्स्वित्य॑प्-सु । भे॒ष॒जम् । अ॒पाम् । उ॒त । प्रश॑स्ति॒ष्विति॒ प्र-श॒स्ति॒षु॒ । अश्वाः॑ । भ॒व॒थ॒ । वा॒जि॒नः॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **अप्स्व् अन्तर् अममृतं** वर्तते अमरणत्वम् ।  
@@ -237,7 +252,7 @@ Be ye steeds, O ye that are strong.
 5 प्रष्टि-वाहिनं रथं युनक्ति - वायुर् वा त्वेत्यनुष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/05_vAyur_vA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/05_vAyur_vA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -265,6 +280,11 @@ They placed swiftness in it.
 
 वा॒युर्वा॑ त्वा॒ मनु॑र्वा त्वा गन्ध॒र्वास्स॒प्तविँ॑शतिः ।  
 ते अग्रे॒ अश्व॑मायुञ्ज॒न्ते अ॑स्मिञ्ज॒वमाद॑धुः  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒युः । वा॒ । त्वा॒ । मनुः॑ । वा॒ । त्वा॒ । ग॒न्ध॒र्वाः । स॒प्तविँ॑शति॒रिति॑ स॒प्त-विँ॒श॒तिः॒ ॥ ते । अग्रे॑ । अश्व॑म् । आ॒यु॒ञ्ज॒न् । ते । अ॒स्मि॒न् । ज॒वम् । एति॑ । अ॒द॒धुः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -295,7 +315,7 @@ They placed swiftness in it.
 अपा॑न्नपादाशुहेम॒न्य ऊ॒र्मिᳵ क॒कुद्मा॒न्प्रतू॑र्तिर्वाज॒सात॑म॒स्तेना॒यव्ँवाजँ॑ सेत्  ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/06_apAnnapAd_Ashuheman.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/06_apAnnapAd_Ashuheman.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -322,6 +342,11 @@ with it may he win the prize.
 अपा॑न्नपादाशुहेम॒न्  य ऊ॒र्मिᳵ ...   
 क॒कुद्मा॒न्प्रतू॑र्तिर्वाज॒सात॑मः ।  
 तेना॒यव्ँवाजँ॑ सेत्  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अपा॑म् । न॒पा॒त् । आ॒शु॒हे॒म॒न्नित्या॑शु-हे॒म॒न् । यः । ऊ॒र्मिः । क॒कुद्मा॒निति॑ क॒कुत्-मा॒न् । प्रतू॑र्ति॒रिति॒ प्र-तू॒र्तिः॒ । वा॒ज॒सात॑म॒ इति॑ वाज-सात॑मः । तेन॑ । अ॒यम् । वाज॑म् । से॒त् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -362,7 +387,7 @@ Thou art the stepping of Visnu,
 
 <details><summary>पद-पाठः</summary>
 
-4G । विष्णोः॑ । क्रमः॑ । अ॒सि॒ ।
+विष्णोः॑ । क्रमः॑ । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -427,7 +452,7 @@ thou art the stride of Visnu.
 8रथस्य चक्रे पक्षसी वाभिमृशति - अङ्काविति त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/07_ankau_nyankAv.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/07_ankau_nyankAv.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -456,6 +481,11 @@ The fires which are furtherers, further us.
 ध्वा॒न्तव्ँवा॑ता॒ग्रमनु॑ स॒ञ्चर॑न्तौ ।  
 दू॒रेहे॑तिरिन्द्रि॒यावा॑न्पत॒त्री   
 ते नो॒ऽग्नय॒ᳶ पप्र॑यᳶ पारयन्तु ॥ [33]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ङ्कौ । न्य॒ङ्काविति॑ नि-अ॒ङ्कौ । अ॒भितः॑ । रथ॑म् । यौ । ध्वा॒न्तम् । वा॒ता॒ग्रमिति॑ वात-अ॒ग्रम् । अन्विति॑ । स॒ञ्चर॑न्ता॒विति॑ सम्-चर॑न्तौ । दू॒रेहे॑ति॒रिति॑ दू॒रे-हे॒तिः॒ । इ॒न्द्रि॒यावा॒निती॑न्द्रि॒य-वा॒न् । प॒त॒त्री । ते । नः॒ । अ॒ग्नयः॑ । पप्र॑यः । पा॒र॒य॒न्तु॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

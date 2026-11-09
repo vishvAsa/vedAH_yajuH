@@ -50,6 +50,16 @@ to match thy cow.
 सोम॑न्ते क्रीणा॒म्यूर्ज॑स्वन्त॒म्पय॑स्वन्तव्ँवी॒र्या॑वन्तमभिमाति॒षाहँ॑ शु॒क्रन्ते॑ शु॒क्रेण॑ क्रीणामि च॒न्द्रञ्च॒न्द्रेणा॒मृत॑म॒मृते॑न स॒म्यत्ते॒ गोः
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सो᳓मन् ते क्रीणामि᳓ ।
+</details>
+
+<details><summary>Keith</summary>
+
+I buy Soma from thee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोम॑न्ते क्रीणा॒मि ।
@@ -68,6 +78,18 @@ to match thy cow.
 <details><summary>सायण-टीका</summary>
 
 हे सोम-विक्रयिन्न्, अहं त्वदीयं सोमं क्रीणामि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऊ᳓र्जस्वन्तम् प᳓यस्वन्तव्ँ वीर्या᳙वन्तम् अभिमातिषा᳓हम्  
+शुक्र᳓न् ते शुक्रे᳓ण क्रीणामि ।
+</details>
+
+<details><summary>Keith</summary>
+
+strong, rich in sap, full of force, overcoming the foe,  
+the pure with the pure I buy.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -93,6 +115,16 @@ to match thy cow.
 कीदृशम्? ऊर्जस्वन्तं शारीर-बल-प्रदं, पयस्वन्तं प्रभूत-रसोपेतं, वीर्यावन्तम् इन्द्रिय-पाटव-हेतुम्। अमिमाति-षाहं पाप-रूपस्य वैरिणो हन्तारम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चन्द्र᳓ञ् चन्द्रे᳓णामृ᳓तम् अमृ᳓तेन ।
+</details>
+
+<details><summary>Keith</summary>
+
+the bright with the bright, the immortal with the immortal.
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒न्द्रञ्च॒न्द्रेणा॒मृत॑म॒मृते॑न  ।
@@ -112,6 +144,16 @@ to match thy cow.
 <details><summary>सायण-टीका</summary>
 
 शुक्र-चन्द्रामृत-शब्दैर् अभिधेयास् तेजः-सुखाविनाशास् त्वदीय-सोमे ऽस्म-दीय-हिरण्ये च समाः। अतो हिरण्येन सोमं क्रीणामि।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सम्य᳓त् ते गोः᳓ ।
+</details>
+
+<details><summary>Keith</summary>
+
+to match thy cow.
 </details>
 
 <details><summary>मूलम्</summary>

@@ -18,7 +18,7 @@ _______
 1अथ प्राजापत्यकाण्डमध्ये याज्याकाण्डं वैश्वदेवम् । तत्र 'वैश्वानरं द्वादशकपालं निर्वपेद्वारुणं चरुं दधिक्राव्ण्णे चरुमभिशस्यमानः' इति त्रिहविष्को यो वैश्वानरो द्वादशकपालः तस्य पुरोनुवाक्या - वैश्वानरो न इति गायत्री ॥ प्रायेण पञ्चमषष्ठयोस् सर्ववैश्वानराणाम् इयमेव पुरोनुवाक्या वेदितव्या ।  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -46,6 +46,11 @@ Agni through the hymn which brings (him).
 अ॒ग्निरु॒क्थेन॒ वाह॑सा  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वै॒श्वा॒न॒रः । नः॒ । ऊ॒त्या । आ । प्रेति॑ । या॒तु॒ । प॒रा॒वत॒ इति॑ परा-वतः॑ ॥ अ॒ग्निः । उ॒क्थेन॑ । वाह॑सा ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **वैश्वानरः** विश्वेषां नराणां स्वामित्वेन सम्बन्धी अग्निः । 'नरे संज्ञायाम्' इति पूर्वपदस्य दीर्घत्वम् । **ऊत्या** मार्गेण करणेन अस्मद्रक्षणेन वा हेतुना आत्मनो वा तर्पणेन प्रयोजनेन । 'ऊतियूति' इति क्तिन उदात्तत्वं निपात्यते, 'उदात्तयणः' इति विभक्तेरुदात्तत्वं, 'ज्वरत्वर' इत्यादिना ऊठ् । 
@@ -66,7 +71,7 @@ _______
 2'वैश्वानरं द्वादशकपालं निर्वपेद् विद्विषाणयोर् अन्नं जग्ध्वा' इत्यस्य याज्या - ऋतावानमिति गायत्री ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -151,7 +156,7 @@ _______
 3'वैश्वानरं द्वादशकपालं निर्वपेत्पुत्रे जाते' इत्यस्य पुरोनुवाक्या - वैश्वानरस्य दंसनाभ्य इति जगती ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/003/11_vaishvAnarasya_daMsanAbhyo.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/003/11_vaishvAnarasya_daMsanAbhyo.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -494,7 +499,7 @@ _______
 4'वैश्वानरं द्वादश-कपालं निर्वपेद् - अमावास्यां वा पौर्णमासीं वातिपाद्य' इत्यस्य याज्या' - पृष्टो दिवीति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/098/02_pRShTo_divi.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/098/02_pRShTo_divi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -894,7 +899,7 @@ _______
 5जातेष्ट्या याज्या - जातो यदग्न इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/013/03_jAto_yadagne.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/013/03_jAto_yadagne.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1273,7 +1278,7 @@ _______
 6त्रिहविष्याद्यस्य वैश्वानरस्य याज्या - त्वमग्न इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/013/02_tvamagne_shochiShA.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/013/02_tvamagne_shochiShA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1603,7 +1608,7 @@ _______
 7'वैश्वानरं द्वादशकपालं निर्वपेदायतनं गत्वा' इत्यस्य याज्या - अस्माकमिति जगती ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/008/06_asmAkamagne_maghavatsu.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/008/06_asmAkamagne_maghavatsu.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1960,7 +1965,7 @@ _______
 8'वैश्वानरं द्वादशकपालं निर्वपेत्सनिमेष्यन्' इत्यस्य याज्या - यैश्वानरस्य सुमताविति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/098/01_vaishvAnarasya_sumatau.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/098/01_vaishvAnarasya_sumatau.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2319,7 +2324,7 @@ _______
 अथ त्रिहविषि मध्यमस्य वारुणस्य पुरोनुवाक्या - अवते हेड इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/14_ava_te.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/14_ava_te.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2679,7 +2684,7 @@ _______
 10तत्रैव याज्या - उदुत्तममिति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/15_uduttamaM_varuNa.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/15_uduttamaM_varuNa.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -3042,7 +3047,7 @@ _______
 11अथ तत्रैव त्रिहविषः उत्तमस्य 'दधिक्राव्ण्णे चरुम्' इत्यस्य पुरोनुवाक्या - दधिकाव्ण्ण इत्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/039/06_dadhikrAvNo_akAriShaM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/039/06_dadhikrAvNo_akAriShaM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -3359,7 +3364,7 @@ _______
 12तत्रैव याज्या - आ दधिक्रा इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/038/10_A_dadhikrAH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/038/10_A_dadhikrAH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -3740,7 +3745,7 @@ _______
 13'आग्नेयमष्टाकपालं निर्वपेद्वैश्वानरं द्वादशकपालमग्निमुद्वासयिष्यन्' इति द्विहविष्कस्याग्नेयस्य याज्यानुवाक्ये - अग्निर्मूर्धा दिवः ककुत्, भुवो यज्ञस्येति गायत्रीत्रिष्टुभौ ॥ एतयोराद्या 'उपप्रयन्तः' इत्यत्र व्याख्याता ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/16_agnirmUrdhA_divaH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/16_agnirmUrdhA_divaH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -4005,6 +4010,11 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 अ॒ग्निर्मू॒र्धा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । मू॒र्धा ।
+</details>
+
 <details><summary>Keith</summary>
 
 Agni, the head.
@@ -4015,7 +4025,7 @@ Agni, the head.
 अन्या त्वग्निकाण्डे व्याख्यास्यते, यत्राम्नायते । 'अग्निर्मूर्धा' इत्यत्रानुवाके । इह तु प्रतीके अनयोर्गृह्येते । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/04_ChandobhidheShTakopadhAnam/bhuvo_yaJNasya.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/04_ChandobhidheShTakopadhAnam/bhuvo_yaJNasya.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -4030,10 +4040,23 @@ Agni, the head.
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/04_ChandobhidheShTakopadhAnam/bhuvo_yaJNasya.md">
 
+<details><summary>Keith</summary>
+
+Leader of the sacrifice and the region art thou,  
+Where with steeds auspicious thou dost resort;  
+Thou placest in the sky thy head winning light,  
+Thou makest, O Agni, thy tongue to bear the oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भुवो॑ य॒ज्ञस्य॒ रज॑सश्च ने॒ता यत्रा॑ नि॒युद्भि॒स्सच॑से शि॒वाभिः॑ ।    
 दि॒वि मू॒र्धान॑न्दधिषे सुव॒र्षाञ्जि॒ह्वाम॑ग्ने चकृषे हव्य॒वाह॑म् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भुवः॑ । य॒ज्ञस्य॑ । रज॑सः । च॒ । ने॒ता । यत्र॑ । नि॒युद्भि॒रिति॑ नि॒युत्-भिः॒ । सच॑से । शि॒वाभिः॑ ॥ दि॒वि । मू॒र्धान॑म् । द॒धि॒षे॒ । सु॒व॒र्षामिति॑ सुवः-साम् । जि॒ह्वाम् । अ॒ग्ने॒ । च॒कृ॒षे॒ । ह॒व्य॒वाह॒मिति॑ हव्य-वाह॑म् ॥
 </details>
 
 <details><summary>सायणटीका</summary>
@@ -4055,6 +4078,11 @@ Agni, the head.
 भुवः॑।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+भुवः॑ ॥
+</details>
+
 <details><summary>Keith</summary>
 
 Thou art.
@@ -4068,7 +4096,7 @@ _______
 15`वैश्वानरं द्वादशकपालं निर्वपेन्मारुतं सप्तकपालं ग्रामकामः' इति द्विहविषो मारुतस्य पुरोनुवाक्या - मरुतो यद्ध वो दिव इति गायत्री ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/007/11_maruto_yaddha.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/007/11_maruto_yaddha.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -4359,7 +4387,7 @@ _______
 16तत्रैव याज्या - या व इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/085/12_yA_vaH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/085/12_yA_vaH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -4734,7 +4762,7 @@ Den Schutz, der für den Opfrer euch bereit ist, der dreifach schirmt, den reich
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/085/12_yA_vaH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/085/12_yA_vaH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -5116,19 +5144,7 @@ _______
 17आदित्यं चरुं निर्वपेत्सङ्ग्राममुपप्रयास्यन्' इत्यत्र पुरोनुवाक्या - अदितिर्न इति गायत्री ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
-
-<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
-
-अ᳓दितिर् न उरुष्यत्व्  
-अ᳓दितिश् श᳓र्म यच्छतु ।  
-अ᳓दितिᳶ पात्व् अँ᳓हसः  ॥
-
-</details>
-
-</div>
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
+<div class="js_include" newlevelforh1="2" open title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -5168,7 +5184,7 @@ _______
 18तत्रैव याज्या - महीमूष्विति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -5197,6 +5213,11 @@ Aditi, who giveth good protection and good guidance.
 तु॒वि॒क्ष॒त्त्राम॒जर॑न्तीमुरू॒चीँ सु॒शर्मा॑ण॒मदि॑तिँ सु॒प्रणी॑तिम्  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+म॒हीम् । उ॒ । स्विति॑ । मा॒तर॑म् । सु॒व्र॒ताना॒मिति॑ सु-व्र॒ताना॑म् । ऋ॒तस्य॑ । पत्नी॑म् । अव॑से । हु॒वे॒म॒ ॥ तु॒वि॒क्ष॒त्रामिति॑ तुवि-क्ष॒त्राम् । अ॒जर॑न्तीम् । उ॒रू॒चीम् । सु॒शर्मा॑ण॒मिति॑ सु-शर्मा॑णम् । अदि॑तिम् । सु॒प्रणी॑ति॒मिति॑ सु-प्रणी॑तिम् ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **महीं** महतीं महनीयां वा मातरं मातृस्थानीयां वा सुव्रतानां शोभनकर्मणां पुरुषाणाम् । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । **ऋतस्य** सत्यस्य यज्ञस्य वा **पत्नीं** पालयित्रीं **तुविक्षत्रां** बहुलां बहुधनां वा । त्रिचक्रादित्वाद् उत्तरपदान्तोदात्तत्वम् ।  
@@ -5216,7 +5237,7 @@ _______
 19पुनरपि तत्रैव याज्याविकल्पः - सुत्रामाणमिति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -5324,7 +5345,7 @@ _______
 समाप्तश्च प्रपाठकः ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/375_imAM_su.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/375_imAM_su.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -5350,6 +5371,11 @@ Without leak, able to convey across.
 
 इ॒माँ सु नाव॒माऽरु॑हँ श॒तारि॑त्राँ श॒तस्फ्या॑म् ।  
 अच्छि॑द्राम्पारयि॒ष्णुम्  ॥  [51]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒माम् । स्विति॑ । नाव॑म् । एति॑ । अ॒रु॒ह॒म् । श॒तारि॑त्रा॒मिति॑ श॒त-अ॒रि॒त्रा॒म् । श॒तस्फ्या॒मिति॑ श॒त-स्फ्या॒म् ॥ अच्छि॑द्राम् । पा॒र॒यि॒ष्णुम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

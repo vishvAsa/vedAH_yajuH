@@ -24,6 +24,18 @@ Prajapati had thirty-three daughters;
 प्र॒जाप॑ते॒स्त्रय॑स्त्रिँशद्दुहि॒तर॑ आसन् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑ते॒रिति॑ प्र॒जा-प॒तेः॒ । त्रय॑स्त्रिँश॒दिति॒ त्रयः॑-त्रिँ॒श॒त्॒ । दु॒हि॒तरः॑ । आ॒स॒न्॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+1प्रजापतेस्त्रयस्त्रिंशदित्यादि ॥ अश्विन्यादयस्सप्तविंशतिस्तारकाभिमानिन्यः ; ऋद्ध्या दयष्षडन्या इत्येके ।
+
+अन्ये तु - षट्कृत्तिकाः अभिजिदेका अश्विन्यादयष्षद्विंशतिरिति त्रयस्त्रिंशत्तारका इत्याहुः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓स्सो᳓माय रा᳓ज्ञेऽददात् ।
@@ -37,6 +49,11 @@ he gave them to Soma, the king;
 <details><summary>मूलम्</summary>
 
 तास्सोमा॑य॒ राज्ञे॑ऽददात् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ताः । सोमा॑य । राज्ञे॑ । अ॒द॒दा॒त्॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -54,9 +71,9 @@ of them he associated with Rohini;
 तासाँ॑ रोहि॒णीमुपै॑त् ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-1प्रजापतेस्त्रयस्त्रिंशदित्यादि ॥ अश्विन्यादयस्सप्तविंशतिस्तारकाभिमानिन्यः ; ऋद्ध्या दयष्षडन्या इत्येके । अन्ये तु - षट्कृत्तिकाः अभिजिदेका अश्विन्यादयष्षद्विंशतिरिति त्रयस्त्रिंशत्तारका इत्याहुः ।
+तासा॑म् । रो॒हि॒णीम् । उपेति॑ । ऐ॒त्॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -72,6 +89,16 @@ they returned in anger;
 <details><summary>मूलम्</summary>
 
 ता ईर्ष्य॑न्ती॒ᳶ पुन॑रगच्छन्।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ताः । ईर्ष्य॑न्तीः । पुनः॑ । अ॒ग॒च्छ॒न्॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ईर्ष्यन्तीरिति । सपत्नीबहुमानमसहमानाः पितरमेव पुनरगच्छन् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -91,9 +118,14 @@ then he followed and asked for them back;
 ताᳶ पुन॑रयाचत ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ताः । अन्विति॑ । ऐ॒त्॒ । ताः । पुनः॑ । अ॒या॒च॒त॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-ईर्ष्यन्तीरिति । सपत्नीबहुमानमसहमानाः पितरमेव पुनरगच्छन् ।
+ता अन्वगच्छत् सोमः अयाचत प्रजापतिम् । ततस्तास्सोमाय नाददात्प्रजापतिः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,9 +143,9 @@ them he would not return;
 ता अ॑स्मै॒ न पुन॑रददात् ।  
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-ता अन्वगच्छत् सोमः अयाचत प्रजापतिम् । ततस्तास्सोमाय नाददात्प्रजापतिः ।
+ताः । अ॒स्मै॒ । न । पुनः॑ । अ॒द॒दा॒त्॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,6 +163,11 @@ he said, 'Swear on oath
 
 सो॑ऽब्रवीत्  ।   
 ऋतम॑मीष्व ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । अ॒ब्र॒वी॒त्॒ । ऋ॒तम् । अ॒मी॒ष्व॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -153,6 +190,11 @@ that thou wilt equally associate (with them):
 यथा॑ समाव॒च्छ उ॑पै॒ष्यामि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यथा॑ । स॒मा॒व॒च्छ इति॑ समावत्-शः । उ॒पै॒ष्यामीत्यु॑प-ए॒ष्यामि॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 शपथप्रयोगं दर्शयति - यथेति । यथा इदमर्थरूपं समावच्छ उपैष्यामीति एवं शपथः क्रियताम् ।
@@ -171,6 +213,11 @@ then will I return them to you.'
 <details><summary>मूलम्</summary>
 
 अथ॑ ते॒ पुन॑र्दास्या॒मीति॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अथ॑ । ते॒ । पुनः॑ । दा॒स्या॒मि॒ । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -195,6 +242,11 @@ He took the oath, and he returned them.
 ता अ॑स्मै॒ पुन॑रददात् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सः । ऋ॒तम् । आ॒मी॒त्॒ । ताः । अ॒स्मै॒ । पुनः॑ । अ॒द॒दा॒त्॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स सोमस्तथाकरोत्, प्रजापतिश्च पुनरदात् ।
@@ -213,6 +265,11 @@ He associated with Rohini alone [1].
 <details><summary>मूलम्</summary>
 
 तासाँ॑ रोहि॒णीमे॒वोपै॑त्  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तासा॑म् । रो॒हि॒णीम् । ए॒व । उपेति॑ । ऐ॒त्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -235,6 +292,11 @@ Illness seized him;
 तय्ँयक्ष्म॑ आर्च्छत् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तम् । यक्ष्मः॑ । आ॒र्च्छ॒त्॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथ सत्यातिक्रमात् तं सोमं यक्ष्मः क्षयरोगः आर्तमकरोत् । यक्ष पूजायाम्, औणादिको मन्प्रत्ययः । रोगोत्तमत्वं पूजा ।
@@ -253,6 +315,11 @@ Illness seized him;
 <details><summary>मूलम्</summary>
 
 राजा॑नय्ँ॒यक्ष्म॑ आर॒दिति॒ तद्रा॑जय॒क्ष्मस्य॒ जन्म॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+राजा॑नम् । यक्ष्मः॑ । आ॒र॒त्॒ । इति॑ । तत् । रा॒ज॒य॒क्ष्मस्येति॑ राज-य॒ख्मस्य॑ । जन्म॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -275,6 +342,11 @@ in that he became worse, that is (the origin) of the 'bad illness';
 यत्पापी॑या॒नभ॑व॒त्,  तत्पा॑पय॒क्ष्मस्य +++(जन्म)+++।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । पापी॑यान् । अ॒भ॒व॒त्॒ । तत् । पा॒प॒य॒क्ष्मस्येति॑ पाप-य॒क्ष्मस्य॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पापीयानिति । पुरुषान्तरयक्ष्मात्पापतरत्वात्पापश्चासौ यक्ष्मश्चेति ।
@@ -293,6 +365,11 @@ because he got it from his wives, that is (the origin) of the 'wife's disease' (
 <details><summary>मूलम्</summary>
 
 यज्जा॒याभ्योऽवि॑न्द॒त्, तज्जा॒येन्य॑स्य +++(जन्म)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । जा॒याभ्यः॑ । अवि॑न्दत् । तत् । जा॒येन्य॑स्य ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -315,6 +392,11 @@ him who knows thus the origin of these illnesses,
 य ए॒वमे॒तेषाय्ँ॒यक्ष्मा॑णा॒ञ्जन्म॒ वेद॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यः । ए॒वम् । ए॒तेषा॑म् । यक्ष्मा॑णाम् । जन्म॑ । वेद॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 य एवमिति । एकस्यैव यक्ष्मस्य निमित्तभेदेन त्रित्वमुपचर्यते ।
@@ -333,6 +415,11 @@ these illnesses do not visit.
 <details><summary>मूलम्</summary>
 
 नैन॑मे॒ते यक्ष्मा॑ विन्दन्ति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+न । ए॒न॒म्॒ । ए॒ते । यक्ष्माः॑ । वि॒न्द॒न्ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -355,6 +442,11 @@ He approached them respectfully;
 स ए॒ता ए॒व न॑म॒स्यन्नुपा॑धावत् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सः । ए॒ताः । ए॒व । न॒म॒स्यन् । उपेति॑ । अ॒धा॒व॒त्॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथ सोमः प्रजापतिं मुक्त्वा एता जाया नमस्यन् पूजयन् उपाधावत् आर्तोस्मि प्रसीदन्तु भवत्य इति ।
@@ -375,6 +467,16 @@ they said, 'Let us choose a boon;
 ता अ॑ब्रुवन् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ताः । अ॒ब्रु॒व॒न्॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ ता अब्रुवन् वरं वृणामहै सममेव चास्मानुपायः उपगच्छेति तुल्यप्रतिपत्तयो वयं स्यामेति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रव्ँवृणामहै, समावच्छ᳓ एव᳓ न उ᳓पाय इ᳓ति ।
@@ -390,9 +492,14 @@ do thou associate equally with us.'
 वरव्ँ॑वृणामहै, समाव॒च्छ ए॒व न॒ उपा॑य॒ इति॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वर॑म् । वृ॒णा॒म॒है॒ । स॒मा॒व॒च्छ इति॑ समावत्-शः । ए॒व । नः॒ । उपेति॑ । अ॒यः॒ । इति॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अथ ता अब्रुवन् वरं वृणामहै सममेव चास्मानुपायः उपगच्छेति तुल्यप्रतिपत्तयो वयं स्यामेति ।
+इत्थमिदं करिष्यामीति सोमेनाभ्युपगते तस्मै आदित्यं चरुं निरवपन् जायाः, तेनैव पापात्स्रामाद्रोगादेनममुञ्चन् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -410,6 +517,11 @@ For him [2] they offered this oblation to the Adityas;
 तस्मा॑ ए॒तमा॑दि॒त्यञ्च॒रुन्निर॑वपन् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तस्मै॑ । ए॒तम् । आ॒दि॒त्यम् । च॒रुम् । निरिति॑ । अ॒व॒प॒न्॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नैवै᳓नम्पापा᳓त्स्रा᳓मादमुञ्चन् ।
@@ -425,9 +537,9 @@ they freed him from his evil case.
 तेनै॒वैन॑म्पा॒पात्स्रामा॑दमुञ्चन् ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-इत्थमिदं करिष्यामीति सोमेनाभ्युपगते तस्मै आदित्यं चरुं निरवपन् जायाः, तेनैव पापात्स्रामाद्रोगादेनममुञ्चन् ॥
+तेन॑ । ए॒व । ए॒न॒म्॒ । पा॒पात् । स्रामा॑त् । अ॒मु॒ञ्च॒न्॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -452,6 +564,16 @@ For him who is seized by the bad illness he should offer this oblation to the Ad
 तस्मा॑ ए॒तमा॑दि॒त्यञ्च॒रुन्निर्व॑पेत् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यः । पा॒प॒य॒क्ष्मगृ॑हीत॒ इति॑ पापय॒क्ष्म-गृ॒ही॒तः॒ । स्यात् । तस्मै॑ । ए॒तम् । आ॒दि॒त्यम् । च॒रुम् । निरिति॑ । व॒पे॒त्॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2य इत्यादि ॥ गतम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्या᳓नेव᳓ स्वे᳓न भागधे᳓येनो᳓प धावति ।
@@ -465,6 +587,11 @@ verily he has recourse to the Adityas with their own share;
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्याने॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒दि॒त्यान् । ए॒व । स्वेन॑ । भा॒ग॒धेये॒नेति॑ भाग-धेये॑न । उपेति॑ । धा॒व॒ति॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -482,9 +609,9 @@ verily they free him from his evil case.
 त ए॒वैन॑म्पा॒पात्स्रामा॑न्मुञ्चन्ति ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-2य इत्यादि ॥ गतम् ।
+ते । ए॒व । ए॒न॒म्॒ । पा॒पात् । स्रामा॑त् । मु॒ञ्च॒न्ति॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -500,6 +627,11 @@ He should offer at the new moon; verily with its waxing he makes him wax.
 <details><summary>मूलम्</summary>
 
 अ॒मा॒वा॒स्या॑या॒न्निर्व॑पेत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒मा॒वा॒स्या॑या॒मित्य॑मा-वा॒स्या॑याम् । निरिति॑ । व॒पे॒त्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -528,6 +660,11 @@ The Puronuvakya is, 'He is born ever new'; verily thereby he bestows life upon h
 आयु॑रे॒वास्मि॒न्तया॑ दधाति ।  
 यमा॑दि॒त्या अँ॒शुमा॑प्या॒यय॒न्तीति ।  
 या॒ज्यैवैन॑मे॒तया॑ प्याययति ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒मुम् । ए॒व । ए॒न॒म्॒ । आ॒प्याय॑मान॒मित्या॑-प्याय॑मानम् । अनु॑ । एति॑ । प्या॒य॒य॒ति॒ । नवो॑नव॒ इति॒ नवः॑-न॒वः॒ । भ॒व॒ति॒ । जाय॑मानः । इति॑ । पु॒रो॒नु॒वा॒क्येति॑ पुरः-अ॒नु॒वा॒क्या॑ । भ॒व॒ति॒ । आयुः॑ । ए॒व । अ॒स्मि॒न्॒ । तया॑ । द॒धा॒ति॒ । यम् । आ॒दि॒त्याः । अँ॒शुम् । आ॒प्या॒यय॒न्तीत्या॑-प्या॒यय॑न्ति । इति॑ । या॒ज्या॑ । एति॑ । ए॒व । ए॒न॒म्॒ । ए॒तया॑ । प्या॒य॒य॒ति॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

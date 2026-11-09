@@ -39,7 +39,7 @@ Thou art the bolt of Indra [2] slaying foes;
 
 <details><summary>पद-पाठः</summary>
 
-2B । इन्द्र॑स्य । वज्रः॑ । अ॒सि॒ । वार्त्र॑घ्न॒ इति॒ वार्त्र॑-घ्नः॒ ।
+इन्द्र॑स्य । वज्रः॑ । अ॒सि॒ । वार्त्र॑घ्न॒ इति॒ वार्त्र॑-घ्नः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -106,7 +106,7 @@ By the precept of Mitra and Varuna, the directors, I yoke thee with the yoking o
 
 <details><summary>पद-पाठः</summary>
 
-2B । मि॒त्रावरु॑णयो॒रिति॑ मि॒त्रा-वरु॑णयोः । त्वा॒ । प्र॒शा॒स्त्रोरिति॑ प्र-शा॒स्त्रोः । प्र॒शिषेति॑ प्र-शिषा॑ । यु॒न॒ज्मि॒ । य॒ज्ञस्य॑ । योगे॑न ।
+मि॒त्रावरु॑णयो॒रिति॑ मि॒त्रा-वरु॑णयोः । त्वा॒ । प्र॒शा॒स्त्रोरिति॑ प्र-शा॒स्त्रोः । प्र॒शिषेति॑ प्र-शिषा॑ । यु॒न॒ज्मि॒ । य॒ज्ञस्य॑ । योगे॑न ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -143,7 +143,7 @@ Thou art the stepping of Visnu,
 
 <details><summary>पद-पाठः</summary>
 
-4G । विष्णोः॑ । क्रमः॑ । अ॒सि॒ ।
+विष्णोः॑ । क्रमः॑ । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -225,7 +225,7 @@ On the instigation of the Maruts may I conquer.
 
 <details><summary>पद-पाठः</summary>
 
-4D । म॒रुता॑म् । प्र॒स॒व इति॑ प्र-स॒वे । जे॒ष॒म् ।
+म॒रुता॑म् । प्र॒स॒व इति॑ प्र-स॒वे । जे॒ष॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -253,6 +253,20 @@ Be mind ready.
 आ॒प्तम्मनः॑,
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+आ॒प्तम् । मनः॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+आप्तं सुहृद्भूतं यन्मनस्तदेव त्वमसि । यद्वा - यन्मनसेप्सितं तन्मन उच्यते । मननीयं वा मनः । तत्सर्वं मया आप्तं लब्धमनेन कर्मणा ।
+
+किञ्च - अहमिन्द्रियेण चक्षुरादिना वीर्येण च प्रजननसामर्थ्येनैश्वर्येण वा सङ्गतोस्मि । योग्यं क्रियापदमध्याह्रियते ।
+
+'इन्द्रियमिन्द्रलिङ्गम्' इति निपात्यते ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **समह᳓म्** इन्द्रिये᳓ण वीर्ये᳙ण ।
@@ -270,14 +284,7 @@ May I be united with power and strength.
 
 <details><summary>पद-पाठः</summary>
 
-5E । आ॒प्तम् । मनः॑ । 6F । समिति॑ । अ॒हम् । इ॒न्द्रि॒येण॑ । वी॒र्ये॑ण ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-आप्तं सुहृद्भूतं यन्मनस्तदेव त्वमसि । यद्वा - यन्मनसेप्सितं तन्मन उच्यते । मननीयं वा मनः । तत्सर्वं मया आप्तं लब्धमनेन कर्मणा ।
-
-किञ्च - अहमिन्द्रियेण चक्षुरादिना वीर्येण च प्रजननसामर्थ्येनैश्वर्येण वा सङ्गतोस्मि । योग्यं क्रियापदमध्याह्रियते । 'इन्द्रियमिन्द्रलिङ्गम्' इति निपात्यते ॥
+समिति॑ । अ॒हम् । इ॒न्द्रि॒येण॑ । वी॒र्ये॑ण ।
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -304,7 +311,7 @@ Thou art the spirit of cattle; like them may my spirit be.
 
 <details><summary>पद-पाठः</summary>
 
-7G । प॒शू॒नाम् । म॒न्युः । अ॒सि॒ । तव॑ । इ॒व॒ । मे॒ । म॒न्युः । भू॒या॒त् ।
+प॒शू॒नाम् । म॒न्युः । अ॒सि॒ । तव॑ । इ॒व॒ । मे॒ । म॒न्युः । भू॒या॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -334,7 +341,7 @@ Homage to mother earth;
 
 <details><summary>पद-पाठः</summary>
 
-8 । नमः॑ । मा॒त्रे । पृ॒थि॒व्यै ।
+नमः॑ । मा॒त्रे । पृ॒थि॒व्यै ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -366,7 +373,7 @@ may I not harm mother earth [1]; may mother earth harm me not.
 
 <details><summary>पद-पाठः</summary>
 
-मा । अ॒हम् । मा॒तर॑म् । पृ॒थि॒वीम् । हिँ॒सि॒ष॒म् । मा । 1 । माम् । मा॒ता । पृ॒थि॒वी । हिँ॒सी॒त् ।
+मा । अ॒हम् । मा॒तर॑म् । पृ॒थि॒वीम् । हिँ॒सि॒ष॒म् । मा । माम् । मा॒ता । पृ॒थि॒वी । हिँ॒सी॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -396,7 +403,7 @@ So great art thou, thou art life, bestow life upon me;
 
 <details><summary>पद-पाठः</summary>
 
-2I । इय॑त् । अ॒सि॒ । आयुः॑ । अ॒सि॒ । आयुः॑ । मे॒ । धे॒हि॒ ।
+इय॑त् । अ॒सि॒ । आयुः॑ । अ॒सि॒ । आयुः॑ । मे॒ । धे॒हि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -494,7 +501,7 @@ To Agni, lord of the house, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3K । अ॒ग्नये॑ । गृ॒हप॑तय॒ इति॑ गृ॒ह-प॒त॒ये॒ । स्वाहा॑ ।
+अ॒ग्नये॑ । गृ॒हप॑तय॒ इति॑ गृ॒ह-प॒त॒ये॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -519,6 +526,16 @@ To Soma, lord of the forest, hail!
 सोमा॑य॒ वन॒स्पत॑ये॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नये॑ । गृ॒हप॑तय॒ इति॑ गृ॒ह-प॒त॒ये॒ । स्वाहा॑ । सोमा॑य । वन॒स्पत॑ये । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सोमाय वनानां वनप्रभवानां दारूणां पात्रे ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस्य ब᳓लाय स्वा᳓हा ।
@@ -532,6 +549,16 @@ To Indra's strength hail!
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्य॒ बला॑य॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑स्य । बला॑य । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'इन्द्रस्य वज्रोसि' इत्युक्तं, तदात्मने मरुतामोजसे वेगाय ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -551,12 +578,7 @@ To the Maruts' force hail!
 
 <details><summary>पद-पाठः</summary>
 
-3K । अ॒ग्नये॑ । गृ॒हप॑तय॒ इति॑ गृ॒ह-प॒त॒ये॒ । स्वाहा॑ । सोमा॑य । वन॒स्पत॑ये । स्वाहा॑ । इन्द्र॑स्य । बला॑य । स्वाहा॑ । म॒रुता॑म् । ओज॑से । स्वाहा॑ ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-सोमाय वनानां वनप्रभवानां दारूणां पात्रे । 'इन्द्रस्य वज्रोसि' इत्युक्तं, तदात्मने मरुतामोजसे वेगाय ॥
+म॒रुता॑म् । ओज॑से । स्वाहा॑ ।
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -564,7 +586,7 @@ To the Maruts' force hail!
 18रथवाहने रथमादधाति - हंस इत्यतिजगत्या ॥ 'अतिच्छन्दसा दधाति' इत्यादि ब्राह्मणम् । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 

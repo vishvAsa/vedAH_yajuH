@@ -36,7 +36,7 @@ To Agni Anikavant he offers a cake on eight potsherds as the sun rises,
 
 <details><summary>पद-पाठः</summary>
 
-1A । अ॒ग्नये॑ । अनी॑कवत॒ इत्यनी॑क-व॒ते॒ । पु॒रो॒डाश॑म् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । सा॒कम् । सूर्ये॑ण । उ॒द्य॒तेत्यु॑त्-य॒ता ।
+अ॒ग्नये॑ । अनी॑कवत॒ इत्यनी॑क-व॒ते॒ । पु॒रो॒डाश॑म् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । सा॒कम् । सूर्ये॑ण । उ॒द्य॒तेत्यु॑त्-य॒ता ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -83,7 +83,7 @@ and to the Maruts as lords of the house he milks at evening an oblation of all (
 2अव्युष्टायां रजन्यां पूर्णदर्व्येण चरन्ति, शरनिष्कासस्य दर्वीं पूरयित्वा गार्हपत्ये जुहोति । तत्र पुरोनुवाक्या - पूर्णेत्यनुष्टुप् ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -115,7 +115,7 @@ Let us barter food and strength.
 
 <details><summary>पद-पाठः</summary>
 
-2B । पू॒र्णा । द॒र्वि॒ । परेति॑ । प॒त॒ । सुपू॒र्णेति॒ सु-पू॒र्णा॒ । पुनः॑ । एति॑ । प॒त॒ ॥ व॒स्ना । इ॒व॒ । वीति॑ । क्री॒णा॒व॒है॒ । इष॑म् । ऊर्ज॑म् । श॒त॒क्र॒तो॒ इति॑ शत-क्र॒तो॒ ॥
+पू॒र्णा । द॒र्वि॒ । परेति॑ । प॒त॒ । सुपू॒र्णेति॒ सु-पू॒र्णा॒ । पुनः॑ । एति॑ । प॒त॒ ॥ व॒स्ना । इ॒व॒ । वीति॑ । क्री॒णा॒व॒है॒ । इष॑म् । ऊर्ज॑म् । श॒त॒क्र॒तो॒ इति॑ शत-क्र॒तो॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -133,7 +133,7 @@ Let us barter food and strength.
 3अथ याज्या - देहीत्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -165,7 +165,7 @@ I shall accept thy offering [1].
 
 <details><summary>पद-पाठः</summary>
 
-3C । दे॒हि । मे॒ । ददा॑मि । ते॒ । नीति॑ । मे॒ । धे॒हि॒ । नीति॑ । ते॒ । द॒धे॒ ॥ नि॒हार॒मिति॑ नि-हार॑म् । इत् । नीति॑ । मे॒ । ह॒र॒ । नि॒हार॒मिति॑ नि-हार॑म् ।
+दे॒हि । मे॒ । ददा॑मि । ते॒ । नीति॑ । मे॒ । धे॒हि॒ । नीति॑ । ते॒ । द॒धे॒ ॥ नि॒हार॒मिति॑ नि-हार॑म् । इत् । नीति॑ । मे॒ । ह॒र॒ । नि॒हार॒मिति॑ नि-हार॑म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -200,7 +200,7 @@ To the Maruts, the playful, he offers a cake on seven potsherds at the rising of
 
 <details><summary>पद-पाठः</summary>
 
-2D । म॒रुद्भ्य॒ इति॑ म॒रुत्-भ्यः॒ । क्री॒डिभ्य॒ इति॑ क्री॒डि-भ्यः॒ । पु॒रो॒डाश॑म् । स॒प्तक॑पाल॒मिति॑ स॒प्त-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । सा॒कम् । सूर्ये॑ण । उ॒द्य॒तेत्यु॑त्-य॒ता ।
+म॒रुद्भ्य॒ इति॑ म॒रुत्-भ्यः॒ । क्री॒डिभ्य॒ इति॑ क्री॒डि-भ्यः॒ । पु॒रो॒डाश॑म् । स॒प्तक॑पाल॒मिति॑ स॒प्त-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । सा॒कम् । सूर्ये॑ण । उ॒द्य॒तेत्यु॑त्-य॒ता ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

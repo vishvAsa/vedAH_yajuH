@@ -32,7 +32,7 @@ To Agni, lord of the house, he offers a cake of black rice on eight potsherds;
 
 <details><summary>पद-पाठः</summary>
 
-1A । अ॒ग्नये॑ । गृ॒हप॑तय॒ इति॑ गृ॒ह-प॒त॒ये॒ । पु॒रो॒डाश॑म् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । कृ॒ष्णाना॑म् ।
+अ॒ग्नये॑ । गृ॒हप॑तय॒ इति॑ गृ॒ह-प॒त॒ये॒ । पु॒रो॒डाश॑म् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । कृ॒ष्णाना॑म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -261,7 +261,7 @@ Varuna of lords of right.
 
 <details><summary>पद-पाठः</summary>
 
-2B । स॒वि॒ता । त्वा॒ । प्र॒स॒वाना॒मिति॑ प्र-स॒वाना॑म् । सु॒व॒ता॒म् । अ॒ग्निः । गृ॒हप॑तीना॒मिति॑ गृ॒ह-प॒ती॒ना॒म् । सोमः॑ । वन॒स्पती॑नाम् । रु॒द्रः । प॒शू॒नाम् । 1 । बृह॒स्पतिः॑ । वा॒चाम् । इन्द्रः॑ । ज्ये॒ष्ठाना॑म् । मि॒त्रः । स॒त्याना॑म् । वरु॑णः । धर्म॑पतीना॒मिति॒ धर्म॑-प॒ती॒ना॒म् ।
+स॒वि॒ता । त्वा॒ । प्र॒स॒वाना॒मिति॑ प्र-स॒वाना॑म् । सु॒व॒ता॒म् । अ॒ग्निः । गृ॒हप॑तीना॒मिति॑ गृ॒ह-प॒ती॒ना॒म् । सोमः॑ । वन॒स्पती॑नाम् । रु॒द्रः । प॒शू॒नाम् । बृह॒स्पतिः॑ । वा॒चाम् । इन्द्रः॑ । ज्ये॒ष्ठाना॑म् । मि॒त्रः । स॒त्याना॑म् । वरु॑णः । धर्म॑पतीना॒मिति॒ धर्म॑-प॒ती॒ना॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -292,7 +292,7 @@ do ye instigate him, descendant of N. N., to freedom from foes,
 
 <details><summary>पद-पाठः</summary>
 
-2C । ये । दे॒वाः॒ । दे॒व॒सुव॒ इति॑ देव-सुवः॑ । स्थ । ते । इ॒मम् । आ॒मु॒ष्या॒य॒णम् । अ॒न॒मि॒त्राय॑ । सु॒व॒ध्व॒म् । म॒ह॒ते । क्ष॒त्राय॑ । म॒ह॒ते । आधि॑पत्या॒येत्याधि॑-प॒त्या॒य॒ । म॒ह॒ते । जान॑राज्या॒येति॒ जान॑-रा॒ज्या॒य॒ ।
+ये । दे॒वाः॒ । दे॒व॒सुव॒ इति॑ देव-सुवः॑ । स्थ । ते । इ॒मम् । आ॒मु॒ष्या॒य॒णम् । अ॒न॒मि॒त्राय॑ । सु॒व॒ध्व॒म् । म॒ह॒ते । क्ष॒त्राय॑ । म॒ह॒ते । आधि॑पत्या॒येत्याधि॑-प॒त्या॒य॒ । म॒ह॒ते । जान॑राज्या॒येति॒ जान॑-रा॒ज्या॒य॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -356,7 +356,7 @@ This is your king, O Bharatas;
 
 <details><summary>पद-पाठः</summary>
 
-3D । ए॒षः । वः॒ । भ॒र॒ताः॒ । राजा॑ ।
+ए॒षः । वः॒ । भ॒र॒ताः॒ । राजा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -406,7 +406,7 @@ Soma is the king of us Brahmans.
 प्रति॒ त्यन्नाम॑ रा॒ज्यम॑धायि॒ स्वान्त॒नुवव्ँ॒वरु॑णो अशिश्रे॒च्छुचे॑र्मि॒त्रस्य॒ व्रत्या॑ अभू॒माम॑न्महि मह॒त ऋ॒तस्य॒ नाम॒ सर्वे॒ व्राता॒ वरु॑णस्याभूव॒न्वि मि॒त्र एवै॒ररा॑तिमतारी॒दसू॑षुदन्त य॒ज्ञिया॑ ऋ॒तेन॒ व्यु॑ त्रि॒तो ज॑रि॒माण॑न्न आनड् 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -438,7 +438,7 @@ We have magnified the name of the great holy order.
 
 <details><summary>पद-पाठः</summary>
 
-4E । प्रतीति॑ । त्यत् । नाम॑ । रा॒ज्यम् । अ॒धा॒यि॒ । स्वम् । त॒नुव॑म् । वरु॑णः । अ॒शि॒श्रे॒त् । शुचेः॑ । मि॒त्रस्य॑ । व्रत्याः॑ । अ॒भू॒म॒ । अम॑न्महि । म॒ह॒तः । ऋ॒तस्य॑ । नाम॑ ।
+प्रतीति॑ । त्यत् । नाम॑ । रा॒ज्यम् । अ॒धा॒यि॒ । स्वम् । त॒नुव॑म् । वरु॑णः । अ॒शि॒श्रे॒त् । शुचेः॑ । मि॒त्रस्य॑ । व्रत्याः॑ । अ॒भू॒म॒ । अम॑न्महि । म॒ह॒तः । ऋ॒तस्य॑ । नाम॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -450,7 +450,7 @@ We have magnified the name of the great holy order.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -482,7 +482,7 @@ Trita hath taken possession of our old age.
 
 <details><summary>पद-पाठः</summary>
 
-5F । सर्वे॑ । व्राताः॑ । वरु॑णस्य । अ॒भू॒व॒न् । वीति॑ । मि॒त्रः । एवैः॑ । अरा॑तिम् । अ॒ता॒री॒त् । असू॑षुदन्त । य॒ज्ञियाः॑ । ऋ॒तेन॑ । वीति॑ । उ॒ । त्रि॒तः । ज॒रि॒माण॑म् । नः॒ । आ॒न॒ट् ।
+सर्वे॑ । व्राताः॑ । वरु॑णस्य । अ॒भू॒व॒न् । वीति॑ । मि॒त्रः । एवैः॑ । अरा॑तिम् । अ॒ता॒री॒त् । असू॑षुदन्त । य॒ज्ञियाः॑ । ऋ॒तेन॑ । वीति॑ । उ॒ । त्रि॒तः । ज॒रि॒माण॑म् । नः॒ । आ॒न॒ट् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -525,7 +525,7 @@ Thou art the stepping of Visnu,
 
 <details><summary>पद-पाठः</summary>
 
-4G । विष्णोः॑ । क्रमः॑ । अ॒सि॒ ।
+विष्णोः॑ । क्रमः॑ । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -552,7 +552,7 @@ The path that leadeth to the gods, along it may the sacrifice go to the gods.
 तस्मिन्प्रदेशे गत्वा सभायामुपविष्टा देवा येन मार्गेण हविर्भोजनशालां गच्छन्ति तेनैव मार्गेणायं यज्ञो यज्ञसंबद्धहविर्देवानप्येतु प्राप्नोतु। 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -645,7 +645,7 @@ _______
 5-6 अवान्तरेडां प्राश्यमानाम् अनुमन्त्रयते
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -780,14 +780,14 @@ _______
 प्र॒जाप॑तेर्भा॒गो॑ऽस्यूर्ज॑स्वा॒न्पय॑स्वान् प्राणापा॒नौ मे॑ पाहि 
 </details>
 
-<details><summary>Keith</summary>
-
-Thou art the portion of Prajapati, 
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतेर् भागो᳙ ऽसि ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the portion of Prajapati.
 </details>
 
 <details><summary>मूलम्</summary>

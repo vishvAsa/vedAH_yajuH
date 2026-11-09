@@ -10,7 +10,7 @@ _______
 1अथ प्राजापत्यमेव काण्डं याजमानम् । तत्राज्यसान्नाय्ययोस् स्कन्नस्य स्वधां सम्भरति - सं त्वेत्यनुष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -712,11 +712,6 @@ For the people, for a prop, a support I take thee.
 सुवी᳓र्याय त्वा गृह्णामि ।
 </details>
 
-<details><summary>पद-पाठः</summary>
-
-सु॒वीर्या॒येति॑ सु-वीर्या॑य । त्वा॒ । गृ॒ह्णा॒मि॒ । 
-</details>
-
 <details><summary>Keith</summary>
 
 For excellence of strength I take thee.
@@ -725,6 +720,11 @@ For excellence of strength I take thee.
 <details><summary>मूलम्</summary>
 
 सु॒वीर्या॑य त्वा गृह्णामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒वीर्या॒येति॑ सु-वीर्या॑य । त्वा॒ । गृ॒ह्णा॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

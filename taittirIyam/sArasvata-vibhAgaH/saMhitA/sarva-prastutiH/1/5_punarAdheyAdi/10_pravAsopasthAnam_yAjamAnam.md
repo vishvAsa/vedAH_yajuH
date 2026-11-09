@@ -22,7 +22,7 @@ _______
 1अग्निभ्यः प्रवत्स्यन्नाहवनीयमुपतिष्ठते - मम नामेति त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/02_mama_nAma.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/02_mama_nAma.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -88,7 +88,7 @@ _______
 2आगत्य प्रवासात्पुनस्तमुपतिष्ठते - मम नाम तव चेति । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/07_mama_nAma.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/07_mama_nAma.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -148,7 +148,7 @@ _______
 3गार्हपत्यमुपतिष्ठते - नमोग्नय इति त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/12_namo.agnaye.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/12_namo.agnaye.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -206,7 +206,7 @@ _______
 4अन्वाहार्यपचनम् उपतिष्ठते - त्वत्पितार इति ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/17_tvatpitAro_agne.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/17_tvatpitAro_agne.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -266,7 +266,7 @@ _______
 5आहवनीयमुपतिष्ठते - अयमित्यनुष्टुभा+++(??)+++ ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/22_ayam_agnish.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/22_ayam_agnish.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -330,7 +330,7 @@ _______
 6विच्छिन्ननिमित्तो होमः - मनो ज्योतिरिति । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/27_mano_jyotir.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/27_mano_jyotir.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -415,7 +415,7 @@ _______
 7अतः परम् इष्टि-याजमान-काण्डं प्राजापत्यम् । तत्राप आचामति - पयस्वतीरित्यनुष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/32_payasvatIr_oShadhayaH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/32_payasvatIr_oShadhayaH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -494,11 +494,11 @@ O Agni, lord of vows, I shall perform this vow;
 <details><summary>मूलम्</summary>
 
 अग्ने॑ व्रतपते व्र॒तञ्च॑रिष्यामि ।  
+</details>
 
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । व्र॒त॒प॒त॒ इति॑ व्रत-प॒ते॒ । व्र॒तम् । च॒रि॒ष्या॒मि॒ ।   
-</details>
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -574,7 +574,7 @@ _______
 9हविर्निरुप्यमाणमभिमन्त्रयते - अग्निं होतारमिति । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/51_agniM_hotAram.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/51_agniM_hotAram.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -649,6 +649,24 @@ Who yoketh thee?
 कस्त्वा॑ युनक्ति॒
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+कः । त्वा॒ । यु॒न॒क्ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+**कः** प्रजापतिरेव हि त्वां युनक्ति योक्तुमर्हति, तस्मात्स त्वां युनक्तु हे यज्ञ युक्तात्मानं त्वां करोतु ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+कस्त्वेति।
+
+कल्पः — “अथ यज्ञं युनक्ति कस्त्वा युनक्ति स त्वा युनक्त्विति सर्वं विहारमनुवीक्षते” इति।  
+हे यज्ञ कः प्रजापतिः सर्वत्र त्वां युनक्ति योग्यं करोति। तस्मादत्रापि स एव त्वां युनक्तु।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ त्वा युनक्तु ।
@@ -666,18 +684,7 @@ Let him yoke thee.
 
 <details><summary>पद-पाठः</summary>
 
-कः । त्वा॒ । यु॒न॒क्ति॒ । सः । त्वा॒ । यु॒न॒क्तु॒ । 
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-**कः** प्रजापतिरेव हि त्वां युनक्ति योक्तुमर्हति, तस्मात्स त्वां युनक्तु हे यज्ञ युक्तात्मानं त्वां करोतु ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-कस्त्वेति। कल्पः — “अथ यज्ञं युनक्ति कस्त्वा युनक्ति स त्वा युनक्त्विति सर्वं विहारमनुवीक्षते” इति।  
-हे यज्ञ कः प्रजापतिः सर्वत्र त्वां युनक्ति योग्यं करोति। तस्मादत्रापि स एव त्वां युनक्तु।  
+सः । त्वा॒ । यु॒न॒क्तु॒ ।
 </details>
 
 _______
@@ -686,7 +693,7 @@ _______
 11कपालानि विमुञ्चति - यानि घर्म इत्यनुष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -758,7 +765,7 @@ _______
 12भिन्नं कपालम् उत्कर उदस्यति - अभिन्न इति । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/68_abhinno_gharmo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/68_abhinno_gharmo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -815,7 +822,7 @@ _______
 13आहवनीये सम्मीननीं जुहोति - इध्मो वेदिरित्युत्तरेणार्धर्चेन त्रयस्त्रिंशदिति त्रिष्टुभा च ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/73_idhmo_vedipH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/73_idhmo_vedipH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -840,11 +847,6 @@ Attend the life of the sacrifice.
 इ॒ध्मो वेदिᳶ॑ परि॒धय॑श्च॒ सर्वे॑ य॒ज्ञस्याऽऽयु॒रनु॒ सञ्च॑रन्ति  ॥
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-इ॒ध्मः । वेदिः॑ । प॒रि॒धय॒ इति॑ परि-धयः॑ । च॒ । सर्वे॑ । य॒ज्ञस्य॑ । आयुः॑ । अनु॑ । समिति॑ । च॒र॒न्ति॒ ॥ 
-</details>
-
 <details><summary>पद-पाठः</summary>
 
 इ॒ध्मः । वेदिः॑ । प॒रि॒धय॒ इति॑ परि-धयः॑ । च॒ । सर्वे॑ । य॒ज्ञस्य॑ । आयुः॑ । अनु॑ । समिति॑ । च॒र॒न्ति॒ ॥ 
@@ -863,7 +865,7 @@ Attend the life of the sacrifice.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/77_trayastriMshat_tantavo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/77_trayastriMshat_tantavo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 

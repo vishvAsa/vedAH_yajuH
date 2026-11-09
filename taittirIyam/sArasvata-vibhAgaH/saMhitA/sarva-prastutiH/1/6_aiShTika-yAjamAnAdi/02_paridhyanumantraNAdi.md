@@ -229,7 +229,7 @@ _______
 6हवींष्यासन्नान्य् अभिमन्त्रयते - यन्मे अग्न इति त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/02_yan_me.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/02_yan_me.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -326,7 +326,7 @@ _______
 10इध्मम् अभ्याधीयमानम् अनुमन्त्रयते - उच्छुष्म इति पिपीलिकामध्यया त्रिपदया यजुरन्तयानुष्टुभा । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -595,11 +595,6 @@ _______
 ग्री॒ष्ममृ॑तू॒नाम्प्री॑णामि॒ स मा॑ प्री॒तᳶ प्री॑णातु 
 </details>
 
-<details><summary>पद-पाठः</summary>
-
-ग्री॒ष्मम् । ऋ॒तू॒नाम् । प्री॒णा॒मि॒ । सः । मा॒ । प्री॒तः । प्री॒णा॒तु॒ । 
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग्रीष्म᳓म् ऋतूना᳓म् प्रीणामि ।  
@@ -616,6 +611,11 @@ delighted may it delight me.
 
 ग्री॒ष्ममृ॑तू॒नाम्प्री॑णामि ।  
 स मा॑ प्री॒तᳶ प्री॑णातु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ग्री॒ष्मम् । ऋ॒तू॒नाम् । प्री॒णा॒मि॒ । सः । मा॒ । प्री॒तः । प्री॒णा॒तु॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -25,6 +25,11 @@ He who desires cattle should sacrifice with the Śitra (offering);
 चि॒त्रया॑ यजेत प॒शुका॑मः ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+चि॒त्रया॑ । य॒जे॒त॒ । प॒शुका॑म॒ इति॑ प॒शु-का॒मः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1चित्रया यजेतेत्यादि ॥ चित्रापूर्णमासे चित्रां निर्वपेत् ।
@@ -45,6 +50,16 @@ He who desires cattle should sacrifice with the Śitra (offering);
 इ॒यव्ँ वै चि॒त्रा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इ॒यम् । वै । चि॒त्रा ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इयं वा इति । विश्वं भूतजनाधिकरणतया चयनीयत्वादिष्टिपृथिव्योरभेदोपचारः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्वा᳓ अस्याव्ँ᳓वि᳓श्वम्भूत᳓म᳓धि प्रजा᳓यते ते᳓नेय᳓ञ्चित्रा᳓ ।
@@ -60,9 +75,14 @@ in that in this (earth) all things are produced, thereby is this (earth) variega
 यद्वा अ॒स्याव्ँविश्व॑म्भू॒तमधि॑ प्र॒जाय॑ते॒ तेने॒यञ्चि॒त्रा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । वै । अ॒स्याम् । विश्व॑म् । भू॒तम् । अधीति॑ । प्र॒जाय॑त॒ इति॑ प्र-जाय॑ते । तेन॑ । इ॒यम् । चि॒त्रा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-इयं वा इति । विश्वं भूतजनाधिकरणतया चयनीयत्वादिष्टिपृथिव्योरभेदोपचारः ।
+य एवमित्यादि । गतम् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -82,9 +102,9 @@ he who knowing thus sacrifices with the Śitra desirous of cattle is propagated 
 प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-य एवमित्यादि । गतम् ॥
+यः । ए॒वम् । वि॒द्वान् । चि॒त्रया॑ । प॒शुका॑म॒ इति॑ प॒शु-का॒मः॒ । यज॑ते । प्रेति॑ । प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ । मि॒थु॒नैः । जा॒य॒ते॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -111,6 +131,17 @@ With the offering to Agni he strews, with that to Soma he impregnates seed, the 
 रेत॑ ए॒व हि॒तन्त्वष्टा॑ रू॒पाणि॒ वि क॑रोति ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । ए॒व । आ॒ग्ने॒येन॑ । वा॒प॒य॒ति॒ । रेतः॑ । सौ॒म्येन॑ । द॒धा॒ति॒ । रेतः॑ । ए॒व । हि॒तम् । त्वष्टा॑ । रू॒पाणि॑ । वीति॑ । क॒रो॒ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2आग्नेयोष्टाकपालः, सौम्यश्चरुः, त्वाष्ट्रोष्टाकपालः, सरस्वत्यै चरुः, सरस्वते चरुः, सिनीवाल्यै चरुः, ऐन्द्र एकादशकपालः, सप्तैतानि हवींषि भवन्ति - प्रैवेति ॥   
+आग्नेयेन प्रवापयति प्रजनने रेतस्सिञ्चति सेचयति पुम्भिः स्त्रीषु, तत्सिक्तं सौम्येन दधाति धारयति । तत्र हितं धारितं त्वष्टा रूपाणि विकरोति विविधेन रूपेण परिणतं करोति त्वाष्ट्रेण ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारस्वतौ᳓ भवतः ।
@@ -124,6 +155,16 @@ there are (offerings) to Sarasvant and Sarasvati;
 <details><summary>मूलम्</summary>
 
 सा॒र॒स्व॒तौ भ॑वतः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सा॒र॒स्व॒तौ । भ॒व॒तः॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सारस्वताभ्यां दैव्यं मिथुनं, सरस्वत्सरस्वतीतिसंबन्धाभ्यां दैव्यं मिथुनं गर्भस्थस्य जन्तोः पुष्ट्यर्थं काले प्रजननार्थं च मध्यतः अन्तर्दधाति स्थापयति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -141,6 +182,18 @@ that is the divine pair;
 ए॒तद्वै दैव्य॑म्मिथु॒नन्दैव्य॑मे॒वा॒स्मै॒ मि॒थु॒नम्म॑ध्य॒तो द॑धाति ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ए॒तत् । वै । दैव्य॑म् । मि॒थु॒नम् । दैव्य॑म् । ए॒व । अ॒स्मै॒ । मि॒थु॒नम् । म॒ध्य॒तः । द॒धा॒ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ततो वाक्प्रवृत्तिहेतुभूतायास्सिनीवाल्या चरुणा वाचश्च पुष्टिविशेषत्वात् पुष्टिं वाचं च प्राप्नोति गर्भस्थो जीवः । उत्तमस्यैन्द्रस्य भावात् । सिनीवाल्या हि तदपरं मिथुनं अन्ते भवति ।
+
+ततस्तदपि पुष्ट्यै पजननाय च संपद्यते इति भावः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓ष्ट्यै प्रज᳓ननाय सिनीवाल्यै᳓ चरु᳓र्भवति ।
@@ -156,6 +209,11 @@ verily in the midst he bestows upon him a divine [1] pair, for growth, for propa
 पुष्ट्यै॑ प्र॒जन॑नाय सिनीवा॒ल्यै च॒रुर्भ॑वति ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पुष्ट्यै॑ । प्र॒जन॑ना॒येति॑ प्र-जन॑नाय । सि॒नी॒वा॒ल्यै । च॒रुः । भ॒व॒ति॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓ग्वै᳓ सिनीवाली᳓ ।
@@ -169,6 +227,11 @@ There is an oblation to Sinivali;
 <details><summary>मूलम्</summary>
 
 वाग्वै सि॑नीवा॒ली ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वाक् । वै । सि॒नी॒वा॒ली ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +251,11 @@ Sinivali is speech, speech is growth;
 पुष्टि॑मे॒व वाच॒मुपै॑ति ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पुष्टिः॑ । खलु॑ । वै । वाक् । पुष्टि॑म् । ए॒व । वाच॑म् । उपेति॑ । ए॒ति॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्र᳓ उत्तमो᳓ भवति ।
@@ -203,10 +271,9 @@ verily he approaches speech and growth.
 ऐ॒न्द्र उ॑त्त॒मो भ॑वति ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-2आग्नेयोष्टाकपालः, सौम्यश्चरुः, त्वाष्ट्रोष्टाकपालः, सरस्वत्यै चरुः, सरस्वते चरुः, सिनीवाल्यै चरुः, ऐन्द्र एकादशकपालः, सप्तैतानि हवींषि भवन्ति - प्रैवेति ॥   
-आग्नेयेन प्रवापयति प्रजनने रेतस्सिञ्चति सेचयति पुम्भिः स्त्रीषु, तत्सिक्तं सौम्येन दधाति धारयति । तत्र हितं धारितं त्वष्टा रूपाणि विकरोति विविधेन रूपेण परिणतं करोति त्वाष्ट्रेण । सारस्वताभ्यां दैव्यं मिथुनं, सरस्वत्सरस्वतीतिसंबन्धाभ्यां दैव्यं मिथुनं गर्भस्थस्य जन्तोः पुष्ट्यर्थं काले प्रजननार्थं च मध्यतः अन्तर्दधाति स्थापयति ।
+ऐ॒न्द्रः । उ॒त्त॒म इत्यु॑त्-त॒मः । भ॒व॒ति॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -224,9 +291,9 @@ The last is to Indra, and thereby there is a pair. Seven are these offerings,
 तेनै॒व तन्मि॑थु॒नँ स॒प्तैतानि॑ ह॒वीँषि॑ भवन्ति ।  
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-ततो वाक्प्रवृत्तिहेतुभूतायास्सिनीवाल्या चरुणा वाचश्च पुष्टिविशेषत्वात् पुष्टिं वाचं च प्राप्नोति गर्भस्थो जीवः । उत्तमस्यैन्द्रस्य भावात् । सिनीवाल्या हि तदपरं मिथुनं अन्ते भवति । ततस्तदपि पुष्ट्यै पजननाय च संपद्यते इति भावः ।
+तेन॑ । ए॒व । तत् । मि॒थु॒नम् । स॒प्त । ए॒तानि॑ । ह॒वीँषि॑ । भ॒व॒न्ति॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,6 +309,11 @@ the tame animals are seven, the wild seven; the metres are seven, for the winnin
 <details><summary>मूलम्</summary>
 
 स॒प्त ग्रा॒म्याᳶ प॒शव॑स्स॒प्तार॒ण्यास्स॒प्त छन्दाँ॑स्यु॒भय॒स्याव॑रुद्ध्यै ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒प्त । ग्रा॒म्याः । प॒शवः॑ । स॒प्त । आ॒र॒ण्याः । स॒प्त । छन्दाँ॑सि । उ॒भय॑स्य । अव॑रुद्ध्या॒ इत्यव॑-रु॒द्ध्यै॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -269,6 +341,11 @@ Then he offers these oblations;
 अथै॒ता आहु॑तीर्जुहोति ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अथ॑ । ए॒ताः । आहु॑ती॒रित्या-हु॒तीः॒ । जु॒हो॒ति॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अथैता इति ॥ प्रधानयागादनन्तरं पुरस्तात्स्विष्टकृतः 'अग्ने गोभिर्न आ गहि' इत्याद्यास्सप्ताहुतीर्जुहोति ।
@@ -289,6 +366,16 @@ these gods are the lords of growth;
 ए॒ते वै दे॒वाᳶ पुष्टि॑पतय॒स्त ए॒वास्मि॒न्पुष्टि॑न्दधति ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ए॒ते । वै । दे॒वाः । पुष्टि॑पतय॒ इति॒ पुष्टि॑-प॒त॒यः॒ । ते । ए॒व । अ॒स्मि॒न् । पुष्टि॑म् । द॒ध॒ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+एते वा इति । अग्न्यादयः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓ष्यति प्रज᳓या पशु᳓भिः ।
@@ -304,9 +391,9 @@ verily they bestow growth upon him, he grows with offspring and cattle;
 पुष्य॑ति प्र॒जया॑ प॒शुभिः॑ ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-एते वा इति । अग्न्यादयः ।
+पुष्य॑ति । प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,6 +409,11 @@ moreover in that he offers these oblations, (they serve) for support.
 <details><summary>मूलम्</summary>
 
 अथो॒ यदे॒ता आहु॑तीर्जु॒होति॒ प्रति॑ष्ठित्यै ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अथो॒ इति॑ । यत् । ए॒ताः । आहु॑ती॒रित्या-हु॒तीः॒ । जु॒होति॑ । प्रति॑ष्ठित्या॒ इति॒ प्रति॑-स्थि॒त्यै॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

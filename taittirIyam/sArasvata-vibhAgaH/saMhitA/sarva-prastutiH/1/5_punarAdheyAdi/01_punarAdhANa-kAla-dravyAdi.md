@@ -38,6 +38,11 @@ The gods and the Asuras were in conflict;
 दे॒वा॒सु॒रास्सय्ँय॑त्ता आसन् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+दे॒वा॒सु॒रा इति॑ देव-अ॒सु॒राः । सय्यँ॑त्ता॒ इति॒ सम्-य॒त्ताः॒ । आ॒स॒न् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1देवाश्चासुराश्च संयत्ताः सङ्ग्रामार्थमुद्युक्ताः आसन् अभवन् । यती प्रयत्ने, 'श्वीदितो निष्ठायाम्' इतीट्प्रतिषेधः, सम्यग्यत्ता इति कर्तरि निष्ठा, तेन प्रादिसमासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् ।
@@ -59,6 +64,11 @@ the gods, in anticipation of the contest, deposited in Agni their desirable rich
 
 ते दे॒वा वि॑ज॒यमु॑प॒यन्तो॒ऽग्नौ वा॒मव्ँवसु॒ सन्न्य॑दधत -  
 इ॒दमु॑ नो भविष्यति॒ यदि॑ नो जे॒ष्यन्तीति॑  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । दे॒वाः । वि॒ज॒यमिति॑ वि-ज॒यम् । उ॒प॒यन्त॒ इत्यु॑प-यन्तः॑ । अ॒ग्नौ । वा॒मम् । वसु॑ । सम् । नीति॑ । अ॒द॒ध॒त॒ । इ॒दम् । उ॒ । नः॒ । भ॒वि॒ष्य॒ति॒ । यदि॑ । नः॒ । जे॒ष्यन्ति॑ । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -83,6 +93,11 @@ the gods, in anticipation of the contest, deposited in Agni their desirable rich
 तद॒ग्निर्न्य॑कामयत ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तत् । अ॒ग्निः । नीति॑ । अ॒का॒म॒य॒त॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तद्देवैरात्मनि निहितं वस्वग्निर्न्यकामयत आत्मसात्कर्तुमैच्छत् ।   
@@ -101,6 +116,11 @@ and went away with it.
 <details><summary>मूलम्</summary>
 
 तेनापा॑क्रामत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तेन॑ । अपेति॑ । अ॒क्रा॒म॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -128,6 +148,11 @@ The gods having defeated (the Asuras) pursued (Agni) desirous of recovering it.
 तद्दे॒वा वि॒जित्या॑व॒रुरु॑त्समाना॒ अन्वा॑यन् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तत् । दे॒वाः । वि॒जित्येति॑ वि-जित्य॑ । अ॒व॒रुरु॑त्समाना॒ इत्य॑व-रुरु॑त्समानाः । अन्विति॑ । आ॒य॒न् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथ देवा असुरान्विजित्य तद्वामं वस्ववरुरुत्समानाः आत्मसात्कर्तुमिच्छन्तः अग्निमन्वायन् अन्वगच्छन् ।
@@ -143,6 +168,11 @@ The gods having defeated (the Asuras) pursued (Agni) desirous of recovering it.
 <details><summary>मूलम्</summary>
 
 तद॑स्य॒ सह॒साऽऽदि॑त्सन्त ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तत् । अ॒स्य॒ । सह॑सा । एति॑ । अ॒दि॒त्स॒न्त॒ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -168,6 +198,11 @@ He wept; in that he wept (arodit), that is why Rudra has his name.
 <details><summary>मूलम्</summary>
 
 सो॑ऽरोदी॒द् - यदरो॑दी॒त्तद्रु॒द्रस्य॑ रुद्र॒त्वम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । अ॒रो॒दी॒त् । यत् । अरो॑दीत् । तत् । रु॒द्रस्य॑ । रु॒द्र॒त्वमिति॑ रुद्र-त्वम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -197,6 +232,11 @@ The tear that [1] was shed became silver;
 यदश्र्वशी॑यत॒ तद्  रज॒तँ हिर॑ण्यमभवत् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । अश्रु॑ । अशी॑यत । तत् । र॒ज॒तम् । हिर॑ण्यम् । अ॒भ॒व॒त् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्य रुदतो यदश्रु नेत्रजलमशीयत न्यपतत् रजतं रूप्यं हिरण्यमभवत्, हितरमणीयं वा । यद्वा - रूप्यस्वर्णयोर्हिरण्यामिति वर्तते (भवति) ।
@@ -215,6 +255,11 @@ therefore silver is not a suitable gift, for it is born of tears.
 <details><summary>मूलम्</summary>
 
 तस्मा॑द्रज॒तँ हिर॑ण्यमदक्षि॒ण्यम॑श्रु॒जँ  हि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्मा॑त् । र॒ज॒तम् । हिर॑ण्यम् । अ॒द॒क्षि॒ण्यम् । अ॒श्रु॒जमित्य॑श्रु-जम् । हि ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -244,6 +289,11 @@ He who gives on the strew, in his house before the year is out they weep;
 यो ब॒र्हिषि॒ ददा॑ति पु॒राऽस्य॑ सव्ँवत्स॒राद्गृ॒हे रु॑दन्ति ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यः । ब॒र्हिषि॑ । ददा॑ति । पु॒रा । अ॒स्य॒ । सव्ँ॒व॒त्स॒रादिति॑ सम्-व॒त्स॒रात् । गृ॒हे । रु॒द॒न्ति॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मात्, बर्हिषि यज्ञे यो रजतं ददाति अस्य गृहे पुरा संवत्सरात् संवत्सरसमाप्तेः रुदन्ति रोदननिमित्तान्युत्पत्स्यन्ते । 'यावत्पुरानिपातयोर्लट्' । यद्वा - 'सप्तमीपञ्चम्यौ कारकमध्ये' इति पञ्चमी ।
@@ -262,6 +312,11 @@ therefore one should not give on the strew.
 <details><summary>मूलम्</summary>
 
 तस्मा॑द्ब॒र्हिषि॒ न देयम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्मा॑त् । ब॒र्हिषि॑ । न । देय॑म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -291,6 +346,11 @@ Agni said, 'Let me have a share; then this will be yours.'
 सो॒॑ऽग्निर॑ब्रवीत् - भा॒ग्य॑सानि॒, अथ॑ व इ॒दमिति॑  ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सः । अ॒ग्निः । अ॒ब्र॒वी॒त् । भा॒गी । अ॒सा॒नि॒ । अथ॑ । वः॒ । इ॒दम् । इति॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2अथ सः कृतरोदनोग्निः तद्वस्वप्रयच्छन्नेवाब्रवीत् ।  
@@ -312,6 +372,11 @@ They replied, 'The re-establishing shall be thine alone.'
 <details><summary>मूलम्</summary>
 
 पु॒न॒रा॒धेय॑न् ते॒ केव॑ल॒मित्य॑ब्रुवन् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पु॒न॒रा॒धेय॒मिति॑ पुनः-आ॒धेय॑म् । ते॒ । केव॑लम् । इति॑ । अ॒ब्रु॒व॒न् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -337,6 +402,11 @@ They replied, 'The re-establishing shall be thine alone.'
 <details><summary>मूलम्</summary>
 
 ऋ॒ध्नव॒त्खलु॒ स - इत्य् अ॑ब्रवी॒द् - यो म॑द्देव॒त्य॑म॒ग्निमा॒दधा॑ता॒ इति
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒ध्नव॑त् । खलु॑ । सः । इति॑ । अ॒ब्र॒वी॒त् । यः । म॒द्दे॒व॒त्य॑मिति॑ मत्-दे॒व॒त्य॑म् । अ॒ग्निम् । आ॒दधा॑ता॒ इत्या॑-दधा॑तै । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -372,6 +442,16 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 तस्मा॑त्पौ॒ष्णाᳶ प॒शव॑ उच्यन्ते।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तम् । पू॒षा । एति॑ । अ॒ध॒त्त॒ । तेन॑ । पू॒षा । आ॒र्ध्नो॒त् । तस्मा॑त् । पौ॒ष्णाः । प॒शवः॑ । उ॒च्य॒न्ते॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अनन्तरं च ऋद्धिकामाः पूषादयः तादृशेन पुनराधेयेन ऋद्धिं प्राप्ता इति दर्शयति - पूषेत्यादि । गतम् । पूष्णः स्वभूताः पौष्णाः पशवः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न्त्व᳓ष्टा᳓ऽऽधत्त ।  
@@ -389,6 +469,11 @@ Tvastr established it; therefore did Tvastr prosper; therefore cattle are said t
 तन्त्वष्टाऽऽध॑त्त ।  
 तेन॒ त्वष्टा॑ऽऽर्ध्नोत् ।  
 तस्मा॑त्त्वा॒ष्ट्राᳶ प॒शव॑ उच्यन्ते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । त्वष्टा॑ । एति॑ । अ॒ध॒त्त॒ । तेन॑ । त्वष्टा॑ । आ॒र्ध्नो॒त् । तस्मा॑त् । त्वा॒ष्ट्राः । प॒शवः॑ । उ॒च्य॒न्ते॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -410,9 +495,9 @@ Manu established it; therefore did Manu prosper; therefore offspring are said to
 तस्मा॑न्मान॒व्यᳶ॑ प्र॒जा उ॑च्यन्ते ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-अनन्तरं च ऋद्धिकामाः पूषादयः तादृशेन पुनराधेयेन ऋद्धिं प्राप्ता इति दर्शयति - पूषेत्यादि । गतम् । पूष्णः स्वभूताः पौष्णाः पशवः ।
+तम् । मनुः॑ । एति॑ । अ॒ध॒त्त॒ । तेन॑ । मनुः॑ । आ॒र्ध्नो॒त् । तस्मा॑त् । मा॒न॒व्यः॑ । प्र॒जा इति॑ प्र-जाः । उ॒च्य॒न्ते॒ ।
 </details>
 
 ## सांवत्सरिकता-ज्ञानम्
@@ -436,6 +521,11 @@ Dhatr is the year; therefore offspring and cattle are born in the course of the 
 तेन॑ धा॒ताऽऽर्ध्नो॑त् ।
 सव्ँवत्स॒रो वै धा॒ता ।  
 तस्मा॑त् सव्ँवत्स॒रम्प्र॒जाᳶ प॒शवोऽनु॒ प्र जा॑यन्ते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । धा॒ता । एति॑ । अ॒ध॒त्त॒ । तेन॑ । धा॒ता । आ॒र्ध्नो॒त् । सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रः । वै । धा॒ता । तस्मा॑त् । सव्ँ॒व॒त्स॒रमिति॑ सम्-व॒त्स॒रम् । प्र॒जा इति॑ प्र-जाः । प॒शवः॑ । अनु॑ । प्रेति॑ । जा॒य॒न्ते॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -463,6 +553,16 @@ He who knows thus the prosperity of the re-establishing [3] prospers.
 य ए॒वम्पु॑नरा॒धेय॒स्यर्द्धिव्ँ॒वेद॑  ऋ॒ध्नोत्ये॒व ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यः । ए॒वम् । पु॒न॒रा॒धेय॒स्येति॑ पुनः-आ॒धेय॑स्य । ऋद्धि॑म् । वेद॑ । ऋ॒ध्नोति॑ । ए॒व ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+3य एवमित्यादि ॥ गतम् । बन्धुतां बन्धुसमूहं पूषादीनाम् । 'ग्रामजनबन्धुसहायेभ्यस्तल्' ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ऽस्यैव᳓म् बन्धु᳓ताव्ँ वे᳓द ब᳓न्धुमान् भवति ।
@@ -478,9 +578,9 @@ He who knows his connexions becomes possessed of connexions himself.
 यो॑ऽस्यै॒वम्ब॒न्धुताव्ँ॒वेद॒ बन्धु॑मान्भवति ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-3य एवमित्यादि ॥ गतम् । बन्धुतां बन्धुसमूहं पूषादीनाम् । 'ग्रामजनबन्धुसहायेभ्यस्तल्' ॥
+यः । अ॒स्य॒ । ए॒वम् । ब॒न्धुता॑म् । वेद॑ । बन्धु॑मा॒निति॒ बन्धु॑-मा॒न् । भ॒व॒ति॒ ।
 </details>
 
 ## उद्वास्य पुनराधानम्
@@ -497,6 +597,11 @@ Agni desiring a share after being established assailed the offspring and cattle 
 <details><summary>मूलम्</summary>
 
 भाग॒धेयव्ँ॒ वा अ॒ग्निराहि॑त इ॒च्छमा॑नᳶ प्र॒जाम्प॒शून् यज॑मान॒स्योप॑ दोद्राव ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भा॒ग॒धेय॒मिति॑ भाग-धेय॑म् । वै । अ॒ग्निः । आहि॑त॒ इत्या-हि॒तः॒ । इ॒च्छमा॑नः । प्र॒जामिति॑ प्र-जाम् । प॒शून् । यज॑मानस्य । उपेति॑ । दो॒द्रा॒व॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -524,6 +629,11 @@ Having removed it, one should re-establish it;
 उ॒द्वास्य॒ पुन॒रा द॑धीत ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒द्वास्येत्यु॑त्-वास्य॑ । पुनः॑ । एति॑ । द॒धी॒त॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्माद् उद्वास्याग्निं पुनरादधीत ।
@@ -544,6 +654,11 @@ thus he unites him with his own portion;
 भा॒ग॒धेये॑नै॒वैनँ॒ सम॑र्धयति ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+भा॒ग॒धेये॒नेति॑ भाग-धेये॑न । ए॒व । ए॒न॒म् । समिति॑ । अ॒र्ध॒य॒ति॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 भागधेयेनाभीप्सितेन एनमग्निं समर्थयति सुप्रीतं करोति । +++(समर्थयति इति भाष्ये पाठः ??)+++  
@@ -562,6 +677,11 @@ verily he is appeased.
 <details><summary>मूलम्</summary>
 
 अथो॒ शान्ति॑रे॒वास्यै॒षा ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अथो॒ इति॑ । शान्तिः॑ । ए॒व । अ॒स्य॒ । ए॒षा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -600,6 +720,11 @@ He should establish under Punarvasu; Punarvasu is the Naksatra for the re-establ
 स्वाया॑मे॒वैन॑न्दे॒वता॑यामा॒धाय॑ ब्रह्मवर्च॒सी भ॑वति ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पुन॑र्वस्वो॒रिति॒ पुनः॑-व॒स्वोः॒ । एति॑ । द॒धी॒त॒ । ए॒तत् । वै । पु॒न॒रा॒धेय॒स्येति॑ पुनः-आ॒धेय॑स्य । नक्ष॑त्रम् । यत् । पुन॑र्वसू॒ इति॒ पुनः॑-व॒सू॒ । स्वाया॑म् । ए॒व । ए॒न॒म् । दे॒वता॑याम् । आ॒धायेत्या॑-धाय॑ । ब्र॒ह्म॒व॒र्च॒सीति॑ ब्रह्म-व॒र्च॒सी । भ॒व॒ति॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5पुनर्वस्वोरिति ॥ पुनरावर्तते वामं वस्वेतयोरिति पुनर्वसू देवतायाम् । ब्रह्मवर्चसी ब्राह्मणस्येयमेव ऋद्ध्यिरिति ॥
@@ -627,6 +752,18 @@ He establishes with Darbha grass, for variety.
 द॒र्भैरा द॑धा॒ति अया॑तयामत्वाय ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+द॒र्भैः । एति॑ । द॒धा॒ति॒ । अया॑तयामत्वा॒येत्यया॑तयाम-त्वा॒य॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+6दर्भैरिति ॥ न प्रणयनीयेनेध्मेन ।
+
+अयातयामत्वाय अपुनरुक्तत्वाय । किञ्च - दर्भैराधानमद्भ्यश्चौषधीभ्यश्चाग्नेरेवावरुद्ध्यै भवति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्भै᳓रा᳓ दधात्य् - अद्भ्य᳓ एवै᳓नम् +++(अग्निम्)+++ ओ᳓षधीभ्यो ऽवरु᳓ध्या᳓ऽऽधत्ते ।
@@ -642,9 +779,9 @@ He establishes with Darbha; verily winning it from the waters and the plants he 
 द॒र्भैरा द॑धात्य॒द्भ्य ए॒वैन॒मोष॑धीभ्योऽव॒रुध्याऽऽध॑त्ते ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-6दर्भैरिति ॥ न प्रणयनीयेनेध्मेन । अयातयामत्वाय अपुनरुक्तत्वाय । किञ्च - दर्भैराधानमद्भ्यश्चौषधीभ्यश्चाग्नेरेवावरुद्ध्यै भवति ॥
+द॒र्भैः । एति॑ । द॒धा॒ति॒ । अ॒द्भ्य इत्य॑त्-भ्यः । ए॒व । ए॒न॒म् । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । अ॒व॒रुध्येत्य॑व-रुध्य॑ । एति॑ । ध॒त्ते॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -668,6 +805,11 @@ The sacrificial cake is offered on five potsherds;
 पञ्च॑कपालᳶ पुरो॒डाशो॑ भवति ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पञ्च॑कपाल॒ इति॒ पञ्च॑-क॒पा॒लः॒ । पु॒रो॒डाशः॑ । भ॒व॒ति॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7पञ्चकपाल इत्यष्टाकपालस्य स्थाने ॥ पञ्चसु कपालेषु संस्कृत इति तद्धितार्थे द्विगुः, 'द्विगोः' इति लुक्, 'इगन्तकाल' इति पूर्वपदप्रकृतिस्वरत्वम् ।
@@ -686,6 +828,11 @@ the seasons are five; verily he wins it from the seasons and establishes it.
 <details><summary>मूलम्</summary>
 
 पञ्च॒ वा ऋ॒तव॑ ऋ॒तुभ्य॑ ए॒वैन॑मव॒रुध्याऽऽध॑त्ते ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पञ्च॑ । वै । ऋ॒तवः॑ । ऋ॒तुभ्य॒ इत्यृ॒तु-भ्यः॒ । ए॒व । ए॒न॒म् । अ॒व॒रुध्येत्य॑व-रुध्य॑ । एति॑ । ध॒त्ते॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

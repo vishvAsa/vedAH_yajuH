@@ -25,7 +25,7 @@ title = "०७ इडोपाह्वानविधिः"
 म᳓नुᳶ पृथिव्या᳓ यज्ञि᳓यमैच्छत्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Manu desired what of earth was sacrificial.
 </details>
@@ -35,33 +35,21 @@ Manu desired what of earth was sacrificial.
 मनुᳶ॑ पृथि॒व्या य॒ज्ञिय॑मैच्छत्।
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः</summary>
-
-स᳓ घृत᳓न् नि᳓षिक्तम् अविन्दत् ।
-</details>
-
-<details><summary>English</summary>
-
-He found the poured out ghee.
-</details>
-
-<details><summary>मूलम्</summary>
-
-स घृ॒तन्निषि॑क्तमविन्दत् ।
-</details>
-
 <details><summary>पद-पाठः</summary>
 
-मनुः॑ । पृ॒थि॒व्याः । य॒ज्ञिय॑म् । ऐ॒च्छ॒त् ।  
-सः । घृ॒तम् । निषि॑क्त॒मिति॒ नि-सि॒क्त॒म् । अ॒वि॒न्द॒त् ।
+मनुः॑ । पृ॒थि॒व्याः । य॒ज्ञिय॑म् । ऐ॒च्छ॒त्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1अतः परं चत्वारोऽनुवाका इष्टिहौत्रब्राह्मणम् ।  
 मनुः पृथिव्या इत्यादि ॥ इडोपाह्वानविधिः ।  
-यज्ञार्हमन्विच्छत् । पृथिव्या निषिक्तं घृतं लब्धवान् उपलब्धवान् ।
-वृष्टिरूपाया इडायाः कार्यं दृष्टवान् । उक्तं च 'वृष्टिर्वा इडा' इति ।
+यज्ञार्हमन्विच्छत् ।
+
+पृथिव्या निषिक्तं घृतं लब्धवान् उपलब्धवान् ।
+वृष्टिरूपाया इडायाः कार्यं दृष्टवान् ।
+
+उक्तं च 'वृष्टिर्वा इडा' इति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -119,12 +107,34 @@ He found the poured out ghee.
 > "उपहूतेडेति"  
 > प्रतीचीम् "इडोपहूतेति" पराचीम्" 
 
-इति। अस्यायम् अर्थः। गो-शरीर-रूपाया इडाया देव्या जपा वेदे स्पष्टं प्रोक्ताः "उपहूतं रथंतरम्" इत्य् एवम् आरभ्य "उपहूताँ ३ हो" इत्य् एवम् अन्ताः। तान् मन्त्रान् उपांशु जपेत्। तत ऊर्ध्वम् "इडोपहूतेत्यादिकम्" उच्चैः पठेत्। उपहूत-शब्दस्य प्रथम-प्रयोगे[^1]पीडा प्रतीचीन-मुखा भवति। चरम-प्रयोगे पराचीन-मुखेत्य् उच्यत इति। तानेतान् मन्त्रान् व्याचिख्यासुर् आदाव् इडा-जन्म-प्रकारं दर्शयति "मनुः पृथिव्या" इति। 
+इति। अस्यायम् अर्थः। गो-शरीर-रूपाया इडाया देव्या जपा वेदे स्पष्टं प्रोक्ताः "उपहूतं रथंतरम्" इत्य् एवम् आरभ्य "उपहूताँ ३ हो" इत्य् एवम् अन्ताः। तान् मन्त्रान् उपांशु जपेत्।
+
+तत ऊर्ध्वम् "इडोपहूतेत्यादिकम्" उच्चैः पठेत्। उपहूत-शब्दस्य प्रथम-प्रयोगे[^1]पीडा प्रतीचीन-मुखा भवति। चरम-प्रयोगे पराचीन-मुखेत्य् उच्यत इति। तानेतान् मन्त्रान् व्याचिख्यासुर् आदाव् इडा-जन्म-प्रकारं दर्शयति "मनुः पृथिव्या" इति।
 
 पुरा कदाचिन् मनुः पृथिव्या उपरि यज्ञार्थं किं द्रव्यम् अस्तीति सर्वत्रान्वेषणम् अकरोत्।  
 अन्विष्य च तत्र गोः पादाङ्कितेषु भू-प्रदेशेषु निषिक्तं घृतं लब्धवान्।  
 
 [^1]: अपिशब्दस्यार्थो न ज्ञायते।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+स᳓ घृत᳓न् नि᳓षिक्तम् अविन्दत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+He found the poured out ghee.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स घृ॒तन्निषि॑क्तमविन्दत् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । घृ॒तम् । निषि॑क्त॒मिति॒ नि-सि॒क्त॒म्॒ । अ॒वि॒न्द॒त्॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,7 +143,7 @@ He found the poured out ghee.
 को᳓ ऽस्येश्वरो᳓ यज्ञे᳓ऽपि क᳓र्तोर् इ᳓ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He said, 'Who is able to produce this also at the sacrifice?'
 </details>
@@ -146,8 +156,7 @@ He said, 'Who is able to produce this also at the sacrifice?'
 
 <details><summary>पद-पाठः</summary>
 
-सः । अ॒ब्र॒वी॒त् । 
-कः । अ॒स्य॒ । ई॒श्व॒रः । य॒ज्ञे । अपीति॑ । कर्तोः॑ । इति॑ ।
+सः । अ॒ब्र॒वी॒त्॒ । कः । अ॒स्य॒ । ई॒श्व॒रः । य॒ज्ञे । अपीति॑ । कर्तोः॑ । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -166,7 +175,7 @@ He said, 'Who is able to produce this also at the sacrifice?'
 गो᳓र् एवा᳓व᳓म् ईश्वरौ᳓ क᳓र्तोः स्व इ᳓ति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Mitra and Varuna said,
 'We are able to produce the cow.'
@@ -179,8 +188,7 @@ Mitra and Varuna said,
 
 <details><summary>पद-पाठः</summary>
 
-तौ । अ॒ब्रू॒ता॒म् ।
-मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । गोः । ए॒व । आ॒वम् । ई॒श्व॒रौ । कर्तोः॑ । स्वः॒ । इति॑ ।
+तौ । अ॒ब्रू॒ता॒म्॒ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । गोः । ए॒व । आ॒वम् । ई॒श्व॒रौ । कर्तोः॑ । स्वः॒ । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -198,7 +206,7 @@ Mitra and Varuna said,
 तौ᳓ त᳓तो गाँ᳓ स᳓मैरयताम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Then they set the cow in motion.
 </details>
@@ -210,7 +218,7 @@ Then they set the cow in motion.
 
 <details><summary>पद-पाठः</summary>
 
-तौ । ततः॑ । गाम् । समिति॑ । ऐ॒र॒य॒ता॒म् । ।
+तौ । ततः॑ । गाम् । समिति॑ । ऐ॒र॒य॒ता॒म्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -229,7 +237,7 @@ Then they set the cow in motion.
 त᳓तो घृत᳓म् अपीड्यत ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Wherever she stepped, there ghee was pressed out;
 </details>
@@ -260,7 +268,7 @@ Wherever she stepped, there ghee was pressed out;
 त᳓तो घृत᳓मपीड्यत ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 there ghee was pressed out;
 </details>
@@ -290,7 +298,7 @@ there ghee was pressed out;
 त᳓स्माद्घृत᳓पद्युच्यते।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 therefore she is called ghee-footed;
 </details>
@@ -300,12 +308,22 @@ therefore she is called ghee-footed;
 तस्मा॑द्घृ॒तप॑द्युच्यते।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तस्मा॑त् । घृ॒तप॒दीति॑ घृ॒त-प॒दी॒ । उ॒च्य॒ते॒ ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+यस्माद् अस्याः पादेभ्यो घृतं निर्गतम् आसीत् तस्माद् इयं घृत-पदीति प्रसिद्धाऽभूत्। एवम् अस्या इडाया यज्ञ-भूमौ जन्म संपन्नम्।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् अस्यै ज᳓न्म।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 that is her origin.
 </details>
@@ -317,20 +335,16 @@ that is her origin.
 
 <details><summary>पद-पाठः</summary>
 
-तस्मा॑त् । घृ॒तप॒दीति॑ घृ॒त-प॒दी॒ । उ॒च्य॒ते॒ ।  
-तत् । अ॒स्यै॒ । जन्म॑ । 
+तत् । अ॒स्यै॒ । जन्म॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तदस्या इडाया जन्म यदिहोपह्वयते । घृतं पादेषु यस्यास्सा **घृतपदी** । 'कुम्भपदीषु च' ति पादस्य लोपः , 'पादोन्यतरस्याम्' इति ङीप्, 'पादः पत्' इति पद्भावः ।  
+तदस्या इडाया जन्म यदिहोपह्वयते । घृतं पादेषु यस्यास्सा **घृतपदी** ।
+
+'कुम्भपदीषु च' ति पादस्य लोपः , 'पादोन्यतरस्याम्' इति ङीप्, 'पादः पत्' इति पद्भावः ।  
 एवं मनुना प्रथममुपलब्धत्वात् इडा **मानवी** ।  
 पदात् घृतपीडनात् **घृतपदी** । मित्रावरुणाभ्यां समीरितत्वात् **मैत्रावरुणी** ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-यस्माद् अस्याः पादेभ्यो घृतं निर्गतम् आसीत् तस्माद् इयं घृत-पदीति प्रसिद्धाऽभूत्। एवम् अस्या इडाया यज्ञ-भूमौ जन्म संपन्नम्।  
 </details>
 
 ## रथन्तराद्य्-उपहूतिः
@@ -340,7 +354,7 @@ that is her origin.
 उ᳓पहूतँ रथन्तरँ᳓ सह᳓ पृथिव्ये᳓त्य् आह ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'The Rathantara is invoked with the earth', he says [1].
 </details>
@@ -352,7 +366,7 @@ that is her origin.
 
 <details><summary>पद-पाठः</summary>
 
-उप॑हूत॒मित्युप॑-हू॒त॒म् । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् । स॒ह । पृ॒थि॒व्या । इति॑ । आ॒ह॒ ।
+उप॑हूत॒मित्युप॑-हू॒त॒म्॒ । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् । स॒ह । पृ॒थि॒व्या ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -372,7 +386,7 @@ that is her origin.
 इयव्ँ᳓ वै᳓ रथन्तर᳓म्।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 The Rathantara is this (earth);
 </details>
@@ -382,12 +396,33 @@ The Rathantara is this (earth);
 रथन्त॒रँ स॒ह पृ॑थि॒व्येत्या॑ह । इ॒यव्ँ वै र॑थन्त॒रमि॒मामे॒व स॒हान्नाद्ये॒नोप॑ ह्वयते ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इति॑ । आ॒ह॒ । इ॒यम् । वै । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2उपहूतं रथन्तरमित्यादिना इडोपाह्वानमन्त्रं व्याचष्टे - **इयं वा इति ॥
+
+** रथन्तरं साम । दुःखतरणहेतुत्वादियं पृथिवी रथन्तरम् ।
+
+अन्नाद्येनेति । पृथिवीशब्देन पृथिवीविकारोऽन्नमुच्यते । तस्मादन्नाद्येन पृथिवीमुपह्वयते । आत्मसमीपे करोति विधेयां करोति । 'निसमुपविभ्यो ह्वः' इत्यात्मनेपदम् ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+एतन्-मन्त्र-गत-रथंतर-शब्देन भूमिर् उपलक्ष्यते। यथा षट्सु पृष्ठ-स्तोत्रेषु रथंतरं सामाद्यं तथा त्रिषु लोकेषु भूमिर् आद्या।
+
+मन्त्र-गतेन पृथिवी-शब्देन तत्-कार्यम् अन्नाद्यम् उपलक्ष्यते। तथा सत्य् अन्नाद्येन सह भूमिर् उपहूतेत्य् एवं मन्त्र-वाक्यस्यार्थः। एवम् उत्तरेऽपि मन्त्रा अनूद्य व्याख्यायन्ते ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमा᳓म् एव᳓ सहा᳓न्ना᳓द्येनो᳓प ह्वयते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 verily he invokes her with food.
 </details>
@@ -399,18 +434,7 @@ verily he invokes her with food.
 
 <details><summary>पद-पाठः</summary>
 
-इ॒यम् । वै । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् ।  
 इ॒माम् । ए॒व । स॒ह । अ॒न्नाद्ये॒नेत्य॑न्न-अद्ये॑न । उपेति॑ । ह्व॒य॒ते॒ ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-2उपहूतं रथन्तरमित्यादिना इडोपाह्वानमन्त्रं व्याचष्टे - **इयं वा इति ॥** रथन्तरं साम । दुःखतरणहेतुत्वादियं पृथिवी रथन्तरम् । अन्नाद्येनेति । पृथिवीशब्देन पृथिवीविकारोऽन्नमुच्यते । तस्मादन्नाद्येन पृथिवीमुपह्वयते । आत्मसमीपे करोति विधेयां करोति । 'निसमुपविभ्यो ह्वः' इत्यात्मनेपदम् ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-एतन्-मन्त्र-गत-रथंतर-शब्देन भूमिर् उपलक्ष्यते। यथा षट्सु पृष्ठ-स्तोत्रेषु रथंतरं सामाद्यं तथा त्रिषु लोकेषु भूमिर् आद्या। मन्त्र-गतेन पृथिवी-शब्देन तत्-कार्यम् अन्नाद्यम् उपलक्ष्यते। तथा सत्य् अन्नाद्येन सह भूमिर् उपहूतेत्य् एवं मन्त्र-वाक्यस्यार्थः। एवम् उत्तरेऽपि मन्त्रा अनूद्य व्याख्यायन्ते ॥  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -419,7 +443,7 @@ verily he invokes her with food.
 सहा᳓न्त᳓रिक्षेणे᳓त्याह ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'The Vamadevya is invoked with the atmosphere', he says.
 </details>
@@ -431,7 +455,7 @@ verily he invokes her with food.
 
 <details><summary>पद-पाठः</summary>
 
-उप॑हूत॒मित्युप॑-हू॒त॒म् । वा॒म॒दे॒व्यमिति॑ वाम-दे॒व्यम् । स॒ह । अ॒न्तरि॑क्षेण । इति॑ । आ॒ह॒ । 
+उप॑हूत॒मित्युप॑-हू॒त॒म्॒ । वा॒म॒दे॒व्यमिति॑ वाम-दे॒व्यम् । स॒ह । अ॒न्तरि॑क्षेण । इति॑ । आ॒ह॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -444,7 +468,7 @@ verily he invokes her with food.
 पश᳓वो वै᳓ वामदेव्य᳓म्  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 The Vamadevya, is cattle;
 </details>
@@ -454,26 +478,9 @@ The Vamadevya, is cattle;
 प॒शवो॒॒ वै वा॑मदे॒व्यम्प॒शूने॒व स॒हान्तरि॑क्षे॒णोप॑ ह्वयते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-पशू᳓न् एव᳓ सहा᳓न्त᳓रिक्षेणो᳓प ह्वयते ।
-</details>
-
-<details><summary>English</summary>
-
-verily he invokes cattle with the atmosphere.
-</details>
-
-<details><summary>मूलम्</summary>
-
-पशू᳓न् एव᳓ सहा᳓न्त᳓रिक्षेणो᳓प ह्वयते ।
-</details>
-
 <details><summary>पद-पाठः</summary>
 
-प॒शवः॑ । वै । वा॒म॒दे॒व्यमिति॑ वाम-दे॒व्यम् ।  
-
-प॒शून् । ए॒व । स॒ह । अ॒न्तरि॑क्षेण । उपेति॑ । ह्व॒य॒ते॒ । ।
+प॒शवः॑ । वै । वा॒म॒दे॒व्यमिति॑ वाम-दे॒व्यम् । प॒शून् । ए॒व ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -485,7 +492,27 @@ verily he invokes cattle with the atmosphere.
 
 तत्र साम-विशेष-वाचिना वामदेव्य-शब्देन तत्-साम-साध्याः पशव उपलक्ष्यन्ते। तद् एतद् दर्शयति - 
 
-"उपहूतम्" इति। 
+"उपहूतम्" इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पशू᳓न् एव᳓ सहा᳓न्त᳓रिक्षेणो᳓प ह्वयते ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he invokes cattle with the atmosphere.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पशू᳓न् एव᳓ सहा᳓न्त᳓रिक्षेणो᳓प ह्वयते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒ह । अ॒न्तरि॑क्षेण । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -494,7 +521,7 @@ verily he invokes cattle with the atmosphere.
 सह᳓ दिवे᳓त्य् आह ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'The Brhat is invoked with the sky', he says.
 </details>
@@ -506,7 +533,7 @@ verily he invokes cattle with the atmosphere.
 
 <details><summary>पद-पाठः</summary>
 
-उप॑हूत॒मित्युप॑-हू॒त॒म् । बृ॒हत् । स॒ह । दि॒वा । इति॑ । आ॒ह॒ ।
+उप॑हूत॒मित्युप॑-हू॒त॒म्॒ । बृ॒हत् । स॒ह । दि॒वा । इति॑ । आ॒ह॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -514,7 +541,7 @@ verily he invokes cattle with the atmosphere.
 ऐरव्ँ᳓ वै᳓ बृह᳓द्,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 The Brhat is connected with food;
 </details>
@@ -524,12 +551,24 @@ The Brhat is connected with food;
 ऐ॒रव्ँ वै बृ॒हदिरा॑मे॒व स॒ह दि॒वोप॑ ह्वयते ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ऐ॒रम् । वै । बृ॒हत् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इरा-शब्द-वाच्या वृष्टिस् तत्-संबन्धि बृहत्-साम। ईर-वृष्टेर् बृहत्-साम-साध्यत्वाद् इत्य् एतम् अर्थं दर्शयति- 
+
+"उपहूतम्" इति।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓राम् एव᳓ सह᳓ दिवो᳓प ह्वयते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 verily he invokes food with the sky.
 </details>
@@ -541,19 +580,16 @@ verily he invokes food with the sky.
 
 <details><summary>पद-पाठः</summary>
 
-ऐ॒रम् । वै । बृ॒हत् । इरा॑म् । ए॒व । स॒ह । दि॒वा । उपेति॑ । ह्व॒य॒ते॒ ।
+इरा॑म् । ए॒व । स॒ह । दि॒वा । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-4ऐरमिति ॥ **इरा** वृष्टिः, तत्र भवं सारम् ऐरं तेन वृष्टिर्लक्ष्यते । दिवो वृष्टिं प्रवर्तयति ॥
-</details>
+4ऐरमिति ॥
 
-<details><summary>सायण-टीका</summary>
+**इरा** वृष्टिः, तत्र भवं सारम् ऐरं तेन वृष्टिर्लक्ष्यते ।
 
-इरा-शब्द-वाच्या वृष्टिस् तत्-संबन्धि बृहत्-साम। ईर-वृष्टेर् बृहत्-साम-साध्यत्वाद् इत्य् एतम् अर्थं दर्शयति- 
-
-"उपहूतम्" इति।  
+दिवो वृष्टिं प्रवर्तयति ॥
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -568,7 +604,7 @@ verily he invokes food with the sky.
 उ᳓पहूतास् सप्त᳓ हो᳓त्रा इ᳓त्य् आह ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'The seven Hotras are invoked', he says;
 </details>
@@ -578,25 +614,9 @@ verily he invokes food with the sky.
 उप॑हूतास्स॒प्त होत्रा॒ इत्या॑ह ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-हो᳓त्रा एवो᳓प ह्वयते ।
-</details>
-
-<details><summary>English</summary>
-
-verily he invokes the Hotras.
-</details>
-
-<details><summary>मूलम्</summary>
-
-होत्रा॑ ए॒वोप॑ ह्वयते ।  
-</details>
-
 <details><summary>पद-पाठः</summary>
 
-उप॑हूता॒ इत्युप॑-हू॒ताः॒ । स॒प्त । होत्राः॑ । इति॑ । आ॒ह॒ ।   
-होत्राः॑ । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ।
+उप॑हूता॒ इत्युप॑-हू॒ताः॒ । स॒प्त । होत्राः॑ । इति॑ । आ॒ह॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -608,7 +628,27 @@ verily he invokes the Hotras.
 
 आश्वलायनेन ये होत्रका दर्शिताः "होता, प्रशास्ता, ब्राह्मणाच्छंसी, पोता, नेष्टा, अग्नीध्रः, अच्छावाक" इति, तद्-उपाह्वान-परत्वं दर्शयति -  
 
-"उपहूता" इति। 
+"उपहूता" इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हो᳓त्रा एवो᳓प ह्वयते ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he invokes the Hotras.
+</details>
+
+<details><summary>मूलम्</summary>
+
+होत्रा॑ ए॒वोप॑ ह्वयते ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+होत्राः॑ । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
 
 ## धेन्वादि-हूतिः
@@ -618,7 +658,7 @@ verily he invokes the Hotras.
 उ᳓पहूता धेनु᳓स् सह᳓ र्षभे᳓त्य् आह ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'The cow is invoked with the bull', he says [2];
 </details>
@@ -630,7 +670,7 @@ verily he invokes the Hotras.
 
 <details><summary>पद-पाठः</summary>
 
-उप॑हू॒तेत्युप॑-हू॒ता॒ । धे॒नुः । । स॒हर्ष॒भेति॑ स॒ह-ऋ॒ष॒भा॒ । इति॑ । आ॒ह॒ ।
+उप॑हू॒तेत्युप॑-हू॒ता॒ । धे॒नुः । स॒हर्ष॒भेति॑ स॒ह-ऋ॒ष॒भा॒ । इति॑ । आ॒ह॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -643,7 +683,7 @@ verily he invokes the Hotras.
 मिथुन᳓म् एवो᳓प ह्वयते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 verily he invokes a pair.
 </details>
@@ -666,28 +706,40 @@ verily he invokes a pair.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पहूतो भक्ष᳓स् स᳓खे᳓त्याह ।
-सोमपीथ᳓म् एवो᳓प ह्वयते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'The friend food is invoked', he says;
 </details>
 
-<details><summary>English</summary>
+<details><summary>मूलम्</summary>
+
+उप॑हूतो भ॒क्षस्सखेत्या॑ह ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उप॑हूत॒ इत्युप॑-हू॒तः॒ । भ॒क्षः । सखा॑ । इति॑ । आ॒ह॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सोमपीथ᳓म् एवो᳓प ह्वयते ।
+</details>
+
+<details><summary>Keith</summary>
 
 verily he invokes the Soma drink.
 </details>
 
 <details><summary>मूलम्</summary>
 
-उप॑हूतो भ॒क्षस्सखेत्या॑ह ।  
-सोमपी॒थमे॒वोप॑ ह्वयते ।  
+सोमपी॒थमे॒वोप॑ ह्वयते ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-उप॑हूत॒ इत्युप॑-हू॒तः॒ । भ॒क्षः । सखा॑ । इति॑ । आ॒ह॒ ।
 सो॒म॒पी॒थमिति॑ सोम-पी॒थम् । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
 
@@ -708,7 +760,7 @@ verily he invokes the Soma drink.
 "उ᳓पहूताँ᳓४ हो᳓+++(→आत्मा)+++" इ᳓त्य् आह ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'It is invoked;
 </details>
@@ -720,7 +772,7 @@ verily he invokes the Soma drink.
 
 <details><summary>पद-पाठः</summary>
 
-उप॑हू॒ताँ४ इत्युप॑-हू॒ताँ४ । हो इति॑ । इति॑ । आ॒ह॒ ।   
+उप॑हू॒ताँ(4) इत्युप॑-हू॒ताँ(4) । हो इति॑ । इति॑ । आ॒ह॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -744,7 +796,7 @@ verily he invokes the Soma drink.
 आत्मा᳓नम् एवो᳓प ह्वयतेे ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 verily he invokes the self,
 </details>
@@ -783,7 +835,7 @@ verily he invokes the self,
 आत्मा᳓ ह्य् उ᳓पहूतानाव्ँ व᳓सिष्ठः।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 for the self is the best of those invoked.
 </details>
@@ -795,7 +847,7 @@ for the self is the best of those invoked.
 
 <details><summary>पद-पाठः</summary>
 
-आ॒त्मा । हि । उप॑हूताना॒मित्युप॑-हू॒ता॒ना॒म् । वसि॑ष्ठः ।   
+आ॒त्मा । हि । उप॑हूताना॒मित्युप॑-हू॒ता॒ना॒म्॒ । वसि॑ष्ठः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -817,7 +869,7 @@ for the self is the best of those invoked.
 इ᳓डाम् उ᳓प ह्वयते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He invokes food,
 </details>
@@ -837,7 +889,7 @@ He invokes food,
 पश᳓वो वा᳓ इ᳓डा,   
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 food is cattle;
 </details>
@@ -847,12 +899,37 @@ food is cattle;
 प॒शवो॒॒ वा इडा॑ प॒शूने॒वोप॑ ह्वयते ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प॒शवः॑ । वै । इडा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इडामुपह्वयत इति । वृष्टिरन्नं पशवो देवता वा इडा द्रव्याभिमानिनी तामुपाह्वयते । इडोपहूतेत्यस्यार्थोऽनेन व्याख्यातः ।
+
+उपहूतेडेति च स एवार्थः । बहुकृत्वो वचनमादरार्थम् ।
+
+यथोक्तं 'अभ्यासेन भूयांसमर्थमधिगच्छति' इति ।
+
+तत्रातिप्रसङ्गनिवृत्त्यर्थं चतुरुपह्वयत इत्युक्तम् । चतुष्पदां लाभश्चतुष्ट्वेन इडोपहूतेत्यस्याभ्यासाच्च ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+"इडोपहूतेत्य्" आरभ्य "मानवीत्य्" एतस्मात् प्राचीनस्य वाक्य-समूहस्य तात्पर्यं दर्शयति -  
+
+"इडाम् उपेति"। इडा-शब्देन गो-शरीर-धारिणी देवतोच्यते।
+
+तस्या उपाह्वानम् "इडोपहूतेत्यादि"-वाक्येन कुर्यात्। इडायाः पशु-रूपत्वात् तद्-उपाह्वानेन पशु-प्राप्तिर् भवति। आरोहावरोह-रूपयोर् वाक्ययोर् द्विर् आवृत्तत्वाच् चतुर्-वारम् उपाह्वानं संपद्यते।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशू᳓न् एवो᳓प ह्वयते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 verily he invokes cattle.
 </details>
@@ -864,22 +941,7 @@ verily he invokes cattle.
 
 <details><summary>पद-पाठः</summary>
 
-प॒शवः॑ । वै । इडा॑ ।   
-प॒शून् । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ।  
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-इडामुपह्वयत इति । वृष्टिरन्नं पशवो देवता वा इडा द्रव्याभिमानिनी तामुपाह्वयते । इडोपहूतेत्यस्यार्थोऽनेन व्याख्यातः ।   
-उपहूतेडेति च स एवार्थः । बहुकृत्वो वचनमादरार्थम् । यथोक्तं 'अभ्यासेन भूयांसमर्थमधिगच्छति' इति ।   
-तत्रातिप्रसङ्गनिवृत्त्यर्थं चतुरुपह्वयत इत्युक्तम् । चतुष्पदां लाभश्चतुष्ट्वेन इडोपहूतेत्यस्याभ्यासाच्च ।
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-"इडोपहूतेत्य्" आरभ्य "मानवीत्य्" एतस्मात् प्राचीनस्य वाक्य-समूहस्य तात्पर्यं दर्शयति -  
-
-"इडाम् उपेति"। इडा-शब्देन गो-शरीर-धारिणी देवतोच्यते। तस्या उपाह्वानम् "इडोपहूतेत्यादि"-वाक्येन कुर्यात्। इडायाः पशु-रूपत्वात् तद्-उपाह्वानेन पशु-प्राप्तिर् भवति। आरोहावरोह-रूपयोर् वाक्ययोर् द्विर् आवृत्तत्वाच् चतुर्-वारम् उपाह्वानं संपद्यते। 
+प॒शून् । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -888,7 +950,7 @@ verily he invokes cattle.
 च᳓तुष्-पादो हि᳓ पश᳓वः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He invokes four, for cattle are four-footed.
 </details>
@@ -901,8 +963,7 @@ He invokes four, for cattle are four-footed.
 
 <details><summary>पद-पाठः</summary>
 
-च॒तुः । उपेति॑ । ह्व॒य॒ते॒ ।  
-चतु॑ष्पाद॒ इति॒ चतुः॑-पा॒दः॒ । हि । प॒शवः॑ । 
+च॒तुः । उपेति॑ । ह्व॒य॒ते॒ । चतु॑ष्पाद॒ इति॒ चतुः॑-पा॒दः॒ । हि । प॒शवः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -918,7 +979,7 @@ He invokes four, for cattle are four-footed.
 म᳓नुर् ह्य् ए᳙ता᳓म् अ᳓ग्रे ऽपश्यत् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Offspring of Manu', he says, for Manu first saw her [3].
 </details>
@@ -931,8 +992,7 @@ He invokes four, for cattle are four-footed.
 
 <details><summary>पद-पाठः</summary>
 
-मा॒न॒वी । इति॑ । आ॒ह॒ ।   
-मनुः॑ । हि । ए॒ताम् । । अग्रे॑ । अप॑श्यत् ।
+मा॒न॒वी । इति॑ । आ॒ह॒ । मनुः॑ । हि । ए॒ताम् । अग्रे॑ । अप॑श्यत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -951,7 +1011,7 @@ He invokes four, for cattle are four-footed.
 घृत᳓पदी᳓त्याह ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Ghee footed', he says.
 </details>
@@ -961,13 +1021,23 @@ He invokes four, for cattle are four-footed.
 घृ॒तप॒दीत्या॑ह ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+घृ॒तप॒दीति॑ घृ॒त-प॒दी॒ । इति॑ । आ॒ह॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+घृतपदीत्यादि । गतम् ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् एवा᳓स्यै पदा᳓द् घृत᳓म् अ᳓पीड्यत,  
 त᳓स्माद् एव᳓म् आह ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Because ghee was pressed out of her foot, therefore be says thus.
 </details>
@@ -980,13 +1050,7 @@ Because ghee was pressed out of her foot, therefore be says thus.
 
 <details><summary>पद-पाठः</summary>
 
-घृ॒तप॒दीति॑ घृ॒त-प॒दी॒ । इति॑ । आ॒ह॒ ।   
-यत् । ए॒व । अ॒स्यै॒ । प॒दात् । घृ॒तम् । अपी॑ड्यत ।   तस्मा॑त् । ए॒वम् । आ॒ह॒ ।  
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-घृतपदीत्यादि । गतम् ॥
+यत् । ए॒व । अ॒स्यै॒ । प॒दात् । घृ॒तम् । अपी॑ड्यत । तस्मा॑त् । ए॒वम् । आ॒ह॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -995,7 +1059,7 @@ Because ghee was pressed out of her foot, therefore be says thus.
 मित्रा᳓व᳓रुणौ ह्य् ए᳙नाँ समै᳓रयताम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Of Mitra and Varuna', he says, for Mitra and Varuna set her in motion.
 </details>
@@ -1008,7 +1072,7 @@ Because ghee was pressed out of her foot, therefore be says thus.
 
 <details><summary>पद-पाठः</summary>
 
-मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । हि । ए॒ना॒म् । स॒मैर॑यता॒मिति॑ सम्-ऐर॑यताम् ।   
+मै॒त्रा॒व॒रु॒णीति॑ मैत्रा-व॒रु॒णी । इति॑ । आ॒ह॒ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । हि । ए॒ना॒म्॒ । स॒मैर॑यता॒मिति॑ सम्-ऐर॑यताम् ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -1023,7 +1087,7 @@ Because ghee was pressed out of her foot, therefore be says thus.
 ब्र᳓ह्म देव᳓कृतम् उ᳓पहूतम् इ᳓त्य् आह ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'The Brahman, god made, is invoked', he says;
 </details>
@@ -1033,12 +1097,28 @@ Because ghee was pressed out of her foot, therefore be says thus.
 ब्रह्म॑ दे॒वकृ॑त॒मुप॑हूत॒मित्या॑ह ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ब्रह्म॑ । दे॒वकृ॑त॒मिति॑ दे॒व-कृ॒त॒म्॒ । उप॑हूत॒मित्युप॑-हू॒त॒म्॒ । इति॑ । आ॒ह॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+9ब्रह्म परिबृढं यज्ञाख्यं कर्म देवेन ब्रह्मणा ऋत्विग्भिर्वा कृतम् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पुरा देवैर् निष्पादितम् इडोपाह्वान-रूपं यत् परिवृत्तं (ढं) कर्म, तस्योपाह्वानं दर्शयति -  
+"ब्रह्म देवेति"।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मैवो᳓प ह्वयते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 verily he invokes the Brahman.
 </details>
@@ -1050,20 +1130,7 @@ verily he invokes the Brahman.
 
 <details><summary>पद-पाठः</summary>
 
-ब्रह्म॑ । दे॒वकृ॑त॒मिति॑ दे॒व-कृ॒त॒म् । उप॑हूत॒मित्युप॑-हू॒त॒म् । इति॑ । आ॒ह॒ ।   
-
-ब्रह्म॑ । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ।   
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-9ब्रह्म परिबृढं यज्ञाख्यं कर्म देवेन ब्रह्मणा ऋत्विग्भिर्वा कृतम् ।
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-पुरा देवैर् निष्पादितम् इडोपाह्वान-रूपं यत् परिवृत्तं (ढं) कर्म, तस्योपाह्वानं दर्शयति -  
-"ब्रह्म देवेति"। 
+ब्रह्म॑ । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1073,7 +1140,7 @@ verily he invokes the Brahman.
 इ᳓त्याह ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'The divine Adhvaryus are invoked, the human are invoked', he says;
 </details>
@@ -1099,7 +1166,7 @@ verily he invokes the Brahman.
 देव-मनुष्या᳓न् एवो᳓प ह्वयते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 verily he invokes the gods and men.
 </details>
@@ -1131,7 +1198,7 @@ verily he invokes the gods and men.
 य᳓ इमय्ँ᳓ यज्ञ᳓म् अ᳓वान्  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Who shall help this sacrifice and make the lord of the sacrifice prosper', he says [4];
 </details>
@@ -1141,13 +1208,25 @@ verily he invokes the gods and men.
 य इ॒मय्ँ य॒ज्ञमवा॒न् ये य॒ज्ञप॑तिव्ँ॒वर्धा॒नित्या॑ह ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ये । इ॒मम् । य॒ज्ञम् । अवान्॑ । ये । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म्॒ । वर्धान्॑ । इति॑ । आ॒ह॒ ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पूर्वोक्ता दैव्या मानुषाश् च ये ऽध्वर्यवस् ते सर्वे ऽपीमं यज्ञम् अवन्तु यज्ञ-पतिं च वर्धयन्त्व् इत्य् एवम् आशीः-परतां दर्शयति - 
+
+"य इमम्" इति।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ यज्ञ᳓पतिव्ँ व᳓र्धान् इ᳓त्य् आह ।  
 यज्ञा᳓य चैव᳓ य᳓जमानाय चाशि᳓षम् आ᳓ शास्ते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 verily he invokes a blessing for the sacrifice and the sacrificer.
 </details>
@@ -1159,21 +1238,12 @@ verily he invokes a blessing for the sacrifice and the sacrificer.
 
 <details><summary>पद-पाठः</summary>
 
-ये । इ॒मम् । य॒ज्ञम् । अवा॑न् । ये । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म् । वर्धा॑न् । इति॑ । आ॒ह॒ ।  
-
 य॒ज्ञाय॑ । च॒ । ए॒व । यज॑मानाय । च॒ । आ॒शिष॒मित्या॑-शिष॑म् । एति॑ । शा॒स्ते॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10यज्ञाय चैवेत्यादि ॥ गतम् ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-पूर्वोक्ता दैव्या मानुषाश् च ये ऽध्वर्यवस् ते सर्वे ऽपीमं यज्ञम् अवन्तु यज्ञ-पतिं च वर्धयन्त्व् इत्य् एवम् आशीः-परतां दर्शयति - 
-
-"य इमम्" इति। 
 </details>
 
 ## द्यावापृथिव्यादि
@@ -1183,7 +1253,7 @@ verily he invokes a blessing for the sacrifice and the sacrificer.
 उ᳓पहूते द्या᳓वापृथिवी᳓ इ᳓त्याह ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Sky and earth are invoked', he says;
 </details>
@@ -1193,12 +1263,23 @@ verily he invokes a blessing for the sacrifice and the sacrificer.
 उप॑हूते॒ द्यावा॑पृथि॒वी इत्या॑ह ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उप॑हूते॒ इत्युप॑-हू॒ते॒ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । इति॑ । आ॒ह॒ ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+"उपहूतं रथंतरं सह पृथिव्येत्य्" अत्र यथा पृथिवी-शब्दो ऽन्न-लक्षकः, नात्र तथा द्यावा-पृथिवी-शब्दार्थाव् किंतु स्वार्थ-पराव् इत्य् एतद् दर्शयति - 
+"उपहूते" इति।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्या᳓वापृथिवी᳓ एवो᳓प ह्वयते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 verily he invokes sky and earth.
 </details>
@@ -1210,15 +1291,7 @@ verily he invokes sky and earth.
 
 <details><summary>पद-पाठः</summary>
 
-उप॑हूते॒ इत्युप॑-हू॒ते॒ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । इति॑ । आ॒ह॒ ।
-
-द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ।   
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-"उपहूतं रथंतरं सह पृथिव्येत्य्" अत्र यथा पृथिवी-शब्दो ऽन्न-लक्षकः, नात्र तथा द्यावा-पृथिवी-शब्दार्थाव् किंतु स्वार्थ-पराव् इत्य् एतद् दर्शयति - 
-"उपहूते" इति। 
+द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -1232,7 +1305,7 @@ verily he invokes sky and earth.
 पूर्वजे᳓ ह्य् ए᳙ते᳓ ऋता᳓वरी 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Born of yore, the righteous', he says, for they were born of yore and are righteous.
 </details>
@@ -1245,8 +1318,7 @@ verily he invokes sky and earth.
 
 <details><summary>पद-पाठः</summary>
 
-पू॒र्व॒जे इति॑ पूर्व-जे । ऋ॒ताव॑री॒ इत्यृ॒त-व॒री॒ । इति॑ । आ॒ह॒ ।  
-पू॒र्व॒जे इति॑ पूर्व-जे । हि । ए॒ते इति॑ । ऋ॒ताव॑री॒ इत्यृ॒त-व॒री॒ । 
+पू॒र्व॒जे इति॑ पूर्व-जे । ऋ॒ताव॑री॒ इत्यृ॒त-व॒री॒ । इति॑ । आ॒ह॒ । पू॒र्व॒जे इति॑ पूर्व-जे । हि । ए॒ते इति॑ । ऋ॒ताव॑री॒ इत्यृ॒त-व॒री॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1267,7 +1339,7 @@ verily he invokes sky and earth.
 देवी᳓ ह्य् ए᳙ते᳓ देव᳓पुत्रे 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Divine, with gods for children', he says, for they are divine and have gods for children.
 </details>
@@ -1280,9 +1352,7 @@ verily he invokes sky and earth.
 
 <details><summary>पद-पाठः</summary>
 
-दे॒वी इति॑ । दे॒वपु॑त्रे॒ इति॑ दे॒व-पु॒त्रे॒ । इति॑ । आ॒ह॒ ।  
-
-दे॒वी इति॑ । हि । ए॒ते इति॑ । दे॒वपु॑त्रे॒ इति॑ दे॒व-पु॒त्रे॒ । 
+दे॒वी इति॑ । दे॒वपु॑त्रे॒ इति॑ दे॒व-पु॒त्रे॒ । इति॑ । आ॒ह॒ । दे॒वी इति॑ । हि । ए॒ते इति॑ । दे॒वपु॑त्रे॒ इति॑ दे॒व-पु॒त्रे॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1297,7 +1367,7 @@ verily he invokes sky and earth.
 उ᳓पहूतो ऽयय्ँ᳓ य᳓जमान इ᳓त्य् आह।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Invoked is this sacrificer', he says;
 </details>
@@ -1307,12 +1377,17 @@ verily he invokes sky and earth.
 उप॑हूतो॒ऽयय्ँयज॑मान॒ इत्या॑ह।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उप॑हूत॒ इत्युप॑-हू॒तः॒ । अ॒यम् । यज॑मानः । इति॑ । आ॒ह॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓जमानम् एवो᳓प ह्वयते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 verily he invokes the sacrificer.
 </details>
@@ -1324,9 +1399,7 @@ verily he invokes the sacrificer.
 
 <details><summary>पद-पाठः</summary>
 
-उप॑हूत॒ इत्युप॑-हू॒तः॒ । अ॒यम् । यज॑मानः । इति॑ । आ॒ह॒ ।
-
-यज॑मानम् । ए॒व । उपेति॑ । ह्व॒य॒ते॒ >
+यज॑मानम् । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1342,7 +1415,7 @@ verily he invokes the sacrificer.
 दिव्ये᳓ धा᳓मन्न् उ᳓पहूत इ᳓त्याह ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Invoked in the highest sacrifice, invoked in the greater offering, invoked in the divine abode' [5], he says.
 </details>
@@ -1354,8 +1427,7 @@ verily he invokes the sacrificer.
 
 <details><summary>पद-पाठः</summary>
 
-उत्त॑रस्या॒मित्युत्-त॒र॒स्या॒म् । दे॒व॒य॒ज्याया॒मिति॑ देव-य॒ज्याया॑म् । उप॑हूत॒ इत्युप॑-हू॒तः॒ । भूय॑सि । ह॒वि॒ष्कर॑ण॒ इति॑ हविः-कर॑णे । उप॑हूत॒ इत्युप॑-हू॒तः॒ । दि॒व्ये । धाम॑न् । उप॑हूत॒ इत्युप॑-हू॒तः॒ ।  
-। इति॑ । आ॒ह॒ ।
+उत्त॑रस्या॒मित्युत्-त॒र॒स्या॒म्॒ । दे॒व॒य॒ज्याया॒मिति॑ देव-य॒ज्याया॑म् । उप॑हूत॒ इत्युप॑-हू॒तः॒ । भूय॑सि । ह॒वि॒ष्कर॑ण॒ इति॑ हविः-कर॑णे । उप॑हूत॒ इत्युप॑-हू॒तः॒ । दि॒व्ये । धाम॑न् । उप॑हूत॒ इत्युप॑-हू॒तः॒ । इति॑ । आ॒ह॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1376,7 +1448,7 @@ verily he invokes the sacrificer.
 सुवर्गो᳓ लोको᳓ दिव्य᳓न् धा᳓म ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 The highest sacrifice is offspring, the greater offering is cattle, the divine abode is the world of heaven.
 </details>
@@ -1390,8 +1462,7 @@ The highest sacrifice is offspring, the greater offering is cattle, the divine a
 
 <details><summary>पद-पाठः</summary>
 
-प्र॒जेति॑ प्र-जा । वै । उत्त॒रेत्युत्-त॒रा॒ । दे॒व॒य॒ज्येति॑ देव-य॒ज्या ।   
-प॒शवः॑ । भूयः॑ । ह॒वि॒ष्कर॑ण॒मिति॑ हविः-कर॑णम् ।   सु॒व॒र्ग इति॑ सुवः-गः । लो॒कः । दि॒व्यम् । धाम॑ ।
+प्र॒जेति॑ प्र-जा । वै । उत्त॒रेत्युत्-त॒रा॒ । दे॒व॒य॒ज्येति॑ देव-य॒ज्या । प॒शवः॑ । भूयः॑ । ह॒वि॒ष्कर॑ण॒मिति॑ हविः-कर॑णम् । सु॒व॒र्ग इति॑ सुवः-गः । लो॒कः । दि॒व्यम् । धाम॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1406,7 +1477,7 @@ The highest sacrifice is offspring, the greater offering is cattle, the divine a
 इद᳓म् असीद᳓म् असी᳓त्य् एव᳓  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 (With the words), 'Thou art this;
 </details>
@@ -1416,12 +1487,28 @@ The highest sacrifice is offspring, the greater offering is cattle, the divine a
 इ॒दम॑सी॒दम॒सीत्ये॒व य॒ज्ञस्य॑ प्रि॒यन्धामोप॑ ह्वयते ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इ॒दम् । अ॒सि॒ । इ॒दम् । अ॒सि॒ । इति॑ । ए॒व ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इदमसीदमसीत्यादि । प्रजा वा पशवः स्वर्गो वा यद्यज्ञस्य प्रियं धाम तादात्म्येन यज्ञे यजमानः उपहूतो भवति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+"इदं मे देवा हविर् जुषन्ताम् इति तस्मिन्न् उपहूत" इत्य् अस्य स्पष्टार्थस्य मन्त्र-वाक्यस्य विवक्षितं तात्पर्यं दर्शयति -  
+"इदम् असीति"।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञ᳓स्य प्रिय᳓न् धा᳓मो᳓प ह्वयते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 thou art this', he invokes the dear abode of the sacrifice.
 </details>
@@ -1433,20 +1520,12 @@ thou art this', he invokes the dear abode of the sacrifice.
 
 <details><summary>पद-पाठः</summary>
 
-इ॒दम् । अ॒सि॒ । इ॒दम् । अ॒सि॒ । इति॑ । ए॒व । य॒ज्ञस्य॑ । प्रि॒यम् । धाम॑ । उपेति॑ । ह्व॒य॒ते॒ ।   
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-इदमसीदमसीत्यादि । प्रजा वा पशवः स्वर्गो वा यद्यज्ञस्य प्रियं धाम तादात्म्येन यज्ञे यजमानः उपहूतो भवति ।
+य॒ज्ञस्य॑ । प्रि॒यम् । धाम॑ । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
 
-"इदं मे देवा हविर् जुषन्ताम् इति तस्मिन्न् उपहूत" इत्य् अस्य स्पष्टार्थस्य मन्त्र-वाक्यस्य विवक्षितं तात्पर्यं दर्शयति -  
-"इदम् असीति"। 
-
-"इदं प्रवर्तमानं मदीयं हविर् देवा जुषन्ताम्" इति वक्तुं तस्मिन् दर्श-पूर्णमास-कर्मणि यजमान उपहृत इत्य् एतावद् एव न भवति, किंत्व् "इदं निरूढ-पशुबन्ध-रूपं कर्म चिकीर्षुर् असि, सोम-याग-रूपम् इदं कर्म चिकीर्षुर् असि" इत्य् एवं सर्व-कर्म-विवक्षा-द्योतनार्था वीप्सा। 
+"इदं प्रवर्तमानं मदीयं हविर् देवा जुषन्ताम्" इति वक्तुं तस्मिन् दर्श-पूर्णमास-कर्मणि यजमान उपहृत इत्य् एतावद् एव न भवति, किंत्व् "इदं निरूढ-पशुबन्ध-रूपं कर्म चिकीर्षुर् असि, सोम-याग-रूपम् इदं कर्म चिकीर्षुर् असि" इत्य् एवं सर्व-कर्म-विवक्षा-द्योतनार्था वीप्सा।
 </details>
 
 ## विश्वस्य प्रियम्
@@ -1456,7 +1535,7 @@ thou art this', he invokes the dear abode of the sacrifice.
 वि᳓श्वमस्य प्रिय᳓म् उ᳓पहूतम् इ᳓त्याह ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'All that is dear to it is invoked', he says;
 </details>
@@ -1468,7 +1547,7 @@ thou art this', he invokes the dear abode of the sacrifice.
 
 <details><summary>पद-पाठः</summary>
 
-विश्व॑म् । अ॒स्य॒ । प्रि॒यम् । उप॑हूत॒मित्युप॑-हू॒त॒म् । इति॑ । आ॒ह॒ ।   
+विश्व॑म् । अ॒स्य॒ । प्रि॒यम् । उप॑हूत॒मित्युप॑-हू॒त॒म्॒ । इति॑ । आ॒ह॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1481,7 +1560,7 @@ thou art this', he invokes the dear abode of the sacrifice.
 अ᳓छम्-बट्कारम् एवो᳓प ह्वयते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 verily not vainly does he invoke.
 </details>
@@ -1493,7 +1572,7 @@ verily not vainly does he invoke.
 
 <details><summary>पद-पाठः</summary>
 
-अछ॑म्बट्कार॒मित्यछ॑म्बट्-का॒र॒म् । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ॥ [41]  
+अछ॑म्बट्कार॒मित्यछ॑म्बट्-का॒र॒म्॒ । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

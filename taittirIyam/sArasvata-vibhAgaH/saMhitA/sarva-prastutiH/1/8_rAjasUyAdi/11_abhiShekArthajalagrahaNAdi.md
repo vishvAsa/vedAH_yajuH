@@ -56,7 +56,7 @@ Ye are active,
 
 <details><summary>पद-पाठः</summary>
 
-1A । अ॒र्थेत॒ इत्य॑र्थ-इतः॑ । स्थ॒ ।
+अ॒र्थेत॒ इत्य॑र्थ-इतः॑ । स्थ॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -66,7 +66,7 @@ Ye are active,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -78,6 +78,14 @@ Ye are active,
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -86,15 +94,7 @@ Ye are active,
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -123,7 +123,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -140,9 +140,24 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 [अर्थे᳓तस्स्थ  ।]
 </details>
 
+<details><summary>Keith</summary>
+
+Ye are active,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒र्थेत॑स्स्थ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒र्थेत॒ इत्य॑र्थ-इतः॑ । स्थ॒ ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -154,6 +169,14 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -162,15 +185,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -243,7 +258,7 @@ thou art the lord of the waters,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -255,6 +270,14 @@ thou art the lord of the waters,
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -263,15 +286,7 @@ thou art the lord of the waters,
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -300,7 +315,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -316,9 +331,24 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 [अपा᳓म् प᳓तिरसि  ।]
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the lord of the waters,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒पाम्पति॑रसि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । पतिः॑ । अ॒सि॒ ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -330,6 +360,14 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -338,15 +376,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -421,7 +451,7 @@ thou art the male wave,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -433,6 +463,14 @@ thou art the male wave,
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -441,15 +479,7 @@ thou art the male wave,
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -478,7 +508,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -494,9 +524,24 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 [वृ᳓षास्य् ऊर्मिः᳓  ।]
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the male wave,
+</details>
+
+<details><summary>मूलम्</summary>
+
+वृषा॑स्यू॒र्मिः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वृषा॑ । अ॒सि॒ । ऊ॒र्मिः ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -508,6 +553,14 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -516,15 +569,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -597,7 +642,7 @@ thou art the male host,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -609,6 +654,14 @@ thou art the male host,
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -617,15 +670,7 @@ thou art the male host,
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -654,7 +699,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -670,9 +715,24 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 [वृ᳓षसेनो᳙ऽसि  ।]
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the male host,
+</details>
+
+<details><summary>मूलम्</summary>
+
+वृ॑षसे॒नो॑ऽसि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वृ॒ष॒से॒न इति॑ वृष-से॒नः । अ॒सि॒ ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -684,6 +744,14 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -692,15 +760,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -773,7 +833,7 @@ ye are the pen-dwellers,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -785,6 +845,14 @@ ye are the pen-dwellers,
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -793,15 +861,7 @@ ye are the pen-dwellers,
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -830,7 +890,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -846,9 +906,24 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 [व्र᳓जक्षि᳓तस् स्थ।]
 </details>
 
+<details><summary>Keith</summary>
+
+ye are the pen-dwellers,
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्र॒ज॒क्षित॑स्स्थ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व्र॒ज॒क्षित॒ इति॑ व्रज-क्षितः॑ । स्थ॒ ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -860,6 +935,14 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -868,15 +951,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -949,7 +1024,7 @@ ye are the strength of the Maruts,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -961,6 +1036,14 @@ ye are the strength of the Maruts,
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -969,15 +1052,7 @@ ye are the strength of the Maruts,
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1006,7 +1081,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1022,9 +1097,24 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 [मरु᳓ताम् ओ᳓जस् स्थ  ।]
 </details>
 
+<details><summary>Keith</summary>
+
+ye are the strength of the Maruts,
+</details>
+
+<details><summary>मूलम्</summary>
+
+म॒रुता॒मोज॑स्स्थ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒रुता॑म् । ओजः॑ । स्थ॒ ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -1036,6 +1126,14 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -1044,15 +1142,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1125,7 +1215,7 @@ ye have the radiance of the sun,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -1137,6 +1227,14 @@ ye have the radiance of the sun,
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -1145,15 +1243,7 @@ ye have the radiance of the sun,
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1182,7 +1272,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1198,9 +1288,24 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 [सू᳓र्यवर्चसस् स्थ  ।]
 </details>
 
+<details><summary>Keith</summary>
+
+ye have the radiance of the sun,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सूर्य॑वर्चसस्स्थ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सूर्य॑वर्चस॒ इति॒ सूर्य॑-व॒र्च॒सः॒ । स्थ॒ ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -1212,6 +1317,14 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -1220,15 +1333,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1301,7 +1406,7 @@ ye have the brightness of the sun,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -1313,6 +1418,14 @@ ye have the brightness of the sun,
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -1321,15 +1434,7 @@ ye have the brightness of the sun,
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1358,7 +1463,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1374,9 +1479,24 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 [सू᳓र्य-त्वचसस् स्थ ।]
 </details>
 
+<details><summary>Keith</summary>
+
+ye have the brightness of the sun,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सूर्य॑त्वचसस्स्थ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सूर्य॑त्वचस॒ इति॒ सूर्य॑-त्व॒च॒सः॒ । स्थ॒ ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -1388,6 +1508,14 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -1396,15 +1524,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1477,7 +1597,7 @@ ye are delightful,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -1489,6 +1609,14 @@ ye are delightful,
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -1497,15 +1625,7 @@ ye are delightful,
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1534,7 +1654,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1550,9 +1670,24 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 [मा᳓न्दाः स्थ  ।]
 </details>
 
+<details><summary>Keith</summary>
+
+ye are delightful,
+</details>
+
+<details><summary>मूलम्</summary>
+
+मान्दाः॑ स्थ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मान्दाः॑ । स्थ॒ ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -1564,6 +1699,14 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -1572,15 +1715,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1653,7 +1788,7 @@ ye are obedient,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -1665,6 +1800,14 @@ ye are obedient,
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -1673,15 +1816,7 @@ ye are obedient,
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1710,7 +1845,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1726,9 +1861,24 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 [वा᳓शाः स्थ  ।]
 </details>
 
+<details><summary>Keith</summary>
+
+ye are obedient,
+</details>
+
+<details><summary>मूलम्</summary>
+
+वाशाः॑ स्थ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वाशाः॑ । स्थ॒ ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -1740,6 +1890,14 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -1748,15 +1906,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1829,7 +1979,7 @@ ye are powerful,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -1841,6 +1991,14 @@ ye are powerful,
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -1849,15 +2007,7 @@ ye are powerful,
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1886,7 +2036,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1902,9 +2052,24 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 [श᳓क्वरीस् स्थ  ।]
 </details>
 
+<details><summary>Keith</summary>
+
+ye are powerful,
+</details>
+
+<details><summary>मूलम्</summary>
+
+शक्व॑रीस्स्थ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शक्व॑रीः । स्थ॒ ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -1916,6 +2081,14 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -1924,15 +2097,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2005,7 +2170,7 @@ ye are all supporters,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -2017,6 +2182,14 @@ ye are all supporters,
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -2025,15 +2198,7 @@ ye are all supporters,
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2062,7 +2227,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2078,9 +2243,24 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 [विश्वभृ᳓तस् स्थ ।]
 </details>
 
+<details><summary>Keith</summary>
+
+ye are all supporters,
+</details>
+
+<details><summary>मूलम्</summary>
+
+वि॒श्व॒भृत॑स्स्थ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒श्व॒भृत॒ इति॑ विश्व-भृतः॑ । स्थ॒ ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -2092,6 +2272,14 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -2100,15 +2288,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2181,7 +2361,7 @@ ye are supporters of men,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -2193,6 +2373,14 @@ ye are supporters of men,
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -2201,15 +2389,7 @@ ye are supporters of men,
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2238,7 +2418,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2254,9 +2434,24 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 [जनभृ᳓तस्स्थ ।]
 </details>
 
+<details><summary>Keith</summary>
+
+ye are supporters of men,
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज॒न॒भृत॑स्स्थ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ज॒न॒भृत॒ इति॑ जन-भृतः॑ । स्थ॒ ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -2268,6 +2463,14 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -2276,15 +2479,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2357,7 +2552,7 @@ ye have the brilliance of Agni,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -2369,6 +2564,14 @@ ye have the brilliance of Agni,
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -2377,15 +2580,7 @@ ye have the brilliance of Agni,
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2414,7 +2609,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2430,9 +2625,24 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 [अग्ने᳓स् तेजस्याः᳙ स्थ  ।]
 </details>
 
+<details><summary>Keith</summary>
+
+ye have the brilliance of Agni,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्नेस्ते॑ज॒स्याः॑ स्थ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । ते॒ज॒स्याः॑ । स्थ॒ ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -2444,6 +2654,14 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -2452,15 +2670,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2535,7 +2745,7 @@ ye are the sap of the waters, of the plants.
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -2547,6 +2757,14 @@ ye are the sap of the waters, of the plants.
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -2555,15 +2773,7 @@ ye are the sap of the waters, of the plants.
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2592,7 +2802,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2607,9 +2817,24 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 [अपा᳓मो᳓षधीनाँ र᳓सस्स्थ  ।]
 </details>
 
+<details><summary>Keith</summary>
+
+ye are the sap of the waters, of the plants.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒पामोष॑धीनाँ॒ रस॑स्स्थ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । ओष॑धीनाम् । रसः॑ । स्थ॒ ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -2621,6 +2846,14 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -2629,15 +2862,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2666,7 +2891,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-3C । रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
+रा॒ष्ट्र॒दा इति॑ राष्ट्र-दाः । स्थ॒ । रा॒ष्ट्रम् । द॒त्त॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2682,9 +2907,24 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 [अपा᳓म् ओ᳓षधीनाँ र᳓सस्स्थ  ।]      
 </details>
 
+<details><summary>Keith</summary>
+
+ye are the sap of the waters, of the plants.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒पामोष॑धीनाँ॒ रस॑स्स्थ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । ओष॑धीनाम् । रसः॑ । स्थ॒ ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 आपो᳓ देवी᳓र् म᳓धुमतीर् **अगृह्णन्न्**  
@@ -2696,6 +2936,14 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -2704,15 +2952,7 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2750,3 +2990,4 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 
 </div>
+

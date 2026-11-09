@@ -163,6 +163,11 @@ _______
 अ᳓व-बाढो+++(=बद्धो)+++ वलगः᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+The spell is overcome.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अव॑बाढो वल॒गः ।

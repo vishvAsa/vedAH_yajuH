@@ -10,7 +10,7 @@ _______
 1अवभृथार्थमन्तरेण चात्वालोत्कराव् उपनिष्क्रामति - उरुं हि राजेति त्रिष्टुभा ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/08_uruM_hi.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/08_uruM_hi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -377,7 +377,7 @@ _______
 2अपो दृष्ट्वा यजमानं वाचयति - शतं ते राजन्निति त्रिष्टुभम् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/09_shataM_te.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/09_shataM_te.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -777,6 +777,11 @@ The noose of Varuna is overcome.
 अ॒भिष्ठि॑तो॒ वरु॑णस्य॒ पाशः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒भिष्ठि॑त॒ इत्य॒भि-स्थि॒तः॒ । वरु॑णस्य । पाशः॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अभिष्ठितः अभिभूय क्रान्तोस्माभिर्वरुणस्य पाशः ॥
@@ -788,7 +793,7 @@ _______
 4अप्सु बर्हिः प्रास्यति - अग्नेरनीकमिति त्रिपदया विराजा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/02_agner_anIkam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/02_agner_anIkam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -815,6 +820,11 @@ In each home [1] do thou offer the kindling-stick, O Agni;
 अग्नेरनी॑कम॒प आ वि॑वेश ।  
 अपा॑न्नपात्प्रति॒रक्ष॑न्नसु॒र्य॑न्....    
 दमे॑दमे [49] स॒मिधय्ँ॑यक्ष्यग्ने  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । अनी॑कम् । अ॒पः । एति॑ । वि॒वे॒श॒ ॥ अपा॑म् । न॒पा॒त् । प्र॒ति॒रक्ष॒न्निति॑ प्रति-रक्ष॑न् । अ॒सु॒र्य॑म् । दमे॑दम॒ इति॒ दमे॑-द॒मे॒ । स॒मिध॒मिति॑ सम्-इध॑म् । य॒क्षि॒ । अ॒ग्ने॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -848,6 +858,11 @@ Let thy tongue seek the ghee.
 प्रति॑ ते जि॒ह्वा घृ॒तमुच्च॑रण्येत् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्रतीति॑ । ते॒ । जि॒ह्वा । घृ॒तम् । उदिति॑ । च॒र॒ण्ये॒त्॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे अग्ने तव जिह्वा घृतं प्रतीत्य **उच्चरण्येत्** उत्क्षिप्य भक्षयतु । चरण गतौ कण्ड्वादिः ॥
@@ -872,6 +887,11 @@ In the sea is thy heart, within the waters;
 <details><summary>मूलम्</summary>
 
 स॒मु॒द्रे ते॒ हृद॑यम॒प्स्व॑न्तः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒मु॒द्रे । ते॒ । हृद॑यम् । अ॒प्स्वित्य॑प्-सु । अ॒न्तः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -900,6 +920,11 @@ Let the plants and the waters enter thee;
 सन्त्वा॑ विश॒न्त्वोष॑धीरु॒ताऽऽपः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । त्वा॒ । वि॒श॒न्तु॒ । ओष॑धीः । उ॒त । आपः॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे जुहु त्वामोषधीः ओषधयस्संविशन्तु समागच्छन्तु त्वदीयेन कर्मणां सिद्धा भवन्तु । उत अपिच आपश्च साक्षादिदानीं त्वां संविशन्तु प्राप्नुवन्तु । ओषधीरिति पूर्वत्पूर्वसवर्णदीर्घः ॥
@@ -911,7 +936,7 @@ _______
 8ता अप्सु जुहोति - यज्ञस्येति द्विपदया त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/03_yajnasya_tvA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/03_yajnasya_tvA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -935,6 +960,11 @@ Let us worship at the utterance of the hymn, at the utterance of homage.
 
 य॒ज्ञस्य॑ त्वा यज्ञपते ह॒विर्भिः॑  ॥  
 सू॒क्त॒वा॒के न॑मोवा॒के वि॑धे॒म ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒ज्ञस्य॑ । त्वा॒ । य॒ज्ञ॒प॒त॒ इति॑ यज्ञ-प॒ते॒ । ह॒विर्भि॒रिति॑ ह॒विः-भिः॒ ॥ सू॒क्त॒वा॒क इति॑ सूक्त-वा॒के । न॒मो॒वा॒क इति॑ नमः-वा॒के । वि॒धे॒म॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -971,6 +1001,11 @@ O bath, O flood, thou glidest
 अव॑भृथ निचङ्कुण निचे॒रुर॑सि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अव॑भृ॒थेत्यव॑-भृ॒थ॒ । नि॒च॒ङ्कु॒णेति॑ नि-च॒ङ्कु॒ण॒ । नि॒चे॒रुरिति॑ नि-चे॒रुः । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अवभ्रियन्ते उत्सृज्यन्ते कानिचिद् द्रव्याण्य् अस्मिन्नित्य् अवभृथः कर्मविशेषः । 'अवे भृञः' इति क्थन्प्रत्ययः । हे **अवभृथ** । कर्मण इदमामन्त्रणम्, तदभिमानिन्या देवताया वा वरुणस्य । 
@@ -980,7 +1015,7 @@ O bath, O flood, thou glidest
 **निचेरुर् असि** निभृतं चरसीति, निभृतं वा चरत्य् अस्मिन्नित्यौणादिके उप्रत्यये छान्दसमेत्वम् । अत्वरं क्रियमाणोसीत्यर्थः, निगूढचरद्रव्याभिप्रायं वा ।  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/04_nichankuNa_ava.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/04_nichankuNa_ava.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1003,6 +1038,11 @@ O flood; thou hast removed by sacrifice the sin committed by the gods, through t
 <details><summary>मूलम्</summary>
 
 नि॒च॒ङ्कु॒णाव॑  दे॒वैर्दे॒वकृ॑त॒मेनो॑ऽया॒डव॒ मर्त्यै॒र्मर्त्य॑कृतम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नि॒च॒ङ्कु॒णेति॑ नि-च॒ङ्कु॒ण॒ । अवेति॑ । दे॒वैः । दे॒वकृ॑त॒मिति॑ दे॒व-कृ॒त॒म्॒ । एनः॑ । अ॒या॒ट्॒ । अवेति॑ । मर्त्यैः॑ । मर्त्य॑कृत॒मिति॒ मर्त्य॑-कृ॒त॒म्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1028,6 +1068,11 @@ guard us, O god, from wide hostility.
 <details><summary>मूलम्</summary>
 
 उ॒रोरा नो॑ देव रि॒षस्पा॑हि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒रोः । एति॑ । नः॒ । दे॒व॒ । रि॒षः । पा॒हि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1057,6 +1102,11 @@ Be the water and plants friendly to us [2];
 सुमि॒त्रा न॒ आप॒ ओष॑धयः [50] सन्तु दुर्मि॒त्रास्तस्मै॑ भूयासुः ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सु॒मि॒त्रा इति॑ सु-मि॒त्राः । नः॒ । आपः॑ । ओष॑धयः । स॒न्तु॒ । दु॒र्मि॒त्रा इति॑ दुः-मि॒त्राः । तस्मै॑ । भू॒या॒सुः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आप ओषधयश्च नः अस्मभ्यं सुमित्रास्सन्तु शोभनं मित्रं यासाम् । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् ॥
@@ -1083,6 +1133,11 @@ be they hostile to him who hateth us and whom we hate.
 दुर्मि॒त्रास् तस्मै॑ भूयासुः र्यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यः । अ॒स्मान् । द्वेष्टि॑ । यम् । च॒ । व॒यम् । द्वि॒ष्मः ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 दुष्टं मित्रं मित्रवद्वर्तमानं यासाम् । छान्दसमन्तोदात्तत्वम् ॥
@@ -1094,7 +1149,7 @@ _______
 12ऋजीषम् अप्सु प्लावयति - देवीराप इति ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/05_devIr_Apa.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/05_devIr_Apa.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1117,6 +1172,11 @@ Ye divine waters, this is thy foetus, glad and well tended have we made it for y
 <details><summary>मूलम्</summary>
 
 देवी॑राप ए॒ष वो॒ गर्भ॒स्तव्ँव॒स्सुप्री॑तँ॒ सुभृ॑तमकर्म दे॒वेषु॑ नस्सु॒कृतो॑ ब्रूतात् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+देवीः॑ । आ॒पः॒ । ए॒षः । वः॒ । गर्भः॑ । तम् । वः॒ । सुप्री॑त॒मिति॒ सु-प्री॒त॒म्॒ । सुभृ॑त॒मिति॒ सु-भृ॒त॒म्॒ । अ॒क॒र्म॒ । दे॒वेषु॑ । नः॒ । सु॒कृत॒ इति॑ सु-कृतः॑ । ब्रू॒ता॒त्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1150,6 +1210,11 @@ the noose of Varuna is loosed.
 प्रति॑युतो॒ वरु॑णस्य॒ पाश॒ᳶ प्रत्य॑स्तो॒ वरु॑णस्य॒ पाशः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्रति॑युत॒ इति॒ प्रति॑-यु॒तः॒ । वरु॑णस्य । पाशः॑ । प्रत्य॑स्त॒ इति॒ प्रति॑-अ॒स्तः॒ । वरु॑णस्य । पाशः॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रतियुतः प्रत्येकं पृथक्कृतः वरुणस्य पाशः ।  
@@ -1162,7 +1227,7 @@ _______
 14प्रपथे समिधः कुर्वते - एधोसीति ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/03_edho-syedhiShImahi_svAhA.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/03_edho-syedhiShImahi_svAhA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1208,7 +1273,7 @@ _______
 स॒मिद॑सि॒ तेजो॑ऽसि॒ तेजो॒ मयि॑ धेहि 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/04_samidasi_samedhiShImahi.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/04_samidasi_samedhiShImahi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1243,7 +1308,7 @@ thou art kindling; (may we prosper;)
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/05_tejosi_tejo.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/05_tejosi_tejo.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1284,7 +1349,7 @@ _______
 16आहवनीयमुपतिष्ठते - अप इत्यनुष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/06_apo_adyAnvachAriSham.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/06_apo_adyAnvachAriSham.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 

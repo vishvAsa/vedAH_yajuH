@@ -451,6 +451,20 @@ Thou art the pillar of Varuna.
 
 </div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वरु᳓णस्य स्क᳓म्भनम् असि,  
+वरु᳓णस्य स्कम्भ-स᳓र्जनम् असि,  
+उ᳓न्मुक्तो वरु᳓णस्य पाशः᳓ ॥ [17]
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the prop of Varuna;  
+thou art the unloosening of Varuna's prop;  
+unloosened is the noose of Varuna.
+</details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वरु॑णस्य॒ स्कम्भ॑नमसि॒ वरु॑णस्य स्कम्भ॒सर्ज॑नम॒स्युन्मु॑क्तो॒ वरु॑णस्य॒ पाशः॑ ॥ [17]

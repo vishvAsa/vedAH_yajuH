@@ -263,7 +263,7 @@ To Indra with the Adityas, thee!
 6चतुर्थं मिमीते - इन्द्राय त्वादित्यवत इति ॥ आदित्यैस्तद्वते ॥
 </details>
 
-<details><summary>Keith</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 7पञ्चमं मिमीते - इन्द्राय त्वा विश्वदेव्यावते इति ॥
 </details>

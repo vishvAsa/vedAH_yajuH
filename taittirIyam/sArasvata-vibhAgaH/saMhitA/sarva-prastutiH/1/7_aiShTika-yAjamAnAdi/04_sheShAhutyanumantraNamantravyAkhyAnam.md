@@ -811,7 +811,7 @@ In his offspring a strong one is born who knows thus.
 
 <details><summary>पद-पाठः</summary>
 
-एति॑ । अ॒स्य॒ । प्र॒जाया॒मिति॑प्र-जाया॑म् । वा॒जी । जा॒य॒ते॒ । यः । ए॒वम् । वेद॑॥[20]
+एति॑ । अ॒स्य॒ । प्र॒जाया॒मिति॑प्र-जाया॑म् । वा॒जी । जा॒य॒ते॒ । यः । ए॒वम् । वेद॑॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

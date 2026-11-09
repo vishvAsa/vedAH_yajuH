@@ -41,7 +41,7 @@ To Brhaspati he offers an oblation in the house of the Brahman (priest); the sac
 
 <details><summary>पद-पाठः</summary>
 
-1 । बा॒र्ह॒स्प॒त्यम् । च॒रुम् । निरिति॑ । व॒प॒ति॒ । ब्र॒ह्मणः॑ । गृ॒हे । शि॒ति॒पृ॒ष्ठ इति॑ शिति-पृ॒ष्ठः । दक्षि॑णा ।
+बा॒र्ह॒स्प॒त्यम् । च॒रुम् । निरिति॑ । व॒प॒ति॒ । ब्र॒ह्मणः॑ । गृ॒हे । शि॒ति॒पृ॒ष्ठ इति॑ शिति-पृ॒ष्ठः । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -72,7 +72,7 @@ To Brhaspati he offers an oblation in the house of the Brahman (priest); the sac
 
 <details><summary>पद-पाठः</summary>
 
-2 । ऐ॒न्द्रम् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । रा॒ज॒न्य॑स्य । गृ॒हे । ऋ॒ष॒भः । दक्षि॑णा ।
+ऐ॒न्द्रम् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । रा॒ज॒न्य॑स्य । गृ॒हे । ऋ॒ष॒भः । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -103,7 +103,7 @@ To Aditya (he offers) an oblation in the house of the chief wife; the sacrificia
 
 <details><summary>पद-पाठः</summary>
 
-3 । आ॒दि॒त्यम् । च॒रुम् । महि॑ष्यै । गृ॒हे । धे॒नुः । दक्षि॑णा ।
+आ॒दि॒त्यम् । च॒रुम् । महि॑ष्यै । गृ॒हे । धे॒नुः । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -136,7 +136,7 @@ To Nirrti (he offers) an oblation in the house of the neglected wife, made up of
 
 <details><summary>पद-पाठः</summary>
 
-4 । नै॒र्॒ऋ॒तमिति॑ नैः-ऋ॒तम् । च॒रुम् । प॒रि॒वृ॒क्त्या॑ इति॑ परि-वृ॒क्त्यै॑ । गृ॒हे । कृ॒ष्णाना॑म् । व्री॒ही॒णाम् । न॒खनि॑र्भिन्न॒मिति॑ न॒ख-नि॒र्भि॒न्न॒म् । कृ॒ष्णा । कू॒टा । दक्षि॑णा ।
+नै॒र्॒ऋ॒तमिति॑ नैः-ऋ॒तम् । च॒रुम् । प॒रि॒वृ॒क्त्या॑ इति॑ परि-वृ॒क्त्यै॑ । गृ॒हे । कृ॒ष्णाना॑म् । व्री॒ही॒णाम् । न॒खनि॑र्भिन्न॒मिति॑ न॒ख-नि॒र्भि॒न्न॒म् । कृ॒ष्णा । कू॒टा । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -169,7 +169,7 @@ To Agni (he offers) on eight potsherds in the house of the leader of the host; t
 
 <details><summary>पद-पाठः</summary>
 
-5 । आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । से॒ना॒न्य॑ इति॑ सेना-न्यः॑ । गृ॒हे । हिर॑ण्यम् । दक्षि॑णा ।
+आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । से॒ना॒न्य॑ इति॑ सेना-न्यः॑ । गृ॒हे । हिर॑ण्यम् । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -201,7 +201,7 @@ To Varuna (he offers) on ten potsherds in the house of the minstrel; the sacrifi
 
 <details><summary>पद-पाठः</summary>
 
-6 । वा॒रु॒णम् । दश॑कपाल॒मिति॒ दश॑-क॒पा॒ल॒म् । सू॒तस्य॑ । गृ॒हे । म॒हानि॑रष्ट॒ इति॑ म॒हा-नि॒र॒ष्टः॒ । दक्षि॑णा ।
+वा॒रु॒णम् । दश॑कपाल॒मिति॒ दश॑-क॒पा॒ल॒म् । सू॒तस्य॑ । गृ॒हे । म॒हानि॑रष्ट॒ इति॑ म॒हा-नि॒र॒ष्टः॒ । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -231,7 +231,7 @@ To the Maruts (he offers) on seven potsherds in the house of the village headman
 
 <details><summary>पद-पाठः</summary>
 
-7 । मा॒रु॒तम् । स॒प्तक॑पाल॒मिति॑ स॒प्त-क॒पा॒ल॒म् । ग्रा॒म॒ण्य॑ इति॑ ग्राम-न्यः॑ । गृ॒हे । पृश्ञिः॑ । दक्षि॑णा ।
+मा॒रु॒तम् । स॒प्तक॑पाल॒मिति॑ स॒प्त-क॒पा॒ल॒म् । ग्रा॒म॒ण्य॑ इति॑ ग्राम-न्यः॑ । गृ॒हे । पृश्ञिः॑ । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -262,7 +262,7 @@ To Savitr (he offers) on twelve potsherds [1] in the house of the carver; the sa
 
 <details><summary>पद-पाठः</summary>
 
-8 । सा॒वि॒त्रम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । 1 । क्ष॒त्तुः । गृ॒हे । उ॒प॒ध्व॒स्त इत्यु॑प-ध्व॒स्तः । दक्षि॑णा ।
+सा॒वि॒त्रम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । क्ष॒त्तुः । गृ॒हे । उ॒प॒ध्व॒स्त इत्यु॑प-ध्व॒स्तः । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -293,7 +293,7 @@ To the Aśvins (he offers) on two potsherds in the house of the charioteer; the 
 
 <details><summary>पद-पाठः</summary>
 
-2 । आ॒श्वि॒नम् । द्वि॒क॒पा॒लमिति॑ द्वि-क॒पा॒लम् । स॒ङ्ग्र॒ही॒तुरिति॑ सम्-ग्र॒ही॒तुः । गृ॒हे । स॒वा॒त्यौ॑ । दक्षि॑णा ।
+आ॒श्वि॒नम् । द्वि॒क॒पा॒लमिति॑ द्वि-क॒पा॒लम् । स॒ङ्ग्र॒ही॒तुरिति॑ सम्-ग्र॒ही॒तुः । गृ॒हे । स॒वा॒त्यौ॑ । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -325,7 +325,7 @@ To Pusan (he offers) an oblation in the house of the divider; the sacrificial fe
 
 <details><summary>पद-पाठः</summary>
 
-3 । पौ॒ष्णम् । च॒रुम् । भा॒ग॒दु॒घस्येति॑ भाग-दु॒घस्य॑ । गृ॒हे । श्या॒मः । दक्षि॑णा ।
+पौ॒ष्णम् । च॒रुम् । भा॒ग॒दु॒घस्येति॑ भाग-दु॒घस्य॑ । गृ॒हे । श्या॒मः । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -357,7 +357,7 @@ To Rudra (he offers) an oblation of Gavidhuka in the house of the thrower of the
 
 <details><summary>पद-पाठः</summary>
 
-4 । रौ॒द्रम् । गा॒वी॒धु॒कम् । च॒रुम् । अ॒क्षा॒वा॒पस्येत्य॑क्ष-आ॒वा॒पस्य॑ । गृ॒हे । श॒बलः॑ । उद्वा॑र॒ इत्युत्-वा॒रः॒ । दक्षि॑णा ।
+रौ॒द्रम् । गा॒वी॒धु॒कम् । च॒रुम् । अ॒क्षा॒वा॒पस्येत्य॑क्ष-आ॒वा॒पस्य॑ । गृ॒हे । श॒बलः॑ । उद्वा॑र॒ इत्युत्-वा॒रः॒ । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -384,7 +384,7 @@ To Indra, the good protector, he offers a cake on eleven potsherds and to Indra,
 
 <details><summary>पद-पाठः</summary>
 
-5 । इन्द्रा॑य । सु॒त्राम्ण॒ इति॑ सु-त्राम्णे॑ । पु॒रो॒डाश॑म् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । प्रति॑ । निरिति॑ । व॒प॒ति॒ । इन्द्रा॑य । अँ॒हो॒मुच॒ इत्यँ॑हः-मुचे॑ ।
+इन्द्रा॑य । सु॒त्राम्ण॒ इति॑ सु-त्राम्णे॑ । पु॒रो॒डाश॑म् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । प्रति॑ । निरिति॑ । व॒प॒ति॒ । इन्द्रा॑य । अँ॒हो॒मुच॒ इत्यँ॑हः-मुचे॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -441,7 +441,7 @@ There is (an offering) to Mitra and Brhaspati;
 
 <details><summary>पद-पाठः</summary>
 
-6 । मै॒त्रा॒बा॒र्ह॒स्प॒त्यमिति॑ मैत्रा-बा॒र्ह॒स्प॒त्यम् । भ॒व॒ति॒ ।
+मै॒त्रा॒बा॒र्ह॒स्प॒त्यमिति॑ मैत्रा-बा॒र्ह॒स्प॒त्यम् । भ॒व॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -504,7 +504,7 @@ in a dish of Aśvattha wood [2] with four corners (made) of a branch which has f
 
 <details><summary>पद-पाठः</summary>
 
-आश्व॑त्थे । 1 । पात्रे॑ । चतु॑स्स्रक्ता॒विति॒ चतुः॑-स्र॒क्तौ॒ । स्व॒य॒म॒व॒प॒न्नाया॒ इति॑ स्वयम्-अ॒व॒प॒न्नायै॑ । शाखा॑यै ।
+आश्व॑त्थे । पात्रे॑ । चतु॑स्स्रक्ता॒विति॒ चतुः॑-स्र॒क्तौ॒ । स्व॒य॒म॒व॒प॒न्नाया॒ इति॑ स्वयम्-अ॒व॒प॒न्नायै॑ । शाखा॑यै ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -525,7 +525,7 @@ in a dish of Aśvattha wood [2] with four corners (made) of a branch which has f
 कर्णाँ᳓श् चा᳓कर्णाँश्+++(=निष्फलीकृताः)+++ च तण्डुला᳓न् वि᳓ चिनुयात् ।  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>Keith</summary>
 
 he should scatter husked and unhusked rice grains; 
 </details>
@@ -537,7 +537,7 @@ he should scatter husked and unhusked rice grains;
 
 <details><summary>पद-पाठः</summary>
 
-2 । क॒र्णान् । च॒ । अक॑र्णान् । च॒ । त॒ण्डु॒लान् । वीति॑ । चि॒नु॒या॒त् ।
+क॒र्णान् । च॒ । अक॑र्णान् । च॒ । त॒ण्डु॒लान् । वीति॑ । चि॒नु॒या॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -595,7 +595,7 @@ the Vedi must be self-made, the strew self-cut, the kindling-stick self-made; th
 
 <details><summary>पद-पाठः</summary>
 
-3 । स्व॒य॒ङ्कृ॒तेति॑ स्वयम्-कृ॒ता । वेदिः॑ । भ॒व॒ति॒ । स्व॒य॒न्दि॒नमिति॑ स्वयम्-दि॒नम् । ब॒र्हिः । स्व॒य॒ङ्कृ॒त इति॑ स्वयम्-कृ॒तः । इ॒ध्मः । 4 । सा । ए॒व । श्वे॒ता । श्वे॒तव॒त्सेति॑ श्वे॒त-व॒त्सा॒ । दक्षि॑णा ॥
+स्व॒य॒ङ्कृ॒तेति॑ स्वयम्-कृ॒ता । वेदिः॑ । भ॒व॒ति॒ । स्व॒य॒न्दि॒नमिति॑ स्वयम्-दि॒नम् । ब॒र्हिः । स्व॒य॒ङ्कृ॒त इति॑ स्वयम्-कृ॒तः । इ॒ध्मः । सा । ए॒व । श्वे॒ता । श्वे॒तव॒त्सेति॑ श्वे॒त-व॒त्सा॒ । दक्षि॑णा ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

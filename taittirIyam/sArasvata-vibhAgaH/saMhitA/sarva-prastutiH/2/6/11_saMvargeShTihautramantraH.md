@@ -204,7 +204,7 @@ To him, the heavenly, Now with constant voice, O Virupa, To the strong one urge 
 
 <details><summary>पद-पाठः</summary>
 
-तस्मै॑ । नू॒नम् । अ॒भिद्य॑व॒ इत्य॒भि-द्य॒वे॒ । वा॒चा । वि॒रू॒पेति॑ वि-रू॒प॒ । नित्य॑या ॥ वृष्णे॑ । चो॒द॒स्व॒ । सु॒ष्टु॒तिमिति॑ सु-स्तु॒तिम् ॥ 3G ।
+तस्मै॑ । नू॒नम् । अ॒भिद्य॑व॒ इत्य॒भि-द्य॒वे॒ । वा॒चा । वि॒रू॒पेति॑ वि-रू॒प॒ । नित्य॑या ॥ वृष्णे॑ । चो॒द॒स्व॒ । सु॒ष्टु॒तिमिति॑ सु-स्तु॒तिम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -568,7 +568,7 @@ Since we have known of old Of thy help, O Agni, as a father's, Now we seek thy f
 'विद्मा हि त इति'। हे अग्ने यस्मात् पुरा वयं ते तव अवसो रक्षणं विद्म ज्ञातवन्तः। कस्येव, पितुर् यथा। लोके पुरा यथा पितुः पालनं जानन्ति तद्वत्। अध तस्मात् कारणात् ते सुम्नम् ईमहे त्वया संपादितं सुखं प्राप्नुमः।"
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/016/39_ya_ugra.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/016/39_ya_ugra.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -578,6 +578,13 @@ Since we have known of old Of thy help, O Agni, as a father's, Now we seek thy f
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Thou, who art like a mighty man who slayeth with the dart  
+Or a sharp-horned bull,  
+O Agni, hast rent the forts.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/016/39_ya_ugra.md">
 
@@ -981,7 +988,7 @@ He knoweth.
 
 <details><summary>पद-पाठः</summary>
 
-सः । वे॒द॒ । सोमा॑पूष॒णेति॒ सोमा॑-पू॒ष॒णा॒ । 9X । इ॒मौ । दे॒वौ ॥ 
+सः । वे॒द॒ । सोमा॑पूष॒णेति॒ सोमा॑-पू॒ष॒णा॒ । इ॒मौ । दे॒वौ ॥ 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

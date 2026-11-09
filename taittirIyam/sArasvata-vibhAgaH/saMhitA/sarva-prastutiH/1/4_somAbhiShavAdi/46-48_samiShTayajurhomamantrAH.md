@@ -9,7 +9,7 @@ _______
 1समिष्टयजूंषि जुहोति । षडृग्मियाणि जुहोति, त्रीणि यजूंषि । 'यद्वै यज्ञस्य क्रूरम्' इत्यादि ब्राह्मणम्  । तत्र प्रथमा - 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/02_dhAtA_rAtis.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/02_dhAtA_rAtis.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -39,6 +39,11 @@ Wealth with offspring to the sacrificer.
 त्वष्टा॒ विष्णुᳶ॑ प्र॒जया॑ सँररा॒णो यज॑मानाय॒ द्रवि॑णन्दधातु ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+धा॒ता । रा॒तिः । स॒वि॒ता । इ॒दम् । जु॒ष॒न्ता॒म् । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । नि॒धि॒पति॒रिति॑ निधि-पतिः॑ । नः॒ । अ॒ग्निः ॥ त्वष्टा॑ । विष्णुः॑ । प्र॒जयेति॑ प्र-जया॑ । सँ॒र॒रा॒ण इति॑ सम्-र॒रा॒णः । यज॑मानाय । द्रवि॑णम् । द॒धा॒तु॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 धाता रातिरिति त्रिष्टुप् ॥ धाता स्रष्टा, रातिर्दाता सर्वश्रेयसाम् । 'मन्त्रे वृष' इति क्तिन उदात्तत्वम् । सविता सर्वस्य प्रेरयिता अभ्यनुज्ञाता वा प्रजापतिः परमेष्ठी । स एव विशेष्यते - निधिपतिः निधीयन्ते वेदाः पुरुषार्था वाऽस्मिन्निति तेषां पाता रक्षिता निधिपतिः । । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम्, इतरत्र तु 'पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरत्वम् । अग्निस्त्वष्टा विष्णुश्चैते धात्रादयस्सर्वे इदं हविर्जुषन्तां सेवन्ताम् । एते च धात्रादयो यज्ञतनुविशेषा देवता द्रष्टव्याः, यथा 'धाता दीक्षायाम्' इत्यादि । अधुना एत एवैकैकश उच्यन्ते । एष धात्रादिर्देवः प्रजया संरराणः सम्यग्रममाणः प्रजया उत्पत्त्या हेतुना यजमानाय द्रविणं वरिष्ठं प्रजादिं दधातु । रातेस्ताच्छीलिके चानशि शपश्श्लुः, रमतेर्वाऽन्त्यलोपः ॥
@@ -53,7 +58,7 @@ _______
 2अथ द्वितीया - 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/03_samindra_No.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/03_samindra_No.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -83,6 +88,11 @@ With loving kindness of the gods to whom sacrifice is made.
  सम्ब्रह्म॑णा दे॒वकृ॑तय्ँ॒यदस्ति॒ सन्दे॒वानाँ॑ सुम॒त्या य॒ज्ञिया॑नाम् ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । इ॒न्द्र॒ । नः॒ । मन॑सा । ने॒षि॒ । गोभिः॑ । समिति॑ । सू॒रिभि॒रिति॑ सू॒रि-भिः॒ । म॒घ॒व॒न्निति॑ मघ-व॒न् । समिति॑ । स्व॒स्त्या ॥ समिति॑ । ब्रह्म॑णा । दे॒वकृ॑त॒मिति॑ दे॒व-कृ॒त॒म् । यत् । अस्ति॑ । समिति॑ । दे॒वाना॑म् । सु॒म॒त्येति॑ सु-म॒त्या । य॒ज्ञिया॑नाम् ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 समिन्द्र ण इति त्रिष्टुप् ॥ हे इन्द्र नः अस्मान् । छान्दसं सांहितिकं णत्वम् । मनसा प्राणेन समीचीनेन गोभिश्च शब्दैस्स्तुतिलक्षणैश्च सन्नेषि सन्नय संयोजय । मनस्विनो वाग्मिनश्च कुरु त्वां स्तोतुमित्यर्थः । नयतेर्लेटि शपो लुक् । किञ्च - सूरिभिर्विद्वद्भिः होतृप्रभृतिभिस्स्तोत्रकुशलैश्च अस्मान्सन्नेषि हे मघवन् महाघन स्वस्त्या अविनाशेन वा अस्मान्सन्नेसि ।   
@@ -99,7 +109,7 @@ _______
 3अथ तृतीया - 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/04_sav.N_varchasA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/04_sav.N_varchasA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -129,6 +139,11 @@ May he set right whatever is amiss in our bodies.
 त्वष्टा॑ नो॒ अत्र॒ वरि॑वᳵ कृणोतु [46] अनु॑ मार्ष्टु त॒नुवो॒ यद्विलि॑ष्टम् ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । वर्च॑सा । पय॑सा । समिति॑ । त॒नूभिः॑ । अग॑न्महि । मन॑सा । समिति॑ । शि॒वेन॑ ॥ त्वष्टा॑ । नः॒ । अत्र॑ । वरि॑वः । कृ॒णो॒तु॒ । अन्विति॑ । मा॒र्ष्टु॒ । त॒नुवः॑ । यत् । विलि॑ष्ट॒मिति॒ वि-लि॒ष्ट॒म् ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सं वर्चसेति त्रिष्टुप् ॥ वर्चसा बलेन पयसा पालकेन, क्षीरादिना वा वयं समगन्महि सङ्गता भूयास्म । छान्दसो लुङ् । 'मन्त्रे घस' इति च्लेर्लुक्, 'समो गमृच्छि' इत्यात्मनेपदम् । लङि वा ' बहुलं छन्दसि' इति शपो लुक् । तनूभिश्शरीरैश्च शोभनैस्समगन्महि । शिवेन च कल्याणेन च मनसा समगन्महि । त्वष्टा च देवो नः अस्माकं अत्र अस्मिन्कर्मणि अस्मिन्नेव वा जन्मनि वरिवः वरणीयं धनं कृणोतु करोतु । किञ्च - अनुमार्ष्टु शोधयतु च अस्माकं तनुवः शरीरात् यद्विलिष्टं विलग्नं विगुणीकृतकर्मनिमित्तं पापं तत्सर्वं विशोधयतु । लिशेर्विशेर्वा [लिशेर्विपूर्वात्] निष्ठायां 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् ॥
@@ -143,7 +158,7 @@ _______
 8अथ चतुर्थी - 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/05_yad_adya.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/05_yad_adya.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -174,6 +189,11 @@ Come wise and foreseeing one to the sacrifice.
 ऋध॑गया॒डृध॑गु॒ताश॑मिष्ठाᳶ प्रजा॒नन् य॒ज्ञमुप॑याहि वि॒द्वान् ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । अ॒द्य । त्वा॒ । प्र॒य॒तीति॑ प्र-य॒ति । य॒ज्ञे । अ॒स्मिन् । अग्ने॑ । होता॑रम् । अवृ॑णीमहि । इ॒ह ॥ ऋध॑क् । अ॒या॒ट् । ऋध॑क् । उ॒त । अश॑मिष्ठाः । प्र॒जा॒नन्निति॑ प्र-जा॒नन् । य॒ज्ञम् । उपेति॑ । या॒हि॒ । वि॒द्वान् ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यदद्येति त्रिष्टुप् ॥ अद्यास्मिन्नहनि **प्रयति** वर्तमाने अविच्छेदेन वितायमानेस्मिन् **यज्ञे** । 'शतुरनुमः' इति सप्तम्या उदात्तत्वम् ।  
@@ -191,7 +211,7 @@ _______
 5अथ पञ्चमी - 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/06_svagA_vo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/06_svagA_vo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -221,6 +241,11 @@ Ye all, give to us, wealthy ones, wealth.
 ज॒क्षि॒वाँसᳶ॑ पपि॒वाँस॑श्च॒ विश्वे॒ऽस्मे ध॑त्त वसवो॒ वसू॑नि ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+स्व॒गेति॑ स्व-गा । वः॒ । दे॒वाः॒ । सद॑नम् । अ॒क॒र्म॒ । ये । आ॒ज॒ग्मेत्या॑-ज॒ग्म । सव॑ना । इ॒दम् । जु॒षा॒णाः ॥ ज॒क्षि॒वाँसः॑ । प॒पि॒वाँसः॑ । च॒ । विश्वे॑ । अ॒स्मे इति॑ । ध॒त्त॒ । व॒स॒वः॒ । वसू॑नि ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स्वगा व इति त्रिष्टुप् ॥ हे **देवाः वः** युष्माकं **सदनं** स्थानं **स्वगा अकर्म** स्वगाकृतवन्तो वयम् ।  
@@ -238,7 +263,7 @@ _______
 6अथ षष्ठी - 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/07_yAn_Avaha.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/07_yAn_Avaha.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -266,6 +291,11 @@ The rich draught, do ye mount the sky.
 
 यान् आव॑ह उश॒तो दे॑व दे॒वान्तान् [47] प्रेर॑य॒ स्वे अ॑ग्ने स॒धस्थे॑ ।  
 वह॑माना॒ भर॑माणा ह॒वीँषि॒ वसु॑ङ्घ॒र्मन्दिव॒मा ति॑ष्ठ॒ताऽनु॑ ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यान् । एति॑ । अव॑हः । उ॒श॒तः । दे॒व॒ । दे॒वान् । तान् ॥ प्रेति॑ । ई॒र॒य॒ । स्वे । अ॒ग्ने॒ । स॒धस्थ॒ इति॑ स॒ध-स्थे॒ ॥ वह॑मानाः । भर॑माणाः । ह॒वीँषि॑ । वसु॑म् । घ॒र्मम् । दिव॑म् । एति॑ । ति॒ष्ठ॒त॒ । अनु॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -313,6 +343,11 @@ hail!
 स्वाहा॑  ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यज्ञ॑ । य॒ज्ञम् । ग॒च्छ॒ । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म् । ग॒च्छ॒ । स्वाम् । योनि॑म् । ग॒च्छ॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे यज्ञ यज्ञं परमात्मानं विष्णुं गच्छ येन त्वं प्रतिष्ठितस्याः । अनन्तरं यज्ञपतिं यज्ञपालयितारं यजमानं गच्छ फलप्रदानेन । अनन्तरं च स्वात्मात्मीयां योनिं गच्छ, योनिः कारणं सर्वपरिस्पन्दहेतुर्वार्ताख्या परमेश्वरस्य क्रियाशक्तिः । यथा - 'वाताद्वा अध्वर्युर्यज्ञं प्रयुङ्क्ते' इति । तां गच्छ । स्वाहा स्वाहुतमिदमाज्यमग्नयेस्त्विति ॥
@@ -342,6 +377,11 @@ hail!
 <details><summary>मूलम्</summary>
 
 एष ते॑ य॒ज्ञो य॑ज्ञपते स॒हसू॑क्तवाकस्सु॒वीर॒स्स्वाहा॑  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । य॒ज्ञः । य॒ज्ञ॒प॒त॒ इति॑ यज्ञ-प॒ते॒ । स॒हसू॑क्तवाक॒ इति॑ स॒हसू॑क्त-वा॒कः॒ । सु॒वीर॒ इति॑ सु-वीरः॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -383,7 +423,7 @@ O lord of mind, this sacrifice for us (place) among the gods, O god, hail!
 
 <details><summary>पद-पाठः</summary>
 
-देवाः॑ । गा॒तु॒वि॒द॒ इति॑ गातु-वि॒दः॒ । गा॒तुम् । वि॒त्त्वा । गा॒तुम् । इ॒त॒ । 8V । मन॑सः । प॒ते॒ । इ॒मम् । नः॒ । दे॒व॒ । दे॒वेषु॑ । य॒ज्ञम् । स्वाहा॑ ।
+देवाः॑ । गा॒तु॒वि॒द॒ इति॑ गातु-वि॒दः॒ । गा॒तुम् । वि॒त्त्वा । गा॒तुम् । इ॒त॒ । मन॑सः । प॒ते॒ । इ॒मम् । नः॒ । दे॒व॒ । दे॒वेषु॑ । य॒ज्ञम् । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

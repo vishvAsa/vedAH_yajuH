@@ -675,8 +675,8 @@ Aloft his beams now bring the god Who knows all creatures that are born, That al
 
 <details><summary>Keith</summary>
 
-Thee, all-knowing god,
-Thy rays bear upwards,
+Thee, all-knowing god,  
+Thy rays bear upwards,  
 The sun for all to see.
 _________
 His rays bear up the god  

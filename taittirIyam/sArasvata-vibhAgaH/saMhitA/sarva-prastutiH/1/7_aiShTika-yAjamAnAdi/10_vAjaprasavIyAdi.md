@@ -15,7 +15,7 @@ title = "१० वाजप्रसवीयादि"
 तत्राद्यास्तिस्रस्त्रिष्टुभः, अन्त्या अनुष्टुभः ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/02_vAjasyemam_prasavas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/02_vAjasyemam_prasavas.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -45,6 +45,11 @@ May we as Purohitas watch over the kingship.
 ता अ॒स्मभ्य॒म्मधु॑मतीर्भवन्तु व॒यँ रा॒ष्ट्रे जा॑ग्रियाम पु॒रोहि॑ताः  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वाज॑स्य । इ॒मम् । प्र॒स॒व इति॑ प्र-स॒वः । सु॒षु॒वे॒ । अग्रे॑ । सोम॑म् । राजा॑नम् । ओष॑धीषु । अ॒प्स्वित्य॑प्-सु ॥ ताः । अ॒स्मभ्य॒मित्य॒स्म-भ्य॒म् । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । भ॒व॒न्तु॒ । व॒यम् । रा॒ष्ट्रे । जा॒ग्रि॒या॒म॒ । पु॒रोहि॑ता॒ इति॑ पु॒रः-हि॒ताः॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **वाजस्यान्नस्य प्रसव** उत्पत्तिः, उत्पत्तिहेतुर्वा इदं कर्म, देवो वा सविता । **इमं** सोमं राजानं ओषधीष्वप्सु च **सुषुवे** उदपीपदत् आधिपत्येन तासु प्रवर्तयामास । अग्रे प्रथममेव ताः तादृश्यः सोमसम्बन्धा ओषधयः आपश्च अस्मभ्यमस्मदर्थं मधुमतीः मधुमत्यः मुधुरसवत्यो वा भवन्तु । 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम् । वयं च तद्वत्तया राष्ट्रे जाग्रियाम प्रबुध्येमहि अप्रमत्ता भवेम । 'छन्दस्युभयथा ' इत्युभयभावात् 'रिङ्शयग्लिङ्क्षु' सलोपश्च । पुरोहिता धर्मकार्येष्वग्रतः कृताः प्रधानभूता इत्यर्थः । 'पुरोव्ययम्' इति गतित्वात् 'गतिरनन्तरः' इति पूर्वपदपकृतिस्वरत्वम् ॥
@@ -58,7 +63,7 @@ May we as Purohitas watch over the kingship.
 2अथ द्वितीया - 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/03_vAjasyedam_prasava.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/03_vAjasyedam_prasava.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -88,6 +93,11 @@ Increasing offspring and prosperity for us.
 स वि॒राज॒म्पर्ये॑ति प्रजा॒नन्प्र॒जाम्पुष्टिव्ँ॑व॒र्धय॑मानो अ॒स्मे  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वाज॑स्य । इ॒दम् । प्र॒स॒व इति॑ प्र-स॒वः । एति॑ । ब॒भू॒व॒ । इ॒मा । च॒ । विश्वा॑ । भुव॑नानि । स॒र्वतः॑ ॥ सः । वि॒राज॒मिति॑ वि-राज॑म् । परीति॑ । ए॒ति॒ । प्र॒जा॒नन्निति॑ प्र-जा॒नन् । प्र॒जामिति॑ प्र-जाम् । पुष्टि॑म् । व॒र्धय॑मानः । अ॒स्मे इति॑ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वाजस्य प्रसवः प्रसवहेतुः इदं कर्म आ बभूव उदपादि । अनन्तरं चेमानि विश्वानि भुवनानि भूतजातान्या बभूवुः । सर्वतः सर्वेण प्रकारेण । 'शेश्छन्दसि' इति शेर्लोपः । स वाजस्य प्रसवः अन्नं वा कर्म वा विराजं प्रजापति कर्मपक्षे अन्नं पर्येति प्राप्नोति । प्रजानन् प्रजानन्निव मयैतत्कर्तव्यमिति विद्वानिव प्रजां पुष्टिञ्च वर्धयमानः वर्धयितुम् । हेतौ शानच्, अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । अस्मे अस्माकं अस्मदर्थम् । 'सुपां सुलुक्' इति शे आदेशः, उदात्तनिवृत्तिस्वरेण तस्योदात्तत्वम् ॥
@@ -96,7 +106,7 @@ Increasing offspring and prosperity for us.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/04_vAjasyemAm_prasavash.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/04_vAjasyemAm_prasavash.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -126,6 +136,11 @@ And may he accord us wealth [1] with all heroes.
 अदि॑त्सन्तन्दापयतु प्रजा॒नन्र॒यिं [40] च॒ न॒स्सर्व॑वीरा॒न्नि य॑च्छतु  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वाज॑स्य । इ॒माम् । प्र॒स॒व इति॑ प्र-स॒वः । शि॒श्रि॒ये॒ । दिव॑म् । इ॒मा । च॒ । विश्वा॑ । भुव॑नानि । स॒म्राडिति॑ सम्-राट् ॥ अदि॑त्सन्तम् । दा॒प॒य॒तु॒ । प्र॒जा॒नन्निति॑ प्र-जा॒नन् । र॒यिम् । च॒ । नः॒ । सर्व॑वीरा॒मिति॒ सर्व॑-वी॒रा॒म् । नीति॑ । य॒च्छ॒तु॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अथ तृतीया - वाजस्य प्रसवो यथोक्तस्वरूपः इमां दिवं पृथिवीम् । त्रिष्वपि लोकेषु दिव्शब्दो वर्तते । यथा 'तृतीयस्यामितो दिवि' इति । शिश्रिये श्रितवान् इमं लोकं धारयितुम् । अनेन हीहत्यानां स्थितिर्भवति कर्मणा वा वृष्ट्यादिद्वारेण तत इमानि विश्वानि भुवनानि सप्रसवश्शिश्रिये । अन्नेन हि कर्मणा वृष्ट्यादिद्वारेण विश्वेषां भुवनानां स्थितिर्भवति यथा 'तस्मादीतः प्रदानं देवा उप जविन्ति' इति । सम्राट् संहतदीप्तिः नोस्मभ्यं अदित्सन्तं दातुमनिच्छन्तं दापयतु । यो हि दित्सन् भवति स हि स्वयमेव ददाति । प्रजानन् प्रज्ञावानिव अस्मद्विषये प्रवर्तताम् । किञ्च - रयिं धनं च सर्ववीरपुरुषान् नियच्छतु नियमयतु ददातु अस्मासु स्थापयतु वा ॥
@@ -139,7 +154,7 @@ And may he accord us wealth [1] with all heroes.
 4अथ चतुर्थी - अग्न इति ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/05_agne_achChA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/05_agne_achChA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -169,6 +184,11 @@ Thou art the giver of wealth to us.
 प्र णो॑ यच्छ भुवस्पते धन॒दा अ॑सि न॒स्त्वम्  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । अच्छ॑ । व॒द॒ । इ॒ह । नः॒ । प्रतीति॑ । नः॒ । सु॒मना॒ इति॑ सु-मनाः॑ । भ॒व॒ ॥ प्रेति॑ । नः॒ । य॒च्छ॒ । भु॒वः॒ । प॒ते॒ । ध॒न॒दा इति॑ धन-दाः । अ॒सि॒ । नः॒ । त्वम् ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे अग्ने इहास्मिन् कर्मणि नो ऽस्मान् अस्माकं वा इहास्मिन् कर्मणि अच्छवद आभिमुख्येन वद अस्मद्धितं ब्रूहि ।  
@@ -184,7 +204,7 @@ Thou art the giver of wealth to us.
 5अथ पञ्चमी - प्र ण इति ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/06_pra_No.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/06_pra_No.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -214,6 +234,11 @@ May the goddess speech be bountiful to us.
 प्र दे॒वाᳶ प्रोत सू॒नृता॒ प्र वाग्दे॒वी द॑दातु नः  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । नः॒ । य॒च्छ॒तु॒ । अ॒र्य॒मा । प्रेति॑ । भगः॑ । प्रेति॑ । बृह॒स्पतिः॑ ॥ प्रेति॑ । दे॒वाः । प्रेति॑ । उ॒त । सू॒नृता॑ । प्रेति॑ । वाक् । दे॒वी । द॒दा॒तु॒ । नः॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 नः अस्मभ्यमर्यमा प्रयच्छतु यावद्दातव्यं तत्सर्वं ददातु भगश्च, बृहस्पतिश्च देवाश्च । उत अपि च सूनृता प्रियवाक् यज्ञः वाग्देवी सरस्वती च प्रददातु अस्मभ्यम् । बृहस्पतिशब्दे सुट्स्वरावुक्तौ । शोभना च ऋता च सूनृता पृषोदरादिः ॥
@@ -227,7 +252,7 @@ May the goddess speech be bountiful to us.
 6षष्ठी - अर्यमणमिति ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/07_aryamaNam_bRhaspatim.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/07_aryamaNam_bRhaspatim.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -257,6 +282,11 @@ And Savitr the strong.
 वाचव्ँ॒विष्णुँ॒ सर॑स्वतीँ सवि॒तार॑म् [41] च॒ वा॒जिन॑म्  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒र्य॒मण॑म् । बृह॒स्पति॑म् । इन्द्र॑म् । दाना॑य । चो॒द॒य॒ ॥ वाच॑म् । विष्णु॑म् । सर॑स्वतीम् । स॒वि॒तार॑म् । च॒ । वा॒जिन॑म् ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे अग्ने दानाय चोदय अभिमतानि दापय । वाग्ग्रहणं सरस्वतीविशेषणं नदीनिवृत्त्यर्थम् । सवितृविशेषणं वाजिग्रहणम् ॥
@@ -270,7 +300,7 @@ And Savitr the strong.
 7सप्तमी - सोममिति ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/08_somaM_rAjAnav.N.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/08_somaM_rAjAnav.N.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -298,6 +328,11 @@ And Brhaspati, the Brahman (priest).
 
 सोमँ॒ राजा॑नव्ँ॒वरु॑णम॒ग्निम॒न्वार॑भामहे ।  
 आ॒दि॒त्यान् विष्णुँ॒ सूर्य॑म्ब्र॒ह्माण॑ञ्च॒ बृह॒स्पति॑म् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सोम॑म् । राजा॑नम् । वरु॑णम् । अ॒ग्निम् । अ॒न्वार॑भामह॒ इत्य॑नु-आर॑भामहे ॥ आ॒दि॒त्यान् । विष्णु॑म् । सूर्य॑म् । ब्र॒ह्माण॑म् । च॒ । बृह॒स्पति॑म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -343,7 +378,7 @@ with the hands of Pusan.
 
 <details><summary>पद-पाठः</summary>
 
-3M । दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
+दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -379,6 +414,11 @@ with the bond of Sarasvati, of speech, the binder, I anoint thee with the lordsh
 अग्नेस्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि  ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सर॑स्वत्यै । वा॒चः । य॒न्तुः । य॒न्त्रेण॑ । अ॒ग्नेः । त्वा॒ । साम्रा॑ज्ये॒नेति॒ साम्-रा॒ज्ये॒न॒ । अ॒भीति॑ । सि॒ञ्चा॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सरस्वत्यै सरस्वत्याः । षष्ठ्यर्थे चतुर्थी ॥ सरस्वत्या वाचस्सम्बन्धिना यन्तुर्यन्त्रेण यन्तुरप्यन्यस्य यन्त्रणेन यमनेन । सामान्येन वा विवक्ष्यते, यन्त्र्याः वाचस्सरस्वत्याः यन्त्रणेन अग्नेश्च साम्राज्येन त्वामभिषिञ्चामि । सङ्गतं राजतीति सम्राट्, 'मो राजि समः क्वौ', 'गुणवचनब्राह्मणादिभ्यः' इति ष्यञ् ।
@@ -402,6 +442,11 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 बृह॒स्पते॑स्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑स्य । बृह॒स्पतेः॑ । त्वा॒ । साम्रा॑ज्ये॒नेति॒ साम्-रा॒ज्ये॒न॒ । अ॒भीति॑ । सि॒ञ्चा॒मि॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं 'इन्द्रस्य त्वा साम्राज्येन' 'बृहस्पतेस्त्वा साम्राज्येन', इत्येतौ गतौ ॥
@@ -410,3 +455,4 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 </details>
 
 </div>
+

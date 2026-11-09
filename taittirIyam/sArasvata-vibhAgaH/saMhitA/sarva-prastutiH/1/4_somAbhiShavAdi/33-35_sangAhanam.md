@@ -10,7 +10,7 @@ title = "३३-३ सङ्गाहनम्"
 अत्र  33-तः 37 पर्यन्तं संहिताभाष्यं नास्ति । अत्र भास्कराचार्यैर्न व्याख्यातः  । किन्तु आरण्यकभाष्ये ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -37,6 +37,11 @@ Be fullest of help for us.
 भवा॑ नस्स॒प्रथ॑स्तमः ॥ 
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+एति॑ । प्या॒य॒स्व॒ । म॒दि॒न्त॒म॒ । सोम॑ । विश्वा॑भिः । ऊ॒तिभि॒रित्यू॒ति-भिः॒ ॥ भव॑ । नः॒ । स॒प्रथ॑स्तम॒ इति॑ स॒प्रथः॑-त॒मः॒ ॥
+</details>
+
 <details open><summary>भट्टभास्कर-टीका</summary>
 
 **सोम! मदिन्तम!** मादयितृतम! ।  
@@ -49,7 +54,7 @@ Be fullest of help for us.
 
 गायत्री। सोमऋषिः
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -466,6 +471,11 @@ I place thee that hast light.
 ज्योति॑ष्मतीन्त्वा सादयामि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ज्योति॑ष्मतीम् । त्वा॒ । सा॒द॒या॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आत्मज्योतिषो वृत्तिभेदाः ते इष्टकावेन स्तूयन्ते - ज्योतिष्मती प्रशस्तज्योतिः ।
@@ -484,6 +494,11 @@ I place thee that makest light.
 <details><summary>मूलम्</summary>
 
 ज्यो॒ति॒ष्कृत॑न्त्वा सादयामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ज्यो॒ति॒ष्कृत॒मिति॑ ज्योतिः-कृत॑म् । त्वा॒ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -506,6 +521,11 @@ I place thee that findest light.
 ज्यो॒ति॒र्विद॑न्त्वा सादयामि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ज्यो॒ति॒र्विद॒मिति॑ ज्योतिः-विद॑म् । त्वा॒ । सा॒द॒या॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ज्योतिषां लम्भयित्री ।
@@ -524,6 +544,11 @@ I place thee that shinest.
 <details><summary>मूलम्</summary>
 
 भास्व॑तीन्त्वा सादयामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भास्व॑तीम् । त्वा॒ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -546,6 +571,11 @@ I place thee that burnest.
 ज्वल॑न्तीन्त्वा सादयामि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ज्वल॑न्तीम् । त्वा॒ । सा॒द॒या॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ज्वलन्ती अविच्छिन्नप्रकाशा ।
@@ -564,6 +594,11 @@ I place thee that flashest.
 <details><summary>मूलम्</summary>
 
 म॒ल्मला॒भव॑न्तीन्त्वा सादयामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒ल्म॒ला॒भव॑न्ती॒मिति॑ मल्मला-भव॑न्तीम् । त्वा॒ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -586,6 +621,11 @@ I place thee that art aflame.
 दीप्य॑मानान्त्वा सादयामि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+दीप्य॑मानाम् । त्वा॒ । सा॒द॒या॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 दीप्यमाना हृदये आविर्भवन्ती ।
@@ -604,6 +644,11 @@ I place thee that blazest.
 <details><summary>मूलम्</summary>
 
 रोच॑मानान्त्वा सादया॒मि।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रोच॑मानाम् । त्वा॒ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -626,6 +671,11 @@ I place thee that art immortal.
 अज॑स्रान्त्वा  सादयामि  ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अज॑स्राम् । त्वा॒ । सा॒द॒या॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अजस्रा अनुपहिंस्या केनचिदपि ।
@@ -644,6 +694,11 @@ I place thee that hast great light.
 <details><summary>मूलम्</summary>
 
 बृ॒हज्ज्यो॑तिषन्त्वा सादयामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बृ॒हज्ज्यो॑तिष॒मिति॑ बृ॒हत्-ज्यो॒ति॒ष॒म् । त्वा॒ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -666,6 +721,11 @@ I place thee that awakenest.
 बो॒धय॑न्तीन्त्वा सादयामि  ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+बो॒धय॑न्तीम् । त्वा॒ । सा॒द॒या॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 बोधयन्ती दृश्यं प्रकाशयन्ती ।
@@ -684,6 +744,11 @@ I place thee that art awake.
 <details><summary>मूलम्</summary>
 
 जाग्र॑तीन्त्वा सादयामि ॥ [35]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जाग्र॑तीम् । त्वा॒ । सा॒द॒या॒मि॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -28,7 +28,7 @@ To Agni he offers on eight potsherds; the sacrificial fee is gold.
 
 <details><summary>पद-पाठः</summary>
 
-1 । आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । हिर॑ण्यम् । दक्षि॑णा ।
+आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । हिर॑ण्यम् । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -55,7 +55,7 @@ To Indra (he offers) on eleven potsherds; the sacrificial fee is a bull.
 
 <details><summary>पद-पाठः</summary>
 
-2 । ऐ॒न्द्रम् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । ऋ॒ष॒भः । दक्षि॑णा ।
+ऐ॒न्द्रम् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । ऋ॒ष॒भः । दक्षि॑णा ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -77,7 +77,7 @@ To the All-gods (he offers) an oblation; the sacrificial fee is a tawny heifer.
 
 <details><summary>पद-पाठः</summary>
 
-3 । वै॒श्व॒दे॒वमिति॑ वैश्व-दे॒वम् । च॒रुम् । पि॒शङ्गी॑ । प॒ष्ठौ॒ही । दक्षि॑णा ।
+वै॒श्व॒दे॒वमिति॑ वैश्व-दे॒वम् । च॒रुम् । पि॒शङ्गी॑ । प॒ष्ठौ॒ही । दक्षि॑णा ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -99,7 +99,7 @@ To Mitra and Varuna (he offers) clotted curds; the sacrificial fee is a cow.
 
 <details><summary>पद-पाठः</summary>
 
-4 । मै॒त्रा॒व॒रु॒णीमिति॑ मैत्रा-व॒रु॒णीम् । आ॒मिक्षा॑म् । व॒शा । दक्षि॑णा ।
+मै॒त्रा॒व॒रु॒णीमिति॑ मैत्रा-व॒रु॒णीम् । आ॒मिक्षा॑म् । व॒शा । दक्षि॑णा ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -121,7 +121,7 @@ To Brhaspati (he offers) an oblation; the sacrificial fee is a white-backed (ox)
 
 <details><summary>पद-पाठः</summary>
 
-5 । बा॒र्ह॒स्प॒त्यम् । च॒रुम् । शि॒ति॒पृ॒ष्ठ इति॑ शिति-पृ॒ष्ठः । दक्षि॑णा ।
+बा॒र्ह॒स्प॒त्यम् । च॒रुम् । शि॒ति॒पृ॒ष्ठ इति॑ शिति-पृ॒ष्ठः । दक्षि॑णा ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -142,7 +142,7 @@ To the Adityas he sacrifices a sheep in young, to the Maruts a dappled heifer.
 
 <details><summary>पद-पाठः</summary>
 
-6 । आ॒दि॒त्याम् । म॒ल्‌हाम् । ग॒र्भिणी॑म् । एति॑ । ल॒भ॒ते॒ । 7 । मा॒रु॒तीम् । पृश्ञि॑म् । प॒ष्ठौ॒हीम् ।
+आ॒दि॒त्याम् । म॒ल्‌हाम् । ग॒र्भिणी॑म् । एति॑ । ल॒भ॒ते॒ । मा॒रु॒तीम् । पृश्ञि॑म् । प॒ष्ठौ॒हीम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -167,7 +167,7 @@ To the Aśvins and Pusan he offers a cake on twelve potsherds;
 
 <details><summary>पद-पाठः</summary>
 
-8 । अ॒श्विभ्या॒मित्य॒श्वि-भ्या॒म् । पू॒ष्णे । पु॒रो॒डाश॑म् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ ।
+अ॒श्विभ्या॒मित्य॒श्वि-भ्या॒म् । पू॒ष्णे । पु॒रो॒डाश॑म् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -223,7 +223,7 @@ the sacrificial fee is a dry skin bag and a bow with three arrows.
 
 <details><summary>पद-पाठः</summary>
 
-स॒वि॒त्रे । स॒त्यप्र॑सवा॒येति॑ स॒त्य-प्र॒स॒वा॒य॒ । पु॒रो॒डाश॑म् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । 9 । ति॒सृ॒ध॒न्वमिति॑ तिसृ-ध॒न्वम् । शु॒ष्क॒दृ॒तिरिति॑ शुष्क-दृ॒तिः । दक्षि॑णा ॥
+स॒वि॒त्रे । स॒त्यप्र॑सवा॒येति॑ स॒त्य-प्र॒स॒वा॒य॒ । पु॒रो॒डाश॑म् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । ति॒सृ॒ध॒न्वमिति॑ तिसृ-ध॒न्वम् । शु॒ष्क॒दृ॒तिरिति॑ शुष्क-दृ॒तिः । दक्षि॑णा ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

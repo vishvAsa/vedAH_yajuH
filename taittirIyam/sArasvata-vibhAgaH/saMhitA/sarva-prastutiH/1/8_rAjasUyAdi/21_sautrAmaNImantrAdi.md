@@ -17,7 +17,7 @@ title = "२१ सौत्रामणीमन्त्रादि"
 आसरेणावेक्षन् सोमं सम्पादयति - स्वद्वीमिति । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/02_svAdvIn_tvA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/02_svAdvIn_tvA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -44,7 +44,7 @@ the sacrificial fee is the northern drawer of the chariot stand.
 
 <details><summary>पद-पाठः</summary>
 
-1A । स्वा॒द्वीम् । त्वा॒ । स्वा॒दुना॑ । ती॒व्रम् । ती॒व्रेण॑ । अ॒मृता॑म् । अ॒मृते॑न । सृ॒जामि॑ । समिति॑ ।
+स्वा॒द्वीम् । त्वा॒ । स्वा॒दुना॑ । ती॒व्रम् । ती॒व्रेण॑ । अ॒मृता॑म् । अ॒मृते॑न । सृ॒जामि॑ । समिति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -52,14 +52,14 @@ the sacrificial fee is the northern drawer of the chariot stand.
 इयं गायत्री, एकादशकः पादः, अभितस्सप्तकः ॥
 सुराभिप्रायेणाह – स्वाद्वीं स्वादुरसां स्वादुना स्वादुरसेनानेन तीव्रामुत्कृष्टां त्वां तीव्रेनोत्कृष्टेनानेन । यद्वा - उत्कृष्टरसत्वं तीव्रत्वम् । तीव स्थौल्ये, औणाणादिको रप्रत्ययः । अमृतां अमृतत्वहेतुं त्वां अमृतेनामृतत्वहेतुनानेन सोमेन सोमसदृशेन प्रशस्तेन संसृजामि । पादादित्वान्न निहन्यते । 'सोममेवैनां करोति' इत्यादिब्राह्मणम् । यद्वा - सम्यक् सृजामि सोमेन समायुत्य पादयामि । ओदनं करोमि ॥
 </details>
+</details>
+
+</div>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सोमे॑न॒ सोमो॑ऽस्य॒श्विभ्या॑म्पच्यस्व॒ सर॑स्वत्यै पच्य॒स्वेन्द्रा॑य सु॒त्राम्णे॑ पच्यस्व
 </details>
-</details>
-
-</div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -107,7 +107,7 @@ thou art Soma; be ready for the Aśvins, be ready for Sarasvati, be ready for In
 3सुरां पुनाति वालेन - पुनात्विति गायत्र्या ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/03_punAtu_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/03_punAtu_te.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -137,7 +137,7 @@ With the eternal sieve.
 
 <details><summary>पद-पाठः</summary>
 
-2B । पु॒नातु॑ । ते । प॒रि॒स्रुत॒मिति॑ परि-स्रुत॑म् । सोम॑म् । सूर्य॑स्य । दु॒हि॒ता ॥ वारे॑ण । शश्व॑ता । तना॑ ॥
+पु॒नातु॑ । ते । प॒रि॒स्रुत॒मिति॑ परि-स्रुत॑म् । सोम॑म् । सूर्य॑स्य । दु॒हि॒ता ॥ वारे॑ण । शश्व॑ता । तना॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -167,7 +167,7 @@ With the eternal sieve.
 4सोमातिपवितस्य सोम-वामिनो वा पुनाति - वायुरिति गायत्र्या च ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/04_vAyupH_pUtapH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/04_vAyupH_pUtapH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -197,7 +197,7 @@ Indra's dear friend.
 
 <details><summary>पद-पाठः</summary>
 
-3C । वा॒युः । पू॒तः । प॒वित्रे॑ण । प्र॒त्यङ्ङ् । सोमः॑ । अति॑द्रुत॒ इत्यति॑-द्रु॒तः॒ ॥ इन्द्र॑स्य । युज्यः॑ । सखा॑ ॥
+वा॒युः । पू॒तः । प॒वित्रे॑ण । प्र॒त्यङ्ङ् । सोमः॑ । अति॑द्रुत॒ इत्यति॑-द्रु॒तः॒ ॥ इन्द्र॑स्य । युज्यः॑ । सखा॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -218,7 +218,7 @@ Indra's dear friend.
 5सुरा-ग्रहान् गृह्णाति - कुविदङ्गेति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/05_kuvid_anga.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/05_kuvid_anga.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -250,7 +250,7 @@ Who have not gone to the reverential cutting of the straw.
 
 <details><summary>पद-पाठः</summary>
 
-4D । कु॒वित् । अ॒ङ्ग । यव॑मन्त॒ इति॒ यव॑-म॒न्तः॒ । यव॑म् । चि॒त् । यथा॑ । दान्ति॑ । अ॒नु॒पू॒र्वमित्य॑नु-पू॒र्वम् । वि॒यूयेति॑ वि-यूय॑ ॥ इ॒हेहेती॒ह-इ॒ह॒ । ए॒षा॒म् । कृ॒णु॒त॒ । भोज॑नानि । ये । ब॒र्हिषः॑ । नमो॑वृक्ति॒मिति॒ नमः॑-वृ॒क्ति॒म् । न । ज॒ग्मुः ॥
+कु॒वित् । अ॒ङ्ग । यव॑मन्त॒ इति॒ यव॑-म॒न्तः॒ । यव॑म् । चि॒त् । यथा॑ । दान्ति॑ । अ॒नु॒पू॒र्वमित्य॑नु-पू॒र्वम् । वि॒यूयेति॑ वि-यूय॑ ॥ इ॒हेहेती॒ह-इ॒ह॒ । ए॒षा॒म् । कृ॒णु॒त॒ । भोज॑नानि । ये । ब॒र्हिषः॑ । नमो॑वृक्ति॒मिति॒ नमः॑-वृ॒क्ति॒म् । न । ज॒ग्मुः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -266,14 +266,14 @@ Who have not gone to the reverential cutting of the straw.
 सर्वत्र स्थानेस्थाने गृहेगृहे लोकेलोके वा । 'अनुदात्तं च' इति द्वितीयस्य निघातः ।  
 **वियूयेति** यौतेर्ल्यपि छान्दसो दीर्घः । उक्तमेषां भोजनानि कृणुतेति, केषामित्याह - ये बर्हिषो यज्ञस्य **नमोवृक्तिं** नमस्कारनाशनं सान्नस्य[साङ्गस्य]नाशनं **न जमुर्** न गताः ये यज्ञस्य नमस्कारादिकं न नाशयन्ति अस्माकमुपकारिणः तेषां कृणुत । ये पुनर्नाशयन्ति ते त्वनेन विनाश्यन्ताम् । यथोक्तं 'नमोवृक्तिमेवैषां वृङ्क्ते' इति । नमश्शब्दे ऊर्यादिगतित्वात् 'तादौ च निति' इति प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+</div>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ॒श्वि॒नन्धू॒म्रमा ल॑भते सारस्व॒तम्मे॒षमै॒न्द्रमृ॑ष॒भमै॒न्द्रमेका॑दशकपाल॒न्निर्व॑पति सावि॒त्रन्द्वाद॑शकपालव्ँवारु॒णन्दश॑कपालँ॒ सोम॑प्रतीकाᳶ पितरस्तृप्णुत॒ वड॑बा॒ दक्षि॑णा ॥
 </details>
-</details>
-
-</div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -301,7 +301,7 @@ To the Aśvins he sacrifices a dusky (ox), to Sarasvati a ram, to Indra a bull.
 
 <details><summary>पद-पाठः</summary>
 
-5E । आ॒श्वि॒नम् । धू॒म्रम् । एति॑ । ल॒भ॒ते॒ । सा॒र॒स्व॒तम् । मे॒षम् । ऐ॒न्द्रम् । ऋ॒ष॒भम् ।
+आ॒श्वि॒नम् । धू॒म्रम् । एति॑ । ल॒भ॒ते॒ । सा॒र॒स्व॒तम् । मे॒षम् । ऐ॒न्द्रम् । ऋ॒ष॒भम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -335,7 +335,7 @@ To Indra he offers on eleven potsherds, to Savitr on twelve potsherds, to Varuna
 
 <details><summary>पद-पाठः</summary>
 
-6F । ऐ॒न्द्रम् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । सा॒वि॒त्रम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । वा॒रु॒णम् । दश॑कपाल॒मिति॒ दश॑-क॒पा॒ल॒म् ।
+ऐ॒न्द्रम् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । सा॒वि॒त्रम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । वा॒रु॒णम् । दश॑कपाल॒मिति॒ दश॑-क॒पा॒ल॒म् ।
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -360,7 +360,7 @@ O Pitrs, beaded by Soma, rejoice.
 
 <details><summary>पद-पाठः</summary>
 
-7G । सोम॑प्रतीका॒ इति॒ सोम॑-प्र॒ती॒काः॒ । पि॒त॒रः॒ । तृ॒प्णु॒त॒ ।
+सोम॑प्रतीका॒ इति॒ सोम॑-प्र॒ती॒काः॒ । पि॒त॒रः॒ । तृ॒प्णु॒त॒ ।
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -385,7 +385,7 @@ The sacrificial fee is a mare.
 
 <details><summary>पद-पाठः</summary>
 
-8 । वड॑बा । दक्षि॑णा ॥
+वड॑बा । दक्षि॑णा ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

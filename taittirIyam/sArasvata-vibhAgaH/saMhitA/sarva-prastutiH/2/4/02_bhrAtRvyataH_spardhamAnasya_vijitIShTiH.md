@@ -26,6 +26,11 @@ The gods and the Asuras were in conflict; the gods said,
 ते दे॒वा अ॑ब्रुवन् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+दे॒वा॒सु॒रा इति॑ देव-अ॒सु॒राः । सय्यँ॑त्ता॒ इति॒ सम्-य॒त्ताः॒ । आ॒स॒न् । ते । दे॒वाः । अ॒ब्रु॒व॒न् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1 देवासुरा इत्यादि ॥ गतम् । वीर्यावत्तमः, 'अन्येषामपि दृश्यते' इति दीर्घत्वम् ।
@@ -44,6 +49,11 @@ The gods and the Asuras were in conflict; the gods said,
 <details><summary>मूलम्</summary>
 
 यो नो॑ वी॒र्या॑वत्तम॒स्तमनु॑ स॒मार॑भामहा॒ इति॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । नः॒ । वी॒र्या॑वत्तम॒ इति॑ वी॒र्या॑वत्-त॒मः॒ । तम् । अन्विति॑ । स॒मार॑भामहा॒ इति॑ सम्-आर॑भामहै । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -72,6 +82,11 @@ they said to Indra, 'Thou art the strongest of us; let us hold on to thee.' He s
 सो॑ऽब्रवीत् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ते । इन्द्र॑म् । अ॒ब्रु॒व॒न् । त्वम् । वै । नः॒ । वी॒र्या॑वत्तम॒ इति॑ वी॒र्या॑वत्-त॒मः॒ । अ॒सि॒ । त्वाम् । अन्विति॑ । स॒मार॑भामहा॒ इति॑ सम्-आर॑भामहै । इति॑ । सः । अ॒ब्र॒वी॒त् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 त इत्यादि । गतम् ।
@@ -94,6 +109,11 @@ they said to Indra, 'Thou art the strongest of us; let us hold on to thee.' He s
 अथासु॑रान॒भि भ॑विष्य॒थेति॑ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ति॒स्रः । मे॒ । इ॒माः । त॒नुवः॑ । वी॒र्या॑वती॒रिति॑ वी॒र्य॑-व॒तीः॒ । ताः । प्री॒णी॒त॒ । अथ॑ । असु॑रान् । अ॒भीति॑ । भ॒वि॒ष्य॒थ॒ । इति॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं वीर्यावतीरिति । वीर्यवत्यः । पूर्ववद्दीर्घत्वम्, 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम् ।
@@ -114,6 +134,11 @@ They said, 'Name (them).'
 ता वै ब्रू॒हीत्य॑ब्रुवन् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ताः । वै । ब्रू॒हि॒ । इति॑ । अ॒ब्रु॒व॒न् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता वा इत्यादि । अब्रुवन् देवाः ।
@@ -132,6 +157,11 @@ He said, 'This is that which frees from tribulation; this is that which drives a
 <details><summary>मूलम्</summary>
 
 'इ॒यमँ॑हो॒मुग् ', 'इ॒यव्ँवि॑मृ॒धा',+ 'इ॒यमि॑न्द्रि॒याव॑ती' इत्य॑ब्रवीत् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒यम् । अँ॒हो॒मुगित्यँ॑हः-मुक् । इ॒यम् । वि॒मृ॒धेति॑ वि-मृ॒धा । इ॒यम् । इ॒न्द्रि॒याव॒तीती॑न्द्रि॒य-व॒ती॒ । इति॑ । अ॒ब्र॒वी॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -160,6 +190,16 @@ They offered to Indra, the freer from tribulation, a cake on eleven potsherds, t
 त इन्द्रा॑याँहो॒मुचे॑ पुरो॒डाश॒मेका॑दशकपाल॒न्निर॑वपन् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ते । इन्द्रा॑य । अँ॒हो॒मुच॒ इत्यँ॑हः-मुचे॑ । पु॒रो॒डाश॑म् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । निरिति॑ । अ॒व॒प॒न् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2अथ ते देवाः इन्द्रायैतां त्रिहविष्कामिष्टिं निरवपन् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राय वैमृधा᳓ये᳓न्द्रायेन्द्रिया᳓वते य᳓दि᳓न्द्रायाँहोमु᳓चे निर᳓वपन् ।  
@@ -177,6 +217,11 @@ In that they offered to Indra, the freer from tribulation, thereby they were fre
 अँह॑स ए॒व तेना॑मुच्यन्त ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इन्द्रा॑य । वै॒मृ॒धाय॑ । इन्द्रा॑य । इ॒न्द्रि॒याव॑त॒ इती॑न्द्रि॒य-व॒ते॒ । यत् । इन्द्रा॑य । अँ॒हो॒मुच॒ इत्यँ॑हः-मुचे॑ । नि॒रव॑प॒न्निति॑ निः-अव॑पन् । अँह॑सः । ए॒व । तेन॑ । अ॒मु॒च्य॒न्त॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दि᳓न्द्राय वैमृधा᳓य मृ᳓ध एव᳓ ते᳓ना᳓पाघ्नत ।
@@ -190,6 +235,11 @@ in that they offered to Indra, the driver away of foes, thereby they drove away 
 <details><summary>मूलम्</summary>
 
 यदिन्द्रा॑य वैमृ॒धाय॒ मृध॑ ए॒व तेनापा॑घ्नत ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । इन्द्रा॑य । वै॒मृ॒धाय॑ । मृधः॑ । ए॒व । तेन॑ । अपेति॑ । अ॒घ्न॒त॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -207,9 +257,9 @@ in that they offered to Indra, the powerful, thereby they bestowed power upon th
 यदिन्द्रा॑येन्द्रि॒याव॑त इन्द्रि॒यमे॒व तेना॒त्मन्न॑दधत ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-2अथ ते देवाः इन्द्रायैतां त्रिहविष्कामिष्टिं निरवपन् ।
+यत् । इन्द्रा॑य । इ॒न्द्रि॒याव॑त॒ इती॑न्द्रि॒य-व॒ते॒ । इ॒न्द्रि॒यम् । ए॒व । तेन॑ । आ॒त्मन् । अ॒द॒ध॒त॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -227,9 +277,18 @@ They offered a cake on thirty-three potsherds;
 त्रय॑स्त्रिँशत्कपालम्पुरो॒डाश॒न्निर॑वपन् ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+त्रय॑स्त्रिँशत्कपाल॒मिति॒ त्रय॑स्त्रिँशत्-क॒पा॒ल॒म् । पु॒रो॒डाश॑म् । निरिति॑ । अ॒व॒प॒न् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-त्रयस्त्रिंशत्कपालमिति । त्रयाणामेकादशकपालानां त्रयस्त्रिंशत्कपाला भवन्तीति भावः । पुरोडाशमिति च जात्यभिधानम् ।
+त्रयस्त्रिंशत्कपालमिति ।
+
+त्रयाणामेकादशकपालानां त्रयस्त्रिंशत्कपाला भवन्तीति भावः ।
+
+पुरोडाशमिति च जात्यभिधानम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,6 +306,11 @@ the gods are thirty-three;
 त्रय॑स्त्रिँश॒द्वै दे॒वता॒स्ता इन्द्र॑
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+त्रय॑स्त्रिँश॒दिति॒ त्रयः॑-त्रिँ॒श॒त् । वै । दे॒वताः॑ । ताः । इन्द्रः॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्म᳓न्न᳓नु समा᳓रम्भ᳓य᳓त᳓ भू᳓त्यै ।
@@ -262,9 +326,16 @@ verily Indra takes hold of them in himself, for prosperity [2].
 आ॒त्मन्ननु॑ स॒मार॑म्भयत भूत्यै॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+आ॒त्मन् । अन्विति॑ । स॒मार॑म्भयत॒ इति॑ सम्-आर॑म्भयते । भूत्यै॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-आत्मन्निति । आत्मनि गुणभूतानकरोत्, तद्देवानां भूत्यै अभवत् ।
+आत्मन्निति ।
+
+आत्मनि गुणभूतानकरोत्, तद्देवानां भूत्यै अभवत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -280,6 +351,20 @@ That was the highest victory that the gods won over the Asuras.
 <details><summary>मूलम्</summary>
 
 ताव्ँ वाव दे॒वा विजि॑तिमुत्त॒मामसु॑रै॒र्व्य॑जयन्त ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ताम् । वाव । दे॒वाः । विजि॑ति॒मिति॒ वि-जि॒ति॒म् । उ॒त्त॒मामित्यु॑त्-त॒माम् । असु॑रैः । वीति॑ । अ॒ज॒य॒न्त॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विजितिमिति । व्यावृत्तो जयो विजितिः ।
+
+असुरेभ्यो व्यावृत्तामुत्तमां विज्जितिमिति ।
+
+व्यजयन्त प्राप्नुवन्, उत्तममसुरविजयमलभन्तेति यावत् ; गोपोषं पुष्णातीतिवत् सामान्यविशेषाभिप्रायत्वादुभयोः । गतमन्यत् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -299,9 +384,9 @@ He who has foes should in conflict sacrifice with this offering; to Indra, the f
 इन्द्रा॑याँहो॒मुचे॑  पुरो॒डाश॒मेका॑दशकपाल॒न्निर्व॑पेत् ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-विजितिमिति । व्यावृत्तो जयो विजितिः । असुरेभ्यो व्यावृत्तामुत्तमां विज्जितिमिति । व्यजयन्त प्राप्नुवन्, उत्तममसुरविजयमलभन्तेति यावत् ; गोपोषं पुष्णातीतिवत् सामान्यविशेषाभिप्रायत्वादुभयोः । गतमन्यत् ॥
+यः । भ्रातृ॑व्यवा॒निति॒ भ्रातृ॑व्य-वा॒न् । स्यात् । सः । स्पर्ध॑मानः । ए॒तया॑ । इष्ट्या॑ । य॒जे॒त॒ । इन्द्रा॑य । अँ॒हो॒मुच॒ इत्यँ॑हः-मुचे॑ । पु॒रो॒डाश॑म् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । निरिति॑ । व॒पे॒त् ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -324,6 +409,11 @@ to Indra, the driver away of the foe, to Indra, the powerful;
 इन्द्रा॑य वैमृ॒धायेन्द्रा॑येन्द्रि॒याव॑ते ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इन्द्रा॑य । वै॒मृ॒धाय॑ । इन्द्रा॑य । इ॒न्द्रि॒याव॑त॒ इती॑न्द्रि॒य-व॒ते॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँ᳓हसा वा᳓ एष᳓ गृहीतः᳓ ।
@@ -337,6 +427,11 @@ by tribulation is he seized whose foe is superior to him;
 <details><summary>मूलम्</summary>
 
 अँह॑सा॒ वा ए॒ष गृ॑ही॒तः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अँह॑सा । वै । ए॒षः । गृ॒ही॒तः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -354,6 +449,11 @@ in that he offers to Indra, the freer from tribulation, he is freed thereby from
 
 यस्मा॒च्छ्रेया॒न्भ्रातृ॑व्यो॒ यदिन्द्रा॑याँहो॒मुचे॑  नि॒र्वप॑ति ।  
 अँह॑स ए॒व तेन॑ मुच्यते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यस्मा॑त् । श्रेयान्॑ । भ्रातृ॑व्यः । यत् । इन्द्रा॑य । अँ॒हो॒मुच॒ इत्यँ॑हः-मुचे॑ । नि॒र्वप॒तीति॑ निः-वप॑ति । अँह॑सः । ए॒व । तेन॑ । मु॒च्य॒ते॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -376,6 +476,11 @@ by foes is he beset, to whom one of his equals is superior, even [3] if no foe;
 मृ॒धा वा ए॒षो॑ऽभिष॑ण्णो॒ यस्मा॑त्समा॒नेष्व॒न्यश्श्रेया॑नु॒त अभ्रा॑तृव्यः ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मृ॒धा । वै । ए॒षः । अ॒भिष॑ण्ण॒ इत्य॒भि-स॒न्नः॒ । यस्मा॑त् । स॒मा॒नेषु॑ । अ॒न्यः । श्रेयान्॑ । उ॒त । अभ्रा॑तृव्यः ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मृधा वा इत्यादि । समानेषु मध्ये अभ्रातृव्योपि नाम कश्चित् यस्मादन्यश्श्रेयान्प्रशस्यतरो भवति एष खलु मृधा अभिषण्णः संग्रामाभिभूत इव भवति ।
@@ -396,6 +501,16 @@ in that (he offers) to Indra, the driver away of the foe, he smites away thereby
 यदिन्द्रा॑य वैमृ॒धाय॒ मृध॑ ए॒व तेनाप॑ हते ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । इन्द्रा॑य । वै॒मृ॒धाय॑ । मृधः॑ । ए॒व । तेन॑ । अपेति॑ । ह॒ते॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्मादीन्द्राय वैमृधाय निर्वपेत् मृधस्सग्रामानपहन्ति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दि᳓न्द्रायेन्द्रिया᳓वत इन्द्रिय᳓मेव᳓ ते᳓नात्म᳓न्धत्ते ।
@@ -409,6 +524,11 @@ in that (he offers) to Indra, the powerful, he bestows thereby power upon himsel
 <details><summary>मूलम्</summary>
 
 यदिन्द्रा॑येन्द्रि॒याव॑त इन्द्रि॒यमे॒व तेना॒त्मन्ध॑त्ते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । इन्द्रा॑य । इ॒न्द्रि॒याव॑त॒ इती॑न्द्रि॒य-व॒ते॒ । इ॒न्द्रि॒यम् । ए॒व । तेन॑ । आ॒त्मन् । ध॒त्ते॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -426,6 +546,11 @@ he offers a cake on thirty-three potsherds;
 त्रय॑स्त्रिँशत्कपालम्पुरो॒डाश॒न्निर्व॑पति ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+त्रय॑स्त्रिँशत्कपाल॒मिति॒ त्रय॑स्त्रिँशत्-क॒पा॒ल॒म् । पु॒रो॒डाश॑म् । निरिति॑ । व॒प॒ति॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र᳓यस्त्रिँशद्वै᳓ देव᳓तास्ता᳓ एव᳓ य᳓जमान आत्म᳓न्न᳓नु समा᳓रम्भयते भू᳓त्यै ।
@@ -441,9 +566,9 @@ the gods are thirty-three; verily the sacrificer takes hold of them in himself, 
 त्रय॑स्त्रिँश॒द्वै दे॒वता॒स्ता ए॒व यज॑मान आ॒त्मन्ननु॑ स॒मार॑म्भयते॒ भूत्यै॑ ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-तस्मादीन्द्राय वैमृधाय निर्वपेत् मृधस्सग्रामानपहन्ति ॥
+त्रय॑स्त्रिँश॒दिति॒ त्रयः॑-त्रिँ॒श॒त् । वै । दे॒वताः॑ । ताः । ए॒व । यज॑मानः । आ॒त्मन् । अन्विति॑ । स॒मार॑म्भयत॒ इति॑ सम्-आर॑म्भयते । भूत्यै॑ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -468,6 +593,11 @@ Thus is the sacrifice called 'the victorious'; he who knowing thus sacrifices wi
 सा वा ए॒षा विजि॑ति॒र्नामेष्टिः ।  
 य ए॒वव्ँवि॒द्वाने॒तयेष्ट्या॒ यज॑ते ।  
 उत्त॒मामे॒व विजि॑ति॒म्भ्रातृ॑व्येण॒ वि ज॑यते ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सा । वै । ए॒षा । विजि॑ति॒रिति॒ वि-जि॒तिः॒ । नाम॑ । इष्टिः॑ । यः । ए॒वम् । वि॒द्वान् । ए॒तया॑ । इष्ट्या॑ । यज॑ते । उ॒त्त॒मामित्यु॑त्-त॒माम् । ए॒व । विजि॑ति॒मिति॒ वि-जि॒ति॒म् । भ्रातृ॑व्येण । वीति॑ । ज॒य॒ते॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

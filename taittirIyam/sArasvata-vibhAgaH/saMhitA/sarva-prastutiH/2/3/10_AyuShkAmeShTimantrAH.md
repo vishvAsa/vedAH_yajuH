@@ -26,6 +26,11 @@ What went new that became fresh butter;
 यन्नव॒मैत्, तन्नव॑नीतमभवत् ..
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । नव॑म् । ऐ॒त्॒ । तत् । नव॑नीत॒मिति॒ नव॑-नी॒त॒म्॒ । अ॒भ॒व॒त्॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1अथ 'अग्निं वा एतस्य' इत्यादिपञ्चहविरिष्टिर्वक्ष्यते । तस्यामाज्यावेक्षण अनुवर्तयति - यन्नवमैदित्यादि ॥ यत् यस्मात् नवमैत् नवमेव लब्धिं गच्छति उद्धृतमभवत् तस्मान्नवनीतमभवत्, नवनीतं गतम् । उद्धृतमिति । नवनीतम् । दासीभारादिर्द्रष्टव्यः । यद्वा - नवं नीतमस्येति बहुव्रीहिः ।
@@ -46,6 +51,11 @@ what crept that became clarified butter;
 यदस॑र्प॒त् तत्स॒र्पिर॑भवत् ..
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । अस॑र्पत् । तत् । स॒र्पिः । अ॒भ॒व॒त्॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यस्मादसर्पत् विसृतमभवत् तस्मात्सर्पणाद्विसर्पणात् सर्पिरभवत् ।
@@ -64,6 +74,11 @@ that which became firm became ghee.
 <details><summary>मूलम्</summary>
 
 यदध्रि॑यत॒ तद्घृ॒तम॑भवत् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । अध्रि॑यत । तत् । घृ॒तम् । अ॒भ॒व॒त्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -91,6 +106,20 @@ Thou art the breath of the Aśvins;
 अ॒श्विनोः॑ प्रा॒णो॑ऽसि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒श्विनोः॑ । प्रा॒ण इति॑ प्र-अ॒नः । अ॒सि॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2अथोपहोमाः - 'अश्विनोः' इत्यादयश्चत्वारः ॥
+
+अश्विनोः प्राणस्त्वमसि हे यजमान, त[त्व]दधीनजीवनत्वात् ।
+
+प्राणितीति प्राणः, पचाद्यच् । प्राणवायुर्वा । उपचारो वा - अश्विनोः प्राणस्थानीयस्स्त्वमसि यागद्वारेणोपकारकत्वात् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य ते दत्ताम् ।  
@@ -108,6 +137,18 @@ of that to thee let the two give whose breath thou art;
 ययोः॑  प्रा॒णोऽसि॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तस्य॑ । ते । द॒त्ता॒म्॒ । ययोः॑ । प्रा॒ण इति॑ प्र-अ॒नः । असि॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्य तादृशस्य ते तव दत्तां अश्विनौ, कम्? प्राणं, सामर्थ्यात् आयुष्कामेष्टित्वात् ।
+
+कौ? अश्विनौ ययोः प्राणस्त्वमसि, अत आत्मार्थमेव तव प्राणं दत्तामिति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हा ।
@@ -123,9 +164,9 @@ hail!
 स्वाहा॑ ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-2अथोपहोमाः - 'अश्विनोः' इत्यादयश्चत्वारः ॥ अश्विनोः प्राणस्त्वमसि हे यजमान, त[त्व]दधीनजीवनत्वात् । प्राणितीति प्राणः, पचाद्यच् । प्राणवायुर्वा । उपचारो वा - अश्विनोः प्राणस्थानीयस्स्त्वमसि यागद्वारेणोपकारकत्वात् । तस्य तादृशस्य ते तव दत्तां अश्विनौ, कम्? प्राणं, सामर्थ्यात् आयुष्कामेष्टित्वात् । कौ? अश्विनौ ययोः प्राणस्त्वमसि, अत आत्मार्थमेव तव प्राणं दत्तामिति ॥
+स्वाहा॑ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -148,6 +189,16 @@ Thou art the breath of Indra;
 इन्द्र॑स्य प्रा॒णो॑ऽसि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑स्य । प्रा॒ण इति॑ प्र-अ॒नः । अ॒सि॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+3-5इन्द्रस्येत्यादि ॥ समानम् ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य ते ददातु ।  
@@ -167,6 +218,11 @@ of that to thee let him give whose breath thou art;
 स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तस्य॑ । ते । द॒दा॒तु॒ । यस्य॑ । प्रा॒ण इति॑ प्र-अ॒नः । असि॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रा᳓व᳓रुणयोᳶ प्राणो᳙ऽसि ।
@@ -182,6 +238,11 @@ hail!
 मि॒त्रावरु॑णयोᳶ प्रा॒णो॑ऽसि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मि॒त्रावरु॑णयो॒रिति॑ मि॒त्रा-वरु॑णयोः । प्रा॒ण इति॑ प्र-अ॒नः । अ॒सि॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य ते दत्ताम् ।
@@ -195,6 +256,11 @@ Thou art the breath of Mitra and Varuna;
 <details><summary>मूलम्</summary>
 
 तस्य॑ ते दत्ताम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्य॑ । ते । द॒त्ता॒म्॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -214,6 +280,11 @@ of that to thee let them give whose' breath thou art;
 स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ययोः॑ । प्रा॒ण इति॑ प्र-अ॒नः । असि॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वेषान्देवा᳓नाम्प्राणो᳙ऽसि ।
@@ -227,6 +298,11 @@ hail!
 <details><summary>मूलम्</summary>
 
 विश्वे॑षान्दे॒वाना॑म्प्रा॒णो॑ऽसि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्वे॑षाम् । दे॒वाना॑म् । प्रा॒ण इति॑ प्र-अ॒नः । अ॒सि॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -244,6 +320,11 @@ Thou art the breath of the All-gods [1];
 तस्य॑ ते ददतु ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तस्य॑ । ते । द॒द॒तु॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓षाम्प्राणो᳓ऽसि ।
@@ -257,6 +338,11 @@ of that to thee let them give whose breath thou art;
 <details><summary>मूलम्</summary>
 
 येषा॑म्प्रा॒णोऽसि॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+येषा॑म् । प्रा॒ण इति॑ प्र-अ॒नः । असि॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -274,9 +360,9 @@ hail!
 स्वाहा॑ ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-3-5इन्द्रस्येत्यादि ॥ समानम् ॥
+स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -294,6 +380,11 @@ Stream of ghee, path of ambrosia, Given by Indra, presented by the Maruts, Thee 
 
 घृ॒तस्य॒ धारा॑म॒मृत॑स्य॒ पन्था॒मिन्द्रे॑ण द॒त्ताम्प्रय॑ताम्म॒रुद्भिः॑ ।  
 तत्त्वा॒ विष्णु॒ᳶ पर्य॑पश्य॒त्तत्त्वेडा॒ गव्यैर॑यत् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+घृ॒तस्य॑ । धारा॑म् । अ॒मृत॑स्य । पन्था॑म् । इन्द्रे॑ण । द॒त्ताम् । प्रय॑ता॒मिति॒ प्र-य॒ता॒म्॒ । म॒रुद्भि॒रिति॑ म॒रुत्-भिः॒ ॥ तत् । त्वा॒ । विष्णुः॑ । परीति॑ । अ॒प॒श्य॒त्॒ । तत् । त्वा॒ । इडा॑ । गवि॑ । ऐ॒र॒य॒त्॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -325,6 +416,11 @@ Let the god Savitr set thee free for life, for living, with the Pavamana Stoma, 
 उ॒पाँ॒शोर्वी॒र्ये॑ण त्वा॒ +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ जी॒वात॑वे जीवन॒स्यायै॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पा॒व॒मा॒नेन॑ । त्वा॒ । स्तोमे॑न । गा॒य॒त्रस्य॑ । व॒र्त॒न्या । उ॒पाँ॒शोरित्यु॑प-अँ॒शोः । वी॒र्ये॑ण । दे॒वः । त्वा॒ । स॒वि॒ता । उदिति॑ । सृ॒ज॒तु॒ । जी॒वात॑वे । जी॒व॒न॒स्यायै॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7ऋत्विजः पर्याहुः - पावमानेनेत्यादि ॥ हे यजमान त्वां पावमानेन पवमाना बहिष्पवमानादयः तेषां संबन्धिना स्तोमेन स्तवनेन गायत्रस्य छन्दसः वर्तन्या मार्गेण सोमानयनमार्गेण उपांशोः ग्रहस्य वीर्येण त्वामुत्सृजत्विति देवस्सविता त्वामुत्सृजतु आमयान्निर्गमयतु । प्रत्येकान्वयाय त्वेत्यस्यानुवृत्तिः । पावमानेन स्तोमेन त्वामुत्सृजतु गायत्रस्य वर्तन्या त्वामुत्सृजतु, उपांशोर्वीर्येण त्वामुत्सृजत्विति । जीवातवे जीवनहेतवे औषधादयो जीवनस्यायै जीवनप्रदायै । जीवनशब्दात् क्यच्, छन्दस्यसुगागमः, 'अ प्रत्ययात्' इत्यकारप्रत्ययः ॥
@@ -352,6 +448,11 @@ let the god Savitr set thee free for life, for living, [2] with the Brhat and Ra
 बृ॒ह॒द्र॒थ॒न्त॒रयो॑स्त्वा स्तोमे॑न +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ ।  
 त्रि॒ष्टुभो॑ वर्त॒न्या त्वा॒ +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ ।  
 शु॒क्रस्य॑ वी॒र्ये॑ण त्वा॒ +++(दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु )+++ जी॒वात॑वे जीवन॒स्यायै॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बृ॒ह॒द्र॒थ॒न्त॒रयो॒रिति॑ बृहत्-र॒थ॒न्त॒रयोः॑ । त्वा॒ । स्तोमे॑न । त्रि॒ष्टुभः॑ । व॒र्त॒न्या । शु॒क्रस्य॑ । वी॒र्ये॑ण । दे॒वः । त्वा॒ । स॒वि॒ता । उदिति॑ । सृ॒ज॒तु॒ । जी॒वात॑वे । जी॒व॒न॒स्यायै॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -383,6 +484,11 @@ let the god Savitr set thee free with the measure of Agni, with the path of the 
 आ॒ग्र॒य॒णस्य॑ वी॒र्ये॑ण दे॒वस्त्वा॑ सवि॒तोत्सृ॑जतु जी॒वात॑वे जीवन॒स्यायै॑  ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । त्वा॒ । मात्र॑या । जग॑त्यै । व॒र्त॒न्या । आ॒ग्र॒य॒णस्य॑ । वी॒र्ये॑ण । दे॒वः । त्वा॒ । स॒वि॒ता । उदिति॑ । सृ॒ज॒तु॒ । जी॒वात॑वे । जी॒व॒न॒स्यायै॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9अग्नेस्त्वेत्यादि ॥ अग्निमीयते यया सा अग्नेर्मात्रा अग्नेरात्मा अग्नेरात्मस्थानीयमग्निष्टोमसाम यज्ञायज्ञियम् । समानमन्यत् । जगत्या इति षष्ठ्यर्थे चतुर्थी ॥
@@ -393,7 +499,7 @@ let the god Savitr set thee free with the measure of Agni, with the path of the 
 10हिरण्याद्घृतं निष्पिबन्तमनुमन्त्रयते - इममग्न इति । त्रिष्टुबेषा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/02_imamagna_AyuShe.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/02_imamagna_AyuShe.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -408,10 +514,12 @@ let the god Savitr set thee free with the measure of Agni, with the path of the 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_04/02_imamagna_AyuShe.md">
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details><summary>Keith</summary>
 
-इ॒मम॑ग्न॒ आयु॑षे॒ वर्च॑से कृधि प्रि॒यँ रेतो॑ वरुण सोम राजन् ।  
-मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा॒ जर॑दष्टि॒र्यथास॑त् ।
+Him quicken, O Agni, for life, for radiance,  
+Make dear his seed, O Varuna, O Soma, O king;  
+Like a mother, O Aditi, give him protection,  
+O ye All-gods, that he may win old age.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -450,7 +558,7 @@ let the god Savitr set thee free with the measure of Agni, with the path of the 
 अ॒ग्निरायु॑ष्मा॒न्त्स वन॒स्पति॑भि॒रायु॑ष्मा॒न्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि॒ सोम॒ आयु॑ष्मा॒न्त्स ओष॑धीभिर्य॒ज्ञ आयु॑ष्मा॒न्त्स दक्षि॑णाभि॒र्ब्रह्मायु॑ष्म॒त्तद्ब्रा॑ह्म॒णैरायु॑ष्मद्दे॒वा आयु॑ष्मन्त॒स्ते॑ऽमृते॑न पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥ [40]
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 +++(हे यजमान)+++  
@@ -480,7 +588,7 @@ Agni is full of life; he is full of life through the trees; with this life I mak
 </details>
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 सो᳓म आ᳓युष्मान् स᳓ ओ᳓षधीभिर् [आ᳓युष्मान् ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
@@ -502,7 +610,7 @@ Soma is full of life; he is (full) through the plants;
 </details>
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 +++(हे यजमान)+++ यज्ञ᳓ [आ᳓युष्मान्], स᳓ द᳓क्षिणाभिर् आ᳓युष्मान्, [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
@@ -524,7 +632,7 @@ the sacrifice is full of life; it is (full) through the sacrificial fees;
 </details>
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 +++(हे यजमान)+++ ब्र᳓ह्मा᳓युष्मत्, त᳓द्ब्राह्मणै᳓रा᳓युष्मत् , [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
@@ -546,7 +654,7 @@ the Brahman is full of life; that is full of life through the Brahmans;
 </details>
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/09_devA_AyuShmantaH_amRutena.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/09_devA_AyuShmantaH_amRutena.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
 +++(हे यजमान)+++ देवा᳓ आ᳓युष्मन्तः।  
@@ -597,6 +705,11 @@ the Pitrs are full of life; they are full of life through the Svadha-call with t
 पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । आयु॑ष्मान् । सः । वन॒स्पति॑भि॒रिति॒ वन॒स्पति॑-भिः॒ । आयु॑ष्मान् । तेन॑ । त्वा॒ । आयु॑षा । आयु॑ष्मन्तम् । क॒रो॒मि॒ । सोमः॑ । आयु॑ष्मान् । सः । ओष॑धीभि॒रित्योष॑धि-भिः॒ । य॒ज्ञः । आयु॑ष्मान् । सः । दक्षि॑णाभिः । ब्रह्म॑ । आयु॑ष्मत् । तत् । ब्रा॒ह्म॒णैः । आयु॑ष्मत् । दे॒वाः । आयु॑ष्मन्तः । ते । अ॒मृते॑न । पि॒तरः॑ । आयु॑ष्मन्तः । ते । स्व॒धयेति॑ स्व-धया॑ । आयु॑ष्मन्तः । तेन॑ । त्वा॒ । आयु॑षा । आयु॑ष्मन्तम् । क॒रो॒मि॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अग्निरायुष्मान् दीर्घायुः । स वनस्पतिभिरायुष्मान् तैर्हेतुभिस्तैर्वासह । तेनायुषा उभयेनायुषा त्वामायुष्मन्तं करोमि दीर्घायुषं करोमि । हे यजमान सोमादिषु 'आयुष्मान्तेन' इत्याद्यनुषज्यते । सोम ओषधीभिः, यज्ञो दक्षिणाभिः ब्रह्म ब्राह्मणैः, देवा अमृतेन, पितरस्स्वधया ॥
@@ -614,8 +727,18 @@ the Pitrs are full of life; they are full of life through the Svadha-call with t
 
 </details>
 
+<details><summary>Keith</summary>
+
+The Pitrs are full of life; they are full of life through the Svadha-call; with this life I make thee full of life.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पि॒तर॒ आयु॑ष्मन्तः,
 ते स्व॒धयायु॑ष्मन्तः॒, तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पि॒तरः॑ । आयु॑ष्मन्तः । ते । स्व॒धयेति॑ स्व-धया॑ । आयु॑ष्मन्तः । तेन॑ । त्वा॒ । आयु॑षा । आयु॑ष्मन्तम् । क॒रो॒मि॒ ॥
 </details>

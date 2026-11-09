@@ -2312,14 +2312,6 @@ What nourishes our kine and horses;
 May he be [2] favourable to such as we are.
 </details>
 
-<details><summary>Keith</summary>
-
-O lord of the field, the honey-bearing wave,  
-As a cow milk, so for us milk;  
-May the lords of right graciously accord us  
-That which drops honey and is well purified like ghee.
-</details>
-
 <details><summary>Geldner</summary>
 
 Durch den Herrn der Flur gewinnen wir wie durch einen guten Freund eine Flur, die Rind und Roß nährt. Möge er unsereinem gnädig sein.
@@ -2367,6 +2359,14 @@ ____
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+O lord of the field, the honey-bearing wave,  
+As a cow milk, so for us milk;  
+May the lords of right graciously accord us  
+That which drops honey and is well purified like ghee.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/057/02_xetrasya_pate.md">
 

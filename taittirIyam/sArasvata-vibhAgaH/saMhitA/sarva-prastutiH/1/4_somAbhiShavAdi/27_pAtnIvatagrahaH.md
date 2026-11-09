@@ -16,7 +16,7 @@ _______
 बृह॒स्पति॑सुतस्य त इन्दो इन्द्रि॒याव॑त॒ᳶ पत्नी॑वन्त॒ङ्ग्रह॑ङ्गृह्णा॒मि ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/27_pAtnIvatagrahaH/02_bRhaspatisutasya_ta.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/27_pAtnIvatagrahaH/02_bRhaspatisutasya_ta.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -42,6 +42,11 @@ I draw the cup connected with the wives.
 
 बृह॒स्पति॑सुतस्य त इन्द्रो इन्द्रि॒याव॑तः ।  
 पत्नी॑वन्त॒ङ्ग्रह॑ङ्गृह्णा॒मि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बृह॒स्पति॑सुत॒स्येति॒ बृह॒स्पति॑-सु॒त॒स्य॒ । ते॒ । इ॒न्दो॒ इति॑ । इ॒न्द्रि॒याव॑त॒ इती॑न्द्रि॒य-व॒तः॒ । पत्नी॑वन्त॒मिति॒ पत्नी॑-व॒न्त॒म् । ग्रह॑म् । गृ॒ह्णा॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -79,6 +84,11 @@ O Agni, with the wives, in unison with the god Tvastr, drink the Soma, hail.
 <details><summary>मूलम्</summary>
 
 अग्ना३इ पत्नी॒वा३स् स॒जूर् दे॒वेन॒ त्वष्ट्रा॑ सोम॑म्पिब॒ स्वाहा॑ ॥ [28]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ना(३)इ । पत्नी॒वा(३) इति॒ पत्नी॑-वा(३)ः । स॒जूरिति॑ स-जूः । दे॒वेन॑ । त्वष्ट्रा॑ । सोम॑म् । पि॒ब॒ । स्वाहा॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -15,6 +15,11 @@ _______
 विभू᳓र् असि प्रवा᳓हणः। 
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the expanding, the carrier.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒भूर॑सि प्र॒वाह॑णः।

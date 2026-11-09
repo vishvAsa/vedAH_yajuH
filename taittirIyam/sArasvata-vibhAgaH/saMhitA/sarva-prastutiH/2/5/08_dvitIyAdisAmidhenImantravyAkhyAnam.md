@@ -14,7 +14,7 @@ title = "०८ द्वितीयादि-सामिधेनी-मन�
 अ᳓यज्ञो वा᳓ एष᳓ यो᳙ऽसामा᳓ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Without a Saman there is no sacrifice.
 </details>
@@ -47,7 +47,7 @@ Without a Saman there is no sacrifice.
 अ᳓ग्न आ᳓ याहि वीत᳓य इ᳓त्य् आह।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'O Agni, come hither for the feast', he says;
 </details>
@@ -57,12 +57,24 @@ Without a Saman there is no sacrifice.
 अग्न॒ आ या॑हि वी॒तय॒ इत्या॑ह।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । एति॑ । या॒हि॒ । वी॒तये॑ । इति॑ । आ॒ह॒ ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+यद्यप्येता ऋचो रथंतरादिनां योनयो न भवन्ति  
+तथाऽपि स्तुतितत्वात्तद्रूपत्वमविरुद्धम्।  
+शाखान्तरे वा तास्वृक्षु गीतानि सामानि द्रष्टव्यानि।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथन्तर᳓स्यैष᳓ व᳓र्णः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 this is the character of the Rathantara.
 </details>
@@ -74,20 +86,12 @@ this is the character of the Rathantara.
 
 <details><summary>पद-पाठः</summary>
 
-अग्ने॑ । एति॑ । या॒हि॒ । वी॒तये॑ । इति॑ । आ॒ह॒ ।  
 र॒थ॒न्त॒रस्येति॑ रथम्-त॒रस्य॑ । ए॒षः । वर्णः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 रथन्तरस्येति । पूर्ववत्प्राथम्यादिना रथन्तरादिरूपत्वं तिसृणामृचाम् । 'वामदेवाड्ड्यड्यौ' ।
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-यद्यप्येता ऋचो रथंतरादिनां योनयो न भवन्ति  
-तथाऽपि स्तुतितत्वात्तद्रूपत्वमविरुद्धम्।  
-शाखान्तरे वा तास्वृक्षु गीतानि सामानि द्रष्टव्यानि।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -102,7 +106,7 @@ this is the character of the Rathantara.
 "त᳓न् त्वा समि᳓द्भिरङ्गिर!" इ᳓त्याह ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Thee with the kindling-sticks, O Angiras', he says;
 </details>
@@ -112,12 +116,17 @@ this is the character of the Rathantara.
 तन्त्वा॑ स॒मिद्भि॑रङ्गिर॒ इत्या॑ह ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तम् । त्वा॒ । स॒मिद्भि॒रिति॑ स॒मित्-भिः॒ । अ॒ङ्गि॒रः॒ । इति॑ । आ॒ह॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वामदेव्य᳓स्यैष᳓ व᳓र्णः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 this is the character of the Vamadevya.
 </details>
@@ -129,7 +138,7 @@ this is the character of the Vamadevya.
 
 <details><summary>पद-पाठः</summary>
 
-तम् । त्वा॒ । स॒मिद्भि॒रिति॑ स॒मित्-भिः॒ । अ॒ङ्गि॒रः॒ । इति॑ । आ॒ह॒ । वा॒म॒दे॒व्यस्येति॑ वाम-दे॒व्यस्य॑ । ए॒षः । वर्णः॑ ।
+वा॒म॒दे॒व्यस्येति॑ वाम-दे॒व्यस्य॑ । ए॒षः । वर्णः॑ ।
 </details>
 
 ### बृह᳓द् अग्ने सुवी᳓र्यम्
@@ -139,7 +148,7 @@ this is the character of the Vamadevya.
 बृह᳓द् अग्ने सुवी᳓र्यम् इ᳓त्याह ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'The great and powerful one, O Agni', he says.
 </details>
@@ -149,24 +158,9 @@ this is the character of the Vamadevya.
 बृ॒हद॑ग्ने सु॒वीर्य॒मित्या॑ह ।
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः</summary>
-
-बृहत᳓ एष᳓ व᳓र्णः ।
-</details>
-
-<details><summary>English</summary>
-
-This is the character of the Brhat.
-</details>
-
-<details><summary>मूलम्</summary>
-
-बृ॒ह॒त ए॒ष वर्णः॑ ।
-</details>
-
 <details><summary>पद-पाठः</summary>
 
-बृ॒हत् । अ॒ग्ने॒ । सु॒वीर्य॒मिति॑ सु-वीर्य॑म् । इति॑ । आ॒ह॒ । बृ॒ह॒तः । ए॒षः । वर्णः॑ ।
+बृ॒हत् । अ॒ग्ने॒ । सु॒वीर्य॒मिति॑ सु-वीर्य॑म् । इति॑ । आ॒ह॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -179,13 +173,33 @@ This is the character of the Brhat.
 बृहदग्न इति तृतीयपादोपादानं बृहत्सामद्योतकस्य बृहच्छब्दस्य प्रदर्शनार्थम्।
 </details>
 
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+बृहत᳓ एष᳓ व᳓र्णः ।
+</details>
+
+<details><summary>Keith</summary>
+
+This is the character of the Brhat.
+</details>
+
+<details><summary>मूलम्</summary>
+
+बृ॒ह॒त ए॒ष वर्णः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बृ॒ह॒तः । ए॒षः । वर्णः॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् एत᳓न् तृच᳓म् अन्वा᳓ह …
  ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 In that he repeats this Trca,
 </details>
@@ -210,7 +224,7 @@ In that he repeats this Trca,
 यज्ञ᳓म् एव᳓ त᳓त् सा᳓मन्वन्तङ् करोति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 he makes the sacrifice have Samans.
 </details>
@@ -248,7 +262,7 @@ he makes the sacrifice have Samans.
 आदि᳓त्यो ऽस्मिन् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Agni was in yonder world, the sun in this;
 </details>
@@ -259,26 +273,9 @@ Agni was in yonder world, the sun in this;
 आ॒दित्यो॑ऽस्मिन् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ता᳓व् इमौ᳓ लोका᳓व् अ᳓शान्ताव् आस्ताम् ।
-</details>
-
-<details><summary>English</summary>
-
-these worlds were disturbed [1].
-</details>
-
-<details><summary>मूलम्</summary>
-
-तावि॒मौ लो॒कावशा॑न्तावास्ताम् ।
-</details>
-
 <details><summary>पद-पाठः</summary>
 
-अ॒ग्निः । अ॒मुष्मि॑न् । लो॒के । आसी॑त् ।  
-आ॒दि॒त्यः । अ॒स्मि॒न् ।  
-तौ । इ॒मौ । लो॒कौ । अशा॑न्तौ । आ॒स्ता॒म् ।
+अ॒ग्निः । अ॒मुष्मि॑न् । लो॒के । आसी॑त् । आ॒दि॒त्यः । अ॒स्मि॒न्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -294,11 +291,31 @@ these worlds were disturbed [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+ता᳓व् इमौ᳓ लोका᳓व् अ᳓शान्ताव् आस्ताम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+these worlds were disturbed [1].
+</details>
+
+<details><summary>मूलम्</summary>
+
+तावि॒मौ लो॒कावशा॑न्तावास्ताम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तौ । इ॒मौ । लो॒कौ । अशा॑न्तौ । आ॒स्ता॒म्॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ते᳓ देवा᳓ अब्रुवन् ।   
 ए᳓तेमौ᳓ वि᳓ प᳓र्यूहामे᳓ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 The gods said, 'Let us change them about.'
 </details>
@@ -311,8 +328,7 @@ The gods said, 'Let us change them about.'
 
 <details><summary>पद-पाठः</summary>
 
-ते । दे॒वाः । अ॒ब्रु॒व॒न् ।   
-एति॑ । इ॒त॒ । इ॒मौ । वि । परीति॑ । ऊ॒हा॒म॒ । इति॑ ।
+ते । दे॒वाः । अ॒ब्रु॒व॒न्॒ । एति॑ । इ॒त॒ । इ॒मौ । वि । परीति॑ । ऊ॒हा॒म॒ । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -332,7 +348,7 @@ The gods said, 'Let us change them about.'
 अस्मिल्ँ᳓ लोके᳙ऽग्नि᳓मदधुः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 (Saying), 'O Agni, come hither for the feast', they placed Agni in this world,
 </details>
@@ -362,7 +378,7 @@ The gods said, 'Let us change them about.'
 "बृह᳓द् अग्ने सुवी᳓र्यम्" इ᳓त्य् अमु᳓ष्मिल्ँ लोक᳓ आदित्य᳓म् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 and (saying),'The great and powerful one, O Agni', they placed the sun in yonder world.
 </details>
@@ -372,12 +388,33 @@ and (saying),'The great and powerful one, O Agni', they placed the sun in yonder
 बृ॒हद॑ग्ने सु॒वीर्य॒मित्य॒मुष्मिल्ँ॑ लो॒क आ॑दि॒त्यम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+बृ॒हत् । अ॒ग्ने॒ । सु॒वीर्य॒मिति॑ सु-वीर्य॑म् । इति॑ । अ॒मुष्मि॑न् । लो॒के । आ॒दि॒त्यम् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+बृहदग्न इति । विवासनकारित्वमादित्यात्मन एव ।
+
+अग्नेरिति । तस्योच्चैरवस्थानलिङ्गविशेषः । ऋचस्तृतीयत्वात् तृतीयलोकपरिग्रहः ।
+
+तत्र तृतीयदेशत्वम् ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+बृहदग्ने सुवीर्यमित्यस्यामृचि विवाससीति विभातत्वोक्तिलिङ्गदृचस्तृतीयत्वाच्चास्यास्तृतीयलोके स्थापनहेतुत्वं गम्यते। यद्यप्यादित्यो नास्मिन्मन्त्रे श्रुतस्तथाऽप्युच्चैःस्थानवृत्तित्वकारित्वेन विभातत्वेनाऽऽदित्यः श्रूयते।
+
+किंच, हंसमन्त्रवसान ऋतं बृहदित्यादित्यमणडलपरत्वेन श्रुतो बृहच्छब्दोऽत्रापि श्रूयमाण आदित्यस्य प्रत्यभिज्ञापकः। तस्मात्तेन मम्त्रेणाऽऽदित्यस्थापनं सिध्यति। अनयोर्विपर्यावृत्त्या लोकयेः स्वस्वकार्यसिद्धेर्युक्ता शान्तिः।
+</details>
+
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वा᳓ इमौ᳓ लोका᳓व् अशाम्यताम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Then indeed these worlds became calm.
 </details>
@@ -389,17 +426,7 @@ Then indeed these worlds became calm.
 
 <details><summary>पद-पाठः</summary>
 
-बृ॒हत् । अ॒ग्ने॒ । सु॒वीर्य॒मिति॑ सु-वीर्य॑म् । इति॑ । अ॒मुष्मि॑न् । लो॒के । आ॒दि॒त्यम् । 5 । ततः॑ । वै । इ॒मौ । लो॒कौ । अ॒शा॒म्य॒ता॒म् । 6 ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-बृहदग्न इति । विवासनकारित्वमादित्यात्मन एव । अग्नेरिति । तस्योच्चैरवस्थानलिङ्गविशेषः । ऋचस्तृतीयत्वात् तृतीयलोकपरिग्रहः । तत्र तृतीयदेशत्वम् ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-बृहदग्ने सुवीर्यमित्यस्यामृचि विवाससीति विभातत्वोक्तिलिङ्गदृचस्तृतीयत्वाच्चास्यास्तृतीयलोके स्थापनहेतुत्वं गम्यते। यद्यप्यादित्यो नास्मिन्मन्त्रे श्रुतस्तथाऽप्युच्चैःस्थानवृत्तित्वकारित्वेन विभातत्वेनाऽऽदित्यः श्रूयते। किंच, हंसमन्त्रवसान ऋतं बृहदित्यादित्यमणडलपरत्वेन श्रुतो बृहच्छब्दोऽत्रापि श्रूयमाण आदित्यस्य प्रत्यभिज्ञापकः। तस्मात्तेन मम्त्रेणाऽऽदित्यस्थापनं सिध्यति। अनयोर्विपर्यावृत्त्या लोकयेः स्वस्वकार्यसिद्धेर्युक्ता शान्तिः।
+ततः॑ । वै । इ॒मौ । लो॒कौ । अ॒शा॒म्य॒ता॒म्॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -407,7 +434,7 @@ Then indeed these worlds became calm.
 य᳓द् एव᳓म् अन्वा᳓हान᳓योर् लोक᳓योश् शा᳓न्त्यै
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 In that he repeats (it) thus, (it serves) for the calming of these worlds;
 </details>
@@ -417,12 +444,22 @@ In that he repeats (it) thus, (it serves) for the calming of these worlds;
 यदे॒वम॒न्वाहा॒नयो॑र्लो॒कयो॒श्शान्त्यै॒
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । ए॒वम् । अ॒न्वाहेत्य॑नु-आह॑ । अ॒नयोः॑ । लो॒कयोः॑ । शान्त्यै॑ ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तस्मादनेन क्रमेण पाठो लोकयोः शान्त्यै भवति। तद्वेदितुश्च तदुभयशान्तिर्भवति।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शा᳓म्यतो ऽस्मा᳓ इमौ᳓ लोकौ᳓ य᳓ एवव्ँ᳓ वे᳓द᳓।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 these worlds become calm for him who knows thus.
 </details>
@@ -434,12 +471,7 @@ these worlds become calm for him who knows thus.
 
 <details><summary>पद-पाठः</summary>
 
-यत् । ए॒वम् । अ॒न्वाहेत्य॑नु-आह॑ । अ॒नयोः॑ । लो॒कयोः॑ । शान्त्यै॑ । 7 । शाम्य॑तः । अ॒स्मै॒ । इ॒मौ । लो॒कौ । यः । ए॒वम् । वेद॑
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-तस्मादनेन क्रमेण पाठो लोकयोः शान्त्यै भवति। तद्वेदितुश्च तदुभयशान्तिर्भवति।
+शाम्य॑तः । अ॒स्मै॒ । इ॒मौ । लो॒कौ । यः । ए॒वम् । वेद॑ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -454,7 +486,7 @@ these worlds become calm for him who knows thus.
 प᳓ञ्चदश सामिधेनी᳓र᳓न्वाह ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He repeats fifteen Samidhenis [2].
 </details>
@@ -466,7 +498,7 @@ He repeats fifteen Samidhenis [2].
 
 <details><summary>पद-पाठः</summary>
 
-पञ्च॑द॒शेति॒ पञ्च॑-द॒श॒ । सा॒मि॒धे॒नीरिति॑ साम्-इ॒धे॒नीः । अन्विति॑ । आ॒ह॒ । 9 ।  
+पञ्च॑द॒शेति॒ पञ्च॑-द॒श॒ । सा॒मि॒धे॒नीरिति॑ साम्-इ॒धे॒नीः । अन्विति॑ । आ॒ह॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -481,7 +513,7 @@ He repeats fifteen Samidhenis [2].
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 The nights of the half-month are fifteen;
 </details>
@@ -493,7 +525,7 @@ The nights of the half-month are fifteen;
 
 <details><summary>पद-पाठः</summary>
 
-पञ्च॑द॒शेति॒ पञ्च॑-द॒श॒ । [45] 1 । वै । अ॒र्ध॒मा॒सस्येत्य॑र्ध-मा॒सस्य॑ । रात्र॑यः ।  
+पञ्च॑द॒शेति॒ पञ्च॑-द॒श॒ । वै । अ॒र्ध॒मा॒सस्येत्य॑र्ध-मा॒सस्य॑ । रात्र॑यः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -506,7 +538,7 @@ The nights of the half-month are fifteen;
 अर्धमासश᳓स् सव्ँवत्सर᳓ आप्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 the year is made up of half-months.
 </details>
@@ -518,7 +550,7 @@ the year is made up of half-months.
 
 <details><summary>पद-पाठः</summary>
 
-अ॒र्ध॒मा॒स॒श इत्य॑र्धमास-शः । सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रः । आ॒प्य॒ते॒ । 3 ।
+अ॒र्ध॒मा॒स॒श इत्य॑र्धमास-शः । सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रः । आ॒प्य॒ते॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -531,7 +563,7 @@ the year is made up of half-months.
 ता᳓सानन् त्री᳓णि च शता᳓नि षष्टि᳓श् चाक्ष᳓राणि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 There are three hundred and sixty syllables in the Samidhenis;
 </details>
@@ -543,7 +575,7 @@ There are three hundred and sixty syllables in the Samidhenis;
 
 <details><summary>पद-पाठः</summary>
 
-तासा॑म् । त्रीणि॑ । च॒ । श॒तानि॑ । ष॒ष्टिः । च॒ । अ॒क्षरा॑णि । 4 ।
+तासा॑म् । त्रीणि॑ । च॒ । श॒तानि॑ । ष॒ष्टिः । च॒ । अ॒क्षरा॑णि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -556,7 +588,7 @@ There are three hundred and sixty syllables in the Samidhenis;
 ताव᳓तीस् सव्ँवत्सर᳓स्य रा᳓त्रयः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 there are as many nights in the year;
 </details>
@@ -568,7 +600,7 @@ there are as many nights in the year;
 
 <details><summary>पद-पाठः</summary>
 
-ताव॑तीः । सव्ँ॒व॒त्स॒रस्येति॑ सम्-व॒त्स॒रस्य॑ । रात्र॑यः । 5 ।
+ताव॑तीः । सव्ँ॒व॒त्स॒रस्येति॑ सम्-व॒त्स॒रस्य॑ । रात्र॑यः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -586,7 +618,7 @@ there are as many nights in the year;
 अक्ष᳓रश ए᳓व सव्ँवत्सर᳓म् आप्नोति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 verily by syllables he obtains the year.
 </details>
@@ -619,7 +651,7 @@ verily by syllables he obtains the year.
 नृमे᳓धश् च प᳓रुच्छेपश् च ब्रह्मवा᳓द्यम् अवदेताम् ।   
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Nrmedha and Paruchepa had a theological dispute (and said),
 </details>
@@ -631,7 +663,7 @@ Nrmedha and Paruchepa had a theological dispute (and said),
 
 <details><summary>पद-पाठः</summary>
 
-नृ॒मेध॒ इति॑ नृ-मेधः॑ । च॒ । परु॑च्छेपः । च॒ । ब्र॒ह्म॒वाद्य॒मिति॑ ब्रह्म-वाद्य॑म् । अ॒व॒दे॒ता॒म् । 7 ।
+नृ॒मेध॒ इति॑ नृ-मेधः॑ । च॒ । परु॑च्छेपः । च॒ । ब्र॒ह्म॒वाद्य॒मिति॑ ब्रह्म-वाद्य॑म् । अ॒व॒दे॒ता॒म्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -650,7 +682,7 @@ Nrmedha and Paruchepa had a theological dispute (and said),
 > अस्मि᳓न् दा᳓राव् आर्द्रे᳙ ऽग्नि᳓ञ् जनयाव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Let us generate fire in the dry wood (to see)
 </details>
@@ -672,7 +704,7 @@ Nrmedha and Paruchepa had a theological dispute (and said),
 इ᳓ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 which of us two is the more of a theologian.'
 </details>
@@ -707,7 +739,7 @@ which of us two is the more of a theologian.'
 नृमे᳓धो ऽभ्य᳙वदत्  ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Nrmedha spoke;
 </details>
@@ -717,25 +749,9 @@ Nrmedha spoke;
 नृ॒मेधो॒ऽभ्य॑वदत्  ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-स᳓ धूम᳓म् अजनयत् ।
-</details>
-
-<details><summary>English</summary>
-
-he generated smoke.
-</details>
-
-<details><summary>मूलम्</summary>
-
-स धू॒मम॑जनयत् ।
-</details>
-
 <details><summary>पद-पाठः</summary>
 
-नृ॒मेध॒ इति॑ नृ-मेधः॑ । अ॒भीति॑ । अ॒व॒द॒त् ।   
-सः । धू॒मम् । अ॒ज॒न॒य॒त् ।
+नृ॒मेध॒ इति॑ नृ-मेधः॑ । अ॒भीति॑ । अ॒व॒द॒त्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -750,11 +766,31 @@ he generated smoke.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+स᳓ धूम᳓म् अजनयत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+he generated smoke.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स धू॒मम॑जनयत् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । धू॒मम् । अ॒ज॒न॒य॒त्॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प᳓रुच्छेपो ऽभ्य᳙वदत् ।
  । ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Paruchepa spoke;
 </details>
@@ -764,26 +800,9 @@ Paruchepa spoke;
 परु॑च्छेपः । अ॒भीति॑ । अ॒व॒द॒त् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-सो᳓ ऽग्नि᳓म् अजनयत् ।
- । ।
-</details>
-
-<details><summary>English</summary>
-
-he generated fire.
-</details>
-
-<details><summary>मूलम्</summary>
-
-सः । अ॒ग्निम् । अ॒ज॒न॒य॒त् ।
-</details>
-
 <details><summary>पद-पाठः</summary>
 
-परु॑च्छेपः । अ॒भीति॑ । अ॒व॒द॒त् ।
-सः । अ॒ग्निम् । अ॒ज॒न॒य॒त् ।
+परु॑च्छेपः । अ॒भीति॑ । अ॒व॒द॒त्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -798,10 +817,31 @@ he generated fire.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+सो᳓ ऽग्नि᳓म् अजनयत् ।
+ । ।
+</details>
+
+<details><summary>Keith</summary>
+
+he generated fire.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सः । अ॒ग्निम् । अ॒ज॒न॒य॒त् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । अ॒ग्निम् । अ॒ज॒न॒य॒त्॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "ऋ᳓ष!!" इ᳓त्य् अब्रवीत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'O Rsi', he said, [3],
 </details>
@@ -813,7 +853,7 @@ he generated fire.
 
 <details><summary>पद-पाठः</summary>
 
-ऋषे॑ । इति॑ । अ॒ब्र॒वी॒त् ।
+ऋषे॑ । इति॑ । अ॒ब्र॒वी॒त्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -834,7 +874,7 @@ he generated fire.
 इ᳓ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'seeing that our knowledge is equal, how didst thou generate fire and not I?'
 </details>
@@ -847,7 +887,7 @@ he generated fire.
 <details><summary>पद-पाठः</summary>
 
 यत् । स॒माव॑त् । वि॒द्व । क॒था । त्वम् । अ॒ग्निम् । अजी॑जनः । न । अ॒हम् । इति॑ ।
- </details>
+</details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -864,7 +904,7 @@ he generated fire.
 "सामिधेनी᳓नाम् एवा᳓हव्ँ᳓ व᳓र्णव्ँ वेदे᳓"त्य् अब्रवीत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'I know the character of the Samidhenis', he replied.
 </details>
@@ -876,7 +916,7 @@ he generated fire.
 
 <details><summary>पद-पाठः</summary>
 
-सा॒मि॒धे॒नीना॒मिति॑ साम्-इ॒धे॒नीना॑म् । ए॒व । अ॒हम् । वर्ण॑म् । वे॒द॒ । इति॑ । अ॒ब्र॒वी॒त् ।
+सा॒मि॒धे॒नीना॒मिति॑ साम्-इ॒धे॒नीना॑म् । ए॒व । अ॒हम् । वर्ण॑म् । वे॒द॒ । इति॑ । अ॒ब्र॒वी॒त्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -900,7 +940,7 @@ he generated fire.
 स᳓ आसाव्ँ व᳓र्णः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 The character of the Samidhenis is the quarter-verse which is repeated with the word 'ghee' in it.
 </details>
@@ -912,7 +952,7 @@ The character of the Samidhenis is the quarter-verse which is repeated with the 
 
 <details><summary>पद-पाठः</summary>
 
-यत् । घृ॒तव॒दिति॑ घृ॒त-व॒त् । प॒दम् । अ॒नू॒च्यत॒ इत्य॑नु-उ॒च्यते॑ । सः । आ॒सा॒म् । वर्णः॑ ।
+यत् । घृ॒तव॒दिति॑ घृ॒त-व॒त्॒ । प॒दम् । अ॒नू॒च्यत॒ इत्य॑नु-उ॒च्यते॑ । सः । आ॒सा॒म्॒ । वर्णः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -932,7 +972,7 @@ The character of the Samidhenis is the quarter-verse which is repeated with the 
 त᳓न् त्वा समि᳓द्भिर् अङ्गिर! इ᳓त्य् आह ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Thee with the kindling sticks, Angiras', he says;
 </details>
@@ -942,12 +982,24 @@ The character of the Samidhenis is the quarter-verse which is repeated with the 
 तन्त्वा॑ स॒मिद्भि॑रङ्गिर॒ इत्या॑ह ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तम् । त्वा॒ । स॒मिद्भि॒रिति॑ स॒मित्-भिः॒ । अ॒ङ्गि॒रः॒ । इति॑ । आ॒ह॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तमेवार्थं समर्थयते - तं त्वेति ।
+
+ज्योतिष्मत्त्वमासां घृतसम्बन्धेन क्रियते तेजो घृतमिति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सामिधेनी᳓ष्व् एव᳓ त᳓ज् ज्यो᳓तिर् जनयति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 verily he generates light in the Samidhenis.
 </details>
@@ -959,18 +1011,15 @@ verily he generates light in the Samidhenis.
 
 <details><summary>पद-पाठः</summary>
 
-तम् । त्वा॒ । स॒मिद्भि॒रिति॑ स॒मित्-भिः॒ । अ॒ङ्गि॒रः॒ । इति॑ । आ॒ह॒ । सा॒मि॒धे॒नीष्विति॑ साम्-इ॒धे॒नीषु॑ । ए॒व । तत् । ज्योतिः॑ । ज॒न॒य॒ति॒ ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-तमेवार्थं समर्थयते - तं त्वेति । ज्योतिष्मत्त्वमासां घृतसम्बन्धेन क्रियते तेजो घृतमिति ।
+सा॒मि॒धे॒नीष्विति॑ साम्-इ॒धे॒नीषु॑ । ए॒व । तत् । ज्योतिः॑ । ज॒न॒य॒ति॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
 
 सा पादः कस्यामृचि वर्तत इति चेत्तदुच्यते-  
-तं त्वा समिद्भिरङ्गिरः इत्येतामृचं पठेत्। तस्यामृचि ‘घृतेन वर्धयामसि’ इत्ययं पादो वर्तते। ततोऽनेन पठितेन पादेन सामिधेनीष्वेव ज्योतिर्जनयति। तेन त्वं पादं पठन्नपि महिमानं न जानासि। अहं तु जानामि। तस्मादार्द्रकाष्ठे मयाऽग्निरुत्पादितः।
+तं त्वा समिद्भिरङ्गिरः इत्येतामृचं पठेत्। तस्यामृचि ‘घृतेन वर्धयामसि’ इत्ययं पादो वर्तते। ततोऽनेन पठितेन पादेन सामिधेनीष्वेव ज्योतिर्जनयति।
+
+तेन त्वं पादं पठन्नपि महिमानं न जानासि। अहं तु जानामि। तस्मादार्द्रकाष्ठे मयाऽग्निरुत्पादितः।
 </details>
 
 ## वृषण्वती
@@ -982,7 +1031,7 @@ verily he generates light in the Samidhenis.
 स्त्रि᳓यस् ते᳓न य᳓त् सामिधेन्यः᳙ ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 They are feminine in that they are Rc (verses), they are feminine in that they are Gayatri (verses), they are feminine in that they are Samidhenis.
 </details>
@@ -1021,7 +1070,7 @@ They are feminine in that they are Rc (verses), they are feminine in that they a
 वृ᳓षण्वतीम् अ᳓न्वाह ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He repeats a verse with the word 'Male' in it [4].
 </details>
@@ -1033,7 +1082,7 @@ He repeats a verse with the word 'Male' in it [4].
 
 <details><summary>पद-पाठः</summary>
 
-वृष॑ण्वती॒मिति॒ वृषण्ण्॑-व॒ती॒म् । अन्विति॑ । आ॒ह॒ । [47]  
+वृष॑ण्वती॒मिति॒ वृषण्ण्॑-व॒ती॒म्॒ । अन्विति॑ । आ॒ह॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1055,7 +1104,7 @@ He repeats a verse with the word 'Male' in it [4].
 ते᳓न मिथुनाः᳓ ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 By it he gives them a husband, makes them possess Indra, and mates them.
 </details>
@@ -1067,7 +1116,7 @@ By it he gives them a husband, makes them possess Indra, and mates them.
 
 <details><summary>पद-पाठः</summary>
 
-1 । तेन॑ । पुँस्व॑तीः । तेन॑ । सेन्द्रा॒ इति॒ स-इ॒न्द्राः॒ । तेन॑ । मि॒थु॒नाः ।
+तेन॑ । पुँस्व॑तीः । तेन॑ । सेन्द्रा॒ इति॒ स-इ॒न्द्राः॒ । तेन॑ । मि॒थु॒नाः ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -1083,7 +1132,7 @@ By it he gives them a husband, makes them possess Indra, and mates them.
  ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Agni was the messenger of the gods,
 </details>
@@ -1114,7 +1163,7 @@ Agni was the messenger of the gods,
 उश᳓ना+++(ः)+++ काव्यो᳓ ऽसुराणाम् +++(दूत आसीत्)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Uśanas Kavya of the Asuras.
 </details>
@@ -1144,7 +1193,7 @@ Uśanas Kavya of the Asuras.
 तौ᳓ प्रजा᳓पतिम् प्रश्ञ᳓म् ऐताम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 They went to question Prajapati;
 </details>
@@ -1156,7 +1205,7 @@ They went to question Prajapati;
 
 <details><summary>पद-पाठः</summary>
 
-तौ । प्र॒जाप॑ति॒मिति॑ प्र॒जा-प॒ति॒म् । प्र॒श्ञम् । ऐ॒ता॒म् ।
+तौ । प्र॒जाप॑ति॒मिति॑ प्र॒जा-प॒ति॒म्॒ । प्र॒श्ञम् । ऐ॒ता॒म्॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1174,7 +1223,7 @@ They went to question Prajapati;
 "अग्नि᳓न् दूतव्ँ᳓ वृणीमह" इ᳓त्य् +++(उशनसः)+++ अभि᳓ पर्या᳓वर्तत ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 he turned away (from Uśanas) (with the words), 'Agni as messenger we choose.'
 </details>
@@ -1204,7 +1253,7 @@ he turned away (from Uśanas) (with the words), 'Agni as messenger we choose.'
 त᳓तो देवा᳓ अ᳓भवन् परा᳓सुराः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Then the gods prospered, the Asuras were defeated.
 </details>
@@ -1242,7 +1291,7 @@ Then the gods prospered, the Asuras were defeated.
  ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 The man for whom, knowing thus, he repeats, 'Agni as messenger we choose, prospers himself, his enemy is defeated.
 </details>
@@ -1281,7 +1330,7 @@ The man for whom, knowing thus, he repeats, 'Agni as messenger we choose, prospe
 अध्वर᳓वतीम् अ᳓न्वाह ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He repeats a verse with the word 'imperishable';
 </details>
@@ -1291,12 +1340,30 @@ He repeats a verse with the word 'imperishable';
 अ॒ध्व॒रव॑ती॒मन्वा॑ह ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒ध्व॒रव॑ती॒मित्य॑ध्व॒र-व॒ती॒म्॒ । अन्विति॑ । आ॒ह॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+10अध्वरवतीमिति ॥ 'समिध्यमानो अध्वरे' इत्येताम् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+समिध्यमानो अध्वर इत्येतामृचं विशेषतः प्रशंसति-  
+अध्वरवतीमिति।
+
+हिनस्तित्यर्थः।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रा᳓तृव्यम् एवै᳓त᳓या ध्वरति +++(=नाशयति)+++ ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 verily by it he causes his enemy to perish [5].
 </details>
@@ -1308,19 +1375,12 @@ verily by it he causes his enemy to perish [5].
 
 <details><summary>पद-पाठः</summary>
 
-अ॒ध्व॒रव॑ती॒मित्य॑ध्व॒र-व॒ती॒म् । अन्विति॑ । आ॒ह॒ ।  
-भ्रातृ॑व्यम् । ए॒व । ए॒तया॑ । ध्व॒र॒ति॒ ।  
+भ्रातृ॑व्यम् । ए॒व । ए॒तया॑ । ध्व॒र॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-10अध्वरवतीमिति ॥ 'समिध्यमानो अध्वरे' इत्येताम् । ध्वरति हिनस्तीति ध्वृ मूर्छने ।
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-समिध्यमानो अध्वर इत्येतामृचं विशेषतः प्रशंसति-  
-अध्वरवतीमिति। हिनस्तित्यर्थः।
+ध्वरति हिनस्तीति ध्वृ मूर्छने ।
 </details>
 
 ## शो॒चिष्के॑श॒स्तमी॑मह॒
@@ -1331,7 +1391,7 @@ verily by it he causes his enemy to perish [5].
 पवि᳓त्रम् एवै᳓त᳓द् य᳓जमानम् एवै᳓त᳓या पवयति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'The flaming locked, him we adore', he says; that is purifying; verily with it he makes pure the sacrificer.
 </details>
@@ -1344,8 +1404,7 @@ verily by it he causes his enemy to perish [5].
 
 <details><summary>पद-पाठः</summary>
 
-शो॒चिष्के॑श॒ इति॑ शो॒चिः-के॒शः॒ । तम् । ई॒म॒हे॒ । इति॑ । आ॒ह॒ ।
-प॒वित्र॑म् । ए॒व । ए॒तत् । यज॑मानम् । ए॒व । ए॒तया॑ । प॒व॒य॒ति॒ ।   
+शो॒चिष्के॑श॒ इति॑ शो॒चिः-के॒शः॒ । तम् । ई॒म॒हे॒ । इति॑ । आ॒ह॒ । प॒वित्र॑म् । ए॒व । ए॒तत् । यज॑मानम् । ए॒व । ए॒तया॑ । प॒व॒य॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1366,7 +1425,7 @@ verily by it he causes his enemy to perish [5].
 स᳓मिद्धो अग्न आहुते᳓त्याह ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Thou art lit, O Agni, worshipped', he says;
 </details>
@@ -1397,7 +1456,7 @@ verily by it he causes his enemy to perish [5].
 परिधि᳓म् एवै᳓त᳓म् प᳓रि दधात्य् अ᳓स्कन्दाय ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 verily he places around a barrier that may not be climbed.
 </details>
@@ -1409,7 +1468,7 @@ verily he places around a barrier that may not be climbed.
 
 <details><summary>पद-पाठः</summary>
 
-प॒रि॒धिमिति॑ परि-धिम् । ए॒व । ए॒तम् । परीति॑ । द॒धा॒ति॒ ।
+प॒रि॒धिमिति॑ परि-धिम् । ए॒व । ए॒तम् । परीति॑ । द॒धा॒ति॒ । अस्क॑न्दाय । यत् । अतः॑ । ऊ॒र्ध्वम् । अ॒भ्या॒द॒ध्यादित्य॑भि-आ॒द॒ध्यात् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1424,7 +1483,7 @@ verily he places around a barrier that may not be climbed.
 तादृ᳓ग् एव᳓ त᳓त् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 If he were to add anything further, it would be just as when (a libation) falls outside the barriers.
 </details>
@@ -1436,9 +1495,7 @@ If he were to add anything further, it would be just as when (a libation) falls 
 
 <details><summary>पद-पाठः</summary>
 
-अस्क॑न्दाय ।  यत् । अतः॑ । ऊ॒र्ध्वम् । अ॒भ्या॒द॒ध्यादित्य॑भि-आ॒द॒ध्यात् ।   
-यथा॑ । ब॒हि॒ᳶप॒रि॒धीति॑ बहिः-प॒रि॒धि । स्कन्द॑ति ।  
-ता॒दृक् । ए॒व । तत् ।
+यथा॑ । ब॒हि॒ᳶप॒रि॒धीति॑ बहिः-प॒रि॒धि । स्कन्द॑ति । ता॒दृक् । ए॒व । तत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1465,7 +1522,7 @@ If he were to add anything further, it would be just as when (a libation) falls 
 कव्यवा᳓हनᳶ पितृणा᳓म् , सह᳓रक्षा अ᳓सुराणाम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 There are three Agnis, the oblation bearer of the gods, the bearer of the offering of the Pitrs, the guardian of the Asuras.
 </details>
@@ -1477,9 +1534,7 @@ There are three Agnis, the oblation bearer of the gods, the bearer of the offeri
 
 <details><summary>पद-पाठः</summary>
 
-त्रयः॑ । वै । अ॒ग्नयः॑ ।  
-ह॒व्य॒वाह॑न॒ इति॑ हव्य-वाह॑नः । दे॒वाना॑म् । क॒व्य॒वाह॑न॒ इति॑ कव्य-वाह॑नः । पि॒तृ॒णाम् ।
-स॒हर॑क्षा॒ इति॑ स॒ह-र॒क्षाः॒ । असु॑राणाम् ।
+त्रयः॑ । वै । अ॒ग्नयः॑ । ह॒व्य॒वाह॑न॒ इति॑ हव्य-वाह॑नः । दे॒वाना॑म् । क॒व्य॒वाह॑न॒ इति॑ कव्य-वाह॑नः । पि॒तृ॒णाम् । स॒हर॑क्षा॒ इति॑ स॒ह-र॒क्षाः॒ । असु॑राणाम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1498,7 +1553,7 @@ There are three Agnis, the oblation bearer of the gods, the bearer of the offeri
 "माव्ँ᳓ वरिष्यते, मा᳓म्" इ᳓ति
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 They repeat, 'Me will he choose, me' [6].
 </details>
@@ -1510,8 +1565,7 @@ They repeat, 'Me will he choose, me' [6].
 
 <details><summary>पद-पाठः</summary>
 
-ते । ए॒तर्हि॑ । एति॑ । शँ॒स॒न्ते॒ ।
-माम् । व॒रि॒ष्य॒ते॒ । माम् । इति॑ ।   
+ते । ए॒तर्हि॑ । एति॑ । शँ॒स॒न्ते॒ । माम् । व॒रि॒ष्य॒ते॒ । माम् । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1524,7 +1578,7 @@ They repeat, 'Me will he choose, me' [6].
 "वृणीध्वँ᳓ हव्यवा᳓हनम्" इ᳓त्याह ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Choose ye the bearer of the oblation', he says;
 </details>
@@ -1534,12 +1588,29 @@ They repeat, 'Me will he choose, me' [6].
 "वृणी॒ध्वँ ह॑व्य॒वाह॑न॒म्" इत्या॑ह ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वृ॒णी॒ध्वम् । ह॒व्य॒वाह॑न॒मिति॑ हव्य-वाह॑नम् । इति॑ । आ॒ह॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तत्र 'वृणीध्वं हव्यवाहनम्' इति वचनेन कव्यवाहादिव्युदासेन देवानामग्निर्हव्यवाहन एव वृतो भवति ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+देवादीनां संबन्धिनोऽग्नयः प्रत्येकं मामेव वरिष्यत इत्येवमपेक्षांते। अतो देवा अग्नेरेवंगुणसिद्ध्यर्थं हव्यवाहनं वृणीध्वमित्युच्यते।
+
+यदुक्तमाश्वलायनेन – “सामिधेनीनामुत्तमेन प्रणवेनाग्ने महा असि ब्राह्मण भारतेति निगदेऽवसाय यजमानस्याऽऽर्षेयान्प्रवृणीते यावन्तः स्युः परं परं प्रथमम्” इति।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एव᳓ देवा᳓नान्, तव्ँ᳓ वृणीते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'let him choose him who is of the gods.
 </details>
@@ -1551,18 +1622,7 @@ They repeat, 'Me will he choose, me' [6].
 
 <details><summary>पद-पाठः</summary>
 
-वृ॒णी॒ध्वम् ।  ह॒व्य॒वाह॑न॒मिति॑ हव्य-वाह॑नम् । इति॑ । आ॒ह॒ ।
 यः । ए॒व । दे॒वाना॑म् । तम् । वृ॒णी॒ते॒ ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-तत्र 'वृणीध्वं हव्यवाहनम्' इति वचनेन कव्यवाहादिव्युदासेन देवानामग्निर्हव्यवाहन एव वृतो भवति ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-देवादीनां संबन्धिनोऽग्नयः प्रत्येकं मामेव वरिष्यत इत्येवमपेक्षांते। अतो देवा अग्नेरेवंगुणसिद्ध्यर्थं हव्यवाहनं वृणीध्वमित्युच्यते। यदुक्तमाश्वलायनेन – “सामिधेनीनामुत्तमेन प्रणवेनाग्ने महा असि ब्राह्मण भारतेति निगदेऽवसाय यजमानस्याऽऽर्षेयान्प्रवृणीते यावन्तः स्युः परं परं प्रथमम्” इति।
 </details>
 
 ## आर्षेय-वरणम्
@@ -1572,7 +1632,7 @@ They repeat, 'Me will he choose, me' [6].
 आर्षेयव्ँ᳓ वृणीते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He chooses one of a Rsi's family;
 </details>
@@ -1580,6 +1640,11 @@ He chooses one of a Rsi's family;
 <details><summary>मूलम्</summary>
 
 आ॒र्षे॒यव्ँ वृ॑णीते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒र्षे॒यम् । वृ॒णी॒ते॒ ।
 </details>
 
 <details><summary>प्रदीपसिंहः</summary>
@@ -1602,7 +1667,7 @@ He chooses one of a Rsi's family;
 ब᳓न्धोर् एव᳓ नै᳓ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 verily he departs not from the connexion,
 </details>
@@ -1632,7 +1697,7 @@ verily he departs not from the connexion,
 अ᳓थो स᳓न्तत्यै ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 (and so it serves) for continuity.
 </details>
@@ -1667,7 +1732,7 @@ verily he departs not from the connexion,
 पर᳓स्ताद् अर्वा᳓चो वृणीते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He chooses, beginning at the further end, in order of descent;
 </details>
@@ -1699,7 +1764,7 @@ He chooses, beginning at the further end, in order of descent;
 ऽनु प्र᳓ पिपते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 therefore the Pitrs drink after men in order of descent, beginning at the further end.
 </details>
@@ -1711,7 +1776,7 @@ therefore the Pitrs drink after men in order of descent, beginning at the furthe
 
 <details><summary>पद-पाठः</summary>
 
-तस्मा॑त् । प॒रस्ता॑त् । अ॒र्वाञ्चः॑ । म॒नु॒ष्या॑न् । पि॒तरः॑ । अनु॑ । प्रेति॑ । पि॒प॒ते॒ ॥
+तस्मा॑त् । प॒रस्ता॑त् । अ॒र्वाञ्चः॑ । म॒नु॒ष्यान्॑ । पि॒तरः॑ । अनु॑ । प्रेति॑ । पि॒प॒ते॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

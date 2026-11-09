@@ -30,7 +30,7 @@ Do I thou mount the kindling (quarter); let the Gayatri of metres help thee; the
 
 <details><summary>पद-पाठः</summary>
 
-1A । स॒मिध॒मिति॑ सम्-इध॑म् । एति॑ । ति॒ष्ठ॒ । गा॒य॒त्री । त्वा॒ । छन्द॑साम् । अ॒व॒तु॒ । त्रि॒वृदिति॑ त्रि-वृत् । स्तोमः॑ । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् । साम॑ । अ॒ग्निः । दे॒वता॑ । ब्रह्म॑ । द्रवि॑णम् ।
+स॒मिध॒मिति॑ सम्-इध॑म् । एति॑ । ति॒ष्ठ॒ । गा॒य॒त्री । त्वा॒ । छन्द॑साम् । अ॒व॒तु॒ । त्रि॒वृदिति॑ त्रि-वृत् । स्तोमः॑ । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् । साम॑ । अ॒ग्निः । दे॒वता॑ । ब्रह्म॑ । द्रवि॑णम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -53,7 +53,7 @@ Do I thou mount the kindling (quarter); let the Gayatri of metres help thee; the
 2दक्षिणां उग्रामिति ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -81,7 +81,7 @@ Do thou mount the dread (quarter); let the Tristubh of metres help thee, the Pa�
 
 <details><summary>पद-पाठः</summary>
 
-2B । उ॒ग्राम् । एति॑ । ति॒ष्ठ॒ । त्रि॒ष्टुप् । त्वा॒ । छन्द॑साम् । अ॒व॒तु॒ । प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः । स्तोमः॑ । बृ॒हत् । साम॑ । इन्द्रः॑ । दे॒वता॑ । क्ष॒त्रम् । द्रवि॑णम् ।
+उ॒ग्राम् । एति॑ । ति॒ष्ठ॒ । त्रि॒ष्टुप् । त्वा॒ । छन्द॑साम् । अ॒व॒तु॒ । प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः । स्तोमः॑ । बृ॒हत् । साम॑ । इन्द्रः॑ । दे॒वता॑ । क्ष॒त्रम् । द्रवि॑णम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -114,7 +114,7 @@ Do thou mount the shining (quarter); let the Jagati of metres help thee, the Sap
 
 <details><summary>पद-पाठः</summary>
 
-3C । वि॒राज॒मिति॑ वि-राज॑म् । एति॑ । ति॒ष्ठ॒ । जग॑ती । त्वा॒ । छन्द॑साम् । अ॒व॒तु॒ । स॒प्त॒द॒श इति॑ सप्त-द॒शः । स्तोमः॑ । वै॒रू॒पम् । साम॑ । म॒रुतः॑ । दे॒वता॑ । विट् । द्रवि॑णम् । 4D ।
+वि॒राज॒मिति॑ वि-राज॑म् । एति॑ । ति॒ष्ठ॒ । जग॑ती । त्वा॒ । छन्द॑साम् । अ॒व॒तु॒ । स॒प्त॒द॒श इति॑ सप्त-द॒शः । स्तोमः॑ । वै॒रू॒पम् । साम॑ । म॒रुतः॑ । दे॒वता॑ । विट् । द्रवि॑णम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -147,7 +147,7 @@ Do thou mount the northern (quarter); let the Anustubh of metres help thee [1], 
 
 <details><summary>पद-पाठः</summary>
 
- उदी॑चीम् । एति॑ । ति॒ष्ठ॒ । अ॒नु॒ष्टुबित्य॑नु-स्तुप् । त्वा॒ । 1 । छन्द॑साम् । अ॒व॒तु॒ । ए॒क॒विँ॒श इत्ये॑क-विँ॒शः । स्तोमः॑ । वै॒रा॒जम् । साम॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । दे॒वता॑ । बल॑म् । द्रवि॑णम् ।
+ उदी॑चीम् । एति॑ । ति॒ष्ठ॒ । अ॒नु॒ष्टुबित्य॑नु-स्तुप् । त्वा॒ । छन्द॑साम् । अ॒व॒तु॒ । ए॒क॒विँ॒श इत्ये॑क-विँ॒शः । स्तोमः॑ । वै॒रा॒जम् । साम॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । दे॒वता॑ । बल॑म् । द्रवि॑णम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -183,7 +183,7 @@ Do thou mount the zenith; let the Pañkti of metres help thee, the Trinava, and 
 
 <details><summary>पद-पाठः</summary>
 
-2E । ऊ॒र्ध्वाम् । एति॑ । ति॒ष्ठ॒ । प॒ङ्क्तिः । त्वा॒ । छन्द॑साम् । अ॒व॒तु॒ । त्रि॒ण॒व॒त्र॒य॒स्त्रिँ॒शाविति॑ त्रिणव-त्र॒य॒स्त्रिँ॒शौ । स्तोमौ॑ । शा॒क्व॒र॒रै॒व॒ते इति॑ शाक्वर-रै॒व॒ते । साम॑नी॒ इति॑ । बृह॒स्पतिः॑ । दे॒वता॑ । वर्चः॑ । द्रवि॑णम् ।
+ऊ॒र्ध्वाम् । एति॑ । ति॒ष्ठ॒ । प॒ङ्क्तिः । त्वा॒ । छन्द॑साम् । अ॒व॒तु॒ । त्रि॒ण॒व॒त्र॒य॒स्त्रिँ॒शाविति॑ त्रिणव-त्र॒य॒स्त्रिँ॒शौ । स्तोमौ॑ । शा॒क्व॒र॒रै॒व॒ते इति॑ शाक्वर-रै॒व॒ते । साम॑नी॒ इति॑ । बृह॒स्पतिः॑ । दे॒वता॑ । वर्चः॑ । द्रवि॑णम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -228,7 +228,7 @@ Of pure radiance, of varied radiance, of true radiance, the radiant, true, prote
 
 <details><summary>पद-पाठः</summary>
 
-3F । ई॒दृङ्ङ् । च॒ । अ॒न्या॒दृङ्ङ् । च॒ । ए॒ता॒दृङ्ङ् । च॒ । प्र॒ति॒दृङ्ङिति॑ प्रति-दृङ्ङ् । च॒ । मि॒तः । च॒ । सम्मि॑त॒ इति॒ सम्-मि॒तः॒ । च॒ । सभ॑रा॒ इति॒ स-भ॒राः॒ ॥ 4G । शु॒क्रज्यो॑ति॒रिति॑ शु॒क्र-ज्यो॒तिः॒ । च॒ । चि॒त्रज्यो॑ति॒रिति॑ चि॒त्र-ज्यो॒तिः॒ । च॒ । स॒त्यज्यो॑ति॒रिति॑ स॒त्य-ज्यो॒तिः॒ । च॒ । ज्योति॑ष्मान् । च॒ । स॒त्यः । च॒ । ऋ॒त॒पा इत्यृ॑त-पाः । च॒ । 1 । अत्यँ॑हा॒ इत्यति॑-अँ॒हाः॒ ॥
+ई॒दृङ्ङ् । च॒ । अ॒न्या॒दृङ्ङ् । च॒ । ए॒ता॒दृङ्ङ् । च॒ । प्र॒ति॒दृङ्ङिति॑ प्रति-दृङ्ङ् । च॒ । मि॒तः । च॒ । सम्मि॑त॒ इति॒ सम्-मि॒तः॒ । च॒ । सभ॑रा॒ इति॒ स-भ॒राः॒ ॥ शु॒क्रज्यो॑ति॒रिति॑ शु॒क्र-ज्यो॒तिः॒ । च॒ । चि॒त्रज्यो॑ति॒रिति॑ चि॒त्र-ज्यो॒तिः॒ । च॒ । स॒त्यज्यो॑ति॒रिति॑ स॒त्य-ज्यो॒तिः॒ । च॒ । ज्योति॑ष्मान् । च॒ । स॒त्यः । च॒ । ऋ॒त॒पा इत्यृ॑त-पाः । च॒ । अत्यँ॑हा॒ इत्यति॑-अँ॒हाः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -259,6 +259,11 @@ To Agni hail!
 अ॒ग्नये॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नये॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓माय स्वा᳓हा ।
@@ -272,6 +277,11 @@ To Soma hail!
 <details><summary>मूलम्</summary>
 
 सोमा॑य॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सोमा॑य । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -289,6 +299,11 @@ To Savitr hail!
 स॒वि॒त्रे स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+स॒वि॒त्रे । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓रस्वत्यै स्वा᳓हा ।
@@ -304,6 +319,11 @@ To Sarasvati hail!
 सर॑स्वत्यै॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सर॑स्वत्यै । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूष्णे᳓ स्वा᳓हा ।
@@ -317,6 +337,11 @@ To Pusan hail!
 <details><summary>मूलम्</summary>
 
 पू॒ष्णे स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पू॒ष्णे । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -336,7 +361,7 @@ To Brhaspati hail!
 
 <details><summary>पद-पाठः</summary>
 
-2 । अ॒ग्नये॑ । स्वाहा॑ । सोमा॑य । स्वाहा॑ । स॒वि॒त्रे । स्वाहा॑ । सर॑स्वत्यै । स्वाहा॑ । पू॒ष्णे । स्वाहा॑ । बृह॒स्पत॑ये । स्वाहा॑ ।
+बृह॒स्पत॑ये । स्वाहा॑ ।
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -359,6 +384,16 @@ To Indra hail!
 इन्द्रा॑य॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इन्द्रा॑य । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सर्वाणि निगदसिद्धानि ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घो᳓षाय स्वा᳓हा ।
@@ -372,6 +407,11 @@ To sound hail!
 <details><summary>मूलम्</summary>
 
 घोषा॑य॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+घोषा॑य । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -389,6 +429,11 @@ To verse hail!
 श्लोका॑य॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+श्लोका॑य । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अंँ᳓शाय स्वा᳓हा ।
@@ -404,6 +449,11 @@ To Anśa hail!
 अंँशा॑य॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अँशा॑य । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ᳓गाय स्वा᳓हा ।
@@ -417,6 +467,11 @@ To Bhaga hail!
 <details><summary>मूलम्</summary>
 
 भगा॑य॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भगा॑य । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -436,12 +491,7 @@ To the lord of the field hail!
 
 <details><summary>पद-पाठः</summary>
 
-इन्द्रा॑य । स्वाहा॑ । घोषा॑य । स्वाहा॑ । श्लोका॑य । स्वाहा॑ । अँशा॑य । स्वाहा॑ । भगा॑य । स्वाहा॑ । क्षेत्र॑स्य । पत॑ये । स्वाहा॑ ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-सर्वाणि निगदसिद्धानि ॥
+क्षेत्र॑स्य । पत॑ये । स्वाहा॑ ।
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -464,6 +514,11 @@ To earth hail!
 पृ॒थि॒व्यै स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पृ॒थि॒व्यै । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षाय स्वा᳓हा ।
@@ -477,6 +532,11 @@ To atmosphere hail!
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्षाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्तरि॑क्षाय । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -494,6 +554,11 @@ To sky hail!
 दि॒वे स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+दि॒वे । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू᳓र्याय स्वा᳓हा ।
@@ -509,6 +574,11 @@ To the sun hail!
 सूर्या॑य॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सूर्या॑य । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्र᳓मसे स्वा᳓हा ।
@@ -522,6 +592,11 @@ To the moon hail!
 <details><summary>मूलम्</summary>
 
 च॒न्द्रम॑से॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+च॒न्द्रम॑से । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -541,7 +616,7 @@ To the Naksatras hail!
 
 <details><summary>पद-पाठः</summary>
 
-3I । पृ॒थि॒व्यै । स्वाहा॑ । अ॒न्तरि॑क्षाय । स्वाहा॑ । दि॒वे । स्वाहा॑ । सूर्या॑य । स्वाहा॑ । च॒न्द्रम॑से । स्वाहा॑ । नक्ष॑त्रेभ्यः । स्वाहा॑ ।
+नक्ष॑त्रेभ्यः । स्वाहा॑ ।
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -564,6 +639,20 @@ To the waters hail!
 अ॒द्भ्यस्स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒द्भ्य इत्य॑त्-भ्यः । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सर्वा निगदसिद्धाः । चरणशिलाश्चराचराः । चरेर्यङ्लुगन्तात्पचाद्यचि अभ्यासस्याडागमः । परितः प्लवनशीलाः परिप्लवाः । स एवाच् । सर्पणशीलास्सरीसृपाः ।
+
+सृपेर्यङ्लुगन्तात्पचाद्यचि अभ्यासस्य रीगागमः, 'न धातुलोप आर्धधातुके' इति गुणाभावः ॥
+
+इत्यष्टमे त्रयोदशोनुवाकः ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓षधीभ्यस् स्वा᳓हा ।
@@ -577,6 +666,11 @@ To plants hail!
 <details><summary>मूलम्</summary>
 
 ओष॑धीभ्य॒स्स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -594,6 +688,11 @@ To trees hail!
 वन॒स्पति॑भ्य॒स्स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वन॒स्पति॑भ्य॒ इति॒ वन॒स्पति॑-भ्यः॒ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चराचरे᳓भ्यस् स्वा᳓हा ।
@@ -609,6 +708,11 @@ To moving creatures hail!
 च॒रा॒च॒रेभ्य॒स्स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+च॒रा॒च॒रेभ्यः॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिप्लवे᳓भ्यस् स्वा᳓हा ।
@@ -622,6 +726,11 @@ To swimming creatures hail!
 <details><summary>मूलम्</summary>
 
 प॒रि॒प्ल॒वेभ्य॒स्स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒रि॒प्ल॒वेभ्य॒ इति॑ परि-प्ल॒वेभ्यः॑ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -641,12 +750,5 @@ To creeping creatures hail!
 
 <details><summary>पद-पाठः</summary>
 
-अ॒द्भ्य इत्य॑त्-भ्यः । स्वाहा॑ । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । स्वाहा॑ । वन॒स्पति॑भ्य॒ इति॒ वन॒स्पति॑-भ्यः॒ । स्वाहा॑ । च॒रा॒च॒रेभ्यः॑ । स्वाहा॑ । प॒रि॒प्ल॒वेभ्य॒ इति॑ परि-प्ल॒वेभ्यः॑ । स्वाहा॑ । स॒री॒सृ॒पेभ्यः॑ । स्वाहा॑ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-सर्वा निगदसिद्धाः । चरणशिलाश्चराचराः । चरेर्यङ्लुगन्तात्पचाद्यचि अभ्यासस्याडागमः । परितः प्लवनशीलाः परिप्लवाः । स एवाच् । सर्पणशीलास्सरीसृपाः । सृपेर्यङ्लुगन्तात्पचाद्यचि अभ्यासस्य रीगागमः, 'न धातुलोप आर्धधातुके' इति गुणाभावः ॥
-
-इत्यष्टमे त्रयोदशोनुवाकः ॥  
+स॒री॒सृ॒पेभ्यः॑ । स्वाहा॑ ॥
 </details>

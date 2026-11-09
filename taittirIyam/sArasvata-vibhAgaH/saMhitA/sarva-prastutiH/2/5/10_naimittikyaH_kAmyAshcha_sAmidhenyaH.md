@@ -24,7 +24,7 @@ title = "१० नैमित्तिक्यः काम्याश्च
 ता᳓न् एवा᳓स्मा अ᳓नुकान् करोति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 In the case of a Rajanya let him repeat the Trcas thrice three other sorts of men are there besides the warrior, the Brahman, Vaiśya and Śudra; verily he makes them obedient to him.
 </details>
@@ -79,7 +79,7 @@ In the case of a Rajanya let him repeat the Trcas thrice three other sorts of me
 स्व᳓ एवै᳓नँ स्तो᳓मे प्र᳓ति ष्ठापयति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He should repeat fifteen (Samidhenis) in the case of a Rajanya; the Rajanya is fifteenfold; verily he makes him find support in his own Stoma.
 </details>
@@ -118,7 +118,7 @@ He should repeat fifteen (Samidhenis) in the case of a Rajanya; the Rajanya is f
 त्रिष्टु᳓भैवा᳓स्मा इन्द्रिय᳓म् प᳓रि गृह्णाति   
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Let him surround it with a Tristubh; the Tristubh is power, the Rajanya sacrifices in desire of power; verily by the Tristubh he secures power for him.
 </details>
@@ -163,7 +163,7 @@ Let him surround it with a Tristubh; the Tristubh is power, the Rajanya sacrific
 ब्रह्म-वर्चस᳓म् एव᳓ भवति   
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 If he desires [1], 'May there be splendour', he should surround it with a Gayatri, the Gayatri is splendour; verily there is splendour.
 </details>
@@ -207,7 +207,7 @@ If he desires [1], 'May there be splendour', he should surround it with a Gayatr
 स्व᳓ एवै᳓नँ स्तो᳓मे प्र᳓ति ष्ठापयति
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He should repeat seventeen for a Vaiśya; the Vaiśya is seventeenfold; verily he makes him find support in his own Stoma.
 </details>
@@ -250,7 +250,7 @@ He should repeat seventeen for a Vaiśya; the Vaiśya is seventeenfold; verily h
 ज᳓गत्यैवा᳓स्मै पशू᳓न् प᳓रि गृह्णाति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He should surround it with a Jagati; cattle are connected with the Jagati, the Vaiśya sacrifices in desire of cattle; verily by the Jagati he secures cattle for him.
 </details>
@@ -292,7 +292,7 @@ He should surround it with a Jagati; cattle are connected with the Jagati, the V
 प्र᳓तिष्ठित्यै  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He should repeat twenty one for one who desires support; the Ekavinśa is the support of the Stomas; (verily twenty-one serve) for support [2].
 </details>
@@ -349,7 +349,7 @@ _______________
 गायत्रियै᳓वा᳓स्मै ब्रह्मवर्चस᳓म᳓व रुन्द्धे 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He should repeat twenty-four for one who desires splendour: the Gayatri has twenty-four syllables, splendour is the Gayatri; verily by the Gayatri he secures splendour for him.
 </details>
@@ -390,7 +390,7 @@ He should repeat twenty-four for one who desires splendour: the Gayatri has twen
 विरा᳓जैवा᳓स्मा अन्ना᳓द्यम् अ᳓व रुन्द्धे   
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He should repeat thirty for one who desires food; the Viraj has thirty syllables, the Viraj is food; verily by the Viraj he secures food for him.
 </details>
@@ -429,7 +429,7 @@ He should repeat thirty for one who desires food; the Viraj has thirty syllables
 प्र᳓तिष्ठित्यै    
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He should repeat thirty-two, for one who desires support; the Anustubh has thirty-two syllables, the Anustubh is the support of the metres; (verily thirty-two serve) for support.
 </details>
@@ -471,7 +471,7 @@ He should repeat thirty-two, for one who desires support; the Anustubh has thirt
 बृ᳓हत्यै᳓वा᳓स्मै पशू᳓न् अ᳓व रुन्द्धे   
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He should repeat thirty-six for one who desires cattle; the Brhati has thirty-six syllables, cattle are connected with the Brhati; verily by the Brhati he secures cattle for him [3].
 </details>
@@ -509,7 +509,7 @@ He should repeat thirty-six for one who desires cattle; the Brhati has thirty-si
 त्रिष्टु᳓भैवा᳓स्मा इन्द्रिय᳓म् अ᳓व रुन्द्धे
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He should repeat forty-four for one who desires power, the Tristubh has forty-four syllables, the Tristubh is power; verily by the Tristubh he secures power for him.
 </details>
@@ -547,7 +547,7 @@ He should repeat forty-four for one who desires power, the Tristubh has forty-fo
 ज᳓गत्यैवा᳓स्मै पशू᳓न् अ᳓व रुन्द्धे   
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He should repeat forty-eight for one who desires cattle; the Jagati has forty-eight syllables, cattle are connected with the Jagati; verily with the Jagati he secures cattle for him.
 </details>
@@ -579,41 +579,30 @@ He should repeat forty-eight for one who desires cattle; the Jagati has forty-ei
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓र्वाणि छ᳓न्दाँस्य् अ᳓नु ब्रूयाद् बहुयाजि᳓नः    
-
-स᳓र्वाणि वा᳓ एत᳓स्य छ᳓न्दाँस्य् अ᳓वरुद्धानि  
-यो᳓ बहुयाज्य᳓परिमितम् अ᳓नु ब्रूयाद्  
-अ᳓परिमितस्या᳓वरुद्ध्यै ॥
+स᳓र्वाणि छ᳓न्दाँस्य् अ᳓नु ब्रूयाद् बहुयाजि᳓नः ।  
+स᳓र्वाणि वा᳓ एत᳓स्य छ᳓न्दाँस्य् अ᳓वरुद्धानि यो᳓ बहुयाजी᳓ ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
-He should repeat all the metres for one who makes many sacrifices, for all the metres are won by him who makes many sacrifices. He should repeat indefinitely to win that which is not definite.
+He should repeat all the metres for one who makes many sacrifices, for all the metres are won by him who makes many sacrifices.
 </details>
 
 <details><summary>मूलम्</summary>
 
-सर्वा॑णि॒ छन्दाँ॒स्यनु॑ ब्रूयाद्बहुया॒जिन॒स्सर्वा॑णि॒ वा ए॒तस्य॒ छन्दाँ॒स्यव॑रुद्धानि॒ यो ब॑हुया॒ज्यप॑रिमित॒मनु॑ ब्रूया॒दप॑रिमित॒स्याव॑रुद्ध्यै ॥ [60]
+सर्वा॑णि॒ छन्दाँ॒स्यनु॑ ब्रूयाद्बहुया॒जिनः॑ ।  
+सर्वा॑णि॒ वा ए॒तस्य॒ छन्दाँ॒स्यव॑रुद्धानि॒ यो ब॑हुया॒जी ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
 सर्वा॑णि । छन्दाँ॑सि । अन्विति॑ । ब्रू॒या॒त् । ब॒हु॒या॒जिन॒ इति॑ बहु-या॒जिनः॑ ।  
-
-सर्वा॑णि । वै । ए॒तस्य॑ । छन्दाँ॑सि । अव॑रुद्धा॒नीत्यव॑-रु॒द्धा॒नि॒ ।
-
-यः । ब॒हु॒या॒जीति॑ बहु-या॒जी । अप॑रिमित॒मित्यप॑रि-मि॒त॒म् । अन्विति॑ । ब्रू॒या॒त् ।   
-अप॑रिमित॒स्येत्यप॑रि-मि॒त॒स्य॒ । अव॑रुद्ध्या॒ इत्यव॑-रु॒द्ध्यै॒ ॥
+सर्वा॑णि । वै । ए॒तस्य॑ । छन्दाँ॑सि । अव॑रुद्धा॒नीत्यव॑-रु॒द्धा॒नि॒ । यः । ब॒हु॒या॒जीति॑ बहु-या॒जी ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13बहुयाजिन इति ॥ सोमयाजी बहूयाजी, तस्य सर्वाणि गायत्र्यादीनि जगत्यन्तानि छन्दांस्यवरुद्धानि ।
-
-अपरिमितमिति । नवाद्यष्टाचत्वारिंशदन्तोक्तसङ्ख्यापरिच्छेदरहितं अपरिच्छिन्नस्य फलस्याप्यै भवति ॥
-
-इति द्वितीये पञ्चमे दशमोऽनुवाकः ॥
-
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -622,6 +611,38 @@ He should repeat all the metres for one who makes many sacrifices, for all the m
 
 बहुभिदर्क्षिणीयादिभिरिष्टिभिरग्नीषोमीयादिपशुभिरैन्द्रवायवादिग्रहैश्च यजत इति बहुयाजी। एतस्य बहुयाजिनः सवनत्रयेगायत्र्युष्णिगनुष्टुब्जगतीरूपाणि सर्वाणि च्छन्दांस्यवरुद्धानि भवन्ति। तस्मात्सोमयाजी यदा दर्शपूर्णमासावनुतिष्ठति तदा तस्य त्रीणि च्छन्दांस्यनुब्रुयात्।  
 ‘समिध्यमानः प्रथमोऽनुधर्मः’ इत्येषा त्रिष्टुप्। ‘त्वामग्ने प्र दिव आहुतं घृतेन’ इत्येषा जगती। एतदुभयं समिद्धवत्याः पूर्वं पठनीयम्।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ᳓परिमितम् अ᳓नु ब्रूयाद्  
+अ᳓परिमितस्या᳓वरुद्ध्यै ॥
+</details>
+
+<details><summary>Keith</summary>
+
+He should repeat indefinitely to win that which is not definite.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप॑रिमित॒मनु॑ ब्रूया॒दप॑रिमित॒स्याव॑रुद्ध्यै ॥ [60]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अप॑रिमित॒मित्यप॑रि-मि॒त॒म् । अन्विति॑ । ब्रू॒या॒त् ।   
+अप॑रिमित॒स्येत्यप॑रि-मि॒त॒स्य॒ । अव॑रुद्ध्या॒ इत्यव॑-रु॒द्ध्यै॒ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अपरिमितमिति । नवाद्यष्टाचत्वारिंशदन्तोक्तसङ्ख्यापरिच्छेदरहितं अपरिच्छिन्नस्य फलस्याप्यै भवति ॥
+
+इति द्वितीये पञ्चमे दशमोऽनुवाकः ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
 
 तस्य सोमयाजिनस्त्रीँ स्तृचानित्यनुवाकेऽष्टाचत्वारिँशतमनुब्रुयादित्यन्तेयः संख्याविशेषस्तत्र स्वेच्छैव नियामिका, न तु वाचनिको नियमोऽस्तीत्येतद्विधत्ते-   **अपरिमितमिति।**  अपरिमितस्याधिकस्य फलस्येत्यर्थः। 
 

@@ -15,7 +15,7 @@ _______
 1गृहांश्च पशूंश्चोपतिष्ठते - सं पश्यामीति । तत्र प्रथमा गायत्री । शेषाणि यजूंषि 'मयि वो रायश्श्रयन्ताम्' इत्यन्तानि ॥  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/02_sampashyAmi_prajA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/02_sampashyAmi_prajA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -43,18 +43,23 @@ May they all be in our house.
 सर्वा॑ भवन्तु नो गृ॒हे  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । प॒श्या॒मि॒ । प्र॒जा इति॑ प्र-जाः । अ॒हम् । इड॑प्रजस॒ इतीड॑-प्र॒ज॒सः॒ । मा॒न॒वीः ॥ सर्वाः॑ । भ॒व॒न्तु॒ । नः॒ । गृ॒हे ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **सं पश्यामि** सम्यक् वः पश्यामि अहं **प्रजाः** गृहनिवासिनः पशून्; 'यावन्त एव ग्राम्याः पशवस्तानेवाव रुन्धे' इति च ब्राह्मणम् । प्रजाशब्देन पशव उच्यन्ते । **इडप्रजसः** इडा गौः मनोः पुत्री वा । तस्याः प्रजा इडप्रजसः । सा वा यासां तथा ते सं पश्यामीति । यथोक्तम् - 'इडा वै मानवी' 'साब्रवीदिडा मनुम्' इत्यादि । 'ङ्यापोस्संज्ञाछन्दसोः' इति ह्रस्वत्वम्, 'नित्यमसिच्प्रजामेधयोः' इत्यत्र 'नित्यग्रहणमन्यत्रापि यथा स्यात्' इत्युक्तत्वादसिच् समासान्तः, दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - इडायाः प्रजायन्त इति 'गतिकारकयोरिति पूर्वपदप्रकृतिस्वरत्वं च' इत्यसुन्प्रत्ययान्ताद्धातोः अन्तलोपश्छान्दसः । डिद्वा प्रत्ययः कर्तव्यः । मानवीर्मनोरपत्यभूताः । जातिविशेषस्याविवक्षितत्वात् 'मनोर्जातौ' इति न प्रवर्तते । सर्वास्ताः सर्वा अपि गवादयः प्रजाः नः अस्माकं गृहे एतस्मिन् स्थाने भवन्तु पशुपुत्रमित्रकलत्रादिसर्वसम्पदः सदा प्रभूतास्सन्तु । 'अस्मदो द्वयोश्च' इति द्वितीये वाक्ये एकस्मिन्बहुवचनम् । यद्वा - पुत्रपौत्रादिसहितानामस्माकमिति वेदितव्यम् ॥
 </details>
+</details>
+
+</div>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अम्भ॒स्स्थाम्भो॑ वो भक्षीय॒ मह॑स्स्थ॒ महो॑ वो भक्षीय॒ सह॑स्स्थ॒ सहो॑ वो भक्षी॒योर्ज॒स्स्थोर्जव्ँ॑वो भक्षीय॒ रेव॑ती॒ रम॑ध्वम॒स्मिल्ँ लो॒के॑ऽस्मिन्गो॒ष्ठे॑ऽस्मिन्क्षये॒ऽस्मिन् योना॑वि॒हैव स्ते॒तो माऽप॑ गात ब॒ह्वीर्मे॑ भूयास्त
 </details>
-</details>
-
-</div>
 
 _______
 
@@ -74,6 +79,11 @@ may I share your water.
 
 अम्भ॑स्स्थ।  
 अम्भो॑ वो भक्षीय।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अम्भः॑ । स्थ॒ । अम्भः॑ । वः॒ । भ॒क्षी॒य॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -99,6 +109,11 @@ Ye are greatness, may I share your greatness;
 मह॑स्स्थ॒ महो॑ वो भक्षीय ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+महः॑ । स्थ॒ । महः॑ । वः॒ । भ॒क्षी॒य॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 महः पूजा ब्रह्म वा महः तद्धेतवः स्थ यागादिद्वारेण । वः युष्माकं अदनीयं क्षीरादि भक्षीय ।
@@ -119,6 +134,11 @@ ye are might, may I share your might;
 सह॑स्स्थ॒ सहो॑ वो भक्षी॒य ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सहः॑ । स्थ॒ । सहः॑ । वः॒ । भ॒क्षी॒य॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सहो बलं तद्धेतवः स्थ युष्माकं बलकरं घृतादि भक्षीय ।
@@ -137,6 +157,11 @@ ye are strength, may I share your strength.
 <details><summary>मूलम्</summary>
 
 ऊर्ज॑स्स्थ॒, ऊर्जव्ँ॑व भक्षीय ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऊर्जः॑ । स्थ॒ । ऊर्ज॑म् । वः॒ । भ॒क्षी॒य॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -173,6 +198,11 @@ be many for me [1].
 इ॒हैव स्त॑ ।  
 इ॒तो  माऽप॑ गात ।  
 ब॒ह्वीर्मे॑ भूयास्त [21] ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रेव॑तीः । रम॑ध्वम् । अ॒स्मिन् । लो॒के । अ॒स्मिन् । गो॒ष्ठ इति॑ गो-स्थे । अ॒स्मिन् । क्षये॑ । अ॒स्मिन् । योनौ॑ । इ॒ह । ए॒व । स्त॒ । इ॒तः । मा॒ । अपेति॑ । गा॒त॒ । ब॒ह्वीः । मे॒ । भू॒या॒स्त॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -224,6 +254,11 @@ Thou art composed of every form; enter me with strength, with lordship of kine, 
 आरा॒यस्पोषे॑ण ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सँ॒हि॒तेति॑ सम्-हि॒ता । अ॒सि॒ । वि॒श्व॒रू॒पीरिति॑ विश्व-रू॒पीः । एति॑ । मा॒ । ऊ॒र्जा । वि॒श॒ । एति॑ । गौ॒प॒त्येन॑ । एति॑ । रा॒यः । पोषे॑ण ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **संहिता** संयुक्ता मात्रा **असि** भव । मात्रा वियुक्ता मा भूः ।  
@@ -247,6 +282,11 @@ May I prosper with your thousandfold prosperity;
 स॒ह॒स्र॒पो॒षव्ँवᳶ॑ पुष्यासम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+स॒ह॒स्र॒पो॒षमिति॑ सहस्र-पो॒षम् । वः॒ । पु॒ष्या॒स॒म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 किं बहुना, वः युष्माकं सहस्रपोषं बहुप्रकारमहं पुष्यासं पौष्कल्येनोद्भावयिषीय बह्वीनां युष्माकं सम्बन्धी भूयासम् । गोपोषं पुष्णातीतिवत् सामान्यवचनोन्यतरो द्रष्टव्यः ।
@@ -267,6 +307,11 @@ may your wealth rest in me.
 मयि॑ वो॒ राय॑श्श्रयन्ताम्  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मयि॑ । वः॒ । रायः॑ । श्र॒य॒न्ता॒म् ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वः युष्माकं रायो धनानि क्षीरादीनि मयि श्रयन्तां अविच्छेदेन सन्ततं वर्धन्ताम् ॥
@@ -283,7 +328,7 @@ _______
 उप त्वेति प्रथमा ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/001/07_upa_tvAgne.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/001/07_upa_tvAgne.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -579,7 +624,7 @@ _______
 5राजन्तमिति द्वितीया - 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/70_rAjantam_adhvarANA~N.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/70_rAjantam_adhvarANA~N.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -607,6 +652,11 @@ Waxing in his own horne.
 वर्ध॑मानँ॒ स्वे दमे॑  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+राज॑न्तम् । अ॒ध्व॒राणा॑म् । गो॒पामिति॑ गो-पाम् । ऋ॒तस्य॑ । दीदि॑विम् ॥ वर्ध॑मानम् । स्वे । दमे॑ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **राजन्तं** दीप्यमानं **अध्वराणां** यज्ञानां **गोपां** गोप्तारम् । गोपायतेः क्विप् अतोलोपवलिलोपापृक्तलोपाश्च । **ऋतस्य** यज्ञस्य सत्यस्य च गोप्तारम् । यद्वा - **अध्वराणां राजन्तं गोपां** रक्षितारं स्वयं सर्वदा दीदिविं दीप्यमानम् । 
@@ -628,7 +678,7 @@ _______
 6स न इति ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/75_sa_napH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/75_sa_napH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -656,6 +706,11 @@ Befriend us for prosperity.
 सच॑स्वा नस्स्व॒स्तये॑  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सः । नः॒ । पि॒ता । इ॒व॒ । सू॒नवे॑ । अग्ने॑ । सू॒पा॒य॒न इति॑ सु-उ॒पा॒य॒नः । भ॒व॒ ॥ सच॑स्व । नः॒ । स्व॒स्तये॑ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे अग्ने स त्वं नः अस्मभ्यं पितेव सूनवे तात इव पुत्राय सूपायनः सूपचरणः सुखेनोपचरणीयः परिचरणीयो वा भव । 'छन्दसि गत्यर्थेभ्यः' इति युच् । शोभनोपायनो वा ।   
@@ -671,7 +726,7 @@ _______
 7अग्ने त्वं न इति ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/80_agne_tvan.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/80_agne_tvan.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -697,6 +752,11 @@ Our protector, kindly, a shield;
 उ॒त त्रा॒ता शि॒वो भ॑व वरू॒थ्यः॑  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । त्वम् । नः॒ । अन्त॑मः ॥ उ॒त । त्रा॒ता । शि॒वः । भ॒व॒ । व॒रू॒थ्यः॑ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे **अग्ने त्वं नः** अस्माकम् **अन्तमः** अन्तिकतमः सन्निकृष्टतमः । 'तमे तादेश्च' इति तादिलोपः । उत अपिच त्राता रक्षकः भयेष्विति गम्यते । शिवः सुखकरः सर्वदा भव अस्माकं **वरूथ्यः** गृहे भवः नित्यसन्निहितः । दिगादित्वाद्यत् । **वरूथाय** गृहाय वा हितः **वरूथ्यः** । उगवादिर्द्रष्टव्यः ॥
@@ -705,7 +765,7 @@ Our protector, kindly, a shield;
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/024/04_taM_tvA.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/024/04_taM_tvA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -926,7 +986,7 @@ Denn dich, o hellster, leuchtender, begehren wir zum Heil nun für die Freunde.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/107_vasur_agnir.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/107_vasur_agnir.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -950,6 +1010,11 @@ Come hither in thy greatest splendour and give us wealth.
 
 वसु॑र॒ग्निर्वसु॑श्रवाः ।  
 अच्छा॑ नक्षि द्यु॒मत्त॑मो र॒यिन्दाः॑  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वसुः॑ । अ॒ग्निः । वसु॑श्रवा॒ इति॒ वसु॑-श्र॒वाः॒ ॥ अच्छ॑ । न॒क्षि॒ । द्यु॒मत्त॑म॒ इति॑ द्यु॒मत्-त॒मः॒ । र॒यिम् । दाः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -988,6 +1053,11 @@ With strength I gaze on you; gaze on me with strength.
 ऊ॒र्जा मा॑  पश्यत ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ऊ॒र्जा । वः॒ । प॒श्या॒मि॒ । ऊ॒र्जा । मा॒ । प॒श्य॒त॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ऊर्जा क्षीरादिना रसेन समग्रास्सदा वः पश्यामि । यूयमपि ऊर्जा रसेन स्नेहेन बलेन वा सहितं मां पश्यत ।
@@ -1010,12 +1080,17 @@ With increase of wealth I gaze on you; gaze on me with increase of wealth.
 रा॒यस्पोषे॑ण मा पश्य॒त ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रा॒यः । पोषे॑ण । वः॒ । प॒श्या॒मि॒ । रा॒यः । पोषे॑ण । मा॒ । प॒श्य॒त॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 किञ्च - रायो धनस्य पुत्रपश्वादिलक्षणस्य घासादिलक्षणस्य वा पोषेण वृद्ध्या वः पश्यामि । यूयमपि रायो धनस्य पशुहिरण्यलक्षणस्य पोषेण मां पश्यत । पूर्ववत्सत्वस्वरौ ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/121_iDAH_stha.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/121_iDAH_stha.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1044,6 +1119,11 @@ may I prosper with your thousandfold   prosperity [3], may your wealth rest on m
 स॒ह॒स्र॒पो॒षव्ँवᳶ॑ पुष्यासं [23] मयि॑ वो॒ राय॑श्श्रयन्ताम् ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इडाः॑ । स्थ॒ । म॒धु॒कृत॒ इति॑ मधु-कृतः॑ । स्यो॒नाः । मा॒ । एति॑ । वि॒श॒त॒ । इराः॑ । मदः॑ ॥ स॒ह॒स्र॒पो॒षमिति॑ सहस्र-पो॒षम् । वः॒ । पु॒ष्या॒स॒म् । मयि॑ । वः॒ । रायः॑ । श्र॒य॒न्ता॒म् ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 11इडास्स्थेत्यादि अनुष्टुप् ॥ **इडाः** अन्नं **स्थ** तद्धेतुवात्ताच्छब्द्यम् । **मधुकृतः** मधुसदृशस्य कृतः कर्त्र्यः उत्पादयित्र्यः ।  
@@ -1063,7 +1143,7 @@ _______
 12आहवनीयमुप्तिष्ठते - तत्सवितुरिति गायत्र्या ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -1849,7 +1929,7 @@ _______
 13पुनरप्य् आहवनीयमुपतिष्ठते - सोमानमिति गायत्र्या ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/01_somAnaM_svaraNaM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/01_somAnaM_svaraNaM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2141,7 +2221,7 @@ _______
 14रात्रिमुपतिष्ठते - कदा चनेति पथ्याबृहत्या ॥ 'तृतीयश्चेद्द्वादशाक्षरः पथ्या' इति ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/051/07_kadA_chana.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/051/07_kadA_chana.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2491,7 +2571,7 @@ _______
 15गार्हपत्यम् उपतिष्ठते - परि त्वेत्यनुष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/216_pari_tvAgne.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/216_pari_tvAgne.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -2520,6 +2600,11 @@ Destroyer of that which may be broken.
 
 परि॑ त्वाग्ने॒ पुरव्ँ॑व॒यव्ँविप्रँ॑ सहस्य धीमहि ।  
 धृ॒षद्व॑र्णन्दि॒वेदि॑वे भे॒त्तार॑म्भङ्गु॒राव॑तः  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+परीति॑ । त्वा॒ । अ॒ग्ने॒ । पुर॑म् । व॒यम् । विप्र॑म् । स॒ह॒स्य॒ । धी॒म॒हि॒ ॥ धृ॒षद्व॑र्ण॒मिति॑ धृ॒षत्-व॒र्ण॒म् । दि॒वेदि॑व॒ इति॑ दि॒वे-दि॒वे॒ । भे॒त्तार॑म् । भ॒ङ्गु॒राव॑त॒ इति॑ भङ्गु॒र-व॒तः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

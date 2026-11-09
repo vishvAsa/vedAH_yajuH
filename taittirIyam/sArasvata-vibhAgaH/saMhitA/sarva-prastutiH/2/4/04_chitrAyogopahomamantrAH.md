@@ -25,6 +25,16 @@ Prajapati created offspring;
 प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । प्र॒जा इति॑ प्र-जाः । अ॒सृ॒ज॒त॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+1प्रजापतिः प्रजा असृजतेत्यादि ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ अस्मात्सृष्टाᳶ᳓ प᳓राचीरायन् ।
@@ -38,6 +48,16 @@ they created went away from him;
 <details><summary>मूलम्</summary>
 
 ता अ॑स्मात्सृ॒ष्टाᳶ परा॑चीरायन् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ताः । अ॒स्मा॒त् । सृ॒ष्टाः । परा॑चीः । आ॒य॒न् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+पराचीः पराचीनगतयः अपुनरावृत्ता एव यद्गताः ता यत्रावसन् ततो गर्मुदुदतिष्ठत् अकृष्टादेव प्रदेशात् स्वयमेवाजायत । विजातीयेन सहोत्पन्नः तृणविशेषो गर्मुत् । ओषधीनां दुष्टपरिणाम इत्येके ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -57,9 +77,14 @@ where they stayed, thence sprung the bean.
 ततो॑ ग॒र्मुदुद॑तिष्ठत् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ताः । यत्र॑ । अव॑सन् । ततः॑ । ग॒र्मुत् । उदिति॑ । अ॒ति॒ष्ठ॒त् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-1प्रजापतिः प्रजा असृजतेत्यादि ॥ पराचीः पराचीनगतयः अपुनरावृत्ता एव यद्गताः ता यत्रावसन् ततो गर्मुदुदतिष्ठत् अकृष्टादेव प्रदेशात् स्वयमेवाजायत । विजातीयेन सहोत्पन्नः तृणविशेषो गर्मुत् । ओषधीनां दुष्टपरिणाम इत्येके ।
+अथ ताः बृहस्पतिः प्रजापातिश्चान्ववैतां पश्चादनुसृत्य अवगतवन्तौ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -77,9 +102,9 @@ Those he followed with Brhaspati;
 ता बृह॒स्पति॑श्चा॒न्ववै॑ताम् ।  
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-अथ ताः बृहस्पतिः प्रजापातिश्चान्ववैतां पश्चादनुसृत्य अवगतवन्तौ ।
+ताः । बृह॒स्पतिः॑ । च॒ । अ॒न्ववै॑ता॒मित्य॑नु-अवै॑ताम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -95,6 +120,11 @@ Brhaspati said, 'With this will I go before thee,
 <details><summary>मूलम्</summary>
 
 सो॑ऽब्रवी॒द्, बृह॒स्पति॑र॒नया॑ त्वा॒ प्र ति॑ष्ठानि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । अ॒ब्र॒वी॒त् । बृह॒स्पतिः॑ । अ॒नया॑ । त्वा॒ । प्रेति॑ । ति॒ष्ठा॒नि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -117,6 +147,11 @@ then shall offspring have resort to thee.'
 अथ॑ त्वा प्र॒जा उ॒पाव॑र्त्स्य॒न्तीति॑ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अथ॑ । त्वा॒ । प्र॒जा इति॑ प्र-जाः । उ॒पाव॑र्त्स्य॒न्तीत्यु॑प-आव॑र्त्स्यन्ति । इति॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथ प्रकृष्टस्थितिकं त्वां प्रजा उपावर्त्स्यन्तीति ।
@@ -135,6 +170,11 @@ He went before him;
 <details><summary>मूलम्</summary>
 
 तम्प्राति॑ष्ठत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । प्रेति॑ । अ॒ति॒ष्ठ॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -157,6 +197,16 @@ then indeed did offspring resort to Prajapati.
 ततो॒ वै प्र॒जाप॑तिम्प्र॒जा उ॒पाव॑र्तन्त ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ततः॑ । वै । प्र॒जाप॑ति॒मिति॑ प्र॒जा-प॒ति॒म् । प्र॒जा इति॑ प्र-जाः । उ॒पाव॑र्त॒न्तेत्यु॑प-आव॑र्तन्त ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ततो वा इत्यादि । गतम् ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यᳶ᳓ प्रजा᳓कामस्स्या᳓त् ।  
@@ -176,6 +226,11 @@ For him who desires offspring he should offer this oblation of beans to Prajapat
 प्र॒जाप॑तिमे॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यः । प्र॒जाका॑म॒ इति॑ प्र॒जा-का॒मः॒ । स्यात् । तस्मै॑ । ए॒तम् । प्रा॒जा॒प॒त्यमिति॑ प्राजा-प॒त्यम् । गा॒र्मु॒तम् । च॒रुम् । निरिति॑ । व॒पे॒त् । प्र॒जाप॑ति॒मिति॑ प्र॒जा-प॒ति॒म् । ए॒व । स्वेन॑ । भा॒ग॒धेये॒नेति॑ भाग-धेये॑न । उपेति॑ । धा॒व॒ति॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एवा᳓स्मै प्रजा᳓म्प्र᳓ जनयति ।
@@ -191,9 +246,9 @@ verily he produces offspring for him.
 स ए॒वास्मै॑ प्र॒जाम्प्र ज॑नयति ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-ततो वा इत्यादि । गतम् ॥
+सः । ए॒व । अ॒स्मै॒ । प्र॒जामिति॑ प्र-जाम् । प्रेति॑ । ज॒न॒य॒ति॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -216,6 +271,16 @@ Prajapati created cattle;
 प्र॒जाप॑तिᳶ प॒शून॑सृजत ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । प॒शून् । अ॒सृ॒ज॒त॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2पूषा चेति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ऽस्मात्सृष्टाᳶ᳓ प᳓राञ्च आयन् ।  
@@ -231,6 +296,11 @@ they created went away from him;
 
 ते॑ऽस्मात्सृ॒ष्टाᳶ परा॑ञ्च आयन् ।  
 ते यत्राव॑सन् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । अ॒स्मा॒त् । सृ॒ष्टाः । परा॑ञ्चः । आ॒य॒न् । ते । यत्र॑ । अव॑सन् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -250,6 +320,11 @@ where they stayed, thence sprung the bean;
 तान्पू॒षा चा॒न्ववै॑ताम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ततः॑ । ग॒र्मुत् । उदिति॑ । अ॒ति॒ष्ठ॒त् । तान् । पू॒षा । च॒ । अ॒न्ववै॑ता॒मित्य॑नु-अवै॑ताम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓ऽब्रवीत् ।  
@@ -267,6 +342,16 @@ those he followed with Pusan;
 पू॒षानया॑ मा॒ प्र ति॑ष्ठ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सः । अ॒ब्र॒वी॒त् । पू॒षा । अ॒नया॑ । मा॒ । प्रेति॑ । ति॒ष्ठ॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+पूषा च प्रजापतिश्च, अथ सोब्रवीत्पूषा प्रजापतिं अनया गर्मुता प्रतिष्ठ ततो मयि प्रकृष्टस्थितिके सति त्वां पशव उपावर्त्स्यन्तीति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ त्वा पश᳓व उपा᳓वर्त्स्यन्ती᳓ति ।
@@ -282,9 +367,14 @@ Pusan said, 'With this do thou go before me;
 अथ॑ त्वा प॒शव॑ उ॒पाव॑र्त्स्य॒न्तीति॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अथ॑ । त्वा॒ । प॒शवः॑ । उ॒पाव॑र्त्स्य॒न्तीत्यु॑प-आव॑र्त्स्यन्ति । इति॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-2पूषा चेति ॥ पूषा च प्रजापतिश्च, अथ सोब्रवीत्पूषा प्रजापतिं अनया गर्मुता प्रतिष्ठ ततो मयि प्रकृष्टस्थितिके सति त्वां पशव उपावर्त्स्यन्तीति ।
+अत्रान्तरे सोमोपि मां प्रतिष्ठेति प्रजापतिमब्रवीत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -302,9 +392,9 @@ then shall cattle resort to thee.' 'Do thou go before me', said Soma,
 माम्प्र ति॒ष्ठेति॒ सोमो॑ऽब्रवीत् ।  
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-अत्रान्तरे सोमोपि मां प्रतिष्ठेति प्रजापतिमब्रवीत् ।
+माम् । प्रेति॑ । ति॒ष्ठ॒ । इति॑ । सोमः॑ । अ॒ब्र॒वी॒त् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -320,6 +410,11 @@ then shall cattle resort to thee.' 'Do thou go before me', said Soma,
 <details><summary>मूलम्</summary>
 
 मम॒ वा अ॑कृष्टप॒च्यमिति॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मम॑ । वै । अ॒कृ॒ष्ट॒प॒च्यमित्य॑कृष्ट-प॒च्यम् । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -342,6 +437,11 @@ then shall cattle resort to thee.' 'Do thou go before me', said Soma,
 उ॒भौ वा॒म्प्र ति॑ष्ठा॒नीत्य॑ब्रवीत् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒भौ । वा॒म् । प्रेति॑ । ति॒ष्ठा॒नि॒ । इति॑ । अ॒ब्र॒वी॒त् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अप उभावपि युवां प्रतिष्ठानीति प्रजापतिरब्रवीत् सोमापूषणौ ।
@@ -360,6 +460,11 @@ he went before them both;
 <details><summary>मूलम्</summary>
 
 तौ प्राति॑ष्ठत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तौ । प्रेति॑ । अ॒ति॒ष्ठ॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -394,6 +499,11 @@ then indeed did cattle resort to Prajapati. For him who desires cattle should he
 सोमो॒ वै रे॑तो॒धाᳶ पू॒षा प॑शू॒नाम्प्र॑जनयि॒ता ,  
 सोम॑ ए॒वास्मै॒ रेतो॒ दधा॑ति ।  
 पू॒षा प॒शून्प्र ज॑नयति ॥  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ततः॑ । वै । प्र॒जाप॑ति॒मिति॑ प्र॒जा-प॒ति॒म् । प॒शवः॑ । उ॒पाव॑र्त॒न्तेत्यु॑प-आव॑र्तन्त । यः । प॒शुका॑म॒ इति॑ प॒शु-का॒मः॒ । स्यात् । तस्मै॑ । ए॒तम् । सो॒मा॒पौ॒ष्णमिति॑ सोमा-पौ॒ष्णम् । गा॒र्मु॒तम् । च॒रुम् । निरिति॑ । व॒पे॒त् । सो॒मा॒पू॒षणा॒विति॑ सोमा-पू॒षणौ॑ । ए॒व । स्वेन॑ । भा॒ग॒धेये॒नेति॑ भाग-धेये॑न । उपेति॑ । धा॒व॒ति॒ । तौ । ए॒व । अ॒स्मै॒ । प॒शून् । प्रेति॑ । ज॒न॒य॒तः॒ । सोमः॑ । वै । रे॒तो॒धा इति॑ रेतः-धाः । पू॒षा । प॒शू॒नाम् । प्र॒ज॒न॒यि॒तेति॑ प्र-ज॒न॒यि॒ता । सोमः॑ । ए॒व । अ॒स्मै॒ । रेतः॑ । दधा॑ति । पू॒षा । प॒शून् । प्रेति॑ । ज॒न॒य॒ति॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

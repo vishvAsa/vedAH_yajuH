@@ -454,6 +454,11 @@ _______
 +++(आज्य!)+++ का᳓र्षिर्+++(=कर्षणीयम्)+++ अस्य्, अ᳓प᳓ +अपा᳓म् मृध्र᳓म्+++(←मृध् युद्धे)+++ +++(कर्षामि/ कर्ष)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the dragger; do thou drag away the foe of the waters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कार्षि॑र॒स्यपा॒पाम्मृ॒ध्रम् ।

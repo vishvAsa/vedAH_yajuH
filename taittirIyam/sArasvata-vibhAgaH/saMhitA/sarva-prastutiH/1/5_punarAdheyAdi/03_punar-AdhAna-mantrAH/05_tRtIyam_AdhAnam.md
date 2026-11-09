@@ -7,7 +7,7 @@ _______
 11-13तृतीयम् आ-दधानस्य स्रुवाहुतिमन्त्राः - लेक इत्यादयः ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/05_tRtIyam_AdhAnam/02_lekas_salekas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/05_tRtIyam_AdhAnam/02_lekas_salekas.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -33,7 +33,7 @@ Leka, Salekha, Sulekha, may these Adityas rejoicing partake of our oblation;
 
 <details><summary>पद-पाठः</summary>
 
-4L । लेकः॑ । सले॑क॒ इति॒ स-ले॒कः॒ । सु॒लेक॒ इति॑ सु-लेकः॑ । ते । नः॒ । आ॒दि॒त्याः । आज्य॑म् । जु॒षा॒णाः । वि॒य॒न्तु॒ ।
+लेकः॑ । सले॑क॒ इति॒ स-ले॒कः॒ । सु॒लेक॒ इति॑ सु-लेकः॑ । ते । नः॒ । आ॒दि॒त्याः । आज्य॑म् । जु॒षा॒णाः । वि॒य॒न्तु॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -46,7 +46,7 @@ Leka, Salekha, Sulekha, may these Adityas rejoicing partake of our oblation;
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/05_tRtIyam_AdhAnam/03_ketas_saketas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/05_tRtIyam_AdhAnam/03_ketas_saketas.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -83,7 +83,7 @@ Keta, Saketa, Suketa, may these Adityas rejoicing partake of our oblation;
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/05_tRtIyam_AdhAnam/04_vivasvAM_aditir.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/05_tRtIyam_AdhAnam/04_vivasvAM_aditir.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 

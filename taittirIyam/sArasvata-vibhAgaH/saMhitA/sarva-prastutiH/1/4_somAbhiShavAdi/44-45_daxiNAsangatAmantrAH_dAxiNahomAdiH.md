@@ -3,18 +3,13 @@ title = "४६-४८ दक्षिणासङ्गतामन्त्र
 +++
 १ गायत्री २-३ त्रिष्टुप् । सोमऋषिः
 
-<details><summary>Keith</summary>
-
-The Daksina Offerings
-</details>
-
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ दाक्षिणं काण्डं सौम्यमेव । तत्र शौरीभ्याम् ऋग्भ्यां गार्हपत्ये जुहोति - उदुत्यमिति प्रथमा गायत्री, द्वितीया त्रिष्टुप् ॥  तत्र प्रथमा -
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -324,7 +319,7 @@ _______
 2अथ द्वितीया।  … 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -697,7 +692,7 @@ _______
 3आग्नीध्रीये जुहोति - अग्ने नयेति त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/01_agne_naya.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/01_agne_naya.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1099,7 +1094,7 @@ Go to the sky, fly to heaven.
 
 <details><summary>पद-पाठः</summary>
 
-4D । दिव॑म् । ग॒च्छ॒ । सुवः॑ । प॒त॒ ।
+दिव॑म् । ग॒च्छ॒ । सुवः॑ । प॒त॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1113,7 +1108,7 @@ _______
 5दक्षिणा अभ्येति - रूपेणेति प्रथमया चतुर्दशाक्षरया ॥ 'अभ्यैमि वयसा वयः' इति द्वितीयः पादः । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1140,7 +1135,7 @@ With my form [1] I approach your form; with my age your age.
 
 <details><summary>पद-पाठः</summary>
 
-5E । रू॒पेण॑ । 1 । वः॒ । रू॒पम् । अ॒भि । एति॑ । ए॒मि॒ । वय॑सा । वयः॑ ॥
+रू॒पेण॑ । वः॒ । रू॒पम् । अ॒भि । एति॑ । ए॒मि॒ । वय॑सा । वयः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1176,7 +1171,7 @@ May Tutha, all knowing, allot to you in the highest firmament.
 
 <details><summary>पद-पाठः</summary>
 
-2F । तु॒थः । वः॒ । वि॒श्ववे॑दा॒ इति॑ वि॒श्व-वे॒दाः॒ । वीति॑ । भ॒ज॒तु॒ । वर्षि॑ष्ठे । अधीति॑ । नाके॑ ॥
+तु॒थः । वः॒ । वि॒श्ववे॑दा॒ इति॑ वि॒श्व-वे॒दाः॒ । वीति॑ । भ॒ज॒तु॒ । वर्षि॑ष्ठे । अधीति॑ । नाके॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1195,7 +1190,7 @@ _______
 7सदोऽभ्येति - एतत्ते अग्ने इति मध्येज्योतिषा जगत्या । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1229,7 +1224,7 @@ Leading prosperity by the path of the sacrifice.
 
 <details><summary>पद-पाठः</summary>
 
-3G । ए॒तत् । ते॒ । अ॒ग्ने॒ । राधः॑ । एति॑ । ए॒ति॒ । सोम॑च्युत॒मिति॒ सोम॑-च्यु॒त॒म् । 4 । तत् । मि॒त्रस्य॑ । प॒था । न॒य॒ । 5I । ऋ॒तस्य॑ । प॒था । प्रेति॑ । इ॒त॒ । च॒न्द्रद॑क्षिणा॒ इति॑ च॒न्द्र-द॒क्षि॒णाः॒ । य॒ज्ञस्य॑ । प॒था । सु॒वि॒ता । नय॑न्तीः ।
+ए॒तत् । ते॒ । अ॒ग्ने॒ । राधः॑ । एति॑ । ए॒ति॒ । सोम॑च्युत॒मिति॒ सोम॑-च्यु॒त॒म् । तत् । मि॒त्रस्य॑ । प॒था । न॒य॒ । ऋ॒तस्य॑ । प॒था । प्रेति॑ । इ॒त॒ । च॒न्द्रद॑क्षिणा॒ इति॑ च॒न्द्र-द॒क्षि॒णाः॒ । य॒ज्ञस्य॑ । प॒था । सु॒वि॒ता । नय॑न्तीः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1253,7 +1248,7 @@ _______
 8आत्रेयमभ्यर्थयति - ब्राह्मणमिति ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1280,7 +1275,7 @@ May I win a Brahman to-day, a seer and sprung from seers, of (famous) father and
 
 <details><summary>पद-पाठः</summary>
 
-6K । ब्रा॒ह्म॒णम् । अ॒द्य । रा॒ध्या॒स॒म् । ऋषि॑म् । आ॒र्षे॒यम् । पि॒तृ॒मन्त॒मिति॑ पितृ-मन्त॑म् । पै॒तृ॒म॒त्यमिति॑ पैतृ-म॒त्यम् । सु॒धातु॑दक्षिण॒मिति॑ सु॒धातु॑-द॒क्षि॒ण॒म् ।
+ब्रा॒ह्म॒णम् । अ॒द्य । रा॒ध्या॒स॒म् । ऋषि॑म् । आ॒र्षे॒यम् । पि॒तृ॒मन्त॒मिति॑ पितृ-मन्त॑म् । पै॒तृ॒म॒त्यमिति॑ पैतृ-म॒त्यम् । सु॒धातु॑दक्षिण॒मिति॑ सु॒धातु॑-द॒क्षि॒ण॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1317,7 +1312,7 @@ Gaze on the heaven, gaze on the atmosphere.
 
 <details><summary>पद-पाठः</summary>
 
-वि । 7L । वीति॑ । सुवः॑ । पश्य॑ । वीति॑ । अ॒न्तरि॑क्षम् ।
+वीति॑ । सुवः॑ । पश्य॑ । वीति॑ । अ॒न्तरि॑क्षम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1348,7 +1343,7 @@ Join those in the seat.
 
 <details><summary>पद-पाठः</summary>
 
-8M । यत॑स्व । स॒द॒स्यैः॑ ।
+यत॑स्व । स॒द॒स्यैः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1412,6 +1407,22 @@ without leaving us fare by the path leading to the gods;
 अन॑वहाया॒स्मान्दे॑व॒याने॑न प॒थेत॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अन॑वहा॒येत्यन॑व-हा॒य॒ । अ॒स्मान् । दे॒व॒याने॒नेति॑ देव-याने॑न । प॒था । इ॒त॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+किञ्च - अनवहाय । क्त्वो ल्यप् । अपरित्यज्यास्मानस्माभिस्सहैव वर्तमानाः अस्मच्छरीरपातोत्तरकालमस्माभिस्सहैव देवयानेन पथेत । देवा येन प्राप्यन्ते तादृशेन मार्गेणेत गच्छत । गत्वा च सुकृतां लोके सीदत अस्माभिस्सह निषीदत । 
+
+तत् स्थानं नः अस्माकं संस्कृतं सम्यगुपभोगयोग्यतया कृतं निष्पन्नं विश्वकर्मणा ईश्वरेण ।
+
+'सम्पर्युपेभ्यः' इति सुट्, 'सम्पुंकानाम्' इति सत्वम्, पूर्ववदनवग्रहः । यद्वा - त्तत्तत्र नः अस्माकं संस्कृतं समवायः ।
+
+'समवाये च' इति सुट् ॥
+</details>
+
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुकृ᳓ताल्ँ लोके᳓ **सीदत** ।
@@ -1425,6 +1436,11 @@ sit in the world of the righteous.
 <details><summary>मूलम्</summary>
 
 सु॒कृताल्ँ॑ लो॒के सी॑दत ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒कृता॒मिति॑ सु-कृता॑म् । लो॒के । सी॒द॒त॒ ।
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1444,14 +1460,7 @@ Be this complete for us.
 
 <details><summary>पद-पाठः</summary>
 
-अन॑वहा॒येत्यन॑व-हा॒य॒ । अ॒स्मान् । दे॒व॒याने॒नेति॑ देव-याने॑न । प॒था । इ॒त॒ । सु॒कृता॒मिति॑ सु-कृता॑म् । लो॒के । सी॒द॒त॒ । 10O । तत् । नः॒ । सँ॒स्कृ॒तम् ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-किञ्च - अनवहाय । क्त्वो ल्यप् । अपरित्यज्यास्मानस्माभिस्सहैव वर्तमानाः अस्मच्छरीरपातोत्तरकालमस्माभिस्सहैव देवयानेन पथेत । देवा येन प्राप्यन्ते तादृशेन मार्गेणेत गच्छत । गत्वा च सुकृतां लोके सीदत अस्माभिस्सह निषीदत । 
-
-तत् स्थानं नः अस्माकं संस्कृतं सम्यगुपभोगयोग्यतया कृतं निष्पन्नं विश्वकर्मणा ईश्वरेण । 'सम्पर्युपेभ्यः' इति सुट्, 'सम्पुंकानाम्' इति सत्वम्, पूर्ववदनवग्रहः । यद्वा - त्तत्तत्र नः अस्माकं संस्कृतं समवायः । 'समवाये च' इति सुट् ॥
+तत् । नः॒ । सँ॒स्कृ॒तम् ॥
 </details>
 
 इति चतुर्थे सप्तत्रिंशोनुवाकः ॥

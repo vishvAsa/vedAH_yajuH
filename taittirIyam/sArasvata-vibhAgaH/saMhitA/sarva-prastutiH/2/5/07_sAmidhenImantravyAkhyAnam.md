@@ -17,7 +17,7 @@ title = "०७ सामिधेनीमन्त्रव्याख्य�
 ते᳓ सा᳓मन्न् एवा᳓श्रयन्त   
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 The gods could not rest on the Rc or the Yajus. On the Saman only could they rest.
 </details>
@@ -50,7 +50,7 @@ The gods could not rest on the Rc or the Yajus. On the Saman only could they res
 सा᳓मैवा᳓कर्, हि᳓ङ्करोति   
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He makes the noise 'Him'; verily he makes the Saman. He makes the noise 'Him';
 </details>
@@ -86,7 +86,7 @@ He makes the noise 'Him'; verily he makes the Saman. He makes the noise 'Him';
 हि᳓ङ् करोति 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 where the gods rested, there he sets them in motion. He makes the noise 'Him';
 </details>
@@ -119,7 +119,7 @@ where the gods rested, there he sets them in motion. He makes the noise 'Him';
 प्रजा᳓ एव᳓ त᳓द् य᳓जमानस् सृजते   
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 this is the yoking of speech. He makes the noise 'Him'; thus the sacrificers produce offspring.
 </details>
@@ -155,7 +155,7 @@ this is the yoking of speech. He makes the noise 'Him'; thus the sacrificers pro
 यज्ञ᳓स्यैव᳓ त᳓द् बर्स᳓न्+++(=अन्तं)+++ नह्यत्य् अ᳓प्रस्रँसाय 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He repeats the first (verse) thrice, the last thrice; verily he ties the end of the sacrifice [1] so that it may not slip.
 </details>
@@ -192,7 +192,7 @@ He repeats the first (verse) thrice, the last thrice; verily he ties the end of 
 स᳓न्ततम् अ᳓न्वाह ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He repeats (it) continuously,
 </details>
@@ -222,7 +222,7 @@ He repeats (it) continuously,
 प्राणा᳓नाम् अन्ना᳓द्यस्य स᳓न्तत्यै ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 for the continuity of the breaths and of food,
 </details>
@@ -234,7 +234,7 @@ for the continuity of the breaths and of food,
 
 <details><summary>पद-पाठः</summary>
 
-प्रा॒णाना॒मिति॑ प्र-अ॒नाना॑म् । अ॒न्नाद्य॒स्येत्य॑न्न-अद्य॑स्य । सन्त॑त्या॒ इति॒ सम्-त॒त्यै॒ ।  3 ।
+प्रा॒णाना॒मिति॑ प्र-अ॒नाना॑म् । अ॒न्नाद्य॒स्येत्य॑न्न-अद्य॑स्य । सन्त॑त्या॒ इति॒ सम्-त॒त्यै॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -252,7 +252,7 @@ for the continuity of the breaths and of food,
 अ᳓थो र᳓क्षसाम् अ᳓पहत्यै ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 and for the smiting away of the Raksases.
 </details>
@@ -264,7 +264,7 @@ and for the smiting away of the Raksases.
 
 <details><summary>पद-पाठः</summary>
 
-अथो॒ इति॑ । रक्ष॑साम् । अप॑हत्या॒ इत्यप॑-ह॒त्यै॒ । 4 ।
+अथो॒ इति॑ । रक्ष॑साम् । अप॑हत्या॒ इत्यप॑-ह॒त्यै॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -284,7 +284,7 @@ and for the smiting away of the Raksases.
 रा᳓थन्तरीम् प्रथमा᳓म् अ᳓न्वाह।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 The first he repeats is connected with the Rathantara (Saman),
 </details>
@@ -294,14 +294,14 @@ The first he repeats is connected with the Rathantara (Saman),
 राथ॑न्तरीम्प्रथ॒मामन्वा॑ह।  
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-5राथन्तरीमिति ॥ सामविशेषसम्बन्धेन ऋचस्स्तुतिः । रथन्तरसामसम्बन्धिनी प्रथमा ऋक्, प्रथम्याद्द्वयोरुदात्तस्वरत्वाच्च । उत्सादित्वादञ् ।
-</details>
-
 <details><summary>पद-पाठः</summary>
 
 राथ॑न्तरीम् । प्र॒थ॒माम् । अन्विति॑ । आ॒ह॒ । 
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+5राथन्तरीमिति ॥ सामविशेषसम्बन्धेन ऋचस्स्तुतिः । रथन्तरसामसम्बन्धिनी प्रथमा ऋक्, प्रथम्याद्द्वयोरुदात्तस्वरत्वाच्च । उत्सादित्वादञ् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -315,7 +315,7 @@ The first he repeats is connected with the Rathantara (Saman),
 इम᳓म् एव᳓ लोक᳓म् अभि᳓ जयति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 this world is connected with the Rathantara; verily he conquers this world.
 </details>
@@ -328,7 +328,7 @@ this world is connected with the Rathantara; verily he conquers this world.
 <details><summary>पद-पाठः</summary>
 
 राथ॑न्तरः । वै । अ॒यम् । लो॒कः ।   
-इ॒मम् । ए॒व । लो॒कम् । अ॒भीति॑ । ज॒य॒ति॒ । 7 ।
+इ॒मम् । ए॒व । लो॒कम् । अ॒भीति॑ । ज॒य॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -348,7 +348,7 @@ this world is connected with the Rathantara; verily he conquers this world.
 इमा᳓न् एव᳓ लोका᳓न् अभि᳓ जयति 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He divides it thrice; these worlds are three; verily he conquers these worlds.
 </details>
@@ -384,7 +384,7 @@ He divides it thrice; these worlds are three; verily he conquers these worlds.
 अमु᳓म् एव᳓ लोक᳓म् अभि᳓ जयति 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 The last he repeats is connected with the Brhat (Saman); yonder world is connected with the Brhat; verily he conquers yonder world.
 </details>
@@ -424,7 +424,7 @@ The last he repeats is connected with the Brhat (Saman); yonder world is connect
 प्र᳓ वो वा᳓जा इ᳓त्य् अ᳓निरुक्ताम् +++(अनिरुक्तत्वाद् एव→)+++ प्राजापत्या᳓म् अ᳓न्वाह ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Forward [2] your viands', he repeats, a verse which has not any indication (of its deity) and (therefore) is addressed to Prajapati.
 </details>
@@ -446,7 +446,7 @@ The last he repeats is connected with the Brhat (Saman); yonder world is connect
 यज्ञ᳓म् एव᳓ प्रजा᳓पतिम् आ᳓ रभते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Prajapati is the sacrifice; verily he grasps the sacrifice as Prajapati.
 </details>
@@ -469,7 +469,7 @@ Prajapati is the sacrifice; verily he grasps the sacrifice as Prajapati.
 अ᳓न्नम् एवा᳓व रुन्द्धे ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Forward your viands', he repeats; viands are food; verily he wins food.
 </details>
@@ -493,7 +493,7 @@ Prajapati is the sacrifice; verily he grasps the sacrifice as Prajapati.
 प्र᳓ वो वा᳓जा इ᳓त्य् अ᳓न्वाह ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Forward your viands', he repeats;
 </details>
@@ -530,7 +530,7 @@ Prajapati is the sacrifice; verily he grasps the sacrifice as Prajapati.
 त᳓स्मात् +++(→प्र-शब्दात्)+++ प्राची᳓नँ+++(=प्रगतं)+++ रे᳓तो धीयते  ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 therefore seed is deposited in front.
 </details>
@@ -542,7 +542,7 @@ therefore seed is deposited in front.
 
 <details><summary>पद-पाठः</summary>
 
-तस्मा॑त् । प्रा॒चीन॑म् । रेतः॑ । धी॒य॒ते॒ । 9 ।
+तस्मा॑त् । प्रा॒चीन॑म् । रेतः॑ । धी॒य॒ते॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -571,7 +571,7 @@ therefore seed is deposited in front.
 त᳓स्मात् +++(←"आयाहि")+++ प्रती᳓चीः प्रजा᳓ जायन्ते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'O Agni, come hither for the feast', he repeats; therefore offspring are born at the back.
 </details>
@@ -612,7 +612,7 @@ therefore seed is deposited in front.
 मा᳓सा वै᳓ "वा᳓जाः" ,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Forward your viands', he repeats [3]; 'viands' are the months,
 </details>
@@ -646,7 +646,7 @@ therefore seed is deposited in front.
 अर्धमासा᳓ "अभि᳓-द्यवः" .. ,   
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'heavenwards' are the half-months,
 </details>
@@ -671,7 +671,7 @@ therefore seed is deposited in front.
 देवा᳓ "हवि᳓ष्मन्तः" ,    
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'rich in the oblation' are the gods,
 </details>
@@ -696,7 +696,7 @@ therefore seed is deposited in front.
 गौ᳓र् "घृता᳓ची",   
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'full of butter' is the cow,
 </details>
@@ -721,7 +721,7 @@ therefore seed is deposited in front.
 यज्ञो᳓ "देवा᳓ञ् जिगाति" ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'he goes to the gods' (that is) the sacrifice,
 </details>
@@ -746,7 +746,7 @@ therefore seed is deposited in front.
 य᳓जमानस् "सुम्नयुः᳓" ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'desirous of favour ' is the sacrificer.
 </details>
@@ -773,7 +773,7 @@ therefore seed is deposited in front.
 "इद᳓म् असि, इद᳓म् असी᳓"त्य् एव᳓ यज्ञ᳓स्य प्रिय᳓न् धा᳓मा᳓व रुन्द्धे ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 'Thou art this, thou art this', (with these words) he wins the dear abode of the sacrifice.
 </details>
@@ -814,7 +814,7 @@ therefore seed is deposited in front.
 उ᳓त्तरम् अर्धर्च᳓म् आ᳓ लभेत 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 If he desire for a man, 'May he live all his days', he should repeat for him 'Forward your viands', and then continuously the next half-verse of 'Agni, come hither to the feast' [4].
 </details>
@@ -849,7 +849,7 @@ If he desire for a man, 'May he live all his days', he should repeat for him 'Fo
 स᳓र्वम् आ᳓युर् एति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Verily by expiration does he make steadfast his inspiration, and he lives all his days.
 </details>
@@ -889,7 +889,7 @@ Verily by expiration does he make steadfast his inspiration, and he lives all hi
  ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He, who knows the elbow of the Samidhenis, puts his enemy in his elbow.
 </details>
@@ -922,7 +922,7 @@ He, who knows the elbow of the Samidhenis, puts his enemy in his elbow.
 अरत्ना᳓व् एव᳓ भ्रा᳓तृव्यङ् कुरुते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 puts his enemy in his elbow.
 </details>
@@ -956,7 +956,7 @@ puts his enemy in his elbow.
 अरत्ना᳓वेव᳓ भ्रा᳓तृव्यङ् कुरुते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He joins the half-verses; this is the elbow of the Samidhenis; he who knows thus puts his foe in his elbow.
 </details>
@@ -1001,7 +1001,7 @@ He joins the half-verses; this is the elbow of the Samidhenis; he who knows thus
 य᳓त् सामिधेन्यः᳙ ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 The Samidhenis were brought out by Rsi after Rsi;
 </details>
@@ -1037,7 +1037,7 @@ The Samidhenis were brought out by Rsi after Rsi;
 प्रज᳓या पशु᳓भिर् य᳓जमानस्य वि᳓ तिष्ठेरन् +++(ऋषयः)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 if they were not connected together, they would go away from the sacrificer's offspring and cattle.
 </details>
@@ -1068,7 +1068,7 @@ if they were not connected together, they would go away from the sacrificer's of
 सय्ँ᳓ युनक्त्य् एवै᳓नाः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 He unites the half-verses; verily he connects them together,
 </details>
@@ -1102,7 +1102,7 @@ He unites the half-verses; verily he connects them together,
 स᳓र्वाम् आशि᳓षन् दुह्रे ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 and being so connected and secured they yield him all his desires.
 </details>

@@ -13,7 +13,7 @@ title = "१२ जलसंस्कारादि"
 1एवं गृहीत्वाथ वैतसे द्रोणकलशे ग्रहान् समवनयति - देवीराप इति ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/02_devIr_Apas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/02_devIr_Apas.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -43,7 +43,7 @@ Winning great radiance for the Ksatriya.
 
 <details><summary>पद-पाठः</summary>
 
-1A । देवीः॑ । आ॒पः॒ । समिति॑ । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । मधु॑मतीभि॒रिति॒ मधु॑-म॒ती॒भिः॒ । सृ॒ज्य॒ध्व॒म् । महि॑ । वर्चः॑ । क्ष॒त्रिया॑य । व॒न्वा॒नाः ।
+देवीः॑ । आ॒पः॒ । समिति॑ । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । मधु॑मतीभि॒रिति॒ मधु॑-म॒ती॒भिः॒ । सृ॒ज्य॒ध्व॒म् । महि॑ । वर्चः॑ । क्ष॒त्रिया॑य । व॒न्वा॒नाः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -61,7 +61,7 @@ Winning great radiance for the Ksatriya.
 2अन्तराहोतुर् धिष्ण्यं ब्राह्मणाच्छंसिनश् च सादयति - अनाधृष्टा इति ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/03_anAdhRShTAs_sIdatorjasvatIr.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/03_anAdhRShTAs_sIdatorjasvatIr.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -88,7 +88,7 @@ Bestowing great radiance upon the Ksatriya.
 
 <details><summary>पद-पाठः</summary>
 
-2B । अना॑धृष्टा॒ इत्यना॑-धृ॒ष्टाः॒ । सी॒द॒त॒ । ऊर्ज॑स्वतीः । महि॑ । वर्चः॑ । क्ष॒त्रिया॑य । दध॑तीः ।
+अना॑धृष्टा॒ इत्यना॑-धृ॒ष्टाः॒ । सी॒द॒त॒ । ऊर्ज॑स्वतीः । महि॑ । वर्चः॑ । क्ष॒त्रिया॑य । दध॑तीः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -104,7 +104,7 @@ Bestowing great radiance upon the Ksatriya.
 3शतमानं हिरण्यं प्रग्रथ्नाति - अनिभृष्टमिति ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/04_anibhRShTam_asi.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/04_anibhRShTam_asi.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -130,7 +130,7 @@ Friend of speech, born of heat, thou art undefeated;
 
 <details><summary>पद-पाठः</summary>
 
-3C । अनि॑भृष्ट॒मित्यनि॑-भृ॒ष्ट॒म् । अ॒सि॒ । वा॒चः । बन्धुः॑ । त॒पो॒जा इति॑ तपः-जाः ।
+अनि॑भृष्ट॒मित्यनि॑-भृ॒ष्ट॒म् । अ॒सि॒ । वा॒चः । बन्धुः॑ । त॒पो॒जा इति॑ तपः-जाः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -199,7 +199,7 @@ The pure I purify you with the pure, the bright with the bright, the immortal wi
 
 <details><summary>पद-पाठः</summary>
 
-4D । शु॒क्राः । वः॒ । शु॒क्रेण॑ । उदिति॑ । पु॒ना॒मि॒ । च॒न्द्राः । च॒न्द्रेण॑ । अ॒मृताः॑ । अ॒मृते॑न । स्वाहा॑ । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥
+शु॒क्राः । वः॒ । शु॒क्रेण॑ । उदिति॑ । पु॒ना॒मि॒ । च॒न्द्राः । च॒न्द्रेण॑ । अ॒मृताः॑ । अ॒मृते॑न । स्वाहा॑ । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -219,7 +219,7 @@ The pure I purify you with the pure, the bright with the bright, the immortal wi
 6अथ पालाशादिषु पात्रेषु गृह्णाति - सधमाद इति त्रिष्टुभा ॥  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/05_sadhamAdo_dyumninIr.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/05_sadhamAdo_dyumninIr.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -251,7 +251,7 @@ The child [1] of the waters in those most motherly.
 
 <details><summary>पद-पाठः</summary>
 
-5E । स॒ध॒माद॒ इति॑ सध-मादः॑ । द्यु॒म्निनीः॑ । ऊर्जः॑ । ए॒ताः । अनि॑भृष्टा॒ इत्यनि॑-भृ॒ष्टाः॒ । अ॒प॒स्युवः॑ । वसा॑नः ॥ प॒स्त्या॑सु । च॒क्रे॒ । वरु॑णः । स॒धस्थ॒मिति॑ स॒ध-स्थ॒म् । अ॒पाम् । शिशुः॑ । 1 । मा॒तृत॑मा॒स्विति॑ मा॒तृ-त॒मा॒सु॒ । अ॒न्तः ॥
+स॒ध॒माद॒ इति॑ सध-मादः॑ । द्यु॒म्निनीः॑ । ऊर्जः॑ । ए॒ताः । अनि॑भृष्टा॒ इत्यनि॑-भृ॒ष्टाः॒ । अ॒प॒स्युवः॑ । वसा॑नः ॥ प॒स्त्या॑सु । च॒क्रे॒ । वरु॑णः । स॒धस्थ॒मिति॑ स॒ध-स्थ॒म् । अ॒पाम् । शिशुः॑ । मा॒तृत॑मा॒स्विति॑ मा॒तृ-त॒मा॒सु॒ । अ॒न्तः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -289,7 +289,7 @@ Thou art the caul of kingly power,
 
 <details><summary>पद-पाठः</summary>
 
-2F । क्ष॒त्रस्य॑ । उल्ब॑म् । अ॒सि॒ ।
+क्ष॒त्रस्य॑ । उल्ब॑म् । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -349,7 +349,7 @@ Notified is Agni, lord of the house;
 
 <details><summary>पद-पाठः</summary>
 
-3G । आवि॑न्नः । अ॒ग्निः । गृ॒हप॑ति॒रिति॑ गृ॒ह-प॒तिः॒ ।
+आवि॑न्नः । अ॒ग्निः । गृ॒हप॑ति॒रिति॑ गृ॒ह-प॒तिः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -571,7 +571,7 @@ This is your king, O Bharatas;
 
 <details><summary>पद-पाठः</summary>
 
-3D । ए॒षः । वः॒ । भ॒र॒ताः॒ । राजा॑ ।
+ए॒षः । वः॒ । भ॒र॒ताः॒ । राजा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -642,7 +642,7 @@ Thou art the bolt of Indra [2] slaying foes;
 
 <details><summary>पद-पाठः</summary>
 
-2B । इन्द्र॑स्य । वज्रः॑ । अ॒सि॒ । वार्त्र॑घ्न॒ इति॒ वार्त्र॑-घ्नः॒ ।
+इन्द्र॑स्य । वज्रः॑ । अ॒सि॒ । वार्त्र॑घ्न॒ इति॒ वार्त्र॑-घ्नः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -707,7 +707,7 @@ Ye are overcomers of foes.
 
 <details><summary>पद-पाठः</summary>
 
-2K । श॒त्रु॒बाध॑ना॒ इति॑ शत्रु-बाध॑नाः । स्थ॒ ।
+श॒त्रु॒बाध॑ना॒ इति॑ शत्रु-बाध॑नाः । स्थ॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -745,7 +745,7 @@ Protect me in front, protect me at the side, protect me from behind; from the qu
 
 <details><summary>पद-पाठः</summary>
 
-3L । पा॒त । मा॒ । प्र॒त्यञ्च॑म् । पा॒त । मा॒ । ति॒र्यञ्च॑म् । अ॒न्वञ्च॑म् । मा॒ । पा॒त॒ । दि॒ग्भ्य इति॑ दिक्-भ्यः । मा॒ । पा॒त॒ । विश्वा॑भ्यः । मा॒ । ना॒ष्ट्राभ्यः॑ । पा॒त॒ ।
+पा॒त । मा॒ । प्र॒त्यञ्च॑म् । पा॒त । मा॒ । ति॒र्यञ्च॑म् । अ॒न्वञ्च॑म् । मा॒ । पा॒त॒ । दि॒ग्भ्य इति॑ दिक्-भ्यः । मा॒ । पा॒त॒ । विश्वा॑भ्यः । मा॒ । ना॒ष्ट्राभ्यः॑ । पा॒त॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -760,7 +760,7 @@ Protect me in front, protect me at the side, protect me from behind; from the qu
 21बाहू उद्गृह्णाति - हिरण्यवर्णाविति त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/06_hiraNyavarNAv_uShasAv.N.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/06_hiraNyavarNAv_uShasAv.N.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -792,7 +792,7 @@ And thence behold ye Aditi and Diti.
 
 <details><summary>पद-पाठः</summary>
 
-4M । हिर॑ण्यवर्णा॒विति॒ हिर॑ण्य-व॒र्णौ॒ । उ॒षसा॑म् । वि॒रो॒क इति॑ वि-रो॒के । अय॑स्स्थूणा॒वित्ययः॑-स्थू॒णौ॒ । उदि॑ता॒वित्युत्-इ॒तौ॒ । सूर्य॑स्य । एति॑ । रो॒ह॒त॒म् । व॒रु॒ण॒ । मि॒त्र॒ । गर्त॑म् । ततः॑ । च॒क्षा॒था॒म् । अदि॑तिम् । दिति॑म् । च॒ ॥
+हिर॑ण्यवर्णा॒विति॒ हिर॑ण्य-व॒र्णौ॒ । उ॒षसा॑म् । वि॒रो॒क इति॑ वि-रो॒के । अय॑स्स्थूणा॒वित्ययः॑-स्थू॒णौ॒ । उदि॑ता॒वित्युत्-इ॒तौ॒ । सूर्य॑स्य । एति॑ । रो॒ह॒त॒म् । व॒रु॒ण॒ । मि॒त्र॒ । गर्त॑म् । ततः॑ । च॒क्षा॒था॒म् । अदि॑तिम् । दिति॑म् । च॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

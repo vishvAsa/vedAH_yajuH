@@ -24,6 +24,16 @@ The gods were afraid of the warrior on his birth.
 दे॒वा वै रा॑ज॒न्या॑ज्जाय॑मानादबिभयुः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+दे॒वाः । वै । रा॒ज॒न्या॑त् । जाय॑मानात् । अ॒बि॒भ॒युः॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+1देवा वा इत्यादि ॥ अन्तः गर्भ एव सन्तं दाम्ना अपौ म्भन् अपरुद्धशक्तिकाङ्गमबध्नन् । उभ उम्भ पूरणे ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓मन्त᳓रेव᳓ स᳓न्तन्दा᳓म्ना᳓पौम्भन् ।
@@ -37,6 +47,11 @@ While still within (the womb) they fettered him with a bond.
 <details><summary>मूलम्</summary>
 
 तम॒न्तरे॒व सन्त॒न्दाम्नापौ॑म्भन् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । अ॒न्तः । ए॒व । सन्त॑म् । दाम्ना॑ । अपेति॑ । औ॒म्भ॒न्॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -56,9 +71,9 @@ The warrior thus is born fettered; if he were born not fettered
 यद्वा ए॒षोऽन॑पोब्धो॒ जाये॑त ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-1देवा वा इत्यादि ॥ अन्तः गर्भ एव सन्तं दाम्ना अपौ म्भन् अपरुद्धशक्तिकाङ्गमबध्नन् । उभ उम्भ पूरणे ।
+सः । वै । ए॒षः । अपो॑ब्ध॒ इत्यप॑-उ॒ब्धः॒ । जा॒य॒ते॒ । यत् । रा॒ज॒न्यः॑ । यत् । वै । ए॒षः । अन॑पोब्ध॒ इत्यन॑प-उ॒ब्धः॒ । जाये॑त ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -74,6 +89,16 @@ he would continually slay his foes.
 <details><summary>मूलम्</summary>
 
 वृ॒त्रान्घ्नँश्च॑रेत् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वृ॒त्रान् । घ्नन् । च॒रे॒त्॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+वृत्रानिति । वारकान् शत्रून् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -95,6 +120,20 @@ If one desire of a warrior, 'May he be born not fettered, may he continually sla
 तस्मा॑ ए॒तमै॑न्द्राबार्हस्प॒त्यञ्च॒रुन्निर्व॑पेत् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यम् । का॒मये॑त । रा॒ज॒न्य॑म् । अन॑पोब्ध॒ इत्यन॑प-उ॒ब्धः॒ । जा॒ये॒त॒ । वृ॒त्रान् । घ्नन् । च॒रे॒त्॒ । इति॑ । तस्मै॑ । ए॒तम् । ऐ॒न्द्रा॒बा॒र्ह॒स्प॒त्यमित्यै॑न्द्रा-बा॒र्ह॒स्प॒त्यम् । च॒रुम् । निरिति॑ । व॒पे॒त्॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अन्वाहार्यमासाद्य हिरण्मयं दाम दद्यात् ॥
+
+इति द्वितीये चतुर्थे त्रयोदशोनुवाकः ॥
+
+इति काम्या इष्टयस्समाप्ताः ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्रो᳓ वै᳓ राजन्यो᳙ ब्रह्म बृ᳓हस्प᳓तिर्ब्र᳓ह्मणैवै᳓नन्दा᳓म्नोऽपो᳓म्भनान्मुञ्चति ।
@@ -110,9 +149,9 @@ verily by the holy power (Brahman) he frees him from the bond that fetters him.
 ऐ॒न्द्रो वै रा॑ज॒न्यो॑ ब्रह्म॒ बृह॒स्पति॒र्ब्रह्म॑णै॒वैन॒न्दाम्नो॒ऽपोम्भ॑नान्मुञ्चति ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-वृत्रानिति । वारकान् शत्रून् ।
+ऐ॒न्द्रः । वै । रा॒ज॒न्यः॑ । ब्रह्म॑ । बृह॒स्पतिः॑ । ब्रह्म॑णा । ए॒व । ए॒न॒म्॒ । दाम्नः॑ । अ॒पोम्भ॑ना॒दित्य॑प-उम्भ॑नात् । मु॒ञ्च॒ति॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -132,11 +171,8 @@ The sacrificial present is a golden bond; verily manifestly he frees him from th
 सा॒क्षादे॒वैन॒न्दाम्नो॒ऽपोम्भ॑नान्मुञ्चति ॥
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-अन्वाहार्यमासाद्य हिरण्मयं दाम दद्यात् ॥
-
-इति द्वितीये चतुर्थे त्रयोदशोनुवाकः ॥
-
-इति काम्या इष्टयस्समाप्ताः ॥  
+हि॒र॒ण्मय॑म् । दाम॑ । दक्षि॑णा । सा॒क्षादिति॑ स-अ॒क्षात् । ए॒व । ए॒न॒म्॒ । दाम्नः॑ । अ॒पोम्भ॑ना॒दित्य॑प-उम्भ॑नात् । मु॒ञ्च॒ति॒ ॥
 </details>
+

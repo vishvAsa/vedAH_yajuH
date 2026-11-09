@@ -32,7 +32,7 @@ title = "०७ चातुर्मास्येषु शुनासीर
 
 <details><summary>पद-पाठः</summary>
 
-1A । ऐ॒न्द्रा॒ग्नमित्यै॑न्द्र-अ॒ग्नम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । वै॒श्व॒दे॒वमिति॑ वैश्व-दे॒वम् । च॒रुम् ।
+ऐ॒न्द्रा॒ग्नमित्यै॑न्द्र-अ॒ग्नम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । वै॒श्व॒दे॒वमिति॑ वैश्व-दे॒वम् । च॒रुम् ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -122,7 +122,7 @@ To Agni he offers on eight potsherds,
 
 <details><summary>पद-पाठः</summary>
 
-2B । आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ ।
+आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -215,7 +215,8 @@ the sacrificial fee is a cow for draught purposes.
 तत्र ये देवा इति पदद्वयं रक्षोहण इत्यादि च पूर्वत्र परत्र च पञ्चस्वप्य् अनुषज्यते ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/ye_devAH_purassadaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/ye_devAH_purassadaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ देवाᳶ᳓ पुरस्-स᳓दोऽग्नि᳓-नेत्राः [रक्षो-ह᳓णस्,  
@@ -237,7 +238,7 @@ The gods that sit in the east, led by Agni;
 
 <details><summary>पद-पाठः</summary>
 
-3C । ये । दे॒वाः । पु॒र॒स्सद॒ इति॑ पुरः-सदः॑ । अ॒ग्निने॑त्रा॒ इत्य॒ग्नि-ने॒त्राः॒ ।
+ये । दे॒वाः । पु॒र॒स्सद॒ इति॑ पुरः-सदः॑ । अ॒ग्निने॑त्रा॒ इत्य॒ग्नि-ने॒त्राः॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -360,7 +361,7 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 
 <details><summary>पद-पाठः</summary>
 
-उ॒प॒रि॒षद॒ इत्यु॑परि-सदः॑ । बृह॒स्पति॑नेत्रा॒ इति॒ बृह॒स्पति॑-ने॒त्राः॒ । र॒क्षो॒हण॒ इति॑ रक्षः-हनः॑ । ते । नः॒ । पा॒न्तु॒ । ते । नः॒ । अ॒व॒न्तु॒ । तेभ्यः॑ । 1 । नमः॑ । तेभ्यः॑ । स्वाहा॑ ।
+उ॒प॒रि॒षद॒ इत्यु॑परि-सदः॑ । बृह॒स्पति॑नेत्रा॒ इति॒ बृह॒स्पति॑-ने॒त्राः॒ । र॒क्षो॒हण॒ इति॑ रक्षः-हनः॑ । ते । नः॒ । पा॒न्तु॒ । ते । नः॒ । अ॒व॒न्तु॒ । तेभ्यः॑ । नमः॑ । तेभ्यः॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -369,6 +370,7 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 
 रक्षोहण इत्यादि । वनस्पत्यादित्वात् बृहस्पतिशब्दे पूर्वोत्तरयोः पदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -396,7 +398,7 @@ The Raksases are collected, the Raksases are burnt up;
 
 <details><summary>पद-पाठः</summary>
 
-2D । समू॑ढ॒मिति॒ सम्-ऊ॒ढ॒म् । रक्षः॑ । सन्द॑ग्ध॒मिति॒ सम्-द॒ग्ध॒म् । रक्षः॑ ।
+समू॑ढ॒मिति॒ सम्-ऊ॒ढ॒म् । रक्षः॑ । सन्द॑ग्ध॒मिति॒ सम्-द॒ग्ध॒म् । रक्षः॑ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -439,7 +441,8 @@ here do I burn up the Raksases.
 9-13अपरं पञ्चगृहीतं गृहीत्वा पञ्च स्रुवाहुतीरभिजुहोति - अग्नये रक्षोघ्ने स्वाहेति ॥ यमादिष्वपि चतुर्ष्वनुषज्यते । 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/agnaye_raxoghne_5.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/agnaye_raxoghne_5.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्न᳓ये रक्षोघ्ने᳓ स्वा᳓हा   ।  
@@ -459,7 +462,7 @@ To Agni, slayer of Raksases, hail!  To Yama,
 
 <details><summary>पद-पाठः</summary>
 
-3E । अ॒ग्नये॑ । र॒क्षो॒घ्न इति॑ रक्षः-घ्ने । स्वाहा॑ । य॒माय॑ ।
+अ॒ग्नये॑ । र॒क्षो॒घ्न इति॑ रक्षः-घ्ने । स्वाहा॑ । य॒माय॑ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -500,6 +503,7 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 रक्षोघ्ने रक्षसां हन्त्रे । उदात्तनिवृत्तिस्वरेण चतुर्थ्या उदात्तत्वम् ।
 सवित्रे इति 'उदात्तयणः' इति विभक्त्य्-उदात्तत्वम् । बृहस्पतिरुक्तस्वरः ॥
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -519,7 +523,7 @@ The sacrificial fee is a chariot with three horses.
 
 <details><summary>पद-पाठः</summary>
 
-4F । प्र॒ष्टि॒वा॒हीति॑ प्रष्टि-वा॒ही । रथः॑ । दक्षि॑णा ।
+प्र॒ष्टि॒वा॒हीति॑ प्रष्टि-वा॒ही । रथः॑ । दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -544,7 +548,8 @@ The sacrificial fee is a chariot with three horses.
 14अथ व्युष्टायां पुनर[पुरा]ग्निहोत्रात् अपामार्गसक्तून् जुहोति - देवस्येति ॥ 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
@@ -567,7 +572,7 @@ with the hands of Pusan.
 
 <details><summary>पद-पाठः</summary>
 
-3M । दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
+दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -583,6 +588,7 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -670,7 +676,7 @@ we have killed the Raksases.
 य᳓द् व᳓स्ते+++(=परिधत्ते)+++ त᳓द् द᳓क्षिणा ॥ [13]
 </details>
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
+<details><summary>Keith</summary>
 
 The sacrificial fee is what he wears.
 </details>
@@ -682,7 +688,7 @@ The sacrificial fee is what he wears.
 
 <details><summary>पद-पाठः</summary>
 
-6 । यत् । वस्ते॑ । तत् । दक्षि॑णा ॥
+यत् । वस्ते॑ । तत् । दक्षि॑णा ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

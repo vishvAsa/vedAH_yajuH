@@ -39,7 +39,7 @@ for the Pitrs prepared by Agni he milks a beverage from a cow which has to be wo
 
 <details><summary>पद-पाठः</summary>
 
-1A । सोमा॑य । पि॒तृ॒मत॒ इति॑ पितृ-मते॑ । पु॒रो॒डाश॑म् । षट्क॑पाल॒मिति॒ षट्-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । पि॒तृभ्य॒ इति॑ पि॒तृ-भ्यः॒ । ब॒र्हि॒षद्भ्य॒ इति॑ बर्हि॒षत्-भ्यः॒ । धा॒नाः । पि॒तृभ्य॒ इति॑ पि॒तृ-भ्यः॒ । अ॒ग्नि॒ष्वा॒त्तेभ्य॒ इत्य॑ग्नि-स्वा॒त्तेभ्यः॑ । अ॒भि॒वा॒न्या॑या॒ इत्य॑भि-वा॒न्या॑यै । दु॒ग्धे । म॒न्थम् ।
+सोमा॑य । पि॒तृ॒मत॒ इति॑ पितृ-मते॑ । पु॒रो॒डाश॑म् । षट्क॑पाल॒मिति॒ षट्-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । पि॒तृभ्य॒ इति॑ पि॒तृ-भ्यः॒ । ब॒र्हि॒षद्भ्य॒ इति॑ बर्हि॒षत्-भ्यः॒ । धा॒नाः । पि॒तृभ्य॒ इति॑ पि॒तृ-भ्यः॒ । अ॒ग्नि॒ष्वा॒त्तेभ्य॒ इत्य॑ग्नि-स्वा॒त्तेभ्यः॑ । अ॒भि॒वा॒न्या॑या॒ इत्य॑भि-वा॒न्या॑यै । दु॒ग्धे । म॒न्थम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -80,7 +80,7 @@ This for thee, O grandfather, great-grandfather, and for thy line
 
 <details><summary>पद-पाठः</summary>
 
-2B । ए॒तत् । ते॒ । त॒त॒ । ये । च॒ । त्वाम् । अन्विति॑ । ए॒तत् । ते॒ । पि॒ता॒म॒ह॒ । प्र॒पि॒ता॒म॒हेति॑ प्र-पि॒ता॒म॒ह॒ । ये । च॒ । त्वाम् । अन्विति॑ ।
+ए॒तत् । ते॒ । त॒त॒ । ये । च॒ । त्वाम् । अन्विति॑ । ए॒तत् । ते॒ । पि॒ता॒म॒ह॒ । प्र॒पि॒ता॒म॒हेति॑ प्र-पि॒ता॒म॒ह॒ । ये । च॒ । त्वाम् । अन्विति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -125,7 +125,7 @@ Rejoice therein, O fathers, according to your shares.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/02_susandRshan_tvA.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/02_susandRshan_tvA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -138,6 +138,12 @@ Rejoice therein, O fathers, according to your shares.
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/02_susandRshan_tvA.md">
 
+<details><summary>Keith</summary>
+
+May we gladden thee,  
+O bountiful one, fair to see;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒स॒न्दृश॑न् त्वा व॒यम्  
@@ -146,13 +152,7 @@ Rejoice therein, O fathers, according to your shares.
 
 <details><summary>पद-पाठः</summary>
 
-3C । सु॒स॒न्दृश॒मिति॑ सु-स॒न्दृश॑म् । त्वा॒ । व॒यम् । मघ॑व॒न्निति॒ मघ॑-व॒न् । म॒न्दि॒षी॒महि॑ ॥
-</details>
-
-<details><summary>Keith</summary>
-
-May we gladden thee,  
-O bountiful one, fair to see;
+सु॒स॒न्दृश॒मिति॑ सु-स॒न्दृश॑म् । त्वा॒ । व॒यम् । मघ॑व॒न्निति॒ मघ॑-व॒न् । म॒न्दि॒षी॒महि॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -165,7 +165,7 @@ O bountiful one, fair to see;
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/03_pra_nUnam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/03_pra_nUnam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -196,7 +196,7 @@ Yoke, O Indra, thy two bay steeds [1].
 
 <details><summary>पद-पाठः</summary>
 
-3C । सु॒स॒न्दृश॒मिति॑ सु-स॒न्दृश॑म् । त्वा॒ । व॒यम् । मघ॑व॒न्निति॒ मघ॑-व॒न् । म॒न्दि॒षी॒महि॑ ॥ प्रेति॑ । नू॒नम् । पू॒र्णव॑न्धुर॒ इति॑ पू॒र्ण-व॒न्धु॒रः॒ । स्तु॒तः । या॒सि॒ । वशान्॑ । अनु॑ ॥ योजा॑ । नु । इ॒न्द्र॒ । ते॒ । हरी॒ इति॑ ॥
+सु॒स॒न्दृश॒मिति॑ सु-स॒न्दृश॑म् । त्वा॒ । व॒यम् । मघ॑व॒न्निति॒ मघ॑-व॒न् । म॒न्दि॒षी॒महि॑ ॥ प्रेति॑ । नू॒नम् । पू॒र्णव॑न्धुर॒ इति॑ पू॒र्ण-व॒न्धु॒रः॒ । स्तु॒तः । या॒सि॒ । वशान्॑ । अनु॑ ॥ योजा॑ । नु । इ॒न्द्र॒ । ते॒ । हरी॒ इति॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -216,7 +216,7 @@ Yoke, O Indra, thy two bay steeds [1].
 4गार्हपत्यमुपतिष्ठते - अक्षन्नमीमदन्तेति पञ्चपदया पङ्क्त्या । ह्यन्तः प्रथमः पादः ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/082/02_axannamImadanta_hyava.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/082/02_axannamImadanta_hyava.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -593,7 +593,7 @@ The Pitrs have eaten, the Pitrs have rejoiced, the Pitrs have been glad, the Pit
 
 <details><summary>पद-पाठः</summary>
 
-2E । अक्ष॑न् । पि॒तरः॑ । अमी॑मदन्त । पि॒तरः॑ । अती॑तृपन्त । पि॒तरः॑ । अमी॑मृजन्त । पि॒तरः॑ ॥
+अक्ष॑न् । पि॒तरः॑ । अमी॑मदन्त । पि॒तरः॑ । अती॑तृपन्त । पि॒तरः॑ । अमी॑मृजन्त । पि॒तरः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -606,7 +606,7 @@ The Pitrs have eaten, the Pitrs have rejoiced, the Pitrs have been glad, the Pit
 6पितॄन् प्रवाहयति - परेतेति । पञ्चपदा बृहती ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/04_pareta_pitaras.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/04_pareta_pitaras.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -638,7 +638,7 @@ Who carouse in company with Yama.
 
 <details><summary>पद-पाठः</summary>
 
-3F । परेति॑ । इ॒त॒ । पि॒त॒रः॒ । सो॒म्याः॒ । ग॒म्भी॒रैः । प॒थिभि॒रिति॑ प॒थि-भिः॒ । पू॒र्व्यैः ॥ अथ॑ । पि॒तृन् । सु॒वि॒दत्रा॒निति॑ सु-वि॒दत्रान्॑ । अपीति॑ । इ॒त॒ । य॒मेन॑ । ये । स॒ध॒माद॒मिति॑ सध-माद॑म् । मद॑न्ति ॥
+परेति॑ । इ॒त॒ । पि॒त॒रः॒ । सो॒म्याः॒ । ग॒म्भी॒रैः । प॒थिभि॒रिति॑ प॒थि-भिः॒ । पू॒र्व्यैः ॥ अथ॑ । पि॒तृन् । सु॒वि॒दत्रा॒निति॑ सु-वि॒दत्रान्॑ । अपीति॑ । इ॒त॒ । य॒मेन॑ । ये । स॒ध॒माद॒मिति॑ सध-माद॑म् । मद॑न्ति ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -655,7 +655,7 @@ Who carouse in company with Yama.
 7अथ तैस्सह तं देशं गतम् इव कृत्वा मन आह्वयति - मन इति तिसृभिर्गायत्रीभिः ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/05_mano_nv.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/05_mano_nv.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -686,7 +686,7 @@ And the reverence of the Pitrs.
 
 <details><summary>पद-पाठः</summary>
 
-4G । मनः॑ । नु । एति॑ । हु॒वा॒म॒हे॒ । ना॒रा॒शँ॒सेन॑ । स्तोमे॑न । पि॒तृ॒णाम् । च॒ । मन्म॑भि॒रिति॒ मन्म॑-भिः॒ ॥
+मनः॑ । नु । एति॑ । हु॒वा॒म॒हे॒ । ना॒रा॒शँ॒सेन॑ । स्तोमे॑न । पि॒तृ॒णाम् । च॒ । मन्म॑भि॒रिति॒ मन्म॑-भिः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -705,7 +705,7 @@ And the reverence of the Pitrs.
 8अथ द्वितीया ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/06_A_na.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/06_A_na.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -735,7 +735,7 @@ And that long we may see the sun.
 
 <details><summary>पद-पाठः</summary>
 
-आ । 1 । नः॒ । ए॒तु॒ । मनः॑ । पुनः॑ । क्रत्वे॑ । दक्षा॑य । जी॒वसे॑ ॥ ज्योक् । च॒ । सूर्य॑म् । दृ॒शे ॥
+आ । नः॒ । ए॒तु॒ । मनः॑ । पुनः॑ । क्रत्वे॑ । दक्षा॑य । जी॒वसे॑ ॥ ज्योक् । च॒ । सूर्य॑म् । दृ॒शे ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -751,7 +751,7 @@ And that long we may see the sun.
 9अथ तृतीया ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/vishvAsa-prastutiH/19/024/12_punar_naH_pitaro.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/vishvAsa-prastutiH/19/024/12_punar_naH_pitaro.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -790,7 +790,7 @@ May we belong to the band of the living.
 10गार्हपत्यसमीपं गच्छन् जपति - यदन्तरिक्षमिति षट्पदा शक्वरी । केचित् पङ्क्तिमाहुः ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/07_yad_antarikhSham.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/07_yad_antarikhSham.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -829,7 +829,7 @@ In respect of all the ill we have wrought.
 
 <details><summary>पद-पाठः</summary>
 
-3K । यत् । अ॒न्तरि॑क्षम् । पृ॒थि॒वीम् । उ॒त । द्याम् । यत् । मा॒तर॑म् । पि॒तर॑म् । वा॒ । जि॒हिँ॒सि॒म ॥ अ॒ग्निः । मा॒ । तस्मा॑त् । एन॑सः । गार्ह॑पत्य॒ इति॒ गार्ह॑-प॒त्यः॒ । प्रेति॑ । मु॒ञ्च॒तु॒ । दु॒रि॒तेति॑ दुः-इ॒ता । यानि॑ । च॒कृ॒म । क॒रोतु॑ । माम् । अ॒ने॒नस॑म् ॥
+यत् । अ॒न्तरि॑क्षम् । पृ॒थि॒वीम् । उ॒त । द्याम् । यत् । मा॒तर॑म् । पि॒तर॑म् । वा॒ । जि॒हिँ॒सि॒म ॥ अ॒ग्निः । मा॒ । तस्मा॑त् । एन॑सः । गार्ह॑पत्य॒ इति॒ गार्ह॑-प॒त्यः॒ । प्रेति॑ । मु॒ञ्च॒तु॒ । दु॒रि॒तेति॑ दुः-इ॒ता । यानि॑ । च॒कृ॒म । क॒रोतु॑ । माम् । अ॒ने॒नस॑म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

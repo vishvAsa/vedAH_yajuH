@@ -381,11 +381,6 @@ _______
 ऐन्द्री᳓म् आवृ᳓तम् अन्वा᳓वर्ते ।
 </details>
 
-<details><summary>पद-पाठः</summary>
-
-ऐ॒न्द्रीम् । आ॒वृत॒मित्या॑-वृत॑म् । अ॒न्वाव॑र्त॒ इत्य॑नु-आव॑र्ते । 
-</details>
-
 <details><summary>Keith</summary>
 
 I turn the turning of Indra.
@@ -394,6 +389,11 @@ I turn the turning of Indra.
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रीमा॒वृत॑म॒न्वाव॑र्ते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऐ॒न्द्रीम् । आ॒वृत॒मित्या॑-वृत॑म् । अ॒न्वाव॑र्त॒ इत्य॑नु-आव॑र्ते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -654,7 +654,7 @@ _______
 9-10गार्हपत्यमुपतिष्ठते - अग्न आयूंषीति गायत्रीभ्याम् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/19_agna_AyUMShi.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/19_agna_AyUMShi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -949,7 +949,7 @@ Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse w
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/21_agne_pavasva.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/21_agne_pavasva.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 

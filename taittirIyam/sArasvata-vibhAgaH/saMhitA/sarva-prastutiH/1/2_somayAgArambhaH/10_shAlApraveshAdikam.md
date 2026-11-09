@@ -584,6 +584,18 @@ Sit on the seat of Aditi.
 
 </div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदि᳓त्यास् सदो᳓ ऽस्य्,  
+अदि᳓त्यास् सद᳓ आ᳓ सीद ॥ [18]
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the seat of Aditi;  
+sit on the seat of Aditi.
+</details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 －अदि॑त्या॒स्सदो॒ऽस्यदि॑त्या॒स्सद॒ आ [18]सी॒द

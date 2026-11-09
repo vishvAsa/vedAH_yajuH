@@ -146,13 +146,6 @@ Over thee as thou goest among the gods for help let thy comrades
 And thy father and mother rejoice.
 </details>
 
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
-
-+++(शरीर-खण्डानि!)+++ विषु॑रूपा॒ यत् **सल॑क्ष्माणो॒**+++(=सलक्षणा [हवीरूपेण])+++ **भव॑थ**,  
-दे॒व॒त्रा+++(=देवस्थानं)+++ यन्त॒म्, अव॑से॒, +++(तस्य पशोः)+++ सखा॑यः   
-अनु॑ त्वा मा॒ता-पि॒तरो॑ **मदन्तु** ।
-</details>
-
 <details><summary>मूलम्</summary>
 
 विषु॑रूपा॒ यत् सल॑क्ष्माणो॒ भव॑थ   

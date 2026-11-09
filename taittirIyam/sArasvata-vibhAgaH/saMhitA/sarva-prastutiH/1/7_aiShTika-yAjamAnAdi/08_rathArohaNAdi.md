@@ -34,6 +34,11 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 दे॒वस्या॒हँ स॑वि॒तुᳶ प्र॑स॒वे बृह॒स्पति॑ना वाज॒जिता॒ वाज॑ञ्जेषम् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+दे॒वस्य॑ । अ॒हम् । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । बृह॒स्पति॑ना । वा॒ज॒जितेति॑ वाज-जिता॑ । वाज॑म् । जे॒ष॒म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सवितुः सर्वस्य प्रेरयितुः देवस्याहं प्रसवे अनुज्ञायां अनुज्ञां लब्ध्वैव न स्वातन्त्र्येण बृहस्पतिना ब्रह्मणा साधनभूतेन वाजजिता अन्नं जितवता वशीकृतसर्वान्नेन ; अतस्तेनाहं वाजमन्नं जेषं जयेयम् । लेटि 'सिब्बहुलं लेटि' इति सिप्, मिपोडागमः, इतश्च लोपः । बृहस्पतिशब्दे 'तद्बृहतोः' इति सुट्, वनस्पत्यादित्वात्पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
@@ -44,7 +49,7 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 2चात्वाले रथचक्रं निमितं ब्रह्माधिरोहति तमभिमन्त्रयते - देवस्येति ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/02_devasyAhaM_savitupH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/02_devasyAhaM_savitupH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -67,6 +72,11 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 <details><summary>मूलम्</summary>
 
 दे॒वस्या॒हँ स॑वि॒तुᳶ प्र॑स॒वे बृह॒स्पति॑ना वाज॒जिता॒ वर्षि॑ष्ठ॒न्नाकँ॑ रुहेयम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वस्य॑ । अ॒हम् । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । बृह॒स्पति॑ना । वा॒ज॒जितेति॑ वाज-जिता॑ । वर्षि॑ष्ठम् । नाक॑म् । रु॒हे॒य॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -106,6 +116,11 @@ To Indra utter your voices, make Indra win the prize, Indra hath won the prize.
 इन्द्रो॒ वाज॑मजयित् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इन्द्रा॑य । वाच॑म् । व॒द॒त॒ । इन्द्र॑म् । वाज॑म् । जा॒प॒य॒त॒ । इन्द्रः॑ । वाज॑म् । अ॒ज॒यि॒त् ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इन्द्रायेन्द्रार्थं सर्वे वाचं वदत तस्य स्वामित्वात् यथेन्द्रो जयति तथा शब्दयत । यजमान एव वा ऐश्वर्ययोगादिन्द्रः ; तस्य शोभनां वाचं वदत । इन्द्रं वाजं जापयत । 'क्रीङ्जीनां णौ' इत्यात्वम्, 'अर्तिह्री' इत्यादिना पुक् । इन्द्रश्च वाजमन्नमजयित् अजयत् । जयतेश्छान्दसे लङि वर्णयत्ययेन शप इकारः । शपो वा लुकि तिप इडागमः ॥
@@ -116,7 +131,7 @@ To Indra utter your voices, make Indra win the prize, Indra hath won the prize.
 4अश्वाजनीं प्रयच्छति - अश्वाजनीति गायत्र्या ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/03_ashvAjani_vAjini.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/03_ashvAjani_vAjini.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -141,6 +156,11 @@ Do thou in the contests strengthen the steeds.
 
 अश्वा॑जनि वाजिनि॒ वाजे॑षु वाजिनीव॒ति ।  
 अश्वा॑न्त्स॒मत्सु॑ वाजय  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अश्वा॑ज॒नीत्यश्व॑-अ॒ज॒नि॒ । वा॒जि॒नि॒ । वाजे॑षु । वा॒जि॒नी॒व॒तीति॑ वाजिनि-व॒ति॒ । अश्वान्॑ । स॒मत्स्विति॑ स॒मत्-सु॒ । वा॒ज॒य॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -171,6 +191,11 @@ The swift art thou,
 अर्वा॑सि ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अर्वा॑ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अर्वा अरणकुशलः । 'अन्येभ्योपि दृश्यन्ते' इति वनिप् । तादृशोसीति दक्षिणम् ।  
@@ -191,6 +216,11 @@ the runner,
 सप्ति॑रसि ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सप्तिः॑ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सप्तिः । षप समवाये । सङ्ग्रामेषु सहसा समवैति । तादृशोसीति मध्यमम् ।  
@@ -209,6 +239,11 @@ the strong.
 <details><summary>मूलम्</summary>
 
 वा॒ज्य॑सि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒जी । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -239,6 +274,11 @@ conquer on the instigation of the Maruts:
 म॒रुता॑म् प्रस॒वे ज॑यत ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वाजि॑नः । वाज॑म् । धा॒व॒त॒ । म॒रुता॑म् । प्र॒स॒व इति॑ प्र-स॒वे । ज॒य॒त॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तत्राद्या द्विपदा गायत्री ॥ हे वाजिनः अश्वा वाजमन्नं प्रति धावत वाजं साधयितुं शीघ्रं गच्छत । सर्तेर्वेगितायां गतौ धावादेशः ।  
@@ -246,7 +286,7 @@ conquer on the instigation of the Maruts:
 मरुतां प्रसवेऽनुज्ञायां जयतान्नम् । ते हि युष्मानाज्ञापयन्ति ; यूयं चास्माकं जयत ।  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/04_vi_yojanA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/04_vi_yojanA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -275,6 +315,11 @@ attain the goal.
 काष्ठा॑ङ्गच्छत ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वीति॑ । योज॑ना । मि॒मी॒ध्व॒म् । अध्व॑नः । स्क॒भ्नी॒त॒ । काष्ठा॑म् । ग॒च्छ॒त॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 कथं धावतीति चेत् - वियोजनेति । इयं त्रिपदोपमा प्रतिष्ठा वा ; 'षट्कसप्तकाष्टकैर्विवर्धमाना । विपरीता प्रतिष्ठा' इति । ककुद्मती वा, 'एतस्मिन् पञ्चमे सर्वं छन्दः शङ्कुमती । षट्के ककुद्मती' । योजना योजनानि विमिमीध्वं बहून्यपि योजनानि मिमीध्वम् । गमनशैघ्र्येण विमितानि परिमितानि अल्पानीव कुरुध्वम् । माङ् माने ।  
@@ -292,7 +337,7 @@ attain the goal.
 10अश्वान् धावतोनुमन्त्रयते - वाजेवाज इत्यादिभिश्चतसृभिः । आद्या त्रिष्टुप् । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/038/08_vAjevAje_avata_vAjino.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/038/08_vAjevAje_avata_vAjino.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -652,7 +697,7 @@ In jeder Schlacht helft uns, o Rosse, in Wettkämpfen, o unsterbliche Priester, 
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/05_te_no.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/05_te_no.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -682,6 +727,11 @@ All hearken to our cry.
 ते नो॒ अर्व॑न्तो हवन॒श्रुतो॒ हवव्ँ॒विश्वे॑ शृण्वन्तु वा॒जिनः॑  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ते । नः॒ । अर्व॑न्तः । ह॒व॒न॒श्रुत॒ इति॑ हवन-श्रुतः॑ । हव॑म् । विश्वे॑ । शृ॒ण्व॒न्तु॒ । वा॒जिनः॑ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'विराड्जागतगायत्राभ्याम्' इति ॥ हे **अर्वन्तः** अरणकुशलाः । अर्तेः 'अन्येभ्योपि दृश्यन्ते' इति वनिप् । 'अर्वणस्त्रसावनयः' । **हवनश्रुतः** आह्वानस्य श्रोतारः ते वाजिनोश्वाः अस्माकं हवं आह्वानं शृण्वन्तु विश्वे सर्वेपि । 'भावेनुपसर्गस्य' इति अप्, सम्प्रसारणं च ॥
@@ -690,7 +740,7 @@ All hearken to our cry.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/06_mitadravas_sahasrasA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/06_mitadravas_sahasrasA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -722,6 +772,11 @@ The steeds, which have won in the contests great prizes.
 म॒हो ये रत्नँ॑ समि॒थेषु॑ जभ्रि॒रे ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मि॒तद्र॑व॒ इति॑ मि॒त-द्र॒वः॒ । स॒ह॒स्र॒सा इति॑ सहस्र-साः । मे॒धसा॒तेति॑ मे॒ध-सा॒ता॒ । स॒नि॒ष्यवः॑ ॥ म॒हः । ये । रत्न॑म् । स॒मि॒थेष्विति॑ सम्-इ॒थेषु॑ । ज॒भ्रि॒रे ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मितमल्पमिव महान्तमपि पन्थानं द्रवन्ति गच्छन्तीति **मितद्रवः** । यद्वा - मितं शीघ्रं गच्छन्तीति मितद्रवः ।  
@@ -737,7 +792,7 @@ The steeds, which have won in the contests great prizes.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/07_shan_no.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/07_shan_no.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -769,6 +824,11 @@ Forever may they remove from us evil [2].
 रक्षाँ॑सि॒ सने॑म्य॒स्मद्यु॑यवन्न् [35] अमी॑वाः  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+शम् । नः॒ । भ॒व॒न्तु॒ । वा॒जिनः॑ । हवे॑षु ॥ दे॒वता॒तेति॑ दे॒व-ता॒ता॒ । मि॒तद्र॑व॒ इति॑ मि॒त-द्र॒वः॒ । स्व॒र्का इति॑ सु-अ॒र्काः ॥ ज॒म्भय॑न्तः । अहि॑म् । वृक॑म् । रक्षाँ॑सि । सने॑मि । अ॒स्मत् । यु॒य॒व॒न् । अमी॑वाः ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13शं नो भवन्त्विति त्रिष्टुप् । अस्तारपङ्क्तिपक्षे देवतातेत्यादिः त्रिपदा त्रिष्टुप् ॥  
@@ -788,7 +848,7 @@ Forever may they remove from us evil [2].
 14प्रत्याधावतोनुमन्त्रयते - एष स्य इति जगती ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/08_eSha_sya.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/08_eSha_sya.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -820,6 +880,11 @@ Springeth along the bends of the ways.
 प॒थामङ्काँ॒स्यन्वा॒पनी॑फणत्  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । स्यः । वा॒जी । क्षि॒प॒णिम् । तु॒र॒ण्य॒ति॒ । ग्री॒वाया॑म् । ब॒द्धः । अ॒पि॒क॒क्ष इत्य॑पि-क॒क्षे । आ॒सनि॑ ॥ क्रतु॑म् । द॒धि॒क्रा इति॑ दधि-क्राः । अन्विति॑ । स॒न्तवी॑त्व॒दिति॑ सम्-तवी॑त्वत् । प॒थाम् । अङ्काँ॑सि । अन्विति॑ । आ॒पनी॑फण॒दित्या॑-पनी॑फणत् ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स्योश्वः सामान्येनोच्यते । **एष स्यः** स एषः **वाजी** अश्वः । 'स्यश्छन्दसि बहुलम्' इति सुलोपः । **क्षिपणिं** कशां क्षिप्यतेनयेत्यनिः । **तुरण्यति** त्वरयन्न् अतीव शीघ्रं प्रस्थापयति । तुरण त्वरायाम्, कण्ड्वादिरन्तर्भावितण्यर्थः । विभक्तिव्यत्ययो वा । **क्षिपण्या** क्षिपणिप्रहारेण त्वरयते तूर्णं गच्छति । **ग्रीवायां बद्धः** उरोवङ्घ्रेण अपिकक्षे कक्षेपि कक्ष्यया बद्ध इत्येव । 'सुप्सुपा' इति समासः । यद्वा - कक्ष्यायामपीतः **अपिकक्षः** अवयवविशेषः यत्र कक्ष्यया बद्ध्यते । निरुदकादित्वादुत्तरपदान्तोदात्तत्वम् । **आसनि** आस्ये च बद्धः खलीनेन । 'पद्दन्' इत्यादिना आसन्नादेशः । एवमेषु स्थानेषु बद्धोप्य् एवं शीघ्रो भवतीति अन्यो ह्येषामेकत्रापि बद्धश्चलितुमपि न शक्नोतीति भावः ।    
@@ -835,7 +900,7 @@ Springeth along the bends of the ways.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/040/03_uta_smAsya.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/040/03_uta_smAsya.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1231,7 +1296,7 @@ Und dieses schnellen Läufers Fittich fliegt dahin, wie eines Vogels, der begehr
 16रथविमोचनीयं जुहोति - आ मा वाजस्येति त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/09_A_mA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/09_A_mA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1259,6 +1324,11 @@ May Soma come to me for immortality.
 
 आ मा॒ वाज॑स्य प्रस॒वो ज॑गम्या॒दा द्यावा॑पृथि॒वी वि॒श्वश॑म्भू ।  
 आ मा॑ गन्ताम्पि॒तरा॑ [36] मा॒तरा॒ चाऽऽमा॒ सोमो॑ अमृत॒त्वाय॑ गम्यात्  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । मा॒ । वाज॑स्य । प्र॒स॒व इति॑ प्र-स॒वः । ज॒ग॒म्या॒त् । एति॑ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । वि॒श्वश॑म्भू॒ इति॑ वि॒श्व-श॒म्भू॒ ॥ एति॑ । मा॒ । ग॒न्ता॒म् । पि॒तरा॑ । मा॒तरा॑ । च॒ । एति॑ । मा॒ । सोमः॑ । अ॒मृ॒त॒त्वायेत्य॑मृत-त्वाय॑ । ग॒म्या॒त् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1295,6 +1365,11 @@ O ye steeds, prize winning, about to run for the prize, about to win the prize, 
 वाजि॑नो वाजजितो॒ वाजँ॑ सरि॒ष्यन्तो॒ वाज॑ञ्जे॒ष्यन्तो॒ बृह॒स्पते॑र्भा॒गमव॑ जिघ्रत ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वाजि॑नः । वा॒ज॒जि॒त॒ इति॑ वाज-जि॒तः॒ । वाज॑म् । स॒रि॒ष्यन्तः॑ । वाज॑म् । जे॒ष्यन्तः॑ । बृह॒स्पतेः॑ । भा॒गम् । अवेति॑ । जि॒घ्र॒त॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे वाजिनः अश्वाः वाजजितः वाजमन्नं जेतुमुद्यताः । 'विभाषितं विशेषवचने बहुवचनम्' इति पूर्वस्याविद्यमानवत्त्वाभावः । वाजं वाजहेतुमाजिं सरिष्यन्तस्सर्तुकामाः सृत्वा च वाजमाजिं जेष्यन्तो जेतुकामाः । उभयत्रापि हेतौ शता । सरणार्थं जयार्थं चेत्यर्थः । बृहस्पतेः बार्हस्पत्यस्य चरोर्नैवारस्य भागमवजिघ्रत । बृहस्पतिशब्दे सुट्स्वरावुक्तौ । 'कर्षात्वतः' इति भागशब्दोन्तोदात्तः ॥
@@ -1321,6 +1396,11 @@ O ye steeds, prize winning, that have run for the prize, that have won the prize
 <details><summary>मूलम्</summary>
 
 वाजि॑नो वाजजितो॒ वाजँ॑ ससृ॒वाँसो॒ वाज॑ञ्जिगि॒वाँसो॒ बृह॒स्पते॑र्भा॒गे नि मृ॑ढ्वम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वाजि॑नः । वा॒ज॒जि॒त॒ इति॑ वाज-जि॒तः॒ । वाज॑म् । स॒सृ॒वाँसः॑ । वाज॑म् । जि॒गि॒वाँसः॑ । बृह॒स्पतेः॑ । भा॒गे । नीति॑ । मृ॒ड्ढ्व॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1351,6 +1431,11 @@ That ye did make with Indra.
 यामिन्द्रे॑ण स॒मध॑ध्व॒म् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इ॒यम् । वः॒ । सा । स॒त्या । स॒न्धेति॑ सम्-धा । अ॒भू॒त् । याम् । इन्द्रे॑ण । स॒मध॑द्ध्व॒मिति॑ सम्-अध॑द्ध्वम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे दुन्दुभयः इयं वो युष्माकं सा सन्धा सन्धानं सत्या अमोघफलाभूत् ।  
@@ -1371,6 +1456,11 @@ Ye have made Indra win the prize, O trees; now be ye loosed.
 <details><summary>मूलम्</summary>
 
 अजी॑जिपत वनस्पतय॒!  इन्द्रव्ँ॒वाजव्ँ॒विमु॑च्यध्वम्  ॥  [37]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अजी॑जिपत । व॒न॒स्प॒त॒यः॒ । इन्द्र॑म् । वाज॑म् । वीति॑ । मु॒च्य॒ध्व॒म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

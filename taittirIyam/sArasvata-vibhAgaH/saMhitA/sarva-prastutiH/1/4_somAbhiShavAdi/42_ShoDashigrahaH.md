@@ -4,7 +4,7 @@ title = "४२ षोडशिग्रहः"
 
 स्वराडनुष्टुप्
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -34,14 +34,14 @@ May he smite him who hateth us.
 स्व॒स्ति नो॑ म॒घवा॑ करोतु॒ हन्तु॑ पा॒प्मानय्ँ॒यो॑ऽस्मान्द्वेष्टि॑ ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+म॒हान् । इन्द्रः॑ । वज्र॑बाहु॒रिति॒ वज्र॑-बा॒हुः॒ । षो॒ड॒शी । शर्म॑ । य॒च्छ॒तु॒ ॥ स्व॒स्ति । नः॒ । म॒घवेति॑ म॒घ-वा॒ । क॒रो॒तु॒ । हन्तु॑ । पा॒प्मान॑म् । यः । अ॒स्मान् । द्वेष्टि॑ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1महाँ इन्द्र इत्यादि । इयमप्यनुष्टुप् ॥ महत्त्वादिगुणविशिष्ट इन्द्रः अस्मभ्यं शर्म सुखं यच्छतु ददातु । स्वस्ति अविनाशं चास्माकं करोतु । हन्तु चास्माकं पाप्मानं पापम् । योस्मान्द्वेष्टि तं च हन्तु । यद्वा - योस्मान्द्वेष्टि तं पाप्मानं हन्तु ॥
-</details>
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिन॑ ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥
 </details>
 </details>
 
@@ -77,6 +77,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -106,6 +111,11 @@ to Indra of the Sodaśin thee!
 
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ । इन्द्रा॑य । त्वा॒ । षो॒ड॒शिने॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2-3ग्रहणसादने व्याख्याते ।  
@@ -132,6 +142,11 @@ This is thy birthplace; to Indra of the Sodaśin thee!
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । इन्द्रा॑य । त्वा॒ । षो॒ड॒शिने॑ ॥
 </details>
 
 </div>

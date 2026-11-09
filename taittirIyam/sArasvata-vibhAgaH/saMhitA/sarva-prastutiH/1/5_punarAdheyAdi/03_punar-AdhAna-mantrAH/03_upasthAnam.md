@@ -7,7 +7,7 @@ _______
 7अग्निहोत्रमन्त्राव् उपस्थानार्थौ - तत्र प्रथमा मन इति विराट् ॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -70,7 +70,7 @@ _______
 8द्वितीया - सप्त त इति त्रिष्टुप्॥ 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -101,7 +101,7 @@ Seven birthplaces with ghee do thou fill.
 
 <details><summary>पद-पाठः</summary>
 
-4 । स॒प्त । ते॒ । अ॒ग्ने॒ । स॒मिध॒ इति॑ सम्-इधः॑ । स॒प्त । जि॒ह्वाः । स॒प्त । 1 । ऋष॑यः । स॒प्त । धाम॑ । प्रि॒याणि॑ ॥ स॒प्त । होत्राः॑ । स॒प्त॒धेति॑ सप्त-धा । त्वा॒ । य॒ज॒न्ति॒ । स॒प्त । योनीः॑ । एति॑ । पृ॒ण॒स्व॒ । घृ॒तेन॑ ॥
+स॒प्त । ते॒ । अ॒ग्ने॒ । स॒मिध॒ इति॑ सम्-इधः॑ । स॒प्त । जि॒ह्वाः । स॒प्त । ऋष॑यः । स॒प्त । धाम॑ । प्रि॒याणि॑ ॥ स॒प्त । होत्राः॑ । स॒प्त॒धेति॑ सप्त-धा । त्वा॒ । य॒ज॒न्ति॒ । स॒प्त । योनीः॑ । एति॑ । पृ॒ण॒स्व॒ । घृ॒तेन॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

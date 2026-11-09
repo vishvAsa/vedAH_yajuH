@@ -488,14 +488,6 @@ _______
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam/02_dhAmnodhAmno_rAjann.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
-
-धाम्नो॑धाम्नो+++(=शृङ्खलाभ्यो)+++ राजन्न्  
-इ॒तो व॑रुण नो मुञ्च ।  
-यद् "+++(श्रुणुत)+++ आपो॒ अघ्नि॑या॒ +++(→गावः)+++ वरु॒णे"ति॒ शपा॑महे॒  
-ततो॑ वरुण नो मुञ्च ॥
-</details>
-
 <details><summary>Keith</summary>
 
 From every rule of thine, O King Varuna, set us free;  
