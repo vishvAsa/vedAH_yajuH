@@ -190,7 +190,7 @@ therefore he says thus.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देव᳓ता एवा᳓न्वार᳓भ्यो᳓त्ति᳓ष्ठ᳓ति᳓ ।[71]
+देव᳓ता एवा᳓न्वार᳓भ्यो᳓त्तिष्ठति ।[71]
 </details>
 
 <details><summary>Keith</summary>
@@ -200,7 +200,7 @@ verily seizing the gods [1] he rises up.
 
 <details><summary>मूलम्</summary>
 
-दे॒वता॑ ए॒वान्वा॒रभ्योत्तिष्ठति ।[71]
+दे॒वता॑ ए॒वान्वा॒रभ्योत्ति॑ष्ठति ।[71]
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -668,7 +668,7 @@ Verily the opening oblation should be performed with both fore- and after-offeri
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न᳓ आ᳓त्मा᳓नम् अन्तरे᳓ति , न᳓ प्रजा᳓म् ।
+न᳓ आत्मा᳓नम् अन्तरे᳓ति , न᳓ प्रजा᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -678,7 +678,7 @@ He does not omit the self, nor offspring;
 
 <details><summary>मूलम्</summary>
 
-न आत्मान॑म् अन्त॒रेति॒ , न प्र॒जाम् ।
+न आ॒त्मान॑म् अन्त॒रेति॒ , न प्र॒जाम् ।
 </details>
 
 <details><summary>पद-पाठः</summary>

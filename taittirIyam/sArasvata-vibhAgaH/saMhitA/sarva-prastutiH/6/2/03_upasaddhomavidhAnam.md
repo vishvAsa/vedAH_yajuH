@@ -582,7 +582,7 @@ Now the gods by the Upasads which they performed in the morning drove away the A
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या᳓स् सायँ᳓ रा᳓त्रियै ता᳓भिभिः᳙ ।  
+या᳓स् सायँ᳓ रा᳓त्रियै ता᳓भिः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -592,7 +592,7 @@ by the Upasads (performed) in the evening (they drove away the Asuras) from the 
 
 <details><summary>मूलम्</summary>
 
-यास् सा॒यँ रात्रि॑यै॒ ताभि॒भिः॑ ।  
+यास् सा॒यँ रात्रि॑यै॒ ताभिः॑ ।  
 </details>
 
 <details><summary>पद-पाठः</summary>

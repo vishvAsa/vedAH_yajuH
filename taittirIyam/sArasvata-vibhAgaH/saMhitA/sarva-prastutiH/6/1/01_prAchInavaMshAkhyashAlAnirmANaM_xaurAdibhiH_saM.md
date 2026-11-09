@@ -1092,7 +1092,7 @@ When he anoints, verily he takes away the eye of his enemy.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓क्षिणम् पू᳓र्वम् आ᳓ङ्क्ते ।[5]
-स᳓व्यँ᳓ हि᳓ पू᳓र्वम् मनुष्या᳙ आञ्ज᳓ते ।  
+सव्यँ᳓ हि᳓ पू᳓र्वम् मनुष्या᳙ आञ्ज᳓ते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1103,7 +1103,7 @@ He anoints his right eye first [5], for men anoint the left first.
 <details><summary>मूलम्</summary>
 
 दक्षि॑ण॒म् पूर्व॒म् आङ्क्ते॑ ।[5]
-सव्यँ हि पूर्व॑म् मनु॒ष्या॑ आ॒ञ्जते॑ ।  
+स॒व्यँ हि पूर्व॑म् मनु॒ष्या॑ आ॒ञ्जते॑ ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
