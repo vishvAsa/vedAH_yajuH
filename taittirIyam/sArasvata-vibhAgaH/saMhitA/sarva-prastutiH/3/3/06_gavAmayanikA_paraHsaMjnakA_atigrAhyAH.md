@@ -337,7 +337,7 @@ The theologians say, 'For what reason do plants spring from the waters, the food
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓द्गृ᳓ह्णा᳓त्यद्भ्य᳓स्त्वौ᳓षधीभ्यो गृह्णामी᳓ति त᳓स्मादद्भ्य᳓ ओ᳓षधयस्स᳓म्भवन्ति ।
+य᳓द्गृह्णा᳓त्यद्भ्य᳓स्त्वौ᳓षधीभ्यो गृह्णामी᳓ति त᳓स्मादद्भ्य᳓ ओ᳓षधयस्स᳓म्भवन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -347,7 +347,7 @@ In that he draws (saying),'For the waters thee, for the plants I take', therefor
 
 <details><summary>मूलम्</summary>
 
-यद्गृह्णात्य॒द्भ्यस्त्वौष॑धीभ्यो गृ॒ह्णा॒मीति॒ तस्मा॑द॒द्भ्य ओष॑धय॒स्सम्भ॑वन्ति ।
+यद्गृ॒ह्णात्य॒द्भ्यस्त्वौष॑धीभ्यो गृ॒ह्णा॒मीति॒ तस्मा॑द॒द्भ्य ओष॑धय॒स्सम्भ॑वन्ति ।
 </details>
 
 <details><summary>पद-पाठः</summary>

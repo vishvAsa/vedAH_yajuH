@@ -296,7 +296,7 @@ He who knows the strength of the metres--'Do thou proclaim', 'Be it proclaimed',
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मवादिनो᳙ वदन्ति ।   
+ब्रह्मवादि᳓नो वदन्ति ।   
 क᳓स्मै क᳓मध्वर्यु᳓रा᳓ श्रावयती᳓ति ।
 </details>
 
@@ -307,7 +307,7 @@ The theologians say, 'For whose gain does the Adhvaryu cause (him) to proclaim?'
 
 <details><summary>मूलम्</summary>
 
-ब्र॒ह्म॒वा॒दि॒नो॑ वदन्ति ।   
+ब्र॒ह्म॒वा॒दिनो॑ वदन्ति ।   
 कस्मै॒ कम॑ध्व॒र्युरा श्रा॒व॒य॒तीति॑ ।
 </details>
 

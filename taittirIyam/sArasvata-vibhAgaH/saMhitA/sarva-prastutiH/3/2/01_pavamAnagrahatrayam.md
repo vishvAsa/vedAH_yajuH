@@ -22,12 +22,6 @@ title = "०१ पवमानग्रहत्रयम्"
 He who sacrifices knowing the 'ascent' verses of the Pavamana (Stotras) mounts on the Pavamanas and is not cut off from the Pavamanas.
 </details>
 
-<details><summary>मानसतरङ्गिणीकृत्</summary>
-
-[Brāhmaṇa Prologue]
-He who, knowing the ascents of the Pavamāna [Soma-chants], sacrifices, ascends after the Pavamāna-s; he is not severed from the Pavamāna-s."
-</details>
-
 <details><summary>मूलम्</summary>
 
 यो वै पव॑मानानामन्वारो॒हान्वि॒द्वान् यज॑ते  ।   
@@ -47,7 +41,12 @@ He who, knowing the ascents of the Pavamāna [Soma-chants], sacrifices, ascends 
 1यो वै पवमानानामित्यादि ॥ पवमानाः बहिष्पवमानादयः । 'पूङ्यजोश्शानन्' । तेषामन्वारोहाः तान् । यैरन्वारुह्यन्ते अनुक्रमेण प्राप्यन्ते तेषामन्वारोहाः मन्त्राः । तान् विद्वान्यजमानः पवमानानन्वारोहति । न पवमानेभ्योवच्छिद्यते ।
 </details>
 
-## श्येनः
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+[Brāhmaṇa Prologue]
+He who, knowing the ascents of the Pavamāna [Soma-chants], sacrifices, ascends after the Pavamāna-s; he is not severed from the Pavamāna-s."
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्येनो᳙ऽसि गायत्र᳓छन्दाः ।
@@ -56,11 +55,6 @@ He who, knowing the ascents of the Pavamāna [Soma-chants], sacrifices, ascends 
 <details><summary>Keith</summary>
 
 'Thou art the hawk, with the Gayatri for thy metre;
-</details>
-
-<details><summary>मानसतरङ्गिणीकृत्</summary>
-
-You are the Falcon, having the Gāyatrī meter;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -78,6 +72,11 @@ You are the Falcon, having the Gāyatrī meter;
 के पुनरन्वारोहा इत्यत आह - श्येनोसीति । तत्र बहिष्पवमाने पञ्चम्यां स्तोत्रियायां प्रस्तुतायां वाचयति । श्येनः पक्षिविशेषः । स शयनीयः शीघ्रगतिः । स एव त्वमसि । गायत्रछन्दाः गायत्रछन्दस्कः । गायत्र्येव गायत्रम्, 'छन्दसः प्रत्ययविधाने नपुंसके स्वार्थ उपसंख्यानम्' इत्यण् ।
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+You are the Falcon, having the Gāyatrī meter;
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नु त्वा᳓ रभे ।
@@ -86,11 +85,6 @@ You are the Falcon, having the Gāyatrī meter;
 <details><summary>Keith</summary>
 
 I grasp thee;
-</details>
-
-<details><summary>मानसतरङ्गिणीकृत्</summary>
-
-I grasp onto you.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -108,6 +102,11 @@ I grasp onto you.
 तं त्वामहमन्वारभे अनुक्रमेण रोहामि ।
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+I grasp onto you.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वस्ति᳓ मा स᳓म्पारय।
@@ -116,11 +115,6 @@ I grasp onto you.
 <details><summary>Keith</summary>
 
 bring me over in safety.
-</details>
-
-<details><summary>मानसतरङ्गिणीकृत्</summary>
-
-Safely carry me across to the completion!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -138,7 +132,11 @@ Safely carry me across to the completion!
 किंच - मा स्वस्ति अविघ्नेन संपारय समाप्तकर्माणं कुरु । पार तीर कर्मसमाप्तौ ॥
 </details>
 
-## सुपर्णः
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Safely carry me across to the completion!
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुपर्णो᳙ऽसि  त्रिष्टु᳓प् छन्दाः ।
@@ -147,11 +145,6 @@ Safely carry me across to the completion!
 <details><summary>Keith</summary>
 
 Thou art the eagle, with the Tristubh for thy metre;
-</details>
-
-<details><summary>मानसतरङ्गिणीकृत्</summary>
-
-You are the Fair-Winged Bird (Golden Eagle), having the Triṣṭubh meter; I grasp onto you. Safely carry me across to the completion!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -167,6 +160,11 @@ You are the Fair-Winged Bird (Golden Eagle), having the Triṣṭubh meter; I gr
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2अथ माध्यन्दिने पवमाने अष्टम्यां स्तोत्रियायां प्रस्तुतायां वाचयति - सुपर्णोसीति ॥ सुपर्णः श्येनः वृद्धतरः शोभनपतनः । स एव त्वमसि । त्रिष्टुप्छन्दाः । गतमन्यत् ॥
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+You are the Fair-Winged Bird (Golden Eagle), having the Triṣṭubh meter; I grasp onto you. Safely carry me across to the completion!
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,7 +207,6 @@ bring me over in safety.
 स्व॒स्ति । मा॒ । समिति॑ । पा॒र॒य॒ ।
 </details>
 
-## गृध्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓घा ऽसि ज᳓गतीछन्दाः ।
@@ -218,19 +215,6 @@ bring me over in safety.
 <details><summary>Keith</summary>
 
 Thou art the vulture, with the Jagati for thy metre;
-</details>
-
-<details><summary>मानसतरङ्गिणीकृत्</summary>
-
-You are the Vulture, having the Jagatī meter; I grasp onto you. Safely carry me across to the completion!
-</details>
-
-<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
-
-The third incantation features the rare word (hapax?) saghā as the raptor. While indological translations render it as "vulture", it is not entirely clear what raptor was originally intended. It is evidently derived from the root $\sqrt{}$ sagh, to injure.
-
-Only two birds would be vR^iddhatara to suparNa: 
-Lammergeier or Cinereous Vulture
 </details>
 
 <details><summary>मूलम्</summary>
@@ -246,6 +230,19 @@ Lammergeier or Cinereous Vulture
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अथार्भवे पवमाने नवम्यां प्रस्तुतायां वाचयति - सघाऽसीति ॥ गृध्रो वा भासो वा सुपर्णादपि वृद्धतरः । स एव त्वमसि । जगतीछन्दाः । समानमन्यत् ।
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+You are the Vulture, having the Jagatī meter; I grasp onto you. Safely carry me across to the completion!
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The third incantation features the rare word (hapax?) saghā as the raptor. While indological translations render it as "vulture", it is not entirely clear what raptor was originally intended. It is evidently derived from the root $\sqrt{}$ sagh, to injure.
+
+Only two birds would be vR^iddhatara to suparNa: 
+Lammergeier or Cinereous Vulture
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -293,7 +290,6 @@ bring me over in safety', he says.
 इत्याहेति । निगदव्याख्यातम् ॥
 </details>
 
-## ब्राह्मणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते᳓ वै᳓ प᳓वमानानाम् अन्वारोहाः᳓ ।
@@ -304,12 +300,6 @@ bring me over in safety', he says.
 These [1] are the ascents of the Pavamanas;
 </details>
 
-<details><summary>मानसतरङ्गिणीकृत्</summary>
-
-[Brāhmaṇa Epilogue]
-...thus he says. These, verily, are the ascents of the Pavamāna chants. He who, knowing thus, sacrifices, ascends after the Pavamānas; he is not severed from the Pavamānas.
-</details>
-
 <details><summary>मूलम्</summary>
 
 ए॒ते वै पव॑मानानामन्वारो॒हाः ।
@@ -318,6 +308,12 @@ These [1] are the ascents of the Pavamanas;
 <details><summary>पद-पाठः</summary>
 
 ए॒ते । वै । पव॑मानानाम् । अ॒न्वा॒रो॒हा इत्य॑नु-आ॒रो॒हाः ।
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+[Brāhmaṇa Epilogue]
+...thus he says. These, verily, are the ascents of the Pavamāna chants. He who, knowing thus, sacrifices, ascends after the Pavamānas; he is not severed from the Pavamānas.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -684,3 +680,4 @@ he obtains offspring.
 
 इति तृतीये द्वितीये प्रथमोनुवाकः ॥
 </details>
+

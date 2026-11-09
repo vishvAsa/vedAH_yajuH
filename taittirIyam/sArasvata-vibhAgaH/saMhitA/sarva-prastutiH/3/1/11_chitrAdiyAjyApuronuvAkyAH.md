@@ -12,10 +12,22 @@ title = "११ चित्रादियाज्यापुरोनुव�
 यश᳓सव्ँवीर᳓वत्तमम् ॥
 </details>
 
+<details><summary>Keith</summary>
+
+By Agni may one win wealth  
+And abundance day by day,  
+Glory, full of heroes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निना॑ र॒यिम॑श्नव॒त्पोष॑मे॒व दि॒वेदि॑वे ।  
 य॒शसव्ँ॑वी॒रव॑त्तमम् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निना॑ । र॒यिम् । अ॒श्ञ॒व॒त् । पोष॑म् । ए॒व । दि॒वेदि॑व॒ इति॑ दि॒वे-दि॒वे॒ ॥ य॒शस॑म् । वी॒रव॑त्तम॒मिति॑ वी॒रव॑त्-त॒म॒म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -29,10 +41,23 @@ title = "११ चित्रादियाज्यापुरोनुव�
 इ᳓डावाँ एषो᳓ असुर प्रजा᳓वान्दीर्घो᳓ रयिᳶ᳓ पृथुबुध्न᳓स्सभा᳓वान् ॥
 </details>
 
+<details><summary>Keith</summary>
+
+Rich in cattle, in sheep, O Agni, in horses is the sacrifice;  
+With manly companions, ever unalterable;  
+Rich in food is this, O Asura, in offspring,  
+Enduring, wealth, deep based and rich in houses.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गोमाँ॑ अ॒ग्नेऽवि॑माँ अ॒श्वी य॒ज्ञो नृ॒वत्स॑खा॒ सद॒मिद॑प्रमृ॒ष्यः ।   
 इडा॑वाँ ए॒षो अ॑सुर प्र॒जावा॑न्दी॒र्घो र॒यिᳶ पृ॑थुबु॒ध्नस्स॒भावा॑न् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गोमा॒निति॒ गो-मा॒न् । अ॒ग्ने॒ । अवि॑मा॒नित्यवि॑-मा॒न् । अ॒श्वी । य॒ज्ञः । नृ॒वत्स॒खेति॑ नृ॒वत्-स॒खा॒ । सद॑म् । इत् । अ॒प्र॒मृ॒ष्य इत्य॑प्र-मृ॒ष्यः ॥ इडा॑वा॒नितीडा॑-वा॒न् । ए॒षः । अ॒सु॒र॒ । प्र॒जावा॒निति॑ प्र॒जा-वा॒न् । दी॒र्घः । र॒यिः । पृ॒थु॒बु॒ध्न इति॑ पृथु-बु॒ध्नः । स॒भावा॒निति॑ स॒भा-वा॒न् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -40,14 +65,24 @@ title = "११ चित्रादियाज्यापुरोनुव�
 2तत्रैव याज्या - गोमानिति त्रिष्टुप् ॥ व्याख्यातेयम् 'अगन्म सुवः' इत्यत्र । गोमत्त्वादिगुणविशिष्टस्सर्वदैवाप्रमृष्यो यज्ञो ममास्तु इति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 आ᳓ प्यायस्व ...   
+</details>
+
+<details><summary>Keith</summary>
+
+Swell up.
 </details>
 
 <details><summary>मूलम्</summary>
 
 आ प्या॑यस्व॒ ...   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । प्या॒य॒स्व॒ । समिति॑ । ए॒तु॒ । ते॒ । वि॒श्वतः॑ । सो॒म॒ । वृष्णि॑यम् ॥ भव॑ । वाज॑स्य । स॒ङ्ग॒थ इति सम्-ग॒थे ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -73,14 +108,24 @@ title = "११ चित्रादियाज्यापुरोनुव�
 4अथ द्वितीया -
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 स᳓न्ते ..
+</details>
+
+<details><summary>Keith</summary>
+
+Together for thee.
 </details>
 
 <details><summary>मूलम्</summary>
 
 सन्ते॑ ..
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । ते॒ । पयाँ॑सि । समिति॑ । उ॒ । य॒न्तु॒ । वाजाः॑ । समिति॑ । वृष्णि॑यानि । अ॒भि॒मा॒ति॒षाह॒ इत्य॑भिमाति-साहः॑ ॥ आ॒प्याय॑मान॒ इत्या॑-प्याय॑मानः । अ॒मृता॑य । सो॒म॒ । दि॒वि । श्रवाँ॑सि । उ॒त्त॒मानीत्यु॑त्-त॒मानि॑ । धि॒ष्व॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -110,10 +155,22 @@ title = "११ चित्रादियाज्यापुरोनुव�
 अस्मा᳓कमस्तु के᳓वलः ॥
 </details>
 
+<details><summary>Keith</summary>
+
+Here Tvastr the first,  
+Of all forms, I call.  
+May he be ours only.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒ह त्वष्टा॑रमग्रि॒यव्ँवि॒श्वरू॑प॒मुप॑ ह्वये ।   
 अ॒स्माक॑मस्तु॒ केव॑लः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒ह । त्वष्टा॑रम् । अ॒ग्रि॒यम् । वि॒श्वरू॑प॒मिति॑ वि॒श्व-रू॒प॒म् । उपेति॑ । ह्व॒ये॒ ॥ अ॒स्माक॑म् । अ॒स्तु॒ । केव॑लः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -121,11 +178,19 @@ title = "११ चित्रादियाज्यापुरोनुव�
 5अथ 'रेत एव हितं त्वष्टा रूपाणि वि करोति' इत्यस्य पुरोनुवक्या - इह त्वष्टारमिति गायत्री । इहास्मिन् कर्मणि त्वष्टारं अग्रियं मुख्यम् । 'घच्छौ च' इति घच् । विश्वरूपं विश्वेषां रूपाणां विकरणसमर्थम् । 'बहुव्रीहौ विश्वम्' इति पूर्वपदान्तोदात्तत्वम् । उपह्वये आह्वयामि । 'निसमुपविभ्यो ह्वः' इत्यात्मनेपदम् । अस्माकमेवास्तु केवलः सम्भन्धीत्येवमर्थमुपह्वये ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 त᳓न्नस्तुरी᳓पम᳓ध पोषयित्नु᳓ दे᳓व त्वष्टर्वि᳓ रराण᳓स्स्यस्व ।   
 य᳓तो वीरः᳓ [35] कर्मण्य᳙स्सुद᳓क्षो ..  
 युक्त᳓ग्रावा जा᳓यते देव᳓कामः ।
+</details>
+
+<details><summary>Keith</summary>
+
+That procreant strength for us do thou,  
+O God Tvastr, graciously let loose,  
+Whence is born a hero [1] of great deeds, of skill,  
+Who wieldeth the pressing-stone and loveth the gods.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -133,6 +198,11 @@ title = "११ चित्रादियाज्यापुरोनुव�
 तन्न॑स्तु॒रीप॒मध॑ पोषयि॒त्नु देव॑ त्वष्ट॒र्वि र॑रा॒णस्स्य॑स्व ।   
 यतो॑ वी॒रः [35] क॒र्म॒ण्य॑स्सु॒दक्षो॑ ..  
 यु॒क्तग्रा॑वा॒ जाय॑ते दे॒वका॑मः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तत् । नः॒ । तु॒रीप॑म् । अध॑ । पो॒ष॒यि॒त्नु । देव॑ । त्व॒ष्टः॒ । वीति॑ । र॒रा॒णः । स्य॒स्व॒ ॥ यतः॑ । वी॒रः । क॒र्म॒ण्यः॑ । सु॒दक्ष॒ इति॑ सु-दक्षः॑ । यु॒क्तग्रा॒वेति॑ यु॒क्त-ग्रा॒वा॒ । जाय॑ते । दे॒वका॑म॒ इति॑ दे॒व-का॒मः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -146,10 +216,22 @@ title = "११ चित्रादियाज्यापुरोनुव�
 यज्ञे᳓यज्ञे न उ᳓दव ।
 </details>
 
+<details><summary>Keith</summary>
+
+Come hither, O Tvastr, propitious,  
+Pervasive for abundance, and of thy own will,  
+Aid us in every sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शि॒वस्त्व॑ष्टरि॒हा ग॑हि वि॒भुᳶ पोष॑ उ॒त त्मना॑ ।   
 य॒ज्ञेय॑ज्ञे न॒ उद॑व ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शि॒वः । त्व॒ष्टः॒ । इ॒ह । एति॑ । ग॒हि॒ । वि॒भुरिति॑ वि-भुः । पोषे॑ । उ॒त । त्मना॑ ॥ य॒ज्ञेय॑ज्ञ॒ इति॑ य॒ज्ञे-य॒ज्ञे॒ । नः॒ । उदिति॑ । अ॒व॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -163,10 +245,23 @@ title = "११ चित्रादियाज्यापुरोनुव�
 प्रजा᳓न्त्व᳓ष्टा वि᳓ ष्यतु ना᳓भिमस्मे᳓ अ᳓था देवा᳓नाम᳓प्येतु पा᳓थः ।
 </details>
 
+<details><summary>Keith</summary>
+
+The hero is born, loving the gods,  
+Of brilliant hue, strong, and full of vigour;  
+Tvastr accord us offspring and descendants;  
+May he go to the place of the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पि॒शङ्ग॑रूपस्सु॒भरो॑ वयो॒धाश्श्रु॒ष्टी वी॒रो जा॑यते दे॒वका॑मः ।    
 प्र॒जान्त्वष्टा॒ वि ष्य॑तु॒ नाभि॑म॒स्मे अथा॑ दे॒वाना॒मप्ये॑तु॒ पाथः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पि॒शङ्ग॑रूप॒ इति॑ पि॒शङ्ग॑-रू॒पः॒ । सु॒भर॒ इति॑ सु-भरः॑ । व॒यो॒धा इति॑ वयः-धाः । श्रु॒ष्टी । वी॒रः । जा॒य॒ते॒ । दे॒वका॑म॒ इति॑ दे॒व-का॒मः॒ ॥ प्र॒जामिति॑ प्र-जाम् । त्वष्टा॑ । वीति॑ । स्य॒तु॒ । नाभि॑म् । अ॒स्मे इति॑ । अथ॑ । दे॒वाना॑म् । अपीति॑ । ए॒तु॒ । पाथः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -174,14 +269,24 @@ title = "११ चित्रादियाज्यापुरोनुव�
 8अथ याज्या - पिशङ्गरूपः इति त्रिष्टुप् ॥ पिशङ्गरूपः चित्ररूपः । त्रिवर्गस्य सेविता सुभरः शोभनभरणः स्वजनस्य सम्यग्भर्तेत्यर्थः । 'आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । यद्वा - देवैस्सुखेन भरणीयः । खल्प्रत्ययात्पूर्वस्योदात्तत्वम् । वयोधाः वयसोन्नस्य दाता धाता वा । श्रुष्टी क्षिप्रकारीत्येके । सत्यवादीत्यन्ये । श्रोतृषु स्त्यायते श्रुष्टी । पृषोदरादिः । वीरो देवकामश्च इत्येवंगुणः जायते त्वष्टुः प्रसादात् । तस्मादीदृशीं प्रजां त्वष्टा अस्मे अस्मभ्यं विष्यतु विमुच्य ददातु नाभिं नहनीं कुलस्य । 'नहोभश्च' इति । 'सुपां सुलुक्' इति अस्मच्छब्दात्परस्या विभक्तेस्स्मे आदेशः । अथानन्तरं देवानामपि पाथोन्नं सामर्थ्यद्देवानामपि एतु अस्मान् प्राप्नोतु । यद्वा - कर्मणि षष्ठी । पाथोन्नं हवीरूपं देवानप्येतुप्रविशतु । यागाश्च यथोक्तमनुष्ठीयन्तामित्यर्थः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प्र᳓ णो देवी᳓ ..  
+</details>
+
+<details><summary>Keith</summary>
+
+Forth for us, O goddess.
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्र णो॑ दे॒वी ..  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । नः॒ । दे॒वी । सर॑स्वती । वाजे॑भिः । वा॒जिनी॑व॒तीति॑ वा॒जिनी॑-व॒ती॒ ॥ धी॒नाम् । अ॒वि॒त्री । अ॒व॒तु॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -195,14 +300,24 @@ title = "११ चित्रादियाज्यापुरोनुव�
   - 7अथ सारस्वतस्य पुरोनुवाक्या - प्राणो देवीति गायत्री ॥ 'अग्नाविष्णू महि' इत्यत्र व्याख्याता । सरस्वती देवी वाजवतीभिः क्रियाभिः तद्वती धियामवित्री अस्मान्वाजैरन्नैः प्रावत्विति । प्रकर्षेण रक्षत्विति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 आ᳓ नो दिवो᳓ ..
+</details>
+
+<details><summary>Keith</summary>
+
+From the sky.
 </details>
 
 <details><summary>मूलम्</summary>
 
 आ नो॑ दि॒वो ..
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । नः॒ । दि॒वः । बृ॒ह॒तः । पर्व॑तात् । एति॑ । सर॑स्वती । य॒ज॒ता । ग॒न्तु॒ । य॒ज्ञम् ॥ हव॑म् । दे॒वी । जु॒जु॒षा॒णा । घृ॒ताची॑ । श॒ग्माम् । नः॒ । वाच॑म् । उ॒श॒ती । शृ॒णो॒तु॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -225,10 +340,22 @@ title = "११ चित्रादियाज्यापुरोनुव�
 धुक्षीम᳓हि प्रजा᳓मि᳓षम् ॥ [36]  
 </details>
 
+<details><summary>Keith</summary>
+
+May we milk offspring and food  
+From Sarasvant's breast,  
+Swelling for all to see [2].
+</details>
+
 <details><summary>मूलम्</summary>
 
 पी॒पि॒वाँसँ॒ सर॑स्वत॒स्स्तनय्ँ॒यो वि॒श्वद॑र्शतः ।  
 धु॒क्षी॒महि॑ प्र॒जामिष॑म् ॥ [36]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पी॒पि॒वाँस॑म् । सर॑स्वतः । स्तन॑म् । यः । वि॒श्वद॑र्शत॒ इति॑ वि॒श्व-द॒र्श॒तः॒ ॥ धु॒क्षी॒महि॑ । प्र॒जामिति॑ प्र-जाम् । इष॑म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -242,10 +369,22 @@ title = "११ चित्रादियाज्यापुरोनुव�
 ते᳓षान्ते सुम्न᳓मीमहे ।
 </details>
 
+<details><summary>Keith</summary>
+
+May we enjoy the favour  
+Of thy waves, O Sarasvant,  
+Which are full of honey and drip ghee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये ते॑ सरस्व ऊ॒र्मयो॒ मधु॑मन्तो घृत॒श्चुतः॑ ।  
 तेषा॑न्ते सु॒म्नमी॑महे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । ते॒ । स॒र॒स्वः॒ । ऊ॒र्मयः॑ । मधु॑मन्त॒ इति॒ मधु॑-म॒न्तः॒ । घृ॒त॒श्चुत॒ इति॑ घृत-श्चुतः॑ ॥ तेषा॑म् । ते॒ । सु॒म्नम् । ई॒म॒हे॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -259,10 +398,23 @@ title = "११ चित्रादियाज्यापुरोनुव�
 य᳓स्य व्रते᳓ पुष्टिप᳓तिर्नि᳓विष्टस्तँ᳓ स᳓रस्वन्तम᳓वसे हुवेम ।
 </details>
 
+<details><summary>Keith</summary>
+
+Let us call for aid on this Sarasvant,  
+Whose ordinance all cattle follow,  
+Whose ordinance the waters obey,  
+And in whose ordinance the lord of increase doth rest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्य॑ व्र॒तम्प॒शवो॒ यन्ति॒ सर्वे॒ यस्य॑ व्र॒तमु॑प॒तिष्ठ॑न्त॒ आपः॒ ।   
 यस्य॑ व्र॒ते पु॑ष्टि॒पति॒र्निवि॑ष्ट॒स्तँ सर॑स्वन्त॒मव॑से हुवेम ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यस्य॑ । व्र॒तम् । प॒शवः॑ । यन्ति॑ । सर्वे॑ । यस्य॑ । व्र॒तम् । उ॒प॒तिष्ठ॑न्त॒ इत्यु॑प-तिष्ठ॑न्ते । आपः॑ ॥ यस्य॑ । व्र॒ते । पु॒ष्टि॒पति॒रिति॑ पुष्टि-पतिः॑ । निवि॑ष्ट॒ इति॒ नि-वि॒ष्टः॒ । तम् । सर॑स्वन्तम् । अव॑से । हु॒वे॒म॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -276,10 +428,23 @@ title = "११ चित्रादियाज्यापुरोनुव�
 अभीपतो᳓ वृष्ट्या᳓ तर्प᳓यन्तन्तँ᳓ स᳓रस्वन्तम᳓वसे हुवेम ।
 </details>
 
+<details><summary>Keith</summary>
+
+The divine, well-feathered bird, the great one,  
+Germ of the waters, male of the plants,  
+Who delighteth with rain from near,  
+This Sarasvant let us call on for aid.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒व्यँ सु॑प॒र्णव्ँव॑य॒सम्बृ॒हन्त॑म॒पाङ्गर्भव्ँ॑वृष॒भमोष॑धीनाम् ।   
 अ॒भी॒प॒तो वृ॒ष्ट्या त॒र्पय॑न्त॒न्तँ सर॑स्वन्त॒मव॑से हुवेम ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒व्यम् । सु॒प॒र्णमिति॑ सु-प॒र्णम् । व॒य॒सम् । बृ॒हन्त॑म् । अ॒पाम् । गर्भ॑म् । वृ॒ष॒भम् । ओष॑धीनाम् ॥ अ॒भी॒प॒तः । वृ॒ष्ट्या । त॒र्पय॑न्तम् । आ । सु । नः॒ । ग॒म्याः॒ । अव॑सा । ति॒रः । रजाँ॑सि ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -293,10 +458,23 @@ title = "११ चित्रादियाज्यापुरोनुव�
 जुष᳓स्व हव्य᳓म् [37]  आ᳓हुतम्प्रजा᳓न्देवि दिदिड्ढि नः ।   
 </details>
 
+<details><summary>Keith</summary>
+
+O Sinivali, with broad braids,  
+Who art the sister of the gods,  
+Accept the offering [3] which is made;  
+Grant, O goddess, offspring to us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सिनी॑वालि॒ पृथु॑ष्टुके॒ या दे॒वाना॒मसि॒ स्वसा॑ ।  
 जु॒षस्व॑ ह॒व्यम् [37]  आहु॑तम्प्र॒जान्दे॑वि दिदिड्ढि नः ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सिनी॑वालि । पृथु॑ष्टुक॒ इति॒ पृथु॑-स्तु॒के॒ । या । दे॒वाना॑म् । असि॑ । स्वसा॑ ॥ जु॒षस्व॑ । ह॒व्यम् । आहु॑त॒मित्या-हु॑तम् । प्र॒जामिति॑ प्र-जाम् । दे॒वि॒ । दि॒दि॒ड्ढि॒ । नः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -360,14 +538,24 @@ ___________________
 17'ऐन्द्र उत्तमो भवति' इत्यस्यैन्द्रस्य पुरोनुवाक्या याज्या च - इन्द्रं वो विश्वतस्परीन्द्रं नर इति गायत्रीत्रिष्टुभौ । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 इ᳓न्द्रव्ँवो विश्व᳓तस्प᳓रि᳓ ...
+</details>
+
+<details><summary>Keith</summary>
+
+Indra from all sides.
 </details>
 
 <details><summary>मूलम्</summary>
 
 इन्द्रव्ँ॑वो वि॒श्वत॒स्परि ...
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑म् । वः॒ । वि॒श्वत॒ इति॑ वि॒श्व-तः॒ । परीति॑ । हवा॑महे । जने॑भ्यः ॥ अ॒स्माक॑म् । अ॒स्तु॒ । केव॑लः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -385,14 +573,24 @@ ___________________
   - 1अथ याज्याकाण्डं वैश्वदेवमेव । तत्र 'ऐन्द्रमेकादशकपालं निर्वपेन्मारुतं सप्तकपालं ग्रामकामः' इत्यस्य द्विहविष इष्टेरैन्द्रस्य एकादशकपालस्य पुरोनुवाक्या - इन्द्रं व इति गायत्री ॥ व्याख्याता चेयम्, 'इन्द्रं वो विशतस्परि हवामहे' इत्यत्र । इह त्वस्याः प्रतीकग्रहणम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 इ᳓न्द्रन्न᳓रः ... ।
+</details>
+
+<details><summary>Keith</summary>
+
+Indra men.
 </details>
 
 <details><summary>मूलम्</summary>
 
 इन्द्र॒न्नरः॑ ... ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑म् । नरः॑ । ने॒मधि॒तेति॑ ने॒म-धि॒ता॒ । ह॒व॒न्ते॒ । यत् । पार्याः॑ । यु॒नज॑ते । धियः॑ । ताः ॥ शूरः॑ । नृषा॒तेति॒ नृ-सा॒ता॒ । शव॑सः । च॒का॒नः । एति॑ । गोम॒तीति॒ गो-म॒ति॒ । व्र॒जे । भ॒जा॒ । त्वम् । नः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -413,10 +611,23 @@ ___________________
 त᳓ आ᳓ऽववृत्रन्त्स᳓दनानि कृत्वा᳓दि᳓त्पृथिवी᳓ घृतै᳓र्व्युद्यते ।
 </details>
 
+<details><summary>Keith</summary>
+
+The dark-coloured steeds with fair feathers,  
+Clad in the mist, spring up to the sky;  
+They turn hitherward having established their abodes;  
+Then the earth is wet with ghee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 असि॑तवर्णा॒ हर॑यस्सुप॒र्णा मिहो॒ वसा॑ना॒ दिव॒मुत्प॑तन्ति ।  
 त आऽव॑वृत्र॒न्त्सद॑नानि कृ॒त्वादित्पृ॑थि॒वी घृ॒तैर्व्यु॑द्यते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+असि॑तवर्णा॒ इत्यसि॑त-व॒र्णाः॒ । हर॑यः । सु॒प॒र्णा इति॑ सु-प॒र्णाः । मिहः॑ । वसा॑नाः । दिव॑म् । उदिति॑ । प॒त॒न्ति॒ ॥ ते । आ॒ववृ॑त्र॒न्नित्या॑-ववृ॑त्रन् । सध॑नानि । कृ॒त्वा । आत् । इत् । पृ॒थि॒वी । घृ॒तैः । व्यू॑द्यत॒ इति॑ वि-उ॒द्य॒ते॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -430,10 +641,23 @@ ___________________
 शु᳓चिभ्राजा उष᳓सः [38]  न᳓वेदा य᳓शस्वतीरपस्यु᳓वो न᳓ सत्याः᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+He hath golden tresses in the expanse of the air,  
+A raging serpent like the rushing wind,  
+With pure radiance [4], knowing the dawn,  
+Like true, glorious and toiling (women).
+</details>
+
 <details><summary>मूलम्</summary>
 
 हिर॑ण्यकेशो॒ रज॑सो विसा॒रेऽहि॒र्धुनि॒र्वात॑ इव॒ ध्रजी॑मान् ।    
 शुचि॑भ्राजा उ॒षसः॑ [38]  नवे॑दा॒ यश॑स्वतीरप॒स्युवो॒ न स॒त्याः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+हिर॑ण्यकेश॒ इति॒ हिर॑ण्य-के॒शः॒ । रज॑सः । वि॒सार॒ इति॑ वि-सारे॑ । अहिः॑ । धुनिः॑ । वातः॑ । इ॒व॒ । ध्रजी॑मान् ॥ शुचि॑भ्राजा॒ इति॒ शुचि॑-भ्रा॒जाः॒ । उ॒षसः॑ । न॒वि॒ना॒नः । यश॑स्वतीः । अ॒पस्यु॑वः । न । स॒त्याः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -447,10 +671,23 @@ ___________________
 शिवा᳓भिर्न᳓ स्म᳓यमानाभिरा᳓गात्प᳓तन्ति मि᳓हस्स्तन᳓यन्त्यभ्रा᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thy winged (steeds) have charged them as they are wont;  
+The dark bull hath roared when this was;  
+He hath come hither with (lightnings) that smile like kindly (women);  
+The rains fall, the clouds thunder.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ ते॑ सुप॒र्णा अ॑मिनन्त॒ एवैः॑ कृ॒ष्णो नो॑नाव वृष॒भो यदी॒दम् ।   
 शि॒वाभि॒र्न स्मय॑मानाभि॒रागा॒त्पत॑न्ति॒ मिह॑स्स्त॒नय॑न्त्य॒भ्रा ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । ते॒ । सु॒प॒र्णा इति॑ सु-प॒र्णाः । अ॒मि॒न॒न्त॒ । एवैः॑ । कृ॒ष्णः । नो॒ना॒व॒ । वृ॒ष॒भः । यदि॑ । इ॒दम् ॥ शि॒वाभिः॑ । न । स्मय॑मानाभिः । आ । अ॒गा॒त् । पत॑न्ति । मिहः॑ । स्त॒नय॑न्ति । अ॒भ्रा ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -464,10 +701,22 @@ ___________________
 य᳓देषाव्ँवृष्टि᳓र᳓सर्जि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Like a cow the lightning loweth;  
+It tendeth its young like a mother,  
+When their rain hath been let loose.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒श्रेव॑ वि॒द्युन्मि॑माति व॒त्सन्न मा॒ता सि॑षक्ति ।   
 यदे॑षाव्ँवृ॒ष्टिरस॑र्जि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒श्रा । इ॒व॒ । वि॒द्युदिति॑ वि-द्युत् । मि॒मा॒ति॒ । व॒त्सम् । न । मा॒ता । सि॒ष॒क्ति॒ ॥ यत् । ए॒षा॒म् । वृ॒ष्टिः । अस॑र्गि ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -481,10 +730,23 @@ ___________________
 य᳓त्क्री᳓डथ मरुतः [39]  ऋष्टिम᳓न्त आ᳓प इव सध्रि᳓यञ्चो धवध्वे ।
 </details>
 
+<details><summary>Keith</summary>
+
+The mountain that hath waxed great is afraid  
+Even the ridge of heaven trembleth at your roaring;  
+When ye sport, O Maruts [5], with your spears,  
+Ye speed along together like the waters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पर्व॑तश्चि॒न्महि॑ वृ॒द्धो बि॑भाय दि॒वश्चि॒त्सानु॑ रेजत स्व॒ने वः॑ ।   
 यत्क्रीड॑थ मरुतः [39]  ऋ॒ष्टि॒मन्त॒ आप॑ इव स॒ध्रिय॑ञ्चो धवध्वे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पर्व॑तः । चि॒त् । महि॑ । वृ॒द्धः । बि॒भा॒य॒ । दि॒वः । चि॒त् । सानु॑ । रे॒ज॒त॒ । स्व॒ने । वः॒ ॥ यत् । क्रीड॑थ । म॒रु॒तः॒ । ऋ॒ष्टि॒मन्त॒ इत्यृ॑ष्टि-मन्तः॑ । आपः॑ । इ॒व॒ । स॒ध्र्यञ्चः॑ । ध॒व॒ध्वे॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -498,10 +760,23 @@ ___________________
 दृ᳓तिँ सु᳓ कर्ष वि᳓षितन्न्य᳙ञ्चँ समा᳓ भवन्तूद्व᳓ता निपादाः᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Roar and thunder, deposit a germ,  
+Fly around with thy chariot water-laden;  
+Draw downward thy opened water-skin,  
+And let the heights and the depths be level.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒भि क्र॑न्द स्त॒नय॒ गर्भ॒मा धा॑ उद॒न्वता॒ परि॑ दीया॒ रथे॑न ।   
 दृतिँ॒ सु क॑र्ष॒ विषि॑त॒न्न्य॑ञ्चँ स॒मा भ॑वन्तू॒द्वता॑ निपा॒दाः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भीति॑ । क्र॒न्द॒ । स्त॒नय॑ । गर्भ॑म् । एति॑ । धाः॒ । उ॒द॒न्वतेत्यु॑दन्-वता॑ । परीति॑ । दी॒य॒ । रथे॑न ॥ दृति॑म् । सु । क॒र्ष॒ । विषि॑त॒मिति॒ वि-सि॒त॒म् । न्य॑ञ्चम् । स॒माः । भ॒व॒न्तु॒ । उ॒द्वतेत्यु॑त्-वता॑ । नि॒पा॒दा इति॑ नि-पा॒दाः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -515,16 +790,29 @@ ___________________
 तत्राग्नेयस्य पुरोनुवाक्या - त्वं त्या चिदच्युतेत्यनुष्टुप् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 त्व᳓न्त्या᳓ चिद᳓च्युता᳓ग्ने पशु᳓र्न᳓ य᳓वसे ।   
 धा᳓मा ह य᳓त्ते अजर व᳓ना वृश्च᳓न्ति शि᳓क्वसः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Even these immovable things (dost thou eat),  
+O Agni, like a beast at grass;  
+What time, O immortal, the hosts of thee,  
+The strong, rend the woods.
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्वन्त्या चि॒दच्यु॒ताग्ने॑ प॒शुर्न यव॑से ।   
 धामा॑ ह॒ यत्ते॑ अजर॒ वना॑ वृ॒श्चन्ति॒ शिक्व॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । त्या । चि॒त् । अच्यु॑ता । अग्ने॑ । प॒शुः । न । यव॑से ॥ धाम॑ । ह॒ । यत् । ते॒ । अ॒ज॒र॒ । वना॑ । वृ॒श्चन्ति॑ । शिक्व॑सः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -540,10 +828,23 @@ ___________________
 या᳓श्च [40]  माया᳓ मायि᳓नाव्ँविश्वमिन्व त्वे᳓ पूर्वी᳓स्सन्दधुᳶ᳓ पृष्टबन्धो ।
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, many are the hosts of the immortal all-knower,  
+O God, powerful; and (many) the [6] wiles of the wily  
+Which of yore they deposited in thee,  
+O thou that impellest all, O seeker of friends.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॒ भूरी॑णि॒ तव॑ जातवेदो॒ देव॑ स्वधावो॒ऽमृत॑स्य॒ धाम॑ ।  
 याश्च॑ [40]  मा॒या मा॒यिनाव्ँ॑विश्वमिन्व॒ त्वे पू॒र्वीस्स॑न्द॒धुᳶ पृ॑ष्टबन्धो ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । भूरी॑णि । तव॑ । जा॒त॒वे॒द॒ इति॑ जात-वे॒दः॒ । देव॑ । स्व॒धा॒व॒ इति॑ स्वधा-वः॒ । अ॒मृत॑स्य । धाम॑ ॥ याः । च॒ । मा॒याः । मा॒यिना॑म् । वि॒श्व॒मि॒न्वेति॑ विश्वम्-इ॒न्व॒ । त्वे इति॑ । पू॒र्वीः । स॒न्द॒धुरिति॑ सम्-द॒धुः । पृ॒ष्ट॒ब॒न्धो॒ इति॑ पृष्ट-ब॒न्धो॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -557,10 +858,23 @@ ___________________
 अर्वा᳓ङेते᳓न स्तनयित्नु᳓ते᳓ह्यपो᳓ निषिञ्च᳓न्न᳓सुरᳶ पिता᳓ नः ।
 </details>
 
+<details><summary>Keith</summary>
+
+From the sky grant us rain, O ye Maruts;  
+Make ye to swell the streams of the strong steed  
+Come hither with this thunder,  
+Pouring the waters, the Asura our father.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒वो नो॑ वृ॒ष्टिम्म॑रुतो ररीध्व॒म्प्र पि॑न्वत॒ वृष्णो॒ अश्व॑स्य॒ धाराः॑ ।  
 अ॒र्वाङे॒तेन॑ स्तनयि॒त्नुतेह्य॒पो नि॑षि॒ञ्चन्नसु॑रᳶ पि॒ता नः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒वः । नः॒ । वृ॒ष्टिम् । म॒रु॒तः॒ । र॒री॒ध्व॒म् । प्रेति॑ । पि॒न्व॒त॒ । वृष्णः॑ । अश्व॑स्य । धाराः॑ ॥ अ॒र्वाङ् । ए॒तेन॑ । स्त॒न॒यि॒त्नुना॑ । एति॑ । इ॒हि॒ । अ॒पः । नि॒षि॒ञ्चन्निति॑ नि-सि॒ञ्चन् । असु॑रः । पि॒ता । नः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -579,10 +893,23 @@ ___________________
 अ᳓त्यन्न᳓ मिहे᳓ वि᳓ नयन्ति वाजि᳓नमु᳓त्सन्दुहन्ति स्तन᳓यन्तम᳓क्षितम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+The bounteous Maruts make to swell the waters  
+Which yield milk with ghee for the sacrifices;  
+The strong steer they lead about as it were for rain;  
+They milk the thundering and never-failing spring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पिन्व॑न्त्य॒पो म॒रुत॑स्सु॒दान॑व॒ᳶ पयो॑ घृ॒तव॑द्वि॒दथे॑ष्वा॒भुवः॑ ।   
 अत्य॒न्न मि॒हे वि न॑यन्ति वा॒जिन॒मुत्स॑न्दुहन्ति स्त॒नय॑न्त॒मक्षि॑तम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पिन्व॑न्ति । अ॒पः । म॒रुतः॑ । सु॒दान॑व॒ इति॑ सु-दान॑वः । पयः॑ । घृ॒तव॒दिति॑ घृ॒त-व॒त् । वि॒दथे॑षु । आ॒भुव॒ इत्या॑-भुवः॑ ॥ अत्य॑म् । न । मि॒हे । वीति॑ । न॒य॒न्ति॒ । वा॒जिन॑म् । उत्स॑म् । दु॒ह॒न्ति॒ । स्त॒नय॑न्तम् । अक्षि॑तम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -599,10 +926,23 @@ ___________________
 क्रो᳓शाति ग᳓र्दा कन्ये᳙व तुन्ना᳓ पे᳓रुन्तुञ्जाना᳓ प᳓त्येव जाया᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+O ye Maruts, swimming in water, send forth  
+The rain [7], which all the Maruts strengthen;  
+May it call aloud like a maiden,  
+Like a wife with her husband in union.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒द॒प्रुतो॑ मरुत॒स्ताँ इ॑यर्त॒ वृष्टि॑म् [41]  ये विश्वे॑ म॒रुतो॑ जु॒नन्ति॑ ।  
 क्रोशा॑ति॒ गर्दा॑ क॒न्ये॑व तु॒न्ना पेरु॑न्तुञ्जा॒ना पत्ये॑व जा॒या ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒द॒प्रुत॒ इत्यु॑द-प्रुतः॑ । म॒रु॒तः॒ । तान् । इ॒य॒र्त॒ । वृष्टि॑म् । ये । विश्वे॑ । म॒रुतः॑ । जु॒नन्ति॑ ॥ क्रोशा॑ति । गर्दा॑ । क॒न्या॑ । इ॒व॒ । तु॒न्ना । पेरु॑म् । तु॒ञ्जा॒ना । पत्या॑ । इ॒व॒ । जा॒या ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -610,10 +950,18 @@ ___________________
 29अथ तृतीया - उदप्रुत इति त्रिष्टुप् ॥ उदप्रुतः उदकस्य प्रापयितॄन् । च्युङ् ज्युङ् प्रुङ् पुङ् गतौ । तानास्माकीनान् मरुतः इयर्त गच्छत भजत यजमानार्थं हे ऋत्विजः । ऋ गतौ, जौहोत्यादिकः, 'तप्तनप्तनधनाश्च' इति तस्य तनबादेशः, 'अर्तीपिपर्त्येश्च' इति अभ्यासस्येत्वम् । ये यूयं विश्वे वृष्टिं जुनन्ति प्रार्थयन्ते मरुतः ते यूयमास्माकीनान् मरुतः इयर्त । तानित्यस्य संहितायां 'दीर्घादटि समानपादे' इति रुत्वम् । अत्र प्रार्थयितुः प्रदातुश्च द्वौ दृष्टान्तौ दर्शयति - यथा गर्दा निगरणशीला कन्या तुन्ना बुभुक्षया पीडिता क्रोशाति क्रोशति । लेट्याडागमः । अभ्यवहार्यं प्रार्थयमाना रोदितीत्यर्थः । एवं वृष्टिं प्रार्थयमाना ऋत्विजः मरुत आह्वयन्तीति भावः । यथा च तां कन्यां पेरुं पातुकामां, उपलक्षणत्वाद्बुभुक्षितां च, सामर्थ्यात् क्रोशन्तीं तुञ्जाना भाषमाणा मा रोदीः किं ते अभिलषितमिति वदन्ती पत्या सह जाया तस्या अभिमतं प्रयच्छति अभिप्रेतदानेन मातापितरौ तां प्रीणयत इत्यर्थः । एवं वृष्टिं प्रार्थयमानेभ्यो ऋत्विग्भ्यः तां मरुतः प्रयच्छन्तीति । तस्मादास्माकीनान् ऋत्विजः वर्षदानेन मरुतः प्रीणयतेति । 'मापोरिरुन्' इति पिबतेरिरुन्प्रत्यये पेरुः । तुजि भाषायाम्, चुरादिः, 'बहुलं छन्दसि' इति शपो लुक्, 'छन्दस्युभयथा' इति शानच्, आर्धधातुकत्वाण्णिलोपः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 घृते᳓न द्या᳓वापृथिवी᳓ म᳓धुना स᳓मुक्षत प᳓यस्वतीᳵ कृणुता᳓प ओ᳓षधीः ।   
 ऊ᳓र्जञ्च त᳓त्र सुमति᳓ञ्च पिन्वथ य᳓त्रा नरो मरुतस्सिञ्च᳓था म᳓धु ।
+</details>
+
+<details><summary>Keith</summary>
+
+With ghee anoint sky and earth, with honey;  
+Make the plants rich in milk, the waters;  
+Make to swell strength and goodwill,  
+When, O hero Maruts, ye pour the honey.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -622,19 +970,34 @@ ___________________
 ऊर्ज॑ञ्च॒ तत्र॑ सुम॒तिञ्च॑ पिन्वथ॒ यत्रा॑ नरो मरुतस्सि॒ञ्चथा॒ मधु॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+घृ॒तेन॑ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । मधु॑ना । समिति॑ । उ॒क्ष॒त॒ । पय॑स्वतीः । कृ॒णु॒त॒ । आपः॑ । ओष॑धीः ॥ ऊर्ज॑म् । च॒ । तत्र॑ । सु॒म॒तिमिति॑ सु-म॒तिम् । च॒ । पि॒न्व॒थ॒ । यत्र॑ । न॒रः॒ । म॒रु॒तः॒ । सि॒ञ्चथ॑ । मधु॑ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 30अथ चतुर्थी - घृतेनेति अतिजगती विवृद्धपादा । 'घृतेन' इति त्रिभिरक्षरैः प्रथमः पादो विवृद्धः । हे नरः नेतारः मरुतः 'नयतेर्डिच्च' इति ऋप्रत्ययः । घृतेनोदकेन मधुना रसेन मधुरसेन द्यावापृथिवी समुक्षत सिञ्चत । 'दिवो द्यावा' इति द्यावादेशः, 'देवताद्वन्द्वे च' इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् । ततस्तस्य मधुरसस्योदकस्य उपर्युक्षणेन आपः पूर्वस्थिताः पयस्वतीः पानार्हरसवतीः कृणुत कुरुत । विभक्तिव्यत्ययेन द्वितीयास्थाने प्रथमा । ओषधीश्च पयस्वतीः कृणुतेत्येव । इदं चाप्यस्तु - यूयं मधु मधुरं उदकं सिञ्चथ । तत्र ऊर्जमन्नं बलं वा सुमतिं च कल्याणीं मतिं पिन्वथ सिञ्चथ दत्तेत्यर्थः । अबहुव्रीहेरपि 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । बहुव्रीहिर्वा, सुमतिं च प्रजामिति । यत्रसिंचथशब्दयोः 'अन्येषामपि दृश्यते' इति सांहितिकं दीर्घत्वम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 उ᳓दु त्य᳓म् ..
+</details>
+
+<details><summary>Keith</summary>
+
+Upwards that.
 </details>
 
 <details><summary>मूलम्</summary>
 
 उदु॒ त्यम् ..
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उदिति॑ । उ॒ । त्यम् । जा॒तवे॑दस॒मिति॑ जा॒त-वे॒द॒स॒म् । दे॒वम् । व॒ह॒न्ति॒ । के॒तवः॑ ॥ दृ॒शे । विश्वा॑य । सूर्य॑म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -651,14 +1014,24 @@ ___________________
   - [ सौर्यर्चा कृष्णाजिनं पुरस्तात्प्रत्यानह्यत्यूर्ध्वग्रीवम् - उदुत्यमिति गायत्र्या ॥ त्यं तं जातवेदसं जातानां वेदितारम् । 'गतिकारकयोरपि' इत्यसुन्प्रत्ययः । जातप्रज्ञानं वा सूर्यं देवं देवनादिगुणयुक्तं उद्वहन्ति ऊर्ध्वं वहन्ति केतवो रश्मयः दृशे द्रष्टुम् । 'दृशे विख्ये च' इति निपात्यते । विश्वाय विश्वार्थं विश्वं लोको यथा एनं पश्येत् तदनुरूपमुद्वहन्ति । स्मैभावाभावश्छान्दंसः । क्रियमाणेन का सङ्गतिः? उच्यते - एतस्य कर्मणस्सामर्थ्यादेतदेवं भवतीति ॥]
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 चित्र᳓म्  ..
+</details>
+
+<details><summary>Keith</summary>
+
+The radiant.
 </details>
 
 <details><summary>मूलम्</summary>
 
 चि॒त्रम्  ..
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चि॒त्रम् । दे॒वाना॑म् । उदिति॑ । अ॒गा॒त् । अनी॑कम् । चक्षुः॑ । मि॒त्रस्य॑ । वरु॑णस्य । अ॒ग्नेः ॥ एति॑ । अ॒प्राः॒ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । अ॒न्तरि॑क्षम् । सूर्यः॑ । आ॒त्मा । जग॑तः । त॒स्थुषः॑ । च॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -679,11 +1052,23 @@ ___________________
 अग्निँ᳓ समुद्र᳓वाससम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Like Aurva, like Bhrgu, like Apnavana,  
+I summon the pure  
+Agni who is clothed with the sea.
+</details>
+
 <details><summary>मूलम्</summary>
 
 औ॒र्व॒भृ॒गु॒वच्छुचि॑म्  ..  
 अप्नवान॒वदा हु॑वे ।   
 अ॒ग्निँ स॑मु॒द्रवा॑ससम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+औ॒र्व॒भृ॒गु॒वदित्यौ॑र्वभृगु-वत् । शुचि॑म् । अ॒प्न॒वा॒न॒वदिप्न॑वानवत् । एति॑ । हु॒वे॒ ॥ अ॒ग्निम् । स॒मु॒द्रवा॑सस॒मिति॑ समु॒द्र-वा॒स॒स॒म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -701,6 +1086,13 @@ ___________________
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+As the impulse of Savitr,  
+The favour of Bhaga, I call  
+Agni who is clothed with the sea.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/102/06_A_savaM.md">
 
@@ -930,10 +1322,22 @@ Ihn, der dem Trieb des Savitar und dem Genuss des Bhaga gleicht Agni, den meerum
 अग्निँ᳓ समुद्र᳓वाससम् ॥ [42]  
 </details>
 
+<details><summary>Keith</summary>
+
+I call the wise one, who soundeth like the wind,  
+The might that roareth like Parjanya,  
+Agni who is clothed with the sea.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हु॒वे वात॑स्वनङ्क॒विम्प॒र्जन्य॑क्रन्द्यँ॒ सहः॑ ।   
 अ॒ग्निँ स॑मु॒द्रवा॑ससम् ॥ [42]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+हु॒वे । वात॑स्वन॒मिति॒ वात॑-स्व॒न॒म् । क॒विम् । प॒र्जन्य॑क्रन्द्य॒मिति॑ प॒र्जन्य॑-क्र॒न्द्य॒म् । सहः॑ ॥ अ॒ग्निम् । स॒मु॒द्रवा॑सस॒मिति॑ समु॒द्र-वा॒स॒स॒म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

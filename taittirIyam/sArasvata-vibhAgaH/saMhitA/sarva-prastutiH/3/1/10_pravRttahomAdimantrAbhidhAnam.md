@@ -26,9 +26,7 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
-By Agni may one win wealth  
-And abundance day by day,  
-Glory, full of heroes.
+May I be pleasing to speech; pleasing to the lord of speech, O divine speech. The sweetness of speech place in me; hail to Sarasvati.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -67,10 +65,9 @@ Glory, full of heroes.
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
-Rich in cattle, in sheep, O Agni, in horses is the sacrifice;  
-With manly companions, ever unalterable;  
-Rich in food is this, O Asura, in offspring,  
-Enduring, wealth, deep based and rich in houses.  
+By the Rc make the Soma to prosper,  
+By the Gayatra the Rathantara,  
+The Brhat with the Gayatri for its metre.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -159,7 +156,10 @@ Over it I say Hail! and offer it to Indra.
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
-Together for thee.
+The drop, the shoot, that hath fallen on the ground,  
+From the rice grains [1], the cake, the mush,  
+From the Soma with grain, from the mixed, O Indra, from the pure,  
+Over it I say Hail! and offer it to Indra.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -207,9 +207,10 @@ Together for thee.
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
-Here Tvastr the first,  
-Of all forms, I call.  
-May he be ours only.
+Thy sweet drop, powerful,  
+Over which Hail! is said and which goeth back to the gods  
+From the sky, the earth, the atmosphere  
+Over it I say Hail! and offer it to Indra.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -244,10 +245,20 @@ May he be ours only.
 इ᳓त्य् **आहुः** ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The Adhvaryu is the first of the priests to start work, verily they say the Stoma should be started by him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ध्व॒र्युर्वा ऋ॒त्विजा॑म्प्रथ॒मो यु॑ज्यते ।  
 तेन॒ स्तोमो॑ योक्त॒व्य॑ इत्या॑हुः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ध्व॒र्युः । वै । ऋ॒त्विजा॑म् । प्र॒थ॒मः । यु॒ज्य॒ते॒ । तेन॑ । स्तोमः॑ । यो॒क्त॒व्यः॑ । इति॑ । आ॒हुः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -264,14 +275,49 @@ May he be ours only.
 म᳓यि द᳓धती प्राणा᳓न्,  
 पशु᳓षु प्रजा᳓म्,  
 म᳓यि च य᳓जमाने चे᳓"त्याह ।  
-वा᳓चम् एव᳓ त᳓द् यज्ञ-मुखे᳓ **युनक्ति** ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'May speech that goes in front go in front, going straight to the gods, placing glory in me, breath in cattle, offspring in me [2] and in the sacrificer', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
 वाग॑ग्रे॒गा अग्र॑ एतु ।  
 ऋ॒जु॒गा  दे॒वेभ्यो॒ यशो॒ मयि॒ दध॑ती प्रा॒णान्प॒शुषु॑ प्र॒जाम्मयि॑ च॒ यज॑माने॒ चेत्या॑ह ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वाक् । अ॒ग्रे॒गा इत्य॑ग्रे-गाः । अग्रे॑ । ए॒तु॒ । ऋ॒जु॒गा इत्यृ॑जु-गाः । दे॒वेभ्यः॑ । यशः॑ । मयि॑ । दध॑ती । प्रा॒णानिति॑ प्र-अ॒नान् । प॒शुषु॑ । प्र॒जामिति॑ प्र-जाम् । मयि॑ । च॒ । यज॑माने । च॒ । इति॑ । आ॒ह॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+मन्त्रार्थस्तु - **वागग्रेगाः** सर्वस्याग्रे गच्छन्ती **अग्रे** प्रथमं बहिष्पवमानम् **एतु** । 'जनसन' इति विट्' 'विड्वनोरनुनासिकस्स्यात्' इत्यात्वम् ।
+
+ईदृशी सती गच्छत्वित्याह - **ऋजुगाः** ऋजुमार्गेण गच्छन्ती देवेभ्यः देवार्थमवक्रगमना देवानेवं गच्छन्तीत्यर्थः । पूर्ववद्विट् । मयि यशो दधती स्थापयान्ती सुष्ठु प्रचारणात्प्राणान् पशुषु दधती सम्यग्यागनिष्पत्तेः प्रजां मयि च यजमाने दधती अग्रे गच्छत्विति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
+
+वा᳓चम् एव᳓ त᳓द् यज्ञ-मुखे᳓ **युनक्ति** ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he yokes speech at the beginning of the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
 वाच॑मे॒व तद्य॑ज्ञमु॒खे यु॑नक्ति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वाच॑म् । ए॒व । तत् । य॒ज्ञ॒मु॒ख इति॑ यज्ञ-मु॒खे । यु॒न॒क्ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -280,10 +326,6 @@ May he be ours only.
 तेन प्रथमम् अध्वर्युः वाचं यज्ञ-मुखे बहिष्-पवमानारम्भे युनक्ति  
 यद् वाचं बाहीष्पवमानं यज्ञ-मुखे ऽध्वर्युर् युनक्ति  
 एवं स्तोमो युक्तो योजितो भवति ।
-
-मन्त्रार्थस्तु - **वागग्रेगाः** सर्वस्याग्रे गच्छन्ती **अग्रे** प्रथमं बहिष्पवमानम् **एतु** । 'जनसन' इति विट्' 'विड्वनोरनुनासिकस्स्यात्' इत्यात्वम् ।
-
-ईदृशी सती गच्छत्वित्याह - **ऋजुगाः** ऋजुमार्गेण गच्छन्ती देवेभ्यः देवार्थमवक्रगमना देवानेवं गच्छन्तीत्यर्थः । पूर्ववद्विट् । मयि यशो दधती स्थापयान्ती सुष्ठु प्रचारणात्प्राणान् पशुषु दधती सम्यग्यागनिष्पत्तेः प्रजां मयि च यजमाने दधती अग्रे गच्छत्विति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
@@ -295,10 +337,20 @@ May he be ours only.
 +++(तस्मात् प्रथमम् एव ग्रहा गृहीतव्याः । ततो बहिष्पवमानं संसर्पेयुः।)+++
 </details>
 
+<details><summary>Keith</summary>
+
+The place of the sacrifice is made when having drawn off the libations they creep to the Bahispavamana;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वास्तु॒ वा ए॒तद्य॒ज्ञस्य॑ क्रियते ।  
 यद्ग्रहा॑न्गृही॒त्वा ब॑हिष्पवमा॒नँ सर्प॑न्ति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वास्तु॑ । वै । ए॒तत् । य॒ज्ञस्य॑ । क्रि॒य॒ते॒ । यत् । ग्रहान्॑ । गृ॒ही॒त्वा । ब॒हि॒ष्प॒व॒मा॒नमिति॑ बहिः-प॒व॒मा॒नम् । सर्प॑न्ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -319,9 +371,19 @@ May he be ours only.
 प᳓राञ्चो+++(→अपुनरावृत्ता)+++ हि᳓ **य᳓न्ति**, प᳓राचीभिस् **स्तुव᳓ते** ।  
 </details>
 
+<details><summary>Keith</summary>
+
+for they go away, and they praise with verses which go away;
+</details>
+
 <details><summary>मूलम्</summary>
 
 परा॑ञ्चो॒ हि यन्ति॒ परा॑चीभिस्स्तु॒वते॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+परा॑ञ्चः । हि । यन्ति॑ । परा॑चीभिः । स्तु॒वते॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -332,18 +394,71 @@ May he be ours only.
 <details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
 वैष्णव्य᳓र्चा᳓ **पु᳓नर् ए᳓त्यो᳓प तिष्ठते** ।  
-यज्ञो᳓ वै᳓ वि᳓ष्णुर्, यज्ञ᳓म् **एवा᳓कः**+++(=करोति)+++ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he returns, and with a verse addressed to Visnu reverences (the Soma);
 </details>
 
 <details><summary>मूलम्</summary>
 
 वै॒ष्ण॒व्यर्चा  पुन॒रेत्योप॑ तिष्ठते ।  
-य॒ज्ञो वै विष्णु॑र्य॒ज्ञमे॒वाकः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वै॒ष्ण॒व्या । ऋ॒चा । पुनः॑ । एत्येत्या॑-इत्य॑ । उपेति॑ । ति॒ष्ठ॒ते॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-वैष्णव्येत्यादि । पुनरेत्यागत्य वैष्णव्यर्चा वक्ष्यमाणया अनुष्टुभा राजानमुपतिष्ठते - तस्मादनेनोपस्थानेन **यज्ञमेवाकः** करोति । करोतेः छान्दसे लुङि 'मन्त्रे घस' इति च्लेर्लुक् । 
+वैष्णव्येत्यादि । पुनरेत्यागत्य वैष्णव्यर्चा वक्ष्यमाणया अनुष्टुभा राजानमुपतिष्ठते -
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
+
+यज्ञो᳓ वै᳓ वि᳓ष्णुः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Visnu is the sacrifice;
+</details>
+
+<details><summary>मूलम्</summary>
+
+य॒ज्ञो वै विष्णुः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒ज्ञः । वै । विष्णुः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
+
+यज्ञ᳓म् **एवा᳓कः**+++(=करोति)+++ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he makes the sacrifice.
+</details>
+
+<details><summary>मूलम्</summary>
+
+य॒ज्ञमे॒वाकः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒ज्ञम् । ए॒व । अ॒कः॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्मादनेनोपस्थानेन **यज्ञमेवाकः** करोति । करोतेः छान्दसे लुङि 'मन्त्रे घस' इति च्लेर्लुक् । 
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
@@ -388,16 +503,44 @@ O Visnu, as our nearest, O mighty one, grant us protection; the streams dripping
 
 <details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
-इ᳓त्य् आह -  
-यद् एवा᳓स्य **श᳓यानस्योपशु᳓ष्यति**,   
-तद् **एवा᳓स्यैते᳓ना᳓प्याययति** ॥ [34]
+इ᳓त्य् आह ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
-इत्या॑ह  
+इत्या॑ह ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इति॑ । आ॒ह॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
+
+यद् एवा᳓स्य **श᳓यानस्योपशु᳓ष्यति**,   
+तद् **एवा᳓स्यैते᳓ना᳓प्याययति** ॥ [34]
+</details>
+
+<details><summary>Keith</summary>
+
+verily he makes to swell by it whatever of the Soma has dried up through lying (in the barrels).
+</details>
+
+<details><summary>मूलम्</summary>
+
 यदे॒वास्य॒ शया॑नस्योप॒शुष्य॑ति   
 तदे॒वास्यै॒तेना प्या॑ययति ॥ [34]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ए॒व । अ॒स्य॒ । शया॑नस्य । उ॒प॒शुष्य॒तीत्यु॑प-शुष्य॑ति । तत् । ए॒व । अ॒स्य॒ । ए॒तेन॑ । एति॑ । प्या॒य॒य॒ति॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

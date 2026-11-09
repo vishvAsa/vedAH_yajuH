@@ -4,16 +4,29 @@ title = "१० अग्निग्रहाः प्राणग्रहा
 १ त्रिष्टुप्  
 विश्वेदेवा ऋषयः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 त्वे᳓ क्र᳓तुम᳓पि वृञ्जन्ति वि᳓श्वे द्वि᳓र्य᳓देते᳓ त्रि᳓र्भ᳓वन्त्यू᳓माः  ।   
 स्वादो᳓स्स्वा᳓दीयस्स्वादु᳓ना सृजा स᳓म᳓त ऊ षु᳓ म᳓धु म᳓धुनाभि᳓ योधि  ।   
+</details>
+
+<details><summary>Keith</summary>
+
+All turn their minds towards thee  
+When these twice or thrice become helpers;  
+Mix with the sweet what is sweeter than sweet,  
+I have won with the mead the mead.
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्वे क्रतु॒मपि॑ वृञ्जन्ति॒ विश्वे॒ द्विर्यदे॒ते त्रिर्भव॒न्त्यूमाः॑  ।   
 स्वा॒दोस्स्वादी॑यस्स्वा॒दुना॑ सृजा॒ समत॑ ऊ॒ षु मधु॒ मधु॑ना॒भि यो॑धि  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वे इति॑ । क्रतु॑म् । अपीति॑ । वृ॒ञ्ज॒न्ति॒ । विश्वे॑ । द्विः । यत् । ए॒ते । त्रिः । भव॑न्ति । ऊमाः॑ ॥ स्वा॒दोः । स्वादी॑यः । स्वा॒दुना॑ । सृ॒ज॒ । समिति॑ । अतः॑ । उ॒ । स्विति॑ । मधु॑ । मधु॑ना । अ॒भीति॑ । यो॒धि॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -99,22 +112,42 @@ _________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एष᳓ ते यो᳓निᳶ प्रजा᳓पतये त्वा ॥ [46]
+एष᳓ ते यो᳓निः ।
 </details>
 
 <details><summary>Keith</summary>
 
-this is thy birthplace; to Prajapati thee!
+this is thy birthplace;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॒ योनि॑ᳶ प्र॒जाप॑तये त्वा ॥ [46]
+ए॒ष ते॒ योनि॑ᳶ
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-ए॒षः । ते॒ । योनिः॑ । प्र॒जाप॑तय॒ इति॑ प्र॒जा-प॒त॒ये॒ । त्वा॒ ॥
+ए॒षः । ते॒ । योनिः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रजा᳓पतये त्वा ॥ [46]
+</details>
+
+<details><summary>Keith</summary>
+
+to Prajapati thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्र॒जाप॑तये त्वा ॥ [46]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑तय॒ इति॑ प्र॒जा-प॒त॒ये॒ । त्वा॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -129,9 +162,19 @@ this is thy birthplace; to Prajapati thee!
 प्राणग्रहा᳓न्गृह्णाति  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+He draws the Prana, cups;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒ण॒ग्र॒हान्गृ॑ह्णाति  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रा॒ण॒ग्र॒हानिति॑ प्राण-ग्र॒हान् । गृ॒ह्णा॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -146,17 +189,52 @@ this is thy birthplace; to Prajapati thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एता᳓वद्वा᳓ अस्ति या᳓वदेते᳓ ग्र᳓हास्स्तो᳓माश्छ᳓न्दाँसि पृष्ठा᳓नि दि᳓शो या᳓वदेवा᳓स्ति त᳓द᳓व रुन्द्धे ।  
+एता᳓वद्वा᳓ अस्ति या᳓वदेते᳓ ग्र᳓हास्स्तो᳓माश्छ᳓न्दाँसि पृष्ठा᳓नि दि᳓शः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+so much is there as are these cups, these Stomas, these metres, these Prstha (Stotras), these quarters;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ए॒ताव॒द्वा अ॑स्ति॒ याव॑दे॒ते ग्रहा॒स्स्तोमा॒श्छन्दाँ॑सि पृ॒ष्ठानि॒ दिशो॒ याव॑दे॒वास्ति॒ तदव॑ रुन्द्धे ।  
+ए॒ताव॒द्वा अ॑स्ति॒ याव॑दे॒ते ग्रहा॒स्स्तोमा॒श्छन्दाँ॑सि पृ॒ष्ठानि॒ दिशो॒  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒ताव॑त् । वै । अ॒स्ति॒ । याव॑त् । ए॒ते । ग्रहाः॑ । स्तोमाः॑ । छन्दाँ॑सि । पृ॒ष्ठानि॑ । दिशः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-5एतावद्वा इत्यादि ॥ एतावदेवास्मिन् जगति पुनरेते ग्रहाः स्तोमास्त्रिवृदादयः, छन्दांसि गायत्र्यादीनि, पृष्ठानि सामानि रथन्तरादीनि । एतदात्मका एते ग्रहाः एतावदेवास्ति सर्वमवरुन्धे ॥
+5एतावद्वा इत्यादि ॥ एतावदेवास्मिन् जगति पुनरेते ग्रहाः स्तोमास्त्रिवृदादयः, छन्दांसि गायत्र्यादीनि, पृष्ठानि सामानि रथन्तरादीनि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+या᳓वदेवा᳓स्ति त᳓द᳓व रुन्द्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+whatever there is [1] that he wins.
+</details>
+
+<details><summary>मूलम्</summary>
+
+याव॑दे॒वास्ति॒ तदव॑ रुन्द्धे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+याव॑त् । ए॒व । अस्ति॑ । तत् । अवेति॑ । रु॒न्द्धे॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+एतदात्मका एते ग्रहाः एतावदेवास्ति सर्वमवरुन्धे ॥
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -167,28 +245,70 @@ this is thy birthplace; to Prajapati thee!
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्येष्ठा᳓ वा᳓ एता᳓न्ब्राह्मणाᳶ᳓ पुरा᳓ विद्वा᳓मक्रन् ।   
+</details>
+
+<details><summary>Keith</summary>
+
+The highest Brahmans have proclaimed these before;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ये॒ष्ठा वा ए॒तान्ब्रा॑ह्म॒णाᳶ पु॒रा वि॒द्वाम॑क्रन् ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ज्ये॒ष्ठाः । वै । ए॒तान् । ब्रा॒ह्म॒णाः । पु॒रा । वि॒दाम् । अ॒क्र॒न् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+6ज्येष्ठा वा इत्यादि ॥ गतम् । विदामक्रन् । विदेर्लुङि 'अभ्युत्सादयाम्' इत्यादौ आम्प्रत्ययो निपात्यते, 'मन्त्रे घस' इत्यादिना अनुप्रयुज्यमानस्य च्लेर्लुक् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात्ते᳓षाँ स᳓र्वा दि᳓शोऽभि᳓जिता अभूवन् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+they have therefore won all the quarters.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मा॒त्तेषाँ॒ सर्वा॒ दिशो॒ऽभिजि॑ता अभूवन् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्मा॑त् । तेषा॑म् । सर्वाः॑ । दिशः॑ । अ॒भिजि॑ता॒ इत्य॒भि-जि॒ताः॒ । अ॒भू॒व॒न् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स्यैते᳓ गृह्य᳓न्ते ज्यै᳓ष्ठ्यमेव᳓ गच्छति ।  
 
 अभि᳓ दि᳓शो जयति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He for whom these are drawn attains supremacy, he conquers the quarters.
+</details>
+
 <details><summary>मूलम्</summary>
-
-ज्ये॒ष्ठा वा ए॒तान्ब्रा॑ह्म॒णाᳶ पु॒रा वि॒द्वाम॑क्रन् ।   
-
-तस्मा॒त्तेषाँ॒ सर्वा॒ दिशो॒ऽभिजि॑ता अभूवन् ।  
 
 यस्यै॒ते गृ॒ह्यन्ते॒ ज्यैष्ठ्य॑मे॒व ग॑च्छति ।  
 
 अ॒भि दिशो॑ जयति ।  
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-6ज्येष्ठा वा इत्यादि ॥ गतम् । विदामक्रन् । विदेर्लुङि 'अभ्युत्सादयाम्' इत्यादौ आम्प्रत्ययो निपात्यते, 'मन्त्रे घस' इत्यादिना अनुप्रयुज्यमानस्य च्लेर्लुक् ॥
+यस्य॑ । ए॒ते । गृ॒ह्यन्ते॑ । ज्यैष्ठ्य॑म् । ए॒व । ग॒च्छ॒ति॒ । अ॒भीति॑ । दिशः॑ । ज॒य॒ति॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -199,13 +319,23 @@ this is thy birthplace; to Prajapati thee!
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्च गृह्यन्ते ।  
-प᳓ञ्च दि᳓शस्स᳓र्वास्वेव᳓ दिक्ष्वृ᳙ध्नुवन्ति ।  
+प᳓ञ्च दि᳓शः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Five are drawn, the quarters are five;
 </details>
 
 <details><summary>मूलम्</summary>
 
 पञ्च॑ गृह्यन्ते ।  
-पञ्च॒ दिश॒स्सर्वा॑स्वे॒व दि॒क्ष्वृ॑ध्नुवन्ति ।  
+पञ्च॒ दिश॒  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पञ्च॑ । गृ॒ह्य॒न्ते॒ । पञ्च॑ । दिशः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -215,12 +345,62 @@ this is thy birthplace; to Prajapati thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+स᳓र्वास्वेव᳓ दिक्ष्वृ᳙ध्नुवन्ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily they prosper in all the quarters.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्सर्वा॑स्वे॒व दि॒क्ष्वृ॑ध्नुवन्ति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सर्वा॑सु । ए॒व । दि॒क्षु । ऋ॒ध्नु॒व॒न्ति॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 न᳓वनव गृह्यन्ते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Nine each are drawn;
 </details>
 
 <details><summary>मूलम्</summary>
 
 नव॑नव गृह्यन्ते ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नव॑न॒वेति॒ नव॑-न॒व॒ । गृ॒ह्य॒न्ते॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न᳓व वै᳓ पु᳓रुषे प्राणाः᳓ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+nine are the vital airs in man;
+</details>
+
+<details><summary>मूलम्</summary>
+
+नव॒ वै पुरु॑षे प्रा॒णाᳶ  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नव॑ । वै । पुरु॑षे । प्रा॒णा इति॑ प्र-अ॒नाः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -230,12 +410,22 @@ this is thy birthplace; to Prajapati thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न᳓व वै᳓ पु᳓रुषे प्राणाᳶ᳓ प्राणा᳓नेव᳓ य᳓जमानेषु दधति ।  
+प्राणा᳓नेव᳓ य᳓जमानेषु दधति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily upon the sacrificers he bestows the vital airs.
 </details>
 
 <details><summary>मूलम्</summary>
 
-नव॒ वै पुरु॑षे प्रा॒णाᳶ प्रा॒णाने॒व यज॑मानेषु दधति ।  
+प्रा॒णाने॒व यज॑मानेषु दधति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रा॒णानिति॑ प्र-अ॒नान् । ए॒व । यज॑मानेषु । द॒ध॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -251,20 +441,68 @@ this is thy birthplace; to Prajapati thee!
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रायणी᳓ये  चोदयनी᳓ये च गृह्यन्ते ।  
-प्राणा᳓ वै᳓ प्राणग्रहाᳶ᳓ प्राणै᳓रेव᳓ प्रय᳓न्ति ।  
-प्राणै᳓रु᳓द्यन्ति दशमे᳓ऽहन्गृह्यन्ते ।
+</details>
+
+<details><summary>Keith</summary>
+
+At the beginning and at the end they are drawn;
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रा॒य॒णीये॑  चोदय॒नीये॑ च गृह्यन्ते ।  
-प्रा॒णा वै प्रा॑णग्र॒हाᳶ प्रा॒णैरे॒व प्र॒यन्ति॑ ।  
-प्रा॒णैरुद्य॑न्ति दश॒मेऽह॑न्गृह्यन्ते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रा॒य॒णीय॒ इति॑ प्र-अ॒य॒नीये॑ । च॒ । उ॒द॒य॒नीय॒ इत्यु॑त्-अ॒य॒नीये॑ । च॒ । गृ॒ह्य॒न्ते॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-8क्व पुनरेते ग्रहाः गृहीतव्या इत्याह - प्रायणीये चेत्यादि ॥ एते प्रायणीयोदयनीययोरेव नियुक्ता गृह्यन्ते । 'दशमेहंस्तदु रात्रिसत्रेष्वग्निष्टोम आयातयति वा गृह्णीयादगदो हैव भवति' इत्याचार्याः ॥
+8क्व पुनरेते ग्रहाः गृहीतव्या इत्याह - प्रायणीये चेत्यादि ॥ एते प्रायणीयोदयनीययोरेव नियुक्ता गृह्यन्ते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राणा᳓ वै᳓ प्राणग्रहाः᳓ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the Prana cups are the vital airs [2];
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रा॒णा वै प्रा॑णग्र॒हाᳶ  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रा॒णा इति॑ प्र-अ॒नाः । वै । प्रा॒ण॒ग्र॒हा इति॑ प्राण-ग्र॒हाः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राणै᳓रेव᳓ प्रय᳓न्ति ।  
+प्राणै᳓रु᳓द्यन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily they begin with the vital airs, and end with the vital airs.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रा॒णैरे॒व प्र॒यन्ति॑ ।  
+प्रा॒णैरुद्य॑न्ति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रा॒णैरिति॑ प्र-अ॒नैः । ए॒व । प्र॒यन्तीति॑ प्र-यन्ति॑ । प्रा॒णैरिति॑ प्र-अ॒नैः । उदिति॑ । य॒न्ति॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -274,25 +512,83 @@ this is thy birthplace; to Prajapati thee!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+दशमे᳓ऽहन्गृह्यन्ते ।
 प्राणा᳓ वै᳓ प्राणग्रहाᳶ᳓ प्राणे᳓भ्यᳵ ख᳓लु वा᳓ एत᳓त्प्रजा᳓ यन्ति ।  
 य᳓द्वामदेव्यय्ँ᳓यो᳓नेश्च्य᳓वते ।  
-द᳓शमे᳓ऽहन्वामदेव्यय्ँ᳓यो᳓नेश्च्यवते ।  
-य᳓द्दशमे᳓ऽहन्गृह्य᳓न्ते ।  
-प्राणे᳓भ्य एव᳓ त᳓त्प्रजा᳓ न᳓ यन्ति ॥
+</details>
+
+<details><summary>Keith</summary>
+
+Now offspring leave their vital airs in that the Vamadevya (Saman) departs from its norm;
 </details>
 
 <details><summary>मूलम्</summary>
 
+दश॒मेऽह॑न्गृह्यन्ते ।
 प्रा॒णा वै प्रा॑णग्र॒हाᳶ प्रा॒णेभ्य॒ᳵ खलु॒ वा ए॒तत्प्र॒जा य॑न्ति ।  
 यद्वा॑मदे॒व्यय्ँयोने॒श्च्यव॑ते ।  
-दश॒मेऽह॑न्वामदे॒व्यय्ँयोने॑श्च्यवते ।  
-यद्द॑श॒मेऽह॑न्गृ॒ह्यन्ते॑ ।  
-प्रा॒णेभ्य॑ ए॒व तत्प्र॒जा न य॑न्ति ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द॒श॒मे । अह॑न् । गृ॒ह्य॒न्ते॒ । प्रा॒णा इति॑ प्र-अ॒नाः । वै । प्रा॒ण॒ग्र॒हा इति॑ प्राण-ग्र॒हाः । प्रा॒णेभ्य॒ इति॑ प्र-अ॒नेभ्यः॑ । खलु॑ । वै । ए॒तत् । प्र॒जा इति॑ प्र-जाः । य॒न्ति॒ । यत् । वा॒म॒दे॒व्यमिति॑ वाम-दे॒व्यम् । योनेः॑ । च्यव॑ते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-9प्राणेभ्य इत्यादि - प्राणेभ्यः प्रजायन्ति उपगच्छन्ति तदा, यदा वामदेव्यं साम योनेश्च्यवते । कदा पुनस्तद्योनेश्च्यवते? आह - दशमेऽहन्नित्यादि । गतम् । 'वामदेवाड्ड्यड्ड्यौ' ॥
+'दशमेहंस्तदु रात्रिसत्रेष्वग्निष्टोम आयातयति वा गृह्णीयादगदो हैव भवति' इत्याचार्याः ॥ 9प्राणेभ्य इत्यादि - प्राणेभ्यः प्रजायन्ति उपगच्छन्ति तदा, यदा वामदेव्यं साम योनेश्च्यवते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द᳓शमे᳓ऽहन्वामदेव्यय्ँ᳓यो᳓नेश्च्यवते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+on the tenth day the Vamadevya departs from its norm;
+</details>
+
+<details><summary>मूलम्</summary>
+
+दश॒मेऽह॑न्वामदे॒व्यय्ँयोने॑श्च्यवते ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द॒श॒मे । अह॑न् । वा॒म॒दे॒व्यमिति॑ वाम-दे॒व्यम् । योनेः॑ । च्य॒व॒ते॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+कदा पुनस्तद्योनेश्च्यवते? आह - दशमेऽहन्नित्यादि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓द्दशमे᳓ऽहन्गृह्य᳓न्ते ।  
+प्राणे᳓भ्य एव᳓ त᳓त्प्रजा᳓ न᳓ यन्ति ॥
+</details>
+
+<details><summary>Keith</summary>
+
+in that they are drawn on the tenth day, offspring leave not their vital airs.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्द॑श॒मेऽह॑न्गृ॒ह्यन्ते॑ ।  
+प्रा॒णेभ्य॑ ए॒व तत्प्र॒जा न य॑न्ति ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । द॒श॒मे । अह॑न् । गृ॒ह्यन्ते॑ । प्रा॒णेभ्य॒ इति॑ प्र-अ॒नेभ्यः॑ । ए॒व । तत् । प्र॒जा इति॑ प्र-जाः । न । य॒न्ति॒ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+गतम् । 'वामदेवाड्ड्यड्ड्यौ' ॥
 
 इति तृतीये पञ्चमे दशमोनुवाकः ॥  
 </details>

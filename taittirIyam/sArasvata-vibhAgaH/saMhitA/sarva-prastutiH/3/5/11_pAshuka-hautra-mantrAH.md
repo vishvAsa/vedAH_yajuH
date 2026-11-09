@@ -13,10 +13,22 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 हव्या᳓ नो वक्षदानुष᳓क्  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Bring onward with meditation divine  
+The god, who knoweth all;  
+May he duly bear our sacrifices.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र दे॒वन्दे॒व्या धि॒या भर॑ता जा॒तवे॑दसम्  ।   
 ह॒व्या नो॑ वक्षदानु॒षक्  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । दे॒वम् । दे॒व्या । धि॒या । भर॑त । जा॒तवे॑दस॒मिति॑ जा॒त-वे॒द॒स॒म् ॥ ह॒व्या । नः॒ । व॒क्ष॒त् । आ॒नु॒षक् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -30,10 +42,23 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 र᳓थो न᳓ यो᳓रभी᳓वृतो घृ᳓णीवाञ्चेतति त्म᳓ना  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+He, the Hotr is led forward for the sacrifice,  
+The servant of the gods;  
+Like a covered chariot glowing  
+He himself knoweth health.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यमु॒ ष्य प्र दे॑व॒युर्होता॑ य॒ज्ञाय॑ नीयते  ।   
 रथो॒ न योर॒भीवृ॑तो॒ घृणी॑वाञ्चेतति॒ त्मना॑  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । उ॒ । स्यः । प्रेति॑ । दे॒व॒युरिति॑ देव-युः । होता॑ । य॒ज्ञाय॑ । नी॒य॒ते॒ ॥ रथः॑ । न । योः । अ॒भीवृ॑त॒ इत्य॒भि-वृ॒तः॒ । घृणी॑वान् । चे॒त॒ति॒ । त्मना॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -41,10 +66,18 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 2अथ द्वितीया - अयमुष्य इत्यनुष्टुप् ॥ अयमु अयमेव स्यः सः देवयुः देवान्यष्टुमिच्छन् । 'न छन्दस्यपुत्रस्य' इतीत्वाभावः, 'क्याच्छन्दसि' इत्युप्रत्ययः । होता देवानामाह्वाता सोयमेव यज्ञाय प्रणीयते । रथो न रथ इव । रंहणशील आदित्यो रथः रथवान्वा, लुप्तमत्वर्थीयः । अभिवृतः ब्राह्मणैर्वेष्टितः । सांहितिकमुपसर्गस्य दीर्घत्वम्, 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । योः मिश्रयिता हविषां देवैः । यौतेर्विच् । धृणीवान् रश्मिवान् । सांहितिकं दीर्घत्वम्, 'छन्दसीरः' इति मतुपो वत्वम्, व्यत्ययेन 'छन्दसि' इति रुर्न प्रवर्तते । चेतति जानाति त्मना आत्मना स्वयमेव यागनिवृत्त्युपायान् वेत्तीति । 'मन्त्रेष्वाङ्यादेः' इति लोपः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अय᳓मग्नि᳓रुरुष्यत्यमृ᳓तादिव ज᳓न्मनः  ।   
 स᳓हसश्चित्स᳓हीयान्देवो᳓ जीवा᳓तवे कृतः᳓  ।   
+</details>
+
+<details><summary>Keith</summary>
+
+This Agni rescueth  
+Us from the immortal race,  
+He that is stronger than strength,  
+The god made for life.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -53,21 +86,39 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 सह॑सश्चि॒त्सही॑यान्दे॒वो जी॒वात॑वे कृ॒तः  ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । अ॒ग्निः । उ॒रु॒ष्य॒ति॒ । अ॒मृता॑त् । इ॒व॒ । जन्म॑नः ॥ सह॑सः । चि॒त् । सही॑यान् । दे॒वः । जी॒वात॑वे । कृ॒तः ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अथ तृतीया - अयमग्निरित्यनुष्टुप् ॥ अयं प्रणीयमानोग्निरुरुष्यति रक्षति यागं रक्षःप्रभृतिभ्यः । यद्वा - रक्षत्यात्मानं आ समाप्तेरविनाशो वर्तिष्यते । अमृतादिव जन्मनः यथा अमृतादविद्यमानमरणात् जन्महेतोरविनाशोयं स्तुतो भवति । एवमस्मादाहवनीयाज्जातत्वान्नस्य विनाश इति । उरुष्यतिः कण्ड्वादिः 'नञो जरमर' इत्यमृतशब्दस्योत्तृरपदाद्युदात्तत्वम् । सहसश्चित्सहीयान् । सहो बलम् । मत्वर्थीयो लुप्यते । चिच्छब्दोप्यर्थे । बलवद्भ्योपि बलवत्तरः । सहस्वच्छब्दादीयसुनि 'विन्मतोर्लुक्' इति लुक्, 'टेः' इति टिलोपः । देवः दीप्तिमान् । जीवातवे जीवनहेतवे यागाय कृतः प्रणीतः । सोयमग्निः उरुष्यति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 इ᳓डायास्त्वा पदे᳓ वय᳓न्ना᳓भा पृथिव्या᳓ अ᳓धि  ।   
 जा᳓तवेदो नि᳓ धीमह्य᳓ग्ने हव्या᳓य वो᳓ढवे  ।   [32]  
+</details>
+
+<details><summary>Keith</summary>
+
+In the place of Ida we set thee down,  
+On the navel of the earth,  
+O Agni, all-knower,  
+To bear the oblation [1].
 </details>
 
 <details><summary>मूलम्</summary>
 
 इडा॑यास्त्वा प॒दे व॒यन्नाभा॑ पृथि॒व्या अधि॑  ।   
 जात॑वेदो॒ नि धी॑म॒ह्यग्ने॑ ह॒व्याय॒ वोढ॑वे  ।   [32]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इडा॑याः । त्वा॒ । प॒दे । व॒यम् । नाभा॑ । पृ॒थि॒व्याः । अधि॑ ॥ जात॑वेद॒ इति॒ जात॑-वे॒दः॒ । नीति॑ । धी॒म॒हि॒ । अग्ने॑ । ह॒व्याय॑ । वोढ॑वे ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -81,10 +132,22 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 कुलायि᳓नङ्घृत᳓वन्तँ सवित्रे᳓ यज्ञ᳓न्नय य᳓जमानाय साधु᳓  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni of kindly aspect, do thou with the All-gods Sit first on the birthplace made of wool,  
+Nest-like, rich in ghee, for Savitr  
+Do thou lead well the sacrifice, for the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॒ विश्वे॑भिस्स्वनीक दे॒वैरूर्णा॑वन्तम्प्रथ॒मस्सी॑द॒ योनि॑म्  ।   
 कु॒ला॒यिन॑ङ्घृ॒तव॑न्तँ सवि॒त्रे य॒ज्ञन्न॑य॒ यज॑मानाय सा॒धु  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । विश्वे॑भिः । स्व॒नी॒केति॑ सु-अ॒नी॒क॒ । दे॒वैः । ऊर्णा॑वन्त॒मित्यूर्णा॑-व॒न्त॒म्॒ । प्र॒थ॒मः । सी॒द॒ । योनि॑म् ॥ कु॒ला॒यिन॑म् । घृ॒तव॑न्त॒मिति॑ घृ॒त-व॒न्त॒म्॒ । स॒वि॒त्रे । य॒ज्ञम् । न॒य॒ । यज॑मानाय । सा॒धु ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -98,10 +161,21 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 देवावी᳓र्देवा᳓न्हवि᳓षा यजास्य᳓ग्ने बृह᳓द्य᳓जमाने व᳓यो धाः  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Sit thou, O Hotr, in thine own world, wise,  
+Place thou the sacrifice in the birthplace of good deeds Eager for the gods, do thou sacrifice to them with oblation; O Agni, bestow great strength on the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सीद॑ होत॒स्स्व उ॑ लो॒के चि॑कि॒त्वान्त्सा॒दया॑ य॒ज्ञँ सु॑कृ॒तस्य॒ योनौ॑  ।   
 दे॒वा॒वीर्दे॒वान्ह॒विषा॑ यजा॒स्यग्ने॑ बृ॒हद्यज॑माने॒ वयो॑ धाः  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सीद॑ । हो॒तः॒ । स्वे । उ॒ । लो॒के । चि॒कि॒त्वान् । सा॒दय॑ । य॒ज्ञम् । सु॒कृ॒तस्येति॑ सु-कृ॒तस्य॑ । योनौ॑ ॥ दे॒वा॒वीरिति॑ देव-अ॒वीः । दे॒वान् । ह॒विषा॑ । य॒जा॒सि॒ । अग्ने॑ । बृ॒हत् । यज॑माने । वयः॑ । धाः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -115,10 +189,21 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 अ᳓दब्धव्रतप्रमतिर्व᳓सिष्ठस्सहस्रम्भर᳓श्शु᳓चिजिह्वो अग्निः᳓  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+The Hotr hath sat him down in the place of the Hotr wise, Glittering, shining, skilful,  
+With vows and foresight undeceived, most wealthy, Bearing a thousand, pure-tongued Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नि होता॑ होतृ॒षद॑ने॒ विदा॑नस्त्वे॒षो दी॑दि॒वाँ अ॑सदत्सु॒दक्षः॑  ।   
 अद॑ब्धव्रतप्रमति॒र्वसि॑ष्ठस्सहस्रम्भ॒रश्शुचि॑जिह्वो अ॒ग्निः  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नीति॑ । होता॑ । हो॒तृ॒षद॑न॒ इति॑ होतृ-सद॑ने । विदा॑नः । त्वे॒षः । दी॒दि॒वान् । अ॒स॒द॒त्॒ । सु॒दक्ष॒ इति॑ सु-दक्षः॑ ॥ अद॑ब्धव्रतप्रमति॒रित्यद॑ब्धव्रत-प्र॒म॒तिः॒ । वसि॑ष्ठः । स॒ह॒स्र॒म्भ॒र इति॑ सहस्रं-भ॒रः । शुचि॑जिह्व॒ इति॒ शुचि॑-जि॒ह्वः॒ । अ॒ग्निः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -131,10 +216,17 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 त्वन्दू॒तस्त्वम् [33]  उ॒ न॒ᳶ प॒र॒स्पास्त्वव्ँवस्य॒ आ वृ॑षभ प्रणे॒ता  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 त्व᳓न्दूत᳓स्त्व᳓मु नᳶ परस्पा᳓स्त्वव्ँ᳓व᳓स्य आ᳓ वृषभ प्रणेता᳓  ।   
 अ᳓ग्ने तोक᳓स्य नस्त᳓ने तनू᳓नाम᳓प्रयुच्छन्दी᳓द्यद्बोधि गोपाः᳓  ।   
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the envoy, thou [2] our guardian,  
+Thou, O bull, leadest us to better fortune;  
+0 Agni, be thou the guardian of our offspring, our descendants In their bodies, unfailing and radiant.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -143,21 +235,38 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 अग्ने॑ तो॒कस्य॑ न॒स्तने॑ त॒नूना॒मप्र॑युच्छ॒न्दीद्य॑द्बोधि गो॒पाः  ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+त्वम् । दू॒तः । त्वम् । उ॒ । नः॒ । प॒र॒स्पा इति॑ परः-पाः । त्वम् । वस्यः॑ । एति॑ । वृ॒ष॒भ॒ । प्र॒णे॒तेति॑ प्र-ने॒ता ॥ अग्ने॑ । तो॒कस्य॑ । नः॒ । तने॑ । त॒नूना॑म् । अप्र॑युच्छ॒न्नित्यप्र॑-यु॒च्छ॒न्॒ । दीद्य॑त् । बो॒धि॒ । गो॒पा इति॑ गो-पाः ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8अथाष्टमी - हे अग्ने नोस्माकं त्वं दूतः देवेषु गन्ता, त्वमेव नः परस्पाः प्रकृष्टः पारयिता । पारस्करादित्वात्सुट् । वस्यः वसुमत्तरः । ईयसुन आद्यक्षरलोपः, व्यत्ययेन नपुंसकत्वम्, क्रियाविशेषणं वा । वसीयः प्रणेतेति । आमन्त्रितं वा हे वसीयः । व्यत्ययेन निघाताभावः । आकारस्समुच्चये वसीयः प्रणेता प्रधानपाकान्तरशोः [पारयित्रोः] पूर्वापेक्षया समुच्चयः । त्वं नः परस्पाः प्रणेता चेति । हे वृषभ वर्षितः अतोस्माकं तोकस्य तने तनयस्य नप्त्रादेः । छान्दसो वर्णलोपः, विभक्तिव्यत्ययश्च । तनूनां शरीराणां च त्वमेव गोपाः गोपयिता । आयप्रत्ययान्तात्क्विप्, अतो लोपयलोपौ, 'धातोः' इत्यन्तोदात्तत्वम् । पदकारमते पाता गोपाः । स एव विशेष्यते - अप्रयुच्छन् अप्रमाद्यन् दीद्यत् दीप्यमानः । देदितिर्दीप्तिकर्मा छान्दसः अभ्यस्तधर्मः, 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । यदुक्तं त्वमेव नः रक्षेति एतत् त्वं बोधि बुद्ध्यस्व । लेटि शपो लुक् । 'वा छन्दसि' इत्यपित्त्वाभावात् लघूपधगुणाभावः । धातोरन्त्यलोपश्छान्दसः । कर्मणि वा लुङ्, एतत्त्वया बोधि बुध्यतां विदितमिदं तवास्तु त्वमेव नः गोपायितेति । 'बहुलं छन्दस्यमाङ्योगेऽपि' इत्यडभावः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अभि᳓ त्वा देव सवितरी᳓शानव्ँवा᳓र्याणाम्  ।   
 स᳓दावन्भाग᳓मीमहे  ।   
+</details>
+
+<details><summary>Keith</summary>
+
+To thee, O god Savitr,  
+Lord of things delightful,  
+We come for fortune, O thou of constant help.
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒भि त्वा॑ देव सवित॒रीशा॑नव्ँ॒वार्या॑णाम्  ।   
 सदा॑वन्भा॒गमी॑महे  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भीति॑ । त्वा॒ । दे॒व॒ । स॒वि॒तः॒ । ईशा॑नम् । वार्या॑णाम् ॥ सदा॑ । अ॒व॒न्॒ । भा॒गम् । ई॒म॒हे॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -171,10 +280,22 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 पिपृता᳓न्नो भ᳓रीमभिः  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+May the great ones, sky and earth,  
+Mingle for us this sacrifice,  
+May they sustain us with support.
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒ही द्यौᳶ पृ॑थि॒वी च॑ न इ॒मय्ँ य॒ज्ञम्मि॑मिक्षताम्  ।   
 पि॒पृ॒तान्नो॒ भरी॑मभिः  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒ही । द्यौः । पृ॒थि॒वी । च॒ । नः॒ । इ॒मम् । य॒ज्ञम् । मि॒मि॒क्ष॒ता॒म्॒ ॥ पि॒पृ॒ताम् । नः॒ । भरी॑मभि॒रिति॒ भरी॑म-भिः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -188,10 +309,22 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 मूर्ध्नो᳓ वि᳓श्वस्य वाघ᳓तः  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Thee, O Agni, from the lotus  
+Atharvan passed out,  
+From the head of every priest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वाम॑ग्ने॒ पुष्क॑रा॒दध्यथ॑र्वा॒ निर॑मन्थत  ।   
 मू॒र्ध्नो विश्व॑स्य वा॒घतः॑  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वाम् । अ॒ग्ने॒ । पुष्क॑रात् । अधीति॑ । अथ॑र्वा । निरिति॑ । अ॒म॒न्थ॒त॒ ॥ मू॒र्ध्नः । विश्व॑स्य । वा॒घतः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -205,10 +338,22 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 वृत्रह᳓णम्पुरन्दर᳓म्  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Thee [3] the sage, Dadhyañc,  
+Son of Atharvan, doth kindle,  
+Slayer of Vrtra, destroyer of forts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तमु॑ [34]  त्वा॒ द॒ध्यङ्ङृषिᳶ॑ पु॒त्र ई॑धे॒ अथ॑र्वणः  ।   
 वृ॒त्र॒हण॑म्पुरन्द॒रम्  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । उ॒ । त्वा॒ । द॒ध्यङ्ङ् । ऋषिः॑ । पु॒त्रः । ई॒धे॒ । अथ॑र्वणः ॥ वृ॒त्र॒हण॒मिति॑ वृत्र-हन॑म् । पु॒र॒न्द॒रमिति॑ पुरं-द॒रम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -222,10 +367,22 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 धनञ्जयँ᳓ र᳓णेरणे  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Thee Pathya Vrsan doth kindle,  
+Best slayer of foes,  
+Winner of booty in every conflict.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तमु॑ त्वा पा॒थ्यो वृषा॒ समी॑धे दस्यु॒हन्त॑मम्  ।   
 ध॒न॒ञ्ज॒यँ रणे॑रणे  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । उ॒ । त्वा॒ । पा॒थ्यः । वृषा॑ । समिति॑ । ई॒धे॒ । द॒स्यु॒हन्त॑म॒मिति॑ दस्यु-हन्त॑मम् ॥ ध॒न॒ञ्ज॒यमिति॑ धनं-ज॒यम् । रणे॑रण॒ इति॒ रणे॑-र॒णे॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -239,10 +396,22 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 धनञ्जयो᳓ र᳓णेरणे  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Let men say too,  
+'Agni hath been born, slayer of Vrtra,  
+Winning booty in every conflict.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒त ब्रु॑वन्तु ज॒न्तव॒ उद॒ग्निर्वृ॑त्र॒हाज॑नि  ।   
 ध॒न॒ञ्ज॒यो रणे॑रणे  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒त । ब्रु॒व॒न्तु॒ । ज॒न्तवः॑ । उदिति॑ । अ॒ग्निः । वृ॒त्र॒हेति॑ वृत्र-हा । अ॒ज॒नि॒ ॥ ध॒न॒ञ्ज॒य इति॑ धनं-ज॒यः । रणे॑रण॒ इति॒ रणे॑-र॒णे॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -256,10 +425,22 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 विशा᳓मग्निँ᳓ स्वध्वर᳓म्  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Whom, like a quoit in their bands,  
+Like a child at birth, they bear,  
+Agni, fair sacrificer of the folk.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ यँ हस्ते॒ न खा॒दिनँ॒ शिशु॑ञ्जा॒तन्न बिभ्र॑ति  ।   
 वि॒शाम॒ग्निँ स्व॑ध्व॒रम्  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । यम् । हस्ते॑ । न । खा॒दिन॑म् । शिशु॑म् । जा॒तम् । न । बिभ्र॑ति ॥ वि॒शाम् । अ॒ग्निम् । स्व॒ध्व॒रमिति॑ सु-अ॒ध्व॒रम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -273,10 +454,22 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 आ᳓ स्वे᳓ यो᳓नौ नि᳓ षीदतु  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Bring forward the god, best finder of riches,  
+For offering to the gods;  
+May he sit down in his own birthplace [4].
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र दे॒वन्दे॒ववी॑तये॒ भर॑ता वसु॒वित्त॑मम्  ।   
 आ स्वे योनौ॒ नि षी॑दतु  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । दे॒वम् । दे॒ववी॑तय॒ इति॑ दे॒व-वी॒त॒ये॒ । भर॑त । व॒सु॒वित्त॑म॒मिति॑ वसु॒वित्-त॒म॒म्॒ ॥ एति॑ । स्वे । योनौ॑ । नीति॑ । सी॒द॒तु॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -284,10 +477,17 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 16अथाष्टमी - प्र देवमिति ॥ देवमग्निं वसुवित्तर्मं धनानां लब्धृतमं प्रभरत । सांहितिकं दीर्घत्वम् । देववीतये देवानां यागाय, देवा वियन्ति भुञ्जतेऽस्मिन्निति । दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् । सोयं स्वे योनौ आहवनीयस्थाने आहवनीये निषीदतु आगत्यास्ताम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 आ᳓ [35] जात᳓ञ्जात᳓वेदसि प्रियँ᳓ शिशीता᳓तिथिम्  ।   
 स्योन᳓ आ᳓ गृह᳓पतिम्  ।   
+</details>
+
+<details><summary>Keith</summary>
+
+In the all-knower cause to rest  
+The dear guest on birth,  
+In a pleasant place, the lord of the house.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -296,21 +496,38 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 स्यो॒न आ गृ॒हप॑तिम्  ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+एति॑ । जा॒तम् । जा॒तवे॑द॒सीति॑ जा॒त-वे॒द॒सि॒ । प्रि॒यम् । शि॒शी॒त॒ । अति॑थिम् ॥ स्यो॒ने । एति॑ । गृ॒हप॑ति॒मिति॑ गृ॒ह-प॒ति॒म्॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 17अथ नवमी - आ जातमिति ॥ जातमिममग्निं जातवेदसि आहवनीये अग्नौ आशिशीत आनीय तीक्ष्णं कुरुत । अध्यर्थे वा आकारः । आहवनीयस्योपरि तीक्ष्णं कुरुतेति । ज्वालावत्तीक्ष्णत्वम्, महत्त्वं वा । प्रियमतिथिमिव, यथा प्रियमतिथिमागतं पूजया तर्पयन्ति एवममुं ग्रहपतिं ग्रहाणां पातारमग्निं स्योने स्थाने वा आशिशीत । आकारस्समुच्चये । शेतेर्लेटि शपश्श्लुः, 'ई हल्यघोः' इतीत्वम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अग्नि᳓नाग्नि᳓स्स᳓मिध्यते कवि᳓र्गृह᳓पतिर्यु᳓वा  ।   
 हव्यवा᳓ड्जुह्वा᳙स्यः  ।   
+</details>
+
+<details><summary>Keith</summary>
+
+By Agni is Agni kindled,  
+The wise, the young, the lord of the house,  
+The bearer of the oblation, with ladle in his mouth.
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒ग्निना॒ग्निस्समि॑ध्यते क॒विर्गृ॒हप॑ति॒र्युवा॑  ।   
 ह॒व्य॒वाड्जु॒ह्वा॑स्यः  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निना॑ । अ॒ग्निः । समिति॑ । इ॒ध्य॒ते॒ । क॒विः । गृ॒हप॑ति॒रिति॑ गृ॒ह-प॒तिः॒ । युवा॑ ॥ ह॒व्य॒वाडिति॑ हव्य-वाट् । जु॒ह्वा॑स्य॒ इति॑ जु॒हु-आ॒स्यः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -320,16 +537,28 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 - { टीका- 'अग्नयेग्निवते पुरोडाशमष्टाकपालं निर्वपेद्यस्याग्नावग्निमभ्युद्धरेयुः' इत्यस्य पुरोनुवाक्या - अग्निनाग्निरिति गायत्री ॥ अग्निनाभ्युद्दृतेनायमग्निः पूर्वोद्धृतः समिध्यते सम्यगेव इध्म उद्वायते [सम्यगेव इध्यते] । कविर्मेधावी गृहपतिर्गृहस्य पतिस्स्वामी । युवा नित्यतरुणः, हविर्भिर्वा देवानामात्मनश्च मिश्रयिता । हव्यवाट् हविषां वोढा । 'वहश्च' इति ण्विः । जुह्वास्यः जुहूरास्यस्थानीया यस्य । सोयमेवं गुणोग्निरभ्युद्धरणदोषमुपशमयत्विति शेषः ॥}
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 त्वँ᳓ ह्यग्ने अग्नि᳓ना वि᳓प्रो वि᳓प्रेण स᳓न्त्सता᳓  ।   
 स᳓खा स᳓ख्या समिध्य᳓से  ।   
+</details>
+
+<details><summary>Keith</summary>
+
+Thou, O Agni, by Agni,  
+The sage by the sage, the good by the good,  
+The comrade by the comrade, art kindled.
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्वँ ह्य॑ग्ने अ॒ग्निना॒ विप्रो॒ विप्रे॑ण॒ सन्त्स॒ता  ।   
 सखा॒ सख्या॑ समि॒ध्यसे॑  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । हि । अ॒ग्ने॒ । अ॒ग्निना॑ । विप्रः॑ । विप्रे॑ण । सन् । स॒ता ॥ सखा॑ । सख्या॑ । स॒मि॒ध्यस॒ इति॑ सम्-इ॒ध्यसे॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -345,10 +574,22 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 स्वे᳓षु क्ष᳓येषु वाजि᳓नम्  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Him they make bright, the wise,  
+Victorious in the contests,  
+Strong in his abodes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम्म॑र्जयन्त सु॒क्रतु॑म्पुरो॒यावा॑नमा॒जिषु॑  ।   
 स्वेषु॒ क्षये॑षु वा॒जिन॑म्  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । म॒र्ज॒य॒न्त॒ । सु॒क्रतु॒मिति॑ सु-क्रतु॑म् । पु॒रो॒यावा॑न॒मिति॑ पुरः-यावा॑नम् । आ॒जिषु॑ ॥ स्वेषु॑ । क्षये॑षु । वा॒जिन॑म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -360,15 +601,23 @@ title = "११ पाशुक-हौत्र-मन्त्राः"
 
 यज्ञे᳓न यज्ञ᳓मयजन्त देवा᳓स्ता᳓नि ध᳓र्माणि प्रथमा᳓न्यासन् ।   
 ते᳓ ह ना᳓कम्महिमा᳓नस्सचन्ते य᳓त्र पू᳓र्वे साध्या᳓स्स᳓न्ति देवाः᳓ ॥[36]  
+</details>
 
-़
+<details><summary>Keith</summary>
+
+By the sacrifice the gods sacrificed the sacrifice;  
+These were the first ordinances; These mighty powers frequent the vault Where are the ancient Sadhya gods.
 </details>
 
 <details><summary>मूलम्</summary>
 
 य॒ज्ञेन॑ य॒ज्ञम॑यजन्त दे॒वास्तानि॒ धर्मा॑णि प्रथ॒मान्या॑सन् ।   
 ते ह॒ नाक॑म्महि॒मान॑स्सचन्ते॒ यत्र॒ पूर्वे॑ सा॒ध्यास्सन्ति॑ दे॒वाः ॥[36]  
+</details>
 
+<details><summary>पद-पाठः</summary>
+
+य॒ज्ञेन॑ । य॒ज्ञम् । अ॒य॒ज॒न्त॒ । दे॒वाः । तानि॑ । धर्मा॑णि । प्र॒थ॒मानि॑ । आ॒स॒न् ॥ ते । ह॒ । नाक॑म् । म॒हि॒मानः॑ । स॒च॒न्ते॒ । यत्र॑ । पूर्वे॑ । सा॒ध्याः । सन्ति॑ । दे॒वाः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
