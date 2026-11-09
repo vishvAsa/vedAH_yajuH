@@ -19,7 +19,7 @@ title = "०७ लोष्टक्षेपादिकम्"
  १९२२ कर्षणे ये लोष्टाः परिमितक्षेत्राद्वहिः पतन्ति तान्पुनरन्तः पातयोदित्यर्थः ।    तत्र प्रथमामाह— मा नो हिँसीदिति ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/09_mA_no.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/09_mA_no.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -30,6 +30,14 @@ title = "०७ लोष्टक्षेपादिकम्"
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+May I be harm us not who is father of earth  
+Or who, of true law, created the sky,  
+And he who created the great bright waters;  
+To what god shall we offer with oblation?
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/121/09_mA_no.md">
 
@@ -387,10 +395,22 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 वपा᳓न्ते अग्नि᳓रिषितो᳓ऽव सर्पतु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Turn towards (us), O earth,  
+With the sacrifice, with milk;  
+Over thy caul let Agni, aroused, creep.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒भ्याव॑र्तस्व पृथिवि य॒ज्ञेन॒ पय॑सा स॒ह ।  
 व॒पान्ते॑ अ॒ग्निरि॑षि॒तोऽव॑ सर्पतु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भ्याव॑र्त॒स्वेत्य॑भि-आव॑र्तस्व । पृ॒थि॒वि॒ । य॒ज्ञेन॑ । पय॑सा । स॒ह ॥ व॒पाम् । ते॒ । अ॒ग्निः । इ॒षि॒तः । अवेति॑ । स॒र्प॒तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -409,10 +429,21 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 त᳓द्देवे᳓भ्यो भरामसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, that of thee which is pure, which is bright, Which is cleansed, which is fit for offering,  
+That we bear to the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॒ यत्ते॑ शु॒क्रय्ँयच्च॒न्द्रय्ँयत्पू॒तय्ँयद्य॒ज्ञिय॑म् ।  
 तद्दे॒वेभ्यो॑ भरामसि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । यत् । ते॒ । शु॒क्रम् । यत् । च॒न्द्रम् । यत् । पू॒तम् । यत् । य॒ज्ञिय॑म् ॥ तत् । दे॒वेभ्यः॑ । भ॒रा॒म॒सि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -431,10 +462,22 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 आ᳓ नो गो᳓षु विशत्वौ᳓षधीषु ज᳓हामि सेदि᳓म᳓निराम᳓मीवाम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Food and strength do I take hence [1],  
+From the abode of holy order, from the birthplace of immortality. May it enter us, in cattle and in plants;  
+I abandon decline, lack of food, and ill-health.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इष॒मूर्ज॑म॒हमि॒त आ [29]  द॒द॒ ऋ॒तस्य॒ धाम्नो॑ अ॒मृत॑स्य॒ योनेः॑ ।  
 आ नो॒ गोषु॑ विश॒त्वौष॑धीषु॒ जहा॑मि से॒दिमनि॑रा॒ममी॑वाम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इष॑म् । ऊर्ज॑म् । अ॒हम् । इ॒तः । एति॑ । द॒दे॒ । ऋ॒तस्य॑ । धाम्नः॑ । अ॒मृत॑स्य । योनेः॑ ॥ एति॑ । नः॒ । गोषु॑ । वि॒श॒तु॒ । एति॑ । ओष॑धीषु । जहा॑मि । से॒दिम् । अनि॑राम् । अमी॑वाम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -458,10 +501,22 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 बृ᳓हद्भानो श᳓वसा वा᳓जमुक्थ्य᳙न्द᳓धासि दाशु᳓षे कवे ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, strength and fame are thine,  
+Thy rays shine mightily, O rich in light;  
+O thou of broad radiance, with thy might, strength worthy of laud, Thou bestowest on the worshipper, O sage.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॒ तव॒ श्रवो॒ वयो॒ महि॑ भ्राजन्त्य॒र्चयो॑ विभावसो ।  
 बृह॑द्भानो॒ शव॑सा॒ वाज॑मु॒क्थ्य॑न्दधा॑सि दा॒शुषे॑ कवे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । तव॑ । श्रवः॑ । वयः॑ । महि॑ । भ्रा॒ज॒न्ति॒ । अ॒र्चयः॑ । वि॒भा॒व॒सो॒ इति॑ विभा-व॒सो॒ ॥ बृह॑द्भानो॒ इति॒ बृह॑त्-भा॒नो॒ । शव॑सा । वाज॑म् । उ॒क्थ्य॑म् । दधा॑सि । दा॒शुषे॑ । क॒वे॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -480,10 +535,23 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 स᳓ दर्शत᳓स्य व᳓पुषो वि᳓ राजसि पृण᳓क्षि सानसिँ᳓ रयि᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Do thou extend over men, O Agni,  
+Ruling over wealth for us, O immortal one;  
+Thou art the master of a glorious form,  
+Thou fillest glorious wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒र॒ज्यन्न॑ग्ने प्रथयस्व ज॒न्तुभि॑र॒स्मे रायो॑ अमर्त्य ।  
 स द॑र्श॒तस्य॒ वपु॑षो॒ वि रा॑जसि पृ॒णक्षि॑ सान॒सिँ र॒यिम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒र॒ज्यन् । अ॒ग्ने॒ । प्र॒थ॒य॒स्व॒ । ज॒न्तुभि॒रिति॑ ज॒न्तु-भिः॒ । अ॒स्मे इति॑ । रायः॑ । अ॒म॒र्त्य॒ ॥ सः । द॒र्श॒तस्य॑ । वपु॑षः । वीति॑ । रा॒ज॒सि॒ । पृ॒णक्षि॑ । सा॒न॒सिम् । र॒यिम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -502,10 +570,24 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 त्वे᳓ इ᳓षस्स᳓न्दधुर्भू᳓रिरेतसश्चित्रो᳓तयो वाम᳓जाताः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O son of strength, O all-knower,  
+Rejoice in our fair praises [2], being adored in our prayers;
+  
+In thee have they placed food, rich in seed,  
+Of wondrous aid, of prosperous birth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊर्जो॑ नपा॒ज्जात॑वेदस्सुश॒स्तिभि॒र्मन्द॑स्व [30]  धी॒तिभि॑र्हि॒तः ।  
 त्वे इष॒स्सन्द॑धु॒र्भूरि॑रेतसश्चि॒त्रोत॑यो वा॒मजा॑ताः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऊर्जः॑ । न॒पा॒त् । जात॑वेद॒ इति॒ जात॑-वे॒दः॒ । सु॒श॒स्तिभि॒रिति॑ सुश॒स्ति-भिः॒ । मन्द॑स्व । धी॒तिभि॒रिति॑ धी॒ति-भिः॒ । हि॒तः ॥ त्वे इति॑ । इषः॑ । समिति॑ । द॒धुः॒ । भूरि॑रेतस॒ इति॒ भूरि॑-रे॒त॒सः॒ । चि॒त्रोत॑य॒ इति॑ चि॒त्र-ऊ॒त॒यः॒ । वा॒मजा॑ता॒ इति॑ वा॒म-जा॒ताः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -524,10 +606,22 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 पुत्रᳶ᳓ पित᳓रा विच᳓रन्नु᳓पावस्युभे᳓ पृणक्षि रो᳓दसी ।  
 </details>
 
+<details><summary>Keith</summary>
+
+With pure radiance, with bright radiance,  
+With undiminished radiance, thou comest forth with thy light; Visiting thy parents thou aidest them;  
+Thou fillest both worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पा॒व॒कव॑र्चाश्शु॒क्रव॑र्चा॒ अनू॑नवर्चा॒ उदि॑यर्षि भा॒नुना॑ ।  
 पु॒त्रᳶ पि॒तरा॑ वि॒चर॒न्नुपा॑वस्यु॒भे पृ॑णक्षि॒ रोद॑सी ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पा॒व॒कव॑र्चा॒ इति॑ पाव॒क-व॒र्चाः॒ । शु॒क्रव॑र्चा॒ इति॑ शु॒क्र-व॒र्चाः॒ । अनू॑नवर्चा॒ इत्यनू॑न-व॒र्चाः॒ । उदिति॑ । इ॒य॒र्षि॒ । भा॒नुना॑ ॥ पु॒त्रः । पि॒तरा॑ । वि॒चर॒न्निति॑ वि-चर॑न् । उपेति॑ । अ॒व॒सि॒ । उ॒भे इति॑ । पृ॒ण॒क्षि॒ । रोद॑सी॒ इति॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -546,10 +640,22 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 श्रु᳓त्कर्णँ सप्र᳓थस्तमन्त्वा गिरा᳓ दै᳓व्यम्मा᳓नुषा युगा᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The righteous, the bull, common to all men,  
+Agni, men place before them for favour,  
+Thee with their speech, that art ready to hear and most extending, The divine, the generations of men.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तावा॑नम्महि॒षव्ँवि॒श्वच॑र्षणिम॒ग्निँ सु॒म्नाय॑ दधिरे पु॒रो जनाः॑ ।  
 श्रुत्क॑र्णँ स॒प्रथ॑स्तमन्त्वा गि॒रा दैव्य॒म्मानु॑षा यु॒गा ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तावा॑न॒मित्यृ॒त-वा॒न॒म् । म॒हि॒षम् । वि॒श्वच॑र्षणि॒मिति॑ वि॒श्व-च॒र्ष॒णि॒म् । अ॒ग्निम् । सु॒म्नाय॑ । द॒धि॒रे॒ । पु॒रः । जनाः॑ ॥ श्रुत्क॑र्ण॒मिति॒ श्रुत्-क॒र्ण॒म् । स॒प्रथ॑स्तम॒मिति॑ स॒प्रथः॑-त॒म॒म् । त्वा॒ । गि॒रा । दैव्य॑म् । मानु॑षा । यु॒गा ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -568,10 +674,22 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 राति᳓म्भृ᳓गूणामुशि᳓जङ्कवि᳓क्रतुम्पृण᳓क्षि सानसि᳓म् [31]  रयि᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Preparer of the sacrifice, the wise,  
+Who ruleth for great gain,  
+The giver of the Bhrgus, the eager, skilled in the sacrifice Thou fillest glorious wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नि॒ष्क॒र्तार॑मध्व॒रस्य॒ प्रचे॑तस॒ङ्क्षय॑न्तँ॒ राध॑से म॒हे ।  
 रा॒तिम्भृगू॑णामु॒शिज॑ङ्क॒विक्र॑तुम्पृ॒णक्षि॑ सान॒सिम् [31]  र॒यिम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नि॒ष्क॒र्तार॒मिति॑ निः-क॒र्तार॑म् । अ॒ध्व॒रस्य॑ । प्रचे॑तस॒मिति॒ प्र-चे॒त॒स॒म् । क्षय॑न्तम् । राध॑से । म॒हे ॥ रा॒तिम् । भृगू॑णाम् । उ॒शिज॑म् । क॒विक्र॑तु॒मिति॑ क॒वि-क्र॒तु॒म् । पृ॒णक्षि॑ । सा॒न॒सिम् । र॒यिम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -601,10 +719,20 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
  त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓स्सीदत ।
 </details>
 
+<details><summary>Keith</summary>
+
+Ye are pilers, ye are pilers around, do ye pile upwards as a support, with that deity, sit ye firm in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चित॑स्स्थ , परि॒चित॑ +++(स्थ)+++, ऊर्ध्व॒चित॑ः +++(स्थ)+++ , श्रयध्व॒म् ,
  तया॑ दे॒वत॑याङ्गिर॒स्वद्ध्रु॒वास्सी॑दत ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चितः॑ । स्थ॒ । प॒रि॒चित॒ इति॑ परि-चितः॑ । ऊ॒र्ध्व॒चित॒ इत्यू॑र्ध्व-चितः॑ । श्र॒य॒ध्व॒म् । तया॑ । दे॒वत॑या । अ॒ङ्गि॒र॒स्वत् । ध्रु॒वाः । सी॒द॒त॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -633,10 +761,22 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 भ᳓वा वा᳓जस्य सङ्गथे᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Swell up, let thy strength be gathered  
+From all sides, O Soma.  
+Be strong in the gathering of might.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ प्या॑यस्व॒ समे॑तु ते वि॒श्वत॑स्सोम॒ वृष्णि॑यम् ।  
 भवा॒ वाज॑स्य सङ्ग॒थे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । प्या॒य॒स्व॒ । समिति॑ । ए॒तु॒ । ते॒ । वि॒श्वतः॑ । सो॒म॒ । वृष्णि॑यम् ॥ भव॑ । वाज॑स्य । स॒ङ्ग॒थ इति सम्-ग॒थे ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -663,10 +803,23 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 आप्या᳓यमानो अमृ᳓ताय सोम दिवि᳓ श्र᳓वाँस्युत्तमा᳓नि धिष्व ॥ [32]  
 </details>
 
+<details><summary>Keith</summary>
+
+Let thy milk draughts, thy strength be united,  
+The mightinesses of him who overcometh the foe;  
+Swelling for immortality, O Soma,  
+Place in the sky the highest glories,
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्ते॒ पयाँ॑सि॒ समु॑ यन्तु॒ वाजा॒स्सव्ँवृष्णि॑यान्यभिमाति॒षाहः॑ ।  
 आ॒प्याय॑मानो अ॒मृता॑य सोम दि॒वि श्रवाँ॑स्युत्त॒मानि॑ धिष्व ॥ [32]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । ते॒ । पयाँ॑सि । समिति॑ । उ॒ । य॒न्तु॒ । वाजाः॑ । समिति॑ । वृष्णि॑यानि । अ॒भि॒मा॒ति॒षाह॒ इत्य॑भिमाति-साहः॑ ॥ आ॒प्याय॑मान॒ इत्या॑-प्याय॑मानः । अ॒मृता॑य । सो॒म॒ । दि॒वि । श्रवाँ॑सि । उ॒त्त॒मानीत्यु॑त्-त॒मानि॑ । धि॒ष्व॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

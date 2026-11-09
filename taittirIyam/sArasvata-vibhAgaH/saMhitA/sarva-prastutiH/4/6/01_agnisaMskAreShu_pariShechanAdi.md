@@ -15,10 +15,23 @@ title = "०१ अग्निसंस्कारेषु परिषेच
 अद्भ्य᳓ ओ᳓षधीभ्यो व᳓नस्प᳓तिभ्यो᳓ऽधि स᳓म्भृतान्ता᳓न्न इ᳓षमू᳓र्जन्धत्त मरुतस्सँरराणाः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The strength resting on the stone, the bill,  
+On the wind, on Parjanya, on the breath of Varuna,  
+Brought together from the waters, from the plants, from the trees;  
+That food and strength do ye, O Maruts, bounteously bestow upon us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अश्म॒न्नूर्ज॒म्पर्व॑ते शिश्रिया॒णाव्ँवाते॑ प॒र्जन्ये॒ वरु॑णस्य॒ शुष्मे॑ ।  
 अ॒द्भ्य ओष॑धीभ्यो॒ वन॒स्पति॒भ्योऽधि॒ सम्भृ॑ता॒न्तान्न॒ इष॒मूर्ज॑न्धत्त मरुतस्सँररा॒णाः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अश्म॑न् । ऊर्ज॑म् । पर्व॑ते । शि॒श्रि॒या॒णम् । वाते॑ । प॒र्जन्ये॑ । वरु॑णस्य । शुष्मे॑ ॥ अ॒द्भ्य इत्य॑त्-भ्यः । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । वन॒स्पति॑भ्य॒ इति॒ वन॒स्पति॑-भ्यः॒ । अधीति॑ । सम्भृ॑ता॒मिति॒ सम्-भृ॒ता॒म् । ताम् । नः॒ । इष॑म् । ऊर्ज॑म् । ध॒त्त॒ । म॒रु॒तः॒ । सँ॒र॒रा॒णा इति॑ सम्-र॒रा॒णाः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -51,9 +64,19 @@ title = "०१ अग्निसंस्कारेषु परिषेच
 अ᳓श्मँस्ते क्षु᳓दमु᳓न्ते शु᳓गृच्छतु य᳓न्द्विष्मः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+In the stone is thy hunger; let thy pain reach N. N., whom we hate.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अश्मँ॑स्ते॒ क्षुद॒मुन्ते॒ शुगृ॑च्छतु॒ यन्द्वि॒ष्मः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अश्म॑न् । ते॒ । क्षुत् । अ॒मुम् । ते॒ । शुक् । ऋ॒च्छ॒तु॒ । यम् । द्वि॒ष्मः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -81,10 +104,22 @@ title = "०१ अग्निसंस्कारेषु परिषेच
 पा᳓वको᳓ अस्म᳓भ्यँ शिवो᳓ भव ।  
 </details>
 
+<details><summary>Keith</summary>
+
+With the wind of the ocean  
+We envelop thee, O Agni;  
+Be thou purifying and auspicious to us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒मु॒द्रस्य॑ त्वा॒ऽवाक॒याग्ने॒ परि॑ व्ययामसि ।  
 पाव॒को अ॒स्मभ्यँ॑ शि॒वो भ॑व ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒मु॒द्रस्य॑ । त्वा॒ । अ॒वाक॑या । अग्ने॑ । परीति॑ । व्य॒या॒म॒सि॒ ॥ पा॒व॒कः । अ॒स्मभ्य॒मित्य॒स्म-भ्य॒म् । शि॒वः । भ॒व॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -106,10 +141,22 @@ title = "०१ अग्निसंस्कारेषु परिषेच
 पावको᳓ अस्म᳓भ्यँ शिवो᳓ भव ।  
 </details>
 
+<details><summary>Keith</summary>
+
+With the caul of winter  
+We envelop thee, O Agni;  
+Be thou purifying and auspicious to us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हि॒मस्य॑ त्वा ज॒रायु॒णाग्ने॒ परि॑ व्ययामसि ।  
 पा॒व॒को अ॒स्मभ्यँ॑ शि॒वो भ॑व ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+हि॒मस्य॑ । त्वा॒ । ज॒रायु॑णा । अग्ने॑ । परीति॑ । व्य॒या॒म॒सि॒ ॥ पा॒व॒कः । अ॒स्मभ्य॒मित्य॒स्म-भ्य॒म् । शि॒वः । भ॒व॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -129,10 +176,22 @@ title = "०१ अग्निसंस्कारेषु परिषेच
 अ᳓ग्ने पित्त᳓मपा᳓मसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Down upon earth [1], upon the reed,  
+Upon the waters lower (do thou descend);  
+Thou, O Agni, art the bile of the waters,
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॑ [1]  ज्मन्नुप॑ वेत॒सेऽव॑त्तरन्न॒दीष्वा ।  
 अग्ने॑ पि॒त्तम॒पाम॑सि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उपेति॑ । ज्मन् । उपेति॑ । वे॒त॒से । अव॑त्तर॒मित्यव॑त्-त॒र॒म् । न॒दीषु॑ । आ ॥ अग्ने॑ । पि॒त्तम् । अ॒पाम् । अ॒सि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -154,10 +213,21 @@ title = "०१ अग्निसंस्कारेषु परिषेच
 पावक᳓वर्णँ शिव᳓ङ्कृधि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O female frog, with these come hither;  
+Do thou make this sacrifice of ours
+</details>
+
 <details><summary>मूलम्</summary>
 
 मण्डू॑कि॒ ताभि॒रा ग॑हि॒ सेमन्नो॑ य॒ज्ञम् ।  
 पा॒व॒कव॑र्णँ शि॒वङ्कृ॑धि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मण्डू॑कि । ताभिः॑ । एति॑ । ग॒हि॒ । सा । इ॒मम् । नः॒ । य॒ज्ञम् ॥ पा॒व॒कव॑र्ण॒मिति॑ पाव॒क-व॒र्ण॒म् । शि॒वम् । कृ॒धि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -177,10 +247,21 @@ title = "०१ अग्निसंस्कारेषु परिषेच
 क्षा᳓मन्रुरुच᳓ उष᳓सो न᳓ भानु᳓ना ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Pure, with radiance wonderful,  
+On earth he hath shone as with the light of dawn.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पा॒व॒क आ चि॒तय॑न्त्या कृ॒पा ।  
 क्षाम॑न्रुरु॒च उ॒षसो॒ न भा॒नुना॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पा॒व॒के । एति॑ । चि॒तय॑न्त्या । कृ॒पा ॥ क्षाम॑न् । रु॒रु॒चे । उ॒षसः॑ । न । भा॒नुना॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -203,10 +284,22 @@ title = "०१ अग्निसंस्कारेषु परिषेच
 न᳓ ततृषाणो᳓ अज᳓रः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Who (cometh) to battle,  
+Moving with strength as on Etaśa's course,  
+In the heat unathirst, immortal.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तूर्व॒न्न याम॒न्नेत॑शस्य॒ नू रण॒ आ यो घृ॒णे ।  
 न त॑तृषा॒णो अ॒जरः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तूर्व॑न् । न । याम॑न् । एत॑शस्य । नु । रणे॑ । एति॑ । यः । घृ॒णे ॥ न । त॒तृ॒षा॒णः । अ॒जरः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -220,7 +313,7 @@ title = "०१ अग्निसंस्कारेषु परिषेच
 अथ सप्तमीमाह— अग्ने पावकेति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/026/01_agne_pAvaka.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/026/01_agne_pAvaka.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -531,10 +624,26 @@ x
 उ᳓प यज्ञँ᳓ हवि᳓श्च नः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Do thou, O shining and purifying one,  
+O Agni, bring hither the gods  
+To our sacrifice and our oblation.  
+1 This is the meeting of the waters,  
+The abode of the ocean;  
+May thy bolts afflict another than us;  
+Be thou purifying and auspicious to us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स नᳶ॑ पावक दीदि॒वोऽग्ने॑ दे॒वाँ इ॒हा व॑ह ।  
 उप॑ य॒ज्ञँ ह॒विश्च॑ नः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । नः॒ । पा॒व॒क॒ । दी॒दि॒वः॒ । अग्ने॑ । दे॒वान् । इ॒ह । एति॑ । व॒ह॒ ॥ उपेति॑ । य॒ज्ञम् । ह॒विः । च॒ । नः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -572,10 +681,23 @@ x
 अन्य᳓न्ते अस्म᳓त्तपन्तु हेत᳓यᳶ पावको᳓ अस्म᳓भ्यँ शिवो᳓ भव ।  
 </details>
 
+<details><summary>Keith</summary>
+
+This is the meeting of the waters,  
+The abode of the ocean;  
+May thy bolts afflict another than us;  
+Be thou purifying and auspicious to us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पामि॒दन्न्यय॑नँ समु॒द्रस्य॑ नि॒वेश॑नम् ।  
 अ॒न्यन्ते॑ अ॒स्मत्त॑पन्तु हे॒तयᳶ॑ पाव॒को अ॒स्मभ्यँ॑ शि॒वो भ॑व ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । इ॒दम् । न्यय॑न॒मिति॑ नि-अय॑नम् । स॒मु॒द्रस्य॑ । नि॒वेश॑न॒मिति॑ नि-वेश॑नम् ॥ अ॒न्यम् । ते॒ । अ॒स्मत् । त॒प॒न्तु॒ । हे॒तयः॑ । पा॒व॒कः । अ॒स्मभ्य॒मित्य॒स्म-भ्य॒म् । शि॒वः । भ॒व॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -597,10 +719,23 @@ x
 अन्य᳓न्ते अस्म᳓त्तपन्तु हेत᳓यᳶ पावको᳓ अस्म᳓भ्यँ शिवो᳓ भव ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to thy heat, thy blaze  
+Homage be to thy light;  
+May thy bolts afflict another than us;  
+Be thou purifying and auspicious to us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑स्ते॒ हर॑से शो॒चिषे॒ नम॑स्ते अस्त्व॒र्चिषे॑ ।  
 अ॒न्यन्ते॑ अ॒स्मत्त॑पन्तु हे॒तयᳶ॑ पाव॒को अ॒स्मभ्यँ॑ शि॒वो भ॑व ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । ते॒ । हर॑से । शो॒चिषे॑ । नमः॑ । ते॒ । अ॒स्तु॒ । अ॒र्चिषे॑ ॥ अ॒न्यम् । ते॒ । अ॒स्मत् । त॒प॒न्तु॒ । हे॒तयः॑ । पा॒व॒कः । अ॒स्मभ्य॒मित्य॒स्म-भ्य॒म् । शि॒वः । भ॒व॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -649,9 +784,19 @@ x
 नृष᳓दे व᳓ट् [3]  अप्सुष᳓दे व᳓ड्वनस᳓दे व᳓ड्बर्हिष᳓दे व᳓ट्त्सुवर्वि᳓दे व᳓ट् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+To him that sitteth in man, hail! [3] To him that sitteth in the waters, hail! To him that sitteth in the wood, hail! To him that sitteth on the strew, hail! To him that findeth the heaven, hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 नृ॒षदे॒ वट् [3]  अ॒प्सु॒षदे॒ वड्व॑न॒सदे॒ वड्ब॑र्हि॒षदे॒ वट्त्सु॑व॒र्विदे॒ वट् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नृ॒षद॒ इति॑ नृ-सदे॑ । वट् । अ॒प्सु॒षद॒ इत्य॑प्सु-सदे॑ । वट् । व॒न॒सद॒ इति॑ वन-सदे॑ । वट् । ब॒र्हि॒षद॒ इति॑ बर्हि-सदे॑ । वट् । सु॒व॒र्विद॒ इति॑ सुवः-विदे॑ । वट् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -682,10 +827,23 @@ x
 अहुता᳓दो हवि᳓षो यज्ञे᳓ अस्मि᳓न्त्स्वय᳓ञ्जुहुध्वम्म᳓धुनो घृत᳓स्य ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Those gods among gods, worshipful among the worshipful,  
+Who await their yearly portion,  
+Who eat not oblations, in this sacrifice  
+Do ye delight yourselves with honey and ghee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये दे॒वा दे॒वानाय्ँ॑ य॒ज्ञिया॑ य॒ज्ञिया॑नाँ सव्ँवत्स॒रीण॒मुप॑ भा॒गमास॑ते ।  
 अ॒हु॒तादो॑ ह॒विषो॑ य॒ज्ञे अ॒स्मिन्त्स्व॒यञ्जु॑हुध्व॒म्मधु॑नो घृ॒तस्य॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । दे॒वाः । दे॒वाना॑म् । य॒ज्ञियाः॑ । य॒ज्ञिया॑नाम् । सव्ँ॒व॒त्स॒रीण॒मिति॑ सम्-व॒त्स॒रीण॑म् । उपेति॑ । भा॒गम् । आस॑ते ॥ अ॒हु॒ताद॒ इत्य॑हुत-अदः॑ । ह॒विषः॑ । य॒ज्ञे । अ॒स्मिन् । स्व॒यम् । जु॒हु॒ध्व॒म् । मधु॑नः । घृ॒तस्य॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -712,10 +870,23 @@ x
 ये᳓भ्यो न᳓र्ते᳓ प᳓वते धा᳓म कि᳓ञ्चन᳓ न᳓ ते᳓ दिवो᳓ न᳓ पृथिव्या᳓ अ᳓धि स्नु᳓षु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The gods who above the gods attained godhead,  
+Who lead the way to this holy power,  
+Without whom no place whatever is pure,  
+Neither on the heights of sky or earth are they.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये दे॒वा दे॒वेष्वधि॑ देव॒त्वमाय॒न्ये ब्रह्म॑णᳶ पुरए॒तारो॑ अ॒स्य ।  
 येभ्यो॒ नर्ते पव॑ते॒ धाम॒ किञ्च॒न न ते दि॒वो न पृ॑थि॒व्या अधि॒ स्नुषु॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । दे॒वाः । दे॒वेषु॑ । अधीति॑ । दे॒व॒त्वमिति॑ देव-त्वम् । आय॑न् । ये । ब्रह्म॑णः । पु॒र॒ए॒तार॒ इति॑ पुरः-ए॒तारः॑ । अ॒स्य ॥ येभ्यः॑ । न । ऋ॒ते । पव॑ते । धाम॑ । किम् । च॒न । न । ते । दि॒वः । न । पृ॒थि॒व्याः । अधीति॑ । स्नुषु॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -745,10 +916,23 @@ x
 अन्य᳓न्ते अस्म᳓त्तपन्तु हेत᳓यᳶ पावको᳓ अस्म᳓भ्यँ शिवो᳓ भव ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Giver of expiration art thou [4], of inspiration, of cross-breathing,  
+Giver of eyesight, giver of splendour, giver of wide room;  
+May thy bolts afflict another than us;  
+Be thou purifying and auspicious to us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒ण॒दाः [4]  अ॒पा॒न॒दा व्या॑न॒दाश्च॑क्षु॒र्दा व॑र्चो॒दा व॑रिवो॒दाः ।  
 अ॒न्यन्ते॑ अ॒स्मत्त॑पन्तु हे॒तयᳶ॑ पाव॒को अ॒स्मभ्यँ॑ शि॒वो भ॑व ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रा॒ण॒दा इति॑ प्राण-दाः । अ॒पा॒न॒दा इत्य॑पान-दाः । व्या॒न॒दा इति॑ व्यान-दाः । च॒क्षु॒र्दा इति॑ चक्षुः-दाः । व॒र्चो॒दा इति॑ वर्चः-दाः । व॒रि॒वो॒दा इति॑ वरिवः-दाः ॥ अ॒न्यम् । ते॒ । अ॒स्मत् । त॒प॒न्तु॒ । हे॒तयः॑ । पा॒व॒कः । अ॒स्मभ्य॒मित्य॒स्म-भ्य॒म् । शि॒वः । भ॒व॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -769,10 +953,22 @@ x
 अग्नि᳓र्नो वँसते रयि᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May Agni with his piercing blaze  
+Cast down every foe;  
+May Agni win for us wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निस्ति॒ग्मेन॑ शो॒चिषा॒ यँस॒द्विश्व॒न्न्य॑त्रिण॑म् ।  
 अ॒ग्निर्नो॑ वँसते र॒यिम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । ति॒ग्मेन॑ । शो॒चिषा॑ । यँस॑त् । विश्व॑म् । नीति॑ । अ॒त्रिण॑म् ॥ अ॒ग्निः । नः॒ । वँ॒स॒ते॒ । र॒यिम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -791,10 +987,22 @@ x
 अ᳓दब्धो गोपा᳓ उत᳓ नᳶ परस्पा᳓ अ᳓ग्ने द्युम᳓दुत᳓ रेव᳓द्दिदीहि ॥ [5]
 </details>
 
+<details><summary>Keith</summary>
+
+With his countenance the kindly one  
+Will sacrifice to the gods for us, most skilled to win prosperity by sacrifice; Guardian undeceived and protector of us,  
+O Agni, shine forth with radiance and with wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सैनानी॑केन सुवि॒दत्रो॑ अ॒स्मे यष्टा॑ दे॒वाँ आय॑जिष्ठस्स्व॒स्ति ।  
 अद॑ब्धो गो॒पा उ॒त नᳶ॑ पर॒स्पा अग्ने॑ द्यु॒मदु॒त रे॒वद्दि॑दीहि ॥ [5]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । ए॒ना । अनी॑केन । सु॒वि॒दत्र॒ इति॑ सु-वि॒दत्रः॑ । अ॒स्मे इति॑ । यष्टा॑ । दे॒वान् । आय॑जिष्ठ॒ इत्या-य॒जि॒ष्ठः॒ । स्व॒स्ति ॥ अद॑ब्धः । गो॒पा इति॑ गो-पाः । उ॒त । नः॒ । प॒र॒स्पा इति॑ परः-पाः । अग्ने॑ । द्यु॒मदिति॑ द्यु-मत् । उ॒त । रे॒वत् । दि॒दी॒हि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

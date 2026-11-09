@@ -21,10 +21,23 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 पृष्ठे᳓न द्या᳓वापृथिवी᳓ अन्त᳓रिक्षञ्च वि᳓ बाधताम् ॥
 </details>
 
+<details><summary>Keith</summary>
+
+O Indra and Agni, do ye two make firm  
+The brick that quaketh not;  
+And let it with its back repel  
+The sky and earth and atmosphere.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑ग्नी॒ अव्य॑थमाना॒मिष्ट॑कान्दृँहतय्ँयु॒वम् ।  
 पृ॒ष्ठेन॒ द्यावा॑पृथि॒वी अ॒न्तरि॑क्षञ्च॒ वि बा॑धताम् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्रा॑ग्नी॒ इतीन्द्र॑-अ॒ग्नी॒ । अव्य॑थमानाम् । इष्ट॑काम् । दृँ॒ह॒त॒म् । यु॒वम् ॥ पृ॒ष्ठेन॑ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । अ॒न्तरि॑क्षम् । च॒ । वीति॑ । बा॒ध॒ता॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -50,9 +63,19 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 विश्व᳓कर्मा त्वा सादयतु अन्त᳓रिक्षस्य पृष्ठे᳓ ,
 </details>
 
+<details><summary>Keith</summary>
+
+Let Viśvakarman place thee in the ridge of the atmosphere,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्वक॑र्मा त्वा सादयतु अ॒न्तरि॑क्षस्य पृ॒ष्ठे ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒श्वक॒र्मेति॑ वि॒श्व-क॒र्मा॒ । त्वा॒ । सा॒द॒य॒तु॒ । अ॒न्तरि॑क्षस्य । पृ॒ष्ठे ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -68,11 +91,21 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 द्या᳓म्भा᳓सि᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+encompassing, expanding, resplendent, possessing the sun, thee that dost illumine the sky,
+</details>
+
 <details><summary>मूलम्</summary>
 
 व्यच॑स्वती॒म्प्रथ॑स्वती॒म्भास्व॑तीँ सूरि॒मती॒मा या
 
 द्याम्भासि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व्यच॑स्वतीम् । प्रथ॑स्वतीम् । भास्व॑तीम् । सू॒रि॒मती॒मिति॑ सूरि-मती॑म् । एति॑ । या । द्याम् । भासि॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -85,9 +118,19 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 आ᳓ पृथिवी᳓म् +++(भासि)+++
 </details>
 
+<details><summary>Keith</summary>
+
+the earth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ पृ॑थि॒वीम् +++(भासि)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । पृ॒थि॒वीम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -100,9 +143,19 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 ओ᳓र्वन्त᳓रिक्षम् +++(भासि)+++
 </details>
 
+<details><summary>Keith</summary>
+
+the broad atmosphere,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ओर्व॑न्तरि॑क्षम् +++(भासि)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । उ॒रु । अ॒न्तरि॑क्षम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -115,9 +168,19 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 अन्त᳓रिक्षय्ँयच्छ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+support the atmosphere,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्षय्ँयच्छ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्तरि॑क्षम् । य॒च्छ॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -130,9 +193,19 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 आ᳓ अन्त᳓रिक्षन्दृँह ।  
 </details>
 
+<details><summary>Keith</summary>
+
+make firm the atmosphere,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ अ॒न्तरि॑क्षन्दृँह ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । अ॒न्तरि॑क्षम् । दृँ॒ह॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -145,9 +218,19 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 अन्त᳓रिक्षम्मा᳓ हिँसीः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+harm not the atmosphere;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्ष॒म्मा हिँ॑सीः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्तरि॑क्षम् । मा । हिँ॒सीः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -161,10 +244,20 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 मह्या᳓ स्वस्त्या᳓ छर्दि᳓षा [11] श᳓न्तमेन,
 </details>
 
+<details><summary>Keith</summary>
+
+for every expiration, inspiration, cross-breathing, out-breathing, support, movement; let Vayu protect thee with great prosperity, with a covering [1] most healing;
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्व॑स्मै प्रा॒णाया॑पा॒नाय॑ व्या॒नायो॑दा॒नाय॑ प्रति॒ष्ठायै॑ च॒रित्रा॑य वा॒युस्त्वा॒भि पा॑तु,
 म॒ह्या स्व॒स्त्या छ॒र्दिषा॑ [11] शन्त॑मेन,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्व॑स्मै । प्रा॒णायेति॑ प्र-अ॒नाय॑ । अ॒पा॒नायेत्य॑प-अ॒नाय॑ । व्या॒नायेति॑ वि-अ॒नाय॑ । उ॒दा॒नायेत्यु॑त्-अ॒नाय॑ । प्र॒ति॒ष्ठाया॒ इति॑ प्रति-स्थायै॑ । च॒रित्रा॑य । वा॒युः । त्वा॒ । अ॒भीति॑ । पा॒तु॒ । म॒ह्या । स्व॒स्त्या । छ॒र्दिषा॑ । शन्त॑मे॒नेति॒ शम्-त॒मे॒न॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -178,9 +271,19 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓ सीद ।
 </details>
 
+<details><summary>Keith</summary>
+
+with that deity do thou sit firm in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तया॑ दे॒वत॑याङ्गिर॒स्वद्ध्रु॒वा सी॑द ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तया॑ । दे॒वत॑या । अ॒ङ्गि॒र॒स्वत् । ध्रु॒वा । सी॒द॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -222,9 +325,19 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 रा᳓ज्ञ्यसि प्रा᳓ची दि᳓क् ।    
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the queen, the eastern quarter;
+</details>
+
 <details><summary>मूलम्</summary>
 
 राज्ञ्य॑सि॒ प्राची॒ दिक् ।    
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+राज्ञी॑ । अ॒सि॒ । प्राची॑ । दिक् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -237,9 +350,19 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 विरा᳓डसि दक्षिणा᳓ दि᳓क्।  
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the ruling, the southern quarter;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒राड॑सि दक्षि॒णा दिक्।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒राडिति॑ वि-राट् । अ॒सि॒ । द॒क्षि॒णा । दिक् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -252,9 +375,19 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 सम्रा᳓डसि प्रती᳓ची दि᳓क्  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the sovereign, the western quarter;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒म्राड॑सि प्र॒तीची॒ दिक्  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒म्राडिति॑ सम्-राट् । अ॒सि॒ । प्र॒तीची॑ । दिक् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -267,9 +400,19 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 स्वरा᳓डस्यु᳓दीची दि᳓क् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the self-ruling, the northern quarter;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्व॒राड॒स्युदी॑ची॒ दिक् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्व॒राडिति॑ स्व-राट् । अ॒सि॒ । उदी॑ची । दिक् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -282,9 +425,19 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 अ᳓धिपत्न्यसि बृहती᳓ दि᳓क् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the lady paramount, the great quarter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अधि॑पत्न्यसि बृह॒ती दिक् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अधि॑प॒त्नीत्यधि॑-प॒त्नी॒ । अ॒सि॒ । बृ॒ह॒ती । दिक् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -324,6 +477,11 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 
 </details>
 
+<details><summary>Keith</summary>
+
+Protect my life; protect my expiration; protect my inspiration; protect my cross-breathing; protect my eye; protect my ear;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आयु॑र्मे पाहि ।   
@@ -333,6 +491,11 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 चक्षु॑र्मे पाहि ।   
 श्रोत्र॑म्मे पाहि ।   
 
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आयुः॑ । मे॒ । पा॒हि॒ । प्रा॒णमिति॑ प्र-अ॒नम् । मे॒ । पा॒हि॒ । अ॒पा॒नमित्य॑प-अ॒नम् । मे॒ । पा॒हि॒ । व्या॒नमिति॑ वि-अ॒नम् । मे॒ । पा॒हि॒ । चक्षुः॑ । मे॒ । पा॒हि॒ । श्रोत्र॑म् । मे॒ । पा॒हि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -347,10 +510,20 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 वा᳓चम्मे पिन्व ।   
 </details>
 
+<details><summary>Keith</summary>
+
+quicken my mind; strengthen my voice;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मनो॑ मे जिन्व ।   
 वाच॑म्मे पिन्व ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मनः॑ । मे॒ । जि॒न्व॒ । वाच॑म् । मे॒ । पि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -363,9 +536,19 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 आत्मा᳓नम्मे पाहि ।   
 </details>
 
+<details><summary>Keith</summary>
+
+protect my breath;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒त्मान॑म्मे पाहि ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒त्मान॑म् । मे॒ । पा॒हि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -378,9 +561,19 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 ज्यो᳓तिर्मे यच्छ ॥
 </details>
 
+<details><summary>Keith</summary>
+
+accord me light.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्योति॑र्मे यच्छ ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ज्योतिः॑ । मे॒ । य॒च्छ॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

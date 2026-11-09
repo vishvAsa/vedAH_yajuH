@@ -20,10 +20,23 @@ title = "०२ वैश्वकर्मण होमः"
 स᳓ आशि᳓षा द्र᳓विणमिच्छ᳓मानᳶ परमच्छ᳓दो व᳓र आ᳓ विवेश ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He who sat down, offering all these beings,  
+As Hotr, the seer, our father,  
+He seeking wealth with prayer,  
+Hath entered into the boon of the first of coverers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य इ॒मा विश्वा॒ भुव॑नानि॒ जुह्व॒दृषि॒र्होता॑ निष॒सादा॑ पि॒ता नः॑ ।  
 स आ॒शिषा॒ द्रवि॑णमि॒च्छमा॑नᳶ परम॒च्छदो॒ वर॒ आ वि॑वेश ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । इ॒मा । विश्वा॑ । भुव॑नानि । जुह्व॑त् । ऋषिः॑ । होता॑ । नि॒ष॒सादेति॑ नि-स॒साद॑ । पि॒ता । नः॒ ॥ सः । आ॒शिषेत्या॑-शिषा॑ । द्रवि॑णम् । इ॒च्छमा॑नः । प॒र॒म॒च्छद॒ इति॑ परम-छदः॑ । वरे॑ । एति॑ । वि॒वे॒श॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -54,10 +67,23 @@ title = "०२ वैश्वकर्मण होमः"
 ते᳓षामिष्टा᳓नि स᳓मिषा᳓ मदन्ति य᳓त्र सप्तर्षी᳓न्पर᳓ ए᳓कमाहुः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Since Viśvakarman is mighty in mind,  
+Disposer, ordainer, and highest seer,  
+Their offerings rejoice in food,  
+Where say they is one beyond the seven Rsis.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्वक॑र्मा॒ मन॑सा॒ यद्विहा॑या धा॒ता वि॑धा॒ता प॑र॒मोत स॒न्दृक् ।  
 तेषा॑मि॒ष्टानि॒ समि॒षा म॑दन्ति॒ यत्र॑ सप्त॒र्षीन्प॒र एक॑मा॒हुः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒श्वक॒र्मेति॑ वि॒श्व-क॒र्मा॒ । मन॑सा । यत् । विहा॑या॒ इति॒ वि-हा॒याः॒ । धा॒ता । वि॒धा॒तेति॑ वि-धा॒ता । प॒र॒मा । उ॒त । स॒न्दृगिति॑ सम्-दृक् ॥ तेषा॑म् । इ॒ष्टानि॑ । समिति॑ । इ॒षा । म॒द॒न्ति॒ । यत्र॑ । स॒प्त॒र्षीनिति॑ सप्त-ऋ॒षीन् । प॒रः । एक॑म् । आ॒हुः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -86,11 +112,25 @@ title = "०२ वैश्वकर्मण होमः"
 यो᳓ देवा᳓नान्नामधा᳓ ए᳓क एव᳓ तँ᳓ सम्प्रश्ञ᳓म्भु᳓वना यन्त्यन्या᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He who is our father, our begetter, the ordainer,  
+Who begot us from being unto being [1],  
+Who alone assigneth their names to the gods,
+
+Him other beings approach for knowledge.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो नᳶ॑ पि॒ता ज॑नि॒ता यो वि॑धा॒ता यो न॑स्स॒तो अ॒भ्या सज्ज॒जान॑ ।  
 [6]
 यो दे॒वाना॑न्नाम॒धा एक॑ ए॒व तँ स॑म्प्र॒श्ञम्भुव॑ना यन्त्य॒न्या ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । नः॒ । पि॒ता । ज॒नि॒ता । यः । वि॒धा॒तेति॑ वि-धा॒ता । यः । नः॒ । स॒तः । अ॒भि । एति॑ । सत् । ज॒जान॑ ॥ यः । दे॒वाना॑म् । ना॒म॒धा इति॑ नाम-धाः । एकः॑ । ए॒व । तम् । स॒म्प्र॒श्ञमिति॑ सम्-प्र॒श्ञम् । भुव॑ना । य॒न्ति॒ । अ॒न्या ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -116,10 +156,22 @@ title = "०२ वैश्वकर्मण होमः"
 असू᳓र्ता सू᳓र्ता र᳓जसो विमा᳓ने ये᳓ भूता᳓नि सम᳓कृण्वन्निमा᳓नि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Wealth they won by offering to him  
+The seers of old like singers in abundance,  
+They who fashioned these beings illumined and unillumined In the expanse of space.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त आय॑जन्त॒ द्रवि॑णँ॒ सम॑स्मा॒ ऋष॑य॒ᳶ पूर्वे॑ जरि॒तारो॒ न भू॒ना ।  
 अ॒सूर्ता॒ सूर्ता॒ रज॑सो वि॒माने॒ ये भू॒तानि॑ स॒मकृ॑ण्वन्नि॒मानि॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । एति॑ । अ॒य॒ज॒न्त॒ । द्रवि॑णम् । समिति॑ । अ॒स्मै॒ । ऋष॑यः । पूर्वे॑ । ज॒रि॒तारः॑ । न । भू॒ना ॥ अ॒सूर्ता॑ । सूर्ता॑ । रज॑सः । वि॒मान॒ इति॑ वि-माने॑ । ये । भू॒तानि॑ । स॒मकृ॑ण्व॒न्निति॑ सम्-अकृ॑ण्वन् । इ॒मानि॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -142,10 +194,22 @@ title = "०२ वैश्वकर्मण होमः"
 नीहारे᳓ण प्रा᳓वृता ज᳓ल्प्या चासुतृ᳓प उक्थशा᳓सश्चरन्ति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Ye shall not find him who produced this world; Another thing shall be betwixt you;  
+Enveloped in mist and with stammering  
+The singers of hymns move enjoying life.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न तव्ँवि॑दाथ॒ य इ॒दञ्ज॒जाना॒न्यद्यु॒ष्माक॒मन्त॑रम्भवाति ।  
 नी॒हा॒रेण॒ प्रावृ॑ता॒ जल्प्या॑ चासु॒तृप॑ उक्थ॒शास॑श्चरन्ति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+न । तम् । वि॒दा॒थ॒ । यः । इ॒दम् । ज॒जान॑ । अ॒न्यत् । यु॒ष्माक॑म् । अन्त॑रम् । भ॒वा॒ति॒ ॥ नी॒हा॒रेण॑ । प्रावृ॑ताः । जल्प्या॑ । च॒ । अ॒सु॒तृप॒ इत्य॑सु-तृपः॑ । उ॒क्थ॒शास॒ इत्यु॑क्थ-शासः॑ । च॒र॒न्ति॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -178,10 +242,22 @@ title = "०२ वैश्वकर्मण होमः"
 कँ᳓ स्विद्ग᳓र्भम्प्रथम᳓न्दध्र आ᳓पो य᳓त्र देवा᳓स्सम᳓गच्छन्त वि᳓श्वे ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Beyond the sky, beyond this [2] earth,  
+Beyond the gods, what is secret from the Asuras, What germ first did the waters bear,  
+When all the gods came together?
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒रो दि॒वा प॒र ए॒ना [7]  पृ॒थि॒व्या प॒रो दे॒वेभि॒रसु॑रै॒र्गुहा॒ यत् ।  
 कँ स्वि॒द्गर्भ॑म्प्रथ॒मन्द॑ध्र॒ आपो॒ यत्र॑ दे॒वास्स॒मग॑च्छन्त॒ विश्वे॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒रः । दि॒वा । प॒रः । ए॒ना । पृ॒थि॒व्या । प॒रः । दे॒वेभिः॑ । असु॑रैः । गुहा॑ । यत् ॥ कम् । स्वि॒त् । गर्भ॑म् । प्र॒थ॒मम् । द॒ध्रे॒ । आपः॑ । यत्र॑ । दे॒वाः । स॒मग॑च्छ॒न्तेति॑ सम्-अग॑च्छन्त । विश्वे॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -207,10 +283,23 @@ title = "०२ वैश्वकर्मण होमः"
 अज᳓स्य ना᳓भाव᳓ध्ये᳓कम᳓र्पितय्ँय᳓स्मिन्निदव्ँ᳓वि᳓श्वम्भु᳓वनम᳓धि श्रित᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+This germ the waters first bore,  
+When all the gods came together;  
+On the navel of the unborn is set the one  
+On which doth rest all this world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तमिद्गर्भ॑म्प्रथ॒मन्द॑ध्र॒ आपो॒ यत्र॑ दे॒वास्स॒मग॑च्छन्त॒ विश्वे॑ ।  
 अ॒जस्य॒ नाभा॒वध्येक॒मर्पि॑तय्ँ॒यस्मि॑न्नि॒दव्ँविश्व॒म्भुव॑न॒मधि॑ श्रि॒तम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । इत् । गर्भ॑म् । प्र॒थ॒मम् । द॒ध्रे॒ । आपः॑ । यत्र॑ । दे॒वाः । स॒मग॑च्छ॒न्तेति॑ सम्-अग॑च्छन्त । विश्वे॑ ॥ अ॒जस्य॑ । नाभौ॑ । अधीति॑ । एक॑म् । अर्पि॑तम् । यस्मि॑न् । इ॒दम् । विश्व॑म् । भुव॑नम् । अधीति॑ । श्रि॒तम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -234,10 +323,23 @@ title = "०२ वैश्वकर्मण होमः"
 तृती᳓यᳶ पिता᳓ जनितौ᳓षधीनाम् [8] अपा᳓ङ्ग᳓र्भव्व्ँय᳙दधात्पुरुत्रा᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Viśvakarman, the god, was born;  
+Then second the Gandharva;  
+Third the father, begetter of plants [31  
+In many a place did he deposit the germ of the waters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्वक॑र्मा॒ ह्यज॑निष्ट दे॒व आदिद्ग॑न्ध॒र्वो अ॑भवद्द्वि॒तीयः॑ ।  
 तृ॒तीयᳶ॑ पि॒ता ज॑नि॒तौष॑धीनाम् [8] अ॒पाङ्गर्भ॒व्व्ँय॑दधात्पुरु॒त्रा ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒श्वक॒र्मेति॑ वि॒श्व-क॒र्मा॒ । हि । अज॑निष्ट । दे॒वः । आत् । इत् । ग॒न्ध॒र्वः । अ॒भ॒व॒त् । द्वि॒तीयः॑ ॥ तृ॒तीयः॑ । पि॒ता । ज॒नि॒ता । ओष॑धीनाम् । अ॒पाम् । गर्भ॑म् । वीति॑ । अ॒द॒धा॒त् । पु॒रु॒त्रेति॑ पुरु-त्रा ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -260,10 +362,23 @@ title = "०२ वैश्वकर्मण होमः"
 यदे᳓द᳓न्ता अ᳓ददृँहन्त पू᳓र्व आ᳓दि᳓द्द्या᳓वापृथिवी᳓ अप्रथेताम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Father of the eye, the sage with his mind,  
+Produced these two worlds rich in ghee,  
+When the fore ends were made firm,  
+Then did sky and earth extend.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चक्षु॑षᳶ पि॒ता मन॑सा॒ हि धीरो॑ घृ॒तमे॑ने अजन॒न्नन्न॑माने ।  
 य॒देदन्ता॒ अद॑दृँहन्त॒ पूर्व॒ आदिद्द्यावा॑पृथि॒वी अ॑प्रथेताम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चक्षु॑षः । पि॒ता । मन॑सा । हि । धीरः॑ । घृ॒तम् । ए॒ने॒ इति॑ । अ॒ज॒न॒त् । नन्न॑माने॒ इति॑ ॥ य॒दा । इत् । अन्ताः॑ । अद॑दृँहन्त । पूर्वे॑ । आत् । इत् । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । अ॒प्र॒थे॒ता॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -285,10 +400,21 @@ title = "०२ वैश्वकर्मण होमः"
 स᳓म्बाहु᳓भ्यान्न᳓मति स᳓म्प᳓तत्रैर्द्या᳓वापृथिवी᳓ जन᳓यन्देव᳓ ए᳓कः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+With eyes on every side, with a face on every side, With hands on every side, with feet on every side, The one god producing sky and earth  
+Welds them together with arms, with wings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्वत॑श्चक्षुरु॒त वि॒श्वतो॑मुखो वि॒श्वतो॑हस्त उ॒त वि॒श्वत॑स्पात् ।  
 सम्बा॒हुभ्या॒न्नम॑ति॒ सम्पत॑त्रै॒र्द्यावा॑पृथि॒वी ज॒नय॑न्दे॒व एकः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒श्वत॑श्चक्षु॒रिति॑ वि॒श्वतः॑-च॒क्षुः॒ । उ॒त । वि॒श्वतो॑मुख॒ इति॑ वि॒श्वतः॑-मु॒खः॒ । वि॒श्वतो॑हस्त॒ इति॑ वि॒श्वतः॑-ह॒स्तः॒ । उ॒त । वि॒श्वत॑स्पा॒दिति॑ वि॒श्वतः॑-पा॒त् ॥ समिति॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । नम॑ति । समिति॑ । पत॑त्रैः । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । ज॒नय॑न् । दे॒वः । एकः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -312,10 +438,22 @@ title = "०२ वैश्वकर्मण होमः"
 य᳓दी भू᳓मिञ्जन᳓यन्न् [9]  विश्व᳓कर्मा वि᳓ द्या᳓मौ᳓र्णोन्महिना᳓ विश्व᳓चक्षाः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+What was the basis?  
+Which and what his support?  
+When producing earth [4] Viśvakarman, all-seeing, Disclosed the sky with his might.
+</details>
+
 <details><summary>मूलम्</summary>
 
 किँ स्वि॑दासीदधि॒ष्ठान॑मा॒रम्भ॑णङ्कत॒मत्स्वि॒त्किमा॑सीत् ।  
 यदी॒ भूमि॑ञ्ज॒नय॑न्न् [9]  वि॒श्वक॑र्मा॒ वि द्यामौर्णो॑न्महि॒ना वि॒श्वच॑क्षाः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+किम् । स्वि॒त् । आ॒सी॒त् । अ॒धि॒ष्ठान॒मित्य॑धि-स्थान॑म् । आ॒रम्भ॑ण॒मित्या॑-रम्भ॑णम् । क॒त॒मत् । स्वि॒त् । किम् । आ॒सी॒त् ॥ यदि॑ । भूमि॑म् । ज॒नय॑न् । वि॒श्वक॒र्मेति॑ वि॒श्व-क॒र्मा॒ । वीति॑ । द्याम् । औ॒र्णो॒त् । म॒हि॒ना । वि॒श्वच॑क्षा॒ इति॑ वि॒श्व-च॒क्षाः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -342,10 +480,23 @@ title = "०२ वैश्वकर्मण होमः"
 म᳓नीषिणो म᳓नसा पृच्छ᳓ते᳓दु त᳓द्य᳓दध्य᳓तिष्ठद्भु᳓वनानि धार᳓यन् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+What was the wood, and what the tree,  
+Whence they formed sky and earth?  
+O ye wise ones, inquire with your minds  
+On what he stood as he supported the worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 किँ स्वि॒द्वन॒ङ्क उ॒ स वृ॒क्ष आ॑सी॒द्यतो॒ द्यावा॑पृथि॒वी नि॑ष्टत॒क्षुः ।  
 मनी॑षिणो॒ मन॑सा पृ॒च्छतेदु॒ तद्यद॒ध्यति॑ष्ठ॒द्भुव॑नानि धा॒रय॑न् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+किम् । स्वि॒त् । वन॑म् । कः । उ॒ । सः । वृ॒क्षः । आ॒सी॒त् । यतः॑ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । नि॒ष्ट॒त॒क्षुरिति॑ निः-त॒त॒क्षुः ॥ मनी॑षिणः । मन॑सा । पृ॒च्छत॑ । इत् । उ॒ । तत् । यत् । अ॒ध्यति॑ष्ठ॒दित्य॑धि-अति॑ष्ठत् । भुव॑नानि । धा॒रय॑न्न् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -372,10 +523,22 @@ title = "०२ वैश्वकर्मण होमः"
 शि᳓क्षा स᳓खिभ्यो हवि᳓षि स्वधावस्स्वयय्ँ᳓यजस्व तनु᳓वञ्जुषाणः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thy highest, lowest,  
+Midmost abodes here, O Viśvakarman,  
+In the offering do thou teach thy comrades, O faithful one; Do thou thyself sacrifice to thyself, rejoicing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 या ते॒ धामा॑नि पर॒माणि॒ याऽव॒मा या म॑ध्य॒मा वि॑श्वकर्मन्नु॒तेमा ।  
 शिक्षा॒ सखि॑भ्यो ह॒विषि॑ स्वधावस्स्व॒यय्ँय॑जस्व त॒नुव॑ञ्जुषा॒णः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+या । ते॒ । धामा॑नि । प॒र॒माणि॑ । या । अ॒व॒मा । या । म॒ध्य॒मा । वि॒श्व॒क॒र्म॒न्निति॑ विश्व-क॒र्म॒न् । उ॒त । इ॒मा ॥ शिक्ष॑ । सखि॑भ्य॒ इति॒ सखि॑-भ्यः॒ । ह॒विषि॑ । स्व॒धा॒व॒ इति॑ स्वधा-वः॒ । स्व॒यम् । य॒ज॒स्व॒ । त॒नुव॑म् । जु॒षा॒णः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -395,10 +558,22 @@ title = "०२ वैश्वकर्मण होमः"
 स᳓ नो ने᳓दिष्ठा ह᳓वनानि जोषते विश्व᳓शम्भूर᳓वसे साधु᳓कर्मा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The lord of speech, Viśvakarman,  
+Let us invoke this day to aid us [5], thought yoked for strength, May he delight in our nearest offerings,  
+He with all healing, to aid (us), the doer of good deeds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒चस्पतिव्ँ॑वि॒श्वक॑र्माणमू॒तये॑ [10]  म॒नो॒युजव्ँ॒वाजे॑ अ॒द्या हु॑वेम ।  
 स नो॒ नेदि॑ष्ठा॒ हव॑नानि जोषते वि॒श्वश॑म्भू॒रव॑से सा॒धुक॑र्मा ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒चः । पति॑म् । वि॒श्वक॑र्माण॒मिति॑ वि॒श्व-क॒र्मा॒ण॒म् । ऊ॒तये॑ । म॒नो॒युज॒मिति॑ मनः-युज॑म् । वाजे॑ । अ॒द्य । हु॒वे॒म॒ ॥ सः । नः॒ । नेदि॑ष्ठा । हव॑नानि । जो॒ष॒ते॒ । वि॒श्वश॑म्भू॒रिति॑ वि॒श्व-श॒म्भूः॒ । अव॑से । सा॒धुक॒र्मेति॑ सा॒धु-क॒र्मा॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -421,10 +596,22 @@ title = "०२ वैश्वकर्मण होमः"
 मु᳓ह्यन्त्वन्ये᳓ अभि᳓तस्सप᳓त्ना इहा᳓स्मा᳓कम्मघ᳓वा सूरि᳓रस्तु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Viśvakarman, waxing great with the oblation, Do thou thyself sacrifice to thyself rejoicing;  
+May the others around, our foes, be confused;  
+May our patrons here be rich.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्व॑कर्मन्ह॒विषा॑ वावृधा॒नस्स्व॒यय्ँय॑जस्व त॒नुव॑ञ्जुषा॒णः ।  
 मुह्य॑न्त्व॒न्ये अ॒भित॑स्स॒पत्ना॑ इ॒हास्माक॑म्म॒घवा॑ सू॒रिर॑स्तु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्व॑कर्म॒न्निति॒ विश्व॑-क॒र्म॒न् । ह॒विषा॑ । वा॒वृ॒धा॒नः । स्व॒यम् । य॒ज॒स्व॒ । त॒नुव॑म् । जु॒षा॒णः ॥ मुह्य॑न्तु । अ॒न्ये । अ॒भितः॑ । स॒पत्नाः॑ । इ॒ह । अ॒स्माक॑म् । म॒घवेति॑ म॒घ-वा॒ । सू॒रिः । अ॒स्तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -444,10 +631,21 @@ title = "०२ वैश्वकर्मण होमः"
 त᳓स्मै वि᳓शस्स᳓मनमन्त पूर्वी᳓रय᳓मुग्रो᳓ विहव्यो᳙ य᳓था᳓ऽसत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Viśvakarman, with the oblation as strengthening, Thou didst make Indra, the protector, free from scathe, To him the clans of old bowed in homage,  
+That he might be dread, to be severally invoked.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्व॑कर्मन्ह॒विषा॒ वर्ध॑नेन त्रा॒तार॒मिन्द्र॑मकृणोरव॒ध्यम् ।  
 तस्मै॒ विश॒स्सम॑नमन्त पू॒र्वीर॒यमु॒ग्रो वि॑ह॒व्यो॑ यथाऽस॑त् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्व॑कर्म॒न्निति॒ विश्व॑-क॒र्म॒न् । ह॒विषा॑ । वर्ध॑नेन । त्रा॒तार॑म् । इन्द्र॑म् । अ॒कृ॒णोः॒ । अ॒व॒ध्यम् ॥ तस्मै॑ । विशः॑ । समिति॑ । अ॒न॒म॒न्त॒ । पू॒र्वीः । अ॒यम् । उ॒ग्रः । वि॒ह॒व्य॑ इति॑ वि-ह॒व्यः॑ । यथा॑ । अस॑त् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -470,10 +668,25 @@ title = "०२ वैश्वकर्मण होमः"
 नदी᳓नाँ स᳓र्वासाम्पित्रे᳓ जुहुता᳓ विश्व᳓कर्मणे वि᳓श्वा᳓हा᳓मर्त्यँ हविः᳓ ॥ [11]
 </details>
 
+<details><summary>Keith</summary>
+
+To the ocean, the moving,
+  
+The lord of streams, homage!  
+To the lord of all the streams  
+Do ye offer, to Viśvakarman,  
+Through all the days the immortal offering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒मु॒द्राय॑ व॒युना॑य॒ सिन्धू॑ना॒म्पत॑ये॒ नमः॑ ।  
 न॒दीनाँ॒ सर्वा॑साम्पि॒त्रे जु॑हु॒ता वि॒श्वक॑र्मणे॒ विश्वाहाम॑र्त्यँ ह॒विः ॥ [11]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒मु॒द्राय॑ । व॒युना॑य । सिन्धू॑नाम् । पत॑ये । नमः॑ ॥ न॒दीना॑म् । सर्वा॑साम् । पि॒त्रे । जु॒हु॒त । वि॒श्वक॑र्मण॒ इति॑ वि॒श्व-क॒र्म॒णे॒ । विश्वा॑ । अहा॑ । अम॑र्त्यम् । ह॒विः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -24,10 +24,23 @@ title = "०५ उस्रानिर्माणम्"
 सुश᳓र्मणो बृहत᳓श्श᳓र्मणि स्यामग्ने᳓रहँ᳓ सुह᳓वस्य प्र᳓णीतौ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Radiant with extending blaze,  
+Do thou repel the enemy, the Raksas's hostility;  
+May I enjoy the protection of the great protector,  
+May I enjoy the leadership of Agni, easy to invoke.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि पाज॑सा पृ॒थुना॒ शोशु॑चानो॒ बाध॑स्व द्वि॒षो र॒क्षसो॒ अमी॑वाः ।  
 सु॒शर्म॑णो बृह॒तश्शर्म॑णि स्याम॒ग्नेर॒हँ सु॒हव॑स्य॒ प्रणी॑तौ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वीति॑ । पाज॑सा । पृ॒थुना॑ । शोशु॑चानः । बाध॑स्व । द्वि॒षः । र॒क्षसः॑ । अमी॑वाः ॥ सु॒शर्म॑ण॒ इति॑ सु-शर्म॑णः । बृ॒ह॒तः । शर्म॑णि । स्या॒म् । अ॒ग्नेः । अ॒हम् । सु॒हव॒स्येति॑ सु-हव॑स्य । प्रणी॑ता॒विति॒ प्र-नी॒तौ॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -48,7 +61,7 @@ title = "०५ उस्रानिर्माणम्"
 तत्र प्रथमामाह—  १७९८ आपो हि ष्ठेति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -59,6 +72,13 @@ title = "०५ उस्रानिर्माणम्"
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Ye, waters, are healing;  
+Further us to strength,  
+To see great joy.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/01_Apo_hi.md">
 
@@ -343,10 +363,22 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 उशती᳓रिव मात᳓रः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The most auspicious flavour that is yours,  
+Accord to us here,  
+Like eager mothers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो व॑श्शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ ।  
 उ॒श॒तीरि॑व मा॒तरः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । वः॒ । शि॒वत॑म॒ इति॑ शि॒व-त॒मः॒ । रसः॑ । तस्य॑ । भा॒ज॒य॒त॒ । इ॒ह । नः॒ ॥ उ॒श॒तीः । इ॒व॒ । मा॒तरः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -365,10 +397,22 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 आ᳓पो जन᳓यथा च नः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+To him may we come with satisfaction,  
+To whose dwelling ye quicken us,  
+O waters, and propagate us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒ अर॑ङ्गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ ।  
 आपो॑ ज॒नय॑था च नः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्मै॑ । अर॑म् । ग॒मा॒म॒ । वः॒ । यस्य॑ । क्षया॑य । जिन्व॑थ ॥ आपः॑ । ज॒नय॑थ । च॒ । नः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -389,10 +433,23 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 सु᳓जातञ्जात᳓वेदसमग्निव्ँ᳓ वैश्वानरव्ँ᳓विभु᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Mitra [1], having united the earth  
+And the ground with light,  
+Agni well-born, all-knower,  
+Common to all men, the wide extending.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒त्रः [18]  सँ॒सृज्य॑ पृथि॒वीम्भूमि॑ञ्च॒ ज्योति॑षा स॒ह ।  
 सुजा॑तञ्जा॒तवे॑दसम॒ग्निव्ँ वै॑श्वान॒रव्ँवि॒भुम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मि॒त्रः । सँ॒सृज्येति॑ सम्-सृज्य॑ । पृ॒थि॒वीम् । भूमि॑म् । च॒ । ज्योति॑षा । स॒ह ॥ सुजा॑त॒मिति॒ सु-जा॒त॒म् । जा॒तवे॑दस॒मिति॑ जा॒त-वे॒द॒स॒म् । अ॒ग्निम् । वै॒श्वा॒न॒रम् । वि॒भुमिति॑ वि-भुम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -411,10 +468,20 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 सु᳓जातञ्जात᳓वेदसमग्निव्ँ᳓ वैश्वानरव्ँ᳓विभु᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+For health I unite thee, for offspring; may the All-gods, connected with all the gods, unite thee with the Anustubh metre, in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒त्रः [18]  सँ॒सृज्य॑ पृथि॒वीम्भूमि॑ञ्च॒ ज्योति॑षा स॒ह ।  
 सुजा॑तञ्जा॒तवे॑दसम॒ग्निव्ँ वै॑श्वान॒रव्ँवि॒भुम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मि॒त्रः । सँ॒सृज्येति॑ सम्-सृज्य॑ । पृ॒थि॒वीम् । भूमि॑म् । च॒ । ज्योति॑षा । स॒ह ॥ सुजा॑त॒मिति॒ सु-जा॒त॒म् । जा॒तवे॑दस॒मिति॑ जा॒त-वे॒द॒स॒म् । अ॒ग्निम् । वै॒श्वा॒न॒रम् । वि॒भुमिति॑ वि-भुम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -440,10 +507,23 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 ते᳓षाम्भानु᳓र᳓जस्र इ᳓च्छुक्रो᳓ देवे᳓षु रोचते ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The Rudras, having gathered together the earth,  
+Kindled a great light;  
+Their ray undying  
+Shineth clear among the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रु॒द्रास्स॒म्भृत्य॑ पृथि॒वीम्बृ॒हज्ज्योति॒स्समी॑धिरे ।  
 तेषा॑म्भा॒नुरज॑स्र॒ इच्छु॒क्रो दे॒वेषु॑ रोचते ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रु॒द्राः । स॒म्भृत्येति॑ सम्-भृत्य॑ । पृ॒थि॒वीम् । बृ॒हत् । ज्योतिः॑ । समिति॑ । ई॒धि॒रे॒ ॥ तेषा॑म् । भा॒नुः । अज॑स्रः । इत् । शु॒क्रः । दे॒वेषु॑ । रो॒च॒ते॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -463,11 +543,24 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 </details>
 
+<details><summary>Keith</summary>
+
+United by the Vasus, the cunning Rudras,  
+The mud fit for the rite,  
+Making it smooth with her hands,  
+May Sinivali fashion [2] this (pan).
+</details>
+
 <details><summary>मूलम्</summary>
 
 सँसृ॑ष्टाव्ँ॒वसु॑भी रु॒द्रैर्धीरैः॑ कर्म॒ण्या॑म्मृद॑म् ।  
 हस्ता॑भ्याम्मृ॒द्वीङ्कृ॒त्वा सि॑नीवा॒ली क॑रोतु [19]  ताम् ।
 
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सँसृ॑ष्टा॒मिति॒ सम्-सृ॒ष्टा॒म् । वसु॑भि॒रिति॒ वसु॑-भिः॒ । रु॒द्रैः । धीरैः॑ । क॒र्म॒ण्या॑म् । मृद॑म् ॥ हस्ता॑भ्याम् । मृ॒द्वीम् । कृ॒त्वा । सि॒नी॒वा॒ली । क॒रो॒तु॒ । ताम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -486,10 +579,23 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 सा᳓ तु᳓भ्यमदिते मह ओ᳓खा᳓न्दधातु ह᳓स्तयोः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Sinivali, of fair braids,  
+Of fair head-dress, with fair locks,  
+May she, O Aditi, O great one,  
+Place within thy hands the pan.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सि॒नी॒वा॒ली सु॑कप॒र्दा सु॑कुरी॒रा स्वौ॑प॒शा ।  
 सा तुभ्य॑मदिते मह॒ ओखान्द॑धातु॒ हस्त॑योः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सि॒नी॒वा॒ली । सु॒क॒प॒र्देति॑ सु-क॒प॒र्दा । सु॒कु॒री॒रेति॑ सु-कु॒री॒रा । स्वौ॒प॒शेति॑ सु-औ॒प॒शा ॥ सा । तुभ्य॑म् । अ॒दि॒ते॒ । म॒हे॒ । एति॑ । उ॒खाम् । द॒धा॒तु॒ । हस्त॑योः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -508,10 +614,24 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 माता᳓ पुत्रय्ँ᳓य᳓थोप᳓स्थे सा᳓ग्नि᳓म्बिभर्तु ग᳓र्भ आ᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Let Aditi fashion the pan with might,  
+With her arms , with wisdom,  
+Let her bear Agni in her womb  
+As a mother a child in her lap.  
+I Thou art the head of Makha.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒खाङ्क॑रोतु॒ शक्त्या॑ बा॒हुभ्या॒मदि॑तिर्धि॒या ।  
 मा॒ता पु॒त्रय्ँयथो॒पस्थे॒ साग्निम्बि॑भर्तु॒ गर्भ॒ आ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒खाम् । क॒रो॒तु॒ । शक्त्या॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । अदि॑तिः । धि॒या ॥ मा॒ता । पु॒त्रम् । यथा॑ । उ॒पस्थ॒ इत्यु॒प-स्थे॒ । सा । अ॒ग्निम् । बि॒भ॒र्तु॒ । गर्भे॑ । आ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -532,9 +652,19 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 मख᳓स्य शि᳓रोऽसि
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the head of Makha.
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒खस्य॒ शिरो॑ऽसि
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒खस्य॑ । शिरः॑ । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -555,9 +685,19 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 यज्ञ᳓स्य पदे᳓ स्थः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Ye are the two feet of the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञस्य॑ प॒दे स्थः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒ज्ञस्य॑ । प॒दे इति॑ । स्थः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -591,6 +731,11 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 अङ्गिरस्व᳓द्द्यौ᳓रसि +++(ध्रुवा᳓सि ।  धार᳓या म᳓यि प्रजाँ᳓ राय᳓स्पो᳓षङ्गौपत्यँ᳓ सुवी᳓र्यँ सजाता᳓न्य᳓जमानाय᳓ ।  )+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the Vasus fashion thee with the Gayatri metre, in the manner of Angiras. Thou art the earth; may the Rudras fashion thee with the Tristubh metre, in the manner of Angiras. Thou art the atmosphere [3]; may the Adityas fashion thee with the Jagati metre in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वस॑वस्त्वा कृण्वन्तु गाय॒त्रेण॒ छन्द॑सा ।  
@@ -604,6 +749,11 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 अ॒ङ्गि॒र॒स्वद्द्यौर॑सि +++(ध्रु॒वासि॑ ।  धा॒रया॒ मयि॑ प्र॒जाँ रा॒यस्पोष॑ङ्गौप॒त्यँ सु॒वीर्यँ॑ सजा॒तान्यज॑माना॒य ।  )+++।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वस॑वः । त्वा॒ । कृ॒ण्व॒न्तु॒ । गा॒य॒त्रेण॑ । छन्द॑सा । अ॒ङ्गि॒र॒स्वत् । पृ॒थि॒वी । अ॒सि॒ । रु॒द्राः । त्वा॒ । कृ॒ण्व॒न्तु॒ । त्रैष्टु॑भेन । छन्द॑सा । अ॒ङ्गि॒र॒स्वत् । अ॒न्तरि॑क्षम् । अ॒सि॒ । आ॒दि॒त्याः । त्वा॒ । कृ॒ण्व॒न्तु॒ । जाग॑तेन । छन्द॑सा । अ॒ङ्गि॒र॒स्वत् । द्यौः । अ॒सि॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे उखे वस्वाख्या देवाः सहकारिणा गायत्रेण च्छन्दसा सहाङ्गिरस इव त्वां कृण्वन्तु निष्पादयन्तु । त्वं च पृथिवीरूपाऽसि।   एवमुत्तरेषु त्रिष्वपि योज्यम् ।  
@@ -614,9 +764,19 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 वि᳓श्वे त्वा देवा᳓ वैश्वानराᳵ᳓ कृण्वन्तु᳓ , आ᳓नुष्टुभेन छ᳓न्दसा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the sky; may the All-gods, connected with all the gods, fashion thee with the Anustubh metre, in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्वे॑ त्वा दे॒वा वै॑श्वान॒राᳵ कृ॑ण्व॒न्तु , आनु॑ष्टुभेन॒ छन्द॑सा ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्वे॑ । त्वा॒ । दे॒वाः । वै॒श्वा॒न॒राः । कृ॒ण्व॒न्तु॒ । आनु॑ष्टुभे॒नेत्यानु॑-स्तु॒भे॒न॒ । छन्द॑सा ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -631,11 +791,21 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 धार᳓या म᳓यि प्रजाँ᳓ राय᳓स्पो᳓षङ्गौपत्यँ᳓ सुवी᳓र्यँ सजाता᳓न्य᳓जमानाय᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the quarters; thou art the fixed (quarter); fix in me offspring, increase of wealth, richness in cattle, richness in heroes, (and for) the patron offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ङ्गि॒र॒स्वद्दिशो॑ऽसि ।  
 ध्रु॒वासि॑ ।  
 धा॒रया॒ मयि॑ प्र॒जाँ रा॒यस्पोष॑ङ्गौप॒त्यँ सु॒वीर्यँ॑ सजा॒तान्यज॑माना॒य ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ङ्गि॒र॒स्वत् । दिशः॑ । अ॒सि॒ । ध्रु॒वा । अ॒सि॒ । धा॒रय॑ । मयि॑ । प्र॒जामिति॑ प्र-जाम् । रा॒यः । पोष॑म् । गौ॒प॒त्यम् । सु॒वीर्य॒मिति॑ सु-वीर्य॑म् । स॒जा॒तानिति॑ स-जा॒तान् । यज॑मानाय ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -658,9 +828,19 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 अ᳓दित्यै रा᳓स्नाऽसि ,  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the girdle of Aditi.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अदि॑त्यै॒ रास्ना॑ऽसि ,  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अदि॑त्यै । रास्ना॑ । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -678,9 +858,19 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 अ᳓दितिस्ते बि᳓लङ्गृह्णातु पा᳓ङ्क्तेन छ᳓न्दसाऽङ्गिरस्व᳓त् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Let Aditi seize thy hole with the Pankti metre, in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अदि॑तिस्ते॒ बिल॑ङ्गृह्णातु॒ पाङ्क्ते॑न॒ छन्द॑साऽङ्गिर॒स्वत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अदि॑तिः । ते॒ । बिल॑म् । गृ॒ह्णा॒तु॒ । पाङ्क्ते॑न । छन्द॑सा । अ॒ङ्गि॒र॒स्वत् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -710,10 +900,23 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 ता᳓म्पुत्रे᳓भ्यस्स᳓म्प्रा᳓यच्छद᳓दितिश्श्रप᳓यानि᳓ति ॥ [21]  
 </details>
 
+<details><summary>Keith</summary>
+
+Having made the great pan,  
+Wrought of clay, as a birthplace for Agni,  
+Aditi gave it to her sons,  
+(Saying), 'Let them cook it.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृ॒त्वाय॒ सा म॒हीमु॒खाम्मृ॒न्मयीय्ँ॒योनि॑म॒ग्नये॑ ।  
 ताम्पु॒त्रेभ्य॒स्सम्प्राय॑च्छ॒ददि॑तिश्श्र॒पया॒निति॑ ॥ [21]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कृ॒त्वाय॑ । सा । म॒हीम् । उ॒खाम् । मृ॒न्मयी॒मिति॑ मृत्-मयी॑म् । योनि॑म् । अ॒ग्नये॑ ॥ ताम् । पु॒त्रेभ्यः॑ । सम् । प्रेति॑ । अ॒य॒च्छ॒त् । अदि॑तिः । श्र॒पयान्॑ । इति॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

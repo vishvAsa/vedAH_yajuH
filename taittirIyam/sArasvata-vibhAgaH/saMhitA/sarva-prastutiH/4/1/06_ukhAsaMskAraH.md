@@ -48,6 +48,11 @@ title = "०६ उखासंस्कारः"
 व᳓रुणस्त्वा धूपयत्व् अङ्गिरस्व᳓त् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the Vasus fumigate thee with the Gayatri metre, in the manner of Angiras; may the Rudras fumigate thee with the Tristubh metre, in the manner of Angiras; may the Adityas fumigate thee with the Jagati metre, in the manner of Angiras; may the All-gods, common to all men, fumigate thee with the Anustubh metre, in the manner of Angiras; may Indra fumigate thee in the manner of Angiras; may Visnu fumigate thee in the manner of Angiras; may Varuna fumigate thee in the manner of Angiras.
+</details>
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 शिरोवर्तिषु सप्तसु च्छिद्रेषु संचरन्तः प्राणाः सप्तसंख्याकाः ।  
@@ -67,6 +72,11 @@ title = "०६ उखासंस्कारः"
 इन्द्र॑स्त्वा धूपयतु, अ॒ङ्गि॒र॒स्वद्विष्णु॑स्त्वा धूपयत्वङ्गिर॒स्वत्
 
 वरु॑णस्त्वा धूपयतु , +अ॒ङ्गि॒र॒स्वत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वस॑वः । त्वा॒ । धू॒प॒य॒न्तु॒ । गा॒य॒त्रेण॑ । छन्द॑सा । अ॒ङ्गि॒र॒स्वत् । रु॒द्राः । त्वा॒ । धू॒प॒य॒न्तु॒ । त्रैष्टु॑भेन । छन्द॑सा । अ॒ङ्गि॒र॒स्वत् । आ॒दि॒त्याः । त्वा॒ । धू॒प॒य॒न्तु॒ । जाग॑तेन । छन्द॑सा । अ॒ङ्गि॒र॒स्वत् । विश्वे॑ । त्वा॒ । दे॒वाः । वै॒श्वा॒न॒राः । धू॒प॒य॒न्तु॒ । आनु॑ष्टुभे॒नेत्यानु॑-स्तु॒भे॒न॒ । छन्द॑सा । अ॒ङ्गि॒र॒स्वत् । इन्द्रः॑ । त्वा॒ । धू॒प॒य॒तु॒ । अ॒ङ्गि॒र॒स्वत् । विष्णुः॑ । त्वा॒ । धू॒प॒य॒तु॒ । अ॒ङ्गि॒र॒स्वत् । वरु॑णः । त्वा॒ । धू॒प॒य॒तु॒ । अ॒ङ्गि॒र॒स्वत् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -115,9 +125,19 @@ title = "०६ उखासंस्कारः"
 ऽङ्गिरस्व᳓त् **खनत्व् अवट** ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May Aditi, connected with the All-gods, the goddess, dig thee on the abode of earth, in the manner of Angiras, O trench.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अदि॑तिस्त्वा दे॒वी वि॒श्वदे॑व्यावती पृथि॒व्यास्स॒धस्थे॑ऽङ्गिर॒स्वत्ख॑नत्ववट ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अदि॑तिः । त्वा॒ । दे॒वी । वि॒श्वदे॑व्याव॒तीति॑ वि॒श्वदे॑व्य-व॒ती॒ । पृ॒थि॒व्याः । स॒धस्थ॒ इति॑ स॒ध-स्थे॒ । अ॒ङ्गि॒र॒स्वत् । ख॒न॒तु॒ । अ॒व॒ट॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -150,9 +170,19 @@ title = "०६ उखासंस्कारः"
 ऽङ्गिरस्व᳓द्+++(=अङ्गिरस इव)+++ दधतूखे ।
 </details>
 
+<details><summary>Keith</summary>
+
+May the wives of the gods [1], the goddesses, connected with the All-gods, place thee on the abode of earth, in the manner of Angiras, O pan.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वाना॑न्त्वा॒ पत्नीः॑ [22]  दे॒वीर्वि॒श्वदे॑व्यावतीᳶ पृथि॒व्यास्स॒धस्थे॑ऽङ्गिर॒स्वद्द॑धतूखे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वाना॑म् । त्वा॒ । पत्नीः॑ । दे॒वीः । वि॒श्वदे॑व्यावती॒रिति॑ वि॒श्वदे॑व्य-व॒तीः॒ । पृ॒थि॒व्याः । स॒धस्थ॒ इति॑ स॒ध-स्थे॒ । अ॒ङ्गि॒र॒स्वत् । द॒ध॒तु॒ । उ॒खे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -188,9 +218,19 @@ title = "०६ उखासंस्कारः"
 ऽङ्गिरस्व᳓द् **अभी᳓न्धताम्** उखे।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the Dhisanas, the goddesses connected with the All-gods, kindle thee on the abode of earth, in the manner of Angiras, O pan;
+</details>
+
 <details><summary>मूलम्</summary>
 
 धि॒षणा॑स्त्वा दे॒वीर्वि॒श्वदे॑व्यावतीᳶ पृथि॒व्यास्स॒धस्थे॑ऽङ्गिर॒स्वद॒भीन्ध॑तामुखे।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धि॒षणाः॑ । त्वा॒ । दे॒वीः । वि॒श्वदे॑व्यावती॒रिति॑ वि॒श्वदे॑व्य-व॒तीः॒ । पृ॒थि॒व्याः । स॒धस्थ॒ इति॑ स॒ध-स्थे॒ । अ॒ङ्गि॒र॒स्वत् । अ॒भीति॑ । इ॒न्ध॒ता॒म् । उ॒खे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -206,9 +246,19 @@ title = "०६ उखासंस्कारः"
 ऽङ्गिरस्व᳓च् **छ्रपयन्तूखे** ।  
 </details>
 
+<details><summary>Keith</summary>
+
+may the wives, the goddesses, connected with the All-gods, prepare thee on the abode of earth, in the manner of Angiras, O pan;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्नास्त्वा॑ दे॒वीर्वि॒श्वदे॑व्यावतीᳶ पृथि॒व्यास्स॒धस्थे॑ऽङ्गिर॒स्वच्छ्र॑पयन्तूखे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ग्नाः । त्वा॒ । दे॒वीः । वि॒श्वदे॑व्यावती॒रिति॑ वि॒श्वदे॑व्य-व॒तीः॒ । पृ॒थि॒व्याः । स॒धस्थ॒ इति॑ स॒ध-स्थे॒ । अ॒ङ्गि॒र॒स्वत् । श्र॒प॒य॒न्तु॒ । उ॒खे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -221,9 +271,19 @@ title = "०६ उखासंस्कारः"
 व᳓रूत्रयः [त्वा देवी᳓र्विश्व᳓देव्यावतीᳶ पृथिव्या᳓स्सध᳓स्थेऽङ्गिरस्व᳓त्पचन्तूखे ।]
 </details>
 
+<details><summary>Keith</summary>
+
+may the protectors, the women,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वरू॑त्रयः {त्वा दे॒वीर्वि॒श्वदे॑व्यावतीᳶ पृथि॒व्यास्स॒धस्थे॑ऽङ्गिर॒स्वत्प॑चन्तूखे ।}
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वरू॑त्रयः । जन॑यः । त्वा॒ । दे॒वीः । वि॒श्वदे॑व्यावती॒रिति॑ वि॒श्वदे॑व्य-व॒तीः॒ । पृ॒थि॒व्याः । स॒धस्थ॒ इति॑ स॒ध-स्थे॒ । अ॒ङ्गि॒र॒स्वत् । प॒च॒न्तु॒ । उ॒खे॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -245,9 +305,19 @@ title = "०६ उखासंस्कारः"
 ऽङ्गिरस्व᳓त् **पचन्तूखे** ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the goddesses, connected with the All-gods, cook thee on the abode of earth, in the manner of Angiras, O pan.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जन॑यस्त्वा दे॒वीर्वि॒श्वदे॑व्यावतीᳶ पृथि॒व्यास्स॒धस्थे॑ऽङ्गिर॒स्वत्प॑चन्तूखे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जन॑यः । त्वा॒ । दे॒वीः । वि॒श्वदे॑व्यावती॒रिति॑ वि॒श्वदे॑व्य-व॒तीः॒ । पृ॒थि॒व्याः । स॒धस्थ॒ इति॑ स॒ध-स्थे॒ । अ॒ङ्गि॒र॒स्वत् । प॒च॒न्तु॒ । उ॒खे॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -260,7 +330,7 @@ title = "०६ उखासंस्कारः"
 कल्पः — ‘मित्रैतामुखां पचेति पच्यमानां तिसृभिर्मैत्रीभिरुपचरति’ इति।    
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/02_mitraitAm_ukhAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/02_mitraitAm_ukhAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -274,9 +344,19 @@ title = "०६ उखासंस्कारः"
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/02_mitraitAm_ukhAm.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+O Mitra, cook this pan; may it not break. This I place around thee, to prevent breaking.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मित्रै॒तामु॒खाम्प॑चै॒षा मा भे॑दि । ए॒तान्ते॒ परि॑ ददा॒म्यभि॑त्त्यै ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मित्र॑ । ए॒ताम् । उ॒खाम् । प॒च॒ । ए॒षा । मा । भे॒दि॒ ॥ ए॒ताम् । ते॒ । परीति॑ । द॒दा॒मि॒ । अभि॑त्त्यै ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -291,7 +371,7 @@ title = "०६ उखासंस्कारः"
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/03_abhImAm_mahinA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/03_abhImAm_mahinA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -311,10 +391,22 @@ title = "०६ उखासंस्कारः"
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/03_abhImAm_mahinA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Mitra, extending, compasseth  
+This sky in greatness [2],  
+And the earth with his fame.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒भीमाम् [23]  म॒हि॒ना दिव॑म्मि॒त्रो ब॑भूव स॒प्रथाः॑ ।  
 उ॒त श्रव॑सा पृथि॒वीम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भीति॑ । इ॒माम् । म॒हि॒ना । दिव॑म् । मि॒त्रः । ब॒भू॒व॒ । स॒प्रथा॒ इति॑ स-प्रथाः॑ ॥ उ॒त । श्रव॑सा । पृ॒थि॒वीम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -325,7 +417,7 @@ title = "०६ उखासंस्कारः"
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -340,10 +432,22 @@ title = "०६ उखासंस्कारः"
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+The fame of Mitra, supporter of the people,  
+Of the god is eternal,  
+True, and most varied in fame.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒त्रस्य॑ चर्षणी॒धृत॒श्श्रवो॑ दे॒वस्य॑ सान॒सिम् ।  
 द्यु॒म्नञ्चि॒त्रश्र॑वस्तमम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मि॒त्रस्य॑ । च॒र्ष॒णी॒धृत॒ इति॑ चर्षणि-धृतः॑ । श्रवः॑ । दे॒वस्य॑ । सा॒न॒सिम् ॥ द्यु॒म्नम् । चि॒त्रश्र॑वस्तम॒मिति॑ चि॒त्रश्र॑वः-त॒म॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -366,7 +470,7 @@ title = "०६ उखासंस्कारः"
 कल्पः – “पक्वां देवस्त्वा सवितोद्वपत्वित्युद्वास्य” इति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/05_devastvA_savitodvapatu.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/05_devastvA_savitodvapatu.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -381,10 +485,22 @@ title = "०६ उखासंस्कारः"
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/05_devastvA_savitodvapatu.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+May the god Savitr dig thee out,  
+With fair hands, fair fingers,  
+Fair arms, with his might.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वस्त्वा॑ सवि॒तोद्व॑पतु सुपा॒णिस्स्व॑ङ्गु॒रिः ।  
 सु॒बा॒हुरु॒त शक्त्या॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वः । त्वा॒ । स॒वि॒ता । उदिति॑ । व॒प॒तु॒ । सु॒पा॒णिरिति॑ सु-पा॒णिः । स्व॒ङ्गुरिरिति॑ सु-अ॒ङ्गु॒रिः ॥ सु॒बा॒हुरिति॑ सु-बा॒हुः । उ॒त । शक्त्या॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -412,10 +528,23 @@ title = "०६ उखासंस्कारः"
 **उ᳓त्तिष्ठ** बृहती᳓ **भवोर्ध्वा᳓ तिष्ठ** ध्रुवा᳓ त्व᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Breaking not, O earth,  
+Do thou fill the regions, the quarters;  
+Arise, become great,  
+Stand upright, be thou firm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप॑द्यमाना पृथि॒व्याशा॒ दिश॒ आ पृ॑ण ।  
 उत्ति॑ष्ठ बृह॒ती भ॑वो॒र्ध्वा ति॑ष्ठ ध्रु॒वा त्वम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अप॑द्यमाना । पृ॒थि॒वि॒ । आशाः॑ । दिशः॑ । एति॑ । पृ॒ण॒ ॥ उदिति॑ । ति॒ष्ठ॒ । बृ॒ह॒ती । भ॒व॒ । ऊ॒र्ध्वा । ति॒ष्ठ॒ । ध्रु॒वा । त्वम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -456,6 +585,11 @@ title = "०६ उखासंस्कारः"
 आ᳓नुष्टुभेन छ᳓न्दसाऽङ्गिरस्व᳓त् ॥
 </details>
 
+<details><summary>Keith</summary>
+
+May the Vasus fill thee with the Gayatri metre, in the manner of Angiras: may the Rudras fill thee with the Tristubh metre, in the manner of Angiras; may the Adityas fill thee with the Jagati metre, in the manner of Angiras; may the All-gods, common to all men, fill thee with the Anustubh metre, in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वस॑व॒स्त्वाच्छृ॑न्दन्तु गाय॒त्रेण॒ छन्द॑साऽङ्गिर॒स्वत् ,
@@ -465,6 +599,11 @@ title = "०६ उखासंस्कारः"
 आ॒दि॒त्यास्त्वाच्छृ॑न्दन्तु॒ जाग॑तेन॒ छन्द॑साऽङ्गिर॒स्वत् , ।  
 
 विश्वे॑ त्वा दे॒वा वै॑श्वान॒रा आच्छृ॑न्द॒न्तु, आनु॑ष्टुभेन॒ छन्द॑साऽङ्गिर॒स्वत् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वस॑वः । त्वा॒ । एति॑ । छृ॒न्द॒न्तु॒ । गा॒य॒त्रेण॑ । छन्द॑सा । अ॒ङ्गि॒र॒स्वत् । रु॒द्राः । त्वा॒ । एति॑ । छृ॒न्द॒न्तु॒ । त्रैष्टु॑भेन । छन्द॑सा । अ॒ङ्गि॒र॒स्वत् । आ॒दि॒त्याः । त्वा॒ । एति॑ । छृ॒न्द॒न्तु॒ । जाग॑तेन । छन्द॑सा । अ॒ङ्गि॒र॒स्वत् । विश्वे॑ । त्वा॒ । दे॒वाः । वै॒श्वा॒न॒राः । एति॑ । छृ॒न्द॒न्तु॒ । आनु॑ष्टुभे॒नेत्यानु॑-स्तु॒भे॒न॒ । छन्द॑सा । अ॒ङ्गि॒र॒स्वत् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

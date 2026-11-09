@@ -20,10 +20,22 @@ title = "०७ अश्वस्तोमीया मन्त्राः"
 श्येन᳓स्य पक्षा᳓ हरिण᳓स्य बाहू᳓ उपस्तु᳓त्यम्म᳓हि जात᳓न्ते अर्वन् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+When first thou didst cry on birth,  
+Arising from the ocean or the dust,  
+The wings of the eagle, the limbs of the gazelle, That is thy famed birth, O steed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदक्र॑न्दᳶ प्रथ॒मञ्जाय॑मान उ॒द्यन्त्स॑मु॒द्रादु॒त वा॒ पुरी॑षात् ।  
 श्ये॒नस्य॑ प॒क्षा ह॑रि॒णस्य॑ बा॒हू उ॑प॒स्तुत्य॒म्महि॑ जा॒तन्ते॑ अर्वन् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । अक्र॑न्दः । प्र॒थ॒मम् । जाय॑मानः । उ॒द्यन्नित्यु॑त्-यन् । स॒मु॒द्रात् । उ॒त । वा॒ । पुरी॑षात् ॥ श्ये॒नस्य॑ । प॒क्षा । ह॒रि॒णस्य॑ । बा॒हू इति॑ । उ॒प॒स्तुत्य॒मित्यु॑प-स्तुत्य॑म् । महि॑ । जा॒तम् । ते॒ । अ॒र्व॒न् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -50,10 +62,22 @@ title = "०७ अश्वस्तोमीया मन्त्राः"
 गन्धर्वो᳓ अस्य रशना᳓मगृभ्णात्सू᳓राद᳓श्वव्ँवसवो नि᳓रतष्ट ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The steed given by Yama hath Trita yoked, It Indra first mounted,  
+The bridle of it the Gandharva grasped;  
+O Vasus, from the sun ye fashioned the steed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒मेन॑ द॒त्तन्त्रि॒त ए॑नमायुन॒गिन्द्र॑ एणम्प्रथ॒मो अध्य॑तिष्ठत् ।  
 ग॒न्ध॒र्वो अ॑स्य रश॒नाम॑गृभ्णा॒त्सूरा॒दश्वव्ँ॑वसवो॒ निर॑तष्ट ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒मेन॑ । द॒त्तम् । त्रि॒तः । ए॒न॒म् । आ॒यु॒न॒क् । इन्द्र॑ । ए॒न॒म् । प्र॒थ॒मः । अधीति॑ । अ॒ति॒ष्ठ॒त् ॥ ग॒न्ध॒र्वः । अ॒स्य॒ । र॒श॒नाम् । अ॒गृ॒भ्णा॒त् । सूरा॑त् । अश्व॑म् । व॒स॒वः॒ । निरिति॑ । अ॒त॒ष्ट॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -78,10 +102,21 @@ title = "०७ अश्वस्तोमीया मन्त्राः"
 अ᳓सि सो᳓मेन सम᳓या वि᳓पृक्तः [34]  आहु᳓स्ते त्री᳓णि दिवि᳓ ब᳓न्धनानि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art Yama, O steed, thou art Aditya; Thou art Trita by secret ordinance;  
+Thou art entirely separated from Soma [1]; Three, they say, are thy bonds in the sky.
+</details>
+
 <details><summary>मूलम्</summary>
 
 असि॑ य॒मो अस्या॑दि॒त्यो अ॑र्व॒न्नसि॑ त्रि॒तो गुह्ये॑न व्र॒तेन॑ ।  
 असि॒ सोमे॑न स॒मया॒ विपृ॑क्तः [34]  आ॒हुस्ते॒ त्रीणि॑ दि॒वि बन्ध॑नानि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+असि॑ । य॒मः । असि॑ । आ॒दि॒त्यः । अ॒र्व॒न् । असि॑ । त्रि॒तः । गुह्ये॑न । व्र॒तेन॑ ॥ असि॑ । सोमे॑न । स॒मया॑ । विपृ॑क्त॒ इति॒ वि-पृ॒क्तः॒ । आ॒हुः । ते॒ । त्रीणि॑ । दि॒वि । बन्ध॑नानि ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -112,10 +147,20 @@ title = "०७ अश्वस्तोमीया मन्त्राः"
 उते᳓व मे व᳓रुणश्छन्त्स्यर्वन्य᳓त्रा त आहुᳶ᳓ परम᳓ञ्जनि᳓त्रम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Three, they say, are thy bonds in the sky, Three in the waters, three within the ocean And like Varuna to me thou appearest, O steed, Where, say they, is thy highest birthplace.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रीणि॑ त आहुर्दि॒वि बन्ध॑नानि॒ त्रीण्य॒प्सु त्रीण्य॒न्तस्स॑मु॒द्रे ।  
 उ॒तेव॑ मे॒ वरु॑णश्छन्त्स्यर्व॒न्यत्रा॑ त आ॒हुᳶ प॑र॒मञ्ज॒नित्र॑म् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रीणि॑ । ते॒ । आ॒हुः॒ । दि॒वि । बन्ध॑नानि । त्रीणि॑ । अ॒प्स्वित्य॑प्-सु । त्रीणि॑ । अ॒न्तः । स॒मु॒द्रे ॥ उ॒त । इ॒व॒ । मे॒ । वरु॑णः । छ॒न्त्सि॒ । अ॒र्व॒न् । यत्र॑ । ते॒ । आ॒हुः । प॒र॒मम् । ज॒नित्र॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -136,10 +181,22 @@ title = "०७ अश्वस्तोमीया मन्त्राः"
 अ᳓त्रा ते भद्रा᳓ रशना᳓ अपश्यमृत᳓स्य या᳓ अभिर᳓क्षन्ति गोपाः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+These, O swift one, are thy cleansings,  
+These the placings down of thy hooves in victory; Here I have seen thy fair ropes,  
+Which the guards of holy order guard.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मा ते॑ वाजिन्नव॒मार्ज॑नानी॒मा श॒फानाँ॑ सनि॒तुर्नि॒धाना॑ ।  
 अत्रा॑ ते भ॒द्रा र॑श॒ना अ॑पश्यमृ॒तस्य॒ या अ॑भि॒रक्ष॑न्ति गो॒पाः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒मा । ते॒ । वा॒जि॒न् । अ॒व॒मार्ज॑ना॒नीत्य॑व-मार्ज॑नानि । इ॒मा । श॒फाना॑म् । स॒नि॒तुः । नि॒धानेति॑ नि-धाना॑ ॥ अत्र॑ । ते॒ । भ॒द्राः । र॒श॒नाः । अ॒प॒श्य॒म् । ऋ॒तस्य॑ । याः । अ॒भि॒रक्ष॒न्तीत्य॑भि-रक्ष॑न्ति । गो॒पा इति॑ गो-पाः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -162,10 +219,21 @@ title = "०७ अश्वस्तोमीया मन्त्राः"
 शि᳓रो अपश्यम्पथि᳓भिस्सुगे᳓भिररेणु᳓भिर्जे᳓हमानम्पतत्रि᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The self of thee with my mind I perceived from afar, Flying with wings from below through the sky [2]; Thy head I saw speeding with wings  
+On paths fair and dustless.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒त्मान॑न्ते॒ मन॑सा॒राद॑जानाम॒वो दि॒वा [35]  प॒तय॑न्तम्पत॒ङ्गम् ।  
 शिरो॑ अपश्यम्प॒थिभि॑स्सु॒गेभि॑ररे॒णुभि॒र्जेह॑मानम्पत॒त्रि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒त्मान॑म् । ते॒ । मन॑सा । आ॒रात् । अ॒जा॒ना॒म् । अ॒वः । दि॒वा । प॒तय॑न्तम् । प॒त॒ङ्गम् ॥ शिरः॑ । अ॒प॒श्य॒म् । प॒थिभि॒रिति॑ प॒थि-भिः॒ । सु॒गेभि॒रिति॑ सु-गेभिः॑ । अ॒रे॒णुभि॒रित्य॑रे॒णु-भिः॒ । जेह॑मानम् । प॒त॒त्रि ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -193,10 +261,22 @@ title = "०७ अश्वस्तोमीया मन्त्राः"
 यदा᳓ ते म᳓र्तो अ᳓नु भो᳓गमा᳓नडा᳓दि᳓द्ग्र᳓सिष्ठ ओ᳓षधीरजीगः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Here I saw thy highest form,  
+Eager to win food in the footstep of the cow; When a mortal man pleaseth thy taste,  
+Then most greedily dost thou consume the plants.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अत्रा॑ ते रू॒पमु॑त्त॒मम॑पश्य॒ञ्जिगी॑षमाणमि॒ष आ प॒दे गोः ।  
 य॒दा ते॒ मर्तो॒ अनु॒ भोग॒मान॒डादिद्ग्रसि॑ष्ठ॒ ओष॑धीरजीगः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अत्र॑ । ते॒ । रू॒पम् । उ॒त्त॒ममित्यु॑त्-त॒मम् । अ॒प॒श्य॒म् । जिगी॑षमाणम् । इ॒षः । एति॑ । प॒दे । गोः ॥ य॒दा । ते॒ । मर्तः॑ । अन्विति॑ । भोग॑म् । आन॑ट् । आत् । इत् । ग्रसि॑ष्ठः । ओष॑धीः । अ॒जी॒गः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -217,16 +297,26 @@ title = "०७ अश्वस्तोमीया मन्त्राः"
 अथाष्टमीमृचमाह— अनु त्वेति।
 </details>
 
-^<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ᳓नु त्वा र᳓थो अ᳓नु म᳓र्यो अर्वन्न᳓नु गा᳓वो᳓ऽनु भ᳓गᳵ कनी᳓नाम् ।  
 अ᳓नु व्रा᳓तासस्त᳓व सख्य᳓मीयुर᳓नु देवा᳓ ममिरे वीर्य᳙म् [36]  ते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Thee follows the chariot, thee the lover, O steed, Thee the kine, thee the portion of maidens; Thy friendship the companies have sought; The gods have imitated thy strength [3].
 </details>
 
 <details><summary>मूलम्</summary>
 
 अनु॑ त्वा॒ रथो॒ अनु॒ मर्यो॑ अर्व॒न्ननु॒ गावोऽनु॒ भग॑ᳵ क॒नीना॑म् ।  
 अनु॒ व्राता॑स॒स्तव॑ स॒ख्यमी॑यु॒रनु॑ दे॒वा म॑मिरे वी॒र्य॑म् [36]  ते॒ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अन्विति॑ । त्वा॒ । रथः॑ । अन्विति॑ । मर्यः॑ । अ॒र्व॒न् । अन्विति॑ । गावः॑ । अन्विति॑ । भगः॑ । क॒नीना॑म् ॥ अन्विति॑ । व्राता॑सः । तव॑ । स॒ख्यम् । ई॒युः॒ । अन्विति॑ । दे॒वाः । म॒मि॒रे॒ । वी॒र्य॑म् । ते॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -253,10 +343,23 @@ title = "०७ अश्वस्तोमीया मन्त्राः"
 देवा᳓ इ᳓दस्य हविर᳓द्यमायन्यो᳓ अ᳓र्वन्तम्प्रथमो᳓ अध्य᳓तिष्ठत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Golden his horns, iron his feet;  
+Swift as thought, Indra was his inferior;  
+The gods came to eat his oblation  
+Who first did master the steed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हिर॑ण्यशृ॒ङ्गोऽयो॑ अस्य॒ पादा॒ मनो॑जवा॒ अव॑र॒ इन्द्र॑ आसीत् ।  
 दे॒वा इद॑स्य हवि॒रद्य॑माय॒न्यो अर्व॑न्तम्प्रथ॒मो अ॒ध्यति॑ष्ठत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+हिर॑ण्यशृङ्ग॒ इति॒ हिर॑ण्य-शृ॒ङ्गः॒ । अयः॑ । अ॒स्य॒ । पादाः॑ । मनो॑जवा॒ इति॒ मनः॑-ज॒वाः॒ । अव॑रः । इन्द्रः॑ । आ॒सी॒त् ॥ दे॒वाः । इत् । अ॒स्य॒ । ह॒वि॒रद्य॒मिति॑ हविः-अद्य॑म् । आ॒य॒न् । यः । अर्व॑न्तम् । प्र॒थ॒मः । अ॒ध्यति॑ष्ठ॒दित्य॑धि-अति॑ष्ठत् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -279,10 +382,26 @@ title = "०७ अश्वस्तोमीया मन्त्राः"
 हँसा᳓ इव श्रेणिशो᳓ यतन्ते य᳓दा᳓क्षिषुर्दिव्य᳓म᳓ज्मम᳓श्वाः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Full haunched, of slender middle,  
+The heroic divine steeds,  
+Vie together like cranes in rows,  
+When the horses reach the divine coursing-place 1 Thy body is fain to fly, O steed;  
+Thy thought is like the blowing wind;  
+Thy horns are scattered in many places,  
+They wander busy in the woods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ई॒र्मान्ता॑स॒स्सिलि॑कमध्यमास॒स्सँ शूर॑णासो दि॒व्यासो॒ अत्याः॑ ।  
 हँ॒सा इ॑व श्रेणि॒शो य॑तन्ते॒ यदाक्षि॑षुर्दि॒व्यमज्म॒मश्वाः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ई॒र्मान्ता॑स॒ इती॒र्म-अ॒न्ता॒सः॒ । सिलि॑कमध्यमास॒ इति॒ सिलि॑क-म॒ध्य॒मा॒सः॒ । समिति॑ । शूर॑णासः । दि॒व्यासः॑ । अत्याः॑ ॥ हँ॒साः । इ॒व॒ । श्रे॒णि॒श इति॑ श्रेणि-शः । य॒त॒न्ते॒ । यत् । आक्षि॑षुः । दि॒व्यम् । अज्म॑म् । अश्वाः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -309,10 +428,23 @@ title = "०७ अश्वस्तोमीया मन्त्राः"
 त᳓व शृ᳓ङ्गाणि वि᳓ष्ठिता पुरुत्रा᳓रण्येषु ज᳓र्भुराणा चरन्ति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thy body is fain to fly, O steed;  
+Thy thought is like the blowing wind;  
+Thy horns are scattered in many places,  
+They wander busy in the woods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तव॒ शरी॑रम्पतयि॒ष्ण्व॑र्व॒न्तव॑ चि॒त्तव्ँवात॑ इव॒ ध्रजी॑मान् ।  
 तव॒ शृङ्गा॑णि॒ विष्ठि॑ता पुरु॒त्रार॑ण्येषु॒ जर्भु॑राणा चरन्ति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तव॑ । शरी॑रम् । प॒त॒यि॒ष्णु । अ॒र्व॒न् । तव॑ । चि॒त्तम् । वातः॑ । इ॒व॒ । ध्रजी॑मान् ॥ तव॑ । शृङ्गा॑णि । विष्ठि॒तेति॒ वि-स्थि॒ता॒ । पु॒रु॒त्रेति॑ पुरु-त्रा । अर॑ण्येषु । जर्भु॑राणा । च॒र॒न्ति॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -330,10 +462,22 @@ title = "०७ अश्वस्तोमीया मन्त्राः"
 अजᳶ᳓ पुरो᳓ नीयते ना᳓भिरस्या᳓नु पश्चा᳓त्कव᳓यो यन्ति रेभाः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+To [4] the slaughter the swift steed hath come, Pondering with pious mind;  
+The goat, his kin, is led before,  
+Behind him come the sages to sing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॑ [37]  प्रागा॒च्छस॑नव्ँवा॒ज्यर्वा॑ देव॒द्रीचा॒ मन॑सा॒ दीध्या॑नः ।  
 अ॒जᳶ पु॒रो नी॑यते॒ नाभि॑र॒स्यानु॑ प॒श्चात्क॒वयो॑ यन्ति रे॒भाः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उप॑ । प्रेति॑ । अ॒गा॒त् । शस॑नम् । वा॒जी । अर्वा॑ । दे॒व॒द्रीचेति॑ देव-द्रीचा॑ । मन॑सा । दीध्या॑नः ॥ अ॒जः । पु॒रः । नी॒य॒ते॒ । नाभिः॑ । अ॒स्य॒ । अन्विति॑ । प॒श्चात् । क॒वयः॑ । य॒न्ति॒ । रे॒भाः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -352,10 +496,21 @@ title = "०७ अश्वस्तोमीया मन्त्राः"
 अद्या᳓ देवा᳓ञ्जु᳓ष्टतमो हि᳓ गम्या᳓ अ᳓था᳓ शास्ते दाशु᳓षे वा᳓र्याणि ॥ [38]
 </details>
 
+<details><summary>Keith</summary>
+
+To his highest abode hath the steed come, To his father and his mother;  
+To-day do thou go, most welcome, to the gods; Then boons shall he assign to the generous.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॒ प्रागा॑त्पर॒मय्ँयत्स॒धस्थ॒मर्वाँ॒ अच्छा॑ पि॒तर॑म्मा॒तर॑ञ्च ।  
 अ॒द्या दे॒वाञ्जुष्ट॑तमो॒ हि ग॒म्या अथा शा॑स्ते दा॒शुषे॒ वार्या॑णि ॥ [38]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उप॑ । प्रेति॑ । अ॒गा॒त् । प॒र॒मम् । यत् । स॒धस्थ॒मिति॑ स॒ध-स्थ॒म् । अर्वान्॑ । अच्छ॑ । पि॒तर॑म् । मा॒तर॑म् । च॒ ॥ अ॒द्य । दे॒वान् । जुष्ट॑तम॒ इति॒ जुष्ट॑-त॒मः॒ । हि । ग॒म्याः । अथ॑ । एति॑ । शा॒स्ते॒ । दा॒शुषे॑ । वार्या॑णि ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

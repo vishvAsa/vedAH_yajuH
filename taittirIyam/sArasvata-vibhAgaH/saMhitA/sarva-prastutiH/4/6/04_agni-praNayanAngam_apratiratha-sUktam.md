@@ -7,7 +7,7 @@ title = "०४ अग्निप्रणयनाङ्गमप्रति�
 चतुर्थकाण्डे षष्ठप्रपाठके चतुर्थोऽनुवाकः
 ## 01 आशुः शिशानो - त्रिष्टुप्
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/01_AshuH_shishAno.md">
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/01_AshuH_shishAno.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -19,6 +19,14 @@ title = "०४ अग्निप्रणयनाङ्गमप्रति�
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Swift, like a bull sharpening his horns, the warrior  
+Fond of slaughter, disturber of the people,  
+Bellowing, unwinking, sole hero,  
+Indra at once conquered a hundred hosts.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/01_AshuH_shishAno.md">
 
@@ -320,7 +328,7 @@ Der schnelle, der gleich wildem Stier erregt ist, der starke Kämpfer, der die M
 अथ द्वितीयामाह— संक्रन्दनेनेति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -332,6 +340,14 @@ Der schnelle, der gleich wildem Stier erregt ist, der starke Kämpfer, der die M
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+With the bellowing, unwinking, conquering,  
+Fighter, hard to overthrow, and daring Indra,  
+With Indra do ye conquer, do ye withstand  
+The foe, O heroes, with the strong one who holdeth the arrow in his hands.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
 
@@ -609,7 +625,7 @@ Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt vo
 
 ## 03 स इषुहस्तैः - त्रिष्टुप्
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/03_sa_iShuhastaiH.md">
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/03_sa_iShuhastaiH.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -621,6 +637,13 @@ Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt vo
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+He is mighty with those who have arrows in their hands and quivers, Indra who joineth hosts with his band,  
+Conquering in combat, drinker of Soma, with many a band,  
+With bow uplifted, and shooter with well-drawn arrows.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/03_sa_iShuhastaiH.md">
 
@@ -931,7 +954,7 @@ Mit seiner Schar, die Pfeile trägt und Köcher, theilt seine Kämpfe der gewalt
 अथ चतुर्थीमाह— बृहस्पते परीति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/04_bRhaspate_pari.md">
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/04_bRhaspate_pari.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -943,6 +966,14 @@ Mit seiner Schar, die Pfeile trägt und Köcher, theilt seine Kämpfe der gewalt
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+O Brhaspati, fly round with thy chariot [1],  
+Slaying the foe, driving away the enemy;  
+Defeating hosts, destroyer, victor in battle,  
+Be thou protector of our chariots.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/04_bRhaspate_pari.md">
 
@@ -1231,7 +1262,7 @@ Brihaspati, flieg' her mit deinem Wagen, Gespenster tödtend, jeden Feind verjag
 अथ पञ्चमीमाह— गोत्रभिदभिति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/06_gotrabhidaM_govidaM.md">
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/06_gotrabhidaM_govidaM.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -1243,6 +1274,13 @@ Brihaspati, flieg' her mit deinem Wagen, Gespenster tödtend, jeden Feind verjag
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+The cleaver of the cowstalls, finder of the cows, with the thunderbolt on his arm, Victorious, crushing in might a host,  
+Be heroes, O my fellows, like him;  
+O comrades, follow in Indra's footsteps.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/06_gotrabhidaM_govidaM.md">
 
@@ -1550,7 +1588,7 @@ Der blitzbewehrt den Stall erschliesst, die Kühe erringt und Bahn sich bricht m
 अथ षष्ठीमाह— बलविज्ञाय इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/05_balavijnAyaH_sthaviraH.md">
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/05_balavijnAyaH_sthaviraH.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -1562,6 +1600,14 @@ Der blitzbewehrt den Stall erschliesst, die Kühe erringt und Bahn sich bricht m
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Conspicuous by might, strong, heroic,  
+Enduring, mighty, steadfast, dread,  
+Surpassing heroes and warriors born of strength,  
+Do thou, winning kine, mount, O Indra, thy victorious car.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/05_balavijnAyaH_sthaviraH.md">
 
@@ -1879,7 +1925,7 @@ Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark 
 अथ सप्तमीमाह— अभिगोत्राणीति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/07_abhi_gotrANi.md">
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/07_abhi_gotrANi.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -1891,6 +1937,14 @@ Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark 
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+In might penetrating the cowstalls,  
+Impetuous [2], the hero, Indra, with wrath a hundredfold,  
+Hard to resist, enduring in battle, unovercomable,  
+May he aid our armies in the battles.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/07_abhi_gotrANi.md">
 
@@ -2168,7 +2222,7 @@ Der mit Gewalt sich in die Ställe eintaucht, Held Indra ohne Mitleid vielfach z
 
 ## 08 इन्द्र आसाम् - त्रिष्टुप्
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/08_indra_AsAM.md">
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/08_indra_AsAM.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -2180,6 +2234,14 @@ Der mit Gewalt sich in die Ställe eintaucht, Held Indra ohne Mitleid vielfach z
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Indra (be) their leader, and let Brhaspati,  
+The sacrificial fee, the sacrifice and Soma go before;  
+Let the Maruts precede the hosts divine,  
+That overthrow and conquer.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/08_indra_AsAM.md">
 
@@ -2461,7 +2523,7 @@ Ihr Führer sei uns Indra und Brihaspati, vor dringe Opfer, Opferlohn und Soma, 
 अथाष्टमीमाह — इन्द्रस्य वृष्ण इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/09_indrasya_vRShNo.md">
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/09_indrasya_vRShNo.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -2473,6 +2535,14 @@ Ihr Führer sei uns Indra und Brihaspati, vor dringe Opfer, Opferlohn und Soma, 
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Of Indra, the strong, of Varuna, the king,  
+Of the Adityas, of the Maruts the mighty host--  
+The voice hath ascended of the gods  
+Great-hearted that shake the worlds as they conquer.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/09_indrasya_vRShNo.md">
 
@@ -2743,7 +2813,7 @@ Des Königs Varuna, des Helden Indra, der Maruts, der Aditja's Schar ist mächti
 
 ## 10 अस्माकमिन्द्रः समृतेषु - त्रिष्टुप्
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/11_asmAkamindraH_samRteShu.md">
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/11_asmAkamindraH_samRteShu.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -2755,6 +2825,14 @@ Des Königs Varuna, des Helden Indra, der Maruts, der Aditja's Schar ist mächti
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Ours (be) Indra, when the standards meet;  
+Ours be the arrows that conquer [3];  
+Ours be the heroes who are victors,  
+And us do ye aid, O gods, at our invocations.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/11_asmAkamindraH_samRteShu.md">
 
@@ -3060,7 +3138,7 @@ Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen,
 अथ तत्रैव विकल्पिताः पञ्चर्च उच्यन्ते— तत्र प्रथमामाह—  २१८२ उद्धर्षयेति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -3072,6 +3150,15 @@ Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen,
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Exalt our weapons, O bounteous one,  
+Exalt the might of my warriors;  
+Exalt the strength of the steed, O slayer of Vrtra,
+
+Let the sound of the conquering chariots arise.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
 
@@ -3358,7 +3445,7 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 
 ## 12 उप प्रेत
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/201_upa_preta.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/201_upa_preta.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3374,10 +3461,23 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/201_upa_preta.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Go ye forward, O heroes; conquer;  
+Be your arms strong;  
+May Indra accord you protection  
+That ye may be unassailable.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॒ प्रेत॒ जय॑ता नरस्स्थि॒रा व॑स्सन्तु बा॒हवः॑ ।  
 इन्द्रो॑ व॒श्शर्म॑ यच्छत्वनाधृ॒ष्या यथाऽस॑थ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उप॑ । प्रेति॑ । इ॒त॒ । जय॑त । न॒रः॒ । स्थि॒राः । वः॒ । स॒न्तु॒ । बा॒हवः॑ ॥ इन्द्रः॑ । वः॒ । शर्म॑ । य॒च्छ॒तु॒ । अ॒ना॒धृ॒ष्या इत्य॑ना-धृ॒ष्याः । यथा॑ । अस॑थ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -3393,7 +3493,7 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 
 ## 13 अव॑सृष्टा॒ परा॑ पत॒
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/204_avasRShTA_parA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/204_avasRShTA_parA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3409,10 +3509,23 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/204_avasRShTA_parA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Let loose, fly forward,  
+O arrow, expelled with holy power;  
+Go to our foes, and enter [4] them;  
+Not one of them do thou spare.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अव॑सृष्टा॒ परा॑ पत॒ शर॑व्ये॒ ब्रह्म॑सँशिता ।  
 गच्छा॒मित्रा॒न्प्र [19]  वि॒श॒ मैषा॒ङ्कञ्च॒नोच्छि॑षः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अव॑सृ॒ष्टेत्यव॑-सृ॒ष्टा॒ । परेति॑ । प॒ते॒ । शर॑व्ये । ब्रह्म॑सँशि॒तेति॒ ब्रह्म॑-सँ॒शि॒ता॒ ॥ गच्छ॑ । अ॒मित्रान्॑ । प्रेति॑ । वि॒श॒ । मा । ए॒षा॒म् । कम् । च॒न ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -3430,7 +3543,7 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 
 ## 14 मर्मा॑णि ते॒
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/207_marmANi_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/207_marmANi_te.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3446,10 +3559,23 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/207_marmANi_te.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Thy vital parts I clothe with armour;  
+May Soma, the king, cover thee with immortality,  
+Space broader than broad be thine;  
+May the gods take delight in thy victory.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मर्मा॑णि ते॒ वर्म॑भिश्छादयामि॒ सोम॑स्त्वा॒ राजा॒मृते॑ना॒भि व॑स्ताम् ।  
 उ॒रोर्वरी॑यो॒ वरि॑वस्ते अस्तु॒ जय॑न्त॒न्त्वामनु॑ मदन्तु दे॒वाः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मर्मा॑णि । ते॒ । वर्म॑भि॒रिति॒ वर्म॑-भिः॒ । छा॒द॒या॒मि॒ । सोमः॑ । त्वा॒ । राजा॑ । अ॒मृते॑न । अ॒भीति॑ । व॒स्ता॒म् ॥ उ॒रोः । वरी॑यः । वरि॑वः । ते॒ । अ॒स्तु॒ । जय॑न्तम् । त्वाम् । अन्विति॑ । म॒द॒न्तु॒ । दे॒वाः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -3471,10 +3597,23 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 विश्वाहा᳓ **श᳓र्म यच्छतु** ॥ [20]
 </details>
 
+<details><summary>Keith</summary>
+
+When the arrows fly together  
+Like boys unshorn,  
+Then may Indra, slayer of foes,  
+Accord us protection for ever.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्र॑ बा॒णास्स॒म्पत॑न्ति कुमा॒रा वि॑शि॒खा इ॑व ।  
 इन्द्रो॑ न॒स्तत्र॑ वृत्र॒हा वि॑श्वा॒हा शर्म॑ यच्छतु ॥ [20]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत्र॑ । बा॒णाः । स॒म्पत॒न्तीति॑ सम्-पत॑न्ति । कु॒मा॒राः । वि॒शि॒खा इति॑ वि-शि॒खाः । इ॒व॒ ॥ इन्द्रः॑ । नः॒ । तत्र॑ । वृ॒त्र॒हेति॑ वृत्र-हा । वि॒श्वा॒हेति॑ विश्व-हा । शर्म॑ । य॒च्छ॒तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -51,6 +51,11 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 +++(त्वं)+++ अश्वश्छ᳓न्दः  +++(असि)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+(Thou art) Ma metre, Prama metre, Pratima metre, Asrivis metre, Pankti metre, Usnih metre, Brhati metre, Anustubh metre, Viraj metre, Gayatri metre, Tristubh metre, Jagati metre. (Thou art) earth metre, atmosphere metre, sky metre, seasons metre, Naksatras metre, mind metre, speech metre, ploughing metre, gold metre, cow metre, female goat metre, horse metre.
+</details>
+
 <details><summary>मूलम्</summary>
 
 +++(त्वं)+++ मा छन्द॑ः  +++(असि)+++।  
@@ -84,6 +89,11 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 +++(त्वं)+++ अ॒श्व॒श्छन्दः॑  +++(असि)+++।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मा । छन्दः॑ । प्र॒ति॒मेति॑ प्रति-मा । छन्दः॑ । अ॒स्री॒विः । छन्दः॑ । प॒ङ्क्तिः । छन्दः॑ । उ॒ष्णिहा॑ । छन्दः॑ । बृ॒ह॒ती । छन्दः॑ । अ॒नु॒ष्टुबित्य॑नु-स्तुप् । छन्दः॑ । वि॒राडिति॑ वि-राट् । छन्दः॑ । गा॒य॒त्री । छन्दः॑ । त्रि॒ष्टुप् । छन्दः॑ । जग॑ती । छन्दः॑ । पृ॒थि॒वी । छन्दः॑ । अ॒न्तरि॑क्षम् । छन्दः॑ । द्यौः । छन्दः॑ । समाः॑ । छन्दः॑ । नक्ष॑त्राणि । छन्दः॑ । मनः॑ । छन्दः॑ । वाक् । छन्दः॑ । कृ॒षिः । छन्दः॑ । हिर॑ण्यम् । छन्दः॑ । गौः । छन्दः॑ । अ॒जा । छन्दः॑ । अश्वः॑ । छन्दः॑ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अत्र माप्रमाप्रतिमास्त्रीत्वि[ ब्यादि] शब्दाभिधेयाश्छन्दोविशेषाः केचिद्वेदे प्रसिद्धाः केचिल्लोकेष्वपि प्रसिद्धाः ।  
@@ -109,6 +119,11 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 +++(त्वं)+++  व᳓रुणो देव᳓ता +++(असि)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+(Thou art) Agni, the deity [1], Vata, the deity, Surya, the deity, Candramas, the deity, the Vasus, the deity, the Rudras, the deity, the Adityas, the deity, the All-gods, the deity, the Maruts, the deity, Brhaspati, the deity, Indra, the deity, Varuna, the deity.
+</details>
+
 <details><summary>मूलम्</summary>
 
 +++(त्वं)+++  अ॒ग्निर्दे॒वता॑  +++(असि)+++।  
@@ -123,6 +138,11 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 +++(त्वं)+++  बृह॒स्पति॑र्दे॒वता॑  +++(असि)+++।  
 +++(त्वं)+++  इन्द्रो॑ दे॒वता॑  +++(असि)+++।  
 +++(त्वं)+++  वरु॑णो दे॒वता॑ +++(असि)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । दे॒वता॑ । वातः॑ । दे॒वता॑ । सूर्यः॑ । दे॒वता॑ । च॒न्द्रमाः॑ । दे॒वता॑ । वस॑वः । दे॒वता॑ । रु॒द्राः । दे॒वता॑ । आ॒दि॒त्याः । दे॒वता॑ । विश्वे॑ । दे॒वाः । दे॒वता॑ । म॒रुतः॑ । दे॒वता॑ । बृह॒स्पतिः॑ । दे॒वता॑ । इन्द्रः॑ । दे॒वता॑ । वरु॑णः । दे॒वता॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -166,9 +186,19 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 मूर्धा᳓सि राड् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The head thou art, ruling;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मू॒र्धासि॑ राड् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मू॒र्धा । अ॒सि॒ । राट् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -181,9 +211,19 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 ध्रुवा᳓सि धरु᳓णा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the firm, the supporting;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ध्रु॒वासि॑ ध॒रुणा॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ध्रु॒वा । अ॒सि॒ । ध॒रुणा॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -196,9 +236,19 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 यन्त्र्य᳙सि य᳓मित्री ।  
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the prop, the restrainer;
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒न्त्र्य॑सि॑ यमि॑त्री ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यन्त्री॑ । अ॒सि॒ । यमि॑त्री ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -211,9 +261,19 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 इषे᳓ त्वा +++(उपदधामि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+for food thee;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒षे त्वा॑ +++(उपदधामि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒षे । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -226,9 +286,19 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 ऊर्जे᳓ त्वा +++(उपदधामि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+for strength thee;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊ॒र्जे त्वा॑ +++(उपदधामि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऊ॒र्जे । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -241,9 +311,19 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 कृष्यै᳓  त्वा +++(उपदधामि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+for ploughing thee;
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृ॒ष्यै  त्वा॑ +++(उपदधामि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कृ॒ष्यै । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -256,9 +336,19 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 क्षे᳓माय᳓ त्वा  +++(उपदधामि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+for safety thee!
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षेमा॑य त्वा॑  +++(उपदधामि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्षेमा॑य । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -272,9 +362,19 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 य᳓न्त्री रा᳓ट् +++(असि)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+(Thou art) the prop, ruling;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यन्त्री॒ राट् +++(असि)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यन्त्री॑ । राट् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -287,9 +387,19 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 ध्रुवा᳓सि᳓ ध᳓रणी ।  
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the firm, the supporting;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ध्रु॒वासि धर॑णी ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ध्रु॒वा । अ॒सि॒ । धर॑णी ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -302,9 +412,19 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 धर्त्र्य᳙सि धरित्री᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the holder, the sustainer;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ध॒र्त्र्य॑सि धरि॒त्री ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ध॒र्त्री । अ॒सि॒ । धरि॑त्री ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -317,9 +437,19 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 आ᳓युषे त्वा +++(उपदधामि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+for life thee;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आयु॑षे त्वा +++(उपदधामि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आयु॑षे । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -332,9 +462,19 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 व᳓र्चसे त्वा᳓  +++(उपदधामि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+for radiance thee;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वर्च॑से॒ त्वा  +++(उपदधामि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वर्च॑से । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -347,9 +487,19 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 ओ᳓जसे त्वा +++(उपदधामि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+for force thee;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ओज॑से त्वा +++(उपदधामि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ओज॑से । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -362,9 +512,19 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 ब᳓लाय त्वा  +++(उपदधामि)+++ ।  ॥   
 </details>
 
+<details><summary>Keith</summary>
+
+for might thee!
+</details>
+
 <details><summary>मूलम्</summary>
 
 बला॑य त्वा  +++(उपदधामि)+++ ।  ॥   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बला॑य । त्वा॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -27,12 +27,22 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 त्रिवृ᳓त्स्तो᳓मः᳓ +++(असि)+++,  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of Agni, the overlordship of consecration, the holy power saved, the threefold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेर्भा॒गो॑ऽसि ,   
 दी॒क्षाया॒ आधि॑पत्यम् +++(असि)+++,  
 ब्रह्म॑ स्पृ॒तम् +++(असि)+++,   
 त्रि॒वृत्स्तोमः +++(असि)+++,  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । भा॒गः । अ॒सि॒ । दी॒क्षायाः॑ । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । ब्रह्म॑ । स्पृ॒तम् । त्रि॒वृदिति॑ त्रि-वृत् । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -53,12 +63,24 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 पञ्चदश᳓स्स्तो᳓मः  +++(असि)+++,  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of Indra, the overlordship of Visnu, the lordly power saved, the fifteenfold
+  
+Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्य भा॒गो॑ऽसि,  
 विष्णो॒राधि॑पत्यम् +++(असि)+++,  
 क्ष॒त्रँ स्पृ॒तम्+++(असि)+++,   
 प॒ञ्च॒द॒शस्स्तोमः॑  +++(असि)+++,  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑स्य । भा॒गः । अ॒सि॒ । विष्णोः॑ । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । क्ष॒त्रम् । स्पृ॒तम् । प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -79,12 +101,22 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 सप्तदश᳓स्स्तो᳓मः +++(असि)+++,   
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of them that gaze on men, the overlordship of Dhatr, the birthplace saved, the seventeenfold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नृ॒चक्ष॑साम्भा॒गो॑ऽसि ,   
 धा॒तुराधि॑पत्यम् +++(असि)+++,   
 ज॒नित्रँ॑ स्पृ॒तम् +++(असि)+++,   
 स॒प्त॒द॒शस्स्तोमः॑ +++(असि)+++,   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नृ॒चक्ष॑सा॒मिति॑ नृ-चक्ष॑साम् । भा॒गः । अ॒सि॒ । धा॒तुः । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । ज॒नित्र॑म् । स्पृ॒तम् । स॒प्त॒द॒श इति॑ सप्त-द॒शः । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -107,6 +139,11 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 एकविँश᳓स्स्तो᳓मः  +++(असि)+++,   
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of Mitra, the overlordship of Varuna, the rain from the sky, the winds saved, the twenty-onefold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒त्रस्य॑ भा॒गो॑ऽसि   
@@ -114,6 +151,11 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 दि॒वो वृ॒ष्टिः +++(असि)+++,   
 वाताः॑ स्पृ॒ताः +++(असि)+++,  
 ए॒क॒विँ॒शस्स्तोमः॑  +++(असि)+++,   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मि॒त्रस्य॑ । भा॒गः । अ॒सि॒ । वरु॑णस्य । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । दि॒वः । वृ॒ष्टिः । वाताः॑ । स्पृ॒ताः । ए॒क॒विँ॒श इत्ये॑क-विँ॒शः । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -134,12 +176,22 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 त्रिणव᳓स्स्तो᳓मः +++(असि)+++,   
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of Aditi, the overlordship of Pusan, force saved, the twenty-sevenfold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अदि॑त्यै भा॒गो॑ऽसि,  
 पू॒ष्ण आधि॑पत्यम् +++(असि)+++,   
 ओज॑स्स्पृ॒तम् +++(असि)+++,   
 त्रि॒ण॒वस्स्तोमः॑ +++(असि)+++,   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अदि॑त्यै । भा॒गः । अ॒सि॒ । पू॒ष्णः । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । ओजः॑ । स्पृ॒तम् । त्रि॒ण॒व इति॑ त्रि-न॒वः । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -160,12 +212,22 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 चतुर्विँश᳓स्स्तो᳓मः +++(असि)+++,   
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of the Vasus [1], the overlordship of the Rudras, the quadruped saved, the twenty-fourfold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वसू॑नाम्भा॒गो॑ऽसि ,    
 रु॒द्राणा॒माधि॑पत्यम् +++(असि)+++,   
 चतु॑ष्पात्स्पृ॒तम्  +++(असि)+++,   
 च॒तु॒र्विँ॒शस्स्तोमः॑ +++(असि)+++,   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वसू॑नाम् । भा॒गः । अ॒सि॒ । रु॒द्राणा॑म् । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । चतु॑ष्पा॒दिति॒ चतुः॑-पा॒त् । स्पृ॒तम् । च॒तु॒र्विँ॒श इति॑ चतुः-विँ॒शः । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -186,12 +248,22 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 पञ्चविँश᳓स्स्तो᳓मः +++(असि)+++,  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of the Adityas, the overlordship of the Maruts, offspring saved, the twenty fivefold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्याना॑म्भा॒गो॑ऽसि,   
 म॒रुता॒माधि॑पत्यम्+++(असि)+++,  
 गर्भाः॑ स्पृ॒ताः+++(असि)+++,   
 प॒ञ्च॒विँ॒शस्स्तोमः॑ +++(असि)+++,  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒दि॒त्याना॑म् । भा॒गः । अ॒सि॒ । म॒रुता॑म् । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । गर्भाः॑ । स्पृ॒ताः । प॒ञ्च॒विँ॒श इति॑ पञ्च-विँ॒शः । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -212,12 +284,22 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 चतुष्टोम᳓स्स्तो᳓मः+++(असि)+++,
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of the god Savitr, the overlordship of Brhaspati, all the quarters saved, the fourfold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वस्य॑ सवि॒तुर्भा॒गो॑ऽसि ,  
 बृह॒स्पते॒राधि॑पत्यम् ++(असि)+++,  
 स॒मीची॒र्दिश॑स्स्पृ॒ताः +++(असि)+++,  
 च॒तु॒ष्टो॒मस्स्तोमः॑+++(असि)+++,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वस्य॑ । स॒वि॒तुः । भा॒गः । अ॒सि॒ । बृह॒स्पतेः॑ । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । स॒मीचीः॑ । दिशः॑ । स्पृ॒ताः । च॒तु॒ष्टो॒म इति॑ चतुः-स्तो॒मः । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -233,12 +315,22 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 चतुश्चत्वारिँश᳓स्स्तो᳓मः +++(असि)+++,
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of the Yavas, the overlordship of the Ayavas, offspring saved, the forty fourfold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यावा॑नाम्भा॒गो॑ऽसि ,  
 अया॑वाना॒माधि॑पत्यम् +++(असि)+++,  
 प्र॒जास्स्पृ॒ताः +++(असि)+++,  
 च॒तु॒श्च॒त्वा॒रिँ॒शस्स्तोम॑ः +++(असि)+++,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यावा॑नाम् । भा॒गः । अ॒सि॒ । अया॑वानाम् । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । प्र॒जा इति॑ प्र-जाः । स्पृ॒ताः । च॒तु॒श्च॒त्वा॒रिँ॒श इति॑ चतुः-च॒त्वा॒रिँ॒शः । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -261,12 +353,22 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 त्रयस्त्रिँश᳓स्स्तो᳓मः । +++(असि)+++॥ [17]  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of the Rbhus, the overlordship, of the All-gods, being calmed and saved, the thirty-threefold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒भू॒णाम्भा॒गो॑ऽसि,  
 विश्वे॑षान्दे॒वाना॒माधि॑पत्यम् +++(असि)+++,  
 भू॒तन्निशा॑न्तँ स्पृ॒तम् +++(असि)+++,   
 त्र॒य॒स्त्रिँ॒शस्स्तोमः॑ ।॑ +++(असि)+++॥ [17]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒भू॒णाम् । भा॒गः । अ॒सि॒ । विश्वे॑षाम् । दे॒वाना॑म् । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । भू॒तम् । निशा॑न्त॒मिति॒ नि-शा॒न्त॒म् । स्पृ॒तम् । त्र॒य॒स्त्रिँ॒श इति॑ त्रयः-त्रिँ॒शः । स्तोमः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -284,12 +386,22 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 त्रिवृ᳓त्स्तो᳓मः +++(असि)+++,  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of Agni, the overlordship of consecration, the holy power saved, the threefold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेर्भा॒गो॑ऽसि,  
 दी॒क्षाया॒ आधि॑पत्यम् +++(असि)+++,   
 ब्रह्म॑ स्पृ॒तम् +++(असि)+++,  
-त्रि॒वृत्स्तोमः॑ +++(असि)+++,  
+त्रि॒वृत्स्तोमः॑ +++(असि)+++,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । भा॒गः । अ॒सि॒ । दी॒क्षायाः॑ । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । ब्रह्म॑ । स्पृ॒तम् । त्रि॒वृदिति॑ त्रि-वृत् । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -311,12 +423,22 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 सप्तदश᳓स्स्तो᳓मः ।+++(असि)+++,
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of them that gaze on men, the overlordship of Dhatr, the birthplace saved, the seventeenfold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नृ॒चक्ष॑साम्भा॒गो॑ऽसि,  
 धा॒तुराधि॑पत्यञ् +++(असि)+++,
 ज॒नित्रँ॑ स्पृ॒तम् +++(असि)+++,
 स॒प्त॒द॒शस्स्तोमः॑ ।+++(असि)+++,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नृ॒चक्ष॑सा॒मिति॑ नृ-चक्ष॑साम् । भा॒गः । अ॒सि॒ । धा॒तुः । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । ज॒नित्र॑म् । स्पृ॒तम् । स॒प्त॒द॒श इति॑ सप्त-द॒शः । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -345,6 +467,11 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 एकविँश᳓स्स्तो᳓मः +++(असि)+++,
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of Mitra, the overlordship of Varuna, the rain from the sky, the winds saved, the twenty-onefold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒त्रस्य॑ भा॒गो॑ऽसि,   
@@ -352,6 +479,11 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 दि॒वो वृ॒ष्टिः+++(असि)+++,   
 वाताः॑ स्पृ॒ता +++(असि)+++,  
 ए॒क॒विँ॒शस्स्तोमः॑ +++(असि)+++,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मि॒त्रस्य॑ । भा॒गः । अ॒सि॒ । वरु॑णस्य । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । दि॒वः । वृ॒ष्टिः । वाताः॑ । स्पृ॒ताः । ए॒क॒विँ॒श इत्ये॑क-विँ॒शः । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -368,12 +500,24 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 पञ्चदश᳓स्स्तो᳓मः +++(असि)+++,
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of Indra, the overlordship of Visnu, the lordly power saved, the fifteenfold
+  
+Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्य भा॒गो॑ऽसि ,  
 विष्णो॒राधि॑पत्यम् +++(असि)+++,   
 क्ष॒त्रँ स्पृ॒तम् +++(असि)+++,  
 प॒ञ्च॒द॒शस्स्तोमः॑ +++(असि)+++,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑स्य । भा॒गः । अ॒सि॒ । विष्णोः॑ । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । क्ष॒त्रम् । स्पृ॒तम् । प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -390,12 +534,22 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 चतुर्विँश᳓स्स्तो᳓मः +++(असि)+++,
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of the Vasus [1], the overlordship of the Rudras, the quadruped saved, the twenty-fourfold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वसू॑नाम्भा॒गो॑ऽसि ,   
 रु॒द्राणा॒माधि॑पत्यम्  +++(असि)+++,  
 चतु॑ष्पात्स्पृ॒तम् +++(असि)+++,  
 च॒तु॒र्विँ॒शस्स्तोमः॑ +++(असि)+++,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वसू॑नाम् । भा॒गः । अ॒सि॒ । रु॒द्राणा॑म् । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । चतु॑ष्पा॒दिति॒ चतुः॑-पा॒त् । स्पृ॒तम् । च॒तु॒र्विँ॒श इति॑ चतुः-विँ॒शः । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -412,12 +566,22 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 पञ्चविँश᳓स्स्तो᳓मः +++(असि)+++,
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of the Adityas, the overlordship of the Maruts, offspring saved, the twenty fivefold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्याना॑म्भा॒गो॑ऽसि ,  
 म॒रुता॒माधि॑पत्यम् +++(असि)+++,   
 गर्भाः॑ स्पृ॒ताः+++(असि)+++,  
 प॒ञ्च॒विँ॒शस्स्तोमः॑ +++(असि)+++,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒दि॒त्याना॑म् । भा॒गः । अ॒सि॒ । म॒रुता॑म् । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । गर्भाः॑ । स्पृ॒ताः । प॒ञ्च॒विँ॒श इति॑ पञ्च-विँ॒शः । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -435,6 +599,11 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 त्रिणव᳓स्स्तो᳓मः +++(असि)+++,
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of Aditi, the overlordship of Pusan, force saved, the twenty-sevenfold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अदि॑त्यै भा॒गो॑ऽसि ,   
@@ -442,6 +611,11 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 पू॒ष्ण आधि॑पत्यम् +++(असि)+++,  
 ओज॑स्स्पृ॒तम् +++(असि)+++,
 त्रि॒ण॒वस्स्तोमः॑ +++(असि)+++,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अदि॑त्यै । भा॒गः । अ॒सि॒ । पू॒ष्णः । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । ओजः॑ । स्पृ॒तम् । त्रि॒ण॒व इति॑ त्रि-न॒वः । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -458,12 +632,22 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 चतुष्टोम᳓स्स्तो᳓मः +++(असि)+++,
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of the god Savitr, the overlordship of Brhaspati, all the quarters saved, the fourfold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वस्य॑ सवि॒तुर्भा॒गो॑ऽसि ,  
 बृह॒स्पते॒राधि॑पत्यम् +++(असि)+++,   
 स॒मीची॒र्दिश॑स्स्पृ॒ताः +++(असि)+++,
 च॒तु॒ष्टो॒मस्स्तोमः॑ +++(असि)+++,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वस्य॑ । स॒वि॒तुः । भा॒गः । अ॒सि॒ । बृह॒स्पतेः॑ । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । स॒मीचीः॑ । दिशः॑ । स्पृ॒ताः । च॒तु॒ष्टो॒म इति॑ चतुः-स्तो॒मः । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -477,9 +661,19 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 धर्त्र᳓श्चतुष्टोमः᳓ ॥   
 </details>
 
+<details><summary>Keith</summary>
+
+the support, the fourfold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
-ध॒र्त्रश्च॑तुष्टो॒मः ॥   
+ध॒र्त्रश्च॑तुष्टो॒मः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ध॒र्त्रः । च॒तु॒ष्टो॒म इति॑ चतुः-स्तो॒मः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -496,12 +690,22 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 चतुश्चत्वारिँश᳓स्स्तो᳓मः +++(असि)+++,
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of the Yavas, the overlordship of the Ayavas, offspring saved, the forty fourfold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यावा॑नाम्भा॒गो॑ऽसि ,   
 अया॑वाना॒माधि॑पत्यम् +++(असि)+++,   
 प्र॒जास्स्पृ॒ताः +++(असि)+++,  
 च॒तु॒श्च॒त्वा॒रिँ॒शस्स्तोम॑ः +++(असि)+++,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यावा॑नाम् । भा॒गः । अ॒सि॒ । अया॑वानाम् । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । प्र॒जा इति॑ प्र-जाः । स्पृ॒ताः । च॒तु॒श्च॒त्वा॒रिँ॒श इति॑ चतुः-च॒त्वा॒रिँ॒शः । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -518,12 +722,22 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 त्रयस्त्रिँश᳓स्स्तो᳓मः  ॥ [17]
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of the Rbhus, the overlordship, of the All-gods, being calmed and saved, the thirty-threefold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒भू॒णाम्भा॒गो॑ऽसि,   
 विश्वे॑षान्दे॒वाना॒माधि॑पत्यम् +++(असि)+++,   
 भू॒तन्निशा॑न्तँ स्पृ॒तम्  +++(असि)+++,  
 त्र॒य॒स्त्रिँ॒शस्स्तोमः॑  ॥ [17]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒भू॒णाम् । भा॒गः । अ॒सि॒ । विश्वे॑षाम् । दे॒वाना॑म् । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । भू॒तम् । निशा॑न्त॒मिति॒ नि-शा॒न्त॒म् । स्पृ॒तम् । त्र॒य॒स्त्रिँ॒श इति॑ त्रयः-त्रिँ॒शः । स्तोमः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

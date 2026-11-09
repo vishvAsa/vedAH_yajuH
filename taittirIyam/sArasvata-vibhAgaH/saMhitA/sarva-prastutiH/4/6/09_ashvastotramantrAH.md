@@ -22,10 +22,22 @@ title = "०९ अश्वस्तोत्रमन्त्राः"
 ये᳓ चा᳓र्वतो माँसभिक्षा᳓मुपा᳓सत उतो᳓ ते᳓षामभि᳓गूर्तिर्न इन्वतु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Those who watch for the cooking of the strong one, And call out, 'It is fragrant; take it out,'  
+And who wait to beg for the meat of the steed,  
+May their approval quicken us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये वा॒जिन॑म्परि॒पश्य॑न्ति प॒क्वय्ँय ई॑मा॒हुस्सु॑र॒भिर्निर्ह॒रेति॑ ।  
 ये चार्व॑तो माँसभि॒क्षामु॒पास॑त उ॒तो तेषा॑म॒भिगू॑र्तिर्न इन्वतु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । वा॒जिन॑म् । प॒रि॒पश्य॒न्तीति॑ परि-पश्य॑न्ति । प॒क्वम् । ये । ई॒म् । आ॒हुः । सु॒र॒भिः । निरिति॑ । ह॒र॒ । इति॑ ॥ ये । च॒ । अर्व॑तः । माँ॒स॒भि॒क्षामिति॑ माँस-भि॒क्षाम् । उ॒पास॑त॒ इत्यु॑प-आस॑ते । उ॒तो इति॑ । तेषा॑म् । अ॒भिगू॑र्ति॒रित्य॒भि-गू॒र्तिः॒ । नः॒ । इ॒न्व॒तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -44,10 +56,24 @@ title = "०९ अश्वस्तोत्रमन्त्राः"
 ऊष्मण्या᳙पिधा᳓ना चरूणा᳓मङ्का᳓स्सूनाᳶ᳓ प᳓रि भूषन्त्य᳓श्वम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The trial spoon of the meat-cooking pot,  
+The vessels to hold the juice,
+  
+The coverings of the dishes for warming,  
+The hooks, the crates, attend the steed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यन्नीक्ष॑णम्माँ॒स्पच॑न्या उ॒खाया॒ या पात्रा॑णि यू॒ष्ण आ॒सेच॑नानि ।  
 ऊ॒ष्म॒ण्या॑पि॒धाना॑ चरू॒णाम॒ङ्कास्सू॒नाᳶ परि॑ भूष॒न्त्यश्व॑म् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । नीक्ष॑णम् । माँ॒स्पच॑न्याः । उ॒खायाः॑ । या । पात्रा॑णि । यू॒ष्णः । आ॒सेच॑ना॒नीत्या॑-सेच॑नानि ॥ ऊ॒ष्म॒ण्या॑ । अ॒पि॒धानेत्य॑पि-धाना॑ । च॒रू॒णाम् । अ॒ङ्काः । सू॒नाः । परीति॑ । भू॒ष॒न्ति॒ । अश्व॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -66,10 +92,23 @@ title = "०९ अश्वस्तोत्रमन्त्राः"
 य᳓च्च पपौ᳓ य᳓च्च घासि᳓म् [43]  जघा᳓स स᳓र्वा ता᳓ ते अ᳓पि देवे᳓ष्वस्तु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The starting-place, the sitting down, the turning,  
+The hobbles of the steed,  
+What it hath drunk, what it hath eaten as fodder [1],  
+May all these of thine be with the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नि॒क्रम॑णन्नि॒षद॑नव्ँवि॒वर्त॑नय्ँ॒यच्च॒ पड्बी॑श॒मर्व॑तः ।  
 यच्च॑ प॒पौ यच्च॑ घा॒सिम् [43]  ज॒घास॒ सर्वा॒ ता ते॒ अपि॑ दे॒वेष्व॑स्तु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नि॒क्रम॑ण॒मिति॑ नि-क्रम॑णम् । नि॒षद॑न॒मिति॑ नि-सद॑नम् । वि॒वर्त॑न॒मिति॑ वि-वर्त॑नम् । यत् । च॒ । पड्बी॑शम् । अर्व॑तः ॥ यत् । च॒ । प॒पौ । यत् । च॒ । घा॒सिम् । ज॒घास॑ । सर्वा॑ । ता । ते॒ । अपीति॑ । दे॒वेषु॑ । अ॒स्तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -88,10 +127,23 @@ title = "०९ अश्वस्तोत्रमन्त्राः"
 इष्टव्ँ᳓वीत᳓मभि᳓गूर्तव्ँव᳓षट्कृतन्त᳓न्देवा᳓सᳶ प्र᳓ति गृभ्णन्त्य᳓श्वम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May Agni, smoke smelling, not make thee crackle;  
+May not the radiant pot be broken, smelling;  
+Offered, delighted in, approved, offered with the Vasat cry,  
+The gods accept the horse.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मा त्वा॒ग्निर्ध्व॑नयिद्धू॒मग॑न्धि॒र्मोखा भ्राज॑न्त्य॒भि वि॑क्त॒ जघ्रिः॑ ।  
 इ॒ष्टव्ँवी॒तम॒भिगू॑र्तव्ँ॒वष॑ट्कृत॒न्तन्दे॒वास॒ᳶ प्रति॑ गृभ्ण॒न्त्यश्व॑म् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मा । त्वा॒ । अ॒ग्निः । ध्व॒न॒यि॒त् । धू॒मग॑न्धि॒रिति॑ धू॒म-ग॒न्धिः॒ । मा । उ॒खा । भ्राज॑न्ती । अ॒भीति॑ । वि॒क्त॒ । जघ्रिः॑ ॥ इ॒ष्टम् । वी॒तम् । अ॒भिगू॑र्त॒मित्य॒भि-गू॒र्त॒म् । वष॑ट्कृत॒मिति॒ वष॑ट्-कृ॒त॒म् । तम् । दे॒वासः॑ । प्रतीति॑ । गृ॒भ्ण॒न्ति॒ । अश्व॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -116,10 +168,23 @@ title = "०९ अश्वस्तोत्रमन्त्राः"
 सन्दा᳓नम᳓र्वन्तम्प᳓ड्बीशम्प्रिया᳓ देवे᳓ष्वा᳓ यामयन्ति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The garment they spread for the horse,  
+The upper garment, the golden (trappings),  
+The bond of the steed, the hobble,  
+As dear to the gods they offer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदश्वा॑य॒ वास॑ उपस्तृ॒णन्त्य॑धीवा॒सय्ँया हिर॑ण्यान्यस्मै ।  
 स॒न्दान॒मर्व॑न्त॒म्पड्बी॑शम्प्रि॒या दे॒वेष्वा या॑मयन्ति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । अश्वा॑य । वासः॑ । उ॒प॒स्तृ॒णन्तीत्यु॑प-स्तृ॒णन्ति॑ । अ॒धी॒वा॒समित्य॑धि-वा॒सम् । या । हिर॑ण्यानि । अ॒स्मै॒ ॥ स॒न्दान॒मिति॑ सम्-दान॑म् । अर्व॑न्तम् । पड्बी॑शम् । प्रि॒या । दे॒वेषु॑ । एति॑ । या॒म॒य॒न्ति॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -133,7 +198,7 @@ title = "०९ अश्वस्तोत्रमन्त्राः"
 अथ षष्ठीमृचमाह– यत्ते साद इति ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/162/17_yatte_sAde.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/162/17_yatte_sAde.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -144,6 +209,14 @@ title = "०९ अश्वस्तोत्रमन्त्राः"
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+If one hath smitten thee, riding thee driven with force,  
+With heel or with whip [2],  
+As with the ladle the parts of the oblation in the sacrifice,  
+So with holy power all these of thine I put in order.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/162/17_yatte_sAde.md">
 
@@ -515,10 +588,23 @@ Was bei deiner Ermüdung durch das Uebermass des Antreibens, oder durch die Fers
 अ᳓च्छिद्रा गा᳓त्रा वयु᳓ना कृणोत प᳓रुष्परुरनुघु᳓ष्या वि᳓ शस्त ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The four and thirty ribs of the strong steed,  
+Kin of the gods, the axe meeteth;  
+Skilfully do ye make the joints faultless;  
+Declaring each part, do ye cut it asunder.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चतु॑स्त्रिँशद्वा॒जिनो॑ दे॒वब॑न्धो॒र्वङ्क्री॒रश्व॑स्य॒ स्वधि॑ति॒स्समे॑ति ।  
 अच्छि॑द्रा॒ गात्रा॑ व॒युना॑ कृणोत॒ परु॑ष्परुरनु॒घुष्या॒ वि श॑स्त ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चतु॑स्त्रिँश॒दिति॒ चतुः॑-त्रिँ॒श॒त् । वा॒जिनः॑ । दे॒वब॑न्धो॒रिति॑ दे॒व-ब॒न्धोः॒ । वङ्क्रीः॑ । अश्व॑स्य । स्वधि॑ति॒रिति॒ स्व-धि॒तिः॒ । समिति॑ । ए॒ति॒ ॥ अच्छि॑द्रा । गात्रा॑ । व॒युना॑ । कृ॒णो॒त॒ । परु॑ष्परु॒रिति॒ परुः॑-प॒रुः॒ । अ॒नु॒घुष्येत्य॑नु-घुष्य॑ । वीति॑ । श॒स्त॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -541,10 +627,23 @@ Was bei deiner Ermüdung durch das Uebermass des Antreibens, oder durch die Fers
 या᳓ ते गा᳓त्राणामृतुथा᳓ कृणो᳓मि ता᳓ता पि᳓ण्डानाम्प्र᳓ जुहोम्यग्नौ᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+One carver is there of the steed of Tvastr  
+Two restrainers are there, so is the use;  
+Those parts of thy limbs that I place in order,  
+Those in balls I offer in the fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एक॒स्त्वष्टु॒रश्व॑स्या विश॒स्ता द्वा य॒न्तारा॑ भवत॒स्तथ॒र्तुः ।  
 या ते॒ गात्रा॑णामृतु॒था कृ॒णोमि॒ ताता॒ पिण्डा॑ना॒म्प्र जु॑होम्य॒ग्नौ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एकः॑ । त्वष्टुः॑ । अश्व॑स्य । वि॒श॒स्तेति॑ वि-श॒स्ता । द्वा । य॒न्तारा॑ । भ॒व॒तः॒ । तथा॑ । ऋ॒तुः ॥ या । ते॒ । गात्रा॑णाम् । ऋ॒तु॒थेत्यृ॑तु-था । कृ॒णोमि॑ । तातेति॒ ता-ता॒ । पिण्डा॑नाम् । प्रेति॑ । जु॒हो॒मि॒ । अ॒ग्नौ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -566,10 +665,23 @@ Was bei deiner Ermüdung durch das Uebermass des Antreibens, oder durch die Fers
 मा᳓ ते गृध्नु᳓रविशस्ता᳓तिहा᳓य छिद्रा᳓ गा᳓त्राण्यसि᳓ना मि᳓थू कः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Let not thy dear self distress thee [3] as thou comest;  
+Let not the axe stay in thy body;  
+May no greedy skilless carver,  
+Missing the joints, mangle thy limbs with the knife.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मा त्वा॑ तपत् [45]  प्रि॒य आ॒त्मापि॒यन्त॒म्मा स्वधि॑तिस्त॒नुव॒ आ ति॑ष्ठिपत्ते ।  
 मा ते॑ गृ॒ध्नुर॑विश॒स्ताति॒हाय॑ छि॒द्रा गात्रा॑ण्य॒सिना॒ मिथू॑ कः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मा । त्वा॒ । त॒प॒त् । प्रि॒यः । आ॒त्मा । अ॒पि॒यन्त॒मित्य॑पि-यन्त॑म् । मा । स्वधि॑ति॒रिति॒ स्व-धि॒तिः॒ । त॒नुवः॑ । एति॑ । ति॒ष्ठि॒प॒त् । ते॒ ॥ मा । ते॒ । गृ॒ध्नुः । अ॒वि॒श॒स्तेत्य॑वि-श॒स्ता । अ॒ति॒हायेत्य॑ति-हाय॑ । छि॒द्रा । गात्रा॑णि । अ॒सिना॑ । मिथु॑ । कः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -590,10 +702,27 @@ Was bei deiner Ermüdung durch das Uebermass des Antreibens, oder durch die Fers
 ह᳓री ते यु᳓ञ्जा पृ᳓षती अभूतामु᳓पास्थाद्वाजी᳓ धुरि᳓ रा᳓सभस्य ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou dost not die, indeed, thou art not injured,  
+On easy paths thou goest to the gods;  
+The bays, the dappled ones, have become thy yoke-fellows;  
+The steed bath stood under the yoke of the ass.  
+I Wealth of kine for us, may the strong one (grant), wealth in horses,  
+Men and sons, and every form of prosperity;  
+May Aditi confer on us sinlessness;  
+Kingship for us may the horse rich in offering gain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न वा उ॑ वे॒तन्म्रि॑यसे॒ न रि॑ष्यसि दे॒वाँ इदे॑षि प॒थिभि॑स्सु॒गेभिः॑ ।  
 हरी॑ ते॒ युञ्जा॒ पृष॑ती अभूता॒मुपा॑स्थाद्वा॒जी धु॒रि रास॑भस्य ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+न । वै । उ॒ । ए॒तत् । म्रि॒य॒से॒ । न । रि॒ष्य॒सि॒ । दे॒वान् । इत् । ए॒षि॒ । प॒थिभि॒रिति॑ प॒थि-भिः॒ । सु॒गेभि॒रिति॑ सु-गेभिः॑ ॥ हरी॒ इति॑ । ते॒ । युञ्जा॑ । पृष॑ती॒ इति॑ । अ॒भू॒ता॒म् । उपेति॑ । अ॒स्था॒त् । वा॒जी । धु॒रि । रास॑भस्य ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -616,10 +745,23 @@ Was bei deiner Ermüdung durch das Uebermass des Antreibens, oder durch die Fers
 अनागास्त्व᳓न्नो अ᳓दितिᳵ कृणोतु क्षत्र᳓न्नो अ᳓श्वो वनताँ हवि᳓ष्मान् ॥ [46]
 </details>
 
+<details><summary>Keith</summary>
+
+Wealth of kine for us, may the strong one (grant), wealth in horses,  
+Men and sons, and every form of prosperity;  
+May Aditi confer on us sinlessness;  
+Kingship for us may the horse rich in offering gain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒गव्य॑न्नो वा॒जी स्वश्वि॑यम्पुँ॒सᳶ पु॒त्राँ उ॒त वि॑श्वा॒पुषँ॑ र॒यिम् ।  
 अ॒ना॒गा॒स्त्वन्नो॒ अदि॑तिᳵ कृणोतु क्ष॒त्रन्नो॒ अश्वो॑ वनताँ ह॒विष्मा॑न् ॥ [46]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒गव्य॒मिति॑ सु-गव्य॑म् । नः॒ । वा॒जी । स्वश्वि॑य॒मिति॑ सु-अश्वि॑यम् । पुँ॒सः । पु॒त्रान् । उ॒त । वि॒श्वा॒पुष॒मिति॑ विश्व-पुष॑म् । र॒यिम् ॥ अ॒ना॒गा॒स्त्वमित्य॑नागाः-त्वम् । नः॒ । अदि॑तिः । कृ॒णो॒तु॒ । क्ष॒त्रम् । नः॒ । अश्वः॑ । व॒न॒ता॒म् । ह॒विष्मान्॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

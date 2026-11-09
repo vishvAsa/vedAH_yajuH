@@ -21,11 +21,21 @@ title = "०७ वसोर्धारा होममन्त्राः"
 अ᳓दाभ्यश्च मे᳓+++(कल्पताम्)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+May the Amsu cup for me, the Rasmi, the Adabhya (prosper for me through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 अँ॒शुश्च॑ मे +++(कल्पताम्)+++ ।  
 र॒श्मिश्च॒ म +++(कल्पताम्)+++ ।
 अदा॑भ्यश्च॒ मे+++(कल्पताम्)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अँ॒शुः । च॒ । मे॒ । र॒श्मिः । च॒ । मे॒ । अदा॑भ्यः । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -41,9 +51,19 @@ title = "०७ वसोर्धारा होममन्त्राः"
 अ᳓धिपतिश्च म +++(कल्पताम्)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+May the overlord cup (prosper for me through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 अधि॑पतिश्च म +++(कल्पताम्)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अधि॑पति॒रित्यधि॑-प॒तिः॒ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -64,6 +84,11 @@ title = "०७ वसोर्धारा होममन्त्राः"
 प्रतिप्रस्था᳓नश्च  मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the Upansu, the Antaryama, the cup for Indra and Vayu, the cup for Mitra and Varuna, the cup for the Asvins, the Pratiprasthana cup (prosper for me through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒पाँ॒शुश्च॑ मे+++(कल्पताम्)+++ ।
@@ -73,6 +98,11 @@ title = "०७ वसोर्धारा होममन्त्राः"
 आ॒श्वि॒नश्च॑ मे +++(कल्पताम्)+++ ।  
 
 प्र॒ति॒प्र॒स्थान॑श्च  मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒पाँ॒शुरित्यु॑प-अँ॒शुः । च॒ । मे॒ । अ॒न्त॒र्या॒म इत्य॑न्तः-या॒मः । च॒ । मे॒ । ऐ॒न्द्र॒वा॒य॒व इत्यै॑न्द्र-वा॒य॒वः । च॒ । मे॒ । मै॒त्रा॒व॒रु॒ण इति॑ मैत्रा-व॒रु॒णः । च॒ । मे॒ । आ॒श्वि॒नः । च॒ । मे॒ । प्र॒ति॒प्र॒स्थान॒ इति॑ प्रति-प्र॒स्थानः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -89,12 +119,22 @@ title = "०७ वसोर्धारा होममन्त्राः"
 वैश्वदेव᳓श्च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the Sukra, the Manthin, the Agrayana, the cup for the All-gods (prosper for me through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 शु॒क्रश्च॑ मे +++(कल्पताम्)+++ ।  
 म॒न्थी च॑ म +++(कल्पताम्)+++ ।
 आ॒ग्र॒य॒ण॒श्च॑  मे +++(कल्पताम्)+++ ।  
 वै॒श्व॒दे॒वश्च॑ मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शु॒क्रः । च॒ । मे॒ । म॒न्थी । च॒ । मे॒ । आ॒ग्र॒य॒णः । च॒ । मे॒ । वै॒श्व॒दे॒व इति॑ वैश्व-दे॒वः । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -108,10 +148,20 @@ title = "०७ वसोर्धारा होममन्त्राः"
 वैश्वानर᳓श्च मे  +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the Dhruva, the cup for Vaisvanara (prosper for me through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 ध्रु॒वश्च॑ मे +++(कल्पताम्)+++ ।  
 वै॒श्वा॒न॒रश्च॑ मे  +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ध्रु॒वः । च॒ । मे॒ । वै॒श्वा॒न॒रः । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -137,6 +187,11 @@ title = "०७ वसोर्धारा होममन्त्राः"
 हारियोजन᳓श्च  मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the season cups, the Atigrahyas, the cup for Indra and Agni, the cup for the All-gods, the cups for the Maruts, the cup for Mahendra, the cup for Aditya, the cup for Savitr, the cup for Sarasvati, the cup for Pusan, the cup for Tvastr with the wives of the gods, the Hariyojana cup prosper for me through the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तु॒ग्र॒हाश्च॑ मे +++(कल्पताम्)+++ ।  
@@ -153,6 +208,11 @@ title = "०७ वसोर्धारा होममन्त्राः"
   {+++( एवं पौष्णोऽपि विकृतिगामी द्रष्टव्यः ॥ )+++}
 पा॒त्नी॒व॒तश्च॑  मे +++(कल्पताम्)+++ ।  
 हा॒रि॒यो॒ज॒नश्च॑  मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तु॒ग्र॒हा इत्यृ॑तु-ग्र॒हाः । च॒ । मे॒ । अ॒ति॒ग्रा॒ह्या॑ इत्य॑ति-ग्रा॒ह्याः॑ । च॒ । मे॒ । ऐ॒न्द्रा॒ग्न इत्यै॑न्द्र-अ॒ग्नः । च॒ । मे॒ । वै॒श्व॒दे॒व इति॑ वैश्व-दे॒वः । च॒ । मे॒ । म॒रु॒त्व॒तीयाः॑ । च॒ । मे॒ । मा॒हे॒न्द्र इति॑ माहा-इ॒न्द्रः । च॒ । मे॒ । आ॒दि॒त्यः । च॒ । मे॒ । सा॒वि॒त्रः । च॒ । मे॒ । सा॒र॒स्व॒तः । च॒ । मे॒ । पौ॒ष्णः । च॒ । मे॒ । पा॒त्नी॒व॒त इति॑ पात्नी-व॒तः । च॒ । मे॒ । हा॒रि॒यो॒ज॒न इति॑ हारि-यो॒ज॒नः । च॒ । मे॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

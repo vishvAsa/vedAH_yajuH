@@ -31,9 +31,19 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 अपा᳓न्त्वे᳓मन्त्सादयामि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+I place thee in the going of the waters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पान्त्वेम॑न्त्सादयामि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । त्वा॒ । एम॑न् । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -48,9 +58,19 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 अपा᳓न्त्वो᳓द्मन्त्सादयामि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+I place thee in the rising of the waters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पान्त्वोद्म॑न्त्सादयामि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । त्वा॒ । ओद्म॑न् । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -63,9 +83,19 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 अपा᳓न्त्वा भ᳓स्मन्त्सादयामि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+I place thee in the ashes of the waters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पान्त्वा॒ भस्म॑न्त्सादयामि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । त्वा॒ । भस्म॑न् । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -78,9 +108,19 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 अपा᳓न्त्वा ज्यो᳓तिषि सादयामि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+I place thee in the light of the waters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पान्त्वा॒ ज्योति॑षि सादयामि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । त्वा॒ । ज्योति॑षि । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -93,9 +133,19 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 अपा᳓न्त्वा᳓यने सादयामि ।
 </details>
 
+<details><summary>Keith</summary>
+
+I place thee in the movement of the waters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पान्त्वाय॑ने सादयामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । त्वा॒ । अय॑ने । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -108,9 +158,19 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 अर्णवे᳓ स᳓दने सीद ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Sit on the billows as thy place of rest;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒र्ण॒वे सद॑ने सीद ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒र्ण॒वे । सद॑ने । सी॒द॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -125,9 +185,19 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 समुद्रे᳓ स᳓दने सीद ।  
 </details>
 
+<details><summary>Keith</summary>
+
+sit on the ocean as thy place of rest;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒मु॒द्रे सद॑ने सीद ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒मु॒द्रे । सद॑ने । सी॒द॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -140,9 +210,19 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 सलिले᳓  स᳓दने सीद ।  
 </details>
 
+<details><summary>Keith</summary>
+
+sit on the stream as thy place of rest;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒लि॒ले  सद॑ने सीद ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒लि॒ले । सद॑ने । सी॒द॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -155,9 +235,19 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 अपा᳓ङ्क्ष᳓ये सीद ।
 </details>
 
+<details><summary>Keith</summary>
+
+sit in the abode of the waters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पाङ्क्षये॑ सीद ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । क्षये॑ । सी॒द॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -171,10 +261,20 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 ।  
 </details>
 
+<details><summary>Keith</summary>
+
+sit on the seat of the waters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पाँ सधि॑षि सीद  
 ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । सधि॑षि । सी॒द॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -187,9 +287,19 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 अपा᳓न्त्वा स᳓दने सादयामि ।
 </details>
 
+<details><summary>Keith</summary>
+
+I place thee in the seat of the waters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पान्त्वा॒ सद॑ने सादयामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । त्वा॒ । सद॑ने । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -203,9 +313,19 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 अपा᳓न्त्वा सध᳓स्थे सादयामि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+I place thee in the dwelling of the waters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पान्त्वा॑ स॒धस्थे॑ सादयामि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । त्वा॒ । स॒धस्थ॒ इति॑ स॒ध-स्थे॒ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -218,9 +338,19 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 अपा᳓न्त्वा पु᳓रीषे सादयामि ।   
 </details>
 
+<details><summary>Keith</summary>
+
+I place thee in the dust of the waters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पान्त्वा॒ पुरी॑षे सादयामि ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । त्वा॒ । पुरी॑षे । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -233,9 +363,19 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 अपा᳓न्त्वा यो᳓नौ सादयामि ।   
 </details>
 
+<details><summary>Keith</summary>
+
+I place thee in the womb of the waters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पान्त्वा॒ योनौ॑ सादयामि ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । त्वा॒ । योनौ॑ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -249,9 +389,19 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 अपा᳓न्त्वा पा᳓थसि सादयामि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+I place thee in the stronghold of the waters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पान्त्वा॒ पाथ॑सि सादयामि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । त्वा॒ । पाथ॑सि । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -271,6 +421,11 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 +++(असि)+++ ।    
 </details>
 
+<details><summary>Keith</summary>
+
+The metre the Gayatri; the metre the Tristubh; the metre the Jagati; the metre the Anustubh; the metre the Pankti.
+</details>
+
 <details><summary>मूलम्</summary>
 
 +++(त्वं)+++गा॒य॒त्री छन्दः॑  
@@ -281,6 +436,11 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 +++(त्वं)+++ अ॒नु॒ष्टुष्छन्दः॑  +++(असि)+++ ।  
 +++(त्वं)+++ प॒ङ्क्तिश्छन्दः॑  
 +++(असि)+++ ।    
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गा॒य॒त्री । छन्दः॑ । त्रि॒ष्टुप् । छन्दः॑ । जग॑ती । छन्दः॑ । अ॒नु॒ष्टुबित्य॑नु-स्तुप् । छन्दः॑ । प॒ङ्क्तिः । छन्दः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

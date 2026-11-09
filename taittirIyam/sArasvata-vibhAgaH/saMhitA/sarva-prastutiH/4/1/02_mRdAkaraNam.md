@@ -21,11 +21,24 @@ title = "०२ मृदाकरणम्"
 त᳓या देवा᳓स्सुत᳓मा᳓ बभूवुरृत᳓स्य सा᳓मन्त्सर᳓मार᳓पन्ती ।  
 </details>
 
+<details><summary>Keith</summary>
+
+This bond of order they grasped  
+At their assemblies in ages gone by, the sages;  
+Therewith the gods mastered the pressed (juice)--  
+In the Saman of order proclaiming the stream.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒माम॑गृभ्णन्रश॒नामृ॒तस्य॒ पूर्व॒ आयु॑षि वि॒दथे॑षु क॒व्या ।  
 
 तया॑ दे॒वास्सु॒तमा ब॑भूवुर्ऋ॒तस्य॒ साम॑न्त्स॒रमा॒रप॑न्ती ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒माम् । अ॒गृ॒भ्ण॒न् । र॒श॒नाम् । ऋ॒तस्य॑ । पूर्वे॑ । आयु॑षि । वि॒दथे॑षु । क॒व्या ॥ तया॑ । दे॒वाः । सु॒तम् । एति॑ । ब॒भू॒वुः॒ । ऋ॒तस्य॑ । साम॑न् । स॒रम् । आ॒रप॒न्तीत्या॑-रप॑न्ती ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -60,10 +73,23 @@ title = "०२ मृदाकरणम्"
 दिवि᳓ ते ज᳓न्म परम᳓मन्त᳓रिक्षे ना᳓भिᳶ पृथिव्या᳓म᳓धि यो᳓निः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Swiftly run hither, O steed,  
+Along the most extended space;  
+In the sky is thy highest birth,  
+In the atmosphere thy navel, on the earth thy birthplace.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतू॑र्तव्ँवाजि॒न्ना द्र॑व॒ वरि॑ष्ठा॒मनु॑ सव्ँ॒वत॑म् ।  
 दि॒वि ते॒ जन्म॑ पर॒मम॒न्तरि॑क्षे॒ नाभिᳶ॑ पृथि॒व्यामधि॒ योनिः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रतू॑र्त॒मिति॒ प्र-तू॒र्त॒म् । वा॒जि॒न् । एति॑ । द्र॒व॒ । वरि॑ष्ठाम् । अन्विति॑ । सव्ँ॒वत॒मिति॑ सम्-वत॑म् ॥ दि॒वि । ते॒ । जन्म॑ । प॒र॒मम् । अ॒न्तरि॑क्षे । नाभिः॑ । पृ॒थि॒व्याम् । अधीति॑ । योनिः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -89,10 +115,22 @@ title = "०२ मृदाकरणम्"
 अग्नि᳓म्भ᳓रन्तमस्मयु᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Yoke ye two the ass,  
+In this course, O ye of mighty wealth,  
+Which beareth Agni, serving us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यु॒ञ्जाथाँ॒ रास॑भय्ँयु॒वम॒स्मिन् यामे॑ वृषण्वसू ।  
 अ॒ग्निम्भर॑न्तमस्म॒युम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यु॒ञ्जाथा॑म् । रास॑भम् । यु॒वम् । अ॒स्मिन् । यामे॑ । वृष॑ण्वसू॒ इति॒ वृषण्ण्॑-व॒सू॒ ॥ अ॒ग्निम् । भर॑न्तम् । अ॒स्म॒युमित्य॑स्म-युम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -112,10 +150,22 @@ title = "०२ मृदाकरणम्"
 स᳓खाय इ᳓न्द्रमूत᳓ये ।  
 </details>
 
+<details><summary>Keith</summary>
+
+In each need more strong,  
+In each contest, we invoke,  
+As friends, Indra to aid us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 योगे॑योगे त॒वस्त॑रव्ँ॒वाजे॑वाजे हवामहे ।  
 सखा॑य॒ इन्द्र॑मू॒तये॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+योगे॑योग॒ इति॒ योगे॑-यो॒गे॒ । त॒वस्त॑र॒मिति॑ त॒वः-त॒र॒म् । वाजे॑वाज॒ इति॒ वाजे॑-वा॒जे॒ । ह॒वा॒म॒हे॒ ॥ सखा॑यः । इन्द्र॑म् । ऊ॒तये॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -134,10 +184,22 @@ title = "०२ मृदाकरणम्"
 उर्व᳙न्त᳓रिक्षम᳓न्विहि स्वस्ति᳓गव्यूतिर᳓भयानि कृण्व᳓न् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Hastening [1] come hither, trampling the enemy,  
+Come with wondrous skill from the leadership of Rudra; Fare along the broad atmosphere,  
+With happy pastures, bestowing security.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒तूर्व॑न्न् [5]  एह्य॑व॒क्राम॒न्नश॑स्ती रु॒द्रस्य॒ गाण॑पत्यान्मयो॒भूरेहि॑ ।  
 उ॒र्व॑न्तरि॑क्ष॒मन्वि॑हि स्व॒स्तिग॑व्यूति॒रभ॑यानि कृ॒ण्वन् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒तूर्व॒न्निति॑ प्र-तूर्व॑न् । एति॑ । इ॒हि॒ । अ॒व॒क्राम॒न्नित्य॑व-क्राम॑न् । अश॑स्तीः । रु॒द्रस्य॑ । गाण॑पत्या॒दिति॒ गाण॑-प॒त्या॒त् । म॒यो॒भूरिति॑ मयः-भूः । एति॑ । इ॒हि॒ ॥ उ॒रु । अ॒न्तरि॑क्षम् । अन्विति॑ । इ॒हि॒ । स्व॒स्तिग॑व्यूति॒रिति॑ स्व॒स्ति-ग॒व्यू॒तिः॒ । अभ॑यानि । कृ॒ण्वन्न् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -155,9 +217,19 @@ title = "०२ मृदाकरणम्"
 पूष्णा᳓ सयु᳓जा सह᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+With Pusan as fellow,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पू॒ष्णा स॒युजा॑ स॒ह ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पू॒ष्णा । स॒युजेति॑ स-युजा॑ । स॒ह ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -183,10 +255,20 @@ title = "०२ मृदाकरणम्"
 अग्नि᳓म्पुरीष्य᳙मङ्गिरस्व᳓द᳓च्छेहि ।
 </details>
 
+<details><summary>Keith</summary>
+
+from the abode of the earth do thou approach Agni of the dust in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒व्यास्स॒धस्था॑त् ..  
 अ॒ग्निम्पु॑री॒ष्य॑मङ्गिर॒स्वदच्छे॑हि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पृ॒थि॒व्याः । स॒धस्था॒दिति॑ स॒ध-स्था॒त् । अ॒ग्निम् । पु॒री॒ष्य॑म् । अ॒ङ्गि॒र॒स्वत् । अच्छ॑ । इ॒हि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -205,9 +287,19 @@ title = "०२ मृदाकरणम्"
 अग्नि᳓म्पुरीष्य᳙मङ्गिरस्व᳓द᳓च्छेमः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+We approach Agni of the dust in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निम्पु॑री॒ष्य॑मङ्गिर॒स्वदच्छे॑मः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निम् । पु॒री॒ष्य॑म् । अ॒ङ्गि॒र॒स्वत् । अच्छ॑ । इ॒मः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -226,9 +318,19 @@ title = "०२ मृदाकरणम्"
 अ᳓ग्नि᳓म्पुरीष्य᳙मङ्गिरस्व᳓द्भरिष्यामः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+We will bear Agni of the dust in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्निम्पु॑री॒ष्य॑मङ्गिर॒स्वद्भ॑रिष्यामः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निम् । पु॒री॒ष्य॑म् । अ॒ङ्गि॒र॒स्वत् । भ॒रि॒ष्या॒मः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -248,9 +350,19 @@ title = "०२ मृदाकरणम्"
 अ᳓ग्नि᳓म्पुरीष्य᳙मङ्गिरस्व᳓द्भरामः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+We bear Agni of the dust in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्निम्पु॑री॒ष्य॑मङ्गिर॒स्वद्भ॑रामः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निम् । पु॒री॒ष्य॑म् । अ॒ङ्गि॒र॒स्वत् । भ॒रा॒मः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -271,10 +383,23 @@ title = "०२ मृदाकरणम्"
 अ᳓नु सू᳓र्यस्य [6] पुरुत्रा᳓ च रश्मी᳓न᳓नु द्या᳓वापृथिवी᳓ आ᳓ ततान ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Agni gazed along the forefront of the dawns,  
+Along the days first, the all-knower,  
+And in many ways along the rays of the sun [2],  
+He hath extended along sky and earth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्व॒ग्निरु॒षसा॒मग्र॑मख्य॒दन्वहा॑नि प्रथ॒मो जा॒तवे॑दाः ।  
 अनु॒ सूर्य॑स्य [6] पु॒रु॒त्रा च॑ र॒श्मीननु॒ द्यावा॑पृथि॒वी आ त॑तान ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अन्विति॑ । अ॒ग्निः । उ॒षसा॑म् । अग्र॑म् । अ॒ख्य॒त् । अन्विति॑ । अहा॑नि । प्र॒थ॒मः । जा॒तवे॑दा॒ इति॑ जा॒त-वे॒दाः॒ ॥ अन्विति॑ । सूर्य॑स्य । पु॒रु॒त्रेति॑ पुरु-त्रा । च॒ । र॒श्मीन् । अन्विति॑ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । एति॑ । त॒ता॒न॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -294,10 +419,23 @@ title = "०२ मृदाकरणम्"
 अग्निँ᳓ सध᳓स्थे महति᳓ च᳓क्षुषा नि᳓ चिकीषते ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The steed coming from the way  
+Driveth every foe;  
+He is fain to gaze with his eye  
+On Agni in his great abode.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒गत्य॑ वा॒ज्यध्व॑न॒स्सर्वा॒ मृधो॒ वि धू॑नुते ।  
 अ॒ग्निँ स॒धस्थे॑ मह॒ति चक्षु॑षा॒ नि चि॑कीषते ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒गत्येत्या॑-गत्य॑ । वा॒जी । अध्व॑नः । सर्वाः॑ । मृधः॑ । वीति॑ । धू॒नु॒ते॒ ॥ अ॒ग्निम् । स॒धस्थ॒ इति॑ स॒ध-स्थे॒ । म॒ह॒ति । चक्षु॑षा । नीति॑ । चि॒की॒ष॒ते॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -316,10 +454,23 @@ title = "०२ मृदाकरणम्"
 भू᳓म्या वृत्वा᳓य नो ब्रूहि य᳓तᳵ ख᳓नाम तव्ँ᳓वय᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Coming to earth, O steed,  
+Do thou seek Agni with thy radiance;  
+Turning from earth I tell us  
+Whence we shall dig him up.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒क्रम्य॑ वाजिन्पृथि॒वीम॒ग्निमि॑च्छ रु॒चा त्वम् ।  
 भूम्या॑ वृ॒त्वाय॑ नो ब्रूहि॒ यत॒ᳵ खना॑म॒ तव्ँव॒यम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒क्रम्येत्या॑-क्रम्य॑ । वा॒जि॒न् । पृ॒थि॒वीम् । अ॒ग्निम् । इ॒च्छ॒ । रु॒चा । त्वम् ॥ भूम्याः॑ । वृ॒त्वाय॑ । नः॒ । ब्रू॒हि॒ । यतः॑ । खना॑म । तम् । व॒यम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -341,10 +492,22 @@ title = "०२ मृदाकरणम्"
 विख्या᳓य च᳓क्षुषा त्व᳓मभि᳓ तिष्ठ [7] पृतन्यतः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thy back is the sky, thy abode earth,  
+Thy breath the atmosphere, thy birthplace the ocean; Discerning with thine eye,  
+Do thou overcome [3] the enemy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्यौस्ते॑ पृ॒ष्ठम्पृ॑थि॒वी स॒धस्थ॑मा॒त्मान्तरि॑क्षँ समु॒द्रस्ते॒ योनिः॑ ।  
 वि॒ख्याय॒ चक्षु॑षा॒ त्वम॒भि ति॑ष्ठ [7] पृ॒त॒न्य॒तः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्यौः । ते॒ । पृ॒ष्ठम् । पृ॒थि॒वी । स॒धस्थ॒मिति॑ स॒ध-स्थ॒म् । आ॒त्मा । अ॒न्तरि॑क्षम् । स॒मु॒द्रः । ते॒ । योनिः॑ ॥ वि॒ख्यायेति॑ वि-ख्याय॑ । चक्षु॑षा । त्वम् । अ॒भीति॑ । ति॒ष्ठ॒ । पृ॒त॒न्य॒तः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -368,10 +531,23 @@ title = "०२ मृदाकरणम्"
 वयँ᳓ स्याम सुमतौ᳓ पृथिव्या᳓ अग्नि᳓ङ्खनिष्य᳓न्त उप᳓स्थे अस्याः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Arise for great prosperity  
+From this abode, giving wealth, O steed;  
+May we enjoy the loving favour of earth,  
+That are about to dig fire in her lap.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उत्क्रा॑म मह॒ते सौभ॑गाया॒स्मादा॒स्थाना॑द्द्रविणो॒दा वा॑जिन् ।  
 व॒यँ स्या॑म सुम॒तौ पृ॑थि॒व्या अ॒ग्निङ्ख॑नि॒ष्यन्त॑ उ॒पस्थे॑ अस्याः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उदिति॑ । क्रा॒म॒ । म॒ह॒ते । सौभ॑गाय । अ॒स्मात् । आ॒स्थाना॒दित्या॑-स्थाना॑त् । द्र॒वि॒णो॒दा इति॑ द्रविणः-दाः । वा॒जि॒न् ॥ व॒यम् । स्या॒म॒ । सु॒म॒ताविति॑ सु-म॒तौ । पृ॒थि॒व्याः । अ॒ग्निम् । ख॒नि॒ष्यन्तः॑ । उ॒पस्थ॒ इत्यु॒प-स्थे॒ । अ॒स्याः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -390,10 +566,22 @@ title = "०२ मृदाकरणम्"
 त᳓तᳵ खनेम सुप्र᳓तीकमग्निँ᳓ सु᳓वो रु᳓हाणा अ᳓धि ना᳓क उत्तमे᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The strong steed hath stepped forward, giving wealth; He hath made the place of earth well wrought;  
+Thence let us dig Agni of fair aspect,  
+Mounting the heaven on the top of the vault.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उद॑क्रमीद्द्रविणो॒दा वा॒ज्यर्वाक॒स्स लो॒कँ सुकृ॑तम्पृथि॒व्याः ।  
 तत॑ᳵ खनेम सु॒प्रती॑कम॒ग्निँ सुवो॒ रुहा॑णा॒ अधि॒ नाक॑ उत्त॒मे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उदिति॑ । अ॒क्र॒मी॒त् । द्र॒वि॒णो॒दा इति॑ द्रविणः-दाः । वा॒जी । अर्वा॑ । अकः॑ । सः । लो॒कम् । सुकृ॑त॒मिति॒ सु-कृ॒त॒म् । पृ॒थि॒व्याः ॥ ततः॑ । ख॒ने॒म॒ । सु॒प्रती॑क॒मिति॑ सु-प्रती॑कम् । अ॒ग्निम् । सुवः॑ । रुहा॑णाः । अधीति॑ । नाके॑ । उ॒त्त॒म इत्यु॑त्-त॒मे ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -413,10 +601,22 @@ title = "०२ मृदाकरणम्"
 ता᳓साँ स्था᳓नादु᳓ज्जिहतामो᳓षधयस्सुपिप्पलाः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The water divine do thou pour, full of sweetness  
+To avert diseases for men,  
+From their place let arise
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पो दे॒वीरुप॑ सृज॒ मधु॑मतीरय॒क्ष्माय॑ प्र॒जाभ्यः॑ ।  
 तासाँ॒ स्थाना॒दुज्जि॑हता॒मोष॑धयस्सुपिप्प॒लाः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पः । दे॒वीः । उपेति॑ । सृ॒ज॒ । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒य॒क्ष्माय॑ । प्र॒जाभ्य॒ इति॑ प्र-जाभ्यः॑ ॥ तासा॑म् । स्थाना॑त् । उदिति॑ । जि॒ह॒ता॒म् । ओष॑धयः । सु॒पि॒प्प॒ला इति॑ सु-पि॒प्प॒लाः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -436,10 +636,23 @@ title = "०२ मृदाकरणम्"
 पृथु᳓न्तिरश्चा᳓ व᳓यसा बृह᳓न्तव्व्ँय᳓चिष्ठम᳓न्नँ रभसव्ँ᳓वि᳓दानम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+I touch [4] Agni with mind, with ghee,  
+Who lordeth it over all the worlds,  
+Broad, vast, with pervading vital power,  
+Most extensive, impetuous, winning, food.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जिघ॑र्मि [8] अ॒ग्निम्मन॑सा घृ॒तेन॑ प्रति॒क्ष्यन्त॒म्भुव॑नानि॒ विश्वा॑ ।  
 पृ॒थुन्ति॑र॒श्चा वय॑सा बृ॒हन्त॒व्व्ँयचि॑ष्ठ॒मन्नँ॑ रभ॒सव्ँविदा॑नम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जिघ॑र्मि । अ॒ग्निम् । मन॑सा । घृ॒तेन॑ । प्र॒ति॒क्ष्यन्त॒मिति॑ प्रति-क्ष्यन्त॑म् । भुव॑नानि । विश्वा॑ ॥ पृ॒थुम् । ति॒र॒श्चा । वय॑सा । बृ॒हन्त॑म् । व्यचि॑ष्ठम् । अन्न॑म् । र॒भ॒सम् । विदा॑नम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -468,10 +681,23 @@ title = "०२ मृदाकरणम्"
 म᳓र्यश्रीस्स्पृहय᳓द्वर्णो अग्नि᳓र्ना᳓भिमृ᳓शे तनु᳓वा ज᳓र्हृषाणः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+I touch thee with speech, with ghee,  
+With friendly mind accept it;  
+With mortal glory, with engaging colour,  
+Agni, with body full of life may not be touched.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ त्वा॑ जिघर्मि॒ वच॑सा घृ॒तेना॑र॒क्षसा॒ मन॑सा॒ तज्जु॑षस्व ।  
 मर्य॑श्रीस्स्पृह॒यद्व॑र्णो अ॒ग्निर्नाभि॒मृशे॑ त॒नुवा॒ जर्हृ॑षाणः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । त्वा॒ । जि॒घ॒र्मि॒ । वच॑सा । घृ॒तेन॑ । अ॒र॒क्षसा॑ । मन॑सा । तत् । जु॒ष॒स्व॒ ॥ मर्य॑श्री॒रिति॒ मर्य॑-श्रीः॒ । स्पृ॒ह॒यद्व॑र्ण॒ इति॑ स्पृह॒यत्-व॒र्णः॒ । अ॒ग्निः । न । अ॒भि॒मृश॒ इत्य॑भि-मृशे॑ । त॒नुवा॑ । जर्हृ॑षाणः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -492,10 +718,22 @@ title = "०२ मृदाकरणम्"
 द᳓धद्र᳓त्नानि दाशु᳓षे ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Round the offerings hath Agni gone,  
+The sage, the lord of strength,  
+Bestowing jewels on the donor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 परि॒ वाज॑पतिᳵ क॒विर॒ग्निर्ह॒व्या न्य॑क्रमीत् ।  
 दध॒द्रत्ना॑नि दा॒शुषे॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+परीति॑ । वाज॑पति॒रिति॒ वाज॑-प॒तिः॒ । क॒विः । अ॒ग्निः । ह॒व्यानि॑ । अ॒क्र॒मी॒त् ॥ दध॑त् । रत्ना॑नि । दा॒शुषे॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -514,10 +752,23 @@ title = "०२ मृदाकरणम्"
 धृष᳓द्वर्णन्दिवे᳓दिवे भेत्ता᳓रम्भङ्गुरा᳓वतः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May we set thee around us, O Agni,  
+The sage, O strong one, as a fort,  
+Of daring due, day by day,  
+Destroyer of that which may be broken.
+</details>
+
 <details><summary>मूलम्</summary>
 
 परि॑ त्वाग्ने॒ पुरव्ँ॑व॒यव्ँविप्रँ॑ सहस्य धीमहि ।  
 धृ॒षद्व॑र्णन्दि॒वेदि॑वे भे॒त्तार॑म्भङ्गु॒राव॑तः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+परीति॑ । त्वा॒ । अ॒ग्ने॒ । पुर॑म् । व॒यम् । विप्र॑म् । स॒ह॒स्य॒ । धी॒म॒हि॒ ॥ धृ॒षद्व॑र्ण॒मिति॑ धृ॒षत्-व॒र्ण॒म् । दि॒वेदि॑व॒ इति॑ दि॒वे-दि॒वे॒ । भे॒त्तार॑म् । भ॒ङ्गु॒राव॑त॒ इति॑ भङ्गु॒र-व॒तः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -536,10 +787,23 @@ title = "०२ मृदाकरणम्"
 त्वव्ँ᳓व᳓नेभ्यस्त्व᳓मो᳓षधीभ्यस्त्व᳓न्नृणा᳓न्नृपते जायसे शु᳓चिः ॥ [9]  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou, O Agni, with days, fain to shine towards us,  
+Thou from the waters, thou from the rock,  
+Thou from the woods, thou from the plants,  
+Thou, O lord of men, art born pure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वम॑ग्ने॒ द्युभि॒स्त्वमा॑शुशु॒क्षणि॒स्त्वम॒द्भ्यस्त्वमश्म॑न॒स्परि॑ ।  
 त्वव्ँवने॑भ्य॒स्त्वमोष॑धीभ्य॒स्त्वन्नृ॒णान्नृ॑पते जायसे॒ शुचिः॑ ॥ [9]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । अ॒ग्ने॒ । द्युभि॒रिति॒ द्यु-भिः॒ । त्वम् । आ॒शु॒शु॒क्षणिः॑ । त्वम् । अ॒द्भ्य इत्य॑त्-भ्यः । त्वम् । अश्म॑नः । परि॑ ॥ त्वम् । वने॑भ्यः । त्वम् । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । त्वम् । नृ॒णाम् । नृ॒प॒त॒ इति॑ नृ-प॒ते॒ । जा॒य॒से॒ । शुचिः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

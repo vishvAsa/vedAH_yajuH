@@ -20,10 +20,23 @@ title = "०१ अभ्यादानम्"
 अग्नि᳓ञ्ज्यो᳓तिर्निचा᳓य्य पृथिव्या᳓ अ᳓ध्या᳓भरत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Yoking mind first,  
+Extending his thoughts, Savitr  
+Discerning the light,  
+Hath brought Agni from the earth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यु॒ञ्जा॒नᳶ प्र॑थ॒मम्मन॑स्त॒त्वाय॑ सवि॒ता धियः॑ ।  
 अ॒ग्निञ्ज्योति॑र्नि॒चाय्य॑ पृथि॒व्या अध्याभ॑रत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यु॒ञ्जा॒नः । प्र॒थ॒मम् । मनः॑ । त॒त्वाय॑ । स॒वि॒ता । धियः॑ ॥ अ॒ग्निम् । ज्योतिः॑ । नि॒चाय्येति॑ नि-चाय्य॑ । पृ॒थि॒व्याः । अधि॑ । एति॑ । अ॒भ॒र॒त् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -43,10 +56,23 @@ title = "०१ अभ्यादानम्"
 बृह᳓ज्ज्यो᳓तिᳵ करिष्यत᳓स्सविता᳓ प्र᳓ सुवति ता᳓न् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Yoking with mind the gods,  
+Going to the heaven, the sky, with thought,  
+Those that are to make great light,  
+Savitr instigates.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यु॒क्त्वाय॒ मन॑सा दे॒वान्त्सुव॑र्य॒तो धि॒या दिव॑म् ।
 बृ॒हज्ज्योति॑ᳵ करिष्य॒तस्स॑वि॒ता प्र सु॑वति॒ तान् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यु॒क्त्वाय॑ । मन॑सा । दे॒वान् । सुवः॑ । य॒तः । धि॒या । दिव॑म् ॥ बृ॒हत् । ज्योतिः॑ । क॒रि॒ष्य॒तः । स॒वि॒ता । प्रेति॑ । सु॒वा॒ति॒ । तान् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -68,10 +94,22 @@ title = "०१ अभ्यादानम्"
 सुवर्गे᳓याय श᳓क्त्यै ।
 </details>
 
+<details><summary>Keith</summary>
+
+With mind well yoked are we  
+In the instigation of god Savitr,  
+For strength to go to the heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यु॒क्तेन॒ मन॑सा व॒यन्दे॒वस्य॑ सवि॒तुस्स॒वे ।    
 सु॒व॒र्गेया॑य॒ शक्त्यै॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यु॒क्तेन॑ । मन॑सा । व॒यम् । दे॒वस्य॑ । स॒वि॒तुः । स॒वे ॥ सु॒व॒र्गेया॒येति॑ सुवः-गेया॑य । शक्त्यै॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -90,10 +128,23 @@ title = "०१ अभ्यादानम्"
 वि᳓ हो᳓त्रा दधे वयुनावि᳓दे᳓क इ᳓त् [1] मही᳓ देव᳓स्य सवितुᳶ᳓ प᳓रिष्टुतिः ।
 </details>
 
+<details><summary>Keith</summary>
+
+They yoke their minds, they yoke their thoughts,  
+The priests of the mighty wise priest,  
+He alone, who knoweth the way, appointeth their functions [1]  
+Great is the praise of the god Savitr.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यु॒ञ्जते॒ मन॑ उ॒त यु॑ञ्जते॒ धियो॒ विप्रा॒ विप्र॑स्य बृह॒तो वि॑प॒श्चितः॑ ।  
 वि होत्रा॑ दधे वयुना॒विदेक॒ इत् [1] म॒ही दे॒वस्य॑ सवि॒तुᳶ परि॑ष्टुतिः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यु॒ञ्जते॑ । मनः॑ । उ॒त । यु॒ञ्ज॒ते॒ । धियः॑ । विप्राः॑ । विप्र॑स्य । बृ॒ह॒तः । वि॒प॒श्चितः॑ ॥ वीति॑ । होत्राः॑ । द॒धे॒ । व॒यु॒ना॒विदिति॑ वयुन-वित् । एकः॑ । इत् । म॒ही । दे॒वस्य॑ । स॒वि॒तुः । परि॑ष्टुति॒रिति॒ परि॑-स्तु॒तिः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -123,10 +174,23 @@ title = "०१ अभ्यादानम्"
 शृण्व᳓न्ति वि᳓श्वे अमृ᳓तस्य पुत्रा᳓ आ᳓ ये᳓ धा᳓मानि दिव्या᳓नि तस्थुः᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+I yoke with honour your ancient prayer;  
+The praises go like Suras on their way;  
+All the sons of immortality hear (it),  
+Who have achieved dwellings divine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यु॒जे वा॒म्ब्रह्म॑ पू॒र्व्यन्नमो॑भि॒र्वि श्लोका॑ यन्ति प॒थ्ये॑व॒ सूराः॑ ।  
 शृ॒ण्वन्ति॒ विश्वे॑ अ॒मृत॑स्य पु॒त्रा आ ये धामा॑नि दि॒व्यानि॑ त॒स्थुः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यु॒जे । वा॒म् । ब्रह्म॑ । पू॒र्व्यम् । नमो॑भि॒रिति॒ नमः॑-भिः॒ । वीति॑ । श्लोकाः॑ । य॒न्ति॒ । प॒थ्या॑ । इ॒व॒ । सूराः॑ ॥ शृ॒ण्वन्ति॑ । विश्वे॑ । अ॒मृत॑स्य । पु॒त्राः । एति॑ । ये । धामा॑नि । दि॒व्यानि॑ । त॒स्थुः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -149,10 +213,23 @@ title = "०१ अभ्यादानम्"
 यᳶ᳓ पा᳓र्थिवानि विममे᳓ स᳓ ए᳓तशो र᳓जाँसि देव᳓स्सविता᳓ महित्वना᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+He whose advance others followed,  
+Gods, of the god praising might,  
+He who meted out the regions of earth,  
+He is the brilliant god Savitr in greatness.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्य॑ प्र॒याण॒मन्व॒न्य इद्य॒युर्दे॒वा दे॒वस्य॑ महि॒मान॒मर्च॑तः ।   
 यᳶ पार्थि॑वानि विम॒मे स एत॑शो॒ रजाँ॑सि दे॒वस्स॑वि॒ता म॑हित्व॒ना ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यस्य॑ । प्र॒याण॒मिति॑ प्र-यान॑म् । अन्विति॑ । अ॒न्ये । इत् । य॒युः । दे॒वाः । दे॒वस्य॑ । म॒हि॒मान॑म् । अर्च॑तः ॥ यः । पार्थि॑वानि । वि॒म॒म इति॑ वि-म॒मे । सः । एत॑शः । रजाँ॑सि । दे॒वः । स॒वि॒ता । म॒हि॒त्व॒नेति॑ महि-त्व॒ना ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -174,12 +251,22 @@ title = "०१ अभ्यादानम्"
 केतपूᳵ᳓ के᳓तन्नᳶ पुनातु वाच᳓स्प᳓तिर्वा᳓चमद्य᳓ स्वदाति नः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O god Savitr, instigate the sacrifice, instigate the lord of the sacrifice [2] to good luck; may the divine Gandharva, who purifieth thoughts purify our thought; may the lord of speech to-day make sweet our utterance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देव॑ सवित॒ᳶ प्र सु॑व य॒ज्ञम् ,   
 प्र सु॑व [2]य॒ज्ञप॑ति॒म्भगा॑य दि॒व्यो ग॑न्ध॒र्वः ।
 
 के॒त॒पूᳵ केत॑न्नᳶ पुनातु वा॒चस्पति॒र्वाच॑म॒द्य स्व॑दाति नः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+देव॑ । स॒वि॒तः॒ । प्रेति॑ । सु॒व॒ । य॒ज्ञम् । प्रेति॑ । सु॒व॒ । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म् । भगा॑य । दि॒व्यः । ग॒न्ध॒र्वः ॥ के॒त॒पूरिति॑ केत-पूः । केत॑म् । नः॒ । पु॒ना॒तु॒ । वा॒चः । पतिः॑ । वाच॑म् । अ॒द्य । स्व॒दा॒ति॒ । नः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -197,9 +284,20 @@ title = "०१ अभ्यादानम्"
 इम᳓न्नो देव सवितर्यज्ञ᳓म्प्र᳓ सुव ।
 </details>
 
+<details><summary>Keith</summary>
+
+This sacrifice for us, O god Savitr,  
+Do thou instigate,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मन्नो॑ देव सवितर्य॒ज्ञम्प्र सु॑व ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒मम् । नः॒ । दे॒व॒ । स॒वि॒तः॒ । य॒ज्ञम् । प्रेति॑ । सु॒व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -212,9 +310,20 @@ title = "०१ अभ्यादानम्"
 दे᳓वायु᳓वँ सखिवि᳓दँ सत्राजि᳓तन्धनजि᳓तँ सुवर्जि᳓तम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Serving the gods, finding comrades, ever victorious,  
+Winning booty, winning heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवा॒युवँ॑ सखि॒विदँ॑ सत्रा॒जित॑न्धन॒जितँ॑ सुव॒र्जित॑म् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वा॒युव॒मिति॑ देव-युव॑म् । स॒खि॒विद॒मिति॑ सखि-विद॑म् । स॒त्रा॒जित॒मिति॑ सत्र-जित॑म् । ध॒न॒जित॒मिति॑ धन-जित॑म् । सु॒व॒र्जित॒मिति॑ सुवः-जित॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -248,10 +357,22 @@ title = "०१ अभ्यादानम्"
 बृह᳓द्गायत्र᳓वर्तनि ।
 </details>
 
+<details><summary>Keith</summary>
+
+By the Rc make the Stoma to prosper,  
+By the Gayatra the Rathantara,  
+The Brhat with the Gayatri for its metre.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒चा स्तोमँ॒ सम॑र्धय गाय॒त्रेण॑ रथन्त॒रम् ।   
 बृ॒हद्गा॑य॒त्रव॑र्तनि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒चा । स्तोम॑म् । समिति॑ । अ॒र्ध॒य॒ । गा॒य॒त्रेण॑ । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् ॥ बृ॒हत् । गा॒य॒त्रव॑र्त॒नीति॑ गाय॒त्र-व॒र्त॒नि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -274,9 +395,19 @@ title = "०१ अभ्यादानम्"
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙ऽश्वि᳓नोर्बाहु᳓भ्याम्पूष्णो᳓ ह᳓स्ताभ्याङ्गायत्रे᳓ण छ᳓न्दसा᳓ऽऽददे ।
 </details>
 
+<details><summary>Keith</summary>
+
+On the impulse of the god Savitr, with the arms of the Aśvins, with the hands of Pusan, with the Gayatri metre, I take thee, in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑ऽश्विनो॑र्बा॒हुभ्या॑म्पू॒ष्णो हस्ता॑भ्याङ्गाय॒त्रेण॒ छन्द॒साऽऽद॑दे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् । गा॒य॒त्रेण॑ । छन्द॑सा । एति॑ । द॒दे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -289,9 +420,19 @@ title = "०१ अभ्यादानम्"
 अ᳓ङ्गि᳓रस्व᳓द᳓भ्रिरसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+In the manner of Angiras, thou art the spade,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अङ्गिर॒स्वदभ्रि॑रसि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ङ्गि॒र॒स्वत् । अभ्रिः॑ । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -305,9 +446,19 @@ title = "०१ अभ्यादानम्"
 ना᳓रिः [3]  असि᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the woman [3],
+</details>
+
 <details><summary>मूलम्</summary>
 
 नारिः॑ [3]  अ॒सि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नारिः॑ । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -320,9 +471,19 @@ title = "०१ अभ्यादानम्"
 पृथिव्या᳓स्सध᳓स्थादग्नि᳓म्पुरीष्य᳙मङ्गिरस्व᳓दा᳓ भर ।  
 </details>
 
+<details><summary>Keith</summary>
+
+from the abode of the earth bear Agni of the dust in the manner of Angiras;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒व्यास्स॒धस्था॑द॒ग्निम्पु॑री॒ष्य॑मङ्गिर॒स्वदा भ॑र ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पृ॒थि॒व्याः । स॒धस्था॒दिति॑ स॒ध-स्था॒त् । अ॒ग्निम् । पु॒री॒ष्य॑म् । अ॒ङ्गि॒र॒स्वत् । एति॑ । भ॒र॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -337,9 +498,19 @@ title = "०१ अभ्यादानम्"
 त्रै᳓ष्टुभेन त्वा छ᳓न्दसा᳓ऽऽददे ।  
 </details>
 
+<details><summary>Keith</summary>
+
+with the Tristubh metre I grasp thee in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रैष्टु॑भेन त्वा॒ छन्द॒साऽऽद॑दे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रैष्टु॑भेन । त्वा॒ । छन्द॑सा । एति॑ । द॒दे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -354,11 +525,21 @@ title = "०१ अभ्यादानम्"
 त्व᳓या वयँ᳓ सध᳓स्थ आ᳓ग्निँ᳓ शकेम ख᳓नितुम्पुरीष्य᳙ञ्जा᳓गतेन त्वा छ᳓न्दसा᳓ऽऽददे ।  अङ्गिरस्व᳓त् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the bearer, thou art the woman; through thee may we be strong to dig Agni of the dust in his place; with the Jagati metre I grasp thee in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ङ्गि॒र॒स्वत् बभ्रि॑रसि॒ , नारि॑रसि ।
 
 त्वया॑ व॒यँ स॒धस्थ॒ आग्निँ श॑केम॒ खनि॑तुम्पुरी॒ष्य॑ञ्जाग॑तेन त्वा॒ छन्द॒साऽऽद॑दे ।  अ॒ङ्गि॒र॒स्वत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ङ्गि॒र॒स्वत् । बभ्रिः॑ । अ॒सि॒ । नारिः॑ । अ॒सि॒ । त्वया॑ । व॒यम् । स॒धस्थ॒ इति॑ स॒ध-स्थे॒ । एति॑ । अ॒ग्निम् । श॒के॒म॒ । खनि॑तुम् । पु॒री॒ष्य॑म् । जाग॑तेन । त्वा॒ । छन्द॑सा । एति॑ । द॒दे॒ । अ॒ङ्गि॒र॒स्वत् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -379,9 +560,20 @@ title = "०१ अभ्यादानम्"
 ह᳓स्त आधा᳓य सविता᳓ बि᳓भ्रद᳓भ्रिँ हिरण्य᳓यीम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Grasping in thy hand, Savitr,  
+Bearing the spade of gold,
+</details>
+
 <details><summary>मूलम्</summary>
 
 हस्त॑ आ॒धाय॑ सवि॒ता बिभ्र॒दभ्रिँ॑ हिर॒ण्ययी॑म् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+हस्ते॑ । आ॒धायेत्या॑-धाय॑ । स॒वि॒ता । बिभ्र॑त् । अभ्रि॑म् । हि॒र॒ण्ययी॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -394,9 +586,20 @@ title = "०१ अभ्यादानम्"
 त᳓या ज्यो᳓तिर᳓जस्रमि᳓त् +अग्नि᳓ङ्खात्वी᳓ न आ᳓ भर᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Therewith digging Agni  
+Do thou bring for us light unperishing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तया॒ ज्योति॒रज॑स्र॒मित् +अ॒ग्निङ्खा॒त्वी न॒ आ भ॒र ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तया॑ । ज्योतिः॑ । अज॑स्रम् । इत् । अ॒ग्निम् । खा॒त्वी । नः॒ । एति॑ । भ॒र॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -410,10 +613,20 @@ title = "०१ अभ्यादानम्"
 अङ्गिरस्व᳓त् ॥  
 </details>
 
+<details><summary>Keith</summary>
+
+With the Anustubh metre I grasp thee in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आनु॑ष्टुभेन त्वा॒ छन्द॒साऽऽद॑दे ।
 अ॒ङ्गि॒र॒स्वत् ॥  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आनु॑ष्टुभे॒नेत्यानु॑-स्तु॒भे॒न॒ । त्वा॒ । छन्द॑सा । एति॑ । द॒दे॒ । अ॒ङ्गि॒र॒स्वत् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

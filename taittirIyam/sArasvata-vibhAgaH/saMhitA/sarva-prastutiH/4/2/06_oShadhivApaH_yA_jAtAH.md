@@ -20,7 +20,7 @@ title = "०६ ओषधिवापः"
 तत्र प्रथमामाह–  या जाता इति।  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/02_yA_jAtA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/02_yA_jAtA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -50,6 +50,11 @@ The seven and a hundred abodes.
 मन्दा॑मि ब॒भ्रूणा॑महँ श॒तन्धामा॑नि स॒प्त च॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+याः । जा॒ताः । ओष॑धयः । दे॒वेभ्यः॑ । त्रि॒यु॒गमिति॑ त्रि-यु॒गम् । पु॒रा ॥ मन्दा॑मि । ब॒भ्रूणा॑म् । अ॒हम् । श॒तम् । धामा॑नि । स॒प्त । च॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 युगशब्दः कालवाची ।  
@@ -59,7 +64,7 @@ The seven and a hundred abodes.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/03_shatav.N_vo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/03_shatav.N_vo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -93,6 +98,11 @@ Make him whole for me.
 अथा॑ शतक्रत्वो यू॒यमि॒मम्मे॑ अग॒दङ्कृ॑त ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+श॒तम् । वः॒ । अ॒म्ब॒ । धामा॑नि । स॒हस्र॑म् । उ॒त । वः॒ । रुहः॑ ॥ अथ॑ । श॒त॒क्र॒त्व॒ इति॑ शत-क्र॒त्वः॒ । यू॒यम् । इ॒मम् । मे॒ । अ॒ग॒दम् । कृ॒त॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हेऽम्ब मातृस्थानीया ओषधयो वो युष्माकं धामानि जातिभेदाः क्षेत्राणि वा शतं सन्ति ।  
@@ -104,7 +114,7 @@ Make him whole for me.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/04_puShpAvatIpH_prasUvatIpH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/04_puShpAvatIpH_prasUvatIpH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -139,6 +149,11 @@ The plants are strong to help.
 अश्वा॑ इव स॒जित्व॑रीर्वी॒रुधᳶ॑ पारयि॒ष्णवः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पुष्पा॑वती॒रिति॒ पुष्प॑-व॒तीः॒ । प्र॒सूव॑ती॒रिति॑ प्र-सूव॑तीः । फ॒लिनीः॑ । अ॒फ॒लाः । उ॒त ॥ अश्वाः॑ । इ॒व॒ । स॒जित्व॑री॒रिति॑ स-जित्व॑रीः । वी॒रुधः॑ । पा॒र॒यि॒ष्णवः॑ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अत्रौषधयो नानाविधैर्विशेषणैः प्रशस्यन्ते ।  
@@ -156,7 +171,7 @@ The plants are strong to help.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/05_oShadhIr_iti.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/05_oShadhIr_iti.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -191,6 +206,11 @@ Defilement [1] destroying.
 रपाँ॑सि विघ्न॒तीरि॑त॒ रपः॑ [24]  चा॒तय॑मानाः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ओष॑धीः । इति॑ । मा॒त॒रः॒ । तत् । वः॒ । दे॒वीः॒ । उपेति॑ । ब्रु॒वे॒ ॥ रपाँ॑सि । वि॒घ्न॒तीरिति॑ वि-घ्न॒तीः । इ॒त॒ । रपः॑ । चा॒तय॑मानाः ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे मातरो मातृसमाना देवीर्देव्यः।  
@@ -205,7 +225,7 @@ Defilement [1] destroying.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/06_ashvatthe_vo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/06_ashvatthe_vo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -240,6 +260,11 @@ If ye shall gain this man.
 गो॒भाज॒ इत्किला॑सथ॒ यत्स॒नव॑थ॒ पूरु॑षम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒श्व॒त्थे । वः॒ । नि॒षद॑न॒मिति॑ नि-सद॑नम् । प॒र्णे । वः॒ । व॒स॒तिः । कृ॒ता ॥ गो॒भाज॒ इति॑ गो-भाजः॑ । इत् । किल॑ । अ॒स॒थ॒ । यत् । स॒नव॑थ । पूरु॑षम् ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे ओषधिदेवता वो युष्माकमश्वत्थे निषदनं पर्णे पला-शवृक्षे वो युष्माक वसतिः कृता निवासकारणं गृहं कृतम् ।  
@@ -252,7 +277,7 @@ If ye shall gain this man.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/07_yad_ahav.N.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/07_yad_ahav.N.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -287,6 +312,11 @@ As before one that taketh alive.
 आ॒त्मा यक्ष्म॑स्य नश्यति पु॒रा जी॑व॒गृभो॑ यथा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । अ॒हम् । वा॒जय॑न् । इ॒माः । ओष॑धीः । हस्ते॑ । आ॒द॒ध इत्या॑-द॒धे ॥ आ॒त्मा । यक्ष्म॑स्य । न॒श्य॒ति॒ । पु॒रा । जी॒व॒गृभ॒ इति॑ जीव-गृभः॑ । य॒था॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 यद्यदाऽहं वाजयन्नन्नमिच्छन्निमा ओषधीर्हस्त आदधामि तदानीमेव यक्ष्मस्य क्षुधादिरोगस्याऽऽत्मा स्वरूपं पुरा नश्यति भोजनात्प्रगेव नष्टसदृशो भवति ।  
@@ -296,7 +326,7 @@ As before one that taketh alive.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -312,11 +342,7 @@ As before one that taketh alive.
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-</details>
-
-</div>
-
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 When the plants come together  
 Like princes at the assembly,  
@@ -330,13 +356,21 @@ Slayer of Raksases, overpowerer of diseases.
 विप्र॒स्स उ॑च्यते भि॒षग्र॑क्षो॒हामी॑व॒चात॑नः ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । ओष॑धयः । स॒ङ्गच्छ॑न्त॒ इति॑ सम्-गच्छ॑न्ते । राजा॑नः । समि॑ता॒विति॒ सम्-इ॒तौ॒ । इ॒व॒ ॥ विप्रः॑ । सः । उ॒च्य॒ते॒ । भि॒षक् । र॒क्षो॒हेति॑ रक्षः-हा । अ॒मी॒व॒चात॑न॒ इत्य॑मीव-चात॑नः ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ सप्तमीमाह– यदोषधय इति ।  
 यद्यदौषधयः सर्वाः संगच्छन्ते फलदानाय क्षेत्रसंगता  १९१५ भवन्ति, तत्र दृष्टान्तः—राजानः समिताविव, यथा युद्धे प्रतिपक्षिणः सेनां जेतुं परस्परमनुकूला राजानः संगच्छन्ते तद्वत् ।   तदानीं संगतास्वोषधीषु विप्रो मेधावी सरवीर्यभावनाभिज्ञो यः पुरुषः स भिषगुच्यते क्षुधादिरोगचिकित्सक इत्यभिधीयते ।   कथं भिषक्त्वमिति तदुच्यते—रक्षोहा पक्वाभिरेताभिः पुसेडाशं राक्षोघ्नं कृत्वा रक्षसां हन्ता तदुपद्रवरूपं रोगं विनाशयति ।   अमीवचातन ओषधिजन्यपथ्यादिभिरमीवान्रोगां-श्चातयति विनाशयतीत्यमीवचातनः ।  
 </details>
+</details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
+</div>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -370,6 +404,11 @@ Remove whatever is unwell.
 स॒राᳶ प॑त॒त्रिणीः॑ [25]  स्थ॒न॒ यदा॒मय॑ति॒ निष्कृ॑त ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+निष्कृ॑ति॒रिति॒ निः-कृ॒तिः॒ । नाम॑ । वः॒ । मा॒ता । अथ॑ । यू॒यम् । स्थ॒ । सङ्कृ॑ती॒रिति॒ सम्-कृ॒तीः॒ ॥ स॒राः । प॒त॒त्रिणीः॑ । स्थ॒न॒ । यत् । आ॒मय॑ति । निरिति॑ । कृ॒त॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे ओषधयो वो युष्माकं निष्कृतिर्नाम क्षुधादिविनाशन-मव माता मातृवदुत्पत्तिनिमित्तं क्षुदादिकं निवारयितुमेव हि भवतीनामुत्पत्तिः ।   अथैवं सति यूयं संकृतीः स्थ सम्यक्स्वकार्ये क्षमा भवत ।   सराः क्षुदादीनामपवारयित्र्यः पतत्रि-णीः पतत्त्रं पत्रं तस्मात्प्रत्यागमनं तेनाऽऽगमनेनोपेताः स्थन भक्त ।   यत्क्षुदादिकमामयति रोगवद्वाधते तन्निष्कृत विनाशयत ।
@@ -378,7 +417,7 @@ Remove whatever is unwell.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/10_anyA_vo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/10_anyA_vo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -413,6 +452,11 @@ Do ye further this speech of mine.
 तास्सर्वा॒ ओष॑धयस्सव्ँविदा॒ना इ॒दम्मे॒ प्राव॑ता॒ वचः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒न्या । वः॒ । अ॒न्याम् । अ॒व॒तु॒ । अ॒न्या । अ॒न्यस्याः॑ । उपेति॑ । अ॒व॒त॒ ॥ ताः । सर्वाः॑ । ओष॑धयः । सव्ँ॒वि॒दा॒ना इति॑ सम्-वि॒दा॒नाः । इ॒दम् । मे॒ । प्रेति॑ । अ॒व॒त॒ । वचः॑ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे ओषधयो वो युष्माकं मध्येऽन्या काचिदोषधिव्यक्तिर-न्यामितरामोषधिव्यक्तिमवतु रक्षतु ।   तथा रक्षिता साऽन्याऽप्यन्यस्या रक्षिकाया उपावत समीपमागत्य तामप्यवतु ।   संभूयकारित्वात्परल्पररक्षकत्वमुचितम् ।   तथाविधाः सर्वा हे ओषधयः संविदानाः परस्परमैकमत्यं गता इदं मे मदीयं वचो वाक्यं प्रार्थनारूपं प्रावत प्रकर्षेण रक्षत ।
@@ -421,7 +465,7 @@ Do ye further this speech of mine.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/11_uch_ChuShmA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/11_uch_ChuShmA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -455,6 +499,11 @@ To the self of thee, O man.
 धनँ॑ सनि॒ष्यन्ती॑नामा॒त्मान॒न्तव॑ पूरुष ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वचः॑ ॥ उदिति॑ । शुष्माः॑ । ओष॑धीनाम् । गावः॑ । गो॒ष्ठादिति॑ गो-स्थात् । इ॒व॒ । ई॒र॒ते॒ ॥ धन॑म् । स॒नि॒ष्यन्ती॑नाम् । आ॒त्मान॑म् । तव॑ । पू॒रु॒ष॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 ओषधीनां शुष्मास्तदु भोगजन्या बलविशेषा उदीरत उद्ग- गच्छन्ति ।   तत्र दृष्टान्तः-गावो गोष्ठादिव, यथा गांवो निवासस्थानाद्गृहादरण्यदेशं प्रत्यु-द्गच्छन्ति तद्वत्।   कीदृशीनामोषधीनां पूरुष तवाऽऽत्मानं धनं सनिष्यन्तीनां हे यजमान त्वदीयं शरीरं धनमिव दातुमिच्छन्तीनां यथा धनं दास्यन्ति एवमोषधयोऽपि त्वदीयशरी-राकारेण परिणता शरीरं दास्यन्तीत्यर्थः ।
@@ -463,7 +512,7 @@ To the self of thee, O man.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/12_ati_vishvAH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/12_ati_vishvAH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -498,6 +547,11 @@ Every defilement in the body.
 ओष॑धय॒ᳶ प्राचु॑च्यवु॒र्यत्किञ्च॑ त॒नुवाँ॒ रपः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अतीति॑ । विश्वाः॑ । प॒रि॒ष्ठा इति॑ परि-स्थाः । स्ते॒नः । इ॒व॒ । व्र॒जम् । अ॒क्र॒मुः॒ ॥ ओष॑धयः । प्रेति॑ । अ॒चु॒च्य॒वुः॒ । यत् । किम् । च॒ । त॒नुवा॑म् । रपः॑ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 **परिष्ठाः** शरीरस्योपरि स्थिता उदरमध्ये प्रविष्टा विश्वाः सर्वा ओषधयोऽत्यजीर्णादिदोषमतिलङ्घ्याक्रमुः क्रान्ता देहे व्याप्ता इत्यर्थः ।   तत्र दृष्टान्तः—स्तेन इव व्रज्रं, यथा रात्रौ गुप्तचोरो गोष्ठं प्रविश्य गामपहर्तुं सावधानो गोशालयां[लां] सर्वतो व्याप्नोति तद्वत् ।   तनुवां शरीराणां संबन्धि यक्तिंच रपो स्वरशिरोव्याधिगुल्मातिसारादिरूपं पापफलं यत्किंचिदस्ति तत्सर्वमोषधयः प्राचुच्यवुर्वि-नाशितवत्यः ।
@@ -506,7 +560,7 @@ Every defilement in the body.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/13_yAs_ta.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/13_yAs_ta.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -540,6 +594,11 @@ Like a dread intercessor.
 तास्ते॒ यक्ष्मव्ँ॒वि बा॑धन्तामु॒ग्रो म॑ध्यम॒शीरि॑व ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+याः । ते । आ॒त॒स्थुरित्या॑-त॒स्थुः । आ॒त्मान॑म् । याः । आ॒वि॒वि॒शुरित्या॑-वि॒वि॒शुः । परु॑ᳶपरु॒रिति॒ परुः॑-प॒रुः॒ ॥ ताः । ते॒ । यक्ष्म॑म् । वीति॑ । बा॒ध॒न्ता॒म् । उ॒ग्रः । म॒ध्य॒म॒शीरिति॑ मध्यम-शीः । इ॒व॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे यजमान ते तवाऽऽत्मानं शरीरं या ओषधय आतस्थु-राक्रम्य तिष्ठन्ति, या ओषधयः परुःपरुराविविशू रसरूपेण तत्तत्पर्व प्रविष्टवत्यस्ताः सर्वास्ते तव यक्ष्मं रोगं विबाधन्तां विशेषेण नाशयन्तु ।   तत्र दृष्टान्तः—मध्यमशीरिव, मध्यमेन स्वकीयपरकीयपक्षपातरहितेन शास्त्रीयमार्गेण शेते वर्तत इति **मध्यमशीः** तादृशो राजा दुष्टान्त्पत्युग्रो भूत्वा यथा विनाशयति तद्वत् ।
@@ -548,7 +607,7 @@ Like a dread intercessor.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/14_sAkay.N_yakhShma.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/14_sAkay.N_yakhShma.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -583,6 +642,11 @@ With the whirlwind do thou disappear.
 सा॒कव्ँवात॑स्य॒ ध्राज्या॑ सा॒कन्न॑श्य नि॒हाक॑या ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सा॒कम् । य॒क्ष्म॒ । प्रेति॑ । प॒त॒ । श्ये॒नेन॑ । कि॒कि॒दी॒विना॑ ॥ सा॒कम् । वात॑स्य । ध्राज्या॑ । सा॒कम् । न॒श्य॒ । नि॒हाक॒येति॑ नि-हाक॑या ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 श्लेष्मावरुद्धकण्ठजन्यध्वनेरनुकरणार्थोऽयं किकिशब्दस्तेन किकिना ध्वनिविशेषेण दीव्यति व्यवहरतीति रोगविशेषः किकिदीविः ।   
@@ -594,7 +658,7 @@ With the whirlwind do thou disappear.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/15_ashvAvatIM_somavatIm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/15_ashvAvatIM_somavatIm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -629,6 +693,11 @@ For his safety.
 आ वि॑त्सि॒ सर्वा॒ ओष॑धीर॒स्मा अ॑रि॒ष्टता॑तये ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒श्वा॒व॒तीमित्य॑श्व-व॒तीम् । सो॒म॒व॒तीमिति॑ सोम-व॒तीम् । ऊ॒र्जय॑न्तीम् । उदो॑जस॒मित्युत्-ओ॒ज॒स॒म् ॥ एति॑ । वि॒त्सि॒ । सर्वाः॑ । ओष॑धीः । अ॒स्मै । अ॒रि॒ष्टता॑तय॒ इत्य॑रि॒ष्ट-ता॒त॒ये॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 काचि॑दोषधिजातिरश्वावती, अश्वा अस्यां सन्तित्यश्वा वती, ओषधिसमृद्धौ सत्यां धनद्वारेणाश्वा लभ्यन्त इत्यर्थः ।   अन्या काचिदो षधिजातिः सोमवती सोमयागोऽस्यामस्तीति सोमवती, धान्यसमृद्धौ सत्यां सोमयागः कर्तुं शक्यत इत्यर्थः ।   अपरोर्जयन्ती, ऊर्ज बलं प्राणचेष्टां वा करोतीत्यर्थः ।   अन्या जातिरुदोजाः, उत्कृष्टयोजोऽष्टमधातुरूपं यस्याः सोदोजाः अन्नद्वारेण शरीरधातून्पोषयतीत्यर्थः ।
@@ -638,7 +707,7 @@ For his safety.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/16_yApH_phalinIr.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/16_yApH_phalinIr.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -673,6 +742,11 @@ May they free us from tribulation.
 बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वँह॑सः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+याः । फ॒लिनीः॑ । याः । अ॒फ॒लाः । अ॒पु॒ष्पाः । याः । च॒ । पु॒ष्पिणीः॑ ॥ बृह॒स्पति॑प्रसूता॒ इति॒ बृह॒स्पति॑-प्र॒सू॒ताः॒ । ताः । नः॒ । मु॒ञ्च॒न्तु॒ । अँह॑सः ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 या ओषधयः फलयुक्ता याः फलरहिता याश्च पुष्प रहिता याश्च पुष्पयुक्तास्ताः सर्वा बृहस्पतिप्रसूताः सत्यो नोऽस्मानंहसः पापान्मोचयन्तु ।
@@ -681,7 +755,7 @@ May they free us from tribulation.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/17_yA_oShadhayas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/17_yA_oShadhayas.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -716,6 +790,11 @@ Impel us to long life.
 तासा॒न्त्वम॑स्युत्त॒मा प्र णो॑ जी॒वात॑वे सुव ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+याः । ओष॑धयः । सोम॑राज्ञी॒रिति॒ सोम॑-रा॒ज्ञीः॒ । प्रवि॑ष्टा॒ इति॒ प्र-वि॒ष्टाः॒ । पृ॒थि॒वीम् । अनु॑ ॥ तासा॑म् । त्वम् । अ॒सि॒ । उ॒त्त॒मेत्यु॑त्-त॒मा । प्रेति॑ । नः॒ । जी॒वात॑वे । सु॒व॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 सोमो राजा यासां ताः सोमराऽयस्तादृश्यो या ओष-धयः पृथिवीमनु प्रविष्टास्तासां मध्य इदानीमुप्यमाने हे ओषधे त्वमुत्तमाऽसि ।   अतो नोऽस्माञ्जीवातवे जीवनौषधाय प्रसुव प्रकर्षेण प्रेरय ।
@@ -724,7 +803,7 @@ Impel us to long life.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/18_avapatantIr_avadan.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/18_avapatantIr_avadan.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -759,6 +838,11 @@ Shall not come to ill.'
 यञ्जी॒वम॒श्ञवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒व॒पत॑न्ती॒रित्य॑व-पत॑न्तीः । अ॒व॒द॒न् । दि॒वः । ओष॑धयः । परि॑ ॥ यम् । जी॒वम् । अ॒श्ञवा॑महै । न । सः । रि॒ष्या॒ति॒ । पूरु॑षः ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 द्युरोकात्पतन्तो वृष्टिबिन्दव ओषधिरूपेणोत्वद्यन्ते ।   तथा चाग्निहोत्रब्राह्मणे समाम्नायते– “यावन्तः स्तोका अवापद्यन्त ।   तावतीरोषधयो-ऽजायन्त” इति ।   अत्रापि दिवः परि स्वर्गस्योऽपरितनप्रदेशादवपतन्तीरधस्ताद्भूमौ पतन्त्य ओषधयोऽवदन्नेतद्ववचनमुक्तवत्यः ।   कीदृशं वचनमिति तदुच्यते—यं जीवमश्नवामहै व्याप्नुमः स पुरुषो न रिष्याति नैव विनश्यति ।
@@ -767,7 +851,7 @@ Shall not come to ill.'
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/19_yAsh_chedam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/19_yAsh_chedam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -802,6 +886,11 @@ Give ye him healing.
 इ॒ह स॒ङ्गत्य॒ तास्सर्वा॑ अस्मै॒ सन्द॑त्त भेष॒जम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+याः । च॒ । इ॒दम् । उ॒प॒शृ॒ण्वन्तीत्यु॑प-शृ॒ण्वन्ति॑ । याः । च॒ । दू॒रम् । परा॑गता॒ इति॒ परा॑-ग॒ताः॒ ॥ इ॒ह । स॒ङ्गत्येति॑ सम्-गत्य॑ । ताः । सर्वाः॑ । अ॒स्मै॒ । समिति॑ । द॒त्त॒ । भे॒ष॒जम् ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 याश्चौषधिदेवता इदं मदीयं प्रार्थनमुपशृणवन्ति, याश्चा न्या ओषधिदेवता इह कर्मणि संगता भूत्वाऽस्मै यजमानाय भेषजं संदत्त क्षुदादिरोगचिकि-त्सां सम्यक्कुरुत ।
@@ -810,7 +899,7 @@ Give ye him healing.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/20_mA_vo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/20_mA_vo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -845,6 +934,11 @@ Be free from disease.
 द्वि॒पच्चतु॑ष्पद॒स्माकँ॒ सर्व॑म॒स्त्वना॑तुरम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मा । वः॒ । रि॒ष॒त् । ख॒नि॒ता । यस्मै॑ । च॒ । अ॒हम् । खना॑मि । वः॒ ॥ द्वि॒पदिति॑ द्वि-पत् । चतु॑ष्प॒दिति॒ चतुः॑-प॒त् । अ॒स्माक॑म् । सर्व॑म् । अ॒स्तु॒ । अना॑तुर॒मित्यना॑-तु॒र॒म् ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे ओषधयो वो युष्माकं खनिता चिकित्सायै युष्मदीयं मूलं ग्रहीतुं खननस्य कर्ता मा रिषन्मा विनश्यतु ।   अहं च यस्मै रुग्णाय चिकित्सार्थं खनामि युष्मन्मूलं ग्रहीतुं खननं करोमि सोऽपि मा विनश्यतु ।   किं वहुनाऽस्माकं संब-न्धि यद्द्विपच्चतुष्पाद्वा प्राणिजातं युष्मदुपजीवति तत्सर्वमनातुरं रोगरहितमस्तु ।
@@ -853,7 +947,7 @@ Be free from disease.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/21_oShadhayas_sav.Nvadante.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/21_oShadhayas_sav.Nvadante.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -886,6 +980,11 @@ We, O king, bring to safety.'
 
 ओष॑धय॒स्सव्ँव॑दन्ते॒ सोमे॑न स॒ह राज्ञा॑ ।  
 यस्मै॑ क॒रोति॑ ब्राह्म॒णस्तँ रा॑जन्पारयामसि ॥ [28]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ओष॑धयः । समिति॑ । व॒द॒न्ते॒ । सोमे॑न । स॒ह । राज्ञा॑ ॥ यस्मै॑ । क॒रोति॑ । ब्रा॒ह्म॒णः । तम् । रा॒ज॒न् । पा॒र॒या॒म॒सि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

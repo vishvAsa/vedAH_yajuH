@@ -26,9 +26,19 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 रा᳓ज्ञ्यसि प्रा᳓ची दि᳓क् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the queen, the eastern quarter;
+</details>
+
 <details><summary>मूलम्</summary>
 
 राज्ञ्य॑सि॒ प्राची॒ दिक् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+राज्ञी॑ । अ॒सि॒ । प्राची॑ । दिक् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -41,9 +51,19 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 व᳓सवस्ते देवा᳓ अ᳓धिपतयः ।
 </details>
 
+<details><summary>Keith</summary>
+
+the Vasus, the deities, are thine overlords,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वस॑वस्ते दे॒वा अधि॑पतयः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वस॑वः । ते॒ । दे॒वाः । अधि॑पतय॒ इत्यधि॑-प॒त॒यः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -56,9 +76,19 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 अग्नि᳓र्हेतीना᳓म्प्रतिधर्ता᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Agni stayeth missiles from thee;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्हे॑ती॒नाम्प्र॑तिध॒र्ता ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । हे॒ती॒नाम् । प्र॒ति॒ध॒र्तेति॑ प्रति-ध॒र्ता ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -71,9 +101,19 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 त्रिवृ᳓त्त्वा स्तो᳓मᳶ पृथिव्याँ᳓ श्रयतु ।
 </details>
 
+<details><summary>Keith</summary>
+
+may the threefold Stoma support thee on earth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि॒वृत्त्वा॒ स्तोमᳶ॑ पृ॒थि॒व्याँ श्र॑यतु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रि॒वृदिति॑ त्रि-वृत् । त्वा॒ । स्तोमः॑ । पृ॒थि॒व्याम् । श्र॒य॒तु॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -86,9 +126,19 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 आ᳓ज्यमुक्थ᳓म् अ᳓व्यथयत्स्तभ्नातु ।
 </details>
 
+<details><summary>Keith</summary>
+
+may the Ajya hymn establish thee in firmness,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आज्य॑मु॒क्थम् अव्य॑थयत्स्तभ्नातु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आज्य॑म् । उ॒क्थम् । अव्य॑थयत् । स्त॒भ्ना॒तु॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -101,9 +151,19 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 रथन्तरँ᳓ सा᳓म प्र᳓तिष्ठित्यै ।  +++(अन्त᳓रिक्षाय᳓र्षयस्त्वा प्रथमजा᳓ देवे᳓षु दिवो᳓ मा᳓त्रया वरिणा᳓ प्रथन्तु)+++
 </details>
 
+<details><summary>Keith</summary>
+
+the Rathantara Saman be thy support.
+</details>
+
 <details><summary>मूलम्</summary>
 
 र॒थ॒न्त॒रँ साम॒ प्रति॑ष्ठित्यै ।  +++(अ॒न्तरि॑क्षा॒यर्ष॑यस्त्वा प्रथम॒जा दे॒वेषु॑ दि॒वो मात्र॑या वरि॒णा प्र॑थन्तु)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् । साम॑ । प्रति॑ष्ठित्या॒ इति॒ प्रति॑-स्थि॒त्यै॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -127,6 +187,11 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 बृह᳓त्सा᳓म प्र᳓तिष्ठित्यै +++(अन्त᳓रिक्षाय᳓र्षयस्त्वा प्रथमजा᳓ देवे᳓षु दिवो᳓ मा᳓त्रया वरिणा᳓ प्रथन्तु)+++
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the ruling, the southern quarter; the Rudras, the deities, are thine overlords, Indra stayeth missiles from thee; may the fifteenfold Stoma support thee on earth, may the Praüga hymn establish thee in firmness, the Brhat Saman be thy support.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒राड॑सि दक्षि॒णा दिक् ।  
@@ -135,6 +200,11 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 प॑ञ्चद॒शस्त्वा॒ स्तोमᳶ॑ पृथि॒व्याँ श्र॑यतु ।  
 प्रउ॑गमु॒क्थमव्य॑थयत्स्तभ्नातु  ।  
 बृ॒हत्साम॒ प्रति॑ष्ठित्यै +++(अ॒न्तरि॑क्षा॒यर्ष॑यस्त्वा प्रथम॒जा दे॒वेषु॑ दि॒वो मात्र॑या वरि॒णा प्र॑थन्तु)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒राडिति॑ वि-राट् । अ॒सि॒ । द॒क्षि॒णा । दिक् । रु॒द्राः । ते॒ । दे॒वाः । अधि॑पतय॒ इत्यधि॑-प॒त॒यः॒ । इन्द्रः॑ । हे॒ती॒नाम् । प्र॒ति॒ध॒र्तेति॑ प्रति-ध॒र्ता । प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः । त्वा॒ । स्तोमः॑ । पृ॒थि॒व्याम् । श्र॒य॒तु॒ । प्रउ॑गम् । उ॒क्थम् । अव्य॑थयत् । स्त॒भ्ना॒तु॒ । बृ॒हत् । साम॑ । प्रति॑ष्ठित्या॒ इति॒ प्रति॑-स्थि॒त्यै॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -158,6 +228,11 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 वैरूपँ᳓ सा᳓म प्र᳓तिष्ठित्यै । +++(अन्त᳓रिक्षाय᳓र्षयस्त्वा प्रथमजा᳓ देवे᳓षु दिवो᳓ मा᳓त्रया वरिणा᳓ प्रथन्तु)+++
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the sovereign, the western quarter; the Adityas, the deities, are thine overlords, Soma stayeth missiles from thee; may the seventeenfold Stoma support thee on earth, the Marutvatiya hymn establish thee in firmness, the Vairupa Saman be thy support.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒म्राड॑सि प्र॒तीची॒ दिक्  ।  
@@ -166,6 +241,11 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 स॒प्त॒द॒शस्त्वा॒ स्तोमᳶ॑ पृथि॒व्याँ श्र॑यतु ।    
 म॒रु॒त्व॒तीय॑मु॒क्थमव्य॑थयत्स्तभ्नातु ।  
 वै॒रू॒पँ साम॒ प्रति॑ष्ठित्यै । +++(अ॒न्तरि॑क्षा॒यर्ष॑यस्त्वा प्रथम॒जा दे॒वेषु॑ दि॒वो मात्र॑या वरि॒णा प्र॑थन्तु)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒म्राडिति॑ सम्-राट् । अ॒सि॒ । प्र॒तीची॑ । दिक् । आ॒दि॒त्याः । ते॒ । दे॒वाः । अधि॑पतय॒ इत्यधि॑-प॒त॒यः॒ । सोमः॑ । हे॒ती॒नाम् । प्र॒ति॒ध॒र्तेति॑ प्रति-ध॒र्ता । स॒प्त॒द॒श इति॑ सप्त-द॒शः । त्वा॒ । स्तोमः॑ । पृ॒थि॒व्याम् । श्र॒य॒तु॒ । म॒रु॒त्व॒तीय॑म् । उ॒क्थम् । अव्य॑थयत् । स्त॒भ्ना॒तु॒ । वै॒रू॒पम् । साम॑ । प्रति॑ष्ठित्या॒ इति॒ प्रति॑-स्थि॒त्यै॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -188,6 +268,11 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 वैराजँ᳓  सा᳓म प्र᳓तिष्ठित्यै +++(अन्त᳓रिक्षाय᳓र्षयस्त्वा प्रथमजा᳓ देवे᳓षु दिवो᳓ मा᳓त्रया वरिणा᳓ प्रथन्तु)+++
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the self-ruling, the northern quarter; the All-gods are thine overlords, Varuna stayeth missiles from thee; may the twenty-onefold Stoma support thee on earth, the Niskevalya Uktha establish thee in firmness, the Vairaja Saman be thy support.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्व॒राड॒स्युदी॑ची॒ दिक् ।
@@ -196,6 +281,11 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 ए॒क॒विँ॒शस्त्वा॒ स्तोमᳶ॑ पृथि॒व्याँ श्र॑यतु ।    
 निष्के॑वल्यमु॒क्थमव्य॑थयत्स्तभ्नातु ।  
 वै॒रा॒जँ  साम॒ प्रति॑ष्ठित्यै +++(अ॒न्तरि॑क्षा॒यर्ष॑यस्त्वा प्रथम॒जा दे॒वेषु॑ दि॒वो मात्र॑या वरि॒णा प्र॑थन्तु)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्व॒राडिति॑ स्व-राट् । अ॒सि॒ । उदी॑ची । दिक् । विश्वे॑ । ते । दे॒वाः । अधि॑पतय॒ इत्यधि॑-प॒त॒यः॒ । वरु॑णः । हे॒ती॒नाम् । प्र॒ति॒ध॒र्तेति॑ प्रति-ध॒र्ता । ए॒क॒विँ॒श इत्ये॑क-विँ॒शः । त्वा॒ । स्तोमः॑ । पृ॒थि॒व्याम् । श्र॒य॒तु॒ । निष्के॑वल्यम् । उ॒क्थम् । अव्य॑थयत् । स्त॒भ्ना॒तु॒ । वै॒रा॒जम् । साम॑ । प्रति॑ष्ठित्या॒ इति॒ प्रति॑-स्थि॒त्यै॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -216,12 +306,22 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 त्रिणवत्रयस्त्रिँशौ᳓  त्वा स्तो᳓मौ पृथिव्याँ᳓ श्रयताम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the lady paramount, the great quarter; the Maruts, the deities, are thine overlords, Brhaspati stayeth missiles from thee; may the twenty-sevenfold and the thirty-threefold Stomas secure thee on earth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अधि॑पत्न्यसि बृह॒ती दिक् ।  
 म॒रुत॑स्ते दे॒वा अधि॑पतयः ।  
 बृह॒स्पति॑र्हेती॒नाम्प्र॑तिध॒र्ता ।  
 त्रि॒ण॒व॒त्र॒य॒स्त्रिँ॒शौ  त्वा॒ स्तोमौ॑ पृथि॒व्याँ श्र॑यताम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अधि॑प॒त्नीत्यधि॑-प॒त्नी॒ । अ॒सि॒ । बृ॒ह॒ती । दिक् । म॒रुतः॑ । ते । दे॒वाः । अधि॑पतय॒ इत्यधि॑-प॒त॒यः॒ । बृह॒स्पतिः॑ । हे॒ती॒नाम् । प्र॒ति॒ध॒र्तेति॑ प्रति-ध॒र्ता । त्रि॒ण॒व॒त्र॒य॒स्त्रिँ॒शाविति॑ त्रिणव-त्र॒य॒स्त्रिँ॒शौ । त्वा॒ । स्तोमौ॑ । पृ॒थि॒व्याम् । श्र॒य॒ता॒म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -237,11 +337,21 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 शाक्वररैवते᳓ सा᳓मनी प्र᳓तिष्ठित्यै  +++(अन्त᳓रिक्षाय᳓र्षयस्त्वा प्रथमजा᳓ देवे᳓षु दिवो᳓ मा᳓त्रया वरिणा᳓ प्रथन्तु)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+the Vaiśvadeva and the Agnimaruta hymns establish thee in firmness, the Śakvara and Raivata Samans be thy support.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वै॒श्वदे॒वा॒ग्नि॒मा॒रु॒ते उ॒क्थे ।  
 अव्य॑थयन्ती स्तभ्नीताम्  ।  
 शा॒क्व॒र॒रै॒व॒ते साम॑नी॒ प्रति॑ष्ठित्यै  +++(अ॒न्तरि॑क्षा॒यर्ष॑यस्त्वा प्रथम॒जा दे॒वेषु॑ दि॒वो मात्र॑या वरि॒णा प्र॑थन्तु)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वै॒श्व॒दे॒वा॒ग्नि॒मा॒रु॒ते इति॑ वैश्वदेव-आ॒ग्नि॒मा॒रु॒ते । उ॒क्थे इति॑ । अव्य॑थयन्ती॒ इति॑ । स्त॒भ्नी॒ता॒म् । शा॒क्व॒र॒रै॒व॒ते इति॑ शाक्वर-रै॒व॒ते । साम॑नी॒ इति॑ । प्रति॑ष्ठित्या॒ इति॒ प्रति॑-स्थि॒त्यै॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -260,9 +370,19 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 अन्त᳓रिक्षाय᳓र्षयस्त्वा प्रथमजा᳓ देवे᳓षु दिवो᳓ मा᳓त्रया वरिणा᳓ प्रथन्तु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+For the atmosphere may the Rsis firstborn among the gods extend thee with the measure, the breadth, of the sky,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्षा॒यर्ष॑यस्त्वा प्रथम॒जा दे॒वेषु॑ दि॒वो मात्र॑या वरि॒णा प्र॑थन्तु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्तरि॑क्षाय । ऋष॑यः । त्वा॒ । प्र॒थ॒म॒जा इति॑ प्रथम-जाः । दे॒वेषु॑ । दि॒वः । मात्र॑या । व॒रि॒णा । प्र॒थ॒न्तु॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -275,9 +395,19 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 विधर्ता᳓  चाय᳓म᳓धिपतिश्च +++( प्रथेताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+and he that is disposer and overlord;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒ध॒र्ता  चा॒यमधि॑पतिश्च +++( प्रथेताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒ध॒र्तेति॑ वि-ध॒र्ता । च॒ । अ॒यम् । अधि॑पति॒रित्यधि॑-प॒तिः॒ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -290,9 +420,19 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 ते᳓ त्वा स᳓र्वे सव्ँविदाना᳓ ना᳓कस्य पृष्ठे᳓ सुवर्गे᳓ लोके᳓ य᳓जमानञ्च सादयन्तु ॥   [6]  
 </details>
 
+<details><summary>Keith</summary>
+
+let all of them in unison establish thee and the sacrificer on the ridge of the vault, on the world of heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते त्वा॒ सर्वे॑ सव्ँविदा॒ना नाक॑स्य पृ॒ष्ठे सु॑व॒र्गे लो॒के यज॑मानञ्च सादयन्तु ॥   [6]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । त्वा॒ । सर्वे॑ । सव्ँ॒वि॒दा॒ना इति॑ सम्-वि॒दा॒नाः । नाक॑स्य । पृ॒ष्ठे । सु॒व॒र्ग इति॑ सुवः-गे । लो॒के । यज॑मानम् । च॒ । सा॒द॒य॒न्तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -21,10 +21,23 @@ title = "०३ अग्निप्रणयनम्"
 राय᳓स्पो᳓षेण सँ᳓ सृज प्रज᳓या च ध᳓नेन च ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, to whom ghee is offered,  
+Do thou lead him forward;  
+Unite him with increase of wealth,  
+With offspring and with wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदे॑नमुत्त॒रान्न॒याग्ने॑ घृतेनाहुत ।  
 रा॒यस्पोषे॑ण॒ सँ सृ॑ज प्र॒जया॑ च॒ धने॑न च ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उदिति॑ । ए॒न॒म् । उ॒त्त॒रामित्यु॑त्-त॒राम् । न॒य॒ । अग्ने॑ । घृ॒ते॒न॒ । आ॒हु॒तेत्या॑-हु॒त॒ ॥ रा॒यः । पोषे॑ण । समिति॑ । सृ॒ज॒ । प्र॒जयेति॑ प्र-जया॑ । च॒ । धने॑न । च॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -46,10 +59,23 @@ title = "०३ अग्निप्रणयनम्"
 स᳓मेनव्ँव᳓र्चसा सृज देवे᳓भ्यो भागधा᳓ असत्
 </details>
 
+<details><summary>Keith</summary>
+
+O Indra, bring him to the fore,  
+That he may be lord over his fellows;  
+Unite him with splendour,  
+That he may assign their shares to the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रे॒मम्प्र॑त॒राङ्कृ॑धि सजा॒ताना॑मसद्व॒शी ।  
 समे॑नव्ँ॒वर्च॑सा सृज दे॒वेभ्यो॑ भाग॒धा अ॑सत्
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑ । इ॒मम् । प्र॒त॒रामिति॑ प्र-त॒राम् । कृ॒धि॒ । स॒जा॒ताना॒मिति॑ स-जा॒ताना॑म् । अ॒स॒त् । व॒शी ॥ समिति॑ । ए॒न॒म् । वर्च॑सा । सृ॒ज॒ । दे॒वेभ्यः॑ । भा॒ग॒धा इति॑ भाग-धाः । अ॒स॒त् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -71,10 +97,23 @@ title = "०३ अग्निप्रणयनम्"
 त᳓स्मै देवा᳓ अ᳓धि ब्रवन्नय᳓ञ्च ब्र᳓ह्मणस्प᳓तिः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Him, O Agni, do thou exalt  
+In whose house we make the offering;  
+To him may the gods lend aid,  
+And he the lord of holy power.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्य॑ कु॒र्मो ह॒विर्गृ॒हे तम॑ग्ने वर्धया॒ त्वम् ।  
 तस्मै॑ दे॒वा अधि॑ ब्रवन्न॒यञ्च॒ ब्रह्म॑ण॒स्पतिः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यस्य॑ । कु॒र्मः । ह॒विः । गृ॒हे । तम् । अ॒ग्ने॒ । व॒र्ध॒य॒ । त्वम् ॥ तस्मै॑ । दे॒वाः । अधीति॑ । ब्र॒व॒न् । अ॒यम् । च॒ । ब्रह्म॑णः । पतिः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -105,10 +144,23 @@ title = "०३ अग्निप्रणयनम्"
 स᳓ नो भव शिव᳓तमस्सुप्र᳓तीको विभा᳓वसुः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the All-gods thee [1],  
+O Agni, bear up with their thoughts;  
+Be thou to us most propitious,  
+With kindly face, abounding in light.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदु॑ त्वा॒ विश्वे॑ दे॒वाः [12]  अग्ने॒ भर॑न्तु॒ चित्ति॑भिः ।  
 स नो॑ भव शि॒वत॑मस्सु॒प्रती॑को वि॒भाव॑सुः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उदिति॑ । उ॒ । त्वा॒ । विश्वे॑ । दे॒वाः । अग्ने॑ । भर॑न्तु । चित्ति॑भि॒रिति॒ चित्ति॑-भिः॒ ॥ सः । नः॒ । भ॒व॒ । शि॒वत॑म॒ इति॑ शि॒व-त॒मः॒ । सु॒प्रती॑क॒ इति॑ सु-प्रती॑कः । वि॒भाव॑सु॒रिति॑ वि॒भा-व॒सुः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -137,10 +189,26 @@ title = "०३ अग्निप्रणयनम्"
 राय᳓स्पो᳓षे यज्ञ᳓पतिमाभ᳓जन्तीः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the five regions divine aid the sacrifice,  
+The goddesses driving away poverty and hostility,  
+And giving to the lord of the sacrifice increase of wealth.  
+In increase of wealth the sacrifice hath been established,  
+Waxing great on the kindled fire,  
+Grasped with hymns as wings, to be adored;  
+They sacrificed embracing the heated cauldron.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पञ्च॒ दिशो॒ दैवी॑र्य॒ज्ञम॑वन्तु दे॒वीरपाम॑तिन्दुर्म॒तिम्बाध॑मानाः ।  
 रा॒यस्पोषे॑ य॒ज्ञप॑तिमा॒भज॑न्तीः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पञ्च॑ । दिशः॑ । दैवीः॑ । य॒ज्ञम् । अ॒व॒न्तु॒ । दे॒वीः । अपेति॑ । अम॑तिम् । दु॒र्म॒तिमिति॑ दुः-म॒तिम् । बाध॑मानाः ॥ रा॒यः । पोषे॑ । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म् । आ॒भज॑न्ती॒रित्या॑-भज॑न्तीः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -160,10 +228,23 @@ title = "०३ अग्निप्रणयनम्"
 उक्थ᳓पत्त्र ई᳓ड्यो गृभीत᳓स्तप्त᳓ङ्घर्म᳓म्परिगृ᳓ह्यायजन्त ।  
 </details>
 
+<details><summary>Keith</summary>
+
+In increase of wealth the sacrifice hath been established,  
+Waxing great on the kindled fire,  
+Grasped with hymns as wings, to be adored;  
+They sacrificed embracing the heated cauldron.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रा॒यस्पोषे॒ अधि॑ य॒ज्ञो अ॑स्था॒त्समि॑द्धे अ॒ग्नावधि॑ मामहा॒नः ।  
 उ॒क्थप॑त्त्र॒ ईड्यो॑ गृभी॒तस्त॒प्तङ्घ॒र्मम्प॑रि॒गृह्या॑यजन्त ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रा॒यः । पोषे॑ । अधीति॑ । य॒ज्ञः । अ॒स्था॒त् । समि॑द्ध॒ इति॒ सम्-इ॒द्धे॒ । अ॒ग्नौ । अधीति॑ । मा॒म॒हा॒नः ॥ उ॒क्थप॑त्र॒ इत्यु॒क्थ-प॒त्रः॒ । ईड्यः॑ । गृ॒भी॒तः । त॒प्तम् । घ॒र्मम् । प॒रि॒गृह्येति॑ परि-गृह्य॑ । अ॒य॒ज॒न्त॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -184,10 +265,23 @@ title = "०३ अग्निप्रणयनम्"
 देवश्री᳓श्श्री᳓मणाश्शत᳓पयाः [13]  परिगृ᳓ह्य देवा᳓ यज्ञ᳓मायन् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+When with strength the gods laboured at the sacrifice  
+For the divine supporter, the enjoyer,  
+Serving the gods, benign, with a hundred drinks (was it);  
+The gods kept embracing the sacrifice [2].
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊ॒र्जा यद्य॒ज्ञमश॑मन्त दे॒वा दैव्या॑य ध॒र्त्रे जोष्ट्रे॑ ।  
 दे॒व॒श्रीश्श्रीम॑णाश्श॒तप॑याः [13]  प॒रि॒गृह्य॑ दे॒वा य॒ज्ञमा॑यन् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऊ॒र्जा । यत् । य॒ज्ञम् । अश॑मन्त । दे॒वाः । दैव्या॑य । ध॒र्त्रे । जोष्ट्रे॑ ॥ दे॒व॒श्रीरिति॑ देव-श्रीः । श्रीम॑णा॒ इति॒ श्री-म॒नाः॒ । श॒तप॑या॒ इति॑ श॒त-प॒याः॒ । प॒रि॒गृह्येति॑ परि-गृह्य॑ । दे॒वाः । य॒ज्ञम् । आ॒य॒न् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -211,10 +305,23 @@ title = "०३ अग्निप्रणयनम्"
 त᳓स्य पूषा᳓ प्रसवय्ँ᳓याति देव᳓स्सम्प᳓श्यन्वि᳓श्वा भु᳓वनानि गोपाः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+With the rays of the sun, with tawny hair,  
+Savitr hath raised before (us) his unending light;  
+On his instigation fareth Pusan the god,  
+The guardian, gazing on all things.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सूर्य॑रश्मि॒र्हरि॑केशᳶ पु॒रस्ता॑त्सवि॒ता ज्योति॒रुद॑याँ॒ अज॑स्रम् ।  
 तस्य॑ पू॒षा प्र॑स॒वय्ँया॑ति दे॒वस्स॒म्पश्य॒न्विश्वा॒ भुव॑नानि गो॒पाः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सूर्य॑रश्मि॒रिति॒ सूर्य॑-र॒श्मिः॒ । हरि॑केश॒ इति॒ हरि॑-के॒शः॒ । पु॒रस्ता॑त् । स॒वि॒ता । ज्योतिः॑ । उदिति॑ । अ॒या॒न् । अज॑स्रम् ॥ तस्य॑ । पू॒षा । प्र॒स॒वमिति॑ प्र-स॒वम् । या॒ति॒ । दे॒वः । स॒म्पश्य॒न्निति॑ सम्-पश्य॑न् । विश्वा॑ । भुव॑नानि । गो॒पा इति॑ गो-पाः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -237,10 +344,23 @@ title = "०३ अग्निप्रणयनम्"
 तुरी᳓यो यज्ञो᳓ य᳓त्र हव्य᳓मे᳓ति त᳓तᳶ पावका᳓ आशि᳓षो नो जुषन्ताम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The gods stand serving as priests for the gods;  
+Ready (is it) for the immolator, let the immolator sacrifice;  
+Where the fourth offering goeth to the oblation,  
+Thence let our pure invocations be accepted.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा दे॒वेभ्यो॑ अध्व॒र्यन्तो॑ अस्थुर्वी॒तँ श॑मि॒त्रे श॑मि॒ता य॒जध्यै॑ ।  
 तु॒रीयो॑ य॒ज्ञो यत्र॑ ह॒व्यमेति॒ ततᳶ॑ पाव॒का आ॒शिषो॑ नो जुषन्ताम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वाः । दे॒वेभ्यः॑ । अ॒ध्व॒र्यन्तः॑ । अ॒स्थुः॒ । वी॒तम् । श॒मि॒त्रे । श॒मि॒ता । य॒जध्यै॑ ॥ तु॒रीयः॑ । य॒ज्ञः । यत्र॑ । ह॒व्यम् । एति॑ । ततः॑ । पा॒व॒काः । आ॒शिष॒ इत्या॑-शिषः॑ । नः॒ । जु॒ष॒न्ता॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -288,10 +408,23 @@ title = "०३ अग्निप्रणयनम्"
 स᳓ विश्वा᳓चीरभि᳓ [14]  चष्टे घृता᳓चीरन्तरा᳓ पू᳓र्वम᳓परञ्च केतु᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+As measurer he standeth in the midst of the sky,  
+Filling the two worlds and the atmosphere;  
+The all-reaching [3], the butter-reaching, he discerneth,  
+Between the eastern and the western mark.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒मान॑ ए॒ष दि॒वो मध्य॑ आस्त आपप्रि॒वान्रोद॑सी अ॒न्तरि॑क्षम् ।  
 स वि॒श्वाची॑र॒भि [14]  च॒ष्टे॒ घृ॒ताची॑रन्त॒रा पूर्व॒मप॑रञ्च के॒तुम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒मान॒ इति॑ वि-मानः॑ । ए॒षः । दि॒वः । मध्ये॑ । आ॒स्ते॒ । आ॒प॒प्रि॒वानित्या॑-प॒प्रि॒वान् । रोद॑सी॒ इति॑ । अ॒न्तरि॑क्षम् ॥ सः । वि॒श्वाचीः॑ । अ॒भीति॑ । च॒ष्टे॒ । घृ॒ताचीः॑ । अ॒न्त॒रा । पूर्व॑म् । अप॑रम् । च॒ । के॒तुम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -316,10 +449,23 @@ title = "०३ अग्निप्रणयनम्"
 म᳓ध्ये दिवो᳓ नि᳓हितᳶ पृ᳓श्ञिर᳓श्मा वि᳓ चक्रमे र᳓जसᳶ पात्य᳓न्तौ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Bull, ocean, ruddy bird,  
+He hath entered the birthplace of his ancient sire;  
+In the middle of the sky is the dappled stone set down  
+He hath stepped apart, he guardeth the two ends of space.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒क्षा स॑मु॒द्रो अ॑रु॒णस्सु॑प॒र्णᳶ पूर्व॑स्य॒ योनि॑म्पि॒तुरा वि॑वेश ।  
 मध्ये॑ दि॒वो निहि॑त॒ᳶ पृश्ञि॒रश्मा॒ वि च॑क्रमे॒ रज॑सᳶ पा॒त्यन्तौ॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒क्षा । स॒मु॒द्रः । अ॒रु॒णः । सु॒प॒र्ण इति॑ सु-प॒र्णः । पूर्व॑स्य । योनि॑म् । पि॒तुः । एति॑ । वि॒वे॒श॒ ॥ मध्ये॑ । दि॒वः । निहि॑त॒ इति॒ नि-हि॒तः॒ । पृश्ञिः॑ । अश्मा॑ । वीति॑ । च॒क्र॒मे॒ । रज॑सः । पा॒ति॒ । अन्तौ॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -345,10 +491,23 @@ title = "०३ अग्निप्रणयनम्"
 रथी᳓तमँ रथीनाव्ँ᳓वा᳓जानाँ स᳓त्पतिम्प᳓तिम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+All songs have caused Indra to wax  
+To encompass the ocean,  
+Best charioteer of charioteers,  
+True lord and lord of strength.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रव्ँ॒विश्वा॑ अवीवृधन्त्समु॒द्रव्य॑चस॒ङ्गिरः॑ ।  
 र॒थीत॑मँ रथी॒नाव्ँवाजा॑नाँ॒ सत्प॑ति॒म्पति॑म् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑म् । विश्वाः॑ । अ॒वी॒वृ॒ध॒न् । स॒मु॒द्रव्य॑चस॒मिति॑ समु॒द्र-व्य॒च॒स॒म् । गिरः॑ ॥ र॒थीत॑म॒मिति॑ र॒थि-त॒म॒म् । र॒थी॒नाम् । वाजा॑नाम् । सत्प॑ति॒मिति॒ सत्-प॒ति॒म् । पति॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -371,9 +530,21 @@ title = "०३ अग्निप्रणयनम्"
 सुम्नहू᳓र्यज्ञो᳓ देवाँ᳓ आ᳓ च वक्षद्य᳓क्षदग्नि᳓र्देवो᳓ देवाँ᳓ आ᳓ च वक्षत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Let the sacrifice invite favour, and bring (to us) the gods; let the god, Agni, offer and bring (to us)
+  
+the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒म्न॒हूर्य॒ज्ञो दे॒वाँ आ च॑ वक्ष॒द्यक्ष॑द॒ग्निर्दे॒वो दे॒वाँ आ च॑ वक्षत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒म्न॒हूरिति॑ सुम्न-हूः । य॒ज्ञः । दे॒वान् । एति॑ । च॒ । व॒क्ष॒त् । यक्ष॑त् । अ॒ग्निः । दे॒वः । दे॒वान् । एति॑ । च॒ । व॒क्ष॒त् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -392,9 +563,20 @@ title = "०३ अग्निप्रणयनम्"
 वा᳓जस्य मा प्रसवे᳓नोद्ग्राभे᳓णो᳓दग्रभीत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+With the impulse of strength,  
+With elevation he hath seized me;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाज॑स्य मा प्रस॒वेनो॑द्ग्रा॒भेणोद॑ग्रभीत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वाज॑स्य । मा॒ । प्र॒स॒वेनेति॑ प्र-स॒वेन॑ । उ॒द्ग्रा॒भेणेत्यु॑त्-ग्रा॒भेण॑ । उदिति॑ । अ॒ग्र॒भी॒त् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -407,9 +589,20 @@ title = "०३ अग्निप्रणयनम्"
 अ᳓था सप᳓त्नाँ इ᳓न्द्रो मे निग्राभे᳓णा᳓धराँ अकः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Then Indra hath made my enemies  
+Humble by depression.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथा॑ स॒पत्नाँ॒ इन्द्रो॑ मे निग्रा॒भेणाध॑राँ अकः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अथ॑ । स॒पत्नान्॑ । इन्द्रः॑ । मे॒ । नि॒ग्रा॒भेणेति॑ नि-ग्रा॒भेण॑ । अध॑रान् । अ॒कः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -428,10 +621,23 @@ title = "०३ अग्निप्रणयनम्"
 अ᳓था सप᳓त्नानिन्द्राग्नी᳓ मे विषूची᳓नान्व्य᳙स्यताम् ॥ [15]
 </details>
 
+<details><summary>Keith</summary>
+
+The gods have increased my prayer,  
+Which is elevation and depression;  
+Then do ye, O Indra and Agni,  
+Scatter my foes on every side.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒द्ग्रा॒भञ्च॑ निग्रा॒भञ्च॒ ब्रह्म॑ दे॒वा अ॑वीवृधन् ।  
 अथा॑ स॒पत्ना॑निन्द्रा॒ग्नी मे॑ विषू॒चीना॒न्व्य॑स्यताम् ॥ [15]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒द्ग्रा॒भमित्यु॑त्-ग्रा॒भम् । च॒ । नि॒ग्रा॒भमिति॑ नि-ग्रा॒भम् । च॒ । ब्रह्म॑ । दे॒वाः । अ॒वी॒वृ॒ध॒न् ॥ अथ॑ । स॒पत्नान्॑ । इ॒न्द्रा॒ग्नी इती॑न्द्र-अ॒ग्नी । मे॒ । वि॒षू॒चीनान्॑ । वीति॑ । अ॒स्य॒ता॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

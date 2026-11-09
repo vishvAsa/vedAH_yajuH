@@ -29,10 +29,20 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 ।
 </details>
 
+<details><summary>Keith</summary>
+
+They praised with one,
+</details>
+
 <details><summary>मूलम्</summary>
 
 एक॑यास्तुवत  
 ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एक॑या । अ॒स्तु॒व॒त॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -45,9 +55,19 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 प्रजा᳓ अधीयन्त  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+creatures were established,
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जा अ॑धीयन्त  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जा इति॑ प्र-जाः । अ॒धी॒य॒न्त॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -62,10 +82,20 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Prajapati was overlord.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति॒रधि॑पतिरासीत्  
 ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । अधि॑पति॒रित्यधि॑-प॒तिः॒ । आ॒सी॒त् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -78,9 +108,19 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 तिसृ᳓भिरस्तुवत  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+They praised with three,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ति॒सृभि॑रस्तुवत  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ति॒सृभि॒रिति॑ ति॒सृ-भिः॒ । अ॒स्तु॒व॒त॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -93,9 +133,19 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 ब्र᳓ह्मासृज्यत  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the holy power was created,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्मा॑सृज्यत  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्रह्म॑ । अ॒सृ॒ज्य॒त॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -109,10 +159,20 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the lord of holy power was overlord.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑ण॒स्पति॒रधि॑पतिरासीत्  
 ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्रह्म॑णः । पतिः॑ । अधि॑पति॒रित्यधि॑-प॒तिः॒ । आ॒सी॒त् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -127,11 +187,21 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 भूता᳓नाम्प᳓तिर᳓धिपतिरासीत्  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+They praised with five, beings were created, the lord of beings was the overlord.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒ञ्चभि॑रस्तुवत  ।  
 भू॒तान्य॑सृज्यन्त  ।  
 भू॒ताना॒म्पति॒रधि॑पतिरासीत्  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒ञ्चभि॒रिति॑ प॒ञ्च-भिः॒ । अ॒स्तु॒व॒त॒ । भू॒तानि॑ । अ॒सृ॒ज्य॒न्त॒ । भू॒ताना॑म् । पतिः॑ । अधि॑पति॒रित्यधि॑-प॒तिः॒ । आ॒सी॒त् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -149,12 +219,22 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 धाता᳓ऽधिपतिरासीत्  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+They praised with seven, the seven seers were created, Dhatr was the overlord.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒प्तभि॑रस्तुवत  ।  
 सप्त॒र्षयो॑ऽसृज्यन्त  
 ।  
 धा॒ताऽधि॑पतिरासीत्  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒प्तभि॒रिति॑ स॒प्त-भिः॒ । अ॒स्तु॒व॒त॒ । स॒प्त॒र्षय॒ इति॑ सप्त-ऋ॒षयः॑ । अ॒सृ॒ज्य॒न्त॒ । धा॒ता । अधि॑पति॒रित्यधि॑-प॒तिः॒ । आ॒सी॒त् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -170,12 +250,22 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 ।  
 </details>
 
+<details><summary>Keith</summary>
+
+They praised with nine, the fathers were created, Aditi was the overlady.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न॒वभि॑रस्तुवत  ।  
 पि॒तरो॑ऽसृज्यन्त  ।  
 अदि॑ति॒रधि॑पत्न्यासीत्  
 ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+न॒वभि॒रिति॑ न॒व-भिः॒ । अ॒स्तु॒व॒त॒ । पि॒तरः॑ । अ॒सृ॒ज्य॒न्त॒ । अदि॑तिः । अधि॑प॒त्नीत्यधि॑-प॒त्नी॒ । आ॒सी॒त् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -192,6 +282,11 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 ।  
 </details>
 
+<details><summary>Keith</summary>
+
+They praised with eleven, the seasons were created, the seasonal one was the overlord.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒का॒द॒शभि॑रस्तुवत ।  
@@ -199,6 +294,11 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 ।  
 आ॒र्त॒वोऽधि॑पतिरासीत्  
 ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒का॒द॒शभि॒रित्ये॑काद॒श-भिः॒ । अ॒स्तु॒व॒त॒ । ऋ॒तवः॑ । अ॒सृ॒ज्य॒न्त॒ । आ॒र्त॒वः । अधि॑पति॒रित्यधि॑-प॒तिः॒ । आ॒सी॒त् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -212,10 +312,20 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 मा᳓सा असृज्यन्त  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+They praised with thirteen, the months were created,
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्र॒यो॒द॒शभि॑रस्तुवत ।  
 मासा॑ असृज्यन्त  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्र॒यो॒द॒शभि॒रिति॑ त्रयोद॒श-भिः॒ । अ॒स्तु॒व॒त॒ । मासाः॑ । अ॒सृ॒ज्य॒न्त॒ ।
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -237,6 +347,11 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the year was the overlord [1]. They praised with fifteen, the lordly class was created, Indra was the overlord.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सव्ँ॒व॒त्स॒रोऽधि॑पतिरासीत्  
@@ -248,6 +363,11 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 ।  
 इन्द्रोऽधि॑पतिरासीत्  
 ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रः । अधि॑पति॒रित्यधि॑-प॒तिः॒ । आ॒सी॒त् । प॒ञ्च॒द॒शभि॒रिति॑ पञ्चद॒श-भिः॒ । अ॒स्तु॒व॒त॒ । क्ष॒त्रम् । अ॒सृ॒ज्य॒त॒ । इन्द्रः॑ । अधि॑पति॒रित्यधि॑-प॒तिः॒ । आ॒सी॒त् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -268,6 +388,11 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 ।  
 </details>
 
+<details><summary>Keith</summary>
+
+They praised with seventeen, cattle were created, Brhaspati was the overlord. They praised with nineteen, the Śudra and the Arya were created,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒प्त॒दशभि॑रस्तुवत ।  
@@ -281,6 +406,11 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+स॒प्त॒द॒शभि॒रिति॑ सप्तद॒श-भिः॒ । अ॒स्तु॒व॒त॒ । प॒शवः॑ । अ॒सृ॒ज्य॒न्त॒ । बृह॒स्पतिः॑ । अधि॑पति॒रित्यधि॑-प॒तिः॒ । आ॒सी॒त् । न॒व॒द॒शभि॒रिति॑ नवद॒श-भिः॒ । अ॒स्तु॒व॒त॒ । शू॒द्रा॒र्याविति॑ शूद्र-अ॒र्यौ । अ॒सृ॒ज्ये॒ता॒म् ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 शूद्रार्यौ शूद्रो वैश्यश्चेति जातिद्वयम् ।
@@ -291,9 +421,19 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 अहोरात्रे᳓ अ᳓धिपत्नी आस्ताम्  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+day and night were the overlords.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒हो॒रा॒त्रे अधि॑पत्नी आस्ताम्  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒हो॒रा॒त्रे इत्य॑हः-रा॒त्रे । अधि॑पत्नी॒ इत्यधि॑-प॒त्नी॒ । आ॒स्ता॒म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -319,6 +459,11 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 ्सप्त᳓विँशत्याऽस्तुवत ।  
 </details>
 
+<details><summary>Keith</summary>
+
+They praised with twenty-one, the whole-hooved cattle were created, Varuna was the overlord. They praised with twenty-three, small cattle were created, Pusan was the overlord. They praised with twenty-five, wild cattle were created, Vayu was the overlord. They praised with twenty-seven,
+</details>
+
 <details><summary>मूलम्</summary>
 
 एक॑विँशत्याऽस्तुवत  
@@ -337,6 +482,11 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 ्स॒प्तविँ॑शत्याऽस्तुवत ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+एक॑विँश॒त्येत्येक॑-विँ॒श॒त्या॒ । अ॒स्तु॒व॒त॒ । एक॑शफा॒ इत्येक॑-श॒फाः॒ । प॒शवः॑ । अ॒सृ॒ज्य॒न्त॒ । वरु॑णः । अधि॑पति॒रित्यधि॑-प॒तिः॒ । आ॒सी॒त् । त्रयो॑विँश॒त्येति॒ त्रयः॑-विँ॒श॒त्या॒ । अ॒स्तु॒व॒त॒ । क्षु॒द्राः । प॒शवः॑ । अ॒सृ॒ज्य॒न्त॒ । पू॒षा । अधि॑पति॒रित्यधि॑-प॒तिः॒ । आ॒सी॒त् । पञ्च॑विँश॒त्येति॒ पञ्च॑-विँ॒श॒त्या । अ॒स्तु॒व॒त॒ । आ॒र॒ण्याः । प॒शवः॑ । अ॒सृ॒ज्य॒न्त॒ । वा॒युः । अधि॑पति॒रित्यधि॑-प॒तिः॒ । आ॒सी॒त् । स॒प्तविँ॑श॒त्येति॑ स॒प्त-विँ॒श॒त्या॒ । अ॒स्तु॒व॒त॒ ।
+</details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 द्यावा॑पृथि॒वी वि [19]  ऐ॒ताम् ।  
@@ -347,9 +497,19 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 द्या᳓वापृथिवी᳓  व्यैताम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+sky and earth [2] went apart,
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्यावा॑पृथि॒वी  व्यै॑ताम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । वीति॑ । ऐ॒ता॒म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -362,9 +522,19 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 व᳓सवो रुद्रा᳓ आदित्या᳓ अ᳓नु व्या᳙यन् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Vasus, Rudras, and Adityas followed their example,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वस॑वो रु॒द्रा आ॑दि॒त्या अनु॒ व्या॑यन् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वस॑वः । रु॒द्राः । आ॒दि॒त्याः । अनु॑ । वीति॑ । आ॒य॒न् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -377,9 +547,19 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 ते᳓षामा᳓धिपत्यमासीत् ।
 </details>
 
+<details><summary>Keith</summary>
+
+theirs was the overlordship.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेषा॒माधि॑पत्यमासीत् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तेषा॑म् । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । आ॒सी॒त् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -397,6 +577,11 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 या᳓वानाञ्चा᳓यावानाञ्चा᳓धिपत्यमासीत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+They praised with twenty-nine, trees were created, Soma was the overlord. They praised with thirty-one, creatures were created, the Yavas and the Ayavas had the overlordship.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नव॑विँशत्यााऽस्तुवत ।  
@@ -405,6 +590,11 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 एक॑त्रिँशताऽस्तुवत ।  
 प्र॒जा अ॑सृज्यन्त ।  
 यावा॑ना॒ञ्चाया॑वाना॒ञ्चाधि॑पत्यमासीत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नव॑विँश॒त्येति॒ नव॑-विँ॒श॒त्या॒ । अ॒स्तु॒व॒त॒ । वन॒स्पत॑यः । अ॒सृ॒ज्य॒न्त॒ । सोमः॑ । अधि॑पति॒रित्यधि॑-प॒तिः॒ । आ॒सी॒त् । एक॑त्रिँश॒तेत्येक॑-त्रिँ॒श॒ता॒ । अ॒स्तु॒व॒त॒ । प्र॒जा इति॑ प्र-जाः । अ॒सृ॒ज्य॒न्त॒ । यावा॑नाम् । च॒ । अया॑वानाम् । च॒ । आधि॑पत्य॒मित्याधि॑-प॒त्य॒म् । आ॒सी॒त् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -418,10 +608,20 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 भूता᳓न्यशाम्यन् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+They praised with thirty-three, creatures came to rest,
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रय॑स्त्रिँशताऽस्तुवत ।  
 भू॒तान्य॑शाम्यन् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रय॑स्त्रिँश॒तेति॒ त्रयः॑-त्रिँ॒श॒ता॒ । अ॒स्तु॒व॒त॒ । भू॒तानि॑ । अ॒शा॒म्य॒न् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -435,10 +635,20 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 [20]  
 </details>
 
+<details><summary>Keith</summary>
+
+Prajapati was the overlord and chief.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिᳶ परमे॒ष्ठ्यधि॑पतिरासीत् ॥  
 [20]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । प॒र॒मे॒ष्ठी । अधि॑पति॒रित्यधि॑-प॒तिः॒ । आ॒सी॒त् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

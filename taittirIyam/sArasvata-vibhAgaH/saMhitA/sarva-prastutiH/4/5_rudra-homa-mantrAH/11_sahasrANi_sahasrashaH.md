@@ -17,7 +17,7 @@ title = "११ स॒हस्रा॑णि सहस्र॒शो"
 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/02_sahasrANi_sahasrasho.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/02_sahasrANi_sahasrasho.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -47,6 +47,11 @@ At a thousand leagues.
 तेषाँ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+स॒हस्रा॑णि । स॒ह॒स्र॒श इति॑ सहस्र-शः । ये । रु॒द्राः । अधीति॑ । भूम्या॑म् ॥ तेषा॑म् । स॒ह॒स्र॒यो॒ज॒न इति॑ सहस्र-यो॒ज॒ने । अवेति॑ । धन्वा॑नि । त॒न्म॒सि॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 तासु प्रथमामाह– सहस्राणीनि।  
@@ -60,7 +65,7 @@ At a thousand leagues.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/03_asmin_mahaty.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/03_asmin_mahaty.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -95,6 +100,11 @@ At a thousand leagues.}
 {तेषाँ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒स्मिन् । म॒ह॒ति । अ॒र्ण॒वे । अ॒न्तरि॑क्षे । भ॒वाः । अधि॑ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अस्मिदृश्यमाने महत्यर्णये महासमुद्रसदृशे प्रौढेऽन्तरिक्षेऽधिश्रित्य वर्तमाना भवा रुद्रमूर्तिविशेषा ये सन्ति, तेषां सहस्रयोजन इत्याद्युक्ता  २१४१ र्थमुत्तरार्थं द्वितीयादिषु नवप्रान्तास्वृक्ष, अनुषज्जते।  
@@ -104,7 +114,7 @@ At a thousand leagues.}
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/04_nIlagrIvAsh_shitikaNThAsh.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/04_nIlagrIvAsh_shitikaNThAsh.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -139,6 +149,11 @@ At a thousand leagues.}
 {तेषाँ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नील॑ग्रीवा॒ इति॒ नील॑-ग्री॒वाः॒ । शि॒ति॒कण्ठा॒ इति॑ शिति-कण्ठाः॑ । श॒र्वाः । अ॒धः । क्ष॒मा॒च॒राः ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 ग्रीवायाम् एकस्मिन् प्रदेशे नीलवर्णा नीलग्रीवाः प्रदेशान्तरे श्वेतवर्णाः शितिकण्ठाः।  
@@ -150,7 +165,7 @@ At a thousand leagues.}
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/05_nIlagrIvAsh_shitikaNThA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/05_nIlagrIvAsh_shitikaNThA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -185,6 +200,11 @@ At a thousand leagues.}
 {तेषाँ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नील॑ग्रीवा॒ इति॒ नील॑-ग्री॒वाः॒ । शि॒ति॒कण्ठा॒ इति॑ शिति-कण्ठाः॑ । दिव॑म् । रु॒द्राः । उप॑श्रिता॒ इत्युप॑-श्रि॒ताः॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 दिवमुपश्रिताः स्वर्गे वर्तमानाः।
@@ -193,7 +213,7 @@ At a thousand leagues.}
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/06_ye_vRkhSheShu.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/06_ye_vRkhSheShu.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -228,6 +248,11 @@ At a thousand leagues.}
 {तेषाँ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ये । वृ॒क्षेषु॑ । स॒स्पिञ्ज॑राः । नील॑ग्रीवा॒ इति॒ नील॑-ग्री॒वाः॒ । विलो॑हिता॒ इति॒ वि-लो॒हि॒ताः॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 यथा लोकेष्ववस्थिता रुद्रास्तथा वृक्षेष्ववस्थिताः।  
@@ -241,7 +266,7 @@ At a thousand leagues.}
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/07_ye_bhUtAnAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/07_ye_bhUtAnAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -276,6 +301,11 @@ At a thousand leagues.}
 {तेषाँ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ये । भू॒ताना॑म् । अधि॑पतय॒ इत्यधि॑-प॒त॒यः॒ । वि॒शि॒खास॒ इति॑ वि-शि॒खासः॑ । क॒प॒र्दिनः॑ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 भूतशब्देनान्तर्हितशरीराः सन्तो मनुष्योपद्रवकारिणो गणविशेषा उच्यन्ते।  
@@ -286,7 +316,7 @@ At a thousand leagues.}
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/08_ye_anneShu.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/08_ye_anneShu.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -321,6 +351,11 @@ At a thousand leagues.}
 {तेषाँ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ये । अन्ने॑षु । वि॒विध्य॒न्तीति॑ वि-विध्य॑न्ति । पात्रे॑षु । पिब॑तः । जनान्॑ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 ये रुद्रा अन्नेषु भुज्यमानेषु गूढत्वेनावस्थिताः सन्तो जनान्विविघ्यन्ति विशेषेण धातुवैषम्यादिना बाधन्ते।  
@@ -330,7 +365,7 @@ At a thousand leagues.}
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/09_ye_pathAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/09_ye_pathAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -365,6 +400,11 @@ At a thousand leagues.}
 - {तेषाँ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ये । प॒थाम् । प॒थि॒रक्ष॑य॒ इति॑ पथि-रक्ष॑यः । ऐ॒ल॒बृ॒दाः । य॒व्युधः॑ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 ये रुद्राः **पथिरक्षयो** लौकिकवैदिकमार्गाणां रक्षकाः।
@@ -381,7 +421,7 @@ At a thousand leagues.}
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/10_ye_tIrthAni.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/10_ye_tIrthAni.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -416,6 +456,11 @@ At a thousand leagues.}
 - {तेषाँ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ये । ती॒र्थानि॑ । प्र॒चर॒न्तीति॑ प्र-चर॑न्ति । सृ॒काव॑न्त॒ इति॑ सृ॒का-व॒न्तः॒ । नि॒ष॒ङ्गिण॒ इति॑ नि-स॒ङ्गिनः॑ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 ये रुद्रास्तीर्थानि काशीप्रयागत्दीनि रक्षितुं प्रचरन्ति।      Page no.२१४२ कीदृशा रुद्राः **सृकावन्तः** सृकाश् छुरिका हस्ते धार्यमाणास्  
@@ -426,7 +471,7 @@ At a thousand leagues.}
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/11_ya_etAvantash.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/11_ya_etAvantash.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -460,10 +505,18 @@ At a thousand leagues.
 तेषाँ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ये । ए॒ताव॑न्तः । च॒ । भूयाँ॑सः । च॒ । दिशः॑ । रु॒द्राः । वि॒त॒स्थि॒र इति॑ वि-त॒स्थि॒रे ॥ तेषा॑म् । स॒ह॒स्र॒यो॒ज॒न इति॑ सहस्र-यो॒ज॒ने । अवेति॑ । धन्वा॑नि । त॒न्म॒सि॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 ये रुद्रा एतावन्तश्च सहस्राणि सहस्रश दत्याद्यृग्भि र्यावन्त उक्तास्तावन्तोऽपि भूयांसश्चतोऽप्यधिका अन्ये बहवोऽपि दिशो वितस्थिरे सर्वा दिशः प्रविश्य स्थितास्तेषामित्यादि।
 </details>
+</details>
+
+</div>
 
 <details><summary>सायण-टीका</summary>
 
@@ -483,9 +536,6 @@ At a thousand leagues.
 
 नमो॑ रु॒द्रेभ्यो॒ ये पृ॑थि॒व्याय्ँये॑ऽन्तरि॑क्षे॒ ये दि॒वि येषा॒मन्नव्ँ॒वातो॑ व॒र्षमिष॑व॒स्तेभ्यो॒ दश॒ प्राची॒र्दश॑ दक्षि॒णा दश॑ प्र॒तीची॒र्दशोदी॑ची॒र्दशो॒र्ध्वास्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु॒ ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि ॥ [27]
 </details>
-</details>
-
-</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -502,6 +552,11 @@ whose arrows are food,
 <details><summary>मूलम्</summary>
 
 नमो॑ रु॒द्रेभ्यो॒ ये पृ॑थि॒व्याम्  {येषा॒मन्न॑मिष॑वः}  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । रु॒द्रेभ्यः॑ । ये । पृ॒थि॒व्याम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -538,6 +593,11 @@ to them homage, be they merciful to us,
 तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तेभ्यः॑ । दश॑ । प्राचीः॑ । दश॑ । द॒क्षि॒णा । दश॑ । प्र॒तीचीः॑ । दश॑ । उदी॑चीः । दश॑ । ऊ॒र्ध्वाः । तेभ्यः॑ । नमः॑ । ते । नः॒ । मृ॒ड॒य॒न्तु॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 (ईदृशैरञ्जलिविशेषैस्) तेभ्यो (रुद्रेभ्यो) नमोऽस्तु। ते च (रुद्रा) नोऽस्मान्मृडयन्तु सुखयन्तु।
@@ -560,9 +620,15 @@ to them homage, be they merciful to us,
 +++(नमो॑ रु॒द्रेभ्यो॒ )+++ ये॑ऽन्तरि॑क्षे { येषाव्ँ॒वात॒ इष॑वः}  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ये । अ॒न्तरि॑क्षे ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-तथा ये रुद्रा अन्तरिक्षे वर्तन्ते तेषामपि मध्ये येषां वात इषवस्तीव्रेण वायुना रोगानुत्पाद्य हिंसन्ति तभ्योऽन्तरिक्षवर्तिभ्यो वातेषुभ्यश्च रुद्रेभ्यो नमोऽस्तु। </details>
+तथा ये रुद्रा अन्तरिक्षे वर्तन्ते तेषामपि मध्ये येषां वात इषवस्तीव्रेण वायुना रोगानुत्पाद्य हिंसन्ति तभ्योऽन्तरिक्षवर्तिभ्यो वातेषुभ्यश्च रुद्रेभ्यो नमोऽस्तु।
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/tebhyo_dasha_namas_te_no_mRDayantu.md">
 
@@ -592,6 +658,11 @@ to them homage, be they merciful to us,
 तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तेभ्यः॑ । दश॑ । प्राचीः॑ । दश॑ । द॒क्षि॒णा । दश॑ । प्र॒तीचीः॑ । दश॑ । उदी॑चीः । दश॑ । ऊ॒र्ध्वाः । तेभ्यः॑ । नमः॑ । ते । नः॒ । मृ॒ड॒य॒न्तु॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 (ईदृशैरञ्जलिविशेषैस्) तेभ्यो (रुद्रेभ्यो) नमोऽस्तु। ते च (रुद्रा) नोऽस्मान्मृडयन्तु सुखयन्तु।
@@ -612,6 +683,11 @@ to them homage, be they merciful to us,
 <details><summary>मूलम्</summary>
 
 +++(नमो॑ रु॒द्रेभ्यो॒ )+++ ये दि॒वि { येषाव्ँ॒व॒र्षमिष॑वः} 
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । दि॒वि । येषा॑म् । अन्न॑म् । वातः॑ । व॒र्षम् । इष॑वः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -648,6 +724,11 @@ to them homage, be they merciful to us,
 तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तेभ्यः॑ । दश॑ । प्राचीः॑ । दश॑ । द॒क्षि॒णा । दश॑ । प्र॒तीचीः॑ । दश॑ । उदी॑चीः । दश॑ । ऊ॒र्ध्वाः । तेभ्यः॑ । नमः॑ । ते । नः॒ । मृ॒ड॒य॒न्तु॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 (ईदृशैरञ्जलिविशेषैस्) तेभ्यो (रुद्रेभ्यो) नमोऽस्तु। ते च (रुद्रा) नोऽस्मान्मृडयन्तु सुखयन्तु।
@@ -672,6 +753,11 @@ him whom we hate and him who hateth us, I place him within your jaws.
 <details><summary>मूलम्</summary>
 
 ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । यम् । द्वि॒ष्मः । यः । च॒ । नः॒ । द्वेष्टि॑ । तम् । वः॒ । जम्भे॑ । द॒धा॒मि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

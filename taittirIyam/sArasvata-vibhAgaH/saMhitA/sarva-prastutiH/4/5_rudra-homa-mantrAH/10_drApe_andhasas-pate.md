@@ -17,7 +17,7 @@ title = "१० द्रापे॒ अन्ध॑सस्पते॒"
 तत्र प्रथमामृचमाह— द्रापे अन्धसस्पत इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/02_drApe_andhasaspate.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/02_drApe_andhasaspate.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -48,6 +48,11 @@ Be not one of these injured.
 ए॒षाम्पुरु॑षाणामे॒षाम्प॑शू॒नाम्मा भेर्मारो॒ मो ए॑षा॒ङ्किञ्च॒नाम॑मत् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+द्रापे॑ । अन्ध॑सः । प॒ते॒ । दरि॑द्रत् । नील॑लोहि॒तेति॒ नील॑-लो॒हि॒त॒ ॥ ए॒षाम् । पुरु॑षाणाम् । ए॒षाम् । प॒शू॒नाम् । मा । भेः । मा । अ॒रः॒ । मो इति॑ । ए॒षा॒म् । किम् । च॒न । आ॒म॒म॒त् ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 द्रापयति कुत्सितां गतिं प्रापयतीति **द्रापिः**।  
@@ -66,7 +71,7 @@ Be not one of these injured.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/03_yA_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/03_yA_te.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -101,6 +106,11 @@ With that show mercy on us for life.
 शि॒वा रु॒द्रस्य॑ भेष॒जी तया॑ नो मृड जी॒वसे॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+या । ते॒ । रु॒द्र॒ । शि॒वा । त॒नूः । शि॒वा । वि॒श्वाह॑भेष॒जीति॑ वि॒श्वाह॑-भे॒ष॒जी॒ ॥ शि॒वा । रु॒द्रस्य॑ । भे॒ष॒जी । तया॑ । नः॒ । मृ॒ड॒ । जी॒वसे॑ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे रुद्र ते त्वदीया शिवा शान्ता तन्र्या विद्यते तया तन्वा नोऽस्माञ्जीवसे जीवयितुं मृड सुखय।  
@@ -110,7 +120,7 @@ With that show mercy on us for life.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/04_imAM_rudrAya.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/04_imAM_rudrAya.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -144,6 +154,11 @@ And that all in this village be prosperous [1] and free from ill.
 यथा॑ न॒श्शमस॑द्द्वि॒पदे॒ चतु॑ष्पदे॒ विश्व॑म्पु॒ष्टङ्ग्रा॒मे॑ अ॒स्मिन्न् [21]  अना॑तुरम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इ॒माम् । रु॒द्राय॑ । त॒वसे॑ । क॒प॒र्दिने॑ । क्ष॒यद्वी॑रा॒येति॑ क्ष॒यत्-वी॒रा॒य॒ । प्रेति॑ । भ॒रा॒म॒हे॒ । म॒तिम् ॥ यथा॑ । नः॒ । शम् । अस॑त् । द्वि॒पद॒ इति॑ द्वि-पदे॑ । चतु॑ष्पद॒ इति॒ चतुः॑-प॒दे॒ । विश्व॑म् । पु॒ष्टम् । ग्रामे॑ । अ॒स्मिन् । अना॑तुर॒मित्यना॑-तु॒र॒म् ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 यथा येन प्रकारेण नोऽस्मदीयाय द्विपदे पुत्रपौत्रादिरूपाया मनुष्याय चतुष्पदे गोमहिष्यादिरूपाय पशवे च शमसत्सुखं स्यात्।  
@@ -155,7 +170,7 @@ And that all in this village be prosperous [1] and free from ill.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/05_mRDA_no.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/05_mRDA_no.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -189,6 +204,11 @@ May we attain that, O Rudra, under thy leadership.
 यच्छञ्च॒ योश्च॒ मनु॑राय॒जे पि॒ता तद॑श्याम॒ तव॑ रुद्र॒ प्रणी॑तौ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मृ॒ड । नः॒ । रु॒द्र॒ । उ॒त । नः॒ । मयः॑ । कृ॒धि॒ । क्ष॒यद्वी॑रा॒येति॑ क्ष॒यत्-वी॒रा॒य॒ । नम॑सा । वि॒धे॒म॒ । ते॒ ॥ यत् । शम् । च॒ । योः । च॒ । मनुः॑ । आ॒य॒ज इत्या॑-य॒जे । पि॒ता । तत् । अ॒श्या॒म॒ । तव॑ । रु॒द्र॒ । प्रणी॑ता॒विति॒ प्र-नी॒तौ॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे रुद्र नोऽस्मान्मृडयेह लोके सुखय।  
@@ -200,7 +220,7 @@ May we attain that, O Rudra, under thy leadership.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/06_mA_no.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/06_mA_no.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -235,6 +255,11 @@ Injure not, O Rudra, our dear bodies [2].
 मा नो॑ वधीᳶ पि॒तर॒म्मोत मा॒तर॑म्प्रि॒या मा न॑स्त॒नुवः॑ [22]  रु॒द्र॒ री॒रि॒षः॒ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मा । नः॒ । म॒हान्त॑म् । उ॒त । मा । नः॒ । अ॒र्भ॒कम् । मा । नः॒ । उक्ष॑न्तम् । उ॒त । मा । नः॒ । उ॒क्षि॒तम् ॥ मा । नः॒ । व॒धीः॒ । पि॒तर॑म् । मा । उ॒त । मा॒तर॑म् । प्रि॒याः । मा । नः॒ । त॒नुवः॑ । रु॒द्र॒ । री॒रि॒षः॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे रुद्र नोऽस्मदीयं महान्तं स्थविरं पुरुषं मा रीरिषो मा हिंसीः।  
@@ -249,7 +274,7 @@ Injure not, O Rudra, our dear bodies [2].
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -277,6 +302,11 @@ With oblations lot us serve thee with honour.
 वी॒रान्मा नो॑ रुद्र भामि॒तो व॑धीर्ह॒विष्म॑न्तो॒ नम॑सा विधेम ते ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मा । नः॒ । तो॒के । तन॑ये । मा । नः॒ । आयु॑षि । मा । नः॒ । गोषु॑ । मा । नः॒ । अश्वे॑षु । री॒रि॒षः॒ ॥ वी॒रान् । मा । नः॒ । रु॒द्र॒ । भा॒मि॒तः । व॒धीः॒ । ह॒विष्म॑न्तः । नम॑सा । वि॒धे॒म॒ । ते॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे रुद्र नोऽस्मदीये तोकेऽपत्यमात्रे तनये विशेषतः पुत्रे मा रीरिषो हिंसां मा कुरु।  
@@ -289,7 +319,7 @@ With oblations lot us serve thee with honour.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/08_ArAt_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/08_ArAt_te.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -324,6 +354,11 @@ And grant us protection in abundance.
 रक्षा॑ च नो॒ अधि॑ च देव ब्रू॒ह्यधा॑ च न॒श्शर्म॑ यच्छ द्वि॒बर्हाः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+आ॒रात् । ते॒ । गो॒घ्न इति॑ गो-घ्ने । उ॒त । पू॒रु॒ष॒घ्न इति॑ पूरुष-घ्ने । क्ष॒यद्वी॑रा॒येति॑ क्ष॒यत्-वी॒रा॒य॒ । सु॒म्नम् । अ॒स्मे इति॑ । ते॒ । अ॒स्तु॒ ॥ रक्ष॑ । च॒ । नः॒ । अधीति॑ । च॒ । दे॒व॒ । ब्रू॒हि॒ । अध॑ । च॒ । नः॒ । शर्म॑ । य॒च्छ॒ । द्वि॒बर्हा॒ इति॑ द्वि-बर्हाः॑ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 **गोघ्ने** गोघ्नस्य **पुरुषघ्ने** पुत्रपौत्रादिषुरुषघ्नस्य  
@@ -340,7 +375,7 @@ And grant us protection in abundance.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/033/11_stuhi_shrutaM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/033/11_stuhi_shrutaM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -705,7 +740,7 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/09_pari_No.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/09_pari_No.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -735,6 +770,11 @@ O bounteous one, be merciful to our children and descendants.
 अव॑ स्थि॒रा म॒घव॑द्भ्यस्तनुष्व॒ मीढ्व॑स्तो॒काय॒ तन॑याय मृडय ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+परीति॑ । नः॒ । रु॒द्रस्य॑ । हे॒तिः । वृ॒ण॒क्तु॒ । परीति॑ । त्वे॒षस्य॑ । दु॒र्म॒तिरिति॑ दुः-म॒तिः । अ॒घा॒योरित्य॑घ-योः ॥ अवेति॑ । स्थि॒रा । म॒घव॑द्भ्य॒ इति॑ म॒घव॑त्-भ्यः॒ । त॒नु॒ष्व॒ । मीढ्वः॑ । तो॒काय॑ । तन॑याय । मृ॒ड॒य॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हन्यतेऽनयेति हेतिरायुधं, रुद्रस्य हेतिर्नोऽस्मान्परिवृणक्तु परितो वर्जितान्करोतु।  
@@ -747,7 +787,7 @@ O bounteous one, be merciful to our children and descendants.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/16/51_mIDhuShTama_shivatama.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/16/51_mIDhuShTama_shivatama.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -837,7 +877,7 @@ And approach us bearing the spear [4].
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/10_vikirida_vilohita.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/10_vikirida_vilohita.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -872,6 +912,11 @@ Smite down another than us.
 यास्ते॑ स॒हस्रँ॑ हे॒तयो॒ऽन्यम॒स्मन्नि व॑पन्तु॒ ताः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+विकि॑रि॒देति॒ वि-कि॒रि॒द॒ । विलो॑हि॒तेति॒ वि-लो॒हि॒त॒ । नमः॑ । ते॒ । अ॒स्तु॒ । भ॒ग॒व॒ इति॑ भग-वः॒ ॥ याः । ते॒ । स॒हस्र॑म् । हे॒तयः॑ । अ॒न्यम् । अ॒स्मत् । नीति॑ । व॒प॒न्तु॒ । ताः ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 कीर्यन्ते भक्तानां संनिधौ बहुधा प्रक्षिप्यन्त इति किरावो धनानि तानि ददातीति **किरिदः**।  
@@ -894,7 +939,7 @@ Smite down another than us.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/11_sahasrANi_sahasradhA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/11_sahasrANi_sahasradhA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -927,6 +972,11 @@ The points of those which thou dost rule.
 
 स॒हस्रा॑णि सहस्र॒धा बा॑हु॒वोस्तव॑ हे॒तयः॑ ।   
 तासा॒मीशा॑नो भगवᳶ परा॒चीना॒ मुखा॑ कृधि ॥ [25]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒हस्रा॑णि । स॒ह॒स्र॒धेति॑ सहस्र-धा । बा॒हु॒वोः । तव॑ । हे॒तयः॑ ॥ तासा॑म् । ईशा॑नः । भ॒ग॒व॒ इति॑ भग-वः॒ । प॒रा॒चीना॑ । मुखा॑ । कृ॒धि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -26,10 +26,23 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 इ᳓षमू᳓र्जमभि᳓ सव्ँव᳓सानौ सव्ँ᳓वाम्म᳓नाँसि स᳓व्व्ँरता᳓ स᳓मु चित्ता᳓न्या᳓करम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Be united, be in harmony, in affection,  
+Radiant, with kindly thought,  
+Clothed in food and strength,  
+United have I made your minds, your ordinances, your hearts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 समि॑तँ॒ सङ्क॑ल्पेथाँ॒ सम्प्रि॑यौ रोचि॒ष्णू सु॑मन॒स्यमा॑नौ ।  
 इष॒मूर्ज॑म॒भि सव्ँ॒वसा॑नौ॒ सव्ँवा॒म्मनाँ॑सि॒ सव्व्ँर॒ता समु॑ चि॒त्तान्याक॑रम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । इ॒त॒म् । समिति॑ । क॒ल्पे॒था॒म् । सम्प्रि॑या॒विति॒ सम्-प्रि॒यौ॒ । रो॒चि॒ष्णू इति॑ । सु॒म॒न॒स्यमा॑ना॒विति॑ सु-म॒न॒स्यमा॑नौ ॥ इष॑म् । ऊर्ज॑म् । अ॒भीति॑ । सव्ँ॒वसा॑ना॒विति॑ सम्-वसा॑नौ । समिति॑ । वा॒म् । मनाँ॑सि । समिति॑ । व्र॒ता । समिति॑ । उ॒ । चि॒त्तानि॑ । एति॑ । अ॒क॒र॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -54,10 +67,21 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 इ᳓षमू᳓र्जय्ँय᳓जमानाय धेहि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni of the dust be overlord for us;  
+Bestow food and strength on the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॑ पुरीष्याधि॒पा भ॑वा॒ त्वन्नः॑ ।  
 इष॒मूर्जय्ँ॒यज॑मानाय धेहि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । पु॒री॒ष्य॒ । अ॒धि॒पा इत्य॑धि-पाः । भ॒व॒ । त्वम् । नः॒ ॥ इष॑म् । ऊर्ज॑म् । यज॑मानाय । धे॒हि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -77,10 +101,23 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 शिवाᳵ᳓ कृत्वा᳓ दि᳓शस्स᳓र्वास्स्वाय्ँ᳓यो᳓निमिहा᳓सदः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou, O Agni, art of the dust,  
+Rich, full of increase,  
+Making all the regions propitious  
+Thou hast sat down on thine own birthplace.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒री॒ष्य॑स्त्वम॑ग्ने रयि॒मान्पु॑ष्टि॒माँ अ॑सि ।  
 शि॒वाᳵ कृ॒त्वा दिश॒स्सर्वा॒स्स्वाय्ँयोनि॑मि॒हास॑दः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पु॒री॒ष्यः॑ । त्वम् । अ॒ग्ने॒ । र॒यि॒मानिति॑ रयि-मान् । पु॒ष्टि॒मानिति॑ पुष्टि-मान् । अ॒सि॒ ॥ शि॒वाः । कृ॒त्वा । दिशः॑ । सर्वाः॑ । स्वाम् । योनि॑म् । इ॒ह । एति॑ । अ॒स॒दः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -100,10 +137,22 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 मा᳓ यज्ञँ᳓ हिँसिष्टम्मा᳓ यज्ञ᳓पतिञ्जातवेदसौ शिवौ᳓ भवतमद्य᳓ नः ।
 </details>
 
+<details><summary>Keith</summary>
+
+Be ye of one mind for us,  
+One dwelling [1], spotless;  
+Harm not the sacrifice, nor the lord of the sacrifice, O all-knowers; Be ye two auspicious to-day unto us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भव॑तन्न॒स्सम॑नसौ॒ समो॑कसौ [18]  अ॒रे॒पसौ॑ ।
 मा य॒ज्ञँ हिँ॑सिष्ट॒म्मा य॒ज्ञप॑तिञ्जातवेदसौ शि॒वौ भ॑वतम॒द्य नः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भव॑तम् । नः॒ । सम॑नसा॒विति॒ स-म॒न॒सौ॒ । समो॑कसा॒विति॒ सम्-ओ॒क॒सौ॒ । अ॒रे॒पसौ॑ ॥ मा । य॒ज्ञम् । हिँ॒सि॒ष्ट॒म् । मा । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म् । जा॒त॒वे॒द॒सा॒विति॑ जात-वे॒द॒सौ॒ । शि॒वौ । भ॒व॒त॒म् । अ॒द्य । नः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -129,10 +178,22 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 ताव्ँ᳓वि᳓श्वैर्देवै᳓रृतु᳓भिस्सव्ँविदानᳶ᳓ प्रजा᳓पतिर्विश्व᳓कर्मा वि᳓ मुञ्चतु ।
 </details>
 
+<details><summary>Keith</summary>
+
+As a mother her son, the earth,  
+The pan, hath borne Agni of the dust in his own birthplace In unison with the All-gods, the seasons,  
+Let Prajapati, all-worker, release it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मा॒तेव॑ पु॒त्रम्पृ॑थि॒वी पु॑री॒ष्य॑म॒ग्निँ स्वे योना॑वभारु॒खा ।  
 ताव्ँविश्वै॑र्दे॒वैर्ऋ॒तुभि॑स्सव्ँविदा॒नᳶ प्र॒जाप॑तिर्वि॒श्वक॑र्मा॒ वि मु॑ञ्चतु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मा॒ता । इ॒व॒ । पु॒त्रम् । पृ॒थि॒वी । पु॒री॒ष्य॑म् । अ॒ग्निम् । स्वे । योनौ॑ । अ॒भाः॒ । उ॒खा ॥ ताम् । विश्वैः॑ । दे॒वैः । ऋ॒तुभि॒रित्यृ॒तु-भिः॒ । सव्ँ॒वि॒दा॒न इति॑ सम्-वि॒दा॒नः । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । वि॒श्वक॒र्मेति॑ वि॒श्व-क॒र्मा॒ । वीति॑ । मु॒ञ्च॒तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -154,10 +215,23 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 त᳓न्नᳶ पर्षद᳓ति द्वि᳓षो᳓ऽग्ने वैश्वानर स्वा᳓हा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The bright light  
+Born beyond this firmament,  
+May that convey us beyond our foes,  
+O Agni Vaiśvanara, hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद॒स्य पा॒रे रज॑सश्शु॒क्रञ्ज्योति॒रजा॑यत ।  
 तन्नᳶ॑ पर्ष॒दति॒ द्विषोऽग्ने॑ वैश्वानर॒ स्वाहा॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । अ॒स्य । पा॒रे । रज॑सः । शु॒क्रम् । ज्योतिः॑ । अजा॑यत ॥ तत् । नः॒ । प॒र्ष॒त् । अतीति॑ । द्विषः॑ । अग्ने॑ । वै॒श्वा॒न॒र॒ । स्वाहा॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -176,10 +250,24 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 यमे᳓न त्वय्ँ᳓यम्या᳙ सव्ँविदानो᳓त्तम᳓न्ना᳓कम᳓धि रोहयेम᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to thee, O Nirrti of every form [2],  
+Loosen ye this bond made of iron;
+  
+Do thou in accord with Yama and Yami  
+Mount this highest vault.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॒स्सु ते॑ निर्ऋते विश्वरूपे [19]  अ॒य॒स्मयव्ँ॒वि चृ॑ता ब॒न्धमे॒तम् ।  
 य॒मेन॒ त्वय्ँय॒म्या॑ सव्ँविदा॒नोत्त॒मन्नाक॒मधि॑ रोहये॒मम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । स्विति॑ । ते॒ । नि॒र्॒ऋ॒त॒ इति॑ निः-ऋ॒ते॒ । वि॒श्व॒रू॒प॒ इति॑ विश्व-रू॒पे॒ । अ॒य॒स्मय॑म् । वीति॑ । चृ॒त॒ । ब॒न्धम् । ए॒तम् ॥ य॒मेन॑ । त्वम् । य॒म्या॑ । सव्ँ॒वि॒दा॒नेति॑ सम्-वि॒दा॒ना । उ॒त्त॒ममित्यु॑त्-त॒मम् । नाक॑म् । अधीति॑ । रो॒ह॒य॒ । इ॒मम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -202,10 +290,22 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 इद᳓न्ते त᳓द्वि᳓ ष्याम्या᳓युषो न᳓ म᳓ध्याद᳓था जीवᳶ᳓ पितु᳓मद्धि प्र᳓मुक्तः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The bond that Nirrti, the goddess,  
+Bound on thy neck, not to be loosened,  
+This I loosen for thee as from the middle of life; Then living, let loose, do thou eat the food.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्ते॑ दे॒वी निर्ऋ॑तिरा ब॒बन्ध॒ दाम॑ ग्री॒वास्व॑विच॒र्त्यम् ।  
 इ॒दन्ते॒ तद्वि ष्या॒म्यायु॑षो॒ न मध्या॒दथा॑ जी॒वᳶ पि॒तुम॑द्धि॒ प्रमु॑क्तः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । दे॒वी । निर्ऋ॑ति॒रिति॒ निः-ऋ॒तिः॒ । आ॒ब॒बन्धेत्या॑-ब॒बन्ध॑ । दाम॑ । ग्री॒वासु॑ । अ॒वि॒च॒र्त्यमित्य॑वि-च॒र्त्यम् ॥ इ॒दम् । ते॒ । तत् । वीति॑ । स्या॒मि॒ । आयु॑षः । न । मध्या॑त् । अथ॑ । जी॒वः । पि॒तुम् । अ॒द्धि॒ । प्रमु॑क्त॒ इति॒ प्र-मु॒क्तः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -224,10 +324,22 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 भू᳓मिरि᳓ति त्वा ज᳓ना विदु᳓र्नि᳓रृतिः᳓ [20]  इ᳓ति त्वाह᳓म्प᳓रि वेद विश्व᳓तः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thee in whose cruel mouth here I make offering, For the loosening of these bonds,  
+As 'earth' men know thee,  
+As 'Nirrti' [3], I know thee on every side.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्या॑स्ते अ॒स्याᳵ क्रू॒र आ॒सञ्जु॒होम्ये॒षाम्ब॒न्धाना॑मव॒सर्ज॑नाय ।  
 भूमि॒रिति॑ त्वा॒ जना॑ वि॒दुर्निर्ऋ॑तिः [20]  इति॑ त्वा॒हम्परि॑ वेद वि॒श्वतः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यस्याः॑ । ते॒ । अ॒स्याः । क्रू॒रे । आ॒सन् । जु॒होमि॑ । ए॒षाम् । ब॒न्धाना॑म् । अ॒व॒सर्ज॑ना॒येत्य॑व-सर्ज॑नाय ॥ भूमिः॑ । इति॑ । त्वा॒ । जनाः॑ । वि॒दुः । निर्ऋ॑ति॒रिति॒ निः-ऋ॒तिः॒ । इति॑ । त्वा॒ । अ॒हम् । परीति॑ । वे॒द॒ । वि॒श्वतः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -246,10 +358,21 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 अन्य᳓मस्म᳓दिच्छ सा᳓ त इत्या᳓ न᳓मो देवि निरृते तु᳓भ्यमस्तु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Seek the man who poureth not offering nor sacrifices; The road of the thief and robber thou followest; Seek another than us, that is thy road;  
+Homage be to thee, O Nirrti, O goddess.
+</details>
+
 <details><summary>मूलम्</summary>
 
 असु॑न्वन्त॒मय॑जमानमिच्छ स्ते॒नस्ये॒त्यान्तस्क॑र॒स्यान्वे॑षि ।  
 अ॒न्यम॒स्मदि॑च्छ॒ सा त॑ इ॒त्या नमो॑ देवि निर्ऋते॒ तुभ्य॑मस्तु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+असु॑न्वन्तम् । अय॑जमानम् । इ॒च्छ॒ । स्ते॒नस्य॑ । इ॒त्याम् । तस्क॑रस्य । अन्विति॑ । ए॒षि॒ ॥ अ॒न्यम् । अ॒स्मत् । इ॒च्छ॒ । सा । ते॒ । इ॒त्या । नमः॑ । दे॒वि॒ । नि॒र्॒ऋ॒त॒ इति॑ निः-ऋ॒ते॒ । तुभ्य॑म् । अ॒स्तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -268,10 +391,22 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 वि᳓श्वस्य या᳓ जा᳓यमानस्य वे᳓द शि᳓रश्शिरᳶ प्र᳓ति सूरी᳓ वि᳓ चष्टे ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Praising Nirrti, the goddess,  
+Like a father his son, I weary her with my words; She who knoweth all that is born,  
+Discerneth, the lady, every head.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वीम॒हन्निर्ऋ॑तिव्ँ॒वन्द॑मानᳶ पि॒तेव॑ पु॒त्रन्द॑सये॒ वचो॑भिः ।  
 विश्व॑स्य॒ या जाय॑मानस्य॒ वेद॒ शिर॑श्शिर॒ᳶ प्रति॑ सू॒री वि च॑ष्टे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वीम् । अ॒हम् । निर्ऋ॑ति॒मिति॒ निः-ऋ॒ति॒म् । वन्द॑मानः । पि॒ता । इ॒व॒ । पु॒त्रम् । द॒स॒ये॒ । वचो॑भि॒रिति॒ वचः॑-भिः॒ ॥ विश्व॑स्य । या । जाय॑मानस्य । वेद॑ । शिर॑श्शिर॒ इति॒ शिरः॑-शि॒रः॒ । प्रतीति॑ । सू॒री । वीति॑ । च॒ष्टे॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -300,10 +435,22 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 देव᳓ इव सविता᳓ सत्य᳓धर्मे᳓न्द्रो न᳓ तस्थौ समरे᳓ पथीना᳓म् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Abode and collector of riches,  
+Every form she discerneth with might [4], Like the god Savitr of true laws,  
+Like Indra, she standeth at the meeting of the ways.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नि॒वेश॑नस्स॒ङ्गम॑नो॒ वसू॑नाव्ँ॒विश्वा॑ रू॒पाभि च॑ष्टे [21] शची॑भिः ।  
 दे॒व इ॑व सवि॒ता स॒त्यध॒र्मेन्द्रो॒ न त॑स्थौ सम॒रे प॑थी॒नाम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नि॒वेश॑न॒ इति॑ नि-वेश॑नः । स॒ङ्गम॑न॒ इति॑ सम्-गम॑नः । वसू॑नाम् । विश्वा॑ । रू॒पा । अ॒भीति॑ । च॒ष्टे॒ । शची॑भि॒रिति॒ शचि॑-भिः॒ ॥ दे॒वः । इ॒व॒ । स॒वि॒ता । स॒त्यध॒र्मेति॑ स॒त्य-ध॒र्मा॒ । इन्द्रः॑ । न । त॒स्थौ॒ । स॒म॒र इति॑ सम्-अ॒रे । प॒थी॒नाम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -338,10 +485,23 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 सिञ्चा᳓महा अवट᳓मुद्रि᳓णव्ँवयव्ँ᳓वि᳓श्वा᳓हा᳓दस्तम᳓क्षितम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Make firm the straps,  
+Fasten the buckets;  
+We shall drain the well full of water,  
+That never is exhausted, never faileth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सव्ँव॑र॒त्रा द॑धातन॒ निरा॑हा॒वान्कृ॑णोतन ।  
 सि॒ञ्चाम॑हा अव॒टमु॒द्रिणव्ँ॑व॒यव्ँविश्वाहाद॑स्त॒मक्षि॑तम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । व॒र॒त्राः । द॒धा॒त॒न॒ । निरिति॑ । आ॒हा॒वानित्या॑-हा॒वान् । कृ॒णो॒त॒न॒ ॥ सि॒ञ्चाम॑है । अ॒व॒टम् । उ॒द्रिण॑म् । व॒यम् । विश्वा॑ । अहा॑ । अद॑स्तम् । अक्षि॑तम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -360,10 +520,21 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 उद्रि᳓णँ सिञ्चे अ᳓क्षितम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The well with buckets fastened,  
+With strong straps, that yieldeth abundantly, Full of water, unexhausted, I drain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निष्कृ॑ताहावमव॒टँ सु॑वर॒त्रँ सु॑षेच॒नम् ।  
 उ॒द्रिणँ॑ सिञ्चे॒ अक्षि॑तम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+निष्कृ॑ताहाव॒मिति॒ निष्कृ॑त-आ॒हा॒व॒म् । अ॒व॒टम् । सु॒व॒र॒त्रमिति॑ सु-व॒र॒त्रम् । सु॒षे॒च॒नमिति॑ सु-से॒च॒नम् ॥ उ॒द्रिण॑म् । सि॒ञ्चे॒ । अक्षि॑तम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -377,7 +548,7 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 तत्र प्रथमामाह— सीरा युञ्जन्तीति ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/101/04_sIrA_yunjanti.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/101/04_sIrA_yunjanti.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -387,6 +558,13 @@ title = "०५ आहवनीयार्थं भुवाकर्षणम
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+The sages yoke the ploughs;  
+They stretch apart the yokes,  
+Wise with goodwill among the gods.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/101/04_sIrA_yunjanti.md">
 
@@ -633,10 +811,20 @@ Die es verstehen, spannen die Stränge an und legen die Joche gesondert auf, die
 गिरा᳓ च श्रुष्टि᳓स्स᳓भरा अ᳓सन्नो ने᳓दीय इ᳓त्सृण्या᳙ पक्व᳓मा᳓यत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Yoke the ploughs, stretch apart the yokes, Here sow in the womb made ready the seed [5] Through our song be there audience with profit for us; May the ripe (grain) be brought low by the sickle.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यु॒नक्त॒ सीरा॒ वि यु॒गा त॑नोत कृ॒ते योनौ॑ वपते॒ह [22]  बीज॑म् ।  
 गि॒रा च॑ श्रु॒ष्टिस्सभ॑रा॒ अस॑न्नो॒ नेदी॑य॒ इत्सृ॒ण्या॑ प॒क्वमाय॑त् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यु॒नक्त॑ । सीरा॑ । वीति॑ । यु॒गा । त॒नो॒त॒ । कृ॒ते । योनौ॑ । व॒प॒त॒ । इ॒ह । बीज॑म् ॥ गि॒रा । च॒ । श्रु॒ष्टिः । सभ॑रा॒ इति॒ स-भ॒राः॒ । अस॑त् । नः॒ । नेदी॑यः । इत् । सृ॒ण्या॑ । प॒क्वम् । एति॑ । अ॒य॒त् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -656,11 +844,25 @@ Die es verstehen, spannen die Stränge an und legen die Joche gesondert auf, die
 प्रस्था᳓वद्रथवा᳓हनम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The plough, of keen share,  
+Propitious, with well-polished handle,  
+Plougheth up a cow, a sheep,  
+And a fat blooming maid,  
+A chariot support with a platform.
+</details>
+
 <details><summary>मूलम्</summary>
 
 लाङ्ग॑ल॒म्पवी॑रवँ सु॒शेवँ॑ सुम॒तित्स॑रु ।  
 उदित्कृ॑षति॒ गामवि॑म्प्रफ॒र्व्य॑ञ्च॒ पीव॑रीम् ।  
 प्र॒स्थाव॑द्रथ॒वाह॑नम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+लाङ्ग॑लम् । पवी॑रवम् । सु॒शेव॒मिति॑ सु-शेव॑म् । सु॒म॒तित्स॒र्विति॑ सुम॒ति-त्स॒रु॒ ॥ उदिति॑ । इत् । कृ॒ष॒ति॒ । गाम् । अवि॑म् । प्र॒फ॒र्व्य॑मिति॑ प्र-फ॒र्व्य॑म् । च॒ । पीव॑रीम् ॥ प्र॒स्थाव॒दिति॑ प्र॒स्थ-व॒त् । र॒थ॒वाह॑न॒मिति॑ रथ-वाह॑नम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -679,10 +881,20 @@ Die es verstehen, spannen die Stränge an und legen die Joche gesondert auf, die
 शुन᳓म्पर्ज᳓न्यो म᳓धुना प᳓योभिश्शु᳓नासीरा शुन᳓मस्मा᳓सु धत्तम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+With prosperity may our ploughs cleave the ground, With prosperity may the ploughers go round the yokes; Prosperity (may) Parjanya (give) with honey and milk, And do ye, O Śuna and Sira, accord prosperity to us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शु॒नन्न॒ᳶ फाला॒ वि तु॑दन्तु॒ भूमिँ॑ शु॒नङ्की॒नाशा॑ अ॒भि य॑न्तु वा॒हान् ।  
 शु॒नम्प॒र्जन्यो॒ मधु॑ना॒ पयो॑भि॒श्शुना॑सीरा शु॒नम॒स्मासु॑ धत्तम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शु॒नम् । नः॒ । फालाः॑ । वीति॑ । तु॒द॒न्तु॒ । भूमि॑म् । शु॒नम् । की॒नाशाः॑ । अ॒भीति॑ । य॒न्तु॒ । वा॒हान् ॥ शु॒नम् । प॒र्जन्यः॑ । मधु॑ना । पयो॑भि॒रिति॒ पयः॑-भिः॒ । शुना॑सीरा । शु॒नम् । अ॒स्मासु॑ । ध॒त्त॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -714,10 +926,22 @@ Die es verstehen, spannen die Stränge an und legen die Joche gesondert auf, die
 इ᳓न्द्रायाग्न᳓ये पूष्ण᳓ ओ᳓षधीभ्यᳶ प्रजा᳓भ्यः ।
 </details>
 
+<details><summary>Keith</summary>
+
+Wishes, O milker of wishes, do thou milk To Mitra and Varuna;  
+To Indra, to Agni, to Pusan,  
+To the plants, and to offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 काम॑ङ्कामदुघे धुक्ष्व मि॒त्राय॒ वरु॑णाय च ।  
 इन्द्रा॑या॒ग्नये॑ पू॒ष्ण ओष॑धीभ्यᳶ प्र॒जाभ्यः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+काम॑म् । का॒म॒दु॒घ॒ इति॑ काम-दु॒घे॒ । धु॒क्ष्व॒ । मि॒त्राय॑ । वरु॑णाय । च॒ ॥ इन्द्रा॑य । अ॒ग्नये॑ । पू॒ष्णे । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । प्र॒जाभ्य॒ इति॑ प्र-जाभ्यः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -734,10 +958,22 @@ Die es verstehen, spannen die Stränge an und legen die Joche gesondert auf, die
 ऊ᳓र्जस्वती प᳓यसा पि᳓न्वमानास्मा᳓न्त्सीते प᳓यसाभ्या᳓ववृत्स्व ॥ [23]  
 </details>
 
+<details><summary>Keith</summary>
+
+The furrow anointed with ghee, with honey, Approved by the All-gods, the Maruts,  
+Full of strength, swelling with milk,  
+Do thou, O furrow, turn towards us with milk.
+</details>
+
 <details><summary>मूलम्</summary>
 
 घृ॒तेन॒ सीता॒ मधु॑ना॒ सम॑क्ता॒ विश्वै॑र्दे॒वैरनु॑मता म॒रुद्भिः॑ ।  
 ऊर्ज॑स्वती॒ पय॑सा॒ पिन्व॑माना॒स्मान्त्सी॑ते॒ पय॑सा॒भ्याव॑वृत्स्व ॥ [23]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+घृ॒तेन॑ । सीता॑ । मधु॑ना । सम॒क्तेति॒ सम्-अ॒क्ता॒ । विश्वैः॑ । दे॒वैः । अनु॑म॒तेत्यनु॑-म॒ता॒ । म॒रुद्भि॒रिति॑ म॒रुत्-भिः॒ ॥ ऊर्ज॑स्वती । पय॑सा । पिन्व॑माना । अ॒स्मान् । सी॒ते॒ । पय॑सा । अ॒भ्याव॑वृ॒त्स्वेत्य॑भि-आव॑वृत्स्व ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

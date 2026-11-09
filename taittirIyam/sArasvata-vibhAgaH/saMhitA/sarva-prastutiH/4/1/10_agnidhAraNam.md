@@ -21,10 +21,23 @@ title = "१० अग्निधारणम्"
 त᳓दस्तु तु᳓भ्यमि᳓द्घृत᳓न्त᳓ज्जुषस्व यविष्ठ्य ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Whatever logs we place  
+In thee, O Agni,  
+Be that ghee for thee;  
+Accept it, O youngest one.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद॑ग्ने॒ यानि॒ कानि॒ चा ते॒ दारू॑णि द॒ध्मसि॑ ।  
 तद॑स्तु॒ तुभ्य॒मिद्घृ॒तन्तज्जु॑षस्व यविष्ठ्य ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । अ॒ग्ने॒ । यानि॑ । कानि॑ । च॒ । एति॑ । ते॒ । दारू॑णि । द॒ध्मसि॑ ॥ तत् । अ॒स्तु॒ । तुभ्य॑म् । इत् । घृ॒तम् । तत् । जु॒ष॒स्व॒ । य॒वि॒ष्ठ्य॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -45,10 +58,23 @@ title = "१० अग्निधारणम्"
 स᳓र्वन्त᳓दस्तु ते घृत᳓न्त᳓ज्जुषस्व यविष्ठ्य ।  
 </details>
 
+<details><summary>Keith</summary>
+
+What the insect eateth,  
+What the ant climbeth over,  
+All that be ghee for thee;  
+Accept it, O youngest one.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदत्त्यु॑प॒जिह्वि॑का॒ यद्व॒म्रो अ॑ति॒सर्प॑ति ।  
 सर्व॒न्तद॑स्तु ते घृ॒तन्तज्जु॑षस्व यविष्ठ्य ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । अत्ति॑ । उ॒प॒जिह्वि॒केत्यु॑प-जिह्वि॑का । यत् । व॒म्रः । अ॒ति॒सर्प॒तीत्य॑ति-सर्प॑ति ॥ सर्व॑म् । तत् । अ॒स्तु॒ । ते । घृ॒तम् । तत् । जु॒ष॒स्व॒ । य॒वि॒ष्ठ्य॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -74,10 +100,22 @@ title = "१० अग्निधारणम्"
 राय᳓स्पो᳓षेण स᳓मिषा᳓ म᳓दन्तो᳓ऽग्ने मा᳓ ते प्र᳓तिवेशा रिषाम ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Mighty by night, unfailingly bearing (food)  
+For him as fodder to a stalled horse,  
+May we, O Agni, thy neighbours, be not harmed, Rejoicing in increase of wealth, in food.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रात्रिँ॑रात्रि॒मप्र॑याव॒म्भर॒न्तोऽश्वा॑येव॒ तिष्ठ॑ते घा॒समस्मै ।  
 रा॒यस्पोषे॑ण॒ समि॒षा मद॒न्तोऽग्ने॒ मा ते॒ प्रति॑वेशा रिषाम ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रात्रिँ॑रात्रि॒मिति॒ रात्रि॑म्-रा॒त्रि॒म् । अप्र॑याव॒मित्यप्र॑-या॒व॒म् । भर॑न्तः । अश्वा॑य । इ॒व॒ । तिष्ठ॑ते । घा॒सम् । अ॒स्मै॒ ॥ रा॒यः । पोषे॑ण । समिति॑ । इ॒षा । मद॑न्तः । अग्ने॑ । मा । ते॒ । प्रति॑वेशा॒ इति॒ प्रति॑-वे॒शाः॒ । रि॒षा॒म॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -102,10 +140,22 @@ title = "१० अग्निधारणम्"
 इरम्मद᳓म्बृह᳓दुक्थय्ँय᳓जत्रञ्जे᳓तारमग्नि᳓म्पृतनासु सासहि᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Kindled on earth's navel [1], Agni  
+We invoke for great increase of wealth,  
+Delighting in drink, recipient of great praise, worthy of offering, The victor, Agni, sustainer in battles.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नाभा॑ [38] पृ॒थि॒व्यास्स॑मिधा॒नम॒ग्निँ रा॒यस्पोषा॑य बृह॒ते ह॑वामहे ।  
 इ॒र॒म्म॒दम्बृ॒हदु॑क्थय्ँ॒यज॑त्र॒ञ्जेता॑रम॒ग्निम्पृ॑तनासु सास॒हिम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नाभा॑ । पृ॒थि॒व्याः । स॒मि॒धा॒नमिति॑ सम्-इ॒धा॒नम् । अ॒ग्निम् । रा॒यः । पोषा॑य । बृ॒ह॒ते । ह॒वा॒म॒हे॒ ॥ इ॒र॒म्म॒दमिती॑रम्-म॒दम् । बृ॒हदु॑क्थ॒मिति॑ बृ॒हत्-उ॒क्थ॒म् । यज॑त्रम् । जेता॑रम् । अ॒ग्निम् । पृत॑नासु । सा॒स॒हिम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -124,10 +174,23 @@ title = "१० अग्निधारणम्"
 ये᳓ स्तेना᳓ ये᳓ च त᳓स्करास्ताँ᳓स्ते अग्ने᳓ऽपि दधाम्यास्ये᳙ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The hosts that attack,  
+That pierce, the trooping,  
+The thieves and the robbers,  
+Them, O Agni, do I place in thy mouth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यास्सेना॑ अ॒भीत्व॑रीराव्या॒धिनी॒रुग॑णा उ॒त ।  
 ये स्ते॒ना ये च॒ तस्क॑रा॒स्ताँस्ते॑ अ॒ग्नेऽपि॑ दधाम्या॒स्ये॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+याः । सेनाः॑ । अ॒भीत्व॑री॒रित्य॑भि-इत्व॑रीः । आ॒व्या॒धिनी॒रित्या॑-व्या॒धिनीः॑ । उग॑णाः । उ॒त ॥ ये । स्ते॒नाः । ये । च॒ । तस्क॑राः । तान् । ते॒ । अ॒ग्ने॒ । अपीति॑ । द॒धा॒मि॒ । आ॒स्ये॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -153,10 +216,24 @@ title = "१० अग्निधारणम्"
 ह᳓नूभ्याँस्तेना᳓न्भगवस्ताँ᳓स्त्व᳓ङ्खाद सु᳓खादितान् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+With thy tusks the burglars,
+  
+With thy teeth the robbers,  
+With thy jaws the thieves, O blessed one,  
+Do thou chew, well chewed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दँष्ट्रा॑भ्याम्म॒लिम्लू॒ञ्जम्भ्यै॒स्तस्क॑राँ उ॒त ।  
 हनू॑भ्याँस्ते॒नान्भ॑गव॒स्ताँस्त्वङ्खा॑द॒ सुखा॑दितान् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दँष्ट्रा॑भ्याम् । म॒लिम्लून्॑ । जम्भ्यैः॑ । तस्क॑रान् । उ॒त ॥ हनू॑भ्या॒मिति॒ हनु॑-भ्या॒म् । स्ते॒नान् । भ॒ग॒व॒ इति॑ भग-वः॒ । तान् । त्वम् । खा॒द॒ । सुखा॑दिता॒निति॒ सु-खा॒दि॒ता॒न् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -176,10 +253,23 @@ title = "१० अग्निधारणम्"
 ये᳓ [39]  क᳓क्षेष्वघाय᳓वस्ताँ᳓स्ते दधामि ज᳓म्भयोः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The burglars among men,  
+The thieves and robbers in the forest,  
+The [2] mischief-workers in the thickets,  
+Them I place within thy jaws.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये जने॑षु म॒लिम्ल॑वस्स्ते॒नास॒स्तस्क॑रा॒ वने॑ ।  
 ये [39]  कक्षे॑ष्वघा॒यव॒स्ताँस्ते॑ दधामि॒ जम्भ॑योः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । जने॑षु । म॒लिम्ल॑वः । स्ते॒नासः॑ । तस्क॑राः । वने॑ ॥ ये । कक्षे॑षु । अ॒घा॒यव॒ इत्य॑घ-यवः॑ । तान् । ते॒ । द॒धा॒मि॒ । जम्भ॑योः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -199,10 +289,23 @@ title = "१० अग्निधारणम्"
 नि᳓न्दाद्यो᳓ अस्मा᳓न्दि᳓प्साच्च स᳓र्वन्त᳓म्मस्मसा᳓ कुरु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The man who is hostile to us,  
+And him who hateth us,  
+Him who revileth us, and him who seeketh to hurt,  
+Every one of them do thou crush to atoms.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो अ॒स्मभ्य॑मराती॒याद्यश्च॑ नो॒ द्वेष॑ते॒ जनः॑ ।  
 निन्दा॒द्यो अ॒स्मान्दिप्सा॑च्च॒ सर्व॒न्तम्म॑स्म॒सा कु॑रु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । अ॒स्मभ्य॒मित्य॒स्म-भ्य॒म् । अ॒रा॒ती॒यात् । यः । च॒ । नः॒ । द्वेष॑ते । जनः॑ ॥ निन्दा॑त् । यः । अ॒स्मान् । दिप्सा॑त् । च॒ । सर्व॑म् । तम् । म॒स्म॒सा । कु॒रु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -222,10 +325,23 @@ title = "१० अग्निधारणम्"
 सँ᳓शितङ्क्षत्र᳓ञ्जिष्णु᳓ य᳓स्याह᳓म᳓स्मि पुरो᳓हितः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Sharpened is my holy power,  
+Sharpened the strength and might,  
+Sharpened the conquering lordly power of him  
+Whose domestic priest I am.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सँशि॑तम्मे॒ ब्रह्म॒ सँशि॑तव्ँवीर्य॑म्बल॑म् ।  
 सँशि॑तङ्क्ष॒त्रञ्जि॒ष्णु यस्या॒हमस्मि॑ पु॒रोहि॑तः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सँशि॑त॒मिति॒ सम्-शि॒त॒म् । मे॒ । ब्रह्म॑ । सँशि॑त॒मिति॒ सम्-शि॒त॒म् । वी॒र्य॑म् । बल॑म् ॥ सँशि॑त॒मिति॒ सम्-शि॒त॒म् । क्ष॒त्रम् । जि॒ष्णु । यस्य॑ । अ॒हम् । अस्मि॑ । पु॒रोहि॑त॒ इति॑ पु॒रः-हि॒तः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -244,10 +360,27 @@ title = "१० अग्निधारणम्"
 क्षिणो᳓मि ब्र᳓ह्मणाऽमि᳓त्रानु᳓न्नयामि [40]  स्वाँ अह᳓म् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Their arms have I uplifted,  
+Their radiance, their might;  
+With holy power I waste the foes,  
+I support [3] my own.  
+I Shining like gold, he hath become widely resplendent,  
+For glory shining with immortal life;  
+Agni became immortal in his strength  
+What time prolific Dyaus begat him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदे॑षाम्बा॒हू अ॑तिर॒मुद्वर्च॒ उदू॒ बल॑म् ।  
 क्षि॒णोमि॒ ब्रह्म॑णा॒ऽमित्रा॒नुन्न॑यामि [40]  स्वाँ अ॒हम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उदिति॑ । ए॒षा॒म् । बा॒हू इति॑ । अ॒ति॒र॒म् । उदिति॑ । वर्चः॑ । उदिति॑ । उ॒ । बल॑म् ॥ क्षि॒णोमि॑ । ब्रह्म॑णा । अ॒मित्रान्॑ । उदिति॑ । न॒या॒मि॒ । स्वान् । अ॒हम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -268,10 +401,23 @@ title = "१० अग्निधारणम्"
 अग्नि᳓रमृ᳓तो अभवद्व᳓योभिर्य᳓देनन्द्यौ᳓र᳓जनयत्सुरे᳓ताः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The sage showeth all forms;  
+He hath produced bliss for biped and quadruped;  
+Savitr, the desirable, hath discerned the vault;  
+After the moving forward of the dawn he shineth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दृ॒शा॒नो रु॒क्म उ॒र्व्या व्य॑द्यौद्दु॒र्मर्ष॒मायु॑श्श्रि॒ये रु॑चा॒नः ।  
 अ॒ग्निर॒मृतो॑ अभव॒द्वयो॑भि॒र्यदे॑न॒न्द्यौरज॑नयत्सु॒रेताः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दृ॒शा॒नः । रु॒क्मः । उ॒र्व्या । वीति॑ । अ॒द्यौ॒त् । दु॒र्मर्ष॒मिति॑ दुः-मर्ष॑म् । आयुः॑ । श्रि॒ये । रु॒चा॒नः ॥ अ॒ग्निः । अ॒मृतः॑ । अ॒भ॒व॒त् । वयो॑भि॒रिति॒ वयः॑-भिः॒ । यत् । ए॒न॒म् । द्यौः । अज॑नयत् । सु॒रेता॒ इति॑ सु-रेताः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -295,10 +441,23 @@ title = "१० अग्निधारणम्"
 वि᳓ ना᳓कमख्यत्सविता᳓ व᳓रेण्यो᳓ऽनु प्रया᳓णमुष᳓सो वि᳓ राजति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Night and the dawn, one-minded but of various form,  
+United suckle one child;  
+The radiant one shineth between sky and earth [4]  
+The gods, granters of wealth, support Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्वा॑ रू॒पाणि॒ प्रति॑ मुञ्चते क॒विᳶ प्रासा॑वीद्भ॒द्रन्द्वि॒पदे॒ चतु॑ष्पदे ।  
 वि नाक॑मख्यत्सवि॒ता वरे॒ण्योऽनु॑ प्र॒याण॑मु॒षसो॒ वि रा॑जति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्वा॑ । रू॒पाणि॑ । प्रतीति॑ । मु॒ञ्च॒ते॒ । क॒विः । प्रेति॑ । अ॒सा॒वी॒त् । भ॒द्रम् । द्वि॒पद॒ इति॑ द्वि-पदे॑ । चतु॑ष्पद॒ इति॒ चतुः॑-प॒दे॒ ॥ वीति॑ । नाक॑म् । अ॒ख्य॒त् । स॒वि॒ता । वरे॑ण्यः । अन्विति॑ । प्र॒याण॒मिति॑ प्र-यान॑म् । उ॒षसः॑ । वीति॑ । रा॒ज॒ति॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -319,10 +478,20 @@ title = "१० अग्निधारणम्"
 द्या᳓वा क्षा᳓मा रुक्मः᳓ [41]  अन्त᳓र्वि᳓ भाति देवा᳓ अग्नि᳓न्धारयन्द्रविणोदाः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the bird of fair feathers; thy head the Trivrt (Stoma), thy eye the Gayatra, thy breath the Stoma, thy body the Vamadevya Saman, thy wings the Brhat and the Rathantara, thy tail the Yajñayajñiya, thy limbs the metres, thy hoofs the altars, thy name the Yajus formulae.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नक्तो॒षासा॒ सम॑नसा॒ विरू॑पे धा॒पये॑ते॒ शिशु॒मेकँ॑ समी॒ची ।  
 द्यावा॒ क्षामा॑ रु॒क्मः [41]  अ॒न्तर्वि भा॑ति दे॒वा अ॒ग्निन्धा॑रयन्द्रविणो॒दाः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नक्तो॒षासा॑ । सम॑न॒सेति॒ स-म॒न॒सा॒ । विरू॑पे॒ इति॒ वि-रू॒पे॒ । धा॒पये॑ते॒ इति॑ । शिशु॑म् । एक॑म् । स॒मी॒ची इति॑ ॥ द्यावा॑ । क्षाम॑ । रु॒क्मः । अ॒न्तः । वीति॑ । भा॒ति॒ । दे॒वाः । अ॒ग्निम् । धा॒र॒य॒न् । द्र॒वि॒णो॒दा इति॑ द्रविणः-दाः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -341,7 +510,8 @@ title = "१० अग्निधारणम्"
 १८५० शिक्यस्य प्रकृतिद्रव्यं विधत्ते— “मौञ्जं भवत्यूर्ग्वै मुञ्जा ऊर्जैवनँ समर्धयति” [सं. का. ५ प्र. १ अ. १०] इति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/1/10_agnidhAraNam/suparNo_si.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/1/10_agnidhAraNam/suparNo_si.md">
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः— “सुपर्णोऽसि गरुत्मान् इत्य् उख्यम् अवेक्षते” इति।   
@@ -354,7 +524,31 @@ title = "१० अग्निधारणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुपर्णो᳙ऽसि गरु᳓त्मान् ,
+सुपर्णो᳙ऽसि गरु᳓त्मान् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the bird of fair feathers;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सु॒प॒र्णो॑ऽसि ग॒रुत्मा॑न् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒प॒र्ण इति॑ सु-प॒र्णः । अ॒सि॒ । ग॒रुत्मान्॑ ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पाठस्तु— सुपर्णोऽसि गरुत्मानिति ।   हेऽग्ने त्वं सुपर्णः पक्षिरूपोऽसि।   पक्ष्याकारेण चेष्यमाणत्वात् ।   अत एवाऽऽम्नायते—‘वयसां वा एष प्रतिमया चीयते यदग्निः” इति ।   तत्र दृष्टान्तः—यथा गरुत्मान्पक्षिराजस्तद्वत्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 त्रिवृ᳓त् +++(स्तोमविशेषः)+++ ते शि᳓रो,  
 गायत्रं᳓ +++(साम)+++ च᳓क्षुः, स्तो᳓म आत्मा᳓।  
 सा᳓म ते तनू᳓र् वा+++(म)+++देव्य᳓म्, बृहद्-रथन्तरे᳓ पक्षौ᳓,   
@@ -363,9 +557,13 @@ title = "१० अग्निधारणम्"
 य᳓जूँषि ना᳓म ।    
 </details>
 
+<details><summary>Keith</summary>
+
+thy head the Trivrt (Stoma), thy eye the Gayatra, thy breath the Stoma, thy body the Vamadevya Saman, thy wings the Brhat and the Rathantara, thy tail the Yajñayajñiya, thy limbs the metres, thy hoofs the altars, thy name the Yajus formulae.
+</details>
+
 <details><summary>मूलम्</summary>
 
-सु॒प॒र्णो॑ऽसि ग॒रुत्मा॑न् ,
 त्रि॒वृत्ते॒ शिरो॑
 गाय॒त्रञ्चक्षु॒स्
 स्तोम॑ आ॒त्मा
@@ -375,9 +573,14 @@ title = "१० अग्निधारणम्"
 यजूँ॑षि॒ नाम॑ ।    
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+त्रि॒वृदिति॑ त्रि-वृत् । ते॒ । शिरः॑ । गा॒य॒त्रम् । चक्षुः॑ । स्तोमः॑ । आ॒त्मा । साम॑ । ते॒ । त॒नूः । वा॒म॒दे॒व्यमिति॑ वाम-दे॒व्यम् । बृ॒ह॒द्र॒थ॒न्त॒रे इति॑ बृहत्-र॒थ॒न्त॒रे । प॒क्षौ । य॒ज्ञा॒य॒ज्ञिय॑म् । पुच्छ॑म् । छन्दाँ॑सि । अङ्गा॑नि । धिष्णि॑याः । श॒फाः । यजूँ॑षि । नाम॑ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-पाठस्तु— सुपर्णोऽसि गरुत्मानिति ।   हेऽग्ने त्वं सुपर्णः पक्षिरूपोऽसि।   पक्ष्याकारेण चेष्यमाणत्वात् ।   अत एवाऽऽम्नायते—‘वयसां वा एष प्रतिमया चीयते यदग्निः” इति ।   तत्र दृष्टान्तः—यथा गरुत्मान्पक्षिराजस्तद्वत्।   पक्ष्याकारस्यावयवाः संप (पा) द्यन्ते त्रिवृत्ते शिरो बहिष्पवमानस्तोत्रे योऽयं त्रिवृत्स्तोमः स एव स्तोमस्तव शिर-स्थानीयः ।   प्रजापतिमुखजन्यत्वेनोक्तत्वात्।  
+पक्ष्याकारस्यावयवाः संप (पा) द्यन्ते त्रिवृत्ते शिरो बहिष्पवमानस्तोत्रे योऽयं त्रिवृत्स्तोमः स एव स्तोमस्तव शिर-स्थानीयः ।   प्रजापतिमुखजन्यत्वेनोक्तत्वात्।  
 यद्रायत्राख्यं साम तच्छिदीयं चक्षुः।   
 यः पञ्चदशादिस्तोमस्तव स जीवात्मा ।  
 यद्गायदेव्यं साम तच्छिरोव्यतिरिक्ततनुस्थानीयम्।  
@@ -394,9 +597,19 @@ title = "१० अग्निधारणम्"
 सुपर्णो᳙ऽसि गरु᳓त्मान् ,
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the bird of fair feathers;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒प॒र्णो॑ऽसि ग॒रुत्मा॒न् ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒प॒र्ण इति॑ सु-प॒र्णः । अ॒सि॒ । ग॒रुत्मान्॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -409,9 +622,19 @@ title = "१० अग्निधारणम्"
 दि᳓वङ्गच्छ सु᳓वᳶ पत ॥ [42]  
 </details>
 
+<details><summary>Keith</summary>
+
+go to the sky, fly to the heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दिव॑ङ्गच्छ॒ सुवᳶ॑ पत ॥ [42]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दिव॑म् । ग॒च्छ॒ । सुवः॑ । प॒त॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -427,4 +650,5 @@ title = "१० अग्निधारणम्"
 सुपर्णः साग्निरुत्तिष्ठेन्मन्त्राः पञ्चदशेरिताः ॥  
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वे-दीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे प्रथमप्रपाठके  दशमोऽनुवाकः ॥   १० ॥  
 </details>
+
 </div>

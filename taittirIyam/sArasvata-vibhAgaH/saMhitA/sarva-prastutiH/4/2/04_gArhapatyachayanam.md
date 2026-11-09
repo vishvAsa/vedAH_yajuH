@@ -22,6 +22,14 @@ title = "०४ गार्हपत्यचयनम्"
 अ᳓क्रन्नि् इम᳓म् पित᳓रो लोक᳓म् अस्मै ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Go hence depart, creep away, hence,  
+Ye that are here of old and ye that are new,  
+Yama hath given this resting-place of earth,  
+The Pitrs have made this world for him.
+</details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Go away, depart, and creep away from here.
@@ -32,6 +40,11 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 अपे॑त॒ वीत॒ वि च॑ सर्प॒तातो॒ येऽत्र॒ स्थ पु॑रा॒णा ये च॒ नूत॑नाः ।  
 अदा॑दि॒दय्ँय॒मो॑ऽव॒सान॑म्पृथि॒व्या अक्र॑न्नि॒मम्पि॒तरो॑ लो॒कम॑स्मै ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अपेति॑ । इ॒त॒ । वीति॑ । इ॒त॒ । वीति॑ । च॒ । स॒र्प॒त॒ । अतः॑ । ये । अत्र॑ । स्थ । पु॒रा॒णाः । ये । च॒ । नूत॑नाः ॥ अदा॑त् । इ॒दम् । य॒मः । अ॒व॒सान॒मित्य॑व-सान॑म् । पृ॒थि॒व्याः । अक्र॑न् । इ॒मम् । पि॒तरः॑ । लो॒कम् । अ॒स्मै॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -53,9 +66,19 @@ You all that are stationed here from old and you that are new, Yama has given hi
 अग्ने᳓र्भ᳓स्मासि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the ash of Agni,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेर्भस्मा॑सि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । भस्म॑ । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -68,9 +91,19 @@ You all that are stationed here from old and you that are new, Yama has given hi
 अग्नेᳶ᳓ पु᳓रीषमसि ।
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the dust of Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेᳶ पुरी॑षमसि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । पुरी॑षम् । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -92,9 +125,19 @@ You all that are stationed here from old and you that are new, Yama has given hi
 संज्ञा᳓नमसि +++(निवपति)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art accord,
+</details>
+
 <details><summary>मूलम्</summary>
 
 सं॒ज्ञान॑मसि +++(निवपति)+++।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒ञ्ज्ञान॒मिति॑ सम्-ज्ञान॑म् । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -110,10 +153,20 @@ You all that are stationed here from old and you that are new, Yama has given hi
 म᳓यि ते कामध᳓रणम्भूयात् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+fulfilling love; in me be the fulfilling of thy love.
+</details>
+
 <details><summary>मूलम्</summary>
 
 का॒म॒धर॑णम् +++(असि)+++ ।  
 मयि॑ ते काम॒धर॑णम्भूयात् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+का॒म॒धर॑ण॒मिति॑ काम-धर॑णम् । मयि॑ । ते । का॒म॒धर॑ण॒मिति॑ काम-धर॑णम् । भू॒या॒त् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -138,11 +191,24 @@ You all that are stationed here from old and you that are new, Yama has given hi
 आत्मा᳓ वो अ᳓स्तु᳓ [14]  स᳓म्प्रियस्स᳓म्प्रियास्तनु᳓वो म᳓म ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Be united your dear bodies,  
+Be united your dear hearts,  
+Be your breath united [1],  
+United my body.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सय्ँया वᳶ॑ प्रि॒यास्त॒नुव॒स्सम्प्रि॒या हृ॑दयानि वः ।  
 
 आ॒त्मा वो॑ अस्तु [14]  सम्प्रि॑य॒स्सम्प्रि॑यास्त॒नुवो॒ मम॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । याः । वः॒ । प्रि॒याः । त॒नुवः॑ । समिति॑ । प्रि॒या । हृद॑यानि । वः॒ ॥ आ॒त्मा । वः॒ । अ॒स्तु॒ । सम्प्रि॑य॒ इति॒ सम्-प्रि॒यः॒ । सम्प्रि॑या॒ इति॒ सम्-प्रि॒याः॒ । त॒नुवः॑ । मम॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -164,10 +230,23 @@ You all that are stationed here from old and you that are new, Yama has given hi
 सहस्रि᳓यव्ँवा᳓जम᳓त्यन्न᳓ स᳓प्तिँ ससवा᳓न्त्स᳓न्त्स्तूयसे जातवेदः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+This is that Agni in whom as a belly  
+Indra placed the pressed Soma eagerly;  
+Thou art praised, O all-knower, for winning  
+Booty a thousandfold, like a swift steed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यँ सो अ॒ग्निर्यस्मि॒न्त्सोम॒मिन्द्र॑स्सु॒तन्द॒धे ज॒ठरे॑ वावशा॒नः ।  
 स॒ह॒स्रियव्ँ॒वाज॒मत्य॒न्न सप्तिँ॑ सस॒वान्त्सन्त्स्तू॑यसे जातवेदः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । सः । अ॒ग्निः । यस्मि॑न् । सोम॑म् । इन्द्रः॑ । सु॒तम् । द॒धे । ज॒ठरे॑ । वा॒व॒शा॒नः ॥ स॒ह॒स्रिय॑म् । वाज॑म् । अत्य॑म् । न । सप्ति॑म् । स॒स॒वान् । सन् । स्तू॒य॒से॒ । जा॒त॒वे॒द॒ इति॑ जात-वे॒दः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -186,10 +265,24 @@ You all that are stationed here from old and you that are new, Yama has given hi
 याᳶ᳓ पर᳓स्ताद्रोचने᳓ सू᳓र्यस्य या᳓श्चाव᳓स्तादुपति᳓ष्ठन्त आ᳓पः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, thou comest to the wave of the sky,
+  
+To the gods thou speakest, those of the altar;  
+The waters above in the realm of the sun,  
+And those below wait (on thee).
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॑ दि॒वो अर्ण॒मच्छा॑ जिगा॒स्यच्छा॑ दे॒वाँ ऊ॑चिषे॒ धिष्णि॑या॒ ये ।  
 याᳶ प॒रस्ता॑द्रोच॒ने सूर्य॑स्य॒ याश्चा॒वस्ता॑दुप॒तिष्ठ॑न्त॒ आपः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । दि॒वः । अर्ण॑म् । अच्छ॑ । जि॒गा॒सि॒ । अच्छ॑ । दे॒वान् । ऊ॒चि॒षे॒ । धिष्णि॑याः । ये ॥ याः । प॒रस्ता॑त् । रो॒च॒ने । सूर्य॑स्य । याः । च॒ । अ॒वस्ता॑त् । उ॒प॒तिष्ठ॑न्त॒ इत्यु॑प-तिष्ठ॑न्ते । आपः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -208,10 +301,22 @@ You all that are stationed here from old and you that are new, Yama has given hi
 ये᳓नान्त᳓रिक्षमुर्वा᳙तत᳓न्थ त्वेष᳓स्स᳓ भानु᳓रर्णवो᳓ नृच᳓क्षाः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, thy radiance in the sky, the earth,  
+The plants [2], or the waters, O holy one,  
+That whereby thou didst outspread the broad atmosphere, Glittering is thy gleam, moving and men espying.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॒ यत्ते॑ दि॒वि वर्चᳶ॑ पृथि॒व्याय्ँयदोष॑धीषु [15]  अ॒प्सु वा॑ यजत्र ।  
 येना॒न्तरि॑क्षमु॒र्वा॑त॒तन्थ॑ त्वे॒षस्स भा॒नुर॑र्ण॒वो नृ॒चक्षाः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । यत् । ते॒ । दि॒वि । वर्चः॑ । पृ॒थि॒व्याम् । यत् । ओष॑धीषु । अ॒प्स्वित्य॑प्-सु । वा॒ । य॒ज॒त्र॒ ॥ येन॑ । अ॒न्तरि॑क्षम् । उ॒रु । आ॒त॒तन्थेत्या॑-त॒तन्थ॑ । त्वे॒षः । सः । भा॒नुः । अ॒र्ण॒वः । नृ॒चक्षा॒ इति॑ नृ-चक्षाः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -230,10 +335,23 @@ You all that are stationed here from old and you that are new, Yama has given hi
 जुष᳓न्ताँ हव्य᳓मा᳓हुतमनमीवा᳓ इ᳓षो महीः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the Agnis of the dust  
+In unison with those of the floods  
+Accept the oblation offered,  
+The rich healthful viands.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒री॒ष्या॑सो अ॒ग्नयᳶ॑ प्राव॒णेभि॑स्स॒जोष॑सः ।  
 जु॒षन्ताँ॑ ह॒व्यमाहु॑तमनमी॒वा इषो॑ म॒हीः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पु॒री॒ष्या॑सः । अ॒ग्नयः॑ । प्रा॒व॒णेभि॒रिति॑ प्र-व॒नेभिः॑ । स॒जोष॑स॒ इति॑ स-जोष॑सः ॥ जु॒षन्ता॑म् । ह॒व्यम् । आहु॑त॒मित्या-हु॒त॒म् । अ॒न॒मी॒वाः । इषः॑ । म॒हीः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -252,10 +370,23 @@ You all that are stationed here from old and you that are new, Yama has given hi
 स्या᳓न्नस्सुनु᳓स्त᳓नयो विजा᳓वा᳓ग्ने सा᳓ ते सुमति᳓र्भूत्वस्मे᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+As food, O Agni, accord to the sacrificer  
+The gain of a cow, wondrous enduring;  
+Be to us a son, a scion, full of life;  
+This, O Agni, be thy lovingkindness towards us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इडा॑मग्ने पुरु॒दँसँ॑ स॒निङ्गोश्श॑श्वत्त॒मँ हव॑मानाय साध ।  
 स्यान्न॑स्सु॒नुस्तन॑यो वि॒जावाग्ने॒ सा ते॑ सुम॒तिर्भू॑त्व॒स्मे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इडा॑म् । अ॒ग्ने॒ । पु॒रु॒दँस॒मिति॑ पुरु-दँस॑म् । स॒निम् । गोः । श॒श्व॒त्त॒ममिति॑ शश्वत्-त॒मम् । हव॑मानाय । सा॒ध॒ ॥ स्यात् । नः॒ । सू॒नुः । तन॑यः । वि॒जावेति॑ वि-जावा॑ । अग्ने॑ । सा । ते॒ । सु॒म॒तिरिति॑ सु-म॒तिः । भू॒तु॒ । अ॒स्मे इति॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -274,10 +405,23 @@ You all that are stationed here from old and you that are new, Yama has given hi
 त᳓ञ्जान᳓न्न् [16]  अग्न आ᳓ रोहा᳓था नो वर्धया रयि᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+This is thy due place of birth,  
+Whence born thou didst shine,  
+Mount it, O Agni, knowing it [3],  
+And make our wealth increase.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यन्ते॒ योनि॑र्ऋ॒त्वियो॒ यतो॑ जा॒तो अरो॑चथाः ।  
 तञ्जा॒नन्न् [16]  अ॒ग्न॒ आ रो॒हाथा॑ नो वर्धया र॒यिम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । ते॒ । योनिः॑ । ऋ॒त्वियः॑ । यतः॑ । जा॒तः । अरो॑चथाः ॥ तम् । जा॒नन् । अ॒ग्ने॒ । एति॑ । रो॒ह॒ । अथ॑ । नः॒ । व॒र्ध॒य॒ । र॒यिम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -301,9 +445,19 @@ You all that are stationed here from old and you that are new, Yama has given hi
 चि᳓दसि , त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓ सीद ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art a piler; in the manner of Angiras be firm with that deity.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चिद॑सि॒ , तया॑ दे॒वत॑याङ्गिर॒स्वद्ध्रु॒वा सी॑द ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चित् । अ॒सि॒ । तया॑ । दे॒वत॑या । अ॒ङ्गि॒र॒स्वत् । ध्रु॒वा । सी॒द॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -321,9 +475,19 @@ You all that are stationed here from old and you that are new, Yama has given hi
 प᳓रिचि᳓दसि , त᳓या देव᳓तयाऽङ्गिरस्व᳓द्ध्रुवा᳓ सीद ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art a piler round; in the manner of Angiras be firm with that deity.
+</details>
+
 <details><summary>मूलम्</summary>
 
 परि॒चिद॑सि॒ , तया॑ दे॒वत॑याऽङ्गिर॒स्वद्ध्रु॒वा सी॑द ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒रि॒चिदिति॑ परि-चित् । अ॒सि॒ । तया॑ । दे॒वत॑या । अ॒ङ्गि॒र॒स्वत् । ध्रु॒वा । सी॒द॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -351,10 +515,21 @@ You all that are stationed here from old and you that are new, Yama has given hi
 इन्द्राग्नी᳓ त्वा बृ᳓हस्प᳓तिरस्मि᳓न् यो᳓नावसीषदन् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Fill the world, fill the hole, do thou sit down auspicious; Indra and Agni and Brhaspati  
+Have placed thee on this birthplace
+</details>
+
 <details><summary>मूलम्</summary>
 
 लो॒कम्पृ॑ण छि॒द्रम्पृ॒णाथो॑ सीद शि॒वा त्वम् ।  
 इ॒न्द्रा॒ग्नी त्वा॒ बृह॒स्पति॑र॒स्मिन् योना॑वसीषदन् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+लो॒कम् । पृ॒ण॒ । छि॒द्रम् । पृ॒ण॒ । अथो॒ इति॑ । सी॒द॒ । शि॒वा । त्वम् ॥ इ॒न्द्रा॒ग्नी इती॑न्द्र-अ॒ग्नी । त्वा॒ । बृह॒स्पतिः॑ । अ॒स्मिन् । योनौ॑ । अ॒सी॒ष॒द॒न् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -373,10 +548,23 @@ You all that are stationed here from old and you that are new, Yama has given hi
 ज᳓न्मन्देवा᳓नाव्ँवि᳓शस्त्रिष्वा᳓ रोचने᳓ दिवः᳓ ॥ [17]  
 </details>
 
+<details><summary>Keith</summary>
+
+The dappled kine, streaming with milk,  
+Mix the Soma,  
+Clans in the birthplace of the gods,  
+In the three realms of sky.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता अ॑स्य॒ सूद॑दोहस॒स्सोमँ॑ श्रीणन्ति॒ पृश्ञ॑यः ।  
 जन्म॑न्दे॒वानाव्ँ॒विश॑स्त्रि॒ष्वा रो॑च॒ने दि॒वः ॥ [17]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ताः । अ॒स्य॒ । सूद॑दोहस॒ इति॒ सूद॑-दो॒ह॒सः॒ । सोम॑म् । श्री॒ण॒न्ति॒ । पृश्ञ॑यः ॥ जन्म॑न् । दे॒वाना॑म् । विशः॑ । त्रि॒षु । एति॑ । रो॒च॒ने । दि॒वः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

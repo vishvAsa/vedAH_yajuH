@@ -24,10 +24,23 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 अ᳓नाविद्धया तनु᳓वा जय त्वँ᳓ स᳓ त्वा व᳓र्मणो महिमा᳓ पिपर्तु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+As of a thunder-cloud is the face of the warrior  
+As he advanceth to the lap of the battles;  
+Be victorious with unpierced body;  
+Let the might of thine armour protect thee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जी॒मूत॑स्येव भवति॒ प्रती॑कय्ँ॒यद्व॒र्मी याति॑ स॒मदा॑मु॒पस्थे॑ ।  
 अना॑विद्धया त॒नुवा॑ जय॒ त्वँ स त्वा॒ वर्म॑णो महि॒मा पि॑पर्तु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जी॒मूत॑स्य । इ॒व॒ । भ॒व॒ति॒ । प्रती॑कम् । यत् । व॒र्मी । याति॑ । स॒मदा॒मिति॑ स-मदा॑म् । उ॒पस्थ॒ इत्यु॒प-स्थे॒ ॥ अना॑विद्ध॒येत्यना॑-वि॒द्ध॒या॒ । त॒नुवा॑ । ज॒य॒ । त्वम् । सः । त्वा॒ । वर्म॑णः । म॒हि॒मा । पि॒प॒र्तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -51,10 +64,23 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 ध᳓नुश्श᳓त्रोरपकाम᳓ङ्कृणोति ध᳓न्वना स᳓र्वाः प्रदि᳓शो जयेम ।  
 </details>
 
+<details><summary>Keith</summary>
+
+By the bow cows, by the bow the contest may we win,  
+By the bow dread battles may we win;  
+The bow doth work displeasure to the foe;  
+By the bow let us win in all the quarters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धन्व॑ना॒ गा धन्व॑ना॒जिञ्ज॑येम॒ धन्व॑ना ती॒व्रास्स॒मदो॑ जयेम ।  
 धनु॒श्शत्रो॑रपका॒मङ्कृ॑णोति॒ धन्व॑ना॒ सर्वाः॑ प्र॒दिशो॑ जयेम ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धन्व॑ना । गाः । धन्व॑ना । आ॒जिम् । ज॒ये॒म॒ । धन्व॑ना । ती॒व्राः । स॒मद॒ इति॑ स-मदः॑ । ज॒ये॒म॒ ॥ धनुः॑ । शत्रोः॑ । अ॒प॒का॒ममित्य॑प-का॒मम् । कृ॒णो॒ति॒ । धन्व॑ना । सर्वाः॑ । प्र॒दिश॒ इति॑ प्र-दिशः॑ । ज॒ये॒म॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -77,10 +103,23 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 यो᳓षेव शिङ्क्ते वि᳓तता᳓धि ध᳓न्वन्न् [27]  ज्या इयँ᳓ स᳓मने पार᳓यन्ती ।  
 </details>
 
+<details><summary>Keith</summary>
+
+As if about to speak it approacheth the ear,  
+Embracing its dear comrade,  
+Like a woman this bowstring twangeth stretched over the bow [1],  
+Saving in the battle.
+</details>
+
 <details><summary>मूलम्</summary>
 
 व॒क्ष्यन्ती॒वेदा ग॑नीगन्ति॒ कर्ण॑म्प्रि॒यँ सखा॑यम्परिषस्वजा॒ना ।  
 योषे॑व शिङ्क्ते॒ वित॒ताधि॒ धन्व॑न्न् [27]  ज्या इ॒यँ सम॑ने पा॒रय॑न्ती ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒क्ष्यन्ती॑ । इ॒व॒ । इत् । एति॑ । ग॒नी॒ग॒न्ति॒ । कर्ण॑म् । प्रि॒यम् । सखा॑यम् । प॒रि॒ष॒स्व॒जा॒नेति॑ परि-स॒स्व॒जा॒ना ॥ योषा॑ । इ॒व॒ । शि॒ङ्क्ते॒ । वित॒तेति॒ वि-त॒ता॒ । अधीति॑ । धन्व॑न् । ज्या । इ॒यम् । सम॑ने । पा॒रय॑न्ती ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -104,10 +143,23 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 अ᳓प श᳓त्रून् विध्यताँ सव्ँविदाने᳓ आ᳓र्त्नी इमे᳓ विष्फुर᳓न्ती अमि᳓त्रान् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+They coming together as a maiden to the assembly,  
+As a mother her child, shall bear (the arrow) in their lap;  
+In unison shall they pierce the foes,  
+These two ends springing asunder, the enemies.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते आ॒चर॑न्ती॒ सम॑नेव॒ योषा॑ मा॒तेव॑ पु॒त्रम्बि॑भृतामु॒पस्थे॑ ।  
 अप॒ शत्रू॑न् विध्यताँ सव्ँविदा॒ने आर्त्नी॑ इ॒मे वि॑ष्फु॒रन्ती॑ अ॒मित्रा॑न् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते इति॑ । आ॒चर॑न्ती॒ इत्या॑-चर॑न्ती । सम॑ना । इ॒व॒ । योषा॑ । मा॒ता । इ॒व॒ । पु॒त्रम् । बि॒भृ॒ता॒म् । उ॒पस्थ॒ इत्यु॒प-स्थे॒ ॥ अपेति॑ । शत्रून्॑ । वि॒ध्य॒ता॒म् । सव्ँ॒वि॒दा॒ने इति॑ सम्-वि॒दा॒ने । आर्त्नी॒ इति॑ । इ॒मे इति॑ । वि॒ष्फु॒रन्ती॒ इति॑ वि-स्फु॒रन्ती॑ । अ॒मित्रान्॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -129,10 +181,23 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 इषुधि᳓स्स᳓ङ्काᳶ पृ᳓तनाश्च स᳓र्वाः पृष्ठे᳓ नि᳓नद्धो जयति प्र᳓सूतः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Father of many (daughters), many his sons,  
+He whizzeth as he goeth to battle,  
+The quiver, slung on the back, yielding its content,  
+Doth conquer every band and army.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब॒ह्वी॒नाम्पि॒ता ब॒हुर॑स्य पु॒त्रश्चि॒श्चा कृ॑णोति॒ सम॑नाव॒गत्य॑ ।  
 इ॒षु॒धिस्सङ्का॒ᳶ पृत॑नाश्च॒ सर्वाः॑ पृ॒ष्ठे निन॑द्धो जयति॒ प्रसू॑तः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ब॒ह्वी॒नाम् । पि॒ता । ब॒हुः । अ॒स्य॒ । पु॒त्रः । चि॒श्चा । कृ॒णो॒ति॒ । सम॑ना । अ॒व॒गत्येत्य॑व-गत्य॑ ॥ इ॒षु॒धिरिती॑षु-धिः । सङ्काः॑ । पृत॑नाः । च॒ । सर्वाः॑ । पृ॒ष्ठे । निन॑द्ध॒ इति॒ नि-न॒द्धः॒ । ज॒य॒ति॒ । प्रसू॑त॒ इति॒ प्र-सू॒तः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -156,10 +221,23 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 अभी᳓शूनाम्महिमा᳓नम् [28]  पनायत म᳓नᳶ पश्चा᳓द᳓नु यच्छन्ति रश्म᳓यः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Standing on the chariot be guideth his steeds before him  
+Wheresoever he desireth, good charioteer;  
+The might of the reins [2] do ye admire;  
+The reins behind obey the mind (of the driver).
+</details>
+
 <details><summary>मूलम्</summary>
 
 रथे॒ तिष्ठ॑न्नयति वा॒जिनᳶ॑ पु॒रो यत्र॑यत्र का॒मय॑ते सुषार॒थिः ।  
 अ॒भीशू॑नाम्महि॒मान॑म् [28]  प॒ना॒य॒त॒ मनᳶ॑ प॒श्चादनु॑ यच्छन्ति र॒श्मयः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रथे॑ । तिष्ठ॑न् । न॒य॒ति॒ । वा॒जिनः॑ । पु॒रः । यत्र॑य॒त्रेति॒ यत्र॑-य॒त्र॒ । का॒मय॑ते । सु॒षा॒र॒थिरिति॑ सु-सा॒र॒थिः ॥ अ॒भीशू॑नाम् । म॒हि॒मान॑म् । प॒ना॒य॒त॒ । मनः॑ । प॒श्चात् । अन्विति॑ । य॒च्छ॒न्ति॒ । र॒श्मयः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -181,10 +259,24 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 अवक्रा᳓मन्तᳶ प्र᳓पदैरमि᳓त्रान्क्षिण᳓न्ति श᳓त्रूँर᳓नपव्ययन्तः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Shrilly the strong-hooved horses neigh,  
+As with the cars they show their strength;
+  
+Trampling with their forefeet the enemy  
+They unflinchingly destroy the foe.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ती॒व्रान्घोषा॑न्कृण्वते॒ वृष॑पाण॒योऽश्वा॒ रथे॑भिस्स॒ह वा॒जय॑न्तः ।  
 अ॒व॒क्राम॑न्त॒ᳶ प्रप॑दैर॒मित्रा॑न्क्षि॒णन्ति॒ शत्रूँ॒रन॑पव्ययन्तः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ती॒व्रान् । घोषान्॑ । कृ॒ण्व॒ते॒ । वृष॑पाणय॒ इति॒ वृष॑-पा॒ण॒यः॒ । अश्वाः॑ । रथे॑भिः । स॒ह । वा॒जय॑न्तः ॥ अ॒व॒क्राम॑न्त॒ इत्य॑व-क्राम॑न्तः । प्रप॑दै॒रिति॒ प्र-प॒दैः॒ । अ॒मित्रान्॑ । क्षि॒णन्ति॑ । शत्रून्॑ । अन॑पव्ययन्त॒ इत्यन॑प-व्य॒य॒न्तः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -211,10 +303,23 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 त᳓त्रा र᳓थमु᳓प शग्मँ᳓ सदेम विश्वा᳓हा वयँ᳓ सुमनस्य᳓मानाः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The chariot-bearer is his oblation by name,  
+Where is deposited his armour and his weapon;  
+Then may we sit on the strong car,  
+All the days, with friendly hearts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 र॒थ॒वाह॑नँ ह॒विर॑स्य॒ नाम॒ यत्रायु॑ध॒न्निहि॑तमस्य॒ वर्म॑ ।  
 तत्रा॒ रथ॒मुप॑ श॒ग्मँ स॑देम वि॒श्वाहा॑ व॒यँ सु॑मन॒स्यमा॑नाः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+र॒थ॒वाह॑न॒मिति॑ रथ-वाह॑नम् । ह॒विः । अ॒स्य॒ । नाम॑ । यत्र॑ । आयु॑धम् । निहि॑त॒मिति॒ नि-हि॒त॒म् । अ॒स्य॒ । वर्म॑ ॥ तत्र॑ । रथ॑म् । उपेति॑ । श॒ग्मम् । स॒दे॒म॒ । वि॒श्वाहेति॑ विश्वा-अहा॑ । व॒यम् । सु॒म॒न॒स्यमा॑ना॒ इति॑ सु-म॒न॒स्यमा॑नाः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -228,7 +333,7 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 तत्र प्रथमामाह– स्वादुषँ सद इति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/46_svAduShaM_sadaH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/46_svAduShaM_sadaH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -239,6 +344,12 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+The fathers with pleasant seats, granting strength, A support in trouble mighty and profound,  
+With varied hosts, with arrows to strengthen them, free, With real heroes, broad conquerors of hosts.
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/29/46_svAduShaM_sadaH.md">
 
@@ -326,7 +437,7 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 अथ द्वितीयामाह– ब्राह्मणास इति ।  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/47_brAhmaNAsaH_pitaraH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/47_brAhmaNAsaH_pitaraH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -337,6 +448,15 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+The Brahmans [3], the fathers worthy of the Soma, And sky and earth, unequalled be propitious to us; May Pusan guard us from misfortune, us that prosper holy order Do thou guard; may no foe overpower us.  
+I A feather her garment, a deer her tooth,  
+Tied with cowhide she flieth shot forth;  
+Where men run together and apart,  
+There may the arrows accord us protection.
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/29/47_brAhmaNAsaH_pitaraH.md">
 
@@ -417,7 +537,7 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 अथ तृतीयामाह—  २२०४ सुपर्णं वस्त इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/48_suparNaM_vaste.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/48_suparNaM_vaste.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -428,6 +548,14 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+A feather her garment, a deer her tooth,  
+Tied with cowhide she flieth shot forth;  
+Where men run together and apart,  
+There may the arrows accord us protection.
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/29/48_suparNaM_vaste.md">
 
@@ -518,10 +646,23 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 सो᳓मो अ᳓धि ब्रवीतु नो᳓ऽदितिः᳓ [30]  श᳓र्म यच्छतु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O thou of straight path, avoid us;  
+Be our body as of stone  
+May Soma favour us,  
+And Aditi [4] grant protection!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋजी॑ते॒ परि॑ वृङ्ग्धि॒ नोऽश्मा॑ भवतु नस्त॒नूः ।  
 सोमो॒ अधि॑ ब्रवीतु॒ नोऽदि॑तिः [30]  शर्म॑ यच्छतु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋजी॑ते । परीति॑ । वृ॒ङ्ग्धि॒ । नः॒ । अश्मा॑ । भ॒व॒तु॒ । नः॒ । त॒नूः ॥ सोमः॑ । अधीति॑ । ब्र॒वी॒तु॒ । नः॒ । अदि॑तिः । शर्म॑ । य॒च्छ॒तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -545,10 +686,23 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 अ᳓श्वाजनि प्र᳓चेतसो᳓ऽश्वान्त्सम᳓त्सु चोदय ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Their backs it smites,  
+Their thighs it belabours;  
+O horse-whip, do ye stimulate  
+The skilled horses in the battles.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ ज॑ङ्घन्ति॒ सान्वे॑षाञ्ज॒घनाँ॒ उप॑ जिघ्नते ।  
 अश्वा॑जनि॒ प्रचे॑त॒सोऽश्वा॑न्त्स॒मत्सु॑ चोदय ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । ज॒ङ्घ॒न्ति॒ । सानु॑ । ए॒षा॒म् । ज॒घनान्॑ । उपेति॑ । जि॒घ्न॒ते॒ ॥ अश्वा॑ज॒नीत्यश्व॑-अ॒ज॒नि॒ । प्रचे॑तस॒ इति॒ प्र-चे॒त॒सः॒ । अश्वान्॑ । स॒मत्स्विति॑ स॒मत्-सु॒ । चो॒द॒य॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -570,10 +724,22 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 हस्तघ्नो᳓ वि᳓श्वा वयु᳓नानि विद्वा᳓न्पु᳓मान्पु᳓माँसम्प᳓रि पातु विश्व᳓तः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Like a snake with its coils it encircleth his arm, Fending off the friction of the bowstring,  
+Let the hand-guard, knowing all cunning,  
+Manfully guard the man on all sides.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अहि॑रिव भो॒गैᳶ पर्ये॑ति बा॒हुञ्ज्याया॑ हे॒तिम्प॑रि॒बाध॑मानः ।  
 ह॒स्त॒घ्नो विश्वा॑ व॒युना॑नि वि॒द्वान्पुमा॒न्पुमाँ॑स॒म्परि॑ पातु वि॒श्वतः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अहिः॑ । इ॒व॒ । भो॒गैः । परीति॑ । ए॒ति॒ । बा॒हुम् । ज्यायाः॑ । हे॒तिम् । प॒रि॒बाध॑मान॒ इति॑ परि-बाध॑मानः ॥ ह॒स्त॒घ्न इति॑ हस्त-घ्नः । विश्वा॑ । व॒युना॑नि । वि॒द्वान् । पुमान्॑ । पुमाँ॑सम् । परीति॑ । पा॒तु॒ । वि॒श्वतः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -600,10 +766,23 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 गो᳓भिस्स᳓न्नद्धो असि वीड᳓यस्वास्थाता᳓ ते जयतु जे᳓त्वानि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O lord of the forest, be strong of limb,  
+Our comrade, efficacious, of great strength;  
+Thou art tied with cowhide, be thou strong;  
+Let him that mounteth thee conquer what is to be conquered.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वन॑स्पते वी॒ड्व॑ङ्गो॒ हि भू॒या अ॒स्मत्स॑खा प्र॒तर॑णस्सु॒वीरः॑ ।  
 गोभि॒स्सन्न॑द्धो असि वी॒डय॑स्वास्था॒ता ते॑ जयतु॒ जेत्वा॑नि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वन॑स्पते । वी॒ड्व॑ङ्ग॒ इति॑ वी॒डु-अ॒ङ्गः॒ । हि । भू॒याः । अ॒स्मत्स॒खेत्य॒स्मत्-स॒खा॒ । प्र॒तर॑ण॒ इति॑ प्र-तर॑णः । सु॒वीर॒ इति॑ सु-वीरः॑ ॥ गोभिः॑ । सन्न॑द्ध॒ इति॒ सम्-न॒द्धः॒ । अ॒सि॒ । वी॒डय॑स्व । आ॒स्था॒तेत्या॑-स्था॒ता । ते॒ । ज॒य॒तु॒ । जेत्वा॑नि ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -627,10 +806,22 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 अपा᳓मोज्मा᳓नम्प᳓रि गो᳓भिरा᳓वृतमि᳓न्द्रस्य व᳓ज्रँ हवि᳓षा र᳓थय्ँयज ।  
 </details>
 
+<details><summary>Keith</summary>
+
+From sky, from earth [5] is might collected,  
+From trees is strength gathered;  
+The might of the waters surrounded with the kine, Indra's thunderbolt, the chariot, do thou adore with oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒वᳶ पृ॑थि॒व्याᳶ परि॑ [31]  ओज॒ उद्भृ॑तव्ँ॒वन॒स्पति॑भ्य॒ᳶ पर्याभृ॑तँ॒ सहः॑ ।  
 अ॒पामो॒ज्मान॒म्परि॒ गोभि॒रावृ॑त॒मिन्द्र॑स्य॒ वज्रँ॑ ह॒विषा॒ रथय्ँ॑यज ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒वः । पृ॒थि॒व्याः । परीति॑ । ओजः॑ । उद्भृ॑त॒मित्युत्-भृ॒त॒म् । वन॒स्पति॑भ्य॒ इति॒ वन॒स्पति॑-भ्यः॒ । परीति॑ । आभृ॑त॒मित्या-भृ॒त॒म् । सहः॑ ॥ अ॒पाम् । ओ॒ज्मान॑म् । परीति॑ । गोभिः॑ । आवृ॑त॒मित्या-वृ॒त॒म् । इन्द्र॑स्य । वज्र॑म् । ह॒विषा॑ । रथ॑म् । य॒ज॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -650,10 +841,22 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 से᳓मा᳓न्नो हव्य᳓दातिञ्जुषाणो᳓ दे᳓व रथ प्र᳓ति हव्या᳓ गृभाय ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The thunderbolt of Indra, the face of the Maruts, The embryo of Mitra, the navel of Varuna,  
+Do thou, accepting this our sacrifice,  
+O chariot divine, take to thyself the oblations.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्य॒ वज्रो॑ म॒रुता॒मनी॑कम्मि॒त्रस्य॒ गर्भो॒ वरु॑णस्य॒ नाभिः॑ ।  
 सेमान्नो॑ ह॒व्यदा॑तिञ्जुषा॒णो देव॑ रथ॒ प्रति॑ ह॒व्या गृ॑भाय ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑स्य । वज्रः॑ । म॒रुता॑म् । अनी॑कम् । मि॒त्रस्य॑ । गर्भः॑ । वरु॑णस्य । नाभिः॑ ॥ सः । इ॒माम् । नः॒ । ह॒व्यदा॑ति॒मिति॑ ह॒व्य-दा॒ति॒म् । जु॒षा॒णः । देव॑ । र॒थ॒ । प्रतीति॑ । ह॒व्या । गृ॒भा॒य॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -672,10 +875,21 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 स᳓ दुन्दुभे सजू᳓रि᳓न्द्रेण देवै᳓र्दूरा᳓त् [32]  द᳓वीयो अ᳓प सेध श᳓त्रून् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Roar to earth and sky;  
+Let the scattered world be ware of thee in many places; Do thou, O drum, in unison with Indra and the gods [6], Drive away the foe further than far.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॑ श्वासय पृथि॒वीमु॒त द्याम्पु॑रु॒त्रा ते॑ मनुताव्ँ॒विष्ठि॑त॒ञ्जग॑त् ।  
 स दु॑न्दुभे स॒जूरिन्द्रे॑ण दे॒वैर्दू॒रात् [32]  दवी॑यो॒ अप॑ सेध॒ शत्रू॑न् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उपेति॑ । श्वा॒स॒य॒ । पृ॒थि॒वीम् । उ॒त । द्याम् । पु॒रु॒त्रेति॑ पुरु-त्रा । ते॒ । म॒नु॒ता॒म् । विष्ठि॑त॒मिति॒ वि-स्थि॒त॒म् । जग॑त् ॥ सः । दु॒न्दु॒भे॒ । स॒जूरिति॑ स-जूः । इन्द्रे॑ण । दे॒वैः । दू॒रात् । दवी॑यः । अपेति॑ । से॒ध॒ । शत्रून्॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -694,10 +908,23 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 अ᳓प प्रोथ दुन्दुभे दुच्छु᳓नाँ इत᳓ इ᳓न्द्रस्य मुष्टि᳓रसि वीड᳓यस्व ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Roar thou! Grant us force and might.  
+Thunder, overthrowing obstacles;  
+Snort away, O drum, misfortune hence;  
+Indra's fist art thou; show thy strength.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ क्र॑न्दय॒ बल॒मोजो॑ न॒ आ धा॒ नि ष्ट॑निहि दुरि॒ता बाध॑मानः ।  
 अप॑ प्रोथ दुन्दुभे दु॒च्छुनाँ॑ इ॒त इन्द्र॑स्य मु॒ष्टिर॑सि वी॒डय॑स्व ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । क्र॒न्द॒य॒ । बल॑म् । ओजः॑ । नः॒ । एति॑ । धाः॒ । निरिति॑ । स्त॒नि॒हि॒ । दु॒रि॒तेति॑ दुः-इ॒ता । बाध॑मानः ॥ अपेति॑ । प्रो॒थ॒ । दु॒न्दु॒भे॒ । दु॒च्छुना॑म् । इ॒तः । इन्द्र॑स्य । मु॒ष्टिः । अ॒सि॒ । वी॒डय॑स्व ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -716,10 +943,22 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 स᳓म᳓श्वपर्णाश्च᳓रन्ति नो न᳓रोऽस्मा᳓कमिन्द्र रथि᳓नो जयन्तु ॥ [33]
 </details>
 
+<details><summary>Keith</summary>
+
+Drive to us those, and these make to come to us; The drum speaketh aloud for a signal (of battle)  
+Our heroes winged with steeds meet together;  
+Be our chariotmen victorious, O Indra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आमूर॑ज प्र॒त्याव॑र्तये॒माᳵ के॑तु॒मद्दु॑न्दु॒भिर्वा॑वदीति ।  
 समश्व॑पर्णा॒श्चर॑न्ति नो॒ नरो॒ऽस्माक॑मिन्द्र र॒थिनो॑ जयन्तु ॥ [33]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । अ॒मूः । अ॒ज॒ । प्र॒त्याव॑र्त॒येति॑ प्रति-आव॑र्तय । इ॒माः । के॒तु॒मदिति॑ केतु-मत् । दु॒न्दु॒भिः । वा॒व॒दी॒ति॒ ॥ समिति॑ । अश्व॑पर्णा॒ इत्यश्व॑-प॒र्णाः॒ । चर॑न्ति । नः॒ । नरः॑ । अ॒स्माक॑म् । इ॒न्द्र॒ । र॒थिनः॑ । ज॒य॒न्तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

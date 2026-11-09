@@ -17,9 +17,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓म इरिण्या᳙य च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him in the cleft,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑ इरि॒ण्या॑य च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । इ॒रि॒ण्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -34,9 +44,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 प्रपथ्या᳙य च +++(नमः)+++॥
 </details>
 
+<details><summary>Keith</summary>
+
+and to him in the distance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒प॒थ्या॑य च +++(नमः)+++॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒प॒थ्या॑येति॑ प्र-प॒थ्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -54,9 +74,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓मᳵ किँशिला᳓य च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him dwelling in the stony,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑ᳵ किँशि॒लाय॑ च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । किँ॒शि॒लाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -69,9 +99,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 क्ष᳓यणाय च +++(नमः)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+and to him in habitable places.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षय॑णाय च +++(नमः)+++।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्षय॑णाय । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -89,9 +129,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓मᳵ कपर्दि᳓ने च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him of braided hair,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑ᳵ कप॒र्दिने॑ च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । क॒प॒र्दिने॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -104,9 +154,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 पुलस्त᳓ये च  +++(नमः)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of plain hair.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒ल॒स्तये॑ च  +++(नमः)+++।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पु॒ल॒स्तये॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -124,9 +184,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓मो  गो᳓ष्ठ्याय च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him who dwelleth in the cowshed,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॒  गोष्ठ्या॑य च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । गोष्ठ्या॒येति॒ गो-स्थ्या॒य॒ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -139,9 +209,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 गृ᳓ह्याय च +++(नमः)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of the house.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृह्या॑य च +++(नमः)+++।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गृह्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -159,9 +239,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓मस्त᳓ल्प्याय च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him of the bed,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॒स्तल्प्या॑य च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । तल्प्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -174,9 +264,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 गे᳓ह्याय च +++(नमः)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of the dwelling.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गेह्या॑य च +++(नमः)+++।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गेह्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -194,9 +294,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓मᳵ काट्या᳙य च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him of the hole,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑ᳵ का॒ट्या॑य च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । का॒ट्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -209,9 +319,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 गह्वरेष्ठा᳓य च +++(नमः)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of the abyss.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग॒ह्व॒रे॒ष्ठाय॑ च +++(नमः)+++।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ग॒ह्व॒रे॒ष्ठायेति॑ गह्वरे-स्थाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -229,9 +349,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓मो ह्रदय्या᳙य च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him of the lake,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ ह्रद॒य्या॑य च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । ह्र॒द॒य्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -245,9 +375,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 निवेष्प्या᳙य च +++(नमः)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of the whirlpool.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नि॒वे॒ष्प्या॑य च +++(नमः)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नि॒वे॒ष्प्या॑येति॑ नि-वे॒ष्प्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -266,9 +406,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓मᳶ पाँसव्या᳙य च ।
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him of the dust,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमᳶ॑ पाँस॒व्या॑य च ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । पाँ॒स॒व्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -281,9 +431,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 रजस्या᳙य च  +++(नमः)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of the mist.
+</details>
+
 <details><summary>मूलम्</summary>
 
 र॒ज॒स्या॑य च  +++(नमः)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+र॒ज॒स्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -301,9 +461,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓मश्शु᳓ष्क्याय च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him of the dry,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॒श्शुष्क्या॑य च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । शुष्क्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -316,9 +486,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 हरित्या᳙य च +++(नमः)+++
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of the green.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ह॒रि॒त्या॑य च +++(नमः)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ह॒रि॒त्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -336,9 +516,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓मो  लो᳓प्याय च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him of the copse,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॒  लोप्या॑य च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । लोप्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -351,9 +541,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 उलप्या᳙य च +++(नमः)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of the grass.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒ल॒प्या॑य च +++(नमः)+++।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒ल॒प्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -371,9 +571,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓म ऊर्व्या᳙य च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him in the earth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑ ऊ॒र्व्या॑य च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । ऊ॒र्व्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -386,9 +596,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 सूर्म्या᳙य च +++(नमः)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+and to him in the gully.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सू॒र्म्या॑य च +++(नमः)+++।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सू॒र्म्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -406,9 +626,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓मᳶ पर्ण्या᳙य च ।
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him of the leaf,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमᳶ॑ प॒र्ण्या॑य च ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । प॒र्ण्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -421,9 +651,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 पर्णशद्या᳙य च  +++(नमः)+++
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of the leaf-fall.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒र्ण॒श॒द्या॑य च  +++(नमः)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒र्ण॒श॒द्या॑येति॑ पर्ण-श॒द्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -442,9 +682,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓मोऽपगुर᳓माणाय च।
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him who growleth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ऽपगु॒रमा॑णाय च।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । अ॒प॒गु॒रमा॑णा॒येत्य॑प-गु॒रमा॑णाय । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -457,9 +707,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 अभिघ्नते᳓ च +++(नमः)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+and to him who smiteth away.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒भि॒घ्न॒ते च॑ +++(नमः)+++।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भि॒घ्न॒त इत्य॑भि-घ्न॒ते । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -477,9 +737,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓म आक्खिदते᳓ च  
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him who draggeth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑ आक्खिद॒ते च॑  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । आ॒क्खि॒द॒त इत्या॑-खि॒द॒ते । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -492,9 +762,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 प्रक्खिदते᳓ च  +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to him who repelleth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒क्खि॒द॒ते च॑  +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒क्खि॒द॒त इति॑ प्र-खि॒द॒ते । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -507,9 +787,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓मो वᳵ किरिके᳓भ्यो देवा᳓नाँ हृ᳓दयेभ्यः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to you, sparkling hearts of the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳵ किरि॒केभ्यो॑ दे॒वानाँ॒ हृद॑येभ्यः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वः॒ । कि॒रि॒केभ्यः॑ । दे॒वाना॑म् । हृद॑येभ्यः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -522,9 +812,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓मो विक्षीणके᳓भ्यः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the destroyed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ विक्षीण॒केभ्यः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वि॒क्षी॒ण॒केभ्य॒ इति॑ वि-क्षी॒ण॒केभ्यः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -537,9 +837,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓मो विचिन्वत्के᳓भ्यः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the intelligent.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ विचिन्व॒त्केभ्यः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वि॒चि॒न्व॒त्केभ्य॒ इति॑ वि-चि॒न्व॒त्केभ्यः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -552,9 +862,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓म आनिर्हते᳓भ्यः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the unconquerable.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑ आनिर्ह॒तेभ्यः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । आ॒नि॒र्ह॒तेभ्य॒ इत्या॑निः-ह॒तेभ्यः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -567,9 +887,19 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 न᳓म आमीवत्के᳓भ्यः ॥  
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the destroyers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑ आमीव॒त्केभ्यः॑ ॥  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । आ॒मी॒व॒त्केभ्य॒ इत्या॑-मी॒व॒त्केभ्यः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

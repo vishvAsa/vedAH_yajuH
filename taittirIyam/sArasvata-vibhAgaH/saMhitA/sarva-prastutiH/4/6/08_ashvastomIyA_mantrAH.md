@@ -22,10 +22,23 @@ title = "०८ अश्वस्तोमीया मन्त्राः"
 य᳓द्वाजि᳓नो देव᳓जातस्य स᳓प्तेः प्रवक्ष्या᳓मो विद᳓थे वीर्या᳙णि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Let not Mitra, Varuna, Aryaman, Ayu,  
+Indra, Rbhuksan, the Maruts disregard us,  
+When we shall proclaim before the assembly  
+The might of the strong god-born steed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मा नो॑ मि॒त्रो वरु॑णो अर्य॒मायुरिन्द्र॑ ऋभु॒क्षा म॒रुत॒ᳶ परि॑ ख्यन् ।  
 यद्वा॒जिनो॑ दे॒वजा॑तस्य॒ सप्तेः॑ प्रव॒क्ष्यामो॑ वि॒दथे॑ वी॒र्या॑णि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मा । नः॒ । मि॒त्रः । वरु॑णः । अ॒र्य॒मा । आ॒युः । इन्द्रः॑ । ऋ॒भु॒क्षा इत्यृ॑भु-क्षाः । म॒रुतः॑ । परीति॑ । ख्य॒न् ॥ यत् । वा॒जिनः॑ । दे॒वजा॑त॒स्येति॑ दे॒व-जा॒त॒स्य॒ । सप्तेः॑ । प्र॒व॒क्ष्याम॒ इति॑ प्र-व॒क्ष्यामः॑ । वि॒दथे॑ । वी॒र्या॑णि ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -49,10 +62,22 @@ title = "०८ अश्वस्तोमीया मन्त्राः"
 सु᳓प्राङजो᳓ मे᳓म्यद्विश्व᳓रूप इन्द्रापूष्णोᳶ᳓ प्रिय᳓म᳓प्येति पा᳓थः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+When they bear before him, covered with a garment and with wealth The gift they have seized,  
+The goat, all-formed, bleating,  
+Goeth straight to the dear stronghold of Indra and Pusan.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यन्नि॒र्णिजा॒ रेक्ण॑सा॒ प्रावृ॑तस्य रा॒तिङ्गृ॑भी॒ताम्मु॑ख॒तो नय॑न्ति ।  
 सुप्रा॑ङ॒जो मेम्य॑द्वि॒श्वरू॑प इन्द्रापू॒ष्णोᳶ प्रि॒यमप्ये॑ति॒ पाथः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । नि॒र्णिजेति॑ निः-निजा॑ । रेक्ण॑सा । प्रावृ॑तस्य । रा॒तिम् । गृ॒भी॒ताम् । मु॒ख॒तः । नय॑न्ति ॥ सुप्रा॒ङिति॒ सु-प्रा॒ङ् । अ॒जः । मेम्य॑त् । वि॒श्वरू॑प॒ इति॑ वि॒श्व-रू॒पः॒ । इ॒न्द्रा॒पू॒ष्णोरिती॑न्द्रा-पू॒ष्णोः । प्रि॒यम् । अपीति॑ । ए॒ति॒ । पाथः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -74,10 +99,23 @@ title = "०८ अश्वस्तोमीया मन्त्राः"
 अभिप्रि᳓यय्ँय᳓त्पुरोडा᳓शम᳓र्वता त्व᳓ष्टे᳓त् [39]  एनँ सौश्रवसा᳓य जिन्वति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+This goat is led before the strong steed  
+As share of Pusan, connected with the All-gods,  
+When Tvastr impels him as an acceptable sacrifice  
+Together with the steed for fair renown [1].
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष च्छागᳶ॑ पु॒रो अश्वे॑न वा॒जिना॑ पू॒ष्णो भा॒गो नी॑यते वि॒श्वदे॑व्यः ।  
 अ॒भि॒प्रियय्ँ॒यत्पु॑रो॒डाश॒मर्व॑ता॒ त्वष्टेत् [39]  ए॒नँ॒ सौ॒श्र॒व॒साय॑ जिन्वति ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । छागः॑ । पु॒रः । अश्वे॑न । वा॒जिना॑ । पू॒ष्णः । भा॒गः । नी॒य॒ते॒ । वि॒श्वदे॑व्य॒ इति॑ वि॒श्व-दे॒व्यः॒ ॥ अ॒भि॒प्रिय॒मित्य॑भि-प्रिय॑म् । यत् । पु॒रो॒डाश॑म् । अर्व॑ता । त्वष्टा॑ । इत् । ए॒न॒म् । सौ॒श्र॒व॒साय॑ । जि॒न्व॒ति॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -102,10 +140,22 @@ title = "०८ अश्वस्तोमीया मन्त्राः"
 अ᳓त्रा पूष्णᳶ᳓ प्रथमो᳓ भाग᳓ एति यज्ञ᳓न्देवे᳓भ्यᳶ प्रतिवेद᳓यन्नजः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+When men thrice lead round in due season  
+The steed going to the gods as an acceptable offering Then first goeth Pusan's share,  
+The goat announcing the sacrifice to the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्ध॒विष्य॑मृतु॒शो दे॑व॒यान॒न्त्रिर्मानु॑षा॒ᳶ पर्यश्व॒न्नय॑न्ति ।  
 अत्रा॑ पू॒ष्णᳶ प्र॑थ॒मो भा॒ग ए॑ति य॒ज्ञन्दे॒वेभ्यᳶ॑ प्रतिवे॒दय॑न्न॒जः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ह॒विष्य॑म् । ऋ॒तु॒श इत्यृ॑तु-शः । दे॒व॒यान॒मिति॑ देव-यान॑म् । त्रिः । मानु॑षाः । परीति॑ । अश्व॑म् । नय॑न्ति ॥ अत्र॑ । पू॒ष्णः । प्र॒थ॒मः । भा॒गः । ए॒ति॒ । य॒ज्ञम् । दे॒वेभ्यः॑ । प्र॒ति॒वे॒दय॒न्निति॑ प्रति-वे॒दय॑न् । अ॒जः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -129,10 +179,23 @@ title = "०८ अश्वस्तोमीया मन्त्राः"
 ते᳓न यज्ञे᳓न स्वरङ्कृतेन स्वि᳙ष्टेन वक्ष᳓णा आ᳓ पृणध्वम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Hotr Adhvaryu, atoner, fire kindler,  
+Holder of the stone, and skilled reciter,  
+With this well-prepared sacrifice  
+Well offered do ye fill the channels.
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ध्व॒र्युराव॑या अग्निमि॒न्धो ग्रा॑वग्रा॒भ उ॒त शँस्ता॒ सुवि॑प्रः ।  
 तेन॑ य॒ज्ञेन॑ स्व॑रङ्कृतेन॒ स्वि॑ष्टेन व॒क्षणा॒ आ पृ॑णध्वम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+होता॑ । अ॒ध्व॒र्युः । आव॑या॒ इत्या-व॒याः॒ । अ॒ग्नि॒मि॒न्ध इत्य॑ग्निम्-इ॒न्धः । ग्रा॒व॒ग्रा॒भ इति॑ ग्राव-ग्रा॒भः । उ॒त । शँस्ता॑ । सुवि॑प्र॒ इति॒ सु-वि॒प्रः॒ ॥ तेन॑ । य॒ज्ञेन॑ । स्व॑रङ्कृते॒नेति॒ सु-अ॒र॒ङ्कृ॒ते॒न॒ । स्वि॑ष्टे॒नेति॒ सु-इ॒ष्टे॒न॒ । व॒क्षणाः॑ । एति॑ । पृ॒ण॒ध्व॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -152,10 +215,21 @@ title = "०८ अश्वस्तोमीया मन्त्राः"
 ये᳓ चा᳓र्वते प᳓चनँ सम्भ᳓रन्त्युतो᳓ [40]  ते᳓षामभि᳓गूर्तिर्न इन्वतु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The cutters of the stake, the bearers of the stake,  
+And they that fashion the top piece for the stake for the horse, And they that collect the cooking-pot for the steed [2], May their approval quicken us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यू॒प॒व्र॒स्का उ॒त ये यू॑पवा॒हाश्च॒षालय्ँ॒ये अ॑श्वयू॒पाय॒ तक्ष॑ति ।  
 ये चार्व॑ते॒ पच॑नँ स॒म्भर॑न्त्यु॒तो [40]  तेषा॑म॒भिगू॑र्तिर्न इन्वतु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यू॒प॒व्र॒स्का इति॑ यूप-व्र॒स्काः । उ॒त । ये । यू॒प॒वा॒हा इति॑ यूप-वा॒हाः । च॒षाल॑म् । ये । अ॒श्व॒यू॒पायेत्य॑श्व-यू॒पाय॑ । तक्ष॑ति ॥ ये । च॒ । अर्व॑ते । पच॑नम् । स॒म्भर॒न्तीति॑ सम्-भर॑न्ति । उ॒तो इति॑ । तेषा॑म् । अ॒भिगू॑र्ति॒रित्य॒भि-गू॒र्तिः॒ । नः॒ । इ॒न्व॒तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -174,10 +248,22 @@ title = "०८ अश्वस्तोमीया मन्त्राः"
 अ᳓न्वेनव्ँवि᳓प्रा ऋ᳓षयो मदन्ति देवा᳓नाम्पुष्टे᳓ चकृमा सुब᳓न्धुम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He hath come forth--efficacious hath been my prayer-- To the regions of the gods, straight backed;  
+In him the sages, the seers, rejoice,  
+For the prosperity of the gods a good friend have we made.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॒ प्रागा॑त्सु॒मन्मे॑ऽधायि॒ मन्म॑ दे॒वाना॒माशा॒ उप॑ वी॒तपृ॑ष्ठः ।  
 अन्वे॑नव्ँ॒विप्रा॒ ऋष॑यो मदन्ति दे॒वाना॑म्पु॒ष्टे च॑कृमा सु॒बन्धु॑म् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उप॑ । प्रेति॑ । अ॒गा॒त् । सु॒मदिति॑ सु-मत् । मे॒ । अ॒धा॒यि॒ । मन्म॑ । दे॒वाना॑म् । आशाः॑ । उपेति॑ । वी॒तपृ॑ष्ठ॒ इति॑ वी॒त-पृ॒ष्ठः॒ ॥ अन्विति॑ । ए॒न॒म् । विप्राः॑ । ऋष॑यः । म॒द॒न्ति॒ । दे॒वाना॑म् । पु॒ष्टे । च॒कृ॒म । सु॒बन्धु॒मिति॑ सु-बन्धु॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -200,10 +286,23 @@ title = "०८ अश्वस्तोमीया मन्त्राः"
 य᳓द्वा घास्य प्र᳓भृतमास्ये᳙ तृणँ स᳓र्वा ता᳓ ते अ᳓पि देवे᳓ष्वस्तु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The bond of the strong one, the tie of the steed,  
+The head stall, the rope of him,  
+And the grass placed in his mouth,  
+May all these of thine be with the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्वा॒जिनो॒ दाम॑ स॒न्दान॒मर्व॑तो॒ या शी॑र्ष॒ण्या॑ रश॒ना रज्जु॑रस्य ।  
 यद्वा॑ घास्य॒ प्रभृ॑तमा॒स्ये॑ तृणँ॒ सर्वा॒ ता ते॒ अपि॑ दे॒वेष्व॑स्तु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । वा॒जिनः॑ । दाम॑ । स॒न्दान॒मिति॑ सम्-दान॑म् । अर्व॑तः । या । शी॒र्ष॒ण्या॑ । र॒श॒ना । रज्जुः॑ । अ॒स्य॒ ॥ यत् । वा॒ । घ॒ । अ॒स्य॒ । प्रभृ॑त॒मिति॒ प्र-भृ॒त॒म् । आ॒स्ये॑ । तृण॑म् । सर्वा॑ । ता । ते॒ । अपीति॑ । दे॒वेषु॑ । अ॒स्तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -223,10 +322,23 @@ title = "०८ अश्वस्तोमीया मन्त्राः"
 य᳓द्ध᳓स्तयोश्शमितु᳓र्य᳓न्नखे᳓षु स᳓र्वा ता᳓ ते अ᳓पि देवे᳓ष्वस्तु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Whatever of the horse's raw flesh [3] the fly eateth,  
+Whatever on the chip or the axe hath stuck,  
+Whatever is on the hands, the nails of the slayer,  
+May all these of thine be with the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदश्व॑स्य क्र॒विषः॑ [41]  मक्षि॒काऽऽश॒ यद्वा॒ स्वरौ॒ स्वधि॑तौ रि॒प्तमस्ति॑ ।  
 यद्धस्त॑योश्शमि॒तुर्यन्न॒खेषु॒ सर्वा॒ ता ते॒ अपि॑ दे॒वेष्व॑स्तु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । अश्व॑स्य । क्र॒विषः॑ । मक्षि॑का । आश॑ । यत् । वा॒ । स्वरौ॑ । स्वधि॑ता॒विति॒ स्व-धि॒तौ॒ । रि॒प्तम् । अस्ति॑ ॥ यत् । हस्त॑योः । श॒मि॒तुः । यत् । न॒खेषु॑ । सर्वा॑ । ता । ते॒ । अपीति॑ । दे॒वेषु॑ । अ॒स्तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -247,10 +359,27 @@ title = "०८ अश्वस्तोमीया मन्त्राः"
 सुकृता᳓ त᳓च्छमिता᳓रᳵ कृण्वन्तूत᳓ मे᳓धँ शृतपा᳓कम्पचन्तु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The refuse that bloweth forth from the belly,  
+The smell of raw flesh,  
+Let the slayers see that in order  
+Let them cook the fat to a turn.  
+I Whatever flieth away from thy limb  
+As it is cooked by the fire when thou art spitted,  
+Let it fall not on earth, nor on the grass;  
+Be that given to the eager gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदूव॑ध्यमु॒दर॑स्याप॒वाति॒ य आ॒मस्य॑ क्र॒विषो॑ ग॒न्धो अस्ति॑ ।  
 सु॒कृ॒ता तच्छ॑मि॒तार॑ᳵ कृण्वन्तू॒त मेधँ॑ शृत॒पाक॑म्पचन्तु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ऊव॑ध्यम् । उ॒दर॑स्य । अ॒प॒वातीत्य॑प-वाति॑ । यः । आ॒मस्य॑ । क्र॒विषः॑ । ग॒न्धः । अस्ति॑ ॥ सु॒कृ॒तेति॑ सु-कृ॒ता । तत् । श॒मि॒तारः॑ । कृ॒ण्व॒न्तु॒ । उ॒त । मेध॑म् । शृ॒त॒पाक॒मिति॑ शृत-पाक॑म् । प॒च॒न्तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -270,10 +399,23 @@ title = "०८ अश्वस्तोमीया मन्त्राः"
 मा᳓ त᳓द्भू᳓म्यामा᳓ श्रिषन्मा᳓ तृ᳓णेषु देवे᳓भ्यस्त᳓दुश᳓द्भ्यो रात᳓मस्तु ॥ [42]
 </details>
 
+<details><summary>Keith</summary>
+
+Whatever flieth away from thy limb  
+As it is cooked by the fire when thou art spitted,  
+Let it fall not on earth, nor on the grass;  
+Be that given to the eager gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्ते॒ गात्रा॑द॒ग्निना॑ प॒च्यमा॑नाद॒भि शूल॒न्निह॑तस्याव॒धाव॑ति ।  
 मा तद्भूम्या॒मा श्रि॑ष॒न्मा तृणे॑षु दे॒वेभ्य॒स्तदु॒शद्भ्यो॑ रा॒तम॑स्तु ॥ [42]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । गात्रा॑त् । अ॒ग्निना॑ । प॒च्यमा॑नात् । अ॒भीति॑ । शूल॑म् । निह॑त॒स्येति॒ नि-ह॒त॒स्य॒ । अ॒व॒धाव॒तीत्य॑व-धाव॑ति ॥ मा । तत् । भूम्या॑म् । एति॑ । श्रि॒ष॒त् । मा । तृणे॑षु । दे॒वेभ्यः॑ । तत् । उ॒शद्भ्य॒ इत्यु॒शत्-भ्यः॒ । रा॒तम् । अ॒स्तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

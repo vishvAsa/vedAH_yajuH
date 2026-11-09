@@ -51,6 +51,11 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 नि᳓र्भक्तस्स᳓ य᳓न्द्विष्मः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the step of Visnu, overcoming hostility, mount the Gayatri metre, after the earth do thou step forward;
+</details>
+
 <details><summary>मूलम्</summary>
 
 विष्णो॒ᳵ क्रमो॑ऽस्यभिमाति॒हा,  
@@ -58,6 +63,11 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 पृ॒थि॒वीमनु॒ वि क्र॑मस्व  ।  
 
 निर्भ॑क्त॒स्स यन्द्वि॒ष्मः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । क्रमः॑ । अ॒सि॒ । अ॒भि॒मा॒ति॒हेत्य॑भिमाति-हा । गा॒य॒त्रम् । छन्दः॑ । एति॑ । रो॒ह॒ । पृ॒थि॒वीम् । अनु॑ । वीति॑ । क्र॒म॒स्व॒ । निर्भ॑क्त॒ इति॒ निः-भ॒क्तः॒ । सः । यम् । द्वि॒ष्मः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -80,11 +90,21 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 नि᳓र्भक्तस्स᳓ य᳓न्द्विष्मः᳓  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the step of Visnu, overcoming the imprecation, mount the Tristubh metre, after the atmosphere do thou step forward;
+</details>
+
 <details><summary>मूलम्</summary>
 
 विष्णो॒ᳵ क्रमो॑ऽसि,  अ॒भि॒श॒स्ति॒हा ,त्रैष्टु॑भ॒ञ्छन्द॒ आ रो॑ह  ।  
 अ॒न्तरि॑क्ष॒मनु॒ वि क्र॑मस्व  ।  
 निर्भ॑क्त॒स्स यन्द्वि॒ष्मः  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । क्रमः॑ । अ॒सि॒ । अ॒भि॒श॒स्ति॒हेत्य॑भिशस्ति-हा । त्रैष्टु॑भम् । छन्दः॑ । एति॑ । रो॒ह॒ । अ॒न्तरि॑क्षम् । अनु॑ । वीति॑ । क्र॒म॒स्व॒ । निर्भ॑क्त॒ इति॒ निः-भ॒क्तः॒ । सः । यम् । द्वि॒ष्मः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -100,12 +120,22 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 नि᳓र्भक्तस्स᳓ य᳓न्द्विष्मः᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the step of Visnu, overcoming the spoiler, mount the Jagati metre, after the sky do thou step forward;
+</details>
+
 <details><summary>मूलम्</summary>
 
 विष्णो॒ᳵ क्रमो॑ऽसि ।  
 अ॒रा॒ती॒य॒तो ह॒न्ता , जाग॑त॒ञ्छन्द॒ आ रो॑ह ।  
 दिव॒मनु॒ वि क्र॑मस्व।  
 निर्भ॑क्त॒स्स यन्द्वि॒ष्मः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । क्रमः॑ । अ॒सि॒ । अ॒रा॒ती॒य॒तः । ह॒न्ता । जाग॑तम् । छन्दः॑ । एति॑ । रो॒ह॒ । दिव॑म् । अनु॑ । वीति॑ । क्र॒म॒स्व॒ । निर्भ॑क्त॒ इति॒ निः-भ॒क्तः॒ । सः । यम् । द्वि॒ष्मः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -121,12 +151,22 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 नि᳓र्भक्तस्स᳓ य᳓न्द्विष्मः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the step of Visnu, overcoming the foe, mount the Anustubh metre, after the quarters do thou step forward.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विष्णोः॑ [1]  क्रमो॑ऽसि,
 श॒त्रू॒य॒तो ह॒न्ता,  आनु॑ष्टुभ॒ञ्छन्द॒ आ रो॑ह।  
 दिशोऽनु॒ वि क्र॑मस्व ।  
 निर्भ॑क्त॒स्स यन्द्वि॒ष्मः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । क्रमः॑ । अ॒सि॒ । श॒त्रू॒य॒त इति॑ शत्रु-य॒तः । ह॒न्ता । आनु॑ष्टुभ॒मित्यानु॑-स्तु॒भ॒म् । छन्दः॑ । एति॑ । रो॒ह॒ । दिशः॑ । अनु॑ । वीति॑ । क्र॒म॒स्व॒ । निर्भ॑क्त॒ इति॒ निः-भ॒क्तः॒ । सः । यम् । द्वि॒ष्मः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -151,10 +191,24 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 सद्यो᳓ जज्ञानो᳓ वि᳓ ही᳓मिद्धो᳓ अ᳓ख्यदा᳓ रो᳓दसी भानु᳓ना भात्यन्तः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Agni hath cried, like Dyaus thundering,  
+Licking the earth, devouring the plants  
+Straightway on birth he shone aflame,
+
+He blazeth with his light within the firmaments.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अक्र॑न्दद॒ग्निस्स्त॒नय॑न्निव॒ द्यौः क्षामा॒ रेरि॑हद्वी॒रुध॑स्सम॒ञ्जन् ।  
 स॒द्यो ज॑ज्ञा॒नो वि हीमि॒द्धो अख्य॒दा रोद॑सी भा॒नुना॑ भात्य॒न्तः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अक्र॑न्दत् । अ॒ग्निः । स्त॒नय॑न् । इ॒व॒ । द्यौः । क्षाम॑ । रेरि॑हत् । वी॒रुधः॑ । स॒म॒ञ्जन्निति॑ सम्-अ॒ञ्जन्न् ॥ स॒द्यः । ज॒ज्ञा॒नः । वीति॑ । हि । ई॒म् । इ॒द्धः । अख्य॑त् । एति॑ । रोद॑सी॒ इति॑ । भा॒नुना॑ । भा॒ति॒ । अ॒न्तः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -174,9 +228,20 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 अ᳓ग्नेऽभ्यावर्तिन्नभि᳓ न आ᳓ वर्तस्वा᳓युषा व᳓र्चसा सन्या᳓ मेध᳓या प्रज᳓या ध᳓नेन ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, returner, to us return  
+With life, with radiance, with gain, with wisdom, with offspring, with wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॑ऽभ्यावर्तिन्न॒भि न॒ आ व॑र्त॒स्वायु॑षा॒ वर्च॑सा स॒न्या मे॒धया॑ प्र॒जया॒ धने॑न ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । अ॒भ्या॒व॒र्ति॒न्नित्य॑भि-आ॒व॒र्ति॒न् । अ॒भीति॑ । नः॒ । एति॑ । व॒र्त॒स्व॒ । आयु॑षा । वर्च॑सा । स॒न्या । मे॒धया॑ । प्र॒जयेति॑ प्र-जया॑ । धने॑न ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -196,11 +261,25 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 ता᳓साम्पो᳓षस्य पो᳓षेण पु᳓नर्नो नष्ट᳓मा᳓ कृधि पु᳓नर्नो रयि᳓मा᳓ कृधि ।   
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni [2], O Angiras, a hundred be thy returns,  
+A thousand thy movements;  
+With the increase of their increase  
+Do thou bring back for us what is lost,  
+Bring back to us wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॑ [2]  अ॒ङ्गि॒र॒श्श॒तन्ते॑ सन्त्वा॒वृत॑स्स॒हस्र॑न्त उपा॒वृतः॑ ।  
 
 तासा॒म्पोष॑स्य॒ पोषे॑ण॒ पुन॑र्नो न॒ष्टमा कृ॑धि॒ पुन॑र्नो र॒यिमा कृ॑धि ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । अ॒ङ्गि॒रः॒ । श॒तम् । ते॒ । स॒न्तु॒ । आ॒वृत॒ इत्या॑-वृतः॑ । स॒हस्र॑म् । ते । उ॒पा॒वृत॒ इत्यु॑प-आ॒वृतः॑ ॥ तासा॑म् । पोष॑स्य । पोषे॑ण । पुनः॑ । नः॒ । न॒ष्टम् । एति॑ । कृ॒धि॒ । पुनः॑ । नः॒ । र॒यिम् । एति॑ । कृ॒धि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -219,10 +298,22 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 पु᳓नर्नᳶ पाहि विश्व᳓तः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Return with strength,  
+Return, O Agni, with food and life;  
+Again guard us on all sides.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुन॑रू॒र्जा नि व॑र्तस्व॒ पुन॑रग्न इ॒षायु॑षा ।  
 पुन॑र्नᳶ पाहि वि॒श्वतः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पुनः॑ । ऊ॒र्जा । नीति॑ । व॒र्त॒स्व॒ । पुनः॑ । अ॒ग्ने॒ । इ॒षा । आयु॑षा ॥ पुनः॑ । नः॒ । पा॒हि॒ । वि॒श्वतः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -241,10 +332,22 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 विश्व᳓प्स्निया विश्व᳓तस्प᳓रि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Return with wealth,  
+O Agni, fatten with the stream,  
+All-gaining on every side.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒ह र॒य्या नि व॑र्त॒स्वाग्ने॒ पिन्व॑स्व॒ धार॑या ।  
 वि॒श्वप्स्नि॑या वि॒श्वत॒स्परि॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒ह । र॒य्या । नीति॑ । व॒र्त॒स्व॒ । अग्ने॑ । पिन्व॑स्व । धार॑या ॥ वि॒श्वप्स्नि॒येति॑ वि॒श्व-प्स्नि॒या॒ । वि॒श्वतः॑ । परि॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -267,11 +370,24 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 अ᳓था वय᳓मादित्य व्रते᳓ त᳓वा᳓नागसो अ᳓दितये स्याम ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Unloose from us, O Varuna, the highest,  
+The lowest, the midmost knot [3];  
+Then may we, O Aditya, in thy rule,  
+Be guiltless before Aditi.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदु॑त्त॒मव्ँव॑रुण॒ पाश॑म॒स्मदवा॑ध॒मम् [3] वि म॑ध्य॒मँ श्र॑थाय ।  
 
 अथा॑ व॒यमा॑दित्य व्र॒ते तवाना॑गसो॒ अदि॑तये स्याम ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उदिति॑ । उ॒त्त॒ममित्यु॑त्-त॒मम् । व॒रु॒ण॒ । पाश॑म् । अ॒स्मत् । अवेति॑ । अ॒ध॒मम् । वीति॑ । म॒ध्य॒मम् । श्र॒था॒य॒ ॥ अथ॑ । व॒यम् । आ॒दि॒त्य॒ । व्र॒ते । तव॑ । अना॑गसः । अदि॑तये । स्या॒म॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -293,10 +409,23 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 वि᳓शस्त्वा स᳓र्वा वाञ्छन्त्वस्मि᳓न्राष्ट्र᳓म᳓धि श्रय ।  
 </details>
 
+<details><summary>Keith</summary>
+
+I have drawn thee, thou hast become within,  
+Be thou firm and motionless,  
+Lot all the folk desire thee;  
+In him establish the kingship.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ त्वा॑हार्षम॒न्तर॑भूर्द्ध्रु॒वस्ति॒ष्ठावि॑चाचलिः ।  
 विश॑स्त्वा॒ सर्वा॑ वाञ्छन्त्व॒स्मिन्रा॒ष्ट्रमधि॑ श्रय ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । त्वा॒ । अ॒हा॒र्ष॒म् । अ॒न्तः । अ॒भूः॒ । ध्रु॒वः । ति॒ष्ठ॒ । अवि॑चाचलि॒रित्यवि॑-चा॒च॒लिः॒ ॥ विशः॑ । त्वा॒ । सर्वाः॑ । वा॒ञ्छ॒न्तु॒ । अ॒स्मिन् । रा॒ष्ट्रम् । अधीति॑ । श्र॒य॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -320,11 +449,24 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 सी᳓द त्व᳓म्मातु᳓रस्याः᳓ [4]  उप᳓स्थे वि᳓श्वान्यग्ने वयु᳓नानि विद्वा᳓न् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+In greatness hath he arisen erect in the van of the dawns;  
+Emerging from the darkness, he hath come with the light;  
+Agni, with radiant brilliance, fair limbed,  
+On birth hath filled every seat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्रे॑ बृ॒हन्नु॒षसा॑मू॒र्ध्वो अ॑स्थान्निर्जग्मि॒वान्तम॑सो॒ ज्योति॒षागा॑त् ।  
 अ॒ग्निर्भा॒नुना॒ रुश॑ता॒ स्वङ्ग॒ आ जा॒तो विश्वा॒ सद्मा॑न्यप्राः ।  
 सीद॒ त्वम्मा॒तुर॒स्याः [4]  उ॒पस्थे॒ विश्वा॑न्यग्ने व॒युना॑नि वि॒द्वान् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्रे॑ । बृ॒हन् । उ॒षसा॑म् । ऊ॒र्ध्वः । अ॒स्था॒त् । नि॒र्ज॒ग्मि॒वानिति॑ निः-ज॒ग्मि॒वान् । तम॑सः । ज्योति॑षा । एति॑ । अ॒गा॒त् ॥ अ॒ग्निः । भा॒नुना॑ । रुश॑ता । स्वङ्ग॒ इति॑ सु-अङ्गः॑ । एति॑ । जा॒तः । विश्वा॑ । सद्मा॑नि । अ॒प्राः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -346,9 +488,19 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 सी᳓द त्व᳓म्मातु᳓रस्याः᳓ [4]  उप᳓स्थे वि᳓श्वान्यग्ने वयु᳓नानि विद्वा᳓न् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Do thou sit down in the lap of this mother [4], O Agni, knowing all the ways,
+</details>
+
 <details><summary>मूलम्</summary>
 
 सीद॒ त्वम्मा॒तुर॒स्याः [4]  उ॒पस्थे॒ विश्वा॑न्यग्ने व॒युना॑नि वि॒द्वान् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सीद॑ । त्वम् । मा॒तुः । अ॒स्याः । उ॒पस्थ॒ इत्यु॒प-स्थे॒ । विश्वा॑नि । अ॒ग्ने॒ । व॒युना॑नि । वि॒द्वान् ॥ मा । ए॒ना॒म् । अ॒र्चिषा॑ । मा । तप॑सा । अ॒भीति॑ । शू॒शु॒चः॒ । अ॒न्तः । अ॒स्या॒म् । शु॒क्रज्यो॑ति॒रिति॑ शु॒क्र-ज्यो॒तिः॒ । वीति॑ । भा॒हि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -367,10 +519,20 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 त᳓स्यास्त्वँ᳓ ह᳓रसा त᳓पञ्जा᳓तवेदश्शिवो᳓ भव ।  
 </details>
 
+<details><summary>Keith</summary>
+
+with glow; in her find a seat;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तर॑ग्ने रु॒चा त्वमु॒खायै॒ सद॑ने॒ स्वे ।  
 तस्या॒स्त्वँ हर॑सा॒ तप॒ञ्जात॑वेदश्शि॒वो भ॑व ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्तः । अ॒ग्ने॒ । रु॒चा । त्वम् । उ॒खायै॑ । सद॑ने । स्वे ॥ तस्याः॑ । त्वम् । हर॑सा । तप॑न् । जात॑वेद॒ इति॒ जात॑-वे॒दः॒ । शि॒वः । भ॒व॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -389,10 +551,20 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 शिवाᳵ᳓ कृत्वा᳓ दि᳓शस्स᳓र्वास्स्वाय्ँ᳓यो᳓निमिहा᳓सदः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+auspicious to me, O Agni, auspicious do thou sit down.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शि॒वो भू॒त्वा मह्य॑म॒ग्नेऽथो॑ सीद शि॒वस्त्वम् ।  
 शि॒वाᳵ कृ॒त्वा दिश॒स्सर्वा॒स्स्वाय्ँयोनि॑मि॒हास॑दः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शि॒वः । भू॒त्वा । मह्य॑म् । अ॒ग्ने॒ । अथो॒ इति॑ । सी॒द॒ । शि॒वः । त्वम् ॥ शि॒वाः । कृ॒त्वा । दिशः॑ । सर्वाः॑ । स्वाम् । योनि॑म् । इ॒ह । एति॑ । अ॒स॒दः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -411,10 +583,22 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 नृष᳓द्वरस᳓दृतस᳓द्व्योमस᳓दब्जा᳓ गोजा᳓ ऋतजा᳓ अद्रिजा᳓ ऋत᳓म्बृह᳓त् ॥ [5]
 </details>
 
+<details><summary>Keith</summary>
+
+The gander seated in purity, the bright one seated in the atmosphere,  
+The Hotr seated at the altar, the guest seated in the house,  
+Seated among men, seated in the highest, seated in holy order, seated in the firmament, Born of the waters, born of the cows, born of holy order, born of the mountain, the great holy order.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हँ॒सश्शु॑चि॒षद्वसु॑रन्तरिक्ष॒सद्धोता॑ वेदि॒षदति॑थिर्दुरोण॒सत् ।  
 नृ॒षद्व॑र॒सदृ॑त॒सद्व्यो॑म॒सद॒ब्जा गो॒जा ऋ॑त॒जा अ॑द्रि॒जा ऋ॒तम्बृ॒हत् ॥ [5]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+हँ॒सः । शु॒चि॒षदिति॑ शुचि-सत् । वसुः॑ । अ॒न्त॒रि॒क्ष॒सदित्य॑न्तरिक्ष-सत् । होता॑ । वे॒दि॒षदिति॑ वेदि-सत् । अति॑थिः । दु॒रो॒ण॒सदिति॑ दुरोण-सत् ॥ नृ॒षदिति॑ नृ-सत् । व॒र॒सदिति॑ वर-सत् । ऋ॒त॒सदित्यृ॑त-सत् । व्यो॒म॒सदिति॑ व्योम-सत् । अ॒ब्जा इत्य॑प्-जाः । गो॒जा इति॑ गो-जाः । ऋ॒त॒जा इत्यृ॑त-जाः । अ॒द्रि॒जा इत्य॑द्रि-जाः । ऋ॒तम् । बृ॒हत् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

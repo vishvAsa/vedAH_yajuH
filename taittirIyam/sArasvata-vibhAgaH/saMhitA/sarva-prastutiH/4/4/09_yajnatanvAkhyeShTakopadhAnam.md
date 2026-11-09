@@ -24,9 +24,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 प्रजा᳓पतिर्म᳓नसा᳓न्धो᳓ऽच्छेतः ।
 </details>
 
+<details><summary>Keith</summary>
+
+(Thou art) Prajapati in mind, when come to the Soma;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति॒र्मन॒सान्धोऽच्छे॑तः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । मन॑सा । अन्धः॑ । अच्छे॑त॒ इत्यच्छ॑-इ॒तः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -45,9 +55,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 धाता᳓ दीक्षा᳓याम् +++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the creator in the consecration;
+</details>
+
 <details><summary>मूलम्</summary>
 
 धा॒ता दी॒क्षाया॑म् +++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धा॒ता । दी॒क्षाया॑म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -62,9 +82,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 स᳓विता᳓ भृत्या᳓म् +++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Savitr in the bearing;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सवि॒ता भृ॒त्याम् +++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒वि॒ता । भृ॒त्याम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -77,9 +107,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 पूषा᳓ सोमक्र᳓यण्याम्+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Pusan in the cow for the purchase of the Soma;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पू॒षा सो॑म॒क्रय॑ण्याम्+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पू॒षा । सो॒म॒क्रय॑ण्या॒मिति॑ सोम-क्रय॑ण्याम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -92,9 +132,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 व᳓रुण उ᳓पनद्धः᳓+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Varuna when bound (in the cloth);
+</details>
+
 <details><summary>मूलम्</summary>
 
 वरु॑ण॒ उप॑न॒द्धः+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वरु॑णः । उप॑नद्ध॒ इत्युप॑-न॒द्धः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -107,9 +157,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 अ᳓सुरᳵ क्रीय᳓माणः+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Asura in the being bought;
+</details>
+
 <details><summary>मूलम्</summary>
 
 असु॑रᳵ क्री॒यमा॑णः+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+असु॑रः । क्री॒यमा॑णः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -122,9 +182,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 मित्रᳵ᳓ क्रीतः᳓ +++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Mitra when purchased;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒त्रᳵ क्री॒तः +++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मि॒त्रः । क्री॒तः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -137,9 +207,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 शि᳓पिविष्ट᳓ आ᳓सादितः+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Śipivista when put in place;
+</details>
+
 <details><summary>मूलम्</summary>
 
 शि॑पिवि॒ष्ट आसा॑दितः+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शि॒पि॒वि॒ष्ट इति॑ शिपि-वि॒ष्टः । आसा॑दित॒ इत्या-सा॒दि॒तः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -152,9 +232,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 नर᳓न्धिषᳶ प्रोह्य᳓माणः +++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+delighter of men when being carried forward;
+</details>
+
 <details><summary>मूलम्</summary>
 
 न॒रन्धि॑षᳶ प्रो॒ह्यमा॑णः +++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+न॒रन्धि॑षः । प्रो॒ह्यमा॑ण॒ इति॑ प्र-उ॒ह्यमा॑नः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -167,9 +257,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 अ᳓धिपतिरा᳓गतः+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the overlord when arrived;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अधि॑पति॒राग॑तः+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अधि॑पति॒रित्यधि॑-प॒तिः॒ । आग॑त॒ इत्या-ग॒तः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -182,9 +282,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 प्रजा᳓पतिᳶ प्रणीय᳓मानः+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Prajapati being carried forward;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिᳶ प्रणी॒यमा॑नः+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । प्र॒णी॒यमा॑न॒ इति॑ प्र-नी॒यमा॑नः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -197,9 +307,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 अ᳓ग्नि᳓रा᳓ग्नीध्रे +++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Agni in the Agnidh's altar;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्निराग्नी॑ध्रे +++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । आग्नी॑ध्र॒ इत्याग्नि॑-इ॒ध्रे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -213,9 +333,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 बृ᳓हस्प᳓तिरा᳓ग्नीध्रात्प्रणीय᳓मानः+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Brhaspati being carried forward from the Agnidh's altar;
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृह॒स्पति॒राग्नी॑ध्रात्प्रणी॒यमा॑नः+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बृह॒स्पतिः॑ । आग्नी॑ध्रा॒दित्याग्नि॑-इ॒ध्रा॒त् । प्र॒णी॒यमा॑न॒ इति॑ प्र-नी॒यमा॑नः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -228,9 +358,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 इ᳓न्द्रो  हविर्धा᳓ने +++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Indra in the oblation-holder;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रो॑  हवि॒र्धाने॑ +++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्रः॑ । ह॒वि॒र्धान॒ इति॑ हविः-धाने॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -243,9 +383,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 अ᳓दितिरा᳓सादितः+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Aditi when put in place;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अदि॑ति॒रासा॑दितः+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अदि॑तिः । आसा॑दित॒ इत्या-सा॒दि॒तः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -258,9 +408,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 वि᳓ष्णुरुपावह्रिय᳓माणः +++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Visnu when being taken down;
+</details>
+
 <details><summary>मूलम्</summary>
 
 विष्णु॑रुपावह्रि॒यमा॑णः +++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विष्णुः॑ । उ॒पा॒व॒ह्रि॒यमा॑ण॒ इत्यु॑प-अ॒व॒ह्रि॒यमा॑णः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -273,9 +433,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 अ᳓थर्वो᳓पोत्तः+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Atharvan when produced;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒र्वोपो॑त्तः+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अथ॑र्वा । उपो॑त्त॒ इत्युप॑-उ॒त्तः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -288,9 +458,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 यमो᳙ऽभि᳓षुतः+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Yama when pressed;
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒मो॑ऽभिषु॑तः+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒मः । अ॒भिषु॑त॒ इत्य॒भि-सु॒तः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -303,9 +483,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 अपूतपा᳓ आधूय᳓मानः +++(असि)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+unpurified drinker when being cleansed;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पू॒त॒पा आ॑धू॒यमा॑नः +++(असि)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पू॒त॒पा इत्य॑पूत-पाः । आ॒धू॒यमा॑न॒ इत्या॑-धू॒यमा॑नः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -318,9 +508,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 वायुᳶ᳓ पूय᳓मानः+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Vayu when purifying;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒युᳶ पू॒यमा॑नः+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒युः । पू॒यमा॑नः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -333,9 +533,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 मित्रः᳓ क्षीरश्रीः᳓+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Mitra when mixed with milk;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒त्रः क्षी॑र॒श्रीः+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मि॒त्रः । क्षी॒र॒श्रिरिति॑ क्षीर-श्रीः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -348,9 +558,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 मन्थी᳓ सक्तुश्रीः᳓+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Manthin when mixed with meal;
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒न्थी स॑क्तु॒श्रीः+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒न्थी । स॒क्तु॒श्रीरिति॑ सक्तु-श्रीः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -363,9 +583,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 वैश्वदेव᳓ उ᳓न्नीतः +++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the All-gods when taken out;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वै॒श्व॒दे॒व उन्नी॑तः +++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वै॒श्व॒दे॒व इति॑ वैश्व-दे॒वः । उन्नी॑त॒ इत्युत्-नी॒तः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -378,9 +608,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 रु᳓द्र आ᳓हुतः+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Rudra when offered;
+</details>
+
 <details><summary>मूलम्</summary>
 
 रुद्र॒ आहु॑तः+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रु॒द्रः । आहु॑त॒ इत्या-हु॒तः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -393,9 +633,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 वायु᳓रा᳓वृत्तः+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Vayu when revolving;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒युरावृ॑त्तः+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒युः । आवृ॑त्त॒ इत्या-वृ॒त्तः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -408,9 +658,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 नृच᳓क्षाᳶ प्र᳓तिख्यातः+++(असि)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+the watcher of men when looked at;
+</details>
+
 <details><summary>मूलम्</summary>
 
 नृ॒चक्षा॒ᳶ प्रति॑ख्यातः+++(असि)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नृ॒चक्षा॒ इति॑ नृ-चक्षाः॑ । प्रति॑ख्यात॒ इति॒ प्रति॑-ख्या॒तः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -423,9 +683,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 भक्ष᳓ आ᳓गतः+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the consumer when arrived;
+</details>
+
 <details><summary>मूलम्</summary>
 
 भ॒क्ष आग॑तः+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भ॒क्षः । आग॑त॒ इत्या-ग॒तः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -438,9 +708,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 पि᳓तृणा᳓न्नाराशँसः᳓+++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Naraśaṁsa of the fathers;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितृ॒णान्ना॑राशँ॒सः+++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पि॒तृ॒णाम् । ना॒रा॒शँ॒सः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -453,9 +733,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 अ᳓सुरा᳓त्तः +++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+then taken;
+</details>
+
 <details><summary>मूलम्</summary>
 
 असु॒रात्तः॑ +++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+असुः॑ । आत्तः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -469,10 +759,20 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 अव प्रय᳓न्त्समुद्रः᳓ +++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the ocean at the final bath;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सिन्धु॑रवभृ॒थम् +++(असि)+++ ।  
 अ॒व॒ प्र॒यन्त्स॑मु॒द्रः +++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सिन्धुः॑ । अ॒व॒भृ॒थमित्य॑व-भृ॒थम् । अ॒व॒प्र॒यन्नित्य॑व-प्र॒यन् । स॒मु॒द्रः । अव॑गत॒ इत्यव॑-ग॒तः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -486,10 +786,20 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 ।  
 </details>
 
+<details><summary>Keith</summary>
+
+water when gone to the goal;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अव॑गतस्सलि॒लः +++(असि)+++  
 ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒लि॒लः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -502,9 +812,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 प्र᳓प्लुतस्सु᳓वः  +++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the heaven when arrived at the end;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रप्लु॑त॒स्सुवः॑  +++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रप्लु॑त॒ इति॒ प्र-प्लु॒तः॒ । सुवः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -517,9 +837,19 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 उदृ᳓चङ्गतः᳓ +++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+heaven when gone to the goal.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒दृच॑ङ्ग॒तः +++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒दृच॒मित्यु॑त्-ऋच॑म् । ग॒तः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

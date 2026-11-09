@@ -17,9 +17,19 @@ title = "०५ नमो भवाय"
 न᳓मो भवा᳓य च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to Bhava,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ भ॒वाय॑ च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । भ॒वाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -35,9 +45,19 @@ title = "०५ नमो भवाय"
 रुद्रा᳓य च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to Rudra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रु॒द्राय॑ च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रु॒द्राय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -55,9 +75,19 @@ title = "०५ नमो भवाय"
 न᳓मश्शर्वा᳓य च।  
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to Śarva,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑श्श॒र्वाय॑ च।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । श॒र्वाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -70,9 +100,19 @@ title = "०५ नमो भवाय"
 पशुप᳓तये च +++(नमः)+++
 </details>
 
+<details><summary>Keith</summary>
+
+and to the lord of cattle.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒शु॒पत॑ये च +++(नमः)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒शु॒पत॑य॒ इति॑ पशु-पत॑ये । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -90,9 +130,19 @@ title = "०५ नमो भवाय"
 न᳓मो  नी᳓लग्रीवाय च  
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the blue-necked one,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॒  नील॑ग्रीवाय च  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । नील॑ग्रीवा॒येति॒ नील॑-ग्री॒वा॒य॒ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -105,9 +155,19 @@ title = "०५ नमो भवाय"
 शितिक᳓ण्ठाय च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to the white-throated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शि॒ति॒कण्ठा॑य च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शि॒ति॒कण्ठा॒येति॑ शिति-कण्ठा॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -125,9 +185,19 @@ title = "०५ नमो भवाय"
 न᳓मᳵ कपर्दि᳓ने च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the wearer of braids,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑ᳵ कप॒र्दिने॑ च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । क॒प॒र्दिने॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -140,9 +210,19 @@ title = "०५ नमो भवाय"
 व्यु᳙प्तकेशाय च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of shaven hair.
+</details>
+
 <details><summary>मूलम्</summary>
 
 व्यु॑प्तकेशाय च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व्यु॑प्तकेशा॒येति॒ वि-उ॒प्त॒के॒शा॒य॒ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -162,9 +242,19 @@ title = "०५ नमो भवाय"
 न᳓मस्सहस्राक्षा᳓य च ..   
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him of a thousand eyes,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑स्सहस्रा॒क्षाय॑ च ..   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । स॒ह॒स्रा॒क्षायेति॑ सहस्र-अ॒क्षाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -177,9 +267,19 @@ title = "०५ नमो भवाय"
 शत᳓धन्वने च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of a hundred bows.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श॒तध॑न्वने च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+श॒तध॑न्वन॒ इति॑ श॒त-ध॒न्व॒ने॒ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -192,9 +292,19 @@ title = "०५ नमो भवाय"
 न᳓मो गिरिशा᳓य᳓ च᳓
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him who haunteth the mountains,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ गिरि॒शाय च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । गि॒रि॒शाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -207,9 +317,19 @@ title = "०५ नमो भवाय"
 शिपिविष्टा᳓य च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to Śipivista.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शि॒पि॒वि॒ष्टाय॑ च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शि॒पि॒वि॒ष्टायेति॑ शिपि-वि॒ष्टाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -228,9 +348,19 @@ title = "०५ नमो भवाय"
 न᳓मो मीढु᳓ष्टमाय च᳓
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the most bountiful,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ मी॒ढुष्ट॑माय॒ च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । मी॒ढुष्ट॑मा॒येति॑ मी॒ढुः-त॒मा॒य॒ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -243,9 +373,19 @@ title = "०५ नमो भवाय"
 इ᳓षुमते च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to the bearer of the arrow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इषु॑मते च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इषु॑मत॒ इतीषु॑-म॒ते॒ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -258,9 +398,19 @@ title = "०५ नमो भवाय"
 न᳓मो ह्रस्वा᳓य च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the short,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ ह्र॒स्वाय॑ च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । ह्र॒स्वाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -273,9 +423,19 @@ title = "०५ नमो भवाय"
 वामना᳓य च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to the dwarf.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒म॒नाय॑ च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒म॒नाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -293,9 +453,19 @@ title = "०५ नमो भवाय"
 न᳓मो बृहते᳓ च᳓
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the great,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ बृह॒ते च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । बृ॒ह॒ते । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -308,9 +478,19 @@ title = "०५ नमो भवाय"
 व᳓र्षीयसे च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to the stronger.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वर्षी॑यसे च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वर्षी॑यसे । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -328,9 +508,19 @@ title = "०५ नमो भवाय"
 न᳓मो वृद्धा᳓य च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him who hath waxed,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ वृ॒द्धाय॑ च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वृ॒द्धाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -343,9 +533,19 @@ title = "०५ नमो भवाय"
 सव्ँवृ᳓ध्वने च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to the waxing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सव्ँ॒वृध्व॑ने च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒व्वृँध्व॑न॒ इति॑ सम्-वृध्व॑ने । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -363,9 +563,19 @@ title = "०५ नमो भवाय"
 न᳓मो अ᳓ग्रियाय च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the chief,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॒ अग्रि॑याय च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । अग्रि॑याय । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -378,9 +588,19 @@ title = "०५ नमो भवाय"
 प्रथमा᳓य च +++(नमः)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+and to the first.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒थ॒माय॑ च +++(नमः)+++।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒थ॒माय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -398,9 +618,19 @@ title = "०५ नमो भवाय"
 न᳓म आश᳓वे च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the swift,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑ आ॒शवे॑ च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । आ॒शवे॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -413,9 +643,19 @@ title = "०५ नमो भवाय"
 अजिरा᳓य  च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to the active.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒जि॒राय॑  च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒जि॒राय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -433,9 +673,19 @@ title = "०५ नमो भवाय"
 न᳓मश्शी᳓घ्रियाय च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the rapid,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॒श्शीघ्रि॑याय च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । शीघ्रि॑याय । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -448,9 +698,19 @@ title = "०५ नमो भवाय"
 शी᳓भ्याय च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to the hasty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शीभ्या॑य च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शीभ्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -468,9 +728,19 @@ title = "०५ नमो भवाय"
 न᳓म ऊर्म्या᳙य च  
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him of the wave,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑ ऊ॒र्म्या॑य च  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । ऊ॒र्म्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -483,9 +753,19 @@ title = "०५ नमो भवाय"
 अवस्वन्या᳙य च +++(नमः)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+and to the roaring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒व॒स्व॒न्या॑य च +++(नमः)+++।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒व॒स्व॒न्या॑येत्य॑व-स्व॒न्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -503,9 +783,19 @@ title = "०५ नमो भवाय"
 न᳓मस्स्रोतस्या᳙य च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him of the stream,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑स्स्रोत॒स्या॑य च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । स्रो॒त॒स्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -518,9 +808,19 @@ title = "०५ नमो भवाय"
 द्वी᳓प्याय च +++(नमः)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of the island.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वीप्या॑य च +++(नमः)+++।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्वीप्या॑य । च॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -26,9 +26,19 @@ title = "०७ भूयस्कृदादीष्टकोपधानम�
 भूयस्कृ᳓दसि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the furtherer;
+</details>
+
 <details><summary>मूलम्</summary>
 
 भू॒य॒स्कृद॑सि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भू॒य॒स्कृदिति॑ भूयः-कृत् । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -48,6 +58,11 @@ title = "०७ भूयस्कृदादीष्टकोपधानम�
 अन्त᳓रिक्षे सीद।   
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the maker of wide room; thou art the eastern; thou art the zenith; thou art the sitter in the atmosphere, sit on the atmosphere.
+</details>
+
 <details><summary>मूलम्</summary>
 
 व॒रि॒व॒स्कृद॑सि ।
@@ -56,6 +71,11 @@ title = "०७ भूयस्कृदादीष्टकोपधानम�
 अ॒न्त॒रि॒क्ष॒सद॑सि ।
 
 अ॒न्तरि॑क्षे सीद।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒रि॒व॒स्कृदिति॑ वरिवः-कृत् । अ॒सि॒ । प्राची॑ । अ॒सि॒ । ऊ॒र्ध्वा । अ॒सि॒ । अ॒न्त॒रि॒क्ष॒सदित्य॑न्तरिक्ष-सत् । अ॒सि॒ । अ॒न्तरि॑क्षे । सी॒द॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -81,9 +101,19 @@ title = "०७ भूयस्कृदादीष्टकोपधानम�
 अप्सुष᳓दसि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the sitter on the waters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒प्सु॒षद॑सि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒प्सु॒षदित्य॑प्सु-सत् । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -98,11 +128,21 @@ title = "०७ भूयस्कृदादीष्टकोपधानम�
 सुपर्ण᳓स᳓दसि ।
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the sitter on the hawk;
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्ये॒न॒सद॑सि ।  
 गृ॒ध्र॒सद॑सि ।  
 सु॒प॒र्णसद॑सि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+श्ये॒न॒सदिति॑ श्येन-सत् । अ॒सि॒ । गृ॒ध्र॒सदिति॑ गृध्र-सत् । अ॒सि॒ । सु॒प॒र्ण॒सदिति॑ सुपर्ण-सत् । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -115,9 +155,19 @@ title = "०७ भूयस्कृदादीष्टकोपधानम�
 नाकस᳓दसि ।
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the sitter on the vulture; thou art the sitter on the eagle; thou art the sitter on the vault.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ना॒क॒सद॑सि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ना॒क॒सदिति॑ नाक-सत् । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -144,6 +194,11 @@ title = "०७ भूयस्कृदादीष्टकोपधानम�
 द्रविणोदा᳓न्त्वा द्र᳓विणे सादयामि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+In the wealth of earth I place thee; in the wealth of the atmosphere I place thee; in the wealth of the sky I place thee; in the wealth of the quarters I place thee; make for me wide room; make for me a sphere; make for me a seat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒व्यास्त्वा॒ द्रवि॑णे सादयामि ।
@@ -152,6 +207,11 @@ title = "०७ भूयस्कृदादीष्टकोपधानम�
 दि॒वस्त्वा॒ द्रवि॑णे सादयामि ।  
 दि॒शान्त्वा॒ द्रवि॑णे सादयामि ।  
 द्र॒वि॒णो॒दान्त्वा॒ द्रवि॑णे सादयामि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पृ॒थि॒व्याः । त्वा॒ । द्रवि॑णे । सा॒द॒या॒मि॒ । अ॒न्तरि॑क्षस्य । त्वा॒ । द्रवि॑णे । सा॒द॒या॒मि॒ । दि॒वः । त्वा॒ । द्रवि॑णे । सा॒द॒या॒मि॒ । दि॒शाम् । त्वा॒ । द्रवि॑णे । सा॒द॒या॒मि॒ । द्र॒वि॒णो॒दामिति॑ द्रविणः-दाम् । त्वा॒ । द्रवि॑णे । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -177,6 +237,11 @@ title = "०७ भूयस्कृदादीष्टकोपधानम�
 सर्वा᳓युर्मे पाहि᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Protect my expiration; protect my inspiration; protect my cross-breathing; protect my breath; protect my voice; protect my mind; protect my eye; protect my ear; protect my body; strengthen the people; increase the holy power; may there be for me full life; may there be for me length of life.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒णम्मे॑ पा॒हि  ।  
@@ -186,6 +251,11 @@ title = "०७ भूयस्कृदादीष्टकोपधानम�
 आयु॑र्मे पा॒हि ।  
 वि॒श्वायु॑र्मे पा॒हि ।  
 स॒र्वायु॑र्मे पा॒हि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रा॒णमिति॑ प्र-अ॒नम् । मे॒ । पा॒हि॒ । अ॒पा॒नमित्य॑प-अ॒नम् । मे॒ । पा॒हि॒ । व्या॒नमिति॑ वि-अ॒नम् । मे॒ । पा॒हि॒ । आयुः॑ । मे॒ । पा॒हि॒ । वि॒श्वायु॒रिति॑ वि॒श्व-आ॒युः॒ । मे॒ । पा॒हि॒ । स॒र्वायु॒रिति॑ स॒र्व-आ॒युः॒ । मे॒ । पा॒हि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -204,9 +274,19 @@ title = "०७ भूयस्कृदादीष्टकोपधानम�
 अ᳓ग्ने य᳓त्ते प᳓रँ हृ᳓न्ना᳓म ता᳓वे᳓हि सँ᳓ रभावहै ।  
 </details>
 
+<details><summary>Keith</summary>
+
+With that furthest name of thine which is Agni, come let us join;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॒ यत्ते॒ परँ॒ हृन्नाम॒ तावेहि॒ सँ र॑भावहै ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । यत् । ते॒ । पर॑म् । हृत् । नाम॑ । तौ । एति॑ । इ॒हि॒ । समिति॑ । र॒भा॒व॒है॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -223,9 +303,19 @@ title = "०७ भूयस्कृदादीष्टकोपधानम�
 पा᳓ञ्चजन्येष्व᳓प्येध्यग्ने ।
 </details>
 
+<details><summary>Keith</summary>
+
+enter among those of five folk, O Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पाञ्च॑जन्ये॒ष्वप्ये॑ध्यग्ने ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पाञ्च॑जन्ये॒ष्विति॒ पाञ्च॑-ज॒न्ये॒षु॒ । अपीति॑ । ए॒धि॒ । अ॒ग्ने॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -254,6 +344,11 @@ title = "०७ भूयस्कृदादीष्टकोपधानम�
 सुमे᳓कः +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art barley, thou art the barer of barley; thou art grouping, thou art the group; thou art the helper, thou art the help; thou art the food, thou art the maker of food; thou art wealth, thou art the maker of wealth; thou art the gift, thou art the bestower of the gift.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यावाः॑ +++( असि)+++ ।  
@@ -263,6 +358,11 @@ title = "०७ भूयस्कृदादीष्टकोपधानम�
 सब्दः॑ +++( असि)+++ ।  
 सग॑रः +++( असि)+++ ।  
 सु॒मेकः॑ +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यावाः॑ । अया॑वाः । एवाः॑ । ऊमाः॑ । सब्दः॑ । सग॑रः । सु॒मेक॒ इति॑ सु-मेकः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

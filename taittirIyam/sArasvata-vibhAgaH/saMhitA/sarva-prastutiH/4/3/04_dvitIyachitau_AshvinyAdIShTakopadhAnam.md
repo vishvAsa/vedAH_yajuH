@@ -23,10 +23,23 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 उ᳓ख्यस्य केतु᳓म्प्रथम᳓म्पुर᳓स्तादश्वि᳓नाध्वर्यू᳓ सादयतामिह᳓ त्वा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Firm is thy dwelling, thy place of birth, firm art thou  
+Settle thou duly in thy firm place of birth;  
+Banner of the fire in the pan,  
+May the two Aśvins, the leeches, set thee here first in the east.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्ध्रु॒वक्षि॑तिर्द्ध्रु॒वयो॑निर्द्ध्रु॒वासि॑ द्ध्रु॒वाय्ँयोनि॒मा सी॑द सा॒ध्या ।  
 उख्य॑स्य के॒तुम्प्र॑थ॒मम्पु॒रस्ता॑द॒श्विना॑ध्व॒र्यू सा॑दयतामि॒ह त्वा॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ध्रु॒वक्षि॑ति॒रिति॑ ध्रु॒व-क्षि॒तिः॒ । ध्रु॒वयो॑नि॒रिति॑ ध्रु॒व-यो॒निः॒ । ध्रु॒वा । अ॒सि॒ । ध्रु॒वम् । योनि॑म् । एति॑ । सी॒द॒ । सा॒ध्या ॥ उख्य॑स्य । के॒तुम् । प्र॒थ॒मम् । पु॒रस्ता॑त् । अ॒श्विना॑ । अ॒ध्व॒र्यू इति॑ । सा॒द॒य॒ता॒म् । इ॒ह । त्वा॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -51,10 +64,24 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 स्वासस्था᳓ तनु᳓वा सव्ँ᳓विशस्व पिते᳓वैधि सून᳓व आ᳓ सुशे᳓वाश्वि᳓नाध्वर्यू᳓ सादयतामिह᳓ त्वा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+In thine own skill sit thou whose sire is skill,  
+As the great earth bountiful among the gods,  
+Be of kindly approach and come with thy body,  
+Kindly as a father to his son;  
+May the two Aśvins, the leeches, set thee here.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वे दक्षे॒ दक्ष॑पिते॒ह सी॑द देव॒त्रा पृ॑थि॒वी बृ॑ह॒ती ररा॑णा ।  
 स्वा॒स॒स्था त॒नुवा॒ सव्ँवि॑शस्व पि॒तेवै॑धि सू॒नव॒ आ सु॒शेवा॒श्विना॑ध्व॒र्यू सा॑दयतामि॒ह त्वा॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्वे । दक्षे॑ । दक्ष॑पि॒तेति॒ दक्ष॑-पि॒ता॒ । इ॒ह । सी॒द॒ । दे॒व॒त्रेति॑ देव-त्रा । पृ॒थि॒वी । बृ॒ह॒ती । ररा॑णा ॥ स्वा॒स॒स्थेति॑ सु-आ॒स॒स्था । त॒नुवा॑ । समिति॑ । वि॒श॒स्व॒ । पि॒ता । इ॒व॒ । ए॒धि॒ । सू॒नवे॑ । एति॑ । सु॒शेवेति॑ सु-शेवा॑ । अ॒श्विना॑ । अ॒ध्व॒र्यू इति॑ । सा॒द॒य॒ता॒म् । इ॒ह । त्वा॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -84,11 +111,26 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 अ᳓पामतिन्दुर्मति᳓म्बा᳓धमाना राय᳓स्पो᳓षे यज्ञ᳓पतिमाभ᳓जन्ती सु᳓वर्धेहि य᳓जमानाय पो᳓षमश्वि᳓नाध्वर्यू᳓ सादयतामिह᳓ त्वा ।
 </details>
 
+<details><summary>Keith</summary>
+
+Nesting, rich in wealth, strength bestowing,  
+Increase for us wealth, abundant, rich in heroes [1],  
+Driving away hostility and enmity,  
+Granting the lord of the sacrifice a share in increase of wealth,  
+Do thou bestow the heaven as increase to the sacrificer;  
+May the two Aśvins, the leeches, set thee here.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कु॒ला॒यिनी॒ वसु॑मती वयो॒धा र॒यिन्नो॑ वर्ध बहु॒लँ सु॒वीर॑म् ।  
 [7]  
 अपा॑मतिन्दुर्म॒तिम्बाध॑माना रा॒यस्पोषे॑ य॒ज्ञप॑तिमा॒भज॑न्ती॒ सुव॑र्धेहि॒ यज॑मानाय॒ पोष॑म॒श्विना॑ध्व॒र्यू सा॑दयतामि॒ह त्वा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कु॒ला॒यिनी॑ । वसु॑म॒तीति॒ वसु॑-म॒ती॒ । व॒यो॒धा इति॑ वयः-धाः । र॒यिम् । नः॒ । व॒र्ध॒ । ब॒हु॒लम् । सु॒वीर॒मिति॑ सु-वीर॑म् ॥ अपेति॑ । अम॑तिम् । दु॒र्म॒तिमिति॑ दुः-म॒तिम् । बाध॑माना । रा॒यः । पोषे॑ । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म् । आ॒भज॒न्तीत्या॑-भज॑न्ती । सुवः॑ । धे॒हि॒ । यज॑मानाय । पोष॑म् । अ॒श्विना॑ । अ॒ध्व॒र्यू इति॑ । सा॒द॒य॒ता॒म् । इ॒ह । त्वा॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -112,10 +154,24 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 स्तो᳓मपृष्ठा घृत᳓वतीह᳓ सीद प्रजा᳓वदस्मे᳓ द्र᳓विणा᳓ यजस्वाश्वि᳓नाद्ध्वर्यू᳓ सादयतामिह᳓ त्वा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the dust of Agni, the leader of the gods;  
+May the All-gods favour thee as such;  
+With Stomas for thy back, rich in ghee, sit thou here,  
+And win to us by sacrifice riches with offspring.  
+May the two Aśvins, the leeches, set thee here!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेᳶ पुरी॑षमसि देव॒यानी॒ तान्त्वा॒ विश्वे॑ अ॒भि गृ॑णन्तु दे॒वाः ।  
 स्तोम॑पृष्ठा घृ॒तव॑ती॒ह सी॑द प्र॒जाव॑द॒स्मे द्रवि॒णा य॑जस्वा॒श्विना॑द्ध्व॒र्यू सा॑दयतामि॒ह त्वा॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । पुरी॑षम् । अ॒सि॒ । दे॒व॒यानीति॑ देव-यानी॑ । ताम् । त्वा॒ । विश्वे॑ । अ॒भीति॑ । गृ॒ण॒न्तु॒ । दे॒वाः ॥ स्तोम॑पृ॒ष्ठेति॒ स्तोम॑-पृ॒ष्ठा॒ । घृ॒तव॒तीति॑ घृ॒त-व॒ती॒ । इ॒ह । सी॒द॒ । प्र॒जाव॒दिति॑ प्र॒जा-व॒त् । अ॒स्मे इति॑ । द्रवि॑णा । एति॑ । य॒ज॒स्व॒ । अ॒श्विना॑ । अ॒ध्व॒र्यू इति॑ । सा॒द॒य॒ता॒म् । इ॒ह । त्वा॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -145,11 +201,21 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 ऊर्मि᳓र्द्रप्सो᳓ अपा᳓मसि विश्व᳓कर्मा त ऋ᳓षिरश्वि᳓नाद्ध्वर्यू᳓ सादयतामिह᳓ त्वा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the head of sky, the navel of earth, the holder apart of the quarters, the lady paramount of the worlds [2], the wave, the drop of the waters thou art; Viśvakarman is thy seer; may the two Aśvins, the leeches, set thee here.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒वो मू॒र्धासि॑ पृथि॒व्या नाभि॑र्वि॒ष्टम्भ॑नी दि॒शामधि॑पत्नी॒ भुव॑नानाम् ।  
 [8]  
 ऊ॒र्मिर्द्र॒प्सो अ॒पाम॑सि वि॒श्वक॑र्मा त॒ ऋषि॑र॒श्विना॑द्ध्व॒र्यू सा॑दयतामि॒ह त्वा॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒वः । मू॒र्धा । अ॒सि॒ । पृ॒थि॒व्याः । नाभिः॑ । वि॒ष्टम्भ॒नीति॑ वि-स्तम्भ॑नी । दि॒शाम् । अधि॑प॒त्नीत्यधि॑-प॒त्नी॒ । भुव॑नानाम् ॥ ऊ॒र्मिः । द्र॒प्सः । अ॒पाम् । अ॒सि॒ । वि॒श्वक॒र्मेति॑ वि॒श्व-क॒र्मा॒ । ते॒ । ऋषिः॑ । अ॒श्विना॑ । अ॒ध्व॒र्यू इति॑ । सा॒द॒य॒ता॒म् । इ॒ह । त्वा॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -193,6 +259,11 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 सजू᳓र्देवैः᳓  +++(असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+In unison with the seasons, in unison with the ordainers, in unison with the Vasus, in unison with the Rudras, in unison with the Adityas, in unison with the All-gods,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒जूर्ऋ॒तुभि॑ः +++(असि)+++ ,।  
@@ -202,6 +273,11 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 स॒जूरा॑दि॒त्यैः +++(असि)+++ ।  
 स॒जूर्विश्वै॑र्दे॒वैः +++(असि)+++ ।  
 स॒जूर्दे॒वैः  +++(असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒जूरिति॑ स-जूः । ऋ॒तुभि॒रित्यृ॒तु-भिः॒ । स॒जूरिति॑ स-जूः । वि॒धाभि॒रिति॑ वि-धाभिः॑ । स॒जूरिति॑ स-जूः । वसु॑भि॒रिति॒ वसु॑-भिः॒ । स॒जूरिति॑ स-जूः । रु॒द्रैः । स॒जूरिति॑ स-जूः । आ॒दि॒त्यैः । स॒जूरिति॑ स-जूः । विश्वैः॑ । दे॒वैः । स॒जूरिति॑ स-जूः । दे॒वैः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -216,11 +292,21 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 अग्न᳓ये त्वा वैश्वानरा᳓याश्वि᳓नाद्ध्वर्यू᳓ सादयतामिह᳓ त्वा +++(उपदधामि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+in unison with the gods, in unison with the gods establishing strength, to Agni Vaiśvanara, thee; may the two Aśvins, the leeches, set thee here.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒जूर्दे॒वैर्व॑योना॒धैः +++(असि)+++ ।  
 
 अ॒ग्नये॑ त्वा वैश्वान॒राया॒श्विना॑द्ध्व॒र्यू सा॑दयतामि॒ह त्वा॑ +++(उपदधामि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒जूरिति॑ स-जूः । दे॒वैः । व॒यो॒ना॒धैरिति॑ वयः-ना॒धैः । अ॒ग्नये॑ । त्वा॒ । वै॒श्वा॒न॒राय॑ । अ॒श्विना॑ । अ॒ध्व॒र्यू इति॑ । सा॒द॒य॒ता॒म् । इ॒ह । त्वा॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -253,6 +339,11 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 श्रो᳓त्रम्मे श्लोकाय ।
 </details>
 
+<details><summary>Keith</summary>
+
+Protect my expiration; protect my inspiration; protect my cross breathing; make my eye to shine widely; make my ear to hear.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒णम्मे॑ पाहि ।
@@ -260,6 +351,11 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 व्या॒नम्मे॑ पाहि ।
 चक्षु॑र्म उ॒र्व्या वि भा॑हि ।  
 श्रोत्र॑म्मे श्लोकाय ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रा॒णमिति॑ प्र-अ॒नम् । मे॒ । पा॒हि॒ । अ॒पा॒नमित्य॑प-अ॒नम् । मे॒ । पा॒हि॒ । व्या॒नमिति॑ वि-अ॒नम् । मे॒ । पा॒हि॒ । चक्षुः॑ । मे॒ । उ॒र्व्या । वीति॑ । भा॒हि॒ । श्रोत्र॑म् । मे॒ । श्लो॒क॒य॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -285,9 +381,19 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 अप᳓ स्पिन्व
 </details>
 
+<details><summary>Keith</summary>
+
+Make thick the waters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒प स्पि॑न्व
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पः । पि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -300,9 +406,19 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 ओ᳓षधीर्जिन्व  ।
 </details>
 
+<details><summary>Keith</summary>
+
+quicken the plants;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ओष॑धीर्जिन्व  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ओष॑धीः । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -315,9 +431,19 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 द्विपा᳓त्पाहि ।
 </details>
 
+<details><summary>Keith</summary>
+
+protect bipeds;
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वि॒पात्पा॑हि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्वि॒पादिति॑ द्वि-पात् । पा॒हि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -330,9 +456,19 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 च᳓तुष्पादव ।
 </details>
 
+<details><summary>Keith</summary>
+
+help quadrupeds;
+</details>
+
 <details><summary>मूलम्</summary>
 
 चतु॑ष्पादव ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चतु॑ष्पा॒दिति॒ चतुः॑-पा॒त् । अ॒व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -345,9 +481,19 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 दिवो᳓ वृ᳓ष्टिमे᳓रय ॥ [9]  
 </details>
 
+<details><summary>Keith</summary>
+
+from the sky make rain to start.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒वो वृष्टि॒मेर॑य ॥ [9]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒वः । वृष्टि॑म् । एति॑ । ई॒र॒य॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

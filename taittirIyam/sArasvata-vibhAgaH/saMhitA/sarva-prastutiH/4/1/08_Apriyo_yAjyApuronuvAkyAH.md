@@ -22,10 +22,22 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 द्युम᳓त्तमा सुप्र᳓तीकस्य सूनोः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Uplifted are his kindling-sticks,  
+Uplifted and pure are the rays of Agni,  
+Most brilliant (are they) of the son of fair countenance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊ॒र्ध्वा अ॑स्य स॒मिधो॑ भवन्त्यू॒र्ध्वा शु॒क्रा शो॒चीँष्य॒ग्नेः ।  
 द्यु॒मत्त॑मा सु॒प्रती॑कस्य सू॒नोः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऊ॒र्ध्वाः । अ॒स्य॒ । स॒मिध॒ इति॑ सम्-इधः॑ । भ॒व॒न्ति॒ । ऊ॒र्ध्वा । शु॒क्रा । शो॒चीँषि॑ । अ॒ग्नेः ॥ द्यु॒मत्त॒मेति॑ द्यु॒मत्-त॒मा॒ । सु॒प्रती॑क॒स्येति॑ सु-प्रती॑कस्य । सू॒नोः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -52,6 +64,13 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 पथ᳓ आ᳓नक्ति म᳓ध्वा घृते᳓न ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The son of self, the Asura, all-knower,  
+God, god among gods,  
+Anointeth the ways with mead and ghee.
+</details>
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
 पाठान्तरं काशिकानुवादे -
@@ -63,6 +82,11 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 
 तनू॒नपा॒दसु॑रो वि॒श्ववे॑दा दे॒वो दे॒वेषु॑ दे॒वः ।  
 प॒थ आन॑क्ति॒ मध्वा॑ घृ॒तेन॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तनू॒नपा॒दिति॒ तनू॑-नपा॑त् । असु॑रः । वि॒श्ववे॑दा॒ इति॑ वि॒श्व-वे॒दाः॒ । दे॒वः । दे॒वेषु॑ । दे॒वः ॥ प॒थः । एति॑ । अ॒न॒क्ति॒ । मध्वा॑ । घृ॒तेन॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -88,10 +112,22 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 सुकृ᳓द्देव᳓स्सविता᳓ विश्व᳓वारः ।
 </details>
 
+<details><summary>Keith</summary>
+
+With mead thou attainest the sacrifice,  
+Delighting, as Naraśansa, O Agni,  
+The kindly god Savitr, with every boon.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मध्वा॑ य॒ज्ञन्न॑क्षसे प्रीणा॒नो नरा॒शँसो॑ अग्ने ।  
 सु॒कृद्दे॒वस्स॑वि॒ता वि॒श्ववा॑रः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मध्वा॑ । य॒ज्ञम् । न॒क्ष॒से॒ । प्री॒णा॒नः । नरा॒शँसः॑ । अ॒ग्ने॒ ॥ सु॒कृदिति॑ सु-कृत् । दे॒वः । स॒वि॒ता । वि॒श्ववा॑र॒ इति॑ वि॒श्व-वा॒रः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -116,10 +152,22 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 अग्निँ᳓ स्रु᳓चो अध्वरे᳓षु प्रय᳓त्सु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Hither he cometh, with might, with ghee,  
+The priest implored with adoration;  
+To Agni the ladles (move) when the rites proceed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अच्छा॒यमे॑ति॒ शव॑सा घृ॒तेने॑डा॒नो वह्नि॒र्नम॑सा ।  
 अ॒ग्निँ स्रुचो॑ अध्व॒रेषु॑ प्र॒यत्सु॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अच्छ॑ । अ॒यम् । ए॒ति॒ । शव॑सा । घृ॒तेन॑ । ई॒डा॒नः । वह्निः॑ । नम॑सा ॥ अ॒ग्निम् । स्रुचः॑ । अ॒ध्व॒रेषु॑ । प्र॒यत्स्विति॑ प्र॒यत्-सु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -142,10 +190,20 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 व᳓सुश्चे᳓तिष्ठो वसुधा᳓तमश्च ।
 </details>
 
+<details><summary>Keith</summary>
+
+Worship let him pay to the greatness of him, of Agni; He [1] indeed is pre-eminent among the delightful, The wealthy, the wisest, best bestower of wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स य॑क्षदस्य महि॒मान॑म॒ग्नेस्सः [29]  ई॒ म॒न्द्रासु॑ प्र॒यसः॑ ।
 वसु॒श्चेति॑ष्ठो वसु॒धात॑मश्च ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । य॒क्ष॒त् । अ॒स्य॒ । म॒हि॒मान॑म् । अ॒ग्नेः । सः । ई॒म् । म॒न्द्रासु॑ । प्र॒यसः॑ ॥ वसुः॑ । चेति॑ष्ठः । व॒सु॒धात॑म॒ इति॑ वसु-धात॑मः । च॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -168,10 +226,22 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 उरुव्य᳓चसो धा᳓म्ना प᳓त्यमानाः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The divine doors--all--preserve  
+The rules of him, of Agni,  
+Of wide expanse, lording it with dominion.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वारो॑ दे॒वीरन्व॑स्य॒ विश्वे॑ व्र॒ता द॑दन्ते अ॒ग्नेः ।  
 उ॒रु॒व्यच॑सो॒ धाम्ना॒ पत्य॑मानाः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्वारः॑ । दे॒वीः । अन्विति॑ । अ॒स्य॒ । विश्वे॑ । व्र॒ता । द॒द॒न्ते॒ । अ॒ग्नेः ॥ उ॒रु॒व्यच॑स॒ इत्यु॑रु-व्यच॑सः । धाम्ना॑ । पत्य॑मानाः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -194,10 +264,22 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 इमय्ँ᳓ यज्ञ᳓मवतामध्वर᳓न्नः ।
 </details>
 
+<details><summary>Keith</summary>
+
+May day and night  
+Like heavenly maidens in his birthplace  
+Protect this our sacrifice and offering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते अ॑स्य॒ योष॑णे दि॒व्ये न योना॑वु॒षासा॒नक्ता॑ ।  
 इ॒मय्ँ य॒ज्ञम॑वतामध्व॒रन्नः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते इति॑ । अ॒स्य॒ । योष॑णे॒ इति॑ । दि॒व्ये इति॑ । न । योनौ॑ । उ॒षासा॒नक्ता॑ ॥ इ॒मम् । य॒ज्ञम् । अ॒व॒ता॒म् । अ॒ध्व॒रम् । नः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -220,10 +302,23 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 कृणुत᳓न्नस्स्वि᳙ष्टिम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O ye divine Hotrs, sing ye
+  
+To our uplifted sacrifice, to Agni's tongue,  
+Make for us good offering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दैव्या॑ होतारावू॒र्ध्वम॑ध्व॒रन्नो॒ऽग्नेर्जि॒ह्वाम॒भि गृ॑णीतम् ।  
 कृ॒णु॒तन्न॒स्स्वि॑ष्टिम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दैव्या॑ । होता॑रौ । ऊ॒र्ध्वम् । अ॒ध्व॒रम् । नः॒ । अ॒ग्नेः । जि॒ह्वाम् । अ॒भीति॑ । गृ॒णी॒त॒म् ॥ कृ॒णु॒तम् । नः॒ । स्वि॑ष्टि॒मिति॒ सु-इ॒ष्टि॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -246,10 +341,21 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 मही᳓ गृणाना᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the three goddesses sit on this strew,  
+Ida, Sarasvati [2], Bharati, the great, being sung.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ति॒स्रो दे॒वीर्ब॒र्हिरेदँ स॑द॒न्त्विडा॒ सर॑स्वती [30]  भार॑ती ।  
 म॒ही गृ॑णा॒ना ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ति॒स्रः । दे॒वीः । ब॒र्हिः । एति॑ । इ॒दम् । स॒द॒न्तु॒ । इडा॑ । सर॑स्वती । भार॑ती ॥ म॒ही । गृ॒णा॒ना ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -270,10 +376,22 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 राय᳓स्पो᳓षव्ँवि᳓ ष्यतु ना᳓भिमस्मे᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+That seminal fluid of ours, wondrous,  
+Abundant, may Tvastr release  
+As increase of wealth with good heroes, as offspring to us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन्न॑स्तु॒रीप॒मद्भु॑तम्पुरु॒क्षु त्वष्टा॑ सु॒वीर॑म् ।  
 रा॒यस्पोषव्ँ॒वि ष्य॑तु॒ नाभि॑म॒स्मे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तत् । नः॒ । तु॒रीप॑म् । अद्भु॑तम् । पु॒रु॒क्षु । त्वष्टा॑ । सु॒वीर॒मिति॑ सु-वीर॑म् ॥ रा॒यः । पोष॑म् । वीति॑ । स्य॒तु॒ । नाभि॑म् । अ॒स्मे इति॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -297,10 +415,22 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 अग्नि᳓र्हव्यँ᳓ शमिता᳓ सूदयाति ।
 </details>
 
+<details><summary>Keith</summary>
+
+O tree, let free,  
+Bestowing with thyself among the gods;  
+Let Agni as queller make ready the oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वन॑स्प॒तेऽव॑ सृजा॒ ररा॑ण॒स्त्मना॑ दे॒वेषु॑ ।  
 अ॒ग्निर्ह॒व्यँ श॑मि॒ता सू॑दयाति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वन॑स्पते । अवेति॑ । सृ॒ज॒ । ररा॑णः । त्मना॑ । दे॒वेषु॑ ॥ अ॒ग्निः । ह॒व्यम् । श॒मि॒ता । सू॒द॒या॒ति॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -321,10 +451,21 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 वि᳓श्वे देवा᳓ हवि᳓रिद᳓ञ्जुषन्ताम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, utter 'Hail!' O all-knower, over the oblation for Indra;  
+May all the gods rejoice in this offering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॒ स्वाहा॑ कृणुहि जातवेद॒ इन्द्रा॑य ह॒व्यम् ।  
 विश्वे॑ दे॒वा ह॒विरि॒दञ्जु॑षन्ताम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । स्वाहा॑ । कृ॒णु॒हि॒ । जा॒त॒वे॒द॒ इति॑ जात-वे॒दः॒ । इन्द्रा॑य । ह॒व्यम् ॥ विश्वे॑ । दे॒वाः । ह॒विः । इ॒दम् । जु॒ष॒न्ता॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -349,10 +490,23 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 स᳓ दाधार पृथिवी᳓न्द्या᳓म् [31]  उते᳓मा᳓ङ्क᳓स्मै देवा᳓य हवि᳓षा विधेम ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The golden germ first arose;  
+Born he was the only lord of creation;  
+He supporteth the earth and the sky [3]  
+To what god shall we offer with oblation?
+</details>
+
 <details><summary>मूलम्</summary>
 
 हि॒र॒ण्य॒ग॒र्भस्सम॑वर्त॒ताग्रे॑ भू॒तस्य॑ जा॒तᳶ पति॒रेक॑ आसीत् ।  
 स दा॑धार पृथि॒वीन्द्याम् [31]  उ॒तेमाङ्कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+हि॒र॒ण्य॒ग॒र्भ इति॑ हिरण्य-ग॒र्भः । समिति॑ । अ॒व॒र्त॒त॒ । अग्रे॑ । भू॒तस्य॑ । जा॒तः । पतिः॑ । एकः॑ । आ॒सी॒त् ॥ सः । दा॒धा॒र॒ । पृ॒थि॒वीम् । द्याम् । उ॒त । इ॒माम् । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -379,10 +533,23 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 य᳓ ई᳓शे अस्य᳓ द्विप᳓दश्च᳓तुष्पदᳵ क᳓स्मै देवा᳓य हवि᳓षा विधेम ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He that alone by his might is king  
+Of the breathing, the winking world,  
+Who is lord of these bipeds and quadrupeds;  
+To what god shall we offer with oblation?
+</details>
+
 <details><summary>मूलम्</summary>
 
 यᳶ प्रा॑ण॒तो नि॑मिष॒तो म॑हि॒त्वैक॒ इद्राजा॒ जग॑तो ब॒भूव॑ ।  
 य ईशे॑ अ॒स्य द्वि॒पद॒श्चतु॑ष्पद॒ᳵ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । प्रा॒ण॒त इति॑ प्र-अ॒न॒तः । नि॒मि॒ष॒त इति॑ नि-मि॒ष॒तः । म॒हि॒त्वेति॑ महि-त्वा । एकः॑ । इत् । राजा॑ । जग॑तः । ब॒भूव॑ ॥ यः । ईशे॑ । अ॒स्य॒ । द्वि॒पद॒ इति॑ द्वि-पदः॑ । चतु॑ष्पद॒ इति॒ चतुः॑-प॒दः॒ । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -404,10 +571,27 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 य᳓स्य छाया᳓मृ᳓तय्ँय᳓स्य मृत्युᳵ᳓ क᳓स्मै देवा᳓य हवि᳓षा विधेम ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He who is giver of breath, giver of strength,  
+Upon whose bidding all, even the gods, wait,  
+Whose shadow is immortality and death;  
+To what god shall we offer with oblation?  
+He whose are these snowy mountains through his might,  
+Whose they call the ocean with the Rasa [4],  
+Whose two arms are these quarters;  
+To what god shall we offer with oblation?
+</details>
+
 <details><summary>मूलम्</summary>
 
 य आ॑त्म॒दा ब॑ल॒दा यस्य॒ विश्व॑ उ॒पास॑ते प्र॒शिषय्ँ॒यस्य॑ दे॒वाः ।  
 यस्य॑ छा॒यामृतय्ँ॒यस्य॑ मृ॒त्युᳵ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । आ॒त्म॒दा इत्या॑त्म-दाः । ब॒ल॒दा इति॑ बल-दाः । यस्य॑ । विश्वे॑ । उ॒पास॑त॒ इत्यु॑प-आस॑ते । प्र॒शिष॒मिति॑ प्र-शिष॑म् । यस्य॑ । दे॒वाः ॥ यस्य॑ । छा॒या । अ॒मृत॑म् । यस्य॑ । मृ॒त्युः । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -428,10 +612,23 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 य᳓स्येमाᳶ᳓ प्रदि᳓शो य᳓स्य बाहू᳓ क᳓स्मै देवा᳓य हवि᳓षा विधेम ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He whose are these snowy mountains through his might,  
+Whose they call the ocean with the Rasa [4],  
+Whose two arms are these quarters;  
+To what god shall we offer with oblation?
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्ये॒मे हि॒मव॑न्तो महि॒त्वा यस्य॑ समु॒द्रँ र॒सया॑ स॒ह [32]  आ॒हुः ।  
 यस्ये॒माᳶ प्र॒दिशो॒ यस्य॑ बा॒हू कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यस्य॑ । इ॒मे । हि॒मव॑न्त॒ इति॑ हि॒म-व॒न्तः॒ । म॒हि॒त्वेति॑ महि-त्वा । यस्य॑ । स॒मु॒द्रम् । र॒सया॑ । स॒ह । आ॒हुः ॥ यस्य॑ । इ॒माः । प्र॒दिश॒ इति॑ प्र-दिशः॑ । यस्य॑ । बा॒हू इति॑ । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -454,10 +651,23 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 य᳓त्रा᳓धि सू᳓र उ᳓दितौ व्ये᳓ति क᳓स्मै देवा᳓य हवि᳓षा विधेम ।  
 </details>
 
+<details><summary>Keith</summary>
+
+To whom the armies stablished  
+Through his aid gazed with minds disturbed,  
+Over whom on the rising of the sun it goeth;  
+To what god shall we offer with oblation?
+</details>
+
 <details><summary>मूलम्</summary>
 
 यङ्क्रन्द॑सी॒ अव॑सा तस्तभा॒ने अ॒भ्यैक्षे॑ता॒म्मन॑सा॒ रेज॑माने ।  
 यत्राधि॒ सूर॒ उदि॑तौ॒ व्येति॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यम् । क्रन्द॑सी॒ इति॑ । अव॑सा । त॒स्त॒भा॒ने इति॑ । अ॒भ्यैक्षे॑ता॒मित्य॑भि-ऐक्षे॑ताम् । मन॑सा । रेज॑माने॒ इति॑ ॥ यत्र॑ । अधीति॑ । सूरः॑ । उदि॑ता॒वित्युत्-इ॒तौ॒ । व्येतीति॑ वि-एति॑ । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -478,10 +688,23 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 यो᳓ अन्त᳓रिक्षे र᳓जसो विमा᳓नᳵ क᳓स्मै देवा᳓य हवि᳓षा विधेम ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He by whom the dread earth and the sky were made firm,  
+By whom the heaven was established, by whom the vault,  
+Who is the measure of the region in the atmosphere;  
+To what god shall we offer with oblation?
+</details>
+
 <details><summary>मूलम्</summary>
 
 येन॒ द्यौरु॒ग्रा पृ॑थि॒वी च॑ दृ॒ढे येन॒ सुव॑स्स्तभि॒तय्ँयेन॒ नाकः॑ ।  
 यो अ॒न्तरि॑क्षे॒ रज॑सो वि॒मान॒ᳵ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+येन॑ । द्यौः । उ॒ग्रा । पृ॒थि॒वी । च॒ । दृ॒ढे इति॑ । येन॑ । सुवः॑ । स्त॒भि॒तम् । येन॑ । नाकः॑ ॥ यः । अ॒न्तरि॑क्षे । रज॑सः । वि॒मान॒ इति॑ वि-मानः॑ । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -503,10 +726,23 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 त᳓तो देवा᳓नान्नि᳓रवर्तता᳓सुरे᳓कᳵ क᳓स्मै देवा᳓य हवि᳓षा विधेम ।  
 </details>
 
+<details><summary>Keith</summary>
+
+When the waters, the great ones, went  
+Bearing all [5] strength, begetting Agni,  
+Then one breath of the gods arose;  
+To what god shall we offer with oblation?
+</details>
+
 <details><summary>मूलम्</summary>
 
 आपो॑ ह॒ यन्म॑ह॒तीर्विश्व॑म् [33]  आय॒न्दक्ष॒न्दधा॑ना ज॒नय॑न्तीर॒ग्निम् ।  
 ततो॑ दे॒वाना॒न्निर॑वर्त॒तासु॒रेक॒ᳵ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आपः॑ । ह॒ । यत् । म॒ह॒तीः । विश्व॑म् । आय॑न् । दक्ष॑म् । दधा॑नाः । ज॒नय॑न्तीः । अ॒ग्निम् ॥ ततः॑ । दे॒वाना॑म् । निरिति॑ । अ॒व॒र्त॒त॒ । असुः॑ । एकः॑ । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -533,10 +769,23 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 यो᳓ देवे᳓ष्व᳓धि देव᳓ ए᳓क आ᳓सीत्क᳓स्मै देवा᳓य हवि᳓षा विधेम ॥ [34]  
 </details>
 
+<details><summary>Keith</summary>
+
+He who in his might beheld the waters  
+Bearing strength, begetting Agni,  
+Who was the god alone over the gods;  
+To what god shall we offer with oblation?
+</details>
+
 <details><summary>मूलम्</summary>
 
 यश्चि॒दापो॑ महि॒ना प॒र्यप॑श्य॒द्दक्ष॒न्दधा॑ना ज॒नय॑न्तीर॒ग्निम् ।  
 यो दे॒वेष्वधि॑ दे॒व एक॒ आसी॒त्कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥ [34]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । चि॒त् । आपः॑ । म॒हि॒ना । प॒र्यप॑श्य॒दिति॑ परि-अप॑श्यत् । दक्ष॑म् । दधा॑नाः । ज॒नय॑न्तीः । अ॒ग्निम् ॥ यः । दे॒वेषु॑ । अधीति॑ । दे॒वः । एकः॑ । आसी॑त् । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

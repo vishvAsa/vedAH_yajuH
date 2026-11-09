@@ -16,9 +16,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 प्रा᳓ची दिशा᳓म् +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The east of the quarters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राची॑ दि॒शाम् +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्राची॑ । दि॒शाम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -35,9 +45,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 वसन्त᳓ ऋतूना᳓म्  +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the spring of the seasons;
+</details>
+
 <details><summary>मूलम्</summary>
 
 व॒स॒न्त ऋ॑तू॒नाम्  +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒स॒न्तः । ऋ॒तू॒नाम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -50,9 +70,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 अग्नि᳓र्देव᳓ता +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Agni the deity;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्दे॒वता॑ +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । दे॒वता॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -65,9 +95,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 ब्र᳓ह्म द्र᳓विणम् +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+holy power the wealth;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॒ द्रवि॑णम् +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्रह्म॑ । द्रवि॑णम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -80,9 +120,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 त्रिवृ᳓त्स्तो᳓मः᳓ +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Trivrt the Stoma,
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि॒वृत्स्तोमः +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रि॒वृदिति॑ त्रि-वृत् । स्तोमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -95,9 +145,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 स᳓ उ पञ्चदश᳓वर्तनिः +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+and it forming the path of the fifteenfold (Stoma);
+</details>
+
 <details><summary>मूलम्</summary>
 
 स उ॑ पञ्चद॒शव॑र्तनिः +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । उ॒ । प॒ञ्च॒द॒शव॑र्तनि॒रिति॑ पञ्चद॒श-व॒र्त॒निः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -111,9 +171,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 त्र्य᳓विर्व᳓यः +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the eighteen-month-old calf the strength;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्र्यवि॒र्वय॑ः +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्र्यवि॒रिति॑ त्रि-अविः॑ । वयः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -129,9 +199,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 कृत᳓म᳓यानाम् +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Krta of throws (at dice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृ॒तमया॑नाम् +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कृ॒तम् । अया॑नाम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -144,9 +224,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 पुरोवातो᳓ वा᳓तः  +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the east wind the wind;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒रो॒वा॒तो वातः॑  +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पु॒रो॒वा॒त इति॑ पुरः-वा॒तः । वातः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -159,9 +249,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 सा᳓नग ऋ᳓षिः +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Sanaga the Rsi;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सान॑ग॒ ऋषि॑ः +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सान॑गः । ऋषिः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -182,6 +282,11 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 पञ्चदश᳓स्स्तो᳓मः  +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The south of the quarters; the summer of the seasons; Indra the deity; the kingly power the wealth; the fifteenfold the Stoma,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दक्षि॒णा दि॒शाम्  +++( असि)+++ ।  
@@ -195,6 +300,11 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 प॒ञ्च॒द॒शस्स्तोमः॑  +++( असि)+++ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+द॒क्षि॒णा । दि॒शाम् । ग्री॒ष्मः । ऋ॒तू॒नाम् । इन्द्रः॑ । दे॒वता॑ । क्ष॒त्रम् । द्रवि॑णम् । प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः । स्तोमः॑ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ दक्षिणस्यां दिश्युपधेयानां मन्त्रमाह— दक्षिणा दिशामिति।   
@@ -205,9 +315,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 स᳓ उ सप्तदश᳓वर्तनिः +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+and it forming the path of the seventeenfold (Stoma);
+</details>
+
 <details><summary>मूलम्</summary>
 
 स उ॑ सप्तद॒शव॑र्तनिः +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । उ॒ । स॒प्त॒द॒शव॑र्तनि॒रिति॑ सप्तद॒श-व॒र्त॒निः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -220,9 +340,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 दित्यवा᳓ड्व᳓यः+++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the two-year-old the strength;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒त्य॒वाड्वयः॑+++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒त्य॒वाडिति॑ दित्य-वाट् । वयः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -242,6 +372,11 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 सनात᳓न ऋ᳓षिः  +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Treta of throws; the south wind the wind; Sanatana the Rsi;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रेताऽया॑नाम् +++( असि)+++ ।   
@@ -249,6 +384,11 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 द॒क्षि॒णा॒द्वा॒तो वातः॑ +++( असि)+++ ।  
 
 स॒ना॒तन॒ ऋषिः॑  +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रेता॑ । अया॑नाम् । द॒क्षि॒णा॒द्वा॒त इति॑ दक्षिणात्-वा॒तः । वातः॑ । स॒ना॒तनः॑ । ऋषिः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -270,6 +410,11 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 स᳓ उवेकविँश᳓वर्तनिः +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The west of the quarters; the rains of the seasons; the All-gods the deity; the peasants [1] the wealth; the seventeenfold the Stoma, and it forming the path of the twenty-onefold (Stoma);
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒तीची॑ दि॒शाम् +++( असि)+++ ।  
@@ -282,6 +427,11 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 स उ॑वेकविँ॒शव॑र्तनिः +++( असि)+++ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्र॒तीची॑ । दि॒शाम् । व॒र्षाः । ऋ॒तू॒नाम् । विश्वे॑ । दे॒वाः । दे॒वता॑ । विट् । द्रवि॑णम् । स॒प्त॒द॒श इति॑ सप्त-द॒शः । स्तोमः॑ । सः । उ॒ । ए॒क॒विँ॒शव॑र्तनि॒रित्ये॑कविँ॒श-व॒र्त॒निः॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 प्रतीच्यां दिश्युपधेयानामिष्टकानां मन्त्रमाह— प्रतीची दिशामिति ।  
@@ -292,9 +442,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 त्रिवत्सो᳓ व᳓यः  +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the three-year-old the strength;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि॒व॒त्सो वयः॑  +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रि॒व॒त्स इति॑ त्रि-व॒त्सः । वयः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -307,9 +467,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 द्वापरो᳓ऽयानाम्  +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Dvapara of throws;
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वा॒प॒रोऽया॑नाम्  +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्वा॒प॒रः । अया॑नाम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -322,9 +492,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 पश्चाद्वातो᳓ वा᳓तः +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the west wind the wind;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒श्चा॒द्वा॒तो वातः॑ +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒श्चा॒द्वा॒त इति॑ पश्चात्-वा॒तः । वातः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -338,9 +518,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 अहभू᳓न ऋ᳓षिः +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Ahabhuna the Rsi;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ह॒भून॒ ऋषिः॑ +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ह॒भूनः॑ । ऋषिः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -356,12 +546,22 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 मित्रा᳓व᳓रुणौ देव᳓ता +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The north of the quarters; the autumn of the seasons; Mitra and Varuna the deity;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदी॑ची दि॒शम्  +++( असि)+++ ।  
 श॒रदृ॑तू॒नाम् +++( असि)+++ ।  
 
 मि॒त्रावरु॑णौ दे॒वता॑ +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उदी॑ची । दि॒शाम् । श॒रत् । ऋ॒तू॒नाम् । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । दे॒वता॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -376,11 +576,21 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 स᳓ उ त्रिणव᳓वर्तनिः +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+prosperity the wealth; the twenty-onefold the Stoma; and it forming a path of the twenty-sevenfold (Stoma);
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒ष्टन्द्रवि॑णम् +++( असि)+++ ।  
 ए॒क॒विँ॒शस्स्तोमः॑  +++( असि)+++ ।  
 स उ॑ त्रिण॒वव॑र्तनिः +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पु॒ष्टम् । द्रवि॑णम् । ए॒क॒विँ॒श इत्ये॑क-विँ॒शः । स्तोमः॑ । सः । उ॒ । त्रि॒ण॒वव॑र्तनि॒रिति॑ त्रिण॒व-व॒र्त॒निः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -394,9 +604,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 तु᳓र्यवा᳓ड्व᳓यः +++( असि)+++ ।   
 </details>
 
+<details><summary>Keith</summary>
+
+the four-year-old the strength;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तुर्य॒वाड्वय॑ः +++( असि)+++ ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तु॒र्य॒वाडिति॑ तुर्य-वाट् । वयः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -409,9 +629,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 आस्कन्दो᳓ऽयानाम्  +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Askanda of throws;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒स्क॒न्दोऽया॑नाम्  +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒स्क॒न्दः । अया॑नाम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -426,11 +656,21 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 प्रत्न᳓ ऋ᳓षिः +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the north wind the wind; Pratna the Rsi;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒त्त॒रा॒द्वा॒तो वातः॑ +++( असि)+++ ।  
 
 प्र॒त्न ऋषि॑ः +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒त्त॒रा॒द्वा॒त इत्यु॑त्तरात्-वा॒तः । वातः॑ । प्र॒त्नः । ऋषिः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -447,6 +687,11 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 बृ᳓हस्प᳓तिर्देव᳓ता᳓+++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The zenith of the quarters; the winter and the cool season of the seasons; Brhaspati the deity;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊ॒र्ध्वा दि॒शाम् +++( असि)+++ ।  
@@ -454,6 +699,11 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 हे॑मन्तशिशि॒रावृ॑तू॒नाम् +++( असि)+++ ।  
 
 बृह॒स्पति॑र्दे॒वता+++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऊ॒र्ध्वा । दि॒शाम् । हे॒म॒न्त॒शि॒शि॒राविति॑ हेमन्त-शि॒शि॒रौ । ऋ॒तू॒नाम् । बृह॒स्पतिः॑ । दे॒वता॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -466,9 +716,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 व᳓र्चो द्र᳓विणम्  +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+radiance the wealth;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वर्चो॒ द्रवि॑णम्  +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वर्चः॑ । द्रवि॑णम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -485,6 +745,11 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 पष्ठवा᳓द्व᳓यः  +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the twenty-sevenfold the Stoma, and it forming a path of the thirty-threefold; the four-year-old the strength;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि॒ण॒वस्स्तोमः॑  +++( असि)+++ ।  
@@ -492,6 +757,11 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 स उ॑ त्रयस्त्रिँ॒शव॑र्तनिः +++( असि)+++ ।  
 
 प॒ष्ठ॒वाद्वयः॑  +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रि॒ण॒व इति॑ त्रि-न॒वः । स्तोमः॑ । सः । उ॒ । त्र॒य॒स्त्रिँ॒शव॑र्तनि॒रिति॑ त्रयस्त्रिँ॒श-व॒र्त॒निः॒ । प॒ष्ठ॒वादिति॑ पष्ठ-वात् । वयः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -505,9 +775,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 अभिभूः᳓ +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the Abhibhu of throws;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒भि॒भूः +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भि॒भूरित्य॑भि-भूः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -520,9 +800,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 अ᳓यानाव्ँविष्वग्वातो᳓ वा᳓तः +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the wind blowing all ways the wind;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अया॑नाव्ँविष्वग्वा॒तो वातः॑ +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अया॑नाम् । वि॒ष्व॒ग्वा॒त इति॑ विष्वक्-वा॒तः । वातः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -535,9 +825,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 सुपर्ण᳓ ऋ᳓षिः  +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Suparna the Rsi;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒प॒र्ण ऋषिः॑  +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒प॒र्ण इति॑ सु-प॒र्णः । ऋषिः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -550,9 +850,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 पित᳓रᳶ पितामहाᳶ᳓ प᳓रे᳓ऽवरे ते᳓ नᳶ पान्तु ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Fathers, grandfathers, near and far, may they protect us,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पि॒तरᳶ॑ पिताम॒हाᳶ परेऽव॑रे॒ ते नᳶ॑ पान्तु ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पि॒तरः॑ । पि॒ता॒म॒हाः । परे॑ । अव॑रे । ते । नः॒ । पा॒न्तु॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -566,9 +876,19 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 ते᳓ नोऽवन्तु ।   
 </details>
 
+<details><summary>Keith</summary>
+
+may they help us,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते नो॑ऽवन्तु ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । नः॒ । अ॒व॒न्तु॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -582,10 +902,20 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 आशि᳓ष्यस्या᳓म् पुरोधा᳓यामस्मि᳓न्क᳓र्मन्नस्या᳓न्देव᳓हूत्याम् ॥ [6]  
 </details>
 
+<details><summary>Keith</summary>
+
+in this holy power, this lordly power, this prayer, this Purohita-ship, this rite, this invocation of the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒स्मिन्ब्रह्म॑न्, अ॒स्मिन्क्ष॒त्रे॑ऽस्याम
 आ॒शिष्य॒स्याम् पु॑रो॒धाया॑म॒स्मिन्कर्म॑न्न॒स्यान्दे॒वहू॑त्याम् ॥ [6]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒स्मिन् । ब्रह्म॑न् । अ॒स्मिन् । क्ष॒त्रे । अ॒स्याम् । आ॒शिषीत्या॑-शिषि॑ । अ॒स्याम् । पु॒रो॒धाया॒मिति॑ पुरः-धाया॑म् । अ॒स्मिन् । कर्म॑न् । अ॒स्याम् । दे॒वहू॑त्या॒मिति॑ दे॒व-हू॒त्या॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

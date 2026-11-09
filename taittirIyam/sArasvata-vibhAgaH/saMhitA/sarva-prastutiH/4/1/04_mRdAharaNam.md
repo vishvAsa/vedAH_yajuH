@@ -28,10 +28,22 @@ title = "०४ मृदाहरणम्"
 देवा᳓नाय्ँय᳓श्च᳓रति प्राण᳓थेन त᳓स्मै च देवि व᳓षडस्तु तु᳓भ्यम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May I Vayu, Matariśvan, unite  
+The broken heart of thee that art outstretched  
+To him who moveth with the expiration of the gods, With thee, O goddess, be Vasat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्ते॑ वा॒युर्मा॑त॒रिश्वा॑ दधातूत्ता॒नायै॒ हृद॑यय्ँ॒यद्विलि॑ष्टम् ।  
 दे॒वानाय्ँ॒यश्चर॑ति प्रा॒णथे॑न॒ तस्मै॑ च देवि॒ वष॑डस्तु॒ तुभ्य॑म् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । ते॒ । वा॒युः । मा॒त॒रिश्वा॑ । द॒धा॒तु॒ । उ॒त्ता॒नाया॒ इत्यु॑त्-ता॒नायै॑ । हृद॑यम् । यत् । विलि॑ष्ट॒मिति॒ वि-लि॒ष्ट॒म् ॥ दे॒वाना॑म् । यः । चर॑ति । प्रा॒णथे॒नेति॑ प्र-अ॒नथे॑न । तस्मै॑ । च॒ । दे॒वि॒ । वष॑ट् । अस्तु॑ । तुभ्य॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -75,10 +87,22 @@ title = "०४ मृदाहरणम्"
 वा᳓सो अग्ने विश्व᳓रूपँ स᳓व्व्ँययस्व विभावसो ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Wellborn, with light,  
+Guard and protector, thou hast sat on the heaven; O Agni, thy garment of many hues,  
+Put on, O thou that dost abound in light.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सुजा॑तो॒ ज्योति॑षा स॒ह शर्म॒ वरू॑थ॒मास॑द॒स्सुवः॑ ।  
 वासो॑ अग्ने वि॒श्वरू॑पँ॒ सव्व्ँय॑यस्व विभावसो ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सुजा॑त॒ इति॒ सु-जा॒तः॒ । ज्योति॑षा । स॒ह । शर्म॑ । वरू॑थम् । एति॑ । अ॒स॒दः॒ । सुवः॑ ॥ वासः॑ । अ॒ग्ने॒ । वि॒श्वरू॑प॒मिति॑ वि॒श्व-रू॒प॒म् । समिति॑ । व्य॒य॒स्व॒ । वि॒भा॒व॒सो॒ इति॑ विभा-व॒सो॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -97,10 +121,23 @@ title = "०४ मृदाहरणम्"
 दृशे᳓ च भासा᳓ बृहता᳓ सुशुक्व᳓निरा᳓ग्ने याहि सुशस्ति᳓भिः ।  [14]  
 </details>
 
+<details><summary>Keith</summary>
+
+Arise, thou of fair sacrifice,  
+Aid us with thy divine radiance;  
+Brilliant to behold, with mighty blaze,  
+Do thou come hither, O Agni, in response to our prayers [1].
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदु॑ तिष्ठ स्वध्व॒रावा॑ नो दे॒व्या कृ॒पा ।  
 दृ॒शे च॑ भा॒सा बृ॑ह॒ता सु॑शु॒क्वनि॒राग्ने॑ याहि सुश॒स्तिभिः॑ ।  [14]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उदिति॑ । उ॒ । ति॒ष्ठ॒ । स्व॒ध्व॒रेति॑ सु-अ॒ध्व॒र॒ । अव॑ । नः॒ । दे॒व्या । कृ॒पा ॥ दृ॒शे । च॒ । भा॒सा । बृ॒ह॒ता । सु॒शु॒क्वनि॒रिति॑ सु-शु॒क्वनिः॑ । एति॑ । अ॒ग्ने॒ । या॒हि॒ । सु॒श॒स्तिभि॒रिति॑ सुश॒स्ति-भिः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -119,10 +156,23 @@ title = "०४ मृदाहरणम्"
 ऊर्ध्वो᳓ वा᳓जस्य स᳓निता य᳓दञ्जि᳓भिर्वाघ᳓द्भिर्विह्व᳓यामहे ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Arise erect to aid us,  
+Like Savitr, the god;  
+Erect to win the booty,  
+When in contest we call on thee with the shining praisers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊ॒र्ध्व ऊ॒ षु ण॑ ऊ॒तये॒ तिष्ठा॑ दे॒वो न स॑वि॒ता ।  
 ऊ॒र्ध्वो वाज॑स्य॒ सनि॑ता॒ यद॒ञ्जिभि॑र्वा॒घद्भि॑र्वि॒ह्वया॑महे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऊ॒र्ध्वः । उ॒ । स्विति॑ । नः॒ । ऊ॒तये॑ । तिष्ठ॑ । दे॒वः । न । स॒वि॒ता ॥ ऊ॒र्ध्वः । वाज॑स्य । सनि॑ता । यत् । अ॒ञ्जिभि॒रित्य॒ञ्जि-भिः॒ । वा॒घद्भि॒रिति॑ वा॒घत्-भिः॒ । वि॒ह्वया॑मह॒ इति॑ वि-ह्वया॑महे ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -143,10 +193,21 @@ title = "०४ मृदाहरणम्"
 चित्र᳓श्शि᳓शुᳶ प᳓रि त᳓माँस्यक्तᳶ᳓ प्र᳓ मातृ᳓भ्यो अ᳓धि क᳓निक्रदद्गाः ।
 </details>
 
+<details><summary>Keith</summary>
+
+Born, thou art the child of the two worlds,  
+O Agni; a brilliant child distributed among the plants; A beauteous babe beyond the darkness outspread, Thou didst come thundering from thy mothers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स जा॒तो गर्भो॑ असि॒ रोद॑स्यो॒रग्ने॒ चारु॒र्विभृ॑त॒ ओष॑धीषु ।  
 चि॒त्रश्शिशु॒ᳶ परि॒ तमाँ॑स्य॒क्तᳶ प्र मा॒तृभ्यो॒ अधि॒ कनि॑क्रदद्गाः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । जा॒तः । गर्भः॑ । अ॒सि॒ । रोद॑स्योः । अग्ने॑ । चारुः॑ । विभृ॑त॒ इति॒ वि-भृ॒तः॒ । ओष॑धीषु ॥ चि॒त्रः । शिशुः॑ । परीति॑ । तमाँ॑सि । अ॒क्तः । प्रेति॑ । मा॒तृभ्य॒ इति॑ मा॒तृ-भ्यः॒ । अधीति॑ । कनि॑क्रदत् । गाः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -172,10 +233,23 @@ title = "०४ मृदाहरणम्"
 पृथु᳓र्भव सुष᳓दस्त्व᳓मग्नेᳶ᳓ पुरीषवा᳓हनः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Be firm, of strong limbs,  
+Swift, a mighty steed;  
+Be broad, of kindly seat,  
+Thou art the carrier of dust for Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्थि॒रो भ॑व वी॒ड्व॑ङ्ग आ॒शुर्भ॑व वा॒ज्य॑र्वन् ।  
 पृ॒थुर्भ॑व सु॒षद॒स्त्वम॒ग्नेᳶ पु॑रीष॒वाह॑नः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्थि॒रः । भ॒व॒ । वी॒ड्व॑ङ्ग॒ इति॑ वी॒डु-अ॒ङ्गः॒ । आ॒शुः । भ॒व॒ । वा॒जी । अ॒र्व॒न् ॥ पृ॒थुः । भ॒व॒ । सु॒षद॒ इति॑ सु-सदः॑ । त्वम् । अ॒ग्नेः । पु॒री॒ष॒वाह॑न॒ इति॑ पुरीष-वाह॑नः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -194,10 +268,23 @@ title = "०४ मृदाहरणम्"
 मा᳓ द्या᳓वापृथिवी᳓ अभि᳓ शूशुचो मा᳓न्त᳓रिक्षम्मा᳓ व᳓नस्प᳓तीन् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Be auspicious [2], for offspring  
+Of men, O Angiras;  
+Scorch not sky and earth,  
+Nor the atmosphere, nor the trees.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शि॒वो भ॑व [15] प्र॒जाभ्यो॒ मानु॑षीभ्य॒स्त्वम॑ङ्गिरः ।  
 मा द्यावा॑पृथि॒वी अ॒भि शू॑शुचो॒ मान्तरि॑क्ष॒म्मा वन॒स्पती॑न् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शि॒वः । भ॒व॒ । प्र॒जाभ्य॒ इति॑ प्र-जाभ्यः॑ । मानु॑षीभ्यः । त्वम् । अ॒ङ्गि॒रः॒ ॥ मा॒ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । अ॒भीति॑ । शू॒शु॒चः॒ । मा । अ॒न्तरि॑क्षम् । मा । वन॒स्पतीन्॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -220,10 +307,23 @@ title = "०४ मृदाहरणम्"
 भ᳓रन्नग्नि᳓म्पुरीष्य᳙म्मा पाद्या᳓युषᳶ पुरा᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Let the steed advance, thundering  
+And resounding, the ass, the flier;  
+Bearing Agni of the dust  
+May he fall not before his day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रैतु॑ वा॒जी कनि॑क्रद॒न्नान॑द॒द्रास॑भ॒ᳶ पत्वा॑ ।  
 भर॑न्न॒ग्निम्पु॑री॒ष्य॑म्मा पा॒द्यायु॑षᳶ पु॒रा ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । ए॒तु॒ । वा॒जी । कनि॑क्रदत् । नान॑दत् । रास॑भः । पत्वा॑ ॥ भर॑न् । अ॒ग्निम् । पु॒री॒ष्य॑म् । मा । पा॒दि॒ । आयु॑षः । पु॒रा ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -242,10 +342,23 @@ title = "०४ मृदाहरणम्"
 स᳓ वामग्नि᳓म्पुरीष्य᳙माशु᳓र्दूतो᳓ वहादितः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The ass, well yoked to your chariot,  
+O ye strong ones, that thundereth,  
+May he as swift envoy  
+Bear hence Agni of the dust.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रास॑भो वा॒ङ्कनि॑क्रद॒त्सुयु॑क्तो वृषणा॒ रथे॑ ।  
 स वा॑म॒ग्निम्पु॑री॒ष्य॑मा॒शुर्दू॒तो व॑हादि॒तः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रास॑भः । वा॒म् । कनि॑क्रदत् । सुयु॑क्त॒ इति॒ सु-यु॒क्तः॒ । वृ॒ष॒णा॒ । रथे॑ ॥ सः । वा॒म् । अ॒ग्निम् । पु॒री॒ष्य॑म् । आ॒शुः । दू॒तः । व॒हा॒त् । इ॒तः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -264,10 +377,23 @@ title = "०४ मृदाहरणम्"
 अ᳓ग्न आ᳓ याहि [16]  वीत᳓य ऋतँ᳓ सत्य᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The strong, bearing the strong Agni,  
+Germ of the waters, him of the ocean,  
+O Agni, come hither, for enjoyment [3],  
+As holy order and truth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वृषा॒ग्निव्ँवृ॑षण॒म्भर॑न्न॒पाङ्गर्भँ॑ समु॒द्रिय॑म् ।  
 अग्न॒ आ या॑हि [16]  वी॒तय॑ ऋ॒तँ स॒त्यम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वृषा॑ । अ॒ग्निम् । वृष॑णम् । भर॑न् । अ॒पाम् । गर्भ॑म् । स॒मु॒द्रिय॑म् ॥ अग्ने॑ । एति॑ । या॒हि॒ । वी॒तये॑ । ऋ॒तम् । स॒त्यम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -294,10 +420,23 @@ title = "०४ मृदाहरणम्"
 व्य᳓स्यन्वि᳓श्वा अ᳓मतीर᳓रातीर्निषी᳓दन्नो अ᳓प दुर्मतिँ᳓ हनत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O plants, do ye accept Agni here  
+Who cometh auspicious towards you;  
+Casting aside all hostilities, all evil imaginings,  
+Sitting down, may he smite away from us misfortune.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ओष॑धय॒ᳶ प्रति॑ गृह्णीता॒ग्निमे॒तँ शि॒वमा॒यन्त॑म॒भ्यत्र॑ यु॒ष्मान् ।  
 व्यस्य॒न्विश्वा॒ अम॑ती॒ररा॑तीर्नि॒षीद॑न्नो॒ अप॑ दुर्म॒तिँ ह॑नत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ओष॑धयः । प्रतीति॑ । गृ॒ह्णी॒त॒ । अ॒ग्निम् । ए॒तम् । शि॒वम् । आ॒यन्त॒मित्या॑-यन्त॑म् । अ॒भीति॑ । अत्र॑ । यु॒ष्मान् ॥ व्यस्य॒न्निति॑ वि-अस्य॑न् । विश्वा॑ । अम॑तीः । अरा॑तीः । नि॒षीद॒न्निति॑ नि-सीद॑न् । नः॒ । अपेति॑ । दु॒र्म॒तिमिति॑ दुः-म॒तिम् । ह॒न॒त् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -316,10 +455,23 @@ title = "०४ मृदाहरणम्"
 अयव्ँ᳓वो ग᳓र्भ ऋत्वि᳓यᳶ प्रत्नँ᳓ सध᳓स्थमा᳓सदत् ॥ [17]  
 </details>
 
+<details><summary>Keith</summary>
+
+O plants, do ye rejoice in him,  
+O ye that are rich in flowers, and have fair berries;  
+This germ of yours, of due season,  
+Hath sat him in his ancient seat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ओष॑धय॒ᳶ प्रति॑ मोदध्वमेन॒म्पुष्पा॑वतीस्सुपिप्प॒लाः ।  
 अ॒यव्ँवो॒ गर्भ॑ ऋ॒त्वियᳶ॑ प्र॒त्नँ स॒धस्थ॒मास॑दत् ॥ [17]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ओष॑धयः । प्रतीति॑ । मो॒द॒ध्व॒म् । ए॒न॒म् । पुष्पा॑वती॒रिति॒ पुष्प॑-व॒तीः॒ । सु॒पि॒प्प॒ला इति॑ सु-पि॒प्प॒लाः॒ ॥ अ॒यम् । वः॒ । गर्भः॑ । ऋ॒त्वियः॑ । प्र॒त्नम् । स॒धस्थ॒मिति॑ स॒ध-स्थ॒म् । एति॑ । अ॒स॒द॒त् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

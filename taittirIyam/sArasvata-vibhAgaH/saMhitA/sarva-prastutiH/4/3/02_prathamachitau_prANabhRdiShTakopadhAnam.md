@@ -28,9 +28,19 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 अय᳓म्पुरो᳓ भु᳓वः  +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+This one in front the existent;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यम्पु॒रो भुवः॑  +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । पु॒रः । भुवः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -47,9 +57,19 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 त᳓स्य प्राणो᳓ भौवायनः᳓ +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+his, the existent's breath;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य॑ प्रा॒णो भौ॑वाय॒नः +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्य॑ । प्रा॒ण इति॑ प्र-अ॒नः । भौ॒वा॒य॒नः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -63,9 +83,19 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 वसन्तᳶ᳓  प्राणायनः᳓ +++( असि)+++ ।    
 </details>
 
+<details><summary>Keith</summary>
+
+spring born of the breath;
+</details>
+
 <details><summary>मूलम्</summary>
 
 व॒स॒न्तᳶ  प्रा॑णाय॒नः +++( असि)+++ ।    
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒स॒न्तः । प्रा॒णा॒य॒नः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -78,9 +108,19 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 गायत्री᳓ वासन्ती᳓ +++( असि)+++ ।   
 </details>
 
+<details><summary>Keith</summary>
+
+the Gayatri born of the spring;
+</details>
+
 <details><summary>मूलम्</summary>
 
 गा॒य॒त्री वा॑स॒न्ती +++( असि)+++ ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गा॒य॒त्री । वा॒स॒न्ती ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -93,9 +133,19 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 गायत्रियै᳓ गायत्र᳓म् +++( असि)+++ ।    
 </details>
 
+<details><summary>Keith</summary>
+
+from the Gayatri the Gayatri (Saman);
+</details>
+
 <details><summary>मूलम्</summary>
 
 गा॒य॒त्रि॒यै गा॑य॒त्रम् +++( असि)+++ ।    
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गा॒य॒त्रि॒यै । गा॒य॒त्रम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -108,9 +158,19 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 गायत्रा᳓दुपाँशुः᳓  +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+from the Gayatra the Upanśu (cup);
+</details>
+
 <details><summary>मूलम्</summary>
 
 गा॒य॒त्रादु॑पाँ॒शुः  +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गा॒य॒त्रात् । उ॒पाँ॒शुरित्यु॑प-अँ॒शुः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -123,9 +183,19 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 उपाँशो᳓स् त्रिवृ᳓त्  +++( असि)+++ ।    
 </details>
 
+<details><summary>Keith</summary>
+
+from the Upanśu the Trivrt (Stoma);
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒पाँ॒शोस् त्रि॒वृत्  +++( असि)+++ ।    
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒पाँ॒शोरित्यु॑प-अँ॒शोः । त्रि॒वृदिति॑ त्रि-वृत् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -138,9 +208,19 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 त्रिवृ᳓तो रथन्तर᳓म्  +++( असि)+++ ।    
 </details>
 
+<details><summary>Keith</summary>
+
+from the Trivrt the Rathantara;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि॒वृतो॑ रथन्त॒रम्  +++( असि)+++ ।    
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रि॒वृत॒ इति॑ त्रि-वृतः॑ । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -153,9 +233,19 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 रथन्तरा᳓द्व᳓सिष्ठ᳓  ऋ᳓षिः +++( असि)+++ ।    
 </details>
 
+<details><summary>Keith</summary>
+
+from the Rathantara Vasistha, the Rsi;
+</details>
+
 <details><summary>मूलम्</summary>
 
 र॒थ॒न्त॒राद्वसि॑ष्ठ  ऋषि॑ः +++( असि)+++ ।    
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+र॒थ॒न्त॒रादिति॑ रथम्-त॒रात् । वसि॑ष्ठः । ऋषिः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -168,9 +258,19 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 प्रजा᳓पतिगृहीतया त्व᳓या प्राण᳓ङ्गृह्णामि  प्रजाभ्यः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+with thee taken by Prajapati, I take breath for offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिगृहीतया॒ त्वया॑ प्रा॒णङ्गृ॑ह्णामि  प्रजाभ्यः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑तिगृहीत॒येति॑ प्र॒जाप॑ति-गृ॒ही॒त॒या॒ । त्वया॑ । प्रा॒णमिति॑ प्र-अ॒नम् । गृ॒ह्णा॒मि॒ । प्र॒जाभ्य॒ इति॑ प्र-जाभ्यः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -194,12 +294,22 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 त्रिष्टु᳓ग्ग्रैष्मी᳓ +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+This one on the right, the all-worker; his, the all-worker's, mind; summer born of mind; the Tristubh born of summer;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यन्द॑क्षि॒णा वि॒श्वक॑र्मा +++(असि)+++ ।  
 तस्य॒ मनो॑ वैश्वकर्म॒णम् +++( असि)+++ ।  
 ग्री॒ष्मो मा॑न॒सः +++( असि)+++ ।  
 त्रि॒ष्टुग्ग्रै॒ष्मी +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । द॒क्षि॒णा । वि॒श्वक॒र्मेति॑ वि॒श्व-क॒र्मा॒ । तस्य॑ । मनः॑ । वै॒श्व॒क॒र्म॒णमिति॑ वैश्व-क॒र्म॒णम् । ग्री॒ष्मः । मा॒न॒सः । त्रि॒ष्टुक् । ग्रै॒ष्मी ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -220,6 +330,11 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 प्रजा᳓पतिगृहीतया त्व᳓या म᳓नः [2]  गृह्णामि᳓  प्र᳓जा᳓भ्यः᳓ ॥  
 </details>
 
+<details><summary>Keith</summary>
+
+from the Tristubh the Aida (Saman); from the Aida the Antaryama (cup); from the Antaryama the fifteenfold (Stoma); from the fifteenfold the Brhat; from the Brhat Bharadvaja, the Rsi; with thee taken by Prajapati, I take mind for offspring [1].
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि॒ष्टुभ॑ ऐ॒डम् +++( असि)+++ ।  
@@ -229,6 +344,11 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 बृ॑ह॒तो भ॒रद्वा॑ज॒ ऋषि॑ः  +++( असि)+++ ।  
 
 प्र॒जाप॑तिगृहीतया॒ त्वया॒ मनः॑ [2]  गृ॒ह्णा॒मि  प्रजाभ्यः ॥  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रि॒ष्टुभः॑ । ऐ॒डम् । ऐ॒डात् । अ॒न्त॒र्या॒म इत्य॑न्तः-या॒मः । अ॒न्त॒र्या॒मादित्य॑न्तः-या॒मात् । प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः । प॒ञ्च॒द॒शादिति॑ पञ्च-द॒शात् । बृ॒हत् । बृ॒ह॒तः । भ॒रद्वा॑जः । ऋषिः॑ । प्र॒जाप॑तिगृहीत॒येति॑ प्र॒जाप॑ति-गृ॒ही॒त॒या॒ । त्वया॑ । मनः॑ । गृ॒ह्णा॒मि॒ । प्र॒जाभ्य॒ इति॑ प्र-जाभ्यः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -248,11 +368,21 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 व्वर्षा᳓णि चाक्षुषा᳓णि᳓ +++( असि)+++ ।   
 </details>
 
+<details><summary>Keith</summary>
+
+This one behind, the all-extending; his, the all-extending's, eye; the rains born of the eye;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यम्प॒श्चाद्वि॒श्वव्य॑चाः  +++( असि)+++ ।   
 तस्य॒ चक्षु॑र्वैश्वव्यच॒सम् +++( असि)+++ ।     
 व्व॒र्षाणि॑ चाक्षु॒षाणि +++( असि)+++ ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । प॒श्चात् । वि॒श्वव्य॑चा॒ इति॑ वि॒श्व-व्य॒चाः॒ । तस्य॑ । चक्षुः॑ । वै॒श्व॒व्य॒च॒समिति॑ वैश्व-व्य॒च॒सम् । व॒र्षाणि॑ । चा॒क्षु॒षाणि॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -265,9 +395,19 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 ज᳓गती वार्षी᳓ +++( असि)+++ ।    
 </details>
 
+<details><summary>Keith</summary>
+
+the Jagati born of the rains;
+</details>
+
 <details><summary>मूलम्</summary>
 
 जग॑ती वा॒र्षी +++( असि)+++ ।    
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जग॑ती । वा॒र्षी ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -286,6 +426,11 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 प्रजा᳓पतिगृहीतया त्व᳓या च᳓क्षुर्गृह्णामि  प्रजाभ्यः ।
 </details>
 
+<details><summary>Keith</summary>
+
+from the Jagati the Rksama (Saman); from the Rksama the Śukra (cup); from the Śukra the seventeenfold (Stoma); from the seventeenfold the Vairupa; from the Vairupa Viśvamitra, the Rsi; with thee taken by Prajapati, I take the eye for my offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जग॑त्या॒ ऋक्ष॑म् +++( असि)+++ ।     
@@ -295,6 +440,11 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 
 वै॒रू॒पाद्वि॒श्वामि॑त्र॒ ऋषि॑ः +++( असि)+++ ।    
 प्र॒जाप॑तिगृहीतया॒ त्वया॒ चक्षु॑र्गृह्णामि  प्रजाभ्यः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जग॑त्याः । ऋक्ष॑मम् । ऋक्ष॑मात् । शु॒क्रः । शु॒क्रात् । स॒प्त॒द॒श इति॑ सप्त-द॒शः । स॒प्त॒द॒शादिति॑ सप्त-द॒शात् । वै॒रू॒पम् । वै॒रू॒पात् । वि॒श्वामि॑त्र॒ इति॑ वि॒श्व-मि॒त्रः॒ । ऋषिः॑ । प्र॒जाप॑तिगृहीत॒येति॑ प्र॒जाप॑ति-गृ॒ही॒त॒या॒ । त्वया॑ । चक्षुः॑ । गृ॒ह्णा॒मि॒ । प्र॒जाभ्य॒ इति॑ प्र-जाभ्यः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -315,12 +465,22 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 श्रौत्र्य᳙नुष्टु᳓प् +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+This one on the left, the light; his, the light's, ear; the autumn born of the ear; the Anustubh connected with the autumn;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒दमु॑त्त॒रात्सुवः॑ +++( असि)+++ ।  
 तस्य॒ श्रोत्र॑म् +++( असि)+++ ।  
 सौ॒वँ श॒रत् +++( असि)+++ ।  
 श्रौ॒त्र्य॑नु॒ष्टुप् +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒दम् । उ॒त्त॒रादित्यु॑त्-त॒रात् । सुवः॑ । तस्य॑ । श्रोत्र॑म् । सौ॒वम् । श॒रत् । श्रौ॒त्री । अ॒नु॒ष्टुबित्य॑नु-स्तुप् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -339,6 +499,11 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 प्रजा᳓पतिगृहीतया [3]  त्वया श्रो᳓त्रङ्गृह्णामि प्रजाभ्यः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+from the Anustubh the Svara (Saman); from the Svara the Manthin (cup); from the Manthin the twenty-onefold (Stoma); from the twenty-onefold the Vairaja; from the Vairaja Jamadagni, the Rsi; with thee taken by Prajapati [2], I take the ear for offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शा॒र॒द्य॑नु॒ष्टुभ॑स्स्वा॒रम् +++( असि)+++ ।  
@@ -347,6 +512,11 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 ए॒क॒विँ॒शाद्वै॑रा॒जम् +++( असि)+++ ।  
 वै॒रा॒जाज्ज॒मद॑ग्निर्ऋषि॑ः +++( असि)+++ ।  
 प्र॒जाप॑तिगृहीतया [3]  त्वया॒ श्रोत्र॑ङ्गृह्णामि प्रजाभ्यः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शा॒र॒दी । अ॒नु॒ष्टुभ॒ इत्य॑नु-स्तुभः॑ । स्वा॒रम् । स्वा॒रात् । म॒न्थी । म॒न्थिनः॑ । ए॒क॒विँ॒श इत्ये॑क-विँ॒शः । ए॒क॒विँ॒शादित्ये॑क-विँ॒शात् । वै॒रा॒जम् । वै॒रा॒जात् । ज॒मद॑ग्निः । ऋषिः॑ । प्र॒जाप॑तिगृहीत॒येति॑ प्र॒जाप॑ति-गृ॒ही॒त॒या॒ । त्वया॑ । श्रोत्र॑म् । गृ॒ह्णा॒मि॒ । प्र॒जाभ्य॒ इति॑ प्र-जाभ्यः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -368,12 +538,22 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 पङ्क्ति᳓र् हैमन्ती᳓ +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+This one above, thought; his, thought's, speech; the winter born of speech; the Pankti born of winter;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒यमु॒परि॑ म॒तिः +++( असि)+++ ।  
 तस्यै॒ वाङ् मा॒ती +++( असि)+++ ।  
 हे॒म॒न्तो वा॑च्याय॒नः +++( असि)+++ ।  
 प॒ङ्क्तिर् है॑म॒न्ती +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒यम् । उ॒परि॑ । म॒तिः । तस्यै॑ । वाक् । मा॒ती । हे॒म॒न्तः । वा॒च्या॒य॒नः । प॒ङ्क्तिः । है॒म॒न्ती ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -397,6 +577,11 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 प्रजा᳓पतिगृहीतया त्व᳓या वा᳓चङ्गृह्णामि प्रजाभ्यः ॥ [4]  
 </details>
 
+<details><summary>Keith</summary>
+
+from the Pankti that which has finales; from that which has finales the Agrayana (cup); from the Agrayana the twenty-sevenfold and the thirty-threefold (Stomas); from the twenty-sevenfold and the thirty-threefold the Śakvara and Raivata; from the Śakvara and Raivata Viśvakarman, the Rsi; with thee taken by Prajapati, I take speech for offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒ङ्क्त्यै नि॒धन॑वत् +++( असि)+++ ।  
@@ -406,6 +591,11 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 त्रि॒ण॒व॒त्रिँ॒शाभ्याँ॑शाक्वररैव॒ते  +++( असि)+++ ।  
 शा॒क्व॒र॒ रै॒व॒ताभ्याव्ँ॑वि॒श्वक॒र्मर्षि॑ः +++( असि)+++ ।  
 प्र॒जाप॑तिगृहीतया॒ त्वया॒ वाच॑ङ्गृह्णामि प्रजाभ्यः ॥ [4]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒ङ्क्त्यै । नि॒धन॑व॒दिति॑ नि॒धन॑-व॒त् । नि॒धन॑वत॒ इति॑ नि॒धन॑-व॒तः॒ । आ॒ग्र॒य॒णः । आ॒ग्र॒य॒णात् । त्रि॒ण॒व॒त्र॒य॒स्त्रिँ॒शाविति॑ त्रिणव-त्र॒य॒स्त्रिँ॒शौ । त्रि॒ण॒व॒त्र॒य॒स्त्रिँ॒शाभ्या॒मिति॑ त्रिणव-त्र॒य॒स्त्रिँ॒शाभ्या॑म् । शा॒क्व॒र॒रै॒व॒ते इति॑ शाक्वर-रै॒व॒ते । शा॒क्व॒र॒रै॒व॒ताभ्या॒मिति॑ शाक्वर-रै॒व॒ताभ्या॑म् । वि॒श्वक॒र्मेति॑ वि॒श्व-क॒र्मा॒ । ऋषिः॑ । प्र॒जाप॑तिगृहीत॒येति॑ प्र॒जाप॑ति-गृ॒ही॒त॒या॒ । त्वया॑ । वाच॑म् । गृ॒ह्णा॒मि॒ । प्र॒जाभ्य॒ इति॑ प्र-जाभ्यः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

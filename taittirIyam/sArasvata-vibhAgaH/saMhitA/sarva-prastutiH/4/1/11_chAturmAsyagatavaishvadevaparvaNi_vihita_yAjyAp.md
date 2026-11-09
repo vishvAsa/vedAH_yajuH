@@ -24,12 +24,28 @@ title = "११ चातुर्मास्यगतवैश्वदेव�
 ता᳓भिर्नोऽविता᳓ भव ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, that sacrifice, that offering,  
+Which on all sides thou dost encircle,  
+It of a truth goeth to the gods.
+
+O Soma, the wondrous aids  
+That there are of thine for the generous man,  
+With these be thou our helper.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॒ यय्ँ य॒ज्ञम॑ध्व॒रव्ँवि॒श्वतᳶ॑ परि॒भूरसि॑ ।  
 स इद्दे॒वेषु॑ गच्छति ।  
 सोम॒ यास्ते॑ मयो॒भुव॑ ऊ॒तय॒स्सन्ति॑ दा॒शुषे॑ ।  
 ताभि॑र्नोऽवि॒ता भ॑व ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । यम् । य॒ज्ञम् । अ॒ध्व॒रम् । वि॒श्वतः॑ । प॒रि॒भूरिति॑ परि-भूः । असि॑ ॥ सः । इत् । दे॒वेषु॑ । ग॒च्छ॒ति॒ ॥ सोम॑ । याः । ते॒ । म॒यो॒भुव॒ इति॑ मयः-भुवः॑ । ऊ॒तयः॑ । सन्ति॑ । दा॒शुषे॑ ॥ ताभिः॑ । नः॒ । अ॒वि॒ता । भ॒व॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -44,9 +60,19 @@ title = "११ चातुर्मास्यगतवैश्वदेव�
 अग्नि᳓र्मूर्धा᳓ भु᳓वः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Agni the, head. Be.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्मू॒र्धा भुवः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । मू॒र्धा । भुवः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -82,9 +108,19 @@ title = "११ चातुर्मास्यगतवैश्वदेव�
 त्व᳓न्नस्सोम या᳓ ते धा᳓मानि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou, O Soma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वन्न॑स्सोम॒ या ते॒ धामा॑नि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । नः॒ । सो॒म॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -103,9 +139,19 @@ title = "११ चातुर्मास्यगतवैश्वदेव�
 या᳓ ते धा᳓मानि ।
 </details>
 
+<details><summary>Keith</summary>
+
+These abodes of thine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 या ते॒ धामा॑नि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+या । ते॒ । धामा॑नि ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -125,7 +171,7 @@ title = "११ चातुर्मास्यगतवैश्वदेव�
 अथ सावित्रं द्वादशकपालमित्येतस्य हविषः पुरोनुवाक्यामाह— तत्सवितुर्वरेण्यभिति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -914,10 +960,23 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 देवे᳓षु च सवितर्मा᳓नुषेषु च त्व᳓न्नो अ᳓त्र सुवताद᳓नागसः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+What we have done in thoughtlessness against the host divine,  
+With feeble insight, with violence as is man's way [1],  
+Among gods and men, do thou, O Savitr,  
+There instigate us to sinlessness.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अचि॑त्ती॒ यच्च॑कृ॒मा दैव्ये॒ जने॑ दी॒नैर्दक्षै॒ᳶ प्रभू॑ती पूरुष॒त्वता॑ ।  [43]  
 दे॒वेषु॑ च सवित॒र्मानु॑षेषु च॒ त्वन्नो॒ अत्र॑ सुवता॒दना॑गसः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अचि॑त्ती । यत् । च॒कृ॒म । दैव्ये॑ । जने॑ । दी॒नैः । दक्षैः॑ । प्रभू॒तीति॒ प्र-भू॒ती॒ । पू॒रु॒ष॒त्वतेति॑ पूरुष-त्वता॑ ॥ दे॒वेषु॑ । च॒ । स॒वि॒तः॒ । मानु॑षेषु । च॒ । त्वम् । नः॒ । अत्र॑ । सु॒व॒ता॒त् । अना॑गसः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -938,10 +997,22 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 यज्ञ᳓न्दधे स᳓रस्वती ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Impeller of righteousness,  
+Instigator of devotions,  
+Sarasvati hath established the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चो॒द॒यि॒त्री सू॒नृता॑ना॒ञ्चेत॑न्ती सुमती॒नाम् ।  
 य॒ज्ञन्द॑धे॒ सर॑स्वती ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चो॒द॒यि॒त्री । सू॒नृता॑नाम् । चेत॑न्ती । सु॒म॒ती॒नामिति॑ सु-म॒ती॒नाम् ॥ य॒ज्ञम् । द॒धे॒ । सर॑स्वती ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -960,10 +1031,26 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 ग्ना᳓भिर᳓च्छिद्रँ शरणँ᳓ सजो᳓षा दुराध᳓र्षङ्गृणते᳓ श᳓र्म यँसत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the maiden of the lightning, the one of varied life,  
+Sarasvati, wife of a hero, inspire our devotion;  
+In accord with the ladies, may she accord to the singer  
+Protection uninjured, and guardianship unsurpassable.  
+I May Pusan follow the cows for us,  
+May he guard our horses;  
+May Pusan win booty for us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पावी॑रवी क॒न्या॑ चि॒त्रायु॒स्सर॑स्वती वी॒रप॑त्नी॒ धिय॑न्धात् ।  
 ग्नाभि॒रच्छि॑द्रँ शर॒णँ स॒जोषा॑ दुरा॒धर्ष॑ङ्गृण॒ते शर्म॑ यँसत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पावी॑रवी । क॒न्या॑ । चि॒त्रायु॒रिति॑ चि॒त्र-आ॒युः॒ । सर॑स्वती । वी॒रप॒त्नीति॑ वी॒र-प॒त्नी॒ । धिय॑म् । धा॒त् ॥ ग्नाभिः॑ । अच्छि॑द्रम् । श॒र॒णम् । स॒जोषा॒ इति॑ स-जोषाः॑ । दु॒रा॒धर्ष॒मिति॑ दुः-आ॒धर्ष॑म् । गृ॒ण॒ते । शर्म॑ । यँ॒स॒त् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -988,10 +1075,22 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 पूषा᳓ वा᳓जँ सनोतु नः ।
 </details>
 
+<details><summary>Keith</summary>
+
+May Pusan follow the cows for us,  
+May he guard our horses ;  
+May Pusan win booty for us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पू॒षा गा अन्वे॑तु नᳶ पू॒षा र॑क्ष॒त्वर्व॑तः ।  
 पू॒षा वाजँ॑ सनोतु नः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पू॒षा । गाः । अन्विति॑ । ए॒तु॒ । नः॒ । पू॒षा । र॒क्ष॒तु॒ । अर्व॑तः ॥ पू॒षा । वाज॑म् । स॒नो॒तु॒ । नः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1012,10 +1111,23 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 वि᳓श्वा हि᳓ माया᳓ अ᳓वसि स्वधावो भद्रा᳓ ते पूषन्निह᳓ राति᳓रस्तु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Bright is part of thee, worthy of offering another [2],  
+Like day and night of various hue, like the sky art thou;  
+All magic thou dost further, O powerful one;  
+Propitious here, O Pusan, be thy bounty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शु॒क्रन्ते॑ अ॒न्यद्य॑ज॒तन्ते॑ अ॒न्यत् [44]  विषु॑रूपे॒ अह॑नी॒ द्यौरि॑वासि ।  
 विश्वा॒ हि मा॒या अव॑सि स्वधावो भ॒द्रा ते॑ पूषन्नि॒ह रा॒तिर॑स्तु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शु॒क्रम् । ते॒ । अ॒न्यत् । य॒ज॒तम् । ते॒ । अ॒न्यत् । विषु॑रूपे॒ इति॒ विषु॑-रू॒पे॒ । अह॑नी॒ इति॑ । द्यौः । इ॒व॒ । अ॒सि॒ ॥ विश्वाः॑ । हि । मा॒याः । अव॑सि । स्व॒धा॒व॒ इति॑ स्वधा-वः॒ । भ॒द्रा । ते॒ । पू॒ष॒न् । इ॒ह । रा॒तिः । अ॒स्तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1046,10 +1158,23 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 वि᳓ष्णुर्य᳓द्धा᳓वद्वृ᳓षणम्मदच्यु᳓तव्ँव᳓यो न᳓ सीदन्न᳓धि बर्हि᳓षि प्रिये᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+They grew in might with their own power;  
+They mounted the vault, they made a broad seat;  
+When Visnu helped the strong one who causeth gladness,  
+Like birds they sat on the dear strew.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते॑ऽवर्धन्त॒ स्वत॑वसो महित्व॒नाऽऽनाक॑न्त॒स्थुरु॒रु च॑क्रिरे॒ सदः॑ ।  
 विष्णु॒र्यद्धाव॒द्वृष॑णम्मद॒च्युतव्ँ॒वयो॒ न सी॑द॒न्नधि॑ ब॒र्हिषि॑ प्रि॒ये ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । अ॒व॒र्ध॒न्त॒ । स्वत॑वस॒ इति॒ स्व-त॒व॒सः॒ । म॒हि॒त्व॒नेति॑ महि-त्व॒ना । एति॑ । नाक॑म् । त॒स्थुः । उ॒रु । च॒क्रि॒रे॒ । सदः॑ ॥ विष्णुः॑ । यत् । ह॒ । आव॑त् । वृष॑णम् । म॒द॒च्युत॒मिति॑ मद-च्युत॑म् । वयः॑ । न । सी॒द॒न् । अधीति॑ । ब॒र्हिषि॑ । प्रि॒ये ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1078,6 +1203,14 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 क᳓थं᳓ ना᳓मै᳓त᳓दी᳓या᳓ य᳓ज्ञा᳓ नि᳓र्वि᳓घ्ने᳓न᳓ स᳓मा᳓प्य᳓न्त᳓ इ᳓ति᳓ प्र᳓य᳓त्नं᳓ क᳓रो᳓ति᳓ ए᳓त᳓दि᳓द᳓मि᳓ति᳓।  
 </details>
 
+<details><summary>Keith</summary>
+
+Bear ye variegated praise to the strong singer,  
+The host of the Maruts, which hath strength;  
+Who with might endure might [3],  
+For the jocund ones, O Agni, the earth shakes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र चि॒त्रम॒र्कङ्गृ॑ण॒ते तु॒राय॒ मारु॑ताय॒ स्वत॑वसे भरध्वम् ।  
@@ -1093,9 +1226,33 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 कथं नामैतदीया यज्ञा निर्विघ्नेन समाप्यन्त इति प्रयत्नं करोति एतदिदमिति।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । चि॒त्रम् । अ॒र्कम् । गृ॒ण॒ते । तु॒राय॑ । मारु॑ताय । स्वत॑वस॒ इति॒ स्व-त॒व॒से॒ । भ॒र॒ध्व॒म् ॥ ये । सहाँ॑सि । सह॑सा । सह॑न्ते । रेज॑ते । अ॒ग्ने॒ । पृ॒थि॒वी । म॒खेभ्यः॑ ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ वैश्वदेवीमामिक्षामित्येतस्मिन्हविषि याज्यानुवाक्ययोः प्रतीके दर्शयति— विश्वे देवा इति।
+
+विश्वे देवा ऋतावृध इति पुरोनुवाक्या।
+
+विश्वे देवाः शृणुतेति याज्या।  
+एतच्चोभयं नवोनवो भवतीत्येतस्मिन्ननुवाके व्याख्यातम् ।
+
+- पूर्णमन्त्रपाठः  
+  -  विश्वे॑ दे॒वा ऋ॑ता॒वृध॑ ऋ॒तुभि॑र्हवन॒श्रुतः॑ ।   
+जु॒षन्ताय्ँ॒युज्य॒म्पयः॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वे देवा᳓ वि᳓श्वे देवाः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The All-gods. O All-gods.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1103,24 +1260,42 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 विश्वे॑ दे॒वा विश्वे॑ देवाः ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+विश्वे॑ । दे॒वाः । विश्वे॑ । दे॒वाः॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ वैश्वदेवीमामिक्षामित्येतस्मिन्हविषि याज्यानुवाक्ययोः प्रतीके दर्शयति— विश्वे देवा इति।  
-विश्वे देवा ऋतावृध इति पुरोनुवाक्या।  
-विश्वे देवाः शृणुतेति याज्या।  
-एतच्चोभयं नवोनवो भवतीत्येतस्मिन्ननुवाके व्याख्यातम् ।
-
-  - पूर्णमन्त्रपाठः  
-  -  विश्वे॑ दे॒वा ऋ॑ता॒वृध॑ ऋ॒तुभि॑र्हवन॒श्रुतः॑ ।   
-जु॒षन्ताय्ँ॒युज्य॒म्पयः॑ ।
-  -  
-अथ 'वैश्वदेवीं सांग्रहणीं निर्वपेद्ग्रामकामः' इत्यस्य पुरोनुवाक्या - विश्वे देवा ऋतावृध इति गायत्री ॥ विश्वेदेवाः ऋतावृधः ऋतस्य यज्ञस्य सत्यस्य वा वर्धयितारः । ण्यन्तात्क्विप्, 'बहुलमन्यत्रापि' इति णिलुक्, 'अन्येषामपि दृश्यते' इति पूर्वपदस्य दीर्घत्वम् । हवनश्रुतः आह्वानस्य श्रोतारः आह्वानप्रयोजनस्य कर्तार इति । ह्वयतेर्लेटि 'बहुलं छन्दसि' इति संप्रसारणम् । ते ऋतुभिः कालावयवैः पर्वादिभिस्सह जुषन्तां सेवन्तां युज्यं योग्यं पयः पयसि चरुं अत एव वचनादिति ॥
-
-  - पूर्णमन्त्रपाठः  
-  - विश्वे॑ देवाश्शृणु॒तेमँ हव॑म्मे॒ ये अ॒न्तरि॑क्षे॒ य उप॒ द्यवि॒ ष्ठ ।   
-ये अ॑ग्निजि॒ह्वा उ॒त वा॒ यज॑त्रा आ॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयध्वम् ॥ [48]  
 -  
-तत्रैव याज्या - विश्वे देवाः शृणुतेति त्रिष्टुप् ॥ हे विश्वेदेवाः मे मम इमं हवमाह्वानं शृणूत । ये यूयमन्तरिक्षे स्थ, ये च उप समीपे पृथिव्यां स्थ, ये च दिवि द्युलोके स्थ, ये चाग्निजिह्वाः ये चाग्नेः जिह्वायां स्थिताः हविर्भाजः । तात्स्थ्यात्ताछब्द्यम् । यद्वा - अग्निर्जिह्वास्थानीयो येषाम् । छान्दसमन्तोदात्तत्वम् । उतवा अपिवा ये यजत्राः यजनीयाः पूजामात्रभाजः । ते सर्वेपि यूयं अस्मिन् बर्हिषि यज्ञे आसाद्य आसित्वा मादयध्वं तृप्यत । मद् तृप्तियोगे, चौरादिकः, अनुदात्तेत्, तृप्ताश्चास्माकं ग्रामं साधयतेति ॥
+अथ 'वैश्वदेवीं सांग्रहणीं निर्वपेद्ग्रामकामः' इत्यस्य पुरोनुवाक्या - विश्वे देवा ऋतावृध इति गायत्री ॥
+
+विश्वेदेवाः ऋतावृधः ऋतस्य यज्ञस्य सत्यस्य वा वर्धयितारः ।
+
+ण्यन्तात्क्विप्, 'बहुलमन्यत्रापि' इति णिलुक्, 'अन्येषामपि दृश्यते' इति पूर्वपदस्य दीर्घत्वम् ।
+
+हवनश्रुतः आह्वानस्य श्रोतारः आह्वानप्रयोजनस्य कर्तार इति ।
+
+ह्वयतेर्लेटि 'बहुलं छन्दसि' इति संप्रसारणम् ।
+
+ते ऋतुभिः कालावयवैः पर्वादिभिस्सह जुषन्तां सेवन्तां युज्यं योग्यं पयः पयसि चरुं अत एव वचनादिति ॥
+
+- पूर्णमन्त्रपाठः  
+  - विश्वे॑ देवाश्शृणु॒तेमँ हव॑म्मे॒ ये अ॒न्तरि॑क्षे॒ य उप॒ द्यवि॒ ष्ठ ।
+
+ये अ॑ग्निजि॒ह्वा उ॒त वा॒ यज॑त्रा आ॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयध्वम् ॥
+
+[48]  
+-  
+तत्रैव याज्या - विश्वे देवाः शृणुतेति त्रिष्टुप् ॥
+
+हे विश्वेदेवाः मे मम इमं हवमाह्वानं शृणूत ।
+
+ये यूयमन्तरिक्षे स्थ, ये च उप समीपे पृथिव्यां स्थ, ये च दिवि द्युलोके स्थ, ये चाग्निजिह्वाः ये चाग्नेः जिह्वायां स्थिताः हविर्भाजः । तात्स्थ्यात्ताछब्द्यम् । यद्वा - अग्निर्जिह्वास्थानीयो येषाम् । छान्दसमन्तोदात्तत्वम् । उतवा अपिवा ये यजत्राः यजनीयाः पूजामात्रभाजः ।
+
+ते सर्वेपि यूयं अस्मिन् बर्हिषि यज्ञे आसाद्य आसित्वा मादयध्वं तृप्यत ।
+
+मद् तृप्तियोगे, चौरादिकः, अनुदात्तेत्, तृप्ताश्चास्माकं ग्रामं साधयतेति ॥
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1134,10 +1309,22 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 यज्ञ᳓न्देवे᳓षु यच्छताम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May sky and earth this day  
+Place among the gods this sacrifice,  
+Successful, touching the sky.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्यावा॑ नᳶ पृथि॒वी इ॒मँ सि॒ध्रम॒द्य दि॑वि॒स्पृश॑म् ।  
 य॒ज्ञन्दे॒वेषु॑ यच्छताम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्यावा॑ । नः॒ । पृ॒थि॒वी इति॑ । इ॒मम् । सि॒ध्रम् । अ॒द्य । दि॒वि॒स्पृश॒मिति॑ दिवि-स्पृश॑म् ॥ य॒ज्ञम् । दे॒वेषु॑ । य॒च्छ॒ता॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1157,10 +1344,23 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 आ᳓ नो द्यावापृथिवी दै᳓व्येन ज᳓नेन यातम्म᳓हि वाव्ँव᳓रूथम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Bring forward the parents born of old with now songs,  
+In the seat of holy order,  
+Come to us, O sky and earth, with the host divine;  
+Great is your protection.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र पू॑र्व॒जे पि॒तरा॒ नव्य॑सीभिर्गी॒र्भिᳵ कृ॑णुध्वँ॒ सद॑ने ऋ॒तस्य॑ ।  
 आ नो॑ द्यावापृथिवी॒ दैव्ये॑न॒ जने॑न यात॒म्महि॑ वाव्ँ॒वरू॑थम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । पू॒र्व॒जे इति॑ पूर्व-जे । पि॒तरा॑ । नव्य॑सीभिः । गी॒र्भिः । कृ॒णु॒ध्व॒म् । सद॑ने इति॑ । ऋ॒तस्य॑ ॥ एति॑ । नः॒ । द्या॒वा॒पृ॒थि॒वी॒ इति॑ द्यावा-पृ॒थि॒वी॒ । दैव्ये॑न । जने॑न । या॒त॒म् । महि॑ । वा॒म् । वरू॑थम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1174,7 +1374,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 अथ तत्रैव स्विष्टकृतः पुरोनुवाक्यामाह— अग्निँ स्तोमेनेति ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/014/01_agniM_stomena.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/014/01_agniM_stomena.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1184,6 +1384,13 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Awaken Agni with the praise,  
+Kindling the immortal;  
+May he place our oblations among the gods.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/014/01_agniM_stomena.md">
 
@@ -1447,10 +1654,22 @@ Den Agni weck durch Loblied auf, entzündend den unsterblichen, Zu Göttern brin
 अग्नि᳓र्धिया᳓ स᳓मृण्वति ।
 </details>
 
+<details><summary>Keith</summary>
+
+Bearing the oblation, immortal,  
+The eager messenger, well-inclined,  
+Agni uniteth with our prayer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ह॑व्य॒वाडम॑र्त्य उ॒शिग्दू॒तश्चनो॑हितः ।  
 अ॒ग्निर्धि॒या समृ॑ण्वति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । ह॒व्य॒वाडिति॑ हव्य-वाट् । अम॑र्त्यः । उ॒शिक् । दू॒तः । चनो॑हितः ॥ अ॒ग्निः । धि॒या । समिति॑ । ऋ॒ण्व॒ति॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1463,9 +1682,19 @@ Den Agni weck durch Loblied auf, entzündend den unsterblichen, Zu Göttern brin
 श᳓न्नो भवन्तु
 </details>
 
+<details><summary>Keith</summary>
+
+Health be they.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शन्नो॑ भवन्तु
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शम् । नः॒ । भ॒व॒न्तु॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1490,9 +1719,19 @@ Den Agni weck durch Loblied auf, entzündend den unsterblichen, Zu Göttern brin
 वा᳓जेवाजे ।  
 </details>
 
+<details><summary>Keith</summary>
+
+For each prize.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाजे॑वाजे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वाजे॑वाज॒ इति॒ वाजे॑-वा॒जे॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

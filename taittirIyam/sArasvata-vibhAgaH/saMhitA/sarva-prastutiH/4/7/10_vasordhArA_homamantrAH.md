@@ -19,9 +19,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 ग᳓र्भाश्च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the embryo for me (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 गर्भा॑श्च मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गर्भाः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -34,9 +44,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 वत्सा᳓श्च मे  +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the calves for me (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 व॒त्साश्च॑ मे॒  +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒त्साः । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -50,10 +70,20 @@ title = "१० वसोर्धारा होममन्त्राः"
 त्र्यवी᳓ च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the one-and-a-half-year-old male and female (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्र्यवि॑श्च मे +++(कल्पताम्)+++ ।
 त्र्य॒वी च॑ मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्र्यवि॒रिति॑ त्रि-अविः॑ । च॒ । मे॒ । त्र्य॒वीति॑ त्रि-अ॒वी । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -66,9 +96,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 दित्यवा᳓ट्च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the two-year-old male (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒त्य॒वाट्च॑ मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒त्य॒वाडिति॑ दित्य-वाट् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -81,9 +121,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 दित्यौही᳓ च मे  +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the two-year-old female (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒त्यौ॒ही च॑ मे॒  +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒त्यौ॒ही । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -96,9 +146,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 प᳓ञ्चाविश्च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the two-and-a-half-year-old male (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 पञ्चा॑विश्च मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पञ्चा॑वि॒रिति॒ पञ्च॑-अ॒विः॒ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -111,9 +171,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 पञ्चावी᳓ च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the two-and-a-half-year-old female (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒ञ्चा॒वी च॑ मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒ञ्चा॒वीति॑ पञ्च-अ॒वी । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -126,9 +196,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 त्रिवत्स᳓श्च  मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the three-year-old male (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि॒व॒त्सश्च॑  मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रि॒व॒त्स इति॑ त्रि-व॒त्सः । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -141,9 +221,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 त्रिवत्सा᳓  च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the three-year-old female (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि॒व॒त्सा  च॑ मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रि॒व॒त्सा इति॑ त्रि-व॒त्साः । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -156,9 +246,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 तुर्यवा᳓ट्च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the four-year-old male (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 तु॒र्य॒वाट्च॑ मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तु॒र्य॒वाडिति॑ तुर्य-वाट् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -171,9 +271,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 तुर्यौही᳓ च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the four-year-old female (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 तु॒र्यौ॒ही च॑ मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तु॒र्यौ॒ही । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -186,9 +296,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 पष्ठवा᳓च्च  मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the draught ox (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒ष्ठ॒वाच्च॑  मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒ष्ठ॒वादिति॑ पष्ठ-वात् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -201,9 +321,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 पष्ठौही᳓ च  मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the draught cow (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒ष्ठौ॒ही च॑  मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒ष्ठौ॒ही । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -216,9 +346,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 उक्षा᳓ च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the bull (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒क्षा च॑ मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒क्षा । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -231,9 +371,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 वशा᳓ च  मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the cow that is barren (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 व॒शा च॑  मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒शा । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -246,9 +396,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 ऋषभ᳓श्च  मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the steer (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒ष॒भश्च॑  मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒ष॒भः । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -261,9 +421,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 वेह᳓च्च᳓ मे᳓ +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the cow that miscarries (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 वे॒हच्च मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वे॒हत् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -276,9 +446,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 अनड्वा᳓ञ्च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the bullock (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न॒ड्वाञ्च॑ मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न॒ड्वान् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -291,9 +471,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 धेनु᳓श्च मे  +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the cow prosper through the sacrifice;
+</details>
+
 <details><summary>मूलम्</summary>
 
 धे॒नुश्च॑ मे॒  +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धे॒नुः । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -313,6 +503,11 @@ title = "१० वसोर्धारा होममन्त्राः"
 वा᳓ग्यज्ञे᳓न कल्पताम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May life prosper through the sacrifice, may expiration prosper through the sacrifice, may inspiration prosper through the sacrifice, may cross-breathing prosper through the sacrifice, may the eye prosper through the sacrifice, may the ear prosper through the sacrifice, may mind prosper through the sacrifice, may speech prosper through the sacrifice;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आयु॑र्य॒ज्ञेन॑ कल्पताम्    ।     
@@ -325,6 +520,11 @@ title = "१० वसोर्धारा होममन्त्राः"
 वाग्य॒ज्ञेन॑ कल्पताम् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+आयुः॑ । य॒ज्ञेन॑ । क॒ल्प॒ता॒म् । प्रा॒ण इति॑ प्र-अ॒नः । य॒ज्ञेन॑ । क॒ल्प॒ता॒म् । अ॒पा॒न इत्य॑प-अ॒नः । य॒ज्ञेन॑ । क॒ल्प॒ता॒म् । व्या॒न इति॑ वि-अ॒नः । य॒ज्ञेन॑ । क॒ल्प॒ता॒म् । चक्षुः॑ । य॒ज्ञेन॑ । क॒ल्प॒ता॒म् । श्रोत्र॑म् । य॒ज्ञेन॑ । क॒ल्प॒ता॒म् । मनः॑ । य॒ज्ञेन॑ । क॒ल्प॒ता॒म् । वाक् । य॒ज्ञेन॑ । क॒ल्प॒ता॒म् ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 आयुरादयः प्रसिद्धाः ।   
@@ -335,9 +535,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 आत्मा᳓ यज्ञे᳓न कल्पताम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the self prosper through the sacrifice;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒त्मा य॒ज्ञेन॑ कल्पताम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒त्मा । य॒ज्ञेन॑ । क॒ल्प॒ता॒म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -351,9 +561,19 @@ title = "१० वसोर्धारा होममन्त्राः"
 यज्ञो᳓ यज्ञे᳓न कल्पताम् ॥  
 </details>
 
+<details><summary>Keith</summary>
+
+May the sacrifice prosper through the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञो य॒ज्ञेन॑ कल्पताम् ॥  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒ज्ञः । य॒ज्ञेन॑ । क॒ल्प॒ता॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

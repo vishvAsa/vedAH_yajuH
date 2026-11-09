@@ -20,10 +20,22 @@ title = "११ याज्यानुवाक्याः"
 त᳓द्वाञ्चेति प्र᳓ वीर्य᳙म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Indra and Agni, the realms of the sky  
+Ye adorn in your strength;  
+That might of yours is dear.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑ग्नी रोच॒ना दि॒वᳶ परि॒ वाजे॑षु भूषथः ।  
 तद्वा॑ञ्चेति॒ प्र वी॒र्य॑म् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्रा॑ग्नी॒ इतीन्द्र॑-अ॒ग्नी॒ । रो॒च॒ना । दि॒वः । परीति॑ । वाजे॑षु । भू॒ष॒थः॒ ॥ तत् । वा॒म् । चे॒ति॒ । प्रेति॑ । वी॒र्य॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -43,10 +55,23 @@ title = "११ याज्यानुवाक्याः"
 इरज्य᳓न्ता वसव्य᳙स्य भू᳓रेस्स᳓हस्तमा स᳓हसा वाजय᳓न्ता ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The foe shall he pierce and wealth he doth gain  
+Who worshippeth Indra and Agni, the strong ones,  
+Who rule over much wealth,  
+The most strong who with strength show their power.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्ञथ॑द्वृ॒त्रमु॒त स॑नोति॒ वाज॒मिन्द्रा॒ यो अ॒ग्नी सहु॑री सप॒र्यात् ।  
 इ॒र॒ज्यन्ता॑ वस॒व्य॑स्य॒ भूरे॒स्सह॑स्तमा॒ सह॑सा वाज॒यन्ता॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+श्ञथ॑त् । वृ॒त्रम् । उ॒त । स॒नो॒ति॒ । वाज॑म् । इन्द्रा॑ । यः । अ॒ग्नी इति॑ । सहु॑री॒ इति॒ स-हु॒री॒ । स॒प॒र्यात् ॥ इ॒र॒ज्यन्ता॑ । व॒स॒व्य॑स्य । भूरेः॑ । सह॑स्त॒मेति॒ सहः॑-त॒मा॒ । सह॑सा । वा॒ज॒यन्तेति॑ वाज-यन्ता॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -70,10 +95,23 @@ title = "११ याज्यानुवाक्याः"
 प्र᳓ सि᳓न्धुभ्यᳶ प्र᳓ गिरि᳓भ्यो महित्वा᳓ प्रे᳓न्द्राग्नी वि᳓श्वा भु᳓वना᳓त्यन्या᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Men ye surpass in the battle call,  
+Earth ye surpass, and sky,  
+The mountains and the streams (ye surpass) in greatness,  
+And, O Indra and Agni, all other worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र च॑र्ष॒णिभ्यᳶ॑ पृतना॒ हवे॑षु॒ प्र पृ॑थि॒व्या रि॑रिचाथे दि॒वश्च॑ ।  
 प्र सिन्धु॑भ्य॒ᳶ प्र गि॒रिभ्यो॑ महि॒त्वा प्रेन्द्रा॑ग्नी॒ विश्वा॒ भुव॒नात्य॒न्या ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । च॒र्ष॒णिभ्य॒ इति॑ चर्ष॒णि-भ्यः॒ । पृ॒त॒ना॒ । हवे॑षु । प्रेति॑ । पृ॒थि॒व्याः । रि॒रि॒चा॒थे॒ इति॑ । दि॒वः । च॒ ॥ प्रेति॑ । सिन्धु॑भ्य॒ इति॒ सिन्धु॑-भ्यः॒ । प्रेति॑ । गि॒रिभ्य॒ इति॑ गि॒रि-भ्यः॒ । म॒हि॒त्वेति॑ महि-त्वा । प्रेति॑ । इ॒न्द्रा॒ग्नी॒ इती॑न्द्र-अ॒ग्नी॒ । विश्वा॑ । भुव॑ना । अतीति॑ । अ॒न्या ॥ मरु॑तः । यस्य॑ । हि । क्षये॑ । पा॒थ । दि॒वः । वि॒म॒ह॒स॒ इति॑ वि-म॒ह॒सः॒ ॥ सः । सु॒गो॒पात॑म॒ इति॑ सुगो॒प-त॒मः॒ । जनः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -88,7 +126,7 @@ title = "११ याज्यानुवाक्याः"
 अथ मारुत्या आमिक्षायाः पुरोनुवाक्यामाह— मरुतो यस्य हीति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/086/01_maruto_yasya.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/086/01_maruto_yasya.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -98,6 +136,13 @@ title = "११ याज्यानुवाक्याः"
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+In whose house [1], O Maruts,  
+Ye drink, O joyous ones of the sky  
+That man hath the best of guardians.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/086/01_maruto_yasya.md">
 
@@ -371,10 +416,22 @@ In wessen Haus o Maruts ihr, des Himmels hohe Helden, trinkt, Der Mann geniesst 
 म᳓रुतश्शृणुता᳓ ह᳓वम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Either through sacrifices receiving worship,  
+Or from the prayers of the singer,  
+Do ye, O Maruts, hearken to our call.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञैर्वा॑ यज्ञवाहसो॒ विप्र॑स्य वा मती॒नाम् ।  
 मरु॑तश्शृणु॒ता हव॑म् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒ज्ञैः । वा॒ । य॒ज्ञ॒वा॒ह॒स॒ इति॑ यज्ञ-वा॒ह॒सः॒ । विप्र॑स्य । वा॒ । म॒ती॒नाम् ॥ मरु॑तः । शृ॒णु॒त । हव॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -393,10 +450,22 @@ In wessen Haus o Maruts ihr, des Himmels hohe Helden, trinkt, Der Mann geniesst 
 ते᳓ वा᳓शीमन्त इष्मि᳓णो अ᳓भीरवो विद्रे᳓ प्रिय᳓स्य मा᳓रुतस्य धा᳓म्नः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+For glory they are wreathed in flames,  
+In the rays (of the sun), adorned with rings they (are accompanied) with singers; They wearing daggers, impetuous, fearless,  
+Have found the dear home of the Maruts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रि॒यसे॒ कम्भा॒नुभि॒स्सम्मि॑मिक्षिरे॒ ते र॒श्मिभि॒स्त ऋक्व॑भिस्सुखा॒दयः॑ ।  
 ते वाशी॑मन्त इ॒ष्मिणो॒ अभी॑रवो वि॒द्रे प्रि॒यस्य॒ मारु॑तस्य॒ धाम्नः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+श्रि॒यसे॑ । कम् । भा॒नुभि॒रिति॑ भा॒नु-भिः॒ । समिति॑ । मि॒मि॒क्षि॒रे॒ । ते । र॒श्मिभि॒रिति॑ र॒श्मि-भिः॒ । ते । ऋक्व॑भि॒रित्यृक्व॑-भिः॒ । सु॒खा॒दय॒ इति॑ सु-खा॒दयः॑ ॥ ते । वाशी॑मन्त॒ इति॒ वाशि॑-म॒न्तः॒ । इ॒ष्मिणः॑ । अभी॑रवः । वि॒द्रे । प्रि॒यस्य॑ । मारु॑तस्य । धाम्नः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -409,9 +478,19 @@ In wessen Haus o Maruts ihr, des Himmels hohe Helden, trinkt, Der Mann geniesst 
 अ᳓व ते हे᳓ड ..
 </details>
 
+<details><summary>Keith</summary>
+
+Thy wrath.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अव॑ ते॒ हेड॒ ..
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अवेति॑ । ते॒ । हेडः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -437,9 +516,19 @@ In wessen Haus o Maruts ihr, des Himmels hohe Helden, trinkt, Der Mann geniesst 
 उ᳓दुत्तम᳓म् .. ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The highest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदु॑त्त॒मम् .. ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उदिति॑ । उ॒त्त॒ममित्यु॑त्-त॒मम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -460,7 +549,7 @@ In wessen Haus o Maruts ihr, des Himmels hohe Helden, trinkt, Der Mann geniesst 
 अथ कायमेककपालमित्यस्य पुरोनुवाक्यामाह— कया नश्र्वित्र इति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -471,6 +560,13 @@ In wessen Haus o Maruts ihr, des Himmels hohe Helden, trinkt, Der Mann geniesst 
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+With what aid will he come to us,  
+Our wondrous, ever-waxing, friend?  
+With what most potent aid [2]?
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/031/01_kayA_nashchitra.md">
 
@@ -738,10 +834,23 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 आस᳓न्निषून्हृत्स्व᳓सो मयोभू᳓न्य᳓ एषाम्भृत्या᳓मृण᳓धत्स᳓ जीवात् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Who to-day yoketh to the pole of holy order  
+The oxen, eager, of keen spirits, the furious,  
+With darts in their mouths, heart-piercing, healthful?  
+He who attaineth their service shall live.
+</details>
+
 <details><summary>मूलम्</summary>
 
 को अ॒द्य यु॑ङ्क्ते धु॒रि गा ऋ॒तस्य॒ शिमी॑वतो भा॒मिनो॑ दुर्हृणा॒यून् ।  
 आ॒सन्नि॑षून्हृ॒त्स्वसो॑ मयो॒भून्य ए॑षाम्भृ॒त्यामृ॒णध॒त्स जी॑वात् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कः । अ॒द्य । यु॒ङ्क्ते॒ । धु॒रि । गाः । ऋ॒तस्य॑ । शिमी॑वतः । भा॒मिनः॑ । दु॒र्हृ॒णा॒यूनिति॑ दुः-हृ॒णा॒यून् ॥ आ॒सन्नि॑षू॒नित्या॒सन्न्-इ॒षू॒न् । हृ॒त्स्वस॒ इति॑ हृत्सु-असः॑ । म॒यो॒भूनिति॑ मयः-भून् । यः । ए॒षा॒म् । भृ॒त्याम् । ऋ॒णध॑त् । सः । जी॒वा॒त् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -754,9 +863,19 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 अ᳓ग्ने न᳓य
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, lead.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॒ नय॑
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । नय॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -780,9 +899,19 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 आ᳓ देवा᳓ना᳓म्
 </details>
 
+<details><summary>Keith</summary>
+
+Of the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ दे॒वानाम्
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । दे॒वाना॑म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -809,10 +938,20 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 वा᳓जेवाजे ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May they be prosperous for us
+</details>
+
 <details><summary>मूलम्</summary>
 
 शन्नो॑ भवन्तु॒ ..
 वाजे॑वाजे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शम् । नः॒ । भ॒व॒न्तु॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -833,9 +972,19 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 वा᳓जेवाजे ..  
 </details>
 
+<details><summary>Keith</summary>
+
+In every contest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाजे॑वाजे ..  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वाजे॑वाज॒ इति॒ वाजे॑-वा॒जे॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -860,10 +1009,22 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 ग᳓र्भे स᳓ञ्जायसे पु᳓नः ।
 </details>
 
+<details><summary>Keith</summary>
+
+In the waters, O Agni, is thy seat,  
+Thou enterest the plants;  
+Being in the germ thou art born again.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒प्स्व॑ग्ने॒ सधि॒ष्टव॒ सौष॑धी॒रनु॑ रुध्यसे ।  
 गर्भे॒ सञ्जा॑यसे॒ पुनः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒प्स्वित्य॑प्-सु । अग्ने॑ । सधिः॑ । तव॑ । सः । ओष॑धीः । अन्विति॑ । रु॒ध्य॒से॒ ॥ गर्भे॑ । सन् । जा॒य॒से॒ । पुनः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -876,7 +1037,7 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 अथ द्वितीयाज्यभागस्य पुरोनुवाक्यामाह- वृपा सोम द्युमामिति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/064/01_vRShA_soma.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/064/01_vRShA_soma.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -886,6 +1047,13 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Thou art strong, O Soma, and bright;  
+Thou art strong, O god, and strong thy rule;  
+Strong laws dost thou establish.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/064/01_vRShA_soma.md">
 
@@ -1150,9 +1318,19 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 इम᳓म्मे वरुण ..
 </details>
 
+<details><summary>Keith</summary>
+
+This for me, O Varuna.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मम्मे॑ वरुण ..
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒मम् । मे॒ । व॒रु॒ण॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1171,9 +1349,19 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 त᳓त्त्वा यामि ..
 </details>
 
+<details><summary>Keith</summary>
+
+That of thine I approach.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्त्वा॑ यामि ..
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तत् । त्वा॒ । या॒मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1193,9 +1381,19 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 त्व᳓न्नो अग्ने  ...
 </details>
 
+<details><summary>Keith</summary>
+
+Thou, O Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वन्नो॑ अग्ने॒  ...
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । नः॒ । अ॒ग्ने॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1215,9 +1413,19 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 स᳓ त्व᳓न्नो अग्ने ॥ [48]  
 </details>
 
+<details><summary>Keith</summary>
+
+Do thou to us, O Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स त्वन्नो॑ अग्ने ॥ [48]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । त्वम् । नः॒ । अ॒ग्ने॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

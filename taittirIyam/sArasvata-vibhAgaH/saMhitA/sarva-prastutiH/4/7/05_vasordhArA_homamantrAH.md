@@ -29,6 +29,11 @@ title = "०५ वसोर्धारा होममन्त्राः"
 त्र᳓पुश्च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me the stone, clay, hills, mountains, sand, trees, gold, bronze, lead, tin (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 अश्मा॑ च मे॒  +++(कल्पताम्)+++ ।  
@@ -43,6 +48,11 @@ title = "०५ वसोर्धारा होममन्त्राः"
 त्रपु॑श्च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अश्मा॑ । च॒ । मे॒ । मृत्ति॑का । च॒ । मे॒ । गि॒रयः॑ । च॒ । मे॒ । पर्व॑ताः । च॒ । मे॒ । सिक॑ताः । च॒ । मे॒ । वन॒स्पत॑यः । च॒ । मे॒ । हिर॑ण्यम् । च॒ । मे॒ । अयः॑ । च॒ । मे॒ । सीस॑म् । च॒ । मे॒ । त्रपु॑ । च॒ । मे॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अश्मादयः प्रसिद्धाः।  
@@ -53,9 +63,19 @@ title = "०५ वसोर्धारा होममन्त्राः"
 श्याम᳓ञ्च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me iron (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्या॒मञ्च॑ मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+श्या॒मम् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -68,9 +88,19 @@ title = "०५ वसोर्धारा होममन्त्राः"
 लोह᳓ञ्च मे  +++(कल्पताम्)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+May for me copper (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 लो॒हञ्च॑ मे॒  +++(कल्पताम्)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+लो॒हम् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -88,6 +118,11 @@ title = "०५ वसोर्धारा होममन्त्राः"
 अकृष्टपच्य᳓ञ्च  मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me fire, water, roots, plants, what grows on ploughed land, what grows on unploughed land (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निश्च॑ मे॒  +++(कल्पताम्)+++ ।  
@@ -96,6 +131,11 @@ title = "०५ वसोर्धारा होममन्त्राः"
 ओष॑धयश्च मे +++(कल्पताम्)+++ ।  
 कृ॒ष्ट॒प॒च्यञ्च॑  मे॒ +++(कल्पताम्)+++ ।
 अ॒कृ॒ष्ट॒प॒च्यञ्च॑  मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । च॒ । मे॒ । आपः॑ । च॒ । मे॒ । वी॒रुधः॑ । च॒ । मे॒ । ओष॑धयः । च॒ । मे॒ । कृ॒ष्ट॒प॒च्यमिति॑ कृष्ट-प॒च्यम् । च॒ । मे॒ । अ॒कृ॒ष्ट॒प॒च्यमित्य॑कृष्ट-प॒च्यम् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -110,11 +150,21 @@ title = "०५ वसोर्धारा होममन्त्राः"
 पश᳓व आरण्या᳓श्च यज्ञे᳓न कल्पन्ताम्
 </details>
 
+<details><summary>Keith</summary>
+
+May tame and wild cattle prosper for me through the sacrifice;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्रा॒म्याश्च॑ प॒शवो॑ मे +++( य॒ज्ञेन॑ कल्पन्ताम्)+++ ।  
 
 प॒शव॑ आर॒ण्याश्च॑ य॒ज्ञेन॑ कल्पन्ताम्
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ग्रा॒म्याः । च॒ । मे॒ । प॒शवः॑ । आ॒र॒ण्याः । च॒ । य॒ज्ञेन॑ । क॒ल्प॒न्ता॒म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -127,9 +177,19 @@ title = "०५ वसोर्धारा होममन्त्राः"
 ्वित्त᳓ञ्च मे  +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me wealth (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 ्वि॒त्तञ्च॑ मे॒  +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒त्तम् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -142,9 +202,19 @@ title = "०५ वसोर्धारा होममन्त्राः"
 वि᳓त्तिश्च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me gaining wealth (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 वित्ति॑श्च मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वित्तिः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -157,9 +227,19 @@ title = "०५ वसोर्धारा होममन्त्राः"
 भूत᳓ञ्च मे  +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me attainment (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 भू॒तञ्च॑ मे॒  +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भू॒तम् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -172,9 +252,19 @@ title = "०५ वसोर्धारा होममन्त्राः"
 भू᳓तिश्च मे  +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me attaining (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 भूति॑श्च मे॒  +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भूतिः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -187,9 +277,19 @@ title = "०५ वसोर्धारा होममन्त्राः"
 व᳓सु च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me riches (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 वसु॑ च मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वसु॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -202,9 +302,19 @@ title = "०५ वसोर्धारा होममन्त्राः"
 वसति᳓श्च  मे  +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me dwelling (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 व॒स॒तिश्च॑  मे॒  +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒स॒तिः । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -217,9 +327,19 @@ title = "०५ वसोर्धारा होममन्त्राः"
 क᳓र्म च मे  +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me act (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 कर्म॑ च मे॒  +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कर्म॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -232,9 +352,19 @@ title = "०५ वसोर्धारा होममन्त्राः"
 श᳓क्तिश्च मे᳓ +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me power (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 शक्ति॑श्च॒ मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शक्तिः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -247,9 +377,19 @@ title = "०५ वसोर्धारा होममन्त्राः"
 अ᳓र्थश्च मे  +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me aim (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 अर्थ॑श्च मे॒  +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अर्थः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -262,9 +402,19 @@ title = "०५ वसोर्धारा होममन्त्राः"
 ए᳓मश्च मे  +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me strength (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 एम॑श्च मे॒  +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एमः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -277,9 +427,19 @@ title = "०५ वसोर्धारा होममन्त्राः"
 इ᳓तिश्च मे  +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me moving (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 इति॑श्च मे॒  +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इतिः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -292,9 +452,19 @@ title = "०५ वसोर्धारा होममन्त्राः"
 ग᳓तिश्च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me going prosper through the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गति॑श्च मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गतिः॑ । च॒ । मे॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

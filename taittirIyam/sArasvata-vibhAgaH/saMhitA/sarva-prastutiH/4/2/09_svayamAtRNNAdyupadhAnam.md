@@ -47,6 +47,11 @@ Well wrought by Viśvakarman;
 ध्रु॒वासि॑ ध॒रुणास्तृ॑ता वि॒श्वक॑र्मणा॒ सुकृ॑ता ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ध्रु॒वा । अ॒सि॒ । ध॒रुणा॑ । अस्तृ॑ता । वि॒श्वक॑र्म॒णेति॑ वि॒श्व-क॒र्म॒णा॒ । सुकृ॒तेति॒ सु-कृ॒ता॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे स्वयमातृण्णे त्वं ध्रुवा स्थिराऽसि ।  
@@ -72,6 +77,11 @@ Unshaking do thou make firm the earth.
 
 मा त्वा॑ समु॒द्र उद्व॑धी॒त् मा सु॑प॒र्णो  
 ऽव्य॑थमाना पृथि॒वीन्दृँ॑ह ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मा । त्वा॒ । स॒मु॒द्रः । उदिति॑ । व॒धी॒त् । मा । सु॒प॒र्ण इति॑ सु-प॒र्णः । अव्य॑थमाना । पृ॒थि॒वीम् । दृँ॒ह॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -109,6 +119,11 @@ May Prajapati seat thee on the back of earth, capacious, extending;
 प्र॒जाप॑तिस्त्वा सादयतु पृथि॒व्याᳶ पृ॒ष्ठे व्यच॑स्वती॒म्प्रथ॑स्वतीम् ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । त्वा॒ । सा॒द॒य॒तु॒ । पृ॒थि॒व्याः । पृ॒ष्ठे । व्यच॑स्वतीम् । प्रथ॑स्वतीम् ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे स्वयमातृण्णे प्रजापतिस्त्वामस्मिन्र्पदेशे पृथिव्या उपरि सादयतु ।  
@@ -140,6 +155,11 @@ thou art extent, thou art earth, thou art the world, thou art the earth, thou ar
 विश्व॑स्य॒ भुव॑नस्य ध॒र्त्री +++(असि)+++ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्रथः॑ । अ॒सि॒ । पृ॒थि॒वी । अ॒सि॒ । भूः । अ॒सि॒ । भूमिः॑ । अ॒सि॒ । अदि॑तिः । अ॒सि॒ । वि॒श्वधा॑या॒ इति॑ वि॒श्व-धा॒याः॒ । विश्व॑स्य । भुव॑नस्य । ध॒र्त्री ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 किंच प्रथोऽसि अस्याश्चितेः प्रथनं विस्ताररूपमसि ।  
@@ -165,6 +185,11 @@ sustain the earth,
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒वीय्ँय॑च्छ ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पृ॒थि॒वीम् । य॒च्छ॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -194,6 +219,11 @@ for support [1], for motion;
 विश्व॑स्मै प्रा॒णाया॑पा॒नाय॑ व्या॒नायो॑दा॒नाय॑ प्रति॒ष्ठायै॑ [36]  च॒रित्रा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पृ॒थि॒वीम् । दृँ॒ह॒ । पृ॒थि॒वीम् । मा । हिँ॒सीः॒ । विश्व॑स्मै । प्रा॒णायेति॑ प्र-अ॒नाय॑ । अ॒पा॒नायेत्य॑प-अ॒नाय॑ । व्या॒नायेति॑ वि-अ॒नाय॑ । उ॒दा॒नायेत्यु॑त्-अ॒नाय॑ । प्र॒ति॒ष्ठाया॒ इति॑ प्रति-स्थायै॑ । च॒रित्रा॑य ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 पृथिवीं दृंह दृढी कुरु ।  
@@ -201,9 +231,18 @@ for support [1], for motion;
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विश्व᳓स्मै प्रा॒णाया॑पा॒नाय॑ व्या॒नायो॑दा॒नाय॑ प्रति॒ष्ठायै॑ चरि॒त्राय॑ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+for all expiration, cross-breathing, up-breathing, for support [1], for motion;
 </details>
 
 <details><summary>मूलम्</summary>
+
+विश्व॑स्मै प्रा॒णाया॑पा॒नाय॑ व्या॒नायो॑दा॒नाय॑ प्रति॒ष्ठायै॑ चरि॒त्राय॑ ।  
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -226,6 +265,11 @@ may Agni protect thee with great prosperity, with most auspicious covering;
 अ॒ग्निस्त्वा॒भि पा॑तु म॒ह्या स्व॒स्त्या छ॒र्दिषा॒ शन्त॑मेन
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । त्वा॒ । अ॒भीति॑ । पा॒तु॒ । म॒ह्या । स्व॒स्त्या । छ॒र्दिषा॑ । शन्त॑मे॒नेति॒ शम्-त॒मे॒न॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 प्राणिन-मेतस्य सर्वस्य सिद्ध्यर्थमयमग्निस्त्वामभितः पातु ।  
@@ -244,6 +288,11 @@ with that deity, in the manner of Angiras, do thou sit firm.
 <details><summary>मूलम्</summary>
 
 तया॑ दे॒वत॑याङ्गिर॒स्वद्ध्रु॒वा सी॑द ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तया॑ । दे॒वत॑या । अ॒ङ्गि॒र॒स्वत् । ध्रु॒वा । सी॒द॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -273,7 +322,7 @@ with that deity, in the manner of Angiras, do thou sit firm.
 कल्पः—“काण्डात्काण्डात्प्ररोहन्तीति द्वाभ्यां दूर्वेष्टकाम्” इति।   उपदध्या दित्यनुवर्तते।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/20_kANDAtkANDAtprarohantI_paruShaHparuShaspari.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/20_kANDAtkANDAtprarohantI_paruShaHparuShaspari.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -365,7 +414,7 @@ With a thousand, a hundred.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/21_yA_shatena.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/21_yA_shatena.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -453,6 +502,11 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 अषा॑ढासि॒ सह॑माना॒ सह॒स्वारा॑ती॒स्सह॑स्वारातीय॒तः
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अषा॑ढा । अ॒सि॒ । सह॑माना । सह॑स्व । अरा॑तीः । सह॑स्व । अ॒रा॒ती॒य॒तः ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 उखानिर्माणकाल एव येयमिष्टका निर्मिता सेयमषाढा ।   तथा च सूत्रकारेणोक्तम् “य उखां करोति सोऽषाढामेतस्या एव मृदस्तूष्णीं चतुरस्रां त्र्यालिखितामिष्टकाम्” इति ।   हे इष्टके त्वमषाढा केनाप्यपरिभूता सहमाना विरोधिनः परिभव ।  
@@ -471,10 +525,20 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 **स᳓हस्व** पृतन्यतः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Overcome the foe, overcome the foemen;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सह॑स्व॒ पृत॑ना॒ः
 सह॑स्व पृतन्य॒तः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सह॑स्व । पृत॑नाः । सह॑स्व । पृ॒त॒न्य॒तः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -489,10 +553,20 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 सा᳓ मा जिन्व ।
 </details>
 
+<details><summary>Keith</summary>
+
+of a thousandfold strength [2] art thou; do thou inspirit me.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒हस्र॑वीर्या [37]  अ॒सि॒
 सा मा॑ जिन्व ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒हस्र॑वी॒र्येति॑ स॒हस्र॑-वी॒र्या॒ । अ॒सि॒ । सा । मा॒ । जि॒न्व॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -517,10 +591,22 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 मा᳓ध्वीर्नस्सन्त्वो᳓षधीः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+To the pious the winds pour honey,  
+The streams honey;  
+Be sweet to us the plants.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मधु॒ वाता॑ ऋताय॒ते मधु॑ क्षरन्ति॒ सिन्ध॑वः ।  
 माध्वी॑र्नस्स॒न्त्वोष॑धीः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मधु॑ । वाताः॑ । ऋ॒ता॒य॒त इत्यृ॑त-य॒ते । मधु॑ । क्ष॒र॒न्ति॒ । सिन्ध॑वः ॥ माध्वीः॑ । नः॒ । स॒न्तु॒ । ओष॑धीः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -539,10 +625,22 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 म᳓धु द्यौ᳓रस्तु नᳶ पिता᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Sweet is the night, and sweet  
+At dawn the air of earth,  
+Sweet be the sky, our father.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मधु॒ नक्त॑मु॒तोषसि॒ मधु॑म॒त्पार्थि॑वँ॒ रजः॑।  
 मधु॒ द्यौर॑स्तु नᳶ पि॒ता ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मधु॑ । नक्त॑म् । उ॒त । उ॒षसि॑ । मधु॑म॒दिति॒ मधु॑-म॒त् । पार्थि॑वम् । रजः॑ ॥ मधु॑ । द्यौः । अ॒स्तु॒ । नः॒ । पि॒ता ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -555,7 +653,7 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 अथ तृतीयामाह—  १९४६ मबुमान्न इति ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -565,6 +663,13 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Sweet to us be the lord of the forest,  
+Sweet the sun,  
+Sweet be the cows to us.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
 
@@ -830,10 +935,22 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 पिपृता᳓न्नो भ᳓रीमभिः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the two great ones, sky and earth,  
+Mingle for us this sacrifice;  
+May they sustain us with support.
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒ही द्यौᳶ पृ॑थि॒वी च॑ न इ॒मय्ँ य॒ज्ञम्मि॑मिक्षताम् ।  
 पि॒पृ॒तान्नो॒ भरी॑मभिः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒ही । द्यौः । पृ॒थि॒वी । च॒ । नः॒ । इ॒मम् । य॒ज्ञम् । मि॒मि॒क्ष॒ता॒म् ॥ पि॒पृ॒ताम् । नः॒ । भरी॑मभि॒रिति॒ भरी॑म-भिः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -870,10 +987,22 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 दिवी᳓व च᳓क्षुरा᳓ततम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+That highest step of Visnu [3]  
+The singers ever gaze upon  
+Like an eye stretched in the sky.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद्विष्णोः॑ पर॒मम् [38]  प॒दँ सदा॑ पश्यन्ति सू॒रयः॑ ।  
 दि॒वीव॒ चक्षु॒रात॑तम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तत् । विष्णोः॑ । प॒र॒मम् । प॒दम् । सदा॑ । प॒श्य॒न्ति॒ । सू॒रयः॑ ॥ दि॒वि । इ॒व॒ । चक्षुः॑ । आत॑त॒मित्या-त॒त॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -893,10 +1022,22 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 स्यूता᳓ देवे᳓भिरमृ᳓तेना᳓गाः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art firm, O earth,  
+Overcome the foemen;  
+Fashioned by the gods hast thou come with ambrosia.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ध्रु॒वासि॑ पृथिवि॒ सह॑स्व पृतन्य॒तः ।  
 स्यू॒ता दे॒वेभि॑र॒मृते॒नागाः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ध्रु॒वा । अ॒सि॒ । पृ॒थि॒वि॒ । सह॑स्व । पृ॒त॒न्य॒तः ॥ स्यू॒ता । दे॒वेभिः॑ । अ॒मृते॑न । एति॑ । अ॒गाः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -920,10 +1061,22 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 ता᳓भिस्स᳓र्वाभी रुचे᳓ ज᳓नाय नस्कृधि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Those beams of thine, O Agni, which rising  
+In the sun with rays envelop the sky,  
+With all of them bring us to brilliance, to men.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यास्ते॑ अग्ने॒ सूर्ये॒ रुच॑ उद्य॒तो दिव॑मात॒न्वन्ति॑ र॒श्मिभिः॑ ।  
 ताभि॒स्सर्वा॑भी रु॒चे जना॑य नस्कृधि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+याः । ते॒ । अग्ने॑ । सूर्ये॑ । रुचः॑ । उ॒द्य॒त इत्यु॑त्-य॒तः । दिव॑म् । आ॒त॒न्वन्तीत्या॑-त॒न्वन्ति॑ । र॒श्मिभि॒रिति॑ र॒श्मि-भिः॒ ॥ ताभिः॑ । सर्वा॑भिः । रु॒चे । जना॑य । नः॒ । कृ॒धि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -942,10 +1095,24 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 इ᳓न्द्राग्नी ता᳓भिस्स᳓र्वाभी रु᳓चन्नो धत्त बृहस्पते ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Those flames of yours in the sun,  
+O gods, in cattle, in horses,  
+O Indra and Agni, O Brhaspati,
+
+With all of these grant us brilliance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 या वो॑ देवा॒स्सूर्ये॒ रुचो॒ गोष्वश्वे॑षु॒ या रुचः॑ ।  
 इन्द्रा॑ग्नी॒ ताभि॒स्सर्वा॑भी॒ रुच॑न्नो धत्त बृहस्पते ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+याः । वः॒ । दे॒वाः॒ । सूर्ये॑ । रुचः॑ । गोषु॑ । अश्वे॑षु । याः । रुचः॑ ॥ इन्द्रा॑ग्नी॒ इतीन्द्र॑-अ॒ग्नी॒ । ताभिः॑ । सर्वा॑भिः । रुच॑म् । नः॒ । ध॒त्त॒ । बृ॒ह॒स्प॒ते॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -963,9 +1130,19 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 विरा᳓ट् [39] ज्यो᳓तिरधारयत्सम्रा᳓ड्ज्यो᳓तिरधारयत्स्वरा᳓ड्ज्यो᳓तिरधारयत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The brilliant [4] bore the light, the shining bore the light, the self-resplendent bore the light.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒राट् [39] ज्योति॑रधारयत्स॒म्राड्ज्योति॑रधारयत्स्व॒राड्ज्योति॑रधारयत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒राडिति॑ वि-राट् । ज्योतिः॑ । अ॒धा॒र॒य॒त् । स॒म्राडिति॑ सम्-राट् । ज्योतिः॑ । अ॒धा॒र॒य॒त् । स्व॒राडिति॑ स्व-राट् । ज्योतिः॑ । अ॒धा॒र॒य॒त् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -984,10 +1161,22 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 अ᳓रव्ँव᳓हन्त्याश᳓वः ।
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, yoke,  
+O god, thy good steeds,  
+The swift that readily bear.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॑ यु॒क्ष्वा हि ये तवाश्वा॑सो देव सा॒धवः॑ ।  
 अरव्ँ॒वह॑न्त्या॒शवः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । यु॒क्ष्व । हि । ये । तव॑ । अश्वा॑सः । दे॒व॒ । सा॒धवः॑ ॥ अर॑म् । वह॑न्ति । आ॒शवः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1006,10 +1195,22 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 नि᳓ हो᳓ता पूर्व्य᳓स्सदः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Yoke, like a charioteer, O Agni,  
+The steeds that best invite the gods  
+Sit down as ancient Hotr.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यु॒क्ष्वा हि दे॑व॒हूत॑माँ॒ अश्वाँ॑ अग्ने र॒थीरि॑व ।  
 नि होता॑ पू॒र्व्यस्स॑दः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यु॒क्ष्व । हि । दे॒व॒हूत॑मा॒निति॑ देव-हूत॑मान् । अश्वान्॑ । अ॒ग्ने॒ । र॒थीः । इ॒व॒ ॥ नीति॑ । होता॑ । पू॒र्व्यः । स॒दः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1029,10 +1230,23 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 तृती᳓यय्ँयो᳓निम᳓नु सञ्च᳓रन्तन्द्रप्स᳓ञ्जुहोम्य᳓नु सप्त᳓ [40] हो᳓त्राः ।
 </details>
 
+<details><summary>Keith</summary>
+
+The drop hath fallen on the earth, the sky,  
+On this seat and on the one which was aforetime  
+The drop that wandereth over the third seat  
+I offer in the seven [5] Hotras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्र॒प्सश्च॑स्कन्द पृथि॒वीमनु॒ द्यामि॒मञ्च॒ योनि॒मनु॒ यश्च॒ पूर्वः॑ ।  
 तृ॒तीयय्ँ॒योनि॒मनु॑ स॒ञ्चर॑न्तन्द्र॒प्सञ्जु॑हो॒म्यनु॑ स॒प्त [40] होत्राः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्र॒प्सः । च॒स्क॒न्द॒ । पृ॒थि॒वीम् । अन्विति॑ । द्याम् । इ॒मम् । च॒ । योनि॑म् । अन्विति॑ । यः । च॒ । पूर्वः॑ ॥ तृ॒तीय॑म् । योनि॑म् । अन्विति॑ । स॒ञ्चर॑न्त॒मिति॑ सम्-चर॑न्तम् । द्र॒प्सम् । जु॒हो॒मि॒ । अन्विति॑ । स॒प्त । होत्राः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1053,10 +1267,23 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 अग्नि᳓र्ज्यो᳓तिषा ज्यो᳓तिष्मान्रुक्मो᳓ व᳓र्चसा व᳓र्चस्वान् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+There hath come into being this might of all the world,  
+And of Agni Vaiśvanara,  
+Agni full of light with light,  
+The disk radiant with radiance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अभू॑दि॒दव्ँविश्व॑स्य॒ भुव॑नस्य॒ वाजि॑नम॒ग्नेर्वै॑श्वान॒रस्य॑ च ।  
 अ॒ग्निर्ज्योति॑षा॒ ज्योति॑ष्मान्रु॒क्मो वर्च॑सा॒ वर्च॑स्वान् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अभू॑त् । इ॒दम् । विश्व॑स्य । भुव॑नस्य । वाजि॑नम् । अ॒ग्नेः । वै॒श्वा॒न॒रस्य॑ । च॒ ॥ अ॒ग्निः । ज्योति॑षा । ज्योति॑ष्मान् । रु॒क्मः । वर्च॑सा । वर्च॑स्वान् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1071,11 +1298,21 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 रुचे᳓ त्वा ।
 </details>
 
+<details><summary>Keith</summary>
+
+For the verse thee, for brilliance thee
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒चे त्वा॑
 
 रु॒चे त्वा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒चे । त्वा॒ । रु॒चे । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1099,12 +1336,25 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 हिरण्य᳓यो वेतसो᳓ म᳓ध्य आसाम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Like streams the offerings flow together,  
+Purified within with heart and mind;  
+I behold the streams of ghee;  
+A golden reed is there in the midst of them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 समित्स्र॑वन्ति स॒रितो॒ न धेनाः॑ ।  
 अ॒न्तर्हृ॒दा मन॑सा पू॒यमा॑नाः ।  
 घृ॒तस्य॒ धारा॑ अ॒भि चा॑कशीमि ।  
 हि॒र॒ण्ययो॑ वेत॒सो मध्य॑ आसाम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । इत् । स्र॒व॒न्ति॒ । स॒रितः॑ । न । धेनाः॑ ॥ अ॒न्तः । हृ॒दा । मन॑सा । पू॒यमा॑नाः ॥ घृ॒तस्य॑ । धाराः॑ । अ॒भीति॑ । चा॒क॒शी॒मि॒ ॥ हि॒र॒ण्ययः॑ । वे॒त॒सः । मध्ये॑ । आ॒सा॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1125,10 +1375,23 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 त᳓स्यासते ह᳓रयस्सप्त᳓ ती᳓रे स्वधा᳓न्दु᳓हाना अमृ᳓तस्य धा᳓राम् ॥ [41]  
 </details>
 
+<details><summary>Keith</summary>
+
+In it sitteth an eagle, honey-making, nested,  
+Assigning honey to the deities,  
+On its brink sit seven tawny ones,  
+Milking at will the stream of ambrosia.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मि॑न्त्सुप॒र्णो म॑धु॒कृत्कु॑ला॒यी भज॑न्नास्ते॒ मधु॑ दे॒वता॑भ्यः ।  
 तस्या॑सते॒ हर॑यस्स॒प्त तीरे॑ स्व॒धान्दुहा॑ना अ॒मृत॑स्य॒ धारा॑म् ॥ [41]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्मि॑न् । सु॒प॒र्ण इति॑ सु-प॒र्णः । म॒धु॒कृदिति॑ मधु-कृत् । कु॒ला॒यी । भज॑न् । आ॒स्ते॒ । मधु॑ । दे॒वता॑भ्यः ॥ तस्य॑ । आ॒स॒ते॒ । हर॑यः । स॒प्त । तीरे॑ । स्व॒धामिति॑ स्व-धाम् । दुहा॑नाः । अ॒मृत॑स्य । धारा॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

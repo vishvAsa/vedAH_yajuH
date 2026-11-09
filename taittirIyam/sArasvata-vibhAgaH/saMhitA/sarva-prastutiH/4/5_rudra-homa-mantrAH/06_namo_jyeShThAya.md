@@ -25,9 +25,19 @@ title = "०६ नमो ज्येष्ठाय"
 न᳓मो ज्येष्ठा᳓य च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the oldest,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ ज्ये॒ष्ठाय॑ च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । ज्ये॒ष्ठाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -40,9 +50,19 @@ title = "०६ नमो ज्येष्ठाय"
 कनिष्ठा᳓य च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to the youngest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क॒नि॒ष्ठाय॑ च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क॒नि॒ष्ठाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -60,9 +80,19 @@ title = "०६ नमो ज्येष्ठाय"
 न᳓मᳶ पूर्वजा᳓य च  
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the first born,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमᳶ॑ पूर्व॒जाय॑ च  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । पू॒र्व॒जायेति॑ पूर्व-जाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -75,9 +105,19 @@ title = "०६ नमो ज्येष्ठाय"
 अपरजा᳓य च  +++(नमः)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+and to the later born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒प॒र॒जाय॑ च  +++(नमः)+++।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒प॒रजायेत्य॑पर-जाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -95,9 +135,19 @@ title = "०६ नमो ज्येष्ठाय"
 न᳓मो मध्यमा᳓य च  
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the midmost,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ मध्य॒माय॑ च  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । म॒ध्य॒माय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -110,9 +160,19 @@ title = "०६ नमो ज्येष्ठाय"
 अपगल्भा᳓य च +++(नमः)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+and to the immature.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒प॒ग॒ल्भाय॑ च +++(नमः)+++।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒प॒ग॒ल्भायेत्य॑प-ग॒ल्भाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -130,9 +190,19 @@ title = "०६ नमो ज्येष्ठाय"
 न᳓मो जघन्या᳙य च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the hindmost,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ जघ॒न्या॑य च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । ज॒घ॒न्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -145,9 +215,19 @@ title = "०६ नमो ज्येष्ठाय"
 बु᳓ध्नियाय च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to him in the depth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बुध्नि॑याय च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बुध्नि॑याय । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -165,9 +245,19 @@ title = "०६ नमो ज्येष्ठाय"
 न᳓मस्सोभ्या᳙य च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to Sobhya,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑स्सो॒भ्या॑य च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । सो॒भ्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -182,9 +272,19 @@ title = "०६ नमो ज्येष्ठाय"
 प्रतिस᳓र्याय च  +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of the amulet.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒ति॒सर्या॑य च  +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒ति॒स॒र्या॑येति॑ प्रति-स॒र्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -202,9 +302,19 @@ title = "०६ नमो ज्येष्ठाय"
 न᳓मो  या᳓म्याय च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him who dwelleth with Yama,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॒  याम्या॑य च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । याम्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -217,9 +327,19 @@ title = "०६ नमो ज्येष्ठाय"
 क्षे᳓म्याय च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to him at peace.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षेम्या॑य च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्षेम्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -238,9 +358,19 @@ title = "०६ नमो ज्येष्ठाय"
 न᳓म उर्वर्या᳙य च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him of the ploughed field,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑ उर्व॒र्या॑य च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । उ॒र्व॒र्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -253,9 +383,19 @@ title = "०६ नमो ज्येष्ठाय"
 ख᳓ल्याय च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of the threshing-floor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 खल्या॑य च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+खल्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -273,9 +413,19 @@ title = "०६ नमो ज्येष्ठाय"
 न᳓मश्श्लो᳓क्याय च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him of fame,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॒श्श्लोक्या॑य च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । श्लोक्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -288,9 +438,19 @@ title = "०६ नमो ज्येष्ठाय"
 अवसान्या᳙य च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to him at his end. Homage to him of the wood,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒व॒सा॒न्या॑य च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒व॒सा॒न्या॑येत्य॑व-सा॒न्या॑य । च॒ । नमः॑ । वन्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -318,9 +478,19 @@ title = "०६ नमो ज्येष्ठाय"
 क᳓क्ष्याय च +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of the thicket.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कक्ष्या॑य च +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कक्ष्या॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -338,9 +508,19 @@ title = "०६ नमो ज्येष्ठाय"
 न᳓मश्श्रवा᳓य च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to sound,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑श्श्र॒वाय॑ च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । श्र॒वाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -353,9 +533,19 @@ title = "०६ नमो ज्येष्ठाय"
 प्रतिश्रवा᳓य च  +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to echo.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒ति॒श्र॒वाय॑ च  +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒ति॒श्र॒वायेति॑ प्रति-श्र॒वाय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -373,9 +563,19 @@ title = "०६ नमो ज्येष्ठाय"
 न᳓म आशु᳓षेणाय च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to him of the swift host,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑ आ॒शुषे॑णाय च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । आ॒शुषे॑णा॒येत्या॒शु-से॒ना॒य॒ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -388,9 +588,19 @@ title = "०६ नमो ज्येष्ठाय"
 आशु᳓रथाय च+++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of the swift car.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒शुर॑थाय च+++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒शुर॑था॒येत्या॒शु-र॒था॒य॒ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -408,9 +618,19 @@ title = "०६ नमो ज्येष्ठाय"
 न᳓मश्शू᳓राय च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the hero,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॒श्शूरा॑य च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । शूरा॑य । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -423,9 +643,19 @@ title = "०६ नमो ज्येष्ठाय"
 अवभिन्दते᳓  च᳓ +++(नमः)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+and the destroyer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒व॒भि॒न्द॒ते  च +++(नमः)+++।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒व॒भि॒न्द॒त इत्य॑व-भि॒न्द॒ते । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -443,9 +673,19 @@ title = "०६ नमो ज्येष्ठाय"
 न᳓मो वर्मि᳓णे च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the armoured,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ व॒र्मिणे॑ च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । व॒र्मिणे॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -458,9 +698,19 @@ title = "०६ नमो ज्येष्ठाय"
 वरूथि᳓ने च  +++(नमः)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+and to the corsleted.
+</details>
+
 <details><summary>मूलम्</summary>
 
 व॒रू॒थिने॑ च  +++(नमः)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒रू॒थिने॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -478,9 +728,19 @@ title = "०६ नमो ज्येष्ठाय"
 न᳓मो बिल्मि᳓ने च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the mailed,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ बि॒ल्मिने॑ च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । बि॒ल्मिने॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -493,9 +753,19 @@ title = "०६ नमो ज्येष्ठाय"
 कवचि᳓ने च +++(नमः)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+and to the cuirassed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क॒व॒चिने॑ च +++(नमः)+++।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क॒व॒चिने॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -513,9 +783,19 @@ title = "०६ नमो ज्येष्ठाय"
 न᳓मश्श्रुता᳓य च
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to the famous,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑श्श्रु॒ताय॑ च
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । श्रु॒ताय॑ । च॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -528,9 +808,19 @@ title = "०६ नमो ज्येष्ठाय"
 श्रुतसेना᳓य च +++(नमः)+++॥   
 </details>
 
+<details><summary>Keith</summary>
+
+and to him of a famous host.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रु॒त॒से॒नाय॑ च +++(नमः)+++॥   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+श्रु॒त॒से॒नायेति॑ श्रुत-से॒नाय॑ । च॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

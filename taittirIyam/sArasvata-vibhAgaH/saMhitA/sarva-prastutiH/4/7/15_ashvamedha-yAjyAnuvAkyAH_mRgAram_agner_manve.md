@@ -24,7 +24,7 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 
 ## अग्निः
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/02_agner_manve.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/02_agner_manve.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -40,10 +40,22 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/02_agner_manve.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Of Agni first I reckon, the wise ones,  
+Him of the five folk whom many kindle;  
+Him who hath entered into every concourse do we implore, May he relieve us from tribulation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेर्म॑न्वे प्रथ॒मस्य॒ प्रचे॑तसो॒ यम्पाञ्च॑जन्यम्ब॒हव॑स्समि॒न्धते॑ ।   
 विश्व॑स्याव्ँवि॒शि प्र॑विविशि॒वाँस॑मीमहे॒ स नो॑ मुञ्च॒त्वँह॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । म॒न्वे॒ । प्र॒थ॒मस्य॑ । प्रचे॑तस॒ इति॒ प्र-चे॒त॒सः॒ । यम् । पाञ्च॑जन्य॒मिति॒ पाञ्च॑-ज॒न्य॒म् । ब॒हवः॑ । स॒मि॒न्धत॒ इति॑ सम्-इ॒न्धते॑ ॥ विश्व॑स्याम् । वि॒शि । प्र॒वि॒वि॒शि॒वाँस॒मिति॑ प्र-वि॒वि॒शि॒वाँस॑म् । ई॒म॒हे॒ । सः । नः॒ । मु॒ञ्च॒तु॒ । अँह॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -56,7 +68,7 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/05_yasyedaM_prANan.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/05_yasyedaM_prANan.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -72,10 +84,21 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/05_yasyedaM_prANan.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Him whose is that which breatheth, which winketh, which moveth, Whose alone is that which has been born and is being born, Agni I praise; I invoke seeking aid,  
+May he relieve us from tribulation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्ये॒दम्प्रा॒णन्नि॑मि॒षद्यदेज॑ति॒ यस्य॑ जा॒तञ्जन॑मानञ्च॒ केव॑लम् ।   
 स्तौम्य॒ग्निन्ना॑थि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वँह॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यस्य॑ । इ॒दम् । प्रा॒णदिति॑ प्र-अ॒नत् । नि॒मि॒षदिति॑ नि-मि॒षत् । यत् । एज॑ति । यस्य॑ । जा॒तम् । जन॑मानम् । च॒ । केव॑लम् ॥ स्तौमि॑ । अ॒ग्निम् । ना॒थि॒तः । जो॒ह॒वी॒मि॒ । सः । नः॒ । मु॒ञ्च॒तु॒ । अँह॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -91,7 +114,7 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 
 ## इन्द्रः
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/08_indrasya_manye.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/08_indrasya_manye.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -112,10 +135,22 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/08_indrasya_manye.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Of Indra first I reckon, the wise one;  
+Praise of the slayer of Vrtra hath come to me,  
+He who cometh at the call of the generous doer of good deeds [1], May he relieve us from tribulation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्य मन्ये प्रथ॒मस्य॒ प्रचे॑तसो वृत्र॒घ्नस्स्तोमा॒ उप॒ मामु॒पागुः॑ ।   
 यो दा॒शुष॑स्सु॒कृतो॒ हव॒मुप॒ गन्ता॑ [33]  स नो॑ मुञ्च॒त्वँह॑सः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑स्य । म॒न्ये॒ । प्र॒थ॒मस्य॑ । प्रचे॑तस॒ इति॒ प्र-चे॒त॒सः॒ । वृ॒त्र॒घ्न इति॑ वृत्र-घ्नः । स्तोमाः॑ । उपेति॑ । माम् । उ॒पागु॒रित्यु॑प-आगुः॑ ॥ यः । दा॒शुषः॑ । सु॒कृत॒ इति॑ सु-कृतः॑ । हव॑म् । उपेति॑ । गन्ता॑ । सः । नः॒ । मु॒ञ्च॒तु॒ । अँह॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -126,7 +161,7 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/11_yaH_sangrAmam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/11_yaH_sangrAmam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -142,10 +177,23 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/11_yaH_sangrAmam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Him who in might leadeth forth the host for battle,  
+Who commingleth the three possessions;  
+Indra I praise; I invoke seeking aid,  
+May he relieve us from tribulation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्स॑ङ्ग्रा॒मन्नय॑ति॒ सव्ँव॒शी यु॒धे यᳶ पु॒ष्टानि॑ सँसृ॒जति॑ त्र॒याणि॑ ।   
 स्तौमीन्द्र॑न्नाथि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वँह॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । स॒ङ्ग्रा॒ममिति॑ सम्-ग्रा॒मम् । नय॑ति । समिति॑ । व॒शी । यु॒धे । यः । पु॒ष्टानि॑ । सँ॒सृ॒जतीति॑ सम्-सृ॒जति॑ । त्र॒याणि॑ ॥ स्तौमि॑ । इन्द्र॑म् । ना॒थि॒तः । जो॒ह॒वी॒मि॒ । सः । नः॒ । मु॒ञ्च॒तु॒ । अँह॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -158,7 +206,7 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 
 ## मित्रावरुणौ
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/14_manve_vAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/14_manve_vAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -179,10 +227,22 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/14_manve_vAm.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Of you, O Mitra and Varuna, I reckon  
+Take heed of him, O ye of true strength, strong ones, whom ye afflict; Ye who go in might against the king in his chariot,  
+May ye relieve us from sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒न्वे वा॑म्मित्रावरुणा॒ तस्य॑ वित्तँ॒ सत्यौ॑जसा दृँहणा॒ यन्नु॒देथे॑ ।   
 या राजा॑नँ स॒रथय्ँ॑या॒थ उ॑ग्रा॒ ता नो॑ मुञ्चत॒माग॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒न्वे । वा॒म् । मि॒त्रा॒व॒रु॒णेति॑ मित्रा-व॒रु॒णा॒ । तस्य॑ । वि॒त्त॒म् । सत्यौ॑ज॒सेति॒ सत्य॑-ओ॒ज॒सा॒ । दृँ॒ह॒णा॒ । यम् । नु॒देथे॒ इति॑ ॥ या । राजा॑नम् । स॒रथ॒मिति॑ स-रथ॑म् । या॒थः । उ॒ग्रा॒ । ता । नः॒ । मु॒ञ्च॒त॒म् । आग॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -193,7 +253,7 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/17_yo_vAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/17_yo_vAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -209,10 +269,23 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/17_yo_vAm.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+You whose chariot with straight reins, of true path,  
+Approacheth to spoil him who acteth falsely,  
+Mitra and Varuna I praise [2]; I invoke seeking aid,  
+May ye relieve us from sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो वाँ॒ रथ॑ ऋ॒जुर॑श्मिस्स॒त्यध॑र्मा॒ मिथु॒श्चर॑न्तमुप॒याति॑ दू॒षय॑न् ।   
 स्तौमि॑ [34]  मि॒त्रावरु॑णा नाथि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒माग॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । वा॒म् । रथः॑ । ऋ॒जुर॑श्मि॒रित्यृ॒जु-र॒श्मिः॒ । स॒त्यध॒र्मेति॑ स॒त्य-ध॒र्मा॒ । मिथु॑ । चर॑न्तम् । उ॒प॒यातीत्यु॑प-याति॑ । दू॒षय॑न्न् ॥ स्तौमि॑ । मि॒त्रावरु॒णेति॑ मि॒त्रा-वरु॑णा । ना॒थि॒तः । जो॒ह॒वी॒मि॒ । तौ । नः॒ । मु॒ञ्च॒त॒म् । आग॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -225,7 +298,7 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 
 ## वायुः, सविता च
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/20_vAyos_savitur.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/20_vAyos_savitur.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -241,10 +314,23 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/20_vAyos_savitur.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+We venerate the ordinances of Vayu and of Savitr,  
+Who support that which hath life and guard it,  
+Who surround all things;  
+May ye relieve us from sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒योस्स॑वि॒तुर्वि॒दथा॑नि मन्महे॒ यावा॑त्म॒न्वद्बि॑भृ॒तो यौ च॒ रक्ष॑तः ।   
 यौ विश्व॑स्य परि॒भू ब॑भू॒वतु॒स्तौ नो॑ मुञ्चत॒माग॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒योः । स॒वि॒तुः । वि॒दथा॑नि । म॒न्म॒हे॒ । यौ । आ॒त्म॒न्वत् । बि॒भृ॒तः । यौ । च॒ । रक्ष॑तः ॥ यौ । विश्व॑स्य । प॒रि॒भू इति॑ परि-भू । ब॒भू॒वतुः॑ । तौ । नः॒ । मु॒ञ्च॒त॒म् । आग॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -255,7 +341,7 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/23_upa_shreShThA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/23_upa_shreShThA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -271,10 +357,23 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/23_upa_shreShThA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+The best blessings have come to us  
+In the realm of the two gods;  
+I praise Vayu and Savitr; I invoke seeking aid,  
+May ye relieve us from sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॒ श्रेष्ठा॑ न आ॒शिषो॑ दे॒वयो॒र्धर्मे॑ अस्थिरन् ।   
 स्तौमि॑ वा॒युँ स॑वि॒तार॑न्नाथि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒माग॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उपेति॑ । श्रेष्ठाः॑ । नः॒ । आ॒शिष॒ इत्या॑-शिषः॑ । दे॒वयोः॑ । धर्मे॑ । अ॒स्थि॒र॒न् ॥ स्तौमि॑ । वा॒युम् । स॒वि॒तार॑म् । ना॒थि॒तः । जो॒ह॒वी॒मि॒ । तौ । नः॒ । मु॒ञ्च॒त॒म् । आग॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -287,7 +386,7 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 
 ## अश्विनौ
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/26_rathItamau_rathInAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/26_rathItamau_rathInAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -308,10 +407,22 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/26_rathItamau_rathInAm.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Best charioteers of carmen, I hail for aid,  
+That go most smoothly with well-guided steeds;  
+Ye [3] whose might among the gods, O gods, is unextinguished, May ye relieve us from sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 र॒थीत॑मौ रथी॒नाम॑ह्व ऊ॒तये॒ शुभ॒ङ्गमि॑ष्ठौ सु॒यमे॑भि॒रश्वैः॑ ।   
 ययोः॑ [35]  वा॒न्दे॒वौ॒ दे॒वेष्वनि॑शित॒मोज॒स्तौ नो॑ मुञ्चत॒माग॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+र॒थीत॑मा॒विति॑ र॒थि-त॒मौ॒ । र॒थी॒नाम् । अ॒ह्वे॒ । ऊ॒तये॑ । शुभ॑म् । गमि॑ष्ठौ । सु॒यमे॑भि॒रिति॑ सु-यमे॑भिः । अश्वैः॑ ॥ ययोः॑ । वा॒म् । दे॒वौ॒ । दे॒वेषु॑ । अनि॑शित॒मित्यनि॑-शि॒त॒म् । ओजः॑ । तौ । नः॒ । मु॒ञ्च॒त॒म् । आग॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -322,7 +433,7 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/29_yad_ayAtam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/29_yad_ayAtam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -338,10 +449,22 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/29_yad_ayAtam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+What time ye came to the wedding of Surya,  
+Choosing a seat together on the three-wheeled (chariot), I praise you, Aśvins, gods, invoke seeking aid,  
+May ye relieve us from sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदया॑तव्ँवह॒तुँ सू॒र्याया॑स्त्रिच॒क्रेण॑ सँ॒सद॑मि॒च्छमा॑नौ ।   
 स्तौमि॑ दे॒वाव॒श्विनौ॑ नाथि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒माग॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । अया॑तम् । व॒ह॒तुम् । सू॒र्यायाः॑ । त्रि॒च॒क्रेणेति॑ त्रि-च॒क्रेण॑ । सँ॒सद॒मिति॑ सम्-सद॑म् । इ॒च्छमा॑नौ ॥ स्तौमि॑ । दे॒वौ । अ॒श्विनौ॑ । ना॒थि॒तः । जो॒ह॒वी॒मि॒ । तौ । नः॒ । मु॒ञ्च॒त॒म् । आग॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -354,7 +477,7 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 
 ## मरुतः
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/32_marutAM_manve.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/32_marutAM_manve.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -375,10 +498,23 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/32_marutAM_manve.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Of the Maruts I reckon; may they aid us;  
+May they all help this every prayer (of ours);  
+The swift, easily controlled (ones) I call to help,  
+May they relieve us from evil.
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒रुता॑म्मन्वे॒ अधि॑ नो ब्रुवन्तु॒ प्रेमाव्ँवाचव्ँ॒विश्वा॑मवन्तु॒ विश्वे॑ ।   
 आ॒शून्हु॑वे सु॒यमा॑नू॒तये॒ ते नो॑ मुञ्च॒न्त्वेन॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒रुता॑म् । म॒न्वे॒ । अधीति॑ । नः॒ । ब्रु॒व॒न्तु॒ । प्रेति॑ । इ॒माम् । वाच॑म् । विश्वा॑म् । अ॒व॒न्तु॒ । विश्वे॑ ॥ आ॒शून् । हु॒वे॒ । सु॒यमा॒निति॑ सु-यमान्॑ । ऊ॒तये॑ । ते । नः॒ । मु॒ञ्च॒न्तु॒ । एन॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -389,7 +525,7 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/35_tigmam_Ayudham.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/35_tigmam_Ayudham.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -405,10 +541,23 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/35_tigmam_Ayudham.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+The sharp weapon, strong and mighty,  
+The divine host [4] keen in the battles,  
+I praise the gods, the Maruts; I invoke seeking aid,  
+May they relieve us from evil.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ति॒ग्ममायु॑धव्ँवीडि॒तँ सह॑स्वद्दि॒व्यँ शर्धः॑ [36]  पृत॑नासु जि॒ष्णु ।   
 स्तौमि॑ दे॒वान्म॒रुतो॑ नाथि॒तो जो॑हवीमि॒ ते नो॑ मुञ्च॒न्त्वेन॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ति॒ग्मम् । आयु॑धम् । वी॒डि॒तम् । सह॑स्वत् । दि॒व्यम् । शर्धः॑ । पृत॑नासु । जि॒ष्णु ॥ स्तौमि॑ । दे॒वान् । म॒रुतः॑ । ना॒थि॒तः । जो॒ह॒वी॒मि॒ । ते । नः॒ । मु॒ञ्च॒न्तु॒ । एन॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -421,7 +570,7 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 
 ## विश्वे देवाः
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/38_devAnAM_manve.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/38_devAnAM_manve.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -442,10 +591,23 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/38_devAnAM_manve.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Of the gods I reckon; may they aid us;  
+May they all help this every prayer;  
+The swift, easily controlled (ones) I call to help,  
+That they may relieve us from evil.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वाना॑म्मन्वे॒ अधि॑ नो ब्रुवन्तु॒ प्रेमाव्ँवाचव्ँ॒विश्वा॑मवन्तु॒ विश्वे॑ ।   
 आ॒शून्हु॑वे सु॒यमा॑नू॒तये॒ ते नो॑ मुञ्च॒न्त्वेन॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अधीति॑ । नः॒ । ब्रु॒व॒न्तु॒ । प्रेति॑ । इ॒माम् । वाच॑म् । विश्वा॑म् । अ॒व॒न्तु॒ । विश्वे॑ ॥ आ॒शून् । हु॒वे॒ । सु॒यमा॒निति॑ सु-यमान्॑ । ऊ॒तये॑ । ते । नः॒ । मु॒ञ्च॒न्तु॒ । एन॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -456,7 +618,7 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/41_yad_idam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/41_yad_idam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -472,16 +634,35 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/41_yad_idam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+That which now consumeth me  
+From deed of men or gods,
+  
+I praise the All-gods; I invoke seeking aid,  
+May they free us from evil.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदि॒दम्मा॑ऽभि॒शोच॑ति॒ पौरु॑षेयेण॒ दैव्ये॑न ।   
 स्तौमि॒ विश्वा॑न्दे॒वान्ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्च॒न्त्वेन॑सः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । इ॒दम् । मा॒ । अ॒भि॒शोच॒तीत्य॑भि-शोच॑ति । पौरु॑षेयेण । दैव्ये॑न ॥ स्तौमि॑ । विश्वान्॑ । दे॒वान् । ना॒थि॒तः । जो॒ह॒वी॒मि॒ । ते । नः॒ । मु॒ञ्च॒न्तु॒ । एन॑सः ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 तत्रैव याज्यामाह– यदिदं मेति।   पौरुषेयेण मनुष्यव्यापारेण दैव्येन देवव्यापारेण च संपादितं यदिदं दुःखं माऽभिशोचति, अभितो मां क्लेशयति।   तस्य दुःखस्यापनो दनार्थं स्तौमीत्यादि पूर्ववत्।
 </details>
+</details>
+
+</div>
+
+## अनुमतिः
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -497,88 +678,7 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 एतच्चोभयमिदं वामास्ये हविरित्यनुवाके व्याख्यातम्।
 </details>
 
-<details><summary>Keith</summary>
-
-For us to-day may Anumati  
-Among the gods favour our sacrifice,  
-And be she and Agni, bearer of the oblation,  
-A joy to the giver.
-</details>
-
-<details><summary>मूलम्</summary>
-
-अनु॑ नो॒ऽद्यानु॑मतिर्य॒ज्ञन्दे॒वेषु॑ मन्यताम् ।  
-अ॒ग्निश्च॑ हव्य॒वाह॑नो॒ भव॑तान्दा॒शुषे॒ मयः॑ ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-नोस्माकम् इमं यज्ञं  
-अनुमतिर् देवी अद्येदानीं देवेषु **अनुमन्यतां**  
-देवान् प्रापयतु देव-निमित्तं वा अनुजानातु ।  
-ऊनचन्द्रा पौर्णमासी **अनुमतिः** ।  
-अग्निश्च हव्यवाहनः हविषां वोढा देवेष्व् **अनुमन्यताम्** इत्येव । 'हव्येनन्तः पादम्' इति ञ्युट्, किंच -  
-तौ अनुमति-हव्यवाहनौ दाशुषे हविर्-दत्तवते अस्मै यजमानाय मयः सुखहेतुः **भवताम्** ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Accord thy favour, O Anumati [3],  
-And grant us wealth;  
-For inspiration, for insight impel us,  
-Lengthen our days for us.
-</details>
-
-<details><summary>मूलम्</summary>
-
-अन्विद॑नुमते॒ त्वम् [34]  मन्या॑सै॒ शञ्च॑ नᳵ कृधि ।  
-क्रत्वे॒ दक्षा॑य नो हिनु॒ प्र ण॒ आयूँ॑षि तारिषः ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-अनुमते त्वं मन्यासै अनुमन्यस्व लोटि 'वैतोन्यत्र' इत्यैकारः । किंच - नोस्माकं शं सुखं च कृधि कुरु । करोतेर्लोटि शपो लुक्, 'श्रुशृणुकृवृभ्यः' इति धिभावः । किं पुनरनुमन्तव्यमित्याह - क्रत्वे क्रतवे यागाय प्रत्ययाय वा दक्षाय समर्थाय शीघ्रकरणाय क्रत्वर्थं वा यद्दक्षमन्नं तदर्थं नः अस्मान् **हिनु** प्रेरय । 'जसादिषु वा वचनम् प्राङ्णौ चङ्युपधायाः' इति दीर्घं ङितीति गुणो न प्रवर्तते । तदर्थं चास्माकं आयूंषि प्रतारिषः प्रवर्तय । तरतेर्ण्यान्ताल्लेटि 'सिब्बहुलं लेटि' इति सिप् 'लेटोडाटौ' इत्यडागमः, 'उपसर्गाद्बहुलम्' इति नसो णत्वम् ॥
-</details>
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-वै॑श्वान॒रो न॑ ऊ॒त्या ..
-पृ॒ष्टो दि॒वि ।
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-अथाग्नये वैश्वानराय द्वादशकपाल इत्यस्य याज्यापुरोनुनाक्ययोः प्रतीके दर्शयति– वैश्वानरो न इति।   वैश्वानरो न ऊत्या प्र यात्विति पुरोनुवाक्या ।   पृष्ठो दिवि पृष्ठो अग्निरिति याज्मा।   एतच्चोभयं वैश्वानरो न ऊत्येस्मिन्ननुवाके व्याख्यातम्।
-</details>
-
-<details><summary>Keith</summary>
-
-Let Vaiśvanara with succour for us  
-Come from afar,  
-Agni through the hymn which brings (him).
-</details>
-
-<details><summary>मूलम्</summary>
-
-वै॒श्वा॒न॒रो न॑ ऊ॒त्याऽऽप्र या॑तु परा॒वतः॑ ।  
-अ॒ग्निरु॒क्थेन॒ वाह॑सा  ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-**वैश्वानरः** विश्वेषां नराणां स्वामित्वेन सम्बन्धी अग्निः । 'नरे संज्ञायाम्' इति पूर्वपदस्य दीर्घत्वम् । **ऊत्या** मार्गेण करणेन अस्मद्रक्षणेन वा हेतुना आत्मनो वा तर्पणेन प्रयोजनेन । 'ऊतियूति' इति क्तिन उदात्तत्वं निपात्यते, 'उदात्तयणः' इति विभक्तेरुदात्तत्वं, 'ज्वरत्वर' इत्यादिना ऊठ् ।
-
-स नो ऽस्मान् **आप्रयातु** आभिमुख्येनान्येभ्यश्च प्रकर्षेणास्मान् प्राप्नोतु परावतः दूरादप्यायातु । 'उपसर्गाच्छन्दसि' इति वतिः । **उक्थेन** स्तोत्रेण **वाहसा** वहनसमर्थेन अभीष्टार्थवाहनसमर्थेनेत्यर्थः ।
-
-यद्वा - प्रापणसमर्थेन मार्गेण । 'वहिहाधाञ्भ्यश्छन्दसि' इत्यसुन्, 'णित्' इति हि तत्रानुवर्तते । आगत्य चास्मानभिशस्तेर्मुञ्चन्पापं वर्णमपहन्त्विति शेषः ॥
-</details>
-</details>
-
-</div>
-
-## अनुमतिः
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/19_anu_no-dyAnumatir.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/19_anu_no-dyAnumatir.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -608,6 +708,11 @@ A joy to the giver.
 अ॒ग्निश्च॑ हव्य॒वाह॑नो॒ भव॑तान्दा॒शुषे॒ मयः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अन्विति॑ । नः॒ । अ॒द्य । अनु॑मति॒रित्यनु॑-म॒तिः॒ । य॒ज्ञम् । दे॒वेषु॑ । म॒न्य॒ता॒म्॒ ॥ अ॒ग्निः । च॒ । ह॒व्य॒वाह॑न॒ इति॑ हव्य-वाह॑नः । भव॑ताम् । दा॒शुषे॑ । मयः॑ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 नोस्माकम् इमं यज्ञं  
@@ -621,7 +726,7 @@ A joy to the giver.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -651,6 +756,11 @@ Lengthen our days for us.
 क्रत्वे॒ दक्षा॑य नो हिनु॒ प्र ण॒ आयूँ॑षि तारिषः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अन्विति॑ । इत् । अ॒नु॒म॒त॒ इत्य॑नु-म॒ते॒ । त्वम् । मन्या॑सै । शम् । च॒ । नः॒ । कृ॒धि॒ ॥ क्रत्वे॑ । दक्षा॑य । नः॒ । हि॒नु॒ । प्रेति॑ । नः॒ । आयूँ॑षि । ता॒रि॒षः॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अनुमते त्वं मन्यासै अनुमन्यस्व लोटि 'वैतोन्यत्र' इत्यैकारः । किंच - नोस्माकं शं सुखं च कृधि कुरु । करोतेर्लोटि शपो लुक्, 'श्रुशृणुकृवृभ्यः' इति धिभावः । किं पुनरनुमन्तव्यमित्याह - क्रत्वे क्रतवे यागाय प्रत्ययाय वा दक्षाय समर्थाय शीघ्रकरणाय क्रत्वर्थं वा यद्दक्षमन्नं तदर्थं नः अस्मान् **हिनु** प्रेरय । 'जसादिषु वा वचनम् प्राङ्णौ चङ्युपधायाः' इति दीर्घं ङितीति गुणो न प्रवर्तते । तदर्थं चास्माकं आयूंषि प्रतारिषः प्रवर्तय । तरतेर्ण्यान्ताल्लेटि 'सिब्बहुलं लेटि' इति सिप् 'लेटोडाटौ' इत्यडागमः, 'उपसर्गाद्बहुलम्' इति नसो णत्वम् ॥
@@ -661,7 +771,18 @@ Lengthen our days for us.
 
 ## वैश्वानरः
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+वै॑श्वान॒रो न॑ ऊ॒त्या ..
+पृ॒ष्टो दि॒वि ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अथाग्नये वैश्वानराय द्वादशकपाल इत्यस्य याज्यापुरोनुनाक्ययोः प्रतीके दर्शयति– वैश्वानरो न इति।   वैश्वानरो न ऊत्या प्र यात्विति पुरोनुवाक्या ।   पृष्ठो दिवि पृष्ठो अग्निरिति याज्मा।   एतच्चोभयं वैश्वानरो न ऊत्येस्मिन्ननुवाके व्याख्यातम्।
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -689,6 +810,11 @@ Agni through the hymn which brings (him).
 अ॒ग्निरु॒क्थेन॒ वाह॑सा  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वै॒श्वा॒न॒रः । नः॒ । ऊ॒त्या । आ । प्रेति॑ । या॒तु॒ । प॒रा॒वत॒ इति॑ परा-वतः॑ ॥ अ॒ग्निः । उ॒क्थेन॑ । वाह॑सा ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **वैश्वानरः** विश्वेषां नराणां स्वामित्वेन सम्बन्धी अग्निः । 'नरे संज्ञायाम्' इति पूर्वपदस्य दीर्घत्वम् । **ऊत्या** मार्गेण करणेन अस्मद्रक्षणेन वा हेतुना आत्मनो वा तर्पणेन प्रयोजनेन । 'ऊतियूति' इति क्तिन उदात्तत्वं निपात्यते, 'उदात्तयणः' इति विभक्तेरुदात्तत्वं, 'ज्वरत्वर' इत्यादिना ऊठ् । 
@@ -701,7 +827,7 @@ Agni through the hymn which brings (him).
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/098/02_pRShTo_divi.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/098/02_pRShTo_divi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1100,7 +1226,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 अथ द्यावापृथिवीभ्यामँहोमुग्भ्यां द्विकपाल इत्यस्य पुरोनुवाक्यामाह– ये अप्रथेतामिति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/91_ye_aprathetAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/91_ye_aprathetAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1116,10 +1242,23 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/91_ye_aprathetAm.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Those that expanded with unmeasured might,  
+Those that became the supports of wealth,  
+I praise sky and earth; I invoke seeking aid,  
+May ye relieve us from tribulation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये अप्र॑थेता॒ममि॑तेभि॒रोजो॑भि॒र्ये प्र॑ति॒ष्ठे अभ॑वताव्ँ॒वसू॑नाम् ।
 स्तौमि॒ द्यावा॑पृथि॒वी ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्चत॒मँह॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये इति॑ । अप्र॑थेताम् । अमि॑तेभिः । ओजो॑भि॒रित्योजः॑-भिः॒ । ये इति॑ । प्र॒ति॒ष्ठे इति॑ प्रति-स्थे । अभ॑वताम् । वसू॑नाम् ॥ स्तौमि॑ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । ना॒थि॒तः । जो॒ह॒वी॒मि॒ । ते इति॑ । नः॒ । मु॒ञ्च॒त॒म् । अँह॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1135,7 +1274,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 तत्रैव याज्यामाह– उर्बी रोदसी इति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/95_urvI_rodasI.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/95_urvI_rodasI.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1151,10 +1290,23 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/95_urvI_rodasI.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+O ye broad firmaments, make room for us;  
+O rulers of the field, aid us;  
+I praise sky and earth; I invoke seeking aid,  
+May ye relieve us from tribulation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उर्वी॑ रोदसी॒ वरि॑वᳵ कृणोत॒ङ्क्षेत्र॑स्य पत्नी॒ अधि॑ नो ब्रूयातम् ।   
 स्तौमि॒ द्यावा॑पृथि॒वी ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्चत॒मँह॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उर्वी॒ इति॑ । रो॒द॒सी॒ इति॑ । वरि॑वः । कृ॒णो॒त॒म् । क्षेत्र॑स्य । प॒त्नी॒ इति॑ । अधीति॑ । नः॒ । ब्रू॒या॒त॒म् ॥ स्तौमि॑ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । ना॒थि॒तः । जो॒ह॒वी॒मि॒ । ते इति॑ । नः॒ । मु॒ञ्च॒त॒म् । अँह॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1171,7 +1323,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 अथ स्विष्टकृतः पुरोनुवाक्यामाह– यत्ते वयमिति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/99_yat_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/99_yat_te.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1187,10 +1339,23 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/99_yat_te.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Whatever sin we commit against thee,  
+As men are wont in ignorance, O most young [6],  
+Make us blameless before Aditi,  
+Remove our evil deeds on all sides, O Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्ते॑ व॒यम्पु॑रुष॒त्रा य॑वि॒ष्ठावि॑द्वाँसश्चकृ॒मा कच्च॒न [38]  आगः॑ ।   
 कृ॒धी स्व॑स्माँ अदि॑ते॒रना॑गा॒ व्येनाँ॑सि शिश्रथो॒ विष्व॑गग्ने
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । व॒यम् । पु॒रु॒ष॒त्रेति॑ पुरुष-त्रा । य॒वि॒ष्ठ॒ । अवि॑द्वाँसः । च॒कृ॒म । कत् । च॒न । आगः॑ ॥ कृ॒धि । स्विति॑ । अ॒स्मान् । अदि॑तेः । अना॑गाः । वीति॑ । एनाँ॑सि । शि॒श्र॒थः॒ । विष्व॑क् । अ॒ग्ने॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1208,7 +1373,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 तत्रैव याज्यामाह – यथा ह तदिति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/103_yathA_ha.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/103_yathA_ha.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1224,10 +1389,22 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/103_yathA_ha.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Even as ye did set free, O bright ones,  
+O ye that are worthy of offering, the buffalo cow bound by the foot, So do thou remove from us tribulation;  
+Be our life prolonged further, O Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा॑ ह॒ तद्व॑सवो गौ॒र्य॑ञ्चित्प॒दि षि॒ताममु॑ञ्चता यजत्राः ।   
 ए॒वा त्वम॒स्मत्प्र मु॑ञ्चा॒ व्यँह॒ᳶ प्राता॑र्यग्ने प्रत॒रान्न॒ आयुः॑ ॥ [39]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यथा॑ । ह॒ । तत् । व॒स॒वः॒ । गौ॒र्य॑म् । चि॒त् । प॒दि । सि॒ताम् । अमु॑ञ्चत । य॒ज॒त्राः॒ ॥ ए॒वा । त्वम् । अ॒स्मत् । प्रेति॑ । मु॒ञ्च॒ । वीति॑ । अँहः॑ । प्रेति॑ । अ॒ता॒रि॒ । अ॒ग्ने॒ । प्र॒त॒रामिति॑ प्र-त॒राम् । नः॒ । आयुः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -35,6 +35,11 @@ title = "०८ वसोर्धारा होममन्त्राः"
 हविर्धा᳓नञ्च  मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the kindling-wood for me, the strew, the altar, the lesser altars, the offering-spoons, the cups, the pressing-stones, the chips of the post, the sounding-holes, the two pressing-boards, the wooden tub, the Vayu cups, the bowl for the purified Soma, the mixing bowl, the Agnidh's altar, the oblation-holder (prosper for me through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒ध्मश्च॑ मे +++(कल्पताम्)+++ ।  
@@ -55,6 +60,11 @@ title = "०८ वसोर्धारा होममन्त्राः"
 ह॒वि॒र्धान॑ञ्च  मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इ॒ध्मः । च॒ । मे॒ । ब॒र्हिः । च॒ । मे॒ । वेदिः॑ । च॒ । मे॒ । धिष्णि॑याः । च॒ । मे॒ । स्रुचः॑ । च॒ । मे॒ । च॒म॒साः । च॒ । मे॒ । ग्रावा॑णः । च॒ । मे॒ । स्वर॑वः । च॒ । मे॒ । उ॒प॒र॒वा इत्यु॑प-र॒वाः । च॒ । मे॒ । अ॒धि॒षव॑णे॒ इत्य॑धि-सव॑ने । च॒ । मे॒ । द्रो॒ण॒क॒ल॒श इति॑ द्रोण-क॒ल॒शः । च॒ । मे॒ । वा॒य॒व्या॑नि । च॒ । मे॒ । पू॒त॒भृदिति॑ पूत-भृत् । च॒ । मे॒ । आ॒ध॒व॒नीय॒ इत्या॑-ध॒व॒नीयः॑ । च॒ । मे॒ । आग्नी॑ध्र॒मित्याग्नि॑-इ॒ध्र॒म् । च॒ । मे॒ । ह॒वि॒र्धान॒मिति॑ हविः-धान॑म् । च॒ । मे॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 इध्मादीनि यज्ञाङ्गद्रव्याणि यज्ञप्रकरणे प्रसिद्धानि ।  
@@ -67,11 +77,21 @@ title = "०८ वसोर्धारा होममन्त्राः"
 पुरोडा᳓शाश्च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the house, the Sadas, the cakes (prosper for me through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृ॒हाश्च॑ मे॒  +++(कल्पताम्)+++ ।  
 सद॑श्च मे +++(कल्पताम्)+++ ।  
 पु॒रो॒डाशा॑श्च मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गृ॒हाः । च॒ । मे॒ । सदः॑ । च॒ । मे॒ । पु॒रो॒डाशाः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -85,10 +105,20 @@ title = "०८ वसोर्धारा होममन्त्राः"
 अवभृथ᳓श्च  मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the cooked offerings, the final bath (prosper for me through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒च॒ताश्च॑ मे +++(कल्पताम्)+++ ।
 अ॒व॒भृ॒थश्च॑  मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒च॒ताः । च॒ । मे॒ । अ॒व॒भृ॒थ इत्य॑व-भृ॒थः । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -101,9 +131,19 @@ title = "०८ वसोर्धारा होममन्त्राः"
 स्वगाकार᳓श्च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the cry of 'Godspeed' prosper for me through the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्व॒गा॒का॒रश्च॑ मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्व॒गा॒का॒र इति॑ स्वगा-का॒रः । च॒ । मे॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

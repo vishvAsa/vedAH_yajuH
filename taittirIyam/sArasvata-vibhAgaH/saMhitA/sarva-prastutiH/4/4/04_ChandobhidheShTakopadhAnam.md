@@ -295,6 +295,13 @@ _______
 मूर्ध्नो᳓ वि᳓श्वस्य वाघ᳓तः ॥
 </details>
 
+<details><summary>Keith</summary>
+
+Thee, O Agni, from the lotus  
+Atharvan pressed out  
+From the head of every priest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वाम॑ग्ने॒ पुष्क॑रा॒दध्यथ॑र्वा॒ निर॑मन्थत ।    
@@ -320,6 +327,13 @@ _______
 
 अय᳓मग्नि᳓स्सहस्रि᳓णो वा᳓जस्य शति᳓नस्प᳓तिः ।    
 मूर्धा᳓ कवी᳓ रयीणा᳓म् ॥  
+</details>
+
+<details><summary>Keith</summary>
+
+This Agni is lord of a thousandfold,  
+A hundredfold, strength;  
+The sage, the head of wealth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -354,6 +368,14 @@ _______
 
 </div>
 
+<details><summary>Keith</summary>
+
+Leader of the sacrifice and the region art thou,  
+Where with steeds auspicious thou dost resort;  
+Thou placest in the sky thy head winning light,  
+Thou makest, O Agni, thy tongue to bear the oblation.
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/04_ChandobhidheShTakopadhAnam/bhuvo_yaJNasya.md">
 
 <details><summary>मूलम्</summary>
@@ -387,6 +409,14 @@ _______
 यह्वा᳓ इव प्र᳓ वया᳓मुज्जि᳓हानाᳶ प्र᳓ भान᳓वस्सिस्रते ना᳓कम᳓च्छ ।    
 </details>
 
+<details><summary>Keith</summary>
+
+Agni hath been awakened by the kindling-stick of men  
+To meet the dawn that cometh on like a cow;  
+Like young ones rising up to a branch,  
+The rays rise towards the vault.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अबो॑ध्य॒ग्निस्स॒मिधा॒ जना॑नाम् [10]  प्रति॑ धे॒नुमि॑वाय॒तीमु॒षास॑म् ।    
@@ -408,6 +438,14 @@ _______
 
 अ᳓वोचाम कव᳓ये मे᳓ध्याय व᳓चो वन्दा᳓रु वृषभा᳓य वृ᳓ष्णे ।    
 ग᳓विष्ठिरो न᳓मसा स्तो᳓ममग्नौ᳓ दिवी᳓वरुक्म᳓मुर्व्य᳓ञ्चमश्रेत् ।   
+</details>
+
+<details><summary>Keith</summary>
+
+We have uttered to the sage, the worshipful,  
+Our voice of praise, to the strong bull;  
+Gavisthira with his homage hath raised to Agni this laud,  
+Wide extending like brilliance in the sky.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -432,6 +470,14 @@ _______
 घृत᳓प्रतीको बृहता᳓ दिविस्पृ᳓शा द्युम᳓द्वि᳓ भाति भरते᳓भ्यश्शु᳓चिः ।    
 </details>
 
+<details><summary>Keith</summary>
+
+He hath been born as guardian of men, wakeful,  
+Agni, skilful, for fresh prosperity;  
+Ghee-faced, with mighty sky-reaching (blaze)  
+He shineth gloriously, pure for the Bharatas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जन॑स्य गो॒पा अ॑जनिष्ट॒ जागृ॑विर॒ग्निस्सु॒दक्ष॑स्सुवि॒ताय॒ नव्य॑से ।    
@@ -452,6 +498,14 @@ _______
 
 त्वा᳓मग्ने अ᳓ङ्गिर᳓सः᳓ [11]  गु᳓हा हित᳓म᳓न्वविन्दञ्छिश्रियाणव्ँ᳓व᳓नेवने ।  
 स᳓ जायसे मथ्य᳓मानस्स᳓हो मह᳓त्त्वा᳓माहुस्स᳓हसस्पुत्र᳓मङ्गिरः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thee, O Agni, the Angirases found  
+When hidden in secret, resting in every wood;  
+Thou when rubbed art born as mighty strength;  
+Son of strength they call thee, O Angiras.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -476,6 +530,14 @@ _______
 इ᳓न्द्रेण देवै᳓स्सर᳓थँ स᳓ बर्हि᳓षि सी᳓दन्नि᳓ हो᳓ता यज᳓थाय सुक्र᳓तुः ।    
 </details>
 
+<details><summary>Keith</summary>
+
+Banner of the sacrifice, first domestic priest,  
+Agni men kindle in the three stations;  
+With Indra and the gods conjoined on the strew  
+Let him sit, as Hotr, well skilled for sacrificing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञस्य॑ के॒तुम्प्र॑थ॒मम्पु॒रोहि॑तम॒ग्निन्नर॑स्त्रिषध॒स्थे समि॑न्धते ।    
@@ -496,6 +558,14 @@ _______
 
 त्वा᳓ञ्चित्रश्रवस्तम ह᳓वन्ते विक्षु᳓ जन्त᳓वः ।    
 शोचि᳓ष्केशम्पुरुप्रिया᳓ग्ने हव्या᳓य वो᳓ढवे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+Thee of most resplendent fame  
+Men invoke in their dwellings,  
+With flaming hair, O dear to many,  
+O Agni, to bear the oblation.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -520,6 +590,14 @@ _______
 व᳓र्षिष्ठाय क्षितीना᳓मूर्जो᳓ न᳓प्त्रे स᳓हस्वते ।    
 </details>
 
+<details><summary>Keith</summary>
+
+O friends, together (offer) fit  
+Food and praise to Agni,  
+Highest over the folk,  
+The son of strength, the mighty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सखा॑य॒स्सव्ँव॑स्स॒म्यञ्च॒मिष॑म् [12]  स्तोम॑ञ्चा॒ग्नये॑ ।    
@@ -540,6 +618,14 @@ _______
 
 सँ᳓समि᳓द्युवसे वृषन्न᳓ग्ने वि᳓श्वान्यर्य᳓ आ᳓ ।    
 इड᳓स्पदे᳓ स᳓मिध्यसे स᳓ नो व᳓सून्या᳓ भर ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou gatherest, O strong one,  
+O Agni, all that belongeth to the niggard;  
+Thou art kindled in the place of offering;  
+Do thou bear us good things.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -564,6 +650,14 @@ _______
 प्रिय᳓ञ्चे᳓तिष्ठमरतिँ᳓ स्वध्वरव्ँ᳓वि᳓श्वस्य दूत᳓ममृ᳓तम् ।    
 </details>
 
+<details><summary>Keith</summary>
+
+With this homage Agni,  
+Son of strength, I invoke,  
+Dear, most effectual messenger, the good sacrificer,  
+The envoy of all, immortal.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ना वो॑ अ॒ग्निन्नम॑सो॒र्जो नपा॑त॒मा हु॑वे ।    
@@ -584,6 +678,14 @@ _______
 
 स᳓ योजते अरुषो᳓ विश्व᳓भोजसा स᳓ दुद्रवत्स्वा᳙हुतः ।    
 सुब्र᳓ह्मा यज्ञ᳓स्सुश᳓मी [13]  व᳓सूनान्देवँ᳓ रा᳓धो ज᳓नानाम् ।    
+</details>
+
+<details><summary>Keith</summary>
+
+He, the ruddy, shall yoke (his steeds) all cherishing,  
+He shall hasten when well adored;  
+The sacrifice hath good prayer and strong effort,  
+Of the Vasus, the divine gift of men.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -608,6 +710,14 @@ _______
 उ᳓द्धूमा᳓सो अरुषा᳓सो दिविस्पृ᳓शस्स᳓मग्नि᳓मिन्धते न᳓रः ।   
 </details>
 
+<details><summary>Keith</summary>
+
+The radiance of the bounteous offerer  
+Hath mounted on high,  
+The ruddy smoke (riseth) touching the sky;  
+Men in unison kindle Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उद॑स्य शो॒चिर॑स्थादा॒जुह्वा॑नस्य मी॒ढुषः॑ ।    
@@ -628,6 +738,13 @@ _______
 
 अ᳓ग्ने वा᳓जस्य गो᳓मत ई᳓शानस्सहसो यहो ।    
 अस्मे᳓ धेहि जातवेदो म᳓हि श्र᳓वः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni, lording it over strength rich in kine,  
+Youthful son of strength,  
+Bestow upon us, O all-knower, great fame.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -652,6 +769,13 @@ _______
 रेव᳓दस्म᳓भ्यम्पुर्वणीक दीदिहि ।    
 </details>
 
+<details><summary>Keith</summary>
+
+Being kindled, bright, sage,  
+Agni, to be praised with song,  
+Do thou shine with wealth for us, O thou of many faces.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स इ॑धा॒नो वसु॑ष्क॒विर॒ग्निरी॒डेन्यो॑ गि॒रा ।    
@@ -672,6 +796,13 @@ _______
 
 क्षपो᳓ राजन्नुत᳓ त्म᳓ना᳓ग्ने व᳓स्तोरुतो᳓ष᳓सः ।    
 स᳓ तिग्मजम्भ [14]  रक्ष᳓सो दह प्र᳓ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni, lord of the night,  
+And of the morning, and of the dawn,  
+Do thou burn against the Raksases with sharp jaws.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -696,6 +827,15 @@ _______
 य᳓द्ध स्या᳓ ते प᳓नीयसी समि᳓द्दीद᳓यति द्य᳓वी᳓षँ स्तोतृ᳓भ्य आ᳓ भर ।    
 </details>
 
+<details><summary>Keith</summary>
+
+May we kindle thee, O Agni,  
+Radiant, O god, and unaging;  
+When this most desirable  
+Kindling-stick maketh radiance for thee in the sky,  
+Do thou bear food to thy praisers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ ते॑ अग्न इधीमहि द्यु॒मन्त॑न्देवा॒जर॑म् ।    
@@ -716,6 +856,15 @@ _______
 
 आ᳓ ते अग्न ऋचा᳓ हवि᳓श्शुक्र᳓स्य ज्योतिषस्पते ।    
 सु᳓श्चन्द्र द᳓स्म वि᳓श्पते ह᳓व्यवाट्तु᳓भ्यँ हूयत इ᳓षँ स्तोतृ᳓भ्य आ᳓ भर ।   
+</details>
+
+<details><summary>Keith</summary>
+
+With the song, O Agni, the oblation,  
+O lord of brilliant light,  
+Bright shining, wonderworker, lord of the people,  
+O bearer of the oblation, is offered to thee;  
+Do thou bear food to thy praisers.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1117,6 +1266,13 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 ऋध्या᳓मा त ओ᳓हैः ।    
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni to-day, let us make to prosper by praises,  
+By devotions, for thee this (sacrifice) like a (good) steed,  
+Like a noble resolve which toucheth the heart.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॒ तम॒द्याश्व॒न्न स्तोमै॒ᳵ क्रतु॒न्न भ॒द्रँ हृ॑दि॒स्पृश॑म् ।    
@@ -1137,6 +1293,12 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 अ᳓धा ह्य᳙ग्ने क्र᳓तोर्भद्र᳓स्य द᳓क्षस्य साधोः᳓ ।    
 रथी᳓रृत᳓स्य बृहतो᳓ बभू᳓थ ।
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni, thou hast become master  
+Of mighty holy order.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1161,6 +1323,13 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 प्र᳓ ते दिवो᳓ न᳓ स्तनयन्ति शु᳓ष्माः ।   
 </details>
 
+<details><summary>Keith</summary>
+
+With these songs singing to thee, O Agni,  
+This day let us pay worship;  
+Thy strengths thunder forth as from the sky.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒भिष्टे॑ अ॒द्य गी॒र्भिर्गृ॒णन्तोऽग्ने॒ दाशे॑म ।    
@@ -1181,6 +1350,13 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 एभि᳓र्नो अर्कै᳓र्भ᳓वा नो अर्वा᳓ङ् [16]  सु᳓वर्न᳓ ज्यो᳓तिः ।    
 अ᳓ग्ने वि᳓श्वेभिस्सुम᳓ना अ᳓नीकैः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+At these our hymns of praise do thou be propitious,  
+Like the light of heaven,  
+O Agni, propitious with all thy faces.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1207,6 +1383,17 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 घृत᳓स्य वि᳓भ्राष्टिम᳓नु शुक्र᳓शोचिष आजु᳓ह्वानस्य सर्पि᳓षः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Agni I deem the Hotr, the generous wealth-giver,  
+The son of strength, the all-knower,  
+Who knoweth all as a sage,  
+Who offereth sacrifice well,  
+With beauty soaring aloft towards the gods, the god,  
+Following the flames of the ghee,  
+Of the butter of brilliant radiance when offered up.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निँ होता॑रम्मन्ये॒ दास्व॑न्तव्ँ॒वसोः॑ सू॒नुँ सह॑सो जा॒तवे॑दसम् ।    
@@ -1231,6 +1418,12 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 उत᳓ त्राता᳓ शिवो᳓ भव वरूथ्यः᳙ ।
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, be thou our nearest,  
+Our protector, kindly, a shield;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॒ त्वन्नो॒ अन्त॑मः ।    
@@ -1253,6 +1446,12 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 सुम्ना᳓य नून᳓मीमहे स᳓खिभ्यः ।    
 </details>
 
+<details><summary>Keith</summary>
+
+Thee, O shining and most radiant one,  
+We implore for favour, for our friends.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन्त्वा॑ शोचिष्ठ दीदिवः ।    
@@ -1273,6 +1472,12 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 व᳓सुरग्नि᳓र्व᳓सुश्रवाः ।    
 अ᳓च्छा नक्षि द्युम᳓त्तमो रयि᳓न्दाः ॥   [17]  
+</details>
+
+<details><summary>Keith</summary>
+
+Agni, bright, of bright fame,  
+Come hither in thy greatest splendour and give us wealth.
 </details>
 
 <details><summary>मूलम्</summary>

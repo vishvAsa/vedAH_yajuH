@@ -27,9 +27,19 @@ title = "०९ अग्न्युत्पादनम्"
 आ᳓कूतिमग्नि᳓म्प्रयु᳓जँ स्वा᳓हा ।
 </details>
 
+<details><summary>Keith</summary>
+
+Purpose, Agni, impulse, hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 आकू॑तिम॒ग्निम्प्र॒युजँ॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आकू॑ति॒मित्या-कू॒ति॒म् । अ॒ग्निम् । प्र॒युज॒मिति॑ प्र-युज॑म् । स्वाहा॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -42,9 +52,19 @@ title = "०९ अग्न्युत्पादनम्"
 म᳓नो मेधा᳓मग्नि᳓म्प्रयु᳓जँ स्वा᳓हा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Mind, intellect, Agni, impulse, hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 मनो॑ मे॒धाम॒ग्निम्प्र॒युजँ॒ स्वाहा॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मनः॑ । मे॒धाम् । अ॒ग्निम् । प्र॒युज॒मिति॑ प्र-युज॑म् । स्वाहा॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -57,9 +77,19 @@ title = "०९ अग्न्युत्पादनम्"
 चित्तव्ँ᳓वि᳓ज्ञातमग्नि᳓म्प्रयु᳓जँ स्वा᳓हा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thought, knowledge, Agni, impulse, hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 चि॒त्तव्ँविज्ञा॑तम॒ग्निम्प्र॒युजँ॒ स्वाहा॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चि॒त्तम् । विज्ञा॑त॒मिति॒ वि-ज्ञा॒त॒म् । अ॒ग्निम् । प्र॒युज॒मिति॑ प्र-युज॑म् । स्वाहा॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -72,9 +102,19 @@ title = "०९ अग्न्युत्पादनम्"
 वाचो᳓ वि᳓धृतिमग्नि᳓म्प्रयु᳓जँ स्वा᳓हा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Discrimination of speech, Agni, impulse, hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒चो विधृ॑तिम॒ग्निम्प्र॒युजँ॒ स्वाहा॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒चः । विधृ॑ति॒मिति॒ वि-धृ॒ति॒म् । अ॒ग्निम् । प्र॒युज॒मिति॑ प्र-युज॑म् । स्वाहा॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -87,9 +127,19 @@ title = "०९ अग्न्युत्पादनम्"
 प्रजा᳓पतये म᳓नवे स्वा᳓हा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+To Manu, lord of creatures, hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तये॒ मन॑वे॒ स्वाहा॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑तय॒ इति॑ प्र॒जा-प॒त॒ये॒ । मन॑वे । स्वाहा॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -102,9 +152,19 @@ title = "०९ अग्न्युत्पादनम्"
 अग्न᳓ये वैश्वानरा᳓य स्वा᳓हा ।
 </details>
 
+<details><summary>Keith</summary>
+
+To Agni Vaiśvanara hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नये॑ वैश्वान॒राय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नये॑ । वै॒श्वा॒न॒राय॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -120,10 +180,23 @@ title = "०९ अग्न्युत्पादनम्"
 द्युम्नव्ँ᳓वृणीत पुष्य᳓से स्वा᳓हा ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Let every man choose the companionship  
+Of the god who leadeth;  
+Every man prayeth for wealth;  
+Let him choose glory that he may prosper; hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्वे॑ दे॒वस्य॑ ने॒तुर्मर्तो॑ वृणीत स॒ख्यव्ँविश्वे॑ रा॒य इ॑षुध्यसि ।  
 द्यु॒म्नव्ँवृ॑णीत पु॒ष्यसे॒ स्वाहा॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्वे॑ । दे॒वस्य॑ । ने॒तुः । मर्तः॑ । वृ॒णी॒त॒ । स॒ख्यम् । विश्वे॑ । रा॒यः । इ॒षु॒ध्य॒सि॒ । द्यु॒म्नम् । वृ॒णी॒त॒ । पु॒ष्यसे॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -166,10 +239,20 @@ title = "०९ अग्न्युत्पादनम्"
 अ᳓म्ब धृष्णु वीर᳓यस्व [35] अग्नि᳓श्चेद᳓ङ्करिष्यथः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Mitra, heat this pan; may it not break.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मा सु भि॑त्था॒ मा सु रि॑षो॒ दृँह॑स्व वी॒डय॑स्व॒ सु ।  
 अम्ब॑ धृष्णु वी॒रय॑स्व [35] अ॒ग्निश्चे॒दङ्क॑रिष्यथः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मा । स्विति॑ । भि॒त्थाः॒ । मा । स्विति॑ । रि॒षः॒ । दृँह॑स्व । वी॒डय॑स्व । सु ॥ अम्ब॑ । धृ॒ष्णु॒ । वी॒रय॑स्व । अ॒ग्निः । च॒ । इ॒दम् । क॒रि॒ष्य॒थः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -188,10 +271,22 @@ title = "०९ अग्न्युत्पादनम्"
 जु᳓ष्टन्देवा᳓नामिद᳓मस्तु हव्य᳓म᳓रिष्टा त्व᳓मु᳓दिहि यज्ञे᳓ अस्मि᳓न् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Be firm, O goddess earth, for prosperity;  
+Thou art the wile of the Asura, made with power; Let this oblation be pleasing to the gods;  
+Do thou emerge uninjured at this our sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दृँह॑स्व देवि पृथिवि स्व॒स्तय॑ आसु॒री मा॒या स्व॒धया॑ कृ॒तासि॑ ।  
 जुष्ट॑न्दे॒वाना॑मि॒दम॑स्तु ह॒व्यमरि॑ष्टा॒ त्वमुदि॑हि य॒ज्ञे अ॒स्मिन् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दृँह॑स्व । दे॒वि॒ । पृ॒थि॒वि॒ । स्व॒स्तये॑ । आ॒सु॒री । मा॒या । स्व॒धयेति॑ स्व-धया॑ । कृ॒ता । अ॒सि॒ ॥ जुष्ट॑म् । दे॒वाना॑म् । इ॒दम् । अ॒स्तु॒ । ह॒व्यम् । अरि॑ष्टा । त्वम् । उदिति॑ । इ॒हि॒ । य॒ज्ञे । अ॒स्मिन्न् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -210,9 +305,19 @@ title = "०९ अग्न्युत्पादनम्"
 मि᳓त्रैता᳓मुखा᳓न्तप ।
 </details>
 
+<details><summary>Keith</summary>
+
+O Mitra, heat this pan;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मित्रै॒तामु॒खान्त॑प ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मित्र॑ । ए॒ताम् । उ॒खाम् । त॒प॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -225,9 +330,19 @@ title = "०९ अग्न्युत्पादनम्"
 एषा᳓ मा᳓ भेदि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+may it not break.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒षा मा भे॑दि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षा । मा । भे॒दि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -240,9 +355,19 @@ title = "०९ अग्न्युत्पादनम्"
 एता᳓न्ते प᳓रि ददाम्य᳓भित्त्यै ।
 </details>
 
+<details><summary>Keith</summary>
+
+This I place around thee, to prevent breaking.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒तान्ते॒ परि॑ ददा॒म्यभि॑त्त्यै ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒ताम् । ते॒ । परीति॑ । द॒दा॒मि॒ । अभि॑त्त्यै ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -275,10 +400,22 @@ title = "०९ अग्न्युत्पादनम्"
 स᳓हसस्पुत्रो᳓ अ᳓द्भुतः ।
 </details>
 
+<details><summary>Keith</summary>
+
+Feeding on wood, sipping clarified butter,  
+The ancient desirable Hotr,  
+Son of strength, the wondrous.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्र्व॑न्नस्स॒र्पिरा॑सुतिᳶ प्र॒त्नो होता॒ वरे॑ण्यः ।  
 सह॑सस्पु॒त्रो अद्भु॑तः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्र्व॑न्न॒ इति॒ द्रु-अ॒न्नः॒ । स॒र्पिरा॑सुति॒रिति॑ स॒र्पिः-आ॒सु॒तिः॒ । प्र॒त्नः । होता॑ । वरे॑ण्यः ॥ सह॑सः । पु॒त्रः । अद्भु॑तः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -301,10 +438,22 @@ title = "०९ अग्न्युत्पादनम्"
 य᳓त्राह᳓म᳓स्मि ताँ᳓ अव ।  
 </details>
 
+<details><summary>Keith</summary>
+
+From a far region  
+Come hither to these lower ones [2]  
+Favour those in the region where I am.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पर॑स्या॒ अधि॑ सव्ँ॒वतोऽव॑राँ अभ्या [36] त॒र॒ ।  
 यत्रा॒हमस्मि॒ ताँ अ॑व ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पर॑स्याः । अधीति॑ । सव्ँ॒वत॒ इति॑ सम्-वतः॑ । अव॑रान् । अ॒भि । एति॑ । त॒र॒ ॥ यत्र॑ । अ॒हम् । अस्मि॑ । तान् । अ॒व॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -323,10 +472,23 @@ title = "०९ अग्न्युत्पादनम्"
 पुरीष्यᳶ᳙ पुरुप्रियो᳓ऽग्ने त्व᳓न्तरा मृ᳓धः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+From a far distance  
+Do thou of ruddy steeds come hither;  
+Of the dust, dear to many,  
+O Agni, do thou overcome obstructions.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒र॒मस्याः॑ परा॒वतो॑ रो॒हिद॑श्व इ॒हा ग॑हि ।  
 पु॒री॒ष्यᳶ॑ पुरुप्रि॒योऽग्ने॒ त्वन्त॑रा॒ मृधः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒र॒मस्याः॑ । प॒रा॒वत॒ इति॑ परा-वतः॑ । रो॒हिद॑श्व॒ इति॑ रो॒हित्-अ॒श्वः॒ । इ॒ह । एति॑ । ग॒हि॒ ॥ पु॒री॒ष्यः॑ । पु॒रु॒प्रि॒य इति॑ पुरु-प्रि॒यः । अग्ने॑ । त्वम् । त॒र॒ । मृधः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -347,10 +509,23 @@ title = "०९ अग्न्युत्पादनम्"
 मै᳓नामर्चि᳓षा मा᳓ त᳓पसाभि᳓ शूशुचोऽन्त᳓रस्याँ शुक्र᳓ज्योतिर्वि᳓ भाहि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Do thou sit down in the lap of this mother,  
+O Agni, knowing all the ways;  
+Consume her not with light nor with heat,  
+Within her shine with pure radiance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सीद॒ त्वम्मा॒तुर॒स्या उ॒पस्थे॒ विश्वा॑न्यग्ने व॒युना॑नि वि॒द्वान् ।  
 मैना॑म॒र्चिषा॒ मा तप॑सा॒भि शू॑शुचो॒ऽन्तर॑स्याँ शु॒क्रज्यो॑ति॒र्वि भा॑हि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सीद॑ । त्वम् । मा॒तुः । अ॒स्याः । उ॒पस्थ॒ इत्यु॒प-स्थे॒ । विश्वा॑नि । अ॒ग्ने॒ । व॒युना॑नि । वि॒द्वान् ॥ मा । ए॒ना॒म् । अ॒र्चिषा॑ । मा । तप॑सा । अ॒भीति॑ । शू॒शु॒चः॒ । अ॒न्तः । अ॒स्या॒म् । शु॒क्रज्यो॑ति॒रिति॑ शु॒क्र-ज्यो॒तिः॒ । वीति॑ । भा॒हि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -369,10 +544,23 @@ title = "०९ अग्न्युत्पादनम्"
 त᳓स्यास्त्वँ᳓ ह᳓रसा त᳓पञ्जा᳓तवेदश्शिवो᳓ भव ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, with glow  
+Within thine own seat of the pan,  
+Heating with her blaze,  
+Be thou, O all-knower, auspicious.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तर॑ग्ने रु॒चा त्वमु॒खायै॒ सद॑ने॒ स्वे ।  
 तस्या॒स्त्वँ हर॑सा॒ तप॒ञ्जात॑वेदश्शि॒वो भ॑व ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्तः । अ॒ग्ने॒ । रु॒चा । त्वम् । उ॒खायै॑ । सद॑ने । स्वे ॥ तस्याः॑ । त्वम् । हर॑सा । तप॑न् । जात॑वेद॒ इति॒ जात॑-वे॒दः॒ । शि॒वः । भ॒व॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -386,10 +574,23 @@ title = "०९ अग्न्युत्पादनम्"
 शिवाᳵ᳓ कृत्वा᳓ दि᳓शस्स᳓र्वास्स्वाय्ँ᳓यो᳓निमिहा᳓सदः ॥ [37]  
 </details>
 
+<details><summary>Keith</summary>
+
+Becoming auspicious to me, O Agni,  
+Do thou sit down auspicious;  
+Having made all the quarters auspicious  
+Sit here on thine own birthplace.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शि॒वो भू॒त्वा मह्य॑म॒ग्नेऽथो॑ सीद शि॒वस्त्वम् ।  
 शि॒वाᳵ कृ॒त्वा दिश॒स्सर्वा॒स्स्वाय्ँयोनि॑मि॒हास॑दः ॥ [37]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शि॒वः । भू॒त्वा । मह्य॑म् । अ॒ग्ने॒ । अथो॒ इति॑ । सी॒द॒ । शि॒वः । त्वम् ॥ शि॒वाः । कृ॒त्वा । दिशः॑ । सर्वाः॑ । स्वाम् । योनि॑म् । इ॒ह । एति॑ । अ॒स॒दः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

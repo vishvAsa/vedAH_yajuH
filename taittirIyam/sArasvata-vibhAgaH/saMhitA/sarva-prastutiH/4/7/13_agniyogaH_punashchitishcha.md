@@ -14,7 +14,7 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 तत्र प्रथमामाह– अग्निं युनज्मीति।  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/02_agniy.Nyunajmi_shavasA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/02_agniy.Nyunajmi_shavasA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -28,10 +28,23 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/02_agniy.Nyunajmi_shavasA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Agni I yoke with glory, with ghee,  
+The bird divine mighty in strength;  
+Therewith may we fly to the expanse of the ruddy one,  
+Mounting the heaven above the highest vault.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निय्ँयु॑नज्मि॒ शव॑सा घृ॒तेन॑ दि॒व्यँ सु॑प॒र्णव्ँवय॑सा बृ॒हन्त॑म् ।   
 तेन॑ व॒यम्प॑तेम ब्र॒ध्नस्य॑ वि॒ष्टपँ॒ सुवो॒ रुहा॑णा॒ अधि॒ नाक॑ उत्त॒मे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निम् । यु॒न॒ज्मि॒ । शव॑सा । घृ॒तेन॑ । दि॒व्यम् । सु॒प॒र्णमिति॑ सु-प॒र्णम् । वय॑सा । बृ॒हन्त॑म् ॥ तेन॑ । व॒यम् । प॒ते॒म॒ । ब्र॒ध्नस्य॑ । वि॒ष्टप॑म् । सुवः॑ । रुहा॑णाः । अधीति॑ । नाके॑ । उ॒त्त॒म इत्यु॑त्-त॒मे ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -50,7 +63,7 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 अथ द्वितीयामाह– इमौ ते पक्षावति।  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/06_imau_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/06_imau_te.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -64,10 +77,23 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/06_imau_te.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+These are wings unaging of thee, the winged,  
+Wherewith thou dost smite away the Raksases, O Agni;  
+With these may we fly to the world of good men,  
+Where are the seers, the first-born, those of yore.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मौ ते॑ प॒क्षाव॒जरौ॑ पत॒त्रिणो॒ याभ्याँ॒ रक्षाँ॑स्यप॒हँस्य॑ग्ने ।   
 ताभ्या॑म्पतेम सु॒कृता॑मु लो॒कय्ँयत्रर्ष॑यᳶ प्रथम॒जा ये पु॑रा॒णाः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒मौ । ते॒ । प॒क्षौ । अ॒जरौ॑ । प॒त॒त्रिणः॑ । याभ्या॑म् । रक्षाँ॑सि । अ॒प॒हँसीत्य॑प-हँसि॑ । अ॒ग्ने॒ ॥ ताभ्या॑म् । प॒ते॒म॒ । सु॒कृता॒मिति॑ सु-कृता॑म् । उ॒ । लो॒कम् । यत्र॑ । ऋष॑यः । प्र॒थ॒म॒जा इति॑ प्रथम-जाः । ये । पु॒रा॒णाः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -85,7 +111,7 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 तृतीयामाह – चिदसि समुद्रेति ।  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/10_chidasi_samudrayonirindurdakhShashshyena.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/10_chidasi_samudrayonirindurdakhShashshyena.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -99,10 +125,23 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/10_chidasi_samudrayonirindurdakhShashshyena.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Thou art piling, born of the ocean, the drop,  
+The skilled one, the eagle, the righteous,  
+The golden-winged busy bird, mighty,  
+That hath sat down firmly in its place [1].
+</details>
+
 <details><summary>मूलम्</summary>
 
 चिद॑सि समु॒द्रयो॑नि॒रिन्दु॒र्दक्ष॑श्श्ये॒न ऋ॒तावा॑ ।   
 हिर॑ण्यपक्षश्शकु॒नो भु॑र॒ण्युर्म॒हान्त्स॒धस्थे॑ ध्रु॒वः [24]  आ निष॑त्तः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चित् । अ॒सि॒ । स॒मु॒द्रयो॑नि॒रिति॑ समु॒द्र-यो॒निः॒ । इन्दुः॑ । दक्षः॑ । श्ये॒नः । ऋ॒तावेत्यृ॒त-वा॒ ॥ हिर॑ण्यपक्ष॒ इति॒ हिर॑ण्य-प॒क्षः॒ । श॒कु॒नः । भु॒र॒ण्युः । म॒हान् । स॒धस्थ॒ इति॑ स॒ध-स्थे॒ । ध्रु॒वः । एति॑ । निष॑त्त॒ इति॒ नि-स॒त्तः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -119,7 +158,7 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 कल्पः— “यज्ञायज्ञियस्य स्तोत्र एकयाऽप्रस्तुतं भवत्यथ नमस्ते अस्तु मा मा हिँ सीरिति द्वाभ्यामग्निमभिमृशति” इति।   तत्र प्रथमामाह– नमस्ते अस्त्विति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/14_namaste_astu.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/14_namaste_astu.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -133,10 +172,23 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/14_namaste_astu.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Homage be to thee; harm me not,  
+Thou dost stand resting on the head of all;  
+Within the ocean is thy heart, thy life;  
+Sky and earth are placed on the worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑स्ते अस्तु॒ मा मा॑ हिँसी॒र्विश्व॑स्य मू॒र्धन्नधि॑ तिष्ठसि श्रि॒तः ।   
 स॒मु॒द्रे ते॒ हृद॑यम॒न्तरायु॒र्द्यावा॑पृथि॒वी भुव॑ने॒ष्वर्पि॑ते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । ते॒ । अस्तु॑ । मा । मा॒ । हिँ॒सीः॒ । विश्व॑स्य । मू॒र्धन् । अधीति॑ । ति॒ष्ठ॒सि॒ । श्रि॒तः ॥ स॒मु॒द्रे । ते॒ । हृद॑यम् । अ॒न्तः । आयुः॑ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । भुव॑नेषु । अर्पि॑ते॒ इति॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -152,7 +204,7 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 अथ द्वितीयामाह– उद्नो दत्तोदघिमिति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/18_udno_dattodadhimbhinta.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/18_udno_dattodadhimbhinta.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -167,11 +219,21 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/18_udno_dattodadhimbhinta.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Give of the water, cleave the holder of the water; from the sky, from Parjanya, from the atmosphere, from the earth, thence do ye help us with rain; thou art the head of the sky, the navel of earth, the strength of waters and plants, protection of all life, extending; homage to the way!
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒द्नो द॑त्तोद॒धिम्भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑वत ।  
 दि॒वो मू॒र्धासि॑ पृथि॒व्या नाभि॒रूर्ग॒पामोष॑धीनाम् ।
 वि॒श्वायु॒श्शर्म॑ स॒प्रथा॒ नम॑स्प॒थे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒द्नः । द॒त्त॒ । उ॒द॒धिमित्यु॑द-धिम् । भि॒न्त॒ । दि॒वः । प॒र्जन्या॑त् । अ॒न्तरि॑क्षात् । पृ॒थि॒व्याः । ततः॑ । नः॒ । वृष्ट्या॑ । अ॒व॒त॒ ॥ दि॒वः । मू॒र्धा । अ॒सि॒ । पृ॒थि॒व्याः । नाभिः॑ । ऊर्क् । अ॒पाम् । ओष॑धीनाम् ॥ वि॒श्वायु॒रिति॑ वि॒श्व-आ॒युः॒ । शर्म॑ । स॒प्रथा॒ इति॑ स-प्रथाः॑ । नमः॑ । प॒थे ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -198,7 +260,7 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 तत्र प्रथमामाह– येनर्षय इति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/22_yenarShayastapasA_sattram.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/22_yenarShayastapasA_sattram.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -212,10 +274,22 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/22_yenarShayastapasA_sattram.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+With that devotion wherewith the seers performed the session of sacrifice [2], Kindling Agni, bearing aloft the heaven,  
+I set on this vault that Agni  
+Whom men call him for whom the spread is strewed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 येनर्ष॑य॒स्तप॑सा स॒त्त्रम् [25]  आस॒तेन्धा॑ना अ॒ग्निँ सुव॑रा॒भर॑न्तः ।   
 तस्मि॑न्न॒हन्नि द॑धे॒ नाके॑ अ॒ग्निमे॒तय्ँयमा॒हुर्मन॑वस्स्ती॒र्णब॑र्हिषम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+येन॑ । ऋष॑यः । तप॑सा । स॒त्त्रम् । आस॑त । इन्धा॑नाः । अ॒ग्निम् । सुवः॑ । आ॒भर॑न्त॒ इत्या॑-भर॑न्तः ॥ तस्मि॑न् । अ॒हम् । नीति॑ । द॒धे॒ । नाके॑ । अ॒ग्निम् । ए॒तम् । यम् । आ॒हुः । मन॑वः । स्ती॒र्णब॑र्हिष॒मिति॑ स्ती॒र्ण-ब॒र्हि॒ष॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -231,7 +305,7 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 अथ द्वितीयामाह– तं पत्नीभिरिति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/26_tampatnIbhiranu_gachChema.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/26_tampatnIbhiranu_gachChema.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -245,10 +319,23 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/26_tampatnIbhiranu_gachChema.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Him with our wives let us pursue, O gods,  
+With our sons, our brothers, or by gold,  
+Seizing the vault in the world of good action,  
+Above the third firmament, in the light of the sky.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम्पत्नी॑भि॒रनु॑ गच्छेम देवाᳶ पु॒त्रैर्भ्रातृ॑भिरु॒त वा॒ हिर॑ण्यैः ।   
 नाक॑ङ्गृह्णा॒नास्सु॑कृ॒तस्य॑ लो॒के तृ॒तीये॑ पृ॒ष्ठे अधि॑ रोच॒ने दि॒वः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । पत्नी॑भिः । अन्विति॑ । ग॒च्छे॒म॒ । दे॒वाः॒ । पु॒त्रैः । भ्रातृ॑भि॒रिति॒ भ्रातृ॑-भिः॒ । उ॒त । वा॒ । हिर॑ण्यैः ॥ नाक॑म् । गृ॒ह्णा॒नाः । सु॒कृ॒तस्येति॑ सु-कृ॒तस्य॑ । लो॒के । तृ॒तीये॑ । पृ॒ष्ठे । अधीति॑ । रो॒च॒ने । दि॒वः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -264,7 +351,7 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 अथ तृतीयामाह– आ वाचो मध्यमेति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/30_A_vAcho.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/30_A_vAcho.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -278,10 +365,23 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/30_A_vAcho.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+To the middle of speech hath the busy one arisen,  
+Agni here, lord of the good, the wise;  
+Established on the back of the earth, the radiant one,  
+He casteth beneath his feet [3] the combatants.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ वा॒चो मध्य॑मरुहद्भुर॒ण्युर॒यम॒ग्निस्सत्प॑ति॒श्चेकि॑तानः ।   
 पृ॒ष्ठे पृ॑थि॒व्या निहि॑तो॒ दवि॑द्युतदधस्प॒दङ्कृ॑णुते [26] ये पृ॑त॒न्यवः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । वा॒चः । मध्य॑म् । अ॒रु॒ह॒त् । भु॒र॒ण्युः । अ॒यम् । अ॒ग्निः । सत्प॑ति॒रिति॒ सत्-प॒तिः॒ । चेकि॑तानः ॥ पृ॒ष्ठे । पृ॒थि॒व्याः । निहि॑त॒ इति॒ नि-हि॒तः॒ । दवि॑द्युतत् । अ॒ध॒स्प॒दमित्य॑धः-प॒दम् । कृ॒णु॒ते॒ । ये । पृ॒त॒न्यवः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -297,7 +397,7 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 अथ चतुर्थीमाह– अयमग्निरिति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/34_ayamagnirvIratamo_vayodhAssahasriyo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/34_ayamagnirvIratamo_vayodhAssahasriyo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -311,10 +411,23 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/34_ayamagnirvIratamo_vayodhAssahasriyo.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Let Agni here, the most manly, strength-bestowing,  
+Of a thousand shapes, shine unwearying,  
+Radiant in the midst of the ocean;  
+Do ye approach the abodes divine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यम॒ग्निर्वी॒रत॑मो वयो॒धास्स॑ह॒स्रियो॑ दीप्यता॒मप्र॑युच्छन् ।   
 वि॒भ्राज॑मानस्सरि॒रस्य॒ मध्य॒ उप॒ प्र या॑त दि॒व्यानि॒ धाम॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । अ॒ग्निः । वी॒रत॑म॒ इति॑ वी॒र-त॒मः॒ । व॒यो॒धा इति॑ वयः-धाः । स॒ह॒स्रियः॑ । दी॒प्य॒ता॒म् । अप्र॑युच्छ॒न्नित्यप्र॑-यु॒च्छ॒न् ॥ वि॒भ्राज॑मान॒ इति॑ वि-भ्राज॑मानः । स॒रि॒रस्य॑ । मध्ये॑ । उप॑ । प्रेति॑ । या॒त॒ । दि॒व्यानि॑ । धाम॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -325,7 +438,7 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/37_sampra_chyavadhvamanu.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/37_sampra_chyavadhvamanu.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -344,10 +457,23 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/37_sampra_chyavadhvamanu.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Move ye forward, go ye long together;  
+Make ye the paths gods travelled, O Agni;  
+In this highest abode  
+O All-gods, sit ye with the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सम्प्र च्य॑वध्व॒मनु॒ सम्प्र या॒ताग्ने॑ प॒थो दे॑व॒याना॑न्कृणुध्वम् ।   
 अ॒स्मिन्त्स॒धस्थे॒ अध्युत्त॑रस्मि॒न्विश्वे॑ देवा॒ यज॑मानश्च सीदत ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सम् । प्रेति॑ । च्य॒व॒ध्व॒म् । अन्विति॑ । सम् । प्रेति॑ । या॒त॒ । अग्ने॑ । प॒थः । दे॒व॒याना॒निति॑ देव-यानान्॑ । कृ॒णु॒ध्व॒म् ॥ अ॒स्मिन् । स॒धस्थ॒ इति॑ स॒ध-स्थे॒ । अधीति॑ । उत्त॑रस्मि॒न्नित्युत्-त॒र॒स्मि॒न् । विश्वे॑ । दे॒वाः॒ । यज॑मानः । च॒ । सी॒द॒त॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -363,7 +489,7 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 अथ षष्ठीमाह– येना सहस्रमिति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/41_yenA_sahasrav.Nvahasi.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/41_yenA_sahasrav.Nvahasi.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -377,10 +503,23 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/41_yenA_sahasrav.Nvahasi.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+That by which thou bearest a thousand,  
+Thou, O Agni, all wealth,  
+With that highest (path) for the gods to travel,  
+Do thou bear this sacrifice for us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 येना॑ स॒हस्रव्ँ॒वह॑सि॒ येना॑ग्ने सर्ववेद॒सम् ।   
 तेने॒मय्ँ य॒ज्ञन्नो॑ वह देव॒यानो॒ यः [27]  उ॒त्त॒मः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+येन॑ । स॒हस्र॑म् । वह॑सि । येन॑ । अ॒ग्ने॒ । स॒र्व॒वे॒द॒समिति॑ सर्व-वे॒द॒सम् ॥ तेन॑ । इ॒मम् । य॒ज्ञम् । नः॒ । व॒ह॒ । दे॒व॒यान॒ इति॑ देव-यानः॑ । यः । उ॒त्त॒म इत्यु॑त्-त॒मः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -396,7 +535,7 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 अथ सप्तमीमाह–  २२५९ उद्वुध्यस्वाग्न इति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -412,10 +551,24 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Awake, O Agni; be roused for him;  
+With this one do thou create sacrifice and donation;
+  
+Making thee, his father, young again  
+He hath stretched over thee this covering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उद्बु॑ध्यस्वाग्ने॒ प्रति॑ जागृह्येनमिष्टापू॒र्ते सँसृ॑जेथाम॒यञ्च॑ ।   
 पुन॑ᳵ कृ॒ण्वँस्त्वा॑ पि॒तरय्ँ॒युवा॑नम॒न्वाताँ॑सी॒त्त्वयि॒ तन्तु॑मे॒तम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उदिति॑ । बु॒ध्य॒स्व॒ । अ॒ग्ने॒ । प्रतीति॑ । जा॒गृ॒हि॒ । ए॒न॒म् । इ॒ष्टा॒पू॒र्ते इती॑ष्टा-पू॒र्ते । समिति॑ । सृ॒जे॒था॒म् । अ॒यम् । च॒ ॥ पुनः॑ । कृ॒ण्वन् । त्वा॒ । पि॒तर॑म् । युवा॑नम् । अ॒न्वाताँ॑सी॒दित्य॑नु-आताँ॑सीत् । त्वयि॑ । तन्तु॑म् । ए॒तम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -431,7 +584,7 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 अथाष्टमीमाह– अयं ते योनिरिति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/49_ayante_yonirRtviyo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/49_ayante_yonirRtviyo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -445,10 +598,23 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/49_ayante_yonirRtviyo.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+This is thy due place of birth,  
+Whence born thou didst shine,  
+Mount it, O Agni, knowing it,  
+And make our wealth increase.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यन्ते॒ योनि॑र्ऋ॒त्वियो॒ यतो॑ जा॒तो अरो॑चथाः ।   
 तञ्जा॒नन्न॑ग्न॒ आ रो॒हाथा॑ नो वर्धया र॒यिम् ॥ [28]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । ते॒ । योनिः॑ । ऋ॒त्वियः॑ । यतः॑ । जा॒तः । अरो॑चथाः ॥ तम् । जा॒नन् । अ॒ग्ने॒ । एति॑ । रो॒ह॒ । अथ॑ । नः॒ । व॒र्ध॒य॒ । र॒यिम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

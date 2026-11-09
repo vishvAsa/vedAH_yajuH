@@ -23,9 +23,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 श᳓ञ्च मे म᳓यश्च मे 
 </details>
 
+<details><summary>Keith</summary>
+
+May for me prosperity, comfort (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 शञ्च॑ मे॒ मय॑श्च मे 
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शम् । च॒ । मे॒ । मयः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -39,9 +49,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 प्रिय᳓ञ्च मेऽनुकाम᳓श्च मे  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me desire, wish (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रि॒यञ्च॑ मेऽनुका॒मश्च॑ मे॒
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रि॒यम् । च॒ । मे॒ । अ॒नु॒का॒म इत्य॑नु-का॒मः । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -56,9 +76,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 का᳓मश्च मे सौमनस᳓श्च मे  
 </details>
 
+<details><summary>Keith</summary>
+
+May for me longing, kindliness (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 काम॑श्च मे सौमन॒सश्च॑ मे 
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कामः॑ । च॒ । मे॒ । सौ॒म॒न॒सः । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -72,9 +102,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 भद्र᳓ञ्च मे श्रे᳓यश्च मे
 </details>
 
+<details><summary>Keith</summary>
+
+May for me good, better (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 भ॒द्रञ्च॑ मे॒ श्रेय॑श्च मे॒
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भ॒द्रम् । च॒ । मे॒ । श्रेयः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -88,9 +128,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 व᳓स्यश्च मे य᳓शश्च मे
 </details>
 
+<details><summary>Keith</summary>
+
+May for me superior, fame (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 वस्य॑श्च मे॒ यश॑श्च मे॒
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वस्यः॑ । च॒ । मे॒ । यशः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -104,9 +154,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 भ᳓गश्च मे द्र᳓विणञ्च मे
 </details>
 
+<details><summary>Keith</summary>
+
+May for me good luck, riches (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 भग॑श्च मे॒ द्रवि॑णञ्च मे
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भगः॑ । च॒ । मे॒ । द्रवि॑णम् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -120,9 +180,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 यन्ता᳓ च मे धर्ता᳓ च मे
 </details>
 
+<details><summary>Keith</summary>
+
+May for me restrainer, supporter (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒न्ता च॑ मे ध॒र्ता च॑ मे॒
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒न्ता । च॒ । मे॒ । ध॒र्ता । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -136,9 +206,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 क्षे᳓मश्च मे धृ᳓तिश्च मे
 </details>
 
+<details><summary>Keith</summary>
+
+May for me peace, firmness (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षेम॑श्च मे॒ धृति॑श्च मे॒
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्षेमः॑ । च॒ । मे॒ । धृतिः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -153,9 +233,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 वि᳓श्वञ्च [5] मे म᳓हश्च मे
 </details>
 
+<details><summary>Keith</summary>
+
+May for me all, greatness (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्व॑ञ्च [5] मे॒ मह॑श्च मे
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्व॑म् । च॒ । मे॒ । महः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -169,9 +259,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 सव्ँवि᳓च्च मे ज्ञा᳓त्रञ्च मे
 </details>
 
+<details><summary>Keith</summary>
+
+May for me discovery, knowledge (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 सव्ँ॒विच्च॑ मे॒ ज्ञात्र॑ञ्च मे॒
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सव्ँ॒विदिति॑ सम्-वित् । च॒ । मे॒ । ज्ञात्र॑म् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -186,9 +286,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 सू᳓श्च मे प्रसू᳓श्च मे
 </details>
 
+<details><summary>Keith</summary>
+
+May for me begetting, procreation (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 सूश्च॑ मे प्र॒सूश्च॑ मे॒
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सूः । च॒ । मे॒ । प्र॒सूरिति॑ प्र-सूः । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -202,9 +312,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 सी᳓रञ्च मे लय᳓श्च म+
 </details>
 
+<details><summary>Keith</summary>
+
+May for me plough, harrow (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 सीर॑ञ्च मे ल॒यश्च॑ म+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सीर॑म् । च॒ । मे॒ । ल॒यः । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -218,9 +338,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 ऋत᳓ञ्च मेऽमृ᳓तञ्च मे
 </details>
 
+<details><summary>Keith</summary>
+
+May for me holy order, immortality (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तञ्च॑ मे॒ऽमृत॑ञ्च मे
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तम् । च॒ । मे॒ । अ॒मृत॑म् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -234,9 +364,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 +अयक्ष्म᳓ञ्च मे᳓ऽनामयच्च मे 
 </details>
 
+<details><summary>Keith</summary>
+
+May for me freeness from disease, freedom from illness (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऽय॒क्ष्मञ्च॒ मेऽना॑मयच्च मे 
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒य॒क्ष्मम् । च॒ । मे॒ । अना॑मयत् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -250,9 +390,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 जीवा᳓तुश्च मे दीर्घायुत्व᳓ञ्च मे
 </details>
 
+<details><summary>Keith</summary>
+
+May for me life, longevity (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 जी॒वातु॑श्च मे दीर्घायु॒त्वञ्च॑ मे
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जी॒वातुः॑ । च॒ । मे॒ । दी॒र्घा॒यु॒त्वमिति॑ दीर्घायु-त्वम् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -266,9 +416,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 +अन᳓मित्र᳓ञ्च मे᳓ऽभयञ्च मे
 </details>
 
+<details><summary>Keith</summary>
+
+May for me freedom from foes, fearlessness (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऽनमि॒त्रञ्च॒ मेऽभ॑यञ्च मे
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न॒मि॒त्रम् । च॒ । मे॒ । अभ॑यम् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -282,9 +442,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 सुग᳓ञ्च मे श᳓यनञ्च मे
 </details>
 
+<details><summary>Keith</summary>
+
+May for me ease of going, lying (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒गञ्च॑ मे॒ शय॑नञ्च मे
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒गमिति॑ सु-गम् । च॒ । मे॒ । शय॑नम् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -298,9 +468,19 @@ title = "०३ वसोर्धारा होममन्त्राः"
 सूषा᳓ च मे सुदि᳓नञ्च मे
 </details>
 
+<details><summary>Keith</summary>
+
+May for me fair dawning, and fair day prosper through the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सू॒षा च॑ मे सु॒दिन॑ञ्च मे
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सू॒षेति॑ सु-उ॒षा । च॒ । मे॒ । सु॒दिन॒मिति॑ सु-दिन॑म् । च॒ । मे॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

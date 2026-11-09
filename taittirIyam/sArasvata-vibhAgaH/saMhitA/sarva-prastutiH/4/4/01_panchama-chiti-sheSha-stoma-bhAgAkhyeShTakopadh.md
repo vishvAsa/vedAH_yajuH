@@ -25,9 +25,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 रश्मि᳓रसि᳓ क्ष᳓याय त्वा +++(उपदधामि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the ray; for dwelling thee!
+</details>
+
 <details><summary>मूलम्</summary>
 
 र॒श्मिर॑सि क्षया॑य त्वा +++(उपदधामि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+र॒श्मिः । अ॒सि॒ । क्षया॑य । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -41,9 +51,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++ क्ष᳓यञ्जिन्व ।
 </details>
 
+<details><summary>Keith</summary>
+
+Quicken the dwelling.
+</details>
+
 <details><summary>मूलम्</summary>
 
 +++(त्वं)+++ क्षय॑ञ्जिन्व ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्षय॑म् । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -57,9 +77,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 प्रे᳓तिर᳓सि᳓, ध᳓र्माय त्वा +++(उपदधामि)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art advance; for right thee!
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रेति॑रसि, धर्मा॑य त्वा +++(उपदधामि)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रेति॒रिति॒ प्र-इ॒तिः॒ । अ॒सि॒ । धर्मा॑य । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -72,9 +102,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++ ध᳓र्मञ्जिन्व᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Quicken right.
+</details>
+
 <details><summary>मूलम्</summary>
 
 +++(त्वं)+++ धर्म॑ञ्जि॒न्व ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धर्म॑म् । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -87,9 +127,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 अ᳓न्वितिरसि, दिवे᳓ त्वा  +++(उपदधामि)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art following; for sky thee!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्वि॑तिरसि, दि॒वे त्वा॑  +++(उपदधामि)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अन्वि॑ति॒रित्यनु॑-इ॒तिः॒ । अ॒सि॒ । दि॒वे । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -102,9 +152,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++ दि᳓वञ्जिन्व ।
 </details>
 
+<details><summary>Keith</summary>
+
+Quicken the sky.
+</details>
+
 <details><summary>मूलम्</summary>
 
 +++(त्वं)+++ दिव॑ञ्जिन्व ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दिव॑म् । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -117,9 +177,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 सन्धि᳓रसि, अन्त᳓रिक्षाय त्वा +++(उपदधामि)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art union; for atmosphere thee!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒न्धिर॑सि, अ॒न्तरि॑क्षाय त्वा +++(उपदधामि)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒न्धिरिति॑ सम्-धिः । अ॒सि॒ । अ॒न्तरि॑क्षाय । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -132,9 +202,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++ अन्त᳓रिक्षञ्जिन्व ।
 </details>
 
+<details><summary>Keith</summary>
+
+Quicken the atmosphere.
+</details>
+
 <details><summary>मूलम्</summary>
 
 +++(त्वं)+++ अ॒न्तरि॑क्षञ्जिन्व ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्तरि॑क्षम् । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -148,10 +228,20 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++ पृ᳓थिवी᳓ञ्जिन्व ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art propping; for earth thee! Quicken earth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒ति॒धिर॑सि,  पृथि॒व्यै त्वा॑ +++(उपदधामि)+++ ।  
 +++(त्वं)+++ पृथि॒वीञ्जि॑न्व ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒ति॒धिरिति॑ प्रति-धिः । अ॒सि॒ । पृ॒थि॒व्यै । त्वा॒ । पृ॒थि॒वीम् । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -165,10 +255,20 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++ वृ᳓ष्टिञ्जिन्व ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art a prop; for rain thee! Quicken rain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒ष्ट॒म्भो॑ऽसि , वृष्ट्यै॑ त्वा +++(उपदधामि)+++ ।   
 +++(त्वं)+++ वृष्टि॑ञ्जिन्व ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒ष्ट॒म्भ इति॑ वि-स्त॒म्भः । अ॒सि॒ । वृष्ट्यै॑ । त्वा॒ । वृष्टि॑म् । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -182,10 +282,20 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++  अ᳓हर्जिन्व ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art blowing forward; for day thee! Quicken day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒वाऽसि , अह्ने॑ त्वा  +++(उपदधामि)+++ ।  
 +++(त्वं)+++  अह॑र्जिन्व ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒वेति॑ प्र-वा । अ॒सि॒ । अह्ने॑ । त्वा॒ । अहः॑ । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -199,10 +309,20 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++ रा᳓त्रिञ्जिन्व  ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art blowing after; for night thee! Quicken night.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒नु॒वाऽसि॑,  रात्रि॑यै त्वा  +++(उपदधामि)+++ ।   
 +++(त्वं)+++ रात्रि॑ञ्जिन्व  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒नु॒वेत्य॑नु-वा । अ॒सि॒ । रात्रि॑यै । त्वा॒ । रात्रि॑म् । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -216,9 +336,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 उशि᳓गसि᳓,  व᳓सुभ्यस्त्वा +++(उपदधामि)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art eager; for the Vasus thee!
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒शिग॑सि,  वसु॑भ्यस्त्वा +++(उपदधामि)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒शिक् । अ॒सि॒ । वसु॑भ्य॒ इति॒ वसु॑-भ्यः॒ । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -231,9 +361,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++ व᳓सूञ्जिन्व ।
 </details>
 
+<details><summary>Keith</summary>
+
+Quicken the Vasus.
+</details>
+
 <details><summary>मूलम्</summary>
 
 +++(त्वं)+++ वसू॑ञ्जिन्व ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वसून्॑ । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -247,10 +387,20 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++ रुद्रा᳓ञ्जिन्व  ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art intelligence; for the Rudras thee! Quicken the Rudras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒के॒तो॑ऽसि,रु॒द्रेभ्य॑स्त्वा  +++(उपदधामि)+++ ।   
 +++(त्वं)+++ रु॒द्राञ्जि॑न्व  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒के॒त इति॑ प्र-के॒तः । अ॒सि॒ । रु॒द्रेभ्यः॑ । त्वा॒ । रु॒द्रान् । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -264,10 +414,20 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
  +++(त्वं)+++ आदित्या᳓ञ्जिन्व᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the brilliant; for the Adityas thee! Quicken the Adityas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒दी॒तिर॑सि,  आ॒दि॒त्येभ्य॑स्त्वा +++(उपदधामि)+++ ।   
  +++(त्वं)+++ आ॒दि॒त्याञ्जि॒न्व ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒दी॒तिरिति॑ सु-दी॒तिः । अ॒सि॒ । आ॒दि॒त्येभ्यः॑ । त्वा॒ । आ॒दि॒त्यान् । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -281,10 +441,20 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++  पितॄ᳓ञ्जिन्व ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art force; for the Pitrs thee! Quicken the Pitrs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ओजो॑ऽसि पि॒तृभ्य॑स्त्वा  +++(उपदधामि)+++ ।   
 +++(त्वं)+++  पि॒तॄञ्जि॑न्व ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ओजः॑ । अ॒सि॒ । पि॒तृभ्य॒ इति॑ पि॒तृ-भ्यः॒ । त्वा॒ । पि॒तृन् । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -298,10 +468,20 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++  प्रजा᳓ जिन्व  ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the thread; for offspring thee! Quicken offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन्तु॑रसि, प्र॒जाभ्य॑स्त्वा +++(उपदधामि)+++ ।   
 +++(त्वं)+++  प्र॒जा जि॑न्व  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तन्तुः॑ । अ॒सि॒ । प्र॒जाभ्य॒ इति॑ प्र-जाभ्यः॑ । त्वा॒ । प्र॒जा इति॑ प्र-जाः । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -315,10 +495,20 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++  पशू᳓ञ्जिन्व ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou dost endure the battle; for cattle thee! Quicken cattle.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृ॒त॒ना॒षाड॑सि , प॒शुभ्य॑स्त्वा  +++(उपदधामि)+++ ।   
 +++(त्वं)+++  प॒शूञ्जि॑न्व ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पृ॒त॒ना॒षाट् । अ॒सि॒ । प॒शुभ्य॒ इति॑ प॒शु-भ्यः॒ । त्वा॒ । प॒शून् । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -332,10 +522,20 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++  ओ᳓षधीर्जिन्व ।  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art wealthy; for plants thee! Quicken plants.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रे॒वद॑सि, ओष॑धीभ्य॒स्त्वा  +++(उपदधामि)+++ ।   
 +++(त्वं)+++  ओष॑धीर्जिन्व ।  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रे॒वत् । अ॒सि॒ । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । त्वा॒ । ओष॑धीः । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -349,10 +549,20 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++  इ᳓न्द्रञ्जिन्व᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the victorious with ready stone; for Indra thee! Quicken Indra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒भि॒जिद॑सि, यु॒क्तग्रा॒वेन्द्रा॑य॒ त्वा  +++(उपदधामि)+++ ।   
 +++(त्वं)+++  इन्द्र॑ञ्जि॒न्व ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भि॒जिदित्य॑भि-जित् । अ॒सि॒ । यु॒क्तग्रा॒वेति॑ यु॒क्त-ग्रा॒वा॒ । इन्द्रा॑य । त्वा॒ । इन्द्र॑म् । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -366,10 +576,20 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++ प्राण᳓ञ्जिन्व  ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the overlord; for expiration thee! Quicken expiration.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अधि॑पतिरसि, प्रा॒णाय॑ त्वा +++(उपदधामि)+++ ।     
 +++(त्वं)+++ प्रा॒णञ्जि॑न्व  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अधि॑पति॒रित्यधि॑-प॒तिः॒ । अ॒सि॒ । प्रा॒णायेति॑ प्र-अ॒नाय॑ । त्वा॒ । प्रा॒णमिति॑ प्र-अ॒नम् । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -383,10 +603,20 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++  अपान᳓ञ्जिन्व  ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the restrainer; for inspiration thee! Quicken inspiration.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒न्ताऽसि॑ । अ॒पा॒नाय॑ त्वा+++(उपदधामि)+++ ।   
 +++(त्वं)+++  अ॒पा॒नञ्जि॑न्व  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒न्ता । अ॒सि॒ । अ॒पा॒नायेत्य॑प-अ॒नाय॑ । त्वा॒ । अ॒पा॒नमित्य॑प-अ॒नम् । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -400,10 +630,20 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++ च᳓क्षुर्जिन्व  ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the glider; for the eye thee! Quicken the eye.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सँ॒सर्पो॑ऽसि ,  चक्षु॑षे त्वा  +++(उपदधामि)+++ ।  
 +++(त्वं)+++ चक्षु॑र्जिन्व  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सँ॒सर्प॒ इति॑ सम्-सर्पः॑ । अ॒सि॒ । चक्षु॑षे । त्वा॒ । चक्षुः॑ । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -417,10 +657,20 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 +++(त्वं)+++ श्रो᳓त्रञ्जिन्व  ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the bestower of strength; for the ear thee! Quicken the ear.
+</details>
+
 <details><summary>मूलम्</summary>
 
 व॒यो॒धा अ॑सि । श्रोत्रा॑य त्वा  +++(उपदधामि)+++ ।  
 +++(त्वं)+++ श्रोत्र॑ञ्जिन्व  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒यो॒धा इति॑ वयः-धाः । अ॒सि॒ । श्रोत्रा॑य । त्वा॒ । श्रोत्र॑म् । जि॒न्व॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -433,9 +683,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 त्रिवृ᳓दसि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art threefold.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि॒वृद॑सि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रि॒वृदिति॑ त्रि-वृत् । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -448,9 +708,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 प्रवृ᳓दसि।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art Pravrt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒वृद॑सि।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒वृदिति॑ प्र-वृत् । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -463,9 +733,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 सव्ँवृ᳓दसि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art Samvrt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सव्ँ॒वृद॑सि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒व्वृँदिति॑ सम्-वृत् । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -478,9 +758,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 विवृ᳓दसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art Vivrt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒वृद॑सि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒वृदिति॑ वि-वृत् । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -493,9 +783,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 सँरोहो᳙ऽसि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the mounter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सँ॒रो॒हो॑ऽसि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सँ॒रो॒ह इति॑ सम्-रो॒हः । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -508,9 +808,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 नीरोहो᳙ऽसि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the descender.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नी॒रो॒हो॑ऽसि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नी॒रो॒ह इति॑ निः-रो॒हः । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -523,9 +833,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 प्ररोहो᳙ऽसि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the fore mounter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒रो॒हो॑ऽसि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒रो॒ह इति॑ प्र-रो॒हः । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -538,9 +858,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 अनुरोहो᳙ऽसि
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the after mounter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒नु॒रो॒हो॑ऽसि
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒नु॒रो॒ह इत्य॑नु-रो॒हः । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -553,9 +883,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 वसुको᳙ऽसि  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the wealthy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 व॒सु॒को॑ऽसि  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒सु॒कः । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -568,9 +908,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 वे᳓षश्रिरसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the brilliant.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वेष॑श्रिरसि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वेष॑श्रि॒रिति॒ वेष॑-श्रिः॒ । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -583,9 +933,19 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 व᳓स्यष्टिरसि ॥
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the gainer of good.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वस्य॑ष्टिरसि ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वस्य॑ष्टिः । अ॒सि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -20,10 +20,23 @@ title = "०७ अग्निचयनाङ्गपशुसामिधे�
 स᳓न्दिव्ये᳓न दीदिहि रोचने᳓न वि᳓श्वा आ᳓ भाहि प्रदि᳓शᳶ पृथिव्याः᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Let the half-years, the seasons, increase thee, O Agni,  
+The years, the Rsis, and what truths there are;  
+Shine with thy heavenly lustre,  
+Illuminate all the quarters of the earth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 समा॑स्त्वाग्न ऋ॒तवो॑ वर्धयन्तु सव्ँवत्स॒रा ऋष॑यो॒ यानि॑ स॒त्या ।  
 सन्दि॒व्येन॑ दीदिहि रोच॒नेन॒ विश्वा॒ आ भा॑हि प्र॒दिशᳶ॑ पृथि॒व्याः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+समाः॑ । त्वा॒ । अ॒ग्ने॒ । ऋ॒तवः॑ । व॒र्ध॒य॒न्तु॒ । सव्ँ॒व॒त्स॒रा इति॑ सम्-व॒त्स॒राः । ऋष॑यः । यानि॑ । स॒त्या ॥ समिति॑ । दि॒व्येन॑ । दी॒दि॒हि॒ । रो॒च॒नेन॑ । विश्वाः॑ । एति॑ । भा॒हि॒ । प्र॒दिश॒ इति॑ प्र-दिशः॑ । पृ॒थि॒व्याः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -48,10 +61,23 @@ title = "०७ अग्निचयनाङ्गपशुसामिधे�
 मा᳓ च रिषदुपसत्ता᳓ ते अग्ने ब्रह्मा᳓णस्ते यश᳓सस्सन्तु मा᳓ऽन्ये᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Be kindled, O Agni, and awake him;  
+Arise for great good fortune;  
+May he that waiteth on thee, O Agni, be not harmed;  
+May thy priests be famous, not the others.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सञ्चे॒ध्यस्वा॑ग्ने॒ प्र च॑ बोधयैन॒मुच्च॑ तिष्ठ मह॒ते सौभ॑गाय ।  
 मा च॑ रिषदुपस॒त्ता ते॑ अग्ने ब्र॒ह्माण॑स्ते य॒शस॑स्सन्तु॒ माऽन्ये ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । च॒ । इ॒ध्यस्व॑ । अ॒ग्ने॒ । प्रेति॑ । च॒ । बो॒ध॒य॒ । ए॒न॒म् । उदिति॑ । च॒ । ति॒ष्ठ॒ । म॒ह॒ते । सौभ॑गाय ॥ मा । च॒ । रि॒ष॒त् । उ॒प॒स॒त्तेत्यु॑प-स॒त्ता । ते॒ । अ॒ग्ने॒ । ब्र॒ह्माणः॑ । ते॒ । य॒शसः॑ । स॒न्तु॒ । मा । अ॒न्ये ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -76,10 +102,24 @@ title = "०७ अग्निचयनाङ्गपशुसामिधे�
 सपत्नहा᳓ नो अभिमातिजि᳓च्च स्वे᳓ ग᳓ये जागृह्य᳓प्रयुच्छन् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+These Brahmans, O Agni, choose thee;  
+Be thou propitious, O Agni [1], to us in the sanctuary;
+  
+Slaying our rivals, conquering the foes,  
+Do thou watch unfailing in thine own home.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वाम॑ग्ने वृणते ब्राह्म॒णा इ॒मे शि॒वो अ॑ग्ने [25]  सव्ँ॒वर॑णे भवा नः ।  
 स॒प॒त्न॒हा नो॑ अभिमाति॒जिच्च॒ स्वे गये॑ जागृ॒ह्यप्र॑युच्छन् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वाम् । अ॒ग्ने॒ । वृ॒ण॒ते॒ । ब्रा॒ह्म॒णाः । इ॒मे । शि॒वः । अ॒ग्ने॒ । सव्ँ॒वर॑ण॒ इति॑ सम्-वर॑णे । भ॒व॒ । नः॒ ॥ स॒प॒त्न॒हेति॑ सपत्न-हा । नः॒ । अ॒भि॒मा॒ति॒जिदित्य॑भिमाति-जित् । च॒ । स्वे । गये॑ । जा॒गृ॒हि॒ । अप्र॑युच्छ॒न्नित्यप्र॑-यु॒च्छ॒न् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -101,10 +141,21 @@ title = "०७ अग्निचयनाङ्गपशुसामिधे�
 क्षत्र᳓मग्ने सुय᳓ममस्तु तु᳓भ्यमुपसत्ता᳓ वर्धतान्ते अ᳓निष्टृतः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Here, O Agni, do thou grant wealth;  
+May not the overcomers, anticipating (us); overcome thee; May the lordly power be easily wielded by thee, O Agni Let him who waiteth on thee prosper, unassailed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒हैवाग्ने॒ अधि॑ धारया र॒यिम्मा त्वा॒ नि क्र॑न्पूर्व॒चितो॑ निका॒रिणः॑ ।  
 क्ष॒त्रम॑ग्ने सु॒यम॑मस्तु॒ तुभ्य॑मुपस॒त्ता व॑र्धतान्ते॒ अनि॑ष्टृतः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒ह । ए॒व । अ॒ग्ने॒ । अधीति॑ । धा॒र॒य॒ । र॒यिम् । मा । त्वा॒ । नीति॑ । क्र॒न् । पू॒र्व॒चित॒ इति॑ पूर्व-चितः॑ । नि॒का॒रिण॒ इति॑ नि-का॒रिणः॑ ॥ क्ष॒त्रम् । अ॒ग्ने॒ । सु॒यम॒मिति॑ सु-यम॑म् । अस्तु॑ । तुभ्य॑म् । उ॒प॒स॒त्तेत्यु॑प-स॒त्ता । व॒र्ध॒ता॒म् । ते॒ । अनि॑ष्टृतः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -126,10 +177,22 @@ title = "०७ अग्निचयनाङ्गपशुसामिधे�
 सजाता᳓नाम्मध्यमस्था᳓ एधि रा᳓ज्ञामग्ने विहव्यो᳙ दीदिहीह᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+With good life, O Agni, unite thee with the lordly power; O Agni, vie with Mitra in friendlihood;  
+Be thou the midmost of thine equals;  
+O Agni, shine forth here to be invoked by kings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्ष॒त्रेणा॑ग्ने॒ स्वायु॒स्सँ र॑भस्व मि॒त्रेणा॑ग्ने मित्र॒धेये॑ यतस्व ।  
 स॒जा॒ताना॑म्मध्यम॒स्था ए॑धि॒ राज्ञा॑मग्ने विह॒व्यो॑ दीदिही॒ह ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्ष॒त्रेण॑ । अ॒ग्ने॒ । स्वायु॒रिति॑ सु-आयुः॑ । समिति॑ । र॒भ॒स्व॒ । मि॒त्रेण॑ । अ॒ग्ने॒ । मि॒त्र॒धेय॒ इति॑ मित्र-धेये॑ । य॒त॒स्व॒ ॥ स॒जा॒ताना॒मिति॑ स-जा॒ताना॑म् । म॒ध्य॒म॒स्था इति॑ मध्यम-स्थाः । ए॒धि॒ । राज्ञा॑म् । अ॒ग्ने॒ । वि॒ह॒व्य॑ इति॑ वि-ह॒व्यः॑ । दी॒दि॒हि॒ । इ॒ह ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -153,10 +216,23 @@ title = "०७ अग्निचयनाङ्गपशुसामिधे�
 वि᳓श्वा ह्य᳙ग्ने दुरिता᳓ स᳓हस्वा᳓थास्म᳓भ्यँ सह᳓वीराँ रयि᳓न्दाः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+(Be thou) over the [2] enemy, the obstructor,  
+Unwisdom, niggardliness, O Agni,  
+All obstacles do thou overcome,  
+And bestow upon us wealth with heroes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अति॑ [26]  निहो॒ अति॒ स्रिधोऽत्यचि॑त्ति॒मत्यरा॑तिमग्ने ।  
 विश्वा॒ ह्य॑ग्ने दुरि॒ता सह॒स्वाथा॒स्मभ्यँ॑ स॒हवी॑राँ र॒यिन्दाः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अतीति॑ । निहः॑ । अतीति॑ । स्रिधः॑ । अतीति॑ । अचि॑त्तिम् । अतीति॑ । अरा॑तिम् । अ॒ग्ने॒ ॥ विश्वा॑ । हि । अ॒ग्ने॒ । दु॒रि॒तेति॑ दुः-इ॒ता । सह॑स्व । अथ॑ । अ॒स्मभ्य॒मित्य॒स्म-भ्य॒म् । स॒हवी॑रा॒मिति॑ स॒ह-वी॒रा॒म् । र॒यिम् । दाः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -183,10 +259,22 @@ title = "०७ अग्निचयनाङ्गपशुसामिधे�
 वि᳓श्वा आ᳓शाः प्रमुञ्च᳓न्मा᳓नुषीर्भिय᳓श्शिवा᳓भिरद्य᳓ प᳓रि पाहि नो वृधे᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Unassailable, all-knower, unoverpowered,  
+Ruling, O Agni, supporting the lordly power, do thou shine here; Through all the regions, freeing men from fear,  
+Do thou this day guard us for increase with kindliness.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ना॒धृ॒ष्यो जा॒तवे॑दा॒ अनि॑ष्टृतो वि॒राड॑ग्ने क्षत्र॒भृद्दी॑दिही॒ह ।  
 विश्वा॒ आशाः॑ प्रमु॒ञ्चन्मानु॑षीर्भि॒यश्शि॒वाभि॑र॒द्य परि॑ पाहि नो वृ॒धे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ना॒धृ॒ष्य इत्य॑ना-धृ॒ष्यः । जा॒तवे॑दा॒ इति॑ जा॒त-वे॒दाः॒ । अनि॑ष्टृतः । वि॒राडिति॑ वि-राट् । अ॒ग्ने॒ । क्ष॒त्र॒भृदिति॑ क्षत्र-भृत् । दी॒दि॒हि॒ । इ॒ह ॥ विश्वाः॑ । आशाः॑ । प्र॒मु॒ञ्चन्निति॑ प्र-मु॒ञ्चन् । मानु॑षीः । भि॒यः । शि॒वाभिः॑ । अ॒द्य । परीति॑ । पा॒हि॒ । नः॒ । वृ॒धे ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -213,10 +301,23 @@ title = "०७ अग्निचयनाङ्गपशुसामिधे�
 वर्ध᳓यैनम्महते᳓ सौ᳓भगा᳓य᳓ [27]  वि᳓श्व एनम᳓नु मदन्तु देवाः᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+O Brhaspati, instigator, awake him;  
+The sharp do thou more thoroughly sharpen;  
+Increase him to great prosperity [3]  
+Let the All-gods rejoice in him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृह॑स्पते सवितर्बो॒धयै॑नँ॒ सँशि॑तञ्चित्सन्त॒राँ सँ शि॑शाधि ।  
 व॒र्धयै॑नम्मह॒ते सौभ॑गाय [27]  विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बृह॑स्पते । स॒वि॒तः॒ । बो॒धय॑ । ए॒न॒म् । सँशि॑त॒मिति॒ सम्-शि॒त॒म् । चि॒त् । स॒न्त॒रामिति॑ सम्-त॒राम् । समिति॑ । शि॒शा॒धि॒ ॥ व॒र्धय॑ । ए॒न॒म् । म॒ह॒ते । सौभ॑गाय । विश्वे॑ । ए॒न॒म् । अन्विति॑ । म॒द॒न्तु॒ । दे॒वाः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -240,10 +341,23 @@ title = "०७ अग्निचयनाङ्गपशुसामिधे�
 प्र᳓त्यौहतामश्वि᳓ना मृत्यु᳓मस्माद्देवा᳓नामग्ने भिष᳓जा श᳓चीभिः ।
 </details>
 
+<details><summary>Keith</summary>
+
+What time, O Brhaspati, thou didst free  
+From life yonder, from Yama's enmity,  
+The Aśvins removed death from him,  
+O Agni, the physicians of the gods with their powers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒मु॒त्र॒भूया॒दध॒ यद्य॒मस्य॒ बृह॑स्पते अ॒भिश॑स्ते॒रमु॑ञ्चः ।  
 प्रत्यौ॑हताम॒श्विना॑ मृ॒त्युम॑स्माद्दे॒वाना॑मग्ने भि॒षजा॒ शची॑भिः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒मु॒त्र॒भूया॒दित्य॑मुत्र-भूया॑त् । अध॑ । यत् । य॒मस्य॑ । बृह॑स्पते । अ॒भिश॑स्ते॒रित्य॒भि-श॒स्तेः॒ । अमु॑ञ्चः ॥ प्रतीति॑ । औ॒ह॒ता॒म् । अ॒श्विना॑ । मृ॒त्युम् । अ॒स्मा॒त् । दे॒वाना॑म् । अ॒ग्ने॒ । भि॒षजा॑ । शची॑भि॒रिति॒ शचि॑-भिः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -269,10 +383,23 @@ title = "०७ अग्निचयनाङ्गपशुसामिधे�
 देव᳓न्देवत्रा᳓ सू᳓र्यम᳓गन्म ज्यो᳓तिरुत्तम᳓म् ॥ [28]  
 </details>
 
+<details><summary>Keith</summary>
+
+We from the darkness,  
+Gazing on the higher light,  
+Surya a god among the gods,  
+Have come to the highest light.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उद्व॒यन्तम॑स॒स्परि॒ पश्य॑न्तो॒ ज्योति॒रुत्त॑रम् ।  
 दे॒वन्दे॑व॒त्रा सूर्य॒मग॑न्म॒ ज्योति॑रुत्त॒मम् ॥ [28]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उदिति॑ । व॒यम् । तम॑सः । परीति॑ । पश्य॑न्तः । ज्योतिः॑ । उत्त॑र॒मित्युत्-त॒र॒म् ॥ दे॒वम् । दे॒व॒त्रेति॑ देव-त्रा । सूर्य॑म् । अग॑न्म । ज्योतिः॑ । उ॒त्त॒ममित्यु॑त्-त॒मम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -19,10 +19,20 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 प्राणा᳓यापाना᳓य ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Let Brhaspati place thee on the ridge of earth, full of light, for every expiration, inspiration;
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृह॒स्पति॑स्त्वा सादयतु पृथि॒व्याᳶ पृ॒ष्ठे ज्योति॑ष्मतीव्ँ॒विश्व॑स्मै
 प्रा॒णाया॑पा॒नाय॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बृह॒स्पतिः॑ । त्वा॒ । सा॒द॒य॒तु॒ । पृ॒थि॒व्याः । पृ॒ष्ठे । ज्योति॑ष्मतीम् । विश्व॑स्मै । प्रा॒णायेति॑ प्र-अ॒नाय॑ । अ॒पा॒नायेत्य॑प-अ॒नाय॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -41,9 +51,19 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 वि᳓श्वञ्ज्यो᳓तिर्यच्छ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+support all the light,
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्व॒ञ्ज्योति॑र्यच्छ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्व॑म् । ज्योतिः॑ । य॒च्छ॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -56,9 +76,19 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 अग्नि᳓स्ते᳓ऽधिपतिः।  
 </details>
 
+<details><summary>Keith</summary>
+
+Agni is thine overlord.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निस्तेऽधि॑पतिः।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । ते॒ । अधि॑पति॒रित्यधि॑-प॒तिः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -75,6 +105,11 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 वायु᳓स्ते᳓ऽधिपतिः  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Let Viśvakarman place thee on the ridge of the atmosphere, full of light, for every expiration, inspiration; support all the light, Vayu is thine overlord.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्वक॑र्मा त्वा सादयत्व॒न्तरि॑क्षस्य पृ॒ष्ठे  ।   
@@ -82,6 +117,11 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 
 विश्व॒ञ्ज्योति॑र्यच्छ ।   
 वा॒युस्तेऽधि॑पतिः  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒श्वक॒र्मेति॑ वि॒श्व-क॒र्मा॒ । त्वा॒ । सा॒द॒य॒तु॒ । अ॒न्तरि॑क्षस्य । पृ॒ष्ठे । ज्योति॑ष्मतीम् । विश्व॑स्मै । प्रा॒णायेति॑ प्र-अ॒नाय॑ । अ॒पा॒नायेत्य॑प-अ॒नाय॑ । विश्व॑म् । ज्योतिः॑ । य॒च्छ॒ । वा॒युः । ते॒ । अधि॑पति॒रित्यधि॑-प॒तिः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -100,6 +140,11 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 परमेष्ठी᳓ ते᳓ऽधिपतिः  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Let Prajapati place thee on the ridge of the sky, full of light, for every expiration, inspiration; support all the light, the supreme lord is thine overlord.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिस्त्वा सादयतु दि॒वᳶ पृ॒ष्ठे  ।   
@@ -107,6 +152,11 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 
 विश्व॒ञ्ज्योति॑र्यच्छ ।   
 प॒र॒मे॒ष्ठी तेऽधि॑पतिः  ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । त्वा॒ । सा॒द॒य॒तु॒ । दि॒वः । पृ॒ष्ठे । ज्योति॑ष्मतीम् । विश्व॑स्मै । प्रा॒णायेति॑ प्र-अ॒नाय॑ । अ॒पा॒नायेत्य॑प-अ॒नाय॑ । विश्व॑म् । ज्योतिः॑ । य॒च्छ॒ । प॒र॒मे॒ष्ठी । ते । अधि॑पति॒रित्यधि॑-प॒तिः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -134,6 +184,11 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 +++( त्वं)+++वृ᳓ष्टिस᳓निरसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the bringer of the east wind; thou art the winner of rain; thou art the winner of lightning; thou art the winner of thunder; thou art the winner of rain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 +++( त्वं)+++ पु॒रो॒वा॒त॒सनि॑रसि।   
@@ -145,6 +200,11 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 +++( त्वं)+++स्त॒न॒यि॒त्नु॒सनि॑रसि ।  
 
 +++( त्वं)+++वृष्टि॒सनि॑रसि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पु॒रो॒वा॒त॒सनि॒रिति॑ पुरोवात-सनिः॑ । अ॒सि॒ । अ॒भ्र॒सनि॒रित्य॑भ्र-सनिः॑ । अ॒सि॒ । वि॒द्यु॒त्सनि॒रिति॑ विद्युत्-सनिः॑ । अ॒सि॒ । स्त॒न॒यि॒त्नु॒सनि॒रिति॑ स्तनयित्नु-सनिः॑ । अ॒सि॒ । वृ॒ष्टि॒सनि॒रिति॑ वृष्टि-सनिः॑ । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -163,9 +223,19 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 अग्ने᳓र्या᳓न्यसि देवा᳓नाम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the path of Agni;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेर्यान्य॑सि दे॒वाना॑म् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । यानी॑ । अ॒सि॒ । दे॒वाना॑म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -178,9 +248,19 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 अ᳓ग्नेया᳓न्यसि वायोः᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the gods' path of Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॒यान्य॑सि वा॒योः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्ने॒यानीत्य॑ग्ने-यानी॑ । अ॒सि॒ । वा॒योः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -193,9 +273,19 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 या᳓न्यसि देवा᳓ना᳓म् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the path of Vayu;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यान्य॑सि दे॒वानाम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यानी॑ । अ॒सि॒ । दे॒वाना॑म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -210,11 +300,21 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
  - वा᳓योर्या᳓न्यसि +++( अत्र  वायोयान्यसि इति  भवितव्यं इति भाति  सम्पादकटिप्पणि- मूले अवलोकितव्यम्)+++   
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the gods' path of Vayu.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वायो॒र्यान्य॑सि ।
 
  - वायो॒र्यान्य॑सि +++( अत्र  वायोयान्यसि इति  भवितव्यं इति भाति  सम्पादकटिप्पणि- मूले अवलोकितव्यम्)+++   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒यो॒यानीति॑ वायो-यानी॑ । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -228,10 +328,20 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 देवा᳓नामन्तरिक्षया᳓न्यसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the path of the atmosphere; thou art the gods' path of the atmosphere.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्षस्य॒ यान्य॑सि ।
 दे॒वाना॑मन्तरिक्ष॒यान्य॑सि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्तरि॑क्षस्य । यानी॑ । अ॒सि॒ । दे॒वाना॑म् । अ॒न्त॒रि॒क्ष॒यानीत्य॑न्तरिक्ष-यानी॑ । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -244,9 +354,19 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 अन्त᳓रिक्षमसि  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the atmosphere;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्षमसि  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्तरि॑क्षम् । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -259,9 +379,19 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 अन्त᳓रिक्षाय त्वा +++(उपदधामि)+++
 </details>
 
+<details><summary>Keith</summary>
+
+to the atmosphere thee!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्षाय त्वा +++(उपदधामि)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्तरि॑क्षाय । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -280,9 +410,19 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 सलिला᳓य त्वा +++( उपदधामि)+++ ।   
 </details>
 
+<details><summary>Keith</summary>
+
+To the ocean thee, to water thee, to the watery thee,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒लि॒लाय॑ त्वा +++( उपदधामि)+++ ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒लि॒लाय॑ । त्वा॒ । सर्णी॑काय । त्वा॒ । सती॑का॒येति॒ स-ती॒का॒य॒ । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -302,9 +442,19 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 के᳓ताय त्वा +++( उपदधामि)+++ ।   
 </details>
 
+<details><summary>Keith</summary>
+
+to impulse thee,
+</details>
+
 <details><summary>मूलम्</summary>
 
 केता॑य त्वा +++( उपदधामि)+++ ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+केता॑य । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -317,9 +467,19 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 प्र᳓चेतसे त्वा +++( उपदधामि)+++ ।   
 </details>
 
+<details><summary>Keith</summary>
+
+to the wise thee,
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रचे॑तसे त्वा +++( उपदधामि)+++ ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रचे॑तस॒ इति॒ प्र-चे॒त॒से॒ । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -332,9 +492,19 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 वि᳓वस्वते त्वा+++( उपदधामि)+++ ।   
 </details>
 
+<details><summary>Keith</summary>
+
+to the radiant thee,
+</details>
+
 <details><summary>मूलम्</summary>
 
 विव॑स्वते त्वा+++( उपदधामि)+++ ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विव॑स्वते । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -347,9 +517,19 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 दिव᳓स्त्वा +++( उपदधामि)+++ ।   
 </details>
 
+<details><summary>Keith</summary>
+
+to the light of the sky thee, to the Adityas thee!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒वस्त्वा॑ +++( उपदधामि)+++ ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒वः । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -378,6 +558,11 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।   
 </details>
 
+<details><summary>Keith</summary>
+
+To the Rc thee, to radiance thee, to the shining thee, to the blaze thee, to the light thee!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒चे त्वा॑ +++( उपदधामि)+++ ।   
@@ -385,6 +570,11 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 द्यु॒ते त्वा॑ +++( उपदधामि)+++ ।   
 भा॒से त्वा॑ +++( उपदधामि)+++ ।   
 ज्योति॑षे त्वा +++( उपदधामि)+++ ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ज्योति॑षे । आ॒दि॒त्येभ्यः॑ । त्वा॒ । ऋ॒चे । त्वा॒ । रु॒चे । त्वा॒ । द्यु॒ते । त्वा॒ । भा॒से । त्वा॒ । ज्योति॑षे । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -402,10 +592,20 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 +++(ते᳓न᳓र्षिणा ते᳓न ब्र᳓ह्मणा त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓ सीद ॥  )+++
 </details>
 
+<details><summary>Keith</summary>
+
+Thee, giving glory, in glory;
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒शो॒दान्त्वा॒ यश॑सि  +++(सादयामि)+++ ।
 +++(तेनर्षि॑णा॒ तेन॒ ब्रह्म॑णा॒ तया॑ दे॒वत॑याङ्गिर॒स्वद्ध्रु॒वा सी॑द ॥  )+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒शो॒दामिति॑ यशः-दाम् । त्वा॒ । यश॑सि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -419,10 +619,20 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 +++(ते᳓न᳓र्षिणा ते᳓न ब्र᳓ह्मणा त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓ सीद ॥  )+++
 </details>
 
+<details><summary>Keith</summary>
+
+thee, giving brilliance, in brilliance;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते॒जो॒दान्त्वा॒ तेज॑सि  +++(सादयामि)+++ ।   
 +++(तेनर्षि॑णा॒ तेन॒ ब्रह्म॑णा॒ तया॑ दे॒वत॑याङ्गिर॒स्वद्ध्रु॒वा सी॑द ॥  )+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते॒जो॒दामिति॑ तेजः-दाम् । त्वा॒ । तेज॑सि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -436,10 +646,20 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 +++(ते᳓न᳓र्षिणा ते᳓न ब्र᳓ह्मणा त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓ सीद ॥  )+++
 </details>
 
+<details><summary>Keith</summary>
+
+thee, giving milk, in milk;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒यो॒दान्त्वा॒ पय॑सि  +++(सादयामि)+++ ।  
 +++(तेनर्षि॑णा॒ तेन॒ ब्रह्म॑णा॒ तया॑ दे॒वत॑याङ्गिर॒स्वद्ध्रु॒वा सी॑द ॥  )+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒यो॒दामिति॑ पयः-दाम् । त्वा॒ । पय॑सि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -453,10 +673,20 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 +++(ते᳓न᳓र्षिणा ते᳓न ब्र᳓ह्मणा त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓ सीद ॥  )+++
 </details>
 
+<details><summary>Keith</summary>
+
+thee, giving radiance, in radiance;
+</details>
+
 <details><summary>मूलम्</summary>
 
 व॒र्चो॒दान्त्वा॒ वर्च॑सि +++(सादयामि)+++ ।  
 +++(तेनर्षि॑णा॒ तेन॒ ब्रह्म॑णा॒ तया॑ दे॒वत॑याङ्गिर॒स्वद्ध्रु॒वा सी॑द ॥  )+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒र्चो॒दामिति॑ वर्चः-दाम् । त्वा॒ । वर्च॑सि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -471,11 +701,21 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 ते᳓न᳓र्षिणा ते᳓न ब्र᳓ह्मणा त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓ सीद ॥   [21]  
 </details>
 
+<details><summary>Keith</summary>
+
+thee giving wealth, in wealth I place; with this seer, the holy power, this deity, sit firm in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्र॒वि॒णो॒दान्त्वा॒ द्रवि॑णे सादयामि ।   
 
 तेनर्षि॑णा॒ तेन॒ ब्रह्म॑णा॒ तया॑ दे॒वत॑याङ्गिर॒स्वद्ध्रु॒वा सी॑द ॥   [21]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्र॒वि॒णो॒दामिति॑ द्रविणः-दाम् । त्वा॒ । द्रवि॑णे । सा॒द॒या॒मि॒ । तेन॑ । ऋषि॑णा । तेन॑ । ब्रह्म॑णा । तया॑ । दे॒वत॑या । अ॒ङ्गि॒र॒स्वत् । ध्रु॒वा । सी॒द॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

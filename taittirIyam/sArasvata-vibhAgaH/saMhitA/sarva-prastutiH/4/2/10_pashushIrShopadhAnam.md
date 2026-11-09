@@ -20,10 +20,23 @@ title = "१० पशुशीर्षोपधानम्"
 प᳓रि वृङ्ग्धि ह᳓रसा मा᳓भि᳓ मृक्षश्शता᳓युषङ्कृणुहि चीय᳓मानः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Anointing with milk Aditya, the embryo,  
+Counterpart of a thousand, of every form,  
+Spare him, injure him not with thy heat;  
+Make him of a hundred (years of) life, as thou art piled.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्यङ्गर्भ॒म्पय॑सा सम॒ञ्जन्त्स॒हस्र॑स्य प्रति॒माव्ँवि॒श्वरू॑पम् ।  
 परि॑ वृङ्ग्धि॒ हर॑सा॒ माभि मृ॑क्षश्श॒तायु॑षङ्कृणुहि ची॒यमा॑नः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒दि॒त्यम् । गर्भ॑म् । पय॑सा । स॒म॒ञ्जन्निति॑ सम्-अ॒ञ्जन् । स॒हस्र॑स्य । प्र॒ति॒मामिति॑ प्रति-माम् । वि॒श्वरू॑प॒मिति॑ वि॒श्व-रू॒प॒म् ॥ परीति॑ । वृ॒ङ्ग्धि॒ । हर॑सा । मा । अ॒भीति॑ । मृ॒क्षः॒ । श॒तायु॑ष॒मिति॑ श॒त-आ॒यु॒ष॒म् । कृ॒णु॒हि॒ । ची॒यमा॑नः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -50,10 +63,23 @@ title = "१० पशुशीर्षोपधानम्"
 मयु᳓मारण्य᳓म᳓नु ते दिशामि ते᳓न चिन्वान᳓स्तनु᳓वो नि᳓ षीद ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Injure not this biped of animals,  
+O hundred-eyed one, being piled for the sacrifice;  
+I appoint for thee the wailer in the forest;  
+Therewith piling thy forms, be seated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मम्मा हिँसीर्द्वि॒पाद॑म्पशू॒नाँ सह॑स्राक्ष॒ मेध॒ आ ची॒यमा॑नः ।  
 म॒युमा॑र॒ण्यमनु॑ ते दिशामि॒ तेन॑ चिन्वा॒नस्त॒नुवो॒ नि षी॑द ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒मम् । मा । हिँ॒सीः॒ । द्वि॒पाद॒मिति॑ द्वि-पाद॑म् । प॒शू॒नाम् । सह॑स्रा॒क्षेति॒ सह॑स्र-अ॒क्ष॒ । मेधे॑ । एति॑ । ची॒यमा॑नः ॥ म॒युम् । आ॒र॒ण्यम् । अन्विति॑ । ते॒ । दि॒शा॒मि॒ । तेन॑ । चि॒न्वा॒नः । त॒नुवः॑ । नीति॑ । सी॒द॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -74,10 +100,23 @@ title = "१० पशुशीर्षोपधानम्"
 शि᳓शुन्नदी᳓नाँ ह᳓रिम᳓द्रिबुद्धम᳓ग्ने मा᳓ हिँसीः [42]  परमे᳓ व्योमन् ।
 </details>
 
+<details><summary>Keith</summary>
+
+The rush of the wind, the navel of Varuna,  
+Born as a steed in the midst of the waters,  
+The child of the streams, the tawny one, rooted in the mountain,  
+O Agni, harm him not [1] in the highest heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वात॑स्य॒ ध्राजिव्ँ॒वरु॑णस्य॒ नाभि॒मश्व॑ञ्जज्ञा॒नँ स॑रि॒रस्य॒ मध्ये॑ ।  
 शिशु॑न्न॒दीनाँ॒ हरि॒मद्रि॑बुद्ध॒मग्ने॒ मा हिँ॑सीः [42]  प॒र॒मे व्यो॑मन् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वात॑स्य । ध्राजि॑म् । वरु॑णस्य । नाभि॑म् । अश्व॑म् । ज॒ज्ञा॒नम् । स॒रि॒रस्य॑ । मध्ये॑ ॥ शिशु॑म् । न॒दीना॑म् । हरि॑म् । अद्रि॑बुद्ध॒मित्यद्रि॑-बु॒द्ध॒म् । अग्ने॑ । मा । हिँ॒सीः॒ । प॒र॒मे । व्यो॑म॒न्निति॒ वि-ओ॒म॒न् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -103,11 +142,24 @@ title = "१० पशुशीर्षोपधानम्"
 गौर᳓मारण्य᳓म᳓नु ते दिशामि ते᳓न चिन्वान᳓स्तनु᳓वो नि᳓ षीद ।
 </details>
 
+<details><summary>Keith</summary>
+
+Harm not this one-hooved of cattle,  
+The thundering, the courser among the contests;  
+I appoint for thee the Gayal of the forest;  
+Therewith piling thy forms, be seated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मम्मा हिँ॑सी॒रेक॑शफम्पशू॒नाङ्क॑निक्र॒दव्ँवा॒जिनव्ँ॒वाजि॑नेषु ।
 
 गौ॒रमा॑र॒ण्यमनु॑ ते दिशामि॒ तेन॑ चिन्वा॒नस्त॒नुवो॒ नि षी॑द ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒मम् । मा । हिँ॒सीः॒ । एक॑शफ॒मित्येक॑-श॒फ॒म् । प॒शू॒नाम् । क॒नि॒क्र॒दम् । वा॒जिन॑म् । वाजि॑नेषु ॥ गौ॒रम् । आ॒र॒ण्यम् । अन्विति॑ । ते॒ । दि॒शा॒मि॒ । तेन॑ । चि॒न्वा॒नः । त॒नुवः॑ । नीति॑ । सी॒द॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -126,10 +178,23 @@ title = "१० पशुशीर्षोपधानम्"
 स᳓ प᳓र्वभिरृतुशᳵ᳓ क᳓ल्पमानो गा᳓म्मा᳓ हिँसीर᳓दितिव्ँविरा᳓जम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The undying drop, the ruddy, the active,  
+Agni I hymn with praises with first inspiration;  
+Do thou forming thyself with joints in due order,  
+Harm not the cow, Aditi, the resplendent.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अज॑स्र॒मिन्दु॑मरु॒षम्भु॑र॒ण्युम॒ग्निमी॑डे पू॒र्वचि॑त्तौ॒ नमो॑भिः ।  
 स पर्व॑भिर्ऋतु॒शᳵ कल्प॑मानो॒ गाम्मा हिँ॑सी॒रदि॑तिव्ँवि॒राज॑म् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अज॑स्रम् । इन्दु॑म् । अ॒रु॒षम् । भु॒र॒ण्युम् । अ॒ग्निम् । ई॒डे॒ । पू॒र्वचि॑त्ता॒विति॑ पू॒र्व-चि॒त्तौ॒ । नमो॑भि॒रिति॒ नमः॑-भिः॒ ॥ सः । पर्व॑भि॒रिति॒ पर्व॑-भिः॒ । ऋ॒तु॒श इत्यृ॑तु-शः । कल्प॑मानः । गाम् । मा॒ । हिँ॒सीः॒ । अदि॑तिम् । वि॒राज॒मिति॑ वि-राज॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -149,11 +214,26 @@ title = "१० पशुशीर्षोपधानम्"
 गवय᳓मारण्य᳓म᳓नु ते दिशामि ते᳓न चिन्वान᳓स्तनु᳓वो नि᳓ षीद ।  
 </details>
 
+<details><summary>Keith</summary>
+
+This ocean, the spring of a hundred streams,  
+Expanded in the middle of the world,  
+Aditi milking ghee for men,  
+O Agni, harm not [2] in the highest heaven;  
+I appoint for thee the Gayal of the forest;  
+Therewith piling thy forms, be seated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मँ स॑मु॒द्रँ श॒तधा॑र॒मुत्स॑व्व्ँय॒च्यमा॑न॒म्भुव॑नस्य॒ मध्ये॑ ।  
 घृ॒तन्दुहा॑ना॒मदि॑ति॒ञ्जना॒याग्ने॒ मा [43]  हिँ॒सी॒ᳶ प॒र॒मे व्यो॑मन् ।  
 ग॒व॒यमा॑र॒ण्यमनु॑ ते दिशामि॒ तेन॑ चिन्वा॒नस्त॒नुवो॒ नि षी॑द ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒मम् । स॒मु॒द्रम् । श॒तधा॑र॒मिति॑ श॒त-धा॒र॒म् । उत्स॑म् । व्य॒च्यमा॑नम् । भुव॑नस्य । मध्ये॑ ॥ घृ॒तम् । दुहा॑नाम् । अदि॑तिम् । जना॑य । अग्ने॑ । मा । हिँ॒सीः॒ । प॒र॒मे । व्यो॑म॒न्निति॒ वि-ओ॒म॒न् ॥ ग॒व॒यम् । आ॒र॒ण्यम् । अन्विति॑ । ते॒ । दि॒शा॒मि॒ । तेन॑ । चि॒न्वा॒नः । त॒नुवः॑ । नीति॑ । सी॒द॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -172,10 +252,24 @@ title = "१० पशुशीर्षोपधानम्"
 महीँ᳓ साहस्री᳓म᳓सुरस्य माया᳓म᳓ग्ने मा᳓ हिँसीᳶ प᳓रमे᳓ व्योमन् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Guard of Tvastr, navel of Varuna,
+  
+Born as the sheep from the furthest region,  
+The great thousandfold wile of the Asura,  
+O Agni, harm not in the highest heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वरू॑त्रि॒न्त्वष्टु॒र्वरु॑णस्य॒ नाभि॒मवि॑ञ्जज्ञा॒नाँ रज॑स॒ᳶ पर॑स्मात् ।  
 म॒हीँ सा॑ह॒स्रीमसु॑रस्य मा॒यामग्ने॒ मा हिँ॑सी॒ᳶ पर॒मे व्यो॑मन् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वरू॑त्रिम् । त्वष्टुः॑ । वरु॑णस्य । नाभि॑म् । अवि॑म् । ज॒ज्ञा॒नाम् । रज॑सः । पर॑स्मात् ॥ म॒हीम् । सा॒ह॒स्रीम् । असु॑रस्य । मा॒याम् । अग्ने॑ । मा । हिँ॒सीः॒ । प॒र॒मे । व्यो॑म॒न्निति॒ वि-ओ॒म॒न् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -195,11 +289,26 @@ title = "१० पशुशीर्षोपधानम्"
 उ᳓ष्ट्रमारण्य᳓म᳓नु [44]  ते दिशामि ते᳓न चिन्वान᳓स्तनु᳓वो नि᳓ षीद ।
 </details>
 
+<details><summary>Keith</summary>
+
+This woolly wile of Varuna,  
+The skin of cattle, biped and quadruped,  
+The first birthplace of the offspring of Tvastr,  
+O Agni, harm not in the highest heaven;  
+I appoint for thee the buffalo of the forest [3];  
+Therewith piling thy forms, be seated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मामू॑र्णा॒युव्ँवरु॑णस्य मा॒यान्त्वच॑म्पशू॒नान्द्वि॒पदा॒ञ्चतु॑ष्पदाम् ।  
 त्वष्टुᳶ॑ प्र॒जाना॑म्प्रथ॒मञ्ज॒नित्र॒मग्ने॒ मा हिँ॑सीᳶ पर॒मे व्यो॑मन् ।  
 उष्ट्र॑मार॒ण्यमनु॑ [44]  ते॒ दि॒शा॒मि॒ तेन॑ चिन्वा॒नस्त॒नुवो॒ नि षी॑द ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒माम् । ऊ॒र्णा॒युम् । वरु॑णस्य । मा॒याम् । त्वच॑म् । प॒शू॒नाम् । द्वि॒पदा॒मिति॑ द्वि-पदा॑म् । चतु॑ष्पदा॒मिति॒ चतुः॑-प॒दा॒म् ॥ त्वष्टुः॑ । प्र॒जाना॒मिति॑ प्र-जाना॑म् । प्र॒थ॒मम् । ज॒नित्र॑म् । अग्ने॑ । मा । हिँ॒सीः॒ । प॒र॒मे । व्यो॑म॒न्निति॒ वि-ओ॒म॒न् ॥ उष्ट्र॑म् । आ॒र॒ण्यम् । अन्विति॑ । ते॒ । दि॒शा॒मि॒ । तेन॑ । चि॒न्वा॒नः । त॒नुवः॑ । नीति॑ । सी॒द॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -218,10 +327,23 @@ title = "१० पशुशीर्षोपधानम्"
 ये᳓न प्रजा᳓ विश्व᳓कर्मा व्या᳓नट्त᳓मग्ने हे᳓डᳶ प᳓रि ते वृणक्तु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The Agni born of the heat of Agni,  
+From the burning of the earth or of the sky,  
+That whereby Viśvakarman attained creatures,  
+Him, O Agni, let thy wrath spare.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो अ॒ग्निर॒ग्नेस्तप॒सोऽधि॑ जा॒तश्शोचा॑त्पृथि॒व्या उ॒त वा॑ दि॒वस्परि॑ ।  
 येन॑ प्र॒जा वि॒श्वक॑र्मा॒ व्यान॒ट्तम॑ग्ने॒ हेड॒ᳶ परि॑ ते वृणक्तु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । अ॒ग्निः । अ॒ग्नेः । तप॑सः । अधीति॑ । जा॒तः । शोचा॑त् । पृ॒थि॒व्याः । उ॒त । वा॒ । दि॒वः । परि॑ ॥ येन॑ । प्र॒जा इति॑ प्र-जाः । वि॒श्वक॒र्मेति॑ वि॒श्व-क॒र्मा॒ । व्यान॒डिति॑ वि-आन॑ट् । तम् । अ॒ग्ने॒ । हेडः॑ । परीति॑ । ते॒ । वृ॒ण॒क्तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -241,11 +363,26 @@ title = "१० पशुशीर्षोपधानम्"
 शरभ᳓मारण्य᳓म᳓नु ते दिशामि ते᳓न चिन्वान᳓स्तनु᳓वो नि᳓ षीद ॥ [45]  
 </details>
 
+<details><summary>Keith</summary>
+
+The goat was born from Agni as an embryo;  
+She beheld her begetter before;  
+Thereby those worthy of sacrifice attained pre-eminence,  
+Thereby first the gods attained godhead;  
+I appoint for thee the Śarabha of the forest;  
+Therewith piling thy forms, be seated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒जा ह्य॑ग्नेरज॑निष्ट॒ गर्भा॒त्सा वा अ॑पश्यज्जनि॒तार॒मग्रे॑ ।  
 तया॒ रोह॑माय॒न्नुप॒ मेध्या॑स॒स्तया॑ दे॒वा दे॒वता॒मग्र॑ आयन् ।  
 श॒र॒भमा॑र॒ण्यमनु॑ ते दिशामि॒ तेन॑ चिन्वा॒नस्त॒नुवो॒ नि षी॑द ॥ [45]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒जा । हि । अ॒ग्नेः । अज॑निष्ट । गर्भा॑त् । सा । वै । अ॒प॒श्य॒त् । ज॒नि॒तार॑म् । अग्रे॑ ॥ तया॑ । रोह॑म् । आ॒य॒न् । उपेति॑ । मेध्या॑सः । तया॑ । दे॒वाः । दे॒वता॑म् । अग्रे॑ । आ॒य॒न् ॥ श॒र॒भम् । आ॒र॒ण्यम् । अन्विति॑ । ते॒ । दि॒शा॒मि॒ । तेन॑ । चि॒न्वा॒नः । त॒नुवः॑ । नीति॑ । सी॒द॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

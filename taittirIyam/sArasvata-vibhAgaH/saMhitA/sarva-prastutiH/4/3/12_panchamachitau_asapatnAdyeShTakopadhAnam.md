@@ -22,10 +22,21 @@ title = "१२ पञ्चमचितौ असपत्नाद्येष
 अस्मे᳓ दीदिहि सुम᳓ना अ᳓हेडन्त᳓व स्याँ श᳓र्मन्त्रिव᳓रूथ उद्भि᳓त् ।
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, drive away those foes of ours that are born; Drive away those too that are unborn, O all-knower; Shine out for us in kindliness and without anger,  
+In thy protection may I be with threefold protection and victorious.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॑ जा॒तान्प्र णु॑दा नस्स॒पत्ना॒न्प्रत्यजा॑ताञ्जातवेदो नुदस्व ।  
 अ॒स्मे दी॑दिहि सु॒मना॒ अहे॑ड॒न्तव॑ स्याँ॒ शर्म॑न्त्रि॒वरू॑थ उ॒द्भित् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । जा॒तान् । प्रेति॑ । नु॒द॒ । नः॒ । स॒पत्नान्॑ । प्रतीति॑ । अजा॑तान् । जा॒त॒वे॒द॒ इति॑ जात-वे॒दः॒ । नु॒द॒स्व॒ ॥ अ॒स्मे इति॑ । दी॒दि॒हि॒ । सु॒मना॒ इति॑ सु-मनाः॑ । अहे॑डन् । तव॑ । स्या॒म् । शर्म॑न् । त्रि॒वरू॑थ॒ इति॑ त्रि-वरू॑थः । उ॒द्भिदित्यु॑त्-भित् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -49,10 +60,22 @@ title = "१२ पञ्चमचितौ असपत्नाद्येष
 अ᳓धि नो ब्रूहि सुमनस्य᳓मानो वयँ᳓ स्याम प्र᳓ णुदा नस्सप᳓त्नान् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, drive away those foes of ours that are born with force; Drive away those that are unborn, O all-knower;  
+Favour us in kindliness,  
+May we (enjoy thy protection); drive away our foes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सह॑सा जा॒तान्प्र णु॑दा नस्स॒पत्ना॒न्प्रत्यजा॑ताञ्जातवेदो नुदस्व ।  
 अधि॑ नो ब्रूहि सुमन॒स्यमा॑नो व॒यँ स्या॑म॒ प्र णु॑दा नस्स॒पत्ना॑न् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सह॑सा । जा॒तान् । प्रेति॑ । नु॒द॒ । नः॒ । स॒पत्नान्॑ । प्रतीति॑ । अजा॑तान् । जा॒त॒वे॒द॒ इति॑ जात-वे॒दः॒ । नु॒द॒स्व॒ ॥ अधीति॑ । नः॒ । ब्रू॒हि॒ । सु॒म॒न॒स्यमा॑न॒ इति॑ सु-म॒न॒स्यमा॑नः । व॒यम् । स्या॒म॒ । प्रेति॑ । नु॒द॒ । नः॒ । स॒पत्नान्॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -79,10 +102,20 @@ title = "१२ पञ्चमचितौ असपत्नाद्येष
 वर्चो द्र᳓विणम् +++(असि)+++
 </details>
 
+<details><summary>Keith</summary>
+
+(Thou art) the forty-fourfold Stoma, radiance the wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒तु॒श्च॒त्वा॒रिँ॒शस्स्तोमः॑ +++(असि)+++,  
 वर्चो॒ द्रवि॑णम् +++(असि)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+च॒तु॒श्च॒त्वा॒रिँ॒श इति॑ चतुः-च॒त्वा॒रिँ॒शः । स्तोमः॑ । वर्चः॑ । द्रवि॑णम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -104,10 +137,20 @@ title = "१२ पञ्चमचितौ असपत्नाद्येष
 ओजो द्र᳓विणम् +++(असि)+++
 </details>
 
+<details><summary>Keith</summary>
+
+(Thou art) the sixteenfold Stoma, force the wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 षो॒ड॒शस्स्तोमः॑ +++(असि)+++,
 ओजो॒ द्रवि॑णम् +++(असि)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+षो॒ड॒शः । स्तोमः॑ । ओजः॑ । द्रवि॑णम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -130,9 +173,19 @@ title = "१२ पञ्चमचितौ असपत्नाद्येष
 पृथिव्याᳶ᳓ पु᳓रीषमसि [26]  अप्सो ना᳓म ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the dust of earth [1], called Apsas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒व्याᳶ पुरी॑षमसि [26]  अप्सो॒ नाम॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पृ॒थि॒व्याः । पुरी॑षम् । अ॒सि॒ । अप्सः॑ । नाम॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -204,6 +257,11 @@ title = "१२ पञ्चमचितौ असपत्नाद्येष
 अङ्काङ्क᳓ञ्छ᳓न्दः +++( असि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+(Thou art) the course metre; the space metre; the health-bringing metre; the overpowering metre; the covering metre; the mind metre; the expanse metre; the river metre; the sea metro; the water metre; the uniting metro; the separating metre; the Brhat metro; the Rathantara metre; the collecting metre; the parting metre; the voices metre; the radiant metro; the Sastubh metre; the Anustubh metre; the Kakubh metre; the Trikakubh metre; the poetic metre; the water metre [2]; the Padapankti metre, the Aksarapahkti metre, the Vistarapankti metre: the razor-with-strop metre; the enveloping metre; the side metre; the course metre; the space metre; the strength metre; the maker of strength metre; the expansive metre; the conflict metre; the covering metre; the difficult of access metre; the slow metre; the Ankanka metre.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एव॒श्छन्दो॒ वरि॑व॒श्छन्द॑श्श॒म्भूश्छन्दᳶ॑ परि॒भूश्छन्द॑ आ॒च्छच्छन्दो॒ मन॒श्छन्दो॒ व्यच॒श्छन्द॒स्सिन्धु॒श्छन्द॑स्समु॒द्रञ्छन्द॑स्सलि॒लञ्छन्द॑स्सय्ँ॒यच्छन्दो॑ वि॒यच्छन्दो॑ बृ॒हच्छन्दो॑ रथन्त॒रञ्छन्दो॑ निका॒यश्छन्दो॑ विव॒धश्छन्दो॒ गिर॒श्छन्दो॒ भ्रज॒श्छन्द॑स्स॒ष्टुप्छन्दो॑ऽनु॒ष्टुप्छन्द॑ᳵ क॒कुच्छन्द॑स्त्रिक॒कुच्छन्द॑ᳵ का॒व्यञ्छन्दो॑ऽङ्कु॒पञ्छन्दः॑ [27]  
@@ -250,6 +308,11 @@ title = "१२ पञ्चमचितौ असपत्नाद्येष
 दू॒रो॒ह॒णञ्छन्दः॑  +++( असि)+++ ।  
 त॒न्द्रञ्छन्दः॑ +++( असि)+++ ।  
 अ॒ङ्का॒ङ्कञ्छन्दः॑ +++( असि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एवः॑ । छन्दः॑ । वरि॑वः । छन्दः॑ । श॒म्भूरिति॑ शम्-भूः । छन्दः॑ । प॒रि॒भूरिति॑ परि-भूः । छन्दः॑ । आ॒च्छत् । छन्दः॑ । मनः॑ । छन्दः॑ । व्यचः॑ । छन्दः॑ । सिन्धुः॑ । छन्दः॑ । स॒मु॒द्रम् । छन्दः॑ । स॒लि॒लम् । छन्दः॑ । सय्ँ॒यदिति॑ सम्-यत् । छन्दः॑ । वि॒यदिति॑ वि-यत् । छन्दः॑ । बृ॒हत् । छन्दः॑ । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् । छन्दः॑ । नि॒का॒य इति॑ नि-का॒यः । छन्दः॑ । वि॒व॒ध इति॑ वि-व॒धः । छन्दः॑ । गिरः॑ । छन्दः॑ । भ्रजः॑ । छन्दः॑ । स॒ष्टुबिति॑ स-स्तुप् । छन्दः॑ । अ॒नु॒ष्टुबित्य॑नु-स्तुप् । छन्दः॑ । क॒कुत् । छन्दः॑ । त्रि॒क॒कुदिति॑ त्रि-क॒कुत् । छन्दः॑ । का॒व्यम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>

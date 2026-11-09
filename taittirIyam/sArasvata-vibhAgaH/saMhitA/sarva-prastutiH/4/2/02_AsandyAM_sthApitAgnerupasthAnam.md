@@ -19,10 +19,23 @@ title = "०२ आसन्द्यां स्थापिताग्ने
 तृती᳓यमप्सु᳓ नृम᳓णा अ᳓जस्रमि᳓न्धान एनञ्जरते स्वाधीः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+From the sky was Agni first born,  
+From us secondly he who knoweth all,  
+In the waters thirdly the manly,  
+The pious man singeth of him, the undying, as he kindleth him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒वस्परि॑ प्रथ॒मञ्ज॑ज्ञे अ॒ग्निर॒स्मद्द्वि॒तीय॒म्परि॑ जा॒तवे॑दाः ।  
 तृ॒तीय॑म॒प्सु नृ॒मणा॒ अज॑स्र॒मिन्धा॑न एनञ्जरते स्वा॒धीः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒वः । परीति॑ । प्र॒थ॒मम् । ज॒ज्ञे॒ । अ॒ग्निः । अ॒स्मत् । द्वि॒तीय॑म् । परीति॑ । जा॒तवे॑दा॒ इति॑ जा॒त-वे॒दाः॒ ॥ तृ॒तीय॑म् । अ॒प्स्वित्य॑प्-सु । नृ॒मणा॒ इति॑ नृ-मनाः॑ । अज॑स्रम् । इन्धा॑नः । ए॒न॒म् । ज॒र॒ते॒ । स्वा॒धीरिति॑ स्व-धीः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -45,10 +58,23 @@ title = "०२ आसन्द्यां स्थापिताग्ने
 विद्मा᳓ ते ना᳓म परम᳓ङ्गु᳓हा य᳓द्विद्मा᳓ त᳓मु᳓त्सय्ँय᳓त आजग᳓न्थ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+We know thy three places threefold, O Agni,  
+We know thy seat that is established in many places;  
+We know thy highest name in secret;  
+We know the spring whence thou hast come.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒द्मा ते॑ अग्ने त्रे॒धा त्र॒याणि॑ वि॒द्मा ते॒ सद्म॒ विभृ॑तम्पुरु॒त्रा ।  
 वि॒द्मा ते॒ नाम॑ पर॒मङ्गुहा॒ यद्वि॒द्मा तमुत्सय्ँ॒यत॑ आज॒गन्थ॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒द्म । ते॒ । अ॒ग्ने॒ । त्रे॒धा । त्र॒याणि॑ । वि॒द्म । ते॒ । सद्म॑ । विभृ॑त॒मिति॒ वि-भृ॒त॒म् । पु॒रु॒त्रेति॑ पुरु-त्रा ॥ वि॒द्म । ते॒ । नाम॑ । प॒र॒मम् । गुहा॑ । यत् । वि॒द्म । तम् । उत्स॑म् । यतः॑ । आ॒ज॒गन्थेत्या॑-ज॒गन्थ॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -70,10 +96,23 @@ title = "०२ आसन्द्यां स्थापिताग्ने
 तृती᳓ये त्वा᳓ [6]  र᳓जसि तस्थिवाँ᳓समृत᳓स्य यो᳓नौ महिषा᳓ अहिन्वन् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The manly souled kindleth thee in the ocean, in the waters,  
+In the breast of the sky, O Agni, he who gazeth on men;
+  
+In the birthplace of holy order, the steers inspirited.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒मु॒द्रे त्वा॑ नृ॒मणा॑ अ॒प्स्व॑न्तर्नृ॒चक्षा॑ ईधे दि॒वो अ॑ग्न॒ ऊध॑न् ।  
 तृ॒तीये॑ त्वा [6]  रज॑सि तस्थि॒वाँस॑मृ॒तस्य॒ योनौ॑ महि॒षा अ॑हिन्वन् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒मु॒द्रे । त्वा॒ । नृ॒मणा॒ इति॑ नृ-मनाः॑ । अ॒प्स्वित्य॑प्-सु । अ॒न्तः । नृ॒चक्षा॒ इति॑ नृ-चक्षाः॑ । ई॒धे॒ । दि॒वः । अ॒ग्ने॒ । ऊध॑न्न् ॥ तृ॒तीये॑ । त्वा॒ । रज॑सि । त॒स्थि॒वाँस॑म् । ऋ॒तस्य॑ । योनौ॑ । म॒हि॒षाः । अ॒हि॒न्व॒न् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -99,10 +138,23 @@ title = "०२ आसन्द्यां स्थापिताग्ने
 सद्यो᳓ जज्ञानो᳓ वि᳓ ही᳓मिद्धो᳓ अ᳓ख्यदा᳓ रो᳓दसी भानु᳓ना भात्यन्तः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Agni hath cried, like Dyaus thundering,  
+Licking the earth, devouring the plants;  
+Straightway on birth he shone aflame,  
+He blazeth with his light within the firmaments.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अक्र॑न्दद॒ग्निस्स्त॒नय॑न्निव॒ द्यौः क्षामा॒रेरि॑हद्वी॒रुध॑स्सम॒ञ्जन् ।  
 स॒द्यो ज॑ज्ञा॒नो वि हीमि॒द्धो अख्य॒दा रोद॑सी भा॒नुना॑ भात्य॒न्तः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अक्र॑न्दत् । अ॒ग्निः । स्त॒नय॑न् । इ॒व॒ । द्यौः । क्षाम॑ । रेरि॑हत् । वी॒रुधः॑ । स॒म॒ञ्जन्निति॑ सम्-अ॒ञ्जन्न् ॥ स॒द्यः । ज॒ज्ञा॒नः । वीति॑ । हि । ई॒म् । इ॒द्धः । अख्य॑त् । एति॑ । रोद॑सी॒ इति॑ । भा॒नुना॑ । भा॒ति॒ । अ॒न्तः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -122,10 +174,22 @@ title = "०२ आसन्द्यां स्थापिताग्ने
 इ᳓यर्ति धूम᳓मरुष᳓म्भ᳓रिभ्रदु᳓च्छुक्रे᳓ण शोचि᳓षा द्या᳓मि᳓नक्षत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Eager, purifying, the envoy, the wise one,  
+Agni, the immortal, hath been established among men; He beareth and darteth forward his ruddy smoke;  
+The sky he attaineth with his pure radiance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒शिक्पा॑व॒को अ॑र॒तिस्सु॑मे॒धा मर्ते॑ष्व॒ग्निर॒मृतो॒ निधा॑यि ।  
 इय॑र्ति धू॒मम॑रु॒षम्भरि॑भ्र॒दुच्छु॒क्रेण॑ शो॒चिषा॒ द्यामिन॑क्षत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒शिक् । पा॒व॒कः । अ॒र॒तिः । सु॒मे॒धा इति॑ सु-मे॒धाः । मर्ते॑षु । अ॒ग्निः । अ॒मृतः॑ । नीति॑ । धा॒यि॒ ॥ इय॑र्ति । धू॒मम् । अ॒रु॒षम् । भरि॑भ्रत् । उदिति॑ । शु॒क्रेण॑ । शो॒चिषा॑ । द्याम् । इन॑क्षत् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -144,10 +208,23 @@ title = "०२ आसन्द्यां स्थापिताग्ने
 वीडु᳓ञ्चिद᳓द्रिमभिनत्पराय᳓ञ्ज᳓ना य᳓दग्नि᳓म᳓यजन्त प᳓ञ्च ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The banner of the whole world, the germ [2],  
+Filled on birth the firmaments;  
+Even the firm mountain he cleft passing over,  
+When the five peoples sacrificed to Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्व॑स्य के॒तुर्भुव॑नस्य॒ गर्भ॒ आ [7]  रोद॑सी अपृणा॒ज्जाय॑मानः ।  
 वी॒डुञ्चि॒दद्रि॑मभिनत्परा॒यञ्जना॒ यद॒ग्निमय॑जन्त॒ पञ्च॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्व॑स्य । के॒तुः । भुव॑नस्य । गर्भः॑ । एति॑ । रोद॑सी॒ इति॑ । अ॒पृ॒णा॒त् । जाय॑मानः ॥ वी॒डुम् । चि॒त् । अद्रि॑म् । अ॒भि॒न॒त् । प॒रा॒यन्निति॑ परा-यन् । जनाः॑ । यत् । अ॒ग्निम् । अय॑जन्त । पञ्च॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -166,10 +243,23 @@ title = "०२ आसन्द्यां स्थापिताग्ने
 व᳓सोः सूनु᳓स्स᳓हसो अप्सु᳓ रा᳓जा वि᳓ भात्य᳓ग्र उष᳓सामिधानः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Receptacle of prosperity, supporter of riches,  
+Granter of thoughts, guardian of the Soma,  
+Son of the bright one, of strength, the king  
+Is resplendent within the waters, kindled before the dawns.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्री॒णामु॑दा॒रो ध॒रुणो॑ रयी॒णाम्म॑नी॒षाणा॒म्प्रार्प॑ण॒स्सोम॑गोपाः ।  
 वसोः॑ सू॒नुस्सह॑सो अ॒प्सु राजा॒ वि भा॒त्यग्र॑ उ॒षसा॑मिधा॒नः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+श्री॒णाम् । उ॒दा॒रः । ध॒रुणः॑ । र॒यी॒णाम् । म॒नी॒षाणा॑म् । प्रार्प॑ण॒ इति॑ प्र-अर्प॑णः । सोम॑गोपा॒ इति॒ सोम॑-गो॒पाः॒ ॥ वसोः॑ । सू॒नुः । सह॑सः । अ॒प्स्वित्य॑प्-सु । राजा॑ । वीति॑ । भा॒ति॒ । अग्रे॑ । उ॒षसा॑म् । इ॒धा॒नः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -188,10 +278,22 @@ title = "०२ आसन्द्यां स्थापिताग्ने
 प्र᳓ त᳓न्नय प्रतराव्ँ᳓व᳓स्यो अ᳓च्छाभि᳓ द्युम्न᳓न्देव᳓भक्तय्ँयविष्ठ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He who first maketh for thee to-day, O thou of wondrous radiance, A cake rich in ghee, O god Agni;  
+Do thou bear him ever on to the better,  
+To glory allotted by the gods, O youngest one [3].
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्ते॑ अ॒द्य कृ॒णव॑द्भद्रशोचेऽपू॒पन्दे॑व घृ॒तव॑न्तमग्ने ।  
 प्र तन्न॑य प्रत॒राव्ँवस्यो॒ अच्छा॒भि द्यु॒म्नन्दे॒वभ॑क्तय्ँयविष्ठ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । ते॒ । अ॒द्य । कृ॒णव॑त् । भ॒द्र॒शो॒च॒ इति॑ भद्र-शो॒चे॒ । अ॒पू॒पम् । दे॒व॒ । घृ॒तव॑न्त॒मिति॑ घृ॒त-व॒न्त॒म् । अ॒ग्ने॒ ॥ प्रेति॑ । तम् । न॒य॒ । प्र॒त॒रामिति॑ प्र-त॒राम् । वस्यः॑ । अच्छ॑ । अ॒भीति॑ । द्यु॒म्नम् । दे॒वभ॑क्त॒मिति॑ दे॒व-भ॒क्त॒म् । य॒वि॒ष्ठ॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -210,10 +312,23 @@ title = "०२ आसन्द्यां स्थापिताग्ने
 प्रिय᳓स्सू᳓र्ये प्रियो᳓ अग्ना᳓ भवात्यु᳓ज्जाते᳓न भिन᳓ददु᳓ज्ज᳓नित्वैः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Give him portion, O Agni, in praises;  
+Give him portion in every hymn that is sung,  
+Dear shall he be before Surya, dear before Agni  
+With what is born, what is to be born shall he be victorious.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ [8]  तम्भ॑ज सौश्रव॒सेष्व॑ग्न उ॒क्थउ॑क्थ॒ आ भ॑ज श॒स्यमा॑ने ।  
 प्रि॒यस्सूर्ये॑ प्रि॒यो अ॒ग्ना भ॑वा॒त्युज्जा॒तेन॑ भि॒नद॒दुज्जनि॑त्वैः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । तम् । भ॒ज॒ । सौ॒श्र॒व॒सेषु॑ । अ॒ग्ने॒ । उ॒क्थउ॑क्थ॒ इत्यु॒क्थे-उ॒क्थे॒ । एति॑ । भ॒ज॒ । श॒स्यमा॑ने ॥ प्रि॒यः । सूर्ये॑ । प्रि॒यः । अ॒ग्ना । भ॒वा॒ति॒ । उदिति॑ । जा॒तेन॑ । भि॒नद॑त् । उदिति॑ । जनि॑त्वैः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -232,10 +347,23 @@ title = "०२ आसन्द्यां स्थापिताग्ने
 त्व᳓या सह᳓ द्र᳓विणमिच्छ᳓माना व्रज᳓ङ्गो᳓मन्तमुशि᳓जो वि᳓ वव्रुः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thee, O Agni, the sacrificers through the days  
+Bear as many riches desirable;  
+With thee desiring wealth,  
+Eagerly they revealed the stall rich in kine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वाम॑ग्ने॒ यज॑माना॒ अनु॒ द्यून् विश्वा॒ वसू॑नि दधिरे॒ वार्या॑णि ।  
 त्वया॑ स॒ह द्रवि॑णमि॒च्छमा॑ना व्र॒जङ्गोम॑न्तमु॒शिजो॒ वि व॑व्रुः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वाम् । अ॒ग्ने॒ । यज॑मानाः । अन्विति॑ । द्यून् । विश्वा॑ । वसू॑नि । द॒धि॒रे॒ । वार्या॑णि ॥ त्वया॑ । स॒ह । द्रवि॑णम् । इ॒च्छमा॑नाः । व्र॒जम् । गोम॑न्त॒मिति॒ गो-म॒न्त॒म् । उ॒शिजः॑ । वीति॑ । व॒व्रुः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -254,10 +382,22 @@ title = "०२ आसन्द्यां स्थापिताग्ने
 अग्नि᳓रमृ᳓तो अभवद्व᳓योभिर्य᳓देनन्द्यौ᳓र᳓जनयत्सुरे᳓ताः ॥ [9]  
 </details>
 
+<details><summary>Keith</summary>
+
+Shining like gold, he hath become widely resplendent, For glory shining with immortal life;  
+Agni became immortal in his strength,  
+What time prolific Dyaus begat him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दृ॒शा॒नो रु॒क्म उ॒र्व्या व्य॑द्यौद्दु॒र्मर्ष॒मायु॑श्श्रि॒ये रु॑चा॒नः ।  
 अ॒ग्निर॒मृतो॑ अभव॒द्वयो॑भि॒र्यदे॑न॒न्द्यौरज॑नयत्सु॒रेताः॑ ॥ [9]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दृ॒शा॒नः । रु॒क्मः । उ॒र्व्या । वीति॑ । अ॒द्यौ॒त् । दु॒र्मर्ष॒मिति॑ दुः-मर्ष॑म् । आयुः॑ । श्रि॒ये । रु॒चा॒नः ॥ अ॒ग्निः । अ॒मृतः॑ । अ॒भ॒व॒त् । वयो॑भि॒रिति॒ वयः॑-भिः॒ । यत् । ए॒न॒म् । द्यौः । अज॑नयत् । सु॒रेता॒ इति॑ सु-रेताः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

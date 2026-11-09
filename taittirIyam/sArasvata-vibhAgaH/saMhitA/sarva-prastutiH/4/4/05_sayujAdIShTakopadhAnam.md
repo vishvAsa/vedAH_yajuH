@@ -23,9 +23,19 @@ title = "०५ सयुजादीष्टकोपधानम्"
 इन्द्राग्नि᳓भ्यान्त्वा सयु᳓जा युजा᳓ युनज्मि ।
 </details>
 
+<details><summary>Keith</summary>
+
+I yoke thee in bonds of fellowship with Indra and Agni,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रा॒ग्निभ्या॑न्त्वा स॒युजा॑ यु॒जा यु॑नज्मि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒न्द्रा॒ग्निभ्या॒मिती॑न्द्रा॒ग्नि-भ्या॒म् । त्वा॒ । स॒युजेति॑ स-युजा॑ । यु॒जा । यु॒न॒ज्मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -42,9 +52,19 @@ title = "०५ सयुजादीष्टकोपधानम्"
 आघारा᳓भ्या᳓म् +++(त्वा᳓ सयु᳓जा युजा᳓ युनज्मि )+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+with the ghee sprinklings,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒घा॒राभ्याम् +++(त्वा स॒युजा॑ यु॒जा यु॑नज्मि )+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒घा॒राभ्या॒मित्या॑-घा॒राभ्या॑म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -57,9 +77,19 @@ title = "०५ सयुजादीष्टकोपधानम्"
 ते᳓जसा +++(त्वा᳓ सयु᳓जा युजा᳓ युनज्मि )+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+with brilliance,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेज॑सा +++(त्वा स॒युजा॑ यु॒जा यु॑नज्मि )+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तेज॑सा ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -72,9 +102,19 @@ title = "०५ सयुजादीष्टकोपधानम्"
 व᳓र्चसा +++(त्वा᳓ सयु᳓जा युजा᳓ युनज्मि )+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+with radiance,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वर्च॑सा +++(त्वा स॒युजा॑ यु॒जा यु॑नज्मि )+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वर्च॑सा ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -87,9 +127,19 @@ title = "०५ सयुजादीष्टकोपधानम्"
 उक्थे᳓भिः +++(त्वा᳓ सयु᳓जा युजा᳓ युनज्मि )+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+with the hymns,
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒क्थेभिः॑ +++(त्वा स॒युजा॑ यु॒जा यु॑नज्मि )+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒क्थेभिः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -102,9 +152,19 @@ title = "०५ सयुजादीष्टकोपधानम्"
 स्तो᳓मेभिः +++(त्वा᳓ सयु᳓जा युजा᳓ युनज्मि )+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+with the Stomas,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्तोमे॑भिः +++(त्वा स॒युजा॑ यु॒जा यु॑नज्मि )+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्तोमे॑भिः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -117,9 +177,19 @@ title = "०५ सयुजादीष्टकोपधानम्"
 छ᳓न्दोभिः +++(त्वा᳓ सयु᳓जा युजा᳓ युनज्मि )+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+with the metres,
+</details>
+
 <details><summary>मूलम्</summary>
 
 छन्दो॑भिः +++(त्वा स॒युजा॑ यु॒जा यु॑नज्मि )+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+छन्दो॑भि॒रिति॒ छन्दः॑-भिः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -132,9 +202,19 @@ title = "०५ सयुजादीष्टकोपधानम्"
 रय्यै᳓ पो᳓षाय सजाता᳓नाम्मध्यमस्थे᳓याय᳓ म᳓या त्वा सयु᳓जा युजा᳓ युनज्मि।  
 </details>
 
+<details><summary>Keith</summary>
+
+for the increase of wealth, for pre-eminence among thy fellows; I yoke thee in bonds of fellowship with me.
+</details>
+
 <details><summary>मूलम्</summary>
 
 र॒य्यै पोषा॑य सजा॒ताना॑म्मध्यम॒स्थेया॑य मया॑ त्वा स॒युजा॑ यु॒जा यु॑नज्मि।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+र॒य्यै । पोषा॑य । स॒जा॒ताना॒मिति॑ स-जा॒ताना॑म् । म॒ध्य॒म॒स्थेया॒येति॑ मध्यम-स्थेया॑य । मया॑ । त्वा॒ । स॒युजेति॑ स-युजा॑ । यु॒जा । यु॒न॒ज्मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -170,6 +250,11 @@ title = "०५ सयुजादीष्टकोपधानम्"
 चु᳓पुणी᳓का ना᳓मासि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Amba, Dula, Nitatni, Abhrayanti, Meghayanti, Varsayanti, Cupunika, art thou by name,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒म्बा +++(नामा॑सि)+++ ।   
@@ -179,6 +264,11 @@ title = "०५ सयुजादीष्टकोपधानम्"
 मे॒घय॑न्ती +++(नामा॑सि)+++ ।   
 व॒र्षय॑न्ती +++(नामा॑सि)+++ ।   
 चुपु॒णीका॒ नामा॑सि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒म्बा । दु॒ला । नि॒त॒त्निरिति॑ नि-त॒त्निः । अ॒भ्रय॑न्ती । मे॒घय॑न्ती । व॒र्षय॑न्ती । चु॒पु॒णीका॑ । नाम॑ । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -195,9 +285,19 @@ title = "०५ सयुजादीष्टकोपधानम्"
 प्रजा᳓पतिना त्वा वि᳓श्वाभिर्धीभि᳓रु᳓प दधामि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+with Prajapati, with our every prayer, I deposit thee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिना त्वा॒ विश्वा॑भिर्धी॒भिरुप॑ दधामि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑ति॒नेति॑ प्र॒जा-प॒ति॒ना॒ । त्वा॒ । विश्वा॑भिः । धी॒भिः । उपेति॑ । द॒धा॒मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -225,12 +325,22 @@ title = "०५ सयुजादीष्टकोपधानम्"
 अग्नि᳓र्वि᳓यत्तोऽस्याम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The earth penetrated by food, a reservoir of water (thou art), men are thy guardians, Agni is placed in this (brick),
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒व्यु॑दपु॒रमन्ने॑न वि॒ष्टा  ।  
 
 म॑नु॒ष्या॑स्ते गो॒प्तारः ,
 अ॒ग्निर्विय॑त्तोऽस्याम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पृ॒थि॒वी । उ॒द॒पु॒रमित्यु॑द-पु॒रम् । अन्ने॑न । वि॒ष्टा । म॒नु॒ष्याः॑ । ते । गो॒प्तारः॑ । अ॒ग्निः । विय॑त्त॒ इति॒ वि-य॒त्तः॒ । अ॒स्या॒म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -243,9 +353,19 @@ title = "०५ सयुजादीष्टकोपधानम्"
 ता᳓मह᳓म्प्र᳓ पद्ये ।  
 </details>
 
+<details><summary>Keith</summary>
+
+to it I resort,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ताम॒हम्प्र प॑द्ये ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ताम् । अ॒हम् । प्रेति॑ । प॒द्ये॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -260,10 +380,20 @@ title = "०५ सयुजादीष्टकोपधानम्"
 +++(स᳓  मे )+++ व᳓र्म चास्तु᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+and may it be my protection and my refuge.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सा  मे॒ शर्म॑ च॒ +++(अस्तु)+++,   
 +++(स  मे॒ )+++ वर्म॑ चा॒स्तु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सा । मे॒ । शर्म॑ । च॒ । वर्म॑ । च॒ । अ॒स्तु॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -282,9 +412,19 @@ title = "०५ सयुजादीष्टकोपधानम्"
 अ᳓धिद्यौरन्त᳓रिक्षम् ब्र᳓ह्मणा विष्टा᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The over-sky penetrated by holy power, the atmosphere (thou art);
+</details>
+
 <details><summary>मूलम्</summary>
 
 अधि॑द्यौर॒न्तरि॑क्ष॒म् ब्रह्म॑णा वि॒ष्टा ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अधि॑द्यौ॒रित्यधि॑-द्यौः॒ । अ॒न्तरि॑क्षम् । ब्रह्म॑णा । वि॒ष्टा ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -301,6 +441,11 @@ title = "०५ सयुजादीष्टकोपधानम्"
 +++(सा᳓ मे )+++व᳓र्म चास्तु᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+the Maruts are thy guardians, Vayu is placed in this (brick), to it I resort, and may it be my protection and my refuge.
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒रुत॑स्ते गो॒प्तारः॑ ।  
@@ -308,6 +453,11 @@ title = "०५ सयुजादीष्टकोपधानम्"
 ताम॒हम्प्र प॑द्ये ।  
 सा  मे॒ शर्म॑ च॒ +++(अस्तु)+++,   
 +++(सा मे॒ )+++वर्म॑ चा॒स्तु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒रुतः॑ । ते । गो॒प्तारः॑ । वा॒युः । विय॑त्त॒ इति॒ वि-य॒त्तः॒ । अ॒स्या॒म् । ताम् । अ॒हम् । प्रेति॑ । प॒द्ये॒ । सा । मे॒ । शर्म॑ । च॒ । वर्म॑ । च॒ । अ॒स्तु॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -325,9 +475,19 @@ title = "०५ सयुजादीष्टकोपधानम्"
 द्यौ᳓र᳓पराजितामृ᳓तेन विष्टा᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The sky, penetrated by ambrosia, the unconquered (thou art);
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्यौरप॑राजिता॒मृते॑न वि॒ष्टा ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्यौः । अप॑राजि॒तेत्यप॑रा-जि॒ता॒ । अ॒मृते॑न । वि॒ष्टा ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -344,6 +504,11 @@ title = "०५ सयुजादीष्टकोपधानम्"
 +++(सा᳓ मे )+++व᳓र्म चास्तु᳓ ।[19]  
 </details>
 
+<details><summary>Keith</summary>
+
+the Adityas are thy guardians, the sun is deposited in this (brick), to it I resort, and may it be my protection and my refuge.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्यास्ते॑ गो॒प्तारः॑ ।   
@@ -351,6 +516,11 @@ title = "०५ सयुजादीष्टकोपधानम्"
 ताम॒हम्प्र प॑द्ये   ।  
 सा  मे॒ शर्म॑ च॒ +++(अस्तु)+++,   
 +++(सा मे॒ )+++वर्म॑ चा॒स्तु ।[19]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒दि॒त्याः । ते॒ । गो॒प्तारः॑ । सूर्यः॑ । विय॑त्त॒ इति॒ वि-य॒त्तः॒ । अ॒स्या॒म् । ताम् । अ॒हम् । प्रेति॑ । प॒द्ये॒ । सा । मे॒ । शर्म॑ । च॒ । वर्म॑ । च॒ । अ॒स्तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -44,6 +44,11 @@ Homage to the golden-armed leader of hosts, and to the lord of the quarters homa
 दि॒शाञ्च॒ पत॑ये॒ नमः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । हिर॑ण्यबाहव॒ इति॒ हिर॑ण्य-बा॒ह॒वे॒ । से॒ना॒न्य॑ इति॑ सेना-न्ये॑ । दि॒शाम् । च॒ । पत॑ये । नमः॑ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हिरण्यनिर्मितान्याभरणानि बाह्वोर्यस्यासौ हिरश्णबाहुः।  
@@ -65,6 +70,11 @@ Homage to the trees with green tresses, to the lord of cattle homage!
 <details><summary>मूलम्</summary>
 
 नमो॑ वृ॒क्षेभ्यो॒ हरि॑केशेभ्यᳶ पशू॒नाम्पत॑ये॒ नमः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । वृ॒क्षेभ्यः॑ । हरि॑केशेभ्य॒ इति॒ हरि॑-के॒शे॒भ्यः॒ । प॒शू॒नाम् । पत॑ये । नमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -90,6 +100,11 @@ Homage to the one who is yellowish-red like young grass, to the radiant, to the 
 
 नम॑स् स॒स्पिञ्ज॑राय॒ त्विषी॑मते  
 पथी॒नाम् पत॑ये॒ नमः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । स॒स्पिञ्ज॑राय । त्विषी॑मत॒ इति॒ त्विषि॑-म॒ते॒ । प॒थी॒नाम् । पत॑ये । नमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -121,6 +136,11 @@ Homage to the brown one, to the piercer, to the lord of food homage!
 नमो॑ बभ्लु॒शाय॑ विव्या॒धिनेऽन्ना॑ना॒म्पत॑ये॒  नमः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । ब॒भ्लु॒शाय॑ । वि॒व्या॒धिन॒ इति॑ वि-व्या॒धिने॑ । अन्ना॑नाम् । पत॑ये । नमः॑ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ चतुर्थ यजुराह— नमो बभ्लुशायेति।  
@@ -149,6 +169,11 @@ Homage to the green-haired, wearer of the cord, to the lord of prosperity homage
 नमो॒ हरि॑केशायोपवी॒तिने॑ पु॒ष्टाना॒म्पत॑ये॒ नमः
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । हरि॑केशा॒येति॒ हरि॑-के॒शा॒य॒ । उ॒प॒वी॒तिन॒ इत्यु॑प-वी॒तिने॑ । पु॒ष्टाना॑म् । पत॑ये । नमः॑ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ पञ्चमं यजुराह— नमो हरिकेशायेति।  
@@ -173,6 +198,11 @@ Homage to the dart of Bhava, to the lord of the moving world homage!
 नमो॑ भ॒वस्य॑ हे॒त्यै जग॑ता॒म्पत॑ये॒ नमः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । भ॒वस्य॑ । हे॒त्यै । जग॑ताम् । पत॑ये । नमः॑ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ +++(अत्र टीकाभागः न लब्धः??)+++
@@ -191,6 +221,11 @@ Homage to Rudra, with bent bow, to the lord of fields homage!
 <details><summary>मूलम्</summary>
 
 नमो॑ रु॒द्राया॑तता॒विने॒ क्षेत्रा॑णा॒म्पत॑ये॒ नमः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । रु॒द्राय॑ । आ॒त॒ता॒विन॒ इत्या॑-त॒ता॒विने॑ । क्षेत्रा॑णाम् । पत॑ये । नमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -214,6 +249,11 @@ Homage to the minstrel, the inviolate, to the lord of the woods homage!
 <details><summary>मूलम्</summary>
 
 नम॑स्सू॒तायाह॑न्त्याय॒ वना॑ना॒म्पत॑ये॒ नमः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । सू॒ताय॑ । अह॑न्त्याय । वना॑नाम् । पत॑ये । नमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -247,6 +287,11 @@ Homage [1] to the ruddy one, the ruler, to the lord of woods homage!
 नमो॒ रोहि॑ताय स्थ॒पत॑ये वृ॒क्षाणा॒म्पत॑ये॒ नमः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । रोहि॑ताय । स्थ॒पत॑ये । वृ॒क्षाणा॑म् । पत॑ये । नमः॑ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ नवमं यजुराह— नमो रोहितायेति।  
@@ -273,6 +318,11 @@ Homage to the minister, the trader, to the lord of thickets homage!
 कक्षा॑णा॒म् पत॑ये॒ नमः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । म॒न्त्रिणे॑ । वा॒णि॒जाय॑ । कक्षा॑णाम् । पत॑ये । नमः॑ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ दशमं यजुराह— नमो मर्न्त्रिण इति।  
@@ -295,6 +345,11 @@ Homage to the extender of the world, the offspring of the maker of room, to the 
 <details><summary>मूलम्</summary>
 
 नमो॑ भुव॒न्तये॑ वारिवस्कृ॒तायौष॑धीना॒म्पत॑ये॒ नमः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । भु॒व॒न्तये॑ । वा॒रि॒व॒स्कृ॒तायेति॑ वारिवः-कृ॒ताय॑ । ओष॑धीनाम् । पत॑ये । नमः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -323,6 +378,11 @@ to the lord of footmen homage!
 नम॑ उ॒च्चैर्घो॑षायाक्र॒न्दय॑ते पत्ती॒नाम्पत॑ये॒ नमः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । उ॒च्चैर्घो॑षा॒येत्यु॒च्चैः-घो॒षा॒य॒ । आ॒क्र॒न्दय॑त॒ इत्या॑-क्र॒न्दय॑ते । प॒त्ती॒नाम् । पत॑ये । नमः॑ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ द्वादशं यजुराह – नम उच्चैर्धोषायेति।  
@@ -346,6 +406,11 @@ Homage to the wholly covered, to the running, to the lord of warriors homage!
 <details><summary>मूलम्</summary>
 
 नम॑ᳵ कृत्स्नवी॒ताय॒ धाव॑ते॒ सत्व॑ना॒म्पत॑ये॒ नमः॑ ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । कृ॒त्स्न॒वी॒तायेति॑ कृत्स्न-वी॒ताय॑ । धाव॑ते । सत्व॑नाम् । पत॑ये । नमः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -21,10 +21,23 @@ title = "११ चतुर्थचितौ व्युष्टिसञ्
 वधू᳓र्जजान नवग᳓ज्ज᳓नित्री त्र᳓य एनाम्महिमा᳓नस्सचन्ते ॥    
 </details>
 
+<details><summary>Keith</summary>
+
+This is she that first dawned;  
+Within this (earth) she hath entered and moveth;  
+The new-made bride as mother beareth the mothers;  
+Three greatnesses attend her.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒यमे॒व सा या प्र॑थ॒मा व्यौच्छ॑द॒न्तर॒स्याञ्च॑रति॒ प्रवि॑ष्टा ।  
 व॒धूर्ज॑जान नव॒गज्जनि॑त्री॒ त्रय॑ एनाम्महि॒मान॑स्सचन्ते ॥    
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒यम् । ए॒व । सा । या । प्र॒थ॒मा । व्यौच्छ॒दिति॑ वि-औच्छ॑त् । अ॒न्तः । अ॒स्याम् । च॒र॒ति॒ । प्रवि॒ष्टेति॒ प्र-वि॒ष्टा॒ ॥ व॒धूः । ज॒जा॒न॒ । न॒व॒गदिति॑ नव-गत् । जनि॑त्री । त्रयः॑ । ए॒ना॒म् । म॒हि॒मानः॑ । स॒च॒न्ते॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -51,10 +64,23 @@ title = "११ चतुर्थचितौ व्युष्टिसञ्
 सू᳓र्यपत्नी वि᳓ चरतᳶ प्रजानती᳓ केतु᳓ङ्कृण्वाने᳓ अज᳓रे भू᳓रिरेतसा ॥
 </details>
 
+<details><summary>Keith</summary>
+
+Charming, the dawns, adorned,  
+Moving along a common birthplace,  
+Wives of the sun, they move, wise ones,  
+Making a banner of light, unaging, rich in seed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 छन्द॑स्वती उ॒षसा॒ पेपि॑शाने समा॒नय्ँयोनि॒मनु॑ स॒ञ्चर॑न्ती ।  
 सूर्य॑पत्नी॒ वि च॑रतᳶ प्रजान॒ती के॒तुङ्कृ॑ण्वा॒ने अ॒जरे॒ भूरि॑रेतसा ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+छन्द॑स्वती॒ इति॑ । उ॒षसा॑ । पेपि॑शाने॒ इति॑ । स॒मा॒नम् । योनि॑म् । अन्विति॑ । स॒ञ्चर॑न्ती॒ इति॑ सम्-चर॑न्ती ॥ सूर्य॑पत्नी॒ इति॒ सूर्य॑-प॒त्नी॒ । वीति॑ । च॒र॒तः॒ । प्र॒जा॒न॒ती इति॑ प्र-जा॒न॒ती । के॒तुम् । कृ॒ण्वा॒ने इति॑ । अ॒जरे॒ इति॑ । भूरि॑रेत॒सेति॒ भूरि॑-रे॒त॒सा॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -81,10 +107,23 @@ title = "११ चतुर्थचितौ व्युष्टिसञ्
 प्रजा᳓मे᳓का र᳓क्षत्यू᳓र्जमे᳓का [21]  व्रत᳓मे᳓का रक्षति देवयूना᳓म् ॥
 </details>
 
+<details><summary>Keith</summary>
+
+Three have followed the path of holy order,  
+Three cauldrons have come with the light,  
+Offspring one guardeth, strength one [1],  
+Another the law of the pious guardeth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तस्य॒ पन्था॒मनु॑ ति॒स्र आगु॒स्त्रयो॑ घ॒र्मासो॒ अनु॒ ज्योति॒षागुः॑ ।  
 प्र॒जामेका॒ रक्ष॒त्यूर्ज॒मेका॑ [21]  व्र॒तमेका॑ रक्षति देवयू॒नाम् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तस्य॑ । पन्था॑म् । अन्विति॑ । ति॒स्रः । एति॑ । अ॒गुः॒ । त्रयः॑ । घ॒र्मासः॑ । अन्विति॑ । ज्योति॑षा । एति॑ । अ॒गुः॒ ॥ प्र॒जामिति॑ प्र-जाम् । एका॑ । रक्ष॑ति । ऊर्ज॑म् । एका॑ । व्र॒तम् । एका॑ । र॒क्ष॒ति॒ । दे॒व॒यू॒नामिति॑ देव-यू॒नाम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -107,10 +146,23 @@ title = "११ चतुर्थचितौ व्युष्टिसञ्
 गायत्री᳓न्त्रिष्टु᳓भञ्ज᳓गतीमनुष्टु᳓भम्बृह᳓दर्कय्ँ᳓युञ्जाना᳓स्सु᳓वरा᳓भरन्निद᳓म् ॥
 </details>
 
+<details><summary>Keith</summary>
+
+The fourth hath become that of four Stomas,  
+Becoming the two wings of the sacrifice, O Rsis;  
+Yoking the Gayatri, Tristubh, Jagati, and Anustubh, the Brhat,  
+The hymn, they have borne forward this heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒तु॒ष्टो॒मो अ॑भव॒द्या तु॒रीया॑ य॒ज्ञस्य॑ प॒क्षावृ॑षयो॒ भव॑न्ती ।  
 गा॒य॒त्रीन्त्रि॒ष्टुभ॒ञ्जग॑तीमनु॒ष्टुभ॑म्बृ॒हद॒र्कय्ँयु॑ञ्जा॒नास्सुव॒राभ॑रन्नि॒दम् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+च॒तु॒ष्टो॒म इति॑ चतुः-स्तो॒मः । अ॒भ॒व॒त् । या । तु॒रीया॑ । य॒ज्ञस्य॑ । प॒क्षौ । ऋ॒ष॒यः॒ । भव॑न्ती ॥ गा॒य॒त्रीम् । त्रि॒ष्टुभ॑म् । जग॑तीम् । अ॒नु॒ष्टुभ॒मित्य॑नु-स्तुभ॑म् । बृ॒हत् । अ॒र्कम् । यु॒ञ्जा॒नाः । सुवः॑ । एति॑ । अ॒भ॒र॒न् । इ॒दम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -134,10 +186,23 @@ title = "११ चतुर्थचितौ व्युष्टिसञ्
 ता᳓सामु यन्ति प्रयवे᳓ण प᳓ञ्च ना᳓ना रूपा᳓णि क्र᳓तवो व᳓सानाः ॥  
 </details>
 
+<details><summary>Keith</summary>
+
+By five the creator disposed this (world),
+  
+What time he produced sisters of them, five by five, By their mingling go five strengths  
+Clad in various forms.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒ञ्चभि॑र्धा॒ता वि द॑धावि॒दय्ँयत्तासाँ॒ स्वसॄ॑रजनय॒त्पञ्च॑पञ्च ।  
 तासा॑मु यन्ति प्रय॒वेण॒ पञ्च॒ नाना॑ रू॒पाणि॒ क्रत॑वो॒ वसा॑नाः ॥  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒ञ्चभि॒रिति॑ प॒ञ्च-भिः॒ । धा॒ता । वीति॑ । द॒धौ॒ । इ॒दम् । यत् । तासा॑म् । स्वसृः॑ । अ॒ज॒न॒य॒त् । पञ्च॑प॒ञ्चेति॒ पञ्च॑-प॒ञ्च॒ ॥ तासा॑म् । उ॒ । य॒न्ति॒ । प्र॒य॒वेणेति॑ प्र-य॒वेन॑ । पञ्च॑ । नाना॑ । रू॒पाणि॑ । क्रत॑वः । वसा॑नाः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -158,10 +223,22 @@ title = "११ चतुर्थचितौ व्युष्टिसञ्
 ऋतूँ᳓स्तन्वते कव᳓यᳶ प्रजानती᳓र्म᳓ध्येछन्दसᳶ प᳓रि यन्ति भा᳓स्वतीः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thirty sisters go to the appointed place,  
+Putting on the same badge [2],  
+The sages spread out the seasons, the knowing ones With the metres in their midst, go about in brilliance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रिँ॒शत्स्वसा॑र॒ उप॑ यन्ति निष्कृ॒तँ स॑मा॒नङ्के॒तुम्प्र॑तिमु॒ञ्चमा॑नाः ।  [22]  
 ऋ॒तूँस्त॑न्वते क॒वयᳶ॑ प्रजान॒तीर्मध्ये॑छन्दस॒ᳶ परि॑ यन्ति॒ भास्व॑तीः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रिँ॒शत् । स्वसा॑रः । उपेति॑ । य॒न्ति॒ । नि॒ष्कृ॒तमिति॑ निः-कृ॒तम् । स॒मा॒नम् । के॒तुम् । प्र॒ति॒मु॒ञ्चमा॑ना॒ इति॑ प्रति-मु॒ञ्चमा॑नाः ॥ ऋ॒तून् । त॒न्व॒ते॒ । क॒वयः॑ । प्र॒जा॒न॒तीरिति॑ प्र-जा॒न॒तीः । मध्ये॑छन्दस॒ इति॒ मध्ये॑-छ॒न्द॒सः॒ । परीति॑ । यन्ति॑ । भास्व॑तीः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -186,10 +263,23 @@ title = "११ चतुर्थचितौ व्युष्टिसञ्
 वि᳓ पश्यन्ति पश᳓वो जा᳓यमाना ना᳓नारूपा मातु᳓रस्या᳓ उप᳓स्थे ।
 </details>
 
+<details><summary>Keith</summary>
+
+The shining one putteth on clouds,  
+The ways of the sun, the night divine;  
+The beasts of many forms that are born  
+Look around on the lap of their mother.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्योति॑ष्मती॒ प्रति॑ मुञ्चते॒ नभो॒ रात्री॑ दे॒वी सूर्य॑स्य व्र॒तानि॑ ।  
 वि प॑श्यन्ति प॒शवो॒ जाय॑माना॒ नाना॑रूपा मा॒तुर॒स्या उ॒पस्थे॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ज्योति॑ष्मती । प्रतीति॑ । मु॒ञ्च॒ते॒ । नभः॑ । रात्री॑ । दे॒वी । सूर्य॑स्य । व्र॒तानि॑ ॥ वीति॑ । प॒श्य॒न्ति॒ । प॒शवः॑ । जाय॑मानाः । नाना॑रूपा॒ इति॒ नाना॑-रू॒पाः॒ । मा॒तुः । अ॒स्याः॒ । उ॒पस्थ॒ इत्यु॒प-स्थे॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -208,10 +298,23 @@ title = "११ चतुर्थचितौ व्युष्टिसञ्
 ते᳓न द᳓स्यून्व्य᳙सहन्त देवा᳓ हन्ता᳓सुराणामभवच्छ᳓चीभिः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The Ekastaka, undergoing penance,  
+Hath borne a child, the great Indra;  
+Therewith the gods overpowered the Asuras;  
+Slayer of Asuras he became in his might.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒का॒ष्ट॒का तप॑सा॒ तप्य॑माना ज॒जान॒ गर्भ॑म्महि॒मान॒मिन्द्र॑म् ।  
 तेन॒ दस्यू॒न्व्य॑सहन्त दे॒वा ह॒न्तासु॑राणामभव॒च्छची॑भिः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒का॒ष्ट॒केत्ये॑क-अ॒ष्ट॒का । तप॑सा । तप्य॑माना । ज॒जान॑ । गर्भ॑म् । म॒हि॒मान॑म् । इन्द्र॑म् ॥ तेन॑ । दस्यून्॑ । वीति॑ । अ॒स॒ह॒न्त॒ । दे॒वाः । ह॒न्ता । असु॑राणाम् । अ॒भ॒व॒त् । शची॑भि॒रिति॒ शचि॑-भिः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -230,10 +333,22 @@ title = "११ चतुर्थचितौ व्युष्टिसञ्
 भूया᳓सम् [23]  अस्य सुमतौ᳓ य᳓था यूय᳓मन्या᳓ वो अन्या᳓म᳓ति मा᳓ प्र᳓ युक्त ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Ye have made me, who am not younger, the younger; Speaking the truth I desire this;  
+May I [3] enjoy his lovingkindness as do ye;  
+May not one of you supplant another.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अना॑नुजामनु॒जाम्माम॑कर्त स॒त्यव्ँवद॒न्त्यन्वि॑च्छ ए॒तत् ।  
 भू॒यास॑म् [23]  अ॒स्य॒ सु॒म॒तौ यथा॑ यू॒यम॒न्या वो॑ अ॒न्यामति॒ मा प्र यु॑क्त ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अना॑नुजा॒मित्यना॑नु-जा॒म् । अ॒नु॒जामित्य॑नु-जाम् । माम् । अ॒क॒र्त॒ । स॒त्यम् । वद॑न्ती । अन्विति॑ । इ॒च्छे॒ । ए॒तत् ॥ भू॒यास॑म् । अ॒स्य॒ । सु॒म॒ताविति॑ सु-म॒तौ । यथा॑ । यू॒यम् । अ॒न्या । वः॒ । अ॒न्याम् । अतीति॑ । मा । प्रेति॑ । यु॒क्त॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -252,10 +367,21 @@ title = "११ चतुर्थचितौ व्युष्टिसञ्
 भूया᳓समस्य सुमतौ᳓ य᳓था यूय᳓मन्या᳓ वो अन्या᳓म᳓ति मा᳓ प्र᳓ युक्त ।
 </details>
 
+<details><summary>Keith</summary>
+
+He hath enjoyed my lovingkindness, the all-knower; He hath found a support, for he hath won the shallow; May I enjoy his lovingkindness as do ye  
+May not one of you supplant another.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अभू॒न्मम॑ सुम॒तौ वि॒श्ववे॑दा॒ आष्ट॑ प्रति॒ष्ठामवि॑द॒द्धि गा॒धम् ।  
 भू॒यास॑मस्य सुम॒तौ यथा॑ यू॒यम॒न्या वो॑ अ॒न्यामति॒ मा प्र यु॑क्त ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अभू॑त् । मम॑ । सु॒म॒ताविति॑ सु-म॒तौ । वि॒श्ववे॑दा॒ इति॑ वि॒श्व-वे॒दाः॒ । आष्ट॑ । प्र॒ति॒ष्ठामिति॑ प्रति-स्थाम् । अवि॑दत् । हि । गा॒धम् ॥ भू॒यास॑म् । अ॒स्य॒ । सु॒म॒ताविति॑ सु-म॒तौ । यथा॑ । यू॒यम् । अ॒न्या । वः॒ । अ॒न्याम् । अतीति॑ । मा । प्रेति॑ । यु॒क्त॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -274,10 +400,22 @@ title = "११ चतुर्थचितौ व्युष्टिसञ्
 प᳓ञ्च दि᳓शᳶ पञ्चदशे᳓न कॢप्ता᳓स्समान᳓मूर्ध्नीरभि᳓ लोक᳓मे᳓कम् ॥    [24]
 </details>
 
+<details><summary>Keith</summary>
+
+On the five dawns follow the five milkings,  
+On the cow with five names the five seasons;  
+The five quarters are established by the fifteenfold (Stoma), With equal heads over the one world [4].
+</details>
+
 <details><summary>मूलम्</summary>
 
 पञ्च॒ व्यु॑ष्टी॒रनु॒ पञ्च॒ दोहा॒ गाम्पञ्च॑नाम्नीमृ॒तवोऽनु॒ पञ्च॑ ।  
 पञ्च॒ दिशᳶ॑ पञ्चद॒शेन॑ कॢ॒प्तास्स॑मा॒नमू॑र्ध्नीर॒भि लो॒कमेक॑म् ॥    [24]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पञ्च॑ । व्यु॑ष्टी॒रिति॒ वि-उ॒ष्टीः॒ । अन्विति॑ । पञ्च॑ । दोहाः॑ । गाम् । पञ्च॑नाम्नी॒मिति॒ पञ्च॑-ना॒म्नी॒म् । ऋ॒तवः॑ । अन्विति॑ । पञ्च॑ ॥ पञ्च॑ । दिशः॑ । प॒ञ्च॒द॒शेनेति॑ पञ्च-द॒शेन॑ । कॢ॒प्ताः । स॒मा॒नमू॑र्ध्नी॒रिति॑ समा॒न-मू॒र्ध्नीः॒ । अ॒भीति॑ । लो॒कम् । एक॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -296,10 +434,22 @@ title = "११ चतुर्थचितौ व्युष्टिसञ्
 सू᳓र्यस्यै᳓का च᳓रति निष्कृते᳓षु घर्म᳓स्यै᳓का सवितै᳓कान्नि᳓ यच्छति ।
 </details>
 
+<details><summary>Keith</summary>
+
+She who first shone forth is the child of holy order; One supporteth the might of the waters;  
+One moveth in the places of the sun,  
+And one in those of the heat; Savitr governeth one.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तस्य॒ गर्भᳶ॑ प्रथ॒मा व्यू॒षुष्य॒पामेका॑ महि॒मान॑म्बिभर्ति ।  
 सूर्य॒स्यैका॒ चर॑ति निष्कृ॒तेषु॑ घ॒र्मस्यैका॑ सवि॒तैका॒न्नि य॑च्छति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तस्य॑ । गर्भः॑ । प्र॒थ॒मा । व्यू॒षुषीति॑ वि-ऊ॒षुषी॑ । अ॒पाम् । एका॑ । म॒हि॒मान॑म् । बि॒भ॒र्ति॒ ॥ सूर्य॑स्य । एका॑ । चर॑ति । नि॒ष्कृ॒तेष्विति॑ निः-कृ॒तेषु॑ । घ॒र्मस्य॑ । एका॑ । स॒वि॒ता । एका॑म् । नीति॑ । य॒च्छ॒ति॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -318,10 +468,23 @@ title = "११ चतुर्थचितौ व्युष्टिसञ्
 सा᳓ नᳶ प᳓यस्वती धुक्ष्वो᳓त्तरामुत्तराँ स᳓माम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+She who first shone forth  
+Hath become a cow with Yama;  
+Do thou, rich in milk, milk for us  
+Season after season.
+</details>
+
 <details><summary>मूलम्</summary>
 
 या प्र॑थ॒मा व्यौच्छ॒त्सा धे॒नुर॑भवद्य॒मे ।  
 सा न॒ᳶ पय॑स्वती धु॒क्ष्वोत्त॑रामुत्तराँ॒ समा॑म् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+या । प्र॒थ॒मा । व्यौच्छ॒दिति॑ वि-औच्छ॑त् । सा । धे॒नुः । अ॒भ॒व॒त् । य॒मे ॥ सा । नः॒ । पय॑स्वती । धु॒क्ष्व॒ । उत्त॑रामुत्तरा॒मित्युत्त॑राम्-उ॒त्त॒रा॒म् । समा॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -340,10 +503,22 @@ title = "११ चतुर्थचितौ व्युष्टिसञ्
 समान᳓म᳓र्थँ स्वपस्य᳓माना बि᳓भ्रती जरा᳓मजर उष आ᳓गाः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+She of bright bulls hath come with the cloud, the light, She of all forms, the motley, whose banner is fire;  
+Accomplishing thy common task,  
+Bringing old age, thou hast come, O unaging dawn.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शु॒क्रर्ष॑भा॒ नभ॑सा॒ ज्योति॒षागा॑द्वि॒श्वरू॑पा शब॒लीर॒ग्निके॑तुः ।  
 स॒मा॒नमर्थँ॑ स्वप॒स्यमा॑ना॒ बिभ्र॑ती ज॒राम॑जर उष॒ आगाः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शु॒क्रर्ष॒भेति॑ शु॒क्र-ऋ॒ष॒भा॒ । नभ॑सा । ज्योति॑षा । एति॑ । अ॒गा॒त् । वि॒श्वरू॒पेति॑ वि॒श्व-रू॒पा॒ । श॒ब॒लीः । अ॒ग्निके॑तु॒रित्य॒ग्नि-के॒तुः॒ ॥ स॒मा॒नम् । अर्थ॑म् । स्व॒प॒स्यमा॒नेति॑ सु-अ॒प॒स्यमा॑ना । बिभ्र॑ती । ज॒राम् । अ॒ज॒रे॒ । उ॒षः॒ । एति॑ । अ॒गाः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -362,10 +537,22 @@ title = "११ चतुर्थचितौ व्युष्टिसञ्
 ए᳓का सती᳓ बहुधो᳓षो व्यु᳙च्छस्य᳓जीर्णा त्व᳓ञ्जरयसि स᳓र्वमन्य᳓त् ॥   [25]  
 </details>
 
+<details><summary>Keith</summary>
+
+Lady, of seasons the first, she hath come hither,  
+Leading the days, and bearer of offspring;  
+Though one, O Usas, in many places dost thou shine forth Unaging thou dost make to age all else.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तू॒नाम्पत्नी॑ प्रथ॒मेयमागा॒दह्ना॑न्ने॒त्री ज॑नि॒त्री प्र॒जाना॑म् ।  
 एका॑ स॒ती ब॑हु॒धोषो॒ व्यु॑च्छ॒स्यजी॑र्णा॒ त्वञ्ज॑रयसि॒ सर्व॑म॒न्यत् ॥   [25]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तू॒नाम् । पत्नी॑ । प्र॒थ॒मा । इ॒यम् । एति॑ । अ॒गा॒त् । अह्ना॑म् । ने॒त्री । ज॒नि॒त्री । प्र॒जाना॒मिति॑ प्र-जाना॑म् ॥ एका॑ । स॒ती । ब॒हु॒धेति॑ बहु-धा । उ॒षः॒ । वीति॑ । उ॒च्छ॒सि॒ । अजी॑र्णा । त्वम् । ज॒र॒य॒सि॒ । सर्व॑म् । अ॒न्यत् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

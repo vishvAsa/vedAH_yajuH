@@ -36,6 +36,11 @@ title = "०६ वसोर्धारा होममन्त्राः"
 द्यौ᳓श्च म इ᳓न्द्रश्च मे  +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May Agni for me and Indra, may Soma and Indra, may Savitr and Indra, may Sarasvati and Indra, may Pusan and Indra, may Brhaspati and Indra, may Mitra and Indra, may Varuna and Indra, may Tvastr and Indra, may Dhatr and Indra, may Visnu and Indra, may the Asvins and Indra, may the Maruts and Indra, may the All-gods and Indra, may earth and Indra, may the atmosphere and Indra, may sky and Indra (be auspicious for me through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निश्च॑ म॒ इन्द्र॑श्च मे॒  +++(कल्पताम्)+++ ।  
@@ -58,6 +63,11 @@ title = "०६ वसोर्धारा होममन्त्राः"
 द्यौश्च॑ म॒ इन्द्र॑श्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ । सोमः॑ । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ । स॒वि॒ता । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ । सर॑स्वती । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ । पू॒षा । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ । बृह॒स्पतिः॑ । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ । मि॒त्रः । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ । वरु॑णः । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ । त्वष्टा॑ । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ । धा॒ता । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ । विष्णुः॑ । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ । अ॒श्विनौ॑ । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ । म॒रुतः॑ । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ । विश्वे॑ । च॒ । मे॒ । दे॒वाः । इन्द्रः॑ । च॒ । मे॒ । पृ॒थि॒वी । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ । अ॒न्तरि॑क्षम् । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ । द्यौः । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अग्न्यादयः प्रसिद्धा देवताः ।   तैः सर्वैः सह समानभागेपेतत्वादिन्द्र एकैकया देवतया सह पढ्येते ।  
@@ -68,9 +78,19 @@ title = "०६ वसोर्धारा होममन्त्राः"
 दि᳓शश्च म इ᳓न्द्रश्च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the quarters and Indra (be auspicious for me through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 दिश॑श्च म॒ इन्द्र॑श्च मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दिशः॑ । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -84,10 +104,20 @@ title = "०६ वसोर्धारा होममन्त्राः"
 प्रजा᳓पतिश्च म  इ᳓न्द्रश्च मे +++(कल्पताम्)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the head and Indra, may Prajapati and Indra be auspicious for me through the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मू॒र्धा च॑ म॒  इन्द्र॑श्च मे +++(कल्पताम्)+++ ।  
 प्र॒जाप॑तिश्च म॒  इन्द्र॑श्च मे +++(कल्पताम्)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मू॒र्धा । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । च॒ । मे॒ । इन्द्रः॑ । च॒ । मे॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

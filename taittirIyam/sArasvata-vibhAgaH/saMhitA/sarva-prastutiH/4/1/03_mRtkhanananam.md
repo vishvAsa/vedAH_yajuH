@@ -25,9 +25,19 @@ title = "०३ मृत्खनननम्"
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙ऽश्वि᳓नोर्बाहु᳓भ्याम्पूष्णो᳓ ह᳓स्ताभ्याम्पृथिव्या᳓स्सध᳓स्थेऽग्नि᳓म्पुरीष्य᳙मङ्गिरस्व᳓त्खनामि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+On the impulse of the god Savitr, with the arms of the Aśvins, with the hands of Pusan, in the abode of earth, I dig Agni of the dust in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑ऽश्विनो॑र्बा॒हुभ्या॑म्पू॒ष्णो हस्ता॑भ्याम्पृथि॒व्यास्स॒धस्थे॒ऽग्निम्पु॑री॒ष्य॑मङ्गिर॒स्वत्ख॑नामि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् । पृ॒थि॒व्याः । स॒धस्थ॒ इति॑ स॒ध-स्थे॒ । अ॒ग्निम् । पु॒री॒ष्य॑म् । अ॒ङ्गि॒र॒स्वत् । ख॒ना॒मि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -46,10 +56,23 @@ title = "०३ मृत्खनननम्"
 शिव᳓म्प्रजा᳓भ्यो᳓ऽहिँसन्तम्पृथिव्या᳓स्सध᳓स्थेऽग्नि᳓म्पुरीष्य᳙मङ्गिरस्व᳓त्खनामि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Full of light, thou, O Agni; of fair aspect,  
+Shining with unaging radiance,  
+Auspicious and harmless to offspring,  
+In the abode of earth, I dig Agni of the dust in the manner of Angiras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्योति॑ष्मन्तन्त्वाग्ने सु॒प्रती॑क॒मज॑स्रेण भा॒नुना॒ दीद्या॑नम् ।  
 शि॒वम्प्र॒जाभ्योऽहिँ॑सन्तम्पृथि॒व्यास्स॒धस्थे॒ऽग्निम्पु॑री॒ष्य॑मङ्गिर॒स्वत्ख॑नामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ज्योति॑ष्मन्तम् । त्वा॒ । अ॒ग्ने॒ । सु॒प्रती॑क॒मिति॑ सु-प्रती॑कम् । अज॑स्रेण । भा॒नुना॑ । दीद्या॑नम् ॥ शि॒वम् । प्र॒जाभ्य॒ इति॑ प्र-जाभ्यः॑ । अहिँ॑सन्तम् । पृ॒थि॒व्याः । स॒धस्थ॒ इति॑ स॒ध-स्थे॒ । अ॒ग्निम् । पु॒री॒ष्य॑म् । अ॒ङ्गि॒र॒स्वत् । ख॒ना॒मि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -78,10 +101,23 @@ title = "०३ मृत्खनननम्"
 व᳓र्धमानम्मह᳓ आ᳓ च पु᳓ष्करन्दिवो᳓ मा᳓त्रया वरिणा᳓ प्रथस्व ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the back of the waters, expansive, wide,  
+About to bear Agni, least to be laid aside;  
+Growing to might as the lotus-flower,  
+Do thou extend in width with the measure of heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पाम्पृ॒ष्ठम॑सि स॒प्रथा॑ उ॒र्व॑ग्निम्भ॑रि॒ष्यदप॑रावपिष्ठम् ।  
 वर्ध॑मानम्म॒ह आ च॒ पुष्क॑रन्दि॒वो मात्र॑या वरि॒णा प्र॑थस्व ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । पृ॒ष्ठम् । अ॒सि॒ । स॒प्रथा॒ इति॑ स-प्रथाः॑ । उ॒रु । अ॒ग्निम् । भ॒रि॒ष्यत् । अप॑रावपिष्ठ॒मित्यप॑रा-व॒पि॒ष्ठ॒म् ॥ वर्ध॑मानम् । म॒हः । एति॑ । च॒ । पुष्क॑रम् । दि॒वः । मात्र॑या । व॒रि॒णा । प्र॒थ॒स्व॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -105,10 +141,23 @@ title = "०३ मृत्खनननम्"
 व्य᳓चस्वती सव्ँ᳓वसाथाम्भर्त᳓मग्नि᳓म्पुरीष्य᳙म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Ye two are protectors [1] and a help,  
+Unbroken, both expansive;  
+Do ye expanding be united;  
+Bear Agni of the dust.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शर्म॑ च स्थः [10]  वर्म॑ च स्थो॒ अच्छि॑द्रे बहु॒ले उ॒भे ।  
 व्यच॑स्वती॒ सव्ँव॑साथाम्भ॒र्तम॒ग्निम्पु॑री॒ष्य॑म् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शर्म॑ । च॒ । स्थः॒ । वर्म॑ । च॒ । स्थः॒ । अच्छि॑द्रे॒ इति॑ । ब॒हु॒ले इति॑ । उ॒भे इति॑ ॥ व्यच॑स्वती॒ इति॑ । समिति॑ । व॒सा॒था॒म् । भ॒र्तम् । अ॒ग्निम् । पु॒री॒ष्य॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -127,10 +176,23 @@ title = "०३ मृत्खनननम्"
 अग्नि᳓मन्त᳓र्भरिष्य᳓न्ती ज्यो᳓तिष्मन्तम᳓जस्रमि᳓त् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Be ye united, that win the heaven,  
+In union of heart and self;  
+Who shall bear within Agni  
+Full of light and unaging.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सव्ँव॑साथाँ सुव॒र्विदा॑ स॒मीची॒ उर॑सा॒ त्मना॑ ।  
 अ॒ग्निम॒न्तर्भ॑रि॒ष्यन्ती॒ ज्योति॑ष्मन्त॒मज॑स्र॒मित् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । व॒सा॒था॒म् । सु॒व॒र्विदेति॑ सुवः-विदा॑ । स॒मीची॒ इति॑ । उर॑सा । त्मना॑ ॥ अ॒ग्निम् । अ॒न्तः । भ॒रि॒ष्यन्ती॒ इति॑ । ज्योति॑ष्मन्तम् । अज॑स्रम् । इत् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -158,9 +220,19 @@ title = "०३ मृत्खनननम्"
 पुरीष्यो᳙ऽसि
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art of the dust,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒री॒ष्यो॑ऽसि
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पु॒री॒ष्यः॑ । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -173,9 +245,19 @@ title = "०३ मृत्खनननम्"
 विश्व᳓भराः +++( असि)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+all-supporting;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्वभ॑राः +++( असि)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒श्वभ॑रा॒ इति॑ वि॒श्व-भ॒राः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -194,9 +276,19 @@ title = "०३ मृत्खनननम्"
 अ᳓थर्वा त्वा प्रथमो᳓ नि᳓रमन्थदग्ने ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Atharvan first pressed thee out, O Agni,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॑र्वा त्वा प्रथ॒मो निर॑मन्थदग्ने ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अथ॑र्वा । त्वा॒ । प्र॒थ॒मः । निरिति॑ । अ॒म॒न्थ॒त् । अ॒ग्ने॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -215,10 +307,22 @@ title = "०३ मृत्खनननम्"
 मूर्ध्नो᳓ वि᳓श्वस्य वाघ᳓तः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thee, O Agni, from the lotus  
+Atharvan pressed out,  
+From the head of every priest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वाम॑ग्ने॒ पुष्क॑रा॒दध्यथ॑र्वा॒ निर॑मन्थत ।  
 मू॒र्ध्नो विश्व॑स्य वा॒घतः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वाम् । अ॒ग्ने॒ । पुष्क॑रात् । अधीति॑ । अथ॑र्वा । निरिति॑ । अ॒म॒न्थ॒त॒ ॥ मू॒र्ध्नः । विश्व॑स्य । वा॒घतः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -237,10 +341,22 @@ title = "०३ मृत्खनननम्"
 वृत्रह᳓णम्पुरन्दर᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thee the sage, Dadhyañc,  
+Son [2] of Atharvan, doth kindle,  
+Slayer of Vrtra, destroyer of foes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तमु॑ त्वा द॒ध्यङ्ङृषिᳶ॑ पु॒त्र ई॑धे [11]   अथ॑र्वणः ।
 वृ॒त्र॒हण॑म्पुरन्द॒रम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । उ॒ । त्वा॒ । द॒ध्यङ्ङ् । ऋषिः॑ । पु॒त्रः । ई॒धे॒ । अथ॑र्वणः ॥ वृ॒त्र॒हण॒मिति॑ वृत्र-हन॑म् । पु॒र॒न्द॒रमिति॑ पुरम्-द॒रम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -259,10 +375,22 @@ title = "०३ मृत्खनननम्"
 धनञ्जयँ᳓ र᳓णेरणे ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thee Pathya Vrsan doth kindle,  
+Best slayer of foes,  
+Winner of booty in every conflict.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तमु॑ त्वा पा॒थ्यो वृषा॒ समी॑धे दस्यु॒हन्त॑मम् ।  
 ध॒न॒ञ्ज॒यँ रणे॑रणे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । उ॒ । त्वा॒ । पा॒थ्यः । वृषा॑ । समिति॑ । ई॒धे॒ । द॒स्यु॒हन्त॑म॒मिति॑ दस्यु-हन्त॑मम् ॥ ध॒न॒ञ्ज॒यमिति॑ धनम्-ज॒यम् । रणे॑रण॒ इति॒ रणे॑-र॒णे॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -282,10 +410,23 @@ title = "०३ मृत्खनननम्"
 देवावी᳓र्देवा᳓न्हवि᳓षा यजास्य᳓ग्ने बृह᳓द्य᳓जमाने व᳓यो धाः ।
 </details>
 
+<details><summary>Keith</summary>
+
+Sit thou, O Hotr, in thine own world, wise,  
+Place thou the sacrifice in the birthplace of good deeds,  
+Eager for the gods, do thou sacrifice to them with oblation;  
+O Agni, bestow great strength on the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सीद॑ होत॒स्स्व उ॑ लो॒के चि॑कि॒त्वान्त्सा॒दया॑ य॒ज्ञँ सु॑कृ॒तस्य॒ योनौ॑ ।  
 दे॒वा॒वीर्दे॒वान्ह॒विषा॑ यजा॒स्यग्ने॑ बृ॒हद्यज॑माने॒ वयो॑ धाः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सीद॑ । हो॒तः॒ । स्वे । उ॒ । लो॒के । चि॒कि॒त्वान् । सा॒दय॑ । य॒ज्ञम् । सु॒कृ॒तस्येति॑ सु-कृ॒तस्य॑ । योनौ॑ ॥ दे॒वा॒वीरिति॑ देव-अ॒वीः । दे॒वान् । ह॒विषा॑ । य॒जा॒सि॒ । अग्ने॑ । बृ॒हत् । यज॑माने । वयः॑ । धाः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -304,10 +445,21 @@ title = "०३ मृत्खनननम्"
 अ᳓दब्धव्रतप्रमतिर्व᳓सिष्ठस्सहस्रम्भर᳓श्शु᳓चिजिह्वो अग्निः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The Hotr hath sat him down in the place of the Hoty, wise, Glittering, shining, skilful,  
+With vows and foresight undeceived, most wealthy, Bearing a thousand, pure-tongued Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नि होता॑ होतृ॒षद॑ने॒ विदा॑नस्त्वे॒षो दी॑दि॒वाँ अ॑सदत्सु॒दक्षः॑ ।  
 अद॑ब्धव्रतप्रमति॒र्वसि॑ष्ठस्सहस्रम्भ॒रश्शुचि॑जिह्वो अ॒ग्निः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नीति॑ । होता॑ । हो॒तृ॒षद॑न॒ इति॑ होतृ-सद॑ने । विदा॑नः । त्वे॒षः । दी॒दि॒वान् । अ॒स॒द॒त् । सु॒दक्ष॒ इति॑ सु-दक्षः॑ ॥ अद॑ब्धव्रतप्रमति॒रित्यद॑ब्धव्रत-प्र॒म॒तिः॒ । वसि॑ष्ठः । स॒ह॒स्र॒म्भ॒र इति॑ सहस्रम्-भ॒रः । शुचि॑जिह्व॒ इति॒ शुचि॑-जि॒ह्वः॒ । अ॒ग्निः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -326,10 +478,22 @@ title = "०३ मृत्खनननम्"
 वि᳓ धूम᳓मग्ने अरुष᳓म्मियेध्य सृज᳓ प्रशस्त दर्शत᳓म् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Sit thou down, thou art great,  
+Burn [3] best servant of the gods;  
+O Agni, pure one, send forth the ruddy smoke, O famous one, that can be seen afar.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सँ सी॑दस्व म॒हाँ अ॑सि॒ शोच॑स्व [12]  दे॒व॒वीत॑मः ।  
 वि धू॒मम॑ग्ने अरु॒षम्मि॑येध्य सृ॒ज प्र॑शस्त दर्श॒तम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । सी॒द॒स्व॒ । म॒हान् । अ॒सि॒ । शोच॑स्व । दे॒व॒वीत॑म॒ इति॑ देव-वीत॑मः ॥ वीति॑ । धू॒मम् । अ॒ग्ने॒ । अ॒रु॒षम् । मि॒ये॒ध्य॒ । सृ॒ज । प्र॒श॒स्तेति॑ प्र-श॒स्त॒ । द॒र्श॒तम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -348,10 +512,23 @@ title = "०३ मृत्खनननम्"
 द᳓मेदमे सप्त᳓ र᳓त्ना द᳓धानोऽग्नि᳓र्हो᳓ता नि᳓ षसादा य᳓जीयान् ॥ [13]  
 </details>
 
+<details><summary>Keith</summary>
+
+Be born noble in the forefront of the days,  
+Kind to the kindly, red in the woods;  
+Bestowing seven jewels in every home  
+Hath Agni sat him down as Hotr.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जनि॑ष्वा॒ हि जेन्यो॒ अग्रे॒ अह्नाँ॑ हि॒तो हि॒तेष्व॑रु॒षो वने॑षु ।  
 दमे॑दमे स॒प्त रत्ना॒ दधा॑नो॒ऽग्निर्होता॒ नि ष॑सादा॒ यजी॑यान् ॥ [13]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जनि॑ष्व । हि । जेन्यः॑ । अग्रे॑ । अह्ना॑म् । हि॒तः । हि॒तेषु॑ । अ॒रु॒षः । वने॑षु ॥ दमे॑दम॒ इति॒ दमे॑-द॒मे॒ । स॒प्त । रत्ना॑ । दधा॑नः । अ॒ग्निः । होता॑ । नीति॑ । स॒सा॒द॒ । यजी॑यान् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

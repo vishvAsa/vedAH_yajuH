@@ -23,9 +23,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 आशु᳓स्त्रिवृ᳓त्  ,
 </details>
 
+<details><summary>Keith</summary>
+
+(Thou art) the swift, the triple (Stoma);
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒शुस्त्रि॒वृत्  ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒शुः । त्रि॒वृदिति॑ त्रि-वृत् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -50,9 +60,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 भान्तᳶ᳓ पञ्चदशः᳓,
 </details>
 
+<details><summary>Keith</summary>
+
+the shining, the fifteenfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 भा॒न्तᳶ प॑ञ्चद॒शः,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भा॒न्तः । प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -65,9 +85,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 व्यो᳙म सप्तदशः᳙ ,
 </details>
 
+<details><summary>Keith</summary>
+
+the sky, the seventeenfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 व्यो॑म सप्तद॒श॑ः ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व्यो॑मेति॒ वि-ओ॒म॒ । स॒प्त॒द॒श इति॑ सप्त-द॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -80,9 +110,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 प्र᳓तूर्तिरष्टादशः᳓ ,
 </details>
 
+<details><summary>Keith</summary>
+
+speed, the eighteenfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतू॑र्तिरष्टाद॒शः ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रतू॑र्ति॒रिति॒ प्र-तू॒र्तिः॒ । अ॒ष्टा॒द॒श इत्य॑ष्टा-द॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -96,9 +136,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 ्त᳓पो नवदशः᳙ ,
 </details>
 
+<details><summary>Keith</summary>
+
+fervour, the nineteenfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ्तपो॑ नवद॒शः॑ ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तपः॑ । न॒व॒द॒श इति॑ नव-द॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -111,9 +161,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 अ᳓भि᳓वर्त᳓स्सविँशः᳓ ,
 </details>
 
+<details><summary>Keith</summary>
+
+attack, the twentyfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अभिव॒र्तस्स॑विँ॒शः ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भि॒व॒र्त इत्य॑भि-व॒र्तः । स॒विँ॒श इति॑ स-विँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -127,9 +187,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 धरु᳓ण एकविँशः᳓ ,
 </details>
 
+<details><summary>Keith</summary>
+
+support, the twenty-onefold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ध॒रुण॑ एकविँ॒शः ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ध॒रुणः॑ । ए॒क॒विँ॒श इत्ये॑क-विँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -142,9 +212,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 व᳓र्चो द्वाविँशः᳓ ,
 </details>
 
+<details><summary>Keith</summary>
+
+radiance, the twenty-twofold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वर्चो॑ द्वाविँ॒शः ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वर्चः॑ । द्वा॒विँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -157,9 +237,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 सम्भ᳓रणस्त्रयोविँशः᳓ ,
 </details>
 
+<details><summary>Keith</summary>
+
+maintenance, the twenty-threefold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒म्भर॑णस्त्रयोविँ॒शः ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒म्भर॑ण॒ इति॑ सम्-भर॑णः । त्र॒यो॒विँ॒श इति॑ त्रयः-विँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -172,9 +262,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 यो᳓निश्चतुर्विँशः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the womb, the twenty-fourfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 योनि॑श्चतुर्विँ॒शः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+योनिः॑ । च॒तु॒र्विँ॒श इति॑ चतुः-विँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -187,9 +287,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 ग᳓र्भाः पञ्चविँशः᳓ ,
 </details>
 
+<details><summary>Keith</summary>
+
+the embryo, the twenty-fivefold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 गर्भाः॑ पञ्चविँ॒शः ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गर्भाः॑ । प॒ञ्च॒विँ॒श इति॑ पञ्च-विँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -202,9 +312,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 ओ᳓जस्त्रिणवः᳓,
 </details>
 
+<details><summary>Keith</summary>
+
+might, the twenty-sevenfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ओज॑स्त्रिण॒वः,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ओजः॑ । त्रि॒ण॒व इति॑ त्रि-न॒वः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -217,9 +337,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 क्र᳓तुरेकत्रिँशः᳓,
 </details>
 
+<details><summary>Keith</summary>
+
+inspiration, the thirty-onefold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्रतु॑रेकत्रिँ॒शः,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्रतुः॑ । ए॒क॒त्रिँ॒श इत्ये॑क-त्रिँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -232,9 +362,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 प्रतिष्ठा᳓ त्रयस्त्रिँशः᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+support, the thirty-threefold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒ति॒ष्ठा त्र॑यस्त्रिँ॒शः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒ति॒ष्ठेति॑ प्रति-स्था । त्र॒य॒स्त्रिँ॒श इति॑ त्रयः-त्रिँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -247,9 +387,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 ब्रध्न᳓स्य विष्ट᳓पं᳓ च᳓तु᳓स्त्रिँशः᳓,
 </details>
 
+<details><summary>Keith</summary>
+
+the surface of the tawny one, the thirty-fourfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्र॒ध्नस्य॑ वि॒ष्टपं चतुस्त्रिँ॒शः,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्र॒ध्नस्य॑ । वि॒ष्टप॑म् । च॒तु॒स्त्रिँ॒श इति॑ चतुः-त्रिँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -263,9 +413,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 ना᳓कष्षट्त्रिँशः᳓,
 </details>
 
+<details><summary>Keith</summary>
+
+the vault, the thirty-sixfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 नाक॑ष्षट्त्रिँ॒शः,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नाकः॑ । ष॒ट्त्रिँ॒श इति॑ षट्-त्रिँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -278,9 +438,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 विवर्तो᳙ऽष्टाचत्वारिँशः᳓,
 </details>
 
+<details><summary>Keith</summary>
+
+the revolving, the forty-eightfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒व॒र्तो॑ऽष्टाचत्वारिँ॒शः,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒व॒र्त इति॑ वि-व॒र्तः । अ॒ष्टा॒च॒त्वा॒रिँ॒श इत्य॑ष्टा-च॒त्वा॒रिँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -295,9 +465,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 धर्त्र᳓श्चतुष्टोमः᳓ ॥ [15]  
 </details>
 
+<details><summary>Keith</summary>
+
+the support, the fourfold Stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ध॒र्त्रश्च॑तुष्टो॒मः ॥ [15]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ध॒र्त्रः । च॒तु॒ष्टो॒म इति॑ चतुः-स्तो॒मः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -335,9 +515,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 भान्तᳶ᳓ पञ्चदशः᳓,
 </details>
 
+<details><summary>Keith</summary>
+
+the shining, the fifteenfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 भा॒न्तᳶ प॑ञ्चद॒शः,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भा॒न्तः । प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -353,10 +543,20 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 प्र᳓तूर्तिरष्टादशः᳓ ,
 </details>
 
+<details><summary>Keith</summary>
+
+the sky, the seventeenfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 व्यो॑म सप्तद॒शः ,
 प्रतू॑र्तिरष्टाद॒शः ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व्यो॑मेति॒ वि-ओ॒म॒ । स॒प्त॒द॒श इति॑ सप्त-द॒शः । प्रतू॑र्ति॒रिति॒ प्र-तू॒र्तिः॒ । अ॒ष्टा॒द॒श इत्य॑ष्टा-द॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -371,9 +571,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 अभिवर्त᳓स्सविँशः᳓  ,
 </details>
 
+<details><summary>Keith</summary>
+
+attack, the twentyfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒भि॒व॒र्तस्स॑विँ॒शः  ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भि॒व॒र्त इत्य॑भि-व॒र्तः । स॒विँ॒श इति॑ स-विँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -390,11 +600,21 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 व᳓र्चो द्वाविँशः᳓ ,  
 </details>
 
+<details><summary>Keith</summary>
+
+support, the twenty-onefold; radiance, the twenty-twofold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ्
 ध॒रुण॑ एकविँ॒शः ,   
-वर्चो॑ द्वाविँ॒शः ,  
+वर्चो॑ द्वाविँ॒शः ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ध॒रुणः॑ । ए॒क॒विँ॒श इत्ये॑क-विँ॒शः । वर्चः॑ । द्वा॒विँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -410,9 +630,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 ्त᳓पो नवदशः᳓ ,
 </details>
 
+<details><summary>Keith</summary>
+
+fervour, the nineteenfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ्तपो॑ नवद॒शः ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तपः॑ । न॒व॒द॒श इति॑ नव-द॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -428,9 +658,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 यो᳓निश्चतुर्विँशः᳓,
 </details>
 
+<details><summary>Keith</summary>
+
+the womb, the twenty-fourfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 योनि॑श्चतुर्विँ॒शः,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+योनिः॑ । च॒तु॒र्विँ॒श इति॑ चतुः-विँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -444,9 +684,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 ग᳓र्भाः पञ्चविँशः᳓ ,
 </details>
 
+<details><summary>Keith</summary>
+
+the embryo, the twenty-fivefold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 गर्भाः॑ पञ्चविँ॒शः ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गर्भाः॑ । प॒ञ्च॒विँ॒श इति॑ पञ्च-विँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -460,9 +710,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 ओ᳓जस्त्रिणवः᳓,
 </details>
 
+<details><summary>Keith</summary>
+
+might, the twenty-sevenfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ओज॑स्त्रिण॒वः,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ओजः॑ । त्रि॒ण॒व इति॑ त्रि-न॒वः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -476,9 +736,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 सम्भ᳓रणस्त्रयोविँशः᳓ ,
 </details>
 
+<details><summary>Keith</summary>
+
+maintenance, the twenty-threefold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒म्भर॑णस्त्रयोविँ॒शः ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒म्भर॑ण॒ इति॑ सम्-भर॑णः । त्र॒यो॒विँ॒श इति॑ त्रयः-विँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -493,9 +763,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 क्र᳓तुरेकत्रिँशः᳓,
 </details>
 
+<details><summary>Keith</summary>
+
+inspiration, the thirty-onefold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्रतु॑रेकत्रिँ॒शः,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्रतुः॑ । ए॒क॒त्रिँ॒श इत्ये॑क-त्रिँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -511,9 +791,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 ब्रध्न᳓स्य विष्ट᳓पं᳓ च᳓तु᳓स्त्रिँशः᳓,
 </details>
 
+<details><summary>Keith</summary>
+
+the surface of the tawny one, the thirty-fourfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्र॒ध्नस्य॑ वि॒ष्टपं चतुस्त्रिँ॒शः,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्र॒ध्नस्य॑ । वि॒ष्टप॑म् । च॒तु॒स्त्रिँ॒श इति॑ चतुः-त्रिँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -528,9 +818,19 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 प्रतिष्ठा᳓ त्रयस्त्रिँशः᳓ ,
 </details>
 
+<details><summary>Keith</summary>
+
+support, the thirty-threefold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒ति॒ष्ठा त्र॑यस्त्रिँ॒शः ,
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒ति॒ष्ठेति॑ प्रति-स्था । त्र॒य॒स्त्रिँ॒श इति॑ त्रयः-त्रिँ॒शः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -546,11 +846,21 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 धर्त्र᳓श्चतुष्टोमः᳓ ॥   
 </details>
 
+<details><summary>Keith</summary>
+
+the vault, the thirty-sixfold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 नाक॑ष्षट्त्रिँ॒शः,
 वि॒व॒र्तो॑ऽष्टाचत्वारिँ॒शः ,
-ध॒र्त्रश्च॑तुष्टो॒मः ॥   
+ध॒र्त्रश्च॑तुष्टो॒मः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नाकः॑ । ष॒ट्त्रिँ॒श इति॑ षट्-त्रिँ॒शः । वि॒व॒र्त इति॑ वि-व॒र्तः । अ॒ष्टा॒च॒त्वा॒रिँ॒श इत्य॑ष्टा-च॒त्वा॒रिँ॒शः । ध॒र्त्रः । च॒तु॒ष्टो॒म इति॑ चतुः-स्तो॒मः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -13,10 +13,22 @@ title = "१३ साकमेधादियाज्यानुवाक्�
 स᳓मिद्धश्शुक्र᳓ आ᳓हुतः ॥  
 </details>
 
+<details><summary>Keith</summary>
+
+May Agni slay the foe,  
+Eager for wealth, joyfully,  
+Kindled, pure as offered.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्वृ॒त्राणि॑ जङ्घनद्द्रविण॒स्युर्वि॑प॒न्यया॑ ।  
 समि॑द्धश्शु॒क्र आहु॑तः ॥  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । वृ॒त्राणि॑ । ज॒ङ्घ॒न॒त् । द्र॒वि॒ण॒स्युः । वि॒प॒न्ययेति॑ वि-प॒न्यया॑ ॥ समि॑द्ध॒ इति॒ सम्-इ॒द्धः॒ । शु॒क्रः । आहु॑त॒ इत्या-हु॒तः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -40,7 +52,7 @@ title = "१३ साकमेधादियाज्यानुवाक्�
 अथ द्वितीयस्याऽऽज्यभागस्य पुरोनुवाक्याम् आह— “त्वं सोमासीति”।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/05_tvaM_somAsi.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/05_tvaM_somAsi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -50,6 +62,13 @@ title = "१३ साकमेधादियाज्यानुवाक्�
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Thou Soma art very lord,  
+Thou art king, and slayer of foes;  
+Thou art favouring strength.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/091/05_tvaM_somAsi.md">
 
@@ -352,10 +371,23 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 न᳓ य᳓त्ते शोचि᳓स्त᳓मसा व᳓रन्त न᳓ ध्वस्मा᳓नस्तनु᳓वि रे᳓प आ᳓ धुः ॥  
 </details>
 
+<details><summary>Keith</summary>
+
+Favouring is thy look, O fair-faced Agni,  
+That art dread and extending, pleasant (is it);  
+Thy radiance they cover not with the darkness;  
+The defiling leave no stain in thy body.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भ॒द्रा ते॑ अग्ने स्वनीक स॒न्दृग्घो॒रस्य॑ स॒तो विषु॑णस्य॒ चारुः॑ ।  
 न यत्ते॑ शो॒चिस्तम॑सा॒ वर॑न्त॒ न ध्व॒स्मान॑स्त॒नुवि॒ रेप॒ आ धुः॑ ॥  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भ॒द्रा । ते॒ । अ॒ग्ने॒ । स्व॒नी॒केति॑ सु-अ॒नी॒क॒ । स॒न्दृगिति॑ सम्-दृक् । घो॒रस्य॑ । स॒तः । विषु॑णस्य । चारुः॑ ॥ न । यत् । ते॒ । शो॒चिः । तम॑सा । वर॑न्त । न । ध्व॒स्मानः॑ । त॒नुवि॑ । रेपः॑ । एति॑ । अ॒धुः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -379,10 +411,23 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 रु᳓शद्दृशे᳓ ददृशे नक्तया᳓ चिद᳓रूक्षितन्दृश᳓ आ᳓ रूपे᳓ अ᳓न्नम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Favouring is thy face, O mighty Agni;  
+Even by the side of the sun it is bright [1],  
+Radiant to behold it is seen even by night,  
+Pleasant to the sight is food in thy form.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भ॒द्रन्ते॑ अग्ने सहसि॒न्ननी॑कमुपा॒क आ रो॑चते॒ सूर्य॑स्य ।  [29]   
 रुश॑द्दृ॒शे द॑दृशे नक्त॒या चि॒दरू॑क्षितन्दृ॒श आ रू॒पे अन्न॑म् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भ॒द्रम् । ते॒ । अ॒ग्ने॒ । स॒ह॒सि॒न् । अनी॑कम् । उ॒पा॒के । एति॑ । रो॒च॒ते॒ । सूर्य॑स्य ॥ रुश॑त् । दृ॒शे । द॒दृ॒शे॒ । न॒क्त॒या । चि॒त् । अरू॑क्षितम् । दृ॒शे । एति॑ । रू॒पे । अन्न॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -402,10 +447,22 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 अ᳓दब्धो गोपा᳓ उत᳓ नᳶ परस्पा᳓ अ᳓ग्ने द्युम᳓दुत᳓ रेव᳓द्दिदीहि ।
 </details>
 
+<details><summary>Keith</summary>
+
+With his countenance the kindly one  
+Will sacrifice to the gods for us, most skilled to win prosperity by sacrifice; Guardian undeceived and protector of us,  
+O Agni, shine forth with radiance and with wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ैसैनानी॑केन सुवि॒दत्रो॑ अ॒स्मे यष्टा॑ दे॒वाँ आय॑जिष्ठस्स्व॒स्ति ।  
 अद॑ब्धो गो॒पा उ॒त नᳶ॑ पर॒स्पा अग्ने॑ द्यु॒मदु॒त रे॒वद्दि॑दीहि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । ए॒ना । अनी॑केन । सु॒वि॒दत्र॒ इति॑ सु-वि॒दत्रः॑ । अ॒स्मे इति॑ । यष्टा॑ । दे॒वान् । आय॑जिष्ठ॒ इत्या-य॒जि॒ष्ठः॒ । स्व॒स्ति ॥ अद॑ब्धः । गो॒पा इति॑ गो-पाः । उ॒त । नः॒ । प॒र॒स्पा इति॑ परः-पाः । अग्ने॑ । द्यु॒मदिति॑ द्यु-मत् । उ॒त । रे॒वत् । दि॒दी॒हि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -427,10 +484,23 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 य᳓त्सीम᳓हि दिविजात प्र᳓शस्तन्त᳓दस्मा᳓सु द्र᳓विणन्धेहि चित्र᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Prosperity for us from sky, O Agni, from earth,  
+With full life do thou procure, O god, for worship;  
+That splendid thing, O sky-born, which we ask,  
+Do thou bestow upon us that radiant wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्व॒स्ति नो॑ दि॒वो अ॑ग्ने पृथि॒व्या वि॒श्वायु॑र्धेहि य॒जथा॑य देव ।  
 यत्सी॒महि॑ दिविजात॒ प्रश॑स्त॒न्तद॒स्मासु॒ द्रवि॑णन्धेहि चि॒त्रम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्व॒स्ति । नः॒ । दि॒वः । अ॒ग्ने॒ । पृ॒थि॒व्याः । वि॒श्वायु॒रिति॑ वि॒श्व-आ॒युः॒ । धे॒हि॒ । य॒जथा॑य । दे॒व॒ ॥ यत् । सी॒महि॑ । दि॒वि॒जा॒तेति॑ दिवि-जा॒त॒ । प्रश॑स्त॒मिति॒ प्र-श॒स्त॒म् । तत् । अ॒स्मासु॑ । द्रवि॑णम् । धे॒हि॒ । चि॒त्रम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -456,10 +526,23 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 एवा᳓ नो अद्य᳓ समना᳓ समाना᳓नुश᳓न्नग्न उशतो᳓ यक्षि देवा᳓न् ॥   
 </details>
 
+<details><summary>Keith</summary>
+
+As thou, O Hotr, in man's worship [2],  
+O son of strength, shalt sacrifice with offerings,  
+Verily do thou to-day, gladly, offer sacrifice  
+To the glad gods together assembled.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा॑ होत॒र्मनु॑षः [30]  दे॒वता॑ता य॒ज्ञेभि॑स्सूनो सहसो॒ यजा॑सि ।  
 ए॒वा नो॑ अ॒द्य स॑म॒ना स॑मा॒नानु॒शन्न॑ग्न उश॒तो य॑क्षि दे॒वान् ॥   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यथा॑ । हो॒तः॒ । मनु॑षः । दे॒वता॒तेति॑ दे॒व-ता॒ता॒ । य॒ज्ञेभिः॑ । सू॒नो॒ इति॑ । स॒ह॒सः॒ । यजा॑सि ॥ ए॒वा । नः॒ । अ॒द्य । स॒म॒ना । स॒मा॒नान् । उ॒शन् । अ॒ग्ने॒ । उ॒श॒तः । य॒क्षि॒ । दे॒वान् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -489,10 +572,22 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 हो᳓तारँ रत्नधा᳓तमम् ॥
 </details>
 
+<details><summary>Keith</summary>
+
+I praise Agni, domestic priest,  
+God of the sacrifice and priest,  
+The Hotr, best bestower of jewels.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निमी॑डे पु॒रोहि॑तय्ँ य॒ज्ञस्य॑ दे॒वमृ॒त्विज॑म् ।  
 होता॑रँ रत्न॒धात॑मम् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निम् । ई॒डे॒ । पु॒रोहि॑त॒मिति॑ पु॒रः-हि॒त॒म् । य॒ज्ञस्य॑ । दे॒वम् । ऋ॒त्विज॑म् ॥ होता॑रम् । र॒त्न॒धात॑म॒मिति॑ रत्न-धात॑मम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -511,7 +606,7 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 अथ द्वितीयाज्यभागस्य पुरोनुवाक्याम् आह— “वृषा सोमेति”।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/064/01_vRShA_soma.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/064/01_vRShA_soma.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -521,6 +616,13 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Thou art strong, O Soma, and bright,  
+Thou art strong, O god, and strong thy rule,  
+Strong laws dost thou establish.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/064/01_vRShA_soma.md">
 
@@ -786,10 +888,26 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 युष्मा᳓कोती᳓ रिशादसः ॥    
 </details>
 
+<details><summary>Keith</summary>
+
+O Maruts, that burn, this offering (is yours)  
+Do ye rejoice in it,  
+For your aid, ye destroyers of the foe.  
+I The man of evil heart, O bright ones, O Maruts,  
+Who is fain to smite us contrary to right [3],  
+In the noose of destruction may he be caught,  
+Slay him with your most burning heat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सान्त॑पना इ॒दँ ह॒विर्मरु॑त॒स्तज्जु॑जुष्टन ।  
 यु॒ष्माको॒ती रि॑शादसः ॥    
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सान्त॑पना॒ इति॒ साम्-त॒प॒नाः॒ । इ॒दम् । ह॒विः । मरु॑तः । तत् । जु॒जु॒ष्ट॒न॒ ॥ यु॒ष्माक॑ । ऊ॒ती । रि॒शा॒द॒स॒ इति॑ रिश-अ॒द॒सः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -808,10 +926,23 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 द्रुहᳶ᳓ पा᳓शम्प्र᳓ति स᳓ मुचीष्ट त᳓पिष्ठेन त᳓पसा हन्तना त᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The man of evil heart, O bright ones, O Maruts,  
+Who is fain to smite us contrary to right [3],  
+In the noose of destruction may he be caught,  
+Slay him with your most burning heat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो नो॒ मर्तो॑ वसवो दुर्हृणा॒युस्ति॒रस्स॒त्यानि॑ मरुतः [31]  जिघाँ॑सात् ।  
 द्रु॒हᳶ पाश॒म्प्रति॒ स मु॑चीष्ट॒ तपि॑ष्ठेन॒ तप॑सा हन्तना॒ तम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । नः॒ । मर्तः॑ । वस॑वः । दु॒र्हृ॒णा॒युरिति॑ दुः-हृ॒णा॒युः । ति॒रः । स॒त्यानि॑ । म॒रु॒तः॒ । जिघाँ॑सात् ॥ द्रु॒हः । पाश॑म् । प्रतीति॑ । सः । मु॒ची॒ष्ट॒ । तपि॑ष्ठेन । तप॑सा । ह॒न्त॒न॒ । तम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -827,10 +958,24 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 ते᳓ऽस्मत्पाशान्प्र᳓ मुञ्चन्त्वँ᳓हसस्सान्तपना᳓ मदिरा᳓ मादयिष्ण᳓वः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The Maruts, of the year, fair singers,  
+With wide abodes, in troops among men,
+  
+May they from us unloosen the bonds of tribulation,  
+Those that burn, delighting, granting delight,
+</details>
+
 <details><summary>मूलम्</summary>
 
 सव्ँ॒व॒त्स॒रीणा॑ म॒रुत॑स्स्व॒र्का उ॑रु॒क्षया॒स्सग॑णा॒ मानु॑षेषु ।  
 ते॑ऽस्मत्पाशा॒न्प्र मु॑ञ्च॒न्त्वँह॑सस्सान्तप॒ना म॑दि॒रा मा॑दयि॒ष्णवः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सव्ँ॒व॒त्स॒रीणा॒ इति॑ सम्-व॒त्स॒रीणाः॑ । म॒रुतः॑ । स्व॒र्का इति॑ सु-अ॒र्काः । उ॒रु॒क्षया॒ इत्यु॑रु-क्षयाः॑ । सग॑णा॒ इति॒ स-ग॒णाः॒ । मानु॑षेषु ॥ ते । अ॒स्मत् । पाशान्॑ । प्रेति॑ । मु॒ञ्च॒न्तु॒ । अँह॑सः । सा॒न्त॒प॒ना इति॑ साम्-त॒प॒नाः । म॒दि॒राः । मा॒द॒यि॒ष्णवः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -852,10 +997,22 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 ये᳓ दै᳓व्या ऋत्वि᳓जस्ते᳓भिरग्ने त्वँ᳓ हो᳓तॄणामस्या᳓यजिष्ठः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Delight the eager gods, O thou most young,  
+Knowing the seasons, O lord of the season, do thou sacrifice here; With the priests divine, O Agni,  
+Thou art the best sacrificer of Hotrs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पि॒प्री॒हि दे॒वाँ उ॑श॒तो य॑विष्ठ वि॒द्वाँ ऋ॒तूँर्ऋ॑तुपते यजे॒ह ।  
 ये दैव्या॑ ऋ॒त्विज॒स्तेभि॑रग्ने॒ त्वँ होतॄ॑णाम॒स्याय॑जिष्ठः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पि॒प्री॒हि । दे॒वान् । उ॒श॒तः । य॒वि॒ष्ठ॒ । वि॒द्वान् । ऋ॒तून् । ऋ॒तु॒प॒त॒ इत्यृ॑तु-प॒ते॒ । य॒ज॒ । इ॒ह ॥ ये । दैव्याः॑ । ऋ॒त्विजः॑ । तेभिः॑ । अ॒ग्ने॒ । त्वम् । होतृ॑णाम् । अ॒सि॒ । आय॑जिष्ठ॒ इत्या-य॒जि॒ष्ठः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -876,10 +1033,20 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 ऋता᳓ यजासि महिना᳓ वि᳓ य᳓द्भू᳓र्हव्या᳓ वह यविष्ठ या᳓ ते अद्य᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, whatever to-day, O offering Hotr of the people, O pure [4] and radiant one, thou dost enjoy, for thou art the sacrificer, Rightly shalt thou sacrifice, since thou hast grown in might, Carry the oblations that are thine to-day, O thou most young.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॒ यद॒द्य वि॒शो अ॑ध्वरस्य होत॒ᳶ पाव॑क [32]  शो॒चे॒ वेष्ट्वँ हि यज्वा॑ ।  
 ऋ॒ता य॑जासि महि॒ना वि यद्भूर्ह॒व्या व॑ह यविष्ठ॒ या ते॑ अ॒द्य ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । यत् । अ॒द्य । वि॒शः । अ॒ध्व॒र॒स्य॒ । हो॒तः॒ । पाव॑क । शो॒चे॒ । वेः । त्वम् । हि । यज्वा॑ ॥ ऋ॒ता । य॒जा॒सि॒ । म॒हि॒ना । वीति॑ । यत् । भूः । ह॒व्या । व॒ह॒ । य॒वि॒ष्ठ॒ । या । ते॒ । अ॒द्य ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -900,10 +1067,22 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 यश᳓सव्ँवीर᳓वत्तमम् ॥    
 </details>
 
+<details><summary>Keith</summary>
+
+By Agni may one win wealth  
+And abundance, day by day,  
+Glory full of heroes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निना॑ र॒यिम॑श्ञव॒त्पोष॑मे॒व दि॒वेदि॑वे ।  
 य॒शसव्ँ॑वी॒रव॑त्तमम् ॥    
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निना॑ । र॒यिम् । अ॒श्ञ॒व॒त् । पोष॑म् । ए॒व । दि॒वेदि॑व॒ इति॑ दि॒वे-दि॒वे॒ ॥ य॒शस॑म् । वी॒रव॑त्तम॒मिति॑ वी॒रव॑त्-त॒म॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -923,10 +1102,22 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 सुमित्र᳓स्सोम नो भव ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Enricher, slayer of disease,  
+Wealth-finder, prospering prosperity,  
+O Soma, be a good friend to us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग॒य॒स्फानो॑ अमीव॒हा व॑सु॒वित्पु॑ष्टि॒वर्ध॑नः ।  
 सु॒मि॒त्रस्सो॑म नो भव ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ग॒य॒स्फान॒ इति॑ गय-स्फानः॑ । अ॒मी॒व॒हेत्य॑मीव-हा । व॒सु॒विदिति॑ वसु-वित् । पु॒ष्टि॒वर्ध॑न॒ इति॑ पुष्टि-वर्ध॑नः ॥ सु॒मि॒त्र इति॑ सु-मि॒त्रः । सो॒म॒ । नः॒ । भ॒व॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -944,10 +1135,22 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 प्रमुञ्च᳓न्तो नो अँ᳓हसः ।
 </details>
 
+<details><summary>Keith</summary>
+
+Come hither, O ye that tend the house,  
+Depart not, O Maruts,  
+Freeing us from tribulation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृह॑मेधास॒ आ ग॑त॒ मरु॑तो॒ माप॑ भूतन ।  
 प्र॒मु॒ञ्चन्तो॑ नो॒ अँह॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गृह॑मेधास॒ इति॒ गृह॑-मे॒धा॒सः॒ । एति॑ । ग॒त॒ । मरु॑तः । मा । अपेति॑ । भू॒त॒न॒ ॥ प्र॒मु॒ञ्चन्त॒ इति॑ प्र-मु॒ञ्चन्तः॑ । नः॒ । अँह॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -967,10 +1170,22 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 म᳓होभिः [33]  चर्षणीना᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+For in autumns gone by  
+We have paid worship, O Maruts,  
+With the means [5] of mortal men.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पू॒र्वीभि॒र्हि द॑दाशि॒म श॒रद्भि॑र्मरुतो व॒यम् ।  
 महो॑भिः [33]  च॒र्ष॒णी॒नाम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पू॒र्वीभिः॑ । हि । द॒दा॒शि॒म । श॒रद्भि॒रिति॑ श॒रत्-भिः॒ । म॒रु॒तः॒ । व॒यम् ॥ महो॑भि॒रिति॒ महः॑-भिः॒ । च॒र्ष॒णी॒नाम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -986,10 +1201,23 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 सहस्रि᳓यन्द᳓म्यम्भाग᳓मेत᳓ङ्गृहमेधी᳓यम्मरुतो जुषध्वम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Your greatness surgeth forth from the depths,  
+Make known your names, O active ones;  
+O Maruts, accept the thousandth share of the house,  
+Of the householder's offering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र बु॒ध्निया॑ ईरते वो॒ महाँ॑सि॒ प्र णामा॑नि प्रयज्यवस्तिरध्वम् ।  
 स॒ह॒स्रिय॒न्दम्य॑म्भा॒गमे॒तङ्गृ॑हमे॒धीय॑म्मरुतो जुषध्वम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । बु॒ध्नियाः॑ । ई॒र॒ते॒ । वः॒ । महाँ॑सि । प्रेति॑ । नामा॑नि । प्र॒य॒ज्य॒व॒ इति॑ प्र-य॒ज्य॒वः॒ । ति॒र॒ध्व॒म् ॥ स॒ह॒स्रिय॑म् । दम्य॑म् । भा॒गम् । ए॒तम् । गृ॒ह॒मे॒धीय॒मिति॑ गृह-मे॒धीय॑म् । म॒रु॒तः॒ । जु॒ष॒ध्व॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1008,10 +1236,21 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 उ᳓प स्वै᳓नमर᳓मतिर्वसूयुः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Him to whom, the strong, the youthful maiden,  
+Rich in oblation, bearing ghee, approacheth night and morning, To him his own devotion (approacheth) seeking wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॒ यमेति॑ युव॒तिस्सु॒दक्ष॑न्दो॒षा वस्तो॑र्ह॒विष्म॑ती घृ॒ताची॑ ।  
 उप॒ स्वैन॑म॒रम॑तिर्वसू॒युः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उपेति॑ । यम् । एति॑ । यु॒व॒तिः । सु॒दक्ष॒मिति॑ सु-दक्ष॑म् । दो॒षा । वस्तोः॑ । ह॒विष्म॑ती । घृ॒ताची॑ ॥ उपेति॑ । स्वा । ए॒न॒म् । अ॒रम॑तिः । व॒सू॒युरिति॑ वसु-युः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1029,10 +1268,22 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 प्र᳓ति न ईँ सुरभी᳓णि वियन्तु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, these most acceptable oblations,  
+Immortal one, bear for the divine worship;  
+Let them accept our fragrant (offerings).
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मो अ॑ग्ने वी॒तत॑मानि ह॒व्याज॑स्रो वक्षि दे॒वता॑ति॒मच्छ॑ ।  
 प्रति॑ न ईँ सुर॒भीणि॑ वियन्तु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒मो इति॑ । अ॒ग्ने॒ । वी॒तत॑मा॒नीति॑ वी॒त-त॒मा॒नि॒ । ह॒व्या । अज॑स्रः । व॒क्षि॒ । दे॒वता॑ति॒मिति॑ दे॒व-ता॒ति॒म् । अच्छ॑ ॥ प्रतीति॑ । नः॒ । ई॒म् । सु॒र॒भीणि॑ । वि॒य॒न्तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1049,10 +1300,22 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 [34]  क᳓ण्वा अभि᳓ प्र᳓ गायत ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The playful horde of the Maruts,  
+Sporting, resplendent on the chariot [6],  
+O Kanvas, do ye celebrate.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्री॒डव्ँव॒श्शर्धो॒ मारु॑तमन॒र्वाणँ॑ रथे॒शुभ॑म् ।  
 [34]  कण्वा॑ अ॒भि प्र गा॑यत ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्री॒डम् । वः॒ । शर्धः॑ । मारु॑तम् । अ॒न॒र्वाण॑म् । र॒थे॒शुभ॒मिति॑ रथे-शुभ॑म् ॥ कण्वाः॑ । अ॒भि । प्रेति॑ । गा॒य॒त॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1072,10 +1335,22 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 ते᳓ हर्म्येष्ठा᳓श्शि᳓शवो न᳓ शुभ्रा᳓ वत्सा᳓सो न᳓ प्रक्रीडि᳓नᳶ पयोधाः᳓ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The Maruts, speeding like steeds,  
+Disport themselves like youths gazing at a spectacle, Standing in the home like beauteous younglings,  
+Bestowing milk, like playful calves.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अत्या॑सो॒ न ये म॒रुत॒स्स्वञ्चो॑ यक्ष॒दृशो॒ न शु॒भय॑न्त॒ मर्याः॑ ।  
 ते ह॑र्म्ये॒ष्ठाश्शिश॑वो॒ न शु॒भ्रा व॒त्सासो॒ न प्र॑क्री॒डिनᳶ॑ पयो॒धाः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अत्या॑सः । न । ये । म॒रुतः॑ । स्वञ्चः॑ । य॒क्ष॒दृश॒ इति॑ यक्ष-दृशः॑ । न । शु॒भय॑न्त । मर्याः॑ ॥ ते । ह॒र्म्ये॒ष्ठा इति॑ हर्म्ये-स्थाः । शिश॑वः । न । शु॒भ्राः । व॒त्सासः॑ । न । प्र॒क्री॒डिन॒ इति॑ प्र-क्री॒डिनः॑ । प॒यो॒धा इति॑ पयः-धाः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1099,10 +1374,22 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 ते᳓ क्रीड᳓यो धु᳓नयो भ्रा᳓जदृष्टयस्स्वय᳓म्महित्व᳓म्पनयन्त धू᳓तयः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+At their advance the earth moves as if trembling,  
+When they yoke (their teams) for their journeys, for brilliance; Playing, resounding, with flaming weapons,  
+They display their own greatness, the shakers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रैषा॒मज्मे॑षु विथु॒रेव॑ रेजते॒ भूमि॒र्यामे॑षु॒ यद्ध॑ यु॒ञ्जते॑ शु॒भे ।  
 ते क्री॒डयो॒ धुन॑यो॒ भ्राज॑दृष्टयस्स्व॒यम्म॑हि॒त्वम्प॑नयन्त॒ धूत॑यः ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । ए॒षा॒म् । अज्मे॑षु । वि॒थु॒रा । इ॒व॒ । रे॒ज॒ते॒ । भूमिः॑ । यामे॑षु । यत् । ह॒ । यु॒ञ्जते॑ । शु॒भे ॥ ते । क्री॒डयः॑ । धुन॑यः । भ्राज॑दृष्टय॒ इति॒ भ्राज॑त्-ऋ॒ष्ट॒यः॒ । स्व॒यम् । म॒हि॒त्वमिति॑ महि-त्वम् । प॒न॒य॒न्त॒ । धूत॑यः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1123,10 +1410,36 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 श्चो᳓तन्ति को᳓शा उ᳓प वो र᳓थेष्वा᳓ घृत᳓मुक्षता म᳓धुवर्णम᳓र्चते ।  
 </details>
 
+<details><summary>Keith</summary>
+
+What time on the steeps ye pile the moving one,  
+Like birds, O Maruts, on whatever path [7],  
+The clouds spill their water on your chariots;  
+Do ye sprinkle for the praiser ghee of honey hue.  
+aa Agni with invocations  
+They ever invoke, lord of the people,  
+Bearer of the oblation, dear to many.  
+bb For him they ever praise,  
+The god with ladle dripping ghee,  
+Agni to bear the oblation.  
+cc O Indra and Agni, the spaces of sky.
+
+dd Pierce Vrtra.  
+ee Indra from all sides.  
+ff Indra men.  
+gg O Viśvakarman, waxing great with the oblation.  
+hh O Viśvakarman, with the oblation as strengthening.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒ह्व॒रेषु॒ यदचि॑ध्वय्ँय॒यिव्ँवय॑ इव मरुत॒ᳵ केन॑ [35]  चि॒त्प॒था ।  
 श्चोत॑न्ति॒ कोशा॒ उप॑ वो॒ रथे॒ष्वा घृ॒तमु॑क्षता॒ मधु॑वर्ण॒मर्च॑ते ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒ह्व॒रेष्वि॑त्युप-ह्व॒रेषु॑ । यत् । अचि॑ध्वम् । य॒यिम् । वयः॑ । इ॒व॒ । म॒रु॒तः॒ । केन॑ । चि॒त् । प॒था ॥ श्चोत॑न्ति । कोशाः॑ । उपेति॑ । वः॒ । रथे॑षु । एति॑ । घृ॒तम् । उ॒क्ष॒त॒ । मधु॑वर्ण॒मिति॒ मधु॑-व॒र्ण॒म् । अर्च॑ते ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1146,10 +1459,22 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 हव्यवा᳓हम्पुरुप्रिय᳓म् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Agni with invocations  
+They ever invoke, lord of the people,  
+Bearer of the oblation, dear to many.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निम॑ग्निँ॒ हवी॑मभि॒स्सदा॑ हवन्त वि॒श्पति॑म् ।  
 ह॒व्य॒वाह॑म्पुरुप्रि॒यम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निम॑ग्नि॒मित्य॒ग्निम्-अ॒ग्नि॒म् । हवी॑मभि॒रिति॒ हवी॑म-भिः॒ । सदा॑ । ह॒व॒न्त॒ । वि॒श्पति॑म् ॥ ह॒व्य॒वाह॒मिति॑ हव्य-वाह॑म् । पु॒रु॒प्रि॒यमिति॑ पुरु-प्रि॒यम् ॥
 </details>
 
 <details><summary>सायण-टीка</summary>
@@ -1167,10 +1492,22 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 अग्निँ᳓ हव्या᳓य वो᳓ढवे ।  
 </details>
 
+<details><summary>Keith</summary>
+
+For him they ever praise,  
+The god with ladle dripping ghee,  
+Agni to bear the oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तँ हि शश्व॑न्त॒ ईड॑ते स्रु॒चा दे॒वङ्घृ॑त॒श्चुता॑ ।  
 अ॒ग्निँ ह॒व्याय॒ वोढ॑वे ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । हि । शश्व॑न्तः । ईड॑ते । स्रु॒चा । दे॒वम् । घृ॒त॒श्चुतेति॑ घृत-श्चुता॑ ॥ अ॒ग्निम् । ह॒व्याय॑ । वोढ॑वे ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1187,9 +1524,19 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 इ᳓न्द्राग्नी रोचना᳓ दिवः᳓ ..
 </details>
 
+<details><summary>Keith</summary>
+
+O Indra and Agni, the spaces of sky.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑ग्नी रोच॒ना दि॒वः ..
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्रा॑ग्नी॒ इतीन्द्र॑-अ॒ग्नी॒ । रो॒च॒ना । दि॒वः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1211,9 +1558,19 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 श्न᳓थद्वृत्र᳓म् ..  
 </details>
 
+<details><summary>Keith</summary>
+
+Pierce Vrtra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्नथ॑द्वृ॒त्रम् ..  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+श्ञथ॑त् । वृ॒त्रम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1232,9 +1589,19 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 इ᳓न्द्रव्ँवो विश्व᳓तस्प᳓रि᳓ ..  
 </details>
 
+<details><summary>Keith</summary>
+
+Indra from all sides.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रव्ँ॑वो वि॒श्वत॒स्परि ..  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑म् । वः॒ । वि॒श्वतः॑ । परीति॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1257,9 +1624,19 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 इ᳓न्द्रन्न᳓रः ..
 </details>
 
+<details><summary>Keith</summary>
+
+Indra men.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॒न्नरः॑ ..
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑म् । नरः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1281,9 +1658,19 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 वि᳓श्वकर्मन्हवि᳓षा वावृधानः᳓ ..
 </details>
 
+<details><summary>Keith</summary>
+
+O Viśvakarman, waxing great with the oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्व॑कर्मन्ह॒विषा॑ वावृधा॒नः ..
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्व॑कर्म॒न्निति॒ विश्व॑-क॒र्म॒न् । ह॒विषा॑ । वा॒वृ॒धा॒नः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1302,9 +1689,19 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 वि᳓श्वकर्मन्हवि᳓षा व᳓र्धनेन ..  
 </details>
 
+<details><summary>Keith</summary>
+
+O Viśvakarman, with the oblation as strengthening.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्व॑कर्मन्ह॒विषा॒ वर्ध॑नेन ..  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्व॑कर्म॒न्निति॒ विश्व॑-क॒र्म॒न् । ह॒विषा॑ । वर्ध॑नेन ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

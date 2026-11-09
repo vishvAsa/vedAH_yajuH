@@ -20,7 +20,7 @@ title = "१२ अश्वमेध-दश-हविष्केष्टि-�
 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/02_samid_dishAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/02_samid_dishAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -50,6 +50,11 @@ May he guard our kingly power, may he protect us.
 अ॒ग्निर्दे॒वो दु॒ष्टरी॑तु॒रदा॑भ्य इ॒दङ्क्ष॒त्रँ र॑क्षतु॒ पात्व॒स्मान् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+स॒मिदिति॑ सम्-इत् । दि॒शाम् । आ॒शया॑ । नः॒ । सु॒व॒र्विदिति॑ सुवः-वित् । मधोः॑ । अतः॑ । माध॑वः । पा॒तु॒ । अ॒स्मान् ॥ अ॒ग्निः । दे॒वः । दु॒ष्टरी॑तुः । अदा॑भ्यः । इ॒दम् । क्ष॒त्रम् । र॒क्ष॒तु॒ । पातु॑ । अ॒स्मान् ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 दिशां मध्ये या दिक् समित् समिन्धनहेतुः।  
@@ -73,7 +78,7 @@ May he guard our kingly power, may he protect us.
 तत्रैव याज्यामाह— रथंतरँ सामेति।  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/03_rathantaraM_sAmabhipH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/03_rathantaraM_sAmabhipH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -103,6 +108,11 @@ The ocean, the wind, make full this strength.
 त्रि॒वृन्नो॑ वि॒ष्ठया॒ स्तोमो॒ अह्नाँ॑ समु॒द्रो वात॑ इ॒दमोजᳶ॑ पिपर्तु ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् । साम॑भि॒रिति॒ साम॑-भिः॒ । पा॒तु॒ । अ॒स्मान् । गा॒य॒त्री । छन्द॑साम् । वि॒श्वरू॒पेति॑ वि॒श्व-रू॒पा॒ ॥ त्रि॒वृदिति॑ त्रि-वृत् । नः॒ । वि॒ष्ठयेति॑ वि-स्थया॑ । स्तोमः॑ । अह्ना॑म् । स॒मु॒द्रः । वातः॑ । इ॒दम् । ओजः॑ । पि॒प॒र्तु॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 यद्रथंतरं साम तदन्यैः सामभिः सहास्मान्पातु।  
@@ -122,7 +132,7 @@ The ocean, the wind, make full this strength.
 अथेन्द्राय त्रैष्टुभाय पञ्चदशाय बार्हताय ग्रैष्मायैकादशकपाल इत्यस्य पुरोनुवाक्यामाह— उग्रा दिशामिति।  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/04_ugrA_dishAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/04_ugrA_dishAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -152,6 +162,11 @@ And for us [1] on all sides do thou preserve this great kingly power.
 इन्द्राधि॑पतिᳶ पिपृता॒दतो॑ नो॒ महि॑ [33]  क्ष॒त्रव्ँवि॒श्वतो॑ धारये॒दम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒ग्रा । दि॒शाम् । अ॒भिभू॑ति॒रित्य॒भि-भू॒तिः॒ । व॒यो॒धा इति॑ वयः-धाः । शुचिः॑ । शु॒क्रे । अह॑नि । ओ॒ज॒सीना॑ ॥ इन्द्र॑ । अधि॑पति॒रित्यधि॑-प॒तिः॒ । पि॒पृ॒ता॒त् । अतः॑ । नः॒ । महि॑ । क्ष॒त्रम् । वि॒श्वतः॑ । धा॒र॒य॒ । इ॒दम् ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 दिशां मध्ये येयमुग्रा दक्षिणा दिक्, उग्रत्वे हेतुः—अभिभूतिः, पापानामभिभवहेतुत्वादुग्रत्वं, सा वयोधा वय आयुष्यं तस्मिन्नतीते सति मृतान्पुरुषान्यमलोके दधाति स्थापयतीति वयोधाः।  
@@ -161,7 +176,7 @@ And for us [1] on all sides do thou preserve this great kingly power.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -191,6 +206,11 @@ Do thou guard this in the midst with the wind, with the ocean.
 इन्द्र॒ स्तोमे॑न पञ्चद॒शेन॒ मध्य॑मि॒दव्ँवाते॑न॒ सग॑रेण रक्ष ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+बृ॒हत् । साम॑ । क्ष॒त्र॒भृदिति॑ क्षत्र-भृत् । वृ॒द्धवृ॑ष्णिय॒मिति॑ वृ॒द्ध-वृ॒ष्णि॒य॒म् । त्रि॒ष्टुभा॑ । ओजः॑ । शु॒भि॒तम् । उ॒ग्रवी॑र॒मित्यु॒ग्र-वी॒र॒म् ॥ इन्द्र॑ । स्तोमे॑न । प॒ञ्च॒द॒शेनेति॑ पञ्च-द॒शेन॑ । मध्य॑म् । इ॒दम् । वाते॑न । सग॑रेण । र॒क्ष॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 तत्रैव याज्यामाह बृहत्सामेति बृहदाख्यं यत्साम तत्त्रिष्टुभा छन्दसा सह पिपर्त्वित्यनुवर्तते।   अस्मान्पालयत्वित्यर्थः।   कीदृशं साम, क्षत्त्रभृब्दलस्य धारयितृ, वृद्धिवृष्णि यमुत्थितपुस्कम्, ओजो बलप्रदं, शुभितं शोभमानम्, उग्रवीरं तीव्रपुत्रप्रदम्।   हे  इन्द्र पञ्चदशाख्येन स्तोमेन सगराख्येन वातेन सहितः सन्निदं मध्यं रक्षातीतानागतयोर्मध्ये स्थितमिदमस्मदीयं शरीरं पालय।
@@ -206,7 +226,7 @@ Do thou guard this in the midst with the wind, with the ocean.
 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/06_prAchI_dishAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/06_prAchI_dishAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -236,6 +256,11 @@ Force unoverpowerable, a thousandfold and mighty.
 इ॒दङ्क्ष॒त्रन्दु॒ष्टर॑म॒स्त्वोजोऽना॑धृष्टँ सह॒स्रियँ॒ सह॑स्वत् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्राची॑ । दि॒शाम् । स॒हय॑शा॒ इति॑ स॒ह-य॒शाः॒ । यश॑स्वती । विश्वे॑ । दे॒वाः॒ । प्रा॒वृषा॑ । अह्ना॑म् । सुव॑र्व॒तीति॒ सुवः॑-व॒ती॒ ॥ इ॒दम् । क्ष॒त्रम् । दु॒ष्टर॑म् । अ॒स्तु॒ । ओजः॑ । अना॑धृष्ट॒मित्यना॑-धृ॒ष्ट॒म् । स॒ह॒स्रिय॑म् । सह॑स्वत् ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अत्र प्रशब्दः प्रतिशब्दार्थे वर्तते।   तथा सति दिशां मध्ये प्राची पश्चिमा दिगित्यर्थः।   सा च सहयशा अस्मासु संपाद्यमानेन   २१०६ यशसा सहिता स्वयमपि यशस्वती।   सा च सुवर्वती स्वर्गनिवासिनी सूर्येणास्तमयकालभाविना युक्ता।   तथाविधा दिगस्मान्पात्विति शेषः।   तथा विश्वे देवाः प्रावृषा वर्षर्तुना तदीयानामह्नां समूहेन सहिताऽस्मान्पालयत्विति शेषः।   इदं क्षत्त्रमस्मत्परिपालकं राजशरीरं केनाप्यन्तेन् वैरिणा तरितुं लङ्घीयतुमशक्यमस्तु।   ओजो मदीयं वलमनाधृष्टं केनाप्यतिरस्कृतमस्तु।   तथा सहस्त्रियं सहस्त्रसंख्यायोग्यं सहस्वत्प्रवलं धामास्तु।
@@ -249,7 +274,7 @@ Force unoverpowerable, a thousandfold and mighty.
 तत्रैव याज्यामाह– वैरूपे सामन्निति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/07_vairUpe_sAmann.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/07_vairUpe_sAmann.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -265,11 +290,7 @@ Force unoverpowerable, a thousandfold and mighty.
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/07_vairUpe_sAmann.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-</details>
-
-</div>
-
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 Here in the Vairupa Saman may we have strength for this;  
 With the Jagati we place him in the people;  
@@ -283,11 +304,19 @@ This kingly power with the ocean wind (be) dread.
 विश्वे॑ देवास्सप्तद॒शेन॑ [34]  वर्च॑ इ॒दङ्क्ष॒त्रँ स॑लि॒लवा॑तमु॒ग्रम् ।    
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वै॒रू॒पे । साम॑न् । इ॒ह । तत् । श॒के॒म॒ । जग॑त्या । ए॒न॒म् । वि॒क्षु । एति॑ । वे॒श॒या॒मः॒ ॥ विश्वे॑ । दे॒वाः॒ । स॒प्त॒द॒शेनेति॑ सप्त-द॒शेन॑ । वर्चः॑ । इ॒दम् । क्ष॒त्रम् । स॒लि॒लवा॑त॒मिति॑ सलि॒ल-वा॒त॒म् । उ॒ग्रम् ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 वैरूपाख्यं यत्सामास्ति तस्मिन्नाश्रिता वयमिह कर्मणि यत्फलमपेक्षितं तच्छकेम् संपादयितुं शक्ताः स्मः।   
 तथा जगत्याख्यया छन्दोदेवतयाऽनुगृहीता वयमेनं यजमानं **विक्षु** प्रजास्वावेशमामः प्रजानां स्वामिनं कुमं इत्यर्थः।   हे विश्वे देवाः सप्तदशाख्येन स्तोमेन युष्माभिश्चानुगृहीतमिदं क्षत्त्रमस्मत्पालकं राजशरीरं वर्चस्तेजोयुक्तं सलिलाख्येन वायुविशेषेणानुगृहीतम्।   स च वायुः “सलिलाय त्वा वाताय स्वाहा” इत्याम्नातः।   उग्रं वैरितिरस्कारक्षममस्तु।   
 </details>
+</details>
+
+</div>
 
 ## मित्रा-वरुणौ
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -295,7 +324,7 @@ This kingly power with the ocean wind (be) dread.
 अथ ‘मित्रावरुणाभ्यामानुष्टुभाभ्यामेकावि+शाभ्यां वैराजाभ्याँ शारदाभ्यां पयस्या’  इत्यस्य पुरोनुवाक्यामाह— धर्त्री दिशामिति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/08_dhartrI_dishA~N.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/08_dhartrI_dishA~N.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -312,11 +341,7 @@ This kingly power with the ocean wind (be) dread.
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/08_dhartrI_dishA~N.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-</details>
-
-</div>
-
-<details><summary>English</summary>
+<details><summary>Keith</summary>
 
 The supporter among the quarters doth support this lordly power,  
 The stay of the regions; may force rich in friends be ours;  
@@ -330,17 +355,25 @@ Do ye accord great protection to this kingdom.
 मित्रा॑वरुणा श॒रदाह्ना॑ञ्चिकित्नू अ॒स्मै रा॒ष्ट्राय॒ महि॒ शर्म॑ यच्छतम् ।    
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ध॒र्त्री । दि॒शाम् । क्ष॒त्रम् । इ॒दम् । दा॒धा॒र॒ । उ॒प॒स्थेत्यु॑प-स्था । आशा॑नाम् । मि॒त्रव॒दिति॑ मि॒त्र-व॒त् । अ॒स्तु॒ । ओजः॑ ॥ मित्रा॑वरु॒णेति॒ मित्रा॑-व॒रु॒णा॒ । श॒रदा॑ । अह्ना॑म् । चि॒कि॒त्नू॒ इति॑ । अ॒स्मै । रा॒ष्ट्राय॑ । महि॑ । शर्म॑ । य॒च्छ॒त॒म् ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 दिशां मध्ये धर्त्र्यस्माकं धारयित्रीयमुदीची दिगिदं क्षत्त्रमस्मत्पालकं क्षत्रियशरीरं दाधार पोषयामास।   कीदृशी, आशानामुपस्था, अस्माकं धनादिविषयाणामाशानां सिद्ध्यर्थं सेव्या।   य(त)स्या दिशः प्रसादादस्मदीयमोजो बलं मित्रवदस्तु बहुभिर्मित्रैरुपेतमस्तु।   हे मित्रावरुणा **शरदा** शरन्नामकेनर्तुना तदीयानामह्नां **चिकित्नू** ज्ञातारौ युवामस्मा इदानीं वर्तमानाय राष्ट्राय महि शर्म यच्छतं महत्सुस्त्रं संपादयतम्।   
 </details>
+</details>
+
+</div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यमाह— वैराजे सामन्निति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/09_vairAje_sAmann.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/09_vairAje_sAmann.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -370,6 +403,11 @@ Do ye, O Mitra and Varuna, guard through your overlordship.
 इ॒दङ्क्ष॒त्रम्मि॒त्रव॑दा॒र्द्रदा॑नु॒ मित्रा॑वरुणा॒ रक्ष॑त॒माधि॑पत्यैः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वै॒रा॒जे । साम॑न् । अधीति॑ । मे॒ । म॒नी॒षा । अ॒नु॒ष्टुभेत्य॑नु-स्तुभा॑ । सम्भृ॑त॒मिति॒ सम्-भृ॒त॒म् । वी॒र्य॑म् । सहः॑ ॥ इ॒दम् । क्ष॒त्रम् । मि॒त्रव॒दिति॑ मि॒त्र-व॒त् । आ॒र्द्रदा॒न्वित्या॒र्द्र-दा॒नु॒ । मित्रा॑वरु॒णेति॒ मित्रा॑-व॒रु॒णा॒ । रक्ष॑तम् । आधि॑पत्यै॒रित्याधि॑-प॒त्यैः॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 वैराजाख्य यत्सामास्ति तस्मिन्मे मदीया मनीषा बुद्धिराश्रितोऽस्त्विति शेषः तथा वीर्यमस्मदीयं शरीरव्यवहारसामर्थ्यं सहो वैरितिरस्कारकं बलं चानुष्टुभा छन्दोदेवतया संमृतं संपादितमस्तु।    
@@ -385,7 +423,7 @@ Do ye, O Mitra and Varuna, guard through your overlordship.
 अथ बृहस्पतये पाङ्क्ताय त्रिणवाय शाक्वराय हैमन्किया चरुः, इत्यस्य पुरोनुवाक्यामाह– सम्राड्दिशामिति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/10_samrAD_dishAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/10_samrAD_dishAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -415,6 +453,11 @@ Aid this sacrifice, full of ghee.
 अ॒व॒स्युवा॑ताः [35] बृ॒ह॒तीर्नु शक्व॑रीरि॒मय्ँ य॒ज्ञम॑वन्तु नो घृ॒ताचीः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+स॒म्राडिति॑ सम्-राट् । दि॒शाम् । स॒हसा॒म्नीति॑ स॒ह-सा॒म्नी॒ । सह॑स्वती । ऋ॒तुः । हे॒म॒न्तः । वि॒ष्ठयेति॑ वि-स्थया॑ । नः॒ । पि॒प॒र्तु॒ ॥ अ॒व॒स्युवा॑ता॒ इत्य॑व॒स्यु-वा॒ताः॒ । बृ॒ह॒तीः । नु । शक्व॑रीः । इ॒मम् । य॒ज्ञम् । अ॒व॒न्तु॒ । नः॒ । घृ॒ताचीः॑ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 दिशां मध्ये सम्यग्राजात इति सम्राडूर्ध्वा दिक्, सा च सहसाम्नी सामभिः सहिता सहस्वती बलवती नोऽस्मान्पिपर्तु पालयतु।   तथा हेमन्ताख्य ऋतुर्विष्ठया विशिष्टया स्थित्या नः पिपर्तु।   अवस्युवाता अवस्यवो क्षयितारो वाता वाययो यासां बृहतीनामृचां ता अवस्युवाता बृहतीर्बृहत्याख्यच्छन्दोयुक्तः शक्वरीर्नु शाक्वरसाम्नो योनिभूता ऋचोऽपि घृताचीर्घृताहुतियुक्ताः सत्यो नोऽस्मदीयमिमं यज्ञमवन्तु।
@@ -428,7 +471,7 @@ Aid this sacrifice, full of ghee.
 तत्रैव याज्यमाह— सुवर्वतीति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/11_suvarvatI_sudughA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/11_suvarvatI_sudughA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -457,6 +500,11 @@ O Brhaspati, yoke a voice in the south.
 त्वङ्गो॒पाᳶ पु॑रए॒तोत प॒श्चाद्बृह॑स्पते॒ याम्याय्ँ॑युङ्ग्धि॒ वाच॑म् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सुव॑र्व॒तीति॒ सुवः॑-व॒ती॒ । सु॒दुघेति॑ सु-दुघा॑ । नः॒ । पय॑स्वती । दि॒शाम् । दे॒वी । अ॒व॒तु॒ । नः॒ । घृ॒ताची॑ ॥ त्वम् । गो॒पा इति॑ गो-पाः । पु॒र॒ए॒तेति॑ पुरः-ए॒ता । उ॒त । प॒श्चात् । बृह॑स्पते । याम्या॑म् । यु॒ङ्ग्धि॒ । वाच॑म् ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 दिशां स्वामिभूता देवी सुवर्वती स्वर्गयुक्ता स्वर्गप्रदेत्यर्थः।   नोऽस्मान्प्रति सुदुधा कामधेनुवत्सुष्ठु दोहनशीला।   अत एव पयस्वती क्षीरादिरसद्रव्यपूर्णं विशेषतो घृताची घृतं प्राप्नुवती।   हे बृहस्पते त्वं पुरएता पुरतो गन्ता सन्गोपा रक्षक उतापि च पश्चात्पृष्टतोऽपि रक्षकस्तादृशस्त्वं याम्यां यममयीं वाचं युङ्ग्धि योजय, एवमेवं वर्तस्वेत्यादिशेत्यर्थः।
@@ -471,7 +519,7 @@ O Brhaspati, yoke a voice in the south.
 अथ ‘सवित्र आतिच्छन्दसाय त्रयस्त्रिँशाय रैवताय शैशिराय द्वादशकपालः’ इत्यस्य पुरोनुवाक्यामाह— ऊर्ध्वा दिशामिति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/12_UrdhvA_dishAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/12_UrdhvA_dishAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -500,6 +548,11 @@ Without a foe, be kindly to us.
 रे॒वत्सामाति॑च्छन्दा उ॒ छन्दोजा॑तशत्रुस्स्यो॒ना नो॑ अस्तु ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ऊ॒र्ध्वा । दि॒शाम् । रन्तिः॑ । आशा॑ । ओष॑धीनाम् । सव्ँ॒व॒त्स॒रेणेति॑ सम्-व॒त्स॒रेण॑ । स॒वि॒ता । नः॒ । अह्ना॑म् ॥ रे॒वत् । साम॑ । अति॑च्छन्दा॒ इत्यति॑-छ॒न्दाः॒ । उ॒ । छन्दः॑ । अजा॑तशत्रु॒रित्यजा॑त-श॒त्रुः॒ । स्यो॒ना । नः॒ । अ॒स्तु॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 दिशां मध्ये येयमूर्ध्वा दिक्सा **रन्तिः** प्रीतिहेतुः, सा चौषधीनां वृष्टिद्वारी संषादिकेति शेषः।   तादृसी नोऽस्मान्प्रति स्योना सुखदाऽस्तु।   तथाऽह्नां समूहरूपेण संवत्सरेण सह सविता सुखप्रदोऽस्तु।   तथा रेव द्रवताख्यं यत्सामातिच्छन्दा उ अतिच्छन्दोयुक्तर्गाषि तथा तस्यामृचि वर्तमानं छन्दश्चेत्येष समूहोऽजातशत्रुरस्तु, अस्मदीयः शत्रुर्यथा नोत्पद्यते तथा करोत्वित्यर्थः
@@ -513,7 +566,7 @@ Without a foe, be kindly to us.
 तत्रैव याज्यामाह— स्तोमत्रयस्त्रिँश इति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/13_stoma_trayastriMshe.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/13_stoma_trayastriMshe.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -543,6 +596,11 @@ Be the bounteous region rich in milk, for us.
 घृ॒तव॑ती सवित॒राधि॑पत्यै॒ᳶ पय॑स्वती॒ रन्ति॒राशा॑ नो अस्तु ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+स्तोम॑त्रयस्त्रिँश॒ इति॒ स्तोम॑-त्र॒य॒स्त्रिँ॒शे॒ । भुव॑नस्य । प॒त्नि॒ । विव॑स्वद्वात॒ इति॒ विव॑स्वत्-वा॒ते॒ । अ॒भीति॑ । नः॒ । गृ॒णा॒हि॒ ॥ घृ॒तव॒तीति॑ घृ॒त-व॒ती॒ । स॒वि॒तः॒ । आधि॑पत्यै॒रित्याधि॑-प॒त्यैः॒ । पय॑स्वती । रन्तिः॑ । आशा॑ । नः॒ । अ॒स्तु॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे **स्तोमत्रयस्त्रिंशे** त्रयस्त्रिंशाख्यः स्तोमो यस्या ऊर्ध्वाया दिशः स स्तोमत्रयस्त्रिंशा, तत्संबोधनमिदम्।   **भुवनस्य पत्नि** भूतजातस्य पत्नी पालीयत्री (तत्संहबोधनमिदम्)।   हे **विवस्तद्-वाते** विवस्वन्नामको वातो   २१०८ वायुर्यस्याः सा विवस्वद्वाता तत्संबोधनमिदम्।   विवस्वते त्वा वाताय स्वाहेत्य् अन्यत्राऽऽम्नातम्।   
@@ -559,7 +617,7 @@ Be the bounteous region rich in milk, for us.
 अथादित्यै विष्णुपत्न्यै चरुरित्यस्य पुरोनुवाक्यामाह— घ्रुवा दिशामिति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/14_dhruvA_dishAv.N.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/14_dhruvA_dishAv.N.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -589,6 +647,11 @@ The winds blowing together be gracious to us.
 बृह॒स्पति॑र्मात॒रिश्वो॒त वा॒युस्स॑न्धुवा॒ना वाता॑ अ॒भि नो॑ गृणन्तु ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ध्रु॒वा । दि॒शाम् । विष्णु॑प॒त्नीति॒ विष्णु॑-प॒त्नी॒ । अघो॑रा । अ॒स्य । ईशा॑ना । सह॑सः । या । म॒नोता॑ ॥ बृह॒स्पतिः॑ । मा॒त॒रिश्वा॑ । उ॒त । वा॒युः । स॒न्धु॒वा॒ना इति॑ सम्-धु॒वा॒नाः । वाताः॑ । अ॒भीति॑ । नः॒ । गृ॒ण॒न्तु॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 दिशां मध्ये या **घ्रुवा** स्थिरा सूर्यगतिसापेक्षप्राच्या+++(=??)+++ दिवि भागरहिता समानरूपा दिग्  
@@ -603,7 +666,7 @@ The winds blowing together be gracious to us.
 तत्रैव याज्यामाह— विष्टम्भो दिव इति।   
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/15_viShTambho_divo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/15_viShTambho_divo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -633,6 +696,11 @@ May Aditi be auspicious to us in her life.
 वि॒श्वव्य॑चा इ॒षय॑न्ती॒ सुभू॑तिश्शि॒वा नो॑ अ॒स्त्वदि॑तिरु॒पस्थे॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वि॒ष्ट॒म्भ इति॑ वि-स्त॒म्भः । दि॒वः । ध॒रुणः॑ । पृ॒थि॒व्याः । अ॒स्य । ईशा॑ना । जग॑तः । विष्णु॑प॒त्नीति॒ विष्णु॑-प॒त्नी॒ ॥ वि॒श्वव्य॑चा॒ इति॑ वि॒श्व-व्य॒चाः॒ । इ॒षय॑न्ती । सुभू॑ति॒रिति॒ सु-भू॒तिः॒ । शि॒वा । नः॒ । अ॒स्तु॒ । अदि॑तिः । उ॒पस्थ॒ इत्यु॒प-स्थे॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अदितिरखण्डनीया दिक् सामान्य-रूपा  
@@ -658,13 +726,18 @@ May Aditi be auspicious to us in her life.
 वै॒श्वा॒न॒रो न॑ ऊ॒त्या पृ॒ष्टो दि॒वि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वै॒श्वा॒न॒रः । नः॒ । ऊ॒त्या । पृ॒ष्टः । दि॒वि ।
+</details>
+
 <details><summary>Keith</summary>
 
 Vaiśvanara to our help.
 Present in the sky.
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -691,6 +764,11 @@ Agni through the hymn which brings (him).
 अ॒ग्निरु॒क्थेन॒ वाह॑सा  ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वै॒श्वा॒न॒रः । नः॒ । ऊ॒त्या । आ । प्रेति॑ । या॒तु॒ । प॒रा॒वत॒ इति॑ परा-वतः॑ ॥ अ॒ग्निः । उ॒क्थेन॑ । वाह॑सा ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **वैश्वानरः** विश्वेषां नराणां स्वामित्वेन सम्बन्धी अग्निः । 'नरे संज्ञायाम्' इति पूर्वपदस्य दीर्घत्वम् । **ऊत्या** मार्गेण करणेन अस्मद्रक्षणेन वा हेतुना आत्मनो वा तर्पणेन प्रयोजनेन । 'ऊतियूति' इति क्तिन उदात्तत्वं निपात्यते, 'उदात्तयणः' इति विभक्तेरुदात्तत्वं, 'ज्वरत्वर' इत्यादिना ऊठ् । 
@@ -702,7 +780,7 @@ Agni through the hymn which brings (him).
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/098/02_pRShTo_divi.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/098/02_pRShTo_divi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1106,12 +1184,17 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 अनु॑ नो॒ऽद्यानु॑मतिः ...  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अन्विति॑ । नः॒ । अ॒द्य । अनु॑मति॒रित्यनु॑-म॒तिः॒ ।
+</details>
+
 <details><summary>Keith</summary>
 
 Us to-day Anumati.
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/19_anu_no-dyAnumatir.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/19_anu_no-dyAnumatir.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1140,6 +1223,11 @@ A joy to the giver.
 अ॒ग्निश्च॑ हव्य॒वाह॑नो॒ भव॑तान्दा॒शुषे॒ मयः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अन्विति॑ । नः॒ । अ॒द्य । अनु॑मति॒रित्यनु॑-म॒तिः॒ । य॒ज्ञम् । दे॒वेषु॑ । म॒न्य॒ता॒म्॒ ॥ अ॒ग्निः । च॒ । ह॒व्य॒वाह॑न॒ इति॑ हव्य-वाह॑नः । भव॑ताम् । दा॒शुषे॑ । मयः॑ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 नोस्माकम् इमं यज्ञं  
@@ -1162,12 +1250,17 @@ A joy to the giver.
 अविद॑नुमते॒ त्वम् ..
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अन्विति॑ । इत् । अ॒नु॒म॒त॒ इत्य॑नु-म॒ते॒ । त्वम् ।
+</details>
+
 <details><summary>Keith</summary>
 
 O Anumati, thou.
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1197,6 +1290,11 @@ Lengthen our days for us.
 क्रत्वे॒ दक्षा॑य नो हिनु॒ प्र ण॒ आयूँ॑षि तारिषः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अन्विति॑ । इत् । अ॒नु॒म॒त॒ इत्य॑नु-म॒ते॒ । त्वम् । मन्या॑सै । शम् । च॒ । नः॒ । कृ॒धि॒ ॥ क्रत्वे॑ । दक्षा॑य । नः॒ । हि॒नु॒ । प्रेति॑ । नः॒ । आयूँ॑षि । ता॒रि॒षः॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अनुमते त्वं मन्यासै अनुमन्यस्व लोटि 'वैतोन्यत्र' इत्यैकारः । किंच - नोस्माकं शं सुखं च कृधि कुरु । करोतेर्लोटि शपो लुक्, 'श्रुशृणुकृवृभ्यः' इति धिभावः । किं पुनरनुमन्तव्यमित्याह - क्रत्वे क्रतवे यागाय प्रत्ययाय वा दक्षाय समर्थाय शीघ्रकरणाय क्रत्वर्थं वा यद्दक्षमन्नं तदर्थं नः अस्मान् **हिनु** प्रेरय । 'जसादिषु वा वचनम् प्राङ्णौ चङ्युपधायाः' इति दीर्घं ङितीति गुणो न प्रवर्तते । तदर्थं चास्माकं आयूंषि प्रतारिषः प्रवर्तय । तरतेर्ण्यान्ताल्लेटि 'सिब्बहुलं लेटि' इति सिप् 'लेटोडाटौ' इत्यडागमः, 'उपसर्गाद्बहुलम्' इति नसो णत्वम् ॥
@@ -1216,6 +1314,11 @@ Lengthen our days for us.
 कया॑ नश्चि॒त्र आ भु॑व॒त्
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+कया॑ । नः॒ । चि॒त्रः । एति॑ । भु॒व॒त् ।
+</details>
+
 <details><summary>Keith</summary>
 
 With what to us radiant shall he be?
@@ -1226,7 +1329,7 @@ With what to us radiant shall he be?
 अथ राजप्रजाधर्ममाह ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1504,12 +1607,17 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 को अ॒द्य यु॑ङ्क्ते ॥   [37]  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+कः । अ॒द्य । यु॒ङ्क्ते॒ ॥
+</details>
+
 <details><summary>Keith</summary>
 
 Who to-day yoketh?
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/16_ko_adya.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/16_ko_adya.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1532,6 +1640,14 @@ Who to-day yoketh?
 </details>
 
 </div>
+
+<details><summary>Keith</summary>
+
+Who to-day yoketh to the pole of holy order  
+The oxen, eager, of keen spirits, the furious,  
+With darts in their mouths, heart-piercing, healthful?  
+He who attaineth their service shall live.
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/16_ko_adya.md">
 

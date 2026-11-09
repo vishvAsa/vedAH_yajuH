@@ -23,10 +23,23 @@ title = "१२ वाजप्रसवीयहोमः"
 वा᳓जो नो वि᳓श्वैर्देवै᳓र्ध᳓नसाताविहा᳓वतु ।   
 </details>
 
+<details><summary>Keith</summary>
+
+May strength aid us through the seven quarters,  
+The four distances,  
+Strength aid us here with the All-gods  
+For the gaining of wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाजो॑ नस्स॒प्त प्र॒दिश॒श्चत॑स्रो वा परा॒वतः॑ ।   
 वाजो॑ नो॒ विश्वै॑र्दे॒वैर्धन॑सातावि॒हाव॑तु ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वाजः॑ । नः॒ । स॒प्त । प्र॒दिश॒ इति॑ प्र-दिशः॑ । चत॑स्रः । वा॒ । प॒रा॒वत॒ इति॑ परा-वतः॑ ॥ वाजः॑ । नः॒ । विश्वैः॑ । दे॒वैः । धन॑साता॒विति॒ धन॑-सा॒तौ॒ । इ॒ह । अ॒व॒तु॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -48,10 +61,23 @@ title = "१२ वाजप्रसवीयहोमः"
 वि᳓श्वे नो देवा᳓ अ᳓वसा᳓ ऽऽगमन्तु वि᳓श्वमस्तु द्र᳓विणव्ँवा᳓जो अस्मे᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+May all the Maruts to-day be present, all, to aid us,  
+Be the fires all enkindled present;  
+May the All-gods come to us with aid;  
+All wealth, and strength, be ours.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्वे॑ अ॒द्य म॒रुतो॒ विश्व॑ ऊ॒ती विश्वे॑ भवन्त्व॒ग्नय॒स्समि॑द्धाः ।   
 विश्वे॑ नो दे॒वा अव॒सा ऽऽग॑मन्तु॒ विश्व॑मस्तु॒ द्रवि॑णव्ँ॒वाजो॑ अ॒स्मे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्वे॑ । अ॒द्य । म॒रुतः॑ । विश्वे॑ । ऊ॒ती । विश्वे॑ । भ॒व॒न्तु॒ । अ॒ग्नयः॑ । समि॑द्धा॒ इति॒ सम्-इ॒द्धाः॒ ॥ विश्वे॑ । नः॒ । दे॒वाः । अव॑सा । एति॑ । ग॒म॒न्तु॒ । विश्व॑म् । अ॒स्तु॒ । द्रवि॑णम् । वाजः॑ । अ॒स्मे इति॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -73,10 +99,23 @@ title = "१२ वाजप्रसवीयहोमः"
 अग्नि᳓रि᳓न्द्रो बृ᳓हस्प᳓तिर्मरु᳓तस्सो᳓मपीतये ।   
 </details>
 
+<details><summary>Keith</summary>
+
+O gods, come in your cars of gold  
+For the instigation of strength,  
+Agni, Indra, Brhaspati  
+And the Maruts to drink the Soma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाज॑स्य प्रस॒वन्दे॑वा॒ रथै॑र्याता हिर॒ण्ययैः॑ ।   
 अ॒ग्निरिन्द्रो॒ बृह॒स्पति॑र्म॒रुत॒स्सोम॑पीतये ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वाज॑स्य । प्र॒स॒वमिति॑ प्र-स॒वम् । दे॒वाः॒ । रथैः॑ । या॒त॒ । हि॒र॒ण्ययैः॑ ॥ अ॒ग्निः । इन्द्रः॑ । बृह॒स्पतिः॑ । म॒रुतः॑ । सोम॑पीतय॒ इति॒ सोम॑-पी॒त॒ये॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -95,10 +134,23 @@ title = "१२ वाजप्रसवीयहोमः"
 अस्य᳓ म᳓ध्वᳶ पिबत माद᳓यध्वन्तृप्ता᳓ यात पथि᳓भिर्देवया᳓नैः ।   
 </details>
 
+<details><summary>Keith</summary>
+
+For each prize, aid us, O ye steeds,  
+For the rewards [1], O ye wise, immortal, righteous ones;  
+Drink of this mead, rejoice in it;  
+Delighted go by paths on which the gods go.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाजे॑वाजेऽवत वाजिनो नो॒ धने॑षु [21]  वि॒प्रा॒ अ॒मृ॒ता॒ ऋ॒त॒ज्ञाः॒ ।   
 अ॒स्य मध्वᳶ॑ पिबत मा॒दय॑ध्वन्तृ॒प्ता या॑त प॒थिभि॑र्देव॒यानैः॑ ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वाजे॑वाज॒ इति॒ वाजे॑-वा॒जे॒ । अ॒व॒त॒ । वा॒जि॒नः॒ । नः॒ । धने॑षु । वि॒प्राः॒ । अ॒मृ॒ताः॒ । ऋ॒त॒ज्ञा॒ इत्यृ॑त-ज्ञाः॒ ॥ अ॒स्य । मध्वः॑ । पि॒ब॒त॒ । मा॒दय॑ध्वम् । तृ॒प्ताः । या॒त॒ । प॒थिभि॒रिति॑ प॒थि-भिः॒ । दे॒व॒यानै॒रिति॑ देव-यानैः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -118,10 +170,23 @@ title = "१२ वाजप्रसवीयहोमः"
 वा᳓जस्य हि᳓ प्रसवो᳓ न᳓न्नमीति वि᳓श्वा आ᳓शा वा᳓जपतिर्भवेयम् ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Strength is in front, in the midst of us;  
+Strength shall assort the gods in due season  
+The instigation of strength is propitious;  
+In all the quarters may I become a lord of strength.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाजᳶ॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नो॒ वाजो॑ दे॒वाँ ऋ॒तुभि॑ᳵ कल्पयाति ।   
 वाज॑स्य॒ हि प्र॑स॒वो नन्न॑मीति॒ विश्वा॒ आशा॒ वाज॑पतिर्भवेयम् ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वाजः॑ । पु॒रस्ता॑त् । उ॒त । म॒ध्य॒तः । नः॒ । वाजः॑ । दे॒वान् । ऋ॒तुभि॒रित्यृ॒तु-भिः॒ । क॒ल्प॒या॒ति॒ ॥ वाज॑स्य । हि । प्र॒स॒व इति॑ प्र-स॒वः । नन्न॑मीति । विश्वाः॑ । आशाः॑ । वाज॑पति॒रिति॒ वाज॑-प॒तिः॒ । भ॒वे॒य॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -140,10 +205,22 @@ title = "१२ वाजप्रसवीयहोमः"
 प᳓यस्वतीᳶ प्रदि᳓शस्सन्तु म᳓ह्यम् ।   
 </details>
 
+<details><summary>Keith</summary>
+
+Milk may I place on earth, milk on the plants,  
+Milk in the sky, in the atmosphere milk,  
+Be the quarters rich in milk for me.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पयᳶ॑ पृथि॒व्याम्पय॒ ओष॑धीषु॒ पयो॑ दि॒व्य॑न्तरि॑क्षे॒ पयो॑ धाम् ।   
 पय॑स्वतीᳶ प्र॒दिश॑स्सन्तु॒ मह्य॑म् ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पयः॑ । पृ॒थि॒व्याम् । पयः॑ । ओष॑धीषु । पयः॑ । दि॒वि । अ॒न्तरि॑क्षे । पयः॑ । धा॒म् ॥ पय॑स्वतीः । प्र॒दिश॒ इति॑ प्र-दिशः॑ । स॒न्तु॒ । मह्य॑म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -163,10 +240,22 @@ title = "१२ वाजप्रसवीयहोमः"
 सो᳓ऽहव्ँ᳓वा᳓जँ सनेयमग्ने ।  
 </details>
 
+<details><summary>Keith</summary>
+
+I unite myself with milk, with ghee,  
+I united myself. with waters [2] and plants;  
+Strength may I win, O Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सम्मा॑ सृजामि॒ पय॑सा घृ॒तेन॒ सम्मा॑ सृजाम्य॒पः [22]  ओष॑धीभिः ।   
 सो॑ऽहव्ँवाजँ॑ सनेयमग्ने ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । मा॒ । सृ॒जा॒मि॒ । पय॑सा । घृ॒तेन॑ । समिति॑ । मा॒ । सृ॒जा॒मि॒ । अ॒पः । ओष॑धीभि॒रित्योष॑धि-भिः॒ ॥ सः । अ॒हम् । वाज॑म् । स॒ने॒य॒म् । अ॒ग्ने॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -190,10 +279,24 @@ title = "१२ वाजप्रसवीयहोमः"
 द्या᳓वा क्षा᳓मा रुक्मो᳓ अन्त᳓र्वि᳓ भाति देवा᳓ अग्नि᳓न्धारयन्द्रविणोदाः᳓ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Night and the dawn, one-minded, but of various form
+  
+United suckle one child;  
+The radiant one shineth between sky and earth;  
+The gods, granters of wealth, support Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नक्तो॒षासा॒ सम॑नसा॒ विरू॑पे धा॒पये॑ते॒ शिशु॒मेकँ॑ समी॒ची ।   
 द्यावा॒ क्षामा॑ रु॒क्मो अ॒न्तर्वि भा॑ति दे॒वा अ॒ग्निन्धा॑रयन्द्रविणो॒दाः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नक्तो॒षासा॑ । सम॑न॒सेति॒ स-म॒न॒सा॒ । विरू॑पे॒ इति॒ वि-रू॒पे॒ । धा॒पये॑ते॒ इति॑ । शिशु॑म् । एक॑म् । स॒मी॒ची इति॑ ॥ द्यावा॑ । क्षाम॑ । रु॒क्मः । अ॒न्तः । वीति॑ । भा॒ति॒ । दे॒वाः । अ॒ग्निम् । धा॒र॒य॒न् । द्र॒वि॒णो॒दा इति॑ द्रविणः-दाः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -215,9 +318,19 @@ title = "१२ वाजप्रसवीयहोमः"
 समुद्रो᳙ऽसि न᳓भस्वानार्द्र᳓दानुश्शम्भू᳓र्मयोभू᳓रभि᳓ मा वाहि स्वा᳓हा
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the ocean, full of mist, granting moisture, blow over me with healing, with wonder working; hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒मु॒द्रो॑ऽसि॒ नभ॑स्वाना॒र्द्रदा॑नुश्श॒म्भूर्म॑यो॒भूर॒भि मा॑ वाहि॒ स्वाहा॑
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒मु॒द्रः । अ॒सि॒ । नभ॑स्वान् । आ॒र्द्रदा॑नु॒रित्या॒र्द्र-दा॒नुः॒ । श॒म्भूरिति॑ शम्-भूः । म॒यो॒भूरिति॑ मयः-भूः । अ॒भीति॑ । मा॒ । वा॒हि॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -235,9 +348,19 @@ title = "१२ वाजप्रसवीयहोमः"
 मा᳓रुतो᳙ऽसि मरु᳓ताङ्गण᳓श्शम्भू᳓र्मयोभू᳓रभि᳓ मा वाहि स्वा᳓हा
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art of the Maruts, the horde of the Maruts, blow over me with healing, with wonder-working; hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 मारु॒तो॑ऽसि म॒रुता॑ङ्ग॒णश्श॒म्भूर्म॑यो॒भूर॒भि मा॑ वाहि॒ स्वाहा॑
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मा॒रु॒तः । अ॒सि॒ । म॒रुता॑म् । ग॒णः । श॒म्भूरिति॑ शम्-भूः । म॒यो॒भूरिति॑ मयः-भूः । अ॒भीति॑ । मा॒ । वा॒हि॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -257,9 +380,19 @@ title = "१२ वाजप्रसवीयहोमः"
 अ᳓वस्यु᳓रसि दु᳓वस्वाञ्छम्भू᳓र्मयोभू᳓रभि᳓ मा वाहि स्वा᳓हा ॥[23]
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the helper, the worshipper, blow over me with healing, with wonder-working; hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अव॒स्युर॑सि॒ दुव॑स्वाञ्छ॒म्भूर्म॑यो॒भूर॒भि मा॑ वाहि॒ स्वाहा॑ ॥[23]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒व॒स्युः । अ॒सि॒ । दुव॑स्वान् । श॒म्भूरिति॑ शम्-भूः । म॒यो॒भूरिति॑ मयः-भूः । अ॒भीति॑ । मा॒ । वा॒हि॒ । स्वाहा॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -26,11 +26,21 @@ title = "११ ऋतव्येष्टकोपधानम्"
 )+++
 </details>
 
+<details><summary>Keith</summary>
+
+(Ye are) Madha and Madhava, the months of spring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मधु॑श्च॒ माध॑वश्च॒ वास॑न्तिकावृ॒तू
 +++(अ॒ग्नेर॑न्तश्श्ले॒षो॑ऽसि॒ कल्पे॑ताम् ।  द्यावा॑पृथि॒वी कल्प॑न्ताम्  ।  आप॒ ओष॑धी॒ᳵ कल्प॑न्ताम् ।अ॒ग्नय॒ᳶ पृथ॒ङ्मम॒ ज्यैष्ठ्या॑य॒ सव्र॑ताः  
 )+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मधुः॑ । च॒ । माध॑वः । च॒ । वास॑न्तिकौ । ऋ॒तू इति॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -53,10 +63,20 @@ title = "११ ऋतव्येष्टकोपधानम्"
 +++(अग्ने᳓रन्तश्श्लेषो᳙ऽसि,  क᳓ल्पेता᳓म् द्या᳓वापृथिवी᳓ । क᳓ल्पन्ताम् आप ओ᳓षधीः । क᳓ल्पन्ताम् अग्न᳓यᳶ पृ᳓थङ्म᳓म ज्यै᳓ष्ठ्याय स᳓व्रताः ॥  )+++
 </details>
 
+<details><summary>Keith</summary>
+
+(Ye are) Śukra and Śuci, the months of summer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शु॒क्रश्च॒ शुचि॑श्च॒ ग्रैष्मा॑वृ॒तू ।
 +++(अ॒ग्नेर॑न्तश्श्ले॒षो॑ऽसि॒,  कल्पे॑ताम् द्यावा॑पृथि॒वी । कल्प॑न्ताम् आप॒ ओष॑धीः । कल्प॑न्ताम् अ॒ग्नय॒ᳶ पृथ॒ङ्मम॒ ज्यैष्ठ्या॑य॒ सव्र॑ताः ॥  )+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शु॒क्रः । च॒ । शुचिः॑ । च॒ । ग्रैष्मौ॑ । ऋ॒तू इति॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -78,10 +98,20 @@ title = "११ ऋतव्येष्टकोपधानम्"
 +++(अग्ने᳓रन्तश्श्लेषो᳙ऽसि,  क᳓ल्पेता᳓म् द्या᳓वापृथिवी᳓ । क᳓ल्पन्ताम् आप ओ᳓षधीः । क᳓ल्पन्ताम् अग्न᳓यᳶ पृ᳓थङ्म᳓म ज्यै᳓ष्ठ्याय स᳓व्रताः ॥ )+++
 </details>
 
+<details><summary>Keith</summary>
+
+(Ye are) Nabha and Nabhasya, the months of rain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नभ॑श्च नभ॒स्य॑श्च॒ वार्षि॑कावृ॒तू
 +++(अ॒ग्नेर॑न्तश्श्ले॒षो॑ऽसि॒,  कल्पे॑ताम् द्यावा॑पृथि॒वी । कल्प॑न्ताम् आप॒ ओष॑धीः । कल्प॑न्ताम् अ॒ग्नय॒ᳶ पृथ॒ङ्मम॒ ज्यैष्ठ्या॑य॒ सव्र॑ताः ॥ )+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नभः॑ । च॒ । न॒भ॒स्यः॑ । च॒ । वार्षि॑कौ । ऋ॒तू इति॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -97,10 +127,20 @@ title = "११ ऋतव्येष्टकोपधानम्"
 +++(अग्ने᳓रन्तश्श्लेषो᳙ऽसि,  क᳓ल्पेता᳓म् द्या᳓वापृथिवी᳓ । क᳓ल्पन्ताम् आप ओ᳓षधीः । क᳓ल्पन्ताम् अग्न᳓यᳶ पृ᳓थङ्म᳓म ज्यै᳓ष्ठ्याय स᳓व्रताः ॥ )+++
 </details>
 
+<details><summary>Keith</summary>
+
+(Ye are) Isa and Urja, the months of autumn.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒षश्चो॒र्जश्च॑ शार॒दावृ॒तू ।  
 +++(अ॒ग्नेर॑न्तश्श्ले॒षो॑ऽसि॒,  कल्पे॑ताम् द्यावा॑पृथि॒वी । कल्प॑न्ताम् आप॒ ओष॑धीः । कल्प॑न्ताम् अ॒ग्नय॒ᳶ पृथ॒ङ्मम॒ ज्यैष्ठ्या॑य॒ सव्र॑ताः ॥ )+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒षः । च॒ । ऊ॒र्जः । च॒ । शा॒र॒दौ । ऋ॒तू इति॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -123,10 +163,20 @@ title = "११ ऋतव्येष्टकोपधानम्"
 +++(अग्ने᳓रन्तश्श्लेषो᳙ऽसि,  क᳓ल्पेता᳓म् द्या᳓वापृथिवी᳓ । क᳓ल्पन्ताम् आप ओ᳓षधीः । क᳓ल्पन्ताम् अग्न᳓यᳶ पृ᳓थङ्म᳓म ज्यै᳓ष्ठ्याय स᳓व्रताः ॥)+++
 </details>
 
+<details><summary>Keith</summary>
+
+(Ye are) Saha and Sahasya, the months of winter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सह॑श्च सह॒स्य॑श्च॒ हैम॑न्तिकावृ॒तू ।
 +++(अ॒ग्नेर॑न्तश्श्ले॒षो॑ऽसि॒,  कल्पे॑ताम् द्यावा॑पृथि॒वी । कल्प॑न्ताम् आप॒ ओष॑धीः । कल्प॑न्ताम् अ॒ग्नय॒ᳶ पृथ॒ङ्मम॒ ज्यैष्ठ्या॑य॒ सव्र॑ताः ॥)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सहः॑ । च॒ । स॒ह॒स्यः॑ । च॒ । हैम॑न्तिकौ । ऋ॒तू इति॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -149,10 +199,20 @@ title = "११ ऋतव्येष्टकोपधानम्"
 +++(अग्ने᳓रन्तश्श्लेषो᳙ऽसि,  क᳓ल्पेता᳓म् द्या᳓वापृथिवी᳓ । क᳓ल्पन्ताम् आप ओ᳓षधीः । क᳓ल्पन्ताम् अग्न᳓यᳶ पृ᳓थङ्म᳓म ज्यै᳓ष्ठ्याय स᳓व्रताः ॥ )+++
 </details>
 
+<details><summary>Keith</summary>
+
+(Ye are) Tapa and Tapasya, the months of the cool season.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तप॑श्च तप॒स्य॑श्च शैशि॒रावृ॒तू ।
 +++(अ॒ग्नेर॑न्तश्श्ले॒षो॑ऽसि॒,  कल्पे॑ताम् द्यावा॑पृथि॒वी । कल्प॑न्ताम् आप॒ ओष॑धीः । कल्प॑न्ताम् अ॒ग्नय॒ᳶ पृथ॒ङ्मम॒ ज्यैष्ठ्या॑य॒ सव्र॑ताः ॥ )+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तपः॑ । च॒ । त॒प॒स्यः॑ । च॒ । शै॒शि॒रौ । ऋ॒तू इति॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -173,9 +233,19 @@ title = "११ ऋतव्येष्टकोपधानम्"
 अग्ने᳓रन्तश्श्लेषो᳙ऽसि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the internal bond of the fire,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेर॑न्तश्श्ले॒षो॑ऽसि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । अ॒न्त॒श्श्ले॒ष इत्य॑न्तः-श्ले॒षः । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -191,12 +261,25 @@ title = "११ ऋतव्येष्टकोपधानम्"
 म᳓म ज्यै᳓ष्ठ्याय स᳓व्रताः [29] +++(कल्पताम्)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Be sky and earth in place,  
+Be waters and plants in place,  
+Be the fires severally in place  
+In unison for my greatness
+</details>
+
 <details><summary>मूलम्</summary>
 
 कल्पे॑ताम् द्यावा॑पृथि॒वी ..
 कल्प॑न्ता॒माप॒ ओष॑धीः ।  
 कल्प॑न्ताम् अ॒ग्नय॒ᳶ पृथ॒ङ् ..
 मम॒ ज्यैष्ठ्या॑य॒ सव्र॑ताः [29] +++(कल्पताम्)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कल्पे॑ताम् । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । कल्प॑न्ताम् । आपः॑ । ओष॑धीः । कल्प॑न्ताम् । अ॒ग्नयः॑ । पृथ॑क् । मम॑ । ज्यैष्ठ्या॑य । सव्र॑ता॒ इति॒ स-व्र॒ताः॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -210,9 +293,22 @@ title = "११ ऋतव्येष्टकोपधानम्"
 ये᳓ऽग्नयस्स᳓मनसोऽन्तरा᳓ द्या᳓वापृथिवी᳓ शैशिरा᳓वृतू᳓ अभि᳓ क᳓ल्पमाना इ᳓न्द्रमिव देवा᳓ अभि᳓ सव्ँ᳓विशन्तु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May the fires which of one mind  
+Are between sky and earth,  
+Taking place according to the months of the cool season,  
+Attend (on them), as the gods on Indra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये॑ऽग्नय॒स्सम॑नसोऽन्त॒रा द्यावा॑पृथि॒वी शै॑शि॒रावृ॒तू अ॒भि कल्प॑माना॒ इन्द्र॑मिव दे॒वा अ॒भि सव्ँवि॑शन्तु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । अ॒ग्नयः॑ । सम॑नस॒ इति॒ स-म॒न॒सः॒ । अ॒न्त॒रा । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । शै॒शि॒रौ । ऋ॒तू इति॑ । अ॒भीति॑ । कल्प॑मानाः । इन्द्र॑म् । इ॒व॒ । दे॒वाः । अ॒भि । समिति॑ । वि॒श॒न्तु॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -255,9 +351,19 @@ title = "११ ऋतव्येष्टकोपधानम्"
 सय्ँय᳓च्च +++(असि)+++ ,  प्र᳓चेताश्च +++(असि)+++ ,  अग्ने᳓स्सो᳓मस्य सू᳓र्यस्य +++(ते᳓ ते᳓ऽधिपतयस्ते᳓भ्यो न᳓मस्ते᳓ नो मृडयन्तु ते यन्द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि तव्ँ᳓वो ज᳓म्भे दधामि)+++
 </details>
 
+<details><summary>Keith</summary>
+
+(Thou art) the uniter and forethinker of Agni, Soma, Surya.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सय्ँ॒यच्च॒ +++(असि)+++ ,  प्रचे॑ताश्च +++(असि)+++ ,  अ॒ग्नेस्सोम॑स्य॒ सूर्य॑स्य +++(ते तेऽधि॑पतय॒स्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सय्ँ॒यदिति॑ सम्-यत् । च॒ । प्रचे॑ता॒ इति॒ प्र-चे॒ताः॒ । च॒ । अ॒ग्नेः । सोम॑स्य । सूर्य॑स्य ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -275,9 +381,19 @@ title = "११ ऋतव्येष्टकोपधानम्"
 उग्रा᳓ च +++(असि)+++ , भीमा᳓ च +++(असि)+++ , पितृणा᳓म् यम᳓स्ये᳓न्द्रस्य +++(ते᳓ ते᳓ऽधिपतयस्ते᳓भ्यो न᳓मस्ते᳓ नो मृडयन्तु ते यन्द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि तव्ँ᳓वो ज᳓म्भे दधामि)+++
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the dread, the terrible, of the fathers, of Yama, of Indra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒ग्रा च॑ +++(असि)+++ , भी॒मा च॑ +++(असि)+++ , पितृ॒णाम् य॒मस्येन्द्र॑स्य +++(ते तेऽधि॑पतय॒स्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒ग्रा । च॒ । भी॒मा । च॒ । पि॒तृ॒णाम् । य॒मस्य॑ । इन्द्र॑स्य ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -295,9 +411,19 @@ title = "११ ऋतव्येष्टकोपधानम्"
 ध्रुवा᳓ च +++(असि)+++ , पृथिवी᳓ च +++(असि)+++ ,  देव᳓स्य सवितु᳓र्मरु᳓ताव्ँव᳓रुणस्य +++(ते᳓ ते᳓ऽधिपतयस्ते᳓भ्यो न᳓मस्ते᳓ नो मृडयन्तु , ते यन्द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि तव्ँ᳓वो ज᳓म्भे दधामि)+++
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the firm (quarter) and the earth of the god Savitr, the Maruts, Varuna.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ध्रु॒वा च॑ +++(असि)+++ , पृथि॒वी च॑ +++(असि)+++ ,  दे॒वस्य॑ सवि॒तुर्म॒रुताव्ँ॒वरु॑णस्य +++(ते तेऽधि॑पतय॒स्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु , ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ध्रु॒वा । च॒ । पृ॒थि॒वी । च॒ । दे॒वस्य॑ । स॒वि॒तुः । म॒रुता॑म् । वरु॑णस्य ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -315,9 +441,19 @@ title = "११ ऋतव्येष्टकोपधानम्"
 धर्त्री᳓ च +++(असि)+++ , ध᳓रित्री च +++(असि)+++ ,  मित्रा᳓व᳓रुणयोर्मित्र᳓स्य धातुः᳓ +++(ते᳓ ते᳓ऽधिपतयस्ते᳓भ्यो न᳓मस्ते᳓ नो मृडयन्तु ते यन्द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि तव्ँ᳓वो ज᳓म्भे दधामि)+++
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the support, the upholder, of Mitra and Varuna, Mitra, Dhatr.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ध॒र्त्री च॒ +++(असि)+++ , धरि॑त्री च +++(असि)+++ ,  मि॒त्रावरु॑णयोर्मि॒त्रस्य॑ धा॒तुः +++(ते तेऽधि॑पतय॒स्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+5 ॥ ध॒र्त्री । च॒ । धरि॑त्री । च॒ । मि॒त्रावरु॑णयो॒रिति॑ मि॒त्रा-वरु॑णयोः । मि॒त्रस्य॑ । धा॒तुः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -335,9 +471,19 @@ title = "११ ऋतव्येष्टकोपधानम्"
 प्रा᳓ची च +++(असि)+++ ,  प्रती᳓ची च +++(असि)+++ , व᳓सूनाँ रुद्रा᳓णाम् [30]  आदित्या᳓ना᳓म्  +++(ते᳓ ते᳓ऽधिपतयस्ते᳓भ्यो न᳓मस्ते᳓ नो मृडयन्तु ते यन्द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि तव्ँ᳓वो ज᳓म्भे दधामि)+++
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the eastern, the western (quarter) of the Vasus, the Rudras, the Adityas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राची॑ च +++(असि)+++ ,  प्र॒तीची॑ च॒ +++(असि)+++ , वसू॑नाँ रु॒द्राणा॑म् [30]  आ॒दि॒त्यानाम्  +++(ते तेऽधि॑पतय॒स्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि)+++
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्राची॑ । च॒ । प्र॒तीची॑ । च॒ । वसू॑नाम् । रु॒द्राणा॑म् । आ॒दि॒त्याना॑म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -359,6 +505,11 @@ title = "११ ऋतव्येष्टकोपधानम्"
 तव्ँ᳓वो ज᳓म्भे दधामि  
 </details>
 
+<details><summary>Keith</summary>
+
+These are thine overlords, to them honour, be they gracious to us, him whom we hate and who hateth us I place in your jaws.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते तेऽधि॑पतय॒स्तेभ्यो॒ नम॒स् ,  
@@ -366,6 +517,11 @@ title = "११ ऋतव्येष्टकोपधानम्"
 ते यन्द्वि॒ष्मो ,  
 यश्च॑ नो॒ द्वेष्टि॒,  
 तव्ँवो॒ जम्भे॑ दधामि  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । ते॒ । अधि॑पतय॒ इत्यधि॑-प॒त॒यः॒ । तेभ्यः॑ । नमः॑ । ते । नः॒ । मृ॒ड॒य॒न्तु॒ । ते । यम् । द्वि॒ष्मः । यः । च॒ । नः॒ । द्वेष्टि॑ । तम् । वः॒ । जम्भे॑ । द॒धा॒मि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -389,9 +545,19 @@ title = "११ ऋतव्येष्टकोपधानम्"
 सह᳓स्रस्य प्रमा᳓ असि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the measure of a thousand,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒हस्र॑स्य प्र॒मा अ॑सि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒हस्र॑स्य । प्र॒मेति॑ प्र-मा । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -405,10 +571,25 @@ title = "११ ऋतव्येष्टकोपधानम्"
 ए᳓वं᳓ द᳓क्षि᳓ण᳓स्यां᳓ दि᳓शि᳓ स᳓ह᳓स्र᳓स्य᳓ प्र᳓ति᳓मा᳓ तु᳓ल्या᳓ऽसि᳓ ।   
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the image of a thousand,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒हस्र॑स्य प्रति॒मा अ॑सि ।  
 एवं दक्षिणस्यां दिशि सहस्रस्य प्रतिमा तुल्याऽसि ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒हस्र॑स्य । प्र॒ति॒मेति॑ प्रति-मा । अ॒सि॒ ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तथा पश्चिमायां दिशि सहस्रस्य विमा तुल्याऽसि ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -416,24 +597,19 @@ title = "११ ऋतव्येष्टकोपधानम्"
 सह᳓स्रस्य विमा᳓ असि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the size of a thousand,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒हस्र॑स्य वि॒मा अ॑सि ।  
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-तथा पश्चिमायां दिशि सहस्रस्य विमा तुल्याऽसि ।   
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-सह᳓स्रस्योन्मा᳓ असि  ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-स॒हस्र॑स्यो॒न्मा अ॑सि  ।
+स॒हस्र॑स्य । वि॒मेति॑ वि-मा । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -443,12 +619,42 @@ title = "११ ऋतव्येष्टकोपधानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+सह᳓स्रस्योन्मा᳓ असि  ।
+</details>
+
+<details><summary>Keith</summary>
+
+thou art the replica of a thousand,
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒हस्र॑स्यो॒न्मा अ॑सि  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒हस्र॑स्य । उ॒न्मेत्यु॑त्-मा । अ॒सि॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 साहस्रो᳙ऽसि ।
+</details>
+
+<details><summary>Keith</summary>
+
+thou art of a thousand,
 </details>
 
 <details><summary>मूलम्</summary>
 
 सा॒ह॒स्रो॑ऽसि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सा॒ह॒स्रः । अ॒सि॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -461,9 +667,19 @@ title = "११ ऋतव्येष्टकोपधानम्"
 सह᳓स्राय त्वा +++(प्रोक्षामि )+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+for a thousand thee!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒हस्रा॑य त्वा +++(प्रोक्षामि )+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒हस्रा॑य । त्वा॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -498,6 +714,11 @@ title = "११ ऋतव्येष्टकोपधानम्"
 परार्ध᳓श्च  +++( भूत्वा मां प्रीणयन्तु)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+May these bricks, O Agni, be milch cows for me, one, and a hundred, and a thousand, and ten thousand, and a hundred thousand, and a million, and ten million, and a hundred million, and a thousand million, and ten thousand million, and a hundred thousand million, and ten hundred thousand million, and a hundred hundred thousand million;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इमा मे॑ अग्न॒ इष्ट॑का धे॒नव॑स्स॒न्तु ।  
@@ -515,6 +736,11 @@ title = "११ ऋतव्येष्टकोपधानम्"
 प॒रा॒र्धश्च॑  +++( भूत्वा मां प्रीणयन्तु)+++ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इ॒माः । मे॒ । अ॒ग्ने॒ । इष्ट॑काः । धे॒नवः॑ । स॒न्तु॒ । एका॑ । च॒ । श॒तम् । च॒ । स॒हस्र॑म् । च॒ । अ॒युत॑म् । च॒ । नि॒युत॒मिति॑ नि-युत॑म् । च॒ । प्र॒युत॒मिति॑ प्र-युत॑म् । च॒ । अर्बु॑दम् । च॒ । न्य॑र्बुद॒मिति॒ नि-अ॒र्बु॒द॒म् । च॒ । स॒मु॒द्रः । च॒ । मध्य॑म् । च॒ । अन्तः॑ । च॒ । प॒रा॒र्ध इति॑ पर-अ॒र्धः । च॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हेऽग्न इमा उपहिता इष्टका मे मम धेनवो धेनुवत्प्रीतिहेतवः सन्तु ।   शतादयः परार्धान्ता दशोत्तराः संख्याविशेषाः ।   एकशतसहस्त्रादिसंख्यासंख्येयाः सत्यो मां प्रीणयन्तु ।   यदा ममैकया प्रीतिस्तदा शतं भूत्वेत्येवं सर्वत्र द्रष्टव्यम्।   
@@ -527,11 +753,21 @@ title = "११ ऋतव्येष्टकोपधानम्"
 षष्टि᳓स्सह᳓स्रमयु᳓तम्  अ᳓क्षीयमाणा ऋतस्था᳓स्स्थर्तावृ᳓धो घृतश्चु᳓तो मधुश्चु᳓त ऊ᳓र्जस्वतीस्स्वधावि᳓नीः᳓ +++(स्थ)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+may these bricks, O Agni, be for me milch cows, sixty, a thousand, ten thousand unperishing; ye are standing on holy order, increasing holy order, dripping ghee, dripping honey, full of strength, full of power;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मा मे॑ अग्न॒ इष्ट॑का धे॒नव॑स्सन्तु ।  
 
 ष॒ष्टिस्स॒हस्र॑म॒युत॒म्  अक्षी॑यमाणा ऋत॒स्थास्स्थ॑र्ता॒वृधो॑ घृत॒श्चुतो॑ मधु॒श्चुत॒ ऊर्ज॑स्वतीस्स्वधा॒विनीः +++(स्थ)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒माः । मे॒ । अ॒ग्ने॒ । इष्ट॑काः । धे॒नवः॑ । स॒न्तु॒ । ष॒ष्टिः । स॒हस्र॑म् । अ॒युत॑म् । अक्षी॑यमाणाः । ऋ॒त॒स्था इत्यृ॑त-स्थाः । स्थ॒ । ऋ॒ता॒वृध॒ इत्यृ॑त-वृधः॑ । घृ॒त॒श्चुत॒ इति॑ घृत-श्चुतः॑ । म॒धु॒श्चुत॒ इति॑ मधु-श्चुतः॑ । ऊर्ज॑स्वतीः । स्व॒धा॒विनी॒रिति॑ स्वधा-विनीः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -545,10 +781,20 @@ title = "११ ऋतव्येष्टकोपधानम्"
 विरा᳓जो ना᳓म कामदु᳓घा अमु᳓त्रामु᳓ष्मिल्ँ लोके᳓ ॥   [32]  
 </details>
 
+<details><summary>Keith</summary>
+
+may these bricks, O Agni, be for me milkers of desires named the glorious yonder in yon world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता मे॑ अग्न॒ इष्ट॑का धे॒नव॑स्सन्तु  
 वि॒राजो॒ नाम॑ काम॒दुघा॑ अ॒मुत्रा॒मुष्मिल्ँ॑ लो॒के ॥   [32]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ताः । मे॒ । अ॒ग्ने॒ । इष्ट॑काः । धे॒नवः॑ । स॒न्तु॒ । वि॒राज॒ इति॑ वि-राजः॑ । नाम॑ । का॒म॒दुघा॒ इति॑ काम-दुघाः॑ । अ॒मुत्र॑ । अ॒मुष्मि॑न् । लो॒के ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

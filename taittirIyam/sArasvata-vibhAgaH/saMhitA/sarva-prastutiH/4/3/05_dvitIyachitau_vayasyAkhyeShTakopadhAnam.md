@@ -24,9 +24,19 @@ title = "०५ द्वितीयचितौ वयस्याख्ये
 त्र्य᳓विर्व᳓यस्त्रिष्टु᳓प्छ᳓न्दः  +++(त्वमसि)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+(Thou art) the calf of eighteen months in strength, the Tristubh metre;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्र्यवि॒र्वय॑स्त्रि॒ष्टुप्छन्दः॑  +++(त्वमसि)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्र्यवि॒रिति॑ त्रि-अविः॑ । वयः॑ । त्रि॒ष्टुप् । छन्दः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -43,9 +53,19 @@ title = "०५ द्वितीयचितौ वयस्याख्ये
 दित्यवा᳓ड्व᳓यो᳓  विरा᳓ट्छ᳓न्दः +++(त्वमसि)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+the two-year-old in strength, the Viraj metre;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒त्य॒वाड्वयो  वि॒राट्छन्दः॑ +++(त्वमसि)+++।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒त्य॒वाडिति॑ दित्य-वाट् । वयः॑ । वि॒राडिति॑ वि-राट् । छन्दः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -58,9 +78,19 @@ title = "०५ द्वितीयचितौ वयस्याख्ये
 प᳓ञ्चाविर्व᳓यो गायत्री᳓ छ᳓न्दः +++(त्वमसि)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+the two-and-a-half year-old in strength, the Gayatri metre;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पञ्चा॑वि॒र्वयो॑ गाय॒त्री छन्दः॑ +++(त्वमसि)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पञ्चा॑वि॒रिति॒ पञ्च॑-अ॒विः॒ । वयः॑ । गा॒य॒त्री । छन्दः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -73,9 +103,19 @@ title = "०५ द्वितीयचितौ वयस्याख्ये
 त्रिवत्सो᳓ व᳓य उष्णि᳓हा छ᳓न्दः +++(त्वमसि)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+the three-year old in strength, the Usnih metre;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि॒व॒त्सो वय॑ उ॒ष्णिहा॒ छन्दः॑ +++(त्वमसि)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रि॒व॒त्स इति॑ त्रि-व॒त्सः । वयः॑ । उ॒ष्णिहा॑ । छन्दः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -88,9 +128,19 @@ title = "०५ द्वितीयचितौ वयस्याख्ये
 तुर्यवा᳓ड्व᳓योऽनुष्टु᳓प्छ᳓न्दः +++(त्वमसि)+++ ।   
 </details>
 
+<details><summary>Keith</summary>
+
+the four-year-old in strength, the Anustubh metre;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तु॒र्य॒वाड्वयो॑ऽनु॒ष्टुप्छन्द॑ः +++(त्वमसि)+++ ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तु॒र्य॒वाडिति॑ तुर्य-वाट् । वयः॑ । अ॒नु॒ष्टुबित्य॑नु-स्तुप् । छन्दः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -103,9 +153,19 @@ title = "०५ द्वितीयचितौ वयस्याख्ये
 पष्ठवा᳓द्व᳓यो बृहती᳓ छ᳓न्दः +++(त्वमसि)+++ ।   
 </details>
 
+<details><summary>Keith</summary>
+
+the draught ox in strength, the Brhati metre;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒ष्ठ॒वाद्वयो॑ बृह॒ती छन्द॑ः +++(त्वमसि)+++ ।   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒ष्ठ॒वादिति॑ पष्ठ-वात् । वयः॑ । बृ॒ह॒ती । छन्दः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -118,9 +178,19 @@ title = "०५ द्वितीयचितौ वयस्याख्ये
 उक्षा᳓ व᳓यस्सतो᳓बृहती छ᳓न्दः +++(त्वमसि)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+the bull in strength, the Satobrhati metre;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒क्षा वय॑स्स॒तोबृ॑हती॒ छन्द॑ः +++(त्वमसि)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒क्षा । वयः॑ । स॒तोबृ॑ह॒तीति॑ स॒तः-बृ॒ह॒ती॒ । छन्दः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -142,6 +212,11 @@ title = "०५ द्वितीयचितौ वयस्याख्ये
 सिँहो᳓ व᳓यश्छदि᳓श्छ᳓न्दः  +++(त्वमसि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the bullock in strength, the Kakubh metre; the milch cow in strength, the Jagati metre; the beast of burden in strength, the Pankti metre; the goat in strength, the spacious metre; the ram in strength, the slow metre; the tiger in strength, the unassailable metre; the lion in strength, the covering metre;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒ष॒भो वय॑ᳵ क॒कुच्छन्दः॑ +++(त्वमसि)+++ ।   
@@ -152,6 +227,11 @@ title = "०५ द्वितीयचितौ वयस्याख्ये
 पुरु॑षो॒ वय॑स्त॒न्द्रञ्छन्दः॑ +++(त्वमसि)+++ ।  
 व्या॒घ्रो वयोऽना॑धृष्ट॒ञ्छन्द॑ः +++(त्वमसि)+++।   
 सिँ॒हो वय॑श्छ॒दिश्छन्दः॑  +++(त्वमसि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒ष॒भः । वयः॑ । क॒कुत् । छन्दः॑ । धे॒नुः । वयः॑ । जग॑ती । छन्दः॑ । अ॒न॒ड्वान् । वयः॑ । प॒ङ्क्तिः । छन्दः॑ । ब॒स्तः । वयः॑ । वि॒व॒लमिति॑ वि-व॒लम् । छन्दः॑ । वृ॒ष्णिः । वयः॑ । वि॒शा॒लमिति॑ वि-शा॒लम् । छन्दः॑ । पुरु॑षः । वयः॑ । त॒न्द्रम् । छन्दः॑ । व्या॒घ्रः । वयः॑ । अना॑धृष्ट॒मित्यना॑-धृ॒ष्ट॒म् । छन्दः॑ । सिँ॒हः । वयः॑ । छ॒दिः । छन्दः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -166,9 +246,19 @@ title = "०५ द्वितीयचितौ वयस्याख्ये
 वि᳓ष्टम्भो᳓ व᳓यो᳓ऽधिपतिश्छ᳓न्दः +++(त्वमसि)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the support in strength, the overlord metre;
+</details>
+
 <details><summary>मूलम्</summary>
 
 विष्ट॒म्भो वयोऽधि॑पति॒श्छन्दः॑ +++(त्वमसि)+++ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒ष्ट॒म्भ इति॑ वि-स्त॒म्भः । वयः॑ । अधि॑पति॒रित्यधि॑-प॒तिः॒ । छन्दः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -182,10 +272,20 @@ title = "०५ द्वितीयचितौ वयस्याख्ये
 विश्व᳓कर्मा व᳓यᳶ परमेष्ठी᳓छ᳓न्दः +++(त्वमसि)+++  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the lordly power in strength, the delight-giving metre; the all-creating in strength, the supreme lord metre;
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्ष॒त्रव्ँवयो॒ मय॑न्द॒ञ्छन्दः॑  +++(त्वमसि)+++ ।  
 वि॒श्वक॑र्मा॒ वयᳶ॑ परमे॒ष्ठीछन्दः॑ +++(त्वमसि)+++  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्ष॒त्रम् । वयः॑ । मय॑न्दम् । छन्दः॑ । वि॒श्वक॒र्मेति॑ वि॒श्व-क॒र्मा॒ । वयः॑ । प॒र॒मे॒ष्ठी । छन्दः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -199,9 +299,19 @@ title = "०५ द्वितीयचितौ वयस्याख्ये
 मूर्धा᳓ व᳓यᳶ प्रजा᳓पतिश्छ᳓न्दः +++(त्वमसि)+++  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+the head in strength, the Prajapati metre.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मू॒र्धा वयᳶ॑ प्र॒जाप॑ति॒श्छन्दः॑ +++(त्वमसि)+++  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मू॒र्धा । वयः॑ । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । छन्दः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
