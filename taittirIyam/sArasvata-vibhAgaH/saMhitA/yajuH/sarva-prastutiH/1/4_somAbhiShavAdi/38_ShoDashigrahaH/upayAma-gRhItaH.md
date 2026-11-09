@@ -12,7 +12,7 @@ unicode_script = "devanagari"
 (ग्रहणम्)
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -101,4 +101,3 @@ This is thy birthplace; to Indra of the Sodaśin thee!
 
 ए॒षः । ते॒ । योनिः॑ । इन्द्रा॑य । त्वा॒ । षो॒ड॒शिने॑ ॥
 </details>
-

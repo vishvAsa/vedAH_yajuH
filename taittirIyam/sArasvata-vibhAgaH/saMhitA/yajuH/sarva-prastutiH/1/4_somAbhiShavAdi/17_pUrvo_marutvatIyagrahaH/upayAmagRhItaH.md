@@ -7,7 +7,7 @@ unicode_script = "devanagari"
 इमामनुद्रुत्य उपयामगृहीतोसीन्द्राय त्वा मरुत्वत इति गृह्णाति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -87,4 +87,3 @@ This is thy birthplace; to Indra with the Maruts thee!
 
 ए॒षः । ते॒ । योनिः॑ । इन्द्रा॑य । त्वा॒ । म॒रुत्व॑ते ॥
 </details>
-

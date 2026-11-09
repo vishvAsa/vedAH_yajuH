@@ -9,7 +9,7 @@ _______
 इमामनुद्रुत्योपयामगृहीतोसि महेन्द्राय त्वेति गृह्णाति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -90,4 +90,3 @@ This is thy birthplace; to Mahendra thee!
 
 ए॒षः । ते॒ । योनिः॑ । म॒हे॒न्द्रायेति॑ महा-इ॒न्द्राय॑ । त्वा॒ ॥
 </details>
-
