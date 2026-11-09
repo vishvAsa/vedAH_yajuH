@@ -268,7 +268,7 @@ With the Angirases, the gods, as deity, with the Pankti metre, I yoke thee;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**हे᳓म᳓न्त᳓-शि᳓शिरा᳓भ्यान्** त्वर्तु᳓ना हवि᳓षा दीक्षयामि ।
+**हेमन्त-शिशिरा᳓भ्यान्** त्वर्तु᳓ना हवि᳓षा दीक्षयामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -278,7 +278,7 @@ with the winter and cool seasons as oblation I consecrate thee.
 
 <details><summary>मूलम्</summary>
 
-हेमन्तशिशि॒राभ्या॑न्त्व॒र्तुना॑ ह॒विषा॑ दीक्षयामि ।
+हे॒म॒न्त॒शि॒शि॒राभ्या॑न्त्व॒र्तुना॑ ह॒विषा॑ दीक्षयामि ।
 </details>
 
 <details><summary>पद-पाठः</summary>

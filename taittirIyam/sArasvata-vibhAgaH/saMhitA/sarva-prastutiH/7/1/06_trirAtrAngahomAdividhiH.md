@@ -1320,7 +1320,7 @@ vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/2/11_traidh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(ननु)+++ त्रे᳓धा᳓-वि᳓भक्तव्ँ᳓ वै᳓ त्रिरात्रे᳓ सह᳓स्रम् +++(गौः᳓ - "ब्रह्म᳓णे चाग्नी᳓धे च दे᳓ये᳓ति" पक्षे)+++ ।
++++(ननु)+++ त्रेधा-विभक्तव्ँ᳓ वै᳓ त्रिरात्रे᳓ सह᳓स्रम् +++(गौः᳓ - "ब्रह्म᳓णे चाग्नी᳓धे च दे᳓ये᳓ति" पक्षे)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1330,7 +1330,7 @@ The thousand is divided into three parts at the three-night festival;
 
 <details><summary>मूलम्</summary>
 
-त्रे॒धा॒ वि॒भ॒क्तव्ँ॒ वै त्रि॑रा॒त्रे स॒हस्र॑म् ।
+त्रे॒धा॒वि॒भ॒क्तव्ँ वै त्रि॑रा॒त्रे स॒हस्र॑म् ।
 </details>
 
 <details><summary>पद-पाठः</summary>

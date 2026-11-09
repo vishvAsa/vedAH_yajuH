@@ -193,7 +193,7 @@ In that they perform these Stomas, the performers of the Sattra keep finding sup
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ +++(ज्योतिर्गौरायुरिति त्रयः)+++ सँ᳓स्तुता विरा᳓जम् +++(दशाक्षरां)+++ अभि᳓ स᳓म्पद्यन्ते ।[32]  
-+++(गोआयुषी)+++ द्वे᳓ च᳓ + ऋ᳓चाव् अ᳓ति रि᳓च्ये᳓ते᳓ ।
++++(गोआयुषी)+++ द्वे᳓ च + ऋचा᳓व् अ᳓ति रिच्येते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -203,7 +203,7 @@ These (Stomas) being sung together make up the Viraj, and two verses are redunda
 
 <details><summary>मूलम्</summary>
 
-ते सँ॑स्तुता वि॒राज॑म॒भि स॑म्पद्यन्ते । द्वे च॒ ऋचा॒वति॑रिच्येते ।
+ते सँ॑स्तुता वि॒राज॑म॒भि स॑म्पद्यन्ते । द्वे॑ च॒ ऋचा॒वति॑रिच्येते ।
 </details>
 
 <details><summary>पद-पाठः</summary>

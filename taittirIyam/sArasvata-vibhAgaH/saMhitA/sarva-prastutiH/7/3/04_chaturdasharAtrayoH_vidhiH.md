@@ -233,7 +233,7 @@ In that the Prsthas are reversed, they conquer by them this world.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्र᳓य᳓स्त्रिँशौ᳓ +++(दिनानां)+++ मध्यत᳓स् +++(सप्तमाष्टमयोः)+++ स्तो᳓मौ भवतः।
+त्रयस्त्रिँशौ᳓ +++(दिनानां)+++ मध्यत᳓स् +++(सप्तमाष्टमयोः)+++ स्तो᳓मौ भवतः।
 </details>
 
 <details><summary>Keith</summary>

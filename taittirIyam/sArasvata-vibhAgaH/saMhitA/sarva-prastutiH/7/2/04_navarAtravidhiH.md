@@ -179,7 +179,7 @@ When offspring are ahungered, one should sacrifice with (the rite) of nine night
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ᳓मे᳓ हि᳓ वा᳓ एता᳓साल्ँ लोका᳓ अकॢ᳓प्ता, अथै᳓ताः क्षुध᳓न् निगच्छन्ति ।
+इमे᳓ हि᳓ वा᳓ एता᳓साल्ँ लोका᳓ अकॢ᳓प्ता, अथै᳓ताः क्षुध᳓न् निगच्छन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -189,7 +189,7 @@ for these worlds are not fitted for them, and thus they are ahungered;
 
 <details><summary>मूलम्</summary>
 
-इमे हि वा ए॒तासाल्ँ॑ लो॒का अकॢ॑प्ता॒ अथै॒ताः क्षुध॒न्नि ग॑च्छन्ति ।
+इ॒मे हि वा ए॒तासाल्ँ॑ लो॒का अकॢ॑प्ता॒ अथै॒ताः क्षुध॒न्नि ग॑च्छन्ति ।
 </details>
 
 <details><summary>पद-पाठः</summary>

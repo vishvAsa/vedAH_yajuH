@@ -344,7 +344,7 @@ verily in force [2] and strength they find support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प᳓ञ्च᳓द᳓श᳓रात्रो᳓ भवति ।
+पञ्चदशरात्रो᳓ भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -354,7 +354,7 @@ verily in force [2] and strength they find support.
 
 <details><summary>मूलम्</summary>
 
-पञ्चदशरा॒त्रो भ॑वति ।
+प॒ञ्च॒द॒श॒रा॒त्रो भ॑वति ।
 </details>
 
 <details><summary>पद-पाठः</summary>

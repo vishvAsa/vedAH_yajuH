@@ -377,7 +377,7 @@ the eight Ukthyas in between are the body;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए᳓षा᳓ वै᳓ गायत्री᳓, ज्यो᳓तिᳶपक्षा ।
+एषा᳓ वै᳓ गायत्री᳓, ज्यो᳓तिᳶपक्षा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -387,7 +387,7 @@ verily the Gayatri has sides of light.
 
 <details><summary>मूलम्</summary>
 
-एषा वै गा॑य॒त्री, ज्योतिᳶ॑पक्षा ।
+ए॒षा वै गा॑य॒त्री, ज्योति॑ᳶपक्षा ।
 </details>
 
 <details><summary>पद-पाठः</summary>

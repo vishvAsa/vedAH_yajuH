@@ -16,7 +16,7 @@ title = "०५ दशरात्रविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजा᳓पति᳓र् अ᳓का᳓म᳓य᳓त᳓ - प्र᳓ जायेये᳓ति ।
+प्रजा᳓पतिर् अकामयत - प्र᳓ जायेये᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -26,7 +26,7 @@ Prajapati desired, 'May I be propagated.'
 
 <details><summary>मूलम्</summary>
 
-प्र॒जाप॑तिरकामयत - प्र जा॒ये॒येति॑ ।
+प्र॒जाप॑तिरकामय॒त - प्र जा॑ये॒येति॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
