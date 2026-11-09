@@ -37,7 +37,7 @@ with the hands of Pusan.
 
 <details><summary>पद-पाठः</summary>
 
-3M । दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
+दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -71,11 +71,18 @@ I take thee with the arms of the Aśvins, with the hands of Pusan.
 आ द॑दे ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/02_imAmagRbhNan_rashanAmRtasya.md">
+<details><summary>पद-पाठः</summary>
+
+एति॑ । द॒दे॒ ।
+</details>
+
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/02_imAmagRbhNan_rashanAmRtasya.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
+<details><summary>मूलम्</summary>
 
 इ॒माम॑गृभ्णन् रश॒नामृ॒तस्य॒ पूर्व॒ऽआयु॑षि वि॒दथे॑षु क॒व्या। सा नो॑ऽअ॒स्मिन्त्सु॒तऽआब॑भूवऽऋ॒तस्य॒ साम॑न्त्स॒रमा॒रप॑न्ती ॥२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -88,7 +95,7 @@ I take thee with the arms of the Aśvins, with the hands of Pusan.
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/03_abhidhA-asi_bhuvanamasi.md">
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/03_abhidhA-asi_bhuvanamasi.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -140,6 +147,31 @@ Thou art the restrainer, the ruler on earth; thou art the restrainer who dost re
 For ploughing thee!
 </details>
 
+<details><summary>मूलम्</summary>
+
+कृ॒ष्यै त्वा॒ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कृ॒ष्यै । त्वा॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+4अथैनमभिप्रोक्षणेन प्रोक्षति - कृष्यै त्वेत्यादि ॥
+
+कृष्याद्यर्थं त्वां प्रोक्षामीति ।
+
+'उदात्तयणः' इति विभक्तेरुदात्तत्वम्, 'ऊडिदम्' इति दिवः, अद्भ्यश्च ।
+
+'शतुरनुमः' इति सतः ।
+
+'ओषधेश्च विभक्तावप्रथमायाम्' इति ओषधिशब्दस्य संहितायां दीर्घत्वम् ॥
+
+इति सप्तमे प्रथमे एकादशोनुवाकः ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षे᳓माय त्वा +++(प्रोक्षामि)+++
@@ -148,6 +180,16 @@ For ploughing thee!
 <details><summary>Keith</summary>
 
 For comfort thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्षेमा॑य त्वा ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्षेमा॑य । त्वा॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -160,6 +202,16 @@ For comfort thee!
 For wealth thee!
 </details>
 
+<details><summary>मूलम्</summary>
+
+र॒य्यै त्वा॒ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+र॒य्यै । त्वा॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पो᳓षाय त्वा +++(प्रोक्षामि)+++
@@ -168,6 +220,16 @@ For wealth thee!
 <details><summary>Keith</summary>
 
 For increase thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+पोषा॑य त्वा॒ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पोषा॑य । त्वा॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -180,6 +242,16 @@ For increase thee!
 For earth thee!
 </details>
 
+<details><summary>मूलम्</summary>
+
+पृथि॑व्यै त्वा॒ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पृ॒थि॒व्यै । त्वा॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऽन्त᳓रिक्षाय त्वा +++(प्रोक्षामि)+++
@@ -188,6 +260,16 @@ For earth thee!
 <details><summary>Keith</summary>
 
 For the atmosphere thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्तरि॑क्षाय त्वा ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्तरि॑क्षाय । त्वा॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -200,6 +282,16 @@ For the atmosphere thee!
 For sky thee!
 </details>
 
+<details><summary>मूलम्</summary>
+
+दि॒वे त्वा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒वे । त्वा॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सते᳓ त्वा᳓ +++(प्रोक्षामि)+++
@@ -208,6 +300,16 @@ For sky thee!
 <details><summary>Keith</summary>
 
 For being thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒ते त्वा ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒ते । त्वा॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -220,6 +322,16 @@ For being thee!
 For not being thee!
 </details>
 
+<details><summary>मूलम्</summary>
+
+अस॑ते॒ त्वा॒ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अस॑ते । त्वा॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऽद्भ्यस् त्वा +++(प्रोक्षामि)+++
@@ -228,6 +340,16 @@ For not being thee!
 <details><summary>Keith</summary>
 
 For the waters thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अद्भ्यस्त्वा॒ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒द्भ्य इत्य॑त्-भ्यः । त्वा॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -240,6 +362,16 @@ For the waters thee!
 For the plants thee!
 </details>
 
+<details><summary>मूलम्</summary>
+
+ओष॑धीभ्यस्त्वा॒ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । त्वा॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वेभ्यस् त्वा भूते᳓भ्यः +++(प्रोक्षामि)+++॥ [40]
@@ -250,20 +382,12 @@ For the plants thee!
 For all creatures thee!
 </details>
 
-<details><summary>मूलम् </summary>
+<details><summary>मूलम्</summary>
 
-कृ॒ष्यै त्वा॒ क्षेमा॑य त्वा र॒य्यै त्वा॒ पोषा॑य त्वा पृथि॒व्यै त्वा॒न्तरि॑क्षाय त्वा दि॒वे त्वा॑ स॒ते त्वास॑ते त्वा॒द्भ्यस् त्वौष॑धीभ्यस् त्वा॒ विश्वे॑भ्यस्त्वा भू॒तेभ्यः॑ ॥ [40]  
+विश्वे॑भ्यस्त्वा भू॒तेभ्यः॑ ॥ [40]
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-कृ॒ष्यै । त्वा॒ । क्षेमा॑य । त्वा॒ । र॒य्यै । त्वा॒ । पोषा॑य । त्वा॒ । पृ॒थि॒व्यै । त्वा॒ । अ॒न्तरि॑क्षाय । त्वा॒ । दि॒वे । त्वा॒ । 
-स॒ते । त्वा॒ । अस॑ते । त्वा॒ । अ॒द्भ्य इत्य॑त्-भ्यः । त्वा॒ । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । त्वा॒ । विश्वे॑भ्यः । त्वा॒ । भू॒तेभ्यः॑ ॥ [40]
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-4अथैनमभिप्रोक्षणेन प्रोक्षति - कृष्यै त्वेत्यादि ॥ कृष्याद्यर्थं त्वां प्रोक्षामीति । 'उदात्तयणः' इति विभक्तेरुदात्तत्वम्, 'ऊडिदम्' इति दिवः, अद्भ्यश्च । 'शतुरनुमः' इति सतः । 'ओषधेश्च विभक्तावप्रथमायाम्' इति ओषधिशब्दस्य संहितायां दीर्घत्वम् ॥
-
-इति सप्तमे प्रथमे एकादशोनुवाकः ॥  
+विश्वे॑भ्यः । त्वा॒ । भू॒तेभ्यः॑ ॥
 </details>

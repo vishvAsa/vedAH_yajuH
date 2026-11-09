@@ -18,8 +18,7 @@ title = "०३ अतिरात्रविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मवादि᳓नो व᳓द᳓न्ति᳓ -  
-स᳓ त्वै᳓ यजे᳓त᳓, योऽग्निष्टोमे᳓न +++(त्रिवृत्-पञ्चदश-सप्तदश-एकविशात्मकेन चतुष्टोमेन)+++ य᳓जमानोऽथ स᳓र्वस्तोमेन +++(चतुष्टोमादिक-सप्तविंश-त्रयस्त्रिंशात्मकेन)+++ य᳓जेते᳓ति ।  
+ब्रह्मवादि᳓नो व᳓द᳓न्ति᳓ -
 </details>
 
 <details><summary>Keith</summary>
@@ -37,7 +36,10 @@ The theologians say,
 ब्र॒ह्म॒वा॒दिन॒ इति॑ ब्रह्म-वा॒दिनः॑ । व॒द॒न्ति॒ ।   
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>स᳓ त्वै᳓ यजेत</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स᳓ त्वै᳓ यजेत
+</details>
 
 <details><summary>Keith</summary>
 
@@ -190,8 +192,7 @@ If they omit the Saptadaśa Stoma [1], his offspring is omitted, but he who offe
 
 <details><summary>पद-पाठः</summary>
 
-यस्य॑ । स॒प्त॒द॒शमिति॑ सप्त-द॒शम् । अ॒न्त॒र्यन्तीत्य॑न्तः-यन्ति॑ । [8]
-प्र॒जामिति॑ प्र-जाम् । तस्य॑ । अ॒न्तः । य॒न्ति॒ ।   
+यस्य॑ । स॒प्त॒द॒शमिति॑ सप्त-द॒शम् । अ॒न्त॒र्यन्तीत्य॑न्तः-यन्ति॑ । प्र॒जामिति॑ प्र-जाम् । तस्य॑ । अ॒न्तः । य॒न्ति॒ ।   
 प्र॒जाया॒मिति॑ प्र-जाया॑म् । मे॒ । अपीति॑ । अ॒स॒त् । इति॑ ।   
 खलु॑ । वै । य॒ज्ञेन॑ । यज॑मानः । य॒ज॒ते॒ । 
 </details>
@@ -252,9 +253,9 @@ ______________________
 If they omit the Trinava Stoma, his seasons and the strength of the Naksatras are omitted,
 </details>
 
-<details><summary>प्रदीपसिंहः</summary>
+<details><summary>मूलम्</summary>
 
-अत्र मूलं लुप्तम् 
+यस्य॑ त्रिण॒वम॑न्त॒र्यन्त्यृ॒तूँश्च॒ तस्य॑ नक्ष॒त्रिया॑ञ्च वि॒राज॑म॒न्तर्य॑न्ति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -287,8 +288,7 @@ but he who offers the sacrifice does so with the wish, 'May it be in my seasons 
 
 <details><summary>पद-पाठः</summary>
 
-ऋ॒तुषु॑ । मे॒ । अपीति॑ । अ॒स॒त् । न॒क्ष॒त्रिया॑याम् । च॒ । वि॒राजीति॑ वि-राजि॑ । इति॑ । [9]
-खलु॑ । वै । य॒ज्ञेन॑ । यज॑मानः । य॒ज॒ते॒ । 
+ऋ॒तुषु॑ । मे॒ । अपीति॑ । अ॒स॒त् । न॒क्ष॒त्रिया॑याम् । च॒ । वि॒राजीति॑ वि-राजि॑ । इति॑ । खलु॑ । वै । य॒ज्ञेन॑ । यज॑मानः । य॒ज॒ते॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -419,7 +419,7 @@ He who know thus obtains the first place.
 
 <details><summary>पद-पाठः</summary>
 
-यः । ए॒वम् । वेद॑ । प॒र॒मता॑म् । ए॒व । ग॒च्छ॒ति॒ ॥ [10]
+यः । ए॒वम् । वेद॑ । प॒र॒मता॑म् । ए॒व । ग॒च्छ॒ति॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

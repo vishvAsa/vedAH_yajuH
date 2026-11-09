@@ -31,6 +31,32 @@ Thou hast come into being by the toil; the work of the gods thou art the way of 
 भुवो॑ दे॒वाना॒ङ्कर्म॑णा॒पस॒र्तस्य॑ प॒थ्या॑सि॒
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+भुवः॑ । दे॒वाना॑म् । कर्म॑णा । अ॒पसा॑ । ऋ॒तस्य॑ । प॒थ्या॑ । अ॒सि॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+दीक्षे त्वं देवानां कर्मणा देवसंबन्धिना व्यापारेण होमादिना भुवः भव उत्पद्यस्व ।
+
+भवतेर्लेटि शपो लुक्, 'लेटोऽडाटौ' इत्यडागमः, 'भूसुवोस्तिङि' इति गुणाभावः ।
+
+ऋतस्य यज्ञस्य अपसा कर्मणा हेतुना भुव इत्येव ।
+
+पथ्या हिता खल्वसि सर्वस्य लोकस्य । छान्दसमन्तस्वरितत्वम्, डादेशो वा विभक्तेः ।
+
+तां त्वां देवेभिः वसुभिः देवैः गायत्रेण छन्दसा युनज्मि ।
+
+त्वां च वसन्तेन ऋतुना वासन्तिकेन हविषा त्वां दीक्षयामि दीक्षां करोमि अविगुणं निर्वर्तयामीति यावत् ।
+
+'तत्करोति' इति णिच् । सोहं दीक्षामारुहं आरूढोस्मि ।
+
+'कृमृदृरुहिभ्यः' इति च्लेरङ् । ऋतस्य यज्ञस्य पत्नीं पालयित्रीम् ।
+
+'पत्युर्नः' इति ङीप्नकारौ । गायत्रोण छन्दसा ब्रह्मणा च ऋतं सत्ये अधां दधामि स्थापयामि । छान्दसो लुङ् । मानसं सत्यमृतं, वाचिकं सत्यम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **आ᳓दित्ये᳓भिर्** देवे᳓भिर् देव᳓तया **जा᳓गतेन** त्वा छ᳓न्दसा युनज्मि ।
@@ -53,28 +79,12 @@ With the Vasus, the gods, as deity, with the Gayatri metre I yoke thee, with the
 
 <details><summary>पद-पाठः</summary>
 
-भुवः॑ । दे॒वाना॑म् । कर्म॑णा । अ॒पसा॑ । ऋ॒तस्य॑ ।  प॒थ्या॑ । अ॒सि॒ ।  
-
-वसु॑भि॒रिति॒ वसु॑-भिः॒ । दे॒वेभिः॑ । दे॒वत॑या । गा॒य॒त्रेण॑ । त्वा॒ । छन्द॑सा । यु॒न॒ज्मि॒ ।    
-
-व॒स॒न्तेन॑ । त्वा॒ । ऋ॒तुना॑ । ह॒विषा॑ । दी॒क्ष॒या॒मि॒ ।  
-
-रु॒द्रेभिः॑ । दे॒वेभिः॑ । दे॒वत॑या । त्रैष्टु॑भेन । त्वा॒ । छन्द॑सा । यु॒न॒ज्मि॒ । ग्री॒ष्मेण॑ । त्वा॒ । ऋ॒तुना॑ । ह॒विषा॑ । दी॒क्ष॒या॒मि॒ । 
-
-म॒हीम् । उ॒ । स्विति॑ ।   
-
-सु॒त्रामा॑ण॒मिति॑ सु-त्रामा॑णम् । 
+वसु॑भि॒रिति॒ वसु॑-भिः॒ । दे॒वेभिः॑ । दे॒वत॑या । गा॒य॒त्रेण॑ । त्वा॒ । छन्द॑सा । यु॒न॒ज्मि॒ । व॒स॒न्तेन॑ । त्वा॒ । ऋ॒तुना॑ । ह॒विषा॑ । दी॒क्ष॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-दीक्षे त्वं देवानां कर्मणा देवसंबन्धिना व्यापारेण होमादिना भुवः भव उत्पद्यस्व । भवतेर्लेटि शपो लुक्, 'लेटोऽडाटौ' इत्यडागमः, 'भूसुवोस्तिङि' इति गुणाभावः ।   
-
-ऋतस्य यज्ञस्य अपसा कर्मणा हेतुना भुव इत्येव । पथ्या हिता खल्वसि सर्वस्य लोकस्य । छान्दसमन्तस्वरितत्वम्, डादेशो वा विभक्तेः ।
-
-तां त्वां देवेभिः वसुभिः देवैः गायत्रेण छन्दसा युनज्मि । 
-
-त्वां च वसन्तेन ऋतुना वासन्तिकेन हविषा त्वां दीक्षयामि दीक्षां करोमि अविगुणं निर्वर्तयामीति यावत् । 'तत्करोति' इति णिच् । सोहं दीक्षामारुहं आरूढोस्मि । 'कृमृदृरुहिभ्यः' इति च्लेरङ् । ऋतस्य यज्ञस्य पत्नीं पालयित्रीम् । 'पत्युर्नः' इति ङीप्नकारौ । गायत्रोण छन्दसा ब्रह्मणा च ऋतं सत्ये अधां दधामि स्थापयामि । छान्दसो लुङ् । मानसं सत्यमृतं, वाचिकं सत्यम् । 'छन्दसः प्रत्ययविधाने नपुंसके स्वार्थ उपसंख्यानम्' इति गायत्र्यादिषु स्वार्थिकोण् । त्रिष्टुऽबादिभ्य उत्सादित्वादञ् ॥
+'छन्दसः प्रत्ययविधाने नपुंसके स्वार्थ उपसंख्यानम्' इति गायत्र्यादिषु स्वार्थिकोण् । त्रिष्टुऽबादिभ्य उत्सादित्वादञ् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -95,7 +105,7 @@ With the Vasus, the gods, as deity, with the Gayatri metre I yoke thee, with the
 With the Adityas, the gods, as deity, with the Jagati metre, I yoke thee; with the rainy season as oblation I consecrate thee.
 </details>
 
-<details><summary>मूलम्  </summary>
+<details><summary>मूलम्</summary>
 
 आदि॒त्येभि॑र्दे॒वेभि॑र्दे॒वत॑या॒ जाग॑तेन त्वा॒ छन्द॑सा युनज्मि व॒र्षाभि॑स्त्व॒र्तुना॑ ह॒विषा॑ दीक्षयामि॒ 
 </details>
@@ -121,14 +131,14 @@ With the Adityas, the gods, as deity, with the Jagati metre, I yoke thee; with t
 With the All-gods as deity, with the Anustubh metro, I yoke thee [1]; with the autumn season as oblation I consecrate thee.
 </details>
 
-<details><summary>मूलम्  </summary>
+<details><summary>मूलम्</summary>
 
 विश्वे॑भिर्दे॒वेभि॑र्दे॒वत॒यानु॑ष्टुभेन त्वा॒ छन्द॑सा युनज्मि [47]  श॒रदा॑ त्व॒र्तुना॑ ह॒विषा॑ दीक्षयामि
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-विश्वे॑भिः । दे॒वेभिः॑ । दे॒वत॑या । आनु॑ष्टुभे॒नेत्यानु॑-स्तु॒भे॒न॒ । त्वा॒ । छन्द॑सा । यु॒न॒ज्मि॒ । [47]श॒रदा॑ । त्वा॒ । ऋ॒तुना॑ । ह॒विषा॑ । दी॒क्ष॒या॒मि॒ । 
+विश्वे॑भिः । दे॒वेभिः॑ । दे॒वत॑या । आनु॑ष्टुभे॒नेत्यानु॑-स्तु॒भे॒न॒ । त्वा॒ । छन्द॑सा । यु॒न॒ज्मि॒ । श॒रदा॑ । त्वा॒ । ऋ॒तुना॑ । ह॒विषा॑ । दी॒क्ष॒या॒मि॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -143,24 +153,32 @@ With the All-gods as deity, with the Anustubh metro, I yoke thee [1]; with the a
 With the Angirases, the gods, as deity, with the Pankti metre, I yoke thee; with the winter and cool seasons as oblation I consecrate thee.
 </details>
 
-<details><summary>मूलम्  </summary>
+<details><summary>मूलम्</summary>
 
 अङ्गि॑रोभिर्दे॒वेभि॑र्दे॒वत॑या॒ पाङ्क्ते॑न त्वा॒ छन्द॑सा युनज्मि   
 
 हेमन्तशिशि॒राभ्या॑न्त्व॒र्तुना॑ ह॒विषा॑ दीक्षया॒मि
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>[आ᳓ ऽह᳓न् दीक्षा᳓म् अरुहम् ऋत᳓स्य प᳓त्नीम्।  
-गायत्रे᳓ण छ᳓न्दसा ब्र᳓ह्मणा च ऋत᳓म् सत्ये᳙ऽधाम्, सत्य᳓म् ऋते᳙ऽधाम् ॥]  
+<details><summary>पद-पाठः</summary>
+
+अङ्गि॑रोभि॒रित्यङ्गि॑रः-भिः॒ । दे॒वेभिः॑ । दे॒वत॑या । पाङ्क्ते॑न । त्वा॒ । छन्द॑सा । यु॒न॒ज्मि॒ । हे॒म॒न्त॒शि॒शि॒राभ्या॒मिति॑ हेमन्त-शि॒शि॒राभ्या॑म् । त्वा॒ । ऋ॒तुना॑ । ह॒विषा॑ । दी॒क्ष॒या॒मि॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ᳓ ऽह᳓न् दीक्षा᳓म् अरुहम् ऋत᳓स्य प᳓त्नीम्।  
+गायत्रे᳓ण छ᳓न्दसा ब्र᳓ह्मणा च ऋत᳓म् सत्ये᳙ऽधाम्, सत्य᳓म् ऋते᳙ऽधाम् ॥  
 [मही᳓म् ऊ षु᳓ … ]  
-[सुत्रा᳓माणम् पृथिवी᳓न् …]</details>
+[सुत्रा᳓माणम् पृथिवी᳓न् …]
+</details>
 
 <details><summary>Keith</summary>
 
 I have mounted upon consecration, the wife of holy order, with the Gayatri metro and holy power; holy order have I placed upon truth; truth have I placed upon holy order.
 </details>
 
-<details><summary>मूलम्  </summary>
+<details><summary>मूलम्</summary>
 
 आहन्दी॒क्षाम॑रुहमृ॒तस्य॒ पत्नी॑ङ्  , 
 
@@ -171,15 +189,10 @@ I have mounted upon consecration, the wife of holy order, with the Gayatri metro
 
 <details><summary>पद-पाठः</summary>
 
-अङ्गि॑रोभि॒रित्यङ्गि॑रः-भिः॒ । दे॒वेभिः॑ । दे॒वत॑या । पाङ्क्ते॑न । त्वा॒ । छन्द॑सा । यु॒न॒ज्मि॒ ।
-
-हे॒म॒न्त॒शि॒शि॒राभ्या॒मिति॑ हेमन्त-शि॒शि॒राभ्या॑म् । त्वा॒ । ऋ॒तुना॑ । ह॒विषा॑ । दी॒क्ष॒या॒मि॒ । 
-
-एति॑ । अ॒हम् । दी॒क्षाम् । अ॒रु॒ह॒म् । ऋ॒तस्य॑ । पत्नी॑म् ।   
-गा॒य॒त्रेण॑ । छन्द॑सा ।   ब्रह्म॑णा । च॒ । ऋ॒तम् । स॒त्ये । अ॒धा॒म् । स॒त्यम् । ऋ॒ते । अ॒धा॒म् ॥ 
+एति॑ । अ॒हम् । दी॒क्षाम् । अ॒रु॒ह॒म् । ऋ॒तस्य॑ । पत्नी॑म् । गा॒य॒त्रेण॑ । छन्द॑सा । ब्रह्म॑णा । च॒ । ऋ॒तम् । स॒त्ये । अ॒धा॒म् । स॒त्यम् । ऋ॒ते । अ॒धा॒म् ॥ म॒हीम् । उ॒ । स्विति॑ । सु॒त्रामा॑ण॒मिति॑ सु-त्रामा॑णम् ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -206,6 +219,11 @@ Aditi, who giveth good protection and good guidance.
 
 म॒हीमू॒ षु मा॒तरँ॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हुवेम ।  
 तु॒वि॒क्ष॒त्त्राम॒जर॑न्तीमुरू॒चीँ सु॒शर्मा॑ण॒मदि॑तिँ सु॒प्रणी॑तिम्  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒हीम् । उ॒ । स्विति॑ । मा॒तर॑म् । सु॒व्र॒ताना॒मिति॑ सु-व्र॒ताना॑म् । ऋ॒तस्य॑ । पत्नी॑म् । अव॑से । हु॒वे॒म॒ ॥ तु॒वि॒क्ष॒त्रामिति॑ तुवि-क्ष॒त्राम् । अ॒जर॑न्तीम् । उ॒रू॒चीम् । सु॒शर्मा॑ण॒मिति॑ सु-शर्मा॑णम् । अदि॑तिम् । सु॒प्रणी॑ति॒मिति॑ सु-प्रणी॑तिम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -253,6 +271,11 @@ Aditi, who giveth good protection and good guidance.
 [सु॒त्रामा॑णम् पृथि॒वीन् …]
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+रु॒द्रेभिः॑ । दे॒वेभिः॑ । दे॒वत॑या । त्रैष्टु॑भेन । त्वा॒ । छन्द॑सा । यु॒न॒ज्मि॒ । ग्री॒ष्मेण॑ । त्वा॒ । ऋ॒तुना॑ । ह॒विषा॑ । दी॒क्ष॒या॒मि॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [भु᳓वो +++(उत्पद्यस्व)+++ देवा᳓नाङ् क᳓र्मणा, ऽप᳙सा +ऋत᳓स्य। पथ्या᳙ऽसि ।]  
@@ -273,6 +296,11 @@ Aditi, who giveth good protection and good guidance.
 **जाग॑तेन** छन्द॑सा॒ ब्रह्म॑णा च ऋ॒तम् स॒त्ये॑ऽधाम्, स॒त्यम् ऋ॒ते॑ऽधाम् ॥]  
 [म॒हीम् ऊ॒ षु … ]  
 [सु॒त्रामा॑णम् पृथि॒वीन् …]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒दि॒त्येभिः॑ । दे॒वेभिः॑ । दे॒वत॑या । जाग॑तेन । त्वा॒ । छन्द॑सा । यु॒न॒ज्मि॒ । व॒र्षाभिः॑ । त्वा॒ । ऋ॒तुना॑ । ह॒विषा॑ । दी॒क्ष॒या॒मि॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -297,6 +325,11 @@ Aditi, who giveth good protection and good guidance.
 [सु॒त्रामा॑णम् पृथि॒वीन् …]
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+विश्वे॑भिः । दे॒वेभिः॑ । दे॒वत॑या । आनु॑ष्टुभे॒नेत्यानु॑-स्तु॒भे॒न॒ । त्वा॒ । छन्द॑सा । यु॒न॒ज्मि॒ । श॒रदा॑ । त्वा॒ । ऋ॒तुना॑ । ह॒विषा॑ । दी॒क्ष॒या॒मि॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [भु᳓वो +++(उत्पद्यस्व)+++ देवा᳓नाङ् क᳓र्मणा, ऽप᳙सा +ऋत᳓स्य। पथ्या᳙ऽसि ।]  
@@ -315,10 +348,15 @@ Aditi, who giveth good protection and good guidance.
 **पाङ्क्ते॑न** छन्द॑सा॒ ब्रह्म॑णा च ऋ॒तम् स॒त्ये॑ऽधाम्, स॒त्यम् ऋ॒ते॑ऽधाम् ॥]  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अङ्गि॑रोभि॒रित्यङ्गि॑रः-भिः॒ । दे॒वेभिः॑ । दे॒वत॑या । पाङ्क्ते॑न । त्वा॒ । छन्द॑सा । यु॒न॒ज्मि॒ । हे॒म॒न्त॒शि॒शि॒राभ्या॒मिति॑ हेमन्त-शि॒शि॒राभ्या॑म् । त्वा॒ । ऋ॒तुना॑ । ह॒विषा॑ । दी॒क्ष॒या॒मि॒ ।
+</details>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/AryaH/hindukaH/classes/lokAntaram/Rk/mahIm_U_Shu/">
 
 <details open><summary><h2>महीम् ऊ षु …{Loading}…</h2></summary>
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 
 मही᳓म् ऊ षु᳓ मात᳓रँ सुव्रता᳓नाम्  
 ऋत᳓स्य प᳓त्नीम् अ᳓वसे **हुवेम** ।  
@@ -340,6 +378,11 @@ Aditi, who giveth good protection and good guidance.
 
 म॒हीमू॒ षु मा॒तरँ॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हुवेम ।  
 तु॒वि॒क्ष॒त्त्राम॒जर॑न्तीमुरू॒चीँ सु॒शर्मा॑ण॒मदि॑तिँ सु॒प्रणी॑तिम्  ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒हीम् । उ॒ । स्विति॑ । मा॒तर॑म् । सु॒व्र॒ताना॒मिति॑ सु-व्र॒ताना॑म् । ऋ॒तस्य॑ । पत्नी॑म् । अव॑से । हु॒वे॒म॒ ॥ तु॒वि॒क्ष॒त्रामिति॑ तुवि-क्ष॒त्राम् । अ॒जर॑न्तीम् । उ॒रू॒चीम् । सु॒शर्मा॑ण॒मिति॑ सु-शर्मा॑णम् । अदि॑तिम् । सु॒प्रणी॑ति॒मिति॑ सु-प्रणी॑तिम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -368,7 +411,7 @@ Aditi, who giveth good protection and good guidance.
 उत्सृष्टे चतुर्षु पत्सु चतस्र आहुतीर्जुहोति  
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -491,6 +534,16 @@ Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protect
 Here is support, hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+इ॒ह धृति॒स्स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒ह । धृतिः॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ वि᳓धृतिस् +++(स्यात्)+++ स्वा᳓हा।
@@ -501,6 +554,16 @@ Here is support, hail!
 Here is keeping apart, hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+इ॒ह विधृ॑ति॒स्स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒ह । विधृ॑ति॒रिति॒ वि-धृ॒तिः॒ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ र᳓न्तिस्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वा᳓हा।
@@ -509,6 +572,16 @@ Here is keeping apart, hail!
 <details><summary>Keith</summary>
 
 Here is joy, hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒ह रन्ति॒स्स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒ह । रन्तिः॑ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -523,7 +596,7 @@ Here is delight, hail!'
 
 <details><summary>मूलम्</summary>
 
-इ॒ह धृति॒स्स्वाहे॒ह विधृ॑ति॒स्स्वाहे॒ह रन्ति॒स्स्वाहे॒ह रम॑ति॒स्स्वाहा॑
+इ॒ह रम॑ति॒स्स्वाहा॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>

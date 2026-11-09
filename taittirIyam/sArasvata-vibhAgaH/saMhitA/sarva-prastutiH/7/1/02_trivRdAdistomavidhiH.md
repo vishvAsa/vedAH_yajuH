@@ -212,7 +212,7 @@ verily so many Stomas, so many desires, so many worlds, so many lights does he w
 
 <details><summary>पद-पाठः</summary>
 
-ए॒ताव॑तः । ए॒व । स्तोमान्॑ । ए॒ताव॑तः । कामान्॑ । ए॒ताव॑तः । लो॒कान् । ए॒ताव॑न्ति । ज्योतीँ॑षि । अवेति॑ । रु॒न्द्धे॒ ॥ [7]
+ए॒ताव॑तः । ए॒व । स्तोमान्॑ । ए॒ताव॑तः । कामान्॑ । ए॒ताव॑तः । लो॒कान् । ए॒ताव॑न्ति । ज्योतीँ॑षि । अवेति॑ । रु॒न्द्धे॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

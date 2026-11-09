@@ -32,6 +32,8 @@ The Angirases performed a sacrificial session.
 </details>
 
 <details><summary>पद-पाठः</summary>
+
+अङ्गि॑रसः । वै । स॒त्त्रम् । आ॒स॒त॒ ।
 </details>
 
 <details><summary>प्रदीपसिंहः</summary>
@@ -59,6 +61,11 @@ They went to the world of heaven.
 ते सु॑व॒र्गल्ँ लो॒कमा॑यन् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ते । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । आ॒य॒न् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षाँ +++(जनद्वयम्)+++ हवि᳓ष्माँश् च हविष्कृ᳓च् चाहीयेताम् ।
@@ -76,9 +83,7 @@ Of them Havismant and Haviskrt were left behind.
 
 <details><summary>पद-पाठः</summary>
 
-ते । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । आ॒य॒न् ।     
-
-तेषा॑म् । ह॒विष्मान्॑ । च॒ । ह॒वि॒ष्कृदिति॑ हविः-कृत् । च॒ । अ॒ही॒ये॒ता॒म् ।     
+तेषा॑म् । ह॒विष्मान्॑ । च॒ । ह॒वि॒ष्कृदिति॑ हविः-कृत् । च॒ । अ॒ही॒ये॒ता॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -101,6 +106,18 @@ They desired, 'May we two go to the world of heaven.'
 ताव् अ॑कामयेताम् - सुव॒र्गल्ँ लो॒कम् इ॒या॒वेति॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तौ । अ॒का॒म॒ये॒ता॒म् । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । इ॒या॒व॒ । इति॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तावकामयेतामिति । चत्वारो द्विरात्राः व्युष्टिद्विरात्राङ्गिरसकपिवन चेत्ररथनामानः ।   
+
+तत्रैतमित्याङ्गिरसं निर्दिशति इतरनिवृत्त्यर्थम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓व् एत᳓न् +++(आङ्गिरसम्)+++ द्विरात्र᳓म् अपश्यताम् ।
@@ -118,17 +135,7 @@ They two saw this two-night rite,
 
 <details><summary>पद-पाठः</summary>
 
-तौ । अ॒का॒म॒ये॒ता॒म् ।   
-सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । इ॒या॒व॒ । इति॑ ।   
-
-तौ । ए॒तम् । द्वि॒रा॒त्रमिति॑ द्वि-रा॒त्रम् । अ॒प॒श्य॒ता॒म् ।  
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-तावकामयेतामिति । चत्वारो द्विरात्राः व्युष्टिद्विरात्राङ्गिरसकपिवन चेत्ररथनामानः ।   
-
-तत्रैतमित्याङ्गिरसं निर्दिशति इतरनिवृत्त्यर्थम् ।
+तौ । ए॒तम् । द्वि॒रा॒त्रमिति॑ द्वि-रा॒त्रम् । अ॒प॒श्य॒ता॒म् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -141,6 +148,21 @@ They two saw this two-night rite,
 they grasped it, and sacrificed with it.
 </details>
 
+<details><summary>मूलम्</summary>
+
+तमाह॑रताम् । तेना॑यजेताम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । एति॑ । अ॒ह॒र॒ता॒म् । तेन॑ । अ॒य॒जे॒ता॒म् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तमाहरतां इष्टसाधन त्वेन गृहीतवन्तौ, तेनायजेतां इष्टं साधितवन्तौ । यद्वा - तमाहरतां तमारभेतां तेन अयजेतां देवान् पूजितवन्तौ ततस्स्वर्गं गतौ ।   
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ तौ᳓ सुवर्गल्ँ᳓ लोक᳓मैताम्।  
@@ -151,6 +173,21 @@ they grasped it, and sacrificed with it.
 Then they went to the world of heaven.
 </details>
 
+<details><summary>मूलम्</summary>
+
+ततो॒ वै तौ सु॑व॒र्गल्ँ लो॒कमै॑ताम् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ततः॑ । वै । तौ । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । ऐ॒ता॒म् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ऐतां स्वर्गार्थं प्रस्थितौ,   
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न् द्विरात्रे᳓ण य᳓जते, सुवर्ग᳓म् एव᳓ लोक᳓म् एति।  
@@ -159,6 +196,16 @@ Then they went to the world of heaven.
 <details><summary>Keith</summary>
 
 He, who knowing thus offers the two-night sacrifice, goes to the world of heaven.
+</details>
+
+<details><summary>मूलम्</summary>
+
+य ए॒वव्ँ वि॒द्वान् द्वि॑रा॒त्रेण॒ यज॑ते, सुव॒र्गम् ए॒व लो॒कम् ए॑ति।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । ए॒वम् । वि॒द्वान् । द्वि॒रा॒त्रेणेति॑ द्वि-रा॒त्रेण॑ । यज॑ते । सु॒व॒र्गमिति॑ सुवः-गम् । ए॒व । लो॒कम् । ए॒ति॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -173,47 +220,12 @@ They went with the first day and arrived with the second [1].
 
 <details><summary>मूलम्</summary>
 
-तमाह॑रताम् ।  तेना॑यजेताम् ।   
+तावैता॒म् पूर्वे॒णाऽह्नाऽग॑च्छता॒म् उत्त॑रेण । [11]
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-तम् । एति॑ । अ॒ह॒र॒ता॒म् ।     
-तेन॑ । अ॒य॒जे॒ता॒म् ।     
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-तमाहरतां इष्टसाधन त्वेन गृहीतवन्तौ, तेनायजेतां इष्टं साधितवन्तौ । यद्वा - तमाहरतां तमारभेतां तेन अयजेतां देवान् पूजितवन्तौ ततस्स्वर्गं गतौ ।   
-</details>
-
-<details><summary>मूलम्</summary>
-
-ततो॒ वै तौ सु॑व॒र्गल्ँ लो॒कमै॑ताम् ।  
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-ततः॑ । वै । तौ । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । ऐ॒ता॒म् ।   
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ऐतां स्वर्गार्थं प्रस्थितौ,   
-</details>
-
-<details><summary>मूलम्</summary>
-
-य ए॒वव्ँ वि॒द्वान् द्वि॑रा॒त्रेण॒ यज॑ते, सुव॒र्गम् ए॒व लो॒कम् ए॑ति।  
-
-तावैताम् पूर्वे॒णाऽह्नाऽग॑च्छता॒म् उत्त॑रेण । 
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-यः । ए॒वम् । वि॒द्वान् । द्वि॒रा॒त्रेणेति॑ द्वि-रा॒त्रेण॑ । यज॑ते । सु॒व॒र्गमिति॑ सुवः-गम् । ए॒व । लो॒कम् । ए॒ति॒ । 
-
-तौ । ऐता॑म् । पूर्वे॑ण । अह्ना॑ । अग॑च्छताम् । उत्त॑रे॒णेत्युत्-त॒रे॒ण॒ । [11]
+तौ । ऐता॑म् । पूर्वे॑ण । अह्ना॑ । अग॑च्छताम् । उत्त॑रे॒णेत्युत्-त॒रे॒ण॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -296,8 +308,7 @@ The second day is an Atiratra with all the Stomas, that he may obtain all and wi
 
 <details><summary>पद-पाठः</summary>
 
-सर्व॑स्तोम॒ इति॒ सर्व॑-स्तो॒मः॒ । अ॒ति॒रा॒त्र इत्य॑ति-रा॒त्रः । उत्त॑र॒मित्युत्-त॒र॒म् ।   
-सर्व॑स्य । आप्त्यै॑ । सर्व॑स्य । अव॑रुद्ध्या॒ इत्यव॑-रु॒द्ध्यै॒ ।     
+सर्व॑स्तोम॒ इति॒ सर्व॑-स्तो॒मः॒ । अ॒ति॒रा॒त्र इत्य॑ति-रा॒त्रः । उत्त॑र॒मित्युत्-त॒र॒म् । सर्व॑स्य । आप्त्यै॑ । सर्व॑स्य । अव॑रुद्ध्या॒ इत्यव॑-रु॒द्ध्यै॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -320,6 +331,16 @@ On the first day the Saman is in the Gayatri (metre).
 गा॒य॒त्रम्पूर्वेह॒न्त्साम॑ भवति।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+गा॒य॒त्रम् । पूर्वे॑ । अह॑न् । साम॑ । भ॒व॒ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+3गायत्रं गायत्रीप्रभवं पूर्वेऽह्नि साम भवति।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓जो वै᳓ गायत्री᳓। गा᳓यत्री᳓ ब्रह्मवर्चस᳓म्। ते᳓ज एव᳓ ब्रह्मवर्चस᳓म् अ᳓त्म᳓न् धत्ते।
@@ -337,15 +358,7 @@ The Gayatri is brilliance and splendour; verily he bestows brilliance and splend
 
 <details><summary>पद-पाठः</summary>
 
-गा॒य॒त्रम् । पूर्वे॑ । अह॑न् । साम॑ । भ॒व॒ति॒ ।   
-तेजः॑ । वै । गा॒य॒त्री ।   
-गा॒य॒त्री । ब्र॒ह्म॒व॒र्च॒समिति॑ ब्रह्म-व॒र्च॒सम् ।   
-तेजः॑ । ए॒व । ब्र॒ह्म॒व॒र्च॒समिति॑ ब्रह्म-व॒र्च॒सम् । आ॒त्मन् । ध॒त्ते॒ ।  
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-3गायत्रं गायत्रीप्रभवं पूर्वेऽह्नि साम भवति।
+तेजः॑ । वै । गा॒य॒त्री । गा॒य॒त्री । ब्र॒ह्म॒व॒र्च॒समिति॑ ब्रह्म-व॒र्च॒सम् । तेजः॑ । ए॒व । ब्र॒ह्म॒व॒र्च॒समिति॑ ब्रह्म-व॒र्च॒सम् । आ॒त्मन् । ध॒त्ते॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -361,6 +374,19 @@ On the second day (the Saman) is in the Tristubh metre.
 <details><summary>मूलम्</summary>
 
 त्रैष्टु॑भ॒मुत्त॑र॒
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रैष्टु॑भम् । उत्त॑र॒ इत्युत्-त॒रे॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+त्रैष्टुभमुत्तरस्मिन्नह्नि ।
+आज्ये त्रैष्टुभस्य साम्नोभावात् होतुराज्ये विधानम् ।
+
+यथोक्तमाचार्येण - 'होतुराज्यं संपादयेत्' इति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -381,21 +407,12 @@ The Tristubh is force and strength; verily he bestows force and strength on hims
 
 <details><summary>पद-पाठः</summary>
 
-त्रैष्टु॑भम् । उत्त॑र॒ इत्युत्-त॒रे॒ ।     
-ओजः॑ । वै । वी॒र्य॑म् । त्रि॒ष्टुक् ॥   
-ओजः॑ । ए॒व । वी॒र्य॑म् । आ॒त्मन् । ध॒त्ते॒ ।  
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-त्रैष्टुभमुत्तरस्मिन्नह्नि ।
-आज्ये त्रैष्टुभस्य साम्नोभावात् होतुराज्ये विधानम् । यथोक्तमाचार्येण - 'होतुराज्यं संपादयेत्' इति ॥
+ओजः॑ । वै । वी॒र्य॑म् । त्रि॒ष्टुक् ॥ ओजः॑ । ए॒व । वी॒र्य॑म् । आ॒त्मन् । ध॒त्ते॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रथन्तर᳓म् पू᳓र्वे᳓ऽहन्त् सा᳓म भवति ।  
-इयव्ँ᳓ वै᳓ रथन्तर᳓म्। अस्या᳓म् एव᳓ प्र᳓ति तिष्ठति।
+रथन्तर᳓म् पू᳓र्वे᳓ऽहन्त् सा᳓म भवति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -410,7 +427,7 @@ The Saman on the first day [2] is the Rathantara.
 
 <details><summary>पद-पाठः</summary>
 
-र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् । पूर्वे॑ । [12] । अह॑न् । साम॑ । भ॒व॒ति॒ ।   
+र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् । पूर्वे॑ । अह॑न् । साम॑ । भ॒व॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -420,9 +437,7 @@ The Saman on the first day [2] is the Rathantara.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इयव्ँ᳓ वै᳓  रथन्तर᳓मस्या᳓मेव᳓ प्र᳓ति तिष्ठति,
-बृह᳓दु᳓त्तरेऽसौ᳓ वै᳓ बृह᳓दमु᳓ष्यामेव᳓ प्र᳓ति तिष्ठति।  
-त᳓दाहुᳵ क्व᳙ ज᳓गती चानुष्टु᳓प्चे᳓ति ।
+इयव्ँ᳓ वै᳓  रथन्तर᳓म्। अस्या᳓मेव᳓ प्र᳓ति तिष्ठति।
 </details>
 
 <details><summary>Keith</summary>
@@ -437,8 +452,7 @@ The Rathantara is this (earth); verily he stands firm on this (earth).
 
 <details><summary>पद-पाठः</summary>
 
-इ॒यम् । वै । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् ।     
-अ॒स्याम् । ए॒व । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।     
+इ॒यम् । वै । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् । अ॒स्याम् । ए॒व । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -453,8 +467,12 @@ The Rathantara is this (earth); verily he stands firm on this (earth).
 
 <details><summary>मूलम्</summary>
 
-बृ॒हदुत्त॑रे॒ऽसौ वै बृ॒हद॒मुष्या॑मे॒व प्रति॑ तिष्ठति।  
-तदा॑हु॒ᳵ क्व॑ जग॑ती चानु॒ष्टुप्चेति॑ ।
+बृ॒हदुत्त॑रे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बृ॒हत् । उत्त॑र॒ इत्युत्-त॒रे॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -467,6 +485,16 @@ The Rathantara is this (earth); verily he stands firm on this (earth).
 The Brhat is yonder (sky); verily he stands firm on yonder (sky).
 </details>
 
+<details><summary>मूलम्</summary>
+
+अ॒सौ वै बृ॒हद॒मुष्या॑मे॒व प्रति॑ तिष्ठति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒सौ । वै । बृ॒हत् । अ॒मुष्या॑म् । ए॒व । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् आहुᳶ- क्व᳙ ज᳓गती चानुष्टु᳓प् चे᳓ति ।
@@ -477,18 +505,23 @@ The Brhat is yonder (sky); verily he stands firm on yonder (sky).
 They say, 'Where are the Jagati and the Anustubh?'
 </details>
 
+<details><summary>मूलम्</summary>
+
+तदा॑हु॒ᳵ क्व॑ जग॑ती चानु॒ष्टुप्चेति॑ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
-बृ॒हत् । उत्त॑र॒ इत्युत्-त॒रे॒ ।   
-अ॒सौ । वै । बृ॒हत् ।   
-अ॒मुष्या॑म् । ए॒व । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।   
-तत् । आ॒हुः॒ ।     
-क्व॑ । जग॑ती । च॒ । अ॒नु॒ष्टुबित्य॑नु-स्तुप् । च॒ । इति॑ ।
+तत् । आ॒हुः॒ । क्व॑ । जग॑ती । च॒ । अ॒नु॒ष्टुबित्य॑नु-स्तुप् । च॒ । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तदाहुरिति । तत्र चोदयन्तीत्यर्थः । एते गायत्रीत्रिष्टुभौ दृष्टे । क्वेदानीं जगत्यनुष्टुभौ द्रष्टव्ये इति ॥
+तदाहुरिति ।
+
+तत्र चोदयन्तीत्यर्थः । एते गायत्रीत्रिष्टुभौ दृष्टे ।
+
+क्वेदानीं जगत्यनुष्टुभौ द्रष्टव्ये इति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -588,8 +621,7 @@ Then they say, 'If the days fall in the same half month, then the strength of on
 
 <details><summary>पद-पाठः</summary>
 
-अथ॑ । आ॒हुः॒  ।   
-यत् । स॒मा॒ने । अ॒र्ध॒मा॒स इत्य॑र्ध-मा॒से । स्याता॑म् । अ॒न्य॒त॒रस्य॑ । अह्नः॑ । वी॒र्य॑म् । अन्विति॑ । प॒द्ये॒त॒ । इति॑  ।    
+अथ॑ । आ॒हुः॒ । यत् । स॒मा॒ने । अ॒र्ध॒मा॒स इत्य॑र्ध-मा॒से । स्याता॑म् । अ॒न्य॒त॒रस्य॑ । अह्नः॑ । वी॒र्य॑म् । अन्विति॑ । प॒द्ये॒त॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -615,8 +647,7 @@ The first day takes place on the night of new moon;
 
 <details><summary>पद-पाठः</summary>
 
-अ॒मा॒वा॒स्या॑या॒मित्य॑मा-वा॒स्या॑याम् । पूर्व॑म् । अहः॑ । भ॒व॒ति॒ । 
-उत्त॑रस्मि॒न्नित्युत्-त॒र॒स्मि॒न् । उत्त॑र॒मित्युत्-त॒र॒म्  ।    
+इति॑ । अ॒मा॒वा॒स्या॑या॒मित्य॑मा-वा॒स्या॑याम् । पूर्व॑म् । अहः॑ । भ॒व॒ति॒ । उत्त॑रस्मि॒न्नित्युत्-त॒र॒स्मि॒न् । उत्त॑र॒मित्युत्-त॒र॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -641,8 +672,7 @@ the second on the next day, verily the days fall on separate half-months, and ha
 
 <details><summary>पद-पाठः</summary>
 
-नाना॑ । ए॒व । अ॒र्ध॒मा॒सयो॒रित्य॑र्ध-मा॒सयोः॑ । भ॒व॒तः॒  ।     
-नाना॑वीर्ये॒ इति॒ नाना॑-वी॒र्ये॒ । भ॒व॒तः॒  ।  
+नाना॑ । ए॒व । अ॒र्ध॒मा॒सयो॒रित्य॑र्ध-मा॒सयोः॑ । भ॒व॒तः॒ । नाना॑वीर्ये॒ इति॒ नाना॑-वी॒र्ये॒ । भ॒व॒तः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -692,7 +722,7 @@ the second Haviskrt in the finale, for support.
 
 <details><summary>पद-पाठः</summary>
 
-ह॒वि॒ष्कृन्नि॑धन॒मिति॑ हवि॒ष्कृत्-नि॒ध॒न॒म् । उत्त॑र॒मित्युत्-त॒र॒म्  । प्रति॑ष्ठित्या॒ इति॒ प्रति॑-स्थि॒त्यै॒ ॥ [13]
+ह॒वि॒ष्कृन्नि॑धन॒मिति॑ हवि॒ष्कृत्-नि॒ध॒न॒म् । उत्त॑र॒मित्युत्-त॒र॒म् । प्रति॑ष्ठित्या॒ इति॒ प्रति॑-स्थि॒त्यै॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

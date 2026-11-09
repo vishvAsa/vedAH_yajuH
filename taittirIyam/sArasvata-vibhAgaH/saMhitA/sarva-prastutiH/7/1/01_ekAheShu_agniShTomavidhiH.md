@@ -270,7 +270,7 @@ This sacrifice is commensurate with man, and is perfect [1].
 
 <details><summary>पद-पाठः</summary>
 
-पुरु॑षसम्मित॒ इति॒ पुरु॑ष-स॒म्मि॒तः॒ । वै । ए॒षः । य॒ज्ञः । अस्थू॑रिः । [1]
+पुरु॑षसम्मित॒ इति॒ पुरु॑ष-स॒म्मि॒तः॒ । वै । ए॒षः । य॒ज्ञः । अस्थू॑रिः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -330,11 +330,6 @@ By means of the Agnistoma Prajapati created off spring;
 3अय यदुक्तं 'प्रजननं ज्योतिः' इति, तत्समर्थयते अग्निष्टोमेनेत्यादिना ॥ अप्रजाताः प्रजा अजनयत्, प्रजाताश्च पर्यगृह्णात् विधेयीकृतवान् ।
 </details>
 
-<details><summary>मूलम्</summary>
-
-ता अ॒ग्नि॒ष्टो॒मेनै॒व पर्य॑गृह्णात् ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ अग्निष्टोमे᳓नैव᳓ प᳓र्यगृह्णात्+++(=विधेयीकृतवान्)+++ ।
@@ -352,7 +347,7 @@ by means of the Agnistoma he grasped them.
 
 <details><summary>पद-पाठः</summary>
 
-ताः । अ॒ग्नि॒ष्टो॒मेनेत्य॑ग्नि-स्तो॒मेन॑ । ए॒व । परीति॑ । अ॒गृ॒ह्णा॒त् ।   
+ताः । अ॒ग्नि॒ष्टो॒मेनेत्य॑ग्नि-स्तो॒मेन॑ । ए॒व । परीति॑ । अ॒गृ॒ह्णा॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -530,7 +525,7 @@ They also say, 'In the plants [2] he placed it.'
 
 <details><summary>पद-पाठः</summary>
 
-अथो॒ इति॑ । आ॒हुः॒  ।  ओष॑धीषु । [2] नीति॑ । अ॒मा॒र्ट्॒ । इति॑ ।   
+अथो॒ इति॑ । आ॒हुः॒  ।  ओष॑धीषु । नीति॑ । अ॒मा॒र्ट्॒ । इति॑ ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -719,6 +714,7 @@ for he escaped.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न् +++(स)+++ अग्निष्टोमे᳓न य᳓जते᳓+++(→यजेत)+++ - प्रा᳓जाताᳶ प्रजा᳓ जन᳓यति,
+प᳓रि प्र᳓जाता गृह्णाति।
 </details>
 
 <details><summary>Keith</summary>
@@ -728,10 +724,27 @@ He who knowing thus sacrifices with the Agnistoma begets unborn offspring and gr
 
 <details><summary>मूलम्</summary>
 
-य ए॒वव्ँवि॒द्वान् अ॒ग्नि॒ष्टो॒मेन॒ यज॑ते प्राजा॑ताᳶ प्र॒जा ज॒नय॑ति॒ परि॒ प्रजा॑ता गृह्णाति॒
+य ए॒वव्ँवि॒द्वान् अ॒ग्नि॒ष्टो॒मेन॒ यज॑ते प्राजा॑ताᳶ प्र॒जा ज॒नय॑ति॒ परि॒ प्रजा॑ता गृह्णाति॒ ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>प᳓रि प्र᳓जाता गृह्णाति।</details>
+<details><summary>पद-पाठः</summary>
+
+यः । ए॒वम् । वि॒द्वान् । अ॒ग्नि॒ष्टो॒मेनेत्य॑ग्नि-स्तो॒मेन॑ । यज॑ते । प्रेति॑ । अजा॑ताः । प्र॒जा इति॑ प्र-जाः । ज॒नय॑ति । परीति॑ । प्रजा॑ता॒ इति॒ प्र-जा॒ताः॒ । गृ॒ह्णा॒ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+5य एवमित्यादि ॥
+
+तस्मादग्निष्टोमेन यजेतेति विधिरनुमीयते ।
+
+'चादिलोपे विभाषा' इति प्रथमा तिङ्विभक्तिर्न निहन्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓स्माद् आहुर् - "ज्येष्ठय॒ज्ञ" इ᳓ति ।
+</details>
 
 <details><summary>Keith</summary>
 
@@ -740,32 +753,29 @@ Therefore they say, 'It is the best of sacrifices [3].'
 
 <details><summary>मूलम्</summary>
 
-तस्मा॑दाहुर् - ज्येष्ठय॒ज्ञ इति॑।
+तस्मा॑दाहुर् - ज्येष्ठय॒ज्ञ इति॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-यः । ए॒वम् । वि॒द्वान् । अ॒ग्नि॒ष्टो॒मेनेत्य॑ग्नि-स्तो॒मेन॑ । यज॑ते । प्रेति॑ । अजा॑ताः । प्र॒जा इति॑ प्र-जाः । ज॒नय॑ति । परीति॑ । प्रजा॑ता॒ इति॒ प्र-जा॒ताः॒ । गृ॒ह्णा॒ति॒ ।    
-तस्मा॑त् । आ॒हुः॒  ।     
-ज्ये॒ष्ठ॒य॒ज्ञ इति॑ ज्येष्ठ-य॒ज्ञः । इति॑ । [3] 
+तस्मा॑त् । आ॒हुः॒ । ज्ये॒ष्ठ॒य॒ज्ञ इति॑ ज्येष्ठ-य॒ज्ञः । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-5य एवमित्यादि ॥ तस्मादग्निष्टोमेन यजेतेति विधिरनुमीयते । 'चादिलोपे विभाषा' इति प्रथमा तिङ्विभक्तिर्न निहन्यते । 
+तस्मादाहुरिति । यस्मादेवं प्रजासृष्ट्यर्थं प्रजापतिरनेनायजत तस्मादिममग्निष्टोमं ज्येष्ठयज्ञमाहुः।
 
-तस्मादाहुरिति । यस्मादेवं प्रजासृष्ट्यर्थं प्रजापतिरनेनायजत तस्मादिममग्निष्टोमं ज्येष्ठयज्ञमाहुः। ज्येष्ठस्य प्रशस्तस्य प्रजापतेः यज्ञ इति कृत्वा । 
+ज्येष्ठस्य प्रशस्तस्य प्रजापतेः यज्ञ इति कृत्वा ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजा᳓पतिर् वा᳓+++(वै)+++व᳓ ज्ये᳓ष्ठः ।   
-स᳓ ह्य् एते᳓ना᳓ऽऽग्रे᳓ ऽयजत । +++(अतो ऽग्निष्ठोमो ज्येष्ठः।)+++
+प्रजा᳓पतिर् वा᳓+++(वै)+++व᳓ ज्ये᳓ष्ठः ।
 </details>
 
 <details><summary>Keith</summary>
 
-Prajapati indeed is the best, for he sacrificed with it first.
+Prajapati indeed is the best,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -776,12 +786,21 @@ Prajapati indeed is the best, for he sacrificed with it first.
 <details><summary>पद-पाठः</summary>
 
 प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । वाव । ज्येष्ठः॑ ।   
-सः । हि । ए॒तेन॑ । अग्रे॑ । अय॑जत ।      
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तदेवाह - प्रजापतिर्वावेत्यादि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स᳓ ह्य् एते᳓ना᳓ऽऽग्रे᳓ ऽयजत । +++(अतो ऽग्निष्ठोमो ज्येष्ठः।)+++
+</details>
+
+<details><summary>Keith</summary>
+
+for he sacrificed with it first.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -809,6 +828,11 @@ Prajapati indeed is the best, for he sacrificed with it first.
 <details><summary>Keith</summary>
 
 Prajapati desired, 'May I have offspring.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्र॒जाप॑तिरकामयत॒ प्र जा॑ये॒येति॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -932,7 +956,7 @@ _____
 <details><summary>Keith</summary>
 
 From the breast and arms he meted out the Pañcadaśa Stoma.
-</details>>
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -966,7 +990,7 @@ After it the god Indra was created, the Tristubh metre, the Brhat [4] Saman, of 
 
 <details><summary>पद-पाठः</summary>
 
-तम् । इन्द्रः॑ । दे॒वता॑ । अन्विति॑ । अ॒सृ॒ज्य॒त॒ । त्रि॒ष्टुप् । छन्दः॑ । बृ॒हत् । [4] साम॑ । रा॒ज॒न्यः॑ । म॒नु॒ष्या॑णाम् । अविः॑ । प॒शू॒नाम् ।   
+तम् । इन्द्रः॑ । दे॒वता॑ । अन्विति॑ । अ॒सृ॒ज्य॒त॒ । त्रि॒ष्टुप् । छन्दः॑ । बृ॒हत् । साम॑ । रा॒ज॒न्यः॑ । म॒नु॒ष्या॑णाम् । अविः॑ । प॒शू॒नाम् ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -982,6 +1006,11 @@ After it the god Indra was created, the Tristubh metre, the Brhat [4] Saman, of 
 <details><summary>Keith</summary>
 
 There fore they are strong,
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मा॑त्ते वी॒र्या॑वन्तः ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1138,6 +1167,11 @@ for they were created after the most numerous of the gods.
 भूयि॑ष्ठा॒ हि दे॒वता॒ अन्वसृ॑ज्यन्त ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+भूयि॑ष्ठाः । हि । दे॒वताः॑ । अन्विति॑ । असृ॑ज्यन्त ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तमेव हेतुमाह - यस्मात् भूयिष्ठाभिर्बहुतमाभिः देवताभिर्विश्वेदेवाख्याभिस्सहासृज्यन्त जगत्यादयः तस्मात् भूयांसोन्येभ्यः, अन्ये त्वेकैकामनूत्पन्ना इति नातिभूयांसः ॥
@@ -1190,7 +1224,7 @@ After it the Anustubh metre [5] was created, the Vairaja Saman, of men the Śudr
 
 <details><summary>पद-पाठः</summary>
 
-तम् । अ॒नु॒ष्टुबित्य॑नु-स्तुप् । छन्दः॑ । [5] अन्विति॑ । अ॒सृ॒ज्य॒त॒ ।   
+तम् । अ॒नु॒ष्टुबित्य॑नु-स्तुप् । छन्दः॑ । अन्विति॑ । अ॒सृ॒ज्य॒त॒ ।   
 वै॒रा॒जम् । साम॑ । शू॒द्रः । म॒नु॒ष्या॑णाम् ।   
 अश्वः॑ । प॒शू॒नाम् । 
 </details>
@@ -1521,7 +1555,7 @@ He who knows thus rests on this, finds, support in this.
 
 <details><summary>पद-पाठः</summary>
 
-यः । ए॒वम् । वेद॑ । ए॒तस्मि॑न् । ए॒व । श्र॒य॒ते॒ । ए॒तस्मि॑न् । प्रतीति॑ । ति॒ष्ठ॒ति॒ ॥ [6]
+यः । ए॒वम् । वेद॑ । ए॒तस्मि॑न् । ए॒व । श्र॒य॒ते॒ । ए॒तस्मि॑न् । प्रतीति॑ । ति॒ष्ठ॒ति॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

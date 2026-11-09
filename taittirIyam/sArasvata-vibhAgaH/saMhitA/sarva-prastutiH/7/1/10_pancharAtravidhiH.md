@@ -88,6 +88,16 @@ He saw this five-night rite; he grasped it and sacrificed with it.
 स ए॒तम् प॑ञ्चरा॒त्रम॑पश्यत् । तमाह॑रत् । तेना॑यजत ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सः । ए॒तम् । प॒ञ्च॒रा॒त्रमिति॑ पञ्च-रा॒त्रम् । अ॒प॒श्य॒त् । तम् । एति॑ । अ॒ह॒र॒त् । तेन॑ । अ॒य॒ज॒त॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+स एतमित्यादि । गतम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ स᳓ ऋतू᳓नसृजत ।
@@ -105,14 +115,7 @@ Then indeed he created the seasons.
 
 <details><summary>पद-पाठः</summary>
 
-सः । ए॒तम् । प॒ञ्च॒रा॒त्रमिति॑ पञ्च-रा॒त्रम् । अ॒प॒श्य॒त् ।   
-तम् । एति॑ । अ॒ह॒र॒त् । तेन॑ । अ॒य॒ज॒त॒ ।   
-ततः॑ । वै । सः । ऋ॒तून् । अ॒सृ॒ज॒त॒ ।   
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-स एतमित्यादि । गतम् ।
+ततः॑ । वै । सः । ऋ॒तून् । अ॒सृ॒ज॒त॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -175,6 +178,16 @@ The seasons being created were not distinguished.
 They saw this five-night rite.
 </details>
 
+<details><summary>मूलम्</summary>
+
+त ए॒तम् प॑ञ्चरा॒त्रम् अ॑पश्यन् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । ए॒तम् । प॒ञ्च॒रा॒त्रमिति॑ पञ्च-रा॒त्रम् । अ॒प॒श्य॒न् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓मा᳓हरन् । ते᳓नायजन्त ।  
@@ -183,6 +196,17 @@ They saw this five-night rite.
 <details><summary>Keith</summary>
 
 They grasped it and sacrificed with it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तमाह॑र॒न् । 
+ तेना॑यजन्त ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । एति॑ । अ॒ह॒र॒न् । तेन॑ । अ॒य॒ज॒न्त॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -197,17 +221,12 @@ Then they were distinguished [1].
 
 <details><summary>मूलम्</summary>
 
-त ए॒तम् प॑ञ्चरा॒त्रम् अ॑पश्यन् ।  
-तमाह॑र॒न् । तेना॑यजन्त ।  
-ततो॒ वै ते व्याव॑र्तन्त ।[36]  
+ततो॒ वै ते व्याव॑र्तन्त । [36]
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-ते । ए॒तम् । प॒ञ्च॒रा॒त्रमिति॑ पञ्च-रा॒त्रम् । अ॒प॒श्य॒न् ।   
-तम् । एति॑ । अ॒ह॒र॒न् ।     
-तेन॑ । अ॒य॒ज॒न्त॒  ।     
-ततः॑ । वै । ते । व्याव॑र्त॒न्तेति॑ वि-आव॑र्तन्त । [36]
+ततः॑ । वै । ते । व्याव॑र्त॒न्तेति॑ वि-आव॑र्तन्त ।
 </details>
 
 <details><summary>प्रदीपसिंहः</summary>
@@ -280,6 +299,22 @@ Sarvaseni Śauceya desired, 'May I be rich in cattle.'
 He grasped this five-night rite and sacrificed with it.
 </details>
 
+<details><summary>मूलम्</summary>
+
+स ए॒तम् प॑ञ्चरा॒त्रमाह॑रत् । 
+ तेना॑यजत ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । ए॒तम् । प॒ञ्च॒रा॒त्रमिति॑ पञ्च-रा॒त्रम् । एति॑ । अ॒ह॒र॒त् । तेन॑ । अ॒य॒ज॒त॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+गतमन्यत् ॥ +++(सम्पादकटिप्पनी - व्याख्यानम् अन्यत्र मृग्यम्।)+++ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ स᳓ सह᳓स्रम्पशू᳓न्प्रा᳓प्नोत् ।  
@@ -288,6 +323,16 @@ He grasped this five-night rite and sacrificed with it.
 <details><summary>Keith</summary>
 
 Then indeed he obtained a thousand cattle.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततो॒ वै स स॒हस्र॑म्प॒शून्प्राप्नो॑त् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ततः॑ । वै । सः । स॒हस्र॑म् । प॒शून् । प्रेति॑ । आ॒प्नो॒त् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -303,23 +348,13 @@ He who knowing thus offers the five-night rite obtains a thousand cattle.
 
 <details><summary>मूलम्</summary>
 
-स ए॒तम् प॑ञ्चरा॒त्रमाह॑रत् ।  
-तेना॑यजत । ततो॒ वै स स॒हस्र॑म्प॒शून्प्राप्नो॑त् ।  
 य ए॒वव्ँवि॒द्वान्प॑ञ्चरा॒त्रेण॒ यज॑ते॒ ,
 प्र स॒हस्र॑म् प॒शूना॑प्नोति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-सः । ए॒तम् । प॒ञ्च॒रा॒त्रमिति॑ पञ्च-रा॒त्रम् । एति॑ । अ॒ह॒र॒त् ।   
-तेन॑ । अ॒य॒ज॒त॒ ।   
-ततः॑ । वै । सः । स॒हस्र॑म् । प॒शून् । प्रेति॑ । आ॒प्नो॒त् ।   
-यः । ए॒वम् । वि॒द्वान् । प॒ञ्च॒रा॒त्रेणेति॑ पञ्च-रा॒त्रेण॑ । यज॑ते । प्रेति॑ । स॒हस्र॑म् । प॒शून् । आ॒प्नो॒ति॒ । 
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-गतमन्यत् ॥ +++(सम्पादकटिप्पनी - व्याख्यानम् अन्यत्र मृग्यम्।)+++ ।
+यः । ए॒वम् । वि॒द्वान् । प॒ञ्च॒रा॒त्रेणेति॑ पञ्च-रा॒त्रेण॑ । यज॑ते । प्रेति॑ । स॒हस्र॑म् । प॒शून् । आ॒प्नो॒ति॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -361,6 +396,17 @@ Babara Pravahani desired, 'May I be a speaker of speech.'
 He grasped the five-night rite [2] and sacrificed with it.
 </details>
 
+<details><summary>मूलम्</summary>
+
+स ए॒तम् प॑ञ्चरा॒त्रमाह॑रत् [37] । 
+ तेना॑यजत ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । ए॒तम् । प॒ञ्च॒रा॒त्रमिति॑ पञ्च-रा॒त्रम् । एति॑ । अ॒ह॒र॒त् । तेन॑ । अ॒य॒ज॒त॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ स᳓ वाचᳶ᳓ प्रवदिता᳓भवद् ।  
@@ -369,6 +415,16 @@ He grasped the five-night rite [2] and sacrificed with it.
 <details><summary>Keith</summary>
 
 Then indeed he became a speaker of speech.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततो॒ वै स वा॒चᳶ प्र॑वदि॒ताभ॑वद् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ततः॑ । वै । सः । वा॒चः । प्र॒व॒दि॒तेति॑ प्र-व॒दि॒ता । अ॒भ॒व॒त् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -384,19 +440,13 @@ He, who knowing thus offers the five-night rite, becomes a speaker of speech,
 
 <details><summary>मूलम्</summary>
 
-स ए॒तम् प॑ञ्चरा॒त्रमाह॑रत् [37] ।
-तेना॑यजत ।  
-ततो॒ वै स वा॒चᳶ प्र॑वदि॒ताभ॑वद् ।  
 य ए॒वव्ँ वि॒द्वान् प॑ञ्चरा॒त्रेण॒ यज॑ते ,
 प्रवदि॒तैव वा॒चो भ॑वति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-सः । ए॒तम् । प॒ञ्च॒रा॒त्रमिति॑ पञ्च-रा॒त्रम् । एति॑ । [37]अ॒ह॒र॒त् ।   
-तेन॑ । अ॒य॒ज॒त॒ ।     
-ततः॑ । वै । सः । वा॒चः । प्र॒व॒दि॒तेति॑ प्र-व॒दि॒ता । अ॒भ॒व॒त् ।     
-यः । ए॒वम् । वि॒द्वान् । प॒ञ्च॒रा॒त्रेणेति॑ पञ्च-रा॒त्रेण॑ । यज॑ते । प्र॒व॒दि॒तेति॑ प्र-व॒दि॒ता । ए॒व । वा॒चः । भ॒व॒ति॒ ।   
+यः । ए॒वम् । वि॒द्वान् । प॒ञ्च॒रा॒त्रेणेति॑ पञ्च-रा॒त्रेण॑ । यज॑ते । प्र॒व॒दि॒तेति॑ प्र-व॒दि॒ता । ए॒व । वा॒चः । भ॒व॒ति॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -427,8 +477,6 @@ and men call him 'lord of speech'.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नाप्तश् चतूरात्रो᳓, ऽतिरिक्तष् षड्रात्रः᳓ +++(यतः - `पञ्चाक्षरा पङ्क्तिः पाङ्क्तो यज्ञः` इति वक्ष्यते)+++।
-अ᳓थ वा᳓ एष᳓ सम्प्रति᳓ यज्ञो᳓ य᳓त् पञ्चरात्रः᳓ ।  
-य᳓ एवव्ँ᳓ विद्वा᳓न् पञ्चरात्रे᳓ण य᳓जते, सम्प्रत्य् ए᳙व यज्ञे᳓न यजते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -515,12 +563,18 @@ He who knowing thus sacrifices with the five-night rite sacrifices with the corr
 The (sacrifices) last five nights;
 </details>
 
+<details><summary>मूलम्</summary>
+
+पञ्चरा॒त्रो भ॑वति ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प॒ञ्च॒रा॒त्र इति॑ पञ्च-रा॒त्रः । भ॒व॒ति॒ ।     
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/panchatA-mahimA.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/panchatA-mahimA.md">
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पञ्चरा॒त्रो भ॑वति॒ पञ्च॒ वा ऋ॒तव॑स्सव्ँवत्स॒रः [38]  
@@ -529,8 +583,12 @@ The (sacrifices) last five nights;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प᳓ञ्च वा᳓ ऋत᳓वस् सव्ँवत्सरः᳓ +++(हेमन्त-शिशिरयोर् एकत्वात्, अथवा ऽन्धसि वर्षर्तोर् अभावात्)+++।[38]  
-ऋतु᳓ष्वेव᳓ सव्ँवत्सरे᳓ प्र᳓ति तिष्ठति ।
+प᳓ञ्च वा᳓ ऋत᳓वस् सव्ँवत्सरः᳓ +++(हेमन्त-शिशिरयोर् एकत्वात्, अथवा ऽन्धसि वर्षर्तोर् अभावात्)+++।[38]
+</details>
+
+<details><summary>Keith</summary>
+
+the year consists of five seasons [3];
 </details>
 
 <details><summary>मूलम्</summary>
@@ -540,7 +598,7 @@ The (sacrifices) last five nights;
 
 <details><summary>पद-पाठः</summary>
 
-पञ्च॑ । वै । ऋ॒तवः॑ । सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रः । [38]
+पञ्च॑ । वै । ऋ॒तवः॑ । सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -548,14 +606,14 @@ The (sacrifices) last five nights;
 पञ्च वा ऋतव इति । हेमन्तशिशिरयोरेकत्वाभिप्रायमिदम् ।
 </details>
 
-<details><summary>Keith</summary>
-
-the year consists of five seasons [3];  
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतु᳓ष्वेव᳓ सव्ँवत्सरे᳓ प्र᳓ति तिष्ठति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he stands firm in the year with its five seasons.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -565,7 +623,7 @@ the year consists of five seasons [3];
 
 <details><summary>पद-पाठः</summary>
 
-ऋ॒तुषु॑ । ए॒व । सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रे । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।   
+ऋ॒तुषु॑ । ए॒व । सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रे । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -573,28 +631,26 @@ the year consists of five seasons [3];
 ऋत्वात्मनि संवत्सरे प्रतिष्ठितो भवति पञ्चसंख्यान्वयात् ।
 </details>
 
-<details><summary>Keith</summary>
-
-verily he stands firm in the year with its five seasons.
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓थो प᳓ञ्चाक्षरा पङ्क्तिः᳓ ।
-पा᳓ङ्क्तो यज्ञो᳓, यज्ञ᳓म् एवा᳓व रुन्धे ।
+अ᳓थो प᳓ञ्चाक्षरा पङ्क्तिः᳓ ।  
+पा᳓ङ्क्तो यज्ञो᳓ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Again the Pankti has five elements, the sacrifice is fivefold;
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथो॒ पञ्चा॑क्षरा प॒ङ्क्तिः ।  
-पाङ्क्तो॑ य॒ज्ञो, य॒ज्ञमे॒वाव॑  रुन्धे ।
+पाङ्क्तो॑ य॒ज्ञो ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-अथो॒ इति॑ । पञ्चा॑क्ष॒रेति॒ पञ्च॑-अ॒क्ष॒रा॒ । प॒ङ्क्तिः ।     
-पाङ्क्तः॑ । य॒ज्ञः ।     
-य॒ज्ञम् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।  
+अथो॒ इति॑ । पञ्चा॑क्ष॒रेति॒ पञ्च॑-अ॒क्ष॒रा॒ । प॒ङ्क्तिः । पाङ्क्तः॑ । य॒ज्ञः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -602,16 +658,32 @@ verily he stands firm in the year with its five seasons.
 अथो अपि च पञ्चाक्षरा पङ्क्तिः पाङ्क्तो यज्ञः पङ्क्तिप्रभवत्वाद्धानादिपञ्चकप्रभवत्वाद्वा । उत्सादित्वादञ् ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यज्ञ᳓म् एवा᳓व रुन्धे ।
+</details>
+
 <details><summary>Keith</summary>
 
-Again the Pankti has five elements,  
-the sacrifice is fivefold; verily he wins the sacrifice.
+verily he wins the sacrifice.
 </details>
+
+<details><summary>मूलम्</summary>
+
+य॒ज्ञमे॒वाव॑ रुन्धे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒ज्ञम् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
+</details>
+
 </div>  
 
 ## भिन्नदिनेष्व् अङ्गानि
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्रि॒वृद॑ग्निष्टो॒मो भ॑वति॒ तेज॑ ए॒वाव॑ रुन्द्धे पञ्चद॒शो भ॑वतीन्द्रि॒यमे॒वाव॑ रुन्द्धे सप्तद॒शो भ॑वत्य॒न्नाद्य॒स्याव॑रुद्ध्या॒ अथो॒ प्रैव तेन॑ जायते 
@@ -619,24 +691,22 @@ the sacrifice is fivefold; verily he wins the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रिवृ᳓द्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अग्निष्टोमो᳓ +++(यागो रथन्तरसामा)+++ भवति +++("अ᳓ग्न आ᳓ याहि" इत्यादेस् त्र्यर्चस्य)+++ । ते᳓ज एवा᳓व रुन्धते ।  
+त्रिवृ᳓द्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अग्निष्टोमो᳓ +++(यागो रथन्तरसामा)+++ भवति +++("अ᳓ग्न आ᳓ याहि" इत्यादेस् त्र्यर्चस्य)+++ ।
 </details>
 
 <details><summary>Keith</summary>
 
-There is an Agnistoma characterized by the Trivrt (Stoma); verily he wins brilliance.
+There is an Agnistoma characterized by the Trivrt (Stoma);
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्रि॒वृद॑ग्निष्टो॒मो भ॑वति॒,
-तेज॑ ए॒वाव॑ रुन्द्धे ।
+त्रि॒वृद॑ग्निष्टो॒मो भ॑वति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-त्रि॒वृदिति॑ त्रि-वृत् । अ॒ग्नि॒ष्टो॒म इत्य॑ग्नि-स्तो॒मः । भ॒व॒ति॒ ।   
-तेजः॑ । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।   
+त्रि॒वृदिति॑ त्रि-वृत् । अ॒ग्नि॒ष्टो॒म इत्य॑ग्नि-स्तो॒मः । भ॒व॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -646,25 +716,42 @@ There is an Agnistoma characterized by the Trivrt (Stoma); verily he wins brilli
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्चदशो᳓ भवति ,
-इ᳓न्द्रिय᳓मेवा᳓व᳓ रु᳓न्द्धे᳓ ।
+ते᳓ज एवा᳓व रुन्धते ।
 </details>
 
 <details><summary>Keith</summary>
 
-There is a Pañcadaśa (Stoma); verily he wins power.
+verily he wins brilliance.
 </details>
 
 <details><summary>मूलम्</summary>
 
-प॒ञ्च॒द॒शो भ॑वति॒ ,
-इन्द्रि॒यमे॒वाव रुन्द्धे ।
+तेज॑ ए॒वाव॑ रुन्द्धे ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः । भ॒व॒ति॒ ।     
-इ॒न्द्रि॒यम् । ए॒व । अवेति॑ । रु॒न्द्धे॒ । 
+तेजः॑ । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पञ्चदशो᳓ भवति ।
+</details>
+
+<details><summary>Keith</summary>
+
+There is a Pañcadaśa (Stoma);
+</details>
+
+<details><summary>मूलम्</summary>
+
+प॒ञ्च॒द॒शो भ॑वति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः । भ॒व॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -674,7 +761,27 @@ There is a Pañcadaśa (Stoma); verily he wins power.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सप्तदशो᳓ भवति ,
+इ᳓न्द्रिय᳓मेवा᳓व᳓ रु᳓न्द्धे᳓ ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he wins power.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्रि॒यमे॒वाव रुन्द्धे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒न्द्रि॒यम् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सप्तदशो᳓ भवति,  
 अन्ना᳓द्यस्या᳓वरुध्यै ।
 </details>
 
@@ -685,14 +792,14 @@ There is a Saptadaśa (Stoma), for the obtainment of food;
 
 <details><summary>मूलम्</summary>
 
-स॒प्त॒द॒शो भ॑वति॒ ,
+स॒प्त॒द॒शो भ॑वति॒ ,  
 अ॒न्नाद्य॒स्याव॑रुध्यै ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-स॒प्त॒द॒श इति॑ सप्त-द॒शः । भ॒व॒ति॒ ।   
-अ॒न्नाद्य॒स्येत्य॑न्न-अद्य॑स्य । अव॑रुद्ध्या॒ इत्यव॑-रु॒द्ध्यै॒ ।  
+स॒प्त॒द॒श इति॑ सप्त-द॒शः । भ॒व॒ति॒ ।  
+अ॒न्नाद्य॒स्येत्य॑न्न-अद्य॑स्य । अव॑रुद्ध्या॒ इत्यव॑-रु॒द्ध्यै॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -717,21 +824,18 @@ verily also he gains offspring by reason of it.
 
 <details><summary>पद-पाठः</summary>
 
-अथो॒ इति॑ । प्रेति॑ । ए॒व । तेन॑ । जा॒य॒ते॒  ।     
+अथो॒ इति॑ । प्रेति॑ । ए॒व । तेन॑ । जा॒य॒ते॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथो अपि च तेन सप्तदशेनाह्ना प्रजायते तस्य प्रजाहेतुत्वात् ।
 </details>
+
 </div>
 
-<details><summary>मूलम् </summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/25-vidhAnam.md">
 
-पञ्चविँ॒शो॑ऽग्निष्टो॒मो भ॑वति प्र॒जाप॑ते॒राप्त्यै॑ महाव्र॒तवा॑न॒न्नाद्य॒स्याव॑रुद्ध्यै  
-</details>
-
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/25-vidhAnam.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पञ्चविँ॒शो॑ऽग्निष्टो॒मो भ॑वति प्र॒जाप॑ते॒राप्त्यै॑ महाव्र॒तवा॑न॒न्नाद्य॒स्याव॑रुद्ध्यै  
@@ -739,43 +843,58 @@ verily also he gains offspring by reason of it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्चविँशो᳙ ऽग्निष्टोमो᳓ +++(यागः)+++ भवति प्रजा᳓पतेर् आ᳓प्त्यै ।  
-महाव्रतवा᳙न् +++(=ये महाव्रतधर्माः 'स्तुवन्त्यनुश्नोकेन' इत्याद्याः तद्वान्)+++ अन्ना᳓द्यस्य᳓ अ᳓वरुद्ध्यै । +++(यथोक्तं महाव्रते 'तदन्नं पञ्चविंशमभवत्' इति ।)+++
+पञ्चविँशो᳙ ऽग्निष्टोमो᳓ +++(यागः)+++ भवति प्रजा᳓पतेर् आ᳓प्त्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+There is an Agnistoma with the Pañcadaśa (Stoma), for the gaining of Prajapati;
 </details>
 
 <details><summary>मूलम्</summary>
 
 प॒ञ्च॒विँ॒शो॑ ऽग्निष्टो॒मो भ॑वति, प्र॒जाप॑ते॒राप्त्यै॑ ।
-म॒हा॒व्र॒तवा॑न् अ॒न्नाद्य॒स्याव॑रुद्ध्यै ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-प॒ञ्च॒विँ॒श इति॑ पञ्च-विँ॒शः । अ॒ग्नि॒ष्टो॒म इत्य॑ग्नि-स्तो॒मः । भ॒व॒ति॒ । प्र॒जाप॑ते॒रिति॑ प्र॒जा-प॒तेः॒ । आप्त्यै॑  ।    
-म॒हा॒व्र॒तवा॒निति॑ महाव्र॒त-वा॒न् । अ॒न्नाद्य॒स्येत्य॑न्न-अद्य॑स्य । अव॑रुद्ध्या॒ इत्यव॑-रु॒द्ध्यै॒  ।    
+प॒ञ्च॒विँ॒श इति॑ पञ्च-विँ॒शः । अ॒ग्नि॒ष्टो॒म इत्य॑ग्नि-स्तो॒मः । भ॒व॒ति॒ । प्र॒जाप॑ते॒रिति॑ प्र॒जा-प॒तेः॒ । आप्त्यै॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पञ्चविंशोग्नि- ष्टोमः चतुर्थमहः प्रजापतेराप्त्यै प्रजापतेः पञ्चविंशतित्वात् ।
-महाव्रतवानयं भवति अह्नोसंभवात् । महाव्रतधर्मवान् तदीयस्तोत्रवानित्यन्ये । अन्नाद्यस्यावरुद्धयै, तस्यान्नहेतुत्वात् । यथोक्तं महाव्रते 'तदन्नं पञ्चविंशमभवत्' इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महाव्रतवा᳙न् +++(=ये महाव्रतधर्माः 'स्तुवन्त्यनुश्नोकेन' इत्याद्याः तद्वान्)+++ अन्ना᳓द्यस्य᳓ अ᳓वरुद्ध्यै । +++(यथोक्तं महाव्रते 'तदन्नं पञ्चविंशमभवत्' इति ।)+++
 </details>
 
 <details><summary>Keith</summary>
 
-There is an Agnistoma with the Pañcadaśa (Stoma), for the gaining of Prajapati;  
 (it has) the characteristics of the Mahavrata, for the gaining of food.
 </details>
-</div>
 
 <details><summary>मूलम्</summary>
 
-विश्व॒जित्सर्व॑पृष्ठोऽतिरा॒त्रो भ॑वति॒ सर्व॑स्या॒भिजि॑त्यै ॥ [39]  
-
-इति सप्तमे प्रथमे दशमोनुवाकः ॥  
+म॒हा॒व्र॒तवा॑न् अ॒न्नाद्य॒स्याव॑रुद्ध्यै ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md">
+<details><summary>पद-पाठः</summary>
+
+म॒हा॒व्र॒तवा॒निति॑ महाव्र॒त-वा॒न् । अ॒न्नाद्य॒स्येत्य॑न्न-अद्य॑स्य । अव॑रुद्ध्या॒ इत्यव॑-रु॒द्ध्यै॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+महाव्रतवानयं भवति अह्नोसंभवात् । महाव्रतधर्मवान् तदीयस्तोत्रवानित्यन्ये । अन्नाद्यस्यावरुद्धयै, तस्यान्नहेतुत्वात् । यथोक्तं महाव्रते 'तदन्नं पञ्चविंशमभवत्' इति ।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md">
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विश्व॒जित्सर्व॑पृष्ठोऽतिरा॒त्रो भ॑वति॒ सर्व॑स्या॒भिजि॑त्यै ॥ [39]  
@@ -784,6 +903,11 @@ There is an Agnistoma with the Pañcadaśa (Stoma), for the gaining of Prajapati
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वजि᳓थ् +++(सहस्रदक्षिणत्वादिधर्मः)+++ स᳓र्वपृष्ठो+++(=रथन्तर-बृहद्-वैरूप-वैराज-शाक्वर-रैवत-पृष्ठः)+++ ऽतिरात्रो᳓ भवति, स᳓र्वस्याभि᳓जित्यै ॥ 
+</details>
+
+<details><summary>Keith</summary>
+
+There is a Viśvajit Atiratra, with all the Prstha (Stotras), for the winning of all.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -803,10 +927,6 @@ There is an Agnistoma with the Pañcadaśa (Stoma), for the gaining of Prajapati
 विश्वजित् सर्वपृष्ठोतिरात्र पञ्चममहः । विश्वजित् सहस्रदक्षिणत्वादिधर्मः सर्वपृष्ठः रथन्तरबृहद्वैरूपवैराजशाक्वररैवतपृष्ठः सर्वस्याभिजयार्थं भवति । सर्वपृष्ठः 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् । त्रिवृदादयो निरुक्ताः ॥
 
 इति सप्तमे प्रथमे दशमोनुवाकः ॥
-
-<details><summary>Keith</summary>
-
-There is a Viśvajit Atiratra, with all the Prstha (Stotras), for the winning of all.
 </details>
-</details>
+
 </div>

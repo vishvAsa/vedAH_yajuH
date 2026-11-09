@@ -19,6 +19,16 @@ title = "१९ अश्वचरितहोममन्त्राः"
 To the sounding of 'Im' hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+ई॒ङ्का॒राय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ई॒ङ्का॒रायेती॑म्-का॒राय॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ई᳓ङ्कृताय +++(निवृत्तावस्थाय)+++ स्वा᳓हा ।
@@ -27,6 +37,25 @@ To the sounding of 'Im' hail!
 <details><summary>Keith</summary>
 
 To him over whom 'Im' is sounded hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+ईङ्कृ॑ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ईङ्कृ॑ता॒येतीम्-कृ॒ता॒य॒ । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ईमित्यनुकरणशब्दस्सन्नाहादौ क्रियते अश्वेन । 'अनुकरणं चानितिपरम्' इतिगतित्वात्थाथादिस्वरः । निवर्तमानावस्थ उच्यते ।
+
+ईंकृतः स एव निवृत्तावस्थ उच्यते ।
+
+पूर्ववद्गतित्वात् 'गतिरनन्तरः' इति तस्य प्रकृतिस्वरत्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -39,6 +68,21 @@ To him over whom 'Im' is sounded hail!
 To him neighing hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+क्रन्द॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्रन्द॑ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+क्रन्दते उच्चैर्हेषमाणाय ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव+++(मुख)+++क्र᳓न्दते स्वा᳓हा ।
@@ -47,6 +91,21 @@ To him neighing hail!
 <details><summary>Keith</summary>
 
 To him neighing down hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒व॒क्रन्द॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒व॒क्रन्द॑त॒ इत्य॑व-क्रन्द॑ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अवक्रन्दते अवाङ्मुखं निभृतं घोषमाणाय । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः, उत्तरत्र कृदुत्तरपदप्रकृतिस्वरत्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -59,6 +118,21 @@ To him neighing down hail!
 To him snorting hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+प्रोथ॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रोथ॑ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्रोथते नासापुटाभ्यां शब्दं विस्तारयते ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रप्रो᳓थते स्वा᳓हा ।
@@ -69,6 +143,23 @@ To him snorting hail!
 To him snorting forth hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+प्र॒प्रोथ॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒प्रोथ॑त॒ इति॑ प्र-प्रोथ॑ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्रप्रोथते उपर्युपरि तथाकुर्वते ।
+
+प्रोथृ पर्याप्तौ, स एव स्वरः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गन्धा᳓य +++(→गन्धयित्रे)+++ स्वा᳓हा ।
@@ -77,6 +168,23 @@ To him snorting forth hail!
 <details><summary>Keith</summary>
 
 To the smell hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+ग॒न्धाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ग॒न्धाय॑ । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+गन्धाय गन्धयित्रे गन्धं गृह्णते ।
+
+गन्ध अर्दने, पचाद्यच् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -91,30 +199,21 @@ To what is smelt hail!
 
 <details><summary>मूलम्</summary>
 
-ई॒ङ्का॒राय॒ स्वाहा॑ । ईङ्कृ॑ताय॒ स्वाहा॑ ।  
-क्रन्द॑ते॒ स्वाहा॑ । अ॒व॒क्रन्द॑ते॒ स्वाहा॑ ।  
-प्रोथ॑ते॒ स्वाहा॑ । प्र॒प्रोथ॑ते॒ स्वाहा॑ ।  
-ग॒न्धाय॒ स्वाहा॑ । घ्रा॒ताय॒ स्वाहा॑ ।  
-प्रा॒णाय॒ स्वाहा॑ । व्या॒नाय॒ स्वाहा॑ ।  अ॒पा॒नाय॒ स्वाहा॑।
-
-(संयुक्तमन्त्रः- ई॒ङ्का॒राय॒ स्वाहेङ्कृ॑ताय॒ स्वाहा॒ क्रन्द॑ते॒ स्वाहा॑ऽव॒क्रन्द॑ते॒ स्वाहा॒ प्रोथ॑ते॒ स्वाहा॑ प्र॒प्रोथ॑ते॒ स्वाहा॑ ग॒न्धाय॒ स्वाहा॑ घ्रा॒ताय॒ स्वाहा॑)
+घ्रा॒ताय॒ स्वाहा॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-ई॒ङ्का॒रायेती॑म्-का॒राय॑ । स्वाहा॑ ।   
-ईङ्कृ॑ता॒येतीम्-कृ॒ता॒य॒ । स्वाहा॑ ।     
-क्रन्द॑ते । स्वाहा॑ ।     
-अ॒व॒क्रन्द॑त॒ इत्य॑व-क्रन्द॑ते । स्वाहा॑ ।   
-प्रोथ॑ते । स्वाहा॑ ।   
-प्र॒प्रोथ॑त॒ इति॑ प्र-प्रोथ॑ते । स्वाहा॑ ।   
-ग॒न्धाय॑ । स्वाहा॑ ।     
-घ्रा॒ताय॑ । स्वाहा॑ ।     
+घ्रा॒ताय॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-ईमित्यनुकरणशब्दस्सन्नाहादौ क्रियते अश्वेन । 'अनुकरणं चानितिपरम्' इतिगतित्वात्थाथादिस्वरः । निवर्तमानावस्थ उच्यते । ईंकृतः स एव निवृत्तावस्थ उच्यते । पूर्ववद्गतित्वात् 'गतिरनन्तरः' इति तस्य प्रकृतिस्वरत्वम् । क्रन्दते उच्चैर्हेषमाणाय । अवक्रन्दते अवाङ्मुखं निभृतं घोषमाणाय । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः, उत्तरत्र कृदुत्तरपदप्रकृतिस्वरत्वम् । प्रोथते नासापुटाभ्यां शब्दं विस्तारयते । प्रप्रोथते उपर्युपरि तथाकुर्वते । प्रोथृ पर्याप्तौ, स एव स्वरः । गन्धाय गन्धयित्रे गन्धं गृह्णते । गन्ध अर्दने, पचाद्यच् । घ्राताय घ्रातवते । घ्रा गन्धोपादाने, व्यत्ययेन कर्तरि निष्ठा । मत्त्वर्थीयो वा लुप्यते । 'नुदविदोन्दत्राघ्रा' इति निष्ठानत्वाभावः पाक्षिकः ।   
+घ्राताय घ्रातवते ।
+
+घ्रा गन्धोपादाने, व्यत्ययेन कर्तरि निष्ठा । मत्त्वर्थीयो वा लुप्यते ।
+
+'नुदविदोन्दत्राघ्रा' इति निष्ठानत्वाभावः पाक्षिकः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -127,6 +226,23 @@ To what is smelt hail!
 To expiration hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+प्रा॒णाय॒ स्वाहा॑
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रा॒णायेति॑ प्र-अ॒नाय॑ । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्राणव्यानापाना व्याख्याताः । पचाद्यजन्ताः ।
+
+द्वितीयस्य छान्दसं सांहितिकं दीर्घत्वम्, प्रातिशाख्ये चोक्तं - 'व्युत्पूर्व आननुदात्तोनूष्मवति' इति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याना᳓य स्वा᳓हा ।
@@ -135,6 +251,16 @@ To expiration hail!
 <details><summary>Keith</summary>
 
 To cross-breathing hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्या॒नाय॒ स्वाहा॑
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व्या॒नायेति॑ वि-अ॒नाय॑ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -149,22 +275,15 @@ To inspiration hail!
 
 <details><summary>मूलम्</summary>
 
-प्रा॒णाय॒ स्वाहा॑ व्या॒नाय॒ स्वाहा॑ऽपा॒नाय॒ स्वाहा॑
+ऽपा॒नाय॒ स्वाहा॑
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-प्रा॒णायेति॑ प्र-अ॒नाय॑ । स्वाहा॑ ।   
-व्या॒नायेति॑ वि-अ॒नाय॑ । स्वाहा॑ ।     
-अ॒पा॒नायेत्य॑प-अ॒नाय॑ । स्वाहा॑  ।   
+अ॒पा॒नायेत्य॑प-अ॒नाय॑ । स्वाहा॑ ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-प्राणव्यानापाना व्याख्याताः । पचाद्यजन्ताः । द्वितीयस्य छान्दसं सांहितिकं दीर्घत्वम्, प्रातिशाख्ये चोक्तं - 'व्युत्पूर्व आननुदात्तोनूष्मवति' इति ॥
-</details>
-
-<details><summary>मूलम् </summary>
+<details><summary>मूलम् (संयुक्तम्)</summary>
 
 सन्दी॒यमा॑नाय॒ स्वाहा॒ सन्दि॑ताय॒ स्वाहा॑ विचृ॒त्यमा॑नाय॒ स्वाहा॒ विचृ॑त्ताय॒ स्वाहा॑ पलायि॒ष्यमा॑णाय॒ स्वाहा॒ पला॑यिताय॒ स्वाहो॑परँस्य॒ते स्वाहोप॑रताय॒ स्वाहा॑ निवेक्ष्य॒ते स्वाहा॑ निवि॒शमा॑नाय॒ स्वाहा॒ निवि॑ष्टाय॒ स्वाहा॑
 </details>
@@ -179,6 +298,16 @@ To inspiration hail!
 To him being bound hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+स॒न्दी॒यमा॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒न्दी॒यमा॑ना॒येति॑ सम्-दी॒यमा॑नाय । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓न्दिताय स्वा᳓हा ।
@@ -187,6 +316,16 @@ To him being bound hail!
 <details><summary>Keith</summary>
 
 To him after being bound hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+सन्दि॑ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सन्दि॑ता॒येति॒ सम्-दि॒ता॒य॒ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -199,6 +338,16 @@ To him after being bound hail!
 To him being untied hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+वि॒चृ॒त्यमा॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒चृ॒त्यमा॑ना॒येति॑ वि-चृ॒त्यमा॑नाय । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓चृत्ताय स्वा᳓हा ।
@@ -207,6 +356,16 @@ To him being untied hail!
 <details><summary>Keith</summary>
 
 To him untied hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+विचृ॑त्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विचृ॑त्ता॒येति॒ वि-चृ॒त्ता॒य॒ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -219,6 +378,16 @@ To him untied hail!
 To him about to run hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+प॒ला॒यिष्यमा॑णाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒ला॒यि॒ष्यमा॑णाय । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓लायिताय स्वा᳓हा ।
@@ -227,6 +396,16 @@ To him about to run hail!
 <details><summary>Keith</summary>
 
 To him having run hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+पला॑यिताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पला॑यिताय । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -239,6 +418,16 @@ To him having run hail!
 To him about to rest hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+उ॒प॒रँ॒ं॒स्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒रँ॒स्य॒त इत्यु॑प-रँ॒स्य॒ते । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓परताय स्वा᳓हा ।
@@ -247,6 +436,16 @@ To him about to rest hail!
 <details><summary>Keith</summary>
 
 To him having rested hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+उप॑रताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उप॑रता॒येत्युप॑-र॒ता॒य॒ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -259,6 +458,16 @@ To him having rested hail!
 To him about to go to rest hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+नि॒वे॒क्ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नि॒वे॒क्ष्य॒त इति॑ नि-वे॒क्ष्य॒ते । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निविश᳓मानाय स्वा᳓हा ।
@@ -267,6 +476,16 @@ To him about to go to rest hail!
 <details><summary>Keith</summary>
 
 To him going to rest hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+नि॒वि॒शमा॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नि॒वि॒शमा॑ना॒येति॑ नि-वि॒शमा॑नाय । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -279,37 +498,21 @@ To him going to rest hail!
 To him having gone to rest hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+निवि॑ष्टाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+निवि॑ष्टा॒येति॒ नि-वि॒ष्टा॒य॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सन्दी॒यमा॑नाय॒ स्वाहा॒ सन्दि॑ताय॒ स्वाहा॑ विचृ॒त्यमा॑नाय॒ स्वाहा॒ विचृ॑त्ताय॒ स्वाहा॑ पलायि॒ष्यमा॑णाय॒ स्वाहा॒ पला॑यिताय॒ स्वाहो॑परँस्य॒ते स्वाहोप॑रताय॒ स्वाहा॑ 
 
 निवेक्ष्य॒ते स्वाहा॑ निवि॒शमा॑नाय॒ स्वाहा॒ निवि॑ष्टाय॒ स्वाहा॑
-</details>
-
-<details><summary>मूलम्</summary>
-
-स॒न्दी॒यमा॑नाय॒ स्वाहा॑ । सन्दि॑ताय॒ स्वाहा॑ ।  
-वि॒चृ॒त्यमा॑नाय॒ स्वाहा॑ । विचृ॑त्ताय॒ स्वाहा॑ ।  
-प॒ला॒यिष्यमा॑णाय॒ स्वाहा॑ । पला॑यिताय॒ स्वाहा॑ ।  
-उ॒प॒रँ॒ं॒स्य॒ते स्वाहा॑ ।  उप॑रताय॒ स्वाहा॑ । 
-
-नि॒वे॒क्ष्य॒ते स्वाहा॑ । नि॒वि॒शमा॑नाय॒ स्वाहा॑ । निवि॑ष्टाय॒ स्वाहा॑ ।
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-स॒न्दी॒यमा॑ना॒येति॑ सम्-दी॒यमा॑नाय । स्वाहा॑  ।    
-सन्दि॑ता॒येति॒ सम्-दि॒ता॒य॒ । स्वाहा॑  ।    
-वि॒चृ॒त्यमा॑ना॒येति॑ वि-चृ॒त्यमा॑नाय । स्वाहा॑  ।     
-विचृ॑त्ता॒येति॒ वि-चृ॒त्ता॒य॒ । स्वाहा॑  ।     
-प॒ला॒यि॒ष्यमा॑णाय । स्वाहा॑  ।     
-पला॑यिताय । स्वाहा॑  ।    
-उ॒प॒रँ॒स्य॒त इत्यु॑प-रँ॒स्य॒ते । स्वाहा॑  ।    
-उप॑रता॒येत्युप॑-र॒ता॒य॒ । स्वाहा॑ । 
-
-नि॒वे॒क्ष्य॒त इति॑ नि-वे॒क्ष्य॒ते । स्वाहा॑ । 
-नि॒वि॒शमा॑ना॒येति॑ नि-वि॒शमा॑नाय । स्वाहा॑ ।  
-निवि॑ष्टा॒येति॒ नि-वि॒ष्टा॒य॒ । स्वाहा॑ ।    
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -325,7 +528,7 @@ To him having gone to rest hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निवेक्ष्यते᳓ स्वा᳓हा +++(←शतुरनुम इत्युदात्तो विभक्तौ)+++।
+निषत्स्यते᳓ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -338,9 +541,21 @@ To him about to sit down hail!
 नि॒ष॒त्स्य॒ते स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नि॒ष॒त्स्य॒त इति॑ नि-स॒त्स्य॒ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+23-34निषत्स्यते । निषीदनं आसनाधिकरणावस्थानपरिग्रहः ।
+
+'सदिरप्रतेः' इति षत्वम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निविश᳓मानाय स्वा᳓हा ।
+निषी᳓दते स्वा᳓हा +++(←शतुरनुम इत्युदात्तो विभक्तौ)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -353,9 +568,19 @@ To him sitting down hail!
 नि॒षीद॑ते॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नि॒षीद॑त॒ इति॑ नि-सीद॑ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+निषीदते पाघ्रादिना सीदादेशः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नि᳓विष्टाय स्वा᳓हा । [49]  ।
+निष᳓ण्णाय स्वा᳓हा । [49]  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -366,6 +591,16 @@ To him having sat down hail!
 <details><summary>मूलम्</summary>
 
 निष॑ण्णाय॒ स्वाहा॑ [49]  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+निष॑ण्णा॒येति॒ नि-स॒न्ना॒य॒ । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+निषण्णाय 'रदाभ्यां' इति निष्ठानत्वम् । सर्वत्रोक्त एव स्वरः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -383,6 +618,16 @@ To him having sat down hail!
 आ॒सि॒ष्य॒ते स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+आ॒सि॒ष्य॒ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+आसिष्यते इत्यादि । गतम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓सीनाय स्वा᳓हा ।
@@ -396,6 +641,16 @@ To him who is standing hail!
 <details><summary>मूलम्</summary>
 
 आसी॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आसी॑नाय । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+आसीनाय । अनुदात्तेत्त्वाल्लसार्वधातुकानुदात्तत्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -413,6 +668,11 @@ To him who hath stood hail!
 आ॒सि॒ताय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+आ॒सि॒ताय॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(शयनादिभ्यो)+++ निपत्स्यते᳓ स्वा᳓हा ।
@@ -426,6 +686,16 @@ To him about to go down hail!
 <details><summary>मूलम्</summary>
 
 नि॒प॒त्स्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नि॒प॒त्स्य॒त इति॑ नि-प॒त्स्य॒ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+निपत्स्यते निपतनं शयनाधिकरणस्थानपरिग्रहः । व्यत्ययेनैव परस्मैपदम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -443,6 +713,18 @@ To him going down hail!
 नि॒पद्य॑मानाय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नि॒पद्य॑माना॒येति॑ नि-पद्य॑मानाय । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+निपद्यमानाय ।
+
+अदुपदेशाल्लसार्वधातुकानुदात्तत्वे श्यनो नित्त्वात् 'ञ्नित्यादिर्नित्यम्' इत्याद्युदात्तत्वम्, उक्तमन्यत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓पन्नाय स्वा᳓हा ।
@@ -456,6 +738,11 @@ To him having gone down hail!
 <details><summary>मूलम्</summary>
 
 निप॑न्नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+निप॑न्ना॒येति॒ नि-प॒न्ना॒य॒ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -473,6 +760,16 @@ To him about to lie hail!
 श॒यि॒ष्य॒ते स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+श॒यि॒ष्य॒ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+शयिष्यते । स्वरपरस्मैपदे उक्ते ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श᳓यानाय स्वा᳓हा ।
@@ -488,6 +785,16 @@ To him lying hail!
 शया॑नाय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+शया॑नाय । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+शयानाय । ङित्वाल्लसार्वधातुकानुदात्तत्वम् ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शयिता᳓य स्वा᳓हा ।
@@ -500,35 +807,12 @@ To him who hath lain hail!
 
 <details><summary>मूलम्</summary>
 
-श॒यि॒ताय॒ स्वाहा॑ । (संयुक्तमन्त्रः-निषत्स्य॒ते स्वाहा॑ नि॒षीद॑ते॒ स्वाहा॒ निष॑ण्णाय॒ स्वाहा॑ [49]  
-आ॒सि॒ष्य॒ते स्वाहाऽऽसी॑नाय॒ स्वाहा॑ऽऽसि॒ताय॒ स्वाहा॑ निपत्स्य॒ते स्वाहा॑ नि॒पद्य॑मानाय॒ स्वाहा॒ निप॑न्नाय॒ स्वाहा॑ शयिष्य॒ते स्वाहा॒ शया॑नाय॒ स्वाहा॑ शयि॒ताय॒ स्वाहा॑ )
+श॒यि॒ताय॒ स्वाहा॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-नि॒ष॒त्स्य॒त इति॑ नि-स॒त्स्य॒ते । स्वाहा॑ ।    
-नि॒षीद॑त॒ इति॑ नि-सीद॑ते । स्वाहा॑ ।  
-निष॑ण्णा॒येति॒ नि-स॒न्ना॒य॒ । स्वाहा॑ । [49]
-
-आ॒सि॒ष्य॒ते । स्वाहा॑ ।   
-आसी॑नाय । स्वाहा॑ ।     
-आ॒सि॒ताय॑ । स्वाहा॑ ।   
-
-नि॒प॒त्स्य॒त इति॑ नि-प॒त्स्य॒ते । स्वाहा॑ ।   
-नि॒पद्य॑माना॒येति॑ नि-पद्य॑मानाय । स्वाहा॑ ।   
-निप॑न्ना॒येति॒ नि-प॒न्ना॒य॒ । स्वाहा॑ ।   
-श॒यि॒ष्य॒ते । स्वाहा॑ ।     
-शया॑नाय । स्वाहा॑ ।     
-श॒यि॒ताय॑ । स्वाहा॑ ।   
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-23-34निषत्स्यते । निषीदनं आसनाधिकरणावस्थानपरिग्रहः । 'सदिरप्रतेः' इति षत्वम् । निषीदते पाघ्रादिना सीदादेशः । निषण्णाय 'रदाभ्यां' इति निष्ठानत्वम् । सर्वत्रोक्त एव स्वरः ।   
-
-आसिष्यते इत्यादि । गतम् । आसीनाय । अनुदात्तेत्त्वाल्लसार्वधातुकानुदात्तत्वम् ।
-
-निपत्स्यते निपतनं शयनाधिकरणस्थानपरिग्रहः । व्यत्ययेनैव परस्मैपदम् । निपद्यमानाय । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे श्यनो नित्त्वात् 'ञ्नित्यादिर्नित्यम्' इत्याद्युदात्तत्वम्, उक्तमन्यत् । शयिष्यते । स्वरपरस्मैपदे उक्ते । शयानाय । ङित्वाल्लसार्वधातुकानुदात्तत्वम् ॥
+श॒यि॒ताय॑ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -541,6 +825,21 @@ To him who hath lain hail!
 To him about to close the eyes hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+स॒म्मी॒लि॒ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒म्मी॒लि॒ष्य॒त इति॑ सम्-मी॒लि॒ष्य॒ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+35-46सम्मीलिष्यते इत्यादि ॥ गतम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्मी᳓लते स्वा᳓हा ।
@@ -549,6 +848,16 @@ To him about to close the eyes hail!
 <details><summary>Keith</summary>
 
 To him closing the eyes hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒म्मील॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒म्मील॑त॒ इति॑ सम्-मील॑ते । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -561,6 +870,16 @@ To him closing the eyes hail!
 To him having closed the eyes hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+सम्मी॑लिताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सम्मी॑लिता॒येति॒ सम्-मी॒लि॒ता॒य॒ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वप्स्यते᳓ स्वा᳓हा । स्वपते᳓ स्वा᳓हा ।
@@ -569,6 +888,22 @@ To him having closed the eyes hail!
 <details><summary>Keith</summary>
 
 To him about to sleep hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्व॒प्स्य॒ते स्वाहा॑ । 
+ स्व॒प॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्व॒प्स्य॒ते । स्वाहा॑ । स्व॒प॒ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+स्वप्स्यते बाह्यकरणोपरमः स्वापः । गतमन्यत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -581,6 +916,16 @@ To him about to sleep hail!
 To him who hath slept hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+सु॒प्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒प्ताय॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभोत्स्यते᳓ स्वा᳓हा ।
@@ -589,6 +934,23 @@ To him who hath slept hail!
 <details><summary>Keith</summary>
 
 To him about to wake hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्र॒भो॒त्स्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒भो॒त्स्य॒त इति॑ प्र-भो॒त्स्य॒ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्रभोत्स्यते ।
+
+'एकाचः' इति भष्भावः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -601,6 +963,21 @@ To him about to wake hail!
 To him awakening hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+प्र॒बुध्य॑मानाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒बुध्य॑माना॒येति॑ प्र-बुध्य॑मानाय । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्रबुद्ध्यमानाय जागरिष्यते । गतम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓बुद्धाय स्वा᳓हा ।
@@ -609,6 +986,16 @@ To him awakening hail!
 <details><summary>Keith</summary>
 
 To him who hath awakened hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रबु॑द्धाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रबु॑द्धा॒येति॒ प्र-बु॒द्धा॒य॒ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -621,6 +1008,16 @@ To him who hath awakened hail!
 To him about to become awake hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+जा॒ग॒रि॒ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जा॒ग॒रि॒ष्य॒ते । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जा᳓ग्रते स्वा᳓हा ।
@@ -629,6 +1026,23 @@ To him about to become awake hail!
 <details><summary>Keith</summary>
 
 To him becoming awake hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+जाग्र॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जाग्र॑ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+जाग्रते ।
+
+'जक्षि' इत्यादिना अभ्यस्तसंज्ञत्वात् 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -643,44 +1057,19 @@ To him who hath become awake hail!
 
 <details><summary>मूलम्</summary>
 
-स॒म्मी॒लि॒ष्य॒ते स्वाहा॑ । स॒म्मील॑ते॒ स्वाहा॑ । सम्मी॑लिताय॒ स्वाहा॑ ।  
-
-स्व॒प्स्य॒ते स्वाहा॑ । स्व॒प॒ते स्वाहा॑ । सु॒प्ताय॒ स्वाहा॑ ।  
-प्र॒भो॒त्स्य॒ते स्वाहा॑ । प्र॒बुध्य॑मानाय॒ स्वाहा॑ । प्रबु॑द्धाय॒ स्वाहा॑ ।  
-जा॒ग॒रि॒ष्य॒ते स्वाहा॑ । जाग्र॑ते॒ स्वाहा॑ । जा॒ग॒रि॒ताय॒ स्वाहा॑ ।
-
-सम्मीलिष्य॒ते स्वाहा॑ स॒म्मील॑ते॒ स्वाहा॒ सम्मी॑लिताय॒ स्वाहा॑ स्वप्स्य॒ते स्वाहा॑ स्वप॒ते स्वाहा॑ सु॒प्ताय॒ स्वाहा॑ प्रभोत्स्य॒ते स्वाहा॑ प्र॒बुध्य॑मानाय॒ स्वाहा॒ प्रबु॑द्धाय॒ स्वाहा॑ जागरिष्य॒ते स्वाहा॒ जाग्र॑ते॒ स्वाहा॑ जागरि॒ताय॒ स्वाहा॒
+जा॒ग॒रि॒ताय॒ स्वाहा॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
- 
-स॒म्मी॒लि॒ष्य॒त इति॑ सम्-मी॒लि॒ष्य॒ते । स्वाहा॑ ।     
-स॒म्मील॑त॒ इति॑ सम्-मील॑ते । स्वाहा॑  ।     
-सम्मी॑लिता॒येति॒ सम्-मी॒लि॒ता॒य॒ । स्वाहा॑  ।    
-
-स्व॒प्स्य॒ते । स्वाहा॑  ।    
-स्व॒प॒ते । स्वाहा॑  ।     
-सु॒प्ताय॑ । स्वाहा॑  ।     
-प्र॒भो॒त्स्य॒त इति॑ प्र-भो॒त्स्य॒ते । स्वाहा॑  ।     
-प्र॒बुध्य॑माना॒येति॑ प्र-बुध्य॑मानाय । स्वाहा॑  ।    
-प्रबु॑द्धा॒येति॒ प्र-बु॒द्धा॒य॒ । स्वाहा॑  ।    
-जा॒ग॒रि॒ष्य॒ते । स्वाहा॑ । 
-जाग्र॑ते । स्वाहा॑ । 
-जा॒ग॒रि॒ताय॑ । स्वाहा॑ ।  
+जा॒ग॒रि॒ताय॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-35-46सम्मीलिष्यते इत्यादि ॥ गतम् ।   
+जागरिताय ।
 
-स्वप्स्यते बाह्यकरणोपरमः स्वापः । गतमन्यत् ।
-
-प्रभोत्स्यते । 'एकाचः' इति भष्भावः ।
-
-प्रबुद्ध्यमानाय जागरिष्यते । गतम् ।   
-
-जाग्रते । 'जक्षि' इत्यादिना अभ्यस्तसंज्ञत्वात् 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । जागरिताय । 'जाग्रोऽविचिण्णल्ङित्सु' इति गुणः ॥
+'जाग्रोऽविचिण्णल्ङित्सु' इति गुणः ॥
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -701,6 +1090,16 @@ To him about to hear hail!
 शुश्रू॑षमाणाय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+शुश्रू॑षमाणाय । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+47-58शुश्रूषमाणाय जागरित्वा शब्दं श्रोतुमिच्छते । पूर्ववदाद्युदात्तत्वम् । 'ज्ञाश्रुस्मृदृशाम्' इत्यात्मनेपदम् । उत्तरे गते ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शृण्वते᳓ स्वा᳓हा ।
@@ -714,6 +1113,11 @@ To him hearing hail!
 <details><summary>मूलम्</summary>
 
 शृ॒ण्व॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शृ॒ण्व॒ते । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -731,6 +1135,11 @@ To him who hath heard hail!
 श्रु॒ताय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+श्रु॒ताय॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीक्षिष्यते᳓ स्वा᳓हा [50]।
@@ -744,6 +1153,16 @@ To him about to look hail!
 <details><summary>मूलम्</summary>
 
 वी॒क्षि॒ष्य॒ते स्वाहा॑ [50]।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वी॒क्षि॒ष्य॒त इति॑ वि-ई॒क्षि॒ष्य॒ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+वीक्षिष्यते इत्यादि । गतम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -762,6 +1181,11 @@ To him who is looking hail!
 वीक्ष॑माणाय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वीक्ष॑माणा॒येति॑ वि-ईक्ष॑माणाय । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वी᳓क्षिताय स्वा᳓हा ।
@@ -775,6 +1199,11 @@ To him who hath looked hail!
 <details><summary>मूलम्</summary>
 
 वीक्षि॑ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वीक्षि॑ता॒येति॒ वि-ई॒क्षि॒ता॒य॒ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -792,6 +1221,16 @@ To him who is about to go out hail!
 सँ॒हा॒स्य॒ते स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सँ॒हा॒स्य॒त इति॑ सम्-हा॒स्य॒ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+संहास्यत इत्यादि । गतम् । संहासनं बाह्येन्द्रियाणां स्वैस्स्वैर्विषयैस्संयोगः । ओहाङ् गतौ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सञ्जि᳓हानाय स्वा᳓हा ।
@@ -805,6 +1244,16 @@ To him going out hail!
 <details><summary>मूलम्</summary>
 
 स॒ञ्जिहा॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒ञ्जिहा॑ना॒येति॑ सम्-जिहा॑नाय । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+संजिहानाय । 'भृञामित्' इतीत्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -822,6 +1271,16 @@ To him who hath gone out hail!
 उ॒ज्जिहा॑नाय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒ज्जिहा॑ना॒येत्यु॑त्-जिहा॑नाय । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+उज्जिहानाय कार्येषूद्योगं कुर्वते । उक्ते स्वरपरस्मैपदे ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(शयनस्थानाद्)+++ विवर्त्स्यते᳓ स्वा᳓हा ।
@@ -835,6 +1294,16 @@ To him about to roll about hail!
 <details><summary>मूलम्</summary>
 
 वि॒व॒र्त्स्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒व॒र्त्स्य॒त इति॑ वि-व॒र्त्स्य॒ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विवर्त्स्यते ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -852,6 +1321,18 @@ To him rolling about hail!
 विवर्त॑मानाय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वि॒वर्त॑माना॒येति॑ वि-वर्त॑मानाय । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विवर्तनं शयनस्थानत्यागः ।
+
+' वृद्भ्यस्स्यसनोः' इति परस्मैपदम् । 'न वृद्ब्यश्चतुर्भ्यः' इतीडभावः । उक्तमन्यत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓वृत्ताय स्वा᳓हा ।
@@ -864,38 +1345,19 @@ To him who hath rolled about hail!
 
 <details><summary>मूलम्</summary>
 
-विवृ॑त्ताय॒ स्वाहा॑ । (संयुक्तमन्त्रः-शुश्रू॑षमाणाय॒ स्वाहा॑ शृण्व॒ते स्वाहा॑ श्रु॒ताय॒ स्वाहा॑ वीक्षिष्य॒ते स्वाहा॑ [50]  वीक्ष॑माणाय॒ स्वाहा॒ वीक्षि॑ताय॒ स्वाहा॑ सँहास्य॒ते स्वाहा॑ स॒ञ्जिहा॑नाय॒ स्वाहो॒ज्जिहा॑नाय॒ स्वाहा॑ विवर्त्स्य॒ते स्वाहा॑ वि॒वर्त॑मानाय॒ स्वाहा॒ विवृ॑त्ताय॒ स्वाहा)
+विवृ॑त्ताय॒ स्वाहा॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-शुश्रू॑षमाणाय । स्वाहा॑ ।    
-शृ॒ण्व॒ते । स्वाहा॑ ।    
-श्रु॒ताय॑ । स्वाहा॑ ।  
-
-वी॒क्षि॒ष्य॒त इति॑ वि-ई॒क्षि॒ष्य॒ते । स्वाहा॑ । [50]
-वीक्ष॑माणा॒येति॑ वि-ईक्ष॑माणाय । स्वाहा॑ ।   
-वीक्षि॑ता॒येति॒ वि-ई॒क्षि॒ता॒य॒ । स्वाहा॑ ।     
-
-सँ॒हा॒स्य॒त इति॑ सम्-हा॒स्य॒ते । स्वाहा॑ ।     
-स॒ञ्जिहा॑ना॒येति॑ सम्-जिहा॑नाय । स्वाहा॑ ।   
-
-उ॒ज्जिहा॑ना॒येत्यु॑त्-जिहा॑नाय । स्वाहा॑ ।   
-वि॒व॒र्त्स्य॒त इति॑ वि-व॒र्त्स्य॒ते । स्वाहा॑ ।   
-
-वि॒वर्त॑माना॒येति॑ वि-वर्त॑मानाय । स्वाहा॑ ।     
-विवृ॑त्ता॒येति॒ वि-वृ॒त्ता॒य॒ । स्वाहा॑ ।     
+विवृ॑त्ता॒येति॒ वि-वृ॒त्ता॒य॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-47-58शुश्रूषमाणाय जागरित्वा शब्दं श्रोतुमिच्छते । पूर्ववदाद्युदात्तत्वम् । 'ज्ञाश्रुस्मृदृशाम्' इत्यात्मनेपदम् । उत्तरे गते । वीक्षिष्यते इत्यादि । गतम् ।   
+विवृत्ताय ।
 
-संहास्यत इत्यादि । गतम् । संहासनं बाह्येन्द्रियाणां स्वैस्स्वैर्विषयैस्संयोगः । ओहाङ् गतौ । संजिहानाय । 'भृञामित्' इतीत्वम् । 
-
-उज्जिहानाय कार्येषूद्योगं कुर्वते । उक्ते स्वरपरस्मैपदे । विवर्त्स्यते । विवर्तनं शयनस्थानत्यागः । ' वृद्भ्यस्स्यसनोः' इति परस्मैपदम् । 'न वृद्ब्यश्चतुर्भ्यः' इतीडभावः । उक्तमन्यत् ।  
-
- विवृत्ताय । 'उदितो वा' इति विभाषितेट् 'यस्य विभाषा' इतीट्प्रतिषेधः ॥
+'उदितो वा' इति विभाषितेट् 'यस्य विभाषा' इतीट्प्रतिषेधः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -913,6 +1375,18 @@ To him about to get up hail!
 उ॒त्था॒स्य॒ते स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒त्था॒स्य॒त इत्यु॑त्-स्था॒स्य॒ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+59-70उत्थास्यते ।
+
+'उदस्स्थास्तम्भ्वोः' इति पूर्वरूपता ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्ति᳓ष्ठते स्वा᳓हा ।
@@ -926,6 +1400,11 @@ To him getting up hail!
 <details><summary>मूलम्</summary>
 
 उ॒त्तिष्ठ॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒त्तिष्ठ॑त॒ इत्यु॑त्-तिष्ठ॑ते । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -943,6 +1422,11 @@ To him who hath got up hail!
 उत्थि॑ताय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उत्थि॑ता॒येत्युत्-स्थि॒ता॒य॒ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(देहं)+++ विधविष्यते᳓+++(=कम्पयते)+++ स्वा᳓हा ।
@@ -956,6 +1440,16 @@ To him about to shake himself hail!
 <details><summary>मूलम्</summary>
 
 वि॒ध॒वि॒ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒ध॒वि॒ष्य॒त इति॑ वि-ध॒वि॒ष्य॒ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विधविष्यते । विधवनं देहस्य कम्पनम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -973,6 +1467,18 @@ To him shaking himself hail!
 वि॒धू॒न्वा॒नाय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वि॒धू॒न्वा॒नायेति॑ वि-धू॒न्वा॒नाय॑ । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विधून्वानाय । धूञ् कम्पने, क्रैयादिकः, व्यत्ययेन श्नुः, कृदुत्तरपदप्रकतिस्वरत्वे शानच्स्वरः सतिशिष्टोपि विकरणस्वरः लसार्वधातुकस्वरेण बाध्यते । 
+
+उत्क्रंस्यते । उत्क्रमणं शिरःकम्पनम्, व्यत्ययेनेडभावः । गतमन्यत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓धूताय स्वा᳓हा ।
@@ -986,6 +1492,11 @@ To him who hath shaken himself hail!
 <details><summary>मूलम्</summary>
 
 विधू॑ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विधू॑ता॒येति॒ वि-धू॒ता॒य॒ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1003,6 +1514,11 @@ To him about to step out hail!
 उ॒त्क्रँ॒ं॒स्य॒ते स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒त्क्रँ॒स्य॒त इत्यु॑त्-क्रँ॒स्य॒ते । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्क्रा᳓मते स्वा᳓हा ।
@@ -1016,6 +1532,11 @@ To him stepping out hail!
 <details><summary>मूलम्</summary>
 
 उ॒त्क्राम॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒त्क्राम॑त॒ इत्यु॑त्-क्राम॑ते । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1033,6 +1554,11 @@ To him who hath stopped out hail!
 उत्क्रा॑न्ताय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उत्क्रा॑न्ता॒येत्युत्-क्रा॒न्ता॒य॒ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चङ्क्रमिष्यते᳓ स्वा᳓हा ।
@@ -1046,6 +1572,18 @@ To him who is about to rush hail!
 <details><summary>मूलम्</summary>
 
 च॒ङ्क्र॒मि॒ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+च॒ङ्क्र॒मि॒ष्य॒ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+चङ्क्रमिष्यते । चङ्क्रमणं पुनःपुनः क्रमणं सातत्येन गमनम् ।
+
+यङन्ताल्ल्युटि 'यस्य हलः' इति यलोपः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1063,6 +1601,11 @@ To him who is rushing hail!
 च॒ङ्क्र॒म्यमा॑णाय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+च॒ङ्क्र॒म्यमा॑णाय । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चङ्क्रमि᳓ता᳓य स्वा᳓हा ।
@@ -1075,37 +1618,12 @@ To him who hath rushed hail!
 
 <details><summary>मूलम्</summary>
 
-च॒ङ्क्र॒मिताय॒ स्वाहा॑ । (संयुक्तमन्त्रः-उ॒त्थास्य॒ते स्वाहो॒त्तिष्ठ॑ते॒ स्वाहोत्थि॑ताय॒ स्वाहा॑ विधविष्य॒ते स्वाहा॑ विधून्वा॒नाय॒ स्वाहा॒ विधू॑ताय॒ स्वाहो॑त्क्रँस्य॒ते स्वाहो॒त्क्राम॑ते॒ स्वाहोत्क्रा॑न्ताय॒ स्वाहा॑ चङ्क्रमिष्य॒ते स्वाहा॑ चङ्क्र॒म्यमा॑णाय॒ स्वाहा॑ चङ्क्रमि॒ताय॒ स्वाहा॑)
+च॒ङ्क्र॒मिताय॒ स्वाहा॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-उ॒त्था॒स्य॒त इत्यु॑त्-स्था॒स्य॒ते । स्वाहा॑ ।   
-उ॒त्तिष्ठ॑त॒ इत्यु॑त्-तिष्ठ॑ते । स्वाहा॑ ।     
-उत्थि॑ता॒येत्युत्-स्थि॒ता॒य॒ । स्वाहा॑  ।   
-
-वि॒ध॒वि॒ष्य॒त इति॑ वि-ध॒वि॒ष्य॒ते । स्वाहा॑  ।    
-वि॒धू॒न्वा॒नायेति॑ वि-धू॒न्वा॒नाय॑ । स्वाहा॑  ।    
-विधू॑ता॒येति॒ वि-धू॒ता॒य॒ । स्वाहा॑  ।   
-
-उ॒त्क्रँ॒स्य॒त इत्यु॑त्-क्रँ॒स्य॒ते । स्वाहा॑  ।     
-उ॒त्क्राम॑त॒ इत्यु॑त्-क्राम॑ते । स्वाहा॑  ।     
-उत्क्रा॑न्ता॒येत्युत्-क्रा॒न्ता॒य॒ । स्वाहा॑  ।  
-
-च॒ङ्क्र॒मि॒ष्य॒ते । स्वाहा॑  ।    
-च॒ङ्क्र॒म्यमा॑णाय । स्वाहा॑ ।    
-च॒ङ्क्र॒मि॒ताय॑ । स्वाहा॑ ।   
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-59-70उत्थास्यते । 'उदस्स्थास्तम्भ्वोः' इति पूर्वरूपता । 
-
-विधविष्यते । विधवनं देहस्य कम्पनम् । विधून्वानाय । धूञ् कम्पने, क्रैयादिकः, व्यत्ययेन श्नुः, कृदुत्तरपदप्रकतिस्वरत्वे शानच्स्वरः सतिशिष्टोपि विकरणस्वरः लसार्वधातुकस्वरेण बाध्यते । 
-
-उत्क्रंस्यते । उत्क्रमणं शिरःकम्पनम्, व्यत्ययेनेडभावः । गतमन्यत् ।
-
-चङ्क्रमिष्यते । चङ्क्रमणं पुनःपुनः क्रमणं सातत्येन गमनम् । यङन्ताल्ल्युटि 'यस्य हलः' इति यलोपः ॥
+च॒ङ्क्र॒मि॒ताय॑ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1123,6 +1641,16 @@ To him about to scratch hail!
 क॒ण्डू॒यि॒ष्य॒ते स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+क॒ण्डू॒यि॒ष्य॒ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+70-80कण्डूयिष्यते । दर्पनिमित्ता कण्डूया । कण्ड्वादिभ्यो यक् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कण्डूय᳓मानाय स्वा᳓हा ।
@@ -1136,6 +1664,11 @@ To him scratching hail!
 <details><summary>मूलम्</summary>
 
 क॒ण्डू॒यमा॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क॒ण्डू॒यमा॑नाय । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1153,6 +1686,11 @@ To him having scratched hail!
 क॒ण्डू॒यि॒ताय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+क॒ण्डू॒यि॒ताय॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(काष्ठादिषु शरीरस्य)+++ निकषिष्यते᳓ स्वा᳓हा ।
@@ -1166,6 +1704,16 @@ To him about to rub hail!
 <details><summary>मूलम्</summary>
 
 नि॒क॒षि॒ष्य॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नि॒क॒षि॒ष्य॒त इति॑ नि-क॒षि॒ष्य॒ते । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+निकषिष्यते ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1183,6 +1731,20 @@ To him rubbing hail!
 नि॒कष॑माणाय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नि॒कष॑माणा॒येति॑ नि-कष॑माणाय । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+निकषणं काष्ठादिषु शरीरस्य ।
+
+कष हिंसायाम् ।
+
+निकषमाणाय । व्यत्ययेनात्मनेपदम् । गतमन्यत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓कषिताय स्वा᳓हा ।
@@ -1196,6 +1758,11 @@ To him who hath rubbed hail!
 <details><summary>मूलम्</summary>
 
 निक॑षिताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+निक॑षिता॒येति॒ नि-क॒षि॒ता॒य॒ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1213,6 +1780,16 @@ What he eateth, to that hail!
 यदत्ति॒ तस्मै॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । अत्ति॑ । तस्मै॑ । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+यदत्ति येन सामर्थ्येन अदनं करोति तस्मै स्वाहा । तस्मा एव वा अदनाय । एवं पानादिषु द्रष्टव्यम् ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्पि᳓बति त᳓स्मै स्वा᳓हा ।
@@ -1226,6 +1803,11 @@ What he drinketh, to that hail!
 <details><summary>मूलम्</summary>
 
 यत्पिब॑ति॒ तस्मै॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । पिब॑ति । तस्मै॑ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1243,6 +1825,11 @@ To what he evacuateth, to that hail!
 यन्मेह॑ति॒ तस्मै॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । मेह॑ति । तस्मै॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓च्छ᳓कृत् करो᳓ति त᳓स्मै स्वा᳓हा ।
@@ -1255,36 +1842,12 @@ To the dung he maketh hail!
 
 <details><summary>मूलम्</summary>
 
-यच्छकृ॑त् क॒रोति॒ तस्मै॒ स्वाहा॑ । (संयुक्तमन्त्रः-कण्डूयिष्य॒ते स्वाहा॑ कण्डू॒यमा॑नाय॒ स्वाहा॑ कण्डूयि॒ताय॒ स्वाहा॑ 
-
-निकषिष्य॒ते स्वाहा॑ नि॒कष॑माणाय॒ स्वाहा॒ निक॑षिताय॒ स्वाहा॒ 
-
-यदत्ति॒ तस्मै॒ स्वाहा॒ यत्पिब॑ति॒ तस्मै॒ स्वाहा॒ यन्मेह॑ति॒ तस्मै॒ स्वाहा॒ यच्छकृ॑त्क॒रोति॒ तस्मै॒ स्वाहा॒)
+यच्छकृ॑त् क॒रोति॒ तस्मै॒ स्वाहा॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-क॒ण्डू॒यि॒ष्य॒ते । स्वाहा॑ ।  
-क॒ण्डू॒यमा॑नाय । स्वाहा॑ ।   
-क॒ण्डू॒यि॒ताय॑ । स्वाहा॑ ।   
-
-नि॒क॒षि॒ष्य॒त इति॑ नि-क॒षि॒ष्य॒ते । स्वाहा॑ ।  
-नि॒कष॑माणा॒येति॑ नि-कष॑माणाय । स्वाहा॑ ।  
-निक॑षिता॒येति॒ नि-क॒षि॒ता॒य॒ । स्वाहा॑ ।  
-
-यत् । अत्ति॑ । तस्मै॑ । स्वाहा॑ ।   
-यत् । पिब॑ति । तस्मै॑ । स्वाहा॑ ।    
-यत् । मेह॑ति । तस्मै॑ । स्वाहा॑ । 
-यत् । शकृ॑त् । क॒रोति॑ । तस्मै॑ । स्वाहा॑ । 
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-70-80कण्डूयिष्यते । दर्पनिमित्ता कण्डूया । कण्ड्वादिभ्यो यक् ।   
-
-निकषिष्यते । निकषणं काष्ठादिषु शरीरस्य । कष हिंसायाम् । निकषमाणाय । व्यत्ययेनात्मनेपदम् । गतमन्यत् ।   
-
-यदत्ति येन सामर्थ्येन अदनं करोति तस्मै स्वाहा । तस्मा एव वा अदनाय । एवं पानादिषु द्रष्टव्यम् ॥
+यत् । शकृ॑त् । क॒रोति॑ । तस्मै॑ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1297,6 +1860,21 @@ To the dung he maketh hail!
 To seed hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+रेत॑से॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रेत॑से । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+81-84रेतसे रेतस्सेचनकर्मणे ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓भ्यस् स्वा᳓हा ।
@@ -1307,6 +1885,21 @@ To seed hail!
 To offspring hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+प्र॒जाभ्य॒स्स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाभ्य॒ इति॑ प्र-जाभ्यः॑ । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्रजाभ्यः प्रजोत्पादनसामथ्यार्य ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रज᳓ननाय स्वा᳓हा ।
@@ -1315,6 +1908,21 @@ To offspring hail!
 <details><summary>Keith</summary>
 
 To begetting hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रजन॑नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जन॑ना॒येति॑ प्र-जन॑नाय । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्रजननाय प्रजननेन्द्रियाय ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1329,20 +1937,17 @@ To all hail!
 
 <details><summary>मूलम्</summary>
 
-रेत॑से॒ स्वाहा॑ प्र॒जाभ्य॒स्स्वाहा॑ प्रजन॑नाय॒ स्वाहा॒ सर्व॑स्मै॒ स्वाहा॑ ॥ [51]
+सर्व॑स्मै॒ स्वाहा॑ ॥ [51]
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-रेत॑से । स्वाहा॑ ।  
-प्र॒जाभ्य॒ इति॑ प्र-जाभ्यः॑ । स्वाहा॑ ।   
-प्र॒जन॑ना॒येति॑ प्र-जन॑नाय । स्वाहा॑ ।   
-सर्व॑स्मै । स्वाहा॑ ॥ [51]
+सर्व॑स्मै । स्वाहा॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-81-84रेतसे रेतस्सेचनकर्मणे । प्रजाभ्यः प्रजोत्पादनसामथ्यार्य । प्रजननाय प्रजननेन्द्रियाय । सर्वस्मै अनुक्तमन्यदपि चरितमश्वस्य हासरोदनादि तस्मै सर्वस्मै स्वाहा ॥
+सर्वस्मै अनुक्तमन्यदपि चरितमश्वस्य हासरोदनादि तस्मै सर्वस्मै स्वाहा ॥
 
 इति सप्तमे प्रथमे एकोनविंशोनुवाकः ॥  
 </details>

@@ -37,7 +37,7 @@ Many through thy dam, powerful through thy sire,
 1अश्वस्य दक्षिणे कर्णे यजमानमश्वनामानि वाचयति - विभूरित्यादि ॥ धारणान्माता पृथिवी । तत्र वृष्ट्या प्रजा उत्पादयतीति पिता द्यौः । ब्राह्मणं च भवति 'इयं वै माता । असौ पिता' इति । तत्र मात्रा पृथिव्या त्वं विभूरसि विशेषण भवसि विशिष्टोसि । पित्रा दिवा च त्वं प्रभूरसि प्रकर्षेण भवसि प्रकृष्टोसि । 'उदात्तयणः' इति तृतीयाया उदात्तत्वम् । 
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/20_ashvo-si_hayo-syatyo-si.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/20_ashvo-si_hayo-syatyo-si.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -110,6 +110,18 @@ To Agni hail!
 अ॒ग्नये॒ स्वाहा॑।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नये॑ । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्रथमः उपरिष्टात्स्वाहाकारः । अन्ये पुरस्तात्स्वाहाकाराः ।
+
+इन्द्राग्निशब्दे 'नोत्तरपदेऽनुदात्तादौ' इति देवताद्वन्द्वलक्षणस्य स्वरस्य प्रतिषेधः ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हेन्द्राग्नि᳓भ्याम्।
@@ -123,6 +135,11 @@ Hail to Indra and Agni!
 <details><summary>मूलम्</summary>
 
 स्वाहे॑न्द्रा॒ग्निभ्या॑म्।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्वाहा॑ । इ॒न्द्रा॒ग्निभ्या॒मिती॑न्द्रा॒ग्नि-भ्या॒म् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -140,6 +157,11 @@ Hail to Prajapati!
 स्वाहा॑ प्र॒जाप॑तये।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+स्वाहा॑ । प्र॒जाप॑तय॒ इति॑ प्र॒जा-प॒त॒ये॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हा वि᳓श्वेभ्यो देवे᳓भ्यः।
@@ -153,6 +175,11 @@ Hail to the All-gods!
 <details><summary>मूलम्</summary>
 
 स्वाहा॒ विश्वे॑भ्यो दे॒वेभ्यः॑।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्वाहा॑ । विश्वे॑भ्यः । दे॒वेभ्यः॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -172,12 +199,7 @@ Hail to all the deities!
 
 <details><summary>पद-पाठः</summary>
 
-अ॒ग्नये॑ । स्वाहा॑ । स्वाहा॑ । इ॒न्द्रा॒ग्निभ्या॒मिती॑न्द्रा॒ग्नि-भ्या॒म् । स्वाहा॑ । प्र॒जाप॑तय॒ इति॑ प्र॒जा-प॒त॒ये॒ । स्वाहा॑ । विश्वे॑भ्यः । दे॒वेभ्यः॑ । स्वाहा॑ । सर्वा॑भ्यः । दे॒वता॑भ्यः । 
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-प्रथमः उपरिष्टात्स्वाहाकारः । अन्ये पुरस्तात्स्वाहाकाराः । इन्द्राग्निशब्दे 'नोत्तरपदेऽनुदात्तादौ' इति देवताद्वन्द्वलक्षणस्य स्वरस्य प्रतिषेधः ॥
+स्वाहा॑ । सर्वा॑भ्यः । दे॒वता॑भ्यः ।
 </details>
 
 ## विनियोगः
@@ -210,6 +232,16 @@ Hail to all the deities!
 Here is support, hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+इ॒ह धृति॒स्स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒ह । धृतिः॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ वि᳓धृतिस् +++(स्यात्)+++ स्वा᳓हा।
@@ -220,6 +252,16 @@ Here is support, hail!
 Here is keeping apart, hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+इ॒ह विधृ॑ति॒स्स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒ह । विधृ॑ति॒रिति॒ वि-धृ॒तिः॒ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ र᳓न्तिस्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वा᳓हा।
@@ -228,6 +270,16 @@ Here is keeping apart, hail!
 <details><summary>Keith</summary>
 
 Here is joy, hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒ह रन्ति॒स्स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒ह । रन्तिः॑ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,7 +294,7 @@ Here is delight, hail!'
 
 <details><summary>मूलम्</summary>
 
-इ॒ह धृति॒स्स्वाहे॒ह विधृ॑ति॒स्स्वाहे॒ह रन्ति॒स्स्वाहे॒ह रम॑ति॒स्स्वाहा॑
+इ॒ह रम॑ति॒स्स्वाहा॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -271,11 +323,6 @@ Here is delight, hail!'
 अश्वमुत्सृजति।
 </details>
 
-<details><summary>पद-पाठः</summary>
-
-भूः । अ॒सि॒ ।  
-</details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 भूः भावयिता त्वं विश्वस्यापि । 'बहुलमन्यत्रापि' इति णिलुक् ।
@@ -296,6 +343,26 @@ Thou art becoming; to being thee, to what is becoming thee, to what shall be the
 भु॒वे त्वा॒, भव्या॑य त्वा, भविष्य॒ते त्वा॒,
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+भूः । अ॒सि॒ । भु॒वे । त्वा॒ । भव्या॑य । त्वा॒ । भ॒वि॒ष्य॒ते । त्वा॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्मात् भुवे यत्किंचिद्भूतमतिक्रान्तं वस्तु तदर्थं तद्भावनार्थं त्वामुत्सृजामीति ।
+
+'भूतेऽपि दृश्यन्ते' इत्यौणादिकः क्विप्, 'सावेकाचः' इति विभक्तेरुदात्तत्वम् ।
+
+भव्याय भवते वस्तुने ।
+
+'भव्यगेय' इति वर्तमाने यत्, 'यतोऽनावः' इत्याद्युदात्तत्वम् ।
+
+भविष्यते वस्तुने च त्वामुत्सृजामि ।
+
+'शतुरनुमः' इति चतुर्थ्या उदात्तत्वम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वेभ्यस् त्वा भूते्᳓ए᳓भ्यः +++(उत्सृजामि)+++।
@@ -306,14 +373,19 @@ Thou art becoming; to being thee, to what is becoming thee, to what shall be the
 To all beings thee!
 </details>
 
+<details><summary>मूलम्</summary>
+
+विश्वे॑भ्यस् त्वा भू॒तेभ्यः॑ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
-भु॒वे । त्वा॒ । भव्या॑य । त्वा॒ । भ॒वि॒ष्य॒ते । त्वा॒ । विश्वे॑भ्यः । त्वा॒ । भू॒तेभ्यः॑ । 
+विश्वे॑भ्यः । त्वा॒ । भू॒तेभ्यः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तस्मात् भुवे यत्किंचिद्भूतमतिक्रान्तं वस्तु तदर्थं तद्भावनार्थं त्वामुत्सृजामीति । 'भूतेऽपि दृश्यन्ते' इत्यौणादिकः क्विप्, 'सावेकाचः' इति विभक्तेरुदात्तत्वम् । भव्याय भवते वस्तुने । 'भव्यगेय' इति वर्तमाने यत्, 'यतोऽनावः' इत्याद्युदात्तत्वम् । भविष्यते वस्तुने च त्वामुत्सृजामि । 'शतुरनुमः' इति चतुर्थ्या उदात्तत्वम् । किं बहुना - विश्वेभ्यस्त्वा भूतेभ्यस्त्वामुत्सृजामीति ॥
+किं बहुना - विश्वेभ्यस्त्वा भूतेभ्यस्त्वामुत्सृजामीति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -337,7 +409,7 @@ O gods that guard the quarters, do ye guard for the gods for sacrifice this hors
 
 <details><summary>पद-पाठः</summary>
 
-देवाः॑ । आ॒शा॒पा॒ला॒ इत्या॑शा-पा॒लाः॒ । ए॒तम् । दे॒वेभ्यः॑ । अश्व॑म् । मेधा॑य । प्रोक्षि॑त॒मिति॒ प्र-उ॒क्षि॒त॒म् । गो॒पा॒य॒त॒ ॥ [41]
+देवाः॑ । आ॒शा॒पा॒ला॒ इत्या॑शा-पा॒लाः॒ । ए॒तम् । दे॒वेभ्यः॑ । अश्व॑म् । मेधा॑य । प्रोक्षि॑त॒मिति॒ प्र-उ॒क्षि॒त॒म् । गो॒पा॒य॒त॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

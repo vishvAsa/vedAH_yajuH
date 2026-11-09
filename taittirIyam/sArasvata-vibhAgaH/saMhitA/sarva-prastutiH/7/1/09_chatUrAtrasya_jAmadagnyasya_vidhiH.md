@@ -22,9 +22,6 @@ title = "०९ चतूरात्रस्य जामदग्न्यस
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जम᳓दग्निᳶ पु᳓ष्टिकामश् चतूरात्रे᳓णायजत ।  
-स᳓ एता᳓न् पो᳓षाँ अपुष्यत् ।  
-त᳓स्मात् +++(पितापुत्रौ वृद्धाविव केशैः)+++ पलितौ᳓ जा᳓मदग्नियौ न᳓ स᳓ञ्जानाते+++(=सञ्जायेते / ज्ञायेते ऽद्यापि, एकतरो भवति चेदपि नेतरः)+++ ।+++(५)+++  
-एता᳓न् एव᳓ पो᳓षान् पुष्यति , य᳓ एवव्ँ᳓ विद्वाँ᳓श् चतूरात्रे᳓ण य᳓जते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -60,11 +57,6 @@ He prospered therein,
 <details><summary>मूलम्</summary>
 
 स ए॒तान्पोषाँ॑ अपुष्यत् ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-सः । ए॒तान् । पोषान्॑ । अ॒पु॒ष्य॒त् ।     
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,6 +163,24 @@ On the Upasads offerings of the sacrificial cake are made.
 The sacrificial cake is cattle; verily he wins cattle.
 </details>
 
+<details><summary>मूलम्</summary>
+
+प॒शवो॒ वै पु॑रोडाशः॑ । 
+ प॒शूने॒वाव॑ रुन्धे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒शवः॑ । वै । पु॒रो॒डाशः॑ । प॒शून् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+पशवो वा इत्यादि । गतम् ॥  
+
+इति सप्तमे प्रथमे नवमोनुवाकः ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓न्नव्ँ वै᳓ पुरोडा᳓शः᳓ । अ᳓न्नम् एवा᳓व रुन्धे ।  
@@ -179,6 +189,17 @@ The sacrificial cake is cattle; verily he wins cattle.
 <details><summary>Keith</summary>
 
 The sacrificial cake is food; verily he wins food.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्नव्ँ॒ वै पु॑रो॒डाशः । 
+ अन्न॑मे॒वाव॑ रुन्धे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अन्न॑म् । वै । पु॒रो॒डाशः॑ । अन्न॑म् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -193,25 +214,12 @@ An eater of food and owner of cattle he becomes who knowing thus offers the four
 
 <details><summary>मूलम्</summary>
 
-प॒शवो॒ वै पु॑रोडाशः॑ । प॒शूने॒वाव॑ रुन्धे ।  
-अन्नव्ँ॒ वै पु॑रो॒डाशः । अन्न॑मे॒वाव॑ रुन्धे ।  
 अ॒न्ना॒दᳶ प॑शु॒मान् भ॑वति , य ए॒वव्ँ वि॒द्वाँश्च॑तूरा॒त्रेण॒ यज॑ते ॥ [35]
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-प॒शवः॑ । वै । पु॒रो॒डाशः॑ ।   
-प॒शून् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।     
-अन्न॑म् । वै । पु॒रो॒डाशः॑ ।     
-अन्न॑म् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।   
-अ॒न्ना॒द इत्य॑न्न-अ॒दः । प॒शु॒मानिति॑ पशु-मान् । भ॒व॒ति॒ । यः । ए॒वम् । वि॒द्वान् । च॒तू॒रा॒त्रेणेति॑ चतुः-रा॒त्रेण॑ । यज॑ते ॥ [35]
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-पशवो वा इत्यादि । गतम् ॥  
-
-इति सप्तमे प्रथमे नवमोनुवाकः ॥  
+अ॒न्ना॒द इत्य॑न्न-अ॒दः । प॒शु॒मानिति॑ पशु-मान् । भ॒व॒ति॒ । यः । ए॒वम् । वि॒द्वान् । च॒तू॒रा॒त्रेणेति॑ चतुः-रा॒त्रेण॑ । यज॑ते ॥
 </details>
 
 <details><summary>प्रदीपसिंहः</summary>

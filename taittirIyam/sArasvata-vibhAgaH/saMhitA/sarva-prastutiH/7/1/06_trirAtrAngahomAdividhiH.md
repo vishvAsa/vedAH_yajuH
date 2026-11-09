@@ -26,6 +26,11 @@ title = "०६ त्रिरात्राङ्गहोमादिवि�
 Soma found a thousand;
 </details>
 
+<details><summary>मूलम्</summary>
+
+सोमो॒ वै स॒हस्र॑मविन्दत् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सोमः॑ । वै । स॒हस्र॑म् । अ॒वि॒न्द॒त् । 
@@ -203,6 +208,17 @@ They said, 'We all see that in this one is strength [1]. Let us each have a port
 ताव॑ब्रूताँ॒ - सर्वे॒ वा ए॒तद् ए॒तस्याव्ँ॑ वी॒र्य॑म् परि॑ पश्यामोऽँश॒मा ह॑रामहा॒  इति॑ । [21]
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तौ । अ॒ब्रू॒ता॒म् । सर्वे॑ । वै । ए॒तत् । ए॒तस्या॑म् । वी॒र्य॑म् । परीति॑ । प॒श्या॒मः॒ । अँश॑म् । एति॑ । ह॒रा॒म॒है॒ । इति॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'अथ तच्छ्रुत्वा विदिताभिप्रायौ तावब्रूताम् - सर्वे वयमेतस्यां विद्यमानं वीर्य सहस्रसम्मितं परिपश्यामः,
+अंशं च हरामहै अंशनियमं चानयैव कुर्म इतीत्थं कृतमतयस्सर्वेऽपि सोमेन्द्रयमाः तस्यामंशमाहरन्त तामेव नियमहेतुं कृत्वा स्वंस्वंमंश गृहीतवन्तः ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्याम् अँ᳓शम् आ᳓हरन्त।
@@ -220,16 +236,7 @@ So they took shares in the one.
 
 <details><summary>पद-पाठः</summary>
 
-तौ । अ॒ब्रू॒ता॒म् ।   
-सर्वे॑ । वै । ए॒तत् । ए॒तस्या॑म् । वी॒र्य॑म् । [21] परीति॑ । प॒श्या॒मः॒ ।  
-अँश॑म् । एति॑ । ह॒रा॒म॒है॒ । इति॑ ।   
-तस्या॑म् । अँश॑म् । एति॑ । अ॒ह॒र॒न्त॒ ।  
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-'अथ तच्छ्रुत्वा विदिताभिप्रायौ तावब्रूताम् - सर्वे वयमेतस्यां विद्यमानं वीर्य सहस्रसम्मितं परिपश्यामः,
-अंशं च हरामहै अंशनियमं चानयैव कुर्म इतीत्थं कृतमतयस्सर्वेऽपि सोमेन्द्रयमाः तस्यामंशमाहरन्त तामेव नियमहेतुं कृत्वा स्वंस्वंमंश गृहीतवन्तः ॥
+तस्या॑म् । अँश॑म् । एति॑ । अ॒ह॒र॒न्त॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -298,16 +305,6 @@ Therefore let one buy the Soma with a red brown cow one year old.
 तस्मा॒द्रोहि॑ण्या पिङ्ग॒लयैक॑हायन्या॒ सोम॑ङ्क्रीणीयात् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-य᳓ एवव्ँ᳓ विद्वा᳓न् रो᳓हिण्या पिङ्गल᳓यै᳓कहायन्या सो᳓मङ्क्रीणा᳓ति᳓, त्र᳓यस्त्रिँशता चैवा᳓स्य त्रिभि᳓श्च [22] शतै᳓स् सो᳓मᳵ क्रीतो᳓ भवति। सु᳓क्रीतेन यजते ।
-</details>
-
-<details><summary>Keith</summary>
-
-He, who knowing thus buys the Soma with a red brown cow one year old, buys the Soma with three hundred and thirty-three [2] and sacrifices with Soma for which he has paid a good price.
-</details>
-
 <details><summary>पद-पाठः</summary>
 
 तस्मा॑त् । रोहि॑ण्या । पि॒ङ्ग॒लया॑ । एक॑हाय॒न्येत्येक॑-हा॒य॒न्या॒ । सोम॑म् । क्री॒णी॒या॒त् ।   
@@ -318,9 +315,14 @@ He, who knowing thus buys the Soma with a red brown cow one year old, buys the S
 तस्मादित्यादि । गतम् ॥
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[TODO: include]]
+य᳓ एवव्ँ᳓ विद्वा᳓न् रो᳓हिण्या पिङ्गल᳓यै᳓कहायन्या सो᳓मङ्क्रीणा᳓ति᳓, त्र᳓यस्त्रिँशता चैवा᳓स्य त्रिभि᳓श्च [22] शतै᳓स् सो᳓मᳵ क्रीतो᳓ भवति। सु᳓क्रीतेन यजते ।
+</details>
+
+<details><summary>Keith</summary>
+
+He, who knowing thus buys the Soma with a red brown cow one year old, buys the Soma with three hundred and thirty-three [2] and sacrifices with Soma for which he has paid a good price.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -333,7 +335,7 @@ He, who knowing thus buys the Soma with a red brown cow one year old, buys the S
 <details><summary>पद-पाठः</summary>
 
 यः । ए॒वम् । वि॒द्वान् । रोहि॑ण्या । पि॒ङ्ग॒लया॑ । एक॑हाय॒न्येत्येक॑-हा॒य॒न्या॒ । सोम॑म् । क्री॒णाति॑ ।   
-त्रय॑स्त्रिँश॒तेति॒ त्रयः॑-त्रिँ॒श॒ता॒ । च॒ । ए॒व । अ॒स्य॒ । त्रि॒भिरिति॑ त्रि-भिः । च॒ । [22] श॒तैः । सोमः॑ । क्री॒तः । भ॒व॒ति॒ ।   
+त्रय॑स्त्रिँश॒तेति॒ त्रयः॑-त्रिँ॒श॒ता॒ । च॒ । ए॒व । अ॒स्य॒ । त्रि॒भिरिति॑ त्रि-भिः । च॒ । श॒तैः । सोमः॑ । क्री॒तः । भ॒व॒ति॒ ।   
 सुक्री॑ते॒नेति॒ सु-क्री॒ते॒न॒ । य॒ज॒ते॒ ।    
 </details>
 
@@ -411,6 +413,11 @@ Therefore one should give a red draught animal with good characteristics, destro
 तस्मा॒द्रोहि॑णील्ँ लक्ष्म॒णाम्प॑ष्ठौ॒हीव्ँ वार्त्र॑घ्नीन्दध्यात् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तस्मा॑त् । रोहि॑णीम् । ल॒क्ष्म॒णाम् । प॒ष्ठौ॒हीम् । वार्त्र॑घ्न॒मिति॒ वार्त्र॑-घ्न॒म् । द॒द्या॒त् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न् रो᳓हिणील्ँ लक्ष्मणा᳓म् पष्ठौहीव्ँ᳓ वा᳓र्त्रघ्नीन् द᳓दाति᳓, त्र᳓यस्त्रिँशच्चैवा᳓स्य त्री᳓णि च शता᳓नि, सा दत्ता᳓  भवति ।[23] +++(उक्तमाचार्येण - 'सङ्ग्रामं जित्वा राजन्ये एतां दद्यात्' इति ।)+++
@@ -428,15 +435,14 @@ He who knowing thus gives a red draught animal with good characteristics, destro
 
 <details><summary>पद-पाठः</summary>
 
-तस्मा॑त् । रोहि॑णीम् । ल॒क्ष्म॒णाम् । प॒ष्ठौ॒हीम् । वार्त्र॑घ्न॒मिति॒ वार्त्र॑-घ्न॒म् । द॒द्या॒त् ।   
-यः । ए॒वम् । वि॒द्वान् । रोहि॑णीम् । ल॒क्ष्म॒णाम् । प॒ष्ठौ॒हीम् । वार्त्र॑घ्न॒मिति॒ वार्त्र॑-घ्न॒म् । ददा॑ति ।   
-त्रय॑स्त्रिँश॒दिति॒ त्रयः॑-त्रिँ॒श॒त् । च॒ । ए॒व । अ॒स्य॒ । त्रीणि॑ । च॒ । श॒तानि॑ ।  
-सा । द॒त्ता । [23] भ॒व॒ति॒ ।  
+यः । ए॒वम् । वि॒द्वान् । रोहि॑णीम् । ल॒क्ष्म॒णाम् । प॒ष्ठौ॒हीम् । वार्त्र॑घ्न॒मिति॒ वार्त्र॑-घ्न॒म् । ददा॑ति । त्रय॑स्त्रिँश॒दिति॒ त्रयः॑-त्रिँ॒श॒त् । च॒ । ए॒व । अ॒स्य॒ । त्रीणि॑ । च॒ । श॒तानि॑ । सा । द॒त्ता । भ॒व॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-सा दत्ता भवतीति सैवैका दत्ता त्रयस्त्रिंशदधिकशतत्रयतुल्या भवतीति । क्व पुनरियं दातव्या भवति? उक्तमाचार्येण - 'सङ्ग्रामं जित्वा राजन्ये एतां दद्यात्' इति । तत्र वचनात् प्रकरणं बाध्यते ॥
+सा दत्ता भवतीति सैवैका दत्ता त्रयस्त्रिंशदधिकशतत्रयतुल्या भवतीति ।
+
+क्व पुनरियं दातव्या भवति? उक्तमाचार्येण - 'सङ्ग्रामं जित्वा राजन्ये एतां दद्यात्' इति । तत्र वचनात् प्रकरणं बाध्यते ॥
 </details>
 
 ## अनुस्तरण-गो-निर्देशः
@@ -461,6 +467,11 @@ They put her into the waters' saying, 'Come out for Yama.'
 ताम॒प्सु प्रावे॑शयन् य॒मयो॒देहीति॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ताम् । अ॒प्स्वित्य॑प्-सु । प्रेति॑ । अ॒वे॒श॒य॒न् । य॒माय॑ । उ॒देहीत्यु॑त्-एहि॑ । इति॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ ज᳓रती मूर्खा᳓+++(=रोषणशीला)+++ तज्जघन्या᳓+++(→जघन्यतमरूपा, दुश्शीलेत्यन्ये)+++ +++(तदनुगुण)+++रूप᳓ङ् कृत्वा᳓ त्र᳓यस्त्रिँशता च त्रिभि᳓श् च शतै᳓स् सहो᳓दै᳓त् ।
@@ -478,14 +489,18 @@ She came out in the shape of an aged, stupid, utterly bad animal, together with 
 
 <details><summary>पद-पाठः</summary>
 
-ताम् । अ॒प्स्वित्य॑प्-सु । प्रेति॑ । अ॒वे॒श॒य॒न् ।     
-य॒माय॑ । उ॒देहीत्यु॑त्-एहि॑ । इति॑ ।     
-सा । जर॑ती । मू॒र्खा । त॒ज्ज॒घ॒न्येति॑ तत्-ज॒घ॒न्या । रू॒पम् । कृ॒त्वा । त्रय॑स्त्रिँश॒तेति॒ त्रयः॑-त्रिँ॒श॒ता॒ । च॒ । त्रि॒भिरिति॑ त्रि-भिः । च॒ । श॒तैः । स॒ह । उ॒दैदित्यु॑त्-ऐत् ।   
+सा । जर॑ती । मू॒र्खा । त॒ज्ज॒घ॒न्येति॑ तत्-ज॒घ॒न्या । रू॒पम् । कृ॒त्वा । त्रय॑स्त्रिँश॒तेति॒ त्रयः॑-त्रिँ॒श॒ता॒ । च॒ । त्रि॒भिरिति॑ त्रि-भिः । च॒ । श॒तैः । स॒ह । उ॒दैदित्यु॑त्-ऐत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-जरती वृद्धा । जीर्यतेरतृन् । मूर्खा रोषणशीला । तज्जघन्या जघन्यरूपा जाता । दुश्शीलेत्यन्ये । सैव जघन्या तज्जघन्या, नेदृश्यन्या जघन्यास्तीति ।
+जरती वृद्धा । जीर्यतेरतृन् ।
+
+मूर्खा रोषणशीला ।
+
+तज्जघन्या जघन्यरूपा जाता । दुश्शीलेत्यन्ये ।
+
+सैव जघन्या तज्जघन्या, नेदृश्यन्या जघन्यास्तीति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -557,6 +572,18 @@ Speech is the thousandth.
 वाग् ए॒व स॑हस्रत॒मी,
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वाक् । ए॒व । स॒ह॒स्र॒त॒मीति॑ सहस्र-त॒मी ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+6वागेवेत्यादि ॥
+
+एवं दर्शितरूपत्रया एकोनसहस्रा या सहस्रतमी सा वागेव स्वयं प्रकृष्टतमेति यावत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् वरो दे᳓यः ।
@@ -574,14 +601,14 @@ Therefore [4] a boon must be given;
 
 <details><summary>पद-पाठः</summary>
 
-वाक् । ए॒व । स॒ह॒स्र॒त॒मीति॑ सहस्र-त॒मी ।     
-तस्मा॑त् । [24]  वरः॑ । देयः॑ ।  
+तस्मा॑त् । वरः॑ । देयः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-6वागेवेत्यादि ॥ एवं दर्शितरूपत्रया एकोनसहस्रा या सहस्रतमी सा वागेव स्वयं प्रकृष्टतमेति यावत् ।
-तस्माद्वरो देयः । सहस्रदक्षिणेऽमुष्मिन् सहस्रं दत्तं भवतीति भावः ।
+तस्माद्वरो देयः ।
+
+सहस्रदक्षिणेऽमुष्मिन् सहस्रं दत्तं भवतीति भावः ।
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -767,7 +794,19 @@ She should be spotted on either side.
 
 <details><summary>मूलम्</summary>
 
-उ॒भ॒य॒त॒ए॒नी स्या॑त् । तदा॑हुरन्यतए॒नी स्या॑त् ,
+उ॒भ॒य॒त॒ए॒नी स्या॑त् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒भ॒यत॑ए॒नीत्यु॑भ॒यतः॑-ए॒नी॒ । स्या॒त् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+8उभयतएनीत्यादि ॥
+
+व्यत्ययेन 'नञ्कुनिपातानाम्' इति वचनात्समासान्तोदात्तत्वमेव ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -777,26 +816,26 @@ She should be spotted on either side.
 
 <details><summary>Keith</summary>
 
-They say, 'Let her be spotted on one side only;
+They say, 'Let her be spotted on one side only; spotted is the thousand on the other side.'
 </details>
 
 <details><summary>मूलम्</summary>
 
-स॒हस्र॑म्प॒रस्ता॒देत॒मिति॑ ।
+तदा॑हु॒रन्यत॑ए॒नी स्या॑त् स॒हस्र॑म्प॒रस्ता॒देत॒मिति॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-उ॒भ॒यत॑ए॒नीत्यु॑भ॒यतः॑-ए॒नी॒ । स्या॒त्  ।     
-तत् । आ॒हुः॒  ।    
-अ॒न्य॒त॒ए॒नीत्य॑न्यतः-ए॒नी । स्या॒त् । स॒हस्र॑म् । प॒रस्ता॑त् । एत॑म् । इति॑  ।   
+तत् । आ॒हुः॒ । अ॒न्य॒त॒ए॒नीत्य॑न्यतः-ए॒नी । स्या॒त् । स॒हस्र॑म् । प॒रस्ता॑त् । एत॑म् । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-8उभयतएनीत्यादि ॥ व्यत्ययेन 'नञ्कुनिपातानाम्' इति वचनात्समासान्तोदात्तत्वमेव ।   
+तदाहुरिति ॥
 
-तदाहुरिति ॥ तत्राहुरन्ये इत्यर्थः । अन्यतः एकपार्श्वे शुक्ला सहस्रतमी स्यात् । परस्तात् इतरस्मिन् भागे सहस्रभूतमेतं शुक्लं स्यात् । उभयमिदं तुल्यं, तस्यास्सहस्रेण तुल्यत्वात् इत्येवमस्यास्स्तुतिः ।
+तत्राहुरन्ये इत्यर्थः । अन्यतः एकपार्श्वे शुक्ला सहस्रतमी स्यात् । परस्तात् इतरस्मिन् भागे सहस्रभूतमेतं शुक्लं स्यात् ।
+
+उभयमिदं तुल्यं, तस्यास्सहस्रेण तुल्यत्वात् इत्येवमस्यास्स्तुतिः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -806,7 +845,7 @@ They say, 'Let her be spotted on one side only;
 
 <details><summary>Keith</summary>
 
-spotted is the thousand on the other side.' The one for a boon [5] should be beautiful, perfect in form;
+The one for a boon [5] should be beautiful, perfect in form;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -816,7 +855,7 @@ spotted is the thousand on the other side.' The one for a boon [5] should be bea
 
 <details><summary>पद-पाठः</summary>
 
-या । ए॒व । वरः॑ । [25]  क॒ल्या॒णी । रू॒पस॑मृ॒द्धेति॑ रू॒प-स॒मृ॒द्धा॒ । सा । स्या॒त् ।   
+या । ए॒व । वरः॑ । क॒ल्या॒णी । रू॒पस॑मृ॒द्धेति॑ रू॒प-स॒मृ॒द्धा॒ । सा । स्या॒त् ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -853,21 +892,12 @@ for she is a boon; (verily it serves for) prosperity.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता᳓म् उ᳓त्तरेणा᳓ग्नीध्रम् पर्याणी᳓याहवनी᳓यस्या᳓न्ते द्रोण-कलश᳓म् अ᳓व घ्रा᳓प᳓ये᳓द् -  
-+++(सप्तपदा शक्वरी सर्वे च पादा अष्टाक्षराः ।)+++  
-"आ᳓ जिघ्र कल᳓शम् मह्य्  
-उरु᳓धारा प᳓यस्वत्या᳓।  
-त्वा᳓ वि᳓शन्त्व् इ᳓न्दवस्+++(=सोमरसाः)+++  
-समुद्र᳓म् इव सि᳓न्धवः ।  
-सा᳓ +++(सहस्रतमी)+++ मा सह᳓स्र आ᳓ भज ।  
-प्रज᳓या पशु᳓भिस् सह᳓  
-पु᳓नर् मा᳓ विशताद् रयि᳓र्"  
-इ᳓ति ।
+ता᳓म् उ᳓त्तरेणा᳓ग्नीध्रम् पर्याणी᳓याहवनी᳓यस्या᳓न्ते द्रोण-कलश᳓म् अ᳓व घ्रा᳓प᳓ये᳓द् -
 </details>
 
 <details><summary>Keith</summary>
 
-Leading her round to the north of the Agnidh's place he makes her smell the wooden tub near the Ahavaniya fire, saying, 'Smell the tub, O great one, with broad stream rich in milk; Let the drops enter thee as the streams the ocean; Give me a share in a thousand, with offspring, with cattle; Let wealth again visit me.'
+Leading her round to the north of the Agnidh's place he makes her smell the wooden tub near the Ahavaniya fire, saying:
 </details>
 
 <details><summary>मूलम्</summary>
@@ -883,6 +913,24 @@ Leading her round to the north of the Agnidh's place he makes her smell the wood
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9तामुत्तरेणेत्यादि ॥ अग्नीधश्शरणमाग्नीघ्रम् । 'अग्नीधश्शरणे च' इति रण् । तदुत्तरेण तां गां पर्याणीय परित आनीयाहवनीयस्यान्ते समीपे 'आ जिघ्र' इति मन्त्रेण द्रोणकलशमवघ्रापयेत् ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(सप्तपदा शक्वरी सर्वे च पादा अष्टाक्षराः ।)+++  
+"आ᳓ जिघ्र कल᳓शम् मह्य्  
+उरु᳓धारा प᳓यस्वत्या᳓।  
+त्वा᳓ वि᳓शन्त्व् इ᳓न्दवस्+++(=सोमरसाः)+++  
+समुद्र᳓म् इव सि᳓न्धवः ।  
+सा᳓ +++(सहस्रतमी)+++ मा सह᳓स्र आ᳓ भज ।  
+प्रज᳓या पशु᳓भिस् सह᳓  
+पु᳓नर् मा᳓ विशताद् रयि᳓र्"  
+इ᳓ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Smell the tub, O great one, with broad stream rich in milk; Let the drops enter thee as the streams the ocean; Give me a share in a thousand, with offspring, with cattle; Let wealth again visit me.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -924,6 +972,16 @@ Verily he unites him with offspring, with cattle, with wealth [6].
 प्र॒जयै॒वैन॑म् प॒शुभी॑ र॒य्या सम॑र्धयति । (26)
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्र॒जयेति॑ प्र-जया॑ । ए॒व । ए॒न॒म् । प॒शुभि॒रिति॑ प॒शु-भिः॒ । र॒य्या । समिति॑ । अ॒र्ध॒य॒ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्रजया पशुभिश्च सह त्वत्प्रसादात् पुनर्मा विशतात् दानारन्तरमेव गोसहस्रलक्षणा रयिर्मां प्राप्नोतु ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓वान् पशुमा᳓न् रयिमा᳓न् भवति य᳓ एवव्ँ᳓ वे᳓द ।
@@ -941,14 +999,12 @@ He becomes rich in offspring, in cattle, in wealth, who knows thus.
 
 <details><summary>पद-पाठः</summary>
 
-प्र॒जयेति॑ प्र-जया॑ । ए॒व । ए॒न॒म् । प॒शुभि॒रिति॑ प॒शु-भिः॒ । र॒य्या । समिति॑ । [26]  अ॒र्ध॒य॒ति॒ ।   
-
-प्र॒जावा॒निति॑ प्र॒जा-वा॒न् । प॒शु॒मानिति॑ पशु-मान् । र॒यि॒मानिति॑ रयि-मान् । भ॒व॒ति॒ । यः । ए॒वम् । वेद॑ ।     
+प्र॒जावा॒निति॑ प्र॒जा-वा॒न् । प॒शु॒मानिति॑ पशु-मान् । र॒यि॒मानिति॑ रयि-मान् । भ॒व॒ति॒ । यः । ए॒वम् । वेद॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-प्रजया पशुभिश्च सह त्वत्प्रसादात् पुनर्मा विशतात् दानारन्तरमेव गोसहस्रलक्षणा रयिर्मां प्राप्नोतु । प्रजयेत्यादि ॥
+प्रजयेत्यादि ॥
 </details>
 
 ## होमः
@@ -1072,7 +1128,7 @@ he makes her the measure of a thousand [7].
 
 <details><summary>पद-पाठः</summary>
 
-स॒हस्र॑स्य । ए॒व । ए॒ना॒म् । मात्रा॑म् । [27] क॒रो॒ति॒ ।
+स॒हस्र॑स्य । ए॒व । ए॒ना॒म् । मात्रा॑म् । क॒रो॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1186,7 +1242,7 @@ Verily she proclaims him among the gods, and the gods take note of him.
 <details><summary>पद-पाठः</summary>
 
 दे॒वेभ्यः॑ । ए॒व । ए॒न॒म् । एति॑ । वे॒द॒य॒ति॒ ।     
-अन्विति॑ । ए॒न॒म् । दे॒वाः । बु॒ध्य॒न्ते॒ ॥ [28]
+अन्विति॑ । ए॒न॒म् । दे॒वाः । बु॒ध्य॒न्ते॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
