@@ -4,10 +4,23 @@ title = "95 उर्वी रोदसी"
 +++
 
 
+<details><summary>Keith</summary>
+
+O ye broad firmaments, make room for us;  
+O rulers of the field, aid us;  
+I praise sky and earth; I invoke seeking aid,  
+May ye relieve us from tribulation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उर्वी॑ रोदसी॒ वरि॑वᳵ कृणोत॒ङ्क्षेत्र॑स्य पत्नी॒ अधि॑ नो ब्रूयातम् ।   
 स्तौमि॒ द्यावा॑पृथि॒वी ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्चत॒मँह॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उर्वी॒ इति॑ । रो॒द॒सी॒ इति॑ । वरि॑वः । कृ॒णो॒त॒म् । क्षेत्र॑स्य । प॒त्नी॒ इति॑ । अधीति॑ । नः॒ । ब्रू॒या॒त॒म् ॥ स्तौमि॑ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । ना॒थि॒तः । जो॒ह॒वी॒मि॒ । ते इति॑ । नः॒ । मु॒ञ्च॒त॒म् । अँह॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

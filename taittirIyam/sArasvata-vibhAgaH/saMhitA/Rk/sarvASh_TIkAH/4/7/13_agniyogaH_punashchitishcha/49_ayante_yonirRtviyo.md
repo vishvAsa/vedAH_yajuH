@@ -4,10 +4,23 @@ title = "49 अयन्ते योनिर्ऋत्वियो"
 +++
 
 
+<details><summary>Keith</summary>
+
+This is thy due place of birth,  
+Whence born thou didst shine,  
+Mount it, O Agni, knowing it,  
+And make our wealth increase.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यन्ते॒ योनि॑र्ऋ॒त्वियो॒ यतो॑ जा॒तो अरो॑चथाः ।   
 तञ्जा॒नन्न॑ग्न॒ आ रो॒हाथा॑ नो वर्धया र॒यिम् ॥ [28]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । ते॒ । योनिः॑ । ऋ॒त्वियः॑ । यतः॑ । जा॒तः । अरो॑चथाः ॥ तम् । जा॒नन् । अ॒ग्ने॒ । एति॑ । रो॒ह॒ । अथ॑ । नः॒ । व॒र्ध॒य॒ । र॒यिम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

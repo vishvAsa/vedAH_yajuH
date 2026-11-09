@@ -1,8 +1,6 @@
 +++
 title = "04 मा मा"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -13,6 +11,11 @@ Terrify me not, O king, pierce not my heart with thy radiance, for manly strengt
 
 मा मा॑ राज॒न्वि बी॑भिषो॒ मा मे॒ हार्दि॑ त्वि॒षा व॑धीः ।  
 वृष॑णे॒ शुष्मा॒यायु॑षे॒ वर्च॑से ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मा । मा॒ । रा॒ज॒न् । वीति॑ । बी॒भि॒षः॒ । मा । मे॒ । हार्दि॑ । त्वि॒षा । व॒धीः॒ ॥ वृष॑णे । शुष्मा॑य । आयु॑षे । वर्च॑से ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -4,10 +4,23 @@ title = "10 चिदसि समुद्रयोनिरिन्दुर�
 +++
 
 
+<details><summary>Keith</summary>
+
+Thou art piling, born of the ocean, the drop,  
+The skilled one, the eagle, the righteous,  
+The golden-winged busy bird, mighty,  
+That hath sat down firmly in its place [1].
+</details>
+
 <details><summary>मूलम्</summary>
 
 चिद॑सि समु॒द्रयो॑नि॒रिन्दु॒र्दक्ष॑श्श्ये॒न ऋ॒तावा॑ ।   
 हिर॑ण्यपक्षश्शकु॒नो भु॑र॒ण्युर्म॒हान्त्स॒धस्थे॑ ध्रु॒वः [24]  आ निष॑त्तः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चित् । अ॒सि॒ । स॒मु॒द्रयो॑नि॒रिति॑ समु॒द्र-यो॒निः॒ । इन्दुः॑ । दक्षः॑ । श्ये॒नः । ऋ॒तावेत्यृ॒त-वा॒ ॥ हिर॑ण्यपक्ष॒ इति॒ हिर॑ण्य-प॒क्षः॒ । श॒कु॒नः । भु॒र॒ण्युः । म॒हान् । स॒धस्थ॒ इति॑ स॒ध-स्थे॒ । ध्रु॒वः । एति॑ । निष॑त्त॒ इति॒ नि-स॒त्तः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -4,10 +4,21 @@ title = "05 यस्येदं प्राणन्"
 +++
 
 
+<details><summary>Keith</summary>
+
+Him whose is that which breatheth, which winketh, which moveth, Whose alone is that which has been born and is being born, Agni I praise; I invoke seeking aid,  
+May he relieve us from tribulation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्ये॒दम्प्रा॒णन्नि॑मि॒षद्यदेज॑ति॒ यस्य॑ जा॒तञ्जन॑मानञ्च॒ केव॑लम् ।   
 स्तौम्य॒ग्निन्ना॑थि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वँह॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यस्य॑ । इ॒दम् । प्रा॒णदिति॑ प्र-अ॒नत् । नि॒मि॒षदिति॑ नि-मि॒षत् । यत् । एज॑ति । यस्य॑ । जा॒तम् । जन॑मानम् । च॒ । केव॑लम् ॥ स्तौमि॑ । अ॒ग्निम् । ना॒थि॒तः । जो॒ह॒वी॒मि॒ । सः । नः॒ । मु॒ञ्च॒तु॒ । अँह॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

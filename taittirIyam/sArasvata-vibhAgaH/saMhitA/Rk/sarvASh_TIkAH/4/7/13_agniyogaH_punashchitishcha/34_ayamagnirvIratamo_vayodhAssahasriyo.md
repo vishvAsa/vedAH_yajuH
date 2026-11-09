@@ -4,10 +4,23 @@ title = "34 अयमग्निर्वीरतमो वयोधास्�
 +++
 
 
+<details><summary>Keith</summary>
+
+Let Agni here, the most manly, strength-bestowing,  
+Of a thousand shapes, shine unwearying,  
+Radiant in the midst of the ocean;  
+Do ye approach the abodes divine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यम॒ग्निर्वी॒रत॑मो वयो॒धास्स॑ह॒स्रियो॑ दीप्यता॒मप्र॑युच्छन् ।   
 वि॒भ्राज॑मानस्सरि॒रस्य॒ मध्य॒ उप॒ प्र या॑त दि॒व्यानि॒ धाम॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । अ॒ग्निः । वी॒रत॑म॒ इति॑ वी॒र-त॒मः॒ । व॒यो॒धा इति॑ वयः-धाः । स॒ह॒स्रियः॑ । दी॒प्य॒ता॒म् । अप्र॑युच्छ॒न्नित्यप्र॑-यु॒च्छ॒न् ॥ वि॒भ्राज॑मान॒ इति॑ वि-भ्राज॑मानः । स॒रि॒रस्य॑ । मध्ये॑ । उप॑ । प्रेति॑ । या॒त॒ । दि॒व्यानि॑ । धाम॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

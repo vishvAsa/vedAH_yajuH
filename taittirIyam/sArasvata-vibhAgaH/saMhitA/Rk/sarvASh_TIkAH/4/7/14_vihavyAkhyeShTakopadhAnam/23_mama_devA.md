@@ -3,10 +3,23 @@ title = "23 मम देवा"
 
 +++
 
+<details><summary>Keith</summary>
+
+Let all the gods be at my invocation,  
+The Maruts with Indra, Visnu, Agni;  
+May the broad atmosphere be my guardian;  
+May the wind blow for me unto this desire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मम॑ दे॒वा वि॑ह॒वे स॑न्तु॒ सर्व॒ इन्द्रा॑वन्तो म॒रुतो॒ विष्णु॑र॒ग्निः ।   
 ममा॒न्तरि॑क्षमु॒रु गो॒पम॑स्तु॒ मह्यव्ँ॒वातᳶ॑ पवता॒ङ्कामे॑ अ॒स्मिन् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मम॑ । दे॒वाः । वि॒ह॒व इति॑ वि-ह॒वे । स॒न्तु॒ । सर्वे॑ । इन्द्रा॑वन्त॒ इतीन्द्र॑-व॒न्तः॒ । म॒रुतः॑ । विष्णुः॑ । अ॒ग्निः ॥ मम॑ । अ॒न्तरि॑क्षम् । उ॒रु । गो॒पम् । अ॒स्तु॒ । मह्य॑म् । वातः॑ । प॒व॒ता॒म् । कामे॑ । अ॒स्मिन्न् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

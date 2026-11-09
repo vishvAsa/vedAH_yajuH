@@ -2,6 +2,14 @@
 title = "आपो देवीर् मधुमतीः"
 +++
 
+<details><summary>Keith</summary>
+
+They have taken the waters, divine,  
+Rich in sweetness, full of strength, caring for the royal consecration;  
+Whereby they anointed Mitra and Varuna,  
+Whereby they led Indra beyond his foes.
+</details>
+
 <details open><summary>मूलम्</summary>
 
 आ॒पो दे॒वीर्मधु॑मतीरगृह्ण॒न्नूर्ज॑स्वती राज॒सूया॑य॒ चिता॑नाः ।  
@@ -10,15 +18,7 @@ title = "आपो देवीर् मधुमतीः"
 
 <details><summary>पद-पाठः</summary>
 
-2B । अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
+अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

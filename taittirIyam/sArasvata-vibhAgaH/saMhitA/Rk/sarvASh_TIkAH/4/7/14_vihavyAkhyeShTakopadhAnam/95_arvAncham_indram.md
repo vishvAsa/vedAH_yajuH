@@ -3,10 +3,22 @@ title = "95 अर्वाञ्चम् इन्द्रम्"
 
 +++
 
+<details><summary>Keith</summary>
+
+Hitherward do we summon Indra from thence,  
+Him who is winner of cows, of booty, and winner too of horses; Do thou accept this sacrifice at our invocation;  
+Ally of it we make thee, O lord of the bays.  
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒र्वाञ्च॒मिन्द्र॑म॒मुतो॑ हवामहे॒ यो गो॒जिद्ध॑न॒जिद॑श्व॒जिद्यः ।   
 इ॒मन्नो॑ य॒ज्ञव्ँवि॑ह॒वे जु॑षस्वा॒स्य कु॑र्मो हरिवो मे॒दिन॑न्त्वा ॥ [32]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒र्वाञ्च॑म् । इन्द्र॑म् । अ॒मुतः॑ । ह॒वा॒म॒हे॒ । यः । गो॒जिदिति॑ गो-जित् । ध॒न॒जिदिति॑ धन-जित् । अ॒श्व॒जिदित्य॑श्व-जित् । यः ॥ इ॒मम् । नः॒ । य॒ज्ञम् । वि॒ह॒व इति॑ वि-ह॒वे । जु॒ष॒स्व॒ । अ॒स्य । कु॒र्मः॒ । ह॒रि॒व॒ इति॑ हरि-वः॒ । मे॒दिन॑म् । त्वा॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

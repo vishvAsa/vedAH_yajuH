@@ -4,10 +4,23 @@ title = "99 यत् ते"
 +++
 
 
+<details><summary>Keith</summary>
+
+Whatever sin we commit against thee,  
+As men are wont in ignorance, O most young [6],  
+Make us blameless before Aditi,  
+Remove our evil deeds on all sides, O Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्ते॑ व॒यम्पु॑रुष॒त्रा य॑वि॒ष्ठावि॑द्वाँसश्चकृ॒मा कच्च॒न [38]  आगः॑ ।   
 कृ॒धी स्व॑स्माँ अदि॑ते॒रना॑गा॒ व्येनाँ॑सि शिश्रथो॒ विष्व॑गग्ने
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । व॒यम् । पु॒रु॒ष॒त्रेति॑ पुरुष-त्रा । य॒वि॒ष्ठ॒ । अवि॑द्वाँसः । च॒कृ॒म । कत् । च॒न । आगः॑ ॥ कृ॒धि । स्विति॑ । अ॒स्मान् । अदि॑तेः । अना॑गाः । वीति॑ । एनाँ॑सि । शि॒श्र॒थः॒ । विष्व॑क् । अ॒ग्ने॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

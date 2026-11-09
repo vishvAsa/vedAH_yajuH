@@ -4,10 +4,22 @@ title = "57 स बोधि"
 +++
 
 
+<details><summary>Keith</summary>
+
+Be thou a bounteous patron,  
+Giver of riches, lord of riches;  
+Repel from us the foes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स बो॑धि सू॒रिर्म॒घवा॑ वसु॒दावा॒ वसु॑पतिः ।  
 यु॒यो॒ध्य॑स्मद्द्वेषाँ॑सि ॥ [13]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । बो॒धि॒ । सू॒रिः । म॒घवेति॑ म॒घ-वा॒ । व॒सु॒दावेति॑ वसु-दावा॑ । वसु॑पति॒रिति॒ वसु॑-प॒तिः॒ ॥ यु॒यो॒धि । अ॒स्मत् । द्वेषाँ॑सि ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

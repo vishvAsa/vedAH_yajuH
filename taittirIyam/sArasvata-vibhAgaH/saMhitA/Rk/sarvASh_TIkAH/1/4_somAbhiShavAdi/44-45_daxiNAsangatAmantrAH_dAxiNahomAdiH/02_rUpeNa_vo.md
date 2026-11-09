@@ -15,7 +15,7 @@ With my form [1] I approach your form; with my age your age.
 
 <details><summary>पद-पाठः</summary>
 
-5E । रू॒पेण॑ । 1 । वः॒ । रू॒पम् । अ॒भि । एति॑ । ए॒मि॒ । वय॑सा । वयः॑ ॥
+रू॒पेण॑ । वः॒ । रू॒पम् । अ॒भि । एति॑ । ए॒मि॒ । वय॑सा । वयः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

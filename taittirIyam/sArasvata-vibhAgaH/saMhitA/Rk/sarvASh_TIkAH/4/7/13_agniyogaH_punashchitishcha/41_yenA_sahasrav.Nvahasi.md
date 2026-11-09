@@ -4,10 +4,23 @@ title = "41 येना सहस्रव्ँवहसि"
 +++
 
 
+<details><summary>Keith</summary>
+
+That by which thou bearest a thousand,  
+Thou, O Agni, all wealth,  
+With that highest (path) for the gods to travel,  
+Do thou bear this sacrifice for us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 येना॑ स॒हस्रव्ँ॒वह॑सि॒ येना॑ग्ने सर्ववेद॒सम् ।   
 तेने॒मय्ँ य॒ज्ञन्नो॑ वह देव॒यानो॒ यः [27]  उ॒त्त॒मः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+येन॑ । स॒हस्र॑म् । वह॑सि । येन॑ । अ॒ग्ने॒ । स॒र्व॒वे॒द॒समिति॑ सर्व-वे॒द॒सम् ॥ तेन॑ । इ॒मम् । य॒ज्ञम् । नः॒ । व॒ह॒ । दे॒व॒यान॒ इति॑ देव-यानः॑ । यः । उ॒त्त॒म इत्यु॑त्-त॒मः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

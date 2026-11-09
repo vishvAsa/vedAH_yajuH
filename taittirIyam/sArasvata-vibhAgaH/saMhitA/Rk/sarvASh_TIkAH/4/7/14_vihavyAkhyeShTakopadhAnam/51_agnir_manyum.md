@@ -3,10 +3,22 @@ title = "51 अग्निर् मन्युम्"
 
 +++
 
+<details><summary>Keith</summary>
+
+Agni, driving away wrath in front [2],  
+As guardian unfailing, do thou guard us on all sides; Let thy foes turn away again  
+And be their plotting at home ruined through thy foresight.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्म॒न्युम्प्र॑तिनु॒दन्पु॒रस्ता॑त् [30]  अद॑ब्धो गो॒पाᳶ परि॑ पाहि न॒स्त्वम् ।   
 प्र॒त्यञ्चो॑ यन्तु नि॒गुत॒ᳶ पुन॒स्ते॑ऽमैषा॑ञ्चि॒त्तम्प्र॒बुधा॒ वि ने॑शत् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । म॒न्युम् । प्र॒ति॒नु॒दन्निति॑ प्रति-नु॒दन् । पु॒रस्ता॑त् । अद॑ब्धः । गो॒पा इति॑ गो-पाः । परीति॑ । पा॒हि॒ । नः॒ । त्वम् ॥ प्र॒त्यञ्चः॑ । य॒न्तु॒ । नि॒गुत॒ इति॑ नि-गुतः॑ । पुनः॑ । ते । अ॒मा । ए॒षा॒म् । चि॒त्तम् । प्र॒बुधेति॑ प्र-बुधा॑ । वीति॑ । ने॒श॒त् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

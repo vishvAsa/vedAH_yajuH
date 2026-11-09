@@ -4,10 +4,23 @@ title = "30 गर्भो अस्योषधीनाङ्गर्भो"
 +++
 
 
+<details><summary>Keith</summary>
+
+Thou art the germ of plants,  
+The germ of trees,  
+The germ of all things,  
+O Agni, thou art the germ of the waters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गर्भो॑ अ॒स्योष॑धीना॒ङ्गर्भो॒ वन॒स्पती॑नाम् ।  
 गर्भो॒ विश्व॑स्य भू॒तस्याग्ने॒ गर्भो॑ अ॒पाम॑सि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गर्भः॑ । अ॒सि॒ । ओष॑धीनाम् । गर्भः॑ । वन॒स्पती॑नाम् ॥ गर्भः॑ । विश्व॑स्य । भू॒तस्य॑ । अग्ने॑ । गर्भः॑ । अ॒पाम् । अ॒सि॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

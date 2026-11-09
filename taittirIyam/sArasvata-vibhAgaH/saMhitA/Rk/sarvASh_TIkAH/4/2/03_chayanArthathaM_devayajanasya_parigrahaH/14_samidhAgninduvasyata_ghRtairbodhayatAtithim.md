@@ -4,10 +4,22 @@ title = "14 समिधाग्निन्दुवस्यत घृतै�
 +++
 
 
+<details><summary>Keith</summary>
+
+With kindling-wood serve Agni,  
+Awaken the guest with ghee;  
+In him [1] offer oblations.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒मिधा॒ग्निन्दु॑वस्यत घृ॒तैर्बो॑धय॒ताति॑थिम् ।  
 आ [10]  अ॒स्मि॒न्ह॒व्या जु॑होतन ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒मिधेति॑ सम्-इधा॑ । अ॒ग्निम् । दु॒व॒स्य॒त॒ । घृ॒तैः । बो॒ध॒य॒त॒ । अति॑थिम् ॥ एति॑ । अ॒स्मि॒न् । ह॒व्या । जु॒हो॒त॒न॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

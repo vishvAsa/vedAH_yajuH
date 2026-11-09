@@ -4,10 +4,23 @@ title = "08 तां सवितुर्"
 +++
 
 
+<details><summary>Keith</summary>
+
+That various lovingkindness given to all men,  
+Of Savitr the adorable, I choose,  
+That mighty fat cow of his which Kanva milked,  
+Streaming with a thousand (draughts) of milk [4].
+</details>
+
 <details><summary>मूलम्</summary>
 
 ताँ स॑वि॒तुर्वरे॑ण्यस्य चि॒त्रामाहव्ँवृ॑णे सुम॒तिव्ँवि॒श्वज॑न्याम् ।  
 याम॑स्य॒ कण्वो॒ अदु॑ह॒त्प्रपी॑नाँ स॒हस्र॑धाराम् [24]  पय॑सा म॒हीङ्गाम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ताम् । स॒वि॒तुः । वरे॑ण्यस्य । चि॒त्राम् । एति॑ । अ॒हम् । वृ॒णे॒ । सु॒म॒तिमिति॑ सु-म॒तिम् । वि॒श्वज॑न्या॒मिति॑ वि॒श्व-ज॒न्या॒म् ॥ याम् । अ॒स्य॒ । कण्वः॑ । अदु॑हत् । प्रपी॑ना॒मिति॒ प्र-पी॒ना॒म् । स॒हस्र॑धारा॒मिति॑ स॒हस्र॑-धा॒रा॒म् । पय॑सा । म॒हीम् । गाम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

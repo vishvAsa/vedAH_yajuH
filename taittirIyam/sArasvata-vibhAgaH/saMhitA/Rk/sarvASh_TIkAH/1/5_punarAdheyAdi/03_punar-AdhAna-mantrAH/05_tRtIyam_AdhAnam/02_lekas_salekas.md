@@ -14,7 +14,7 @@ Leka, Salekha, Sulekha, may these Adityas rejoicing partake of our oblation;
 
 <details><summary>पद-पाठः</summary>
 
-4L । लेकः॑ । सले॑क॒ इति॒ स-ले॒कः॒ । सु॒लेक॒ इति॑ सु-लेकः॑ । ते । नः॒ । आ॒दि॒त्याः । आज्य॑म् । जु॒षा॒णाः । वि॒य॒न्तु॒ ।
+लेकः॑ । सले॑क॒ इति॒ स-ले॒कः॒ । सु॒लेक॒ इति॑ सु-लेकः॑ । ते । नः॒ । आ॒दि॒त्याः । आज्य॑म् । जु॒षा॒णाः । वि॒य॒न्तु॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

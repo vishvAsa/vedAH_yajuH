@@ -4,11 +4,24 @@ title = "28 प्राच्यान् दिशि"
 +++
 
 
+<details><summary>Keith</summary>
+
+In the eastern quarter thou art king, O Indra  
+In the northern, O slayer of Vrtra, thou art slayer of foes  
+Where the streams [1] go, thou hast conquered;  
+On the south be the bull whom we invoke.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राच्या॑न्दि॒शि त्वमि॑न्द्रासि॒ राजो॒तोदी॑च्याव्ँवृत्रहन्वृत्र॒हासि॑ ।   
 यत्र॒ यन्ति॑ स्रो॒त्यास्तज्जि॒तन्ते॑ ..  
 दक्षिण॒तो वृ॑ष॒भ ए॑धि॒ हव्यः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्राच्या॑म् । दि॒शि । त्वम् । इ॒न्द्र॒ । अ॒सि॒ । राजा॑ । उ॒त । उदी॑च्याम् । वृ॒त्र॒ह॒न्निति॑ वृत्र-ह॒न्॒ । वृ॒त्र॒हेति॑ वृत्र-हा । अ॒सि॒ ॥ यत्र॑ । यन्ति॑ । स्रो॒त्याः । तत् । जि॒तम् । ते॒ । द॒क्षि॒ण॒तः । वृ॒ष॒भः । ए॒धि॒ । हव्यः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -4,10 +4,22 @@ title = "53 बोधा नो"
 +++
 
 
+<details><summary>Keith</summary>
+
+Hearken to this our call, that is offered, O youngest one, Of the most generous one, O thou that hast power;  
+One hateth, one praiseth.  
+As praiser I praise thy body, O Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बोधा॑ नो अ॒स्य वच॑सो यविष्ठ॒ मँहि॑ष्ठस्य॒ प्रभृ॑तस्य स्वधावः ।  
 पीय॑ति त्वो॒ अनु॑ त्वो गृणाति व॒न्दारु॑स्ते त॒नुवव्ँ॑वन्दे अग्ने ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बोध॑ । नः॒ । अ॒स्य॒ । वच॑सः । य॒वि॒ष्ठ॒ । मँहि॑ष्ठस्य । प्रभृ॑त॒स्येति॒ प्र-भृ॒त॒स्य॒ । स्व॒धा॒व॒ इति॑ स्वधा-वः॒ ॥ पीय॑ति । त्वः॒ । अन्विति॑ । त्वः॒ । गृ॒णा॒ति॒ । व॒न्दारुः॑ । ते॒ । त॒नुव॑म् । व॒न्दे॒ । अ॒ग्ने॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -18,7 +18,6 @@ May he win booty in the contest for booty.
 
 3पूर्वया द्वारा शालाया उपनिष्क्रामति- अयं न इति चतुष्पदया त्रिष्टुभा ॥ 
 </details>
-</details>
 
 <details><summary>मूलम्</summary>
 

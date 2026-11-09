@@ -4,10 +4,22 @@ title = "02 अग्नेर् मन्वे"
 +++
 
 
+<details><summary>Keith</summary>
+
+Of Agni first I reckon, the wise ones,  
+Him of the five folk whom many kindle;  
+Him who hath entered into every concourse do we implore, May he relieve us from tribulation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेर्म॑न्वे प्रथ॒मस्य॒ प्रचे॑तसो॒ यम्पाञ्च॑जन्यम्ब॒हव॑स्समि॒न्धते॑ ।   
 विश्व॑स्याव्ँवि॒शि प्र॑विविशि॒वाँस॑मीमहे॒ स नो॑ मुञ्च॒त्वँह॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । म॒न्वे॒ । प्र॒थ॒मस्य॑ । प्रचे॑तस॒ इति॒ प्र-चे॒त॒सः॒ । यम् । पाञ्च॑जन्य॒मिति॒ पाञ्च॑-ज॒न्य॒म् । ब॒हवः॑ । स॒मि॒न्धत॒ इति॑ सम्-इ॒न्धते॑ ॥ विश्व॑स्याम् । वि॒शि । प्र॒वि॒वि॒शि॒वाँस॒मिति॑ प्र-वि॒वि॒शि॒वाँस॑म् । ई॒म॒हे॒ । सः । नः॒ । मु॒ञ्च॒तु॒ । अँह॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

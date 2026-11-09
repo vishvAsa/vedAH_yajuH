@@ -4,10 +4,23 @@ unicode_script = "devanagari"
 +++
 
 
+<details><summary>Keith</summary>
+
+Leader of the sacrifice and the region art thou,  
+Where with steeds auspicious thou dost resort;  
+Thou placest in the sky thy head winning light,  
+Thou makest, O Agni, thy tongue to bear the oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भुवो॑ य॒ज्ञस्य॒ रज॑सश्च ने॒ता यत्रा॑ नि॒युद्भि॒स्सच॑से शि॒वाभिः॑ ।    
 दि॒वि मू॒र्धान॑न्दधिषे सुव॒र्षाञ्जि॒ह्वाम॑ग्ने चकृषे हव्य॒वाह॑म् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भुवः॑ । य॒ज्ञस्य॑ । रज॑सः । च॒ । ने॒ता । यत्र॑ । नि॒युद्भि॒रिति॑ नि॒युत्-भिः॒ । सच॑से । शि॒वाभिः॑ ॥ दि॒वि । मू॒र्धान॑म् । द॒धि॒षे॒ । सु॒व॒र्षामिति॑ सुवः-साम् । जि॒ह्वाम् । अ॒ग्ने॒ । च॒कृ॒षे॒ । ह॒व्य॒वाह॒मिति॑ हव्य-वाह॑म् ॥
 </details>
 
 <details><summary>सायणटीका</summary>

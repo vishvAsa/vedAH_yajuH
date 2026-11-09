@@ -1,8 +1,6 @@
 +++
 title = "35 विष्णो त्वन्"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -13,6 +11,11 @@ O Visnu, as our nearest, O mighty one, grant us protection; the streams dripping
 
 विष्णो॒ त्वन्नो॒ अन्त॑म॒श्शर्म॑ यच्छ सहन्त्य ।   
 प्र ते॒ धारा॑ मधु॒श्चुत॒ उत्स॑न्दुह्रते॒ अक्षि॑तम्॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विष्णो॒ इति॑ । त्वम् । नः॒ । अन्त॑मः । शर्म॑ । य॒च्छ॒ । स॒ह॒न्त्य॒ ॥ प्रेति॑ । ते॒ । धाराः॑ । म॒धु॒श्चुत॒ इति॑ मधु-श्चुतः॑ । उत्स॑म् । दु॒ह्र॒ते॒ । अक्षि॑तम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

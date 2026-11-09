@@ -3,10 +3,22 @@ title = "54 धाता धातृणाम्"
 
 +++
 
+<details><summary>Keith</summary>
+
+The creator of creators, lord of the world,  
+The god Savitr overcoming enmity,  
+This sacrifice may the two Aśvins and Brhaspati, The gods (guard) and protect the sacrificer from misfortune.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धा॒ता धा॑तृ॒णाम्भुव॑नस्य॒ यस्पति॑र्दे॒वँ स॑वि॒तार॑मभिमाति॒षाह॑म् ।   
 इ॒मय्ँ य॒ज्ञम॒श्विनो॒भा बृह॒स्पति॑र्दे॒वाᳶ पा॑न्तु॒ यज॑मानन्न्य॒र्थात् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धा॒ता । धा॒तृ॒णाम् । भुव॑नस्य । यः । पतिः॑ । दे॒वम् । स॒वि॒तार॑म् । अ॒भि॒मा॒ति॒षाह॒मित्य॑भिमाति-साह॑म् ॥ इ॒मम् । य॒ज्ञम् । अ॒श्विना॑ । उ॒भा । बृह॒स्पतिः॑ । दे॒वाः । पा॒न्तु॒ । यज॑मानम् । न्य॒र्थादिति॑ नि-अ॒र्थात् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

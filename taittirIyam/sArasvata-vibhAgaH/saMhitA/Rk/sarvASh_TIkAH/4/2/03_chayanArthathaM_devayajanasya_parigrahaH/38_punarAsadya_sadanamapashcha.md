@@ -4,10 +4,23 @@ title = "38 पुनरासद्य सदनमपश्च"
 +++
 
 
+<details><summary>Keith</summary>
+
+Having again come to thy seat,  
+And to the waters, to the earth, O Agni,  
+Within her thou liest, most auspicious,  
+As on the lap of a mother.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुन॑रा॒सद्य॒ सद॑नम॒पश्च॑ पृथि॒वीम॑ग्ने ।  
 शेषे॑ मा॒तुर्यथो॒पस्थे॒ऽन्तर॒स्याँ शि॒वत॑मः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पुनः॑ । आ॒सद्येत्या॑-सद्य॑ । सद॑नम् । अ॒पः । च॒ । पृ॒थि॒वीम् । अ॒ग्ने॒ ॥ शेषे॑ । मा॒तुः । यथा॑ । उ॒पस्थ॒ इत्यु॒प-स्थे॒ । अ॒न्तः । अ॒स्याम् । शि॒वत॑म॒ इति॑ शि॒व-त॒मः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

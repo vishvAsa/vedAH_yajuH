@@ -4,10 +4,23 @@ title = "91 ये अप्रथेताम्"
 +++
 
 
+<details><summary>Keith</summary>
+
+Those that expanded with unmeasured might,  
+Those that became the supports of wealth,  
+I praise sky and earth; I invoke seeking aid,  
+May ye relieve us from tribulation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये अप्र॑थेता॒ममि॑तेभि॒रोजो॑भि॒र्ये प्र॑ति॒ष्ठे अभ॑वताव्ँ॒वसू॑नाम् ।
 स्तौमि॒ द्यावा॑पृथि॒वी ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्चत॒मँह॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये इति॑ । अप्र॑थेताम् । अमि॑तेभिः । ओजो॑भि॒रित्योजः॑-भिः॒ । ये इति॑ । प्र॒ति॒ष्ठे इति॑ प्रति-स्थे । अभ॑वताम् । वसू॑नाम् ॥ स्तौमि॑ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । ना॒थि॒तः । जो॒ह॒वी॒मि॒ । ते इति॑ । नः॒ । मु॒ञ्च॒त॒म् । अँह॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

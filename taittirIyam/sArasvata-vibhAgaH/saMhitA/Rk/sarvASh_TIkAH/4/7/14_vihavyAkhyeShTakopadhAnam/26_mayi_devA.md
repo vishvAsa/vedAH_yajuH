@@ -3,10 +3,21 @@ title = "26 मयि देवा"
 
 +++
 
+<details><summary>Keith</summary>
+
+May the gods bestow wealth upon me through sacrifice; May blessing be mine, and mine divine invocation; The divine sacrificers of old shall win for us [1];  
+Unharmed may we be in ourselves, rich in heroes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मयि॑ दे॒वा द्रवि॑ण॒मा य॑जन्ता॒म्मय्या॒शीर॑स्तु॒ मयि॑ दे॒वहू॑तिः ।   
 दैव्या॒ होता॑रा वनिषन्त [29]  पूर्वेऽरि॑ष्टास्स्याम त॒नुवा॑ सु॒वीराः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मयि॑ । दे॒वाः । द्रवि॑णम् । एति॑ । य॒ज॒न्ता॒म् । मयि॑ । आ॒शीरित्या॑-शीः । अ॒स्तु॒ । मयि॑ । दे॒वहू॑ति॒रिति॑ दे॒व-हू॒तिः॒ ॥ दैव्या॑ । होता॑रा । व॒नि॒ष॒न्त॒ । पूर्वे॑ । अरि॑ष्टाः । स्या॒म॒ । त॒नुवा॑ । सु॒वीरा॒ इति॑ सु-वीराः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

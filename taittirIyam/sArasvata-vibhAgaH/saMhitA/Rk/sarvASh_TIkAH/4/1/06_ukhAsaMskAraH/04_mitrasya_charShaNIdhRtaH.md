@@ -3,10 +3,22 @@ title = "04 मित्रस्य चर्षणीधृतः"
 
 +++
 
+<details><summary>Keith</summary>
+
+The fame of Mitra, supporter of the people,  
+Of the god is eternal,  
+True, and most varied in fame.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒त्रस्य॑ चर्षणी॒धृत॒श्श्रवो॑ दे॒वस्य॑ सान॒सिम् ।  
 द्यु॒म्नञ्चि॒त्रश्र॑वस्तमम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मि॒त्रस्य॑ । च॒र्ष॒णी॒धृत॒ इति॑ चर्षणि-धृतः॑ । श्रवः॑ । दे॒वस्य॑ । सा॒न॒सिम् ॥ द्यु॒म्नम् । चि॒त्रश्र॑वस्तम॒मिति॑ चि॒त्रश्र॑वः-त॒म॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

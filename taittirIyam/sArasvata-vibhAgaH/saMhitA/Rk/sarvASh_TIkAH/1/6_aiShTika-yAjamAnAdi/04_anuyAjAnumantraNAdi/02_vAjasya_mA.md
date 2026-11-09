@@ -1,8 +1,6 @@
 +++
 title = "02 वाजस्य मा"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -13,6 +11,11 @@ With elevation he hath lifted me up;
 <details><summary>मूलम्</summary>
 
 वाज॑स्य मा प्रस॒वेनो॑द्ग्रा॒भेणोद॑ग्रभीत् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वाज॑स्य । मा॒ । प्र॒स॒वेनेति॑ प्र-स॒वेन॑ । उ॒द्ग्रा॒भेणेत्यु॑त्-ग्रा॒भेण॑ । उदिति॑ । अ॒ग्र॒भी॒त् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

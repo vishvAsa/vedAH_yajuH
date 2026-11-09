@@ -4,10 +4,23 @@ title = "26 तम्पत्नीभिरनु गच्छेम"
 +++
 
 
+<details><summary>Keith</summary>
+
+Him with our wives let us pursue, O gods,  
+With our sons, our brothers, or by gold,  
+Seizing the vault in the world of good action,  
+Above the third firmament, in the light of the sky.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम्पत्नी॑भि॒रनु॑ गच्छेम देवाᳶ पु॒त्रैर्भ्रातृ॑भिरु॒त वा॒ हिर॑ण्यैः ।   
 नाक॑ङ्गृह्णा॒नास्सु॑कृ॒तस्य॑ लो॒के तृ॒तीये॑ पृ॒ष्ठे अधि॑ रोच॒ने दि॒वः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । पत्नी॑भिः । अन्विति॑ । ग॒च्छे॒म॒ । दे॒वाः॒ । पु॒त्रैः । भ्रातृ॑भि॒रिति॒ भ्रातृ॑-भिः॒ । उ॒त । वा॒ । हिर॑ण्यैः ॥ नाक॑म् । गृ॒ह्णा॒नाः । सु॒कृ॒तस्येति॑ सु-कृ॒तस्य॑ । लो॒के । तृ॒तीये॑ । पृ॒ष्ठे । अधीति॑ । रो॒च॒ने । दि॒वः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

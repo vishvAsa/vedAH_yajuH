@@ -4,10 +4,23 @@ title = "10 प्रेदग्ने ज्योतिष्मान्"
 +++
 
 
+<details><summary>Keith</summary>
+
+Come forward, O Agni, rich in light,  
+With auspicious rays;  
+Shining with great radiance,  
+Harm not our offspring with thy body.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रेद॑ग्ने॒ ज्योति॑ष्मान् याहि शि॒वेभि॑र॒र्चिभि॒स्त्वम् ।  
 बृ॒हद्भि॑र्भा॒नुभि॒र्भास॒न्मा हिँ॑सीस्त॒नुवा॑ प्र॒जाः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । इत् । अ॒ग्ने॒ । ज्योति॑ष्मान् । या॒हि॒ । शि॒वेभिः॑ । अ॒र्चिभि॒रित्य॒र्चि-भिः॒ । त्वम् ॥ बृ॒हद्भि॒रिति॑ बृ॒हत्-भिः॒ । भा॒नुभि॒रिति॑ भा॒नु-भिः॒ । भास॑न् । मा । हिँ॒सीः॒ । त॒नुवा॑ । प्र॒जा इति॑ प्र-जाः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

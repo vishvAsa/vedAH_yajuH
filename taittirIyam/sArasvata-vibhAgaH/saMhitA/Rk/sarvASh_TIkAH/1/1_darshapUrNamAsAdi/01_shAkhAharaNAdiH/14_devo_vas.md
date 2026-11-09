@@ -16,7 +16,7 @@ Let the god Savitr impel you to the most excellent offering.
 
 <details><summary>पद-पाठः</summary>
 
-देवः । वः । सविता । प्रेति । अर्पयतु । श्रेष्ठतमायेति श्रेष्ठ-तमाय । कर्मणे । 4D ।
+देवः । वः । सविता । प्रेति । अर्पयतु । श्रेष्ठतमायेति श्रेष्ठ-तमाय । कर्मणे ।
 </details>
 
 

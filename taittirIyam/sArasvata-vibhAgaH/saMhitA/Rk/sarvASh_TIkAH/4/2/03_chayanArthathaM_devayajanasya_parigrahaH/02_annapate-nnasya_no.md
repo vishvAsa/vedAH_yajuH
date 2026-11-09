@@ -4,10 +4,23 @@ title = "02 अन्नपतेऽन्नस्य नो"
 +++
 
 
+<details><summary>Keith</summary>
+
+O Lord of food, accord us food,  
+Uninjurious, impetuous;  
+Do thou further the donor,  
+Bestow strength on our bipeds, our quadrupeds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्न॑प॒तेऽन्न॑स्य नो देह्यनमी॒वस्य॑ शु॒ष्मिणः॑ ।  
 प्रप्र॑ दा॒तार॑न्तारिष॒ ऊर्ज॑न्नो धेहि द्वि॒पदे॒ चतु॑ष्पदे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अन्न॑पत॒ इत्यन्न॑-प॒ते॒ । अन्न॑स्य । नः॒ । दे॒हि॒ । अ॒न॒मी॒वस्य॑ । शु॒ष्मिणः॑ ॥ प्रेति॑ । प्र॒दा॒तार॒मिति॑ प्र-दा॒तार॑म् । ता॒रि॒षः॒ । ऊर्ज॑म् । नः॒ । धे॒हि॒ । द्वि॒पद॒ इति॑ द्वि-पदे॑ । चतु॑ष्पद॒ इति॒ चतुः॑-प॒दे॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

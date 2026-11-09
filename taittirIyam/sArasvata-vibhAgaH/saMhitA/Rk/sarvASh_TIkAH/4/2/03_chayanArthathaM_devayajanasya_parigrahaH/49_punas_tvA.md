@@ -4,10 +4,21 @@ title = "49 पुनस् त्वा"
 +++
 
 
+<details><summary>Keith</summary>
+
+May the Adityas, the Rudras, the Vasus, kindle thee again; The Brahmans again with offerings, O bringer of wealth; With ghee do thou increase our bodies;  
+May the wishes of the sacrificer become true.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुन॑स्त्वादि॒त्या रु॒द्रा वस॑व॒स्समि॑न्धता॒म्पुन॑र्ब्र॒ह्माणो॑ वसुनीथ य॒ज्ञैः ।  
 घृ॒तेन॒ त्वन्त॒नुवो॑ वर्धयस्व स॒त्यास्स॑न्तु॒ यज॑मानस्य॒ कामाः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पुनः॑ । त्वा॒ । आ॒दि॒त्याः । रु॒द्राः । वस॑वः । समिति॑ । इ॒न्ध॒ता॒म् । पुनः॑ । ब्र॒ह्माणः॑ । व॒सु॒नी॒थेति॑ वसु-नी॒थ॒ । य॒ज्ञैः ॥ घृ॒तेन॑ । त्वम् । त॒नुवः॑ । व॒र्ध॒य॒स्व॒ । स॒त्याः । स॒न्तु॒ । यज॑मानस्य । कामाः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

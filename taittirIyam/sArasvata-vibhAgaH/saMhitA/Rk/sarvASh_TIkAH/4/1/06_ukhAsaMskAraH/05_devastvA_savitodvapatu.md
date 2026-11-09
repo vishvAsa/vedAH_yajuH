@@ -4,10 +4,22 @@ title = "05 देवस्त्वा सवितोद्वपतु"
 +++
 
 
+<details><summary>Keith</summary>
+
+May the god Savitr dig thee out,  
+With fair hands, fair fingers,  
+Fair arms, with his might.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वस्त्वा॑ सवि॒तोद्व॑पतु सुपा॒णिस्स्व॑ङ्गु॒रिः ।  
 सु॒बा॒हुरु॒त शक्त्या॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वः । त्वा॒ । स॒वि॒ता । उदिति॑ । व॒प॒तु॒ । सु॒पा॒णिरिति॑ सु-पा॒णिः । स्व॒ङ्गुरिरिति॑ सु-अ॒ङ्गु॒रिः ॥ सु॒बा॒हुरिति॑ सु-बा॒हुः । उ॒त । शक्त्या॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

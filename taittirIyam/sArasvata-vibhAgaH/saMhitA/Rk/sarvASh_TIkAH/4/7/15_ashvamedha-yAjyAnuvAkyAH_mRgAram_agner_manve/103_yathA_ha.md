@@ -4,10 +4,22 @@ title = "103 यथा ह"
 +++
 
 
+<details><summary>Keith</summary>
+
+Even as ye did set free, O bright ones,  
+O ye that are worthy of offering, the buffalo cow bound by the foot, So do thou remove from us tribulation;  
+Be our life prolonged further, O Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा॑ ह॒ तद्व॑सवो गौ॒र्य॑ञ्चित्प॒दि षि॒ताममु॑ञ्चता यजत्राः ।   
 ए॒वा त्वम॒स्मत्प्र मु॑ञ्चा॒ व्यँह॒ᳶ प्राता॑र्यग्ने प्रत॒रान्न॒ आयुः॑ ॥ [39]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यथा॑ । ह॒ । तत् । व॒स॒वः॒ । गौ॒र्य॑म् । चि॒त् । प॒दि । सि॒ताम् । अमु॑ञ्चत । य॒ज॒त्राः॒ ॥ ए॒वा । त्वम् । अ॒स्मत् । प्रेति॑ । मु॒ञ्च॒ । वीति॑ । अँहः॑ । प्रेति॑ । अ॒ता॒रि॒ । अ॒ग्ने॒ । प्र॒त॒रामिति॑ प्र-त॒राम् । नः॒ । आयुः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

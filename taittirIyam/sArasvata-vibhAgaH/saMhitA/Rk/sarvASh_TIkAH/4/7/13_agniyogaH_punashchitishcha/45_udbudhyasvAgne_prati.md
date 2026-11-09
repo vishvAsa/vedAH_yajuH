@@ -4,10 +4,24 @@ title = "45 उद्बुध्यस्वाग्ने प्रति"
 +++
 
 
+<details><summary>Keith</summary>
+
+Awake, O Agni; be roused for him;  
+With this one do thou create sacrifice and donation;
+  
+Making thee, his father, young again  
+He hath stretched over thee this covering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उद्बु॑ध्यस्वाग्ने॒ प्रति॑ जागृह्येनमिष्टापू॒र्ते सँसृ॑जेथाम॒यञ्च॑ ।   
 पुन॑ᳵ कृ॒ण्वँस्त्वा॑ पि॒तरय्ँ॒युवा॑नम॒न्वाताँ॑सी॒त्त्वयि॒ तन्तु॑मे॒तम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उदिति॑ । बु॒ध्य॒स्व॒ । अ॒ग्ने॒ । प्रतीति॑ । जा॒गृ॒हि॒ । ए॒न॒म् । इ॒ष्टा॒पू॒र्ते इती॑ष्टा-पू॒र्ते । समिति॑ । सृ॒जे॒था॒म् । अ॒यम् । च॒ ॥ पुनः॑ । कृ॒ण्वन् । त्वा॒ । पि॒तर॑म् । युवा॑नम् । अ॒न्वाताँ॑सी॒दित्य॑नु-आताँ॑सीत् । त्वयि॑ । तन्तु॑म् । ए॒तम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -4,10 +4,23 @@ title = "02 अग्निय्ँयुनज्मि शवसा"
 +++
 
 
+<details><summary>Keith</summary>
+
+Agni I yoke with glory, with ghee,  
+The bird divine mighty in strength;  
+Therewith may we fly to the expanse of the ruddy one,  
+Mounting the heaven above the highest vault.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निय्ँयु॑नज्मि॒ शव॑सा घृ॒तेन॑ दि॒व्यँ सु॑प॒र्णव्ँवय॑सा बृ॒हन्त॑म् ।   
 तेन॑ व॒यम्प॑तेम ब्र॒ध्नस्य॑ वि॒ष्टपँ॒ सुवो॒ रुहा॑णा॒ अधि॒ नाक॑ उत्त॒मे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निम् । यु॒न॒ज्मि॒ । शव॑सा । घृ॒तेन॑ । दि॒व्यम् । सु॒प॒र्णमिति॑ सु-प॒र्णम् । वय॑सा । बृ॒हन्त॑म् ॥ तेन॑ । व॒यम् । प॒ते॒म॒ । ब्र॒ध्नस्य॑ । वि॒ष्टप॑म् । सुवः॑ । रुहा॑णाः । अधीति॑ । नाके॑ । उ॒त्त॒म इत्यु॑त्-त॒मे ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

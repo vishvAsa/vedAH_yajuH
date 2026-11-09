@@ -3,10 +3,23 @@ title = "204 अवसृष्टा परा"
 
 +++
 
+<details><summary>Keith</summary>
+
+Let loose, fly forward,  
+O arrow, expelled with holy power;  
+Go to our foes, and enter [4] them;  
+Not one of them do thou spare.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अव॑सृष्टा॒ परा॑ पत॒ शर॑व्ये॒ ब्रह्म॑सँशिता ।  
 गच्छा॒मित्रा॒न्प्र [19]  वि॒श॒ मैषा॒ङ्कञ्च॒नोच्छि॑षः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अव॑सृ॒ष्टेत्यव॑-सृ॒ष्टा॒ । परेति॑ । प॒ते॒ । शर॑व्ये । ब्रह्म॑सँशि॒तेति॒ ब्रह्म॑-सँ॒शि॒ता॒ ॥ गच्छ॑ । अ॒मित्रान्॑ । प्रेति॑ । वि॒श॒ । मा । ए॒षा॒म् । कम् । च॒न ।
 </details>
 
 <details><summary>सायण-टीका</summary>

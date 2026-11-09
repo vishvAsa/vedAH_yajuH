@@ -4,10 +4,23 @@ title = "30 आ वाचो"
 +++
 
 
+<details><summary>Keith</summary>
+
+To the middle of speech hath the busy one arisen,  
+Agni here, lord of the good, the wise;  
+Established on the back of the earth, the radiant one,  
+He casteth beneath his feet [3] the combatants.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ वा॒चो मध्य॑मरुहद्भुर॒ण्युर॒यम॒ग्निस्सत्प॑ति॒श्चेकि॑तानः ।   
 पृ॒ष्ठे पृ॑थि॒व्या निहि॑तो॒ दवि॑द्युतदधस्प॒दङ्कृ॑णुते [26] ये पृ॑त॒न्यवः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । वा॒चः । मध्य॑म् । अ॒रु॒ह॒त् । भु॒र॒ण्युः । अ॒यम् । अ॒ग्निः । सत्प॑ति॒रिति॒ सत्-प॒तिः॒ । चेकि॑तानः ॥ पृ॒ष्ठे । पृ॒थि॒व्याः । निहि॑त॒ इति॒ नि-हि॒तः॒ । दवि॑द्युतत् । अ॒ध॒स्प॒दमित्य॑धः-प॒दम् । कृ॒णु॒ते॒ । ये । पृ॒त॒न्यवः॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

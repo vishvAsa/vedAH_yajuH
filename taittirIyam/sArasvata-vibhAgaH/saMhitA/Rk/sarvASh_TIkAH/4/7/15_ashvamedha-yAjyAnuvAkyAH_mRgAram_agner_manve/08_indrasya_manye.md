@@ -3,10 +3,22 @@ title = "08 इन्द्रस्य मन्ये"
 
 +++
 
+<details><summary>Keith</summary>
+
+Of Indra first I reckon, the wise one;  
+Praise of the slayer of Vrtra hath come to me,  
+He who cometh at the call of the generous doer of good deeds [1], May he relieve us from tribulation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्य मन्ये प्रथ॒मस्य॒ प्रचे॑तसो वृत्र॒घ्नस्स्तोमा॒ उप॒ मामु॒पागुः॑ ।   
 यो दा॒शुष॑स्सु॒कृतो॒ हव॒मुप॒ गन्ता॑ [33]  स नो॑ मुञ्च॒त्वँह॑सः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑स्य । म॒न्ये॒ । प्र॒थ॒मस्य॑ । प्रचे॑तस॒ इति॒ प्र-चे॒त॒सः॒ । वृ॒त्र॒घ्न इति॑ वृत्र-घ्नः । स्तोमाः॑ । उपेति॑ । माम् । उ॒पागु॒रित्यु॑प-आगुः॑ ॥ यः । दा॒शुषः॑ । सु॒कृत॒ इति॑ सु-कृतः॑ । हव॑म् । उपेति॑ । गन्ता॑ । सः । नः॒ । मु॒ञ्च॒तु॒ । अँह॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

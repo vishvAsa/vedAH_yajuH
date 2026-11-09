@@ -1,8 +1,6 @@
 +++
 title = "32 आपो अस्मान्"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -14,6 +12,11 @@ With ghee let those that purify our ghee purify us.
 
 आपो॑ अ॒स्मान्मा॒तर॑श्शुन्धन्तु।  
 घृ॒तेन॑ नो घृत॒पुवᳶ॑ पुनन्तु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आपः॑ । अ॒स्मान् । मा॒तरः॑ । शु॒न्ध॒न्तु॒ । घृ॒तेन॑ । नः॒ । घृ॒त॒पुव॒ इति॑ घृत-पुवः॑ । पु॒न॒न्तु॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

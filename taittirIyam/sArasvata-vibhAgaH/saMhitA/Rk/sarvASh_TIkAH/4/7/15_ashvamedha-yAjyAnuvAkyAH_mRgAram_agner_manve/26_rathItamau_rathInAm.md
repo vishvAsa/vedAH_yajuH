@@ -3,10 +3,22 @@ title = "26 रथीतमौ रथीनाम्"
 
 +++
 
+<details><summary>Keith</summary>
+
+Best charioteers of carmen, I hail for aid,  
+That go most smoothly with well-guided steeds;  
+Ye [3] whose might among the gods, O gods, is unextinguished, May ye relieve us from sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 र॒थीत॑मौ रथी॒नाम॑ह्व ऊ॒तये॒ शुभ॒ङ्गमि॑ष्ठौ सु॒यमे॑भि॒रश्वैः॑ ।   
 ययोः॑ [35]  वा॒न्दे॒वौ॒ दे॒वेष्वनि॑शित॒मोज॒स्तौ नो॑ मुञ्चत॒माग॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+र॒थीत॑मा॒विति॑ र॒थि-त॒मौ॒ । र॒थी॒नाम् । अ॒ह्वे॒ । ऊ॒तये॑ । शुभ॑म् । गमि॑ष्ठौ । सु॒यमे॑भि॒रिति॑ सु-यमे॑भिः । अश्वैः॑ ॥ ययोः॑ । वा॒म् । दे॒वौ॒ । दे॒वेषु॑ । अनि॑शित॒मित्यनि॑-शि॒त॒म् । ओजः॑ । तौ । नः॒ । मु॒ञ्च॒त॒म् । आग॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -4,11 +4,21 @@ title = "18 उद्नो दत्तोदधिम्भिन्त"
 +++
 
 
+<details><summary>Keith</summary>
+
+Give of the water, cleave the holder of the water; from the sky, from Parjanya, from the atmosphere, from the earth, thence do ye help us with rain; thou art the head of the sky, the navel of earth, the strength of waters and plants, protection of all life, extending; homage to the way!
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒द्नो द॑त्तोद॒धिम्भि॑न्त दि॒वᳶ प॒र्जन्या॑द॒न्तरि॑क्षात्पृथि॒व्यास्ततो॑ नो॒ वृष्ट्या॑वत ।  
 दि॒वो मू॒र्धासि॑ पृथि॒व्या नाभि॒रूर्ग॒पामोष॑धीनाम् ।
 वि॒श्वायु॒श्शर्म॑ स॒प्रथा॒ नम॑स्प॒थे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒द्नः । द॒त्त॒ । उ॒द॒धिमित्यु॑द-धिम् । भि॒न्त॒ । दि॒वः । प॒र्जन्या॑त् । अ॒न्तरि॑क्षात् । पृ॒थि॒व्याः । ततः॑ । नः॒ । वृष्ट्या॑ । अ॒व॒त॒ ॥ दि॒वः । मू॒र्धा । अ॒सि॒ । पृ॒थि॒व्याः । नाभिः॑ । ऊर्क् । अ॒पाम् । ओष॑धीनाम् ॥ वि॒श्वायु॒रिति॑ वि॒श्व-आ॒युः॒ । शर्म॑ । स॒प्रथा॒ इति॑ स-प्रथाः॑ । नमः॑ । प॒थे ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

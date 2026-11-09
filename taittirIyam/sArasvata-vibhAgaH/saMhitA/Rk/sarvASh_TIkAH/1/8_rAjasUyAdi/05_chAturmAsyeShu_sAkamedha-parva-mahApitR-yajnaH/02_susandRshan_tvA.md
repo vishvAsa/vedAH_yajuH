@@ -2,6 +2,13 @@
 title = "02 सुसन्दृशन् त्वा"
 +++
 
+<details><summary>Keith</summary>
+
+May we gladden thee,  
+O bountiful one, fair to see;
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 सु॒स॒न्दृश॑न् त्वा व॒यम्  
@@ -10,13 +17,7 @@ title = "02 सुसन्दृशन् त्वा"
 
 <details><summary>पद-पाठः</summary>
 
-3C । सु॒स॒न्दृश॒मिति॑ सु-स॒न्दृश॑म् । त्वा॒ । व॒यम् । मघ॑व॒न्निति॒ मघ॑-व॒न् । म॒न्दि॒षी॒महि॑ ॥
-</details>
-
-<details><summary>Keith</summary>
-
-May we gladden thee,  
-O bountiful one, fair to see;
+सु॒स॒न्दृश॒मिति॑ सु-स॒न्दृश॑म् । त्वा॒ । व॒यम् । मघ॑व॒न्निति॒ मघ॑-व॒न् । म॒न्दि॒षी॒महि॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

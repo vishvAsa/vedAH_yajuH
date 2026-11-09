@@ -1,8 +1,6 @@
 +++
 title = "05 अथा सपत्नान्"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -13,6 +11,11 @@ Scatter my foes on every side.
 <details><summary>मूलम्</summary>
 
 अथा॑ स॒पत्ना॑निन्द्रा॒ग्नी मे॑ विषू॒चीना॒न्व्य॑स्यताम् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अथ॑ । स॒पत्नान्॑ । इ॒न्द्रा॒ग्नी इती॑न्द्र-अ॒ग्नी । मे॒ । वि॒षू॒चीनान्॑ । वीति॑ । अ॒स्य॒ता॒म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

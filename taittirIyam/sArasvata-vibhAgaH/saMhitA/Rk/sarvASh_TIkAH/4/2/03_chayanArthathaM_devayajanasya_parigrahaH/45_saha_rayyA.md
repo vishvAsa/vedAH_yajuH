@@ -3,10 +3,22 @@ title = "45 सह रय्या"
 
 +++
 
+<details><summary>Keith</summary>
+
+Return with wealth,  
+O Agni, fatten with the stream,  
+All-gaining on every side.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒ह र॒य्या नि व॑र्त॒स्वाग्ने॒ पिन्व॑स्व॒ धार॑या ।  
 वि॒श्वप्स्नि॑या वि॒श्वत॒स्परि॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒ह । र॒य्या । नीति॑ । व॒र्त॒स्व॒ । अग्ने॑ । पिन्व॑स्व । धार॑या ॥ वि॒श्वप्स्नि॒येति॑ वि॒श्व-प्स्नि॒या॒ । वि॒श्वतः॑ । परि॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

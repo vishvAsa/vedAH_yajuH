@@ -4,10 +4,23 @@ title = "17 यो वाम्"
 +++
 
 
+<details><summary>Keith</summary>
+
+You whose chariot with straight reins, of true path,  
+Approacheth to spoil him who acteth falsely,  
+Mitra and Varuna I praise [2]; I invoke seeking aid,  
+May ye relieve us from sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो वाँ॒ रथ॑ ऋ॒जुर॑श्मिस्स॒त्यध॑र्मा॒ मिथु॒श्चर॑न्तमुप॒याति॑ दू॒षय॑न् ।   
 स्तौमि॑ [34]  मि॒त्रावरु॑णा नाथि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒माग॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । वा॒म् । रथः॑ । ऋ॒जुर॑श्मि॒रित्यृ॒जु-र॒श्मिः॒ । स॒त्यध॒र्मेति॑ स॒त्य-ध॒र्मा॒ । मिथु॑ । चर॑न्तम् । उ॒प॒यातीत्यु॑प-याति॑ । दू॒षय॑न्न् ॥ स्तौमि॑ । मि॒त्रावरु॒णेति॑ मि॒त्रा-वरु॑णा । ना॒थि॒तः । जो॒ह॒वी॒मि॒ । तौ । नः॒ । मु॒ञ्च॒त॒म् । आग॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

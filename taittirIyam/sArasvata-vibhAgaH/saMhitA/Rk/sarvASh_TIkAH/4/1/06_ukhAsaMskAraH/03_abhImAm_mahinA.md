@@ -3,10 +3,22 @@ title = "03 अभीमाम् महिना"
 
 +++
 
+<details><summary>Keith</summary>
+
+Mitra, extending, compasseth  
+This sky in greatness [2],  
+And the earth with his fame.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒भीमाम् [23]  म॒हि॒ना दिव॑म्मि॒त्रो ब॑भूव स॒प्रथाः॑ ।  
 उ॒त श्रव॑सा पृथि॒वीम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भीति॑ । इ॒माम् । म॒हि॒ना । दिव॑म् । मि॒त्रः । ब॒भू॒व॒ । स॒प्रथा॒ इति॑ स-प्रथाः॑ ॥ उ॒त । श्रव॑सा । पृ॒थि॒वीम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

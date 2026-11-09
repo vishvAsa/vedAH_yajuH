@@ -1,8 +1,6 @@
 +++
 title = "07 यन् म"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -13,6 +11,11 @@ Agni hath put that right, all-knower, he who belongeth to all men;
 <details><summary>मूलम्</summary>
 
 यन्म॑ आ॒त्मनो॑ मि॒न्दाभू॑द॒ग्निस्तत्पुन॒राहा॑र्जा॒तवे॑दा॒ विच॑र्षणिः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । मे॒ । आ॒त्मनः॑ । मि॒न्दा । अभू॑त् । अ॒ग्निः । तत् । पुनः॑ । एति॑ । अ॒हाः॒ । जा॒तवे॑दा॒ इति॑ जा॒त-वे॒दाः॒ । विच॑र्षणि॒रिति॒ वि-च॒र्ष॒णिः॒ ॥
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -35,4 +38,3 @@ Agni hath put that right, all-knower, he who belongeth to all men;
 अग्निः जातवेदाः जातानां वेदिता विचर्षणिः विशिष्टदशर्नः  
 तत्पुनः आहाः आहरतु । छान्दसे लिङि सिचि वृद्धौ 'बहुलं छन्दसि' इतीडभावे हल्ङ्यादिसंयोगान्तलोपौ ॥
 </details>
-

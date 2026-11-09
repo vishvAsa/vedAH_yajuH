@@ -1,8 +1,6 @@
 +++
 title = "03 अथा सपत्नाम्"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -13,6 +11,11 @@ Humble by depression.
 <details><summary>मूलम्</summary>
 
 अथा॑ स॒पत्नाँ॒ इन्द्रो॑ मे निग्रा॒भेणाध॑राँ अकः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अथ॑ । स॒पत्नान्॑ । इन्द्रः॑ । मे॒ । नि॒ग्रा॒भेणेति॑ नि-ग्रा॒भेण॑ । अध॑रान् । अ॒कः॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

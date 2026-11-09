@@ -3,10 +3,23 @@ title = "201 उप प्रेत"
 
 +++
 
+<details><summary>Keith</summary>
+
+Go ye forward, O heroes; conquer;  
+Be your arms strong;  
+May Indra accord you protection  
+That ye may be unassailable.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॒ प्रेत॒ जय॑ता नरस्स्थि॒रा व॑स्सन्तु बा॒हवः॑ ।  
 इन्द्रो॑ व॒श्शर्म॑ यच्छत्वनाधृ॒ष्या यथाऽस॑थ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उप॑ । प्रेति॑ । इ॒त॒ । जय॑त । न॒रः॒ । स्थि॒राः । वः॒ । स॒न्तु॒ । बा॒हवः॑ ॥ इन्द्रः॑ । वः॒ । शर्म॑ । य॒च्छ॒तु॒ । अ॒ना॒धृ॒ष्या इत्य॑ना-धृ॒ष्याः । यथा॑ । अस॑थ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

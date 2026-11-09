@@ -1,8 +1,6 @@
 +++
 title = "04 उद्ग्राभञ् च"
-
 +++
-
 
 <details><summary>Keith</summary>
 
@@ -13,6 +11,11 @@ What is elevation and depression;
 <details><summary>मूलम्</summary>
 
 उ॒द्ग्रा॒भञ्च॑ निग्रा॒भञ्च॒ ब्रह्म॑ दे॒वा अ॑वीवृधन् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒द्ग्रा॒भमित्यु॑त्-ग्रा॒भम् । च॒ । नि॒ग्रा॒भमिति॑ नि-ग्रा॒भम् । च॒ । ब्रह्म॑ । दे॒वाः । अ॒वी॒वृ॒ध॒न् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

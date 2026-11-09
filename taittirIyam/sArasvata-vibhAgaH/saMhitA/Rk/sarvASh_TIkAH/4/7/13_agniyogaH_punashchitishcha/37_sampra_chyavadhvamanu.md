@@ -3,10 +3,23 @@ title = "37 सम्प्र च्यवध्वमनु"
 
 +++
 
+<details><summary>Keith</summary>
+
+Move ye forward, go ye long together;  
+Make ye the paths gods travelled, O Agni;  
+In this highest abode  
+O All-gods, sit ye with the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सम्प्र च्य॑वध्व॒मनु॒ सम्प्र या॒ताग्ने॑ प॒थो दे॑व॒याना॑न्कृणुध्वम् ।   
 अ॒स्मिन्त्स॒धस्थे॒ अध्युत्त॑रस्मि॒न्विश्वे॑ देवा॒ यज॑मानश्च सीदत ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सम् । प्रेति॑ । च्य॒व॒ध्व॒म् । अन्विति॑ । सम् । प्रेति॑ । या॒त॒ । अग्ने॑ । प॒थः । दे॒व॒याना॒निति॑ देव-यानान्॑ । कृ॒णु॒ध्व॒म् ॥ अ॒स्मिन् । स॒धस्थ॒ इति॑ स॒ध-स्थे॒ । अधीति॑ । उत्त॑रस्मि॒न्नित्युत्-त॒र॒स्मि॒न् । विश्वे॑ । दे॒वाः॒ । यज॑मानः । च॒ । सी॒द॒त॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -3,10 +3,23 @@ title = "207 मर्माणि ते"
 
 +++
 
+<details><summary>Keith</summary>
+
+Thy vital parts I clothe with armour;  
+May Soma, the king, cover thee with immortality,  
+Space broader than broad be thine;  
+May the gods take delight in thy victory.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मर्मा॑णि ते॒ वर्म॑भिश्छादयामि॒ सोम॑स्त्वा॒ राजा॒मृते॑ना॒भि व॑स्ताम् ।  
 उ॒रोर्वरी॑यो॒ वरि॑वस्ते अस्तु॒ जय॑न्त॒न्त्वामनु॑ मदन्तु दे॒वाः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मर्मा॑णि । ते॒ । वर्म॑भि॒रिति॒ वर्म॑-भिः॒ । छा॒द॒या॒मि॒ । सोमः॑ । त्वा॒ । राजा॑ । अ॒मृते॑न । अ॒भीति॑ । व॒स्ता॒म् ॥ उ॒रोः । वरी॑यः । वरि॑वः । ते॒ । अ॒स्तु॒ । जय॑न्तम् । त्वाम् । अन्विति॑ । म॒द॒न्तु॒ । दे॒वाः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

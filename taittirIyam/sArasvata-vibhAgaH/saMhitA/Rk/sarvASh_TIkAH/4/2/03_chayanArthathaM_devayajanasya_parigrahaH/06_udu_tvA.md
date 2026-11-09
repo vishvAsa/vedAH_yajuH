@@ -4,10 +4,23 @@ title = "06 उदु त्वा"
 +++
 
 
+<details><summary>Keith</summary>
+
+May the All-gods thee,  
+O Agni, bear up with their thoughts;  
+Be thou to us most propitious,  
+With kindly face, abounding in light,
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदु॑ त्वा॒ विश्वे॑ दे॒वा अग्ने॒ भर॑न्तु॒ चित्ति॑भिः ।  
 स नो॑ भव शि॒वत॑मस्सु॒प्रती॑को वि॒भाव॑सुः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उदिति॑ । उ॒ । त्वा॒ । विश्वे॑ । दे॒वाः । अग्ने॑ । भर॑न्तु । चित्ति॑भि॒रिति॒ चित्ति॑-भिः॒ ॥ सः । नः॒ । भ॒व॒ । शि॒वत॑म॒ इति॑ शि॒व-त॒मः॒ । सु॒प्रती॑क॒ इति॑ सु-प्रती॑कः । वि॒भाव॑सु॒रिति॑ वि॒भा-व॒सुः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

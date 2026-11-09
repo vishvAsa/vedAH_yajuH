@@ -3,10 +3,22 @@ title = "14 मन्वे वाम्"
 
 +++
 
+<details><summary>Keith</summary>
+
+Of you, O Mitra and Varuna, I reckon  
+Take heed of him, O ye of true strength, strong ones, whom ye afflict; Ye who go in might against the king in his chariot,  
+May ye relieve us from sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒न्वे वा॑म्मित्रावरुणा॒ तस्य॑ वित्तँ॒ सत्यौ॑जसा दृँहणा॒ यन्नु॒देथे॑ ।   
 या राजा॑नँ स॒रथय्ँ॑या॒थ उ॑ग्रा॒ ता नो॑ मुञ्चत॒माग॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒न्वे । वा॒म् । मि॒त्रा॒व॒रु॒णेति॑ मित्रा-व॒रु॒णा॒ । तस्य॑ । वि॒त्त॒म् । सत्यौ॑ज॒सेति॒ सत्य॑-ओ॒ज॒सा॒ । दृँ॒ह॒णा॒ । यम् । नु॒देथे॒ इति॑ ॥ या । राजा॑नम् । स॒रथ॒मिति॑ स-रथ॑म् । या॒थः । उ॒ग्रा॒ । ता । नः॒ । मु॒ञ्च॒त॒म् । आग॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

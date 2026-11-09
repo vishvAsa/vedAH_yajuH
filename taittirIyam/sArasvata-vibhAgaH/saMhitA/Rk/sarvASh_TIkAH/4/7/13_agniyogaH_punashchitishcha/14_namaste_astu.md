@@ -4,10 +4,23 @@ title = "14 नमस्ते अस्तु"
 +++
 
 
+<details><summary>Keith</summary>
+
+Homage be to thee; harm me not,  
+Thou dost stand resting on the head of all;  
+Within the ocean is thy heart, thy life;  
+Sky and earth are placed on the worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑स्ते अस्तु॒ मा मा॑ हिँसी॒र्विश्व॑स्य मू॒र्धन्नधि॑ तिष्ठसि श्रि॒तः ।   
 स॒मु॒द्रे ते॒ हृद॑यम॒न्तरायु॒र्द्यावा॑पृथि॒वी भुव॑ने॒ष्वर्पि॑ते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । ते॒ । अस्तु॑ । मा । मा॒ । हिँ॒सीः॒ । विश्व॑स्य । मू॒र्धन् । अधीति॑ । ति॒ष्ठ॒सि॒ । श्रि॒तः ॥ स॒मु॒द्रे । ते॒ । हृद॑यम् । अ॒न्तः । आयुः॑ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । भुव॑नेषु । अर्पि॑ते॒ इति॑ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

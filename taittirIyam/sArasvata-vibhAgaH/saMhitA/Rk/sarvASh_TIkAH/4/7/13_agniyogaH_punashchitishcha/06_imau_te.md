@@ -4,10 +4,23 @@ title = "06 इमौ ते"
 +++
 
 
+<details><summary>Keith</summary>
+
+These are wings unaging of thee, the winged,  
+Wherewith thou dost smite away the Raksases, O Agni;  
+With these may we fly to the world of good men,  
+Where are the seers, the first-born, those of yore.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मौ ते॑ प॒क्षाव॒जरौ॑ पत॒त्रिणो॒ याभ्याँ॒ रक्षाँ॑स्यप॒हँस्य॑ग्ने ।   
 ताभ्या॑म्पतेम सु॒कृता॑मु लो॒कय्ँयत्रर्ष॑यᳶ प्रथम॒जा ये पु॑रा॒णाः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒मौ । ते॒ । प॒क्षौ । अ॒जरौ॑ । प॒त॒त्रिणः॑ । याभ्या॑म् । रक्षाँ॑सि । अ॒प॒हँसीत्य॑प-हँसि॑ । अ॒ग्ने॒ ॥ ताभ्या॑म् । प॒ते॒म॒ । सु॒कृता॒मिति॑ सु-कृता॑म् । उ॒ । लो॒कम् । यत्र॑ । ऋष॑यः । प्र॒थ॒म॒जा इति॑ प्रथम-जाः । ये । पु॒रा॒णाः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

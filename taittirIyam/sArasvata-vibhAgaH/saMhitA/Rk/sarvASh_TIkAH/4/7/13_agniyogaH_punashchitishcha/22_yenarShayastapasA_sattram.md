@@ -4,10 +4,22 @@ title = "22 येनर्षयस्तपसा सत्त्रम्"
 +++
 
 
+<details><summary>Keith</summary>
+
+With that devotion wherewith the seers performed the session of sacrifice [2], Kindling Agni, bearing aloft the heaven,  
+I set on this vault that Agni  
+Whom men call him for whom the spread is strewed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 येनर्ष॑य॒स्तप॑सा स॒त्त्रम् [25]  आस॒तेन्धा॑ना अ॒ग्निँ सुव॑रा॒भर॑न्तः ।   
 तस्मि॑न्न॒हन्नि द॑धे॒ नाके॑ अ॒ग्निमे॒तय्ँयमा॒हुर्मन॑वस्स्ती॒र्णब॑र्हिषम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+येन॑ । ऋष॑यः । तप॑सा । स॒त्त्रम् । आस॑त । इन्धा॑नाः । अ॒ग्निम् । सुवः॑ । आ॒भर॑न्त॒ इत्या॑-भर॑न्तः ॥ तस्मि॑न् । अ॒हम् । नीति॑ । द॒धे॒ । नाके॑ । अ॒ग्निम् । ए॒तम् । यम् । आ॒हुः । मन॑वः । स्ती॒र्णब॑र्हिष॒मिति॑ स्ती॒र्ण-ब॒र्हि॒ष॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

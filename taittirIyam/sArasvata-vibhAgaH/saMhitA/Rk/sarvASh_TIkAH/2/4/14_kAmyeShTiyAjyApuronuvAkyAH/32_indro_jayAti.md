@@ -4,10 +4,23 @@ title = "32 इन्द्रो जयाति,"
 +++
 
 
+<details><summary>Keith</summary>
+
+Indra shall conquer, he shall not be conquered;  
+Over-lord among kings shall he rule;  
+In all conflicts shall he be a protector,  
+That he may be reverenced and honoured.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रो॑ जयाति॒ न परा॑ जयाता अधिरा॒जो राज॑सु राजयाति ।  
 विश्वा॒ हि भू॒याᳶ पृत॑ना अभि॒ष्टीरु॑प॒सद्यो॑ नम॒स्यो॑ यथास॑त् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्रः॑ । ज॒या॒ति॒ । न । परेति॑ । ज॒या॒तै॒ । अ॒धि॒रा॒ज इत्य॑धि-रा॒जः । राज॒स्विति॒ राज॑-सु॒ । रा॒ज॒या॒ति॒ ॥ विश्वाः॑ । हि । भू॒याः । पृत॑नाः । अ॒भि॒ष्टीः । उ॒प॒सद्य॒ इत्यु॑प-सद्यः॑ । न॒म॒स्यः॑ । यथा॑ । अस॑त् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -4,10 +4,22 @@ title = "22 आपो देवीᳶ"
 +++
 
 
+<details><summary>Keith</summary>
+
+O ye waters divine, accept these ashes;  
+Place them on a resting-place, in the fragrant region To him may the ladies with noble spouses bow;  
+Like a mother her son, do ye kindly bear him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आपो॑ देवी॒ᳶ प्रति॑ गृह्णीत॒ भस्मै॒तत्स्यो॒ने कृ॑णुध्वँ सुर॒भावु॑ लो॒के ।  
 तस्मै॑ नमन्ता॒ञ्जन॑यस्सु॒पत्नी॑र्मा॒तेव॑ पु॒त्रम्बि॑भृ॒ता स्वे॑नम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आपः॑ । दे॒वीः॒ । प्रतीति॑ । गृ॒ह्णी॒त॒ । भस्म॑ । ए॒तत् । स्यो॒ने । कृ॒णु॒ध्व॒म् । सु॒र॒भौ । उ॒ । लो॒के ॥ तस्मै॑ । न॒म॒न्ता॒म् । जन॑यः । सु॒पत्नी॒रिति॑ सु-पत्नीः॑ । मा॒ता । इ॒व॒ । पु॒त्रम् । बि॒भृ॒त । स्विति॑ । ए॒न॒म् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

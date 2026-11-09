@@ -4,10 +4,23 @@ title = "20 वायोस् सवितुर्"
 +++
 
 
+<details><summary>Keith</summary>
+
+We venerate the ordinances of Vayu and of Savitr,  
+Who support that which hath life and guard it,  
+Who surround all things;  
+May ye relieve us from sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒योस्स॑वि॒तुर्वि॒दथा॑नि मन्महे॒ यावा॑त्म॒न्वद्बि॑भृ॒तो यौ च॒ रक्ष॑तः ।   
 यौ विश्व॑स्य परि॒भू ब॑भू॒वतु॒स्तौ नो॑ मुञ्चत॒माग॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒योः । स॒वि॒तुः । वि॒दथा॑नि । म॒न्म॒हे॒ । यौ । आ॒त्म॒न्वत् । बि॒भृ॒तः । यौ । च॒ । रक्ष॑तः ॥ यौ । विश्व॑स्य । प॒रि॒भू इति॑ परि-भू । ब॒भू॒वतुः॑ । तौ । नः॒ । मु॒ञ्च॒त॒म् । आग॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

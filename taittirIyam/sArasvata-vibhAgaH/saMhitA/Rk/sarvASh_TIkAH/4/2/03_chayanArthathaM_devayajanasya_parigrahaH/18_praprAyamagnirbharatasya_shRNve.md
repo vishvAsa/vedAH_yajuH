@@ -4,10 +4,24 @@ title = "18 प्रप्रायमग्निर्भरतस्य श�
 +++
 
 
+<details><summary>Keith</summary>
+
+Far-famed is this Agni of Bharata,  
+Since his great light shineth like the sun;  
+He who overcame Puru in battle
+
+Hath shone forth, the heavenly guest, propitious for us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रप्रा॒यम॒ग्निर्भ॑र॒तस्य॑ शृण्वे॒ वि यत्सूर्यो॒ न रोच॑ते बृ॒हद्भाः ।  
 अ॒भि यᳶ पू॒रुम्पृत॑नासु त॒स्थौ दी॒दाय॒ दैव्यो॒ अति॑थिश्शि॒वो नः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रप्रेति॒ प्र-प्र॒ । अ॒यम् । अ॒ग्निः । भ॒र॒तस्य॑ । शृ॒ण्वे॒ । वीति॑ । यत् । सूर्यः॑ । न । रोच॑ते । बृ॒हत् । भाः ॥ अ॒भीति॑ । यः । पू॒रुम् । पृत॑नासु । त॒स्थौ । दी॒दाय॑ । दैव्यः॑ । अति॑थिः । शि॒वः । नः॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

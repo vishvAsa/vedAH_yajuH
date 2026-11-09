@@ -4,10 +4,22 @@ title = "29 यद् अयातम्"
 +++
 
 
+<details><summary>Keith</summary>
+
+What time ye came to the wedding of Surya,  
+Choosing a seat together on the three-wheeled (chariot), I praise you, Aśvins, gods, invoke seeking aid,  
+May ye relieve us from sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदया॑तव्ँवह॒तुँ सू॒र्याया॑स्त्रिच॒क्रेण॑ सँ॒सद॑मि॒च्छमा॑नौ ।   
 स्तौमि॑ दे॒वाव॒श्विनौ॑ नाथि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒माग॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । अया॑तम् । व॒ह॒तुम् । सू॒र्यायाः॑ । त्रि॒च॒क्रेणेति॑ त्रि-च॒क्रेण॑ । सँ॒सद॒मिति॑ सम्-सद॑म् । इ॒च्छमा॑नौ ॥ स्तौमि॑ । दे॒वौ । अ॒श्विनौ॑ । ना॒थि॒तः । जो॒ह॒वी॒मि॒ । तौ । नः॒ । मु॒ञ्च॒त॒म् । आग॑सः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
