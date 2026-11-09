@@ -2,12 +2,25 @@
 title = "०२ धाता प्रजाया"
 
 +++
+<details><summary>Keith</summary>
+
+Dhatr is lord of offspring and of wealth,  
+Dhatr created all this world.  
+Dhatr giveth a son to the sacrificer [2]  
+To him let us offer the oblation rich in ghee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धा॒ता प्र॒जाया॑ उ॒त रा॒य ई॑शे    
 धा॒तेदं विश्व॒म्भुव॑नं जजान ।   
 धा॒ता पु॒त्रं यज॑मानाय॒ दाता॑  
 तस्मा॑ उ ह॒व्यं घृ॒तव॑द्विधेम ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धा॒ता । प्र॒जाया॒ इति॑ प्र-जायाः॑ । उ॒त । रा॒यः । ई॒शे॒ । धा॒ता । इ॒दम् । विश्व॑म् । भुव॑नम् । ज॒जा॒न॒ ॥ धा॒ता । पु॒त्रम् । यज॑मानाय । दाता॑ । तस्मै॑ । उ॒ । ह॒व्यम् । घृ॒तव॒दिति॑ घृ॒त-व॒त्॒ । वि॒धे॒म॒ ॥
 </details>
 <details><summary>हरदत्तः</summary>
 

@@ -2,12 +2,25 @@
 title = "०४ धाता ददातु"
 
 +++
+<details><summary>Keith</summary>
+
+May Dhatr give wealth to the giver,  
+Desiring offspring, generous in his home;  
+Let all the immortal gods roll themselves up for him,  
+The All-gods and Aditi in unison.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धा॒ता द॑दातु दा॒शुषे॒ वसू॑नि  
 प्र॒जाका॑माय मी॒ढुषे॑ दुरो॒णे ।  
 तस्मै॑ दे॒वा अ॒मृताः॒ सं व्य॑यन्तां॒   
 विश्वे॑ दे॒वासो॒ अदि॑तिः स॒जोषाः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धा॒ता । द॒दा॒तु॒ । दा॒शुषे॑ । वसू॑नि । प्र॒जाका॑मा॒येति॑ प्र॒जा-का॒मा॒य॒ । मी॒ढुषे॑ । दु॒रो॒ण इति॑ दुः-ओ॒ने ॥ तस्मै॑ । दे॒वाः । अ॒मृताः॑ । समिति॑ । व्य॒य॒न्ता॒म्॒ । विश्वे॑ । दे॒वासः॑ । अदि॑तिः । स॒जोषा॒ इति॑ स-जोषाः॑ ॥
 </details>
 <details><summary>हरदत्तः</summary>
 

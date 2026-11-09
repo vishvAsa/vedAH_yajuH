@@ -2,12 +2,26 @@
 title = "०३ धाता ददातु"
 
 +++
+<details><summary>Keith</summary>
+
+may Dhatr give us wealth,
+  
+Life in days to come and unfailing;  
+May we obtain the favour  
+Of the god whose gifts are true.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धा॒ता द॑दातु नो र॒यिम्  
 प्राचीं॑ जी॒वातु॒मक्षि॑ताम् ।  
 व॒यं दे॒वस्य॑ धीमहि  
 सुम॒तिँ स॒त्य-रा॑धसः।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धा॒ता । द॒दा॒तु॒ । नः॒ । र॒यिम् । प्राची॑म् । जी॒वातु॑म् । अक्षि॑ताम् ॥ व॒यम् । दे॒वस्य॑ । धी॒म॒हि॒ । सु॒म॒तिमिति॑ सु-म॒तिम् । स॒त्यरा॑धस॒ इति॑ स॒त्य-रा॒ध॒सः॒ ॥
 </details>
 <details><summary>हरदत्तः</summary>
 

@@ -8,11 +8,23 @@ title = "०१ धाता ददातु"
 </details>
 
 
+<details><summary>Keith</summary>
+
+May Dhatr give us wealth,  
+The lord the ruler of the world,  
+May he favour us with a full (gift).
+</details>
+
 <details><summary>मूलम्</summary>
 
 धा॒ता द॑दातु नो र॒यिम्  
 ईशा॑नो॒ जग॑त॒स्पतिः॑ ।  
 स नः॑ पू॒र्णेन॑ वावनत् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धा॒ता । द॒दा॒तु॒ । नः॒ । र॒यिम् । ईशा॑नः । जग॑तः । पतिः॑ ॥ सः । नः॒ । पू॒र्णेन॑ । वा॒व॒न॒त्॒ ॥
 </details>
 <details><summary>हरदत्तः</summary>
 

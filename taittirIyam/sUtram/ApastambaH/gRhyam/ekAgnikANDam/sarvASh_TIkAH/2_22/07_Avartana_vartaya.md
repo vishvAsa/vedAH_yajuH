@@ -1,12 +1,21 @@
-+++
-title = "०७-०८ आवर्तन वर्तयेत्येषा"
-+++
+<details><summary>Keith</summary>
 
+Bring near, O bringer,  
+Remove away, O remover,  
+O Indra Nardabuda,  
+With the four quarters of the earth  
+Do thou bring near.
+</details>
 
 <details><summary>मूलम्</summary>
 
 आ व॑र्तन वर्तय॒ नि नि॑वर्तन वर्त॒येन्द्र॑ नर्दबुद ।  
 भूम्या॒श्चत॑स्रᳶ प्र॒दिश॒स्ताभि॒रा व॑र्तया॒ पुनः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । व॒र्त॒न॒ । व॒र्त॒य॒ । नीति॑ । नि॒व॒र्त॒नेति॑ नि-व॒र्त॒न॒ । व॒र्त॒य॒ । इन्द्र॑ । न॒र्द॒बु॒द॒ ॥ भूम्याः॑ । चत॑स्रः । प्र॒दिश॒ इति॑ प्र-दिशः॑ । ताभिः॑ । एति॑ । व॒र्त॒य॒ । पुनः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
