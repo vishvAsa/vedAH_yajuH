@@ -28,6 +28,16 @@ To the bound hail!
 सि॒ताय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सि॒ताय॑ । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इति भट्टभास्करमिश्रविरचिते ज्ञानयज्ञास्ये यजुर्वेदभाष्ये सप्तमे काण्डे चतुर्थे प्रश्ने द्वाविंशोनुवाकः ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓सिताय स्वा᳓हा ।
@@ -41,6 +51,11 @@ To the unbound hail!
 <details><summary>मूलम्</summary>
 
 असि॑ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+असि॑ताय । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -58,6 +73,11 @@ To the fastened hail!
 अ॒भिहि॑ताय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒भिहि॑ता॒येत्य॒भि-हि॒ता॒य॒ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नभिहिताय स्वा᳓हा ।
@@ -71,6 +91,11 @@ To the unfastened hail!
 <details><summary>मूलम्</summary>
 
 अन॑भिहिताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अन॑भिहिता॒येत्यन॑भि-हि॒ता॒य॒ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -88,6 +113,11 @@ To the yoked hail!
 यु॒क्ताय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यु॒क्ताय॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓युक्ताय स्वा᳓हा ।
@@ -101,6 +131,11 @@ To the unyoked hail!
 <details><summary>मूलम्</summary>
 
 अयु॑क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अयु॑क्ताय । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +153,11 @@ To the well-yoked hail!
 सुयु॑क्ताय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सुयु॑क्ता॒येति॒ सु-यु॒क्ता॒य॒ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓द्युक्ताय स्वा᳓हा ।
@@ -131,6 +171,11 @@ To the unyoked hail!
 <details><summary>मूलम्</summary>
 
 उद्यु॑क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उद्यु॑क्ता॒येत्युत्-यु॒क्ता॒य॒ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -148,6 +193,11 @@ To the one set free hail!
 विमु॑क्ताय॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+विमु॑क्ता॒येति॒ वि-मु॒क्ता॒य॒ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓मुक्ताय स्वा᳓हा ।
@@ -161,6 +211,11 @@ To the one lot go hail!
 <details><summary>मूलम्</summary>
 
 प्रमु॑क्ताय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रमु॑क्ता॒येति॒ प्र-मु॒क्ता॒य॒ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -178,6 +233,11 @@ To that which moveth crookedly hail!
 वञ्च॑ते॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वञ्च॑ते । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिव᳓ञ्चते स्वा᳓हा ।
@@ -191,6 +251,11 @@ To that which moveth around hail!
 <details><summary>मूलम्</summary>
 
 प॒रि॒वञ्च॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒रि॒वञ्च॑त॒ इति॑ परि-वञ्च॑ते । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -208,6 +273,11 @@ To that which moveth together hail!
 सव्ँ॒वञ्च॑ते॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सव्ँ॒वञ्च॑त॒ इति॑ सम्-वञ्च॑ते । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुव᳓ञ्चते स्वा᳓हा ।
@@ -221,6 +291,11 @@ To that which moveth along hail!
 <details><summary>मूलम्</summary>
 
 अ॒नु॒वञ्च॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒नु॒वञ्च॑त॒ इत्य॑नु-वञ्च॑ते । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -238,6 +313,11 @@ To that which goeth hail!
 उ॒द्वञ्च॑ते॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒द्वञ्च॑त॒ इत्यु॑त्-वञ्च॑ते । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यते᳓ स्वा᳓हा ।
@@ -253,9 +333,34 @@ To that which riseth hail!
 य॒ते स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+य॒ते । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धा᳓वते स्वा᳓हा ।  ति᳓ष्ठते स्वा᳓हा ।
+धा᳓वते स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To that which runneth hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+धाव॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धाव॑ते । स्वाहा॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ति᳓ष्ठते स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -265,7 +370,12 @@ To that which standeth hail!
 
 <details><summary>मूलम्</summary>
 
-धाव॑ते॒ स्वाहा॑ ।  तिष्ठ॑ते॒ स्वाहा॑ ।
+तिष्ठ॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तिष्ठ॑ते । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -283,7 +393,7 @@ To all hail!
 सर्व॑स्मै॒ स्वाहा॑ ॥ [53]
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-इति भट्टभास्करमिश्रविरचिते ज्ञानयज्ञास्ये यजुर्वेदभाष्ये सप्तमे काण्डे चतुर्थे प्रश्ने द्वाविंशोनुवाकः ॥  
+सर्व॑स्मै । स्वाहा॑ ॥
 </details>

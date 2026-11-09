@@ -2,6 +2,11 @@
 title = "१४ अनुभूतिहोममन्त्राः (अनुभूर्होममन्त्राः)"
 +++
 
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+अ॒ग्निना॒ तपोऽन्व॑भवद्वा॒चा ब्रह्म॑ म॒णिना॑ रू॒पाणीन्द्रे॑ण दे॒वान्वाते॑न प्रा॒णान्त्सूर्ये॑ण॒ द्याञ्च॒न्द्रम॑सा॒ नक्ष॑त्राणि य॒मेन॑ पितॄन्राज्ञा॑ मनु॒ष्या॑न्फ॒लेन॑ नादे॒यान॑जग॒रेण॑ स॒र्पान्व्या॒घ्रेणा॑र॒ण्यान्प॒शूञ्छ्ये॒नेन॑ पत॒त्रिणो॒ वृष्णाश्वा॑नृष॒भेण॒ गा ब॒स्तेना॒जा वृ॒ष्णिनावी॑र्व्री॒हिणान्ना॑नि॒ यवे॒नौष॑धीर्न्य॒ग्रोधे॑न॒ वन॒स्पती॑नुदु॒म्बरे॒णोर्ज॑ङ्गायत्रि॒या छन्दाँ॑सि त्रि॒वृता॒ स्तोमा॑न्ब्राह्म॒णेन॒ वाच॑म् ॥ [35]  
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓ना त᳓पो᳓ **ऽन्वभवद्**+++(→अनुभवतु)+++ ।  
@@ -11,9 +16,65 @@ title = "१४ अनुभूतिहोममन्त्राः (अन�
 वा᳓तेन प्राणा᳓न् +++(अनुभवतु)+++।  
 सू᳓र्येण द्या᳓म् +++(अनुभवतु)+++।  
 चन्द्र᳓मसा न᳓क्षत्राणि +++(अनुभवतु)+++।  
-यमे᳓न पितॄ᳓न् +++(अनुभवतु)+++।  
+यमे᳓न पितॄ᳓न् +++(अनुभवतु)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+By fire he surmounted fervour, by speech holy power, by a gem forms, by Indra the gods, by the wind the breaths, by the sun the sky, by the moon the Naksatras, by Yama the Pitrs,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्निना॒ तपोऽन्व् अ॑भवत् ।  
+वा॒चा ब्रह्म॑ ।  
+म॒णिना॑ रू॒पाणि॑ ।  
+इन्द्रे॑ण दे॒वान् ।  
+वाते॑न प्रा॒णान् ।  
+सूर्ये॑ण॒ द्याम् ।  
+च॒न्द्रम॑सा॒ नक्ष॑त्राणि ।  
+य॒मेन॑ पितॄन् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निना॑ । तपः॑ । अन्विति॑ । अ॒भ॒व॒त् । वा॒चा । ब्रह्म॑ । म॒णिना॑ । रू॒पाणि॑ । इन्द्रे॑ण । दे॒वान् । वाते॑न । प्रा॒णानिति॑ प्र-अ॒नान् । सूर्ये॑ण । द्याम् । च॒न्द्रम॑सा । नक्ष॑त्राणि । य॒मेन॑ । पि॒तृन् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+1अथानुभूतीर्जुहोति - अग्निनेत्यादि ॥ अग्निना तपः ऊष्म अन्वभवत् अनुभवतु स्वीकरोतु यजमानः अग्न्यात्मा भूत्वा स्वसामर्थ्येन सर्वं तपो व्याप्नोतु । वाग्रूपो भूत्वा सर्वं ब्रह्म मन्त्रजातं अन्वभवदित्येव । एवं सर्वत्र । छान्दसो लङ् । मणिना रूपाणि रूपवन्ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रा᳓ज्ञा मनुष्या᳙न् +++(अनुभवतु)+++।  
 फले᳓न नादेया᳓न्+++(→रसवतोऽर्थान्)+++ +++(अनुभवतु)+++।  
+</details>
+
+<details><summary>Keith</summary>
+
+by the king men, by fruit the flavours,
+</details>
+
+<details><summary>मूलम्</summary>
+
+राज्ञा॑ मनु॒ष्यान्॑ ।  
+फ॒लेन॑ नादे॒यान् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+राज्ञा॑ । म॒नु॒ष्यान्॑ । फ॒लेन॑ । ना॒दे॒यान् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+फलेन नादेयान् रसवतोऽर्थान् । नद्यादिभ्यो ढक् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अजगरे᳓ण सर्पा᳓न् +++(अनुभवतु)+++।  
 व्याघ्रे᳓णारण्या᳓न् पशू᳓न् +++(अनुभवतु)+++।  
 श्येने᳓न पतत्रि᳓णः +++(अनुभवतु)+++।  
@@ -21,10 +82,62 @@ title = "१४ अनुभूतिहोममन्त्राः (अन�
 ऋषभे᳓ण गाः᳓ +++(अनुभवतु)+++।  
 बस्ते᳓न᳓ + अजाः᳓ +++(अनुभवतु)+++।  
 वृष्णि᳓ना᳓+++(=मेषेण)+++ ऽवीः +++(अनुभवतु)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+by the boa constrictor serpents, by the tiger wild beasts, by the eagle birds, by the stallion horses, by the bull kine, by the he-goat goats, by the ram sheep,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अजग॒रेण॑ स॒र्पान् ।  
+व्या॒घ्रेणा॑र॒ण्यान् प॒शून् ।  
+श्ये॒नेन॑ पत॒त्रिणः॑ ।  
+वृष्णाश्वा॑न् ।  
+ऋष॒भेण॒ गाः ।  
+ब॒स्तेना॒जाः ।  
+वृ॒ष्णिनावीः॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ज॒ग॒रेण॑ । स॒र्पान् । व्या॒घ्रेण॑ । आ॒र॒ण्यान् । प॒शून् । श्ये॒नेन॑ । प॒त॒त्रिणः॑ । वृष्णा॑ । अश्वान्॑ । ऋ॒ष॒भेण॑ । गाः । ब॒स्तेन॑ । अ॒जाः । वृ॒ष्णिना॑ । अवीः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 व्रीहि᳓णा᳓ ऽन्नानि +++(अनुभवतु)+++।   
 य᳓वेनौ᳓षधीः +++(अनुभवतु)+++।  
 न्यग्रो᳓धेन व᳓नस्प᳓तीन् +++(अनुभवतु)+++।  
 उदुम्ब᳓रेणो᳓र्जम् +++(अनुभवतु)+++।  
+</details>
+
+<details><summary>Keith</summary>
+
+by rice food, by barley plants, by the banyan trees, by the Udumbara strength,
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्री॒हिणान्ना॑नि ।  
+यवे॒नौष॑धीः ।  
+न्य॒ग्रोधे॑न॒ वन॒स्पतीन्॑ ।  
+उदु॒म्बरे॒णोर्जम्॑ ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व्री॒हिणा॑ । अन्ना॑नि । यवे॑न । ओष॑धीः । न्य॒ग्रोधे॑न । वन॒स्पतीन्॑ । उ॒दु॒म्बरे॑ण । ऊर्ज॑म् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+उदुम्बवरेण ऊर्जं क्षीरवन्ति वस्तूति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गायत्रिया᳓ छ᳓न्दाँसि +++(अनुभवतु)+++।  
 त्रिवृ᳓ता स्तो᳓मान् +++(अनुभवतु)+++।  
 ब्राह्मणे᳓न वा᳓चम् +++(अनुभवतु)+++॥  
@@ -32,5 +145,24 @@ title = "१४ अनुभूतिहोममन्त्राः (अन�
 
 <details><summary>Keith</summary>
 
-By fire he surmounted fervour, by speech holy power, by a gem forms, by Indra the gods, by the wind the breaths, by the sun the sky, by the moon the Naksatras, by Yama the Pitrs, by the king men, by fruit the flavours, by the boa constrictor serpents, by the tiger wild beasts, by the eagle birds, by the stallion horses, by the bull kine, by the he-goat goats, by the ram sheep, by rice food, by barley plants, by the banyan trees, by the Udumbara strength, by the Gayatri the metres, by the Trivrt the Stomas, by the Brahmana speech.
+by the Gayatri the metres, by the Trivrt the Stomas, by the Brahmana speech.
+</details>
+
+<details><summary>मूलम्</summary>
+
+गायत्रि॒या छन्दाँ॑सि ।  
+त्रि॒वृता॒ स्तोमान्॑ ।  
+ब्राह्म॒णेन॒ वाच॑म् ॥ [35]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गा॒य॒त्रि॒या । छन्दाँ॑सि । त्रि॒वृतेति॑ त्रि-वृता॑ । स्तोमान्॑ । ब्रा॒ह्म॒णेन॑ । वाच॑म् ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ब्राह्मणेन वाचं वेदात्मिकाम् ॥
+
+इति सप्तमे तृतीये चतुर्दशोनुवाकः ॥  
 </details>

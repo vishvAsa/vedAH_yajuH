@@ -5,6 +5,11 @@ title = "०८ गवामयने संवत्सरसत्रदीक
 ![](../../../../../../jyotiSham/history/images/zodiac_history/bce-2300-01-13_kRttikA_anUrAdhAH_equinox_dhaniShThA-shatabhiShak_maghA_solstice.png)
 {caption="" class="thumbnail"}
 
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+सव्ँ॒व॒त्स॒राय॑ दीक्षि॒ष्यमा॑णा एकाष्ट॒काया॑न्दीक्षेरन्ने॒षा वै सव्ँ॑वत्स॒रस्य॒ पत्नी॒ यदे॑काष्ट॒कैतस्याव्ँ॒वा ए॒ष ए॒ताँ रात्रिव्ँ॑वसति सा॒क्षादे॒व सव्ँ॑वत्स॒रमा॒रभ्य॑ दीक्षन्त॒
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँवत्सरा᳓य दीक्षिष्य᳓माणा एकाष्टका᳓यान्+++(=माघकृष्णाष्टम्यां)+++ दीक्षेरन् ।
@@ -15,16 +20,99 @@ title = "०८ गवामयने संवत्सरसत्रदीक
 Those who are about to consecrate themselves for the year (rite) should consecrate themselves on the Ekastaka.
 </details>
 
+<details><summary>मूलम्</summary>
+
+सव्ँ॒व॒त्स॒राय॑ दीक्षि॒ष्यमा॑णा एकाष्ट॒काया॑न् दीक्षेरन् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सव्ँ॒व॒त्स॒रायेति॑ सम्-व॒त्स॒राय॑ । दी॒क्षि॒ष्यमा॑णाः । ए॒का॒ष्ट॒काया॒मित्ये॑क-अ॒ष्ट॒काया॑म् । दी॒क्षे॒र॒न् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+1इत उत्तरं गवामयनम् - 'गावो वा एतत्सत्रमासत' इत्यादि च वक्ष्यति । तत्र दीक्षारम्भकालं विदधाति - संवत्सरायेत्यादि ॥ संवत्सरकालसाध्यं गवामयनं संवत्सरशब्देनोच्यते । प्रकृतिश्चेयं सांवत्सरिकाणां आदित्यानामयनादीनां संवत्सरार्थं दीक्षिष्यमाणा दीक्षितुकामा एकाष्टकायां दीक्षेरन् । माघकृष्णाष्टमी एकाष्टका । यदाहुः - 'या माध्याः पौर्णमास्या उपरिष्टाद्द्व्यष्टका तस्यामष्टमी ज्येष्ठया संपद्यते तामेकाष्टकेत्याचक्षते' इति । एकाष्टका प्रधानाष्टका । 'पूर्वकालैक' इति समासः । 'अष्टका पितृदैवत्ये' इतीत्वाभावः । तत्कालसाध्यं च कर्म दर्शादिवदुपचारेणोच्यते । तत्र कालवृत्तेः कर्मण्युपचारः, अत्र तु कर्मवृत्तेरुपचार इति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एषा᳓ वै᳓ सव्ँवत्सर᳓स्य प᳓त्नी +++(उत्तरायणारम्भसमीपे वर्तित्वाद्)+++ य᳓द् एकाष्टका᳓ ।  
-एत᳓स्याव्ँ वा᳓ एष᳓ +++(संवत्सर)+++ एताँ᳓ रा᳓त्रिव्ँ वसति ।  
+एषा᳓ वै᳓ सव्ँवत्सर᳓स्य प᳓त्नी +++(उत्तरायणारम्भसमीपे वर्तित्वाद्)+++ य᳓द् एकाष्टका᳓ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The Ekastaka is the wife of the year;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒षा वै सव्ँ॑वत्स॒रस्य॒ पत्नी॒ यदे॑काष्ट॒का ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षा । वै । सव्ँ॒व॒त्स॒रस्येति॑ सम्-व॒त्स॒रस्य॑ । पत्नी॑ । यत् । ए॒का॒ष्ट॒केत्ये॑क-अ॒ष्ट॒का ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+एषा वा इति । एषा एकाष्टका कर्मात्मिकेति संवत्सरस्य कर्मात्मनः पत्नी पत्नीस्थानीया संवत्सरभाविनां कर्मणां पालयित्री एषेत्युक्तम् । केत्याह - यदेकाष्टकेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एत᳓स्याव्ँ वा᳓ एष᳓ +++(संवत्सर)+++ एताँ᳓ रा᳓त्रिव्ँ वसति ।
+</details>
+
+<details><summary>Keith</summary>
+
+on that night he dwells with her;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒तस्याव्ँ॒ वा ए॒ष ए॒ताँ रात्रिव्ँ॑ वसति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒तस्या॑म् । वै । ए॒षः । ए॒ताम् । रात्रि॑म् । व॒स॒ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+कः पुनरस्या विशेष इत्याह - एतस्यामित्यादि । एतस्यामेकाष्टकायां कर्मात्मिकायां एष संवत्सरो वसति एतां रात्रिं कालात्मिकामेकाष्टकाम् । 'अत्यन्तसंयोगे द्वितीया' । एतस्यां रात्रावित्यर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 +++(तेन)+++ साक्षा᳓द् एव᳓ सव्ँवत्सर᳓म् आर᳓भ्य दीक्षन्ते ।
 </details>
 
 <details><summary>Keith</summary>
 
-The Ekastaka is the wife of the year; on that night he dwells with her; verily they consecrate themselves grasping openly the year.
+verily they consecrate themselves grasping openly the year.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा॒क्षादे॒व सव्ँ॑वत्स॒रम् आ॒रभ्य॑ दीक्षन्ते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सा॒क्षादिति॑ स-अ॒क्षात् । ए॒व । सव्ँ॒व॒त्स॒रमिति॑ सम्-व॒त्स॒रम् । आ॒रभ्येत्या॑-रभ्य॑ । दी॒क्ष॒न्ते॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्मात् साक्षात् समस्तमेव संवत्सरमारभ्य परिगृह्य दीक्षन्ते ॥
+</details>
+
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+आर्तव्ँ॒वा ए॒ते सव्ँ॑वत्स॒रस्या॒भि दी॑क्षन्ते॒ य ए॑काष्ट॒काया॒न्दीक्ष॒न्तेऽन्त॑नामानावृ॒तू भ॑वतो॒
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -39,6 +127,29 @@ The Ekastaka is the wife of the year; on that night he dwells with her; verily t
 Those who consecrate themselves on the Ekastaka consecrate themselves in the troubled part of the year, for then are the two months called the end.
 </details>
 
+<details><summary>मूलम्</summary>
+
+आर्तव्ँ॒ वा ए॒ते सव्ँ॑वत्स॒रस्या॒भि दी॑क्षन्ते॒ ,
+य ए॑काष्ट॒काया॒न् दीक्ष॒न्ते । 
+ अन्त॑नामानाव् ऋ॒तू भ॑वतः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आर्त॑म् । वै । ए॒ते । सव्ँ॒व॒त्स॒रस्येति॑ सम्-व॒त्स॒रस्य॑ । अ॒भीति॑ । दी॒क्ष॒न्ते॒ । ये । ए॒का॒ष्ट॒काया॒मित्ये॑क-अ॒ष्ट॒काया॑म् । दीक्ष॑न्ते । अन्त॑नामाना॒वित्यन्त॑-ना॒मा॒नौ॒ । ऋ॒तू इति॑ । भ॒व॒तः॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2एतद्दूषयति - अर्तं वा इत्यादि ॥ संवत्सरसंबद्धं यदिदं आर्तियुक्तं स्थानं तदभिलक्ष्य दीक्षन्ते एते । 'अभिरभागे' हति लक्षणे अभेः कर्मप्रवचनीयत्वम् । कस्मादित्याह - यस्मादेकाष्टकायां दक्षिण्त इति । हेतुगर्भमिदम् । तदपि कुत इत्याह - अन्तनामानाविति । ऋत्ववयवे मासे ऋतुशब्दः, यथा 'मधुश्च माधवश्च वासन्तिकावृतू' इति । एतौ हि तैषमाघौ मासौ संवत्सरस्यान्तनामानौ अन्तिमाख्यौ यत्र सर्वेऽपि स्थावरजङ्गमाः शीतेन पीड्यन्ते । तस्मादेतावार्तिस्थानमिति । अन्य आहुः - अन्तो विनाशः तत्कारिणावेतौ मासौ हिमेन प्रजानामिति । नैरुक्ता आहुः - अन्तशब्देन प्राणा उच्यन्ते 'यदेदन्ता अददृंहन्त पूर्वे' इति । अननदन्ताः प्राणिनः । औणादिकस्तः । तेषां नामयितारो नाशयितारौ शीतपीडयेति अन्तनामानाविति । 'नामन्' इति निहन्यते । अनयोः पक्षयोः दासीभारादिर्द्रष्टव्यः । एवं प्राणिस्वभावाद्यजमाना अपि पीड्येरन्निति ॥
+</details>
+
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+व्य॑स्तव्ँ॒ वा ए॒ते सव्ँ॑वत्स॒रस्या॒भि दी॑क्षन्ते॒ ,
+य ए॑काष्ट॒काया॒न्दीक्ष॒न्तेऽन्त॑नामानावृ॒तू भ॑वतᳶ
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(संवत्सरान्त आरम्भे वेत्य् अस्पष्टत्या)+++ व्य᳙स्तव्ँ वा᳓ एते᳓ सव्ँवत्सर᳓स्याभि᳓दीक्षन्ते ,
@@ -51,7 +162,30 @@ Those who consecrate themselves on the Ekastaka consecrate themselves in the tro
 Those who consecrate themselves on the Ekastaka consecrate themselves on the torn part of the year, for them are the two seasons called the end.
 </details>
 
+<details><summary>मूलम्</summary>
+
+व्य॑स्तव्ँ॒ वा ए॒ते सव्ँ॑वत्स॒रस्या॒भि दी॑क्षन्ते॒ ,
+य ए॑काष्ट॒काया॒न् दीक्ष॒न्ते । 
+ अन्त॑नामानाव् ऋ॒तू भ॑वतः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व्य॑स्त॒मिति॒ वि-अ॒स्त॒म् । वै । ए॒ते । सव्ँ॒व॒त्स॒रस्येति॑ सम्-व॒त्स॒रस्य॑ । अ॒भीति॑ । दी॒क्ष॒न्ते॒ । ये । ए॒का॒ष्ट॒काया॒मित्ये॑क-अ॒ष्ट॒काया॑म् । दीक्ष॑न्ते । अन्त॑नामाना॒वित्यन्त॑-ना॒मा॒नौ॒ । ऋ॒तू इति॑ । भ॒व॒तः॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+3अथ दोषान्तरमप्याह - व्यस्तमित्यादि ॥ व्यस्तं विक्षिप्तं प्रदेशमपि एते दीक्षन्ते । कस्मादित्याह - यस्मादेकाष्टकायां दीक्षन्ते इति हेतुत्वेन योज्यम् । तदपि कुत इत्याह - अन्तनामानाविति । अन्तावेतौ संवत्सरस्य मासौ तत्र दीक्षन्ते । स च संवत्सरस्समाप्तः संवत्सरान्ते यज्ञ इति विक्षिप्तमेतत् भवति संवत्सराख्यं कर्म, संवत्सरस्य विक्षिप्तत्वात् । व्यस्तमिति । गतिस्वरे कृते 'उदात्तस्वरितयोर्यणः स्वरितः' इति धात्वकारस्स्वर्यते ॥
+</details>
+
 ## फाल्गुनीपक्षः
+
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+फल्गुनीपूर्णमा॒से दी॑क्षेर॒न्मुखव्ँ॒वा ए॒तत् [28]  
+सव्ँ॒व॒त्स॒रस्य॒ यत्फ॑ल्गुनीपूर्णमा॒सो मु॑ख॒त ए॒व सव्ँ॑वत्स॒रमा॒रभ्य॑ दीक्षन्ते॒
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -63,6 +197,23 @@ Those who consecrate themselves on the Ekastaka consecrate themselves on the tor
 They should consecrate themselves on the full moon in Phalguni.
 </details>
 
+<details><summary>मूलम्</summary>
+
+फ॒ल्गु॒नी॒-पू॒र्ण॒-मा॒से दी॑क्षेरन् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+फ॒ल्गु॒नी॒पू॒र्ण॒मा॒स इति॑ फल्गुनी-पू॒र्ण॒मा॒से । दी॒क्षे॒र॒न् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+4एवं दूषयित्वा पक्षान्तरं परिगृह्णाति - फल्गुनीपूर्णमास इत्यादि ॥
+
+फल्गुन्या युक्तः पूर्णमासः फल्गुनीपूर्णमासः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मु᳓खव्ँ वा᳓ एत᳓त् ,[28] सव्ँ᳓व᳓त्सर᳓स्य य᳓त् फल्गुनीपूर्णमासः᳓ ।
@@ -70,7 +221,24 @@ They should consecrate themselves on the full moon in Phalguni.
 
 <details><summary>Keith</summary>
 
-The full moon in Phalguni is the beginning of the year [1]; verily they consecrate them selves grasping the year at its beginning.
+The full moon in Phalguni is the beginning of the year [1];
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुखव्ँ॒ वा ए॒तत् , सव्ँ॑वत्स॒रस्य॒ यत् फ॑ल्गुनीपूर्णमा॒सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मुख॑म् । वै । ए॒तत् । सव्ँ॒व॒त्स॒रस्येति॑ सम्-व॒त्स॒रस्य॑ । यत् । फ॒ल्गु॒नी॒पू॒र्ण॒मा॒स इति॑ फल्गुनी-पू॒र्ण॒मा॒सः ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+मुखं वा इति ।
+
+अत्र केचिदाहुः - फाल्गुनादिः संवत्सर इति । तन्मतं मुखत एव संवत्सरं परिगृह्य दीक्षा कृता भवति । आद्यादिभ्यस्तसिः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -80,14 +248,54 @@ The full moon in Phalguni is the beginning of the year [1]; verily they consecra
 
 <details><summary>Keith</summary>
 
-To that there is this one objection that the Visuvant day falls in the cloudy season.
+verily they consecrate themselves grasping the year at its beginning.
+</details>
+
+<details><summary>मूलम्</summary>
+
+[28] 
+मु॒ख॒त ए॒व सव्ँ॑वत्स॒रम् आ॒रभ्य॑ दीक्षन्ते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मु॒ख॒तः । ए॒व । सव्ँ॒व॒त्स॒रमिति॑ सम्-व॒त्स॒रम् । आ॒रभ्येत्या॑-रभ्य॑ । दी॒क्ष॒न्ते॒ ।
 </details>
 
 ## चित्रापक्षः
 
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+तस्यैकै॒व नि॒र्या यत्साम्मे॑घ्ये विषू॒वान्त्स॒म्पद्य॑ते चित्रापूर्णमा॒से दी॑क्षेर॒न्मुखव्ँ॒वा ए॒तत्सव्ँ॑वत्स॒रस्य॒ यच्चि॑त्रापूर्णमा॒सो मु॑ख॒त ए॒व सव्ँ॑वत्स॒रमा॒रभ्य॑ दीक्षन्ते॒ तस्य॒ न का च॒न नि॒र्या भ॑वति
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓स्यै᳓कैव᳓ निर्या᳓+++(=निकृष्टा प्राप्तिः)+++ य᳓त् सा᳓म्मेघ्ये विषूवा᳓न्थ्+++(=मध्यदिनं [गवामयन-संवत्सरस्य], विष्वञ्चि नाना गच्छतीति अहानि)+++ सम्प᳓द्यते +++(Inner Asia Mountain Corridor [इत्यत्र](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,tashkent,Uzbekistan), यत्रार्याः प्रायेणावर्तन्त)+++ ।  
+त᳓स्यै᳓कैव᳓ निर्या᳓+++(=निकृष्टा प्राप्तिः)+++ य᳓त् सा᳓म्मेघ्ये विषूवा᳓न्थ्+++(=मध्यदिनं [गवामयन-संवत्सरस्य], विष्वञ्चि नाना गच्छतीति अहानि)+++ सम्प᳓द्यते +++(Inner Asia Mountain Corridor [इत्यत्र](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,tashkent,Uzbekistan), यत्रार्याः प्रायेणावर्तन्त)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To that there is this one objection that the Visuvant day falls in the cloudy season.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्यैकै॒व नि॒र्या यत्साम्मे॑घ्ये विषू॒वान्त्स॒म्पद्य॑ते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्य॑ । एका॑ । ए॒व । नि॒र्येति॑ निः-या । यत् । साम्मे॑घ्य॒ इति॒ साम्-मे॒घ्ये॒ । वि॒षू॒वानिति॑ विषु-वान् । स॒म्पद्य॑त॒ इति॑ सम्-पद्य॑ते ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+5अथैनमपि पक्षं दूषयितुमाह - तस्यैकैवेत्यादि
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 चित्रापूर्णमासे᳓ दीक्षेरन् ।
 </details>
 
@@ -96,15 +304,59 @@ To that there is this one objection that the Visuvant day falls in the cloudy se
 They should consecrate themselves on the full moon in Citra.
 </details>
 
+<details><summary>मूलम्</summary>
+
+चि॒त्रा॒पू॒र्ण॒मा॒से दी॑क्षेरन् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चि॒त्रा॒पू॒र्ण॒मा॒स इति॑ चित्रा-पू॒र्ण॒मा॒से । दी॒क्षे॒र॒न् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मु᳓खव्ँ वा᳓ एत᳓त्सव्ँवत्सर᳓स्य य᳓च् चित्रापूर्णमासः᳓ +++(पूर्वस्मिन् युगे)+++।  
+मु᳓खव्ँ वा᳓ एत᳓त्सव्ँवत्सर᳓स्य य᳓च् चित्रापूर्णमासः᳓ +++(पूर्वस्मिन् युगे)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The full moon in Citra, is the beginning of the year;
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुखव्ँ॒ वा ए॒तत्सव्ँ॑वत्स॒रस्य॒ यच् चि॑त्रापूर्णमा॒सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मुख॑म् । वै । ए॒तत् । सव्ँ॒व॒त्स॒रस्येति॑ सम्-व॒त्स॒रस्य॑ । यत् । चि॒त्रा॒पू॒र्ण॒मा॒स इति॑ चित्रा-पू॒र्ण॒मा॒सः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मुखत᳓ एव᳓ सव्ँवत्सर᳓म् आर᳓भ्य दीक्षन्ते ।
 </details>
 
 <details><summary>Keith</summary>
 
-The full moon in Citra, is the beginning of the year; verily they consecrate themselves grasping the year at the beginning.
+verily they consecrate themselves grasping the year at the beginning.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मु॒ख॒त ए॒व सव्ँ॑वत्स॒रम् आ॒रभ्य॑ दीक्षन्ते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मु॒ख॒तः । ए॒व । सव्ँ॒व॒त्स॒रमिति॑ सम्-व॒त्स॒रम् । आ॒रभ्येत्या॑-रभ्य॑ । दी॒क्ष॒न्ते॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,7 +369,44 @@ The full moon in Citra, is the beginning of the year; verily they consecrate the
 In that there is no objection at all.
 </details>
 
+<details><summary>मूलम्</summary>
+
+तस्य॒ न का च॒न नि॒र्या भ॑वति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्य॑ । न । का । च॒न । नि॒र्येति॑ निः-या । भ॒व॒ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्य एक पक्षस्य ।
+
+यद्वा - तस्य फल्गुनीपूर्णमासे दीक्षित्वा क्रियमाणस्य संवत्सरयज्ञस्य एकैव निर्या निकृष्टा प्राप्तिः दोष इति यावत् । 'आतश्चोपसर्गे' इत्यङ् ।
+
+का पुनस्सेत्याह - यदिति ।
+
+संगता मेघाः अस्मिन्निति संमेघो वर्षाः संमेघा एव सांमेध्यम् । चतुर्वर्णादित्वात् ष्यञ् स्वार्थे । तत्र विषूवान् संपद्यते अहःक्रमेण संपतेत् । तत्र एकाशीतितममहरेकविंशोग्निष्टोमो विषूवान् ।
+
+विष्वञ्चि नाना गच्छतीति अहानि पुरस्ताच्चास्येति विषूवान् ।
+
+'अन्येषामपि दृश्यते' इति दीर्घत्वम् ।
+
+'ह्रस्वनुड्भ्याम्' इति मतुऽप उदात्तत्वम् । अस्मिन्पक्षे एष दोषः, तथा हि - तत्रादित्यं दृष्ट्वा यत्कर्तव्यं तन्न भवेत् ।
+
+अतः पक्षान्तरं परिगृह्णाति - चित्रापूर्णर्णमास इत्यादि । गतम् ।
+
+चैत्रादिस्संवत्सर इति येषां मतं तदिदानीमुच्यते न काचन निर्या न कश्चित् दोषः ॥
+</details>
+
 ## माघपक्षे निश्चयः
+
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+चतुर॒हे पु॒रस्ता॑त्पौर्णमा॒स्यै दी॑क्षेर॒न्तेषा॑मेकाष्ट॒काया॑ङ्क्र॒यस्सम्प॑द्यते॒ तेनै॑काष्ट॒कान्न छ॒म्बट्कु॑र्वन्ति॒ तेषा॑म् [29]  
+पू॒र्व॒प॒क्षे सु॒त्या सम्प॑द्यते पूर्वप॒क्षम्मासा॑ अ॒भि सम्प॑द्यन्ते॒ ते पू॑र्वप॒क्ष उत्ति॑ष्ठन्ति॒ तानु॒त्तिष्ठ॑त॒ ओष॑धयो॒ वन॒स्पत॒योऽनूत्ति॑ष्ठन्ति॒ तान्क॑ल्या॒णी की॒र्तिरनूत्ति॑ष्ठ॒त्यरा॑त्सुरि॒मे यज॑माना॒ इति॒ तदनु॒ सर्वे॑ राध्नुवन्ति ॥ [30]  
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -127,6 +416,16 @@ In that there is no objection at all.
 <details><summary>Keith</summary>
 
 They should consecrate themselves on the fourth day before the full moon.
+</details>
+
+<details><summary>मूलम्</summary>
+
+च॒तु॒र॒हे पु॒रस्ता॑त् पौर्णमा॒स्यै दी॑क्षेरन् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+च॒तु॒र॒ह इति॑ चतुः-अ॒हे । पु॒रस्ता॑त् । पौ॒र्ण॒मा॒स्या इति॑ पौर्ण-मा॒स्यै । दी॒क्षे॒र॒न् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -139,6 +438,16 @@ They should consecrate themselves on the fourth day before the full moon.
 Then the buying (of the Soma) falls for them on the Ekastaka;
 </details>
 
+<details><summary>मूलम्</summary>
+
+तेषा॑मेकाष्ट॒काया॑ङ् क्र॒यस् सम्प॑द्यते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तेषा॑म् । ए॒का॒ष्ट॒काया॒मित्ये॑क-अ॒ष्ट॒काया॑म् । क्र॒यः । समिति॑ । प॒द्य॒ते॒ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नैकाष्टका᳓न् न᳓ छम्-ब᳓ट्-कुर्वन्ति ।
@@ -149,6 +458,23 @@ Then the buying (of the Soma) falls for them on the Ekastaka;
 verily they do not waste the Ekastaka.
 </details>
 
+<details><summary>मूलम्</summary>
+
+तेनै॑काष्ट॒कान्न छ॒म्बट्कु॑र्वन्ति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तेन॑ । ए॒का॒ष्ट॒कामित्ये॑क-अ॒ष्ट॒काम् । न । छ॒म्बट् । कु॒र्व॒न्ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+6अधुना प्रथममेव पक्षं परिगृह्याह - चतुरह इत्याद ॥ माघ्याः पौर्णमास्याः पुरस्ताच्चतुरहे दीक्षमाणानामेकस्तावदयं गुणः । एकाष्टकायां त्वछम्बट्कारः । किंच तेषां पूर्वपक्षे सुत्या संपद्यते ।
+
+'संज्ञायां समज' इति क्विपि उदात्त इति हि तत्रानुवर्तयन्ति । सर्वेऽपि मासाः पर्वूपक्षमभिसंपद्यन्ते ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षाम् पूर्वपक्षे᳓ सुत्या᳓ स᳓म्पद्यते । [29]
@@ -157,6 +483,21 @@ verily they do not waste the Ekastaka.
 <details><summary>Keith</summary>
 
 In their case [2] the pressing-(day) falls on the first half (of the month),
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेषा॑म् पूर्वप॒क्षे सु॒त्या सम्प॑द्यते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तेषा॑म् । पू॒र्व॒प॒क्ष इति॑ पूर्व-प॒क्षे । सु॒त्या । समिति॑ । प॒द्य॒ते॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+पूर्वपक्ष एवारभ्यन्ते ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -170,6 +511,28 @@ In their case [2] the pressing-(day) falls on the first half (of the month),
 the months end in the first half, they complete (the rite) in the first half,
 </details>
 
+<details><summary>मूलम्</summary>
+
+[29]  
+
+पू॒र्व॒प॒क्षम् मासा॑ अ॒भि सम्प॑द्यन्ते । 
+ ते पू॑र्वप॒क्ष उत्ति॑ष्ठन्ति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पू॒र्व॒प॒क्षमिति॑ पूर्व-प॒क्षम् । मासाः॑ । अ॒भि । समिति॑ । प॒द्य॒न्ते॒ । ते । पू॒र्व॒प॒क्ष इति॑ पूर्व-प॒क्षे । उदिति॑ । ति॒ष्ठ॒न्ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+पूर्वपक्षे एव च संतिष्ठन्ते ।
+
+ते च यजमानाः पूर्वपक्ष एवोत्तिष्ठन्ति ।
+
+तांश्चोत्तिष्ठतः सत्रिण ओषधयो वनस्पतय अनूत्तिष्ठन्ति समृद्धा जायन्ते । ततस्तान् सत्रिणः कल्याणी कीर्तिः पुण्या समृद्धिरनूत्तिष्ठति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न् उत्ति᳓ष्ठत ओ᳓षधयो व᳓नस्प᳓तयो᳓ऽनू᳓त्तिष्ठन्ति ।
@@ -178,6 +541,21 @@ the months end in the first half, they complete (the rite) in the first half,
 <details><summary>Keith</summary>
 
 and when they complete the rite the plants and trees come out after them.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तान् उ॒त्तिष्ठ॑त॒ ओष॑धयो॒ वन॒स्पत॒योऽनूत्ति॑ष्ठन्ति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तान् । उ॒त्तिष्ठ॑त॒ इत्यु॑त्-तिष्ठ॑तः । ओष॑धयः । वन॒स्पत॑यः । अनु॑ । उदिति॑ । ति॒ष्ठ॒न्ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अधुना तस्याः कीर्तेः स्वरूपं दर्शयति - अरात्सुरिति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -190,4 +568,24 @@ and when they complete the rite the plants and trees come out after them.
 <details><summary>Keith</summary>
 
 And after them follows the fair report, 'These sacrificers have succeeded', and therefore all succeed.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तान् क॑ल्या॒णी की॒र्तिरनु उत्ति॑ष्ठति + "अरा॑त्सुरि॒मे यज॑माना॒" इति॑ । 
+ तदनु॒ सर्वे॑ राध्नुवन्ति ॥ [30]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तान् । क॒ल्या॒णी । की॒र्तिः । अनु॑ । उदिति॑ । ति॒ष्ठ॒ति॒ । अरा॑त्सुः । इ॒मे । यज॑मानाः । इति॑ । तत् । अन्विति॑ । सर्वे॑ । रा॒ध्नु॒व॒न्ति॒ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अहो बुद्धिमन्तः सम्पन्ना इमे यजमाना इति ।
+
+तदनु च तत्समृद्ध्या सर्वेऽपि स्थावरजङ्गमा राध्नुवन्ति पुष्ट्यादिद्वारेण समृद्धा भवन्तीति ॥
+
+इति सप्तमे चतुर्थे अष्टमोनुवाकः ॥
 </details>

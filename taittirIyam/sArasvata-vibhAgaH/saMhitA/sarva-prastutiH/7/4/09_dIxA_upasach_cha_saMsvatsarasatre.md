@@ -2,6 +2,11 @@
 title = "०९ दीक्षा उपसच् च संस्वत्सरसत्रे"
 +++
 
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+सु॒व॒र्गव्ँवा ए॒ते लो॒कय्ँय॑न्ति॒ ये स॒त्त्रमु॑प॒यन्त्य॒भीन्ध॑त ए॒व दी॒क्षाभि॑रा॒त्मानँ॑ श्रपयन्त उप॒सद्भि॒र्...
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्गव्ँ᳓ वा᳓ एते᳓ लोकय्ँ᳓ यन्ति , ये᳓ सत्र᳓म् उपय᳓न्ति ।
@@ -12,6 +17,25 @@ title = "०९ दीक्षा उपसच् च संस्वत्स�
 They go to the world of heaven who perform the Sattra.
 </details>
 
+<details><summary>मूलम्</summary>
+
+सु॒व॒र्गव्ँ वा ए॒ते लो॒कय्ँ य॑न्ति॒ , ये स॒त्रम् उ॑प॒यन्ति॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒व॒र्गमिति॑ सुवः-गम् । वै । ए॒ते । लो॒कम् । य॒न्ति॒ । ये । स॒त्त्रम् । उ॒प॒यन्तीत्यु॑प-यन्ति॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+1अष्टमे संवत्सरसत्रस्य दीक्षाकाल उक्तः । अथ नवमे दीक्षा उपसदश्चोच्यन्ते ।
+
+ता उभयीर्विधत्ते - सुवर्गं वा इति ॥ यत्रानुष्ठायिनः स्वर्गं गच्छन्ति... तायै दीक्षाभिरात्मानं स्वेदेहमभीन्धत एव सर्वतो ज्वलयत्येव । उपसद्भिस्तु श्रपयन्ते स्वदेहं पचन्ति ।
+
+तस्माद्दीक्षा उपसदश्चानुष्ठेया इति विध्युन्नयः । यदि द्वादशाहविकृतित्वेन प्राप्ताः तदाऽपि विकृतिलिङ्गत्वाय स्तुतये वा तदनुवादोऽस्तु ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(शरीरम्)+++ अभी᳓न्धत एव᳓ दीक्षा᳓भिर् +++(ज्वालारूपाभिर्)+++ आत्मा᳓नँ, श्रपयन्त उपस᳓द्भिः᳓+++(=दीक्षा-सुत्ययोस् समाप्तौ प्रावर्ग्यात् पूर्वं च क्रियमाणेन कर्मणा)+++ ।
@@ -20,6 +44,21 @@ They go to the world of heaven who perform the Sattra.
 <details><summary>Keith</summary>
 
 They kindle themselves with the Diksas, and cook themselves with the Upasads.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒भीन्ध॑त ए॒व दी॒क्षाभि॑र् आ॒त्मानँ॑ , श्रपयन्त उप॒सद्भिः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भीति॑ । इ॒न्ध॒ते॒ । ए॒व । दी॒क्षाभिः॑ । आ॒त्मान॑म् । श्र॒प॒य॒न्ते॒ । उ॒प॒सद्भि॒रित्यु॑पस॒त्-भिः॒ ।
+</details>
+
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+द्वाभ्याल्ँ॒लोमाव॑ द्यन्ति॒ द्वाभ्या॒न्त्वच॒न्द्वाभ्या॒मसृ॒द्द्वाभ्या॑म्माँ॒सन्द्वाभ्या॒मस्थि॒ द्वाभ्या॑म्म॒ज्जान॑मा॒त्मद॑क्षिणव्ँ॒ वै स॒त्त्रमा॒त्मान॑मे॒व दक्षि॑णान्नी॒त्वा सु॑व॒र्गल्ँ लो॒कय्ँय॑न्ति॒
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -38,15 +77,69 @@ They kindle themselves with the Diksas, and cook themselves with the Upasads.
 With two they cut off their hair, with two their skin, with two their blood, with two their flesh, with two their bones, with two their marrow.
 </details>
 
+<details><summary>मूलम्</summary>
+
+द्वाभ्याल्ँ॒लोमाव॑ - द्यन्ति॒ ,  
+द्वाभ्या॒न् त्वच॒न् ,
+द्वाभ्या॒म् असृ॒द् ,  
+द्वाभ्या॑म् माँ॒सन् ,  
+द्वाभ्या॒म् अस्थि॒ ,
+द्वाभ्या॑म् म॒ज्जान॑म् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्वाभ्या॑म् । लोम॑ । अवेति॑ । द्य॒न्ति॒ । द्वाभ्या॑म् । त्वच॑म् । द्वाभ्या॑म् । असृ॑त् । द्वाभ्या॑म् । माँ॒सम् । द्वाभ्या॑म् । अस्थि॑ । द्वाभ्या॑म् । म॒ज्जान॑म् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2अथ त.... ... .र्वन् तासामुभयविधानां द्वादशत्वं प्रकटयति - द्वाभ्यामिति ॥ द्वाभ्यां दिनद्वयानुष्ठेयाभ्यां दीक्षाभ्यामुपमद्भ्यां च स्वकीयं लोम हविरर्थमवद्यन्ति अनन्तरभाविनीभ्यां द्वाभ्यां त्वचमवद्यन्ति । एवं रक्तमांसास्थिमज्जसु योजनीयम् । यदेतत्सत्रं तदेतदात्मदक्षिणं वै सशरीरमेव तत्र दक्षिणा न त्वन्या गवादिरूपा अस्ति । तस्मात् स्वशररिमेव दक्षिणारूपेण नीत्वा स्वर्गं प्राप्नुवन्ति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आत्म᳓+++(=शरीर)+++-दक्षिणव्ँ वै᳓ सत्त्र᳓म् ।  
+आत्म᳓+++(=शरीर)+++-दक्षिणव्ँ वै᳓ सत्त्र᳓म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+In the Sattra the self is the sacrificial gift;
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒त्मद॑क्षिणव्ँ॒ वै स॒त्त्रम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒त्मद॑क्षिण॒मित्या॒त्म-द॒क्षि॒ण॒म् । वै । स॒त्त्रम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 आत्मा᳓नम् एव᳓ द᳓क्षिणान् नीत्वा᳓ सुवर्गल्ँ᳓ लोकय्ँ᳓ यन्ति ।
 </details>
 
 <details><summary>Keith</summary>
 
-In the Sattra the self is the sacrificial gift; verily taking the self as the gift they go to the world of heaven.
+verily taking the self as the gift they go to the world of heaven.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒त्मान॑मे॒व दक्षि॑णान् नी॒त्वा सु॑व॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒त्मान॑म् । ए॒व । दक्षि॑णम् । नी॒त्वा । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । य॒न्ति॒ ।
+</details>
+
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+शिखा॒मनु॒ प्र व॑पन्त॒ ऋद्ध्या॒ अथो॒ रघी॑याँसस्सुव॒र्गल्ँ लो॒कम॑या॒मेति॑ ॥ [31]  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -58,4 +151,22 @@ In the Sattra the self is the sacrificial gift; verily taking the self as the gi
 <details><summary>Keith</summary>
 
 They cut off the top-knot, for prosperity, (thinking), 'More swiftly may we attain the world of heaven.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+शिखा॒मनु॒ प्र व॑पन्त॒ , ऋद्ध्यै॑ । 
+ अथो॒ रघी॑याँसस् सुव॒र्गल्ँ लो॒कम॑या॒मेति॑ ॥ [31]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शिखा॑म् । अनु॑ । प्रेति॑ । व॒प॒न्ते॒ । ऋद्ध्यै॑ । अथो॒ इति॑ । रघी॑याँसः । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । अ॒या॒म॒ । इति॑ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+3यदुक्तं सूत्रकारेण - सत्रं चेद्वपनकाले सशिखानि वपन्ते इति । तदेतद्विधत्ते - शिखामिति ॥ शिखामनुलक्ष्य प्रकर्षेण वपनं कुर्युः । तच्च मृतत्वग्रूपाणां केशानामुपगमात्समृद्ध्यै भवति । अपि च केशभाररहिता रधीयांसो लघुतरास्सन्तः स्वर्गं प्राप्नुवामेत्यनेनाभिप्रायेण सशिखं वपनं कुर्युः ॥
+
+इति माधवीये वेदार्थप्रकाशे यजुस्सहितायां सप्तमकाण्डे चतुर्थप्रपाठके नवमोनुवाकः ॥  
 </details>

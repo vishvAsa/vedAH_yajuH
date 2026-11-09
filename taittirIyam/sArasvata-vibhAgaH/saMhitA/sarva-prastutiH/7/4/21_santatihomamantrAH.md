@@ -23,6 +23,23 @@ title = "२१ सन्ततिहोममन्त्राः"
 To expiration hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+प्रा॒णाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रा॒णायेति॑ प्र-अ॒नाय॑ । स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्राणादयश्शब्दा निगदसिद्धाः ॥
+
+इति सप्तमे चतुर्थे एकविंशोनुवाकः ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याना᳓य स्वा᳓हा ।
@@ -31,6 +48,16 @@ To expiration hail!
 <details><summary>Keith</summary>
 
 To cross-breathing hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्या॒नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व्या॒नायेति॑ वि-अ॒नाय॑ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -43,6 +70,16 @@ To cross-breathing hail!
 To inspiration hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+अ॒पा॒नाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पा॒नायेत्य॑प-अ॒नाय॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्ना᳓वभ्यस्स्वा᳓हा ।
@@ -51,6 +88,16 @@ To inspiration hail!
 <details><summary>Keith</summary>
 
 To sinews hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्नाव॑भ्य॒स्स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्नाव॑भ्य॒ इति॒ स्नाव॑-भ्यः॒ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -63,6 +110,16 @@ To sinews hail!
 To ligatures hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+स॒न्ता॒नेभ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒न्ता॒नेभ्य॒ इति॑ सम्-ता॒नेभ्यः॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓रिसन्तानेभ्यस् स्वा᳓हा ।
@@ -71,6 +128,16 @@ To ligatures hail!
 <details><summary>Keith</summary>
 
 To surrounding ligatures hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+परि॑सन्तानेभ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+परि॑सन्तानेभ्य॒ इति॒ परि॑-स॒न्ता॒ने॒भ्यः॒ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -83,6 +150,16 @@ To surrounding ligatures hail!
 To joints hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+पर्व॑भ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पर्व॑भ्य॒ इति॒ पर्व॑-भ्यः॒ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्धा᳓नेभ्यस् स्वा᳓हा ।
@@ -91,6 +168,16 @@ To joints hail!
 <details><summary>Keith</summary>
 
 To joinings hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒न्धाने॑भ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒न्धाने॑भ्य॒ इति॑ सम्-धाने॑भ्यः । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -103,6 +190,16 @@ To joinings hail!
 To bodies hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+शरी॑रेभ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शरी॑रेभ्यः । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञा᳓यस् स्वा᳓हा ।
@@ -111,6 +208,16 @@ To bodies hail!
 <details><summary>Keith</summary>
 
 To the sacrifice hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+य॒ज्ञाय॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒ज्ञाय॑ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,6 +230,16 @@ To the sacrifice hail!
 To the sacrificial gifts hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+दक्षि॑णाभ्य॒स् स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दक्षि॑णाभ्यः । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्गा᳓य स्वा᳓हा ।
@@ -133,6 +250,16 @@ To the sacrificial gifts hail!
 To heaven hail!
 </details>
 
+<details><summary>मूलम्</summary>
+
+सु॒व॒र्गाय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒व॒र्गायेति॑ सुवः-गाय॑ । स्वाहा॑ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोका᳓य स्वा᳓हा ।
@@ -141,6 +268,16 @@ To heaven hail!
 <details><summary>Keith</summary>
 
 To the world hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+लो॒काय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+लो॒काय॑ । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -155,18 +292,11 @@ To all hail!
 
 <details><summary>मूलम्</summary>
 
-प्रा॒णाय॒ स्वाहा॑ । व्या॒नाय॒ स्वाहा॑ ।  
-अ॒पा॒नाय॒ स्वाहा॑ । स्नाव॑भ्य॒स्स्वाहा॑ ।  
-स॒न्ता॒नेभ्य॒स् स्वाहा॑ । परि॑सन्तानेभ्य॒स् स्वाहा॑ ।  
-पर्व॑भ्य॒स् स्वाहा॑ । स॒न्धाने॑भ्य॒स् स्वाहा॑ ।  
-शरी॑रेभ्य॒स् स्वाहा॑ । य॒ज्ञाय॒स् स्वाहा॑ ।  
-दक्षि॑णाभ्य॒स् स्वाहा॑ । सु॒व॒र्गाय॒ स्वाहा॑ ।  
-लो॒काय॒ स्वाहा॑ । सर्व॑स्मै॒ स्वाहा॑ ॥ [52]
+सर्व॑स्मै॒ स्वाहा॑ ॥ [52]
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः</summary>
 
-प्राणादयश्शब्दा निगदसिद्धाः ॥
-
-इति सप्तमे चतुर्थे एकविंशोनुवाकः ॥  
+सर्व॑स्मै । स्वाहा॑ ॥
 </details>
+
