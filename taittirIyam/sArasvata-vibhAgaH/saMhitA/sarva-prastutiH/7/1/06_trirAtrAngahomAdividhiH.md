@@ -133,6 +133,7 @@ They said to him, 'Be it so.'
 </details>
 
 <details><summary>पद-पाठः</summary>
+
 अस्तु॑ । ही(३) । इति॑ । अ॒ब्रू॒ता॒म् ।   
 </details>
 

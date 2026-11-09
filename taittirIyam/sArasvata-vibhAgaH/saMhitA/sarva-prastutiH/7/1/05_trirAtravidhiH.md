@@ -3,6 +3,7 @@ title = "०५ गर्गत्रिरात्रविधिः"
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 सोमऋषिः
 </details>
 
@@ -34,6 +35,7 @@ This was in the beginning the waters, the ocean.
 </details>
 
 <details><summary>पद-पाठः</summary>
+
 आपः॑ । वै । इ॒दम् । अग्रे॑ । स॒लि॒लम् । आ॒सी॒त् ।   
 </details>
 

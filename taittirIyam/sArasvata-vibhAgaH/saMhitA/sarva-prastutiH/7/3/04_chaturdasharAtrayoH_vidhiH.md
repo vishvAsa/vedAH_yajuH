@@ -124,7 +124,7 @@ Those, who knowing thus perform (the rite) of fourteen nights, prosper in both w
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-च᳓तु᳓र्द᳓श᳓रात्रो᳓ भवति ।  
+चतुर्दशरात्रो᳓ भवति ।  
 सप्त᳓ ग्राम्या᳓ ओ᳓षधयस्, सप्ता᳓रण्याः᳓।
 </details>
 
