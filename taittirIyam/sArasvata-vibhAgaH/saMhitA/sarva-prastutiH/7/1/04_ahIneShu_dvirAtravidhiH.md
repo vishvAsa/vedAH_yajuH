@@ -264,29 +264,47 @@ The first day is the Abhiplava, the second the complete (gati).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(त्रिवृदादि-स्तोम-चतुष्टयवान्)+++ ज्यो᳓तिष्टोमो ऽग्निष्टोमᳶ᳓+++(→अग्निष्टोमसामान्तं)+++ पू᳓र्वम् अ᳓हर् भवति।   
-ते᳓जस् ते᳓ना᳓व रुन्धे+++(=लभते)+++।  
++++(त्रिवृदादि-स्तोम-चतुष्टयवान्)+++ ज्यो᳓तिष्टोमो ऽग्निष्टोमᳶ᳓+++(→अग्निष्टोमसामान्तं)+++ पू᳓र्वम् अ᳓हर् भवति।
 </details>
 
 <details><summary>Keith</summary>
 
-The first day is the Jyotistoma form of the Agnistoma; with it he wins splendour.
+The first day is the Jyotistoma form of the Agnistoma;
 </details>
 
 <details><summary>मूलम्</summary>
 
 ज्योति॑ष्टोमो ऽग्निष्टो॒मᳶ पूर्व॒म् अह॑र् भवति ।
-तेज॒स्तेन अव॑ रुन्धे ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-ज्योति॑ष्टोम॒ इति॒ ज्योतिः॑-स्तो॒मः॒ । अ॒ग्नि॒ष्टो॒म इत्य॑ग्नि-स्तो॒मः । पूर्व॑म् । अहः॑ । भ॒व॒ति॒ । तेजः॑ । तेन॑ । अवेति॑ । रु॒न्द्धे॒ ।     
+ज्योति॑ष्टोम॒ इति॒ ज्योतिः॑-स्तो॒मः॒ । अ॒ग्नि॒ष्टो॒म इत्य॑ग्नि-स्तो॒मः । पूर्व॑म् । अहः॑ । भ॒व॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2तयोः स्तोमविधानार्थमाह - ज्योतिष्टोमः त्रिवृदादिस्तोमचतुष्टयवानग्निष्टोमः अग्निष्टोमसामान्तं पूर्वमहर्भवति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते᳓जस् ते᳓ना᳓व रुन्धे+++(=लभते)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+with it he wins splendour.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेज॒स्तेनाव॑ रुन्धे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तेजः॑ । तेन॑ । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -343,22 +361,42 @@ On the first day the Saman is in the Gayatri (metre).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓जो वै᳓ गायत्री᳓। गा᳓यत्री᳓ ब्रह्मवर्चस᳓म्। ते᳓ज एव᳓ ब्रह्मवर्चस᳓म् अ᳓त्म᳓न् धत्ते।
+ते᳓जो वै᳓ गायत्री᳓। गा᳓यत्री᳓ ब्रह्मवर्चस᳓म्।
 </details>
 
 <details><summary>Keith</summary>
 
-The Gayatri is brilliance and splendour; verily he bestows brilliance and splendour on himself.
+The Gayatri is brilliance and splendour;
 </details>
 
 <details><summary>मूलम्</summary>
 
-तेजो॒ वै गा॑य॒त्री । गा॒य॒त्री ब्र॑ह्मवर्च॒सम्। तेज॑ ए॒व ब्र॑ह्मवर्च॒समा॒त्मन्ध॑त्ते।
+तेजो॒ वै गा॑य॒त्री । गा॒य॒त्री ब्र॑ह्मवर्च॒सम् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-तेजः॑ । वै । गा॒य॒त्री । गा॒य॒त्री । ब्र॒ह्म॒व॒र्च॒समिति॑ ब्रह्म-व॒र्च॒सम् । तेजः॑ । ए॒व । ब्र॒ह्म॒व॒र्च॒समिति॑ ब्रह्म-व॒र्च॒सम् । आ॒त्मन् । ध॒त्ते॒ ।
+तेजः॑ । वै । गा॒य॒त्री । गा॒य॒त्री । ब्र॒ह्म॒व॒र्च॒समिति॑ ब्रह्म-व॒र्च॒सम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते᳓ज एव᳓ ब्रह्मवर्चस᳓म् आत्म᳓न् धत्ते।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he bestows brilliance and splendour on himself.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेज॑ ए॒व ब्र॑ह्मवर्च॒समा॒त्मन्ध॑त्ते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तेजः॑ । ए॒व । ब्र॒ह्म॒व॒र्च॒समिति॑ ब्रह्म-व॒र्च॒सम् । आ॒त्मन् । ध॒त्ते॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -391,23 +429,42 @@ On the second day (the Saman) is in the Tristubh metre.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओ᳓जो वै᳓ वीर्य᳙म्। त्रिष्टु᳓ग्+++(भ्)+++ ओ᳓ज एव᳓। वीर्य᳙म् आत्म᳓न् धत्ते।
+ओ᳓जो वै᳓ वीर्य᳙म् त्रिष्टु᳓क्+++(भ्)+++।
 </details>
 
 <details><summary>Keith</summary>
 
-The Tristubh is force and strength; verily he bestows force and strength on himself.
+The Tristubh is force and strength;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ओजो॒ वै वी॒र्य॑म्,
-त्रि॒ष्टुगोज॑ ए॒व वी॒र्य॑मा॒त्मन्ध॑त्ते।
+ओजो॒ वै वी॒र्य॑म् त्रि॒ष्टुक् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-ओजः॑ । वै । वी॒र्य॑म् । त्रि॒ष्टुक् ॥ ओजः॑ । ए॒व । वी॒र्य॑म् । आ॒त्मन् । ध॒त्ते॒ ।
+ओजः॑ । वै । वी॒र्य॑म् । त्रि॒ष्टुक् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओ᳓ज एव᳓ वीर्य᳙म् आत्म᳓न् धत्ते।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he bestows force and strength on himself.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ओज॑ ए॒व वी॒र्य॑मा॒त्मन्ध॑त्ते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ओजः॑ । ए॒व । वी॒र्य॑म् । आ॒त्मन् । ध॒त्ते॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -437,22 +494,42 @@ The Saman on the first day [2] is the Rathantara.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इयव्ँ᳓ वै᳓  रथन्तर᳓म्। अस्या᳓मेव᳓ प्र᳓ति तिष्ठति।
+इयव्ँ᳓ वै᳓ रथन्तर᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
 
-The Rathantara is this (earth); verily he stands firm on this (earth).
+The Rathantara is this (earth);
 </details>
 
 <details><summary>मूलम्</summary>
 
-इ॒यव्ँ वै  र॑थन्त॒रम॒स्यामे॒व प्रति॑ तिष्ठति,
+इ॒यव्ँ वै र॑थन्त॒रम् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-इ॒यम् । वै । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् । अ॒स्याम् । ए॒व । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।
+इ॒यम् । वै । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्या᳓मेव᳓ प्र᳓ति तिष्ठति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he stands firm on this (earth).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒स्यामे॒व प्रति॑ तिष्ठति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒स्याम् । ए॒व । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -477,22 +554,42 @@ The Rathantara is this (earth); verily he stands firm on this (earth).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓सौ᳓ वै᳓ बृह᳓त्। अमु᳓ष्याम् एव᳓ प्र᳓ति तिष्ठति।
+असौ᳓ वै᳓ बृह᳓त् ।
 </details>
 
 <details><summary>Keith</summary>
 
-The Brhat is yonder (sky); verily he stands firm on yonder (sky).
+The Brhat is yonder (sky);
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒सौ वै बृ॒हद॒मुष्या॑मे॒व प्रति॑ तिष्ठति ।
+अ॒सौ वै बृ॒हत् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-अ॒सौ । वै । बृ॒हत् । अ॒मुष्या॑म् । ए॒व । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।
+अ॒सौ । वै । बृ॒हत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अमु᳓ष्याम् एव᳓ प्र᳓ति तिष्ठति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he stands firm on yonder (sky).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒मुष्या॑मे॒व प्रति॑ तिष्ठति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒मुष्या॑म् । ए॒व । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -577,27 +674,52 @@ verily he does not leave the Jagati.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-षो᳓डश्य् उ᳓त्तरे +++(यत्र द्वे चानुष्टुभौ)+++। ते᳓नानुष्टु᳓भः +++(नैति हानिम्)+++ ।
+षो᳓डश्य् उ᳓त्तरे +++(यत्र द्वे चानुष्टुभौ)+++।
 </details>
 
 <details><summary>Keith</summary>
 
-On the second it is the Sodaśin; verily he does not leave the Anustubh.
+On the second it is the Sodaśin;
 </details>
 
 <details><summary>मूलम्</summary>
 
-षो॒ड॒श्युत्त॑रे॒ तेना॑नु॒ष्टुभः॑ । +++(नैति)+++ ।
+षो॒ड॒श्युत्त॑रे ।
 </details>
 
 <details><summary>पद-पाठः</summary>
-  
-षो॒ड॒शि । उत्त॑र॒ इत्युत्-त॒रे॒ । तेन॑ । अ॒नु॒ष्टुभ॒ इत्य॑नु-स्तुभः॑ ।
+
+षो॒ड॒शि । उत्त॑र॒ इत्युत्-त॒रे॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-षोडशीसाम गौरिवीतमुत्तरस्मिन्नह्नि भवति उक्थ्येभ्यः पुरस्तात् भवति । द्वे चानुष्टुभौ । तेनानुष्टुभो नैतीत्येव ॥
+षोडशीसाम गौरिवीतमुत्तरस्मिन्नह्नि भवति उक्थ्येभ्यः पुरस्तात् भवति । द्वे चानुष्टुभौ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते᳓नानुष्टु᳓भः +++(नैति हानिम्)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he does not leave the Anustubh.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेना॑नु॒ष्टुभः॑ +++(नैति)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तेन॑ । अ॒नु॒ष्टुभ॒ इत्य॑नु-स्तुभः॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तेनानुष्टुभो नैतीत्येव ॥
 </details>
 
 ## कालसूचना
@@ -631,8 +753,7 @@ Then they say, 'If the days fall in the same half month, then the strength of on
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ᳓त्य् अमावास्या᳙याम् पू᳓र्वम् अ᳓हर् भ᳓व᳓ति᳓, उ᳓त्तरस्मिन्न् उ᳓त्तरम् ।  
-ना᳓नैव् आ᳓र्धमास᳓योर् भवतः। ना᳓नावीर्ये भवतः ।
+इ᳓त्य् अमावास्या᳙याम् पू᳓र्वम् अ᳓हर् भ᳓व᳓ति᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -642,17 +763,42 @@ The first day takes place on the night of new moon;
 
 <details><summary>मूलम्</summary>
 
-इत्य॑मावा॒स्या॑या॒म्पूर्व॒मह॑र्भवति, उत्त॑रस्मि॒न्नुत्त॑रम् ।
+इत्य॑मावा॒स्या॑या॒म्पूर्व॒मह॑र्भवति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-इति॑ । अ॒मा॒वा॒स्या॑या॒मित्य॑मा-वा॒स्या॑याम् । पूर्व॑म् । अहः॑ । भ॒व॒ति॒ । उत्त॑रस्मि॒न्नित्युत्-त॒र॒स्मि॒न् । उत्त॑र॒मित्युत्-त॒र॒म् ।
+इति॑ । अ॒मा॒वा॒स्या॑या॒मित्य॑मा-वा॒स्या॑याम् । पूर्व॑म् । अहः॑ । भ॒व॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तस्मादमावास्या यां पूर्वमहर्भवति । उत्तरस्मिन्यजनीयेऽह्नि द्वितीयमहर्भवति ।
+तस्मादमावास्यायां पूर्वमहर्भवति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उ᳓त्तरस्मिन्न् उ᳓त्तरम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+the second on the next day,
+</details>
+
+<details><summary>मूलम्</summary>
+
+उत्त॑रस्मि॒न्नुत्त॑रम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उत्त॑रस्मि॒न्नित्युत्-त॒र॒स्मि॒न् । उत्त॑र॒मित्युत्-त॒र॒म् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+उत्तरस्मिन्यजनीयेऽह्नि द्वितीयमहर्भवति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -662,7 +808,7 @@ The first day takes place on the night of new moon;
 
 <details><summary>Keith</summary>
 
-the second on the next day, verily the days fall on separate half-months, and have the several strengths.
+verily the days fall on separate half-months, and have the several strengths.
 </details>
 
 <details><summary>मूलम्</summary>

@@ -683,7 +683,7 @@ Now the atmosphere [3] was broken.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓स्माद् रुद्रा᳓ घा᳓तुकाः। अनायतना᳓ हि᳓ त᳓स्माद् आहुः।  
+त᳓स्माद् रुद्रा᳓ घा᳓तुकाः। अनायतना᳓ हि᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -693,12 +693,12 @@ Therefore the Rudras are murderous, for they have no support.
 
 <details><summary>मूलम्</summary>
 
-तस्मा॑द्रु॒द्रा घातु॑काः । अ॒ना॒य॒त॒ना हि तस्मा॑दाहुः    
+तस्मा॑द्रु॒द्रा घातु॑काः । अ॒ना॒य॒त॒ना हि ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-तस्मा॑त् । रु॒द्राः । घातु॑काः । अ॒ना॒य॒त॒ना इत्य॑ना-य॒त॒नाः । हि । तस्मा॑त् । आ॒हुः॒ ।
+तस्मा॑त् । रु॒द्राः । घातु॑काः । अ॒ना॒य॒त॒ना इत्य॑ना-य॒त॒नाः । हि ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -708,35 +708,56 @@ Therefore the Rudras are murderous, for they have no support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शि᳓थिलव्ँ᳓ वै᳓ मध्यम᳓म् अ᳓हस् त्रिरात्र᳓स्य, +++(यतो)+++ वि᳓ हि᳓ त᳓द् अवै᳓र्य᳓त᳓+++(→विशीर्णम् अभवत् फलस्य विशीर्णत्वात्)+++ ।
+त᳓स्माद् आहुः - शि᳓थिलव्ँ᳓ वै᳓ मध्यम᳓म् अ᳓हस् त्रिरात्र᳓स्य ।
 </details>
 
 <details><summary>Keith</summary>
 
-Therefore they say, 'The midmost day of the three-day night is not fixed; for it was moved.'
+Therefore they say, 'The midmost day of the three-day night is not fixed;
 </details>
 
 <details><summary>मूलम्</summary>
 
-शि॒थि॒लव्ँ वै  म॑ध्य॒ममह॑स्त्रिरा॒त्रस्य॒, वि हि तद॒वैर्यत ।
+तस्मा॑दाहुः - शि॒थि॒लव्ँ वै म॑ध्य॒ममह॑स्त्रिरा॒त्रस्य॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-शि॒थि॒लम् । वै । म॒ध्य॒मम् । अहः॑ । त्रि॒रा॒त्रस्येति॑ त्रि-रा॒त्रस्य॑ । वीति॑ । हि । तत् । अ॒वैर्य॒तेत्य॑व-ऐर्य॑त । इति॑ ।
+तस्मा॑त् । आ॒हुः॒ । शि॒थि॒लम् । वै । म॒ध्य॒मम् । अहः॑ । त्रि॒रा॒त्रस्येति॑ त्रि-रा॒त्रस्य॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तस्मात्त्रिरात्रस्य मध्यममहः शिथिलमित्याह । हेतुं चाह - वि हि तदवैर्यतेति । तन्मध्यममहः व्यवैर्यत विशीर्णमभवत् । फलस्य विशीर्णत्वात् ।
+तस्मात्त्रिरात्रस्य मध्यममहः शिथिलमित्याह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(यतो)+++ वि᳓ हि᳓ त᳓द् अवै᳓र्य᳓ते᳓ति+++(→विशीर्णम् अभवत् फलस्य विशीर्णत्वात्)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+for it was moved.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+वि हि तद॒वैर्य॒तेति॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वीति॑ । हि । तत् । अ॒वैर्य॒तेत्य॑व-ऐर्य॑त । इति॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हेतुं चाह - वि हि तदवैर्यतेति । तन्मध्यममहः व्यवैर्यत विशीर्णमभवत् । फलस्य विशीर्णत्वात् ।
 
 'हि च' इति निघातप्रतिषेधः ।
 
 'तिङि चोदात्तवति' इति गतेरनुदात्तत्वम्, समासश्च ।
-
-तस्मान्मध्यमस्याह्नः आज्यं त्रैष्टुभं भवति ।
-
-पूर्ववत् होतुराज्यमिति वेदितव्यम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -757,6 +778,13 @@ The Ajya (Śastra) of the midmost day is in the Tristubh metre.
 <details><summary>पद-पाठः</summary>
 
 त्रैष्टु॑भम् । म॒ध्य॒मस्य॑ । अह्नः॑ । आज्य॑म् । भ॒व॒ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्मान्मध्यमस्याह्नः आज्यं त्रैष्टुभं भवति ।
+
+पूर्ववत् होतुराज्यमिति वेदितव्यम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -841,11 +869,6 @@ On each day in succession he gives three hundred continuously [4], for the conti
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6त्रीणित्रीणीत्यादि ॥ अनूचीनाहमव्यवच्छिन्नानि ददाति । उत्तमेऽह्नि चत्वारिंशता । अन्वञ्चतीति 'ऋत्विक्' इत्यादिना क्विप्, 'अनिदिताम्' इति नलोपः, 'विभाषाञ्चेः' इत्यादिना खः, 'चौ' इति दीर्घत्वम्, अनूचीनाहं, समासे 'राजाहस्सखिभ्यष्टच्'
-
-एषां लोकानामनुक्रमेण सन्तत्यै सन्तानार्थं तद्भवति ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
 
 एषां लोकानामनुक्रमेण सन्तत्यै सन्तानार्थं तद्भवति ॥
 </details>
@@ -1030,7 +1053,7 @@ It is the Achavaka [5] who recites this verse.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓थ या᳓ सहस्रतमी᳓ सा᳓ हो᳓त्रे दे᳓ये᳓ति हो᳓तारव्ँ वा᳓ अभ्य᳓तिरिच्यते।
+अ᳓थ या᳓ सहस्रतमी᳓ सा᳓ हो᳓त्रे दे᳓ये᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -1040,12 +1063,12 @@ Now (some say), 'The thousandth is to be given to the Hotr';
 
 <details><summary>मूलम्</summary>
 
-अथ॒ या स॑हस्रत॒मी सा होत्रे॒ देयेति॒ होता॑रव्ँ॒ वा अ॒भ्यति॑रिच्यते।
+अथ॒ या स॑हस्रत॒मी सा होत्रे॒ देयेति॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-अथ॑ । या । स॒ह॒स्र॒त॒मीति॑ सहस्र-त॒मी । सा । होत्रे॑ । देया॑ । इति॑ । होता॑रम् । वै । अ॒भ्यति॑रिच्यत॒ इत्य॑भि-अति॑रिच्यते ।
+अथ॑ । या । स॒ह॒स्र॒त॒मीति॑ सहस्र-त॒मी । सा । होत्रे॑ । देया॑ । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1055,27 +1078,51 @@ Now (some say), 'The thousandth is to be given to the Hotr';
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓द् अतिरि᳓च्यते᳓ हो᳓ता᳓, ऽनाप्तस्यापयिता᳓ ।
+हो᳓तारव्ँ वा᳓ अभ्य᳓तिरिच्यते य᳓द् अतिरि᳓च्यते᳓ ।
 </details>
 
 <details><summary>Keith</summary>
 
-what is left over, is left over for the Hotr; the Hotr is the receiver of what has not been taken.
+what is left over, is left over for the Hotr;
 </details>
 
 <details><summary>मूलम्</summary>
 
-यद् अ॑ति॒रिच्य॑ते होता, ऽना॑प्तस्यापयि॒ता ।
+होता॑रव्ँ॒ वा अ॒भ्यति॑रिच्यते॒ यद॑ति॒रिच्य॑ते ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-यत् । अ॒ति॒रिच्य॑त॒ इत्य॑ति-रिच्य॑ते । होता॑ । अना॑प्तस्य । आ॒प॒यि॒ता ।   
+होता॑रम् । वै । अ॒भ्यति॑रिच्यत॒ इत्य॑भि-अति॑रिच्यते । यत् । अ॒ति॒रिच्य॑त॒ इत्य॑ति-रिच्य॑ते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हेतुमाह - यद्यज्ञेऽतिरिच्यते तस्योत्तरमभिलक्ष्यातिरिच्यते तस्मादतिरिक्तस्स्याद्धोता । पूर्ववत् 'गतिर्गतौ' इति गतेरनुदात्तत्वम्, उत्तरत्र 'तिङि चोदात्तवति' इति, उभयत्र समासः पूर्ववत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हो᳓ता᳓ ऽनाप्तस्यापयिता᳓ ।
+</details>
+
+<details><summary>Keith</summary>
+
+the Hotr is the receiver of what has not been taken.
+</details>
+
+<details><summary>मूलम्</summary>
+
+होताऽना॑प्तस्यापयि॒ता ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+होता॑ । अना॑प्तस्य । आ॒प॒यि॒ता ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
 किंच - अनाप्तस्य प्रापयिता होता यद्यज्ञस्योन्नतस्य पूरयिता समीकर्ता होता तां गामर्हतीति ॥
 </details>
 
@@ -1213,24 +1260,42 @@ Then some say, 'It is to be given to the Brahman and the Agnidh [6], two shares 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(यत)+++ ऐन्द्रो᳓ वै᳓ ब्रह्मा᳓,  वैष्णवो᳙ऽग्नीत्,
++++(यत)+++ ऐन्द्रो᳓ वै᳓ ब्रह्मा᳓, वैष्णवो᳙ऽग्नीत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+For the Brahman is connected with Indra, the Agnidh with Visnu;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऐ॒न्द्रो वै ब्र॒ह्मा, वै॒ष्ण॒वो॑ऽग्नीत् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऐ॒न्द्रः । वै । ब्र॒ह्मा । वै॒ष्ण॒वः । अ॒ग्नीदित्य॑ग्नि-इत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यथैव᳓ ता᳓व् अ᳓कल्पेतामि᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
 
-For the Brahman is connected with Indra, the Agnidh with Visnu; (verily the division is) just as they two agreed upon.
+(verily the division is) just as they two agreed upon.
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऐ॒न्द्रो वै ब्र॒ह्मा,  वै॒ष्ण॒वो॑ऽग्नीद्,
 यथै॒व तावक॑ल्पेता॒मिति॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-ऐ॒न्द्रः । वै । ब्र॒ह्मा । वै॒ष्ण॒वः । अ॒ग्नीदित्य॑ग्नि-इत् । यथा॑ । ए॒व । तौ । अक॑ल्पेताम् । इति॑ ।
+यथा॑ । ए॒व । तौ । अक॑ल्पेताम् । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1373,23 +1438,42 @@ a thousand gifts (to the priests);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सह᳓स्र-सम्मितस् सुवर्गो᳓ लोकः᳓, सुवर्ग᳓स्य लोक᳓स्याभि᳓जित्यै ॥ [20]
+सह᳓स्र-सम्मितस् सुवर्गो᳓ लोकः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
 
-the world of heaven is measured by a thousand; (verily it serves) for the winning of the heavenly world.
+the world of heaven is measured by a thousand;
 </details>
 
 <details><summary>मूलम्</summary>
 
-स॒हस्र॑सम्मितस्सुव॒र्गो लो॒कः ।  
+स॒हस्र॑सम्मितस्सुव॒र्गो लो॒कः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒हस्र॑सम्मित॒ इति॑ स॒हस्र॑-स॒म्मि॒तः॒ । सु॒व॒र्ग इति॑ सुवः-गः । लो॒कः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुवर्ग᳓स्य लोक᳓स्याभि᳓जित्यै ॥ [20]
+</details>
+
+<details><summary>Keith</summary>
+
+(verily it serves) for the winning of the heavenly world.
+</details>
+
+<details><summary>मूलम्</summary>
+
 सु॒व॒र्गस्य॑ लो॒कस्या॒भिजि॑त्यै ॥ [20]
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-स॒हस्र॑सम्मित॒ इति॑ स॒हस्र॑-स॒म्मि॒तः॒ । सु॒व॒र्ग इति॑ सुवः-गः । लो॒कः । सु॒व॒र्गस्येति॑ सुवः-गस्य॑ । लो॒कस्य॑ । अ॒भिजि॑त्या॒ इत्य॒भि-जि॒त्यै॒ ॥
+सु॒व॒र्गस्येति॑ सुवः-गस्य॑ । लो॒कस्य॑ । अ॒भिजि॑त्या॒ इत्य॒भि-जि॒त्यै॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

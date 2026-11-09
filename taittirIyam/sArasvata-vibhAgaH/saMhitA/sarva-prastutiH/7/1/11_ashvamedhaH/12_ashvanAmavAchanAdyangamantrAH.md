@@ -37,23 +37,59 @@ Many through thy dam, powerful through thy sire,
 1अश्वस्य दक्षिणे कर्णे यजमानमश्वनामानि वाचयति - विभूरित्यादि ॥ धारणान्माता पृथिवी । तत्र वृष्ट्या प्रजा उत्पादयतीति पिता द्यौः । ब्राह्मणं च भवति 'इयं वै माता । असौ पिता' इति । तत्र मात्रा पृथिव्या त्वं विभूरसि विशेषण भवसि विशिष्टोसि । पित्रा दिवा च त्वं प्रभूरसि प्रकर्षेण भवसि प्रकृष्टोसि । 'उदात्तयणः' इति तृतीयाया उदात्तत्वम् । 
 </details>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/20_ashvo-si_hayo-syatyo-si.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/20_ashvo-si_hayo-syatyo-si.md">
 
-<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(अश्वस्य दक्षिणे कर्णे यजमानम् अश्वनामानि वाचयति)+++  
-अ᳓श्वो+++(=व्यापकः)+++ ऽसि । ह᳓यो+++(←हि गतौ)+++ **ऽस्य्**, अ᳓त्यो+++(←अत सातत्य-गमने)+++ **ऽसि**,  
-न᳓रो+++(=नेता)+++ ऽस्य्, अ᳓र्वा+++(←ऋ गतौ)+++ऽसि, स᳓प्तिर्+++(←सर्पतेः)+++ असि, वाज्य्+++(=वेगवान्)+++ अ᳙सि, वृ᳓षा ऽसि।  
-नृ-म᳓णा+++(=मन्त्यव्यो)+++ असि। य᳓युर् ना᳓मासि।  
-+++(ब्राह्मणं च 'एतद्वा अश्वस्य प्रियं नामधेयम्' इति ।)+++
-
-+++(उपतिष्ठते)+++  
-आदित्या᳓नाम् प᳓त्व+++(=पतनशीलः)+++ +**अ᳓न्विहि** ।
+अ᳓श्वो+++(=व्यापकः)+++ ऽसि । ह᳓यो+++(←हि गतौ)+++ ऽस्य्, अ᳓त्यो+++(←अत सातत्य-गमने)+++ ऽसि,  
+न᳓रो+++(=नेता)+++ ऽस्य्, अ᳓र्वा+++(←ऋ गतौ)+++ऽसि, स᳓प्तिर्+++(←सर्पतेः)+++ असि, वाज्य्+++(=वेगवान्)+++ अ᳙सि, वृ᳓षा ऽसि,  
+नृ-म᳓णा+++(=मन्तव्यो)+++ असि ।
+</details>
 
 <details><summary>Keith</summary>
 
-thou art a horse, thou art a steed, thou art a runner, thou art a male, thou art a strong horse, thou art a racer, thou art powerful, thou art a stallion, thou art heroic hearted; 'goer' is thy name;
+thou art a horse, thou art a steed, thou art a runner, thou art a male, thou art a strong horse, thou art a racer, thou art powerful, thou art a stallion, thou art heroic hearted;
 </details>
+
+<details><summary>मूलम्</summary>
+
+अश्वो॑ऽसि॒ हयो॒ऽस्यत्यो॑ऽसि॒ नरो॒ऽस्यर्वा॑ऽसि॒ सप्ति॑रसि वा॒ज्य॑सि॒ वृषा॑ऽसि नृ॒मणा॑ असि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अश्वः॑ । अ॒सि॒ । हयः॑ । अ॒सि॒ । अत्यः॑ । अ॒सि॒ । नरः॑ । अ॒सि॒ । अर्वा॑ । अ॒सि॒ । सप्तिः॑ । अ॒सि॒ । वा॒जी । अ॒सि॒ । वृषा॑ । अ॒सि॒ । नृ॒मणा॒ इति॑ नृ-मनाः॑ । अ॒सि॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अश्वः व्यापकोसि अध्वनाम् । हयः क्रमणवानसि । हय गतिक्रान्त्योः । पचाद्यजन्तः, वृषादित्वादाद्युदात्तत्वम् । अत्यः सातत्येन गन्तुं समर्थोसि । अततेः 'कृत्यल्युटो बहुलम्' इति कर्तरि यत्, 'यतोऽनावः' इत्याद्युदात्तत्वम् । नरोसि कर्मणां नेताऽसि । नृ नये, पूर्ववदच्, स्वरश्च । अर्वा अरणकुशलोसि । अर्तेर्वनिप्, सप्तिः सर्वत्र समवेतोसि । षप समवाये, क्तिन् । वाजी वेगवानसि । वृषा वर्षिता सेक्ता वाऽसि । 'कनिन्युवृषि' इत्यादिना कनिन् । नृमणाः नृषु मना यस्य, नॄन् मन्यते उपकरोति, नृभिर्वा मन्यसे उपकुर्विति । 'गतिकारकयोरपि' इत्यसुन् 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम्, 'पूर्वपदात्संज्ञायामगः' इति णत्वम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓युर् ना᳓मासि ।  
++++(ब्राह्मणं च 'एतद्वा अश्वस्य प्रियं नामधेयम्' इति ।)+++
+</details>
+
+<details><summary>Keith</summary>
+
+'goer' is thy name;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ययु॒र्नामा॑सि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ययुः॑ । नाम॑ । अ॒सि॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ययुः यानशीलः । 'यो द्वे च' इत्युप्रत्ययः । ययुरित्यश्वमेधयोग्योश्व इत्याहुः । ययुर्नाम त्वमसि । ब्राह्मणं च 'एतद्वा अश्वस्य प्रियं नामधेयम्' इति ॥
 </details>
 
 </div>
@@ -323,9 +359,29 @@ Here is delight, hail!'
 अश्वमुत्सृजति।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भू᳓र् असि +++(=भावयिता त्वं विश्वस्यापि)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art becoming;
+</details>
+
+<details><summary>मूलम्</summary>
+
+भू॒रसि॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भूः । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-भूः भावयिता त्वं विश्वस्यापि । 'बहुलमन्यत्रापि' इति णिलुक् ।
+5अश्वमुत्सृजति - भूरसीति ॥ भूः भावयिता त्वं विश्वस्यापि । 'बहुलमन्यत्रापि' इति णिलुक् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -335,7 +391,7 @@ Here is delight, hail!'
 
 <details><summary>Keith</summary>
 
-Thou art becoming; to being thee, to what is becoming thee, to what shall be thee!
+to being thee, to what is becoming thee, to what shall be thee!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -345,7 +401,7 @@ Thou art becoming; to being thee, to what is becoming thee, to what shall be the
 
 <details><summary>पद-पाठः</summary>
 
-भूः । अ॒सि॒ । भु॒वे । त्वा॒ । भव्या॑य । त्वा॒ । भ॒वि॒ष्य॒ते । त्वा॒ ।
+भु॒वे । त्वा॒ । भव्या॑य । त्वा॒ । भ॒वि॒ष्य॒ते । त्वा॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

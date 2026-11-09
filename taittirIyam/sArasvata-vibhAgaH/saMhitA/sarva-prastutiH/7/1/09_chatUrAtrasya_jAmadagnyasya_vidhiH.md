@@ -155,51 +155,87 @@ On the Upasads offerings of the sacrificial cake are made.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पश᳓वो वै᳓ पुरो᳓डा᳓शः । पशू᳓न् एवा᳓व रुन्धे ।  
+पश᳓वो वै᳓ पुरो᳓डा᳓शः ।
 </details>
 
 <details><summary>Keith</summary>
 
-The sacrificial cake is cattle; verily he wins cattle.
+The sacrificial cake is cattle;
 </details>
 
 <details><summary>मूलम्</summary>
 
-प॒शवो॒ वै पु॑रोडाशः॑ । 
- प॒शूने॒वाव॑ रुन्धे ।
+प॒शवो॒ वै पु॑रोडाशः॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-प॒शवः॑ । वै । पु॒रो॒डाशः॑ । प॒शून् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
+प॒शवः॑ । वै । पु॒रो॒डाशः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-पशवो वा इत्यादि । गतम् ॥  
-
-इति सप्तमे प्रथमे नवमोनुवाकः ॥
+पशवो वा इत्यादि । गतम् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓न्नव्ँ वै᳓ पुरोडा᳓शः᳓ । अ᳓न्नम् एवा᳓व रुन्धे ।  
+पशू᳓न् एवा᳓व रुन्धे ।
 </details>
 
 <details><summary>Keith</summary>
 
-The sacrificial cake is food; verily he wins food.
+verily he wins cattle.
 </details>
 
 <details><summary>मूलम्</summary>
 
-अन्नव्ँ॒ वै पु॑रो॒डाशः । 
- अन्न॑मे॒वाव॑ रुन्धे ।
+प॒शूने॒वाव॑ रुन्धे ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-अन्न॑म् । वै । पु॒रो॒डाशः॑ । अन्न॑म् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
+प॒शून् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ᳓न्नव्ँ वै᳓ पुरोडा᳓शः᳓ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The sacrificial cake is food;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्नव्ँ॒ वै पु॑रो॒डाशः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अन्न॑म् । वै । पु॒रो॒डाशः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ᳓न्नम् एवा᳓व रुन्धे ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he wins food.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्न॑मे॒वाव॑ रुन्धे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अन्न॑म् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -220,6 +256,11 @@ An eater of food and owner of cattle he becomes who knowing thus offers the four
 <details><summary>पद-पाठः</summary>
 
 अ॒न्ना॒द इत्य॑न्न-अ॒दः । प॒शु॒मानिति॑ पशु-मान् । भ॒व॒ति॒ । यः । ए॒वम् । वि॒द्वान् । च॒तू॒रा॒त्रेणेति॑ चतुः-रा॒त्रेण॑ । यज॑ते ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इति सप्तमे प्रथमे नवमोनुवाकः ॥
 </details>
 
 <details><summary>प्रदीपसिंहः</summary>

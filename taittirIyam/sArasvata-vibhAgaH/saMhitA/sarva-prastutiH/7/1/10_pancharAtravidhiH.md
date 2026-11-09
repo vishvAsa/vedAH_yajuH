@@ -75,27 +75,47 @@ He desired, 'May I create the seasons.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓ एत᳓म् पञ्चरात्र᳓मपश्यत् । त᳓मा᳓हरत् । ते᳓नायजत ।
+स᳓ एत᳓म् पञ्चरात्र᳓मपश्यत् ।
 </details>
 
 <details><summary>Keith</summary>
 
-He saw this five-night rite; he grasped it and sacrificed with it.
+He saw this five-night rite;
 </details>
 
 <details><summary>मूलम्</summary>
 
-स ए॒तम् प॑ञ्चरा॒त्रम॑पश्यत् । तमाह॑रत् । तेना॑यजत ।
+स ए॒तम् प॑ञ्चरा॒त्रम॑पश्यत् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-सः । ए॒तम् । प॒ञ्च॒रा॒त्रमिति॑ पञ्च-रा॒त्रम् । अ॒प॒श्य॒त् । तम् । एति॑ । अ॒ह॒र॒त् । तेन॑ । अ॒य॒ज॒त॒ ।
+सः । ए॒तम् । प॒ञ्च॒रा॒त्रमिति॑ पञ्च-रा॒त्रम् । अ॒प॒श्य॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स एतमित्यादि । गतम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓मा᳓हरत् । ते᳓नायजत ।
+</details>
+
+<details><summary>Keith</summary>
+
+he grasped it and sacrificed with it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तमाह॑रत् । तेना॑यजत ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । एति॑ । अ॒ह॒र॒त् । तेन॑ । अ॒य॒ज॒त॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -476,28 +496,52 @@ and men call him 'lord of speech'.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓नाप्तश् चतूरात्रो᳓, ऽतिरिक्तष् षड्रात्रः᳓ +++(यतः - `पञ्चाक्षरा पङ्क्तिः पाङ्क्तो यज्ञः` इति वक्ष्यते)+++।
+अ᳓नाप्तश् चतूरात्रः᳓ +++(यतः - `पञ्चाक्षरा पङ्क्तिः पाङ्क्तो यज्ञः` इति वक्ष्यते)+++।
 </details>
 
 <details><summary>Keith</summary>
 
-The four-night rite is incomplete; the six-night rite is redundant,
+The four-night rite is incomplete;
 </details>
 
 <details><summary>मूलम्</summary>
 
-अना॑प्तश्चतूरा॒त्रो,
-ऽति॑रिक्तष् षड्रा॒त्रः ।
+अना॑प्तश्चतूरा॒त्रः ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-अना॑प्तः । च॒तू॒रा॒त्र इति॑ चतुः-रा॒त्रः । अति॑रिक्त॒ इत्यति॑-रि॒क्तः॒ । ष॒ड्रा॒त्र इति॑ षट्-रा॒त्रः । 
+अना॑प्तः । च॒तू॒रा॒त्र इति॑ चतुः-रा॒त्रः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-5अनाप्त इत्यादि ॥ अत्रैव वक्ष्यते 'पञ्चाक्षरा पङ्क्तिः पाङ्क्तो यज्ञः' इति । तेनाभिप्रायेणेदमुच्यते । तत्पाङ्क्तं यज्ञस्वरूपं, अनाप्तः चतूरात्रः ऊनत्वादप्राप्तः । षड्रात्रस्तु पाङ्क्तस्वरूपमतिरिक्तः अतिक्रम्य वर्तते अधिकत्वात् ।
+5अनाप्त इत्यादि ॥ अत्रैव वक्ष्यते 'पञ्चाक्षरा पङ्क्तिः पाङ्क्तो यज्ञः' इति । तेनाभिप्रायेणेदमुच्यते । तत्पाङ्क्तं यज्ञस्वरूपं, अनाप्तः चतूरात्रः ऊनत्वादप्राप्तः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ᳓तिरिक्तष् षड्रात्रः᳓ ।
+</details>
+
+<details><summary>Keith</summary>
+
+the six-night rite is redundant,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अति॑रिक्तष् षड्रा॒त्रः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अति॑रिक्त॒ इत्यति॑-रि॒क्तः॒ । ष॒ड्रा॒त्र इति॑ षट्-रा॒त्रः ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+षड्रात्रस्तु पाङ्क्तस्वरूपमतिरिक्तः अतिक्रम्य वर्तते अधिकत्वात् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

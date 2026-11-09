@@ -78,57 +78,259 @@ I take thee with the arms of the Aśvins, with the hands of Pusan.
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/02_imAmagRbhNan_rashanAmRtasya.md">
 
-<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
-<details><summary>मूलम्</summary>
-
-इ॒माम॑गृभ्णन् रश॒नामृ॒तस्य॒ पूर्व॒ऽआयु॑षि वि॒दथे॑षु क॒व्या। सा नो॑ऽअ॒स्मिन्त्सु॒तऽआब॑भूवऽऋ॒तस्य॒ साम॑न्त्स॒रमा॒रप॑न्ती ॥२ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒माम् अ॑गृभ्णन् रश॒नाम् ऋ॒तस्य॒+++(=यज्ञस्य)+++  
-पूर्व॒ आयु॑षि+++(षे)+++ वि॒दथे॑षु+++(=यज्ञेषु)+++ क॒व्या+++(=कवयः)+++ ।  
-तया॑ दे॒वास् सु॒तम् +++(सोमम्)+++ आ ब॑भूवुर् ,
-ऋ॒तस्य॒ साम॑न्थ्+++(म्नि [समाप्तौ])+++ स॒रम्+++(=सरणं)+++ आ॒रप॑न्ती+++(=अभिवदन्ती)+++ ।
+इमा᳓म् अगृभ्णन् रशना᳓म् ऋत᳓स्य+++(=यज्ञस्य)+++  
+पू᳓र्व आ᳓युषि+++(षे)+++ विद᳓थेषु+++(=यज्ञेषु)+++ कव्या᳓+++(=कवयः)+++ ।  
+त᳓या देवा᳓स् सुत᳓म् +++(सोमम्)+++ आ᳓ बभूवुर् ,  
+ऋत᳓स्य सा᳓मन्थ्+++(म्नि [समाप्तौ])+++ सर᳓म्+++(=सरणं)+++ आर᳓पन्ती+++(=अभिवदन्ती)+++ ।
 </details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/22/02_imAmagRbhNan_rashanAmRtasya.md">
+
+<details><summary>Keith</summary>
+
+This bond of order they grasped  
+At their assemblies in ages gone by, the sages;  
+Therewith the gods mastered the pressed (juice),  
+In the Saman of order declaring the stream.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒माम॑गृभ्णन्रश॒नामृ॒तस्य॒ पूर्व॒ आयु॑षि वि॒दथे॑षु क॒व्या ।  
+तया॑ दे॒वास् सु॒तमा ब॑भूवुर् ,
+ऋ॒तस्य॒ साम॑न्त्स॒रमा॒रप॑न्ती ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒माम् । अ॒गृ॒भ्ण॒न् । र॒श॒नाम् । ऋ॒तस्य॑ । पूर्वे॑ । आयु॑षि । वि॒दथे॑षु । क॒व्या ॥
+तया॑ । दे॒वाः । सु॒तम् । एति॑ । ब॒भू॒वुः॒ । ऋ॒तस्य॑ । साम॑न् । स॒रम् । आ॒रप॒न्तीत्या॑-रप॑न्ती ॥ 
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2आदायाभिमन्त्रयते - इमामिति त्रिष्टुभा ॥ 
+
+इयमपि अग्निकाण्डे व्याख्याता ।
+ऋतस्य यज्ञस्य रशानां बन्धनीयां पूर्वे कव्याः कवयः । यद्वा - कवनीयेषु स्तोतव्येषु विदथेषु यज्ञेषु आयुरर्थमगृह्णन् गृहीतवन्तः ।
+
+या ऋतस्य यज्ञस्य सामन् साम्नि समाप्तौ सरं सरणं आरपन्ती अभिवदन्ती भवति । रपतिश्शब्दकर्मा । शीघ्रं मया यज्ञं संपादयतेति । तया हि देवास्सुतं सोममाबभूवुः आभिमुख्येन प्राप्नुवन् । तादृशीमिमां गृह्णामीति ॥
 </details>
 
 </div>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/03_abhidhA-asi_bhuvanamasi.md">
 
-<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
+## विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-अ॒भि॒धाऽअ॑सि॒ भुव॑नमसि य॒न्तासि॑ ध॒र्त्ता। स त्वम॒ग्निं वै॑श्वान॒रँ सप्र॑थसं गच्छ॒ स्वाहा॑कृतः ॥३ ॥
+अश्वमभिदधाति।
+</details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अभिधा᳓ असि ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art surrounding;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒भि॒धा अ॑सि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भि॒धा इत्य॑भि-धाः । अ॒सि॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+3तया अश्वमभिदधाति - अभिधा असीति ॥ अभिपूर्वो दधातिः बन्धने वर्तते, कर्मणि क्विप् । बन्धनीयस्त्वमसि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भु᳓वनम् असि ।
+</details>
+
+<details><summary>Keith</summary>
+
+thou art the world;
+</details>
+
+<details><summary>मूलम्</summary>
+
+भुव॑नमसि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भुव॑नम् । अ॒सि॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अत एव सर्वं भुवनं सर्वं भूतजातं च त्वमसि । यज्ञसाधनत्वेन सर्वेषां धारकत्वात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यन्ता᳓सि ।
+</details>
+
+<details><summary>Keith</summary>
+
+thou art the restrainer;
+</details>
+
+<details><summary>मूलम्</summary>
+
+य॒न्तासि॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒न्ता । अ॒सि॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+यन्ता यमयिता चासि सर्वस्य ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धर्ता᳓सि ।
+</details>
+
+<details><summary>Keith</summary>
+
+thou art the supporter;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ध॒र्तासि॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ध॒र्ता । अ॒सि॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अत एव धर्ता धारयिता चासि लोकस्य ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सो᳓ ऽग्निव्ँ᳓ वैश्वानरँ᳓ सप्र᳓थसङ् गच्छ स्वा᳓हाकृतः ।
+</details>
+
+<details><summary>Keith</summary>
+
+do thou go, with the cry of 'Hail!' to Agni Vaiśvanara, the extending.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सो॑ऽग्निव्ँ वै॑श्वान॒रँ सप्र॑थसङ्गच्छ॒ स्वाहा॑कृतः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । अ॒ग्निम् । वै॒श्वा॒न॒रम् । सप्र॑थस॒मिति॒ स-प्र॒थ॒स॒म् । ग॒च्छ॒ । स्वाहा॑कृत॒ इति॒ स्वाहा॑-कृ॒तः॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+स त्वं वैश्वानरं विश्वेषां नराणां स्वामित्वेन संबन्धिनं सप्रथसं प्रथसा विस्तरेण सहितं विश्वव्यापिनं अग्निं गच्छ । 'इयं वा अग्निर्वैश्वानरः' । स्वाहाकृतः स्वाहाकारेण संस्कृतः स्वाहाकारोच्चारणेन संस्कृतः । ब्राह्मणं च 'स्वाहाकृत इत्याह । होम एवास्यैषः ।' इति । स्वाहाशब्दस्योर्यादित्वेन गतित्वात् 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । निपाता आद्युदात्ताः ।
 </details>
 
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
- 
-पृथिव्याय्ँ᳓ यन्ता᳓ रा᳓ड्+++(=दीप्यमानः)+++ यन्ता᳓ऽसि  
-य᳓मनो+++(=यमसाधनभूतः)+++, धर्ता᳓सि धरु᳓णः ॥
+
+पृथिव्याय्ँ᳓ यन्ता᳓ रा᳓ट्+++(=दीप्यमानः)+++ ।
 </details>
 
 <details><summary>Keith</summary>
 
-Thou art the restrainer, the ruler on earth; thou art the restrainer who dost restrain; thou art the supporter who dost support.
+Thou art the restrainer, the ruler on earth;
 </details>
 
 <details><summary>मूलम्</summary>
 
-पृ॒थि॒व्याय्ँ य॒न्ता राड्य॒न्ताऽसि॒ यम॑नो, ध॒र्तासि॑ ध॒रुणः॑ ॥
+पृ॒थि॒व्याय्ँ य॒न्ता राट् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-पृ॒थि॒व्याम् । य॒न्ता । राट् । य॒न्ता । अ॒सि॒ । यम॑नः । ध॒र्ता । अ॒सि॒ । ध॒रुणः॑ ।
+पृ॒थि॒व्याम् । य॒न्ता । राट् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-किञ्च - त्वमेव हि यन्ता नियन्ता मनुष्यादीनाम् । राट् दीप्यमानश्च पृथिव्यां अस्यामसि । अथ द्वितीयस्यामपि पृथिव्यां अन्तरिक्षे यन्ता नियन्ता ग्रहनक्षत्रादीनां च त्वमेवासि । यमनः यमसाधनभूतश्चासि । अथ तृतीयस्यामपि पृथिव्यां दिवि धर्ता धारयिता देवानां त्वमेवासि । धरुणो धारणशीलश्च त्वमेवासि । औणादिक उनप्रत्ययः । पृथिवीशब्दस्त्रिष्वपि लोकेषु वर्तते यथा - 'यो द्वितीयस्यां तृतीयस्यां पृथिव्याम्' इति ॥
+किञ्च - त्वमेव हि यन्ता नियन्ता मनुष्यादीनाम् । राट् दीप्यमानश्च पृथिव्यां अस्यामसि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यन्ता᳓ऽसि य᳓मनः+++(=यमसाधनभूतः)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+thou art the restrainer who dost restrain;
+</details>
+
+<details><summary>मूलम्</summary>
+
+य॒न्ताऽसि॒ यम॑नः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒न्ता । अ॒सि॒ । यम॑नः ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ द्वितीयस्यामपि पृथिव्यां अन्तरिक्षे यन्ता नियन्ता ग्रहनक्षत्रादीनां च त्वमेवासि । यमनः यमसाधनभूतश्चासि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धर्ता᳓सि धरु᳓णः ॥
+</details>
+
+<details><summary>Keith</summary>
+
+thou art the supporter who dost support.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ध॒र्तासि॑ ध॒रुणः॑ ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ध॒र्ता । अ॒सि॒ । ध॒रुणः॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ तृतीयस्यामपि पृथिव्यां दिवि धर्ता धारयिता देवानां त्वमेवासि । धरुणो धारणशीलश्च त्वमेवासि । औणादिक उनप्रत्ययः । पृथिवीशब्दस्त्रिष्वपि लोकेषु वर्तते यथा - 'यो द्वितीयस्यां तृतीयस्यां पृथिव्याम्' इति ॥
 </details>
 
 ## विनियोगः
@@ -168,8 +370,6 @@ For ploughing thee!
 'शतुरनुमः' इति सतः ।
 
 'ओषधेश्च विभक्तावप्रथमायाम्' इति ओषधिशब्दस्य संहितायां दीर्घत्वम् ॥
-
-इति सप्तमे प्रथमे एकादशोनुवाकः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -390,4 +590,9 @@ For all creatures thee!
 <details><summary>पद-पाठः</summary>
 
 विश्वे॑भ्यः । त्वा॒ । भू॒तेभ्यः॑ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इति सप्तमे प्रथमे एकादशोनुवाकः ॥
 </details>

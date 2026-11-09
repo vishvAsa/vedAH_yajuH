@@ -195,27 +195,51 @@ He said to them, 'This one has the strength of the thousand, this be mine, the r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता᳓व् अब्रूताँ - +++(वयं)+++ स᳓र्वे वा᳓ एत᳓द् एत᳓स्याव्ँ वीर्य᳙म् [21] प᳓रि पश्यामो᳓, +++(अतो)+++ ऽँशम् आ᳓हरामहा इ᳓ति᳓।
+ता᳓व् अब्रूताँ - +++(वयं)+++ स᳓र्वे वा᳓ एत᳓द् एत᳓स्याव्ँ वीर्य᳙म् [21] प᳓रि पश्यामः ।
 </details>
 
 <details><summary>Keith</summary>
 
-They said, 'We all see that in this one is strength [1]. Let us each have a portion.'
+They said, 'We all see that in this one is strength [1].
 </details>
 
 <details><summary>मूलम्</summary>
 
-ताव॑ब्रूताँ॒ - सर्वे॒ वा ए॒तद् ए॒तस्याव्ँ॑ वी॒र्य॑म् परि॑ पश्यामोऽँश॒मा ह॑रामहा॒  इति॑ । [21]
+ताव॑ब्रूताँ॒ - सर्वे॒ वा ए॒तद् ए॒तस्याव्ँ॑ वी॒र्य॑म् परि॑ पश्यामः । [21]
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-तौ । अ॒ब्रू॒ता॒म् । सर्वे॑ । वै । ए॒तत् । ए॒तस्या॑म् । वी॒र्य॑म् । परीति॑ । प॒श्या॒मः॒ । अँश॑म् । एति॑ । ह॒रा॒म॒है॒ । इति॑ ।
+तौ । अ॒ब्रू॒ता॒म् । सर्वे॑ । वै । ए॒तत् । ए॒तस्या॑म् । वी॒र्य॑म् । परीति॑ । प॒श्या॒मः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-'अथ तच्छ्रुत्वा विदिताभिप्रायौ तावब्रूताम् - सर्वे वयमेतस्यां विद्यमानं वीर्य सहस्रसम्मितं परिपश्यामः,
+अथ तच्छ्रुत्वा विदिताभिप्रायौ तावब्रूताम् - सर्वे वयमेतस्यां विद्यमानं वीर्यं सहस्रसम्मितं परिपश्यामः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(अतो)+++ ऽँशम् आ᳓हरामहा इ᳓ति᳓ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Let us each have a portion.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+अँश॒मा ह॑रामहा॒ इति॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अँश॑म् । एति॑ । ह॒रा॒म॒है॒ । इति॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
 अंशं च हरामहै अंशनियमं चानयैव कुर्म इतीत्थं कृतमतयस्सर्वेऽपि सोमेन्द्रयमाः तस्यामंशमाहरन्त तामेव नियमहेतुं कृत्वा स्वंस्वंमंश गृहीतवन्तः ॥
 </details>
 
@@ -674,28 +698,52 @@ Therefore one must not accept a boon;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा᳓ हि᳓ व᳓रस् सह᳓स्रम् अस्य प्र᳓तिगृहीतम् भवति।
+सा᳓ हि᳓ व᳓रः ।
 </details>
 
 <details><summary>Keith</summary>
 
-for she is a boon; verily he would be accepting a thousand.
+for she is a boon;
 </details>
 
 <details><summary>मूलम्</summary>
 
-सा हि वर॑स्स॒हस्र॑मस्य॒ प्रति॑गृहीतम्भवति।
+सा हि वरः॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-सा । हि । वरः॑ ।   
-स॒हस्र॑म् । अ॒स्य॒ । प्रति॑गृहीतमिति॒ प्रति॑-गृ॒ही॒त॒म् । भ॒व॒ति॒ ।  
+सा । हि । वरः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-सा खलु सहस्रतमी विशिष्टद्रव्यात्मिका, तामेव चायं ददाति, तस्मात्तत्परिग्रहे सहस्रमस्य प्रतिगृहीतं भवति । ततश्च सहस्रस्य प्रतिग्रहदोषः ॥
+सा खलु सहस्रतमी विशिष्टद्रव्यात्मिका, तामेव चायं ददाति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सह᳓स्रम् अस्य प्र᳓तिगृहीतम् भवति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he would be accepting a thousand.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒हस्र॑मस्य॒ प्रति॑गृहीतम्भवति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒हस्र॑म् । अ॒स्य॒ । प्रति॑गृहीतमिति॒ प्रति॑-गृ॒ही॒त॒म् । भ॒व॒ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्मात्तत्परिग्रहे सहस्रमस्य प्रतिगृहीतं भवति । ततश्च सहस्रस्य प्रतिग्रहदोषः ॥
 </details>
 
 ## वरदानप्रक्रिया
@@ -811,29 +859,54 @@ She should be spotted on either side.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓द् आहुर् +++(अन्ये)+++ - अन्यत-एनी᳓+++(=शुक्ला)+++ स्यात् , +++(तस्यास् सहस्रेण तुल्यत्वात्)+++ सह᳓स्रम् पर᳓स्ताद् +++(पार्श्वे)+++ ए᳓तम् +++(शुक्लम्)+++ इ᳓ति ।
+त᳓द् आहुर् +++(अन्ये)+++ - अन्यत-एनी᳓+++(=शुक्ला)+++ स्यात् ।
 </details>
 
 <details><summary>Keith</summary>
 
-They say, 'Let her be spotted on one side only; spotted is the thousand on the other side.'
+They say, 'Let her be spotted on one side only;
 </details>
 
 <details><summary>मूलम्</summary>
 
-तदा॑हु॒रन्यत॑ए॒नी स्या॑त् स॒हस्र॑म्प॒रस्ता॒देत॒मिति॑ ।
+तदा॑हु॒रन्यत॑ए॒नी स्या॑त् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-तत् । आ॒हुः॒ । अ॒न्य॒त॒ए॒नीत्य॑न्यतः-ए॒नी । स्या॒त् । स॒हस्र॑म् । प॒रस्ता॑त् । एत॑म् । इति॑ ।
+तत् । आ॒हुः॒ । अ॒न्य॒त॒ए॒नीत्य॑न्यतः-ए॒नी । स्या॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तदाहुरिति ॥
 
-तत्राहुरन्ये इत्यर्थः । अन्यतः एकपार्श्वे शुक्ला सहस्रतमी स्यात् । परस्तात् इतरस्मिन् भागे सहस्रभूतमेतं शुक्लं स्यात् ।
+तत्राहुरन्ये इत्यर्थः । अन्यतः एकपार्श्वे शुक्ला सहस्रतमी स्यात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(तस्यास् सहस्रेण तुल्यत्वात्)+++ सह᳓स्रम् पर᳓स्ताद् +++(पार्श्वे)+++ ए᳓तम् +++(शुक्लम्)+++ इ᳓ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+spotted is the thousand on the other side.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒हस्र॑म्प॒रस्ता॒देत॒मिति॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒हस्र॑म् । प॒रस्ता॑त् । एत॑म् । इति॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+परस्तात् इतरस्मिन् भागे सहस्रभूतमेतं शुक्लं स्यात् ।
 
 उभयमिदं तुल्यं, तस्यास्सहस्रेण तुल्यत्वात् इत्येवमस्यास्स्तुतिः ।
 </details>
@@ -865,27 +938,47 @@ The one for a boon [5] should be beautiful, perfect in form;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा᳓ हि᳓ व᳓रस् स᳓मृद्ध्यै +++(दातुः)+++ ।
+सा᳓ हि᳓ व᳓रः ।
 </details>
 
 <details><summary>Keith</summary>
 
-for she is a boon; (verily it serves for) prosperity.
+for she is a boon;
 </details>
 
 <details><summary>मूलम्</summary>
 
-सा हि वर॒स्समृ॑द्ध्यै ।
+सा हि वरः॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-सा । हि । वरः॑ । समृ॑द्ध्या॒ इति॒ सम्-ऋ॒द्ध्यै॒ । 
+सा । हि । वरः॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स᳓मृद्ध्यै +++(दातुः)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+(verily it serves for) prosperity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+समृ॑द्ध्यै ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+समृ॑द्ध्या॒ इति॒ सम्-ऋ॒द्ध्यै॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तस्मात्सा दातुस्ममृद्ध्यै भवति । 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ॥
+तस्मात्सा दातुस्समृद्ध्यै भवति । 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
 
 ## आघ्रापणम्
@@ -919,42 +1012,125 @@ Leading her round to the north of the Agnidh's place he makes her smell the wood
 
 +++(सप्तपदा शक्वरी सर्वे च पादा अष्टाक्षराः ।)+++  
 "आ᳓ जिघ्र कल᳓शम् मह्य्  
-उरु᳓धारा प᳓यस्वत्या᳓।  
-त्वा᳓ वि᳓शन्त्व् इ᳓न्दवस्+++(=सोमरसाः)+++  
-समुद्र᳓म् इव सि᳓न्धवः ।  
-सा᳓ +++(सहस्रतमी)+++ मा सह᳓स्र आ᳓ भज ।  
-प्रज᳓या पशु᳓भिस् सह᳓  
-पु᳓नर् मा᳓ विशताद् रयि᳓र्"  
-इ᳓ति ।
+उरु᳓धारा प᳓यस्वती ।
 </details>
 
 <details><summary>Keith</summary>
 
-'Smell the tub, O great one, with broad stream rich in milk; Let the drops enter thee as the streams the ocean; Give me a share in a thousand, with offspring, with cattle; Let wealth again visit me.'
+'Smell the tub, O great one, with broad stream rich in milk;
 </details>
 
 <details><summary>मूलम्</summary>
 
-"आ जि॑घ्र क॒लश॑म् मह्यु॒रुधा॑रा॒ पय॑स्वती ।  
-आ विश॒न्त्विन्द॑वस्समु॒द्रमि॑व॒ सिन्ध॑वः ।  
-सा मा॑ स॒हस्र॒ आ भ॑ज ।  
-प्र॒जया॑ प॒शुभि॑स् स॒ह पुन॒र् मा वि॑शताद् र॒यिर्" इति॑ ।  
+"आ जि॑घ्र क॒लश॑म् मह्यु॒रुधा॑रा॒ पय॑स्वती ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-एति॑ । जि॒घ्र॒ । क॒लश॑म् । म॒हि॒ । उ॒रुधा॒रेत्यु॒रु-धा॒रा॒ । पय॑स्वती ।  
-एति॑ । त्वा॒ । वि॒श॒न्तु॒ । इन्द॑वः । स॒मु॒द्रम् । इ॒व॒ । सिन्ध॑वः ।  
-सा । मा॒ । स॒हस्रे॑ । एति॑ । भ॒ज॒ । 
-प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ । स॒ह । पुनः॑ । मा॒ । एति॑ । वि॒श॒ता॒त् । र॒यिः । इति॑ ।   
+एति॑ । जि॒घ्र॒ । क॒लश॑म् । म॒हि॒ । उ॒रुधा॒रेत्यु॒रु-धा॒रा॒ । पय॑स्वती ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इयं च सप्तपदा शक्वरी सर्वे च पादा अष्टाक्षराः ।  
 
-हे महि मंहनीये कलशमाजिघ्र आभिमुख्येन जिघ्र । उरुधारा विस्तीर्णधारा त्वं पयस्वती बहुक्षीरा,
-त्वां इन्दवस्सोमरसाः आविशन्तु समुद्रमिव नद्यः सा त्वमेवंविशिष्टा मां सहस्र आभज स्वामित्वेन स्थापय । निमित्तसप्तमी वा । सहस्रार्थमाभज ।
+हे महि मंहनीये कलशमाजिघ्र आभिमुख्येन जिघ्र । उरुधारा विस्तीर्णधारा त्वं पयस्वती बहुक्षीरा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ᳓ त्वा᳓ वि᳓शन्त्व् इ᳓न्दवस्+++(=सोमरसाः)+++  
+समुद्र᳓म् इव सि᳓न्धवः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Let the drops enter thee as the streams the ocean;
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ त्वा॑ विश॒न्त्विन्द॑वस्समु॒द्रमि॑व॒ सिन्ध॑वः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । त्वा॒ । वि॒श॒न्तु॒ । इन्द॑वः । स॒मु॒द्रम् । इ॒व॒ । सिन्ध॑वः ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+त्वां इन्दवस्सोमरसाः आविशन्तु समुद्रमिव नद्यः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा᳓ +++(सहस्रतमी)+++ मा सह᳓स्र आ᳓ भज ।
+</details>
+
+<details><summary>Keith</summary>
+
+Give me a share in a thousand,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा मा॑ स॒हस्र॒ आ भ॑ज ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सा । मा॒ । स॒हस्रे॑ । एति॑ । भ॒ज॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सा त्वमेवंविशिष्टा मां सहस्र आभज स्वामित्वेन स्थापय । निमित्तसप्तमी वा । सहस्रार्थमाभज ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रज᳓या पशु᳓भिस् सह᳓
+</details>
+
+<details><summary>Keith</summary>
+
+with offspring, with cattle;
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्र॒जया॑ प॒शुभि॑स् स॒ह
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ । स॒ह ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पु᳓नर् मा᳓ विशताद् रयि᳓र्" इ᳓ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Let wealth again visit me.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुन॒र् मा वि॑शताद् र॒यिर्" इति॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पुनः॑ । मा॒ । एति॑ । वि॒श॒ता॒त् । र॒यिः । इति॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्रजया पशुभिश्च सह त्वत्प्रसादात् पुनर्मा विशतात् दानानन्तरमेव गोसहस्रलक्षणा रयिर्मां प्राप्नोतु ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -979,7 +1155,7 @@ Verily he unites him with offspring, with cattle, with wealth [6].
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-प्रजया पशुभिश्च सह त्वत्प्रसादात् पुनर्मा विशतात् दानारन्तरमेव गोसहस्रलक्षणा रयिर्मां प्राप्नोतु ।
+प्रजयेत्यादि ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1002,55 +1178,135 @@ He becomes rich in offspring, in cattle, in wealth, who knows thus.
 प्र॒जावा॒निति॑ प्र॒जा-वा॒न् । प॒शु॒मानिति॑ पशु-मान् । र॒यि॒मानिति॑ रयि-मान् । भ॒व॒ति॒ । यः । ए॒वम् । वेद॑ ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-प्रजयेत्यादि ॥
-</details>
-
 ## होमः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓या सहा᳓ग्नीध्रम् परे᳓त्य पुर᳓स्तात् प्रती᳓च्यान् ति᳓ष्ठन्त्याञ् जुहुयाद्-  
-"उभा᳓ +++(इन्द्रविष्णू)+++ जिग्य᳓थु᳓र्+++(=जयथः)+++ , न᳓ प᳓रा जयेथे ,  
-न᳓ प᳓रा जिग्ये कतर᳓श् चनै᳓नोः ।  
-+++(त्वम्)+++ इ᳓न्द्रश् च +++(हे)+++ विष्णो य᳓द् +++(अस्मिन् गवि)+++ अ᳓पस्पृधेथान्,  
-त्रेधा᳓ सह᳓स्रव्ँ +++(गावं)+++ वि᳓ त᳓दैरयेथाम्+++(=विभक्तवन्तौ)+++" इ᳓ति ।  
+त᳓या सहा᳓ग्नीध्रम् परे᳓त्य पुर᳓स्तात् प्रती᳓च्यान् ति᳓ष्ठन्त्याञ् जुहुयाद् -
 </details>
 
 <details><summary>Keith</summary>
 
-Having gone round the Agnidh's place with her, he should offer in front, while the cow stands facing (him), Saying, Ye twain have conquered; ye are not conquered; Neither of the two of them hath been defeated; Indra and Visnu when ye contended, Ye did divide the thousand into three.'
+Having gone round the Agnidh's place with her, he should offer in front, while the cow stands facing (him), Saying,
 </details>
 
 <details><summary>मूलम्</summary>
 
-तया॑ स॒हाग्नी॑ध्रम्प॒रेत्य॑ पु॒रस्ता॑त् प्र॒तीच्या॒न् तिष्ठ॑न्त्याञ् जुहुयाद् -  
-
-"उ॒भा जि॑ग्यथुर् , न परा॑ जयेथे॒ ,
-न परा॑ जिग्ये कत॒रश्च॒नैनोः॑ ।  
-इन्द्र॑श्च विष्णो॒ यदप॑स्पृधेथान्,
-त्रे॒धा स॒हस्रव्ँ॒वि तदै॑रयेथा॒म्" इति॑ ।  
+तया॑ स॒हाग्नी॑ध्रम्प॒रेत्य॑ पु॒रस्ता॑त् प्र॒तीच्या॒न् तिष्ठ॑न्त्याञ् जुहुयाद् -
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-तया॑ । स॒ह । आग्नी॑ध्र॒मित्याग्नि॑-इ॒ध्र॒म् । प॒रेत्येति॑ परा-इत्य॑ । पु॒रस्ता॑त् । प्र॒तीच्या॑म् । तिष्ठ॑न्त्याम् । जु॒हु॒या॒त् ।  
-
-उ॒भा । जि॒ग्य॒थुः॒ । न । परेति॑ । ज॒ये॒थे॒ इति॑ । न । परेति॑ । जि॒ग्ये॒ । क॒त॒रः । च॒न । ए॒नोः॒ ॥   
-
-इन्द्रः॑ । च॒ । विष्णोः॑ । यत् । अप॑स्पृधेथाम् । त्रे॒धा । स॒हस्र॑म् । वीति॑ । तत् । ऐ॒र॒ये॒था॒म् । इति॑ ।   
+तया॑ । स॒ह । आग्नी॑ध्र॒मित्याग्नि॑-इ॒ध्र॒म् । प॒रेत्येति॑ परा-इत्य॑ । पु॒रस्ता॑त् । प्र॒तीच्या॑म् । तिष्ठ॑न्त्याम् । जु॒हु॒या॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-10तया सहेत्यादि ॥ आग्नीध्रं परेत्य परागत्य तस्याः पुरस्तात् प्रतीच्यां तिष्ठन्त्यां प्रत्यङ्मुख्यां 'उभा जिग्यथुः' इति जुहोति - 
+10तया सहेत्यादि ॥ आग्नीध्रं परेत्य परागत्य तस्याः पुरस्तात् प्रतीच्यां तिष्ठन्त्यां प्रत्यङ्मुख्यां 'उभा जिग्यथुः' इति जुहोति -
 
-त्रिष्टुबियं 'प्रसो अग्ने' इत्यत्र व्याख्याता । 
+त्रिष्टुबियं 'प्रसो अग्ने' इत्यत्र व्याख्याता ।
+</details>
 
-एवं दर्शितौ उभावपि युवां सर्वधा जिग्यथुः जयथः न कदा चिदपि पराजयेथे ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"उभा᳓ +++(इन्द्रविष्णू)+++ जिग्य᳓थु᳓र्+++(=जयथः)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Ye twain have conquered;
+</details>
+
+<details><summary>मूलम्</summary>
+
+"उ॒भा जि॑ग्यथुः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒भा । जि॒ग्य॒थुः॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+एवं दर्शितौ उभावपि युवां सर्वदा जिग्यथुः जयथः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न᳓ प᳓रा जयेथे ।
+</details>
+
+<details><summary>Keith</summary>
+
+ye are not conquered;
+</details>
+
+<details><summary>मूलम्</summary>
+
+न परा॑ जयेथे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+न । परेति॑ । ज॒ये॒थे॒ इति॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+न कदाचिदपि पराजयेथे ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न᳓ प᳓रा जिग्ये कतर᳓श् चनै᳓नोः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Neither of the two of them hath been defeated;
+</details>
+
+<details><summary>मूलम्</summary>
+
+न परा॑ जिग्ये कत॒रश्च॒नैनोः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+न । परेति॑ । जि॒ग्ये॒ । क॒त॒रः । च॒न । ए॒नोः॒ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
 तथा हि - एनयोर्मध्ये कतरश्च एकतरोपि न कदाचित्पराजिग्ये ।
-किं च - हे विष्णो त्वं च इन्द्रश्च यदपस्पृधेथां स्पर्धां कृतवन्तौ यथा 'तस्यामिन्द्रश्च विष्णुश्च व्यायच्छेताम्' इति तद्गवां सहस्रं त्रेधा व्यैरयेथां विभक्तवन्तौ विभज्य च व्यवस्यितवन्तौ द्विभागे इन्द्रः तृतीये त्वमिति ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(त्वम्)+++ इ᳓न्द्रश् च +++(हे)+++ विष्णो य᳓द् +++(अस्मिन् गवि)+++ अ᳓पस्पृधेथान्,  
+त्रेधा᳓ सह᳓स्रव्ँ +++(गावं)+++ वि᳓ त᳓दैरयेथाम्+++(=विभक्तवन्तौ)+++" इ᳓ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Indra and Visnu when ye contended, Ye did divide the thousand into three.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्र॑श्च विष्णो॒ यदप॑स्पृधेथान्,
+त्रे॒धा स॒हस्रव्ँ॒ वि तदै॑रयेथा॒म्" इति॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्रः॑ । च॒ । विष्णोः॑ । यत् । अप॑स्पृधेथाम् । त्रे॒धा । स॒हस्र॑म् । वीति॑ । तत् । ऐ॒र॒ये॒था॒म् । इति॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+किं च - हे विष्णो त्वं च इन्द्रश्च यदपस्पृधेथां स्पर्धां कृतवन्तौ यथा 'तस्यामिन्द्रश्च विष्णुश्च व्यायच्छेताम्' इति तद्गवां सहस्रं त्रेधा व्यैरयेथां विभक्तवन्तौ विभज्य च व्यवस्थितवन्तौ द्विभागे इन्द्रः तृतीये त्वमिति ॥
 </details>
 
 <details><summary>प्रदीपसिंहः</summary>
@@ -1138,34 +1394,57 @@ he makes her the measure of a thousand [7].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(यान्यश्वमेधे प्रसिद्धानि 'अञ्जन्नेताय' इत्यादीनि)+++ रूपा᳓णि +++(यथार्थमूहित्वा)+++ जुहोति । रूपै᳓रेवै᳓नाँ स᳓मर्धयति ।
++++(यान्यश्वमेधे प्रसिद्धानि 'अञ्जन्नेताय' इत्यादीनि)+++ रूपा᳓णि +++(यथार्थमूहित्वा)+++ जुहोति ।
 </details>
 
 <details><summary>Keith</summary>
 
-He offers to her forms; verily he unites her with her forms.
+He offers to her forms;
 </details>
 
 <details><summary>मूलम्</summary>
 
-रू॒पाणि॑ जुहोति । रू॒पैरे॒वैनाँ॒ सम॑र्धयति ।
+रू॒पाणि॑ जुहोति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-रू॒पाणि॑ । जु॒हो॒ति॒ ।    
-रू॒पैः । ए॒व । ए॒ना॒म् । समिति॑ । अ॒र्ध॒य॒ति॒ ।     
+रू॒पाणि॑ । जु॒हो॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-रूपाणीत्यादि । यान्यश्वमेधे प्रसिद्धानि 'अञ्जन्नेताय' इत्यादीनि रूपाणि तानि यथार्थमूहित्वा जुहोति रूपसमृद्धामेनां करोति ॥
+रूपाणीत्यादि । यान्यश्वमेधे प्रसिद्धानि 'अञ्जन्नेताय' इत्यादीनि रूपाणि तानि यथार्थमूहित्वा जुहोति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓स्या उपोत्था᳓य क᳓र्णमा᳓ जपेत् -  
-+++('आमन्त्रितं पूर्वमविद्यमानवत्' इत्यविद्यमानत्वान्निघाताभावः)+++  
+रूपै᳓रेवै᳓नाँ स᳓मर्धयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily he unites her with her forms.
+</details>
+
+<details><summary>मूलम्</summary>
+
+रू॒पैरे॒वैनाँ॒ सम॑र्धयति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रू॒पैः । ए॒व । ए॒ना॒म् । समिति॑ । अ॒र्ध॒य॒ति॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+रूपसमृद्धामेनां करोति ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓स्या उपोत्था᳓य क᳓र्णमा᳓ जपेत् -
 </details>
 
 <details><summary>Keith</summary>
@@ -1175,44 +1454,42 @@ Rising up he mutters in her ear,
 
 <details><summary>मूलम्</summary>
 
-तस्या॑ उपो॒त्थाय॒ कर्ण॒मा ज॑पेद्,
+तस्या॑ उपो॒त्थाय॒ कर्ण॒मा ज॑पेद् -
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-तस्याः॑ । उ॒पो॒त्थायेत्यु॑प-उ॒त्थाय॑ । कर्ण॑म् । एति॑ । ज॒पे॒त् ।   
+तस्याः॑ । उ॒पो॒त्थायेत्यु॑प-उ॒त्थाय॑ । कर्ण॑म् । एति॑ । ज॒पे॒त् ।
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-12तस्या उपोत्थाय कर्णसमीपमागत्य स्थित्वा जपेत् - इडे रन्ते इति इयं विराट्चतुष्पदा ॥  
+12तस्या उपोत्थाय कर्णसमीपमागत्य स्थित्वा जपेत् - इडे रन्ते इति इयं विराट्चतुष्पदा ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ᳓डे र᳓न्ते᳓+++(=रतिहेतो)+++ ऽदिते+++(=अखण्डिते)+++ स᳓रस्वति  
++++('आमन्त्रितं पूर्वमविद्यमानवत्' इत्यविद्यमानत्वान्निघाताभावः)+++  
+"इ᳓डे र᳓न्ते᳓+++(=रतिहेतो)+++ ऽदिते+++(=अखण्डिते)+++ स᳓रस्वति  
 प्रि᳓ये प्रे᳓यसि+++(=प्रियतरे)+++ म᳓हि वि᳓श्रुत्य् ,  
-एता᳓नि ते अघ्निये ना᳓मानि ,  
-सुकृ᳓तम् मा देवे᳓षु ब्रू᳓ता᳓द् +++(भवती)+++  
-इ᳓ति ।
+एता᳓नि ते अघ्निये ना᳓मानि ।
 </details>
 
 <details><summary>Keith</summary>
 
-'O Ida, Ranti, Aditi, Sarasvati, Priya, Preyasi, Mahi, Viśruti, These, O inviolable one, are thy names; Proclaim me among the gods as a doer of good deeds.'
+'O Ida, Ranti, Aditi, Sarasvati, Priya, Preyasi, Mahi, Viśruti, These, O inviolable one, are thy names;
 </details>
 
 <details><summary>मूलम्</summary>
 
-इडे॒ रन्तेऽदि॑ते॒ सर॑स्वति॒ प्रिये॒ प्रेय॑सि॒ महि॒ विश्रु॑ति ,
-ए॒तानि॑ ते अघ्निये॒ नामा॑नि , सु॒कृत॑म्मा दे॒वेषु॑ ब्रूतादिति॑ ।
+"इडे॒ रन्तेऽदि॑ते॒ सर॑स्वति॒ प्रिये॒ प्रेय॑सि॒ महि॒ विश्रु॑ति ,
+ए॒तानि॑ ते अघ्निये॒ नामा॑नि ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
 इडे॑ । रन्ते॑ । अदि॑ते । सर॑स्वति । प्रिये॑ । प्रेय॑सि । महि॑ । विश्रु॒तीति॒ वि-श्रु॒ति॒ ।  
-ए॒तानि॑ । ते॒ । अ॒घ्नि॒ये॒ । नामा॑नि । 
-सु॒कृत॒मिति॑ सु-कृत॑म् । मा॒ । दे॒वेषु॑ । ब्रू॒ता॒त् । इति॑ ।   
+ए॒तानि॑ । ते॒ । अ॒घ्नि॒ये॒ । नामा॑नि ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1221,7 +1498,33 @@ Rising up he mutters in her ear,
 
 हे इडे अन्नवति, रन्ते रतिहेतो, अदिते अखण्डिते, सरस्वति सरणवति, प्रिये सर्वस्य प्रीणयित्रि, प्रेयसि प्रियतरे रत्नादेरपि, महि महनीये, विश्रुति विशेषेण श्रुते । 'क्तिच्क्तौ च' इति क्तिच्, 'कृदिकारादक्तिनः' इति ङीष् ।   
 
-हे अघ्निये अहन्तव्ये आयुष्मति एतानि तव नामानि, सा त्वं किं नाम न कुर्याः, किं वा कर्तुं न शक्यं त्वया । सा तादृशी महानुभावा त्वं देवेषु सुकृतं शोभनकर्माणं मां ब्रूयात् आवेदयतादित्याशास्ते । 'सुकर्मपाप' इत्यादिना क्विप् ।
+हे अघ्निये अहन्तव्ये आयुष्मति एतानि तव नामानि, सा त्वं किं नाम न कुर्याः, किं वा कर्तुं न शक्यं त्वया ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुकृ᳓तम् मा देवे᳓षु ब्रू᳓ता᳓द्" +++(भवती)+++  
+इ᳓ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Proclaim me among the gods as a doer of good deeds.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+सु॒कृत॑म्मा दे॒वेषु॑ ब्रूता॒द्" इति॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒कृत॒मिति॑ सु-कृत॑म् । मा॒ । दे॒वेषु॑ । ब्रू॒ता॒त् । इति॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सा तादृशी महानुभावा त्वं देवेषु सुकृतं शोभनकर्माणं मां ब्रूतात् आवेदयतादित्याशास्ते । 'सुकर्मपाप' इत्यादिना क्विप् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

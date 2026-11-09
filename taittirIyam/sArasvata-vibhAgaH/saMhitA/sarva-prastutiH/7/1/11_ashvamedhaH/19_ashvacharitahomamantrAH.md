@@ -882,7 +882,7 @@ To him having closed the eyes hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वप्स्यते᳓ स्वा᳓हा । स्वपते᳓ स्वा᳓हा ।
+स्वप्स्यते᳓ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -892,18 +892,37 @@ To him about to sleep hail!
 
 <details><summary>मूलम्</summary>
 
-स्व॒प्स्य॒ते स्वाहा॑ । 
- स्व॒प॒ते स्वाहा॑ ।
+स्व॒प्स्य॒ते स्वाहा॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-स्व॒प्स्य॒ते । स्वाहा॑ । स्व॒प॒ते । स्वाहा॑ ।
+स्व॒प्स्य॒ते । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स्वप्स्यते बाह्यकरणोपरमः स्वापः । गतमन्यत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वपते᳓ स्वा᳓हा ।
+</details>
+
+<details><summary>Keith</summary>
+
+To him sleeping hail!
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्व॒प॒ते स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्व॒प॒ते । स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

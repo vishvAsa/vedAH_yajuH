@@ -57,105 +57,190 @@ She makes him go to the world of heaven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(उदीचीं नीयमानाम् अनुमन्त्रयते-)+++ "सा᳓ मा सुवर्गल्ँ᳓ लोक᳓ङ् गमये᳓"त्य् आह ,  
-सुवर्ग᳓म् एवै᳓नल्ँ लोक᳓ङ् गमयति ।  
++++(उदीचीं नीयमानाम् अनुमन्त्रयते-)+++ "सा᳓ मा सुवर्गल्ँ᳓ लोक᳓ङ् गमये᳓"त्य् आह ।
 </details>
 
 <details><summary>Keith</summary>
 
-'Do thou make me go to the world of heaven', he says; verily she makes him go to the world of heaven.
+'Do thou make me go to the world of heaven', he says;
 </details>
 
 <details><summary>मूलम्</summary>
 
-सा मा॑ सुव॒र्गल्ँ लो॒कङ् ग॑म॒येत्या॑ह ।  
-सु॒व॒र्गमे॒वैनल्ँ॑ लो॒कङ् ग॑मयति ।  
+सा मा॑ सुव॒र्गल्ँ लो॒कङ् ग॑म॒येत्या॑ह ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-सा । मा॒ । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । ग॒म॒य॒ । इति॑ । आ॒ह॒ ।     
-सु॒व॒र्गमिति॑ सुवः-गम् । ए॒व । ए॒न॒म् । लो॒कम् । ग॒म॒य॒ति॒ ।   
+सा । मा॒ । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । ग॒म॒य॒ । इति॑ । आ॒ह॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तस्मात् 'सा मा सुवर्गम्' इत्यादिभिरुदीचीं नीयमानामनुमन्त्रयते सा त्वं गच्छन्ती मां सुवर्गं लोकं गमयेति, सुवर्गं गमयेत्येव ।
+तस्मात् 'सा मा सुवर्गम्' इत्यादिभिरुदीचीं नीयमानामनुमन्त्रयते सा त्वं गच्छन्ती मां सुवर्गं लोकं गमयेति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा᳓ मा ज्यो᳓तिष्मन्तल्ँ लोक᳓ङ् गमये᳓त्याह। ज्यो᳓तिष्मन्तम् एवै᳓नल्ँ लोक᳓ङ् गमयति᳓।
+सुवर्ग᳓म् एवै᳓नल्ँ लोक᳓ङ् गमयति ।
 </details>
 
 <details><summary>Keith</summary>
 
-'Do thou make me go to the world of light', he says; verily she makes him go to the world of light.
+verily she makes him go to the world of heaven.
 </details>
 
 <details><summary>मूलम्</summary>
 
-सा मा॒ ज्योति॑ष्मन्तल्ँ लो॒कङ् ग॑म॒येत्या॑ह । ज्योति॑ष्मन्तम् ए॒वैनल्ँ॑ लो॒कङ् ग॑मय॒ति ।
+सु॒व॒र्गमे॒वैनल्ँ॑ लो॒कङ् ग॑मयति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-सा । मा॒ । ज्योति॑ष्मन्तम् । लो॒कम् । ग॒म॒य॒ । इति॑ । आ॒ह॒ । ज्योति॑ष्मन्तम् । ए॒व । ए॒न॒म् । लो॒कम् । ग॒म॒य॒ति॒ ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-"सा᳓ मा स᳓र्वान् +++(इन्द्रादीनां)+++ पु᳓ण्याल्ँ लोका᳓न् गम᳓ये᳓"त्य् आह , स᳓र्वान् एवै᳓नम् पु᳓ण्याल्ँ  लोका᳓न् गमयति ।
-</details>
-
-<details><summary>Keith</summary>
-
-'Do thou make me go to all holy worlds', he says; verily she makes him go to all holy worlds [1].
-</details>
-
-<details><summary>मूलम्</summary>
-
-सा मा॒ सर्वा॒न् पुण्याल्ँ॑ लो॒कान् ग॑मयेत्या॑ह । सर्वा॑ने॒वैन॒म् पुण्याल्ँ॑  लो॒कान् ग॑मयति ।
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-सा । मा॒ । सर्वान्॑ । पुण्यान्॑ । लो॒कान् । ग॒म॒य॒ । इति॑ । आ॒ह॒ । सर्वान्॑ । ए॒व । ए॒न॒म् । पुण्यान्॑ । लो॒कान् । ग॒म॒य॒ति॒ ।
+सु॒व॒र्गमिति॑ सुवः-गम् । ए॒व । ए॒न॒म् । लो॒कम् । ग॒म॒य॒ति॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-एक एव मन्त्रोऽवयुत्यैव ब्राह्मणेन व्याख्यायते । गता मन्त्राः, ब्राह्मणानि च । ज्योतिष्मान् लोकः आदित्यः ।
+सुवर्गं गमयत्येव ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"सा᳓ मा ज्यो᳓तिष्मन्तल्ँ लोक᳓ङ् गमये᳓"त्याह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Do thou make me go to the world of light', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा मा॒ ज्योति॑ष्मन्तल्ँ लो॒कङ् ग॑म॒येत्या॑ह ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सा । मा॒ । ज्योति॑ष्मन्तम् । लो॒कम् । ग॒म॒य॒ । इति॑ । आ॒ह॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ज्योतिष्मान् लोकः आदित्यः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्यो᳓तिष्मन्तम् एवै᳓नल्ँ लोक᳓ङ् गमयति᳓ ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily she makes him go to the world of light.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्योति॑ष्मन्तम् ए॒वैनल्ँ॑ लो॒कङ् ग॑मय॒ति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ज्योति॑ष्मन्तम् । ए॒व । ए॒न॒म् । लो॒कम् । ग॒म॒य॒ति॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"सा᳓ मा स᳓र्वान् +++(इन्द्रादीनां)+++ पु᳓ण्याल्ँ लोका᳓न् गम᳓ये᳓"त्य् आह ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Do thou make me go to all holy worlds', he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा मा॒ सर्वा॒न् पुण्याल्ँ॑ लो॒कान् ग॑म॒येत्या॑ह ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सा । मा॒ । सर्वान्॑ । पुण्यान्॑ । लो॒कान् । ग॒म॒य॒ । इति॑ । आ॒ह॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+एक एव मन्त्रोऽवयुत्यैव ब्राह्मणेन व्याख्यायते । गता मन्त्राः, ब्राह्मणानि च ।
 पुण्या लोका इन्द्रादीनां लोकाः ब्रह्मलोकपर्यन्ताः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"सा᳓ मा +++(लोकेऽस्मिन्)+++ प्रतिष्ठा᳓ङ् गमय । प्रज᳓या पशु᳓भिस् सह᳓ पु᳓नर् मा᳓ विशताद् रयि᳓र्" इ᳓ति , प्रज᳓यैवै᳓नम् पशु᳓भी रय्या᳓म् प्र᳓ति ष्ठापयति ।
+स᳓र्वान् एवै᳓नम् पु᳓ण्याल्ँ लोका᳓न् गमयति ।
 </details>
 
 <details><summary>Keith</summary>
 
-'Do thou make me go to a secure place, with offspring and cattle, let wealth again visit me', (he says); verily she establishes him with offspring and cattle in wealth.
+verily she makes him go to all holy worlds [1].
 </details>
 
 <details><summary>मूलम्</summary>
 
-सा मा॒ प्र॒ति॒ष्ठाङ् ग॑मय ।[29]  
-प्र॒जया॑ प॒शुभि॑स्स॒ह पुन॒र्मा वि॑शताद्र॒यिरिति॑ ।  
-प्र॒जयै॒वैन॑म् प॒शुभी॑ र॒य्याम् प्रति॑ ष्ठापयति ।
+सर्वा॑ने॒वैन॒म् पुण्याल्ँ॑ लो॒कान् ग॑मयति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-सा । मा॒ । प्र॒ति॒ष्ठामिति॑ प्रति-स्थाम् । ग॒म॒य॒ । 
-प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ । स॒ह । पुनः॑ । मा॒ । एति॑ । वि॒श॒ता॒त् । र॒यिः । इति॑ । 
-प्र॒जयेति॑ प्र-जया॑ । ए॒व । ए॒न॒म् । प॒शुभि॒रिति॑ प॒शु-भिः॒ । र॒य्याम् । प्रतीति॑ । स्था॒प॒य॒ति॒ ।   
+सर्वान्॑ । ए॒व । ए॒न॒म् । पुण्यान्॑ । लो॒कान् । ग॒म॒य॒ति॒ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"सा᳓ मा +++(लोकेऽस्मिन्)+++ प्रतिष्ठा᳓ङ् गमय । प्रज᳓या पशु᳓भिस् सह᳓ पु᳓नर् मा᳓ विशताद् रयि᳓र्" इ᳓ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Do thou make me go to a secure place, with offspring and cattle, let wealth again visit me', (he says);
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा मा॑ प्र॒ति॒ष्ठाङ् ग॑मय । [29]  
+प्र॒जया॑ प॒शुभि॑स्स॒ह पुन॒र्मा वि॑शताद्र॒यिरिति॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सा । मा॒ । प्र॒ति॒ष्ठामिति॑ प्रति-स्थाम् । ग॒म॒य॒ ।  
+प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ । स॒ह । पुनः॑ । मा॒ । एति॑ । वि॒श॒ता॒त् । र॒यिः । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रतिष्ठा प्रजादिभिस्सहास्मिन् लोके धनविषयमैश्वर्यम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रज᳓यैवै᳓नम् पशु᳓भी रय्या᳓म् प्र᳓ति ष्ठापयति ।
+</details>
+
+<details><summary>Keith</summary>
+
+verily she establishes him with offspring and cattle in wealth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्र॒जयै॒वैन॑म् प॒शुभी॑ र॒य्याम् प्रति॑ ष्ठापयति ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जयेति॑ प्र-जया॑ । ए॒व । ए॒न॒म् । प॒शुभि॒रिति॑ प॒शु-भिः॒ । र॒य्याम् । प्रतीति॑ । स्था॒प॒य॒ति॒ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -176,10 +261,7 @@ Rich in offspring, cattle, and wealth he becomes who knows thus.
 
 <details><summary>पद-पाठः</summary>
 
- प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ । स॒ह । पुनः॑ । मा॒ । एति॑ । वि॒श॒ता॒त् । र॒यिः । इति॑ । 
- 
- प्र॒जयेति॑ प्र-जया॑ । ए॒व । ए॒न॒म् । प॒शुभि॒रिति॑ प॒शु-भिः॒ । र॒य्याम् । प्रतीति॑ । स्था॒प॒य॒ति॒ ।   
-प्र॒जावा॒निति॑ प्र॒जा-वा॒न् । प॒शु॒मानिति॑ पशु-मान् । र॒यि॒मानिति॑ रयि-मान् । भ॒व॒ति॒ । यः । ए॒वम् । वेद॑ ।     
+प्र॒जावा॒निति॑ प्र॒जा-वा॒न् । प॒शु॒मानिति॑ पशु-मान् । र॒यि॒मानिति॑ रयि-मान् । भ॒व॒ति॒ । यः । ए॒वम् । वेद॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -269,36 +351,79 @@ A thousand he accepts who not knowing [2] accepts her.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(तस्मादेवं विदित्वा)+++ ता᳓म् प्र᳓ति गृ᳓ह्णी᳓या᳓त् -  
-
-"ए᳓कासि न᳓ सह᳓स्रम् । ए᳓कान्त्वा भूता᳓म्प्र᳓ति गृह्णामि , न᳓ सह᳓स्रम् ।  
-ए᳓का मा भूता᳓ऽऽविश , मा᳓ सह᳓स्रम्" इ᳓ति ।  
-
-ए᳓काम् एवै᳓नाम् भूता᳓म् प्र᳓ति गृह्णाति , न सह᳓स्रय्ँ य᳓ एवव्ँ᳓ वे᳓द ।
+"ए᳓कासि न᳓ सह᳓स्रम् ।
 </details>
 
 <details><summary>Keith</summary>
 
-He should accept her, (saying), 'Thou art one, not a thousand. Thee as one I accept, not a thousand; come to me as one, not as a thousand';
+He should accept her, (saying), 'Thou art one, not a thousand.
 </details>
 
 <details><summary>मूलम्</summary>
 
 ताम् प्रति॑ गृह्णीयात् -  
-"एका॑सि॒ न स॒हस्र॑म् "। एका॑न्त्वा भू॒ताम्प्रति॑ गृह्णामि॒ , न स॒हस्र॑म् ।  
-एका॑  मा भू॒ताऽऽवि॑श॒ , मा स॒हस्र॑म्" इति॑ ।
+"एका॑सि॒ न स॒हस्र॑म् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-ताम् । प्रतीति॑ । गृ॒ह्णी॒या॒त् ।     
-एका॑ । अ॒सि॒ । न । स॒हस्र॑म् ।     
-एका॑म् । त्वा॒ । भू॒ताम् । प्रतीति॑ । गृ॒ह्णा॒मि॒ । न । स॒हस्र॑म् ।   
-एका॑ । मा॒ । भू॒ता । एति॑ । वि॒श॒ । मा॒ । स॒हस्र॑म् । इति॑ ।  
+ताम् । प्रतीति॑ । गृ॒ह्णी॒या॒त् ।  
+एका॑ । अ॒सि॒ । न । स॒हस्र॑म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-एका त्वमसि न सहस्रं । तस्मादेकामेव भूतां त्वां प्रतिगृह्णामि, न सहस्रभूतां, तस्मा- त्त्वमप्येकैव भूता मामाविश, मा सहस्रभूता ॥
+एका त्वमसि न सहस्रं ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ए᳓कान्त्वा भूता᳓म्प्र᳓ति गृह्णामि , न᳓ सह᳓स्रम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thee as one I accept, not a thousand;
+</details>
+
+<details><summary>मूलम्</summary>
+
+एका॑न्त्वा भू॒ताम्प्रति॑ गृह्णामि॒ , न स॒हस्र॑म् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एका॑म् । त्वा॒ । भू॒ताम् । प्रतीति॑ । गृ॒ह्णा॒मि॒ । न । स॒हस्र॑म् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्मादेकामेव भूतां त्वां प्रतिगृह्णामि, न सहस्रभूताम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ए᳓का मा भूता᳓ऽऽविश , मा᳓ सह᳓स्रम्" इ᳓ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+come to me as one, not as a thousand';
+</details>
+
+<details><summary>मूलम्</summary>
+
+एका॑ मा भू॒ताऽऽवि॑श॒ , मा स॒हस्र॑म्" इति॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एका॑ । मा॒ । भू॒ता । एति॑ । वि॒श॒ । मा॒ । स॒हस्र॑म् । इति॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्मात्त्वमप्येकैव भूता मामाविश, मा सहस्रभूता ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -335,32 +460,52 @@ verily he who knows thus accepts her as one, not as a thousand.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"स्योना᳓सि सुष᳓दा सुशे᳓वा+++(=सुफला)+++।  
-स्योना᳓ मा᳓ विश, सुष᳓दा मा᳓ विश , सुशे᳓वा मा᳓ विश᳓" +इ᳓त्याह।[31]  
+"स्योना᳓सि सुष᳓दा सुशे᳓वा+++(=सुफला)+++।
 </details>
 
 <details><summary>Keith</summary>
 
-'Thou art gentle, resting well, auspicious; come to me as gentle, well resting, auspicious,' [3] he says;
+'Thou art gentle, resting well, auspicious;
 </details>
 
 <details><summary>मूलम्</summary>
 
-"स्यो॒नासि॑ सु॒षदा॑ सु॒शेवा॑ ।  
-
-स्यो॒ना मा वि॑श, सु॒षदा॒ मा वि॑श , सु॒शेवा॒ मा वि॑श" +इत्या॑ह।[31]  
+"स्यो॒नासि॑ सु॒षदा॑ सु॒शेवा॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-स्यो॒ना । अ॒सि॒ । सु॒षदेति॑ सु-सदा॑ । सु॒शेवेति॑ सु-शेवा॑ ।  
-
-स्यो॒ना । मा॒ । एति॑ । वि॒श॒ । सु॒षदेति॑ सु-सदा॑ । मा॒ । एति॑ । वि॒श॒ । सु॒शेवेति॑ सु-शेवा॑ । मा॒ । एति॑ । वि॒श॒ । इति॑ । आ॒ह॒ ।  
+स्यो॒ना । अ॒सि॒ । सु॒षदेति॑ सु-सदा॑ । सु॒शेवेति॑ सु-शेवा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-स्योना सुखहेतुरस्माकं सुपरिचारा वा त्वमसि । सुषदा सुखेन सादनीया दोहनादाविति । खलि कृदुत्तरपदप्रकृतिस्वरत्वम् । सुशेवा सुफला बहुदुग्धत्वात् । 'आद्युदात्तश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । सा त्वं तादृशी स्योना अविगुणा सती मामाविश यथा मे न कदाचिदपि हिंसा स्यात् तथा मामाविशेति ।
+स्योना सुखहेतुरस्माकं सुपरिचारा वा त्वमसि । सुषदा सुखेन सादनीया दोहनादाविति । खलि कृदुत्तरपदप्रकृतिस्वरत्वम् । सुशेवा सुफला बहुदुग्धत्वात् । 'आद्युदात्तश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्योना᳓ मा᳓ विश, सुष᳓दा मा᳓ विश , सुशे᳓वा मा᳓ विश᳓" इ᳓त्याह । [31]
+</details>
+
+<details><summary>Keith</summary>
+
+come to me as gentle, well resting, auspicious,' [3] he says;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्यो॒ना मा वि॑श, सु॒षदा॒ मा वि॑श , सु॒शेवा॒ मा वि॑श" इत्या॑ह । [31]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्यो॒ना । मा॒ । एति॑ । वि॒श॒ । सु॒षदेति॑ सु-सदा॑ । मा॒ । एति॑ । वि॒श॒ । सु॒शेवेति॑ सु-शेवा॑ । मा॒ । एति॑ । वि॒श॒ । इति॑ । आ॒ह॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सा त्वं तादृशी स्योना अविगुणा सती मामाविश यथा मे न कदाचिदपि हिंसा स्यात् तथा मामाविशेति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
