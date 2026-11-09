@@ -86,9 +86,7 @@ Let Viśvakarman place thee in the ridge of the atmosphere,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्य᳓चस्वतीम्प्र᳓थस्वतीम्भा᳓स्वतीँ सूरिम᳓तीमा᳓ या᳓
-
-द्या᳓म्भा᳓सि᳓ ।
+व्य᳓चस्वतीम्प्र᳓थस्वतीम्भा᳓स्वतीँ सूरिम᳓तीमा᳓ या᳓ द्या᳓म्भा᳓सि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -100,7 +98,7 @@ encompassing, expanding, resplendent, possessing the sun, thee that dost illumin
 
 व्यच॑स्वती॒म्प्रथ॑स्वती॒म्भास्व॑तीँ सूरि॒मती॒मा या
 
-द्याम्भासि ।
+द्याम्भासि॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>

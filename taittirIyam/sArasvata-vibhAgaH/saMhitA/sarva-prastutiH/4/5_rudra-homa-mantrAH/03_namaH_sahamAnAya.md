@@ -469,7 +469,7 @@ Homage to you assemblies, and to you, lords of assemblies, homage!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न᳓मो अ᳓श्‍वेभ्यो᳓ऽश्‍व᳓प᳓ति᳓भ्य᳓श्‍च᳓ वो न᳓मः [ २ ] ।।
+न᳓मो अ᳓श्‍वेभ्योऽश्‍व᳓पतिभ्यश्‍च वो न᳓मः [ २ ] ।।
 </details>
 
 <details><summary>Keith</summary>
@@ -479,7 +479,7 @@ Homage to you horses, and to you, lords of horses, homage!
 
 <details><summary>मूलम्</summary>
 
-नमो॒ अश्‍वे॒भ्योऽश्‍वपतिभ्यश्‍च वो॒ नमः॑ [ २ ] ।।
+नमो॒ अश्‍वे॑भ्यो॒ऽश्‍वप॑तिभ्यश्‍च वो॒ नमः॑ [ २ ] ।।
 </details>
 
 <details><summary>पद-पाठः</summary>

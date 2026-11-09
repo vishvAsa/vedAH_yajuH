@@ -304,7 +304,7 @@ Prajapati being carried forward;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓ग्नि᳓रा᳓ग्नीध्रे +++(असि)+++ ।  
+अग्नि᳓रा᳓ग्नीध्रे +++(असि)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -314,7 +314,7 @@ Agni in the Agnidh's altar;
 
 <details><summary>मूलम्</summary>
 
-अग्निराग्नी॑ध्रे +++(असि)+++ ।  
+अ॒ग्निराग्नी॑ध्रे +++(असि)+++ ।  
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -82,7 +82,7 @@ the shining, the fifteenfold;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्यो᳙म सप्तदशः᳙ ,
+व्यो᳙म सप्तदशः᳓ ,
 </details>
 
 <details><summary>Keith</summary>
@@ -92,7 +92,7 @@ the sky, the seventeenfold;
 
 <details><summary>मूलम्</summary>
 
-व्यो॑म सप्तद॒श॑ः ,
+व्यो॑म सप्तद॒शः ,
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +133,7 @@ speed, the eighteenfold;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-्त᳓पो नवदशः᳙ ,
+त᳓पो नवदशः᳓ ,
 </details>
 
 <details><summary>Keith</summary>
@@ -143,7 +143,7 @@ fervour, the nineteenfold;
 
 <details><summary>मूलम्</summary>
 
-्तपो॑ नवद॒शः॑ ,
+तपो॑ नवद॒शः ,
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +158,7 @@ fervour, the nineteenfold;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓भि᳓वर्त᳓स्सविँशः᳓ ,
+अभिवर्त᳓स्सविँशः᳓ ,
 </details>
 
 <details><summary>Keith</summary>
@@ -168,7 +168,7 @@ attack, the twentyfold;
 
 <details><summary>मूलम्</summary>
 
-अभिव॒र्तस्स॑विँ॒शः ,
+अ॒भि॒व॒र्तस्स॑विँ॒शः ,
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -384,7 +384,7 @@ support, the thirty-threefold;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रध्न᳓स्य विष्ट᳓पं᳓ च᳓तु᳓स्त्रिँशः᳓,
+ब्रध्न᳓स्य विष्ट᳓पं चतुस्त्रिँशः᳓,
 </details>
 
 <details><summary>Keith</summary>
@@ -394,7 +394,7 @@ the surface of the tawny one, the thirty-fourfold;
 
 <details><summary>मूलम्</summary>
 
-ब्र॒ध्नस्य॑ वि॒ष्टपं चतुस्त्रिँ॒शः,
+ब्र॒ध्नस्य॑ वि॒ष्टपं॑ चतुस्त्रिँ॒शः,
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -788,7 +788,7 @@ inspiration, the thirty-onefold;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रध्न᳓स्य विष्ट᳓पं᳓ च᳓तु᳓स्त्रिँशः᳓,
+ब्रध्न᳓स्य विष्ट᳓पं चतुस्त्रिँशः᳓,
 </details>
 
 <details><summary>Keith</summary>
@@ -798,7 +798,7 @@ the surface of the tawny one, the thirty-fourfold;
 
 <details><summary>मूलम्</summary>
 
-ब्र॒ध्नस्य॑ वि॒ष्टपं चतुस्त्रिँ॒शः,
+ब्र॒ध्नस्य॑ वि॒ष्टपं॑ चतुस्त्रिँ॒शः,
 </details>
 
 <details><summary>पद-पाठः</summary>
