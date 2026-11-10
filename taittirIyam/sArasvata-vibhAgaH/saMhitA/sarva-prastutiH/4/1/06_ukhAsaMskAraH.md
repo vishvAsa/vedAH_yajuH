@@ -327,7 +327,7 @@ the goddesses, connected with the All-gods, cook thee on the abode of earth, in 
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
-कल्पः — ‘मित्रैतामुखां पचेति पच्यमानां तिसृभिर्मैत्रीभिरुपचरति’ इति।    
+तत्र प्रथमामाह—  १८०९ मित्रैतामुखामिति ।
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/02_mitraitAm_ukhAm.md">
@@ -361,7 +361,7 @@ O Mitra, cook this pan; may it not break. This I place around thee, to prevent b
 
 <details><summary>सायण-टीका</summary>
 
-तत्र प्रथमामाह—  १८०९ मित्रैतामुखामिति ।   हे मित्र सर्वप्राणिहितकारिन्देव त्वमेतामुखां पचपक्वां कुरु ।  
+हे मित्र सर्वप्राणिहितकारिन्देव त्वमेतामुखां पचपक्वां कुरु ।  
 
 एषां चोखा मा भेदि भिन्ना मा भवतु।  
 

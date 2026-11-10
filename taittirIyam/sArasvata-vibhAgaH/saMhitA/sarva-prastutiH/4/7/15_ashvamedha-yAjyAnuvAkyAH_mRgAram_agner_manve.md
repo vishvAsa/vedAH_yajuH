@@ -68,6 +68,11 @@ Him who hath entered into every concourse do we implore, May he relieve us from 
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+तत्रैव याज्यामाह – यस्येदं प्राणन्निति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/05_yasyedaM_prANan.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -103,7 +108,6 @@ May he relieve us from tribulation.
 
 <details><summary>सायण-टीका</summary>
 
-तत्रैव याज्यामाह – यस्येदं प्राणन्निति।  
 प्राणच्छ्वासोपेतं **निमिषन्** निमेषोपेतं यदिदं जगद् एजति कम्पते चेष्टत इत्यर्थः।  
 तत्सर्वं यस्याग्नेरधीनं जातं पूर्वमुत्पन्नं जनमानमितः परं जनिष्यमाणं च जगत्सर्वं केवलं परनिरपेक्षं सद्यस्याधीनं तमग्निं स्तौगि।  
 नाथितः फलयाञ्चायुक्तोऽहं जोहवीमि पुनः पुनर्जुहोमि ।   शेषं पूर्ववत्।
@@ -161,6 +165,11 @@ He who cometh at the call of the generous doer of good deeds [1], May he relieve
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+तत्रैव याज्यमाह–  २२७४ य संग्राममिति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/11_yaH_sangrAmam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -198,7 +207,7 @@ May he relieve us from tribulation.
 
 <details><summary>सायण-टीका</summary>
 
-तत्रैव याज्यमाह–  २२७४ य संग्राममिति।   य इन्द्रो युधे योद्धुं वशी स्वाधीनपरिवारोफ्ते संग्रामं युद्धदेशं प्रति संनयति स्वकीयां सेनां सम्यक्प्रापयति।   यश्चेन्द्रः पुष्टानि संपूर्णानि त्रयाणि गवाश्वपुरुषरूपाणि संसृजति यजमानेन योजयति।   शेषं पूर्ववत्।
+य इन्द्रो युधे योद्धुं वशी स्वाधीनपरिवारोफ्ते संग्रामं युद्धदेशं प्रति संनयति स्वकीयां सेनां सम्यक्प्रापयति।   यश्चेन्द्रः पुष्टानि संपूर्णानि त्रयाणि गवाश्वपुरुषरूपाणि संसृजति यजमानेन योजयति।   शेषं पूर्ववत्।
 </details>
 </details>
 
@@ -253,6 +262,11 @@ May ye relieve us from sin.
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+तत्रैव याज्यामाह– यो वाँ रथ इति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/17_yo_vAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -290,13 +304,18 @@ May ye relieve us from sin.
 
 <details><summary>सायण-टीका</summary>
 
-तत्रैव याज्यामाह– यो वाँ रथ इति।   हे मित्रावरुणौ वां युवयोर्यो रथ ऋजुरश्मिरकुटिलप्रग्रहः सत्यधर्माऽवितथधारणश्च भवति सरयो मिथुश्चरन्तं मिथ्याचारिणमन्याय कारिणं शत्रुं दूषयन्नुपयाति बाधमान प्राप्नोति।   स्तौमीत्यादि पूर्ववत् ।
+हे मित्रावरुणौ वां युवयोर्यो रथ ऋजुरश्मिरकुटिलप्रग्रहः सत्यधर्माऽवितथधारणश्च भवति सरयो मिथुश्चरन्तं मिथ्याचारिणमन्याय कारिणं शत्रुं दूषयन्नुपयाति बाधमान प्राप्नोति।   स्तौमीत्यादि पूर्ववत् ।
 </details>
 </details>
 
 </div>
 
 ## वायुः, सविता च
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+वायोसावित्र आगोमुग्भ्यां चरुरित्यस्य पुरोनुवाक्यामाह– वायोः सावतुरिति।
+</details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/20_vAyos_savitur.md">
 
@@ -335,11 +354,16 @@ May ye relieve us from sin.
 
 <details><summary>सायण-टीका</summary>
 
-वायोसावित्र आगोमुग्भ्यां चरुरित्यस्य पुरोनुवाक्यामाह– वायोः सावतुरिति।   यो वायुर्यश्च सविता तयोरुभयोर्विदथानि वेदनान्यभिप्रायविशेषान्ममहे जानीमः।   यौ वायुसवितारावात्मन्वत्स्वशरीरमिव विभृत सर्वं जगद्धारयतः किंच यौ वायुसवितारौ रक्षतो जगत्पालयतः।   किंच यौ वायुसवितारौ विश्वस्य कृत्स्नस्य जगतः परिभू परितो व्यापकौ वभूवतुस्तावित्यादि सर्ववत्।
+यो वायुर्यश्च सविता तयोरुभयोर्विदथानि वेदनान्यभिप्रायविशेषान्ममहे जानीमः।   यौ वायुसवितारावात्मन्वत्स्वशरीरमिव विभृत सर्वं जगद्धारयतः किंच यौ वायुसवितारौ रक्षतो जगत्पालयतः।   किंच यौ वायुसवितारौ विश्वस्य कृत्स्नस्य जगतः परिभू परितो व्यापकौ वभूवतुस्तावित्यादि सर्ववत्।
 </details>
 </details>
 
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+तत्रैव याज्यामाह– उप श्रेष्ठा न इति।
+</details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/23_upa_shreShThA.md">
 
@@ -378,7 +402,7 @@ May ye relieve us from sin.
 
 <details><summary>सायण-टीका</summary>
 
-तत्रैव याज्यामाह– उप श्रेष्ठा न इति।   श्रेष्ठाः प्रशस्ता नौऽस्मदीया आशिषः फलविशेषा देवयोर्वायुसवित्रोः संबन्धिनि धर्मे कर्मण्युपास्थिरन्नुपास्थितास्तदधीना इत्यर्थः।   पूतैमीत्यादि पूर्ववत्।
+श्रेष्ठाः प्रशस्ता नौऽस्मदीया आशिषः फलविशेषा देवयोर्वायुसवित्रोः संबन्धिनि धर्मे कर्मण्युपास्थिरन्नुपास्थितास्तदधीना इत्यर्थः।   पूतैमीत्यादि पूर्ववत्।
 </details>
 </details>
 
@@ -433,6 +457,11 @@ Ye [3] whose might among the gods, O gods, is unextinguished, May ye relieve us 
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+तत्रैव याज्यामाह– यदयातं वहतुमिति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/29_yad_ayAtam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -469,7 +498,7 @@ May ye relieve us from sin.
 
 <details><summary>सायण-टीका</summary>
 
-तत्रैव याज्यामाह– यदयातं वहतुमिति।   यद्यस्मात्कारणात्सूर्यायाः सूर्यपत्न्याः स्वमातुः संसदमिच्छमानौ।   सद्भावस्थानमिच्छन्तावश्विनौ युवां त्रिचक्रेण चक्रत्रययुक्तेन रथेन वहतुं वाहयितुप्रयातं रथस्योपरि गतवन्तौ तस्मात्कारणात्तथाविधौ देवौ स्तौनीत्यादि पूर्ववत्।
+यद्यस्मात्कारणात्सूर्यायाः सूर्यपत्न्याः स्वमातुः संसदमिच्छमानौ।   सद्भावस्थानमिच्छन्तावश्विनौ युवां त्रिचक्रेण चक्रत्रययुक्तेन रथेन वहतुं वाहयितुप्रयातं रथस्योपरि गतवन्तौ तस्मात्कारणात्तथाविधौ देवौ स्तौनीत्यादि पूर्ववत्।
 </details>
 </details>
 
@@ -525,6 +554,11 @@ May they relieve us from evil.
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+तत्रैव याज्यामाह– तिग्ममायुधामिति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/35_tigmam_Ayudham.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -562,7 +596,7 @@ May they relieve us from evil.
 
 <details><summary>सायण-टीका</summary>
 
-तत्रैव याज्यामाह– तिग्ममायुधामिति।   मरुदाख्यानां देवानामायुधं तिग्मादिविशेषविशिष्ठं तिग्मं तीक्ष्णं वीडितं दृढम्।   किंच, मरुतां शर्धो बलं सहस्वत्परेषामभिभवितृ दिव्यं यथोचितब्यवहारयोग्यम्।   अत एव पृतनासु परकीयसेनासु जिष्णु जयशीलं, स्तौमीत्यादि पूर्ववत्।
+मरुदाख्यानां देवानामायुधं तिग्मादिविशेषविशिष्ठं तिग्मं तीक्ष्णं वीडितं दृढम्।   किंच, मरुतां शर्धो बलं सहस्वत्परेषामभिभवितृ दिव्यं यथोचितब्यवहारयोग्यम्।   अत एव पृतनासु परकीयसेनासु जिष्णु जयशीलं, स्तौमीत्यादि पूर्ववत्।
 </details>
 </details>
 
@@ -618,6 +652,11 @@ That they may relieve us from evil.
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+तत्रैव याज्यामाह– यदिदं मेति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/41_yad_idam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -656,7 +695,7 @@ May they free us from evil.
 
 <details><summary>सायण-टीका</summary>
 
-तत्रैव याज्यामाह– यदिदं मेति।   पौरुषेयेण मनुष्यव्यापारेण दैव्येन देवव्यापारेण च संपादितं यदिदं दुःखं माऽभिशोचति, अभितो मां क्लेशयति।   तस्य दुःखस्यापनो दनार्थं स्तौमीत्यादि पूर्ववत्।
+पौरुषेयेण मनुष्यव्यापारेण दैव्येन देवव्यापारेण च संपादितं यदिदं दुःखं माऽभिशोचति, अभितो मां क्लेशयति।   तस्य दुःखस्यापनो दनार्थं स्तौमीत्यादि पूर्ववत्।
 </details>
 </details>
 

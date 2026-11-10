@@ -358,7 +358,7 @@ from the Tristubh the Aida (Saman); from the Aida the Antaryama (cup); from the 
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
-अथ पश्र्विमायां दिश्मुपधेयानामिष्टकानां मन्त्रमाह— अयं पश्चाद्विश्वेति विश्वं सर्वं जगद्व्यचति व्याप्नोतीति विश्वव्यचाः प्रजापतिः।
+अथ पश्र्विमायां दिश्मुपधेयानामिष्टकानां मन्त्रमाह— अयं पश्चाद्विश्वेति।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -387,7 +387,7 @@ This one behind, the all-extending; his, the all-extending's, eye; the rains bor
 
 <details><summary>सायण-टीका</summary>
 
-शेषं पूर्ववद्योजनीयम्।
+विश्वं सर्वं जगद्व्यचति व्याप्नोतीति विश्वव्यचाः प्रजापतिः। शेषं पूर्ववद्योजनीयम्।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

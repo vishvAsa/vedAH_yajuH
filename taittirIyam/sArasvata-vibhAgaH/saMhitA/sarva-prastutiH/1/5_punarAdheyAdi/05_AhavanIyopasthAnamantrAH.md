@@ -1192,6 +1192,11 @@ Errichtet wurde dieser von den Ordnern hier, der beste Opfrer, bei den Festen pr
 
 </div>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+5उभा वामिति पञ्चमी - प्रथमे प्रश्ने पठिता व्याख्याता च ॥
+</details>
+
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/060/13_ubhA_vAmindrAgnI.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -1559,11 +1564,6 @@ Euch beide, o Indra-Agni, will ich herbeirufen, euch beide zugleich mit Gaben er
 </details>
 
 </div>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-5उभा वामिति पञ्चमी - प्रथमे प्रश्ने पठिता व्याख्याता च ॥
-</details>
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -3178,6 +3178,11 @@ O Agni, whatever is deficient in my body, do thou make that good for me.
 हे अग्ने ऊनं विकलीभूतं छिन्नं भिन्नं ॥ यन्मे तनुवाः तन्वा ऊनं तन्मे त्वां भजमानस्य आपृण आपूरय । यद्वा - यन्मे तन्वाः तनुस्थानीयानां प्रजानां पशूनां ऊनं तदापूरय । पृण प्रीणने अत्रापूरणे वर्तते । तन्वादीनां छन्दसि बहुलम्' इत्युवङादेशः ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+14रात्रिमुपतिष्ठते - चित्रावसो इति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चि᳓त्रावसो +++(→रात्रे)+++! स्वस्ति᳓ ते पार᳓म् अशीय᳓ ।
@@ -3200,7 +3205,7 @@ O thou of various splendour, in safety may I reach the end of thee.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-14रात्रिमुपतिष्ठते - चित्रावसो इति ॥ चित्राः नानारूःपाः चायनीया वा । वसवो वसून्यावसनानि वस्तारो वा यस्यां सा चित्रावसुः रात्रिः । सांहितिकं दीर्घत्वम् । त्वयि वसन्ति सर्वेपि सुखेन अतोहम्पि ते तव पारं समाप्तिं व्युष्टिं स्वस्ति अविनाशेन सुखेन अशीय प्राप्नुयां त्वत्प्रमोदेन । अश्नोतेर्लिङि शपो लुक् ॥
+चित्राः नानारूःपाः चायनीया वा । वसवो वसून्यावसनानि वस्तारो वा यस्यां सा चित्रावसुः रात्रिः । सांहितिकं दीर्घत्वम् । त्वयि वसन्ति सर्वेपि सुखेन अतोहम्पि ते तव पारं समाप्तिं व्युष्टिं स्वस्ति अविनाशेन सुखेन अशीय प्राप्नुयां त्वत्प्रमोदेन । अश्नोतेर्लिङि शपो लुक् ॥
 </details>
 
 ___________

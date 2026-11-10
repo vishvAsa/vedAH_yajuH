@@ -269,6 +269,11 @@ Sanaga the Rsi;
 ऋषीणां मध्ये यः सानगाख्य ऋषिस्तद्रूपा त्वमसि।  
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ दक्षिणस्यां दिश्युपधेयानां मन्त्रमाह— दक्षिणा दिशामिति।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓क्षिणा᳓ दिशा᳓म्  +++( असि)+++ ।  
@@ -303,11 +308,6 @@ The south of the quarters; the summer of the seasons; Indra the deity; the kingl
 <details><summary>पद-पाठः</summary>
 
 द॒क्षि॒णा । दि॒शाम् । ग्री॒ष्मः । ऋ॒तू॒नाम् । इन्द्रः॑ । दे॒वता॑ । क्ष॒त्रम् । द्रवि॑णम् । प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः । स्तोमः॑ ।
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-अथ दक्षिणस्यां दिश्युपधेयानां मन्त्रमाह— दक्षिणा दिशामिति।   
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -398,6 +398,11 @@ the Treta of throws; the south wind the wind; Sanatana the Rsi;
 शेषं पूर्ववत् ।   
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+प्रतीच्यां दिश्युपधेयानामिष्टकानां मन्त्रमाह— प्रतीची दिशामिति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रती᳓ची दिशा᳓म् +++( असि)+++ ।  
@@ -430,11 +435,6 @@ The west of the quarters; the rains of the seasons; the All-gods the deity; the 
 <details><summary>पद-पाठः</summary>
 
 प्र॒तीची॑ । दि॒शाम् । व॒र्षाः । ऋ॒तू॒नाम् । विश्वे॑ । दे॒वाः । दे॒वता॑ । विट् । द्रवि॑णम् । स॒प्त॒द॒श इति॑ सप्त-द॒शः । स्तोमः॑ । सः । उ॒ । ए॒क॒विँ॒शव॑र्तनि॒रित्ये॑कविँ॒श-व॒र्त॒निः॒ ।
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-प्रतीच्यां दिश्युपधेयानामिष्टकानां मन्त्रमाह— प्रतीची दिशामिति ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -538,6 +538,11 @@ Ahabhuna the Rsi;
 अहभून इति कस्यचिदृषेर्नामधेयम् ।  
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+उदीच्यां दिश्युपधेयानामिष्टकानां मन्त्रमाह— उदीची दिशामिति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓दीची दिश᳓म्  +++( असि)+++ ।  
@@ -562,11 +567,6 @@ The north of the quarters; the autumn of the seasons; Mitra and Varuna the deity
 <details><summary>पद-पाठः</summary>
 
 उदी॑ची । दि॒शाम् । श॒रत् । ऋ॒तू॒नाम् । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । दे॒वता॑ ।
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-उदीच्यां दिश्युपधेयानामिष्टकानां मन्त्रमाह— उदीची दिशामिति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -678,6 +678,11 @@ the north wind the wind; Pratna the Rsi;
 प्रत्न इति कस्यचिदृषेर्नाम् ।  
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+मध्यदेश उपधेयानामिष्टकानां मन्त्रमाह— ऊर्ध्वा दिशामिति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्ध्वा᳓ दिशा᳓म् +++( असि)+++ ।  
@@ -704,11 +709,6 @@ The zenith of the quarters; the winter and the cool season of the seasons; Brhas
 <details><summary>पद-पाठः</summary>
 
 ऊ॒र्ध्वा । दि॒शाम् । हे॒म॒न्त॒शि॒शि॒राविति॑ हेमन्त-शि॒शि॒रौ । ऋ॒तू॒नाम् । बृह॒स्पतिः॑ । दे॒वता॑ ।
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-मध्यदेश उपधेयानामिष्टकानां मन्त्रमाह— ऊर्ध्वा दिशामिति ।   
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -845,6 +845,11 @@ Suparna the Rsi;
 सुपर्ण इति कस्यचिट्टषेर्नामधेयम् ।  
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सर्वेष्वेतेषु पञ्चसु मन्त्रेष्वनुषञ्जनीयं शेषमाह— पितर पितामहा इति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पित᳓रᳶ पितामहाᳶ᳓ प᳓रे᳓ऽवरे ते᳓ नᳶ पान्तु ।   
@@ -867,7 +872,6 @@ Fathers, grandfathers, near and far, may they protect us,
 
 <details><summary>सायण-टीका</summary>
 
-सर्वेष्वेतेषु पञ्चसु मन्त्रेष्वनुषञ्जनीयं शेषमाह— पितर पितामहा इति ।  
 हे पितरो हे पितामहा हे परे प्रपितामहादयो हऽवरे भ्रातृपुत्रादय ईदृशा ये भवन्तः सन्ति ते भवन्तो नोऽस्मान्कर्मानुष्ठानाय पान्तु पालयन्तु ।   
 </details>
 

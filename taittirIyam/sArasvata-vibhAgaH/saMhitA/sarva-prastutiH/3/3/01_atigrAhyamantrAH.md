@@ -154,6 +154,11 @@ may brilliance forsake me not,
 त्वंर्त्संबन्धात् मां तेजो मा हासीत् मा त्याक्षीत् । जहातेः लुङि 'यमरमनमातां सक्च' इति सगिटौ ।
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+इदानीं तद्-अहानं द्वेधा प्रार्थयते - माऽहमिति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓ऽह᳓न्ते᳓जो हासिषम् ।  
@@ -178,7 +183,7 @@ may I forsake not brilliance, may brilliance forsake me not.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-इदानीं तद्-अहानं द्वेधा प्रार्थयते - माऽहमिति । तेजः तेजोविषया जिहासा मम मा भूत्, तेजसोपि मद्विषया जिहासा मा भूदिति ॥
+तेजः तेजोविषया जिहासा मम मा भूत्, तेजसोपि मद्विषया जिहासा मा भूदिति ॥
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -218,6 +223,11 @@ O Indra, full of force, be thou full of force among the gods, make me full of fo
 ओजो बलम् । गतमन्यत् ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+5जुहोति - ब्रह्मण इति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणश् च त्वा क्षत्र᳓स्य चौ᳓जसे जुहोमि ।  
@@ -240,7 +250,7 @@ for the force of the Brahmanhood and royalty [1] do I offer to thee.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-5जुहोति - ब्रह्मण इति ॥ ब्रह्मभिः क्षत्रैश्च यदोज उतद्यते तन्मे भूयादिति त्वां जुहोमि ॥
+ब्रह्मभिः क्षत्रैश्च यदोज उतद्यते तन्मे भूयादिति त्वां जुहोमि ॥
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>

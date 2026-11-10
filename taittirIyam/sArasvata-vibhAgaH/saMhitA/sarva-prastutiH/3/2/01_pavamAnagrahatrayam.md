@@ -47,6 +47,11 @@ He who sacrifices knowing the 'ascent' verses of the Pavamana (Stotras) mounts o
 He who, knowing the ascents of the Pavamāna [Soma-chants], sacrifices, ascends after the Pavamāna-s; he is not severed from the Pavamāna-s."
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+के पुनरन्वारोहा इत्यत आह - श्येनोसीति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्येनो᳙ऽसि गायत्र᳓छन्दाः ।
@@ -69,7 +74,7 @@ He who, knowing the ascents of the Pavamāna [Soma-chants], sacrifices, ascends 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-के पुनरन्वारोहा इत्यत आह - श्येनोसीति । तत्र बहिष्पवमाने पञ्चम्यां स्तोत्रियायां प्रस्तुतायां वाचयति । श्येनः पक्षिविशेषः । स शयनीयः शीघ्रगतिः । स एव त्वमसि । गायत्रछन्दाः गायत्रछन्दस्कः । गायत्र्येव गायत्रम्, 'छन्दसः प्रत्ययविधाने नपुंसके स्वार्थ उपसंख्यानम्' इत्यण् ।
+तत्र बहिष्पवमाने पञ्चम्यां स्तोत्रियायां प्रस्तुतायां वाचयति । श्येनः पक्षिविशेषः । स शयनीयः शीघ्रगतिः । स एव त्वमसि । गायत्रछन्दाः गायत्रछन्दस्कः । गायत्र्येव गायत्रम्, 'छन्दसः प्रत्ययविधाने नपुंसके स्वार्थ उपसंख्यानम्' इत्यण् ।
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -137,6 +142,11 @@ bring me over in safety.
 Safely carry me across to the completion!
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+2अथ माध्यन्दिने पवमाने अष्टम्यां स्तोत्रियायां प्रस्तुतायां वाचयति - सुपर्णोसीति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुपर्णो᳙ऽसि  त्रिष्टु᳓प् छन्दाः ।
@@ -159,7 +169,7 @@ Thou art the eagle, with the Tristubh for thy metre;
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-2अथ माध्यन्दिने पवमाने अष्टम्यां स्तोत्रियायां प्रस्तुतायां वाचयति - सुपर्णोसीति ॥ सुपर्णः श्येनः वृद्धतरः शोभनपतनः । स एव त्वमसि । त्रिष्टुप्छन्दाः । गतमन्यत् ॥
+सुपर्णः श्येनः वृद्धतरः शोभनपतनः । स एव त्वमसि । त्रिष्टुप्छन्दाः । गतमन्यत् ॥
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -207,6 +217,11 @@ bring me over in safety.
 स्व॒स्ति । मा॒ । समिति॑ । पा॒र॒य॒ ।
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+3अथार्भवे पवमाने नवम्यां प्रस्तुतायां वाचयति - सघाऽसीति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓घा ऽसि ज᳓गतीछन्दाः ।
@@ -229,7 +244,7 @@ Thou art the vulture, with the Jagati for thy metre;
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-3अथार्भवे पवमाने नवम्यां प्रस्तुतायां वाचयति - सघाऽसीति ॥ गृध्रो वा भासो वा सुपर्णादपि वृद्धतरः । स एव त्वमसि । जगतीछन्दाः । समानमन्यत् ।
+गृध्रो वा भासो वा सुपर्णादपि वृद्धतरः । स एव त्वमसि । जगतीछन्दाः । समानमन्यत् ।
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -477,6 +492,11 @@ The Pavamana cups are drawn off, but these are not drawn off by him, the wooden 
 तर्हि कस्य ते गृह्यन्तामित्यत आह - अथेति । एते खलु पवमानस्य ग्रहास्स्युः अस्य पवमानस्य सम्बन्धितया गृहीता एव ग्रहा भवन्ति । के पुनस्ते इत्यत आह - द्रोणकलश इत्यादि ।
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+तर्हि ते मा ग्राहिषतेत्यत आह - तान्यदित्यादि ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न्य᳓द᳓गृहीत्वोपाकुर्या᳓त् ।  
@@ -503,7 +523,12 @@ If he were to begin (the Stotra) without drawing them off, he would split the Pa
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तर्हि ते मा ग्राहिषतेत्यत आह - तान्यदित्यादि । यद्येवं का गतिः, यदि गृह्यन्ते पवमानग्रहास्स्युः, यदि न गृह्यन्ते पवमानो विच्छिद्येत । नहि भवन्ति गृह्यन्ते न गृह्यन्ते चेति ।
+यद्येवं का गतिः, यदि गृह्यन्ते पवमानग्रहास्स्युः, यदि न गृह्यन्ते पवमानो विच्छिद्येत । नहि भवन्ति गृह्यन्ते न गृह्यन्ते चेति ।
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+तत्राह - उपयामगृहीतोसि प्रजापतये त्वेत्यादि ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -528,7 +553,7 @@ If he were to begin (the Stotra) without drawing them off, he would split the Pa
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तत्राह - उपयामगृहीतोसि प्रजापतये त्वेत्यादि । इयं वा उपयामः तयैव गृहीतस्त्वमसीति व्याख्यातम् ।
+इयं वा उपयामः तयैव गृहीतस्त्वमसीति व्याख्यातम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

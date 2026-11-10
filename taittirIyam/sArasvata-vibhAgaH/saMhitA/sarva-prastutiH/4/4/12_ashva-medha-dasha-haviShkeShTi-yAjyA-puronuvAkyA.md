@@ -176,6 +176,11 @@ And for us [1] on all sides do thou preserve this great kingly power.
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+तत्रैव याज्यामाह बृहत्सामेति बृहदाख्यं यत्साम तत्त्रिष्टुभा छन्दसा सह पिपर्त्वित्यनुवर्तते।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -213,7 +218,7 @@ Do thou guard this in the midst with the wind, with the ocean.
 
 <details><summary>सायण-टीका</summary>
 
-तत्रैव याज्यामाह बृहत्सामेति बृहदाख्यं यत्साम तत्त्रिष्टुभा छन्दसा सह पिपर्त्वित्यनुवर्तते।   अस्मान्पालयत्वित्यर्थः।   कीदृशं साम, क्षत्त्रभृब्दलस्य धारयितृ, वृद्धिवृष्णि यमुत्थितपुस्कम्, ओजो बलप्रदं, शुभितं शोभमानम्, उग्रवीरं तीव्रपुत्रप्रदम्।   हे  इन्द्र पञ्चदशाख्येन स्तोमेन सगराख्येन वातेन सहितः सन्निदं मध्यं रक्षातीतानागतयोर्मध्ये स्थितमिदमस्मदीयं शरीरं पालय।
+अस्मान्पालयत्वित्यर्थः।   कीदृशं साम, क्षत्त्रभृब्दलस्य धारयितृ, वृद्धिवृष्णि यमुत्थितपुस्कम्, ओजो बलप्रदं, शुभितं शोभमानम्, उग्रवीरं तीव्रपुत्रप्रदम्।   हे  इन्द्र पञ्चदशाख्येन स्तोमेन सगराख्येन वातेन सहितः सन्निदं मध्यं रक्षातीतानागतयोर्मध्ये स्थितमिदमस्मदीयं शरीरं पालय।
 </details>
 </details>
 

@@ -94,6 +94,11 @@ Do thou mount the dread (quarter); let the Tristubh of metres help thee, the Pa�
 
 </div>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+3प्रतीचीं - विराजमिति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरा᳓जम् +++(←राज्, दिशम्)+++ **आ᳓ तिष्ठ**  
@@ -119,7 +124,7 @@ Do thou mount the shining (quarter); let the Jagati of metres help thee, the Sap
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-3प्रतीचीं - विराजमिति ॥ जगती विराट् उपर्युपरि शान्ता भवतीति । अष्टाचत्वारिंशदक्षरा जगती । सप्तदशस्स्तोमः सप्तदशस्तोत्रीयः । वैरूपाख्यं साम । मरुतो देवता । विट् वैश्याः ॥
+जगती विराट् उपर्युपरि शान्ता भवतीति । अष्टाचत्वारिंशदक्षरा जगती । सप्तदशस्स्तोमः सप्तदशस्तोत्रीयः । वैरूपाख्यं साम । मरुतो देवता । विट् वैश्याः ॥
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>

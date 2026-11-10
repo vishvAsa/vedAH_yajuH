@@ -13,8 +13,7 @@ title = "११ स॒हस्रा॑णि सहस्र॒शो"
 दशमेऽनुवाक ऋग्रूपाः केचिन्मन्त्रा उक्ताः ।  
 
 अथैकादशे शिष्टा ऋचः शिष्ठानि यजूषि चोच्यन्ते।  
-तत्राऽऽदौ दशसंख्याका ऋचः।  
-
+तत्राऽऽदौ दशसंख्याका ऋचः। तासु प्रथमामाह– सहस्राणीनि।
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/02_sahasrANi_sahasrasho.md">
@@ -54,7 +53,6 @@ At a thousand leagues.
 
 <details><summary>सायण-टीका</summary>
 
-तासु प्रथमामाह– सहस्राणीनि।  
 भूम्याम् अधि भूमेरुपरि मे रुद्राः सहस्रशः सहस्रप्रकाराः  सहस्राणि सहस्रसंख्याकाः सन्ति।  
 सहस्रश इति जात्युक्तिः।  
 विनायकप्रथम (मथ) शैलादयो जातिभेदाः, ते सर्वेऽपि रुद्रविशेषाः।  

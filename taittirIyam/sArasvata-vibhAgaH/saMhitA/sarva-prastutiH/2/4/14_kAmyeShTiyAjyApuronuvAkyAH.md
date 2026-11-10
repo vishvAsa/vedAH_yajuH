@@ -1958,7 +1958,7 @@ Wenn, Indra, hundert Himmel dir und hundert Erden wären auch, So fassten tausen
 
 </div>
 
-<details><summary>सायणोक्त-विनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 9अथ तृतीयस्य याज्या, चतुर्थस्य 'इन्द्राय वैराजाय' इत्यस्य पुरोनुवाक्या - पिबा सोममिति विराट् त्रिपदा ॥ 
 </details>

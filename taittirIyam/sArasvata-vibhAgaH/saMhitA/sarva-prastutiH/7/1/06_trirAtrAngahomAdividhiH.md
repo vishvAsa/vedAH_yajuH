@@ -11,11 +11,6 @@ title = "०६ त्रिरात्राङ्गहोमादिवि�
 
 ## सहस्रतमीस्तुतिः
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-1इदानीं प्रकारान्तरेण सहस्रतमी स्तूयते - सोमो वा इत्यादि ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मो वै᳓ +++(गवां)+++ सह᳓स्रम् अविन्दत् ।  
@@ -38,6 +33,7 @@ Soma found a thousand;
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
+1इदानीं प्रकारान्तरेण सहस्रतमी स्तूयते - सोमो वा इत्यादि ॥
 सोमो गवां सहस्रमलभत ।
 </details>
 
@@ -472,11 +468,6 @@ He who knowing thus gives a red draught animal with good characteristics, destro
 
 ## अनुस्तरण-गो-निर्देशः
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-5पुनरपि प्रावेशयन् यमायेति ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓म् अप्सु᳓ प्रा᳓वेशयन् - यम᳓योदे᳓ही᳓ति ।
@@ -519,6 +510,7 @@ She came out in the shape of an aged, stupid, utterly bad animal, together with 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
+5पुनरपि प्रावेशयन् यमायेति ॥
 जरती वृद्धा । जीर्यतेरतृन् ।
 
 मूर्खा रोषणशीला ।
@@ -636,11 +628,6 @@ Therefore [4] a boon must be given;
 सहस्रदक्षिणेऽमुष्मिन् सहस्रं दत्तं भवतीति भावः ।
 </details>
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-कः पुनस्स द्रव्यविशेष इत्याह - सा हीति ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ हि᳓ व᳓रः। +++(तद्दानेन)+++ +++(गो)+++सह᳓स्रम् अस्य सा᳓ दत्ता᳓ भवति ।  
@@ -664,6 +651,7 @@ for she is a boon, and when she is given she is a thousand.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
+कः पुनस्स द्रव्यविशेष इत्याह - सा हीति ।
 एषा खलु सहस्रतमी उत्कृष्टो द्रव्यविशेषः, सर्वस्माद्गोसहस्राद्वागात्मकत्वात् । तस्मात्सैवैका दत्ता अस्य दातुस्सहस्रं भवति ।
 </details>
 
@@ -692,11 +680,6 @@ Therefore one must not accept a boon;
 तस्मादेव हेतोर्वरो विशिष्टो द्रव्यविशेषः सहस्रतम्यादिः न प्रतिगृह्यः न प्रतिगृहीतव्यः । 'प्रत्यपिभ्यां ग्रहेः' इति क्यप् ।
 </details>
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-हेतुमाह - सा हीति ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ हि᳓ व᳓रः ।
@@ -719,6 +702,7 @@ for she is a boon;
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
+हेतुमाह - सा हीति ।
 सा खलु सहस्रतमी विशिष्टद्रव्यात्मिका, तामेव चायं ददाति ।
 </details>
 
@@ -749,11 +733,6 @@ verily he would be accepting a thousand.
 
 ## वरदानप्रक्रिया
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-7समाधत्ते - इयं वर इति ॥ 
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इयव्ँ᳓ व᳓र" इ᳓ति +++(प्रतिग्राहयिता)+++ ब्रूया᳓द् ।  
@@ -776,6 +755,7 @@ Let him say, 'She is a boon',
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
+7समाधत्ते - इयं वर इति ॥
 'इयं वरः' इति सहस्रतमीं प्रतिग्राहयिता ब्रूयात् ।
 </details>
 

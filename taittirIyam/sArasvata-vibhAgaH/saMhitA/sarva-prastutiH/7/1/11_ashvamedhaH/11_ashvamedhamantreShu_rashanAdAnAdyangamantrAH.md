@@ -76,6 +76,11 @@ I take thee with the arms of the Aśvins, with the hands of Pusan.
 एति॑ । द॒दे॒ ।
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+2आदायाभिमन्त्रयते - इमामिति त्रिष्टुभा ॥
+</details>
+
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/02_imAmagRbhNan_rashanAmRtasya.md">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -112,8 +117,6 @@ In the Saman of order declaring the stream.
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
-
-2आदायाभिमन्त्रयते - इमामिति त्रिष्टुभा ॥ 
 
 इयमपि अग्निकाण्डे व्याख्याता ।
 ऋतस्य यज्ञस्य रशानां बन्धनीयां पूर्वे कव्याः कवयः । यद्वा - कवनीयेषु स्तोतव्येषु विदथेषु यज्ञेषु आयुरर्थमगृह्णन् गृहीतवन्तः ।
@@ -308,6 +311,11 @@ thou art the restrainer who dost restrain;
 अथ द्वितीयस्यामपि पृथिव्यां अन्तरिक्षे यन्ता नियन्ता ग्रहनक्षत्रादीनां च त्वमेवासि । यमनः यमसाधनभूतश्चासि ।
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथ तृतीयस्यामपि पृथिव्यां दिवि धर्ता धारयिता देवानां त्वमेवासि । धरुणो धारणशीलश्च त्वमेवासि । औणादिक उनप्रत्ययः । पृथिवीशब्दस्त्रिष्वपि लोकेषु वर्तते यथा - 'यो द्वितीयस्यां तृतीयस्यां पृथिव्याम्' इति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्ता᳓सि धरु᳓णः ॥
@@ -328,15 +336,10 @@ thou art the supporter who dost support.
 ध॒र्ता । अ॒सि॒ । ध॒रुणः॑ ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-अथ तृतीयस्यामपि पृथिव्यां दिवि धर्ता धारयिता देवानां त्वमेवासि । धरुणो धारणशीलश्च त्वमेवासि । औणादिक उनप्रत्ययः । पृथिवीशब्दस्त्रिष्वपि लोकेषु वर्तते यथा - 'यो द्वितीयस्यां तृतीयस्यां पृथिव्याम्' इति ॥
-</details>
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-अथैनम् अभिप्रोक्षणेन प्रोक्षति।
+4अथैनमभिप्रोक्षणेन प्रोक्षति - कृष्यै त्वेत्यादि ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -360,8 +363,6 @@ For ploughing thee!
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
-
-4अथैनमभिप्रोक्षणेन प्रोक्षति - कृष्यै त्वेत्यादि ॥
 
 कृष्याद्यर्थं त्वां प्रोक्षामीति ।
 

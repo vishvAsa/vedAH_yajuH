@@ -375,6 +375,11 @@ And grant us protection in abundance.
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथाष्टमीमाह— स्तुहि श्रुतमिति हे मदीयंवचः श्रुतं प्रसिद्धं रुद्रं स्तुहि।
+</details>
+
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/033/11_stuhi_shrutaM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -626,7 +631,6 @@ _________
 
 <details><summary>सायण-टीका</summary>
 
-अथाष्टमीमाह— स्तुहि श्रुतमिति हे मदीयंवचः श्रुतं प्रसिद्धं रुद्रं स्तुहि।  
 कीदृशम् गर्तसदं गर्तसदृशे हृदयपुण्डरीके सर्वदा तिष्ठन्तम्।  
 ‘ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति’ इति स्मृतेः।  
 युवानं नित्यतरुणम्।  
@@ -787,6 +791,11 @@ O bounteous one, be merciful to our children and descendants.
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ दशमीमाह– मीढुष्ठमेति।
+</details>
+
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/16/51_mIDhuShTama_shivatama.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -824,7 +833,6 @@ O bounteous one, be merciful to our children and descendants.
 
 <details><summary>सायण-टीका</summary>
 
-अथ दशमीमाह– मीढुष्ठमेति।  
 मे मीढुष्ठमातिशयेन सेचक कामानामभिवर्षक, हे शिवतमातिशयेन शान्तस्वरूप नोऽस्मान्प्रति शिवः शान्तः सुमनाः सौमनस्येन स्नेहेन युक्तश्च भव।  
 आयुधं त्रिशुलादिकं परमेऽत्युन्नते वृक्षे वटाश्वत्थादिरूपे निधाय  
 २१३८ यथाऽस्माभिर्न दृश्यते तथाऽवस्थाप्य कृत्तिं वसानो व्याघ्रचर्ममात्रं परिदधान आचरास्मदाभिमुख्येनाऽऽगच्छ।  
