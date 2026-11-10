@@ -58,7 +58,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-सर॑स्वत्या वा॒चा द्वि॒तीये॑ +++(प्रायुङ्क्त)+++।
+सर॑स्वत्या वा॒चा द्वि॒तीये॑।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -73,7 +73,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-स॒वि॒त्रा प्र॑स॒वेन॑ तृ॒तीये॑ +++(प्रायुङ्क्त)+++।।
+स॒वि॒त्रा प्र॑स॒वेन॑ तृ॒तीये॑।।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -88,7 +88,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-पू॒ष्णा प॒शुभि॑श्चतु॒र्थे +++(प्रायुङ्क्त)+++।।
+पू॒ष्णा प॒शुभि॑श्चतु॒र्थे।।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -103,7 +103,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-बृह॒स्पति॑ना॒ ब्रह्म॑णा पञ्च॒मे +++(प्रायुङ्क्त)+++।।
+बृह॒स्पति॑ना॒ ब्रह्म॑णा पञ्च॒मे।।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -118,7 +118,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-इन्द्रे॑ण दे॒वेन॑ ष॒ष्ठे ।+++(प्रायुङ्क्त)+++।
+इन्द्रे॑ण दे॒वेन॑ ष॒ष्ठे ।।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -133,7 +133,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-वरु॑णेन॒ स्वया॑ दे॒वत॑या सप्त॒मे +++(प्रायुङ्क्त)+++।॥1॥  
+वरु॑णेन॒ स्वया॑ दे॒वत॑या सप्त॒मे।॥1॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -148,7 +148,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-सोमे॑न॒ राज्ञा॑ऽष्ट॒मे +++(प्रायुङ्क्त)+++।।
+सोमे॑न॒ राज्ञा॑ऽष्ट॒मे।।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -163,7 +163,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-त्वष्ट्रा॑ रू॒पेण॑ नव॒मे +++(प्रायुङ्क्त)+++।।
+त्वष्ट्रा॑ रू॒पेण॑ नव॒मे।।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -186,12 +186,6 @@ unicode_script: devanagari
 ततो देवादिमत्तया विष्णुना हेतुना विष्ण्वाप्मना वा यज्ञेन अत्मीयमिन्द्रियं वीर्यं च आप्नोत् ।
 </details>
 
-<details><summary>मूलम्</summary>
-
-यत्सँ॒सृपो॒ भव॑न्ति ।
-इ॒न्द्रि॒यमे॒व तद्वी॒र्यय्ँ॑यज॑मान आप्नोति ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्सँसृ᳓पो भ᳓वन्तीन्द्रिय᳓मेव᳓ त᳓द्वीर्यय्ँ᳙य᳓जमान आप्नोति ।
@@ -199,18 +193,13 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यत्सँ॒सृपो॒ भव॑न्तीन्द्रि॒यमे॒व तद्वी॒र्यय्ँ॑यज॑मान आप्नोति ।
+यत्सँ॒सृपो॒ भव॑न्ति ।
+इ॒न्द्रि॒यमे॒व तद्वी॒र्यय्ँ॑यज॑मान आप्नोति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यदित्यादि । गतम् ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
-पूर्वा॑पूर्वा॒ वेदि॑र्भवति ।
-इ॒न्द्रि॒यस्य॑ वी॒र्य॑स्याव॑रुद्ध्यै ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -220,7 +209,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-पूर्वा॑पूर्वा॒ वेदि॑र्भवती॒न्द्रि॒यस्य॑ वी॒र्य॑स्याव॑रुद्ध्यै ।
+पूर्वा॑पूर्वा॒ वेदि॑र्भवति ।
+इ॒न्द्रि॒यस्य॑ वी॒र्य॑स्याव॑रुद्ध्यै ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -260,7 +250,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-उ॒परि॑ष्टाद्वैष्ण॒वेन॑ +++(प्रचरति)+++।
+उ॒परि॑ष्टाद्वैष्ण॒वेन॑।
 य॒ज्ञो वै विष्णुः॑ ।
 य॒ज्ञ ए॒वान्त॒तᳶ प्रति॑ तिष्ठति ॥2 ।।
 </details>

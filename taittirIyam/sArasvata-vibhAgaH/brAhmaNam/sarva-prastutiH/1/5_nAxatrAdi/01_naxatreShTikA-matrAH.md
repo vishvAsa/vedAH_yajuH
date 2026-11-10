@@ -196,12 +196,6 @@ unicode_script: devanagari
 12 इन्द्रस्य चित्रा चायनीयशक्तिः इन्द्र ईश्वरः यतः चित्रा चायनीयशक्तिः पूजनीयान् कुर्वतः पूजायां त्रयं भवति परस्तात् ऋतं मनसा अमोघत्वम् । मध्ये कालात्मा चायनीयशक्तिः । अवस्तात् सत्यं वाचिकं यो वाचः फलाविसंवादः । एतत्त्रयसंपत्तौ कर्ता पूजामधिगच्छति ॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-वा॒योर्निष्ट्या॑ व्र॒ततिः॑ ।
-प॒रस्ता॒दसि॑द्धिर॒वस्ता॑त् ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायो᳓र् नि᳓ष्ट्या । व्रत᳓तिᳶ᳓ पर᳓स्ताद्, अ᳓सिद्धिर् अव᳓स्तात् ।
@@ -209,7 +203,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-वा॒योर् निष्ट्या॑ । व्र॒ततिᳶ प॒रस्ता॑द्, असि॑द्धिर् अ॒वस्ता॑त् ।
+वा॒योर्निष्ट्या॑ व्र॒ततिः॑ ।
+प॒रस्ता॒दसि॑द्धिर॒वस्ता॑त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -438,6 +433,11 @@ unicode_script: devanagari
 पू॒र्णा प॒श्चाद् ..
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+29पौर्णमास्याः - पूर्णा पश्चादिति ॥
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
@@ -470,7 +470,7 @@ _________________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-29पौर्णमास्याः - पूर्णा पश्चादिति ॥ व्याख्याता पञ्चमाद्ये ॥
+व्याख्याता पञ्चमाद्ये ॥
 </details>
 
 </div>

@@ -11,7 +11,6 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-+++(अ॒सौ ह्या॑दि॒त्यो॑ऽग्निहो॒त्रम् ॥49 ॥ अयं मन्त्रभागः पूर्वसञ्चिकातः अध्याहृतः ।  अस्य अत्रान्वयः अस्तिवेति सन्देहः )+++
 बृह॒स्पते॒रुन्नी॑तम् ।
 </details>
 
@@ -106,7 +105,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-पौ॒ष्णमुद॑न्तम् +++(अत्र मूले वा भाष्ये वा पूर्वापरीकारः सम्भाव्यते  )+++।
+पौ॒ष्णमुद॑न्तम्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -185,7 +184,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-ऐ॒न्द्रा॒ग्नमुप॑सन्नम् +++(अत्र मूले वा भाष्ये वा पूर्वापरीकारः सम्भाव्यते  )+++।
+ऐ॒न्द्रा॒ग्नमुप॑सन्नम्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -200,7 +199,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-स॒वि॒तुᳶ प्रक्रा॑न्तम् +++(अत्र मूले वा भाष्ये वा पूर्वापरीकारः सम्भाव्यते  )+++।
+स॒वि॒तुᳶ प्रक्रा॑न्तम्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
