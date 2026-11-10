@@ -125,8 +125,7 @@ let thine ear swell.
 श्रोत्र॑म् । ते॒ । एति॑ । प्या॒य॒ता॒म् ।
 </details>
 
-<details><summary>
-भट्टभास्कर-टीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 4श्नोत्रम् आप्याययति - श्रोत्रं त इति ॥ सुबोधम् ॥
 </details>
