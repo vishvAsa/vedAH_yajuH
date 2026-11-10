@@ -573,7 +573,7 @@ There is a praise of Agni with the Trivrt;
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अथ - एकविंशो भवतीत्यादि । गतम् । तस्य प्रतिष्ठाहेतुत्वमुक्तं रुचो हेतुत्वं च ॥
+6अथ त्रिवृदग्निष्टुत् सर्वाग्नेयः ॥ गतमन्यन् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -656,6 +656,11 @@ There is a praise of Indra with the Pañcadaśa;
 प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः । इ॒न्द्र॒स्तो॒म इती॑न्द्र-स्तो॒मः । भ॒व॒ति॒ ।
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ततः पञ्चदश इन्द्रस्तोमः यत्र इन्द्रः स्तूयते ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रिय᳓मेव᳓ अ᳓व रुन्धते ।[11]
@@ -696,6 +701,11 @@ There is a Saptadaśa, for the winning of food;
 स॒प्त॒द॒श इति॑ सप्त-द॒शः । भ॒व॒ति॒ । अ॒न्ना॒द्यस्येत्य॑न्न-अ॒द्यस्य॑ । अव॑रुद्ध्य॒ इत्यव॑-रुद्ध्यै ।
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ततस्सप्तदशः - अन्नप्रभवत्वात् अन्नाद्याय भवति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो प्र᳓जननाय ।
@@ -716,6 +726,11 @@ verily by it they are propagated.
 अथो॒ इति॑ । प्रज॑नना॒येति॑ प्र-ज॒न॒ना॒य॒ ।
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथो अपि च तेन प्रजायते सप्तदशस्य प्राजापत्यत्वात् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकविँशो᳓ भवति प्र᳓तिष्ठित्यै ।
@@ -734,6 +749,11 @@ There is an Ekavinśa, for support;
 <details><summary>पद-पाठः</summary>
 
 ए॒क॒विँ॒श इत्ये॑क-विँ॒शः । भ॒व॒ति॒ । प्रति॑ष्ठित्या॒ इति॒ प्रति॑-स्थि॒त्यै॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ - एकविंशो भवतीत्यादि । गतम् । तस्य प्रतिष्ठाहेतुत्वमुक्तं रुचो हेतुत्वं च ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
