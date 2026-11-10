@@ -264,10 +264,6 @@ the quarters are four,
 चत॑स्रः । वै । दिशः॑ ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-अष्टौ दिशः प्राच्याद्याः ।
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -311,7 +307,7 @@ verily from the quarters he wins splendour [1].
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अष्टभ्यो दिग्भ्यो ब्रह्मवर्चसमवरुन्धे । ततो ब्रह्मवर्चस्येव सर्वतः प्रतिष्ठितो भवति ॥
+अष्टभ्यो दिग्भ्यो ब्रह्मवर्चसलाभः ॥
 </details>
 
 ## प्रतिदिनं विधानम्

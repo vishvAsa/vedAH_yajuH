@@ -1045,7 +1045,7 @@ Man is of a hundred (years of) life and of a hundred powers;
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-शतायुरिति । गतम् ॥
+शतायुरिति । गतम् ॥ +++(विस्तृतव्याख्यानमन्यत्र मृग्यम्)+++
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
