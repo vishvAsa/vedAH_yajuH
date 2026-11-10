@@ -65,9 +65,9 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तत् त्रे॒धा विन्य॑दधात् ।   
-प॒शुषु॒ तृती॑यम् +++( विन्य॑दधात् )+++।   
-अ॒प्सु तृती॑यम् +++( विन्य॑दधात् )+++।   
-आ॒दि॒त्ये तृती॑यम् +++( विन्य॑दधात् )+++॥45॥
+प॒शुषु॒ तृती॑यम्।   
+अ॒प्सु तृती॑यम्।   
+आ॒दि॒त्ये तृती॑यम्॥45॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -142,9 +142,9 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-ते॑ ऽग्नये॑ पाव॒काय॑ +++(पुरो॒डाश॑म् अ॒ष्टा-क॑पाल॒न् निर॑वपन्न् )+++ ।   
+ते॑ ऽग्नये॑ पाव॒काय॑ ।   
 
-आपो॒ वा अ॒ग्निᳶ पा॑व॒कः ।   
+आपो॒ वा अ॒ग्निᳶ पा॑व॒कः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -170,14 +170,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-ते॑ ऽग्नये॒ शुच॑ये +++(पुरो॒डाश॑म् अ॒ष्टाक॑पाल॒न् निर॑वपन् ।   )+++  ।  
-अ॒सौ वा आ॑दि॒त्यो॑ ऽग्निश् शुचिः॑ ।   
-</details>
-
-<details><summary>मूलम्</summary>
-
-यदे॒वादि॒त्य आसी॑त् ।  
-तत्तेनावा॑रुन्धत ।  
+ते॑ ऽग्नये॒ शुच॑ये  ।  
+अ॒सौ वा आ॑दि॒त्यो॑ ऽग्निश् शुचिः॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -187,7 +181,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यद् ए॒वादि॒त्य आसी॒त् तत् तेनावा॑रुन्धत ।   
+यदे॒वादि॒त्य आसी॑त् ।  
+तत्तेनावा॑रुन्धत ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -349,8 +344,8 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्यो भ॑वति ।   
-इ॒यव्ँ वा अदि॑तिः +++(भवति)+++।   
-अ॒स्याम् ए॒व प्रति॑-तिष्ठति ।  
+इ॒यव्ँ वा अदि॑तिः।   
+अ॒स्याम् ए॒व प्रति॑-तिष्ठति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -619,11 +614,6 @@ unicode_script: devanagari
 8रथचक्रमिति विधिः ॥ गार्हपत्यान्वाहार्यपचनाहवनीयक्रमेण प्रवर्तयति ।  
 </details>
 
-<details><summary>मूलम्</summary>
-
-म॒नु॒ष्य॒र॒थेनै॒व दे॑वर॒थम्प्र॒त्यव॑रोहति ॥52॥  
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनुष्य-र᳓थेन+ एव᳓ देव-रथ᳓म् प्रत्य् अ᳓वरोहति ॥
@@ -631,7 +621,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-म॒नु॒ष्य॒-रथे॑न+ ए॒व दे॑व-र॒थम् प्र॒त्य् अव॑रोहति ॥
+म॒नु॒ष्य॒र॒थेनै॒व दे॑वर॒थम्प्र॒त्यव॑रोहति ॥52॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -640,9 +630,6 @@ unicode_script: devanagari
 </details>
 
 ## तूष्णीं होमः
-
-<details><summary>मूलम्</summary>
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -660,12 +647,6 @@ unicode_script: devanagari
 10ब्रह्मवादिन इत्यादि ॥ पवमानहविर्भ्यः प्राग्विचार्यते । 'विचार्यमाणानाम्' इत्युभयत्र प्लुतः ।  
 </details>
 
-<details><summary>मूलम्</summary>
-
-यद्यजु॑षा जुहु॒यात् ।  
-अय॑थापूर्व॒माहु॑ती जुहुयात् ।  
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् य᳓जुषा जुहुया᳓द् , अ᳓यथा-पूर्वम् आ᳓हुती जुहुयात् ।   
@@ -673,7 +654,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यद् यजु॑षा जुहु॒याद् , अय॑था-पूर्व॒म् आहु॑ती जुहुयात् ।   
+यद्यजु॑षा जुहु॒यात् ।  
+अय॑थापूर्व॒माहु॑ती जुहुयात् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -740,7 +722,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒ग्नीधे॑ ददाति ॥53॥  
-अ॒ग्नि-मु॑खान् ए॒व +ऋतून् प्री॑णाति ।   
+अ॒ग्नि-मु॑खान् ए॒व ऋतून् प्री॑णाति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
