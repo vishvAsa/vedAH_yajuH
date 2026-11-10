@@ -9,9 +9,9 @@ title = "05 भूर्भुवस्सुवः"
 
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
-5पञ्चमं यनुराह - पृथिव्यन्तरिक्षद्युलोका अनुगृह्णन्त्विति शेषः ॥॥
+॥
 
 
 </details>

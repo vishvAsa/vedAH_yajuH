@@ -1,9 +1,9 @@
 +++
 title = "अग्ने॑ ह॒व्यँ"
 +++
-<details open><summary>विश्वास-प्रसुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अग्ने॑ ह॒व्यँ र॑क्ष॒स्वे"त्या॑ह॒ गुप्त्यै॑ ॥34॥
+"अ᳓ग्ने हव्यँ᳓ रक्षस्वे᳓"त्याह गु᳓प्त्यै ॥34॥
 </details>
 
 <details><summary>मूलम्</summary>
