@@ -68,12 +68,6 @@ unicode_script: devanagari
 स्वर्गं लोकं चाभ्यजयन् ।
 </details>
 
-<details><summary>मूलम्</summary>
-
-य ए॒वव्ँ वि॒द्वाँ श्चतु॑र्होतृभिर्य॒ज्ञन्त॑नु॒ते ।
-वि पा॒प्मना॒ भ्रातृ॑व्येण जयते ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वाँ᳓श्  
@@ -84,7 +78,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-य ए॒वव्ँ वि॒द्वाँ श्चतु॑र्होतृभिर्य॒ज्ञन्त॑नु॒ते वि पा॒प्मना॒ भ्रातृ॑व्येण जयते ।  
+य ए॒वव्ँ वि॒द्वाँ श्चतु॑र्होतृभिर्य॒ज्ञन्त॑नु॒ते ।
+वि पा॒प्मना॒ भ्रातृ॑व्येण जयते ।  
 अ॒भि सु॑व॒र्गल्ँ लो॒कञ्ज॑यति ।
 </details>
 
@@ -152,12 +147,6 @@ unicode_script: devanagari
 अयं षड्-ढोतृ-मन्त्रः स्वर्गार्थं प्रवृत्तः । तत् कथम् इति तद् उच्यते । 
 </details>
 
-<details><summary>मूलम्</summary>
-
-घ्नन्ति॒ खलु॒ वा ए॒तत्सोम॑म् ।
-यद॑भिषु॒ण्वन्ति॑ ॥ 42 ॥  
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घ्न᳓न्ति ख᳓लु वा᳓ एत᳓त् सो᳓मम्  
@@ -166,7 +155,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-घ्नन्ति॒ खलु॒ वा ए॒तत्सोम॒म् यद॑भिषु॒ण्वन्ति॑ ॥
+घ्नन्ति॒ खलु॒ वा ए॒तत्सोम॑म् ।
+यद॑भिषु॒ण्वन्ति॑ ॥ 42 ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -202,7 +192,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-चतु॑र्होत्राऽऽति॒थ्यम् +++(आसादयति)+++।  
+चतु॑र्होत्राऽऽति॒थ्यम्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -215,12 +205,6 @@ unicode_script: devanagari
 आतिथ्येष्टौ यद्धविस् तत्- "पृथिवी होता" इत्य् अनेन चतुर्होतृ-मन्त्रेण वेद्याम् आसादयेत् । 
 </details>
 
-<details><summary>मूलम्</summary>
-
-यशो॒ वै चतु॑र्होता ।  
-यश॑ ए॒वात्मन्ध॑त्ते ।   
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓शो वै᳓ च᳓तुर्होता।  
@@ -229,7 +213,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यशो॒ वै चतु॑र्होता॒ यश॑ ए॒वात्मन्ध॑त्ते ।  
+यशो॒ वै चतु॑र्होता ।  
+यश॑ ए॒वात्मन्ध॑त्ते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -240,9 +225,6 @@ unicode_script: devanagari
 <details><summary>सायण-टीका</summary>
 
 तस्य मन्त्रस्य यशो-हेतुत्वात् स्वात्मनि यशः सम्पादयति ।
-</details>
-
-<details><summary>मूलम्</summary>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -538,12 +520,6 @@ unicode_script: devanagari
 [[P418]]
 </details>
 
-<details><summary>मूलम्</summary>
-
-आ॒प्रीभि॑राप्नुवन् ।  
-तदा॒प्रीणा॑माप्रि॒त्वम् ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आप्री᳓भिर् आप्नुवन्।  
@@ -552,7 +528,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-आ॒प्रीभि॑राप्नुव॒न्न्  तदा॒प्रीणा॑माप्रि॒त्वम् ।
+आ॒प्रीभि॑राप्नुवन् ।  
+तदा॒प्रीणा॑माप्रि॒त्वम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -587,12 +564,6 @@ unicode_script: devanagari
 ततः सोमं हत्वा तस्याधीनं यशो-हेतुं धनं प्रत्येकं विभज्य गृहीतवन्तः । 
 </details>
 
-<details><summary>मूलम्</summary>
-
-ते ग्रहा॑ अभवन् ।  
-तद्ग्रहा॑णाङ्ग्रह॒त्वम् ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ ग्र᳓हा अभवन्।  
@@ -601,7 +572,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-ते ग्रहा॑ अभव॒न्न् तद्ग्रहा॑णाङ्ग्रह॒त्वम् ।
+ते ग्रहा॑ अभवन् ।  
+तद्ग्रहा॑णाङ्ग्रह॒त्वम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -636,14 +608,6 @@ unicode_script: devanagari
 य एतं वृत्तान्तं जानाति तस्यैव यागे ग्रहा मुख्यत्वेन गृहीता भवन्ति । इतरस्य तु यागे गृहीता अप्य् अधिक-फलत्वाभावाद् अगृहीता एव ।
 </details>
 
-<details><summary>मूलम्</summary>
-
-ते॑ऽब्रुवन् ।
-यो वै न॒श्श्रेष्ठोऽभू॑त् ॥ 47 ॥  
-तम॑वधिष्म ।
-पुन॑रि॒मँ सु॑वामहा॒ इति॑ ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ऽब्रुवन्न् -  
@@ -654,7 +618,10 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-ते॑ऽब्रुव॒न्न् - "यो वै न॒श्श्रेष्ठोऽभू॒त् ,तम॑वधिष्म॒, पुन॑रि॒मँ सु॑वामहा॒" इति॑ ।
+ते॑ऽब्रुवन् ।
+यो वै न॒श्श्रेष्ठोऽभू॑त् ॥ 47 ॥  
+तम॑वधिष्म ।
+पुन॑रि॒मँ सु॑वामहा॒ इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -812,12 +779,6 @@ unicode_script: devanagari
 यः सोम-यागः स एव यशो-हेतुत्वाद् यशः । 
 </details>
 
-<details><summary>मूलम्</summary>
-
-य ए॒वव्ँ वि॒द्वान्त्सोम॑मा॒गच्छ॑ति ।
-यश॑ ए॒वैन॑मृच्छति ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न्त् सो᳓मम् आग᳓च्छति  
@@ -826,7 +787,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-य ए॒वव्ँ वि॒द्वान्त्सोम॑मा॒गच्छ॑ति॒ यश॑ ए॒वैन॑मृच्छति ।
+य ए॒वव्ँ वि॒द्वान्त्सोम॑मा॒गच्छ॑ति ।
+यश॑ ए॒वैन॑मृच्छति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -841,13 +803,6 @@ unicode_script: devanagari
 [^१]: क. ख. तत्र तद । 
 </details>
 
-<details><summary>मूलम्</summary>
-
-तस्मा॑दाहुः ।
-यश्चै॒वव्ँ वेद॒ यश्च॒ न ।
-तावु॒भौ सोम॒माग॑च्छतः ।  
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् आहुर्  
@@ -858,7 +813,9 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-तस्मा॑दाहु॒र् "यश्चै॒वव्ँ वेद॒ यश्च॒ न तावु॒भौ सोम॒माग॑च्छतः ।  
+तस्मा॑दाहुः ।
+यश्चै॒वव्ँ वेद॒ यश्च॒ न ।
+तावु॒भौ सोम॒माग॑च्छतः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

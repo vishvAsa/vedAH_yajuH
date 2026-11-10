@@ -2895,6 +2895,11 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+16अथ नवमीमाह ।
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -2921,7 +2926,7 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 
 <details><summary>सायण-टीका</summary>
 
-16अथ नवमीमाह । यदुक्तं मनीषिणां प्रश्नत्रयं तस्याचार्य उत्तरं ब्रूते ।  
+यदुक्तं मनीषिणां प्रश्नत्रयं तस्याचार्य उत्तरं ब्रूते ।  
 यस्माद् वनजन्याद् वृक्षात् द्यावापृथिव्यौ निर्मिते तद्वनस्थानीयं तद्वृक्षस्थानीयं ब्रह्मैव, तस्य सर्वशक्तित्वात् ।  
 यस्योत्पाद्यस्य या सामग्र्य्-अपेक्षिता सा सर्वा तस्मिन्विद्यते ।  
 तद् एव ब्रह्म सर्वाणि भुवनानि स्वस्मिन् धारयति नियमयति च ।  

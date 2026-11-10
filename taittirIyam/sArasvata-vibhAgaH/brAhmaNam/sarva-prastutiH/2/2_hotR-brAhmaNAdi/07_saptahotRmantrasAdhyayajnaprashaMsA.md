@@ -131,12 +131,6 @@ unicode_script: devanagari
 स इन्द्र॒मपि॒ नासृ॑जत ।  
 </details>
 
-<details><summary>मूलम्</summary>
-
-तन्दे॒वा अ॑ब्रुवन् ।
-इन्द्र॑न्नो जन॒येति॑ ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न् देवा᳓ अब्रुवन्न्  
@@ -151,13 +145,12 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-तन्दे॒वा अ॑ब्रुव॒न्न्  "इन्द्र॑न्नो जन॒ये"ति॑ ।  
-
+तन्दे॒वा अ॑ब्रुवन् ।
+इन्द्र॑न्नो जन॒येति॑ ।  
 स आ॒त्मन्निन्द्र॑मपश्यत् ।  
 तम॑सृजत ।  
-तन्त्रि॒ष्टुग्वी॒र्य॑म्भू॒त्वाऽनु॒ प्रावि॑शत् ।
-
-तस्य॒ वज्र॑ᳶ पञ्चद॒शो हस्त॒ आप॑द्यत ।  
+तन्त्रि॒ष्टुग्वी॒र्य॑म्भू॒त्वाऽनु॒ प्रावि॑शत् ।  
+तस्य॒ वज्र॑ᳶ पञ्चद॒शो हस्त॒ आप॑द्यत ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -196,12 +189,6 @@ unicode_script: devanagari
 तेन वज्रेण युक्तं हस्तम् उद्यम्यासुरान् अभिभूतवान् । 
 </details>
 
-<details><summary>मूलम्</summary>
-
-य ए॒वव्ँ वेद॑ ।
-अ॒भि भ्रातृ॑व्यान्भवति ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द  
@@ -210,7 +197,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-य ए॒वव्ँ वेदा॒भि भ्रातृ॑व्यान्भवति ।
+य ए॒वव्ँ वेद॑ ।
+अ॒भि भ्रातृ॑व्यान्भवति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -227,12 +215,6 @@ unicode_script: devanagari
 इति । 
 </details>
 
-<details><summary>मूलम्</summary>
-
-ते दे॒वा असु॑रैर्वि॒जित्य॑ ।
-सु॒व॒र्गल्ँ लो॒कमा॑यन् ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ देवा᳓ अ᳓सुरैर् विजि᳓त्य सुवर्गल्ँ᳓ लोक᳓म् आयन् ।
@@ -240,7 +222,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-ते दे॒वा असु॑रैर्वि॒जित्य॑ सुव॒र्गल्ँ लो॒कमा॑यन् ।
+ते दे॒वा असु॑रैर्वि॒जित्य॑ ।
+सु॒व॒र्गल्ँ लो॒कमा॑यन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -334,9 +317,6 @@ unicode_script: devanagari
 
 तस्य॒ वा इ॒यङ्कॢप्तिः॑ ।
 यदि॒दङ्किञ्च॑ ।
-
-य ए॒वव्ँ वेद॑ ।
-कल्प॑तेऽस्मै ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

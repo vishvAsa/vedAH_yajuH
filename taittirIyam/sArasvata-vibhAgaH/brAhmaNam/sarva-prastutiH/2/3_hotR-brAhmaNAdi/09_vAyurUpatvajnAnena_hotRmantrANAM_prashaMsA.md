@@ -292,12 +292,7 @@ unicode_script: devanagari
 आ॒दि॒त्यम॒भिसम्प॑वते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-आदित्येन सह विश्वं गच्छति ।
-</details>
-
-<details><summary>मूलम्</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 आदित्येन सह विश्वं गच्छति ।
 </details>
@@ -353,12 +348,6 @@ unicode_script: devanagari
 दिग्भ्य इति । पुरोवातादिहेतुत्वात् दिक्षु वातस्सञ्चरति दिग्विशेषैस्सङ्गत्य ऋतुधर्मान् प्रवर्तयति ॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-स यत्पु॒रस्ता॒द्वाति॑ ।
-प्रा॒ण ए॒व भू॒त्वा पु॒रस्ता॑द्वाति ॥ 37॥  
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ य᳓त् पुर᳓स्ताद्वा᳓ति प्राण᳓ एव᳓ भूत्वा᳓ पुर᳓स्ताद् वाति ॥
@@ -366,7 +355,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-स यत्पु॒रस्ता॒द्वाति॑ प्रा॒ण ए॒व भू॒त्वा पु॒रस्ता॑द्वाति ॥
+स यत्पु॒रस्ता॒द्वाति॑ ।
+प्रा॒ण ए॒व भू॒त्वा पु॒रस्ता॑द्वाति ॥ 37॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -392,12 +382,6 @@ unicode_script: devanagari
 स वायुर् यदा पूर्वस्यां दिशि संचरति तदा प्राण-रूपो भूत्वा संचरति। 
 </details>
 
-<details><summary>मूलम्</summary>
-
-तस्मा॑त्पु॒रस्ता॒द्वान्त॑म् ।
-सर्वा॑ प्र॒जाᳶ प्रति॑नन्दन्ति ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् पुर᳓स्ताद्वा᳓न्तम्  
@@ -406,7 +390,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-तस्मा॑त्पु॒रस्ता॒द्वान्त॒म् सर्वा॑ प्र॒जाᳶ प्रति॑नन्दन्ति ।
+तस्मा॑त्पु॒रस्ता॒द्वान्त॑म् ।
+सर्वा॑ प्र॒जाᳶ प्रति॑नन्दन्ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -449,12 +434,6 @@ unicode_script: devanagari
 प्रा॒ण इ॑व प्रि॒यᳶ प्र॒जाना॑म्भवति ।
 </details>
 
-<details><summary>मूलम्</summary>
-
-य ए॒वव्ँ वेद॑ ।
-स वा ए॒ष प्रा॒ण ए॒व ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द  
@@ -463,7 +442,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-य ए॒वव्ँ वेद॒ स वा ए॒ष प्रा॒ण ए॒व ।
+य ए॒वव्ँ वेद॑ ।
+स वा ए॒ष प्रा॒ण ए॒व ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -497,8 +477,6 @@ unicode_script: devanagari
 </details>
 
 <details><summary>मूलम्</summary>
-
-अथ॒ यद्द॑क्षिण॒तो वाति॑ मात॒रिश्वै॒व भू॒त्वा द॑क्षिण॒तो वा॑ति ।  
 
 तस्मा॑द्दक्षिण॒तो वान्तव्ँ॑वि॒द्यात्,  
 सर्वा॒ दिश॒ आवा॑ति ।  
@@ -777,7 +755,7 @@ unicode_script: devanagari
 द॒क्षि॒ण॒त इत॑रान्पा॒प्मन॑स्सचन्ते ।
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ य᳓ एनम् पश्चा᳓द् आय᳓न्तम् उपव᳓दन्ति  
 य᳓ एवा᳓स्य पश्चा᳓त् पाप्मा᳓नस्  

@@ -507,7 +507,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-य ए॒वव्ँ वेद॑ ॥33॥   
+तानि॒ वा ए॒तानि॑ च॒त्वार्यम्भाँ॑सि ।
 दे॒वा म॑नु॒ष्या॑ᳶ पि॒तरोऽसु॑राः ।   
 </details>
 

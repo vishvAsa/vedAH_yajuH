@@ -3,12 +3,6 @@ title: ०२ वैश्यसवः
 unicode_script: devanagari
 
 ---
-<details><summary>मूलम्</summary>
-
-यदा॑ग्ने॒यो भव॑ति ।
-अ॒ग्निमु॑खा॒ ह्यृद्धिः॑ ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दाग्नेयो᳓ भ᳓वत्य् अग्नि᳓मुखा ह्यृ᳓द्धिः ।
@@ -16,7 +10,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यदा॑ग्ने॒यो भव॑त्य् अ॒ग्निमु॑खा॒ ह्यृद्धिः॑ ।
+यदा॑ग्ने॒यो भव॑ति ।
+अ॒ग्निमु॑खा॒ ह्यृद्धिः॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -92,12 +87,6 @@ unicode_script: devanagari
 पञ्चमं हविर्विधत्ते - अष्टाकपालो वारुणः कार्यः । स च निर्वरुणत्वाय वरुणपाशराहित्याय संपद्यते ।
 </details>
 
-<details><summary>मूलम्</summary>
-
-अथो॒ य ए॒व कश्च॒ सन्त्सू॒यते॑ ।
-स हि वा॑रु॒णः ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो य᳓ एव᳓ क᳓श्च स᳓न्त्सूय᳓ते स᳓ हि᳓ वारुणः᳓ ।
@@ -105,7 +94,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-अथो॒ य ए॒व कश्च॒ सन्त्सू॒यते॒ स हि वा॑रु॒णः ।
+अथो॒ य ए॒व कश्च॒ सन्त्सू॒यते॑ ।
+स हि वा॑रु॒णः ।
 </details>
 
 <details><summary>सायण-टीका</summary>

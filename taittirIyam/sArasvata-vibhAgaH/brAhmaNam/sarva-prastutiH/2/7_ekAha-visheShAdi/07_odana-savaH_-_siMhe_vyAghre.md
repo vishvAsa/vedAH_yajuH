@@ -5,7 +5,7 @@ unicode_script: devanagari
 ---
 <details><summary>सायणोक्त-विनियोगः</summary>
 
-(SB) 1षष्ठे गोसवोऽभिहितः । सप्तम ओदनसवोऽभिधीयते । कल्पः - 'ओदनसवेनान्नाद्यकामो रोहिण्यां यजेत । उपव्युषं श्रपयति दर्विहोमो भवत्युदित आदित्ये सिँहे व्याघ्र इति चतस्र आहुतीरोदनाद्धुत्वा' इति । 
+तत्र प्रथमाम् ऋचम् आह -
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/02_siMhe_vyAghra.md">
@@ -34,7 +34,6 @@ unicode_script: devanagari
 
 <details><summary>सायण-टीका</summary>
 
-तत्र प्रथमाम् ऋचम् आह -  
 **पृदाकुः** मनुष्य-निगरण-समर्थो ऽजगरः ।  
 सिंहादिष्व् अग्न्यादिषु च येयं **त्विषिः** अप्रधृष्यत्वलक्षणं तेजस्  
 तद्-अभिमानिनी या देवो सुभगा सौभाग्ययुक्ता सती इन्द्रं परमैश्वर्ययुक्तं पुरुषं जजान उत्पादयामास । सा देवी **वर्चसा** बलेन **संविदाना** ऐकमत्यं गता सती नोऽस्मान्प्रति **आगन्** आगच्छतु ॥
@@ -42,6 +41,11 @@ unicode_script: devanagari
 </details>
 
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+2अथ द्वितीयामाह -
+</details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/05_yA_rAjanye.md">
 
@@ -69,13 +73,18 @@ unicode_script: devanagari
 
 <details><summary>सायण-टीका</summary>
 
-2अथ द्वितीयामाह - **राजन्ये** क्षत्रिये **आयतायां** ताड्यमानायां **दुन्दुभौ अश्वस्य क्रन्द्ये** क्रन्दने हेषिते **पुरुषस्य मायौ** सिंहनादादिशब्दे । एतेषु या त्विषिर्गाम्भीर्यलक्षणा तदभिमानिनी । या देवीत्यादि पूवर्वत् ॥
+**राजन्ये** क्षत्रिये **आयतायां** ताड्यमानायां **दुन्दुभौ अश्वस्य क्रन्द्ये** क्रन्दने हेषिते **पुरुषस्य मायौ** सिंहनादादिशब्दे । एतेषु या त्विषिर्गाम्भीर्यलक्षणा तदभिमानिनी । या देवीत्यादि पूवर्वत् ॥
 
 - या देवो सुभगा सौभाग्ययुक्ता सती **इन्द्रं** परमैश्वर्ययुक्तं पुरुषं **जजान** उत्पादयामास । सा देवी वर्चसा वलेन संविदाना ऐकमत्यं गता सती नोऽस्मान्प्रति आगन् आगच्छतु ॥
 </details>
 </details>
 
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+3अथ तृतीयामृचमाह -
+</details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/08_yA_hastini.md">
 
@@ -103,13 +112,18 @@ unicode_script: devanagari
 
 <details><summary>सायण-टीका</summary>
 
-3अथ तृतीयामृचमाह - नगरे जातस्तत्रैव वर्तमानो **हस्ती** । अरण्ये जातस्तत्रैव वर्तमानो **द्वीपीत्य्** अवान्तरभेदः । **द्वीपी** मृगान्तरं वा । हस्त्यादिष्वश्वादिषु च या त्विषिर्महार्घत्वलक्षणा तदभिमानिनी । या देवीत्यादि पूर्वत् ॥
+नगरे जातस्तत्रैव वर्तमानो **हस्ती** । अरण्ये जातस्तत्रैव वर्तमानो **द्वीपीत्य्** अवान्तरभेदः । **द्वीपी** मृगान्तरं वा । हस्त्यादिष्वश्वादिषु च या त्विषिर्महार्घत्वलक्षणा तदभिमानिनी । या देवीत्यादि पूर्वत् ॥
 
 - या देवो सुभगा सौभाग्ययुक्ता सती इन्द्रं परमैश्वर्ययुक्तं पुरुषं जजान उत्पादयामास । सा देवी वर्चसा वलेन संविदाना ऐकमत्यं गता सती नोऽस्मान्प्रति आगन् आगच्छतु ॥
 </details>
 </details>
 
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+4अथ चतुर्थीमाह -
+</details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/11_rathe_akhSheShu.md">
 
@@ -137,7 +151,7 @@ unicode_script: devanagari
 
 <details><summary>सायण-टीका</summary>
 
-4अथ चतुर्थीमाह - **वाजो** वेगः । **शुष्मो** बलम् । रथादिषु वातादिषु च या त्विषिः स्वस्वकार्यक्षमलक्षणा तदभिमानिनी । या देवीत्यादि पूर्ववत् ॥
+**वाजो** वेगः । **शुष्मो** बलम् । रथादिषु वातादिषु च या त्विषिः स्वस्वकार्यक्षमलक्षणा तदभिमानिनी । या देवीत्यादि पूर्ववत् ॥
 
 - या देवो सुभगा सौभाग्ययुक्ता सती इन्द्रं परमैश्वर्ययुक्तं पुरुषं जजान उत्पादयामास । सा देवी वर्चसा वलेन संविदाना ऐकमत्यं गता सती नोऽस्मान्प्रति आगन् आगच्छतु ॥
 </details>
@@ -355,7 +369,7 @@ unicode_script: devanagari
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
-दधिमन्थस्याभिमन्त्रणादींस्त्रीन्मन्त्रानाह - दधिमन्थस्य पयोविकारत्वात्पयस्त्वम् ।
+दधिमन्थस्याभिमन्त्रणादींस्त्रीन्मन्त्रानाह -
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -368,6 +382,11 @@ unicode_script: devanagari
 
 पयो॑ऽसि ।
 तत्ते॒ प्रय॑च्छामि ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+दधिमन्थस्य पयोविकारत्वात्पयस्त्वम् ।
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/50_payasvad_astu.md">
@@ -402,6 +421,11 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+10-11उदमन्थस्याभिमन्त्रणादींस्त्रीन्मन्त्रानाह -
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓युरसि ।
@@ -412,6 +436,11 @@ unicode_script: devanagari
 
 आयु॑रसि ।
 तत्ते॒ प्रय॑च्छामि ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+उदमन्थस्यायुर्हेतुत्वादायुष्ट्वम् । अन्यत्पूर्ववत् ।
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/55_AyuShmad_astu.md">
@@ -443,7 +472,7 @@ unicode_script: devanagari
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
-10-11उदमन्थस्याभिमन्त्रणादींस्त्रीन्मन्त्रानाह - उदमन्थस्यायुर्हेतुत्वादायुष्ट्वम् । अन्यत्पर्वूवत् । कल्पः - 'ओदनशेषं यजमानः प्राश्नाति, इममग्न आयुषे वर्चसे कृधीति प्राश्नन्तमभिमन्त्रयते' इति । 
+कल्पः - 'ओदनशेषं यजमानः प्राश्नाति, इममग्न आयुषे वर्चसे कृधीति प्राश्नन्तमभिमन्त्रयते' इति ।
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/58_imam_agna.md">
@@ -540,6 +569,11 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+14कल्पः - 'समुद्र इवासि गह्मनेत्येनमभिमन्त्र्य' इति ।
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/69_samudra_ivAsi.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -566,18 +600,7 @@ unicode_script: devanagari
 
 <details><summary>सायण-टीका</summary>
 
-14कल्पः - 'समुद्र इवासि गह्मनेत्येनमभिमन्त्र्य' इति । पाठस्तु - हे यजमान! त्वं गह्मना गाम्भीर्येण समुद्र इवासि समुद्रसमोऽसि । सोमवददाभ्यः केनाप्यधृष्योऽसि । अग्निरिव विश्वतः सर्वस्मात् प्रत्यङ् प्रत्यासन्नः असि । अग्निर्ह्युदरमध्यवर्तित्वात्प्रत्यासन्नः । सूर्य इव ज्योतिषा व्याप्तोऽसि ॥
-</details>
-
-<details><summary>मूलम् संयुक्तम्</summary>
-
-अ॒पाय्ँ यो द्रव॑णे॒ रसः॑ ।तम॒हम॒स्मा आ॑मुष्याय॒णाय॑ ।तेज॑से ब्रह्मवर्च॒साय॑ गृह्णामि ।  
-
-अ॒पाय्ँय ऊ॒र्मौ रसः॑ । तम॒हम॒स्मा आ॑मुष्याय॒णाय॑  ।ओज॑से वी॒र्या॑य गृह्णामि ।   
-
-अ॒पाय्ँ यो म॑ध्य॒तो रसः॑ । तम॒हम॒स्मा आ॑मुष्याय॒णाय॑ । पुष्ट्यै॑ प्र॒जन॑नाय गृह्णामि ।   
-
-अ॒पाय्ँ यो य॒ज्ञियो॒ रसः॑ । तम॒हम॒स्मा आ॑मुष्याय॒णाय॑ । आयु॑षे दीर्घायु॒त्वाय॑ गृह्णामि ॥22॥
+पाठस्तु - हे यजमान! त्वं गह्मना गाम्भीर्येण समुद्र इवासि समुद्रसमोऽसि । सोमवददाभ्यः केनाप्यधृष्योऽसि । अग्निरिव विश्वतः सर्वस्मात् प्रत्यङ् प्रत्यासन्नः असि । अग्निर्ह्युदरमध्यवर्तित्वात्प्रत्यासन्नः । सूर्य इव ज्योतिषा व्याप्तोऽसि ॥
 </details>
 </details>
 

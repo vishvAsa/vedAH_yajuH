@@ -421,7 +421,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-छन्दो॒भ्योऽधि॒ साम॑ +++(असृजत)+++।
+छन्दो॒भ्योऽधि॒ साम॑।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -496,7 +496,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यजु॒र्भ्योऽधि॒ विष्णु॑म् +++(असृजत)+++।
+यजु॒र्भ्योऽधि॒ विष्णु॑म्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -556,7 +556,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-ओष॑धी॒भ्योऽधि॒ सोम॑म् +++(असृजत)+++।
+ओष॑धी॒भ्योऽधि॒ सोम॑म्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

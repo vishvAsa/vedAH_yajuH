@@ -90,18 +90,6 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/08_ihaivaidhi_mA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-</details>
-
-</div>
-
-<details><summary>English</summary>
-
-Grow right here, don't be distressed.  
-Like a mountain un-fickle.  
-Like Indra, stand firm here.  
-Bear the nation here.
-</details>
-
 <details><summary>मूलम्</summary>
 
 इ॒हैवैधि॒ मा व्य॑थिष्ठाः ॥19॥  
@@ -113,6 +101,17 @@ Bear the nation here.
 <details><summary>सायण-टीका</summary>
 
 22इहैवैधीति ॥ **इहैव** राष्ट्रे **एधि** राजा भव । **मा व्यथिष्ठाः पर्वत इव अविचाचलिः** अविचलो भव । 'उपसर्गाच्छन्दसि' इति इप्रत्ययः । **इन्द्र इव ध्रुवो** भव । **इह** राजभावे **तिष्ठ** । **राष्ट्रं** च **धारय** । अवधारणे उकारः । राष्ट्रं धारयैव माऽमुचः ॥
+</details>
+</details>
+
+</div>
+
+<details><summary>English</summary>
+
+Grow right here, don't be distressed.  
+Like a mountain un-fickle.  
+Like Indra, stand firm here.  
+Bear the nation here.
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/12_abhitiShTha_pRtanyataH.md">
@@ -138,6 +137,11 @@ Bear the nation here.
 इन्द्र॑ इव वृत्र॒हा ति॑ष्ठ ।
 अ॒पः क्षेत्रा॑णि स॒ञ्जय॑न् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+23अभितिष्ठेति । । पृतन्यतः संग्रामं कर्तुमिच्छतः 'कव्यध्वरपृतनस्यर्चि लोपः' 'शतुरनुमः' इति विभक्तेरुदात्तत्वम् । शत्रवोऽधरे त्वत्तो निकृष्टैश्वर्यबलास्सन्तु । **वृत्रहा** वृत्रस्य हन्ता **इन्द्र इव पृतन्यतोऽभितिष्ठ** । यथा **शत्रूणां अपः** कर्माणि **क्षेत्राणि संजयन्** **वृत्रहेव** शत्रूनाक्राम ॥
+</details>
 </details>
 
 </div>
@@ -148,11 +152,6 @@ Outflank the assailants.
 Down be the enemies.  
 Stand like Indra vRtra-killer.  
 Thoroughly winning (their) deeds and lands.
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-23अभितिष्ठेति । । पृतन्यतः संग्रामं कर्तुमिच्छतः 'कव्यध्वरपृतनस्यर्चि लोपः' 'शतुरनुमः' इति विभक्तेरुदात्तत्वम् । शत्रवोऽधरे त्वत्तो निकृष्टैश्वर्यबलास्सन्तु । **वृत्रहा** वृत्रस्य हन्ता **इन्द्र इव पृतन्यतोऽभितिष्ठ** । यथा **शत्रूणां अपः** कर्माणि **क्षेत्राणि संजयन्** **वृत्रहेव** शत्रूनाक्राम ॥
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/16_indra_eNam.md">
@@ -171,18 +170,6 @@ Thoroughly winning (their) deeds and lands.
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/16_indra_eNam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-</details>
-
-</div>
-
-<details open><summary>English</summary>
-
-Indra Bear this king!  
-Firm with firm offerings.  
-Gods speak in his favor!  
-Him too, the brahmaNas-pati!
-</details>
-
 <details><summary>मूलम्</summary>
 
 इन्द्र॑ एणमदीधरत् ।
@@ -196,4 +183,15 @@ Him too, the brahmaNas-pati!
 24इन्द्र एणमिति ॥ **इन्द्र एनं** राजानं **अदिधरत्** धारयतु । छान्दसं सांहितिकं णत्वम् । **ध्रुवं** अविचलितैश्वर्यं कृत्वा **ध्रुवेण** नित्येन **हविषा** । किं च - **तस्मै** अस्भै **देवाः अधिब्रवन्** अधिब्रुवन्तु उपरिवदन्तु पक्षपातेन वदन्तु । अयं च ब्रह्मणः कर्मणः पतिरिन्द्रश्च अस्मानधिब्रवीतु ॥
 
 इत्युपहोमभाष्ये द्वितीयोऽनुवाकः ॥
+</details>
+</details>
+
+</div>
+
+<details open><summary>English</summary>
+
+Indra Bear this king!  
+Firm with firm offerings.  
+Gods speak in his favor!  
+Him too, the brahmaNas-pati!
 </details>

@@ -347,12 +347,6 @@ unicode_script: devanagari
 किंबहुना - सर्वं प्रियमात्मन आशास्ते ।  
 </details>
 
-<details><summary>मूलम्</summary>
-
-यद॒नेन॑ ह॒विषाऽऽशा॑स्ते ।  
-तद॑श्या॒त्तदृ॑ध्यात् ।  
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् अने᳓न हवि᳓षा᳓ऽऽशास्ते  
@@ -361,7 +355,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यद॒नेन॑ ह॒विषाऽऽशा॑स्ते॒ तद॑श्या॒त्तदृ॑ध्यात् ।  
+यद॒नेन॑ ह॒विषाऽऽशा॑स्ते ।  
+तद॑श्या॒त्तदृ॑ध्यात् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

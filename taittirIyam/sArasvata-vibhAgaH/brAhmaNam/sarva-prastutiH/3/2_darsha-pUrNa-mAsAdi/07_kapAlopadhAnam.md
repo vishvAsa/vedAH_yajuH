@@ -431,6 +431,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
+छन्द॑स्सम्मितानि॒ स उ॑प॒दध॑त्क॒पाला॑नि ।
 इ॒माल्ँ लो॒कान॑नुपू॒र्वन्दिशो॒ विधृ॑त्यै दृँहति ।
 </details>
 

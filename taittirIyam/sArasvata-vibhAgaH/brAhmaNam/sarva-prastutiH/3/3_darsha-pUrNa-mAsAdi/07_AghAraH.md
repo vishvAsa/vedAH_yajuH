@@ -111,7 +111,6 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-अ॒नू॒या॒जेभ्य॑स्स॒मिध॒मति॑शिनष्टि ।
 षट्त्सम्प॑द्यन्ते ।  
 
 षड्वा ऋ॒तवः॑ ।  

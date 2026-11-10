@@ -141,7 +141,7 @@ unicode_script: devanagari
 
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓द्वय᳓न्त᳓मसस्प᳓रि ।  
 </details>
