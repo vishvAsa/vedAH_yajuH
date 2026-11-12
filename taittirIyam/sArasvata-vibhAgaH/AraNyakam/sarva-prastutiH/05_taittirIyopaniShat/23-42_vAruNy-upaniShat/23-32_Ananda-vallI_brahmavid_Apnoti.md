@@ -2,6 +2,7 @@
 title = "२३-३२ आनन्द-वल्ली ब्रह्मविद् आप्नोति"
 +++
 
+## मङ्गलम्
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="../23_sahanAvavatu/">
 <details open><summary><h2>२३ सहनाववतु …{Loading}…</h2></summary>
 
