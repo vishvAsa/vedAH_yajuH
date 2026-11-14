@@ -1,0 +1,465 @@
++++
+title = "1 Introduction"
++++
+
+[[P3]]
+
+## 1 The Pravargya Ritual
+
+The oldest portions of the wonderfully complex structure of Vedic texts are interlaced with numerous references to ritual acts and ceremonies.
+
+The exact contents of the ritual acts and ceremonies referred to are often no longer recoverable. Among these references mention is made of a probably simple hot-milk offering, *gharmá*,¹ to the Aśvins, the twin-gods connected with dawn and sunrise. A Gharma offering to the Aśvins is one of the two main constituents² of the Pravargya ritual³ as described by later
+
+1 (a) Cf. Hillebrandt, Ritualliteratur:15.
+
+(b) The oldest references we have are those in the Ṛgveda. A Ṛgvedic hymn that received much attention in connection with the Gharma offering, is the so-called frog-hymn (RV 7, 103). (See Hillebrandt, Ritualliteratur:134f; H. Lüders, Varuṇa 2:363-4; van Buitenen, *Pravargya*:31-33; C. Kashikar “Apropos of the Pravargya":7; see also Gonda, Vedic *Literature*:143). Important references are further in RV 1, 119, 2; 1, 164, 26-27 (perhaps 28-29; for 43 see section 4 below); 1, 180, 4; 3, 53, 14; 5, 19, 4; 5, 30, 15; 5, 43, 7; 5, 73, 6; 5, 76, 1; 7, 70, 2; 8, 9, 7; 8, 87, 2; 8, 89, 7; 10, 181, 3. For verses that were most probably actually *used* in a Pravargya ceremony in its earliest forms see Gonda, “A propos of the Mantras in the Pravargya section of the ṚgVedic Brāhmaṇas":236-271, esp. 262. It may be questioned, however, whether it is probable that in the earliest forms of the Pravargya, the vessel and its preparation did not play an important role (see section 4 below). In the RV khilasūktas and in the Atharva Veda, there are several references to the Gharma. Special mention deserve: verse 2 of the so-called Brahma-jajñānam hymn (ṚVKhil 3, 22, 2; AV 4, 1, 2, forming part of the first recitation by the Hot, ṚVKhil 3, 22, 1-4; van Buitenen, *Pravargya*:67); AV *7,* 73, called the Gharma-sūkta (in a different order in the Paippalāda version 20, 11 and 20, 12, 1; according to Vaitānasūtra 14, 5a it should be recited by the Brahmán-priest during the offering of the Gharma beverage); ṚVKhil 1, 2, 10; 1, 11, 1; AV 8, 8, 17; 4, 11, 5 and 6; 4, 22, 4; 9, 1, 8.
+
+2 The fact that these two constituents can be distinguished does not imply that they necessarily have a separate origin. In section 4 of this Introduction I will argue that already in Ṛgvedic times the two main constituents of what is called Pravargya in the later texts, formed one single rite. In later texts, *gharmá* may stand for the ceremony as a whole.
+
+3 The term Pravargya (*pravargyà-*, to be placed [sc. on the fire], from *pra*-*vrj-*) refers to the ceremony as a whole, and to the main implement, the vessel that is to be heated on the fire and from which the offering to the Aśvins is made. The term is met *
+
+[[P4]]
+
+* texts, the Brāhmaṇas, Āraṇyakas and Śrauta Sūtras. The other constituent is the ceremonial preparation, sacrificial use and solemn disposal of a special vessel, which has several names: Head of Makha, Pravargya, Gharma, Mahāvīra. This is mainly performed by the Adhvaryu, the priest connected with the Yajurveda. The earliest elaborate sources on this constituent specifically, are the Yajurveda texts Taittirīya Āraṇyaka Book 5, Kaṭha-Āraṇyaka Book 2 and 3 and Śatapatha Brāhmaṇa Book 14.⁴
+
+## 2 Short Description of the Rite
+
+It seems that the Gharma was originally an independent early morning rite. But the Gharma or Pravargya as described in the Brāhmaṇas, Āraṇyakas and Sūtras, is an optional performance in the context of elaborate Soma sacrifices. It takes place either on the Upasad days before with for the first time in the Brāhmaṇa and Āraṇyaka sources of this ceremony. For a complete description of the Pravargya, based on the Śrauta Sūtras see van Buitenen, *Pravargya* (1968); some of his conclusions are criticized by C. G. Kashikar: “Apropos of the Pravargya" (1973), and “The Avantaradikṣa of Pravargya" (1976). In "The Concept of Mahāvīra in the Pravargya" (1982) the same author discusses, without entering into a discussion with van Buitenen, the mythological story connected with the Pravargya rite as found in different sources (see section 3.4). The Pravargya in the Agniṣṭoma is described in *Śrautakośa* Volume 2, Sanskrit section part 1 and English section part 1. G. U. Thite gives a short description and an interpretation of the rite in *Sacrifice* in the Brāhmaṇa-Texts:125ff. Pictures of the Pravargya performed during the Agnicayana in Kerala, South India, 1975, can be seen in Staal, *Agni* 1:368-377. Here we also find a short description and several plans of the place of sacrifice. See also Agni 1:217, 231, 233 (the Pravargya vessel and other implements) and Agni 1:545-6 (the disposal of the Pravargya implements). For Bhandari, “Pravargya Mahāvīra and Idols,” *Journal of the Asiatic Society* of Bombay, vol. 52/53 1977-78 (1981): 25-31 see note 33 below. Older literature on the Pravargya: Hillebrandt, Ritualliteratur:134ff; Oldenberg, *Die* Religion: 446ff; Keith, *TStransl,* Introduction, p. cxxiiiff; Keith, Religion:332f; Lüders, *Varuṇa* II:359-368; Gonda, *Religionen* I:153.
+
+4 For a discussion of the Brāhmaṇa and Āraṇyaka sources of this rite see sections 5 and 6 below and the references mentioned in the notes to those sections.
+
+[[P5]]
+
+the pressing days (twice on each day), or on the pressing day (only once). The outlines of this Pravargya ritual are as follows:
+
+a. First, the preparation of the vessels: after an offering of clarified butter to Savitṛ, the Adhvaryu collects clay and several other ingredients and mixes these. They are formed into one main vessel,⁵ two spare vessels and several minor clay implements. The vessels are dried in the sun, polished and fumigated with the smoke of burning horse-dung. Next, they are baked in a fire pit. Afterwards the vessels are cooled down by pouring goat's milk over them. During the preparation it is mainly the Adhvaryu who plays an active role.
+
+b. On the day of the Pravargya performance, there are recitations of the Adhvaryu, the Brahmán and the Hotṛ. The main vessel is taken and held with the tongs over the Āhavanīya (some sources: Gārhapatya) fire and anointed with clarified butter to the accompaniment of a sāman,⁶ sung by the Prastotṛ. The vessel is placed on a golden (others: a silver) disk that lies on a special mound. The vessel is further anointed with clarified butter and heated. It is surrounded with coals and enclosing sticks and the vessel is covered with a golden disk. The fire is fanned with three fans. The vessel becomes red-hot. The participants (except the wife of the
+
+5 This Pravargya-vessel was "a flat-bottomed cooking vessel, constructed from three strips of clay without using the potter's wheel, between 0.24m and 0.60m in diameter, in the middle contracted like an hour-glass, with a girdle (or?) a collar and above a nose-shaped spout, about 0.06m long " (transl. from W. Rau, Töpferei:21). Cf. note 36 and 38 to the translation; and Rau, "Vedic texts on the manufacture of pottery,” in *Journal of the Oriental Iust*, *of Baroda* 23 (3), (1974): 137-142.
+
+6 A sāman is a ritual song, a melody sung on the text of mostly Ṛgvedic verses. The songs are collected in the Sāmaveda. See Gonda, *Vedic Literature*, note 18 on p. 314-315; Wayne Howard, *Sāmavedic* Chant, New Haven 1977. For the problems connected with the place of the Sāmaveda in the Pravargya Ritual, see J. A. B. van Buitenen, *Pravargya*, chapter 9 (also J. A. B. van Buitenen, "The Sāmaveda in the Pravargya Ritual,” *Mélanges* d'Indianisme à la Mémoire de Louis *Renou*. Paris, É. de Boccard, 1968); the Sāmaveda
+
+[[P6]]
+
+does not take a primary position in the Pravargya. But to say, as van Buitenen does, that it was not a Sāmavedic rite is probably not justifiable; see the discussion in Kashikar, "Apropos":8-10.
+
+7 Cf. KathĀ 2, 49.+: "The sacrifice is the chariot of the Yajus. This is yoked by the Adhvaryu at the sacrifice (*adhvara*). That is why the Adhvaryu is called Adhvaryu. The Adhvaryu is he who leads all this forward. The Adhvaryu summons the other priests saying 'Do this, do this.'"
+
+sacrificer) look reverentially at the vessel and recite a certain group of formulas. The wife pronounces the last formula of this group.
+
+c. The cow and the goat are milked. Their milk is poured into the hot Pravargya vessel. It is taken to the Āhavanīya fire where the Gharma offering to the Aśvins is made. The vessel is made to overflow in all directions. The remnants are used for an Agnihotra offering and eventually the participants partake of the milk. After this, the vessel and other implements are placed back on the throne.
+
+d. After the last Pravargya performance, the implements are solemnly disposed of, normally at the Uttaravedi. The vessels and other implements can be laid down in the form of a man or in the shape of the orb of the sun. Several sāmans are sung by all participants (including the wife).
+
+The sacrifice is performed on behalf of the sacrificer (*yájamāna),* by the Adhvaryu and his assistant the Pratiprasthātṛ (belonging to the Yajurveda), the Hotṛ (belonging to the Ṛgveda), the Prastotṛ (belonging to the Sāmaveda), the Agnīdh and the Brahmán (belonging to the Atharvaveda or to any Veda). Our text, Taittirīya Āraṇyaka 5, is primarily concerned with the Yajurvedic office of the Adhvaryu and his assistant. While the Hotṛ and the Prastotṛ take care of most of the recitations and chants, the Adhvaryu is the practical organizer of the sacrifice: he collects and prepares the materials, conducts the activities, and summons the Hotṛ and Prastotṛ to recite and sing.⁷ The Adhvaryu also has his own texts to be recited. These are mainly prose formulas, but contain metrical portions too. A few passages are to be chanted. The Brahmán is mainly a silent witness. His permission must be asked to start *7* Cf. KaṭhĀ 2, 49+: "The sacrifice is the chariot of the Yajus. This is yoked by the Adhvaryu at the sacrifice (*adhvara*). That is why the Adhvaryu is called Adhvaryu. The Adhvaryu is he who leads all this forward. The Adhvaryu summons the other priests saying 'Do this, do this.””
+
+[[P7]]
+
+important parts of the sacrifice.⁸ The sacrificer invites all the priests and bears the expenses.
+
+## 3 Interpretation of the Pravargya⁹
+
+While the Śrauta Sūtras give a more or less technical description of the rites discussed, they presuppose the Brāhmaṇa and Āraṇyaka literature in which interpretations and explanations of the ritual acts are given. The mantras to be employed are indicated with a few words, or sometimes given in full (when they do not occur in the Saṃhitās). In this branch of the Vedic literature it becomes clear that the meaning or interpretation of every minute detail of the ritual was of the utmost importance for the participants. Sometimes, knowledge of the meaning of ritual acts seems to have been even more important than the actual performance of the acts.¹⁰
+
+8 For the function of this priest see note 110 to the translation; the Agnīdh is in prac-tice more connected with the function of the Adhvaryu, than with that of the Brahmán, see Oldenberg, *Die* Religion:384, note 4, 389; cf. Krick, Feuergründung-272, note 676.
+
+9 The works mentioned in note 3 above discuss also the interpretation of the Pravargya (with the exception of the *Śrautakośa* and Staal's Agni). See moreover Rönnow, "Zur Erklärung des Pravargya etc."; and Heesterman, "The Case of the Severed Head" in: *Essays* in *Indian* Ritual*, Kingship and* Society, Chicago 1985.
+
+10 The right effect of a rite accrues only to him *yá evám véda*, who knows the right implications of the ritual acts in the microcosmic and macrocosmic spheres. ŚB 13, 6, 1, 1 promises the results of the performance of the Puruṣamedha to him "who even (only) knows this": he "overpasses all beings, and becomes everything here." And, as Weber observed *(IS* 10 (1868): 110), in SB 11, 2, *7,* 11 the mere knowledge of certain ritual views or formulas ("die blosse Kunde gewisser ritueller Anschauungen oder Sprüche”) gives among other things *brahmavarcasá* (see note 31 to the translation) to the knower.
+
+[[P8]]
+
+The essential meaningfulness¹¹ of Vedic ritual does not imply that all ancient authorities completely agreed with each other on all details of a rite. Indeed, to a considerable extent we owe the elaborateness of the Brāhmaṇas to the differences in the interpretation of ritual acts by different authorities and the discussions that took place. The rites discussed in the Brāhmaṇas are almost exclusively solemn services. It is not strange that the need for a systematic discussion first arose here. While these complicated and often expensive rites were held to be of a great importance, their performers were no doubt not very numerous. In some cases the performances were rather exceptional. Uncertainties about the performances could easily arise in such a situation, and with that, the need for a systematic discussion. It is not improbable that, alongside these solemn services, there was a repertoire of daily house rites and customs, widely spread among the Vedic people, that was so firmly established that there was no need to discuss elements of this
+
+11 According to F. Staal, Vedic ritual is essentially meaningless (e.g. “The Meaninglessness of Ritual," Numen, 26, fasc. 1). To leave out meaning in this way may be convenient in a technical (if you wish: syntactical) description of ritual. But from the point of view of the early performers of these rites, it certainly does not represent the complete reality adequately The resulting model is not sufficiently rich because important factors are not taken into account.
+
+The idea of the meaninglessness of ritual is not new. Besides Kautsa (referred to in the Nirukta), we may mention Śaṅkara. In Śaṅkaras Advaita Vedanta, we find that there is a meaninglessness (*naiṣkiñcanya*) of the ritual; but nevertheless ritual is not without value: by performing rituals, a person becomes purified and fit for the realisation of the knowledge of the Absolute (Brahman). But if someone desires to know Brahman (if he has *brahma-jijñāsa*) he does not necessarily need to perform Vedic rituals first (see C. Malamoud in the introduction to his translation of TĀ 2, Svādhyāya:61-67). However, what is important here is not whether from some philosophical point of view the ritual and perhaps even every "worldly" action is meaningless or not. We must find an answer to the question whether the ritual was meaningful for the performers themselves and then we should look not only at the time when the ritual was completely fossilized (as is done by Staal in the above mentioned article, p. 3, 4), but, if possible, also at the time when creative, motivated changes took place, i.e. the time when the Brāhmaṇas took shape. Doing this, we will see that the rites were generally considered to be quite meaningful.
+
+[[P9]]
+
+unproblematic basic language of rite and custom.¹² The influences of cultural renewals and confrontations became more powerful only in a later epoch: the need to discuss these house rites as well grew, and the Grhya Sūtras took concrete shape. The problematic cases in the interpretation of elements and aspects of the Śrauta rituals (the solemn services) are most important in order to understand the reasoning of the Brāhmaṇical authors and their contemporaries. They may perhaps even give us an idea of the underlying unproblematic basic language of rite and custom as it existed in their days, viewed, it is true, through the eyes of those authors. In this context a detailed study of the Brāhmaṇa and Āraṇyaka texts, which discuss these rites, is of the utmost importance.
+
+In a modern discussion of the interpretation of ancient rites like the Pravargya, we have to distinguish first between (a) the complete rite as it was performed and experienced by the ancient participants; (b) the rite as we find it in the Brāhmaṇas and Āraṇyakas; and (c) the interpretations of modern scholars. It is clear that our conclusions regarding the first aspect of the Pravargya can be only very tentative.¹³ A further distinction is to be made within b. The interpretations by the author of the Brāhmaṇa or
+
+12 Both language and ritual may be considered to be systems of "signs expressing ideas" (F. de Saussure, Cours de Linguistique *Générale*:33). Cf. S. Al-George, in "L'Inde Antique et les Origines du Structuralisme,” (Actes du *Xième* Congres International de Linguistes 1970, II:238): “L'Acte rituel est un acte symbolique et, comme tel un acte d'expression rattachable à un système sémiologique, ainsi que l'a qualifié Ferdinand de Saussure.” (“The ritual\_act is a symbolic act and, as such, an expressive act that can be related to a semiological system as qualified by Ferdinand de Saussure.")
+
+13 The impossibility of a complete explanation of a ritual performance can be compared to some extent with the impossibility of explaining performing arts like dancing. Compare Isidore Duncan's saying (quoted by F. Staal in the article mentioned in note 11): "If I could tell you what it meant, there would be no point in dancing it." This saying obviously indicates a meaningfulness of the performance, rather than its meaninglessness (as Staal suggests). The full meaning of a ritual and of an artistic performance can only be expressed by the performance itself. An analysis of the performance may increase our ability to appreciate it, but can never express the full meaning as a whole.
+
+[[P10]]
+
+Āraṇyaka may differ in important respects from the interpretations by those who established the rituals discussed, and introduced the mantras.
+
+The latter interpretations should become clear from a study of the general structure of the rite. In the case of the Pravargya we will see that the interpretation of one Brāhmaṇa author seems to correspond less with the "original" interpretation than that of other authors. Lastly, it may be asked to what extent the way in which the mantras are used in the rite, corresponds with the original intention of the poets who created those mantras.¹⁴ In this introduction, there is no room to give a complete explanation of the Pravargya from all these points of view, or to discuss completely all relevant interpretations of other scholars (the reader is referred to the works mentioned in notes 3 and 9 to this introduction). Having given the outlines of the Pravargya rite (in sections 1 and 2) and having mentioned some general principles that should not be lost sight of in the interpretation, I prefer now to point out, on the basis of the Brāhmaṇa and Āraṇyaka sources and the content of the mantras,¹⁵ some aspects of this rite that have not received enough attention from previous scholars.
+
+## 3.1 The Pravargya and the Sun
+
+All Yajurveda Brāhmaṇa and Āraṇyaka sources agree in connecting the Pravargya ceremony with the sun. The rite and the most important object, the vessel, are frequently identified with the sun. Although by way of certain (sometimes optional) acts several concrete, exterior aims could be pursued, the main purpose of this rite was rather to bring about some more or less abstract results in the participants. Modern interpreters generally agree that the ritual of the Pravargya was considered to be "ein
+
+14 Cf. Gonda, "Pravargya Mantras":236.
+
+15 In this latter field we find an important contribution in Gonda's article "Pravargya Mantras," see under Abbreviations.
+
+[[P11]]
+
+Mittel, dem Opferer Anteil an den Sonnenglut zu verleihen."¹⁶ "Die Hitze des Gluttranks stellt die Sonnenhitze dar; das Opfer soll diese sichern, stärken, vor allem aber sie dem Opferer zugute kommen lassen."¹⁷ There is less consensus on the question as to whether the rite was expected to have some magical effects on the sun or other (personified) natural phenomena. According to Oldenberg, the Pravargya was performed to strengthen the sun, so that it may come safely through the rainy season. According to Lüders, who sometimes seems to have got trapped in his own interpretational theories, the Pravargya had to strengthen not the sun but the "celestial fluid," represented by the hot milk in the heated vessel. This would have been necessary in the dry and hot times before the rainy season. Van Buitenen (*Pravargya*:33) did not agree with Lüders because "both the ritual itself as well as the special dikṣā for it show conspicuously the incompatibility of Pravargya and moisture.” Kashikar, without adding new arguments, chooses for Lüders' explanation (“Apropos”:6-8).
+
+From a study of the TĀ 5 it appears that, in the eyes of its author, the Pravargya was mainly directed to the sun.¹⁸ It aimed at giving the participants the power and lustre of the sun. At the same time several elements were built into the rite to protect them against the detrimental effects of too great an absorption of "solar energy." We get a similar picture of a rite that is directed to the sun from the texts that are most
+
+16 "a means to give the sacrificer a share in the glow of the sun” (Gonda, Religionen, 1:153).
+
+17 "The heat of the hot beverage represents the heat of the sun; the sacrifice should secure it, strengthen it, but, above all, the sacrifice should let it benefit the sacrificer" (Oldenberg, *Die* Religion:448).
+
+18 It was realized by the Vedic people that the sun played an important role in the production of rain, and in this sense rain was one of the side-issues of the rite (see note 96 to the translation). For him who wanted to stress this point, there was a special option (TĀ 5, 10, 6). But the lustre and heat of the sun, and, consequently, the avoidance of rain, rainclouds and moisture during the performance are the most important characteristics of the Pravargya. Other purposes of the Pravargya that are, like the rain-magic, not specific for this rite, are the furtherance of fertility (TĀ 5, 6, 12 end) and the getting rid of the enemy "who hates us and whom we hate” (e.g. TĀ 5, 8, 7; 5, 10, 5).
+
+[[P12]]
+
+* closely parallel: SB 14 and KaṭhĀ 2 and 3. The most striking difference between the KaṭhĀ and the other two texts is that in the former the sun, called "Rudra Mahāvīra," is represented mainly in its dangerous and fearful aspects.
+
+While KauṣB 8, 3-7 agrees with the other sources in frequently identifying the Pravargya vessel and sacrifice with the sun,¹⁹ the other Ṛgvedic Brāhmaṇa, AiB, stands isolated²⁰ in never explicitly connecting the vessel or the rite with this heavenly body. Instead, the Pravargya is explained as a *devamithuna*, a "divine pairing”: Agni or the sacrifice is the devayoni, the "divine womb," from which the sacrificer is reborn. The passage (AiB 1, 22) runs as follows: "The Gharma (sacrifice) is a divine pairing; the Gharma (vessel) is the member, the two tongs the testicles, the supporting vessel the bowl of the buttocks, the milk the seed; this seed is poured in Agni as the divine womb, for the sake of procreation. . . . He is born from the divine womb, the fire, out of the oblations." The theme of Agni or the sacrifice as *devayoni*, the “divine womb," from which the sacrificer is (re)born, is a favourite one to the author of this Brāhmaṇa.²¹ But in the context of the Pravargya an explanation along these lines seems not to be able to account for important points in this performance. The explanation as found in other sources, where the Pravargya is connected with the sun and gives its lustre and power to the participants, is, as we will see, much more consistent with the rite as a whole.
+
+Turning now to the mantras used in the Pravargya, we will see that there are important connections with the sun here, a fact that corresponds with the frequent identifications with the sun in the Yajurveda Brāhmaṇas and Āraṇyakas. The relationship with the sun is not as explicit as in those explanatory texts. But a connection with the sun cannot be 19
+
+19 E.g. in the phrase "The Mahāvīra is he yonder that gives heat."
+
+20 Leaving apart the very short reference to the Pravargya in PB 7, 5, 6, only GB 2, 2, 6 follows AiB in this respect (and in many other respects); GB 2, 2, 6 has AiB 1, 18 and the end of 1, 22 almost verbatim.
+
+21 Cf. AiB 2, 3; 2, 14; 3, 19; 6, 9 and 6, 29.
+
+[[P13]]
+
+denied in cases like: "you are sun(-light) (*súvar*), give me sun(-light)” (TĀ 4, 8, 4(22f)), and “Agni (the Pravargya vessel) comes together with Agni (the sun)" (TĀ 4, 7, 1(3a)). The Gandharva mantras,²² praising the Pravargya as the celestial Gandharva, are most probably introduced into the rite because of the connection and sometimes even identification of the Gandharva with the sun. However, many mantras that are connected with the sun can only be interpreted in the context of the well-known imagery of the sun as the "light of inner vision." When the Pravargya vessel on the fire is red-hot, there is a long recitation by the Hotṛ, which starts with RV 10, 177.²³ There are no serious difficulties in following Gonda in his remark that this hymn "deals with the inner light of the visionary illumination and perception," and that its stanzas "may have served to destroy spiritual ignorance."²⁴ The third and last stanza of this hymn is used as the first of the Avakāśa mantras,²⁵ which are to be recited by the sacrificer together with all the priests after the fanning, while looking reverentially at the glowing vessel (TĀ 5, 6, 4). In some of the subsequent Avakāśa mantras the Pravargya is praised as "lord of the whole mind," as the "father of hymns (māti-s),"²⁶ as the "thought (máti*)* of the inspired poets." In one of the above-mentioned Gandharva
+
+22 TĀ 4, 11, 5(13)ff; see note 141 to the translation.
+
+23 "The inspired ones see the bird (i.e. the light of insight and inspiration) with their heart; the inspired poets see it in the midst of the ocean while tracing the track of the rays. The bird, the Gandharva, bears the word in his mind and speaks it within the womb; the inspired seers guard this inspired thought which is bright-like-lightning, and is of the nature of the light of heaven at the abode of ṛta. I saw the herdsman wandering hither and thither on his pathways, without lying down. He envelops himself in those (waters) that converge and in those that spread out; he revolves in all beings" (Gonda, *Vision*:28, 31, 32, 178, 277, 281). Our Āraṇyaka interprets the last verse, recited as the first of the Avakāśa mantras, in a macrocosmic context as the sun and in a microcosmic context as prāṇa (TĀ 5, 6, 4).
+
+24 Gonda, "Pravargya Mantras”:238; cf. Geldner, *RVübers*, 3:389, introductory note to the hymn; and Gonda, *Vision:*91.
+
+25 See note 79 to the translation.
+
+26 See note 77 to the translation.
+
+[[P14]]
+
+* mantras, the Gandharva-Sun is expected to "stimulate or promote 'visions' and to assist or favour them."²⁷ The first mantra uttered by the Hotṛ, the first verse of the Brahma-jajñānam hymn, is often and not without reason connected with the sun, that rises in the east. Still, Gonda's more abstract translation is very defensible: "the seer (Seer) has unveiled the brahman that had, of old, first come into existence from the wellshining boundary; he has revealed its fundamental (and) highest places, the womb of the existent and of the non-existent" (Vision:357). In reference to this verse, Gonda suggests that the "boundary refers to the borderland between the phenomenal and the transcendent which is momentarily crossed by the seer when the light of vision comes to him.” *(Vision*:357). In the peace-recitation that concludes each performance, there is, by way of the (personified physical) sun, a reference to the imagery of the sun of inner light arising from the ocean in the heart: “The one that arises from the wide ocean, shining wide from the middle of the water, may he sun and seer, purify me with thought.”²⁸ We can also compare TĀ 4, 11, 6(17): "You are Thought, with the ocean as birthplace." It may be noted that, according to F. B. J. Kuiper, "The Bliss of Aša":125, "The Ṛgvedic seer gets his vision with or in his heart. This heart is equated to the cosmic mountain and its subterranean ocean.” mantras contrast with but do not necessarily contradict the connection of the Pravargya with the (spiritual) sun. In the next section, I will make a
+
+27 TĀ 4, 11, 8(19d); Gonda, *Vision*:91.
+
+28 TĀ 4, 42; van Buitenen, *Pravargya*:123.
+
+[[P15]]
+
+few observations on the important but complicated relation between Soma and this rite. can be The connection between the Pravargya and the sun maintained if the mantras used in this rite are studied more closely.
+
+However, this connection with the sun should be considered to exist primarily in the context of a cultivation of spiritual experiences or even, to quote the words F. B. J. Kuiper used in a comparable context, of “an old Vedic tradition of meditative practices" ("The Bliss of Aša":125). All this fits in very well with the special "mystery" character of this rite: its mantras were studied while special observances were to be followed;²⁹ it is connected with the mysterious *madhu*, that was proclaimed by Dadhyañc to the Aśvins;³⁰ it is called (or included in what is called) Āraṇya Svādhyāya in MŚS 4, 8, 1; and KaṭhĀ 3, 229+ makes mention of the *pravargyopaniṣád*, the "Geheimlehre" of the Pravargya; the Taittirīyas and the Kaṭhas have placed the Pravargya sections in their Āraṇyakas; according to the author of the SB, the Pravargya should not be taught "to any and every one, since that would be sinful .. : but one may teach it to one who is known to him, and who has studied sacred writ, and who may be dear to him, but not to any and every one" (Eggeling, Ś*Btransl* 14, 1, 1, 26). Nor should the Pravargya be *performed* for any and every one, “lest he should do everything for every one, for the Pravargya is everything; but let him perform it *for* him who is known, or to whoever +
+
+29 TĀ 5, 8, 13; L.Renou, Écoles Védiques:149: "C'est le rite Pravargya qui ouvre le «mystère» (*rahasya)* ou, comme on dit aussi dans ces traditions, le *śukriya(vrata).*”(“It is the Pravargya rite that opens the <<mystery» (*rahasya),* or, as is also said in these traditions, the *śukriya(*vrata).”); cf. below, section 3.3.
+
+30 This connection is not a "novel association" by the author of the SB (thus van Buitenen, Pravargya:21, 22), It is not correct that no mantras referring to Dadhyañc are used in the Pravargya *(*Pravargya:18): the Kaṭhas prescribe a mantra, KaṭhĀ 3, 226 (approximately RV 1, 116, 12), that refers to the *madhu* proclaimed by the mythical Dadhyañc to the Aśvins. In Bṛhad*-*Āraṇyaka-Upaniṣad (BĀU) 2, 5, 1-19, *mádhu* is explained as a mystical "sweet" doctrine. The simplistic interpretation that Dadhyañc declared to the Aśvins the knowledge of how to use honey in the ritual (Keith, *Religion* 1:225) does not seem very attractive.
+
+[[P16]]
+
+* may be dear to him, or who has studied sacred writ" (J. Eggeling, ŚBtransl 14, 2, 2, 46).
+
+## 3.2 The Pravargya and Soma
+
+In the Śrauta rituals, the Pravargya is only described as an optional, introductory rite for the Agniṣṭoma, i.e. for the regular Soma sacrifice. The central part is formed by the offering of a heated milk-mixture, the Gharma, to the Aśvins. Afterwards, the concelebrants of the rite also partake of the beverage. The relation of this rite with its "big brother", the Agniṣṭoma is somewhat complicated. The vessel in which the milk is to be heated receives, like the Soma stalks, a wooden throne. The Pravargya throne is called "Emperor's Throne", a more dignified name than Soma's "King's Throne". The importance attached to both the Soma and the Gharma beverage, already in the earliest sources and coming clearly to the fore in the ritual, made the ritualists of some circles discuss whether the throne for the Emperor Gharma should be higher or that for King Soma (ĀpŚS 15, 5, 7). The story of Makha in the first anuvāka of TĀ 5 presents the Pravargya as the "Head of the Sacrifice," without which the Agniṣṭoma does not yield the desired results. And yet, a sacrificer's first Agniṣṭoma must not include the Pravargya, probably because there must first be a "body" before the "head" of the sacrifice can be attached to it. KB 8, 3 makes an exception for the sacrificer who is himself a “learned Brahman": he is allowed to perform the Pravargya even at his first sacrifice.
+
+Some aspects of the relation between the Pravargya and the Soma sacrifice can perhaps be explained by stating that there are elements in the Pravargya that are to give this rite a higher status by stressing its similarity or even superiority to the Soma sacrifice, the latter being the most important sacrifice in Vedic ritual from the times of the Ṛgveda
+
+[[P17]]
+
+onwards.³¹ But we will see below that the relation is both more intimate and more complicated than this.
+
+In the Soma sacrifice, the Soma is object and instrument of the sacrifice (respectively the Soma as god and the Soma beverage as oblation to the gods); Soma is moreover a "secondary instrument” in the form of the Soma-stalks, which contain the basis of the Soma beverage. Likewise, in the Pravargya ritual, the Gharma is object and instrument of the sacrifice (respectively the Gharma as god and the Gharma beverage as oblation to the gods); Gharma is moreover a "secondary instrument,” inasmuch as the vessel in which the Gharma will be heated is also called Gharma. Both the Gharma or Pravargya vessels and the Soma stalks receive a wooden throne. The mantras that praise the Gharma as object and instrument of worship exhibit several similarities with Soma mantras.
+
+Several aspects of the Pravargya, which were considered by van Buitenen as indications of a Pūjā-character of the rite, can be much better explained in connection with their similarities with the Soma sacrifice and its mantras.³² Moreover, van Buitenen's interpretation of the vessel as an anthropomorphic image, connected with the supposed Pūjā-character of the rite, is not very convincing.³³ Like in other Vedic rites, the symbolism in the Pravargya is rather abstract. Only during the disposal of the Pravargya there is, as one of the options, the disposal of the implements in the form of a man (Mahāvīra), who is by no means represented realistically.
+
+31 Cf. Thite, *Sacrifice*:49-54, 128.
+
+32 See van Buitenen, *Pravargya*:23-28; and Kashikar, "Apropos”:4-6.
+
+33 Cf. Rau, Töpferei:72: "Was pp. 9-12 und 59-62 besagter Arbeit [sc. van Buitenen, *Pravargya*] über die Form des mahāvīra vermutet wird, dūrfte sich kaum halten lassen.” ("What has been surmised on pp. 9-12 and 59-62 of the above mentioned work [sc. van Buitenen, *Pravargya*] about the shape of the *mahavira*, would be hardly tenable"). By the same token, the ancient descriptions of the Pravargya do not warrant the conclusions of Bandhari, "Pravargya Mahāvīra and Idols", *Journal of the Asiatic* Society of Bombay*,* vol. 52/53 1977-78 (1981):25-31.
+
+[[P18]]
+
+* * Apart from being a form of worship, the Soma sacrifice has a magical aspect, in its function as a rain-bringing rite. This aspect is, however, not the main object of the rite but rather a side-issue, as was already recognized by Oldenberg (*Die Religion*:456),³⁴ But there were "magical" effects on another level that were probably far more important. In the Soma mantras, much attention is paid to the relation of the Soma pressing, with what is going on at this other level. The drops of Soma, pressed from the stalks and purified through sieves, are treated in the hymns as if they are somehow parallel to the inspired thoughts that arise and are purified in the minds and hearts of the Vedic poets. In a publication devoted to the study of the Vedic poets and the creative processes in which their hymns were produced, Gonda observes, in connection with the ritual Soma hymns, that "the god who, as the material soma, undergoes in the course of sacrificial ceremonies, a process of clarification, and who, at the same time, is the inspirer of thoughts, is believed to be the power presiding over clarification and to bring about that process with regard to the inspired thoughts which, while being received by the 'poet' in his heart, are transformed into liturgical words which in their turn are to accompany oblations of the soma juice and to make these effective” (Gonda, *Vision*:279).
+
+While in the Pravargya no Soma is pressed, several verses in praise of the Soma have found an important place in the Pravargya, and more than once a sāman is built on a verse from the Soma Pavamāna hymn cycle. Some may consider this to be a clear example of borrowing mantras from a different rite in such a way that the original meaning of the mantra is neglected or strained in its new application. But it has been rightly observed that e.g. RV 9, 83 from the ninth or Soma Maṇḍala, was already in early times connected with the Pravargya (Gonda "Pravargya Mantras":254). RV 9, 73, forming part of the Hotṛ's recitation during the fanning of the Pravargya vessel, is not used in other rites. RV 8, 9, 4 and 7 call the Gharma offering to the Aśvins "Soma”. Note that, apart from the Soma sacrifice, the Gharma milk offering to the Aśvins is perhaps the
+
+34 See also e.g. Keith, *TStransl*:cxx.
+
+[[P19]]
+
+only rite rather frequently and explicitly referred to in the Ṛgveda. The mysterious Soma and the rather trivial milk-and-ghee mixture of the Gharma, both being characterized as "sweet" (*mádhu*), are treated in these hymns as having similar properties to a considerable extent.
+
+Whatever the biological identity of the Soma plant may appear to be,³⁵ it should not be overlooked that the oldest Vedic texts consider the mantras and chants indispensable "ingredients" in the preparation of the Soma beverage.³⁶ We see that in an actual ritual performance connected with the Soma beverage (like the 1975 Agnicayana performance documented by F. Staal), a most important place is taken by the well-recited mantras and properly sung sāmans. In the Pravargya, the physical
+
+35 Although the problem of the identity of the Soma was recognized by European scholars from the beginning, Wasson was probably the first to take the Soma-experiences described in the RV seriously (R. G. Wasson, Soma, *Divine* *Mushroom of Immortality,* The Hague-New York, 1968). On the basis of his knowledge of plants and their possible effects on the nervous system, he arrived at the conclusion that Soma must have been the Fly Agaric (Amanita muscaria). The reactions of specialists were mixed. It was especially J. Brough who discussed Wasson's identification of the Soma-plant thoroughly. In "Soma and Amanita muscaria*"*, *Bulletin of the School of* Oriental *and African* Studies, 34 (1971):331-362 and "Problems of the «Soma-mushroom» Theory”, *Indologica* Taurinensia 1 (1973):21-32, he showed that there is not much textual evidence to support his argument. Nevertheless, many scholars still recognize Wasson's hypothesis as a very acceptable one (e.g. Gonda*,* Religionen*,* (second ed.)1:362, note 82; Staal, *Agni* 1:105-113; R. Stuhrman in IIJ 28 (1985):85-93).
+
+As early as in the times of the Brāhmaṇas and Śrauta Sūtras, many substitutes were mentioned for the Soma, among other things the Pūtika plant. In the Pravargya ceremony this plant is added to the clay from which the vessels are formed. Critics have mentioned the fact that none of the substitutes for Soma were mushrooms as one of the weak points of Wasson's Soma-mushroom theory. Mostly they are creepers. Kramrisch's identification of this Pūtika with a mushroom called Putka with the Santals in: "The Mahāvīra and the Plant Pūtika", has therefore been welcomed as an important fortification of this theory. However, from the text that is translated here (referred to by Kramrisch) it is clear that the Pūtika, though probably not a creeper, can hardly have been a mushroom. See note 25 to the translation and the TĀ paragraph to which it refers.
+
+36 cf. RV 7, 26, 1: *ná* sóma índram *ásuto* mamāda, nábrahmāṇo *maghávānam sutásaḥ*. "The unpressed Soma has never intoxicated Indra, nor *the* pressed *juices unaccompanied* by sacred *hymns*”.
+
+[[P20]]
+
+* ingredient of the inebriating Soma juice, pressed from the mysterious stalks, is missing. Instead, we have a milk-and-ghee mixture, that in itself will have few psychotropic effects. But the less material ingredients are present. Perhaps, they were thought to bring about in the properly prepared participants experiences similar to those brought about - no doubt in a more intense way - by consuming the Soma beverage. Note that, in the normal case when the Pravargya forms part of the Agniṣṭoma, the sacrificer has started to follow certain observances (comprising restrictions in speaking and eating) on the day before the performances, and that the priests, if they were good Brahmins, followed their own rules of life. For the Avāntaradīkṣā as a preparation on the Pravargya see section 3.3 below. Be that as it may, what Gonda proposed very cautiously, while discussing the occurrence of the Soma hymn RV 9, 73 among the Pravargya-mantras, seems to be entirely acceptable, sc. "that those who introduced the sūkta into the *pravargya* litany, while regarding the heating of the Mahāvīra and the clarification of the soma as parallels, wished to bring about by means of its recitation an analogous psychical process” (Gonda, "Pravargya Mantras":255).
+
+Considered this way, the relation that exists between the Pravargya and Soma does not contradict the Pravargya's connection with the sun, but rather complements it.
+
+[[P21]]
+
+## 3.3 The Pravargya and the Intermediate Initiation
+
+(avāntaradīkṣā) A remarkable aspect of the Pravargya is that it is connected with special rules or observances to be followed by those who wish to study its mantras. The observances belong to the Avāntaradīkṣā or Intermediate Initiation. For a description and discussion mainly based on the Śrauta Sūtra sources see van Buitenen, Pravargya:137-141 and 38-41. Improvements in the understanding of this rite have been brought forward by C. G. Kashikar: "The Avāntaradīkṣā of Pravargya” (*BDCRI,* 35.3-4 (1976): 66-72).³⁷ The Avāntaradīkṣā that is to be followed when the Pravargya mantras are learned (Avāntaradīkṣāp) should be distinguished from the part of the Dīkṣā³⁸ belonging to the Soma sacrifice that has the same name. This latter Avāntaradīkṣā (Avāntaradīkṣā,) takes place immediately before the actual Soma pressing. While during the Dīkṣā the sacrificer is, in the symbolism of the Brāhmaṇas, identified with an embryo that should be reborn in the sacrifice, he and his wife have to follow certain observances: they restrain their speech, they consume only certain things like milk, gruel, ghee in restricted quantities. The Dīkṣā may last a few days but also a month or a whole year, "until the sacrificer has become lean." During the Avāntaradīkṣā, the observances become a little more severe; only hot food is consumed, the sacrificer tightens his girdle more tightly. The Dikṣa and Avāntaradīkṣā, of the
+
+37 In spite of the efforts in this field of (especially) van Buitenen and Kashikar, there are still important problems in the exact interpretation of the Avāntaradīkṣā. Neither van Buitenen nor Kashikar made use of the KaṭhĀ that contains important fragments on the Avāntaradīkṣā (KaṭhĀ 3, 155+; 3, 198-207; 3, 219+). The problem of the interpretation of TĀ 5, 8, 13 in relation to the Avāntaradīkṣā was not observed by previous scholars. See below, and note 130 to the translation. For the KaṭhĀ see note 73.
+
+38 See in general Gonda, Change *and Continuity*:315-377; cf. Staal, *Agni* 1:331-333. For the etymology of the word: Minard, Énigmes, 2:263-4. For the Dīkṣā of the Soma sacrifice see: *Śrautakośa*, vol. 2, Sanskrit:27-43; 518-522; vol. 2, English pt. 1:67-100. For the Avantaradikṣa of the Soma sacrifice see: Śrautakośa, vol. 2, Sanskrit:530 (under: “*14.ātithyeṣtyādi”*); vol. 2, English pt. 1:151-162.
+
+[[P22]]
+
+Soma sacrifice are an immediate preparation of the sacrificer for the sacrifice.³⁹ The Avāntaradīkṣā, connected with the Pravargya ceremony, on the other hand, is undergone by the Veda student, the Brahmacarin, when he has arrived at the point where the Pravargya mantras are to be studied. This Avāntaradīkṣā, takes place outside the immediate context of a sacrifice. In this respect Kashikar was right when he stated that it was not the priest or the sacrificer who followed the observances of this Avantaradikṣāp, but the pupil who desired to study the Pravargya mantras and their Brāhmaṇa by the side of his teacher.⁴⁰ The study of different portions of the Veda is connected with different vratá-s, observances or rules of life. The Pravargya mantras and Brāhmaṇa form part of the so-called Saumya Kanda, the study of which is connected with the Śukriyavrata.⁴¹ When the Pravargya is to be studied the pupil adopts, •
+
+39 Dīkṣā and tapas (“ascesis”) are often mentioned together, see Gonda, Religionen 1:109; Change and Continuity:340ff. Is *gharmásya vraténa* in AV 4, 11, 6d *(*gharmasya vraténa tápasā) a reference to an early form of the Avāntaradīkṣā,? If so, we have here an early text-place in which the Avāntaradīkṣā, and tapas are mentioned in one breath.
+
+40 The observances were no doubt, as far as possible and useful, also followed by the teacher, see SB 14, 1, 1, 29. KaṭhĀ 3, 199ff, probably still referring to the Avāntaradīkṣāp, uses the dual: "They both put long life etc. in themselves". Van Buitenen suggests *(Pravargya*:39) that it was possibly the professional priest who underwent the year-long initiation as a specific preparation to the Pravargya sacrifice, which does not seem very attractive. About the possibility that it was originally also the sacrificer who underwent the Avāntaradīkṣā, see below. Yet, to translate the Avāntaradīkṣā, portions of the Śrauta Sūtras (the texts in which this possibility is not specifically mentioned) in such a way that it is the sacrificer who undergoes the initiation and follows the observances, is certainly not recommendable. This is done by Dandekar in the *Śrautakośa*, vol. 2, English Section, part 1:18-28. Caland translates with "Schüler" ("student"), which as a general translation is more acceptable than Dandekar's "sacrificer" (Caland *ApŚ*Sübers:463- 467).
+
+41 The Śukriyavrata is described in the Gṛhyasutras of the Taittirīyas, e.g. BaudhGS 3, 2, 3f; BharGS 3, 6f. See note 153 to the translation. For the Saumya Kānda see section
+
+5 below.
+
+[[P23]]
+
+within the already adopted Śukriyavrata, another vrata that is for some reason not called Avāntaravrata but Avāntaradīkṣā.⁴² In the text that has been translated here (TĀ 5), there is only a short reference to the observances that are to be followed by one studying the Pravargya mantras. The passage is found in TĀ 5, 8, 13 and immediately followed by a mythical passage that explains the relation of the observances with the recitation of the mantras. The observances as they are found in our text are less elaborate than those that are prescribed by the Śrauta Sūtras for the Avāntaradīkṣā, Problematic is, that in this passage the author of the TĀ does not seem to address the Brahmacārin.⁴³ It is therefore not impossible that the commentator Sāyaṇa is right when he takes the sacrificer (*yájamāna*) as the one who follows these observances that are meant for "one who undertakes the study of the Pravargya."⁴⁴ In that case, the Pravargya observances mentioned in TĀ 5, 8, 13 become similar to the Agnisṭoma Dīkṣā and Avāntaradīkṣā, in that they are all followed by the sacrificer. As it is, several formulae and other elements are held in common. If the prescribed period of one year can be compressed into a few days that symbolically represent the whole year (cf. SB 14, 1, 1, 28), the similarity with the Dīkṣā and Avāntaradīkṣā, for the Agniṣṭoma is still greater. In KaṭhĀ 2, 198+, the Avantaradikṣāp is compared with the Dīkṣā in a way that is very similar to the comparison of the Dīkṣā and Avāntaradīkṣā, in TS 6, 2, 2, *7.* If these observances, connected with the study of the Pravargya mantras and to be followed by the pupil when he learns these mantras, could be followed by the sacrificer too, they would indeed be worthy of the name "Avāntaradīkṣā” (rather than "Avāntaravrata”).⁴⁵ It may be surmised that the observances of TĀ 5, 8, 13 were to be followed by those sacrificers (e.g. Rājanyas) who
+
+42 Kashikar, “Avāntaradīkṣā”.
+
+43 See note 130 to the translation.
+
+44 pravargyādhyāyenānuṣṭhānam *kurvatā puruṣeṇa pūrvoktam etad vratam caraniyam* (Sāyaṇa on TĀ 5, 8, 13).
+
+45 See also note 11 to the translation.
+
+[[P24]]
+
+* had not yet studied the Pravargya mantras during their Brahmacārintime.
+
+Our passage, TĀ 5, 8, 13, is cited by almost all Śrauta Sūtras (e.g. BSS 9,12; ĀpŚS 15, 12, 13). But, curiously enough, this does not take place in the context of the discussion of the Avāntaradīkṣāp. And, more curious still, it is cited in such a way that one interprets the passage as prescribing observances to be followed by the sacrificer *after* the performance of the Pravargya sacrifice.⁴⁶ In the Brāhmaṇa and Āraṇyaka sources as far as available, however, no mention is made of observances to be followed after the completion of the Pravargya. The Indian commentators Sāyaṇa and Bhaṭṭa-Bhāskara Miśra, do not mention an interpretation according to which the observances should be followed *after* the sacrifice."⁴⁷ It is clear that the authors of the Śrauta Sūtras reinterpreted TĀ 5, 8, 13; but it is not clear whether they reinterpreted it to support an old, existing practice, or whether the reinterpretation reflected a new development in the rite.⁴⁸ Finally, in the Avāntaradīkṣā, there are again several elements that show the general connection of the Pravargya with the sun. The one who undergoes the Avāntaradīkṣā, should not use an umbrella to protect himself against the sun, according to the SB he should not even cover himself with a garment, "lest he should be concealed from that (sun)” (ŚB
+
+46 Baudhāyana introduces the citation with *pravargyam bhakṣayitva*, Bharadvāja and Apastamba with tena *pravṛjya*.
+
+47 *pravargyānuṣṭhāyi* (S) and *pravargyam* bhakṣayitā (Bh) rather express simultaneity of the observances and the Pravargya performance. This may be understood as follows: the word *pravargya* of these commentators refers to a Pravargya performance that includes a special form of the Avantaradikṣāp, immediately preceding the actual performance and undergone by the sacrificer. S, whose commentary is the most elaborate, clearly connects the observances both with the study of the mantras and with the sacrificer. But even he, though thoroughly acquainted with the Śrauta Sūtras, does not indicate that in these texts the TĀ passage has been interpreted in a way that differs considerably from his own interpretation.
+
+48 A similar rule was to be followed by the sacrificer after the piling of the fire altar: *nágním citvá rāmám úpeyāt* (TS 5, 6, 8, 3e). Cf. Weber, *IS* 10 (1868): 74; 83, 84, n. 3.
+
+[[P25]]
+
+14, 1, 1, 33). The pupil spends the first night blindfolded, not sleeping and in complete silence. The next morning, he is made to look at a few objects, among other things the sun, a fire, a piece of gold and a stark naked woman (*mahānagna*). While the Mahānagnā is, with van Buitenen, "symbolic of the fecundity which the Pravargya seeks to further,” the fire and the gold clearly represent the sun. During the rest of the year he should not use clay vessels, because "die Erdsubstanz ist mit den Toten in fortwährende Berührung."⁴⁹ Now, he should not look at or speak to any-thing or anyone, thus "he puts brilliant energy into himself" (KaṭhĀ 3, 199+). On the moon-phase days he has to fast and abstain from sleeping. As long as he is engaged in the study of the Pravargya, he should not study other things. He should not study (recite) when wet, or in cloudy weather, or in the shade. He eats food preferably in sunlight; in the night the food should be illuminated by fire.
+
+Summarizing, it may be said that in the Avantaradikṣāp the pupil "does not only go through a year of technical studies; he accumulates during this year the personal power of tapas, daily strengthened by the sun with which he entertains such a special relation" (van Buitenen, Pravargya:41).
+
+49 "clay and earth are in continuous contact with the dead", Oldenberg, *Die Religion*: 418. In another context it has been said: "Wenn er es mit etwas Tönernem bedeckte, würden die Vāter (d.h. die Verstorbenen) die Gottheit sein der es gehört." ("If he would cover it with something made of clay, the Fathers (L.e. the Deceased) would be the deity to which it belongs:”) Oldenberg, *Die Religion*: 419. The injunction not to use clay vessels cannot be explained by the "very special significance" ascribed in the Pravargya to “clay vessels, the most important of which, the Mahāvīra, represents the sun.” (van Buitenen, *Pravargya*:40). Clay is used because other materials appeared not to be suitable for a vessel that should be heated red hot. See note 164 to the translation for the "excuse" by which the use of clay is made acceptable by the author of the Pravargya Brāhmaṇa of the Taittirīyas.
+
+[[P26]]
+
+*
+
+## 3.4 The Pravargya myth
+
+In the symbolical explanation of the relation of this Pravargya to other sacrifices, especially its relation to the Agniṣṭoma or regular Soma sacrifice, it is once again the sun that plays an important role, although at first sight this is not clear in the TĀ-version. SB and TĀ introduce here the story of the personified sacrifice (Makha-Viṣṇu) who loses his head.⁵⁰ This myth should be placed in the context of the sacrificial symbolism of the reconstruction of Prajāpati: "the main object of sacrificial per-formances generally is the reconstruction of Prajāpati, the personified universe, and (the divine body of) the Sacrificer" (Eggeling, *SBE* 44, P. xlvii). We can follow Eggeling further when he states that the sun may be considered to be the head of the universe (while the universe is identical with Prajāpati, who is also identified with the sacrifice). The Pravargya vessel, the counterpart of the sun, is the head of Makha-Viṣṇu (sacrifice personified) and the sacrificer; and "this ceremony is thus performed in order to complete the universe and sacrifice, as well as the divine body of the Sacrificer, by supplying them with their head, their crowning-piece, so to speak" (Eggeling, *SBE* 44, p. xlviii).
+
+In the TĀ-version of the myth (anuvāka 1), the sacrifice, personified as Makha Vaiṣṇava, is beheaded and its trunk is divided threefold into the morning, midday and evening pressing. This threefold sacrifice is not effective and needs to be completed with a fourth element: its head. The Aśvins, the physicians of the gods, know how to do this. This head is the Pravargya ceremony, which has to make the regular Soma sacrifice complete. Whereas the SB-version identifies in this myth both the Pravargya that has to complete the sacrifice, and the sacrifice as a whole with the sun (SB 14, 1, 1, 10; 27; 28; 31 and 6; 32 respectively), the connection with the sun is not immediately clear in the TĀ-version. Explicit identifications of the Pravargya and the sun start not before anuvāka 4 of the TĀ. However, an indirect identification may already be .50 For bibliographic references see the introductory note to the first anuvāka (p. 45). For Makha (Vaiṣṇava)/Viṣṇu see note 5 to the translation.
+
+[[P27]]
+
+read into the passage of the myth which has the cut-off head of Makha Vaiṣṇava proceed along the sky. It is the head that will be called the Pravargya later on, and this Pravargya will be identified with the sun.
+
+The closest parallel to the myth in the TĀ is SB 14, 1, 1. Other versions, PB 7, 5, 6; JB 3, 126 (in the story of Cyavana), MS 4, 5, 9 and AiB 1, 18 are very short. The JB section refers to the sun explicitly: "the head which was cut off, that is yonder Āditya (the sun), but it is also the Pravargya." The story in the PB and that in the MS are not connected with the sun, the story in the MS not even with the Pravargya. The AiB section on the Pravargya (1, 18) has the sacrifice crushed (and not beheaded) and afterwards gathered together by the Aśvins. As we would expect (see above, p. 12), the Pravargya is not connected with the sun in the AiB myth. The same is true for GB 2, 2, 6, which follows AiB 1, 18 closely. KauṣB 8, 3, which is parallel to the AiB Pravargya section, has no myth, but does identify the Mahāvīra with the sun. The Pravargya Brāhmaṇa in the KaṭhĀ does not begin with a story like that at the beginning of the SB and TĀ versions. It has only isolated references to the story, which is, moreover, characterized by a remarkable difference: it is not Makha Vaiṣṇava (TĀ) or Viṣṇu (SB) who is beheaded by his own bowstring, but Rudra (KaṭhĀ 3, 207+) or the sacrifice (KaṭhĀ 2, 115+).⁵¹ It is clear that in all these cases the myth has to express the place and importance of the Pravargya ceremony vis-à-vis the regular Soma sacrifice. We cannot maintain that "to ascribe to it any symbolic sense would doubtless be a mistake" (Keith, *Religion:*112).
+
+In the light of these myths, the Pravargya (or Mahāvīra) vessel may be considered as an (aniconic) representation of the head of the sacrifice, rather than, with Kashikar, “Mahāvīra":139, as a "headless human body which had become void of sap." In the macrocosmic sphere, the head of the sacrifice is the sun.
+
+50 For bibliographic references see the introductory note to the first anuvāka (p. 45). For Makha (Vaiṣṇava)/Viṣṇu see note 5 to the translation.
+
+51 Note in this connection that the twin gods that are intimately connected with the Pravargya, the Aśvins, are also closely related to Rudra, see e.g. Geldner, *RVÜbers*. 4:43 under “die Aśvins und die andere Götter."
+
+[[P28]]
+
+* Although the KaṭhĀ does not start with a Pravargya myth like those in the TĀ and SB, it does contain dispersed elements of that myth. The most important KaṭhĀ passages in this connection are KaṭhĀ 3, 207+ and 2, 115. Here it is the head of Rudra, severed from its trunk by the bowstring, that is called Pravargya. Instead of the phrases in the TĀ “yonder Āditya (the sun) is actually the Pravargya" and in the SB "that (sun) is the Pravargya," the Kaṭhas have: "yonder Āditya (the sun) is actually Rudra Mahāvīra." The solar character of Rudra in this Āraṇyaka of the Kaṭhas is noteworthy. Rudra's cut-off head and the Pravargya are also connected in TĀ 1, 5, 5, i.e. in one of the two anuvākas of the TĀ that have been ascribed to the Kaṭhas. The sun is sometimes called Rudra Mahāvīra in those anuvākas.
+
+Because the mantras of the different versions of the Pravargya are to a great extent similar, the question arises whether the connection with the Visnu/Vaiṣṇava myth or that with the Rudra myth is more original. The mantras with "Makha," harmonizing well with the TĀ and SB version of the myth, also occur in the Kaṭha Pravargya mantra collection, but they seem to be out of context there: the Kaṭhas have not given important Brāhmaṇa explanations for them. The KaṭhĀ explains Makha as sacrifice, but does not give him a place in the myth. On the other hand, all versions, except that of the Vājasaneyins, have one mantra in praise of the Pravargya vessel, that only fits the Rudra myth: KaṭhĀ 2, 92 = TĀ 4, 5, 7(17) (= RV 2, 33, 10). Whether one of the two myths was more original and if so which one, we cannot decide, but as from the moment that they both existed there must have been an exchange. On the basis of the existing material the Visnu/Vaiṣṇava myth seems to have emerged from this exchange as more important.
+
+## 4 The Age of the Pravargya Ritual
+
+If we distinguish for a moment between a milk-offering-constituent and a preparation-of-the-vessel-constituent in the Pravargya ritual, we can
+
+[[P29]]
+
+say that the great antiquity of the former element is well established by the frequent references to the Gharma offering in the Ṛgveda (see note 1(b)). According to van Buitenen the two constituents are of a different origin: "While the Vedic Gharma offering may well have been poured out for the Aśvins as an independent little rite, and while the Mahāvīra ceremonial of creating, worshiping and disposing of the clay artifact may well have been a non-Vedic rite in origin, the two rites combined are exclusively known in the context of the Agniṣṭoma” *(Pravargya*:6). In the Pravargya ritual as described in the Śrauta Sūtras this twofold origin is, according to van Buitenen, still clearly discernible *(Pravargya*:23-28). Kashikar, however, basing himself on the same Śrauta Sūtra descriptions of the rite, holds that there is "no reason for regarding the Pravargya as a coalescence of two distinct rites: it is a unitary rite" ("Apropos":6). Gonda does not follow Kashikar and holds that there has been a Ṛgvedic hot milk rite, in which "the Mahāvīra vessel played no part."⁵² The references in verses of the Ṛgveda (and in those of the Khila Sūktas) to the Gharma seem to be, according to Gonda, "not to the Mahāvīra of the elaborate *pravargya* ritual of the Sūtras and Brāhmaṇas but to the vessel in which the milk to be offered to the Aśvins was boiled and to its contents, the hot milk” (Gonda, "Pravargya Mantras":262). According to Gonda, the Mahāvīra vessel may originally have been the subject of a separate rite (Gonda, "Pravargya Mantras":261).
+
+However, the fact that the ceremonial preparation of the vessel belonged to the Adhvaryu's office does not imply that this part of the rite did not exist in the Vedic ritual in the time of the Ṛgveda, nor that it was separate from the milk offering. If we were to assume that the preparation took place in roughly the same way as in the time of the Śrauta Sūtras, we should not be surprised to find few references to this part of the rite in the Ṛgveda, because it did not belong to the Hotṛ's office.
+
+52 Gonda, 1979, "Pravargya Mantras":261. Our text, TĀ 5. prefers to call the vessel “Pravargya.” I also prefer that name, rather than "Mahāvīra” (“Mighty Hero”), because the latter might create the erroneous impression that the vessel was mainly looked upon as an anthropomorphic image.
+
+[[P30]]
+
+Still, there seems to be a rather clear reference to the preparation of the clay vessel by the Adhvaryu in one Ṛgvedic verse: verse 43 of RV 1, 164⁵³ has: "from afar I saw the smoke of dung" (RV 1, 164, 43a). This may well refer to the fumigation of the unbaked clay vessels with the smoke of horse-dung by the Adhvaryu (van Buitenen, *Pravargya*:60, §10). The next pāda, which puzzled several scholars, may refer to the place where this takes place, the Gārhapatya fire, from the point of view of another officiant⁵⁴ or of the sacrificer,⁵⁵ standing at the eastern door and reciting the verse while watching the fumigation of the vessels in the Prācīnavaṃsa. When looked at through the eastern door, the location of the Gārhapatya may be described as “in the middle (i.e., not north or south of a line drawn from the eastern door through the Āhavanīya), on the farther side of this nearer (fire, sc. the Āhavanīya)” (43b). The devatā of pāda c is according to the Anukramaṇī "Soma", but the *ukṣāṇam pṛśnim* that is cooked in this pāda can be consistently interpreted as the milk-and-ghee-mixture (having a spotted appearance) that will be heated as the Gharma. Pāda d places the ritual in a primeval age: "those were the first
+
+53 Sakāmayam dhūmám *rát* apasyam *viṣūvátā* pará ená ávarepa I ukṣāṇam pṛśnim apacanta virás tāni *dhármani* prathamány ásan. Several verses of this hymn refer to the Pravargya ceremony; some verses are actually used in this rite as we know it from the Śrauta Sūtras. The sacrificial setting of the entire hymn is clear from the beginning. From some verses (e.g. 1, 164, 5-7 and 21) we get the impression that the subject is someone who is newly accepted in the circle of Vedic priests. It is probably rather hazardous to draw conclusions concerning the relative age of a hymn within the Ṛgvedic corpus on the basis of an alleged philosophical or popular or hieratical character of a hymn (cf. Gonda, *Vedic* Literature: 26-29). But even if it is assumed that RV 1, 164 is a relatively late hymn (V. Arnold, *Vedic Metre* in *its Historical Development*, Cambridge University Press 1905:269, 273), it represents most probably an older stage than the Pravargya sections of the Taittirīyas, so that the following argumentation will not be affected.
+
+54 E.g. the Hotṛ, whose presence at this stage of the Pravargya rite is not yet required, but who, by the time that the baked vessels are going to be used in the ceremony, will enter through the eastern door of the Prācīnavaṃsa (van Buitenen, *Pravargya*:64, §4).
+
+55 Sāyaṇa, while he takes in 26-27 the Hotṛ as the speaker, ascribes verse 43 to the *yájamāna*. 1, 164, 26-27 are actually recited by the Hotṛ during the Pravargya according to the Śrauta Sūtras (van Buitenen, *Pravargya*:96).
+
+[[P31]]
+
+ordinances." Thus, this interpretation offers a very reasonable solution to one of the riddles of this "riddle-hymn,” a solution that is moreover in accordance with the intimate connection with the Pravargya of other verses of this hymn. Previous scholars were side-tracked because they interpreted *sakamáyam* dhūmám for some reason as smoke from cow-dung and/or connected it with the *sakadhūma* of AV 6, 128 (the “weather prophet").⁵⁶ If this interpretation of RV 1, 164, 43 is correct, there is some positive evidence that as early as in Ṛgvedic times the Pravargya was a unitary rite, comprising both the manufacturing of a clay vessel and the offering of hot milk from it to the Aśvins.⁵⁷ There were, however, originally options in which other materials than clay were used for the Gharma vessel. This, at least, appears from one place where the Gharma is called *ayasmáya*, "metal" (RV 5, 11, 5), and seems to be reflected in SB 14, 2, 2, 54.⁵⁸ This ancient form of the Pravargya was probably not necessarily connected with a Soma sacrifice. While the TĀ and SB start the Pravargya Brāhmaṇa with a myth that explains the Pravargya as an important part, the "Head," of the Agniṣṭoma sacrifice (see 3.4), the first
+
+56 See Geldner, *RVübers*, 1, 235; C. Kunhan Raja, *Asya Vamasya Hymn*, Madras 1956:73-74; V. S. Agrawala, *Vision in Long Darkness*, Varanasi 1963:161; Renou, *ÉVP* 16:88; W. N. Brown, *India* and *Indology (papers Brown),* Delhi 1978:73 (in a paper reprinted from *JAOS* 88:199-218, "Agni, Sun, Sacrifice and Vác: A sacerdotal Ode by Dīrghatamas. Ṛgveda 1, 164"); The interpretation of sakamáyam dhūmám as smoke from cow-dung may be traced back to Sāyaṇa, who explains *sakamáyam* as *sakṛnmayam śuṣkagomayasaṃbhūtam*.
+
+57 If the Pravargya as known from the Śrauta Sūtras corresponds in its broad outlines to a Ṛgvedic rite, the interesting question arises whether there was, like in the case of the Soma/Haoma sacrifice, an Iranian counterpart to this rite. But, while the Ṛgvedic name of the hot vessel and its contents, *gharmá,* has an Iranian parallel (*garama*), I could not discover a ceremony similar to the Gharma/Pravargya ceremony. The Parsis do have rites in which goat's milk and ghee form the oblations, but there seems to be no rite in which the preparation or even only the heating of a vessel plays any role (cf. J. J. Modi, *Religious Customs and* Ceremonies *of the Parsees*, Bombay (1922): 295, 299, 321, 359).
+
+58 See note 164 to the translation.
+
+[[P32]]
+
+parts of the Kaṭha Āraṇyaka contain only a description of the Pravargya without reference to the Agniṣṭoma. The original status of the Pravargya as an independent rite seems to be reflected here. The Pravargya as belonging to the Soma sacrifice, is referred to only in the third and (as it seems) last chapter of the Kaṭha-Āraṇyaka⁵⁹.
+
+## 5 Taittirīya Āraṇyaka 5 and its relation to the Taittirīya Brāhmaṇa and Saṃhitā
+
+The Brāhmaṇa of the Pravargya ceremony of the Taittirīya śākhā of the Yajurveda is prapāṭhaka or book 5 of the Taittirīya Āraṇyaka,⁶⁰ divided into 12 anuvākas (chapters) and 108 daśatis or decades of lines. The Pravargya mantras are TĀ 4. Much of the TĀ is probably comparatively old, though many parts show signs of a late (secondary) redaction.⁶¹ As far as linguistic and stylistic peculiarities are concerned, the TĀ Pravargya portions follow the TS,⁶² For example, the form *ajakṣiréṇa* in TĀ 5, 3, 9 is as it appears in the TS, where there is a "clear tendency to shorten the long
+
+59 Another indication of an originally independent Pravargya, is discussed in note 11 to the translation.
+
+60 Thus according to the Andhra recension (see below) to which Sāyaṇa's commentary is attached. In the Dravida recension the same Prapāṭhaka comes eighth. Bhaṇṭa-Bhāskara's commentary follows the latter recension. On the Taittirīya Āraṇyaka in general see: Rajendralala Mitra's introduction to his edition of the text (Calcutta, 1872, see under TĀ (b)); Keith, TStransl, Introduction, p. lxxviii-lxxxv; Gonda, *Vedic* *Literature*:429-430.
+
+61 For a survey of the contents of the Āraṇyaka and its relation to the Saṃhitā and Brāhmaṇa, see Keith, TStransl*,* Introduction, p. lxxviii-lxxxv. N. Sen ("Verbforms", 1975) suggests three major stages of development of the books of the Āraṇyaka to be distinguished: the oldest group is formed by books 2-6 (so it includes the Pravargya sections); the second stage is represented by books 1 and 7-9; the last stage is book 10 (Mahānārāyaṇa-Upaniṣad).
+
+62 For a discussion of the language and style of the TS see Keith, *TStransl,* Introduction, p. cxl-clix.
+
+[[P33]]
+
+vowels of the first parts of words in composition” (Keith, *TStransl.,* Intr.p.cxliv). Further, there are several formulas held in common with the TS. For instance, the rare formula *púrvam* evóditám, úttareṇābhí *gṛṇāti,* occurring several times in our text (TĀ 5, 6, 6; 8, 3; 9, 10) is also in TS 5, 1, 4, 4.
+
+In his study of the use of verse-repetitions in the Taittirīya Saṃhitā, Brāhmaṇa and Āraṇyaka (in Proceedings of the All-India Oriental Conference, 28th session, Karnatak University, nov. 1976: 233-244), C. G. Kashikar arrives, as far as the Āraṇyaka is concerned, at the conclusion that "the entire *Taittirīya Āraṇyaka* was compiled at a much later date" than the Saṃhitā. The "compilers of the *Taittirīya* texts have generally recorded as pratikapatha a verse at its second and subsequent occurrences," although "there are a number of exceptions to this rule which cannot be looked upon as mere accidents of the tradition."
+
+However, the facts that have been collected to form the basis of this conclusion are the following: there is variation in the order of contents of the TĀ: the Andhra tradition (with Sayana's commentary) has ten prapāṭhakas, the Draviḍa tradition eight prapāṭhakas in a different order.
+
+There seems to have existed even a third, Karṇāṭaka tradition.⁶³ There are exceptions to the rule that the complete citations precede a *pratikapāṭha,* but this would be, in the view of the absence of a fixed order of its contents, of no great significance. In TĀ 1, 27, 6 occurs a *pratīka,* but the corresponding complete verse is not present in the TS nor in the TB. A complete citation is found in the Apastamba Mantrapatha (2, 4, 3). This would indicate, according to Kashikar, that this part of the Āraṇyaka is not older than this comparatively late text (Proc. *All-India* Or. Conf*.,* 28th session, (1976): 243).
+
+63 See on the arrangement of the text in several manuscripts also K. Madhava Krishna Sarma, "A Note on the Text of the Taittirīya Āraṇyaka”, ALB 3, part 2 (1939):
+
+68-72*.*
+
+[[P34]]
+
+Now the above mentioned points, looked at carefully, permit only of the much weaker conclusion that the order of contents was not fixed for a long time and perhaps had never been fixed. There is no reason to assume a "comparatively late composition" *(Proc*. All-India Or. Conf., 28 (1976): 242) of the whole Āraṇyaka.⁶⁴ That the order was not fixed is reflected in the existence of the two recensions of the TĀ that are current today. There are also different orders for studying or reading the Taittirīya texts according to the Grhya Sūtras. First, there is the reading in which the text follows the order generally known: the text is divided into Saṃhitā, Brāhmaṇa and Āraṇyaka. This is called the Sarasvatapatha. Second, there is the division of the Taittirīya Yajurveda into five Kāndas: the Prājāpatya, Saumya, Agneya, Vaiśvadeva and Svāyambhuva Kānda.
+
+64 (a) The opinion of the Sūtra authors on the relations between Saṃhitā, Brāhmaṇa and Āraṇyaka are of some importance in addition to the internal etxtual evidence. Their works are the earliest sources after the main Taittirīya Yajurveda texts themselves. In an earlier article (see note 68), Kashikar arrives at the conclusion that, in general, the Saṃhitā, Brāhmaṇa and Āraṇyaka enjoyed equal authority from the part of the authors of the Taittirīya Śrauta Sūtras.
+
+(b) Keith contradicts himself in his introduction to the translation of TS: "The Pravargya sections (Āraṇyaka, iv and v) seem also to be a later addition, as the parallel to the Mantras is found only in the Khila book of the *Maitrāyaṇi* (iv 9), and there is no parallel to the Brāhmaṇa at all therein. This is supported by the fact that the *Vājasaneyi* has the Mantras in books xxxvi-xxxix, a supplement, and the Catapatha *Brāhmaṇa* treats the Pravargya in its last book, together with the Upanishad, both in the Madhyandina and also apparently once in the Kāṇva recension.” (p. lxxxi-lxxxii). But that this place of the Pravargya sections need not be due to their being a late addition, appears from Keith's own words, some 40 pages further on: The Pravargya "seems in the Yajurveda tradition to have been held of too great secrecy and importance to be included in the ordinary teaching of the school rather than to be later in time or in development, for there *are* no clear traces of lateness *in* either the Mantra or the Brāhmaṇa portions of the *texts.*" (p. cxxiv-cxxv, my emphasis).
+
+(c) For some more pieces of evidence that point to a comparitively late final redaction (*after* Patanjali's Mahābhāṣya) of the Yajurveda and other Vedic texts that contain old material, see J. Bronkhorst in *Kratylos*, 32 (1987):55-56.
+
+[[P35]]
+
+35 In this latter division of the so-called Arṣeyapatha, the Pravargya mantras and Brāhmaṇa form part of the second or Saumyakāṇḍa.⁶⁵ Part of the evidence, presented by Kashikar, would point at a contradictory conclusion, viz. that the Āraṇyaka has *preceded* the Taittirīya Brāhmaṇa: two Pravargya mantras, cited in their complete form in the TĀ (in 4, 3 and 4, 42), are cited in *pratīka*-form in the TB. The pratīka citation in TĀ 1, 27,
+
+6 may well have been preceded by a complete citation of the verse (which is RV 1, 89, 9) in a (lost or not yet found) Kaṭha text. The traditional attribution of the first two prapāṭhakas of the Taittirīya Āraṇyaka to this Sākhā is well founded.⁶⁶ This leaves open the possibility that an important part of the Āraṇyaka is not later, or not much later, than the Saṃhitā and Brāhmaṇa, with as perhaps the only exceptions the Upaniṣadic portions.⁶⁷ The continuity between the Āraṇyaka and the Saṃhitā and Brāhmaṇa appears also from the authors of the Sūtras and of the Kāṇḍānukrama: they refer to the mantra and Brāhmaṇa portions of the Taittirīya texts without making a distinction between TS, TB and TĀ.⁶⁸ Like the texts of the TS and TB, the Pravargya portions of the TĀ seem to have taken form
+
+65 See Kashikar, “Avāntaradīkṣā”:66-67; Baudhayana Gṛhya Sūtra 3, 1; 3, 2, 4-3, 34; and Agniveśya Gṛhya Sūtra 1, 2, 1.
+
+66 See Weber, *Indische Studien* 13 (1873): 269; Gonda, *Vedic Literature*:350.
+
+67 Cf. Weber, *Indische Studien* 1 (1850): 77 and Sen, “Verbforms”.
+
+68 Brāhmaṇa portions of any of these texts are quoted as brāhmaṇa*.* In his article "The Taittirīya-Brāhmaṇa in Relation to the Sūtrakāras”, *Pratidānam,* (ed. J. C. Heesterman et al.), Mouton, The Hague-Paris 1968:398-408, C. G. Kashikar examines the *way* in which the Taittirīya Sūtra authors cite the mantras from TS and TB (either pratikena or in *sakalapāṭha)* and arrives at the conclusion that "the Saṃhitā, Brāhmaṇa and Āraṇyaka in their present form generally enjoyed equal authority among the Taittirīyas".
+
+[[P36]]
+
+* * in the Madhyadeśa. In later times we find the important Taittirīya schools especially in South-India.⁶⁹ Mention should be made at this place of W. Rau's observation that the TĀ is rather frequently cited in Patañjali's Vyākaraṇa Mahābhāṣya: "Andererseits erstaunt es, das sprachlich wahrhaftig verlotterte TĀ so oft zitiert zu finden. Könnte es erst nach dem 2. Jahrhundert v. Chr. bis zu seinem jetzigem Gestalt verwahrlost sein?"⁷⁰ It should be noted, however, that only certain parts of the Āraṇyaka can be considered to be "linguistically tumbled down.” That the accentuation of the Āraṇyaka is at times very irregular was already noted by Weber *(IS* 10 (1868): 440, note 1).⁷¹ But there are also parts where the accentuation corresponds to the regular accentuation of the TS, as described by Weber (*IS* 13 (1873):
+
+69 All Yajurveda Saṃhitās had their origin probably in this same Madhyadeśa (Renou, *Écoles* Védiques:194ff). The place of Kurukṣetra is roughly known, but the location of Khāṇḍava, Tūrghna and Pariṇah cannot be further determined (MacDonell & Keith, *Vedic Index*:1:169; 2:135; hypotheses about Parinah: Ram Gopal, *Proc*. All-*India Or. Conf.* 1976 (1978): 249; and Krick, Feuergründung:499). In the times when the Śrauta, Grhya and Dharma Sūtras were written, we find the important Taittirīya schools (Baudhāyana, Bharadvaja, Apastamba) in South-India, below the river Godavari. The Maitrāyaṇiyas and Vājasaneyins of that time can be located in North India (E. Brucker, *Die Spätvedische* Kulturepoche nach den *Quellen* der Śrauta-, *Gṛhya-* und Dharmasutras, Wiesbaden 1980:67, 68, 70; K. Mylius in Mitteilungen *des* Instituts *für Orientforschung der deutschen Akademie* der Wiss. *Berlin* 17, no. 3:369-382). For Śrauta traditions in contemporary India see C. G. Kashikar and A. Parpola, "Śrauta Traditions in Recent Times" in Staal, Agni²:193-251; and Witzel "Materialien zu den vedischen Schulen" in *Studien* zur *Indologie* und *Iranistik*, Heft 7 (1981): 108-132; Heft 8/9 (1982/3): 171-240; Heft 10 (1985): 231-237.
+
+70 “On the other hand, it is surprising to find that the TĀ, which is linguistically quite tumbled down, is cited so often. Perhaps it started to be neglected into its present state not before the 2nd century B.C.?" W. Rau, *Die* *vedischen Zitate im Vyākaraṇa-Mahābhāṣya* (Abh. d. Akademie der Wiss. und Lit., geistes-und soz. wissensch. Klasse, Mainz), Jahrgang 1985, no. 4:103.
+
+71 For the irregular accentuation of TĀ 2 see Malamoud's notes at the text in his *Svādhyāya*.
+
+[[P37]]
+
+1-128). The two prapāṭhakas that deal with the Pravargya belong to those parts.
+
+Because the order of the Yajurveda was not fixed for a long time, it remains very difficult to draw conclusions regarding the relative age of different parts of what we now call the Taittirīya Saṃhitā, Brāhmaṇa and Āraṇyaka. Textual evidence tends to point to contradictory conclusions. But because the Pravargya is such an old rite, clearly referred to in the Ṛgveda (perhaps even the preparation of the clay vessel is referred to), it seems reasonable to assume that the Taittirīyas had to pay attention to this rite at an early date. The Pravargya must have formed part of the Kṛṣṇa Yajurveda recensions in the earliest times, and was on certain grounds placed in the Aranya sections.⁷²
+
+## 6 Taittirīya Āraṇyaka 5 and its relation to other texts
+
+Let us now briefly consider the relation of TĀ 5 with the parallel texts. From the Kaṭha śākhā we have important fragments of both the mantras and the Brāhmaṇa of the Pravargya.⁷³ The Maitrāyaṇiyas have preserved
+
+72 The following statement of L. Renou was therefore based on erroneous judgements: “Enfin le Pravargya, portion essentielle du Yajus Blanc «récent» . . . n'a guère de correspondant dans les Saṃhitā Noires: il a fallu du temps pour qu'un tel rite fasse son chemin jusque dans le plus haut Recueil." ("Finally, the Pravargya, an essential portion of the 'recent' White Yajus... has hardly anything corresponding to it in the Black Saṃhitās: some time was needed for such a rite to make its way up to the highest collection", Renou, *Écoles Védiques*:140f). Cf. Witzel's remarks in the introduction to his critical edition of the Kaṭha Āraṇyaka, p. II-IV.
+
+73 These fragments were already edited (though imperfectly) in 1898 by L. von Schroeder, under the unrevealing title "Die Tübinger Katha-Handschriften und ihre Beziehungen zum Taittirīya-Āraṇyaka", Sitzungsberichte der Phil*-*hist. Classe der *kaiserl. Ak. der Wissenschaften* 137 (1897) no. 4; Caland's translation of the Pravargya praśna of ĀpŚS contains many references to the Kaṭhas. Yet van Buitenen does not mention the Kaṭha texts in the Introduction to his description of the Pravargya, in which he aims at an interpretation of this rite on the basis of the old sources. In his articles
+
+[[P38]]
+
+only the mantras: MS 4, 9. The Vājasaneyins have the mantras (VS 37-39) and a corresponding Brāhmaṇa (SB 14,⁷⁴ in the Kanva recension to be found in book 16). Sources from Brāhmaṇas attached to other Vedas than the Yajurveda are AiB 1, 18-22 and KauṣB 8, 3-7.⁷⁵ Shorter references to the Pravargya are found in PB 7, 5, 6;⁷⁶ JB 3, 126;⁷⁷ and lastly GB 2, 2, 6 (almost equal to AiB 1, 18 and 22).
+
+The most important parallel texts are Kaṭha Āraṇyaka 2 and 3 and Śatapatha Brāhmaṇa 14. The fact that the Pravargya mantras and Brāhmaṇa are placed in the Āraṇyakas of the Taittirīyas and of the Kaṭhas, and with the Vājasaneyins in the last portions of the VS and SB, should be explained by an intentional ordering of the text at some stage,⁷⁸ rather than by their being later additions. As has been argued above, there are reasons to assume that they formed part of the different recensions in the earliest times. The relation between the three texts would be, in that case, approximately parallel to the relation between the main texts of the Taittirīyas, the Kaṭhas and the Vājasaneyins. With regard to the Saṃhitās, the Kaṭhas (and the Maitrāyaṇiyas) and the Taittirīya, belonging to the Krsna Yajurveda, can be taken together as against the Vājasaneyins, who belong to the Sukla Yajurveda. While the differences in geographical, linguistic, religious, and cultural background of the Yajurveda schools “Apropos” and “Avāntaradīkṣā”, Kashikar made no use of the KaṭhĀ. At present, there is a new textcritical edition with German translation and commentary by M. Witzel (see under Abbreviations, KaṭhĀ), (According to Kashikar, “Mahāvīra":137 note 4, a Devanāgarī edition with English translation will appear as Nepal Research Publications, no. 2.)
+
+74 Translated by J. Eggeling, *SBE* vol. 44, 1900.
+
+75 Translated by Keith, *Ṛgveda* Brāhmaṇas, Harvard Oriental Series 25, London 1920.
+
+76 Translated by Caland, Calcutta 1931.
+
+77 Caland, *Das Jaiminīya-Brāhmaṇa in Auswahl*, Amsterdam 1919:251-257. Here the Pravargya myth is closely parallel to the one in SB 14, 1. It forms part of the story of Cyavana.
+
+78 Cf. Keith, *TStransl*, Introduction, p. cxxiv-cxxv, cited in note 64(b) above; and van Buitenen, Pravargya:38, n. 118.
+
+[[P39]]
+
+were generally not very great,⁷⁹ the Taittirīyas seem to be more recent than the other Kṛṣṇa Yajurveda schools,⁸⁰ and the Vājasaneyins more recent than the Taittirīyas.⁸¹ M. Witzel mentions some compositional and linguistic arguments on the basis of which he assumes that the KaṭhĀ is the oldest and the SB Pravargya section the most recent. But it must be pointed out here, that several linguistically problematic or complicated mantras of the Taittirīyas are much simpler in their Kaṭha version, or contain what could be considered as later forms.⁸² In the case of *dhármasi sudharma*⁸³ the Kaṭhas stand apart with what seems to be a complete recast of the mantra. That the KaṭhĀ contains old material may be concluded from its discussion of the Pravargya without reference to a Soma sacrifice in the first chapters. Whether or not the KaṭhĀ is actually older than the other two texts the linguistic material is so limited, that on that basis no far reaching conclusions can be drawn it contrasts in several respects with the other two texts.
+
+The earliest elaborate sources on the Pravargya rite apart from the TĀ and the other two texts, are the Śrauta Sūtras. From the Kaṭhas no Śrauta Sūtra is known to us. Most of the Yajurveda Sūtras belong to the Taittirīya school, and, as far as the Pravargya is concerned, they frequently refer to the TĀ. Of these, Baudhayana follows the Āraṇyaka most closely. The description of the Pravargya rite in the Katyāyana Śrauta Sūtra, the only Śrauta Sūtra of the Sukla Yajurveda, is rather succinct in comparison with the elaborate descriptions of Baudhāyana, Bharadvaja and Apastamba. While the TĀ Pravargya sections are often referred to in the Śrauta Sūtras, there are now and then several differences in the details of performance between the TĀ Pravargya ritual and that of
+
+79 They all took shape in the Madhyadeśa, where they were not isolated from each other. See note 69.
+
+80 Renou, *Écoles Védiques*:144-5.
+
+81 Eggeling, *SBtransl* I:xxvii; Renou, *Écoles* Védiques:138, note 3).
+
+82 Cf. note 24, 28 and 134(a) to the translation.
+
+83 TĀ 4, 10, 2(3a); VS 38, 14fg; see note 120 to the translation.
+
+[[P40]]
+
+the Śrauta Sūtras. In one case there even seems to be a complete reinterpretation of a TĀ-passage.⁸⁴
+
+## 7 About the Text and Translation
+
+For the convenience of the reader, the Sanskrit text has been given along with the translation. There are three editions of the TĀ: C, P and M (see Abbreviations, under TĀ). None of them can be called really critical. In general they are quite similar, as far as the Pravargya mantras and Brāhmaṇa are concerned. I follow edition M, which seems to have the fewest cases of faulty or unclear printing. The text has been reproduced as precisely as possible as it appears in this edition, except for the following: `a) Sandhi. Unusual sandhis used in this edition (~-, -IE T-, -ZY T-) have been replaced by the more commonly used (-स-, -अ: स, ट् स -). b) Avagraha. All three editions, M, C and P, make use of the single and double avagraha, to indicate *pariśliṣṭa*-*sandhi* with *a* and ā, but none of them is entirely consistent. The use of the avagraha in those cases has the theoretical disadvantage that it suggests that the sandhi results from an absorption of the second vowel by the first (Malamoud, Svādhyāya:92). The avagraha has been used by me only to mark the disappearance of an initial short *a* after *e* and o, in accordance with modern usage (as e.g. in the *Śrautakośa*, Sanskrit section; cf. Whitney, Sanskrit Grammar:9, §16a and b).
+
+c) Word division. Wherever sandhi permits the division of words, there is no reason not to show this in the text, since the "partial word division now in use in printed Devanāgarī texts is a make-shift" (F. B. J. Kuiper in his preface to Gopālakelicandrikā (Verhand. der Kon. Nederl. Akademie van Wetensch., Afd. Letterkunde, N. R., deel 134. Amsterdam-Oxford-New York, 1987), p. 6. It may seem that this make-shift is enforced by the character of the Indian script (Kuiper, loc. cit.), but in fact Devanāgarī has all instruments to separate syllables, words and word groups at whichever
+
+84 See section 3.3 above, and note 11 and 130 to the translation.
+
+[[P41]]
+
+place the author, editor or scribe wishes. In a few cases in the text, the accent shows that what is given as two words, actually form one single word. In those cases I combined those two parts. After all, these irregular separations may very well originate from the editors or from late manuscripts used by them, since early manuscripts usually give no word divisions at all.
+
+d) Punctuation. The dandas are exactly reproduced from edition M. Commas, question marks and quotation marks have been added by me. In the case of quotations of words or mantras spoken, the sandhi with the following *iti* has of course been maintained. In case this sandhi resulted in a single vowel, the end quotes appear after this vowel and before the *ti* of *íti*. Moreover, if the Brāhmaṇa cites only a part of the mantra, and if the rest has been translated in the translation, the additional parts have been added within brackets in the text too. The traditional division in daśatis has been indicated by a number between double dandas at the end of each dasati. The translation follows this division, as far as possible, and the numbers have been given between parentheses at the beginning of each daśati.
+
+Variants appearing in the other two editions that are not obvious printing errors, have been mentioned in notes. The list of words at the end of each anuvāka, and at the end of the book, do not need to be included here. They have an important function in the transmission of the text: they should preserve the authenticity and prevent interpolations and omissions.
+
+Like most previous scholars, I will refer in the notes to edition C: the first number indicates the prapāṭhaka, the second the anuvāka, the third the daśati; in the case of the Pravargya mantras there is a fourth number (between parentheses), which is the number a specific part of the text has in this edition. This part may consist of one or more mantras, or of a few pādas, a single pāda or less, depending on how the commentator (in this case Sāyaṇa) has divided the text in his commentary. In edition P the division is similar to the division in C, but the numbers are absent. In edition M specific parts are numbered too, but the division follows that of
+
+[[P42]]
+
+* the commentator Bhaṭṭa-Bhāskara. Unfortunately, there is considerable confusion in the way the Pravargya sections are referred to by different scholars. Usually three numbers are given, and the last number refers in some cases to the daśati, and in other cases to the number a specific passage or mantra has in edition C. To facilitate reference to the three editions, a concordance has been added (appendix 2).
+
+The rest of a mantra has been translated (within square brackets: [ ]), if this prapāṭhaka of the Āraṇyaka presents only the *pratīka.* In this way a more complete picture of the ritual will arise. Moreover, the exposition of the Āraṇyaka frequently presupposes the complete mantra. Only in the cases where the addition of the other pādas of a mantra would interrupt and obscure the exposition, these pādas are given in a note. The mantras in the translation are printed in *italics*. The sequence of mantras cited in this book of the Taittirīya Āraṇyaka (the Brāhmaṇa of the Pravargya ritual) follows with a few exceptions that of the preceding book TĀ 4 (the collection of mantras of the Pravargya ritual). Therefore they can be found easily if one knows in what chapter(s) of the preceding book the mantras of a certain chapter are. This will be indicated in the introductory note at the beginning of each chapter.
+
+References to the broad outlines of the ritual are given within parentheses () in the translation. These references are based, a) on the context in the text, b) on the commentators Bh and S, and the old Śrauta Sūtras BSS, BHSS and ApŚS, as far as they do not contradict the TĀ text. More detailed references and discussions not directly necessary for an understanding of the text and translation, are given in the notes at the end. If quotations and citations are not from an English source, they have been translated into English. For a detailed description of the sacrificial acts the reader is referred to the description of van Buitenen, *Pravargya*, and to the relevant passages in the Śrautakośa (see notes to each anuvāka).
+
+[[P43]]
