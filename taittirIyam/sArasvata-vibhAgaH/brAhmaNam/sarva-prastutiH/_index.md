@@ -3,15 +3,15 @@ title = "+सर्व-प्रस्तुतिः"
 unicode_script = "devanagari"
 +++
 
-<details><summary>Sentence splitting principles</summary>
+<details><summary>Block splitting principles</summary>
 
 **Fine splitting of विश्वास-प्रस्तुतिः, मूलम् and \*टीका blocks**
 
-**Goal:** Split the text into the smallest blocks that still make complete sense on their own.
+**Goal:** Split the text (or existing blocks) into the smallest विश्वास-प्रस्तुतिः, मूलम्, टीका blocks that still make complete sense on their own.
 
 **Definitions:**
 - **Sentence segment:** A string ending in a daNDa, either `।` or `॥`. Do not split inside a segment.
-- **Block:** One or more sentence segments kept together because they form a single sense unit.
+- **Block:** One or more sentence segments kept together (within विश्वास-प्रस्तुतिः, मूलम्, टीका details blocks) because they form a single sense unit.
 - **Boundary:** The point between two consecutive sentence segments. The decision is made boundary by boundary.
 
 **Default rule:** By default, every sentence segment goes to a separate block. Do not split at a boundary if any of the tests below applies. Check the tests in this order. If a boundary passes an earlier test, keep the segments together and do not need the later tests.
