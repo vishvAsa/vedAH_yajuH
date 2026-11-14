@@ -1,0 +1,332 @@
++++
+title = "या᳓ वाम्"
++++
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+1'यः पाप्मना गृहीतस्स्यात्तस्मा एतामैन्द्रावरुणीं पयस्यां निर्वपेत्' इत्यादि कारणं वक्ष्यति । तां पुरोडाशाच्चतुर्धा कृत्वा व्यूहति - यावामिन्द्रावरुणेति चतुर्भिर्मन्त्रैः॥ यतव्या सहस्या रक्षस्या तेजस्येति चतुर्णां विशेषः । शेषस्तुल्यः ।
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - सङ्क्षेपः</summary>
+
+[या᳓ वाम् इन्द्रावरुणा] यतव्या᳙ [तनू᳓स् त᳓येम᳓म् अँ᳓हसो मुञ्चतम्] ।  
+… स᳓हस्या᳙ … । … र᳓क्षस्या᳙ …। … ते᳓जस्या᳙ …।
+
+[यो᳓ वाम् इन्द्रावरुणाव्] अग्नौ᳓ [स्रा᳓मस् तं᳓ वाम् एते᳓ना᳓व यजे।]  
+[यो᳓ वाम् इन्द्रावरुणा] द्विपा᳓त्सु पशु᳓षु …। … च᳓तुष्पत्सु पशु᳓षु …। … गोष्ठे᳓ …।
+… गृहे᳓षु …।  
+[यो᳓ वाम् इन्द्रावरुणाव्] अप्सु᳓ …। …ओ᳓षधीषु …।  
+[यो᳓ वाम् इन्द्रावरुणा] व᳓नस्प᳓तिषु …॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+या᳓ वाम् इन्द्रा-वरुणा यतव्या᳙ तनू᳓स्  
+त᳓येम᳓म् अँ᳓हसो मुञ्चतम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+That body of yours, to be striven for, O Indra and Varuna, with that do ye free this one from tribulation;
+</details>
+
+<details><summary>मूलम्</summary>
+
+या वा॑मिन्द्रावरुणा यत॒व्या॑ त॒नूस्तये॒ममँह॑सो मुञ्चतम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+या । वा॒म्॒ । इ॒न्द्रा॒व॒रु॒णेती॑न्द्रा-व॒रु॒णा॒ । य॒त॒व्या॑ । त॒नूः । तया॑ । इ॒मम् । अँह॑सः । मु॒ञ्च॒त॒म्॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे इन्द्रावरुणा इन्द्रावरुणौ । 'सुपां सुलुक्' इत्याकारः । 'देवताद्वन्द्वे च' इति पूर्वपदस्यानङ् । वां युवयोः या यतव्या तनूः शरीरं । यातूनि यातुधानाः रक्षांसि तेषां हननी रक्षोयातूनां हन्त्रीति यावत् । तया तन्वा इमं यजमानं अंहसः पापात् अमुञ्चतं शोधयतम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+या᳓ वाम् इन्द्रावरुणा  
+सहस्या᳙ [तनू᳓स् त᳓येम् अ᳓मँ᳓हसो मुञ्चतम्] ।
+</details>
+
+<details><summary>Keith</summary>
+
+that strong [body of yours, O Indra and Varuna, with that do ye free him from tribulation].
+</details>
+
+<details><summary>मूलम्</summary>
+
+या वा॑मिन्द्रावरुणा सह॒स्या॑ {रक्ष॒स्या॑ तेज॒स्या॑ } त॒नूस्तये॒ममँह॑सो मुञ्चतम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+[या । वा॒म्॒ । इ॒न्द्रा॒व॒रु॒णेती॑न्द्रा-व॒रु॒णा॒ ।] स॒ह॒स्या॑ । [त॒नूः । तया॑ । इ॒मम् । अँह॑सः । मु॒ञ्च॒त॒म्॒ ।]
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2यावामित्यादि ॥ या सहस्या तनूः सहो बलं अभिभवितृत्वं तद्वती । 'मत्वर्थे मासतन्वोः' इति यत् । समानमन्यत् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[या᳓ वामिन्द्रावरुणा] रक्षस्या᳙ [तनू᳓स् त᳓येम᳓म् अँ᳓हसो मुञ्चतम्] ।
+</details>
+
+<details><summary>Keith</summary>
+
+[that] protecting [body of yours, O Indra and Varuna, with that do ye free him from tribulation].
+</details>
+
+<details><summary>मूलम्</summary>
+
+या वा॑मिन्द्रावरुणा {सह॒स्या॑} रक्ष॒स्या॑ {तेज॒स्या॑} त॒नूस्तये॒ममँह॑सो मुञ्चतम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+[या । वा॒म्॒ । इ॒न्द्रा॒व॒रु॒णेती॑न्द्रा-व॒रु॒णा॒ ।] र॒क्ष॒स्या॑ । [त॒नूः । तया॑ । इ॒मम् । अँह॑सः । मु॒ञ्च॒त॒म्॒ ।]
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+3यावामित्यादि ॥ या रक्षस्या तनूः रक्षसां हननी । स एव यत् । ततोनुषङ्गः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[या᳓ वामिन्द्रावरुणा] तेजस्या᳙ तनू᳓स् त᳓येम᳓म् अँ᳓हसो मुञ्चतम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+[that] brilliant body of yours, [O Indra and Varuna,] with that do ye free him from tribulation.
+</details>
+
+<details><summary>मूलम्</summary>
+
+या वा॑मिन्द्रावरुणा {सह॒स्या॑ रक्ष॒स्या॑} तेज॒स्या॑ त॒नूस्तये॒ममँह॑सो मुञ्चतम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+[या । वा॒म्॒ । इ॒न्द्रा॒व॒रु॒णेती॑न्द्रा-व॒रु॒णा॒ ।] ते॒ज॒स्या॑ । त॒नूः । तया॑ । इ॒मम् । अँह॑सः । मु॒ञ्च॒त॒म्॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+4यावामित्यादि ॥ या तेजस्या तनूः तेजस्विनी । पूर्ववन्मत्वर्थीयो यत् । स्पष्टमन्यत् ॥
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+5-12अथोपहोमा अष्टौ - योवामित्यादयः ॥
+</details>
+
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+यो वा॑मिन्द्रावरुणाव॒ग्नौ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यजे॒ यो वा॑मिन्द्रावरुणा द्वि॒पात्सु॑ प॒शुषु॒ चतु॑ष्पात्सु गो॒ष्ठे गृ॒हेष्व॒प्स्वोष॑धीषु॒ वन॒स्पति॑षु॒ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यजे
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यो᳓ वाम् इन्द्रा-वरुणाव् अग्नौ᳓ स्रा᳓मस्  
+तव्ँ᳓ वाम् एते᳓ना᳓वयजे ।
+</details>
+
+<details><summary>Keith</summary>
+
+That disease of yours, O Indra and Varuna, that is in the fire, that of yours I appease hereby;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यो वा॑मिन्द्रावरुणाव॒ग्नौ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यजे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । वा॒म्॒ । इ॒न्द्रा॒व॒रु॒णा॒विती॑न्द्रा-व॒रु॒णौ॒ । अ॒ग्नौ । स्रामः॑ । तम् । वा॒म्॒ । ए॒तेन॑ । अवेति॑ । य॒जे॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अग्न्यादयो वनस्पत्यन्ता विशेषाः । शिष्टमष्टस्वप्यनुषज्यते । स्रावयति नाशयतीति स्रामः पाप्मा येनायं गृहीतः । यो वां युवयोस्सम्बन्धिनो यजमानस्य अग्नौ स्रामः अग्न्याधारः पाप्मा तेन कृतः तं वा युवयोस्सम्बन्धिनानेन कर्मणा अवयजे नाशयामि हे इन्द्रावरुणौ । अवपूर्वो यजिर्विनाशकर्मा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यो᳓ वाम् इन्द्रा-वरुणा द्विपा᳓त्सु पशु᳓षु  [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
+</details>
+
+<details><summary>Keith</summary>
+
+that disease of yours, O Indra and Varuna, that is in the two-footed cattle, [that of yours I appease hereby;]
+</details>
+
+<details><summary>मूलम्</summary>
+
+यो वा॑मिन्द्रावरुणा द्वि॒पात्सु॑ प॒शुषु॒
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । वा॒म्॒ । इ॒न्द्रा॒व॒रु॒णेती॑न्द्रा-व॒रु॒णा॒ । द्वि॒पात्स्विति॑ द्वि॒पात्-सु॒ । प॒शुषु॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'यो द्विपास्तु पशुषु स्रामः' इति द्वितीये । द्विपादो मनुष्याः । ' सङ्ख्यासुपूर्वस्य' इति लोपस्समासान्तः, 'पादः पत्' इति पद्भावः, 'द्वित्रिभ्यां पाद्दन्' इत्युत्तरपदान्तोदात्तत्वम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[यो᳓ वाम् इन्द्रा-वरुणा] च᳓तुष्पात्सु पशु᳓षु  [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
+</details>
+
+<details><summary>Keith</summary>
+
+[that disease of yours, O Indra and Varuna, that is in] the four-footed, [that of yours I appease hereby;]
+</details>
+
+<details><summary>मूलम्</summary>
+
+चतु॑ष्पात्सु प॒शुषु॒
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चतु॑ष्पा॒त्स्विति॒ चतु॑ष्पात्-सु॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'यश्चतुष्पात्सु पशुषु स्रामः' इति तृतीये । स्वरवर्जं पूर्ववत् । गवादयः चतुष्पादः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[यो᳓ वाम् इन्द्रा-वरुणा] गोष्ठे᳓  [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
+</details>
+
+<details><summary>Keith</summary>
+
+[that disease of yours, O Indra and Varuna, that is in] the cattle yard, [that of yours I appease hereby;]
+</details>
+
+<details><summary>मूलम्</summary>
+
+गो॒ष्ठे
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गो॒ष्ठ इति॑ गो-स्थे ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'यो गोष्ठे' इति चतुर्थे । गावस्तिष्ठन्त्यस्मिन्निति 'सुपि स्थः' इति कः । 'अम्बाम्ब' इत्यादिना षत्वम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[यो᳓ वाम् इन्द्रा-वरुणा] गृहे᳓षु   [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
+</details>
+
+<details><summary>Keith</summary>
+
+[that disease of yours, O Indra and Varuna, that is in] the houses, [that of yours I appease hereby;]
+</details>
+
+<details><summary>मूलम्</summary>
+
+गृ॒हेषु
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गृ॒हेषु॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'यो गृहेषु' इति पञ्चमे । 'गेहे कः' इति कः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[यो᳓ वाम् इन्द्रा-वरुणाव्] अप्सु᳓  [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
+</details>
+
+<details><summary>Keith</summary>
+
+[that disease of yours, O Indra and Varuna, that is in] the waters, [that of yours I appease hereby;]
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒प्सु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒प्स्वित्य॑प्-सु ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'योप्सु' इति षष्टे । 'ऊडिदम्' इति विभक्तेरुदात्तत्वम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[यो᳓ वाम् इन्द्रा-वरुणा] ओ᳓षधीषु [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]।
+</details>
+
+<details><summary>Keith</summary>
+
+[that disease of yours, O Indra and Varuna, that is in] the plants, [that of yours I appease hereby;]
+</details>
+
+<details><summary>मूलम्</summary>
+
+ओष॑धीषु।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ओष॑धीषु ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'य ओषधीषु' इति सप्तमे । यवादयः ओषधयः । 'ओषधेश्च विभक्तौ' इति दीर्घत्वम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[यो᳓ वाम् इन्द्रा-वरुणा] व᳓नस्प᳓तिषु स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।
+</details>
+
+<details><summary>Keith</summary>
+
+[that disease of yours, O Indra and Varuna, that is in] the trees, that of yours I appease hereby.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वन॒स्पति॑षु॒ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यजे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वन॒स्पति॑षु । स्रामः॑ । तम् । वा॒म्॒ । ए॒तेन॑ । अवेति॑ । य॒जे॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'यो वनस्पतिषु' इत्यष्टमे । पलाशादयो वनस्पतयः । वनस्पत्यादित्वात्पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् । पारस्करप्रभृतित्वात् सुट् ॥
+</details>

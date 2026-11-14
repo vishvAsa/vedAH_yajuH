@@ -1,0 +1,84 @@
++++
+title = "यत् ते अग्ने"
++++
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+यत्ते॑ अग्ने॒ तेज॒स्तेना॒हन्ते॑ज॒स्वी भू॑यासय्ँ॒यत्ते॑ अग्ने॒ वर्च॒स्तेना॒हव्ँव॑च॒स्वी भू॑यासय्ँ॒यत्ते॑ अग्ने॒ हर॒स्तेना॒हँ ह॑र॒स्वी भू॑यासम् ॥ [11]
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓त्ते अग्ने ते᳓जस् ते᳓नाह᳓न् तेजस्वी᳓ भूयासम्  ।
+</details>
+
+<details><summary>Keith</summary>
+
+With the brilliance that is thine, O Agni, may I become brilliant;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्ते॑ अग्ने॒ तेज॒स्तेना॒हन्ते॑ज॒स्वी भू॑यासम्  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । अ॒ग्ने॒ । तेजः॑ । तेन॑ । अ॒हम् । ते॒ज॒स्वी । भू॒या॒स॒म् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+5यत्ते अग्ने इत्यादि यजुः ॥ तेजो दीप्तिः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓त्ते अग्ने व᳓र्चस् ते᳓नाहव्ँ᳓ वचस्वी᳓ भूयासम्  ।
+</details>
+
+<details><summary>Keith</summary>
+
+with the radiance that is thine, O Agni, may I become radiant;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्ते॑ अग्ने॒ वर्च॒स्तेना॒हव्ँव॑च॒स्वी भू॑यासम्  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । अ॒ग्ने॒ । वर्चः॑ । तेन॑ । अ॒हम् । व॒र्च॒स्वी । भू॒या॒स॒म् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+वर्चोन्नम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓त्ते अग्ने ह᳓रस् ते᳓नाहँ᳓ हरस्वी᳓ भूयासम् ॥
+</details>
+
+<details><summary>Keith</summary>
+
+with the splendour that is thine, O Agni, may I become resplendent.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्ते॑ अग्ने॒ हर॒स्तेना॒हँ ह॑र॒स्वी भू॑यासम् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । अ॒ग्ने॒ । हरः॑ । तेन॑ । अ॒हम् । ह॒र॒स्वी । भू॒या॒स॒म् ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हरः बलम् । त्वदीयैस्तेजःप्रभृतिभिः मदीयेन यागेन वर्धभानैर्हेतुभिः अहं तेजःप्रभृतिमान् भूयासमिति ॥
+
+इति तृतीये पञ्चमे तृतीयोनुवाकः ॥
+</details>
