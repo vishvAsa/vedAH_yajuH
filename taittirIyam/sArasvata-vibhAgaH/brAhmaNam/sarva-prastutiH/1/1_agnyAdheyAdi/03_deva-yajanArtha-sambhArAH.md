@@ -6,12 +6,12 @@ unicode_script: devanagari
 ## उद्धननम्, अवोक्षणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ᳓द्-धन्ति ।  
+उ᳓द्-धन्ति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-उद्-ध॑न्ति ।  
+उद्-ध॑न्ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -21,7 +21,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓द् एवा᳓स्या अमेध्य᳓न् त᳓द् अ᳓पहन्ति ।  
+य᳓द् एवा᳓स्या अमेध्य᳓न् त᳓द् अ᳓पहन्ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -48,21 +48,37 @@ unicode_script: devanagari
 ## सिकताः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सि᳓कता नि᳓वपति ।  
-एत᳓द् वा᳓ अग्ने᳓र् वैश्वानर᳓स्य रूप᳓म् ।   
-रूपे᳓णैव᳓ वैश्वानर᳓म् अ᳓वरुन्धे ।
+सि᳓कता नि᳓वपति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-सिक॑ता॒ निव॑पति ।  
-ए॒तद् वा अ॒ग्नेर् वै॑श्वान॒रस्य॑ रू॒पम् ।   
-रू॒पेणै॒व वै॑श्वान॒रम् अव॑रुन्धे ।
+सिक॑ता॒ निव॑पति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एत᳓द् वा᳓ अग्ने᳓र् वैश्वानर᳓स्य रूप᳓म् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒तद् वा अ॒ग्नेर् वै॑श्वान॒रस्य॑ रू॒पम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वैश्वानरस्य रूपमिति तद्धेतुत्वात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रूपे᳓णैव᳓ वैश्वानर᳓म् अ᳓वरुन्धे ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+रू॒पेणै॒व वै॑श्वान॒रम् अव॑रुन्धे ।
 </details>
 
 ## ऊषाः
@@ -114,7 +130,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-अथो॑ सं॒ज्ञान॑ ए॒व ।  
+अथो॑ सं॒ज्ञान॑ ए॒व ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -140,7 +156,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-द्यावा॑पृथि॒वी स॒हास्ता॑म् ।  
+द्यावा॑पृथि॒वी स॒हास्ता॑म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -150,7 +166,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ वियती᳓ अब्रूताम् - "अ᳓स्त्व् एव᳓ नौ सह᳓ यज्ञि᳓यमि᳓"ति ।   
+ते᳓ वियती᳓ अब्रूताम् - "अ᳓स्त्व् एव᳓ नौ सह᳓ यज्ञि᳓यमि᳓"ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -165,40 +181,54 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓द् अमु᳓ष्या यज्ञि᳓यम् आ᳓सीत् तद् अस्या᳓म् अदधात् ।   
+य᳓द् अमु᳓ष्या यज्ञि᳓यम् आ᳓सीत् तद् अस्या᳓म् अदधात् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद॒मुष्या॑ य॒ज्ञिय॒मासी॑त् ।  
+तद॒स्याम॑दधात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 त᳓ ऊ᳓षा अभवन्न् ॥15॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यद॒मुष्या॑ य॒ज्ञिय॒मासी॑त् ।
-तद॒स्याम॑दधात् ।
 त ऊषा॑ अभवन्न् ॥15॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓दस्या᳓ यज्ञि᳓यमा᳓सीत् तद् अमु᳓ष्याम् अदधात् ।  
+य᳓दस्या᳓ यज्ञि᳓यमा᳓सीत् तद् अमु᳓ष्याम् अदधात् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद॒स्या य॒ज्ञिय॒मासी॑त् ।  
+तद॒मुष्या॑मदधात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 त᳓द् अद᳓श् चन्द्र᳓मसि कृष्ण᳓म् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-यद॒स्या य॒ज्ञिय॒मासी॑त् ।
-तद॒मुष्या॑मदधात् ।
 तद॒दश्च॒न्द्रम॑सि कृ॒ष्णम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ᳓षान् निव᳓पन्न् अदो᳓ ध्यायेत् ।  
-द्या᳓वापृथिव्यो᳓र् एव᳓ यज्ञि᳓ये ऽग्नि᳓म् आ᳓धत्ते ।
+ऊ᳓षान् निव᳓पन्न् अदो᳓ ध्यायेत् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 ऊषा॑न्नि॒वप॑न्न॒दो ध्या॑येत् ।
-द्यावा॑पृथि॒व्योरे॒व य॒ज्ञिये॒ऽग्निमाध॑त्ते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -206,38 +236,49 @@ unicode_script: devanagari
 गतमन्यत् ॥
 </details>
 
-## आखु-करीषम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्नि᳓र् देवे᳓भ्यो नि᳓लायत , +आखू᳓ रूप᳓ङ् कृत्वा᳓ ।
+द्या᳓वापृथिव्यो᳓र् एव᳓ यज्ञि᳓ये ऽग्नि᳓म् आ᳓धत्ते ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्निर्दे॒वेभ्यो॒ निला॑यत ।
-आ॒खू रू॒पङ्कृ॒त्वा ।
+द्यावा॑पृथि॒व्योरे॒व य॒ज्ञिये॒ऽग्निमाध॑त्ते ।
+</details>
+
+## आखु-करीषम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अग्नि᳓र् देवे᳓भ्यो नि᳓लायत , +आखू᳓ रूप᳓ङ् कृत्वा᳓ ।  
+स᳓ पृथिवी᳓म् प्रा᳓विशत् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्निर्दे॒वेभ्यो॒ निला॑यत ।  
+आ॒खू रू॒पङ्कृ॒त्वा ।  
+स पृ॑थि॒वीम् प्रावि॑शत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-3अग्निर्देवेभ्य इत्यादि ॥ निलायत निरगच्छन् । 'उपसर्गस्यायतौ' इति लत्वम् । आखुर्भूत्वा निलायत ।
+3अग्निर्देवेभ्य इत्यादि ॥  
+निलायत निरगच्छन् ।  
+'उपसर्गस्यायतौ' इति लत्वम् ।  
+आखुर्भूत्वा निलायत ।  
+रूपं च तदीयं कृत्वा ऊतीः मार्गान् कुर्वाणः पृथिवीमनु क्रमेण सर्वत्रान्तः समचरत् ।  
+लक्षणेऽनोः कर्मप्रवचनीयत्वम् ।  
+अवतेर्गतिकर्मणः करणे क्तिनि ज्वरत्वरादिना ऊठि 'ऊतियूति' इति क्तिन उदात्तत्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓ पृथिवी᳓म् प्रा᳓विशत् ।   
 स᳓ ऊतीᳵ᳓+++(→मार्गान्)+++ कुर्वाणᳶ᳓ पृथिवी᳓म् अ᳓नु स᳓मचरत् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-स पृ॑थि॒वीम् प्रावि॑शत् ।   
-स ऊ॒तीᳵ कु॑र्वा॒णᳶ पृ॑थि॒वीम् अनु॒ सम॑चरत् ।   
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-रूपं च तदीयं कृत्वा ऊतीः मार्गान् कुर्वाणः पृथिवीमनु क्रमेण सर्वत्रान्तः समचरत् । लक्षणेऽनोः कर्मप्रवचनीयत्वम् । अवतेर्गतिकर्मणः करणे क्तिनि ज्वरत्वरादिना ऊठि 'ऊतियूति' इति क्तिन उदात्तत्वम् ।
+स ऊ॒तीᳵ कु॑र्वा॒णᳶ पृ॑थि॒वीम् अनु॒ सम॑चरत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,7 +288,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-तद् आ॑खु-करी॒षम् अ॑भवत् ॥16॥  
+तद् आ॑खु-करी॒षम् अ॑भवत् ॥16॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -293,12 +334,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓द् वल्मीक-वपा᳓ सम्भारो᳓ भ᳓वति᳓, ऊ᳓र्जम् एव᳓ र᳓सम् पृथिव्या᳓ अ᳓वरुन्धे ।   
+य᳓द् वल्मीक-वपा᳓ सम्भारो᳓ भ᳓वति᳓, ऊ᳓र्जम् एव᳓ र᳓सम् पृथिव्या᳓ अ᳓वरुन्धे ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-यद् व॑ल्मीक-व॒पा स॑म्भा॒रो भव॑त्य् ऊर्ज॑म् ए॒व रस॑म् पृथि॒व्या अव॑रुन्धे ।   
+यद् व॑ल्मीक-व॒पा स॑म्भा॒रो भव॑त्य् ऊर्ज॑म् ए॒व रस॑म् पृथि॒व्या अव॑रुन्धे ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -319,7 +360,7 @@ unicode_script: devanagari
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अथो अपि च श्रोत्रमेव अवरुन्ध इत्येवशब्दग्रहणसामर्थ्यातिशयम् ।  
+अथो अपि च श्रोत्रमेव अवरुन्ध इत्येवशब्दग्रहणसामर्थ्यातिशयम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -357,19 +398,35 @@ unicode_script: devanagari
 ## कर्दमम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजा᳓पतिᳶ प्रजा᳓ असृजत ।   
+प्रजा᳓पतिᳶ प्रजा᳓ असृजत ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+5प्रजापतिरित्यादि ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ता᳓साम् अ᳓न्नम् उ᳓पाक्षीयत ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।   
-तासा॒म् अन्न॒म्  उपा॑क्षीयत ।   
+तासा॒म् अन्न॒म्  उपा॑क्षीयत ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-5प्रजापतिरित्यादि ॥ उपाक्षीयत उपक्षीयमाणमभवत् । अनुत्पत्तिरुपक्षयः । ताभ्यस्तदर्थं सूदं सूदयित्वा पृथिवीम्, षूद क्षरणे, आर्द्रां कृत्वा । सूदयतेर्णमुलि प्रत्ययात्पूर्वस्योदात्तत्वम् ।
+उपाक्षीयत उपक्षीयमाणमभवत् ।  
+अनुत्पत्तिरुपक्षयः ।  
+ताभ्यस्तदर्थं सूदं सूदयित्वा पृथिवीम्, षूद क्षरणे, आर्द्रां कृत्वा ।  
+सूदयतेर्णमुलि प्रत्ययात्पूर्वस्योदात्तत्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -379,7 +436,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-ताभ्य॒स् सूद॒म् उप॒-प्राभि॑नत् ।   
+ताभ्य॒स् सूद॒म् उप॒-प्राभि॑नत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -428,7 +485,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-आपो॒ वा इ॒दम् अग्रे॑ सलि॒लम् आ॑सीत् ।   
+आपो॒ वा इ॒दम् अग्रे॑ सलि॒लम् आ॑सीत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -461,7 +518,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-सो॑ ऽपश्यत् पुष्कर-प॒र्णन् तिष्ठ॑त् ।   
+सो॑ ऽपश्यत् पुष्कर-प॒र्णन् तिष्ठ॑त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -471,16 +528,14 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽमन्यत + "अस्ति वै᳓ त᳓द् +++(मृण्मयं)+++, य᳓स्मिन्न् इद᳓म् अ᳓धि ति᳓ष्ठती᳓"ति ।  
-स᳓ वराहो᳓ रूप᳓ङ् कृत्वो᳓प न्य᳙मज्जत् ।
+सो᳓ऽमन्यत + "अस्ति वै᳓ त᳓द् +++(मृण्मयं)+++, य᳓स्मिन्न् इद᳓म् अ᳓धि ति᳓ष्ठती᳓"ति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-सो॑ऽमन्यत ।
-अस्ति॒ वै तत् ।
+सो॑ऽमन्यत ।  
+अस्ति॒ वै तत् ।  
 यस्मि॑न्नि॒दमधि॒ तिष्ठ॒तीति॑ ।
-स व॑रा॒हो रू॒पङ् कृ॒त्वोप॒ न्य् अ॑मज्जत् ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -490,12 +545,22 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+स᳓ वराहो᳓ रूप᳓ङ् कृत्वो᳓प न्य᳙मज्जत् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+स व॑रा॒हो रू॒पङ् कृ॒त्वोप॒ न्य् अ॑मज्जत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स᳓ पृथिवी᳓म् अध᳓ आर्च्छत् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-स पृ॑थि॒वीम् अ॒ध आ॑र्च्छत् ।   
+स पृ॑थि॒वीम् अ॒ध आ॑र्च्छत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -505,12 +570,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓स्या उपह᳓त्यो᳓दमज्जत् ।   
+त᳓स्या उपह᳓त्यो᳓दमज्जत् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्या॑ उप॒हत्योद॑मज्जत् ।   
+तस्या॑ उप॒हत्योद॑मज्जत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -525,7 +590,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-तत् पु॑ष्कर-प॒र्णे॑ ऽप्रथयत् ।   
+तत् पु॑ष्कर-प॒र्णे॑ ऽप्रथयत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -536,20 +601,30 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् अ᳓प्रथ᳓य᳓त् त᳓त् पृथिव्यै᳓ पृथिवित्व᳓म्।  
-अ᳓भूद्वा᳓ इद᳓मि᳓ति । त᳓द् भू᳓म्यै भूमित्व᳓म् ।
+अ᳓भूद्वा᳓ इद᳓मि᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 यदप्र॑थयत् ॥19॥  
 तत्पृ॑थि॒व्यै पृ॑थिवि॒त्वम् ।  
-अभू॒द् वा इ॒दम् इति॑ ।  
-तद् भूम्यै॑ भूमि॒त्वम् ।
+अभू॒द् वा इ॒दम् इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-सा पृथिवीत्वेन परिणता । प्रथनात्पृथिवी ।
+सा पृथिवीत्वेन परिणता ।  
+प्रथनात्पृथिवी ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓द् भू᳓म्यै भूमित्व᳓म् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद् भूम्यै॑ भूमि॒त्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -559,7 +634,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-तान् दिशो ऽनु॒ वात॒स् सम॑वहत् ।   
+तान् दिशो ऽनु॒ वात॒स् सम॑वहत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -590,7 +665,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-तच्-छर्क॑राणाँ शर्कर॒त्वम् ।   
+तच्-छर्क॑राणाँ शर्कर॒त्वम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -664,12 +739,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ᳓पो व᳓रुणस्य प᳓त्नय आसन् ।   
+आ᳓पो व᳓रुणस्य प᳓त्नय आसन् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-आपो॒ वरु॑णस्य॒ पत्न॑य आसन् ।   
+आपो॒ वरु॑णस्य॒ पत्न॑य आसन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -679,12 +754,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता᳓ अग्नि᳓र् अभ्य᳙ध्यायत् ।   
+ता᳓ अग्नि᳓र् अभ्य᳙ध्यायत् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-ता अ॒ग्निर् अ॒भ्य॑ध्यायत् ।   
+ता अ॒ग्निर् अ॒भ्य॑ध्यायत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -694,21 +769,38 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता᳓स् स᳓मभवत् ।   
-त᳓स्य रे᳓तᳶ प᳓रा ऽपतत् ।   
-त᳓द् +धि᳓रण्यम् अभवत् ।   
+ता᳓स् स᳓मभवत् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तास् सम॑भवत् ।   
-तस्य॒ रेत॒ᳶ परा॑ ऽपतत् ।   
-तद् धिर॑ण्यम् अभवत् ।
+तास् सम॑भवत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-सम्भवो मैथुनम् । गतमन्यत् ।
+सम्भवो मैथुनम् ।  
+गतमन्यत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓स्य रे᳓तᳶ प᳓रा ऽपतत् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्य॒ रेत॒ᳶ परा॑ ऽपतत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓द् +धि᳓रण्यम् अभवत् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद् धिर॑ण्यम् अभवत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -744,12 +836,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत्तरत᳓ उ᳓पास्यत्य् , अ᳓बीभत्सायै ।   
+उत्तरत᳓ उ᳓पास्यत्य् , अ᳓बीभत्सायै ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-उ॒त्त॒र॒त उपा॑स्य॒त्य् , अबी॑भत्सायै ।   
+उ॒त्त॒र॒त उपा॑स्य॒त्य् , अबी॑भत्सायै ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -766,7 +858,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-अति॒-प्रय॑च्छति ।   
+अति॒-प्रय॑च्छति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -783,7 +875,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-आर्ति॑म् ए॒वाति॒-प्रय॑च्छति ।   
+आर्ति॑म् ए॒वाति॒-प्रय॑च्छति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -803,7 +895,7 @@ unicode_script: devanagari
 
 अ॒ग्निर्दे॒वेभ्यो॒ निला॑यत ।
 अश्वो॑ रू॒पङ्कृ॒त्वा ।
-सो॑ ऽश्व॒त्थे सव्ँ॑वत्स॒रम् अ॑तिष्ठत् ।   
+सो॑ ऽश्व॒त्थे सव्ँ॑वत्स॒रम् अ॑तिष्ठत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -813,12 +905,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓द् अश्वत्थ᳓स्याश्वत्थत्व᳓म् ।   
+त᳓द् अश्वत्थ᳓स्याश्वत्थत्व᳓म् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तद् अ॑श्व॒त्थस्या॑श्वत्थ॒त्वम् ।   
+तद् अ॑श्व॒त्थस्या॑श्वत्थ॒त्वम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -848,21 +940,38 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवा᳓ वा᳓ ऊ᳓र्जव्ँ व्य᳙भजन्त ।   
-त᳓त उदुम्ब᳓र उ᳓दतिष्ठत् ।   
+देवा᳓ वा᳓ ऊ᳓र्जव्ँ व्य᳙भजन्त ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+दे॒वा वा ऊर्जव्ँ॒ व्य॑भजन्त ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+10देवा वा ऊर्जमित्यादि ॥  
+ततः अन्नस्थानात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓त उदुम्ब᳓र उ᳓दतिष्ठत् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत॑ उदु॒म्बर॒ उद॑तिष्ठत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ऊ᳓र्ग् वा᳓ उदुम्ब᳓रः ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-दे॒वा वा ऊर्जव्ँ॒ व्य॑भजन्त ।   
-तत॑ उदु॒म्बर॒ उद॑तिष्ठत् ।   
 ऊर्ग् वा उ॑दु॒म्बरः॑ ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-10देवा वा ऊर्जमित्यादि ॥ ततः अन्नस्थानात् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -885,33 +994,62 @@ unicode_script: devanagari
 ## पालाशम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तृती᳓यस्याम् इतो᳓ दिवि᳓ सो᳓म आसीत् ।   
-त᳓ङ् गायत्र्य् आ᳓हरत् ।   
-त᳓स्य पर्ण᳓म् अच्छिद्यत ।   
+तृती᳓यस्याम् इतो᳓ दिवि᳓ सो᳓म आसीत् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+तृ॒तीय॑स्याम् इ॒तो दि॒वि सोम॑ आसीत् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+11तृतीयस्यामिति ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓ङ् गायत्र्य् आ᳓हरत् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+तङ् गा॑य॒त्र्य् आह॑रत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓स्य पर्ण᳓म् अच्छिद्यत ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्य॑ प॒र्णम् अ॑च्छिद्यत ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तिस्रोपि पृथिव्यादयो दिवः पर्णं पक्षः पर्णः पलाशः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 त᳓त् पर्णो᳙+++(=पलाशः)+++ ऽभवत् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तृ॒तीय॑स्याम् इ॒तो दि॒वि सोम॑ आसीत् ।   
-तङ् गा॑य॒त्र्य् आह॑रत् ।   
-तस्य॑ प॒र्णम् अ॑च्छिद्यत ।   
-तत् प॒र्णो॑ ऽभवत् ।   
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-11तृतीयस्यामिति ॥ तिस्रोपि पृथिव्यादयो दिवः पर्णं पक्षः पर्णः पलाशः ।
+तत् प॒र्णो॑ ऽभवत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓त् पर्ण᳓स्य पर्णत्व᳓म् ॥23॥  
+त᳓त् पर्ण᳓स्य पर्णत्व᳓म् ॥23॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तत् प॒र्णस्य॑ पर्ण॒त्वम् ॥23॥  
+तत् प॒र्णस्य॑ पर्ण॒त्वम् ॥23॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -938,7 +1076,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवा᳓ वै᳓ ब्र᳓ह्मन्न्+++(णि)+++ अवदन्त ।   
+देवा᳓ वै᳓ ब्र᳓ह्मन्न्+++(णि)+++ अवदन्त ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -953,15 +1091,23 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓त् पर्ण᳓ उ᳓पाशृणोथ् - सुश्र᳓वा वै᳓ ना᳓म ।   
+त᳓त् पर्ण᳓ उ᳓पाशृणोथ् - सुश्र᳓वा वै᳓ ना᳓म ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्प॒र्ण उपा॑शृणोत् ।  
+सु॒श्रवा॒ वै नाम॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 य᳓त् पर्णम᳓यस् सम्भारो᳓ भ᳓वति, ब्रह्मवर्चस᳓म् एवा᳓वरुन्धे ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तत्प॒र्ण उपा॑शृणोत् ।
-सु॒श्रवा॒ वै नाम॑ ।
-यत्प॑र्ण॒मय॑स्सम्भा॒रो भव॑ति ।
+यत्प॑र्ण॒मय॑स्सम्भा॒रो भव॑ति ।  
 ब्र॒ह्म॒व॒र्च॒समे॒वाव॑रुन्धे ।
 </details>
 
@@ -976,7 +1122,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिर् अ॒ग्निम् अ॑सृजत ।   
-सो॑ ऽबिभे॒त् प्र मा॑ धक्ष्य॒तीति॑ ।   
+सो॑ ऽबिभे॒त् प्र मा॑ धक्ष्य॒तीति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -986,12 +1132,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तँ᳓ शम्या᳙ ऽशमयत् ॥24॥  
+तँ᳓ शम्या᳙ ऽशमयत् ॥24॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तँ श॒म्या॑ ऽशमयत् ॥24॥  
+तँ श॒म्या॑ ऽशमयत् ॥24॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1001,12 +1147,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓च् छम्यै᳙ शमित्व᳓म् ।   
+त᳓च् छम्यै᳙ शमित्व᳓म् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तच् छ॒म्यै॑ शमि॒त्वम् ।   
+तच् छ॒म्यै॑ शमि॒त्वम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1039,7 +1185,7 @@ unicode_script: devanagari
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-13अग्नेरित्यादि ॥ प्रजापतिना सृष्टस्य यतः स्वकार्यं प्रतिवा गछतोऽग्नेः भाः तेजो विकङ्कतं वृक्षविशेषं आर्छत् प्रापत् । एतेश्शतरि 'शतुरनुमः' इति विभक्तेरुदात्तत्वम् ।  
+13अग्नेरित्यादि ॥ प्रजापतिना सृष्टस्य यतः स्वकार्यं प्रतिवा गछतोऽग्नेः भाः तेजो विकङ्कतं वृक्षविशेषं आर्छत् प्रापत् । एतेश्शतरि 'शतुरनुमः' इति विभक्तेरुदात्तत्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1062,12 +1208,12 @@ unicode_script: devanagari
 ## अशनि-हत-वृक्ष-सम्भारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"स᳓हृदयो ऽग्नि᳓र् आधे᳓य" इ᳓त्य् आहुः ।   
+"स᳓हृदयो ऽग्नि᳓र् आधे᳓य" इ᳓त्य् आहुः ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-"सहृ॑दयो॒ ऽग्निर् आ॒धेय॒" इत्य् आ॑हुः ।   
+"सहृ॑दयो॒ ऽग्निर् आ॒धेय॒" इत्य् आ॑हुः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1077,12 +1223,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मरु᳓तो ऽद्भि᳓र् अग्नि᳓म् अतमयन् ।   
+मरु᳓तो ऽद्भि᳓र् अग्नि᳓म् अतमयन् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-म॒रुतो॒ ऽद्भिर् अ॒ग्निम् अ॑तमयन् ।   
+म॒रुतो॒ ऽद्भिर् अ॒ग्निम् अ॑तमयन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1092,19 +1238,33 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓स्य तान्त᳓स्य+++(5)+++ हृ᳓दयम् आ᳓च्छिन्दन् ।   
-सा᳓ ऽश᳓निर् अभवत् ।   
+त᳓स्य तान्त᳓स्य+++(5)+++ हृ᳓दयम् आ᳓च्छिन्दन् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्य॑ ता॒न्तस्य॒ हृद॑य॒म् आच्छि॑न्दन् ।   
-सा ऽशनि॑र् अभवत् ।   
+तस्य॑ ता॒न्तस्य॒ हृद॑य॒म् आच्छि॑न्दन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तस्य तान्तस्य शान्तज्वालस्य हृदयमाच्छिन्दन् पृथक्कृतवन्तः । साऽशनिरभवदिति। गतम् ।
+तस्य तान्तस्य शान्तज्वालस्य हृदयमाच्छिन्दन् पृथक्कृतवन्तः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा᳓ ऽश᳓निर् अभवत् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा ऽशनि॑र् अभवत् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+साऽशनिरभवदिति।  
+गतम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1122,6 +1282,5 @@ unicode_script: devanagari
 
 अशनिहतस्येति । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 
-प्रथमे तृतीयोऽनुवाकः ॥  
-
+प्रथमे तृतीयोऽनुवाकः ॥
 </details>

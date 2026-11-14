@@ -221,14 +221,30 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓जोऽसि ते᳓जो म᳓यि धेहि ।  
-वीर्य᳙मसि वीर्य᳙म्म᳓यि धेहि ।  
-ब᳓लमसि ब᳓लम्म᳓यि धेहि ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 तेजो॑ऽसि॒ तेजो॒ मयि॑ धेहि ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वीर्य᳙मसि वीर्य᳙म्म᳓यि धेहि ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
 वी॒र्य॑मसि वी॒र्य॑म्मयि॑ धेहि ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब᳓लमसि ब᳓लम्म᳓यि धेहि ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
 बल॑मसि॒ बल॒म्मयि॑ धेहि ।  
 </details>
 
@@ -293,12 +309,20 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निर्मो᳓दाय त्वा ।  
-आनन्दा᳓य त्वा म᳓हसे त्वा ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॒र्मोदा॑य त्वा ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आनन्दा᳓य त्वा म᳓हसे त्वा ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
 आ॒न॒न्दाय॑ त्वा॒ मह॑से त्वा ।  
 </details>
 
@@ -315,16 +339,40 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जोऽस्यो᳓जो म᳓यि धेहि ।  
-मन्यु᳓रसि मन्यु᳓म्म᳓यि धेहि ।  
-म᳓होऽसि म᳓हो म᳓यि धेहि ।  
-स᳓होऽसि स᳓हो म᳓यि धेहि ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 ओजो॒ऽस्योजो॒ मयि॑ धेहि ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन्यु᳓रसि मन्यु᳓म्म᳓यि धेहि ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
 म॒न्युर॑सि म॒न्युम्मयि॑ धेहि ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+म᳓होऽसि म᳓हो म᳓यि धेहि ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
 महो॑ऽसि॒ महो॒ मयि॑ धेहि ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स᳓होऽसि स᳓हो म᳓यि धेहि ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
 सहो॑ऽसि॒ सहो॒ मयि॑ धेहि ।  
 </details>
 
@@ -367,18 +415,31 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्पृ᳓चस्स्थ स᳓म्मा भद्रे᳓ण पृङ्क्त ।  
-विपृ᳓चस्स्थ वि᳓ मा पाप्म᳓ना पृङ्क्त ॥5॥  
 </details>
 
 <details><summary>मूलम्</summary>
 
 स॒म्पृच॑स्स्थ॒ सम्मा॑ भ॒द्रेण॑ पृङ्क्त ।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हे इन्द्रपात्रस्थद्रव्यविशेषाः! यूयं द्रवत्वेन स्वभावतः संपर्कशीलाः स्थ, अतो मां भद्रेण श्रेयसा संयोजयत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विपृ᳓चस्स्थ वि᳓ मा पाप्म᳓ना पृङ्क्त ॥5॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
 वि॒पृच॑स्स्थ॒ वि मा॑ पा॒प्मना॑ पृङ्क्त ॥5॥  
 </details>
 
 <details><summary>सायण-टीका</summary>
 
-हे इन्द्रपात्रस्थद्रव्यविशेषाः! यूयं द्रवत्वेन स्वभावतः संपर्कशीलाः स्थ, अतो मां भद्रेण श्रेयसा संयोजयत । इह तु पृथक्पात्रे धृतत्वाद्विपृचो वियुक्तरूपाः स्थ । अतो मां पाप्मना विष्टङ्क वियोज्यत ॥
+इह तु पृथक्पात्रे धृतत्वाद्विपृचो वियुक्तरूपाः स्थ । अतो मां पाप्मना विष्टङ्क वियोज्यत ॥
 
 </details>
 

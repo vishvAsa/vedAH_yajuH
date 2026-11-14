@@ -8,12 +8,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓ समुद्र᳓ उत्तरतᳶ᳓ प्रा᳓ज्वलद् भूम्यन्ते᳓न ।  
+स᳓ समुद्र᳓ उत्तरतᳶ᳓ प्रा᳓ज्वलद् भूम्यन्ते᳓न ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-स स॑मु॒द्र उ॑त्तर॒तᳶ प्राज्व॑लद् भूम्य॒न्तेन॑ ।  
+स स॑मु॒द्र उ॑त्तर॒तᳶ प्राज्व॑लद् भूम्य॒न्तेन॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -23,7 +23,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एष᳓ वा᳓व᳓ स᳓ समुद्रो᳓ य᳓च् चा᳓त्वालः ।  
+एष᳓ वा᳓व᳓ स᳓ समुद्रो᳓ य᳓च् चा᳓त्वालः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -34,7 +34,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एष᳓ उवेव᳓ स᳓ भूम्यन्तो᳓ य᳓द् वेद्यन्तः᳓ ।  
+एष᳓ उवेव᳓ स᳓ भूम्यन्तो᳓ य᳓द् वेद्यन्तः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -50,12 +50,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓देत᳓त् त्रिशल᳓न् त्रिपूरुष᳓म् ।  
+त᳓देत᳓त् त्रिशल᳓न् त्रिपूरुष᳓म् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तदे॒तत् त्रि॑श॒लन् त्रि॑पूरु॒षम् ।  
+तदे॒तत् त्रि॑श॒लन् त्रि॑पूरु॒षम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -65,12 +65,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓स्मात् त᳓न् त्रिवितस् त᳓ङ् खनन्ति ।  
+त᳓स्मात् त᳓न् त्रिवितस् त᳓ङ् खनन्ति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्मा॒त् तन् त्रि॑वित॒स् तङ् ख॑नन्ति ।  
+तस्मा॒त् तन् त्रि॑वित॒स् तङ् ख॑नन्ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -80,12 +80,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓ सुवर्णरजता᳓भ्याङ् कुशी᳓भ्याम् प᳓रिगृहीत आसीत् ।  
+स᳓ सुवर्णरजता᳓भ्याङ् कुशी᳓भ्याम् प᳓रिगृहीत आसीत् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-स सु॑वर्णरज॒ताभ्या॑ङ् कु॒शीभ्या॒म् परि॑गृहीत आसीत् ।  
+स सु॑वर्णरज॒ताभ्या॑ङ् कु॒शीभ्या॒म् परि॑गृहीत आसीत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -95,7 +95,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तय्ँ᳓ य᳓द् अस्या᳓ अ᳓ध्य् अज᳓नयन्न् त᳓स्माद् आदित्यः᳓ ॥ 44 ॥  
+तय्ँ᳓ य᳓द् अस्या᳓ अ᳓ध्य् अज᳓नयन्न् त᳓स्माद् आदित्यः᳓ ॥ 44 ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -111,7 +111,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓थ य᳓त् सुवर्णरजता᳓भ्याङ् कुशी᳓भ्याम् प᳓रिगृहीत आ᳓सीत् सा᳓ ऽस्य कौशिक᳓ता ।  
+अ᳓थ य᳓त् सुवर्णरजता᳓भ्याङ् कुशी᳓भ्याम् प᳓रिगृहीत आ᳓सीत् सा᳓ ऽस्य कौशिक᳓ता ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -127,12 +127,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓न् त्रिवृ᳓ता ऽभि᳓ प्रा᳓स्तुवत ।  
+त᳓न् त्रिवृ᳓ता ऽभि᳓ प्रा᳓स्तुवत ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तन् त्रि॒वृता॒ ऽभि प्रास्तु॑वत ।  
+तन् त्रि॒वृता॒ ऽभि प्रास्तु॑वत ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -168,19 +168,27 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓म् पञ्चदशे᳓नाभि᳓ प्रा᳓स्तुवत ।  
-त᳓म् पञ्चदशे᳓ना᳓ददत ।  
+त᳓म् पञ्चदशे᳓नाभि᳓ प्रा᳓स्तुवत ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तम् प॑ञ्चद॒शेना॒भि प्रास्तु॑वत ।  
-तम् प॑ञ्चद॒शेनाद॑दत ।  
+तम् प॑ञ्चद॒शेना॒भि प्रास्तु॑वत ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓म् पञ्चदशे᳓ना᳓हरन्न् या᳓वती पञ्चदश᳓स्य मा᳓त्रा ॥ 45 ॥  
+त᳓म् पञ्चदशे᳓ना᳓ददत ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+तम् प॑ञ्चद॒शेनाद॑दत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓म् पञ्चदशे᳓ना᳓हरन्न् या᳓वती पञ्चदश᳓स्य मा᳓त्रा ॥ 45 ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -191,19 +199,27 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तँ᳓ सप्तदशे᳓नाभि᳓ प्रा᳓स्तुवत ।  
-तँ᳓ सप्तदशे᳓ना᳓ददत ।
+तँ᳓ सप्तदशे᳓नाभि᳓ प्रा᳓स्तुवत ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तँ स॑प्तद॒शेना॒भि प्रास्तु॑वत ।  
-तँ स॑प्तद॒शेनाद॑दत ।  
+तँ स॑प्तद॒शेना॒भि प्रास्तु॑वत ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एतैरुपर्युपरि इन्द्रं उद्धृतवन्तः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तँ᳓ सप्तदशे᳓ना᳓ददत ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+तँ स॑प्तद॒शेनाद॑दत ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -219,12 +235,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓स्य सप्तदशे᳓न ह्रिय᳓माणस्य ते᳓जो ह᳓रो ऽपतत् ।  
+त᳓स्य सप्तदशे᳓न ह्रिय᳓माणस्य ते᳓जो ह᳓रो ऽपतत् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्य॑ सप्तद॒शेन॑ ह्रि॒यमा॑णस्य॒ तेजो॒ हरो॑ ऽपतत् ।  
+तस्य॑ सप्तद॒शेन॑ ह्रि॒यमा॑णस्य॒ तेजो॒ हरो॑ ऽपतत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -234,14 +250,22 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓म् एकविँशे᳓नाभि᳓ प्रा᳓स्तुवत ।  
-त᳓म् एकविँशे᳓ना᳓ददत ।  
+त᳓म् एकविँशे᳓नाभि᳓ प्रा᳓स्तुवत ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तम् ए॑कविँ॒शेना॒भि प्रास्तु॑वत ।  
-तम् ए॑कविँ॒शेनाद॑दत ।  
+तम् ए॑कविँ॒शेना॒भि प्रास्तु॑वत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓म् एकविँशे᳓ना᳓ददत ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+तम् ए॑कविँ॒शेनाद॑दत ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -262,7 +286,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ य᳓त् त्रिवृ᳓ता स्तुव᳓ते त्रिवृतैव᳓ त᳓द् य᳓जमानम्  आ᳓ददते ।  
+ते᳓ य᳓त् त्रिवृ᳓ता स्तुव᳓ते त्रिवृतैव᳓ त᳓द् य᳓जमानम्  आ᳓ददते ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -278,7 +302,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓न् त्रिवृ᳓तैव᳓ हरन्ति या᳓वती त्रिवृ᳓तो मा᳓त्रा ।  
+त᳓न् त्रिवृ᳓तैव᳓ हरन्ति या᳓वती त्रिवृ᳓तो मा᳓त्रा ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -294,17 +318,17 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्नि᳓र् वै᳓ त्रिवृ᳓त् ।  
+अग्नि᳓र् वै᳓ त्रिवृ᳓त् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्निर् वै त्रि॒वृत् ।  
+अ॒ग्निर् वै त्रि॒वृत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या᳓वद् वा᳓ अग्ने᳓र् द᳓हतो धूम᳓ उदे᳓त्या᳓नु व्ये᳓ति ता᳓वती त्रिवृ᳓तो मा᳓त्रा ।  
+या᳓वद् वा᳓ अग्ने᳓र् द᳓हतो धूम᳓ उदे᳓त्या᳓नु व्ये᳓ति ता᳓वती त्रिवृ᳓तो मा᳓त्रा ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -320,7 +344,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने᳓र् एवै᳓नन् त᳓न्मा᳓त्राँ सा᳓युज्यँ सलोक᳓ताङ् गमयन्ति ।  
+अग्ने᳓र् एवै᳓नन् त᳓न्मा᳓त्राँ सा᳓युज्यँ सलोक᳓ताङ् गमयन्ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -336,7 +360,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓थ य᳓त् पञ्चदशे᳓न स्तुव᳓ते पञ्चदशे᳓न᳓+ एव᳓ त᳓द् य᳓जमानम् आ᳓ददते ॥ 47 ॥  
+अ᳓थ य᳓त् पञ्चदशे᳓न स्तुव᳓ते पञ्चदशे᳓न᳓+ एव᳓ त᳓द् य᳓जमानम् आ᳓ददते ॥ 47 ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -363,29 +387,39 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चन्द्र᳓मा वै᳓ पञ्चदशः᳓ ।  
-एष᳓ हि᳓ पञ्चदश्या᳓म् अप-क्षीय᳓ते ।  
+चन्द्र᳓मा वै᳓ पञ्चदशः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-च॒न्द्रमा॒ वै प॑ञ्चद॒शः ।  
-ए॒ष हि प॑ञ्चद॒श्याम् अ॑प-क्षी॒यते॑ ।  
+च॒न्द्रमा॒ वै प॑ञ्चद॒शः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-चन्द्रमाः पञ्चदशः स्तोमः पञ्चदशसङ्ख्यान्वयात् द्वयोः । पञ्चदशस्तोत्रीयाभिः पञ्चदशः स्तोमः । चन्द्रमाः पञ्चदश्यां तिथौ अत्यन्तं अपक्षीयते कष्णे ।
+चन्द्रमाः पञ्चदशः स्तोमः पञ्चदशसङ्ख्यान्वयात् द्वयोः ।  
+पञ्चदशस्तोत्रीयाभिः पञ्चदशः स्तोमः ।  
+चन्द्रमाः पञ्चदश्यां तिथौ अत्यन्तं अपक्षीयते कष्णे ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्चदश्या᳓म् आपूर्य᳓ते ।  
+एष᳓ हि᳓ पञ्चदश्या᳓म् अप-क्षीय᳓ते ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-प॒ञ्च॒द॒श्याम् आ॑पू॒र्यते॑ ।  
+ए॒ष हि प॑ञ्चद॒श्याम् अ॑प-क्षी॒यते॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पञ्चदश्या᳓म् आपूर्य᳓ते ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+प॒ञ्च॒द॒श्याम् आ॑पू॒र्यते॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -395,7 +429,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चन्द्र᳓मस एवै᳓नन् त᳓न् मा᳓त्राँ सा᳓युज्यँ सलोक᳓ताङ् गमयन्ति ।  
+चन्द्र᳓मस एवै᳓नन् त᳓न् मा᳓त्राँ सा᳓युज्यँ सलोक᳓ताङ् गमयन्ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -433,17 +467,17 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजा᳓पतिर् वै᳓ सप्तदशः᳓ ।  
+प्रजा᳓पतिर् वै᳓ सप्तदशः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्र॒जाप॑ति॒र् वै स॑प्तद॒शः ।  
+प्र॒जाप॑ति॒र् वै स॑प्तद॒शः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजा᳓पतेर् एवै᳓नन् त᳓न्मा᳓त्राँ सा᳓युज्यँ सलोक᳓ताङ् गमयन्ति ।  
+प्रजा᳓पतेर् एवै᳓नन् त᳓न्मा᳓त्राँ सा᳓युज्यँ सलोक᳓ताङ् गमयन्ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -454,7 +488,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓थ य᳓द् एकविँशे᳓न स्तुव᳓त एकविँशे᳓न᳓+ एव᳓ त᳓द् य᳓जमानम् आ᳓ददते ।  
+अ᳓थ य᳓द् एकविँशे᳓न स्तुव᳓त एकविँशे᳓न᳓+ एव᳓ त᳓द् य᳓जमानम् आ᳓ददते ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -465,7 +499,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓म् एकविँशे᳓न᳓+ एव᳓ हरन्ति या᳓वत्य् एकविँश᳓स्य मा᳓त्रा ।  
+त᳓म् एकविँशे᳓न᳓+ एव᳓ हरन्ति या᳓वत्य् एकविँश᳓स्य मा᳓त्रा ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -481,17 +515,17 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असौ᳓ वा᳓ आदित्य᳓ एकविँशः᳓ ।  
+असौ᳓ वा᳓ आदित्य᳓ एकविँशः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒सौ वा आ॑दि॒त्य ए॑कविँ॒शः ।  
+अ॒सौ वा आ॑दि॒त्य ए॑कविँ॒शः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आदित्य᳓स्यैवै᳓नन् त᳓न्मा᳓त्राँ सा᳓युज्यँ सलोक᳓ताङ् गमयन्ति ।  
+आदित्य᳓स्यैवै᳓नन् त᳓न्मा᳓त्राँ सा᳓युज्यँ सलोक᳓ताङ् गमयन्ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -507,20 +541,28 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ कुश्यौ᳙ व्य् अघ्नन् ।  
-ते᳓ अहोरात्रे᳓ अभवताम् ।  
+ते᳓ कुश्यौ᳙ व्य् अघ्नन् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-ते कु॒श्यौ॑ ।
-व्य॑घ्नन् ।  
+ते कु॒श्यौ॑ ।  
+व्य॑घ्नन् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते᳓ अहोरात्रे᳓ अभवताम् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
 ते अ॑होरा॒त्रे अ॑भवताम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓हर् एव᳓ सुव᳓र्णा ऽभवद् रजता᳓ रा᳓त्रिः ।  
+अ᳓हर् एव᳓ सुव᳓र्णा ऽभवद् रजता᳓ रा᳓त्रिः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -537,7 +579,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓ य᳓द् आदित्य᳓ उदे᳓त्य् एता᳓म् एव᳓ त᳓त् सुव᳓र्णाङ् कुशी᳓म् अ᳓नु स᳓मेति ।  
+स᳓ य᳓द् आदित्य᳓ उदे᳓त्य् एता᳓म् एव᳓ त᳓त् सुव᳓र्णाङ् कुशी᳓म् अ᳓नु स᳓मेति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -553,7 +595,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓थ य᳓द् अस्तमे᳓त्य् एता᳓म् एव᳓ त᳓द् रजता᳓ङ् कुशी᳓म् अ᳓नु-सव्ँ᳓विशति ।  
+अ᳓थ य᳓द् अस्तमे᳓त्य् एता᳓म् एव᳓ त᳓द् रजता᳓ङ् कुशी᳓म् अ᳓नु-सव्ँ᳓विशति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -569,7 +611,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रह्रा᳓दो ह वै᳓ कायाधवो᳓ विरो᳓चनँ स्व᳓म् पुत्र᳓म् उ᳓दास्यत् ।  
+प्रह्रा᳓दो ह वै᳓ कायाधवो᳓ विरो᳓चनँ स्व᳓म् पुत्र᳓म् उ᳓दास्यत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -600,18 +642,17 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓स्मात् प्रदरा᳓द् उदक᳓न् ना᳓चामेत् ॥ 50 ॥  
+त᳓स्मात् प्रदरा᳓द् उदक᳓न् ना᳓चामेत् ॥ 50 ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्मा॑त् प्रद॒राद् उ॑द॒कन् नाचा॑मेत् ॥ 50 ॥  
+तस्मा॑त् प्रद॒राद् उ॑द॒कन् नाचा॑मेत् ॥ 50 ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मात्प्रदरादुदकं नाचामेत् असुरच्छिद्रनिर्गतत्वात् । द्रु विदारणे, 'ऋदोरप्'थाथादिना उत्तरपदान्तोदात्तत्वम् ॥
 
-इति पञ्चमे दशमोऽनुवाकः ॥  
-
+इति पञ्चमे दशमोऽनुवाकः ॥
 </details>

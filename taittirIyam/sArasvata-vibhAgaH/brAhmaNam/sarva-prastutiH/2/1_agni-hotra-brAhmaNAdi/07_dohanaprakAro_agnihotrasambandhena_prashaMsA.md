@@ -21,14 +21,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृ᳓हस्प᳓तेरु᳓न्नीतम् ।  
-वायव्य᳙मु᳓पसृष्टम् ।  
+बृ᳓हस्प᳓तेरु᳓न्नीतम् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-बृह॒स्पते॒रुन्नी॑तम् ।  
-वा॒य॒व्य॑मुप॑सृष्टम् ।  
+बृह॒स्पते॒रुन्नी॑तम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -38,12 +36,22 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सौम्य᳓न्दुग्ध᳓म् ।  
+वायव्य᳙मु᳓पसृष्टम् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-सौ॒म्यन्दु॒ग्धम् ।  
+वा॒य॒व्य॑मुप॑सृष्टम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सौम्य᳓न्दुग्ध᳓म् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+सौ॒म्यन्दु॒ग्धम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -84,12 +92,20 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पौष्ण᳓मु᳓दन्तम् ।
-सारस्वतव्ँ᳓ विष्य᳓न्दमानम् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 पौ॒ष्णमुद॑न्तम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सारस्वतव्ँ᳓ विष्य᳓न्दमानम् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
 सा॒र॒स्व॒तव्ँ वि॒ष्यन्द॑मानम् ।
 </details>
 
@@ -161,20 +177,36 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सवितुᳶ᳓ प्र᳓क्रान्तम् ।
-द्यावापृथिव्यँ᳙ ह्रिय᳓माणम् ।
-ऐन्द्राग्न᳓मु᳓पसन्नम् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 स॒वि॒तुᳶ प्रक्रा॑न्तम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्यावापृथिव्यँ᳙ ह्रिय᳓माणम् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
 द्या॒वा॒पृ॒थि॒व्यँ॑ ह्रि॒यमा॑णम् ।
-ऐ॒न्द्रा॒ग्नमुप॑सन्नम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ह्रियमाणं आहवनीयं प्रति नीयमानं द्यावापृथिव्यम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऐन्द्राग्न᳓मु᳓पसन्नम् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऐ॒न्द्रा॒ग्नमुप॑सन्नम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -210,34 +242,46 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नेᳶ᳓ पू᳓र्वा᳓ऽऽहुतिः ।
-प्रजा᳓पतेरु᳓त्तरा ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेᳶ पूर्वाऽऽहु॑तिः ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+पूर्वाऽऽहुतिः सायमग्नेः, प्रातराहुतिरादित्यस्य, उपलक्षणवात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रजा᳓पतेरु᳓त्तरा ।
+</details>
+
+<details><summary>मूलम्</summary>
+
 प्र॒जाप॑ते॒रुत्त॑रा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-पूर्वाऽऽहुतिः सायमग्नेः, प्रातराहुतिरादित्यस्य, उपलक्षणवात् । उत्तराऽऽडुतिः प्रजापतेः, तूष्णीकत्वात् 'तूष्णीं वै प्राजापत्यम्' इति ।
+उत्तराऽऽडुतिः प्रजापतेः, तूष्णीकत्वात् 'तूष्णीं वै प्राजापत्यम्' इति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐन्द्रँ᳓ हुत᳓म् ॥50॥  
+ऐन्द्रँ᳓ हुत᳓म् ॥50॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऐ॒न्द्रँ हु॒तम् ॥50॥  
+ऐ॒न्द्रँ हु॒तम् ॥50॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ऐन्द्रं हुतम् ॥
 
-इति तैत्तिरीयब्राह्मणे द्वितीयाष्टके प्रथमप्रपाठके सप्तमोऽनुवाकः ॥  
-
+इति तैत्तिरीयब्राह्मणे द्वितीयाष्टके प्रथमप्रपाठके सप्तमोऽनुवाकः ॥
 </details>

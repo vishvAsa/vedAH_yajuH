@@ -267,18 +267,30 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आज्यमन्थ!)+++ ते᳓जो ऽसि ।
-+++(यजमान!)+++ त᳓त् ते प्र᳓यच्छामि ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 तेजो॑ऽसि ।  
-तत्ते॒ प्रय॑च्छामि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
 
 हे आज्यमन्थ! त्वं तेजोरूपोऽसि ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(यजमान!)+++ त᳓त् ते प्र᳓यच्छामि ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्ते॒ प्रय॑च्छामि ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
 हे यजमान! तन्मन्थद्रव्यं ते तुभ्यं प्रयच्छामि ।
 </details>
 
@@ -326,18 +338,31 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जोऽसि ।
-त᳓त्ते प्र᳓यच्छामि ॥18॥  
 </details>
 
 <details><summary>मूलम्</summary>
 
 ओजो॑ऽसि ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ओजो बलम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓त्ते प्र᳓यच्छामि ॥18॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
 तत्ते॒ प्रय॑च्छामि ॥18॥  
 </details>
 
 <details><summary>सायण-टीका</summary>
 
-ओजो बलम् । अन्यत्पूर्ववद्व्याख्येयम् ।
+अन्यत्पूर्ववद्व्याख्येयम् ।
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/45_ojasvad_astu.md">
@@ -375,18 +400,26 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓योऽसि ।
-त᳓त्ते प्र᳓यच्छामि ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 पयो॑ऽसि ।
-तत्ते॒ प्रय॑च्छामि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
 
 दधिमन्थस्य पयोविकारत्वात्पयस्त्वम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓त्ते प्र᳓यच्छामि ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्ते॒ प्रय॑च्छामि ।
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/50_payasvad_astu.md">
@@ -429,18 +462,31 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓युरसि ।
-त᳓त्ते प्र᳓यच्छामि ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 आयु॑रसि ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+उदमन्थस्यायुर्हेतुत्वादायुष्ट्वम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓त्ते प्र᳓यच्छामि ।
+</details>
+
+<details><summary>मूलम्</summary>
+
 तत्ते॒ प्रय॑च्छामि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
 
-उदमन्थस्यायुर्हेतुत्वादायुष्ट्वम् । अन्यत्पूर्ववत् ।
+अन्यत्पूर्ववत् ।
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/55_AyuShmad_astu.md">
