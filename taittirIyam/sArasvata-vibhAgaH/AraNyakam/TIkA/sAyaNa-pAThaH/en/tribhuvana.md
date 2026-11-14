@@ -2,11 +2,11 @@
 title = "त्रिभुवनः"
 +++
 
-## Prapathaka I
+## I
 
 [[P072]]
 
-### Anuvaka I
+### I
 
 > *Note:* Collection of the Arunaketuka Fire has been discussed in this Prapathaka; propitiation of the Uttara Vedi (Northern altar) being introduced in Anuvaka I. Mantras for peace and propitiation.
 
@@ -52,7 +52,7 @@ Om Peace, Peace, Peace.
 
 [[P074]]
 
-### Anuvaka II
+### II
 
 > *Note:* In this Anuvaka there are the mantras for placing bricks on the altar.
 
@@ -94,7 +94,7 @@ Om Peace, Peace, Peace.
 
 [[P076]]
 
-### Anuvaka III
+### III
 
 > *Note:* In this Anuvaka also the Mantras for placing bricks on the altar are given.
 
@@ -130,7 +130,7 @@ Om Peace, Peace, Peace.
 
 [^P078_12]: A Brahmana-passage showing the advantage of the above.
 
-### Anuvaka IV
+### IV
 
 > *Note:* In this Anuvaka also the Mantras are for placing the bricks on the altar.
 
@@ -160,7 +160,7 @@ Om Peace, Peace, Peace.
 
 [[P080]]
 
-### Anuvaka V
+### V
 
 > *Note:* Propitiatory mantras have been given in this Anuvaka.
 
@@ -180,7 +180,7 @@ Om Peace, Peace, Peace.
 
 [[P081]]
 
-### Anuvaka VI
+### VI
 
 > *Note:* In this Anuvaka also Mantras are for placing the bricks on the altar.
 
@@ -212,7 +212,7 @@ Om Peace, Peace, Peace.
 
 [[P083]]
 
-### Anuvaka VII
+### VII
 
 > *Note:* Mantras for placing bricks.
 
@@ -296,7 +296,7 @@ As to that this is (said):—
 
 [[P086]]
 
-### Anuvaka VIII
+### VIII
 
 > *Note:* Mantras for placed bricks on the altar.
 
@@ -380,7 +380,7 @@ This is the knowledge of Vatsa.
 
 [[P090]]
 
-### Anuvaka IX
+### IX
 
 > *Note:* Mantras for placing the bricks on the altar.
 
@@ -448,7 +448,7 @@ This is the knowledge of Vatsa.
 
 [^P092_r21]: *(Kaṇḍikā 21)* A Brahmana-passage.
 
-### Anuvaka X
+### X
 
 > *Note:* Mantras for placing the bricks on the altar.
 
@@ -498,7 +498,7 @@ This is the knowledge of Vatsa.
 
 17\. Now (we shall deal with) the pure Angiras (-Mantras).
 
-### Anuvaka XI
+### XI
 
 > *Note:* \` Mantras for placing the bricks on the alter. Pavitra = fringed filtering cloth.
 
@@ -562,7 +562,7 @@ This is the knowledge of Vatsa.
 
 [[P098]]
 
-### Anuvaka XII
+### XII
 
 > *Note:* Mantras for placing bricks.
 
@@ -606,7 +606,7 @@ This is the knowledge of Vatsa.
 
 [^P100_r14]: *(Kaṇḍikā 14)* Four Mantras addressed to bricks while placing them on the altar.
 
-### Anuvaka XIII
+### XIII
 
 > *Note:* Mantras for placing bricks etc.
 
@@ -644,7 +644,7 @@ This is the knowledge of Vatsa.
 
 [[P102]]
 
-### Anuvaka XIV
+### XIV
 
 > *Note:* Mantras for placing bricks etc.
 
@@ -672,7 +672,7 @@ This is the knowledge of Vatsa.
 
 [[P103]]
 
-### Anuvaka XV
+### XV
 
 > *Note:* Mantras for placing the bricks on the altar.
 
@@ -700,11 +700,11 @@ This is the knowledge of Vatsa.
 
 [[P104]]
 
-### Anuvaka XVI
+### XVI
 
 1\. May we shine with our own brilliance at the place of Aroga. May we shine with our own brilliance at the place of Patars. May we shine with our own brilliance at the place of Bhraja. May we shine with our own brilliance at the place of Patanga. May we shine with our own brilliance at the place of Svarnara. May we shine with our own brilliance at the place of Jyotismat. May we shine with our own brilliance at the place of Vibhasa. May we shine with our own brilliance at the place of Kasyapa. Om, Bhuh, Bhuvah, Svah. The waters are your pair; do not destroy our pair.
 
-### Anuvaka XVII
+### XVII
 
 1\. Now of the wind (Vayu) consisting of eleven male and eleven female ones—
 
@@ -718,7 +718,7 @@ This is the knowledge of Vatsa.
 
 [[P106]]
 
-### Anuvaka XVIII
+### XVIII
 
 1\. Now of Fire (Agni) consisting of eight personages—
 
@@ -730,7 +730,7 @@ This is the knowledge of Vatsa.
 
 [[P107]]
 
-### Anuvaka XIX
+### XIX
 
 1\. In the south-eastern quarter (there is a) hell, Visarpin (by name); save us from that.[^P107_1]
 
@@ -758,7 +758,7 @@ This is the knowledge of Vatsa.
 
 > *Note:* Mantras for placing bricks.
 
-### Anuvaka XX
+### XX
 
 1\. (O watery bricks,) may Indraghosa, with the Vasus, put you in the east; may the Manojavases, with the fathers, put you in the south; may Pracetas, with Rudras, put you in the west (paścat); may Viśvakarman, with Ādityas, put you in the north; may Tvaṣṭr, with the forms (rūpa), put you above; may Knowledge put you afterwards (paścat).
 
@@ -772,7 +772,7 @@ This is the knowledge of Vatsa.
 
 [[P108]]
 
-### Anuvaka XXI
+### XXI
 
 1\. "I have obtained, I have obtained all the waters from this and this place, from here and there; may Agni, Vāyu and Sūrya together purify these with prosperity. Having winds as horses, rays as protectors, beams as bodies, not hostile, shining goddesses, all-impelling (O you Waters!) assent me for progeny. Of great name and great honour, inspirers of all mighty ones (1), shining goddesses, rain-impelling (O you Waters!) assent me for progeny. Remove away the consuming and burning fire, the demons, the consuming and burning fever, the exhaustedness caused by fever, un-inhalation (breathlessness) and poverty from this place, shining goddesses (O you Waters!). Shining ones, god-inspirers, (O Waters!) raise up the thunderbolt (for our protection); raise us, undefeated ones, up; raise up the all (cattle etc.); raise up the Ādityas and the goddess Aditi being their cause (2)."[^P108_r1]
 
@@ -786,7 +786,7 @@ This is the knowledge of Vatsa.
 
 [[P109]]
 
-### Anuvaka XXII
+### XXII
 
 > *Note:* Brāhmaṇas (praises etc.) relating to the placing of bricks. 1–9. Waters as the abodes of the things.
 
@@ -876,7 +876,7 @@ He, who knows the abode of the year, becomes, verily, the possessor of an abode,
 
 [[P113]]
 
-### Anuvaka XXIII
+### XXIII
 
 1\. Waters were, verily, this (creation), water only. That one Prajāpati came forth in a lotus-petal. In the midst of his mind the Kāma (Desire) was produced: May I create this (world)! Therefore, what a man thinks in the mind, speaks that by the speech and performs that by action. As to that this is (said):—
 
@@ -918,7 +918,7 @@ He, who knows the abode of the year, becomes, verily, the possessor of an abode,
 
 > *Note:* Collection of the waters has been discussed in this Anuvāka. 1–7. Collection of the waters from the various sources.
 
-### Anuvaka XXIV
+### XXIV
 
 1\. (One) takes the waters of the four kinds. Four are the forms of the waters: the cloud, the lightning, the thunder (and) the rain. (He) encloses those verily.
 
@@ -956,7 +956,7 @@ He, who knows the abode of the year, becomes, verily, the possessor of an abode,
 
 [[P117]]
 
-### Anuvaka XXV
+### XXV
 
 1\. Digging the Uttara Vedi up to the knee (one) fills (that) by the waters (reaching up to the ankle) for the wholeness of the waters (1).
 
@@ -998,7 +998,7 @@ He, who knows the abode of the year, becomes, verily, the possessor of an abode,
 
 [[P119]]
 
-### Anuvaka XXVI
+### XXVI
 
 1\. After bringing (and) establishing fire (one) puts these watery bricks around that. (The limbs of this Aruṇaketuka fire are) in the Agnihotra (sacrifice), in the Darśapūrṇamāsa (sacrifice), in the Paśubandha (sacrifice), in the Cāturmāsya (sacrifice) and (they) say "In all the sacrificial performances". Thus (1).
 
@@ -1040,7 +1040,7 @@ He, who knows the abode of the year, becomes, verily, the possessor of an abode,
 
 > *Note:* Discussions on fire piling and rules about that (from 1 to 15).
 
-### Anuvaka XXVII
+### XXVII
 
 1\. Indra, Viśvedevas (All-gods) (and we) shall prosper these worlds happily and with offspring.
 
@@ -1098,7 +1098,7 @@ He, who knows the abode of the year, becomes, verily, the possessor of an abode,
 
 [[P123]]
 
-### Anuvaka XXVIII
+### XXVIII
 
 1\. Remove away from here the headless and vulture-headed misfortune and the hinderers having the white cavity of the belly, low shanks and variegated belly.
 
@@ -1106,7 +1106,7 @@ He, who knows the abode of the year, becomes, verily, the possessor of an abode,
 
 [^P123_1]: *(Mantras 1–2)* Addresses to Agni to remove away the evils.
 
-### Anuvaka XXIX
+### XXIX
 
 1\. Laud Parjanya (rain), the son of heaven, the sprinkler; may that desire food for us.
 
@@ -1118,7 +1118,7 @@ He, who knows the abode of the year, becomes, verily, the possessor of an abode,
 
 [[P124]]
 
-### Anuvaka XXX
+### XXX
 
 1\. May the powers of the senses (Indriya) come to me again; (may) life (come) again, (may) fortune (come) again; may the (brilliance) of sacred knowledge (Brahma) come to me again; may the wealth come to me again.
 
@@ -1128,7 +1128,7 @@ He, who knows the abode of the year, becomes, verily, the possessor of an abode,
 
 [^P124_1]: *(Mantras 1–3)* Mantras for the protection of the semen and becoming brilliant, immortal etc.
 
-### Anuvaka XXXI
+### XXXI
 
 1\. (O Kubera!) Vaiśravaṇa was born the coverer of your deeds always; cover our enemies who cover our deeds.
 
@@ -1168,7 +1168,7 @@ He, who knows the abode of the year, becomes, verily, the possessor of an abode,
 
 [^P126_1]: *(Mantra 15)* Two months.
 
-### Anuvaka XXXII
+### XXXII
 
 1\. One should follow this rule (Vrata) for a year, or for two months.[^P126_r1_4]
 
@@ -1188,11 +1188,11 @@ He, who knows the abode of the year, becomes, verily, the possessor of an abode,
 
 [[P128]]
 
-## Prapathaka II
+## II
 
 [[P129]]
 
-### Anuvaka I
+### I
 
 Hariḥ Om.
 
@@ -1218,7 +1218,7 @@ Om Peace! Peace! Peace!
 
 5\. (One) puts upon the right hand and beneath the left hand; this is (called) the Yajñopavīta; contradictory to this is (called) the Prācīnāvīta; and that which is worn upon both shoulders is called the Mānuṣa (manly) (1).
 
-### Anuvaka II
+### II
 
 1\. Rākṣasas (demons) did, verily, great austerity in the ancient time. Prajāpati asked them to choose some boon. (They said), "May Āditya become fighter against us". Prajāpati said to them, "fight". Therefore, the Rākṣasas fight against the rising sun (Āditya) until that sets. These Rākṣasas become destroyed by the waters consecrated by the Gāyatrī Mantra.
 
@@ -1236,7 +1236,7 @@ Om Peace! Peace! Peace!
 
 5\. He, who knows thus, obtains Brahman being Brahman (himself) (1).
 
-### Anuvaka III
+### III
 
 1\. O divine gods, Ādityas, whatever have we caused, the anger to the gods, set us free from that and obtain me by the Ṛta (settled order) of the Ṛtas (sacrifice).
 
@@ -1271,7 +1271,7 @@ Om Peace! Peace! Peace!
 [^P132_8]: #11-12. T.S. 2.5.12.
 [^P132_9]: T.Br. 2.4.1.
 
-### Anuvaka IV
+### IV
 
 1\. Whatever debt I have found, being unable; or whatever, not paying, have I eaten of the men (who gave me debt); from that may Fire and Indra being concordant, set me free.
 
@@ -1300,7 +1300,7 @@ Om Peace! Peace! Peace!
 
 [[P134]]
 
-### Anuvaka V
+### V
 
 > *Note:* Mantras of the Kūṣmāṇḍa Homa. (From 1 to 17).
 
@@ -1342,7 +1342,7 @@ Om Peace! Peace! Peace!
 
 [[P136]]
 
-### Anuvaka VI
+### VI
 
 > *Note:* Mantras of the Kūṣmāṇḍa Homa. (From 1 to 13).
 
@@ -1378,7 +1378,7 @@ Om Peace! Peace! Peace!
 
 [[P138]]
 
-### Anuvaka VII
+### VII
 
 1\. Vātaraśanas were the seers, the hard-working ones, who kept their semen up. The (other) seers came to them for their purpose. Vātaraśanas hided themselves; they entered the Kūṣmāṇḍa Mantras (i.e. the Mantras of the Anuvākas 3–6). The seers found them in those (Kūṣmāṇḍa Mantras) by faithfulness and austerity.
 
@@ -1390,7 +1390,7 @@ Om Peace! Peace! Peace!
 
 5\. In the performances (one) should sacrifice by these; he, becoming purified, enjoys the heavenly world.
 
-### Anuvaka VIII
+### VIII
 
 > *Note:* Origin of the Kusmanda Homa and the use of those Mantras. (From 1 to 5). Consecration of the Kusm and a Homa. (From 1 to 10).
 
@@ -1420,7 +1420,7 @@ Om Peace! Peace! Peace!
 
 10\. If he thinks that he will become pale (by these rules) he may take in their place boiled rice, fried rice (or barley) and coarsely ground meal (Saktu) for not making himself pale (1).
 
-### Anuvaka IX
+### IX
 
 > *Note:* Study of the Vedas. (From 1 to 2).
 
@@ -1430,7 +1430,7 @@ Om Peace! Peace! Peace!
 
 [[P141]]
 
-### Anuvaka X
+### X
 
 > *Note:* The five great sacrifices.
 
@@ -1458,7 +1458,7 @@ Om Peace! Peace! Peace!
 
 8\. He makes the gods satisfied by the oblations of the milk, when he reads the Rces; by the oblations of ghee, when he reads the Yajuses; by the oblations of Soma, when he reads the Samans; by the oblation of the honey, when he reads the Atharvangiras (-Mantras); by the oblations of the fat, when he reads the Brahmanas, Itihasas (histories), Puranas, Kalpas, Gathas, Narasamsins (the praises of the heroes); (yea) he makes the gods satisfied. They, being satisfied, make him (the sacrificer) satisfied with the shining, brilliance, prosperity, fame, brilliance of sacred knowledge and food etc. (1).
 
-### Anuvaka XI
+### XI
 
 > *Note:* The description of the sacrifice of the Brahman (sacred study) with the quotation and the Brahmana-passage. (From 1 to 8).
 
@@ -1482,7 +1482,7 @@ Om Peace! Peace! Peace!
 
 [[P144]]
 
-### Anuvaka XII
+### XII
 
 1\. (One) should read his lesson silently in a village.
 
@@ -1492,7 +1492,7 @@ Om Peace! Peace! Peace!
 
 4\. Salutation to Brahman, may salutation be for the fire, salutation to the earth, salutation to the plants, salutation to the Vac, salutation to the Vacaspati; I make salutation to Visnu, the great one (1).
 
-### Anuvaka XIII
+### XIII
 
 > *Note:* Rules for reading in the village and the forest and the salutations. (From 1 to 5). Other particulars of Brahma-Yajna, with quotation and Brahmana-passage.
 
@@ -1508,7 +1508,7 @@ Om Peace! Peace! Peace!
 
 5\. After touching the waters he comes to his home; whatever he gives there, that is the Daksina (sacrificial fee) (1).
 
-### Anuvaka XIV
+### XIV
 
 > *Note:* Study in the rain etc. and its fruit. (From 1 to 3).
 
@@ -1520,7 +1520,7 @@ Om Peace! Peace! Peace!
 
 3\. (He) ascends the supreme heaven, becomes supreme among his equals; (he) obtains that great and not returning world which a person obtains after donating this earth full of the wealth; he wins the death, which comes again and again; he obtains the intimate relation with the Brahman (1).
 
-### Anuvaka XV
+### XV
 
 > *Note:* Intermissions of study and the details and importance of the Brahma-Yajna. (From 1 to 9).
 
@@ -1544,7 +1544,7 @@ Om Peace! Peace! Peace!
 
 9\. Whatever gods there are, they all live in the Brahmana, who knows the Vedas. Therefore, (one) should salute daily the Brahmanas, who know the Vedas; should not use bad words for them; (by this way) he pleases these gods (living in the Brahmanas) (1).
 
-### Anuvaka XVI
+### XVI
 
 1\. He, who causes (ones) sacrifice and who takes (sacrificial fee) from them, becomes empty in this and in that world. After causing one sacrifice and taking (fee) from him, he should read thrice his lesson of the Veda without taking the meal.
 
@@ -1552,7 +1552,7 @@ Om Peace! Peace! Peace!
 
 3\. The cow (vara) is the Daksina (sacrificial fee); he pleases vara (Atman) by the vara (cow); for the Atman is the vara (1).
 
-### Anuvaka XVII
+### XVII
 
 > *Note:* Atonement by study. (From 1 to 3).
 
@@ -1562,7 +1562,7 @@ Om Peace! Peace! Peace!
 
 2\. Not eating is his consecration; the place, the Upasada (going near); the seat, the pressing of the Soma; the speech, the oblation; the mind, the Upabhrt (the sacrificial ladle); the resolution, the Dhruva (the sacrificial ladle); the breath (Prana), the sacrificing; the Saman, the Adhvaryu priest. This sacrifice is of the Daksina (fee) of the breaths, the eternal Daksina, which is more prosperous (1).
 
-### Anuvaka XVIII
+### XVIII
 
 > *Note:* Atonement for the violation of the vow of chastity. (From 1 to 8).
 
@@ -1586,7 +1586,7 @@ Nectar is, verily, the ghee; he puts in himself the ghee, the nectar.
 
 8\. The cow (vara) is the Daksina (sacrificial fee); he pleases the vara (Atman) by vara; for Atman is the vara.
 
-### Anuvaka XIX
+### XIX
 
 > *Note:* Salutations and the description of a divine dolphin. (From 1 to 5).
 
@@ -1602,7 +1602,7 @@ Nectar is, verily, the ghee; he puts in himself the ghee, the nectar.
 
 5\. You are firm (polar star), you are the residing place of the firm (worlds), you are lord of the beings, you are supreme among the beings; the beings serve you from all sides; salutation to you, salutation, all salutation to you, salutation to Sisukumara (dolphin) (1).
 
-### Anuvaka XX
+### XX
 
 > *Note:* Salutations. (From 1 to 3).
 
@@ -1624,11 +1624,11 @@ Peace!
 
 [[P152]]
 
-## Prapathaka III
+## III
 
 [[P153]]
 
-### Anuvaka I
+### I
 
 > *Note:* Mantras for peace and propitiation.
 
@@ -1642,7 +1642,7 @@ Om Peace! Peace! Peace!
 
 2\. O Vacaspati (lord of speech), O disposer, making others bend (to salute), we spread your fame; spread our fame; may Vacaspati drink Soma and may he put vigour in us; hail! (1)
 
-### Anuvaka II
+### II
 
 > *Note:* Mantras of the Caturhotra Citi. Identification of the priests with the earth etc.
 
@@ -1654,19 +1654,19 @@ Om Peace! Peace! Peace!
 
 [[P154]]
 
-### Anuvaka III
+### III
 
 1\. The fire is the Hotṛ priest; Aśvins, the Adhvaryu priest; Tvaṣṭr, verily, the fire; Mitra, the impeller.
 
 2\. Soma is the first going one of the Soma-plant; the white Soma-juice is the first going one of the white (shining Mantras). Indra, Soma-juices have been prepared for you, who are of the speed of the wind and the hearer of the invokings; hail! (1)
 
-### Anuvaka IV
+### IV
 
 1\. The sun is your eye; the wind, the breath; the heaven, the back; the mid-region, the soul; (obtain) the sacrifice by the limbs; the earth, by the bodies.
 
 2\. O Vacaspati, by the full speech, by the unbroken ladle impel the sacrifice which increases the gods, in the heaven (1).
 
-### Anuvaka V
+### V
 
 > *Note:* Mantras describing the seven seers identified with the priests etc.
 
@@ -1678,13 +1678,13 @@ Om Peace! Peace! Peace!
 
 2\. O Vacaspati, O disposer of the heart, making others bend (to salute), I spread your fame; spread our fame. Vacaspati drank the Soma-juice. Do not cut the divine line, do not cut the manly line. Salutation to the heaven, salutation to the earth; hail! (1)
 
-### Anuvaka VI
+### VI
 
 1\. The speech is the Hotṛ priest; the consecration, the wife; the wind, the Adhvaryu priest; the waters, the Abhigar priest; the mind, the oblation; I sacrifice in the austerity.
 
 2\. Bhūr, Bhuvaḥ, Suvaḥ. Brahman is self-born, salutation to the Brahman, the self-born (1).
 
-### Anuvaka VII
+### VII
 
 > *Note:* Bodily functions identified with the priests, etc. and prayer. Ten Mantras to be uttered after the Cāturmāsya-Yāga. (From 1 to 10).
 
@@ -1714,11 +1714,11 @@ Om Peace! Peace! Peace!
 
 10\. Prajāpati is the sacrificer of ten (nine holes of the body and the navel), he is this all; may he grant me offspring, cattle, fame, and may all be mine (4).
 
-### Anuvaka VIII
+### VIII
 
 1\. The Fire (becomes satisfied) by the Yajuses; Savitṛ (sun), by the hymns; Indra, by the praises; Mitra and Varuṇa, by the prayers; Āṅgirases, by the Dhāniyāte (of side-altar) fires; Maruts, by the seat of the oblation-receptacles; the waters, by the prokṣaṇīs (vessels for putting the holy water); the plants, by the Barhi-grass; Aditi, by the altar; Soma, by the consecration (1); Tvaṣṭṛ, by the fuel; Viṣṇu, by the sacrifice; Vasus, by the ghee; Ādityas, by the Dakṣiṇā (sacrificial fee); All-gods (Viśvedevān), by the power; Pūṣan, by giving (their) own (oblations to the gods); Bṛhaspati, by the priest; Prajāpati, by the Udgītha (singing Samans in particular modes); the mid-region, by the Pavitra (fringed filtering cloth); the wind, by the pots; and I, by the faithfulness (2).
 
-### Anuvaka IX
+### IX
 
 > *Note:* The Śambhāra Yajus Mantras. The wives of the gods.
 
@@ -1726,7 +1726,7 @@ Om Peace! Peace! Peace!
 
 [[P158]]
 
-### Anuvaka X
+### X
 
 > *Note:* Mantras for taking Dakṣiṇā (sacrificial fee).
 
@@ -1742,7 +1742,7 @@ Om Peace! Peace! Peace!
 
 [^P159_r4]: *(Mantra 4)* Mantras for taking Dakṣiṇā (sacrificial fee).
 
-### Anuvaka XI
+### XI
 
 > *Note:* Hotṛ-hṛdaya Mantras.
 
@@ -1840,7 +1840,7 @@ Om Peace! Peace! Peace!
 
 34\. Whatever are the cattle of the forest, having many forms, having various forms, many and (as cattle) having one form; may the play of them all seven be here for wealth, nourishing and good vitality (12).
 
-### Anuvaka XII
+### XII
 
 > *Note:* The Puruṣa Sūkta. (From 1 to 18).
 
@@ -1884,7 +1884,7 @@ Om Peace! Peace! Peace!
 
 18\. The gods performed the sacrifice by the sacrifice (sacrificial person); these were the first holders (Dharma) of the creation; those great ones obtain the heaven where there are the ancient ages and the gods (7).
 
-### Anuvaka XIII
+### XIII
 
 > *Note:* Concluding portion of the Puruṣa-Sūkta. (From 1 to 5).
 
@@ -1902,7 +1902,7 @@ Om Peace! Peace! Peace!
 
 6\. (O Ātman:) the goddess of shyness and the goddess of prosperity are your wives; the days and the nights are the sides; the stars are the forms; Aśvins are the opened (mouth); grant the desired (thing); grant that (heaven); grant all (for me).
 
-### Anuvaka XIV
+### XIV
 
 > *Note:* Mantras to be used at the Upahoma after offering the oblations to Death-god. (From 1 to 10).
 
@@ -1930,7 +1930,7 @@ Om Peace! Peace! Peace!
 
 10\. Then you became as Prāṇa as the great enjoying of Prajāpati, when you caused to breathe well the nine gods (holes of the body).
 
-### Anuvaka XV
+### XV
 
 > *Note:* The Mṛtyu-Sūkta to be uttered after Brahma-medha sacrifice. (From 1 to 6).
 
@@ -1948,7 +1948,7 @@ Om Peace! Peace! Peace!
 
 6\. Saluting and praying, I worship the Death, born first of the Ṛta (Settled Order), who is the sprinkler of the beings and the one king of the progeny of the men (2).
 
-### Anuvaka XVI
+### XVI
 
 > *Note:* Mantras for Sūrya (sun).
 
@@ -1956,19 +1956,19 @@ Om Peace! Peace! Peace!
 
 [[P172]]
 
-### Anuvaka XVII
+### XVII
 
 1\. O Soma, the exalted one, be satisfied by all protections; be increased for us.[^P172_xvii_r1]
 
 [^P172_xvii_r1]: *(Mantra 1)* Funeral Mantra to be uttered when sprinkling water on the excavation made for burning the dead one.
 
-### Anuvaka XVIII
+### XVIII
 
 1\. Those men went to the Death, who saw the rising dawns in the old age, we have also to go to (Death) who are seeing (the dawns), and they will also go, who will see the dawns in future.[^P172_xviii_r1]
 
 [^P172_xviii_r1]: *(Mantra 1)* Mantra for bathing after funeral.
 
-### Anuvaka XIX
+### XIX
 
 1\. (O Fuel), I put you as shining one (on the dead one), I put you as the maker of the light, I put you as the knower of the light, I put you as full of light, I put you as burning, I put you as being burnt with the 'Malmala' sounds of the flames, I put you as being shined, I put you as being lighted, I put you as many, I put you as of great light, I put you as awaking one, I put you as waking one.[^P172_xix_r1]
 
@@ -1976,13 +1976,13 @@ Om Peace! Peace! Peace!
 
 [[P173]]
 
-### Anuvaka XX
+### XX
 
 1\. Hail! for Prayāsa, Hail! for Āyāsa! Hail! for Viyāsa, Hail! for Saṃyāsa! Hail! for Udyāsa, Hail! for Avayāsa! Hail! for Śuce! Hail! for Śoka! Hail! for Tapyatva, Hail! for Tapat! Hail! for the (sin of) killing of the Brāhmaṇas, Hail! for all.[^P173_xx_r1]
 
 [^P173_xx_r1]: *(Mantra 1)* Mantras for offering oblations to the gods of the region of Yama (i.e., the gods of the region of Yama who inflict punishment).
 
-### Anuvaka XXI
+### XXI
 
 1\. (I sacrifice) for (the god) Citta (heart) by progeny; for Bhava by liver (Yakṛt), for Rudra by the flesh of the lower part, for Paśupati (lord of cattle) by the fat heart, for the fire by heart, for Rudra by the blood, for Śarva by the nerves, for Mahādeva (great god) by the inner sides, for Osiṣṭhahana by fleshes (named Śiṃśinikā, i.e., the parts of singing organs).[^P173_xxi_r1]
 
@@ -1994,11 +1994,11 @@ Om Peace! Peace! Peace!
 
 [[P174]]
 
-## Prapathaka IV
+## IV
 
 [[P175]]
 
-### Anuvaka I
+### I
 
 > *Section:* The Pravargya Sacrifice.
 
@@ -2024,7 +2024,7 @@ Hariḥ Oṃ.
 
 Om Peace! Peace! Peace!
 
-### Anuvaka II
+### II
 
 > *Section:* The construction of the Mahāvīra.
 
@@ -2120,7 +2120,7 @@ Om Peace! Peace! Peace!
 
 25\. You are the sacrifice (6).
 
-### Anuvaka III
+### III
 
 > *Note:* Sanctification of Mahāvīra.
 
@@ -2168,13 +2168,13 @@ Om Peace! Peace! Peace!
 
 [[P180]]
 
-### Anuvaka IV
+### IV
 
 1\. O Brahman, I perform by the Pravargya (-sacrifice); O Hotṛ (priest), praise well the Gharma (Pravargya); O Āgnīdhra and Rauhiṇa (-priests) put the Puroḍāśa above; O Pratiprasthātṛ (-priest), bring; O Prastotṛ (-priest) sing the Sāmans.
 
 2\. May the stobhas (hymns) carry you, who are full of Yajus-Mantras, of satisfied senses by the Sāmans, assented by the all-gods (Viśve-devas) and Maruts; made vast by the Dakṣiṇās (sacrificial fees), taking across and pleasant-minded one; may you put splendour for us being not injured; Bhūr, Bhuvaḥ, Suvar; perform (the Pravargya, O priests) (1).
 
-### Anuvaka V
+### V
 
 > *Note:* Exhortations (From 1 to 2). Placing of the Mahāvīra on the fire.
 
@@ -2256,7 +2256,7 @@ Om Peace! Peace! Peace!
 
 [^P183_r19]: *(Mantra 19)* Mantra for blazing the fire by that fan.
 
-### Anuvaka VI
+### VI
 
 > *Note:* Mantras for sanctifying the Mahāvīra.
 
@@ -2282,7 +2282,7 @@ Om Peace! Peace! Peace!
 
 7\. You shine in the east by ten (rays); you shine in the south by ten (rays); you shine in the west by ten (rays); you shine in the north by ten (rays); you shine above by ten (rays), being pleasant-minded one; O emperor, you as such put food and vigour for us; as possessor of the food purifying me, the possessor of the food; the Gharma (Mahāvīra) has been shining by me; may I become shining (2).
 
-### Anuvaka VII
+### VII
 
 > *Note:* Mantras for looking at the Mahāvīra.
 
@@ -2348,7 +2348,7 @@ Om Peace! Peace! Peace!
 
 [^P186_r7_19]: *(Mantra 19)* Mantra to be uttered by the wife of the sacrificer after looking at the Mahāvīra.
 
-### Anuvaka VIII
+### VIII
 
 > *Note:* Mantras for pouring milk on the Mahāvīra.
 
@@ -2442,7 +2442,7 @@ Om Peace! Peace! Peace!
 
 [^P188_r8_22]: *(Mantra 22)* Mantra for bringing the Mahāvīra.
 
-### Anuvaka IX
+### IX
 
 > *Note:* Sacrificing of the oblations to the Āhavanīya-fire.
 
@@ -2476,7 +2476,7 @@ Om Peace! Peace! Peace!
 
 [[P190]]
 
-### Anuvaka X
+### X
 
 > *Note:* Agnihotra sacrifice from the remaining articles.
 
@@ -2530,7 +2530,7 @@ Om Peace! Peace! Peace!
 
 [^P191_r10_12]: *(Mantra 12)* Mantra for filling the sacrificial vessels for morning and evening offerings, before the Āhavanīya fire.
 
-### Anuvaka XI
+### XI
 
 > *Note:* Mantras for taking down the Pravargya.
 
@@ -2624,7 +2624,7 @@ Om Peace! Peace! Peace!
 
 [^P194_r11_25]: *(Mantra 25)* Mantras for making oblation to the Āhavanīya fire.
 
-### Anuvaka XII
+### XII
 
 > *Note:* Collection of the milk, honey, and curd in the Mahāvīra pot.
 
@@ -2638,17 +2638,17 @@ Om Peace! Peace! Peace!
 
 [[P195]]
 
-### Anuvaka XIII
+### XIII
 
 1\. The heaven sprinkled the earth; the young bull sprinkled the cows; all these worlds have been sprinkled; may the sprinkled sacrifice generate.
 
 2\. The sprinkled one generated, (yea), generated well; from the sprinkled one the sprinkling one is generated; may we generate from our sprinkled one.
 
-### Anuvaka XIV
+### XIV
 
 1\. I destroy that lightning, which fell from the east by this your sacrifice; I destroy that lightning, which fell from the south, west, north, or above by this your sacrifice.
 
-### Anuvaka XV
+### XV
 
 1\. Hail for Prāṇa-breath! Hail for Apāna-breath! Hail for the eye!
 
@@ -2658,7 +2658,7 @@ Hail!
 
 Hail for the ear! Hail for the mind! Hail for the Vāc! Hail for Sarasvatī!
 
-### Anuvaka XVI
+### XVI
 
 > *Note:* Expiations for defects in the Pravargya rite.
 
@@ -2668,13 +2668,13 @@ Hail for the ear! Hail for the mind! Hail for the Vāc! Hail for Sarasvatī!
 
 [[P196]]
 
-### Anuvaka XVII
+### XVII
 
 > *Note:* Consecration of the receptacle of the fire.
 
 1\. The sun, rising by the power of this, did not get the trouble and holds all the burden like the earth; may the clean goddess Manīṣā (wisdom) come to us like a well-made, swift chariot. Some, worshipping that, decide that as the great Sāman; they held the sun by that; by that they made the sun shine; what is this Gharma (Pravargya), the head (of the sacrifice), that is this fire. You are the fulfilling, may that (Pravargya) be dear with offspring and cattle; may Prajāpati put you with that god; sit firm with Aṅgiras.
 
-### Anuvaka XVIII
+### XVIII
 
 > *Note:* Prayer to Agni.
 
@@ -2682,7 +2682,7 @@ Hail for the ear! Hail for the mind! Hail for the Vāc! Hail for Sarasvatī!
 
 [^P196_r1]: *(Mantra 1)* Prayer to Agni.
 
-### Anuvaka XIX
+### XIX
 
 > *Note:* Consecration of the receptacle of the fire.
 
@@ -2694,7 +2694,7 @@ Hail for the ear! Hail for the mind! Hail for the Vāc! Hail for Sarasvatī!
 
 Bhur, Bhuvah, Suvah.
 
-### Anuvaka XX
+### XX
 
 1\. Bhūr, Bhuvaḥ, Suvaḥ.
 
@@ -2740,13 +2740,13 @@ Expiation for the breaking of the Mahāvīra.
 
 [[P199]]
 
-### Anuvaka XXI
+### XXI
 
 1\. Bhūḥ, Bhuvaḥ, Suvaḥ. Put that great sense-organ in me; courage in me; the power in me; put good vigour in me; may the Gharma shine in three ways for me with will and mind, with food and light, with sacrifice and milk, with Brahman and brilliance, with Kṣatra and fame, with truth and austerity; may we enjoy the milking of that (Gharma); may we enjoy the comfort of that; may we enjoy the food of that; may we, being assented, drink your juice, which has been drunk by Indra first, assented and full of honey.[^P199_10]
 
 [^P199_10]: *(Benedictory Mantra)* Benedictory Mantra at the end of the Pravargya.
 
-### Anuvaka XXII
+### XXII
 
 > *Note:* Addresses to the fire.
 
@@ -2754,7 +2754,7 @@ Expiation for the breaking of the Mahāvīra.
 
 [^P199_r1]: *(Mantra 1)* Addresses to the Fire.
 
-### Anuvaka XXIII
+### XXIII
 
 > *Note:* Addresses to the fire.
 
@@ -2764,7 +2764,7 @@ Expiation for the breaking of the Mahāvīra.
 
 [[P200]]
 
-### Anuvaka XXIV
+### XXIV
 
 > *Note:* Naming of the cooking pans by the names of Maruts.
 
@@ -2772,11 +2772,11 @@ Expiation for the breaking of the Mahāvīra.
 
 [^P200_r1_maruts]: *(Mantra 1)* Naming of the cooking pans by the names of Maruts.
 
-### Anuvaka XXV
+### XXV
 
 1\. Ugra, Dhuni, Dhvanta, Dhvena, Dhvanayen, Sebeṣvan, Sehemana, Sahīyān, Etya, Pretya, Vikṣipa (these are the names of Maruts).
 
-### Anuvaka XXVI
+### XXVI
 
 > *Note:* Imprecatory phrases.
 
@@ -2784,7 +2784,7 @@ Expiation for the breaking of the Mahāvīra.
 
 [^P200_r1_imprec]: *(Mantra 1)* Imprecatory phrases.
 
-### Anuvaka XXVII
+### XXVII
 
 > *Note:* Expiations if the oblations are stolen.
 
@@ -2794,7 +2794,7 @@ Expiation for the breaking of the Mahāvīra.
 
 [[P201]]
 
-### Anuvaka XXVIII
+### XXVIII
 
 1\. O Indra, moving set free the cows to move; make us, the last ones, possessors of the cattle; punish that ill-wishing one by the thunderbolt, strike on that sleeping one for (taking) his food.
 
@@ -2802,11 +2802,11 @@ Expiation for the breaking of the Mahāvīra.
 
 3\. O Fire, salutation to you once, salutation to you twice, salutation to you thrice, salutation to you four times, salutation to you five times, salutation to you ten times, salutation to you hundred times, salutation to you thousand times, salutation to you innumerable times; may salutation be to you; do not, do not kill.
 
-### Anuvaka XXIX
+### XXIX
 
 1\. You are the envoy of Yama and Rudra both sent (here, in the form) having bloody mouth, being unknown on account of being covered by the blood, having the feet like the dog, the envoy of Yama you run as a vulture, having good feathers you enjoy the corpse.
 
-### Anuvaka XXX
+### XXX
 
 > *Note:* Expiations if a vulture, jackal, or wolf is seen.
 
@@ -2818,19 +2818,19 @@ Expiations if the wolf is seen. Expiations if a vulture is seen. Expiations if a
 
 [[P202]]
 
-### Anuvaka XXXI
+### XXXI
 
 1\. Which attacking ram cries this speech being sent by someone or coming by his own will, may Indra and Fire, being concordant with Brahman, make that speech auspicious for us.
 
-### Anuvaka XXXII
+### XXXII
 
 1\. O long-faced and bad-jawed, do not cry in our right side; if you speak in my right side, then destroy our enemies.
 
-### Anuvaka XXXIII
+### XXXIII
 
 1\. The owl has come in this way having golden eye and iron-mouth, the envoy of the demons (Rākṣasas); O Fire, destroy that from here.
 
-### Anuvaka XXXIV
+### XXXIV
 
 > *Note:* Expiation if a man possessed by ghosts speaks.
 
@@ -2840,13 +2840,13 @@ Expiations if the wolf is seen. Expiations if a vulture is seen. Expiations if a
 
 [[P203]]
 
-### Anuvaka XXXV
+### XXXV
 
 1\. You fall here spreading your thighs, you shut again and again your left eye; may there not be any disease to anyone.
 
 Expiations if a vulture falls.
 
-### Anuvaka XXXVI
+### XXXVI
 
 > *Note:* Expiations if the worms fall in the oblation.
 
@@ -2854,7 +2854,7 @@ Expiations if a vulture falls.
 
 [^P203_r1]: *(Mantra 1)* Expiations if the worms fall in the oblation.
 
-### Anuvaka XXXVII
+### XXXVII
 
 > *Note:* Oblation for killing somebody by imprecation.
 
@@ -2864,11 +2864,11 @@ Expiations if a vulture falls.
 
 [[P204]]
 
-### Anuvaka XXXVIII
+### XXXVIII
 
 1\. I curse you by sacred knowledge, I curse you by the oath of the sacred knowledge; I see you by the cruel eyes of Bhṛgus; I meditate you by the cruel mind of Āṅgirasas; I injure by the edge of the cruel weapon; O you named such, fall beneath me.
 
-### Anuvaka XXXIX
+### XXXIX
 
 > *Note:* Siṃījavarī-herb should be plucked in the cow-shed of him who is to be killed by imprecation.
 
@@ -2876,7 +2876,7 @@ Expiations if a vulture falls.
 
 [^P204_r1]: *(Mantra 1)* Siṃījavarī-herb should be plucked in the cow-shed of him who is to be killed by imprecation.
 
-### Anuvaka XL
+### XL
 
 > *Note:* Imprecation for killing the enemies / Sāma hymn.
 
@@ -2886,7 +2886,7 @@ Expiations if a vulture falls.
 
 [[P205]]
 
-### Anuvaka XLI
+### XLI
 
 > *Note:* Offering of the Udumbara wood to the fire while making consecration.
 
@@ -2916,7 +2916,7 @@ Expiations if a vulture falls.
 
 [^P206_6]: Brilliance of sacred knowledge: divine intuition.
 
-### Anuvaka XLII
+### XLII
 
 1\. May the wind, living in the mid-region, blow being auspicious for us; may the sun shine being auspicious for us; may the days be auspicious for us; may the night be performed auspicious for us.
 
@@ -3018,13 +3018,13 @@ Peace!
 
 [[P212]]
 
-## Prapathaka V
+## V
 
 > *Note:* Brāhmaṇas of the Mantras of the Prapāṭhaka IV.[^P213_1]
 
 [[P213]]
 
-### Anuvaka I
+### I
 
 > *Note:* An anecdote about the Pravargya.
 
@@ -3054,7 +3054,7 @@ Auspicious for us... may that not leave us. Om Peace! Peace! Peace![^P213_2]
 
 7\. If one begins the Pravargya sacrifice, then he puts the head of the sacrifice; by that headful sacrifice the sacrificer obtains the benedictions and wins the heavenly world; for this cause this Pravargya sacrifice has Aśvins as chief ones.
 
-### Anuvaka II
+### II
 
 > *Note:* The importance of the Pravargya-sacrifice. Brāhmaṇa-passages of the Mantras T.A. 4.2. (From 1 to 35).[^P215_r1_35]
 
@@ -3138,7 +3138,7 @@ Auspicious for us... may that not leave us. Om Peace! Peace! Peace![^P213_2]
 
 35\. He makes that with the hairs of the skin of the black antelope; the sacrifice is, verily, the skin of the black antelope; he makes the sacrifice, indeed, with the sacrifice.
 
-### Anuvaka III
+### III
 
 > *Note:* Preparation of the Mahāvīra-pot has been described in this Anuvāka with the details.
 
@@ -3216,7 +3216,7 @@ Auspicious for us... may that not leave us. Om Peace! Peace! Peace![^P213_2]
 
 34\. He says, "O god of infront, I hang you above"; this is according to the Yajus-Mantra.
 
-### Anuvaka IV
+### IV
 
 > *Note:* Use of the Mantras for placing the Mahāvīra. (From 1 to 43).[^P222_r1_43]
 
@@ -3316,7 +3316,7 @@ Auspicious for us... may that not leave us. Om Peace! Peace! Peace![^P213_2]
 
 43\. They fan all round; hence this wind blows all round.
 
-### Anuvaka V
+### V
 
 1\. He says, "May the fire, with Vasus, make you shine in the east by the Gāyatrī metre"; the fire, indeed, makes him shine in the east with Vasus by the Gāyatrī metre.
 
@@ -3338,7 +3338,7 @@ Auspicious for us... may that not leave us. Om Peace! Peace! Peace![^P213_2]
 
 6\. If he says, "O Gharma, you are shining" without making him shine by these Yajus-Mantras, then the Adhvaryu becomes not shining and also the sacrificer becomes not shining. If he says, "O Gharma, you are shining" making him shine by these Yajus-Mantras; then the Adhvaryu-priest becomes shining, and also the sacrificer becomes shining (3).
 
-### Anuvaka VI
+### VI
 
 1\. Which is this Pravargya, that is the head of the sacrifice, the neck are the Upasad (-sacrifices); he begins (puts milk in the hot ghee) the Pravargya before the Upasads; hence he puts the head on the necks.
 
@@ -3428,7 +3428,7 @@ Auspicious for us... may that not leave us. Om Peace! Peace! Peace![^P213_2]
 
 40\. One says, "May I make sexual intercourse full of the form-making god"; by the intercourse, verily, the offsprings are born.
 
-### Anuvaka VII
+### VII
 
 1\. Saying, "by the impelling of the god Savitr I take you" he takes the girdle for the impelling. He says, "by the arms of Asvinas; for Asvinas are the Adhvaryu-priests of the gods." He says, "by the hands of Pusan" for the going (-capacity).
 
@@ -3524,7 +3524,7 @@ Auspicious for us... may that not leave us. Om Peace! Peace! Peace![^P213_2]
 
 [[P237]]
 
-### Anuvaka VIII
+### VIII
 
 1\. He says, "All the good-wishes are (in Brahman), sitting in the south"; (by this) he pleases all the gods; and also protects him from all the faults.
 
@@ -3630,7 +3630,7 @@ Auspicious for us... may that not leave us. Om Peace! Peace! Peace![^P213_2]
 
 48\. By "Hail for you, the rays of the sun" he seats together (fills) in the morning and by "Hail for you, the stars" he (does so) in the evening. These are the gods of these; by those he increases this (13).
 
-### Anuvaka IX
+### IX
 
 1\. By "O Gharma, what is your sorrow in the heaven" he sacrifices oblations thrice; by the metres, verily, he destroys the sorrow from these worlds.
 
@@ -3716,7 +3716,7 @@ Auspicious for us... may that not leave us. Om Peace! Peace! Peace![^P213_2]
 
 38\. He, who dismisses the Pravargya, he falls from the heavenly world; hence after coming he sacrifices again in the household fire by "above, that wonderful", the Rcst related to the sun; the household fire is, verily, this world; he becomes firm in this world; that sun is, verily, the heavenly world; what are the Rcs of the sun, by that he goes to the heavenly world (11).
 
-### Anuvaka X
+### X
 
 1\. The gods milked from Prajapati, (the cow) this white milk (Pravargya-sacrifice). That was not various (enough) for them. The fire made that various. They became the white Samans; what drops fell from them they became the white Yajuses; these are, verily, of the white Samans. Of these two, one is the milk of the Samans and the next is dear to the gods. Which is the milk of the cow (1), that is the milk of the Samans. Which is the milk of the goat, that is the milk of the gods. Therefore, where they perform by the Yajuses, there they perform by the milk. In this way they increase Prajapati and gods by the milk and food etc.
 
@@ -3742,7 +3742,7 @@ Auspicious for us... may that not leave us. Om Peace! Peace! Peace![^P213_2]
 
 [[P247]]
 
-### Anuvaka XI
+### XI
 
 1\. When this (Pravargya) is being fulfilled, then this is Prajapati; when this is fulfilled, then this is Samrat; when milk is poured in the hot water, then this is Gharma; when this is dismissed, then this is Mahavira; which is the Pravargya, that is the sun; he made these names.
 
@@ -3762,7 +3762,7 @@ Auspicious for us... may that not leave us. Om Peace! Peace! Peace![^P213_2]
 
 8\. Which is the Pravargya, that is, verily, twelvefold Prajapati; what Mantras are before the Avakasa-Mantras, by those he created the offsprings; by the Avakasa-Mantras he created the gods and the Asuras (demons); what Mantras are after the Avakasas, by them he created the food; this is Prajapati; this (Pravargya) is, verily, Prajapati (5).
 
-### Anuvaka XII
+### XII
 
 1\. This (Pravargya) is performed being Savitr in the first day; by that this obtains the desires. When in the second day this is performed, then this goes to the gods being fire. When this is performed in the third day, then this goes to the breaths being the wind. When this is performed in the fourth day, then this goes to the rays being sun. When this is performed in the fifth day, then this goes to the stars being moon (1). When this is performed in the sixth day, then this goes to the year being season. When this is performed in the seventh day, then this goes to the Sakvari hymn being disposer. When this is performed in the eighth day, then this goes to the Gayatri (-metre) being Brhaspati. When this is performed in the ninth day, then this goes to these threefold worlds being Mitra. When this is performed in the tenth day, then this goes to the Virat (-metre) being Varuna (2). When this is performed in the eleventh day, then this goes to the Tristup (-metre) being Indra. When this is performed in the twelfth day, then this goes to the pressing of Soma being Soma.
 
@@ -3778,11 +3778,11 @@ Om Peace! Peace! Peace!
 
 [[P250]]
 
-## Prapathaka VI
+## VI
 
 [[P251]]
 
-### Anuvaka I
+### I
 
 Harih Om.
 
@@ -3892,7 +3892,7 @@ Peace !
 
 [[P254]]
 
-### Anuvaka II
+### II
 
 1\. Hail for them who are the preservers of his way : Hail for them who are the protectors of his way! Hail for them who are all-round protectors of him! Hail for the maker of the same! Hail for the abuser! Hail for him who says his fame to the gods! Hail for him who says his bad deeds to the gods! Hail for the fire! Hail for the acting one! Hail for him whom we are not reading here![^P254_1]
 
@@ -3906,7 +3906,7 @@ Peace !
 
 [^P254_3]: Address to fire for taking the dead body in the heaven.
 
-### Anuvaka III
+### III
 
 1\. This Fire is burning with great flames; he sounds all the worlds being born as a bull; he pervaded my (sacrificer) from the near-place of the heaven; he has increased at the place of the waters as a great one.[^P254_4]
 
@@ -3972,7 +3972,7 @@ Peace !
 
 [[P257]]
 
-### Anuvaka IV
+### IV
 
 1\. We now blow out that fire by milk and water, which we burnt for cooking you as (cooking) a bull.[^P257_1]
 
@@ -4032,7 +4032,7 @@ Peace !
 
 [[P259]]
 
-### Anuvaka V
+### V
 
 1\. May well-known Yama come by pleasant-minded protections, may Yami (wife of Yama) also come accompanied by settled (protection); may they sit on the well-settled Darbha-grass, verily, for vigour, good caste and destruction of the enemies.[^P259_1]
 
@@ -4094,7 +4094,7 @@ Peace !
 
 [^P260_14]: Mantras for taking up the ghee.
 
-### Anuvaka VI
+### VI
 
 1\. I sacrifice for the fire this oblation of thousand flows and hundred streams; may this fire hold increasingly in that my father, grandfather and great-grandfather.[^P260_1]
 
@@ -4158,7 +4158,7 @@ Peace !
 
 [[P263]]
 
-### Anuvaka VII
+### VII
 
 1\. I make the earth firm for you; may I not be violated putting this world (clod) upon you; may the fathers hold this pillar for you; may Yama make place for you.[^P263_1]
 
@@ -4234,7 +4234,7 @@ Peace !
 
 [[P266]]
 
-### Anuvaka VIII
+### VIII
 
 1\. May the Caru (food as oblation) with Apupa (particular bread) and ghee take place here, making the earth and the heaven firm above. Whoever are here the share-holders of ghee among the gods, may they serve as makers of seat and way. This is put Svadha (food) for you in the home of Yama, O...(dead one!). (That is) ten-syllabled (virat-Mantra); protect that, preserve that; I give you that; may not the fathers and the gods injure you in that; may Prajapati put you with that god.[^P266_1]
 
@@ -4246,7 +4246,7 @@ Peace !
 
 [[P267]]
 
-### Anuvaka IX
+### IX
 
 1\. Whatever fried corns I scatter here, by those I make immortal Svadha (food) for you; may Yama, concordant with the gods, make them desire-milking cows for you here.[^P267_1]
 
@@ -4308,7 +4308,7 @@ Peace !
 
 [[P268]]
 
-### Anuvaka X
+### X
 
 1\. (O relative ones:) ascend this life (skin), praising to live up to the old age; try (to ascend respectively); may Dhatr, of good birth and having good gems make your life long to live well.[^P268_1]
 
@@ -4366,7 +4366,7 @@ Peace !
 
 [[P270]]
 
-### Anuvaka XI
+### XI
 
 1\. O fire, may you shine taking away our sin; may you shine wealth; may you shine taking away our sin.[^P270_1]
 
@@ -4416,7 +4416,7 @@ Peace !
 
 [^P270_12]: Mantras for offering the oblations.
 
-### Anuvaka XII
+### XII
 
 1\. We have seen the Rajagavi, living one, being carried for the sake of the dead, acting as young, which has been covered by the blind darkness (of the fear of being slaughtered); we know that releasing of the Rajagavi (cow) which is led with a corpse.[^P271_1]
 
@@ -4458,13 +4458,13 @@ Peace !
 
 [[P272]]
 
-## Prapathaka VII
+## VII
 
 [[P273]]
 
 (The Taittiriya Upanisad, Sikṣa-valli)
 
-### Anuvaka I (Prayer for Auspices and Peace)
+### I (Prayer for Auspices and Peace)
 
 Om. Auspicious for us (may) Mitra (be), auspicious (may) Varuna (be); auspicious for us may Aryaman be; auspicious for us (may) Indra (and) Bṛhaspati (be); auspicious for us (may) wide-strider Viṣṇu (be).[^P273_r1]
 
@@ -4474,11 +4474,11 @@ Salutation to Brahman, salutation to you, O Vayu; you, indeed, are the perceptib
 
 Om. Peace, peace, peace. (1)
 
-### Anuvaka II (Lesson on Orthoepy)
+### II (Lesson on Orthoepy)
 
 Om. We will explain orthoepy: sound (varṇa), accent (svara), quantity (mātrā), force (bala), modulation (sāma), combination (saṃhitā). Thus has been declared the lesson on orthoepy. (1)
 
-### Anuvaka III (Prayer and mysticism of five combinations)
+### III (Prayer and mysticism of five combinations)
 
 (May) glory (be) with us two;[^P273_2] (may) splendour of sacred knowledge (brahma-varcas) (be) with us two.[^P273_r3]
 
@@ -4506,7 +4506,7 @@ He who knows these great combinations thus explained, is conjoined with progeny,
 
 [[P275]]
 
-### Anuvaka IV (Prayer)
+### IV (Prayer)
 
 Who is the bull (pre-eminent) in the vedic chants (chandas), (who) is the all-formed (viśvarūpa); has sprung up from immortality above the vedic chants; may that Indra cheer me with intelligence; O God, may I be the possessor of immortality.
 
@@ -4532,7 +4532,7 @@ As waters go downward; as months into the year; so to me may students of sacred 
 
 You are a refuge; shine upon me, come to me. (3)
 
-### Anuvaka V (Contemplation of four mystic utterances)
+### V (Contemplation of four mystic utterances)
 
 Bhūr, Bhuvas, Suvar: verily, these (are) the three utterances (vyāhṛtis).
 
@@ -4548,7 +4548,7 @@ Who knows these, he knows Brahman; all the gods bring offering to him. (3)
 
 [[P277]]
 
-### Anuvaka VI (Relation of the utterances with Brahman)
+### VI (Relation of the utterances with Brahman)
 
 This space that is within the heart, therein is this Person (Puruṣa), consisting of mind (manomaya), immortal (and) bright.
 
@@ -4562,7 +4562,7 @@ Within the palate, that which hangs down like a nipple, that is the birthplace o
 
 Thus, O Prācīnayogya, worship.
 
-### Anuvaka VII (Brahman as fivefold)
+### VII (Brahman as fivefold)
 
 Earth, mid-region, heaven, quarters, intermediate quarters; Fire (Agni), Wind (Vāyu), Sun (Āditya), Moon (Candramas), Stars (Nakṣatras); waters, plants, trees, space (ākāśa) and self (ātman): this much concerning material existence (ādhibhūta).
 
@@ -4572,7 +4572,7 @@ Having ordained this, the seer said: 'Fivefold (paṅkta), verily, is this all; 
 
 [[P278]]
 
-### Anuvaka VIII (Contemplation of Om)
+### VIII (Contemplation of Om)
 
 Om is Brahman.
 
@@ -4580,7 +4580,7 @@ Om is this all (world).
 
 Om, verily, this is compliance; and (on uttering) 'O recite' they recite. With Om they sing Sāmans. With Om 'Śaṃs' they recite the prayers (śastras). With Om the Adhvaryu (priest) utters the encouraging word (pratigara). With Om the Brahman (priest) impels. With Om (one) assents to the oblation to Fire (Agnihotra). 'Om' says the Brāhmaṇa about to recite 'May I obtain Brahman.' He does obtain the Brahman. (1)
 
-### Anuvaka IX (Study and teaching with all other duties)
+### IX (Study and teaching with all other duties)
 
 The settled order (ṛta), as well as study and teaching; the truth, as well as study and teaching; penance, as well as study and teaching; self-control, as well as study and teaching; peace, as well as study and teaching; the (sacrificial) fires, as well as study and teaching; Agnihotra (sacrifice), as well as study and teaching; guests, as well as study and teaching; humanity, as well as study and teaching; offspring, as well as study and teaching; begetting, as well as study and teaching; procreation, as well as study and teaching.
 
@@ -4588,11 +4588,11 @@ The settled order (ṛta), as well as study and teaching; the truth, as well as 
 
 'Study and teaching only'—says Naka, the son of Mudgala, for that is penance, for that is penance.
 
-### Anuvaka X (Ātma-Meditation)
+### X (Ātma-Meditation)
 
 I am the mover of the tree (worldly illusion); (my) fame (is) like the mountain's peak. I am highly pure like the excellent Immortal in the sun. (I am) shining wealth, (I am) wise, immortal and undecaying. This is Triśaṅku's recitation of Vedic knowledge. (1)
 
-### Anuvaka XI (Exhortation after teaching)
+### XI (Exhortation after teaching)
 
 Having taught the Veda, the teacher exhorts the pupils:
 
@@ -4620,7 +4620,7 @@ This is the direction. This is the advice. This is the mystic doctrine of the Ve
 
 [[P280]]
 
-### Anuvaka XII (Prayer for auspices and peace)
+### XII (Prayer for auspices and peace)
 
 Om. Auspicious for us (may) Mitra (be), auspicious (may) Varuna (be), auspicious for us may Aryaman be; auspicious for us (may) Indra (and) Bṛhaspati (be); auspicious for us (may) wide-strider Viṣṇu (be).[^P280_1]
 
@@ -4636,11 +4636,11 @@ Om. Peace, peace, peace.[^P280_2]
 
 [[P282]]
 
-## Prapathaka VIII
+## VIII
 
 (The Taittiriyopanisad, Brahmananda-Valli)
 
-### Anuvaka I (Prayer for good-feeling between teacher and disciple. Knowledge of Brahman)
+### I (Prayer for good-feeling between teacher and disciple. Knowledge of Brahman)
 
 Harih Om. May (Brahman) protect us both together.[^P282_2] May (He) nourish us both together. May we both show strength together. May the learning of us both be brilliant. May we not hate each other. Om. Peace, peace, peace.[^P282_3]
 
@@ -4660,7 +4660,7 @@ As to that there is also this verse:
 
 [[P283]]
 
-### Anuvaka II (Food as Brahman. From food to breath)
+### II (Food as Brahman. From food to breath)
 
 From food, verily, creatures are born, whatever (creatures) dwell on earth. Moreover, by food, surely, they live; and then again they go to the food in the end. For food is, truly, the eldest of beings; therefore, it is called the medicament of all. All food, verily, they obtain, who worship food as Brahman. For food is, truly, the eldest of beings; therefore, it is called the medicament of all. From food are beings born; by food, when born, they grow. It is eaten and it eats beings; thence it is called food.
 
@@ -4670,7 +4670,7 @@ He, verily, this one, is just like man. After his human shape, this one (consist
 
 As to that there is also this verse:
 
-### Anuvaka III (Prāṇa as Brahman. From prāṇa to manas)
+### III (Prāṇa as Brahman. From prāṇa to manas)
 
 The gods breathe with breath (prāṇa), as also men and beasts. For breath, verily, is the life-duration of all beings; therefore, it is called the life-duration of all. The whole life-duration do they obtain, who worship breath as Brahman. For breath, verily, is the life-duration of beings; therefore, it is called the life-duration of all. Of that, of the former, this one, verily, is the self embodied.
 
@@ -4682,7 +4682,7 @@ He, verily, this one, is just like man. After his human shape, this one (consist
 
 As to that there is also this verse:
 
-### Anuvaka IV (Brahman beyond speech and thought. From mind to knowledge)
+### IV (Brahman beyond speech and thought. From mind to knowledge)
 
 Whence words turn back together with the mind without reaching, he who knows that bliss of Brahman fears not at any time. Of that, of the former, verily, this is the self embodied.
 
@@ -4694,7 +4694,7 @@ As to that there is this verse:
 
 [[P285]]
 
-### Anuvaka V (Knowledge as Brahman. From knowledge to bliss)
+### V (Knowledge as Brahman. From knowledge to bliss)
 
 Knowledge accomplishes sacrifice; and also accomplishes deeds; all gods worship knowledge as Brahman, the Eldest. If (one) understands knowledge as Brahman (and) if from That he does not swerve, he, leaving sin in the body, obtains all desires. Of that, of the former, verily, this is the self embodied.
 
@@ -4704,7 +4704,7 @@ He, verily, this one, is just like man. After his human shape, this one consisti
 
 As to that there is also this verse:
 
-### Anuvaka VI (Brahman)
+### VI (Brahman)
 
 Non-existent (asat), verily, he becomes, if he knows Brahman non-existent. If he knows Brahman existent, then (people) know him existent. Of that, of the former, verily, this is the self embodied.
 
@@ -4722,7 +4722,7 @@ Having entered it, he became existent and tyat; defined and undefined; support a
 
 As to that there is also this verse:
 
-### Anuvaka VII (Creation)
+### VII (Creation)
 
 This (world) was, verily, non-existent in the beginning; thence, verily, existence was produced. That made its soul itself; therefore it is called the well-done (or self-done).
 
@@ -4738,7 +4738,7 @@ As to that there is also this verse:
 
 [[P287]]
 
-### Anuvaka VIII (Supreme Brahman and Bliss)
+### VIII (Supreme Brahman and Bliss)
 
 Through fear of Him the wind (vāyu) blows; through fear the sun (sūrya) rises; through fear of Him Fire (Agni) and Indra (and) Death (mṛtyu) as fifth speed.
 
@@ -4772,7 +4772,7 @@ He who knowing this, after departing from this world, proceeds on to this self, 
 
 As to that there is also this verse:
 
-### Anuvaka IX (Brahman beyond speech and mind)
+### IX (Brahman beyond speech and mind)
 
 Whence words turn back together with the mind without reaching, he who knows that bliss of Brahman fears not from any side.
 
@@ -4792,13 +4792,13 @@ Peace, peace, peace.[^P289_1]
 
 [[P291]]
 
-## Prapathaka IX
+## IX
 
 (The Taittirīya Upaniṣad: Bhṛgu-Valli)[^P291_1]
 
 [^P291_1]: Sāyaṇa considers this Prapathaka as the third Anuvaka of the VIII Prapathaka. Regular number of the kaṇḍikās have not been given except in the X Anuvaka.
 
-### Anuvaka I (Attainment of the Knower of Brahman)
+### I (Attainment of the Knower of Brahman)
 
 Harih Om. May (Brahman) protect us both together. May (He) nourish us both together. May we both show strength together. May the learning of us both be brilliant. May we not hate each other. Om. Peace, peace, peace.[^P291_2]
 
@@ -4812,7 +4812,7 @@ He said again: "Whence, verily, these beings are born; by whom, when born, they 
 
 He (Bhṛgu) performed penance. Having performed penance:—
 
-### Anuvaka II (Food as Brahman)
+### II (Food as Brahman)
 
 He understood food as Brahman. For from food, verily, these beings are born; by food, when born, they live; to food they go and merge (thereinto).
 
@@ -4824,7 +4824,7 @@ He performed penance. Having performed penance:—
 
 [[P292]]
 
-### Anuvaka III (Prāṇa as Brahman)
+### III (Prāṇa as Brahman)
 
 He understood breath (prāṇa) as Brahman. For from breath, verily, these beings are born; by breath, when born, they live; to breath they go and merge (thereinto).
 
@@ -4834,7 +4834,7 @@ To him he said: "By penance desire to know Brahman; penance is Brahman."
 
 He performed penance. Having performed penance:—
 
-### Anuvaka IV (Mind as Brahman)
+### IV (Mind as Brahman)
 
 He understood mind as Brahman. For from mind, verily, these beings are born; by mind, when born, they live; to mind they go and merge (thereinto).
 
@@ -4844,7 +4844,7 @@ To him he said: "By penance desire to know Brahman; penance is Brahman."
 
 He performed penance. Having performed penance:—
 
-### Anuvaka V (Knowledge as Brahman)
+### V (Knowledge as Brahman)
 
 He understood knowledge as Brahman. For from knowledge, verily, these beings are born; by knowledge, when born, they live; to knowledge they go and merge (thereinto).
 
@@ -4856,7 +4856,7 @@ He performed penance. Having performed penance:—
 
 [[P293]]
 
-### Anuvaka VI (Bliss as Brahman)
+### VI (Bliss as Brahman)
 
 He understood bliss (ānanda) as Brahman. For from bliss, verily, these beings are born; by bliss, when born, they live; to bliss they go and merge (thereinto).
 
@@ -4864,7 +4864,7 @@ This is the knowledge of Bhṛgu, the son of Varuṇa, fixed in the highest heav
 
 He who knows this, becomes fixed; becomes possessor of food (and) eater of food; becomes great in progeny, cattle, splendour of sacred knowledge (brahma-varcas) (and) great in fame.
 
-### Anuvaka VII (Importance of food)
+### VII (Importance of food)
 
 (One) should not abuse food. That is the duty (vrata).
 
@@ -4872,7 +4872,7 @@ Breath, verily, is food; body, the eater of food. The body is fixed in breath; b
 
 He who knows this food fixed in food, becomes fixed; becomes possessor of food (and) eater of food; becomes great in progeny, cattle, splendour of sacred knowledge (brahma-varcas) (and) great in fame.
 
-### Anuvaka VIII (Importance of food)
+### VIII (Importance of food)
 
 (One) should not despise food. That is the duty.
 
@@ -4880,7 +4880,7 @@ Waters, verily, are food; light, the eater of food. Light is fixed in waters; wa
 
 He who knows this food fixed in food, becomes fixed; becomes possessor (and) eater of food; becomes great in progeny, cattle, splendour of sacred knowledge (brahma-varcas) (and) great in fame.
 
-### Anuvaka IX (Importance of food)
+### IX (Importance of food)
 
 One should make food much. That is the duty.
 
@@ -4890,7 +4890,7 @@ The earth, verily, is food; space, the eater of food. Space is fixed in the eart
 
 He who knows this food fixed in food, becomes fixed; becomes possessor of food (and) eater of food; becomes great in progeny, cattle, splendour of sacred knowledge (brahma-varcas) (and) great in fame.
 
-### Anuvaka X (Food and Knowledge of Brahman)
+### X (Food and Knowledge of Brahman)
 
 (One) should not despise anyone at his dwelling. That is the duty.
 
@@ -4920,11 +4920,11 @@ Om. May (Brahman) protect us both together. May (He) nourish us both together. M
 
 [[P296]]
 
-## Prapathaka X
+## X
 
 [[P297]]
 
-### Anuvaka I
+### I
 
 Hariḥ Om.
 
@@ -5076,7 +5076,7 @@ The Narayana or the Yajniki Upanisad.[^P297_note]
 
 47\. You are worth worshipping in the sacrifices, you extend the comfort, you sit as donator, sacrificer and one worth praising; make your body pleased (by our oblations); and grant us good fortune all round.
 
-### Anuvaka II
+### II
 
 1\. Bhuh! Hail for the fire and for the earth! Bhuvah! Hail for the wind and for the mid-region! Suvah! Hail for the sun and for the heaven! Bhuh, Bhuvah, Suvah! for the quarters. Salutation for the gods! Hail for the moon and Svadha (Hail) for the fathers! Bhuh, Bhuvah, Suvah, Om![^P303_r1]
 
@@ -5084,19 +5084,19 @@ The Narayana or the Yajniki Upanisad.[^P297_note]
 
 [[P304]]
 
-### Anuvaka III
+### III
 
 1\. Bhuh, the food, Hail for the fire and for the earth! Bhuvah, the food, Hail for the wind and for the mid-region! Suvah, the food, Hail for the sun and for the heaven! Bhuh, Bhuvah, Suvah, the food, Hail for the moon and for the quarters! Salutation to the gods; Svadha (Hail) for the fathers, Bhuh, Bhuvah, Suvah, the food, Om![^P304_r1]
 
 [^P304_r1]: *(Mantra 1)* Mantra for obtaining abundant food.
 
-### Anuvaka IV
+### IV
 
 1\. Bhuh, Hail for the fire, for the earth and for the great! Bhuvah, Hail for the wind, for the mid-region and for the great! Suvah, Hail for the sun, for the heaven and for the great! Bhuh, Bhuvah, Suvah, Hail for the moon, for the stars, for the quarters and for the great! Salutation to the gods; Svadha (Hail) for the fathers! Bhuh, Bhuvah, Suvah, Mahah, om![^P304_iv_r1]
 
 [^P304_iv_r1]: *(Mantra 1)* Mantra for worship.
 
-### Anuvaka V
+### V
 
 1\. O fire, protect us from the sin, Hail! Protect us for knowledge of all, Hail! O Vibhāvasu (having the shining wealth), protect us for the sacrifice, Hail! O hundred-powered one, protect, protect all![^P305_v_r1]
 
@@ -5104,19 +5104,19 @@ The Narayana or the Yajniki Upanisad.[^P297_note]
 
 [[P305]]
 
-### Anuvaka VI
+### VI
 
 1\. Who is the bull of the metres, having all forms, who has entered the metres by the metres, who is the power of the sages; that oldest Indra taught the Upanisad (mystic knowledge) for the (knowing) senses of the seers. Salutation to the gods, Svadha (Hail) for the fathers! Bhuh, Bhuvah, Suvah, Om.[^P305_vi_r1]
 
 [^P305_vi_r1]: *(Mantra 1)* Mantra to be repeated silently for obtaining the complete acquisition of the Veda.
 
-### Anuvaka VII
+### VII
 
 1\. Salutation to Brahman; may holding power be with me; may not be missing; may we become the holder; may you not destroy the hearing of that who praises you.[^P305_vii_r1]
 
 [^P305_vii_r1]: *(Mantra 1)* Mantras for not forgetting the learned Vedas.
 
-### Anuvaka VIII
+### VIII
 
 1\. Ṛta (settled order) is the austerity; truth is the austerity; peace is the austerity, donation is the austerity; the sacrifice is the austerity; worship Bhuh, Bhuvah, Suvah; this is the austerity.[^P305_viii_r1]
 
@@ -5124,11 +5124,11 @@ The Narayana or the Yajniki Upanisad.[^P297_note]
 
 [[P306]]
 
-### Anuvaka IX
+### IX
 
 1\. As the perfume of a well flowerful tree blows from distance, similarly the perfume of the pious deed blows from distance. As on the hanging sword upon a well (one) thinks "if I go on the sword I shall become in trouble or even fall in the well", similarly one should hate the sin.
 
-### Anuvaka X
+### X
 
 1\. The Self (Atman), less than an atom, greater than the great has been put in the cave (heart) of this being, by the delight of the disposer one, who is sorrowless, sees that lord, the greatness, which has no desires.
 
@@ -5189,7 +5189,7 @@ The Narayana or the Yajniki Upanisad.[^P297_note]
 
 24\. Which accent (Om) has been spoken in the beginning of the Veda and which is firm in the end of the Veda, then that (Om), being mingled in the Nature, who is greater, he is the great lord (Mahesvara).
 
-### Anuvaka XI
+### XI
 
 1\. (All beings are dependant) upon the god having hundred heads, all over eyes, producer of all propitiation, all, Narayana, immortal and great lord.
 
@@ -5217,17 +5217,17 @@ The Narayana or the Yajniki Upanisad.[^P297_note]
 
 12\. In the middle of that flame the God resides; He is Brahma, He is Siva, He is Indra, He is Aksara (non-destroyable) the Great Self-King.
 
-### Anuvaka XII
+### XII
 
 1\. Salutation to Ṛta (settled order), truth, great Brahma, Purusa, yellow and black, having semen above, having irregular eye and having all forms.
 
 [[P311]]
 
-### Anuvaka XIII
+### XIII
 
 1\. That (God) is, verily, this sun, heating this orb; in that there are those Ṛcas, that is the world of the Ṛcas; and what are the rays shining in this orb, those are the Samans; that is the world of the Samans; and which is the Person in the ray of the orb that is the Yajus-Mantra, that is the orb of the Yajuses; that is the world of the Yajuses; that is this three knowledge shining there, who is this golden Person shining in the middle of the sun.
 
-### Anuvaka XIV
+### XIV
 
 1\. The sun is, verily, the brilliance, vigour, power, fame, eye, ear, soul, mind, anger, thinking, death, truth, friend, wind, ether, breath, protector of the world, Ka (Prajapati), Kim (everything), Kam (comfort), true, food, life, immortal, living being, all, most comfortable, self-born, Prajapati. The year is that sun. Who is this Person, that is the lord of the beings.
 
@@ -5235,97 +5235,97 @@ The Narayana or the Yajniki Upanisad.[^P297_note]
 
 3\. This is the Upanisat (mystic knowledge).
 
-### Anuvaka XV
+### XV
 
 1\. The shining sun, Aditya, Om. For that Aditya one performs worship, austerity, truth, he sprinkles honey. That is Brahman, that the water (rain) and the water (of ocean etc.), that is the light, elixir, nectar, Brahman, Bhuh, Bhuvah, Suvah, Om.
 
 [[P312]]
 
-### Anuvaka XVI
+### XVI
 
 1\. All is Rudra; may salutation be to that Rudra; Rudra is Purusa (Person) the mighty being: salutation, salutation (to him); whatever is all, matter, world, wonderful, various born, to be born; that all is this Rudra; may salutation be to that Rudra.
 
-### Anuvaka XVII
+### XVII
 
 1\. We speak most wealful speeches to good, good-headed mostly sprinkling, vigorous and heartful Rudra; all this is Rudra; may salutation be to that Rudra.
 
-### Anuvaka XVIII
+### XVIII
 
 1\. Salutation to (Rudra), gold-armed one, lord of the gold, husband of Ambika, husband of Uma; salutation, salutation.
 
-### Anuvaka XIX
+### XIX
 
 1\. Whose Agnihotra-havani (sacrificial instrument of wood) is made of Vikankata tree, his oblations are firm; they become firm for him, for making him firm.
 
-### Anuvaka XX
+### XX
 
 1\. "Make strength" - these five (Mantras of T.S. 1.2.14 should be uttered).
 
 [[P313]]
 
-### Anuvaka XXI
+### XXI
 
 1\. Aditi is the gods, Gandharvas, men, fathers, Asuras, mother of these beings, Medini (earth, consisting of the fat), great earth, Savitri, Gayatri, Jagati, vast earth, many, all, material, most comfortable, body; that is the true and the immortal, such says Vasistha.
 
-### Anuvaka XXII
+### XXII
 
 1\. The waters are, verily, all this; the waters are all the beings; the waters are the breaths; the waters are the animals; the waters are the food; the waters are the nectar; the waters are the Samrat, Virat and Svarat; the waters are the metres; the waters are the Yajuses; the waters are the truth; the waters are all the gods; the waters are Bhuh, Bhuvah, Suvah, Om.
 
-### Anuvaka XXIII
+### XXIII
 
 1\. May the waters purify the earth, may the purified earth purify me; may Brahmanaspati purify; may purified Brahma purify me; may the waters purify that all, whatever left food or the non-eatable food (I have eaten) or whatever misdeed has been done by me and whatever gift (I have taken) from the wicked ones.
 
 [[P314]]
 
-### Anuvaka XXIV
+### XXIV
 
 1\. May the fire, the anger and the lord of the anger protect me from the sins of the anger; may the day destroy that sin which I have done in the day by mind, speech, hands, feet and generating organ, and whatever sin is in me; this I sacrifice myself in the seat of immortality, in the truth, in the light, Hail!
 
-### Anuvaka XXV
+### XXV
 
 1\. May the sun, the anger and the lord of the anger protect me from the sins of the anger; may the night destroy that sin, which I have done in the night by mind, speech, hands, feet and generating organ, and whatever sin is in me; this I sacrifice myself in the seat of the immortality, in the sun and in the light; Hail!
 
-### Anuvaka XXVI
+### XXVI
 
 1\. May Gayatri, the boon-giving goddess, the mother of the metres come to me, the immortal one like Brahman; may that speak then Brahman (sacred knowledge) to us; you are the brightness, you are the tolerable one, you are the power, you are the shining, you are the nature of the places of the gods, you are all, you are all, all life, winner, Om, I invoke Gayatri.
 
-### Anuvaka XXVII
+### XXVII
 
 1\. Om Bhuh, Om Bhuvah, Om Suvah, Om Mahah, Om Janah, Om austerity, Om truth; Om may we meditate that ray worth choosing of the impelling god (Savitr); which may impell my wisdom, Om, the waters, the light, the elixir, the nectar, Brahman, Bhuh, Bhuvah, Suvah, Om!
 
 [[P315]]
 
-### Anuvaka XXVIII
+### XXVIII
 
 1\. Om Bhuh, Bhuvah, Suvah, Mahah, Janah, austerity, truth, that is Brahman, that is the waters, the waters, the light, the elixir, the nectar, Brahman, Bhuh, Bhuvah, Suvah, Om.
 
-### Anuvaka XXIX
+### XXIX
 
 1\. Om, that is Brahman! Om, that is wind! Om, that is Atman! Om, that is all! Om, that is the Pura (body), salutation!
 
-### Anuvaka XXX
+### XXX
 
 1\. Go as a goddess (O Gayatri) at the supreme peak, at the head of the mountain comfortably being assented by the Brahmanas.
 
-### Anuvaka XXXI
+### XXXI
 
 1\. Om, you move in the beings, in the cave (heart), in all the forms; you are the sacrifice, you are Visnu, you are Vasat-making, you are Rudra, you are Brahma, you are Prajapati.
 
 [[P316]]
 
-### Anuvaka XXXII
+### XXXII
 
 1\. You are the bed of the nectar.[^P316_1]
 
 [^P316_1]: Mantra for tasting water before taking the meal.
 
-### Anuvaka XXXIII
+### XXXIII
 
 1\. I sacrifice nectar sitting in the Prana-breath; Hail for the Prana! I sacrifice nectar sitting in the Apana-breath; Hail for the Apana! I sacrifice nectar sitting in the Vyana-breath; Hail for the Vyana! I sacrifice nectar sitting in the Udana-breath; Hail for the Udana! I sacrifice nectar sitting in the Samana-breath; Hail for the Samana: My soul is in Brahman for immortality.[^P316_a32_1]
 
 [^P316_a32_1]: Mantra offering five mouthfuls to the five Pranas before taking the meal.
 
-### Anuvaka XXXIV
+### XXXIV
 
 1\. I sacrifice nectar sitting in the Prana-breath; enter me being auspicious for not heating; Hail for the Prana. I sacrifice nectar sitting in the Apana-breath; enter me being auspicious for not heating; Hail for the Apana! I sacrifice nectar sitting in the Vyana-breath; enter me being auspicious for not heating; Hail for the Vyana! I sacrifice nectar sitting in the Udana-breath; enter me being auspicious for not heating; Hail for the Udana! I sacrifice nectar sitting in the Samana-breath; enter me being auspicious for not heating; Hail for the Samana! My soul is in Brahman for immortality.[^P316_a33_1]
 
@@ -5333,21 +5333,21 @@ The Narayana or the Yajniki Upanisad.[^P297_note]
 
 [[P317]]
 
-### Anuvaka XXXV
+### XXXV
 
 1\. You are the cover of the nectar.[^P317_1]
 
 [^P317_1]: Mantra for drinking the water after finishing the meal.
 
-### Anuvaka XXXVI
+### XXXVI
 
 1\. The nectar has been sacrificed sitting in the faith, in the Prana-breath; increase the Prana by the food; the nectar has been sacrificed sitting in the Apana; increase the Apana by the food. The nectar has been sacrificed sitting in the Vyana; increase the Vyana by the food. The nectar has been sacrificed sitting in the Udana; increase the Udana by the food. The nectar has been sacrificed sitting in the Samana; increase the Samana by the food. My soul is in the Brahman for immortality.
 
-### Anuvaka XXXVII
+### XXXVII
 
 1\. You are the gland of the breaths, as trouble-destroying Rudra enter me.
 
-### Anuvaka XXXVIII
+### XXXVIII
 
 1\. The Purusa (Person) is of the length of the thumb; that is put in the thumb (the little piece of the heart); may that eater of all, the lord of all the world, the pervading one become pleased.[^P317_2]
 
@@ -5355,21 +5355,21 @@ The Narayana or the Yajniki Upanisad.[^P297_note]
 
 [[P318]]
 
-### Anuvaka XXXIX
+### XXXIX
 
 1\. May the intellect, the goddess come to us being pleased; pervading all, auspicious and pleasant-minded. May we, having good sons, being accompanied with you (intellect), though speaking the bad words (not of Vedas) proclaim the great (Brahman), being praised in the assemblies.
 
 2\. O goddess, one becomes the seer being accompanied with you; one becomes Brahman and also full of prosperity being accompanied with you; one obtains the wonderful wealth; O Intellect, be accompanied with me taking wealth.
 
-### Anuvaka XL
+### XL
 
 1\. May Indra grant us intellect, may the goddess Sarasvati grant us intellect; may Asvines, both gods, having the garland of the lotus-flowers grant us intellect.
 
-### Anuvaka XLI
+### XLI
 
 1\. May that good-perfuming intellect be accompanied with me, which is in the Apsarases as intellect, in the Gandharvas as the mind, which is the divine intellect and which is the manly intellect.
 
-### Anuvaka XLII
+### XLII
 
 1\. May that intellect be accompanied with me which is good-perfuming, all-formed, gold-coloured, moving, obtainable, full of vigour, pleasing with the milk and of good appearance.[^P318_1]
 
@@ -5377,35 +5377,35 @@ The Narayana or the Yajniki Upanisad.[^P297_note]
 
 [[P319]]
 
-### Anuvaka XLIII
+### XLIII
 
 1\. I obtain the new-born one; salutation to the new-born one; do not make me for taking birth again and again, but make me to cross the birth; salutation to the source of the world.
 
-### Anuvaka XLIV
+### XLIV
 
 1\. Hail for Vamadeva, salutation for the oldest, salutation for the best, salutation for Rudra, salutation for Kala (time); salutation for Kalavikarana; salutation to Balavikarana, salutation to Balapramathane (power-violating one), salutation to Sarvabhutadamana (one who perishes all the beings); salutation to Manonmana (mind-raising one).
 
-### Anuvaka XLV
+### XLV
 
 1\. O Rudra, may salutation be to your all forms, what are not cruel, what are cruel, what are most cruel; O Sarva (Rudra) salutation to you from all round.
 
-### Anuvaka XLVI
+### XLVI
 
 1\. May we know and meditate the form of Purusa, Mahadeva; may that Rudra impell us.
 
 [[P320]]
 
-### Anuvaka XLVII
+### XLVII
 
 1\. May that Sadasiva (Rudra) be auspicious to us, who is the master of all the learnings, the lord of all the beings, Brahman, the great lord, of Brahman, Brahma.
 
-### Anuvaka XLVIII
+### XLVIII
 
 1\. May Brahman come to me, may the honey come to me, may Brahman, verily, the honey come to me. O Soma, what are your offspring, I am one child among those; O destroyer of the bad dreams, destroy (the trouble); O Soma, what are your breaths I sacrifice them.
 
 2\. One should give this Trisuparna-Mantra to the Brahmana even being not asked; these destroy the sin of the killing of a Brahmana; Brahmanas, who read the Trisuparna Mantra, they obtain soma and purify the line of thousand (Brahmanas eating together), Om.
 
-### Anuvaka XLIX
+### XLIX
 
 1\. Brahman (is obtained) by the intellect; the honey, by the intellect; Brahman, verily, the honey, by the intellect. O god Savitr, impell today for us prosperity with offspring; destroy away the effect of the bad dream. O god Savitr, destroy all the sins away; bring that to me, which is auspicious.[^P320_1] May the wind be honeyful for us, who wish the settled order, may the rivers flow being honeyful for us; may the plants be honeyful for us; may the honey be for us at the night and at the dawn; may the earthly region be honeyful to us; may the heaven, our father be honeyful for us; may the vegetable be full of honey for us; may the sun be full of honey, may the cows be honeyful for us.
 
@@ -5415,7 +5415,7 @@ The Narayana or the Yajniki Upanisad.[^P297_note]
 
 2\. They who give this Trisuparna Mantra to Brahmana, being not asked for that, they destroy the sin of the killing of the embryo; Brahmanas, who read the Trisuparna Mantra, they obtain Soma and purify the line of thousand (Brahmanas eating together), Om.
 
-### Anuvaka L
+### L
 
 1\. Brahman is full of sacrifice; the honey is full of the sacrifice; Brahman, verily, the honey is full of the sacrifice. That Atman (Self) is Brahman among the gods, knowledge of word among the poets, the seer among the learned ones, buffalo among the animals, falcon among the vultures, cutting instrument among the woods; that (Atman) as Soma wins all purifying (objects) making utterence (of the Mantras). That (is) the swan seated in purity, the bright one seated in the mid-region, the Hotr-priest seated at the altar, the guest seated in the house, seated among men, seated in the highest, seated in the settled order, seated in the firmament, born of the waters, born of the cows, born of the mountain, the great settled order.
 
@@ -5423,23 +5423,23 @@ The Narayana or the Yajniki Upanisad.[^P297_note]
 
 [[P322]]
 
-### Anuvaka LI
+### LI
 
 1\. May my Prana, Apana, Vyana, Udana and Samana breaths be purified, may I become the light, dustless and sinless; Hail!
 
-### Anuvaka LII
+### LII
 
 1\. May my speech, mind, eye, ear, tongue, nose, semen, wisdom, purpose and will be purified; may I become the light, dustless and sinless; Hail!
 
-### Anuvaka LIII
+### LIII
 
 1\. May my head, hand, foot, side, back, thigh, generating organ, urine-organ and the anus be purified; may I become the light, dustless and sinless; Hail!
 
-### Anuvaka LIV
+### LIV
 
 1\. May my skin, leather, flesh, blood, feet, marrow, sinew and bone be purified; may I become the light, dustless and sinless; Hail!
 
-### Anuvaka LV
+### LV
 
 1\. May my word, touch, form, taste and perfume be purified; may I become the light, dustless and sinless; Hail![^P322_1]
 
@@ -5447,33 +5447,33 @@ The Narayana or the Yajniki Upanisad.[^P297_note]
 
 [[P323]]
 
-### Anuvaka LVI
+### LVI
 
 1\. May my earth, water, light, wind and ether be purified; may I become the light, dustless and sinless; Hail!
 
-### Anuvaka LVII
+### LVII
 
 1\. May my sheaths of food, breath, mind, knowledge and bliss be purified; may I become the light, dustless and sinless; Hail!
 
-### Anuvaka LVIII
+### LVIII
 
 1\. For the pervading one Hail!
 
-### Anuvaka LIX
+### LIX
 
 1\. For the desirous of doing Hail!
 
-### Anuvaka LX
+### LX
 
 1\. O Purusa (Person), stand up, stand up; O green, red, yellow-eyed (Purusa), give, give (purification) as the giver; may (all) be purified; may I become the light, dustless and sinless; Hail!
 
-### Anuvaka LXI
+### LXI
 
 1\. Hail! This.
 
 [[P324]]
 
-### Anuvaka LXII
+### LXII
 
 1\. The truth is the supreme, the supreme is the truth; by the truth they do not fall from the heavenly world at any time; the truth is related to the sages, therefore, they enjoy in the truth.
 
@@ -5503,7 +5503,7 @@ The Narayana or the Yajniki Upanisad.[^P297_note]
 
 13\. He, who knows thus, this is the Upanisat (mystic knowledge for him).
 
-### Anuvaka LXIII
+### LXIII
 
 1\. Aruni, the son of Prajapati and Suparna, went to his father Prajapati asking what that prosperous one says to be the supreme. He (Prajapati) said this to him:
 
@@ -5555,7 +5555,7 @@ The Narayana or the Yajniki Upanisad.[^P297_note]
 
 22\. He, who knows thus, obtains the greatness of Brahman; therefore, there is the greatness of Brahman.
 
-### Anuvaka LXIV
+### LXIV
 
 1\. Of his sacrifice, who knows thus, Atman is the sacrificer, the faith is the wife, the body is the fuel, the chest is the altar, the little hairs of the body are Barhi-grass, the Veda is the flame, heart is the stake, the desire is the ghee, the anger is the animal, the austerity is the fire, peace-making is the Daksina (sacrificial fee), the speech is the Hotr-priest, the breath is the Udgatr-priest, the eye is the Adhvaryu-priest, the mind is the Brahma-priest, the ear is the Agnidhra-priest.
 
