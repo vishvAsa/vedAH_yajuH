@@ -1,9 +1,9 @@
 +++
 title = "३६ स्रुवाहुतयः"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/36_sruvAhutayaH">
-<details open><summary><h1>३६ स्रुवाहुतयः ...{Loading}...</h1></summary>
+
+<details open><summary><h1>३६ स्रुवाहुतयः …{Loading}…</h1></summary>
 
 विश्वेदेवा ऋषयः
 
@@ -14,17 +14,27 @@ title = "३६ स्रुवाहुतयः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒या॒साय॒ स्वाहा॑ ।
+प्रयासा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
 
-To energy hail! 
+To energy hail!
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Prayāsa,
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्र॒या॒साय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒या॒सायेति॑ प्र-या॒साय॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -34,7 +44,7 @@ To energy hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒या॒साय॒ स्वाहा॑ ।
+आयासा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -42,9 +52,19 @@ To energy hail!
 To effort hail!
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Āyāsa!
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒या॒साय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒या॒सायेत्या॑-या॒साय॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -54,7 +74,7 @@ To effort hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒या॒साय॒ स्वाहा॑ ।
+वियासा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -62,9 +82,19 @@ To effort hail!
 To distraction hail!
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Viyāsa,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒या॒साय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒या॒सायेति॑ वि-या॒साय॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -74,7 +104,7 @@ To distraction hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सय्ँ॒या॒साय॒ स्वाहा॑ ।
+सय्ँयासा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -82,9 +112,19 @@ To distraction hail!
 To attempt hail!
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Saṃyāsa!
+</details>
+
 <details><summary>मूलम्</summary>
 
 सय्ँ॒या॒साय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सय्ँ॒या॒सायेति॑ सम्-या॒साय॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -94,7 +134,7 @@ To attempt hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒द्या॒साय॒ स्वाहा॑ ।
+उद्यासा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -102,9 +142,19 @@ To attempt hail!
 To endeavour hail!
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Udyāsa,
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒द्या॒साय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒द्या॒सायेत्यु॑त्-या॒साय॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -114,7 +164,7 @@ To endeavour hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒व॒या॒साय॒ स्वाहा॑ ।
+अवयासा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -122,9 +172,19 @@ To endeavour hail!
 To striving hail!
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Avayāsa!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒व॒या॒साय॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒व॒या॒सायेत्य॑व-या॒साय॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -134,7 +194,7 @@ To striving hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शु॒चे स्वाहा॑ ।
+शुचे᳓ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -142,9 +202,19 @@ To striving hail!
 To heat hail!
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Śuce!
+</details>
+
 <details><summary>मूलम्</summary>
 
 शु॒चे स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शु॒चे । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -154,7 +224,7 @@ To heat hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शोका॑य॒ स्वाहा॑ ।
+शो᳓काय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -162,9 +232,19 @@ To heat hail!
 To burning hail!
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Śoka!
+</details>
+
 <details><summary>मूलम्</summary>
 
 शोका॑य॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शोका॑य । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -174,7 +254,7 @@ To burning hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त॒प्य॒त्वै स्वाहा॑ ।
+तप्यत्वै᳓ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -182,9 +262,19 @@ To burning hail!
 To heating hail!
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Tapyatva,
+</details>
+
 <details><summary>मूलम्</summary>
 
 त॒प्य॒त्वै स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त॒प्य॒त्वै । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -194,7 +284,7 @@ To heating hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तप॑ते॒ स्वाहा॑ ।
+त᳓पते स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -202,9 +292,19 @@ To heating hail!
 To the hot hail!
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Tapat!
+</details>
+
 <details><summary>मूलम्</summary>
 
 तप॑ते॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तप॑ते । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -214,7 +314,7 @@ To the hot hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒ह॒त्यायै॒ स्वाहा॑ ।
+ब्रह्महत्या᳓यै स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -222,9 +322,19 @@ To the hot hail!
 To the slaying of a Brahmin hail!
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for the (sin of) killing of the Brāhmaṇas,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒ह॒त्यायै॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -234,12 +344,22 @@ To the slaying of a Brahmin hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व॑स्मै॒ स्वाहा॑ ॥
+स᳓र्वस्मै स्वा᳓हा ॥
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for all.
 </details>
 
 <details><summary>मूलम्</summary>
 
 सर्व॑स्मै॒ स्वाहा॑ ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सर्व॑स्मै । स्वाहा॑ ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -252,4 +372,5 @@ To all hail!
 सर्वग्रहणं अनुक्तपरिस्पन्दपरिग्रहार्थम् ॥
 </details>
 </details>
+
 </div>

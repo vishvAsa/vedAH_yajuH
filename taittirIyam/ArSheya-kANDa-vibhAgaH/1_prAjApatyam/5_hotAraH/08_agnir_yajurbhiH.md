@@ -1,277 +1,382 @@
 +++
 title = "०८ अग्निर् यजुर्भिः"
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/08_agnir_yajurbhiH">
-<details open><summary><h1>०८ अग्निर् यजुर्भिः ...{Loading}...</h1></summary>
-<details><summary>भट्टभास्कर-टीका</summary>
 
-1अथ सम्भारयजूंषि अग्निर्यजुर्भिरित्यादीनि ॥ 'हृदयं यजूंषि पत्न्यश्च' इत्यादिषु विनियोगः । हृदयं 'सुवर्णं धर्मं' इत्यनुवाकः । एतानि यजूंषि । पत्न्यो वक्ष्यन्ते ‘सेनेन्द्रस्य' इत्यादयः । 
+<details open><summary><h1>०८ अग्निर् यजुर्भिः …{Loading}…</h1></summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथ सम्भारयजूंषि अग्निर्यजुर्भिरित्यादीनि ॥ 'हृदयं यजूंषि पत्न्यश्च' इत्यादिषु विनियोगः । हृदयं 'सुवर्णं धर्मं' इत्यनुवाकः । एतानि यजूंषि । पत्न्यो वक्ष्यन्ते ‘सेनेन्द्रस्य' इत्यादयः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निर् यजु॑र्भिः +++(सम्भरति)+++।  
+अग्नि᳓र् य᳓जुर्भिः +++(सम्भरति)+++।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>त्रिभुवनः</summary>
 
-अग्निर्यजुर्भिः यज्ञं सम्भृतवान् । तैस्तद्वान् इत्यन्ये । अस्य यजुश्शब्दसम्बन्धित्वात् सर्वाणि यजूंषि । 
+The Fire (becomes satisfied) by the Yajuses;
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्निर्यजु॑र्भिः ।  
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-स॒वि॒ता स्तोमैः॑ ।  
+अ॒ग्निर्यजु॑र्भिः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-सविता स्तोमैः त्रिवृदादिभिः यज्ञं सम्भृतवान् । एवं सर्वत्र । 
-</details>
-
-<details><summary>मूलम्</summary>
-
-स॒वि॒ता स्तोमैः॑ ।  
+अग्निर्यजुर्भिः यज्ञं सम्भृतवान् । तैस्तद्वान् इत्यन्ये । अस्य यजुश्शब्दसम्बन्धित्वात् सर्वाणि यजूंषि ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑ उक्थाम॒दैः+++(=स्तोत्रशस्त्रैः)+++ ।  
+सविता᳓ स्तो᳓मैः ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Savitṛ (sun), by the hymns;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒वि॒ता स्तोमैः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-उक्थामदैः स्तोत्रशस्त्रैः । 
-</details>
-
-<details><summary>मूलम्</summary>
-
-इन्द्र॑ उक्थाम॒दैः ।  
+सविता स्तोमैः त्रिवृदादिभिः यज्ञं सम्भृतवान् । एवं सर्वत्र ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रावरु॑णाव् आ॒शिषा॑ ।  
+इ᳓न्द्र उक्थामदैः᳓+++(=स्तोत्रशस्त्रैः)+++ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Indra, by the praises;
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्र॑ उक्थाम॒दैः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-आशिषा प्रार्थनामन्त्रैः । गतमन्यत् । 
-</details>
-
-<details><summary>मूलम्</summary>
-
-मि॒त्रावरु॑णाव् आ॒शिषा॑ ।  
+उक्थामदैः स्तोत्रशस्त्रैः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अङ्गि॑रसो॒ धिष्णि॑यैर॒ग्निभिः॑ ।  
+मित्रा᳓व᳓रुणाव् आशि᳓षा ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Mitra and Varuṇa, by the prayers;
 </details>
 
 <details><summary>मूलम्</summary>
 
-अङ्गि॑रसो॒ धिष्णि॑यैर॒ग्निभिः॑ ।  
+मि॒त्रावरु॑णाव् आ॒शिषा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+आशिषा प्रार्थनामन्त्रैः । गतमन्यत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒रुत॑स् सदो--हविर्-धा॒नाभ्या॑म् ।  
+अ᳓ङ्गिरसो धि᳓ष्णियैर् अग्नि᳓भिः ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Āṅgirases, by the Dhāniyāte (of side-altar) fires;
 </details>
 
 <details><summary>मूलम्</summary>
 
-म॒रुत॑स्सदोहविर्धा॒नाभ्या॑म् ।  
+अङ्गि॑रसो॒ धिष्णि॑यैर॒ग्निभिः॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आपः॒ प्रोक्ष॑णीभिः ।  
+मरु᳓तस् सदो--हविर्-धाना᳓भ्याम् ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Maruts, by the seat of the oblation-receptacles;
 </details>
 
 <details><summary>मूलम्</summary>
 
-आपः॒ प्रोक्ष॑णीभिः ।  
+म॒रुत॑स्सदोहविर्धा॒नाभ्या॑म् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओष॑धयो बर्हि॒षा॑ ।  
+आ᳓पः प्रो᳓क्षणीभिः ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the waters, by the prokṣaṇīs (vessels for putting the holy water);
 </details>
 
 <details><summary>मूलम्</summary>
 
-ओष॑धयो बर्हि॒षा॑ ।  
+आपः॒ प्रोक्ष॑णीभिः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑ति॒र् वेद्या॑ ।  
+ओ᳓षधयो बर्हिषा᳙ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the plants, by the Barhi-grass;
 </details>
 
 <details><summary>मूलम्</summary>
 
-अदि॑ति॒र्वेद्या॑ ।  
+ओष॑धयो बर्हि॒षा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ᳓दितिर् वे᳓द्या ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Aditi, by the altar;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदि॑ति॒र्वेद्या॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सो᳓मो दीक्ष᳓या ।  
+(11)
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Soma, by the consecration (1);
+</details>
+
+<details><summary>मूलम्</summary>
 
 सोमो॑ दी॒क्षया॑ ।  
-(11)  
-</details>
-
-<details><summary>मूलम्</summary>
-
-सोमो॑ दी॒क्षया॑ ।  
-(11)  
+(11)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वष्टे॒ध्मेन॑ ।  
+त्व᳓ष्टेध्मे᳓न ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Tvaṣṭṛ, by the fuel;
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्वष्टे॒ध्मेन॑ ।  
+त्वष्टे॒ध्मेन॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णु॑र् य॒ज्ञेन॑ ।  
+वि᳓ष्णुर् यज्ञे᳓न ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Viṣṇu, by the sacrifice;
+</details>
+
+<details><summary>मूलम्</summary>
+
+विष्णु॑र्य॒ज्ञेन॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-विष्णुर्यज्ञेन तद्वान् । 
-</details>
-
-<details><summary>मूलम्</summary>
-
-विष्णु॑र्य॒ज्ञेन॑ ।  
+विष्णुर्यज्ञेन तद्वान् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वस॑व॒ आज्ये॑न ।  
+व᳓सव आ᳓ज्येन ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Vasus, by the ghee;
 </details>
 
 <details><summary>मूलम्</summary>
 
-वस॑व॒ आज्ये॑न ।  
+वस॑व॒ आज्ये॑न ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्या दक्षि॑णाभिः ।  
+आदित्या᳓ द᳓क्षिणाभिः ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Ādityas, by the Dakṣiṇā (sacrificial fee);
 </details>
 
 <details><summary>मूलम्</summary>
 
-आ॒दि॒त्या दक्षि॑णाभिः ।  
+आ॒दि॒त्या दक्षि॑णाभिः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वि᳓श्वे देवा᳓ ऊर्जा᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+All-gods (Viśvedevān), by the power;
+</details>
+
+<details><summary>मूलम्</summary>
 
 विश्वे॑ दे॒वा ऊ॒र्जा ।
 </details>
 
-<details><summary>मूलम्</summary>
-
-विश्वे॑ दे॒वा ऊ॒र्जा ।
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒षा स्व॑गा-का॒रेण॑ ।  
+पूषा᳓ स्वगा-कारे᳓ण ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Pūṣan, by giving (their) own (oblations to the gods);
+</details>
+
+<details><summary>मूलम्</summary>
+
+पू॒षा स्व॑गाका॒रेण॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-स्वगाकारेण यथायथं हविस्स्वामिनां हविस्सम्बन्धकरणेन । 
-</details>
-
-<details><summary>मूलम्</summary>
-
-पू॒षा स्व॑गाका॒रेण॑ ।  
+स्वगाकारेण यथायथं हविस्स्वामिनां हविस्सम्बन्धकरणेन ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह॒स्-पतिः॑ पुरो॒धया॑ ।  
+बृ᳓हस्-प᳓तिः पुरोध᳓या ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Bṛhaspati, by the priest;
+</details>
+
+<details><summary>मूलम्</summary>
+
+बृह॒स्पतिः॑ पुरो॒धया॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-पुरोधया प्राधान्येन, ब्रह्मत्वेन वा उद्गीथेन उद्गानेन द्वितीयया चतुर्थ्या वा विभक्त्या । 
-</details>
-
-<details><summary>मूलम्</summary>
-
-बृह॒स्पतिः॑ पुरो॒धया॑ ।  
+पुरोधया प्राधान्येन, ब्रह्मत्वेन वा उद्गीथेन उद्गानेन द्वितीयया चतुर्थ्या वा विभक्त्या ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तिर् उद्गी॒थेन॑ ।  
+प्रजा᳓पतिर् उद्गीथे᳓न ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Prajāpati, by the Udgītha (singing Samans in particular modes);
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्र॒जाप॑तिरुद्गी॒थेन॑ ।  
+प्र॒जाप॑तिरुद्गी॒थेन॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्तरि॑क्षं प॒वित्रे॑ण ।  
+अन्त᳓रिक्षं पवि᳓त्रेण ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the mid-region, by the Pavitra (fringed filtering cloth);
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒न्तरि॑क्षं प॒वित्रे॑ण ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-पवित्रेण दशापवित्रेण । 
-</details>
-
-<details><summary>मूलम्</summary>
-
-अ॒न्तरि॑क्षं प॒वित्रे॑ण ।  
+पवित्रेण दशापवित्रेण ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒युः पात्रैः॑ ।  
+वायुः᳓ पा᳓त्रैः ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>त्रिभुवनः</summary>
 
-पात्रैः उर्ध्वपात्रैः 
+the wind, by the pots;
 </details>
 
 <details><summary>मूलम्</summary>
 
-वा॒युः पात्रैः॑ ।  
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अ॒हँ श्र॒द्धया॑ ।+++(5)+++  
-(12)  
+वा॒युः पात्रैः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अहं श्रद्धया सर्वदा यजे इति ॥
-इत्यारण्यके तृतीये अष्टमोऽनुवाकः ॥  
+पात्रैः उर्ध्वपात्रैः
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अहँ᳓ श्रद्ध᳓या ।+++(5)+++  
+(12)
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+and I, by the faithfulness (2).
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒हँ श्र॒द्धया॑ ।  
-(12)  
+(12)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अहं श्रद्धया सर्वदा यजे इति ॥
 </details>
 </details>
+
 </div>
