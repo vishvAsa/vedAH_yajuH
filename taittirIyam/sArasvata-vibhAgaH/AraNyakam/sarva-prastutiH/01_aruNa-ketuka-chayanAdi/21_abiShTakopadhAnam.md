@@ -2,31 +2,128 @@
 title = "२१ अबिष्टकोपधानम्"
 +++
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+आपम् आपाम् इत्यादयस् तिस्रः । सर्वाश्चैताः प्रथमानुवाके व्याख्याताः । पुनराम्नानमुपधानार्थम् । अपाश्न्युष्णिमिति द्वे । भद्रं कर्णेभिरिति द्वे ॥१ - ७॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+Quotations from the first Anuvaka.
+
+*(Mantra 1)* See T.A. 1.1.9.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ᳓पमापामप᳓स्स᳓र्वाः ।  
+अस्मा᳓दस्मा᳓दितो᳓ऽमु᳓तः ।  
+अग्नि᳓र्वायु᳓श्च सू᳓र्यश्च ।  
+सह᳓सञ्चस्कर᳓र्धिया ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+1\. "I have obtained, I have obtained all the waters from this and this place, from here and there; may Agni, Vāyu and Sūrya together purify these with prosperity.
+</details>
+
+<details><summary>मूलम्</summary>
+
 आप॑मापाम॒पस्सर्वाः॑ ।  
 अ॒स्माद॒स्मादि॒तोऽमुतः॑ ।  
 अ॒ग्निर्वा॒युश्च॒ सूर्य॑श्च ।  
-स॒हस॑ञ्चस्क॒रर्धि॑या ।  
+स॒हस॑ञ्चस्क॒रर्धि॑या ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाय्व᳓श्वा रश्मिप᳓तयः ।  
+म᳓रीच्यात्मानो अ᳓द्रुहः ।  
+देवी᳓र्भुवनसू᳓वरीः ।  
+पुत्रवत्त्वा᳓य मे सुत ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Having winds as horses, rays as protectors, beams as bodies, not hostile, shining goddesses, all-impelling (O you Waters!) assent me for progeny.
+</details>
+
+<details><summary>मूलम्</summary>
+
 वा॒य्वश्वा॑ रश्मि॒पत॑यः ।  
 मरी॑च्यात्मानो॒ अद्रु॑हः ।  
 दे॒वीर्भु॑वन॒सूव॑रीः ।  
-पु॒त्र॒व॒त्त्वाय॑ मे सुत ।  
+पु॒त्र॒व॒त्त्वाय॑ मे सुत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+म᳓हा᳓ना᳓म्नी᳓र्महामानाः᳓ ।  
+महसो᳓ महसस्स्वः᳙ ।  
+[74]  
+देवीः᳓ पर्जन्यसू᳓वरीः ।  
+पुत्रवत्त्वा᳓य मे सुत ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Of great name and great honour, inspirers of all mighty ones (1), shining goddesses, rain-impelling (O you Waters!) assent me for progeny.
+</details>
+
+<details><summary>मूलम्</summary>
+
 महानाम्नीर्म॑हामा॒नाः ।  
 म॒ह॒सो म॑हस॒स्स्वः॑ ।  
-[74]
-
+[74]  
 दे॒वीः प॑र्जन्य॒सूव॑रीः ।  
-पु॒त्र॒व॒त्त्वाय॑ मे सुत ।  
+पु॒त्र॒व॒त्त्वाय॑ मे सुत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपा᳓श्न्युष्णिमपा᳓र᳓क्षः ।  
+अपा᳓श्न्युष्णिमपा᳓र᳓घम् ।  
+अ᳓पाघ्राम᳓प चाव᳓र्तिम् ।  
+अ᳓प देवी᳓रितो᳓हित ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Remove away the consuming and burning fire, the demons, the consuming and burning fever, the exhaustedness caused by fever, un-inhalation (breathlessness) and poverty from this place, shining goddesses (O you Waters!).
+</details>
+
+<details><summary>मूलम्</summary>
+
 अ॒पाश्न्यु॑ष्णिम॒पारक्षः॑ ।  
 अ॒पाश्न्यु॑ष्णिम॒पारघ॑म् ।  
 अपा॑घ्रा॒मप॑ चा॒वर्ति॑म् ।  
-अप॑ दे॒वीरि॒तोहि॑त ।  
+अप॑ दे॒वीरि॒तोहि॑त ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व᳓ज्रन्देवी᳓र᳓जीताँश्च ।  
+भु᳓वनन्देवसू᳓वरीः ।  
+आदित्या᳓न᳓दितिन्देवी᳓म् ।  
+यो᳓निनोर्ध्वमुदी᳓षत ।  
+[75]
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Shining ones, god-inspirers, (O Waters!) raise up the thunderbolt (for our protection); raise us, undefeated ones, up; raise up the all (cattle etc.); raise up the Ādityas and the goddess Aditi being their cause (2)."
+</details>
+
+<details><summary>मूलम्</summary>
+
 वज्र॑न्दे॒वीरजी॑ताँश्च ।  
 भुव॑नन्देव॒सूव॑रीः ।  
 आ॒दि॒त्यानदि॑तिन्दे॒वीम् ।  
 योनि॑नोर्ध्वमु॒दीष॑त ।  
 [75]
+</details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -300,6 +397,11 @@ Gods, may we with our ears listen to what is good, and with our eyes see what is
      With limbs and bodies firm may we extolling you attain the term of life appointed by the Gods.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+May we hear the auspicious (things) with ears, O gods; may we, the sacrificers, see the auspicious (things) with eyes; with bodies of strong limbs; may we, praising, obtain (the span of) life which is assigned by the gods.
+</details>
+
 <details><summary>Geldner</summary>
 
 Gutes wollen wir mit Ohren hören, ihr Götter, Gutes mit Augen sehen, ihr Opferwürdige. Mit festen Gliedern und Leibern wollen wir, die wir lobgesungen haben, das gottgesetzte Alter erreichen.
@@ -369,7 +471,12 @@ Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre G�
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/06_svasti_na.md">
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथ द्वितीया - स्वस्ति न इति ॥
+</details>
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/06_svasti_na.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -618,7 +725,7 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अथ द्वितीया - स्वस्ति न इति ॥ पूर्वत्र प्रत्यक्षेण प्रार्थिता देवाः । अत्र तु परोक्षेण निर्दिश्य एकैकशः प्रार्थ्यन्ते । नः अस्माकं स्वस्ति अविनाशं अध्ययनादेरविघ्नेन समाप्तिं इन्द्रो दधातु विदधातु वृद्धश्रवाः वृद्धश्रवणः सदा स्तोत्रश्रवणात् । यद्वा - वृद्धैः महात्मभिः सदा श्रूयत इति वृद्धश्रवाः । "गतिकारकपूर्वयोः पूर्वपदप्रकृतिस्वरत्वं च" इति कर्मण्यसुन्(ण्यसिः) । तथा पूषा च स्वस्ति नः दधातु विश्ववेदाः विश्वैर्विद्यते ज्ञायते लभ्यते वेति विश्ववेदाः । पूर्ववदसुन्(सिः) । यद्वा - विश्वानि ज्ञानानि धनानि वा यस्येति बहुव्रीहिः । एवं तार्क्ष्यः अपि नः स्वस्ति दधातु । तार्क्ष्यो नाम छन्दोमयो रथः यः "स्वस्त्ययनं तार्क्ष्यमरिष्टनेमिः" इत्युक्तः । विहगराजो वा । तृक्षस्यापत्यं तार्क्ष्यः "गर्गादिभ्यो यञ्" । अरिष्टनेमिः अनुपक्षीणनेमिः । प्रथिर्नेमिः । बृहस्पतिश्च नः स्वस्ति दधातु । "तद्बृहतोः" सति सुट् । "उभे वनस्पत्यादिषु" इति पूर्वोत्तरपदयोः युगपत्प्रकृतिस्वरत्वम् ॥२॥
+पूर्वत्र प्रत्यक्षेण प्रार्थिता देवाः । अत्र तु परोक्षेण निर्दिश्य एकैकशः प्रार्थ्यन्ते । नः अस्माकं स्वस्ति अविनाशं अध्ययनादेरविघ्नेन समाप्तिं इन्द्रो दधातु विदधातु वृद्धश्रवाः वृद्धश्रवणः सदा स्तोत्रश्रवणात् । यद्वा - वृद्धैः महात्मभिः सदा श्रूयत इति वृद्धश्रवाः । "गतिकारकपूर्वयोः पूर्वपदप्रकृतिस्वरत्वं च" इति कर्मण्यसुन्(ण्यसिः) । तथा पूषा च स्वस्ति नः दधातु विश्ववेदाः विश्वैर्विद्यते ज्ञायते लभ्यते वेति विश्ववेदाः । पूर्ववदसुन्(सिः) । यद्वा - विश्वानि ज्ञानानि धनानि वा यस्येति बहुव्रीहिः । एवं तार्क्ष्यः अपि नः स्वस्ति दधातु । तार्क्ष्यो नाम छन्दोमयो रथः यः "स्वस्त्ययनं तार्क्ष्यमरिष्टनेमिः" इत्युक्तः । विहगराजो वा । तृक्षस्यापत्यं तार्क्ष्यः "गर्गादिभ्यो यञ्" । अरिष्टनेमिः अनुपक्षीणनेमिः । प्रथिर्नेमिः । बृहस्पतिश्च नः स्वस्ति दधातु । "तद्बृहतोः" सति सुट् । "उभे वनस्पत्यादिषु" इति पूर्वोत्तरपदयोः युगपत्प्रकृतिस्वरत्वम् ॥२॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -648,6 +755,11 @@ The rigid parallel structure of the four pādas is resolved by the final word of
 
 Illustrious far and wide, may Indra prosper us: may Pusan prosper us, the Master of all wealth.  
      May Tarksya with uninjured fellies prosper us: Brhaspati vouchsafe to us prosperity.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+May Indra of great fame grant us welfare; may all-knowing Pūṣan grant us welfare; may Tārkṣya, the Ariṣṭanemi (one whose felly of wheel is unhurt) grant us welfare; may Bṛhaspati grant us welfare.
 </details>
 
 <details><summary>Geldner</summary>
@@ -719,13 +831,76 @@ Heil schenke uns Indra, der hochberühmte, Heil uns Puschan der alles besitzende
 
 </div>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+केतवो अरुणासश्चेत्येका ॥ अयं च बृहतीविशेषः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+केत᳓वो अ᳓रुणासश्च ।  
+ऋषयो᳓ वा᳓तरशनाः᳓ ।  
+प्रतिष्ठाँ᳓ शत᳓धा हि ।  
+समा᳓हितासो सहस्रधा᳓यसम् ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+(May) the devout seers Ketus, Aruṇases (Aruṇas) (and) Vātaraśanas (put) the thousand-fold firm-standing in a hundred ways.
+</details>
+
+<details><summary>मूलम्</summary>
+
 के॒तवो॒ अरु॑णासश्च ।  
 ऋ॒ष॒यो वात॑रश॒नाः ।  
 प्र॒ति॒ष्ठाँ श॒तधा॑ हि ।  
-स॒माहि॑तासो सहस्र॒धाय॑सम् ।  
+स॒माहि॑तासो सहस्र॒धाय॑सम् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+केत्वादय ऋषिविशेषसङ्घाः । ते समाहितासः समाहिता असहस्रधायसं सहस्रस्यानेकस्य धात्री सहस्रधायास् तद्विपरीतां बहूनां रक्षणापर्याप्तामिमाम् अस्मदीयां प्रतिष्ठां शतधा शतस्यानेकस्य धात्री यथा शतं धारयति तादृशीं ताम् । "आतोऽनुपसर्गे कः" इति कान्तात् "सुपां सुलुक्" इत्याट् प्रत्ययः । यद्वा - शतधाम् अनेकप्रकारवतीं प्रतिष्ठां किम् ? विधात्विति सम्बध्यते । पूर्वस्यामृचि श्रुतं दधात्वित्येतदिह भहुवचनान्ततया विपरिणम्यते । यद्वा - शतस्य सहस्रस्य च धात्रीं प्रतिष्ठां दधातु । पूर्वपदान्तस्य छान्दमुदात्तत्वम् । उत्तरपदस्य वा आदावकारोपजनः । "शतशश्चैव सहस्रशश्च प्रतितिष्ठति" इति ब्राह्मणम् ॥८॥
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+शिवा नश्शन्तमा भवन्त्विति द्वे द्विपदे गायत्र्यौ ॥९ - १०॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शिवा᳓ नश्श᳓न्तमा भवन्तु ।  
+दिव्या᳓ आ᳓प ओ᳓षधयः ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+May the divine waters and the plants be auspicious and most wealful for us.
+</details>
+
+<details><summary>मूलम्</summary>
+
 शि॒वा न॒श्शन्त॑मा भवन्तु ।  
-दि॒व्या आप॒ ओष॑धयः ।  
+दि॒व्या आप॒ ओष॑धयः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुमृडीका᳓ स᳓रस्वति ।  
+मा᳓ ते व्यो᳙म सन्दृ᳓शि ।  
+[76]
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Sarasvati, (you are) well merciful; may your hole not be seen (3).[P108_2]
+
+[P108_2]: Sarasvati = earth full of stream or watery bricks. Hole not seen on account of the covering of the plants.
+</details>
+
+<details><summary>मूलम्</summary>
+
 सु॒मृ॒डी॒का सर॑स्वति ।  
 मा ते॒ व्यो॑म स॒न्दृशि॑ ।  
 [76]
-
+</details>

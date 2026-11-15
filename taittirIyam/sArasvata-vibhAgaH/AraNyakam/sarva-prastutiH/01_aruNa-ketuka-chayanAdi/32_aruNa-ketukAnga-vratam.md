@@ -3,46 +3,345 @@ title = "३२ अरुण-केतुकाङ्ग-व्रतम्"
 
 +++
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 1–4)* The rules (Vratas) to be followed before collecting the Aruṇaketuka Fire.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सव्ँ᳓व᳓त्स᳓र᳓मे᳓तद्व्रतञ्च᳓रे᳓त् ।  
+द्वौ᳓ वा मासौ᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+1\. One should follow this rule (Vrata) for a year, or for two months.
+</details>
+
+<details><summary>मूलम्</summary>
 
 सव्ँवत्सरमेत॑द्व्रत॒ञ्चरेत् ।  
-द्वौ॑ वा मा॒सौ ।  
-नियमस्स॑मासे॒न ।  
-तस्मिन्नियम॑विशे॒षाः ।  
-त्रिषवणमुदको॑पस्प॒र्शी ।  
-चतुर्थकालपान॑भक्त॒स्स्यात् ।  
-अहरहर्वा भैक्ष॑मश्नी॒यात् ।  
+द्वौ॑ वा मा॒सौ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+संवत्सरमेतदित्यादि ॥ एतद् वक्ष्यमाणं व्रतं नियमरूपं संवत्सरं चरेत् । संवत्सरे द्वौ वा मासौ । तुल्यत्वाद्विकल्पः । "आरुणकेतुकं चेष्यमाणस्य पुरस्तादेद्व्रतं विधीयते । स्वाध्यायेऽपि" इति सूत्रकारवचनाद् अध्येष्यमाणानामपि भवति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नि᳓य᳓म᳓स्समासेन᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+2\. In short the rule (is):—
+</details>
+
+<details><summary>मूलम्</summary>
+
+नियमस्स॑मासे॒न ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ तद्व्रतस्वरूपमाह - नियमस्समासेनेति । नियमः कर्तव्यः नियतो वर्तत इति समासेन सङ्क्षेपेण समुदायरूपेण व्रतस्वरूपं जानीयात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓स्मि᳓न्नि᳓य᳓मविशेषाः᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+3\. There are the special rules in that.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मिन्नियम॑विशे॒षाः ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ तस्मिन् नियमसामान्ये नियमविशेषा वक्ष्यमाणा ज्ञातव्याः । सामान्येन प्रतिज्ञातस्य नियमस्य "को नियमः कथंलक्षणः" इत्याद्यपेक्षायां "त्रिषवणं" इत्यादिना तत्प्रकारविशेषा उच्यन्त इति । यथा - "अथातो धर्मजिज्ञासा" इति सामान्येन धर्मो जिज्ञास्य इति प्रतिज्ञाय "को धर्मः कथंलक्षणः" इत्याद्यपेक्षायां "चोदनालक्षणोऽर्थः" इत्यादिना धर्मस्वरूपादिकं प्रतिपाद्यते; एवमिदं द्रष्टव्यम् । त्रिषवणं सवनत्रयेऽप्य् उदकोपस्पर्शी स्यात् । सूयतेऽस्मिन् सोम इति सवनम् । त्रयाणां सवनानां प्रातस्सवनादीनां समाहारस् त्रिषवणम् । उदकोपस्पर्शनं स्नानम् । चतुर्थकालपानभक्तस्याद् यस्मिन् काले क्षीरादि पिबति भक्तं चाश्नाति ततश्चतुर्थे काले पानं भक्तं च यस्य स चतुर्थकालपानभक्तः । पीयत इति पानं क्षीरादि । भक्तमन्नम् । यस्य यद्विहितं तस्य तच्चतुर्थे काले भवति । यथा - आद्ये अह्नि भुक्त्वा उत्तरेद्युर्नक्तं भुञ्जीत । ततस्तृतीयमहोरात्रं लङ्घयित्वा चतुर्थस्याह्नि भुञ्जीतेत्यादि । अहरहर्वेति विकल्पः । भक्षाणां समूहो भैक्षम् । औदुम्बरीभिर् उदुम्बरावयवैः । "अनुदात्तादेश्च" इत्यञ् । समिद्भिः प्रादेशमात्राभिः शुष्काभिर् अग्निं परिचरेत् । पुनर्मामैत्विन्द्रियमित्येतेनानुवाकेन । स च पूर्वत्र व्याख्यातः । उद्धृताश्च परिपूताश्च वस्त्रादिना उद्धृतपरिपूताः । "पूर्वकालैक" इति समासः । ताभिर् अद्भिः कार्यम् आचमनादिकं कुर्वीत । स्नानं च अवगाह्यैव । असञ्चयवान् भैक्षपक्षादन्यत्र पानादिसाधनस्य सङ्ग्रहवान् न स्यात् । असमर्थसमासः । "अग्नये स्वाहा" इत्यादिभिः स्वाहाकारान्तैर् मन्त्रैर् व्रतहोमाः कर्तव्याः, होमा इति वचनात् । "जुहोतिचोदनस्वाहाकारप्रदानः" इति । व्रतग्रहणं यावद्व्रतसमाप्ति होतव्या इति सूचनार्थम् । प्रवर्ग्यवदादेशः विधिस्स्यात् प्रवर्ग्यकार्याण्यत्र प्राप्यन्ते । यथा "मदन्तीरुपस्पृश्य शान्तिं कृत्वा" इत्येवमादीनि । अरुणाः काण्डऋषयो ऽरुणनामान आरुणकेतुककाण्डस्य ऋषयः । तेन एभ्योऽपि व्रतहोमाः कर्तव्या इत्युक्तं भवति । तत्र "प्रवर्ग्यवदादेशः" इति वचनात् प्रथमं काण्डमुपाकृत्य अनन्तरं "उपाकरणे समापने च ऋषिर्यः प्रज्ञायते । सदसस्पतिर्द्वितीयः" इति "अरुणेभ्यः स्वाहा" इति हुत्वा "अग्ने व्रतपते आरुणकेतुव्रतं चरिष्यामि" इत्यादि कुर्यात् । उक्तं च -
+काण्डोपकरणेष्वेतान् पुरस्तात् सदस्पतेः । जुहुयात्काण्डसमाप्तौ च श्रुतिरेषा सनातनी ॥ इत्य्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रि᳓ष᳓व᳓ण᳓मु᳓द᳓कोपस्पर्शी᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+He should touch the water (take bath) at the three Savanas (three times of pressing the soma-juice in a day);
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्रिषवणमुदको॑पस्प॒र्शी ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+च᳓तु᳓र्थ᳓का᳓ल᳓पा᳓नभक्तस्स्या᳓त् ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+he should take drink and rice in the fourth time (of the day).
+</details>
+
+<details><summary>मूलम्</summary>
+
+चतुर्थकालपान॑भक्त॒स्स्यात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ᳓ह᳓र᳓ह᳓र्वा᳓ भै᳓क्षमश्नीया᳓त् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+अहरहर्वा भैक्ष॑मश्नी॒यात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+औ᳓दु᳓म्ब᳓री᳓भि᳓स्स᳓मि᳓द्भि᳓र᳓ग्निं परिच᳓रे᳓त् ।  
+पु᳓न᳓र्मा᳓मै᳓त्वि᳓न्द्रि᳓य᳓मि᳓त्ये᳓ते᳓ना᳓नुवाकेन᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+He should serve the fire by the fuels of the Ficus Glomerata (Udumbara) by the (Mantras of) the Anuvāka (beginning with the words), "may the powers of the senses (Indriya) come to me".
+</details>
+
+<details><summary>मूलम्</summary>
+
 औदुम्बरीभिस्समिद्भिरग्निं॑ परि॒चरेत् ।  
-पुनर्मामैत्विन्द्रियमित्येतेनानु॑वाके॒न ।  
+पुनर्मामैत्विन्द्रियमित्येतेनानु॑वाके॒न ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उ᳓द्धृ᳓त᳓प᳓रि᳓पू᳓ता᳓भि᳓र᳓द्भिः᳓ का᳓र्यङ्कुर्वीत᳓ ।  
+[129]
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+He should work by the brought and filtered waters (1).[P126_2]
+
+[P126_2]: See T.A. 1.1.9 & 1.21.3 etc.
+</details>
+
+<details><summary>मूलम्</summary>
+
 उद्धृतपरिपूताभिरद्भिः कार्य॑ङ्कुर्वी॒त ।  
 [129]
+</details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+अ᳓सञ्चय᳓वा᳓न् ।
+</details>
 
+<details><summary>त्रिभुवनः</summary>
 
-अ॑सञ्च॒यवान् ।  
+He should be one not collecting (money etc.).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॑सञ्च॒यवान् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ᳓ग्न᳓ये᳓ वा᳓य᳓वे सूर्याय᳓ ।  
+ब्र᳓ह्म᳓णे᳓ प्रजापत᳓ये᳓ ।  
+च᳓न्द्र᳓म᳓से᳓ नक्षत्रेभ्यः᳓ ।  
+ऋ᳓तु᳓भ्य᳓स्सव्ँ᳓वत्सराय᳓ ।  
+व᳓रु᳓णा᳓या᳓रु᳓णा᳓ये᳓ति᳓ व्रतहोमाः᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+The oblations of this rule (Vrata) are for Fire, Wind, Sun, Brahman, Prajāpati, Candramas, Stars, Seasons and Year, Varuṇa and Aruna.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अग्नये वायवे॑ सूर्या॒य ।  
 ब्रह्मणे प्र॑जाप॒तये ।  
 चन्द्रमसे न॑क्षत्रे॒भ्यः ।  
 ऋतुभ्यस्सव्ँव॑त्सरा॒य ।  
-वरुणायारुणायेति व्र॑तहो॒माः ।  
-प्र॒व॒र्ग्यव॑दादे॒शः ।  
-अरुणाः का॑ण्डऋ॒षयः ।  
+वरुणायारुणायेति व्र॑तहो॒माः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रवर्ग्य᳓वदादेशः᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+The order is like the Pravargya (sacrifice).
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्र॒व॒र्ग्यव॑दादे॒शः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ᳓रु᳓णाः᳓ काण्डऋष᳓यः᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+In this Kāṇḍa Arunas (etc.) are the seers.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अरुणाः का॑ण्डऋ॒षयः ।
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+May we hear the auspicious (things) with ears, O gods; may we, the sacrificers see the auspicious (things) with eyes; with bodies of strong limbs may we, praising, obtain (the span of) life which is assigned by the gods. May Indra of great fame grant us welfare; may all-knowing Pūṣan grant us welfare; may Tārkṣya, the Ariṣṭanemi (one whose felly of wheel is unhurt) grant us welfare; may Bṛhaspati grant us welfare. Om Peace! Peace! Peace! *(Mantras for auspices and peace uttered again at the end of the Prapāṭhaka.)*
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ᳓र᳓ण्येऽधीयीर᳓न् ।  
+भ᳓द्र᳓ङ्क᳓र्णे᳓भि᳓रि᳓ति᳓ द्वे जपित्वा᳓ ।  
+[130]
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+4\. One should read this in a forest after repeating twice the Mantra, "(may we hear) the auspicious things with ears";
+</details>
+
+<details><summary>मूलम्</summary>
+
 अरण्ये॑ऽधीयी॒रन् ।  
 भद्रङ्कर्णेभिरिति द्वे॑ जपि॒त्वा ।  
 [130]
+</details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
 
+अरण्येऽधीयीरन् अरण्यमध्ये इत्यर्थः । भद्रं कर्णेभिरिति द्वे शान्त्यर्थं जपित्वा महानाम्नीभिः "आपमापां" इत्यादिभिर् उदकं मदन्तीं संस्पृश्य तं ब्रह्मचारिणा संस्पर्शयित्वा तं ब्रह्मचारिणे आचार्यो दद्याद् व्रते नियुञ्जीत व्रतं कारयेदिति यावत् । चेष्यमाणस्य त्व् अध्वर्युः कारयेत् । शिवा नश्शन्तमेत्योषधीः फलपाकान्ता आलभते स्पृशति । सुमृडीकेति भूमिम् आलभत इत्येव । एवमपवर्गे अपि कर्तव्यम् । फलप्राप्तौ अध्ययनक्रियासमाप्तिर् अपवर्गः । धेनुर्दक्षिणा देया । कंसं भोजनपात्रं वासश्च क्षौमं क्षुमा अतसी तस्या विकारः क्षौमम् । अन्यद्वा शुक्लं कार्पासविकारादि यथाशक्ति वा देयम् । अशक्तौ न धेन्वादिनिर्बन्धः । एवम् उक्तप्रकारेण स्वाध्यायधर्मेण प्रवर्ग्यं मदन्तीर् महानाम्नीभिर् उपस्पृश्येत्यादिकमावर्त्यावर्त्य अरण्येऽधीयीत । यत् "अरण्येऽधीयीत" इत्युक्तं तदेवं विशिष्टं कुर्यादिति । एवमधीयानस् तपस्वी भवति पुण्यश् च भवति । तपस्वी स्वाध्यायवान् "तपो हि स्वाध्यायः" इति ब्राह्मणम् । पुण्यस्सुकृती । अभ्यासो मङ्गलार्थः, मङ्गलान्तानि हि ब्राह्मणान्यध्येतॄणां पापक्षपणार्थानि भवन्तीति ॥१॥
+</details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+म᳓हा᳓ना᳓म्नी᳓भि᳓रु᳓द᳓कँ᳓ सँस्पर्श्य᳓ ।  
+त᳓मा᳓चार्यो दद्या᳓त् ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+by the Mahānāmnī Mantras touching the water the teacher should give to him (the sacrificer);
+</details>
+
+<details><summary>मूलम्</summary>
 
 महानाम्नीभिरुदकँ सँ॑स्प॒र्श्य ।  
-तमाचा॑र्यो द॒द्यात् ।  
-शिवा नश्शन्तमेत्योषधी॑राल॒भते ।  
-सुमृडीके॑ति भू॒मिम् ।  
-एवम॑पव॒र्गे ।  
+तमाचा॑र्यो द॒द्यात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शि᳓वा᳓ न᳓श्श᳓न्त᳓मे᳓त्यो᳓ष᳓धीरालभ᳓ते᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+by the Mantras, "(may the divine waters and the plants be) wealful and most auspicious" he touches the plants,
+</details>
+
+<details><summary>मूलम्</summary>
+
+शिवा नश्शन्तमेत्योषधी॑राल॒भते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सु᳓मृ᳓डी᳓केति भूमि᳓म् ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+and by the Mantras, "well merciful" he touches the earth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सुमृडीके॑ति भू॒मिम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ए᳓व᳓मपवर्गे᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+(He should do) thus in the end (of the reading).
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवम॑पव॒र्गे ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धे᳓नुर्दक्षि᳓णा᳓ ।  
+कँ᳓सव्ँ᳓ वा᳓सश्च क्षौम᳓म् ।  
+अ᳓न्यद्वा शुक्ल᳓म् ।  
+य᳓थाशक्ति᳓ वा᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+The Dakṣiṇā (sacrificial fee) is a cow, a vessel made of metal and the cloth made of linen or any other white (cloth) or according to the power (one should give the sacrificial fee).
+</details>
+
+<details><summary>मूलम्</summary>
+
 धे॑नुर्द॒क्षिणा ।  
 कँसव्ँ वास॑श्च क्षौ॒मम् ।  
 अन्य॑द्वा शु॒क्लम् ।  
-य॑थाश॒क्ति वा ।  
+य॑थाश॒क्ति वा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ए᳓वँ᳓ स्व᳓ध्या᳓यधर्मेण᳓ ।  
+अ᳓र᳓ण्येऽधीयीत᳓ ।  
+त᳓प᳓स्वी᳓ पु᳓ण्यो᳓ भ᳓व᳓ति᳓ त᳓प᳓स्वी᳓ पुण्यो भव᳓ति᳓ ॥ [131]
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+In this way, as the rule of the study, he should read in a forest. He becomes the pious ascetic, (yes) becomes the pious ascetic.
+</details>
+
+<details><summary>मूलम्</summary>
+
 एवँ स्वध्याय॑धर्मे॒ण ।  
 अरण्ये॑ऽधीयी॒त ।  
 तपस्वी पुण्यो भवति तपस्वी पु॑ण्यो भ॒वति ॥ [131]
+</details>

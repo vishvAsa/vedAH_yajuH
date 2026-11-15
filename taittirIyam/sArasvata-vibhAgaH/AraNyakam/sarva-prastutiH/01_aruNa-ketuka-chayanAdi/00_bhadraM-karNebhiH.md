@@ -6,17 +6,28 @@ title = "०० भद्रं-कर्णेभिः"
 
 तत्राध्ययनकाले "भद्रं कर्णेभिः" इति द्वे जपति । ब्राह्मणं च भवति "भद्रं कर्णेभिरिति द्वे जपित्वा" इति ।  
 उपधानकाले च द्वे अप्येते उपदध्यात् ।  
-द्वे चैते त्रिष्टुभौ ।  
-
+द्वे चैते त्रिष्टुभौ ।
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अत्र बौधायने कल्पे तत्प्रकारोऽभिहितः- "एतेनाऽऽरुणकेतुको व्याख्यातो यावन्मन्त्रबीष्टकाः । लोकंपृणाश्च स्वयमातृणाश्चाऽऽप एव" इति । पूर्वत्र सावित्रादिचयनानामभिहितत्वादेतेनेति तत्परामर्शः । अब्रूपा इष्टका अबीष्टकाः । नात्रेष्टका मृदादिना निष्पादनीयाः । किं त्वाप एवेष्टकाबुद्ध्योपधेया इत्यर्थः । उपधानेऽस्मिन्कल्प एवमभिहितः- "उत्तरवेद्यावपनकाले तूष्णीं जानुदघ्नं खात्वाऽन्यत्र मृदं निवपति विदेरग्निरित्यादिर्लुप्यते । ध्रुवाऽसीति प्रतिपद्यते । हस्तग्राभमबीष्टका उपदध्यात् । 
-भद्रं कर्णेभिरिति द्वाभ्यां शान्तिं कृत्वा ताभ्यामुपदधाति" इति । (हस्तग्राभं) हस्तग्राहं हस्तेन गृहीत्वा जलमित्यर्थः । तत्र शान्त्यर्थां प्रथमामृचमाह -  हे देवा इन्द्रादयो भद्रं कल्याणं श्रुतिस्मृतिवाक्यरूपं कर्णेभिराचार्यान्तेवासिरूपाणामृत्विग्यजमानरूपाणां वाऽस्माकं बहूनां कर्णैः युष्मत्प्रसादात्सर्वदा श्रोतुं समर्थाः स्याम । श्रुत्वा च यजत्रा यागक्षमा वयं भद्रं कल्याणं यज्ञादिकं कर्माक्षभिश्चक्षुरिन्द्रियैः साक्षात्पश्येम । स्थिरैरविकलैरङ्गैश्चक्षुरादिभिर्हस्तादिभिश्चावयवैस्तनूभिस्तथाविधशरीरैर्युक्ता वयं तुष्टुवांसो युष्मदीयां स्तुतिं कुर्वाणा यद्यस्मात्कारणाद्देवहितं देवेन प्रजापतिना समर्पितं सर्वमप्यायुर्व्यशेम विशेषेण प्राप्नवाम । तस्मादपमृत्योरभावाच्चिरं भद्रं शृणुयामेति पूर्वत्रान्वयः । 
+भद्रं कर्णेभिरिति द्वाभ्यां शान्तिं कृत्वा ताभ्यामुपदधाति" इति । (हस्तग्राभं) हस्तग्राहं हस्तेन गृहीत्वा जलमित्यर्थः । तत्र शान्त्यर्थां प्रथमामृचमाह -  हे देवा इन्द्रादयो भद्रं कल्याणं श्रुतिस्मृतिवाक्यरूपं कर्णेभिराचार्यान्तेवासिरूपाणामृत्विग्यजमानरूपाणां वाऽस्माकं बहूनां कर्णैः युष्मत्प्रसादात्सर्वदा श्रोतुं समर्थाः स्याम । श्रुत्वा च यजत्रा यागक्षमा वयं भद्रं कल्याणं यज्ञादिकं कर्माक्षभिश्चक्षुरिन्द्रियैः साक्षात्पश्येम । स्थिरैरविकलैरङ्गैश्चक्षुरादिभिर्हस्तादिभिश्चावयवैस्तनूभिस्तथाविधशरीरैर्युक्ता वयं तुष्टुवांसो युष्मदीयां स्तुतिं कुर्वाणा यद्यस्मात्कारणाद्देवहितं देवेन प्रजापतिना समर्पितं सर्वमप्यायुर्व्यशेम विशेषेण प्राप्नवाम । तस्मादपमृत्योरभावाच्चिरं भद्रं शृणुयामेति पूर्वत्रान्वयः ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH.md">
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+Collection of the Arunaketuka Fire has been discussed in this Prapathaka; propitiation of the Uttara Vedi (Northern altar) being introduced in Anuvaka I. Mantras for peace and propitiation.
+
+*(Mantras 1–2)* Mantras to be uttered while placing the two imaginary watery bricks in the Uttara Vedi.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Harih Om.
+</details>
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -290,6 +301,11 @@ Gods, may we with our ears listen to what is good, and with our eyes see what is
      With limbs and bodies firm may we extolling you attain the term of life appointed by the Gods.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+May we hear the auspicious (things) with ears, O gods; may we, the sacrificers, see the auspicious (things) with eyes; with bodies of strong limbs; may we, praising, obtain (the span of) life which is assigned by the gods.
+</details>
+
 <details><summary>Geldner</summary>
 
 Gutes wollen wir mit Ohren hören, ihr Götter, Gutes mit Augen sehen, ihr Opferwürdige. Mit festen Gliedern und Leibern wollen wir, die wir lobgesungen haben, das gottgesetzte Alter erreichen.
@@ -359,7 +375,12 @@ Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre G�
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/06_svasti_na.md">
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथ द्वितीया - स्वस्ति न इति ॥
+</details>
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/06_svasti_na.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -371,6 +392,11 @@ Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre G�
 </details>
 
 </div>
+
+<details><summary>त्रिभुवनः</summary>
+
+Om Peace, Peace, Peace.
+</details>
 
 <div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/089/06_svasti_na.md">
 
@@ -384,7 +410,7 @@ Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre G�
 
 <details><summary>सायण-टीका</summary>
 
-अथ द्वितीयमाह-  वृद्धैर्महात्मभिः सदा पुराणादिषु श्रूयत इति वृद्धश्रवाः । तादृश इन्द्रो नोऽस्माकं स्वस्ति दधात्वध्ययनश्रवणानुष्ठानार्थं क्षेमं सम्पादयतु । विश्वं वेत्ति जानातीति विश्ववेदाः । तादृशः पूषाऽपि नः स्नस्ति दधातु । अरिष्टमहिंसा तस्य नेमिस्थानीयः । यथा लोहमयी नेमिः काष्ठमयस्य चक्रस्य भङ्गाभावाय पालयत्येवमयंतार्क्ष्यो गरुडोऽपि सर्पादिकृतां हिंसां निवार्य तत्पालकत्वादरिष्टनेमिः । तादृशस्तार्क्ष्यो नः स्वस्ति दधातु । 
+अथ द्वितीयमाह-  वृद्धैर्महात्मभिः सदा पुराणादिषु श्रूयत इति वृद्धश्रवाः । तादृश इन्द्रो नोऽस्माकं स्वस्ति दधात्वध्ययनश्रवणानुष्ठानार्थं क्षेमं सम्पादयतु । विश्वं वेत्ति जानातीति विश्ववेदाः । तादृशः पूषाऽपि नः स्नस्ति दधातु । अरिष्टमहिंसा तस्य नेमिस्थानीयः । यथा लोहमयी नेमिः काष्ठमयस्य चक्रस्य भङ्गाभावाय पालयत्येवमयंतार्क्ष्यो गरुडोऽपि सर्पादिकृतां हिंसां निवार्य तत्पालकत्वादरिष्टनेमिः । तादृशस्तार्क्ष्यो नः स्वस्ति दधातु ।
 </details>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/089/06_svasti_na.md">
@@ -613,7 +639,7 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अथ द्वितीया - स्वस्ति न इति ॥ पूर्वत्र प्रत्यक्षेण प्रार्थिता देवाः । अत्र तु परोक्षेण निर्दिश्य एकैकशः प्रार्थ्यन्ते । नः अस्माकं स्वस्ति अविनाशं अध्ययनादेरविघ्नेन समाप्तिं इन्द्रो दधातु विदधातु वृद्धश्रवाः वृद्धश्रवणः सदा स्तोत्रश्रवणात् । यद्वा - वृद्धैः महात्मभिः सदा श्रूयत इति वृद्धश्रवाः । "गतिकारकपूर्वयोः पूर्वपदप्रकृतिस्वरत्वं च" इति कर्मण्यसुन्(ण्यसिः) । तथा पूषा च स्वस्ति नः दधातु विश्ववेदाः विश्वैर्विद्यते ज्ञायते लभ्यते वेति विश्ववेदाः । पूर्ववदसुन्(सिः) । यद्वा - विश्वानि ज्ञानानि धनानि वा यस्येति बहुव्रीहिः । एवं तार्क्ष्यः अपि नः स्वस्ति दधातु । तार्क्ष्यो नाम छन्दोमयो रथः यः "स्वस्त्ययनं तार्क्ष्यमरिष्टनेमिः" इत्युक्तः । विहगराजो वा । तृक्षस्यापत्यं तार्क्ष्यः "गर्गादिभ्यो यञ्" । अरिष्टनेमिः अनुपक्षीणनेमिः । प्रथिर्नेमिः । बृहस्पतिश्च नः स्वस्ति दधातु । "तद्बृहतोः" सति सुट् । "उभे वनस्पत्यादिषु" इति पूर्वोत्तरपदयोः युगपत्प्रकृतिस्वरत्वम् ॥२॥
+पूर्वत्र प्रत्यक्षेण प्रार्थिता देवाः । अत्र तु परोक्षेण निर्दिश्य एकैकशः प्रार्थ्यन्ते । नः अस्माकं स्वस्ति अविनाशं अध्ययनादेरविघ्नेन समाप्तिं इन्द्रो दधातु विदधातु वृद्धश्रवाः वृद्धश्रवणः सदा स्तोत्रश्रवणात् । यद्वा - वृद्धैः महात्मभिः सदा श्रूयत इति वृद्धश्रवाः । "गतिकारकपूर्वयोः पूर्वपदप्रकृतिस्वरत्वं च" इति कर्मण्यसुन्(ण्यसिः) । तथा पूषा च स्वस्ति नः दधातु विश्ववेदाः विश्वैर्विद्यते ज्ञायते लभ्यते वेति विश्ववेदाः । पूर्ववदसुन्(सिः) । यद्वा - विश्वानि ज्ञानानि धनानि वा यस्येति बहुव्रीहिः । एवं तार्क्ष्यः अपि नः स्वस्ति दधातु । तार्क्ष्यो नाम छन्दोमयो रथः यः "स्वस्त्ययनं तार्क्ष्यमरिष्टनेमिः" इत्युक्तः । विहगराजो वा । तृक्षस्यापत्यं तार्क्ष्यः "गर्गादिभ्यो यञ्" । अरिष्टनेमिः अनुपक्षीणनेमिः । प्रथिर्नेमिः । बृहस्पतिश्च नः स्वस्ति दधातु । "तद्बृहतोः" सति सुट् । "उभे वनस्पत्यादिषु" इति पूर्वोत्तरपदयोः युगपत्प्रकृतिस्वरत्वम् ॥२॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -643,6 +669,11 @@ The rigid parallel structure of the four pādas is resolved by the final word of
 
 Illustrious far and wide, may Indra prosper us: may Pusan prosper us, the Master of all wealth.  
      May Tarksya with uninjured fellies prosper us: Brhaspati vouchsafe to us prosperity.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+May Indra of great fame grant us welfare; may all-knowing Pūṣan grant us welfare; may Tārkṣya, the Ariṣṭanemi (one whose felly of wheel is unhurt) grant us welfare; may Bṛhaspati grant us welfare.
 </details>
 
 <details><summary>Geldner</summary>
