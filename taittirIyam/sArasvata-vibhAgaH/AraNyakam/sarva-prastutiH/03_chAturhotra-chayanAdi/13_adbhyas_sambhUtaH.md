@@ -10,7 +10,7 @@ unicode_script: devanagari
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 'उत्तरनारायणेन आदित्यम् उपस्थाय' इत्य् आदौ विनियोगः ।  
-त्रैष्टुभस् सर्वो ऽनुवाकः, विशेषो वक्ष्यते ॥ 
+त्रैष्टुभस् सर्वो ऽनुवाकः, विशेषो वक्ष्यते ॥
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -18,7 +18,12 @@ unicode_script: devanagari
 सन्दर्भार्थम् आदौ [पुरुषसूक्तम्](../sahasra-shIrShA/) ईक्षताम्।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/02_adbhyaH_sambhUtaH.md">
+<details><summary>त्रिभुवनः - Note</summary>
+
+Concluding portion of the Puruṣa-Sūkta. (From 1 to 5).
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/02_adbhyaH_sambhUtaH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -26,6 +31,7 @@ unicode_script: devanagari
 विश्व᳓-कर्मणः+++(=परिपूर्णपुरुषात् पुरुषसूक्तोक्तात्)+++ स᳓मवर्तता᳓धि ।  
 त᳓स्य त्व᳓ष्टा+++(=त्रिपात् पुरुषः)+++ विद᳓धद् रूप᳓म् एति ।  
 त᳓त् पु᳓रुषस्य वि᳓श्वम् आ᳓जानम् अ᳓ग्रे । १
+
 </details>
 
 </div>
@@ -33,6 +39,11 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/02_adbhyaH_sambhUtaH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+He was born of the waters and the elixirs of the earth; he moved round in the rule of Viśvakarman (causer of the world); Tvaṣṭṛ makes the forms of him; I know that (greatness) of the Puruṣa (person) first.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒द्भ्यः संभू॑तः पृथि॒व्यै रसा॑च्च । वि॒श्वक॑र्मणः॒ सम॑वर्त॒ताधि॑ ।
@@ -41,7 +52,7 @@ unicode_script: devanagari
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-1 अद्भ्यस् सम्भूत इत्य् आदि ॥  
+अद्भ्यस् सम्भूत इत्य् आदि ॥  
 
 ('उत्तरनारायणेन आदित्यम् उपस्थाय' इत्य् आदौ विनियोगः ।  
 त्रैष्टुभस् सर्वो ऽनुवाकः, विशेषो वक्ष्यते ॥)  
@@ -52,7 +63,7 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/03_vedAham_etam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/03_vedAham_etam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -60,6 +71,7 @@ unicode_script: devanagari
 आदित्य᳓-वर्णं त᳓मसः प᳓रस्तात् ।  
 त᳓म् एवं᳓ विद्वा᳓न् अमृ᳓त इह᳓ भवति ।  
 ना᳓न्यः᳓ प᳓न्था विद्यते᳓ ऽयनाय । २
+
 </details>
 
 </div>
@@ -67,6 +79,11 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/03_vedAham_etam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I know this great Puruṣa of the colour of the sun, out of the darkness; he, who knows him thus, becomes immortal here; there is no other way for reaching the (immortality).
+</details>
+
 <details><summary>मूलम्</summary>
 
 वेदा॒हमे॒तं पुरु॑षं म॒हान्तम्॑ । आ॒दि॒त्यव॑र्णं॒ तम॑सः॒ पर॑स्तात् ।
@@ -75,13 +92,13 @@ unicode_script: devanagari
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-2वेदाहमित्यादि गतम् ॥ तमसः परस्तात् तमश्शीलं विकारजातं तमः ततः परस्तात् स्थितं महान्तं पुरुषमहं वेद। एवं तं विद्वान् अमृतो भवति, अन्यः पन्थाः अयनाय अमृतत्वप्राप्तये साधनभूतो न विद्यते । अयनशब्दो लित्स्वरेणाद्युदात्तः, तेनैकादेशे एकार उदात्तः ॥
+वेदाहमित्यादि गतम् ॥ तमसः परस्तात् तमश्शीलं विकारजातं तमः ततः परस्तात् स्थितं महान्तं पुरुषमहं वेद। एवं तं विद्वान् अमृतो भवति, अन्यः पन्थाः अयनाय अमृतत्वप्राप्तये साधनभूतो न विद्यते । अयनशब्दो लित्स्वरेणाद्युदात्तः, तेनैकादेशे एकार उदात्तः ॥
 </details>
 </details>
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/04_prajApatish_charati.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/04_prajApatish_charati.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -89,6 +106,7 @@ unicode_script: devanagari
 **अ᳓जायमानो**+++(←माध्यन्दिन-स्वरः)+++ बहुधा᳓ **वि᳓जायते** +++(सहस्रशीर्षा!)+++।  
 त᳓स्य धी᳓राः **प᳓रिजानन्ति** यो᳓निम् ।  
 म᳓रीचीनां +++(ऋषीणां)+++ पद᳓म् **इच्छन्ति** वेध᳓सः +++(त्रिपादश् [च])+++। ३
+
 </details>
 
 </div>
@@ -96,6 +114,11 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/04_prajApatish_charati.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+Prajāpati moves in the womb of the creation; he becomes born in various forms, (though really) being unborn (1). The wise ones know the cause of that; the sages wish the foot of the rays.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिश्चरति॒ गर्भे॑ अ॒न्तः । अ॒जाय॑मानो बहु॒धा विजा॑यते ।
@@ -105,13 +128,13 @@ unicode_script: devanagari
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-3प्रजापतिरिति ॥ आत्मसमष्टिः प्रजानां पतिः जीवात्मा अन्तर्गर्भे चरति सर्वेषु शरीरेषु आब्रह्ममशकं स्वयं अजायमान एव बहुप्रकारशरीरसम्बन्धेन विविधं जायमान इव भवति । तस्यैतस्य जायमानस्य योनिं कारणं शरीरसम्बन्धकारणं वा धीराः धीमन्तः परिजानन्ति सर्वात्मना जानन्ति । कीदृशाः? ये वेधसः विधातारः प्रकृष्टज्ञानाः मरीचीनां पदं रश्मीनां पदं स्थानं आदित्यात्मानं इच्छन्ति याथात्म्येन विजानन्ति, प्रविशन्ति वा । ते तं योनि जानन्ति । नान्यत् [नान्यैः] ज्ञातुं शक्यते । 'सूर्य आत्मा' इति च श्रुतिः ॥
+प्रजापतिरिति ॥ आत्मसमष्टिः प्रजानां पतिः जीवात्मा अन्तर्गर्भे चरति सर्वेषु शरीरेषु आब्रह्ममशकं स्वयं अजायमान एव बहुप्रकारशरीरसम्बन्धेन विविधं जायमान इव भवति । तस्यैतस्य जायमानस्य योनिं कारणं शरीरसम्बन्धकारणं वा धीराः धीमन्तः परिजानन्ति सर्वात्मना जानन्ति । कीदृशाः? ये वेधसः विधातारः प्रकृष्टज्ञानाः मरीचीनां पदं रश्मीनां पदं स्थानं आदित्यात्मानं इच्छन्ति याथात्म्येन विजानन्ति, प्रविशन्ति वा । ते तं योनि जानन्ति । नान्यत् [नान्यैः] ज्ञातुं शक्यते । 'सूर्य आत्मा' इति च श्रुतिः ॥
 </details>
 </details>
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/05_yo_devebhya.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/05_yo_devebhya.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -119,6 +142,7 @@ unicode_script: devanagari
 यो᳓ देवा᳓नां पुरो᳓हितः ।  
 पू᳓र्वो यो᳓ देवे᳓भ्यो जातः᳓ ।  
 न᳓मो रुचा᳓य+++(=रोचमानाय)+++ ब्रा᳓ह्मये+++(=वेदवेद्याय परिपूर्णपुरुषाय)+++ । ४
+
 </details>
 
 </div>
@@ -126,6 +150,11 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/05_yo_devebhya.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+Salutation to that shining Brahman, who shines for the sake of the gods, who is the priest of the gods and who was born before the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो दे॒वेभ्य॒ आत॑पति +++(आ॒तप॑ति॒ माध्यन्दिने)+++ ।  
@@ -136,13 +165,13 @@ unicode_script: devanagari
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-4यो देवेभ्य इत्याद्ये अनुष्टुभौ ॥ अधुना स एव आदित्वो वर्ण्यते । यो देवेभ्यः सर्वविकारेभ्यः आतपति समन्तात्तपति सर्वेभ्यो रश्मिमद्भ्योऽधिकं तपति अव्यक्तात्मस्वरूपादागत्य तपनेन सर्वान् विकारान् उत्पाद्य अनुगृह्णाति । यश्च तेषां देवानां देवादीनां विकाराणां पुरोहितः पुरस्तात् स्थितः। तेषां अनुज्ञानार्थं उदयादिना उपकरोति । यश्च पूर्वः प्रथम एव देवेभ्यो जातः सर्वविकाराणां अग्रे जातः । तस्मै रुचाय रोचनशीलाय परमेश्वरदीप्तिमूर्तये । इगुपधलक्षणः कः । ब्राह्मये ब्रह्मणोऽपत्याय । छान्दस इञ् , बाह्वादिर्वा द्रष्टव्यः । तस्मै नम इति ॥
+यो देवेभ्य इत्याद्ये अनुष्टुभौ ॥ अधुना स एव आदित्वो वर्ण्यते । यो देवेभ्यः सर्वविकारेभ्यः आतपति समन्तात्तपति सर्वेभ्यो रश्मिमद्भ्योऽधिकं तपति अव्यक्तात्मस्वरूपादागत्य तपनेन सर्वान् विकारान् उत्पाद्य अनुगृह्णाति । यश्च तेषां देवानां देवादीनां विकाराणां पुरोहितः पुरस्तात् स्थितः। तेषां अनुज्ञानार्थं उदयादिना उपकरोति । यश्च पूर्वः प्रथम एव देवेभ्यो जातः सर्वविकाराणां अग्रे जातः । तस्मै रुचाय रोचनशीलाय परमेश्वरदीप्तिमूर्तये । इगुपधलक्षणः कः । ब्राह्मये ब्रह्मणोऽपत्याय । छान्दस इञ् , बाह्वादिर्वा द्रष्टव्यः । तस्मै नम इति ॥
 </details>
 </details>
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/06_ruchaM_brAhmam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/06_ruchaM_brAhmam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -150,6 +179,7 @@ unicode_script: devanagari
 देवा᳓ अ᳓ग्रे त᳓द् अब्रुवन् ।  
 य᳓स् त्वा +एवं᳓ ब्राह्मणो᳓ **विद्या᳓त्** -  
 त᳓स्य देवा᳓ **अ᳓सन्**+++(~~असन्~~)+++ व᳓शे । ५
+
 </details>
 
 </div>
@@ -157,6 +187,11 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/06_ruchaM_brAhmam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+The gods, while producing the lights of the Brahman (consciousness), said in the first time; "who knows thus of Brahman, the gods live according to his wish".
+</details>
+
 <details><summary>मूलम्</summary>
 
 रुचं॑ ब्रा॒ह्मम् ज॒नय॑न्तः । दे॒वा अग्रे॒ तद॑ब्रुवन् ।
@@ -165,7 +200,7 @@ unicode_script: devanagari
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-5रुचमिति ॥ एवं महानुभावं रुचं रोचनशीलं ब्राह्मं ब्रह्मणोऽपत्यम् । अजातित्वाट्टिलोपः । तमेवादित्यं जीवात्मना स्थितं जनयन्तः ब्राह्मणाः आत्मवन्तः स्यामेति ईशं शरीरे सन्निधापयन्तः देवाः इन्द्रियाणि अग्रे पूर्वमेव अब्रुवन् सृष्ट्यादौ आत्मना समयमिव कृतवन्तः । तत् तदानीं जन्मकाल एव यो ब्राह्मणः त्वा त्वां एवं जीवात्मना स्थितं विद्वान् एवं सृष्टयादिप्रवृत्तं यः त्वां विद्वान् यथावत् जानन् भवति, तस्य **वशे असन्** भवन्ति देवाः इन्द्रियाणि जितेन्द्रियो मुक्तो भवति । यद्वा - देवादयः स तस्य वशे तिष्ठन्ति विधेया भवन्ति । अस्तेर्लटि शपो लुक् ॥
+रुचमिति ॥ एवं महानुभावं रुचं रोचनशीलं ब्राह्मं ब्रह्मणोऽपत्यम् । अजातित्वाट्टिलोपः । तमेवादित्यं जीवात्मना स्थितं जनयन्तः ब्राह्मणाः आत्मवन्तः स्यामेति ईशं शरीरे सन्निधापयन्तः देवाः इन्द्रियाणि अग्रे पूर्वमेव अब्रुवन् सृष्ट्यादौ आत्मना समयमिव कृतवन्तः । तत् तदानीं जन्मकाल एव यो ब्राह्मणः त्वा त्वां एवं जीवात्मना स्थितं विद्वान् एवं सृष्टयादिप्रवृत्तं यः त्वां विद्वान् यथावत् जानन् भवति, तस्य **वशे असन्** भवन्ति देवाः इन्द्रियाणि जितेन्द्रियो मुक्तो भवति । यद्वा - देवादयः स तस्य वशे तिष्ठन्ति विधेया भवन्ति । अस्तेर्लटि शपो लुक् ॥
 </details>
 </details>
 
@@ -173,26 +208,118 @@ unicode_script: devanagari
 
 ## परिपूर्णपुरुषध्यानम्
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+A Yajus Mantra.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ह्री᳓श् च ते लक्ष्मी᳓श् च प᳓त्न्यौ ।  
-अहोरात्रे᳓ पार्श्वे᳓ ।  
-न᳓क्षत्राणि रूप᳓म् ।  
-अश्वि᳓नौ व्या᳓त्तम् +++(=मुखम्)+++ ।  
-+++(अश्विनयोः खल्ववर्तत विशुवस्थानम् पुरा।)+++
+ह्री᳓श् च ते लक्ष्मी᳓श् च प᳓त्न्यौ ।
+</details>
 
-इष्ट᳓म् मनिषाण+++(=यच्छ)+++ । अमुं᳓ +++(स्वर्लोकं)+++ मनिषाण ।  स᳓र्वम्  मनिषाण । ६
+<details><summary>त्रिभुवनः</summary>
+
+(O Ātman:) the goddess of shyness and the goddess of prosperity are your wives;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ह्रीश्च॑ ते ल॒क्ष्मीश्च॒ पत्न्यौ॑ । अ॒हो॒रा॒त्रे पा॒र्श्वे ।
-नक्ष॑त्राणि रू॒पम् । अ॒श्विनौ॒ व्यात्तम्॑ ।  इ॒ष्टम् म॑निषाण ।
-अ॒मुं म॑निषाण ।  सर्व॑म्  मनिषाण । ६
+ह्रीश्च॑ ते ल॒क्ष्मीश्च॒ पत्न्यौ॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अहोरात्रे᳓ पार्श्वे᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the days and the nights are the sides;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒हो॒रा॒त्रे पा॒र्श्वे ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न᳓क्षत्राणि रूप᳓म् ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the stars are the forms;
+</details>
+
+<details><summary>मूलम्</summary>
+
+नक्ष॑त्राणि रू॒पम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अश्वि᳓नौ व्या᳓त्तम् +++(=मुखम्)+++ ।  
++++(अश्विनयोः खल्ववर्तत विशुवस्थानम् पुरा।)+++
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Aśvins are the opened (mouth);
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒श्विनौ॒ व्यात्तम्॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इष्ट᳓म् मनिषाण+++(=यच्छ)+++ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+grant the desired (thing);
+</details>
+
+<details><summary>मूलम्</summary>
+
+इ॒ष्टम् म॑निषाण ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अमुं᳓ +++(स्वर्लोकं)+++ मनिषाण ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+grant that (heaven);
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒मुं म॑निषाण ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स᳓र्वम्  मनिषाण । ६
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+grant all (for me).
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्व॑म्  मनिषाण । ६
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-6ह्रीश्चेत्यादिकं यजुः ॥ ह्रीः लज्जा लक्ष्मीः श्रीः ते उभे तव पत्न्यौ सहधर्मचारिण्यौ, हे आत्मन् ! अहोरात्रे अहश्च रात्रिश्च पार्श्वस्थानीये । पशूनां समूहः पार्श्वं, 'पशोर्णस् वक्तव्यः' । घटिकासमूहात्मके अहोरात्रे पार्श्वस्थानीये धारकत्वसामान्यात् । नक्षत्राणि चन्द्रयुतानि तव रूपं रूपणनिमित्तानि,नक्षत्रयुक्तचन्द्राधीनकालनिबन्धनत्वात् जीवानां स्थितेः । अश्विनौ द्यावापृथिव्यौ व्यात्तं व्यात्तास्यस्थानीयौ, विश्वं निगिरतः तव व्यापकत्वात् तद्देवत्यत्वाद्वा द्यावापृथिव्योरश्वित्वम् । स त्वमेवं महाभागो मम इष्टं ईप्सितं आत्मबोधलक्षणं मनिषाण अनुमन्यस्व, देहीति यावत् । मनोतेर्व्यत्ययेन श्नाप्रत्ययः, 'हलश्नश्शानज्झौ' विकरणत्वेन सिप इडागमः, धात्वन्तरं वा छान्दसं द्रष्टव्यम् । अमुमिति विशेषार्थं, आयुश्च गां च अश्वं च देहि । किंबहुना ऐहिकमामुष्मिकं वा सर्वमिष्टं देहीति ॥
-इत्यारण्यके तृतीये त्रयोदशोऽनुवाकः ॥
+ह्रीश्चेत्यादिकं यजुः ॥ ह्रीः लज्जा लक्ष्मीः श्रीः ते उभे तव पत्न्यौ सहधर्मचारिण्यौ, हे आत्मन् ! अहोरात्रे अहश्च रात्रिश्च पार्श्वस्थानीये । पशूनां समूहः पार्श्वं, 'पशोर्णस् वक्तव्यः' । घटिकासमूहात्मके अहोरात्रे पार्श्वस्थानीये धारकत्वसामान्यात् । नक्षत्राणि चन्द्रयुतानि तव रूपं रूपणनिमित्तानि,नक्षत्रयुक्तचन्द्राधीनकालनिबन्धनत्वात् जीवानां स्थितेः । अश्विनौ द्यावापृथिव्यौ व्यात्तं व्यात्तास्यस्थानीयौ, विश्वं निगिरतः तव व्यापकत्वात् तद्देवत्यत्वाद्वा द्यावापृथिव्योरश्वित्वम् । स त्वमेवं महाभागो मम इष्टं ईप्सितं आत्मबोधलक्षणं मनिषाण अनुमन्यस्व, देहीति यावत् । मनोतेर्व्यत्ययेन श्नाप्रत्ययः, 'हलश्नश्शानज्झौ' विकरणत्वेन सिप इडागमः, धात्वन्तरं वा छान्दसं द्रष्टव्यम् । अमुमिति विशेषार्थं, आयुश्च गां च अश्वं च देहि । किंबहुना ऐहिकमामुष्मिकं वा सर्वमिष्टं देहीति ॥
 </details>

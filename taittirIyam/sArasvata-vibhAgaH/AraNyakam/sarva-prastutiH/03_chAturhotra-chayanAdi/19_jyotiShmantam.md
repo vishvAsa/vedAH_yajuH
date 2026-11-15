@@ -1,16 +1,29 @@
 +++
 title = "१९ ज्योतिष्मन्तम्"
 +++
+
 _______
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-1द्वादश ज्योतिष्मतीरुपदधाति - ज्योतिष्मतीमिति ॥
+द्वादश ज्योतिष्मतीरुपदधाति - ज्योतिष्मतीमिति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/jyotiShmantaM.md">
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+Mantras addressing the fuel for a cremation.
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/jyotiShmantaM.md">
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ज्योति॑ष्मतीन्त्वा सादयामि ज्योति॒ष्कृत॑न्त्वा सादयामि ज्योति॒र्विद॑न्त्वा सादयामि॒ भास्व॑तीन्त्वा सादयामि॒ ज्वल॑न्तीन्त्वा सादयामि मल्मला॒भव॑न्तीन्त्वा सादयामि॒ दीप्य॑मानान्त्वा सादयामि॒ रोच॑मानान्त्वा सादया॒म्यज॑स्रान्त्वा सादयामि बृ॒हज्ज्यो॑तिषन्त्वा सादयामि बो॒धय॑न्तीन्त्वा सादयामि॒ जाग्र॑तीन्त्वा सादयामि ॥ [35]
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+आत्मज्योतिषो वृत्तिभेदाः ते इष्टकावेन स्तूयन्ते
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -23,14 +36,24 @@ _______
 I place thee that hast light.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+(O Fuel), I put you as shining one (on the dead one)
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्योति॑ष्मतीन्त्वा सादयामि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ज्योति॑ष्मतीम् । त्वा॒ । सा॒द॒या॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-आत्मज्योतिषो वृत्तिभेदाः ते इष्टकावेन स्तूयन्ते - ज्योतिष्मती प्रशस्तज्योतिः ।
+ज्योतिष्मती प्रशस्तज्योतिः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -43,9 +66,19 @@ I place thee that hast light.
 I place thee that makest light.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I put you as the maker of the light
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्यो॒ति॒ष्कृत॑न्त्वा सादयामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ज्यो॒ति॒ष्कृत॒मिति॑ ज्योतिः-कृत॑म् । त्वा॒ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -63,9 +96,19 @@ I place thee that makest light.
 I place thee that findest light.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I put you as the knower of the light
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्यो॒ति॒र्विद॑न्त्वा सादयामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ज्यो॒ति॒र्विद॒मिति॑ ज्योतिः-विद॑म् । त्वा॒ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -83,9 +126,19 @@ I place thee that findest light.
 I place thee that shinest.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I put you as full of light
+</details>
+
 <details><summary>मूलम्</summary>
 
 भास्व॑तीन्त्वा सादयामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भास्व॑तीम् । त्वा॒ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -103,9 +156,19 @@ I place thee that shinest.
 I place thee that burnest.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I put you as burning
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्वल॑न्तीन्त्वा सादयामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ज्वल॑न्तीम् । त्वा॒ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -123,9 +186,19 @@ I place thee that burnest.
 I place thee that flashest.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I put you as being burnt with the 'Malmala' sounds of the flames
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒ल्मला॒भव॑न्तीन्त्वा सादयामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒ल्म॒ला॒भव॑न्ती॒मिति॑ मल्मला-भव॑न्तीम् । त्वा॒ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -143,9 +216,19 @@ I place thee that flashest.
 I place thee that art aflame.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I put you as being shined
+</details>
+
 <details><summary>मूलम्</summary>
 
 दीप्य॑मानान्त्वा सादयामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दीप्य॑मानाम् । त्वा॒ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -163,9 +246,19 @@ I place thee that art aflame.
 I place thee that blazest.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I put you as being lighted
+</details>
+
 <details><summary>मूलम्</summary>
 
 रोच॑मानान्त्वा सादया॒मि।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रोच॑मानाम् । त्वा॒ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -183,9 +276,19 @@ I place thee that blazest.
 I place thee that art immortal.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I put you as many
+</details>
+
 <details><summary>मूलम्</summary>
 
 अज॑स्रान्त्वा  सादयामि  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अज॑स्राम् । त्वा॒ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -203,9 +306,19 @@ I place thee that art immortal.
 I place thee that hast great light.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I put you as of great light
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृ॒हज्ज्यो॑तिषन्त्वा सादयामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बृ॒हज्ज्यो॑तिष॒मिति॑ बृ॒हत्-ज्यो॒ति॒ष॒म् । त्वा॒ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -223,9 +336,19 @@ I place thee that hast great light.
 I place thee that awakenest.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I put you as awaking one
+</details>
+
 <details><summary>मूलम्</summary>
 
 बो॒धय॑न्तीन्त्वा सादयामि  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बो॒धय॑न्तीम् । त्वा॒ । सा॒द॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -243,13 +366,24 @@ I place thee that awakenest.
 I place thee that art awake.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I put you as waking one.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जाग्र॑तीन्त्वा सादयामि ॥ [35]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जाग्र॑तीम् । त्वा॒ । सा॒द॒या॒मि॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 जाग्रती स्वयंप्रकाशात्मना ॥
 </details>
+
 </div>

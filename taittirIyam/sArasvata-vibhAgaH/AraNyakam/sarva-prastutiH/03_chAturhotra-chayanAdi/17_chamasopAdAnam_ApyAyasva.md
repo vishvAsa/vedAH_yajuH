@@ -1,19 +1,26 @@
 +++
 title = "१७ चमसोपादानम् आप्यायस्व"
 +++
+
 _______
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-चमसोपदंसने प्रायश्चित्तं - आप्यायस्वेति गायत्री ॥ 
+चमसोपदंसने प्रायश्चित्तं - आप्यायस्वेति गायत्री ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+Funeral Mantra to be uttered when sprinkling water on the excavation made for burning the dead one.
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 **आ᳓ प्यायस्व** मदिन्-तम  
 सो᳓म वि᳓श्वाभिर् ऊति᳓भिः ।  
-भ᳓वा नस् सप्र᳓थस्तमः ॥ 
+भ᳓वा नस् सप्र᳓थस्तमः ॥
 
 </details>
 
@@ -28,10 +35,20 @@ With all thy aids,
 Be fullest of help for us.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+O Soma, the exalted one, be satisfied by all protections; be increased for us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ प्या॑यस्व मदिन्तम॒ सोम॒ विश्वा॑भिरू॒तिभिः॑ ।  
-भवा॑ नस्स॒प्रथ॑स्तमः ॥ 
+भवा॑ नस्स॒प्रथ॑स्तमः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । प्या॒य॒स्व॒ । म॒दि॒न्त॒म॒ । सोम॑ । विश्वा॑भिः । ऊ॒तिभि॒रित्यू॒ति-भिः॒ ॥ भव॑ । नः॒ । स॒प्रथ॑स्तम॒ इति॑ स॒प्रथः॑-त॒मः॒ ॥
 </details>
 
 <details open><summary>भट्टभास्कर-टीका</summary>

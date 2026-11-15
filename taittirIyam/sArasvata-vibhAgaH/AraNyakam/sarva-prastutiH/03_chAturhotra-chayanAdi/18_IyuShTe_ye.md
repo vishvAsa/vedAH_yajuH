@@ -1,13 +1,20 @@
 +++
 title = "१८ ईयुष्टे ये"
 +++
+
 _______
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-1 सन्ति वृष्टयो नाम षोडशेष्टकाः 'इयमेव सा या' इत्याद्याः । तासामियं षोडशी ईयुष्ट इति त्रिष्टुप् ॥ 
+सन्ति वृष्टयो नाम षोडशेष्टकाः 'इयमेव सा या' इत्याद्याः । तासामियं षोडशी ईयुष्ट इति त्रिष्टुप् ॥
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+Mantra for bathing after funeral.
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -120,7 +127,6 @@ yanti ← √i- 1 (root)
 
 yé ← yá- (pronoun)  
 {}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -257,7 +263,6 @@ _________
     visit; understand.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -333,6 +338,11 @@ They come who shall behold her in days to come.
 <details><summary>Geldner</summary>
 
 Vergangen sind die Sterblichen, welche die früheren Usas´ aufgehen sahen, jetzt hat sie sich von uns beschauen lassen; es kommen die, welche sie in Zukunft sehen werden.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Those men went to the Death, who saw the rising dawns in the old age, we have also to go to (Death) who are seeing (the dawns), and they will also go, who will see the dawns in future.
 </details>
 
 <details><summary>Grassmann</summary>
