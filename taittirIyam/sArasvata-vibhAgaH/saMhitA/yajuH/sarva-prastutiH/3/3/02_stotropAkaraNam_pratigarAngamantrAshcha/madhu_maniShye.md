@@ -14,6 +14,11 @@ title = "मधु॑ मनिष्ये"
 Of honey shall I think, honey shall I produce, honey shall I proclaim, honey shall I speak,
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I will think the honey (Pravargya), I will produce the honey, I will speak the honey;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मधु॑ मनिष्ये ।  
@@ -43,6 +48,11 @@ Of honey shall I think, honey shall I produce, honey shall I proclaim, honey sha
 may I utter speech full of honey for the gods, and acceptable to men.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+may I speak the honeyful (sweet) speech for the gods, well-hearing for the men (fathers);
+</details>
+
 <details><summary>मूलम्</summary>
 
 मधु॑मतीन्दे॒वेभ्यो॒ वाच॑मुद्यासँ
@@ -70,6 +80,11 @@ may I utter speech full of honey for the gods, and acceptable to men.
 <details><summary>Keith</summary>
 
 May the gods aid me to radiance, may the Pitrs rejoice in me.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may the gods protect me as such, may the fathers also please me for the sake of beauty.
 </details>
 
 <details><summary>मूलम्</summary>

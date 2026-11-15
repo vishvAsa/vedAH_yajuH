@@ -7,6 +7,11 @@ title = "यो॑ऽपामा॒यत॑न॒व्ँ वेद॑"
 आय᳓तनवान् भवति ।
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+He, who knows the abode of the waters, becomes the possessor of an abode.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ।  

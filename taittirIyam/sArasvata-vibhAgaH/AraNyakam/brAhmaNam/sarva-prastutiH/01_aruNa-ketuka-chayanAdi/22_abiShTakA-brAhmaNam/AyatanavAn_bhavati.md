@@ -6,6 +6,11 @@ title = "आ॒यत॑नवान्भवति"
 आय᳓तनवान् भवति ।
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+(Yes,) becomes the possessor of an abode.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒यत॑नवान्भवति ।
