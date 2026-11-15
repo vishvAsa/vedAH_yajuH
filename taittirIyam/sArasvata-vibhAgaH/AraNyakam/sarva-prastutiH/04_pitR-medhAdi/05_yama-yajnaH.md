@@ -2,9 +2,16 @@
 title = "०५ यम-यज्ञः"
 +++
 
+<details><summary>त्रिभुवनः - Note</summary>
+
+Offerings to Yama.
+</details>
+
+## आवाहनम्
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-1अस्ति यमयज्ञो नाम बलिर् मासिमासि कर्तव्यः कार्तिक्यां विशेषेण ।  
+अस्ति यमयज्ञो नाम बलिर् मासिमासि कर्तव्यः कार्तिक्यां विशेषेण ।  
 तत्र प्रस्थपरिमितैस् तिलैः कल्पितं गुड-मिश्रं हविः कल्पयित्वा  
 तूष्णीम् अभिक्रम्य आदाय  
 'नमो ब्रह्मणे प्रजापतये देवेभ्य ऋषिभ्यः पितृभ्यो यमाय'  
@@ -20,7 +27,7 @@ title = "०५ यम-यज्ञः"
 दर्भैः प्रागग्रैर् अग्निं वेदिं च परिस्तीर्य  
 पञ्चसु उत्तरवेदिषु दर्भमयान् विष्टरान् विधाय  
 प्रस्तर-हस्तो यमम् आवाहयति -  
-आयातु देव इति द्वाभ्यां जगतीत्रिष्टुभ्याम् ॥ 
+आयातु देव इति द्वाभ्यां जगतीत्रिष्टुभ्याम् ॥
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -36,12 +43,15 @@ title = "०५ यम-यज्ञः"
 
 > "आयातु देवः सुमनाभिर् ऊतिभिर् यमो ह वेह प्रयताभिर् अक्तः। आसीदतां सुप्रयते ह बर्हिष्य् ऊर्जाय जात्यै मम शत्रुहत्योम् इति यमम् आवहयति"
 
-इति। 
+इति।
 </details>
 
-## आवाहनम्
+<details><summary>त्रिभुवनः - विनियोगः</summary>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/01_AyAtu_devas.md">
+Invitation of Yama and his wife.
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/01_AyAtu_devas.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -58,6 +68,11 @@ title = "०५ यम-यज्ञः"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/01_AyAtu_devas.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+May well-known Yama come by pleasant-minded protections, may Yami (wife of Yama) also come accompanied by settled (protection); may they sit on the well-settled Darbha-grass, verily, for vigour, good caste and destruction of the enemies.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आया॑तु दे॒वस्सु॒मना॑भिरू॒तिभि॑र्य॒मो ह॑वे॒ह प्रय॑ताभिर॒क्ता ।  
@@ -66,18 +81,13 @@ title = "०५ यम-यज्ञः"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-देवः दानादिगुणयुक्तो यम आयात्व् आगच्छतु सुमनाभिः शोभनं मनः यासु क्रियासु क्रियमाणासु ताभिर् ऊतिभिः पालनः प्रयताभिः परिशुद्धाभिर् अवद्यरहिताभिः सह अक्ता भक्तान् प्रतिगन्ता इह अत्र हवा हवे यज्ञे, सप्तम्येकवचनस्याकारः । इदानीं क्रियमाणे आगत्य च सुप्रयते बर्हिष्य् आसीदताम् आसीदतु । हशब्दः पादपूरणः । मम ऊर्जाय अन्नाय बलाय वा जात्यै जननाय प्रजात्यै शत्रुहत्यै शत्रुवधाय च ॥  
+देवः दानादिगुणयुक्तो यम आयात्व् आगच्छतु सुमनाभिः शोभनं मनः यासु क्रियासु क्रियमाणासु ताभिर् ऊतिभिः पालनः प्रयताभिः परिशुद्धाभिर् अवद्यरहिताभिः सह अक्ता भक्तान् प्रतिगन्ता इह अत्र हवा हवे यज्ञे, सप्तम्येकवचनस्याकारः । इदानीं क्रियमाणे आगत्य च सुप्रयते बर्हिष्य् आसीदताम् आसीदतु । हशब्दः पादपूरणः । मम ऊर्जाय अन्नाय बलाय वा जात्यै जननाय प्रजात्यै शत्रुहत्यै शत्रुवधाय च ॥
 </details>
 </details>
 
 </div>
 
-<details><summary>सायण-टीका</summary>
-
-तत्रावाहनार्थः प्रणवो ऽध्याहृतः। मन्त्रे ह-शब्दः प्रसिद्ध्य्-अर्थः, वा-शब्दः समुच्चये। प्रसिद्धो यमो देवः सुमनाभिः सौमनस्य-युक्ताभिर् ऊतिभिर् अस्मदीय-रक्षणैः सहित इह यम-यज्ञाख्ये कर्मण्य् आयातु। तथा प्रयताभिर् नियताभिर् ऊतिभिर् अक्तः संबद्धो यमी चायातु। मम यजमानस्योर्जाय अन्न-सिद्ध्यै जात्या उत्तम-जाति-सिद्ध्यै शत्रु-हत्यै शत्रु-वधाय च सुप्रयते सुष्ठु नियते बर्हिषि। ह प्रसिद्धौ। एतौ दम्पती आसीदताम् उपविशताम्।
-</details>
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/013/02_yame_iva.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/013/02_yame_iva.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -187,7 +197,6 @@ naḥ ← ahám (pronoun)
 
 svāsasthé ← svāsasthá- (nominal stem)  
 {case:NOM, gender:F, number:DU}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -324,7 +333,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -339,7 +347,7 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-2उत्तरे मन्त्रे यमस्य यम्याश्च सहवचनम् - यमे इव यमळोत्पन्ने इव दृश्यमाने यतमाने तत्रतत्र हविर्ग्रहणाय गन्तुं यत्नं कुर्वाणे यदा ऐतम् । लडर्थे लङ् । इतः गच्छथः । यदेति वचनात् तदेति गम्यते । तदा देवयन्तः देवान् यष्टुकामा मानुषा वां युवाभ्यां प्रभरन् । 'हृग्रहोर्भः' इति भः, लडर्थे लङ् । प्रहरन्ति हवींषि स्तुतिञ्चोपहरन्ति । तौ युवां स्वं लोकं स्वस्थानं विदाने जानन्तौ आसीदतम् । आसाद्य च स्वासस्थे शोभनासनस्थे भवतं नो ऽस्माकम् इन्दवे ऐश्वर्याय । एवं विनियुक्तार्थगोचरतालोभेन क्लेशेन व्याख्यातम् । बह्वृचास्तु - हविर्धानशकटयोरभिधानं मन्यन्ते ॥  
+उत्तरे मन्त्रे यमस्य यम्याश्च सहवचनम् - यमे इव यमळोत्पन्ने इव दृश्यमाने यतमाने तत्रतत्र हविर्ग्रहणाय गन्तुं यत्नं कुर्वाणे यदा ऐतम् । लडर्थे लङ् । इतः गच्छथः । यदेति वचनात् तदेति गम्यते । तदा देवयन्तः देवान् यष्टुकामा मानुषा वां युवाभ्यां प्रभरन् । 'हृग्रहोर्भः' इति भः, लडर्थे लङ् । प्रहरन्ति हवींषि स्तुतिञ्चोपहरन्ति । तौ युवां स्वं लोकं स्वस्थानं विदाने जानन्तौ आसीदतम् । आसाद्य च स्वासस्थे शोभनासनस्थे भवतं नो ऽस्माकम् इन्दवे ऐश्वर्याय । एवं विनियुक्तार्थगोचरतालोभेन क्लेशेन व्याख्यातम् । बह्वृचास्तु - हविर्धानशकटयोरभिधानं मन्यन्ते ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -370,6 +378,11 @@ When speeding ye came nigh us like twin sisters, religious-hearted votaries brou
 <details><summary>Geldner</summary>
 
 Als ihr kamet, wie zwei Zwillingsschwestern gleichen Rang einnehmend, da führten euch die gottverlangenden Menschen vor. Setzet euch in eure Welt als Bekannte, dienet unserem Soma als guter Sitzplatz!
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+When you come acting as Yemes (Yama and Yami); may then the men, desirous of divine ones, nourish you well; may you sit knowing your places and on that comfortable seat be for our happiness.
 </details>
 
 <details><summary>Grassmann</summary>
@@ -410,9 +423,11 @@ Als ihr herbeikamt wie zwei zusammengehende Schwestern, brachten euch die fromme
 
 </div>
 
+## हविर्-निवेदनम्
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-3अथ प्रस्तरं मध्यमवेद्यां विष्टरे निधाय अभिमन्त्रयते -  
+अथ प्रस्तरं मध्यमवेद्यां विष्टरे निधाय अभिमन्त्रयते -  
 'इमं यम प्रस्तरम्' इति तिसृभिः पवित्रपाणिर् अर्घ्य-पाद्य-स्नानाचमनीय-गन्ध-पुष्प-धूप-दीप-माल्यैर् इत्य् एतैर् अभ्यर्च्य  
 मध्यमेन अन्तिमेन वा पलाशपर्णेन जुहोति -  
 यमाय अन्तकाय   
@@ -424,7 +439,7 @@ Als ihr herbeikamt wie zwei zusammengehende Schwestern, brachten euch die fromme
 व्याहृतिभिर् व्यस्ताभिः समस्ताभिश्च हुत्वा  
 अर्कपर्णान्य् औदुम्बरपर्णानि वा निधाय  
 मध्यमस्यामुत्तरवेद्यां यमाय हविर् निवेदयन्ते - यमायेति ॥  
-इतःपरे अनुष्टुभः । 
+इतःपरे अनुष्टुभः ।
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -439,9 +454,12 @@ Als ihr herbeikamt wie zwei zusammengehende Schwestern, brachten euch die fromme
 इति।
 </details>
 
-## हविर्-निवेदनम्
+<details><summary>त्रिभुवनः - विनियोगः</summary>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/13_yamAya_somaM.md">
+Offering of soma.
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/13_yamAya_somaM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -530,7 +548,6 @@ agnídūtaḥ ← agnídūta- (nominal stem)
 
 áraṁkr̥taḥ ← √kr̥- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -623,7 +640,6 @@ _________
 - “decorate; prepare.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -638,7 +654,7 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-सोमं सोमवन्मधुरं तिललक्षणं हविर् यमाय सुनुत अभिषवसदृशेन हस्तव्यापारेण आक्षिपत हे परिचारकाः! । यमायैव हविर् जुहुत निवेदयत जुह्वतो मे प्रयोजका भवत । यमं ह यममेव अयं यज्ञो गच्छति तिललक्षणो गच्छत्व् अग्निदूतो ऽग्निवोढृकस् तत्र पूर्वं कृतत्वाद् अरङ्कृतः पर्याप्तं शीघ्रं वा कृतः ॥  
+सोमं सोमवन्मधुरं तिललक्षणं हविर् यमाय सुनुत अभिषवसदृशेन हस्तव्यापारेण आक्षिपत हे परिचारकाः! । यमायैव हविर् जुहुत निवेदयत जुह्वतो मे प्रयोजका भवत । यमं ह यममेव अयं यज्ञो गच्छति तिललक्षणो गच्छत्व् अग्निदूतो ऽग्निवोढृकस् तत्र पूर्वं कृतत्वाद् अरङ्कृतः पर्याप्तं शीघ्रं वा कृतः ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -669,6 +685,11 @@ For Yama press the Soma juice, To Yama offering present. To Yama goes the sacrif
 <details><summary>Geldner</summary>
 
 Dem Yama presset Soma, dem Yama opfert die Spende! Zu Yama geht das zubereitete Opfer, dessen Bote Agni ist.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Press soma for Yama; sacrifice oblation for Yama; the sacrifice, having fire as envoy, full of ornament, goes to Yama.
 </details>
 
 <details><summary>Grassmann</summary>
@@ -711,7 +732,7 @@ Dem Jama keltert Somasaft, ergiesst dem Jama Opfertrank; Zu Jama geht das Opfer 
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-4प्रतीच्याम् उत्तरवेद्यां हविर्निवेदनम् - यमाय घृतवदिति ॥ 
+प्रतीच्याम् उत्तरवेद्यां हविर्निवेदनम् - यमाय घृतवदिति ॥
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -725,7 +746,12 @@ Dem Jama keltert Somasaft, ergiesst dem Jama Opfertrank; Zu Jama geht das Opfer 
 इति।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/14_yamAya_ghRtavaddhavirjuhota.md">
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+Offering of ghee.
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/14_yamAya_ghRtavaddhavirjuhota.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -826,7 +852,6 @@ jīváse ← √jīv- (root)
 
 prá ← prá (invariable)  
 {}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -937,7 +962,6 @@ _________
 - “survive; be; exist; live on; dwell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -952,7 +976,7 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अभिघारेण घृतेन घृतवत् हविर्जुहोत जुहुत प्रचतिष्ठत प्रतिष्ठितं च उद्युक्ता भवत । सः यमः नो ऽस्मभ्यं देवेषु मध्ये प्रायमत् प्रकर्षेण आभिमुख्येन च ददातु दीर्घमायुर् जीवसे जीवनाय ।।  
+अभिघारेण घृतेन घृतवत् हविर्जुहोत जुहुत प्रचतिष्ठत प्रतिष्ठितं च उद्युक्ता भवत । सः यमः नो ऽस्मभ्यं देवेषु मध्ये प्रायमत् प्रकर्षेण आभिमुख्येन च ददातु दीर्घमायुर् जीवसे जीवनाय ।।
 </details>
 
 <details><summary>Wilson</summary>
@@ -983,6 +1007,11 @@ To Yama offering rich in ghee Present forthwith, and forward step. Let him direc
 <details><summary>Geldner</summary>
 
 Dem Yama opfert das schmalzige Opfer und tretet vor! Er soll sich für uns bei den Göttern verwenden, auf daß wir noch lange Zeit weiterleben.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Sacrifice the oblation, full of ghee for Yama and stand firm; may he, one among the gods, grant us long age for living well.
 </details>
 
 <details><summary>Grassmann</summary>
@@ -1025,7 +1054,7 @@ Den fettversehnen Opfertrank ergiesst dem Jama, tretet vor; Er lenk uns zu den G
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-5प्राच्यां - 
+प्राच्यां -
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1037,10 +1066,14 @@ Den fettversehnen Opfertrank ergiesst dem Jama, tretet vor; Er lenk uns zu den G
 > इदं नम ऋषिभ्यः पूर्वजेभ्यः पूर्वेभ्यः पथि-कृद्भ्यः।" 
 
 इति।
-
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/15_yamAya_madhumattamaM.md">
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+Offering of honey.
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/15_yamAya_madhumattamaM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1126,7 +1159,6 @@ pathikŕ̥dbhyaḥ ← pathikŕ̥t- (nominal stem)
 
 pū́rvebhyaḥ ← pū́rva- (nominal stem)  
 {case:DAT, gender:M, number:PL}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1203,7 +1235,6 @@ _________
 - \[noun\], dative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1218,7 +1249,7 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-यमाय मधुमत्तमम् अतिशयेन मधु स्वादुयुक्तं हव्यं यमाय राज्ञे जुहोतन जुहुत । इदं नमो ऽयं नमस्कार इदं हविर्वा । पूर्वजेभ्यः पूर्वेभ्यश्च चिरन्तनेभ्यः पथिकृद्भ्यः मार्गकृद्भ्य ऋषिभ्यो ऽस्त्वित्यध्याहार्यम् ॥ दक्षिणस्यां - 'यौ ते श्वानौ' इति गतम् । उत्तरस्यां - यमदूताभ्यां 'उरुणसौ'10 इति गतम् ॥  
+यमाय मधुमत्तमम् अतिशयेन मधु स्वादुयुक्तं हव्यं यमाय राज्ञे जुहोतन जुहुत । इदं नमो ऽयं नमस्कार इदं हविर्वा । पूर्वजेभ्यः पूर्वेभ्यश्च चिरन्तनेभ्यः पथिकृद्भ्यः मार्गकृद्भ्य ऋषिभ्यो ऽस्त्वित्यध्याहार्यम् ॥ दक्षिणस्यां - 'यौ ते श्वानौ' इति गतम् । उत्तरस्यां - यमदूताभ्यां 'उरुणसौ'10 इति गतम् ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -1249,6 +1280,11 @@ To Yama as a King present Oblation very honey-sweet. This homage is for seers of
 <details><summary>Geldner</summary>
 
 Dem König Yama opfert die süßeste Spende! Diese Verbeugung gilt den erstgeborenen Rishi´s, den früheren Wegbereitern.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Sacrifice the oblation, full of most (sweet) honey for Yama, the king. This is salutation for the seers, ancestors, born before and maker of the paths (1).
 </details>
 
 <details><summary>Grassmann</summary>
@@ -1293,7 +1329,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-6योऽस्य कौष्ठ्येति तिसृभिर् यमगाथाभिस् त्रिः-प्रसव्यम् अप्रदक्षिणं परिगायन्ति - 
+योऽस्य कौष्ठ्येति तिसृभिर् यमगाथाभिस् त्रिः-प्रसव्यम् अप्रदक्षिणं परिगायन्ति -
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1305,7 +1341,12 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 इति। तत्र प्रथमाम् आह -
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+Praises of Yama.
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1321,6 +1362,11 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+Who is wealth-wishing one in this earthly region, he is the one lord of this; for that Yama sing the pleasant-hearing modes, who is a king not to be checked.
+</details>
+
 <details><summary>मूलम्</summary>
 
 योऽस्य॒ कौष्ठ्य॒ जग॑तः॒ पार्थि॑व॒स्यैक॑ इद्व॒शी ।  
@@ -1329,13 +1375,13 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-श्रवो ऽन्तर्धनं कीर्तिर्वा भङ्ग्यं भजनीयम् अतिप्रभूतत्वात् । यमस्य भङ्ग्यश्रवनामा कश्चित्, तस्यैव गोत्रनाम कौष्ठ्य इति । स यमं गायंश्चरति । तं प्रति इदमुच्यते - हे कौष्ठ्य! भङ्ग्यश्रवः! यो यमो ऽस्य पार्थिवस्य पृथिव्यां भवस्य जगतः जङ्गमस्य प्राणिजातस्य एक इद् एक एव वशी स्वामी यश्च यमः राजा सन् अनपरोध्यो ऽपरोधोऽतिक्रमो ऽनतिक्रमणीयस् तं यमं गाय ॥  
+श्रवो ऽन्तर्धनं कीर्तिर्वा भङ्ग्यं भजनीयम् अतिप्रभूतत्वात् । यमस्य भङ्ग्यश्रवनामा कश्चित्, तस्यैव गोत्रनाम कौष्ठ्य इति । स यमं गायंश्चरति । तं प्रति इदमुच्यते - हे कौष्ठ्य! भङ्ग्यश्रवः! यो यमो ऽस्य पार्थिवस्य पृथिव्यां भवस्य जगतः जङ्गमस्य प्राणिजातस्य एक इद् एक एव वशी स्वामी यश्च यमः राजा सन् अनपरोध्यो ऽपरोधोऽतिक्रमो ऽनतिक्रमणीयस् तं यमं गाय ॥
 </details>
 </details>
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1351,6 +1397,11 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+Sing the pleasant-hearing modes for Yama, who is a king not to be checked, who has made fire, the waters, the rivers, the lands, the heaven and the earth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒मङ्गाय॑ भङ्ग्य॒श्रवो॒ यो राजा॑नप॒रोद्ध्यः॑ ।  
@@ -1359,13 +1410,13 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-7यममिति पूर्वार्धं गतम् । येन यमेन आपः समुद्रादिषु स्थिता नद्यः गङ्गाद्या धन्वानि मरुभूमयो ऽधिष्ठीयन्त इति शेषः । येन च द्यौः पृथिवी च दृढा भवति ॥  
+यममिति पूर्वार्धं गतम् । येन यमेन आपः समुद्रादिषु स्थिता नद्यः गङ्गाद्या धन्वानि मरुभूमयो ऽधिष्ठीयन्त इति शेषः । येन च द्यौः पृथिवी च दृढा भवति ॥
 </details>
 </details>
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/04_hiraNyakaxyAn_sudhurAn.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/04_hiraNyakaxyAn_sudhurAn.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1390,13 +1441,13 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-8हिरण्यकक्ष्यान् हिरण्योदरपार्श्वान् सुधुरान् शोभनयुगान् हिरण्याक्षान् हिरण्यवर्णाक्षान् अयश्शफान् अयोवद् दृढखुरान् एवम्भूतान् अश्वान् अनश्यतो ऽविनाशितान् दीयत इति दानं बहवोऽश्वा एकं दानम् एवम्भूतान् अश्वान् दानं यमो राजा अभितिष्ठति । यमस्य एकमेव दानम् एवं विधमिति स्तुतिः ॥  
+हिरण्यकक्ष्यान् हिरण्योदरपार्श्वान् सुधुरान् शोभनयुगान् हिरण्याक्षान् हिरण्यवर्णाक्षान् अयश्शफान् अयोवद् दृढखुरान् एवम्भूतान् अश्वान् अनश्यतो ऽविनाशितान् दीयत इति दानं बहवोऽश्वा एकं दानम् एवम्भूतान् अश्वान् दानं यमो राजा अभितिष्ठति । यमस्य एकमेव दानम् एवं विधमिति स्तुतिः ॥
 </details>
 </details>
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/05_yamo_dAdhAra.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/05_yamo_dAdhAra.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1412,6 +1463,11 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/05_yamo_dAdhAra.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+Yama has held the earth; Yama has held all this world; all this exists for Yama whatever breathes being protected by the mind.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒मो दा॑धार पृथि॒वीय्ँय॒मो विश्व॑मि॒दञ्जग॑त् ।  
@@ -1420,7 +1476,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-9यमो दाधारेत्यनुवाकशेषेण यममभिवादयन्ते । यमो दाधार धारयति पृथिवीम् । यम एव च विश्वमिदं जगत् तद्वशवर्तित्वात् सर्वमित् सर्वमेव यमाय त्रस्थे तस्थे । रेफोपजनश्छान्दसः । तच्छेषत्वेन आत्मानं प्रकाश्य तिष्ठति यत्प्राणत् । अनितेश्शत्रन्तस्य रूपम् । चेष्टावद् वायुरक्षितं वायुभिः पञ्चभिः पालितं तैर्वा रक्षितम् ॥  
+यमो दाधारेत्यनुवाकशेषेण यममभिवादयन्ते । यमो दाधार धारयति पृथिवीम् । यम एव च विश्वमिदं जगत् तद्वशवर्तित्वात् सर्वमित् सर्वमेव यमाय त्रस्थे तस्थे । रेफोपजनश्छान्दसः । तच्छेषत्वेन आत्मानं प्रकाश्य तिष्ठति यत्प्राणत् । अनितेश्शत्रन्तस्य रूपम् । चेष्टावद् वायुरक्षितं वायुभिः पञ्चभिः पालितं तैर्वा रक्षितम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1431,13 +1487,18 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 इति। तत्र प्रथमाम् आह -
 
-पृथिवीं सर्वां यमो दधार धृतवान्। तथा विश्वं सर्वम् इदं जगद् यमो धृतवान्। यत् प्राणद् अस्मिन् जगति श्वास-युक्तं यद् अस्ति यद् अप्य् अन्यद् वायुना रक्षितं वस्त्व् अस्ति सर्वम् इत् सर्वम् एव यमाय यमार्थं तस्थे तस्थौ अवस्थितवान्। 
+पृथिवीं सर्वां यमो दधार धृतवान्। तथा विश्वं सर्वम् इदं जगद् यमो धृतवान्। यत् प्राणद् अस्मिन् जगति श्वास-युक्तं यद् अस्ति यद् अप्य् अन्यद् वायुना रक्षितं वस्त्व् अस्ति सर्वम् इत् सर्वम् एव यमाय यमार्थं तस्थे तस्थौ अवस्थितवान्।
 </details>
 </details>
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/06_yathA_pancha.md">
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+Mantras for taking up the ghee.
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/06_yathA_pancha.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1446,6 +1507,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 यमय्ँ᳓ यो᳓ **विद्या᳓त्**+++(~~द्यात्~~)+++ स᳓ **ब्रूयाद्**  
 य᳓थै᳓क+++(~~क᳓~~)+++ ऋ᳓षिर् **विजा᳓नते**+++(~~ते~~)+++ ।  
 +++(आरण्यकः स्वरव्यत्ययः।)+++
+
 </details>
 
 </div>
@@ -1453,6 +1515,11 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/06_yathA_pancha.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+He, who knows Yama, becomes able to speak like that one Seer (God) who knows all, how (run) the five castes, six seasons, fifteen dates (of a half-month) and the seers (2).
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा॒ पञ्च॒ यथा॒ षड्य॒था पञ्च॑ द॒शर्ष॑यः ।  
@@ -1461,13 +1528,13 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-10यथा पञ्च ऋषयः सनकादयः यमं विजानते विजानन्ति । यथा षडृषयः काण्डर्षयः विजानते । यथा पञ्चदशऋषयः कर्मकृतो ऽध्वर्य्वादयः । अवयुत्य वादोऽयम् । यथा वा एकर्षिर् ब्रह्मा जगत्कर्ता विजानाति यथैते यमं विजानते एवम्भूतोऽयमिति । यथेति वचनात् तथेति गम्यते । तथा यमं यो विद्याज् जानीयात् स एव तं ब्रूयात् स एव तं वक्तुं प्रभवति के वयं तस्य वचन इति स्तुतिः ॥  
+यथा पञ्च ऋषयः सनकादयः यमं विजानते विजानन्ति । यथा षडृषयः काण्डर्षयः विजानते । यथा पञ्चदशऋषयः कर्मकृतो ऽध्वर्य्वादयः । अवयुत्य वादोऽयम् । यथा वा एकर्षिर् ब्रह्मा जगत्कर्ता विजानाति यथैते यमं विजानते एवम्भूतोऽयमिति । यथेति वचनात् तथेति गम्यते । तथा यमं यो विद्याज् जानीयात् स एव तं ब्रूयात् स एव तं वक्तुं प्रभवति के वयं तस्य वचन इति स्तुतिः ॥
 </details>
 </details>
 
 </div>
 
-(12)  
+(12)
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -1475,6 +1542,11 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 ष᳓ड् उर्वी᳓र् ए᳓कम् इ᳓द् बृह᳓त् ।  
 गायत्री᳓ त्रिष्टु᳓प् छ᳓न्दाँसि  
 स᳓र्वा ता᳓ यम᳓ आ᳓हिता ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+By Trikedrukasa (three sacrifices named Jyotis, Gaurus, Ayu) whatever falls on the six earths (the heaven, the earth, the waters, the plants, the food and the gladness) and the Great one, and what are the verses, Gayatri, Tristup (etc.); all these are kept in Yama.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1485,7 +1557,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-11त्रिकद्रुकेभिर् अभिप्लव-षड्-अहस्यादितस् त्रीण्य् अहानि ज्योतिर् गौर् आयुर् इति सञ्ज्ञकानि त्रिकद्रुकाः । यथोक्तं सूत्रकारेण - 'ज्योतिर्गौरायुरिति त्रिकद्रुकाः' इति । 'अभिप्लवत्र्यहं पूर्वं त्रिकद्रुकाः' इत्याश्वलायनः । द्वितीयार्थे तृतीया । त्रिकद्रुकान् पतति प्राप्नोति देवतात्वेन । षडुर्वीर् महतीः पतत्य् अधिष्ठातृत्वेन प्राप्नोति । 'द्यौश्च पृथिवी च अहश्च रात्रिश्च आपश्चौपधयश्च इत्येताष्षडुर्वीः' इत्यारभ्य होतृजपे कथिताः । यदि वा - प्राच्याद्याः प्रधानदिशश्चतस्त्र ऊर्ध्वा अधरा चेति षट् , 'देवीष्षडुर्वीः' इति समावर्तने दिशामुपस्थाने दर्शनात् । एकमिद् इच् चार्थे । एकं च बृहद् ब्रह्म जगदाख्यं पतति तत इतो गच्छति प्राणिनां शुभाशुभकर्मनिरीक्षणार्थम् । गायत्री त्रिष्टुप् इत्युपलक्षणं गायत्र्यादीनि छन्दांसि सर्वा सर्वाणि ता तानि प्रसिद्धानि यमे राजन्य् आहिता आहितानि स्थापितानि स्तुतित्वेन स्तोतृभिः ।।  
+त्रिकद्रुकेभिर् अभिप्लव-षड्-अहस्यादितस् त्रीण्य् अहानि ज्योतिर् गौर् आयुर् इति सञ्ज्ञकानि त्रिकद्रुकाः । यथोक्तं सूत्रकारेण - 'ज्योतिर्गौरायुरिति त्रिकद्रुकाः' इति । 'अभिप्लवत्र्यहं पूर्वं त्रिकद्रुकाः' इत्याश्वलायनः । द्वितीयार्थे तृतीया । त्रिकद्रुकान् पतति प्राप्नोति देवतात्वेन । षडुर्वीर् महतीः पतत्य् अधिष्ठातृत्वेन प्राप्नोति । 'द्यौश्च पृथिवी च अहश्च रात्रिश्च आपश्चौपधयश्च इत्येताष्षडुर्वीः' इत्यारभ्य होतृजपे कथिताः । यदि वा - प्राच्याद्याः प्रधानदिशश्चतस्त्र ऊर्ध्वा अधरा चेति षट् , 'देवीष्षडुर्वीः' इति समावर्तने दिशामुपस्थाने दर्शनात् । एकमिद् इच् चार्थे । एकं च बृहद् ब्रह्म जगदाख्यं पतति तत इतो गच्छति प्राणिनां शुभाशुभकर्मनिरीक्षणार्थम् । गायत्री त्रिष्टुप् इत्युपलक्षणं गायत्र्यादीनि छन्दांसि सर्वा सर्वाणि ता तानि प्रसिद्धानि यमे राजन्य् आहिता आहितानि स्थापितानि स्तुतित्वेन स्तोतृभिः ।।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1496,7 +1568,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 > "षण् मोर्वीर् अंहसस् पान्तु द्यौश् च पृथिवी चाऽऽपश् चौषधयश् चोर्क् च सूनृता च" 
 
-इति। बृहत् परं ब्रह्मैकम् इद् एकम् एव। गायत्र्यादीनि तु च्छन्दांसि छन्दो-रूपेण व्यवस्थितानि। एवं नाना-विधं यज् जगद् अस्ति सर्वा ता तत् सर्वं जगद् यम आहिता यमे प्रतिष्ठितम्। नियामकत्वाद् एव जगद्-व्यवस्था-हेतुत्वं यमस्य युक्तम् इत्य् अर्थः। 
+इति। बृहत् परं ब्रह्मैकम् इद् एकम् एव। गायत्र्यादीनि तु च्छन्दांसि छन्दो-रूपेण व्यवस्थितानि। एवं नाना-विधं यज् जगद् अस्ति सर्वा ता तत् सर्वं जगद् यम आहिता यमे प्रतिष्ठितम्। नियामकत्वाद् एव जगद्-व्यवस्था-हेतुत्वं यमस्य युक्तम् इत्य् अर्थः।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1507,6 +1579,11 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 प᳓ञ्चभिर् मा᳓नवैर् यमः᳓ ।
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Yama, the son of the sun, does not satisfy taking away day-by-day the cow, the horse, the man, the moving one and the five castes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अह॑रह॒र्नय॑मानो॒ गामश्वं॒ पुरु॑ष॒ञ्जग॑त् ।  
@@ -1515,14 +1592,14 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-12अहरहः वैवस्वतः विवस्वतः पुत्रः यमः गामश्वं पुरुषं जगद् यच्चान्यज् जङ्गमं सर्वम् अहरहर्नयमानोऽपि न तृप्यति तृप्तिं न गच्छति । निषादपञ्चमाश्चत्वारो वर्णाः पञ्चमानवास् तानप्यहरहर्नयते तैरपि नीयमानैर्नैव तृप्तिं गच्छत्य् अनुपरमन् नयत इति ॥  
+अहरहः वैवस्वतः विवस्वतः पुत्रः यमः गामश्वं पुरुषं जगद् यच्चान्यज् जङ्गमं सर्वम् अहरहर्नयमानोऽपि न तृप्यति तृप्तिं न गच्छति । निषादपञ्चमाश्चत्वारो वर्णाः पञ्चमानवास् तानप्यहरहर्नयते तैरपि नीयमानैर्नैव तृप्तिं गच्छत्य् अनुपरमन् नयत इति ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
 
 अथ चतुर्थीम् आह -
 
-अयं वैवस्वतः सूर्यस्य पुत्रो यमः पञ्चभिर् मानवैः पञ्च-संख्याकैर् मुख्यैर् दूत-विशेषैः सहितः सन्न् अहर्-अहः प्रतिदिनं गवादि-प्राणिनो नीयमानो यम-लोके प्रापयन् न तृप्यति। अलम् एतावतेत्य् एवं तृप्तिं न प्राप्नोति। प्राणिनो नेतुम् आलस्य-रहित इत्य् अर्थः। 
+अयं वैवस्वतः सूर्यस्य पुत्रो यमः पञ्चभिर् मानवैः पञ्च-संख्याकैर् मुख्यैर् दूत-विशेषैः सहितः सन्न् अहर्-अहः प्रतिदिनं गवादि-प्राणिनो नीयमानो यम-लोके प्रापयन् न तृप्यति। अलम् एतावतेत्य् एवं तृप्तिं न प्राप्नोति। प्राणिनो नेतुम् आलस्य-रहित इत्य् अर्थः।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1534,6 +1611,11 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 +++(आरण्यकः स्वरव्यत्ययः।)+++
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Those men are described before Yama, the king, the son of the sun, whoever desire the truth and whoever are false-speakers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वैव॑स्वते॒ विवि॑च्यन्ते॒ यमे॒ राज॑नि ते ज॒नाः ।  
@@ -1542,14 +1624,14 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-13वैवस्वते यमे राजनि ते जना विविच्यन्ते पृथक्क्रियन्ते यथा शूर्पे धान्यादीनि । इह च लोके ये च स्वार्थान् सत्येन इच्छन्ते इच्छन्ति । ये च । उकारः पादपूरणः । अनृतवादिनो भूत्वा स्वार्थान् इच्छन्ते । उभयेऽपि विविच्यन्ते ॥  
+वैवस्वते यमे राजनि ते जना विविच्यन्ते पृथक्क्रियन्ते यथा शूर्पे धान्यादीनि । इह च लोके ये च स्वार्थान् सत्येन इच्छन्ते इच्छन्ति । ये च । उकारः पादपूरणः । अनृतवादिनो भूत्वा स्वार्थान् इच्छन्ते । उभयेऽपि विविच्यन्ते ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
 
 अथ पञ्चमीम् आह -
 
-इह लोके ये च पुरुषाः सत्येन वर्तितुम् इच्छन्ति ये ऽपि चान्ये पुरुषा अनृत-वादिनस् ते द्वि-विधा अपि जना वैवस्वते सूर्यस्य पुत्रे यमे राजनि स्थिते सति तद्-भृत्यैर् विविच्यन्ते। तत्र सत्य-वादिनः स्वर्गं नयन्ति, अनृत-वादिनो नरकं नयन्तीत्य् एवं तद्-विवेकः। 
+इह लोके ये च पुरुषाः सत्येन वर्तितुम् इच्छन्ति ये ऽपि चान्ये पुरुषा अनृत-वादिनस् ते द्वि-विधा अपि जना वैवस्वते सूर्यस्य पुत्रे यमे राजनि स्थिते सति तद्-भृत्यैर् विविच्यन्ते। तत्र सत्य-वादिनः स्वर्गं नयन्ति, अनृत-वादिनो नरकं नयन्तीत्य् एवं तद्-विवेकः।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1561,6 +1643,11 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 +++(आरण्यकः स्वरव्यत्ययः।)+++
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Those men are described before, and go to you, O king, here (in your place) who salute the gods and who worship the Brahmanas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते रा॑जन्नि॒ह विवि॑च्यन्ते॒ऽथा य॑न्ति त्वा॒मुप॑ ।  
@@ -1569,14 +1656,14 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-14ते इति ॥ हे राजन् ! यम ! इह जगति ते विविच्यन्ते विविक्ताश्च अथ अनन्तरं त्वामुपायन्त्य् उपागच्छन्ति त्वत्सालोक्यं प्राप्नुवन्ति । के ते? ये च देवान् नमस्यन्ति ये च ब्राह्मणान् अपचित्यति परिचरन्ति पूजयन्ति । चायतेश्छान्दसः श्यन्भावः शपश्श्लुः ॥  
+ते इति ॥ हे राजन् ! यम ! इह जगति ते विविच्यन्ते विविक्ताश्च अथ अनन्तरं त्वामुपायन्त्य् उपागच्छन्ति त्वत्सालोक्यं प्राप्नुवन्ति । के ते? ये च देवान् नमस्यन्ति ये च ब्राह्मणान् अपचित्यति परिचरन्ति पूजयन्ति । चायतेश्छान्दसः श्यन्भावः शपश्श्लुः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
 
 अथ षष्ठीम् आह -
 
-ये च पुरुषा इह लोके देवान् नमस्यन्त्य् उपासते ये ऽपि चान्ये ब्राह्मणान् अपचित्यति सुवर्ण-दानान्न-दानादिना पूजयन्ति ते द्वि-विधा अपि हे राजन्न् इह त्वदीये लोके विविच्यन्ते। तत्रोपासका ब्रह्म-लोके नीयन्ते दानादि-कर्म-निष्ठास् तु स्वर्ग-लोके नीयन्त इति तद्-विवेकः। अथ यस्माद् एवं तस्मात् सर्वे ऽपि हे यम, त्वाम् उपयन्ति। 
+ये च पुरुषा इह लोके देवान् नमस्यन्त्य् उपासते ये ऽपि चान्ये ब्राह्मणान् अपचित्यति सुवर्ण-दानान्न-दानादिना पूजयन्ति ते द्वि-विधा अपि हे राजन्न् इह त्वदीये लोके विविच्यन्ते। तत्रोपासका ब्रह्म-लोके नीयन्ते दानादि-कर्म-निष्ठास् तु स्वर्ग-लोके नीयन्त इति तद्-विवेकः। अथ यस्माद् एवं तस्मात् सर्वे ऽपि हे यम, त्वाम् उपयन्ति।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1584,19 +1671,23 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 य᳓स्मिन् वृक्षे᳓ सुपलाशे᳓  
 देवै᳓स् संपि᳓बते यमः᳓ ।  
 अ᳓त्रा नो विश्-प᳓तिः  
-पिता᳓ पुराणा᳓ अ᳓नुवेनति ॥ (13)  
+पिता᳓ पुराणा᳓ अ᳓नुवेनति ॥ (13)
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+In which tree of good leaves Yama drinks (soma) with the gods, there follows our ancient father, the lord of the subjects.
 </details>
 
 <details><summary>मूलम्</summary>
 
 यस्मि॑न्वृ॒क्षे सु॑पला॒शे दे॒वैस्सं॒पिब॑ते य॒मः ।  
-अत्रा॑ नो वि॒श्पतिः॑ पि॒ता पु॑रा॒णा अनु॑वेनति ॥ (13)  
+अत्रा॑ नो वि॒श्पतिः॑ पि॒ता पु॑रा॒णा अनु॑वेनति ॥ (13)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-15यस्मिन्निति ॥ कर्यारूपेण परिणतं जगत्कारणं वृक्षः 'ब्रह्म वनं ब्रह्म स वृक्ष आसीत्' 'उर्ध्वमूलमवाक्शाखम् । वृक्षं यो वेद सम्प्रति' 'समानं वृक्षं परिषस्वजाते' इत्यादौ दर्शनात् । यस्मिन् वृक्षे सुपलाशे पृथिव्यादिकार्यरूपे शोभनैस् तद्वति यमो देवैः सम्पिबते सह भोगान् भुङ्क्ते अत्र वृक्षे नो ऽस्मान् विश्पतिर् विशां मनुष्यादीनां स्वामी सः पिता सर्वस्य पितृस्थानीयः पुराणाः पुरातनाश्च पुरुषाः । यद्वा - 'सुपां सुलुक्' इत्यादिना शस आकारः । पुराणान् तथैव बह्वृचाः पठन्ति । चिरन्तनान् अनादिप्रवृत्तान् अस्मान् अनुवेनति वेनतिः कान्तिकर्मा अन्यत्र, इह त्व् अनुज्ञाने द्रष्टव्यः । पञ्चमलकारः । भोगाय अनुजानीयात् । हविरुद्धरति - 'नाके सुपर्णम्' इति । प्रवाहयति 'उरुं हि राजा' इति ॥  
-इत्यारण्यके चतुर्थे पञ्चमोऽनुवाकः ॥
+यस्मिन्निति ॥ कर्यारूपेण परिणतं जगत्कारणं वृक्षः 'ब्रह्म वनं ब्रह्म स वृक्ष आसीत्' 'उर्ध्वमूलमवाक्शाखम् । वृक्षं यो वेद सम्प्रति' 'समानं वृक्षं परिषस्वजाते' इत्यादौ दर्शनात् । यस्मिन् वृक्षे सुपलाशे पृथिव्यादिकार्यरूपे शोभनैस् तद्वति यमो देवैः सम्पिबते सह भोगान् भुङ्क्ते अत्र वृक्षे नो ऽस्मान् विश्पतिर् विशां मनुष्यादीनां स्वामी सः पिता सर्वस्य पितृस्थानीयः पुराणाः पुरातनाश्च पुरुषाः । यद्वा - 'सुपां सुलुक्' इत्यादिना शस आकारः । पुराणान् तथैव बह्वृचाः पठन्ति । चिरन्तनान् अनादिप्रवृत्तान् अस्मान् अनुवेनति वेनतिः कान्तिकर्मा अन्यत्र, इह त्व् अनुज्ञाने द्रष्टव्यः । पञ्चमलकारः । भोगाय अनुजानीयात् । हविरुद्धरति - 'नाके सुपर्णम्' इति । प्रवाहयति 'उरुं हि राजा' इति ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

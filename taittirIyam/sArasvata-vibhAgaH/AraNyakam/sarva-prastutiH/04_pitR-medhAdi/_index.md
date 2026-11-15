@@ -2,9 +2,15 @@
 title = "+०४ पितृ-मेधादि"
 unicode_script = "devanagari"
 +++
+
 Source: [भास्करः](https://archive.org/details/taittiriya/taittiriya_aranyaka_bhaskara_01/page/n329/mode/1up?view=theater)
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+Mantra for offering Homa to the household fire after the death of someone.
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -27,6 +33,11 @@ Offspring, life, and wealth.
 Instigated by Brhaspati may the sacrificer here come to no harm.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I sprinkle well offspring, life and wealth for you by the Yajus-Mantra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्त्वा॑ सिञ्चामि॒ यजु॑षा प्र॒जामायु॒र्धन॑ञ्च ।  
@@ -35,7 +46,7 @@ Instigated by Brhaspati may the sacrificer here come to no harm.
 
 <details><summary>पद-पाठः</summary>
 
-समिति॑ । त्वा॒ । सि॒ञ्चा॒मि॒ । यजु॑षा । प्र॒जामिति॑ प्र-जाम् । आयुः॑ । धन॑म् । च॒ ॥ बृह॒स्पति॑प्रसूत॒ इति॒ बृह॒स्पति॑-प्र॒सू॒तः॒ । यज॑मानः । इ॒ह । मा॒ । रि॒ष॒त् ॥ 
+समिति॑ । त्वा॒ । सि॒ञ्चा॒मि॒ । यजु॑षा । प्र॒जामिति॑ प्र-जाम् । आयुः॑ । धन॑म् । च॒ ॥ बृह॒स्पति॑प्रसूत॒ इति॒ बृह॒स्पति॑-प्र॒सू॒तः॒ । यज॑मानः । इ॒ह । मा॒ । रि॒ष॒त् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -45,12 +56,22 @@ Instigated by Brhaspati may the sacrificer here come to no harm.
 
 <details><summary>सायण-टीका</summary>
 
-तत्र प्रथमानुवाक आज्यग्रहणानुमन्त्रणमन्त्राः प्राधान्येनाभिधीयन्ते।  
-कल्पः — “सं त्वा सिञ्चामीति तत्सँ सिञ्चेदभि वा मन्त्रयेत” इति। तदिति स्कन्नमाज्यमुच्यते। यस्याऽऽज्यमनुत्पूतँ स्कन्देदित्यादिना स्कन्दनस्य प्रकृतत्वात्। यदि शुद्धप्रदेशे स्कन्देत्तदानीमनेन मन्त्रेण पुनः पात्रे प्रक्षिपेत्। अशुचिप्रदेशे स्कन्दने त्वभिमन्त्रणम्।
-
 पाठस्तु -  
-सं त्वा सिञ्चामीति। हे स्कन्नाज्य बृहस्पतिप्रेरितोऽहं प्रजादीन्संपादयेयम। त्वामनेन यजुषा मन्त्रेण पात्रे सम्यक्सिञ्चामि। इह कर्मणि यजमानः स्कन्दनापराधेन मा रिषन्मा हिंस्यताम्। अयं मन्त्र आध्वर्यवः। अतो यजमानस्यान्यत्वेनोक्तिरविरुद्धा।  
+सं त्वा सिञ्चामीति। हे स्कन्नाज्य बृहस्पतिप्रेरितोऽहं प्रजादीन्संपादयेयम। त्वामनेन यजुषा मन्त्रेण पात्रे सम्यक्सिञ्चामि। इह कर्मणि यजमानः स्कन्दनापराधेन मा रिषन्मा हिंस्यताम्। अयं मन्त्र आध्वर्यवः। अतो यजमानस्यान्यत्वेनोक्तिरविरुद्धा।
 </details>
 </details>
 
 </div>
+
+<details><summary>त्रिभुवनः - शान्तिपाठः (समाप्तिः)</summary>
+
+Harih Om.
+
+I sprinkle well offspring, life and wealth for you by the Yajus-Mantra.
+
+Om Peace !
+
+Peace !
+
+Peace !
+</details>
