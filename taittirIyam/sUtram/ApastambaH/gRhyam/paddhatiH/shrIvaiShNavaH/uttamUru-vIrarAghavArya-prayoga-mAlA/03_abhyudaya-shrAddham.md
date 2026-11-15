@@ -1,6 +1,5 @@
 +++
 title = "०३ अभ्युदय-श्राद्धम्"
-
 +++
 
 > ... कर्माङ्गम् अभ्युदयश्राद्धं करिष्य 
@@ -21,7 +20,6 @@ title = "०३ अभ्युदय-श्राद्धम्"
 ## प्रीणनम्
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/yaJNeshvaraH__eko_viShNuH/">
-<details open><summary><h5>यज्ञेश्वरो … एको विष्णुः ...{Loading}...</h5></summary>
 
 यज्ञेश्वरो हव्य-समस्त-कव्य-  
 **भोक्ता** ऽव्ययात्मा हरिर् ईश्वरो ऽत्र ।  
@@ -32,7 +30,7 @@ title = "०३ अभ्युदय-श्राद्धम्"
 पृथक् भूतान्य् अनेकशः ।  
 त्रीन् लोकान् **व्याप्य** भूतात्मा  
 **भुङ्क्ते** विश्व-भुग् अव्ययः ॥ 
-</details>
+
 </div>  
 
 > अनेन नान्दीमुखेन  
@@ -52,7 +50,7 @@ title = "०३ अभ्युदय-श्राद्धम्"
 ## जल-नयनम्
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/iDA_devahUH.md">
-<details open><summary><h5>इडा॑ देव॒हूः ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3आर्त्विज्यं वा करिष्यन् शस्त्रं वा प्रतिगरिष्यन् जपति - इडेति ॥ 
@@ -65,22 +63,25 @@ title = "०३ अभ्युदय-श्राद्धम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इडा॑ देव॒हूर्,  
-मनु॑र् यज्ञ॒-नीर्,  
-बृह॒स्-पति॑र् उक्था-म॒दानि॑+++(=प्रतिगरान्)+++ **शँसिष॒द्** ,  
-विश्वे॑ दे॒वास् सू॑क्त॒-वाचः॑  ।  
+इ᳓डा देवहू᳓र्,  
+म᳓नुर् यज्ञ-नी᳓र्,  
+बृ᳓हस्-प᳓तिर् उक्था-मदा᳓नि+++(=प्रतिगरान्)+++ **शँसिषत्** ।  
 </details>
 
 <details><summary>Keith</summary>
 
 May Ida who summoneth the gods, Manu who leadeth the sacrifice,  
-May Brhaspati recite the hymns and acclamations.  
-The All-gods [1] are reciters of the hymns.
+May Brhaspati recite the hymns and acclamations.
 </details>
 
 <details><summary>मूलम्</summary>
 
-इडा॑ देव॒हूर्, मनु॑र्यज्ञ॒नीर्, बृह॒स्पति॑रुक्थाम॒दानि॑ शँसिष॒द् , विश्वे॑ दे॒वास्सू॑क्त॒वाचः॑  ।  
+इडा॑ देव॒हूर्, मनु॑र्यज्ञ॒नीर्, बृह॒स्पति॑रुक्थाम॒दानि॑ शँसिषत् ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इडा॑ । दे॒व॒हूरिति॑ देव-हूः । मनुः॑ । य॒ज्ञ॒नीरिति॑ यज्ञ-नीः । बृह॒स्पतिः॑ । उ॒क्था॒म॒दानीत्यु॑क्थ-म॒दानि॑ । शँ॒सि॒ष॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -92,12 +93,37 @@ The All-gods [1] are reciters of the hymns.
 मनुर् यज्ञनीः यज्ञस्य नेता मनुः प्रजापतिः वा  
 बृहस्पतिरुक्थामदानि शस्त्र-प्रतिगरादीनि  
 **शंसिषत्** शंसति शस्त्राणि शंसति  
-मदान् प्रतिगरान् शंसति । शंसेर्लेटि 'सिब्बहुलं लेटि' इति सिप् । उक्थशब्दस्य संहितायां छान्दसं दीर्घत्वम् । विश्वेदेवाः सूक्तवाचः सूक्तवाकस्य वक्तारः सूक्तं सूक्तवाकः, तद्ब्रुवन्तीति सूक्तवाचः । 'क्विब्वचि' इत्यादिना क्विप्दीर्घत्वे । यस्मादेवं सर्वमेतदिडादयः कुर्वन्ति तस्मात्सत्यपि प्रमादे न मे कश्चिदपराधः ।
+मदान् प्रतिगरान् शंसति । शंसेर्लेटि 'सिब्बहुलं लेटि' इति सिप् । उक्थशब्दस्य संहितायां छान्दसं दीर्घत्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृथि॑वि मात॒र् मा मा॑ हिँसीः ।   
+वि᳓श्वे देवा᳓स् सूक्त-वा᳓चः  ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The All-gods [1] are reciters of the hymns.
+</details>
+
+<details><summary>मूलम्</summary>
+
+विश्वे॑ दे॒वास्सू॑क्त॒वाचः॑  ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्वे॑ । दे॒वाः । सू॒क्त॒वाच॒ इति॑ सूक्त-वाचः॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विश्वेदेवाः सूक्तवाचः सूक्तवाकस्य वक्तारः सूक्तं सूक्तवाकः, तद्ब्रुवन्तीति सूक्तवाचः । 'क्विब्वचि' इत्यादिना क्विप्दीर्घत्वे । यस्मादेवं सर्वमेतदिडादयः कुर्वन्ति तस्मात्सत्यपि प्रमादे न मे कश्चिदपराधः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पृ᳓थिवि मातर् मा᳓ मा हिँसीः ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -110,25 +136,36 @@ O earth mother, do not harm me.
 पृथि॑वि मात॒र्मा मा॑ हिँसीः ।   
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पृथि॑वि । मा॒तः॒ । मा । मा॒ । हिँ॒सीः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मात् हे पृथिवि मातः सर्वस्य रक्षिके मा मा हिंसीः ।
 </details>
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md">
-<details open><summary><h5>मधु॑ मनिष्ये ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॑ **मनिष्ये** ।  
-मधु॑ **जनिष्ये** ।  
-मधु॑ **वक्ष्यामि** ।  
-मधु॑ **वदिष्यामि** ।
+म᳓धु **मनिष्ये** ।  
+म᳓धु **जनिष्ये** ।  
+म᳓धु **वक्ष्यामि** ।  
+म᳓धु **वदिष्यामि** ।
 </details>
 
 <details><summary>Keith</summary>
 
 Of honey shall I think, honey shall I produce, honey shall I proclaim, honey shall I speak,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I will think the honey (Pravargya), I will produce the honey, I will speak the honey;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -139,6 +176,11 @@ Of honey shall I think, honey shall I produce, honey shall I proclaim, honey sha
 मधु॑ वदिष्यामि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मधु॑ । म॒नि॒ष्ये॒ । मधु॑ । ज॒नि॒ष्ये॒ । मधु॑ । व॒क्ष्या॒मि॒ । मधु॑ । व॒दि॒ष्या॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अहं तु मधु मनिष्ये मधुवदेव मनसा चिन्तयिष्यामि ।
@@ -146,8 +188,8 @@ Of honey shall I think, honey shall I produce, honey shall I proclaim, honey sha
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॑मतीन् दे॒वेभ्यो॒ वाच॑म् **उद्यासँ**
-शुश्रू॒षेण्या॑म् मनु॒ष्ये॑भ्यः
+म᳓धुमतीन् देवे᳓भ्यो वा᳓चम् **उद्यासँ**
+शुश्रूषे᳓ण्याम् मनुष्ये᳙भ्यः
 </details>
 
 <details><summary>Keith</summary>
@@ -155,10 +197,20 @@ Of honey shall I think, honey shall I produce, honey shall I proclaim, honey sha
 may I utter speech full of honey for the gods, and acceptable to men.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+may I speak the honeyful (sweet) speech for the gods, well-hearing for the men (fathers);
+</details>
+
 <details><summary>मूलम्</summary>
 
 मधु॑मतीन्दे॒वेभ्यो॒ वाच॑मुद्यासँ
 शुश्रू॒षेण्या॑म्मनु॒ष्ये॑भ्यः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मधु॑मती॒मिति॒ मधु॑-म॒ती॒म् । दे॒वेभ्यः॑ । वाच॑म् । उ॒द्या॒स॒म् । शु॒श्रू॒षेण्या॑म् । म॒नु॒ष्ये॑भ्यः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -170,13 +222,18 @@ may I utter speech full of honey for the gods, and acceptable to men.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम् मा॑ दे॒वा **अ॑वन्तु** शो॒भायै॑ ।
-पि॒तरो **ऽनु॑ मदन्तु** ॥
+त᳓म् मा देवा᳓ **अवन्तु** शोभा᳓यै ।
+पित᳓रो᳓ **ऽनु मदन्तु** ॥
 </details>
 
 <details><summary>Keith</summary>
 
 May the gods aid me to radiance, may the Pitrs rejoice in me.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may the gods protect me as such, may the fathers also please me for the sake of beauty.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -185,21 +242,27 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 पि॒तरोऽनु॑ मदन्तु ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तम् । मा॒ । दे॒वाः । अ॒व॒न्तु॒ । शो॒भायै॑ । पि॒तरः॑ । अन्विति॑ । म॒द॒न्तु॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तं मामेवंगुणं देवा अवन्तु रक्षन्तु शोभायै यथा मया कृतं शोभते तथा अनुमदन्तु अनुमोदन्तां, उत्कृष्टत्वेन समीचीनं करोतीति शोभार्थं पितरश्च अनुमोदन्तु । माद्यतेर्व्यत्ययेन शप् ॥
 
 इति तृतीये तृतीये द्वितीयोनुवाकः ॥
 </details>
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/iDa_ehi.md">
-<details open><summary><h5>इड॒ एहि॑ ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इड॒+++(य्)+++ एहि॑+++(=आ+इ॑हि)+++ ।  
-अदि॑त॒ एहि॑ ।  
-सर॑स्व॒त्य् एहि॑+++(=आ+इ॑हि)+++ ।
+इ᳓ड+++(य्)+++ ए᳓हि+++(=आ᳓+इहि)+++ ।  
+अ᳓दित ए᳓हि ।  
+स᳓रस्वत्य् ए᳓हि+++(=आ᳓+इहि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -235,7 +298,7 @@ O Sarasvati, come hither.
 त एवेडाविशेषा इडादिभिः सूनर्यन्तैः षड्भिर्नामविशेषैः स्पष्टी क्रियन्ते। इडादीनां गोनामविशेषत्वं सप्तमकाण्डे समाम्नातम् – ‘इडे रन्तेऽदिते सरस्वति प्रिये प्रेयसि महि विश्रुत्येतानि ते अघ्‍निये नामानि’ (सं॰ का॰ ७ प्र॰ १ अ॰ ६) इति।  
 एतेषां प्रदर्शनार्थत्वाद्रमत्यादिकमपि द्रष्टव्यम्। 
 </details>
-</details>
+
 </div>
 
 > शोभनं, शोभनं, शोभनम्  

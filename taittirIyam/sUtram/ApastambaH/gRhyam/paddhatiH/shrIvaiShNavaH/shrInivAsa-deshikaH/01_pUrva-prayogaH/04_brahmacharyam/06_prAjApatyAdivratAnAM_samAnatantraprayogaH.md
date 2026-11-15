@@ -1,6 +1,5 @@
 +++
 title = "०६ प्राजापत्यादिव्रतानां समानतन्त्रप्रयोगः"
-
 +++
 
 माणवकः समिदाधानं कृत्वा  
@@ -19,9 +18,8 @@ title = "०६ प्राजापत्यादिव्रतानां 
 आचार्यः ताम्बूलदक्षिणां गृहीत्वा 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
-<details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
-<details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
@@ -29,11 +27,16 @@ title = "०६ प्राजापत्यादिव्रतानां 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॒स् सद॑से॥  
-नम॒स् सद॑स॒स्-पत॑ये॥    
-नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चक्षु॑षे॥    
-नमो॑ दि॒वे॥   
-नमᳶ॑ पृथि॒व्यै॥
+न᳓मस् स᳓दसे॥  
+न᳓मस् स᳓दसस्-प᳓तये॥    
+न᳓मस् स᳓खीनाम् पुरोगा᳓णाञ् च᳓क्षुषे॥    
+न᳓मो दिवे᳓॥   
+न᳓मᳶ पृथिव्यै᳓॥
+</details>
+
+<details><summary>Keith</summary>
+
+Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the friends who go before, homage to sky, homage to earth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -45,35 +48,37 @@ title = "०६ प्राजापत्यादिव्रतानां 
 नमᳶ॑ पृथि॒व्यै
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । सद॑से । नमः॑ । सद॑सः । पत॑ये । नमः॑ । सखी॑नाम् । पु॒रो॒गाणा॒मिति॑ पुरः-गाना॑म् । चक्षु॑षे । नमः॑ । दि॒वे । नमः॑ । पृ॒थि॒व्यै ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
 </details>
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
-<details open><summary><h9>267 सप्रथ सभाम् ...{Loading}...</h9></summary>
 
-सप्र॑थ स॒भाम् मे॑ गोपाय ।  
-ये च॒ सभ्या॑स् सभा॒सदः॑ ।  
-तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
-सर्व॒म् आयु॒र् उपा॑सताम् ।
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+
+स᳓प्रथ सभा᳓म् मे गोपाय ।  
+ये᳓ च स᳓भ्यास् सभास᳓दः ।  
+ता᳓निन्द्रिया᳓वतᳵ कुरु ।  
+स᳓र्वम् आ᳓युर् उ᳓पासताम् ।
+
 </div>
 
 (सर्वे॑भ्यः श्रीवैष्ण॒वेभ्यो॒ नमः॑॥)
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
-<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
 
 > स्वामिनः!  
 अशेषे हे परिषत्  
 भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
 यथोक्तदक्षिणामिव स्वीकृत्य  
 
-</details>
 </div>   
 
 > … नक्षत्रे … राशौ जातं गोत्रं शर्माणम् इमं मम माणवकं प्राजापत्यसौम्यआग्नेयवैश्वदेवव्रतानि तत्तदुत्सर्जनानि च समानतन्त्रेण चारयितुं योग्यतासिद्धिमनुगृहाण 
@@ -112,61 +117,72 @@ title = "०६ प्राजापत्यादिव्रतानां 
 
 ### प्रजापतिः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
-<details open><summary><h2>१० प्रजापते न ...{Loading}...</h2></summary>
 
 प्र᳓जापते न᳓ त्व᳓द् +++(विश्वा जातानि→)+++ एता᳓न्य् अन्यो᳓  
 वि᳓श्वा जाता᳓नि **प᳓रि** ता᳓ **बभूव** ।  
 य᳓त्-कामास् ते जुहुम᳓स् त᳓न् नो **अस्तु**  
 वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म्॥
-</details>
+
 </div>
 
 > स्वाहा - प्रजापतय इदम् ।
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-र॒यी॒णाम् पतिय्ँ॑ **यज॒तम्**+++(=यजनीयम्)+++ बृ॒हन्त॑म् ।  
-अ॒स्मिन् भरे॒ नृत॑मव्ँ॒ वाज॑+++(=अन्न)+++-**सातौ**+++(=दाने)+++ ।  
-प्र॒जा-प॑तिम् प्रथम॒-जाम् ऋ॒तस्य॑ ।   
-**यजा॑म** दे॒वम् अधि॑ नो **ब्रवीतु** ।
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+रयीणा᳓म् प᳓तिय्ँ **यजत᳓म्**+++(=यजनीयम्)+++ बृह᳓न्तम् ।  
+अस्मि᳓न् भ᳓रे नृ᳓तमव्ँ वा᳓ज+++(=अन्न)+++-**सातौ**+++(=दाने)+++ ।  
+प्रजा᳓-पतिम् प्रथम-जा᳓म् ऋत᳓स्य ।   
+**य᳓जाम** देव᳓म् अ᳓धि नो **ब्रवीतु** ।
+
 </details>
+
 </div>
 
 > स्वाहा - प्रजापतय इदन्न मम ।
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-प्रजा॑-पते॒ त्वन् नि॑धि॒-**पाᳶ** पु॑रा॒णः ।  
-दे॒वाना॑म् पि॒ता, ज॑नि॒ता प्र॒जाना॑म् ।  
-पति॒र् विश्व॑स्य॒, जग॑तᳶ पर॒स्-**पाः**+++(=पालकः)+++ ।   
-ह॒विर् नो॑ देव विह॒वे+++(=यज्ञे)+++ **जु॑षस्व** ।
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+प्र᳓जा-पते त्व᳓न् निधि-**पाᳶ᳓** पुराणः᳓ ।  
+देवा᳓नाम् पिता᳓, जनिता᳓ प्रजा᳓नाम् ।  
+प᳓तिर् वि᳓श्वस्य, ज᳓गतᳶ परस्-**पाः᳓**+++(=पालकः)+++ ।   
+हवि᳓र् नो देव विहवे᳓+++(=यज्ञे)+++ **जुषस्व** ।
+
 </details>
+
 </div>
 
 > स्वाहा - प्रजापतय इदम् ।
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-तवे॒मे लो॒काᳶ प्र॒दिशो॒ दिश॑श् च ॥ 3 ॥  
-प॒रा॒वतो॑ नि॒वत॑+++(=अधरा)+++ उ॒द्वत॑श्+++(=ऊर्ध्वाश्)+++ च ।  
-प्रजा॑पते विश्व॒-**सृज्** जी॒व-ध॑न्य  
-इ॒दन् नो॑ देव **प्रति॑हर्य** ह॒व्यम् ।
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+त᳓वेमे᳓ लोकाᳶ᳓ प्रदि᳓शो दि᳓शश् च ॥ 3 ॥  
+पराव᳓तो निव᳓त+++(=अधरा)+++ उद्व᳓तश्+++(=ऊर्ध्वाश्)+++ च ।  
+प्र᳓जापते विश्व-**सृ᳓ज्** जीव᳓-धन्य  
+इद᳓न् नो दे᳓व᳓ **प्र᳓तिहर्य** हव्य᳓म् ।
+
 </details>
+
 </div>
 
 > स्वाहा - प्रजापतय इदन्न मम ।
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-प्र॒जाप॑तिम् प्रथ॒मय्ँ य॒ज्ञिया॑नाम् ।  
-दे॒वाना॒म् अग्रे॑ यज॒तय्ँ **य॑जध्वम्** ।  
-स नो॑ **ददातु॒** द्रवि॑णँ सु॒वीर्य॑म् ।  
-रा॒यस्-पोषव्ँ॒ **वि ष्य॑तु॒**+++(=शिथिलयतु)+++ नाभि॑म्+++(=नहनं)+++ अ॒स्मे ।
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+प्रजा᳓पतिम् प्रथमय्ँ᳓ यज्ञि᳓यानाम् ।  
+देवा᳓नाम् अ᳓ग्रे यजतय्ँ᳓ **यजध्वम्** ।  
+स᳓ नो **ददातु** द्र᳓विणँ सुवी᳓र्यम् ।  
+राय᳓स्-पो᳓षव्ँ **वि᳓ ष्यतु**+++(=शिथिलयतु)+++ ना᳓भिम्+++(=नहनं)+++ अस्मे᳓ ।
+
 </details>
+
 </div>
 
 > स्वाहा - प्रजापतय इदन्न मम ।
@@ -174,13 +190,16 @@ title = "०६ प्राजापत्यादिव्रतानां 
 [[88]]
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यो रा॒य **ईशे॑** शतदा॒य उ॒क्थ्यः॑ ।   
-यᳶ प॑शू॒नाँ **र॑क्षि॒ता** विष्ठि॑तानाम् ।  
-प्र॒जाप॑तिᳶ प्रथम॒-जा ऋ॒तस्य॑ ॥ 4 ॥  
-स॒हस्र॑-धामा **जुषताँ** ह॒विर् नः॑ ।
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+यो᳓ राय᳓ **ई᳓शे** शतदाय᳓ उक्थ्यः᳙ ।   
+यᳶ᳓ पशूनाँ᳓ **रक्षिता᳓** वि᳓ष्ठितानाम् ।  
+प्रजा᳓पतिᳶ प्रथम-जा᳓ ऋत᳓स्य ॥ 4 ॥  
+सह᳓स्र-धामा **जुषताँ** हवि᳓र् नः ।
+
 </details>
+
 </div>
 
 > स्वाहा - प्रजापतय इदन्न मम ।
@@ -255,8 +274,97 @@ title = "०६ प्राजापत्यादिव्रतानां 
 
 अनन्वारब्धः 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sAMhitI-yAjnikI-vAruNI-brahma-sadasaspatayaH.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sAMhitI-yAjnikI-vAruNI-brahma-sadasaspatayaH.md">
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सांहि᳓तीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
+(सांहि᳓तीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्य इद᳓न्, न᳓ म᳓म)  
+</details>
+
+<details><summary>मूलम्</summary>
+
+सांहि᳓तीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
+(सांहि᳓तीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्य इद᳓न्, न᳓ म᳓म)  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षद्भ्यः॒ स्वाहा॑ । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+याज्ञि᳓कीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
+(याज्ञि᳓कीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्य इद᳓न्, न᳓ म᳓म)  
+</details>
+
+<details><summary>मूलम्</summary>
+
+याज्ञि᳓कीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
+(याज्ञि᳓कीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्य इद᳓न्, न᳓ म᳓म)  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षद्भ्यः॒ स्वाहा॑ । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वारु᳓णीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
+(वारु᳓णीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः इद᳓न्, न᳓ म᳓म)   
+</details>
+
+<details><summary>मूलम्</summary>
+
+वारु᳓णीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
+(वारु᳓णीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः इद᳓न्, न᳓ म᳓म)   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒रुणी॑भ्यः॒, दे॒वता॑भ्यः, उ॒प॒नि॒षद्भ्यः॒ स्वाहा॑
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्र᳓ह्मणे स्वयम्भु᳓वे स्वा᳓हा ।  
+(ब्र᳓ह्मणे स्वयम्भु᳓वे, इद᳓न्, न᳓ म᳓म)
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्र᳓ह्मणे स्वयम्भु᳓वे स्वा᳓हा ।  
+(ब्र᳓ह्मणे स्वयम्भु᳓वे, इद᳓न्, न᳓ म᳓म)
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्रह्म॑णे, स्व॒य॒म्भुवे॑ - स्वाहा॑ 
+</details>
+
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
+<details open><summary><h8>०६ सदसस्पतिमद्भुतं प्रियमिन्द्रस्य …{Loading}…</h8></summary>
+
+स᳓दसस्प᳓तिम् अ᳓द्भुतं  
+प्रिय᳓म् इ᳓न्द्रस्य का᳓म्यम् ।  
+सनिं᳓ +++(=दानरूपम्)+++ मेधा᳓म् अयासिषम् ६
+
+</details>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(स᳓दसस्-प᳓तये इद᳓न्, न᳓ म᳓म॥)
+</details>
+
+<details><summary>मूलम्</summary>
+
+(स᳓दसस्-प᳓तये इद᳓न्, न᳓ म᳓म॥)
+</details>
+
+</div>  
 
 माणवकः उत्तरेणाग्निं प्राङ्मुखः स्थित्वोपस्थानं कुर्यात् ।
 
@@ -265,32 +373,59 @@ title = "०६ प्राजापत्यादिव्रतानां 
 (अधः "का॒ण्ड॒र्षिभ्यः॑ प्रा॒जा॒प॒त्यं व्र॒तं च॑रिष्यामि इत्यूहनीयम्।)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
-<details open><summary><h5>८४ अग्ने व्रतपते ...{Loading}...</h5></summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथ देवता उपतिष्ठते - अग्ने व्रतपत इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 4)* Invitation of the gods.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ व्रतपते!
+अ᳓ग्ने व्रतपते!
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+4\. O Fire, the lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
 
 अग्ने॑ व्रतपते!
 </details>
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे अग्ने ! व्रतपते! व्रतं शुक्रियं व्रतं चरिष्यामि । तच्छकेयं कर्तुं शक्तोऽहं भवेयम् । तद् व्रतं मे राध्यतां सिद्ध्यताम् ॥
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
+
 <details><summary>संयुक्त-मूलम्</summary>
 
 वायो॑ व्रतपत॒ आदि॑त्य व्रतपते ।
@@ -298,215 +433,874 @@ title = "०६ प्राजापत्यादिव्रतानां 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वायो॑ व्रतपते
+वा᳓यो व्रतपते
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O wind, the lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
 
 वायो॑ व्रतपते
 </details>
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ᳓दित्य व्रतपते
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Āditya, the lord of the rules,
+</details>
+
+<details><summary>मूलम्</summary>
 
 आदि॑त्य व्रतपते
 </details>
 
-<details><summary>मूलम्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-आदि॑त्य व्रतपते
-</details>
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒ताना॑व्व्ँरतपते
+व्रता᳓नाव्व्ँरतपते
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Vratapati (lord of the rules), the ruling lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
 
 व्र॒ताना॑व्व्ँरतपते
 </details>
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
-</details>
+
 </div>
 
 व्रती दक्षिणेन पाणिनोदकुम्भमुस्पृश्य नमोवाचे इत्यनुवाकेन शान्तिं जपेत् । 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/01_namo_vAche_yA" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/01_namo_vAche_yA">
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
+अथ शौक्रियं काण्डमारभ्यते । आरण्यकत्वाद् अस्मिन्प्रदेशे मन्त्रब्राह्मगयोराम्नानम् । उभयं सोमार्षेयम् । तत्रादौ शान्तिमुपयन्ति - नमो वाच इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 1–7)* Propitiatory Mantras. (From 1 to 7).
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न᳓मो वाचे᳓ या᳓ चोदिता᳓ या᳓ चा᳓नुदिता  
+त᳓स्यै वाचे᳓ न᳓मो
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+1\. Salutation to the speech, which has been uttered, salutation to that speech which is yet unuttered;
+</details>
+
+<details><summary>मूलम्</summary>
+
+नमो॑ वा॒चे या चो॑दि॒ता या चानु॑दिता॒  
+तस्यै॑ वा॒चे नमो॒
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+नमो वाचे वेदात्मिकायै मन्त्रात्मने ब्राह्मणात्मने च । या च अस्माभिर् उदिता उक्ता अधीता । या च अनधीता तस्यै सर्वस्यै वाचे नमः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न᳓मो वाचे᳓
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+salutation to the speech,
+</details>
+
+<details><summary>मूलम्</summary>
+
+नमो॑ वा॒चे
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ नमो वाचे वागभिमानिन्यै सरस्वत्यै देव्यै नमः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न᳓मो वाच᳓स्प᳓तये
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+salutation to the lord of the speech (Vācaspati);
+</details>
+
+<details><summary>मूलम्</summary>
+
+नमो॑ वा॒चस्पत॑ये॒
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ नमो वाचस्पतये ब्रह्मणे ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न᳓म ऋ᳓षिभ्यो मन्त्रकृ᳓द्भ्यो म᳓न्त्रपतिभ्यो
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+salutation to the seers, the makers of the Mantras, the lords of the Mantras;
+</details>
+
+<details><summary>मूलम्</summary>
+
+नम॒ ऋषि॑भ्यो मन्त्र॒कृद्भ्यो॒ मन्त्र॑पतिभ्यो॒
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ नम ऋषिभ्यः द्रष्टृभ्यः मन्त्रकृद्यः मन्त्राणां द्रष्टृभ्यः । दर्शनमेव कर्तृत्वं वेदस्य कर्तुरस्मरणात् । मन्त्रपतिभ्यः मन्त्रदेवताभ्यस्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मा᳓ मा᳓म् ऋ᳓षयो मन्त्रकृ᳓तो मन्त्र-प᳓तयः **प᳓रादुर्**
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may not the seers, the makers of the Mantras, the lords of the Mantras disobey me;
+</details>
+
+<details><summary>मूलम्</summary>
+
+मा मामृष॑यो मन्त्र॒कृतो॑ मन्त्र॒पत॑यः॒ परा॑दु॒र्
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ते च मन्त्रकृतो मन्त्रपतयश्च मा मां परादुर् मा त्याक्षुः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मा᳓ ऽह᳓म् ऋ᳓षीन् मन्त्रकृ᳓तो मन्त्र-प᳓तीन् प᳓रादाम्
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may I not disobey the seers, the makers of the Mantras, the lords of the Mantras.
+
+: *(Mantras 1–7)* Propitiatory Mantras. (From 1 to 7).
+</details>
+
+<details><summary>मूलम्</summary>
+
+माहमृषी॑न्मन्त्र॒कृतो॑ मन्त्र॒पती॒न् परा॑दाव्ँ
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अहं च तानुभयान् मा परादां मा त्याक्षम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वै᳓श्व᳓देवीव्ँ᳓ वा᳓चमुद्यासँ
+शिवा᳓म् अ᳓दस् तां जु᳓ष्टान् देवे᳓भ्यः
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+2\. May I speak the speech which is related to all the gods, auspicious, unbroken and dear to the gods.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वैश्वदे॒वीव्ँ वाच॑मुद्यासँ
+शि॒वामद॑स्तां॒ जुष्टा॑न् दे॒वेभ्यः॒…
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+किञ्च - वैश्वदेवीं विश्वेषां देवानां सम्बन्धिनीं तेभ्यो हितत्वात् तादृशीमेव वाचम् उद्यासं वदितुं समर्थो भूयासं शिवां सुखहेतुम् अदस्ताम् अनुपक्षीणां देवेभ्यो जुष्टां प्रियम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श᳓र्म मे द्यौ᳓श्, श᳓र्म पृथिवी᳓, श᳓र्म वि᳓श्वम् इदं᳓ ज᳓गत् ।  
+श᳓र्म चन्द्र᳓श् च सू᳓र्यश् च,  
+श᳓र्म ब्रह्म--प्रजा-पती᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+3\. May the heaven be comfortable for me, may the earth be comfortable for me, may this all world be comfortable for me, may the moon and the sun be comfortable for me, may Brahman and Prajāpati be comfortable for me.
+</details>
+
+<details><summary>मूलम्</summary>
+
+शर्म॑ मे॒ द्यौश्, शर्म॑ पृथि॒वी, शर्म॒ विश्व॑मि॒दं जग॑त् ।  
+शर्म॑ च॒न्द्रश्च॒ सूर्य॑श्च॒, शर्म॑ ब्रह्मप्रजाप॒ती ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+शर्म मे द्यौरित्य् अनुष्टुप् ॥ द्युप्रभृतयोऽधुना शर्म सुखहेतवो भवन्तु मे तादृशीं वाचं वदतः ब्रह्मा स्रष्टा प्रजापतिः परमात्मा तावुभौ शर्म यच्छताम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भूतव्ँ᳓ वदिष्ये, भु᳓वनव्ँ वदिष्ये,  
+ते᳓जो वदिष्ये, य᳓शो वदिष्ये,  
+त᳓पो वदिष्ये, ब्र᳓ह्म वदिष्ये,  
+सत्यव्ँ᳓ वदिष्ये,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+4\. I will speak the matter, the world, the light, the austerity, Brahman and the truth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भू॒तव्ँ व॑दिष्ये॒, भुव॑नव्ँ वदिष्ये॒, तेजो॑ वदिष्ये॒, यशो॑ वदिष्ये॒, तपो॑ वदिष्ये॒, ब्रह्म॑ वदिष्ये, स॒त्यव्ँ व॑दिष्ये॒,
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अतः परम् अहं भूतं यथार्थमेव वदिष्ये वदिष्यामि । भुवनं सर्वभावभवन साधनं तदनुकूलं वदिप्यामि
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓स्मा अह᳓म् इद᳓म् उपस्त᳓रणम् **उ᳓पस्तृण**
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+5\. I spread this bed (Pravargya) for that;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मा॑ अ॒हमि॒दमु॑प॒स्तर॑ण॒म् उप॑स्तृण
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्मै तादृशाय विशिष्टाय प्रयोजनाय अहमिदमुपस्तरणस्थानीयं कर्म उपस्तृणे आरभे । उपस्तरणमास्तर आसनाधारः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपस्त᳓रणं मे प्रजा᳓यै पशूनां᳓ **भूयाद्**  
+उपस्त᳓रणम् अहं᳓ प्रजा᳓यै पशूनां᳓ **भूयासं**
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may there be bed (shelter) for my offspring, cattle; may I become bed (shelter) for my cattle and offspring.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उप॒स्तर॑णं मे प्र॒जायै॑ पशू॒नां भू॑यादुप॒स्तर॑णम॒हं प्र॒जायै॑ पशू॒नां भू॑यासं॒
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इदं च मे प्रजायै पशूनाम् उपस्तरणं भूयात् । अहं च प्रजायै पशूनाम् उपस्तरणं भूयासम् अनेन कर्मणा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रा᳓णापानौ मृत्यो᳓र् मा **पातं**
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+6\. May Prāṇa (in-breath) and Apāna (out-breath) protect me;
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्राणा॑पानौ मृ॒त्योर्मा॑ पातं॒
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तथा वर्तमानं मां हे प्राणापानौ ! मृत्योः पातम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रा᳓णापानौ मा᳓ **मा हासिष्टं**
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may Prāṇa and Apāna do not leave me.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्राणा॑पानौ॒ मा मा॑ हासिष्टं॒
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+मा च मा हासिष्टं मा त्याक्तं येनाहं मृत्योः रक्षितस्स्याम् ॥
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md">
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+म᳓धु **मनिष्ये** ।  
+म᳓धु **जनिष्ये** ।  
+म᳓धु **वक्ष्यामि** ।  
+म᳓धु **वदिष्यामि** ।
+</details>
+
+<details><summary>Keith</summary>
+
+Of honey shall I think, honey shall I produce, honey shall I proclaim, honey shall I speak,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I will think the honey (Pravargya), I will produce the honey, I will speak the honey;
+</details>
+
+<details><summary>मूलम्</summary>
+
+मधु॑ मनिष्ये ।  
+मधु॑ जनिष्ये ।  
+मधु॑ वक्ष्यामि ।  
+मधु॑ वदिष्यामि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मधु॑ । म॒नि॒ष्ये॒ । मधु॑ । ज॒नि॒ष्ये॒ । मधु॑ । व॒क्ष्या॒मि॒ । मधु॑ । व॒दि॒ष्या॒मि॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अहं तु मधु मनिष्ये मधुवदेव मनसा चिन्तयिष्यामि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+म᳓धुमतीन् देवे᳓भ्यो वा᳓चम् **उद्यासँ**
+शुश्रूषे᳓ण्याम् मनुष्ये᳙भ्यः
+</details>
+
+<details><summary>Keith</summary>
+
+may I utter speech full of honey for the gods, and acceptable to men.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may I speak the honeyful (sweet) speech for the gods, well-hearing for the men (fathers);
+</details>
+
+<details><summary>मूलम्</summary>
+
+मधु॑मतीन्दे॒वेभ्यो॒ वाच॑मुद्यासँ
+शुश्रू॒षेण्या॑म्मनु॒ष्ये॑भ्यः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मधु॑मती॒मिति॒ मधु॑-म॒ती॒म् । दे॒वेभ्यः॑ । वाच॑म् । उ॒द्या॒स॒म् । शु॒श्रू॒षेण्या॑म् । म॒नु॒ष्ये॑भ्यः ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+देवेभ्यो मधुमतीं मधुवदनहेतुं न केवलप्रमादां वाचं उद्यासं वदितुं समर्थो भूयासम् । 'किदाशिषि' इति कित्त्वात् 'वचिस्वपि' इति संप्रसारणम् ।
+
+मनुष्येभ्यः शुश्रूषेण्यां श्रवणीयां श्रुतिसुखहेतुं वाचं उद्यासमित्येव । उभयत्रापि षष्ठ्यर्थे चतुर्थी । सनन्तादौणादिक एण्यप्रत्ययः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓म् मा देवा᳓ **अवन्तु** शोभा᳓यै ।
+पित᳓रो᳓ **ऽनु मदन्तु** ॥
+</details>
+
+<details><summary>Keith</summary>
+
+May the gods aid me to radiance, may the Pitrs rejoice in me.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may the gods protect me as such, may the fathers also please me for the sake of beauty.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तम्मा॑ दे॒वा अ॑वन्तु शो॒भायै॑ ।
+पि॒तरोऽनु॑ मदन्तु ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । मा॒ । दे॒वाः । अ॒व॒न्तु॒ । शो॒भायै॑ । पि॒तरः॑ । अन्विति॑ । म॒द॒न्तु॒ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तं मामेवंगुणं देवा अवन्तु रक्षन्तु शोभायै यथा मया कृतं शोभते तथा अनुमदन्तु अनुमोदन्तां, उत्कृष्टत्वेन समीचीनं करोतीति शोभार्थं पितरश्च अनुमोदन्तु । माद्यतेर्व्यत्ययेन शप् ॥
+
+इति तृतीये तृतीये द्वितीयोनुवाकः ॥
+</details>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओं᳓ शा᳓न्तिश्शा᳓न्तिश्शा᳓न्तिः ॥
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Om Peace! Peace! Peace!
+</details>
+
+<details><summary>मूलम्</summary>
+
+ओं शान्ति॒श्शान्ति॒श्शान्तिः॑ ॥ 1 । - । 1 ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इति सप्तमे प्रश्ने प्रथमोऽनुवाकः ॥
+</details>
+
+</div>  
 
 यथास्थानमुपविश्य औदुम्बरीश् चतस्त्रस् समिधो घृतान्वक्ता अभ्यादधाति । 
 
 [[112]]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/82_pRthivI_samit">
-<details open><summary><h5>८२ पृ॒थि॒वी स॒मित् ...{Loading}...</h5></summary>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒थि॒वी स॒मित् ।  
-</details>
+<details><summary>त्रिभुवनः - विनियोगः</summary>
 
-<details><summary>मूलम्</summary>
+Offering of the Udumbara wood to the fire while making consecration.
 
-पृ॒थि॒वी स॒मित् ।  
+*(Mantras 1–3)* Mantras for offering the Udumbara wood.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम॒ग्निस्समि॑न्धे ।  
-साऽग्निँ समि॑न्धे ।  
+पृथिवी᳓ समि᳓त् ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+1\. The earth is the fuel;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ताम॒ग्निस्समि॑न्धे ।  
-साऽग्निँ समि॑न्धे ।  
+पृ॒थि॒वी स॒मित् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+पृथिव्येव इयं समित् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम॒हँ समि॑न्धे ।  
-सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
+ता᳓मग्नि᳓स्स᳓मिन्धे ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the fire burned that,
 </details>
 
 <details><summary>मूलम्</summary>
 
-ताम॒हँ समि॑न्धे ।  
-सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
+ताम॒ग्निस्समि॑न्धे ।
 </details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तामग्निस्समिन्धे दीपयति ।
 </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा᳓ऽग्निँ᳓ स᳓मिन्धे ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+that (earth) burned the fire;
+</details>
+
+<details><summary>मूलम्</summary>
+
+साऽग्निँ समि॑न्धे ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+साऽग्निं समिन्धे समेधयति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता᳓महँ᳓ स᳓मिन्धे ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I burned that (earth),
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताम॒हँ समि॑न्धे ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तामहं समिन्धे समेधयामि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा᳓ मा स᳓मिद्धा ।  
+आ᳓युषा ते᳓जसा ।  
+व᳓र्चसा श्रिया᳓ ।  
+य᳓शसा ब्रह्मवर्चसे᳓न ।  
+अन्ना᳓द्येन स᳓मिन्ताँ स्वा᳓हा ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may that, being burnt, burn me (make me shine) with life, brilliance, splendour, prosperity, fame, brilliance of sacred knowledge[P206_6], food etc., Hail!
+
+[P206_6]: Brilliance of sacred knowledge: divine intuition.
+: *(Mantras 1–3)* Mantras for offering the Udumbara wood.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा मा॒ समि॑द्धा ।  
+आयु॑षा॒ तेज॑सा ।  
+वर्च॑सा श्रि॒या ।  
+यश॑सा ब्रह्मवर्च॒सेन॑ ।  
+अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सा मा समिद्धा समिद्धा सा समिद् आयुरादिभिर् मां समिन्तां सन्दीपयतु ॥
+</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/83_antarixaM_samit">
-<details open><summary><h5>८३ अ॒न्तरि॑क्षँ॒ स॒मित् ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्तरि॑क्षँ॒ स॒मित् । (82)  
+अन्त᳓रिक्षँ समि᳓त् । (82)
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+2\. The mid-region is the fuel;
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒न्तरि॑क्षँ॒ स॒मित् । (82)  
+अ॒न्तरि॑क्षँ॒ स॒मित् । (82)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+उत्तरे व्याख्याताः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव्ँ वा॒युस्समि॑न्धे ।  
-सा वा॒युँ समि॑न्धे । 
+ताव्ँ᳓ वायु᳓स्स᳓मिन्धे ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the wind burned that;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ताव्ँ वा॒युस्समि॑न्धे ।  
-सा वा॒युँ समि॑न्धे । 
+ताव्ँ वा॒युस्समि॑न्धे ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम॒हँ समि॑न्धे ।  
-सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
+सा᳓ वायुँ᳓ स᳓मिन्धे ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+that burned the wind;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ताम॒हँ समि॑न्धे ।  
-सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
+सा वा॒युँ समि॑न्धे ।
 </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I burned that;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताम॒हँ समि॑न्धे ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा᳓ मा स᳓मिद्धा ।  
+आ᳓युषा ते᳓जसा ।  
+व᳓र्चसा श्रिया᳓ ।  
+य᳓शसा ब्रह्मवर्चसे᳓न ।  
+अन्ना᳓द्येन स᳓मिन्ताँ स्वा᳓हा ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may that, being burnt, make me shine with life, brilliance, splendour, prosperity, fame[P206_5], brilliance of sacred knowledge, food etc., Hail!
+
+[P206_5]: Fame: widespread renown.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा मा॒ समि॑द्धा ।  
+आयु॑षा॒ तेज॑सा ।  
+वर्च॑सा श्रि॒या ।  
+यश॑सा ब्रह्मवर्च॒सेन॑ ।  
+अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ ।
+</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_dyaus_samit">
-<details open><summary><h5>८३ अ॒न्तरि॑क्षँ॒ स॒मित् ...{Loading}...</h5></summary>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्यौस्स॒मित् ।  
-</details>
+<details><summary>त्रिभुवनः - विनियोगः</summary>
 
-<details><summary>मूलम्</summary>
-
-द्यौस्स॒मित् ।  
+*(Mantra 2)* Offering of Udumbara wood.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तामा॑दि॒त्यस्समि॑न्धे । (83)  
-साऽऽदि॒त्यँ समि॑न्धे । 
+द्यौ᳓स्समि᳓त् ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+The heaven is the fuel;
 </details>
 
 <details><summary>मूलम्</summary>
 
-तामा॑दि॒त्यस्समि॑न्धे । (83)  
-साऽऽदि॒त्यँ समि॑न्धे । 
+द्यौस्स॒मित् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+उत्तरे व्याख्याताः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम॒हँ समि॑न्धे ।  
-सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समिन्ताँ॒ स्वाहा॑ । 
+ता᳓मादित्य᳓स्स᳓मिन्धे । (83)
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the sun burned that;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ताम॒हँ समि॑न्धे ।  
-सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समिन्ताँ॒ स्वाहा॑ । 
+तामा॑दि॒त्यस्समि॑न्धे । (83)
 </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा᳓ऽऽदित्यँ᳓ स᳓मिन्धे ।
 </details>
+
+<details><summary>त्रिभुवनः</summary>
+
+that burned the sun;
+</details>
+
+<details><summary>मूलम्</summary>
+
+साऽऽदि॒त्यँ समि॑न्धे ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता᳓महँ᳓ स᳓मिन्धे ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I burned that;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताम॒हँ समि॑न्धे ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा᳓ मा स᳓मिद्धा ।  
+आ᳓युषा ते᳓जसा ।  
+व᳓र्चसा श्रिया᳓ ।  
+य᳓शसा ब्रह्मवर्चसे᳓न ।  
+अन्ना᳓द्येन स᳓मि᳓न्ताँ स्वा᳓हा ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may that, being burnt, make me shine with life, brilliance[P205_4], splendour, prosperity, fame, brilliance of sacred knowledge and food etc., Hail!
+
+[P205_4]: Brilliance: shining light of sacred knowledge.
+: *(Mantra 2)* Offering of Udumbara wood.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा मा॒ समि॑द्धा ।  
+आयु॑षा॒ तेज॑सा ।  
+वर्च॑सा श्रि॒या ।  
+यश॑सा ब्रह्मवर्च॒सेन॑ ।  
+अ॒न्नाद्ये॑न॒ समिन्ताँ॒ स्वाहा॑ ।
+</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_prAjApatyA_me">
-<details open><summary><h5>८४ प्रा॒जा॒प॒त्या मे॑ ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒जा॒प॒त्या मे॑ स॒मिद॑सि सपत्न॒क्षय॑णी । भ्रा॒तृ॒व्य॒हा मे॑ऽसि॒ स्वाहा॑ ।
+प्राजापत्या᳓ मे समि᳓दसि सपत्नक्ष᳓यणी । भ्रातृव्यहा᳓ मेऽसि स्वा᳓हा ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+3\. You are my fuel, related to Prajāpati, destroyer of the enemies, killer of the enemy, Hail!
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रा॒जा॒प॒त्या मे॑ स॒मिद॑सि सपत्न॒क्षय॑णी । भ्रा॒तृ॒व्य॒हा मे॑ऽसि॒ स्वाहा॑ ।
 </details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्राजापत्येति ॥ प्राजापत्या प्रजापतेस्स्वभूता सपत्नक्षयणी शत्रुनाशिनी समिदसि तस्माद् भ्रातृव्यहा पाप्मनां हन्त्री भव । स्वाहा सुहुतमस्तु ॥
 </details>
+
 </div>
 
 अग्नेरुत्तरतः स्थित्वा । 
@@ -514,32 +1308,59 @@ title = "०६ प्राजापत्यादिव्रतानां 
 (अधः "का॒ण्ड॒र्षिभ्यः॑ सौ॒म्यं व्र॒तं च॑रिष्यामि इत्यूहनीयम्।)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
-<details open><summary><h5>८४ अग्ने व्रतपते ...{Loading}...</h5></summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथ देवता उपतिष्ठते - अग्ने व्रतपत इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 4)* Invitation of the gods.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ व्रतपते!
+अ᳓ग्ने व्रतपते!
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+4\. O Fire, the lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
 
 अग्ने॑ व्रतपते!
 </details>
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे अग्ने ! व्रतपते! व्रतं शुक्रियं व्रतं चरिष्यामि । तच्छकेयं कर्तुं शक्तोऽहं भवेयम् । तद् व्रतं मे राध्यतां सिद्ध्यताम् ॥
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
+
 <details><summary>संयुक्त-मूलम्</summary>
 
 वायो॑ व्रतपत॒ आदि॑त्य व्रतपते ।
@@ -547,80 +1368,115 @@ title = "०६ प्राजापत्यादिव्रतानां 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वायो॑ व्रतपते
+वा᳓यो व्रतपते
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O wind, the lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
 
 वायो॑ व्रतपते
 </details>
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ᳓दित्य व्रतपते
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Āditya, the lord of the rules,
+</details>
+
+<details><summary>मूलम्</summary>
 
 आदि॑त्य व्रतपते
 </details>
 
-<details><summary>मूलम्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-आदि॑त्य व्रतपते
-</details>
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒ताना॑व्व्ँरतपते
+व्रता᳓नाव्व्ँरतपते
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Vratapati (lord of the rules), the ruling lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
 
 व्र॒ताना॑व्व्ँरतपते
 </details>
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
-</details>
+
 </div>
 
   
@@ -631,32 +1487,59 @@ title = "०६ प्राजापत्यादिव्रतानां 
 (अधः "का॒ण्ड॒र्षिभ्यः॑ आ॒ग्ने॒यं व्र॒तं च॑रिष्यामि इत्यूहनीयम्।)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
-<details open><summary><h5>८४ अग्ने व्रतपते ...{Loading}...</h5></summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथ देवता उपतिष्ठते - अग्ने व्रतपत इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 4)* Invitation of the gods.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ व्रतपते!
+अ᳓ग्ने व्रतपते!
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+4\. O Fire, the lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
 
 अग्ने॑ व्रतपते!
 </details>
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे अग्ने ! व्रतपते! व्रतं शुक्रियं व्रतं चरिष्यामि । तच्छकेयं कर्तुं शक्तोऽहं भवेयम् । तद् व्रतं मे राध्यतां सिद्ध्यताम् ॥
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
+
 <details><summary>संयुक्त-मूलम्</summary>
 
 वायो॑ व्रतपत॒ आदि॑त्य व्रतपते ।
@@ -664,111 +1547,173 @@ title = "०६ प्राजापत्यादिव्रतानां 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वायो॑ व्रतपते
+वा᳓यो व्रतपते
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O wind, the lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
 
 वायो॑ व्रतपते
 </details>
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ᳓दित्य व्रतपते
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Āditya, the lord of the rules,
+</details>
+
+<details><summary>मूलम्</summary>
 
 आदि॑त्य व्रतपते
 </details>
 
-<details><summary>मूलम्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-आदि॑त्य व्रतपते
-</details>
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒ताना॑व्व्ँरतपते
+व्रता᳓नाव्व्ँरतपते
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Vratapati (lord of the rules), the ruling lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
 
 व्र॒ताना॑व्व्ँरतपते
 </details>
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
-</details>
+
 </div>
 
 (अधः "का॒ण्ड॒र्षिभ्यः॑ वै॒श्व॒दे॒वं व्र॒तं च॑रिष्यामि इत्यूहनीयम्।)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
-<details open><summary><h5>८४ अग्ने व्रतपते ...{Loading}...</h5></summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथ देवता उपतिष्ठते - अग्ने व्रतपत इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 4)* Invitation of the gods.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ व्रतपते!
+अ᳓ग्ने व्रतपते!
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+4\. O Fire, the lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
 
 अग्ने॑ व्रतपते!
 </details>
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे अग्ने ! व्रतपते! व्रतं शुक्रियं व्रतं चरिष्यामि । तच्छकेयं कर्तुं शक्तोऽहं भवेयम् । तद् व्रतं मे राध्यतां सिद्ध्यताम् ॥
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
+
 <details><summary>संयुक्त-मूलम्</summary>
 
 वायो॑ व्रतपत॒ आदि॑त्य व्रतपते ।
@@ -776,80 +1721,115 @@ title = "०६ प्राजापत्यादिव्रतानां 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वायो॑ व्रतपते
+वा᳓यो व्रतपते
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O wind, the lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
 
 वायो॑ व्रतपते
 </details>
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ᳓दित्य व्रतपते
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Āditya, the lord of the rules,
+</details>
+
+<details><summary>मूलम्</summary>
 
 आदि॑त्य व्रतपते
 </details>
 
-<details><summary>मूलम्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-आदि॑त्य व्रतपते
-</details>
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒ताना॑व्व्ँरतपते
+व्रता᳓नाव्व्ँरतपते
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Vratapati (lord of the rules), the ruling lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
 
 व्र॒ताना॑व्व्ँरतपते
 </details>
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</details>
 </div>
-</details>
+
 </div>
 
 [[114]]

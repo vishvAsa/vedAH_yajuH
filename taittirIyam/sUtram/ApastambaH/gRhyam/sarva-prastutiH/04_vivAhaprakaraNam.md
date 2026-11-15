@@ -5670,13 +5670,22 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 6अथ 'यः प्रजाकामः पशुकामस्स्यात्स एतं प्राजापत्यमजं तूबरमालभेत' इत्यस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - 
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
+<details open><summary><h16>विश्वास-प्रस्तुतिः …{Loading}…</h16></summary>
 
 प्र᳓जापते न᳓ त्व᳓द् +++(विश्वा जातानि→)+++ एता᳓न्य् अन्यो᳓  
 वि᳓श्वा जाता᳓नि **प᳓रि** ता᳓ **बभूव** ।  
 य᳓त्-कामास् ते जुहुम᳓स् त᳓न् नो **अस्तु**  
 वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म्॥
+</details>
+</div>
 
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/121/10_prajApate_na.md">
+<details><summary><h16>मूलम् …{Loading}…</h16></summary>
+
+प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव ।  
+यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
@@ -6037,12 +6046,12 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-प्रजा॑पते॒ न त्वदे॒तान्य॒न्यः ।  
-विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव ।  
-यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु ॥ 2 ॥  
-व॒यँ स्या॑म॒ पत॑यो रयी॒णाम् ।  
+प्र᳓जापते न᳓ त्व᳓देता᳓न्यन्यः᳓ ।  
+वि᳓श्वा जाता᳓नि प᳓रि ता᳓ बभूव ।  
+य᳓त्कामास्ते जुहुम᳓स्त᳓न्नो अस्तु ॥ 2 ॥  
+वयँ᳓ स्याम प᳓तयो रयीणा᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6058,7 +6067,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 2अथ वपाया याज्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
 <details open><summary><h18>विश्वास-प्रस्तुतिः …{Loading}…</h18></summary>
 
 रयीणा᳓म् प᳓तिय्ँ **यजत᳓म्**+++(=यजनीयम्)+++ बृह᳓न्तम् ।  
@@ -6091,7 +6100,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 8अथ पुरोडाशस्य पुरोनुवाक्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
 <details open><summary><h18>विश्वास-प्रस्तुतिः …{Loading}…</h18></summary>
 
 प्र᳓जा-पते त्व᳓न् निधि-**पाᳶ᳓** पुराणः᳓ ।  
@@ -6124,7 +6133,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 9अथ पुरोडाशस्य याज्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
 <details open><summary><h18>विश्वास-प्रस्तुतिः …{Loading}…</h18></summary>
 
 त᳓वेमे᳓ लोकाᳶ᳓ प्रदि᳓शो दि᳓शश् च ॥ 3 ॥  
@@ -6157,7 +6166,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 10अथ हविषः पुरोनुवाक्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
 <details open><summary><h18>विश्वास-प्रस्तुतिः …{Loading}…</h18></summary>
 
 प्रजा᳓पतिम् प्रथमय्ँ᳓ यज्ञि᳓यानाम् ।  
@@ -6190,7 +6199,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 11अथ हविषो याज्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
 <details open><summary><h18>विश्वास-प्रस्तुतिः …{Loading}…</h18></summary>
 
 यो᳓ राय᳓ **ई᳓शे** शतदाय᳓ उक्थ्यः᳙ ।   
@@ -6322,9 +6331,24 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 > काण्डऋषिभ्यः {प्राजापत्यं} व्रतं चरिष्यामि, तच् छकेयं, तन् मे राध्यताम्," (तै.आ. ४-४१-३.) 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथ देवता उपतिष्ठते - अग्ने व्रतपत इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 4)* Invitation of the gods.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ व्रतपते!
+अ᳓ग्ने व्रतपते!
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+4\. O Fire, the lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6332,14 +6356,26 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 अग्ने॑ व्रतपते!
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details><summary>भट्टभास्कर-टीका</summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+हे अग्ने ! व्रतपते! व्रतं शुक्रियं व्रतं चरिष्यामि । तच्छकेयं कर्तुं शक्तोऽहं भवेयम् । तद् व्रतं मे राध्यतां सिद्ध्यताम् ॥
+</details>
 
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h18>विश्वास-प्रस्तुतिः …{Loading}…</h18></summary>
+
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+
+</details>
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
@@ -6354,7 +6390,12 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वायो॑ व्रतपते
+वा᳓यो व्रतपते
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O wind, the lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6362,14 +6403,21 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 वायो॑ व्रतपते
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h18>विश्वास-प्रस्तुतिः …{Loading}…</h18></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
+</details>
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
@@ -6379,7 +6427,12 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आदि॑त्य व्रतपते
+आ᳓दित्य व्रतपते
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Āditya, the lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6387,14 +6440,21 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 आदि॑त्य व्रतपते
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h18>विश्वास-प्रस्तुतिः …{Loading}…</h18></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
+</details>
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
@@ -6404,7 +6464,12 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒ताना॑व्व्ँरतपते
+व्रता᳓नाव्व्ँरतपते
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Vratapati (lord of the rules), the ruling lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6412,14 +6477,21 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 व्र॒ताना॑व्व्ँरतपते
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h18>विश्वास-प्रस्तुतिः …{Loading}…</h18></summary>
 
-(…) व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
+</details>
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
@@ -6456,7 +6528,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 7अथ 'वैश्वदेवं बहुरूपमालमेतान्नकामः' इत्यस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 आ᳓ नो वि᳓श्वे +++(अभि=)+++अ᳓स्क्रा **ऽऽगमन्तु** देवाः᳓ ।  
 मित्रो᳓ अर्यमा᳓ व᳓रुणस् स-जो᳓षाः ।   
@@ -6483,7 +6555,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 8अथ वपाया याज्यामाह - 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 श᳓न् नो देवा᳓ विश्व᳓-देवा **भवन्तु** ।  
 शँ᳓ स᳓रस्वती सह᳓ धीभि᳓र् अस्तु ॥ 42 ॥  
@@ -6509,7 +6581,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 9अथ पुरोडाशस्य पुरोनुवाक्यमाह - 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 ये᳓ सवितु᳓स् सत्य᳓-**सवस्य** वि᳓श्वे ।     
 मित्र᳓स्य व्रते᳓ व᳓रुणस्य देवाः᳓ ।  
@@ -6535,7 +6607,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 10अथ पुरोडाशस्य याज्यामाह - 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ᳓ग्ने **याहि᳓** दूत्यव्ँ᳙ वा᳓ **ऽरिषेण्यः** ।  
 देवाँ᳓ अ᳓च्छा ब्रह्म-कृ᳓ता गणे᳓न ।  
@@ -6561,7 +6633,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 11अथ हविषः पुरोनुवाक्यामाह - 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 द्यौᳶ᳓ पितᳶ पृ᳓थिवि मा᳓तर् अ᳓-ध्रुक+++(←द्रुह्)+++ ।  
 अ᳓ग्ने भ्रातर् वसवो **मृड᳓ता** नः ।  
@@ -6587,7 +6659,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 12अथ हविषो याज्यामाह - 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वि᳓श्वे देवाश् **शृणुते᳓मँ᳓ ह᳓वम्** मे ।   
 ये᳓ अन्त᳓रिक्षे य᳓ उ᳓प द्य᳓वि ष्ठ᳓ ।  
