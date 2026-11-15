@@ -1,12 +1,19 @@
 +++
 title = "११-१२ सहस्रशीर्षम्"
 +++
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
 अत्र कृत्रिमस्वरा हि राजन्ते मुद्रितग्रन्थेषु। पद्यगानम् इव गृहीतुम् उचितम्।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/02_sahasrashIrShan_devav.N.md">
+<details><summary>भट्टभास्करः - अवतारिका</summary>
+
+सहस्त्रशीर्षमित्याद्याः पञ्चानुष्टुभः ॥ तत एका द्विपदा । शिष्टं ब्राह्मणमानुष्टुभम् । अन्ते एका द्विपदा ।  
+अत्रापि परमात्मा स्तूयते
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/02_sahasrashIrShan_devav.N.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -22,10 +29,22 @@ title = "११-१२ सहस्रशीर्षम्"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/02_sahasrashIrShan_devav.N.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+(All beings are dependant) upon the god having hundred heads, all over eyes, producer of all propitiation, all, Narayana, immortal and great lord.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒ह॒स्र॒शीर्॑षन्दे॒वव्ँ॒ वि॒श्वाक्ष॑व् विँ॒श्वशं॑भुवम् ।  
 विश्व॑न्ना॒राय॑णन्दे॒व॒म॒क्षरं॑ पर॒मं प्र॒भुम् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सहस्रशीर्षं बहुशिरस्कं सर्वत्र शिरःकार्यसम्भवाद् बहुप्रकारशिरस्कत्वात् तादृशं देवं 'विश्वमुपजीवति' इति वक्ष्यमाणेनान्वीयते । तस्मात् तमेव स्तुम इति शेषः । विश्वाक्षं विश्वत्राक्षिकार्यवन्तम् । विश्वान्य् अक्षीणि प्रजासम्बन्धीनि इन्द्रियाण्य् अस्य अक्षीणि इन्द्रियाणि ॥  
+वर्णान्यत्वं स्वरान्यत्वं पञ्चप्रश्नेषु दृश्यते ।  
+इति स्वरव्यत्ययस्सर्वत्र द्रष्टव्यः । विश्वशम्भुवं विश्वस्य शं सुखं तस्य भावयितारं सर्वांशेऽप्यस्य आनन्दरूपत्वात् तादृशम् । विश्वं विश्वत्वेन स्थितं नारायणम् । 'नृ नये' पचाद्यच् । नरः नेता सर्वस्य स्वामी तस्य स्वभूताः पशवो नारास् तेषाम् अयनम् उपादानं नारायणम् । 'पूर्वपदात्सञ्ज्ञायामगः' इति णत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वेन लित्स्वरः । देवं देवनशीलं द्योतमानं, सदा अक्षरं परमं परमव्यापकम् । अशेस्सरन्प्रत्यये अक्षरम् । प्रभुं प्रथमतस्सम्भूतं सर्वप्रपञ्चभरणक्षमं वा ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -55,7 +74,7 @@ _____________________________________________________
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/03_vishvataH_paraman.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/03_vishvataH_paraman.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -71,10 +90,20 @@ _____________________________________________________
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/03_vishvataH_paraman.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+Purusa (Person) is all this; all beings are dependant upon him, who is better than all, eternal, all, Narayana and Hari.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्वतः॒ पर॑मन्नि॒त्यव्ँ॒ वि॒श्वन्ना॑राय॒णँ ह॑रिम् ।  
 विश्व॑मे॒वेदं पुरु॑ष॒स्तद्विश्व॒मुप॑जीवति ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विश्वतः प्रजापत्यादेरपि परमं प्रकृष्टं नित्यं ध्रुवं विश्वं प्रपञ्चरूपमतीत्य स्थितम् अव्यक्तावस्थं ध्रुवं देवमिति नारायणं नराणां गन्तव्यम् । 'अनो भावकर्मवचने ' इत्युत्तरपदान्तोदात्तत्वम् । हरिं ह्रियते उपसंह्रियतेऽस्मिन् विश्वमित्य् अधिकरणे इन्प्रत्ययः । इदं विश्वं पुरुष एव पूरयिता पुरुषस् तत् तस्माद् विश्वं जगत् पुरुषम् उपजीवत्य् आत्मानं लभते तत्परिणामत्वाद्विश्वस्य ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -89,7 +118,7 @@ _____________________________________________________
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/04_pativ.N_vishvasyAtmeshvaram.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/04_pativ.N_vishvasyAtmeshvaram.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -105,10 +134,20 @@ _____________________________________________________
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/04_pativ.N_vishvasyAtmeshvaram.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+(All beings are dependant) upon the lord of all, Atman, lord, eternal, auspicious, non-movable, Narayana, great knowledge, Atman of all, having great home (Parayana).
+</details>
+
 <details><summary>मूलम्</summary>
 
 पतिव्ँ॒ विश्व॑स्या॒त्मेश्व॑रँ॒ शाश्व॑तँ शि॒वम॑च्युतम् ।  
 ना॒राय॒णं म॑हाज्ञे॒यव्ँ॒ वि॒श्वात्मा॑नं प॒राय॑णम् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+पतिं पातारं विश्वस्य । पातेर्डतिः । आत्मेश्वरं क्षेत्रज्ञानामीश्वरं तद्भरणक्षमं तत्परिणामत्वात् तेषाम् । शाश्वतम् अविनाशं शिवं शान्तोपद्रवं क्षतिरहितं नारायणं नारा एव अयनम् आश्रयो यस्य 'तत्सृष्ट्वा । तदेवानुप्राविशत्' इति तद्रूपेणैव विज्ञेयं महाज्ञेयं सर्वज्ञेयसमष्टिभूतम् । यद्वा - प्रशस्तं ज्ञेयम् अपवर्गहेतुत्वात् । विश्वात्मानं विश्वमेव आत्मा शरीरं यस्य परायणं प्रकृष्टं गन्तव्यं तादृशं विश्वमुपजीवतीति ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -122,7 +161,7 @@ _____________________________________________________
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/05_nArAyaNaparaM_brahma.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/05_nArAyaNaparaM_brahma.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -138,10 +177,20 @@ _____________________________________________________
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/05_nArAyaNaparaM_brahma.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+Narayana is great Brahman; Narayana is great essence; Narayana is great light, Narayana is great Atman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ना॒राय॒णप॑रं ब्र॒ह्म॒ त॒त्वन्ना॑राय॒णः प॑रः ।  
 ना॒राय॒णप॑रो ज्यो॒ति॒रा॒त्मा ना॑राय॒णः प॑रः ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+नारायणपरतन्त्रं ब्रह्मपरं तद्भावापेक्षितत्वात् प्रपञ्चसृष्टेः । तत् कथमित्याह - तत्त्वं पृथिव्यन्तं सर्वं तत्त्वजातं नारायणः परः परतत्त्वात्मा नारायण एव तत्परिणामत्वाज् जगतः । तस्मान् मृत्परतन्त्रः कुलाल इव नारायणपरं ब्रह्मेति । एवमचिदुपादानत्वं परमात्मन उक्तम् । इदानीं चेतनानामप्ययमेवोपादानमिति दर्शयति - नारायणपरतन्त्रः ज्योतिर् द्योतमानः प्रकाशस्वभाव आत्मा विज्ञानात्मा तद्विष्फुलिङ्गत्वात् क्षेत्रज्ञानाम् । तस्मात् तत्परतन्त्रा आत्मानस् तद्भावे भावान् मृत्परतन्त्रा इव घटादयः । कथमित्याह - नारायणः परः नारायणो हि परमश्चेतनः सर्वचेतनानां समष्टिः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -163,7 +212,7 @@ _____________________________________________________
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/06_yachcha_kinchij.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/06_yachcha_kinchij.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -179,10 +228,20 @@ _____________________________________________________
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/06_yachcha_kinchij.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+Whatever world is seen or heard, Narayana stands pervading that all inwardly and outwardly.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यच्च॑ कि॒ञ्चिज्ज॑गत्य॒स्मि॒न्दृ॒श्यते॑ श्रूय॒तेऽपि॑ वा ।  
 अन्त॑र्ब॒हिश्च॑ तत्स॒र्व॒व्व्ँया॒प्य ना॑राय॒णस्स्थि॑तः ।(25)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+यच्च किञ्चिद् यत्किञ्चिदपि पदार्थजातं चेतनमचेतनं वा अस्मिन् जगति, परिणते प्रपञ्चे दृश्यते वा श्रूयते वा अन्तर्बहिश्च अन्तरिस्थतं वा बुद्ध्यादि बहिस्स्थितं वा घटादि तत्सर्वं व्याप्य स्थितो नारायणः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -202,7 +261,12 @@ _____________________________________________________
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/07_anantam_avyaya~N.md">
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अनन्तमिति ॥ इयं द्विपदा गायत्री ॥
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/07_anantam_avyaya~N.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -218,10 +282,22 @@ _____________________________________________________
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/07_anantam_avyaya~N.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+(Worship that) infinite, non-decreasing, poet, (living) in the middle of the sea, producing all propitiation, like the sheath of the lotus, the heart having its mouth belowward.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन॑न्त॒मव्य॑यङ्क॒विँ स॑मु॒द्रेन्तव्ँ॑ वि॒श्वशं॑भुवम् ।  
 प॒द्म॒को॒शप्र॑तीका॒शँ॒ हृ॒दय॑ञ्चाप्य॒धोमु॑खम् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अनन्तम् अपरिच्छिन्नम् अव्ययं नव्येतीत्यव्ययं व्ययरहितं कविं मेधाविनं समुद्रे समुद्द्रवन्त्यस्मादिन्द्रियाणीति समुद्रो हृदयावकाशःस् तत्र स्थितम् अन्तं समस्ताध्वसमाप्तिस्थानं विश्वशम्भुवं व्यख्यातम् । ईदृशमिमं देवं विश्वमुपजीवतीति ॥
+
+पद्मकोशेत्यादि ॥ पद्मकोशप्रतीकाशं पद्ममुकुळसङ्काशं स्थानं पद्मकोशवत् प्रकाशते हृदयं हृदयकोशम् आधेयापेक्षया समुच्चयार्थश्चशब्दः । 'दह्रं विपाप्मं'105 इत्यत्र यत् स्वरूपेण प्रतिज्ञातम् उपासनस्थानम् उपासितव्यं च तत्र उपासितव्यं वर्णितमित्य् अनन्तरमुपासनास्थानं हृदयं च वर्णयाम इत्यर्थः । अपि च - इदं स्थानम् अधोमुखम् अवाञ्मुखं व्यवहारकाले तन्निवृत्तावूर्ध्वमुखं विकसति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -247,7 +323,7 @@ _____________________________________________________
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/08_adho_niShTyA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/08_adho_niShTyA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -263,10 +339,20 @@ _____________________________________________________
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/08_adho_niShTyA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+Which stands below the gland of the throat, above the navel, crossing the distance of twelve fingers, that should be known as the heart, the great home of the all (world).
+</details>
+
 <details><summary>मूलम्</summary>
 
 अधो॑ नि॒ष्ट्या वि॑तस्त्या॒न्तु॒ ना॒भ्यामु॑परि॒ तिष्ठ॑ति ।  
 हृ॒दय॑न्तद्वि॑जानी॒या॒द्वि॒श्वस्या॑यत॒नं म॑हत् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ कुत्रेदं स्थानमित्याह - अधो ऽधस्तान् निष्टया निष्ट्याया निष्ट्यानाम स्थानं ध्वनेर् ग्रीवावन्धनम् । स्त्यायतेर्निपूर्वात् 'आतश्चोपसर्गे' इत्यङ् । 'सुपां मुलुक्' इत्याकारः । अधस्तात् कियति प्रदेश इत्याह - वितस्त्यां तु वितस्तिप्रमाणपरिमिते वितस्तिर् मध्यमाङ्गल्या विशेषः । स च पूर्वोक्तस्य स्थानस्यायमपि विशेषः यन् निष्ट्याया अधस्ताद् वितस्त्यन्ते तिष्ठतीति । नाभ्यामुपरीति नाभ्या उपरि वितस्त्यां त्वित्येव । विभक्तिव्यत्ययः । नाभ्यां वा स्थित्वा उर्ध्वं मीयमाने वितस्त्यां तिष्ठतीति तत्स्थानमिति हृदयं तद् इति तद् एतद्धृदयं विश्वस्यायतनं स्थानं विजानीयान् महद् असङ्कुचितं विश्वस्यासङ्कुचितवासस्थानं विजानीयाद् विश्वात्मनः परमात्मनस्स्थानत्वात् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -293,7 +379,7 @@ _____________________________________________________
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/09_santataM_sirAbhis.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/09_santataM_sirAbhis.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -309,10 +395,20 @@ _____________________________________________________
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/09_santataM_sirAbhis.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+Which hangs by the nerves like the unblown lotus; in the middle of that there is a minute hole; in that everything has been established.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्त॑तँ सि॒राभि॑स्तु॒ लंब॑त्याकोश॒सन्नि॑भम् ।  
 तस्यान्ते॑ सुषि॒रँ सू॒क्ष्मं तस्मि॑न्त्स॒र्वं प्रति॑ष्ठितम् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सन्ततं समन्ताद्विधृतं सिराभिर् लम्बति प्रलम्बते । तुशब्दः पूर्ववद्विशेषे । आकोशसन्निभम् ईषत्कोशसदृशं लम्बते विश्वस्यायतनं विजानीयात् । तस्यान्त इति तस्य पद्मकोशस्य अन्ते मध्ये सुषिरं छिद्रं सूक्ष्मं स्वल्पप्रमाणं विद्यते हृदयाकाशाख्यं तस्मिन् सुषिरे सर्वं जीवात्मप्रभृति चेतयमानपदार्थजातं प्रतिष्ठितं निश्चलं तिष्ठति ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -331,7 +427,7 @@ _____________________________________________________
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/10_tasya_maddhye.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/10_tasya_maddhye.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -347,10 +443,20 @@ _____________________________________________________
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/10_tasya_maddhye.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+In the middle of that is that great fire, having all rays, all round mouth, the first eater, the distributer of the food.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य॒ मद्ध्ये॑ म॒हान॑ग्निर्वि॒श्वार्चि॑र्वि॒श्वतो॑मुखः ।  
 सोऽग्र॑भु॒ग्विभ॑जन्ति॒ष्ठ॒न्नाहा॑रमज॒रः क॒विः ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्य सुषिरस्य मध्ये महानग्निर् ज्वलति वैश्वानरः विश्वार्चिर् विश्वतः प्रसरज्ज्वालः विश्वतोमुखः विश्वावकाशोदीर्णमुखसामर्थ्यः । सोऽग्रभुक् सोऽग्निः स्वम् आश्रयं देहं सन्तापयत्य् उष्णं करोति । भुक्तस्य जरयितेत्यभिप्रायः । कविः क्रान्तदर्शनः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -382,7 +488,7 @@ _____________________________________________________
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/11_santApayati_svan.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/11_santApayati_svan.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -398,10 +504,20 @@ _____________________________________________________
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/11_santApayati_svan.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+That heats his own body from the foot to the head; in the middle of that there is the flame of the fire, like an atom and having its face above.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒न्ता॒पय॑ति स्वन्दे॒हमापा॑दतल॒मस्त॑कम् ।  
 तस्य॒ मद्ध्ये॒ वह्नि॑शिखा अ॒णीयो॑र्द्ध्वा व्य॒वस्थि॑तः ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्य मध्ये इति । तस्य अग्नेर् मध्ये वह्निशिखासदृशो जीवो व्यवस्थितः । यद्वा - वह्निशिखा जीवप्रभा वहतीति वह्निर् जीवः सा व्यवस्थितः । लिङ्गव्यत्ययः । कीदृशो जीवः - अणीयोऽर्ध्वा । रेफोपजनश्छान्दसः । अणीयो ऽध्वा मार्गो यस्य तादृशो ऽणुतरस्वभाव इति भावः । यद्वा - कीदृशी वह्निशिखेत्याह । अणीयोर्ध्वा अणीयसामूर्ध्वभूता नातः परमणीयोऽस्ति । यलोपमाश्रित्य गुणः क्रियते । पुनश्च वह्निर्विशेष्यते - नीलतोयदमध्यस्था सजलजलदमध्यवर्तिनी विद्युल्लेखा परभागलाभेन यथा भास्वरा दीप्ततरा भवति तादृशी इयं वह्निशिखा भवति । व्यवहारकाले निमीलितपरतत्त्वानां प्रपञ्चोन्मीलनेन महामोहतमोमध्यवर्तिनी जीवप्रभा अतीव सङ्कुचिता मलिनेव भवति । व्यवहारनिवृत्तौ उन्मीलितपरतत्त्वानां प्रपञ्चनिमीलनेन महामोहनिवृत्तौ अनवच्छिन्ननिर्मलात्मभावोपपत्तिर्भवतीति ||
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -415,7 +531,7 @@ _____________________________________________________
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/12_nIlatoyadamadhyasthA_vidyullekheva.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/12_nIlatoyadamadhyasthA_vidyullekheva.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -431,10 +547,23 @@ _____________________________________________________
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/12_nIlatoyadamadhyasthA_vidyullekheva.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+That is shining like the line of the lightning among the blue clouds, that is least like the tail of the Nivara corn, yellow, shining and the simile for an atom.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नी॒लतो॑यद॑मद्ध्य॒स्था॒ वि॒द्युल्ले॑खेव॒ भास्व॑रा ।  
 नी॒वार॒शूक॑वत्त॒न्वी॒ पी॒ताभा॑स्यात्त॒नूप॑मा ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+नीवारशुकवत्तन्वी तनुप्रमाणा पीताभा पीतवर्णा तप्तकाञ्चनदीप्तिः । किञ्च - स्यात् तनूपमा स्यादियं तनूनामुपमा तनूनि वस्तून्य् अनया उपमीयन्ते परमतनुत्वाद् अस्याः । यथा -  
+वालाग्रशतभागस्य शतधा कल्पितस्य च ।  
+भागो जीवस्स विज्ञेयः स चानन्त्याय कल्पते ॥  
+इति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -448,7 +577,12 @@ _____________________________________________________
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/13_tasyAsh_shikhAyA.md">
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+स ब्रह्मेति द्विपदा ॥
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/13_tasyAsh_shikhAyA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -464,10 +598,22 @@ _____________________________________________________
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/13_tasyAsh_shikhAyA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+In the middle of that flame the God resides; He is Brahma, He is Siva, He is Indra, He is Aksara (non-destroyable) the Great Self-King.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्या॑श्शिखा॒या म॑द्ध्ये प॒रमा॑त्मा व्य॒वस्थि॑तः ।  
 स ब्रह्मा॒ स शिव॒स्सेन्द्र॒स्सोऽक्ष॑रः पर॒मस्स्व॒राट् ।। (26)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्यास् तादृश्या वह्निशिखाया मध्ये परमात्मा आत्मप्रकृतिभूतो नारायणो व्यवस्थितः, जीवानुरोधेन सङ्कुचितस्तिष्ठति ॥
+
+स एव ब्रह्मा स एव स्रष्टा स एव शिवः रुद्रः स एव इन्द्रः देवराजः स एव अक्षरः क्षरणरहितः परमः प्रकृष्टः स्वराट् स्वे महिम्नि सदा राजमानः स्वतन्त्रो देवः सर्वस्य हेतुरीश्वरः । सर्वोपलब्धिस्थानत्वाद् अस्य परमात्मप्रदेशस्य तद्भावेनास्य स्तुतिः । एवमीदृग्गुणं परमात्मलक्षणं ब्रह्म विदित्वा सर्वमेव मन्त्रब्राह्मणविहितद्रव्यदेवताकर्मजातमत्रैव परमात्मन्य् उपसंहृत्य मनस्सम्प्रतिष्ठाप्य उपासनां कुर्वन् परं ब्रह्म आप्नोति ॥
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -545,7 +691,13 @@ ________________________
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/14_RtaM_satyam.md">
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+कीदृशं पुनस्तत्प्राप्यं ब्रह्मेत्याह - ऋतमित्य् अनुष्टुप् ॥  
+'तस्मै नमः' इति दर्शनात् प्रजापशुविद्याविभूतिकामानाम् अपवर्गार्थिनां च जपोपासनहोमादिष्व् अयं विनियुज्यते ॥
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/14_RtaM_satyam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -561,10 +713,20 @@ ________________________
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/14_RtaM_satyam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+Salutation to Ṛta (settled order), truth, great Brahma, Purusa, yellow and black, having semen above, having irregular eye and having all forms.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तँ स॒त्यं प॑रं ब्र॒ह्म॒ पु॒रुषं॑ कृष्ण॒पिङ्ग॑लम् ।  
 ऊ॒र्ध्वरे॑तं वि॑रूपा॒क्षं॒ वि॒श्वरू॑पाय॒ वै नमो॒ नमः॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+मानस तथ्यम् ऋतम् । वाचिकं सत्यम् । उभयविपर्यासरहितम् । यद्वा - ऋतमिति सौत्रो धातुर् घृणायां वर्तते । ऋतीयते विश्वमनुगृह्णाति इत्यृतं शिवैकस्वरूपम् । इगुपधलक्षणः कः । 'आयादय आर्धधातुके वा' इत्य् ऋतेरियङ्न क्रियते । सति साधु सत्यम् । सते वा हितम् । स्यामिति व्यामिश्रकं सङ्कल्पप्रभवं परस्य रूपं सत् । तेन विश्वमनुगृह्णातीति । तादृशं परं सर्वस्मादुत्कृष्टं विश्वोत्तीर्णं ब्रह्म परिवृढं वस्तु पुरुषं पूरकं पालकं वा सर्वस्य चेतयमानं वा कृष्णपिङ्गलं देहपरिजिघृक्षायां स्त्रीपुंसशबलाकारं परशक्त्यविनाभूतं वा । केचिदाहुः - कृष विलेखने । कर्षणीया योनिः कृष्णा । पिजि हिंसादौ । पिञ्जनशीलं पिङ्गलं तदुभयभावेन जगद्वृद्धिक्षयं कुर्वाणम् । ऊर्ध्वरेतं स्वयं तु सर्वदा सन्दीप्ततपस्कं यद्वा - रेतोभ्यो विकारेभ्य ऊर्ध्ववर्ति विश्वविकारोत्तीर्णम् । छान्दसस्सकारलोपः । विरूपाक्षं विलक्षण लोचनम् ईदृशं परं ब्रह्म भवति । तस्मै विश्वरूपाय नमः विश्वत्वेन स्थितं तदेव रूपं रूपणस्थानं यस्य जगदनुग्रहार्थे विश्वरूपतां च दधते तस्मै नमः । प्रह्वीभावं कुर्मः । वैशब्दः साम्प्रतिकार्थः - इदं हि युक्तमिति ।
 </details>
 
 <details><summary>सायण-टीका</summary>

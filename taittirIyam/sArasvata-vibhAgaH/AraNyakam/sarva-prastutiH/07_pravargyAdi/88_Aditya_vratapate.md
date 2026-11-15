@@ -7,6 +7,11 @@ title = "८८ आदित्य व्रतपते"
 आदित्येत्याद्य् उपस्थानमन्त्राः । व्रतानामिति चतुर्थः ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 5)* Repetitions of the first three Mantras.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓दित्य व्रतपते
@@ -159,9 +164,7 @@ I followed the rules;
 
 <details><summary>त्रिभुवनः</summary>
 
-I could follow that, that was increased for me (7).[P205_r5]
-
-[P205_r5]: *(Mantra 5)* Repetitions of the first three Mantras.
+I could follow that, that was increased for me (7).
 </details>
 
 <details><summary>मूलम्</summary>

@@ -7,10 +7,15 @@ title = "०१ नमो॑ वा॒चे"
 अथ शौक्रियं काण्डमारभ्यते । आरण्यकत्वाद् अस्मिन्प्रदेशे मन्त्रब्राह्मगयोराम्नानम् । उभयं सोमार्षेयम् । तत्रादौ शान्तिमुपयन्ति - नमो वाच इति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 1–7)* Propitiatory Mantras. (From 1 to 7).
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वाचे᳓ या᳓ चोदिता᳓ या᳓ चा᳓नुदिता  
-त᳓स्यै वाचे᳓ न᳓मो  
+त᳓स्यै वाचे᳓ न᳓मो
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -21,7 +26,7 @@ title = "०१ नमो॑ वा॒चे"
 <details><summary>मूलम्</summary>
 
 नमो॑ वा॒चे या चो॑दि॒ता या चानु॑दिता॒  
-तस्यै॑ वा॒चे नमो॒  
+तस्यै॑ वा॒चे नमो॒
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -116,9 +121,7 @@ may not the seers, the makers of the Mantras, the lords of the Mantras disobey m
 
 <details><summary>त्रिभुवनः</summary>
 
-may I not disobey the seers, the makers of the Mantras, the lords of the Mantras.[P175_r1_7]
-
-[P175_r1_7]: *(Mantras 1–7)* Propitiatory Mantras. (From 1 to 7).
+may I not disobey the seers, the makers of the Mantras, the lords of the Mantras.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -134,7 +137,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वै᳓श्व᳓देवीव्ँ᳓ वा᳓चमुद्यासँ
-शिवा᳓म् अ᳓दस् तां जु᳓ष्टान् देवे᳓भ्यः  
+शिवा᳓म् अ᳓दस् तां जु᳓ष्टान् देवे᳓भ्यः
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -145,7 +148,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 <details><summary>मूलम्</summary>
 
 वैश्वदे॒वीव्ँ वाच॑मुद्यासँ
-शि॒वामद॑स्तां॒ जुष्टा॑न् दे॒वेभ्यः॒…  
+शि॒वामद॑स्तां॒ जुष्टा॑न् दे॒वेभ्यः॒…
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -153,11 +156,16 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 किञ्च - वैश्वदेवीं विश्वेषां देवानां सम्बन्धिनीं तेभ्यो हितत्वात् तादृशीमेव वाचम् उद्यासं वदितुं समर्थो भूयासं शिवां सुखहेतुम् अदस्ताम् अनुपक्षीणां देवेभ्यो जुष्टां प्रियम् ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+शर्म मे द्यौरित्य् अनुष्टुप् ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श᳓र्म मे द्यौ᳓श्, श᳓र्म पृथिवी᳓, श᳓र्म वि᳓श्वम् इदं᳓ ज᳓गत् ।  
 श᳓र्म चन्द्र᳓श् च सू᳓र्यश् च,  
-श᳓र्म ब्रह्म--प्रजा-पती᳓ ।  
+श᳓र्म ब्रह्म--प्रजा-पती᳓ ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -168,12 +176,12 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 <details><summary>मूलम्</summary>
 
 शर्म॑ मे॒ द्यौश्, शर्म॑ पृथि॒वी, शर्म॒ विश्व॑मि॒दं जग॑त् ।  
-शर्म॑ च॒न्द्रश्च॒ सूर्य॑श्च॒, शर्म॑ ब्रह्मप्रजाप॒ती ।  
+शर्म॑ च॒न्द्रश्च॒ सूर्य॑श्च॒, शर्म॑ ब्रह्मप्रजाप॒ती ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-शर्म मे द्यौरित्य् अनुष्टुप् ॥ द्युप्रभृतयोऽधुना शर्म सुखहेतवो भवन्तु मे तादृशीं वाचं वदतः ब्रह्मा स्रष्टा प्रजापतिः परमात्मा तावुभौ शर्म यच्छताम् ॥
+द्युप्रभृतयोऽधुना शर्म सुखहेतवो भवन्तु मे तादृशीं वाचं वदतः ब्रह्मा स्रष्टा प्रजापतिः परमात्मा तावुभौ शर्म यच्छताम् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -181,7 +189,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 भूतव्ँ᳓ वदिष्ये, भु᳓वनव्ँ वदिष्ये,  
 ते᳓जो वदिष्ये, य᳓शो वदिष्ये,  
 त᳓पो वदिष्ये, ब्र᳓ह्म वदिष्ये,  
-सत्यव्ँ᳓ वदिष्ये,  
+सत्यव्ँ᳓ वदिष्ये,
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -191,7 +199,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>मूलम्</summary>
 
-भू॒तव्ँ व॑दिष्ये॒, भुव॑नव्ँ वदिष्ये॒, तेजो॑ वदिष्ये॒, यशो॑ वदिष्ये॒, तपो॑ वदिष्ये॒, ब्रह्म॑ वदिष्ये, स॒त्यव्ँ व॑दिष्ये॒,  
+भू॒तव्ँ व॑दिष्ये॒, भुव॑नव्ँ वदिष्ये॒, तेजो॑ वदिष्ये॒, यशो॑ वदिष्ये॒, तपो॑ वदिष्ये॒, ब्रह्म॑ वदिष्ये, स॒त्यव्ँ व॑दिष्ये॒,
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -295,6 +303,11 @@ may Prāṇa and Apāna do not leave me.
 Of honey shall I think, honey shall I produce, honey shall I proclaim, honey shall I speak,
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I will think the honey (Pravargya), I will produce the honey, I will speak the honey;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मधु॑ मनिष्ये ।  
@@ -322,6 +335,11 @@ Of honey shall I think, honey shall I produce, honey shall I proclaim, honey sha
 <details><summary>Keith</summary>
 
 may I utter speech full of honey for the gods, and acceptable to men.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may I speak the honeyful (sweet) speech for the gods, well-hearing for the men (fathers);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -353,6 +371,11 @@ may I utter speech full of honey for the gods, and acceptable to men.
 May the gods aid me to radiance, may the Pitrs rejoice in me.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+may the gods protect me as such, may the fathers also please me for the sake of beauty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम्मा॑ दे॒वा अ॑वन्तु शो॒भायै॑ ।
@@ -373,19 +396,9 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 
 </div>
 
-<details><summary>त्रिभुवनः</summary>
-
-7\. I will think the honey (Pravargya), I will produce the honey, I will speak the honey; may I speak the honeyful (sweet) speech for the gods, well-hearing for the men (fathers); may the gods protect me as such, may the fathers also please me for the sake of beauty.
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-मधु मनिष्ये इत्यादि व्याख्यातं ; 'वायुर्हिङ्कर्ता' इत्यत्र ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं᳓ शा᳓न्तिश्शा᳓न्तिश्शा᳓न्तिः ॥ 
+ओं᳓ शा᳓न्तिश्शा᳓न्तिश्शा᳓न्तिः ॥
 </details>
 
 <details><summary>त्रिभुवनः</summary>

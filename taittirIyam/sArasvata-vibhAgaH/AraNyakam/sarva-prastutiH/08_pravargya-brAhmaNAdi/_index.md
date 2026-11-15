@@ -4,17 +4,14 @@ unicode_script = "devanagari"
 
 +++
 
-
-<details><summary>भास्करोक्त-विनियोगः</summary>
+<details><summary>भट्टभास्करः - अवतारिका</summary>
 
 तैत्तिरीयारण्यके अष्टमः प्रपाठकः ॥
 </details>
 
-<details><summary>त्रिभुवनः</summary>
+<details><summary>त्रिभुवनः - अवतारिका</summary>
 
-> *Note:* Brāhmaṇas of the Mantras of the Prapāṭhaka IV.[P213_1]
-
-[P213_1]: *(Prapāṭhaka V)* Brāhmaṇas of the Mantras of the Prapāṭhaka IV.
+*(Prapāṭhaka V)* Brāhmaṇas of the Mantras of the Prapāṭhaka IV.
 </details>
 
 ## 01
@@ -33,18 +30,25 @@ Hari Om!
 [1]: "Good fortune to us ... may it leave us not!" refers to the lengthy posterior śānti recitation (TĀ 4, 41; transl. van Buitenen, *Pravargya*:120-123). It is recited each day after the study of the Pravargya mantras during the Avāntaradīkṣā. The beginning of the study is marked with the recitation of the prior santi (TĀ 4, 1; transl. van Buitenen, Pravargya:63-64). The two sāntis, the prior and the posterior, are also recited at the beginning and end of each performance (according to BSS, VaikhŚS, KŚS also at the beginning and end of the collection of the materials).
 </details>
 
-<details><summary>त्रिभुवनः</summary>
+<details><summary>त्रिभुवनः - अवतारिका</summary>
 
-> *Note:* An anecdote about the Pravargya.  
-Auspicious for us... may that not leave us. Om Peace! Peace! Peace![P213_2]
-
-[P213_2]: The last Anuvāka of the Prapāṭhaka IV should be uttered for the propitiation.
+An anecdote about the Pravargya.
 </details>
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Propitiation rubric)* The last Anuvāka of the Prapāṭhaka IV ("Auspicious for us... may that not leave us. Om Peace! Peace! Peace!") should be uttered for the propitiation.
+</details>
+
+<details><summary>भट्टभास्करः - अवतारिका</summary>
 
 अथ प्रवर्ग्यस्य पुराकल्पः - देवा वा इत्यादि ॥
 </details>
+<details><summary>त्रिभुवनः - अवतारिका</summary>
+
+*(Kaṇḍikās 1–6)* The anecdote.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓ वै᳓ सत्र᳓मासत ।  
@@ -214,9 +218,7 @@ the Maru-country was the (middle part); of them the Utkara (anything dug out for
 </details>
 <details><summary>त्रिभुवनः</summary>
 
-sacrifice of Viṣṇu obtained the fame.[P213_r1_6]
-
-[P213_r1_6]: *(Kaṇḍikās 1–6)* The anecdote.
+sacrifice of Viṣṇu obtained the fame.
 </details>
 <details><summary>मूलम्</summary>
 
@@ -1070,11 +1072,9 @@ for this cause this Pravargya sacrifice has Aśvins as chief ones.
 The mantras of this anuvāka are TĀ 4, 2, 1-4, 2, 5 (16). For a description of the ritual actions see: *Śrautakośa* vol. 2, Sanskrit part 1:514-515; English part 1:28-30; 32-33; 35-36; 38-39; 41-42; 44-45; 46-47; van Buitenen, Pravargya: I, §1-§6.
 </details>
 
-<details><summary>त्रिभुवनः</summary>
+<details><summary>त्रिभुवनः - अवतारिका</summary>
 
-> *Note:* The importance of the Pravargya-sacrifice. Brāhmaṇa-passages of the Mantras T.A. 4.2. (From 1 to 35).[P215_r1_35]
-
-[P215_r1_35]: *(Mantras 1–35)* Brāhmaṇa-passages of the Mantras T.A. 4.2.
+The importance of the Pravargya-sacrifice. Brāhmaṇa-passages of the Mantras T.A. 4.2. (From 1 to 35).
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3299,9 +3299,9 @@ he makes the sacrifice, indeed, with the sacrifice.
 This section discusses the preparation of the main Pravargya vessel, together with two spare ones. According to the Śrauta Sūtras some other clay utensils are prepared now too. The mantras of this section are TĀ 4, 2, 5(17) - end, and 4,3. For a description of the ritual actions see: Śrautakośa vol. 2, Sanskrit part 1:515-516; English part 1:30-31; 33-35; 36-38; 40-41; 42-47; van Buitenen's description: I, §§7-14. A German translation of this Anuvāka is given by Rau, *Töpferei*:60-62.
 </details>
 
-<details><summary>त्रिभुवनः</summary>
+<details><summary>त्रिभुवनः - विनियोगः</summary>
 
-> *Note:* Preparation of the Mahāvīra-pot has been described in this Anuvāka with the details.
+Preparation of the Mahāvīra-pot has been described in this Anuvāka with the details.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4925,11 +4925,9 @@ this is according to the Yajus-Mantra.
 This is the first of the anuvākas discussing the regular performances of the Pravargya (anuvākas 4-8). These take place during one or more days. The mantras of this section are TĀ 4, 5. For a description of the ritual actions see: *Ś*rautakośa vol. 2, Sanskrit part. 1:531-532, English part 1:167-189; van Buitenen, *Pravargya:* II, §6-§19.
 </details>
 
-<details><summary>त्रिभुवनः</summary>
+<details><summary>त्रिभुवनः - विनियोगः</summary>
 
-> *Note:* Use of the Mantras for placing the Mahāvīra. (From 1 to 43).[P222_r1_43]
-
-[P222_r1_43]: *(Mantras 1–43)* Use of the Mantras for placing the Mahāvīra.
+Use of the Mantras for placing the Mahāvīra. (From 1 to 43).
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6881,11 +6879,9 @@ hence this wind blows all round.
 The mantras of this small anuvāka are TĀ 4, 6. For a description of the ritual actions see: *Śrautakośa* vol. 2, Sanskrit part 1:532; English part 1:169; 172; 176; 179; 182; 185; 187; van Buitenen, *Pravargya:* II, §21-§22.
 </details>
 
-<details><summary>त्रिभुवनः</summary>
+<details><summary>त्रिभुवनः - विनियोगः</summary>
 
-> *Note:* Use of the Mantras of the Prapāṭhaka IV.[P226_r1]
-
-[P226_r1]: *(Mantras)* Use of the Mantras of the Prapāṭhaka IV.
+*(Mantras)* Use of the Mantras of the Prapāṭhaka IV.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

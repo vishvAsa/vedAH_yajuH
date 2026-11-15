@@ -215,9 +215,14 @@ In this Kāṇḍa Arunas (etc.) are the seers.
 अरुणाः का॑ण्डऋ॒षयः ।
 </details>
 
-<details><summary>त्रिभुवनः - विनियोगः</summary>
+<details><summary>त्रिभुवनः - अवतारिका</summary>
 
-May we hear the auspicious (things) with ears, O gods; may we, the sacrificers see the auspicious (things) with eyes; with bodies of strong limbs may we, praising, obtain (the span of) life which is assigned by the gods. May Indra of great fame grant us welfare; may all-knowing Pūṣan grant us welfare; may Tārkṣya, the Ariṣṭanemi (one whose felly of wheel is unhurt) grant us welfare; may Bṛhaspati grant us welfare. Om Peace! Peace! Peace! *(Mantras for auspices and peace uttered again at the end of the Prapāṭhaka.)*
+*(Mantras for auspices and peace uttered again at the end of the Prapāṭhaka.)*
+</details>
+
+<details><summary>त्रिभुवनः - शान्तिपाठः (समाप्तिः)</summary>
+
+May we hear the auspicious (things) with ears, O gods; may we, the sacrificers see the auspicious (things) with eyes; with bodies of strong limbs may we, praising, obtain (the span of) life which is assigned by the gods. May Indra of great fame grant us welfare; may all-knowing Pūṣan grant us welfare; may Tārkṣya, the Ariṣṭanemi (one whose felly of wheel is unhurt) grant us welfare; may Bṛhaspati grant us welfare. Om Peace! Peace! Peace!
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

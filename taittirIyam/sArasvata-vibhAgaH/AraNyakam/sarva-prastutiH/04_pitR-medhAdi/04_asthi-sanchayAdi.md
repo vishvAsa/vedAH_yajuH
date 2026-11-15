@@ -489,7 +489,7 @@ Having stones and wealth (water), "whatever is the purifying (ray) of the god Sa
 
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
-Mantra for burning the bone again in the case of soma-sacrificers. Last five Mantras of the Anuvaka III of this Prapathaka. Last Mantra of the Anuvaka II has been repeated here.
+Mantra for burning the bone again in the case of soma-sacrificers.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

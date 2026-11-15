@@ -12,10 +12,15 @@ unicode_script = "devanagari"
 अथ शौक्रियं काण्डमारभ्यते । आरण्यकत्वाद् अस्मिन्प्रदेशे मन्त्रब्राह्मगयोराम्नानम् । उभयं सोमार्षेयम् । तत्रादौ शान्तिमुपयन्ति - नमो वाच इति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 1–7)* Propitiatory Mantras. (From 1 to 7).
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वाचे᳓ या᳓ चोदिता᳓ या᳓ चा᳓नुदिता  
-त᳓स्यै वाचे᳓ न᳓मो  
+त᳓स्यै वाचे᳓ न᳓मो
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -26,7 +31,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 नमो॑ वा॒चे या चो॑दि॒ता या चानु॑दिता॒  
-तस्यै॑ वा॒चे नमो॒  
+तस्यै॑ वा॒चे नमो॒
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -121,9 +126,7 @@ may not the seers, the makers of the Mantras, the lords of the Mantras disobey m
 
 <details><summary>त्रिभुवनः</summary>
 
-may I not disobey the seers, the makers of the Mantras, the lords of the Mantras.[P175_r1_7]
-
-[P175_r1_7]: *(Mantras 1–7)* Propitiatory Mantras. (From 1 to 7).
+may I not disobey the seers, the makers of the Mantras, the lords of the Mantras.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -139,7 +142,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वै᳓श्व᳓देवीव्ँ᳓ वा᳓चमुद्यासँ
-शिवा᳓म् अ᳓दस् तां जु᳓ष्टान् देवे᳓भ्यः  
+शिवा᳓म् अ᳓दस् तां जु᳓ष्टान् देवे᳓भ्यः
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -150,7 +153,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 <details><summary>मूलम्</summary>
 
 वैश्वदे॒वीव्ँ वाच॑मुद्यासँ
-शि॒वामद॑स्तां॒ जुष्टा॑न् दे॒वेभ्यः॒…  
+शि॒वामद॑स्तां॒ जुष्टा॑न् दे॒वेभ्यः॒…
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -158,11 +161,16 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 किञ्च - वैश्वदेवीं विश्वेषां देवानां सम्बन्धिनीं तेभ्यो हितत्वात् तादृशीमेव वाचम् उद्यासं वदितुं समर्थो भूयासं शिवां सुखहेतुम् अदस्ताम् अनुपक्षीणां देवेभ्यो जुष्टां प्रियम् ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+शर्म मे द्यौरित्य् अनुष्टुप् ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श᳓र्म मे द्यौ᳓श्, श᳓र्म पृथिवी᳓, श᳓र्म वि᳓श्वम् इदं᳓ ज᳓गत् ।  
 श᳓र्म चन्द्र᳓श् च सू᳓र्यश् च,  
-श᳓र्म ब्रह्म--प्रजा-पती᳓ ।  
+श᳓र्म ब्रह्म--प्रजा-पती᳓ ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -173,12 +181,12 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 <details><summary>मूलम्</summary>
 
 शर्म॑ मे॒ द्यौश्, शर्म॑ पृथि॒वी, शर्म॒ विश्व॑मि॒दं जग॑त् ।  
-शर्म॑ च॒न्द्रश्च॒ सूर्य॑श्च॒, शर्म॑ ब्रह्मप्रजाप॒ती ।  
+शर्म॑ च॒न्द्रश्च॒ सूर्य॑श्च॒, शर्म॑ ब्रह्मप्रजाप॒ती ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-शर्म मे द्यौरित्य् अनुष्टुप् ॥ द्युप्रभृतयोऽधुना शर्म सुखहेतवो भवन्तु मे तादृशीं वाचं वदतः ब्रह्मा स्रष्टा प्रजापतिः परमात्मा तावुभौ शर्म यच्छताम् ॥
+द्युप्रभृतयोऽधुना शर्म सुखहेतवो भवन्तु मे तादृशीं वाचं वदतः ब्रह्मा स्रष्टा प्रजापतिः परमात्मा तावुभौ शर्म यच्छताम् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,7 +194,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 भूतव्ँ᳓ वदिष्ये, भु᳓वनव्ँ वदिष्ये,  
 ते᳓जो वदिष्ये, य᳓शो वदिष्ये,  
 त᳓पो वदिष्ये, ब्र᳓ह्म वदिष्ये,  
-सत्यव्ँ᳓ वदिष्ये,  
+सत्यव्ँ᳓ वदिष्ये,
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -196,7 +204,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>मूलम्</summary>
 
-भू॒तव्ँ व॑दिष्ये॒, भुव॑नव्ँ वदिष्ये॒, तेजो॑ वदिष्ये॒, यशो॑ वदिष्ये॒, तपो॑ वदिष्ये॒, ब्रह्म॑ वदिष्ये, स॒त्यव्ँ व॑दिष्ये॒,  
+भू॒तव्ँ व॑दिष्ये॒, भुव॑नव्ँ वदिष्ये॒, तेजो॑ वदिष्ये॒, यशो॑ वदिष्ये॒, तपो॑ वदिष्ये॒, ब्रह्म॑ वदिष्ये, स॒त्यव्ँ व॑दिष्ये॒,
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -299,6 +307,11 @@ may Prāṇa and Apāna do not leave me.
 Of honey shall I think, honey shall I produce, honey shall I proclaim, honey shall I speak,
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I will think the honey (Pravargya), I will produce the honey, I will speak the honey;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मधु॑ मनिष्ये ।  
@@ -326,6 +339,11 @@ Of honey shall I think, honey shall I produce, honey shall I proclaim, honey sha
 <details><summary>Keith</summary>
 
 may I utter speech full of honey for the gods, and acceptable to men.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may I speak the honeyful (sweet) speech for the gods, well-hearing for the men (fathers);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -357,6 +375,11 @@ may I utter speech full of honey for the gods, and acceptable to men.
 May the gods aid me to radiance, may the Pitrs rejoice in me.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+may the gods protect me as such, may the fathers also please me for the sake of beauty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम्मा॑ दे॒वा अ॑वन्तु शो॒भायै॑ ।
@@ -376,19 +399,9 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 </details>
 </div>
 
-<details><summary>त्रिभुवनः</summary>
-
-7\. I will think the honey (Pravargya), I will produce the honey, I will speak the honey; may I speak the honeyful (sweet) speech for the gods, well-hearing for the men (fathers); may the gods protect me as such, may the fathers also please me for the sake of beauty.
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-मधु मनिष्ये इत्यादि व्याख्यातं ; 'वायुर्हिङ्कर्ता' इत्यत्र ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं᳓ शा᳓न्तिश्शा᳓न्तिश्शा᳓न्तिः ॥ 
+ओं᳓ शा᳓न्तिश्शा᳓न्तिश्शा᳓न्तिः ॥
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -415,6 +428,11 @@ Om Peace! Peace! Peace!
 प्रवर्ग्यं सम्भरिष्यन् सावित्रं चतुर्गृहीतं जुहोति - युञ्जते मन इति जगती ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Putting of the thorny fuel on the Pravargya-fire.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युञ्ज᳓ते म᳓न उत᳓ युञ्जते धि᳓यः ।  
@@ -425,9 +443,7 @@ Om Peace! Peace! Peace!
 
 <details><summary>त्रिभुवनः</summary>
 
-1\. The sacrificing priests of the learned, great and wise (sacrificer) concentrate their minds, concentrate their wisdom; Savitṛ, the knower of all the rules, alone, has created this all; great is the fame of the god Savitṛ.[P176_r1]
-
-[P176_r1]: *(Mantra 1)* Putting of the thorny fuel on the Pravargya-fire.
+1\. The sacrificing priests of the learned, great and wise (sacrificer) concentrate their minds, concentrate their wisdom; Savitṛ, the knower of all the rules, alone, has created this all; great is the fame of the god Savitṛ.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -443,6 +459,16 @@ Om Peace! Peace! Peace!
 व्याख्यातेयं 'युञ्जानः प्रथमम्' इत्यत्र ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अब्भ्रिमादत्ते - देवस्य त्वा इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 2)* Mantra for taking Abhri.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुः᳓ प्रसवे᳓ ।  
@@ -452,9 +478,7 @@ Om Peace! Peace! Peace!
 
 <details><summary>त्रिभुवनः</summary>
 
-2\. I take you by the impelling of the god Savitṛ, by the arms of Aśvins, by the hands of Pūṣan.[P176_r2]
-
-[P176_r2]: *(Mantra 2)* Mantra for taking Abhri.
+2\. I take you by the impelling of the god Savitṛ, by the arms of Aśvins, by the hands of Pūṣan.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -464,14 +488,14 @@ Om Peace! Peace! Peace!
 पू॒ष्णो हस्ता॑भ्या॒मा द॑दे ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-अब्भ्रिमादत्ते - देवस्य त्वा इति ॥
-</details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अभिमन्त्रयते - अब्भ्रिरसीति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 3)* Mantra to be uttered over the Abhri.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -482,9 +506,7 @@ Om Peace! Peace! Peace!
 
 <details><summary>त्रिभुवनः</summary>
 
-3\. You are Abhri (an instrument), a double-headed hoe of the wood of the Mimosa Catechu and woman, performer of the sacrifice for the gods.[P176_r3]
-
-[P176_r3]: *(Mantra 3)* Mantra to be uttered over the Abhri.
+3\. You are Abhri (an instrument), a double-headed hoe of the wood of the Mimosa Catechu and woman, performer of the sacrifice for the gods.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -496,6 +518,11 @@ Om Peace! Peace! Peace!
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उभयं व्याख्यातम् । अभिमन्त्रणशेषः - देवेभ्यः देवार्थम् । अध्वरकृद् अध्वरकर्ता त्वमसि ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 4)* Address to Brahmaṇaspati.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -533,9 +560,7 @@ Om Peace! Peace! Peace!
 
 <details><summary>त्रिभुवनः</summary>
 
-may Maruts, well donators go near; O Indra, become swift-going one with us.[P176_r4]
-
-[P176_r4]: *(Mantra 4)* Address to Brahmaṇaspati.
+may Maruts, well donators go near; O Indra, become swift-going one with us.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -554,6 +579,11 @@ may Maruts, well donators go near; O Indra, become swift-going one with us.[P176
 प्राञ्चोश्वप्रथमा अभिप्रव्रजन्ति यत्र मृदं खनिष्यन्तस्स्युः - प्रैत्विति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 5)* Mantra for carrying the skin of a black antelope, a goat, a horse and an ox to the place where the earth is dug.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रै᳓तु ब्र᳓ह्मणस्प᳓तिः ।  
@@ -564,9 +594,7 @@ may Maruts, well donators go near; O Indra, become swift-going one with us.[P176
 
 <details><summary>त्रिभुवनः</summary>
 
-5\. May Brahmaṇaspati come well; may the goddess Sūnṛtā (true speech) come well; may the gods lead our sacrifice for obtaining the manly Vīra (Mahāvīra pot), the cooker of the five foods.[P176_r5]
-
-[P176_r5]: *(Mantra 5)* Mantra for carrying the skin of a black antelope, a goat, a horse and an ox to the place where the earth is dug.
+5\. May Brahmaṇaspati come well; may the goddess Sūnṛtā (true speech) come well; may the gods lead our sacrifice for obtaining the manly Vīra (Mahāvīra pot), the cooker of the five foods.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -582,6 +610,16 @@ may Maruts, well donators go near; O Indra, become swift-going one with us.[P176
 ब्रह्मणस्पतिः प्रैतु प्रथममग्रतो गच्छतु । देवी च सूनृता यज्ञात्मिका सत्या वाक् प्रैतु । देवाश्च नोऽस्माकं यज्ञमानयन्त्व् आभिमुख्येन अविघ्नेन वा प्रापयन्तु । वीरं यजमानम् अस्मान्वा अच्छानयन्तु मृत्सम्पादनद्वारेण । यद्वा - हे इन्द्र! त्वां वीरम् अच्छानयन्तु । मृदेव वा यजनसाधनत्वाद्यज्ञ उच्यते । मृदमस्मानच्छानयन्तु देवाः । नर्यं नरेभ्यो हितं पङ्किराधसं धनादिपञ्चधनवन्तं पाङ्कानां वा पशूनां साधयितारम् । 'गतिकारकयोरपि' इत्यसुन्, पूर्वपदप्रकृतिस्वरत्वं च ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+मृत्खनमभिमन्त्रयते - देवी इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 6)* Mantra for spreading the antelope-skin.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे᳓वी द्यावापृथिवी अ᳓नु मे मँसाथाम् ।
@@ -589,9 +627,7 @@ may Maruts, well donators go near; O Indra, become swift-going one with us.[P176
 
 <details><summary>त्रिभुवनः</summary>
 
-6\. May the goddesses heaven and earth assent me.[P177_r6]
-
-[P177_r6]: *(Mantra 6)* Mantra for spreading the antelope-skin.
+6\. May the goddesses heaven and earth assent me.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -601,12 +637,17 @@ may Maruts, well donators go near; O Indra, become swift-going one with us.[P176
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-मृत्खनमभिमन्त्रयते - देवी इति ॥ हे देव्यौ ! द्योतनवत्यौ ! द्यावापृथिवी ! मे मम इदं कर्म मृत्खननलक्षणम् अनुमंसाथाम् ॥
+हे देव्यौ ! द्योतनवत्यौ ! द्यावापृथिवी ! मे मम इदं कर्म मृत्खननलक्षणम् अनुमंसाथाम् ॥
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मृत्खनेऽब्भ्र्या प्रहरन्ति - ऋध्यासमद्येति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 7)* Mantra for striking the Abhri.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -629,6 +670,11 @@ may Maruts, well donators go near; O Indra, become swift-going one with us.[P176
 अद्य अस्मिन्खननदिने खननकर्मणि वा अहम् ऋध्यासम् अभिमतसम्पत्तिमान् भूयासम् ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+मृदमुपादत्ते – मखस्येति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मख᳓स्य शि᳓रः । (3)
@@ -636,9 +682,7 @@ may Maruts, well donators go near; O Indra, become swift-going one with us.[P176
 
 <details><summary>त्रिभुवनः</summary>
 
-this is the head of the sacrifice (2).[P177_r7]
-
-[P177_r7]: *(Mantra 7)* Mantra for striking the Abhri.
+this is the head of the sacrifice (2).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -648,12 +692,17 @@ this is the head of the sacrifice (2).[P177_r7]
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-मृदमुपादत्ते – मखस्येति ॥ मखस्य यज्ञस्य शिरः प्रवर्ग्यः शिरस्थानीयस् तत्साधनत्वात् हे मृत् । तादृशीं त्वाम् अपादद इति शेषः ॥
+मखस्य यज्ञस्य शिरः प्रवर्ग्यः शिरस्थानीयस् तत्साधनत्वात् हे मृत् । तादृशीं त्वाम् अपादद इति शेषः ॥
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 महावीरकरणाय हरति - मखाय त्वेति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 8)* Mantra for lifting the earth and putting that on the antelope-skin.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -688,9 +737,7 @@ this is the head of the sacrifice (2).[P177_r7]
 
 <details><summary>त्रिभुवनः</summary>
 
-(I put) you on the head of the sacrifice.[P177_r8]
-
-[P177_r8]: *(Mantra 8)* Mantra for lifting the earth and putting that on the antelope-skin.
+(I put) you on the head of the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -703,6 +750,11 @@ this is the head of the sacrifice (2).[P177_r7]
 मखस्य यज्ञस्य शीर्ष्णे प्रवर्ग्याय त्वां निर्वपामीति शेषः ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 9)* Mantra for lifting the earth.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓यत्य᳓ग्र आसीः ।
@@ -710,9 +762,7 @@ this is the head of the sacrifice (2).[P177_r7]
 
 <details><summary>त्रिभुवनः</summary>
 
-9\. You were this much before.[P177_r9]
-
-[P177_r9]: *(Mantra 9)* Mantra for lifting the earth.
+9\. You were this much before.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -723,6 +773,16 @@ this is the head of the sacrifice (2).[P177_r7]
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वराहविहतमभिमन्त्रयते - इयतीति ॥ हे वराहविहते! मृत् ! अग्रे कल्पादौ आदिवराहविहरणे इयत्य् एतावन्महिमैव आसीः । यावती पृथिवी 'अस्यामेवाछम्बट्कारम्' इति ब्राह्मणम् । यद्वा - इयती प्रादेशमात्री त्वम् अग्रे यज्ञोपयोगात् प्राचीनकाले आसीः । इदानीं यज्ञोपयोगाद् विश्वं त्वया व्याप्तमिति भावः ॥
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+प्रहरणापादानाहरणनिवपनमन्त्राः 'ऋद्ध्यासमद्य' इत्यादयो व्याख्याताः ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 10)* Mantra for bringing the earth.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -738,11 +798,6 @@ this is the head of the sacrifice (2).[P177_r7]
 <details><summary>मूलम्</summary>
 
 ऋ॒द्ध्यास॑म॒द्य ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-प्रहरणापादानाहरणनिवपनमन्त्राः 'ऋद्ध्यासमद्य' इत्यादयो व्याख्याताः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -782,14 +837,17 @@ this is the head of the sacrifice;
 
 <details><summary>त्रिभुवनः</summary>
 
-(I put) you on the head of the sacrifice.[P177_r10]
-
-[P177_r10]: *(Mantra 10)* Mantra for bringing the earth.
+(I put) you on the head of the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
 
 म॒खस्य॑ त्वा शी॒र्ष्णे ।
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 11)* Mantra for bringing the earth thrown up by white-ants.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -799,9 +857,7 @@ this is the head of the sacrifice;
 
 <details><summary>त्रिभुवनः</summary>
 
-11\. O divine white-ants, you are the first-born of this living one, observers of the Ṛta (Settled Order).[P177_r11]
-
-[P177_r11]: *(Mantra 11)* Mantra for bringing the earth thrown up by white-ants.
+11\. O divine white-ants, you are the first-born of this living one, observers of the Ṛta (Settled Order).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -812,6 +868,11 @@ this is the head of the sacrifice;
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वल्मीकवपामभिमन्त्रयते - देवीरिति ॥ हे देव्यः ! द्योतनवत्यः ! वम्रीः ! वम्र्यः ! वमनादुदकस्य स्त्रीनाम्न्यः ! अस्य भूतस्य वल्मीकवपात्मनः पृथिव्या हे प्रथमजाः! प्रागाविर्भूताः ! प्रधानार्थं वा जाताः! ऋतावरी:! उदकवत्यः ! । 'छन्दसीवनिपौ' इति नित्ययोगे वनिपि 'वनोरच' इति ङीब्रेफौ । युष्माभिरुपचितामेतां वल्मीकवपामभिमन्त्रयामहे इति शेषः । प्रहरणादिमन्त्रा गताः ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 12)* Mantra for bringing that earth.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -866,14 +927,17 @@ this is the head of the sacrifice (3);
 
 <details><summary>त्रिभुवनः</summary>
 
-(I put) you on the head of the sacrifice.[P177_r12]
-
-[P177_r12]: *(Mantra 12)* Mantra for bringing that earth.
+(I put) you on the head of the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
 
 म॒खस्य॑ त्वा शी॒र्ष्णे ।
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 13–14)* Mantra addressed to the Pūtīka tree (Caesalpinia Bonducella).
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -883,9 +947,7 @@ this is the head of the sacrifice (3);
 
 <details><summary>त्रिभुवनः</summary>
 
-13\. You are the vigour of Indra.[P177_r13_14]
-
-[P177_r13_14]: *(Mantras 13–14)* Mantra addressed to the Pūtīka tree (Caesalpinia Bonducella).
+13\. You are the vigour of Indra.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -958,6 +1020,16 @@ this is the head of the sacrifice;
 म॒खस्य॑ त्वा शी॒र्ष्णे ।
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अजलोमानि कृष्णाजिनलोमानि च संसृज्याभिमन्त्रयते - अग्निजा इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 15–16)* Mantra to be uttered after spreading the hairs of a goat and a black antelope.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निजा᳓ असि प्रजा᳓पते रे᳓तः ।
@@ -965,9 +1037,7 @@ this is the head of the sacrifice;
 
 <details><summary>त्रिभुवनः</summary>
 
-15\. You are born of the fire, the semen of Prajāpati.[P177_r15_16]
-
-[P177_r15_16]: *(Mantras 15–16)* Mantra to be uttered after spreading the hairs of a goat and a black antelope.
+15\. You are born of the fire, the semen of Prajāpati.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -977,7 +1047,7 @@ this is the head of the sacrifice;
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अजलोमानि कृष्णाजिनलोमानि च संसृज्याभिमन्त्रयते - अग्निजा इति ॥ अग्नेर्जनयिता । अन्तर्भावितण्यन्तात् ‘जनसन' इति विट्, पूर्ववदात्वम् । अजादिलोमसमुदाय उच्यते । यद्वा - अग्निना सह जाता अजादयो ऽभेदेन तल्लोमसमुदाय उच्यते । प्रजापतेः रेतः सारभूतः 'य एव रसः पशून् प्राविशत्' इति ब्राह्मणम् । 'ऋद्ध्यासम्' इत्यादयो गताः ॥
+अग्नेर्जनयिता । अन्तर्भावितण्यन्तात् ‘जनसन' इति विट्, पूर्ववदात्वम् । अजादिलोमसमुदाय उच्यते । यद्वा - अग्निना सह जाता अजादयो ऽभेदेन तल्लोमसमुदाय उच्यते । प्रजापतेः रेतः सारभूतः 'य एव रसः पशून् प्राविशत्' इति ब्राह्मणम् । 'ऋद्ध्यासम्' इत्यादयो गताः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1040,6 +1110,11 @@ this is the head of the sacrifice (4);
 म॒खस्य॑ त्वा शी॒र्ष्णे ।
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 17)* Mantra for making the horse smell the offering.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓युर्धेहि प्राण᳓न्धेहि ।  
@@ -1052,9 +1127,7 @@ this is the head of the sacrifice (4);
 
 <details><summary>त्रिभुवनः</summary>
 
-17\. Put the life, put the Prāṇa-breath, put the Apāna-breath, put the Vyāna-breath, put the eye, put the ears, put the mind, put the speech, put the self, put the firm-standing, put me, put in me.[P178_r17]
-
-[P178_r17]: *(Mantra 17)* Mantra for making the horse smell the offering.
+17\. Put the life, put the Prāṇa-breath, put the Apāna-breath, put the Vyāna-breath, put the eye, put the ears, put the mind, put the speech, put the self, put the firm-standing, put me, put in me.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1072,6 +1145,16 @@ this is the head of the sacrifice (4);
 अश्वेन सम्भारानवघ्रापयति - आयुर्धेहीति ॥ आयुरादीन्य् अन्यूनानि मयि धेहि स्थापय, मह्यं वा धेहि । आत्मानं शरीरं स्थिरं धेहि । प्रतिष्ठां क्षेत्रादिं धेहि । मां च स्वदत्तानाम् आयुरादीनां भोगाय स्थापय । मय्येव आयुरादीनि धेहि मदीनानि न परायत्तानि ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+सम्भारानजयाऽभिदोहयति मदन्तीभिश्चोपसृजति – मधु त्वेति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 18)* Mantra for sprinkling the hot water on the offering.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓धु त्वा मधुला᳓ करोतु ।
@@ -1079,9 +1162,7 @@ this is the head of the sacrifice (4);
 
 <details><summary>त्रिभुवनः</summary>
 
-18\. May the honey make you honeyful.[P178_r18]
-
-[P178_r18]: *(Mantra 18)* Mantra for sprinkling the hot water on the offering.
+18\. May the honey make you honeyful.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1091,12 +1172,17 @@ this is the head of the sacrifice (4);
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-सम्भारानजयाऽभिदोहयति मदन्तीभिश्चोपसृजति – मधु त्वेति ॥ मधु मन्तव्यं सारभूतं ब्रह्म तदेव त्वा त्वामजाक्षीरेण मदन्तीरूपेण मधुलाकरोतु मधुरीकरोतु । सिध्मादित्वाद् लच् । छान्दसश्च च्व्यर्थे डाच् । कपिलकादित्वाल्लत्वविकल्पः ॥
+मधु मन्तव्यं सारभूतं ब्रह्म तदेव त्वा त्वामजाक्षीरेण मदन्तीरूपेण मधुलाकरोतु मधुरीकरोतु । सिध्मादित्वाद् लच् । छान्दसश्च च्व्यर्थे डाच् । कपिलकादित्वाल्लत्वविकल्पः ॥
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पिण्डं करोति - मखस्यति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 19)* Mantra for pounding earth and making balls.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1106,9 +1192,7 @@ this is the head of the sacrifice (4);
 
 <details><summary>त्रिभुवनः</summary>
 
-19\. You are the head of the sacrifice (5).[P178_r19]
-
-[P178_r19]: *(Mantra 19)* Mantra for pounding earth and making balls.
+19\. You are the head of the sacrifice (5).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1126,6 +1210,11 @@ this is the head of the sacrifice (4);
 अङ्गुष्ठाभ्यां निगृह्णाति - यज्ञस्येति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 20)* Mantra for stamping the balls with the two thumbs.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञ᳓स्य पदे᳓ स्थः ।
@@ -1133,9 +1222,7 @@ this is the head of the sacrifice (4);
 
 <details><summary>त्रिभुवनः</summary>
 
-20\. Be the feet of the sacrifice.[P178_r20]
-
-[P178_r20]: *(Mantra 20)* Mantra for stamping the balls with the two thumbs.
+20\. Be the feet of the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1151,6 +1238,11 @@ this is the head of the sacrifice (4);
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रतिमन्त्रं महावीरान् करोति - गायत्रणेत्यादिभिः ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 21–25)* Mantras for making a figure of Mahāvīra (a sacrificial pot).
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1195,9 +1287,7 @@ I perform you by the Triṣṭubh-verse,
 
 <details><summary>त्रिभुवनः</summary>
 
-I perform you by the Jagatī-verse.[P178_r21_25]
-
-[P178_r21_25]: *(Mantras 21–25)* Mantras for making a figure of Mahāvīra (a sacrificial pot).
+I perform you by the Jagatī-verse.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1316,6 +1406,11 @@ I perform you by the Jagatī-verse.[P178_r21_25]
 अश्वशकेन धूपयति - वृष्ण इति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Mantra for heating the Mahāvīra.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृ᳓ष्णो अ᳓श्वस्य निष्प᳓दसि ।  
@@ -1325,9 +1420,7 @@ I perform you by the Jagatī-verse.[P178_r21_25]
 
 <details><summary>त्रिभुवनः</summary>
 
-1\. You are the issue of the sprinkling horse; may Varuṇa, the holder of the rules heat you by the firm rules of Mitra and Varuṇa.[P178_iii_r1]
-
-[P178_iii_r1]: *(Mantra 1)* Mantra for heating the Mahāvīra.
+1\. You are the issue of the sprinkling horse; may Varuṇa, the holder of the rules heat you by the firm rules of Mitra and Varuṇa.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1342,6 +1435,16 @@ I perform you by the Jagatī-verse.[P178_r21_25]
 वृषा सेक्ता आदित्यो ऽश्वश्च आदित्योऽश्वः व्यापकत्वात् तस्मात्त्वं हे अश्वशक ! सूर्यस्यैव निष्पदसि निष्पत्तिरसि परिणामोसि योऽश्वस्यासि । यद्वा - आदित्यस्य निष्पद् अतिच्छन्दस् तदेव त्वमसि वीर्यवत्त्वात् । त्वां तादृशमादाय । विभक्तिव्यत्ययो वा । त्वया वरुणो वारको देव आधूपयतु महावीरं धृतव्रतः स्थिरकर्मा मित्रावरुणयोः सम्बन्धिना ध्रुवेण अविचलितेन धर्मणा कर्मणा ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+गार्हपत्ये मुञ्जानादीप्योपोषति प्रतिदिशं, सर्वैर्वा सर्वतः - अर्चिषे त्वेत्यादिभिः ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 2)* Mantra for placing the Mahāvīra on some burning wood of the household fire.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्चि᳓षे त्वा ।  
@@ -1352,9 +1455,7 @@ I perform you by the Jagatī-verse.[P178_r21_25]
 
 <details><summary>त्रिभुवनः</summary>
 
-2\. I give you for the (flames named) Arciṣ (shining), Śociṣ (burning), Jyotis (light) and Ātapa (heat).[P179_r2]
-
-[P179_r2]: *(Mantra 2)* Mantra for placing the Mahāvīra on some burning wood of the household fire.
+2\. I give you for the (flames named) Arciṣ (shining), Śociṣ (burning), Jyotis (light) and Ātapa (heat).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1367,7 +1468,17 @@ I perform you by the Jagatī-verse.[P178_r21_25]
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-गार्हपत्ये मुञ्जानादीप्योपोषति प्रतिदिशं, सर्वैर्वा सर्वतः - अर्चिषे त्वेत्यादिभिः ॥ अर्चिराद्यर्थं त्वां ज्वलयामीति शेषः । अर्चिर्दीप्तिः । शोचिश्शोषणम् । ज्योतिर् द्योतनं रुचिः । तपः सन्तापः ॥
+अर्चिराद्यर्थं त्वां ज्वलयामीति शेषः । अर्चिर्दीप्तिः । शोचिश्शोषणम् । ज्योतिर् द्योतनं रुचिः । तपः सन्तापः ॥
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+मैत्र्योपचरति तप्यमानम् - अभीममिति ॥ गायत्रीयं 'वसवस्त्वा धूपयन्तु' इत्यत्र उखासम्भरणे व्याख्याता ।
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 3)* Mantra to be uttered over Mahāvīra.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1382,9 +1493,7 @@ I perform you by the Jagatī-verse.[P178_r21_25]
 
 <details><summary>त्रिभुवनः</summary>
 
-3\. Mitra becomes vast seeing this in the heaven with greatness and in the earth with the fame (1); (all say) the fame of the donation of the god Mitra, the holder of the beings; his donation is of wonderful fame.[P179_r3]
-
-[P179_r3]: *(Mantra 3)* Mantra to be uttered over Mahāvīra.
+3\. Mitra becomes vast seeing this in the heaven with greatness and in the earth with the fame (1); (all say) the fame of the donation of the god Mitra, the holder of the beings; his donation is of wonderful fame.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1399,7 +1508,12 @@ I perform you by the Jagatī-verse.[P178_r21_25]
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-मैत्र्योपचरति तप्यमानम् - अभीममिति ॥ गायत्रीयं 'वसवस्त्वा धूपयन्तु' इत्यत्र उखासम्भरणे व्याख्याता । इह त्व् इममिति पुल्लिङ्गता विशेषः । तत्र त्विमामिति ॥
+इह त्व् इममिति पुल्लिङ्गता विशेषः । तत्र त्विमामिति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 4)* Mantra for wiping the ashes from the Mahāvīra.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1409,14 +1523,22 @@ I perform you by the Jagatī-verse.[P178_r21_25]
 
 <details><summary>त्रिभुवनः</summary>
 
-4\. (I take) you for the performance.[P179_r4]
-
-[P179_r4]: *(Mantra 4)* Mantra for wiping the ashes from the Mahāvīra.
+4\. (I take) you for the performance.
 </details>
 
 <details><summary>मूलम्</summary>
 
 सिद्ध्यै॑ त्वा ।
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+प्रथमकृतं महावीरं शफाभ्यां परिगृह्योद्वासयति - देवस्त्वेति गायत्र्या ॥ तत्रैव व्याख्याता12 ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 5)* Mantra for lifting the Mahāvīra.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1428,9 +1550,7 @@ I perform you by the Jagatī-verse.[P178_r21_25]
 
 <details><summary>त्रिभुवनः</summary>
 
-5\. May the god Savitṛ take you above by the power having good hands, good fingers and good arms.[P179_r5]
-
-[P179_r5]: *(Mantra 5)* Mantra for lifting the Mahāvīra.
+5\. May the god Savitṛ take you above by the power having good hands, good fingers and good arms.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1440,14 +1560,14 @@ I perform you by the Jagatī-verse.[P178_r21_25]
 सु॒बा॒हुरु॒त शक्त्या॑ ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-प्रथमकृतं महावीरं शफाभ्यां परिगृह्योद्वासयति - देवस्त्वेति गायत्र्या ॥ तत्रैव व्याख्याता12 ॥
-</details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरतस्सिकतासु प्रतिष्ठापयति - अपद्यमान इत्यनुष्टुभा ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 6)* Mantra for placing that on the sand.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1460,9 +1580,7 @@ I perform you by the Jagatī-verse.[P178_r21_25]
 
 <details><summary>त्रिभुवनः</summary>
 
-6\. Fulfill the quarters being not contained on the earth; stand up; be increased (2); stand firm above.[P179_r6]
-
-[P179_r6]: *(Mantra 6)* Mantra for placing that on the sand.
+6\. Fulfill the quarters being not contained on the earth; stand up; be increased (2); stand firm above.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1483,6 +1601,11 @@ I perform you by the Jagatī-verse.[P178_r21_25]
 अनुवीक्षते - सूर्यस्य त्वेति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 7)* Mantra for looking at the Mahāvīra.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू᳓र्यस्य त्वा च᳓क्षुषा᳓ऽन्वीक्षे ।  
@@ -1493,9 +1616,7 @@ I perform you by the Jagatī-verse.[P178_r21_25]
 
 <details><summary>त्रिभुवनः</summary>
 
-7\. I see you by the eye of the sun for the straight (earth), for the good (mid-region), for the good residence (heaven) and for the prosperity (quarters).[P179_r7]
-
-[P179_r7]: *(Mantra 7)* Mantra for looking at the Mahāvīra.
+7\. I see you by the eye of the sun for the straight (earth), for the good (mid-region), for the good residence (heaven) and for the prosperity (quarters).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1516,6 +1637,11 @@ I perform you by the Jagatī-verse.[P178_r21_25]
 अथेनं सिकताभिः पर्यूहति – इदमिति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 8)* Mantra for fixing it on the place.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इद᳓मह᳓ममु᳓मामुष्यायणव्ँ᳓ विशा᳓ पशु᳓भिर्ब्रह्मवर्चसे᳓न प᳓र्यूहामि ।
@@ -1523,9 +1649,7 @@ I perform you by the Jagatī-verse.[P178_r21_25]
 
 <details><summary>त्रिभुवनः</summary>
 
-8\. This I make firm that, the son of that with the subjects, cattle and brilliance of sacred knowledge.[P179_r8]
-
-[P179_r8]: *(Mantra 8)* Mantra for fixing it on the place.
+8\. This I make firm that, the son of that with the subjects, cattle and brilliance of sacred knowledge.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1541,6 +1665,11 @@ I perform you by the Jagatī-verse.[P178_r21_25]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अजाक्षीरेणाच्छृणत्ति - गायत्रेण त्वेति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 9)* Mantra for sprinkling the milk of the goat on it.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1705,14 +1834,22 @@ sprinkle the vigour;
 
 <details><summary>त्रिभुवनः</summary>
 
-sprinkle the oblation.[P179_r9]
-
-[P179_r9]: *(Mantra 9)* Mantra for sprinkling the milk of the goat on it.
+sprinkle the oblation.
 </details>
 
 <details><summary>मूलम्</summary>
 
 छृ॒न्धि ह॒विः ।
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथैनां कृष्णाजिन उपनह्यासजति - देवपुरश्चरेति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 10)* Tying of the Mahāvīra in a skin of the black antelope.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1722,9 +1859,7 @@ sprinkle the oblation.[P179_r9]
 
 <details><summary>त्रिभुवनः</summary>
 
-10\. O god of infront, I hang you above (3).[P179_r10]
-
-[P179_r10]: *(Mantra 10)* Tying of the Mahāvīra in a skin of the black antelope.
+10\. O god of infront, I hang you above (3).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1734,12 +1869,17 @@ sprinkle the oblation.[P179_r9]
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अथैनां कृष्णाजिन उपनह्यासजति - देवपुरश्चरेति ॥ अग्रेण गार्हपत्यं दर्भान् संस्तीर्य तेषु महावीरानुपावहरत्य् अनेनेति पक्षान्तरम् । कृष्णाजिने अप्रचरणीयौ महावीरावनेन उपावहरतीत्यन्यः पक्षः । प्रचरणीयं महावीरं शफाभ्यां परिगृह्य अव्युच्छिन्नाग्रेण वेदेनोपरिष्टात् सम्मार्ष्ट्य् अनेनेति पक्षोऽन्यः । देवपुरश्चर! देवानां पुरस्ताद् गन्तः! ध्वज इव | यद्वा - भूमिष्ठोपि तेजसा देवानामग्रे चरति देवानामतिवल्लभतया वा सदा अग्रे वर्तमानं त्वां तादृशं महानुभावम् अहं सघ्यासं प्राप्तुं योग्यो भूयासम् । सघ्यतिर्गतिकर्मा ॥
+अग्रेण गार्हपत्यं दर्भान् संस्तीर्य तेषु महावीरानुपावहरत्य् अनेनेति पक्षान्तरम् । कृष्णाजिने अप्रचरणीयौ महावीरावनेन उपावहरतीत्यन्यः पक्षः । प्रचरणीयं महावीरं शफाभ्यां परिगृह्य अव्युच्छिन्नाग्रेण वेदेनोपरिष्टात् सम्मार्ष्ट्य् अनेनेति पक्षोऽन्यः । देवपुरश्चर! देवानां पुरस्ताद् गन्तः! ध्वज इव | यद्वा - भूमिष्ठोपि तेजसा देवानामग्रे चरति देवानामतिवल्लभतया वा सदा अग्रे वर्तमानं त्वां तादृशं महानुभावम् अहं सघ्यासं प्राप्तुं योग्यो भूयासम् । सघ्यतिर्गतिकर्मा ॥
 
 इति सप्तमे प्रश्ने तृतीयोऽनुवाकः॥
 </details>
 
 ## 04
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+ब्रह्माणमामन्त्रयते - ब्रह्मन्निति ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1758,7 +1898,7 @@ sprinkle the oblation.[P179_r9]
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-ब्रह्माणमामन्त्रयते - ब्रह्मन्निति ॥ होतर्घर्ममभिष्टुहि । इत्य् एकपदा गायत्री ॥
+होतर्घर्ममभिष्टुहि । इत्य् एकपदा गायत्री ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1821,6 +1961,11 @@ O Prastotṛ (-priest) sing the Sāmans.
 प्रस्तो॑त॒स्सामा॑नि गाय ।
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथ - यजुर्युक्तम् इति पञ्चपदा शक्करी यजुरन्ता ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓जुर्युक्तँ सा᳓मभिरा᳓क्तखन्त्वा ।  
@@ -1842,11 +1987,6 @@ O Prastotṛ (-priest) sing the Sāmans.
 दक्षि॑णाभिः॒ प्रत॑तं पारयि॒ष्णुम् ।  
 स्तुभो॑ वहन्तु सुमन॒स्यमा॑नम् ।  
 स नो॒ रुच॑न्धे॒ह्यहृ॑णीयमानः ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-अथ - यजुर्युक्तम् इति पञ्चपदा शक्करी यजुरन्ता ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1893,6 +2033,11 @@ perform (the Pravargya, O priests) (1).
 
 ## 05
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Exhortation to Brahman.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मन्प्र᳓चरिष्यामः ।
@@ -1920,9 +2065,7 @@ perform (the Pravargya, O priests) (1).
 
 <details><summary>त्रिभुवनः</summary>
 
-O Hotṛ (-priest), praise the Gharma (Pravargya).[P181_r1]
-
-[P181_r1]: *(Mantra 1)* Exhortation to Brahman.
+O Hotṛ (-priest), praise the Gharma (Pravargya).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1938,6 +2081,11 @@ O Hotṛ (-priest), praise the Gharma (Pravargya).[P181_r1]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सर्वं परिघर्ममभिपूर्वं त्रिः प्रोक्षति - यमाय त्वेति त्रिभिः ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 2)* Throwing of the sacrificial pots on the fire.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1987,9 +2135,7 @@ for the sacrifice,
 
 <details><summary>त्रिभुवनः</summary>
 
-for the brilliance of the sun.[P181_r2]
-
-[P181_r2]: *(Mantra 2)* Throwing of the sacrificial pots on the fire.
+for the brilliance of the sun.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2005,6 +2151,11 @@ for the brilliance of the sun.[P181_r2]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 आहवनीये स्रुवेण प्राणाहुतीरेकादश जुहोति - प्राणायेत्यादि ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 3)* Oblations to be poured on the Āhavanīya fire.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2179,9 +2330,7 @@ Hail for the vigour!
 
 <details><summary>त्रिभुवनः</summary>
 
-Hail for the vitality! (1)[P181_r3]
-
-[P181_r3]: *(Mantra 3)* Oblations to be poured on the Āhavanīya fire.
+Hail for the vitality! (1)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2194,6 +2343,16 @@ Hail for the vitality! (1)[P181_r3]
 गतम् ।
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+स्रुवेणोपर्य् आहवनीये महावीरमनक्ति – देवस्त्वेति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 4)* Mantra for mixing the Mahāvīra with ghee.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्त्वा सविता᳓ म᳓द्ध्वाऽनक्तु । (12)
@@ -2201,9 +2360,7 @@ Hail for the vitality! (1)[P181_r3]
 
 <details><summary>त्रिभुवनः</summary>
 
-4\. May the god Savitṛ mix you with the honey (1).[P181_r4]
-
-[P181_r4]: *(Mantra 4)* Mantra for mixing the Mahāvīra with ghee.
+4\. May the god Savitṛ mix you with the honey (1).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2213,12 +2370,17 @@ Hail for the vitality! (1)[P181_r3]
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-स्रुवेणोपर्य् आहवनीये महावीरमनक्ति – देवस्त्वेति ॥ देवः सविता सर्वस्य प्रेरकस् त्वां मध्वा मधुना मधुरेण अनेन आज्येन अनक्तु । नुमभावश्छान्दसः ॥
+देवः सविता सर्वस्य प्रेरकस् त्वां मध्वा मधुना मधुरेण अनेन आज्येन अनक्तु । नुमभावश्छान्दसः ॥
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अपरस्मिन्खरे राजतं रुक्मं निदधाति - पृथवीमिति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 5)* Mantra for throwing gold on another fire.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2228,9 +2390,7 @@ Hail for the vitality! (1)[P181_r3]
 
 <details><summary>त्रिभुवनः</summary>
 
-5\. Protect the earth from the heat.[P181_r5]
-
-[P181_r5]: *(Mantra 5)* Mantra for throwing gold on another fire.
+5\. Protect the earth from the heat.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2250,6 +2410,11 @@ Hail for the vitality! (1)[P181_r3]
 अथ तान् व्यत्यस्तान् उपरि रुक्मे निदधाति - अर्चिरसि शोचिरसि ज्योतिरसि तपोसीति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 6)* Mantra for placing the Muñja-grass on the gold.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्चि᳓रसि शोचि᳓रसि ज्यो᳓तिरसि त᳓पोऽसि ।
@@ -2257,9 +2422,7 @@ Hail for the vitality! (1)[P181_r3]
 
 <details><summary>त्रिभुवनः</summary>
 
-6\. You are the ray, you are the shining, you are the light.[P181_r6]
-
-[P181_r6]: *(Mantra 6)* Mantra for placing the Muñja-grass on the gold.
+6\. You are the ray, you are the shining, you are the light.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2275,6 +2438,13 @@ Hail for the vitality! (1)[P181_r3]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तेषु महावीरं प्रतिष्ठापयति - संसीदिस्वेति पथ्याबृहत्या ॥
+
+व्याख्यातेयम् अग्निकाण्डे देवस्य त्वेत्यत्र ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 7)* Putting of the Mahāvīra in its place.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2287,9 +2457,7 @@ Hail for the vitality! (1)[P181_r3]
 
 <details><summary>त्रिभुवनः</summary>
 
-7\. Sit well; you are great; shine becoming worth choosing by the gods; O pure and good fire, spread the smoke, which is mild and worth seeing.[P181_r7]
-
-[P181_r7]: *(Mantra 7)* Putting of the Mahāvīra in its place.
+7\. Sit well; you are great; shine becoming worth choosing by the gods; O pure and good fire, spread the smoke, which is mild and worth seeing.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2300,14 +2468,14 @@ Hail for the vitality! (1)[P181_r3]
 सृ॒ज प्र॑शस्तदर्श॒तम् ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-व्याख्यातेयम् अग्निकाण्डे देवस्य त्वेत्यत्र ॥
-</details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स्रुवेण महावीरमनक्त्य् अभिपूरयति वा - अञ्जन्ति यमिति - त्रिष्टुभा ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 8)* Putting of the ghee on the Mahāvīra.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2320,9 +2488,7 @@ Hail for the vitality! (1)[P181_r3]
 
 <details><summary>त्रिभुवनः</summary>
 
-8\. Whom the Brāhmaṇas, being heated by the fire, mix (with ghee) as making that vast and as one full of the fat; that Gharma (Pravargya) has come to the fire performing the Ṛta (sacrifice) like the dearest son near his father (2).[P181_r8]
-
-[P181_r8]: *(Mantra 8)* Putting of the ghee on the Mahāvīra.
+8\. Whom the Brāhmaṇas, being heated by the fire, mix (with ghee) as making that vast and as one full of the fat; that Gharma (Pravargya) has come to the fire performing the Ṛta (sacrifice) like the dearest son near his father (2).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2341,6 +2507,11 @@ Hail for the vitality! (1)[P181_r3]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अध्यधि महावीरमसंस्पृशन् यजमानः प्राञ्चं प्रादेशं धारयमाणो जपति - अनाधृष्या पुरस्तादित्येतैर् यथालिङ्गम् ।
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 9)* Prayer to be uttered by the Yajamāna, holding the Kuśa-grass on the top of the Mahāvīra.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2451,9 +2622,7 @@ famous, in the north (3), in the rule of Mitra-Varuṇa, grant me hearing;
 
 <details><summary>त्रिभुवनः</summary>
 
-disposer, above, in the rule of Bṛhaspati, grant me Brahma (sacred knowledge), grant me Kṣatra (dominion), put brilliance in me, put splendour in me, put fame in me, put mind in me.[P181_r9]
-
-[P181_r9]: *(Mantra 9)* Prayer to be uttered by the Yajamāna, holding the Kuśa-grass on the top of the Mahāvīra.
+disposer, above, in the rule of Bṛhaspati, grant me Brahma (sacred knowledge), grant me Kṣatra (dominion), put brilliance in me, put splendour in me, put fame in me, put mind in me.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2471,6 +2640,11 @@ disposer, above, in the rule of Bṛhaspati, grant me Brahma (sacred knowledge),
 विधृतिर् विविधानां ब्रह्मवर्चसादीनां धारणाद् ऊर्द्ध्वा दिक् । 'उपर्युपरिष्टात्' इति निपात्यते । बृहस्पतेर् बृहतां गुणानां पत्युर् आधिपये वर्तमानत्वात् । त्वम्मे ब्रह्म ब्रह्मवर्चसं क्षत्रं बलं ब्राह्मणक्षत्रियौ वा देहि । तेजःप्रभृतीनि पञ्च मे स्वभूतानि धेहि स्थापय अविनष्टानि कुरु ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 10)* Mantra for touching the earth.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नोर᳓श्वाऽसि भू᳓रिपुत्रा ।  
@@ -2480,9 +2654,7 @@ disposer, above, in the rule of Bṛhaspati, grant me Brahma (sacred knowledge),
 
 <details><summary>त्रिभुवनः</summary>
 
-10\. You are the pervading of Manu (men), having many sons; protect me from all the violences (4); become well enjoyable for me; do not, do not kill.[P181_r10]
-
-[P181_r10]: *(Mantra 10)* Mantra for touching the earth.
+10\. You are the pervading of Manu (men), having many sons; protect me from all the violences (4); become well enjoyable for me; do not, do not kill.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2502,6 +2674,11 @@ disposer, above, in the rule of Bṛhaspati, grant me Brahma (sacred knowledge),
 गार्हपत्यादुदीचोङ्गारान्निरूहति – तपोष्वग्न इति त्रिष्टुभा ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 11)* Mantra for throwing the charcoal.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓पोष्व᳙ग्ने अ᳓न्तराँ अमि᳓त्रान् ।  
@@ -2512,9 +2689,7 @@ disposer, above, in the rule of Bṛhaspati, grant me Brahma (sacred knowledge),
 
 <details><summary>त्रिभुवनः</summary>
 
-11\. O fire, heat (destroy) the inner enemies; heat (destroy) the not praising and coming outer enemy; heat (destroy), O knowing Vasu (giver of residence), those who have no good heart (for us); for them may your (flames), not injured and not tired, stand firm.[P182_r11]
-
-[P182_r11]: *(Mantra 11)* Mantra for throwing the charcoal.
+11\. O fire, heat (destroy) the inner enemies; heat (destroy) the not praising and coming outer enemy; heat (destroy), O knowing Vasu (giver of residence), those who have no good heart (for us); for them may your (flames), not injured and not tired, stand firm.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2533,6 +2708,11 @@ disposer, above, in the rule of Bṛhaspati, grant me Brahma (sacred knowledge),
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अङ्गारैः प्रदक्षिणं परिचिनोति - चितस्स्थेति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 12)* Mantra for throwing the charcoal round the Mahāvīra.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2562,9 +2742,7 @@ disposer, above, in the rule of Bṛhaspati, grant me Brahma (sacred knowledge),
 
 <details><summary>त्रिभुवनः</summary>
 
-Hail for Maruts; be spread all over.[P182_r12]
-
-[P182_r12]: *(Mantra 12)* Mantra for throwing the charcoal round the Mahāvīra.
+Hail for Maruts; be spread all over.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2580,6 +2758,11 @@ Hail for Maruts; be spread all over.[P182_r12]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 वैकङ्कतैः परिधिभिः परिधत्तः - मा असीति प्राञ्चावध्वयुर्निदधाति ।
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 13)* Mantra to be uttered while touching a sacrificial wood named 'Paridhi'.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2724,9 +2907,7 @@ you are above measuring,
 
 <details><summary>त्रिभुवनः</summary>
 
-you are the inner holder of the mid-region.[P182_r13]
-
-[P182_r13]: *(Mantra 13)* Mantra to be uttered while touching a sacrificial wood named 'Paridhi'.
+you are the inner holder of the mid-region.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2739,6 +2920,16 @@ you are the inner holder of the mid-region.[P182_r13]
 अन्तरिक्षस्यान्तः मध्ये धारक उत्तम्भनं त्वमसि हे त्रयोदश! अन्येभ्योपि विशिष्टोसि ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+सौवर्णेन रुक्मेणापिदधाति - दिवामिति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 14)* Mantra for placing the gold on Mahāvīra.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि᳓वन्त᳓पसस्त्रायस्व ।
@@ -2746,9 +2937,7 @@ you are the inner holder of the mid-region.[P182_r13]
 
 <details><summary>त्रिभुवनः</summary>
 
-14\. Protect the heaven from the heat.[P182_r14]
-
-[P182_r14]: *(Mantra 14)* Mantra for placing the gold on Mahāvīra.
+14\. Protect the heaven from the heat.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2758,12 +2947,19 @@ you are the inner holder of the mid-region.[P182_r13]
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-सौवर्णेन रुक्मेणापिदधाति - दिवामिति ॥ तपसः दाहान् महावीराद् दिवं त्रायस्व रक्षस्व यथाऽयं दिवं न दहेत् तथा कुरु । ब्राह्मणं च - 'अमुष्या अनतिदाहाय'22 इति ॥
+तपसः दाहान् महावीराद् दिवं त्रायस्व रक्षस्व यथाऽयं दिवं न दहेत् तथा कुरु । ब्राह्मणं च - 'अमुष्या अनतिदाहाय'22 इति ॥
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अभिमन्त्रयते - आभिरिति तिसृभिस् त्रिष्टुग्भिः ॥
+
+प्रथमा अच्छिद्रेषु व्याख्याता ।
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 15–17)* Mantras for sanctifying that.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2776,9 +2972,7 @@ you are the inner holder of the mid-region.[P182_r13]
 
 <details><summary>त्रिभुवनः</summary>
 
-15\. O Indra (Mahāvīra), being increased by these praises, fulfill that which is little here; when you strike the great clouds for the praisers, may then we be your enjoyers.[P182_r15_17]
-
-[P182_r15_17]: *(Mantras 15–17)* Mantras for sanctifying that.
+15\. O Indra (Mahāvīra), being increased by these praises, fulfill that which is little here; when you strike the great clouds for the praisers, may then we be your enjoyers.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2789,9 +2983,9 @@ you are the inner holder of the mid-region.[P182_r13]
 भू॒यि॒ष्ठ॒भाजो॒ अध॑ ते स्याम ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-प्रथमा अच्छिद्रेषु व्याख्याता ।
+द्वितीया तु 'अग्ने यं यज्ञम्' इत्यत्र ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2815,9 +3009,9 @@ you are the inner holder of the mid-region.[P182_r13]
 भ॒द्रा ते॑ पूषन्नि॒ह रा॒तिर॑स्तु ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-द्वितीया तु 'अग्ने यं यज्ञम्' इत्यत्र ॥
+अर्हन्निति तृतीया
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2843,12 +3037,18 @@ you are the inner holder of the mid-region.[P182_r13]
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अर्हन्निति तृतीया - हे देव ! त्वमेव सायकानि धन्य धनुश्च अर्हन् तन्निमित्तां पूजाम् अधिगच्छन् बिभर्षि धारयसि । अन्येषामल्पशौर्याणां विडम्बनैव स्यात् । किञ्च - निष्कम् आभरणजातं यजतं पूजितम् । औणादिकोऽतच्प्रत्ययः । विश्वरूपं विश्वाश्चर्यरूपं शोभितं त्वमेवार्हन् विभर्षि तवैतच्छोभामावहत्य् अन्येषां त्वल्पकान्तीनां भार एव सः । किञ्च - इदं विश्वं कृत्स्नमप्य् अब्भुवम् अद्भ्यस्सम्भूतं विकारजातं त्वमेवार्हन् दयसे रक्षस्य् अन्येषां त्वल्पशशक्तीनां श्रम एव सः । दय दानगतिरक्षणेषु । अद्भ्यो भवतीत्यब्भुवम् । छान्दसः कः । तस्मात् हे रुद्र! घर्मात्मना स्थितत्वात् त्वत् त्वत्त ओजीय ओजस्वितरं बलवत्तरं वा वस्तु न खल्वस्ति । ओजस्विशब्दादीयसुनि 'विन्मतोर्लुक्' 'टेः' इति टिलोपः । एवम् ओजसा तुल्यस्य प्रतिषिद्धत्वान् न पुष्कला स्तुतिः । अथ ब्रूमः - त्वत्तोऽन्यत्किञ्चिदपि वस्तु लोके ओजीयो नास्ति त्वमेव ओजीयान् । स्वव्यतिरिक्तं सर्वं प्रकृष्यते । त्वमेव सर्वस्मादोजस्वितरस् तस्मात्तुल्य उत्कृष्टो भव । प्रतिषेधाद्देवस्योचिता पुष्कला स्तुतिः कृता भवति ॥
+हे देव ! त्वमेव सायकानि धन्य धनुश्च अर्हन् तन्निमित्तां पूजाम् अधिगच्छन् बिभर्षि धारयसि । अन्येषामल्पशौर्याणां विडम्बनैव स्यात् । किञ्च - निष्कम् आभरणजातं यजतं पूजितम् । औणादिकोऽतच्प्रत्ययः । विश्वरूपं विश्वाश्चर्यरूपं शोभितं त्वमेवार्हन् विभर्षि तवैतच्छोभामावहत्य् अन्येषां त्वल्पकान्तीनां भार एव सः । किञ्च - इदं विश्वं कृत्स्नमप्य् अब्भुवम् अद्भ्यस्सम्भूतं विकारजातं त्वमेवार्हन् दयसे रक्षस्य् अन्येषां त्वल्पशशक्तीनां श्रम एव सः । दय दानगतिरक्षणेषु । अद्भ्यो भवतीत्यब्भुवम् । छान्दसः कः । तस्मात् हे रुद्र! घर्मात्मना स्थितत्वात् त्वत् त्वत्त ओजीय ओजस्वितरं बलवत्तरं वा वस्तु न खल्वस्ति । ओजस्विशब्दादीयसुनि 'विन्मतोर्लुक्' 'टेः' इति टिलोपः । एवम् ओजसा तुल्यस्य प्रतिषिद्धत्वान् न पुष्कला स्तुतिः । अथ ब्रूमः - त्वत्तोऽन्यत्किञ्चिदपि वस्तु लोके ओजीयो नास्ति त्वमेव ओजीयान् । स्वव्यतिरिक्तं सर्वं प्रकृष्यते । त्वमेव सर्वस्मादोजस्वितरस् तस्मात्तुल्य उत्कृष्टो भव । प्रतिषेधाद्देवस्योचिता पुष्कला स्तुतिः कृता भवति ॥
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-धवित्राण्यादत्ते - गायत्रमसि इत्यादिभिस् तिसृभिः ॥
+धवित्राण्यादत्ते - गायत्रमसि इत्यादिभिस् तिसृभिः ॥  
+गायत्र्याद्यात्मना लोकत्रयात्मना त्रयाणां स्तुतिः ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 18)* Mantra for taking a fan.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2864,11 +3064,6 @@ you are the inner holder of the mid-region.[P182_r13]
 <details><summary>मूलम्</summary>
 
 गा॒य॒त्रम॑सि ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-गायत्र्याद्यात्मना लोकत्रयात्मना त्रयाणां स्तुतिः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2893,9 +3088,7 @@ of Triṣṭup-verse
 
 <details><summary>त्रिभुवनः</summary>
 
-and of Jagatī-verse.[P183_r18]
-
-[P183_r18]: *(Mantra 18)* Mantra for taking a fan.
+and of Jagatī-verse.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2908,6 +3101,11 @@ and of Jagatī-verse.[P183_r18]
 तैरेनं त्रिरूर्ध्वम् उपवाजयति – मधुमध्विति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 19)* Mantra for blazing the fire by that fan.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓धु म᳓धु म᳓धु ॥ (18)
@@ -2915,9 +3113,7 @@ and of Jagatī-verse.[P183_r18]
 
 <details><summary>त्रिभुवनः</summary>
 
-19\. Honey, honey, honey (7).[P183_r19]
-
-[P183_r19]: *(Mantra 19)* Mantra for blazing the fire by that fan.
+19\. Honey, honey, honey (7).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2934,6 +3130,16 @@ and of Jagatī-verse.[P183_r18]
 
 ## 06
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+यत्राभिजानाति 'याभिर्वर्तिकां ग्रसिताममुञ्चतम्' इति तदध्वर्युर्महावीरमभिमन्त्रयते - दश प्राचीर्दश भासि दक्षिणा इत्यनुवाकेन । प्रथमा त्रिष्टुप् ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Mantra to be uttered on the Mahāvīra.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓श प्रा᳓चीर्द᳓श भासि दक्षिणा᳓ ।  
@@ -2944,9 +3150,7 @@ and of Jagatī-verse.[P183_r18]
 
 <details><summary>त्रिभुवनः</summary>
 
-1\. You shine in the east by ten (rays); you shine in the south by ten (rays); you shine in the west by ten (rays); you shine in the north by ten (rays); you shine above by ten (rays); may you, pleasant-minded and not violated, put brilliance in me.[P183_r6_1]
-
-[P183_r6_1]: *(Mantra 1)* Mantra to be uttered on the Mahāvīra.
+1\. You shine in the east by ten (rays); you shine in the south by ten (rays); you shine in the west by ten (rays); you shine in the north by ten (rays); you shine above by ten (rays); may you, pleasant-minded and not violated, put brilliance in me.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2959,7 +3163,12 @@ and of Jagatī-verse.[P183_r18]
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-यत्राभिजानाति 'याभिर्वर्तिकां ग्रसिताममुञ्चतम्' इति तदध्वर्युर्महावीरमभिमन्त्रयते - दश प्राचीर्दश भासि दक्षिणा इत्यनुवाकेन । प्रथमा त्रिष्टुप् ॥ प्राचीः प्रागञ्चना दश रुचः भासि भासयसि प्रकाशयसि । अन्तर्भावितण्यर्थो द्रष्टव्यः । दक्षिणा दक्षिणाञ्चनाः । 'दक्षिणादाच्' । प्रतीचीः प्रत्यगञ्चना उदीची: उदगञ्चाना ऊर्ध्वा ऊर्ध्वाञ्चना दश दश भासि भासयसि प्रतिदिशं दशदश रुचः प्रवर्तयन् ज्वलयसि । 'स नो रुचं धेहि' इति वक्ष्यमाणत्वाद् विशेष्यविशेषलाभः । दशशब्दो बहुत्ववचनः । यद्वा - एकैकस्यां दिशि दशदिगञ्चना दशप्रकारा रुचस् तास्तथाविधाः सर्वासु दिक्षु भासयसि प्रागादिपञ्चकोपादानं प्राधान्यात् । कोणाधारपञ्चकमपि गृह्यते दश इति वचनान् । एतदुक्तं भवति - दशस्वपि दिक्षु दशदिगञ्चना रुचो भासयसीति । तदेव स्पष्टयति - अहृणीयमानः कया चिदपि भानविधया अहीयमानः स त्वं नो ऽस्मभ्यं रुचं धेहि देह्य् अस्मासु वा सुमनस्यमानः सानुग्रहमना भव । मां रोचय दीप्तं कुरु । एवं दक्षिणादिषु व्याख्येयम् । द्युतानो नाम विशिष्टो मारुतः ॥
+प्राचीः प्रागञ्चना दश रुचः भासि भासयसि प्रकाशयसि । अन्तर्भावितण्यर्थो द्रष्टव्यः । दक्षिणा दक्षिणाञ्चनाः । 'दक्षिणादाच्' । प्रतीचीः प्रत्यगञ्चना उदीची: उदगञ्चाना ऊर्ध्वा ऊर्ध्वाञ्चना दश दश भासि भासयसि प्रतिदिशं दशदश रुचः प्रवर्तयन् ज्वलयसि । 'स नो रुचं धेहि' इति वक्ष्यमाणत्वाद् विशेष्यविशेषलाभः । दशशब्दो बहुत्ववचनः । यद्वा - एकैकस्यां दिशि दशदिगञ्चना दशप्रकारा रुचस् तास्तथाविधाः सर्वासु दिक्षु भासयसि प्रागादिपञ्चकोपादानं प्राधान्यात् । कोणाधारपञ्चकमपि गृह्यते दश इति वचनान् । एतदुक्तं भवति - दशस्वपि दिक्षु दशदिगञ्चना रुचो भासयसीति । तदेव स्पष्टयति - अहृणीयमानः कया चिदपि भानविधया अहीयमानः स त्वं नो ऽस्मभ्यं रुचं धेहि देह्य् अस्मासु वा सुमनस्यमानः सानुग्रहमना भव । मां रोचय दीप्तं कुरु । एवं दक्षिणादिषु व्याख्येयम् । द्युतानो नाम विशिष्टो मारुतः ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 2–3)* Mantras referring to the five quarters.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2984,9 +3193,7 @@ and of Jagatī-verse.[P183_r18]
 
 <details><summary>त्रिभुवनः</summary>
 
-you as such make us shine being shined.[P183_r6_2_3]
-
-[P183_r6_2_3]: *(Mantras 2–3)* Mantras referring to the five quarters.
+you as such make us shine being shined.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3119,6 +3326,11 @@ May you as such make us shine, being shined.
 देवानामौदुम्बरं मिनोति - रोचितस्त्वमित्यादि ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 4–7)* Mantras to be uttered on the Mahāvīra.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रोचित᳓स्त्व᳓न्देव घर्म देवे᳓ष्व᳓सि ।
@@ -3146,9 +3358,7 @@ May you as such make us shine, being shined.
 
 <details><summary>त्रिभुवनः</summary>
 
-may I become shining among the men.[P183_r6_4_7]
-
-[P183_r6_4_7]: *(Mantras 4–7)* Mantras to be uttered on the Mahāvīra.
+may I become shining among the men.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3299,6 +3509,16 @@ put the shining in me,
 
 ## 07
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+यथा लोकमवस्थाय सर्व ऋत्विजो यजमानश्चाधीयन्तो महावीरमवेक्षन्ते - अपश्यं गोपामिति । प्रथमा त्रिष्टुप् ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Mantra for looking at the Mahāvīra and praising as the protector.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓पश्यङ्गोपा᳓म᳓निपद्यमानम् ।  
@@ -3309,9 +3529,7 @@ put the shining in me,
 
 <details><summary>त्रिभुवनः</summary>
 
-1\. I have seen the protector (Mahāvīra in the form of the sun), which is not destroyable, moving in the ways infront and backward; that protects the (subjects), gathered or gone in different places; that comes again and again in the worlds.[P184_r7_1]
-
-[P184_r7_1]: *(Mantra 1)* Mantra for looking at the Mahāvīra and praising as the protector.
+1\. I have seen the protector (Mahāvīra in the form of the sun), which is not destroyable, moving in the ways infront and backward; that protects the (subjects), gathered or gone in different places; that comes again and again in the worlds.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3324,7 +3542,12 @@ put the shining in me,
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-यथा लोकमवस्थाय सर्व ऋत्विजो यजमानश्चाधीयन्तो महावीरमवेक्षन्ते - अपश्यं गोपामिति । प्रथमा त्रिष्टुप् ॥ अग्निरूपेण आदित्यरूपेण वा महावीरस्स्तूयते - अपश्यं पश्यामि पश्येयं वा त्वां गोपां सर्वस्य गोप्तारम् । आयप्रत्ययान्तात् क्विप् । गवां वा पातारम् । पातेर्विच् । अनिपद्यमानम् अन्यग्भवन्तं पथिभिर् मार्गैर् यज्ञियैर् आचरन्तम् इहागच्छन्तम् इतश्च परागच्छन्तं यज्ञार्थं सोऽस्माभिर् दृश्यमानः सध्रीचीः सहाञ्चतीर् विषूचीर् विष्वक् नानाऽञ्चतीश्च दीप्तीर् वसान आच्छादयन् । सहपूर्वादञ्चतेः क्विनि 'सहस्य सध्रिः' इति सध्र्यादेशः । अन्तोदात्तश्चेष्यते । नकाराकारयोर् लुप्तयोः 'चौ' इति दीर्घत्वम् । विषुशव्दस्य ऊर्यादित्वेन गतित्वात् 'अनिगन्तोऽञ्चतौ' इति प्रकृतिस्वरत्वम् । आवरीवर्ति इत्थं पुनःपुनरावर्ततां भुवनेष्वन्तः लोकमध्ये तद्रक्षणार्थम् । यङ्लुगन्तात् पञ्चमो लकारः ॥
+अग्निरूपेण आदित्यरूपेण वा महावीरस्स्तूयते - अपश्यं पश्यामि पश्येयं वा त्वां गोपां सर्वस्य गोप्तारम् । आयप्रत्ययान्तात् क्विप् । गवां वा पातारम् । पातेर्विच् । अनिपद्यमानम् अन्यग्भवन्तं पथिभिर् मार्गैर् यज्ञियैर् आचरन्तम् इहागच्छन्तम् इतश्च परागच्छन्तं यज्ञार्थं सोऽस्माभिर् दृश्यमानः सध्रीचीः सहाञ्चतीर् विषूचीर् विष्वक् नानाऽञ्चतीश्च दीप्तीर् वसान आच्छादयन् । सहपूर्वादञ्चतेः क्विनि 'सहस्य सध्रिः' इति सध्र्यादेशः । अन्तोदात्तश्चेष्यते । नकाराकारयोर् लुप्तयोः 'चौ' इति दीर्घत्वम् । विषुशव्दस्य ऊर्यादित्वेन गतित्वात् 'अनिगन्तोऽञ्चतौ' इति प्रकृतिस्वरत्वम् । आवरीवर्ति इत्थं पुनःपुनरावर्ततां भुवनेष्वन्तः लोकमध्ये तद्रक्षणार्थम् । यङ्लुगन्तात् पञ्चमो लकारः ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 2)* Mantra for looking and praising as the spring season.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3336,9 +3559,7 @@ put the shining in me,
 
 <details><summary>त्रिभुवनः</summary>
 
-2\. You protected us here by Madhu (spring season) and Mādhvī (wife of spring), (yea) by Madhu and Madhuci (wife of spring); (I see the Mahāvīra) following you for obtaining the gods.[P184_r7_2]
-
-[P184_r7_2]: *(Mantra 2)* Mantra for looking and praising as the spring season.
+2\. You protected us here by Madhu (spring season) and Mādhvī (wife of spring), (yea) by Madhu and Madhuci (wife of spring); (I see the Mahāvīra) following you for obtaining the gods.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3355,6 +3576,11 @@ put the shining in me,
 अथ मधु माध्वीभ्यामित्यादिकया अनुवामिति गायत्र्या अश्विनावुच्येते । मध्व् अस्या अस्तीति माध्व्य् अश्विनोर्मधुकुम्भ्य् उच्यते । 'मधोर्ङ्यच' इति मत्वर्थे ङ्यप्रत्ययः 'ऋत्व्यवास्त्व्य' इति निपात्यते । कुम्भी विशेष्यते - माधूची मध्वञ्चतीति मध्वः वसन्तस् तत्सम्बन्धिनी माधूची तत्राप्यायमानत्वात् । ब्राह्मणं च - 'वासन्तिकावेवास्मा ऋतू कल्पयति' इति । उत्सादित्वादञ् । पूर्ववत् 'चौ' इति दीर्घत्वम् । तादृश्यौ द्वे कुम्भ्यौ द्वयोर् हे अश्विनौ! ताभ्यामित्थम्भूतयोर् वां युवयोस् तादृशमधुकुम्भीसम्बन्धिनोर् देववीतये यागाय मध्येवानुरूपं हविर् घृतमिति यावत् । यथा 'अश्विना धर्मं पातं हार्दिवानं' इति । अनुशब्देनानुरूप्यं द्योत्यते । उभयविशेषणानुरूप्यं मधुनो द्योतयितुं मधुशब्दावृत्तिः । देववीतिशब्दो दासीभारादिर्द्रष्टव्यः । तस्मान्मधुरमिदं हविर् अत्र प्राप्नुतमिति । पक्षान्तरे मधुरं हविर् निवर्तयाम इति शेषः ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 3–4)* Mantras for looking and praising as the summer season.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓मग्नि᳓रग्नि᳓ना गत ।  
@@ -3364,9 +3590,7 @@ put the shining in me,
 
 <details><summary>त्रिभुवनः</summary>
 
-3\. The fire has gone with the fire, with the god Savitṛ and shines with (the god) sun (1).[P184_r7_3_4]
-
-[P184_r7_3_4]: *(Mantras 3–4)* Mantras for looking and praising as the summer season.
+3\. The fire has gone with the fire, with the god Savitṛ and shines with (the god) sun (1).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3405,6 +3629,11 @@ put the shining in me,
 स्वाहेत्वादि ॥ अथ स्वाहुतश्चायमग्निर् आनीतगोपयस् तपसा भृशं तापेकन तेजसा परेण समगत सङ्गंस्यते । यद्वा - स्वाहा सुष्ठु वागाह । समग्निरित्यादि । पूर्वमन्त्रोक्तस् तदिति देवेन सवित्रा सङ्गंस्यते ततस्सूर्येण समरोचिष्ट समानं रोचिष्यते । यथा - 'स्वाहा त्वा सूर्यस्य रश्मये' इति । 'आशंसायां भूतवच्च' इति भविष्यति लुङ् ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 5)* Mantra for looking and praising as the rainy season.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्ता᳓ दिवो᳓ वि᳓भासि र᳓जसः ।  
@@ -3416,9 +3645,7 @@ put the shining in me,
 
 <details><summary>त्रिभुवनः</summary>
 
-5\. You shine as the holder of the heaven, the region, the holder of the earth, the holder of the vast mid-region, the holder god of the gods, the immortal one and born of the austerity.[P185_r7_5]
-
-[P185_r7_5]: *(Mantra 5)* Mantra for looking and praising as the rainy season.
+5\. You shine as the holder of the heaven, the region, the holder of the earth, the holder of the vast mid-region, the holder god of the gods, the immortal one and born of the austerity.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3433,6 +3660,11 @@ put the shining in me,
 <details><summary>भट्टभास्कर-टीका</summary>
 
 धर्तेत्यादि ॥ धर्ता धारयिता भूत्वा दिवो रजसः धुलोकस्य उदकस्य वा विभासि विविधं दीप्यस्व । एवं पृथिव्या अन्तरिक्षस्य वा विस्तीर्णस्य देवानां च हविनिर्वहणादिना धर्ता देवः देवनशीलो ऽमर्त्यो ऽमरणधर्मा तपोजास् तपःप्रभवस् तापार्थं वा जातः । पूर्ववद्विट्, 'विडनोरनुनासिकस्यात्' इत्यात्वं च । एवं सर्वस्य वृष्ट्युत्पादनद्वारेण धर्ता भवन् भासीति । ब्राह्मणं च - 'वार्षिकावेवास्मा ऋतू कल्पयीत' इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 6)* Mantra for looking and praising as the autumn season.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3522,14 +3754,17 @@ make this sacrifice above,
 
 <details><summary>त्रिभुवनः</summary>
 
-give these sacrificings to the gods in the heaven.[P185_r7_6]
-
-[P185_r7_6]: *(Mantra 6)* Mantra for looking and praising as the autumn season.
+give these sacrificings to the gods in the heaven.
 </details>
 
 <details><summary>मूलम्</summary>
 
 दि॒वि दे॒वेषु॒ होत्रा॑ यच्छ ।
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 7)* Mantra for looking and praising as the winter season.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3563,9 +3798,7 @@ give these sacrificings to the gods in the heaven.[P185_r7_6]
 
 <details><summary>त्रिभुवनः</summary>
 
-O lord of all the world; O lord of the mind of all; O lord of all the speech, O lord of all the austerity, O lord of all the Brahman (sacred knowledge).[P185_r7_7]
-
-[P185_r7_7]: *(Mantra 7)* Mantra for looking and praising as the winter season.
+O lord of all the world; O lord of the mind of all; O lord of all the speech, O lord of all the austerity, O lord of all the Brahman (sacred knowledge).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3582,6 +3815,11 @@ O lord of all the world; O lord of the mind of all; O lord of all the speech, O 
 अथैतदादिका पङ्क्तिः पञ्चपदा अनवसाना - विश्वस्य भुवनस्पत इत्यादि । भुवनशब्दात् षष्ठ्येकवचनस्य व्यत्ययेन स्यादेशाभावे अतो गुणे पररूपत्वम् । सर्वत्र 'षष्ठ्याः पतिपुत्र' इति सत्वम् । ब्रह्म परिबृढं कर्म अत्र सविशेषणस्य षष्ठ्यन्तस्य 'सुबामन्त्रिते' इति पराङ्गवद्भावादामन्त्रितानामन्त्रितसमुदायस्य षाष्ठिकमामन्त्रिताद्युदात्तत्वम् । द्वितीयादीनां पूर्वपूर्वाविद्यमानतया निघाताभावः ।
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 8)* Mantra for looking and praising as the dewy season.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवश्रू᳓स्त्व᳓न्देव घर्म देवा᳓न्पाहि ।
@@ -3589,9 +3827,7 @@ O lord of all the world; O lord of the mind of all; O lord of all the speech, O 
 
 <details><summary>त्रिभुवनः</summary>
 
-8\. O Gharma (Pravargya), you are famous in the gods; protect the gods.[P185_r7_8]
-
-[P185_r7_8]: *(Mantra 8)* Mantra for looking and praising as the dewy season.
+8\. O Gharma (Pravargya), you are famous in the gods; protect the gods.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3604,6 +3840,11 @@ O lord of all the world; O lord of the mind of all; O lord of all the speech, O 
 हे देव! घर्म! देवश्रूर् देवेषु श्रूयमाणः ख्यातिं गतस्त्वं देवान् पाहि ।
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 9–17)* Mantras for looking and praising as wives invested with many qualities.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपोजाव्ँ᳓ वा᳓चमस्मे᳓ नि᳓यच्छ देवायु᳓वम् । (24)
@@ -3611,9 +3852,7 @@ O lord of all the world; O lord of the mind of all; O lord of all the speech, O 
 
 <details><summary>त्रिभुवनः</summary>
 
-9\. Grant us the speech, born of the austerity, going to the gods (3).[P185_r7_9_17]
-
-[P185_r7_9_17]: *(Mantras 9–17)* Mantras for looking and praising as wives invested with many qualities.
+9\. Grant us the speech, born of the austerity, going to the gods (3).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3832,6 +4071,11 @@ impel us as a father.
 हितेष्व् आयुश्शरीरमुदकं च अस्मासु धेहि स्थापय दीप्तेः प्रजाया धनस्य चास्मभ्यं दाताऽसि । हे अन्तरिक्षप्र! अन्तरिक्षस्य निजेन तेजसा पूरयितः ! । प्रा पूरणे, 'आतोऽनुपसर्गे कः' उरोर् विस्तीर्णादप्याकाशादेर् वरीयान् उरुतरोसि । तादृशं त्वाम् अशीमह्य् आप्नुयाम त्वदीयास्स्याम । छान्दसः शपो लुक् । त्वमप्य् अस्मान् विशेषेण मा हिंसीः ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 18)* Praise of the fire.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓मग्ने गृह᳓पतिर्विशा᳓मसि ।  
@@ -3844,9 +4088,7 @@ impel us as a father.
 
 <details><summary>त्रिभुवनः</summary>
 
-18\. O fire, you are the lord of the house of the subjects, consisting of all the men; O youngest one, protect us from the sin by hundred fulfillings (of the wealth etc.); make us sacrificers for hundred winters, make us courageous who (were) lazy (first); may here, indeed, be the wealths.[P186_r7_18]
-
-[P186_r7_18]: *(Mantra 18)* Praise of the fire.
+18\. O fire, you are the lord of the house of the subjects, consisting of all the men; O youngest one, protect us from the sin by hundred fulfillings (of the wealth etc.); make us sacrificers for hundred winters, make us courageous who (were) lazy (first); may here, indeed, be the wealths.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3869,6 +4111,11 @@ impel us as a father.
 परिश्रिते प्रतिप्रस्थाता पत्नीं वाचयति - त्वष्टीमतीति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 19)* Mantra to be uttered by the wife of the sacrificer after looking at the Mahāvīra.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓ष्टीमती ते सपेय ।  
@@ -3879,9 +4126,7 @@ impel us as a father.
 
 <details><summary>त्रिभुवनः</summary>
 
-19\. May I make sexual intercourse full of Tvaṣṭṛ (form-making god) by your protection; having good semen, keeping that semen, may I obtain the brave offspring in your presence; may I not be separated from wealth and nourishing (5).[P186_r7_19]
-
-[P186_r7_19]: *(Mantra 19)* Mantra to be uttered by the wife of the sacrificer after looking at the Mahāvīra.
+19\. May I make sexual intercourse full of Tvaṣṭṛ (form-making god) by your protection; having good semen, keeping that semen, may I obtain the brave offspring in your presence; may I not be separated from wealth and nourishing (5).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3901,6 +4146,16 @@ impel us as a father.
 
 ## 08
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+रशनामादत्ते - देवस्य त्वेति ॥ सावित्रो व्याख्यातः 'कर्मणे वाम्' इत्यत्र । आदद इति विशेषः ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Mantra for taking a rope.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुः᳓ प्रसवे᳓ ।  
@@ -3910,9 +4165,7 @@ impel us as a father.
 
 <details><summary>त्रिभुवनः</summary>
 
-1\. I take you by the impelling of the god Savitṛ, by the arms of Aśvins, by the hands of Pūṣan.[P186_r8_1]
-
-[P186_r8_1]: *(Mantra 1)* Mantra for taking a rope.
+1\. I take you by the impelling of the god Savitṛ, by the arms of Aśvins, by the hands of Pūṣan.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3922,9 +4175,14 @@ impel us as a father.
 पू॒ष्णो हस्ता॑भ्या॒मा द॑दे ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-रशनामादत्ते - देवस्य त्वेति ॥ सावित्रो व्याख्यातः 'कर्मणे वाम्' इत्यत्र । आदद इति विशेषः ॥
+तामभिमन्त्रयते - अदित्यै रास्नाऽसीति ॥ व्याख्यातं 'यज्ञस्य घोषदसि' इत्यत्र ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 2)* Mantra for purifying that rope.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3934,9 +4192,7 @@ impel us as a father.
 
 <details><summary>त्रिभुवनः</summary>
 
-2\. You are the bridle for Aditi.[P186_r8_2]
-
-[P186_r8_2]: *(Mantra 2)* Mantra for purifying that rope.
+2\. You are the bridle for Aditi.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3944,9 +4200,9 @@ impel us as a father.
 अदि॑त्यै॒ रास्ना॑सि ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>त्रिभुवनः - विनियोगः</summary>
 
-तामभिमन्त्रयते - अदित्यै रास्नाऽसीति ॥ व्याख्यातं 'यज्ञस्य घोषदसि' इत्यत्र ॥
+*(Mantras 3–4)* Mantras for calling the milch-cows.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3996,9 +4252,7 @@ O Aditi, come;
 
 <details><summary>त्रिभुवनः</summary>
 
-O Sarasvatī, come.[P186_r8_3_4]
-
-[P186_r8_3_4]: *(Mantras 3–4)* Mantras for calling the milch-cows.
+O Sarasvatī, come.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4066,6 +4320,16 @@ O that.....come (1).
 असा॒वेहि॑ । (27)
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+रशनया घर्मदुघमभिदधाति - अदित्या इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 5)* Mantra for tying the cows.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दित्या उष्णी᳓षमसि ।
@@ -4073,9 +4337,7 @@ O that.....come (1).
 
 <details><summary>त्रिभुवनः</summary>
 
-5\. You are the turban of Aditi.[P187_r8_5]
-
-[P187_r8_5]: *(Mantra 5)* Mantra for tying the cows.
+5\. You are the turban of Aditi.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4085,7 +4347,17 @@ O that.....come (1).
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-रशनया घर्मदुघमभिदधाति - अदित्या इति ॥ हे घर्मधुक् ! अदित्याः पृथिव्या देवमातुर्वा उष्णीषं शिरोवेष्टनमसि, उत्तमाङ्गालङ्करणमसीति यावत् । उष्णमज्ञातस्यैषणम् उष्णीषम् ॥
+हे घर्मधुक् ! अदित्याः पृथिव्या देवमातुर्वा उष्णीषं शिरोवेष्टनमसि, उत्तमाङ्गालङ्करणमसीति यावत् । उष्णमज्ञातस्यैषणम् उष्णीषम् ॥
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+वत्समभिदधाति - वायुरस्यैड इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 6)* Mantra for tying the calves.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4095,9 +4367,7 @@ O that.....come (1).
 
 <details><summary>त्रिभुवनः</summary>
 
-6\. You, the son of Iḍā, are the wind.[P187_r8_6]
-
-[P187_r8_6]: *(Mantra 6)* Mantra for tying the calves.
+6\. You, the son of Iḍā, are the wind.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4107,12 +4377,17 @@ O that.....come (1).
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-वत्समभिदधाति - वायुरस्यैड इति ॥ वाय्वधिष्ठातृकत्वाद् वायुरिति वत्स उच्यते, यथा - 'वायवस्स्थ' इति । ऐड इडासन्बन्धी स त्वमसि । सम्बन्धसामान्यस्य विवक्षितत्वादपत्यत्वमपि ॥
+वाय्वधिष्ठातृकत्वाद् वायुरिति वत्स उच्यते, यथा - 'वायवस्स्थ' इति । ऐड इडासन्बन्धी स त्वमसि । सम्बन्धसामान्यस्य विवक्षितत्वादपत्यत्वमपि ॥
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 [उपावसृजति वत्सं - पूषेति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 7)* Mantra for releasing the calves.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4142,9 +4417,7 @@ O that.....come (1).
 
 <details><summary>त्रिभुवनः</summary>
 
-for Aśvins, cause to swell milk.[P187_r8_7]
-
-[P187_r8_7]: *(Mantra 7)* Mantra for releasing the calves.
+for Aśvins, cause to swell milk.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4157,6 +4430,16 @@ for Aśvins, cause to swell milk.[P187_r8_7]
 त्वं च] अश्विभ्याम् अश्व्यर्थं प्रदापय प्रस्नावयपयः ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+धर्मदुधमभिमन्त्रयते – यस्त इति इयं त्रिष्टुबनवसाना ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 8)* Mantra addressing to the cow.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स्ते स्त᳓नश्शशयो᳓ यो᳓ मयोभूः᳓ ।  
@@ -4167,9 +4450,7 @@ for Aśvins, cause to swell milk.[P187_r8_7]
 
 <details><summary>त्रिभुवनः</summary>
 
-8\. O Sarasvatī, which is your udder, sleeping, comfortful, by which you nourish all the choosable ones, which keeps wealth, which is knower of the things, good donator; make that worth sucking for the gods.[P187_r8_8]
-
-[P187_r8_8]: *(Mantra 8)* Mantra addressing to the cow.
+8\. O Sarasvatī, which is your udder, sleeping, comfortful, by which you nourish all the choosable ones, which keeps wealth, which is knower of the things, good donator; make that worth sucking for the gods.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4182,12 +4463,17 @@ for Aśvins, cause to swell milk.[P187_r8_7]
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-धर्मदुधमभिमन्त्रयते – यस्त इति इयं त्रिष्टुबनवसाना ॥ हे सरस्वति! गौः ! यस्ते त्वदीयः स्तनः शशयः शयानो ऽप्रस्नुतत्वात् । पचाद्यच् । छान्दसं द्विवचनम् । यः स्तनः मयोभूः क्षीरदानेन सुखस्य भावयिता लोकस्य । येन स्तनेन विश्वा वार्याणि वरणीयानि दधिक्षीरघृतादीनि पुप्यसि पुष्णासि । यश्च ते स्तनः रत्नधा रमणीयानां धनानां घृतादीनां धारयिता अत एव वसुविद् बहुनो वसुनो धनस्य वेत्ता लब्धा बहुमूल्य इति यावत् । यश्च सुदत्रः शोभनदानः न तु धनवत्वमात्रमेव । 'आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । तं तादृशं महानुभावं स्तनम् इह अस्मिन्वत्से निमित्ते धातवे पातुं योग्यं प्रस्नुतक्षीरम् अकः कुरु । यद्वा - इह कर्मणि देवेभ्यो दातुं शक्तं हविर्दानसमर्थं तं स्तनं कुरु । करोतेर्लुङि 'मन्त्रे घस' इति च्लेर्लुक् । धयतेर्दधातेर्वा 'तुमर्थे सेसेन्' इति तवैन्प्रत्ययः ॥
+हे सरस्वति! गौः ! यस्ते त्वदीयः स्तनः शशयः शयानो ऽप्रस्नुतत्वात् । पचाद्यच् । छान्दसं द्विवचनम् । यः स्तनः मयोभूः क्षीरदानेन सुखस्य भावयिता लोकस्य । येन स्तनेन विश्वा वार्याणि वरणीयानि दधिक्षीरघृतादीनि पुप्यसि पुष्णासि । यश्च ते स्तनः रत्नधा रमणीयानां धनानां घृतादीनां धारयिता अत एव वसुविद् बहुनो वसुनो धनस्य वेत्ता लब्धा बहुमूल्य इति यावत् । यश्च सुदत्रः शोभनदानः न तु धनवत्वमात्रमेव । 'आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । तं तादृशं महानुभावं स्तनम् इह अस्मिन्वत्से निमित्ते धातवे पातुं योग्यं प्रस्नुतक्षीरम् अकः कुरु । यद्वा - इह कर्मणि देवेभ्यो दातुं शक्तं हविर्दानसमर्थं तं स्तनं कुरु । करोतेर्लुङि 'मन्त्रे घस' इति च्लेर्लुक् । धयतेर्दधातेर्वा 'तुमर्थे सेसेन्' इति तवैन्प्रत्ययः ॥
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 वत्सं निदधाति - उस्र धर्ममिति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 9)* Mantra addressing to the calf.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4237,9 +4523,7 @@ O calf, protect the Gharma (2);
 
 <details><summary>त्रिभुवनः</summary>
 
-leave for the Gharma (Pravargya).[P187_r8_9]
-
-[P187_r8_9]: *(Mantra 9)* Mantra addressing to the calf.
+leave for the Gharma (Pravargya).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4257,6 +4541,11 @@ leave for the Gharma (Pravargya).[P187_r8_9]
 उपसीदति - वृहस्पतिस्त्वेति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 10)* Mantra for going to milk the cow.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ᳓हस्प᳓तिस्त्वो᳓पसीदतु ।
@@ -4264,9 +4553,7 @@ leave for the Gharma (Pravargya).[P187_r8_9]
 
 <details><summary>त्रिभुवनः</summary>
 
-10\. May Bṛhaspati go to you (for milking you).[P187_r8_10]
-
-[P187_r8_10]: *(Mantra 10)* Mantra for going to milk the cow.
+10\. May Bṛhaspati go to you (for milking you).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4284,6 +4571,11 @@ leave for the Gharma (Pravargya).[P187_r8_9]
 स्तनान् सम्मृशति - दानवस्स्थेति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 11)* Mantra for touching the udder.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दा᳓नवस्स्थ पे᳓रवः ।  
@@ -4292,9 +4584,7 @@ leave for the Gharma (Pravargya).[P187_r8_9]
 
 <details><summary>त्रिभुवनः</summary>
 
-11\. (O udders!) you are donators, you are worth sucking by the calf and separated by the blood.[P187_r8_11]
-
-[P187_r8_11]: *(Mantra 11)* Mantra for touching the udder.
+11\. (O udders!) you are donators, you are worth sucking by the calf and separated by the blood.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4311,6 +4601,11 @@ leave for the Gharma (Pravargya).[P187_r8_9]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 रक्ष्य[क्षर]माणा वर्षीयसि दोग्ध्रे दोग्धि - अश्विभ्यामित्यादि ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 12)* Mantra for milking.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4395,9 +4690,7 @@ for Indra, cause to swell milk;
 
 <details><summary>त्रिभुवनः</summary>
 
-(yes) for Indra, cause to swell milk (3).[P187_r8_12]
-
-[P187_r8_12]: *(Mantra 12)* Mantra for milking.
+(yes) for Indra, cause to swell milk (3).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4412,7 +4705,13 @@ for Indra, cause to swell milk;
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-शफावादत्ते - गायत्रोसि त्रैष्टुभोसीति ॥
+शफावादत्ते - गायत्रोसि त्रैष्टुभोसीति ॥  
+छन्दस्त्वेन शफयोः स्तुतिः ।
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 13)* Mantra addressing to the 'Śapha' and the 'Upayama' woods.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4428,11 +4727,6 @@ for Indra, cause to swell milk;
 <details><summary>मूलम्</summary>
 
 गा॒य॒त्रो॑ऽसि ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-छन्दस्त्वेन शफयोः स्तुतिः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4462,9 +4756,7 @@ you are of Triṣṭup-verse,
 
 <details><summary>त्रिभुवनः</summary>
 
-you are of Jagatī-verse.[P187_r8_13]
-
-[P187_r8_13]: *(Mantra 13)* Mantra addressing to the 'Śapha' and the 'Upayama' woods.
+you are of Jagatī-verse.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4482,6 +4774,11 @@ you are of Jagatī-verse.[P187_r8_13]
 पय आह्रीयमाणं समीक्षते - सहोर्ज इति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 14)* Mantra addressing to the milk.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहो᳓र्जो᳓ भागे᳓नो᳓पमे᳓हि ।
@@ -4489,9 +4786,7 @@ you are of Jagatī-verse.[P187_r8_13]
 
 <details><summary>त्रिभुवनः</summary>
 
-14\. Come to me with the part of the vigour.[P187_r8_14]
-
-[P187_r8_14]: *(Mantra 14)* Mantra addressing to the milk.
+14\. Come to me with the part of the vigour.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4509,6 +4804,11 @@ you are of Jagatī-verse.[P187_r8_13]
 महावीरे गोपय आनयति - इन्द्रेति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 15)* Mantra addressing to Indra and Aśvins.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राश्विना म᳓धुनस्सारघ᳓स्य ।  
@@ -4517,9 +4817,7 @@ you are of Jagatī-verse.[P187_r8_13]
 
 <details><summary>त्रिभुवनः</summary>
 
-15\. O Indra and Aśvins, drink the Gharma (milk with ghee) of the sweet honey.[P187_r8_15]
-
-[P187_r8_15]: *(Mantra 15)* Mantra addressing to Indra and Aśvins.
+15\. O Indra and Aśvins, drink the Gharma (milk with ghee) of the sweet honey.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4533,6 +4831,11 @@ you are of Jagatī-verse.[P187_r8_13]
 हे इन्द्र ! हे अश्विना ! ते यूयं घर्मं तप्तं पयः पात पिबत । 'बहुलं छन्दसि' इति शपो लुक् । कीदृशं सारघस्य मधुन एकदेशं तत्तुल्यमिति यावत् । सरघा मधुमक्षिका । ताभिरुत्पादितस्य । हे वसवः ! यूयम् एतद् यजत इन्द्रादिभ्यो दत्त सङ्गमयत वा तैः । वषट्करोति - वडिति । सम्प्रदानार्थस्य वषट्कारस्य विकृतनिर्देशः परोक्षत्वाय । ब्राह्मणं च भवति – 'वडित्याह । परोक्षमेव वषटुरोति'41 इति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 16)* Mantra for offering the oblation to the sun.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हा त्वा सू᳓र्यस्य रश्म᳓ये वृष्टिव᳓नये जुहोमि ।
@@ -4540,9 +4843,7 @@ you are of Jagatī-verse.[P187_r8_13]
 
 <details><summary>त्रिभुवनः</summary>
 
-16\. Hail! I sacrifice you for the rays of the sun that cause rain.[P188_r8_16]
-
-[P188_r8_16]: *(Mantra 16)* Mantra for offering the oblation to the sun.
+16\. Hail! I sacrifice you for the rays of the sun that cause rain.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4560,6 +4861,11 @@ you are of Jagatī-verse.[P187_r8_13]
 अजापय आनयति - मध्विति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 17)* Mantra addressing to the milk of the goat.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓धु हवि᳓रसि ।
@@ -4567,9 +4873,7 @@ you are of Jagatī-verse.[P187_r8_13]
 
 <details><summary>त्रिभुवनः</summary>
 
-17\. You are the sweet oblation.[P188_r8_17]
-
-[P188_r8_17]: *(Mantra 17)* Mantra addressing to the milk of the goat.
+17\. You are the sweet oblation.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4582,6 +4886,11 @@ you are of Jagatī-verse.[P187_r8_13]
 मधुरं हविस्त्वमेवासि ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 18)* Mantra addressing to the light of the sun.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू᳓र्यस्य त᳓पस्तप ।
@@ -4589,9 +4898,7 @@ you are of Jagatī-verse.[P187_r8_13]
 
 <details><summary>त्रिभुवनः</summary>
 
-18\. Heat even the heat of the sun.[P188_r8_18]
-
-[P188_r8_18]: *(Mantra 18)* Mantra addressing to the light of the sun.
+18\. Heat even the heat of the sun.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4606,7 +4913,13 @@ you are of Jagatī-verse.[P187_r8_13]
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-महावीरं शफाभ्यां परिगृह्णाति - द्यावापृथिवीभ्यां त्वेति ॥
+महावीरं शफाभ्यां परिगृह्णाति - द्यावापृथिवीभ्यां त्वेति ॥  
+द्यावापृथिवीत्वेन शफयोः स्तुतिः ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 19)* Mantra for taking the Mahāvīra by two Śapha woods.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4616,9 +4929,7 @@ you are of Jagatī-verse.[P187_r8_13]
 
 <details><summary>त्रिभुवनः</summary>
 
-19\. I take you by the heaven and the earth (4).[P188_r8_19]
-
-[P188_r8_19]: *(Mantra 19)* Mantra for taking the Mahāvīra by two Śapha woods.
+19\. I take you by the heaven and the earth (4).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4626,14 +4937,14 @@ you are of Jagatī-verse.[P187_r8_13]
 द्यावा॑पृथि॒वीभ्या॑न्त्वा॒ परि॑गृह्णामि । (30)
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-द्यावापृथिवीत्वेन शफयोः स्तुतिः ॥
-</details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उपयमनेन प्रतिप्रस्थाता उपयच्छति - अन्तरिक्षेणेति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 20)* Mantra for dusting away the ashes.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4643,9 +4954,7 @@ you are of Jagatī-verse.[P187_r8_13]
 
 <details><summary>त्रिभुवनः</summary>
 
-20\. I raise you by the mid-region.[P188_r8_20]
-
-[P188_r8_20]: *(Mantra 20)* Mantra for dusting away the ashes.
+20\. I raise you by the mid-region.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4658,6 +4967,11 @@ you are of Jagatī-verse.[P187_r8_13]
 पूर्ववत् स्तुतिः । उपयमनम् अधस्तात्ग्रहणम् ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 21)* Mantra for lifting the Mahāvīra.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓नान्त्वा पितृणा᳓म᳓नुमतो भ᳓र्तुँ शकेयम् ।
@@ -4665,9 +4979,7 @@ you are of Jagatī-verse.[P187_r8_13]
 
 <details><summary>त्रिभुवनः</summary>
 
-21\. May I become able to hold you being assented by the gods and the fathers.[P188_r8_21]
-
-[P188_r8_21]: *(Mantra 21)* Mantra for lifting the Mahāvīra.
+21\. May I become able to hold you being assented by the gods and the fathers.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4683,6 +4995,11 @@ you are of Jagatī-verse.[P187_r8_13]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्राङ्हरति - तेजोसीति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 22)* Mantra for bringing the Mahāvīra.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4847,9 +5164,7 @@ grant me heaven,
 
 <details><summary>त्रिभुवनः</summary>
 
-protect me from the heaven (5).[P188_r8_22]
-
-[P188_r8_22]: *(Mantra 22)* Mantra for bringing the Mahāvīra.
+protect me from the heaven (5).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4869,6 +5184,11 @@ protect me from the heaven (5).[P188_r8_22]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 व्रजन्ननवानं पञ्च वातनामानि व्याचष्टे - समुद्राय त्वेत्यादीनि ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Mantra for sacrificing the oblations.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5118,9 +5438,7 @@ Hail for you, Savitṛ, accompanied with Ṛbhus, accompanied with the pervading
 
 <details><summary>त्रिभुवनः</summary>
 
-Hail for you, Yama, accompanied with Aṅgiras, accompanied with the fathers.[P188_r9_1]
-
-[P188_r9_1]: *(Mantra 1)* Mantra for sacrificing the oblations.
+Hail for you, Yama, accompanied with Aṅgiras, accompanied with the fathers.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5133,6 +5451,16 @@ Hail for you, Yama, accompanied with Aṅgiras, accompanied with the fathers.[P1
 अङ्गिरस्वान् पितृमान् यमः प्राणः यमोङ्गिरोभिस् तपस्विभिस् तद्वान् तेषां प्रभावस्याग्निसम्पाद्यत्वात् । स स्वयं प्राण एव बलवन्मथनप्रभावत्वात् ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अपरेणाहवनीयं दक्षिणातिक्रामन् ब्राह्मणमीक्षते - विश्वा आशा इति । अनुष्टुबेषा ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 2)* Mantra for circumambulating the Āhavanīya-fire.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वा आ᳓शा दक्षिणस᳓त् ।
@@ -5140,9 +5468,7 @@ Hail for you, Yama, accompanied with Aṅgiras, accompanied with the fathers.[P1
 
 <details><summary>त्रिभुवनः</summary>
 
-2\. All the good-wishes are (in Brahman), sitting in the south.[P189_r9_2]
-
-[P189_r9_2]: *(Mantra 2)* Mantra for circumambulating the Āhavanīya-fire.
+2\. All the good-wishes are (in Brahman), sitting in the south.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5152,7 +5478,12 @@ Hail for you, Yama, accompanied with Aṅgiras, accompanied with the fathers.[P1
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अपरेणाहवनीयं दक्षिणातिक्रामन् ब्राह्मणमीक्षते - विश्वा आशा इति । अनुष्टुबेषा ॥ विश्वा आशा आशिषो ऽभिप्रेतान्य् अयं दक्षिणसद् ब्रह्मा विहारस्य दक्षिणतस्सीदतीति दक्षिणसत् । एतदधीना इति भावः । अस्य हि दृष्ट्याऽविकलया यागनिर्वृत्तौ सर्वाभिमतकर्मफलसिद्धिरस्माकं भवतीति ख्यापयति ॥
+विश्वा आशा आशिषो ऽभिप्रेतान्य् अयं दक्षिणसद् ब्रह्मा विहारस्य दक्षिणतस्सीदतीति दक्षिणसत् । एतदधीना इति भावः । अस्य हि दृष्ट्याऽविकलया यागनिर्वृत्तौ सर्वाभिमतकर्मफलसिद्धिरस्माकं भवतीति ख्यापयति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 3)* Mantra for looking at the Hotṛ-priest.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5162,9 +5493,7 @@ Hail for you, Yama, accompanied with Aṅgiras, accompanied with the fathers.[P1
 
 <details><summary>त्रिभुवनः</summary>
 
-3\. (He) worshipped all the gods.[P189_r9_3]
-
-[P189_r9_3]: *(Mantra 3)* Mantra for looking at the Hotṛ-priest.
+3\. (He) worshipped all the gods.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5175,6 +5504,11 @@ Hail for you, Yama, accompanied with Aṅgiras, accompanied with the fathers.[P1
 <details><summary>भट्टभास्कर-टीका</summary>
 
 होतारमीक्षते - विश्वानिति ॥ इह अस्मिन् कर्मणि विश्वान् देवान् यष्टव्यान् अयम् अयाट् यक्ष्यति । 'आशंसायां भूतवच्च' इति भविष्यति लङ् । हलन्तलक्षणा वृद्धिः । 'बहुलं छन्दसि' इतीडभावे हल्ङ्यादिसंयोगान्तलोपयोर् व्रश्चादिना षत्वम् ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 4)* Mantra for sanctifying the sacrificial things.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5226,9 +5560,7 @@ Hail for the fire, the sacrificeable!
 
 <details><summary>त्रिभुवनः</summary>
 
-May there propitiation be by the Yajus-Mantra.[P189_r9_4]
-
-[P189_r9_4]: *(Mantra 4)* Mantra for sanctifying the sacrificial things.
+May there propitiation be by the Yajus-Mantra.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5246,6 +5578,11 @@ May there propitiation be by the Yajus-Mantra.[P189_r9_4]
 संस्कृते वषट्कृते जुहोति - अश्विना घर्ममिति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 5–6)* Mantras for sacrificing the oblations on the fire.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓श्विना घर्मं᳓ पातँ हार्दिवान᳓म् । (33)  
@@ -5255,9 +5592,7 @@ May there propitiation be by the Yajus-Mantra.[P189_r9_4]
 
 <details><summary>त्रिभुवनः</summary>
 
-5\. O Aśvins, drink the Gharma (milk with ghee) which is good for the heart (2); (protect us) by your shining protections (in this sacrificing) day; may the heaven and earth assent you; Hail for Indra![P189_r9_5_6]
-
-[P189_r9_5_6]: *(Mantras 5–6)* Mantras for sacrificing the oblations on the fire.
+5\. O Aśvins, drink the Gharma (milk with ghee) which is good for the heart (2); (protect us) by your shining protections (in this sacrificing) day; may the heaven and earth assent you; Hail for Indra!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5299,6 +5634,16 @@ May there propitiation be by the Yajus-Mantra.[P189_r9_4]
 इन्द्रा इन्द्राय । 'सुपां सुलुक्' इत्याकारः । स्वाहुतमिदं हविरस्त्व् इन्द्राय । वडिति वषट्कारविकारः प्रदानार्थः ।
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अनुवाकशेषेणोपतिष्ठते - धर्ममपातमिति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 7)* Prayer after the sacrificing.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घर्म᳓मपातमश्विना हार्दिवान᳓म् ।  
@@ -5322,7 +5667,7 @@ May there propitiation be by the Yajus-Mantra.[P189_r9_4]
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अनुवाकशेषेणोपतिष्ठते - धर्ममपातमिति ॥ समानं पूर्वेण । भूतकालत्वं विशेषः । तं प्राव्यमिति प्रकर्षेणावन्ति तृप्यन्त्यनेनेति प्राव्यो ऽहर्दिवाऽनुवृत्तितृप्तिहेतुः । करणे ण्यत् । तद् घर्मं वषट्कृतं प्राव्यं यथा अन्वमंसातां तथा तदनुमत्यै (?) स हि प्राव्यत्वमभिभवति । तस्मादुभयमप्य् अन्वमंसाताम् इत्युक्तं भवति । यद्वा - यथा वट् वषट्कारः कृतस् तस्यतस्य तं प्राव्यमन्वमंसातां यथास्वं तृप्तिहेतुमनुमतवत्यौ । यथेत्यसमस्त एव ।
+समानं पूर्वेण । भूतकालत्वं विशेषः । तं प्राव्यमिति प्रकर्षेणावन्ति तृप्यन्त्यनेनेति प्राव्यो ऽहर्दिवाऽनुवृत्तितृप्तिहेतुः । करणे ण्यत् । तद् घर्मं वषट्कृतं प्राव्यं यथा अन्वमंसातां तथा तदनुमत्यै (?) स हि प्राव्यत्वमभिभवति । तस्मादुभयमप्य् अन्वमंसाताम् इत्युक्तं भवति । यद्वा - यथा वट् वषट्कारः कृतस् तस्यतस्य तं प्राव्यमन्वमंसातां यथास्वं तृप्तिहेतुमनुमतवत्यौ । यथेत्यसमस्त एव ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5492,9 +5837,7 @@ go to the gods, who drink the Gharma (milk with ghee),
 
 <details><summary>त्रिभुवनः</summary>
 
-go to the fathers, who drink the Gharma (milk with ghee) (4).[P189_r9_7]
-
-[P189_r9_7]: *(Mantra 7)* Prayer after the sacrificing.
+go to the fathers, who drink the Gharma (milk with ghee) (4).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5514,6 +5857,11 @@ go to the fathers, who drink the Gharma (milk with ghee) (4).[P189_r9_7]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उपर्याहवनीये धार्यमाणं प्रतिप्रस्थाता शृतदध्नाऽभिपूरयति । तत्राभिपूरणे विक्षरन्तं महावीरमभिमन्त्रयते - इषे पीपिहीति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Mantra to be uttered on the remaining article.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5698,9 +6046,7 @@ be increased for the sacrificer;
 
 <details><summary>त्रिभुवनः</summary>
 
-be increased for my greatness.[P190_r10_1]
-
-[P190_r10_1]: *(Mantra 1)* Mantra to be uttered on the remaining article.
+be increased for my greatness.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5718,6 +6064,11 @@ be increased for my greatness.[P190_r10_1]
 अथैनं दिशोऽनुप्रवाहयति - त्विष्यैत्वेत्यादि । त्विष्याद्यर्थं त्वां क्षारयामि प्रतिदिशम् ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 2)* Mantra addressed to the Pravargya with reference to the quarters.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वि᳓ष्यै त्वा ।  
@@ -5727,9 +6078,7 @@ be increased for my greatness.[P190_r10_1]
 
 <details><summary>त्रिभुवनः</summary>
 
-2\. (I sacrifice) you for the brilliance, for the shining wealth, for the senses and for the prosperity.[P190_r10_2]
-
-[P190_r10_2]: *(Mantra 2)* Mantra addressed to the Pravargya with reference to the quarters.
+2\. (I sacrifice) you for the brilliance, for the shining wealth, for the senses and for the prosperity.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5742,6 +6091,11 @@ be increased for my greatness.[P190_r10_1]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पूर्वस्मिन्खरे राजतं रुक्मं निधाय तस्मिन्महावीरं प्रतिष्ठापयति - धर्माऽसीति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 3)* Mantra for replacing the Mahāvīra.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5831,9 +6185,7 @@ put the subject;
 
 <details><summary>त्रिभुवनः</summary>
 
-may the wind not move you even (2).[P190_r10_3]
-
-[P190_r10_3]: *(Mantra 3)* Mantra for replacing the Mahāvīra.
+may the wind not move you even (2).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5849,6 +6201,11 @@ may the wind not move you even (2).[P190_r10_3]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ यद्यभिचरेद् अनेन सादयति - अपुष्येति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 4)* Mantra for destroying the enemies.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5880,9 +6237,7 @@ may the wind not move you even (2).[P190_r10_3]
 
 <details><summary>त्रिभुवनः</summary>
 
-go with him useless (making his works useless).[P190_r10_4]
-
-[P190_r10_4]: *(Mantra 4)* Mantra for destroying the enemies.
+go with him useless (making his works useless).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5900,6 +6255,11 @@ go with him useless (making his works useless).[P190_r10_4]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथैताञ्छकलान् षडुपयमने जुहोति - पूष्णे शरस इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 5)* Mantra for putting the fuels in the fire.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5984,9 +6344,7 @@ Hail for the heaven and the earth!
 
 <details><summary>त्रिभुवनः</summary>
 
-Hail for the fathers, drinkers of the Gharma (milk with ghee)![P190_r10_5]
-
-[P190_r10_5]: *(Mantra 5)* Mantra for putting the fuels in the fire.
+Hail for the fathers, drinkers of the Gharma (milk with ghee)!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6004,6 +6362,11 @@ Hail for the fathers, drinkers of the Gharma (milk with ghee)![P190_r10_5]
 षष्ठं शकलं सर्वेषु लेपेष्वङ्क्त्वाऽनन्वीक्षमाण उदञ्चं निरस्यति - रुद्राय रुद्रहोत्र इति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 6)* Mantra for throwing a wood behind the priest's back.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्रा᳓य रुद्र᳓होत्रे स्वा᳓हा । (38)
@@ -6011,9 +6374,7 @@ Hail for the fathers, drinkers of the Gharma (milk with ghee)![P190_r10_5]
 
 <details><summary>त्रिभुवनः</summary>
 
-6\. Hail for Rudra, the chief Rudra.[P190_r10_6]
-
-[P190_r10_6]: *(Mantra 6)* Mantra for throwing a wood behind the priest's back.
+6\. Hail for Rudra, the chief Rudra.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6029,6 +6390,11 @@ Hail for the fathers, drinkers of the Gharma (milk with ghee)![P190_r10_5]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 रौहिणयोर्मन्त्रः - अहरित्यादि ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 7)* Mantra for offering the oblation by the Pratiprasthātṛ-priest.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6093,9 +6459,7 @@ May the light of the night be connected with the impelling (of the moon);
 
 <details><summary>त्रिभुवनः</summary>
 
-the good light of the lights.[P190_r10_7]
-
-[P190_r10_7]: *(Mantra 7)* Mantra for offering the oblation by the Pratiprasthātṛ-priest.
+the good light of the lights.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6106,6 +6470,11 @@ the good light of the lights.[P190_r10_7]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अग्निहोत्रे समिधोराधानमन्त्रौ - अपीपर इति ॥ प्रथमः सायं होमस्य ।
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 8)* Mantra for morning and evening offering of fuel.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6325,9 +6694,7 @@ give me life;
 
 <details><summary>त्रिभुवनः</summary>
 
-make me full of brilliance.[P191_r10_8]
-
-[P191_r10_8]: *(Mantra 8)* Mantra for morning and evening offering of fuel.
+make me full of brilliance.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6338,6 +6705,11 @@ make me full of brilliance.[P191_r10_8]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सायमग्निहोत्रहोममन्त्रः - अग्निर्ज्योतिरिति । एकपदा त्रिष्टुप् ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 9)* Mantra for morning and evening oblations.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6372,9 +6744,7 @@ make me full of brilliance.[P191_r10_8]
 
 <details><summary>त्रिभुवनः</summary>
 
-the sun is the light; the light is the sun; Hail![P191_r10_9]
-
-[P191_r10_9]: *(Mantra 9)* Mantra for morning and evening oblations.
+the sun is the light; the light is the sun; Hail!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6387,6 +6757,16 @@ the sun is the light; the light is the sun; Hail![P191_r10_9]
 पूर्वेण गतार्थः ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+भूस्स्वाहेति ॥ अयमपि होममन्त्रः । विकल्प इत्येके । भूरिति गार्हपत्ये अन्यत्रान्येनेत्यन्ये । ब्राह्मणं च 'भूस्स्वाहेत्येव होतव्यम्' इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 10)* Mantra for offering prickly wood after touching the water.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूः᳓ स्वा᳓हा ।
@@ -6394,9 +6774,7 @@ the sun is the light; the light is the sun; Hail![P191_r10_9]
 
 <details><summary>त्रिभुवनः</summary>
 
-10\. Bhūḥ (the earth or the being), Hail! The fire, Hail![P191_r10_10]
-
-[P191_r10_10]: *(Mantra 10)* Mantra for offering prickly wood after touching the water.
+10\. Bhūḥ (the earth or the being), Hail! The fire, Hail!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6404,9 +6782,14 @@ the sun is the light; the light is the sun; Hail![P191_r10_9]
 भूः स्वाहा॑ ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-भूस्स्वाहेति ॥ अयमपि होममन्त्रः । विकल्प इत्येके । भूरिति गार्हपत्ये अन्यत्रान्येनेत्यन्ये । ब्राह्मणं च 'भूस्स्वाहेत्येव होतव्यम्' इति ॥
+सर्वे समुपहूय भक्षयन्ति – हुतं हविरिति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 11)* Mantra to be uttered after eating the remaining offering.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6430,7 +6813,7 @@ the sun is the light; the light is the sun; Hail![P191_r10_9]
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-सर्वे समुपहूय भक्षयन्ति – हुतं हविरिति ॥ हुतं हविर् असि हुतस्य घर्मस्य हविषश्शेषस् त्वमसि हे घर्मशेष! त्वं हि मधु मधुरं हविर् होमार्हं च । तस्माद् इन्द्रतमे ईश्वरतमे अग्नौ स्वादिष्ठम् आदित्ये प्राणे वा हुतं हविस्त्वमसि ।
+हुतं हविर् असि हुतस्य घर्मस्य हविषश्शेषस् त्वमसि हे घर्मशेष! त्वं हि मधु मधुरं हविर् होमार्हं च । तस्माद् इन्द्रतमे ईश्वरतमे अग्नौ स्वादिष्ठम् आदित्ये प्राणे वा हुतं हविस्त्वमसि ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6524,9 +6907,7 @@ we have enjoyed you as such;
 
 <details><summary>त्रिभुवनः</summary>
 
-do not, do not kill.[P191_r10_11]
-
-[P191_r10_11]: *(Mantra 11)* Mantra to be uttered after eating the remaining offering.
+do not, do not kill.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6542,6 +6923,11 @@ do not, do not kill.[P191_r10_11]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सर्वं परिघर्म्यम् आसन्द्यां सादयति प्रातः - स्वाहेति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 12)* Mantra for filling the sacrificial vessels for morning and evening offerings, before the Āhavanīya fire.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6576,9 +6962,7 @@ do not, do not kill.[P191_r10_11]
 
 <details><summary>त्रिभुवनः</summary>
 
-Hail for you! (Hail) for the stars! (5)[P191_r10_12]
-
-[P191_r10_12]: *(Mantra 12)* Mantra for filling the sacrificial vessels for morning and evening offerings, before the Āhavanīya fire.
+Hail for you! (Hail) for the stars! (5)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6598,6 +6982,11 @@ Hail for you! (Hail) for the stars! (5)[P191_r10_12]
 अथ प्रतिप्रस्थाता त्रीन्सन्नखान् शलाकान्मुष्टीनादाय तेषामेकमाहवनीये प्रदीप्य आस्यदघ्ने धारयति । तमध्वर्युरभिजुहोति - घर्म या ते दिवि शुगिति ।
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Mantra for making an oblation by the Adhvaryu-priest, while the Pratiprasthātṛ-priest, having lighted one of the three splinters of pointed wood, holds it high near the face.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घ᳓र्म या᳓ ते दिवि᳓ शु᳓क् ।  
@@ -6609,9 +6998,7 @@ Hail for you! (Hail) for the stars! (5)[P191_r10_12]
 
 <details><summary>त्रिभुवनः</summary>
 
-1\. O Gharma (Pravargya), what is your sorrow in the heaven, what is in the Gāyatrī-verse, what is in the Brāhmaṇa, what is in the sacrificial place (Havirdhāna); all that I destroy by this sacrifice.[P191_r11_1]
-
-[P191_r11_1]: *(Mantra 1)* Mantra for making an oblation by the Adhvaryu-priest, while the Pratiprasthātṛ-priest, having lighted one of the three splinters of pointed wood, holds it high near the face.
+1\. O Gharma (Pravargya), what is your sorrow in the heaven, what is in the Gāyatrī-verse, what is in the Brāhmaṇa, what is in the sacrificial place (Havirdhāna); all that I destroy by this sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6631,6 +7018,11 @@ Hail for you! (Hail) for the stars! (5)[P191_r10_12]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तस्मिन्नपरं प्रदीप्य नाभिदघ्ने धारयति तमध्वर्युरभिजुहोति - घर्म या ते अन्तरिक्षे शुगिति ।
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 2)* Mantra while the lighted wood is held near the navel and the knee.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6677,9 +7069,7 @@ Hail for you! (Hail) for the stars! (5)[P191_r10_12]
 
 <details><summary>त्रिभुवनः</summary>
 
-O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya (caste); I destroy all that by this sacrifice, Hail![P192_r11_2]
-
-[P192_r11_2]: *(Mantra 2)* Mantra while the lighted wood is held near the navel and the knee.
+O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya (caste); I destroy all that by this sacrifice, Hail!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6699,6 +7089,13 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उपनिष्क्रामन्ति - अनु नोऽद्यानुमतिरन्विदनुमते त्वमिति ॥
+
+द्वयोरनुष्टभोः प्रतीकग्रहणम् । व्याख्याते चेमे 'इदं वामास्ये' इत्यत्र ।
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 3)* Mantra for throwing the splinters in the Āhavanīya fire and bringing the wife of the sacrificer there.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6709,10 +7106,9 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 
 <details><summary>त्रिभुवनः</summary>
 
-3\. "May the assent for us today" and "you, indeed, in assent" (these Mantras should be uttered).[P192_1][P192_r11_3]
+3\. "May the assent for us today" and "you, indeed, in assent" (these Mantras should be uttered).[P192_1]
 
 [P192_1]: T.S. 3.3.11.
-[P192_r11_3]: *(Mantra 3)* Mantra for throwing the splinters in the Āhavanīya fire and bringing the wife of the sacrificer there.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6721,9 +7117,14 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 अन्विद॑नुमते॒ त्वम् ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-द्वयोरनुष्टभोः प्रतीकग्रहणम् । व्याख्याते चेमे 'इदं वामास्ये' इत्यत्र ।
+प्रथमद्वितीयतृतीयविभागेनाव्वसु प्रव्रजतां त्रयो मन्त्राः - दिवस्त्वेत्याद्या बृहतीविशेषा वयमन्तास् तृतीयाः पादाः ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 4–6)* Mantra for making holes at three parts for carrying the Pravargya.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6736,9 +7137,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 
 <details><summary>त्रिभुवनः</summary>
 
-4\. We follow you, the protecting one of the heaven; protect (2) the bodies of the mid-region; we follow you, the holder of the earth for the new fruit.[P192_r11_4_6]
-
-[P192_r11_4_6]: *(Mantras 4–6)* Mantra for making holes at three parts for carrying the Pravargya.
+4\. We follow you, the protecting one of the heaven; protect (2) the bodies of the mid-region; we follow you, the holder of the earth for the new fruit.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6751,7 +7150,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-प्रथमद्वितीयतृतीयविभागेनाव्वसु प्रव्रजतां त्रयो मन्त्राः - दिवस्त्वेत्याद्या बृहतीविशेषा वयमन्तास् तृतीयाः पादाः ॥ अत्र धर्म प्रति परिपालनप्रार्थनावाचो युक्तिं त्रेधा लोकादिषु करोति । हे धर्म ! दिवस्सवन्धिनी तव या परस्पा प्रकृष्टं पालनं तदर्थं त्वामनुक्रामाम अनुगच्छामः प्रकर्षेण दिवं पाहीति । स त्वम् अन्तरिक्षस्यापि सम्बन्धिनीस् तनुवः पाहि शरीराण्य् अन्तरिक्षचारिणो गन्धर्वान् शरीरिणः पाहि स्पष्टार्था । अथ पृथिव्यास्सम्बन्धिना धर्मणा धारणेन पालनेन रक्षाकर्मणा वा प्रसिद्धेन इत्थम्भूतं त्वां वयमनुक्रामाम पृथिवीमपि धारयेति । प्रार्थितमेतेन सविताय फलाय एवं लोकानां सुरक्षितत्वात् तेषु भोगफलं सुखेन गम्यं भवति । तन्वादित्वादुवङ् । सूपमानात्कृदुत्तरपदान्तोदात्तत्वम् । नव्यसे अभिनवतराय फलाय अनुक्रामामेति ॥
+अत्र धर्म प्रति परिपालनप्रार्थनावाचो युक्तिं त्रेधा लोकादिषु करोति । हे धर्म ! दिवस्सवन्धिनी तव या परस्पा प्रकृष्टं पालनं तदर्थं त्वामनुक्रामाम अनुगच्छामः प्रकर्षेण दिवं पाहीति । स त्वम् अन्तरिक्षस्यापि सम्बन्धिनीस् तनुवः पाहि शरीराण्य् अन्तरिक्षचारिणो गन्धर्वान् शरीरिणः पाहि स्पष्टार्था । अथ पृथिव्यास्सम्बन्धिना धर्मणा धारणेन पालनेन रक्षाकर्मणा वा प्रसिद्धेन इत्थम्भूतं त्वां वयमनुक्रामाम पृथिवीमपि धारयेति । प्रार्थितमेतेन सविताय फलाय एवं लोकानां सुरक्षितत्वात् तेषु भोगफलं सुखेन गम्यं भवति । तन्वादित्वादुवङ् । सूपमानात्कृदुत्तरपदान्तोदात्तत्वम् । नव्यसे अभिनवतराय फलाय अनुक्रामामेति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6811,6 +7210,11 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 उदकुम्भमादायाध्वर्युस्त्रिः प्रदक्षिणमुत्तरवेदिं परिषिञ्चन् पर्येति - वल्गुरिति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 7–8)* Mantras for Adhvaryu to circumambulate the Uttara Vedi sprinkling the water by a jar.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वल्गु᳓रसि शय्ँ यु᳓धायाः । (44)  
@@ -6819,9 +7223,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 
 <details><summary>त्रिभुवनः</summary>
 
-7\. You are the beauty of the propitiation-holding (3), the son of the men-holding one.[P192_3]
-
-[P192_3]: *(Mantras 7–8)* Mantras for Adhvaryu to circumambulate the Uttara Vedi sprinkling the water by a jar.
+7\. You are the beauty of the propitiation-holding (3), the son of the men-holding one.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6860,6 +7262,11 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 सम्यक्च सर्वतश्च वह यद्वोढव्यम् । वर्णान्यत्वं छान्दसं वहेर्लटि शपो लुक् ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 9)* Mantra for touching the Uttara Vedi.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुस्स्रक्तिर्ना᳓भिरृत᳓स्य ।
@@ -6867,9 +7274,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 
 <details><summary>त्रिभुवनः</summary>
 
-9\. The quadrangular (altar) is the navel of Ṛta (settled order).[P192_r11_9]
-
-[P192_r11_9]: *(Mantra 9)* Mantra for touching the Uttara Vedi.
+9\. The quadrangular (altar) is the navel of Ṛta (settled order).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6882,6 +7287,16 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 उत्तरं नाभिमभिमृशति - चतुस्स्रक्तिरिति ॥ चतुस्स्रक्तिश् चतुष्कोणा ऋतस्य यज्ञस्य भूमेर् नाभिर् नहनस्थानं त्वमसि हे प्रवर्ग्य! ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+उत्तरवेदिमभिमृशति - सद इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 10)* Mantra for cleaning the Uttara Vedi.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓दो विश्वा᳓युश्श᳓र्म सप्र᳓थाः ।
@@ -6889,9 +7304,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 
 <details><summary>त्रिभुवनः</summary>
 
-10\. You are the seat; full of all the life and the vast comfort.[P193_r11_10]
-
-[P193_r11_10]: *(Mantra 10)* Mantra for cleaning the Uttara Vedi.
+10\. You are the seat; full of all the life and the vast comfort.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6901,7 +7314,17 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-उत्तरवेदिमभिमृशति - सद इति ॥ सदस्थानं च त्वमसि । कीदृशं? विश्वायुर् विश्वमायुर् येन तादृक् शर्म शरणं सुखहेतुर्वा सप्रथाः प्रथावद् विस्तीर्णम् । लिङ्गव्यत्ययः । यस्मात्सर्वस्य ईदृशं सुखस्थानं त्वमसि तस्माद्वयमपि त्वामाश्रित्य ईदृशा भूयास्म ॥
+सदस्थानं च त्वमसि । कीदृशं? विश्वायुर् विश्वमायुर् येन तादृक् शर्म शरणं सुखहेतुर्वा सप्रथाः प्रथावद् विस्तीर्णम् । लिङ्गव्यत्ययः । यस्मात्सर्वस्य ईदृशं सुखस्थानं त्वमसि तस्माद्वयमपि त्वामाश्रित्य ईदृशा भूयास्म ॥
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+मार्जालीयदेश उच्छिष्टखरम् - अपद्वेष इति । द्विपदा गायत्री ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 11)* Mantra for overcoming the enemies.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6912,9 +7335,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 
 <details><summary>त्रिभुवनः</summary>
 
-11\. We have put away the haters and the wicked ones and obtained the opposite of these by the rule (of this sacrifice).[P193_r11_11]
-
-[P193_r11_11]: *(Mantra 11)* Mantra for overcoming the enemies.
+11\. We have put away the haters and the wicked ones and obtained the opposite of these by the rule (of this sacrifice).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6925,12 +7346,17 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-मार्जालीयदेश उच्छिष्टखरम् - अपद्वेष इति । द्विपदा गायत्री ॥ द्वेषः द्वेषयुक्तं ह्वरः कुटिलं पापम् । द्विष अप्रीतौ, ह्वृ कौटिल्ये, द्वाभ्यामसुन् । अन्यतस्य अन्यज् ज्योतिष्टोमादिव्यतिरिक्तमशास्त्रीयं व्रतं कर्म यस्य तस्य ह्वरस् तेन युक्तं वधादिप्रयोगश्च उभयमप्य् अपसश्चिम अपनयामः । छान्दसोऽडादेशस्य लुक् नकारोपजनह्रस्वत्वे । छान्दसे लिट्य् उत्तमपुरुषबहुवचने छान्दस उपधालोपः व्यत्ययेन परस्मैपदम् ॥
+द्वेषः द्वेषयुक्तं ह्वरः कुटिलं पापम् । द्विष अप्रीतौ, ह्वृ कौटिल्ये, द्वाभ्यामसुन् । अन्यतस्य अन्यज् ज्योतिष्टोमादिव्यतिरिक्तमशास्त्रीयं व्रतं कर्म यस्य तस्य ह्वरस् तेन युक्तं वधादिप्रयोगश्च उभयमप्य् अपसश्चिम अपनयामः । छान्दसोऽडादेशस्य लुक् नकारोपजनह्रस्वत्वे । छान्दसे लिट्य् उत्तमपुरुषबहुवचने छान्दस उपधालोपः व्यत्ययेन परस्मैपदम् ॥
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पात्राणि पूरयति यान्यासेचनवन्ति दध्ना मधुमिश्रेण - घर्मेति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 12)* Mantra for filling some cups with curd and honey.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6981,9 +7407,7 @@ be (4) increased and satisfied by that;
 
 <details><summary>त्रिभुवनः</summary>
 
-may we become increased and satisfied.[P193_r11_12]
-
-[P193_r11_12]: *(Mantra 12)* Mantra for filling some cups with curd and honey.
+may we become increased and satisfied.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6995,6 +7419,16 @@ may we become increased and satisfied.[P193_r11_12]
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ततस्त्वत्प्रसादाद् वयम् अपि वर्धिषीमहि च आप्यासिषीमहि च । वर्णान्यत्वं छान्दसं, विकारान्तरं वा सकारः ॥
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथैनमुपतिष्ठते - रन्तिर्नामासीति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 13–21)* Mantras addressed to the Pravargya while standing before it.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7014,7 +7448,7 @@ may we become increased and satisfied.[P193_r11_12]
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अथैनमुपतिष्ठते - रन्तिर्नामासीति ॥ हे घर्मपुरुष! रतिहेतुस्त्वं भूतानामसि । 'क्तिचि क्तौ च' 'न क्तिचि दीर्घश्च' इति दीर्घत्वलोपयोरभावः । वृषादिर्द्रष्टव्यः । क्तिरेव छान्दसो लोपाभावः । दिव्यः दिवि भवः गन्धर्वः गोर्वाच उदकस्य पृथिव्या वा धारयिता ।
+हे घर्मपुरुष! रतिहेतुस्त्वं भूतानामसि । 'क्तिचि क्तौ च' 'न क्तिचि दीर्घश्च' इति दीर्घत्वलोपयोरभावः । वृषादिर्द्रष्टव्यः । क्तिरेव छान्दसो लोपाभावः । दिव्यः दिवि भवः गन्धर्वः गोर्वाच उदकस्य पृथिव्या वा धारयिता ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7064,9 +7498,7 @@ the fire is the president;
 
 <details><summary>त्रिभुवनः</summary>
 
-Rudra is sovereign.[P193_r11_13_21]
-
-[P193_r11_13_21]: *(Mantras 13–21)* Mantras addressed to the Pravargya while standing before it.
+Rudra is sovereign.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -7157,6 +7589,11 @@ Rudra is sovereign.[P193_r11_13_21]
 अचिक्रददिति गायत्री ॥ अचिक्रदत् क्रन्दयति स्तनयति वृषा वर्षतेर् अनि णिजन्ताद् लुटि वृषादिः । हरिर् मनोहरः प्राणिनाम् उपमानपदं वा इन्द्र इव वर्षिता । महान् पूजितः मित्रो न प्रिय इव दर्शतः दर्शनीयो ऽयं सूर्येण संरोचते समं दीप्यते रोचतां वा ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+चिदसीति पङ्क्तिश् चतुष्पदा यजुरन्ता ॥ अग्नौ व्याख्याता ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चि᳓दसि समुद्र᳓योनिः ।  
@@ -7178,11 +7615,6 @@ Rudra is sovereign.[P193_r11_13_21]
 हिर॑ण्यपक्षश्शकु॒नो भु॑र॒ण्युः ।  
 म॒हान्त्स॒धस्थे॑ द्ध्रु॒व आनिष॑त्तः । (47)  
 नम॑स्ते अस्तु॒ मा मा॑ हिँसीः ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-चिदसीति पङ्क्तिश् चतुष्पदा यजुरन्ता ॥ अग्नौ व्याख्याता ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7341,6 +7773,11 @@ O drinking of Soma, come to me.
 मार्जालीयदेश उच्छिष्टखरे मार्जयन्ते - सुमित्रा न इति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 22)* Mantra for turning Pravargya round the fire.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमित्रा᳓ न आ᳓प ओ᳓षधयस्सन्तु । (49)
@@ -7370,9 +7807,7 @@ O drinking of Soma, come to me.
 
 <details><summary>त्रिभुवनः</summary>
 
-may they become bad friends of him, who hates me or whom I hate.[P194_r11_22]
-
-[P194_r11_22]: *(Mantra 22)* Mantra for turning Pravargya round the fire.
+may they become bad friends of him, who hates me or whom I hate.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -7382,6 +7817,16 @@ may they become bad friends of him, who hates me or whom I hate.[P194_r11_22]
 यञ्च॑ व॒यन्द्वि॒ष्मः ।
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+आदित्यमुपतिष्ठते - उद्वयं तमस इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 23)* Mantra for cleaning the Pravargya.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓द्वय᳓न्त᳓मसस्प᳓रि ।
@@ -7389,9 +7834,8 @@ may they become bad friends of him, who hates me or whom I hate.[P194_r11_22]
 
 <details><summary>त्रिभुवनः</summary>
 
-23\. "May we, above the darkness"[P194_r11_23][P194_1]
+23\. "May we, above the darkness"[P194_1]
 
-[P194_r11_23]: *(Mantra 23)* Mantra for cleaning the Pravargya.
 [P194_1]: T.S. 4.1.7.
 </details>
 
@@ -7400,14 +7844,16 @@ may they become bad friends of him, who hates me or whom I hate.[P194_r11_22]
 उद्व॒यन्तम॑स॒स्परि॑ ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-आदित्यमुपतिष्ठते - उद्वयं तमस इति ॥
-</details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 गार्हपत्ये जुहोति - उदु त्यं चित्रमिति द्वाभ्याम् ॥
+
+एतास्तिस्रो गायत्र्यः व्याख्याताः । अत्रासां प्रतीकग्रहणम् ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 24)* Mantras for offering the oblations and inviting the sun.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7417,9 +7863,8 @@ may they become bad friends of him, who hates me or whom I hate.[P194_r11_22]
 
 <details><summary>त्रिभुवनः</summary>
 
-24\. and "Above, that, verily," "wonderful" (these Mantras should be uttered).[P194_r11_24][P194_2]
+24\. and "Above, that, verily," "wonderful" (these Mantras should be uttered).[P194_2]
 
-[P194_r11_24]: *(Mantra 24)* Mantras for offering the oblations and inviting the sun.
 [P194_2]: T.S. 1.4.43.
 </details>
 
@@ -7428,14 +7873,14 @@ may they become bad friends of him, who hates me or whom I hate.[P194_r11_22]
 उदु॒त्यञ्चि॒त्रम् ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-एतास्तिस्रो गायत्र्यः व्याख्याताः । अत्रासां प्रतीकग्रहणम् ॥
-</details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 आहवनीये जुहोति - इममूषुत्यम् इति गायत्र्या ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 25)* Mantras for making oblation to the Āhavanīya fire.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7447,9 +7892,7 @@ may they become bad friends of him, who hates me or whom I hate.[P194_r11_22]
 
 <details><summary>त्रिभुवनः</summary>
 
-25\. O fire, proclaim this new (sacrifice), connected with the Gāyatrī-verse for the fruit-giving to us among the gods (8).[P194_r11_25]
-
-[P194_r11_25]: *(Mantra 25)* Mantras for making oblation to the Āhavanīya fire.
+25\. O fire, proclaim this new (sacrifice), connected with the Gāyatrī-verse for the fruit-giving to us among the gods (8).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -7473,6 +7916,11 @@ may they become bad friends of him, who hates me or whom I hate.[P194_r11_22]
 महावीरे गोपय आनयति - महीनामिति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 1–3)* Mantras for pouring the milk, the honey, and the curd in the Mahāvīra respectively.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महीनां᳓ प᳓योऽसि वि᳓हितन्देवत्रा᳓ ।
@@ -7480,9 +7928,7 @@ may they become bad friends of him, who hates me or whom I hate.[P194_r11_22]
 
 <details><summary>त्रिभुवनः</summary>
 
-1\. You are the milk of the great cows milked for the gods.[P194_r1_3]
-
-[P194_r1_3]: *(Mantras 1–3)* Mantras for pouring the milk, the honey, and the curd in the Mahāvīra respectively.
+1\. You are the milk of the great cows milked for the gods.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -7493,6 +7939,11 @@ may they become bad friends of him, who hates me or whom I hate.[P194_r11_22]
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे गोपयः ! महीनां महनीयानां गवां पयोसि देवत्रा देवेषु देवनिमित्तं विहितं कॢप्तम् ॥
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+मध्वानयति - ज्योतिर्भा इति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7512,7 +7963,7 @@ may they become bad friends of him, who hates me or whom I hate.[P194_r11_22]
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-मध्वानयति - ज्योतिर्भा इति ॥ हे मधो! ज्योतिर्भा ज्योतिषामपि भासयितृ त्वम् असि वनस्पतीनाम् ओषधीनां च रसः सारः ॥
+हे मधो! ज्योतिर्भा ज्योतिषामपि भासयितृ त्वम् असि वनस्पतीनाम् ओषधीनां च रसः सारः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7541,6 +7992,11 @@ may they become bad friends of him, who hates me or whom I hate.[P194_r11_22]
 
 ## 13
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+यदि धर्मः स्कन्देद् अस्कान्द्यौर् इति द्वाभ्याम् अनुष्टुब्गायत्रीभ्यां घर्ममभिमन्त्रयते - अस्कानिति ॥ व्याख्याते चैते ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓स्कान्द्यौः᳓ पृथिवी᳓म् ।  
@@ -7560,11 +8016,6 @@ may they become bad friends of him, who hates me or whom I hate.[P194_r11_22]
 अस्का॑नृष॒भो युवा॒गाः ।  
 स्क॒न्नेमा विश्वा॒ भुव॑ना ।  
 स्क॒न्नो य॒ज्ञः प्रज॑नयतु ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-यदि धर्मः स्कन्देद् अस्कान्द्यौर् इति द्वाभ्याम् अनुष्टुब्गायत्रीभ्यां घर्ममभिमन्त्रयते - अस्कानिति ॥ व्याख्याते चैते ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7593,6 +8044,11 @@ may they become bad friends of him, who hates me or whom I hate.[P194_r11_22]
 
 ## 14
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+यदि घर्मेण चरत्सु विद्युदापतेत् पूर्वादिषु दिक्षु यथालिङ्गं जुहुयात् सर्वतो यदि सर्वैर्वा जुहुयात् - या पुरस्तादिति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ पुर᳓स्ताद्विद्यु᳓दा᳓पतत् ।  
@@ -7612,7 +8068,7 @@ may they become bad friends of him, who hates me or whom I hate.[P194_r11_22]
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-यदि घर्मेण चरत्सु विद्युदापतेत् पूर्वादिषु दिक्षु यथालिङ्गं जुहुयात् सर्वतो यदि सर्वैर्वा जुहुयात् - या पुरस्तादिति ॥ पुरस्तात् पूर्वस्यां दिशि या विद्युद् आपतत् तां तन्निमित्तमनिष्टं ते तव सम्बन्ध्य् एतेन होमेनावयजे अपनयामि ।
+पुरस्तात् पूर्वस्यां दिशि या विद्युद् आपतत् तां तन्निमित्तमनिष्टं ते तव सम्बन्ध्य् एतेन होमेनावयजे अपनयामि ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7647,6 +8103,11 @@ I destroy that lightning, which fell from the south, west, north, or above by th
 
 ## 15
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+घर्मप्रायश्चित्तानि प्राणाय स्वाहा पूष्णे स्वाहेति ॥ द्वावनुवाकौ । प्रथम प्राणव्यानापानचक्षुश्श्रोत्रमनोवाग्भिः सप्त होमाः ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणा᳓य स्वा᳓हा
@@ -7660,11 +8121,6 @@ I destroy that lightning, which fell from the south, west, north, or above by th
 <details><summary>मूलम्</summary>
 
 प्रा॒णाय॒ स्वाहा॑
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-घर्मप्रायश्चित्तानि प्राणाय स्वाहा पूष्णे स्वाहेति ॥ द्वावनुवाकौ । प्रथम प्राणव्यानापानचक्षुश्श्रोत्रमनोवाग्भिः सप्त होमाः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7784,6 +8240,11 @@ Hail for the Vāc! Hail for Sarasvatī!
 पूषा पुष्टिकरः पशूनाम् ।
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 1–2)* Expiations for defects.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूष्णे᳓ श᳓रसे स्वा᳓हा ।
@@ -7891,9 +8352,7 @@ Hail for Pūṣan, the leader of the men;
 
 <details><summary>त्रिभुवनः</summary>
 
-Hail for Pūṣan, full of knowledge![P195_r1_2]
-
-[P195_r1_2]: *(Mantras 1–2)* Expiations for defects.
+Hail for Pūṣan, full of knowledge!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8026,6 +8485,16 @@ may Prajāpati put you with that god; sit firm with Aṅgiras.
 
 ## 18
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+कुलायिनीमुपदधाति - यास्त इति ॥ इयमतिशक्करी पञ्चपदा यजुरन्ता । प्रथमः पादो विवृद्धः ।
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Prayer to Agni.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓स्ते अग्न आर्द्रा᳓ यो᳓नयो याः᳓ कुलायि᳓नीः ।  
@@ -8051,7 +8520,7 @@ may Prajāpati put you with that god; sit firm with Aṅgiras.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-कुलायिनीमुपदधाति - यास्त इति ॥ इयमतिशक्करी पञ्चपदा यजुरन्ता । प्रथमः पादो विवृद्धः । हे अग्ने ! अग्न्याधारभूते इष्टके! यास्ते तव आर्द्रा रसवत्यः योनयः कारणभूता ओषधिवनस्पतयः याः स्वयोनयः कुलायिनीः कुलायवत्यः नीडाः शुष्का हे अग्ने! ते तव य इन्दव ऐश्वर्यहेतवः योनयः याश्च तव नाभयः नहनस्थानानि योनयः हे अग्ने! याश्च ते तव तनुवः शरीराण्णि शरीरस्थितिहेतव ऊर्जों नाम रसास् ताभिर् उभयीभिर् योनिभिस् तनुभिश्च संविदान ऐकमत्यं गतः हे अग्ने! त्वं प्रजाभिर् द्रविणा द्रविणैश्च सह अस्मभ्यं देयैर् इह सीद । 'सुपां सुलुक्' इति तृतीयाया आकारः ।
+हे अग्ने ! अग्न्याधारभूते इष्टके! यास्ते तव आर्द्रा रसवत्यः योनयः कारणभूता ओषधिवनस्पतयः याः स्वयोनयः कुलायिनीः कुलायवत्यः नीडाः शुष्का हे अग्ने! ते तव य इन्दव ऐश्वर्यहेतवः योनयः याश्च तव नाभयः नहनस्थानानि योनयः हे अग्ने! याश्च ते तव तनुवः शरीराण्णि शरीरस्थितिहेतव ऊर्जों नाम रसास् ताभिर् उभयीभिर् योनिभिस् तनुभिश्च संविदान ऐकमत्यं गतः हे अग्ने! त्वं प्रजाभिर् द्रविणा द्रविणैश्च सह अस्मभ्यं देयैर् इह सीद । 'सुपां सुलुक्' इति तृतीयाया आकारः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8062,9 +8531,7 @@ may Prajāpati put you with that god; sit firm with Aṅgiras.
 
 <details><summary>त्रिभुवनः</summary>
 
-May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1]
-
-[P196_r1]: *(Mantra 1)* Prayer to Agni.
+May Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8081,6 +8548,11 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1]
 </details>
 
 ## 19
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Mantra for placing the hot bricks.
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8425,9 +8897,7 @@ A-this, Pra-this, Vi-this, Sam-this, Ud-this — (by these the able-being is spe
 
 <details><summary>त्रिभुवनः</summary>
 
-May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1_ext]
-
-[P196_r1_ext]: *(Mantra 1)* Mantra for placing the hot bricks.
+May Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8470,6 +8940,16 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1_ext]
 व्याख्यातम् ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+यदि महावीरः पद्येतोर्ध्व ऊषुण इत्य् ऊर्ध्वो न इति द्वाभ्यामेनमुच्छ्रयते । व्याख्याते चैते पथ्याबृहत्य् अस्तारपङ्क्तिश्च । अत्र तयोः प्रतीकग्रहणम् ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 2)* Expiation for all defects.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्द्ध्व᳓ ऊषु᳓ण ऊत᳓ये ।  
@@ -8478,9 +8958,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1_ext]
 
 <details><summary>त्रिभुवनः</summary>
 
-2\. "Above, for our well-protection", "Protect us above from..." (these mantras should be uttered).[P197_r2]
-
-[P197_r2]: *(Mantra 2)* Expiation for all defects.
+2\. "Above, for our well-protection", "Protect us above from..." (these mantras should be uttered).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8489,9 +8967,9 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1_ext]
 ऊ॒र्द्ध्वो नः॑ पा॒ह्यँह॑सः ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>त्रिभुवनः - विनियोगः</summary>
 
-यदि महावीरः पद्येतोर्ध्व ऊषुण इत्य् ऊर्ध्वो न इति द्वाभ्यामेनमुच्छ्रयते । व्याख्याते चैते पथ्याबृहत्य् अस्तारपङ्क्तिश्च । अत्र तयोः प्रतीकग्रहणम् ॥
+*(Mantra 3)* Expiation for the fall of the Mahāvīra.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8504,9 +8982,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1_ext]
 
 <details><summary>त्रिभुवनः</summary>
 
-3\. The old age ate (the Mahāvīra), the rule-maker; respected one, being in the young age; see the greatness of the God that it died today which was similar (to young) yesterday.[P197_r3]
-
-[P197_r3]: *(Mantra 3)* Expiation for the fall of the Mahāvīra.
+3\. The old age ate (the Mahāvīra), the rule-maker; respected one, being in the young age; see the greatness of the God that it died today which was similar (to young) yesterday.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8522,6 +8998,16 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1_ext]
 यदि भिद्येत सन्दध्याद् विधुं दद्राणमिति त्रिष्टुभा ॥ अयेति चतुर्थपादादिः । विधुं विधानकुशलम् । विध विधाने । दद्राणम् आद्रीयमाणम् । दृङ् आदरे । समने अवैकल्ये पथि बहूनां जीवानां मार्गाणां युवानं तरुणम् ईदृशमेव सन्तं प्रसह्य पलितो जगार गिरति ग्रसते । यद्वा - विधुं व्याद्धव्यं दद्राणं दिव्यमानुषदेहम् । ताच्छीलिकश्चानश् । स्वपन्तं वा भुञ्जानं तमेव पलितो गिरति पलिततनुकेशविकारेण तत्करणं जरा लक्ष्यते । किञ्च - अद्य अस्मिन्नन्हि ममार म्रियते गतप्राणो भवति पुरुषः स एव ह्यः पूर्वस्मिन्नहनि समान सम्यक् प्राणितवान् येनैवं देहस्थितिर् जीवस्थितिश्चान्या च भवते तदिदं देवस्य भूतग्रामव्यवहारिण ईश्वरस्य काव्यं कवित्वं क्रान्तदर्शिनः कर्मसामर्थ्यं पश्य महित्वा विश्वमवष्टभ्य स्थितं महत्त्वेन वा इत्थम्भूतं महाकवित्वमिति यावत् । त्वप्रत्ययान्तात् तृतीयाया आकारः । ननु दृष्टमिदं काव्यं देवस्य किमागतं महावीरस्य भिन्नस्य । अयं भावः - यथाऽयं महान् कविर्देवो युवानं पलितदेहं करोति सम्यक् प्राणन्तं च मृतं करोति तथा पलितदेहमपि युवानं कुर्याद् गतप्राणमपि सम्यक् प्राणितारम् । अतस्स देव इममपि महावीरं भिन्नं सन्दधात्विति । 'निपातस्य च' इत्य् अद्यशब्दस्य संहितायां दीर्घत्वम् ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथ दृढार्थे यानि संश्लेषणानि स्युस् तैरेनमभिदध्यात् - यदृते चिदिति पथ्याबृहत्या ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 4)* Expiation for the breaking of the Mahāvīra.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दृते᳓ चिदभिश्रि᳓षः ।  
@@ -8532,9 +9018,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1_ext]
 
 <details><summary>त्रिभुवनः</summary>
 
-4\. Which was broken before by decaying in absence of joining substance; the wealthy Indra will join that having the (joining) articles before him (1); he will perform that broken (sacrifice).[P197_r4]
-
-[P197_r4]: *(Mantra 4)* Expiation for the breaking of the Mahāvīra.
+4\. Which was broken before by decaying in absence of joining substance; the wealthy Indra will join that having the (joining) articles before him (1); he will perform that broken (sacrifice).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8547,12 +9031,19 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1_ext]
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अथ दृढार्थे यानि संश्लेषणानि स्युस् तैरेनमभिदध्यात् - यदृते चिदिति पथ्याबृहत्या ॥ हे महावीर ! यद् यस्मात् त्वम् ऋते चिद् यज्ञ एव यज्ञनिमित्तमेव अभिश्रिषो ऽभ्यश्लिषः । शिष्यतिः पृषादिः कपिलकादित्वाद् लत्वविकल्पः । पुरा प्रागेव जर्तृभ्यः जरयितृभ्यः भेदकारणेभ्य आतृद आतर्दनात् हिंसायाः प्रागेव ते यावद्धिंसन्ति तावदेव तस्माद् यज्ञेऽभूदित्यर्थः । उ तृदिर् हिंसायाम् । 'स्वपितृदोः कसुन्' । तस्मान् मघवा इन्द्रः पुरोवसुः पुरस्ताद्वासयिता लोकस्य वसूनां वा पुरस्सरः स एवात्र सन्धिं सन्धाता अस्तु साधु सन्धानं करोतु । यत्पुनरत्र विहृतं कुटिलं पापं भेदनिमित्तं तदपि निष्कर्ता साध्वपनेताऽस्तु । उभयत्र 'साधुकारिणि' इति तृन् । 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ॥
+हे महावीर ! यद् यस्मात् त्वम् ऋते चिद् यज्ञ एव यज्ञनिमित्तमेव अभिश्रिषो ऽभ्यश्लिषः । शिष्यतिः पृषादिः कपिलकादित्वाद् लत्वविकल्पः । पुरा प्रागेव जर्तृभ्यः जरयितृभ्यः भेदकारणेभ्य आतृद आतर्दनात् हिंसायाः प्रागेव ते यावद्धिंसन्ति तावदेव तस्माद् यज्ञेऽभूदित्यर्थः । उ तृदिर् हिंसायाम् । 'स्वपितृदोः कसुन्' । तस्मान् मघवा इन्द्रः पुरोवसुः पुरस्ताद्वासयिता लोकस्य वसूनां वा पुरस्सरः स एवात्र सन्धिं सन्धाता अस्तु साधु सन्धानं करोतु । यत्पुनरत्र विहृतं कुटिलं पापं भेदनिमित्तं तदपि निष्कर्ता साध्वपनेताऽस्तु । उभयत्र 'साधुकारिणि' इति तृन् । 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 धर्मं पर्यूहति - पुनरूर्जेति । प्रतिपरीयुः - सह रय्येति । गायत्र्यौ व्याख्याते भूमिर्भूम्नेत्यत्र ॥
+
+प्रतीकग्रहणम् अत्रैतयोः ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 5)* Mantra for not turning the contents of the Mahāvīra.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8562,9 +9053,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1_ext]
 
 <details><summary>त्रिभुवनः</summary>
 
-5\. Again with vigour and wealth.[P197_r5]
-
-[P197_r5]: *(Mantra 5)* Mantra for not turning the contents of the Mahāvīra.
+5\. Again with vigour and wealth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8572,14 +9061,14 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1_ext]
 पुन॑रू॒र्जा स॒ह र॒य्या ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-प्रतीकग्रहणम् अत्रैतयोः ॥
-</details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 घर्मे व्यथिते प्रायश्चित्तानि मा नो घर्मेत्यष्टौ - मा नो घर्मेति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras 6–9)* Expiation for the oblation boiling over the Mahāvīra pot.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8592,9 +9081,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1_ext]
 
 <details><summary>त्रिभुवनः</summary>
 
-6\. O Gharma, do not trouble us being troubled; do not make our high (work) low; do not bring us to the passion; do not put us, verily, in the darkness; may not the increasing (cruel) persons of Rudra come to us.[P198_r6_9]
-
-[P198_r6_9]: *(Mantras 6–9)* Expiation for the oblation boiling over the Mahāvīra pot.
+6\. O Gharma, do not trouble us being troubled; do not make our high (work) low; do not bring us to the passion; do not put us, verily, in the darkness; may not the increasing (cruel) persons of Rudra come to us.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8636,6 +9123,11 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1_ext]
 मा नः क्रतुभिरियादि । क्रतुभिः कर्मभिर् हीडितेभिर् अनादृतैः श्रद्धारहितैर् हेतुभिर् अस्मान् मा द्विष मा द्विक्षः । अलुङ्यपि माङ् दृश्यते । ल्यब्लोपे वा अचि ? अन्त्यलोपः । हे असुनीते! असूनां प्रापयितः ! माऽस्मान् परादाः कुतश्चिदपि कारणान् मा त्याक्षीर् मा चास्मान् रुद्रो रक्षो भूद् अभिमन्यमानो मा हिंसीत् । ताच्छीलिके तृनि रथादित्वादिडभावः । निर्ऋतिर् अलक्ष्मीश्च अस्मान् माऽस्ता अस्त्री माऽभूत् । द्यावापृथिव्यौ चास्मान् मा हीडिषाताम् अनादृत्य मा बाधिषाताम् । हेड अनादरे, वर्णविकारश्छान्दसः । ईकारोपधं वा धात्वन्तरं द्रष्टव्यम् ।
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+उप न इति त्रिष्टुप् जगती वा ॥ उग्रान्तस् तृतीयः पादः । व्याख्यातैषा ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓प नो मित्रावरुणाविहा᳓वतम् ।  
@@ -8657,9 +9149,9 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1_ext]
 उ॒ग्रा श॒तापा॑ष्ठा घ॒विषा॒ परि॑ णो वृणक्तु ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-उप न इति त्रिष्टुप् जगती वा ॥ उग्रान्तस् तृतीयः पादः । व्याख्यातैषा ॥
+इमं मेवरुण इत्यादीनां पञ्चानां प्रतीकग्रहणं प्रथमा गायत्री । ततस्तिस्रस्त्रिष्टुभः । पञ्चम्यनुष्टुप् । व्याख्याताश्चैताः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8683,9 +9175,9 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1_ext]
 त्वम॑ग्ने अ॒यासि॑ ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>त्रिभुवनः - विनियोगः</summary>
 
-इमं मेवरुण इत्यादीनां पञ्चानां प्रतीकग्रहणं प्रथमा गायत्री । ततस्तिस्रस्त्रिष्टुभः । पञ्चम्यनुष्टुप् । व्याख्याताश्चैताः ॥
+*(Mantra 10)* Expiation if the sun sets before the complete cooking of the oblation.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8697,11 +9189,10 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.[P196_r1_ext]
 
 <details><summary>त्रिभुवनः</summary>
 
-10\. "May we, above the darkness",[P198_2] "Above, that wonderful", "Good-feathered birds"[P198_3] (these Mantras should be uttered). (3)[P198_r10]
+10\. "May we, above the darkness",[P198_2] "Above, that wonderful", "Good-feathered birds"[P198_3] (these Mantras should be uttered). (3)
 
 [P198_2]: T.S. 4.1.7.
 [P198_3]: T.Br. 2.5.8.
-[P198_r10]: *(Mantra 10)* Expiation if the sun sets before the complete cooking of the oblation.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8807,6 +9298,11 @@ may the Gharma shine in three ways for me with will and mind, with food and ligh
 त्रिशुगित्यादि ॥ त्रिशुक् त्रिलोक विषया दीप्तयः यस्य तादृशोऽयं घर्मः मे मदीयः मम भक्षत्वेन सम्बन्धी विभातु । आकूत्या अभिप्रायेण तद्धेतुना मनसा च सह विभातु । विराजा अन्नेन तद्धेतुना च ज्योतिषा दीप्त्या सह । यज्ञेन तत्फलेन च पयसा वृष्ट्या सह । ब्रह्मणा ब्राह्मणजात्या तदीयेन तेजसा ब्रह्मवर्चसेन सह । क्षत्रेण क्षत्रियजात्या तदीयेन च यशसा सह । सत्येन तद्धेतुकेन च तपसा सह मयि विभातु । तस्य दोहं कामानां समृद्विं तेन कृतम् अशीमहि प्राप्नुवाम । छान्दसश्शपो लुक् । तस्य सुम्नं सुखं तन्निमित्तमिहैव अशीमहि । तस्य भक्षं सर्वदा अशीमहि ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Benedictory Mantra)* Benedictory Mantra at the end of the Pravargya.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य त इ᳓न्द्रेण पीत᳓स्य म᳓धुमतः ।  
@@ -8815,9 +9311,7 @@ may the Gharma shine in three ways for me with will and mind, with food and ligh
 
 <details><summary>त्रिभुवनः</summary>
 
-may we, being assented, drink your juice, which has been drunk by Indra first, assented and full of honey.[P199_10]
-
-[P199_10]: *(Benedictory Mantra)* Benedictory Mantra at the end of the Pravargya.
+may we, being assented, drink your juice, which has been drunk by Indra first, assented and full of honey.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8834,6 +9328,16 @@ may we, being assented, drink your juice, which has been drunk by Indra first, a
 </details>
 
 ## 22
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+घोरास्तनूरादिशति - यास्त इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Addresses to the Fire.
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8862,7 +9366,7 @@ may we, being assented, drink your juice, which has been drunk by Indra first, a
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-घोरास्तनूरादिशति - यास्त इति ॥ देहशोषहेतुत्वाद् अग्नेस् तनव एताः । क्षुध्यन्त्यनयेति क्षुद् बुभुक्षा । तृप्यन्त्यनयेति तृष्णा पिपासा । ष्णिह उद्गिरणे । शरीरान्तर्गतानां निस्सरणनिरोधिन्य् अस्नुक् । बहिस्स्थितानामन्नानाम् अन्तराहरणनिवारण्य् अनाहुतिः । अत्यर्थमशनेच्छा अशनया यया अशित्वाऽप्यशिशिषति । अत्यर्थं पातुमिच्छा पिपासा पीत्वाऽपि यया पिपासति । 'अशनायोदन्य' इति निपातनेऽपि दीर्घत्वं 'न छन्दस्यपुत्रस्य' इति निषिद्ध्यते । सादयति शरीरमिति सेदिर् आलस्यहेतुः । 'उत्सर्गश्छन्दसि सदादिभ्यो दर्शनात्' इति सदेः किप्रत्ययः । अमतिर् देहभञ्जिनी । अमतेस् तिन् प्रत्ययः । मतिविपर्यासहेतुर्वा ॥
+देहशोषहेतुत्वाद् अग्नेस् तनव एताः । क्षुध्यन्त्यनयेति क्षुद् बुभुक्षा । तृप्यन्त्यनयेति तृष्णा पिपासा । ष्णिह उद्गिरणे । शरीरान्तर्गतानां निस्सरणनिरोधिन्य् अस्नुक् । बहिस्स्थितानामन्नानाम् अन्तराहरणनिवारण्य् अनाहुतिः । अत्यर्थमशनेच्छा अशनया यया अशित्वाऽप्यशिशिषति । अत्यर्थं पातुमिच्छा पिपासा पीत्वाऽपि यया पिपासति । 'अशनायोदन्य' इति निपातनेऽपि दीर्घत्वं 'न छन्दस्यपुत्रस्य' इति निषिद्ध्यते । सादयति शरीरमिति सेदिर् आलस्यहेतुः । 'उत्सर्गश्छन्दसि सदादिभ्यो दर्शनात्' इति सदेः किप्रत्ययः । अमतिर् देहभञ्जिनी । अमतेस् तिन् प्रत्ययः । मतिविपर्यासहेतुर्वा ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8874,9 +9378,7 @@ may we, being assented, drink your juice, which has been drunk by Indra first, a
 
 <details><summary>त्रिभुवनः</summary>
 
-by these go to him, who hates us and whom we hate.[P199_r1]
-
-[P199_r1]: *(Mantra 1)* Addresses to the Fire.
+by these go to him, who hates us and whom we hate.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8894,6 +9396,11 @@ by these go to him, who hates us and whom we hate.[P199_r1]
 </details>
 
 ## 23
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Addresses to the Fire.
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8932,9 +9439,7 @@ by these go to him, who hates us and whom we hate.[P199_r1]
 
 <details><summary>त्रिभुवनः</summary>
 
-by these go to him, who hates us and whom we hate.[P200_r1]
-
-[P200_r1]: *(Mantra 1)* Addresses to the Fire.
+by these go to him, who hates us and whom we hate.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8953,6 +9458,11 @@ by these go to him, who hates us and whom we hate.[P200_r1]
 
 ## 24
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Naming of the cooking pans by the names of Maruts.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धु᳓निश्च द्ध्वान्त᳓श्च द्ध्वन᳓श्च द्ध्वन᳓यँश्च ।  
@@ -8961,9 +9471,7 @@ by these go to him, who hates us and whom we hate.[P200_r1]
 
 <details><summary>त्रिभुवनः</summary>
 
-1\. Dhuni, Dhvanta, Dhvena, Dhvanayen, Niliṁpa, Vilimpa, and Vikṣipa (these are the names of Maruts).[P200_r1_maruts]
-
-[P200_r1_maruts]: *(Mantra 1)* Naming of the cooking pans by the names of Maruts.
+1\. Dhuni, Dhvanta, Dhvena, Dhvanayen, Niliṁpa, Vilimpa, and Vikṣipa (these are the names of Maruts).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9012,6 +9520,11 @@ by these go to him, who hates us and whom we hate.[P200_r1]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 घर्मधुक्स्तेन निवारणे मन्त्रः
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Imprecatory phrases.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9101,9 +9614,7 @@ may the seasons cook you;
 
 <details><summary>त्रिभुवनः</summary>
 
-may the year kill you, O you (thief).[P200_r1_imprec]
-
-[P200_r1_imprec]: *(Mantra 1)* Imprecatory phrases.
+may the year kill you, O you (thief).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9120,6 +9631,11 @@ may the year kill you, O you (thief).[P200_r1_imprec]
 
 ## 27
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Expiations if the oblations are stolen.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ख᳓ट् फ᳓ट् जहि᳓ ।  
@@ -9129,9 +9645,7 @@ may the year kill you, O you (thief).[P200_r1_imprec]
 
 <details><summary>त्रिभुवनः</summary>
 
-1\. Khaat, Phat, Jahi, Chindhi, Bhindhi, Hendhi, Kat — these are the cruel speeches.[P201_r1]
-
-[P201_r1]: *(Mantra 1)* Expiations if the oblations are stolen.
+1\. Khaat, Phat, Jahi, Chindhi, Bhindhi, Hendhi, Kat — these are the cruel speeches.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9443,6 +9957,11 @@ do not, do not kill.
 
 ## 29
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+यदि गृध्रो वाश्येत तमनुमन्त्रयते - असृङ्मुख इति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓सृन्मुखो रुधिरे᳓णाव्य᳙क्तः ।  
@@ -9466,12 +9985,17 @@ do not, do not kill.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-यदि गृध्रो वाश्येत तमनुमन्त्रयते - असृङ्मुख इति ॥ असृङ्मुखः रुधिरपूर्णास्यः रूधिरेणाव्यक्त आलिप्तदेहः यमस्य दूतः किङ्करः श्वपात् श्वसदृशपादः विधावसि इतश्चेतश्च धावसि । गृध्रो जात्या त्वं सुपर्णः शोभनपत्रः कुणपं निषेबसे । यमस्य दूतः भवस्य रुद्रस्य चोभयोः प्रहितः प्रेषितः दूतस्त्वमसि । तस्माद्द्रुतं गन्तव्यम् ॥
+असृङ्मुखः रुधिरपूर्णास्यः रूधिरेणाव्यक्त आलिप्तदेहः यमस्य दूतः किङ्करः श्वपात् श्वसदृशपादः विधावसि इतश्चेतश्च धावसि । गृध्रो जात्या त्वं सुपर्णः शोभनपत्रः कुणपं निषेबसे । यमस्य दूतः भवस्य रुद्रस्य चोभयोः प्रहितः प्रेषितः दूतस्त्वमसि । तस्माद्द्रुतं गन्तव्यम् ॥
 
 इत्य् एकोनत्रिंशोऽनुवाकः ॥
 </details>
 
 ## 30
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Expiations if a jackal is seen (also wolf/vulture).
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9484,9 +10008,7 @@ do not, do not kill.
 
 <details><summary>त्रिभुवनः</summary>
 
-1\. O goddess of speech, which is this crying as a jackal; may that cry for my enemy; O Death, take that to the death; may that trouble by the trouble.[P201_r30]
-
-[P201_r30]: *(Mantra 1)* Expiations if a jackal is seen (also wolf/vulture).
+1\. O goddess of speech, which is this crying as a jackal; may that cry for my enemy; O Death, take that to the death; may that trouble by the trouble.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9506,6 +10028,11 @@ do not, do not kill.
 </details>
 
 ## 31
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+भयेडकमभिमन्त्रयते - यदीषित इति ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9530,7 +10057,7 @@ do not, do not kill.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-भयेडकमभिमन्त्रयते - यदीषित इति ॥ यदीषितः यदि केनचित्प्रेषितः स्वकामी स्वेच्छावान् भयेडकः कुक्कुट एतां वाचं वदति तां वाचं ब्रह्मणा संविदानौ ऐकमत्यं गतौ इन्द्रानी युवाम् अस्मभ्यं गृहेषु शिवां कृणुतं कुरुतम् ॥
+यदीषितः यदि केनचित्प्रेषितः स्वकामी स्वेच्छावान् भयेडकः कुक्कुट एतां वाचं वदति तां वाचं ब्रह्मणा संविदानौ ऐकमत्यं गतौ इन्द्रानी युवाम् अस्मभ्यं गृहेषु शिवां कृणुतं कुरुतम् ॥
 
 इत्य् एकत्रिंशोऽनुवाकः ॥
 </details>
@@ -9618,6 +10145,11 @@ if you speak in my right side, then destroy our enemies.
 
 ## 34
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Expiation if a man possessed by the ghosts speaks.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓देत᳓द्भूता᳓न्यन्वावि᳓श्य ।  
@@ -9653,9 +10185,7 @@ if you speak in my right side, then destroy our enemies.
 
 <details><summary>त्रिभुवनः</summary>
 
-may the Fire be concordant with the Fire.[P202_r1]
-
-[P202_r1]: *(Mantra 1)* Expiation if a man possessed by the ghosts speaks.
+may the Fire be concordant with the Fire.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9697,6 +10227,11 @@ may the Fire be concordant with the Fire.[P202_r1]
 </details>
 
 ## 36
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Expiations if the worms fall in the oblation.
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9795,9 +10330,7 @@ also the father, the mother (have died), and then also the fat ones, the little 
 
 <details><summary>त्रिभुवनः</summary>
 
-all have been killed with the white ones.[P203_r1]
-
-[P203_r1]: *(Mantra 1)* Expiations if the worms fall in the oblation.
+all have been killed with the white ones.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9817,6 +10350,11 @@ all have been killed with the white ones.[P203_r1]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अभिचरतो मन्त्रः - आहरावद्येति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Oblation for killing somebody by imprecation.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9872,9 +10410,7 @@ what is true, may this (speech) be like that;
 
 <details><summary>त्रिभुवनः</summary>
 
-Khan, Phan, Mrasi (die being broken and destroyed).[P203_r37]
-
-[P203_r37]: *(Mantra 1)* Oblation for killing somebody by imprecation.
+Khan, Phan, Mrasi (die being broken and destroyed).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -10025,6 +10561,11 @@ O you named such, fall beneath me.
 शत्रोर्द्वारि जपति - उत्तुदेति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Siṃījavarī-herb should be plucked in the cow-shed of him who is to be killed by imprecation.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓त्तुद शिमिजावरि ।
@@ -10115,9 +10656,7 @@ kill there near the rays of the death;
 
 <details><summary>त्रिभुवनः</summary>
 
-destroy that enemy, who hates us or whom we hate, in the time by which the sun rises in the east.[P204_r1]
-
-[P204_r1]: *(Mantra 1)* Siṃījavarī-herb should be plucked in the cow-shed of him who is to be killed by imprecation.
+destroy that enemy, who hates us or whom we hate, in the time by which the sun rises in the east.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -10140,6 +10679,11 @@ destroy that enemy, who hates us or whom we hate, in the time by which the sun r
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 महापातक प्रायश्चित्तम् - भूर्भुवस्सुवरिति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Imprecation for killing the enemies (with Sāma hymn uttered loudly).
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -10350,9 +10894,7 @@ obtainable thing has been obtained.
 
 <details><summary>त्रिभुवनः</summary>
 
-(O goddess) in us, in us may the light like the sun be.[P204_r1_xl]
-
-[P204_r1_xl]: *(Mantra 1)* Imprecation for killing the enemies (with Sāma hymn uttered loudly).
+(O goddess) in us, in us may the light like the sun be.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -10377,9 +10919,16 @@ obtainable thing has been obtained.
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="82_pRthivI_samit">
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+Offering of the Udumbara wood to the fire while making consecration.
+
+*(Mantras 1–3)* Mantras for offering the Udumbara wood.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृथिवी᳓ समि᳓त् ।  
+पृथिवी᳓ समि᳓त् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -10389,7 +10938,7 @@ obtainable thing has been obtained.
 
 <details><summary>मूलम्</summary>
 
-पृ॒थि॒वी स॒मित् ।  
+पृ॒थि॒वी स॒मित् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -10468,10 +11017,9 @@ I burned that (earth),
 
 <details><summary>त्रिभुवनः</summary>
 
-may that, being burnt, burn me (make me shine) with life, brilliance, splendour, prosperity, fame, brilliance of sacred knowledge[P206_6], food etc., Hail![P205_r1_3]
+may that, being burnt, burn me (make me shine) with life, brilliance, splendour, prosperity, fame, brilliance of sacred knowledge[P206_6], food etc., Hail!
 
 [P206_6]: Brilliance of sacred knowledge: divine intuition.
-[P205_r1_3]: *(Mantras 1–3)* Mantras for offering the Udumbara wood.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -10494,7 +11042,7 @@ may that, being burnt, burn me (make me shine) with life, brilliance, splendour,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्त᳓रिक्षँ समि᳓त् । (82)  
+अन्त᳓रिक्षँ समि᳓त् । (82)
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -10504,7 +11052,7 @@ may that, being burnt, burn me (make me shine) with life, brilliance, splendour,
 
 <details><summary>मूलम्</summary>
 
-अ॒न्तरि॑क्षँ॒ स॒मित् । (82)  
+अ॒न्तरि॑क्षँ॒ स॒मित् । (82)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -10586,9 +11134,14 @@ may that, being burnt, make me shine with life, brilliance, splendour, prosperit
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="84_dyaus_samit">
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 2)* Offering of Udumbara wood.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्यौ᳓स्समि᳓त् ।  
+द्यौ᳓स्समि᳓त् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -10598,7 +11151,7 @@ The heaven is the fuel;
 
 <details><summary>मूलम्</summary>
 
-द्यौस्स॒मित् ।  
+द्यौस्स॒मित् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -10662,10 +11215,9 @@ I burned that;
 
 <details><summary>त्रिभुवनः</summary>
 
-may that, being burnt, make me shine with life, brilliance[P205_4], splendour, prosperity, fame, brilliance of sacred knowledge and food etc., Hail![P205_r2]
+may that, being burnt, make me shine with life, brilliance[P205_4], splendour, prosperity, fame, brilliance of sacred knowledge and food etc., Hail!
 
 [P205_4]: Brilliance: shining light of sacred knowledge.
-[P205_r2]: *(Mantra 2)* Offering of Udumbara wood.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -10710,6 +11262,11 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 अथ देवता उपतिष्ठते - अग्ने व्रतपत इति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 4)* Invitation of the gods.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने व्रतपते!
@@ -10717,7 +11274,7 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 
 <details><summary>त्रिभुवनः</summary>
 
-4\. O Fire, the lord of the rules, I will follow the rules; (3) may I do so; may that be increased.
+4\. O Fire, the lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -10740,6 +11297,11 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
@@ -10777,6 +11339,11 @@ O wind, the lord of the rules,
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
@@ -10809,6 +11376,11 @@ O Āditya, the lord of the rules,
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
@@ -10823,9 +11395,7 @@ O Āditya, the lord of the rules,
 
 <details><summary>त्रिभुवनः</summary>
 
-O Vratapati (lord of the rules), the ruling lord of the rules, I will follow the rules; may I do so; may that be increased.[P205_r4]
-
-[P205_r4]: *(Mantra 4)* Invitation of the gods.
+O Vratapati (lord of the rules), the ruling lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -10843,6 +11413,11 @@ O Vratapati (lord of the rules), the ruling lord of the rules, I will follow the
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
@@ -10859,9 +11434,14 @@ O Vratapati (lord of the rules), the ruling lord of the rules, I will follow the
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="84_dyaus_samit">
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 2)* Offering of Udumbara wood.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्यौ᳓स्समि᳓त् ।  
+द्यौ᳓स्समि᳓त् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -10871,7 +11451,7 @@ The heaven is the fuel;
 
 <details><summary>मूलम्</summary>
 
-द्यौस्स॒मित् ।  
+द्यौस्स॒मित् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -10935,10 +11515,9 @@ I burned that;
 
 <details><summary>त्रिभुवनः</summary>
 
-may that, being burnt, make me shine with life, brilliance[P205_4], splendour, prosperity, fame, brilliance of sacred knowledge and food etc., Hail![P205_r2]
+may that, being burnt, make me shine with life, brilliance[P205_4], splendour, prosperity, fame, brilliance of sacred knowledge and food etc., Hail!
 
 [P205_4]: Brilliance: shining light of sacred knowledge.
-[P205_r2]: *(Mantra 2)* Offering of Udumbara wood.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -10956,7 +11535,7 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्त᳓रिक्षँ समि᳓त् । (82)  
+अन्त᳓रिक्षँ समि᳓त् । (82)
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -10966,7 +11545,7 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 
 <details><summary>मूलम्</summary>
 
-अ॒न्तरि॑क्षँ॒ स॒मित् । (82)  
+अ॒न्तरि॑क्षँ॒ स॒मित् । (82)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -11048,9 +11627,16 @@ may that, being burnt, make me shine with life, brilliance, splendour, prosperit
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="82_pRthivI_samit">
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+Offering of the Udumbara wood to the fire while making consecration.
+
+*(Mantras 1–3)* Mantras for offering the Udumbara wood.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृथिवी᳓ समि᳓त् ।  
+पृथिवी᳓ समि᳓त् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -11060,7 +11646,7 @@ may that, being burnt, make me shine with life, brilliance, splendour, prosperit
 
 <details><summary>मूलम्</summary>
 
-पृ॒थि॒वी स॒मित् ।  
+पृ॒थि॒वी स॒मित् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -11139,10 +11725,9 @@ I burned that (earth),
 
 <details><summary>त्रिभुवनः</summary>
 
-may that, being burnt, burn me (make me shine) with life, brilliance, splendour, prosperity, fame, brilliance of sacred knowledge[P206_6], food etc., Hail![P205_r1_3]
+may that, being burnt, burn me (make me shine) with life, brilliance, splendour, prosperity, fame, brilliance of sacred knowledge[P206_6], food etc., Hail!
 
 [P206_6]: Brilliance of sacred knowledge: divine intuition.
-[P205_r1_3]: *(Mantras 1–3)* Mantras for offering the Udumbara wood.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -11190,6 +11775,11 @@ may that, being burnt, burn me (make me shine) with life, brilliance, splendour,
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 आदित्येत्याद्य् उपस्थानमन्त्राः । व्रतानामिति चतुर्थः ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 5)* Repetitions of the first three Mantras.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -11344,9 +11934,7 @@ I followed the rules;
 
 <details><summary>त्रिभुवनः</summary>
 
-I could follow that, that was increased for me (7).[P205_r5]
-
-[P205_r5]: *(Mantra 5)* Repetitions of the first three Mantras.
+I could follow that, that was increased for me (7).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -11366,6 +11954,11 @@ I could follow that, that was increased for me (7).[P205_r5]
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरां शान्तिमुपयन्ति - शं न इति ॥
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Benedictory Mantras)* Benedictory Mantras to be uttered in the end taking some hot water in the hand (from 1 to 36).
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -11418,9 +12011,7 @@ I could follow that, that was increased for me (7).[P205_r5]
 
 <details><summary>त्रिभुवनः</summary>
 
-O well merciful Sarasvatī, be auspicious and most wealful for us; may we not see any lack being in your view.[P206_r_benedict]
-
-[P206_r_benedict]: *(Benedictory Mantras)* Benedictory Mantras to be uttered in the end taking some hot water in the hand (from 1 to 36).
+O well merciful Sarasvatī, be auspicious and most wealful for us; may we not see any lack being in your view.
 </details>
 
 <details><summary>मूलम्</summary>

@@ -4,7 +4,7 @@ title = "८३ अ॒न्तरि॑क्षँ॒ स॒मित्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्त᳓रिक्षँ समि᳓त् । (82)  
+अन्त᳓रिक्षँ समि᳓त् । (82)
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -14,7 +14,7 @@ title = "८३ अ॒न्तरि॑क्षँ॒ स॒मित्"
 
 <details><summary>मूलम्</summary>
 
-अ॒न्तरि॑क्षँ॒ स॒मित् । (82)  
+अ॒न्तरि॑क्षँ॒ स॒मित् । (82)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

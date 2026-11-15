@@ -2,9 +2,16 @@
 title = "८२ पृ॒थि॒वी स॒मित्"
 +++
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+Offering of the Udumbara wood to the fire while making consecration.
+
+*(Mantras 1–3)* Mantras for offering the Udumbara wood.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृथिवी᳓ समि᳓त् ।  
+पृथिवी᳓ समि᳓त् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -14,7 +21,7 @@ title = "८२ पृ॒थि॒वी स॒मित्"
 
 <details><summary>मूलम्</summary>
 
-पृ॒थि॒वी स॒मित् ।  
+पृ॒थि॒वी स॒मित् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -93,10 +100,9 @@ I burned that (earth),
 
 <details><summary>त्रिभुवनः</summary>
 
-may that, being burnt, burn me (make me shine) with life, brilliance, splendour, prosperity, fame, brilliance of sacred knowledge[P206_6], food etc., Hail![P205_r1_3]
+may that, being burnt, burn me (make me shine) with life, brilliance, splendour, prosperity, fame, brilliance of sacred knowledge[P206_6], food etc., Hail!
 
 [P206_6]: Brilliance of sacred knowledge: divine intuition.
-[P205_r1_3]: *(Mantras 1–3)* Mantras for offering the Udumbara wood.
 </details>
 
 <details><summary>मूलम्</summary>

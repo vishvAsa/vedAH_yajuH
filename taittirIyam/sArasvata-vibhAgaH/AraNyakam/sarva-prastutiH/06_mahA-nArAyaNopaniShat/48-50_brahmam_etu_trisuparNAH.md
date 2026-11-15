@@ -4,14 +4,39 @@ title = "४८-५० ब्रह्मम् एतु त्रिसुप�
 
 ## 48
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+The series of three Mantras, named Trisuparna, to overcome the sins of killing Brahmanas, etc. (From the Anuvaka XLVIII to L).
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अज्ञातप्रज्ञातसमस्तपापक्षयार्थं जप्यास् त्रिसुपर्णाख्यास् त्रयोऽनुवाकाः । पर्णं पतत्रं शोभनपर्णः सुपर्णः पक्षिराजस् तत्तुल्याः सुपर्णाः परस्य श्रेयसः सुष्ठु पालयितारः । यद्वा - प्रणवः शकुन्तः सुपर्णः शोभनपतनः येन उत्पततामूर्ध्वं नीयमान आत्मा ब्रह्माधिगच्छति । यथाऽऽहुः - 'ओङ्कारं रथमारुह्य' इति । तत्प्रधानत्वाद् अनुवाका अपि सुपर्णाः । प्रणवप्राधान्यमेषां दर्शयितुं त्रयाणामनुवाकानां प्रणवान्तत्वम् । त्रिसुपर्णमिति । "दिक्सङ्ख्ये सञ्ज्ञायां" इति समासः सप्तर्षिवत् प्रत्येकं त्रिसुपर्णाः । तत्र प्रथमः - ब्रह्म मेत्व् इत्यादि ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 ब्र᳓ह्ममेतु मा᳓म् । म᳓धुमेतु मा᳓म् । ब्र᳓ह्ममेव᳓ म᳓धुमेतु मा᳓म् ।
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+May Brahman come to me, may the honey come to me, may Brahman, verily, the honey come to me.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑मेतु॒ माम् । मधु॑मेतु॒ माम् । ब्रह्म॑मे॒व मधु॑मेतु॒ माम् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ब्रह्म परं मां मेतु प्राप्नोत्व् एकीभावेन मां मनस्विनं करोतु । मी गतौ चुरादिराधृषीयः । 'बहुलं छन्दसि' इति शपो लुक् । केचित्तु - 'मध्यान्नीचादुच्चा' इतिवच् छान्दसो मकारोपजन इत्याहुः । उप [तच्चिन्त्यम् उप] जनानामावृत्त्यदर्शनात् । किञ्च - सति सम्भवे मात्रयाऽपि निरर्थिकया भवितुमयुक्तम् । अथ मां मेतु मह्यमात्मानमाविष्करोतु मननान् मधु । मदनाद्वा परानन्दभूतः परमात्मा मधु । तत्प्रादुर्भावात्तेनानन्देनानन्दी नित्यतृप्तः स्याम् । यद्वा - परविद्या मधु मननरूपत्वात् । तृप्तिहेतुत्वाद्वा यया परमक्षरमधिगम्यते सा मधुस्थानीया परा विद्या मां प्राप्नोत्व् अङ्गीकृत्य ज्ञानं प्रयच्छतु तस्य विद्यानां प्रदातृत्वात् । ततस्तद्विद्योतितविद्य आविर्भूतपरमानन्दः ब्रह्मीभूतस्तिष्ठामीति ॥
+</details>
+
+<details><summary>भट्टभास्करः - अवतारिका</summary>
+
+अथ अमुमेवार्थं मन्त्रान्तरेण स्पष्टयति - यास्त इत्यनुष्टुप् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
@@ -20,25 +45,53 @@ title = "४८-५० ब्रह्मम् एतु त्रिसुप�
 या᳓स्ते सोम प्राणाँ᳓स्ता᳓ञ्जुहोमि ।
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+O Soma, what are your offspring, I am one child among those; O destroyer of the bad dreams, destroy (the trouble); O Soma, what are your breaths I sacrifice them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यास्ते॑ सोम प्र॒जाव॒त्सोभि॒ सो अ॒हम् । दुस्व॑प्न॒हन्दु॑रुष्व॒हा ।  
 यास्ते॑ सोम प्रा॒णाँस्ताञ्जु॑होमि ।
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इयम् इदानीं परां देवतां प्रति प्रत्यक्षवदाह - हे सोम! ईश्वर ! । षु प्रसवैश्वर्ययोः सौति ईष्टे सर्वस्येति सोमः । यद्वा - प्रसौत्य् अनुजानाति विश्वमिति विश्वस्य प्रेरयिता देवस्सोमः सोमेनाराधनीयो वा सोमः । तद्वदर्थात्ताच्छब्द्यम् । यद्वा - उमया परशक्त्या विपर्यस्ताक्षरया प्रणववाच्यया सहितः प्रणववाच्यः सोमः । हे सोम! यास्ते तव प्रजा ब्राह्मण्यः । यथा त्वं देवेषु ब्राह्मणोसि तव ब्राह्मणत्वात् तव स्वभूताः सर्वा ब्राह्मण्यः प्रजाः । यद्वा - 'सोम एव नो राजेत्याहुर्ब्राह्मणीः प्रजाः' इति ब्राह्मण्यः प्रजाः सोमस्य स्वभूताः सोमस्तासां स्वामी । ताः प्रजा अभिलक्ष्य वत्सः वत्सस्थानीयः श्रेयसां दोग्धा । यद्वा - तासां मध्ये बाल एव सन् इदानीं सोऽहं दुरुष्वहा दुरुत्सहस्सञ्जातः ज्ञानलाभेन अनभिभवनीयः सम्पन्नोऽस्मि । पृषोदरादिः । यद्वा - सौतेः कर्तरि विचि 'सुपां सुलुक्' इति विभक्तेर्लुकि सो इति भवति । तासां मध्ये अहमभिसो अभितः सर्वतः सोता ईशिताऽस्मि ज्ञानलाभेन । स्वरश्चोपपन्नो भवति । त्वं सोमो ऽहं सोः सवनकर्तृत्वं यदीशितृत्वं तदावयोस् तुल्यमभूत्, एकत्वलाभात् । यद्वा - अभिसो अभिषोता सोमेन तवाराधयिता । षत्वं तु प्राप्नोति । यद्वा - जुष्टा उषाः संसारसम्बन्धिन्यः दुस्स्वप्नबहुक्केशा महामोहदशात्मिका रात्रयस् तासां हन्ता नाशयिता परमव्युष्ट्या शमनात् । तत्र हेतुमाह - दुस्स्वप्नहन् ! वैचित्त्यं स्वप्नः दुष्स्वप्नः परमवैचित्त्यं महामोहः हे तस्य हन्तः! नाशयितः ! मोहापगमे सदा व्युष्टत्वाद् दृष्टोष्ण विनाशः । यदाहुः -  
+या निशा सर्वभूतानां तस्यां जागर्ति संयमी ।  
+यस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः ॥ इति ॥  
+अथ यदा मे ईदृशी व्युष्टिरासीत् तदा अहं हे सोम! यास्ते तव प्रजा इत्येव तव प्रजा याः प्राणभूतास् तव स्वभूताः 'प्राणानां ग्रन्थिरसि' इति तान् प्राणान् जुहोमि । आददे प्रत्याहरामि विषयेभ्यः । यद्वा - आत्मज्योतिषि प्रक्षिपामि तत आत्मप्रतिष्ठ उपलब्धपरानन्दो ब्रह्मीभूय तिष्ठामीति ॥
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+त्रिसुपर्णमित्यादि ॥ अत्रैव ब्राह्मणम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 त्रि᳓सुपर्णम᳓याचितं ब्राह्मणा᳓य दद्यात् ।  
-ब्रह्महत्याव्ँ᳓ वा᳓ एते᳓  घ्नन्ति ।  
+ब्रह्महत्याव्ँ᳓ वा᳓ एते᳓  घ्नन्ति ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+One should give this Trisuparna-Mantra to the Brahmana even being not asked; these destroy the sin of the killing of a Brahmana;
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्रिसु॑पर्ण॒मया॑चितं ब्राह्म॒णाय॑ दद्यात् ।  
-ब्र॒ह्म॒ह॒त्याव्ँ वा ए॒ते  घ्न॑न्ति ।  
+ब्र॒ह्म॒ह॒त्याव्ँ वा ए॒ते  घ्न॑न्ति ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/48-50_brahmam_etu_trisuparNAH/07_ye_brAhmaNAstrisuparNam.md">
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विशेषावचनेऽपि प्राथम्यादस्यैव ग्रहणम् । आद्यमेतत् त्रिमुपर्णम् अयाचितम् उपासनादि यत्तत्पूर्वमप्रार्थितमेव स्वयमभ्युद्यतं ब्राह्मणाय दद्याद् उपदिशेत् । अथ एते सर्व एवं विद्वान् यो ददाति ते सर्वेऽपि ब्रह्महत्यां ब्राह्मणवधात्मकमपि पापं घ्नन्ति नाशयन्ति किं पुनरुपासितार इति भावः ।
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/48-50_brahmam_etu_trisuparNAH/07_ye_brAhmaNAstrisuparNam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -53,11 +106,21 @@ title = "४८-५० ब्रह्मम् एतु त्रिसुप�
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/48-50_brahmam_etu_trisuparNAH/07_ye_brAhmaNAstrisuparNam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+Brahmanas, who read the Trisuparna Mantra, they obtain soma and purify the line of thousand (Brahmanas eating together), Om.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये ब्रा॑ह्म॒णास्त्रिसु॑पर्णं॒ पठ॑न्ति ।  
 ते सोमं॒ प्राप्नु॑वन्ति ।  
 आ॒स॒ह॒स्रात्प॒ङ्क्तिं पुन॑न्ति । ओम् । (63)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ ये ब्राह्मणा लब्धत्रिसुपर्णाः पठन्ति तेऽपि सोमं परं देवं सोमयागफलं वा प्राप्नुवन्त्य् अथ सहस्त्रपुरुषायां ब्राह्मणपङ्क्तौ श्राद्धादिषु भुञ्जानास् तां सर्वामपि पङ्क्तिं पुनन्ति क्षाळितसर्वपापां भोजयितव्यां कुर्वन्ति । ओमिति प्रणवसायुज्यं च लभन्ते ॥
 </details>
 </details>
 
@@ -65,9 +128,19 @@ title = "४८-५० ब्रह्मम् एतु त्रिसुप�
 
 ## 49
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+ब्रह्म मेधयेति द्वितीयस् त्रिसुपर्णः प्रथमेन गतप्रायः ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 ब्र᳓ह्म मेध᳓या । म᳓धु मेध᳓या । ब्र᳓ह्ममेव᳓ म᳓धु मेध᳓या ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Brahman (is obtained) by the intellect; the honey, by the intellect; Brahman, verily, the honey, by the intellect.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -75,7 +148,27 @@ title = "४८-५० ब्रह्मम् एतु त्रिसुप�
 ब्रह्म॑ मे॒धया॑ । मधु॑ मे॒धया॑ । ब्रह्म॑मे॒व मधु॑ मे॒धया॑ ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/04_adyA_no.md">
+<details><summary>भट्टभास्कर-टीका</summary>
+
+पूर्वोक्तं ब्रह्म च मधु च तदुभयात्मकम् अकारवाच्यं च तत्त्वं मेधया मेधाविशेषेण प्राप्यते ज्ञायते वा ॥
+</details>
+
+<details><summary>भट्टभास्करः - अवतारिका</summary>
+
+अथ तादृशीं मेधां प्रार्थयते - अद्या न इति द्वे गायत्र्यौ 'उत नः प्रिया' इत्यत्र व्याख्याते ॥
+</details>
+
+<details><summary>त्रिभुवनः - अद्या नो, विश्वानि</summary>
+
+O god Savitr, impell today for us prosperity with offspring; destroy away the effect of the bad dream. O god Savitr, destroy all the sins away; bring that to me, which is auspicious.
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सौभगं सुभगत्वं सुज्ञातत्वं भद्रमपि तदेव ॥
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/04_adyA_no.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -249,6 +342,11 @@ ________________
 हे सवितर्देव! अद्यास्मिन्कर्मणि नोऽस्माकं प्रजावत् पुत्रपौत्राद्युपेतं सौभगं सौभाग्यं सावीः अनुजानीहि । दुष्ष्वप्नियं दुस्स्वप्ननिमित्तं दोषं परासुव विनाश्य ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अद्या न इति ॥ हे देवः सवितः! सर्वस्यानुज्ञातः! अद्य अस्मिन्नहन्य् अस्मभ्यं प्रजावत् प्रजासमृद्धिमत् सौभगं सौभाग्यं सुश्रीकत्वं सावीर् अनुजानीहि । छान्दसे लुङि 'बहुलं छन्दस्यमाङ्योगेऽपि' इत्यडभावः । 'सुभगं मन्त्रे' इति सुभगशब्दादञ् । किञ्च - दुष्ष्वप्नियं दुस्स्वप्नप्रभवं परासुव नाशय । 'भवेच्छन्दसि' इति दुस्स्वप्नाद्यत् । छान्दस इकारोपजनः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -272,6 +370,11 @@ Impel away the bad dream.
 
 Send us this day, God Savitar, prosperity with progeny.  
      Drive thou the evil dream away.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O god Savitr, grant us today fortune with progeny and destroy the effect of bad dreams.
 </details>
 
 <details><summary>Geldner</summary>
@@ -341,7 +444,7 @@ O schaffe heut, Gott Savitar, uns kinderreichen Segen her; Fort schaffe böses T
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/05_vishvAni_deva.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/05_vishvAni_deva.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -351,6 +454,21 @@ O schaffe heut, Gott Savitar, uns kinderreichen Segen her; Fort schaffe böses T
 </details>
 
 </div>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथ मधु वाता ऋतायत इति तिस्त्रो गायत्र्यः व्याख्याताः ॥
+</details>
+
+<details><summary>त्रिभुवनः - मधु वाताः</summary>
+
+May the wind be honeyful for us, who wish the settled order, may the rivers flow being honeyful for us; may the plants be honeyful for us; may the honey be for us at the night and at the dawn; may the earthly region be honeyful to us; may the heaven, our father be honeyful for us; may the vegetable be full of honey for us; may the sun be full of honey, may the cows be honeyful for us.
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अत्राप्यात्मज्ञानं मधु ॥
+</details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/082/05_vishvAni_deva.md">
 
@@ -536,6 +654,11 @@ __________________
 
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विश्वानीति ॥ हे देवः सवितः! विश्वा विश्वानि दुरितानि परासुव नाशय । किं विशेष्यते - दुष्ष्वप्न्यमिति । यद् भद्रं कल्याणं तत् सर्वं मे आसुव मदीयत्वेन अनुजानन् आनय ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -559,6 +682,11 @@ What is beneficial, that impel here to us.
 
 Savitar, God, send far away all sorrows and calamities,  
      And send us only what is good.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O god Savitr, destroy all the sins; what is auspicious, bring that for me.
 </details>
 
 <details><summary>Geldner</summary>
@@ -628,7 +756,7 @@ O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das scha
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -642,6 +770,11 @@ O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das scha
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
 
+<details><summary>त्रिभुवनः</summary>
+
+May honey be for us at night and dawn; may the earthly world be honeyful; may the heaven, our father, be honeyful.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मधु॒ नक्त॑म् उ॒तोषसि॒  
@@ -649,9 +782,41 @@ O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das scha
 मधु॒ द्यौर॑स्तु नः पि॒ता ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+मध्वेवास्त्व् अस्माकं नक्तं रात्रौ उषस्य् अप्य् अहन्यपि । पार्थिवं रजः पृथिव्याख्यो लोकः मधुमानस्तु । द्यौश्च पिता नो ऽस्माकं मधुमत्यस्तु ॥
+</details>
+
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+य इमम् इत्यादि ब्राह्मणम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+य᳓ इम᳓न्त्रि᳓सुपर्णम᳓याचितं ब्राह्मणा᳓य  दद्यात् ।  
+भ्रूणहत्याव्ँ᳓ वा᳓ एते᳓ घ्नन्ति ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+They who give this Trisuparna Mantra to Brahmana, being not asked for that, they destroy the sin of the killing of the embryo;
+</details>
+
+<details><summary>मूलम्</summary>
+
+य इ॒मन्त्रिसु॑पर्ण॒मया॑चितं ब्राह्म॒णाय॑  दद्यात् ।  
+भ्रू॒ण॒ह॒त्याव्ँ वा ए॒ते घ्न॑न्ति ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+गतम् । य इममिति द्वितीयं निर्दिशति । भूणहत्यां वेदवेदाङ्गविदो ब्राह्मणस्य वधः ॥
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -665,6 +830,11 @@ O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das scha
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
 
+<details><summary>त्रिभुवनः</summary>
+
+May the vegetable be honeyful for us; may the sun be honeyful; may the cows be honeyful.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मधु॑मान् नो॒ वन॒स्पति॒र्  
@@ -672,21 +842,14 @@ O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das scha
 माद्ध्वी॒र् गावो॑ भवन्तु नः ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+वनस्पतिश्च अस्माकं मधुमानस्तु । सूर्योऽपि मधुमानस्तु गावोऽपि मधुमत्यस्सन्त्व् अस्माकम् ॥
+</details>
+
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
-
-य᳓ इम᳓न्त्रि᳓सुपर्णम᳓याचितं ब्राह्मणा᳓य  दद्यात् ।  
-भ्रूणहत्याव्ँ᳓ वा᳓ एते᳓ घ्नन्ति ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-य इ॒मन्त्रिसु॑पर्ण॒मया॑चितं ब्राह्म॒णाय॑  दद्यात् ।  
-भ्रू॒ण॒ह॒त्याव्ँ वा ए॒ते घ्न॑न्ति ।
-</details>
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/48-50_brahmam_etu_trisuparNAH/07_ye_brAhmaNAstrisuparNam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/48-50_brahmam_etu_trisuparNAH/07_ye_brAhmaNAstrisuparNam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -701,11 +864,21 @@ O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das scha
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/48-50_brahmam_etu_trisuparNAH/07_ye_brAhmaNAstrisuparNam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+Brahmanas, who read the Trisuparna Mantra, they obtain soma and purify the line of thousand (Brahmanas eating together), Om.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये ब्रा॑ह्म॒णास्त्रिसु॑पर्णं॒ पठ॑न्ति ।  
 ते सोमं॒ प्राप्नु॑वन्ति ।  
 आ॒स॒ह॒स्रात्प॒ङ्क्तिं पुन॑न्ति । ओम् । (63)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ ये ब्राह्मणा लब्धत्रिसुपर्णाः पठन्ति तेऽपि सोमं परं देवं सोमयागफलं वा प्राप्नुवन्त्य् अथ सहस्त्रपुरुषायां ब्राह्मणपङ्क्तौ श्राद्धादिषु भुञ्जानास् तां सर्वामपि पङ्क्तिं पुनन्ति क्षाळितसर्वपापां भोजयितव्यां कुर्वन्ति । ओमिति प्रणवसायुज्यं च लभन्ते ॥
 </details>
 </details>
 
@@ -713,9 +886,19 @@ O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das scha
 
 ## 50
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+ब्रह्म मेधवेति तृतीयं त्रिसुपर्णम् ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 ब्र᳓ह्म मेध᳓वा । म᳓धु मेध᳓वा । ब्र᳓ह्ममेव᳓ म᳓धु मेध᳓वा ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Brahman is full of sacrifice; the honey is full of the sacrifice; Brahman, verily, the honey is full of the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -723,7 +906,27 @@ O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das scha
 ब्रह्म॑ मे॒धवा॑ । मधु॑ मे॒धवा॑ । ब्रह्म॑मे॒व मधु॑ मे॒धवा॑ ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/06_brahmA_devAnAM.md">
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सर्वं पूर्ववत् । तत्र प्रथमे उपासना परप्राप्तिहेतुरुक्ता । द्वितीये ज्ञानम् । इदानीं कर्मणः परप्राप्तिसाधनत्वमुच्यते । पूर्वोक्तं ब्रह्म च मधु च तदुभयात्मकं च मकारवाच्यं तृतीयं तत्त्वं तत्सर्वं मेधवा मेधवन् मेधो यज्ञो ज्योतिष्टोमादिस् तद्वत् तदनुष्ठानेन प्राप्यते ज्ञायते वा न विना कर्मणा । वत्वन्तात् 'सुपां सुलुक्' इति डादेशः॥
+</details>
+
+<details><summary>भट्टभास्करः - अवतारिका</summary>
+
+इदानीं कर्मवैशिष्ट्यं दर्शयति - ब्रह्मा देवानामिति त्रिष्टुप् व्याख्याता 'त्वमग्ने बृहद्वयः' इत्यत्र ॥
+</details>
+
+<details><summary>त्रिभुवनः - ब्रह्मा देवानाम्</summary>
+
+That Atman (Self) is Brahman among the gods, knowledge of word among the poets, the seer among the learned ones, buffalo among the animals, falcon among the vultures, cutting instrument among the woods; that (Atman) as Soma wins all purifying (objects) making utterence (of the Mantras).
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सोमयागः सर्वं प्रवित्रमतिशेत इति ॥
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/06_brahmA_devAnAM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -963,6 +1166,11 @@ _________
 तथा **विप्राणां** मेधाविनाम्मध्ये ऋषिर्भवति । यः परोक्षम्पश्यति सऋषिः । ऋषिर्दर्श- नादिति । मृगाणां महिषोभवति महिषाख्योबलवान् राजाभवति । तथा गृध्राणां पक्षि- विशेषाणां श्येनः शंसनीयः पक्षिराजोभवति । वनानां वनतिर्हिसाकर्मा । हिंसकानां छेदका- नाम्मध्ये स्वधितिः एतन्नामकः छेदकोसि । एवम्प्रभावः सोमः रेभन् शब्दायमानःसन् पवि त्रमूर्णास्तुकेन कृतमत्येति अतिगच्छति ॥ ६ ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ब्रह्मा देवानामिति ॥ व्याख्याता 'त्वमग्ने बृहद्वययः' इत्यत्र । अयमेव तद्रूपेण वर्तत इति योज्यम् ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -994,6 +1202,11 @@ Brahman of Gods, the Leader of the poets, Rsi of sages, Bull of savage creatures
      Falcon amid the vultures, Axe of forests, over the cleansing sieve goes Soma singing.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+That Atman (Self) is Brahman among the gods, knowledge (of words) among the poets, the seer among the learned ones (Vipras); buffalo among the animals, falcon among the vultures, cutting instrument among the woods; that (Atman) as Soma wins all purifying (objects) making utterance (of Mantras).
+</details>
+
 <details><summary>Geldner</summary>
 
 Der Hohepriester der Götter, der Pfadfinder der Seher, der Rishi unter den Beredten, der Büffel unter den wilden Tieren, der Adler unter den Geiern, die Axt für die Bäume, geht Soma laut redend durch die Seihe.
@@ -1022,7 +1235,22 @@ Der Götter Beter und der Priester Führer, der Sänger Dichter und der Stier de
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+हंसश्शुचिषदित्य् अतिजगती व्याख्याता इन्द्रस्येत्यत्र ॥
+</details>
+
+<details><summary>त्रिभुवनः - हंसश्शुचिषद्</summary>
+
+That (is) the swan seated in purity, the bright one seated in the mid-region, the Hotr-priest seated at the altar, the guest seated in the house, seated among men, seated in the highest, seated in the settled order, seated in the firmament, born of the waters, born of the cows, born of the mountain, the great settled order.
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इत्थं कर्मसिद्ध्यर्थं देवो बहुषु स्थानेषु बहुरूपस्तिष्ठतीति ॥
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1036,6 +1264,11 @@ Der Götter Beter und der Priester Führer, der Sänger Dichter und der Stier de
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
+
+<details><summary>त्रिभुवनः</summary>
+
+The swan (is) seated in purity; Vasu (bright one), seated in the mid-region; the Hotr-priest, seated at the altar; the guest, seated in the house; (that is) seated in the men, seated in the highest, seated in the settled order (and) seated in the firmament.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1068,20 +1301,34 @@ Seated among men, seated in the highest, seated in holy order, seated in the fir
 
 </div>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+य इमम् इत्यादि ब्राह्मणं गतम् ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 य᳓ इम᳓न्त्रि᳓सुपर्णम᳓याचितं ब्राह्मणा᳓य दद्यात् ।  
-वीरहत्याव्ँ᳓ वा᳓ एते᳓ घ्नन्ति ।  
+वीरहत्याव्ँ᳓ वा᳓ एते᳓ घ्नन्ति ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+They, who give this Trisuparna Mantra to Brahmana, they destroy the sin of killing the brave (son).
 </details>
 
 <details><summary>मूलम्</summary>
 
 य इ॒मन्त्रिसु॑पर्ण॒मया॑चितं ब्राह्म॒णाय॑ दद्यात् ।  
-वी॒र॒ह॒त्याव्ँ वा ए॒ते घ्न॑न्ति ।  
-
+वी॒र॒ह॒त्याव्ँ वा ए॒ते घ्न॑न्ति ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/48-50_brahmam_etu_trisuparNAH/07_ye_brAhmaNAstrisuparNam.md">
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इदं तृतीयमाह - वीरहत्यामिति विशेषः । गुणवान् पुत्रो वीरः । अभिषिक्तः क्षत्रिय इत्यन्ये । तस्य वधो वीरहत्या । गतमन्यत् ॥
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/48-50_brahmam_etu_trisuparNAH/07_ye_brAhmaNAstrisuparNam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1096,11 +1343,21 @@ Seated among men, seated in the highest, seated in holy order, seated in the fir
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/48-50_brahmam_etu_trisuparNAH/07_ye_brAhmaNAstrisuparNam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+Brahmanas, who read the Trisuparna Mantra, they obtain soma and purify the line of thousand (Brahmanas eating together), Om.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये ब्रा॑ह्म॒णास्त्रिसु॑पर्णं॒ पठ॑न्ति ।  
 ते सोमं॒ प्राप्नु॑वन्ति ।  
 आ॒स॒ह॒स्रात्प॒ङ्क्तिं पुन॑न्ति । ओम् । (63)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ ये ब्राह्मणा लब्धत्रिसुपर्णाः पठन्ति तेऽपि सोमं परं देवं सोमयागफलं वा प्राप्नुवन्त्य् अथ सहस्त्रपुरुषायां ब्राह्मणपङ्क्तौ श्राद्धादिषु भुञ्जानास् तां सर्वामपि पङ्क्तिं पुनन्ति क्षाळितसर्वपापां भोजयितव्यां कुर्वन्ति । ओमिति प्रणवसायुज्यं च लभन्ते ॥
 </details>
 </details>
 

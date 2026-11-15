@@ -155,7 +155,8 @@ Kāma is the donator, Kāma is the obtainer;
 
 <details><summary>मूलम्</summary>
 
-कामो॑ दा॒ता । (15)  
+कामो॑ दा॒ता ।  
+(15)  
 कामः॑ प्रतिग्रही॒ता ।
 </details>
 

@@ -4,6 +4,16 @@ title = "५१-५७ विरजा विपाप्मा"
 
 ## 51
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+Mantras for making a homa of eleven oblations for purification (From LI to LXI).
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथ सन्न्यासविषया विरजाहोमा एकपञ्चाशप्रभृतय एकादशानुवाकाः ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणापान-व्यानोदान-समाना मे **शुद्ध्यन्ताञ्**,  
@@ -15,10 +25,20 @@ title = "५१-५७ विरजा विपाप्मा"
 प्राणापानव्यानोदानसमाना इति। प्राणादयः पञ्च वायवः प्रसिद्धास्ते सर्वेऽप्यनेनाऽऽज्यहोमेन शुद्धा भवन्तु। य(त)तोऽहं विपाप्मा प्रतिबन्धकपातकरहितो विरजाः पापकारणीभूतरजोगुणेनापि रहितः सन्यज्ज्योतिर्जगत्कारणं परब्रह्म तद्वस्तु भूयासम्। तदर्थमिदामाज्यं [स्वाहा] सुहुतमस्तु।
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+May my Prana, Apana, Vyana, Udana and Samana breaths be purified, may I become the light, dustless and sinless; Hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राणापानव्यानोदानसमाना मे॑ शुद्ध्य॒न्ता॒ञ्  
 ज्योति॑र् अ॒हव्ँ वि॒रजा॑ विपा॒प्मा भू॑यासँ॒ स्वाहा॑ । (66)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+मे मदीयाः प्राणादयः पञ्चापि वायवः वायुवृत्तयः शुद्ध्यन्ताम् । ततो ऽहं परं ज्योतिर् भूत्वा विरजा विरजस्कः प्रवर्तक रहितः विपाप्मा विगतत्रिविधमलश्च भूयासम् । अनेन होमेन स्वाहा हुतं चेदमस्तु परस्मै ज्योतिषे ॥
 </details>
 
 ## 52
@@ -34,13 +54,28 @@ title = "५१-५७ विरजा विपाप्मा"
 वागिति। वागादीनीन्द्रियाणि। रेतो गुह्येन्द्रियम्। मनःशब्दवाच्यस्यैवान्तःकरणस्य निश्चयात्मिका वृत्तिर्बुद्धिः। अनिश्चयरूपा वृत्तिराकूतिः। इदं समीचीनमितिकल्पनारूपा वृत्ति संकल्पः। अन्यत्पूर्ववत् *।
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+May my speech, mind, eye, ear, tongue, nose, semen, wisdom, purpose and will be purified; may I become the light, dustless and sinless; Hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाङ्मनश्चक्षुःश्रोत्रजिह्वाघ्राणरेतोबुद्ध्याकूतिसङ्कल्पा मे॑ शुद्ध्य॒न्ता॒ञ्,  
 ज्योति॑र॒हव्ँ वि॒रजा॑ विपा॒प्मा भू॑यासँ॒ स्वाहा॑ । (67)
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+वागादिसङ्कल्पान्तज्ञानसाधनदशकशुद्धिर् द्विपञ्चाशे ॥ आकूतिर् अभिप्रायः ॥
+</details>
+
 ## 53
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+शिरःप्रभृतिपाय्वन्तकर्मसाधनदशकशुद्धिस् त्रिपञ्चाशे ॥ प्राण्यङ्गत्वेऽपि व्यत्ययेनैकवद्भावाभावः ।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -59,9 +94,19 @@ title = "५१-५७ विरजा विपाप्मा"
 
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+May my head, hand, foot, side, back, thigh, generating organ, urine-organ and the anus be purified; may I become the light, dustless and sinless; Hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 शिरःपाणिपादपार्श्वपृष्ठोदरजङ्घशिश्ञोपस्थपायवो मे॑ शुद्ध्य॒न्ता॒ञ्ज्योति॑र॒हव्ँ वि॒रजा॑ विपा॒प्मा भू॑यासँ॒ स्वाहा॑ । (68)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+पाय्वादीनामिन्द्रियात्मकत्वाद्वा ॥
 </details>
 
 ## 54
@@ -82,12 +127,27 @@ title = "५१-५७ विरजा विपाप्मा"
 त्वक्चर्मेत्यादि। अत्र स्थूलशरीरगतानां सप्तधातूनां शुद्धिरुच्यते। एकस्यैव धातोर्बाह्यान्तरभागविवक्षया त्वक्चर्मशब्दौ प्रयुक्तौ। अन्यत्पूर्ववत्+।
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+May my skin, leather, flesh, blood, feet, marrow, sinew and bone be purified; may I become the light, dustless and sinless; Hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वक्-चर्म-माँस-रुधिर-मेदो-ऽस्थि-मज्जा मे॑ शुद्ध्य॒न्ता॒ञ्  ज्योति॑र॒हव्ँ वि॒रजा॑ विपा॒प्मा भू॑यासँ॒ स्वाहा॑ । (69)
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+त्वगादिमज्जान्तसप्तधातुशुद्धिश् चतुःपञ्चाशे ॥ मज्जशब्दात् 'सुपां सुलुक्' इति डादेशः ॥
+</details>
+
 ## 55
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+शब्दादिगन्धान्तपञ्चविषयशुद्धिः पञ्चपञ्चाशे ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -105,12 +165,22 @@ title = "५१-५७ विरजा विपाप्मा"
 शब्दस्पर्शेत्यादि। शरीरोपादानपञ्चमहाभूतेश्वाकाशादिषु वर्तमाना गुणाः शब्दादयः। पूर्ववदन्यत्+।
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+May my word, touch, form, taste and perfume be purified; may I become the light, dustless and sinless; Hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 शब्दस्पर्शरूपरसगन्धा मे॑ शुद्ध्य॒न्ता॒ञ्ज्योति॑र॒हव्ँ वि॒रजा॑ विपा॒प्मा भू॑यासँ॒ स्वाहा॑ । (70)
 </details>
 
 ## 56
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+पृथिव्याद्याकाशान्तपञ्चभूतशुद्धिः षट्पञ्चाशे ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -126,6 +196,11 @@ title = "५१-५७ विरजा विपाप्मा"
 <details><summary>आन्ध्र-पाठ-परिशिष्ट-भाष्यम्</summary>
 
 पृथिवीति। शरीरस्योपादानकारणानि पृथिव्यादीनि। पूर्ववदन्यत्*।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+May my earth, water, light, wind and ether be purified; may I become the light, dustless and sinless; Hail!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -149,7 +224,17 @@ title = "५१-५७ विरजा विपाप्मा"
 याज्ञिक्यामुपनिषदि सप्तपञ्चाशत्तमोऽनुवाकः॥ ५७॥
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+May my sheaths of food, breath, mind, knowledge and bliss be purified; may I become the light, dustless and sinless; Hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्नमयप्राणमयमनोमयविज्ञानमयानन्दमया मे॑ शुद्ध्य॒न्ता॒ञ्ज्योति॑र॒हव्ँ वि॒रजा॑ विपा॒प्मा भू॑यासँ॒ स्वाहा॑ । (72)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अन्नमयाद्यानन्दमयान्तपञ्चकोशशुद्धिः सप्तपञ्चाशे ॥ ‘ब्रह्मविदाप्नोति' इत्यत्र व्याकृता ॥
 </details>

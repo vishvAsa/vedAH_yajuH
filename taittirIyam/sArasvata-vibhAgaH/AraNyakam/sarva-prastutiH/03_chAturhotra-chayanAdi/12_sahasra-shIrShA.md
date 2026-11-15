@@ -8,21 +8,6 @@ unicode_script: devanagari
 The Puruṣa Sūkta. (From 1 to 18).
 </details>
 
-<div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/_index.md">
-
-<details open><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
-<details><summary>सायण-भाष्यम्</summary>
-
-‘सहस्रशीर्षा' इति षोडशर्चं षष्ठं सूक्तम् ।  
-नारायण नामर्षिर्  
-अन्त्या त्रिष्टुप् शिष्टा अनुष्टुभः । 
-
-अव्यक्त-महद्-आदि-विलक्षणश् चेतनो यः पुरुषः  
-‘पुरुषाश् च परं किंचित् ' ( क. उ. ३. ११) इत्य्-आदि-श्रुतिषु प्रसिद्धः स देवता । 
-
-तथा चानुक्रान्तं--- सहस्रशीर्षा षोळश नारायणः पौरुषमानुष्टुभं त्रिष्टुबन्तं तु' इति । गतो विनियोगः ।।
-</details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ पुरुषानुवाकः - सहस्रशीर्षेयादि ॥  
@@ -50,6 +35,21 @@ The Puruṣa Sūkta. (From 1 to 18).
 अथ 'सहस्रशीर्षं देवम्' इत्यपरो नारायणानुवाको भविष्यति,  
 यत्र परमात्मा प्रणवाख्यो नारायणः प्रतिपाद्यते ।  
 तस्य अग्न्य्-आदि-श्रौत-पुरुषवत् कर्म-सम्बन्धाभावाद् इहानाम्नानम् ।
+</details>
+
+<div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/_index.md">
+
+<details open><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>सायण-भाष्यम्</summary>
+
+‘सहस्रशीर्षा' इति षोडशर्चं षष्ठं सूक्तम् ।  
+नारायण नामर्षिर्  
+अन्त्या त्रिष्टुप् शिष्टा अनुष्टुभः । 
+
+अव्यक्त-महद्-आदि-विलक्षणश् चेतनो यः पुरुषः  
+‘पुरुषाश् च परं किंचित् ' ( क. उ. ३. ११) इत्य्-आदि-श्रुतिषु प्रसिद्धः स देवता । 
+
+तथा चानुक्रान्तं--- सहस्रशीर्षा षोळश नारायणः पौरुषमानुष्टुभं त्रिष्टुबन्तं तु' इति । गतो विनियोगः ।।
 </details>
 
 <details><summary>Jamison Brereton</summary>
@@ -400,7 +400,7 @@ Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die E
 
 ### 02 पुरुष एवेदम् - अनुष्टुप्
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
+<details><summary>भट्टभास्करः - अवतारिका</summary>
 
 इदानीं पुरुषस्य वैश्वरूप्यमाह - पुरुष एवेति ॥
 </details>
@@ -4729,6 +4729,11 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 
 ### पुरुषस्तुतिः, यज्ञस्तुतिः
 
+<details><summary>भट्टभास्करः - अवतारिका</summary>
+
+वेदेत्यादयः तिस्रस्त्रिष्टुभः ॥
+</details>
+
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/16_vedAham_etam.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -4743,11 +4748,6 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/16_vedAham_etam.md">
-
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-वेदेत्यादयः तिस्रस्त्रिष्टुभः ॥
-</details>
 
 <details><summary>त्रिभुवनः</summary>
 

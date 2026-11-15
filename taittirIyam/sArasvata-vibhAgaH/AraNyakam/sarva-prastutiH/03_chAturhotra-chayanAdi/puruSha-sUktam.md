@@ -9,20 +9,6 @@ title = "पुरुस्ह-सुक्तम् पुरुष-सूक�
 The Puruṣa Sūkta. (From 1 to 18).
 </details>
 
-<div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/_index.md">
-<details open><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
-<details><summary>सायण-भाष्यम्</summary>
-
-‘सहस्रशीर्षा' इति षोडशर्चं षष्ठं सूक्तम् ।  
-नारायण नामर्षिर्  
-अन्त्या त्रिष्टुप् शिष्टा अनुष्टुभः । 
-
-अव्यक्त-महद्-आदि-विलक्षणश् चेतनो यः पुरुषः  
-‘पुरुषाश् च परं किंचित् ' ( क. उ. ३. ११) इत्य्-आदि-श्रुतिषु प्रसिद्धः स देवता । 
-
-तथा चानुक्रान्तं--- सहस्रशीर्षा षोळश नारायणः पौरुषमानुष्टुभं त्रिष्टुबन्तं तु' इति । गतो विनियोगः ।।
-</details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ पुरुषानुवाकः - सहस्रशीर्षेयादि ॥  
@@ -50,6 +36,20 @@ The Puruṣa Sūkta. (From 1 to 18).
 अथ 'सहस्रशीर्षं देवम्' इत्यपरो नारायणानुवाको भविष्यति,  
 यत्र परमात्मा प्रणवाख्यो नारायणः प्रतिपाद्यते ।  
 तस्य अग्न्य्-आदि-श्रौत-पुरुषवत् कर्म-सम्बन्धाभावाद् इहानाम्नानम् ।
+</details>
+
+<div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/_index.md">
+<details open><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
+<details><summary>सायण-भाष्यम्</summary>
+
+‘सहस्रशीर्षा' इति षोडशर्चं षष्ठं सूक्तम् ।  
+नारायण नामर्षिर्  
+अन्त्या त्रिष्टुप् शिष्टा अनुष्टुभः । 
+
+अव्यक्त-महद्-आदि-विलक्षणश् चेतनो यः पुरुषः  
+‘पुरुषाश् च परं किंचित् ' ( क. उ. ३. ११) इत्य्-आदि-श्रुतिषु प्रसिद्धः स देवता । 
+
+तथा चानुक्रान्तं--- सहस्रशीर्षा षोळश नारायणः पौरुषमानुष्टुभं त्रिष्टुबन्तं तु' इति । गतो विनियोगः ।।
 </details>
 
 <details><summary>Jamison Brereton</summary>
@@ -393,7 +393,7 @@ Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die E
 
 ###### 02 पुरुष एवेदम् - अनुष्टुप्
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
+<details><summary>भट्टभास्करः - अवतारिका</summary>
 
 इदानीं पुरुषस्य वैश्वरूप्यमाह - पुरुष एवेति ॥
 </details>
@@ -4638,6 +4638,11 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 
 ###### पुरुषस्तुतिः, यज्ञस्तुतिः
 
+<details><summary>भट्टभास्करः - अवतारिका</summary>
+
+वेदेत्यादयः तिस्रस्त्रिष्टुभः ॥
+</details>
+
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/16_vedAham_etam.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
 
@@ -4650,11 +4655,6 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/16_vedAham_etam.md">
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-वेदेत्यादयः तिस्रस्त्रिष्टुभः ॥
-</details>
-
 <details><summary>त्रिभुवनः</summary>
 
 Whom the disposer made famous, whom Indra, knowing all the quarters, made famous; by knowing Him one becomes immortal here; there is no other way for going to the (Supreme).
@@ -5321,6 +5321,11 @@ Prajāpati moves in the womb of the creation; he becomes born in various forms, 
 </details>
 </div>
 
+<details><summary>भट्टभास्करः - अवतारिका</summary>
+
+यो देवेभ्य इत्याद्ये अनुष्टुभौ ॥ अधुना स एव आदित्वो वर्ण्यते ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/05_yo_devebhya.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
@@ -5349,7 +5354,7 @@ Salutation to that shining Brahman, who shines for the sake of the gods, who is 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-यो देवेभ्य इत्याद्ये अनुष्टुभौ ॥ अधुना स एव आदित्वो वर्ण्यते । यो देवेभ्यः सर्वविकारेभ्यः आतपति समन्तात्तपति सर्वेभ्यो रश्मिमद्भ्योऽधिकं तपति अव्यक्तात्मस्वरूपादागत्य तपनेन सर्वान् विकारान् उत्पाद्य अनुगृह्णाति । यश्च तेषां देवानां देवादीनां विकाराणां पुरोहितः पुरस्तात् स्थितः। तेषां अनुज्ञानार्थं उदयादिना उपकरोति । यश्च पूर्वः प्रथम एव देवेभ्यो जातः सर्वविकाराणां अग्रे जातः । तस्मै रुचाय रोचनशीलाय परमेश्वरदीप्तिमूर्तये । इगुपधलक्षणः कः । ब्राह्मये ब्रह्मणोऽपत्याय । छान्दस इञ् , बाह्वादिर्वा द्रष्टव्यः । तस्मै नम इति ॥
+यो देवेभ्यः सर्वविकारेभ्यः आतपति समन्तात्तपति सर्वेभ्यो रश्मिमद्भ्योऽधिकं तपति अव्यक्तात्मस्वरूपादागत्य तपनेन सर्वान् विकारान् उत्पाद्य अनुगृह्णाति । यश्च तेषां देवानां देवादीनां विकाराणां पुरोहितः पुरस्तात् स्थितः। तेषां अनुज्ञानार्थं उदयादिना उपकरोति । यश्च पूर्वः प्रथम एव देवेभ्यो जातः सर्वविकाराणां अग्रे जातः । तस्मै रुचाय रोचनशीलाय परमेश्वरदीप्तिमूर्तये । इगुपधलक्षणः कः । ब्राह्मये ब्रह्मणोऽपत्याय । छान्दस इञ् , बाह्वादिर्वा द्रष्टव्यः । तस्मै नम इति ॥
 </details>
 </details>
 </div>
@@ -5387,7 +5392,7 @@ The gods, while producing the lights of the Brahman (consciousness), said in the
 
 ###### परिपूर्णपुरुषध्यानम्
 
-<details><summary>त्रिभुवनः - विनियोगः</summary>
+<details><summary>त्रिभुवनः - अवतारिका</summary>
 
 A Yajus Mantra.
 </details>

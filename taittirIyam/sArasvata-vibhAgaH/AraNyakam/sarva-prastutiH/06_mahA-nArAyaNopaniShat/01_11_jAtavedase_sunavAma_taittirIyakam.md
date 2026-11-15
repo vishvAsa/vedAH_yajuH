@@ -8,25 +8,384 @@ unicode_script = "devanagari"
 सायण-टीका [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n361/mode/2up)। भास्करपाठो [ऽत्र](https://archive.org/details/taittiriya/taittiriya_aranyaka_bhaskara_02/page/n101/mode/2up?view=theater) ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/099_jAtavedase">
+<details><summary>त्रिभुवनः - विनियोगः</summary>
 
-<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+*(Mantras 42–47)* Six Mantras for destroying the evils.
+</details>
 
-+++(एकैव ऋग् अत्र।)+++
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/099/01_jAtavedase_sunavAma.md">
+जातवेदस इति ॥ एतत्प्रभृतयः पञ्च दौर्गा मन्त्राः प्रकरणादात्मनि व्याख्येयाः । चोरव्याघ्रपिशाचादिभये समुपस्थिते दौर्गत्ये च जपहोमादिकर्म एभिः कुर्यात् ।
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/099/01_jAtavedase_sunavAma.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 जात᳓वेदसे+++(=जातज्ञानाय)+++ **सुनवाम** सो᳓मम्  
 अरातीयतो᳓+++(=शत्रुकामाय)+++ **नि᳓दहाति** वे᳓दः+++(=वेत्तीति)+++।  
 स᳓ नः **पर्षद्**+++(=अपारयत्)+++ अ᳓ति दुर्गा᳓णि वि᳓श्वा  
 नावे᳓व सि᳓न्धुं दुरिता᳓ऽत्यग्निः᳓॥
 
-</div>
 </details>
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/04_tAm_agnivarNAm.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/099/01_jAtavedase_sunavAma.md">
+
+<details><summary><h4>मूलम् …{Loading}…</h4></summary>
+
+जा॒तवे॑दसे सुनवाम॒ सोम॑मरातीय॒तो नि द॑हाति॒ वेदः॑ ।  
+स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॑ ना॒वेव॒ सिन्धुं॑ दुरि॒तात्य॒ग्निः ॥
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/099/01_jAtavedase_sunavAma.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निरग्निर्जातवेदा वा
+- ऋषिः - कश्यपो मारीचः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+जात᳓वेदसे सुनवाम सो᳓मम्  
+अरातीयतो᳓ नि᳓ दहाति वे᳓दः  
+स᳓ नः पर्षद् अ᳓ति दुर्गा᳓णि वि᳓श्वा  
+नावे᳓व सि᳓न्धुं दुरिता᳓ति अग्निः᳓
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+jātávedase ← jātávedas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sunavāma ← √su- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+arātīyatáḥ ← √arātīy- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dahāti ← √dah- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+védaḥ ← védas- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+durgā́ṇi ← durgá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+parṣat ← √pr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+duritā́ ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+nāvā́ ← naú- ~ nā́v- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+síndhum ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जा॒तऽवे॑दसे । सु॒न॒वा॒म॒ । सोम॑म् । अ॒रा॒ति॒ऽय॒तः । नि । द॒हा॒ति॒ । वेदः॑ ।  
+सः । नः॒ । प॒र्ष॒त् । अति॑ । दुः॒ऽगानि॑ । विश्वा॑ । ना॒वाऽइ॑व । सिन्धु॑म् । दुः॒ऽइ॒ता । अति॑ । अ॒ग्निः ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *jātavedase* ← *jātavedas*
+- \[noun\], dative, singular, masculine
+- “Agni; fire.”
+
+_________
+
+- *sunavāma* ← *su*
+- \[verb\], plural, Present imperative
+- “press out; su.”
+
+_________
+
+- *somam* ← *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+
+_________
+
+- *arātīyato* ← *arātīyataḥ* ← *arātīy*
+- \[verb noun\], genitive, singular
+
+_________
+
+- *ni*
+- \[adverb\]
+- “back; down.”
+
+_________
+
+- *dahāti* ← *dah*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
+    distress; destroy.”
+
+_________
+
+- *vedaḥ* ← *vedas*
+- \[noun\], accusative, singular, neuter
+- “property.”
+
+_________
+
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+
+_________
+
+- *parṣad* ← *parṣat* ← *pṛ*
+- \[verb\], singular, Aorist conj./subj.
+- “protect; promote; rescue; help.”
+
+_________
+
+- *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+
+_________
+
+- *durgāṇi* ← *durga*
+- \[noun\], accusative, plural, neuter
+- “fortress; stronghold; difficulty; danger; passage.”
+
+_________
+
+- *viśvā* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *nāveva* ← *nāvā* ← *nau*
+- \[noun\], instrumental, singular, feminine
+- “ship; boat; nau \[word\].”
+
+_________
+
+- *nāveva* ← *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+
+_________
+
+- *sindhuṃ* ← *sindhum* ← *sindhu*
+- \[noun\], accusative, singular, masculine
+- “river; Indus; sindhu \[word\].”
+
+_________
+
+- *duritāty* ← *duritā* ← *durita*
+- \[noun\], accusative, plural, neuter
+- “danger; sin; difficulty; difficulty; evil.”
+
+_________
+
+- *duritāty* ← *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+
+_________
+
+- *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+जातवेदसे- जातविद्याय। सोमं सुनवाम- रसं निष्पादयाम। अरातीयतः- विघ्नभूतान् शत्रून्। वेदः-  ज्ञानम्। नि- नितराम्। दहाति- भस्मीकरोति। सः। अग्निः। नः- अस्मान्। विश्वा- सर्वाणि।  दुर्गाणि- बन्धात्मकानि। दुरितानि- पापानि। नावेव- नौकेव। सिन्धुम्- समुद्रम्। अति पर्षत्-  पारयतु॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**जातवेदसे** जातानामुत्पत्तिमतां सर्वेषां वेदित्रे यद्वा जातैः सर्वैः प्राणिभिर्ज्ञायमानाय जातधनाय जातप्रज्ञाय वा अग्नये लतारूपं **सोमं** **सुनवाम** अभिषुणुयाम । जातवेदोगुणकमग्निं यष्टुं सोमाभिषवं करवामेत्यर्थः । सः अग्निः **अरातीयतः** अरातिं शत्रुमिवास्मानाचरतः शत्रोः **वेदः** धनं **नि** **दहाति** नितरां दहतु भस्मीकरोतु । अपि च **सः** अग्निः **नः** अस्मान् **विश्वा** विश्वानि सर्वाणि **दुर्गाणि** दुर्गमनानि भोक्तुमशक्यानि दुःखानि **अति** **पर्षत्** अतिपारयतु अतिक्रमय्य दुःखरहितं सुखं प्रापयतु । तत्र दृष्टान्तः । **नावेव** **सिन्धुम्** । यथा कश्चित् कर्णधारो ग्राहादिभिर्दुष्टसत्त्वैराकुलितां नदीं नावा तारयति तद्वत् । तथा **दुरिता** दुरितानि दुःखहेतुभूतानि पापानि अस्मान् **अग्निः** **अति** पारयतु । दुःखनिमित्तात् पापादपि अस्मानुत्तारयत्वित्यर्थः । अत्र निरुक्तं-जातवेदाः कस्मात् जातानि वेद जातानि वैनं विदुर्जाते जाते विद्यत इति वा जातवित्तो वा जातधनो वा जातविद्यो वा जातप्रज्ञो वा यत्तज्जातःपशूनविन्दतेति तज्जातवेदसो जातवेदस्त्वमिति हि ब्राह्मणम्' ( निरु. ७. १९) इत्यादि ॥ जातवेदसे । जातानि वेत्तीति जातवेदाः। गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं च' इति वचनात् कारकपूर्वात् वेत्तेरसुन् पूर्वपदप्रकृतिस्वरत्वं च । अरातीयतः । न विद्यते रातिर्दानमस्मिन्नित्यरातिः शत्रुः । तमिव अस्मानाचरति । 'उपमानादाचारे ' ( पा. सू. ३. १. १०) इति उपमानभूतात् कर्मणः क्यच् । क्यजन्तात् लटः शतृ । ‘ शतुरनुमः' इति ङसः उदात्तत्वम् । दहाति । ‘ दह भस्मीकरणे '। लेटि आडागमः । विद्यते लभ्यते इति वेदः धनम् । विद्लृ लाभे '। औणादिकः कर्मणि असुन् । पर्षत् । ‘ पॄ पालनपूरणयोः' । अस्मात् अन्तर्भावितण्यर्थात् लेटि अडागमः । ‘ सिब्बहुलं लेटि' इति सिप् । दुर्गाणि । दुःखेन गम्यते एष्विति ‘सुदुरोरधिकरणे ' इति गमेः डः ॥ ॥ ७ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+जातवेदसे जातानां वेदिवे नित्याविर्भूतज्ञानादिकाय वा देवाय सोमं सुनवाम तदाराधनाय अभिषुतसोमास्स्याम । अथ तस्य तद् वेदः ज्ञानादिकम् अस्माकम् अरातीयतः शत्रुत्वमिच्छतः जातान् निदहाति नियमेन दहतु । लेट्याडागमः । किञ्च - स देवः नो ऽस्मान् पर्षत् पालयतु । पृणातेर् लेटि सिप् । विश्वा विश्वानि दुर्गाणि स्थानानि संसारादीन्य् अतीत्य पालयतु । दुरितानि दुःखितानि च विश्वान्यतीत्य पालयतु नावा सिन्धुमिवातीत्य स्थितान् कृत्वा अस्मान् पालयतु । अग्निर् अग्रणीर् दुर्गारूपोऽग्निविशेषः प्रतिपाद्यते । तद्भावेन देवस्यैव वर्णना । भावनामयसोमयागाराधितः शत्रुत्वमस्माकमिच्छतो विषयादीन् नियमेन नाशयतु संसारनिमित्तविषयदुरितात्ययेनास्मान् पालयत्विति ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“We offer oblations of **Soma** to **Jātavedas**, may he consume the wealth of those who feel enmity against us; may he transport us over all difficulties; may **Agni** convey us, as in a boat over a river, across all wickedness.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+For Jātavedas we will press soma. He will burn down the property of the  hostile.  
+He will carry us across all difficult passages, across difficult transits, as if  with a boat across a river—Agni.
+</details>
+
+<details><summary>Griffith</summary>
+
+FOR Jatavedas let us press the Soma: may he consume the wealth of the malignant.  
+     May Agni carry us through all our troubles, through grief as in a boat across the river.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+Let us press Soma for Gâtavedas 1. May he burn down the property of the niggard 2. May he, Agni, bring us across all troubles, across all difficulties, as across a stream with a boat.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+We press Soma for Fire (Jatavedas); his knowledge burns those, who wish to be our enemies; he makes us across all the difficulties and sins like the crossing of the sea by a boat.
+</details>
+
+<details><summary>Geldner</summary>
+
+Dem Jatavedas wollen wir Soma pressen; er soll das Besitztum des Mißgünstigen niederbrennen. Er führe uns über alle Schwierigkeiten, Agni über die Fährlichkeiten wie mit dem Schiff über den Strom.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Dem Wesenkenner lasst uns Soma brauen, des Bösen Reichthum möge er verbrennen, Uns fahre Agni über alle Leiden durch die Gefahr, wie auf dem Schiff durch Stromflut.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Мы хотим выжать сому для Джатаведаса.  
+Да спалит он имущество враждебного!  
+Да перевезет он нас через все трудности,  
+Как на лодке через реку, Агни – через опасности!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निर्जातवेदाः
+- कश्यपो मरीचिपुत्रः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब एक ऋचावाले निन्नानवें सूक्त का आरम्भ है। उसमें ईश्वर कैसा है, यह वर्णन किया है ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  जिस (जातवेदसे) उत्पन्न हुए चराचर जगत् को जानने और प्राप्त होनेवाले वा उत्पन्न हुए सर्व पदार्थों में विद्यमान जगदीश्वर के लिये हम लोग (सोमम्) समस्त ऐश्वर्य्ययुक्त सांसारिक पदार्थों का (सुनवाम) निचोड़ करते हैं अर्थात् यथायोग्य सबको वर्त्तते हैं और जो (अरातीयतः) अधर्मियों के समान वर्त्ताव रखनेवाले दुष्ट जन के (वेदः) धन को (नि, दहाति) निरन्तर नष्ट करता है (सः) वह (अग्निः) विज्ञानस्वरूप जगदीश्वर जैसे मल्लाह (नावेव) नौका से (सिन्धुम्) नदी वा समुद्र के पार पहुँचाता है वैसे (नः) हम लोगों को (अति) अत्यन्त (दुर्गाणि) दुर्गति और (अतिदुरिता) अतीव दुःख देनेवाले (विश्वा) समस्त पापाचरणों के (पर्षत्) पार करता है, वही इस जगत् में खोजने के योग्य है ॥ १ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। जैसे मल्लाह कठिन बड़े समुद्रों में अत्यन्त विस्तारवाली नावों से मनुष्यादिकों को सुख से पार पहुँचाते हैं, वैसे ही अच्छे प्रकार उपासना किया हुआ जगदीश्वर दुःखरूपी बड़े भारी समुद्र में स्थित मनुष्यों को विज्ञानादि दानों से उसके पार पहुँचाता है, इसलिये उसकी उपासना करनेहारा ही मनुष्य शत्रुओं को हरा के उत्तम वीरता के आनन्द को प्राप्त हो सकता है, और का क्या सामर्थ्य है ॥ १ ॥इस सूक्त में ईश्वर के गुणों के वर्णन से इस सूक्त के अर्थ की पिछले सूक्त के अर्थ के साथ सङ्गति है, यह जानना चाहिये ॥यह ९९ निन्नानवाँ सूक्त और ७ सातवाँ वर्ग समाप्त हुआ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  यस्मै जातवेदसे जगदीश्वराय वयं सोमं सुनवाम यश्चारातीयतो वेदो निदहाति सोऽग्निर्नावेव सिन्धुं नोऽतिदुर्गाण्यतिदुरिता विश्वा पर्षत्सोऽत्रान्वेषणीयः ॥ १ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अथेश्वरः कीदृश इत्युपदिश्यते ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (जातवेदसे) यो जातं सर्वं वेत्ति विन्दति जातेषु विद्यमानोऽस्ति तस्मै (सुनवाम) पूजयाम (सोमम्) सकलैश्वर्य्यमुत्पन्नं संसारस्थं पदार्थसमूहम् (अरातीयतः) शत्रोरिवाचरणशीलस्य (नि) निश्चयार्थे (दहाति) दहति (वेदः) धनम् (सः) (नः) अस्मान् (पर्षत्) संतारयति (अति) (दुर्गाणि) दुःखेन गन्तुं योग्यानि स्थानानि (विश्वा) सर्वाणि (नावेव) यथा नौका तथा (सिन्धुम्) समुद्रम् (दुरिता) दुःखेन नेतुं योग्यानि (अति) (अग्निः) विज्ञानस्वरूपो जगदीश्वरः। इमं मन्त्रं यास्काऽऽचार्य्य एवं समाचष्टे। जातवेदस इति जातमिदं सर्वं सचराचरं स्थित्युत्पत्तिप्रलयन्यायेनास्थाय सुनवाम सोममिति प्रसवेनाभिषवाय सोमं राजानममृतमराती यतो यज्ञार्थमिति स्मो निश्चये निदहाति दहति भस्मीकरोति सोमो दददित्यर्थः। स नः पर्षदति दुर्गाणि दुर्गमनानि स्थानानि नावेव सिन्धुं यथा कश्चित्कर्णधारो नावेव सिन्धोः स्यन्दनान्नदीं जलदुर्गां महाकूलां तारयति दुरितात्यग्निरिति दुरितानि तारयति । निरु० १४। ३३। ॥ १ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्रोपमालङ्कारः। यथा कर्णधाराः कठिनमहासमुद्रेषु महानौकाभिर्मनुष्यादीन् सुखेन पारं नयन्ति तथैव सूपासितो जगदीश्वरो दुःखरूपे महासमुद्रे स्थितान्मनुष्यान् विज्ञानादिदानैस्तत्पारं नयति परमेश्वरोपासक एव मनुष्यः शत्रुपराभवं कृत्वा परमानन्दं प्राप्तुं शक्नोति किं सामर्थ्यमन्यस्य ॥ १ ॥।अत्रेश्वरगुणवर्णनादेतदर्थस्य पूर्वसूक्तार्थेन सह सङ्गतिरस्तीति वेदितव्यम् ॥इत्येकोनशततमं सूक्तं सप्तमो वर्गश्च समाप्तः ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - विषयः</summary>
+
+या सूक्तात ईश्वराच्या गुणांच्या वर्णनाने या सूक्ताच्या अर्थाची मागच्या सूक्ताच्या अर्थाबरोबर संगती आहे, हे जाणले पाहिजे. ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जसे नाविक मोठ्या गहन समुद्रात विस्तीर्ण नावांद्वारे माणसे इत्यादींना सुखाने पलीकडे पोहोचवितात, तसा चांगल्या प्रकारे उपासना केलेला जगदीश्वर दुःखरूपी गहन अशा मोठ्या समुद्रात स्थित माणसांना विज्ञान इत्यादी दानांनी त्याच्या पलीकडे पोहोचवितो. त्यासाठी त्याची उपासना करणाराच शत्रूंचा पराभव करून उत्तम वीरता दाखवून आनंद प्राप्त करू शकतो. इतर कुणाचे असे सामर्थ्य असू शकते काय?
+</details>
+</details>
+
+</div>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+तामिति ॥
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/04_tAm_agnivarNAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -43,6 +402,11 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/04_tAm_agnivarNAm.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+I obtain the shelter of the goddess Durga, the fire-coloured one, shining by the austerity, brilliant, standing in the fruits of the works; O good-crossing one, salutation to you, who make across.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ताम् अ॒ग्निव॑र्णां॒ तप॑सा ज्वल॒न्तीं  
@@ -50,11 +414,16 @@ unicode_script = "devanagari"
 दु॒र्गां दे॒वीँ शर॑णम् अ॒हं प्रप॑द्ये  
 सु॒तर॑सि तरसे॒ नमः॑॥
 </details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ताम् अग्निवर्णां ज्योतीरूपां तपसा तपस्सामर्थ्येन ज्वलन्तीं दीप्यमानां वैरोचनीं विरोचनस्य विविधरोचनस्य विविधमाविर्भवतः देवस्य स्वभूतां परप्रकृतिं कर्मफलेषु कर्मसु तत्फलेषु च जुष्टां सामर्थ्याधायकत्वेन स्थितां दुर्गां देवीं देवनवतीम् अहं शरणं प्रपद्ये हे देवि! तरसे! तरस्विनि! तरणकुशले । अर्शआदित्वादच् । त्वमेव सुतरसि सुष्ठु तारयसि संसारगर्तात् । अन्तर्भावितण्यर्थस्तरतिर्द्रष्टव्यस् तस्यै तुभ्यं नमः ॥
+</details>
 </details>
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/02_agne_tvaM.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/02_agne_tvaM.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -372,6 +741,11 @@ Be a broad, thick, wide fortress for us,
 Health and wealth for our children and descendants. 
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+O fire, worth praising, make us across all the difficulties by protections; may the village be vast, much broad for us; be wealful for our sons and grandsons.
+</details>
+
 <details><summary>Geldner</summary>
 
 Agni, geleit uns aufs neue glücklich über alle Fährlichkeiten! Sei du uns eine breite, umfangreiche, weite Burg, sei für den leiblichen Samen zum Wohl und Heil!
@@ -441,7 +815,12 @@ O führ aufs neue Agni uns hinüber durch deinen Segen über alle Leiden; Sei ei
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/09_vishvAni_no.md">
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अग्ने त्वमिति व्याख्याता 'उभा वां' इत्यत्र । अत्र तु परवस्तुपरतया व्याख्येया ॥
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/09_vishvAni_no.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -697,6 +1076,11 @@ _________
 हे **जातवेदः** **नः** अस्माकं **दुर्गहा** दुःखेन गाह्यानि दुःखेन भोग्यानि **विश्वानि** **दुरितानि** **अति** **पर्षि** अतिपारय । **सिन्धुं** **न** **नावा** नदीं नाविको यथा तद्वत् । हे **अग्ने** **अत्रिवत्** अत्रेर्यथा तथा अस्माकं **नमसा** स्तोत्रेण **गृणानः** स्तूयमानः सन् **अस्माकं** **तनूनाम्** **अविता** रक्षकः **बोधि** बुध्यस्व ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विश्वानि न इति 'जुष्टो दमूनाः' इत्यत्र व्याख्याता ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -720,6 +1104,11 @@ Over all woes and dangers, Jatavedas, bear us as in a boat across a river.
 <details><summary>Oldenberg</summary>
 
 Bring us across all difficulties and dangers,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O fire, destroyer of the sorrows, you make us across all the sins as one crosses the sea by the boat; O fire, like Atri, become the waking protector of our bodies uttering (protective Mantras) by mind.
 </details>
 
 <details><summary>Geldner</summary>
@@ -791,7 +1180,12 @@ O Wesenkenner fahr uns über alle Gefahr und Noth wie übers Meer mit Schiffen; 
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/09_pRtanAjitaM_sahamAnam.md">
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+पृतनाजितमिति ॥
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/09_pRtanAjitaM_sahamAnam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -807,6 +1201,11 @@ O Wesenkenner fahr uns über alle Gefahr und Noth wie übers Meer mit Schiffen; 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/09_pRtanAjitaM_sahamAnam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+We sacrifice from the high place of seat for the fire, the winner of the armies, the toleratory one and the fierceful one; that fire, excusing our sins makes us cross all the difficulties and the sins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृ॒त॒ना॒जितँ॒ सह॑मानम् उ॒ग्रम्  
@@ -814,12 +1213,22 @@ O Wesenkenner fahr uns über alle Gefahr und Noth wie übers Meer mit Schiffen; 
 स नः॑ पर्ष॒द् अति॑ दु॒र्गाणि॒ विश्वा॒  
 क्षाम॑द् दे॒वो अति॑ दुरि॒तात्य् अ॒ग्निः॥
 </details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+पृतनानां तत्त्वसङ्घातानां जेतारम् अग्निम् अग्रण्यं सर्वस्य उग्रम् उद्गूर्णं सर्वदा हुवेम आह्वयाम आह्वानेन वशीकुर्मः । ह्वयतेः 'बहुलं छन्दसि' इति सम्प्रसारणम् । परमात् सधस्थात् प्रकृष्टं सहस्थानं परमव्योमात्मकम् अभिव्याप्य तत्र स्थिततया ध्यायाम इति 'सधमादस्थयोः' इति सधादेशः । स चास्माभिराहूतो ऽग्रणीर् देवः विश्वानि दुर्गाणि विश्वानि च दुरितानि विश्वं चराचरं क्षामत् क्षयशीलं वस्त्व् अतीत्य पर्षत् पालयतु पूरयतु वा । क्षै क्षये, क्विबन्तान्मतुप् मनिन्वा । तकारोपजनश्छान्दसः ॥
+</details>
 </details>
 
 </div>
 
 <details open><summary>आन्ध्रपाठे ऽधिकाः</summary>
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/12_pratnoShi_kam.md">
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+प्रत्नोषीति ॥
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/12_pratnoShi_kam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -834,17 +1243,27 @@ O Wesenkenner fahr uns über alle Gefahr und Noth wie übers Meer mit Schiffen; 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/12_pratnoShi_kam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>त्रिभुवनः</summary>
+
+You are worth worshipping in the sacrifices, you extend the comfort, you sit as donator, sacrificer and one worth praising; make your body pleased (by our oblations); and grant us good fortune all round.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒त्नोषि॑ क॒म् ईड्यो॑ अध्व॒रेषु॑  
 स॒नाच् च॒ होता॒ नव्य॑श् च॒ सत्सि॑।  
 स्वां चा॑ग्ने त॒नुवं॑ पि॒प्रय॑स्वा॒स्मभ्यं॑ च॒ सौभ॑ग॒म् आय॑जस्व॥
 </details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे अग्ने! अग्रणीः! अध्वरेषु यज्ञेषु के सुखं स्वर्गात्मकं त्वं प्रत्नोषि प्रतनोषि ‘तनिपत्योश्छन्दसि' इत्य् उपधालोपः । ईड्यः सर्वेषु स्तुत्यः सनात् पुरातनश्च होता नव्यः नूतनश्च होता दैवो मानुषश्च तदुभयं भूत्वा सत्सि सीदस्य् अध्वराणां कर्ता च त्वमेवेति सदेर्लेटि 'बहुलं छन्दसि' इति शपो लुक् । स त्वम् आत्मीयां तनुं प्रपञ्चात्मिकां पिप्रियस्व तर्पयस्व । यद्वा - आत्मीयतनुस्थानीयविज्ञानात्मनः प्रीणय । प्रीङ् तर्पणे । शपः श्लुः । अस्मभ्यं च सौभगं सौभाग्यं देहशोभां त्वदीयतनूचितां निवृत्तसमस्तदुःखरूपताम् आयजस्व आभिमुख्येन देहि च । 'सुभगं मन्त्रे' इत्युद्गात्रादिषु पाठादञ् । 'चवायोगे प्रथमा' इति प्रथमाख्यातस्य निघाताभावः ॥
+</details>
 </details>
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/14_gobhir_juShTam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/14_gobhir_juShTam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 

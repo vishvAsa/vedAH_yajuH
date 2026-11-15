@@ -15,9 +15,14 @@ title = "०० भद्रं-कर्णेभिः"
 भद्रं कर्णेभिरिति द्वाभ्यां शान्तिं कृत्वा ताभ्यामुपदधाति" इति । (हस्तग्राभं) हस्तग्राहं हस्तेन गृहीत्वा जलमित्यर्थः । तत्र शान्त्यर्थां प्रथमामृचमाह -  हे देवा इन्द्रादयो भद्रं कल्याणं श्रुतिस्मृतिवाक्यरूपं कर्णेभिराचार्यान्तेवासिरूपाणामृत्विग्यजमानरूपाणां वाऽस्माकं बहूनां कर्णैः युष्मत्प्रसादात्सर्वदा श्रोतुं समर्थाः स्याम । श्रुत्वा च यजत्रा यागक्षमा वयं भद्रं कल्याणं यज्ञादिकं कर्माक्षभिश्चक्षुरिन्द्रियैः साक्षात्पश्येम । स्थिरैरविकलैरङ्गैश्चक्षुरादिभिर्हस्तादिभिश्चावयवैस्तनूभिस्तथाविधशरीरैर्युक्ता वयं तुष्टुवांसो युष्मदीयां स्तुतिं कुर्वाणा यद्यस्मात्कारणाद्देवहितं देवेन प्रजापतिना समर्पितं सर्वमप्यायुर्व्यशेम विशेषेण प्राप्नवाम । तस्मादपमृत्योरभावाच्चिरं भद्रं शृणुयामेति पूर्वत्रान्वयः ।
 </details>
 
+<details><summary>त्रिभुवनः - अवतारिका</summary>
+
+Collection of the Arunaketuka Fire has been discussed in this Prapathaka; propitiation of the Uttara Vedi (Northern altar) being introduced in Anuvaka I.
+</details>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
-Collection of the Arunaketuka Fire has been discussed in this Prapathaka; propitiation of the Uttara Vedi (Northern altar) being introduced in Anuvaka I. Mantras for peace and propitiation.
+Mantras for peace and propitiation.
 
 *(Mantras 1–2)* Mantras to be uttered while placing the two imaginary watery bricks in the Uttara Vedi.
 </details>

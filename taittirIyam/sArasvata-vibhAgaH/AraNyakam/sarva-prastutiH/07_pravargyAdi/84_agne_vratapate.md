@@ -7,6 +7,11 @@ title = "८४ अग्ने व्रतपते"
 अथ देवता उपतिष्ठते - अग्ने व्रतपत इति ॥
 </details>
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 4)* Invitation of the gods.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने व्रतपते!
@@ -14,7 +19,7 @@ title = "८४ अग्ने व्रतपते"
 
 <details><summary>त्रिभुवनः</summary>
 
-4\. O Fire, the lord of the rules, I will follow the rules; (3) may I do so; may that be increased.
+4\. O Fire, the lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -39,6 +44,11 @@ title = "८४ अग्ने व्रतपते"
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -81,6 +91,11 @@ O wind, the lord of the rules,
 
 <div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
@@ -117,6 +132,11 @@ O Āditya, the lord of the rules,
 
 <div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
@@ -132,9 +152,7 @@ O Āditya, the lord of the rules,
 
 <details><summary>त्रिभुवनः</summary>
 
-O Vratapati (lord of the rules), the ruling lord of the rules, I will follow the rules; may I do so; may that be increased.[P205_r4]
-
-[P205_r4]: *(Mantra 4)* Invitation of the gods.
+O Vratapati (lord of the rules), the ruling lord of the rules,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -154,6 +172,11 @@ O Vratapati (lord of the rules), the ruling lord of the rules, I will follow the
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details><summary>त्रिभुवनः</summary>
+
+I will follow the rules; may I do so; may that be increased.
+</details>
 
 <details><summary>मूलम्</summary>
 

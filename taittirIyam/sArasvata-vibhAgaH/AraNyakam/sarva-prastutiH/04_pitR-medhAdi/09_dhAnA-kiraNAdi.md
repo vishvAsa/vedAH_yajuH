@@ -553,9 +553,14 @@ Go to the earth, go to the mid-region, go to the heaven, go to the quarters, go 
 जघनेन चिति कर्षादि समानमास्नानात् ।
 </details>
 
+<details><summary>त्रिभुवनः - अवतारिका</summary>
+
+Last Mantras of the Anuvaka III of this Prapathaka.
+</details>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
-Initial words of the Mantras for digging holes near the burning ground. Last Mantras of the Anuvaka III of this Prapathaka.
+Initial words of the Mantras for digging holes near the burning ground.
 </details>
 
 <details><summary>मूलम् - प्रतीकानि</summary>

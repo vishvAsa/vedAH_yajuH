@@ -2,9 +2,14 @@
 title = "८३ अ॒न्तरि॑क्षँ॒ स॒मित्"
 +++
 
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 2)* Offering of Udumbara wood.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्यौ᳓स्समि᳓त् ।  
+द्यौ᳓स्समि᳓त् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -14,7 +19,7 @@ The heaven is the fuel;
 
 <details><summary>मूलम्</summary>
 
-द्यौस्स॒मित् ।  
+द्यौस्स॒मित् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -78,10 +83,9 @@ I burned that;
 
 <details><summary>त्रिभुवनः</summary>
 
-may that, being burnt, make me shine with life, brilliance[P205_4], splendour, prosperity, fame, brilliance of sacred knowledge and food etc., Hail![P205_r2]
+may that, being burnt, make me shine with life, brilliance[P205_4], splendour, prosperity, fame, brilliance of sacred knowledge and food etc., Hail!
 
 [P205_4]: Brilliance: shining light of sacred knowledge.
-[P205_r2]: *(Mantra 2)* Offering of Udumbara wood.
 </details>
 
 <details><summary>मूलम्</summary>
