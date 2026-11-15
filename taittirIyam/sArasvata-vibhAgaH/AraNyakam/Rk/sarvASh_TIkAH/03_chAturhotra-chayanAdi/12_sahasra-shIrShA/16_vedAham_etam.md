@@ -2,11 +2,6 @@
 title = "16 वेदा॒हम् ए॒तं"
 +++
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-वेदेत्यादयः तिस्रस्त्रिष्टुभः ॥
-</details>
-
 <details><summary>त्रिभुवनः</summary>
 
 Whom the disposer made famous, whom Indra, knowing all the quarters, made famous; by knowing Him one becomes immortal here; there is no other way for going to the (Supreme).
