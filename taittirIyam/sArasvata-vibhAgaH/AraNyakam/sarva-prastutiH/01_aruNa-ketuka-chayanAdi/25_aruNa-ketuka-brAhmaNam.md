@@ -341,10 +341,10 @@ Agni is five-fold;
 पाङ्क्तो॒ऽग्निः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-या᳓वानेवा᳓ग्निः᳓ ।  
-त᳓ञ्चिनुते ।
+यावानेवाग्निः ।  
+तञ्चिनुते ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>

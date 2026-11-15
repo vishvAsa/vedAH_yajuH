@@ -111,12 +111,12 @@ In this Anuvaka also the Mantras for placing bricks on the altar are given.
 अथ चतुर्थी - **ऋतुर् ऋतुनेति ॥** अत्र ऋतूनां निर्वहणक्रमं दर्शयति -
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ऋतु᳓रृतुनानुद्य᳓मानः ।  
-वि᳓ननादाभि᳓धावः ।  
-ष᳓ष्टि᳓श्च᳓ त्रिँ᳓शका वल्गाः᳓ ।  
-शुक्ल᳓कृष्णौ च षा᳓ष्टिकौ ।
+ऋतुरृतुनानुद्यमानः ।  
+विननादाभिधावः ।  
+षष्टिश्च त्रिँशका वल्गाः ।  
+शुक्लकृष्णौ च षाष्टिकौ ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -142,12 +142,12 @@ In this Anuvaka also the Mantras for placing bricks on the altar are given.
 एवं सर्वर्तुप्रवृत्तिसाधारणो विधिर्दर्शितः । इदानीम् ऋतूनां प्रथमं वसन्तमधिकृत्योच्यते - **सारागवस्त्रैरिति पञ्चम्या ॥**
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (स्वराः पूर्याः)</summary>
 
-सारागवस्त्रै᳓र्जर᳓दक्षः ।  
-वसन्तो᳓ व᳓सुभिस्सह᳓ ।  
-सव्ँ᳓व᳓त्स᳓रस्य सवि᳓तुः᳓ ।  
-प्रैषकृ᳓त्प्रथम᳓स्स्मृतः ।
+सारागवस्त्रैर्जरदक्षः ।  
+वसन्तो वसुभिस्सह ।  
+सव्ँवत्सरस्य सवितुः ।  
+प्रैषकृत्प्रथमस्स्मृतः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -235,12 +235,12 @@ In this Anuvaka also the Mantras for placing bricks on the altar are given.
 अथाष्टमी - **शुक्लवासा इति** ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (स्वराः पूर्याः)</summary>
 
-शु᳓क्ल᳓वा᳓सा रुद्रग᳓णः᳓ ।  
-ग्रीष्मे᳓णावर्तते᳓ सह ।  
-निज᳓हन्पृ᳓थिवीँ सर्वा᳓म् । [10]
-ज्योति᳓षा (ऽ)प्रतिख्ये᳓न सः ।
+शुक्लवासा रुद्रगणः ।  
+ग्रीष्मेणावर्तते सह ।  
+निजहन्पृथिवीँ सर्वाम् । [10]
+ज्योतिषा (ऽ)प्रतिख्येन सः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -268,12 +268,12 @@ In this Anuvaka also the Mantras for placing bricks on the altar are given.
 अथ नवमी - **विश्वरूपाणीति** ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (स्वराः पूर्याः)</summary>
 
-विश्वरूपा᳓णि वासाँसि᳓ ।  
-आदित्या᳓नान्निबो᳓धत ।  
-सव्ँ᳓व᳓त्स᳓री᳓णङ्कर्मफ᳓ल᳓म् ।  
-व᳓र्षा᳓भि᳓र्ददताँ स᳓ह᳓ ।
+विश्वरूपाणि वासाँसि ।  
+आदित्यानान्निबोधत ।  
+सव्ँवत्सरीणङ्कर्मफलम् ।  
+वर्षाभिर्ददताँ सह ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -299,12 +299,12 @@ In this Anuvaka also the Mantras for placing bricks on the altar are given.
 अथ दशमी - **अदुःख इति** ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓दुः᳓खो दुः᳓ख᳓चक्षुरिव᳓ ।  
-त᳓द्मा(ऽ)पीत इव दृ᳓श्यते ।
-शी᳓ते᳓नाव्य᳓थन्निव᳓ ।  
-रुरु᳓दक्ष इव दृ᳓श्यते ।
+अदुःखो दुःखचक्षुरिव ।  
+तद्मा(ऽ)पीत इव दृश्यते ।
+शीतेनाव्यथन्निव ।  
+रुरुदक्ष इव दृश्यते ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -359,10 +359,10 @@ In this Anuvaka also the Mantras for placing bricks on the altar are given.
 उत्तरं ब्राह्मणम् - **या वै प्रजा इति**॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-या᳓ वै᳓ प्र᳓जा᳓ भ्रँश्यन्ते᳓ ।
-सव्ँ᳓व᳓त्स᳓रा᳓त्ता᳓ भ्रँश्यन्ते᳓ ।
+या वै प्रजा भ्रँश्यन्ते ।
+सव्ँवत्सरात्ता भ्रँश्यन्ते ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -386,11 +386,11 @@ Whatever beings fell (in this season on account of not growing food) they fell f
 A Brahmana-passage showing the advantage of the above.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-याः प्र᳓तितिष्ठन्ति᳓ ।
+याः प्रतितिष्ठन्ति ।
 सव्ँवत्सरे ताः प्रतितिष्ठन्ति ।
-वर्षा᳓भ्य इत्यर्थः᳓ ॥ [11]
+वर्षाभ्य इत्यर्थः ॥ [11]
 </details>
 
 <details><summary>त्रिभुवनः</summary>

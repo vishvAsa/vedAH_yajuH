@@ -90,9 +90,9 @@ may Tvaṣṭr, with the forms (rūpa), put you above;
 त्वष्टा॑ वो रू॒पैरु॒परि॑ष्टा॒दुप॑दधताम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-सं᳓ज्ञा᳓नव्ँ᳓वः᳓ पश्चादिति᳓ ।
+संज्ञानव्ँवः पश्चादिति ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -140,9 +140,9 @@ the wind, in the mid-region,
 वा॒युर॒न्तरि॑क्षे ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-सू᳓र्यो दिवि᳓ ।
+सूर्यो दिवि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>

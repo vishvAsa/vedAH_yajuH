@@ -104,7 +104,7 @@ I obtain the gods, I obtain the town of the gods
 
 <details><summary>मूलम्</summary>
 
-दे॒वान् प्रप॑द्ये, देवपु॒रं प्रप॑द्ये॒।
+दे॒वान् प्रप॑द्ये, देवपु॒रं प्रप॑द्ये।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

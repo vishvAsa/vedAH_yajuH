@@ -265,7 +265,7 @@ by the oblations of ghee, when he reads the Yajuses;
 
 <details><summary>मूलम्</summary>
 
-यद्यजूँ॑षि घृ॒ताहु॑तिभि॒र्,
+यद्यजूँ॑षि घृ॒ताहु॑तिभिर्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -280,7 +280,7 @@ by the oblations of Soma, when he reads the Samans;
 
 <details><summary>मूलम्</summary>
 
-यत् सामा॑नि॒ सोमा॑हुतिभि॒र्,
+यत् सामा॑नि॒ सोमा॑हुतिभिर्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -295,7 +295,7 @@ by the oblation of the honey, when he reads the Atharvangiras (-Mantras);
 
 <details><summary>मूलम्</summary>
 
-यदथ॑र्वाङ्गि॒रसो॒ मध्वा॑हुतिभि॒र्,
+यदथ॑र्वाङ्गि॒रसो॒ मध्वा॑हुतिभिर्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

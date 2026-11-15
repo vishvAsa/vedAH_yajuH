@@ -14,10 +14,10 @@ Mantras for making a homa of eleven oblations for purification (From LI to LXI).
 अथ सन्न्यासविषया विरजाहोमा एकपञ्चाशप्रभृतय एकादशानुवाकाः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 प्राणापान-व्यानोदान-समाना मे **शुद्ध्यन्ताञ्**,  
-ज्यो᳓तिर् अहव्ँ᳓ विर᳓जा विपाप्मा᳓ **भूयासँ** स्वा᳓हा । (66)
+ज्योतिर् अहव्ँ विरजा विपाप्मा **भूयासँ** स्वाहा । (66)
 </details>
 
 <details><summary>आन्ध्र-पाठ-परिशिष्ट-भाष्यम्</summary>
@@ -43,10 +43,10 @@ May my Prana, Apana, Vyana, Udana and Samana breaths be purified, may I become t
 
 ## 52
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 वाङ्-मनश्-चक्षुः-श्रोत्र-जिह्वा-घ्राण-रेतो-बुद्ध्य्-आकूति-सङ्कल्पा मे **शुद्ध्यन्ताञ्**,  
-ज्यो᳓तिर् अहव्ँ᳓ विर᳓जा विपाप्मा᳓ **भूयासँ** स्वा᳓हा । (67)
+ज्योतिर् अहव्ँ विरजा विपाप्मा **भूयासँ** स्वाहा । (67)
 </details>
 
 <details><summary>आन्ध्र-पाठ-परिशिष्ट-भाष्यम्</summary>
@@ -77,10 +77,10 @@ May my speech, mind, eye, ear, tongue, nose, semen, wisdom, purpose and will be 
 शिरःप्रभृतिपाय्वन्तकर्मसाधनदशकशुद्धिस् त्रिपञ्चाशे ॥ प्राण्यङ्गत्वेऽपि व्यत्ययेनैकवद्भावाभावः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 शिरः-पाणि-पाद-पार्श्व-पृष्ठोदर-जङ्घ-शिश्ञोपस्थ-पायवो मे **शुद्ध्यन्ताञ्**  
-ज्यो᳓तिर् अहव्ँ᳓ विर᳓जा विपाप्मा᳓ **भूयासँ** स्वा᳓हा । 
+ज्योतिर् अहव्ँ विरजा विपाप्मा **भूयासँ** स्वाहा । 
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -111,10 +111,10 @@ May my head, hand, foot, side, back, thigh, generating organ, urine-organ and th
 
 ## 54
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 त्वक्-चर्म-माँस-रुधिर-मेदो-ऽस्थि-मज्जा मे **शुद्ध्यन्ताञ्**  
-ज्यो᳓तिर् अहव्ँ᳓ विर᳓जा विपाप्मा᳓ **भूयासँ** स्वा᳓हा । 
+ज्योतिर् अहव्ँ विरजा विपाप्मा **भूयासँ** स्वाहा । 
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -149,10 +149,10 @@ May my skin, leather, flesh, blood, feet, marrow, sinew and bone be purified; ma
 शब्दादिगन्धान्तपञ्चविषयशुद्धिः पञ्चपञ्चाशे ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 शब्द-स्पर्श-रूप-रस-गन्धा मे **शुद्ध्यन्ताञ्**  
-ज्यो᳓तिर् अहव्ँ᳓ विर᳓जा विपाप्मा᳓ **भूयासँ** स्वा᳓हा । 
+ज्योतिर् अहव्ँ विरजा विपाप्मा **भूयासँ** स्वाहा । 
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -182,10 +182,10 @@ May my word, touch, form, taste and perfume be purified; may I become the light,
 पृथिव्याद्याकाशान्तपञ्चभूतशुद्धिः षट्पञ्चाशे ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 पृथिव्य्-अप्-तेजो-वाय्व्-आकाशा मे **शुद्ध्यन्ताञ्**  
-ज्यो᳓तिर् अहव्ँ᳓ विर᳓जा विपाप्मा᳓ **भूयासँ** स्वा᳓हा । 
+ज्योतिर् अहव्ँ विरजा विपाप्मा **भूयासँ** स्वाहा । 
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -210,10 +210,10 @@ May my earth, water, light, wind and ether be purified; may I become the light, 
 
 ## 57
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 अन्नमय-प्राणमय-मनोमय-विज्ञानमयानन्दमया मे **शुद्ध्यन्ताञ्**  
-ज्यो᳓तिर् अहव्ँ᳓ विर᳓जा विपाप्मा᳓ **भूयासँ** स्वा᳓हा । 
+ज्योतिर् अहव्ँ विरजा विपाप्मा **भूयासँ** स्वाहा । 
 </details>
 
 <details><summary>सायण-टीका</summary>

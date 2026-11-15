@@ -183,9 +183,9 @@ Mantras for placing bricks etc.
 *(Kaṇḍikās 7–8)* Mantras for placing bricks in the names of the eight sons mentioned before.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ता᳓न᳓नु᳓क्रमिष्यामः᳓ ।
+ताननुक्रमिष्यामः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -203,12 +203,12 @@ Mantras for placing bricks etc.
 तान् इदानीम् अदितेः पुत्रान् अनुक्रमिष्यामो ऽनुक्रमेण कीर्तयामः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-मित्र᳓श्च व᳓रुणश्च ।  
-धाता᳓ चार्यमा᳓ च ।  
-अँ᳓शश्च भ᳓गश्च ।  
-इ᳓न्द्र᳓श्च᳓ वि᳓व᳓स्वाँश्चेत्येते᳓ ।
+मित्रश्च वरुणश्च ।  
+धाता चार्यमा च ।  
+अँशश्च भगश्च ।  
+इन्द्रश्च विवस्वाँश्चेत्येते ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>

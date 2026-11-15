@@ -237,9 +237,9 @@ Om. Peace, peace, peace. (1)
 </div>
 
 ## शिक्षा
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-शी᳓क्षाव्ँ᳓ व्याख्यास्यामः᳓ ।
+शीक्षाव्ँ व्याख्यास्यामः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -257,9 +257,9 @@ Om. We will explain orthoepy:
 अथाध्ययनस्य वर्णापचारादिदुष्टस्याभिमतार्थसाधकत्वाभावस्य 'मन्त्रो हीनस्स्वरतो वर्णतो वा' इत्यादिषु प्रसिद्धत्वाद् दोषो यत्नेन परिहार्य इति वर्णाद्यनुशासनं शिक्षाशास्त्रम् अवसरे अवधानार्थं स्मारयति - शीक्षामियादि ॥ ऐकमत्यप्रकार आरुणकेतुकवदत्रापि द्रष्टव्यः । शिक्ष्यन्ते ज्ञानेनोपादीयन्ते वर्णादयोऽनयेति शिक्षा शिक्षार्थसङ्ग्रहाध्यायः । शिक्ष विद्योपादाने, 'गुरोश्च हलः' इत्य् अकारप्रत्ययः ; छान्दसं दीर्घत्वम् । तामिमां व्याख्यास्यामः विशेषेण मर्यादया च प्रब्रूमः । यद्वा - शिक्षाख्यं पञ्चमं वेदाङ्गं विशेषेण ब्रह्मविद्याध्ययनसाधनत्वेनाचक्ष्महे । वर्णादयो यथावद्यत्नेन ज्ञातव्या इत्येष शिक्षाध्यायार्थस्सङ्ग्रहेणास्माभिरुक्तः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-व᳓र्णः स्व᳓रः᳓ ।
+वर्णः स्वरः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -284,9 +284,9 @@ sound (varṇa), accent (svara),
 इति । स्वरा उदात्तादयो वर्णधर्माः स्थानविशेषनिबन्धना ध्वनिभेदाश् चत्वारः । सप्तेत्यन्ये उदात्तानुदात्तस्वरितप्रचयसन्नतरोच्चतरैक श्रुतयः । अथोदात्तादियोगविशेषनिबन्धना अन्ये सप्त स्वराः क्षैप्रनित्यप्रातिहताभिनिहतप्रश्लिष्टपादवृत्ततैरोव्यञ्जनानि । अथ क्षैप्रादियोगभेदनिबन्धनास्त्रयस्स्वरा दृढतरो मृदुतरोऽल्पतरश्चेति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-मा᳓त्रा ब᳓ल᳓म् ।
+मात्रा बलम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -313,9 +313,9 @@ quantity (mātrā), force (bala),
 नादश्वासघोषात्मकानि च अनुप्रदानानि बलनिबन्धनाः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-सा᳓म सन्तानः᳓ ।
+साम सन्तानः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -341,9 +341,9 @@ modulation (sāma), combination (saṃhitā).
 इति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-इ᳓त्यु᳓क्त᳓श् शीक्षाद्ध्यायः᳓ ॥ (2)
+इत्युक्तश् शीक्षाद्ध्यायः ॥ (2)
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -375,9 +375,9 @@ Prapathaka V according to Commentator Bhaṭṭa Bhāskara. He gives all the thr
 *(Mantra)* Prayer for mutual brilliance and retention of sacred knowledge.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-सह᳓ नौ य᳓शः᳓ ।
+सह नौ यशः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -397,9 +397,9 @@ Prapathaka V according to Commentator Bhaṭṭa Bhāskara. He gives all the thr
 सह नौ यश इति मन्त्राश्शिष्याचार्ययोः शान्त्यर्थः । नौ आवयोः सह यशश्च ब्रह्मवर्चसं चास्त्व् अविगुणस्वाध्यायानुष्ठानेन शमदमादिलाभेन महाफलसम्पत्त्या च ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-सह᳓ नौ᳓ ब्रह्मवर्च᳓स᳓म् ।
+सह नौ ब्रह्मवर्चसम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -412,10 +412,10 @@ Prapathaka V according to Commentator Bhaṭṭa Bhāskara. He gives all the thr
 स॒ह नौ ब्र॑ह्मव॒र्चसम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓था᳓त᳓स् सँ᳓हि᳓ता᳓या᳓ उ᳓प᳓नि᳓ष᳓दव्ँ᳓ व्याख्यास्यामः᳓,  
-प᳓ञ्च᳓स्व् अ᳓धि᳓करणेषु᳓ - अ᳓धि᳓लो᳓क᳓म् अ᳓धि᳓ज्यौ᳓ति᳓ष᳓म् अ᳓धि᳓वि᳓द्य᳓म् अ᳓धि᳓प्र᳓जम् अद्ध्यात्म᳓म् ।
+अथातस् सँहिताया उपनिषदव्ँ व्याख्यास्यामः,  
+पञ्चस्व् अधिकरणेषु - अधिलोकम् अधिज्यौतिषम् अधिविद्यम् अधिप्रजम् अद्ध्यात्मम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -436,9 +436,9 @@ Now next, we will explain the mystic meaning (upaniṣad) of combination (saṃh
 सन्तानस्वरूपभावना संहिता । तस्याः संहितायाः प्रतिपादिकाम् उपनिषदं व्याख्यास्यामः विशेषेण आचक्ष्महे । परसिद्धिसमीपे निषादतीत्युपनिषत् । 'सत्सूद्विष' इतिक्विप् । पञ्चस्वधिकरणेष्व् अधिष्ठानेषु । भावनाया अधिष्ठानानि पञ्च लोकादयः । तेषु सन्धीयमानेषु वर्णसंहिता भाव्यते । तत्रैकैव अधिकरणभेदेन पञ्चधा भिन्नत्वात् पञ्च संहिताः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ता᳓ म᳓हा᳓सँ᳓हि᳓ता᳓ इत्य् आचक्ष᳓ते᳓ ।
+ता महासँहिता इत्य् आचक्षते ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -456,11 +456,11 @@ These are the great combinations, they say.
 प्रशस्तत्वान् महासंहिताः । 'सन्महत्' इति समासः । अधिलोकमिति । 'अव्ययं विभक्ति' इत्यादिना विभक्त्यर्थे अव्ययीभावः । एवं सर्वत्र । लोकादिष्वित्यर्थः । तेन पञ्चस्वधिकरणेष्व् इत्यनेन सामानाधिकरण्यम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓थाधिलोक᳓म् ।  
-पृ᳓थि᳓वी᳓ पूर्वरूप᳓म् । द्यौ᳓रु᳓त्तररूप᳓म् । आ᳓काशस्सन्धिः᳓ । वा᳓युस्सन्धान᳓म् ।  
-इ᳓त्यधिलोक᳓म् ।
+अथाधिलोकम् ।  
+पृथिवी पूर्वरूपम् । द्यौरुत्तररूपम् । आकाशस्सन्धिः । वायुस्सन्धानम् ।  
+इत्यधिलोकम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -480,11 +480,11 @@ Now, concerning the worlds: earth is the prior form, heaven, the latter form, sp
 अथाधिलोङ्के अधिलोकं या संहिता तां तावद् ब्रूमः । पृथिवीत्यादि ॥ अध्ययनकाले येन वेदवर्णौ सङ्घीयेते सहोच्चार्येते तयोः पूर्वरूपं पृथिवी भूमिः । उत्तररूपं द्यौर् द्युलोको वेदितव्यः । तयोर्वर्णयोः सन्धिर् अन्तराळम् । स आकाशः वेदितव्यः । सन्धानं पूर्वोत्तरयोः सहोञ्चारणार्थों यत्नः । स वायुर् वेदितव्यः । किं कृतं भवति ? पूर्वोत्तरयोर्वर्णयोरन्तराळकालनियमः कृतो भवति । द्युपृथिव्योर्यावद्व्यवधानान्तराळो भवत्याकाशः यावत्संश्लेषसहिते द्यावापृथिव्यौ वायुस्सन्दधाति तादृशान्तराळसन्धानौ पूर्वोत्तरवर्णौ भाव्यौ । सहोञ्चारणप्रयत्नजनककालाधिककालनिवृत्तिः कृता भवति । नियतावस्थत्वाद् लोकानां नियन्तव्यत्वेन सन्धेः प्राधान्यात् तेन संहिता व्यपदिश्यते ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓थाधिज्यौति᳓ष᳓म् ।  
-अ᳓ग्निः᳓ पूर्वरूप᳓म् । आ᳓दि᳓त्य᳓ उ᳓त्तररूप᳓म् । आ᳓पस्सन्धिः᳓ । वै᳓द्यु᳓तस् सन्धान᳓म् ।  
-इ᳓त्यधिज्यौति᳓ष᳓म् ।
+अथाधिज्यौतिषम् ।  
+अग्निः पूर्वरूपम् । आदित्य उत्तररूपम् । आपस्सन्धिः । वैद्युतस् सन्धानम् ।  
+इत्यधिज्यौतिषम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -507,11 +507,11 @@ Now, concerning the luminaries: fire (is) the prior form, sun, the latter form, 
 इति पूर्वोत्तरत्वमग्न्यादित्ययोः । वैद्युतोऽग्निर् वृष्टिमुत्पादयति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓थाधिविद्य᳓म् ।  
-आ᳓चा᳓र्यः᳓ पूर्वरूप᳓म् । अ᳓न्ते᳓वा᳓स्य् उ᳓त्तररूप᳓म् । वि᳓द्या सन्धिः᳓ । प्र᳓व᳓च᳓नँ सन्धान᳓म् ।  
-इ᳓त्यधिविद्य᳓म् ।
+अथाधिविद्यम् ।  
+आचार्यः पूर्वरूपम् । अन्तेवास्य् उत्तररूपम् । विद्या सन्धिः । प्रवचनँ सन्धानम् ।  
+इत्यधिविद्यम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -531,11 +531,11 @@ Now, concerning knowledge: teacher is the prior form (2), pupil, the latter form
 अथाधिविद्यामिति ॥ आचार्यान्तेवासिनोः पूर्वोत्तरत्वं स्पष्टं विद्या वेदः । प्रवचनम् अध्यापनम् ।।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓था᳓धिप्र᳓ज᳓म् ।  
-मा᳓ता᳓ पूर्वरूप᳓म् । पि᳓तो᳓त्तररूप᳓म् । प्र᳓जा सन्धिः᳓ । प्र᳓ज᳓न᳓नँ सन्धान᳓म् ।  
-इ᳓त्य᳓धिप्र᳓ज᳓म् । (5)
+अथाधिप्रजम् ।  
+माता पूर्वरूपम् । पितोत्तररूपम् । प्रजा सन्धिः । प्रजननँ सन्धानम् ।  
+इत्यधिप्रजम् । (5)
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -555,11 +555,11 @@ Now, concerning progeny: mother is the prior form, father, the latter form, prog
 अथाधिप्रजमिति ॥ प्रजा निषिच्यमानं शुक्लम् । प्रजननं पुंव्यञ्जनम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓था᳓द्ध्यात्म᳓म् ।  
-अ᳓ध᳓रा᳓ह᳓नुः᳓ पूर्वरूप᳓म् । उ᳓त्त᳓रा᳓ह᳓नु᳓र् उ᳓त्तररूप᳓म् । वा᳓क् सन्धिः᳓ । जि᳓ह्वा सन्धान᳓म् ।  
-इ᳓त्य᳓द्ध्यात्म᳓म् ।
+अथाद्ध्यात्मम् ।  
+अधराहनुः पूर्वरूपम् । उत्तराहनुर् उत्तररूपम् । वाक् सन्धिः । जिह्वा सन्धानम् ।  
+इत्यद्ध्यात्मम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -579,9 +579,9 @@ Now, concerning the self: lower jaw is the prior form, upper jaw, the latter for
 अथाध्यात्ममिति ॥ आस्यपर्यन्तप्रदेशा हनवः । अत्राधरोत्तरपर्यन्तौ गृह्यते । केचिदाहुः - भूगोळवशेनाधरा हनुर्दक्षिणा उत्तरा उत्तरेति । वागिन्द्रियसम्प्रयुक्त आत्मा वाक् । तेनाध्यात्ममित्युक्तम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-इ᳓ती᳓मा᳓ महासँहि᳓ताः᳓ ।
+इतीमा महासँहिताः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -594,9 +594,9 @@ Thus these are the great combinations.
 इतीमा म॑हासँ॒हिताः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-य᳓ ए᳓व᳓म् ए᳓ता᳓ म᳓हा᳓सँ᳓हि᳓ता᳓ व्या᳓ख्याता वेद᳓, स᳓न्धी᳓य᳓ते᳓ प्र᳓जया पशु᳓भिः᳓,, ब्र᳓ह्म᳓व᳓र्च᳓से᳓ना᳓न्ना᳓द्ये᳓न᳓ सु᳓व᳓र्ग्ये᳓ण लोकेन᳓ ॥ (6)
+य एवम् एता महासँहिता व्याख्याता वेद, सन्धीयते प्रजया पशुभिः,, ब्रह्मवर्चसेनान्नाद्येन सुवर्ग्येण लोकेन ॥ (6)
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2027,9 +2027,9 @@ He does obtain the Brahman. (1)
 </details>
 
 ## स्वाध्यायप्रवचने
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ऋ᳓त᳓ञ् च᳓ स्वा᳓द्ध्या᳓य᳓प्र᳓वचने च᳓ ।
+ऋतञ् च स्वाद्ध्यायप्रवचने च ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2047,9 +2047,9 @@ The settled order (ṛta), as well as study and teaching;
 इदानीम् ऋतादीन्य् उपासनायां सहकारित्वेन उपदिशति - ऋतं चेत्यादि ॥ ऋतं च स्वाध्यायप्रवचने च सहकारिकारणानि नोपासनामात्रमेव । एवं सत्यं चेत्यादि द्रष्टव्यम् । कर्तव्यमिति सर्वत्र शेषः । यथा सङ्कल्पितकरणमृतं मानसम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-स᳓त्य᳓ञ् च᳓ स्वा᳓द्ध्या᳓य᳓प्र᳓वचने च᳓ ।
+सत्यञ् च स्वाद्ध्यायप्रवचने च ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2067,9 +2067,9 @@ the truth, as well as study and teaching;
 यथोक्तकरणं सत्यं वाचिकम् । स्वाध्यायो विद्याया अध्ययनम् । व्याख्यानं प्रवचनम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓प᳓श् च᳓ स्वा᳓द्ध्या᳓य᳓प्र᳓वचने च᳓ ।
+तपश् च स्वाद्ध्यायप्रवचने च ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2087,9 +2087,9 @@ penance, as well as study and teaching;
 ब्रह्मचर्यादयो मौनानाहारादिकं तपः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-द᳓म᳓श् च᳓ स्वा᳓द्ध्या᳓य᳓प्र᳓वचने च᳓ ।
+दमश् च स्वाद्ध्यायप्रवचने च ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2107,9 +2107,9 @@ self-control, as well as study and teaching;
 विहितकर्मानुष्ठानजन्मा ग्लानिर् दमः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-श᳓म᳓श् च᳓ स्वा᳓द्ध्या᳓य᳓प्र᳓वचने च᳓ ।
+शमश् च स्वाद्ध्यायप्रवचने च ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2127,9 +2127,9 @@ peace, as well as study and teaching;
 मिथ्येन्द्रियाणामप्रवृत्तिः शमः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓ग्न᳓य᳓श् च᳓ स्वा᳓द्ध्या᳓य᳓प्र᳓वचने च᳓ ।
+अग्नयश् च स्वाद्ध्यायप्रवचने च ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2147,9 +2147,9 @@ the (sacrificial) fires, as well as study and teaching;
 अग्नयश् चित्या आहवनीयादयो वा ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓ग्नि᳓हो᳓त्र᳓ञ् च᳓ स्वा᳓द्ध्या᳓य᳓प्र᳓वचने च᳓ ।
+अग्निहोत्रञ् च स्वाद्ध्यायप्रवचने च ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2167,9 +2167,9 @@ Agnihotra (sacrifice), as well as study and teaching;
 पुनो ऽग्निहोत्रग्रहणं प्राधान्यख्यापनार्थम् । कर्मभिर्विकल्पार्थं वा ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓ति᳓थ᳓य᳓श् च᳓ स्वा᳓द्ध्या᳓य᳓प्र᳓वचने च᳓ ।
+अतिथयश् च स्वाद्ध्यायप्रवचने च ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2187,9 +2187,9 @@ guests, as well as study and teaching;
 अतिथिग्रहणं तत्पूजार्थम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-मा᳓नु᳓ष᳓ञ् च᳓ स्वा᳓द्ध्या᳓य᳓प्र᳓वचने च᳓ ।
+मानुषञ् च स्वाद्ध्यायप्रवचने च ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2207,9 +2207,9 @@ humanity, as well as study and teaching;
 मानुषम् उत्सवादौ देवपूजाप्रणामादिः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-प्र᳓जा᳓ च᳓ स्वा᳓द्ध्या᳓य᳓प्र᳓वचने च᳓ ।
+प्रजा च स्वाद्ध्यायप्रवचने च ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2227,9 +2227,9 @@ offspring, as well as study and teaching;
 प्रजा प्रजार्थं गर्भाधानादिसंस्कारः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-प्र᳓ज᳓न᳓श् च᳓ स्वा᳓द्ध्या᳓य᳓प्र᳓वचने च᳓ ।
+प्रजनश् च स्वाद्ध्यायप्रवचने च ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2247,9 +2247,9 @@ begetting, as well as study and teaching;
 प्रजनः प्रजार्थ्य् ऋतुकालगमनादयः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-प्र᳓जा᳓ति᳓श् च᳓ स्वा᳓द्ध्या᳓य᳓प्र᳓वचने च᳓ ।
+प्रजातिश् च स्वाद्ध्यायप्रवचने च ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2267,9 +2267,9 @@ procreation, as well as study and teaching.
 प्रजातिः सन्तानकारिणः पुत्रा दयः । स्वाध्यायप्रवचनसहितमृतादिकं प्रजात्यन्तमेकैकमेव सहकारिकारणं गृहस्थानाम् । इतरेषां च यथासम्भवं द्रष्टव्यम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-स᳓त्य᳓म् इ᳓ति᳓ स᳓त्य᳓व᳓चा राथीत᳓रः᳓ ।
+सत्यम् इति सत्यवचा राथीतरः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2287,9 +2287,9 @@ procreation, as well as study and teaching.
 सत्यमेव पर्याप्तं नार्थः स्वाध्यायप्रवचनाभ्याम् इति सत्यवचा राथीतरः रथीतरस्यापत्यमृषिराह ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓प᳓ इ᳓ति᳓ त᳓पो᳓नि᳓त्यः᳓ पौरुशिष्टिः᳓ ।
+तप इति तपोनित्यः पौरुशिष्टिः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2307,10 +2307,10 @@ procreation, as well as study and teaching.
 तप एवालम् इति तपोनित्यो नाम पौरुशिष्टिः पुरुशिष्टस्यापत्यमृषिर् वदति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-स्वा᳓द्ध्या᳓य᳓प्र᳓व᳓च᳓ने᳓ ए᳓वे᳓ति᳓ ना᳓को मौद्गल्यः᳓ ।  
-त᳓द्धि᳓ त᳓पस्- तद्धि त᳓पः᳓ । (16)
+स्वाद्ध्यायप्रवचने एवेति नाको मौद्गल्यः ।  
+तद्धि तपस्- तद्धि तपः । (16)
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2330,14 +2330,14 @@ procreation, as well as study and teaching.
 </details>
 
 ## त्रिशङ्कोर् वेदानुवचनम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अहव्ँ᳓ वृक्ष᳓स्य रे᳓रिवा ।  
-कीर्तिः᳓ पृष्ठ᳓ङ् गिरे᳓रिव ।  
-ऊर्द्ध्व᳓पवित्रो वाजि᳓नीव स्वमृ᳓तम् अस्मि ।  
-द्र᳓विणँ स᳓वर्चसम् ।  
-सु᳓मे᳓धा᳓ अमृतोक्षि᳓तः᳓ ।  
-इ᳓ति᳓ त्रि᳓श᳓ङ्को᳓र् वे᳓दानुवच᳓न᳓म् । (17)
+अहव्ँ वृक्षस्य रेरिवा ।  
+कीर्तिः पृष्ठङ् गिरेरिव ।  
+ऊर्द्ध्वपवित्रो वाजिनीव स्वमृतम् अस्मि ।  
+द्रविणँ सवर्चसम् ।  
+सुमेधा अमृतोक्षितः ।  
+इति त्रिशङ्कोर् वेदानुवचनम् । (17)
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2369,9 +2369,9 @@ I am the mover of the tree (worldly illusion); (my) fame (is) like the mountain'
 स्वरा व्याकरणं व्यभिचरन्त्य् अत्र।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-वे᳓द᳓म᳓नू᳓च्या᳓चा᳓र्यो᳓ ऽन्ते᳓वा᳓सि᳓न᳓म् अनुशास्ति᳓ ।
+वेदमनूच्याचार्यो ऽन्तेवासिनम् अनुशास्ति ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2389,9 +2389,9 @@ Having taught the Veda, the teacher exhorts the pupils:
 वेदमनूच्य इत्यादि गतम् । अनुशासनार्थत्वात् शब्दान्तरेणाप्यर्थोऽनुशिष्यः न प्रैषसमानम् । केषाञ्चित् सिद्धानामपि सत्यवचनादीनाम् उपनिषद्विद्यानुवचनानन्तरं फलाधिक्याथ अनुशासनम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-स᳓त्यव्ँ व᳓द᳓ ।
+सत्यव्ँ वद ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2409,9 +2409,9 @@ Speak the truth,
 सति साधु सत्यं तथ्यं
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ध᳓र्मञ् च᳓र᳓ ।
+धर्मञ् चर ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2429,9 +2429,9 @@ follow the religion.
 धर्मः श्रुति विहिता क्रिया ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-स्वा᳓द्ध्या᳓यान्मा प्रम᳓दः᳓ ।
+स्वाद्ध्यायान्मा प्रमदः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2449,9 +2449,9 @@ Do not swerve from study.
 स्वशाखाध्यायः स्वाध्यायस् तस्मान् मा प्रमदः प्रमत्तो मा भूः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-आ᳓चा᳓र्या᳓य᳓ प्रि᳓य᳓न् ध᳓न᳓मा᳓हृ᳓त्य᳓, प्र᳓जा᳓त᳓न्तुं᳓ मा᳓ व्यवच्छेत्सीः᳓ ।
+आचार्याय प्रियन् धनमाहृत्य, प्रजातन्तुं मा व्यवच्छेत्सीः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2469,9 +2469,9 @@ Having brought the acceptable wealth to the teacher, do not cut off the line of 
 आचार्याय प्रियं धनं विद्यादक्षिणामाहृत्य प्रजातन्तुं प्रजासन्तानं मा व्यवच्छेत्सीर् विच्छिन्नं मा कार्षीः । विद्यामधिगम्य न त्वरितेन प्रवजितव्यं सन्तानार्थं निवेशनं तावत् कर्तव्यमित्यर्थः । सिचि वृद्ध्यभावश्छान्दसः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-स᳓त्या᳓न् न᳓ प्र᳓मदितव्य᳓म् ।
+सत्यान् न प्रमदितव्यम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2489,9 +2489,9 @@ From truth (you) should not swerve.
 सत्यधर्मयोः प्रमादः कदाचित्प्रतिपक्षानुष्ठानम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ध᳓र्मा᳓न् न᳓ प्र᳓मदितव्य᳓म् ।
+धर्मान् न प्रमदितव्यम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2504,9 +2504,9 @@ From religion (you) should not swerve.
 धर्मान् न प्रम॑दित॒व्यम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-कु᳓श᳓ला᳓न् न᳓ प्र᳓मदितव्य᳓म् ।
+कुशलान् न प्रमदितव्यम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2524,9 +2524,9 @@ From welfare (you) should not swerve.
 कुशलमात्मरक्षा ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-भू᳓त्यै᳓ न᳓ प्र᳓मदितव्य᳓म् ।
+भूत्यै न प्रमदितव्यम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2544,9 +2544,9 @@ From prosperity (you) should not swerve.
 भूतिः सिद्ध्यर्था क्रिया ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-स्वा᳓द्ध्या᳓य᳓-प्र᳓व᳓च᳓ना᳓भ्या᳓न् न᳓ प्र᳓मदितव्य᳓म् । (18)
+स्वाद्ध्याय-प्रवचनाभ्यान् न प्रमदितव्यम् । (18)
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2559,9 +2559,9 @@ From study and teaching (you) should not swerve.
 स्वाद्ध्याय-प्रवचनाभ्यान् न प्रम॑दित॒व्यम् । (18)
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-दे᳓व᳓पि᳓तृ᳓का᳓र्या᳓भ्या᳓न् न᳓ प्र᳓मदितव्य᳓म् ।
+देवपितृकार्याभ्यान् न प्रमदितव्यम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2579,9 +2579,9 @@ From the duties to the gods and to the fathers (you) should not swerve. (1)
 गतमन्यत् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-मा᳓तृदेवो भ᳓व᳓ ।
+मातृदेवो भव ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2599,9 +2599,9 @@ Be one to whom mother is god;
 मात्रादीनां देववत् पूजार्थं मातृदेवत्वाद्यनुशासनम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-पि᳓तृदेवो भ᳓व᳓ ।
+पितृदेवो भव ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2614,9 +2614,9 @@ be one to whom father is god;
 पितृ॑देवो॒ भव ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-आ᳓चा᳓र्यदेवो भ᳓व᳓ ।
+आचार्यदेवो भव ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2629,9 +2629,9 @@ be one to whom teacher is god;
 आचार्य॑देवो॒ भव ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓ति᳓थिदेवो भ᳓व᳓ ।
+अतिथिदेवो भव ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2644,9 +2644,9 @@ be one to whom guest is god.
 अतिथि॑देवो॒ भव ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-या᳓न्य् अ᳓न᳓व᳓द्या᳓नि कर्माणि᳓- ता᳓नि᳓ से᳓वितव्यानि᳓, नो᳓ इतराणि᳓ ।
+यान्य् अनवद्यानि कर्माणि- तानि सेवितव्यानि, नो इतराणि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2669,9 +2669,9 @@ What acts are irreproachable, they should be practiced (and) not others.
 किं यस्य कस्यचिद् अनवद्यानि कर्माणि? नेत्याह -
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-या᳓न्य᳓स्मा᳓कँ᳓ सु᳓चरितानि᳓- ता᳓नि᳓ त्व᳓योपास्यानि᳓, नो᳓ इतराणि᳓ ।
+यान्यस्माकँ सुचरितानि- तानि त्वयोपास्यानि, नो इतराणि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2689,9 +2689,9 @@ What are good deeds of ours, they should be practiced by you (and) not others. (
 यान्यस्माकं शोभनानि चरितानि तानि त्वयोपास्यानि यत्नतश्शिक्षणीयानि । इतराण्यनवद्यान्यपि त्याज्यानि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ये᳓ के᳓ चा᳓स्म᳓च्छ्रे᳓याँसो ब्राह्म᳓णाः᳓- ते᳓षा᳓न् त्व᳓या᳓ ऽऽस᳓ने᳓न᳓ प्र᳓श्वसितव्य᳓म् ।
+ये के चास्मच्छ्रेयाँसो ब्राह्मणाः- तेषान् त्वया ऽऽसनेन प्रश्वसितव्यम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2709,9 +2709,9 @@ Whatever Brāhmaṇas are superior to us, their refreshment should be done by yo
 इदं परं हितं ब्रूमः - ये नाम केचिद् अस्मत्तः श्रेयांसः प्रशस्यतरा ब्राह्मणास् तेषाम् आसने आस्थाने गोष्ठ्यां त्वया न प्रश्वसितव्यं न विस्तब्धेन व्यवहर्तव्यं, न वा प्रागल्भ्यं स्थापितव्यम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-श्र᳓द्धया देय᳓म् ।
+श्रद्धया देयम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2729,9 +2729,9 @@ With faith (śraddhā) should be given (any gift);
 श्रद्धादयष्षडपि हेतव इत्येके । केचिदकारप्रश्लेषमाहुः - श्रद्धयैव देयम् अश्रद्धया त्वदेयमेव ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓श्र᳓द्धयाऽदेय᳓म् ।
+अश्रद्धयाऽदेयम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2744,9 +2744,9 @@ without faith should not be given.
 अश्रद्ध॑याऽदे॒यम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-श्रि᳓या देय᳓म् ।
+श्रिया देयम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2764,9 +2764,9 @@ With liberality (śrī) should be given (any gift);
 श्रीयुक्तेन विभववतैव देयं न त्वसति विभवे ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ह्रि᳓या देय᳓म् ।
+ह्रिया देयम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2784,9 +2784,9 @@ with modesty should be given;
 ह्रिया लज्जामात्रेण दातव्यम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-भि᳓या देय᳓म् ।
+भिया देयम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2804,9 +2804,9 @@ with fear should be given;
 भिया देयम् अदाने प्रत्यवायाद् भयविशिष्टनैव देयम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-सं᳓विदा देय᳓म् ।
+संविदा देयम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2824,9 +2824,9 @@ with sympathy should be given.
 संविदा प्रकृतिस्थितया को दोषः दीयतामितिभावेन न दातव्यम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓थ᳓ य᳓दि᳓ ते᳓ क᳓र्म᳓वि᳓चि᳓कि᳓त्सा᳓ वा᳓ वृ᳓त्त᳓वि᳓चि᳓कित्सा वा स्या᳓त् - ये᳓ त᳓त्र᳓ ब्रा᳓ह्म᳓णास्, सं᳓मर्शि᳓नः᳓, यु᳓क्ता, आ᳓युक्ताः᳓, अ᳓लू᳓क्षा, ध᳓र्मकामास् स्युः᳓- य᳓था᳓ ते त᳓त्र वर्तेर᳓न्, त᳓था᳓ त᳓त्र वर्तेथाः᳓ ।
+अथ यदि ते कर्मविचिकित्सा वा वृत्तविचिकित्सा वा स्यात् - ये तत्र ब्राह्मणास्, संमर्शिनः, युक्ता, आयुक्ताः, अलूक्षा, धर्मकामास् स्युः- यथा ते तत्र वर्तेरन्, तथा तत्र वर्तेथाः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2844,9 +2844,9 @@ Now, if there occurs any doubt concerning an act or a doubt concerning conduct (
 अथेत्यादि ॥ कर्माण्यग्निहोत्रादीनि । वृत्तमाचारः । विचिकित्सा सन्देहः । तद्विषये कथमुपासकस्य भवितव्यम् । ये तत्र तस्मिन्नर्थे सम्मर्शिनः विचारकुशलाः । यद्वा - तत्र देशे तत्र वा काले ये ब्राह्मणास्सम्मर्शिनः युक्ता अभियुक्ता आयुक्तास् तात्पर्यवन्तो ऽलूक्षा अलुब्धा अदरिद्रा वा धर्मकामा अदाम्भिका यथा ते तत्र वर्तेरन् तत्र वृत्ते कर्मणि वा वर्तेरन् यथा ते तत्कुर्युस् तथा त्वमपि कुर्याः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓था᳓भ्याख्यातेषु᳓ - ये᳓ त᳓त्र᳓ ब्रा᳓ह्म᳓णास्, सं᳓मर्शि᳓नः᳓, यु᳓क्ता, आ᳓युक्ताः᳓, अ᳓लू᳓क्षा, ध᳓र्मकामास् स्युः᳓ - य᳓था᳓ ते ते᳓षु वर्तेर᳓न्, त᳓था᳓ ते᳓षु वर्तेथाः᳓ ।
+अथाभ्याख्यातेषु - ये तत्र ब्राह्मणास्, संमर्शिनः, युक्ता, आयुक्ताः, अलूक्षा, धर्मकामास् स्युः - यथा ते तेषु वर्तेरन्, तथा तेषु वर्तेथाः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2864,9 +2864,9 @@ Now, with regard to the accused: as the Brāhmaṇas there, who are thoughtful, 
 अभ्याख्याता अभ्याकृष्टा निन्दितार्थास् तेषु यदि विचिकित्सा स्यात् । ये इत्यादि । गतम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ए᳓ष आदेशः᳓ ।
+एष आदेशः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2884,9 +2884,9 @@ This is the direction.
 एष इत्यादि ॥ आदेशः ब्राह्मणम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ए᳓ष᳓ उपदेशः᳓ ।
+एष उपदेशः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2904,9 +2904,9 @@ This is the advice.
 उपदेशः स्मृतिः। शान्त्याशासनादिकं शिष्यानुशासनान्तमेतत्सर्वमादेश उपदेशश्च श्रुतिस्मृत्यर्थ एवमस्माभिरुक्त इत्यर्थः । यद्वा - श्रुतिस्मृत्योः कृत्स्नोऽर्थ एव सङ्ग्रहोक्त इति वेदितव्यम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ए᳓षा᳓ वेदोपनि᳓ष᳓त् ।
+एषा वेदोपनिषत् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2924,9 +2924,9 @@ This is the mystic doctrine of the Veda.
 एषा वेदोपनिषद् वेदरहस्यम्
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ए᳓त᳓दनुशास᳓न᳓म् ।
+एतदनुशासनम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2944,9 +2944,9 @@ This is the instruction.
 एतदनुशासनम् अमोधफलं राजशासनवद् अनतिक्रमितव्यमिति वा ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ए᳓व᳓मु᳓पासितव्य᳓म् ।
+एवमुपासितव्यम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2964,9 +2964,9 @@ Thus you should worship.
 एवम् उक्तेन प्रकारेण उपासितव्यम् उपासनं कर्तव्यम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ए᳓व᳓म् उ᳓ चै᳓तदुपास्य᳓म् ॥ (21)
+एवम् उ चैतदुपास्यम् ॥ (21)
 </details>
 
 <details><summary>त्रिभुवनः</summary>

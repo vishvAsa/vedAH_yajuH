@@ -369,9 +369,9 @@ do not go and come taking the breaths of my progeny, nor of my cattle, nor mine.
 ओमादिभिश्च परमात्मनामधेयैस् तदभेदेनादित्य एवोच्यते ॥११॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ए᳓त᳓द्वो᳓ मि᳓थु᳓नं᳓ मा᳓ नो᳓ मि᳓थुनँ रीढ्व᳓म् ॥ [66]
+एतद्वो मिथुनं मा नो मिथुनँ रीढ्वम् ॥ [66]
 </details>
 
 <details><summary>त्रिभुवनः</summary>

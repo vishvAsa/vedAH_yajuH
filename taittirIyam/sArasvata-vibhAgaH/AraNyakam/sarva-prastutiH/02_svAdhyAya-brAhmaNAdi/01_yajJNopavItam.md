@@ -21,7 +21,7 @@ The Devas reached to the heavenly world by the well-performed sacrifice
 
 <details><summary>मूलम्</summary>
 
-प्रसृ॑तेन॒ वै य॒ज्ञेन॑ दे॒वास् स्व॒र्गल्ँ लो॒कम् आ॑य॒न्।
+प्रसृ॑तेन॒ वै य॒ज्ञेन॑ दे॒वास् स्व॒र्गल्ँ लो॒कम् आ॑यन्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -41,7 +41,7 @@ and they defeated the Asuras, having no well-performed sacrifice.
 
 <details><summary>मूलम्</summary>
 
-अप्रसृ॑ते॒नासु॑रा॒न् परा॑भावय॒न्।
+अप्रसृ॑ते॒नासु॑रा॒न् परा॑भावयन्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -64,7 +64,7 @@ and they defeated the Asuras, having no well-performed sacrifice.
 
 <details><summary>मूलम्</summary>
 
-प्रसृ॑तो ह॒ वै य॑ज्ञोपवी॒तिनो॑ य॒ज्ञो, ऽप्र॑सृ॒तो ऽनु॑पवी॒तिनः।
+प्रसृ॑तो ह॒ वै य॑ज्ञोपवी॒तिनो॑ य॒ज्ञो, ऽप्र॒सृ॒तो ऽनु॑पवी॒तिनः॑।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

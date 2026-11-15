@@ -21,7 +21,7 @@ The waters are, verily, all this
 
 <details><summary>मूलम्</summary>
 
-आपो॒ वा इ॒दँ सर्वं॒
+आपो॒ वा इ॒दँ सर्वं॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -61,7 +61,7 @@ the waters are the breaths
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पश᳓व आ᳓पो᳓,
+पश᳓व आ᳓पो,
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -71,12 +71,12 @@ the waters are the animals
 
 <details><summary>मूलम्</summary>
 
-प॒शव॒ आपो
+प॒शव॒ आपो॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऽन्नम् आ᳓पो᳓,
+ऽन्नम् आ᳓पो,
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -86,7 +86,7 @@ the waters are the food
 
 <details><summary>मूलम्</summary>
 
-ऽन्न॒मापो
+ऽन्न॒मापो॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,7 +116,7 @@ the waters are the Samrat, Virat and Svarat
 
 <details><summary>मूलम्</summary>
 
-स॒म्राडापो॑ वि॒राडापः॑ स्व॒राडाप॒श्
+स॒म्राडापो॑ वि॒राडापः॑ स्व॒राडाप॑श्
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,7 +131,7 @@ the waters are the metres
 
 <details><summary>मूलम्</summary>
 
-छन्दाँ॒स्यापो॒
+छन्दाँ॒स्यापो॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -146,7 +146,7 @@ the waters are the Yajuses
 
 <details><summary>मूलम्</summary>
 
-ज्योतीँ॒ष्यापो॒
+ज्योतीँ॒ष्यापो॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -176,7 +176,7 @@ the waters are all the gods
 
 <details><summary>मूलम्</summary>
 
-स॒त्यमाप॒स्
+स॒त्यमाप॑स्
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

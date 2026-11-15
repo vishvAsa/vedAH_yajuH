@@ -16,7 +16,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-वात॑रशना ह॒ वा ऋष॑यश् श्रम॒णा ऊ॒र्ध्वम॑न्थि॒नो ब॑भूवु॒स्,
+वात॑रशना ह॒ वा ऋष॑यश् श्रम॒णा ऊ॒र्ध्वम॑न्थि॒नो ब॑भूवुस्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -31,7 +31,7 @@ The (other) seers came to them for their purpose.
 
 <details><summary>मूलम्</summary>
 
-तानृष॑यो॒ ऽर्थमा॑यँ॒स्,
+तानृष॑यो॒ ऽर्थमा॑यँस्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -46,7 +46,7 @@ Vātaraśanas hided themselves;
 
 <details><summary>मूलम्</summary>
 
-ते नि॒लाय॑मचरँ॒स्,
+ते नि॒लाय॑मचरँस्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -143,7 +143,7 @@ They saw these hymns (of the Kūṣmāṇḍa Mantras).
 
 <details><summary>मूलम्</summary>
 
-त ए॒तानि॑ सू॒क्तान्य॑पश्य॒न्।
+त ए॒तानि॑ सू॒क्तान्य॑पश्यन्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -217,7 +217,7 @@ Whatever is the new sin of killing the embryo, you will become released from tha
 
 <details><summary>मूलम्</summary>
 
-त ए॒तैर॑जुहवु॒स्,
+त ए॒तैर॑जुहवुस्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -296,7 +296,7 @@ Origin of the Kusmanda Homa and the use of those Mantras. (From 1 to 5). Consecr
 
 <details><summary>मूलम्</summary>
 
-कू॒श्मा॒ण्डैर् जु॑हुया॒द् यो ऽपू॑त इव॒ मन्ये॑त॒ -
+कू॒श्मा॒ण्डैर् जु॑हुया॒द् यो ऽपू॑त इव॒ मन्ये॑त -
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -428,7 +428,7 @@ he purifies himself by the year.
 
 <details><summary>मूलम्</summary>
 
-+++(पापाल्पत्वे)+++ मास॑न्दीक्षि॒तो भ॑वति॒ -
++++(पापाल्पत्वे)+++ मास॑न्दीक्षि॒तो भ॑वति -
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -554,7 +554,7 @@ for there are six seasons in a year, (hence he) purifies himself by the year.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रिप᳓दा गायत्री᳓। गा᳓यत्रिया᳓ एवा᳓त्मा᳓नं पुनीते।
+त्रिप᳓दा गायत्री᳓। गायत्रिया᳓ एवा᳓त्मा᳓नं पुनीते।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -564,7 +564,7 @@ for there are three feet in the Gayatri (Mantra); (hence he) purifies himself by
 
 <details><summary>मूलम्</summary>
 
-त्रि॒पदा॑ गाय॒त्री। गा॑यत्रि॒या ए॒वात्मानं॑ पुनीते।
+त्रि॒पदा॑ गाय॒त्री। गा॒य॒त्रि॒या ए॒वात्मानं॑ पुनीते।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -586,7 +586,7 @@ for there are three feet in the Gayatri (Mantra); (hence he) purifies himself by
 
 <details><summary>मूलम्</summary>
 
-न माँ॒सम॑श्नीया॒न्,
+न माँ॒सम॑श्नीयान्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -601,7 +601,7 @@ should not go to the woman,
 
 <details><summary>मूलम्</summary>
 
-न स्त्रिय॒मुपे॑या॒न्,
+न स्त्रिय॒मुपे॑यान्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -616,7 +616,7 @@ should not sit upon (anything other than the earth)
 
 <details><summary>मूलम्</summary>
 
-नोपर्या॑सीत॒,
+नोपर्या॑सीत,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -631,7 +631,7 @@ and should hate the false.
 
 <details><summary>मूलम्</summary>
 
-जुगु॑प्से॒तानृ॑ता॒त्।
+जुगु॑प्से॒तानृ॑तात्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -656,7 +656,7 @@ and should hate the false.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓वागू᳓ राजन्य᳙स्यामि᳓क्षा वै᳓श्यस्य᳓।
+यवागू᳓ राजन्य᳙स्यामि᳓क्षा वै᳓श्यस्य᳓।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -666,7 +666,7 @@ the rice-gruel, for the King (Ksatriya caste); the curd, for the Valaya (caste).
 
 <details><summary>मूलम्</summary>
 
-य॑वा॒गू रा॑ज॒न्य॑स्या॒मिक्षा॒ वैश्य॒स्य।
+य॒वा॒गू रा॑ज॒न्य॑स्या॒मिक्षा॒ वैश्य॒स्य।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

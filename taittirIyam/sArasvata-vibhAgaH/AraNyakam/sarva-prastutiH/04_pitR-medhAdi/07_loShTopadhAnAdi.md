@@ -742,7 +742,7 @@ of the quarters,
 
 <details><summary>मूलम्</summary>
 
-दि॒शान्त्वा॒
+दि॒शान्त्वा॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

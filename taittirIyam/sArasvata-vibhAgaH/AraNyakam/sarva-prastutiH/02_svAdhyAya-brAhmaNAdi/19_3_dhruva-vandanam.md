@@ -59,7 +59,7 @@ you are lord of the beings,
 
 <details><summary>मूलम्</summary>
 
-त्वं भू॒ताना॒मधि॑पतिरसि॒।
+त्वं भू॒ताना॒मधि॑पतिरसि।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -79,7 +79,7 @@ you are supreme among the beings;
 
 <details><summary>मूलम्</summary>
 
-त्वं भू॒तानाँ॒ श्रेष्ठो॑ऽसि॒।
+त्वं भू॒तानाँ॒ श्रेष्ठो॑ऽसि।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -99,7 +99,7 @@ the beings serve you from all sides;
 
 <details><summary>मूलम्</summary>
 
-त्वां भू॒तान्युप॑ प॒र्याव॑र्तन्ते॒।
+त्वां भू॒तान्युप॑ प॒र्याव॑र्तन्ते।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

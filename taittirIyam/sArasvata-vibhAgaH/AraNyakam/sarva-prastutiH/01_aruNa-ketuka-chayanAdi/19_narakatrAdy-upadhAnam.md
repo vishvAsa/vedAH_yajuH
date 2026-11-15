@@ -18,9 +18,9 @@ Mantras for placing bricks.
 *(Mantras 1–4)* Mantras, addressing the bricks to save from the four hells of the four quarters.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-द᳓क्षि᳓ण᳓पू᳓र्व᳓स्या᳓न्दि᳓शि᳓ वि᳓सर्पी नर᳓कः᳓ ।
+दक्षिणपूर्वस्यान्दिशि विसर्पी नरकः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -33,9 +33,9 @@ Mantras for placing bricks.
 दक्षिणपूर्वस्यान्दिशि विस॑र्पी न॒रकः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓स्मा᳓न्नः᳓ परिपाहि᳓ ।
+तस्मान्नः परिपाहि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -50,9 +50,9 @@ save us from that.[P107_1]
 तस्मान्नः प॑रिपा॒हि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-द᳓क्षि᳓णा᳓प᳓र᳓स्या᳓न्दि᳓श्य᳓वि᳓सर्पी नर᳓कः᳓ ।
+दक्षिणापरस्यान्दिश्यविसर्पी नरकः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -65,9 +65,9 @@ save us from that.[P107_1]
 दक्षिणापरस्यान्दिश्यविस॑र्पी न॒रकः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓स्मा᳓न्नः᳓ परिपाहि᳓ ।
+तस्मान्नः परिपाहि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -82,9 +82,9 @@ save us from that.[P107_2]
 तस्मान्नः प॑रिपा॒हि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-उ᳓त्त᳓र᳓पू᳓र्व᳓स्या᳓न्दि᳓शि᳓ वि᳓षादी नर᳓कः᳓ ।
+उत्तरपूर्वस्यान्दिशि विषादी नरकः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -97,9 +97,9 @@ save us from that.[P107_2]
 उत्तरपूर्वस्यान्दिशि विषा॑दी न॒रकः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓स्मा᳓न्नः᳓ परिपाहि᳓ ।
+तस्मान्नः परिपाहि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -114,9 +114,9 @@ save us from that.[P107_3]
 तस्मान्नः प॑रिपा॒हि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-उ᳓त्त᳓रा᳓प᳓र᳓स्या᳓न्दि᳓श्य᳓वि᳓षादी नर᳓कः᳓ ।
+उत्तरापरस्यान्दिश्यविषादी नरकः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -129,9 +129,9 @@ save us from that.[P107_3]
 उत्तरापरस्यान्दिश्यविषा॑दी न॒रकः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓स्मा᳓न्नः᳓ परिपाहि᳓ ।
+तस्मान्नः परिपाहि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -151,9 +151,9 @@ save us from that.[P107_4]
 Initial words of the two mantras for placing bricks.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-आ᳓ य᳓स्मि᳓न्त्स᳓प्त᳓ वा᳓स᳓वा᳓ इ᳓न्द्रि᳓या᳓णि᳓ श᳓त᳓क्र᳓तवित्येते᳓ ॥ [72]
+आ यस्मिन्त्सप्त वासवा इन्द्रियाणि शतक्रतवित्येते ॥ [72]
 </details>
 
 <details><summary>त्रिभुवनः</summary>

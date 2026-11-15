@@ -45,7 +45,7 @@ Hail for them who are the preservers of his way :
 
 <details><summary>मूलम्</summary>
 
-य ए॒तस्य॑ प॒थो गो॒प्तार॒स्तेभ्य॒स्स्वाहा॒
+य ए॒तस्य॑ प॒थो गो॒प्तार॒स्तेभ्य॒स्स्वाहा॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -73,7 +73,7 @@ Hail for them who are the protectors of his way!
 
 <details><summary>मूलम्</summary>
 
-य ए॒तस्य॑ प॒थो र॑क्षि॒तार॒स्तेभ्य॒स्स्वाहा॒
+य ए॒तस्य॑ प॒थो र॑क्षि॒तार॒स्तेभ्य॒स्स्वाहा॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -169,7 +169,7 @@ Hail for him who says his bad deeds to the gods!
 
 <details><summary>मूलम्</summary>
 
-अ॒प॒लाल॑पते॒ स्वाहा॒
+अ॒प॒लाल॑पते॒ स्वाहा॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -189,7 +189,7 @@ Hail for the fire! Hail for the acting one!
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्नये॑ कर्म॒कृते॒ स्वाहा॒
+अ॒ग्नये॑ कर्म॒कृते॒ स्वाहा॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

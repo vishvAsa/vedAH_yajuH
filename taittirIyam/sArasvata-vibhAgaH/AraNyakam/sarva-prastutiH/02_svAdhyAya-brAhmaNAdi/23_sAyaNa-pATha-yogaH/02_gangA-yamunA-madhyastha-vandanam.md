@@ -32,8 +32,8 @@ salutation to the seers, who reside between the Ganga and the Yamuna; salutation
 
 <details><summary>मूलम्</summary>
 
-नमो गङ्गायमुनयोर्मुनि॑भ्यश्च॒ नमो॒  
-नमो गङ्गायमुनयोर्मुनि॑भ्यश्च॒ नमः ॥ ०। २। २०। २४॥ ॥ २०॥
+नमो गङ्गायमुनयोर्मुनि॑भ्यश्च॒ नमो॑  
+नमो गङ्गायमुनयोर्मुनि॑भ्यश्च॒ नमः॑ ॥ ०। २। २०। २४॥ ॥ २०॥
 </details>
 
 <details><summary>त्रिभुवनः</summary>

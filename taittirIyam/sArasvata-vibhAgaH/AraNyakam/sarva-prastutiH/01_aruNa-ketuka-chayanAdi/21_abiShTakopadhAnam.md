@@ -56,13 +56,13 @@ Having winds as horses, rays as protectors, beams as bodies, not hostile, shinin
 पु॒त्र॒व॒त्त्वाय॑ मे सुत ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-म᳓हा᳓ना᳓म्नी᳓र्महामानाः᳓ ।  
-महसो᳓ महसस्स्वः᳙ ।  
+महानाम्नीर्महामानाः ।  
+महसो महसस्स्वः ।  
 [74]  
-देवीः᳓ पर्जन्यसू᳓वरीः ।  
-पुत्रवत्त्वा᳓य मे सुत ।
+देवीः पर्जन्यसूवरीः ।  
+पुत्रवत्त्वाय मे सुत ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>

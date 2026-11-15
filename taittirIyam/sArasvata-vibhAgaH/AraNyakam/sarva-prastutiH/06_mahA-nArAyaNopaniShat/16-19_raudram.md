@@ -150,9 +150,9 @@ whatever is all, matter, world, wonderful, various born, to be born; that all is
 नमो हिरण्यबाहव इति ॥ स एव विनियोगः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-न᳓मो᳓ हि᳓र᳓ण्य᳓बा᳓ह᳓वे᳓ हि᳓र᳓ण्य᳓प᳓त᳓ये᳓ ऽम्बि᳓का᳓प᳓त᳓य᳓ उ᳓मा᳓प᳓त᳓ये नमो न᳓मः᳓ । (33)
+नमो हिरण्यबाहवे हिरण्यपतये ऽम्बिकापतय उमापतये नमो नमः । (33)
 </details>
 
 <details><summary>त्रिभुवनः</summary>

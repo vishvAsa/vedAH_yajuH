@@ -138,7 +138,7 @@ Who is this Person, that is the lord of the beings.
 <details><summary>मूलम्</summary>
 
 य ए॒ष पुरु॑ष  
-ए॒ष भू॒ताना॒म् अधि॑पति॒र्
+ए॒ष भू॒ताना॒म् अधि॑पतिर्
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -160,7 +160,7 @@ He obtains the company and the common world to Brahman and also obtains the comp
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑ण॒स् सायु॑ज्यँ सलो॒कता॑म् आप्नोत्य्  
-ए॒तासा॑मे॒व दे॒वता॑नाँ॒  सायु॑ज्यँ सा॒र्ष्टिताँ॑ समानलो॒कता॑म् आप्नोति॒
+ए॒तासा॑मे॒व दे॒वता॑नाँ॒  सायु॑ज्यँ सा॒र्ष्टिताँ॑ समानलो॒कता॑म् आप्नोति
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -168,9 +168,9 @@ He obtains the company and the common world to Brahman and also obtains the comp
 अथ वेदितुः स्तुतिः - ब्रह्मणः परस्य प्रपञ्चोत्तीर्णस्य सायुज्यं सयुग्भावं समानलोकतां च आप्नोति । एतासां च देवतानां प्रपञ्चान्तवर्तिनीनां तेजःप्रभृत्यभिमानिनीनां वा सायुज्यं सयुग्भावं सार्ष्टितां मूर्त्यैक्यं समानलोकतां चाप्नोति । य एवं वेदापि किं पुनरुपासितेति । इयमेका उपनिषत् तत्प्रतिपाद्योपासना ज्ञातव्या ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-य᳓ एवव्ँ᳓ वे᳓देत्युपनि᳓ष᳓त् । (29)
+य एवव्ँ वेदेत्युपनिषत् । (29)
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -212,7 +212,7 @@ The shining sun, Aditya, Om.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ᳓दित्य᳓म् अर्चयन्ति,  
+आदित्य᳓म् अर्चयन्ति,  
 त᳓पस्सत्यं᳓, म᳓धु क्षरन्ति,  
 त᳓द्ब्र᳓ह्म, त᳓दा᳓प आ᳓पो ज्यो᳓तीर᳓सोऽमृ᳓तं  ब्र᳓ह्म भू᳓र्भुवस्सु᳓वरो᳓म् । (30)
 </details>
@@ -224,7 +224,7 @@ For that Aditya one performs worship, austerity, truth, he sprinkles honey. That
 
 <details><summary>मूलम्</summary>
 
-आदि॒त्यम् अ॑र्चयन्ति॒,  
+आ॒दि॒त्यम् अ॑र्चयन्ति॒,  
 तप॑स्स॒त्यं, मधु॑ क्षरन्ति॒,  
 तद्ब्रह्म॒, तदाप॒ आपो॒ ज्योती॒रसो॒ऽमृतं॒  ब्रह्म॒ भूर्भु॑व॒स्सुव॒रोम् । (30)
 </details>

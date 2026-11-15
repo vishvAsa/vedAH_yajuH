@@ -133,7 +133,7 @@ you are the nature of the places of the gods,
 
 <details><summary>मूलम्</summary>
 
-दे॒वाना॒न् धाम॒ नामा॑सि॒।
+दे॒वाना॒न् धाम॒ नामा॑सि।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>

@@ -21,7 +21,7 @@ Study of the Vedas. (From 1 to 2).
 
 <details><summary>मूलम्</summary>
 
-अ॒जान् ह॒ वै पृश्नीँ॑स् +++(=शुक्लान्)+++ तप॒स्यमा॑ना॒न् ब्रह्म॑ स्वय॒म्भ्व॑भ्यान॑र्ष॒त्+++(=अभ्यागच्छत्)+++।
+अ॒जान् ह॒ वै पृश्नीँ॑स् +++(=शुक्लान्)+++ तप॒स्यमा॑ना॒न् ब्रह्म॑ स्वय॒म्भ्व॑भ्यान॑र्षत्+++(=अभ्यागच्छत्)+++।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -36,7 +36,7 @@ They became the Rsis (seers);
 
 <details><summary>मूलम्</summary>
 
-त ऋष॑यो ऽभव॒न्।
+त ऋष॑यो ऽभवन्।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -96,7 +96,7 @@ Desirous of the sacrifice, they saw this Brahmayajna (sacrifice in the form of t
 
 <details><summary>मूलम्</summary>
 
-य॒ज्ञका॑मा॒स् त ए॒तं ब्र॑ह्मय॒ज्ञम् अ॑पश्य॒न्।
+य॒ज्ञका॑मा॒स् त ए॒तं ब्र॑ह्मय॒ज्ञम् अ॑पश्यन्।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,7 +111,7 @@ they took this
 
 <details><summary>मूलम्</summary>
 
-तमाह॑र॒न्।
+तमाह॑रन्।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -162,7 +162,7 @@ what Yajuses, (they read, they became) the oblations of ghee;
 
 <details><summary>मूलम्</summary>
 
-यद्यजूँ॑षि घृ॒ताहु॑तयो॒,
+यद्यजूँ॑षि घृ॒ताहु॑तयो,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -177,7 +177,7 @@ what Samans (they read, they became) the oblations of the soma-juice;
 
 <details><summary>मूलम्</summary>
 
-यत् सामा॑नि॒ सोमा॑हुतयो॒,
+यत् सामा॑नि॒ सोमा॑हुतयो,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -192,7 +192,7 @@ what Atharvangiras (-Mantras they read, they became) the oblations of the honey;
 
 <details><summary>मूलम्</summary>
 
-यदथ॑र्वाङ्गि॒रसो॒ मध्वा॑हुतयो॒,
+यदथ॑र्वाङ्गि॒रसो॒ मध्वा॑हुतयो,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -207,7 +207,7 @@ what Brahmanas, Itihasas (histories), Puranas, Kalpas, Gathas, Narasamsins (prai
 
 <details><summary>मूलम्</summary>
 
-यद् ब्रा॑ह्म॒णानी॑तिहा॒सान् पु॑रा॒णानि॒ कल्पा॒न् गाथा॑ नाराशँ॒सीर् मे॑दाहु॒तयो॑, दे॒वाना॑मभव॒न्।
+यद् ब्रा॑ह्म॒णानी॑तिहा॒सान् पु॑रा॒णानि॒ कल्पा॒न् गाथा॑ नाराशँ॒सीर् मे॑दाहु॒तयो॑, दे॒वाना॑मभवन्।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -222,7 +222,7 @@ By that they destroyed sinful hunger.
 
 <details><summary>मूलम्</summary>
 
-ताभिः॒ क्षुधं॑ पा॒प्मान॒म् अपा॑घ्न॒न्।
+ताभिः॒ क्षुधं॑ पा॒प्मान॒म् अपा॑घ्नन्।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -237,7 +237,7 @@ The sinless gods came to the heavenly worlds,
 
 <details><summary>मूलम्</summary>
 
-अप॑हतपाप्मानो दे॒वास् स्व॒र्गल्ँ लो॒कमा॑य॒न्।
+अप॑हतपाप्मानो दे॒वास् स्व॒र्गल्ँ लो॒कमा॑यन्।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

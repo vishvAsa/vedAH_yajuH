@@ -101,7 +101,7 @@ Therefore, the Rākṣasas fight against the rising sun (Āditya) until that set
 
 <details><summary>मूलम्</summary>
 
-तस्मा॒द् उत्ति॑ष्ठन्तँ॒ ह वा॒ तानि॒ रक्षाँ॑स्यादि॒त्यय्ँ योध॑यन्ति॒ याव॑दस्त॒मन्व॑गा॒त्।
+तस्मा॒द् उत्ति॑ष्ठन्तँ॒ ह वा॒ तानि॒ रक्षाँ॑स्यादि॒त्यय्ँ योध॑यन्ति॒ याव॑दस्त॒मन्व॑गात्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -219,7 +219,7 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 
 उ॒द्यन्त॑म् अस्तय्ँ॒ यन्त॑म् आदि॒त्यम् अ॑भिध्या॒यन्  
 कु॒र्वन् ब्रा॑ह्म॒णो वि॒द्वान्त् स॒कलं॑ भ॒द्रम् अ॑श्नुते -  
-असाव् आ॑दि॒त्यो ब्र॒ह्मेति॒ -
+असाव् आ॑दि॒त्यो ब्र॒ह्मेति॑ -
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

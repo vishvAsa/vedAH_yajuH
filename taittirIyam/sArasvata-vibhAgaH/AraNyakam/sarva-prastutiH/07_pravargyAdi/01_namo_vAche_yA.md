@@ -26,7 +26,7 @@ title = "०१ नमो॑ वा॒चे"
 <details><summary>मूलम्</summary>
 
 नमो॑ वा॒चे या चो॑दि॒ता या चानु॑दिता॒  
-तस्यै॑ वा॒चे नमो॒
+तस्यै॑ वा॒चे नमो॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -66,7 +66,7 @@ salutation to the lord of the speech (Vācaspati);
 
 <details><summary>मूलम्</summary>
 
-नमो॑ वा॒चस्पत॑ये॒
+नमो॑ वा॒चस्पत॑ये
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -86,7 +86,7 @@ salutation to the seers, the makers of the Mantras, the lords of the Mantras;
 
 <details><summary>मूलम्</summary>
 
-नम॒ ऋषि॑भ्यो मन्त्र॒कृद्भ्यो॒ मन्त्र॑पतिभ्यो॒
+नम॒ ऋषि॑भ्यो मन्त्र॒कृद्भ्यो॒ मन्त्र॑पतिभ्यो
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -106,7 +106,7 @@ may not the seers, the makers of the Mantras, the lords of the Mantras disobey m
 
 <details><summary>मूलम्</summary>
 
-मा मामृष॑यो मन्त्र॒कृतो॑ मन्त्र॒पत॑यः॒ परा॑दु॒र्
+मा मामृष॑यो मन्त्र॒कृतो॑ मन्त्र॒पत॑यः॒ परा॑दुर्
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -136,7 +136,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वै᳓श्व᳓देवीव्ँ᳓ वा᳓चमुद्यासँ
+वैश्वदेवीव्ँ᳓ वा᳓चमुद्यासँ
 शिवा᳓म् अ᳓दस् तां जु᳓ष्टान् देवे᳓भ्यः
 </details>
 
@@ -147,7 +147,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>मूलम्</summary>
 
-वैश्वदे॒वीव्ँ वाच॑मुद्यासँ
+वै॒श्व॒दे॒वीव्ँ वाच॑मुद्यासँ
 शि॒वामद॑स्तां॒ जुष्टा॑न् दे॒वेभ्यः॒…
 </details>
 
@@ -199,7 +199,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>मूलम्</summary>
 
-भू॒तव्ँ व॑दिष्ये॒, भुव॑नव्ँ वदिष्ये॒, तेजो॑ वदिष्ये॒, यशो॑ वदिष्ये॒, तपो॑ वदिष्ये॒, ब्रह्म॑ वदिष्ये, स॒त्यव्ँ व॑दिष्ये॒,
+भू॒तव्ँ व॑दिष्ये॒, भुव॑नव्ँ वदिष्ये॒, तेजो॑ वदिष्ये॒, यशो॑ वदिष्ये॒, तपो॑ वदिष्ये॒, ब्रह्म॑ वदिष्ये, स॒त्यव्ँ व॑दिष्ये,
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -240,7 +240,7 @@ may there be bed (shelter) for my offspring, cattle; may I become bed (shelter) 
 
 <details><summary>मूलम्</summary>
 
-उप॒स्तर॑णं मे प्र॒जायै॑ पशू॒नां भू॑यादुप॒स्तर॑णम॒हं प्र॒जायै॑ पशू॒नां भू॑यासं॒
+उप॒स्तर॑णं मे प्र॒जायै॑ पशू॒नां भू॑यादुप॒स्तर॑णम॒हं प्र॒जायै॑ पशू॒नां भू॑यासं
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -260,7 +260,7 @@ may there be bed (shelter) for my offspring, cattle; may I become bed (shelter) 
 
 <details><summary>मूलम्</summary>
 
-प्राणा॑पानौ मृ॒त्योर्मा॑ पातं॒
+प्राणा॑पानौ मृ॒त्योर्मा॑ पातं
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -280,7 +280,7 @@ may Prāṇa and Apāna do not leave me.
 
 <details><summary>मूलम्</summary>
 
-प्राणा॑पानौ॒ मा मा॑ हासिष्टं॒
+प्राणा॑पानौ॒ मा मा॑ हासिष्टं
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

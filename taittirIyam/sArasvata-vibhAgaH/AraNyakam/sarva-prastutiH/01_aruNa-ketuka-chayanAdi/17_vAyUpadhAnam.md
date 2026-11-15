@@ -9,9 +9,9 @@ Mantras for placing bricks.
 *(Mantras 1–2)* Address to wind (eleven male and eleven female Rudras).
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓थ᳓ वा᳓यो᳓रे᳓का᳓द᳓श᳓पु᳓रु᳓ष᳓स्यै᳓का᳓द᳓शस्त्रीकस्य᳓ ।
+अथ वायोरेकादशपुरुषस्यैकादशस्त्रीकस्य ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -41,9 +41,9 @@ Mantras for placing bricks.
 
 ## ११ रुद्राः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-प्र᳓भ्रा᳓ज᳓मा᳓ना᳓नाँ᳓ रु᳓द्रा᳓णा᳓नाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+प्रभ्राजमानानाँ रुद्राणानाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -61,9 +61,9 @@ Mantras for placing bricks.
 "प्रभ्राजमानास् तया देवतया" इत्यादिरुपधानमन्त्रक्रमः । प्रभ्राजमानाः प्रकर्षेण विराजमाना
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-व्य᳓व᳓दा᳓ता᳓नाँ᳓ रु᳓द्रा᳓णाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+व्यवदातानाँ रुद्राणाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -81,9 +81,9 @@ May we shine with our own brilliance at the place of Vyavadata Rudras.
 व्यवदाता विशेषेणावदाता शुद्धा या इति लिङ्गव्यत्ययः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-वा᳓सु᳓कि᳓वै᳓द्यु᳓ता᳓नाँ᳓ रु᳓द्रा᳓णाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+वासुकिवैद्युतानाँ रुद्राणाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -101,9 +101,9 @@ May we shine with our own brilliance at the place of Vasuki-Vaidyuta Rudras.
 वासुकिर्वैद्युता वासुकिवद् वर्णतो विद्योतमाना
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-र᳓ज᳓ता᳓नाँ᳓ रु᳓द्रा᳓णाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+रजतानाँ रुद्राणाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -121,9 +121,9 @@ May we shine with our own brilliance at the place of Rajata Rudras.
 रजता रजतवर्णाः
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-प᳓रु᳓षा᳓णाँ᳓ रु᳓द्रा᳓णाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+परुषाणाँ रुद्राणाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -141,9 +141,9 @@ May we shine with our own brilliance at the place of Paruṣa Rudras.
 पुरुषा रूक्षाः
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-श्या᳓मा᳓नाँ᳓ रु᳓द्रा᳓णाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+श्यामानाँ रुद्राणाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -161,9 +161,9 @@ May we shine with our own brilliance at the place of Shyama Rudras.
 श्यामाः श्यामच्छायाः
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-क᳓पि᳓ला᳓नाँ᳓ रु᳓द्रा᳓णाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+कपिलानाँ रुद्राणाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -181,9 +181,9 @@ May we shine with our own brilliance at the place of Kapila Rudras.
 कपिलाः कपिलच्छाया
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓ति᳓लो᳓हि᳓ता᳓नाँ᳓ रु᳓द्रा᳓णाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+अतिलोहितानाँ रुद्राणाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -201,9 +201,9 @@ May we shine with our own brilliance at the place of Atilohita Rudras.
 अतिलोहिता अतिलोहितप्रभा
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ऊर्ध्वा᳓नाँ᳓ रु᳓द्रा᳓णाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।  
+ऊर्ध्वानाँ रुद्राणाँ स्थाने स्वतेजसा भानि ।  
 [69]
 </details>
 
@@ -223,9 +223,9 @@ May we shine with our own brilliance at the place of Urdhva Rudras.
 ऊर्ध्वा ऊर्ध्ववृत्तयो
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓व᳓प᳓त᳓न्ता᳓नाँ᳓ रु᳓द्रा᳓णाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+अवपतन्तानाँ रुद्राणाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -243,9 +243,9 @@ May we shine with our own brilliance at the place of Avapatanta Rudras.
 अवपतन्ता अधोवृत्तयः । पतेरौणादिको झच् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-वै᳓द्यु᳓ता᳓नाँ᳓ रु᳓द्रा᳓णाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+वैद्युतानाँ रुद्राणाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -265,9 +265,9 @@ May we shine with our own brilliance at the place of Vaidyuta Rudras.
 
 ## ११ रुद्राण्यः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-प्र᳓भ्रा᳓ज᳓मा᳓नी᳓नाँ᳓ रु᳓द्रा᳓णी᳓नाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+प्रभ्राजमानीनाँ रुद्राणीनाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -285,9 +285,9 @@ May we shine with our own brilliance at the place of Prabhrajamani Rudranis.
 अत्रैषां मरुतां रुद्रतनुत्वाद् रुद्रतादात्म्यप्रतिपादनार्थं "रुद्राणां" इत्युक्तम् । एतत् स्त्रीणां च रुद्राण्या तादात्म्यप्रतिपादनार्थं स्त्रीमन्त्रेषु रुद्राणीग्रहणम् । यद्वा - रुद्रत्वे उपचरिते तेषां स्त्रियो रुद्राण्यो भवन्ति । तत्र गौणादपि "इन्द्रवरुण" इति स्त्रीप्रत्ययः, आनुगागमश्च । प्रभ्राजमानादिभ्यः पुंयोगवृत्तिभ्यः "पुंयोगादाख्यायम्" इति ङीप् । रजतादिभ्यो गुणवृत्तिभ्यष्टाबेव ॥१॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-व्य᳓व᳓दा᳓ती᳓नाँ᳓ रु᳓द्रा᳓णी᳓नाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+व्यवदातीनाँ रुद्राणीनाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -300,9 +300,9 @@ May we shine with our own brilliance at the place of Vyavadati Rudranis.
 व्यवदातीनाँ रुद्राणीनाँ स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-वा᳓सु᳓कि᳓वै᳓द्यु᳓ती᳓नाँ᳓ रु᳓द्रा᳓णी᳓नाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+वासुकिवैद्युतीनाँ रुद्राणीनाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -315,9 +315,9 @@ May we shine with our own brilliance at the place of Vasuki-Vaidyuti Rudranis.
 वासुकिवैद्युतीनाँ रुद्राणीनाँ स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-र᳓ज᳓ता᳓नाँ᳓ रु᳓द्रा᳓णी᳓नाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+रजतानाँ रुद्राणीनाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -330,9 +330,9 @@ May we shine with our own brilliance at the place of Rajata Rudranis.
 रजतानाँ रुद्राणीनाँ स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-प᳓रु᳓षा᳓णाँ᳓ रु᳓द्रा᳓णी᳓नाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+परुषाणाँ रुद्राणीनाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -345,9 +345,9 @@ May we shine with our own brilliance at the place of Paruṣa Rudranis.
 परुषाणाँ रुद्राणीनाँ स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-श्या᳓मा᳓नाँ᳓ रु᳓द्रा᳓णी᳓नाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+श्यामानाँ रुद्राणीनाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -360,9 +360,9 @@ May we shine with our own brilliance at the place of Shyama Rudranis.
 श्यामानाँ रुद्राणीनाँ स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-क᳓पि᳓ला᳓नाँ᳓ रु᳓द्रा᳓णी᳓नाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+कपिलानाँ रुद्राणीनाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -375,9 +375,9 @@ May we shine with our own brilliance at the place of Kapila Rudranis.
 कपिलानाँ रुद्राणीनाँ स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓ति᳓लो᳓हि᳓ती᳓नाँ᳓ रु᳓द्रा᳓णी᳓नाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+अतिलोहितीनाँ रुद्राणीनाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -390,9 +390,9 @@ May we shine with our own brilliance at the place of Atilohiti Rudranis.
 अतिलोहितीनाँ रुद्राणीनाँ स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ऊर्ध्वा᳓नाँ᳓ रु᳓द्रा᳓णी᳓नाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+ऊर्ध्वानाँ रुद्राणीनाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -405,9 +405,9 @@ May we shine with our own brilliance at the place of Urdhva Rudranis.
 ऊ॒र्ध्वानाँ रुद्राणीनाँ स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓व᳓प᳓त᳓न्ती᳓नाँ᳓ रु᳓द्रा᳓णी᳓नाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+अवपतन्तीनाँ रुद्राणीनाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -420,9 +420,9 @@ May we shine with our own brilliance at the place of Avapatanti Rudranis.
 अवपतन्तीनाँ रुद्राणीनाँ स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-वै᳓द्यु᳓ती᳓नाँ᳓ रु᳓द्रा᳓णी᳓नाँ᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+वैद्युतीनाँ रुद्राणीनाँ स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -450,9 +450,9 @@ Om, Bhūr, Bhuvaḥ, Svaraḥ.
 ओंभूर्भव॒स्स्वः॑ ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-रू᳓पा᳓णि᳓ वो᳓ मि᳓थु᳓नं᳓ मा᳓ नो᳓ मि᳓थुनँ रीढ्व᳓म् ॥ [70]
+रूपाणि वो मिथुनं मा नो मिथुनँ रीढ्वम् ॥ [70]
 </details>
 
 <details><summary>त्रिभुवनः</summary>

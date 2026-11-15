@@ -24,7 +24,7 @@ O fire, protect us from the sin, Hail!
 
 <details><summary>मूलम् (आरण्यक-स्वरेण)</summary>
 
-पाहि᳓ नो᳓ अ᳓ग्न ए᳓नसे स्वा᳓हा ।
+पाहि नो अग्न एन॑से स्वा॒हा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -44,12 +44,12 @@ Protect us for knowledge of all, Hail!
 
 <details><summary>मूलम् (आरण्यक-स्वरेण)</summary>
 
-पाहि᳓ नो᳓ विश्व᳓वेदसे स्वा᳓हा ।
+पाहि नो विश्ववेद॑से स्वा॒हा ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (स्वाभाविक-स्वरेण)</summary>
 
-यज्ञं᳓ पाहि᳓ वि᳓भा᳓व᳓सो स्वा᳓हा ।
+यज्ञं᳓ पाहि᳓ विभावसो स्वा᳓हा ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -59,12 +59,12 @@ O Vibhāvasu (having the shining wealth), protect us for the sacrifice, Hail!
 
 <details><summary>मूलम् (आरण्यक-स्वरेण)</summary>
 
-यज्ञं᳓ पाहि᳓ वि᳓भा᳓व᳓सो स्वा᳓हा ।
+यज्ञं पाहि विभाव॑सो स्वा॒हा ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (स्वाभाविक-स्वरेण)</summary>
 
-स᳓र्वं पाहि᳓ श᳓त᳓क्र᳓तो स्वा᳓हा । (15)
+स᳓र्वं पाहि᳓ शतक्रतो स्वा᳓हा । (15)
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -74,5 +74,5 @@ O hundred-powered one, protect, protect all!
 
 <details><summary>मूलम् (आरण्यक-स्वरेण)</summary>
 
-स᳓र्वं पाहि᳓ श᳓त᳓क्र᳓तो स्वा᳓हा । (15)
+सर्वं पाहि शतक्र॑तो स्वा॒हा । (15)
 </details>

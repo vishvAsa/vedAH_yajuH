@@ -289,7 +289,7 @@ you are the nature of the places of the gods,
 
 <details><summary>मूलम्</summary>
 
-दे॒वाना॒न् धाम॒ नामा॑सि॒।
+दे॒वाना॒न् धाम॒ नामा॑सि।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
@@ -328,10 +328,10 @@ winner, Om, I invoke Gayatri.
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/30_uttame_shikhare.md">
 
-उत्त᳓मे शि᳓खरे देवी  
-भूम्यां᳓ पर्वतमू᳓र्धनि ।  
-ब्राह्मणे᳙भ्यो᳓ ह्य् अनुज्ञानङ्  
-गच्छ᳓ देवि यथा᳓सुखम् । (45)
+उत्तमे शिखरे देवी  
+भूम्यां पर्वतमूर्धनि ।  
+ब्राह्मणेभ्यो ह्य् अनुज्ञानङ्  
+गच्छ देवि यथासुखम् । (45)
 
 </div>
 

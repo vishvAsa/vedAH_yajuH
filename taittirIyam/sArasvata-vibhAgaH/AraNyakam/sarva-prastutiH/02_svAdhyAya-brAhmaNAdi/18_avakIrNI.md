@@ -30,7 +30,7 @@ Atonement for the violation of the vow of chastity. (From 1 to 8).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-च᳓तुर्धे᳓त्याहुर् ब्रह्मवादि᳓नो -
+चतुर्धे᳓त्याहुर् ब्रह्मवादि᳓नो -
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -40,7 +40,7 @@ The speakers of the sacred knowledge say: in four ways,
 
 <details><summary>मूलम्</summary>
 
-चतु॒र्धेत्या॑हुर् ब्रह्मवा॒दिनो॑ -
+च॒तु॒र्धेत्या॑हुर् ब्रह्मवा॒दिनो॑ -
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -75,7 +75,7 @@ by the vigours to Indra,
 
 <details><summary>मूलम्</summary>
 
-इन्द्रं॒ बले॑न॒,
+इन्द्रं॒ बले॑न,
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -203,7 +203,7 @@ he puts in himself the ghee, the nectar.
 
 <details><summary>मूलम्</summary>
 
-हु॒त्वा प्रय॑ताञ्ज॒लिः कवा॑तिर्यङ्ङ्+++(=ईषत्तिर्यङ्)+++ अ॒ग्निम॒भिम॑न्त्रयेत॒ -
+हु॒त्वा प्रय॑ताञ्ज॒लिः कवा॑तिर्यङ्ङ्+++(=ईषत्तिर्यङ्)+++ अ॒ग्निम॒भिम॑न्त्रयेत -
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -233,7 +233,7 @@ he puts in himself the ghee, the nectar.
 
 <details><summary>मूलम्</summary>
 
-"सम्मा॑ऽऽसिञ्चन्तु म॒रुत॒स् समिन्द्र॒स् सं बृह॒स्पतिः॑ । सम्मा॒यम॒ग्निस् सि॑ञ्च॒त्वायु॑षा च॒ बले॑न॒ चायु॑ष्मन्तङ् करोत॒ मा" इति।
+"सम्मा॑ऽऽसिञ्चन्तु म॒रुत॒स् समिन्द्र॒स् सं बृह॒स्पतिः॑ । सम्मा॒यम॒ग्निस् सि॑ञ्च॒त्वायु॑षा च॒ बले॑न॒ चायु॑ष्मन्तङ् करोत॒ मा" इति॑।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -253,7 +253,7 @@ he puts in himself the ghee, the nectar.
 
 <details><summary>मूलम्</summary>
 
-प्रति॑ हास्मै म॒रुतः॑ प्रा॒णान् द॑धति॒,
+प्रति॑ हास्मै म॒रुतः॑ प्रा॒णान् द॑धति,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -268,7 +268,7 @@ Indra puts vigour in him,
 
 <details><summary>मूलम्</summary>
 
-प्रतीन्द्रो॒ बलं॒,
+प्रतीन्द्रो॒ बलं॑,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -298,7 +298,7 @@ the fire puts all others in him,
 
 <details><summary>मूलम्</summary>
 
-प्रत्य॒ग्निरि॒तर॒त्सर्वँ॒।
+प्रत्य॒ग्निरि॒तर॒त्सर्वँ॑।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -338,7 +338,7 @@ becoming full in all the limbs of the body he obtains the whole (span of) life.
 
 <details><summary>मूलम्</summary>
 
-त्रिर॒भिम॑न्त्रयेत॒ -
+त्रिर॒भिम॑न्त्रयेत -
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -388,7 +388,7 @@ he makes (in this way) purified himself;
 
 <details><summary>मूलम्</summary>
 
-पुनी॑त ए॒वात्मान॒म्।
+पुनी॑त ए॒वात्मान॑म्।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -447,12 +447,12 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-च᳓तुर्धे᳓त्याहुर्ब्रह्मवादि᳓नो मरु᳓तः प्राणै᳓रि᳓न्द्रं ब᳓लेन बृ᳓हस्प᳓तिं ब्रह्मवर्चसे᳓नाग्नि᳓मेवे᳓तरेण स᳓र्वेण
+चतुर्धे᳓त्याहुर्ब्रह्मवादि᳓नो मरु᳓तः प्राणै᳓रि᳓न्द्रं ब᳓लेन बृ᳓हस्प᳓तिं ब्रह्मवर्चसे᳓नाग्नि᳓मेवे᳓तरेण स᳓र्वेण
 </details>
 
 <details><summary>मूलम्</summary>
 
-चतु॒र्धेत्या॑हुर्ब्रह्मवा॒दिनो॑ म॒रुतः॑ प्रा॒णैरिन्द्रं॒ बले॑न॒ बृह॒स्पतिं॑ ब्रह्मवर्च॒सेना॒ग्निमे॒वेत॑रेण॒ सर्वे॑ण॒
+च॒तु॒र्धेत्या॑हुर्ब्रह्मवा॒दिनो॑ म॒रुतः॑ प्रा॒णैरिन्द्रं॒ बले॑न॒ बृह॒स्पतिं॑ ब्रह्मवर्च॒सेना॒ग्निमे॒वेत॑रेण॒ सर्वे॑ण
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -472,7 +472,7 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 <details><summary>मूलम्</summary>
 
-यो ब्र॑ह्मचा॒र्य॑व॒किरे॑दमावा॒स्या॑याँ॒ रात्र्या॑म॒ग्निं प्र॒णीयो॑पसमा॒धाय॒ द्विराज्य॑स्योप॒घात॑ञ्जुहोति॒
+यो ब्र॑ह्मचा॒र्य॑व॒किरे॑दमावा॒स्या॑याँ॒ रात्र्या॑म॒ग्निं प्र॒णीयो॑पसमा॒धाय॒ द्विराज्य॑स्योप॒घात॑ञ्जुहोति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -482,7 +482,7 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 <details><summary>मूलम्</summary>
 
-कामाव॑कीर्णो॒ऽस्म्यव॑कीर्णोऽस्मि॒ काम॒ कामा॑य॒ स्वाहा॒
+कामाव॑कीर्णो॒ऽस्म्यव॑कीर्णोऽस्मि॒ काम॒ कामा॑य॒ स्वाहा॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -502,7 +502,7 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 <details><summary>मूलम्</summary>
 
-हु॒त्वा प्रय॑ताञ्ज॒लिः कवा॑तिर्यङ्ङ॒ग्निम॒भिम॑न्त्रयेत॒
+हु॒त्वा प्रय॑ताञ्ज॒लिः कवा॑तिर्यङ्ङ॒ग्निम॒भिम॑न्त्रयेत
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -512,7 +512,7 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 <details><summary>मूलम्</summary>
 
-सम्मा॑ऽऽसिञ्चन्तु म॒रुत॒स्समिन्द्र॒स्सं बृह॒स्पतिः॑ । सम्मा॒यम॒ग्निस्सि॑ञ्च॒त्वायु॑षा च॒ बले॑न॒ चायु॑ष्मन्तङ्करोत॒मेति॒
+सम्मा॑ऽऽसिञ्चन्तु म॒रुत॒स्समिन्द्र॒स्सं बृह॒स्पतिः॑ । सम्मा॒यम॒ग्निस्सि॑ञ्च॒त्वायु॑षा च॒ बले॑न॒ चायु॑ष्मन्तङ्करोत॒मेति॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -522,7 +522,7 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 <details><summary>मूलम्</summary>
 
-प्रति॑ हास्मै म॒रुतः॑ प्रा॒णान्द॑धति॒
+प्रति॑ हास्मै म॒रुतः॑ प्रा॒णान्द॑धति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -532,7 +532,7 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 <details><summary>मूलम्</summary>
 
-प्रतीन्द्रो॒ बलं॒
+प्रतीन्द्रो॒ बलं॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -552,7 +552,7 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 <details><summary>मूलम्</summary>
 
-प्रत्य॒ग्निरि॒तर॒त्सर्वँ॒
+प्रत्य॒ग्निरि॒तर॒त्सर्वँ॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -562,7 +562,7 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 <details><summary>मूलम्</summary>
 
-सर्व॑तनुर्भू॒त्वा सर्व॒मायु॑रेति॒
+सर्व॑तनुर्भू॒त्वा सर्व॒मायु॑रेति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -582,7 +582,7 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 <details><summary>मूलम्</summary>
 
-योऽपू॑त इव॒ मन्ये॑त॒ स इ॒त्थञ्जु॑हुयादि॒त्थम॒भिम॑न्त्रयेत॒ पुनी॑त ए॒वात्मान॒मायु॑रे॒वात्मन्ध॑त्ते॒
+योऽपू॑त इव॒ मन्ये॑त॒ स इ॒त्थञ्जु॑हुयादि॒त्थम॒भिम॑न्त्रयेत॒ पुनी॑त ए॒वात्मान॒मायु॑रे॒वात्मन्ध॑त्ते
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

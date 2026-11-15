@@ -21,7 +21,7 @@ Salutations. (From 1 to 3).
 <details><summary>मूलम्</summary>
 
 नमः॒ प्राच्यै॑ दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॒
+याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -38,7 +38,7 @@ Salutations. (From 1 to 3).
 <details><summary>मूलम्</summary>
 
 नमो॒ दक्षि॑णायै दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॒
+याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -55,7 +55,7 @@ salutation to the western quarter and salutation, salutation to those gods, who 
 <details><summary>मूलम्</summary>
 
 नमः॒ प्रती॑च्यै दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॒
+याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -72,7 +72,7 @@ salutation to the northern quarter and salutation, salutation to those gods, who
 <details><summary>मूलम्</summary>
 
 नम॒ उदी॑च्यै दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॒
+याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -89,7 +89,7 @@ salutation to the aboveward quarter and salutation, salutation to those gods, wh
 <details><summary>मूलम्</summary>
 
 नम॑ ऊ॒र्ध्वायै॑ दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॒
+याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -106,7 +106,7 @@ salutation to the belowward quarter and salutation, salutation to those gods, wh
 <details><summary>मूलम्</summary>
 
 नमोऽध॑रायै दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॒
+याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

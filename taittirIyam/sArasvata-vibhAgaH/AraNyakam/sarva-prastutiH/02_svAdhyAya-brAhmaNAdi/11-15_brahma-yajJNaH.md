@@ -26,7 +26,7 @@ The description of the sacrifice of the Brahman (sacred study) with the quotatio
 
 ब्र॒ह्म॒य॒ज्ञेन॑ य॒क्ष्यमा॑णः॒  
 प्राच्या॑न्दि॒शि ग्रामा॒द् अछ॑दिर्-द॒र्श+++(=छदतृणानि यथा न दृश्यन्ते)+++ उदी॑च्यां प्रागुदी॒च्याव्ँ वो॒दित॑ आदि॒त्ये  
-द॑क्षिण॒त उ॑प॒वीयो॑प॒विश्य॒
+द॑क्षिण॒त उ॑प॒वीयो॑प॒विश्य॑
 </details>
 
 ### आचमनम्
@@ -43,7 +43,7 @@ The description of the sacrifice of the Brahman (sacred study) with the quotatio
 
 <details><summary>मूलम्</summary>
 
-हस्ता॑व् अव॒निज्य॒+++(=प्रक्षाल्य)+++ त्रिर् आचा॑मे॒द्,
+हस्ता॑व् अव॒निज्य॒+++(=प्रक्षाल्य)+++ त्रिर् आचा॑मेद्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -233,7 +233,7 @@ Yajus (Om) is the representative of knowledge of the three Vedas; this is the sp
 
 <details><summary>मूलम्</summary>
 
-ए॒तद् वै यजु॑स्, त्रयीव्ँ वि॒द्यां प्रत्य् ए॒षा वाग्, ए॒तत् प॑र॒मम् अ॒क्षर॒न्,
+ए॒तद् वै यजु॑स्, त्रयीव्ँ वि॒द्यां प्रत्य् ए॒षा वाग्, ए॒तत् प॑र॒मम् अ॒क्षर॑न्,
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -706,7 +706,7 @@ Auf welchem Worte [oder welcher Silbe »Om«] des Preisliedes im höchsten Himme
 
 <details><summary>मूलम्</summary>
 
-त्रीन् ए॒व +++(वेद-सारान् लोक-त्रयात्मकान्)+++ प्रायु॑ङ्क्त॒ -
+त्रीन् ए॒व +++(वेद-सारान् लोक-त्रयात्मकान्)+++ प्रायु॑ङ्क्त -
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -773,7 +773,7 @@ which is the truth of the speech, he uses that.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓विता᳓ श्रि᳓यः प्रसविता᳓।
+सविता᳓ श्रि᳓यः प्रसविता᳓।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -783,7 +783,7 @@ The god Savitr is the impeller of the prosperity;
 
 <details><summary>मूलम्</summary>
 
-स॑वि॒ता श्रियः॑ प्रसवि॒ता।
+स॒वि॒ता श्रियः॑ प्रसवि॒ता।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -837,7 +837,7 @@ He should begin the verses (on the next day) after the read words (1).
 
 <details><summary>मूलम्</summary>
 
-ग्रामे॒ मन॑सा स्वाध्या॒यमधी॑यीत॒ -
+ग्रामे॒ मन॑सा स्वाध्या॒यमधी॑यीत -
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1056,7 +1056,7 @@ As to that this has been said:—
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"चित्र᳓न्देवा᳓नामु᳓दगाद् अ᳓नीकञ् च᳓क्षुर् मित्र᳓स्य व᳓रुणस्याग्नेः᳓ । आ᳓प्रा द्या᳓वापृथिवी᳓ अन्त᳓रिक्षँ सू᳓र्य आत्मा᳓ ज᳓गतस् तस्थु᳓षश्" चे᳓ति᳓।
+"चित्र᳓न्देवा᳓नामु᳓दगाद् अ᳓नीकञ् च᳓क्षुर् मित्र᳓स्य व᳓रुणस्याग्नेः᳓ । आ᳓प्रा द्या᳓वापृथिवी᳓ अन्त᳓रिक्षँ सू᳓र्य आत्मा᳓ ज᳓गतस् तस्थु᳓षश्" चे᳓ति।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -1066,7 +1066,7 @@ As to that this has been said:—
 
 <details><summary>मूलम्</summary>
 
-"चि॒त्रन्दे॒वाना॒मुद॑गा॒द् अनी॑क॒ञ् चक्षु॑र् मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः । आप्रा॒ द्यावा॑पृथि॒वी अ॒न्तरि॑क्षँ॒ सूर्य॑ आ॒त्मा जग॑तस् त॒स्थुष॒श्" चेति।
+"चि॒त्रन्दे॒वाना॒मुद॑गा॒द् अनी॑क॒ञ् चक्षु॑र् मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः । आप्रा॒ द्यावा॑पृथि॒वी अ॒न्तरि॑क्षँ॒ सूर्य॑ आ॒त्मा जग॑तस् त॒स्थुष॒श्" चेति॑।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1128,7 +1128,7 @@ the rain, the oblation;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्त᳓नयित्नु᳓र् वषट्कारो᳓,
+स्तनयित्नु᳓र् वषट्कारो᳓,
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -1138,7 +1138,7 @@ the roaring of the cloud, the Vasatkara;
 
 <details><summary>मूलम्</summary>
 
-स्त॑नयि॒त्नुर् व॑षट्का॒रो,
+स्त॒न॒यि॒त्नुर् व॑षट्का॒रो,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1205,12 +1205,12 @@ for the reading of one's lesson is, verily, an austerity.
 
 <details><summary>मूलम्</summary>
 
-तपो॑ हि स्वाध्या॒य इति।
+तपो॑ हि स्वाध्या॒य इति॑।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ᳓त्तम᳓न् ना᳓कँ रोहत्य्, उ᳓त्तम᳓स् समाना᳓नां भवति।
+उत्तम᳓न् ना᳓कँ रोहत्य्, उ᳓त्तम᳓स् समाना᳓नां भवति।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -1220,7 +1220,7 @@ for the reading of one's lesson is, verily, an austerity.
 
 <details><summary>मूलम्</summary>
 
-उ॑त्त॒मन् नाकँ॑ रोहत्य्, उत्त॒मस् स॑मा॒नानां॑ भवति।
+उ॒त्त॒मन् नाकँ॑ रोहत्य्, उत्त॒मस् स॑मा॒नानां॑ भवति।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1309,7 +1309,7 @@ Intermissions of study and the details and importance of the Brahma-Yajna. (From
 
 <details><summary>मूलम्</summary>
 
-समृ॑द्धिर् दैव॒तानि॒ ।
+समृ॑द्धिर् दैव॒तानि॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1416,7 +1416,7 @@ the gods destroyed that sin by the oblations;
 
 <details><summary>मूलम्</summary>
 
-तन्दे॒वा आहु॑तीभिः पा॒प्मान॒म् अपा॑घ्न॒न्,
+तन्दे॒वा आहु॑तीभिः पा॒प्मान॒म् अपा॑घ्नन्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1446,7 +1446,7 @@ of the sacrifice, by the Daksina (sacrificial fee);
 
 <details><summary>मूलम्</summary>
 
-य॒ज्ञस्य॒ दक्षि॑णाभि॒र्,
+य॒ज्ञस्य॒ दक्षि॑णाभिर्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1466,7 +1466,7 @@ of the Daksina, by the Brahmana;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रा᳓ह्मण᳓स्य छ᳓न्दोभिश्,
+ब्राह्मण᳓स्य छ᳓न्दोभिश्,
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -1476,12 +1476,12 @@ of the Brahmana, by the Mantras;
 
 <details><summary>मूलम्</summary>
 
-ब्राह्म॒णस्य॒ छन्दो॑भि॒श्,
+ब्रा॒ह्म॒णस्य॒ छन्दो॑भिश्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-छ᳓न्दसाँ स्वाध्याये᳓न᳓।
+छ᳓न्दसाँ स्वाध्याये᳓न।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -1491,7 +1491,7 @@ of the Mantras, by study of one's own lesson;
 
 <details><summary>मूलम्</summary>
 
-छन्द॑साँ स्वाध्या॒येन।
+छन्द॑साँ स्वाध्या॒येन॑।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1596,7 +1596,7 @@ he obtains the intimate relation with Fire, Wind, and Sun;
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्नेर्वा॒योरा॑दि॒त्यस्य॒ सायु॑ज्यङ्गच्छति॒
+अ॒ग्नेर्वा॒योरा॑दि॒त्यस्य॒ सायु॑ज्यङ्गच्छति
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -2,9 +2,9 @@
 title = "४२ अन्न-दानम्"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-न᳓ क᳓ञ्च᳓न᳓ व᳓स᳓तौ᳓ प्र᳓त्याचक्षीत᳓ ।
+न कञ्चन वसतौ प्रत्याचक्षीत ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -22,9 +22,9 @@ title = "४२ अन्न-दानम्"
 एतां चतुर्थीमुपासनां कुर्वन् न कश्चिदपि वसतौ अविद्वांसमपि वसतौ वसतिनिमत्तमागतम् अवकाशार्थिनं न प्रत्याचक्षीत । प्रत्याचक्षाणोऽप्यात्मानमेव प्रत्याचक्षीत । सर्वावकाशव्यापकान्नद्वयात्मकमात्मानं भावयेत् । कथमात्मानमेव प्रत्याचक्षीत ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓द्व्रत᳓म् ।
+तद्व्रतम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -42,9 +42,9 @@ That is the duty.
 तद्व्रतमिति तुल्यम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓स्मा᳓द्य᳓या᳓ क᳓या᳓ च᳓ वि᳓ध᳓या᳓ ब᳓ह्वन्नं प्राप्नु᳓या᳓त् ।
+तस्माद्यया कया च विधया बह्वन्नं प्राप्नुयात् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -62,9 +62,9 @@ Therefore, in any way whatsoever, one should obtain much food.
 तस्मादित्यादि ॥ यस्माद् अन्ननामिकां भूमिकामारूढेन कश्चिदपि वासार्थी न प्रत्याख्येयः वसता च अश्नता च वस्तव्यम् इतरथा दोषप्रसङ्गात् श्रुतेर् यथा 'किं प्रथमां रात्रिमाश्नाः' इत्यादि । तस्माद् यया कया च विधया प्रकारेण प्रतिविद्धेनापि कर्मणा बह्वन्नं प्राप्नुयात् सम्भृत्य निदधीत उपासनासामर्थ्यान्न दोषो भवति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓रा᳓द्ध्य᳓स्मा᳓ अ᳓न्न᳓मित्याचक्ष᳓ते᳓ ।
+अराद्ध्यस्मा अन्नमित्याचक्षते ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -82,9 +82,9 @@ Therefore, in any way whatsoever, one should obtain much food.
 तदेवाह - अराधीति । संसिद्धम् उपासनाबलेन सम्पन्नम् अस्मै एतदर्थतया सर्वमन्नं तस्मात् शूद्राद्यन्नमप्य् एतदीयमेवेति ब्रह्मवादिन आचक्षते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ए᳓त᳓द्वै᳓ मु᳓ख᳓तोऽन्नँ राद्ध᳓म् ।
+एतद्वै मुखतोऽन्नँ राद्धम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -102,9 +102,9 @@ This, verily, is the food cooked primarily;
 किञ्च - एतत्खलु उपासनाबलराद्धमन्नं मुखतो मध्यतोऽन्ततश्च राद्धं बालत्वं युवत्वं स्थविरत्वं शरीरावस्थात्रयसंसिद्धं नान्नान्तरवदेकैकावस्थोपलक्षणम् । यद्वा - त्रिष्वपि कालेषु राद्धं न तु कादाचित्कम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-मु᳓ख᳓तो᳓ऽस्मा᳓ अन्नँ राद्ध्य᳓ते᳓ ।
+मुखतोऽस्मा अन्नँ राद्ध्यते ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -117,9 +117,9 @@ This, verily, is the food cooked primarily;
 मुखतोऽस्मा अ॑न्नँ रा॒द्ध्यते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ए᳓त᳓द्वै᳓ म᳓द्ध्य᳓तोऽन्नँ राद्ध᳓म् ।
+एतद्वै मद्ध्यतोऽन्नँ राद्धम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -132,9 +132,9 @@ This, verily, is the food cooked in the middle;
 एतद्वै मद्ध्यतो॑ऽन्नँ रा॒द्धम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-म᳓द्ध्य᳓तो᳓ऽस्मा᳓ अन्नँ राद्ध्य᳓ते᳓ ।
+मद्ध्यतोऽस्मा अन्नँ राद्ध्यते ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -147,9 +147,9 @@ This, verily, is the food cooked in the middle;
 मद्ध्यतोऽस्मा अ॑न्नँ रा॒द्ध्यते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ए᳓त᳓द्वा᳓ अ᳓न्त᳓तोऽन्नँ राद्ध᳓म् ।
+एतद्वा अन्ततोऽन्नँ राद्धम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -162,9 +162,9 @@ This, verily, is the food cooked in the end;
 एतद्वा अन्ततो॑ऽन्नँ रा॒द्धम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓न्त᳓तो᳓ऽस्मा᳓ अन्नँ राद्ध्य᳓ते᳓ ।
+अन्ततोऽस्मा अन्नँ राद्ध्यते ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -177,9 +177,9 @@ This, verily, is the food cooked in the end;
 अन्ततोऽस्मा अ॑न्नँ रा॒द्ध्यते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-य᳓ एवव्ँ वेद᳓ ।
+य एवव्ँ वेद ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -197,9 +197,9 @@ He who knows this (he obtains the aforesaid things).
 एवं वेदित्रेऽपि मुखतो मध्यतोऽन्ततश्च अन्नं राद्धं भवति नोपासितुरेव ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-क्षे᳓म᳓ इति वाचि᳓ ।
+क्षेम इति वाचि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -217,9 +217,9 @@ As protection in speech,
 पुनरप्यानन्दोपासनाविशेषं दर्शयति - क्षेम इत्यादि ॥ वाचि शब्दे च आनन्दः क्षेम इत्युपासीत । क्षेमः सुखम् । स्वयं क्षेमवान् भवति । यद्वा - प्राणादिष्वन्नभावनामिव वाचि क्षेमभावनां भावयन् भवति योगिनो वागायत्तत्वात् सुखानाम् । यत्रयत्र येनयेन रूपेणानन्दं ब्रह्मोपास्ते । तत्रतत्र तद्रूपस्सम्पद्यत इति भावः । एवमुत्तरेष्वपि द्रष्टव्यम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-यो᳓ग᳓क्षे᳓म᳓ इ᳓ति᳓ प्राणापान᳓योः᳓ ।
+योगक्षेम इति प्राणापानयोः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -237,9 +237,9 @@ as acquisition and protection in the in-breath (prāṇa) and the out-breath (ap
 अलब्धाभिमतलाभो योगस् तद्धेतुः प्राण उद्यमरूपत्वात् । लब्धस्य पालन क्षेमस् तद्धेतुरपान उपसंहाररूपत्वात् । योगसहितः समः योगक्षेमः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-क᳓र्मेति हस्त᳓योः᳓ ।
+कर्मेति हस्तयोः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -257,9 +257,9 @@ as work in the hands,
 कर्मनिमित्तं हस्तौ, गतिनिमित्तं पादौ, विरेचनस्थानं पायुर् इत्य्
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ग᳓ति᳓रिति पाद᳓योः᳓ ।
+गतिरिति पादयोः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -272,9 +272,9 @@ as motion in the feet,
 गतिरि॑ति पा॒दयोः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-वि᳓मु᳓क्ति᳓रिति पायौ᳓ ।
+विमुक्तिरिति पायौ ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -287,9 +287,9 @@ as discharge in the anus:
 विमुक्तिरि॑ति पा॒यौ ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-इ᳓ति᳓ मा᳓नु᳓षीस्समाज्ञाः᳓ ।
+इति मानुषीस्समाज्ञाः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -307,9 +307,9 @@ these are the human worships (of Brahman).
 एता मानुषीर् मानुष्यः मनुष्यशरीरावयवपराः समाज्ञाः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓थ᳓ दैवीः᳓ ।
+अथ दैवीः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -322,9 +322,9 @@ Now the divine ones:
 अथ दै॒वीः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-तृ᳓प्ति᳓रिति वृष्टौ᳓ ।
+तृप्तिरिति वृष्टौ ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -342,9 +342,9 @@ as satisfaction in the rain,
 तृप्तिहेतुर् वृष्टिर् बलवन्मेघसङ्घट्टनजन्मा विद्युत् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ब᳓ल᳓मिति विद्यु᳓ति᳓ ।
+बलमिति विद्युति ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -357,9 +357,9 @@ as power in lightning,
 बलमि॑ति वि॒द्युति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-य᳓श᳓ इति पशु᳓षु᳓ ।
+यश इति पशुषु ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -377,9 +377,9 @@ as fame in the cattle,
 यशोहेतवः पशवः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ज्यो᳓ति᳓रि᳓ति᳓ नक्षत्रेषु᳓ ।
+ज्योतिरिति नक्षत्रेषु ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -397,9 +397,9 @@ as light in the stars,
 ज्योतिष्मन्ति नक्षत्राणि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-प्र᳓जा᳓ति᳓र᳓मृ᳓त᳓मा᳓न᳓न्द᳓ इत्युपस्थे᳓ ।
+प्रजातिरमृतमानन्द इत्युपस्थे ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -417,9 +417,9 @@ as procreation, immortality and bliss in the generative organ,
 प्रजातिः प्रजा अमृतम् आत्मनोऽमृतत्वं प्रजात्वेनावस्थानं यथा 'तदु ते मर्त्यामृतं' इति । आनन्दः सुखम् । एतत्त्रयहेतुर् उपस्थः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-स᳓र्व᳓मित्याकाशे᳓ ।
+सर्वमित्याकाशे ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -437,9 +437,9 @@ as all in space.
 सर्वतत्त्वमूर्तीनां प्रलयान् महत्त्वाच्च । तत्र सर्वत्रात्मत्वेन ब्रह्मत्वेनोपासिता स्वयमपि सर्व एव ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓त्प्र᳓ति᳓ष्ठे᳓त्युपासीत᳓ ।
+तत्प्रतिष्ठेत्युपासीत ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -457,9 +457,9 @@ as all in space.
 पुनश्च काम्यानुपासनाभेदानाह - तदित्यादि ॥ प्रतिष्ठारूपेण तद् आनन्दं ब्रह्म उपासीत प्रतिष्ठादिमान् भवति ब्रह्मात्मकत्वात् । तस्य प्रतिष्ठा क्षेत्रपश्वादिपौष्कल्यम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-प्र᳓ति᳓ष्ठावान्भव᳓ति᳓ ।
+प्रतिष्ठावान्भवति ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -472,9 +472,9 @@ as all in space.
 प्रतिष्ठा॑वान्भ॒वति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓न्म᳓ह᳓ इ᳓त्युपासीत᳓ ।
+तन्मह इत्युपासीत ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -492,9 +492,9 @@ as all in space.
 महः पूजा महत्त्वं वा ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-म᳓हान्भव᳓ति᳓ ।
+महान्भवति ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -507,9 +507,9 @@ as all in space.
 म॑हान्भ॒वति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓न्म᳓न᳓ इ᳓त्युपासीत᳓ ।
+तन्मन इत्युपासीत ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -527,9 +527,9 @@ as all in space.
 मनः मननं बहुमानो वा ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-मा᳓नवान्भव᳓ति᳓ ।
+मानवान्भवति ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -542,9 +542,9 @@ as all in space.
 मान॑वान्भ॒वति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓न्न᳓म᳓ इ᳓त्युपासीत᳓ ।
+तन्नम इत्युपासीत ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -562,9 +562,9 @@ as all in space.
 नमः प्रह्वीभावः । कामा अस्मै स्वयमेव सन्नम्यन्ते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-न᳓म्य᳓न्तेऽस्मै कामाः᳓ ।
+नम्यन्तेऽस्मै कामाः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -577,9 +577,9 @@ as all in space.
 नम्यन्ते॑ऽस्मै का॒माः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓द्ब्र᳓ह्मे᳓त्युपासीत᳓ ।
+तद्ब्रह्मेत्युपासीत ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -597,9 +597,9 @@ as all in space.
 ब्रह्म बृंहणं प्रपञ्चोन्मेषः बृंहणवान् भवति । शब्दब्रह्मणो वा ग्रहणम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ब्र᳓ह्मवान्भव᳓ति᳓ ।
+ब्रह्मवान्भवति ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -612,9 +612,9 @@ as all in space.
 ब्रह्म॑वान्भ॒वति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓द्ब्र᳓ह्म᳓णः᳓ प᳓रि᳓म᳓र᳓ इ᳓त्युपासीत᳓ ।
+तद्ब्रह्मणः परिमर इत्युपासीत ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -632,10 +632,10 @@ as all in space.
 परितः सर्वतः म्रियन्ते सर्वेऽप्यस्मिन् इति वा परिमरः महार्थसंहारः परं ब्रह्मण आकारः । यद्वा - प्रपञ्चब्रह्मणः परितो नाशः परिमरः । तद्भावेनानन्दब्रह्मण उपासितारम् एणम् एनं छान्दसं णत्वम् एनं परि लक्षीकल्प सत्पार्श्वमागत्य म्रियन्ते द्विषन्तः सपत्ना द्वेष्टारः शत्रवः ये चान्ये अप्रिया भ्रातृव्या देष्यभूताः शत्रवस् ते च परिम्रियन्ते ।।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-प᳓र्ये᳓णं᳓ म्रि᳓य᳓न्ते᳓ द्वि᳓ष᳓न्तस्सपत्नाः᳓ ।  
-प᳓रि᳓ येऽप्रि᳓या भ्रातृव्याः᳓ ।
+पर्येणं म्रियन्ते द्विषन्तस्सपत्नाः ।  
+परि येऽप्रिया भ्रातृव्याः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -648,9 +648,9 @@ as all in space.
 पर्येणं म्रियन्ते द्विषन्त॑स्सप॒त्नाः । परि ये॑ऽप्रिया॑ भ्रातृ॒व्याः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-स᳓ य᳓श् चायं पुरु᳓षे᳓ । य᳓श् चा᳓सावादित्ये᳓ । स᳓ ए᳓कः ।
+स यश् चायं पुरुषे । यश् चासावादित्ये । स एकः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -668,10 +668,10 @@ He who is in the man and who is in the sun—he is one. (4)
 स यश्चायम् इति ॥ व्याख्यातम् ! एवम् इत्थं विद्वान् उपासको ऽस्माल्लोकात् प्रेत्य अन्नमयादीन् कोशान् उपसङ्क्रम्य तदात्मतया वशीकारं लब्ध्वा इमान् तदुपादानान् लोकान् अनुसञ्चरन् यत्रयत्र इच्छति तत्रतत्रानुक्रमेण सञ्चरन् कामान्नी यथाऽभिलषितादनशक्तिः कामरूपी यथाभिलषितरूपपरिग्रहसमर्थस्सन् एतद् वक्ष्यमाणं साम गायन् आस्ते ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-स᳓ य एवव्ँ-वि᳓त् । अस्मा᳓ल् लोका᳓त् प्रे᳓त्य ।  
-एत᳓म् अ᳓न्नमयम् आत्मा᳓नम् उ᳓पसङ्क्रम्य᳓ ।
+स य एवव्ँ-वित् । अस्माल् लोकात् प्रेत्य ।  
+एतम् अन्नमयम् आत्मानम् उपसङ्क्रम्य ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -684,9 +684,9 @@ He who knows this, after departing from this world, proceeding on to this self, 
 स य॑ एवव्ँ॒ वित् । अस्माल्लो॑कात्प्रे॒त्य । एतमन्नमयमात्मानमुप॑सङ्क्र॒म्य ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ए᳓तं᳓ प्रा᳓ण᳓म᳓य᳓मा᳓त्मा᳓न᳓मु᳓पसङ्क्रम्य᳓ ।
+एतं प्राणमयमात्मानमुपसङ्क्रम्य ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -699,9 +699,9 @@ proceeding on to this self, consisting of breath;
 एतं प्राणमयमात्मानमुप॑सङ्क्र॒म्य ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ए᳓तं᳓ म᳓नो᳓म᳓य᳓मा᳓त्मा᳓न᳓मु᳓पसङ्क्रम्य᳓ ।
+एतं मनोमयमात्मानमुपसङ्क्रम्य ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -714,9 +714,9 @@ proceeding on to this self, consisting of mind;
 एतं मनोमयमात्मानमुप॑सङ्क्र॒म्य ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ए᳓तं᳓ वि᳓ज्ञा᳓न᳓म᳓य᳓मा᳓त्मा᳓न᳓- मु᳓पसङ्क्रम्य᳓ ।
+एतं विज्ञानमयमात्मान- मुपसङ्क्रम्य ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -729,9 +729,9 @@ proceeding on to this self, consisting of knowledge;
 एतं विज्ञानमयमात्मान- मुप॑सङ्क्र॒म्य ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ए᳓त᳓मा᳓न᳓न्द᳓म᳓य᳓मा᳓त्मा᳓न᳓मु᳓पसङ्क्रम्य᳓ ।
+एतमानन्दमयमात्मानमुपसङ्क्रम्य ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -744,9 +744,9 @@ proceeding on to this self, consisting of bliss;
 एतमानन्दमयमात्मानमुप॑सङ्क्र॒म्य ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-इ᳓माल्ँ᳓ लो᳓का᳓न्का᳓मा᳓न्नी᳓ का᳓म᳓रू᳓प्यनुसञ्च᳓र᳓न् । ए᳓त᳓त्सा᳓म᳓ गायन्नास्ते᳓ ।
+इमाल्ँ लोकान्कामान्नी कामरूप्यनुसञ्चरन् । एतत्साम गायन्नास्ते ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>

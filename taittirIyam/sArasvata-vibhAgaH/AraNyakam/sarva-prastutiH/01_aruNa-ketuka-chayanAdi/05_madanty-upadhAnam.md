@@ -21,12 +21,12 @@ Propitiatory mantras have been given in this Anuvaka.
 *(Mantras 1–4)* Mantras to be uttered before and after placing the bricks.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (स्वराः पूर्याः)</summary>
 
-अ᳓तिताम्रा᳓णि वासाँसि᳓ ।  
-अष्टि᳓ वज्रि शत᳓घ्नि च ।  
-वि᳓श्वे᳓दे᳓वा᳓ वि᳓प्रहरन्ति᳓ ।  
-अग्नि᳓जिह्वा अस᳓श्चत ।
+अतिताम्राणि वासाँसि ।  
+अष्टि वज्रि शतघ्नि च ।  
+विश्वेदेवा विप्रहरन्ति ।  
+अग्निजिह्वा असश्चत ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -52,12 +52,12 @@ Propitiatory mantras have been given in this Anuvaka.
 अथ द्वितीया - **नैवेति** ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-नै᳓व᳓ दे᳓वो न मर्त्यः᳓ ।  
-न᳓ रा᳓जा᳓ वरुणो वि᳓भुः᳓ ।  
-ना᳓ग्नि᳓र्ने᳓न्द्रो᳓ न᳓ पवमानः᳓ ।  
-मातृ᳓क्कच्चन वि᳓द्यते ।
+नैव देवो न मर्त्यः ।  
+न राजा वरुणो विभुः ।  
+नाग्निर्नेन्द्रो न पवमानः ।  
+मातृक्कच्चन विद्यते ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -83,12 +83,12 @@ Propitiatory mantras have been given in this Anuvaka.
 अथ तृतीया - **दिवीति** ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (स्वराः पूर्याः)</summary>
 
-दिव्य᳓स्यै᳓का ध᳓नुरार्त्निः ।  
-पृथिव्या᳓म᳓परा श्रिता᳓ । [15]  
-त᳓स्ये᳓न्द्रो᳓ व᳓म्रिरूपेण᳓ ।  
-धनु᳓र्ज्यामछिन᳓त्स्वयम् ।
+दिव्यस्यैका धनुरार्त्निः ।  
+पृथिव्यामपरा श्रिता । [15]  
+तस्येन्द्रो वम्रिरूपेण ।  
+धनुर्ज्यामछिनत्स्वयम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -114,12 +114,12 @@ Propitiatory mantras have been given in this Anuvaka.
 अथ चतुर्थी
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓दिन्द्रध᳓नुरित्यज्य᳓म् ।  
-अभ्र᳓वर्णेषु च᳓क्षते ।  
+तदिन्द्रधनुरित्यज्यम् ।  
+अभ्रवर्णेषु चक्षते ।  
 एतदेव शय्ँयोर्बार्हस्पत्यस्य ।  
-एत᳓द्रुद्रस्य ध᳓नुः᳓ ।
+एतद्रुद्रस्य धनुः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>

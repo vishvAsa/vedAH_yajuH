@@ -52,12 +52,12 @@ In this Anuvaka also the Mantras are for placing the bricks on the altar.
 अथ द्वितीया - **कनकाभानीति** ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (स्वराः पूर्याः)</summary>
 
-कनकाभा᳓नि वासाँसि᳓ ।  
-अह᳓तानि निबो᳓धत ।  
-अ᳓न्न᳓म᳓श्नी᳓त मृज्मीत᳓ ।  
-अहव्ँ᳓ वो जीवन᳓प्रदः ।
+कनकाभानि वासाँसि ।  
+अहतानि निबोधत ।  
+अन्नमश्नीत मृज्मीत ।  
+अहव्ँ वो जीवनप्रदः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -83,12 +83,12 @@ In this Anuvaka also the Mantras are for placing the bricks on the altar.
 अथ तृतीया - **एता इति** ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-एता᳓ वाचः᳓ प्रयुज्यन्ते᳓ ।  
-शर᳓द्यत्रोपदृ᳓श्यते । [12]
+एता वाचः प्रयुज्यन्ते ।  
+शरद्यत्रोपदृश्यते । [12]
 अभिधून्वन्तोऽभिघ्नन्त इव ।  
-वात᳓वन्तो मरु᳓द्गणाः ।
+वातवन्तो मरुद्गणाः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -114,12 +114,12 @@ In this Anuvaka also the Mantras are for placing the bricks on the altar.
 अथ चतुर्थी - **अमुत इति** ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 अमुतो जेतुमिषुमुखमिव ।  
-स᳓न्न᳓द्धा᳓स्स᳓ह᳓ ददृशे ह᳓ ।  
+सन्नद्धास्सह ददृशे ह ।  
 अपध्वस्तैर्वस्तिवर्णैरिव ।  
-विशिखा᳓सः कपर्दि᳓नः᳓ ।
+विशिखासः कपर्दिनः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -145,12 +145,12 @@ In this Anuvaka also the Mantras are for placing the bricks on the altar.
 अथ पञ्चमी
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓क्रु᳓द्ध᳓स्य᳓ यो᳓त्स्यमानस्य᳓ ।  
-क्रुद्ध᳓स्येव लो᳓हिनी ।  
-हे᳓म᳓त᳓श्च᳓क्षुषी विद्या᳓त् ।  
-अक्ष्ण᳓योः क्षिपणो᳓रिव । [13]
+अक्रुद्धस्य योत्स्यमानस्य ।  
+क्रुद्धस्येव लोहिनी ।  
+हेमतश्चक्षुषी विद्यात् ।  
+अक्ष्णयोः क्षिपणोरिव । [13]
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -176,12 +176,12 @@ In this Anuvaka also the Mantras are for placing the bricks on the altar.
 अथ षष्ठी - **दुर्भिक्षमिति**॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (स्वराः पूर्याः)</summary>
 
-दु᳓र्भि᳓क्ष᳓न्दे᳓वलोकेषु᳓ ।  
-मनू᳓नामुदक᳓ङ्गृहे ।  
-एता᳓ वाचः᳓ प्रवदन्तीः᳓ ।  
-वैद्यु᳓तो यान्ति शै᳓शिरीः ।
+दुर्भिक्षन्देवलोकेषु ।  
+मनूनामुदकङ्गृहे ।  
+एता वाचः प्रवदन्तीः ।  
+वैद्युतो यान्ति शैशिरीः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -261,11 +261,11 @@ As to that this is (said):—
 A Rc has been quoted.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (स्वराः पूर्याः)</summary>
 
-इहे᳓ह᳓ वस्स्वतप᳓सः᳓ ।  
-म᳓रुतस्सू᳓र्यत्वचः ।  
-श᳓र्म सप्र᳓था आ᳓वृणे ॥ [14]
+इहेह वस्स्वतपसः ।  
+मरुतस्सूर्यत्वचः ।  
+शर्म सप्रथा आवृणे ॥ [14]
 </details>
 
 <details><summary>त्रिभुवनः</summary>

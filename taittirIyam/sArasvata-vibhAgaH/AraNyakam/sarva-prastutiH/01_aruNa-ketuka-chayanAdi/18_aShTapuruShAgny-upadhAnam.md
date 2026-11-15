@@ -10,9 +10,9 @@ Mantras for placing bricks.
 *(Mantras 1–2)* Addresses to eight fires of eight quarters.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓था᳓ग्नेर᳓ष्ट᳓पुरुषस्य᳓ ।
+अथाग्नेरष्टपुरुषस्य ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -30,9 +30,9 @@ Mantras for placing bricks.
 अथाग्नेरष्टपुरुषस्य "अग्निश्च जातवेदाश्च" इत्यष्टपुरुषवत उपधानमन्त्रा उच्यन्ते । यदा "अग्निश्च तया देवतया" इत्यादिना अग्न्यादिभिर् नामभिर् अध्वर्युरुपदधाति तदा "अग्नेः पूर्वदिश्यस्य स्थाने" इत्यादिना क्रमेण यजमान उपधायान्ते "ॐ भूर्भुवस्स्वः । दिशो वः" इत्युपतिष्ठते, दिग्विशेषावस्थितत्वादेषाम् । पूर्वस्यां दिशि भवः पूर्वदिश्यः । "दिगादिभ्यो यत्" तदन्तादपि प्रवर्तते । उपदिक् कोणदिक् । सहोजस इति । एमन्नादित्वात् पररूपत्वम् । अजिराप्रभव इति । अजिराप्रभोरित्यर्थः । "ङसिङसोश्च" इति पूर्वरूपत्वं व्यत्ययेन न प्रवर्तते ॥१॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓ग्नेः᳓ पू᳓र्व᳓दि᳓श्य᳓स्य᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+अग्नेः पूर्वदिश्यस्य स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -45,9 +45,9 @@ Mantras for placing bricks.
 अग्नेः पूर्वदिश्यस्य स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-जा᳓त᳓वे᳓द᳓स᳓ उ᳓प᳓दि᳓श्य᳓स्य᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+जातवेदस उपदिश्यस्य स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -60,9 +60,9 @@ May we shine with our own brilliance at the place of Jātavedas of the intermedi
 जातवेदस उपदिश्यस्य स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-स᳓हो᳓ज᳓सो᳓ द᳓क्षि᳓ण᳓दि᳓श्य᳓स्य᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+सहोजसो दक्षिणदिश्यस्य स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -75,9 +75,9 @@ May we shine with our own brilliance at the place of Sahojas of the southern qua
 सहोजसो दक्षिणदिश्यस्य स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-अ᳓जि᳓रा᳓प्र᳓भ᳓व᳓ उ᳓प᳓दि᳓श्य᳓स्य᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+अजिराप्रभव उपदिश्यस्य स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -90,9 +90,9 @@ May we shine with our own brilliance at the place of Ajiraprabhava of the interm
 अजिराप्रभव उपदिश्यस्य स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-वै᳓श्वा᳓न᳓र᳓स्या᳓प᳓र᳓दि᳓श्य᳓स्य᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+वैश्वानरस्यापरदिश्यस्य स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -105,9 +105,9 @@ May we shine with our own brilliance at the place of Vaiśvānara of the western
 वैश्वानरस्यापरदिश्यस्य स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-न᳓र्या᳓प᳓स᳓ उ᳓प᳓दि᳓श्य᳓स्य᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+नर्यापस उपदिश्यस्य स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -120,9 +120,9 @@ May we shine with our own brilliance at the place of Maryāpadas of the intermed
 नर्यापस उपदिश्यस्य स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-प᳓ङ्क्ति᳓रा᳓ध᳓स᳓ उ᳓द᳓ग्दि᳓श्य᳓स्य᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+पङ्क्तिराधस उदग्दिश्यस्य स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -135,9 +135,9 @@ May we shine with our own brilliance at the place of Paṅktiradhas of the north
 पङ्क्तिराधस उदग्दिश्यस्य स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-वि᳓स᳓र्पि᳓ण᳓ उ᳓प᳓दि᳓श्य᳓स्य᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+विसर्पिण उपदिश्यस्य स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -165,9 +165,9 @@ Om, Bhūr, Bhuvaḥ, Svaraḥ.
 ओंभूर्भुव॒स्स्वः॑ ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-दि᳓शो᳓ वो᳓ मि᳓थु᳓नं᳓ मा᳓ नो᳓ मि᳓थुनँ रीढ्वम् ॥ [71]
+दिशो वो मिथुनं मा नो मिथुनँ रीढ्वम् ॥ [71]
 </details>
 
 <details><summary>त्रिभुवनः</summary>

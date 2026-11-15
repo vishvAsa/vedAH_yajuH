@@ -59,14 +59,14 @@ May the Durva-grass, the goddess, better than thousands, having hundred roots, t
 स्नानकाले मृद्ग्रहणमन्त्राः - अश्वक्रान्त इत्याद्याः । प्रथमा अनुष्टुप् । उद्धृताऽसीति द्वितीया परोष्णिक् । मृत्तिके हनेति तृतीया अनुष्टुप् । मृत्तिके देहीति चतुर्थ्यनुष्टुबेव । तस्याः पूर्वमर्धर्चं केचिदधीयते त्वया हतेनेति । द्वितीयमधर्चमनुषङ्गेणेच्छन्ति । अन्ये त्व् अन्यमर्धर्चमधीयते - यद्दैवं यच्च मानुषं ब्रह्मदत्ताऽसि काश्यपि इति ।गन्धद्वारामित्यनुष्टुप् ।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_06/07_ashvakrAnte_rathakrAnte.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः (स्वराः पूर्याः)" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_06/07_ashvakrAnte_rathakrAnte.md">
 
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः (स्वराः पूर्याः) …{Loading}…</h4></summary>
 
-अ᳓श्व-क्रान्ते᳓ रथ-क्रान्ते  
-विष्णु᳓-क्रान्ते वसु᳓न्धरा ।  
-शि᳓र᳓सा **धा᳓रिता** देवी   
-**रक्षस्व᳓** मां पदे प᳓दे᳓ ॥
+अश्व-क्रान्ते रथ-क्रान्ते  
+विष्णु-क्रान्ते वसुन्धरा ।  
+शिरसा **धारिता** देवी   
+**रक्षस्व** मां पदे पदे ॥
 
 </details>
 
@@ -96,13 +96,13 @@ O earth, trodden by the horse, trodden by the chariot, trodden by Visnu protect 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_06/09_uddhRtAsi_varAheNa.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः (स्वराः पूर्याः)" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_06/09_uddhRtAsi_varAheNa.md">
 
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः (स्वराः पूर्याः) …{Loading}…</h4></summary>
 
-**उद्धृ᳓तासि᳓** वराहेण  
-कृष्णेन᳓ शतबाहु᳓ना᳓ । (6)
-भू᳓मि᳓र् धे᳓नु᳓र् ध᳓र᳓णी᳓ लोक-धारि᳓णी᳓॥
+**उद्धृतासि** वराहेण  
+कृष्णेन शतबाहुना । (6)
+भूमिर् धेनुर् धरणी लोक-धारिणी॥
 
 </details>
 

@@ -31,7 +31,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 नमो॑ वा॒चे या चो॑दि॒ता या चानु॑दिता॒  
-तस्यै॑ वा॒चे नमो॒
+तस्यै॑ वा॒चे नमो॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -71,7 +71,7 @@ salutation to the lord of the speech (Vācaspati);
 
 <details><summary>मूलम्</summary>
 
-नमो॑ वा॒चस्पत॑ये॒
+नमो॑ वा॒चस्पत॑ये
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -91,7 +91,7 @@ salutation to the seers, the makers of the Mantras, the lords of the Mantras;
 
 <details><summary>मूलम्</summary>
 
-नम॒ ऋषि॑भ्यो मन्त्र॒कृद्भ्यो॒ मन्त्र॑पतिभ्यो॒
+नम॒ ऋषि॑भ्यो मन्त्र॒कृद्भ्यो॒ मन्त्र॑पतिभ्यो
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -111,7 +111,7 @@ may not the seers, the makers of the Mantras, the lords of the Mantras disobey m
 
 <details><summary>मूलम्</summary>
 
-मा मामृष॑यो मन्त्र॒कृतो॑ मन्त्र॒पत॑यः॒ परा॑दु॒र्
+मा मामृष॑यो मन्त्र॒कृतो॑ मन्त्र॒पत॑यः॒ परा॑दुर्
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -141,7 +141,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वै᳓श्व᳓देवीव्ँ᳓ वा᳓चमुद्यासँ
+वैश्वदेवीव्ँ᳓ वा᳓चमुद्यासँ
 शिवा᳓म् अ᳓दस् तां जु᳓ष्टान् देवे᳓भ्यः
 </details>
 
@@ -152,7 +152,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>मूलम्</summary>
 
-वैश्वदे॒वीव्ँ वाच॑मुद्यासँ
+वै॒श्व॒दे॒वीव्ँ वाच॑मुद्यासँ
 शि॒वामद॑स्तां॒ जुष्टा॑न् दे॒वेभ्यः॒…
 </details>
 
@@ -204,7 +204,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>मूलम्</summary>
 
-भू॒तव्ँ व॑दिष्ये॒, भुव॑नव्ँ वदिष्ये॒, तेजो॑ वदिष्ये॒, यशो॑ वदिष्ये॒, तपो॑ वदिष्ये॒, ब्रह्म॑ वदिष्ये, स॒त्यव्ँ व॑दिष्ये॒,
+भू॒तव्ँ व॑दिष्ये॒, भुव॑नव्ँ वदिष्ये॒, तेजो॑ वदिष्ये॒, यशो॑ वदिष्ये॒, तपो॑ वदिष्ये॒, ब्रह्म॑ वदिष्ये, स॒त्यव्ँ व॑दिष्ये,
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -245,7 +245,7 @@ may there be bed (shelter) for my offspring, cattle; may I become bed (shelter) 
 
 <details><summary>मूलम्</summary>
 
-उप॒स्तर॑णं मे प्र॒जायै॑ पशू॒नां भू॑यादुप॒स्तर॑णम॒हं प्र॒जायै॑ पशू॒नां भू॑यासं॒
+उप॒स्तर॑णं मे प्र॒जायै॑ पशू॒नां भू॑यादुप॒स्तर॑णम॒हं प्र॒जायै॑ पशू॒नां भू॑यासं
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -265,7 +265,7 @@ may there be bed (shelter) for my offspring, cattle; may I become bed (shelter) 
 
 <details><summary>मूलम्</summary>
 
-प्राणा॑पानौ मृ॒त्योर्मा॑ पातं॒
+प्राणा॑पानौ मृ॒त्योर्मा॑ पातं
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -285,7 +285,7 @@ may Prāṇa and Apāna do not leave me.
 
 <details><summary>मूलम्</summary>
 
-प्राणा॑पानौ॒ मा मा॑ हासिष्टं॒
+प्राणा॑पानौ॒ मा मा॑ हासिष्टं
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2215,7 +2215,7 @@ Hail for the eye!
 
 <details><summary>मूलम्</summary>
 
-चक्षु॑षे॒ स्वाहा॒
+चक्षु॑षे॒ स्वाहा॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2275,7 +2275,7 @@ Hail for encouragement!
 
 <details><summary>मूलम्</summary>
 
-दक्षा॑य॒ स्वाहा॒
+दक्षा॑य॒ स्वाहा॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2315,7 +2315,7 @@ Hail for the vigour!
 
 <details><summary>मूलम्</summary>
 
-ओज॑से॒ स्वाहा॒
+ओज॑से॒ स्वाहा॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -3679,7 +3679,7 @@ put the shining in me,
 
 <details><summary>मूलम्</summary>
 
-हृ॒दे त्वा॒
+हृ॒दे त्वा॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -3714,7 +3714,7 @@ put the shining in me,
 
 <details><summary>मूलम्</summary>
 
-दि॒वे त्वा॒
+दि॒वे त्वा॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5114,7 +5114,7 @@ you are paradise,
 
 <details><summary>मूलम्</summary>
 
-सुव॑रसि॒
+सुव॑रसि
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6489,7 +6489,7 @@ the good light of the lights.
 
 <details><summary>मूलम्</summary>
 
-अपी॑परो॒ माऽह्नो॒
+अपी॑परो॒ माऽह्नो॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -6614,7 +6614,7 @@ You have fulfilled (my desires);
 
 <details><summary>मूलम्</summary>
 
-अपी॑परो मा॒ रात्रि॑या॒
+अपी॑परो मा॒ रात्रि॑या
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -6828,7 +6828,7 @@ you are our father;
 
 <details><summary>मूलम्</summary>
 
-पि॒ता नो॑ऽसि॒
+पि॒ता नो॑ऽसि
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -6892,7 +6892,7 @@ we have enjoyed you as such;
 
 <details><summary>मूलम्</summary>
 
-अ॒शी॒महि॑ त्वा॒
+अ॒शी॒महि॑ त्वा
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -8165,7 +8165,7 @@ Hail for the eye!
 
 <details><summary>मूलम्</summary>
 
-चक्षु॑षे॒ स्वाहा॒
+चक्षु॑षे॒ स्वाहा॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8576,7 +8576,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वै᳓श्वा᳓नरो᳙ऽसि ।
+वैश्वानरो᳙ऽसि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -8586,7 +8586,7 @@ you are Vaiśvānara (fire, belonging to all men);
 
 <details><summary>मूलम्</summary>
 
-वैश्वान॒रो॑ऽसि ।
+वै॒श्वा॒न॒रो॑ऽसि ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -8616,7 +8616,7 @@ you are Saṁvatsara (year, the first in the cycle of six years);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प᳓रि᳓व᳓त्सरो᳙ऽसि ।
+परिवत्सरो᳙ऽसि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -8626,7 +8626,7 @@ you are Parivatsara (the second in the cycle of six years);
 
 <details><summary>मूलम्</summary>
 
-परिवत्स॒रो॑ऽसि ।
+प॒रि॒व॒त्स॒रो॑ऽसि ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8661,7 +8661,7 @@ you are Idvatsara (the fifth year);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व᳓त्सरो᳙ऽसि ।
+वत्सरो᳙ऽसि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -8671,7 +8671,7 @@ you are Vatsara (the sixth year of the cycle of the six years);
 
 <details><summary>मूलम्</summary>
 
-वत्स॒रो॑ऽसि ।
+व॒त्स॒रो॑ऽसि ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -9932,7 +9932,7 @@ may salutation be to you;
 
 <details><summary>मूलम्</summary>
 
-नम॑स्ते अस्तु॒
+नम॑स्ते अस्तु
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -10698,7 +10698,7 @@ destroy that enemy, who hates us or whom we hate, in the time by which the sun r
 
 <details><summary>मूलम्</summary>
 
-भूर्भुव॒स्सुवो॒
+भूर्भुव॒स्सुवो॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -10718,7 +10718,7 @@ Bhūr, Bhuvaḥ, Suvaḥ;
 
 <details><summary>मूलम्</summary>
 
-भूर्भुव॒स्सुवो॒
+भूर्भुव॒स्सुवो॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -10748,7 +10748,7 @@ from the earth may be performed,
 
 <details><summary>मूलम्</summary>
 
-भुवो॑ऽद्धायि॒
+भुवो॑ऽद्धायि
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -10768,7 +10768,7 @@ from the earth may be performed;
 
 <details><summary>मूलम्</summary>
 
-भुवो॑ऽद्धायि॒
+भुवो॑ऽद्धायि
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -12047,7 +12047,7 @@ O well merciful Sarasvatī, be auspicious and most wealful for us; may we not se
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा᳓स्तुम᳓द्वास्तुम᳓न्तो भूयास्म
+वास्तुम᳓द्वास्तुम᳓न्तो भूयास्म
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -12057,7 +12057,7 @@ all possess residence by you; may we become the possessors of the residences;
 
 <details><summary>मूलम्</summary>
 
-वास्तु॒मद्वा॑स्तु॒मन्तो॑ भूयास्म॒
+वा॒स्तु॒मद्वा॑स्तु॒मन्तो॑ भूयास्म
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -12107,7 +12107,7 @@ may he become without residence, who hates us and whom we hate.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र᳓तिष्ठा᳓वन्तो भूयास्म
+प्रतिष्ठा᳓वन्तो भूयास्म
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -12117,7 +12117,7 @@ may we become the possessors of the firm-standing;
 
 <details><summary>मूलम्</summary>
 
-प्रति॒ष्ठाव॑न्तो भूयास्म॒
+प्र॒ति॒ष्ठाव॑न्तो भूयास्म
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -12257,7 +12257,7 @@ may we not be cut from the firm-standing; may he become without any firm-standin
 
 <details><summary>मूलम्</summary>
 
-भूः प्रप॑द्ये॒
+भूः प्रप॑द्ये
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -12277,7 +12277,7 @@ I obtain Bhuvaḥ (mid-region);
 
 <details><summary>मूलम्</summary>
 
-भुवः॒ प्रप॑द्ये॒
+भुवः॒ प्रप॑द्ये
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -12292,7 +12292,7 @@ I obtain Suvaḥ (heaven);
 
 <details><summary>मूलम्</summary>
 
-सुवः॒ प्रप॑द्ये॒
+सुवः॒ प्रप॑द्ये
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -12372,7 +12372,7 @@ I obtain Brahma-Kośa (sheath of Brahman) of Prajāpati; I obtain Brahman;
 
 <details><summary>मूलम्</summary>
 
-प्र॒जाप॑तेर्ब्रह्मको॒शं ब्रह्म॒ प्रप॑द्य॒
+प्र॒जाप॑तेर्ब्रह्मको॒शं ब्रह्म॒ प्रप॑द्य
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -12432,7 +12432,7 @@ I obtain OṂ.
 
 <details><summary>मूलम्</summary>
 
-बृ॒हद॒ग्नयः॒ पर्व॑ताश्च॒
+बृ॒हद॒ग्नयः॒ पर्व॑ताश्च
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -12472,7 +12472,7 @@ by which welfare the wind makes welfare for me, by that may my inner welfare be.
 
 <details><summary>मूलम्</summary>
 
-प्राणा॑पानौ मृ॒त्योर्मा॑ पातं॒
+प्राणा॑पानौ मृ॒त्योर्मा॑ पातं
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -12492,7 +12492,7 @@ may Prāṇa and Apāna not leave me.
 
 <details><summary>मूलम्</summary>
 
-प्राणा॑पानौ॒ मा मा॑ हासिष्टं॒
+प्राणा॑पानौ॒ मा मा॑ हासिष्टं
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -12507,7 +12507,7 @@ may Prāṇa and Apāna not leave me.
 
 <details><summary>मूलम्</summary>
 
-मयि॑ मे॒धां मयि॑ प्र॒जां मय्य॒ग्निस्तेजो॑ दधातु॒
+मयि॑ मे॒धां मयि॑ प्र॒जां मय्य॒ग्निस्तेजो॑ दधातु
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -12527,7 +12527,7 @@ may Indra put wisdom in me, offspring in me, sense-organ in me;
 
 <details><summary>मूलम्</summary>
 
-मयि॑ मे॒धां मयि॑ प्र॒जां मयीन्द्र॑ इन्द्रि॒यं द॑धातु॒
+मयि॑ मे॒धां मयि॑ प्र॒जां मयीन्द्र॑ इन्द्रि॒यं द॑धातु
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -12733,7 +12733,7 @@ may the sun put wisdom in me, offspring in me and the shining in me.[P208_20]
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दु᳓र्मित्रा᳓स्त᳓स्मै भूयासुर्यो᳙ऽस्मान्द्वेष्टि य᳓ञ्च वय᳓न्द्विष्मः᳓ ।
+दुर्मित्रा᳓स्त᳓स्मै भूयासुर्यो᳙ऽस्मान्द्वेष्टि य᳓ञ्च वय᳓न्द्विष्मः᳓ ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -12743,7 +12743,7 @@ may they become bad friends of those who hate us and whom we hate.
 
 <details><summary>मूलम्</summary>
 
-दुर्मि॒त्रास्तस्मै॑ भूयासु॒र्यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः ।
+दु॒र्मि॒त्रास्तस्मै॑ भूयासु॒र्यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -12994,7 +12994,7 @@ the mid-region is the peace,
 
 <details><summary>मूलम्</summary>
 
-र॒न्तरि॑क्षँ॒ शान्ति॒
+र॒न्तरि॑क्षँ॒ शान्ति॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13009,7 +13009,7 @@ the heaven is the peace,
 
 <details><summary>मूलम्</summary>
 
-र्द्यौश्शान्ति॒
+र्द्यौश्शान्ति॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13039,7 +13039,7 @@ the intermediate quarters are the peace,
 
 <details><summary>मूलम्</summary>
 
-रवान्तरदि॒शाश्शान्ति॑
+र॒वा॒न्त॒र॒दि॒शाश्शान्ति॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13084,7 +13084,7 @@ the sun is the peace,
 
 <details><summary>मूलम्</summary>
 
-रादि॒त्यश्शान्ति॑
+रा॒दि॒त्यश्शान्ति॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13099,7 +13099,7 @@ the moon is the peace,
 
 <details><summary>मूलम्</summary>
 
-श्च॒न्द्रमा॒श्शान्ति॒
+श्च॒न्द्रमा॒श्शान्ति॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13114,7 +13114,7 @@ the stars are the peace,
 
 <details><summary>मूलम्</summary>
 
-र्नक्ष॑त्राणि॒ शान्ति॒
+र्नक्ष॑त्राणि॒ शान्ति॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13129,7 +13129,7 @@ the waters are the peace,
 
 <details><summary>मूलम्</summary>
 
-राप॒श्शान्ति॒
+राप॒श्शान्ति॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13144,7 +13144,7 @@ the plants are the peace,
 
 <details><summary>मूलम्</summary>
 
-रोष॑धय॒श्शान्ति॒
+रोष॑धय॒श्शान्ति॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13154,7 +13154,7 @@ the plants are the peace,
 
 <details><summary>मूलम्</summary>
 
-र्वन॒स्पत॑य॒श्शान्ति॒
+र्वन॒स्पत॑य॒श्शान्ति॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13184,7 +13184,7 @@ the goat is the peace,
 
 <details><summary>मूलम्</summary>
 
-र॒जा शान्ति॒
+र॒जा शान्ति॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13199,7 +13199,7 @@ the horse is the peace,
 
 <details><summary>मूलम्</summary>
 
-रश्व॒श्शान्ति॒ᳶ
+रश्व॒श्शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13214,7 +13214,7 @@ the man is the peace,
 
 <details><summary>मूलम्</summary>
 
-पुरु॑ष॒श्शान्ति॒
+पुरु॑ष॒श्शान्ति॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13244,7 +13244,7 @@ the Brāhmaṇa is the peace,
 
 <details><summary>मूलम्</summary>
 
-र्ब्राह्म॒णश्शान्ति॒
+र्ब्रा॒ह्म॒णश्शान्ति॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13259,7 +13259,7 @@ the peace is the peace,
 
 <details><summary>मूलम्</summary>
 
-श्शान्ति॑रे॒व शान्ति॒
+श्शान्ति॑रे॒व शान्ति॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -13299,7 +13299,7 @@ may the peace be for me, the peace.
 
 <details><summary>मूलम्</summary>
 
-तया॒हँ शा॒न्त्या स॑र्वशा॒न्त्या मह्य॑न्द्वि॒पदे॒ चतु॑ष्पदे च॒ शान्तिं॑ करोमि॒
+तया॒हँ शा॒न्त्या स॑र्वशा॒न्त्या मह्य॑न्द्वि॒पदे॒ चतु॑ष्पदे च॒ शान्तिं॑ करोमि
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -13339,7 +13339,7 @@ may the peace be for me, the peace.
 
 <details><summary>मूलम्</summary>
 
-एह॒ श्रीश्च॒ ह्रीश्च॒ धृति॑श्च॒ तपो॑ मे॒धा प्र॑ति॒ष्ठा श्र॒द्धा स॒त्यन्धर्म॑श्चै॒तानि॒ मोत्ति॑ष्ठन्त॒मनूत्ति॑ष्ठन्तु॒
+एह॒ श्रीश्च॒ ह्रीश्च॒ धृति॑श्च॒ तपो॑ मे॒धा प्र॑ति॒ष्ठा श्र॒द्धा स॒त्यन्धर्म॑श्चै॒तानि॒ मोत्ति॑ष्ठन्त॒मनूत्ति॑ष्ठन्तु
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -13581,7 +13581,7 @@ may we be able to see the sun for long time.
 
 <details><summary>मूलम्</summary>
 
-ब्रह्म॑ण॒श्चोत॑न्यसि॒
+ब्रह्म॑ण॒श्चोत॑न्यसि
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -13601,7 +13601,7 @@ you are the two pins of Brahman,
 
 <details><summary>मूलम्</summary>
 
-ब्रह्म॑ण आ॒णी स्थो॒
+ब्रह्म॑ण आ॒णी स्थो॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -13631,7 +13631,7 @@ you are the holding place of Brahman;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धा᳓रिते᳓यं᳓ पृथिवी᳓ ब्र᳓ह्मणा मही᳓
+धारिते᳓यं᳓ पृथिवी᳓ ब्र᳓ह्मणा मही᳓
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -13641,7 +13641,7 @@ by this Brahman this great earth has been held,
 
 <details><summary>मूलम्</summary>
 
-धारि॒तेयं पृ॑थि॒वी ब्रह्म॑णा म॒ही
+धा॒रि॒तेयं पृ॑थि॒वी ब्रह्म॑णा म॒ही
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -13651,7 +13651,7 @@ by this Brahman this great earth has been held,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धा᳓रित᳓मेनेन मह᳓दन्त᳓रिक्षं
+धारित᳓मेनेन मह᳓दन्त᳓रिक्षं
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -13661,7 +13661,7 @@ by this great mid-region has been held;
 
 <details><summary>मूलम्</summary>
 
-धा॑रि॒तमे॑नेन म॒हद॒न्तरि॑क्षं॒
+धा॒रि॒तमे॑नेन म॒हद॒न्तरि॑क्षं
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -13681,7 +13681,7 @@ this held the great heaven full of the gods;
 
 <details><summary>मूलम्</summary>
 
-दिवं॑ दाधार पृथि॒वीँ सदे॑वाय्ँ॒
+दिवं॑ दाधार पृथि॒वीँ सदे॑वाय्ँ
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -13701,7 +13701,7 @@ may I hold that which I know;
 
 <details><summary>मूलम्</summary>
 
-यद॒हव्ँ वेद॒ तद॒हन्धा॑रयाणि॒
+यद॒हव्ँ वेद॒ तद॒हन्धा॑रयाणि
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -13761,7 +13761,7 @@ for accepting the past and future may I live the whole span of life;
 
 <details><summary>मूलम्</summary>
 
-भू॒तस्य॒ भव्य॒स्याव॑रुध्यै॒ सर्व॒मायु॑रयाणि॒
+भू॒तस्य॒ भव्य॒स्याव॑रुध्यै॒ सर्व॒मायु॑रयाणि
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

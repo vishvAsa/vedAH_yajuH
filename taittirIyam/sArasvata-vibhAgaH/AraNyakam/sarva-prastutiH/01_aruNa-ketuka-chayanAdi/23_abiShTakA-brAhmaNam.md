@@ -326,9 +326,9 @@ which (was) the elixir, that (became a tortoise in the midst) of the waters.
 अथ कूर्मः नेत्यब्रवीद् यत्त्वयोक्तं तन्नेत्यर्थः । हेतुमाह - पूर्वमेवाहमिति । यद्वा - मे मांसा त्वं समभूरिति मन्यसे नैवं मन्तव्यम् । पूर्वमुक्तं निषिद्धम्; इदानीम् उत्पत्तिरेव निषिध्यते - पूर्वमेवाहमिहासं तव शरीरविधूननात् प्रागपीहास्मिन् प्रदेशे अहं स्थितवानेवेति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓त्पु᳓रुषस्य पुरुषत्व᳓म् ।
+तत्पुरुषस्य पुरुषत्वम् ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -579,10 +579,10 @@ Now, Aruṇa Ketu put (the water) in the middle (uttering the Mantra) "O Pūṣa
 मध्ये यत्रातिष्ठत् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-त᳓तो वै᳓ पूषो᳓दतिष्ठत् ।  
-से᳓य᳓न्दि᳓क् । [94]
+ततो वै पूषोदतिष्ठत् ।  
+सेयन्दिक् । [94]
 </details>
 
 <details><summary>त्रिभुवनः</summary>

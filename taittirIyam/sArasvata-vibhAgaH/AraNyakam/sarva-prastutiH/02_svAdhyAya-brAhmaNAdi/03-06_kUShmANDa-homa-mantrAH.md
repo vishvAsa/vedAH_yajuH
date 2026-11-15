@@ -253,7 +253,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-इ॒मम्मे॑ वरुण॒
+इ॒मम्मे॑ वरुण
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -275,7 +275,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-तत्त्वा॑ यामि॒
+तत्त्वा॑ यामि
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -297,7 +297,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-त्वन्नो॑ अग्ने॒
+त्वन्नो॑ अग्ने
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -319,7 +319,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-सत्वन्नो॑ अग्ने॒
+सत्वन्नो॑ अग्ने
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1196,10 +1196,10 @@ Mantras of the Kūṣmāṇḍa Homa. (From 1 to 13).
 यदन्नमिति ॥ यदन्नं बहुधा विरूपं बहुप्रकारं दुष्टं, किञ्चित्स्वयं दुष्टं यदप्रतिग्राह्यं यच्चोच्छिष्टादि, किञ्चिच्च दुष्टात्प्रतिगृहीतं, एवं बहुधा विरूपं यदन्नं भुक्तवानस्मि । अथोदाहरणार्थं कानिचिद्दर्शयति - वासो हिरण्यं वा अपि वा गामजां वा अविं वाऽन्यद्वा । यद्देवनामित्यादि । गतम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-य᳓न्मे म᳓नसा वाचा कृतमे᳓नः कदाच᳓न᳓ ।  
-स᳓र्व᳓स्मान्मे᳓ळितो मोग्धि त्वँ᳓ हि᳓ वे᳓त्थ यथातथ᳓म् । 9 ।
+यन्मे मनसा वाचा कृतमेनः कदाचन ।  
+सर्वस्मान्मेळितो मोग्धि त्वँ हि वेत्थ यथातथम् । 9 ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>

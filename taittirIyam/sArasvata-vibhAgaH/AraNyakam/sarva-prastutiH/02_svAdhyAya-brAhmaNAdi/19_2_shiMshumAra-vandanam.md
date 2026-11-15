@@ -57,7 +57,7 @@ the Brahman, the upper jaw; the sacrifice, the lower jaw;
 
 <details><summary>मूलम्</summary>
 
-ब्र॒ह्म+उत्त॑रा॒ हनु॑र् य॒ज्ञोऽध॑रा॒
+ब्र॒ह्म+उत्त॑रा॒ हनु॑र् य॒ज्ञोऽध॑रा
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -87,7 +87,7 @@ Visnu, the heart;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सव्ँ᳓व᳓त्सरः᳓ प्रज᳓ननम्
+सव्ँवत्सरः᳓ प्रज᳓ननम्
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -97,7 +97,7 @@ the Year, the generative organ;
 
 <details><summary>मूलम्</summary>
 
-सव्ँवत्स॒रः प्र॒जन॑नम्
+सव्ँ॒व॒त्स॒रः प्र॒जन॑नम्
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -192,7 +192,7 @@ the fire, the first part of the tail: then Indra, the second, then Prajapati, th
 
 <details><summary>मूलम्</summary>
 
-स वा ए॒ष दि॒व्यश् शा॑क्व॒रश् शिशु॑मार॒स्
+स वा ए॒ष दि॒व्यश् शा॑क्व॒रश् शिशु॑मारस्
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -212,7 +212,7 @@ the fire, the first part of the tail: then Indra, the second, then Prajapati, th
 
 <details><summary>मूलम्</summary>
 
-तँ ह॒ य ए॒वव्ँ वेदाप॑ पुनर्मृ॒त्युञ्ज॑यति॒।
+तँ ह॒ य ए॒वव्ँ वेदाप॑ पुनर्मृ॒त्युञ्ज॑यति।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,7 +247,7 @@ he does not die in the way;
 
 <details><summary>मूलम्</summary>
 
-नाध्वनि॒ प्रमी॑यते॒।
+नाध्वनि॒ प्रमी॑यते।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -262,7 +262,7 @@ he does not die in the waters;
 
 <details><summary>मूलम्</summary>
 
-नाप्सु प्रमी॑यते॒
+नाप्सु प्रमी॑यते
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -277,7 +277,7 @@ he does not die in the fire;
 
 <details><summary>मूलम्</summary>
 
-नाग्नौ प्रमी॑यते॒
+नाग्नौ प्रमी॑यते
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

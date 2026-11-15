@@ -3,9 +3,9 @@ title = "१५ आरोगाद्य्-उपधानादि"
 
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-आ᳓रो᳓ग᳓स्य᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+आरोगस्य स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -23,9 +23,9 @@ title = "१५ आरोगाद्य्-उपधानादि"
 "आरोगो भ्राज" इत्यत्र आरोगादीनि नामान्य् उक्तानि । तत्र यदा "आरोगस्तया देवतया" इत्यादिना अध्वर्युरारोगादीन् उपदधाति तदा क्रमेण यजमानः "आरोगस्य स्थाने" इत्यादिना तान्तामुपधाय सर्वान्ते "ॐ भूर्भुवस्स्वः । आपो वो मिथुनं मा नो मिथुनं रीढ्वम्" इत्युपतिष्ठते । वः युष्माकं विश्वसृष्टौ आपो मिथुनं सहायभावमाचरन्ति । आरोगादयो व्याख्याताः ॥१ - ८॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-भ्रा᳓ज᳓स्य᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+भ्राजस्य स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -38,9 +38,9 @@ May we shine with our own brilliance at the place of Bhraja.
 भ्राजस्य स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-प᳓ट᳓र᳓स्य᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+पटरस्य स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -53,9 +53,9 @@ May we shine with our own brilliance at the place of Patars.
 पटरस्य स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-प᳓त᳓ङ््ग᳓स्य᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+पतङ्गस्य स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -65,12 +65,12 @@ May we shine with our own brilliance at the place of Patanga.
 
 <details><summary>मूलम्</summary>
 
-पतङ््गस्य स्थाने स्वतेज॑सा भा॒नि ।
+पतङ्गस्य स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-स्व᳓र्ण᳓र᳓स्य᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+स्वर्णरस्य स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -83,9 +83,9 @@ May we shine with our own brilliance at the place of Svarnara.
 स्वर्णरस्य स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ज्यो᳓ति᳓षी᳓म᳓त᳓स्य᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+ज्योतिषीमतस्य स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -98,9 +98,9 @@ May we shine with our own brilliance at the place of Jyotismat.
 ज्योतिषीमतस्य स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-वि᳓भा᳓स᳓स्य᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+विभासस्य स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -113,9 +113,9 @@ May we shine with our own brilliance at the place of Vibhasa.
 विभासस्य स्थाने स्वतेज॑सा भा॒नि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-क᳓श्य᳓प᳓स्य᳓ स्था᳓ने᳓ स्व᳓ते᳓जसा भानि᳓ ।
+कश्यपस्य स्थाने स्वतेजसा भानि ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -143,9 +143,9 @@ Om, Bhuh, Bhuvah, Svah.
 ओंभूर्भुव॒स्स्वः॑ ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-आ᳓पो᳓ वो᳓ मि᳓थु᳓नं᳓ मा᳓ नो᳓ मि᳓थुनँ रीढ्व᳓म् ॥ [68]
+आपो वो मिथुनं मा नो मिथुनँ रीढ्वम् ॥ [68]
 </details>
 
 <details><summary>त्रिभुवनः</summary>

@@ -2166,7 +2166,7 @@ the sacrifice is, verily, the Makha;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋद्ध्या᳓समद्य᳓ यज्ञ᳓स्य शि᳓र इ᳓ति᳓ वा᳓वै᳓त᳓दाह ।
+ऋद्ध्या᳓समद्य᳓ यज्ञ᳓स्य शि᳓र इ᳓ति वा᳓वै᳓त᳓दाह ।
 </details>
 <details><summary>Houben</summary>
 
@@ -2178,7 +2178,7 @@ hence he says, verily, "May I prosper today, this is the head of the sacrifice."
 </details>
 <details><summary>मूलम्</summary>
 
-ऋ॒द्ध्यास॑म॒द्य य॒ज्ञस्य॒ शिर॒ इति वावैतदा॑ह ।
+ऋ॒द्ध्यास॑म॒द्य य॒ज्ञस्य॒ शिर॒ इति॒ वावैतदा॑ह ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -34,7 +34,7 @@ Om Peace! Peace! Peace!
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ह वै᳓ देवा᳓नाञ् चा᳓सुराणाञ् च यज्ञौ᳓ प्र᳓तताव् आस्ताव्ँ,  
-"वयँ᳓ स्वर्गल्ँ᳓ लोक᳓म् एष्यामो, वय᳓म् एष्याम" इ᳓ति᳓।
+"वयँ᳓ स्वर्गल्ँ᳓ लोक᳓म् एष्यामो, वय᳓म् एष्याम" इ᳓ति।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -45,7 +45,7 @@ Om Peace! Peace! Peace!
 <details><summary>मूलम्</summary>
 
 सह॒ वै दे॒वाना॒ञ् चासु॑राणाञ् च य॒ज्ञौ प्रत॑ताव् आस्ताव्ँ,  
-"व॒यँ स्व॒र्गल्ँ लो॒कम् ए॑ष्यामो, व॒यम् ए॑ष्याम॒" इति।
+"व॒यँ स्व॒र्गल्ँ लो॒कम् ए॑ष्यामो, व॒यम् ए॑ष्याम॒" इति॑।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -105,7 +105,7 @@ Those Asuras became stupified;
 
 <details><summary>मूलम्</summary>
 
-तेऽसु॑रा अमुह्यँ॒स्,
+तेऽसु॑रा अमुह्यँस्,
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -125,7 +125,7 @@ they did not know,
 
 <details><summary>मूलम्</summary>
 
-ते न प्राजा॑नँ॒स्,
+ते न प्राजा॑नँस्,
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -145,7 +145,7 @@ they were defeated
 
 <details><summary>मूलम्</summary>
 
-ते परा॑ऽभव॒न्,
+ते परा॑ऽभवन्,
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -165,7 +165,7 @@ and did not reach the heaven.
 
 <details><summary>मूलम्</summary>
 
-ते न स्व॒र्गल्ँ लो॒कमा॑य॒न्।
+ते न स्व॒र्गल्ँ लो॒कमा॑यन्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

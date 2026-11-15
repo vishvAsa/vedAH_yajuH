@@ -666,7 +666,7 @@ Mantras for putting the sands.
 
 <details><summary>मूलम् - प्रतीकम्</summary>
 
-आप्या॑यस्व॒
+आप्या॑यस्व
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

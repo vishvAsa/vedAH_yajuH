@@ -2,14 +2,14 @@
 title = "०१ ०७ मृत्तिके"
 +++
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_07_mRttike/01_mRttike_hana.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः (स्वराः पूर्याः)" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_07_mRttike/01_mRttike_hana.md">
 
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः (स्वराः पूर्याः) …{Loading}…</h4></summary>
 
-मृत्ति᳓के **ह᳓न** मे पापय्ँ  
-यन् मया᳓ दुष्-कृतङ् **कृ᳓त᳓म्** ।  
-त्व᳓या हते᳓न पापेन  
-**जीवामि᳓**  शरदश्श᳓त᳓म् ॥
+मृत्तिके **हन** मे पापय्ँ  
+यन् मया दुष्-कृतङ् **कृतम्** ।  
+त्वया हतेन पापेन  
+**जीवामि**  शरदश्शतम् ॥
 
 </details>
 
@@ -39,12 +39,12 @@ O earth, destroy my sin and whatever bad deed I have done; may I live hundred au
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_07_mRttike/03_mRttike_dehi.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः (स्वराः पूर्याः)" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_07_mRttike/03_mRttike_dehi.md">
 
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः (स्वराः पूर्याः) …{Loading}…</h4></summary>
 
-मृत्ति᳓के दे᳓हि मे पुष्टिन्  
-त्वयि᳓ सर्वं प्रति᳓ष्ठितम् ॥
+मृत्तिके देहि मे पुष्टिन्  
+त्वयि सर्वं प्रतिष्ठितम् ॥
 
 </details>
 
@@ -77,14 +77,14 @@ O earth, give me nourishing; everything stands firm in you.
 गन्धद्वारामिति ॥ गोमयालेपने कैश्चिद्विनियुक्ता ।
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_07_mRttike/05_gandhadvArAn_durAdharShAn.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः (स्वराः पूर्याः)" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_07_mRttike/05_gandhadvArAn_durAdharShAn.md">
 
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary><h4>विश्वास-प्रस्तुतिः (स्वराः पूर्याः) …{Loading}…</h4></summary>
 
-गन्धद्वारा᳓न् दुराधर्षा᳓न्  
-नित्य᳓-पुष्टाङ् करीषि᳓णीम् ।  
-ईश्व᳓रीँ स᳓र्व-भूतानान्  
-त्वा᳓म् **इहो᳓पह्वये** श्रि᳓य᳓म् ॥
+गन्धद्वारान् दुराधर्षान्  
+नित्य-पुष्टाङ् करीषिणीम् ।  
+ईश्वरीँ सर्व-भूतानान्  
+त्वाम् **इहोपह्वये** श्रियम् ॥
 
 </details>
 

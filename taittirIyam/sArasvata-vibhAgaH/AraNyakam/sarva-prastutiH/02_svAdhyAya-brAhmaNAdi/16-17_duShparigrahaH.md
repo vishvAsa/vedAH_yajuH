@@ -165,7 +165,7 @@ the place, the Upasada (going near);
 
 <details><summary>मूलम्</summary>
 
-स्था॒नम् उ॑प॒सदः॒,
+स्था॒नम् उ॑प॒सदः॑,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
