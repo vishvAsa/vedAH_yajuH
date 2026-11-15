@@ -46,7 +46,7 @@ _________________
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
-दु᳓र्मित्रा᳓स् त᳓स्मै भूयासुर्  
+दुर्मित्रा᳓स् त᳓स्मै भूयासुर्  
 यो᳙ऽस्मान् द्वेष्टि य᳓ञ् च वय᳓न् द्विष्मः᳓ ।
 </details>
 
@@ -57,7 +57,7 @@ may they become bad friends to them, who hate us and whom we hate.
 
 <details><summary>मूलम्</summary>
 
-दुर्मि॒त्रास् तस्मै॑ भूयासु॒र्  
+दु॒र्मि॒त्रास् तस्मै॑ भूयासु॒र्  
 यो॑ऽस्मान् द्वेष्टि॒ यञ् च॑ व॒यन् द्वि॒ष्मः ।
 </details>
 
@@ -95,7 +95,7 @@ Salutation to the fire, full of the water
 
 <details><summary>मूलम्</summary>
 
-नमो॒ऽग्नये॑ऽप्सु॒मते॒,
+नमो॒ऽग्नये॑ऽप्सु॒मते॑,
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -115,7 +115,7 @@ salutation to Indra
 
 <details><summary>मूलम्</summary>
 
-नम॒  इन्द्रा॑य॒,
+नम॒  इन्द्रा॑य,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
@@ -130,12 +130,12 @@ salutation to Varuna
 
 <details><summary>मूलम्</summary>
 
-नमो॒ वरु॑णाय॒,
+नमो॒ वरु॑णाय,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः (स्वराः पूर्याः)</summary>
 
-न᳓मो᳓ वा᳓रु᳓ण्यै,
+नमो वारुण्यै,
 </details>
 
 <details><summary>त्रिभुवनः</summary>
