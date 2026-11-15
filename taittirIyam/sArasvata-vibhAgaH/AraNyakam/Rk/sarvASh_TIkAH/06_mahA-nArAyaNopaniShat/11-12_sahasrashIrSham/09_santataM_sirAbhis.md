@@ -4,10 +4,20 @@ title = "09 सन्ततं सिराभिस्"
 +++
 
 
+<details><summary>त्रिभुवनः</summary>
+
+Which hangs by the nerves like the unblown lotus; in the middle of that there is a minute hole; in that everything has been established.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्त॑तँ सि॒राभि॑स्तु॒ लंब॑त्याकोश॒सन्नि॑भम् ।  
 तस्यान्ते॑ सुषि॒रँ सू॒क्ष्मं तस्मि॑न्त्स॒र्वं प्रति॑ष्ठितम् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सन्ततं समन्ताद्विधृतं सिराभिर् लम्बति प्रलम्बते । तुशब्दः पूर्ववद्विशेषे । आकोशसन्निभम् ईषत्कोशसदृशं लम्बते विश्वस्यायतनं विजानीयात् । तस्यान्त इति तस्य पद्मकोशस्य अन्ते मध्ये सुषिरं छिद्रं सूक्ष्मं स्वल्पप्रमाणं विद्यते हृदयाकाशाख्यं तस्मिन् सुषिरे सर्वं जीवात्मप्रभृति चेतयमानपदार्थजातं प्रतिष्ठितं निश्चलं तिष्ठति ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

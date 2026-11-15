@@ -4,10 +4,20 @@ title = "06 यच्च किञ्चिज्"
 +++
 
 
+<details><summary>त्रिभुवनः</summary>
+
+Whatever world is seen or heard, Narayana stands pervading that all inwardly and outwardly.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यच्च॑ कि॒ञ्चिज्ज॑गत्य॒स्मि॒न्दृ॒श्यते॑ श्रूय॒तेऽपि॑ वा ।  
 अन्त॑र्ब॒हिश्च॑ तत्स॒र्व॒व्व्ँया॒प्य ना॑राय॒णस्स्थि॑तः ।(25)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+यच्च किञ्चिद् यत्किञ्चिदपि पदार्थजातं चेतनमचेतनं वा अस्मिन् जगति, परिणते प्रपञ्चे दृश्यते वा श्रूयते वा अन्तर्बहिश्च अन्तरिस्थतं वा बुद्ध्यादि बहिस्स्थितं वा घटादि तत्सर्वं व्याप्य स्थितो नारायणः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

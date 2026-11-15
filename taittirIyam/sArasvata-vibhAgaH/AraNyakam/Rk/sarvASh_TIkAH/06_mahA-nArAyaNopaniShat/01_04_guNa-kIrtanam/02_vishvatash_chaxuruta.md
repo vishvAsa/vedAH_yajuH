@@ -4,6 +4,11 @@ title = "05 विश्वतश् चक्षुरुत"
 +++
 
 
+<details><summary>त्रिभुवनः</summary>
+
+He has eyes all round, mouth all round, hands all round, feet all round; He bends well by hands and falling ones (rules by the religion etc.); He is One producing the heaven and the earth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्वत॑श् चक्षुरु॒त वि॒श्वतो॑मुखो  
@@ -14,5 +19,6 @@ title = "05 विश्वतश् चक्षुरुत"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-15विश्वतश्चक्षुरिति ॥ व्याख्याता ‘य इमा विश्वा' इत्यत्र । एको देवो रुद्र इत्युक्तम् ॥
+
+व्याख्याता ‘य इमा विश्वा' इत्यत्र । एको देवो रुद्र इत्युक्तम् ॥
 </details>

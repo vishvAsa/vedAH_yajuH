@@ -3,6 +3,10 @@ title = "02 अद्भ्यः सम्भूतः"
 
 +++
 
+<details><summary>त्रिभुवनः</summary>
+
+He was born of the waters and the elixirs of the earth; he moved round in the rule of Viśvakarman (causer of the world); Tvaṣṭṛ makes the forms of him; I know that (greatness) of the Puruṣa (person) first.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -12,7 +16,7 @@ title = "02 अद्भ्यः सम्भूतः"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-1 अद्भ्यस् सम्भूत इत्य् आदि ॥  
+अद्भ्यस् सम्भूत इत्य् आदि ॥  
 
 ('उत्तरनारायणेन आदित्यम् उपस्थाय' इत्य् आदौ विनियोगः ।  
 त्रैष्टुभस् सर्वो ऽनुवाकः, विशेषो वक्ष्यते ॥)  

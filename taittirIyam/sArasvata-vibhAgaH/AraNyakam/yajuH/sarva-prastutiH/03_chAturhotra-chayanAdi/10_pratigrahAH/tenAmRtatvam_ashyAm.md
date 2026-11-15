@@ -9,6 +9,11 @@ title = "तेना॑मृत॒त्वम॑श्याम्"
 म᳓यो म᳓ह्यम् अस्तु प्रतिग्रहीत्रे᳓ ।
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+by that may we obtain the immortality; may food be for the donator and comfort for me, the obtainer (4).
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेना॑मृत॒त्वम॑श्याम् ।  
@@ -26,6 +31,11 @@ title = "तेना॑मृत॒त्वम॑श्याम्"
 
 क᳓ इद᳓ङ्क᳓स्मा अदात् ।  
 का᳓मः का᳓माय ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Who gave it whom? Kāma (desire or cupid) gave it for Kāma;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -47,18 +57,27 @@ title = "तेना॑मृत॒त्वम॑श्याम्"
 का᳓मः प्रतिग्रहीता᳓ ।
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Kāma is the donator, Kāma is the obtainer;
+</details>
+
 <details><summary>मूलम्</summary>
 
 कामो॑ दा॒ता ।  
 (15)  
 कामः॑ प्रतिग्रही॒ता ।
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 का᳓मँ समुद्र᳓म् आ᳓विश ।  
 का᳓मेन त्वा प्र᳓तिगृह्णामि ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+(O Dakṣiṇā) enter Kāma; I take you by Kāma (desire);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -76,6 +95,11 @@ title = "तेना॑मृत॒त्वम॑श्याम्"
 
 का᳓मैत᳓त् ते ।  
 एषा᳓ ते काम द᳓क्षिणा ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Kāma, this is yours; O Kāma, this is your Dakṣiṇā (sacrificial fee);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -96,6 +120,11 @@ title = "तेना॑मृत॒त्वम॑श्याम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तान᳓स् त्वाङ्गीरसः᳓ प्र᳓तिगृह्णातु ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may Uttāna Āṅgirasa obtain you (5).
 </details>
 
 <details><summary>मूलम्</summary>

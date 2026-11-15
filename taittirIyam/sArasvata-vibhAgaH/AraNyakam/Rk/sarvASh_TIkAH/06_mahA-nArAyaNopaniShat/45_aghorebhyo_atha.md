@@ -2,12 +2,22 @@
 title = "४५ अघोरेभ्यो ऽथ"
 unicode_script = "devanagari"
 +++
+<details><summary>त्रिभुवनः</summary>
+
+O Rudra, may salutation be to your all forms, what are not cruel, what are cruel, what are most cruel; O Sarva (Rudra) salutation to you from all round.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒घोरे॑भ्योऽथ॒ घोरे॑भ्यो॒  
 घोर॒ घोर॑तरेभ्यः ।   
 स॒र्वतः॑ शर्व॒! सर्वे॑भ्यो॒  
 नम॑स् ते अस्तु रु॒द्ररू॑पेभ्यः ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अत्रापि रुद्रसमष्ट्यात्मकं ब्रह्म प्रतिपाद्यम् । अघोरप्राधान्याच्च तेन समुदायव्यपदेशः । अघोरेभ्यः शान्तेभ्यः । स्वरान्यत्वं छान्दसम् । घोरेभ्य उग्रेभ्यः घोरघोरतरेभ्यः घोरेभ्योपि घोरतरेभ्यस् त्वत्तोपि घोरतरेभ्यः सर्वेभ्यो रुद्ररूपेभ्यः रुद्रतुल्यरूपेभ्यः हे शर्व! ते त्वदीयेभ्यो ऽंशेभ्यः सर्वतः सर्वप्रकारं शिरसा वचसा मनसा च नमोस्तु ।
 </details>
 
 <details><summary>विश्वास-टिप्पनी - रूपान्तराणि</summary>

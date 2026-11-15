@@ -4,6 +4,11 @@ title = "06 मेधां म"
 +++
 
 
+<details><summary>त्रिभुवनः</summary>
+
+May Indra grant us intellect, may the goddess Sarasvati grant us intellect; may Asvines, both gods, having the garland of the lotus-flowers grant us intellect.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मे॒धां म॒ इन्द्रो॑ ददातु  
@@ -14,6 +19,6 @@ title = "06 मेधां म"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-1मेधां म इत्यनुष्टुप् ॥ मे मा इन्द्रो मेधां ददातु । अश्विनौ चोभौ मे मेधाम् आधत्ताम् उत्पादयताम् । किंविशिष्टौ पुष्करस्रजौ सरोजमालाप्रालम्बौ ॥  
-इति याज्ञिक्युपनिषदि चत्वारिंशोऽनुवाकः ॥
+
+मे मा इन्द्रो मेधां ददातु । अश्विनौ चोभौ मे मेधाम् आधत्ताम् उत्पादयताम् । किंविशिष्टौ पुष्करस्रजौ सरोजमालाप्रालम्बौ ॥
 </details>

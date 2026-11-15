@@ -3,6 +3,10 @@ title = "03 यमङ् गाय"
 
 +++
 
+<details><summary>त्रिभुवनः</summary>
+
+Sing the pleasant-hearing modes for Yama, who is a king not to be checked, who has made fire, the waters, the rivers, the lands, the heaven and the earth.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -12,5 +16,5 @@ title = "03 यमङ् गाय"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-7यममिति पूर्वार्धं गतम् । येन यमेन आपः समुद्रादिषु स्थिता नद्यः गङ्गाद्या धन्वानि मरुभूमयो ऽधिष्ठीयन्त इति शेषः । येन च द्यौः पृथिवी च दृढा भवति ॥  
+यममिति पूर्वार्धं गतम् । येन यमेन आपः समुद्रादिषु स्थिता नद्यः गङ्गाद्या धन्वानि मरुभूमयो ऽधिष्ठीयन्त इति शेषः । येन च द्यौः पृथिवी च दृढा भवति ॥
 </details>

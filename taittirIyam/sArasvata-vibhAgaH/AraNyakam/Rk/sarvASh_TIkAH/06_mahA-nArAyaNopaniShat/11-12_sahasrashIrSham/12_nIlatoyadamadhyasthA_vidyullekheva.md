@@ -4,10 +4,23 @@ title = "12 नीलतोयदमध्यस्था विद्युल�
 +++
 
 
+<details><summary>त्रिभुवनः</summary>
+
+That is shining like the line of the lightning among the blue clouds, that is least like the tail of the Nivara corn, yellow, shining and the simile for an atom.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नी॒लतो॑यद॑मद्ध्य॒स्था॒ वि॒द्युल्ले॑खेव॒ भास्व॑रा ।  
 नी॒वार॒शूक॑वत्त॒न्वी॒ पी॒ताभा॑स्यात्त॒नूप॑मा ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+नीवारशुकवत्तन्वी तनुप्रमाणा पीताभा पीतवर्णा तप्तकाञ्चनदीप्तिः । किञ्च - स्यात् तनूपमा स्यादियं तनूनामुपमा तनूनि वस्तून्य् अनया उपमीयन्ते परमतनुत्वाद् अस्याः । यथा -  
+वालाग्रशतभागस्य शतधा कल्पितस्य च ।  
+भागो जीवस्स विज्ञेयः स चानन्त्याय कल्पते ॥  
+इति ।
 </details>
 
 <details><summary>सायण-टीका</summary>

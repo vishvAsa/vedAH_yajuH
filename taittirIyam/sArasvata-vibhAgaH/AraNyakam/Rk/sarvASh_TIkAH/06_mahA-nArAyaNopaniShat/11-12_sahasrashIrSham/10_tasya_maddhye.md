@@ -4,10 +4,20 @@ title = "10 तस्य मद्ध्ये"
 +++
 
 
+<details><summary>त्रिभुवनः</summary>
+
+In the middle of that is that great fire, having all rays, all round mouth, the first eater, the distributer of the food.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य॒ मद्ध्ये॑ म॒हान॑ग्निर्वि॒श्वार्चि॑र्वि॒श्वतो॑मुखः ।  
 सोऽग्र॑भु॒ग्विभ॑जन्ति॒ष्ठ॒न्नाहा॑रमज॒रः क॒विः ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्य सुषिरस्य मध्ये महानग्निर् ज्वलति वैश्वानरः विश्वार्चिर् विश्वतः प्रसरज्ज्वालः विश्वतोमुखः विश्वावकाशोदीर्णमुखसामर्थ्यः । सोऽग्रभुक् सोऽग्निः स्वम् आश्रयं देहं सन्तापयत्य् उष्णं करोति । भुक्तस्य जरयितेत्यभिप्रायः । कविः क्रान्तदर्शनः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>

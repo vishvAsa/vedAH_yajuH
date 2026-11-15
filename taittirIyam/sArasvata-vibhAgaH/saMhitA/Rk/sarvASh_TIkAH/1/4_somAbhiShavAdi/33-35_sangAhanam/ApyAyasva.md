@@ -10,11 +10,15 @@ With all thy aids,
 Be fullest of help for us.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+O Soma, the exalted one, be satisfied by all protections; be increased for us.
+</details>
 
 <details><summary>मूलम्</summary>
 
 आ प्या॑यस्व मदिन्तम॒ सोम॒ विश्वा॑भिरू॒तिभिः॑ ।  
-भवा॑ नस्स॒प्रथ॑स्तमः ॥ 
+भवा॑ नस्स॒प्रथ॑स्तमः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>

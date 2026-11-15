@@ -4,6 +4,11 @@ title = "08 अप्सरासु या"
 +++
 
 
+<details><summary>त्रिभुवनः</summary>
+
+May that good-perfuming intellect be accompanied with me, which is in the Apsarases as intellect, in the Gandharvas as the mind, which is the divine intellect and which is the manly intellect.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒प्स॒रासु॑ [च॒] या मे॒धा  
@@ -15,6 +20,6 @@ title = "08 अप्सरासु या"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-1अप्सरास्व् इत्यनुष्टुप् ॥ छान्दसोऽन्त्यलोपः । अप्सरस्सु या मेधा वर्तते गन्धर्वेषु च यन्मनः मननसामर्थ्यवती या मेधा वर्तते मनुष्यजाता च या मेधा दैवी द्योतमाना तिष्ठति सा मेधा मां जुषतां सेवतां सुरभिः शोभनगन्धा शोभन ख्यातिः ॥  
-इति याज्ञिक्युपनिषद्य् एकचत्वारिंशोऽनुवाकः ॥
+
+छान्दसोऽन्त्यलोपः । अप्सरस्सु या मेधा वर्तते गन्धर्वेषु च यन्मनः मननसामर्थ्यवती या मेधा वर्तते मनुष्यजाता च या मेधा दैवी द्योतमाना तिष्ठति सा मेधा मां जुषतां सेवतां सुरभिः शोभनगन्धा शोभन ख्यातिः ॥
 </details>
