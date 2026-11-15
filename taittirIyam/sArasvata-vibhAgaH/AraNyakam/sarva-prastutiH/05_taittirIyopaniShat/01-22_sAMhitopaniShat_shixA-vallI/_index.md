@@ -365,11 +365,14 @@ Thus has been declared the lesson on orthoepy. (1)
 </details>
 
 ## संहितोपनिषत्
+<details><summary>त्रिभुवनः - अवतारिका</summary>
+
+Prapathaka V according to Commentator Bhaṭṭa Bhāskara. He gives all the three Prapathakas VII, VIII & IX as one; hence the numbers of Anuvākas are continuous in his commentary.
+</details>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantra)* Prayer for mutual brilliance and retention of sacred knowledge.
-
-Prapathaka V according to Commentator Bhaṭṭa Bhāskara. He gives all the three Prapathakas VII, VIII & IX as one; hence the numbers of Anuvākas are continuous in his commentary.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1002,7 +1005,7 @@ Of them, verily, the fourth, Mahācamasya discovered.
 अथ एतां वक्ष्यमाणां तासामेव चतुर्थीं माहाचमस्यः महाचमसस्यापत्यमृषिः प्रवेदयते स्म । गर्गादिलक्षणो यञ् ॥
 </details>
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
+<details><summary>भट्टभास्करः - अवतारिका</summary>
 
 का पुनस्सेत्यत आह - मह इति ॥
 </details>
@@ -2987,7 +2990,7 @@ Thus, indeed, (you) should worship. (4)
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="22_shanno_mitraH_samApanam/">
 
 <details open><summary><h2>२२ शन्नो मित्रः समापनम् …{Loading}…</h2></summary>
-<details><summary>त्रिभुवनः - विनियोगः</summary>
+<details><summary>त्रिभुवनः - अवतारिका</summary>
 
 *(Mantras)* Identical with the First Anuvaka except for certain changes of tense.
 </details>
@@ -3163,7 +3166,7 @@ That protected the speaker.
 आवी॑द् व॒क्तार॑म् ।
 </details>
 
-<details><summary>त्रिभुवनः - विनियोगः</summary>
+<details><summary>त्रिभुवनः - अवतारिका</summary>
 
 *(Mantras)* Peace chanted once more in the Ānandāśrama edition.
 </details>

@@ -3,7 +3,7 @@ title: २२ शन्नो मित्रः समापनम्
 unicode_script: devanagari
 
 ---
-<details><summary>त्रिभुवनः - विनियोगः</summary>
+<details><summary>त्रिभुवनः - अवतारिका</summary>
 
 *(Mantras)* Identical with the First Anuvaka except for certain changes of tense.
 </details>
@@ -181,7 +181,7 @@ That protected the speaker.
 आवी॑द् व॒क्तार॑म् ।
 </details>
 
-<details><summary>त्रिभुवनः - विनियोगः</summary>
+<details><summary>त्रिभुवनः - अवतारिका</summary>
 
 *(Mantras)* Peace chanted once more in the Ānandāśrama edition.
 </details>
