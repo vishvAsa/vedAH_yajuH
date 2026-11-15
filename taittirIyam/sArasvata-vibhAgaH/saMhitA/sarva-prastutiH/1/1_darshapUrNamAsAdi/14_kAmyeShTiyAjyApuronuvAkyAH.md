@@ -2310,6 +2310,14 @@ What nourishes our kine and horses;
 May he be [2] favourable to such as we are.
 </details>
 
+<details><summary>Keith</summary>
+
+O lord of the field, the honey-bearing wave,  
+As a cow milk, so for us milk;  
+May the lords of right graciously accord us  
+That which drops honey and is well purified like ghee.
+</details>
+
 <details><summary>Geldner</summary>
 
 Durch den Herrn der Flur gewinnen wir wie durch einen guten Freund eine Flur, die Rind und Roß nährt. Möge er unsereinem gnädig sein.
@@ -4077,6 +4085,11 @@ O Agni, once more lead us
 With thy favour over every trouble.  
 Be a broad, thick, wide fortress for us,  
 Health and wealth for our children and descendants. 
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O fire, worth praising, make us across all the difficulties by protections; may the village be vast, much broad for us; be wealful for our sons and grandsons.
 </details>
 
 <details><summary>Geldner</summary>

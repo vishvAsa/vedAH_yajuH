@@ -11,12 +11,17 @@ title = "३७ राजगवी-होमः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चित्तँ᳓ सन्ताने᳓न  +++(यजामि)+++ ।   
+चित्तँ᳓ सन्ताने᳓न  +++(यजामि)+++ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+(I sacrifice) for (the god) Citta (heart) by progeny;
 </details>
 
 <details><summary>मूलम्</summary>
 
-चि॒त्तँ स॑न्ता॒नेन॑  +++(यजामि)+++ ।   
+चि॒त्तँ स॑न्ता॒नेन॑  +++(यजामि)+++ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -26,27 +31,32 @@ title = "३७ राजगवी-होमः"
 
 <details><summary>Keith</summary>
 
-Citta with the sinew, 
+Citta with the sinew,
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-परमेश्वरस्य प्रपञ्चाधिष्ठातृरूपाण्युच्यन्ते एते शरीरहोमाः इमां देवतां अनेन यजामीति । **चित्तं** महान् तस्य अधिष्ठाता **सन्तानः** पुत्रपौत्रादिः आन्त्रं माला पुरीतदित्येके ।  
+परमेश्वरस्य प्रपञ्चाधिष्ठातृरूपाण्युच्यन्ते एते शरीरहोमाः इमां देवतां अनेन यजामीति । **चित्तं** महान् तस्य अधिष्ठाता **सन्तानः** पुत्रपौत्रादिः आन्त्रं माला पुरीतदित्येके ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भवय्ँ᳓ यक्ना᳓+++(←यकृत्)+++  +++(यजामि)+++ ।  
+भवय्ँ᳓ यक्ना᳓+++(←यकृत्)+++  +++(यजामि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
 
-Bhava with the liver, 
+Bhava with the liver,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+for Bhava by liver (Yakṛt),
 </details>
 
 <details><summary>मूलम्</summary>
 
-भ॒वय्ँय॒क्ना  +++(यजामि)+++ ।  
+भ॒वय्ँय॒क्ना  +++(यजामि)+++ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -56,17 +66,22 @@ Bhava with the liver,
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-भवः अपामधिष्ठाता । यकृत् कृष्णो मांसविशेषः ।  
+भवः अपामधिष्ठाता । यकृत् कृष्णो मांसविशेषः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रुद्र᳓न्त᳓निम्ना  +++(यजामि)+++ ।  
+रुद्र᳓न्त᳓निम्ना  +++(यजामि)+++ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+for Rudra by the flesh of the lower part,
 </details>
 
 <details><summary>मूलम्</summary>
 
-रु॒द्रन् तनि॑म्ना  +++(यजामि)+++ ।  
+रु॒द्रन् तनि॑म्ना  +++(यजामि)+++ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -76,27 +91,32 @@ Bhava with the liver,
 
 <details><summary>Keith</summary>
 
-Rudra with the taniman, 
+Rudra with the taniman,
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-रुद्रः आदित्यस्याधिष्ठाता । **तनिमा** पद्मदलवत् - ततो मांसविशेषः ।   
+रुद्रः आदित्यस्याधिष्ठाता । **तनिमा** पद्मदलवत् - ततो मांसविशेषः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प᳓शुप᳓तिँ स्थूल-हृदये᳓न᳓  +++(यजामि)+++ ।  
+प᳓शुप᳓तिँ स्थूल-हृदये᳓न᳓  +++(यजामि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
 
-Paśupati with the thick heart, 
+Paśupati with the thick heart,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+for Paśupati (lord of cattle) by the fat heart,
 </details>
 
 <details><summary>मूलम्</summary>
 
-पशु॒पतिँ॑ स्थूलहृद॒येन  +++(यजामि)+++ ।  
+पशु॒पतिँ॑ स्थूलहृद॒येन  +++(यजामि)+++ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,17 +131,22 @@ Paśupati with the thick heart,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्निँ᳓ हृ᳓दयेन  +++(यजामि)+++ ।  
+अग्निँ᳓ हृ᳓दयेन  +++(यजामि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
 
-Agni with the heart, 
+Agni with the heart,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+for the fire by heart,
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्निँ हृद॑येन  +++(यजामि)+++ ।  
+अ॒ग्निँ हृद॑येन  +++(यजामि)+++ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,22 +156,27 @@ Agni with the heart,
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अग्निः अग्नेरधिष्ठाता । हृदयं सूक्ष्माकाशाधारः प्रदेशविशेषः ।  
+अग्निः अग्नेरधिष्ठाता । हृदयं सूक्ष्माकाशाधारः प्रदेशविशेषः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रुद्रल्ँ᳓ लो᳓हितेन  +++(यजामि)+++ ।  
+रुद्रल्ँ᳓ लो᳓हितेन  +++(यजामि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
 
-Rudra with the blood, 
+Rudra with the blood,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+for Rudra by the blood,
 </details>
 
 <details><summary>मूलम्</summary>
 
-रु॒द्रल्ँलोहि॑तेन  +++(यजामि)+++ ।  
+रु॒द्रल्ँलोहि॑तेन  +++(यजामि)+++ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,22 +186,27 @@ Rudra with the blood,
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-रुद्रः यजमानस्य अधिष्ठाता । लोहितं रक्तम् ।   
+रुद्रः यजमानस्य अधिष्ठाता । लोहितं रक्तम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शर्व᳓म् म᳓तस्नाभ्याम्+++(=kidneys)+++  +++(यजामि)+++ ।  
+शर्व᳓म् म᳓तस्नाभ्याम्+++(=kidneys)+++  +++(यजामि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
 
-Çarva with the kidneys, 
+Çarva with the kidneys,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+for Śarva by the nerves,
 </details>
 
 <details><summary>मूलम्</summary>
 
-श॒र्वम्मत॑स्नाभ्याम्  +++(यजामि)+++ ।  
+श॒र्वम्मत॑स्नाभ्याम्  +++(यजामि)+++ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,22 +216,27 @@ Rudra with the blood,
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-शर्वं आकाशस्य अधिष्ठाता । **मतस्ने** दीर्घौ सिराविशेषौ ।  
+शर्वं आकाशस्य अधिष्ठाता । **मतस्ने** दीर्घौ सिराविशेषौ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-महादेव᳓म् अन्तᳶ᳓पार्श्वेन ।  
+महादेव᳓म् अन्तᳶ᳓पार्श्वेन ।
 </details>
 
 <details><summary>Keith</summary>
 
-Mahadeva with the intestinal flesh, 
+Mahadeva with the intestinal flesh,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+for Mahādeva (great god) by the inner sides,
 </details>
 
 <details><summary>मूलम्</summary>
 
-म॒हा॒दे॒वम॒न्तᳶपा॑र्श्वेन ।  
+म॒हा॒दे॒वम॒न्तᳶपा॑र्श्वेन ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +251,7 @@ Mahadeva with the intestinal flesh,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओषिष्ठ-ह᳓नँ शिङ्गीनिकोश्या᳙भ्याम्   +++(यजामि)+++ ॥ [37]  
+ओषिष्ठ-ह᳓नँ शिङ्गीनिकोश्या᳙भ्याम्   +++(यजामि)+++ ॥ [37]
 </details>
 
 <details><summary>Keith</summary>
@@ -219,9 +259,14 @@ Mahadeva with the intestinal flesh,
 him that slayest most quickly with the entrails.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+for Osiṣṭhahana by fleshes (named Śiṃśinikā, i.e., the parts of singing organs).
+</details>
+
 <details><summary>मूलम्</summary>
 
-ओ॒षि॒ष्ठ॒हनँ॑ शिङ्गी-निको॒श्या॑भ्याम्+++(=??)+++   +++(यजामि)+++ ॥ [37]  
+ओ॒षि॒ष्ठ॒हनँ॑ शिङ्गी-निको॒श्या॑भ्याम्+++(=??)+++   +++(यजामि)+++ ॥ [37]
 </details>
 
 <details><summary>पद-पाठः</summary>

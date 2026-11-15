@@ -781,6 +781,11 @@ The god we meditate,
 That be may stimulate our prayers.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+may we meditate that ray worth choosing of the impelling god (Savitr); which may impell my wisdom,
+</details>
+
 <details><summary>Geldner</summary>
 
 Dieses vorzügliche Licht des Gottes Savitri empfingen wir, der unsere Gedanken anregen soll.

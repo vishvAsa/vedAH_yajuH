@@ -601,6 +601,11 @@ To the Maruts' force hail!
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
 
+<details><summary>त्रिभुवनः</summary>
+
+The swan (is) seated in purity; Vasu (bright one), seated in the mid-region; the Hotr-priest, seated at the altar; the guest, seated in the house; (that is) seated in the men, seated in the highest, seated in the settled order (and) seated in the firmament.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हँ॒सश्शु॑चि॒षद्वसु॑रन्तरिक्ष॒सद्धोता॑ वेदि॒षदति॑थिर्दुरोण॒सत् ।  

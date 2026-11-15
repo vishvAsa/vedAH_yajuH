@@ -423,20 +423,6 @@ And the Vasus gathered together.
 The Puruṣa Sūkta. (From 1 to 18).
 </details>
 
-<div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/_index.md">
-<details open><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
-<details><summary>सायण-भाष्यम्</summary>
-
-‘सहस्रशीर्षा' इति षोडशर्चं षष्ठं सूक्तम् ।  
-नारायण नामर्षिर्  
-अन्त्या त्रिष्टुप् शिष्टा अनुष्टुभः । 
-
-अव्यक्त-महद्-आदि-विलक्षणश् चेतनो यः पुरुषः  
-‘पुरुषाश् च परं किंचित् ' ( क. उ. ३. ११) इत्य्-आदि-श्रुतिषु प्रसिद्धः स देवता । 
-
-तथा चानुक्रान्तं--- सहस्रशीर्षा षोळश नारायणः पौरुषमानुष्टुभं त्रिष्टुबन्तं तु' इति । गतो विनियोगः ।।
-</details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ पुरुषानुवाकः - सहस्रशीर्षेयादि ॥  
@@ -464,6 +450,20 @@ The Puruṣa Sūkta. (From 1 to 18).
 अथ 'सहस्रशीर्षं देवम्' इत्यपरो नारायणानुवाको भविष्यति,  
 यत्र परमात्मा प्रणवाख्यो नारायणः प्रतिपाद्यते ।  
 तस्य अग्न्य्-आदि-श्रौत-पुरुषवत् कर्म-सम्बन्धाभावाद् इहानाम्नानम् ।
+</details>
+
+<div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/_index.md">
+<details open><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
+<details><summary>सायण-भाष्यम्</summary>
+
+‘सहस्रशीर्षा' इति षोडशर्चं षष्ठं सूक्तम् ।  
+नारायण नामर्षिर्  
+अन्त्या त्रिष्टुप् शिष्टा अनुष्टुभः । 
+
+अव्यक्त-महद्-आदि-विलक्षणश् चेतनो यः पुरुषः  
+‘पुरुषाश् च परं किंचित् ' ( क. उ. ३. ११) इत्य्-आदि-श्रुतिषु प्रसिद्धः स देवता । 
+
+तथा चानुक्रान्तं--- सहस्रशीर्षा षोळश नारायणः पौरुषमानुष्टुभं त्रिष्टुबन्तं तु' इति । गतो विनियोगः ।।
 </details>
 
 <details><summary>Jamison Brereton</summary>
@@ -807,11 +807,6 @@ Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die E
 
 ###### 02 पुरुष एवेदम् - अनुष्टुप्
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-इदानीं पुरुषस्य वैश्वरूप्यमाह - पुरुष एवेति ॥
-</details>
-
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/02_puruSha_evedaM.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः …{Loading}…</h8></summary>
 
@@ -1037,6 +1032,7 @@ _________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
+इदानीं पुरुषस्य वैश्वरूप्यमाह - पुरुष एवेति ॥  
 इदं प्रत्यक्षेण दृश्यमानं व्यक्तं स्थावरजङ्गमात्मकं यद्वर्तमानं सर्वं यच्च भूतम् अतीतं यच्च भव्यं भविष्यद् एतत्सर्वं पुरुष एव पुरुषस्यैवायं परिणामः । उत अपि च अयं पुरुषो ऽमृतत्वस्य देवत्वस्यापि ईशानः समर्थः प्रसन्नो ऽमृतत्वमपि प्रापयितुं शक्नोति । देवानामपीश्वर इति यावत् । यच्च अन्नेन अदनीयेन निमित्तेन अतिरोहति कारणावस्थामतीत्य कार्यात्मना जायते मर्त्यादि, तस्यापीशान इत्येव अयोनिजानामन्नरसपरिणामानां चेशान इति ॥
 </details>
 
@@ -5064,11 +5060,6 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/16_vedAham_etam.md">
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-वेदेत्यादयः तिस्रस्त्रिष्टुभः ॥
-</details>
-
 <details><summary>त्रिभुवनः</summary>
 
 Whom the disposer made famous, whom Indra, knowing all the quarters, made famous; by knowing Him one becomes immortal here; there is no other way for going to the (Supreme).
@@ -5084,7 +5075,7 @@ Whom the disposer made famous, whom Indra, knowing all the quarters, made famous
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-एतं महान्तं पुरुषं सहस्रशिरसं अहं वेद जानामि आदित्यवर्णं प्रकाशात्मानं तदेव तमसः पारे स्थितं त्रिगुणा प्रकृतिः तमः तस्य पारं वेलां अतीत्य परत्रावस्थितं अहं वेद । स देवः सर्वाणि रूपाणि विकारलक्षणानर्थान् विचित्य पृथक्वेन उत्पाद्य नामानि च सर्वाणि कृत्वा धीरः धीमान् व्याकृतनामरूपः कृतकृत्यो यदा अभिवदन् आभिमुख्येन वदन् विश्वमनुगृह्णन् आस्ते तदा सर्वदा एवमेव सृष्टिर्वेदितव्येति ॥
+वेदेत्यादयः तिस्रस्त्रिष्टुभः ॥ एतं महान्तं पुरुषं सहस्रशिरसं अहं वेद जानामि आदित्यवर्णं प्रकाशात्मानं तदेव तमसः पारे स्थितं त्रिगुणा प्रकृतिः तमः तस्य पारं वेलां अतीत्य परत्रावस्थितं अहं वेद । स देवः सर्वाणि रूपाणि विकारलक्षणानर्थान् विचित्य पृथक्वेन उत्पाद्य नामानि च सर्वाणि कृत्वा धीरः धीमान् व्याकृतनामरूपः कृतकृत्यो यदा अभिवदन् आभिमुख्येन वदन् विश्वमनुगृह्णन् आस्ते तदा सर्वदा एवमेव सृष्टिर्वेदितव्येति ॥
 
 <details><summary>विश्वास-टिप्पनी</summary>
 

@@ -16,7 +16,7 @@ title = "३३-३ सङ्गाहनम्"
 
 **आ᳓ प्यायस्व** मदिन्-तम  
 सो᳓म वि᳓श्वाभिर् ऊति᳓भिः ।  
-भ᳓वा नस् सप्र᳓थस्तमः ॥ 
+भ᳓वा नस् सप्र᳓थस्तमः ॥
 
 </details>
 
@@ -31,10 +31,15 @@ With all thy aids,
 Be fullest of help for us.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+O Soma, the exalted one, be satisfied by all protections; be increased for us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ प्या॑यस्व मदिन्तम॒ सोम॒ विश्वा॑भिरू॒तिभिः॑ ।  
-भवा॑ नस्स॒प्रथ॑स्तमः ॥ 
+भवा॑ नस्स॒प्रथ॑स्तमः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +172,6 @@ yanti ← √i- 1 (root)
 
 yé ← yá- (pronoun)  
 {}
-
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -304,7 +308,6 @@ _________
     visit; understand.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -380,6 +383,11 @@ They come who shall behold her in days to come.
 <details><summary>Geldner</summary>
 
 Vergangen sind die Sterblichen, welche die früheren Usas´ aufgehen sahen, jetzt hat sie sich von uns beschauen lassen; es kommen die, welche sie in Zukunft sehen werden.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Those men went to the Death, who saw the rising dawns in the old age, we have also to go to (Death) who are seeing (the dawns), and they will also go, who will see the dawns in future.
 </details>
 
 <details><summary>Grassmann</summary>
@@ -466,6 +474,11 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 I place thee that hast light.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+(O Fuel), I put you as shining one (on the dead one)
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्योति॑ष्मतीन्त्वा सादयामि ।
@@ -489,6 +502,11 @@ I place thee that hast light.
 <details><summary>Keith</summary>
 
 I place thee that makest light.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I put you as the maker of the light
 </details>
 
 <details><summary>मूलम्</summary>
@@ -516,6 +534,11 @@ I place thee that makest light.
 I place thee that findest light.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I put you as the knower of the light
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्यो॒ति॒र्विद॑न्त्वा सादयामि ।
@@ -539,6 +562,11 @@ I place thee that findest light.
 <details><summary>Keith</summary>
 
 I place thee that shinest.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I put you as full of light
 </details>
 
 <details><summary>मूलम्</summary>
@@ -566,6 +594,11 @@ I place thee that shinest.
 I place thee that burnest.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I put you as burning
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्वल॑न्तीन्त्वा सादयामि ।
@@ -589,6 +622,11 @@ I place thee that burnest.
 <details><summary>Keith</summary>
 
 I place thee that flashest.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I put you as being burnt with the 'Malmala' sounds of the flames
 </details>
 
 <details><summary>मूलम्</summary>
@@ -616,6 +654,11 @@ I place thee that flashest.
 I place thee that art aflame.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I put you as being shined
+</details>
+
 <details><summary>मूलम्</summary>
 
 दीप्य॑मानान्त्वा सादयामि ।
@@ -639,6 +682,11 @@ I place thee that art aflame.
 <details><summary>Keith</summary>
 
 I place thee that blazest.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I put you as being lighted
 </details>
 
 <details><summary>मूलम्</summary>
@@ -666,6 +714,11 @@ I place thee that blazest.
 I place thee that art immortal.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I put you as many
+</details>
+
 <details><summary>मूलम्</summary>
 
 अज॑स्रान्त्वा  सादयामि  ।
@@ -689,6 +742,11 @@ I place thee that art immortal.
 <details><summary>Keith</summary>
 
 I place thee that hast great light.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I put you as of great light
 </details>
 
 <details><summary>मूलम्</summary>
@@ -716,6 +774,11 @@ I place thee that hast great light.
 I place thee that awakenest.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+I put you as awaking one
+</details>
+
 <details><summary>मूलम्</summary>
 
 बो॒धय॑न्तीन्त्वा सादयामि  ।
@@ -739,6 +802,11 @@ I place thee that awakenest.
 <details><summary>Keith</summary>
 
 I place thee that art awake.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I put you as waking one.
 </details>
 
 <details><summary>मूलम्</summary>

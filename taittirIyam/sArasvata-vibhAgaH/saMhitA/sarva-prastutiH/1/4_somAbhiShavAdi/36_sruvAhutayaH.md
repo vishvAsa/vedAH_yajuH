@@ -16,7 +16,12 @@ title = "३६ स्रुवाहुतयः"
 
 <details><summary>Keith</summary>
 
-To energy hail! 
+To energy hail!
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Prayāsa,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -44,6 +49,11 @@ To energy hail!
 To effort hail!
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Āyāsa!
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒या॒साय॒ स्वाहा॑ ।
@@ -67,6 +77,11 @@ To effort hail!
 <details><summary>Keith</summary>
 
 To distraction hail!
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Viyāsa,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -94,6 +109,11 @@ To distraction hail!
 To attempt hail!
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Saṃyāsa!
+</details>
+
 <details><summary>मूलम्</summary>
 
 सय्ँ॒या॒साय॒ स्वाहा॑ ।
@@ -117,6 +137,11 @@ To attempt hail!
 <details><summary>Keith</summary>
 
 To endeavour hail!
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Udyāsa,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -144,6 +169,11 @@ To endeavour hail!
 To striving hail!
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Avayāsa!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒व॒या॒साय॒ स्वाहा॑ ।
@@ -167,6 +197,11 @@ To striving hail!
 <details><summary>Keith</summary>
 
 To heat hail!
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Śuce!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -194,6 +229,11 @@ To heat hail!
 To burning hail!
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Śoka!
+</details>
+
 <details><summary>मूलम्</summary>
 
 शोका॑य॒ स्वाहा॑ ।
@@ -217,6 +257,11 @@ To burning hail!
 <details><summary>Keith</summary>
 
 To heating hail!
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Tapyatva,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -244,6 +289,11 @@ To heating hail!
 To the hot hail!
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for Tapat!
+</details>
+
 <details><summary>मूलम्</summary>
 
 तप॑ते॒ स्वाहा॑ ।
@@ -269,6 +319,11 @@ To the hot hail!
 To the slaying of a Brahmin hail!
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for the (sin of) killing of the Brāhmaṇas,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒ह॒त्यायै॒ स्वाहा॑ ।
@@ -287,6 +342,11 @@ To the slaying of a Brahmin hail!
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वस्मै स्वा᳓हा ॥
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Hail! for all.
 </details>
 
 <details><summary>मूलम्</summary>
