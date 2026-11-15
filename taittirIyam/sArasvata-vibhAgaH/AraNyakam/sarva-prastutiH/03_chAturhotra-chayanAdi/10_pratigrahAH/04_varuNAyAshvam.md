@@ -2,12 +2,18 @@
 title = "०४ वरुणायाश्वम्"
 +++
 
+<details><summary>त्रिभुवनः</summary>
+
+for Varuṇa as horse
+</details>
+
 <details><summary>मूलम्</summary>
 
 वरु॑णा॒याश्व॑म् ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
+
 <details><summary>मूलम् (संयुक्तम् आरण्यके)</summary>
 
 दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वे ।  
@@ -38,7 +44,7 @@ with the hands of Pusan.
 
 <details><summary>पद-पाठः</summary>
 
-3M । दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
+दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -61,22 +67,33 @@ ______________
 प्र᳓तिगृह्णामि
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+O Goddess Dakṣiṇā (Sacrificial Fee), I take you by the impelling of the impeller Savitṛ, by the hands of Aśvins, by the hands of Pūṣan;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रति॑गृह्णामि
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रा᳓जा त्वा व᳓रुणो नयतु  
-देवि दक्षिणे व᳓रुणाया᳓श्वम् ।  
+देवि दक्षिणे व᳓रुणाया᳓श्वम् ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O goddess Dakṣiṇā, may Varuṇa, the king carry you for Varuṇa as horse.
 </details>
 
 <details><summary>मूलम्</summary>
 
 राजा॑ त्वा॒ वरु॑णो नयतु  
-देवि दक्षिणे॒ वरु॑णा॒याश्व॑म् ।  
+देवि दक्षिणे॒ वरु॑णा॒याश्व॑म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -97,12 +114,18 @@ ______________
 इति वा स्वाभाविकतरम् अभविष्यत् …
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नामृतत्व᳓मश्याम् ।  
 व᳓यो+++(=अन्नम्)+++ दात्रे᳓ ।  
 म᳓यो म᳓ह्यम् अस्तु प्रतिग्रहीत्रे᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+by that may we obtain the immortality; may food be for the donator and comfort for me, the obtainer (4).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -124,6 +147,11 @@ ______________
 का᳓मः का᳓माय ।
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Who gave it whom? Kāma (desire or cupid) gave it for Kāma;
+</details>
+
 <details><summary>मूलम्</summary>
 
 क इ॒दङ्कस्मा॑ अदात् ।  
@@ -143,18 +171,27 @@ ______________
 का᳓मः प्रतिग्रहीता᳓ ।
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+Kāma is the donator, Kāma is the obtainer;
+</details>
+
 <details><summary>मूलम्</summary>
 
 कामो॑ दा॒ता ।  
 (15)  
 कामः॑ प्रतिग्रही॒ता ।
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 का᳓मँ समुद्र᳓म् आ᳓विश ।  
 का᳓मेन त्वा प्र᳓तिगृह्णामि ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+(O Dakṣiṇā) enter Kāma; I take you by Kāma (desire);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -172,6 +209,11 @@ ______________
 
 का᳓मैत᳓त् ते ।  
 एषा᳓ ते काम द᳓क्षिणा ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Kāma, this is yours; O Kāma, this is your Dakṣiṇā (sacrificial fee);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -194,6 +236,11 @@ ______________
 उत्तान᳓स् त्वाङ्गीरसः᳓ प्र᳓तिगृह्णातु ।
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+may Uttāna Āṅgirasa obtain you (5).
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒त्ता॒नस् त्वा॑ङ्गीर॒सः प्रति॑गृह्णातु ।
@@ -208,4 +255,5 @@ ______________
 तस्मात् पृथिव्येव त्वां प्रतिगृह्णातु  
 नाहमस्य प्रतिग्रहीतेति ॥
 </details>
+
 </div>
