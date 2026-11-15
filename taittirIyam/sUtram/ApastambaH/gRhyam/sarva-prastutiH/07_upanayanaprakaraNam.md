@@ -1313,19 +1313,20 @@ title = "०७ उपनयनप्रकरणम्"
 
 अत्रैनम् उत्तरा +++("योगे योगे" इत्येकादर्शचः)+++ आहुतीर् हावयित्वा जयादि प्रतिपद्यते ६  
 
-+++(तत्र द्वितीयचतुर्थौ "इममग्न आयुषे" "अग्निष् ट आयुः प्रतराम्" इति लिङ्गविरोधात् "आयुर्दा देव जरसम्" इतिवत् स्वयमेव ब्रूयात्, नैनं वाचयति । प्रधान-होमेषु हावयित्वेति वचनाद् उपहोमेष्व् आचार्य एव कर्ता।)+++  
+<details><summary>विश्वास-टिप्पनी</summary>
 
-+++(ते च सर्वे माणवकस्यैव । द्वितीयचतुर्थाव् आचार्यस्येत्येके ।)+++
+तत्र द्वितीयचतुर्थौ "इममग्न आयुषे" "अग्निष् ट आयुः प्रतराम्" इति लिङ्गविरोधात् "आयुर्दा देव जरसम्" इतिवत् स्वयमेव ब्रूयात्, नैनं वाचयति । प्रधान-होमेषु हावयित्वेति वचनाद् उपहोमेष्व् आचार्य एव कर्ता।  
+
+ते च सर्वे माणवकस्यैव । द्वितीयचतुर्थाव् आचार्यस्येत्येके ।
+</details>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/01_yogeyoge_tavastaram.md">
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/030/07_yogeyoge_tavastaraM.md">
-<details open><summary><h7>०७ योगेयोगे तवस्तरं …{Loading}…</h7></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/030/07_yogeyoge_tavastaraM.md">
 
 +++(रथादि)+++यो᳓गेयोगे तव᳓स्+++(=गति[वत्])+++तरव्ँ  
 वा᳓जेवाजे हवामहे ।  
 +++(वयं स्तोतृत्वेन)+++ स᳓खाय+++(ः)+++ इ᳓न्द्रम् ऊत᳓ये ।+++(५)+++
 
-</details>
 </div>
 </div>
 

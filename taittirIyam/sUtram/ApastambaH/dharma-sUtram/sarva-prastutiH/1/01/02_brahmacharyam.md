@@ -41,60 +41,60 @@ title = "०२ ब्रह्मचर्यम्"
 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
 
-पव॑मान॒स् सुव॒र्-जनः॑ ।  
-प॒वित्रे॑ण॒ +++(नाना-विषयेषु)+++ विच॑र्षणिः ।  
-यᳶ पोता॒ स **पु॑नातु** मा ।  
+प᳓वमानस् सु᳓वर्-ज᳓नः ।  
+पवि᳓त्रेण +++(नाना-विषयेषु)+++ वि᳓चर्षणिः ।  
+यᳶ᳓ पो᳓ता स᳓ **पुनातु** मा ।  
 
 </div>
 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
 
-**पु॒नन्तु॑** मा **देवज॒नाः** ।  
-पु॒नन्तु॒ **मन॑वो** धि॒या ।  
-पु॒नन्तु॒ **विश्व॑ आ॒यवः॑**+++(=मनुष्याः)+++ ।  
+**पुन᳓न्तु** मा **देवजनाः᳓** ।  
+पुन᳓न्तु **म᳓नवो** धिया᳓ ।  
+पुन᳓न्तु **वि᳓श्व आय᳓वः**+++(=मनुष्याः)+++ ।  
 
 </div>
 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
 
-जात॑वेदᳶ प॒वित्र॑वत् ।  
-प॒वित्रे॑ण **पुनाहि**+++(=पुनीहि)+++ मा ।  
-शु॒क्रेण॑ देव॒ **दीद्य॑त्** ।  
-**अग्ने॒** क्रत्वा॒+++(=प्रज्ञया)+++ क्रतूँ॒र् अनु॑ ॥46॥  
+जा᳓तवेदᳶ पवि᳓त्रवत् ।  
+पवि᳓त्रेण **पुनाहि**+++(=पुनीहि)+++ मा ।  
+शुक्रे᳓ण देव **दी᳓द्यत्** ।  
+**अ᳓ग्ने** क्र᳓त्वा+++(=प्रज्ञया)+++ क्र᳓तूँर् अ᳓नु ॥46॥  
 
 </div>
 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
 
-यत् ते॑ **प॒वित्र॑म् अ॒र्चिषि॑** ।  
-अग्ने॒ वित॑तम् अन्त॒रा ।  
-ब्रह्म॒ तेन॑ **पुनीमहे** ।  
+य᳓त् ते **पवि᳓त्रम् अर्चि᳓षि** ।  
+अ᳓ग्ने वि᳓ततम् अन्तरा᳓ ।  
+ब्र᳓ह्म ते᳓न **पुनीमहे** ।  
 
 </div>
 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
 
-उ॒भाभ्या॑न् देव **सवितः** ।  
-प॒वित्रे॑ण स॒वेन॑ च ।  
-इ॒दम् ब्रह्म॑ **पुनीमहे** ।+++(5)+++  
+उभा᳓भ्यान् देव **सवितः** ।  
+पवि᳓त्रेण सवे᳓न च ।  
+इद᳓म् ब्र᳓ह्म **पुनीमहे** ।+++(5)+++  
 
 </div>
 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
 
-वै॒श्व॒दे॒वी **पु॑न॒ती** दे॒व्य् **आगा॑त्**+++(=आगच्छतु)+++ ।  
-यस्यै॑ ब॒ह्वीस् त॒नुवो॑ वी॒त-पृ॑ष्ठाः+++(=कान्त-स्तुतयः)+++ ।  
-तया॒ **मद॑न्तस्** सध॒-माद्ये॑षु +++(=सह माद्यन्ति येषु सवनेषु)+++ ।  
-व॒यँ **स्या॑म॒** पत॑यो रयी॒णाम् ॥47॥  
+वैश्वदेवी᳓ **पुनती᳓** देव्य् **आ᳓गात्**+++(=आगच्छतु)+++ ।  
+य᳓स्यै बह्वी᳓स् तनु᳓वो वीत᳓-पृष्ठाः+++(=कान्त-स्तुतयः)+++ ।  
+त᳓या **म᳓दन्तस्** सध-मा᳓द्येषु +++(=सह माद्यन्ति येषु सवनेषु)+++ ।  
+वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म् ॥47॥  
 
 </div>
 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
 
-**वै॒श्वा॒न॒रो** र॒श्मिभि॑र् मा **पुनातु** ।   
-**वात॑ᳶ** प्रा॒णेने॑षि॒रो+++(←इष गतौ)+++ म॑यो॒भूः ।  
-**द्यावा॑पृथि॒वी** पय॑सा॒ पयो॑भिः +++(इति क्रमशः)+++ ।   
-ऋ॒ताव॑री+++(=ऋतवत्यौ)+++ य॒ज्ञिये॑ मा **पुनीताम्** ।  
+**वैश्वानरो᳓** रश्मि᳓भिर् मा **पुनातु** ।   
+**वा᳓तᳶ** प्राणे᳓नेषिरो᳓+++(←इष गतौ)+++ मयोभूः᳓ ।  
+**द्या᳓वापृथिवी᳓** प᳓यसा प᳓योभिः +++(इति क्रमशः)+++ ।   
+ऋता᳓वरी+++(=ऋतवत्यौ)+++ यज्ञि᳓ये मा **पुनीताम्** ।  
 
 </div>
 
@@ -112,10 +112,10 @@ title = "०२ ब्रह्मचर्यम्"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn_full.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-आपो॑ अ॒स्मान् मा॒तर॑श् शुन्धन्तु।+++(र४)+++  
-घृ॒तेन॑ नो घृत॒-पुवᳶ॑+++(→घृतपावकाः)+++ पुनन्तु ।  
-विश्व॑म् अ॒स्मत् प्र व॑हन्तु रि॒प्रम्+++(=पापम्)+++ +++(र५)+++  
-उद् +++(अद्भ्य)+++ आ॑भ्य॒श् शुचि॒र् आ पू॒त ए॑मि ।+++(र५)+++
+आ᳓पो अस्मा᳓न् मात᳓रश् शुन्धन्तु।+++(र४)+++  
+घृते᳓न नो घृत-पु᳓वᳶ+++(→घृतपावकाः)+++ पुनन्तु ।  
+वि᳓श्वम् अस्म᳓त् प्र᳓ वहन्तु रिप्र᳓म्+++(=पापम्)+++ +++(र५)+++  
+उ᳓द् +++(अद्भ्य)+++ आभ्यश् शु᳓चिर् आ᳓ पूत᳓ एमि ।+++(र५)+++
 
 </details>
 </div>
@@ -215,10 +215,10 @@ title = "०२ ब्रह्मचर्यम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
 
-+++(अहं)+++ हँ॒सश् शु॑चि॒-षद्, वसु॑र् अन्तरिक्ष॒-सद्,  
-+होता॑ वेदि॒-षद्, अति॑थिर् दुरोण॒-सत् ।  
-नृ॒-षद्, व॑र॒-सद्, ऋ॑त॒-सद् व्यो॑म॒-सद्,  
-अ॒ब्-जा, गो॒-जा, ऋ॑त॒-जा, अ॑द्रि॒-जा, ऋ॒तं बृ॒हत् ॥
++++(अहं)+++ हँस᳓श् शुचि-ष᳓द्, व᳓सुर् अन्तरिक्ष-स᳓द्,  
++हो᳓ता वेदि-ष᳓द्, अ᳓तिथिर् दुरोण-स᳓त् ।  
+नृ-ष᳓द्, वर-स᳓द्, ऋत-स᳓द् व्योम-स᳓द्,  
+अब्-जा᳓, गो-जा᳓, ऋत-जा᳓, अद्रि-जा᳓, ऋतं᳓ बृह᳓त् ॥
 
 </div>
 </details>
@@ -230,9 +230,9 @@ title = "०२ ब्रह्मचर्यम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-2. (They should bathe daily reciting) the seven [^1]  Pāvamānīs, beginning with 'If near or far,' the Yajuṣpavitra, ('May the waters, the mothers purify us,' &c.) the Sāmapavitra, ('With what help assists,' &c.), and the Āṅgirasapavitra ('A swan, dwelling in purity'),
+2. (They should bathe daily reciting) the seven [1]  Pāvamānīs, beginning with 'If near or far,' the Yajuṣpavitra, ('May the waters, the mothers purify us,' &c.) the Sāmapavitra, ('With what help assists,' &c.), and the Āṅgirasapavitra ('A swan, dwelling in purity'),
 
-[^1]:  2. The seven Pāvamānīs are seven verses which occur Rig veda IX, 67, 21-27. Yajuṣpavitra = Taitt. Saṃh. I, 2, 1, 1. The Sāmapavitra is found Sāma-veda I, 2, 2, 3, 5. Āṅgirasapavitra = Ṛj-veda IV, 40, 5.
+[1]:  2. The seven Pāvamānīs are seven verses which occur Rig veda IX, 67, 21-27. Yajuṣpavitra = Taitt. Saṃh. I, 2, 1, 1. The Sāmapavitra is found Sāma-veda I, 2, 2, 3, 5. Āṅgirasapavitra = Ṛj-veda IV, 40, 5.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -245,9 +245,9 @@ title = "०२ ब्रह्मचर्यम्"
 अथोदकोपस्पर्शने मन्त्राः —
 
 **टीका**  
-पवमानः सोमो देवता यासां ताः [^२]पावमान्यः ।  
+पवमानः सोमो देवता यासां ताः [२]पावमान्यः ।  
 
-[^२]:
+[२]:
 
     यदन्ति यच्च दूरके भयं विन्दति मामिह । पवमान वितज्जहि ॥१॥  
     पवमानस्सोऽअद्य नः पवित्रेण विचर्षणिः । यः पोता स पुनातु नः ॥२॥  
@@ -257,13 +257,13 @@ title = "०२ ब्रह्मचर्यम्"
     त्रिभिष्ट्वं देव सवितर्वर्षिष्ठः सोम धामभिः । अग्ने दक्षैः पुनीहि नः ॥६॥  
     पुनन्तु मां देवजनाः पुनन्तु वसवी धिया। विश्वे देवाः पुनीतन मा जातवेदः पुनीहि मा ॥७॥ (ऋ०सं० ७.२, १७, १८.) इति सप्त पावमान्यः ॥  
 
-यजुष्यवित्रेण[^३] 'आपो अस्मान्मातरः शुन्धन्त्वि'त्यनेन, सामपवित्रेण 'कया नश्चित्र आभुवदि'त्यादिगीतेन वामदेव्येन साम्ना, आङ्गिरसेन[^१] 'हंसाशुचिषदि'त्यनेन एतैरञ्जलिना शिरस्यपोऽवसिञ्चेत् ॥ २ ॥  
+यजुष्यवित्रेण[३] 'आपो अस्मान्मातरः शुन्धन्त्वि'त्यनेन, सामपवित्रेण 'कया नश्चित्र आभुवदि'त्यादिगीतेन वामदेव्येन साम्ना, आङ्गिरसेन[१] 'हंसाशुचिषदि'त्यनेन एतैरञ्जलिना शिरस्यपोऽवसिञ्चेत् ॥ २ ॥  
 
-[^३]:  
+[३]:  
 
     आपो अस्मान् मातरश्शुन्धन्तु घृतेन नो घृतपुवः पुनन्तु विश्वमस्मत्प्रवहन्तु रिप्रम्" (तै०सं० १.२.१.) इति यजुःपवित्रम् । 'कया नश्चित्र मा भुवदूती सदावृधस्सखा । कया शचिष्ठया वृता' इत्यस्यामृचि गीयमानं वामदेव्याख्यं साम सामपवित्रम् ॥   
 
-[^१]:  
+[१]:  
 
     हँसश्शुचिषद्वसुरन्तरिक्षसद्धोता वेदिषदतियिर्दुरोणसत् । नृषद्वरसदृतसद्व्योमसदब्जा गोजा ऋतजा अद्रिजा ऋत बृहत्" (तै० सं० ४ २ १ ४.) इत्याङ्गिरस ॥
 </details>
@@ -344,10 +344,12 @@ title = "०२ ब्रह्मचर्यम्"
 अथ यस्य प्रपितामहादि नानुस्मर्यत उपनयनं ते श्मशानसंस्तुताः ॥ ५ ॥  
 
 **टीका**  
-प्रपितामहादि प्रपितामहादारभ्य प्रपितामहः पितामहः पिता स्वयं च यथाकालमिति । ते तथाविधा माणवकाः श्मशानसंस्तुताः । एतेन [^२] 'श्मशाने सर्वतः शम्याप्रासा' दित्यध्ययननिषेध एषामपि सन्निधौ
-भवति ॥ ५॥  
+प्रपितामहादि प्रपितामहादारभ्य प्रपितामहः पितामहः पिता स्वयं च यथाकालमिति ।  
+ते तथाविधा माणवकाः श्मशान-संस्तुताः ।  
+एतेन [२] 'श्मशाने सर्वतः शम्याप्रासाद्'  इत्य् अध्ययननिषेध  
+एषाम् अपि सन्निधौ भवति ॥ ५॥  
 
-[^२]: आप० ध० १. ९. ६.
+[२]: आप० ध० १. ९. ६.
 </details>
 </details>
 
@@ -374,12 +376,12 @@ title = "०२ ब्रह्मचर्यम्"
 <details><summary>हरदत्त-टीका</summary>
 
 **सूत्रम्**  
-तेषामभ्यागमनं भोजनं विवाहमिति च वर्जयेत्तेषामिच्छतां प्रायश्चित्तं द्वादश वर्षाणि त्रैविद्यकं ब्रह्मचर्यं चरेदथोपनयनं[^३]तत उदकोपस्पर्शनं पावमान्यादिभिः ॥ ६ ॥  
+तेषामभ्यागमनं भोजनं विवाहमिति च वर्जयेत्तेषामिच्छतां प्रायश्चित्तं द्वादश वर्षाणि त्रैविद्यकं ब्रह्मचर्यं चरेदथोपनयनं[३]तत उदकोपस्पर्शनं पावमान्यादिभिः ॥ ६ ॥  
 
 **टीका**  
 गतम् । पावमान्यादिभिरित्यनेनैव प्रतिपूरुषं सङ्ख्याय सम्बत्सरानित्येतदपि द्रष्टव्यम् ॥ ६ ॥  
 
-[^३]:
+[३]:
 
     ततस्संवत्सरमुदकोपस्पर्शनम् इति ग. पु. ।
 </details>
@@ -488,9 +490,9 @@ title = "०२ ब्रह्मचर्यम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-10. Afterwards (everything is performed) as in the case of a regular initiation. [^2]  
+10. Afterwards (everything is performed) as in the case of a regular initiation. [2]  
 
-[^2]:  The commentator observes that for those whose great-great-grandfather or remoter ancestors were not initiated, no penance is prescribed, and that it must be fixed by those who know the law.
+[2]:  The commentator observes that for those whose great-great-grandfather or remoter ancestors were not initiated, no penance is prescribed, and that it must be fixed by those who know the law.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -526,15 +528,18 @@ title = "०२ ब्रह्मचर्यम्"
 एवं ततः पूर्वेष्वपि निरूपितमुपनयनम् , अथाऽध्ययनविधिः—
 
 **टीका**  
-एवं यथाविध्युपेतस्य ब्रह्मचारिणस्सत आचार्यकुले वासो भवति । ब्रह्म वेदस्तदर्थं व्रतं चरतीति ब्रह्मचारी। अध्ययनाङ्गानि व्रतानि चरता
-आचार्यकुले वस्तव्यमित्युक्तं भवति ॥ ११ ॥
+एवं यथाविध्य् उपेतस्य ब्रह्मचारिणस् सत  
+आचार्यकुले वासो भवति ।  
+ब्रह्म वेदस् तद्-अर्थं व्रतं चरतीति ब्रह्मचारी।  
+अध्ययनाङ्गानि व्रतानि चरता
+आचार्यकुले वस्तव्यम् इत्य् उक्तं भवति ॥ ११ ॥
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
 
-He who has been initiated shall dwell as a religious student in the house of his teacher, [^3]
+He who has been initiated shall dwell as a religious student in the house of his teacher, [3]
 
-[^3]:  Manu II, 164.
+[3]:  Manu II, 164.
 </details>
 </details>
 
@@ -554,23 +559,23 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-12. For forty-eight years (if he learns all the four Vedas), [^4] 
+12. For forty-eight years (if he learns all the four Vedas), [4] 
 
-[^4]:  Manu III, 1, and Yājñ. I, 36; Weber, Ind. Stud. X, 125.
+[4]:  Manu III, 1, and Yājñ. I, 36; Weber, Ind. Stud. X, 125.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
 
 **सूत्रम्**  
-[^१]अष्टाचत्वारिंशद्वर्षाणि ॥ १२ ॥
+[१]अष्टाचत्वारिंशद्वर्षाणि ॥ १२ ॥
 
 **प्रस्तावः**  
 तत्र कालः—
 
 **टीका**  
-चतुर्णां वेदानामध्ययनकाल एषः । प्रतिवेदं द्वादश ॥ १२ ॥  
+चतुर्णां वेदानाम् अध्ययन-काल एषः । प्रतिवेदं द्वादश ॥ १२ ॥  
 
-[^१]:  
+[१]:  
 
     गोपथब्राह्मणेऽथर्ववेदीये द्वितीयप्रपाठके पश्चमब्राह्मणेऽस्य विधिदृश्यते— तस्मा एतत् प्रोवाचाष्टाचत्वारिंशद्वर्ष तच्चतुर्धा वेदेषु व्यूह्य द्वादशवर्षं ब्रह्मचर्यं, द्वादशवर्षाण्यवरार्धमपि स्तायंश्चरेद्यथा शक्त्यपरम्" ( गोप० ब्रा० पू० २. ५.) इति ॥
 </details>
@@ -601,9 +606,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 पादूनम् ॥ १३ ॥
 
 **टीका**  
-स एव कालः पादून वा प्रत्येतव्यः । पादेनोनं पादूनम् । पररूपं [^२]कतन्तवत् । षट्त्रिंशद्वर्षाणि । प्रतिवेदं नव ॥ १३ ॥  
+स एव कालः पादून वा प्रत्येतव्यः । पादेनोनं पादूनम् । पररूपं [२]कतन्तवत् । षट्त्रिंशद्वर्षाणि । प्रतिवेदं नव ॥ १३ ॥  
 
-[^२]: 'शकन्ध्वादित्वात्' इति घ.पु. ।
+[२]: 'शकन्ध्वादित्वात्' इति घ.पु. ।
 </details>
 </details>
 
@@ -632,9 +637,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 अर्धेन ॥ १४॥
 
 **टीका**  
-ऊनमिति[^३] समस्तमप्यपेक्षते। चतुर्विंशतिर्वर्षाणि। प्रतिवेदं षट् ॥१४॥  
+ऊनमिति[३] समस्तमप्यपेक्षते। चतुर्विंशतिर्वर्षाणि। प्रतिवेदं षट् ॥१४॥  
 
-[^३]:  
+[३]:  
 
     उपसमस्तमिति ख० पु. प्राप्तसमासमपीत्यर्थः । सर्वत्राप्यपेक्षते इति. घ. पु.
 </details>
@@ -685,9 +690,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-16. Twelve years (should be) the shortest time (for his residence with his teacher). [^5] 
+16. Twelve years (should be) the shortest time (for his residence with his teacher). [5] 
 
-[^5]:  The commentator declares that in Manu III, 1, the expression until he has learnt it,' must be understood in this sense, that the pupil may leave his teacher, if he has learnt the Veda, after twelve years' study, never before. But compare also Āśv. Gṛ. Sū. I, 22, 3.
+[5]:  The commentator declares that in Manu III, 1, the expression until he has learnt it,' must be understood in this sense, that the pupil may leave his teacher, if he has learnt the Veda, after twelve years' study, never before. But compare also Āśv. Gṛ. Sū. I, 22, 3.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -696,20 +701,20 @@ He who has been initiated shall dwell as a religious student in the house of his
 द्वादशावरार्ध्यम् ॥ १६ ॥
 
 **टीका**  
-अवरार्ध्यशब्दोऽवरमात्रेत्येतस्मिन्नर्थे वर्तते । द्वादशवर्षाणि अवरमात्रा यथा भवति तथा ब्रह्मचारिणा गुरुकुले वस्तव्यम् । पूर्वेणैव सिद्धे यो ब्रह्मचार्यतिमेधावितया चतुरोऽपि वदानितोऽल्पीयसा कालेन गृह्णाति तेनाप्येतावन्तं कालं गुरुकुले वस्तव्यम् । [^१] 'विद्यया स्नाती'त्येतस्मिन्नपि पक्षे नातित्वरितेन स्नातव्यमित्येवमर्थमिदमारभ्यते । एतेन एकस्य वेदस्य त्रीणि वर्षाणि ब्रह्मचर्यमवश्यं[^२] भावीत्यर्थात्सिद्धम् ।  
+अवरार्ध्यशब्दोऽवरमात्रेत्येतस्मिन्नर्थे वर्तते । द्वादशवर्षाणि अवरमात्रा यथा भवति तथा ब्रह्मचारिणा गुरुकुले वस्तव्यम् । पूर्वेणैव सिद्धे यो ब्रह्मचार्यतिमेधावितया चतुरोऽपि वदानितोऽल्पीयसा कालेन गृह्णाति तेनाप्येतावन्तं कालं गुरुकुले वस्तव्यम् । [१] 'विद्यया स्नाती'त्येतस्मिन्नपि पक्षे नातित्वरितेन स्नातव्यमित्येवमर्थमिदमारभ्यते । एतेन एकस्य वेदस्य त्रीणि वर्षाणि ब्रह्मचर्यमवश्यं[२] भावीत्यर्थात्सिद्धम् ।  
 मनुरप्याह—  
-> [^३]षट्त्रिंशदाब्दिक चर्थ गुरौ विद्यकं व्रतम् ।  
+> [३]षट्त्रिंशदाब्दिक चर्थ गुरौ विद्यकं व्रतम् ।  
 > तदाधिक पादिकं वा ग्रहणान्तिकमेव वा ॥ इति ॥
 
 त्रयाणां वेदानां षट् त्रिंशत् ; एकैकस्य द्वादश । तदर्धिकं त्रयाणामष्टादश; एकैकस्य षट् । पादिकं वा त्रयाणां नव, एकैकस्य त्रीणि । ग्रहणान्तिकमेव वेति एकैकस्य त्रिभ्य ऊर्ध्वमनियमः, न प्रागित्यर्थो द्रष्टव्यः॥१६॥  
 
-[^१]: आप० ध० १.३०.१  
+[१]: आप० ध० १.३०.१  
 
-[^२]:
+[२]:
 
     भावीत्ययमर्थस्सिद्धः । इति ख० पु०  
 
-[^३]: मनु० स्मृ० ३.१
+[३]: मनु० स्मृ० ३.१
 </details>
 </details>
 
@@ -729,9 +734,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-17. A student who studies the sacred science shall not dwell with anybody else (than his teacher). [^6] 
+17. A student who studies the sacred science shall not dwell with anybody else (than his teacher). [6] 
 
-[^6]:  The commentator states that this rule refers only to a temporary, not to a professed student (naiṣṭhika). He also gives an entirely different explanation to the Sūtra, which, according to some, means, 'A student who learns the sacred science shall not fast in order to obtain heaven.' This rendering also is admissible, as the word para may mean either a 'stranger' or 'heaven' and upavāsa, 'dwelling' or 'fasting.'
+[6]:  The commentator states that this rule refers only to a temporary, not to a professed student (naiṣṭhika). He also gives an entirely different explanation to the Sūtra, which, according to some, means, 'A student who learns the sacred science shall not fast in order to obtain heaven.' This rendering also is admissible, as the word para may mean either a 'stranger' or 'heaven' and upavāsa, 'dwelling' or 'fasting.'
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -740,13 +745,13 @@ He who has been initiated shall dwell as a religious student in the house of his
 न ब्रह्मचारिणो विद्यार्थस्य परोपवासोऽस्ति ।। १७ ।।
 
 **टीका**  
-ब्रह्मचारिविद्यार्थशब्दयोरर्थ उक्तः । यो ब्रह्मचारी विद्यार्थो भवति न तेन दिवसमात्रमपि परस्य समीपे वस्तव्यम्। आचार्यस्य समीप एव वस्तव्यमित्युक्तं भवति । विद्यार्थस्येति वचनात् नैष्ठिकस्य कदाचिदन्यत्र [^४]वासेऽपि न दोषः । यद्वा भोजननिवृत्तिरेवोपवासः । परलोकार्थ उपवासः परोपवासः स विद्यार्थस्य न भवति। नैष्ठिकस्य तु[^५] दोषः। अत्र पक्षे [^६] आहिताग्निरनड्वानि'ति विद्यार्थब्रह्मचारिविषयम् ॥१७॥  
+ब्रह्मचारिविद्यार्थशब्दयोरर्थ उक्तः । यो ब्रह्मचारी विद्यार्थो भवति न तेन दिवसमात्रमपि परस्य समीपे वस्तव्यम्। आचार्यस्य समीप एव वस्तव्यमित्युक्तं भवति । विद्यार्थस्येति वचनात् नैष्ठिकस्य कदाचिदन्यत्र [४]वासेऽपि न दोषः । यद्वा भोजननिवृत्तिरेवोपवासः । परलोकार्थ उपवासः परोपवासः स विद्यार्थस्य न भवति। नैष्ठिकस्य तु[५] दोषः। अत्र पक्षे [६] आहिताग्निरनड्वानि'ति विद्यार्थब्रह्मचारिविषयम् ॥१७॥  
 
-[^४]: वासो न दोषः इति क. पु.
+[४]: वासो न दोषः इति क. पु.
 
-[^५]: न दोषः इति ख० पु.
+[५]: न दोषः इति ख० पु.
 
-[^६]: आप० ध० २, ९. १३
+[६]: आप० ध० २, ९. १३
 </details>
 </details>
 
@@ -795,9 +800,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-19. He shall obey his teacher, except (when ordered to commit) crimes which cause loss of caste. [^7] 
+19. He shall obey his teacher, except (when ordered to commit) crimes which cause loss of caste. [7] 
 
-[^7]:  Regarding the crimes which cause loss of caste (patanīya), see below, I, 7, 21, 7.
+[7]:  Regarding the crimes which cause loss of caste (patanīya), see below, I, 7, 21, 7.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -806,11 +811,11 @@ He who has been initiated shall dwell as a religious student in the house of his
 आचार्याधीनस्स्यादन्यत्र पतनीयेभ्यः ॥ १९ ॥  
 
 **टीका**  
-"आचार्याधीनो भवे"त्युपनयनान्ते यत् संशासनं तत्सिद्धैवाचार्याधीनताऽनूद्यते 'अन्यत्र पतनीयेभ्य' इति विशेषं वक्ष्यामीति।[^१]पतनीय इति करणे कृत्प्रत्ययः । [^२]अमुमरातिं ब्राह्मणमित्थं व्यापादयेत्याचार्येण चोदितोऽप्येवमादि न कुर्यादिति ॥ १९ ॥  
+"आचार्याधीनो भवे"त्युपनयनान्ते यत् संशासनं तत्सिद्धैवाचार्याधीनताऽनूद्यते 'अन्यत्र पतनीयेभ्य' इति विशेषं वक्ष्यामीति।[१]पतनीय इति करणे कृत्प्रत्ययः । [२]अमुमरातिं ब्राह्मणमित्थं व्यापादयेत्याचार्येण चोदितोऽप्येवमादि न कुर्यादिति ॥ १९ ॥  
 
-[^१]: करणे प्रत्ययः इति क. पु.  
+[१]: करणे प्रत्ययः इति क. पु.  
 
-[^२]: अस्मदरातिं इति ख० पु.
+[२]: अस्मदरातिं इति ख० पु.
 </details>
 </details>
 
@@ -830,9 +835,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-20. He shall do what is serviceable to his teacher, he shall not contradict him. [^8] 
+20. He shall do what is serviceable to his teacher, he shall not contradict him. [8] 
 
-[^8]:  Manu II, 108, and Yājñ. I, 27.
+[8]:  Manu II, 108, and Yājñ. I, 27.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -841,9 +846,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 हितकारी गुरोरप्रतिलोमयन्वाचा ॥ २० ॥
 
 **टीका**  
-आचार्येण प्रयुक्तोऽप्यप्रयुक्तोऽपि तस्मै हितमेव कुर्यात्, वाचा [^३]प्रातिलोम्यमकुर्वन् ॥ २० ॥  
+आचार्येण प्रयुक्तोऽप्यप्रयुक्तोऽपि तस्मै हितमेव कुर्यात्, वाचा [३]प्रातिलोम्यमकुर्वन् ॥ २० ॥  
 
-[^३]: प्रातिकूल्य इति ख. पु.
+[३]: प्रातिकूल्य इति ख. पु.
 </details>
 </details>
 
@@ -863,9 +868,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-21. He shall always occupy a couch or seat lower (than that of his teacher). [^9] 
+21. He shall always occupy a couch or seat lower (than that of his teacher). [9] 
 
-[^9]:  Manu II, 108, 198; Weber, Ind. Stud. X, 123 and 124.
+[9]:  Manu II, 108, 198; Weber, Ind. Stud. X, 123 and 124.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -874,9 +879,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 अधासनशायी ॥ २१ ॥
 
 **टीका**  
-शयनं शायः । [^४] 'कृत्यल्युटो बहुल'मिति बहुलवचनात् घञ् । अधः आसनशायो यस्य सः अधासनशायी । गुरुसन्निधावध आसीत अधश्शयीतेत्युक्तं भवति । अधश्शदस्य सवर्णदीर्घश्छान्दसः, अपपाठो वा। तृणेषु प्रस्तरेषु चासनशयने शिष्टाचारसिद्धे ॥ २१ ॥  
+शयनं शायः । [४] 'कृत्यल्युटो बहुल'मिति बहुलवचनात् घञ् । अधः आसनशायो यस्य सः अधासनशायी । गुरुसन्निधावध आसीत अधश्शयीतेत्युक्तं भवति । अधश्शदस्य सवर्णदीर्घश्छान्दसः, अपपाठो वा। तृणेषु प्रस्तरेषु चासनशयने शिष्टाचारसिद्धे ॥ २१ ॥  
 
-[^४]: पा० सू० ३. ३. ११३
+[४]: पा० सू० ३. ३. ११३
 </details>
 </details>
 
@@ -925,9 +930,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-23. Nor pungent condiments, salt, honey, or meat. [^10] 
+23. Nor pungent condiments, salt, honey, or meat. [10] 
 
-[^10]:  Regarding the meaning of kṣāra, 'pungent condiments,' see Haradatta on II, 6, 15, 15. Other commentators explain the term differently.--Manu II, 177; Yājñ. I, 33; and Weber, Ind. Stud. X, 123. Āśv. Gṛ. Sū. I, 22, 2.
+[10]:  Regarding the meaning of kṣāra, 'pungent condiments,' see Haradatta on II, 6, 15, 15. Other commentators explain the term differently.--Manu II, 177; Yājñ. I, 33; and Weber, Ind. Stud. X, 123. Āśv. Gṛ. Sū. I, 22, 2.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -936,9 +941,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 तथा क्षारलवणमधुमांसानि ॥ २३ ॥
 
 **टीका**  
-न भुञ्जीतेत्येव । [^५]क्षारादीनि गृह्ये गतानि ॥ २३ ॥  
+न भुञ्जीतेत्येव । [५]क्षारादीनि गृह्ये गतानि ॥ २३ ॥  
 
-[^५]:
+[५]:
 
     क्षारपदार्थः आप.ध. २ १५. ११ सूत्रे व्याख्यास्यते।
 </details>
@@ -989,9 +994,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-25. He shall not use perfumes. [^11] 
+25. He shall not use perfumes. [11] 
 
-[^11]:  Manu II, 177; Yājñ. I, 33.
+[11]:  Manu II, 177; Yājñ. I, 33.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -1020,9 +1025,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-26. He shall preserve chastity. [^12] 
+26. He shall preserve chastity. [12] 
 
-[^12]:  Manu II, 180.
+[12]:  Manu II, 180.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -1031,10 +1036,10 @@ He who has been initiated shall dwell as a religious student in the house of his
 मैथुनं न चरेत् ॥ २६ ॥
 
 **टीका**  
-उपचारक्रिया केली स्पर्शो [^६]भूषणवाससाम् ।  
+उपचारक्रिया केली स्पर्शो [६]भूषणवाससाम् ।  
 एकशय्यासनं क्रीडा चुम्बनालिङ्गने तथा ॥   इत्यादेस्सर्वस्योपलक्षणं मैथुनग्रहणम् ॥ २६ ॥  
 
-[^६]:
+[६]:
 
     भूषणवाससी. इति, क. पु.
 </details>
@@ -1056,9 +1061,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-27. He shall not embellish himself (by using ointments and the like). [^13] 
+27. He shall not embellish himself (by using ointments and the like). [13] 
 
-[^13]:  Manu II, 178; Yājñ. I, 33.
+[13]:  Manu II, 178; Yājñ. I, 33.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -1067,9 +1072,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 उत्सन्नश्लाघः॥२७॥
 
 **टीका**  
-श्लाघा शोभा सा उत्सन्ना यस्य स उत्सन्नश्लाघः । एवंभूतो भवेत् । [^१]स्रक्षणादिना मुखादिकं उज्वलं न कुर्यात् इति ॥ २७ ॥  
+श्लाघा शोभा सा उत्सन्ना यस्य स उत्सन्नश्लाघः । एवंभूतो भवेत् । [१]स्रक्षणादिना मुखादिकं उज्वलं न कुर्यात् इति ॥ २७ ॥  
 
-[^१]: मृत्कल्कादिना इति क.पु.
+[१]: मृत्कल्कादिना इति क.पु.
 </details>
 </details>
 
@@ -1098,9 +1103,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 अङ्गानि न प्रक्षालयीत ॥ २८ ॥  
 
 **टीका**  
-[^२]विना शिरसा सुखार्थमुष्णोदकादिना शरीरं न प्रक्षालयेत् ॥२८॥  
+[२]विना शिरसा सुखार्थमुष्णोदकादिना शरीरं न प्रक्षालयेत् ॥२८॥  
 
-[^२]:
+[२]:
 
     स्नानसमये आमलकादिभिन क्षालयेत । इति क० पु.
 </details>
@@ -1122,24 +1127,24 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-29. But, if it is soiled by unclean things, he shall clean it (with earth or water), in a place where he is not seen by a Guru. [^14] 
+29. But, if it is soiled by unclean things, he shall clean it (with earth or water), in a place where he is not seen by a Guru. [14] 
 
-[^14]:  'Here, in the section on the teacher, the word guru designates the father and the rest also.'--Haradatta.
+[14]:  'Here, in the section on the teacher, the word guru designates the father and the rest also.'--Haradatta.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
 
 **सूत्रम्**  
-प्रक्षालयीत त्वशुचिलिप्तानि[^३] गुरोरसन्दर्शे ॥२९॥
+प्रक्षालयीत त्वशुचिलिप्तानि[३] गुरोरसन्दर्शे ॥२९॥
 
 **टीका**  
-यानि तु मूत्रपुरीषाद्यशुचिलिप्तान्यङ्गानि तानि कामं[^४] मृदाद्भिः प्रक्षालयेत् यावद्गन्धो लेपश्चापैति । तदपि गुरोरसन्दर्शे[^५] यत्र स्थितं गुरुर्न पश्यति तत्र। आचार्यप्रकरणे गुरुग्रहणात् पित्रादीनामपि ग्रहणम् ॥ २९ ॥  
+यानि तु मूत्रपुरीषाद्यशुचिलिप्तान्यङ्गानि तानि कामं[४] मृदाद्भिः प्रक्षालयेत् यावद्गन्धो लेपश्चापैति । तदपि गुरोरसन्दर्शे[५] यत्र स्थितं गुरुर्न पश्यति तत्र। आचार्यप्रकरणे गुरुग्रहणात् पित्रादीनामपि ग्रहणम् ॥ २९ ॥  
 
-[^३]: गुरोरसन्दर्शने इति क. पु.  
+[३]: गुरोरसन्दर्शने इति क. पु.  
 
-[^४]: मृद्वारिभि. इति व. पु.  
+[४]: मृद्वारिभि. इति व. पु.  
 
-[^५]:
+[५]:
 
     यत्र गुरुन पश्यति तत्र । इति ख. पु. 'यत्र लिप्तं गुरुः' इति ग, पु.
 </details>
@@ -1161,21 +1166,21 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-30. Let him not sport in the water whilst bathing; let him swim (motionless) like a stick. [^15] 
+30. Let him not sport in the water whilst bathing; let him swim (motionless) like a stick. [15] 
 
-[^15]:  Another version of the first portion of this Sūtra, proposed by Haradatta, is, 'Let him not, whilst bathing, clean himself (with bathing powder or the like).' Another commentator takes Sūtra 28 as a prohibition of the daily bath or washing generally ordained for Brāhmaṇas, and refers Sūtra 29. to the naimittika snāna or 'bathing on certain occasions,' and takes Sūtra 30 as a restriction of the latter.
+[15]:  Another version of the first portion of this Sūtra, proposed by Haradatta, is, 'Let him not, whilst bathing, clean himself (with bathing powder or the like).' Another commentator takes Sūtra 28 as a prohibition of the daily bath or washing generally ordained for Brāhmaṇas, and refers Sūtra 29. to the naimittika snāna or 'bathing on certain occasions,' and takes Sūtra 30 as a restriction of the latter.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
 
 **सूत्रम्**  
-[^६] नाप्सु श्लाघमानः स्नायाद्यदि
+[६] नाप्सु श्लाघमानः स्नायाद्यदि
 स्नायाद्दण्डवत्प्लवेत् ॥ ३० ॥  
 
 **टीका**  
 स्नाने प्राप्त न श्लाघमानः स्नायात् । किं तु दण्डवत्प्लवेदित्युक्तम् । स्नानीयैर्मलापकर्षणं श्लाघा; क्रीडा वा जले । अपरं आह-'अङ्गानि न प्रक्षालयीते'(सू.२८)त्यासमावर्तनान्नित्यस्नानस्य प्रतिषेधः । 'प्रक्षालयीत त्वशुचिलिप्तानी'(सू.२९)ति नैमित्तिकस्य विधिः। 'नाप्सु श्लाघमानः स्नाया'(सू. ३०)दिति तत्रैव श्लाघाप्रतिषेध इति ॥३०॥  
 
-[^६]:  
+[६]:  
 
     नाप्सु श्लाघमानस्स्नायादित्येतावदेव ख. पु. सूत्रम् ।
     > “अधाद्भिश्श्लाघमानो न स्नायात् तेन ता श्लाघामवरुन्धे" (गो. ब्रा. पू. १२.) इति गोपथब्राह्मणम् ॥
@@ -1198,9 +1203,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-31. He shall wear all his hair tied in one braid. [^16] 
+31. He shall wear all his hair tied in one braid. [16] 
 
-[^16]:  Manu II, 2 19.
+[16]:  Manu II, 2 19.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -1258,9 +1263,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-33. The girdle of a Brāhmaṇa shall be made of Muñja grass, and consist of three strings; if possible, (the strings) should be twisted to the right. [^17] 
+33. The girdle of a Brāhmaṇa shall be made of Muñja grass, and consist of three strings; if possible, (the strings) should be twisted to the right. [17] 
 
-[^17]:  Manu II, 42-44; Yājñ. I, 29; Āśv. Gṛ. Sū. I, 19, 12; Weber, Ind. Stud. X, 23.
+[17]:  Manu II, 42-44; Yājñ. I, 29; Āśv. Gṛ. Sū. I, 19, 12; Weber, Ind. Stud. X, 23.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -1387,9 +1392,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 सैरी तामली वेत्येके ॥ ३७ ॥
 
 **टीका**  
-सैरी सीरा बाहयोक्त्ररज्जुः। [^१]तामलो मूलोदसंज्ञको वृक्षः तस्य त्वचा ग्रथिता तामली ॥ ३७ ॥    
+सैरी सीरा बाहयोक्त्ररज्जुः। [१]तामलो मूलोदसंज्ञको वृक्षः तस्य त्वचा ग्रथिता तामली ॥ ३७ ॥    
 
-[^१]:  
+[१]:  
 
     तमालादण् तमालसंज्ञो वृक्षः तस्य• इति घ पु.
 </details>
@@ -1414,22 +1419,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-38. The staff worn by a Brāhmaṇa should be made of Palāśa wood, that of a Kṣatriya of a branch of the Banian tree, which grows downwards, that of a Vaiśya of Bādara or Udumbara wood. Some declare, without any reference to caste, that the staff of a student should be made of the wood of a tree (that is fit to be used at the sacrifice). [^18] 
+38. The staff worn by a Brāhmaṇa should be made of Palāśa wood, that of a Kṣatriya of a branch of the Banian tree, which grows downwards, that of a Vaiśya of Bādara or Udumbara wood. Some declare, without any reference to caste, that the staff of a student should be made of the wood of a tree (that is fit to be used at the sacrifice). [18] 
 
-[^18]:  Manu II, 45; Yājñ. I, 29; Āśv. Gṛ. Sū. I, 19, 13; 20, 1; Weber, Ind. Stud. X, 23.
+[18]:  Manu II, 45; Yājñ. I, 29; Āśv. Gṛ. Sū. I, 19, 13; 20, 1; Weber, Ind. Stud. X, 23.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
 
 **सूत्रम्**  
-पालाशो दण्डो ब्राह्मणस्य नैयग्रोधस्कन्धजोऽवा[^२] ङग्रो राजन्यस्य बादर औदुम्बरो वा वैश्यस्य वाक्षों दण्ड इत्यवर्णसंयोगेनैक उपदिशन्ति ॥ ३८ ॥  
+पालाशो दण्डो ब्राह्मणस्य नैयग्रोधस्कन्धजोऽवा[२] ङग्रो राजन्यस्य बादर औदुम्बरो वा वैश्यस्य वाक्षों दण्ड इत्यवर्णसंयोगेनैक उपदिशन्ति ॥ ३८ ॥  
 
 **टीका**  
-पालाशो दण्ड इत्यादि गृह्य[^३]गतम् ॥ ३८ ॥  
+पालाशो दण्ड इत्यादि गृह्य[३]गतम् ॥ ३८ ॥  
 
-[^२]: अवाङ्ग्रः' इति क. पु  
+[२]: अवाङ्ग्रः' इति क. पु  
 
-[^३]: आाप० गृ० ११. १५
+[३]: आाप० गृ० ११. १५
 </details>
 </details>
 
@@ -1449,9 +1454,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-39. (He shall wear) a cloth (to cover his nakedness). [^19] 
+39. (He shall wear) a cloth (to cover his nakedness). [19] 
 
-[^19]:  The word forms a Sūtra by itself, in order to show that every one must wear this cloth.
+[19]:  The word forms a Sūtra by itself, in order to show that every one must wear this cloth.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -1480,9 +1485,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-40. (It shall be made) of hemp for a Brāhmaṇa, of flax (for a Kṣatriya), of the skin of a (clean) animal (for a Vaiśya). [^20] 
+40. (It shall be made) of hemp for a Brāhmaṇa, of flax (for a Kṣatriya), of the skin of a (clean) animal (for a Vaiśya). [20] 
 
-[^20]:  Manu II, 41. 'Clean' means here and everywhere else, if applied to animals or things,' fit to be used at the sacrifice.'
+[20]:  Manu II, 41. 'Clean' means here and everywhere else, if applied to animals or things,' fit to be used at the sacrifice.'
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -1514,9 +1519,9 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-41. Some declare that the (upper)+++(sic)+++ garment (of a Brāhmaṇa) should be dyed with red Lodh, [^21] 
+41. Some declare that the (upper)+++(sic)+++ garment (of a Brāhmaṇa) should be dyed with red Lodh, [21] 
 
-[^21]:  Āśv. Gṛ. Sū. I, 19, 11; Weber, Ind. Stud X, 22.
+[21]:  Āśv. Gṛ. Sū. I, 19, 11; Weber, Ind. Stud X, 22.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>

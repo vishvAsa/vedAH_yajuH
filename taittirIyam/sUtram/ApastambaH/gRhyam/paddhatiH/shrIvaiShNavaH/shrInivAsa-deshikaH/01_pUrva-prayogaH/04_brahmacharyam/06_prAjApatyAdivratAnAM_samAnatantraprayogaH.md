@@ -668,8 +668,6 @@ may not the seers, the makers of the Mantras, the lords of the Mantras disobey m
 <details><summary>त्रिभुवनः</summary>
 
 may I not disobey the seers, the makers of the Mantras, the lords of the Mantras.
-
-: *(Mantras 1–7)* Propitiatory Mantras. (From 1 to 7).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -704,6 +702,11 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 किञ्च - वैश्वदेवीं विश्वेषां देवानां सम्बन्धिनीं तेभ्यो हितत्वात् तादृशीमेव वाचम् उद्यासं वदितुं समर्थो भूयासं शिवां सुखहेतुम् अदस्ताम् अनुपक्षीणां देवेभ्यो जुष्टां प्रियम् ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+शर्म मे द्यौरित्य् अनुष्टुप् ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श᳓र्म मे द्यौ᳓श्, श᳓र्म पृथिवी᳓, श᳓र्म वि᳓श्वम् इदं᳓ ज᳓गत् ।  
@@ -724,7 +727,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-शर्म मे द्यौरित्य् अनुष्टुप् ॥ द्युप्रभृतयोऽधुना शर्म सुखहेतवो भवन्तु मे तादृशीं वाचं वदतः ब्रह्मा स्रष्टा प्रजापतिः परमात्मा तावुभौ शर्म यच्छताम् ॥
+द्युप्रभृतयोऽधुना शर्म सुखहेतवो भवन्तु मे तादृशीं वाचं वदतः ब्रह्मा स्रष्टा प्रजापतिः परमात्मा तावुभौ शर्म यच्छताम् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1066,7 +1069,6 @@ I burned that (earth),
 may that, being burnt, burn me (make me shine) with life, brilliance, splendour, prosperity, fame, brilliance of sacred knowledge[P206_6], food etc., Hail!
 
 [P206_6]: Brilliance of sacred knowledge: divine intuition.
-: *(Mantras 1–3)* Mantras for offering the Udumbara wood.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1265,7 +1267,6 @@ I burned that;
 may that, being burnt, make me shine with life, brilliance[P205_4], splendour, prosperity, fame, brilliance of sacred knowledge and food etc., Hail!
 
 [P205_4]: Brilliance: shining light of sacred knowledge.
-: *(Mantra 2)* Offering of Udumbara wood.
 </details>
 
 <details><summary>मूलम्</summary>

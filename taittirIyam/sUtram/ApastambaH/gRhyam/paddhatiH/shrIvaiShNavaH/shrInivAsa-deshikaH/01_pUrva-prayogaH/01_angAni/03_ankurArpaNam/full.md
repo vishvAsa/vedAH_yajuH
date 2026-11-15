@@ -1,14 +1,12 @@
 +++
 title = "+०३ अङ्कुरार्पणम् (पूर्णपाठः)"
-
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="../">
-<details open><summary><h1>+०३ अङ्कुरार्पणम् ...{Loading}...</h1></summary>
-</details>
-</div>
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="../"></div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../01_kAla-sankalpau/">
-<details open><summary><h2>०१ काल-सङ्कल्पौ ...{Loading}...</h2></summary>
+
+## ०१ काल-सङ्कल्पौ …{Loading}…
 
 चौलोपनयन-विवाह-कर्मसु  
 आदौ अङ्गत्वेन अङ्कुरार्पणं स्मृतम् ॥ 
@@ -21,10 +19,11 @@ title = "+०३ अङ्कुरार्पणम् (पूर्णपा�
 
 शुद्धि-पुण्याहं कृत्वा प्रोक्ष्य,  
 
-</details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../02_pAlikA-vyavasthA/">
-<details open><summary><h2>०२ पालिका-व्यवस्था ...{Loading}...</h2></summary>
+
+## ०२ पालिका-व्यवस्था …{Loading}…
 
 चतुर्-अश्र-मण्डले व्रीहीन् निक्षिप्य  
 तत्र पञ्च पालिकाः स्थापयेत् ।  
@@ -43,10 +42,12 @@ title = "+०३ अङ्कुरार्पणम् (पूर्णपा�
 
 பிறகு எழுந்து நின்று, "திசாம்பதீந்" என்கிற மந்திரத்தினால் பாலிகை தேவதைகளை உபஸ்தானம் செய்து விட்டு உட்கார வேண்டும். பிராம்மணர்களைக் கொண்டு ஓஷதீ ஸுக்தத்தை ஜபம் செய்ய வேண்டும். த்ரவ்யங்களாவன: நெல்-யவம், உளுந்து - எள்-பயறு, கடுகு இவ்வளவு மட்டுமே சொல்லப் பட்டுள்ளதால் மொச்சை-கடலை, பருத்திக் கொட்டை தவிர்த்தல் நல்லது. "பிரம்மஜஜ்ஞானம்" என்கிற இரண்டு மந்திரங்களினால் நடு பாலிகையிலும் "யத இந்த்ர" என்கிற இரண்டு மந்திரங்களினால் கீழண்டை வகையறாக்களைத்
 </details>
-</details>
+
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../03_AvAhanAdi/">
-<details open><summary><h2>०३ आवाहनादि ...{Loading}...</h2></summary>
+
+## ०३ आवाहनादि …{Loading}…
 
 मध्यम-पालिकायाम्  
 
@@ -108,10 +109,11 @@ title = "+०३ अङ्कुरार्पणम् (पूर्णपा�
 
 उपविश्य, 
 
-</details>
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../04_bIja-vyavasthA/">
-<details open><summary><h2>०४ बीज-व्यवस्था ...{Loading}...</h2></summary>
+
+## ०४ बीज-व्यवस्था …{Loading}…
 
 व्रीहि-यव-माष-तिल-मुद्ग-सर्षपान्  
 पात्रे संसृज्य  
@@ -124,14 +126,11 @@ title = "+०३ अङ्कुरार्पणम् (पूर्णपा�
 
 பாலிகையிலும் 'யோஸ்ய கௌஷ்ட்ய' என்கிற இரண்டு மந்திரங்களால் தென்னண்டை பாலிகையிலும், "இமம்மேவருண" என்கிற இரண்டு மந்திரங்களினால் மேலண்டை பாலிகையிலும், "ஸோமோதேனும்” என்கிற இரண்டு மந்திரங்களினால் வடவண்டை பாலிகையிலும் மும்மூன்று தடவை பீஜாவாபம் செய்ய வேண்டும். பிறகு ஐந்து, ஏழு என்கிற க்ரமத்தில் ஒற்றைப் படை ஸ்த்ரீகளைக் கொண்டு பாலிகைகளுக்குத் தீர்த்தம் சேர்க்க வேண்டும். இந்த அங்குரார்ப்பணம் சௌளம்- உபநயநம் விவாஹம் இவைகளில் ஆரம்பத்திலேயே செய்ய வேண்டும். ஒரே ஸமயத்தில் சௌளம்-உபநயனம் இரண்டும் சேர்ந்து நடந்தால் இரண்டின் அங்கமாக ஒரே தடவை அங்குரார்ப்பணத்தைச் செய்தால் போதும். ஒரே ஸமயத்தில் கர்மாக்கள் செய்யும்படி நேருமாகில் அப்யுதயம்-அங்குரார்ப்பணம் ரக்ஷாபந்தனம் இவைகளை ஒரே தடவை மட்டும் செய்தால் போதும் என்று வசனம். சுப அனேக
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH">
-<details open><summary><h7>०६ ओषधिवापः ...{Loading}...</h7></summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 कृष्टायां भुवि ओषधिवापः
-</details>
-
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
  अनुष्टुप ,  ९ बृहती , अगनिर्ऋषिः
 
@@ -146,17 +145,20 @@ title = "+०३ अङ्कुरार्पणम् (पूर्णपा�
 कल्पः—“या जाता ओषधय इति चतुर्दशभिरोवधीर्वपति” इति ।  
 तत्र प्रथमामाह–  या जाता इति।  
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/02_yA_jAtA.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-या **जा॒ता** ओष॑धयो  
-दे॒वेभ्य॑स् त्रि-यु॒गम् पु॒रा ।  
-**मन्दा॑मि** ब॒भ्रूणा॑म् अहँ  
-श॒तन् धामा॑नि स॒प्त च॑ ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/02_yA_jAtA.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+या᳓ **जाता᳓** ओ᳓षधयो  
+देवे᳓भ्यस् त्रि-युग᳓म् पुरा᳓ ।  
+**म᳓न्दामि** बभ्रू᳓णाम् अहँ  
+शत᳓न् धा᳓मानि सप्त᳓ च ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/02_yA_jAtA.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 The plants born  
@@ -171,6 +173,11 @@ The seven and a hundred abodes.
 मन्दा॑मि ब॒भ्रूणा॑महँ श॒तन्धामा॑नि स॒प्त च॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+याः । जा॒ताः । ओष॑धयः । दे॒वेभ्यः॑ । त्रि॒यु॒गमिति॑ त्रि-यु॒गम् । पु॒रा ॥ मन्दा॑मि । ब॒भ्रूणा॑म् । अ॒हम् । श॒तम् । धामा॑नि । स॒प्त । च॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 युगशब्दः कालवाची ।  
@@ -178,17 +185,25 @@ The seven and a hundred abodes.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/03_shatav.N_vo.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-श॒तव्ँ वो॑ अम्ब॒ **धामा॑नि**  
-स॒हस्र॑म् उ॒त वो॒ **रुहः॑** ।  
-अथा॑ शत-क्रत्वो यू॒यम्  
-इ॒मम् मे॑ **अग॒दङ् कृ॑त** ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/03_shatav.N_vo.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+शतव्ँ᳓ वो अम्ब **धा᳓मानि**  
+सह᳓स्रम् उत᳓ वो **रु᳓हः** ।  
+अ᳓था शत-क्रत्वो यूय᳓म्  
+इम᳓म् मे **अगद᳓ङ् कृत** ।
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ द्वितीयामाह— शतं वो अम्बेति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/03_shatav.N_vo.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 A hundred, O mother, are your abodes, A thousand too your shoots,  
@@ -202,9 +217,13 @@ Make him whole for me.
 अथा॑ शतक्रत्वो यू॒यमि॒मम्मे॑ अग॒दङ्कृ॑त ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+श॒तम् । वः॒ । अ॒म्ब॒ । धामा॑नि । स॒हस्र॑म् । उ॒त । वः॒ । रुहः॑ ॥ अथ॑ । श॒त॒क्र॒त्व॒ इति॑ शत-क्र॒त्वः॒ । यू॒यम् । इ॒मम् । मे॒ । अ॒ग॒दम् । कृ॒त॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ द्वितीयामाह— शतं वो अम्बेति ।  
 हेऽम्ब मातृस्थानीया ओषधयो वो युष्माकं धामानि जातिभेदाः क्षेत्राणि वा शतं सन्ति ।  
 उतापि च वो युष्माकं रुहः प्ररोहा अङ्कुराश्च सहस्रं सन्ति ।  
 सहस्रमित्यासामपरिमितत्वमुपलक्ष्यते ।  
@@ -212,17 +231,25 @@ Make him whole for me.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/04_puShpAvatIpH_prasUvatIpH.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-पुष्पा॑वतीᳶ प्र॒सूव॑तीᳶ  
-फ॒लिनी॑र् अ-फ॒ला उ॒त ।  
-अश्वा॑ इव **स॒-जित्व॑रीर्**  
-वी॒रुधᳶ॑ **पारयि॒ष्णवः॑** ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/04_puShpAvatIpH_prasUvatIpH.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+पु᳓ष्पावतीᳶ प्रसू᳓वतीᳶ  
+फलि᳓नीर् अ-फला᳓ उत᳓ ।  
+अ᳓श्वा इव **स-जि᳓त्वरीर्**  
+वीरु᳓धᳶ **पारयिष्ण᳓वः** ।
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ तृतीयामाह– पुष्पावतीरिति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/04_puShpAvatIpH_prasUvatIpH.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 With flowers, with shoots,  
@@ -237,9 +264,13 @@ The plants are strong to help.
 अश्वा॑ इव स॒जित्व॑रीर्वी॒रुधᳶ॑ पारयि॒ष्णवः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पुष्पा॑वती॒रिति॒ पुष्प॑-व॒तीः॒ । प्र॒सूव॑ती॒रिति॑ प्र-सूव॑तीः । फ॒लिनीः॑ । अ॒फ॒लाः । उ॒त ॥ अश्वाः॑ । इ॒व॒ । स॒जित्व॑री॒रिति॑ स-जित्व॑रीः । वी॒रुधः॑ । पा॒र॒यि॒ष्णवः॑ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ तृतीयामाह– पुष्पावतीरिति ।  
 अत्रौषधयो नानाविधैर्विशेषणैः प्रशस्यन्ते ।  
 पुष्पावतीः काश्चिदोषधयः पुष्पमात्रपर्यवसायिन्यो न तु फलन्ति ।  
 प्रसूवतीरन्या ओषधयः पुष्पपूर्व-कफलोत्पत्तिस्थायिन्यः ।  
@@ -253,17 +284,25 @@ The plants are strong to help.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/05_oShadhIr_iti.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-"ओष॑धी॒र्"+++(=ओष=दाह/पाक+धीः)+++ इति॑ मातर॒स्  
-तद् वो॑ देवी॒र् **उप॑ ब्रुवे** ।  
-रपाँ॑सि+++(=पापानि)+++ **विघ्न॒तीर्** इ॑त॒  
-रप॑श् **चा॒तय॑मानाः** ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/05_oShadhIr_iti.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+"ओ᳓षधीर्"+++(=ओष=दाह/पाक+धीः)+++ इ᳓ति मातरस्  
+त᳓द् वो देवीर् **उ᳓प ब्रुवे** ।  
+र᳓पाँसि+++(=पापानि)+++ **विघ्नती᳓र्** इत  
+र᳓पश् **चात᳓यमानाः** ।
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ चतुर्थीमाह– ओषधीरितीति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/05_oShadhIr_iti.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 'Plants', O ye mothers,  
@@ -278,9 +317,13 @@ Defilement [1] destroying.
 रपाँ॑सि विघ्न॒तीरि॑त॒ रपः॑ [24]  चा॒तय॑मानाः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ओष॑धीः । इति॑ । मा॒त॒रः॒ । तत् । वः॒ । दे॒वीः॒ । उपेति॑ । ब्रु॒वे॒ ॥ रपाँ॑सि । वि॒घ्न॒तीरिति॑ वि-घ्न॒तीः । इ॒त॒ । रपः॑ । चा॒तय॑मानाः ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ चतुर्थीमाह– ओषधीरितीति ।  
 हे मातरो मातृसमाना देवीर्देव्यः।  
 इतिशब्दोऽत्र हेत्वर्थे वर्तते ।  
 यस्माद् ओषधीर् युयमोषधयस्  
@@ -291,17 +334,25 @@ Defilement [1] destroying.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/06_ashvatthe_vo.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-अ॒श्व॒त्थे वो॑ **नि॒षद॑नम्**  
-प॒र्णे वो॑ **वस॒तिᳵ** कृ॒ता ।  
-गो॒-भाज॒ इत् **किला॑सथ॒**  
-यत् **स॒नव॑थ॒**+++(←दाने)+++ पूरु॑षम् ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/06_ashvatthe_vo.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+अश्वत्थे᳓ वो **निष᳓दनम्**  
+पर्णे᳓ वो **वसतिᳵ᳓** कृता᳓ ।  
+गो-भा᳓ज इ᳓त् **कि᳓लासथ**  
+य᳓त् **सन᳓वथ**+++(←दाने)+++ पू᳓रुषम् ।
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ पञ्चमीमाह– अश्वत्थे व इति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/06_ashvatthe_vo.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 In the Aśvattha is your seat,  
@@ -316,9 +367,13 @@ If ye shall gain this man.
 गो॒भाज॒ इत्किला॑सथ॒ यत्स॒नव॑थ॒ पूरु॑षम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒श्व॒त्थे । वः॒ । नि॒षद॑न॒मिति॑ नि-सद॑नम् । प॒र्णे । वः॒ । व॒स॒तिः । कृ॒ता ॥ गो॒भाज॒ इति॑ गो-भाजः॑ । इत् । किल॑ । अ॒स॒थ॒ । यत् । स॒नव॑थ । पूरु॑षम् ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ पञ्चमीमाह– अश्वत्थे व इति ।  
 हे ओषधिदेवता वो युष्माकमश्वत्थे निषदनं पर्णे पला-शवृक्षे वो युष्माक वसतिः कृता निवासकारणं गृहं कृतम् ।  
 देवताधिष्ठतत्वादेव लोके-ऽश्वत्थवृक्षः प्रदक्षिणनस्कारादिभिः पूज्यते ।  
 पलाशवृक्षश्चेघ्मादिरूपेण कर्म साधनं संपन्नः ।  
@@ -327,17 +382,25 @@ If ye shall gain this man.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/07_yad_ahav.N.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-यद् अ॒हव्ँ **वा॒जय॑न्न्** इ॒मा  
-ओष॑धी॒र् हस्त॑ **आद॒धे** ।  
-आ॒त्मा यक्ष्म॑स्य **नश्यति**  
-पु॒रा जी॑व॒-गृभो॑ यथा ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/07_yad_ahav.N.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+य᳓द् अहव्ँ᳓ **वाज᳓यन्न्** इमा᳓  
+ओ᳓षधीर् ह᳓स्त **आदधे᳓** ।  
+आत्मा᳓ य᳓क्ष्मस्य **नश्यति**  
+पुरा᳓ जीव-गृ᳓भो यथा ।
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ षष्ठीमाह— यदहं वाजयन्निति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/07_yad_ahav.N.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 In that in strength I seize  
@@ -352,28 +415,38 @@ As before one that taketh alive.
 आ॒त्मा यक्ष्म॑स्य नश्यति पु॒रा जी॑व॒गृभो॑ यथा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । अ॒हम् । वा॒जय॑न् । इ॒माः । ओष॑धीः । हस्ते॑ । आ॒द॒ध इत्या॑-द॒धे ॥ आ॒त्मा । यक्ष्म॑स्य । न॒श्य॒ति॒ । पु॒रा । जी॒व॒गृभ॒ इति॑ जीव-गृभः॑ । य॒था॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ षष्ठीमाह— यदहं वाजयन्निति ।  
 यद्यदाऽहं वाजयन्नन्नमिच्छन्निमा ओषधीर्हस्त आदधामि तदानीमेव यक्ष्मस्य क्षुधादिरोगस्याऽऽत्मा स्वरूपं पुरा नश्यति भोजनात्प्रगेव नष्टसदृशो भवति ।  
 तत्र दृष्टान्तः—यथा लोके जीवगृभो धीवरैर्जीवस्य शशादेर्ग्रहणात्पुरा भीतः शशः कर्णाभ्यां नेत्रे पिधाय भूमिसंश्लिष्टो मृत इव तिष्ठति तद्वत्।
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-यद् ओष॑धयस् **स॒ङ्गच्छ॑न्ते॒**  
-राजा॑न॒स् समि॑ताव् इव ।  
-विप्र॒स् स **उ॑च्यते** भि॒षग्  
-र॑क्षो॒-हा ऽमी॑व॒-चात॑नः ।
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ सप्तमीमाह– यदोषधय इति ।
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+य᳓द् ओ᳓षधयस् **सङ्ग᳓च्छन्ते**  
+रा᳓जानस् स᳓मिताव् इव ।  
+वि᳓प्रस् स᳓ **उच्यते** भिष᳓ग्  
+रक्षो-हा᳓ ऽमीव-चा᳓तनः ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
-</details>
-</div>
-<details><summary>English</summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
+<details><summary>Keith</summary>
 
 When the plants come together  
 Like princes at the assembly,  
@@ -387,23 +460,36 @@ Slayer of Raksases, overpowerer of diseases.
 विप्र॒स्स उ॑च्यते भि॒षग्र॑क्षो॒हामी॑व॒चात॑नः ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । ओष॑धयः । स॒ङ्गच्छ॑न्त॒ इति॑ सम्-गच्छ॑न्ते । राजा॑नः । समि॑ता॒विति॒ सम्-इ॒तौ॒ । इ॒व॒ ॥ विप्रः॑ । सः । उ॒च्य॒ते॒ । भि॒षक् । र॒क्षो॒हेति॑ रक्षः-हा । अ॒मी॒व॒चात॑न॒ इत्य॑मीव-चात॑नः ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ सप्तमीमाह– यदोषधय इति ।  
 यद्यदौषधयः सर्वाः संगच्छन्ते फलदानाय क्षेत्रसंगता  १९१५ भवन्ति, तत्र दृष्टान्तः—राजानः समिताविव, यथा युद्धे प्रतिपक्षिणः सेनां जेतुं परस्परमनुकूला राजानः संगच्छन्ते तद्वत् ।   तदानीं संगतास्वोषधीषु विप्रो मेधावी सरवीर्यभावनाभिज्ञो यः पुरुषः स भिषगुच्यते क्षुधादिरोगचिकित्सक इत्यभिधीयते ।   कथं भिषक्त्वमिति तदुच्यते—रक्षोहा पक्वाभिरेताभिः पुसेडाशं राक्षोघ्नं कृत्वा रक्षसां हन्ता तदुपद्रवरूपं रोगं विनाशयति ।   अमीवचातन ओषधिजन्यपथ्यादिभिरमीवान्रोगां-श्चातयति विनाशयतीत्यमीवचातनः ।  
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
+</details>
+</div>
 
-"निष्कृ॑ति॒र्" नाम॑ वो मा॒ता  
-ऽथा॑ यू॒यँ स्थ॒ "सङ्कृ॑तीः" ।  
-स॒राᳶ प॑त॒त्रिणीः॑ **स्थन॒**  
-यद् **आ॒मय॑ति॒ निष्कृ॑त** ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+"नि᳓ष्कृतिर्" ना᳓म वो माता᳓  
+ऽथा यूयँ᳓ स्थ "स᳓ङ्कृतीः" ।  
+सराᳶ᳓ पतत्रि᳓णीः **स्थन**  
+य᳓द् **आम᳓यति नि᳓ष्कृत** ।
 
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथाष्टमीमाह— निष्कृतिर्नामेति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 Remover is your mother by name, And ye are helpers;  
@@ -417,23 +503,36 @@ Remove whatever is unwell.
 स॒राᳶ प॑त॒त्रिणीः॑ [25]  स्थ॒न॒ यदा॒मय॑ति॒ निष्कृ॑त ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+निष्कृ॑ति॒रिति॒ निः-कृ॒तिः॒ । नाम॑ । वः॒ । मा॒ता । अथ॑ । यू॒यम् । स्थ॒ । सङ्कृ॑ती॒रिति॒ सम्-कृ॒तीः॒ ॥ स॒राः । प॒त॒त्रिणीः॑ । स्थ॒न॒ । यत् । आ॒मय॑ति । निरिति॑ । कृ॒त॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथाष्टमीमाह— निष्कृतिर्नामेति ।   हे ओषधयो वो युष्माकं निष्कृतिर्नाम क्षुधादिविनाशन-मव माता मातृवदुत्पत्तिनिमित्तं क्षुदादिकं निवारयितुमेव हि भवतीनामुत्पत्तिः ।   अथैवं सति यूयं संकृतीः स्थ सम्यक्स्वकार्ये क्षमा भवत ।   सराः क्षुदादीनामपवारयित्र्यः पतत्रि-णीः पतत्त्रं पत्रं तस्मात्प्रत्यागमनं तेनाऽऽगमनेनोपेताः स्थन भक्त ।   यत्क्षुदादिकमामयति रोगवद्वाधते तन्निष्कृत विनाशयत ।
+हे ओषधयो वो युष्माकं निष्कृतिर्नाम क्षुधादिविनाशन-मव माता मातृवदुत्पत्तिनिमित्तं क्षुदादिकं निवारयितुमेव हि भवतीनामुत्पत्तिः ।   अथैवं सति यूयं संकृतीः स्थ सम्यक्स्वकार्ये क्षमा भवत ।   सराः क्षुदादीनामपवारयित्र्यः पतत्रि-णीः पतत्त्रं पत्रं तस्मात्प्रत्यागमनं तेनाऽऽगमनेनोपेताः स्थन भक्त ।   यत्क्षुदादिकमामयति रोगवद्वाधते तन्निष्कृत विनाशयत ।
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/10_anyA_vo.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-अ॒न्या वो॑ अ॒न्याम् **अ॑वत्व्**  
-अ॒न्यान्य् अस्या॒ **उपा॑वत** ।  
-तास् सर्वा॒ ओष॑धयस् **सव्ँविदा॒ना**  
-इ॒दम् मे॒ **प्राव॑ता॒** वचः॑ ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/10_anyA_vo.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+अन्या᳓ वो अन्या᳓म् **अवत्व्**  
+अन्या᳓न्य् अ᳓स्या **उ᳓पावत** ।  
+ता᳓स् स᳓र्वा ओ᳓षधयस् **सव्ँविदाना᳓**  
+इद᳓म् मे **प्रा᳓वता** व᳓चः ।
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ नवमीमाह— अन्या व इति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/10_anyA_vo.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 Let one of you aid another,  
@@ -448,23 +547,36 @@ Do ye further this speech of mine.
 तास्सर्वा॒ ओष॑धयस्सव्ँविदा॒ना इ॒दम्मे॒ प्राव॑ता॒ वचः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒न्या । वः॒ । अ॒न्याम् । अ॒व॒तु॒ । अ॒न्या । अ॒न्यस्याः॑ । उपेति॑ । अ॒व॒त॒ ॥ ताः । सर्वाः॑ । ओष॑धयः । सव्ँ॒वि॒दा॒ना इति॑ सम्-वि॒दा॒नाः । इ॒दम् । मे॒ । प्रेति॑ । अ॒व॒त॒ । वचः॑ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ नवमीमाह— अन्या व इति ।   हे ओषधयो वो युष्माकं मध्येऽन्या काचिदोषधिव्यक्तिर-न्यामितरामोषधिव्यक्तिमवतु रक्षतु ।   तथा रक्षिता साऽन्याऽप्यन्यस्या रक्षिकाया उपावत समीपमागत्य तामप्यवतु ।   संभूयकारित्वात्परल्पररक्षकत्वमुचितम् ।   तथाविधाः सर्वा हे ओषधयः संविदानाः परस्परमैकमत्यं गता इदं मे मदीयं वचो वाक्यं प्रार्थनारूपं प्रावत प्रकर्षेण रक्षत ।
+हे ओषधयो वो युष्माकं मध्येऽन्या काचिदोषधिव्यक्तिर-न्यामितरामोषधिव्यक्तिमवतु रक्षतु ।   तथा रक्षिता साऽन्याऽप्यन्यस्या रक्षिकाया उपावत समीपमागत्य तामप्यवतु ।   संभूयकारित्वात्परल्पररक्षकत्वमुचितम् ।   तथाविधाः सर्वा हे ओषधयः संविदानाः परस्परमैकमत्यं गता इदं मे मदीयं वचो वाक्यं प्रार्थनारूपं प्रावत प्रकर्षेण रक्षत ।
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/11_uch_ChuShmA.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-उच् छुष्मा॒ ओष॑धीना॒ङ्  
-गावो॑ गो॒ष्ठाद् **इ॑वेरते** ।  
-धनँ॑ **सनि॒ष्यन्ती॑नाम्**  
-आ॒त्मान॒न् तव॑ पूरुष ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/11_uch_ChuShmA.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+उ᳓च् छु᳓ष्मा ओ᳓षधीनाङ्  
+गा᳓वो गोष्ठा᳓द् **इवेरते** ।  
+ध᳓नँ **सनिष्य᳓न्तीनाम्**  
+आत्मा᳓नन् त᳓व पूरुष ।
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ दशमीमाह— उच्छुष्मा इति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/11_uch_ChuShmA.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 The strength of the plants hath arisen Like cows from the pasturage,  
@@ -478,23 +590,36 @@ To the self of thee, O man.
 धनँ॑ सनि॒ष्यन्ती॑नामा॒त्मान॒न्तव॑ पूरुष ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वचः॑ ॥ उदिति॑ । शुष्माः॑ । ओष॑धीनाम् । गावः॑ । गो॒ष्ठादिति॑ गो-स्थात् । इ॒व॒ । ई॒र॒ते॒ ॥ धन॑म् । स॒नि॒ष्यन्ती॑नाम् । आ॒त्मान॑म् । तव॑ । पू॒रु॒ष॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ दशमीमाह— उच्छुष्मा इति ।   ओषधीनां शुष्मास्तदु भोगजन्या बलविशेषा उदीरत उद्ग- गच्छन्ति ।   तत्र दृष्टान्तः-गावो गोष्ठादिव, यथा गांवो निवासस्थानाद्गृहादरण्यदेशं प्रत्यु-द्गच्छन्ति तद्वत्।   कीदृशीनामोषधीनां पूरुष तवाऽऽत्मानं धनं सनिष्यन्तीनां हे यजमान त्वदीयं शरीरं धनमिव दातुमिच्छन्तीनां यथा धनं दास्यन्ति एवमोषधयोऽपि त्वदीयशरी-राकारेण परिणता शरीरं दास्यन्तीत्यर्थः ।
+ओषधीनां शुष्मास्तदु भोगजन्या बलविशेषा उदीरत उद्ग- गच्छन्ति ।   तत्र दृष्टान्तः-गावो गोष्ठादिव, यथा गांवो निवासस्थानाद्गृहादरण्यदेशं प्रत्यु-द्गच्छन्ति तद्वत्।   कीदृशीनामोषधीनां पूरुष तवाऽऽत्मानं धनं सनिष्यन्तीनां हे यजमान त्वदीयं शरीरं धनमिव दातुमिच्छन्तीनां यथा धनं दास्यन्ति एवमोषधयोऽपि त्वदीयशरी-राकारेण परिणता शरीरं दास्यन्तीत्यर्थः ।
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/12_ati_vishvAH.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-अति॒ विश्वाः॑ +++(शरीरम्)+++ **परि॒ ष्ठास्**  
-स्ते॒न इ॑व व्र॒जम् **अ॑क्रमुः** ।  
-ओष॑धय॒ᳶ **प्राचु॑च्यवु॒र्**  
-यत् किञ् च॑ त॒नुवाँ॒ रपः॑ ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/12_ati_vishvAH.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+अ᳓ति वि᳓श्वाः +++(शरीरम्)+++ **परि ष्ठा᳓स्**  
+स्तेन᳓ इव व्रज᳓म् **अक्रमुः** ।  
+ओ᳓षधयᳶ **प्रा᳓चुच्यवुर्**  
+य᳓त् कि᳓ञ् च तनु᳓वाँ र᳓पः ।
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथैकादशीमाह—  १९१६ अति विश्वा इति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/12_ati_vishvAH.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 I Beyond all obstacles,  
@@ -509,23 +634,36 @@ Every defilement in the body.
 ओष॑धय॒ᳶ प्राचु॑च्यवु॒र्यत्किञ्च॑ त॒नुवाँ॒ रपः॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अतीति॑ । विश्वाः॑ । प॒रि॒ष्ठा इति॑ परि-स्थाः । स्ते॒नः । इ॒व॒ । व्र॒जम् । अ॒क्र॒मुः॒ ॥ ओष॑धयः । प्रेति॑ । अ॒चु॒च्य॒वुः॒ । यत् । किम् । च॒ । त॒नुवा॑म् । रपः॑ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथैकादशीमाह—  १९१६ अति विश्वा इति ।   **परिष्ठाः** शरीरस्योपरि स्थिता उदरमध्ये प्रविष्टा विश्वाः सर्वा ओषधयोऽत्यजीर्णादिदोषमतिलङ्घ्याक्रमुः क्रान्ता देहे व्याप्ता इत्यर्थः ।   तत्र दृष्टान्तः—स्तेन इव व्रज्रं, यथा रात्रौ गुप्तचोरो गोष्ठं प्रविश्य गामपहर्तुं सावधानो गोशालयां[लां] सर्वतो व्याप्नोति तद्वत् ।   तनुवां शरीराणां संबन्धि यक्तिंच रपो स्वरशिरोव्याधिगुल्मातिसारादिरूपं पापफलं यत्किंचिदस्ति तत्सर्वमोषधयः प्राचुच्यवुर्वि-नाशितवत्यः ।
+**परिष्ठाः** शरीरस्योपरि स्थिता उदरमध्ये प्रविष्टा विश्वाः सर्वा ओषधयोऽत्यजीर्णादिदोषमतिलङ्घ्याक्रमुः क्रान्ता देहे व्याप्ता इत्यर्थः ।   तत्र दृष्टान्तः—स्तेन इव व्रज्रं, यथा रात्रौ गुप्तचोरो गोष्ठं प्रविश्य गामपहर्तुं सावधानो गोशालयां[लां] सर्वतो व्याप्नोति तद्वत् ।   तनुवां शरीराणां संबन्धि यक्तिंच रपो स्वरशिरोव्याधिगुल्मातिसारादिरूपं पापफलं यत्किंचिदस्ति तत्सर्वमोषधयः प्राचुच्यवुर्वि-नाशितवत्यः ।
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/13_yAs_ta.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-यास्  त॑ **आत॒स्थुर्** आ॒त्मानय्ँ॒  
-या **आ॑विवि॒शुᳶ** परुᳶ॑+++(=पर्व)+++-परुः ।  
-तास् ते॒ यक्ष्मव्ँ॒ **वि बा॑धन्ताम्**  
-उ॒ग्रो म॑ध्यम॒-शीर्+++(←शयने)+++ इ॑व ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/13_yAs_ta.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+या᳓स्  त **आतस्थु᳓र्** आत्मा᳓नय्ँ  
+या᳓ **आविविशुᳶ᳓** प᳓रुᳶ+++(=पर्व)+++-परुः ।  
+ता᳓स् ते य᳓क्ष्मव्ँ **वि᳓ बाधन्ताम्**  
+उग्रो᳓ मध्यम-शी᳓र्+++(←शयने)+++ इव ।
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ द्वादशीमाह— यास्त इति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/13_yAs_ta.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 Those [3] that have mounted thy self, That have entered every limb,  
@@ -539,23 +677,36 @@ Like a dread intercessor.
 तास्ते॒ यक्ष्मव्ँ॒वि बा॑धन्तामु॒ग्रो म॑ध्यम॒शीरि॑व ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+याः । ते । आ॒त॒स्थुरित्या॑-त॒स्थुः । आ॒त्मान॑म् । याः । आ॒वि॒वि॒शुरित्या॑-वि॒वि॒शुः । परु॑ᳶपरु॒रिति॒ परुः॑-प॒रुः॒ ॥ ताः । ते॒ । यक्ष्म॑म् । वीति॑ । बा॒ध॒न्ता॒म् । उ॒ग्रः । म॒ध्य॒म॒शीरिति॑ मध्यम-शीः । इ॒व॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ द्वादशीमाह— यास्त इति ।   हे यजमान ते तवाऽऽत्मानं शरीरं या ओषधय आतस्थु-राक्रम्य तिष्ठन्ति, या ओषधयः परुःपरुराविविशू रसरूपेण तत्तत्पर्व प्रविष्टवत्यस्ताः सर्वास्ते तव यक्ष्मं रोगं विबाधन्तां विशेषेण नाशयन्तु ।   तत्र दृष्टान्तः—मध्यमशीरिव, मध्यमेन स्वकीयपरकीयपक्षपातरहितेन शास्त्रीयमार्गेण शेते वर्तत इति **मध्यमशीः** तादृशो राजा दुष्टान्त्पत्युग्रो भूत्वा यथा विनाशयति तद्वत् ।
+हे यजमान ते तवाऽऽत्मानं शरीरं या ओषधय आतस्थु-राक्रम्य तिष्ठन्ति, या ओषधयः परुःपरुराविविशू रसरूपेण तत्तत्पर्व प्रविष्टवत्यस्ताः सर्वास्ते तव यक्ष्मं रोगं विबाधन्तां विशेषेण नाशयन्तु ।   तत्र दृष्टान्तः—मध्यमशीरिव, मध्यमेन स्वकीयपरकीयपक्षपातरहितेन शास्त्रीयमार्गेण शेते वर्तत इति **मध्यमशीः** तादृशो राजा दुष्टान्त्पत्युग्रो भूत्वा यथा विनाशयति तद्वत् ।
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/14_sAkay.N_yakhShma.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-सा॒कय्ँ य॑क्ष्म॒ **प्र प॑त**  
-श्ये॒नेन॑, किकिदी॒विना॑+++(=blue jay)+++ ।  
-सा॒कव्ँ वात॑स्य॒ ध्राज्या॑+++(=डयनेन)+++,  
-सा॒कन् **न॑श्य** नि॒हाक॑या+++(=चण्डमारुतेन)+++ ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/14_sAkay.N_yakhShma.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+साकय्ँ᳓ यक्ष्म **प्र᳓ पत**  
+श्येने᳓न, किकिदीवि᳓ना+++(=blue jay)+++ ।  
+साकव्ँ᳓ वा᳓तस्य ध्रा᳓ज्या+++(=डयनेन)+++,  
+साक᳓न् **नश्य** निहा᳓कया+++(=चण्डमारुतेन)+++ ।
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ त्रयोदशीमाह— साकं यक्ष्मेति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/14_sAkay.N_yakhShma.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 O disease, do thou fly forth  
@@ -570,9 +721,13 @@ With the whirlwind do thou disappear.
 सा॒कव्ँवात॑स्य॒ ध्राज्या॑ सा॒कन्न॑श्य नि॒हाक॑या ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सा॒कम् । य॒क्ष्म॒ । प्रेति॑ । प॒त॒ । श्ये॒नेन॑ । कि॒कि॒दी॒विना॑ ॥ सा॒कम् । वात॑स्य । ध्राज्या॑ । सा॒कम् । न॒श्य॒ । नि॒हाक॒येति॑ नि-हाक॑या ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ त्रयोदशीमाह— साकं यक्ष्मेति ।   
 श्लेष्मावरुद्धकण्ठजन्यध्वनेरनुकरणार्थोऽयं किकिशब्दस्तेन किकिना ध्वनिविशेषेण दीव्यति व्यवहरतीति रोगविशेषः किकिदीविः ।   
 स च श्लेष्म-जन्यः श्येनवत् तीव्रतरत्वात् पित्तजान्यो रोगः श्येनः ।   
 हे यक्ष्म राजयक्ष्मादिरोग त्वं पित्त-जन्येन श्लेष्मजन्येन च रोगेण साकं प्रपत प्रकर्षेज नष्टो भव ।   
@@ -580,17 +735,25 @@ With the whirlwind do thou disappear.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/15_ashvAvatIM_somavatIm.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-अ॒श्वा॒व॒तीँ सो॑मव॒तीम्  
-ऊ॒र्जय॑न्ती॒म् उद्-ओ॑जसम् ।  
-**आ वि॑त्सि॒**+++(=आलभे)+++ सर्वा॒ ओष॑धीर्  
-अ॒स्मा अ॑-रि॒ष्ट--ता॑तये+++(←तन्)+++ ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/15_ashvAvatIM_somavatIm.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+अश्वावतीँ᳓ सोमवती᳓म्  
+ऊर्ज᳓यन्तीम् उ᳓द्-ओजसम् ।  
+**आ᳓ वित्सि**+++(=आलभे)+++ स᳓र्वा ओ᳓षधीर्  
+अस्मा᳓ अ-रिष्ट᳓--तातये+++(←तन्)+++ ।
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ चतुर्दशीमाह— अश्वावतीमिति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/15_ashvAvatIM_somavatIm.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 Rich in steeds, rich in Soma,  
@@ -605,24 +768,37 @@ For his safety.
 आ वि॑त्सि॒ सर्वा॒ ओष॑धीर॒स्मा अ॑रि॒ष्टता॑तये ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒श्वा॒व॒तीमित्य॑श्व-व॒तीम् । सो॒म॒व॒तीमिति॑ सोम-व॒तीम् । ऊ॒र्जय॑न्तीम् । उदो॑जस॒मित्युत्-ओ॒ज॒स॒म् ॥ एति॑ । वि॒त्सि॒ । सर्वाः॑ । ओष॑धीः । अ॒स्मै । अ॒रि॒ष्टता॑तय॒ इत्य॑रि॒ष्ट-ता॒त॒ये॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ चतुर्दशीमाह— अश्वावतीमिति ।   काचि॑दोषधिजातिरश्वावती, अश्वा अस्यां सन्तित्यश्वा वती, ओषधिसमृद्धौ सत्यां धनद्वारेणाश्वा लभ्यन्त इत्यर्थः ।   अन्या काचिदो षधिजातिः सोमवती सोमयागोऽस्यामस्तीति सोमवती, धान्यसमृद्धौ सत्यां सोमयागः कर्तुं शक्यत इत्यर्थः ।   अपरोर्जयन्ती, ऊर्ज बलं प्राणचेष्टां वा करोतीत्यर्थः ।   अन्या जातिरुदोजाः, उत्कृष्टयोजोऽष्टमधातुरूपं यस्याः सोदोजाः अन्नद्वारेण शरीरधातून्पोषयतीत्यर्थः ।   
+काचि॑दोषधिजातिरश्वावती, अश्वा अस्यां सन्तित्यश्वा वती, ओषधिसमृद्धौ सत्यां धनद्वारेणाश्वा लभ्यन्त इत्यर्थः ।   अन्या काचिदो षधिजातिः सोमवती सोमयागोऽस्यामस्तीति सोमवती, धान्यसमृद्धौ सत्यां सोमयागः कर्तुं शक्यत इत्यर्थः ।   अपरोर्जयन्ती, ऊर्ज बलं प्राणचेष्टां वा करोतीत्यर्थः ।   अन्या जातिरुदोजाः, उत्कृष्टयोजोऽष्टमधातुरूपं यस्याः सोदोजाः अन्नद्वारेण शरीरधातून्पोषयतीत्यर्थः ।
 ताः सर्वा ओषधीरहमावित्सि लब्धवानस्मि ।   किमर्थम् ।   अस्मा अरिष्टतातये अरिष्टस्य तातिररिष्टतातिः ।   अस्य यजमानस्य हिंसाराहित्ययेत्यर्थः ।     १९१७ तदेवमोषधिवापार्था ऋचश्चतुर्दशाऽऽम्नाताः ।
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/16_yApH_phalinIr.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-याᳶ फ॒लिनी॒र् या अ॑-फ॒ला  
-अ॑-पु॒ष्पा याश् च॑ पु॒ष्पिणीः॑ ।  
-बृह॒स्पति॑-**प्रसूता॒स्**  
-ता नो॑ **मुञ्च॒न्त्व्** अँह॑सः ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/16_yApH_phalinIr.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+याᳶ᳓ फलि᳓नीर् या᳓ अ-फला᳓  
+अ-पुष्पा᳓ या᳓श् च पुष्पि᳓णीः ।  
+बृ᳓हस्प᳓ति-**प्रसूतास्**  
+ता᳓ नो **मुञ्चन्त्व्** अँ᳓हसः ।
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथात्रैव विकल्पिताः षडृच आम्नायन्ते ।   तत्र प्रथमामाह— या फलिनीरिति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/16_yApH_phalinIr.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 The fruitful, the fruitless,  
@@ -637,23 +813,36 @@ May they free us from tribulation.
 बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वँह॑सः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+याः । फ॒लिनीः॑ । याः । अ॒फ॒लाः । अ॒पु॒ष्पाः । याः । च॒ । पु॒ष्पिणीः॑ ॥ बृह॒स्पति॑प्रसूता॒ इति॒ बृह॒स्पति॑-प्र॒सू॒ताः॒ । ताः । नः॒ । मु॒ञ्च॒न्तु॒ । अँह॑सः ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथात्रैव विकल्पिताः षडृच आम्नायन्ते ।   तत्र प्रथमामाह— या फलिनीरिति ।   या ओषधयः फलयुक्ता याः फलरहिता याश्च पुष्प रहिता याश्च पुष्पयुक्तास्ताः सर्वा बृहस्पतिप्रसूताः सत्यो नोऽस्मानंहसः पापान्मोचयन्तु ।
+या ओषधयः फलयुक्ता याः फलरहिता याश्च पुष्प रहिता याश्च पुष्पयुक्तास्ताः सर्वा बृहस्पतिप्रसूताः सत्यो नोऽस्मानंहसः पापान्मोचयन्तु ।
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/17_yA_oShadhayas.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-या ओष॑धय॒स् सोम॑-राज्ञी॒ᳶ  
-प्रवि॑ष्टाᳶ पृथि॒वीम् अनु॑ ।  
-तासा॒न् त्वम् अ॑स्य् उत्त॒मा  
-**प्र** णो॑ जी॒वात॑वे **सुव** ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/17_yA_oShadhayas.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+या᳓ ओ᳓षधयस् सो᳓म-राज्ञीᳶ  
+प्र᳓विष्टाᳶ पृथिवी᳓म् अ᳓नु ।  
+ता᳓सान् त्व᳓म् अस्य् उत्तमा᳓  
+**प्र᳓** णो जीवा᳓तवे **सुव** ।
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ द्वितीयामाह— या ओषधय इति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/17_yA_oShadhayas.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 The [4] plants whose king is Soma,  
@@ -668,23 +857,36 @@ Impel us to long life.
 तासा॒न्त्वम॑स्युत्त॒मा प्र णो॑ जी॒वात॑वे सुव ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+याः । ओष॑धयः । सोम॑राज्ञी॒रिति॒ सोम॑-रा॒ज्ञीः॒ । प्रवि॑ष्टा॒ इति॒ प्र-वि॒ष्टाः॒ । पृ॒थि॒वीम् । अनु॑ ॥ तासा॑म् । त्वम् । अ॒सि॒ । उ॒त्त॒मेत्यु॑त्-त॒मा । प्रेति॑ । नः॒ । जी॒वात॑वे । सु॒व॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ द्वितीयामाह— या ओषधय इति ।   सोमो राजा यासां ताः सोमराऽयस्तादृश्यो या ओष-धयः पृथिवीमनु प्रविष्टास्तासां मध्य इदानीमुप्यमाने हे ओषधे त्वमुत्तमाऽसि ।   अतो नोऽस्माञ्जीवातवे जीवनौषधाय प्रसुव प्रकर्षेण प्रेरय ।
+सोमो राजा यासां ताः सोमराऽयस्तादृश्यो या ओष-धयः पृथिवीमनु प्रविष्टास्तासां मध्य इदानीमुप्यमाने हे ओषधे त्वमुत्तमाऽसि ।   अतो नोऽस्माञ्जीवातवे जीवनौषधाय प्रसुव प्रकर्षेण प्रेरय ।
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/18_avapatantIr_avadan.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-अ॒व॒पत॑न्तीर् **अवदन्**  
-दि॒व ओष॑धय॒ᳶ परि॑ ।  
-"यञ् जी॒वम् **अ॒श्ञवा॑महै॒**  
-**न** स **रि॑ष्याति॒** पूरु॑षः" ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/18_avapatantIr_avadan.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+अवप᳓तन्तीर् **अवदन्**  
+दिव᳓ ओ᳓षधयᳶ प᳓रि ।  
+"य᳓ञ् जीव᳓म् **अश्ञ᳓वामहै**  
+**न᳓** स᳓ **रिष्याति** पू᳓रुषः" ।
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ तृतीयामाह— अवपतन्तीरिति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/18_avapatantIr_avadan.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 Falling from the sky  
@@ -699,23 +901,36 @@ Shall not come to ill.'
 यञ्जी॒वम॒श्ञवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒व॒पत॑न्ती॒रित्य॑व-पत॑न्तीः । अ॒व॒द॒न् । दि॒वः । ओष॑धयः । परि॑ ॥ यम् । जी॒वम् । अ॒श्ञवा॑महै । न । सः । रि॒ष्या॒ति॒ । पूरु॑षः ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ तृतीयामाह— अवपतन्तीरिति ।   द्युरोकात्पतन्तो वृष्टिबिन्दव ओषधिरूपेणोत्वद्यन्ते ।   तथा चाग्निहोत्रब्राह्मणे समाम्नायते– “यावन्तः स्तोका अवापद्यन्त ।   तावतीरोषधयो-ऽजायन्त” इति ।   अत्रापि दिवः परि स्वर्गस्योऽपरितनप्रदेशादवपतन्तीरधस्ताद्भूमौ पतन्त्य ओषधयोऽवदन्नेतद्ववचनमुक्तवत्यः ।   कीदृशं वचनमिति तदुच्यते—यं जीवमश्नवामहै व्याप्नुमः स पुरुषो न रिष्याति नैव विनश्यति ।
+द्युरोकात्पतन्तो वृष्टिबिन्दव ओषधिरूपेणोत्वद्यन्ते ।   तथा चाग्निहोत्रब्राह्मणे समाम्नायते– “यावन्तः स्तोका अवापद्यन्त ।   तावतीरोषधयो-ऽजायन्त” इति ।   अत्रापि दिवः परि स्वर्गस्योऽपरितनप्रदेशादवपतन्तीरधस्ताद्भूमौ पतन्त्य ओषधयोऽवदन्नेतद्ववचनमुक्तवत्यः ।   कीदृशं वचनमिति तदुच्यते—यं जीवमश्नवामहै व्याप्नुमः स पुरुषो न रिष्याति नैव विनश्यति ।
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/19_yAsh_chedam.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-याश् चे॒दम् **उ॑पशृ॒ण्वन्ति॒**  
-याश् च॑ दू॒रम् **परा॑गताः** ।  
-इ॒ह **स॒ङ्गत्य॒** तास् सर्वा॑  
-अस्मै॒ **सन्द॑त्त** भेष॒जम् ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/19_yAsh_chedam.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+या᳓श् चेद᳓म् **उपशृण्व᳓न्ति**  
+या᳓श् च दूर᳓म् **प᳓रागताः** ।  
+इह᳓ **सङ्ग᳓त्य** ता᳓स् स᳓र्वा  
+अस्मै **स᳓न्दत्त** भेषज᳓म् ।
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ चतुर्थीमाह— याश्चेदमिति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/19_yAsh_chedam.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 Those that hear now  
@@ -730,23 +945,36 @@ Give ye him healing.
 इ॒ह स॒ङ्गत्य॒ तास्सर्वा॑ अस्मै॒ सन्द॑त्त भेष॒जम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+याः । च॒ । इ॒दम् । उ॒प॒शृ॒ण्वन्तीत्यु॑प-शृ॒ण्वन्ति॑ । याः । च॒ । दू॒रम् । परा॑गता॒ इति॒ परा॑-ग॒ताः॒ ॥ इ॒ह । स॒ङ्गत्येति॑ सम्-गत्य॑ । ताः । सर्वाः॑ । अ॒स्मै॒ । समिति॑ । द॒त्त॒ । भे॒ष॒जम् ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ चतुर्थीमाह— याश्चेदमिति ।   याश्चौषधिदेवता इदं मदीयं प्रार्थनमुपशृणवन्ति, याश्चा न्या ओषधिदेवता इह कर्मणि संगता भूत्वाऽस्मै यजमानाय भेषजं संदत्त क्षुदादिरोगचिकि-त्सां सम्यक्कुरुत ।
+याश्चौषधिदेवता इदं मदीयं प्रार्थनमुपशृणवन्ति, याश्चा न्या ओषधिदेवता इह कर्मणि संगता भूत्वाऽस्मै यजमानाय भेषजं संदत्त क्षुदादिरोगचिकि-त्सां सम्यक्कुरुत ।
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/20_mA_vo.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-**मा** वो॑ रिषत् **खनि॒ता**,  
-+++(तथा)+++ यस्मै॑ चा॒हङ् **खना॑मि** वः ।  
-द्वि॒पच् चतु॑ष्पद् अ॒स्माकँ॒  
-सर्व॑म् **अ॒स्त्व् अना॑तुरम्** ।
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/20_mA_vo.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+**मा᳓** वो रिषत् **खनिता᳓**,  
++++(तथा)+++ य᳓स्मै चाह᳓ङ् **ख᳓नामि** वः ।  
+द्विप᳓च् च᳓तुष्पद् अस्मा᳓कँ  
+स᳓र्वम् **अस्त्व् अ᳓नातुरम्** ।
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ पञ्चमीमाह— मा वो रिषादमिति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/20_mA_vo.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 May the digger of you come to no ill,  
@@ -761,23 +989,36 @@ Be free from disease.
 द्वि॒पच्चतु॑ष्पद॒स्माकँ॒ सर्व॑म॒स्त्वना॑तुरम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मा । वः॒ । रि॒ष॒त् । ख॒नि॒ता । यस्मै॑ । च॒ । अ॒हम् । खना॑मि । वः॒ ॥ द्वि॒पदिति॑ द्वि-पत् । चतु॑ष्प॒दिति॒ चतुः॑-प॒त् । अ॒स्माक॑म् । सर्व॑म् । अ॒स्तु॒ । अना॑तुर॒मित्यना॑-तु॒र॒म् ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ पञ्चमीमाह— मा वो रिषादमिति ।   हे ओषधयो वो युष्माकं खनिता चिकित्सायै युष्मदीयं मूलं ग्रहीतुं खननस्य कर्ता मा रिषन्मा विनश्यतु ।   अहं च यस्मै रुग्णाय चिकित्सार्थं खनामि युष्मन्मूलं ग्रहीतुं खननं करोमि सोऽपि मा विनश्यतु ।   किं वहुनाऽस्माकं संब-न्धि यद्द्विपच्चतुष्पाद्वा प्राणिजातं युष्मदुपजीवति तत्सर्वमनातुरं रोगरहितमस्तु ।
+हे ओषधयो वो युष्माकं खनिता चिकित्सायै युष्मदीयं मूलं ग्रहीतुं खननस्य कर्ता मा रिषन्मा विनश्यतु ।   अहं च यस्मै रुग्णाय चिकित्सार्थं खनामि युष्मन्मूलं ग्रहीतुं खननं करोमि सोऽपि मा विनश्यतु ।   किं वहुनाऽस्माकं संब-न्धि यद्द्विपच्चतुष्पाद्वा प्राणिजातं युष्मदुपजीवति तत्सर्वमनातुरं रोगरहितमस्तु ।
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/21_oShadhayas_sav.Nvadante.md">
-<details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-ओष॑धय॒स् **सव्ँव॑दन्ते॒**  
-सोमे॑न स॒ह राज्ञा॑ ।  
-"यस्मै॑ क॒रोति॑ ब्राह्म॒णस्  
-तँ रा॑जन् **पारयामसि**" ॥ [28]
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/21_oShadhayas_sav.Nvadante.md">
+<details open><summary><h11>विश्वास-प्रस्तुतिः …{Loading}…</h11></summary>
+
+ओ᳓षधयस् **सव्ँ᳓वदन्ते**  
+सो᳓मेन सह᳓ रा᳓ज्ञा ।  
+"य᳓स्मै करो᳓ति ब्राह्मण᳓स्  
+तँ᳓ राजन् **पारयामसि**" ॥ [28]
+
 </details>
 </div>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ षष्ठीमाह— ओषधय इति ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/21_oShadhayas_sav.Nvadante.md">
-<details open><summary><h11>सर्वाष् टीकाः ...{Loading}...</h11></summary>
+<details open><summary><h11>सर्वाष् टीकाः …{Loading}…</h11></summary>
 <details><summary>Keith</summary>
 
 The plants hold converse  
@@ -792,9 +1033,14 @@ We, O king, bring to safety.'
 यस्मै॑ क॒रोति॑ ब्राह्म॒णस्तँ रा॑जन्पारयामसि ॥ [28]
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ओष॑धयः । समिति॑ । व॒द॒न्ते॒ । सोमे॑न । स॒ह । राज्ञा॑ ॥ यस्मै॑ । क॒रोति॑ । ब्रा॒ह्म॒णः । तम् । रा॒ज॒न् । पा॒र॒या॒म॒सि॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ षष्ठीमाह— ओषधय इति ।   ओषधय ओषधिदेवताः स्वकीयेन स्वामिना सोमेन राज्ञा   १९१८ सह संवादं कुर्वन्ति ।   कथं संवाद इति तदुच्यते-यस्मै रुग्णाय चिकित्सास्मदीयमूलादिना ब्राह्मणः करोति, हे राजंस्तमातुरं वयं पारयामसि व्याधेरुत्तारयामः ।   एतैर्मन्त्रैः साध्यमो-षधिवापं विधत्ते— “ओषधीर्वपति ब्रह्मणाऽन्नमव रुन्धेऽर्केऽर्कश्चीयते” [सं. का. ५ प्र. २ अ. ५] इति।  
+ओषधय ओषधिदेवताः स्वकीयेन स्वामिना सोमेन राज्ञा   १९१८ सह संवादं कुर्वन्ति ।   कथं संवाद इति तदुच्यते-यस्मै रुग्णाय चिकित्सास्मदीयमूलादिना ब्राह्मणः करोति, हे राजंस्तमातुरं वयं पारयामसि व्याधेरुत्तारयामः ।   एतैर्मन्त्रैः साध्यमो-षधिवापं विधत्ते— “ओषधीर्वपति ब्रह्मणाऽन्नमव रुन्धेऽर्केऽर्कश्चीयते” [सं. का. ५ प्र. २ अ. ५] इति।
 ब्रह्मणौषधिवापहेतुभूतमन्त्रसामर्थ्येनान्नं व्याप्नोति ।   किंचैवं सत्यर्केऽर्चनीये स्थानेऽर्कोऽर्चनीयोऽग्निश्चितो भवति ।   मन्त्रसंख्यां विधत्ते— “चतुर्दशभिर्वपति सप्त ग्राम्या ओषधयः सप्ताऽऽरण्या उभयीषामवरुद्ध्या अन्नस्यान्नस्य वपत्यन्नस्यान्नस्यावरुद्ध्यै” [सं. का. ५ प्र. २ अ. ५] इति।  
 तिलमाषव्रीहियवाः प्रियङ्ग्वणवो गोधूमाश्चेति सप्त ग्राम्या ओषधयः ।   वेणु श्यामाकनीवारजर्तिला गवीधुका मर्कटका गार्मुताश्चेति सप्ताऽऽरण्या ओषधयः।   नाना-विघस्यान्नस्य बीजवापेन नानाविधमन्नमाप्नोति ।  
 यदुक्तं सूत्रकारेण “सप्त ग्राम्याः कृष्टे सप्ताऽऽरण्या अकृष्टे” इति ।   तत्र ग्राम्याणां देशविशेषं विधत्ते— “कृष्टे वपति कृष्टे ह्योषधयः प्रतितिष्ठन्ति” [सं. का. ५ प्र. २ अ. ५] इति।  
@@ -806,7 +1052,8 @@ We, O king, bring to safety.'
 </details>
 </details>
 </div>
-<details><summary>सायणोक्त-विनियोगः</summary>
+
+<details><summary>विनियोगसङ्ग्रहः</summary>
 
 अत्र विनियोगसंग्रहः—
 “या जा ग्राम्यास्तथाऽऽरण्याः कृष्टाकृष्टभुवोर्वपेत् ।  
@@ -819,32 +1066,31 @@ We, O king, bring to safety.'
 व्यर्थाः स्युस्तेन मन्त्राणामारम्भोऽत्र विकल्पितः ॥  
 अग्निचयने मन्त्रा आधूननार्था आवपनार्थाश्च बहवः पठिताः ।   प्रयोगे तु तदेकदेशसंख्याऽनिहिता “सप्तभिराधूनोति, चतुर्दशभिरावपति” इति ।   तत्र प्रथमा-धिकराणोक्तकपालसामिधेनीन्यायेन प्रथमपठितस्यैव मन्त्रस्योपक्रमः प्राप्नोति।   तदयुक्तम्।   कुतः ।   यथोक्तसंख्यातिरिक्तानां प्रकरणपठितानां मन्त्राणां वैयर्थ्यप्रसङ्गात् ।   तस्मात्प्र-करणेन क्रमं बाधित्वा निजेच्छयैव प्रथममन्यं बोपक्रम्य विहितसंख्या पूरणीया ॥  
  १९२० इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीय-तैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे द्वितीयप्रपाठके  षष्ठोऽनुवाकः ॥   ६ ॥
+</details>
+</div>
 
-</details>
-</details>
 </div>
-</details>
-</div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../05_vapanam/">
-<details open><summary><h2>०५ वपनम् ...{Loading}...</h2></summary>
+
+## ०५ वपनम् …{Loading}…
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
-<details open><summary><h7>०३ ब्रह्म जज्ञानम् ...{Loading}...</h7></summary>
 
 ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑द्  
 वि सी॑म॒तस् सु॒रुचो॑ वे॒न **आ॑वः** ।  
 स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य **वि॒ष्ठाः** +++(=विस्थितः)+++,  
 स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ **विवः॑** +++(=विवृतवान्)+++  ।
 
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
-<details open><summary><h7>17 पिता विराजाम्, ...{Loading}...</h7></summary>
 
-पि॒ता वि॒राजा॑म्, ऋष॒भो र॑यी॒णाम् ।  
-अ॒न्तरि॑क्षव्ँ वि॒श्व-रू॑प॒ **आवि॑वेश** ।  
-तम् अ॒र्कैर् **अ॒भ्य॑र्चन्ति** व॒त्सम् ।  
-ब्रह्म॒ सन्त॒म् ब्रह्म॑णा **व॒र्धय॑न्तः** ।
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
+
+पिता᳓ विरा᳓जाम्, ऋषभो᳓ रयीणा᳓म् ।  
+अन्त᳓रिक्षव्ँ विश्व᳓-रूप **आ᳓विवेश** ।  
+त᳓म् अर्कै᳓र् **अभ्य᳙र्चन्ति** वत्स᳓म् ।  
+ब्र᳓ह्म स᳓न्तम् ब्र᳓ह्मणा **वर्ध᳓यन्तः** ।
+
 </div>  
 
 > ब्रह्मादिभ्यो नमः, अयं बीजावापः । 
@@ -852,24 +1098,21 @@ We, O king, bring to safety.'
 सकृन्मन्त्रेण द्विस्तूष्णीम् ॥ 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/26_yata_indra.md">
-<details open><summary><h4>26 यत इन्द्र ...{Loading}...</h4></summary>
 
-यत॑ इन्द्र॒ भया॑महे॒  
-ततो॑ नो॒ अभ॑यं कृधि ।  
-मघ॑वञ् छ॒ग्धि +++(=शक्तो वर्तस्व)+++ तव॒ तन् न॑+++(ः)+++ ऊ॒तये॑+++(=रक्षायै, ऊ॒तिभि॑र् इति शाकले)+++  
-वि द्विषो॒ वि मृधो॑+++(=सङ्ग्रामान्)+++ जहि ।।
+य᳓त इन्द्र भ᳓यामहे  
+त᳓तो नो अ᳓भयं कृधि ।  
+म᳓घवञ् छग्धि᳓ +++(=शक्तो वर्तस्व)+++ त᳓व त᳓न् न+++(ः)+++ ऊत᳓ये+++(=रक्षायै, ऊतिभिर् इति शाकले)+++᳓  
+वि᳓ द्वि᳓षो वि᳓ मृ᳓धो+++(=सङ्ग्रामान्)+++ जहि ।।
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/152/02_svastidA_vishaspatirvRtrahA.md">
-<details open><summary><h7>०२ स्वस्तिदा विशस्पतिर्वृत्रहा ...{Loading}...</h7></summary>
 
 स्वस्तिदा᳓ विश᳓स्-प᳓तिर्  
 वृत्रहा᳓ विमृधो᳓ वशी᳓ ।  
 वृ᳓षे᳓न्द्रः पुर᳓ **एतु** नः  
 सोम-पा᳓ **अभयङ्-करः᳓** ॥
 
-</details>
 </div>  
 
 > इन्द्रादिभ्यो नमः, अयं बीजावापः । 
@@ -877,44 +1120,40 @@ We, O king, bring to safety.'
 सकृन्मन्त्रेण द्विस्तूष्णीम् ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
-<details open><summary><h6>02 योऽस्य कौष्ठ्य! ...{Loading}...</h6></summary>
 
-योऽस्य॒ +++(गोत्रेण)+++ कौष्ठ्य॒! जग॑तः॒  
-पार्थि॑व॒स्यैक॑ इद् व॒शी ।  
-य॒मं +++(नाम्ना)+++ भ॑ङ्ग्य-श्र॒वो! **गा॑य॒**  
-यो राजा॑ ऽनप॒रोद्ध्यः॑ ।
-</details>
+यो᳓ऽस्य +++(गोत्रेण)+++ कौ᳓ष्ठ्य! ज᳓गतः  
+पा᳓र्थिवस्यै᳓क +++(~~इ~~→)+++इ᳓द् वशी᳓ ।  
+यमं᳓ +++(नाम्ना)+++ भङ्ग्य-श्रवो᳓! **गाय**  
+यो᳓ रा᳓जा ऽनपरो᳓द्ध्यः ।
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
-<details open><summary><h6>03 यमङ् गाय ...{Loading}...</h6></summary>
 
-य॒मङ् **गाय॑** +++(नाम्ना)+++ भङ्ग्य॒श्रवो॒!  
-यो राजा॑ ऽनप॒रोद्ध्यः॑ ।  
-येना॒पो न॒द्यो॑ धन्वा॑नि॒+++(=मरुभूमयः)+++  
-येन॒ द्यौः पृ॑थि॒वी **दृ॒ढा** ।
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
+
+यम᳓ङ् **गा᳓य** +++(नाम्ना)+++ भङ्ग्यश्र᳓वो!  
+यो᳓ रा᳓जा ऽनपरो᳓ध्यः ।  
+ये᳓नापो᳓ नद्यो᳙ ध᳓न्वानि+++(=मरुभूमयः)+++  
+ये᳓न द्यौः᳓ पृथिवी᳓ **दृढा᳓** ।
+
 </div>
 
 > यमादिभ्यो नमः, अयं बीजावापः ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-<details open><summary><h4>१९ इमं मे ...{Loading}...</h4></summary>
 
-इमं᳓ मे वरुण श्रुधी +++(=श्रुणु)+++  
-ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च मृळय +++(=सुखय)+++।  
-त्वा᳓म् अवस्यु᳓र् आ᳓ चके +++(=अवदन्)+++॥  
+इमं᳓ मे वरुण **श्रुधी** +++(=श्रुणु)+++  
+ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च **मृळय** +++(=सुखय)+++।  
+त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥  
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
-<details open><summary><h4>११ तत्त्वा यामि ...{Loading}...</h4></summary>
 
 त᳓त् त्वा **यामि** ब्र᳓ह्मणा **व᳓न्दमानस्**  
 त᳓द् **आ᳓ शास्ते** य᳓जमानो हवि᳓र्भिः ।  
 अ᳓हेळमानो +++(=अक्रुध्यन्)+++ वरुणेह᳓ **बोध्य्** उ᳓रुशंस  
 मा᳓ न आ᳓युः **प्र᳓ मोषीः** ॥
 
-</details>
 </div>
 
 > वरुणादिभ्यो नमः, अयं बीजावापः । 
@@ -922,23 +1161,20 @@ We, O king, bring to safety.'
 सकृन्मन्त्रेण द्विस्तूष्णीम् ॥ 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/20_somo_dhenuM.md">
-<details open><summary><h7>२० सोमो धेनुं ...{Loading}...</h7></summary>
 
 सो᳓मो धेनुं᳓, सो᳓मो अ᳓र्वन्तम् आशुं᳓  
 सो᳓मो वीरं᳓ कर्मण्यं᳙ **ददाति** ।  
 सादन्यं᳙+++(←सदन)+++ विदथ्यं᳙ सभे᳓यं  
 पितृ-श्र᳓वणं यो᳓ **द᳓दाशद्**+++(=दद्यात्)+++ अस्मै +++(यजमानाय)+++ ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
-<details open><summary><h7>०४ आ प्यायस्व ...{Loading}...</h7></summary>
 
 **आ᳓ प्यायस्व स᳓मेतु** ते  
 विश्व᳓तः सोम वृ᳓ष्ण्यम् ।  
 **भ᳓वा** वा᳓जस्य **सङ्गथे᳓**+++(=संगमने)+++ ॥
 
-</details>
 </div>  
 
 > सोमादिभ्यो नमः, अयं बीजावापः । 
@@ -949,5 +1185,5 @@ We, O king, bring to safety.'
 तत्-तत्-कर्मान्ते विसर्जयेत् ॥
 
 [[20]]
-</details>
+
 </div>

@@ -1,6 +1,5 @@
 +++
 title = "०६ ब्रह्मोपदेशः"
-
 +++
 [[80]]
 
@@ -8,9 +7,8 @@ title = "०६ ब्रह्मोपदेशः"
 
 ## सङ्कल्पादि
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
-<details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
-<details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
@@ -18,11 +16,16 @@ title = "०६ ब्रह्मोपदेशः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॒स् सद॑से॥  
-नम॒स् सद॑स॒स्-पत॑ये॥    
-नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चक्षु॑षे॥    
-नमो॑ दि॒वे॥   
-नमᳶ॑ पृथि॒व्यै॥
+न᳓मस् स᳓दसे॥  
+न᳓मस् स᳓दसस्-प᳓तये॥    
+न᳓मस् स᳓खीनाम् पुरोगा᳓णाञ् च᳓क्षुषे॥    
+न᳓मो दिवे᳓॥   
+न᳓मᳶ पृथिव्यै᳓॥
+</details>
+
+<details><summary>Keith</summary>
+
+Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the friends who go before, homage to sky, homage to earth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -34,35 +37,37 @@ title = "०६ ब्रह्मोपदेशः"
 नमᳶ॑ पृथि॒व्यै
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । सद॑से । नमः॑ । सद॑सः । पत॑ये । नमः॑ । सखी॑नाम् । पु॒रो॒गाणा॒मिति॑ पुरः-गाना॑म् । चक्षु॑षे । नमः॑ । दि॒वे । नमः॑ । पृ॒थि॒व्यै ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
 </details>
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
-<details open><summary><h9>267 सप्रथ सभाम् ...{Loading}...</h9></summary>
 
-सप्र॑थ स॒भाम् मे॑ गोपाय ।  
-ये च॒ सभ्या॑स् सभा॒सदः॑ ।  
-तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
-सर्व॒म् आयु॒र् उपा॑सताम् ।
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+
+स᳓प्रथ सभा᳓म् मे गोपाय ।  
+ये᳓ च स᳓भ्यास् सभास᳓दः ।  
+ता᳓निन्द्रिया᳓वतᳵ कुरु ।  
+स᳓र्वम् आ᳓युर् उ᳓पासताम् ।
+
 </div>
 
 (सर्वे॑भ्यः श्रीवैष्ण॒वेभ्यो॒ नमः॑॥)
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
-<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
 
 > स्वामिनः!  
 अशेषे हे परिषत्  
 भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
 यथोक्तदक्षिणामिव स्वीकृत्य  
 
-</details>
 </div>  
 
 > .... नक्षत्रे .... राशौ जातस्य .... गोत्रस्य शर्मणः  
@@ -99,11 +104,10 @@ title = "०६ ब्रह्मोपदेशः"
 तस्मिन् कूर्चे 
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/12_rAShTrabhRdasyAchAryAsandI_mA.md">
-<details open><summary><h2>१२ राष्ट्रभृदस्याचार्यासन्दी मा ...{Loading}...</h2></summary>
 
-+++(हे कूर्च!)+++ रा॒ष्ट्र॒भृद् अ॑स्य् आचार्याऽऽस॒न्दी, मा त्वद्+++(तः)+++ यो॑षम्+++(←यौतिः पृथग्भावे)+++ । 
++++(हे कूर्च!)+++ राष्ट्रभृ᳓द् अस्य् आचार्याऽऽसन्दी᳓,  
+मा᳓ त्व᳓द्+++(तः)+++ योषम्+++(←यौतिः पृथग्भावे)+++ । 
 
-</details>
 </div>
 
 उपनेताऽऽचार्य उपविशति ।  
@@ -138,14 +142,12 @@ title = "०६ ब्रह्मोपदेशः"
 आचार्य एवम् उपदिशेत् । 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_10_pachCho-rdharchashastatassarvAm.md">
-<details open><summary><h2>११ १० पच्छोऽर्धर्चशस्ततस्सर्वाम् ...{Loading}...</h2></summary>
 
 पच्छो ऽर्धर्चशस् ततस् सर्वाम् १०
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_11_vyAhRtIrvihRtAH.md">
-<details open><summary><h2>११ ११ व्याहृतीर्विहृताः ...{Loading}...</h2></summary>
 
 व्याहृतीर् विहृताः - पादादिष्व् अन्तेषु वा, तथार्धर्चयोर्, उत्तमां कृत्स्नायाम् ११
 
@@ -163,14 +165,24 @@ title = "०६ ब्रह्मोपदेशः"
 ओं सुव॒स्
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+
+त᳓त् सवितु᳓र् व᳓रेण्य+++(णिय)+++म्  
+भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
+धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥  
+
 </div>
 
 ###### पुनः पूर्णोच्यते कैश्चित्
 ॐ भूर्-भुव॒स्-सुव॒स्
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+
+त᳓त् सवितु᳓र् व᳓रेण्य+++(णिय)+++म्  
+भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
+धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥  
+
 </div>
-</details>
+
 </div>   
 
 एतं मन्त्रं वाचयेत् ॥
@@ -192,14 +204,13 @@ title = "०६ ब्रह्मोपदेशः"
 कुमारः -
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/14_avRdhamasau_saumya.md">
-<details open><summary><h2>१४ अवृधमसौ सौम्य ...{Loading}...</h2></summary>
 
-+++(सावित्रीग्रहणात्)+++ अवृ॑धम् अ॒सौ+++(←प्राण-सम्बोधने)+++ सौ॑म्य प्रा॒ण, स्वं मे॑ गोपाय ।+++(५)+++
++++(सावित्रीग्रहणात्)+++ अ᳓वृधम् असौ᳓+++(←प्राण-सम्बोधने)+++ सौम्य प्राण᳓, स्वं᳓ मे गोपाय ।+++(५)+++
 
 +++(सम्बोधने स्वरः कथम्??)+++
 
-</details>
 </div>
+
 <details><summary>तमिऴ्</summary>
 
 மேற்புறத்தில் சற்று மேற்காக ஆசார்யன் இருக்க, அவனிடம் குமாரன் "அயம் கூர்ச்ச:" என்று ஒரு கூர்ச்சத்தைக் கொடுக்க வேண்டும். "ராஷ்ட்ர ப்ருதஸி ஆசார்யா ஸந்தீ மாத்வத்யோஷம்" என்கிற மந்திரத்தைச் சொல்லி, அந்தக் கூர்ச்சத்தை வடக்கு நுனியாகப் போட்டுக் கொண்டு, அதில் ஆசார்யன் உட்கார வேண்டும். மாணவகன் ஆசார்யனுக்குப் பாதபூஜை செய்து விட்டு உட்கார்ந்து கொண்டு தன்னுடைய வலது கையினால் ஆசார்யனின் வலது பாதத்தையும், இடது கையினால் இடது பாதத்தையும் பிடித்துக் கொண்டு “ஸாவித்ரீம் போ அநுப்ரூஹி' என்று பிரார்த்திக்க வேண்டும். அதை அனுஸரித்து ஆசார்யனும் மாணவகனுக்குக் காயத்ரியை உபதேசிக்க வேண்டும். [[TODO::परिष्कार्यम्??]]
@@ -213,11 +224,9 @@ title = "०६ ब्रह्मोपदेशः"
 पुनर् अपि प्रत्यङ्ङ् आवृत्य,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/15_brahmaNa_ANI.md">
-<details open><summary><h2>१५ ब्रह्मण आणी ...{Loading}...</h2></summary>
 
-+++(सावित्री)+++ब्रह्म॑ण+++(=मन्त्रस्य)+++ आ॒णी+++(=कीले)+++ स्थः॑ ॥+++(५)+++
++++(सावित्री)+++ब्र᳓ह्मण+++(=मन्त्रस्य)+++ आणी᳓+++(=कीले)+++ स्थः ॥+++(५)+++
 
-</details>
 </div>
 
 यौगपद्येन कर्णावुपस्पृशेत् ।

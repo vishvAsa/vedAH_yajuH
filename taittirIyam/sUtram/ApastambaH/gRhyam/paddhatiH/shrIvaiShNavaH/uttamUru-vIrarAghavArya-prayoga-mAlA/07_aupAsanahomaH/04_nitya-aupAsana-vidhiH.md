@@ -1,6 +1,5 @@
 +++
 title = "०४ नित्य-औपासन-विधिः"
-
 +++
 
 (अथ नित्य-औपासनविधिः)
@@ -21,28 +20,30 @@ title = "०४ नित्य-औपासन-विधिः"
 अऽञ्जलिं बध्वा, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/058/03_chatvAri_shRngA.md">
-<details open><summary><h5>०३ चत्वारि शृङ्गा ...{Loading}...</h5></summary>
 
 चत्वा᳓रि शृ᳓ङ्गा त्र᳓यो अस्य पा᳓दा  
 दुवे᳓ शीर्षे᳓ सप्त᳓ ह᳓स्तासो अस्य  
 त्रि᳓धा बद्धो᳓ वृषभो᳓ रोरवीति  
 महो᳓ देवो᳓ म᳓र्तियाँ आ᳓ विवेश
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_04_guNa-kIrtanam/01_eSha_hi.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-ए॒ष हि दे॒वः प्र॒दिशो ऽनु॒ सर्वाः॒  
-पूर्वो॑ हि जा॒तस्स उ॒ गर्भे॑ अ॒न्तः ।  
-स वि॒जाय॑मानस्स जनि॒ष्यमा॑णः  
-प्र॒त्यङ्मुखा॑स् **तिष्ठति** वि॒श्वतो॑मुखः ॥
+</div>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_04_guNa-kIrtanam/01_eSha_hi.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+एष᳓ हि᳓ देवः᳓ प्रदि᳓शो᳓ ऽनु स᳓र्वाः  
+पू᳓र्वो हि जात᳓स्स᳓ उ ग᳓र्भे अन्तः᳓ ।  
+स᳓ विजा᳓यमानस्स जनिष्य᳓माणः  
+प्रत्य᳓ङ्मु᳓खास् **तिष्ठति** विश्व᳓तोमुखः ॥
+
 </details>
+
 </div>
 
 प्राङ्मुखो देव! अग्ने! अभिमुखो भव! इति अग्निं प्रार्थ्य,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/agnaye_jAtavedase_sahojase.md">
-<details open><summary><h5>Agnaye j Atavedase sahojase ...{Loading}...</h5></summary>
 
 अग्नये नमः, जातवेदसे नमः,  
 सहोजसे नमः, अजिरा-प्रभवे नमः,  
@@ -52,7 +53,7 @@ title = "०४ नित्य-औपासन-विधिः"
 +++(इति ऐन्द्र्यादिदिक्षु अग्निमर्चयेत् ।)+++
 
 +++("मध्ये यज्ञपुरुषाय नमः" इति क्वचित्।)+++
-</details>
+
 </div>  
 
 इति प्राग्-आदि अष्टसु दिक्षु अक्षतैस् सम्पूज्य,  
@@ -85,12 +86,11 @@ title = "०४ नित्य-औपासन-विधिः"
 इति सङ्कल्प्य,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/005/10_yatra_vettha.md">
-<details open><summary><h5>१० यत्र वेत्थ ...{Loading}...</h5></summary>
 
 य᳓त्र वे᳓त्थ वनस्पते  
 देवा᳓नां गु᳓ह्या ना᳓मानि  
 त᳓त्र हव्या᳓नि गामय
-</details>
+
 </div>
 
 इति समिधमाधाय, (वनस्पतय इदं न मम ) इत्युक्त्वा, 
@@ -101,17 +101,15 @@ title = "०४ नित्य-औपासन-विधिः"
 ‘ओं श्रीविष्ण॑वे॒ स्वाहा॑” इति एकया समिधा दर्भद्वयेन वा पूर्णाहुतिं हुत्वा, 'श्रीविष्णवे परमात्मन इदं न मम, तण्डुले शृते सति उत्थाय,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/01_agne_naya.md">
-<details open><summary><h5>०१ अग्ने नय ...{Loading}...</h5></summary>
 
 अ᳓ग्ने **न᳓य** सुप᳓था **राये᳓** अस्मा᳓न्  
 वि᳓श्वानि देव वयु᳓नानि+++(=ज्ञानानि)+++ विद्वा᳓न् ।  
 **युयोध्य्**+++(=अपनय)+++ अ᳙स्मज्-जुहुराण᳓म्+++(=कुटिलकारि)+++ ए᳓नो  
 भू᳓यिष्ठान् ते **न᳓म-उक्तिव्ँ विधेम** ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">
-<details open><summary><h5>मन्त्रहीनं - हुताशन ...{Loading}...</h5></summary>
 
 (अग्नये नमः)
 
@@ -130,10 +128,11 @@ title = "०४ नित्य-औपासन-विधिः"
 यद्धुतं तु मया देव  
 परिपूर्णं तदस्तु ते ॥
 </details>
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md">
-<details open><summary><h5>प्रायश्चित्तान्यशेषाणि ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रायश्चित्तान्य् अशेषाणि  
@@ -151,7 +150,7 @@ title = "०४ नित्य-औपासन-विधिः"
 </details>
 
 (कृष्ण कृष्ण कृष्ण॥)
-</details>
+
 </div>
 
 इति प्रणम्य, अभिवाद्य, आचम्य,
@@ -159,7 +158,7 @@ title = "०४ नित्य-औपासन-विधिः"
 ‘भगवानेव ... औपासनाख्यं कर्म .. कारितवान्' 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/karma-parva-stham/sAttvika-tyAgaH_bhagavAn_eva">
-<details open><summary><h5>सात्त्विक-त्यागः - भगवान् एव ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **भगवान्** एव  
@@ -279,13 +278,12 @@ ______________
 
 > भगवानेव स्वनियाम्यस्वरूपस्थितिप्रवृत्तिस्वशेषतैकरसेन मया स्वकीयैश्चोपकरणैस्स्वाराधनैकप्रयोजनाय परमपुरुषस्सर्वशेषी स्वशेषभूतमिमं योगं कारितवान् ।
 </details>
-</details>
+
 </div>  
 
 इति सात्विकत्यागं कृत्वा,  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/karma-parva-stham/prINana-mantraH_kRtaM_cha">
-<details open><summary><h5>प्रीणन-मन्त्रः - कृतं च ...{Loading}...</h5></summary>
 
 कृतञ् च करिष्यामि भगवन्। +++(इति समाप्ताव् अपि।)+++  
 
@@ -295,7 +293,6 @@ ______________
 भगवन्तं वासुदेवम् अर्चयिष्यामि  +++(इत्य् आदौ)+++  
 / भगवान् प्रीयतां वासुदेवः +++(इत्य् अन्ते)+++।   
 
-</details>
 </div>  
 
 इति औपासनं भगवति समर्पयेत् ॥  

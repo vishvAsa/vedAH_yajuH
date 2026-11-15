@@ -223,10 +223,10 @@ title = "०४ होमः"
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/04/90_sakRdAchChinnaM_barhir.md">
 
-स॒कृ॒दा॒च्छि॒न्नं ब॒र्हिर् ऊर्णा॑-मृदु ।  
-स्यो॒नं पि॒तृभ्य॑स् त्वा भराम्य् अ॒हम् ।  
-अ॒स्मिन् सी॑दन्तु मे पि॒तर॑स् सो॒म्याः ।  
-पि॒ता॒म॒हाः प्रपि॑तामहाश् चानु॒गैस् स॒ह ॥33॥
+सकृदाच्छिन्नं᳓ बर्हि᳓र् ऊ᳓र्णा-मृदु ।  
+स्योनं᳓ पितृ᳓भ्यस् त्वा भराम्य् अह᳓म् ।  
+अस्मि᳓न् सीदन्तु मे पित᳓रस् सोम्याः᳓ ।  
+पितामहाः᳓ प्र᳓पितामहाश् चानुगै᳓स् सह᳓ ॥33॥
 
 </div>
 
@@ -271,9 +271,13 @@ title = "०४ होमः"
 
 इति आवाह्य,
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/02_puruSha_evedaM.md" unfilled newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/02_puruSha_evedaM.md">
 
-पुरु॑ष ए॒वेदँ सर्व॑म् । यद्भू॒तं यच्च॒ भव्य॑म् । उ॒तामृ॑त॒त्वस्येशा॑नः । यदन्ने॑नाति॒रोह॑ति ॥ 
++++(स्व-शरीरैकदेशेन)+++ **पु᳓रुष** एवे᳓दँ᳓ **स᳓र्वम्** ।  
+य᳓द् भूतं᳓ य᳓च् च भ᳓व्यम्।   
+उत᳓+++(→तथा देवात्मभिः)+++ +अमृतत्व᳓स्ये᳓शानः +++(परमे व्योम्नि)+++ ।  
+य᳓द्+++(→यस्माद्)+++ +++(ब्रह्माण्डरूपेण)+++ अ᳓न्नेन+++(=अशितेन)+++ +**अतिरो᳓हति** । ३
+
 </div>  
 
 "विष्णोर् इदम् आसनम्",  

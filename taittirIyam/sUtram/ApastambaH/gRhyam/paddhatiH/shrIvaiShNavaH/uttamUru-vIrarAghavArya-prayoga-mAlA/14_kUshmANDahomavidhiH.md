@@ -1,6 +1,5 @@
 +++
 title = "१४ कूश्माण्डहोमविधिः"
-
 +++
 
 
@@ -9,10 +8,8 @@ title = "१४ कूश्माण्डहोमविधिः"
 अमावास्यायां, पौर्णमास्यां वा अन्यत्र वा विदितकाले सर्वाणि केशश्मश्रुनखलोमानि वापयित्वा, स्नात्वा, प्रातरौपासनं कृत्वा, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
-<details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
 
-<details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
@@ -20,11 +17,16 @@ title = "१४ कूश्माण्डहोमविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॒स् सद॑से॥  
-नम॒स् सद॑स॒स्-पत॑ये॥    
-नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चक्षु॑षे॥    
-नमो॑ दि॒वे॥   
-नमᳶ॑ पृथि॒व्यै॥
+न᳓मस् स᳓दसे॥  
+न᳓मस् स᳓दसस्-प᳓तये॥    
+न᳓मस् स᳓खीनाम् पुरोगा᳓णाञ् च᳓क्षुषे॥    
+न᳓मो दिवे᳓॥   
+न᳓मᳶ पृथिव्यै᳓॥
+</details>
+
+<details><summary>Keith</summary>
+
+Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the friends who go before, homage to sky, homage to earth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -36,38 +38,39 @@ title = "१४ कूश्माण्डहोमविधिः"
 नमᳶ॑ पृथि॒व्यै
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । सद॑से । नमः॑ । सद॑सः । पत॑ये । नमः॑ । सखी॑नाम् । पु॒रो॒गाणा॒मिति॑ पुरः-गाना॑म् । चक्षु॑षे । नमः॑ । दि॒वे । नमः॑ । पृ॒थि॒व्यै ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
 </details>
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
-<details open><summary><h9>267 सप्रथ सभाम् ...{Loading}...</h9></summary>
 
-सप्र॑थ स॒भाम् मे॑ गोपाय ।  
-ये च॒ सभ्या॑स् सभा॒सदः॑ ।  
-तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
-सर्व॒म् आयु॒र् उपा॑सताम् ।
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+
+स᳓प्रथ सभा᳓म् मे गोपाय ।  
+ये᳓ च स᳓भ्यास् सभास᳓दः ।  
+ता᳓निन्द्रिया᳓वतᳵ कुरु ।  
+स᳓र्वम् आ᳓युर् उ᳓पासताम् ।
+
 </div>
 
 (सर्वे॑भ्यः श्रीवैष्ण॒वेभ्यो॒ नमः॑॥)
 
-</details>
 </div> 
 
 इति श्रीवैष्णवान् प्रणम्य, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
-<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
 
 > स्वामिनः!  
 अशेषे हे परिषत्  
 भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
 यथोक्तदक्षिणामिव स्वीकृत्य  
 
-</details>
 </div>  
 
 > .... गोत्रस्य.... शर्मणः सपत्नीकस्य मम (विवाहप्रभृति एतत्क्षणपर्यन्तम् = इति सेतुस्नानाकरणे) (तत्करणे तु = सेतुस्नानप्रभृति एतत्क्षणपर्यन्तम् इति) (प्रपन्नस्य तु प्रपत्त्युत्तरक्षणमारभ्य एतत्क्षणपर्यन्तमिति निर्देशपूर्वकं) सम्भावितबुद्धिपूर्वक, अबुद्धिपूर्वक, अकृत्यकरण, कृत्याकरण, भगवदपचार, भागवतापचार, असह्यापचाररूप, नानाविधानन्तापचार, अस्पृश्यस्पर्शन, अभक्ष्यभक्षण, अभोज्यभोजन, अपेयपान, अपाङ्क्तेयसहभोजन, अप्रवेश्यप्रवेचन, असम्भाष्यसम्भाषणादिजनितभगवन्निग्रहसङ्कल्पशान्तिद्वारा, भ्रूणहत्याया अर्वाञ्चि एनांसि यावन्ति मयि सम्भवन्ति तावतामेनसां निर्हरणद्वारा च भगवत्प्रीत्यर्थं सकृत्कूश्माण्डैर्होतुं योग्यतासिद्धिमनुगृहाण 
@@ -87,14 +90,11 @@ title = "१४ कूश्माण्डहोमविधिः"
 इति सङ्कल्प्य (‘कृतञ्चे'ति मन्त्रं, बलमन्त्रं च अनुसन्धाय) पत्न्यर्थं पुनः प्राणान् आयम्य, पूर्ववत् सङ्कल्प्य, सात्त्विकत्यागं कृत्वा, स्थालीपाकवत् हविःश्रपणादिकं, पात्रसादनकाले चरुः, समिद्द्वयं च सादयित्वा अग्निमुखान्तं कृत्वा, अवदानधर्मेण अवदाय, सावित्रीं पुरोऽनुवाक्यामनूच्य, सावित्र्यैव याज्यया जुहोति ॥
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
-<details open><summary><h2>१० तत्सवितुर्वरेण्यं ...{Loading}...</h2></summary>
 
 त᳓त् सवितु᳓र् व᳓रेण्य+++(णिय)+++म्  
 भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
-धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥
+धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥  
 
-+++(सवित्र इदम्)+++
-</details>
 </div>
 
 स्विष्टकृदर्थमवदाय, अन्तः परिधि सादयित्वा, 'यद्देवा देवहेलनं' इत्यनुवाकत्रयेण आज्याहुतीर्जुहोति ॥
@@ -163,31 +163,24 @@ title = "१४ कूश्माण्डहोमविधिः"
 (अद्भ्यः हिरण्यवर्णाभ्याम् इदं न मम) ।
 >
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-<details open><summary><h2>१९ इमं मे ...{Loading}...</h2></summary>
 
 इमं᳓ मे वरुण **श्रुधी** +++(=श्रुणु)+++  
 ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च **मृळय** +++(=सुखय)+++।  
-त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥
+त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥  
 
-+++(वरुणाय इदं न मम)+++
-</details>
 </div>
 >
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
-<details open><summary><h2>११ तत्त्वा यामि ...{Loading}...</h2></summary>
 
 त᳓त् त्वा **यामि** ब्र᳓ह्मणा **व᳓न्दमानस्**  
 त᳓द् **आ᳓ शास्ते** य᳓जमानो हवि᳓र्भिः ।  
 अ᳓हेळमानो +++(=अक्रुध्यन्)+++ वरुणेह᳓ **बोध्य्** उ᳓रुशंस  
 मा᳓ न आ᳓युः **प्र᳓ मोषीः** ॥
 
-+++(वरुणाय इदं न मम)+++
-</details>
 </div>
 >
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
-<details open><summary><h2>०४ त्वं नो ...{Loading}...</h2></summary>
 
 त्व᳓न् नो अग्ने व᳓रुणस्य विद्वा᳓न्  
 देव᳓स्य हे᳓डो᳓+++(=क्रोधो )+++ ऽव यासिसीष्ठाः+++(=यक्षीष्ठाः)+++ ।  
@@ -195,10 +188,10 @@ title = "१४ कूश्माण्डहोमविधिः"
 वि᳓श्वा द्वे᳓षाँसि प्र᳓ मुमुग्ध्य् अस्म᳓त् ।
 
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
-<details open><summary><h2>०५ स त्वं ...{Loading}...</h2></summary>
 
 स᳓ त्व᳓न् नो अग्ने ऽवमो᳓+++(=मूलभूतो)+++ **भव**+ऊती᳓+++(त्या)+++  
 +++(“अग्निरवमो देवतानां विष्णुः परमः” इति ब्राह्मणम्)+++  
@@ -207,7 +200,7 @@ title = "१४ कूश्माण्डहोमविधिः"
 **वीहि᳓**+++(=खाद)+++ मृडीकँ᳓+++(=सुखयितारं [हविः])+++ सुह᳓वो न **एधि** ।
 
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
-</details>
+
 </div>
 
 >
@@ -230,54 +223,44 @@ title = "१४ कूश्माण्डहोमविधिः"
 (उग्रं पश्या राष्ट्रभृद्भ्याम् इदं न मम)
 >
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/14_ava_te.md">
-<details open><summary><h2>१४ अव ते ...{Loading}...</h2></summary>
 
 अ᳓व ते **हे᳓ळो**+++(←हेड् अवज्ञायां)+++ वरुण न᳓मोभिर्  
 **अ᳓व** यज्ञे᳓भिर् **ईमहे**+++(→नयामः)+++ हवि᳓र्भिः ।  
 **क्ष᳓यन्न्**+++(=निवसन्)+++ अस्म᳓भ्यम् असुर प्रचेता  
 रा᳓जन्न् **ए᳓नांसि शिश्रथः**+++(=शिथिलीकुरु)+++ कृता᳓नि ॥
 
-+++(वरुणायेदं न मम)+++
-</details>
 </div>
+
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/15_uduttamaM_varuNa.md">
-<details open><summary><h2>१५ उदुत्तमं वरुण ...{Loading}...</h2></summary>
 
 उ᳓द् उत्तमं᳓ वरुण पा᳓शम् अस्म᳓द्  
 अ᳓वाधमं᳓ वि᳓ मध्यमं᳓ श्रथाय  
 अ᳓था वय᳓म् आदितिय व्रते᳓ त᳓व  
 अ᳓नागसो अ᳓दितये सियाम
 
-+++(वरुणायेदं न मम)+++
-</details>
 </div>
+
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-<details open><summary><h2>१९ इमं मे ...{Loading}...</h2></summary>
 
 इमं᳓ मे वरुण **श्रुधी** +++(=श्रुणु)+++  
 ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च **मृळय** +++(=सुखय)+++।  
-त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥
+त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥  
 
-+++(वरुणाय इदं न मम)+++
-</details>
 </div>
+
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
-<details open><summary><h2>११ तत्त्वा यामि ...{Loading}...</h2></summary>
 
 त᳓त् त्वा **यामि** ब्र᳓ह्मणा **व᳓न्दमानस्**  
 त᳓द् **आ᳓ शास्ते** य᳓जमानो हवि᳓र्भिः ।  
 अ᳓हेळमानो +++(=अक्रुध्यन्)+++ वरुणेह᳓ **बोध्य्** उ᳓रुशंस  
 मा᳓ न आ᳓युः **प्र᳓ मोषीः** ॥
 
-+++(वरुणाय इदं न मम)+++
-</details>
 </div>
 >
 > [[79]]
 >
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
-<details open><summary><h2>०४ त्वं नो ...{Loading}...</h2></summary>
 
 त्व᳓न् नो अग्ने व᳓रुणस्य विद्वा᳓न्  
 देव᳓स्य हे᳓डो᳓+++(=क्रोधो )+++ ऽव यासिसीष्ठाः+++(=यक्षीष्ठाः)+++ ।  
@@ -285,10 +268,10 @@ title = "१४ कूश्माण्डहोमविधिः"
 वि᳓श्वा द्वे᳓षाँसि प्र᳓ मुमुग्ध्य् अस्म᳓त् ।
 
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
-<details open><summary><h2>०५ स त्वं ...{Loading}...</h2></summary>
 
 स᳓ त्व᳓न् नो अग्ने ऽवमो᳓+++(=मूलभूतो)+++ **भव**+ऊती᳓+++(त्या)+++  
 +++(“अग्निरवमो देवतानां विष्णुः परमः” इति ब्राह्मणम्)+++  
@@ -297,7 +280,7 @@ title = "१४ कूश्माण्डहोमविधिः"
 **वीहि᳓**+++(=खाद)+++ मृडीकँ᳓+++(=सुखयितारं [हविः])+++ सुह᳓वो न **एधि** ।
 
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
-</details>
+
 </div>
 
 >
@@ -332,34 +315,27 @@ title = "१४ कूश्माण्डहोमविधिः"
 (विश्वेभ्यो देवभ्य इदं )
 >
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/19_agna_AyUMShi.md">
-<details open><summary><h2>१९ अग्न आयूंषि ...{Loading}...</h2></summary>
 
 अ᳓ग्न आ᳓यूंषि **पवस**  
 आ᳓ **सुवो᳓र्जम्** इ᳓षं च नः ।  
 आरे᳓+++(=दूरे)+++ **बाधस्व** दुच्छु᳓नाम्+++(=रक्षसाम्)+++ ॥
 
-+++(अग्नये पवमानायेदं न मम)+++
-</details>
 </div>
+
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/21_agne_pavasva.md">
-<details open><summary><h2>२१ अग्ने पवस्व ...{Loading}...</h2></summary>
 
 अ᳓ग्ने **प᳓वस्व** स्व्-अ᳓पा+++(←अपस्=कर्म)+++  
 अस्मे᳓ व᳓र्चः सुवी᳓र्यम् ।  
 **द᳓धद्** रयिं᳓ म᳓यि पो᳓षम् ॥
 
-+++(अग्नये पवमानायेदं न मम)+++
-</details>
 </div>
+
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/20_agnirRShiH_pavamAnaH.md">
-<details open><summary><h2>२० अग्निरृषिः पवमानः ...{Loading}...</h2></summary>
 
 अग्नि᳓र् ऋ᳓षिः प᳓वमानः  
 पा᳓ञ्चजन्यः पुरो᳓हितः  
 त᳓म् ईमहे महागय᳓म्
 
-+++(अग्नये पवमानायेदं न मम)+++
-</details>
 </div>
 
 >
@@ -576,22 +552,40 @@ title = "१४ कूश्माण्डहोमविधिः"
 [[90]]
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
-<details open><summary><h2>१० प्रजापते न ...{Loading}...</h2></summary>
 
 प्र᳓जापते न᳓ त्व᳓द् +++(विश्वा जातानि→)+++ एता᳓न्य् अन्यो᳓  
 वि᳓श्वा जाता᳓नि **प᳓रि** ता᳓ **बभूव** ।  
 य᳓त्-कामास् ते जुहुम᳓स् त᳓न् नो **अस्तु**  
 वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म्॥
 
-+++(प्रजापतय इदं न मम)+++
-</details>
 </div>
 > 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_3.md">
 
-ओं भूस्स्वाहा॑ - (अग्नय इदं न मम) ॥
-ओं भुव॒स्स्वाहा॑ - (वायव इदं न मम) ॥
-ओँ सुव॒स्स्वाहा॑ ॥ (सूर्याय इदं न मम) ॥  (१-३) ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(ओं᳓) भू᳓स् स्वा᳓हा ॥
+(अग्न᳓य +इदं᳓ न᳓ म᳓म)
+
+(ओं᳓) भु᳓वस् स्वा᳓हा ॥
+(वाय᳓व +इदं᳓ न᳓ म᳓म)
+
+(ओं᳓) सु᳓वस् स्वा᳓हा ॥  
+(सू᳓र्याय +इदं᳓ न᳓ म᳓म)
+</details>
+
+<details><summary>मूलम्</summary>
+
+(ओं) भूस्स्वाहा॑ ॥
+(अग्नय इदं न मम)
+
+(ओं) भुव॒स्स्वाहा॑ ॥
+(वायव इदं न मम)
+
+(ओं) सुव॒स्स्वाहा॑ ॥  
+(सूर्याय इदं न मम)
+</details>
+
 </div>
 >
 > यद॑स्य॒ कर्म॒णोऽत्यरी॑रिचं॒ यद्वा॒ न्यू॑नमि॒हाक॑रम् । अ॒ग्निष्टत्स्वि॑ष्ट॒कृद्वि॒द्वान् सर्वँ॒स्वि॑ष्टँ॒ सुहु॑तं करोतु॒ स्वाहा॑ ॥ (अग्नये स्विष्टकृत इदं न मम) [[TODO:परिष्कार्यम्??]] ॥ १ ॥

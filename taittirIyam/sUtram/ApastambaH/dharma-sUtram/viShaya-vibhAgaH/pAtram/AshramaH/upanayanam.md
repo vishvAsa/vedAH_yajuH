@@ -221,60 +221,60 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
 
-पव॑मान॒स् सुव॒र्-जनः॑ ।  
-प॒वित्रे॑ण॒ +++(नाना-विषयेषु)+++ विच॑र्षणिः ।  
-यᳶ पोता॒ स **पु॑नातु** मा ।  
+प᳓वमानस् सु᳓वर्-ज᳓नः ।  
+पवि᳓त्रेण +++(नाना-विषयेषु)+++ वि᳓चर्षणिः ।  
+यᳶ᳓ पो᳓ता स᳓ **पुनातु** मा ।  
 
 </div>
 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
 
-**पु॒नन्तु॑** मा **देवज॒नाः** ।  
-पु॒नन्तु॒ **मन॑वो** धि॒या ।  
-पु॒नन्तु॒ **विश्व॑ आ॒यवः॑**+++(=मनुष्याः)+++ ।  
+**पुन᳓न्तु** मा **देवजनाः᳓** ।  
+पुन᳓न्तु **म᳓नवो** धिया᳓ ।  
+पुन᳓न्तु **वि᳓श्व आय᳓वः**+++(=मनुष्याः)+++ ।  
 
 </div>
 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
 
-जात॑वेदᳶ प॒वित्र॑वत् ।  
-प॒वित्रे॑ण **पुनाहि**+++(=पुनीहि)+++ मा ।  
-शु॒क्रेण॑ देव॒ **दीद्य॑त्** ।  
-**अग्ने॒** क्रत्वा॒+++(=प्रज्ञया)+++ क्रतूँ॒र् अनु॑ ॥46॥  
+जा᳓तवेदᳶ पवि᳓त्रवत् ।  
+पवि᳓त्रेण **पुनाहि**+++(=पुनीहि)+++ मा ।  
+शुक्रे᳓ण देव **दी᳓द्यत्** ।  
+**अ᳓ग्ने** क्र᳓त्वा+++(=प्रज्ञया)+++ क्र᳓तूँर् अ᳓नु ॥46॥  
 
 </div>
 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
 
-यत् ते॑ **प॒वित्र॑म् अ॒र्चिषि॑** ।  
-अग्ने॒ वित॑तम् अन्त॒रा ।  
-ब्रह्म॒ तेन॑ **पुनीमहे** ।  
+य᳓त् ते **पवि᳓त्रम् अर्चि᳓षि** ।  
+अ᳓ग्ने वि᳓ततम् अन्तरा᳓ ।  
+ब्र᳓ह्म ते᳓न **पुनीमहे** ।  
 
 </div>
 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
 
-उ॒भाभ्या॑न् देव **सवितः** ।  
-प॒वित्रे॑ण स॒वेन॑ च ।  
-इ॒दम् ब्रह्म॑ **पुनीमहे** ।+++(5)+++  
+उभा᳓भ्यान् देव **सवितः** ।  
+पवि᳓त्रेण सवे᳓न च ।  
+इद᳓म् ब्र᳓ह्म **पुनीमहे** ।+++(5)+++  
 
 </div>
 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
 
-वै॒श्व॒दे॒वी **पु॑न॒ती** दे॒व्य् **आगा॑त्**+++(=आगच्छतु)+++ ।  
-यस्यै॑ ब॒ह्वीस् त॒नुवो॑ वी॒त-पृ॑ष्ठाः+++(=कान्त-स्तुतयः)+++ ।  
-तया॒ **मद॑न्तस्** सध॒-माद्ये॑षु +++(=सह माद्यन्ति येषु सवनेषु)+++ ।  
-व॒यँ **स्या॑म॒** पत॑यो रयी॒णाम् ॥47॥  
+वैश्वदेवी᳓ **पुनती᳓** देव्य् **आ᳓गात्**+++(=आगच्छतु)+++ ।  
+य᳓स्यै बह्वी᳓स् तनु᳓वो वीत᳓-पृष्ठाः+++(=कान्त-स्तुतयः)+++ ।  
+त᳓या **म᳓दन्तस्** सध-मा᳓द्येषु +++(=सह माद्यन्ति येषु सवनेषु)+++ ।  
+वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म् ॥47॥  
 
 </div>
 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
 
-**वै॒श्वा॒न॒रो** र॒श्मिभि॑र् मा **पुनातु** ।   
-**वात॑ᳶ** प्रा॒णेने॑षि॒रो+++(←इष गतौ)+++ म॑यो॒भूः ।  
-**द्यावा॑पृथि॒वी** पय॑सा॒ पयो॑भिः +++(इति क्रमशः)+++ ।   
-ऋ॒ताव॑री+++(=ऋतवत्यौ)+++ य॒ज्ञिये॑ मा **पुनीताम्** ।  
+**वैश्वानरो᳓** रश्मि᳓भिर् मा **पुनातु** ।   
+**वा᳓तᳶ** प्राणे᳓नेषिरो᳓+++(←इष गतौ)+++ मयोभूः᳓ ।  
+**द्या᳓वापृथिवी᳓** प᳓यसा प᳓योभिः +++(इति क्रमशः)+++ ।   
+ऋता᳓वरी+++(=ऋतवत्यौ)+++ यज्ञि᳓ये मा **पुनीताम्** ।  
 
 </div>
 
@@ -292,10 +292,10 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn_full.md">
 <details open><summary>विश्वास-प्रस्तुतिः …{Loading}…</summary>
 
-आपो॑ अ॒स्मान् मा॒तर॑श् शुन्धन्तु।+++(र४)+++  
-घृ॒तेन॑ नो घृत॒-पुवᳶ॑+++(→घृतपावकाः)+++ पुनन्तु ।  
-विश्व॑म् अ॒स्मत् प्र व॑हन्तु रि॒प्रम्+++(=पापम्)+++ +++(र५)+++  
-उद् +++(अद्भ्य)+++ आ॑भ्य॒श् शुचि॒र् आ पू॒त ए॑मि ।+++(र५)+++
+आ᳓पो अस्मा᳓न् मात᳓रश् शुन्धन्तु।+++(र४)+++  
+घृते᳓न नो घृत-पु᳓वᳶ+++(→घृतपावकाः)+++ पुनन्तु ।  
+वि᳓श्वम् अस्म᳓त् प्र᳓ वहन्तु रिप्र᳓म्+++(=पापम्)+++ +++(र५)+++  
+उ᳓द् +++(अद्भ्य)+++ आभ्यश् शु᳓चिर् आ᳓ पूत᳓ एमि ।+++(र५)+++
 
 </details>
 </div>
@@ -395,10 +395,10 @@ unicode_script: devanagari
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
 
-+++(अहं)+++ हँ॒सश् शु॑चि॒-षद्, वसु॑र् अन्तरिक्ष॒-सद्,  
-+होता॑ वेदि॒-षद्, अति॑थिर् दुरोण॒-सत् ।  
-नृ॒-षद्, व॑र॒-सद्, ऋ॑त॒-सद् व्यो॑म॒-सद्,  
-अ॒ब्-जा, गो॒-जा, ऋ॑त॒-जा, अ॑द्रि॒-जा, ऋ॒तं बृ॒हत् ॥
++++(अहं)+++ हँस᳓श् शुचि-ष᳓द्, व᳓सुर् अन्तरिक्ष-स᳓द्,  
++हो᳓ता वेदि-ष᳓द्, अ᳓तिथिर् दुरोण-स᳓त् ।  
+नृ-ष᳓द्, वर-स᳓द्, ऋत-स᳓द् व्योम-स᳓द्,  
+अब्-जा᳓, गो-जा᳓, ऋत-जा᳓, अद्रि-जा᳓, ऋतं᳓ बृह᳓त् ॥
 
 </div>
 </details>

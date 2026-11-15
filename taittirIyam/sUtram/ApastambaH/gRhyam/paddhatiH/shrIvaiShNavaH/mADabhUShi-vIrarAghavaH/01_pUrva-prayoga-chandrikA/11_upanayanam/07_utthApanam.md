@@ -1,21 +1,18 @@
 +++
 title = "०७ उत्थापनम्"
-
 +++
 
 ## दण्ड-ग्रहणम्
 ‘सुश्रवः सुश्रवसम्' इति पालाशं बैल्वं वा दण्डं धारयित्वा 
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/01_sushravassushravasam_mA.md">
-<details open><summary><h2>०१ सुश्रवस्सुश्रवसम् मा ...{Loading}...</h2></summary>
 
-सु॒श्रव॑स् +++(पलाश!)+++ सु॒श्रव॑सं मा कुरु।+++(५)+++  
-यथा॒ त्वँ सु॒श्रव॑स् सु॒श्रवा॑ अस्य्,  
-ए॒वम् अ॒हँ सु॒श्रव॑स् सु॒श्रवा॑ भूयासम्॥  
-यथा॒ त्वँ सु॒श्रव॑स्! सु॒श्रवो॑! दे॒वानां॑ निधिगो॒पो॑ ऽस्य्,  
-ए॒वम॒हं ब्रा॑ह्म॒णानां॒ ब्रह्म॑णो निधि-गो॒पो भू॑यासम् ।+++(५)+++  
+सु᳓श्रवस् +++(पलाश! ~~सुश्र᳓वस्~~)+++ सुश्र᳓वसं मा कुरु।+++(५)+++  
+य᳓था त्वँ᳓ सुश्रवस् +++(~~सुश्र᳓वस्~~)+++ सुश्र᳓वा अस्य्,  
+एव᳓म् अहँ᳓ सुश्रवस् +++(~~सुश्र᳓वस्~~)+++ सुश्र᳓वा भूयासम्॥  
+य᳓था त्वँ᳓ सुश्रवस् +++(~~सुश्र᳓वस्~~)+++! सुश्रवो +++(~~सुश्र᳓वो~~)+++! देवा᳓नां निधिगोपो᳙ ऽस्य्,  
+एव᳓म् अहं᳓ ब्राह्मणा᳓नां ब्र᳓ह्मणो निधि-गोपो᳓ भूयासम् ।+++(५)+++  
 
-</details>
 </div>
 
 ## व्रतसङ्कल्पः कुमारेण
@@ -23,72 +20,54 @@ title = "०७ उत्थापनम्"
 ‘स्मृतं च मे' इत्यादि 'सर्वव्रतो भूयासम्' इत्यन्तं वाचयेत् । 
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/02_smRtaM_cha_me.md">
-<details open><summary><h2>०२ स्मृतञ्च मे …{Loading}…</h2></summary>
 
 स्मृत᳓ञ् च मे, अ᳓स्मृतञ् च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
 
-</details>
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/03_nindA_cha_me.md">
-<details open><summary><h2>०३ निन्दा च मे …{Loading}…</h2></summary>
 
 निन्दा᳓ च मे, अ᳓निन्दा च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
 
-</details>
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/04_shraddhA_cha_me.md">
-<details open><summary><h2>०४ श्रद्धा च मे …{Loading}…</h2></summary>
 
 श्रद्धा᳓ च मे, अ᳓श्रद्धा च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
 
-</details>
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/05_vidyA_cha_me.md">
-<details open><summary><h2>०५ विद्या च मे …{Loading}…</h2></summary>
 
 विद्या᳓ च मे, अ᳓विद्या च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
 
-</details>
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/06_shrutaM_cha_me.md">
-<details open><summary><h2>०६ श्रुतञ्च मे …{Loading}…</h2></summary>
 
 श्रुत᳓ञ् च मे, अ᳓श्रुतञ्च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
 
-</details>
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/07_satyaM_cha_me.md">
-<details open><summary><h2>०७ सत्यञ्च मे …{Loading}…</h2></summary>
 
 सत्य᳓ञ् च मे, अ᳓नृतञ्च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
 
-</details>
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/08_tapaShcha_me.md">
-<details open><summary><h2>०८ तपश्च मे …{Loading}…</h2></summary>
 
 त᳓पश् च मे, अ᳓तपश्च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
 
-</details>
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/09_vrataM_cha_me.md">
-<details open><summary><h2>०९ व्रतञ्च मे …{Loading}…</h2></summary>
 
 व्रत᳓ञ् च मे, अ᳓व्रतञ्च मे - त᳓न् म उभ᳓यं व्रत᳓म्,
 
-</details>
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/10_yadbrAhmaNAnAM_brahmaNi.md">
-
-<details open><summary><h2>१० यद्ब्राह्मणानां ब्रह्मणि व्रतम् …{Loading}…</h2></summary>
 
 य᳓द् ब्राह्मणा᳓नां ब्र᳓ह्मणि+++(=वेदविषये)+++ व्रत᳓म्,  
 य᳓द् अग्ने᳓स् +++(→यातृत्वं)+++ से᳓न्द्रस्य +++(→प्राधान्यम्)+++ स᳓प्रजापतिकस्य +++(→स्रष्टृत्वं)+++  
@@ -99,8 +78,6 @@ title = "०७ उत्थापनम्"
 य᳓न् म आत्म᳓न आत्म᳓नि व्रत᳓न्,  
 ते᳓नाहँ᳓ स᳓र्वव्रतो भूयासम् ।
 
-</details>
-
 </div>
 
 ## वर-दानम्
@@ -110,9 +87,8 @@ title = "०७ उत्थापनम्"
 'देवस्ये'त्युक्त्वा 'राजा त्वा वरुणो नयतु देवि दक्षिणे रुद्राय गाम्’ इत्यादि ‘आङ्गीरसः प्रतिगृह्णातु' इत्यन्तम् उक्त्वा प्रतिगृह्य 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/01_agnaye_hiraNyam/">
-<details open><summary><h5>०१ अग्नये हिरण्यम् ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
-<details open><summary><h10>दे॒वस्य॑ त्वा सवि॒तुः प्रति॑गृह्णामि ...{Loading}...</h10></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
 <details><summary>मूलम् (संयुक्तम् आरण्यके)</summary>
 
 दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वे ।  
@@ -120,13 +96,12 @@ title = "०७ उत्थापनम्"
 पू॒ष्णो हस्ता॑भ्यां॒ प्रति॑गृह्णामि ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-<details open><summary><h15>देवस्य त्वा सवितुः ...{Loading}...</h15></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
-+++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
-पू॒ष्णो हस्ता॑भ्याम्…
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
++++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
+पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
 
 <details><summary>Keith</summary>
@@ -160,45 +135,57 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रति॑गृह्णामि
+प्र᳓तिगृह्णामि
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Goddess Dakṣiṇā (Sacrificial Fee), I take you by the impelling of the impeller Savitṛ, by the hands of Aśvins, by the hands of Pūṣan;
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रति॑गृह्णामि
 </details>
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राजा॑ त्वा॒ वरु॑णो नयतु  
-देवि दक्षिणे॒ऽग्नये॒ हिर॑ण्यम् ।  
+रा᳓जा त्वा व᳓रुणो नयतु  
+देवि दक्षिणेऽग्न᳓ये हि᳓रण्यम् ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may Varuṇa, the king carry you to the fire as gold;
 </details>
 
 <details><summary>मूलम्</summary>
 
 राजा॑ त्वा॒ वरु॑णो नयतु  
-देवि दक्षिणे॒ऽग्नये॒ हिर॑ण्यम् ।  
+देवि दक्षिणे॒ऽग्नये॒ हिर॑ण्यम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-हे हिरण्यात्मिके ! देवि! दक्षिणे! राजा वरुणः त्वां हिरण्यं अग्नये नयतु । तच्चेयमिष्टकाऽस्ति ।  
+हे हिरण्यात्मिके ! देवि! दक्षिणे! राजा वरुणः त्वां हिरण्यं अग्नये नयतु । तच्चेयमिष्टकाऽस्ति ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
-<details open><summary><h10>तेना॑मृत॒त्वम॑श्याम् ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेना॑मृत॒त्वम॑श्याम् ।  
-वयो॑+++(=अन्नम्)+++ दा॒त्रे ।  
-मयो॒ मह्य॑म् अस्तु प्रतिग्रही॒त्रे ।
+ते᳓नामृतत्व᳓मश्याम् ।  
+व᳓यो+++(=अन्नम्)+++ दात्रे᳓ ।  
+म᳓यो म᳓ह्यम् अस्तु प्रतिग्रहीत्रे᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+by that may we obtain the immortality; may food be for the donator and comfort for me, the obtainer (4).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -216,8 +203,13 @@ ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क इ॒दङ्कस्मा॑ अदात् ।  
-कामः॒ कामा॑य ।
+क᳓ इद᳓ङ्क᳓स्मा अदात् ।  
+का᳓मः का᳓माय ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Who gave it whom? Kāma (desire or cupid) gave it for Kāma;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -234,9 +226,14 @@ ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कामो॑ दा॒ता ।  
+का᳓मो दाता᳓ ।  
 (15)  
-कामः॑ प्रतिग्रही॒ता ।
+का᳓मः प्रतिग्रहीता᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Kāma is the donator, Kāma is the obtainer;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -244,13 +241,17 @@ ______________
 कामो॑ दा॒ता ।  
 (15)  
 कामः॑ प्रतिग्रही॒ता ।
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कामँ॑ समु॒द्रम् आवि॑श ।  
-कामे॑न त्वा॒ प्रति॑गृह्णामि ।
+का᳓मँ समुद्र᳓म् आ᳓विश ।  
+का᳓मेन त्वा प्र᳓तिगृह्णामि ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+(O Dakṣiṇā) enter Kāma; I take you by Kāma (desire);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -266,8 +267,13 @@ ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कामै॒तत् ते॑ ।  
-ए॒षा ते॑ काम॒ दक्षि॑णा ।
+का᳓मैत᳓त् ते ।  
+एषा᳓ ते काम द᳓क्षिणा ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Kāma, this is yours; O Kāma, this is your Dakṣiṇā (sacrificial fee);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -287,7 +293,12 @@ ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒त्ता॒नस् त्वा॑ङ्गीर॒सः प्रति॑गृह्णातु ।
+उत्तान᳓स् त्वाङ्गीरसः᳓ प्र᳓तिगृह्णातु ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may Uttāna Āṅgirasa obtain you (5).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -304,44 +315,39 @@ ______________
 तस्मात् पृथिव्येव त्वां प्रतिगृह्णातु  
 नाहमस्य प्रतिग्रहीतेति ॥
 </details>
-</details>
 </div>
-</details>
+
 </div>
 
 ## उत्थानम्
 'उदायुषे'ति कुमारम् उत्थाप्य  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/11_udAyuShA_svAyuShodoShadhInAm.md">
-<details open><summary><h2>११ उदायुषा स्वायुषोदोषधीनाम् ...{Loading}...</h2></summary>
 
-उद् आयु॑षा स्वा॒युषा,  
-+उद् ओष॑धीनाँ॒ रसे॑न॒+,  
-+उत् प॒र्जन्य॑स्य॒ शुष्मे॑ण+++(=बलेन)++++  
-+उद् अ॑स्थाम्,  
-अ॒मृताँ॒+++(=देवान्)+++ अनु॑ ।  
+उ᳓द् आ᳓युषा स्वायु᳓षा,  
++उ᳓द् ओ᳓षधीनाँ र᳓सेन+,  
++उ᳓त् पर्ज᳓न्यस्य शु᳓ष्मेण+++(=बलेन)++++  
++उ᳓द् अस्थाम्,  
+अमृ᳓ताँ+++(=देवान्)+++ अ᳓नु ।  
 
-</details>
 </div>
 
 ## आदित्योपस्थानम्
 'तच्चक्षुरि'त्यादिभिः आदित्योपस्थानं कारयित्वा  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md">
-<details open><summary><h2>१२ तच्चक्षुर्देवहितम् पुरस्ताच्छुक्रमुच्चरत् ...{Loading}...</h2></summary>
 
-+++(सूर्यस्)+++ तच् चक्षु॑र् दे॒व+++(नि)+++हि॑तं पु॒रस्ता॑च् छु॒क्र+++(द्ध)+++म् उ॒च्चर॑त् -  
-पश्ये॑म श॒रद॑श् श॒तं  
-जीवे॑म श॒रद॑श् श॒तं  
-नन्दा॑म श॒रद॑श् श॒तं  
-मोदा॑म श॒रद॑श् श॒तं  
-भवा॑म श॒रद॑श् श॒तँ  
-शृ॒णवा॑म श॒रद॑श् श॒तं  
-प्रब्र॑वाम श॒रद॑श् श॒तम्  
-अजी॑ताः स्याम श॒रद॑श् श॒तं  
-ज्योक्+++(=दीर्घकालं)+++ च॒ सूर्य॑न् दृ॒शे ।  
++++(सूर्यस्)+++ त᳓च् च᳓क्षुर् देव᳓+++(नि)+++हितं पुर᳓स्ताच् छुक्र᳓+++(द्ध)+++म् उच्च᳓रत् -  
+प᳓श्येम शर᳓दश् शतं᳓  
+जी᳓वेम शर᳓दश् शतं᳓  
+न᳓न्दाम शर᳓दश् शतं᳓  
+मो᳓दाम शर᳓दश् शतं᳓  
+भ᳓वाम शर᳓दश् शतँ᳓  
+शृण᳓वाम शर᳓दश् शतं᳓  
+प्र᳓ब्रवाम शर᳓दश् शत᳓म्  
+अ᳓जीताः स्याम शर᳓दश् शतं᳓  
+ज्यो᳓क्+++(=दीर्घकालं)+++ च सू᳓र्यन् दृशे᳓ ।  
 
-</details>
 </div>
 
 ## हस्त-ग्रहणम्
@@ -352,13 +358,11 @@ ______________
 'यस्मिन् भूतं च' इत्येतया दक्षिणहस्तेन गृह्णीयात् ।  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/13_yasminbhUtancha_bhavyancha.md">
-<details open><summary><h2>१३ यस्मिन्भूतञ्च भव्यञ्च ...{Loading}...</h2></summary>
 
-यस्मि॑न् भू॒तञ् च॒ भव्य॑ञ् च॒  
-सर्वे॑ लो॒कास् स॒माहि॑ताः ।  
-तेन॑ गृह्णामि त्वाम् अ॒हं,  
-मह्यं॑ गृह्णामि त्वाम् अ॒हं  
-प्र॒जाप॑तिना त्वा॒ मह्यं॑ गृह्णाम्य् असौ+++(→नामनिर्देशः)+++ ॥
+य᳓स्मिन् भूत᳓ञ् च भ᳓व्यञ् च  
+स᳓र्वे लोका᳓स् समा᳓हिताः ।  
+ते᳓न गृह्णामि त्वाम् अहं᳓,  
+म᳓ह्यं गृह्णामि त्वाम् अहं᳓  
+प्रजा᳓पतिना त्वा म᳓ह्यं गृह्णाम्य् असौ+++(→नामनिर्देशः)+++ ॥
 
-</details>
 </div>

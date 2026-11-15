@@ -1,6 +1,5 @@
 +++
 title = "१० सम्भाव्यानि प्रायश्चित्तानि"
-
 +++
 ॥ अत्र संभाव्यानि प्रायश्चित्तानि ॥
 
@@ -25,14 +24,17 @@ title = "१० सम्भाव्यानि प्रायश्चित
 ऽन्यच्-छिला-त्रयं पूर्ववत् **प्रतिष्ठाप्यावाह्य स्पृष्ट्वा जपेत्** -
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/01_AyAtu_devas.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-**आया॑तु** दे॒वस् सु॒मना॑भिर् ऊ॒तिभि॑र्  
-य॒मो हवा+++(य्)++++इ॒ह प्रय॑ताभिर् **अ॒क्ता** ।  
-आसी॑दताँ सुप्र॒यते॑ह ब॒र्हिष्य्  
-ऊर्जा॑-यजात्यै मम॑ शत्रु॒-हत्यै॑ ।  
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+**आ᳓यातु** देव᳓स् सुम᳓नाभिर् ऊति᳓भिर्  
+यमो᳓ ह᳓ वा᳓+++(य्)++++इह᳓ प्र᳓यताभिर् **अक्ता᳓** ।  
+आ᳓सीदताँ सुप्रय᳓तेह बर्हि᳓ष्य्  
+ऊ᳓र्जा-यजात्यै म᳓म शत्रु-ह᳓त्यै ।  
 +++(आरण्यक-स्वर-व्यत्ययः॥)+++
+
 </details>
+
 </div>
 
  इति ॥ 
@@ -45,14 +47,12 @@ title = "१० सम्भाव्यानि प्रायश्चित
 उभयं **स्पृष्ट्वा जपेत्**-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/013/02_yame_iva.md">
-<details open><summary><h5>०२ यमे इव ...{Loading}...</h5></summary>
 
 +++(सहोत्पत्त्या)+++ यमे᳓ इव **य᳓तमाने** य᳓दै᳓तं  
 प्र᳓ वाम् **भरन्** मा᳓नुषा **देवय᳓न्तः** ।  
-**आ᳓सीदतँ** स्व᳓म् उ लोकव्ँ᳓ **वि᳓दाने**  
+**आ᳓सीदतँ** स्व᳓म् उ लोक᳓व्ँ **वि᳓दाने**  
 स्व्-आस-स्थे᳓ **भवतम्** इ᳓न्दवे नः ।  
 
-</details>
 </div>
 
 इति ।। 
@@ -61,34 +61,30 @@ title = "१० सम्भाव्यानि प्रायश्चित
 लौकिकाग्नाव् आज्यं संस्कृत्य-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/13_yamAya_somaM.md">
-<details open><summary><h5>१३ यमाय सोमं ...{Loading}...</h5></summary>
 
 यमा᳓य सो᳓मँ **सुनुत**  
 यमा᳓य **जुहुता** हविः᳓ ।  
 यमँ᳓ ह यज्ञो᳓ **गच्छत्य्**  
 अग्नि᳓-दूतो अ᳓रङ्-कृतः ।
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/14_yamAya_ghRtavaddhavirjuhota.md">
-<details open><summary><h5>१४ यमाय घृतवद्धविर्जुहोत ...{Loading}...</h5></summary>
 
 यमा᳓य घृत᳓वद्-धवि᳓र्  
 **जुहो᳓त** प्र᳓ च **तिष्ठत** ।  
 स᳓ नो देवे᳓ष्व् **आ᳓यमद्**  
 दीर्घ᳓म् आ᳓युः प्र᳓ जीव᳓से ।
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/15_yamAya_madhumattamaM.md">
-<details open><summary><h5>१५ यमाय मधुमत्तमं ...{Loading}...</h5></summary>
 
 यमा᳓य म᳓धुमत्तमँ  
 रा᳓ज्ञे हव्य᳓ञ् **जुहोतन** ।  
 इद᳓न् न᳓म ऋ᳓षिभ्यः पूर्वजे᳓भ्यः  
 पू᳓र्वेभ्यः पथि-कृ᳓द्भ्यः ।
 
-</details>
 </div>
 
 इति तिस्रः युवाहुतीर् **जुहोति** ॥ " यमायेदं॰" ॥ 
@@ -151,25 +147,22 @@ title = "१० सम्भाव्यानि प्रायश्चित
 इति संकल्प्य, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/raxAMsi/Rk/apahatA_asurA.md">
-<details open><summary><h5>अप॑हता॒ असु॑रा॒ ...{Loading}...</h5></summary>
 
 अप॑हता॒ असु॑रा॒ रक्षाँ॑सि  
 पिशा॒चा ये क्षय॑न्ति पृथि॒वीम् अनु॑ ।  
 अ॒न्यत्रेतो॑ गच्छन्तु॒ यत्रैषां॑ गतं॒ मनः॑ ॥
-</details>
+
 </div>
 
 इत्य् अद्भिश्चितां **प्रोक्ष्य**
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
-<details open><summary><h5>19 अयन्ते योनिर् ...{Loading}...</h5></summary>
 
-अ॒यन् ते॒ **योनि॑र्** ऋ॒त्वियः॑ ।  
-यतो॑ जा॒तो **अरो॑चथाः** ।  
-तञ् जा॒नन्न् अ॑ग्न॒ **आ रो॑ह** +++(→ सीदेति शाकले)+++ ।  
-अथा॑ नो **वर्धया र॒यिम्** ।  
+अय᳓न् ते **यो᳓निर्** ऋत्वि᳓यः ।  
+य᳓तो जातो᳓ **अ᳓रोचथाः** ।  
+त᳓ञ् जान᳓न्न् अग्न **आ᳓ रोह** +++(→ सीदेति शाकले)+++ ।  
+अ᳓था नो **वर्धया रयि᳓म्** ।  
 
-</details>
 </div>  
 
 इति तद्भस्म समिधि **समारोप्य**  
@@ -178,22 +171,21 @@ title = "१० सम्भाव्यानि प्रायश्चित
 तां समिधम् **आदधाति** -
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
-<details open><summary><h5>07 आजुह्वानस् सुप्रतीकᳶ ...{Loading}...</h5></summary>
 
-**आ॒जुह्वा॑नस्**+++(=हूयमानः)+++ सु॒-प्रती॑कᳶ पु॒रस्ता॒द्  
-अग्ने॒ स्वाय्ँ योनि॒म् **आ सी॑द** सा॒ध्या+++(→ साधु॒या माध्यन्दिने)+++ ।  
-अ॒स्मिन्त् स॒ध-स्थे॒, अध्य् उत्त॑रस्मि॒न्   
-विश्वे॑ देवाः॒! यज॑मानश् च **सीदत** ।
-</details>
+**आजु᳓ह्वानस्**+++(=हूयमानः)+++ सु-प्र᳓तीकᳶ पुर᳓स्ताद्  
+अ᳓ग्ने स्वाय्ँ᳓ यो᳓निम् **आ᳓ सीद** साध्या᳓+++(→ साधुया माध्यन्दिने)+++ ।  
+अस्मि᳓न्त् सध᳓-स्थे, अ᳓ध्य् उ᳓त्तरस्मिन्   
+वि᳓श्वे देवाः! य᳓जमानश् च **सीदत** ।
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
-<details open><summary><h5>45 उद्बुध्यस्वाग्ने प्रति ...{Loading}...</h5></summary>
 
-**उद्बु॑ध्यस्वाग्ने॒** प्रति॑ जागृह्य्  
-एनम् इष्टा-पू॒र्ते सँसृ॑जेथाम॒यञ्च॑ ।   
-पुन॑ᳵ **कृ॒ण्वँस्** त्वा॑ पि॒तरय्ँ॒ युवा॑नम्  
-**अ॒न्वाताँ॑सी॒त्** त्वयि॒ तन्तु॑म् ए॒तम् ।
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
+
+**उ᳓द्बुध्यस्वाग्ने** प्र᳓ति जागृह्य्  
+एनम् इष्टा-पूर्ते᳓ सँ᳓सृजेथामय᳓ञ्च ।   
+पु᳓नᳵ **कृण्वँ᳓स्** त्वा पित᳓रय्ँ यु᳓वानम्  
+**अन्वा᳓ताँसीत्** त्व᳓यि त᳓न्तुम् एत᳓म् ।
+
 </div>  
 
 इति द्वाभ्याम् ।। 
@@ -212,100 +204,162 @@ title = "१० सम्भाव्यानि प्रायश्चित
 समिधमाधायाज्याहुतीर्जुहोति- 
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/18_ayAshchAgne-syanabhishastIshcha_satyamittvamayA.md">
-<details open><summary><h2>१८ अयाश्चाग्नेऽस्यनभिशस्तीश्च सत्यमित्त्वमया ...{Loading}...</h2></summary>
 
-अ॒याश्+++(=एतुम् योग्यः, गमनशीलो वा)+++ चा॒ग्ने ऽस्य् अ॑नभिश॒स्तीश्च॑+++(=अनवद्यः)+++  
-स॒त्यम् इ॑त् त्वम् अ॒या अ॑सि ।  
-अय॑सा॒+++(=प्रतिगन्त्रा)+++ मन॑सा धृ॒तो॑  
-ऽयसा॑ ह॒व्यम् ऊ॑हिषे॒+++(=वहस्व)+++  
-ऽया नो॑ धेहि भेष॒जम् ।।+++(५)+++
+<details open><summary><h2>१८ अयाश्चाग्नेऽस्यनभिशस्तीश्च सत्यमित्त्वमया …{Loading}…</h2></summary>
+
+अया᳓श्+++(=एतुम् योग्यः, गमनशीलो वा)+++ चाग्ने᳓ ऽस्य् अनभिशस्ती᳓श्च+++(=अनवद्यः)+++  
+सत्य᳓म् इ᳓त् त्व᳓म्+++(←स्वरः शोधितः)+++ अया᳓ असि ।  
+अ᳓यसा+++(←अय् + असुँन्)+++ म᳓नसा धृतो᳓  
+अय᳓सा+++(← इण् + असुँन्)+++ हव्य᳓म् ऊहिषे+++(=वहस्व)+++  
+अया᳓ नो धेहि भेषज᳓म् ।।+++(५)+++
 
 </details>
+
 </div>  
 
 "अग्नये अयस इदं॰" । स्रुचि चतुर्ग्रहीत गृहीत्वा जुहोति 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/03_pashchAt_agnir_hotA">
-<details open><summary><h5>०३ पश्चात् अग्निर् होता ...{Loading}...</h5></summary>
 
 ###### होता
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-1पश्चाद् उदञ्चं पञ्चहोतारम् उपदधाति - अग्निर्होतेति ॥ 
+पश्चाद् उदञ्चं पञ्चहोतारम् उपदधाति - अग्निर्होतेति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निर् होता॑ ।  
+अग्नि᳓र् हो᳓ता ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>त्रिभुवनः</summary>
 
-देवानां आह्वातृत्वादग्नेर्होतृत्वम् । 
+The fire is the Hotṛ priest;
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्निर्होता॑ ।  
+अ॒ग्निर्होता॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+देवानां आह्वातृत्वादग्नेर्होतृत्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अश्वि᳓नाऽध्वर्यू᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Aśvins, the Adhvaryu priest;
+</details>
+
+<details><summary>मूलम्</summary>
 
 अ॒श्विना॑ऽध्व॒र्यू ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-कर्मठत्वात् अश्विनौ अध्वर्यू अध्वरस्य नेतारौ अध्वर्युः प्रतिप्रस्थाता च । 
-</details>
-
-<details><summary>मूलम्</summary>
-
-अ॒श्विना॑ऽध्व॒र्यू ।
+कर्मठत्वात् अश्विनौ अध्वर्यू अध्वरस्य नेतारौ अध्वर्युः प्रतिप्रस्थाता च ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वष्टा॒ऽग्नीत् ।  
+त्व᳓ष्टाऽग्नी᳓त् ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Tvaṣṭr, verily, the fire;
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्वष्टा॒ऽग्नीत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-त्वष्टा अग्नीत् आग्नीध्रः उत्तेजनहेतुत्वात्, अग्नीधश्च विहरणादिकृत्त्वात् । 
-</details>
-
-<details><summary>मूलम्</summary>
-
-त्वष्टा॒ऽग्नीत् ।  
+त्वष्टा अग्नीत् आग्नीध्रः उत्तेजनहेतुत्वात्, अग्नीधश्च विहरणादिकृत्त्वात् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्र उ॑पव॒क्ता ।  
+मित्र᳓ उपवक्ता᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Mitra, the impeller.
 </details>
 
 <details><summary>मूलम्</summary>
+
+मि॒त्र उ॑पव॒क्ता ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
 
 मित्र उपवक्ता ब्रह्मा, कर्मसाक्षित्वात् ॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-मि॒त्र उ॑पव॒क्ता ।  
-</details>
-
 ###### ग्रहेष्टका
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-2अथ ग्रहेष्टकाम् उपदधाति ॥ 
+अथ ग्रहेष्टकाम् उपदधाति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॒स् +++(वल्ली-रूपेण)+++ सोम॑स्य **पुरो॒-गाः** ।  
-शु॒क्रश् शु॒क्रस्य॑ **पुरो॒-गाः** ।  
-**श्रा॒तास्**+++(=पक्वाः)+++ त॑ इन्द्र॒ सोमाः॑ ।  
-वाता॑पेर्+++(←वात+आप्)+++ हवन॒-**श्रुत॒स्** +++(←श्रुत् ←श्रु [त इन्द्र])+++ स्वाहा॑ ।
+सो᳓मस् +++(वल्ली-रूपेण)+++ सो᳓मस्य **पुरो-गाः᳓** ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Soma is the first going one of the Soma-plant;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सोम॒स् सोम॑स्य पुरो॒गाः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शुक्र᳓श् शुक्र᳓स्य **पुरो-गाः᳓** ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the white Soma-juice is the first going one of the white (shining Mantras).
+</details>
+
+<details><summary>मूलम्</summary>
+
+शु॒क्रश्शु॒क्रस्य॑ पुरो॒गाः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**श्राता᳓स्**+++(=पक्वाः)+++ त इन्द्र सो᳓माः ।  
+वा᳓तापेर्+++(←वात+आप्)+++ हवन-**श्रु᳓तस्** +++(←श्रुत् ←श्रु [त इन्द्र])+++ स्वा᳓हा ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Indra, Soma-juices have been prepared for you, who are of the speed of the wind and the hearer of the invokings; hail! (1)
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रा॒तास्त॑ इन्द्र॒ सोमाः॑ ।  
+वाता॑पेर्हवन॒श्रुत॒स्स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -315,21 +369,10 @@ title = "१० सम्भाव्यानि प्रायश्चित
 **शुक्र** एव वा ।  
 ताभ्यामेव ते सोमाः **श्राताः** पक्वाः साधुसम्पादिताः हे इन्द्र !  
 **वातापेः** वात-तुल्य-गमनस्य **हवनश्रुतः** अह्वानस्य श्रोतुः, भक्तवत्सलस्येति यावत् । एवं भूतस्य तवेति । स्वाहेति गतम् । चातुर्मास्यादिषु विनियोगः ॥
-इत्यारण्यके तृतीये तृतीयोनुवाकः ॥  
-
 </details>
 
-<details><summary>मूलम्</summary>
+(3)
 
-सोम॒स् सोम॑स्य पुरो॒गाः ।  
-शु॒क्रश्शु॒क्रस्य॑ पुरो॒गाः ।  
-श्रा॒तास्त॑ इन्द्र॒ सोमाः॑ ।  
-वाता॑पेर्हवन॒श्रुत॒स्स्वाहा॑ ।
-</details>
-
-(3) 
-
-</details>
 </div>  
 
 > "वाचस्पतये ब्रह्मण इदं॰" +++(कथं त्यागः सङ्गच्छते??)+++॥ 
@@ -342,41 +385,57 @@ title = "१० सम्भाव्यानि प्रायश्चित
 मनस्वती, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
-<details open><summary><h5>मनो ज्योतिर् ...{Loading}...</h5></summary>
 
-मनो॒ ज्योति॑र् **जुषता॒म्**, आज्यव्ँ॒  
-विच्छि॑न्नय्ँ **य॒ज्ञँ सम्** इ॒मन् **द॑धातु** ।  
-**बृह॒स्पति॑स् तनुताम्** इ॒मन् नो॒,  
-विश्वे॑ दे॒वा इ॒ह **मा॑दयन्ताम्** ॥
-</details>
+म᳓नो ज्यो᳓तिर् **जुषताम्**, आ᳓ज्यव्ँ  
+वि᳓च्छिन्नय्ँ **यज्ञँ᳓ स᳓म्** इम᳓न् **दधातु** ।  
+**बृ᳓हस्प᳓तिस् तनुताम्** इम᳓न् नो,  
+वि᳓श्वे देवा᳓ इह᳓ **मादयन्ताम्** ॥
+
 </div>  
 
 मिन्दाहुती, 
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/07_yan_ma.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यन् म॑ आ॒त्मनो॑ मि॒न्दा+++(=हिंसा)+++ **ऽऽभू॑द्**,  
-अ॒ग्निस् तत् पुन॒र् **आहाः॑** +++(=आहर)+++।  
-जा॒तवे॑दा॒ विच॑र्षणिः+++(विचक्षणः)+++॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+य᳓न् म आत्म᳓नो मिन्दा᳓+++(=हिंसा)+++ **ऽऽभूद्**,  
+अग्नि᳓स् त᳓त् पु᳓नर् **आ᳓हाः** +++(=आहर)+++।  
+जात᳓वेदा वि᳓चर्षणिः+++(विचक्षणः)+++॥
+
 </details>
-</div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/08_punar_agnish.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-पुन॑र् अ॒ग्निश् चक्षु॑र् **अदा॒त्**  
-पुन॒र् इन्द्रो॒ बृह॒स्पतिः॑।  
-पुन॑र् मे अश्विना यु॒वं  
-चक्षु॑र्+++(=दर्शनशक्तिम्)+++ **आ धत्तम्** अ॒क्ष्योः ॥
+</div>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/08_punar_agnish.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+पु᳓नर् अग्नि᳓श् च᳓क्षुर् **अदात्**  
+पु᳓नर् इ᳓न्द्रो बृ᳓हस्प᳓तिः।  
+पु᳓नर् मे अश्विना युवं᳓  
+च᳓क्षुर्+++(=दर्शनशक्तिम्)+++ **आ᳓ धत्तम्** अक्ष्योः᳓ ॥
 
 +++(अग्नीन्द्राबृहस्पत्यश्विभ्य इदं न मम॥)+++
+
 </details>
+
 </div>
 
 महाव्याहृतीः, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/02_bhUr_agnaye_mahAvyAhRtayaH/">
-<details open><summary><h5>०२ भूर् अग्नये महाव्याहृतयः ...{Loading}...</h5></summary>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Mahāvyāhṛti-Mantras for Homa.
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+भूरग्नय इत्याद्यास्त्रयोऽनुवाका व्यष्टिसमष्टिरूपेण ब्रह्मण एव प्रतिपादका महाव्याहृतिनामानः ब्रह्मोपासनायां कर्मव्याप्त्यादिषु च विनियुक्ताः ।
+</details>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ होमार्थान् महाव्याहृतिसंज्ञकान्मन्त्रानाह।  
@@ -387,19 +446,34 @@ title = "१० सम्भाव्यानि प्रायश्चित
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूर् अ॒ग्नये॑ पृथि॒व्यै स्वाहा॑॥    
-(अग्नय इदं न मम)
+भू᳓र् अग्न᳓ये पृथिव्यै᳓ स्वा᳓हा॥    
++++((अग्नय इदं न मम))+++
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Bhuh! Hail for the fire and for the earth!
 </details>
 
 <details><summary>मूलम्</summary>
 
-भूर् अ॒ग्नये॑ पृथि॒व्यै स्वाहा॑॥    
+भूर् अ॒ग्नये॑ पृथि॒व्यै स्वाहा॑॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तत्र भूर्भुवस्सुवरिति व्याहृतयः सृष्ट्यर्थं तपस्तप्यमानेन प्रजापतिना व्याहृतत्वात् । यथा - 'स भूरिति व्याहरत् । स भूमिमसृजत' इत्यादि । आसां परिणामोऽग्न्यादयः पृथिव्यादयश्च एतदधीनस्थितिका वा । स्वाहाकारसम्बन्धेऽपि निपातत्वाच् चतुर्थ्यभावः । भूरित्येतां व्याहृतिम् एतत्सम्बन्धिनीं पृथिवीम् अग्निं चानया स्वाहाकृतयाऽऽहुत्या तर्पयामीति । एवं सर्वत्र । व्याहृतित्रयाधीनस्थितिकाश्चन्द्रमा दिशश्च । अथ एतल्लोकत्रयवासिभ्यो देवेभ्यो नमः । पितृभ्यस्स्वधाऽस्तु । अथ एवम्प्रभावव्याहृतित्रयाविभागावस्थं परं ब्रह्म अहमस्मीत्य् उपासनाविधित्वेन योज्यम् । व्याख्यातः प्रणवः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भुवो॑ वा॒यवे॒ ऽन्तरि॑क्षाय॒ स्वाहा॑॥  
-(वायव इदं न मम)
+भु᳓वो वाय᳓वे ऽन्त᳓रिक्षाय स्वा᳓हा॥  
++++((वायव इदं न मम))+++
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Bhuvah! Hail for the wind and for the mid-region!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -411,13 +485,18 @@ title = "१० सम्भाव्यानि प्रायश्चित
 
 भूर्भुवः सुवरोमिति त्रीणि पदान्यव्ययानि।  
 तानि च व्यस्तरूपेण समस्तरूपेण च मन्त्रचतुष्टयरूपतां प्रतिपद्याग्न्यादिदेवताप्रतिपादकानि।  
-तथा सत्ययमर्थः संपद्यते। भूरित्यनेन मन्त्रेण प्रतिपाद्यायाग्नये तन्मन्त्रप्रतिपाद्यायै पृथिव्यै च स्वाहा सुहुतमिदं द्रव्यमस्त्विति। एवमुत्तरेष्वपि त्रिषु मन्त्रेषु योज्यम्। 
+तथा सत्ययमर्थः संपद्यते। भूरित्यनेन मन्त्रेण प्रतिपाद्यायाग्नये तन्मन्त्रप्रतिपाद्यायै पृथिव्यै च स्वाहा सुहुतमिदं द्रव्यमस्त्विति। एवमुत्तरेष्वपि त्रिषु मन्त्रेषु योज्यम्।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुव॑र् आदि॒त्याय॑ दि॒वे स्वाहा॑॥  
+सु᳓वर् आदित्या᳓य दिवे᳓ स्वा᳓हा॥  
 (आदित्यायेदं न मम)
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Suvah! Hail for the sun and for the heaven!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -427,25 +506,35 @@ title = "१० सम्भाव्यानि प्रायश्चित
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूर् भुव॒स् सुव॑श् च॒न्द्रम॑से दि॒ग्भ्यस् स्वाहा॑॥    
-(चन्द्रमस इदं न मम)
+भू᳓र् भु᳓वस् सु᳓वश् चन्द्र᳓मसे दिग्भ्य᳓स् स्वा᳓हा॥    
++++((चन्द्रमस इदं न मम))+++
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Bhuh, Bhuvah, Suvah! for the quarters.
 </details>
 
 <details><summary>मूलम्</summary>
 
-भूर् भुव॒स् सुव॑श् च॒न्द्रम॑से दि॒ग्भ्यस् स्वाहा॑॥    
+भूर् भुव॒स् सुव॑श् च॒न्द्रम॑से दि॒ग्भ्यस् स्वाहा॑॥
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 चतुर्भिर्मन्त्रैर्यथाशक्ति हुत्वाऽन्ते प्राङ्मुखो नमो देवेभ्य इति मन्त्रेणोपतिष्ठेत।  
-पश्चाद् दक्षिणाभिमुखः स्वधा पितृभ्य इति मन्त्रेणोपतिष्ठेत। 
+पश्चाद् दक्षिणाभिमुखः स्वधा पितृभ्य इति मन्त्रेणोपतिष्ठेत।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ दे॒वेभ्य॑स्, स्व॒धा पि॒तृभ्यो॒,  
-भूर् भुव॒स् सुव॒रोम् । (12) - । 2 ।
+न᳓मो देवे᳓भ्यस्, स्वधा᳓ पितृ᳓भ्यो,  
+भू᳓र् भु᳓वस् सु᳓वरो᳓म् । (12) - । 2 ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Salutation for the gods! Hail for the moon and Svadha (Hail) for the fathers! Bhuh, Bhuvah, Suvah, Om!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -464,7 +553,7 @@ title = "१० सम्भाव्यानि प्रायश्चित
 त्तिरीयारण्यकभाष्ये दशमप्रपाठके नारायणीयापरनामधेययुक्तायां
 याज्ञिक्यामुपनिषदि द्वितीयोऽनुवाकः॥ २॥
 </details>
-</details>
+
 </div>  
 
 व्याहृतीश्च **हुत्वा** ।।  

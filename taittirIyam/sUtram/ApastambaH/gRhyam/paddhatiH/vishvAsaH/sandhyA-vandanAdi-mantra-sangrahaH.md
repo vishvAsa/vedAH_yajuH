@@ -1,202 +1,193 @@
 +++
 title = "सन्ध्या-वन्दनादि-मन्त्र-सङ्ग्रहः"
-
 +++
 ## दधिक्रावा
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/039/06_dadhikrAvNo_akAriShaM.md">
-<details open><summary><h5>०६ दधिक्राव्णो अकारिषं ...{Loading}...</h5></summary>
 
 +++(pegasus-प्रोष्ठपदासु)+++ दधि-क्रा᳓व्णो **अकारिषं**  
 जिष्णो᳓र् अ᳓श्वस्य वाजि᳓नः ।  
 **सुरभि᳓** नो मु᳓खा **करत्**  
 प्र᳓ ण **आ᳓यूँषि तारिषत्** ।
 
-</details>
 </div>
 
 ## आपः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
-<details open><summary><h2>०१ आपो हि ...{Loading}...</h2></summary>
 
 आ᳓पो हि᳓ ष्ठा᳓ मयो-भु᳓वस्  
 ता᳓ न ऊर्जे᳓+++(जाः)+++ दधातन ।  
 महे᳓ र᳓णाय+++(=रमणीयाय)+++ च᳓क्षसे+++(=दर्शनाय)+++ ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
-<details open><summary><h2>०२ यो वः ...{Loading}...</h2></summary>
 
 यो᳓ वः शिव᳓तमो र᳓सस्  
 त᳓स्य भाजयतेह᳓ नः ।  
 उशती᳓र्+++(=कामयमाना)+++ इव मात᳓रः ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
-<details open><summary><h2>०३ तस्मा अरं ...{Loading}...</h2></summary>
 
 +++(रसाय)+++ त᳓स्मा अ᳓रं+++(=शीघ्रम्)+++ **गमाम** वो  
-यस्य +++(प्रभावेण)+++ **क्ष᳓याय**+++(=निवासाय)+++ **जि᳓न्वथ**+++(=प्रीणयथ)+++ ।  
+य᳓स्य +++(प्रभावेण)+++ **क्ष᳓याय**+++(=निवासाय)+++ **जि᳓न्वथ**+++(=प्रीणयथ)+++ ।  
 आ᳓पो +++(प्रजा)+++ **जन᳓यथा** च नः ॥  
 +++(`चादिषु` च इति न स्वर-निघातः। )+++
 
-</details>
 </div>
 
 ## मित्रः
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
-<details open><summary><h4>04 मित्रस्य चर्षणीधृतः ...{Loading}...</h4></summary>
 
-मि॒त्रस्य॑ चर्षणी॒+++(मनुष्य)+++-**धृतः॒**  
-श्रवो॑+++(=श्रव्यो, शाकले अवो)+++ दे॒वस्य॑ **सान॒सिम्**+++(←सन् दाने)+++ ।  
-**स॒त्यं** चि॒त्र-श्र॑वस्तमम् ॥
-</details>
+मित्र᳓स्य चर्षणी+++(मनुष्य)+++-**धृ᳓तः**  
+श्र᳓वो+++(=श्रव्यो, शाकले अवो)+++ देव᳓स्य **सानसि᳓म्**+++(←सन् दाने)+++ ।  
+**सत्यं᳓** चित्र᳓-श्रवस्तमम् ॥
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/mitro_janAn.md">
-<details open><summary><h5>मित्रो जनान् ...{Loading}...</h5></summary>
 
-मि॒त्रो जना॑न् **यातयति** प्रजा॒नन्,  
-मि॒त्रो **दा॑धार** पृथि॒वीम् उ॒त द्याम् ।  
-मि॒त्रᳵ कृ॒ष्टीर्+++(=मानुषान्)+++ अनि॑मिषा॒ **ऽभि च॑ष्टे**+++(=वीक्षते)+++,  
-स॒त्याय॑ ह॒व्यं घृ॒तव॑द् **विधेम**+++(←विध्)+++॥
-</details>
+मित्रो᳓ ज᳓नान् **यातयति** प्रजान᳓न्,  
+मित्रो᳓ **दाधार** पृथिवी᳓म् उत᳓ द्या᳓म् ।  
+मित्रᳵ᳓ कृष्टी᳓र्+++(=मानुषान्)+++ अ᳓निमिषा **ऽभि᳓ चष्टे**+++(=वीक्षते)+++,  
+सत्या᳓य हव्यं᳓ घृत᳓वद् **विधेम**+++(←विध्)+++॥
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/059/02_pra_sa.md">
-<details open><summary><h5>०२ प्र स ...{Loading}...</h5></summary>
 
 प्र᳓ स᳓ मित्र म᳓र्तो **अस्तु प्र᳓-यस्+++(=यत्ने)+++-वान्**,  
 य᳓स् त आदित्य **शि᳓क्षति** व्रते᳓न।  
-न᳓ हन्यते न᳓ जीयते +++(यस्)+++ त्वो᳓तो+++(=त्वद्रक्षितः)+++ - नै᳓नम्  
+न᳓ हन्यते न᳓ जीयते +++(यस्)+++ त्वो᳓तो+++(=त्वद्रक्षितः, →तृतीया कर्मणीति स्वरः)+++ - नै᳓नम्  
 अँ᳓हो अश्नोत्य᳓न्तितो न᳓ दूरा᳓त् ॥
 
-</details>
 </div>
 
 ## वरुणः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-<details open><summary><h2>१९ इमं मे ...{Loading}...</h2></summary>
 
-इमं᳓ मे वरुण श्रुधी +++(=श्रुणु)+++  
-ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च मृळय +++(=सुखय)+++।  
-त्वा᳓म् अवस्यु᳓र् आ᳓ चके +++(=अवदन्)+++॥  
+इमं᳓ मे वरुण **श्रुधी** +++(=श्रुणु)+++  
+ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च **मृळय** +++(=सुखय)+++।  
+त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥  
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
-<details open><summary><h2>११ तत्त्वा यामि ...{Loading}...</h2></summary>
 
 त᳓त् त्वा **यामि** ब्र᳓ह्मणा **व᳓न्दमानस्**  
 त᳓द् **आ᳓ शास्ते** य᳓जमानो हवि᳓र्भिः ।  
 अ᳓हेळमानो +++(=अक्रुध्यन्)+++ वरुणेह᳓ **बोध्य्** उ᳓रुशंस  
 मा᳓ न आ᳓युः **प्र᳓ मोषीः** ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/01_yachchiddhi_te.md">
-<details open><summary><h2>०१ यच्चिद्धि ते ...{Loading}...</h2></summary>
 
 य᳓च् चिद्+धि᳓ ते वि᳓शो यथा+++(=विश इव)+++,  
 प्र᳓ देव वरुण व्रत᳓म् ।  
 मिनीम᳓सि+++(=तर्कयामः)+++ द्य᳓वि-द्यवि+++(=दिने दिने)+++ ।
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/089/05_yatkiM_chedaM.md">
-<details open><summary><h2>०५ यत्किं चेदं ...{Loading}...</h2></summary>
 
 य᳓त् किं᳓ चेदं᳓ वरुण दै᳓व्ये+++(←देव+यञ्)+++ ज᳓ने+++(देवेषु)+++,  
 ऽभिद्रोहं᳓ मनुष्या᳙श् च᳓रामसि।   
 अ᳓चित्ती य᳓त् त᳓व ध᳓र्मा युयोपिम᳓+++(विनाशयामः)+++,  
 मा᳓ नस् त᳓स्माद् ए᳓नसो देव रीरिषः ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/085/08_kitavAso_yadriripurna.md">
-<details open><summary><h2>०८ कितवासो यद्रिरिपुर्न ...{Loading}...</h2></summary>
 
 +++(ऋत्विजः)+++ कितवा᳓सो य᳓द् रिरिपु᳓र्+++(=लिलिपुः)+++ न᳓ दीवि᳓+++(देवकर्मणि)+++,  
 य᳓द् वा ऽघा सत्य᳓म् उत᳓ य᳓न् न᳓ विद्म᳓ ।  
 स᳓र्वा ता᳓ वि᳓ष्य+++(=विनाशय)+++ शिथिरे᳓व+++(=शिथिला +इव)+++  
 देवा᳓था ते स्याम वरुण प्रिया᳓सः ॥
 
-</details>
 </div>
 
 ## सूर्यः
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md">
-<details open><summary><h5>आ सत्येन रजसा ...{Loading}...</h5></summary>
 
-आ स॒त्येन॒ रज॑सा॒ **वर्त॑मानो**  
-**निवे॒शय॑न्न्** अ॒मृतं॒ मर्त्यं॑ च ।  
-हि॒र॒ण्यये॑न सवि॒ता रथे॒न॒+  
-+आऽऽदे॒वो **या॑ति॒** भुव॑ना **वि॒पश्य॑न्** ॥
+आ᳓ सत्ये᳓न र᳓जसा **व᳓र्तमानो**  
+**निवेश᳓यन्न्** अमृ᳓तं म᳓र्त्यं च ।  
+हिरण्य᳓येन सविता᳓ र᳓थेन+  
++आ᳓ऽऽदेवो᳓ **याति** भु᳓वना **विप᳓श्यन्** ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/10_udvayaM_tamasaspari.md">
-<details open><summary><h5>१० उद्वयं तमसस्परि ...{Loading}...</h5></summary>
 
 उ᳓द् वयं᳓ त᳓मसस् प᳓रि  
 ज्यो᳓तिष् **प᳓श्यन्त** उ᳓त्तरम् ।  
 देवं᳓ देवत्रा᳓ सू᳓र्यम्  
 **अ᳓गन्म** ज्यो᳓तिर् उत्तम᳓म् +++(←"उत्तमशश्वत्तमौ सर्वत्र" इत्य् अन्तोदात्तः)+++ ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
-<details open><summary><h5>०१ उदु त्यं ...{Loading}...</h5></summary>
 
 उ᳓दु त्यं᳓ **जात᳓वेदसं**  
 देवं᳓ **वहन्ति केत᳓वः**+++(→रश्मयः)+++ ।  
 दृशे᳓ वि᳓श्वाय सू᳓र्यम् ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
-<details open><summary><h5>०१ चित्रं देवानामुदगादनीकं ...{Loading}...</h5></summary>
 
 चित्रं᳓ देवा᳓नाम् **उ᳓दगाद्** अ᳓नीकं  
 च᳓क्षुर् मित्र᳓स्य व᳓रुणस्याग्नेः᳓ ।  
 **आ᳓-प्रा**+++(←पूरणे)+++ द्या᳓वा-पृथिवी᳓ अन्त᳓रिक्षं  
 **सू᳓र्य** आत्मा᳓ ज᳓गतस् तस्थु᳓षश् च ॥
 
-</details>
 </div>
+
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md">
-<details open><summary><h2>१२ तच्चक्षुर्देवहितम् पुरस्ताच्छुक्रमुच्चरत् ...{Loading}...</h2></summary>
 
-+++(सूर्यस्)+++ तच् चक्षु॑र् दे॒व+++(नि)+++हि॑तं पु॒रस्ता॑च् छु॒क्र+++(द्ध)+++म् उ॒च्चर॑त् -  
-पश्ये॑म श॒रद॑श् श॒तं  
-जीवे॑म श॒रद॑श् श॒तं  
-नन्दा॑म श॒रद॑श् श॒तं  
-मोदा॑म श॒रद॑श् श॒तं  
-भवा॑म श॒रद॑श् श॒तँ  
-शृ॒णवा॑म श॒रद॑श् श॒तं  
-प्रब्र॑वाम श॒रद॑श् श॒तम्  
-अजी॑ताः स्याम श॒रद॑श् श॒तं  
-ज्योक्+++(=दीर्घकालं)+++ च॒ सूर्य॑न् दृ॒शे ।  
++++(सूर्यस्)+++ त᳓च् च᳓क्षुर् देव᳓+++(नि)+++हितं पुर᳓स्ताच् छुक्र᳓+++(द्ध)+++म् उच्च᳓रत् -  
+प᳓श्येम शर᳓दश् शतं᳓  
+जी᳓वेम शर᳓दश् शतं᳓  
+न᳓न्दाम शर᳓दश् शतं᳓  
+मो᳓दाम शर᳓दश् शतं᳓  
+भ᳓वाम शर᳓दश् शतँ᳓  
+शृण᳓वाम शर᳓दश् शतं᳓  
+प्र᳓ब्रवाम शर᳓दश् शत᳓म्  
+अ᳓जीताः स्याम शर᳓दश् शतं᳓  
+ज्यो᳓क्+++(=दीर्घकालं)+++ च सू᳓र्यन् दृशे᳓ ।  
 
-</details>
 </div>
 
 ## गायत्री
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA">
-<details open><summary><h5>२६ आयातु वरदा ...{Loading}...</h5></summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+आयात्विति गायत्र्यावाहने अनुष्टुप् यजुरन्ता ॥
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
 +++(आरण्यक-स्वर-विकारम् उपेक्षते विश्वासः।)+++
 
-आया॑तु॒ वर॑दा दे॒वी॒  
-अ॒क्षरं॑ ब्रह्म॒संमि॑तम् ।  
-गा॒य॒त्री॑ञ् छन्द॑सां  
-मा॒तेदं ब्र॑ह्म जु॒षस्व॑ नः ।
+आ᳓यातु व᳓रदा देवी  
+अक्ष᳓रं ब्रह्मसं᳓मितम् ।  
+गायत्री᳙ञ् छ᳓न्दसां  
+माते᳓दं᳓ ब्रह्म जुष᳓स्व नः ।
+
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
-<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<details><summary>त्रिभुवनः</summary>
+
+May Gayatri, the boon-giving goddess, the mother of the metres come to me, the immortal one like Brahman; may that speak then Brahman (sacred knowledge) to us;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आया॑तु॒ वर॑दा दे॒वी॒  
@@ -204,18 +195,22 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 गा॒य॒त्री॑ञ् छन्द॑सां  
 मा॒तेदं ब्र॑ह्म जु॒षस्व॑ नः ।
 </details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+आयात्व् आगच्छतु वरदा वरणीयानामर्थानां दात्री देवी द्योतनवती छन्दोऽभिमानिनी देवता । इदानीं प्रत्यक्षवदाह - हे देवि ! आगत्य छन्दसामुष्णिगादीनां माता योनिभूता त्वम् इदं नो ऽस्मदीयं ब्रह्म अक्षरं क्षतिरहितं ब्रह्मसम्मितं ब्रह्मसङ्काशं गायत्रीं गायत्रीछन्दस्कं जुषस्व सेवस्व । कस्मादेवमुच्यत इति चेत् -
+</details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
-ओजो॑ऽसि।  
-सहो॑ऽसि।  
-बल॑मसि।  
-भ्राजो॑ऽसि।  
-दे॒वाना॒न् धाम॒ नामा॑सि॒।  
-विश्व॑म् असि वि॒श्वायु॒स्,  
-सर्व॑म् असि स॒र्वायुः॑।  
-अ॒भि॒भूर् [ओङ् गायत्रीम् आवा॑हयामि । (41)]
+ओ᳓जोऽसि।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+you are the brightness,
 </details>
 
 <details><summary>विश्वास-टिप्पनी - यजुः</summary>
@@ -224,53 +219,175 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 
 - प्रातः - बाला रक्ता हंसवाहना जपमालाहस्ता ब्राह्मीरूपा, 
 - मधाह्ने - युवती सावित्री वृषवाहना शूलहस्ता रोद्ररूपिणी, 
-- सायम् - वृद्धा सरस्वती गरुडवाहना चक्रहस्ता वैष्णवरूपा। 
+- सायम् - वृद्धा सरस्वती गरुडवाहना चक्रहस्ता वैष्णवरूपा।
 </details>
 
 <details><summary>मूलम्</summary>
 
-ओजो॑ऽसि।  
-सहो॑ऽसि।  
-बल॑मसि।  
-भ्राजो॑ऽसि।  
-दे॒वाना॒न् धाम॒ नामा॑सि॒।  
+ओजो॑ऽसि।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ओजः देहशोभा असि सहो ऽभिभवनशक्तिर् असि बलं सामर्थ्यम् असि भ्राजः दीप्तिर् असि देवानां धाम स्थानम् असि । कीदृशं नाम नमनं वशीकरणम् । किं बहुना विश्वं जगद् असि विश्वायुर् विश्वमायुर्जीवितमन्नं वा यस्यां तादृश्य् असि सर्वं सर्वप्रकारं श्रेयस्त्वम् असि । प्रकारकार्त्स्न्ये सर्वशब्दः । सर्वायुः सर्वप्रकारस्यायुषो हेतुर् अभिभूर् अभिभवित्री शत्रूणामसि । ओं व्याप्तिमतीं ब्रह्मात्मिकां तादृशीं गायत्रीमावाहयामि मम समीपं प्रापयामि ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+स᳓होऽसि।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+you are the tolerable one,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सहो॑ऽसि।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+ब᳓लमसि।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+you are the power,
+</details>
+
+<details><summary>मूलम्</summary>
+
+बल॑मसि।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+भ्रा᳓जोऽसि।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+you are the shining,
+</details>
+
+<details><summary>मूलम्</summary>
+
+भ्राजो॑ऽसि।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+देवा᳓नान् धा᳓म ना᳓मासि।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+you are the nature of the places of the gods,
+</details>
+
+<details><summary>मूलम्</summary>
+
+दे॒वाना॒न् धाम॒ नामा॑सि॒।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+वि᳓श्वम् असि विश्वा᳓युस्,  
+स᳓र्वम् असि सर्वा᳓युः।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+you are all, you are all, all life,
+</details>
+
+<details><summary>मूलम्</summary>
+
 विश्व॑म् असि वि॒श्वायु॒स्,  
-सर्व॑म् असि स॒र्वायुः॑।  
+सर्व॑म् असि स॒र्वायुः॑।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+अभिभूर् [ओङ् गायत्रीम् आवाहयामि । (41)]
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+winner, Om, I invoke Gayatri.
+</details>
+
+<details><summary>मूलम्</summary>
+
 अ॒भि॒भूर् [ओङ् गायत्रीम् आवा॑हया॒मि । (41)]
 </details>
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/30_uttame_shikhare.md">
-<details open><summary><h2>३० उत्तमे शिखरे ...{Loading}...</h2></summary>
 
-+++(आरण्यक-स्वर-विकारम् उपेक्षते विश्वासः।)+++
+उत्त᳓मे शि᳓खरे देवी  
+भूम्यां᳓ पर्वतमू᳓र्धनि ।  
+ब्राह्मणे᳙भ्यो᳓ ह्य् अनुज्ञानङ्  
+गच्छ᳓ देवि यथा᳓सुखम् । (45)
 
-उ॒त्तमे॑ शिख॑रे दे॒वी॒  
-भू॒म्यां प॑र्वत॒मूर्ध॑नि ।  
-ब्रा॒ह्म॒णे॑भ्यो ह्य॑नुज्ञा॒न॒ङ्  
-ग॒च्छ दे॑वि य॒थासु॑खम् । (45)
-</details>
 </div>
 
 ## सविता
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/27_sashiro_gAyatrI">
-<details open><summary><h5>२७ सशिरो गायत्री ...{Loading}...</h5></summary>
 
-**शिरः**
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+प्रणवव्याहृतिशिरोभिः सहिता सावित्री प्राणायामार्था ।
+ओं भूरित्यादि ॥ अस्यास्त्रिरावर्तनकालं प्राणापानवृत्तिनिरोधः प्राणायामः । यथोक्तम् -  
+ओङ्कारपूर्विकाभिस्तु लोकव्याहृतिभिस्सह ।  
+सावित्री शिरसा सार्धं प्राणायामः प्रकीर्तितः ॥  
+इति । एवं त्रीन् षोडश वा धारयेत् ।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं भूः । ओं भुवः॑ । ओँ सुवः॑ । ओं महः॑ । ओञ् जनः॑ । ओं तपः॑ । ओँ स॒त्यम् ।
+ओं᳓ भूः᳓ । ओं᳓ भु᳓वः । ओँ᳓ सु᳓वः । ओं᳓ म᳓हः । ओ᳓ञ् ज᳓नः । ओं᳓ त᳓पः । ओँ᳓ सत्य᳓म् ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Om Bhuh, Om Bhuvah, Om Suvah, Om Mahah, Om Janah, Om austerity, Om truth; Om
 </details>
 
 <details><summary>मूलम्</summary>
 
 ओं भूः । ओं भुवः॑ । ओँ सुवः॑ । ओं महः॑ । ओञ्जनः॑ । ओं तपः॑ । ओँ स॒त्यम् ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ भूरादयो व्याहृतयः सप्त लोकात्मिकाः । आसामात्मनः प्रत्येकं पर्यायवाचकत्वख्यापनाय प्रत्येकं मन्त्रत्वाञ्च प्रधानवाचकेन प्रणवेन प्रत्येकमभिसम्बन्धः । तासामाद्यास्तिस्रो महाव्याहृतयः कर्मभ्रेषादौ प्रत्येकं विनियोगात् । आदौ जगात्सृसृक्षुः प्रजापतिः प्रजानां स्थित्याद्यर्थं सत्यमभिसन्धाय सप्तकृत्वो व्याहरत् । ता व्याहृतयो भूराद्याः सप्तलोका अभवन् । सप्त बलाधारपटलभूताः सप्तलोकभावेन व्यवस्थिता इति स्मृतिः । गायत्र्युष्णिगनुष्टुप् बृहती पङ्तिस् त्रिष्टुप् जगतीति सप्त छन्दांसि । अग्निवाय्वर्कबृहस्पतिवरुणेन्द्रविश्वदेवा देवताः । व्याहर्ता प्रजापतिर् ऋषिः । भुवरादयः पञ्चान्ते स्वरिताः । भवन्त्यस्यां सर्वाणि भूतानीति भूः । कर्मफलोपभेगपरिग्रहेण भवन्त्यस्मिन्निति भुवः । यद्वा - शीतोष्णवृष्ट्युदकतेजांस्य् अमुष्माद् भवन्तीति भुवः । अङि छान्दसो वर्णविकारः । तित्स्वरे अन्तस्वरितत्वम् । सुष्ठु व्याप्यते सुकृतिभिरिति सुवः । सुपूर्वादर्तेर्विचि तन्वादित्वादुवङ्, 'न्यङ्स्वरौ स्वरितौ' इत्यन्त्यस्वरितत्वम् । एते त्रयो लोका उत्तरोत्तरमणीयांसः । पञ्चमादयस्त्रय उत्तरोत्तरमल्पी[रं मही?] यांसः। चतुर्थस्त्व् अधरोत्तरेभ्यो महत्तमः । अत एव महरित्य् उच्यते । महतेरसुन् । महतो वाऽन्त्यविकारोऽन्तस्वरितत्वं च । कल्पान्ते महाभूतसम्प्लवे प्रलीना जन्तवस् तत्र प्रथमं जायन्त इति जनः । सनत्कुमारादयो योगीन्द्रास् तस्मिन् तपस्तप्यन्त इति तपः । तपोमयो वा आमहाभूतसम्प्लवाद् अविपर्यस्तस्वभाव इति । सत्यव्रतानां स्थानं सत्यम् । एवमेताः सप्त व्याहृतयः सप्रणवाः प्राणायामे प्रयोक्तव्याः। यथाऽऽहुः -  
+प्रणवे नित्ययुक्तस्य व्याहृतीषु च सप्तसु ।  
+त्रिपदायां तु गायत्र्यां न भयं विद्यते क्वचित् । इति ॥
+</details>
+
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<details open><summary><h8>विश्वास-प्रस्तुतिः …{Loading}…</h8></summary>
+
+त᳓त् सवितु᳓र् व᳓रेण्य+++(णिय)+++म्  
+भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
+धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥  
+
+</details>
 </div>
+
+<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<details><summary><h8>मूलम् …{Loading}…</h8></summary>
+
+तत्स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि ।  
+धियो॒ यो नः॑ प्रचो॒दया॑त् ॥
+</details>
+</div>
+
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/10_tatsaviturvareNyaM_bhargo.md">
-<details open><summary><h8>010 ...{Loading}...</h8></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -283,6 +400,12 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 त᳓त् सवितु᳓र् व᳓रेणियम्  
 भ᳓र्गो देव᳓स्य धीमहि  
 धि᳓यो यो᳓ नः प्रचोद᳓यात्
+</details>
+
+<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+तत्स॑वि॒तुर्वरे॑ण्य॒म्भर्गो॑ दे॒वस्य॑ धीमहि ।  
+धियो॒ यो नᳶ॑ प्रचो॒दया॑त् ।
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -414,6 +537,11 @@ _________
 सावित्र्यनूच्यते॥
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। नः- अस्माकम्। धियः- बुद्धीः। प्रचोदयात्- प्रेरयेत्। देवस्य- तस्य द्योतनशीलस्य।  सवितुः- प्रेरकस्य सूर्यस्यात्मनः। वरेण्यम्- सम्भजनीयम्। तत्। भर्गः- चैतन्यच्छविम्। धीमहि-  ध्यायामः॥१०॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** सविता देवः **नः** अस्माकं **धियः** कर्माणि धर्मादिविषया वा बुद्धीः **प्रचोदयात्** प्रेरयेत्  
@@ -432,6 +560,10 @@ _________
 यद्वा - ‘धीङ् आधारे' । लिङि  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् ।  
 
 **प्रचोदयात्** । चोदयतेर् लेट्याडागमः । यद्-वृत्त-योगाद् अनिघातः । आगमस्यानुदात्तत्वे णिचः स्वरः ॥ ॥ १० ॥
+
+_____________
+
+यः सवितास्माकं बुद्धीः प्रेरयति तस्य सवितुर्देवस्य वरणीयं भर्गस्तेजो ध्यायेम।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -769,6 +901,20 @@ _________
 May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.  
 </details>
 
+<details><summary>विश्वास-टिप्पनी - प्रचोदयात्-स्वरः</summary>
+
+प्र + चुद् + णिच् उदात्तः + शप् अनुदात्तः पित्त्वात् + [लेट् → आट् + तिप् अनुदात्तः पित्त्वात्]।
+
+प्रानुदात्तत्वं तिङन्तस्योदात्तवत्त्वात्। तच्च यत्कारसद्भावात्।
+</details>
+
+<details><summary>विश्वास-टिप्पनी - परोरजसे</summary>
+
+> परोरजसे ऽसाव् अदो मा प्रापद्   
+
+इति बृहदारण्यकोपनिषदा सूचितं तुरीयम् पादम् प्रयुञ्जते केचित्, "परो᳓-रजसे ऽसा᳓वदो᳓३म् ॥" इति विकारेण।  
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -798,7 +944,7 @@ And here, buried in this not particularly noteworthy hymn, is the Gāyatrī mant
 Note the play on dhīmahi / dhíyaḥ juxtaposed across the hemistich boundary, belonging to different roots.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/10-12.md">
-<details open><summary><h10>10-12 ...{Loading}...</h10></summary>
+<details open><summary><h10>10-12 …{Loading}…</h10></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
 All three vss. in this tṛca contain déva- (…) savitár- (or vice versa).
@@ -818,6 +964,11 @@ May we attain that excellent glory of Savitar the God:
 That excellent glory of Savitr  
 The god we meditate,  
 That be may stimulate our prayers.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may we meditate that ray worth choosing of the impelling god (Savitr); which may impell my wisdom,
 </details>
 
 <details><summary>Geldner</summary>
@@ -993,21 +1144,45 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 भावार्थभाषाः -  जी माणसे सर्वांचा साक्षी, पित्याप्रमाणे असणारा, न्यायी, दयाळू, शुद्ध सनातन, सर्वांच्या आत्म्याचा साक्षी अशा परमेश्वराची स्तुती, प्रार्थना व उपासना करतात त्यांना कृपासागर, सर्वात श्रेष्ठ परमेश्वर, दुष्ट आचरणापासून पृथक करून श्रेष्ठ आचरणामध्ये प्रवृत्त करतो. पवित्र व पुरुषार्थयुक्त करून धर्म, अर्थ, काम, मोक्ष प्राप्त करवितो. ॥ १० ॥
 </details>
-</details>
 </div>
- 
-**पुच्छम्**
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तत्सवितुरिति सावित्री त्रिपदा निचृद्गायत्रीछन्दस्का अक्षरोनत्वादस्याः ! विश्वामित्रस्यार्षेयम् । सविता देवता । अस्यास्तु प्रणवव्याहृतिसहिताया उपनयनादिषु च विनियोग उक्तः ! प्रणवः स्वयम्भुवो ब्रह्मण आर्षेयम् । देवी गायत्री छन्दः 'देवानामेकं' इति वचनान् । परमात्मा वाच्या देवता । तात्पर्यप्रतिपाद्यं परब्रह्माधिदैवतम् । अनेन वाचकनोत्थापितसंस्कारः परमात्मा साधकाभिमुखो भूत्वा प्रणवाग्रस्थं परं ब्रह्म दर्शयति । यथोक्तम् -  
+तैलधारामिवाच्छिन्नं दीर्घं घण्टानिनादवत् ॥  
+अवाप्तं प्रणवस्याग्रं यस्तु वेद स वेदवित् ॥  
+इति ॥ सा अन्या अर्धमात्रा दर्पणवत् परम्ब्रह्म दर्शयति । इदमेवोक्तम् - 'तस्य प्रकृतिलीनस्य यः परस्स महेश्वरः' इति । तस्य चानादिर्वाच्यवाचकभावो गुरुभिरुद्दीपित उपासकानाम् अपरोक्षावबोधगोचरो भवति । न तस्य लोके उज्ज्वलति । पिता पुत्रादीनां हि स्थित एव सम्बन्धो लौकिकैः ख्याप्यते - 'अयं पिता अयं पुत्रः' इति । अयं च कर्मार्थतया प्रयुज्यमानस्त्रिमात्रो भवति । ध्यानकाले वागोपासने विनियुज्यमानो ऽर्धमात्रातिरेकेण ध्वनति । तिसृभिर् मात्राभिः सर्वमिदं वाङ्मयं व्याप्तम् । आदिभूतस्सर्वः पदार्थोऽकारः, मध्यभूतस्सर्व उकारः, अन्त्यभूतस्सर्वो मकारः। व्यञ्जनस्यापि मात्रिकत्वमिष्यते । एवमनेन ओङ्कारात्मना सर्वभावसञ्चारिणा त्रयो लोकास्तिस्त्रोऽग्निवाय्वादित्यास् तद्देवतास्त्रयो देवा ब्रह्मविष्णुरुद्रास् त्रीणि तत्कार्याणि सृष्ट्यादीनि त्रयो वेदास् त्रयोऽग्नयस् त्रीणि सवनानि तिस्रोऽवस्था जाग्रत्स्वप्नसुषुप्तयस् त्रयस्स्वभावा आध्यात्मिकाधिभौतिकाधिदैविकाः सूक्ष्मव्यवहितविप्रकृष्टाविप्रकृष्टा व्याप्ताः । 'तद्यथा सर्वाणि पर्णानि शङ्कुना सन्तृण्णान्येवमोङ्कारेण सर्वा वाक् सन्तृण्णा' इति श्रुतिः । तथा 'ओमितीदं सर्वम्' इति । एतेन ओङ्कारेण बोधितः परमात्मा प्रत्यगात्मनः प्रसीदति । ततोऽयमाविर्भूतपरमात्मज्योतीरूपसम्पत्त्या सत्यकामस्सत्यसङ्कल्पः परां देवतामधिगच्छति ॥
+
+अथ प्रणवादिका सावित्री - ओन्तत्सवितुरित्यादिका । अस्या उपकरणानि प्रणवव्याहृतिशिरांसि । इयं तु प्रधानभूता । यथाऽऽहुः -  
+सव्याहृतिं सप्रणवां गायत्रीं शिरसा सह ॥  
+इति । व्याख्याता चेयं 'सं पश्यामि' इत्यत्र ॥
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथ ओमाप इत्यादि शिरः ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओम् आपो॒ ज्योती॒ रसो॒  
-ऽमृतं॒ ब्रह्म॒ +++(=मन्त्राः)+++  
-भूर् भुव॒स् सुव॒र् ओम् । (42)
+ओ᳓म् आ᳓पो ज्यो᳓ती र᳓सो  
+ऽमृ᳓तं ब्र᳓ह्म +++(=मन्त्राः)+++  
+भू᳓र् भु᳓वस् सु᳓वर् ओ᳓म् । (42)
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Om, the waters, the light, the elixir, the nectar, Brahman, Bhuh, Bhuvah, Suvah, Om!
 </details>
 
 <details><summary>मूलम्</summary>
 
 ओमापो॒ ज्योती॒रसो॒ ऽमृतं॒  ब्रह्म॒ भूर्भुव॒स्सुव॒रोम् । (42)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+शिर इव शिर उपरि स्थितत्वात् । एतत्प्रजापतेः परमेष्ठिन आर्षेयम् । धातुरनुष्टुबेषा षोडशाक्षरत्वात् । ब्रह्माग्निवायुसूर्य देवताकम् । इदं च व्याख्यातं 'घृणिस्सूर्यः' इत्यत्र । एवं प्रणवव्याहृतिशिरोवाच्यव्यापारतादर्थ्यं महिमातिशयं सावित्रीप्रतिपादकस्य सवितुर् देवस्य प्रपञ्चातीतस्य प्रेकरस्य स्वामिनः स्वभूतं विश्वं प्रपञ्चात्मकमादित्याख्यं वरेण्यं तेजो वयमुपास्महे इति विवक्षितम् ॥
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -1018,7 +1193,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 - कुम्भके गायत्रीमन्त्रः।
 - रेचके / ‌निःस्वासे पुच्छम्।
 </details>
-</details>
+
 </div>
 
 ## दिशः
@@ -1030,56 +1205,52 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 ## परिधानीयम्
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/02_svAdhyAya-brAhmaNAdi/namo_brahmaNe.md">
-<details open><summary><h3>नमो ब्रह्मणे ...{Loading}...</h3></summary>
 
 (ॐ)  
-नमो॒ ब्रह्म॑णे॒+++(=वेदाय)+++, नमो॑ अस्त्व॒ग्नये॒  
-नमः॑ पृथि॒व्यै, नम॒ ओष॑धीभ्यः ।  
-नमो॑ वा॒चे, नमो॑ वा॒चस्पत॑ये॒,  
-नमो॒ विष्ण॑वे बृह॒ते क॑रोमि ॥  
-+++(शतुरनुमो नद्यजादी ⇒ बृहन्महतोरुपसंख्यानम्। (वा॰) इति॑ बृहच्छ॒ब्दाद् अ॒नुमोऽजा॑दि॒र् विभ॑क्ति॒र् अस॑र्वनामस्थानम् उ॒दात्ता॑ भवति।)+++
+न᳓मो ब्र᳓ह्मणे+++(=वेदाय)+++, न᳓मो अस्त्वग्न᳓ये  
+न᳓मः पृथिव्यै᳓, न᳓म ओ᳓षधीभ्यः ।  
+न᳓मो वाचे᳓, न᳓मो वाच᳓स्प᳓तये,  
+न᳓मो वि᳓ष्णवे बृहते᳓ करोमि ॥  
++++(श᳓तु᳓र᳓नु᳓मो᳓ न᳓द्य᳓जा᳓दी᳓ ⇒ बृ᳓ह᳓न्म᳓ह᳓तो᳓रु᳓प᳓सं᳓ख्या᳓न᳓म्। (वा᳓॰) इ᳓ति बृहच्छब्दा᳓द् अनु᳓मो᳓ऽजादिर् वि᳓भक्तिर् अ᳓सर्वनामस्थानम् उदा᳓त्ता भवति।)+++
 
-ॐ शान्तिः॒ शान्तिः॒ शान्तिः॒ ॥
-</details>
+ॐ शा᳓न्तिः शा᳓न्तिः शा᳓न्तिः ॥
+
 </div>
 
 ## स्नानम् - ऋतं च सत्यं च
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190_RtaM_cha_satyaM_cha/">
-<details open><summary><h2>१९० ऋतं च सत्यं च ...{Loading}...</h2></summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 जले निमज्जने विनियोग आपस्तम्बगृह्यसूत्र उक्तः।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/01_RtaM_cha.md">
-<details open><summary><h5>०१ ऋतं च ...{Loading}...</h5></summary>
 
 ऋतं᳓ च सत्यं᳓ चाभी᳙द्धात्  
 त᳓पसो᳓ ऽध्यजायत ।  
 त᳓तो रा᳓त्रिर् +++(रात्र्य् इति शाकले)+++ अजायत  
 त᳓तः समुद्रो᳓ अर्णवः᳓+++(←अर्णः = जलम्)+++ ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
-<details open><summary><h5>०२ समुद्रादर्णवादधि संवत्सरो ...{Loading}...</h5></summary>
 
 समुद्रा᳓द् अर्णवा᳓द्+++(←अर्णः = जलम्)+++ अ᳓धि  
 संवत्सरो᳓ अजायत ।  
 अहो-रात्रा᳓णि विद᳓धद्  
 वि᳓श्वस्य +++(नेत्राभ्यां)+++ मिषतो᳓ +++(प्राणिजातस्य)+++ वशी᳓ +++(प्रजापतिर् demiurge)+++॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/03_sUryAchandramasau_dhAtA.md">
-<details open><summary><h5>०३ सूर्याचन्द्रमसौ धाता ...{Loading}...</h5></summary>
 
 सूर्या-चन्द्रम᳓सौ धाता᳓  
 यथा-पूर्व᳓म् अकल्पयत् ।  
 दि᳓वं च पृथिवीं᳓ चान्त᳓रिक्षम् अ᳓थो स्वः᳙+++(=लोक-विशेषम्)+++ ॥
 
-</details>
 </div>
-</details>
+
 </div>
 
 ## परिषेचनम्

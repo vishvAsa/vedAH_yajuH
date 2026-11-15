@@ -1,6 +1,5 @@
 +++
 title = "०२ उपवीतविधिः"
-
 +++
 
 अथोपवीतविधिः
@@ -13,32 +12,202 @@ title = "०२ उपवीतविधिः"
 'आपो वा इद ँ सर्वम्' इति +अद्भिर् **अभिषिच्य**  
 
 <div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/22_Apo_vA_idam/">
-<details open><summary><h4>२२ आपो वा इदम् ...{Loading}...</h4></summary>
+
+<details open><summary><h4>२२ आपो वा इदम् …{Loading}…</h4></summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+आपो वा इत्यादिनाऽप्त्वेन ब्रह्म स्तूयते ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आपो॒ वा इ॒दँ सर्वं॒  
-विश्वा॑ भू॒तान्य् आपः॑  
-प्रा॒णा वा आपः॑  
-प॒शव॒ आपो, ऽन्न॒म् आपो, ऽमृ॑त॒म् आपः॑  
-स॒म्राड् आपो॑, वि॒राड् आपः॑, स्व॒राड् आप॒श्  
-छन्दाँ॒स्य् आपो॒, ज्योतीँ॒ष्य् आपो॒, यजूँ॒ष्य् आप॑स्,  
-स॒त्यम् आप॒स्, सर्वा॑ दे॒वता॒ आपो॒,  
-भूर् भुव॒स् सुव॒र् आप॒  
-ॐ ॥
+आ᳓पो वा᳓ इदँ᳓ स᳓र्वं
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+The waters are, verily, all this
 </details>
 
 <details><summary>मूलम्</summary>
 
-आपो॒ वा इ॒दँ सर्वं॒  
-विश्वा॑ भू॒तान्यापः॑  
-प्रा॒णा वा आपः॑  
-प॒शव॒ आपो ऽन्न॒मापो ऽमृ॑त॒म् आपः॑  
-स॒म्राडापो॑ वि॒राडापः॑ स्व॒राडाप॒श्  
-छन्दाँ॒स्यापो॒ ज्योतीँ॒ष्यापो॒ यजूँ॒ष्याप॑स्  
-स॒त्यमाप॒स् सर्वा॑ दे॒वता॒ आपो॒  
+आपो॒ वा इ॒दँ सर्वं॒
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इदं दृश्यमानं श्रूयमाणं च सर्वमाप एव तदधीनत्वात् । किङ्किमित्याह - विश्वा विश्वानि भूतानि पृथिव्यादीनि प्राणाश् चक्षुरादयः पशवो द्विपादश् चतुष्पादश्च अमृतम् आत्मा अन्नम् अदनीयं सम्राट् सङ्गतदीप्तिर् विराट् विविधदीप्तिकं स्वराट् स्वायत्तदीप्तिकं छन्दांसि गायत्र्यादीनि ज्योतींष्य् आदित्यादीनि सत्यं ब्रह्म प्रपञ्चोत्तीर्णं सर्वा देवताः प्रपञ्चान्तर्वर्तिन्यः भूर्भुवस्सुवः व्याहृत्यात्मका लोका: ओं परमात्मा आप एव । तस्मात्ता उपास्मह इति शेषः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वि᳓श्वा भूता᳓न्य् आ᳓पः
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the waters are all the beings
+</details>
+
+<details><summary>मूलम्</summary>
+
+विश्वा॑ भू॒तान्यापः॑
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राणा᳓ वा᳓ आ᳓पः
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the waters are the breaths
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रा॒णा वा आपः॑
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पश᳓व आ᳓पो᳓,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the waters are the animals
+</details>
+
+<details><summary>मूलम्</summary>
+
+प॒शव॒ आपो
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऽन्नम् आ᳓पो᳓,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the waters are the food
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऽन्न॒मापो
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऽमृतम् आ᳓पः
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the waters are the nectar
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऽमृ॑त॒म् आपः॑
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सम्रा᳓ड् आ᳓पो, विरा᳓ड् आ᳓पः, स्वरा᳓ड् आ᳓पश्
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the waters are the Samrat, Virat and Svarat
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒म्राडापो॑ वि॒राडापः॑ स्व॒राडाप॒श्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+छ᳓न्दाँस्य् आ᳓पो,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the waters are the metres
+</details>
+
+<details><summary>मूलम्</summary>
+
+छन्दाँ॒स्यापो॒
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्यो᳓तीँष्य् आ᳓पो,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the waters are the Yajuses
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्योतीँ॒ष्यापो॒
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓जूँष्य् आ᳓पस्,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the waters are the truth
+</details>
+
+<details><summary>मूलम्</summary>
+
+यजूँ॒ष्याप॑स्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्य᳓म् आ᳓पस्,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the waters are all the gods
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒त्यमाप॒स्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स᳓र्वा देव᳓ता आ᳓पो,  
+भू᳓र् भु᳓वस् सु᳓वर् आ᳓प  
+ॐ ॥
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the waters are Bhuh, Bhuvah, Suvah, Om.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वा॑ दे॒वता॒ आपो॒  
 भूर्भुव॒स्सुव॒राप॒ ॐ ॥
 </details>
 </details>
+
 </div>
 
 ### त्रि-गुणी-करणम्
@@ -54,238 +223,211 @@ title = "०२ उपवीतविधिः"
 'आपोहिष्ठा मयोभुव' इति तिसृभिः 
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
-<details open><summary><h4>०१ आपो हि ...{Loading}...</h4></summary>
 
 आ᳓पो हि᳓ ष्ठा᳓ मयो-भु᳓वस्  
 ता᳓ न ऊर्जे᳓+++(जाः)+++ दधातन ।  
 महे᳓ र᳓णाय+++(=रमणीयाय)+++ च᳓क्षसे+++(=दर्शनाय)+++ ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
-<details open><summary><h4>०२ यो वः ...{Loading}...</h4></summary>
 
 यो᳓ वः शिव᳓तमो र᳓सस्  
 त᳓स्य भाजयतेह᳓ नः ।  
 उशती᳓र्+++(=कामयमाना)+++ इव मात᳓रः ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
-<details open><summary><h4>०३ तस्मा अरं ...{Loading}...</h4></summary>
 
 +++(रसाय)+++ त᳓स्मा अ᳓रं+++(=शीघ्रम्)+++ **गमाम** वो  
-यस्य +++(प्रभावेण)+++ **क्ष᳓याय**+++(=निवासाय)+++ **जि᳓न्वथ**+++(=प्रीणयथ)+++ ।  
+य᳓स्य +++(प्रभावेण)+++ **क्ष᳓याय**+++(=निवासाय)+++ **जि᳓न्वथ**+++(=प्रीणयथ)+++ ।  
 आ᳓पो +++(प्रजा)+++ **जन᳓यथा** च नः ॥  
 +++(`चादिषु` च इति न स्वर-निघातः। )+++
 
-</details>
 </div>
 
 'हिरण्यवर्णाः शुचयः पावकाः' इति च तिसृभिः 
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
-<details open><summary><h4>03 हिरण्यवर्णाश् शुचयᳶ ...{Loading}...</h4></summary>
 
-हिर॑ण्यवर्णा॒श् शुच॑यᳶ पाव॒का,  
-यासु॑ **जा॒तᳵ** क॒श्यपो॒, यास्व् इन्द्रः॑ ।  
-अ॒ग्निय्ँ या गर्भ॑न् **दधि॒रे**, विरू॑पा॒स् -  
-ता न॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।
-</details>
+हि᳓रण्य-वर्णाश् शु᳓चयः पावका᳓  
+या᳓सु जातः᳓ कश्य᳓पो या᳓स्व् इ᳓न्द्रः ।  
+अग्नि᳓य्ँ या᳓ ग᳓र्भन् **दधिरे᳓**, वि᳓रूपास् -  
+ता᳓स् त आ᳓पश् शँ᳓ स्योना᳓ +++(=सुखा)+++ भवन्तु ।+++(५)+++
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
-<details open><summary><h4>08 यासां राजा ...{Loading}...</h4></summary>
 
-यासाँ॒ राजा॒ वरु॑णो॒ **याति॒** मध्ये॑,  
-सत्यानृ॒ते **अ॑व॒पश्य॒ञ्** जना॑नाम् ।  
-म॒धु॒श्-**चुत॒श्** शुच॑यो॒ याᳶ पा॑व॒कास् -  
-ता न॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।
-</details>
+या᳓साँ रा᳓जा व᳓रुणो **या᳓ति** म᳓ध्ये,  
+सत्यानृते᳓ **अवप᳓श्यञ्** ज᳓नानाम् ।  
+मधुश्-**चु᳓तश्** शु᳓चयो याᳶ᳓ पावका᳓स् -  
+ता᳓ न आ᳓पश् शँ᳓ स्योना᳓ **भवन्तु** ।
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
-<details open><summary><h4>12 यासान् देवा ...{Loading}...</h4></summary>
 
-यासा॑न् दे॒वा दि॒वि **कृ॒ण्वन्ति॑** भ॒क्षय्ँ -  
-या अ॒न्तरि॑क्षे बहु॒धा **भव॑न्ति** ।  
-याᳶ पृ॑थि॒वीम् **पय॑सो॒न्दन्ति॑** शु॒क्रास् -  
-ता न॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
+
+या᳓सान् देवा᳓ दिवि᳓ **कृण्व᳓न्ति** भक्षय्ँ᳓ -  
+या᳓ अन्त᳓रिक्षे बहुधा᳓ **भ᳓वन्ति** ।  
+याᳶ᳓ पृथिवी᳓म् **प᳓यसोन्द᳓न्ति** शुक्रा᳓स् -  
+ता᳓ न आ᳓पश् शँ᳓ स्योना᳓ **भवन्तु** ।
+
 </div>
 
 'पवमानस् सुवर्जनः' इत्यनुवाकेन च दर्भैः **प्रोक्ष्य** 
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH">
-<details open><summary><h4>०८, पावमानीमन्त्राः ...{Loading}...</h4></summary>
-<details><summary>विश्वास-टिप्पनी</summary>
 
-स्मार्ते स्नानादौ मार्जनार्थाश्च।
-</details>
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
-<details open><summary><h8>01 पवमानस् सुवर्जनः ...{Loading}...</h8></summary>
 
-पव॑मान॒स् सुव॒र्-जनः॑ ।  
-प॒वित्रे॑ण॒ +++(नाना-विषयेषु)+++ विच॑र्षणिः ।  
-यᳶ पोता॒ स **पु॑नातु** मा ।  
+प᳓वमानस् सु᳓वर्-ज᳓नः ।  
+पवि᳓त्रेण +++(नाना-विषयेषु)+++ वि᳓चर्षणिः ।  
+यᳶ᳓ पो᳓ता स᳓ **पुनातु** मा ।  
 
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
-<details open><summary><h8>02 पुनन्तु मा ...{Loading}...</h8></summary>
 
-**पु॒नन्तु॑** मा **देवज॒नाः** ।  
-पु॒नन्तु॒ **मन॑वो** धि॒या ।  
-पु॒नन्तु॒ **विश्व॑ आ॒यवः॑**+++(=मनुष्याः)+++ ।  
+**पुन᳓न्तु** मा **देवजनाः᳓** ।  
+पुन᳓न्तु **म᳓नवो** धिया᳓ ।  
+पुन᳓न्तु **वि᳓श्व आय᳓वः**+++(=मनुष्याः)+++ ।  
 
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
-<details open><summary><h8>03 जातवेदᳶ पवित्रवत् ...{Loading}...</h8></summary>
 
-जात॑वेदᳶ प॒वित्र॑वत् ।  
-प॒वित्रे॑ण **पुनाहि**+++(=पुनीहि)+++ मा ।  
-शु॒क्रेण॑ देव॒ **दीद्य॑त्** ।  
-**अग्ने॒** क्रत्वा॒+++(=प्रज्ञया)+++ क्रतूँ॒र् अनु॑ ॥46॥  
+जा᳓तवेदᳶ पवि᳓त्रवत् ।  
+पवि᳓त्रेण **पुनाहि**+++(=पुनीहि)+++ मा ।  
+शुक्रे᳓ण देव **दी᳓द्यत्** ।  
+**अ᳓ग्ने** क्र᳓त्वा+++(=प्रज्ञया)+++ क्र᳓तूँर् अ᳓नु ॥46॥  
 
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
-<details open><summary><h8>04 यत् ते ...{Loading}...</h8></summary>
 
-यत् ते॑ **प॒वित्र॑म् अ॒र्चिषि॑** ।  
-अग्ने॒ वित॑तम् अन्त॒रा ।  
-ब्रह्म॒ तेन॑ **पुनीमहे** ।  
+य᳓त् ते **पवि᳓त्रम् अर्चि᳓षि** ।  
+अ᳓ग्ने वि᳓ततम् अन्तरा᳓ ।  
+ब्र᳓ह्म ते᳓न **पुनीमहे** ।  
 
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
-<details open><summary><h8>05 उभाभ्यान् देव ...{Loading}...</h8></summary>
 
-उ॒भाभ्या॑न् देव **सवितः** ।  
-प॒वित्रे॑ण स॒वेन॑ च ।  
-इ॒दम् ब्रह्म॑ **पुनीमहे** ।+++(5)+++  
+उभा᳓भ्यान् देव **सवितः** ।  
+पवि᳓त्रेण सवे᳓न च ।  
+इद᳓म् ब्र᳓ह्म **पुनीमहे** ।+++(5)+++  
 
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
-<details open><summary><h8>06 वैश्वदेवी पुनती ...{Loading}...</h8></summary>
 
-वै॒श्व॒दे॒वी **पु॑न॒ती** दे॒व्य् **आगा॑त्**+++(=आगच्छतु)+++ ।  
-यस्यै॑ ब॒ह्वीस् त॒नुवो॑ वी॒त-पृ॑ष्ठाः+++(=कान्त-स्तुतयः)+++ ।  
-तया॒ **मद॑न्तस्** सध॒-माद्ये॑षु +++(=सह माद्यन्ति येषु सवनेषु)+++ ।  
-व॒यँ **स्या॑म॒** पत॑यो रयी॒णाम् ॥47॥  
+वैश्वदेवी᳓ **पुनती᳓** देव्य् **आ᳓गात्**+++(=आगच्छतु)+++ ।  
+य᳓स्यै बह्वी᳓स् तनु᳓वो वीत᳓-पृष्ठाः+++(=कान्त-स्तुतयः)+++ ।  
+त᳓या **म᳓दन्तस्** सध-मा᳓द्येषु +++(=सह माद्यन्ति येषु सवनेषु)+++ ।  
+वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म् ॥47॥  
 
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
-<details open><summary><h8>07 वैश्वानरो रश्मिभिर् ...{Loading}...</h8></summary>
 
-**वै॒श्वा॒न॒रो** र॒श्मिभि॑र् मा **पुनातु** ।   
-**वात॑ᳶ** प्रा॒णेने॑षि॒रो+++(←इष गतौ)+++ म॑यो॒भूः ।  
-**द्यावा॑पृथि॒वी** पय॑सा॒ पयो॑भिः +++(इति क्रमशः)+++ ।   
-ऋ॒ताव॑री+++(=ऋतवत्यौ)+++ य॒ज्ञिये॑ मा **पुनीताम्** ।  
+**वैश्वानरो᳓** रश्मि᳓भिर् मा **पुनातु** ।   
+**वा᳓तᳶ** प्राणे᳓नेषिरो᳓+++(←इष गतौ)+++ मयोभूः᳓ ।  
+**द्या᳓वापृथिवी᳓** प᳓यसा प᳓योभिः +++(इति क्रमशः)+++ ।   
+ऋता᳓वरी+++(=ऋतवत्यौ)+++ यज्ञि᳓ये मा **पुनीताम्** ।  
 
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
-<details open><summary><h8>08 बृहद्भिस् सवितस् ...{Loading}...</h8></summary>
 
-बृ॒हद्भि॑स् सवित॒स् तृभिः॑+++(=त्रिभिः [लोकगणनया]/ तृप्यतेः करणे क्विप्)+++ ।   
-वर्षि॑ष्ठैर्+++(=प्रवृद्ध-धर्मैः)+++ देव॒ मन्म॑भिः+++(=मननीयैः)+++ ।  
-अग्ने॒ दक्षै॑ᳶ **पुनाहि** मा ।  
+बृह᳓द्भिस् सवितस् तृ᳓भिः+++(=त्रिभिः [लोकगणनया]/ तृप्यतेः करणे क्विप्)+++ ।   
+व᳓र्षिष्ठैर्+++(=प्रवृद्ध-धर्मैः)+++ देव म᳓न्मभिः+++(=मननीयैः)+++ ।  
+अ᳓ग्ने द᳓क्षैᳶ **पुनाहि** मा ।  
 
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
-<details open><summary><h8>09 येन देवा ...{Loading}...</h8></summary>
 
-येन॑ दे॒वा **अपु॑नत** ।   
-येनापो॑ दि॒व्यङ् **कशः॑**+++(←कशेर् गतिकर्मणो ऽसुन्)+++ ।  
-तेन॑ दि॒व्येन॒ ब्रह्म॑णा ॥48॥  
-इ॒दम् ब्रह्म॑ **पुनीमहे** ।  
+ये᳓न देवा᳓ **अ᳓पुनत** ।   
+ये᳓ना᳓पो दिव्य᳓ङ् **क᳓शः**+++(←कशेर् गतिकर्मणो ऽसुन्)+++ ।  
+ते᳓न दिव्ये᳓न ब्र᳓ह्मणा ॥48॥  
+इद᳓म् ब्र᳓ह्म **पुनीमहे** ।  
 
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
-<details open><summary><h8>10 यᳶ पावमानीर् ...{Loading}...</h8></summary>
 
-यᳶ पा॑वमा॒नीर् **अ॒ध्येति॑** ।  
-**ऋषि॑भि॒स् सम्भृ॑तँ॒** रस॑म् ।  
-सर्वँ॒ स पू॒तम् **अ॑श्ञाति** ।   
-**स्व॒दि॒तम्**+++(=स्वादुकृतं)+++ मा॑त॒रिश्व॑ना+++(=वायुना)+++ ।   
+यᳶ᳓ पावमानी᳓र् **अध्ये᳓ति** ।  
+**ऋ᳓षिभिस् स᳓म्भृतँ** र᳓सम् ।  
+स᳓र्वँ स᳓ पूत᳓म् **अश्ञाति** ।   
+**स्वदित᳓म्**+++(=स्वादुकृतं)+++ मातरि᳓श्वना+++(=वायुना)+++ ।   
 
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
-<details open><summary><h8>11 पावमानीर् यो ...{Loading}...</h8></summary>
 
-पा॒व॒मा॒नीर् यो **अ॒ध्येति॑** ।   
-ऋषि॑भि॒स् **सम्भृ॑तँ॒** रस॑म् ।  
-तस्मै॒ सर॑स्वती **दुहे** ।   
-क्षी॒रँ स॒र्पिर् मधू॑द॒कम् ।
+पावमानी᳓र् यो᳓ **अध्ये᳓ति** ।   
+ऋ᳓षिभिस् **स᳓म्भृतँ** र᳓सम् ।  
+त᳓स्मै स᳓रस्वती **दुहे** ।   
+क्षीरँ᳓ सर्पि᳓र् म᳓धूदक᳓म् ।
 
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
-<details open><summary><h8>12 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h8></summary>
 
-पा॒व॒मा॒नीस् **स्व॒स्त्य्-अय॑नीः** ॥49॥   
-सु॒-दुघा॒ हि पय॑स्वतीः ।  
-ऋषि॑भि॒स् **सम्भृ॑तो॒** रसः॑ ।  
-ब्रा॒ह्म॒णेष्व् अ॒मृतँ॑ **हि॒तम्** ।  
+पावमानी᳓स् **स्वस्त्य्-अ᳓यनीः** ॥49॥   
+सु-दु᳓घा हि᳓ प᳓यस्वतीः ।  
+ऋ᳓षिभिस् **स᳓म्भृतो** र᳓सः ।  
+ब्राह्मणे᳓ष्व् अमृ᳓तँ **हित᳓म्** ।  
 
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
-<details open><summary><h8>13 पावमानीर् दिशन्तु ...{Loading}...</h8></summary>
 
-पा॒व॒मा॒नीर् **दि॑शन्तु** नः ।  
-इ॒मल्ँ लो॒कम् अथो॑ अ॒मुम् ।  
-कामा॒न्त् **सम॑र्धयन्तु** नः ।  
-दे॒वीर् दे॒वैस् **स॒माभृ॑ताः** ।           
+पावमानी᳓र् **दिशन्तु** नः ।  
+इमल्ँ᳓ लोक᳓म् अ᳓थो अमु᳓म् ।  
+का᳓मान्त् **स᳓मर्धयन्तु** नः ।  
+देवी᳓र् देवै᳓स् **समा᳓भृताः** ।           
 
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
-<details open><summary><h8>14 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h8></summary>
 
-पा॒व॒मा॒नीस् **स्व॒स्त्य्-अय॑नीः** ।  
-सु॒-दुघा॒ हि घृ॑त॒श्-**चुतः॑**+++(=क्षारयित्र्यः)+++ ।  
-ऋषि॑भि॒स् **सम्भृ॑तो॒** रसः॑ ॥50॥  
-ब्रा॒ह्म॒णेष्व् अ॒मृतँ॑ **हि॒तम्** ।
+पावमानी᳓स् **स्वस्त्य्-अ᳓यनीः** ।  
+सु-दु᳓घा हि᳓ घृतश्-**चु᳓तः**+++(=क्षारयित्र्यः)+++ ।  
+ऋ᳓षिभिस् **स᳓म्भृतो** र᳓सः ॥50॥  
+ब्राह्मणे᳓ष्व् अमृ᳓तँ **हित᳓म्** ।
 
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
-<details open><summary><h8>15 येन देवाᳶ ...{Loading}...</h8></summary>
 
-येन॑ दे॒वाᳶ प॒वित्रे॑ण ।  
-आ॒त्मान॑म् **पु॒नते॒** सदा॑ ।  
-तेन॑ स॒हस्र॑-धारेण ।   
-पा॒व॒मा॒न्यᳶ **पु॑नन्तु** मा ।            
+ये᳓न देवाᳶ᳓ पवि᳓त्रेण ।  
+आत्मा᳓नम् **पुन᳓ते** स᳓दा ।  
+ते᳓न सह᳓स्र-धारेण ।   
+पावमान्यᳶ᳓ **पुनन्तु** मा ।            
 
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
-<details open><summary><h8>16 प्राजापत्यम् पवित्रम् ...{Loading}...</h8></summary>
 
-प्रा॒जा॒प॒त्यम् प॒वित्र॑म् ।  
-श॒तोद्या॑मँ हिर॒ण्मय॑म् ।  
-तेन॑ ब्रह्म॒-विदो॑ व॒यम् ।  
-**पू॒तम्** +++(यथा तथा स्वीयम्)+++ ब्रह्म॑ **पुनीमहे** ।  
+प्राजापत्य᳓म् पवि᳓त्रम् ।  
+शतो᳓द्यामँ हिरण्म᳓यम् ।  
+ते᳓न ब्रह्म-वि᳓दो वय᳓म् ।  
+**पूत᳓म्** +++(यथा तथा स्वीयम्)+++ ब्र᳓ह्म **पुनीमहे** ।  
 
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
-<details open><summary><h8>17 इन्द्रस् सुनीती ...{Loading}...</h8></summary>
 
-**इन्द्र॑स्** सुनी॒ती+++(त्या)+++ स॒ह मा॑ पुनातु ।  
-**सोम॑स्** स्व॒स्त्या **वरु॑णस्** स॒मीच्या॑+++(=सम्यगञ्चनया)+++ ।  
-**य॒मो** राजा॑ प्रमृ॒णाभि॑ᳶ+++(=प्रमारिकाभिः)+++ पुनातु मा ।   
-**जा॒तवे॑दा** मा+ऊ॒र्जय॑न्त्या पुनातु ॥51॥  
+**इ᳓न्द्रस्** सुनीती᳓+++(त्या)+++ सह᳓ मा पुनातु ।  
+**सो᳓मस्** स्वस्त्या᳓ **व᳓रुणस्** समी᳓च्या+++(=सम्यगञ्चनया)+++ ।  
+**यमो᳓** रा᳓जा प्रमृणा᳓भिᳶ+++(=प्रमारिकाभिः)+++ पुनातु मा ।   
+**जात᳓वेदा** मा+ऊर्ज᳓यन्त्या पुनातु ॥51॥  
 
-</details>
 </div>
-</details>
+
 </div>
 
 ### त्रि-गुणी-करणम्
@@ -332,7 +474,7 @@ title = "०२ उपवीतविधिः"
 'भूर् अग्निं च' इत्य् **अनुवाकेनाभिमन्त्र्य** 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/kAThakam/sarva-prastutiH/1/02_bhUr_agnin_cha">
-<details open><summary><h5>2 ...{Loading}...</h5></summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1चतस्रस् स्वयमातृण्णा दिक्षूपदधाति -
@@ -340,10 +482,10 @@ title = "०२ उपवीतविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूर्! अ॒ग्निञ् च॑ पृथि॒वीञ् च॒ माञ् च॑ ।  
-त्रीँश् च॑ लो॒कान्त् सव्ँ॑वत्स॒रञ् च॑ ।  
-प्र॒जाप॑तिस् त्वा +++(स्वयम्-आतृण्णे!)+++ **सादयतु** ।  
-तया॑ दे॒वत॑या ऽङ्गिर॒स्वद् ध्रु॒वा **सी॑द** ॥  
+भू᳓र्! अग्नि᳓ञ् च पृथिवी᳓ञ् च मा᳓ञ् च ।  
+त्रीँ᳓श् च लोका᳓न्त् सव्ँवत्सर᳓ञ् च ।  
+प्रजा᳓पतिस् त्वा +++(स्वयम्-आतृण्णे!)+++ **सादयतु** ।  
+त᳓या देव᳓तया ऽङ्गिरस्व᳓द् ध्रुवा᳓ **सीद** ॥  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -366,10 +508,10 @@ title = "०२ उपवीतविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भुवो॑ वा॒युञ् चा॒न्तरि॑क्षञ् च॒ माञ्च॑ ।  
-त्रीँश्च॑ लो॒कान्त् सव्ँ॑वत्स॒रञ्च॑ ।  
-प्र॒जाप॑तिस्त्वा **सादयतु** ।  
-तया॑  दे॒वत॑या ऽङ्गिर॒स्वद् ध्रु॒वा **सी॑द** ॥ 
+भु᳓वो वायु᳓ञ् चान्त᳓रिक्षञ् च मा᳓ञ्च ।  
+त्रीँ᳓श्च लोका᳓न्त् सव्ँवत्सर᳓ञ्च ।  
+प्रजा᳓पतिस्त्वा **सादयतु** ।  
+त᳓या  देव᳓तया ऽङ्गिरस्व᳓द् ध्रुवा᳓ **सीद** ॥ 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -382,10 +524,10 @@ title = "०२ उपवीतविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व॑र् आदि॒त्यञ् च॒ दिव॑ञ् च॒ माञ् च॑ ।  
-त्रीँश्च॑ लो॒कान्त् सव्ँ॑वत्स॒रञ्च॑ ।  
-प्र॒जाप॑तिस् त्वा  **सादयतु** ।  
-तया॑ दे॒वत॑या ऽङ्गिर॒स्वद् ध्रु॒वा **सी॑द** ॥
+स्व᳓र् आदित्य᳓ञ् च दि᳓वञ् च मा᳓ञ् च ।  
+त्रीँ᳓श्च लोका᳓न्त् सव्ँवत्सर᳓ञ्च ।  
+प्रजा᳓पतिस् त्वा  **सादयतु** ।  
+त᳓या देव᳓तया ऽङ्गिरस्व᳓द् ध्रुवा᳓ **सीद** ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -398,10 +540,10 @@ title = "०२ उपवीतविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूर् भुव॒स् स्व॑श् च॒न्द्रम॑सञ् च॒ दिश॑श् च॒ माञ्च॑ ।  
-त्रीँश्च॑ लो॒कान्त् सव्ँ॑वत्स॒रञ्च॑ ।  
-प्र॒जाप॑तिस् त्वा **सादयतु** ।  
-तया॑ दे॒वत॑या ऽङ्गिर॒स्वद् ध्रु॒वा **सी॑द** ॥ 5 ॥
+भू᳓र् भु᳓वस् स्व᳙श् चन्द्र᳓मसञ् च दि᳓शश् च मा᳓ञ्च ।  
+त्रीँ᳓श्च लोका᳓न्त् सव्ँवत्सर᳓ञ्च ।  
+प्रजा᳓पतिस् त्वा **सादयतु** ।  
+त᳓या देव᳓तया ऽङ्गिरस्व᳓द् ध्रुवा᳓ **सीद** ॥ 5 ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -411,7 +553,7 @@ title = "०२ उपवीतविधिः"
 प्र॒जाप॑तिस्त्वा सादयतु ।  
 तया॑ दे॒वत॑याऽङ्गिर॒स्वद्ध्रु॒वा सी॑द ॥ 5 ॥
 </details>
-</details>
+
 </div>
 
 ### तन्तु-देवता-पूजा
@@ -430,50 +572,45 @@ title = "०२ उपवीतविधिः"
 इति चतुर्भिः सूर्याय **प्रदर्श्य** 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md">
-<details open><summary><h5>आ सत्येन रजसा ...{Loading}...</h5></summary>
 
-आ स॒त्येन॒ रज॑सा॒ **वर्त॑मानो**  
-**निवे॒शय॑न्न्** अ॒मृतं॒ मर्त्यं॑ च ।  
-हि॒र॒ण्यये॑न सवि॒ता रथे॒न॒+  
-+आऽऽदे॒वो **या॑ति॒** भुव॑ना **वि॒पश्य॑न्** ॥
+आ᳓ सत्ये᳓न र᳓जसा **व᳓र्तमानो**  
+**निवेश᳓यन्न्** अमृ᳓तं म᳓र्त्यं च ।  
+हिरण्य᳓येन सविता᳓ र᳓थेन+  
++आ᳓ऽऽदेवो᳓ **याति** भु᳓वना **विप᳓श्यन्** ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/10_udvayaM_tamasaspari.md">
-<details open><summary><h5>१० उद्वयं तमसस्परि ...{Loading}...</h5></summary>
 
 उ᳓द् वयं᳓ त᳓मसस् प᳓रि  
 ज्यो᳓तिष् **प᳓श्यन्त** उ᳓त्तरम् ।  
 देवं᳓ देवत्रा᳓ सू᳓र्यम्  
 **अ᳓गन्म** ज्यो᳓तिर् उत्तम᳓म् +++(←"उत्तमशश्वत्तमौ सर्वत्र" इत्य् अन्तोदात्तः)+++ ॥
 
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
-<details open><summary><h5>०१ चित्रं देवानामुदगादनीकं ...{Loading}...</h5></summary>
 
 चित्रं᳓ देवा᳓नाम् **उ᳓दगाद्** अ᳓नीकं  
 च᳓क्षुर् मित्र᳓स्य व᳓रुणस्याग्नेः᳓ ।  
 **आ᳓-प्रा**+++(←पूरणे)+++ द्या᳓वा-पृथिवी᳓ अन्त᳓रिक्षं  
 **सू᳓र्य** आत्मा᳓ ज᳓गतस् तस्थु᳓षश् च ॥
 
-</details>
 </div>
+
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md">
-<details open><summary><h2>१२ तच्चक्षुर्देवहितम् पुरस्ताच्छुक्रमुच्चरत् ...{Loading}...</h2></summary>
 
-+++(सूर्यस्)+++ तच् चक्षु॑र् दे॒व+++(नि)+++हि॑तं पु॒रस्ता॑च् छु॒क्र+++(द्ध)+++म् उ॒च्चर॑त् -  
-पश्ये॑म श॒रद॑श् श॒तं  
-जीवे॑म श॒रद॑श् श॒तं  
-नन्दा॑म श॒रद॑श् श॒तं  
-मोदा॑म श॒रद॑श् श॒तं  
-भवा॑म श॒रद॑श् श॒तँ  
-शृ॒णवा॑म श॒रद॑श् श॒तं  
-प्रब्र॑वाम श॒रद॑श् श॒तम्  
-अजी॑ताः स्याम श॒रद॑श् श॒तं  
-ज्योक्+++(=दीर्घकालं)+++ च॒ सूर्य॑न् दृ॒शे ।  
++++(सूर्यस्)+++ त᳓च् च᳓क्षुर् देव᳓+++(नि)+++हितं पुर᳓स्ताच् छुक्र᳓+++(द्ध)+++म् उच्च᳓रत् -  
+प᳓श्येम शर᳓दश् शतं᳓  
+जी᳓वेम शर᳓दश् शतं᳓  
+न᳓न्दाम शर᳓दश् शतं᳓  
+मो᳓दाम शर᳓दश् शतं᳓  
+भ᳓वाम शर᳓दश् शतँ᳓  
+शृण᳓वाम शर᳓दश् शतं᳓  
+प्र᳓ब्रवाम शर᳓दश् शत᳓म्  
+अ᳓जीताः स्याम शर᳓दश् शतं᳓  
+ज्यो᳓क्+++(=दीर्घकालं)+++ च सू᳓र्यन् दृशे᳓ ।  
 
-</details>
 </div>
 
 ### जपादि
@@ -482,27 +619,29 @@ title = "०२ उपवीतविधिः"
 अष्टोत्तरशतं गायत्रीं **जपित्वा**  
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+
+त᳓त् सवितु᳓र् व᳓रेण्य+++(णिय)+++म्  
+भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
+धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥  
+
 </div> 
 
 ## धरणम्
 'त्र्यम्बकं यजामह' इति सकृज् **जपित्वा** 
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/059/12_tryambakaM_yajAmahe.md">
-<details open><summary><h4>१२ त्र्यम्बकं यजामहे ...{Loading}...</h4></summary>
 
-त्र्यम्बकं यजामहे  
-सुग᳓न्धिं पुष्टि-व᳓र्धनम्।  
-उर्वारुक᳓म् +++(स्थूलफलम्)+++ इव ब᳓न्धनान्  
+त्रि᳓यम्बकं यजामहे  
+सुग᳓न्धिम् पुष्टि-व᳓र्धनम् +++(&lt;"गतिकारकोपपदात् कृत्")+++।  
+उर्वारुक᳓म् +++(स्थूलफलम्)+++ [इ]व ब᳓न्धनान्  
 मृत्यो᳓र् मुक्षीय, मा᳓ ऽमृ᳓तात्॥
 
-</details>
 </div>
 
 उत्तानेन दक्षिणहस्तेन अवाचीनेन वामहस्तेन यज्ञोपवीतं **गृहीत्वा**  
 सर्षि-च्छन्दो-दैवतं 'यज्ञोपवीतम्' इति मन्त्रेण धारयेत् । 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/Rk/vishvAsa-prastutiH/yajnopavItam_paramam.md">
-<details open><summary><h5>यज्ञोपवीतं परमं पवित्रं ...{Loading}...</h5></summary>
 
 य॒ज्ञो॒प॒वी॒तं प॑र॒मं प॒वित्रं॑  
 प्र॒जाप॑ति॒र् यत् स॑ह॒जं पु॒रस्ता॑त् ।  
@@ -518,7 +657,7 @@ title = "०२ उपवीतविधिः"
 यज्ञोपवीतधारणे विनियोगः । 
 
 </details>
-</details>
+
 </div>
 
 प्रत्य्-उपवीतं मन्त्रोच्चारणाचमने कुर्यात् । 

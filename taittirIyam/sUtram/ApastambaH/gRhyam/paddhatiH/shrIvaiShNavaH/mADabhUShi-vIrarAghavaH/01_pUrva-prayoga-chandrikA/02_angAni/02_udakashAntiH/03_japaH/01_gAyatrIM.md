@@ -1,11 +1,9 @@
 +++
 title = "०१ गायत्रीं"
-
 +++
 गायत्रीं पच्छो ऽर्धर्चशो ऽनवानम् उक्त्वा 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_11_vyAhRtIrvihRtAH.md">
-<details open><summary><h2>११ ११ व्याहृतीर्विहृताः ...{Loading}...</h2></summary>
 
 व्याहृतीर् विहृताः - पादादिष्व् अन्तेषु वा, तथार्धर्चयोर्, उत्तमां कृत्स्नायाम् ११
 
@@ -23,12 +21,22 @@ title = "०१ गायत्रीं"
 ओं सुव॒स्
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+
+त᳓त् सवितु᳓र् व᳓रेण्य+++(णिय)+++म्  
+भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
+धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥  
+
 </div>
 
 ###### पुनः पूर्णोच्यते कैश्चित्
 ॐ भूर्-भुव॒स्-सुव॒स्
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+
+त᳓त् सवितु᳓र् व᳓रेण्य+++(णिय)+++म्  
+भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
+धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥  
+
 </div>
-</details>
+
 </div>
