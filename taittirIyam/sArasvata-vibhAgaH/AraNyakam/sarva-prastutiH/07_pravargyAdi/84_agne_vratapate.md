@@ -2,9 +2,19 @@
 title = "८४ अग्ने व्रतपते"
 +++
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+अथ देवता उपतिष्ठते - अग्ने व्रतपत इति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने व्रतपते!
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+4\. O Fire, the lord of the rules, I will follow the rules; (3) may I do so; may that be increased.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -12,7 +22,12 @@ title = "८४ अग्ने व्रतपते"
 अग्ने॑ व्रतपते!
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे अग्ने ! व्रतपते! व्रतं शुक्रियं व्रतं चरिष्यामि । तच्छकेयं कर्तुं शक्तोऽहं भवेयम् । तद् व्रतं मे राध्यतां सिद्ध्यताम् ॥
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -43,12 +58,17 @@ title = "८४ अग्ने व्रतपते"
 वा᳓यो व्रतपते
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+O wind, the lord of the rules,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वायो॑ व्रतपते
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -74,12 +94,17 @@ title = "८४ अग्ने व्रतपते"
 आ᳓दित्य व्रतपते
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+O Āditya, the lord of the rules,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आदि॑त्य व्रतपते
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -105,12 +130,19 @@ title = "८४ अग्ने व्रतपते"
 व्रता᳓नाव्व्ँरतपते
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+O Vratapati (lord of the rules), the ruling lord of the rules, I will follow the rules; may I do so; may that be increased.[P205_r4]
+
+[P205_r4]: *(Mantra 4)* Invitation of the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 व्र॒ताना॑व्व्ँरतपते
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
