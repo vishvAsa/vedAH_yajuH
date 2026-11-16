@@ -36,7 +36,7 @@ The Rc and the Saman, unwilling to remain with the gods for the sacrifice, takin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽमन्यन्त -
+ते᳙ऽमन्यन्त -
 यव्ँ᳓ वा᳓ इमे᳓ उपावर्त्स्य᳓तस् स᳓ इद᳓म् भविष्यती᳓ति ते᳓ उ᳓पामन्त्रयन्त ।  
 ते᳓ अहोरात्र᳓योर् महिमा᳓नम् अपनिधा᳓य देवा᳓नुपा᳓वर्तेताम् ।
 </details>
@@ -707,7 +707,7 @@ it divided into three parts; one-third the wooden sword, one-third the chariot, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये᳓ऽन्तश् शरा᳓ अ᳓शीर्यन्त , ते᳓ शरा᳓ अभवन् , त᳓च् छरा᳓णाँ शरत्व᳓म् ।  
+ये᳙ऽन्त᳓श् शरा᳓ अ᳓शीर्यन्त , ते᳓ शरा᳓ अभवन् , त᳓च् छरा᳓णाँ शरत्व᳓म् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -902,7 +902,7 @@ The sacrifice reflected on the gift (to the priests). He had intercourse with he
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽमन्यत - "यो᳓ वा᳓ इतो᳓ जनिष्य᳓ते स᳓ इद᳓म्भविष्यति᳓"+इ᳓ति , ता᳓म् प्रा᳓विशत् त᳓स्या इ᳓न्द्र एवा᳓जायत ।  
+सो᳙ऽमन्यत - "यो᳓ वा᳓ इतो᳓ जनिष्य᳓ते स᳓ इद᳓म्भविष्यति᳓"+इ᳓ति , ता᳓म् प्रा᳓विशत् त᳓स्या इ᳓न्द्र एवा᳓जायत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -929,7 +929,7 @@ and reflected, 'He who will be born from this union will be this world.' He ente
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽमन्यत - "यो᳓ वै᳓ म᳓दितो᳓ऽपरो जनिष्य᳓ते स᳓ इद᳓म् भविष्यती᳓"ति , त᳓स्या अनुमृ᳓श्य यो᳓निम् आ᳓च्छिनत् , सा᳓ सूत᳓वशाभवत् त᳓त् सूत᳓वशायै ज᳓न्म । [22]  
+सो᳙ऽमन्यत - "यो᳓ वै᳓ म᳓दितो᳓ऽपरो जनिष्य᳓ते स᳓ इद᳓म् भविष्यती᳓"ति , त᳓स्या अनुमृ᳓श्य यो᳓निम् आ᳓च्छिनत् , सा᳓ सूत᳓वशाभवत् त᳓त् सूत᳓वशायै ज᳓न्म । [22]  
 </details>
 
 <details><summary>Keith</summary>

@@ -61,7 +61,7 @@ the Gayatri, grasping and taking their force, might, power, strength, offspring,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽमन्यन्त ।  
+ते᳙ऽमन्यन्त ।  
 यतरा᳓न् वा᳓ इय᳓मुपावर्त्स्य᳓ति ।  
 त᳓ इद᳓म्भविष्यन्ती᳓ति ।  
 </details>

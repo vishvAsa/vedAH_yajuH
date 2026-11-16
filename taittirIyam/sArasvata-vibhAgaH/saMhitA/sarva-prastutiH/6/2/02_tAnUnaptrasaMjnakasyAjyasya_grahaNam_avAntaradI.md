@@ -119,7 +119,7 @@ Agni with the Vasus, Soma with the Rudras, Indra with the Maruts, Varuna with th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽमन्यन्त᳓ -  
+ते᳙ऽमन्यन्त᳓ -  
 </details>
 
 <details><summary>Keith</summary>
@@ -1277,7 +1277,7 @@ therefore they say, 'Agni is all the gods'.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽग्निम् [13] एव᳓ व᳓रूथङ् कृत्वा᳓ऽसुरानभ्य᳙भवन् ।  
+ते᳙ऽग्निम् [13] एव᳓ व᳓रूथङ् कृत्वा᳓ऽसुरानभ्य᳙भवन् ।  
 </details>
 
 <details><summary>Keith</summary>

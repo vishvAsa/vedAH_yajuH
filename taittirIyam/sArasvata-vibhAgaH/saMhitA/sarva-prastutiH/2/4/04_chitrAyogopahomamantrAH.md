@@ -109,7 +109,7 @@ Those he followed with Brhaspati;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीद्, बृ᳓हस्प᳓तिरन᳓या त्वा प्र᳓ तिष्ठानि ।  
+सो᳙ऽब्रवीद्, बृ᳓हस्प᳓तिरन᳓या त्वा प्र᳓ तिष्ठानि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -283,7 +283,7 @@ Prajapati created cattle;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽस्मात्सृष्टाᳶ᳓ प᳓राञ्च आयन् ।  
+ते᳙ऽस्मात्सृष्टाᳶ᳓ प᳓राञ्च आयन् ।  
 ते᳓ य᳓त्रा᳓वसन् ।
 </details>
 
@@ -327,7 +327,7 @@ where they stayed, thence sprung the bean;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीत् ।  
+सो᳙ऽब्रवीत् ।  
 पूषा᳓न᳓या मा प्र᳓ तिष्ठ।
 </details>
 

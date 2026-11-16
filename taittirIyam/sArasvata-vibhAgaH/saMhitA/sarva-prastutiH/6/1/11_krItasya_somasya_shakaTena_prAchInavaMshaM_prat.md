@@ -244,7 +244,7 @@ verily seizing the gods [1] he rises up.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्तरिक्षदेवत्यो᳙  ह्येतर्हि सो᳓मः ।
+अन्तरिक्षदेवत्यो᳙  ह्ये᳙तर्हि सो᳓मः ।
 </details>
 
 <details><summary>Keith</summary>

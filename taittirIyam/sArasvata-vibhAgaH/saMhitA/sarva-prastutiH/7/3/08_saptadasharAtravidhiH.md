@@ -78,7 +78,7 @@ he grasped it, and sacrificed with it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓तो वै᳓ सोऽन्नादो᳙ऽभवत् ।
+त᳓तो वै᳓ सो᳙ऽन्नादो᳙ऽभवत् ।
 </details>
 
 <details><summary>Keith</summary>

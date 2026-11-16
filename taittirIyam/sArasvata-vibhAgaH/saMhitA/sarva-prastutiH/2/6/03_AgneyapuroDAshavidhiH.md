@@ -361,7 +361,7 @@ The Rsis came to the place of sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽपश्यन् पुरोडा᳓शङ् कूर्म᳓म् भूतँ᳓ स᳓र्पन्तम्।  
+ते᳙ऽपश्यन् पुरोडा᳓शङ् कूर्म᳓म् भूतँ᳓ स᳓र्पन्तम्।  
 </details>
 
 <details><summary>Keith</summary>
@@ -516,7 +516,7 @@ It became firm for Agni.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓द् आग्नेयो᳓ ऽष्टा᳓कपालो  
+य᳓द् आग्नेयो᳙ ऽष्टा᳓कपालो  
 ऽमावास्या᳙याञ् च पौर्णमास्या᳓ञ् चाच्युतो᳓ भ᳓वति ,..      
 सुवर्ग᳓स्य लोक᳓स्याभि᳓जित्यै ।  
 </details>
@@ -637,7 +637,7 @@ He spreads (the cake) on all the fragments;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता᳓वतᳶ पुरोडा᳓शान् अमु᳓ष्मिल्ँ लोके᳓ऽभि᳓ जयति ।
+ता᳓वतᳶ पुरोडा᳓शान् अमु᳓ष्मिल्ँ लोके᳙ऽभि᳓ जयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -983,7 +983,7 @@ He counts before covering, to guard the sacrificer [5].
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दि न᳓श्येद् आश्विन᳓न् द्विकपाल᳓न् नि᳓र्वपेद्   
-द्यावापृथिव्य᳓म् ए᳓क-कपालम्।
+द्यावापृथिव्य᳙म् ए᳓क-कपालम्।
 </details>
 
 <details><summary>Keith</summary>

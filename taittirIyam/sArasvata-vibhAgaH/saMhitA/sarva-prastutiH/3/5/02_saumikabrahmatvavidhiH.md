@@ -56,7 +56,7 @@ Vasistha saw him face to face;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीत् ।   
+सो᳙ऽब्रवीत् ।   
 ब्रा᳓ह्मणन्ते वक्ष्यामि ।   
 य᳓था त्व᳓त्पुरोहिताᳶ प्रजाᳶ᳓ प्रजनिष्य᳓न्ते᳓ ।   
 </details>
@@ -137,7 +137,7 @@ To him he proclaimed these shares in the Stoma, therefore people were propagated
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓स्माद्वासिष्ठो᳓ ब्रह्मा᳓ कार्यः᳓ ।   
+त᳓स्माद्वासिष्ठो᳓ ब्रह्मा᳓ कार्यः᳙ ।   
 </details>
 
 <details><summary>Keith</summary>

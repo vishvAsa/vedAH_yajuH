@@ -656,7 +656,7 @@ He deprived Nabhanedistha, who was a student, of any portion.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ आ᳓ऽगच्छत् ।   
-सो᳓ऽब्रवीत् ।
+सो᳙ऽब्रवीत् ।
 कथा᳓ मा नि᳓रभागि᳓ति ।  
 </details>
 
@@ -847,7 +847,7 @@ He told them it, and they when going to the world of heaven gave him their cattl
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म्पशु᳓भिश्च᳓रन्तय्ँ यज्ञवास्तौ᳓ रुद्र᳓ आ᳓ऽगच्छत् ।  
-सो᳓ऽब्रवीत् ।  
+सो᳙ऽब्रवीत् ।  
 म᳓म वा᳓ इमे᳓ पश᳓व इ᳓ति ।
 </details>
 
@@ -957,7 +957,7 @@ Then one should not resort to a place of sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीत्  ।  
+सो᳙ऽब्रवीत्  ।  
 यज्ञे᳓ मा᳓ भज᳓ अ᳓थ ते पशू᳓न्ना᳓भि᳓ मँस्य इ᳓ति ।  
 </details>
 

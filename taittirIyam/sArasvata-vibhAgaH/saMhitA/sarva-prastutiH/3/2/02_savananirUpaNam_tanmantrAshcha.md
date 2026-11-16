@@ -473,7 +473,7 @@ The Asuras sought to follow their sacrifice, but could not get on its tracks.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽब्रुवन् ।  
+ते᳙ऽब्रुवन् ।  
 
 अध्वर्तव्या᳓ वा᳓ इमे᳓ देवा᳓ अभूवन्नि᳓ति ।
 </details>

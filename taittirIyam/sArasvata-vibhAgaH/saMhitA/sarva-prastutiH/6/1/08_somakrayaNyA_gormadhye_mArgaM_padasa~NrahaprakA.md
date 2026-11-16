@@ -672,7 +672,7 @@ As each part is performed, the Raksases are fain to injure the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"इद᳓महँ᳓ र᳓क्षसो ग्रीवा᳓ अ᳓पि कृन्तामि , यो᳙ऽस्मान् द्वेष्टि य᳓ञ्च वय᳓न् द्विष्म᳓" इ᳓त्याह ।
+"इद᳓महँ᳓ र᳓क्षसो ग्रीवा᳓ अ᳓पि कृन्तामि , यो᳙ऽस्मा᳓न् द्वेष्टि य᳓ञ्च वय᳓न् द्विष्म᳓" इ᳓त्याह ।
 </details>
 
 <details><summary>Keith</summary>

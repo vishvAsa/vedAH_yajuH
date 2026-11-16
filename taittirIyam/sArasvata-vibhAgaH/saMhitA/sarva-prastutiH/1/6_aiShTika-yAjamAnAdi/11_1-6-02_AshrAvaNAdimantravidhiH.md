@@ -603,7 +603,7 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 
 "वसन्त᳓म् [42] ऋतूना᳓म् प्रीणामी᳓"त्य् आह ।  
 ऋत᳓वो वै᳓ प्रयाजा᳓ - ऋतू᳓न् एव᳓ प्रीणाति ।  
-ते᳓ऽस्मै प्रीता᳓ यथापूर्व᳓ङ् कल्पन्ते ।  
+ते᳙ऽस्मै प्रीता᳓ यथापूर्व᳓ङ् कल्पन्ते ।  
 क᳓ल्पन्ते ऽस्मा ऋत᳓वो य᳓ एवव्ँ᳓ वे᳓द ।  
 </details>
 
@@ -854,7 +854,7 @@ verily by means of them he lays low his foe.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इ᳓न्द्रस्य [44]+अह᳓न् देवयज्य᳓येन्द्रियावी᳓ भूयासम्" इ᳓त्य् आह।  
-इन्द्रियाव्ये᳓व᳓ भवति। 
+इन्द्रियाव्ये᳙व᳓ भवति। 
 </details>
 
 <details><summary>Keith</summary>

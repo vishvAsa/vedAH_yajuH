@@ -770,7 +770,7 @@ Prajapati created the sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽस्मात् सृष्टᳶ᳓ प᳓राङैत् । 
+सो᳙ ऽस्मात् सृष्टᳶ᳓ प᳓राङैत् । 
 </details>
 
 <details><summary>Keith</summary>

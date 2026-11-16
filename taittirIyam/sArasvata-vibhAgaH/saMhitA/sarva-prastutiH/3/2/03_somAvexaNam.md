@@ -557,7 +557,7 @@ Of the All-gods thou art the belly, giving splendour to me, be purified for sple
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-को᳓ऽसि को᳓ ना᳓म ।
+को᳙ऽसि को᳓ ना᳓म ।
 </details>
 
 <details><summary>Keith</summary>

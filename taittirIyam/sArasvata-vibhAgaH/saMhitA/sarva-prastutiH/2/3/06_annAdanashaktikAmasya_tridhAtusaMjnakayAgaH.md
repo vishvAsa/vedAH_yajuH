@@ -36,7 +36,7 @@ Prajapati assigned food to the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीत् ।  
+सो᳙ऽब्रवीत् ।  
 य᳓दिमाल्ँ᳓ लोका᳓नभ्य᳙तिरि᳓च्याते᳓, ए᳓त᳓न्म᳓मासदि᳓ति ।  
 </details>
 

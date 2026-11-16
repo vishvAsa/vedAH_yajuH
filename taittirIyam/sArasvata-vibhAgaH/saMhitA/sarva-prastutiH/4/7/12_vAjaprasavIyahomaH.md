@@ -237,7 +237,7 @@ Be the quarters rich in milk for me.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓म्मा सृजामि प᳓यसा घृते᳓न स᳓म्मा सृजाम्यपः᳓ [22]  ओ᳓षधीभिः ।   
-सो᳓ऽहव्ँ᳓वा᳓जँ सनेयमग्ने ।  
+सो᳙ऽहव्ँ᳓वा᳓जँ सनेयमग्ने ।  
 </details>
 
 <details><summary>Keith</summary>

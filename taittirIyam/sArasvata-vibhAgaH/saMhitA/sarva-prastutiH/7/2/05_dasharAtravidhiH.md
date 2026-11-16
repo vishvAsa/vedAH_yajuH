@@ -437,7 +437,7 @@ and sacrificed with it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓तो वै᳓ सोऽन्या᳓भिर् देव᳓ताभिर् व्यावृ᳓तम् अगच्छत् ।
+त᳓तो वै᳓ सो᳙ऽन्या᳓भिर् देव᳓ताभिर् व्यावृ᳓तम् अगच्छत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -898,7 +898,7 @@ They surrounded themselves with them;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषा᳓न् न कुत᳓श्चनोपाव्याधो᳓ऽभवत् ।
+तेषा᳓न् न कुत᳓श्चनोपाव्याधो᳙ऽभवत् ।
 </details>
 
 <details><summary>Keith</summary>

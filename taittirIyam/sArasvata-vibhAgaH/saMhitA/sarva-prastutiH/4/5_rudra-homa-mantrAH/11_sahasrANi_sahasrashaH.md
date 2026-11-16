@@ -605,7 +605,7 @@ to them homage, be they merciful to us,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(न᳓मो रुद्रे᳓भ्यो )+++ ये᳓ऽन्त᳓रिक्षे { येषाव्ँ वा᳓त इ᳓षवः}  
++++(न᳓मो रुद्रे᳓भ्यो )+++ ये᳙ऽन्त᳓रिक्षे { येषाव्ँ वा᳓त इ᳓षवः}  
 </details>
 
 <details><summary>Keith</summary>

@@ -630,7 +630,7 @@ This Raksas here I lead to the lowest darkness.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ ऽस्मान् द्वेष्टि  
+यो᳙ ऽस्मा᳓न् द्वेष्टि  
 य᳓ञ् च वय᳓न् द्विष्म᳓  
 इद᳓म् एनम्  
 अधम᳓न् त᳓मो नयामि ।

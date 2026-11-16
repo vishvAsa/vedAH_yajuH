@@ -176,7 +176,7 @@ The goat announcing the sacrifice to the gods.
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 हो᳓ताध्वर्यु᳓रा᳓वया अग्निमिन्धो᳓ ग्रावग्राभ᳓ उत᳓ शँ᳓स्ता सु᳓विप्रः ।  
-ते᳓न यज्ञे᳓न स्वरङ्कृतेन स्वि᳙ष्टेन वक्ष᳓णा आ᳓ पृणध्वम् ।  
+ते᳓न यज्ञे᳓न स्व᳙रङ्कृतेन स्वि᳙ष्टेन वक्ष᳓णा आ᳓ पृणध्वम् ।  
 </details>
 
 <details><summary>Keith</summary>

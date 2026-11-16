@@ -45,7 +45,7 @@ The year was alone in the world.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽकामयत  -  ऋतू᳓न्त् सृजे᳓ये᳓ति ।  
+सो᳙ऽकामयत  -  ऋतू᳓न्त् सृजे᳓ये᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>

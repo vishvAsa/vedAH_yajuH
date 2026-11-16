@@ -125,7 +125,7 @@ They made ready an arrow, Agni as the point, Soma as the socket, Visnu as the sh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽब्रुवन् "क᳓ इमा᳓म् असिष्यती᳓"ति ।[15]  
+ते᳙ऽब्रुवन् "क᳓ इमा᳓म् असिष्यती᳓"ति ।[15]  
 </details>
 
 <details><summary>Keith</summary>
@@ -145,7 +145,7 @@ They said, 'Who shall shoot it?' [1]
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रुद्र᳓ इ᳓त्यब्रुवन् रुद्रो᳓ वै᳓ क्रूर᳓स् सो ऽस्यत्वि᳓ति ।
+रुद्र᳓ इ᳓त्यब्रुवन् रुद्रो᳓ वै᳓ क्रूर᳓स् सो᳙ ऽस्यत्वि᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -187,7 +187,7 @@ They said, 'Who shall shoot it?' [1]
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीद् ,  
+सो᳙ऽब्रवीद् ,  
 </details>
 
 <details><summary>Keith</summary>

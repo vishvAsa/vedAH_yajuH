@@ -72,7 +72,7 @@ As are men, so were the gods in the beginning.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ ऽकामयन्त᳓ -
+ते᳙ ऽकामयन्त᳓ -
 "अ᳓वर्तिम् पाप्मा᳓नम् मृत्यु᳓म् अपह᳓त्य दै᳓वीँ सँस᳓दङ् गच्छेम᳓"+ इ᳓ति ।
 </details>
 

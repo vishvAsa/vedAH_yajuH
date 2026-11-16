@@ -585,7 +585,7 @@ As each part is performed, the Raksases are fain to injure the sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एष᳓ ख᳓लु वा᳓ अ᳓रक्षोहतᳶ प᳓न्था यो᳙ऽग्नेश्च सू᳓र्यस्य च ।  
+एष᳓ ख᳓लु वा᳓ अ᳓रक्षोहतᳶ प᳓न्था यो᳙ऽग्ने᳓श्च सू᳓र्यस्य च ।  
 </details>
 
 <details><summary>Keith</summary>

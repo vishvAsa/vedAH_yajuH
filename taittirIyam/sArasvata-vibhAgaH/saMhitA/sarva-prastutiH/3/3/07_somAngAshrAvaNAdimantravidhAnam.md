@@ -158,7 +158,7 @@ they had recourse to Prajapati;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीत् ।  
+सो᳙ऽब्रवीत् ।  
 प्रजा᳓पतिश्छ᳓न्दसाव्ँवीर्य᳙मादा᳓य त᳓द्वᳶ प्र᳓ दास्यामी᳓ति ।
 </details>
 

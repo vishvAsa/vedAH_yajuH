@@ -449,7 +449,7 @@ Visnu [2] was another god;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीत् ।  
+सो᳙ऽब्रवीत् ।  
 वि᳓ष्णवे᳓ हीद᳓मा᳓ हरिष्यावो ये᳓नाय᳓मिद᳓मि᳓ति ।
 </details>
 
@@ -561,7 +561,7 @@ By means of the third on earth Indra raised his bolt, aided by Visnu.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीत् ।  
+सो᳙ऽब्रवीत् ।  
 मा᳓ मे प्र᳓ हाः ।  
 </details>
 

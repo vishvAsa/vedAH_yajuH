@@ -179,7 +179,7 @@ He prospers among the priests who knowing thus sacrifices with (the rite) of twe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ ऽस्मिन्न् ऐच्छन्त +++(दक्षिणाम्)+++।
+ते᳙ ऽस्मिन्न् ऐच्छन्त +++(दक्षिणाम्)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -771,7 +771,7 @@ and with the fourth three he purifies himself within.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(तत्र दक्षिणा न भवति।)+++ यो᳓ वा᳓ अस्य पशु᳓म् अ᳓त्ति माँसँ᳓ सोऽत्ति ।
++++(तत्र दक्षिणा न भवति।)+++ यो᳓ वा᳓ अस्य पशु᳓म् अ᳓त्ति माँसँ᳓ सो᳙ऽत्ति ।
 </details>
 
 <details><summary>Keith</summary>

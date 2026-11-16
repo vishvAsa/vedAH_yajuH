@@ -106,7 +106,7 @@ He grasped it, and sacrificed with it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓तो वै᳓ सो ऽन्या᳓भिर् देव᳓ताभिर् व्यावृ᳓तम् अगच्छत् ।  
+त᳓तो वै᳓ सो᳙ ऽन्या᳓भिर् देव᳓ताभिर् व्यावृ᳓तम् अगच्छत् ।  
 </details>
 
 <details><summary>Keith</summary>

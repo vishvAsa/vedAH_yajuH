@@ -187,7 +187,7 @@ They sought violently to take it from him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽरोदीत्।  य᳓द् अ᳓रोदीत् त᳓द् +++(अनुसारकेषु वर्तमानस्य)+++ रुद्र᳓स्य रुद्रत्व᳓म् ।
+सो᳙ऽरोदीत्।  य᳓द् अ᳓रोदीत् त᳓द् +++(अनुसारकेषु वर्तमानस्य)+++ रुद्र᳓स्य रुद्रत्व᳓म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -565,7 +565,7 @@ He who knows thus the prosperity of the re-establishing [3] prospers.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽस्यैव᳓म् बन्धु᳓ताव्ँ वे᳓द ब᳓न्धुमान् भवति ।
+यो᳙ऽस्यैव᳓म् बन्धु᳓ताव्ँ वे᳓द ब᳓न्धुमान् भवति ।
 </details>
 
 <details><summary>Keith</summary>

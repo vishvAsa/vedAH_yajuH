@@ -38,7 +38,7 @@ The seasons, desirous of offspring, could not procure offspring.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽकामयन्त - प्रजाँ᳓ सृजेमहि , प्रजा᳓म᳓व रुन्धीमहि , प्रजाव्ँ᳓ विन्देमहि , प्रजा᳓वन्तस् स्यामे᳓ति᳓ ।
+ते᳙ऽकामयन्त - प्रजाँ᳓ सृजेमहि , प्रजा᳓म᳓व रुन्धीमहि , प्रजाव्ँ᳓ विन्देमहि , प्रजा᳓वन्तस् स्यामे᳓ति᳓ ।
 </details>
 
 <details><summary>Keith</summary>

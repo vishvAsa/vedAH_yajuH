@@ -450,7 +450,7 @@ thou art strength, bestow strength upon me;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यु᳓ङ्ङ् असि।  
+यु᳓ङ्ङ् असि᳙।  
 व᳓र्चो ऽसि ।  
 व᳓र्चो म᳓यि धेहि ।  
 </details>

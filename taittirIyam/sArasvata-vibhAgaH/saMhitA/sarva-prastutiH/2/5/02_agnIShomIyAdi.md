@@ -1321,7 +1321,7 @@ They said, 'We two have lost our brilliance, our brilliance is in Vrtra.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽब्रुवन् -  
+ते᳙ऽब्रुवन् -  
 "क᳓ इद᳓म् +++(ततो लब्धुम्)+++ अ᳓च्छैती᳓"ति ।  
 "गौ᳓र्" इ᳓त्य् अब्रुवन् ।  
 "गौ᳓र् वा᳓व᳓ स᳓र्वस्य मित्र᳓म्" इ᳓ति ।    
@@ -1499,7 +1499,7 @@ ghee indeed is the brilliance of Agni, milk the brilliance of Soma.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एव᳓म् अग्नी᳓षो᳓मयोस् ते᳓जो वे᳓द -  
-तेजस्व्ये᳓व᳓ भवति ।  
+तेजस्व्ये᳙व᳓ भवति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1567,7 +1567,7 @@ The theologians say, 'What is the deity of the full moon (rite)?'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राजापत्य᳓म् इ᳓ति ब्रूयात् -
+प्राजापत्य᳙म् इ᳓ति ब्रूयात् -
 </details>
 
 <details><summary>Keith</summary>

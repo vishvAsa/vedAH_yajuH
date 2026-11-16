@@ -744,7 +744,7 @@ The oblation-holder and the Agnidh's seat should be of Aśvattha wood,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓द्धि᳓ सुवर्ग्य᳓म् ।
+त᳓द्धि᳓ सुवर्ग्य᳙म् ।
 </details>
 
 <details><summary>Keith</summary>

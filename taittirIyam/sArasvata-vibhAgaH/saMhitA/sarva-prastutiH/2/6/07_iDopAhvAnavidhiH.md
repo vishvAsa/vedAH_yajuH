@@ -139,8 +139,8 @@ He found the poured out ghee.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽब्रवीत् ।  
-को᳓ ऽस्येश्वरो᳓ यज्ञे᳓ऽपि क᳓र्तोर् इ᳓ति ।
+सो᳙ ऽब्रवीत् ।  
+को᳙ ऽस्येश्वरो᳓ यज्ञे᳓ऽपि क᳓र्तोर् इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -977,7 +977,7 @@ He invokes four, for cattle are four-footed.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मानवी᳓त्याह ।  
-म᳓नुर् ह्य् ए᳙ता᳓म् अ᳓ग्रे ऽपश्यत् ।  
+म᳓नुर् ह्य् ए᳙ता᳓म् अ᳓ग्रे ऽप᳙श्यत् ।  
 </details>
 
 <details><summary>Keith</summary>

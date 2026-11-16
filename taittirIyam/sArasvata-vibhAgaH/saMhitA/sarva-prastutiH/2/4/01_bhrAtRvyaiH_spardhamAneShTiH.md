@@ -215,7 +215,7 @@ The Raksases (saying), 'Ye have done falsely', surrounded the gods on all sides.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽग्नये प्र᳓वते पुरोडा᳓शमष्टा᳓कपालन्नि᳓रवपन् ।   
+ते᳙ऽग्नये प्र᳓वते पुरोडा᳓शमष्टा᳓कपालन्नि᳓रवपन् ।   
 </details>
 
 <details><summary>Keith</summary>

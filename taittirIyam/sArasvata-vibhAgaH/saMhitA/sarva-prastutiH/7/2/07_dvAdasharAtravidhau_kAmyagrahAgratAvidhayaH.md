@@ -792,7 +792,7 @@ then he becomes not worse.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उक्थ्या᳓ग्रान् गृह्णीत अभिचर्य᳓माणः ।
+उक्थ्या᳙ग्रान् गृह्णीत अभिचर्य᳓माणः ।
 </details>
 
 <details><summary>Keith</summary>

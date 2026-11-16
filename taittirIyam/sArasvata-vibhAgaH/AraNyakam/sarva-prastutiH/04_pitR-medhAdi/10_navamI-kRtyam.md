@@ -154,7 +154,7 @@ O fire, mortal one has not done anything cruel for your body; he (acting) as a m
 
 अ᳓प नश् शो᳓शुचद् अघ᳓म्  
 अ᳓ग्ने शुशुध्या᳓ रयि᳓म् ।  
-अ᳓प नश् शो᳓शुचद् अघम्᳓॥
+अ᳓प नश् शो᳓शुचद् अघ᳓म्॥
 </details>
 
 <details><summary>त्रिभुवनः</summary>

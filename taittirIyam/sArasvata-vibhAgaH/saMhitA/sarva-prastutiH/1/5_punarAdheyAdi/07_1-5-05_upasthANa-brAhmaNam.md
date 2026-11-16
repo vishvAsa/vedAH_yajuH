@@ -19,7 +19,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓यज्ञो वा᳓ एष᳓ योऽसामा᳓।
+अ᳓यज्ञो वा᳓ एष᳓ यो᳙ऽसामा᳓।
 </details>
 
 <details><summary>Keith</summary>

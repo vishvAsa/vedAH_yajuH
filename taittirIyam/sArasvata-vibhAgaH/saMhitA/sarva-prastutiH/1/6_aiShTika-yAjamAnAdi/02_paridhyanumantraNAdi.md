@@ -30,7 +30,7 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवो᳙ऽसि ।  
-ध्रुवो᳓ऽहँ᳓ सजाते᳓षु भूयासन्  
+ध्रुवो᳙ऽहँ᳓ सजाते᳓षु भूयासन्  
 धी᳓रश् चे᳓त्ता वसुवि᳓त्। 
 </details>
 
@@ -75,7 +75,7 @@ Thou art secure; may I be secure among my equals, wise, a guardian, a granter of
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उग्रो᳙ऽस्य् -  
-उग्रो᳓ ऽहँ᳓ सजाते᳓षु भूयासम्,  
+उग्रो᳙ ऽहँ᳓ सजाते᳓षु भूयासम्,  
 उग्र᳓श् चे᳓त्ता वसुवि᳓त् ।
 </details>
 

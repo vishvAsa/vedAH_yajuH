@@ -71,7 +71,7 @@ I depress them, I repel them, in this home, in this world of earth;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-योऽस्मान्द्वेष्टि य᳓ञ्च वय᳓न्द्विष्मः᳓ ।  
+यो᳙ऽस्मा᳓न्द्वेष्टि य᳓ञ्च वय᳓न्द्विष्मः᳓ ।  
 वि᳓ष्णोᳵ क्र᳓मेणा᳓त्येनान्क्रामामि ।  
 </details>
 

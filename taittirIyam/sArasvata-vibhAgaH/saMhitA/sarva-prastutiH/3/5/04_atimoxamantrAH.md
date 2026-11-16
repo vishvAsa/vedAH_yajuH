@@ -469,7 +469,7 @@ he severs him from his metre, if he offers on five potsherds;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अष्टा᳓कपालᳵ कार्यः᳓ ।  
+अष्टा᳓कपालᳵ कार्यः᳙ ।  
 </details>
 
 <details><summary>Keith</summary>

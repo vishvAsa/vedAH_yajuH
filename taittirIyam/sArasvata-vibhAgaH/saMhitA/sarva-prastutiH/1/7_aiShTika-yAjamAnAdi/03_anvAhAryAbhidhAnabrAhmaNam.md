@@ -454,7 +454,7 @@ He who knowing thus brings the Anvaharya, accomplishes at once sacrifice and sat
 ## मन्त्र-निरुक्तयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजा᳓पतेर् भागो᳙ऽसि [13] +इ᳓त्याह ।  
+प्रजा᳓पतेर् भागो᳙ऽसि᳓ [13] +इ᳓त्याह ।  
 प्रजा᳓पतिम् एव᳓ भागधे᳓येन स᳓मर्धयति  ।  
 </details>
 

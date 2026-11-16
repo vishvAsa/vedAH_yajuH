@@ -94,7 +94,7 @@ he created serpents.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽकामयत प्रजा᳓स्सृजेये᳓ति ।  
+सो᳙ऽकामयत प्रजा᳓स्सृजेये᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -169,7 +169,7 @@ he created birds.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽकामयत प्रजा᳓स्सृजेये᳓ति ।  
+सो᳙ऽकामयत प्रजा᳓स्सृजेये᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -621,7 +621,7 @@ they do not destroy his force, might, consecration, or penance.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र्वै᳓ दीक्षित᳓स्य देव᳓ता᳓ ।   
-सो᳓ऽस्मादेत᳓र्हि तिर᳓ इव य᳓र्हि या᳓ति᳓ ।   
+सो᳙ऽस्मादेत᳓र्हि तिर᳓ इव य᳓र्हि या᳓ति᳓ ।   
 त᳓मीश्वरँ᳓ र᳓क्षाँसि ह᳓न्तोः ।   
 </details>
 

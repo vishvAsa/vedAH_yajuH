@@ -66,7 +66,7 @@ The gods and the Asuras were in conflict; the gods said,
 त᳓ इ᳓न्द्रमब्रुवन् ।   
 त्वव्ँ᳓ वै᳓ नो वीर्या᳙वत्तमोऽसि ।  
 त्वा᳓म᳓नु समा᳓रभामहा इ᳓ति ।  
-सो᳓ऽब्रवीत् ।  
+सो᳙ऽब्रवीत् ।  
 </details>
 
 <details><summary>Keith</summary>

@@ -59,7 +59,7 @@ The theologians say,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽग्निष्टोमे᳓न य᳓जमानोऽथ स᳓र्वस्तोमेन  य᳓जेते᳓ति ।
+यो᳙ऽग्निष्टोमे᳓न य᳓जमानोऽथ स᳓र्वस्तोमेन  य᳓जेते᳓ति ।
 </details>
 
 <details><summary>Keith</summary>

@@ -68,7 +68,7 @@ On their creation Indra and Agni hid them away.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽचायत्प्रजा᳓पतिः ।
+सो᳙ऽचायत्प्रजा᳓पतिः ।
 </details>
 
 <details><summary>Keith</summary>

@@ -247,7 +247,7 @@ The gods said to Prajapati, 'Let us have offspring.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीत्- यथाहय्ँ᳓ युष्माँ᳓स् त᳓पसा᳓सृक्षि, एव᳓न् त᳓पसि प्रज᳓ननम् इच्छध्वम् इ᳓ति ।
+सो᳙ऽब्रवीत्- यथाहय्ँ᳓ युष्माँ᳓स् त᳓पसा᳓सृक्षि, एव᳓न् त᳓पसि प्रज᳓ननम् इच्छध्वम् इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -325,7 +325,7 @@ He gave to them Agni as a support, saying, 'Strive with that support.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽग्निना ऽऽय᳓तनेना ऽश्राम्यन्।
+ते᳙ऽग्निना ऽऽय᳓तनेना ऽश्राम्यन्।
 </details>
 
 <details><summary>Keith</summary>
@@ -521,7 +521,7 @@ The gods said to Prajapati, 'Cause sacrifice to be made to us with a thousand.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽग्निष्टोमे᳓न व᳓सून् अयाजयत्।
+सो᳙ ऽग्निष्टोमे᳓न व᳓सून् अयाजयत्।
 </details>
 
 <details><summary>Keith</summary>
@@ -594,7 +594,7 @@ He caused sacrifice to be made by the Rudras with the Ukthya.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽन्त᳓रिक्षम् अजयन्। त᳓च् +++(३३३-गोधनं)+++ चाददुः।
+ते᳙ऽन्त᳓रिक्षम् अजयन्। त᳓च् +++(३३३-गोधनं)+++ चाददुः।
 </details>
 
 <details><summary>Keith</summary>
@@ -614,7 +614,7 @@ They won the atmosphere and gave (the thousand).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽतिरात्रे᳓णाऽऽदित्या᳓न् अयाजयत्।
+सो᳙ ऽतिरात्रे᳓णाऽऽदित्या᳓न् अयाजयत्।
 </details>
 
 <details><summary>Keith</summary>
@@ -634,7 +634,7 @@ He caused sacrifice to be made by the Adityas with the Atiratra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽमुल्ँ लोक᳓म् अजयन्। त᳓च् +++(३३३-गोधनं)+++ चाददुः।
+ते᳙ऽमुल्ँ लोक᳓म् अजयन्। त᳓च् +++(३३३-गोधनं)+++ चाददुः।
 </details>
 
 <details><summary>Keith</summary>

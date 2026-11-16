@@ -150,7 +150,7 @@ them he would not return;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीत्  ।   
+सो᳙ऽब्रवीत्  ।   
 ऋ᳓त᳓ममीष्व ।  
 </details>
 

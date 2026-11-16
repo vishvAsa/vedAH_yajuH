@@ -104,7 +104,7 @@ The gods desired,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽजुहवुस् -
+ते᳙ऽजुहवुस् -
 </details>
 
 <details><summary>Keith</summary>
@@ -220,7 +220,7 @@ Having overcome the Asuras, their foes, they felt desire,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽजुहवुः ।
+ते᳙ऽजुहवुः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -332,7 +332,7 @@ They having obtained offspring [1] felt desire,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽजुहवुः ।
+ते᳙ऽजुहवुः ।
 सिँही᳓रसि रायस्पोषव᳓निस्स्वा᳓हे᳓ति ।  
 </details>
 
@@ -426,7 +426,7 @@ Having obtained cattle, they felt desire,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽजुहवुस् -
+ते᳙ऽजुहवुस् -
 </details>
 
 <details><summary>Keith</summary>
@@ -541,7 +541,7 @@ Having found support here, they felt desire,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽजुहवुस्  -
+ते᳙ऽजुहवुस्  -
 </details>
 
 <details><summary>Keith</summary>
@@ -1143,7 +1143,7 @@ Return to us; bear the offering for us.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीद् - व᳓रव्ँवृणै य᳓देव᳓ गृहीत᳓स्या᳓हुतस्य बहिᳶपरिधि᳓ स्क᳓न्दात् त᳓न्मे भ्रा᳓तृणाम् भागधे᳓यमसदि᳓ति  ।  
+सो᳙ऽब्रवीद् - व᳓रव्ँवृणै य᳓देव᳓ गृहीत᳓स्या᳓हुतस्य बहिᳶपरिधि᳓ स्क᳓न्दात् त᳓न्मे भ्रा᳓तृणाम् भागधे᳓यमसदि᳓ति  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1213,7 +1213,7 @@ verily therewith be delights them.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽमन्यत  -
+सो᳙ऽमन्यत  -
 </details>
 
 <details><summary>Keith</summary>

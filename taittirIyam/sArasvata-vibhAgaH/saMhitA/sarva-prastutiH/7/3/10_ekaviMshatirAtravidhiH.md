@@ -1021,7 +1021,7 @@ he grasped it, and sacrificed with it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓तो वै᳓ सोऽरोचत ।
+त᳓तो वै᳓ सो᳙ऽरोचत ।
 </details>
 
 <details><summary>Keith</summary>

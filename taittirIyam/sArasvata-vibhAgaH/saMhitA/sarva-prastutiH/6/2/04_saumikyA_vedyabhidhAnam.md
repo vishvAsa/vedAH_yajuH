@@ -319,7 +319,7 @@ Indra passed over him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीत् ,
+सो᳙ऽब्रवीत् ,
 को᳓ माय᳓मुप᳓र्युपर्य᳓त्यक्रमीदि᳓ति ।
 </details>
 
@@ -395,7 +395,7 @@ He said, 'Who has passed over me?'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीद् —  
+सो᳙ऽब्रवीद् —  
 > दुर्गे᳓ वै᳓ ह᳓न्ता ऽवोचथा,  
 > वराहो᳙ऽयव्ँ᳓ वाममोष᳓स् [21]  
 > स᳓प्ताना᳓ङ् गिरीणा᳓म् पर᳓स्ताद् वित्तव्ँ᳓ वे᳓द्यम् अ᳓सुराणाम् बिभर्ति ,  
@@ -450,7 +450,7 @@ He plucked out a bunch of Darbha grass, pierced the seven hills, and smote him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽब्रवीद् दुर्गा᳓द् वा᳓ आ᳓हर्ता ऽवोचथा एत᳓म् +++(हतं यज्ञवराहं)+++ आ᳓ हरे᳓ति ।  
+सो᳙ ऽब्रवीद् दुर्गा᳓द् वा᳓ आ᳓हर्ता ऽवोचथा एत᳓म् +++(हतं यज्ञवराहं)+++ आ᳓ हरे᳓ति ।  
 </details>
 
 <details><summary>Keith</summary>

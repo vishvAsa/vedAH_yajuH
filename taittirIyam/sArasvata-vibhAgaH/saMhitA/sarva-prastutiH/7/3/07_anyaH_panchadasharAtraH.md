@@ -267,7 +267,7 @@ Fifteen indeed are the nights of the half-month, the year is made up of half-mon
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓स्मात् पशव्याः᳓।
+त᳓स्मात् पशव्याः᳙।
 </details>
 
 <details><summary>Keith</summary>

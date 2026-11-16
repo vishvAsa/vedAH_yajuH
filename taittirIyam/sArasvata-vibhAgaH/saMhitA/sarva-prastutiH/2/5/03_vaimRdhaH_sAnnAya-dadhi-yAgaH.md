@@ -102,7 +102,7 @@ He offered it, and with it drove away his enemies.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓द् वैमृधᳶ᳓ पूर्ण᳓मासे ऽनुनिर्वाप्यो᳓ भ᳓वति  
+य᳓द् वैमृधᳶ᳓ पूर्ण᳓मासे ऽनुनिर्वाप्यो᳙ भ᳓वति  
 मृ᳓ध एव᳓ ते᳓न य᳓जमानो᳓ऽप हते ।
  ।
 </details>
@@ -217,7 +217,7 @@ He offered it, and by it he won the gods and his power.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓द् आग्नेयो᳓ ऽष्टा᳓कपालो ऽमावास्या᳙याम् भ᳓वत्य् ऐन्द्र᳓न् द᳓धि,  
+य᳓द् आग्नेयो᳙ ऽष्टा᳓कपालो ऽमावास्या᳙याम् भ᳓वत्य् ऐन्द्र᳓न् द᳓धि,  
 देव᳓ताश् चैव᳓ ते᳓नेन्द्रिय᳓ञ् च य᳓जमानो᳓ऽव रुन्द्धे ।
 </details>
 
@@ -1313,7 +1313,7 @@ The gods sought to start him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीत् प्रजा᳓पतिर्
+सो᳙ऽब्रवीत् प्रजा᳓पतिर्
 "यᳶ᳓ प्रथमो᳙ऽनुविन्द᳓ति त᳓स्य प्रथम᳓म् भागधे᳓यम्" इ᳓ति ।
 </details>
 
@@ -1399,7 +1399,7 @@ therefore an offering is made to the Pitrs on the day before.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽमावास्या᳓म् प्र᳓त्या᳓गच्छत् ।
+सो᳙ऽमावास्या᳙म् प्र᳓त्या᳓गच्छत् ।
 </details>
 
 <details><summary>Keith</summary>
