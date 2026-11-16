@@ -88,7 +88,7 @@ He, who knows thus, becomes the possessor of flower, progeny and cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
+यो᳙ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
 आय᳓तनवान् भवति ।
 </details>
 
@@ -216,7 +216,7 @@ He, who knows thus, becomes the possessor of an abode (1).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
+यो᳙ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
 आय᳓तनवान् भवति ।
 </details>
 
@@ -351,7 +351,7 @@ He, who knows thus, becomes the possessor of an abode.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
+यो᳙ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
 आय᳓तनवान् भवति ।
 </details>
 
@@ -480,7 +480,7 @@ He, who knows thus, becomes the possessor of an abode.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
+यो᳙ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
 आय᳓तनवान् भवति ।
 </details>
 
@@ -612,7 +612,7 @@ He, who knows thus, becomes the possessor of an abode.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
+यो᳙ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
 आय᳓तनवान् भवति ।
 </details>
 
@@ -746,7 +746,7 @@ He, who knows thus, becomes the possessor of an abode.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
+यो᳙ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
 आय᳓तनवान् भवति ।
 </details>
 
@@ -876,7 +876,7 @@ He, who knows thus, becomes the possessor of an abode.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
+यो᳙ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
 आय᳓तनवान् भवति ।
 </details>
 
