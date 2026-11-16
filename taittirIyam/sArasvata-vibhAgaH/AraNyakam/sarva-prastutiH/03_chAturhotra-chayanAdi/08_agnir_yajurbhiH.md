@@ -135,7 +135,7 @@ the waters, by the prokṣaṇīs (vessels for putting the holy water);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओ᳓षधयो बर्हिषा᳙ ।
+ओ᳓षधयो बर्हि᳓षा ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -145,7 +145,7 @@ the plants, by the Barhi-grass;
 
 <details><summary>मूलम्</summary>
 
-ओष॑धयो बर्हि॒षा॑ ।
+ओष॑धयो ब॒र्हिषा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

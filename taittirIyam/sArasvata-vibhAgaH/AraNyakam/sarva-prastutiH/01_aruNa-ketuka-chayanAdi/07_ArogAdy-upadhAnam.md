@@ -139,7 +139,7 @@ A Rc. has been quoted.
 4–8. Description of the suns.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 ते अस्मै सर्वे कश्यपाज्ज्योतिर्लभन्ते ।
 </details>
@@ -232,7 +232,7 @@ Soma purifies them well like the goldsmith (who purifies gold by filling air to 
 अथ अपश्यं चक्षुर्भ्यामेव दृष्टवान् एतान् सप्तसूर्यान् याथातथ्येन जानामि इति पञ्चकर्णो नाम वात्स्यायनः वत्सस्य पुत्रः । तथा सप्तकर्णो नाम प्लाक्षिः प्लक्षपुत्रः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 आनुश्रविक एव नौ कश्यप इति ।
 </details>

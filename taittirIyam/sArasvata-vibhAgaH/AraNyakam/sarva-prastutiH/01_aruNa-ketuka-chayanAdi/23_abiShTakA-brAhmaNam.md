@@ -259,7 +259,7 @@ which (were) the hairs, they became Vālakhilyas;
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ र᳓सः ।  
-सो᳓ऽपाम् ।  
+सो᳙ऽपा᳓म् ।  
 अन्तरतः᳓ कूर्मं᳓ भूतँ᳓ स᳓र्पन्तम् ।
 </details>
 

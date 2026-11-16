@@ -52,7 +52,7 @@ and they defeated the Asuras, having no well-performed sacrifice.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓सृतो ह वै᳓ यज्ञोपवीति᳓नो यज्ञो᳓,  
-ऽप्रसृतो᳓ ऽनुपवीति᳓नः᳓।
+ऽप्रसृतो᳓ ऽनुपवीति᳓नः।
 </details>
 
 <details><summary>त्रिभुवनः</summary>

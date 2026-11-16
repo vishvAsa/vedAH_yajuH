@@ -15,7 +15,7 @@ Brāhmaṇas (praises etc.) relating to the placing of bricks. 1–9. Waters as 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽपां᳓ पु᳓ष्पव्ँ वे᳓द  
+[[यो᳓|यो᳙]]ऽपां᳓ पु᳓ष्पव्ँ वे᳓द  
 पु᳓ष्पवान् प्रजा᳓वान् पशुमा᳓न्+++(→ह्रस्वनुड्भ्यां मतुप्। उदात्तः।)+++ भवति ।
 </details>
 
@@ -158,7 +158,7 @@ The fire is, verily, the abode of the waters.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ ऽग्नेर् आय᳓तनव्ँ वे᳓द[77]  
+यो᳙ ऽग्ने᳓र् आय᳓तनव्ँ वे᳓द[77]  
 आय᳓तनवान् भवति ।
 </details>
 
@@ -421,7 +421,7 @@ That burning (sun) is, verily, the abode of the waters.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽमु᳓ष्य त᳓पत आय᳓तनव्ँ वे᳓द ।  
+[[यो᳓|यो᳙]]ऽमु᳓ष्य त᳓पत आय᳓तनव्ँ वे᳓द ।  
 आय᳓तनवान् भवति ।
 </details>
 
@@ -996,7 +996,7 @@ He, who knows thus, becomes the possessor of an abode.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽप्सु᳓ ना᳓वं प्र᳓तिष्ठिताव्ँ +++(←क्ते कर्मणि स्वरः)+++ वे᳓द ।  
+[[यो᳓|यो᳙]]ऽप्सु᳓ ना᳓वं प्र᳓तिष्ठिताव्ँ +++(←क्ते कर्मणि स्वरः)+++ वे᳓द ।  
 प्र᳓त्य् एव᳓ तिष्ठति ।  
 [83]
 </details>

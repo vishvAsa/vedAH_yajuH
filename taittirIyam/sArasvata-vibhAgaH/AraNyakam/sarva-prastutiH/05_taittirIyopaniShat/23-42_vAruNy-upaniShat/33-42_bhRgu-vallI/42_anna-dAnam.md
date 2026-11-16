@@ -759,7 +759,7 @@ roaming in these worlds according to his desire, and having food according to hi
 इमाल्ँ लोकान्कामान्नी कामरूप्य॑नुस॒ञ्चरन् । एतत्साम गा॑यन्ना॒स्ते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - साम</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - साम (स्वराः पूर्याः)</summary>
 
 हा+++(३)+++वु हा+++(३)+++वु हा+++(३)+++वु ।  
 अहमन्नमहमन्नमहमन्नम् ।  

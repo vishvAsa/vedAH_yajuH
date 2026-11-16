@@ -232,8 +232,8 @@ As to that this has been said:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > सत्यं᳓ ज्ञान᳓म् अनन्तं᳓ ब्र᳓ह्म ।  
-यो᳓ वे᳓द नि᳓हितङ् गु᳓हायां परमे᳓ व्योमन्।  
-सो᳓ऽश्नुते स᳓र्वान् का᳓मान्त्  
+यो᳓ वे᳓द नि᳓हितङ् गु᳓हायां परमे᳓ [[व्योमन्|व्यो᳙मन्]]।  
+[[सो᳓ऽश्नुते|सो᳙ऽश्नुते]] स᳓र्वान् का᳓मान्त्  
 सह᳓ ब्र᳓ह्मणा विपश्चि᳓ता॥
 
 इ᳓ति ।
@@ -614,7 +614,7 @@ from earth, plants; from plants, food; from food, man.
 पुरुषः शरीरमित्यर्थः । शिष्टं स्पष्टम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 स वा एष पुरुषो ऽन्न-रसमयः ।
 </details>
@@ -1047,7 +1047,7 @@ by him this is filled.
 तेन इति । तेन प्राणमयेन आत्मना अयम् अन्नरसमय आत्मा पूर्ण इत्यर्थः । व्याप्त इति यावत् । सर्वस्यापि देहस्य प्राणव्याप्यत्वादिति भावः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 स वा एष पुरुषविध एव ।
 </details>
@@ -1408,7 +1408,7 @@ by him this is filled.
 तेनैष इत्यादि । पूर्ववदर्थः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 स वा एष पुरुषविध एव ।
 </details>
@@ -1511,7 +1511,7 @@ Of him the yajus itself is the head;
 आदेश आत्मा इति । इदं करु, इदं मा कार्षीः इति विधि-निषेधरूपं रहस्यानुशासनं आदेशशब्देन उच्यते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 अथर्वाङ्गिरसः पुच्छं प्रतिष्ठा ।
 </details>
@@ -1681,7 +1681,7 @@ by him this is filled.
 तेनै॑ष पू॒र्णः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 स वा एष पुरुषविध एव ।
 </details>
@@ -1913,7 +1913,7 @@ If (one) understands knowledge as Brahman (and) if from That he does not swerve,
 
 <details><summary>मूलम्</summary>
 
-वि॒ज्ञानं॒+++(→जीव-प्रकारकं)+++ ब्रह्म॒ चेद् वेद॑,  
+वि॒ज्ञानं॒ ब्रह्म॒ चेद् वेद॑,  
 तस्मा॒च् चेन् न प्र॒माद्य॑ति ।  
 शरीरे॑ पाप्म॑नो हि॒त्वा,  
 सर्वान् कामान्त् समश्नु॑त  
@@ -1940,7 +1940,7 @@ If (one) understands knowledge as Brahman (and) if from That he does not swerve,
 विज्ञानं ब्रह्म इति । यस्तु जीवरूपं ब्रह्म वेद, 'तस्माञ्च जीवात् अन्तिमप्रत्ययपर्यन्तं न प्रमाद्यति चेत्, शरीरे पाप्मनो हित्वा - देहे वर्तमाने एव विनष्टाश्लिष्टपूर्वोत्तराघः सर्वान् कामान् समश्नुते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 तस्यैष एव शारीर +++(परम-)+++आत्मा, यः पूर्वस्य +++(मनोमयस्य)+++।
 </details>
@@ -2275,7 +2275,7 @@ Or does anyone, who knows, obtain the yonder world after departure (from this wo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽकामयत - बहु᳓ स्यां प्र᳓जायेये᳓ति ।
+सो᳙ऽकामयत - बहु᳓ स्यां प्र᳓जायेये᳓ति ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2745,7 +2745,7 @@ Verily, what, that is well-done (or self-done), that, verily, is essence (rasa).
 
 <details><summary>मूलम्</summary>
 
-यद् वै॑ तत् सु॒कृतम् - र॑सो वै॒ सः ।
+यद् वै॑ तत् सु॒कृतम् । र॑सो वै॒ सः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2763,7 +2763,7 @@ Verily, what, that is well-done (or self-done), that, verily, is essence (rasa).
 भवतु तत्सुकृतम् । तस्य उपास्यत्वप्राप्यत्वयोः किम् आयातम् इत्यत्राह - यद्वा इति । सुकृतमिति निर्दिष्टं ब्रह्म रसः आनन्दः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 रसँ ह्य् एवायल्ँ लब्ध्वा ऽऽनन्दी भवति ।
 </details>
@@ -2780,7 +2780,7 @@ For on getting the essence, truly, (one) becomes blissful.
 
 <details><summary>रङ्ग-रामानुजः - विषय-वाक्य-दीपिका</summary>
 
-तल्लाभाद् [[अस्यानदित्वम्|अस्य आनन्दित्वम्]] । ततश् च तस्यानन्दत्वात् प्राप्यत्व-उपास्यत्वे युक्त इति भावः ॥
+तल्लाभाद् अस्याआनन्दित्वम् । ततश् च तस्यानन्दत्वात् प्राप्यत्व-उपास्यत्वे युक्त इति भावः ॥
 </details>
 
 <details><summary>रङ्ग-रामानुजः - विषय-वाक्य-दीपिका</summary>
@@ -2945,7 +2945,7 @@ When, however, this (ātman) makes any little difference in this (Brahman), then
 एवं विहितायाः प्रतिष्ठायाः विच्छेदें अनर्थं दर्शयति - यदा हि इति । एषः - उपासकः । एतस्मिन् - परमात्मनि , ध्यानस्य अन्तरम् - विच्छेद, अरम् - अल्पमपि यः कुरुते तस्य भयम् उद्भवति इत्यर्थः । पूर्ववाक्ये प्रतिष्ठाशब्देन निरन्तरध्यानवाचिना ध्यानगतनैरन्तर्यस्य विहितत्वात् अत्र अन्तरशब्देनापि तस्यैव ध्यानगतनैरन्तर्यस्य विरोधिनो ध्यानविच्छेदस्य ग्रहणम् उचितम् ; न तु परोक्तरीत्या । ब्रह्मणि अन्तरं भेदं यः कुरुते जानाति। इत्यर्थः उचितः इति द्रष्टव्यम् । वस्तुतस्तु ब्रह्मैक्यवादिनाम् अस्माकं ब्रह्मणि नानात्वनिषेधो न प्रतिकूलः । अस्माभिः नानाब्रह्मवादस्य अनभ्युपगमात् । तथापि प्रकरणानुगुण्यात् उक्तः एवार्थः उचितः इति द्रष्टव्यम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 तत् त्व् एव भयव्ँ +++(ब्रह्म-)+++विदुषो +++(निरन्तरम्)+++ ऽमन्वानस्य ।
 </details>
@@ -3061,7 +3061,7 @@ Through fear of Him the wind (vāyu) blows; through fear the sun (sūrya) rises;
 आनन्दमय-शब्द-प्रवृत्ति-निमित्तम् आनन्द-प्राचुर्यं दर्शयति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 सैषाऽऽनन्दस्य मीमाँसा भवति ।
 </details>
@@ -3125,7 +3125,7 @@ Let there be a youth,
 युवा स्यादित्यत्र स्यादिति सम्भावनायां लिङ् । युवत्वादिगुणको यदि कश्चित् सम्भवेत् तस्य सम्बन्धी य आनन्दः स एको विशिष्टः निरुपमानो वा मानुष आनन्दस् ततोऽधिको मनुष्याधिकारिणामानन्दो नास्ति । एवं मनुष्यप्रत्यायनार्थत्वात् शास्त्रस्य मनुष्यानन्दमेव प्रथमं दर्शयति - युवा तरुण आनन्दहेतुर्वयो दर्शितम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 साधु युवा ऽध्यायकः - आशिष्ठो+++(←आशु/ आशीः)+++ द्रढिष्ठो बलिष्ठः ।
 </details>
@@ -3145,7 +3145,7 @@ a good youth (sadā-yuva), studious, most quick, most firm and most vigorous;
 साधु सम्यक् शुद्धसम्प्रदायः योऽध्येतव्यानि साङ्गेतिहासशास्त्रादीनि युवैवाधीते स साधुयुवाध्यायिकः। विद्यानन्दोऽयम् । आशिष्ठ आशुतमः विधेयशरीरः । शरीरानन्दोऽयम् । इष्टनि 'टेः' इति टिलोपः । केचिदाहुः - आशिष्ठ आशितृतमः भोगानन्दवान् । आशितृशब्दादिष्ठनि 'तुरिष्ठेमेयस्सु' इति लोपः । दृढिष्ठः दृढतम आरोग्यानन्दवान् । बलिष्ठः बलवत्तमः महाबलः बलानन्दवान् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 तस्येयं पृथिवी सर्वा वित्तस्य पूर्णा स्यात् ।
 </details>
@@ -3165,7 +3165,7 @@ let this whole earth be full of wealth for him.
 अथ तस्य तादृशस्य यथोक्तवयःप्रभृतिहेतुकानन्दशालिनः पुंस इयं पृथिवी सर्वाऽपि स्वभूता यदि स्यात् कीदृशी वित्तस्य पूर्णा गोभूमिहिरण्यगजाश्वादिभिर्धनैः सर्वतस्समृद्धा महापृथिवी स्वभूता स्यात् पृथिवीश्वर इति यावत् । 'पूरणगुण' इति समासप्रतिषेधेन षष्ठी ज्ञापिता ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 स एको मानुष आनन्दः ।
 </details>
@@ -3246,7 +3246,7 @@ That is one human bliss.
 अनुकूलत्वं हि आनन्दत्वम् । तञ्च स्वतः एव। इष्टत्वम् । तञ्च गुणविभूत्योः अपि सम्भवति । तद्विषयज्ञानस्यापि अनुकूलत्वं विषयानुकूलत्वप्रयुक्तमेव इति अन्वयव्यतिरेकसिद्धम् । अतः श्रुतिस्वारस्यात् गुणविभूत्यादेः। आनन्दत्वम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 ते ये शतं मानुषा आनन्दाः । स एको मनुष्यगन्धर्वाणाम् आनन्दः +++(अवर-मानेन / lower-bound)+++। श्रोत्रियस्य चाकामहतस्य +++(→ मुक्तस्य)+++।
 </details>
@@ -3296,7 +3296,7 @@ Such hundred human blisses (1) are one bliss of the human Gandharvas as well as 
 ते मनुष्यगन्धर्वाः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 ते ये शतं मनुष्यगन्धर्वाणाम् आनन्दाः - स एको देवगन्धर्वाणाम् आनन्दः - श्रोत्रियस्य चाकामहतस्य ।
 </details>
@@ -3326,7 +3326,7 @@ Such hundred blisses of the human Gandharvas are one bliss of the divine Gandhar
 अन्तरिक्षलोकवासिनः देवगन्धर्वाः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 ते ये शतन् देवगन्धर्वाणाम् आनन्दाः - स एकः पितृणाञ् चिर-लोक-लोकानाम् आनन्दः - श्रोत्रियस्य चाकामहतस्य ।
 </details>
@@ -3356,7 +3356,7 @@ Such hundred blisses of the divine Gandharvas are one bliss of the fathers of lo
 चिरकालस्थायी लोकः चिरलोकः । चिरलोको लोको येषांते चिरलोकलोकाः पितरः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 ते ये शतं पितृणाञ् चिरलोकलोकानाम् आनन्दाः - स एक आजान+++(=देवलोक)+++-जानान् देवानाम् आनन्दः - श्रोत्रियस्य चाकामहतस्य ।
 </details>
@@ -3386,7 +3386,7 @@ Such hundred blisses of the fathers of the long-enduring world are one bliss of 
 आजानः - देवलोकः तत्र जाताः आजानजाः । स्मार्तकर्मविशेषतो देवस्थानेषु जाता इत्यर्थः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 ते ये शतमाजानजानान् देवानाम् आनन्दाः - स एकः कर्मदेवानान् देवानाम् आनन्दः ।  
 ये कर्मणा देवान् अपियन्ति । श्रोत्रियस्य चाकामहतस्य ।
@@ -3418,7 +3418,7 @@ Such hundred blisses of the gods born in the divine world are one bliss of the g
 अग्निहोत्रादिकर्मणा अग्नीन्द्रादिसायुज्यं प्राप्ताः कर्मदेवाः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 ते ये शतङ् कर्मदेवानान् देवानामानन्दाः - स एको देवानाम् आनन्दः - श्रोत्रियस्य चाकामहतस्य ।
 </details>
@@ -3448,7 +3448,7 @@ Such hundred blisses of the gods divine by work are one bliss of gods as well as
 देवास्तु वसुरुद्रादयः त्रयस्त्रिंशत् हविर्भुजः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 ते ये शतन् देवानाम् आनन्दाः - स एक इन्द्रस्यानन्दः - श्रोत्रियस्य चाकामहतस्य ।
 </details>
@@ -3478,7 +3478,7 @@ Such hundred blisses of gods are one bliss of Indra (3) as well as of one well-v
 इन्द्रबृहस्पती प्रसिद्धौ ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 ते ये शतम् इन्द्रस्यानन्दाः - स एको बृहस्पतेर् आनन्दः - श्रोत्रियस्य चाकामहतस्य ।
 </details>
@@ -3498,7 +3498,7 @@ Such hundred blisses of Indra are one bliss of Bṛhaspati as well as of one wel
 बृहस्पतिर् इन्द्रपुरोहितः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 ते ये शतं बृहस्पतेर् आनन्दाः - स एकः प्रजापतेर् आनन्दः - श्रोत्रियस्य चाकामहतस्य ।
 </details>
@@ -3528,7 +3528,7 @@ Such hundred blisses of Bṛhaspati are one bliss of Prajāpati as well as of on
 प्रजापतिः चतुर्मुखः; न तु दक्षादयः, एकवचनश्रवणात् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 ते ये शतं प्रजापतेर् आनन्दाः -  
 स एको ब्रह्मण आनन्दः - श्रोत्रियस्य चाकामहतस्य ।
@@ -3894,7 +3894,7 @@ Whence words turn back together with the mind without reaching, he who knows tha
 
 <details><summary>मूलम्</summary>
 
-यतो॒ वाचो॒ निव॑र्तन्ते  
+यतो॒ वाचो॒ निव॑र्तन्ते ।  
 अप्रा॑प्य॒ मन॑सा स॒ह ।  
 आनन्दं ब्रह्म॑णो वि॒द्वान्  
 न बिभेति कुत॑श्चने॒ति ।

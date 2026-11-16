@@ -1437,7 +1437,7 @@ by food, indeed, all the vital breaths are glorified.
 ### फलश्रुतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता᳓ वा᳓ एता᳓श् चतस्रश् चतुर्धा᳓, च᳓तस्रश् चतस्रो व्या᳓हृतयः ।
+ता᳓ वा᳓ एता᳓श् च᳓तस्रश् चतुर्धा᳓, च᳓तस्रश् चतस्रो व्या᳓हृतयः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -1447,7 +1447,7 @@ They, verily, these four (are) fourfold; four, four (are) the utterances (vyāh�
 
 <details><summary>मूलम्</summary>
 
-ता वा ए॒ताश् च॑तस्रश् चतु॒र्धा, चत॑स्रश् चतस्रो॒ व्याहृ॑तयः ।
+ता वा ए॒ताश् चत॑स्रश् चतु॒र्धा, चत॑स्रश् चतस्रो॒ व्याहृ॑तयः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1521,7 +1521,7 @@ This space that is within the heart, therein is this Person (Puruṣa), consisti
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓न्तरेण ता᳓लुके ।  
-य᳓ एष᳓ स्त᳓न इवावल᳓म्बते, से᳓न्द्रयोनिः᳓ ।  
+य᳓ एष᳓ स्त᳓न इवावल᳓म्बते, से᳙न्द्रयोनिः᳓ ।  
 य᳓त्रासौ᳓ केशान्तो᳓ विव᳓र्तते, व्यपो᳓ह्य शीर्षकपाले᳓।
 </details>
 

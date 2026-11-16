@@ -115,7 +115,7 @@ Rudra with the taniman,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प᳓शुप᳓तिँ स्थूल-हृदये᳓न᳓  +++(यजामि)+++ ।
+पशुप᳓तिँ स्थूल-हृदये᳓न  +++(यजामि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -130,7 +130,7 @@ for Paśupati (lord of cattle) by the fat heart,
 
 <details><summary>मूलम्</summary>
 
-पशु॒पतिँ॑ स्थूलहृद॒येन  +++(यजामि)+++ ।
+प॒शु॒पतिँ॑ स्थूलहृद॒येन॑  +++(यजामि)+++ ।
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -90,7 +90,7 @@ Meaning of the Mantra given in 10.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽमु᳓ष्मिन्नादित्ये᳓ समा᳓भृताः ।
+[[ते᳓|ते᳙]]ऽमु᳓ष्मिन्नादित्ये᳓ समा᳓भृताः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -567,7 +567,7 @@ Thus. (Giving in the result) that (God or Sun) who does not go leaving (the worl
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽग्ने᳓र्मिथूया᳓ वे᳓द ।  
+[[यो᳓|यो᳙]]ऽग्ने᳓र्मिथूया᳓ वे᳓द ।  
 मिथुनवा᳓न्भवति ।
 </details>
 

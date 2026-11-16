@@ -379,7 +379,7 @@ for this fire is collected in the Uttara Vedi (5).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राजापत्यो᳓ वा᳓ एषो᳙ऽग्निः ।
+प्राजापत्यो᳓ वा᳓ एषो᳙ऽग्निः᳓ ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -835,7 +835,7 @@ should not bathe without clothes;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गु᳓ह्यो वा᳓ एषो᳙ऽग्निः +++(यो ऽद्भ्य उत्पन्नः)+++ ।  
+गु᳓ह्यो वा᳓ एषो᳙ऽग्निः᳓ +++(यो ऽद्भ्य उत्पन्नः)+++ ।  
 एत᳓स्याग्ने᳓र् अ᳓नति-दाहाय ।
 </details>
 

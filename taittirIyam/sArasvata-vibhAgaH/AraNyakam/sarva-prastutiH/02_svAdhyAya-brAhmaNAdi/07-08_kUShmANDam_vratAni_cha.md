@@ -433,7 +433,7 @@ he purifies himself by the year.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ मा᳓सस् स᳓ सव्ँवत्सर᳓स्, सव्ँ᳓वत्सरा᳓देवा᳓त्मा᳓नं पुनीते।
+यो᳓ मा᳓सस् स᳓ सव्ँवत्सर᳓स्, [[सव्ँ᳓वत्सरा᳓देवा᳓त्मा᳓नं|सव्ँवत्सरा᳓देवा᳓त्मा᳓नं]] पुनीते।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -464,7 +464,7 @@ what is a month, that is the year (because the year is the collection of the mon
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुर्विँशतिर् अर्धमासा᳓स् सव्ँवत्सर᳓स्,  
-+++(अतः)+++ सव्ँ᳓वत्सरा᳓द् एवा᳓त्मा᳓नं पुनीते।
++++(अतः)+++ [[सव्ँ᳓वत्सरा᳓द्|सव्ँवत्सरा᳓द्]] एवा᳓त्मा᳓नं पुनीते।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -494,7 +494,7 @@ for there are twenty-four half months in a year; (hence he) purifies himself by 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वा᳓दश मा᳓सास् सव्ँवत्सर᳓स्, सव्ँ᳓वत्सरा᳓देवा᳓त्मा᳓नं पुनीते।
+द्वा᳓दश मा᳓सास् सव्ँवत्सर᳓स्, [[सव्ँ᳓वत्सरा᳓देवा᳓त्मा᳓नं|सव्ँवत्सरा᳓देवा᳓त्मा᳓नं]] पुनीते।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -524,7 +524,7 @@ for there are twelve months in a year; (hence he) purifies himself by the year.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ष᳓ड्वा᳓ ऋत᳓वस् सव्ँवत्सर᳓स्, सव्ँ᳓वत्सरा᳓देवा᳓त्मा᳓नं पुनीते।
+ष᳓ड्वा᳓ ऋत᳓वस् सव्ँवत्सर᳓स्, [[सव्ँ᳓वत्सरा᳓देवा᳓त्मा᳓नं|सव्ँवत्सरा᳓देवा᳓त्मा᳓नं]] पुनीते।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -656,7 +656,7 @@ and should hate the false.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यवागू᳓ राजन्य᳙स्यामि᳓क्षा वै᳓श्यस्य᳓।
+यवागू᳓ राजन्य᳙स्यामि᳓क्षा वै᳓श्यस्य।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -666,7 +666,7 @@ the rice-gruel, for the King (Ksatriya caste); the curd, for the Valaya (caste).
 
 <details><summary>मूलम्</summary>
 
-य॒वा॒गू रा॑ज॒न्य॑स्या॒मिक्षा॒ वैश्य॒स्य।
+य॒वा॒गू रा॑ज॒न्य॑स्या॒मिक्षा॒ वैश्य॑स्य।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
