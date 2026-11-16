@@ -15,7 +15,7 @@ title = "०१ ०७ हिरण्य-शृङ्गम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हि᳓रण्यशृङ्गव्ँ व᳓रुणं **प्र᳓पद्ये**  
-तीर्थं᳓ मे᳓ **दे᳓हि** या᳓चितः ।
+तीर्थं᳓ मे **देहि** या᳓चितः+++(→स्वरः??)+++ ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -26,9 +26,7 @@ I obtain Varuna, having the gold born (crown); give me entering place being pray
 <details><summary>मूलम्</summary>
 
 हिर॑ण्यशृङ्गव्ँ॒ वरु॑णं॒ प्रप॑द्ये  
-ती॒र्थं मे देहि॒ याचि॑तः ।  
-य॒न्मया॑ भु॒क्तम॒साधू॑नां  
-पा॒पेभ्य॑श्च प्र॒तिग्र॑हः ।
+ती॒र्थं मे॑ देहि॒ याचि॑तः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -58,6 +56,8 @@ may Indra, Varuna, Brhaspati, Savitr purify again and again whatever I have eate
 
 <details><summary>मूलम्</summary>
 
+य॒न्मया॑ भु॒क्तम॒साधू॑नां  
+पा॒पेभ्य॑श्च प्र॒तिग्र॑हः ।  
 यन्मे॒ मन॑सा वा॒चा॒  
 क॒र्म॒णा वा दु॑ष्कृत॒ङ्कृतम् ।  
 तन्न॒ इन्द्रो॒ वरु॑णो॒ बृह॒स्पति॑स्  

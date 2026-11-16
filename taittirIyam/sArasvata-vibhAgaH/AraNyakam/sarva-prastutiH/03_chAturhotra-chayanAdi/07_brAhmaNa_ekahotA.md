@@ -672,7 +672,7 @@ he is this all
 
 <details><summary>मूलम्</summary>
 
-स इ॒दँ सर्वम्॑ ।
+स इ॒दँ सर्व॑म् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

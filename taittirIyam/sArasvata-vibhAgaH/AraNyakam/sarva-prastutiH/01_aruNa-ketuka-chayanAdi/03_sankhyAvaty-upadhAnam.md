@@ -330,10 +330,10 @@ In this Anuvaka also the Mantras for placing bricks on the altar are given.
 अथैकादशी - **ह्लादयते इति** ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ह्ला᳓द᳓य᳓ते ज्व᳓लतश्चैव᳓ ।  
-शाम्य᳓तश्चास्य च᳓क्षुषी ।
+ह्लादयते ज्वलतश्चैव ।  
+शाम्यतश्चास्य चक्षुषी ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>

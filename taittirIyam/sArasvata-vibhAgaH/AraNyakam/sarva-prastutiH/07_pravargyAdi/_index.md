@@ -2200,7 +2200,7 @@ Hail for Apāna-breath!
 
 <details><summary>मूलम्</summary>
 
-ऽपा॒नाय॒ स्वाहा॑ ।
+अ॒पा॒नाय॒ स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3493,7 +3493,7 @@ put the shining in me,
 दश॑ पु॒रस्ता॑द्रोचसे ।  
 दश॑ दक्षि॒णा ।  
 दश॑ प्र॒त्यङ्ङ् ।  
-दशोदङ्ङ्॑ ।  
+दशोद॑ङ् ।  
 दशो॒र्द्ध्वो भा॑सि सुमन॒स्यमा॑नः ।  
 स न॑स्सम्रा॒डिष॒मूर्ज॑न्धेहि ।  
 वा॒जी वा॒जिने॑ पवस्व ।  
@@ -8150,7 +8150,7 @@ Hail for Apāna-breath!
 
 <details><summary>मूलम्</summary>
 
-ऽपा॒नाय॒ स्वाहा॑ ।
+अ॒पा॒नाय॒ स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -10403,9 +10403,9 @@ what is true, may this (speech) be like that;
 इति यत्तत्सत्यम् अमोघमस्तु यन्मयोक्तं तथैव तद्भवति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ख᳓ण्फ᳓ण्म्र᳓सि । (78)
+खण्फण्म्रसि । (78)
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -12317,7 +12317,7 @@ I obtain the wind;
 
 <details><summary>मूलम्</summary>
 
-वा॒युं प्रप॒द्ये
+वा॒युं प्रप॑द्ये
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -12332,7 +12332,7 @@ I obtain the untroubled god;
 
 <details><summary>मूलम्</summary>
 
-ऽना॑र्तां दे॒वतां॒ प्रप॒द्ये
+अना॑र्तां दे॒वतां॒ प्रप॑द्ये
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -12352,7 +12352,7 @@ I obtain the unbreakable stone;
 
 <details><summary>मूलम्</summary>
 
-ऽश्मा॑नमाख॒णं प्रप॑द्ये
+अश्मा॑नमाख॒णं प्रप॑द्ये
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -12372,7 +12372,7 @@ I obtain Brahma-Kośa (sheath of Brahman) of Prajāpati; I obtain Brahman;
 
 <details><summary>मूलम्</summary>
 
-प्र॒जाप॑तेर्ब्रह्मको॒शं ब्रह्म॒ प्रप॑द्य
+प्र॒जाप॑तेर्ब्रह्मको॒शं ब्रह्म॒ प्रप॑द्ये
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -12874,7 +12874,7 @@ may that destroy my sorrow being peaceful.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्त᳓रिक्षँ शान्तं
+अन्त᳓रिक्षँ शान्तं᳓
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -12889,7 +12889,7 @@ may that destroy my sorrow being peaceful.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓द्वायु᳓ना शान्तं
+त᳓द्वायु᳓ना शान्तं᳓
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -12974,7 +12974,7 @@ may that destroy my sorrow being peaceful.
 
 <details><summary>मूलम्</summary>
 
-पृ॒थि॒वी शान्ति॑
+पृ॒थि॒वी शान्तिः॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -12994,7 +12994,7 @@ the mid-region is the peace,
 
 <details><summary>मूलम्</summary>
 
-र॒न्तरि॑क्षँ॒ शान्ति॑
+अ॒न्तरि॑क्षँ॒ शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13009,7 +13009,7 @@ the heaven is the peace,
 
 <details><summary>मूलम्</summary>
 
-र्द्यौश्शान्ति॑
+द्यौश्शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13024,7 +13024,7 @@ the quarters are the peace,
 
 <details><summary>मूलम्</summary>
 
-र्दिश॒श्शान्ति॑
+दिश॒श्शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13039,7 +13039,7 @@ the intermediate quarters are the peace,
 
 <details><summary>मूलम्</summary>
 
-र॒वा॒न्त॒र॒दि॒शाश्शान्ति॑
+अ॒वा॒न्त॒र॒दि॒शाश्शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13054,7 +13054,7 @@ the fire is the peace,
 
 <details><summary>मूलम्</summary>
 
-र॒ग्निश्शान्ति॑
+अ॒ग्निश्शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13069,7 +13069,7 @@ the wind is the peace,
 
 <details><summary>मूलम्</summary>
 
-र्वा॒युश्शान्ति॑-
+वा॒युश्शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13084,7 +13084,7 @@ the sun is the peace,
 
 <details><summary>मूलम्</summary>
 
-रा॒दि॒त्यश्शान्ति॑
+आ॒दि॒त्यश्शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13099,7 +13099,7 @@ the moon is the peace,
 
 <details><summary>मूलम्</summary>
 
-श्च॒न्द्रमा॒श्शान्ति॑
+च॒न्द्रमा॒श्शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13114,7 +13114,7 @@ the stars are the peace,
 
 <details><summary>मूलम्</summary>
 
-र्नक्ष॑त्राणि॒ शान्ति॑
+नक्ष॑त्राणि॒ शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13129,7 +13129,7 @@ the waters are the peace,
 
 <details><summary>मूलम्</summary>
 
-राप॒श्शान्ति॑
+आप॒श्शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13144,7 +13144,7 @@ the plants are the peace,
 
 <details><summary>मूलम्</summary>
 
-रोष॑धय॒श्शान्ति॑
+ओष॑धय॒श्शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13154,7 +13154,7 @@ the plants are the peace,
 
 <details><summary>मूलम्</summary>
 
-र्वन॒स्पत॑य॒श्शान्ति॑
+वन॒स्पत॑य॒श्शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13169,7 +13169,7 @@ the cow is the peace,
 
 <details><summary>मूलम्</summary>
 
-र्गौश्शान्ति॑
+गौश्शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13184,7 +13184,7 @@ the goat is the peace,
 
 <details><summary>मूलम्</summary>
 
-र॒जा शान्ति॑
+अ॒जा शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13199,7 +13199,7 @@ the horse is the peace,
 
 <details><summary>मूलम्</summary>
 
-रश्व॒श्शान्तिः॑
+अश्व॒श्शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13214,7 +13214,7 @@ the man is the peace,
 
 <details><summary>मूलम्</summary>
 
-पुरु॑ष॒श्शान्ति॑
+पुरु॑ष॒श्शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13229,7 +13229,7 @@ Brahma is the peace,
 
 <details><summary>मूलम्</summary>
 
-र्ब्रह्म॒ शान्ति॑
+ब्रह्म॒ शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13244,7 +13244,7 @@ the Brāhmaṇa is the peace,
 
 <details><summary>मूलम्</summary>
 
-र्ब्रा॒ह्म॒णश्शान्ति॑
+ब्रा॒ह्म॒णश्शान्तिः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13259,7 +13259,7 @@ the peace is the peace,
 
 <details><summary>मूलम्</summary>
 
-श्शान्ति॑रे॒व शान्ति॑
+शान्ति॑रे॒व शान्तिः॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -13279,7 +13279,7 @@ may the peace be for me, the peace.
 
 <details><summary>मूलम्</summary>
 
-श्शान्ति॑र्मे अस्तु॒ शान्तिः॑ ।
+शान्ति॑र्मे अस्तु॒ शान्तिः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

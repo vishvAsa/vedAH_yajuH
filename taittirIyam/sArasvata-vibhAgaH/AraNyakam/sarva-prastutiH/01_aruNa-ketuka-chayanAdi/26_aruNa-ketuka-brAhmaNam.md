@@ -897,7 +897,7 @@ for this is hidden fire, (so) for not burning this (13).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अघा᳓तुका आ᳓पः -  य एत᳓म् अग्नि᳓ञ् चिनुते᳓, य᳓ उ चैनम् एवव्ँ᳓ वे᳓द ।
+अघा᳓तुका आ᳓पः -  य᳓ एत᳓म् अग्नि᳓ञ् चिनुते᳓, य᳓ उ चैनम् एवव्ँ᳓ वे᳓द ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>

@@ -707,8 +707,8 @@ for it moved (Pravartat); hence there is the Pravargyatva (etymological essence)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓द्घ्राँ᳓ (4) इ᳓त्य᳓पतत् ।  
-त᳓द्धर्म᳓स्य घर्मत्व᳓म् ।
+यद्घ्राँ (4) इत्यपतत् ।  
+तद्धर्मस्य घर्मत्वम् ।
 </details>
 <details><summary>Houben</summary>
 
@@ -3272,7 +3272,7 @@ the sacrifice is, verily, the skin of the black antelope;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज्ञे᳓नैव᳓ य᳓ज्ञँ᳓ सँ᳓सृजति ॥ (20)
+यज्ञे᳓नैव᳓ यज्ञँ᳓ सँ᳓सृजति ॥ (20)
 </details>
 <details><summary>Houben</summary>
 
@@ -3284,7 +3284,7 @@ he makes the sacrifice, indeed, with the sacrifice.
 </details>
 <details><summary>मूलम्</summary>
 
-य॒ज्ञेनै॒व यज्ञँ सँसृ॑जति ॥ (20)
+य॒ज्ञेनै॒व य॒ज्ञँ सँसृ॑जति ॥ (20)
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -5885,9 +5885,9 @@ so he obtains what he wishes already at the beginning of the sacrifice.
 प्रा॒णाने॒वास्मै॑ स॒मीचो॑ दधाति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
-ईश्वरो᳓ वा᳓ एष᳓ दि᳓शो᳓ऽनू᳓न्मदितोः ।
+ईश्वरो वा एष दिशोऽनून्मदितोः ।
 </details>
 <details><summary>Houben</summary>
 
@@ -12369,7 +12369,7 @@ which increases in the north, that is of Rudras.
 </details>
 <details><summary>मूलम्</summary>
 
-यदुदङ्ङ्॑ ।  
+यदुद॑ङ्ङ् ।  
 तद्रु॒द्राणा॑म् ।
 </details>
 
@@ -13649,7 +13649,7 @@ he should not drink his left water;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ज᳓ एव᳓ त᳓त्सँ᳓श्यति ।
+ते᳓ज एव᳓ त᳓त्सँ᳓श्यति ।
 </details>
 <details><summary>Houben</summary>
 
@@ -13661,7 +13661,7 @@ Thus he sharpens his brilliant energy.
 </details>
 <details><summary>मूलम्</summary>
 
-तेज ए॒व तत्सँश्य॑ति ।
+तेज॑ ए॒व तत्सँश्य॑ति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -15024,7 +15024,7 @@ he asks this benediction, indeed.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्य᳙सौ᳓ योऽस्मान्द्वेष्टि य᳓ञ्च वय᳓न्द्विष्म᳓ इ᳓त्याह ।
+व्य᳙सौ᳓ यो᳓ऽस्मा᳓न् द्वे᳓ष्टि य᳓ञ्च वय᳓न्द्विष्म᳓ इ᳓त्याह ।
 </details>
 <details><summary>Houben</summary>
 
@@ -15977,7 +15977,7 @@ And, certainly, he actually partakes of (the fruit of) the Pravargya, for whom k
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष ह त्वै सा॒क्षात्प्र॑व॒र्ग्यं॑ भक्षयति ।  
+ए॒ष ह॒ त्वै सा॒क्षात्प्र॑व॒र्ग्यं॑ भक्षयति ।  
 यस्यै॒वव्ँ वि॒दुषः॑ प्रव॒र्ग्यः॑ प्रवृ॒ज्यते॑ ।
 </details>
 

@@ -16,7 +16,7 @@ Brāhmaṇas (praises etc.) relating to the placing of bricks. 1–9. Waters as 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽपां पुष्पव्ँ वे᳓द ।  
+यो᳓ऽपां᳓ पु᳓ष्पव्ँ वे᳓द ।  
 पु᳓ष्पवान्प्रजा᳓वान्पशुमा᳓न्भवति ।
 </details>
 
@@ -87,7 +87,7 @@ He, who knows thus, becomes the possessor of flower, progeny and cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽपामाय᳓तनव्ँ वे᳓द ।  
+यो᳓ऽपा᳓माय᳓तनव्ँ वे᳓द ।  
 आय᳓तनवान्भवति ।
 </details>
 
@@ -146,7 +146,7 @@ The fire is, verily, the abode of the waters.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽग्नेराय᳓तनव्ँ वे᳓द । [77]  
+यो᳓ऽग्ने᳓र् आय᳓तनव्ँ वे᳓द । [77]  
 आय᳓तनवान्भवति ।
 </details>
 
@@ -202,7 +202,7 @@ He, who knows thus, becomes the possessor of an abode (1).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽपामाय᳓तनव्ँ वे᳓द ।  
+यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द ।  
 आय᳓तनवान्भवति ।
 </details>
 
@@ -307,7 +307,7 @@ He, who knows thus, becomes the possessor of an abode (2).[P109_4]
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽपामाय᳓तनव्ँ वे᳓द ।  
+यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द ।  
 आय᳓तनवान्भवति ।
 </details>
 
@@ -354,7 +354,7 @@ That burning (sun) is, verily, the abode of the waters.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽमुष्य त᳓पत आय᳓तनव्ँ वे᳓द ।  
+यो᳓ ऽमु᳓ष्य त᳓पत आय᳓तनव्ँ वे᳓द ।  
 आय᳓तनवान्भवति ।
 </details>
 
@@ -400,7 +400,7 @@ He, who knows the abode of that burning (sun), becomes the possessor of an abode
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽपामाय᳓तनव्ँ वे᳓द ।  
+यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द ।  
 आय᳓तनवान्भवति ।
 </details>
 
@@ -503,7 +503,7 @@ He, who knows thus, becomes the possessor of an abode (4).[P110_1]
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽपामाय᳓तनव्ँ वे᳓द ।  
+यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द ।  
 आय᳓तनवान्भवति ।
 </details>
 
@@ -606,7 +606,7 @@ He, who knows thus, becomes the possessor of an abode (5).[P110_2]
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽपामाय᳓तनव्ँ वे᳓द ।  
+यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द ।  
 आय᳓तनवान्भवति ।
 </details>
 
@@ -707,7 +707,7 @@ He, who knows thus, becomes the possessor of an abode.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽपामाय᳓तनव्ँ वे᳓द । [82]  
+यो᳓ ऽपा᳓म् आय᳓तनव्ँ वे᳓द । [82]  
 आय᳓तनवान्भवति ।
 </details>
 
@@ -795,7 +795,7 @@ The year is, verily, the abode of the waters.[P110_3]
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽप्सु नावं प्र᳓तिष्ठिताव्ँ वे᳓द ।  
+यो᳓ ऽप्सु᳓ ना᳓वं प्र᳓तिष्ठिताव्ँ वे᳓द ।  
 प्र᳓त्येव᳓ तिष्ठति । [83]
 </details>
 
@@ -968,7 +968,7 @@ Preparation of the altar.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मवादि᳓नो वदन्ति ।  
-क᳓स्मात्प्रणीते᳓य᳓मग्नि᳓श्ची᳓य᳓ते ।
+क᳓स्मात्प्रणीते᳓य᳓मग्नि᳓श् चीय᳓ते ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -979,7 +979,7 @@ Preparation of the altar.
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति ।  
-कस्मा॑त्प्रणी॒तेयम॒ग्निश्चीयते॑ ।
+कस्मा॑त्प्रणी॒तेयम॒ग्निश्ची॒यते॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

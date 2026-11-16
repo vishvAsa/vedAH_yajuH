@@ -5278,7 +5278,7 @@ I know this great Puruṣa of the colour of the sun, out of the darkness; he, wh
 
 <details><summary>मूलम्</summary>
 
-वेदा॒हमे॒तं पुरु॑षं म॒हान्तम्॑ । आ॒दि॒त्यव॑र्णं॒ तम॑सः॒ पर॑स्तात् ।
+वेदा॒हमे॒तं पुरु॑षं म॒हान्त॑म् । आ॒दि॒त्यव॑र्णं॒ तम॑सः॒ पर॑स्तात् ।
 तमे॒वं वि॒द्वान॒मृत॑ इ॒ह भ॑वति । नान्यः पन्था॑ विद्य॒तेय॑ऽनाय । २
 </details>
 
@@ -5310,7 +5310,7 @@ Prajāpati moves in the womb of the creation; he becomes born in various forms, 
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिश्चरति॒ गर्भे॑ अ॒न्तः । अ॒जाय॑मानो बहु॒धा विजा॑यते ।
-तस्य॒ धीराः॒ परि॑जानन्ति॒ योनिम्॑ । मरी॑चीनां प॒दमि॑च्छन्ति
+तस्य॒ धीराः॒ परि॑जानन्ति॒ योनि॑म् । मरी॑चीनां प॒दमि॑च्छन्ति
 वे॒धसः॑ । ३
 </details>
 
@@ -5455,7 +5455,7 @@ Aśvins are the opened (mouth);
 
 <details><summary>मूलम्</summary>
 
-अ॒श्विनौ॒ व्यात्तम्॑ ।
+अ॒श्विनौ॒ व्यात्त॑म् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

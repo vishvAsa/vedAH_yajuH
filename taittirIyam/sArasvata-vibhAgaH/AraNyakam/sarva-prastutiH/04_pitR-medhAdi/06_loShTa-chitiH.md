@@ -621,7 +621,7 @@ Mantra for putting sugar.
 
 <details><summary>मूलम्</summary>
 
-चित॑स्स्थ परि॒चित॑ ऊर्ध्व॒चितश्श्रयध्वं पि॒तरो॑ दे॒वता॑ ।
+चित॑स्स्थ परि॒चित॑ ऊर्ध्व॒चित॑श्श्रयध्वं पि॒तरो॑ दे॒वता॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

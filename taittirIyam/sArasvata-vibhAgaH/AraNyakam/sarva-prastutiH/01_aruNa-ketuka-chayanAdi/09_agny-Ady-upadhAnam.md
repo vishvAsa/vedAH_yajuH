@@ -230,7 +230,7 @@ Mantras for placing the bricks on the altar.
 
 न त्वका॑मँ ह॒न्ति ।  
 [35]  
-य᳓ एवव्ँ वेद᳓ ।
+य ए॒वव्ँ वे॒द ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -326,7 +326,7 @@ Mantras for placing the bricks on the altar.
 <details><summary>मूलम्</summary>
 
 नैनङ्गरो॑ हिन॒स्ति ।  
-य᳓ एवव्ँ वेद᳓ ।
+य ए॒वव्ँ वे॒द ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

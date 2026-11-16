@@ -139,7 +139,7 @@ He has eyes all round, mouth all round, hands all round, feet all round; He bend
 
 वेन᳓स् त᳓त् **प᳓श्यन्** वि᳓श्वा भु᳓वनानि   
 **विद्वा᳓न्** य᳓त्र वि᳓श्वं **भ᳓वत्य्** ए᳓क-नीळम् ।  
-य᳓स्मिन्नि् इदँ᳓ स᳓ञ्च वि᳓चै᳓कँ स᳓  
+य᳓स्मिन्न् इदँ᳓ स᳓ञ्च वि᳓चै᳓कँ स᳓  
 **ओ᳓तः प्रो᳓तश्च** विभुः᳓ प्रजा᳓सु ॥
 
 </details>
@@ -1126,7 +1126,7 @@ I invite that prosperity (earth), which has the doors of the perfume, non-injura
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हि᳓रण्यशृङ्गव्ँ व᳓रुणं **प्र᳓पद्ये**  
-तीर्थं᳓ मे᳓ **दे᳓हि** या᳓चितः ।
+तीर्थं᳓ मे **देहि** या᳓चितः ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -1137,9 +1137,7 @@ I obtain Varuna, having the gold born (crown); give me entering place being pray
 <details><summary>मूलम्</summary>
 
 हिर॑ण्यशृङ्गव्ँ॒ वरु॑णं॒ प्रप॑द्ये  
-ती॒र्थं मे देहि॒ याचि॑तः ।  
-य॒न्मया॑ भु॒क्तम॒साधू॑नां  
-पा॒पेभ्य॑श्च प्र॒तिग्र॑हः ।
+ती॒र्थं मे॑ देहि॒ याचि॑तः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1169,6 +1167,8 @@ may Indra, Varuna, Brhaspati, Savitr purify again and again whatever I have eate
 
 <details><summary>मूलम्</summary>
 
+य॒न्मया॑ भु॒क्तम॒साधू॑नां  
+पा॒पेभ्य॑श्च प्र॒तिग्र॑हः ।  
 यन्मे॒ मन॑सा वा॒चा॒  
 क॒र्म॒णा वा दु॑ष्कृत॒ङ्कृतम् ।  
 तन्न॒ इन्द्रो॒ वरु॑णो॒ बृह॒स्पति॑स्  
@@ -1232,7 +1232,7 @@ _________________
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 दुर्मित्रा᳓स् त᳓स्मै भूयासुर्  
-यो᳙ऽस्मान् द्वेष्टि य᳓ञ् च वय᳓न् द्विष्मः᳓ ।
+यो᳙ऽस्मा᳓न् द्वे᳓ष्टि य᳓ञ् च वय᳓न् द्विष्मः᳓ ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -1335,7 +1335,7 @@ salutation to Varuni (the wife of Varuna)
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
-नमोऽद्भ्यः᳓ ।
+न᳓मोऽद्भ्यः᳓ ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2543,7 +2543,7 @@ __________________
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_10_ArdraM_jvalati/05_akAryakAry_avakIrNI.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
 
-अ-कार्य-कार्य्᳙ अवकीर्णी᳓  
+अ-कार्य-कार्य᳙वकीर्णी᳓  
 स्तेनो᳓ भ्रूणहा᳓ गुरु-तल्प᳓-गः᳓ ।  
 व᳓रुणोऽपा᳓म् अघ-मर्षण᳓स्  
 त᳓स्मात् पापा᳓त् **प्र᳓मुच्यते** ।
@@ -2560,7 +2560,7 @@ Performer of improper deeds, one who has split his semen virile, the thief, the 
 
 <details><summary>मूलम्</summary>
 
-अ॒का॒र्य॒-का॒र्य्॑-अवकी॒र्णी स्ते॒नो भ्रू॑ण॒हा गु॑रुत॒ल्पगः ।  
+अ॒का॒र्य॒-का॒र्य॑वकी॒र्णी स्ते॒नो भ्रू॑ण॒हा गु॑रुत॒ल्पगः ।  
 वरु॑णो॒ऽपाम् अ॑घमर्ष॒णस् तस्मा॑त् पा॒पात् प्रमु॑च्यते ।
 </details>
 
@@ -7204,7 +7204,7 @@ Which accent (Om) has been spoken in the beginning of the Veda and which is firm
 
 <details><summary>मूलम्</summary>
 
-स॒ह॒स्र॒शीर्॑षन्दे॒वव्ँ॒ वि॒श्वाक्ष॑व् विँ॒श्वशं॑भुवम् ।  
+स॒ह॒स्र॒शी॑र्षन्दे॒वव्ँ॒ वि॒श्वाक्ष॑व् विँ॒श्वशं॑भुवम् ।  
 विश्व॑न्ना॒राय॑णन्दे॒व॒म॒क्षरं॑ पर॒मं प्र॒भुम् ।
 </details>
 
@@ -10162,7 +10162,7 @@ I sacrifice nectar sitting in the Apana-breath; Hail for the Apana!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्याने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । व्या᳓ना᳓य स्वा᳓हा ।
+व्याने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । व्याना᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -10172,7 +10172,7 @@ I sacrifice nectar sitting in the Vyana-breath; Hail for the Vyana!
 
 <details><summary>मूलम्</summary>
 
-व्या॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि । व्यानाय॒ स्वाहा॑ ।
+व्या॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि । व्या॒नाय॒ स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -10319,7 +10319,7 @@ I sacrifice nectar sitting in the Udana-breath; enter me being auspicious for no
 
 समाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा ऽऽविशा᳓ऽप्रदाहाय।  
-स᳓माना᳓य स्वा᳓हा ।
+समाना᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -10331,7 +10331,7 @@ I sacrifice nectar sitting in the Samana-breath; enter me being auspicious for n
 
 स॒मा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि।  
 शि॒वो मा॑ ऽऽवि॒शाऽप्र॑दाहाय।  
-समा॒नाय॒ स्वाहा॑ ।
+स॒मा॒नाय॒ स्वाहा॑ ।
 </details>
 </div>
 
@@ -12831,7 +12831,7 @@ may (all) be purified; may I become the light, dustless and sinless; Hail!
 
 <details><summary>मूलम्</summary>
 
-मे॒ शु॒द्ध्य॒न् ता॒ञ् ज्योति॑र् अ॒हव्ँ वि॒रजा॑ विपा॒प्मा भू॑यासँ॒ स्वाहा॑ । (75)
+मे॑ शु॒द्ध्य॒न् ता॒ञ् ज्योति॑र् अ॒हव्ँ वि॒रजा॑ विपा॒प्मा भू॑यासँ॒ स्वाहा॑ । (75)
 </details>
 
 ## 61
@@ -13389,7 +13389,7 @@ O Brahman, you are the impeller of the brightness; you are the joiner in the bre
 
 <details><summary>मूलम्</summary>
 
-व॒सु॒र॒ण्यो॑ वि॒भूर॑सि प्रा॒णे त्वमसि॑ सन्धा॒ता ब्रह्म॑न्त्वम॑सि  विश्व॒सृक्ते॑जो॒दास्त्वम॑स्य॒ग्नेर्व॑र्चो॒दास्त्वम॑सि॒ सूर्य॑स्य द्युम्नो॒दास्त्वम॑सि च॒न्द्रम॑स उपया॒मगृ॑हीतोऽसि ब्र॒ह्मणे॑ त्वा॒  महस॑
+व॒सु॒र॒ण्यो॑ वि॒भूर॑सि प्रा॒णे त्वमसि॑ सन्धा॒ता ब्रह्म॑न्त्वम॑सि  विश्व॒सृक्ते॑जो॒दास्त्वम॑स्य॒ग्नेर्व॑र्चो॒दास्त्वम॑सि॒ सूर्य॑स्य द्युम्नो॒दास्त्वम॑सि च॒न्द्रम॑स उपया॒मगृ॑हीतोऽसि ब्र॒ह्मणे॑ त्वा॒  महस॒
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

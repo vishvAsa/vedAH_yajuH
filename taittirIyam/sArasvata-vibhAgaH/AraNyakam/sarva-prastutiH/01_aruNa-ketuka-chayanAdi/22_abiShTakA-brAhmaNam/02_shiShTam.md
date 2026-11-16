@@ -156,7 +156,7 @@ Preparation of the altar.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मवादि᳓नो वदन्ति ।  
-क᳓स्मात्प्रणीते᳓य᳓मग्नि᳓श्ची᳓य᳓ते ।
+क᳓स्मात्प्रणीते᳓य᳓मग्नि᳓श् चीय᳓ते ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -167,7 +167,7 @@ Preparation of the altar.
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति ।  
-कस्मा॑त्प्रणी॒तेयम॒ग्निश्चीयते॑ ।
+कस्मा॑त्प्रणी॒तेयम॒ग्निश्ची॒यते॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

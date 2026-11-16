@@ -86,7 +86,7 @@ I sacrifice nectar sitting in the Apana-breath; Hail for the Apana!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्याने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । व्या᳓ना᳓य स्वा᳓हा ।
+व्याने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । व्याना᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -96,7 +96,7 @@ I sacrifice nectar sitting in the Vyana-breath; Hail for the Vyana!
 
 <details><summary>मूलम्</summary>
 
-व्या॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि । व्यानाय॒ स्वाहा॑ ।
+व्या॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि । व्या॒नाय॒ स्वाहा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

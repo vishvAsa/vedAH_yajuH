@@ -105,7 +105,7 @@ After washing (the lips) once he should touch the head, the eyes, the ears and t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓द् द्विः᳓ परिमृ᳓जति - ते᳓न᳓ य᳓जूँषि।
+य᳓द् द्विः᳓ परिमृ᳓जति - ते᳓न य᳓जूँषि।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -115,7 +115,7 @@ when he touches the water twice, he pleases the Yajuses by that;
 
 <details><summary>मूलम्</summary>
 
-यद् द्विः प॑रि॒मृज॑ति॒ - तेन यजूँ॑षि।
+यद् द्विः प॑रि॒मृज॑ति॒ - तेन॒ यजूँ॑षि।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -872,7 +872,7 @@ He should begin the verses (on the next day) after the read words (1).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वा᳓ध्याय᳓न्त᳓पस्वी पु᳓ण्यो भवति य᳓ एवव्ँ᳓ वि᳓द्वा᳓न्त् स्वाध्याय᳓म᳓धीते।
+स्वा᳓ध्याय᳓न्त᳓पस्वी पु᳓ण्यो भवति य᳓ एवव्ँ᳓ विद्वा᳓न्त् स्वाध्याय᳓म᳓धीते।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -882,7 +882,7 @@ knowing thus, who reads the lesson, he becomes a pious ascetic.
 
 <details><summary>मूलम्</summary>
 
-स्वा॑ध्या॒यन्तप॑स्वी॒ पुण्यो॑ भवति॒ य ए॒वव्ँ विद्वान्त् स्वा॑ध्या॒यमधी॑ते।
+स्वा॑ध्या॒यन्तप॑स्वी॒ पुण्यो॑ भवति॒ य ए॒वव्ँ वि॒द्वान्त् स्वा॑ध्या॒यमधी॑ते।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1381,7 +1381,7 @@ As to that this has been said:—
 
 <details><summary>मूलम्</summary>
 
-"अ॒नृ॒णा अ॒स्मिन्न॑नृ॒णाः पर॑स्मिँस्तृ॒तीये॑ लो॒के अ॑नृ॒णास्स्या॑म । ये दे॑व॒याना॑ उ॒त पि॑तृ॒याणा॒स्सर्वा॑न्प॒थो अ॑नृ॒णा आक्षी॑ये॒मे"ति ।
+"अ॒नृ॒णा अ॒स्मिन्न॑नृ॒णाः पर॑स्मिँस्तृ॒तीये॑ लो॒के अ॑नृ॒णास्स्या॑म । ये दे॑व॒याना॑ उ॒त पि॑तृ॒याणा॒स्सर्वा॑न्प॒थो अ॑नृ॒णा आक्षी॑ये॒मे"ति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

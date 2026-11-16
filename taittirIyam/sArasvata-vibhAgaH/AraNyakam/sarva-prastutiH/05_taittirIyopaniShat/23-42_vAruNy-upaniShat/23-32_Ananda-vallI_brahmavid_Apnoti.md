@@ -808,7 +808,7 @@ For food is, truly, the eldest of beings; therefore, it is called the medicament
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वव्ँ वै᳓ ते᳓ऽन्नम् आप्नुवन्ति,  
-येऽन्नं ब्र᳓ह्मोपा᳓सते ।
+ये᳓ऽन्नं ब्र᳓ह्मोपा᳓सते ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -2681,10 +2681,10 @@ That made its soul itself;
 आत्मानमेव उपादानत्वेन स्वीकृत्य स्वयमेव अकुरुत ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 तस्मात् तथ्+++(=असत्)+++ सुकृतम् उच्यत  
-इ᳓ति ।
+इति ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
