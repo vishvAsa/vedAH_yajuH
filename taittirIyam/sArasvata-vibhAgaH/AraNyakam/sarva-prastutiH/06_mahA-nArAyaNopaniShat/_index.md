@@ -12972,7 +12972,7 @@ Many people (believe in) generating; therefore, they are born in plenty; therefo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऽग्न᳓य इ᳓त्याह त᳓स्मादग्न᳓य आ᳓धातव्या
+अग्न᳓य इ᳓त्याह त᳓स्मादग्न᳓य आ᳓धातव्या
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -12982,7 +12982,7 @@ One says the fire (to be great); therefore, the fires should be heaped.
 
 <details><summary>मूलम्</summary>
 
-ऽग्नय॒ इत्या॑ह॒ तस्मा॑द॒ग्नय॒ आधा॑तव्या
+अ॒ग्नय॒ इत्या॑ह॒ तस्मा॑द॒ग्नय॒ आधा॑तव्या
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13603,7 +13603,7 @@ What are the days and the nights, they are the Darsa and the Purnamasa sacrifice
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये᳓ऽर्द्धमासा᳓श्च मा᳓साश्च ते᳓ चातुर्मास्या᳓नि
+ये᳙ऽर्धमासा᳓श् च मा᳓साश्च ते᳓ चातुर्मास्या᳓नि
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -13613,7 +13613,7 @@ what are the half-months and the months, they are the Caturmasyas;
 
 <details><summary>मूलम्</summary>
 
-ये॑ऽर्द्धमा॒साश्च॒ मासा॑श्च॒ ते चा॑तुर्मा॒स्यानि॑
+ये॑ऽर्धमा॒साश्च॒ मासा॑श्च॒ ते चा॑तुर्मा॒स्यानि॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

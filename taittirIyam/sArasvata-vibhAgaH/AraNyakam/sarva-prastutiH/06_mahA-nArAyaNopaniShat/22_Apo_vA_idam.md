@@ -61,7 +61,7 @@ the waters are the breaths
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पश᳓व आ᳓पो,
+पश᳓व आ᳓पः,
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -71,12 +71,12 @@ the waters are the animals
 
 <details><summary>मूलम्</summary>
 
-प॒शव॒ आपो॑
+प॒शव॒ आपः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऽन्नम् आ᳓पो,
+अ᳓न्नम् आ᳓पः,
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -86,12 +86,12 @@ the waters are the food
 
 <details><summary>मूलम्</summary>
 
-ऽन्न॒मापो॑
+अन्न॒मापः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऽमृतम् आ᳓पः
+अमृ᳓तम् आ᳓पः
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -101,7 +101,7 @@ the waters are the nectar
 
 <details><summary>मूलम्</summary>
 
-ऽमृ॑त॒म् आपः॑
+अमृ॑त॒म् आपः॑
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

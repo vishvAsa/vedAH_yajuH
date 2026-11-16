@@ -78,7 +78,7 @@ An anecdote about the Pravargya.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽब्रुवन् ।  
+ते᳙ऽब्रुवन् ।  
 य᳓न्नः प्रथमय्ँ᳓य᳓श ऋच्छा᳓त् ।  
 स᳓र्वेषान्नस्त᳓त्सहा᳓सदि᳓ति ।
 </details>
@@ -397,7 +397,7 @@ therefore, many men, having no arrow and bow do not defeat one who has arrow and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽस्मयत ।  
+सो᳙ऽस्मयत ।  
 ए᳓कं मा स᳓न्तं बह᳓वो ना᳓भ्यधर्षिषुरि᳓ति ।
 </details>
 <details><summary>Houben</summary>
@@ -705,7 +705,7 @@ for it moved (Pravartat); hence there is the Pravargyatva (etymological essence)
 प्रवर्तनात् प्रवर्ग्यः वर्णव्यत्ययः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
 
 यद्घ्राँ (4) इत्यपतत् ।  
 तद्धर्मस्य घर्मत्वम् ।
@@ -1565,7 +1565,7 @@ Which entered the earth (3), that became the Khaḍira tree (Acacia catechu);
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यः᳓ पशू᳓न् ।  
-सो᳓ऽजाम् ।
+सो᳙ऽजा᳓म् ।
 </details>
 <details><summary>Houben</summary>
 
@@ -2580,7 +2580,7 @@ he made effort near the Pūtīkastamba (Caesalpinia Bonducella);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽद्ध्रियत ।
+सो᳙ऽध्रियत ।
 </details>
 <details><summary>Houben</summary>
 
@@ -2592,7 +2592,7 @@ he (Vṛtra) was caught.
 </details>
 <details><summary>मूलम्</summary>
 
-सो॑ऽद्ध्रियत ।
+सो॑ऽध्रियत ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -2601,7 +2601,7 @@ he (Vṛtra) was caught.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीत् ।  
+सो᳙ऽब्रवीत् ।  
 ऊतिव्ँ᳓ वै᳓ मे धा इ᳓ति ।
 </details>
 <details><summary>Houben</summary>
@@ -12356,7 +12356,7 @@ which increases in the west, that is of the men;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓दु᳓द᳓ङ्ङ् ।  
+य᳓दु᳓दङ् ।  
 त᳓द्रुद्रा᳓णाम् ।
 </details>
 <details><summary>Houben</summary>
@@ -15024,7 +15024,7 @@ he asks this benediction, indeed.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्य᳙सौ᳓ यो᳓ऽस्मा᳓न् द्वे᳓ष्टि य᳓ञ्च वय᳓न्द्विष्म᳓ इ᳓त्याह ।
+व्य᳙सौ᳓ यो᳙ऽस्मा᳓न् द्वे᳓ष्टि य᳓ञ्च वय᳓न्द्विष्म᳓ इ᳓त्याह ।
 </details>
 <details><summary>Houben</summary>
 
@@ -15532,7 +15532,7 @@ he asks, indeed, this benediction.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दुर्मित्रा᳓स्त᳓स्मै भूयासुर्यो᳙ऽस्मान्द्वेष्टि य᳓ञ्च वय᳓न्द्विष्म᳓ इ᳓त्याह ।
+दुर्मित्रा᳓स्त᳓स्मै भूयासुर्यो᳙ऽस्मा᳓न्द्वे᳓ष्टि य᳓ञ्च वय᳓न्द्विष्म᳓ इ᳓त्याह ।
 </details>
 <details><summary>Houben</summary>
 
@@ -15566,7 +15566,7 @@ this is, verily, the bewitching of this.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र᳓ वा᳓ एषो᳙ऽस्माल्लोका᳓च्च्यवते ।
+प्र᳓ वा᳓ एषो᳙ऽस्मा᳓ल्लोका᳓च्च्यवते ।
 </details>
 <details><summary>Houben</summary>
 
@@ -15964,7 +15964,7 @@ In this way they increase Prajapati and gods by the milk and food etc.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एष᳓ ह᳓ त्वै᳓ साक्षा᳓त्प्रवर्ग्यं᳙ भक्षयति ।  
+एष᳓ ह त्वै᳓ साक्षा᳓त्प्रवर्ग्यं᳙ भक्षयति ।  
 य᳓स्यैवव्ँ᳓ विदु᳓षः प्रवर्ग्यः᳙ प्रवृज्य᳓ते ।
 </details>
 <details><summary>Houben</summary>

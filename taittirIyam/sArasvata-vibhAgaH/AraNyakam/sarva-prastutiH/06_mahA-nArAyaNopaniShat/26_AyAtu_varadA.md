@@ -153,7 +153,7 @@ you are all, you are all, all life,
 सर्व॑म् असि स॒र्वायुः॑।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः (स्वराः पूर्याः)</summary>
 
 अभिभूर् [ओङ् गायत्रीम् आवाहयामि । (41)]
 </details>
