@@ -15,12 +15,12 @@ The gods performed the sacrifice by the sacrifice (sacrificial person); these we
 नान्यः पन्था॒ अय॑नाय विद्यते । १७
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः - 2/19 व्यत्यस्त-स्वराः)</summary>
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 - धाता᳓ (*TS*, *RV*, *TB*)
 - पुर᳓स्तात् (*TS*, *RV*, *TB*, *TK*)
 - य᳓म् (*TS*, *RV*, *TB*)
-- उदाजहा᳓र
+- उदाजहा᳓र (यद्वृत्तान्नित्यम्, पा० ८.१.६६)
 - शक्रः᳓ (*RV*)
 - प्र᳓ (*TS*, *RV*, *TB*, *TK*)
 - विद्वा᳓न् (*TS*, *RV*, *TB*, *TK*)
@@ -32,8 +32,8 @@ The gods performed the sacrifice by the sacrifice (sacrificial person); these we
 - अमृ᳓तः (*TS*, *RV*)
 - इह᳓ (*TS*, *RV*, *TB*, *AV*)
 - भवति (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *TS*, *RV*)
-- न᳓ (*MW*) +
-- अन्यः᳓ (*TS*, *RV*), समासस्वरः)
+- न᳓ (*TS*, *RV*)
+- अन्यः᳓ (*TS*, *RV*, *TB*)
 - प᳓न्थाः (*TS*, *RV*)
 - अ᳓यनाय (प्रातिपदिकम् अ᳓यन (*MW*))
 - विद्यते (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *RV*)
