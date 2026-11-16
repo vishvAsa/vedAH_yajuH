@@ -11,7 +11,7 @@ May well-known Yama come by pleasant-minded protections, may Yami (wife of Yama)
 <details><summary>मूलम्</summary>
 
 आया॑तु दे॒वस्सु॒मना॑भिरू॒तिभि॑र्य॒मो ह॑वे॒ह प्रय॑ताभिर॒क्ता ।  
-आसी॑दताँ सुप्र॒यते॑ह ब॒र्हिष्यूर्जा॑यजात्यै मम॑ शत्रु॒हत्यै॑ ।
+आसी॑दताँ सुप्र॒यते॑ह ब॒र्हिष्यूर्जा॑य जात्यै॒ मम॑ शत्रु॒हत्यै॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
