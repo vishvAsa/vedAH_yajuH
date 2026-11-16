@@ -82,7 +82,7 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आग्रयणो᳙ऽसि ।  
-स्वा᳓ग्रयणो जि᳓न्व ।
+स्वा᳙ग्रयणो जि᳓न्व ।
 </details>
 
 <details><summary>Keith</summary>

@@ -214,7 +214,7 @@ Ye that are in that world, may they follow you;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये᳓ऽस्मिल्ँ लोके᳓ मा᳓न् ते᳓ऽनु ।
+ये᳙ऽस्मिल्ँ᳓ लोके᳓ मा᳓न् ते᳓ऽनु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -264,7 +264,7 @@ Ye that are in that world, of them be ye the most fortunate;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये᳓ऽस्मिल्ँ लोके᳙ ऽहन् तेषाव्ँव᳓सिष्ठो भूयासम् ।
+ये᳙ऽस्मिल्ँ᳓ लोके᳙ ऽहन् तेषाव्ँव᳓सिष्ठो भूयासम् ।
 </details>
 
 <details><summary>Keith</summary>
