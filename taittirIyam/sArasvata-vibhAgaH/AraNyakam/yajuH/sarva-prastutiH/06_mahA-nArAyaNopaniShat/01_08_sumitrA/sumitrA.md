@@ -47,7 +47,7 @@ _________________
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 दुर्मित्रा᳓स् त᳓स्मै भूयासुर्  
-यो᳙ऽस्मान् द्वेष्टि य᳓ञ् च वय᳓न् द्विष्मः᳓ ।
+यो᳙ऽस्मा᳓न् द्वे᳓ष्टि य᳓ञ् च वय᳓न् द्विष्मः᳓ ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -150,7 +150,7 @@ salutation to Varuni (the wife of Varuna)
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
-नमोऽद्भ्यः᳓ ।
+न᳓मोऽद्भ्यः᳓ ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>

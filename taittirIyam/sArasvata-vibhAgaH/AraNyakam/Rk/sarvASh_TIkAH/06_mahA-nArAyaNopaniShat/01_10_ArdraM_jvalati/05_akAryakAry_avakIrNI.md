@@ -11,7 +11,7 @@ Performer of improper deeds, one who has split his semen virile, the thief, the 
 
 <details><summary>मूलम्</summary>
 
-अ॒का॒र्य॒-का॒र्य्॑-अवकी॒र्णी स्ते॒नो भ्रू॑ण॒हा गु॑रुत॒ल्पगः ।  
+अ॒का॒र्य॒-का॒र्य॑वकी॒र्णी स्ते॒नो भ्रू॑ण॒हा गु॑रुत॒ल्पगः ।  
 वरु॑णो॒ऽपाम् अ॑घमर्ष॒णस् तस्मा॑त् पा॒पात् प्रमु॑च्यते ।
 </details>
 

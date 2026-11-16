@@ -11,7 +11,7 @@ Prajāpati moves in the womb of the creation; he becomes born in various forms, 
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिश्चरति॒ गर्भे॑ अ॒न्तः । अ॒जाय॑मानो बहु॒धा विजा॑यते ।
-तस्य॒ धीराः॒ परि॑जानन्ति॒ योनिम्॑ । मरी॑चीनां प॒दमि॑च्छन्ति
+तस्य॒ धीराः॒ परि॑जानन्ति॒ योनि॑म् । मरी॑चीनां प॒दमि॑च्छन्ति
 वे॒धसः॑ । ३
 </details>
 
