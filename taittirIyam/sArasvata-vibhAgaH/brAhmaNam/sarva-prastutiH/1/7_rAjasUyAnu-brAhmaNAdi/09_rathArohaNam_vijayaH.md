@@ -143,7 +143,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यः᳓ क्षत्रि᳓यᳶ प्र᳓तिहित᳓स् सोऽन्वा᳓रभते ।
+यः᳓ क्षत्रि᳓यᳶ प्र᳓तिहित᳓स् सो᳙ऽन्वा᳓रभते ।
 </details>
 
 <details><summary>मूलम्</summary>

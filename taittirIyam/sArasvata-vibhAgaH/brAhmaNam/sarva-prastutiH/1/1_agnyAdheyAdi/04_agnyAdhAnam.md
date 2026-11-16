@@ -478,7 +478,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ ऽन्वाहार्य-प᳓चनम् अ᳓ग्र आ᳓दधत ।
+ते᳙ ऽन्वाहार्य-प᳓चनम् अ᳓ग्र आ᳓दधत ।
 </details>
 
 <details><summary>मूलम्</summary>

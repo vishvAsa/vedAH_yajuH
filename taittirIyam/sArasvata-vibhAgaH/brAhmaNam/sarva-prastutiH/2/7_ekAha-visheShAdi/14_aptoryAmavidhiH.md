@@ -23,7 +23,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽस्मात्सृष्टाᳶ᳓ प᳓राञ्च आयन् ।
+ते᳙ऽस्मात्सृष्टाᳶ᳓ प᳓राञ्च आयन् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -83,7 +83,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽग्नि᳓मब्रवीत् ।  
+सो᳙ऽग्नि᳓मब्रवीत् ।  
 इमा᳓न्म ईप्से᳓ति ।
 </details>
 
@@ -95,7 +95,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽग्नि᳓मब्रवीद् -"इमा᳓न्म ईप्से᳓"ति ।
+सो᳙ऽग्नि᳓मब्रवीद् -"इमा᳓न्म ईप्से᳓"ति ।
 </details>
 
 <details><summary>मूलम्</summary>

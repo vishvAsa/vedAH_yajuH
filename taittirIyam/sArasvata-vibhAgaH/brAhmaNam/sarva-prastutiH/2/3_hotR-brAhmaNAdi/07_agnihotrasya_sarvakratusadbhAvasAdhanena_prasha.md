@@ -37,7 +37,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽग्नि᳓रब्रवीन् - "म᳓माय᳓म् अ᳓न्नम् अस्त्व्"  इ᳓ति ।
+सो᳙ऽग्नि᳓रब्रवीन् - "म᳓माय᳓म् अ᳓न्नम् अस्त्व्"  इ᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -58,7 +58,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽबिभेत् -  
+सो᳙ ऽबिभेत् -  
 "स᳓र्वव्ँ वै᳓ मा ऽय᳓म् प्र᳓ धक्ष्यती᳓"ति ।
 </details>
 

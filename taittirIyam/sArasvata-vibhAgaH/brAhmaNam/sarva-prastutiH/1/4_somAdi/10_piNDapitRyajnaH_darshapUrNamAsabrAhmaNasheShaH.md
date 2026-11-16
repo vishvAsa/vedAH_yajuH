@@ -268,7 +268,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ ऽग्निम् एवा᳓यजन्त ।
+ते᳙ ऽग्निम् एवा᳓यजन्त ।
 </details>
 
 <details><summary>मूलम्</summary>

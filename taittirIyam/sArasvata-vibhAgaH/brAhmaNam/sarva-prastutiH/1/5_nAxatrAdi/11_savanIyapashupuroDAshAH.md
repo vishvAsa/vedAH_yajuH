@@ -110,7 +110,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽब्रवीत् - "सप्तदशे᳓न ह्रिय᳓माणो व्य᳙लेशिषि, भिष᳓ज्यत मे᳓"ति ।
+सो᳙ ऽब्रवीत् - "सप्तदशे᳓न ह्रिय᳓माणो व्य᳙लेशिषि, भिष᳓ज्यत मे᳓"ति ।
 </details>
 
 <details><summary>मूलम्</summary>

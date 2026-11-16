@@ -73,7 +73,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ ऽग्नि᳓म् अ᳓न्व् अविन्दन्न् ऋतु᳓षू᳓त्सन्नम् ।
+ते᳙ ऽग्नि᳓म् अ᳓न्व् अविन्दन्न् ऋतु᳓षू᳓त्सन्नम् ।
 </details>
 
 <details><summary>मूलम्</summary>

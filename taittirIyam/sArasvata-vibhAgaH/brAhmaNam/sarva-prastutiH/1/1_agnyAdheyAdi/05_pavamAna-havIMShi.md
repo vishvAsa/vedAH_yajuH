@@ -754,7 +754,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽबिभेत् - "प्र᳓ मा धक्ष्यती᳓"ति ॥41॥
+सो᳙ ऽबिभेत् - "प्र᳓ मा धक्ष्यती᳓"ति ॥41॥
 </details>
 
 <details><summary>मूलम्</summary>

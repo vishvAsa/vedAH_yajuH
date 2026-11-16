@@ -152,7 +152,7 @@ unicode_script: devanagari
 ## मा॒त॒रिश्व॑नो घ॒र्मः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"मातरि᳓श्वनो घर्मो᳓ऽसी᳓"त्य् आह॥16॥
+"मातरि᳓श्वनो घर्मो᳙ऽसी᳓"त्य् आह॥16॥
 </details>
 
 <details><summary>मूलम्</summary>

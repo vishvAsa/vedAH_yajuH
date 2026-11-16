@@ -841,7 +841,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यजमान-देवत्या᳓ वै᳓ जुहूः᳓ ।
+यजमान-देवत्या᳙ वै᳓ जुहूः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>

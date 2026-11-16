@@ -691,7 +691,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽर्यम्णᳶ᳓ प᳓न्था अभवत् ।
+सो᳙ऽर्यम्णᳶ᳓ प᳓न्था अभवत् ।
 </details>
 
 <details><summary>मूलम्</summary>

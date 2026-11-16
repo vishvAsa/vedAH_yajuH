@@ -331,7 +331,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ऽरण्येऽनुवाक्यो᳙ गण᳓स् त᳓म् मध्यत᳓ उ᳓पदधाति ।
+यो᳙ऽरण्येऽनुवाक्यो᳙ गण᳓स् त᳓म् मध्यत᳓ उ᳓पदधाति ।
 </details>
 
 <details><summary>मूलम्</summary>

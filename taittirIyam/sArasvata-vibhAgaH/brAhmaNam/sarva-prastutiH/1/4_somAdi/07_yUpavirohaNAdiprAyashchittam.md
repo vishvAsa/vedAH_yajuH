@@ -52,7 +52,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓ एव᳓ रूपा᳓णामी᳓शे सो᳓ऽस्मि᳓न् पशू᳓न् वीर्यय्ँ᳙ यच्छति ।
+य᳓ एव᳓ रूपा᳓णामी᳓शे सो᳙ऽस्मि᳓न् पशू᳓न् वीर्यय्ँ᳙ यच्छति ।
 </details>
 
 <details><summary>मूलम्</summary>

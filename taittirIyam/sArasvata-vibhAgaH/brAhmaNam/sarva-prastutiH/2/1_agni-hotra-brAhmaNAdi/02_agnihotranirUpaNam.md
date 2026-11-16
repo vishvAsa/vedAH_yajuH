@@ -43,7 +43,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽस्य +++(प्रजापतेः)+++ प्रजा᳓भिर् +++(सह)+++ **अ᳓पाक्रामत्** ।
+सो᳙ ऽस्य +++(प्रजापतेः)+++ प्रजा᳓भिर् +++(सह)+++ **अ᳓पाक्रामत्** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -99,7 +99,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽग्नि᳓र् **उ᳓पार᳓म᳓त᳓** - "+**अ᳓तापि** +++(तपसा??)+++ वै᳓ स्य᳓ प्रजा᳓पतिर्" इ᳓ति ।
+सो᳙ऽग्नि᳓र् **उ᳓पार᳓म᳓त᳓** - "+**अ᳓तापि** +++(तपसा??)+++ वै᳓ स्य᳓ प्रजा᳓पतिर्" इ᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -244,7 +244,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽब्रवीत् -
+सो᳙ ऽब्रवीत् -
 "कस् त्वम् असी᳓"ति ।
 </details>
 
@@ -266,7 +266,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ **ऽजुहोथ्** - "स्वा᳓हे᳓"ति ।
+सो᳙ **ऽजुहोथ्** - "स्वा᳓हे᳓"ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -409,7 +409,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽजा᳓म् असृजत ॥7॥
+सो᳙ऽजा᳓म् असृजत ॥7॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -420,7 +420,7 @@ unicode_script: devanagari
 ## अग्निहोत्र-देवते
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽग्नि᳓र् अबिभेद् -  
+सो᳙ऽग्नि᳓र् अबिभेद् -  
 "आ᳓हुतीभिर् वै᳓ मा ऽऽप्नोती᳓"ति ।
 </details>
 
@@ -464,7 +464,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ **ऽब्रवीत्**- "कि᳓म् भाग-धे᳓यम् **अभि᳓जनिष्य**" इ᳓ति ।
+सो᳙ **ऽब्रवीत्**- "कि᳓म् भाग-धे᳓यम् **अभि᳓जनिष्य**" इ᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -543,7 +543,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽग्नि᳓रब्रवीत् -  
+सो᳙ऽग्नि᳓रब्रवीत् -  
 "कथ᳓न्नौ होष्यन्ती᳓"ति ।
 </details>
 

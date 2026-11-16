@@ -539,7 +539,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ ऽभिनी᳓यैवा᳓हᳶ पशु᳓म् आ᳓ऽलभन्त ।
+ते᳙ ऽभिनी᳓यैवा᳓हᳶ पशु᳓म् आ᳓ऽलभन्त ।
 </details>
 
 <details><summary>मूलम्</summary>

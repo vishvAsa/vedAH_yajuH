@@ -204,7 +204,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो ऽब्रवीत् - "त्रेधा᳓ ऽह᳓म् आत्मा᳓नव्ँ वि᳓करिष्य" इ᳓ति ।
+सो᳙ ऽब्रवीत् - "त्रेधा᳓ ऽह᳓म् आत्मा᳓नव्ँ वि᳓करिष्य" इ᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -275,7 +275,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीत् ।  
+सो᳙ऽब्रवीत् ।  
 "क᳓ इद᳓न् तुरी᳓यम्" इ᳓ति ।
 </details>
 
@@ -723,7 +723,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो +++(→नमूचिः)+++ ऽस्माद् अभि᳓शुनतरो+++(=वृद्धतरो)+++ ऽभवत् ।
+सो᳙ +++(→नमूचिः)+++ ऽस्माद् अभि᳓शुनतरो+++(=वृद्धतरो)+++ ऽभवत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -743,7 +743,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीत् ,  
+सो᳙ऽब्रवीत् ,  
 
 > "सन्धाँ᳓ स᳓न्दधावहा ,  
 अ᳓थ त्वा᳓ ऽवस्रक्ष्यामि ,  

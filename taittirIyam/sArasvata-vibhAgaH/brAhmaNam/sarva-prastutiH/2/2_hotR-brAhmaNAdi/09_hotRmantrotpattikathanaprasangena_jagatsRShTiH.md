@@ -536,7 +536,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽरोदीत् प्रजा᳓पतिस्  
+सो᳙ ऽरोदीत् प्रजा᳓पतिस्  
 "स᳓ क᳓स्मा अज्ञि,  
 "य᳓द्य् अस्या᳓ अ᳓प्रतिष्ठाया" इ᳓ति ।
 </details>
@@ -753,7 +753,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽन्त᳓र्वान् अभवत् ।
+सो᳙ऽन्त᳓र्वान् अभवत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -858,7 +858,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽकामयत प्र᳓जायेये᳓ति ।
+सो᳙ ऽकामयत प्र᳓जायेये᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -998,7 +998,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽकामयत - प्र᳓जायेये᳓ति ।
+सो᳙ ऽकामयत - प्र᳓जायेये᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1018,7 +1018,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽन्त᳓र्वान् अभवत् ।
+सो᳙ ऽन्त᳓र्वान् अभवत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1079,7 +1079,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽहोरात्र᳓योस् सन्धि᳓र् अभवत् ।
+सो᳙ ऽहोरात्र᳓योस् सन्धि᳓र् अभवत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1097,7 +1097,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽकामयत प्र᳓जायेये᳓ति ।
+सो᳙ऽकामयत प्र᳓जायेये᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1117,7 +1117,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽन्त᳓र्वान् अभवत् ।
+सो᳙ऽन्त᳓र्वान् अभवत् ।
 </details>
 
 <details><summary>मूलम्</summary>

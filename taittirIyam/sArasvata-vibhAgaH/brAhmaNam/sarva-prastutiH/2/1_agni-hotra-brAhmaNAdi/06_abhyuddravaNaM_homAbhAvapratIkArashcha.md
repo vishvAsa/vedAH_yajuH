@@ -20,7 +20,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽजुहोत् ।
+सो᳙ऽजुहोत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -55,7 +55,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽब्रुवन् ।  
+ते᳙ऽब्रुवन् ।  
 "प्रजा᳓पतिरहौषीदात्मन्व᳓न्मे जायेते᳓"ति ।
 </details>
 
@@ -381,7 +381,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽन्य᳓दालम्भ्य᳙म᳓वित्वा प्रजा᳓पतिमभि᳓पर्या᳓वर्तत ।
+सो᳙ऽन्य᳓दालम्भ्य᳙म᳓वित्वा प्रजा᳓पतिमभि᳓पर्या᳓वर्तत ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -402,7 +402,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽमु᳓मादित्य᳓मात्म᳓नो नि᳓रमिमीत ।
+सो᳙ऽमु᳓मादित्य᳓मात्म᳓नो नि᳓रमिमीत ।
 </details>
 
 <details><summary>मूलम्</summary>

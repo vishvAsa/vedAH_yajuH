@@ -943,7 +943,7 @@ unicode_script: devanagari
 ## इ॒त इन्द्रो॑
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"इत᳓ इ᳓न्द्रो अकृणोद् वीर्या᳓णी᳓"त्य् आह ॥44॥
+"इत᳓ इ᳓न्द्रो अकृणोद् वीर्या᳙णी᳓"त्य् आह ॥44॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1108,7 +1108,7 @@ unicode_script: devanagari
 ## जुहू-संस्पर्श-वारणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यजमानदेवत्या᳓ वै᳓ जुहूः᳓ ।
+यजमानदेवत्या᳙ वै᳓ जुहूः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>

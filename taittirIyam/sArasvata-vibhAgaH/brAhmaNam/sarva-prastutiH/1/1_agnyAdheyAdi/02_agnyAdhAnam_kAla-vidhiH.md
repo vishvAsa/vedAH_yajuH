@@ -512,7 +512,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये᳓ऽवा᳓कीर्यन्त त "ऊर्णाव्+अ᳓भयो"+++(=ऊर्णनाभयो)+++ ऽभवन् ।
+ये᳙ऽवा᳓कीर्यन्त त "ऊर्णाव्+अ᳓भयो"+++(=ऊर्णनाभयो)+++ ऽभवन् ।
 </details>
 
 <details><summary>मूलम्</summary>

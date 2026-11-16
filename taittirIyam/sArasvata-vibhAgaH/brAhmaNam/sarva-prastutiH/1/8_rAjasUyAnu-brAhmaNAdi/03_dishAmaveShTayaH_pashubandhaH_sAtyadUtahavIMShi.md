@@ -331,7 +331,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽश्वि᳓भ्याम्पूष्णे᳓ पुरोडा᳓शन्द्वा᳓दशकपालन्नि᳓रवपन् ।
+ते᳙ऽश्वि᳓भ्याम्पूष्णे᳓ पुरोडा᳓शन्द्वा᳓दशकपालन्नि᳓रवपन् ।
 </details>
 
 <details><summary>मूलम्</summary>

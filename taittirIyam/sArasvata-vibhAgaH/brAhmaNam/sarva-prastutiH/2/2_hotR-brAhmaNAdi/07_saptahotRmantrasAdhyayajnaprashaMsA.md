@@ -318,7 +318,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽमु᳓ष्मिल्ँ लोके᳓ व्य᳙क्षुध्यन् ।
+ते᳙ऽमु᳓ष्मिल्ँ लोके᳓ व्य᳙क्षुध्यन् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -333,7 +333,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ऽब्रुवन् -  
+ते᳙ऽब्रुवन् -  
 "अमु᳓तᳶ प्रदा᳓नव्ँ+++(←स्वरो युक्तः)+++ वा᳓ उ᳓पजिजीविमे᳓"ति ।
 </details>
 
@@ -466,7 +466,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽमन्यत ।
+सो᳙ऽमन्यत ।
 </details>
 
 <details><summary>मूलम्</summary>

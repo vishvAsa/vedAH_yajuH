@@ -513,7 +513,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽपश्यत् पुष्कर-पर्ण᳓न्+++(=पद्मपत्रं)+++ ति᳓ष्ठत् ।
+सो᳙ऽपश्यत् पुष्कर-पर्ण᳓न्+++(=पद्मपत्रं)+++ ति᳓ष्ठत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -528,7 +528,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽमन्यत + "अस्ति वै᳓ त᳓द् +++(मृण्मयं)+++, य᳓स्मिन्न् इद᳓म् अ᳓धि ति᳓ष्ठती᳓"ति ।
+सो᳙ऽमन्यत + "अस्ति वै᳓ त᳓द् +++(मृण्मयं)+++, य᳓स्मिन्न् इद᳓म् अ᳓धि ति᳓ष्ठती᳓"ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -888,7 +888,7 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र् देवे᳓भ्यो नि᳓लाय᳓त᳓, अ᳓श्वो रूप᳓ङ् कृत्वा᳓ ।   
-सो᳓ ऽश्वत्थे᳓ सव्ँवत्सर᳓म् अतिष्ठत् ।
+सो᳙ ऽश्वत्थे᳓ सव्ँवत्सर᳓म् अतिष्ठत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1116,7 +1116,7 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिर् अग्नि᳓म् असृजत ।   
-सो᳓ऽबिभेत् प्र᳓ मा धक्ष्यती᳓ति ।
+सो᳙ऽबिभेत् प्र᳓ मा धक्ष्यती᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>

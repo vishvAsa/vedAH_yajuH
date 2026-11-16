@@ -36,7 +36,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽग्नि᳓र् अकामयत, "अह᳓म् इमाᳶ᳓ प्र᳓जनयेयमि᳓"ति ।
+सो᳙ ऽग्नि᳓र् अकामयत, "अह᳓म् इमाᳶ᳓ प्र᳓जनयेयमि᳓"ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -68,7 +68,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽशोचत् प्रजा᳓म् इच्छ᳓मानः ।
+सो᳙ ऽशोचत् प्रजा᳓म् इच्छ᳓मानः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -550,7 +550,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽग्नि᳓र् अब्र᳓वी᳓त् - "मा᳓म् अ᳓ग्रे यजत, मया मु᳓खेना᳓सुराञ् जेष्यथे᳓"ति ।
+सो᳙ ऽग्नि᳓र् अब्र᳓वी᳓त् - "मा᳓म् अ᳓ग्रे यजत, मया मु᳓खेना᳓सुराञ् जेष्यथे᳓"ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -621,7 +621,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ ऽग्निना मु᳓खेना᳓सुरान् अजयन् ।
+ते᳙ ऽग्निना मु᳓खेना᳓सुरान् अजयन् ।
 </details>
 
 <details><summary>मूलम्</summary>

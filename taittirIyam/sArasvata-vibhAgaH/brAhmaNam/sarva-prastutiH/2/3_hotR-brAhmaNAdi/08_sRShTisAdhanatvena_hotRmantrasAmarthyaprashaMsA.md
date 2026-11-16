@@ -42,7 +42,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽन्त᳓र्वान् अभवत् ।
+सो᳙ ऽन्त᳓र्वान् अभवत् ।
 </details>
 
 <details><summary>मूलम्</summary>

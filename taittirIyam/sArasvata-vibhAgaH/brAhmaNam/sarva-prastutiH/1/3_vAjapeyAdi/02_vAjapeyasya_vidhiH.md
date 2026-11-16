@@ -22,7 +22,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ ऽग्निष्टोमय्ँ᳓ य᳓ उक्थ्यय्ँ᳙ यो ऽतिरात्र᳓न् ते᳓ सहै᳓व᳓ स᳓र्वे वाजपे᳓यम् अपश्यन् ।
+यो᳙ ऽग्निष्टोमय्ँ᳓ य᳓ उक्थ्यय्ँ᳙ यो᳙ ऽतिरात्र᳓न् ते᳓ सहै᳓व᳓ स᳓र्वे वाजपे᳓यम् अपश्यन् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -40,7 +40,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ ऽन्यो ऽन्यस्मै ना᳓तिष्ठन्त "अह᳓म् अने᳓न यजा" इ᳓ति ।
+ते᳓ ऽन्यो᳙ ऽन्यस्मै ना᳓तिष्ठन्त "अह᳓म् अने᳓न यजा" इ᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -58,7 +58,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ ऽब्रुवन्न् - "आजि᳓म् अस्य᳓ धावामे᳓"ति ॥
+ते᳙ ऽब्रुवन्न् - "आजि᳓म् अस्य᳓ धावामे᳓"ति ॥
 </details>
 
 <details><summary>मूलम्</summary>

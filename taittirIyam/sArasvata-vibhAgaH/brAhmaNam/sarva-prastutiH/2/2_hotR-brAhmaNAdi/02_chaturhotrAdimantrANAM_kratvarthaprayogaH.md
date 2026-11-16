@@ -165,7 +165,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽकामयत -  
+सो᳙ऽकामयत -  
 चातुर्मास्या᳓नि सृजेये᳓ति ।
 </details>
 
@@ -320,7 +320,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽकामयत - पशुबन्धँ᳓ सृजेये᳓ति ।
+सो᳙ऽकामयत - पशुबन्धँ᳓ सृजेये᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -360,7 +360,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽस्मात् सृष्टो᳓ ऽपाक्रामत् ।
+सो᳙ ऽस्मात् सृष्टो᳓ ऽपाक्रामत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -486,7 +486,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽकामयत "सौम्य᳓म् अध्वरँ᳓ सृजेये᳓"ति ।
+सो᳙ऽकामयत "सौम्य᳓म् अध्वरँ᳓ सृजेये᳓"ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -526,7 +526,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽस्मात् सृष्टो᳓ऽपाक्रामत् ।
+सो᳙ ऽस्मात् सृष्टो᳓ऽपाक्रामत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -794,7 +794,7 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓यज्ञो वा᳓ एष᳓  
-यो᳓ऽपत्नी᳓कः ।
+यो᳙ऽपत्नी᳓कः ।
 </details>
 
 <details><summary>मूलम्</summary>

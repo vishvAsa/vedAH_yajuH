@@ -369,7 +369,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽब्रवीत् प्रजा᳓पतिः ।
+सो᳙ ऽब्रवीत् प्रजा᳓पतिः ।
 </details>
 
 <details><summary>मूलम्</summary>

@@ -151,7 +151,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽनन्दद् - "अ᳓सृक्षि वा᳓ इम᳓म्" इ᳓ति ।
+सो᳙ऽनन्दद् - "अ᳓सृक्षि वा᳓ इम᳓म्" इ᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -218,7 +218,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽताम्यत् ।
+सो᳙ ऽताम्यत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -321,7 +321,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽताम्यत् ।
+सो᳙ऽताम्यत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -341,7 +341,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽन्त᳓रिक्षम् असृजत ।
+सो᳙ ऽन्त᳓रिक्षम् असृजत ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -371,7 +371,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽताम्यत् ।
+सो᳙ऽताम्यत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -550,7 +550,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽताम्यत् ।
+सो᳙ऽताम्यत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -670,7 +670,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ ऽताम्यत् ।
+सो᳙ ऽताम्यत् ।
 </details>
 
 <details><summary>मूलम्</summary>

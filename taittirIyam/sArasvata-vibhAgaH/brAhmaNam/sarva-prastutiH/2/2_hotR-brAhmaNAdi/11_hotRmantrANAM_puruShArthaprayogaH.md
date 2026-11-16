@@ -110,7 +110,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽकामयत वीरो᳓ म आ᳓जायेते᳓ति ।
+सो᳙ऽकामयत वीरो᳓ म आ᳓जायेते᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -179,7 +179,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽकामयत - पशुमा᳓न्त् स्याम् इ᳓ति ।
+सो᳙ऽकामयत - पशुमा᳓न्त् स्याम् इ᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -247,7 +247,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽकामयत "र्त᳓वो मे कल्पेरन्न्" इ᳓ति ।
+सो᳙ऽकामयत "र्त᳓वो मे कल्पेरन्न्" इ᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -315,7 +315,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽकामयत सोमप᳓स् सोमयाजी᳓ स्याम् ।  
+सो᳙ऽकामयत सोमप᳓स् सोमयाजी᳓ स्याम् ।  
 आ᳓ मे सोमप᳓स् सोमयाजी᳓ जायेते᳓ति ॥ 70 ॥
 </details>
 
@@ -495,7 +495,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ ऽमु᳓ष्मिल्ँ लोके᳓ व्यक्षुध्यन् ।
+ते᳙ ऽमु᳓ष्मिल्ँ लोके᳓ व्यक्षुध्यन् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -511,7 +511,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ ऽब्रुवन्न् -  
+ते᳙ ऽब्रुवन्न् -  
 "अमु᳓तᳶ प्रदा᳓नव्ँ+++(←स्वरो युक्तः)+++ वा᳓ उ᳓पजिजीविमे᳓"ति ।
 </details>
 

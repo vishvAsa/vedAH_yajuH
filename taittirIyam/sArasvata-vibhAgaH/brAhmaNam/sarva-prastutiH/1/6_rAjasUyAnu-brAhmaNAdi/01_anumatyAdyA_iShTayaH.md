@@ -999,7 +999,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳓ ऽग्नेर् देव᳓ताया  ए᳓त्य् अष्टा᳓व् एता᳓नि हवीँ᳓षि भवन्ति ।
+यो᳙ ऽग्ने᳓र् देव᳓ताया  ए᳓त्य् अष्टा᳓व् एता᳓नि हवीँ᳓षि भवन्ति ।
 </details>
 
 <details><summary>मूलम्</summary>

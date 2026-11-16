@@ -102,7 +102,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽब्रवीत् -  
+सो᳙ऽब्रवीत् -  
 
 > "क᳓स् त्व᳓म् अ᳓सि ,  
 वयव्ँ᳓ वै᳓ त्व᳓च् छ्रे᳓याँसस् स्म" इ᳓ति।  
@@ -346,7 +346,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽमन्यत -  
+सो᳙ऽमन्यत -  
 "कि᳓ङ् किव्ँ वा᳓ अकरम्" इ᳓ति ।
 </details>
 

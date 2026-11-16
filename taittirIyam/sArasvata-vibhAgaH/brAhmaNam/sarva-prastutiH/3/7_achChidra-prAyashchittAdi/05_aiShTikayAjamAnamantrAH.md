@@ -239,7 +239,7 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे᳓वाᳶ पितरᳶ, पि᳓तरो देवाः ।  
-यो᳓ऽह᳓मस्मि स᳓ स᳓न् यजे ।  
+यो᳙ऽह᳓मस्मि स᳓ स᳓न् यजे ।  
 </details>
 
 <details><summary>मूलम्</summary>

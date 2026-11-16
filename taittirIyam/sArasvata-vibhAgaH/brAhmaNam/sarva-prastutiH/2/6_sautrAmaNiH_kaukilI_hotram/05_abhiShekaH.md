@@ -198,7 +198,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-को᳓ऽसि कतमो᳙ऽसि ।  
+को᳙ऽसि कतमो᳙ऽसि ।  
 क᳓स्मै त्वा का᳓य त्वा ।  
 </details>
 

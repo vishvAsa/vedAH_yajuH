@@ -33,7 +33,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽपो +**अभ्य᳙म्रियत** ।
+सो᳙ऽपो +**अभ्य᳙म्रियत** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1336,7 +1336,7 @@ __________________________________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"र᳓क्षसाम् भागो᳓ऽसी᳓"त्य् आह।
+"र᳓क्षसाम् भागो᳙ऽसी᳓"त्य् आह।
 </details>
 
 <details><summary>मूलम्</summary>

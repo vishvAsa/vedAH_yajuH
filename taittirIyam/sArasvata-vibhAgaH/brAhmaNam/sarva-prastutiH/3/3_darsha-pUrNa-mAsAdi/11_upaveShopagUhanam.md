@@ -374,7 +374,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"हतो᳓ ऽसा᳓व्, अ᳓वधिष्मामु᳓म्" इ᳓त्य् आह **स्तृ᳓त्यै** ।
+"हतो᳙ ऽसा᳓व्, अ᳓वधिष्मामु᳓म्" इ᳓त्य् आह **स्तृ᳓त्यै** ।
 </details>
 
 <details><summary>मूलम्</summary>

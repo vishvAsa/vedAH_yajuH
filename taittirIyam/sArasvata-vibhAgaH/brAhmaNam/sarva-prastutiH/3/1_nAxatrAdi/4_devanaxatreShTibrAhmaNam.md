@@ -42,7 +42,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓तो वै᳓ सो ऽन्नादो᳓ देवा᳓नाम् **अभवत्** ।
+त᳓तो वै᳓ सो᳙ ऽन्नादो᳓ देवा᳓नाम् **अभवत्** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -175,7 +175,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ **ऽकामयत**-  
+सो᳙ **ऽकामयत**-  
 "उ᳓प मा᳓ **वर्तेत**, स᳓म् एनया **गच्छेये᳓**"ति ।
 </details>
 

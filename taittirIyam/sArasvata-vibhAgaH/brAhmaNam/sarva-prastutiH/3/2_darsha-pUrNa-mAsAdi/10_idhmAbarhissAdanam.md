@@ -342,7 +342,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम्प्रत्ये᳓व᳓ बर्हि᳓षा प्रजा᳓नाम् प्रज᳓ननम् उ᳓पैति ।
+सम्प्रत्ये᳙व᳓ बर्हि᳓षा प्रजा᳓नाम् प्रज᳓ननम् उ᳓पैति ।
 </details>
 
 <details><summary>मूलम्</summary>
