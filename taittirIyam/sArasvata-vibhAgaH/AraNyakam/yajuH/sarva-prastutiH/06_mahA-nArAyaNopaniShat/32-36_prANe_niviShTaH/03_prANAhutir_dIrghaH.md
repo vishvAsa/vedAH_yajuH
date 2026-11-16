@@ -87,7 +87,7 @@ I sacrifice nectar sitting in the Udana-breath; enter me being auspicious for no
 
 समाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा ऽऽविशा᳓ऽप्रदाहाय।  
-स᳓माना᳓य स्वा᳓हा ।
+समाना᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -99,5 +99,5 @@ I sacrifice nectar sitting in the Samana-breath; enter me being auspicious for n
 
 स॒मा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि।  
 शि॒वो मा॑ ऽऽवि॒शाऽप्र॑दाहाय।  
-समा॒नाय॒ स्वाहा॑ ।
+स॒मा॒नाय॒ स्वाहा॑ ।
 </details>
