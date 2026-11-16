@@ -32,8 +32,7 @@ Mantras for peace and propitiation.
 Harih Om.
 </details>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 भद्रं᳓ क᳓र्णेभिः **शृणुयाम** देवा  
@@ -42,21 +41,17 @@ Harih Om.
 **व्य᳓शेम**+++(=प्राप्नुयाम)+++ देव᳓-हितं य᳓द् आ᳓युः॥
 
 </details>
-
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/089/08_bhadraM_karNebhiH.md">
-
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/089/08_bhadraM_karNebhiH.md">
 <details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 भ॒द्रं कर्णे॑भिः शृणुयाम +++(शृणु॒याम॑ - तैत्तिरीये)+++ देवा भ॒द्रं प॑श्येमा॒क्षभि॑र्यजत्राः ।  
 स्थि॒रैरङ्गै॑स्तुष्टु॒वांस॑स्त॒नूभि॒र्व्य॑शेम दे॒वहि॑तं॒ यदायुः॑ ॥
 </details>
-
 </div>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/089/08_bhadraM_karNebhiH.md">
-
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/089/08_bhadraM_karNebhiH.md">
 <details open><summary><h2>008 …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -377,7 +372,6 @@ Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre G�
 भावार्थभाषाः -  विद्वान, आप्त व सज्जनांच्या संगतिशिवाय कुणीही सत्यविद्येची वाणी, सत्यदर्शन व व्यवहार प्राप्त करू शकत नाही व त्यांच्याशिवाय कुणाचे शरीर व आत्मा दृढ होऊ शकत नाही, त्यासाठी सर्व माणसांनी वरील व्यवहाराप्रमाणे वागणे योग्य आहे. ॥ ८ ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -385,8 +379,7 @@ Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre G�
 अथ द्वितीया - स्वस्ति न इति ॥
 </details>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/06_svasti_na.md">
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/06_svasti_na.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 स्वस्ति᳓ न इ᳓न्द्रो वृद्ध᳓-श्रवाः  
@@ -395,7 +388,6 @@ Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre G�
 स्वस्ति᳓ नो बृ᳓हस्प᳓तिर् दधातु ॥
 
 </details>
-
 </div>
 
 <details><summary>त्रिभुवनः</summary>
@@ -403,14 +395,12 @@ Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre G�
 Om Peace, Peace, Peace.
 </details>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/089/06_svasti_na.md">
-
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/089/06_svasti_na.md">
 <details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 स्व॒स्ति न॒ इन्द्रो॑ वृ॒द्धश्र॑वाः स्व॒स्ति नः॑ पू॒षा वि॒श्ववे॑दाः ।  
 स्व॒स्ति न॒स्तार्क्ष्यो॒ अरि॑ष्टनेमिः स्व॒स्ति नो॒ बृह॒स्पति॑र्दधातु ॥
 </details>
-
 </div>
 
 <details><summary>सायण-टीका</summary>
@@ -418,8 +408,7 @@ Om Peace, Peace, Peace.
 अथ द्वितीयमाह-  वृद्धैर्महात्मभिः सदा पुराणादिषु श्रूयत इति वृद्धश्रवाः । तादृश इन्द्रो नोऽस्माकं स्वस्ति दधात्वध्ययनश्रवणानुष्ठानार्थं क्षेमं सम्पादयतु । विश्वं वेत्ति जानातीति विश्ववेदाः । तादृशः पूषाऽपि नः स्नस्ति दधातु । अरिष्टमहिंसा तस्य नेमिस्थानीयः । यथा लोहमयी नेमिः काष्ठमयस्य चक्रस्य भङ्गाभावाय पालयत्येवमयंतार्क्ष्यो गरुडोऽपि सर्पादिकृतां हिंसां निवार्य तत्पालकत्वादरिष्टनेमिः । तादृशस्तार्क्ष्यो नः स्वस्ति दधातु ।
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/089/06_svasti_na.md">
-
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/089/06_svasti_na.md">
 <details open><summary><h2>006 …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -747,5 +736,4 @@ Heil schenke uns Indra, der hochberühmte, Heil uns Puschan der alles besitzende
 भावार्थभाषाः -  ईश्वराची प्रार्थना व आपल्या पुरुषार्थाशिवाय कुणालाही शरीर, इंद्रिये व आत्मा यांचे परिपूर्ण सुख मिळत नाही, त्यामुळे त्याचे अनुष्ठान अवश्य करावे. ॥ ६ ॥
 </details>
 </details>
-
 </div>
