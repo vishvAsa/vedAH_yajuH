@@ -66,3 +66,9 @@ O Goddess Dakṣiṇā (Sacrificial Fee), I take you by the impelling of the imp
 
 प्रति॑गृह्णामि
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+हे प्रतिगृह्यमाणद्रव्य सवितुर्देवस्य प्रेरणे सत्यश्विसम्बन्धिभ्यां बाहुभ्यां पूषसम्बन्धिभ्यां हस्ताभ्यां त्वां प्रतिगृह्णामि ।
+</details>
+

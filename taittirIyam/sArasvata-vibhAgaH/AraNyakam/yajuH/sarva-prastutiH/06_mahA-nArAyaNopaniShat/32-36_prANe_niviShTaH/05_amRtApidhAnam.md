@@ -12,6 +12,11 @@ Mantra for drinking the water after finishing the meal.
 अभिवारयति - अमृतापिधानमसीति ॥
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+भोजनादूर्ध्वमपां प्राशने मन्त्रमाह —
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमृतापिधान᳓मसि । (50)
@@ -27,7 +32,19 @@ You are the cover of the nectar.
 अ॒मृ॒ता॒पि॒धा॒नम॑सि । (50)
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- अमृत-अपिधान᳓म् (अ᳓मृत (*RV*), समासस्वरः)
+- असि (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *TS*, *RV*)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अपिधानं छादनं येनामृतं पिधीयते तत्त्वमसि हे उदक ! ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+पीयमान हे जल त्वममृतमविनश्वरमपिधानमाच्छादकमसि॥
+</details>
+

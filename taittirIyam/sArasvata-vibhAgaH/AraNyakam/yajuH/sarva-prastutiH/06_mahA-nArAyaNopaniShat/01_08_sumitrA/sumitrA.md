@@ -12,6 +12,11 @@ title = "sumitrA"
 अञ्जलिना उपहरति - सुमित्रा न इति ॥ अतः पराणि यजूंषि ।
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+नाभिदघ्ने जले प्रविश्य जलाभिमन्त्रणमन्त्रमाह —
+</details>
+
 <details><summary>गोपालदेशिकोक्त-विनियोगः</summary>
 
 इत्यात्मानमभिषिच्य,
@@ -30,6 +35,11 @@ May the waters and the plants be good friends to us;
 <details><summary>मूलम्</summary>
 
 सु॒मि॒त्रा न॒ आप॒ ओष॑धयस् सन्तु,
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+या एता आपस्ता एतास्तज्जन्या व्रीहियवाद्योषधयश्च नोऽस्मान्प्रति सुमित्राः स्नानपानभोजनादावनुकूलाः सन्तु।
 </details>
 
 _________________
@@ -66,6 +76,11 @@ may they become bad friends to them, who hate us and whom we hate.
 उभे व्याख्याते ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+यः शत्रुरस्मासु द्वेषं करोति यस्मिंश्च वयं द्वेषं कुर्म उभयविधाय तस्मै शत्रवे दुर्मित्राः प्रतिकूला भूयासुः स्नानपानभोजनादौ ज्वराजीर्णादिकमुत्पादयन्तु।
+</details>
+
 _________________
 
 <details><summary>त्रिभुवनः - विनियोगः</summary>
@@ -76,6 +91,11 @@ _________________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दर्शपूर्णमासयोर् अप्पतीनुपतिष्ठते - नम इति ॥
+</details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+जलावस्थितदेवान्प्रति नमस्कारमन्त्रं दर्शयति —
 </details>
 
 <details><summary>गोपालदेशिकोक्त-विनियोगः</summary>
@@ -96,6 +116,13 @@ Salutation to the fire, full of the water
 <details><summary>मूलम्</summary>
 
 नमो॒ऽग्नये॑ऽप्सु॒मते॑,
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- न᳓मः (*TS*, *RV*, *TB*, *AV*)
+- अग्न᳓ये (*TS*, *RV*, *TB*, *TK*)
+- अप्सुम᳓ते (आरण्यक-पाठः (अनाम्नातम्))
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -162,3 +189,15 @@ salutation to the waters.
 
 नमो॒ऽद्भ्यः ।
 </details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- न᳓मः (*TS*, *RV*, *TB*, *AV*)
+- अद्भ्यः᳓ (*TS*, *TB*)
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आपो यस्याग्नेः सन्ति सोऽयमप्सुमान्, जलमध्ये निगूढ इत्यर्थः। तथाविधायाग्नय इन्द्राय वरुणाय वारुण्यै वरुणपत्न्यै जलाभिमानिदेवताभ्यश्च नमस्कारोऽस्तु।
+</details>
+
