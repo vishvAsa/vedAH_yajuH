@@ -22,7 +22,7 @@ Bringing, increasing (1), making herself long, my clothes, cows, food and drink 
 स्वाहा॑ ।
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः - 1/20 व्यत्यस्त-स्वराः)</summary>
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 - आव᳓हन्ती (*RV*)
 - वितन्वाना᳓ (आरण्यक-पाठः (अनाम्नातम्))
@@ -39,7 +39,8 @@ Bringing, increasing (1), making herself long, my clothes, cows, food and drink 
 - त᳓तः (*TS*, *RV*, *TB*)
 - मे (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
 - श्रि᳓यम् (*TS*, *RV*, *TB*)
-- आ᳓वह → **आवह** (तिङन्तम् अनुदात्तम्, पा० ८.१.२८)
+- आ᳓ (*TS*, *RV*)
+- वह (तिङन्तम् अनुदात्तम्, पा० ८.१.२८)
 - लोमशा᳓म् (आरण्यक-पाठः (अनाम्नातम्))
 - पशु᳓भिः (*TS*, *TB*, *TK*)
 - सह᳓ (*TS*, *RV*, *TB*)
