@@ -8,6 +8,11 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 तद्-अर्थम् आपस् स्तूयन्ते - योऽपामिति ॥
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+एतावत्स्वनुवाकेषूपधानमन्त्राः प्रायेणाभिहिताः, अतः परमिष्टकानां ब्राह्मणमुच्यते ।
+</details>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 Brāhmaṇas (praises etc.) relating to the placing of bricks. 1–9. Waters as the abodes of the things.
@@ -28,6 +33,16 @@ Brāhmaṇas (praises etc.) relating to the placing of bricks. 1–9. Waters as 
 
 यो॑ऽपां पुष्पव्ँ॒ वेद॑ ।  
 पुष्प॑वान्प्र॒जावा॑न्पशु॒मान्भ॑वति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तत्राऽदौ तावदापो बहुधा प्रशस्यन्ते ।
+</details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+तत्र प्रथमां प्रशंसामाह -
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -51,6 +66,11 @@ The moon (Candramas) is, verily, the flower of the waters.[P109_1]
 
 रसात्मकत्वाच् चन्द्रमा अपां पुष्पम् ।  
 यद्वा - लतानां कुसुमवज् जगद्-आह्लादिन्य् अपां परिणतिश्चन्द्रमाः ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अमृतमयं हि चन्द्रमण्डलम् । अतो जलकार्यत्वादपां पुष्पस्थानीयम् । एतस्य वेदिता स्वयं भोगार्थं चम्पकबकुलादिपुष्पैः पुत्रादिप्रजया गवादिपशुभिश्च समृद्धो भवति । वेदने प्ररोचनार्थमादौ फलकथनम्, उपसंहारार्थं पुनः कथनम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -173,6 +193,11 @@ He, who knows the abode of the fire, becomes the possessor of an abode; (yea) be
 आ॒यत॑नवान्भवति ।
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ द्वितीयां प्रशंसामाह -
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो वा᳓ अग्ने᳓र् आय᳓तनम् ।
@@ -193,6 +218,11 @@ Waters are, verily, the abode of the fire.[P109_2]
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अग्नेश्चापः कारणं सूक्ष्मा आपः सर्वं लोकं धारयन्तीति । यद्वा - अग्नेरापस्स्थानम् और्वादीनामप्सु दर्शनात्, पर्जन्यात्मना आदित्यावस्थानाच्च ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सृष्टिश्रुतौ "अग्नेरापः" इत्यग्नेर्जलकारणत्वाभिधानादग्निरपामाश्रयः । अत्रापि प्ररोचनार्थमादौ फलकथनम्, उपसंहारार्थं पुनरप्यायतनवानित्यभिधानम् । तत्र य एवं वेदेत्यध्याहरणीयम् । महासृष्टावपामग्निकार्यत्वेऽपि ब्रह्माण्डाद्यवान्तरसृष्टौ "आपो वा इदमासन्सलिलमेव" इत्यादिवाक्येनापां सर्वकारणत्वाभिधानाद्ब्रह्माण्डान्तःपातिनोऽस्मद्दृश्यस्याग्नेर्जलकार्यत्वादपामग्न्याधारत्वम् । अत्रापि प्ररोचनार्थमुपसंहारार्थं द्विः फलकथनम् । सेयं जलाग्न्योः परस्पराधारोक्तिर्द्वितीया प्रशंसा । एवमुत्तरत्र द्रष्टव्यम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -284,6 +314,11 @@ The wind is, verily, the abode of the waters.
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ तृतीयां प्रशंसामाह -
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वायो᳓र् आय᳓तनव्ँ वे᳓द ।  
@@ -301,6 +336,16 @@ He, who knows the abode of the wind, becomes the possessor of an abode; (yes) be
 यो वा॒योरा॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।  
 [78]
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+महासृष्टौ "वायोरग्निः । अग्नेनापः" इति श्रुतेरग्निद्वारा वायोरप्कारणत्वादायतनत्वम् । अपां त्ववान्तरसृष्टौ पूर्वोक्तन्यायेन वाय्वाधारत्वम् । अन्यत्पूर्ववद्व्याख्येयम् ।
+</details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ चतुर्थीमाह -
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -324,6 +369,11 @@ The waters are, verily, the abode of the wind.[P109_3][P109_4]
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आपश् च वायोः कारणम् अप्कारणकत्वात् सर्वस्य ॥३॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+योऽसावादित्यस्तपन्नुपलभ्यते सोऽयमपामाधारः । "आदित्याज्जायते वृष्टिः" इति जलकारणस्मृतेः । अपां च पूर्ववदादित्याधारत्वं द्रष्टव्यम् ।
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati_ya_evaM_veda.md">
@@ -504,6 +554,11 @@ He, who knows the abode of the waters, becomes the possessor of an abode.
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ पञ्चमीमाह -
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्र᳓मा वा᳓ अपा᳓म् आय᳓तनम् ।
@@ -522,6 +577,11 @@ The moon, verily, is the abode of the waters.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 चन्द्रमा वा अपामायतनं स्थानं तस्यामृतभागत्वात् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तुहिनरूपाणां किरणानां चन्द्रजन्यत्वाच्चन्द्रमसो जलाधारत्वम् ।
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati.md">
@@ -680,6 +740,11 @@ The constellations are, verily, the abode of the waters.
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ षष्ठीमाह -
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ न᳓क्षत्राणाम् आय᳓तनव्ँ वे᳓द ।  
@@ -695,6 +760,11 @@ He, who knows the abode of the constellations, becomes the possessor of an abode
 
 यो नक्ष॑त्राणामा॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पुष्याश्लेषादिषु महानक्षत्रेषु वर्तमानेषु वृष्ट्याधिक्यदर्शनान्नक्षत्राणामबाधारत्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -831,6 +901,11 @@ He, who knows the abode of the rain, becomes the possessor of an abode, (yea) be
 आ॒यत॑नवान्भवति ।
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ सप्तमीमाह -
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो वै᳓ पर्ज᳓न्यस्याय᳓तनम् ।
@@ -849,6 +924,11 @@ The waters are, verily, the abode of the rain.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पर्जन्यस्यापः कारणं तदधीनस्थितित्वात्तस्य ॥७॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+वृष्टिद्वारा पर्जन्याख्यस्य मेघस्य जलाधारत्वं प्रसिद्धम् ।
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati_ya_evaM_veda.md">
@@ -900,6 +980,11 @@ He, who knows the abode of the waters, becomes the possessor of an abode.
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथाष्टमीमाह -
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँवत्सरो᳓ वा᳓ अपा᳓म् आय᳓तनम् ।
@@ -920,6 +1005,11 @@ The year is, verily, the abode of the waters.[P110_3]
 <details><summary>भट्टभास्कर-टीका</summary>
 
 संवत्सरोऽपां स्थानं कारणं च ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+वर्षर्तुद्वारा संवत्सरस्य जलाधारत्वम् ।
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati.md">
@@ -994,6 +1084,11 @@ He, who knows thus, becomes the possessor of an abode.
 
 </div>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ नवमीमाह -
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [[यो᳓|यो᳙]]ऽप्सु᳓ ना᳓वं प्र᳓तिष्ठिताव्ँ +++(←क्ते कर्मणि स्वरः)+++ वे᳓द ।  
@@ -1017,3 +1112,9 @@ He, who knows thus, becomes the possessor of an abode.
 
 योऽप्स्वित्यादि ॥ अप्सु कार्यत्वेन प्रतिष्ठितां नावं नेतव्यामीश्वरेण प्रेरणीयां वेद । णयतेरौणादिको डौप्रत्ययः । लोका अप्कारणाः कर्णधारस्थानीयेनेश्वरेण नेतव्याश्च । तस्मात्ते नौशब्देनोच्यन्त इति । तद् इदमर्थरूपमभिलक्ष्य एषा ऋक् पुनरुक्ता ॥९॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+यः पुमानप्सु प्रतिष्ठितां स्थैर्येणावस्थितां नावं वेद स स्वयं लोके प्रतिष्ठायुक्तो भवति ।
+</details>
+
