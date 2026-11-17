@@ -1,0 +1,81 @@
++++
+title = "§ 1 Die Handschriften"
++++
+
+Ueber die sämmtlichen hier benutzten Handschriften ist bereits früher von mir, zum Theil auch von A. Weber, so ausreichend Bericht erstattet worden, dass eine Wiederholung alles des Gesagten unnötig erscheint. Nur das Wesentlichste sei hier zur Orientierung hervorgehoben.
+
+Trotz aller Bemühungen un die Auffindung von weiteren Kâṭhaka-Mss. und trotz mancher schöner Erfolge dieser Bemühungen ist doch auch heute nur eine einzige vollständige Handschrift des Kâṭhaka vorhanden. Es ist dies das längst wohlbekannte und schon von verschiedenen Forschern benutzte, der königl. Bibliothek zu Berlin gehörige Ms. Chambers 40, über welches Weber und ich s. Z. näheren Bericht erstattet haben (cf. A. WEBER im Verzeichniss der Sanskrit-Handschriften der königl. Bibliothek zu Berlin, sowie in seinem Aufsatz „Einiges über das Kâṭhakam", Ind. Studien, Bd. III ; L. v. SCHROEDER, das Kâṭhakam und die Mâitrâyani Samhitâ, in den Monatsberichten der königl. Akademie der Wiss. zu Berlin, Sitzung vom 24. Juli 1879). Das Ms. ist bekanntlich in Devanãgari-Typen, ohne Accente[^1_1], auf Papier geschrieben,— modern, wohlerhalten. Näheres über seine Herkunft ist leider nicht bekannt und liess sich auch trotz wiederholter Bemühungen nicht ermitteln. Es hätte das vielleicht auf die Spurjenes Ms. führen können, von welchem der Codex Chambers 40 s. Z. abgeschrieben worden ist.
+
+[^1_1]: Nur eine Anzahl primärer Svarita-Zeichen haben sich sporadisch erhalten. (Only a number of primary Svarita signs have been preserved sporadically.)
+
+Man darf mit Sicherheit annehmen, dass auch das Ms. Chambers 40, wie alle uns sonst bekannten Kâthaka-Mss., aus Kaschmir stammt und dass es auf ein Çâradâ-Original zurückgeht. Das lassen, abgesehen von allgemeinen Erwägungen, manche orthographische Eigenthümlichkeiten erkennen. Viel mehr aber lässt sich leider nicht sagen. Die Zahl der Fehler und Incorrectheiten dieses Ms. ist eine recht bedeutende, was um so mehr zu bedaüern bleibt, als dasselbe für so grosse Partieen des Kâṭhaka das einzige überhaupt vorhandene ist. Ich bezeichne es durch Ch (d. i. Chambers).
+
+Für das vorliegende erste Buch des Kâṭhaka habe ich ausser Chambers 40 nur noch ein umfangreicheres Ms. benutzen können, nämlich das dem Pandit Dayârâm Jotsî in Grînagar gehörige, welches Stein so freundlich war, mir s. Z. zuzusenden. Ich bezeichne dasselbe durch D (Dayârâm). Es ist zwar auch für das erste Buch nicht ganz vollständig, umfasst aber doch den weitaus grössten Theil desselben. Es beginnt mit Kâth. 1, 1 bricht aber mitten in 1, 3 nach den Worten **मातरिश्वनो धर्मो** ab, um mit den Worten **गोपायतं युवम्**॥ **अविनष्टानविहुतान** etc. mitten in Kâth. 7, 3 fortzufahren. Von hier an bietet das Ms. das ganze erste Buch des Kâthaka vollständig, schliesst also mit Kapitel 18, 21 ab.
+
+Demnach liegen unserem Texte von der erwähnten Stelle in 7, 3 an bis zum Schluss des Buches durchweg die beiden Mss. Ch und D zu Grunde, während für die vorausgehenden Kapitel Ch die einzige vollständige Handschrift ist.
+
+Näheres über das Ms. des Dayârâm Jotsi habe ich s. Z. in der Zeitschr. d. D. Morg. Ges. Band 46, p. 427 fig. mitgetheilt. Dasselbe ist auf 117 Papierblättern mit Devanâgarî-Typen, im Ganzen nicht schlecht, geschrieben. Von der Accentuation sind nur einige Reste der Bezeichnung des echten Svarita erhalten.
+
+Ausser Ch und D kommen für das vorliegende erste Buch nur noch Rcaka-Mss. in Betracht. Dieselben haben ihren besonderen Werth durch den Umstand, dass sie nicht nur meist gut geschrieben, sondern namentlich auch sorgfältig accentuirt sind. Ihre grosse Schwäche liegt aber darin, dass sie keinen umfänglicheren zusammenhängenden Text des Kâthaka bieten, sondern nur eine mehr oder minder grosse Anzahl vereinzelter Kapitel, wie sie das Bedürfniss des Rituals in dem jedesmaligen Zusammenhang erforderte.
+
+Es lagen mir die folgenden Katha-Rcaka mit Kapiteln des ersten Buches vor :
+
+1. Das grosse Berliner Rcaka (Cod. Or. fol. 1412), welches ich als Brl bezeichne. Ich habe dasselbe in meinem Aufsatz Das Kâthaka, seine Handschriften, seine Accentuation und seine Beziehung zu den indischen Lexikographen und Grammatikern" in der Zeitschr. d. D. M. G. Bd. 49, p. 150 fig. näher beschrieben. Es ist auf Bhûrja-Blättern in Çârada-Cha-rakteren recht sorgfältig geschrieben und ebenso accentuirt, soweit es Kâthaka-Fragmente enthält.
+
+2. Der Codex Stein, welchen ich mit St bezeichne. Auch dieses Ms. ist von mir in dem soeben citirten Aufsatz in der Zeitschr. d. D. M. G. Bd. 49, p. 147 fig. näher besprochen worden. Es ist auf Bhûrja-Blättern in Çâradâ-Charakteren, jedoch nicht ganz so gut geschrieben und accentuirt, wie Brl, immerhin aber doch auch sehr werthvoll.
+
+3. Die Tübinger Kaṭha-Ṛcaka, über welche ich specieller gehandelt habe in meiner Arbeit „Die Tübinger Kaṭha-Handschriften und ihre Beziehung zum Tâittirîya-Âranyaka“, in den Sitzungsberichten der kais. Akademie der Wiss. in Wien, philos. histor. Classe, Bd. CXXXVII, Wien 1898. Im Speciellen kommen für das erste Buch des Kâthaka die erste und dritte bis siebente dieser Handschriften in Betracht, welche ich als T1, T3, T4, T5, T6, T7 bezeichne (d. h. Tübingen 1 etc.). Diese Mss. sind sämmtlich auf Bhûrja-Blättern in Çâradâ-Charakteren geschrieben und, soweit es sich um Kapitel des Kâthaka handelt, auch sorgfältig accentuirt. Es sind dies im Allgemeinen recht gute Mss. Ein näherer Zusammenhang zwischen Brl und T1, T3 scheint in einer Reihe augenfälliger Fehler hervorzutreten (vgl. z. B. Kâṭh. 2, 6).
+
+4. Die Wiener Rcaka, deren Beschreibung ich in den Sitzungsberichten der kais. Akademie der Wiss. zu Wien, philos. histor. Classe, Bd. CXXXIII (Wien 1896) einen besonderen Aufsatz gewidmet habe, unter dem Titel : „Zwei neuerworbene Handschriften der k. k. Hofbibliothek in Wien mit Fragmenten des Kâthaka“. Es handelt sich dabei um 2 Mss., die ich als W1 und W2 (Wien 1 und 2) bezeichne :
+
+a) W1, auf altem kaschmirischem Papier in Çâradâ-Charakteren, ist im Ganzen nicht schlecht geschrieben, aber nur unvollkommen accentuirt ; es kommen hinzu die von mir durch griechische Buchstaben charakterisirten, besonders paginirten, angehängten Stücke, die ich als W1α, W1B u. s. w. bezeichne ;
+
+b) W2, auf Bhûrja-Blättern in Çâradâ-Charakteren geschrieben. Die umfangreiche Handschrift bietet im Ganzen nur wenige accentuirte Kapitel des Kâthaka.
+
+5. G, ein durch Herrn Dr. M A. Stein mir aus Indien zugesandtes, wenig umfangreiches Rcaka der Katha-Schule, auf Papier in Çâradâ-Schrift schön und correct geschrieben und accentuirt. Ueber dies Ms. habe ich bereits im Anzeiger der philos. historischen Classe der Wiener Akademie der Wiss. vom 10. Juni 1896, Nr. XV a. E., berichtet. Die hier sich findenden Randglossen von der Hand des Glossators A2 im RâjatarañginîCodex des Râjânaka Ratnakantha haben Dr. Stein zu dem Schlusse geführt, dass dies Ms. jedenfalls vor der Mitte des 17. Jahrh. n. Chr. geschrieben sein müsse; wie lange vorher, lässt sich nicht mit Bestimmtheit sagen.
+
+6. L, ein Dr. M. A. Stein gehöriges, wenig umfangreiches Rcaka der Kaṭha-Schule, auf altem kaschmirischem Papier in Çâradâ-Schrift geschrieben und durchweg accentuirt. Ueber dies Ms. habe ich des Näheren berichtet in der Zeitschr. d. D. M. G. Bd. 51, p. 666 flg. Es darf als ein recht gutes bezeichnet werden und ist nach Dr Steins Bestimmung jedenfalls vor der Mitte des 17. Jahrh. n. Chr. geschrieben, da sich auch hier Randglossen von der Hand des Glossators A2 vorinden, wie in G.—
+
+Es dürfte kaum einen Werth haben, wenn ich hier alle die einzelnen Kapitel des Kâthaka aufzählen wollte, die sich in den angeführten Ṛeaka vorfinden und zur Vergleichung verwendet worden sind. Es ist dies bereits geschehen in den oben namhaft gemachten specielleren Beschreibungen dieser Ṛcaka, und ich glaube die Benutzer des Buches besser zu orientiren, wenn ich am Eingang eines jeden Kapitels, für welches ausser Ch und D noch andere Mss. in Betracht gekommen, resp. collationirt worden sind, solches ausdrücklich bemerke, unter Anführung der betreffenden Mss.
+
+Demnach wolle man immer im Auge behalten, dass dem ganzen ersten Buche die Handschrift Ch zu Grunde liegt,—von 7, 3 an zusammen mit D. Im Uebrigen sind nur dann noch andere Handschriften (und zwar die Ṛcaka-Mss.) benutzt worden, wenn Solches sich ausdrücklich angemerkt findet.
+
+## English Translation
+
+*Introduction — § 1. The Manuscripts.*
+
+On all the manuscripts used here, sufficient reports have already been published earlier by me, and in part also by A. Weber, so that a repetition of everything said previously appears unnecessary. Only the most essential points are highlighted here for orientation.
+
+Despite all efforts to discover further *Kâṭhaka* manuscripts and despite many fine successes in these efforts, even today only a single complete manuscript of the *Kâṭhaka* exists. This is the long-familiar Ms. Chambers 40, already used by various scholars and belonging to the Royal Library in Berlin, on which Weber and I in due course reported in detail (cf. A. Weber in the *Verzeichniss der Sanskrit-Handschriften der königl. Bibliothek zu Berlin*, as well as in his essay "Einiges über das Kâṭhakam", *Ind. Studien*, Vol. III; L. v. Schroeder, "Das Kâṭhakam und die Mâitrâyanî Samhitâ", in the *Monatsberichte der königl. Akademie der Wissenschaften zu Berlin*, session of 24 July 1879). As is well known, the manuscript is written in Devanāgarī characters, without accents *(see footnote 1_1 above)*, on paper—modern and well preserved. Unfortunately nothing closer is known regarding its provenance, nor could it be ascertained despite repeated efforts. That might perhaps have led onto the trail of the manuscript from which Codex Chambers 40 was in due course copied.
+
+One may assume with certainty that Ms. Chambers 40, like all other *Kâṭhaka* manuscripts known to us, comes from Kashmir and goes back to a Śāradā original. Apart from general considerations, many orthographic peculiarities reveal this. Unfortunately, however, little more can be said. The number of errors and inaccuracies in this manuscript is quite considerable, which remains all the more regrettable as it is the only manuscript in existence at all for such large portions of the *Kâṭhaka*. I designate it by Ch (i.e., Chambers).
+
+For the present first book of the *Kâṭhaka* I have been able to use, besides Chambers 40, only one other substantial manuscript, namely that belonging to Paṇḍit Dayârâm Jotsî in Śrînagar (printed *Grînagar*), which Stein was so kind as to send me in due course. I designate it by D (Dayârâm). Although it is likewise not completely extant even for the first book, it nevertheless comprises by far the greatest part of it. It begins with *Kâṭh.* 1, 1, breaks off in the middle of 1, 3 after the words मातरिश्वनो धर्मो, and resumes with the words गोपायतं युवम्॥ अविनष्टानविहुतान etc. in the middle of *Kâṭh.* 7, 3. From here on, the manuscript offers the entire first book of the *Kâṭhaka* in full, thus concluding with chapter 18, 21.
+
+Accordingly, from the aforementioned passage in 7, 3 to the end of the book, our text is based throughout on the two manuscripts Ch and D, whereas for the preceding chapters Ch is the only complete manuscript.
+
+Further details concerning the manuscript of Dayârâm Jotsî were communicated by me in due course in the *Zeitschrift der Deutschen Morgenländischen Gesellschaft*, Vol. 46, p. 427 ff. It is written on 117 paper leaves in Devanāgarī characters, on the whole not badly. Of the accentuation, only some remnants of the notation of the true svarita are preserved.
+
+Besides Ch and D, only *Ṛcaka* manuscripts come into consideration for the present first book. These possess their special value through the circumstance that they are not only for the most part well written, but in particular also carefully accented. Their major weakness, however, lies in the fact that they do not offer an extensive continuous text of the *Kâṭhaka*, but only a greater or lesser number of isolated chapters, as required by the needs of the ritual in each particular context.
+
+The following *Kaṭha-Ṛcakas* containing chapters of the first book lay before me:
+
+1. The large Berlin *Ṛcaka* (Cod. Or. fol. 1412), which I designate as Brl. I have described it in detail in my essay "Das Kâṭhaka, seine Handschriften, seine Accentuation und seine Beziehung zu den indischen Lexikographen und Grammatikern" in *ZDMG* Vol. 49, p. 150 ff. It is written quite carefully on birch-bark (*bhūrja*) leaves in Śāradā characters and accented in the same manner insofar as it contains *Kâṭhaka* fragments.
+
+2. The Codex Stein, which I designate with St. This manuscript too was discussed in detail by me in the just-cited essay in *ZDMG* Vol. 49, p. 147 ff. It is written on birch-bark leaves in Śāradā characters, though not quite as well written and accented as Brl, yet nevertheless still very valuable.
+
+3. The Tübingen *Kaṭha-Ṛcakas*, on which I have treated more specifically in my work "Die Tübinger Kaṭha-Handschriften und ihre Beziehung zum Tâittirîya-Âraṇyaka", in the *Sitzungsberichte der kais. Akademie der Wissenschaften in Wien*, phil.-hist. Class, Vol. CXXXVII, Vienna 1898. Specifically, for the first book of the *Kâṭhaka*, the first and the third to seventh of these manuscripts come into consideration, which I designate as T1, T3, T4, T5, T6, T7 (i.e., Tübingen 1, etc.). These manuscripts are all written on birch-bark leaves in Śāradā characters and, insofar as chapters of the *Kâṭhaka* are concerned, are also carefully accented. On the whole these are quite good manuscripts. A closer relationship between Brl and T1, T3 appears to emerge in a series of conspicuous errors (cf. e.g. *Kâṭh.* 2, 6).
+
+4. The Vienna *Ṛcakas*, to whose description I devoted a special essay in the *Sitzungsberichte der kais. Akademie der Wissenschaften zu Wien*, phil.-hist. Class, Vol. CXXXIII (Vienna 1896), under the title: "Zwei neuerworbene Handschriften der k. k. Hofbibliothek in Wien mit Fragmenten des Kâṭhaka". This concerns two manuscripts, which I designate as W1 and W2 (Vienna 1 and 2):
+
+   a) W1, on old Kashmiri paper in Śāradā characters, is on the whole not badly written, but only imperfectly accented; to it are added the separately paginated appended pieces characterized by me with Greek letters, which I designate as W1α, W1β, etc.;
+
+   b) W2, written on birch-bark leaves in Śāradā characters. This extensive manuscript offers on the whole only a few accented chapters of the *Kâṭhaka*.
+
+5. G, a small *Ṛcaka* of the Kaṭha school sent to me from India by Dr. M. A. Stein, beautifully and accurately written and accented on paper in Śāradā script. I have already reported on this manuscript in the *Anzeiger der philos.-historischen Classe der Wiener Akademie der Wissenschaften* of 10 June 1896, No. XV, at the end. The marginal glosses found here in the hand of Glossator A2 in the *Rājataraṅgiṇī* codex of Rājānaka Ratnakaṇṭha have led Dr. Stein to conclude that this manuscript must at any rate have been written before the middle of the 17th century CE; how long before cannot be stated with certainty.
+
+6. L, a small *Ṛcaka* of the Kaṭha school belonging to Dr. M. A. Stein, written on old Kashmiri paper in Śāradā script and accented throughout. I have reported on it in detail in *ZDMG* Vol. 51, p. 666 ff. It may be described as quite a good manuscript and, according to Dr. Stein's determination, was likewise written before the middle of the 17th century CE, since marginal glosses by the hand of Glossator A2 are found here too, as in G.
+
+It would scarcely be of value if I were to enumerate here all the individual chapters of the *Kâṭhaka* found in the cited *Ṛcakas* and used for collation. This has already been done in the specialized descriptions of these *Ṛcakas* named above, and I believe I will orient users of the book better if at the beginning of each chapter for which manuscripts other than Ch and D were consulted or collated, I explicitly note this, citing the manuscripts concerned.
+
+Accordingly, one should always keep in mind that the whole first book is based on manuscript Ch—from 7, 3 onward together with D. Otherwise, other manuscripts (specifically the *Ṛcaka* mss.) have been used only where this is expressly noted.
