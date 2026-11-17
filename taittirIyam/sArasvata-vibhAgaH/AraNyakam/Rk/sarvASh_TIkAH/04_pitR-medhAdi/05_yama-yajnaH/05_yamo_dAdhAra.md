@@ -14,7 +14,7 @@ Yama has held the earth; Yama has held all this world; all this exists for Yama 
 य॒माय॒ सर्व॒मित्त्र॑स्थे॒ यत् प्रा॒णद्वा॒युर॑क्षि॒तम् ।
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः - 1/14 व्यत्यस्त-स्वराः)</summary>
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 - यमः᳓ (*TS*, *RV*, *AV*)
 - दाधार (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *TS*, *RV*)
