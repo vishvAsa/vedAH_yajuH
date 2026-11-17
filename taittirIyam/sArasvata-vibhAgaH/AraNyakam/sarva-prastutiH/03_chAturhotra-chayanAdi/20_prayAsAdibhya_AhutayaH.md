@@ -9,6 +9,13 @@ _______
 अश्वमेधे रात्रिहोमेषु प्रयासायेति परमात्मपरिस्पन्दभेदा उच्यन्ते -
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ स्रुवाहुतिमन्त्रा उच्यन्ते ।
+
+तत्र द्वादश मन्त्रानाह -
+</details>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 Mantras for offering oblations to the gods of the region of Yama (i.e., the gods of the region of Yama who inflict punishment).
@@ -384,3 +391,9 @@ To all hail!
 </details>
 
 </div>
+
+<details><summary>सायण-टीका</summary>
+
+प्रेतस्य यमलोके बाधका देवताविशेषाः प्रयासादिशब्दवाच्याः, तन्निर्वचनानि तु यतायोगमुन्नेयानि । तस्यै तस्यै देवतायै स्रुवेण गृहीतमिदमाज्यं स्वाहुतमस्तु ॥
+</details>
+

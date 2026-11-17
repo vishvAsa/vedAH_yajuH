@@ -2,6 +2,11 @@
 title = "८३ अ॒न्तरि॑क्षँ॒ स॒मित्"
 +++
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ द्वितीयतृतीयमन्त्रावाह -
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षँ समि᳓त् । (82)
@@ -17,9 +22,20 @@ title = "८३ अ॒न्तरि॑क्षँ॒ स॒मित्"
 अ॒न्तरि॑क्षँ॒ स॒मित् । (82)
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- अन्त᳓रिक्षम् (*TS*, *RV*, *TB*)
+- समि᳓त् (*TS*, *TB*)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उत्तरे व्याख्याताः ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पूर्ववद्व्याख्येयौ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -37,6 +53,14 @@ the wind burned that;
 ताव्ँ वा॒युस्समि॑न्धे ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ता᳓म् (*TS*, *RV*, *TB*)
+- वायुः᳓ (*TS*, *RV*, *TB*)
+- स᳓म् (*TS*, *RV*)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा० ८.१.२८)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ वायुँ᳓ स᳓मिन्धे ।
@@ -52,6 +76,14 @@ that burned the wind;
 सा वा॒युँ समि॑न्धे ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सा᳓ (*TS*, *RV*, *TB*, *TK*)
+- वायु᳓म् (*TS*, *RV*, *TB*)
+- स᳓म् (*TS*, *RV*)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा० ८.१.२८)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
@@ -65,6 +97,14 @@ I burned that;
 <details><summary>मूलम्</summary>
 
 ताम॒हँ समि॑न्धे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ता᳓म् (*TS*, *RV*, *TB*)
+- अह᳓म् (*TS*, *RV*, *TB*, *AV*)
+- स᳓म् (*TS*, *RV*)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा० ८.१.२८)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -90,4 +130,21 @@ may that, being burnt, make me shine with life, brilliance, splendour, prosperit
 वर्च॑सा श्रि॒या ।  
 यश॑सा ब्रह्मवर्च॒सेन॑ ।  
 अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सा᳓ (*TS*, *RV*, *TB*, *TK*)
+- मा (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
+- स᳓मिद्धा (आरण्यक-पाठः (अनाम्नातम्))
+- आ᳓युषा (*TS*, *RV*)
+- ते᳓जसा (*TS*, *RV*, *TB*, *TK*)
+- व᳓र्चसा (*TS*, *RV*, *TB*)
+- श्रिया᳓ (*RV*, *TB*, *TK*)
+- य᳓शसा (*TS*, *TB*, *TK*)
+- ब्रह्म-वर्चसे᳓न (*TS*, *TB*)
+- अन्ना᳓द्येन (*TS*, *TB*)
+- स᳓म् (*TS*, *RV*)
+- इन्ताम् (तिङन्तम् अनुदात्तम्, पा० ८.१.२८)
+- स्वा᳓हा (*TS*, *RV*, *TB*, *TK*)
 </details>

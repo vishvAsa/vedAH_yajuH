@@ -8,6 +8,15 @@ title = "०८ अग्निर् यजुर्भिः"
 अथ सम्भारयजूंषि अग्निर्यजुर्भिरित्यादीनि ॥ 'हृदयं यजूंषि पत्न्यश्च' इत्यादिषु विनियोगः । हृदयं 'सुवर्णं धर्मं' इत्यनुवाकः । एतानि यजूंषि । पत्न्यो वक्ष्यन्ते ‘सेनेन्द्रस्य' इत्यादयः ।
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ संभारयजूंष्युच्यन्ते ।
+
+तेषां चेष्टकोपधाने विनियोगश्चातुर्होत्रीयब्राह्मणेऽभिहितः - "हृदयं यजूँषि पत्न्यश्च" इति ।
+
+तेषामेकविंशतिसंख्याकानां यजुषां पाठस्तु -
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र् य᳓जुर्भिः +++(सम्भरति)+++।
@@ -23,9 +32,20 @@ The Fire (becomes satisfied) by the Yajuses;
 अ॒ग्निर्यजु॑र्भिः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- अग्निः᳓ (*TS*, *RV*, *TB*, *TK*)
+- य᳓जुर्भिः (*TB*)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अग्निर्यजुर्भिः यज्ञं सम्भृतवान् । तैस्तद्वान् इत्यन्ये । अस्य यजुश्शब्दसम्बन्धित्वात् सर्वाणि यजूंषि ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अत्राग्निसवित्रादयो देवा यजुःस्तोमादीनि यज्ञे सम्भरणीयान्यङ्गानि । एते देवास्तैः संभरणीयैः सहास्मिन्कर्मण्यागच्छन्त्विति वाक्यार्थः । उक्थामदशब्दः शस्त्रवाची । यज्ञशब्दो हविष्प्रक्षेपवाची ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -41,6 +61,12 @@ Savitṛ (sun), by the hymns;
 <details><summary>मूलम्</summary>
 
 स॒वि॒ता स्तोमैः॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सविता᳓ (*TS*, *RV*, *TB*, *TK*)
+- स्तो᳓मैः (*TS*, *RV*)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -63,6 +89,12 @@ Indra, by the praises;
 इन्द्र॑ उक्थाम॒दैः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- इ᳓न्द्रः (*TS*, *RV*, *TB*, *AV*)
+- उक्थामदैः᳓ (प्रातिपदिकम् उक्थामद᳓ (*MW*))
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उक्थामदैः स्तोत्रशस्त्रैः ।
@@ -81,6 +113,12 @@ Mitra and Varuṇa, by the prayers;
 <details><summary>मूलम्</summary>
 
 मि॒त्रावरु॑णाव् आ॒शिषा॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- मित्रा᳓व᳓रुणौ (*RV*, *TB*, *TK*)
+- आशि᳓षा (*RV*, *TB*)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -103,6 +141,13 @@ Mitra and Varuṇa, by the prayers;
 अङ्गि॑रसो॒ धिष्णि॑यैर॒ग्निभिः॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- अ᳓ङ्गिरसः (*TS*, *RV*, *TB*)
+- धि᳓ष्णियैः (प्रातिपदिकम् धि᳓ष्णिय (*MW*))
+- अग्नि᳓भिः (*RV*)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मरु᳓तस् सदो--हविर्-धाना᳓भ्याम् ।
@@ -116,6 +161,12 @@ Maruts, by the seat of the oblation-receptacles;
 <details><summary>मूलम्</summary>
 
 म॒रुत॑स्सदोहविर्धा॒नाभ्या॑म् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- मरु᳓तः (*TS*, *RV*, *TB*)
+- सदः-हविर्-धाना᳓भ्याम् (स᳓दः (*TS*, *RV*) + हवि᳓र् (*TB*), समासस्वरः)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,6 +184,12 @@ the waters, by the prokṣaṇīs (vessels for putting the holy water);
 आपः॒ प्रोक्ष॑णीभिः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- आ᳓पः (*TS*, *RV*, *TB*, *TK*)
+- प्रो᳓क्षणीभिः (प्रातिपदिकम् प्रो᳓क्षणी (*MW*))
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓षधयो बर्हि᳓षा ।
@@ -148,6 +205,12 @@ the plants, by the Barhi-grass;
 ओष॑धयो ब॒र्हिषा॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ओ᳓षधयः (*TS*, *RV*, *TB*)
+- बर्हि᳓षा (*TS*, *TB*)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दितिर् वे᳓द्या ।
@@ -161,6 +224,12 @@ Aditi, by the altar;
 <details><summary>मूलम्</summary>
 
 अदि॑ति॒र्वेद्या॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- अ᳓दितिः (*TS*, *RV*, *TB*)
+- वे᳓द्या (*TS*, *TB*)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -180,6 +249,12 @@ Soma, by the consecration (1);
 (11)
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सो᳓मः (*TS*, *RV*, *TB*)
+- दीक्ष᳓या (*TS*, *TB*)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓ष्टेध्मे᳓न ।
@@ -193,6 +268,12 @@ Tvaṣṭṛ, by the fuel;
 <details><summary>मूलम्</summary>
 
 त्वष्टे॒ध्मेन॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- त्व᳓ष्टा (*TS*, *RV*, *TB*)
+- इध्मे᳓न (*RV*)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -230,6 +311,12 @@ Vasus, by the ghee;
 वस॑व॒ आज्ये॑न ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- व᳓सवः (*TS*, *RV*, *TB*)
+- आ᳓ज्येन (*TS*, *RV*, *TB*)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्या᳓ द᳓क्षिणाभिः ।
@@ -243,6 +330,12 @@ Vasus, by the ghee;
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्या दक्षि॑णाभिः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- आदित्याः᳓ (*TS*, *RV*, *TB*)
+- द᳓क्षिणाभिः (*TS*, *RV*)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -260,6 +353,13 @@ All-gods (Viśvedevān), by the power;
 विश्वे॑ दे॒वा ऊ॒र्जा ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- वि᳓श्वे (*TS*, *RV*, *TB*, *TK*)
+- देवाः᳓ (*TS*, *RV*, *TB*, *TK*)
+- ऊर्जा᳓ (*TS*, *RV*, *TB*)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूषा᳓ स्वगा-कारे᳓ण ।
@@ -275,9 +375,20 @@ Pūṣan, by giving (their) own (oblations to the gods);
 पू॒षा स्व॑गाका॒रेण॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- पूषा᳓ (*TS*, *RV*, *TB*, *TK*)
+- स्वगा-कारे᳓ण (*TS*)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स्वगाकारेण यथायथं हविस्स्वामिनां हविस्सम्बन्धकरणेन ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+स्वगाकारः शंयुवाकमन्त्रः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -295,9 +406,20 @@ Bṛhaspati, by the priest;
 बृह॒स्पतिः॑ पुरो॒धया॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- बृ᳓हस्प᳓तिः (*TS*, *RV*, *TB*, *TK*)
+- पुरोध᳓या (आरण्यक-पाठः (अनाम्नातम्))
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पुरोधया प्राधान्येन, ब्रह्मत्वेन वा उद्गीथेन उद्गानेन द्वितीयया चतुर्थ्या वा विभक्त्या ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पुरोधा ग्रहणकाले पठनीया ऋक्पुरोवाक् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -315,6 +437,12 @@ Prajāpati, by the Udgītha (singing Samans in particular modes);
 प्र॒जाप॑तिरुद्गी॒थेन॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- प्रजा᳓पतिः (*TS*, *RV*, *TB*)
+- उद्गीथे᳓न (आरण्यक-पाठः (अनाम्नातम्))
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षं पवि᳓त्रेण ।
@@ -330,9 +458,20 @@ the mid-region, by the Pavitra (fringed filtering cloth);
 अ॒न्तरि॑क्षं प॒वित्रे॑ण ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- अन्त᳓रिक्षम् (*TS*, *RV*, *TB*)
+- पवि᳓त्रेण (*TS*, *RV*, *TB*, *TK*)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पवित्रेण दशापवित्रेण ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पवित्रशब्दो दशापवित्रवाची ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -348,6 +487,12 @@ the wind, by the pots;
 <details><summary>मूलम्</summary>
 
 वा॒युः पात्रैः॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- वायुः᳓ (*TS*, *RV*, *TB*)
+- पा᳓त्रैः (प्रातिपदिकम् पा᳓त्र (*MW*))
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -372,7 +517,19 @@ and I, by the faithfulness (2).
 (12)
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- अह᳓म् (*TS*, *RV*, *TB*, *AV*)
+- श्रद्ध᳓या (*TS*, *RV*, *TB*, *TK*)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अहं श्रद्धया सर्वदा यजे इति ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अयं यजमानः श्रद्धया सहाऽऽगच्छामि । स्पष्टमन्यत् ॥
+</details>
+

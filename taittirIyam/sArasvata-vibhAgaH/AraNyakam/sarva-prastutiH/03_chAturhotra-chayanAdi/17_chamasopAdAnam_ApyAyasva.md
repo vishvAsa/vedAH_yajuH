@@ -9,6 +9,13 @@ _______
 चमसोपदंसने प्रायश्चित्तं - आप्यायस्वेति गायत्री ॥
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+।
+
+प्रेतदाहस्थानसमीपेऽवटं खात्वा जलं प्रक्षिप्य तेन सेचनं संगाहनं तत्र विनियुक्तां सौमीमृचमाह -
+</details>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 Funeral Mantra to be uttered when sprinkling water on the excavation made for burning the dead one.
@@ -58,3 +65,9 @@ O Soma, the exalted one, be satisfied by all protections; be increased for us.
 </details>
 
 </div>
+
+<details><summary>सायण-टीका</summary>
+
+हे मदिन्तमातिशयेन हर्षयुक्त सोम विश्वाभिरूतिभिः सर्वप्रकारैरस्मदीयरक्षणैराप्यायस्व सर्वतो वर्धस्व । नोऽस्मान्प्रति सप्रथस्तमोऽतिशयेन प्रथायुक्तो भव ॥
+</details>
+

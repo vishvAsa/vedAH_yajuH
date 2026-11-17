@@ -7,6 +7,11 @@ title = "१० ३ मधु"
 मधु वाता इति ॥
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+एकादशीमृचमाह —
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -34,9 +39,28 @@ May the winds be honeyful for us, who wish the settled order; may the rivers pou
 माद्ध्वी॑र् नस् स॒न्त्व् ओष॑धीः ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- म᳓धु (*TS*, *RV*, *TB*, *TK*)
+- वा᳓ताः (*TS*, *RV*)
+- ऋतायते᳓ (*TS*, *TB*)
+- म᳓धु (*TS*, *RV*, *TB*, *TK*)
+- क्षरन्ति (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *TS*, *RV*)
+- सि᳓न्धवः (*TS*, *RV*)
+- मा᳓द्ध्वीः (*TS* ४.२.९ माध्वीः॑, *RV* १.९०.६ माध्वीः, पा० ६.४.१७५ — भास्करः; तैत्तिरीय-द्वित्वपाठः)
+- नः (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
+- सन्तु (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *TS*, *RV*)
+- ओ᳓षधीः (*TS*, *RV*, *TB*)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मननीयत्वाद् रसत्वाद्वसनीयत्वाद् वा मधु ब्रह्म । तदेव भूत्वा तद्वन्तो वाता वान्त्व् ऋतायते ऋतं यज्ञम् इच्छते यजमानय । सिन्धवो ऽपि मधुमत्यः क्षरन्त्व् ओषधयोऽपि माध्वीर् माध्व्यः मधुमत्यस्सन्तु । 'ऋत्व्यवास्त्व' इति निपात्यते । 'छन्दसि' इति पूर्वसवर्णदीर्वत्वम् ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऋतायत ऋतं परं ब्रह्म तदिच्छते मह्यं वाता वायवो मधु माधुर्योपलक्षितं सुखं यथा भवति तथा वान्त्विति शेषः। प्रबले तु वायौ रोगोत्पत्त्या तत्त्वज्ञानविघ्नः संपद्यते। अतः स मा भूदिति वायोरानुकूल्यं प्रार्थ्यते। एवमुत्तरत्रापि तत्तदानुकूल्यं द्रष्टव्यम्। सिन्धवो नद्यो मधु क्षरन्ति मधुरमारोग्यकरमुदकं संपादयन्त्वित्यर्थः। ओषधीर्व्रीहियवादयोऽपि नोऽस्माकं माध्वीर्मधुराः पथ्यरूपाः सन्तु।
 </details>
 </details>
 
@@ -45,6 +69,11 @@ May the winds be honeyful for us, who wish the settled order; may the rivers pou
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मधु नक्तमिति ॥
+</details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+द्वादशीमृचमाह —
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
@@ -74,9 +103,30 @@ May honey be for us at night and dawn; may the earthly world be honeyful; may th
 मधु॒ द्यौर॑स्तु नः पि॒ता ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- म᳓धु (*TS*, *RV*, *TB*, *TK*)
+- न᳓क्तम् (*TS*, *RV*)
+- उत᳓ (*TS*, *RV*)
+- उष᳓सि (*TS*, *RV*)
+- म᳓धु-मत् (*TS* ४.२.९ पदपाठः, *RV*)
+- पा᳓र्थिवम् (*TS*, *RV*)
+- र᳓जः (*TS*, *RV*)
+- म᳓धु (*TS*, *RV*, *TB*, *TK*)
+- द्यौः᳓ (*TS*, *RV*)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *RV* १.९०.७)
+- नः (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
+- पिता᳓ (*TS*, *RV*)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मध्वेवास्त्व् अस्माकं नक्तं रात्रौ उषस्य् अप्य् अहन्यपि । पार्थिवं रजः पृथिव्याख्यो लोकः मधुमानस्तु । द्यौश्च पिता नो ऽस्माकं मधुमत्यस्तु ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+नक्तं रात्रावुतापि चोषसि प्रभाते दिवसेऽपि विद्यार्थिनो मधु मधुरमनुकूलं सूखमस्तु कालकृतोऽपि विघ्नो मा भूदित्यर्थः। पार्थिवं रजः पृथिव्यामवस्थितं शयनादिस्थानगतं रजोऽपि मधुमन्माधुर्योपेतं कण्टकपाषाणादिराहित्येनानुकूलमस्तु। नोऽस्माकं पिता पितृसदृशी द्यौरपि मध्वस्तु, अतिवृष्ट्यादिप्रातिकूल्यरहिताऽस्तु। "द्यौः पिता पृथिवी माता " इति मन्त्रान्तराद्दिवः पितृत्वम्।
 </details>
 </details>
 
@@ -85,6 +135,11 @@ May honey be for us at night and dawn; may the earthly world be honeyful; may th
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मधुमान्न इति ॥
+</details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+त्रयोदशीमृचमाह —
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
@@ -114,9 +169,28 @@ May the vegetable be honeyful for us; may the sun be honeyful; may the cows be h
 माद्ध्वी॒र् गावो॑ भवन्तु नः ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- म᳓धु-मान् (*TS*, *RV*)
+- नः (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
+- व᳓नस्-प᳓तिः (*TS*, *RV*, उभे वनस्पत्यादिषु युगपत् पा० ६.२.१४०)
+- म᳓धु-मान् (*TS*, *RV*)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *RV* १.९०.८)
+- सू᳓र्यः (*TS*, *RV*)
+- मा᳓द्ध्वीः (*TS* ४.२.९ माध्वीः॑, *RV* १.९०.८)
+- गा᳓वः (*TS*, *RV*)
+- भवन्तु (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *RV* १.९०.८)
+- नः (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वनस्पतिश्च अस्माकं मधुमानस्तु । सूर्योऽपि मधुमानस्तु गावोऽपि मधुमत्यस्सन्त्व् अस्माकम् ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+वनस्पतिश्चूतपनसादिर्नोऽस्मान्प्रति मधुमान्मधुरफलोपेतो जीवनहेतुरस्तु। सूर्योऽपि प्रभूतं संतापमकृत्वा मधुमान्माधुर्येणानुकूलप्रकाशनेन युक्तोऽस्तु। गावोऽपि नोऽस्मान्प्रति माध्वीर्जीवनहेतुमधुरक्षीरोपेता भवन्तु।
 </details>
 </details>
 

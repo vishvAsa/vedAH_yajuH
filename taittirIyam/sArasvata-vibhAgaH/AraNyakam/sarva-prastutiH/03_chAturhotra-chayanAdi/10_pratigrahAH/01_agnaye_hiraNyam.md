@@ -2,6 +2,11 @@
 title = "०१ अग्नये हिरण्यम्"
 +++
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ प्रतिग्रहमन्त्रा उच्यन्ते । तैश्च प्रतिग्रहेष्टकोपधानं चातुर्होत्रीयब्राह्मण एवमाम्नातम् - "यथावकाशं प्रतिग्रहाल्ँ लोकं पृणाश्च" इति । तत्र प्रथमं मन्त्रमाह -
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
 
 <details><summary>मूलम् (संयुक्तम् आरण्यके)</summary>
@@ -91,6 +96,11 @@ may Varuṇa, the king carry you to the fire as gold;
 हे हिरण्यात्मिके ! देवि! दक्षिणे! राजा वरुणः त्वां हिरण्यं अग्नये नयतु । तच्चेयमिष्टकाऽस्ति ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे दक्षिणे देवि वरुणो राजा हिरण्यरूपां त्वामग्नये प्रापयतु ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,6 +143,16 @@ Who gave it whom? Kāma (desire or cupid) gave it for Kāma;
 
 क इ॒दङ्कस्मा॑ अदात् ।  
 कामः॒ कामा॑य ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- कः᳓ (*TS*, *RV*)
+- इद᳓म् (*TS*, *RV*, *TB*, *AV*)
+- क᳓स्मै (*TS*, *RV*, *TB*, *TK*)
+- अदात् (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *TS*, *RV*)
+- का᳓मः (*TS*, *RV*, *TB*)
+- का᳓माय (*TS*, *RV*, *TB*, *TK*)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -223,6 +243,15 @@ may Uttāna Āṅgirasa obtain you (5).
 उ॒त्ता॒नस् त्वा॑ङ्गीर॒सः प्रति॑गृह्णातु ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- उत्तानः᳓ (*TS*, *RV*)
+- त्वा (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
+- आङ्गीरसः᳓ (प्रातिपदिकम् आङ्गीरस᳓ (*MW*))
+- प्र᳓ति (*TS*, *RV*, *TB*, *TK*)
+- गृह्णातु (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *TS*, *RV*)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथ दक्षिणां प्रत्याह -  
@@ -231,6 +260,11 @@ may Uttāna Āṅgirasa obtain you (5).
 इयं वा उत्तान आङ्गीरतः' इति ब्राह्मणम् ।  
 तस्मात् पृथिव्येव त्वां प्रतिगृह्णातु  
 नाहमस्य प्रतिग्रहीतेति ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तेनाग्निप्रापणेन प्रग्रहदोषाभावादहममृतत्वं नरकाभावरूपं प्राप्नुयाम् । इयं च दक्षिणा दात्रे वयोऽस्तु पक्षिरूपिणी भूत्वा दातारं स्वर्गं नयत्वित्यर्थः । प्रतिग्रहीत्रे मह्यं मयः सुखमस्तु । इदं द्रव्यं कः प्रजापतिः कस्मै प्रजापतयेऽदाद्दत्तवान्, अन्तर्यामिरूपेण दातृप्रतिग्रहीत्रोः प्रेरकत्वात् । तथा कामः कामाय दत्तवान् । यथा प्रजापतिरदृष्टप्रेरकस्तथा कामस्य दृष्टप्रेरकत्वात् । तस्मात्काम एव दाता प्रतिग्रहीता च । स्वर्गादिफलविषयः कामो दाता, ऐहिकसुखविषः कामः प्रतिग्रहीता । ततो हे दक्षिणे समुद्रसमं कामं प्रविश । कामेन निमित्तेन त्वां प्रतिगृह्णामि । हे मद्धृदयवर्ति काम तदेतद्द्रव्यं तुभ्यं भवति । हे काम ते त्वत्प्रीतय एवैषा दक्षिणा प्रवृत्ता । अङ्गिरोगोत्रे समुत्पन्नस्य उत्तानाख्यो महर्षिस्त्वां प्रतिगृह्णातु ।
 </details>
 
 </div>
