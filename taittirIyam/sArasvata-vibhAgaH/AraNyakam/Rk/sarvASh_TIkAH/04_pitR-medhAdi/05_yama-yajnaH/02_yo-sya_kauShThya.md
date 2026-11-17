@@ -29,7 +29,7 @@ Who is wealth-wishing one in this earthly region, he is the one lord of this; fo
 - गाय (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *RV*)
 - यः᳓ (*TS*, *RV*, *TB*, *TK*)
 - रा᳓जा (*TS*, *RV*, *TB*)
-- अनपरो᳓द्ध्यः (आरण्यक-पाठः (अनाम्नातम्))
+- अन्-अप-रो᳓द्ध्यः → **अनपरोद्ध्यः᳓** (नञ्-कृत्ये पा० ६.२.१६० तु अनपरोद्ध्यः᳓)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
