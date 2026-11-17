@@ -5,7 +5,7 @@ title = "+०७ पारमात्मिकोपनिषत्"
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-The sacred pAramAtmikopaniShad, being accented (hence undisputably antique), is a great treasure - very lucky that vaikhAnasa-s preserved it. 
+बहवस् स्वरदोषाः - एकाग्निकाण्डवत्। 
 </details>
 
 
