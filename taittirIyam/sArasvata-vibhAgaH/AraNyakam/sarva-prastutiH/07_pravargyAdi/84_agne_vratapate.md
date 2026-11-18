@@ -7,6 +7,11 @@ title = "८४ अग्ने व्रतपते"
 अथ देवता उपतिष्ठते - अग्ने व्रतपत इति ॥
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+कल्पः - "अथ देवता उपतिष्ठते, अग्ने व्रतपते व्रतं चरिष्यामि" इति । पाठस्तु -
+</details>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantra 4)* Invitation of the gods.
@@ -32,6 +37,11 @@ title = "८४ अग्ने व्रतपते"
 हे अग्ने ! व्रतपते! व्रतं शुक्रियं व्रतं चरिष्यामि । तच्छकेयं कर्तुं शक्तोऽहं भवेयम् । तद् व्रतं मे राध्यतां सिद्ध्यताम् ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे व्रतपतेऽवान्तरदीक्षारूपस्य व्रतस्य पालकाग्ने व्रतमिदमहं चरिष्यामि ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -44,7 +54,6 @@ title = "८४ अग्ने व्रतपते"
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -56,6 +65,10 @@ I will follow the rules; may I do so; may that be increased.
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
 
 <details><summary>संयुक्त-मूलम्</summary>
@@ -78,6 +91,11 @@ O wind, the lord of the rules,
 वायो॑ व्रतपते
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+वायो व्रतपत इत्येतस्मिन्नुत्तरस्मिंश्च व्रतं चरिष्यामीत्यादिकमनुषज्यते । एतदर्थमेव चतुर्थमन्त्रे पुनराम्नातम् । व्रतपत इत्युक्तस्य पुनरपि व्रतानामित्युक्तिः कृत्स्नव्रतस्वीकारार्था ।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -90,7 +108,6 @@ O wind, the lord of the rules,
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -102,6 +119,10 @@ I will follow the rules; may I do so; may that be increased.
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,7 +152,6 @@ O Āditya, the lord of the rules,
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -143,6 +163,10 @@ I will follow the rules; may I do so; may that be increased.
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -172,7 +196,6 @@ O Vratapati (lord of the rules), the ruling lord of the rules,
 </div>
 
 <div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -184,4 +207,8 @@ I will follow the rules; may I do so; may that be increased.
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
