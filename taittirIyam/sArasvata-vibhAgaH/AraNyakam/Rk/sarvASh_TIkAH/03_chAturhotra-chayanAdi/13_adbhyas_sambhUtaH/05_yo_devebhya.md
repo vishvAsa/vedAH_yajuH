@@ -20,7 +20,7 @@ Salutation to that shining Brahman, who shines for the sake of the gods, who is 
 
 - यः᳓ (*TS*, *RV*, *TB*, *TK*)
 - देवे᳓भ्यः (*TS*, *RV*, *TB*, *AV*)
-- आत᳓पति (*TS*; यद्वृत्तान्नित्यम्, पा० ८.१.६६)
+- आ-त᳓पति (*TS*; यद्वृत्तान्नित्यम् पा० ८.१.६६, तिङि चोदात्तवति पा० ८.१.७१)
 - यः᳓ (*TS*, *RV*, *TB*, *TK*)
 - देवा᳓नाम् (*TS*, *RV*, *TB*)
 - पुरो᳓हितः (*TS*, *TB*)

@@ -31,7 +31,7 @@ In whom this all is born and in whom this all vanishes; in whom all the gods liv
 - देवाः᳓ (*TS*, *RV*, *TB*, *TK*)
 - अ᳓धि (*TS*, *RV*, *TB*, *TK*)
 - वि᳓श्वे (*TS*, *RV*, *TB*, *TK*)
-- निषेदुः᳓ (*TK*; यद्वृत्तान्नित्यम्, पा० ८.१.६६)
+- नि-षेदुः᳓ (*TK*; यद्वृत्तान्नित्यम् पा० ८.१.६६, तिङि चोदात्तवति पा० ८.१.७१)
 - त᳓त् (*TS*, *RV*, *TB*, *TK*)
 - एव᳓ (*TS*, *RV*, *TB*, *TK*)
 - भूत᳓म् (*TS*, *RV*, *TB*)

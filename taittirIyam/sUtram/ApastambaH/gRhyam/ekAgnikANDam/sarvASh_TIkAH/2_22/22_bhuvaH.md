@@ -6,3 +6,9 @@ title = "२२ भुवः"
 
 भुवः॑ ।
 </details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- भु᳓वः (*TS*, *RV*)
+</details>
+

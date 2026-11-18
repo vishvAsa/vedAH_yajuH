@@ -7,6 +7,28 @@ title = "२७ श्रीणामुदारो धरुणो"
 श्री॒णामु॑दा॒रो ध॒रुणो॑ रयी॒णाम्म॑नी॒षाणा॒म्प्रार्प॑ण॒स्सोम॑गोपाः ।  
 वसोः॑ सू॒नुस्सह॑सो अ॒प्सु राजा॒ वि भा॒त्यग्र॑ उ॒षसा॑मिधा॒नः ।
 </details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- श्रीणा᳓म् (*TS*, *RV*)
+- उदारः᳓ (*TS*)
+- धरु᳓णः (*TS*)
+- रयीणा᳓म् (*TS*)
+- मनीषा᳓णाम् (*TS*)
+- प्रा᳓र्पणः (*TS*, *RV*)
+- सो᳓मगोपाः (*TS*, *RV*)
+- व᳓सोः (*TS*)
+- सूनुः᳓ (*TS*, *RV*)
+- स᳓हसः (*TS*, *RV*)
+- अप्सु᳓ (*RV*)
+- रा᳓जा (*TS*, *RV*, *TB*)
+- वि᳓ (*TS*)
+- भाति (तिङन्तम् अनुदात्तम्, पा० ८.१.२८)
+- अ᳓ग्रे (*TS*)
+- उष᳓साम् (*TS*, *RV*)
+- इधानः᳓ (*TS*)
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/045/05_shrINAmudAro_dharuNo.md">
 <details open><summary><h5>005 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>

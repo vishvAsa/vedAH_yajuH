@@ -7,6 +7,28 @@ title = "२५ उशिक्पावको अरतिस्सुमेध
 उ॒शिक्पा॑व॒को अ॑र॒तिस्सु॑मे॒धा मर्ते॑ष्व॒ग्निर॒मृतो॒ निधा॑यि ।  
 इय॑र्ति धू॒मम॑रु॒षम्भरि॑भ्र॒दुच्छु॒क्रेण॑ शो॒चिषा॒ द्यामिन॑क्षत् ।
 </details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- उशि᳓क् (*TS*, *RV*)
+- पावकः᳓ (*TS*, *RV*)
+- अरतिः᳓ (*TS*)
+- सुमेधा᳓ (प्रातिपदिकम् सु-मेध᳓ (*MW*))
+- म᳓र्तेषु (*TS*, *RV*)
+- अग्निः᳓ (*TS*, *RV*)
+- अमृ᳓तः (*TS*)
+- नि᳓धायि (*EK* मूल-पाठः)
+- इ᳓यर्ति (पादादिः पा० ८.१.१८, धातोः पा० ६.१.१६२)
+- धूम᳓म् (*TS*, *RV*)
+- अरुष᳓म् (*TS*)
+- भ᳓रिभ्रत् (*TS*, *RV*)
+- उ᳓त् (*TS*, *RV*)
+- शुक्रे᳓ण (*TS*)
+- शोचि᳓षा (*TS*)
+- द्या᳓म् (*TS*)
+- इ᳓नक्षत् (*TS*, *RV*)
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/045/07_ushikpAvako_aratiH.md">
 <details open><summary><h5>007 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
