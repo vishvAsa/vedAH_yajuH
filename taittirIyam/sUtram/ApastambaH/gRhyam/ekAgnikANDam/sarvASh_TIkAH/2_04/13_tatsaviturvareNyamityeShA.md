@@ -6,6 +6,16 @@ title = "१३ तत्सवितुर्वरेण्यमित्य�
 
 तत्स॑वि॒तुर्वरे॑ण्य॒मित्ये॒षा ।  
 </details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- त᳓त् (*TS*-687)
+- सवितुः᳓ (*TS*-37)
+- व᳓रेण्यम् (*TS*-5, *RV*-21)
+- इ᳓ति (*TS*-6200, *RV*-83, *TB*-227)
+- एषा᳓ (*TS*-122, *RV*-26, *TB*-34)
+</details>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h2>010 ...{Loading}...</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>

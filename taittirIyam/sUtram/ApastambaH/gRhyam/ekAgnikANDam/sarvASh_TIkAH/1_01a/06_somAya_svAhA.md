@@ -9,8 +9,8 @@ title = "०६ सोमाय स्वाहा"
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सो᳓माय (*TS*, *RV*)
-- स्वा᳓हा (*TS*)
+- सो᳓माय (*TS*-23, *RV*-4)
+- स्वा᳓हा (*TS*-875)
 </details>
 
 <details><summary>हरदत्तः</summary>

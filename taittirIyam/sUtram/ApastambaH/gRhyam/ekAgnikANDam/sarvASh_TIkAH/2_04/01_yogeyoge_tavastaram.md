@@ -9,8 +9,8 @@ title = "०१ योगेयोगे तवस्तरम्"
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- यो᳓गेयोगे (*TS*, *RV*)
-- तव᳓स्तरम् (*TS*, *RV*)
+- यो᳓गेयोगे (*TS*-3, *RV*-1)
+- तव᳓स्तरम् (*TS*-2)
 </details>
 
 <details><summary>हरदत्तः</summary>

@@ -15,11 +15,11 @@ the sacrifice is full of life; it is (full) through the sacrificial fees;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- यज्ञः᳓ (*TS*, *RV*)
-- आ᳓युष्मान् (*TS*)
+- यज्ञः᳓ (*TS*-194, *RV*-48)
+- आ᳓युष्मान् (*TS*-9)
 - स᳓ (प्रातिपदिकम् स᳓ (*MW*))
-- द᳓क्षिणाभिः (*TS*, *RV*)
-- आ᳓युष्मान् (*TS*)
-- ते᳓न (*TS*)
+- द᳓क्षिणाभिः (*TS*-6, *RV*-2)
+- आ᳓युष्मान् (*TS*-9)
+- ते᳓न (*TS*-295)
 </details>
 

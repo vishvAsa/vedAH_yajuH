@@ -9,8 +9,8 @@ title = "१३ सा विराट्"
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सा᳓ (*TS*)
-- विरा᳓ट् (*TS*, *RV*)
+- सा᳓ (*TS*-167)
+- विरा᳓ट् (*TS*-66, *RV*-4)
 </details>
 
 <details><summary>हरदत्तः</summary>

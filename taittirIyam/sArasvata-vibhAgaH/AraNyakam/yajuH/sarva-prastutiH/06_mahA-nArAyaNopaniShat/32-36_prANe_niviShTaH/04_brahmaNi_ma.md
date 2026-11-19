@@ -19,10 +19,10 @@ My soul is in Brahman for immortality.
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ब्र᳓ह्मणि (*RV*, *AV*)
-- मे (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
-- आत्मा᳓ (*TS*, *RV*, *TB*, *TK*)
-- अमृत-त्वा᳓य (*TS*, *RV*)
+- ब्र᳓ह्मणि (*RV*-1, *AV*-1)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401)
+- आत्मा᳓ (*TS*-41, *RV*-13, *TB*-10, *TK*-4)
+- अमृत-त्वा᳓य (*TS*-1, *RV*-3)
 </details>
 
 <details><summary>सायण-टीका</summary>

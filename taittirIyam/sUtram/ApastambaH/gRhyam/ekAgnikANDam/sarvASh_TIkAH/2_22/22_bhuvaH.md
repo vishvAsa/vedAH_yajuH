@@ -9,6 +9,6 @@ title = "२२ भुवः"
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- भु᳓वः (*TS*, *RV*)
+- भु᳓वः (*TS*-17, *RV*-25)
 </details>
 

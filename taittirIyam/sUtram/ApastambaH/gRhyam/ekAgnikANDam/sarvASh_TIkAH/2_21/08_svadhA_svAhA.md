@@ -9,8 +9,8 @@ title = "०८ स्वधा स्वाहा"
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- स्वधा᳓ (*TS*, *RV*)
-- स्वा᳓हा (*TS*)
+- स्वधा᳓ (*TS*-5, *RV*-7)
+- स्वा᳓हा (*TS*-875)
 </details>
 
 <details><summary>हरदत्तः</summary>
