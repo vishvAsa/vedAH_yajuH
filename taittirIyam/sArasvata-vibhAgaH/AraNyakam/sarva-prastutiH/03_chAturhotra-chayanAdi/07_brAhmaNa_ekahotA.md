@@ -45,7 +45,7 @@ Brahman is the sacrificer of one (sacrificing by his maturity only):
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 - ब्राह्मणः᳓ (*TS*-32, *RV*-4, *TB*-21)
-- ए᳓क-होता (ए᳓क (*MW*) + हो᳓ता (*TS*-43, *RV*-150), समासस्वरः)
+- ए᳓क-होता (ए᳓क (*MW*) + हो᳓ता (*TS*-43, *RV*-150), तृतीया कर्मणि पा॰ ६.२.४८, बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -264,7 +264,7 @@ The earth is the sacrificer of three (being the place of the fire, food and sacr
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 - पृथिवी᳓ (*TS*-43, *RV*-76, *TB*-24, *TK*-1)
-- त्रि᳓-होता (त्रि᳓ (*MW*) + हो᳓ता (*TS*-43, *RV*-150), समासस्वरः)
+- त्रि᳓-होता (त्रि᳓ (*MW*) + हो᳓ता (*TS*-43, *RV*-150), तृतीया कर्मणि पा॰ ६.२.४८, बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -828,7 +828,7 @@ The heaven is the sacrificer of eight (eight suns);
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 - द्यौः᳓ (*TS*-37, *RV*-102, *TB*-8)
-- अष्ट᳓-होता (अष्ट᳓ (*RV*-2) + हो᳓ता (*TS*-43, *RV*-150), समासस्वरः)
+- अष्ट᳓-होता (अष्ट᳓ (*RV*-2) + हो᳓ता (*TS*-43, *RV*-150), तृतीया कर्मणि पा॰ ६.२.४८, बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -928,7 +928,7 @@ Aditya is the sacrificer of the nine (eight suns and Aditya);
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 - आदित्यः᳓ (*TS*-59, *RV*-8, *TB*-16)
-- न᳓व-होता (न᳓व (*MW*) + हो᳓ता (*TS*-43, *RV*-150), समासस्वरः)
+- न᳓व-होता (न᳓व (*MW*) + हो᳓ता (*TS*-43, *RV*-150), तृतीया कर्मणि पा॰ ६.२.४८, बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

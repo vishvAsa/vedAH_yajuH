@@ -166,7 +166,7 @@ Maruts, by the seat of the oblation-receptacles;
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 - मरु᳓तः (*TS*-46, *RV*-134, *TB*-21)
-- सदः-हविर्-धाना᳓भ्याम् (स᳓दः (*TS*-32, *RV*-13) + हवि᳓र् (*TB*-20), समासस्वरः)
+- सदः-हविर्-धाना᳓भ्याम् (स᳓दः (*TS*-32, *RV*-13) + हवि᳓र् (*TB*-20), गतिकारकोपपदात् कृत् पा॰ ६.२.१३९, परादिश्छन्दसि बहुलम् पा॰ ६.२.१९९)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -378,7 +378,7 @@ Pūṣan, by giving (their) own (oblations to the gods);
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 - पूषा᳓ (*TS*-36, *RV*-53, *TB*-17, *TK*-1)
-- स्वगा-कारे᳓ण (*TS*)
+- स्वगा-कारे᳓ण (स्वगाकारः᳓ *TS*-2, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९, परादिश्छन्दसि बहुलम् पा॰ ६.२.१९९)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -409,7 +409,7 @@ Bṛhaspati, by the priest;
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 - बृ᳓हस्प᳓तिः (*TS*-70, *RV*-53, *TB*-10, *TK*-3)
-- पुरोध᳓या (आरण्यक-पाठः (अनाम्नातम्))
+- पुरोध᳓या (पुरोधा᳓म् *TS*-3, *ŚB*-1, प्रत्ययस्वरः पा॰ ३.१.३, फि॰ १.१)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -440,7 +440,7 @@ Prajāpati, by the Udgītha (singing Samans in particular modes);
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 - प्रजा᳓पतिः (*TS*-172, *RV*-5, *TB*-93)
-- उद्गीथे᳓न (आरण्यक-पाठः (अनाम्नातम्))
+- उद्गीथे᳓न (उद्गीथ᳓ *TS*-1, *TB*-1, *AV*-2, प्रत्ययस्वरः पा॰ ३.१.३, फि॰ १.१)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

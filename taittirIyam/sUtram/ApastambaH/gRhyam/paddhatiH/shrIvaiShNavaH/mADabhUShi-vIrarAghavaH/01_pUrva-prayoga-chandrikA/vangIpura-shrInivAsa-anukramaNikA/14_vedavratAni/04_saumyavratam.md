@@ -66,125 +66,529 @@ title = "०४ सौम्यव्रतम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/82_pRthivI_samit">
 <details open><summary><h5>८२ पृ॒थि॒वी स॒मित् ...{Loading}...</h5></summary>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सायणोक्त-विनियोगः</summary>
 
-पृ॒थि॒वी स॒मित् ।  
+सूत्रेऽवान्तरदीक्षां व्याख्यास्याम इत्युपक्रम्याभिहितम् - "चतस्र औदुम्बरीः समिधो घृतान्वक्ता अभ्यादधाति पृथिवीसमिदित्येतैर्मन्त्रैः" इति । तत्र प्रथमं मन्त्रमाह -
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>त्रिभुवनः - विनियोगः</summary>
 
-पृ॒थि॒वी स॒मित् ।  
-</details>
+Offering of the Udumbara wood to the fire while making consecration.
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ताम॒ग्निस्समि॑न्धे ।  
-साऽग्निँ समि॑न्धे ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
-ताम॒ग्निस्समि॑न्धे ।  
-साऽग्निँ समि॑न्धे ।  
+*(Mantras 1–3)* Mantras for offering the Udumbara wood.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम॒हँ समि॑न्धे ।  
-सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
+पृथिवी᳓ समि᳓त् ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+1\. The earth is the fuel;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ताम॒हँ समि॑न्धे ।  
-सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
+पृ॒थि॒वी स॒मित् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- पृथिवी᳓ (*TS*-43, *RV*-76, *TB*-24, *TK*-1)
+- समि᳓त् (*TS*-5, *TB*-2)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+पृथिव्येव इयं समित् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पृथिवी देवता सम्यग्दीप्यमानत्वात्समिदित्युच्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता᳓मग्नि᳓स्स᳓मिन्धे ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the fire burned that,
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताम॒ग्निस्समि॑न्धे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ता᳓म् (*TS*-104, *RV*-32, *TB*-31)
+- अग्निः᳓ (*TS*-403, *RV*-393, *TB*-85, *TK*-2)
+- स᳓म् (*TS*-13, *RV*-608)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तामग्निस्समिन्धे दीपयति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा᳓ऽग्निँ᳓ स᳓मिन्धे ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+that (earth) burned the fire;
+</details>
+
+<details><summary>मूलम्</summary>
+
+साऽग्निँ समि॑न्धे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सा᳓ (*TS*-167, *RV*-89, *TB*-73, *TK*-5)
+- अग्नि᳓म् (*TS*-293, *RV*-287, *TB*-52)
+- स᳓म् (*TS*-13, *RV*-608)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+साऽग्निं समिन्धे समेधयति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तां पृथिव्याख्यां समिधमग्निर्देवः समिन्धे सम्यग्दीपितवान् । सा च पृथिव्याख्या समिदग्निं देवं समिन्धे सम्यग्दीपयति । तां पृथिवीरूपां समिधमहं समिन्धे सम्यक्प्रकाशयामि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता᳓महँ᳓ स᳓मिन्धे ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I burned that (earth),
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताम॒हँ समि॑न्धे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ता᳓म् (*TS*-104, *RV*-32, *TB*-31)
+- अह᳓म् (*TS*-162, *RV*-198, *TB*-18, *AV*-253)
+- स᳓म् (*TS*-13, *RV*-608)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तामहं समिन्धे समेधयामि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा᳓ मा स᳓मिद्धा ।  
+आ᳓युषा ते᳓जसा ।  
+व᳓र्चसा श्रिया᳓ ।  
+य᳓शसा ब्रह्मवर्चसे᳓न ।  
+अन्ना᳓द्येन स᳓मिन्ताँ स्वा᳓हा ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may that, being burnt, burn me (make me shine) with life, brilliance, splendour, prosperity, fame, brilliance of sacred knowledge[P206_6], food etc., Hail!
+
+[P206_6]: Brilliance of sacred knowledge: divine intuition.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा मा॒ समि॑द्धा ।  
+आयु॑षा॒ तेज॑सा ।  
+वर्च॑सा श्रि॒या ।  
+यश॑सा ब्रह्मवर्च॒सेन॑ ।  
+अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सा᳓ (*TS*-167, *RV*-89, *TB*-73, *TK*-5)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302)
+- स᳓मिद्धा (*TS*-1, *RV*-1, *ŚB*-2, *VS*-2, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
+- आ᳓युषा (*TS*-16, *RV*-4)
+- ते᳓जसा (*TS*-27, *RV*-3, *TB*-17, *TK*-2)
+- व᳓र्चसा (*TS*-15, *RV*-4, *TB*-5)
+- श्रिया᳓ (*RV*-14, *TB*-5, *TK*-2)
+- य᳓शसा (*TS*-2, *TB*-2, *TK*-3)
+- ब्रह्म-वर्चसे᳓न (*TS*-2, *TB*-3)
+- अन्ना᳓द्येन (*TS*-1, *TB*-4)
+- स᳓म् (*TS*-13, *RV*-608)
+- इन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सा मा समिद्धा समिद्धा सा समिद् आयुरादिभिर् मां समिन्तां सन्दीपयतु ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सा च देवता मया समिद्धा सती मामायुरादिभिः समिन्तां सम्यक्प्रकाशयतु । तेजः शरीरकान्तिः । वर्चो बाह्यदीप्तिः ।
 </details>
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/83_antarixaM_samit">
 <details open><summary><h5>८३ अ॒न्तरि॑क्षँ॒ स॒मित् ...{Loading}...</h5></summary>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सायणोक्त-विनियोगः</summary>
 
-अ॒न्तरि॑क्षँ॒ स॒मित् । (82)  
-</details>
-
-<details><summary>मूलम्</summary>
-
-अ॒न्तरि॑क्षँ॒ स॒मित् । (82)  
+अथ द्वितीयतृतीयमन्त्रावाह -
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव्ँ वा॒युस्समि॑न्धे ।  
-सा वा॒युँ समि॑न्धे । 
+अन्त᳓रिक्षँ समि᳓त् । (82)
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+2\. The mid-region is the fuel;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ताव्ँ वा॒युस्समि॑न्धे ।  
-सा वा॒युँ समि॑न्धे । 
+अ॒न्तरि॑क्षँ॒ स॒मित् । (82)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- अन्त᳓रिक्षम् (*TS*-105, *RV*-45, *TB*-16)
+- समि᳓त् (*TS*-5, *TB*-2)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+उत्तरे व्याख्याताः ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पूर्ववद्व्याख्येयौ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम॒हँ समि॑न्धे ।  
-सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
+ताव्ँ᳓ वायु᳓स्स᳓मिन्धे ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the wind burned that;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ताम॒हँ समि॑न्धे ।  
-सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
+ताव्ँ वा॒युस्समि॑न्धे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ता᳓म् (*TS*-104, *RV*-32, *TB*-31)
+- वायुः᳓ (*TS*-52, *RV*-22, *TB*-21)
+- स᳓म् (*TS*-13, *RV*-608)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा᳓ वायुँ᳓ स᳓मिन्धे ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+that burned the wind;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा वा॒युँ समि॑न्धे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सा᳓ (*TS*-167, *RV*-89, *TB*-73, *TK*-5)
+- वायु᳓म् (*TS*-15, *RV*-18, *TB*-1)
+- स᳓म् (*TS*-13, *RV*-608)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता᳓महँ᳓ स᳓मिन्धे ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I burned that;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताम॒हँ समि॑न्धे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ता᳓म् (*TS*-104, *RV*-32, *TB*-31)
+- अह᳓म् (*TS*-162, *RV*-198, *TB*-18, *AV*-253)
+- स᳓म् (*TS*-13, *RV*-608)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा᳓ मा स᳓मिद्धा ।  
+आ᳓युषा ते᳓जसा ।  
+व᳓र्चसा श्रिया᳓ ।  
+य᳓शसा ब्रह्मवर्चसे᳓न ।  
+अन्ना᳓द्येन स᳓मिन्ताँ स्वा᳓हा ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may that, being burnt, make me shine with life, brilliance, splendour, prosperity, fame[P206_5], brilliance of sacred knowledge, food etc., Hail!
+
+[P206_5]: Fame: widespread renown.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा मा॒ समि॑द्धा ।  
+आयु॑षा॒ तेज॑सा ।  
+वर्च॑सा श्रि॒या ।  
+यश॑सा ब्रह्मवर्च॒सेन॑ ।  
+अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सा᳓ (*TS*-167, *RV*-89, *TB*-73, *TK*-5)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302)
+- स᳓मिद्धा (*TS*-1, *RV*-1, *ŚB*-2, *VS*-2, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
+- आ᳓युषा (*TS*-16, *RV*-4)
+- ते᳓जसा (*TS*-27, *RV*-3, *TB*-17, *TK*-2)
+- व᳓र्चसा (*TS*-15, *RV*-4, *TB*-5)
+- श्रिया᳓ (*RV*-14, *TB*-5, *TK*-2)
+- य᳓शसा (*TS*-2, *TB*-2, *TK*-3)
+- ब्रह्म-वर्चसे᳓न (*TS*-2, *TB*-3)
+- अन्ना᳓द्येन (*TS*-1, *TB*-4)
+- स᳓म् (*TS*-13, *RV*-608)
+- इन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
 </details>
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_dyaus_samit">
 <details open><summary><h5>८३ अ॒न्तरि॑क्षँ॒ स॒मित् ...{Loading}...</h5></summary>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>त्रिभुवनः - विनियोगः</summary>
 
-द्यौस्स॒मित् ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
-द्यौस्स॒मित् ।  
+*(Mantra 2)* Offering of Udumbara wood.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तामा॑दि॒त्यस्समि॑न्धे । (83)  
-साऽऽदि॒त्यँ समि॑न्धे । 
+द्यौ᳓स्समि᳓त् ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+The heaven is the fuel;
 </details>
 
 <details><summary>मूलम्</summary>
 
-तामा॑दि॒त्यस्समि॑न्धे । (83)  
-साऽऽदि॒त्यँ समि॑न्धे । 
+द्यौस्स॒मित् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- द्यौः᳓ (*TS*-37, *RV*-102, *TB*-8)
+- समि᳓त् (*TS*-5, *TB*-2)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+उत्तरे व्याख्याताः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम॒हँ समि॑न्धे ।  
-सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समिन्ताँ॒ स्वाहा॑ । 
+ता᳓मादित्य᳓स्स᳓मिन्धे । (83)
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+the sun burned that;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ताम॒हँ समि॑न्धे ।  
-सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समिन्ताँ॒ स्वाहा॑ । 
+तामा॑दि॒त्यस्समि॑न्धे । (83)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ता᳓म् (*TS*-104, *RV*-32, *TB*-31)
+- आदित्यः᳓ (*TS*-59, *RV*-8, *TB*-16)
+- स᳓म् (*TS*-13, *RV*-608)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा᳓ऽऽदित्यँ᳓ स᳓मिन्धे ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+that burned the sun;
+</details>
+
+<details><summary>मूलम्</summary>
+
+साऽऽदि॒त्यँ समि॑न्धे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सा᳓ (*TS*-167, *RV*-89, *TB*-73, *TK*-5)
+- आदित्य᳓म् (*TS*-20, *RV*-3, *TB*-6)
+- स᳓म् (*TS*-13, *RV*-608)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता᳓महँ᳓ स᳓मिन्धे ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I burned that;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताम॒हँ समि॑न्धे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ता᳓म् (*TS*-104, *RV*-32, *TB*-31)
+- अह᳓म् (*TS*-162, *RV*-198, *TB*-18, *AV*-253)
+- स᳓म् (*TS*-13, *RV*-608)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा᳓ मा स᳓मिद्धा ।  
+आ᳓युषा ते᳓जसा ।  
+व᳓र्चसा श्रिया᳓ ।  
+य᳓शसा ब्रह्मवर्चसे᳓न ।  
+अन्ना᳓द्येन स᳓मिन्ताँ स्वा᳓हा ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may that, being burnt, make me shine with life, brilliance[P205_4], splendour, prosperity, fame, brilliance of sacred knowledge and food etc., Hail!
+
+[P205_4]: Brilliance: shining light of sacred knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा मा॒ समि॑द्धा ।  
+आयु॑षा॒ तेज॑सा ।  
+वर्च॑सा श्रि॒या ।  
+यश॑सा ब्रह्मवर्च॒सेन॑ ।  
+अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सा᳓ (*TS*-167, *RV*-89, *TB*-73, *TK*-5)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302)
+- स᳓मिद्धा (*TS*-1, *RV*-1, *ŚB*-2, *VS*-2, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
+- आ᳓युषा (*TS*-16, *RV*-4)
+- ते᳓जसा (*TS*-27, *RV*-3, *TB*-17, *TK*-2)
+- व᳓र्चसा (*TS*-15, *RV*-4, *TB*-5)
+- श्रिया᳓ (*RV*-14, *TB*-5, *TK*-2)
+- य᳓शसा (*TS*-2, *TB*-2, *TK*-3)
+- ब्रह्म-वर्चसे᳓न (*TS*-2, *TB*-3)
+- अन्ना᳓द्येन (*TS*-1, *TB*-4)
+- स᳓म् (*TS*-13, *RV*-608)
+- इन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
 </details>
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_prAjApatyA_me">
 <details open><summary><h5>८४ प्रा॒जा॒प॒त्या मे॑ ...{Loading}...</h5></summary>
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+चतुर्थं मन्त्रमाह -
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒जा॒प॒त्या मे॑ स॒मिद॑सि सपत्न॒क्षय॑णी । भ्रा॒तृ॒व्य॒हा मे॑ऽसि॒ स्वाहा॑ ।
+प्राजापत्या᳓ मे समि᳓दसि सपत्नक्ष᳓यणी । भ्रातृव्यहा᳓ मेऽसि स्वा᳓हा ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+3\. You are my fuel, related to Prajāpati, destroyer of the enemies, killer of the enemy, Hail!
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रा॒जा॒प॒त्या मे॑ स॒मिद॑सि सपत्न॒क्षय॑णी । भ्रा॒तृ॒व्य॒हा मे॑ऽसि॒ स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- प्राजापत्या᳓ (*TS*-1, *TB*-2)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401)
+- समि᳓त् (*TS*-5, *RV*-3, *TB*-2)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204)
+- सपत्न-क्ष᳓यणी (*TS*-2)
+- भ्रातृव्य-हा᳓ (*TS*-1)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्राजापत्येति ॥ प्राजापत्या प्रजापतेस्स्वभूता सपत्नक्षयणी शत्रुनाशिनी समिदसि तस्माद् भ्रातृव्यहा पाप्मनां हन्त्री भव । स्वाहा सुहुतमस्तु ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हे समित्वं प्राजापत्या प्राजापतिसंबन्धिनी सपत्नक्षयणी वैरिविनाशिनी मे समिदसि सम्यग्दीपिकाऽसि । तस्मान्मे मम भ्रातृव्यहाऽसि शत्रुविघातिनी भवसि । स्वाहुतमिदमस्तु ।
 </details>
 </details>
 </div>
