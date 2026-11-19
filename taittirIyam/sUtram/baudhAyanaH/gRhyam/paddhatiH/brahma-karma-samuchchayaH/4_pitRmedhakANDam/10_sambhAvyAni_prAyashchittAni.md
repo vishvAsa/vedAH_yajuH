@@ -220,12 +220,20 @@ title = "१० सम्भाव्यानि प्रायश्चित
 "अग्नये अयस इदं॰" । स्रुचि चतुर्ग्रहीत गृहीत्वा जुहोति 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/03_pashchAt_agnir_hotA">
-
 ###### होता
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पश्चाद् उदञ्चं पञ्चहोतारम् उपदधाति - अग्निर्होतेति ॥
+</details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ पञ्चहोतृमन्त्र उच्यते ।
+
+तद्विनियोगो ब्राह्मण एवमाम्नातः - पश्चादुदञ्चं पञ्चहोतारमिति ।
+
+तत्पाठस्तु -
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -246,6 +254,11 @@ The fire is the Hotṛ priest;
 <details><summary>भट्टभास्कर-टीका</summary>
 
 देवानां आह्वातृत्वादग्नेर्होतृत्वम् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अग्न्यादयः प्रसिद्धाः । अध्वर्युः प्रतिप्रस्थाता चेत्येवमध्वर्युद्वित्वेन होतृपञ्चकं पूरणीयम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -283,6 +296,12 @@ Tvaṣṭr, verily, the fire;
 त्वष्टा॒ऽग्नीत् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- त्व᳓ष्टा (*TS*, *RV*)
+- अग्नी᳓त् (*TS*, *TB*)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 त्वष्टा अग्नीत् आग्नीध्रः उत्तेजनहेतुत्वात्, अग्नीधश्च विहरणादिकृत्त्वात् ।
@@ -303,6 +322,12 @@ Mitra, the impeller.
 मि॒त्र उ॑पव॒क्ता ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- मित्रः᳓ (*TS*, *RV*, *TB*)
+- उपवक्ता᳓ (*RV*)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मित्र उपवक्ता ब्रह्मा, कर्मसाक्षित्वात् ॥
@@ -313,6 +338,11 @@ Mitra, the impeller.
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ ग्रहेष्टकाम् उपदधाति ॥
+</details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ ग्रहभागानाह -
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -330,6 +360,18 @@ Soma is the first going one of the Soma-plant;
 सोम॒स् सोम॑स्य पुरो॒गाः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सो᳓मः (*TS*, *RV*, *TB*)
+- सो᳓मस्य (*TS*, *RV*, *TB*)
+- पुरो-गाः᳓ (*TS*)
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+योऽयं देवतात्मकः सोमः सोऽयं लतात्मकस्य यागदेशं प्रत्यागमने पुरतो गच्छति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक्र᳓श् शुक्र᳓स्य **पुरो-गाः᳓** ।
@@ -343,6 +385,11 @@ the white Soma-juice is the first going one of the white (shining Mantras).
 <details><summary>मूलम्</summary>
 
 शु॒क्रश्शु॒क्रस्य॑ पुरो॒गाः ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+शुक्रो भासको देवतादिप्रकाशको मन्त्रः शुक्रस्य गृह्यमाणतया भासमानस्य सोमस्य पुरतो गच्छति । आदौ मन्त्रं पठित्वा पश्चात्सोमो गृह्यते ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -362,6 +409,17 @@ Indra, Soma-juices have been prepared for you, who are of the speed of the wind 
 वाता॑पेर्हवन॒श्रुत॒स्स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- श्राताः᳓ (प्रातिपदिकम् श्रात᳓ (*MW*))
+- ते (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
+- इन्द्र (आमन्त्रितम् अनुदात्तम्, पा० ८.१.१९)
+- सो᳓माः (*TS*, *RV*, *TB*)
+- वा᳓त-आपेः (*RV* १.१८७.९ वाता॑पेः — सायणः)
+- हवन-श्रु᳓तः (*TS*, *RV*, क्विप् पा० ६.२.१३९ — सायणः)
+- स्वा᳓हा (*TS*, *RV*, *TB*, *TK*)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **सोमो** वल्ली सोमस्य **पुरोगाः** प्रधानभूतः ओषधीशत्वात् ।  
@@ -371,8 +429,12 @@ Indra, Soma-juices have been prepared for you, who are of the speed of the wind 
 **वातापेः** वात-तुल्य-गमनस्य **हवनश्रुतः** अह्वानस्य श्रोतुः, भक्तवत्सलस्येति यावत् । एवं भूतस्य तवेति । स्वाहेति गतम् । चातुर्मास्यादिषु विनियोगः ॥
 </details>
 
-(3)
+<details><summary>सायण-टीका</summary>
 
+हे इन्द्र ते त्वदर्थमेते सोमाः श्राताः पक्वाः, आश्रिता वा । कीदृशस्य ते । वातवदाप्नोति सहसा गच्छतीति वातापिस्तस्य । हवनमाह्वानं शृणोतीति हवनश्रुत्तस्य । एतदर्थं जुहुधीति स्वकीया वागाह ॥
+</details>
+
+(3)
 </div>  
 
 > "वाचस्पतये ब्रह्मण इदं॰" +++(कथं त्यागः सङ्गच्छते??)+++॥ 

@@ -1237,7 +1237,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/03_edho-syedhiShImahi_svAhA.md">
-
 <details><summary>Keith</summary>
 
 Thou art fuel; may we prosper;
@@ -1248,16 +1247,24 @@ Thou art fuel; may we prosper;
 एधो॑ऽस्येधिषी॒महि॒ स्वाहा॑ ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ए᳓धः (*TS*)
+- असि (तिङन्तम् अनुदात्तम्, पा० ८.१.२८)
+- एधिषीम᳓हि (तिङः परं तिङ् पा० ८.१.२८ — हरदत्तः)
+- स्वा᳓हा (*TS*)
+</details>
+
 <details><summary>हरदत्तः</summary>
 
 एधोसीति ॥ समिधं प्रतिवचनम् । हे समित् । त्वं एधोसि ञि इन्धी दीप्तौ, दीप्तिसाधनमस्यग्नेः । वयमपि त्वां आदधानाः एधिषीमहि प्रवृद्धास्स्याम ॥
 </details>
 
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे समित् एधोसि एधनी वर्धनी त्वमस्यग्नेः । अतस्तादृश्या त्वया वयमपि एधिषीमहि वृद्धिं प्राप्नुयामः । यद्वा - तादृश्या त्वया अग्निं वर्धयेम ॥
 </details>
-
 </div>  
 
 _______

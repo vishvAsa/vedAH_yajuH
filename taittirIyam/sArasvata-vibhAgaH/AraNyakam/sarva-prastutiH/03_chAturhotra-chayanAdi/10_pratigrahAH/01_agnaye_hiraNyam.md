@@ -8,7 +8,6 @@ title = "०१ अग्नये हिरण्यम्"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
-
 <details><summary>मूलम् (संयुक्तम् आरण्यके)</summary>
 
 दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वे ।  
@@ -16,7 +15,8 @@ title = "०१ अग्नये हिरण्यम्"
 पू॒ष्णो हस्ता॑भ्यां॒ प्रति॑गृह्णामि ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
@@ -55,6 +55,7 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -72,6 +73,10 @@ O Goddess Dakṣiṇā (Sacrificial Fee), I take you by the impelling of the imp
 प्रति॑गृह्णामि
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे प्रतिगृह्यमाणद्रव्य सवितुर्देवस्य प्रेरणे सत्यश्विसम्बन्धिभ्यां बाहुभ्यां पूषसम्बन्धिभ्यां हस्ताभ्यां त्वां प्रतिगृह्णामि ।
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -102,7 +107,6 @@ may Varuṇa, the king carry you to the fire as gold;
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नामृतत्व᳓मश्याम् ।  
@@ -266,5 +270,4 @@ may Uttāna Āṅgirasa obtain you (5).
 
 तेनाग्निप्रापणेन प्रग्रहदोषाभावादहममृतत्वं नरकाभावरूपं प्राप्नुयाम् । इयं च दक्षिणा दात्रे वयोऽस्तु पक्षिरूपिणी भूत्वा दातारं स्वर्गं नयत्वित्यर्थः । प्रतिग्रहीत्रे मह्यं मयः सुखमस्तु । इदं द्रव्यं कः प्रजापतिः कस्मै प्रजापतयेऽदाद्दत्तवान्, अन्तर्यामिरूपेण दातृप्रतिग्रहीत्रोः प्रेरकत्वात् । तथा कामः कामाय दत्तवान् । यथा प्रजापतिरदृष्टप्रेरकस्तथा कामस्य दृष्टप्रेरकत्वात् । तस्मात्काम एव दाता प्रतिग्रहीता च । स्वर्गादिफलविषयः कामो दाता, ऐहिकसुखविषः कामः प्रतिग्रहीता । ततो हे दक्षिणे समुद्रसमं कामं प्रविश । कामेन निमित्तेन त्वां प्रतिगृह्णामि । हे मद्धृदयवर्ति काम तदेतद्द्रव्यं तुभ्यं भवति । हे काम ते त्वत्प्रीतय एवैषा दक्षिणा प्रवृत्ता । अङ्गिरोगोत्रे समुत्पन्नस्य उत्तानाख्यो महर्षिस्त्वां प्रतिगृह्णातु ।
 </details>
-
 </div>
