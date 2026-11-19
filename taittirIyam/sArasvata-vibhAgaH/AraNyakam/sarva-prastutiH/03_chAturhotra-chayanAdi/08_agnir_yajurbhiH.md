@@ -34,8 +34,8 @@ The Fire (becomes satisfied) by the Yajuses;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- अग्निः᳓ (*TS*, *RV*, *TB*, *TK*)
-- य᳓जुर्भिः (*TB*)
+- अग्निः᳓ (*TS*-403, *RV*-393, *TB*-85, *TK*-2)
+- य᳓जुर्भिः (*TB*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -65,8 +65,8 @@ Savitṛ (sun), by the hymns;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सविता᳓ (*TS*, *RV*, *TB*, *TK*)
-- स्तो᳓मैः (*TS*, *RV*)
+- सविता᳓ (*TS*-50, *RV*-103, *TB*-25, *TK*-3)
+- स्तो᳓मैः (*TS*-7, *RV*-25)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -91,7 +91,7 @@ Indra, by the praises;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- इ᳓न्द्रः (*TS*, *RV*, *TB*, *AV*)
+- इ᳓न्द्रः (*TS*-179, *RV*-564, *TB*-63, *AV*-305)
 - उक्थामदैः᳓ (प्रातिपदिकम् उक्थामद᳓ (*MW*))
 </details>
 
@@ -117,8 +117,8 @@ Mitra and Varuṇa, by the prayers;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- मित्रा᳓व᳓रुणौ (*RV*, *TB*, *TK*)
-- आशि᳓षा (*RV*, *TB*)
+- मित्रा᳓व᳓रुणौ (*RV*-5, *TB*-6, *TK*-2)
+- आशि᳓षा (*RV*-1, *TB*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -143,9 +143,9 @@ Mitra and Varuṇa, by the prayers;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- अ᳓ङ्गिरसः (*TS*, *RV*, *TB*)
+- अ᳓ङ्गिरसः (*TS*-16, *RV*-16, *TB*-1)
 - धि᳓ष्णियैः (प्रातिपदिकम् धि᳓ष्णिय (*MW*))
-- अग्नि᳓भिः (*RV*)
+- अग्नि᳓भिः (*RV*-10)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -165,8 +165,8 @@ Maruts, by the seat of the oblation-receptacles;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- मरु᳓तः (*TS*, *RV*, *TB*)
-- सदः-हविर्-धाना᳓भ्याम् (स᳓दः (*TS*, *RV*) + हवि᳓र् (*TB*), समासस्वरः)
+- मरु᳓तः (*TS*-46, *RV*-134, *TB*-21)
+- सदः-हविर्-धाना᳓भ्याम् (स᳓दः (*TS*-32, *RV*-13) + हवि᳓र् (*TB*-20), समासस्वरः)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,7 +186,7 @@ the waters, by the prokṣaṇīs (vessels for putting the holy water);
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- आ᳓पः (*TS*, *RV*, *TB*, *TK*)
+- आ᳓पः (*TS*-98, *RV*-151, *TB*-29, *TK*-3)
 - प्रो᳓क्षणीभिः (प्रातिपदिकम् प्रो᳓क्षणी (*MW*))
 </details>
 
@@ -207,8 +207,8 @@ the plants, by the Barhi-grass;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ओ᳓षधयः (*TS*, *RV*, *TB*)
-- बर्हि᳓षा (*TS*, *TB*)
+- ओ᳓षधयः (*TS*-63, *RV*-3, *TB*-18)
+- बर्हि᳓षा (*TS*-3, *TB*-4)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -228,8 +228,8 @@ Aditi, by the altar;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- अ᳓दितिः (*TS*, *RV*, *TB*)
-- वे᳓द्या (*TS*, *TB*)
+- अ᳓दितिः (*TS*-38, *RV*-89, *TB*-11)
+- वे᳓द्या (*TS*-1, *TB*-1)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -251,8 +251,8 @@ Soma, by the consecration (1);
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सो᳓मः (*TS*, *RV*, *TB*)
-- दीक्ष᳓या (*TS*, *TB*)
+- सो᳓मः (*TS*-96, *RV*-229, *TB*-48)
+- दीक्ष᳓या (*TS*-4, *TB*-17)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -272,8 +272,8 @@ Tvaṣṭṛ, by the fuel;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- त्व᳓ष्टा (*TS*, *RV*, *TB*)
-- इध्मे᳓न (*RV*)
+- त्व᳓ष्टा (*TS*-30, *RV*-42, *TB*-12)
+- इध्मे᳓न (*RV*-1)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -313,8 +313,8 @@ Vasus, by the ghee;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- व᳓सवः (*TS*, *RV*, *TB*)
-- आ᳓ज्येन (*TS*, *RV*, *TB*)
+- व᳓सवः (*TS*-26, *RV*-17, *TB*-7)
+- आ᳓ज्येन (*TS*-11, *RV*-2, *TB*-7)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -334,8 +334,8 @@ Vasus, by the ghee;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- आदित्याः᳓ (*TS*, *RV*, *TB*)
-- द᳓क्षिणाभिः (*TS*, *RV*)
+- आदित्याः᳓ (*TS*-48, *RV*-10, *TB*-2)
+- द᳓क्षिणाभिः (*TS*-6, *RV*-2)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -355,9 +355,9 @@ All-gods (Viśvedevān), by the power;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- वि᳓श्वे (*TS*, *RV*, *TB*, *TK*)
-- देवाः᳓ (*TS*, *RV*, *TB*, *TK*)
-- ऊर्जा᳓ (*TS*, *RV*, *TB*)
+- वि᳓श्वे (*TS*-84, *RV*-186, *TB*-28, *TK*-6)
+- देवाः᳓ (*TS*-376, *RV*-238, *TB*-38, *TK*-3)
+- ऊर्जा᳓ (*TS*-30, *RV*-6, *TB*-3)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -377,7 +377,7 @@ Pūṣan, by giving (their) own (oblations to the gods);
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- पूषा᳓ (*TS*, *RV*, *TB*, *TK*)
+- पूषा᳓ (*TS*-36, *RV*-53, *TB*-17, *TK*-1)
 - स्वगा-कारे᳓ण (*TS*)
 </details>
 
@@ -408,7 +408,7 @@ Bṛhaspati, by the priest;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- बृ᳓हस्प᳓तिः (*TS*, *RV*, *TB*, *TK*)
+- बृ᳓हस्प᳓तिः (*TS*-70, *RV*-53, *TB*-10, *TK*-3)
 - पुरोध᳓या (आरण्यक-पाठः (अनाम्नातम्))
 </details>
 
@@ -439,7 +439,7 @@ Prajāpati, by the Udgītha (singing Samans in particular modes);
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- प्रजा᳓पतिः (*TS*, *RV*, *TB*)
+- प्रजा᳓पतिः (*TS*-172, *RV*-5, *TB*-93)
 - उद्गीथे᳓न (आरण्यक-पाठः (अनाम्नातम्))
 </details>
 
@@ -460,8 +460,8 @@ the mid-region, by the Pavitra (fringed filtering cloth);
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- अन्त᳓रिक्षम् (*TS*, *RV*, *TB*)
-- पवि᳓त्रेण (*TS*, *RV*, *TB*, *TK*)
+- अन्त᳓रिक्षम् (*TS*-105, *RV*-45, *TB*-16)
+- पवि᳓त्रेण (*TS*-6, *RV*-2, *TB*-6, *TK*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -491,7 +491,7 @@ the wind, by the pots;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- वायुः᳓ (*TS*, *RV*, *TB*)
+- वायुः᳓ (*TS*-52, *RV*-22, *TB*-21)
 - पा᳓त्रैः (प्रातिपदिकम् पा᳓त्र (*MW*))
 </details>
 
@@ -519,8 +519,8 @@ and I, by the faithfulness (2).
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- अह᳓म् (*TS*, *RV*, *TB*, *AV*)
-- श्रद्ध᳓या (*TS*, *RV*, *TB*, *TK*)
+- अह᳓म् (*TS*-162, *RV*-198, *TB*-18, *AV*-253)
+- श्रद्ध᳓या (*TS*-1, *RV*-5, *TB*-2, *TK*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

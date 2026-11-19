@@ -83,8 +83,8 @@ Tvaṣṭr, verily, the fire;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- त्व᳓ष्टा (*TS*, *RV*)
-- अग्नी᳓त् (*TS*, *TB*)
+- त्व᳓ष्टा (*TS*-30, *RV*-42)
+- अग्नी᳓त् (*TS*-5, *TB*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -109,8 +109,8 @@ Mitra, the impeller.
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- मित्रः᳓ (*TS*, *RV*, *TB*)
-- उपवक्ता᳓ (*RV*)
+- मित्रः᳓ (*TS*-29, *RV*-156, *TB*-14)
+- उपवक्ता᳓ (*RV*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -147,9 +147,9 @@ Soma is the first going one of the Soma-plant;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सो᳓मः (*TS*, *RV*, *TB*)
-- सो᳓मस्य (*TS*, *RV*, *TB*)
-- पुरो-गाः᳓ (*TS*)
+- सो᳓मः (*TS*-96, *RV*-229, *TB*-48)
+- सो᳓मस्य (*TS*-38, *RV*-118, *TB*-18)
+- पुरो-गाः᳓ (*TS*-2)
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -197,12 +197,12 @@ Indra, Soma-juices have been prepared for you, who are of the speed of the wind 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 - श्राताः᳓ (प्रातिपदिकम् श्रात᳓ (*MW*))
-- ते (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
-- इन्द्र (आमन्त्रितम् अनुदात्तम्, पा० ८.१.१९)
-- सो᳓माः (*TS*, *RV*, *TB*)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *AV*-1022)
+- इन्द्र (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- सो᳓माः (*TS*-2, *RV*-43, *TB*-1)
 - वा᳓त-आपेः (*RV* १.१८७.९ वाता॑पेः — सायणः)
-- हवन-श्रु᳓तः (*TS*, *RV*, क्विप् पा० ६.२.१३९ — सायणः)
-- स्वा᳓हा (*TS*, *RV*, *TB*, *TK*)
+- हवन-श्रु᳓तः (*TS*-2, *RV*-2, क्विप् पा॰ ६.२.१३९ — सायणः)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

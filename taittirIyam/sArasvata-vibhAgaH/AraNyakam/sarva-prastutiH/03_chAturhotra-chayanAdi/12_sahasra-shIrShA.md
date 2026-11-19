@@ -4911,7 +4911,6 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/16_vedAham_etam.md">
-
 <details><summary>त्रिभुवनः</summary>
 
 Whom the disposer made famous, whom Indra, knowing all the quarters, made famous; by knowing Him one becomes immortal here; there is no other way for going to the (Supreme).
@@ -4927,24 +4926,24 @@ Whom the disposer made famous, whom Indra, knowing all the quarters, made famous
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- वे᳓द (*TS*, *RV*, *TB*, *TK*)
-- अह᳓म् (*TS*, *RV*, *TB*, *AV*)
-- एत᳓म् (*TS*, *RV*, *TB*, *TK*)
-- पु᳓रुषम् (*TS*, *RV*, *TB*)
-- महा᳓न्तम् (*TS*, *RV*)
+- वे᳓द (*TS*-128, *RV*-26, *TB*-149, *TK*-71)
+- अह᳓म् (*TS*-162, *RV*-198, *TB*-18, *AV*-253)
+- एत᳓म् (*TS*-137, *RV*-34, *TB*-60, *TK*-2)
+- पु᳓रुषम् (*TS*-6, *RV*-5, *TB*-6)
+- महा᳓न्तम् (*TS*-1, *RV*-8)
 - आदित्य᳓-वर्णम् (आदित्य᳓ (*MW*) + व᳓र्ण (*MW*), समासस्वरः)
-- त᳓मसः (*TS*, *RV*)
-- तु᳓ (*TS*, *RV*, *TB*)
-- पारे᳓ (*TS*, *RV*, *TB*)
-- स᳓र्वाणि (*TS*, *TB*, *TK*)
-- रूपा᳓णि (*TS*, *RV*, *TB*)
-- विचि᳓त्य (*TS*)
-- धी᳓रः (*TS*, *RV*)
-- ना᳓मानि (*TS*, *RV*, *TB*)
-- कृत्वा᳓ (*TS*, *TB*, *TK*, *AV*)
-- अभिव᳓दन् (अभि᳓ (*TS*, *RV*) + व᳓दन् (*TS*, *RV*), पा० ६.२.१३९)
-- य᳓त् (*TS*, *RV*, *TB*, *TK*)
-- आ᳓स्ते (*TS*, *RV*, *TB*; यद्वृत्तान्नित्यम्, पा० ८.१.६६)
+- त᳓मसः (*TS*-4, *RV*-21)
+- तु᳓ (*TS*-31, *RV*-57, *TB*-6)
+- पारे᳓ (*TS*-3, *RV*-12, *TB*-1)
+- स᳓र्वाणि (*TS*-27, *TB*-6, *TK*-8)
+- रूपा᳓णि (*TS*-21, *RV*-11, *TB*-3)
+- विचि᳓त्य (*TS*-1)
+- धी᳓रः (*TS*-5, *RV*-22)
+- ना᳓मानि (*TS*-4, *RV*-14, *TB*-3)
+- कृत्वा᳓ (*TS*-40, *TB*-12, *TK*-6, *AV*-43)
+- अभिव᳓दन् (अभि᳓ (*TS*-63, *RV*-754) + व᳓दन् (*TS*-2, *RV*-10), पा॰ ६.२.१३९)
+- य᳓त् (*TS*-1461, *RV*-1325, *TB*-102, *TK*-6)
+- आ᳓स्ते (*TS*-2, *RV*-1, *TB*-1; यद्वृत्तान्नित्यम्, पा॰ ८.१.६६)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -5012,7 +5011,6 @@ Whom the disposer made famous, whom Indra, knowing all the quarters, made famous
 इदं यकार-स्वरेण न सङ्गच्छते। यदा इति ह्य् अन्तोदात्तः।
 </details>
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -5034,7 +5032,6 @@ Whom the disposer made famous, whom Indra, knowing all the quarters, made famous
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/17_dhAtA_purastAt.md">
-
 <details><summary>त्रिभुवनः</summary>
 
 The gods performed the sacrifice by the sacrifice (sacrificial person); these were the first holders (Dharma) of the creation; those great ones obtain the heaven where there are the ancient ages and the gods (7).
@@ -5050,26 +5047,26 @@ The gods performed the sacrifice by the sacrifice (sacrificial person); these we
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- धाता᳓ (*TS*, *RV*, *TB*)
-- पुर᳓स्तात् (*TS*, *RV*, *TB*, *TK*)
-- य᳓म् (*TS*, *RV*, *TB*)
-- उदाजहा᳓र (यद्वृत्तान्नित्यम्, पा० ८.१.६६)
-- शक्रः᳓ (*RV*)
-- प्र᳓ (*TS*, *RV*, *TB*, *TK*)
-- विद्वा᳓न् (*TS*, *RV*, *TB*, *TK*)
-- प्रदि᳓शः (*TS*, *RV*)
-- च᳓तस्रः (*TS*, *RV*)
-- त᳓म् (*TS*, *RV*, *TB*)
-- एव᳓म् (*TS*, *RV*, *TB*, *TK*)
-- विद्वा᳓न् (*TS*, *RV*, *TB*, *TK*)
-- अमृ᳓तः (*TS*, *RV*)
-- इह᳓ (*TS*, *RV*, *TB*, *AV*)
-- भवति (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *TS*, *RV*)
-- न᳓ (*TS*, *RV*)
-- अन्यः᳓ (*TS*, *RV*, *TB*)
-- प᳓न्थाः (*TS*, *RV*)
+- धाता᳓ (*TS*-24, *RV*-8, *TB*-9)
+- पुर᳓स्तात् (*TS*-115, *RV*-32, *TB*-23, *TK*-2)
+- य᳓म् (*TS*-164, *RV*-269, *TB*-17)
+- उदाजहा᳓र (यद्वृत्तान्नित्यम्, पा॰ ८.१.६६)
+- शक्रः᳓ (*RV*-15)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-63, *TK*-5)
+- विद्वा᳓न् (*TS*-93, *RV*-94, *TB*-31, *TK*-1)
+- प्रदि᳓शः (*TS*-10, *RV*-11)
+- च᳓तस्रः (*TS*-26, *RV*-13)
+- त᳓म् (*TS*-356, *RV*-540, *TB*-140)
+- एव᳓म् (*TS*-275, *RV*-1, *TB*-184, *TK*-34)
+- विद्वा᳓न् (*TS*-93, *RV*-94, *TB*-31, *TK*-1)
+- अमृ᳓तः (*TS*-4, *RV*-18)
+- इह᳓ (*TS*-100, *RV*-277, *TB*-22, *AV*-262)
+- भवति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-539, *RV*-27)
+- न᳓ (*TS*-758, *RV*-2095)
+- अन्यः᳓ (*TS*-28, *RV*-58, *TB*-4)
+- प᳓न्थाः (*TS*-8, *RV*-17)
 - अ᳓यनाय (प्रातिपदिकम् अ᳓यन (*MW*))
-- विद्यते (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *RV*)
+- विद्यते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -5170,7 +5167,6 @@ The gods performed the sacrifice by the sacrifice (sacrificial person); these we
 निघण्टुः इति ।  
 इदं पुरुष-सूक्त-प्रतिपाद्य-पुरुष-ज्ञानं मोक्षोपाय इति ।। १७ ।।
 </details>
-
 </div>
 
 ### 16 यज्ञेन यज्ञमयजन्त - त्रिष्टुप्

@@ -62,8 +62,8 @@ the consecration, the wife;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- दीक्षा᳓ (*TS*, *TB*)
-- प᳓त्नी (*TS*, *RV*, *TB*, *TK*)
+- दीक्षा᳓ (*TS*-5, *TB*-7)
+- प᳓त्नी (*TS*-14, *RV*-3, *TB*-6, *TK*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -88,8 +88,8 @@ the wind, the Adhvaryu priest;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- वा᳓तः (*TS*, *RV*, *TB*)
-- अध्वर्युः᳓ (*TS*, *RV*, *TB*)
+- वा᳓तः (*TS*-27, *RV*-36, *TB*-5)
+- अध्वर्युः᳓ (*TS*-54, *RV*-9, *TB*-11)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -114,7 +114,7 @@ the waters, the Abhigar priest;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- आ᳓पः (*TS*, *RV*, *TB*, *TK*)
+- आ᳓पः (*TS*-98, *RV*-151, *TB*-29, *TK*-3)
 - अभिगरः᳓ (आरण्यक-पाठः (अनाम्नातम्))
 </details>
 
@@ -140,8 +140,8 @@ the mind, the oblation;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- म᳓नः (*TS*, *RV*, *TB*, *TK*)
-- हविः᳓ (*TS*, *RV*, *TB*)
+- म᳓नः (*TS*-65, *RV*-90, *TB*-11, *TK*-6)
+- हविः᳓ (*TS*-39, *RV*-67, *TB*-39)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -166,8 +166,8 @@ I sacrifice in the austerity.
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- त᳓पसि (*TS*, *TK*)
-- जुहोमि (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *TS*, *RV*)
+- त᳓पसि (*TS*-1, *TK*-1)
+- जुहोमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-20, *RV*-5)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -223,11 +223,11 @@ Brahman is self-born, salutation to the Brahman, the self-born (1).
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ब्र᳓ह्म (*TS*, *RV*, *TB*, *TK*)
-- स्वयम्-भु᳓ (*TK*)
-- ब्र᳓ह्मणे (*TS*, *RV*, *TB*, *TK*)
-- स्वयम्-भु᳓वे (स्वय᳓म् (*MW*) + भुवे᳓ (*TS*, *RV*), समासस्वरः)
-- स्वा᳓हा (*TS*, *RV*, *TB*, *TK*)
+- ब्र᳓ह्म (*TS*-70, *RV*-96, *TB*-32, *TK*-8)
+- स्वयम्-भु᳓ (*TK*-1)
+- ब्र᳓ह्मणे (*TS*-5, *RV*-9, *TB*-5, *TK*-2)
+- स्वयम्-भु᳓वे (स्वय᳓म् (*MW*) + भुवे᳓ (*TS*-1, *RV*-1), समासस्वरः)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
