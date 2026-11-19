@@ -9,7 +9,7 @@ title = "०३ योगेयोगे"
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- यो᳓गेयोगे (*TS*-3, *RV*-1)
+- यो᳓गेयोगे (*TS*-3, *RV*-1, *AV*-2, *ŚB*-1, *VS*-1)
 </details>
 
 <details><summary>हरदत्तः</summary>

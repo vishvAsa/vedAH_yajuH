@@ -9,11 +9,11 @@ title = "१३ तत्सवितुर्वरेण्यमित्य�
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- त᳓त् (*TS*-687)
-- सवितुः᳓ (*TS*-37)
-- व᳓रेण्यम् (*TS*-5, *RV*-21)
+- त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-135/1327, *AV*-391/3163, *ŚB*-47/2303, *VS*-1/268)
+- सवितुः᳓ (*TS*-37/120, *RV*-33/157, *TB*-3/40, *AV*-7/96, *ŚB*-25/77, *VS*-12/66)
+- व᳓रेण्यम् (*TS*-5/11, *RV*-21/38, *TB*-0/1, *AV*-4/8, *ŚB*-1, *VS*-1/3)
 - इ᳓ति (*TS*-1796, *RV*-83, *TB*-227)
-- एषा᳓ (*TS*-122, *RV*-26, *TB*-34)
+- एषा᳓ (*TS*-122/1674, *RV*-26/320, *TB*-34/353, *AV*-26/339, *ŚB*-43/592, *VS*-3/8)
 </details>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/10_tatsaviturvareNyaM_bhargo.md">
