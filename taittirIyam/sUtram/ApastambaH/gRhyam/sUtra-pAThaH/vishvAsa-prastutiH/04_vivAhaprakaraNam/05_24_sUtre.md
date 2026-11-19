@@ -7,10 +7,10 @@ title = "०५ २४ सूत्रे"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/08_nIlalohite_bhavataH.md">
 <details open><summary><h2>०८ नीललोहिते भवतः ...{Loading}...</h2></summary>
 
-नी॒ल॒लो॒हि॒ते +++(सूत्रे)+++ भ॑वतः  
-+++(एकतरेण?)+++ +++(कु)+++कृ॒त्या-स॒क्तिर् +++(दूरं)+++ व्य॑ज्यते ।  
-एध॑न्तेऽस्या ज्ञा॒तयः॒  
-+++(एकतरेण?)+++ पति॑र् ब॒न्धेषु॑ बद्ध्यते ।  
+नीललोहिते᳓ +++(सूत्रे)+++ भवतः  
++++(एकतरेण?)+++ +++(कु)+++कृत्या᳓ सक्ति᳓र् +++(दूरं)+++ [[व्यज्यते|व्य᳙ज्यते]] ।  
+ए᳓धन्तेऽस्या ज्ञात᳓यः  
++++(एकतरेण?)+++ प᳓तिर् बन्धे᳓षु बध्यते ।  
 
 </details>
 </div>

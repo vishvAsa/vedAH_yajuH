@@ -29,7 +29,7 @@ Yama has held the earth; Yama has held all this world; all this exists for Yama 
 - त्रस्थे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 - य᳓त् (*TS*-1461, *RV*-1325, *TB*-102, *TK*-6)
 - प्राण᳓त् (*TS*-1)
-- वायु᳓-रक्षितम् (*TS*, *RV*, *TB*)
+- वायु᳓-रक्षितम् (तृतीया कर्मणि पा॰ ६.२.४८, बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

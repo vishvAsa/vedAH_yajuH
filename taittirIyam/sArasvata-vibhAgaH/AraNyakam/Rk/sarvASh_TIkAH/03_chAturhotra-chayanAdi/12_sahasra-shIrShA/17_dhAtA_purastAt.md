@@ -27,7 +27,7 @@ The gods performed the sacrifice by the sacrifice (sacrificial person); these we
 - प्रदि᳓शः (*TS*-10, *RV*-11)
 - च᳓तस्रः (*TS*-26, *RV*-13)
 - त᳓म् (*TS*-356, *RV*-540, *TB*-140)
-- एव᳓म् (*TS*-275, *RV*-1, *TB*-184, *TK*-34)
+- एव᳓म् (*TS*-274, *RV*-1, *TB*-184, *TK*-34)
 - विद्वा᳓न् (*TS*-93, *RV*-94, *TB*-31, *TK*-1)
 - अमृ᳓तः (*TS*-4, *RV*-18)
 - इह᳓ (*TS*-100, *RV*-277, *TB*-22, *AV*-262)

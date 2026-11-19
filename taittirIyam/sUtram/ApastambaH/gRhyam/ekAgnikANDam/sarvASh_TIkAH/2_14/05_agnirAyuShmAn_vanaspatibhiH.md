@@ -23,7 +23,7 @@ Agni is full of life; he is full of life through the trees; with this life I mak
 - ते᳓न (*TS*-295)
 - त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590)
 - आ᳓युषा (*TS*-16, *RV*-4)
-- आ᳓युष्मन्तम् (*TS*-7)
+- आ᳓युष्मन्तम् (*TS*-6)
 - करोमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 

@@ -25,7 +25,7 @@ In whom this all is born and in whom this all vanishes; in whom all the gods liv
 - च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405)
 - वि᳓ (*TS*-379, *RV*-952, *TB*-35, *TK*-2)
 - च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405)
-- ए᳓ति (*TS*-918, *RV*-21; यद्वृत्तान्नित्यम्, पा॰ ८.१.६६)
+- ए᳓ति (*TS*-2, *RV*-21; यद्वृत्तान्नित्यम्, पा॰ ८.१.६६)
 - स᳓र्वम् (*TS*-49, *RV*-19, *TB*-29, *TK*-9)
 - य᳓स्मिन् (*TS*-9, *RV*-51, *TB*-2)
 - देवाः᳓ (*TS*-376, *RV*-238, *TB*-38, *TK*-3)
@@ -43,7 +43,7 @@ In whom this all is born and in whom this all vanishes; in whom all the gods liv
 - त᳓त् (*TS*-687, *RV*-552, *TB*-135, *TK*-6)
 - अक्ष᳓रे (*TS*-2, *RV*-2, *TK*-2)
 - परमे᳓ (*TS*-9, *RV*-28, *TB*-2, *TK*-1)
-- व्यो᳙मन्न् (*TS*-1)
+- व्यो᳙मन्न् (व्यो᳙मन् *TS*-6, *VS*-2, वि᳓-ओमन् *RV*-12, *AV*-23, मनिन् नित् पा॰ ६.१.१९७)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
