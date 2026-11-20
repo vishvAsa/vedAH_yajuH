@@ -10,13 +10,14 @@ title = "१० हविर्ग्रहणम्"
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-गार्हपत्ये स्रुवादीन् प्रतितपति
+1गार्हपत्ये स्रुवादीन् प्रतितपति - प्रत्युष्टमिति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pratyuShTam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pratyuShTam.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
+प्र᳓त्युष्टँ र᳓क्षᳶ, प्र᳓त्युष्टा अ᳓रातयः+++(=अदातारः)+++।
 </details>
 
 <details><summary>Keith</summary>
@@ -47,16 +48,17 @@ The Raksas is burned up, the evil spirits are burned up.
 
 किञ्च, अरातयोपि प्रत्युष्टास्सन्तु । रातयो धनस्य दातारस्सुहृदः । 'कृत्यल्युटो बहुळम्' (पा.सू. 3.3.113) इति बहुलवचनात्कर्तरि क्तिन् । अतोन्येऽरातयः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) ॥
 </details>
+
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-1गार्हपत्ये स्रुवादीन् प्रतितपति - प्रत्युष्टमिति ॥ व्याख्यातम् (तै.सं. 1.1.2)
+व्याख्यातम् (तै.सं. 1.1.2)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेर् व॒स् तेजि॑ष्ठेन॒ तेज॑सा॒ निष्ट॑पामि ।  
+अग्ने᳓र् वस् ते᳓जिष्ठेन ते᳓जसा नि᳓ष्टपामि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -85,13 +87,13 @@ ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-स्रुवं सम्मार्ष्टि
+2स्रुवं सम्मार्ष्टि - गोष्ठमिति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(स्रुङ्-मार्जनाभावाद् यागाभावाद् वृष्ट्यभावाद् …)+++ गो॒ष्ठम् मा निर्मृ॑क्षम्+++(=विनीनशम्)+++  ।  
-+++(अतः)+++ वा॒जिन॑न्+++(=अन्नवन्तम्)+++ त्वा सपत्न-सा॒हँ+++(=अभिभवितारं)+++ सम्मा॑र्ज्मि ।  
++++(स्रुङ्-मार्जनाभावाद् यागाभावाद् वृष्ट्यभावाद् …)+++ गोष्ठ᳓म् मा᳓ नि᳓र्मृक्षम्+++(=विनीनशम्)+++  ।  
++++(अतः)+++ वाजि᳓नन्+++(=अन्नवन्तम्)+++ त्वा सपत्न-साहँ᳓+++(=अभिभवितारं)+++ स᳓म्मार्ज्मि ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -118,7 +120,7 @@ May I not brush the place of the cattle, I brush thee that art strong and overco
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-2स्रुवं सम्मार्ष्टि - गोष्ठमिति ॥ गावस् तिष्ठन्ति यत्र स **गोष्ठो** देशः । 'घञर्थे कविधानम्' (पा.सू. 3.3.58 वा 4) इति कः, थाथादिसूत्रेण (पा.सू. 6.2.144) अन्तोदात्तत्वम् । 'अम्बाम्ब' (पा.सू. 8.3.97) इत्यादिना षत्वम् । 
+गावस् तिष्ठन्ति यत्र स **गोष्ठो** देशः । 'घञर्थे कविधानम्' (पा.सू. 3.3.58 वा 4) इति कः, थाथादिसूत्रेण (पा.सू. 6.2.144) अन्तोदात्तत्वम् । 'अम्बाम्ब' (पा.सू. 8.3.97) इत्यादिना षत्वम् । 
 
 यस्माद् अहं गवां स्थानं (इत्यादि…) **मा निर्मृक्षम्** मा विनीनशं इति प्रार्थ्यसे, …
 तस्माद् **वाजिनम्** अन्नवन्तं अन्न-साधन-भूतं **स-पत्न-साहं**(**सपत्नसाहीं** वा)  सपत्नानां शत्रूणां अभिभवितारं **त्वां सम्मार्ज्मि** शोधयामि । 
@@ -133,13 +135,13 @@ ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-जुहूं सम्मार्ष्टि
+3जुहूं सम्मार्ष्टि - वाचमिति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(दर्वी-मार्जनाभावाद् यागाभावाद् वृष्ट्यभावाद् …)+++ वाच॑म् [मा निर्मृ॑क्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वा॒जिन॑न्+++(=अन्नवन्तम्)+++ त्वा सपत्न-सा॒हीँ+++(=अभिभवित्रीं)+++ सम्मा॑र्ज्मि ।]।   
-+++(दर्वी-मार्जनाभावाद् यागाभावाद् वृष्ट्यभावाद् …)+++ प्रा॒णम् [मा निर्मृ॑क्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वा॒जिन॑न्+++(=अन्नवन्तम्)+++ त्वा सपत्न-सा॒हीँ+++(=अभिभवित्रीं)+++ सम्मा॑र्ज्मि ।]
++++(दर्वी-मार्जनाभावाद् यागाभावाद् वृष्ट्यभावाद् …)+++ वा᳓चम् [मा᳓ नि᳓र्मृक्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वाजि᳓नन्+++(=अन्नवन्तम्)+++ त्वा सपत्न-साहीँ᳓+++(=अभिभवित्रीं)+++ स᳓म्मार्ज्मि ।]।   
++++(दर्वी-मार्जनाभावाद् यागाभावाद् वृष्ट्यभावाद् …)+++ प्राण᳓म् [मा᳓ नि᳓र्मृक्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वाजि᳓नन्+++(=अन्नवन्तम्)+++ त्वा सपत्न-साहीँ᳓+++(=अभिभवित्रीं)+++ स᳓म्मार्ज्मि ।]
 </details>
 
 <details><summary>Keith</summary>
@@ -165,7 +167,7 @@ Speech, breath (may I not brush, I brush thee that art strong and overcomest foe
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-3जुहूं सम्मार्ष्टि - वाचमिति ॥ अत्र मा निर्मृक्षमित्यादि वक्ष्यमाणमनुषज्यते । थाथादिस्वरेण (पा.सू. 6.2.144) प्राणशब्दोन्तोदात्तः ॥
+अत्र मा निर्मृक्षमित्यादि वक्ष्यमाणमनुषज्यते । थाथादिस्वरेण (पा.सू. 6.2.144) प्राणशब्दोन्तोदात्तः ॥
 </details>
 
 ____
@@ -174,13 +176,13 @@ ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-उपभृतं सम्मार्ष्टि
+4उपभृतं सम्मार्ष्टि - चक्षुरिति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(दर्वी-मार्जनाभावाद् यागाभावाद् वृष्ट्यभावाद् …)+++ चक्षुः॑ [मा निर्मृ॑क्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वा॒जिन॑न्+++(=अन्नवन्तम्)+++ त्वा सपत्न-सा॒हीँ+++(=अभिभवितारं)+++ सम्मा॑र्ज्मि ।]   
-+++(दर्वी-मार्जनाभावाद् यागाभावाद् वृष्ट्यभावाद् …)+++ श्रोत्र॑म्  [मा निर्मृ॑क्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वा॒जिन॑न्+++(=अन्नवन्तम्)+++ त्वा सपत्न-सा॒हीँ+++(=अभिभवित्रीं)+++ सम्मा॑र्ज्मि ।]
++++(दर्वी-मार्जनाभावाद् यागाभावाद् वृष्ट्यभावाद् …)+++ च᳓क्षुः [मा᳓ नि᳓र्मृक्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वाजि᳓नन्+++(=अन्नवन्तम्)+++ त्वा सपत्न-साहीँ᳓+++(=अभिभवितारं)+++ स᳓म्मार्ज्मि ।]   
++++(दर्वी-मार्जनाभावाद् यागाभावाद् वृष्ट्यभावाद् …)+++ श्रो᳓त्रम्  [मा᳓ नि᳓र्मृक्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वाजि᳓नन्+++(=अन्नवन्तम्)+++ त्वा सपत्न-साहीँ᳓+++(=अभिभवित्रीं)+++ स᳓म्मार्ज्मि ।]
 </details>
 
 <details><summary>Keith</summary>
@@ -201,7 +203,7 @@ eye, ear, may I not brush, I brush thee that art strong and overcomest foes.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-4उपभृतं सम्मार्ष्टि - चक्षुरिति ॥ पूर्ववद् वक्ष्यमाणस्यानुषङ्गः ॥
+पूर्ववद् वक्ष्यमाणस्यानुषङ्गः ॥
 </details>
 
 ____
@@ -210,13 +212,13 @@ ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-ध्रुवां सम्मार्ष्टि
+5ध्रुवां सम्मार्ष्टि - प्रजामिति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(दर्वी-मार्जनाभावाद् यागाभावाद् वृष्ट्यभावाद् …)+++ प्र॒जाम् [मा निर्मृ॑क्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वा॒जिन॑न्+++(=अन्नवन्तम्)+++ त्वा सपत्न-सा॒हीँ+++(=अभिभवित्रीं)+++ सम्मा॑र्ज्मि ।]  
-+++(दर्वी-मार्जनाभावाद् यागाभावाद् वृष्ट्यभावाद् …)+++ योनि॒म् [मा निर्मृ॑क्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वा॒जिन॑न्+++(=अन्नवन्तम्)+++ त्वा सपत्न-सा॒हीँ+++(=अभिभवित्रीं)+++ सम्मा॑र्ज्मि ।]  
++++(दर्वी-मार्जनाभावाद् यागाभावाद् वृष्ट्यभावाद् …)+++ प्रजा᳓म् [मा᳓ नि᳓र्मृक्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वाजि᳓नन्+++(=अन्नवन्तम्)+++ त्वा सपत्न-साहीँ᳓+++(=अभिभवित्रीं)+++ स᳓म्मार्ज्मि ।]  
++++(दर्वी-मार्जनाभावाद् यागाभावाद् वृष्ट्यभावाद् …)+++ यो᳓निम् [मा᳓ नि᳓र्मृक्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वाजि᳓नन्+++(=अन्नवन्तम्)+++ त्वा सपत्न-साहीँ᳓+++(=अभिभवित्रीं)+++ स᳓म्मार्ज्मि ।]  
 </details>
 
 <details><summary>Keith</summary>
@@ -238,7 +240,7 @@ I brush thee that art strong and overcomest foes.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-5ध्रुवां सम्मार्ष्टि - प्रजामिति ॥ सपत्नसाहीमिति उदात्तनिवृत्तिस्वरेण (पा.सू. 6.1.161) ङीप उदात्तत्वम् ॥
+सपत्नसाहीमिति उदात्तनिवृत्तिस्वरेण (पा.सू. 6.1.161) ङीप उदात्तत्वम् ॥
 </details>
 
 ____
@@ -248,12 +250,16 @@ ____
 पत्नीं योक्त्रेण सन्नह्यति, तदा पत्नी वदति-
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 आशा᳓साना सौमनसं᳓  
-प्रजां᳓ सौ᳓भाग्यं तनूम्।  
+प्रजां᳓ सौ᳓भाग्यं [[तनूम्|तनू᳓म्]]।  
 अग्ने᳓र् अ᳓नुव्रता भूत्वा᳓ +++(तिष्ठति/ तिष्ठामि)+++,  
 +++(तां)+++ सं᳓ नह्ये सुकृता᳓य क᳓म् +++(=सुखम् [यथा])+++।
+
+</details>
 
 </div>
 
@@ -276,7 +282,6 @@ I gird my body for good action.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-6पत्नीं योक्त्रेण सन्नह्यति - आशासानेति चतुष्पदयानुष्टुभा ॥  
 सन्नह्ये इत्युत्तमपुरुषश्रवणात्पत्नी मन्त्रं ब्रवीति । आशासाना प्रार्थयमाना । अनुदात्तेत्त्वात् लसार्वधातुकानुदात्तत्वम् (पा.सू. 6.1.186), कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) । किं? सौमनसं शोभनं मनस्सौमनसम् । 'प्रज्ञादिभ्यश्च' (पा.सू. 5.4.38) इति मनश्शब्दात्स्वार्थे विधीयमानोण्प्रत्ययस्तदन्तादपि भवति, छन्दसि दृष्टानुविधानात् (पा.सू. 1.1.6 वा 1) । प्रजामपत्यं (पुत्रादिकाम्) । कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) । सौभाग्यं भर्तुरिष्टत्वम् । 'सुभग मन्त्रे' (पा.सू. 5.1.129 उद्गात्रादिगणे गणसूत्रम्) इति विधीयमानस्यौद्गात्रादिलक्षणस्याञोऽभावे ष्यञेव क्रियते । ञित्त्वादाद्युदात्तत्वम्, 'हृद्भगसिन्ध्वन्ते पूर्वपदस्य च' (पा.सू. 7.3.19) इत्युभयपदवृद्धिः । तनूं शरीरम् अविनाशाम् । 'कृषिचमितनि' (उ.सू. 84) इत्यादिना ऊप्रत्ययः । अग्नेः परिचरणलक्षणानि यानि व्रतानि तैरनुगता अनुव्रता । 'अवादयः क्रुष्टाद्यर्थे तृतीयया' (पा.भा. 2.2.18 वा 4) इति तत्पुरुषः । 'तत्पुरुषे तुल्यार्थ' (पा.सू. 6.2.2) इत्यादिनाऽव्ययपूर्वपदप्रकृतिस्वरत्वम् । सुकृताय शोभनाय कर्मणे सन्नह्ये बध्ये । शोभनं कर्म सुकृतम् । भावे निष्ठा । 'सूपमानात् क्तः' (पा.सू. 6.2.145) इत्युत्तरपदान्तोदात्तत्वम् । कं सुखं यथा भवति तथा बध्ये । कर्मणि लकारः । यद्वा - कमात्मानं संनह्ये बध्नामि । नह्यतिः स्वरितेत् । 'एतद्वै पत्नियै व्रतोपनयनम्' (तै.ब्रा. 3.3.3) इत्यादि ब्राह्मणम् ॥
 </details>
 
@@ -287,18 +292,22 @@ ____
 7पत्नी गार्हपत्यमुपसीदति - सुप्रजस इति चतुष्पदयानुष्टुभा ॥   
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
 
-सु॒-प्र॒जस॑स् त्वा व॒यँ  
-सु॒-पत्नी॒र् **उप॑ सेदिम** ।  
-अग्ने॑ सपत्न॒-दम्भ॑न॒म् +++(त्वां)+++  
-**अ-द॑ब्धासो॒** अ-दा॑भ्यम् ॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+सु-प्रज᳓सस् त्वा वयँ᳓  
+सु-प᳓त्नीर् **उ᳓प सेदिम** ।  
+अ᳓ग्ने सपत्न-द᳓म्भनम् +++(त्वां)+++  
+**अ᳓-दब्धासो** अ᳓-दाभ्यम् ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
-<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 With fair offspring, with noble husbands,  
@@ -315,8 +324,7 @@ The undeceivable, we that are not deceived.
 
 <details><summary>पद-पाठः</summary>
 
-सु॒प्र॒जस॒ इति॑ सु-प्र॒जसः॑ । त्वा॒ । व॒यम् । सु॒पत्नी॒रिति॑ सु-पत्नीः॑ । उपेति॑ । [16]  
-1 । से॒दि॒म॒ ॥ अग्ने॑ । स॒प॒त्न॒दम्भ॑न॒मिति॑ सपत्न-दम्भ॑नम् । अद॑ब्धासः । अदा॑भ्यम् ॥
+सु॒प्र॒जस॒ इति॑ सु-प्र॒जसः॑ । त्वा॒ । व॒यम् । सु॒पत्नी॒रिति॑ सु-पत्नीः॑ । उपेति॑ । से॒दि॒म॒ ॥ अग्ने॑ । स॒प॒त्न॒दम्भ॑न॒मिति॑ सपत्न-दम्भ॑नम् । अद॑ब्धासः । अदा॑भ्यम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -325,6 +333,7 @@ The undeceivable, we that are not deceived.
 कीदृशं - सपत्नदम्भनं शत्रूणां विनाशसाधनम् । करणे ल्युटि, कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) । यस्मादीदृशस्त्वं तस्मात् त्वामुपसीदामः । अदब्धासः त्वत्प्रसादेन केनाप्यहिंसिताः । 'आज्जसेरसुक्' (पा.सू. 7.1.50) । अदाभ्यं केनचिदप्यनभिभवनीयं त्वाम् । दभिः प्रकृत्यन्तरमस्तीति केचिदाहुः । 'दभेश्चेति वक्तव्यम्' (पा.सू. 3.1.124 वा 3) इति ण्यत्, उभयत्राप्यव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) ॥
 </details>
 </details>
+
 </div>
 
 ____
@@ -334,18 +343,22 @@ ____
 8योक्त्रं पत्नी विमुञ्चति - इममिति त्रिष्टुभा चतुष्पदया ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/46_imav.N_viShyAmi.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/46_imav.N_viShyAmi.md">
 
-इ॒मव्ँ **विष्या॑मि॒**+++(=प्रमुञ्चामि)+++ वरु॑णस्य॒+++(=छादकस्य [वस्त्रस्य/ वरुणस्य वा])+++ पाशय्ँ॒ +++(योक्त्ररूपम्)+++  
-यम् **अब॑ध्नीत** सवि॒ता सु॒केतः॑ ।   
-धा॒तुश्+++(→अग्नेः)+++ च॒ योनौ॑, सुकृ॒तस्य॑ लो॒के  
-**स्यो॒नम्** मे॑ स॒ह पत्या॑ **करोमि** ॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+इमव्ँ᳓ **वि᳓ष्यामि**+++(=प्रमुञ्चामि)+++ व᳓रुणस्य+++(=छादकस्य [वस्त्रस्य/ वरुणस्य वा])+++ पा᳓शय्ँ +++(योक्त्ररूपम्)+++  
+य᳓म् **अ᳓बध्नीत** सविता᳓ सुके᳓तः ।   
+धातु᳓श्+++(→अग्नेः)+++ च यो᳓नौ, सुकृत᳓स्य लोके᳓  
+**स्योन᳓म्** मे सह᳓ प᳓त्या **करोमि** ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/46_imav.N_viShyAmi.md">
-<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/46_imav.N_viShyAmi.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 I loosen this bond of Varuna,  
@@ -371,27 +384,32 @@ I make it pleasant for me with my husband.
 किञ्च - धातुः प्रजापतेरपि योनौ स्थाने सुकृतस्य लोके शोभनकर्मसम्बन्धिनि लोके पत्या सह मे स्योनं सुखं करोमि, योक्त्रविमोकेन सम्यग्यज्ञनिष्पत्तेः । सुकृतशब्दोऽन्तोदात्तस्वरः ॥
 </details>
 </details>
+
 </div>
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-सयोक्त्रे ऽञ्जलौ उद-पात्र आनीयमाने पत्नी गार्हपत्यम् उपतिष्ठते
+9सयोक्त्रेऽञ्जलौ उदपात्र आनीयमाने पत्नी गार्हपत्यमुपतिष्ठते - समिति चतुष्पदयानुष्टुभा ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/51_samAyuShA_samprajayA.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/51_samAyuShA_samprajayA.md">
 
-सम् आयु॑षा॒ सम् प्र॒जया॒  
-**सम्** अ॑ग्ने॒ वर्च॑सा॒ पुनः॑ ।  
-सम्पत्नी॒ पत्या॒ ऽहङ् **ग॑च्छे॒**  
-सम् आ॒त्मा त॒नुवा॒ मम॑ ॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+स᳓म् आ᳓युषा स᳓म् प्रज᳓या  
+**स᳓म्** अग्ने व᳓र्चसा पु᳓नः ।  
+स᳓म्प᳓त्नी प᳓त्या ऽह᳓ङ् **गच्छे**  
+स᳓म् आत्मा᳓ तनु᳓वा म᳓म ॥
+
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/51_samAyuShA_samprajayA.md">
-<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/51_samAyuShA_samprajayA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 With life, with offspring,  
@@ -413,12 +431,12 @@ United be my spirit with my body.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-9सयोक्त्रेऽञ्जलौ उदपात्र आनीयमाने पत्नी गार्हपत्यमुपतिष्ठते - समिति चतुष्पदयानुष्टुभा ॥
 हे अग्ने गार्हपत्य, यदिदमुदपात्रेण योक्त्रं संगच्छते, तेनाहमायुषा तावत्संगच्छे संगता भूयासं । 'आशंसायां भूतवच्च' (पा.सू. 3.3.132) इति लट्, 'समो गमृच्छिभ्याम्' (पा.सू. 1.3.29) इत्यात्मनेपदम् । किञ्च - प्रजया अपत्येन वर्चसा बलेन च संगच्छे । पुनः उपर्युपरि ।  
 किञ्च - अहं पत्नी भूत्वा पत्या सह संगच्छे न वियोक्ष्ये ।  
 किञ्च - ममात्मा क्षेत्रज्ञस्तनुवा अविकलेन्द्रियेण शरीरेण संगच्च्छताम् । अनेन कर्मणा एतत्सर्वं ममास्त्विति । तनुवेति 'तन्वादीनां छन्दसि बहुलम्' (पा.सू. 6.4.77 वा 1) इत्युवङादेशः । ममेति 'युष्मदस्मदोर्ङसि' (पा.सू. 6.1.211) इत्याद्युदात्तत्वम् ॥
 </details>
 </details>
+
 </div>
 
 ____
@@ -433,11 +451,12 @@ ____
 म॒ही॒नाम्पयो॒ऽस्योष॑धीनाँ॒ रस॒स्तस्य॒ तेऽक्षी॑यमाणस्य॒ निः [17]व॒पा॒मि
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(आज्य!)+++ म॒ही॒नाम् +++(गवां)+++ पयो॑ ऽसि  ।  
-ओष॑धीनाँ॒ रसः॑।
++++(आज्य!)+++ महीना᳓म् +++(गवां)+++ प᳓यो ऽसि  ।  
+ओ᳓षधीनाँ र᳓सः।
 </details>
 
 <details><summary>Keith</summary>
@@ -464,11 +483,12 @@ of plants the sap.
 किञ्च - ओषधीनां रसोसि रसभूतमसि, भक्षिततृणादिपरिणामत्वात्तस्य । दासीभारादित्वात् (पा.सू. 6.2.42) ओषधिशब्दस्य पूर्वपदप्रकृतिस्वरत्वम् । 'नामन्यतरस्याम्' (पा.सू. 6.1.177), इति वचनादत्र नाम उदात्तत्वं न भवति ।
 
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य॑ तेऽक्षी॑यमाणस्य॒ निर्व॑पामि  ।
+त᳓स्य ते᳓ऽक्षीयमाणस्य नि᳓र्वपामि  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -483,8 +503,7 @@ Of thee that art the imperishable I make the offering.
 
 <details><summary>पद-पाठः</summary>
 
-तस्य॑ । ते॒ । अक्षी॑यमाणस्य । निरिति॑ । [17]  
-1 । व॒पा॒मि॒ ।
+तस्य॑ । ते॒ । अक्षी॑यमाणस्य । निरिति॑ । व॒पा॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -496,14 +515,15 @@ __
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-पत्नी आज्यमवेक्षते
+11पत्नी आज्यमवेक्षते - महीनामिति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(आज्य!)+++ म॒ही॒नाम् +++(गवां)+++ पयो॑ ऽसि  ।  
-ओष॑धीनाँ॒ रसः॑।
++++(आज्य!)+++ महीना᳓म् +++(गवां)+++ प᳓यो ऽसि  ।  
+ओ᳓षधीनाँ र᳓सः।
 </details>
 
 <details><summary>Keith</summary>
@@ -530,6 +550,7 @@ of plants the sap.
 किञ्च - ओषधीनां रसोसि रसभूतमसि, भक्षिततृणादिपरिणामत्वात्तस्य । दासीभारादित्वात् (पा.सू. 6.2.42) ओषधिशब्दस्य पूर्वपदप्रकृतिस्वरत्वम् । 'नामन्यतरस्याम्' (पा.सू. 6.1.177), इति वचनादत्र नाम उदात्तत्वं न भवति ।
 
 </details>
+
 </div>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -539,19 +560,18 @@ of plants the sap.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-11पत्नी आज्यमवेक्षते - महीनामिति ॥ रसान्तं व्याख्यातम् (तै.सं. 1.1.10)
+रसान्तं व्याख्यातम् (तै.सं. 1.1.10)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अद॑ब्धेन त्वा॒ चक्षु॒षा ऽवे॑क्षे सुप्रजा॒स्त्वाय॑ ।
+अ᳓दब्धेन त्वा च᳓क्षुषा᳓ ऽवेक्षे सुप्रजास्त्वा᳓य ।
 </details>
 
 <details><summary>Keith</summary>
 
 with undeceived eye I gaze on thee  
 for fair offspring.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -573,12 +593,12 @@ ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-गार्हपत्येधिश्रयति
+12गार्हपत्येधिश्रयति - तेजोसीति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेजो॑ ऽसि ।  
+ते᳓जो ऽसि ।  
 +++('अमेध्यं वा एतत्करोति' (तै.ब्रा. 3.3.4) इत्यादि ब्राह्मणम् ॥)+++
 </details>
 
@@ -604,19 +624,19 @@ Thou art brilliance;
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-12गार्हपत्येधिश्रयति - तेजोसीति ॥ तेजः उज्ज्वलम् । असि एधि । पञ्चमलकारे रूपम् । 'अमेध्यं वा एतत्करोति' (तै.ब्रा. 3.3.4) इत्यादि ब्राह्मणम् ॥
+तेजः उज्ज्वलम् । असि एधि । पञ्चमलकारे रूपम् । 'अमेध्यं वा एतत्करोति' (तै.ब्रा. 3.3.4) इत्यादि ब्राह्मणम् ॥
 </details>
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-आहरति
+13आहरति - तेज इति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(आहवनीय-)+++तेजो ऽनु॒  प्रेहि॑ ।
++++(आहवनीय-)+++ते᳓जो᳓ ऽनु  प्रे᳓हि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -636,19 +656,19 @@ follow thou brilliance;
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-13आहरति - तेज इति ॥ ते तव आहवनीयाख्यं तेजोनुप्रेहि अनुक्रमेण गच्छ ॥
+ते तव आहवनीयाख्यं तेजोनुप्रेहि अनुक्रमेण गच्छ ॥
 </details>
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-आहवनीयेऽधिश्रयति
+14आहवनीयेऽधिश्रयति - अग्निरिति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निस् ते॒ तेजो॒ मा विनै॑त्+++(=विनैषीत्)+++ ।  
+अग्नि᳓स् ते ते᳓जो मा᳓ वि᳓नैत्+++(=विनैषीत्)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -668,63 +688,90 @@ may Agni not take away the brilliance.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-14आहवनीयेऽधिश्रयति - अग्निरिति ॥ ते तव तेजः औज्ज्वल्यं अग्निः मा विनैत् मा विनैषीत् । माङि नयतेर्लुङि, 'बहुलं छन्दसि' (पा.सू. 7.3.97) इतीडभावे, सिचि वृद्धौ, 'स्कोस्संयोगाद्द्योरन्ते च' (पा.सू. 8.2.29) इति सलोपः ॥
+ते तव तेजः औज्ज्वल्यं अग्निः मा विनैत् मा विनैषीत् । माङि नयतेर्लुङि, 'बहुलं छन्दसि' (पा.सू. 7.3.97) इतीडभावे, सिचि वृद्धौ, 'स्कोस्संयोगाद्द्योरन्ते च' (पा.सू. 8.2.29) इति सलोपः ॥
 </details>
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-आज्यम् अवेक्षते
+15आज्यमवेक्षते - अग्नेरिति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेर् जि॒ह्वा ऽसि॑ ।  
-सु॒भूर् दे॒वाना॒न्,  
-धाम्ने॑धाम्ने+++(=धारणेधारणे)+++ दे॒वेभ्यो॒ यजु॑षेयजुषे भव ।  
+अग्ने᳓र् जिह्वा᳓ ऽसि ।
 </details>
 
 <details><summary>Keith</summary>
 
 Thou art the tongue of Agni,  
-the good one of the gods.  
+the good one of the gods.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्नेर्जि॒ह्वाऽसि॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नेः । जि॒ह्वा । अ॒सि॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अग्नेस्त्वं जिह्वासि, जिह्वास्थानीयज्वालाहेतुत्वात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुभू᳓र् देवा᳓नान्,  
+धा᳓म्नेधाम्ने+++(=धारणेधारणे)+++ देवे᳓भ्यो य᳓जुषेयजुषे भव ।
+</details>
+
+<details><summary>Keith</summary>
+
 Be thou (good) for every sacrifice, for the gods, for every prayer.
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्नेर्जि॒ह्वाऽसि॑ ।  
 सु॒भूर् दे॒वाना॒न्, धाम्ने॑धाम्ने दे॒वेभ्यो॒ यजु॑षेयजुषे भव ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-अ॒ग्नेः । जि॒ह्वा । अ॒सि॒ । सु॒भूरिति॑ सु-भूः । दे॒वाना॑म् ।
-धाम्ने॑धाम्न॒ इति॒ धाम्ने॑-धा॒म्ने॒ । दे॒वेभ्यः॑ । यजु॑षेयजुष॒ इति॒ यजु॑षे-य॒जु॒षे॒ । भ॒व॒ ।
+सु॒भूरिति॑ सु-भूः । दे॒वाना॑म् । धाम्ने॑धाम्न॒ इति॒ धाम्ने॑-धा॒म्ने॒ । दे॒वेभ्यः॑ । यजु॑षेयजुष॒ इति॒ यजु॑षे-य॒जु॒षे॒ । भ॒व॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-15आज्यमवेक्षते - अग्नेरिति ॥ अग्नेस्त्वं जिह्वासि, जिह्वास्थानीयज्वालाहेतुत्वात् । सुभूः सुष्ठु भूतं जातं सर्वोत्कर्षेणोत्पन्नम् । देवानां स्वभूतं, देवार्थं वा जातम् । यस्मात्त्वमीदृशं, तस्माद्देवेभ्यः देवानाम् । षष्ठ्यर्थे चतुर्थी (पा.सू. 2.3.62 वा 1) । देवार्थं वा । 
+सुभूः सुष्ठु भूतं जातं सर्वोत्कर्षेणोत्पन्नम् । देवानां स्वभूतं, देवार्थं वा जातम् । यस्मात्त्वमीदृशं, तस्माद्देवेभ्यः देवानाम् । षष्ठ्यर्थे चतुर्थी (पा.सू. 2.3.62 वा 1) । देवार्थं वा ।
 
-**धाम्नेधाम्ने** सर्वस्मै धारणाय । 'अनुदात्तं च' (पा.सू. 8.1.3) इति द्वितीयस्याम्रेडितस्य अनुदात्तत्वम् । यथायथं स्वस्वपदस्थितये देवानां प्रभूतं भव । तदर्थं **यजुषेयजुषे भव** पर्याप्तं सम्भव । पूर्वपदाम्रेडितस्यानुदात्तत्वम् । 
+**धाम्नेधाम्ने** सर्वस्मै धारणाय ।
 
-'शुक्रं त्वा शुक्रायाम्' इत्यादिना येन येन यजुषा पुनर्ग्रहीष्यते, येन चावद्यते, तस्मै सर्वस्मै **यजुषे** प्रभूतं **भव** । यदि च **यजुषेयजुषे** प्रभवेत्, ततो **धाम्नेधाम्ने** प्रभवतीति भावः । 'ब्रह्मवादिनो वदन्ति । यदाज्येनान्यानि' (तै.ब्रा. 3.3.5) इत्यादि ब्राह्मणम् ॥
+'अनुदात्तं च' (पा.सू. 8.1.3) इति द्वितीयस्याम्रेडितस्य अनुदात्तत्वम् । यथायथं स्वस्वपदस्थितये देवानां प्रभूतं भव । तदर्थं **यजुषेयजुषे भव** पर्याप्तं सम्भव । पूर्वपदाम्रेडितस्यानुदात्तत्वम् ।
+
+'शुक्रं त्वा शुक्रायाम्' इत्यादिना येन येन यजुषा पुनर्ग्रहीष्यते, येन चावद्यते, तस्मै सर्वस्मै **यजुषे** प्रभूतं **भव** ।
+
+यदि च **यजुषेयजुषे** प्रभवेत्, ततो **धाम्नेधाम्ने** प्रभवतीति भावः । 'ब्रह्मवादिनो वदन्ति ।
+
+यदाज्येनान्यानि' (तै.ब्रा. 3.3.5) इत्यादि ब्राह्मणम् ॥
 </details>
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-उत्पुनाति
+16उत्पुनाति - शुक्रमिति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शु॒क्रम्+++(=शुद्धम्)+++ अ॑सि ।  
-ज्योति॑र् असि ।  
-तेजो॑ऽसि ।
+शुक्र᳓म्+++(=शुद्धम्)+++ असि ।  
+ज्यो᳓तिर् असि ।  
+ते᳓जोऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -751,34 +798,36 @@ Thou art the shining, the radiance, the brilliance.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-16उत्पुनाति - शुक्रमिति ॥ शुक्रं शुद्धं पूर्वमेवासि । यद्वा - शुक्रं भव । पञ्चमो लकारः ।
+शुक्रं शुद्धं पूर्वमेवासि । यद्वा - शुक्रं भव । पञ्चमो लकारः ।
 
 ज्योतिरसि दीप्तमसि ।
 
 तेजोसि तेजनं दीपनं देवानामसि । 'तद्वा अतः पवित्राभ्याम्' (तै.ब्रा. 3.3.4) इत्यादि ब्राह्मणम् ॥
-
 </details>
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-प्रोक्षणीरुत्पुनाति
+17प्रोक्षणीरुत्पुनाति - देव इति गायत्र्या त्रिपदया ॥
 </details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
 
-दे॒वो व॑स् सवि॒तोत्पु॑ना॒त्व्  
-अच्छि॑द्रेण प॒वित्रे॑ण +++(सूर्येण)+++ ।   
-वसो॒स्+++(=वासहेतोः)+++ सूर्य॑स्य र॒श्मिभिः॑  ॥+++(५)+++
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+देवो᳓ वस् सवितो᳓त्पुनात्व्  
+अ᳓च्छिद्रेण पवि᳓त्रेण +++(सूर्येण)+++ ।   
+व᳓सोस्+++(=वासहेतोः)+++ सू᳓र्यस्य रश्मि᳓भिः  ॥+++(५)+++
 
 +++('असौ वा आदित्योच्छिद्रं पवित्रम्' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ।)+++
 </details>
+
 </div>
 
-<div class="js_include" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
-<details open><summary><h5>देवो वस् सविता …{Loading}…</h5></summary>
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
+
+<details open><summary><h4>देवो वस् सविता …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Let the god Savitr purify you,  
@@ -811,11 +860,11 @@ with the rays of the bright sun.
 </div>
 </details>
 </details>
+
 </div>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-17प्रोक्षणीरुत्पुनाति - देव इति गायत्र्या त्रिपदया ॥  
 सा च व्याख्याता (तै.सं. 1.1.5)
 
 'अथाज्यवतीभ्याम्' (तै.ब्रा. 3.3.4) इत्यादि ब्राह्मणम् । 'तत्रोभयोर्मीमाँसा' (तै.ब्रा. 3.3.4) इत्यादि च ॥
@@ -825,13 +874,13 @@ ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-जुह्वाम् आज्यं गृह्णाति
+18जुह्वामाज्यं गृह्णाति - शुक्रमिति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आघारार्थत्वात्, प्रयाजार्थत्वाच् च 'धाम्नेधाम्ने' इत्याद्युपपद्यते ।)+++  
-शु॒क्रन्+++(=शुद्धं)+++ त्वा॑ शु॒क्राया॑म् +++(जुह्वां, सर्व॒त्वाय॒)+++ …  
+शुक्र᳓न्+++(=शुद्धं)+++ त्वा शुक्रा᳓याम् +++(जु᳓ह्वां᳓, स᳓र्वत्वा᳓य)+++ …  
 </details>
 
 <details><summary>Keith</summary>
@@ -856,15 +905,16 @@ I grasp thee shining in the shining,
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-18जुह्वामाज्यं गृह्णाति - शुक्रमिति ॥ शुक्रं शुद्धं त्वां शुक्रायां शुद्धायां जुह्वां गृह्णामि । शिष्टं व्याख्यातम् ।
+शुक्रं शुद्धं त्वां शुक्रायां शुद्धायां जुह्वां गृह्णामि । शिष्टं व्याख्यातम् ।
 
 आघारार्थत्वात्, प्रयाजार्थत्वाच्च 'धाम्नेधाम्ने' इत्याद्युपपद्यते । एवमुपभृद्ध्रुवयोरपि वेदितव्यम्॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… धाम्ने॑धाम्ने+++(=धारणेधारणे)+++ दे॒वेभ्यो॒ यजु॑षेयजुषे गृह्णामि।
+… धा᳓म्नेधाम्ने+++(=धारणेधारणे)+++ देवे᳓भ्यो य᳓जुषेयजुषे गृह्णामि।
 </details>
 
 <details><summary>Keith</summary>
@@ -895,17 +945,17 @@ ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-उपभृति गृह्णाति
+19उपभृति गृह्णाति - ज्योतिरिति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योति॑स् त्वा॒ ज्योति॑षि +++(उपभृति पर्या॑प्त्या॒)+++...  
+ज्यो᳓तिस् त्वा ज्यो᳓तिषि +++(उपभृ᳓ति प᳓र्याप्त्या)+++...  
 </details>
 
 <details><summary>Keith</summary>
 
-I grasp thee shining in the shining,  
+I grasp thee radiance in the radiance,  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -920,18 +970,14 @@ I grasp thee shining in the shining,
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-19उपभृति गृह्णाति - ज्योतिरिति ॥ ज्योतिः दीप्तं त्वां, ज्योतिषि दीप्तायामुपभृति गृह्णामि । 'धाम्नेधाम्ने' इत्यनुषज्यते ॥
+ज्योतिः दीप्तं त्वां, ज्योतिषि दीप्तायामुपभृति गृह्णामि । 'धाम्नेधाम्ने' इत्यनुषज्यते ॥
 </details>
 
-<details><summary>Keith</summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
 
-I grasp thee radiance in the radiance,  
-</details>
-
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… धाम्ने॑धाम्ने+++(=धारणेधारणे)+++ दे॒वेभ्यो॒ यजु॑षेयजुषे गृह्णामि।
+… धा᳓म्नेधाम्ने+++(=धारणेधारणे)+++ देवे᳓भ्यो य᳓जुषेयजुषे गृह्णामि।
 </details>
 
 <details><summary>Keith</summary>
@@ -962,12 +1008,12 @@ ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-ध्रुवायां गृह्णाति
+20ध्रुवायां गृह्णाति - अर्चिरिति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒र्चिस् त्वा॒ ऽर्चिषि॑ +++(ध्रुवायाम्, अन॑न्तरायाय)+++  
+अर्चि᳓स् त्वा ऽर्चि᳓षि +++(ध्रु᳓वा᳓या᳓म्, अ᳓नन्तरायाय)+++  
 </details>
 
 <details><summary>Keith</summary>
@@ -987,14 +1033,14 @@ I grasp thee resplendent in the resplendence
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-20ध्रुवायां गृह्णाति - अर्चिरिति ॥ अर्चिषो हेतुत्वादर्चिश्शब्देनोच्यते । तादृशं त्वां अर्चिषि देवानामर्चनसाधने ध्रुवायां गृह्णामि । शिष्टं स्पष्टम् (तै.सं. 1.1.10) ॥
-
+अर्चिषो हेतुत्वादर्चिश्शब्देनोच्यते । तादृशं त्वां अर्चिषि देवानामर्चनसाधने ध्रुवायां गृह्णामि । शिष्टं स्पष्टम् (तै.सं. 1.1.10) ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… धाम्ने॑धाम्ने+++(=धारणेधारणे)+++ दे॒वेभ्यो॒ यजु॑षेयजुषे गृह्णामि।
+… धा᳓म्नेधाम्ने+++(=धारणेधारणे)+++ देवे᳓भ्यो य᳓जुषेयजुषे गृह्णामि।
 </details>
 
 <details><summary>Keith</summary>

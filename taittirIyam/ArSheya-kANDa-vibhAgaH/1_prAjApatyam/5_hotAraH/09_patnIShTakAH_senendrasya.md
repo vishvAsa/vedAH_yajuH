@@ -9,6 +9,15 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 अथ पत्नीष्टकाः सेनेन्द्रस्येत्याद्याः ॥ पूर्ववद्विनियोगः ।
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ देवपत्न्याख्या मन्त्रा उच्यन्ते ।
+
+तेषां च विनियोगः पूर्ववद्द्रष्टव्यः । पत्न्यश्चेत्येवं तत्र पत्नीष्टकानामभिधानात् ।
+
+पाठस्तु -
+</details>
+
 <details><summary>त्रिभुवनः - Note</summary>
 
 The Śambhāra Yajus Mantras. The wives of the gods.
@@ -29,12 +38,23 @@ Senā (army) is (the wife) of Indra;
 सेनेन्द्र॑स्य ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- से᳓ना (*TS*-1/12, *RV*-2/13, *TB*-2/4, *AV*-4/41, *ŚB*-2/3, *VS*-2/3 — भास्करः)
+- इ᳓न्द्रस्य (*TS*-56/497, *RV*-136/1345, *TB*-29/160, *TK*-1/5, *AV*-91/603, *ŚB*-29/146, *VS*-22/44)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'देवानां पत्नयः' इत्यन्ते वचनात् इन्द्रस्य सेना पत्नी पालयित्रीति केचित् । पत्न्येवेत्यन्ये ।  
 सा त्वामुपदधातीति सर्वत्र ।  
 
 सेनादयो गताः । संज्ञाश्चैताः ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+देवजाताविन्द्रादयः पतयः, सेनादयः पत्न्यः । दिग्विदिगादयोऽपि केषांचिद्देवानां पत्न्यः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -52,6 +72,12 @@ Dhenu (speech), of Bṛhaspati;
 धेना॒ बृह॒स्पतेः॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- धे᳓ना (*TS*-1, *RV*-2/15, *TB*-1, *AV*-2/4, *ŚB*-1)
+- बृ᳓हस्प᳓तेः (*TS*-10/15, *RV*-6, *TB*-3/6, *AV*-3)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पथ्या᳙ पूष्णः᳓ ।
@@ -65,6 +91,12 @@ Pathyā (salutary one), of Pūṣan;
 <details><summary>मूलम्</summary>
 
 प॒त्थ्या॑ पू॒ष्णः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- पत्थ्या᳙ (यत्/ण्य तित् स्वरितम् पा॰ ६.१.१८५)
+- पूष्णः᳓ (*TS*-20/70, *RV*-6/86, *TB*-2/25, *AV*-1/24, *ŚB*-2/19, *VS*-22/47)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -82,6 +114,12 @@ Vāk (speech), of the wind;
 वाग्वा॒योः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- वा᳓क् (*TS*-76/91, *RV*-9, *TB*-12, *TK*-1, *AV*-17, *ŚB*-6/10, *VS*-4)
+- वायोः᳓ (*TS*-8/108, *RV*-10/89, *TB*-2/56, *TK*-1/9, *AV*-4/42, *ŚB*-3/47, *VS*-3/21)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीक्षा᳓ सो᳓मस्य ।
@@ -97,9 +135,15 @@ Dīkṣā (consecration), of Soma;
 दी॒क्षा सोम॑स्य ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- दीक्षा᳓ (*TS*-5/25, *TB*-7/27, *AV*-3/18, *ŚB*-4/10, *VS*-2/5)
+- सो᳓मस्य (*TS*-38/294, *RV*-118/728, *TB*-18/135, *AV*-25/213, *ŚB*-37/248, *VS*-16/90)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृथिव्य् अ᳙ग्नेः᳓ ।
+पृथिव्य् [[अ᳙ग्नेः᳓|अ᳓ग्नेः᳓]] ।
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -110,6 +154,12 @@ the earth, of the fire;
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒व्य॑ग्नेः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - 1/2 व्यत्यस्त-स्वराः)</summary>
+
+- पृथिवी᳓ (*TS*-43/106, *RV*-76/143, *TB*-24/36, *TK*-1, *AV*-76/152, *ŚB*-30/49, *VS*-15/31)
+- अग्नेः → **अग्नेः᳓** (*TS*-163/1195, *RV*-54/856, *TB*-28/310, *AV*-43/419, *ŚB*-4/111, *VS*-4/36)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -127,6 +177,12 @@ Gāyatrī (-Mantra), of Vasus;
 वसू॑नाङ् गाय॒त्री ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- व᳓सूनाम् (*TS*-18/140, *RV*-43/311, *TB*-6/39, *AV*-9/90, *ŚB*-5/30, *VS*-5/40)
+- गायत्री᳓ (*TS*-68/82, *RV*-2, *TB*-13/17, *AV*-4/8, *ŚB*-44/48, *VS*-6/7)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्रा᳓णान् त्रिष्टु᳓क् ।
@@ -142,6 +198,12 @@ Triṣṭup (-Mantra), of Rudras;
 रु॒द्राणा॑न्त्रि॒ष्टुक् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- रुद्रा᳓णाम् (*TS*-6/164, *RV*-3/101, *TB*-3/47, *AV*-0/44, *ŚB*-4/46, *VS*-2/30)
+- त्रिष्टु᳓क् (*TS*-20/29, *TB*-2/5)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्या᳓नाञ् ज᳓गती ।
@@ -155,6 +217,12 @@ Jagatī (-Mantra), of the Ādityas;
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्याना॒ञ्जग॑ती ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- आदित्या᳓नाम् (*TS*-11/195, *RV*-12/91, *TB*-2/61, *AV*-4/70, *ŚB*-5/72, *VS*-2/5)
+- ज᳓गती (*TS*-25/56, *RV*-0/2, *TB*-8/19, *AV*-1/3, *ŚB*-27/38, *VS*-5/10)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -174,6 +242,12 @@ Anuṣṭup (-Mantra), of Viṣṇu (1);
 (13)
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- वि᳓ष्णोः (*TS*-45/151, *RV*-18/79, *TB*-4/43, *AV*-19/45, *ŚB*-16/63, *VS*-12/33)
+- अनुष्टु᳓क् (*TS*-2, *TB*-4)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणस्य विरा᳓ट् ।
@@ -187,6 +261,12 @@ Virāṭ (-Mantra), of Varuṇa;
 <details><summary>मूलम्</summary>
 
 वरु॑णस्य वि॒राट् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- व᳓रुणस्य (*TS*-33/118, *RV*-58/308, *TB*-15/55, *AV*-42/113, *ŚB*-18/85, *VS*-14/57)
+- विरा᳓ट् (*TS*-66/79, *RV*-4, *TB*-14/16, *AV*-21, *ŚB*-5, *VS*-3/4)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -204,6 +284,17 @@ Paṅkti (-Mantra), of the sacrifice;
 य॒ज्ञस्य॑ प॒ङ्क्तिः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- यज्ञ᳓स्य (*TS*-211/861, *RV*-56/448, *TB*-69/284, *TK*-1/13, *AV*-25/229, *ŚB*-240/644, *VS*-13/151)
+- पङ्क्तिः᳓ (*TS*-21/31, *RV*-0/1, *TB*-4/8, *AV*-2/5, *ŚB*-1/7, *VS*-0/1)
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+एताः सर्वा आगत्य यज्ञमविकलं कुर्वन्त्विति वाक्यार्थः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतेर् अ᳓नुमतिः ।
@@ -217,6 +308,12 @@ Anumati (assent), of Prajāpati;
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ते॒रनु॑मतिः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- प्रजा᳓पतेः (*TS*-44/437, *RV*-0/5, *TB*-15/258, *AV*-15/76, *ŚB*-26/276, *VS*-2/30)
+- अ᳓नुमतिः (*TS*-7/13, *RV*-0/1, *TB*-3/5, *AV*-5/7, *ŚB*-1/2)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,6 +331,12 @@ Anumati (assent), of Prajāpati;
 मि॒त्रस्य॑ श्र॒द्धा ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- मित्र᳓स्य (*TS*-17/68, *RV*-38/284, *TB*-3/25, *AV*-5/51, *ŚB*-3/23, *VS*-8/28)
+- श्रद्धा᳓ (*TS*-2, *RV*-1, *TB*-1, *TK*-7)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सवितुः᳓ प्र᳓सूतिः ।
@@ -247,6 +350,12 @@ Prasūti (Impelling), of Savitṛ;
 <details><summary>मूलम्</summary>
 
 स॒वि॒तुः प्रसू॑तिः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सवितुः᳓ (*TS*-37/120, *RV*-33/157, *TB*-3/40, *AV*-7/96, *ŚB*-25/77, *VS*-12/66)
+- प्र᳓सूतिः (*TS*-0/15, *TB*-0/8, *TK*-1, *ŚB*-0/1)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -264,6 +373,12 @@ Marīci (ray), of Sūrya (sun);
 सूर्य॑स्य॒ मरी॑चिः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सू᳓र्यस्य (*TS*-26/109, *RV*-84/337, *TB*-9/56, *AV*-22/173, *ŚB*-25/86, *VS*-15/53)
+- म᳓रीचिः (*TS*-0/1, *RV*-0/2, *AV*-0/3, *ŚB*-0/4, प्रातिपदिकम् म᳓रीचि (*MW*))
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्र᳓मसो रोहिणी᳓ ।
@@ -277,6 +392,12 @@ Rohiṇī (-constellation), of Candramas (moon);
 <details><summary>मूलम्</summary>
 
 च॒न्द्रम॑सो रोहि॒णी ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- चन्द्र᳓मसः (*TS*-1/10, *RV*-1/2, *TB*-4/16, *TK*-1/3, *AV*-1/4, *ŚB*-1/9, *VS*-0/4)
+- रोहिणी᳓ (*TS*-2/4, *TB*-3/4)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -294,6 +415,12 @@ Arundhatī (-constellation), of the seers (Ṛṣis);
 ऋषी॑णामरुन्ध॒ती ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ऋ᳓षीणाम् (*TS*-4/56, *RV*-14/101, *TB*-0/1, *AV*-7/70, *ŚB*-3/27, *VS*-1/5)
+- अरुन्धती᳓ (*AV*-1/2, क्तिन्/निष्ठा प्रत्ययस्वरः पा॰ ३.१.३)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर्ज᳓न्यस्य विद्यु᳓त् ।
@@ -307,6 +434,12 @@ the lightning, of Parjanya;
 <details><summary>मूलम्</summary>
 
 प॒र्जन्य॑स्य वि॒द्युत् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- पर्ज᳓न्यस्य (*TS*-1/34, *RV*-0/19, *TB*-0/7, *AV*-1/15, *ŚB*-0/17, *VS*-0/3)
+- विद्यु᳓त् (*TS*-2/8, *RV*-8/29, *TB*-0/2, *AV*-8/23, *ŚB*-2/14, *VS*-0/4)
 </details>
 
 ## साधारण-पत्न्यः
@@ -344,6 +477,12 @@ the four sub-quarters,
 <details><summary>मूलम्</summary>
 
 चत॑स्रोऽवान्तरदि॒शाः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- च᳓तस्रः (*TS*-26/29, *RV*-13, *TB*-4/5, *AV*-23, *ŚB*-29)
+- अवान्तर-दिशाः᳓ (*TS*-3/4, *TB*-0/1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -433,9 +572,24 @@ the vigour and the joy—these are the wives of the gods (2).
 (14)
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ऊ᳓र्क् (*TS*-35/41, *TB*-6, *VS*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405)
+- सूनृ᳓ता (*TS*-3/6, *RV*-11/34, *TB*-1/3, *AV*-8/10, *VS*-3/4)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405)
+- देवा᳓नाम् (*TS*-184/1287, *RV*-188/1354, *TB*-64/393, *AV*-110/706, *ŚB*-194/955, *VS*-35/307)
+- प᳓त्नयः (*TS*-5/35, *RV*-0/23, *TB*-0/14, *AV*-0/11, *ŚB*-0/52, *VS*-0/3)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ऊर्क् अन्नं रसो वा । सूनृता प्रियसत्यात्मा वाक् । सर्वेषां देवानां एतेषां एता दिगादयस्साधारण्यः पत्न्यः । छान्दसं ह्रस्वत्वम् । सामर्थ्याच्च साधारण्य इति गम्यते ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अत्राऽऽम्नातैः षड्विंशतिवाक्यैः षड्विंशतिसंख्याकाः पत्नीष्टका उपदध्यात् ॥
 </details>
 </details>
 
