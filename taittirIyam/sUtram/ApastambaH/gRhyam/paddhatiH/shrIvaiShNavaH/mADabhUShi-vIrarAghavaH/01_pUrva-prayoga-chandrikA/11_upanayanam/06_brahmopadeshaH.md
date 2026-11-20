@@ -68,10 +68,8 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 'राष्ट्रभृदसीति' प्राङ्मुखः उपविशेत् । 
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/12_rAShTrabhRdasyAchAryAsandI_mA.md">
-
 +++(हे कूर्च!)+++ राष्ट्रभृ᳓द् अस्य् आचार्याऽऽसन्दी᳓,  
-मा᳓ त्व᳓द्+++(तः)+++ योषम्+++(←यौतिः पृथग्भावे)+++ । 
-
+[[मा᳓|मा]] त्व᳓द्+++(तः)+++ योषम्+++(←यौतिः पृथग्भावे)+++ ।
 </div>
 
 ## प्रार्थना

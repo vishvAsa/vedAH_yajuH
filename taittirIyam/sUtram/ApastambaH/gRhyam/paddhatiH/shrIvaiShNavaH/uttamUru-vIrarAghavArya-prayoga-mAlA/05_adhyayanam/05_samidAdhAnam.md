@@ -18,9 +18,9 @@ title = "०५ समिदाधानम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/01_pari_tvA-gne.md">
 <details open><summary><h2>०१ परि त्वाऽग्ने ...{Loading}...</h2></summary>
 
-परि॑ त्वाऽग्ने॒ परि॑मृजा॒म्य् आयु॑षा च॒ धने॑न च ।  
-सु॒प्र॒जाः प्र॒जया॑ भूयासँ,  
-सु॒वीरो॑ वी॒रैस्, सु॒वर्चा॒ वर्च॑सा, सु॒पोषः॒ पोषै॑स्, सु॒गृहो॑ गृ॒हैस्, सु॒पतिः॒ पत्या॑+++(→आचार्येण)+++, सुमे॒धा मे॒धया॑, सु॒ब्रह्मा॑ +++(स)+++ब्र॑ह्मचा॒रिभिः॑ ।  
+प᳓रि त्वाऽग्ने प᳓रिमृजाम्य् आ᳓युषा च ध᳓नेन च ।  
+सुप्रजाः᳓ प्रज᳓या भूयासँ,  
+सुवी᳓रो वीरै᳓स्, सुव᳓र्चा व᳓र्चसा, सुपो᳓षः पो᳓षैस्, [[सुगृ᳓हो|सुगृहो᳓]] गृहै᳓स्, सुप᳓तिः प᳓त्या+++(→आचार्येण)+++, सुमेधा᳓ मेध᳓या, सुब्र᳓ह्मा +++(स)+++ब्रह्मचारि᳓भिः ।  
 
 </details>
 </div>
@@ -73,7 +73,7 @@ title = "०५ समिदाधानम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/03_saras-vate-nu_manyasva.md">
 <details open><summary><h2>०३ सरस्-वतेऽनु मन्यस्व ...{Loading}...</h2></summary>
 
-सर॑स्-वते+++(छान्दसो गुणः)+++ ऽनु॑ मन्यस्व। +++(इति उत्तरतः प्राचीनम्)+++
+स᳓रस्-वते᳓+++(→छान्दसो गुणः)+++ ऽनु मन्यस्व। +++(इति उत्तरतः प्राचीनम्)+++
 
 </details>
 </div>
@@ -113,8 +113,8 @@ title = "०५ समिदाधानम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/04_samidasi_samedhiShImahi.md">
 <details open><summary><h2>०४ समिदसि समेधिषीमहि ...{Loading}...</h2></summary>
 
-स॒मिद् अ॑सि,  
-समेधिषी॒महि॒ +++(अग्निं)+++ स्वाहा॑ ।  
+समि᳓द् असि,  
+[[समेधिषीम᳓हि|स᳓मेधिषीमहि]] +++(अग्निं)+++ स्वा᳓हा ।  
 
 </details>
 </div>
@@ -129,10 +129,10 @@ title = "०५ समिदाधानम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/06_apo_adyAnvachAriSham.md">
 <details open><summary><h2>०६ अपो अद्यान्वचारिषम् ...{Loading}...</h2></summary>
 
-**अपो॑**+++(=कर्म)+++ अ॒द्य +**अन्व॑चारिषँ॒**  
-+++(श्रद्धा)+++**रसे॑न॒ सम॑सृक्ष्महि**+++(=संसृष्टो भवेयम्। समगन्महीति शाकले)+++ ।  
-पय॑स्वाँ+++(→हविष्मान्)+++ अग्न॒ आग॑म॒न्  
-तं मा॒ सँसृ॑ज॒ वर्च॑सा॒ स्वाहा॑ ।  
+**अ᳓पो**+++(=कर्म)+++ अद्य᳓ +**अ᳓न्वचारिषँ**  
++++(श्रद्धा)+++**र᳓सेन स᳓मसृक्ष्महि**+++(=संसृष्टो भवेयम्। समगन्महीति शाकले)+++ ।  
+प᳓यस्वाँ+++(→हविष्मान्)+++ अग्न आ᳓गमन्  
+तं᳓ [[मा|मा᳓]] सँ᳓सृज व᳓र्चसा स्वा᳓हा ।  
 
 </details>
 </div>
@@ -147,8 +147,8 @@ title = "०५ समिदाधानम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/08_vidyunme_asya.md">
 <details open><summary><h2>०८ विद्युन्मे अस्य ...{Loading}...</h2></summary>
 
-वि॒द्युन्+++(र्)+++ मे॑ अस्य दे॒वा  
-इन्द्रो॑ वि॒द्यात् स॒हर्षि॑भिः॒ स्वाहा॑ ।+++(५)+++  
+**विद्यु᳓न्**+++(र्)+++ मे अस्य देवा᳓  
+इ᳓न्द्रो **[[विद्या᳓त्|विद्यात्]]** सह᳓र्षिभिः स्वा᳓हा ।+++(५)+++  
 
 </details>
 </div>
@@ -179,10 +179,10 @@ title = "०५ समिदाधानम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/12_yo_mA-gne.md">
 <details open><summary><h2>१२ यो माऽग्ने ...{Loading}...</h2></summary>
 
-यो मा॑ऽग्ने भा॒गिनँ॑ स॒न्तम्  
-अथा॑भा॒गञ् चिकी॑र्षति ।  
-अ॒भा॒गम्+++("नञ्सुभ्याम्")+++ अ॑ग्ने॒ तं कु॑रु॒  
-माम् अ॑ग्ने भा॒गिनं॑ कुरु॒ स्वाहा॑ ।+++(५)+++  
+यो᳓ माऽग्ने भागि᳓नँ [[सन्त᳓म्|स᳓न्तम्]]  
+अ᳓थाभाग᳓ञ् चि᳓कीर्षति ।  
+अभाग᳓म्+++(←"नञ्सुभ्याम्")+++ अग्ने तं᳓ कुरु  
+मा᳓म् अग्ने भागि᳓नं कुरु स्वा᳓हा ।+++(५)+++  
 
 </details>
 </div>

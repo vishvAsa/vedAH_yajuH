@@ -8,11 +8,9 @@ unicode_script = "devanagari"
 परि त्वेति परिमृज्य  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/01_pari_tvA-gne.md">
-
 प᳓रि त्वाऽग्ने प᳓रिमृजाम्य् आ᳓युषा च ध᳓नेन च ।  
 सुप्रजाः᳓ प्रज᳓या भूयासँ,  
-सुवी᳓रो वीरै᳓स्, सुव᳓र्चा व᳓र्चसा, सुपो᳓षः पो᳓षैस्, सुगृ᳓हो गृहै᳓स्, सुप᳓तिः प᳓त्या+++(→आचार्येण)+++, सुमेधा᳓ मेध᳓या, सुब्र᳓ह्मा +++(स)+++ब्रह्मचारि᳓भिः ।  
-
+सुवी᳓रो वीरै᳓स्, सुव᳓र्चा व᳓र्चसा, सुपो᳓षः पो᳓षैस्, [[सुगृ᳓हो|सुगृहो᳓]] गृहै᳓स्, सुप᳓तिः प᳓त्या+++(→आचार्येण)+++, सुमेधा᳓ मेध᳓या, सुब्र᳓ह्मा +++(स)+++ब्रह्मचारि᳓भिः ।
 </div>
 
 ### समिदाधानम्
@@ -36,10 +34,8 @@ unicode_script = "devanagari"
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/04_samidasi_samedhiShImahi.md">
-
 समि᳓द् असि,  
-समेधिषीम᳓हि +++(अग्निं)+++ स्वा᳓हा ।  
-
+[[समेधिषीम᳓हि|स᳓मेधिषीमहि]] +++(अग्निं)+++ स्वा᳓हा ।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/05_tejosi_tejo.md">
@@ -50,12 +46,10 @@ unicode_script = "devanagari"
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/06_apo_adyAnvachAriSham.md">
-
 **अ᳓पो**+++(=कर्म)+++ अद्य᳓ +**अ᳓न्वचारिषँ**  
 +++(श्रद्धा)+++**र᳓सेन स᳓मसृक्ष्महि**+++(=संसृष्टो भवेयम्। समगन्महीति शाकले)+++ ।  
 प᳓यस्वाँ+++(→हविष्मान्)+++ अग्न आ᳓गमन्  
-तं᳓ मा सँ᳓सृज व᳓र्चसा स्वा᳓हा ।  
-
+तं᳓ [[मा|मा᳓]] सँ᳓सृज व᳓र्चसा स्वा᳓हा ।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/07_sam_mA-gne.md">
@@ -66,10 +60,8 @@ unicode_script = "devanagari"
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/08_vidyunme_asya.md">
-
-विद्यु᳓न्+++(र्)+++ मे अस्य देवा᳓  
-इ᳓न्द्रो विद्या᳓त् सह᳓र्षिभिः स्वा᳓हा ।+++(५)+++  
-
+**विद्यु᳓न्**+++(र्)+++ मे अस्य देवा᳓  
+इ᳓न्द्रो **[[विद्या᳓त्|विद्यात्]]** सह᳓र्षिभिः स्वा᳓हा ।+++(५)+++
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/09_agnaye_bRhate.md">
@@ -94,12 +86,10 @@ unicode_script = "devanagari"
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/12_yo_mA-gne.md">
-
-यो᳓ माऽग्ने भागि᳓नँ सन्त᳓म्  
+यो᳓ माऽग्ने भागि᳓नँ [[सन्त᳓म्|स᳓न्तम्]]  
 अ᳓थाभाग᳓ञ् चि᳓कीर्षति ।  
-अभाग᳓म्+++("नञ्सुभ्याम्")+++ अग्ने तं᳓ कुरु  
-मा᳓म् अग्ने भागि᳓नं कुरु स्वा᳓हा ।+++(५)+++  
-
+अभाग᳓म्+++(←"नञ्सुभ्याम्")+++ अग्ने तं᳓ कुरु  
+मा᳓म् अग्ने भागि᳓नं कुरु स्वा᳓हा ।+++(५)+++
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/13_samidhamAdhAyAgne_sarvavrato.md">

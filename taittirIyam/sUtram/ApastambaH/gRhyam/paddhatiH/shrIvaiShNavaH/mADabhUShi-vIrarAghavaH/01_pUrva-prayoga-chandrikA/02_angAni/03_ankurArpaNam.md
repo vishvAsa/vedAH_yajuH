@@ -1291,12 +1291,10 @@ We, O king, bring to safety.'
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
-
-यम᳓ङ् **गा᳓य** +++(नाम्ना)+++ भङ्ग्यश्र᳓वो!  
-यो᳓ रा᳓जा ऽनपरो᳓ध्यः ।  
+यम᳓ङ् **गाय** +++(नाम्ना)+++ भङ्ग्यश्रवो!  
+यो᳓ रा᳓जा [[ऽनपरो᳓ध्यः|ऽनपरोध्य᳙ः]] ।  
 ये᳓नापो᳓ नद्यो᳙ ध᳓न्वानि+++(=मरुभूमयः)+++  
 ये᳓न द्यौः᳓ पृथिवी᳓ **दृढा᳓** ।
-
 </div>
 
 ‘इमं मे वरुण' 'तत्त्वा यामि' इति प्रतीच्यां, 

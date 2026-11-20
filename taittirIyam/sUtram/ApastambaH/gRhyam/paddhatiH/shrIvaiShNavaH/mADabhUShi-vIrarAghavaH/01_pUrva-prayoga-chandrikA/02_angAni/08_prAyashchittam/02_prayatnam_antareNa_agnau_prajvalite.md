@@ -17,10 +17,10 @@ title = "०२ प्रयत्नम् अन्तरेण अग्न�
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/10_mA_no.md">
 <details open><summary><h2>१० मा नो ...{Loading}...</h2></summary>
 
-मा नो॑ हिँसीज् जातवेदो॒  
-गाम् अश्वं॒ पुरु॑ष॒ञ् जग॑त् ।  
-+++(परहवींष्य्)+++ अबि॑भ्र॒द्+++(न्)+++ अग्न॒ आग॑हि+++(=आगच्छ)+++,  
-श्रि॒या मा॒ परि॑पातय ॥ (9)
+मा᳓ नो हिँसीज् जातवेदो  
+गा᳓म् अ᳓श्वं पु᳓रुषञ् ज᳓गत् ।  
++++(परहवींष्य्)+++ अ᳓बिभ्रद्+++(न्)+++ [[अ᳓ग्न|अग्न]] आ᳓गहि+++(=आगच्छ)+++,  
+श्रिया᳓ [[मा|मा᳓]] प᳓रिपातय ॥ (9)
 
 </details>
 </div>

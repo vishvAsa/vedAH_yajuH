@@ -69,25 +69,21 @@ title = "०५ प्रधान-होमः"
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/05_medhAm_mahyamangiraso.md">
-
 मेधां᳓ म᳓ह्यम् अ᳓ङ्गिरसो  
-मेधाँ᳓ सप्तऋष᳓यो **ददुः** ।  
+मेधाँ᳓ सप्तऋष᳓यो **[[ददुः|ददुः᳓]]** ।  
 मेधां᳓ म᳓ह्यं प्रजा᳓पतिर्  
 मेधा᳓म् अग्नि᳓र् **ददातु** मे ।  
 
 +++(अङ्गिरस्-सप्तर्षि-प्रजापति+अग्निभ्यः इदन्न मम । )+++
-
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/06_apsarAsu_yA.md">
-
 अप्सरा᳓सु या᳓ मेधा᳓  
 गन्धर्वे᳓षु च य᳓द् य᳓शः ।  
-दै᳓वी या᳓ मानुषी᳓ मेधा᳓  
+दै᳓वी या᳓ [[मानुषी᳓|मा᳓नुषी]] मेधा᳓  
 सा᳓ मा᳓मा᳓ विशताद् इह᳓ ।  
 
 +++(मेधायशोभ्याम् इदन्न मम ।)+++
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">

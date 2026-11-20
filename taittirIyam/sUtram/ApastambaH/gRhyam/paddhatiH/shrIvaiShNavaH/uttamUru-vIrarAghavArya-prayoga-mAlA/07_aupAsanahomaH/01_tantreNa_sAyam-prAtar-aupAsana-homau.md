@@ -34,7 +34,7 @@ title = "०१ तन्त्रेण सायम्-प्रातर्-�
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/03_saras-vate-nu_manyasva.md">
 <details open><summary><h2>०३ सरस्-वतेऽनु मन्यस्व ...{Loading}...</h2></summary>
 
-सर॑स्-वते+++(छान्दसो गुणः)+++ ऽनु॑ मन्यस्व। +++(इति उत्तरतः प्राचीनम्)+++
+स᳓रस्-वते᳓+++(→छान्दसो गुणः)+++ ऽनु मन्यस्व। +++(इति उत्तरतः प्राचीनम्)+++
 
 </details>
 </div>

@@ -118,12 +118,10 @@ unicode_script: devanagari
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/35_Rtasya_panthAmanu.md">
-
 ऋत᳓स्य प᳓न्थाम् अ᳓नु +++(कार्यभेदात्)+++ तिस्र᳓ आ᳓गुस्  
-त्र᳓यो घर्मा᳓सो अ᳓नु ज्यो᳓तिषा᳓ ऽगुः ।  
+त्र᳓यो घर्मा᳓सो अ᳓नु [[ज्यो᳓तिषा᳓|ज्यो᳓तिषा]] ऽऽगुः ।  
 प्रजा᳓म् ए᳓का र᳓क्षत्य्, ऊ᳓र्जम् ए᳓का  
 व्रत᳓म् ए᳓का रक्षति देवयूना᳓म् ॥
-
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/36_ekAShTakAm_pashyata.md">
@@ -137,12 +135,10 @@ unicode_script: devanagari
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/37_aulUkhalA_grAvANo.md">
-
-औलूखला᳓+++(=उलूखलाः)+++ ग्रा᳓वाणो घो᳓षम् अक्रत  
+औलूखला᳓+++(=उलूखलाः)+++ ग्रा᳓वाणो घो᳓षम् [[अक्रत|अ᳓क्रत]]  
 हविः᳓ कृण्व᳓न्तः परिवत्सरी᳓णम् ।  
-एकाष्टके᳓ सुप्रजा᳓ वीर᳓वन्तो  
-वयँ᳓ स्याम प᳓तयो रयीणा᳓म्॥  
-
+[[एकाष्टके᳓|ए᳓काष्टके]] सुप्रजा᳓ वीर᳓वन्तो  
+वयँ᳓ स्याम प᳓तयो रयीणा᳓म्॥
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/38_ekAShTakA_tapasA.md">
@@ -163,14 +159,12 @@ unicode_script: devanagari
 पिष्टान्नमुत्तरया ६  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/01_ukthyashchAsyatirAtrashcha.md">
-
 +++(एकाष्टके!)+++ उक्थ्य᳙श् चास्य् अतिरात्र᳓श् च  
 साद्यस्क्री᳓श्+++(=सद्यस्क्र-क्रतुः)+++ छ᳓न्दसा सह᳓ ।  
-अपूप-घृता᳓हुते न᳓मस् ते  
-अस्तु माँस-पिप्प᳓ले+++(=फले)+++  
+[[अपूप-घृता᳓हुते|अ᳓पूप-घृताहुते]] न᳓मस् ते  
+अस्तु [[माँस-पिप्प᳓ले|माँस-पिप्पले]]+++(=फले)+++  
 +++(तयोरन्यः पिप्पलं स्वाद्वत्ति इति दर्शनात्)+++  
-स्वा᳓हा ।  
-
+स्वा᳓हा ।
 </div>
 
 </div>  
@@ -181,10 +175,8 @@ unicode_script: devanagari
 आज्याहुतीरुत्तराः ७  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/02_bhUH_pRthivyA.md">
-
-भूः᳓- पृथिव्य्+++(व्या)+++ अ᳙ग्नि᳓ना+ऋचा᳓  
-ऽमुं᳓ म᳓यि का᳓मं नि᳓युनज्मि स्वा᳓हा ।  
-
+भूः᳓- पृथिव्य्+++(व्या)+++ [[अ᳙ग्नि᳓ना|अग्नि᳓ना]]+ऋचा᳓  
+ऽमुं᳓ म᳓यि का᳓मं नि᳓युनज्मि स्वा᳓हा ।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/03_bhuvo_vAyunA.md">

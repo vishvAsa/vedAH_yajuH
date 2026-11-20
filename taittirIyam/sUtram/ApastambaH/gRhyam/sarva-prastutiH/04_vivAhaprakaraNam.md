@@ -146,12 +146,10 @@ title = "०४ विवाहप्रकरणम्"
 स्वयं दृष्ट्वा +++(दृष्ट्वैव चक्षुषी उपसंहरति)+++ तृतीयां +++(=अभ्रातृघ्नीमित्येताम्)+++ जपेत् ३  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/03_abhrAtRghnIM_varuNApatighnIm.md">
-
-अ᳓भ्रातृघ्नीं +++(स्वरः??→)+++व᳓रुणा᳓-  
+अ᳓भ्रातृघ्नीं +++(स्वरः??→)+++[[व᳓रुणा᳓-|वरुणा᳓-]]  
 ऽपतिघ्नीं बृहस्पते ।  
 इ᳓न्द्रा᳓ऽपुत्रघ्नीं लक्ष्म्य᳙न्,  
-ता᳓म् अस्यै᳓ सवितस् सुव ।+++(र५)+++  
-
+ता᳓म् अस्यै᳓ सवितस् सुव ।+++(र५)+++
 </div>
 
 </div>
@@ -221,12 +219,10 @@ title = "०४ विवाहप्रकरणम्"
 चतुर्थ्या +++(=अघोरचक्षुरित्येषा)+++ समीक्षेत ४   
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/04_aghorachaxurapatighnyedhi_shivA.md">
-
 अ᳓घोर-चक्षुर् अ᳓पतिघ्न्य् एधि  
-शिवा᳓ पति᳓भ्यस् सुम᳓नास् सुव᳓र्चाः ।  
+शिवा᳓ [[पति᳓भ्यस्|प᳓तिभ्यस्]] सुम᳓नास् सुव᳓र्चाः ।  
 जीवसू᳓र् देव᳓-कामा स्योना᳓+++(=प्रशस्ता)+++  
 श᳓न् नो भव द्वि-प᳓दे श᳓ञ्-च᳓तुष्पदे ।+++(र५)+++
-
 </div>
 
 </div>
@@ -274,10 +270,8 @@ title = "०४ विवाहप्रकरणम्"
 
 +++(अङ्गुष्ठेनोपमध्यमया चाङ्गुल्या दर्भं संगृह्योत्तरेण यजुषा भ्रुवोरन्तरं संमृज्य प्रतीचीनं निरस्येत्।)+++  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/05_idamahay.N_yA.md">
-
 इद᳓म् अहय्ँ᳓  
-या᳓ त्व᳓यि पतिघ्न्य् अ᳙लक्ष्मि᳓स्, तां᳓ नि᳓र्दिशामि ।+++(र५)+++  
-
+या᳓ त्व᳓यि पतिघ्न्य् [[अ᳙लक्ष्मि᳓स्|अ᳓लक्ष्मिस्]], तां᳓ नि᳓र्दिशामि ।+++(र५)+++
 </div>
 
 </div>
@@ -442,21 +436,17 @@ title = "०४ विवाहप्रकरणम्"
 उत्तरेण यजुषा +++(=अर्यम्णो अग्निं)+++ तस्याश्शिरसि दर्भेण्वं +++(=दर्भैः परिकल्पितमिण्वं निगलाकृतिं परिमण्डलाकारम् रोमककिरीटम् इव)+++ निधाय,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/08_aryamNo_agnim.md">
-
 अर्यम्णो᳓ +++(प्रसादात्)+++ अग्निं᳓ प᳓रियन्तु क्षिप्रं᳓  
-प्र᳓तीक्षन्ताँ श्व᳓श्र्वो देव᳓राश् च ।  
-
+प्र᳓तीक्षन्ताँ [[श्व᳓श्र्वो|श्व᳙श्र्वो]] देव᳓राश् च ।
 </div>
 
 तस्मिन्नुत्तरया +++(=खेऽनस)+++ दक्षिणं युगच्छिद्रं प्रतिष्ठाप्य,  
 
 +++(तस्मिन्निण्वे दक्षिणं युगच्छिद्रं प्रतिष्ठापयति )+++  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/09_khe-nasaH_khe.md">
-
-खे᳓+++(=छिन्द्रावकाशे)+++ ऽन᳓सः+++(=शकटस्य)+++, खे᳓ र᳓थः+++(थस्य)+++, खे᳓ यु᳓गस्य +++(शोधक्य अपो निस्सार्य प्रसन्न)+++ शचीपते ।  
+खे᳓+++(=छिन्द्रावकाशे)+++ [[ऽन᳓सः|ऽनसः]]+++(=शकटस्य)+++, खे᳓ र᳓थः+++(थस्य)+++, खे᳓ यु᳓गस्य +++(शोधक्य अपो निस्सार्य प्रसन्न)+++ शचीपते ।  
 +++(श्वित्रिणीं नद्यां मज्जतीं सोमं दन्तपिष्टम् अर्पयन्तीं)+++  
-अपाला᳓म् इन्द्र त्रिः᳓ पूर्त्व्य्᳙+++(=पूत्वा)+++ अकरत् सू᳓र्य-वर्चसम् ।+++(र५)+++  
-
+अपाला᳓म् इन्द्र त्रिः᳓ पूर्त्व्य्᳙+++(=पूत्वा)+++ अकरत् सू᳓र्य-वर्चसम् ।+++(र५)+++
 </div>
 
 छिद्रे सुवर्णमुत्तरया +++(=शं ते हिरण्यम्)+++ ऽन्तर्धाय,  
@@ -513,12 +503,10 @@ title = "०४ विवाहप्रकरणम्"
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/05_shivena_tvA.md">
-
-शिवे᳓न +++(यजमान!)+++ त्वा च᳓क्षुषा पश्यन्त्व् +++(हे)+++ आपश्!  
+शिवे᳓न +++(यजमान!)+++ त्वा च᳓क्षुषा पश्यन्त्व् +++(हे)+++ [[आपश्|आ᳓पश्]]!  
 शिव᳓या तन्वा᳓+उ᳓पस्पृशन्तु त्व᳓चन् ते ।  
 घृतश्-चु᳓तश्+++(=दुहन्त्यः)+++ शु᳓चयो याः᳓ पावका᳓स्  
 ता᳓स् त आ᳓पश् शँ᳓ स्योना᳓ भवन्तु ।+++(५)+++
-
 </div>
 
 ##### अहतस्य वाससः परिधानम्  
@@ -539,12 +527,10 @@ title = "०४ विवाहप्रकरणम्"
 उत्तरया +++(=आशासाना सौमनसम्)+++ योक्त्रेण सन्नह्यति ८  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
-
 आशा᳓साना सौमनसं᳓  
-प्रजां᳓ सौ᳓भाग्यं तनूम्।  
+प्रजां᳓ सौ᳓भाग्यं [[तनूम्|तनू᳓म्]]।  
 अग्ने᳓र् अ᳓नुव्रता भूत्वा᳓ +++(तिष्ठति/ तिष्ठामि)+++,  
 +++(तां)+++ सं᳓ नह्ये सुकृता᳓य क᳓म् +++(=सुखम् [यथा])+++।
-
 </div>
 
 </div>
@@ -903,12 +889,10 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/05_sarasvati_predamava.md">
-
 स᳓रस्वति प्रे᳓द᳓म् **अव**  
 सु᳓भगे वा᳓जिनी+++(=अन्नक्रिया/स्तुति)+++वति ।  
 तां᳓ त्वा वि᳓श्वस्य भूत᳓स्य  
-**प्र-गा᳓यामस्य्** +++(“इदन्तो मसि”)+++ अग्रतः᳓ ।  
-
+**[[प्र-गा᳓यामस्य्|प्र᳓-गायामस्य्]]** +++(“इदन्तो मसि”)+++ अग्रतः᳓ ।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/06_ya_eti.md">
@@ -1072,7 +1056,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 सखेति सप्तमे पदे जपति ॥  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/14_sakhA_saptapadA.md">
-
 स᳓खा +++(हे)+++ सप्त᳓पदा भव।  
 स᳓खायौ सप्त᳓पदा बभूव+++(=बभूविव)+++।  
 
@@ -1081,7 +1064,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 सख्या᳓न् मे मा᳓ योष्ठाः।  
 
 स᳓म् अयाव, स᳓ङ्कल्पावहै,  
-सं᳓ प्रियौ रोचिष्णू᳓+++(=दीप्यमानौ)+++  
+सं᳓ [[प्रियौ|प्रियौ᳓]] रोचिष्णू᳓+++(=दीप्यमानौ)+++  
 सुमनस्य᳓मानौ+++(=सुमनायमानौ)+++ ।  
 
 इ᳓षम् ऊ᳓र्जम् अभि᳓ संव᳓सानौ  
@@ -1090,8 +1073,8 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 +++(साम= आ+अमः।)+++  
 सा᳓ +++(ऋक्)+++ त्व᳓म् अस्य्  
-अ᳓मू+++(→अमः=साम)+++ ऽह᳓म्,  
-अ᳓मूऽह᳓म् अस्मि। +++(५)+++  
+[[अ᳓मू|अमू᳓]]+++(→अमः=साम)+++ ऽह᳓म्,  
+[[अ᳓मूऽह᳓म्|अमू᳓ऽह᳓म्]] अस्मि। +++(५)+++  
 +++(बह्व्-ऋचानां तु अमोऽहम् इति एव पाठः ।)+++  
 
 सा᳓ त्वं᳓ द्यौ᳓र्, अहं᳓ पृथिवी᳓।  
@@ -1103,7 +1086,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 पुँसे᳓ पुत्रा᳓य वे᳓त्तवै+++(=लाभाय)+++,  
 श्रियै᳓ पुत्रा᳓य वे᳓त्तवा,  
 ए᳓हि सूनृते+++(=प्रियवाग्वति)+++ ।। (3)
-
 </div>
 
 </div>
@@ -1178,12 +1160,10 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/05_preto_munchAti.md">
-
-प्रे᳓तो᳓ **मुञ्चा᳓ति**, +++(←चादिलोपे विभाषा)+++ ना᳓ऽमु᳓तस्+++(=पतिलोकात्)+++  
+प्रे᳓तो᳓ **[[मुञ्चा᳓ति|मुञ्चाति]]**, +++(←चादिलोपे विभाषा)+++ ना᳓ऽमु᳓तस्+++(=पतिलोकात्)+++  
 सुबद्धा᳓म् अमु᳓तस् **करत्**+++(=कुरु)+++ ।  
 य᳓थेय᳓म् इन्द्र मीढ्वस्+++(=वर्षक इन्द्र)+++  
-सुपुत्रा᳓ सुभ᳓गा᳓ ऽसति+++(=स्यात्)+++ ।+++(र५)+++
-
+सुपुत्रा᳓ [[सुभ᳓गा᳓|सुभ᳓गा]] ऽसति+++(=स्यात्)+++ ।+++(र५)+++
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/06_imAntvamindra_mIDhvassuputrAm.md">
@@ -1196,30 +1176,24 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/07_agniraitu_prathamo.md">
-
-अग्नि᳓र् ऐतु प्रथमो᳓ देव᳓तानाँ  
+अग्नि᳓र् [[ऐतु|ऐ᳓तु]] प्रथमो᳓ देव᳓तानाँ  
 सो᳙ऽस्यै प्रजां᳓ **मुञ्चतु** मृत्यु-पाशा᳓त् ।  
 त᳓द् अयँ᳓ रा᳓जा व᳓रुणो᳓ **ऽनुमन्यतां**  
 य᳓थेयँ᳓ स्त्री᳓ पौ᳓त्रम् अघ᳓न्+++(=पापजं व्यसनम्)+++ न᳓ रो᳓दात् ।+++(र५)+++
-
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/08_imAmagnistrAyatA~N_gArhapatyaH.md">
-
 इमा᳓म् अग्नि᳓स् **त्रायतां** गा᳓र्हपत्यः  
 प्रजा᳓म् अस्यै **नयतु** दीर्घ᳓म् आ᳓युः ।  
-अ᳓शून्योपस्था+++(!)+++, जी᳓वताम् अस्तु माता᳓  
+अ᳓शून्योपस्था+++(!)+++, [[जी᳓वताम्|जीवताम्]] अस्तु माता᳓  
 पौ᳓त्रम् आनन्द᳓म् अभि᳓ **प्र᳓बुद्ध्यताम्** इय᳓म् ।+++(५)+++
-
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/09_mA_te.md">
-
-**मा**᳓ ते गृहे᳓ निशि᳓ +++(रोदन)+++घो᳓ष **उ᳓त्थाद्**  
+**[[मा|मा᳓]]**᳓ ते गृहे᳓ निशि᳓ +++(रोदन)+++घो᳓ष **उ᳓त्थाद्**  
 अन्य᳓त्र त्व᳓द्+++(=त्वत्तः)+++ **रुदत्य᳙स् सव्ँ᳓ विशन्तु** ।  
-**मा᳓** त्वं᳓ विकेश्य् उ᳓र आ᳓ **व᳓धिष्ठा**+++(=आताडयेः)+++ जीव᳓पत्नी  
+**मा᳓** त्वं᳓ विकेश्य् उ᳓र आ᳓ **[[व᳓धिष्ठा|वधिष्ठा]]**+++(=आताडयेः)+++ जीव᳓पत्नी  
 पति-लोके᳓ **वि᳓राज, प᳓श्यन्ती** प्रजाँ᳓ सुमनस्य᳓मानाम् ।+++(५)+++
-
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/10_dyauste_pRShTham.md">
@@ -1514,12 +1488,10 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 +++(वर एव तस्याः पाणिना)+++ जुहोति "इयं नारी"ति ॥  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/02_iyannAryupabrUte_kulpAnyAvapantikA.md">
-
-इय᳓न् नार्य् उ᳓पब्रूते  
+इय᳓न् [[नार्य्|ना᳓र्य्]] उ᳓पब्रूते  
 कु᳓ल्पान्य् +++(=लाजान्)+++ आवपन्तिका᳓+++(=आवपन्ती)+++ ।  
-दीर्घायु᳓र् अस्तु मे प᳓तिर्  
-जी᳓वातु+++(=जीव्यात्)+++ शर᳓दश् शत᳓म् ।+++(र५)+++  
-
+[[दीर्घायु᳓र्|दीर्घा᳓युर्]] अस्तु मे प᳓तिर्  
+जी᳓वातु+++(=जीव्यात्)+++ शर᳓दश् शत᳓म् ।+++(र५)+++
 </div>
 
 </div>
@@ -2357,13 +2329,11 @@ and (again) the oblation with the next (verse; I, 5, 12);
 अनुगते ऽपि वोत्तरया +++(=अयाश्चाग्ने)+++ जुहुयान् नोपवसेत् +++(- प्रायश्चित्तं त्वत्राप्य् अस्त्य् एव)+++॥  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/18_ayAshchAgne-syanabhishastIshcha_satyamittvamayA.md">
-
-अया᳓श्+++(=एतुम् योग्यः, गमनशीलो वा)+++ चाग्ने᳓ ऽस्य् अनभिशस्ती᳓श्च+++(=अनवद्यः)+++  
+अया᳓श्+++(=एतुम् योग्यः, गमनशीलो वा)+++ [[चाग्ने᳓|चाग्ने]] ऽस्य् अनभिशस्ती᳓श्च+++(=अनवद्यः)+++  
 सत्य᳓म् इ᳓त् त्व᳓म्+++(←स्वरः शोधितः)+++ अया᳓ असि ।  
 अ᳓यसा+++(←अय् + असुँन्)+++ म᳓नसा धृतो᳓  
 अय᳓सा+++(← इण् + असुँन्)+++ हव्य᳓म् ऊहिषे+++(=वहस्व)+++  
 अया᳓ नो धेहि भेषज᳓म् ।।+++(५)+++
-
 </div>
 
 </div>
@@ -2838,12 +2808,10 @@ ___________
 नावम् उत्तरयानुमन्त्रयते +++(=अयं नो मह्याः पारं स्वस्ति)+++ ॥
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/02_ayanno_mahyAH.md">
-
-अय᳓न् नो मह्याः᳓+++(=महत्याः [नद्याः])+++ पारँ᳓  
+[[अय᳓न्|अ᳓यन्]] नो मह्याः᳓+++(=महत्याः [नद्याः])+++ पारँ᳓  
 स्वस्ति᳓ **नेषद्** व᳓नस्प᳓तिः ।  
-सी᳓रा+++(=नदि!)+++ नस् सुत᳓रा **भव**  
-दीर्घायुत्वा᳓य व᳓र्चसे ।  
-
+[[सी᳓रा|सीरा᳓]]+++(=नदि!)+++ नस् सुत᳓रा **भव**  
+दीर्घायुत्वा᳓य व᳓र्चसे ।
 </div>
 
 </div>
@@ -2941,12 +2909,10 @@ ___________
 तीर्त्वोत्तरां +++(=अस्य पारः)+++ जपेत् ॥  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/03_asya_pAre.md">
-
 +++(तीर्त्वा जपः)+++  
-अस्य +++(नद्यादेः)+++ पारे᳓ +++(तीरे)+++ निरृत᳓स्य+++(=निस्तरितस्य)+++  
+[[अस्य|अस्य᳓]] +++(नद्यादेः)+++ पारे᳓ +++(तीरे)+++ निरृत᳓स्य+++(=निस्तरितस्य)+++  
 जीवा᳓ **ज्यो᳓तिर् अशीमहि** ।  
-मह्या᳓+++(=महत्यै)+++ इन्द्र+++(~~स्~~)+++ स्वस्त᳓ये +++(ऽस्तु)+++।  
-
+मह्या᳓+++(=महत्यै)+++ इन्द्र+++(~~स्~~)+++ स्वस्त᳓ये +++(ऽस्तु)+++।
 </div>
 
 </div>
@@ -3075,12 +3041,10 @@ ___________
 +++("सकृदेव, न पुनः पुनरित्यर्थः" इति हरदत्तः।)+++ क्षीरिणाम् अन्येषां वा लक्ष्मण्यानां +++(= प्रसिद्धानां सीमावृक्षणामित्यर्थः)+++ वृक्षाणां नदीनां धन्वनां +++(=दीर्घाण्यरण्यानि येषु ग्राम्याः पशवो न निवसन्ति)+++ च व्यतिक्रम उत्तरे +++(="ये गन्धर्वाः" इति वृक्षाणां व्यतिक्रमे,"या ओषधयः" इति नदीनां धन्वनाम् ।)+++ यथालिङ्गं जपेत्॥  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/11_ye_gandharvA.md">
-
 ये᳓ गन्धर्वा᳓ अप्सर᳓सश् च देवी᳓र्  
 एषु᳓ वृक्षे᳓षु वानस्पत्ये᳓ष् **आ᳓सते** ।  
-शिवा᳓स् ते᳓ अस्यै᳓ वद्ध्वै᳙ **भवन्तु**  
-**मा᳓ हिँसिषुर्** वहतु᳓म्+++(=स्त्रीधनम्)+++ ऊह्य᳓मानाम् ।  
-
+शिवा᳓स् [[ते᳓|ते]] अस्यै᳓ वद्ध्वै᳙ **भवन्तु**  
+**मा᳓ हिँसिषुर्** वहतु᳓म्+++(=स्त्रीधनम्)+++ ऊह्य᳓मानाम् ।
 </div>  
 
 #### नद्याद्यतिक्रमे जपः
@@ -3200,30 +3164,33 @@ ___________
 ## ०६ ०७ वाहावुत्तराभ्यां विमुञ्चति
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_07_vAhAvuttarAbhyAM_vimunchati.md">
-
 वाहावुत्तराभ्यां +++("आवामगन्" इति द्वाभ्याम्)+++ विमुञ्चति दक्षिणमग्रे।  
 +++(वाहौ विमुञ्चति)+++  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/14_A_vAmagantsumatirvAjinI.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/14_A_vAmagantsumatirvAjinI.md">
+<details open><summary><h2>१४ आ वामगन्त्सुमतिर्वाजिनी ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/040/12_A_vAmagantsumatirvAjinIvasU.md">
+<details open><summary><h4>१२ आ वामगन्त्सुमतिर्वाजिनीवसू ...{Loading}...</h4></summary>
 
-आ᳓ वाम् **अगन्त्** सुमति᳓र्, वाजिनी+++(=अश्वी)+++वसू  
-न्य् +++(हे)+++ अ᳓श्विना, हृत्सु᳓ +++(गृहप्राप्ति)+++का᳓माँ **अयँसत**+++(=नियती कृताः)+++ ।  
-**अ᳓भूतङ्** गोपा᳓ मिथुना᳓ शुभस्-पती  
+आ᳓ वाम् अगन्त् सुमति᳓र्, वाजिनी+++(=अश्वी)+++वसू  
+न्य् +++(हे)+++ अ᳓श्विना, हृत्सु᳓ +++(गृहप्राप्ति)+++का᳓माँ अयँसत+++(=नियती कृताः)+++ ।  
+अ᳓भूतङ् गोपा᳓ मिथुना᳓ शुभस्पती  
 प्रिया᳓ अर्यम्णो᳓ दु᳓र्याँ+++(=गृहान्)+++ अशीमहि+++(=प्रविशेम)+++ ।
 
+</details>
 </div>
+</details>
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/15_ayanno_devassavitA.md">
+<details open><summary><h2>१५ अयन्नो देवस्सविता ...{Loading}...</h2></summary>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/15_ayanno_devassavitA.md">
-
-+++(वाह!)+++ अय᳓न् नो देव᳓स् सविता᳓ बृ᳓हस्प᳓तिर्  
-इन्द्राग्नी᳓ मित्रा᳓व᳓रुणा स्वस्त᳓ये ।  
++++(वाह!)+++ [[अय᳓न्|अ᳓यन्]] नो देव᳓स् सविता᳓ बृ᳓हस्प᳓तिर्  
+[[इन्द्राग्नी᳓|इ᳓न्द्राग्नी᳓]] मित्रा᳓व᳓रुणा स्वस्त᳓ये ।  
 त्व᳓ष्टा वि᳓ष्णुः प्रज᳓या **सँरराणः᳓**+++(=सन्ददानः)+++  
 का᳓म+++(य्)+++ **आ᳓यातं** का᳓माय त्वा **वि᳓मुञ्चतु** ॥ (7)
 
+</details>
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/06_07_vAhAvuttarAbhyAM_vimunchati.md">
@@ -3397,12 +3364,10 @@ _____________
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/05_prajAyA_AbhyAm.md">
-
-प्रजा᳓या आभ्यां प्रजापत  
-इ᳓न्द्राग्नी श᳓र्म **यच्छतम्** ।  
-य᳓थै᳓नयोर् न᳓ प्रमीया᳓ता+++(य्)+++  
-उभ᳓योर् जी᳓वतोः प्रजा᳓ ।  
-
+प्रजा᳓या [[आभ्यां|आभ्यां᳓]] प्रजापत  
+[[इ᳓न्द्राग्नी|इ᳓न्द्राग्नी᳓]] श᳓र्म **यच्छतम्** ।  
+[[य᳓थै᳓नयोर्|य᳓थैनयोर्]] न᳓ [[प्रमीया᳓ता|प्रमी᳓याता]]+++(य्)+++  
+उभ᳓योर् जी᳓वतोः प्रजा᳓ ।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/06_tena_bhUtena.md">
@@ -3434,22 +3399,18 @@ _____________
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/09_dhruvaidhi_poShyA.md">
-
-ध्रुवै᳓धि᳓ पोष्या म᳓यि  
+[[ध्रुवै᳓धि᳓|ध्रुवै᳓धि]] [[पोष्या|पो᳓ष्या]] म᳓यि  
 म᳓ह्यन् त्वा **ऽदाद्** बृ᳓हस्प᳓तिः ।  
 म᳓या प᳓त्या प्रजा᳓वती  
-सं᳓ जीव शर᳓दश् शत᳓म् ।+++(र४)+++  
-
+सं᳓ जीव शर᳓दश् शत᳓म् ।+++(र४)+++
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/10_tvaShTA_jAyAmajanayat.md">
-
 त्व᳓ष्टा जाया᳓म् **अजनयत्**  
 +++("त्वष्टा रुपाणि पिंशतु" इति गर्भाधाने)+++  
 त्व᳓ष्टा अस्यै+++(स्याः)+++ त्वां᳓ प᳓तिम् ।  
 त्व᳓ष्टा सह᳓स्रम् आ᳓यूँषि  
-दीर्घ᳓म् आ᳓युः **कृणोतु** वाम् ।  
-
+दीर्घ᳓म् आ᳓युः **कृणोतु** [[वाम्|वा᳓म्]] ।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
@@ -3530,12 +3491,10 @@ _____________
 __________________
 +++(अथ या पुमांसमेव सूतवती जीवपुत्रा च, तस्याः पुत्रं वध्वा अङ्के उपवेशयति।)+++  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/02_somenAdityA_balinassomena.md">
-
-सो᳓मेनादित्या᳓ बलि᳓नस्  
+[[सो᳓मेनादित्या᳓|सो᳓मेना᳓दित्या]] बलि᳓नस्  
 सो᳓मेन पृथिवी᳓ दृढा᳓ ।  
 अ᳓थो न᳓क्षत्राणाम् एषा᳓म्  
-उप᳓स्थे सो᳓म **आ᳓धि+++(हि)+++तः**।  
-
+उप᳓स्थे सो᳓म **आ᳓धि+++(हि)+++तः**।
 </div>
 +++( एवमयं बालः तवोपस्थे उपविशतु)+++  +++(५)+++  
 
@@ -3634,12 +3593,10 @@ __________________
 +++(अरुन्धतीं दर्शयति। ६ कृत्तिकाः + अरुन्धती = ७ कृत्तिकाः सप्तऋषिपन्त्यः। अरुन्धती स्थिरा, शिष्टास् त्यक्ताः शङ्कया।)+++  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/07_saptaRShayaH_prathamAm.md">
-
 सप्त-ऋष᳓यः प्रथमां᳓ कृ᳓त्तिकानाम्  
-अरुन्धती᳓म् य᳓द् ध्रुव᳓ताँ ह᳓ **निन्युः᳓**।  
-ष᳓ट् कृ᳓त्तिका-मुख्ययोगं᳓ **व᳓हन्ति** +++(तस्याम्)+++  
-+++(वधूर्)+++ इय᳓म् अस्मा᳓कम् **एधत्व्** अष्टमी᳓ ।+++(र५)+++  
-
+अरुन्धती᳓म् य᳓द् ध्रुव᳓ताँ [[ह᳓|ह]] **निन्युः᳓**।  
+ष᳓ट् [[कृ᳓त्तिका-मुख्ययोगं᳓|कृत्तिका-मुख्ययोगं᳓]] **[[व᳓हन्ति|वहन्ति]]** +++(तस्याम्)+++  
++++(वधूर्)+++ इय᳓म् अस्मा᳓कम् **एधत्व्** अष्टमी᳓ ।+++(र५)+++
 </div>
 
 </div>
@@ -6963,12 +6920,10 @@ I will follow the rules; may I do so; may that be increased.
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/10_mA_no.md">
-
 मा᳓ नो हिँसीज् जातवेदो  
 गा᳓म् अ᳓श्वं पु᳓रुषञ् ज᳓गत् ।  
-+++(परहवींष्य्)+++ अ᳓बिभ्रद्+++(न्)+++ अ᳓ग्न आ᳓गहि+++(=आगच्छ)+++,  
-श्रिया᳓ मा प᳓रिपातय ॥ (9)
-
++++(परहवींष्य्)+++ अ᳓बिभ्रद्+++(न्)+++ [[अ᳓ग्न|अग्न]] आ᳓गहि+++(=आगच्छ)+++,  
+श्रिया᳓ [[मा|मा᳓]] प᳓रिपातय ॥ (9)
 </div>
 
 </div>
@@ -7233,12 +7188,10 @@ I will follow the rules; may I do so; may that be increased.
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/02_udIrShvAtaH_pativatI.md">
-
-उ᳓दीर्ष्व+++(=उद्गच्छ)+++ +अ᳓तः प᳓तिवती ह्य्+ए᳓षा᳓  
+उ᳓दीर्ष्व+++(=उद्गच्छ)+++ +अ᳓तः प᳓तिवती ह्य्+[[ए᳓षा᳓|ए᳙षा᳓]]  
 विश्वा᳓वसुं न᳓मसा गीर्भि᳓र् **ईट्टे**+++(=याचे)+++ ।  
 अन्या᳓म् **इच्छ** पितृ-ष᳓दं व्य᳙क्तां  
 स᳓ ते भागो᳓ जनु᳓षा त᳓स्य **विद्धि** ॥
-
 </div>
 
 #### शेष-होम-मन्त्राः  
@@ -7286,18 +7239,16 @@ I will follow the rules; may I do so; may that be increased.
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/07_prasavashchopayAmashcha_kATashchArNavashcha.md">
-
 प्रसव᳓श्+++(=अनुज्ञा)+++ चोपयाम᳓श्+++(=पृथिवी)+++ च  
 +++(इयं वा उपयामः इति श्रुतेः)+++  
-का᳓टश्+++(=लिङ्गरूपरुद्रः)+++ चार्णव᳓श् च  
+[[का᳓टश्|काट᳓श्]]+++(=लिङ्गरूपरुद्रः)+++ चार्णव᳓श् च  
 धर्णसि᳓श्+++(=गृहं)+++ च द्र᳓विणञ् च  
 भ᳓गश् चान्त᳓रिक्षञ् च  
 सि᳓न्धुश् च समुद्र᳓श् च  
 स᳓रस्वाँश् च विश्व᳓व्यचाश् च  
 ते᳓ यं᳓ द्विष्मो᳓  
 य᳓श्च नो द्वे᳓ष्टि,  
-त᳓म् एषाञ् ज᳓म्भे+++(=दन्ते)+++ दध्मस् स्वा᳓हा ।  
-
+त᳓म् एषाञ् ज᳓म्भे+++(=दन्ते)+++ दध्मस् स्वा᳓हा ।
 </div>
 
 +++(वसन्तादीनां षण्णामृतूनां द्वौद्वौ मासौ-)+++  
@@ -7317,17 +7268,15 @@ I will follow the rules; may I do so; may that be increased.
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/09_chittancha_chittishchAkUtanchAkUtishchAdhItanchAdhItishcha.md">
-
 चित्त᳓ञ् च चि᳓त्तिश् च+  
-+आ᳓कूतञ्+++(=अभिप्रेतम्)+++ चा᳓कूतिश्+++(=अभिप्रायः)+++ च᳓  
-+अ᳓धीतञ् चा᳓धीतिश् च  
++आ᳓कूतञ्+++(=अभिप्रेतम्)+++ चा᳓कूतिश्+++(=अभिप्रायः)+++ [[च᳓|च]]  
++अ᳓धीतञ् [[चा᳓धीतिश्|चा᳓धी᳓तिश्]] च  
 वि᳓ज्ञातञ्च विज्ञा᳓नञ् च  
 ना᳓म च क्र᳓तुश्+++(=आकृतिः)+++ च  
 द᳓र्शश् च पूर्ण᳓मासश् च  
 ते᳓ यं᳓ द्विष्मो᳓  
 य᳓श् च नो द्वे᳓ष्टि  
-त᳓म् एषाञ् ज᳓म्भे+++(=दन्ते)+++ दध्मस् स्वा᳓हा ।  
-
+त᳓म् एषाञ् ज᳓म्भे+++(=दन्ते)+++ दध्मस् स्वा᳓हा ।
 </div>
 
 ##### वध्वाश् शिरस्य् आज्यशेषानयनम्
@@ -7360,12 +7309,10 @@ I will follow the rules; may I do so; may that be increased.
 ______________
 +++(वरो वधूम् ईक्षते)+++  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_11/02_apashyantvA_manasA.md">
-
 **अ᳓पश्यन्** त्वा म᳓नसा **दी᳓ध्यानाँ**+++(=ध्यायन्तीं)+++  
 स्वा᳓यां तनूँ᳓+++(न्वां)+++ ऋत्वि᳓ये +++(काले)+++ **ना᳓थमानाम्** ।  
-उ᳓प मा᳓म् +++(सम्भोगकाले)+++ उच्चा᳓ युवति᳓र् **बु᳓भूयाः**+++(=अनुभूयाः)+++  
-**प्र᳓जायस्व** प्रज᳓या पुत्रकामे ।+++(४)+++  
-
+उ᳓प मा᳓म् +++(सम्भोगकाले)+++ उच्चा᳓ युवति᳓र् **[[बु᳓भूयाः|बुभूयाः]]**+++(=अनुभूयाः)+++  
+**प्र᳓जायस्व** प्रज᳓या पुत्रकामे ।+++(४)+++
 </div>
 
 उत्तरया +++(="समञ्जन्त्वि"त्येतया)+++ ऽज्यशेषेण हृदयदेशौ संमृज्य,  
@@ -7384,12 +7331,10 @@ ______________
 उत्तरास् तिस्रो +++(="प्रजापते तन्व"मित्याद्याः)+++ जपित्वा,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_11/04_prajApate_tanvam.md">
-
 प्र᳓जापते तन्वं᳙ मे **जुषस्व**  
 त्व᳓ष्टर् देवे᳓भिस् सह᳓ साम᳓+++(न= सममान)+++ इन्द्र ।  
-वि᳓श्वैर् देवै᳓ राति᳓भिस् सँ रराणः᳓  
-पुँसां᳓ बहूनां᳓ मात᳓रस् स्याम ।+++(र४)+++  
-
+वि᳓श्वैर् देवै᳓ राति᳓भिस् [[सँ|सँ᳓]] [[रराणः᳓|र᳓राणः]]  
+पुँसां᳓ बहूनां᳓ मात᳓रस् स्याम ।+++(र४)+++
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_11/05_A_naH.md">
@@ -7507,12 +7452,10 @@ ______________
 अन्यो वैनाम् अभिमन्त्रयेत  +++(अत्र सुदर्शनाचार्यः - इदं च "अहं गर्भमदधाम्" इत्यादि लिङ्गविरोधेऽपि श्रुतेर्बलीयस्त्वा)+++११  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/03_aha~N_garbhamadadhAmoShadhIShvaham.md">
-
-अहं᳓ ग᳓र्भम् अ᳓दधाम् ओ᳓षधीष्व्  
+अहं᳓ ग᳓र्भम् [[अ᳓दधाम्|अदधाम्]] ओ᳓षधीष्व्  
 अहं᳓ वि᳓श्वेषु भु᳓वनेष्व् अन्तः᳓ ।  
 अहं᳓ प्रजा᳓ **अजनयं** पितॄृणा᳓म्  
 अहं᳓ ज᳓निभ्यो +++(=जन्याः = वध्वाः)+++ अपरी᳓षु +++(=पश्चात्कालस्नुषासु)+++ पुत्रा᳓न् ।+++(५)+++
-
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/04_putriNemA_kumAriNA.md">
@@ -7525,10 +7468,8 @@ ______________
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/05_dashasyantvA-mRtAya_kaMshamUdho.md">
-
 दशस्य᳓न्त्वा +++(=दशस्यन्तौ =दातारौ)+++ ऽमृ᳓ताय कँ᳓ +++(पादपूरणे)+++ श᳓+++(स)+++म् ऊ᳓धो  
-रोमशँ᳓ **हथो**+++(=श्लिष्टं कुरुतम्)+++ देवे᳓षु **कृणु᳓तो दु᳓वः** (=परिचरणम्)।+++(४)+++  
-
+रोमशँ᳓ **हथो**+++(=श्लिष्टं कुरुतम्)+++ देवे᳓षु **[[कृणु᳓तो|कृणुतो]] दु᳓वः** +++++++++(=परिचरणम्)+++++++++।+++(४)+++
 </div>
 
 </div>

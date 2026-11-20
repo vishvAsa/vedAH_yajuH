@@ -385,7 +385,7 @@ y los medios de alcanzarlo).
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/03_saras-vate-nu_manyasva.md">
 <details open><summary><h2>०३ सरस्-वतेऽनु मन्यस्व ...{Loading}...</h2></summary>
 
-सर॑स्-वते+++(छान्दसो गुणः)+++ ऽनु॑ मन्यस्व। +++(इति उत्तरतः प्राचीनम्)+++
+स᳓रस्-वते᳓+++(→छान्दसो गुणः)+++ ऽनु मन्यस्व। +++(इति उत्तरतः प्राचीनम्)+++
 
 </details>
 </div>
@@ -466,11 +466,11 @@ y los medios de alcanzarlo).
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/18_ayAshchAgne-syanabhishastIshcha_satyamittvamayA.md">
 <details open><summary><h2>१८ अयाश्चाग्नेऽस्यनभिशस्तीश्च सत्यमित्त्वमया ...{Loading}...</h2></summary>
 
-अ॒याश्+++(=एतुम् योग्यः, गमनशीलो वा)+++ चा॒ग्ने ऽस्य् अ॑नभिश॒स्तीश्च॑+++(=अनवद्यः)+++  
-स॒त्यम् इ॑त् त्वम् अ॒या अ॑सि ।  
-अय॑सा॒+++(=प्रतिगन्त्रा)+++ मन॑सा धृ॒तो॑  
-ऽयसा॑ ह॒व्यम् ऊ॑हिषे॒+++(=वहस्व)+++  
-ऽया नो॑ धेहि भेष॒जम् ।।+++(५)+++
+अया᳓श्+++(=एतुम् योग्यः, गमनशीलो वा)+++ [[चाग्ने᳓|चाग्ने]] ऽस्य् अनभिशस्ती᳓श्च+++(=अनवद्यः)+++  
+सत्य᳓म् इ᳓त् त्व᳓म्+++(←स्वरः शोधितः)+++ अया᳓ असि ।  
+अ᳓यसा+++(←अय् + असुँन्)+++ म᳓नसा धृतो᳓  
+अय᳓सा+++(← इण् + असुँन्)+++ हव्य᳓म् ऊहिषे+++(=वहस्व)+++  
+अया᳓ नो धेहि भेषज᳓म् ।।+++(५)+++
 
 </details>
 </div>

@@ -1079,11 +1079,10 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 (कर्त्रा हुतशिष्टान्नस्य जपः [^8])
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/16_eSha_te.md">
-
 एष᳓ ते तत +++(स्वधासमुद्रः)+++  
 म᳓धुमाँ ऊर्मि᳓स् स᳓रस्वान्।  
 या᳓वान् अग्नि᳓श् च पृथिवी᳓ च  
-ता᳓वत्य् अस्य मा᳓त्रा+++(~~मात्रा᳓~~)+++।  
+ता᳓वत्य् अस्य [[मा᳓त्रा|मात्रा᳓]]+++(~~मात्रा᳓~~)+++।  
 ता᳓वतीन् त एतां᳓ मा᳓त्रान् ददामि।  
 य᳓था ऽग्नि᳓र् अ᳓क्षितो᳓ ऽनुपदस्त+++(=उपक्षयरहितः)+++,  
 एवं᳓ म᳓ह्यं+++(→मम)+++ पित्रे᳓ ऽक्षितो᳓ ऽनुपदस्तः स्वधा᳓ भव
@@ -1091,7 +1090,7 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 
 एष᳓ ते पितामह +++(स्वधासमुद्रः)+++ म᳓धुमाँ ऊर्मि᳓स् स᳓रस्वान्।  
 या᳓वान् वायु᳓श् चान्त᳓रिक्षञ् च  
-ता᳓वत्य् अस्य मा᳓त्रा+++(~~मात्रा᳓~~)+++।  
+ता᳓वत्य् अस्य [[मा᳓त्रा|मात्रा᳓]]+++(~~मात्रा᳓~~)+++।  
 ता᳓वतीन् त एतां᳓ मा᳓त्रान् ददामि।  
 य᳓था वायु᳓र् अ᳓क्षितो᳓ ऽनुपदस्त+++(=उपक्षयरहितः)+++,  
 एवं᳓ म᳓ह्यं+++(→मम)+++ पितामहा᳓या᳓क्षितो᳓ऽनुपदस्तः स्वधा᳓ भव।  
@@ -1099,12 +1098,11 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 
 एष᳓ ते प्रपितामह +++(स्वधासमुद्रः)+++ म᳓धुमाँ ऊर्मि᳓स् स᳓रस्वान्।  
 या᳓वान् आदित्य᳓श् च द्यौ᳓श् च  
-ता᳓वत्यस्य मा᳓त्रा+++(~~मात्रा᳓~~)+++।  
+ता᳓वत्यस्य [[मा᳓त्रा|मात्रा᳓]]+++(~~मात्रा᳓~~)+++।  
 ता᳓वतीन् त एतां᳓ मा᳓त्रान् ददामि।  
 य᳓था ऽऽदित्यो᳓ ऽक्षितो᳓ ऽनुपदस्त+++(=उपक्षयरहितः)+++,  
 एवं᳓ म᳓ह्यं प्रपितामहा᳓या᳓ऽक्षितो᳓ऽनुपदस्तः स्वधा᳓ भव।  
 तां᳓ त्वँ᳓ स्वधां᳓ तै᳓स् सहो᳓पजीव, य᳓जूँषि ते महिमा᳓ ॥ (19)
-
 </div>  
 
 [^8]:
@@ -1266,7 +1264,6 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 [[128]]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/03_prANAhutir_dIrghaH.md">
-
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 प्राणाहुतिष्वेव विकल्पितानि मन्त्रान्तराणि दर्शयति —
@@ -1275,7 +1272,7 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणे᳓ नि᳓विष्टो ऽमृ᳓तञ्जुहोमि।  
-शिवो᳓ मा ऽऽविशा᳓ऽप्रदाहाय।  
+शिवो᳓ [[मा|मा᳓]] ऽऽविशा᳓ऽप्रदाहाय।  
 प्राणा᳓य स्वा᳓हा ।
 </details>
 
@@ -1291,18 +1288,19 @@ I sacrifice nectar sitting in the Prana-breath; enter me being auspicious for no
 प्रा॒णाय॒ स्वाहा॑ ।
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>पद-पाठः (यान्त्रिकः - 1/11 व्यत्यस्त-स्वराः)</summary>
 
-- प्राणे᳓ (*TS*, *TB*, *TK*)
-- नि᳓विष्टः (*TS*)
-- अमृ᳓तम् (*TS*, *RV*, *TB*)
-- जुहोमि (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *TS*, *RV*)
-- शिवः᳓ (*TS*, *RV*)
-- मा (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
-- आविश (तिङन्तम् अनुदात्तम्, पा० ८.१.२८)
-- अ᳓-प्रदाहाय (*TS*, *TB*)
-- प्राणा᳓य (*TS*, *TB*)
-- स्वा᳓हा (*TS*, *RV*, *TB*, *TK*)
+- प्राणे᳓ (*TS*-3/320, *RV*-0/5, *TB*-1/65, *TK*-1/4, *AV*-4/132, *ŚB*-2/196, *VS*-0/25)
+- नि᳓विष्टः (*TS*-1/2, *RV*-0/1, *TB*-0/1, *AV*-1/4, *VS*-0/1)
+- अमृ᳓तम् (*TS*-35/64, *RV*-45/187, *TB*-6/12, *AV*-38/96, *ŚB*-6/18)
+- जुहोमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-20, *RV*-5)
+- शिवः᳓ (*TS*-25/59, *RV*-19/50, *TB*-2/21, *AV*-11/82, *ŚB*-16/30, *VS*-17/41)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302)
+- आ → **आ᳓** (*TS*-1107, *RV*-2810)
+- विश (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- अ᳓-प्रदाहाय (*TS*-4, *TB*-4, *ŚB*-1)
+- प्राणा᳓य (*TS*-15/320, *RV*-0/5, *TB*-4/65, *AV*-10/132, *ŚB*-16/196, *VS*-7/25)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1318,7 +1316,7 @@ I sacrifice nectar sitting in the Prana-breath; enter me being auspicious for no
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
-शिवो᳓ मा ऽऽविशा᳓ऽप्रदाहाय।  
+शिवो᳓ [[मा|मा᳓]] ऽऽविशा᳓ऽप्रदाहाय।  
 अपाना᳓य स्वा᳓हा ।
 </details>
 
@@ -1334,24 +1332,25 @@ I sacrifice nectar sitting in the Apana-breath; enter me being auspicious for no
 अ॒पा॒नाय॒ स्वाहा॑ ।
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>पद-पाठः (यान्त्रिकः - 1/11 व्यत्यस्त-स्वराः)</summary>
 
-- अपाने᳓ (*TS*)
-- नि᳓विष्टः (*TS*)
-- अमृ᳓तम् (*TS*, *RV*, *TB*)
-- जुहोमि (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *TS*, *RV*)
-- शिवः᳓ (*TS*, *RV*)
-- मा (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
-- आविश (तिङन्तम् अनुदात्तम्, पा० ८.१.२८)
-- अ᳓-प्रदाहाय (*TS*, *TB*)
-- अपाना᳓य (*TS*, *TB*)
-- स्वा᳓हा (*TS*, *RV*, *TB*, *TK*)
+- अपाने᳓ (*TS*-1/54, *TB*-0/4, *AV*-0/30)
+- नि᳓विष्टः (*TS*-1/2, *RV*-0/1, *TB*-0/1, *AV*-1/4, *VS*-0/1)
+- अमृ᳓तम् (*TS*-35/64, *RV*-45/187, *TB*-6/12, *AV*-38/96, *ŚB*-6/18)
+- जुहोमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-20, *RV*-5)
+- शिवः᳓ (*TS*-25/59, *RV*-19/50, *TB*-2/21, *AV*-11/82, *ŚB*-16/30, *VS*-17/41)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302)
+- आ → **आ᳓** (*TS*-1107, *RV*-2810)
+- विश (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- अ᳓-प्रदाहाय (*TS*-4, *TB*-4, *ŚB*-1)
+- अपाना᳓य (*TS*-16/54, *TB*-1/4, *AV*-6/30)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
-शिवो᳓ मा ऽऽविशा᳓ऽप्रदाहाय।  
+शिवो᳓ [[मा|मा᳓]] ऽऽविशा᳓ऽप्रदाहाय।  
 व्याना᳓य स्वा᳓हा ।
 </details>
 
@@ -1367,24 +1366,25 @@ I sacrifice nectar sitting in the Vyana-breath; enter me being auspicious for no
 व्या॒नाय॒ स्वाहा॑ ।
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>पद-पाठः (यान्त्रिकः - 1/11 व्यत्यस्त-स्वराः)</summary>
 
-- व्याने᳓ (आरण्यक-पाठः (अनाम्नातम्))
-- नि᳓विष्टः (*TS*)
-- अमृ᳓तम् (*TS*, *RV*, *TB*)
-- जुहोमि (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *TS*, *RV*)
-- शिवः᳓ (*TS*, *RV*)
-- मा (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
-- आविश (तिङन्तम् अनुदात्तम्, पा० ८.१.२८)
-- अ᳓-प्रदाहाय (*TS*, *TB*)
-- व्याना᳓य (*TS*, *TB*)
-- स्वा᳓हा (*TS*, *RV*, *TB*, *TK*)
+- व्याने᳓ (*TS*-0/26, *TB*-0/5, *ŚB*-0/12, *VS*-0/11, फिषोऽन्तः फि॰ १.१, प्रत्ययस्वरः पा॰ ३.१.३)
+- नि᳓विष्टः (*TS*-1/2, *RV*-0/1, *TB*-0/1, *AV*-1/4, *VS*-0/1)
+- अमृ᳓तम् (*TS*-35/64, *RV*-45/187, *TB*-6/12, *AV*-38/96, *ŚB*-6/18)
+- जुहोमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-20, *RV*-5)
+- शिवः᳓ (*TS*-25/59, *RV*-19/50, *TB*-2/21, *AV*-11/82, *ŚB*-16/30, *VS*-17/41)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302)
+- आ → **आ᳓** (*TS*-1107, *RV*-2810)
+- विश (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- अ᳓-प्रदाहाय (*TS*-4, *TB*-4, *ŚB*-1)
+- व्याना᳓य (*TS*-8/26, *TB*-2/5, *ŚB*-4/12, *VS*-8/11)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
-शिवो᳓ मा ऽऽविशा᳓ऽप्रदाहाय।  
+शिवो᳓ [[मा|मा᳓]] ऽऽविशा᳓ऽप्रदाहाय।  
 उदाना᳓य स्वा᳓हा ।
 </details>
 
@@ -1400,24 +1400,25 @@ I sacrifice nectar sitting in the Udana-breath; enter me being auspicious for no
 उ॒दा॒नाय॒ स्वाहा॑ ।
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>पद-पाठः (यान्त्रिकः - 1/11 व्यत्यस्त-स्वराः)</summary>
 
-- उदाने᳓ (आरण्यक-पाठः (अनाम्नातम्))
-- नि᳓विष्टः (*TS*)
-- अमृ᳓तम् (*TS*, *RV*, *TB*)
-- जुहोमि (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *TS*, *RV*)
-- शिवः᳓ (*TS*, *RV*)
-- मा (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
-- आविश (तिङन्तम् अनुदात्तम्, पा० ८.१.२८)
-- अ᳓-प्रदाहाय (*TS*, *TB*)
-- उदाना᳓य (*TS*)
-- स्वा᳓हा (*TS*, *RV*, *TB*, *TK*)
+- उदाने᳓ (*TS*-0/4, *ŚB*-0/15, फिषोऽन्तः फि॰ १.१, प्रत्ययस्वरः पा॰ ३.१.३)
+- नि᳓विष्टः (*TS*-1/2, *RV*-0/1, *TB*-0/1, *AV*-1/4, *VS*-0/1)
+- अमृ᳓तम् (*TS*-35/64, *RV*-45/187, *TB*-6/12, *AV*-38/96, *ŚB*-6/18)
+- जुहोमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-20, *RV*-5)
+- शिवः᳓ (*TS*-25/59, *RV*-19/50, *TB*-2/21, *AV*-11/82, *ŚB*-16/30, *VS*-17/41)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302)
+- आ → **आ᳓** (*TS*-1107, *RV*-2810)
+- विश (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- अ᳓-प्रदाहाय (*TS*-4, *TB*-4, *ŚB*-1)
+- उदाना᳓य (*TS*-3/4, *ŚB*-1/15)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
-शिवो᳓ मा ऽऽविशा᳓ऽप्रदाहाय।  
+शिवो᳓ [[मा|मा᳓]] ऽऽविशा᳓ऽप्रदाहाय।  
 समाना᳓य स्वा᳓हा ।
 </details>
 
@@ -1433,24 +1434,23 @@ I sacrifice nectar sitting in the Samana-breath; enter me being auspicious for n
 स॒मा॒नाय॒ स्वाहा॑ ।
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>पद-पाठः (यान्त्रिकः - 1/11 व्यत्यस्त-स्वराः)</summary>
 
-- समाने᳓ (*TS*, *RV*)
-- नि᳓विष्टः (*TS*)
-- अमृ᳓तम् (*TS*, *RV*, *TB*)
-- जुहोमि (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *TS*, *RV*)
-- शिवः᳓ (*TS*, *RV*)
-- मा (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
-- आविश (तिङन्तम् अनुदात्तम्, पा० ८.१.२८)
-- अ᳓-प्रदाहाय (*TS*, *TB*)
-- समाना᳓य (प्रातिपदिकम् समान᳓ (*MW*))
-- स्वा᳓हा (*TS*, *RV*, *TB*, *TK*)
+- समाने᳓ (*TS*-1/50, *RV*-10/67, *TB*-0/17, *AV*-3/32, *ŚB*-0/12, *VS*-0/4)
+- नि᳓विष्टः (*TS*-1/2, *RV*-0/1, *TB*-0/1, *AV*-1/4, *VS*-0/1)
+- अमृ᳓तम् (*TS*-35/64, *RV*-45/187, *TB*-6/12, *AV*-38/96, *ŚB*-6/18)
+- जुहोमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-20, *RV*-5)
+- शिवः᳓ (*TS*-25/59, *RV*-19/50, *TB*-2/21, *AV*-11/82, *ŚB*-16/30, *VS*-17/41)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302)
+- आ → **आ᳓** (*TS*-1107, *RV*-2810)
+- विश (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- अ᳓-प्रदाहाय (*TS*-4, *TB*-4, *ŚB*-1)
+- समाना᳓य (*TS*-0/50, *RV*-0/67, *TB*-0/17, *AV*-0/32, *ŚB*-0/12, *VS*-0/4, प्रातिपदिकम् समान᳓ (*MW*))
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
 </details>
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/04_brahmaNi_ma.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणि म आत्मा᳓ऽमृतत्वा᳓य । (48)
@@ -1468,17 +1468,16 @@ My soul is in Brahman for immortality.
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ब्र᳓ह्मणि (*RV*, *AV*)
-- मे (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
-- आत्मा᳓ (*TS*, *RV*, *TB*, *TK*)
-- अमृत-त्वा᳓य (*TS*, *RV*)
+- ब्र᳓ह्मणि (*TS*-0/157, *RV*-1/237, *TB*-0/72, *AV*-1/266, *ŚB*-1/203, *VS*-0/37)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401)
+- आत्मा᳓ (*TS*-41/167, *RV*-13/20, *TB*-10/39, *TK*-4/7, *AV*-14/62, *ŚB*-47/108, *VS*-3/5)
+- अमृत-त्वा᳓य (*TS*-1, *RV*-3)
 </details>
 
 <details><summary>सायण-टीका</summary>
 
 एताभिः पञ्चभिराहुतिभिरमृतत्वाय मोक्षाय मे मदीय आत्मा जीवो ब्रह्मणि परमात्मनि एकी भवत्विति शेषः॥
 </details>
-
 </div>  
 
 इति जपन् प्राणाहुतीः कारयित्वा, 
@@ -1598,7 +1597,6 @@ My soul is in Brahman for immortality.
 (मधुत्रयम्)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/10_3_madhu">
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मधु वाता इति ॥
@@ -1609,18 +1607,21 @@ My soul is in Brahman for immortality.
 एकादशीमृचमाह —
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 म᳓धु वा᳓ता ऋतायते᳓  
 म᳓धु क्षरन्ति सि᳓न्धवः ।  
 मा᳓द्ध्वीर् नस् सन्त्व् ओ᳓षधीः ॥
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>त्रिभुवनः</summary>
 
 May the winds be honeyful for us, who wish the settled order; may the rivers pour honey; may the plants be honeyful.
@@ -1635,16 +1636,16 @@ May the winds be honeyful for us, who wish the settled order; may the rivers pou
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- म᳓धु (*TS*, *RV*, *TB*, *TK*)
-- वा᳓ताः (*TS*, *RV*)
-- ऋतायते᳓ (*TS*, *TB*)
-- म᳓धु (*TS*, *RV*, *TB*, *TK*)
-- क्षरन्ति (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *TS*, *RV*)
-- सि᳓न्धवः (*TS*, *RV*)
-- मा᳓द्ध्वीः (आरण्यक-पाठः (अनाम्नातम्))
-- नः (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
-- सन्तु (तिङन्तम् अनुदात्तम्, पा० ८.१.२८, *TS*, *RV*)
-- ओ᳓षधीः (*TS*, *RV*, *TB*)
+- म᳓धु (*TS*-23/44, *RV*-84/153, *TB*-9/16, *TK*-2, *AV*-54/92, *ŚB*-53/62, *VS*-45/62)
+- वा᳓ताः (*TS*-5/52, *RV*-5/81, *TB*-0/8, *AV*-8/83, *ŚB*-0/47, *VS*-0/24)
+- ऋतायते᳓ (*TS*-2, *TB*-1, *VS*-1)
+- म᳓धु (*TS*-23/44, *RV*-84/153, *TB*-9/16, *TK*-2, *AV*-54/92, *ŚB*-53/62, *VS*-45/62)
+- क्षरन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-8)
+- सि᳓न्धवः (*TS*-4/10, *RV*-50/186, *TB*-0/1, *AV*-10/30, *ŚB*-3/4, *VS*-3/6)
+- मा᳓द्ध्वीः (*TS*-2/4 ४.२.९ माध्वीः॑, *RV*-2/11 १.९०.६, *AV*-0/1, *ŚB*-0/5, *VS*-0/1 माध्वीः, पा॰ ६.४.१७५ — भास्करः; तैत्तिरीय-द्वित्वपाठः)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *AV*-1005)
+- सन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-24, *RV*-60)
+- ओ᳓षधीः (*TS*-27/118, *RV*-50/89, *TB*-6/33, *AV*-38/86, *ŚB*-4/14, *VS*-3/4)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1657,6 +1658,7 @@ May the winds be honeyful for us, who wish the settled order; may the rivers pou
 ऋतायत ऋतं परं ब्रह्म तदिच्छते मह्यं वाता वायवो मधु माधुर्योपलक्षितं सुखं यथा भवति तथा वान्त्विति शेषः। प्रबले तु वायौ रोगोत्पत्त्या तत्त्वज्ञानविघ्नः संपद्यते। अतः स मा भूदिति वायोरानुकूल्यं प्रार्थ्यते। एवमुत्तरत्रापि तत्तदानुकूल्यं द्रष्टव्यम्। सिन्धवो नद्यो मधु क्षरन्ति मधुरमारोग्यकरमुदकं संपादयन्त्वित्यर्थः। ओषधीर्व्रीहियवादयोऽपि नोऽस्माकं माध्वीर्मधुराः पथ्यरूपाः सन्तु।
 </details>
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1669,18 +1671,21 @@ May the winds be honeyful for us, who wish the settled order; may the rivers pou
 द्वादशीमृचमाह —
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 म᳓धु न᳓क्तम् उतो᳓ष᳓सि  
 म᳓धुमत् पा᳓र्थिवँ र᳓जः ।   
 म᳓धु द्यौ᳓रस्तु नः पिता᳓ ॥
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>त्रिभुवनः</summary>
 
 May honey be for us at night and dawn; may the earthly world be honeyful; may the heaven, our father, be honeyful.
@@ -1693,6 +1698,22 @@ May honey be for us at night and dawn; may the earthly world be honeyful; may th
 मधु॒ द्यौर॑स्तु नः पि॒ता ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- म᳓धु (*TS*-23/44, *RV*-84/153, *TB*-9/16, *TK*-2, *AV*-54/92, *ŚB*-53/62, *VS*-45/62)
+- न᳓क्तम् (*TS*-15, *RV*-33)
+- उत᳓ (*TS*-120, *RV*-701)
+- उष᳓सि (*TS*-1/20, *RV*-5/237, *TB*-0/6, *AV*-0/38, *ŚB*-1/2)
+- म᳓धु-मत् (*TS*-2/10 ४.२.९ पदपाठः, *RV*-19/43, *TB*-0/1, *AV*-17/29, *VS*-2/4)
+- पा᳓र्थिवम् (*TS*-2/10, *RV*-10/52, *TB*-0/4, *AV*-2/24, *ŚB*-0/4, *VS*-2/9)
+- र᳓जः (*TS*-3/22, *RV*-39/141, *TB*-0/13, *AV*-12/39, *ŚB*-3/10, *VS*-2/16)
+- म᳓धु (*TS*-23/44, *RV*-84/153, *TB*-9/16, *TK*-2, *AV*-54/92, *ŚB*-53/62, *VS*-45/62)
+- द्यौः᳓ (*TS*-37/270, *RV*-102/854, *TB*-8/68, *AV*-62/339, *ŚB*-5/81, *VS*-10/102)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-170 १.९०.७)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *AV*-1005)
+- पिता᳓ (*TS*-34/121, *RV*-66/254, *TB*-13/67, *AV*-54/225, *ŚB*-30/127, *VS*-16/56)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मध्वेवास्त्व् अस्माकं नक्तं रात्रौ उषस्य् अप्य् अहन्यपि । पार्थिवं रजः पृथिव्याख्यो लोकः मधुमानस्तु । द्यौश्च पिता नो ऽस्माकं मधुमत्यस्तु ॥
@@ -1703,6 +1724,7 @@ May honey be for us at night and dawn; may the earthly world be honeyful; may th
 नक्तं रात्रावुतापि चोषसि प्रभाते दिवसेऽपि विद्यार्थिनो मधु मधुरमनुकूलं सूखमस्तु कालकृतोऽपि विघ्नो मा भूदित्यर्थः। पार्थिवं रजः पृथिव्यामवस्थितं शयनादिस्थानगतं रजोऽपि मधुमन्माधुर्योपेतं कण्टकपाषाणादिराहित्येनानुकूलमस्तु। नोऽस्माकं पिता पितृसदृशी द्यौरपि मध्वस्तु, अतिवृष्ट्यादिप्रातिकूल्यरहिताऽस्तु। "द्यौः पिता पृथिवी माता " इति मन्त्रान्तराद्दिवः पितृत्वम्।
 </details>
 </details>
+
 </div>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1715,18 +1737,21 @@ May honey be for us at night and dawn; may the earthly world be honeyful; may th
 त्रयोदशीमृचमाह —
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 म᳓धुमान् नो व᳓नस्प᳓तिर्  
 म᳓धुमाँ अस्तु सू᳓र्यः ।  
 मा᳓द्ध्वीर् गा᳓वो भवन्तु नः ॥
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>त्रिभुवनः</summary>
 
 May the vegetable be honeyful for us; may the sun be honeyful; may the cows be honeyful.
@@ -1739,6 +1764,20 @@ May the vegetable be honeyful for us; may the sun be honeyful; may the cows be h
 माद्ध्वी॒र् गावो॑ भवन्तु नः ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- म᳓धु-मान् (*TS*-3/10, *RV*-20/43, *TB*-0/1, *AV*-9/29, *VS*-0/4)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *AV*-1005)
+- व᳓नस्-प᳓तिः (*TS*-5/51, *RV*-9/26, *TB*-6/17, *AV*-9/36, *ŚB*-2/26, *VS*-4/14, उभे वनस्पत्यादिषु युगपत् पा॰ ६.२.१४०)
+- म᳓धु-मान् (*TS*-3/10, *RV*-20/43, *TB*-0/1, *AV*-9/29, *VS*-0/4)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-170 १.९०.८)
+- सू᳓र्यः (*TS*-34/109, *RV*-84/337, *TB*-26/56, *AV*-77/173, *ŚB*-30/86, *VS*-15/53)
+- मा᳓द्ध्वीः (*TS*-2/4 ४.२.९ माध्वीः॑, *RV*-2/11 १.९०.८, *AV*-0/1, *ŚB*-0/5, *VS*-0/1)
+- गा᳓वः (*TS*-12/108, *RV*-98/521, *TB*-1/32, *AV*-35/195, *ŚB*-6/35, *VS*-5/32)
+- भवन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-28 १.९०.८)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *AV*-1005)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वनस्पतिश्च अस्माकं मधुमानस्तु । सूर्योऽपि मधुमानस्तु गावोऽपि मधुमत्यस्सन्त्व् अस्माकम् ॥
@@ -1749,8 +1788,8 @@ May the vegetable be honeyful for us; may the sun be honeyful; may the cows be h
 वनस्पतिश्चूतपनसादिर्नोऽस्मान्प्रति मधुमान्मधुरफलोपेतो जीवनहेतुरस्तु। सूर्योऽपि प्रभूतं संतापमकृत्वा मधुमान्माधुर्येणानुकूलप्रकाशनेन युक्तोऽस्तु। गावोऽपि नोऽस्मान्प्रति माध्वीर्जीवनहेतुमधुरक्षीरोपेता भवन्तु।
 </details>
 </details>
-</div>
 
+</div>
 </div>  
 
 > (ओं मधु॒ मधु॒ मधु॑ ॥)
@@ -2486,10 +2525,8 @@ verily he delights the seasons, the gods, the fathers.
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/09_devA_AyuShmantaH_amRutena.md">
-
 +++(हे यजमान)+++ देवा᳓ आ᳓युष्मन्तः।  
-ते᳓ऽमृ᳓तेन [+आ᳓युष्मन्तः]  [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]  
-
+[[ते᳓ऽमृ᳓तेन|तेऽमृ᳓तेन]] [+आ᳓युष्मन्तः]  [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
 </div>
 
 इति आशीर्वचने कृते,  
@@ -2594,7 +2631,6 @@ verily he delights the seasons, the gods, the fathers.
 विसृष्टाश्च ब्राह्मणाः,
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/44_vAmadevAya_namaH/">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वामदेवा᳓य न᳓मो  
@@ -2602,11 +2638,11 @@ verily he delights the seasons, the gods, the fathers.
 (श्रे᳓ष्ठाय न᳓मो)  
 रुद्रा᳓य न᳓मः  
 काला᳓य+++(~~का᳓लाय~~)+++ न᳓मः  
-क᳓ल-विकरणाय न᳓मो  
-ब᳓ल-विकरणाय न᳓मो  
+[[क᳓ल-विकरणाय|कल-विक᳓रणाय]] न᳓मो  
+[[ब᳓ल-विकरणाय|बल-विक᳓रणाय]] न᳓मो  
 (ब᳓लाय न᳓मो)  
-ब᳓ल-प्रमथनाय न᳓मस्  
-स᳓र्व-भूत-दमनाय न᳓मो  
+[[ब᳓ल-प्रमथनाय|बल-प्रम᳓थनाय]] न᳓मस्  
+[[स᳓र्व-भूत-दमनाय|सर्व-भूत-द᳓मनाय]] न᳓मो  
 मनो᳓न्मनाय +++(←स्वरः?? व्युत्पत्तिः?)+++ न᳓मः । (59)
 </details>
 
@@ -2635,26 +2671,26 @@ Hail for Vamadeva, salutation for the oldest, salutation for the best, salutatio
 म॒नोन्म॑नाय॒ नमः॑ । (59)
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>पद-पाठः (यान्त्रिकः - 5/18 व्यत्यस्त-स्वराः)</summary>
 
-- वामदेवा᳓य (आरण्यक-पाठः (अनाम्नातम्))
-- न᳓मः (*TS*, *RV*, *TB*, *AV*)
-- ज्येष्ठा᳓य (*TS*)
-- न᳓मः (*TS*, *RV*, *TB*, *AV*)
-- रुद्रा᳓य (*TS*, *RV*, *TB*)
-- न᳓मः (*TS*, *RV*, *TB*, *AV*)
-- का᳓लाय (आरण्यक-पाठः; तुल्यम् काल᳓ (*MW*))
-- न᳓मः (*TS*, *RV*, *TB*, *AV*)
-- क᳓ल-विकरणाय (पा० ६.२.१९९ — भास्करः)
-- न᳓मः (*TS*, *RV*, *TB*, *AV*)
-- ब᳓ल-विकरणाय (बल᳓ (*MW*), पा० ६.२.१९९ — भास्करः)
-- न᳓मः (*TS*, *RV*, *TB*, *AV*)
-- ब᳓ल-प्रमथनाय (बल᳓ (*MW*), पा० ६.२.१९९ — भास्करः)
-- न᳓मः (*TS*, *RV*, *TB*, *AV*)
-- स᳓र्व-भूत-दमनाय (स᳓र्व (*MW*) + भूत᳓ (*MW*), पा० ६.२.१९९ — भास्करः)
-- न᳓मः (*TS*, *RV*, *TB*, *AV*)
-- मनो᳓न्मनाय (पा० ६.२.१९९ — भास्करः)
-- न᳓मः (*TS*, *RV*, *TB*, *AV*)
+- वाम-देवा᳓य (*AV*-0/1, कर्मधारयः समासस्य पा॰ ६.१.२२३ — भास्करः; ऋषिनामनि बहुव्रीहौ तु वाम᳓-देव पा॰ ६.२.१, *RV*-0/1, *AV*-1, *MW*)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *ŚB*-35, *VS*-177/181)
+- ज्येष्ठा᳓य (*TS*-2/10, *RV*-0/2, *TB*-0/6, *AV*-5/20, *ŚB*-2/3, *VS*-1)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *ŚB*-35, *VS*-177/181)
+- रुद्रा᳓य (*TS*-13/162, *RV*-13/99, *TB*-11/42, *AV*-4/44, *ŚB*-6/34, *VS*-6/25)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *ŚB*-35, *VS*-177/181)
+- का᳓लाय → **काला᳓य** (*TS*-0/3, *RV*-0/1, *TB*-0/1, *AV*-0/43, *ŚB*-0/4, काल᳓ *TS*-2, *TB*-1, *AV*-15, *ŚB*-1, प्रत्ययस्वरः पा॰ ३.१.३, फि॰ १.१)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *ŚB*-35, *VS*-177/181)
+- क᳓ल-विकरणाय → **कल-विक᳓रणाय** (कर्तरि ल्युट् पा॰ ३.३.११३, लिति पा॰ ६.१.१९३, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९; बहुव्रीहौ तु पूर्वपदप्रकृतिस्वरः पा॰ ६.२.१ — भास्करः)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *ŚB*-35, *VS*-177/181)
+- ब᳓ल-विकरणाय → **बल-विक᳓रणाय** (कर्तरि ल्युट् पा॰ ३.३.११३, लिति पा॰ ६.१.१९३, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९; बहुव्रीहौ तु पूर्वपदप्रकृतिस्वरः पा॰ ६.२.१ — भास्करः)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *ŚB*-35, *VS*-177/181)
+- ब᳓ल-प्रमथनाय → **बल-प्रम᳓थनाय** (कर्तरि ल्युट् पा॰ ३.३.११३, लिति पा॰ ६.१.१९३, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९; बहुव्रीहौ तु पूर्वपदप्रकृतिस्वरः पा॰ ६.२.१ — भास्करः)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *ŚB*-35, *VS*-177/181)
+- स᳓र्व-भूत-दमनाय → **सर्व-भूत-द᳓मनाय** (कर्तरि ल्युः पा॰ ३.१.१३४, लिति पा॰ ६.१.१९३, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९; बहुव्रीहौ तु पूर्वपदप्रकृतिस्वरः पा॰ ६.२.१ — भास्करः)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *ŚB*-35, *VS*-177/181)
+- मनो᳓न्मनाय (पा॰ ६.२.१९९ — भास्करः)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *ŚB*-35, *VS*-177/181)
 </details>
 
 <details><summary>मूलम् - आन्ध्र-पाठः</summary>
@@ -2730,7 +2766,6 @@ namaH sarvabhUtadamanAya manonmanAya cha ||
 
 The more common 11, 9, and 8 name variants probably emerged early and existed side by side, depending on the theological principle onto which they were mapped.
 </details>
-
 </div>  
 
 (इति मन्त्रं जपेयुः)

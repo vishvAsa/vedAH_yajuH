@@ -75,10 +75,10 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/07_nejameSha_parA.md">
 <details open><summary><h2>०७ नेजमेष परा ...{Loading}...</h2></summary>
 
-नेज॑मेष॒ परा॑ पत॒  
-सुपु॑त्रः॒ पुन॒र् आ प॑त ।  
-अ॒स्यै मे पु॒त्रका॑मायै॒  
-गर्भ॒म् आ धे॑हि॒ यः पुमा॑न् ।
+ने᳓जमेष प᳓रा **पत**  
+[[सु᳓पुत्रः|सुपुत्रः᳓]] पु᳓नर् आ᳓ **पत** ।  
+अस्यै᳓ मे पुत्र᳓कामायै  
+ग᳓र्भम् **आ᳓ धेहि** यः᳓ पु᳓मान् ।
 
 </details>
 </div>
@@ -95,10 +95,10 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/09_A_te.md">
 <details open><summary><h2>०९ आ ते ...{Loading}...</h2></summary>
 
-आ ते॒ गर्भो॒ योनि॑म् एतु॒  
-पुमा॒न् बाण॑ इवेषु॒धिम् ।  
-आ वी॒रो जा॑यतां  
-पु॒त्रस् ते॑ दश॒मास्यः॑ ॥
+आ᳓ ते ग᳓र्भो यो᳓निम् **एतु**  
+पु᳓मान् बा᳓ण इवेषुधि᳓म् ।  
+**आ᳓ वीरो᳓ जायतां**  
+पुत्र᳓स् ते [[दशमा᳓स्यः|द᳓शमास्यः]] ॥+++(5)+++
 
 </details>
 </div>
@@ -135,10 +135,10 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_14/04_kAma_pramRddhyatAm.md">
 <details open><summary><h2>०४ काम प्रमृद्ध्यताम् ...{Loading}...</h2></summary>
 
-काम॒ प्रमृ॑द्ध्यतां॒ मह्य॒म्  
-अप॑राजितम् ए॒व मे॑ ।  
-यं कामं॑ का॒मये॑ देव॒  
-तं मे॑ वायो॒ सम॑र्द्धय ।
+[[का᳓म|काम]] **प्र᳓मृध्यतां** म᳓ह्यम्  
+अ᳓पराजितम् एव᳓ मे ।  
+यं᳓ का᳓मं **काम᳓ये** देव  
+तं᳓ मे वायो **स᳓मर्धय** ।
 
 </details>
 </div>

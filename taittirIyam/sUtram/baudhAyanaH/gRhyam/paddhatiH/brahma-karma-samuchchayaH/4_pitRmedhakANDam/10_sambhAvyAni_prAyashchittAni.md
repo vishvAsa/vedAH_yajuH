@@ -28,9 +28,9 @@ title = "१० सम्भाव्यानि प्रायश्चित
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 **आ᳓यातु** देव᳓स् सुम᳓नाभिर् ऊति᳓भिर्  
-यमो᳓ ह᳓ वा᳓+++(य्)++++इह᳓ प्र᳓यताभिर् **अक्ता᳓** ।  
+यमो᳓ ह वा᳓+++(य्)++++इह᳓ प्र᳓यताभिर् **अक्ता᳓** ।  
 आ᳓सीदताँ सुप्रय᳓तेह बर्हि᳓ष्य्  
-ऊ᳓र्जा-यजात्यै म᳓म शत्रु-ह᳓त्यै ।  
+ऊ᳓र्जाय जा᳓त्यै म᳓म शत्रु-ह᳓त्यै ।  
 +++(आरण्यक-स्वर-व्यत्ययः॥)+++
 
 </details>
@@ -47,12 +47,10 @@ title = "१० सम्भाव्यानि प्रायश्चित
 उभयं **स्पृष्ट्वा जपेत्**-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/013/02_yame_iva.md">
-
 +++(सहोत्पत्त्या)+++ यमे᳓ इव **य᳓तमाने** य᳓दै᳓तं  
 प्र᳓ वाम् **भरन्** मा᳓नुषा **देवय᳓न्तः** ।  
 **आ᳓सीदतँ** स्व᳓म् उ लोक᳓व्ँ **वि᳓दाने**  
-स्व्-आस-स्थे᳓ **भवतम्** इ᳓न्दवे नः ।  
-
+स्व्-आस-स्थे᳓ **भवतम्** इ᳓न्दवे नः ।
 </div>
 
 इति ।। 
@@ -61,30 +59,24 @@ title = "१० सम्भाव्यानि प्रायश्चित
 लौकिकाग्नाव् आज्यं संस्कृत्य-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/13_yamAya_somaM.md">
-
 यमा᳓य सो᳓मँ **सुनुत**  
 यमा᳓य **जुहुता** हविः᳓ ।  
 यमँ᳓ ह यज्ञो᳓ **गच्छत्य्**  
 अग्नि᳓-दूतो अ᳓रङ्-कृतः ।
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/14_yamAya_ghRtavaddhavirjuhota.md">
-
 यमा᳓य घृत᳓वद्-धवि᳓र्  
 **जुहो᳓त** प्र᳓ च **तिष्ठत** ।  
 स᳓ नो देवे᳓ष्व् **आ᳓यमद्**  
 दीर्घ᳓म् आ᳓युः प्र᳓ जीव᳓से ।
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/15_yamAya_madhumattamaM.md">
-
 यमा᳓य म᳓धुमत्तमँ  
 रा᳓ज्ञे हव्य᳓ञ् **जुहोतन** ।  
 इद᳓न् न᳓म ऋ᳓षिभ्यः पूर्वजे᳓भ्यः  
 पू᳓र्वेभ्यः पथि-कृ᳓द्भ्यः ।
-
 </div>
 
 इति तिस्रः युवाहुतीर् **जुहोति** ॥ " यमायेदं॰" ॥ 
@@ -147,22 +139,18 @@ title = "१० सम्भाव्यानि प्रायश्चित
 इति संकल्प्य, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/raxAMsi/Rk/apahatA_asurA.md">
-
 अप॑हता॒ असु॑रा॒ रक्षाँ॑सि  
 पिशा॒चा ये क्षय॑न्ति पृथि॒वीम् अनु॑ ।  
 अ॒न्यत्रेतो॑ गच्छन्तु॒ यत्रैषां॑ गतं॒ मनः॑ ॥
-
 </div>
 
 इत्य् अद्भिश्चितां **प्रोक्ष्य**
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
-
 अय᳓न् ते **यो᳓निर्** ऋत्वि᳓यः ।  
 य᳓तो जातो᳓ **अ᳓रोचथाः** ।  
 त᳓ञ् जान᳓न्न् अग्न **आ᳓ रोह** +++(→ सीदेति शाकले)+++ ।  
-अ᳓था नो **वर्धया रयि᳓म्** ।  
-
+अ᳓था नो **वर्धया रयि᳓म्** ।
 </div>  
 
 इति तद्भस्म समिधि **समारोप्य**  
@@ -171,21 +159,17 @@ title = "१० सम्भाव्यानि प्रायश्चित
 तां समिधम् **आदधाति** -
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
-
 **आजु᳓ह्वानस्**+++(=हूयमानः)+++ सु-प्र᳓तीकᳶ पुर᳓स्ताद्  
 अ᳓ग्ने स्वाय्ँ᳓ यो᳓निम् **आ᳓ सीद** साध्या᳓+++(→ साधुया माध्यन्दिने)+++ ।  
 अस्मि᳓न्त् सध᳓-स्थे, अ᳓ध्य् उ᳓त्तरस्मिन्   
 वि᳓श्वे देवाः! य᳓जमानश् च **सीदत** ।
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
-
 **उ᳓द्बुध्यस्वाग्ने** प्र᳓ति जागृह्य्  
 एनम् इष्टा-पूर्ते᳓ सँ᳓सृजेथामय᳓ञ्च ।   
 पु᳓नᳵ **कृण्वँ᳓स्** त्वा पित᳓रय्ँ यु᳓वानम्  
 **अन्वा᳓ताँसीत्** त्व᳓यि त᳓न्तुम् एत᳓म् ।
-
 </div>  
 
 इति द्वाभ्याम् ।। 
@@ -207,7 +191,7 @@ title = "१० सम्भाव्यानि प्रायश्चित
 
 <details open><summary><h2>१८ अयाश्चाग्नेऽस्यनभिशस्तीश्च सत्यमित्त्वमया …{Loading}…</h2></summary>
 
-अया᳓श्+++(=एतुम् योग्यः, गमनशीलो वा)+++ चाग्ने᳓ ऽस्य् अनभिशस्ती᳓श्च+++(=अनवद्यः)+++  
+अया᳓श्+++(=एतुम् योग्यः, गमनशीलो वा)+++ [[चाग्ने᳓|चाग्ने]] ऽस्य् अनभिशस्ती᳓श्च+++(=अनवद्यः)+++  
 सत्य᳓म् इ᳓त् त्व᳓म्+++(←स्वरः शोधितः)+++ अया᳓ असि ।  
 अ᳓यसा+++(←अय् + असुँन्)+++ म᳓नसा धृतो᳓  
 अय᳓सा+++(← इण् + असुँन्)+++ हव्य᳓म् ऊहिषे+++(=वहस्व)+++  
@@ -298,8 +282,8 @@ Tvaṣṭr, verily, the fire;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- त्व᳓ष्टा (*TS*, *RV*)
-- अग्नी᳓त् (*TS*, *TB*)
+- त्व᳓ष्टा (*TS*-30, *RV*-42/43, *TB*-12, *AV*-29/30, *ŚB*-23, *VS*-13)
+- अग्नी᳓त् (*TS*-5/6, *TB*-1/2)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -324,8 +308,8 @@ Mitra, the impeller.
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- मित्रः᳓ (*TS*, *RV*, *TB*)
-- उपवक्ता᳓ (*RV*)
+- मित्रः᳓ (*TS*-29/68, *RV*-156/284, *TB*-14/25, *AV*-27/51, *ŚB*-8/23, *VS*-10/28)
+- उपवक्ता᳓ (*RV*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -362,9 +346,9 @@ Soma is the first going one of the Soma-plant;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सो᳓मः (*TS*, *RV*, *TB*)
-- सो᳓मस्य (*TS*, *RV*, *TB*)
-- पुरो-गाः᳓ (*TS*)
+- सो᳓मः (*TS*-96/294, *RV*-229/728, *TB*-48/135, *AV*-89/213, *ŚB*-126/248, *VS*-29/90)
+- सो᳓मस्य (*TS*-38/294, *RV*-118/728, *TB*-18/135, *AV*-25/213, *ŚB*-37/248, *VS*-16/90)
+- पुरो-गाः᳓ (*TS*-2/3, *VS*-3)
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -411,13 +395,13 @@ Indra, Soma-juices have been prepared for you, who are of the speed of the wind 
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- श्राताः᳓ (प्रातिपदिकम् श्रात᳓ (*MW*))
-- ते (अनुदात्तम्, पा० ८.१.१८, *TS*, *RV*, *AV*)
-- इन्द्र (आमन्त्रितम् अनुदात्तम्, पा० ८.१.१९)
-- सो᳓माः (*TS*, *RV*, *TB*)
-- वा᳓त-आपेः (*RV* १.१८७.९ वाता॑पेः — सायणः)
-- हवन-श्रु᳓तः (*TS*, *RV*, क्विप् पा० ६.२.१३९ — सायणः)
-- स्वा᳓हा (*TS*, *RV*, *TB*, *TK*)
+- श्राताः᳓ (*RV*-0/4, *AV*-0/4, *ŚB*-0/1, प्रातिपदिकम् श्रात᳓ (*MW*))
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *AV*-1022)
+- इन्द्र (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- सो᳓माः (*TS*-2/294, *RV*-43/728, *TB*-1/135, *AV*-5/213, *ŚB*-2/248, *VS*-2/90)
+- वा᳓त-आपेः (बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१ — सायणः)
+- हवन-श्रु᳓तः (*TS*-2, *RV*-2/6, *ŚB*-1, *VS*-1, क्विप् पा॰ ६.२.१३९ — सायणः)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -447,12 +431,10 @@ Indra, Soma-juices have been prepared for you, who are of the speed of the wind 
 मनस्वती, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
-
 म᳓नो ज्यो᳓तिर् **जुषताम्**, आ᳓ज्यव्ँ  
 वि᳓च्छिन्नय्ँ **यज्ञँ᳓ स᳓म्** इम᳓न् **दधातु** ।  
 **बृ᳓हस्प᳓तिस् तनुताम्** इम᳓न् नो,  
 वि᳓श्वे देवा᳓ इह᳓ **मादयन्ताम्** ॥
-
 </div>  
 
 मिन्दाहुती, 
@@ -487,7 +469,6 @@ Indra, Soma-juices have been prepared for you, who are of the speed of the wind 
 महाव्याहृतीः, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/02_bhUr_agnaye_mahAvyAhRtayaH/">
-
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantra 1)* Mahāvyāhṛti-Mantras for Homa.
@@ -522,6 +503,14 @@ Bhuh! Hail for the fire and for the earth!
 भूर् अ॒ग्नये॑ पृथि॒व्यै स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- भूः᳓ (*TS*-9, *RV*-3, *TB*-5)
+- अग्न᳓ये (*TS*-128/1195, *RV*-47/856, *TB*-30/310, *TK*-12/30, *AV*-16/419, *ŚB*-19/111, *VS*-12/36)
+- पृथिव्यै᳓ (*TS*-24, *RV*-6, *TB*-10, *AV*-6, *ŚB*-11, *VS*-7)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तत्र भूर्भुवस्सुवरिति व्याहृतयः सृष्ट्यर्थं तपस्तप्यमानेन प्रजापतिना व्याहृतत्वात् । यथा - 'स भूरिति व्याहरत् । स भूमिमसृजत' इत्यादि । आसां परिणामोऽग्न्यादयः पृथिव्यादयश्च एतदधीनस्थितिका वा । स्वाहाकारसम्बन्धेऽपि निपातत्वाच् चतुर्थ्यभावः । भूरित्येतां व्याहृतिम् एतत्सम्बन्धिनीं पृथिवीम् अग्निं चानया स्वाहाकृतयाऽऽहुत्या तर्पयामीति । एवं सर्वत्र । व्याहृतित्रयाधीनस्थितिकाश्चन्द्रमा दिशश्च । अथ एतल्लोकत्रयवासिभ्यो देवेभ्यो नमः । पितृभ्यस्स्वधाऽस्तु । अथ एवम्प्रभावव्याहृतित्रयाविभागावस्थं परं ब्रह्म अहमस्मीत्य् उपासनाविधित्वेन योज्यम् । व्याख्यातः प्रणवः ॥
@@ -543,6 +532,14 @@ Bhuvah! Hail for the wind and for the mid-region!
 भुवो॑ वा॒यवे॒ ऽन्तरि॑क्षाय॒ स्वाहा॑॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- भु᳓वः (*TS*-17, *RV*-25, *TK*-3)
+- वाय᳓वे (*TS*-17/108, *RV*-25/89, *TB*-8/56, *AV*-4/42, *ŚB*-10/47, *VS*-9/21)
+- अन्त᳓रिक्षाय (*TS*-17/180, *RV*-0/94, *TB*-1/25, *AV*-5/129, *ŚB*-2/26, *VS*-0/5)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 भूर्भुवः सुवरोमिति त्रीणि पदान्यव्ययानि।  
@@ -553,7 +550,7 @@ Bhuvah! Hail for the wind and for the mid-region!
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓वर् आदित्या᳓य दिवे᳓ स्वा᳓हा॥  
-(आदित्यायेदं न मम)
++++((आदित्यायेदं न मम))+++
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -564,6 +561,14 @@ Suvah! Hail for the sun and for the heaven!
 <details><summary>मूलम्</summary>
 
 सुव॑र् आदि॒त्याय॑ दि॒वे स्वाहा॑॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सु᳓वर् (*TB*-8)
+- आदित्या᳓य (*TS*-0/195, *RV*-0/91, *TB*-0/61, *AV*-3/70, *ŚB*-0/72, *VS*-0/5, प्रातिपदिकम् आदित्य᳓ (*MW*))
+- दिवे᳓ (*TS*-19/270, *RV*-15/854, *TB*-5/68, *AV*-8/339, *ŚB*-6/81, *VS*-7/102)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -580,6 +585,16 @@ Bhuh, Bhuvah, Suvah! for the quarters.
 <details><summary>मूलम्</summary>
 
 भूर् भुव॒स् सुव॑श् च॒न्द्रम॑से दि॒ग्भ्यस् स्वाहा॑॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- भूः᳓ (*TS*-9, *RV*-3, *TB*-5)
+- भु᳓वः (*TS*-17, *RV*-25, *TK*-3)
+- सु᳓वः (*TS*-67, *TB*-12)
+- चन्द्र᳓मसे (*TS*-5/10, *RV*-0/2, *TB*-4/16, *TK*-1/3, *AV*-0/4, *ŚB*-0/9, *VS*-1/4)
+- दिग्भ्यः᳓ (*TS*-21/24, *TB*-3, *AV*-3, *ŚB*-4, *VS*-5)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -615,7 +630,6 @@ Salutation for the gods! Hail for the moon and Svadha (Hail) for the fathers! Bh
 त्तिरीयारण्यकभाष्ये दशमप्रपाठके नारायणीयापरनामधेययुक्तायां
 याज्ञिक्यामुपनिषदि द्वितीयोऽनुवाकः॥ २॥
 </details>
-
 </div>  
 
 व्याहृतीश्च **हुत्वा** ।।  

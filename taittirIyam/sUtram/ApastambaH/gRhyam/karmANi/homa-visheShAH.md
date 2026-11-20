@@ -45,12 +45,10 @@ unicode_script: devanagari
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/10_mA_no.md">
-
 मा᳓ नो हिँसीज् जातवेदो  
 गा᳓म् अ᳓श्वं पु᳓रुषञ् ज᳓गत् ।  
-+++(परहवींष्य्)+++ अ᳓बिभ्रद्+++(न्)+++ अ᳓ग्न आ᳓गहि+++(=आगच्छ)+++,  
-श्रिया᳓ मा प᳓रिपातय ॥ (9)
-
++++(परहवींष्य्)+++ अ᳓बिभ्रद्+++(न्)+++ [[अ᳓ग्न|अग्न]] आ᳓गहि+++(=आगच्छ)+++,  
+श्रिया᳓ [[मा|मा᳓]] प᳓रिपातय ॥ (9)
 </div>
 
 </div> 

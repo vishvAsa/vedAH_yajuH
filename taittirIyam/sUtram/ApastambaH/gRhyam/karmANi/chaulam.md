@@ -61,8 +61,9 @@ unicode_script: devanagari
 
 ## दिग्वपनम् …{Loading}…
 
+
 ### शिरस उन्दनम्
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_05_brAhmaNAn_bhojayitvAshiSho.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_05_brAhmaNAn_bhojayitvAshiSho.md">
 
 ब्राह्मणान् भोजयित्वाशिषो वाचयित्वा कुमारं भोजयित्वा  
 +++(उपनयने - एवमन्तं पित्रादेः कर्म । अथाचार्यः उष्णाश्शीताश्चापः संसृजति।)+++  
@@ -85,23 +86,22 @@ unicode_script: devanagari
 ज्योक् च॒ सूर्यं॑ दृ॒शे ।
 
 </div>
+
 </div>
 
 +++(तत्राचार्यस्संसर्जनोन्दने कृत्वा क्षुरं नापितादपादाय प्रतिदिशं प्रवाप्य पुनस्तस्मै प्रदाय तं च वपन्तमुत्तरयानुमन्त्रयते । इति स्नातकसंस्कारे हरदत्तः। नाचार्यः - अन्योऽपि ब्राह्मण इति सुदर्शनसूरिः।)+++
 
 ### प्रवपनम्
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_06_trIMstrIn.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_06_trIMstrIn.md">
 
 त्रींस्त्रीन् दर्भान् अन्तर्धायोत्तराभिश् चतसृभिः +++("येनावपत्"इत्यादिभिः)+++ प्रतिमन्त्रं प्रतिदिशं प्रवपति ६  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/03_yenAvapatsavitA_xureNa.md">
-
-+++(प्राच्यान्दिशि)+++ **येनाव॑पत्** सवि॒ता क्षु॒रेण॒  
-सोम॑स्य॒ राज्ञो॒ वरु॑णस्य वि॒द्वान् ।  
-तेन॑ ब्रह्माणो! **वपते॒दम्** अ॒स्या-  
-ऽऽयु॑ष्मा॒ञ् जर॑दष्टि॒र् यथा **ऽस॑द्** अ॒यम्  
-अ॒सौ +++(←अत्रोहः)+++।
-
++++(प्राच्यान्दिशि)+++ **ये᳓ना᳓वपत्** सविता᳓ क्षुरे᳓ण  
+सो᳓मस्य रा᳓ज्ञो व᳓रुणस्य विद्वा᳓न् ।  
+ते᳓न [[ब्रह्माणो|ब्रह्मा᳓णो]]! **वपतेद᳓म्** अस्या᳓-  
+ऽऽयुष्माञ् ज᳓रदष्टिर् [[य᳓था᳓|य᳓था]] **ऽसद्** अय᳓म्  
+असौ᳓ +++(←अत्रोहः)+++।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/04_yena_pUShA.md">
@@ -130,24 +130,24 @@ unicode_script: devanagari
 आयु॑षा॒ वर्च॑सा॒ यथा॒ ज्योक् सु॒मना॒ **असाः॑** ।
 
 </div>
+
 </div>
 
 ### क्षुर-शोधन-मन्त्रणम्
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_07_vapantamuttarayAnumantrayate.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_07_vapantamuttarayAnumantrayate.md">
 
 वपन्तम् उत्तरया +++("यत् क्षुरेण" इत्य् एतया)+++ ऽनुमन्त्रयते दक्षिणतो माता ब्रह्मचारी वा ७  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/07_yatxureNa_marchayatA.md">
-
-+++(नापितम् अनुमन्त्रयति-)+++ यत् क्षु॒रेण॑ म॒र्चय॑ता +++(=तीक्ष्णेन)+++  
-सुपे॒शसा॒ वप्त्रा॒ **वप॑सि॒** केशान्॑ ।  
-**शुन्धि॒** शिरो॒, मास्यायुः॒ **प्रमो॑षीः** ।
-
++++(नापितम् अनुमन्त्रयति-)+++ य᳓त् क्षुरे᳓ण मर्च᳓यता +++(=तीक्ष्णेन)+++  
+[[सुपेश᳓सा|सुपे᳓शसा]] [[व᳓प्त्रा|वप्त्रा᳓]] **व᳓पसि** के᳓शान् ।  
+**शु᳓न्धि** शि᳓रो, मा᳓स्या᳓युः **प्र᳓मोषीः** ।
 </div>
+
 </div>
 
 ### केश-दर्भ-निक्षेपः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_08_AnaDuhe_shakRtpiNDe.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_08_AnaDuhe_shakRtpiNDe.md">
 
 आनडुहे शकृत्पिण्डे यवान् निधाय तस्मिन् केशान् उपयम्योत्तरया +++("उप्त्वाय केशा"नित्येतया)+++ उम्बर-मूले दर्भ-स्तम्बे वा निदधाति ८  
 
@@ -159,6 +159,7 @@ unicode_script: devanagari
 अन्त॒रा द्यावा॑पृथि॒वी अ॒पस् सुवः॑ ॥  
 
 </div>
+
 </div>
 
 </div>  

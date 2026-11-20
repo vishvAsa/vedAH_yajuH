@@ -35,7 +35,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/09_dhruvaxitaye_svAhA.md">
 <details open><summary><h2>०९ ध्रुवक्षितये स्वाहा ...{Loading}...</h2></summary>
 
-ध्रु॒व॒-क्षित॑ये॒+++(←स्वरः??)+++ +++(खे)+++ स्वाहा॑।  
+ध्रुव᳓-क्षितये +++(खे)+++ स्वा᳓हा।  
 +++(विवाहे ध्रुव-दर्शन-मन्त्रेऽप्य् अयम् प्रयोगः)+++  
 
 </details>
@@ -43,7 +43,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/10_achyutaxitaye_svAhA.md">
 <details open><summary><h2>१० अच्युतक्षितये स्वाहा ...{Loading}...</h2></summary>
 
-अ॒च्यु॒त॒-क्षित॑ये॒+++(←स्वरः??)+++  स्वाहा॑।  
+अ᳓च्युत-क्षितये स्वा᳓हा।  
 
 </details>
 </div>
@@ -57,8 +57,8 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/13_dharmAya_svAhA.md">
 <details open><summary><h2>१३ धर्माय स्वाहा ...{Loading}...</h2></summary>
 
-- धर्मा॑य स्वाहा॑ । अध॑र्माय स्वाहा॑। +++(अपरेणाग्निं सप्तमाष्टमाभ्यामुदगपवर्गम् २०)+++  
-- अ॒द्भ्यस् स्वाहा॑ । +++(उदधानसंनिधौ नवमेन २१)+++  
+[[ध᳓र्माय᳓|ध᳓र्माय]] स्वा᳓हा । [[अ᳓धर्मा᳓य᳓|अ᳓धर्माय]] स्वा᳓हा। +++(अपरेणाग्निं सप्तमाष्टमाभ्यामुदगपवर्गम् २०)+++    
+अद्भ्य᳓स् स्वा᳓हा । +++(उदधानसंनिधौ नवमेन २१)+++  
 
 </details>
 </div>
@@ -87,7 +87,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/17_yadejati_jagati.md">
 <details open><summary><h2>१७ यदेजति जगति ...{Loading}...</h2></summary>
 
-- यद् एज॑ति+++(=कम्पते)+++ जग॑ति यच् च॒ चेष्ट॑ति, नाम्नो॑ भा॒गो ऽयं, नाम्ने॒ स्वाहा॑। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++  
+य᳓द् [[ए᳓जति᳓|ए᳓जति]]+++(=कम्पते)+++ ज᳓गति [[यच्|य᳓च्]] च [[चे᳓ष्टति᳓|चे᳓ष्टति]], ना᳓म्नो भागो᳓ ऽयं᳓, ना᳓म्ने स्वा᳓हा। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++  
 
 </details>
 </div>
@@ -118,10 +118,10 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/21_ye_bhUtAH.md">
 <details open><summary><h2>२१ ये भूताः ...{Loading}...</h2></summary>
 
-- ये भू॒ताः प्र॒चर॑न्ति दिवा॒ /नक्तं॒  
-बलि॑म् इ॒च्छन्तो॑ वि॒तुद॑स्य॒ प्रेष्याः॑ ।  
-तेभ्यो॑ ब॒लिं पु॑ष्टि॒कामो॑ हरामि॒  
-मयि॒ पुष्टिं॒ पुष्टि॑पतिर् दधातु॒ स्वाहा॑॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++  
+ये᳓ भूताः᳓ प्रच᳓रन्ति [[दिवा|दि᳓वा]] /न᳓क्तं    
+[[ब᳓लिम्|बलि᳓म्]] इच्छ᳓न्तो वितु᳓दस्य प्रे᳓ष्याः ।  
+ते᳓भ्यो बलिं᳓ [[पुष्टिका᳓मो|पु᳓ष्टिकामो]] हरामि  
+म᳓यि पु᳓ष्टिं [[पु᳓ष्टिपतिर्|पुष्टिप᳓तिर्]] दधातु स्वा᳓हा॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++  
 
 </details>
 </div>
@@ -387,11 +387,11 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/18_ayAshchAgne-syanabhishastIshcha_satyamittvamayA.md">
 <details open><summary><h2>१८ अयाश्चाग्नेऽस्यनभिशस्तीश्च सत्यमित्त्वमया ...{Loading}...</h2></summary>
 
-अ॒याश्+++(=एतुम् योग्यः, गमनशीलो वा)+++ चा॒ग्ने ऽस्य् अ॑नभिश॒स्तीश्च॑+++(=अनवद्यः)+++  
-स॒त्यम् इ॑त् त्वम् अ॒या अ॑सि ।  
-अय॑सा॒+++(=प्रतिगन्त्रा)+++ मन॑सा धृ॒तो॑  
-ऽयसा॑ ह॒व्यम् ऊ॑हिषे॒+++(=वहस्व)+++  
-ऽया नो॑ धेहि भेष॒जम् ।।+++(५)+++
+अया᳓श्+++(=एतुम् योग्यः, गमनशीलो वा)+++ [[चाग्ने᳓|चाग्ने]] ऽस्य् अनभिशस्ती᳓श्च+++(=अनवद्यः)+++  
+सत्य᳓म् इ᳓त् त्व᳓म्+++(←स्वरः शोधितः)+++ अया᳓ असि ।  
+अ᳓यसा+++(←अय् + असुँन्)+++ म᳓नसा धृतो᳓  
+अय᳓सा+++(← इण् + असुँन्)+++ हव्य᳓म् ऊहिषे+++(=वहस्व)+++  
+अया᳓ नो धेहि भेषज᳓म् ।।+++(५)+++
 
 </details>
 </div>

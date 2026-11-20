@@ -137,12 +137,10 @@ __________________
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/04_A_tvA.md">
-
-आ त्वा॑ कुमा॒रस् तरु॑ण॒  
-आ व॒त्सो जग॑ता स॒ह ।  
-आ त्वा॑ परि॒स्रुतः॑+++(=सुरायाः → घृतस्य)+++ कु॒म्भा  
-आ द॒ध्नः कल॑शीर् +++(मन्थनार्थम्)+++ अयन् ।  
-
+आ᳓ त्वा कुमार᳓स् त᳓रुण  
+आ᳓ वत्सो᳓ ज᳓गता सह᳓ ।  
+आ᳓ त्वा परिस्रु᳓तः+++(=सुरायाः → घृतस्य)+++ कुम्भा᳓  
+आ᳓ दध्नः᳓ [[क᳓लशीर्|कल᳓शीर्]] +++(मन्थनार्थम्)+++ **अयन्** ।
 </div>
 
 </div>
@@ -221,10 +219,8 @@ __________________
 वँशम् आधीयमानम् उत्तरेण यजुषा +++(="ऋतेन स्थूणौ")+++ ऽभिमन्त्रयते ५
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/05_Rtena_sthUNAvadhiroha.md">
-
-ऋ॒तेन॒ स्थूणा॑व्+++(=स्तम्भम्)+++ अ॒धिरो॑ह वँ॒शो  
-ऽग्रो वि॒राज॒न्न् अप॑सेध शत्रून्॑ ।  
-
+ऋते᳓न स्थू᳓णाव्+++(=स्तम्भम्)+++ **[[अधि᳓रोह|अ᳓धिरोह]]** [[वँशो᳓|वँशो]]  
+ऽग्रो᳓ **विरा᳓जन्न् अ᳓पसेध** [[शत्रू᳓न्|श᳓त्रून्]] ।
 </div>
 
 </div>

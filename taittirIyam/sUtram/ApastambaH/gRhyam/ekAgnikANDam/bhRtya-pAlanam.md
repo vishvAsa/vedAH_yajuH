@@ -8,20 +8,20 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/05_pari_tvA.md">
 <details open><summary><h2>०५ परि त्वा ...{Loading}...</h2></summary>
 
-परि॑ त्वा॒ गिरे॑र् अमि॒हं+++(←मिह सेचने)+++  
-परि॒ भ्रातुः॒ परि॒ष्+++(स्)+++वसुः॑ ।  
-परि॒ सर्वे॑भ्यो ज्ञा॒तिभ्यः॒  
-परि॑-षीतः॒+++(=बद्धः)+++ क्वे॑ष्यसि॑ ।  
+प᳓रि त्वा [[गि᳓रेर्|गिरे᳓र्]] [[अमिहं᳓|अमिहं]]+++(←मिह सेचने)+++  
+प᳓रि भ्रा᳓तुः प᳓रि ष्व᳓सुः ।  
+प᳓रि स᳓र्वेभ्यो ज्ञाति᳓भ्यः  
+प᳓रि-षीतः+++(=बद्धः)+++ [[क्वे᳙ष्य᳓सि|क्वे᳙ष्यसि]] ।  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/06_shashvatparikupitena_sankrAmeNAvichChidA.md">
 <details open><summary><h2>०६ शश्वत्परिकुपितेन सङ्क्रामेणाविच्छिदा ...{Loading}...</h2></summary>
 
-शश्व॒त् परि॑-कुपितेन॒  
-संक्रा॑मेणाऽवि॒च्छिदा॑ ।  
-उ॒लेन॒+++(=स्थूलेन)+++ परि॑-षीतो+++(=बद्धो)+++ ऽसि॒  
-परि॑षीतोऽस्य् उ॒लेन॑ । 
+श᳓श्वत् प᳓रि-कुपितेन  
+[[सं᳓क्रामेणाविच्छि᳓दा|संक्रा᳓मेणाविच्छि᳓दा]] ।  
+उले᳓न+++(=स्थूलेन)+++ प᳓रि-षीतो+++(=बद्धो)+++ ऽसि  
+प᳓रिषीतोऽस्य् उले᳓न । 
 
 </details>
 </div>
@@ -42,28 +42,35 @@ unicode_script: devanagari
 </details>
 </div>
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/08_Avartane_nivartana.md" unfilled newLevelForH1="5" includeTitle="false">
+आ᳓ वर्तन वर्तय नि᳓ निवर्तन वर्तय  
+इ᳓न्द्र नर्द+++(=शब्द)+++बुद+++(=शर)+++।  
++++("आबुन्दं वृत्रहाऽऽददे इन्द्रो बुन्दम् तुविक्षन्ते सुकृतं सुमयं धनुस्-साधुर् बुन्दो हिरण्मयः" इति दर्शनात्)+++  
+भू᳓म्याश् च᳓तस्रᳶ प्रदि᳓शस्  
+ता᳓भिरा᳓ वर्तया पु᳓नः ।+++(५)+++  
 
-आ॒वर्त॑ने नि॒वर्त॑न आ॒वर्त॑न निवर्त॒नाय॒ स्वाहा॑ ।  
+
+आव᳓र्तने निव᳓र्तन  
+[[आव᳓र्तन|आवर्तन]] +++(→स्वरः??)+++ निवर्तना᳓य स्वा᳓हा ।
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/09_anupo-hvadanuhvayo_nivarto.md">
 <details open><summary><h2>०९ अनुपोऽह्वदनुह्वयो निवर्तो ...{Loading}...</h2></summary>
 
-अनु॑ पो+++(=वो)+++ ऽह्व॒द् अनु॑ह्वयो॒+++(=अनुह्वाता)+++  
-निव॑र्तो वो॒ न्यवी॑वृतत् ।  
-ऐ॒न्द्रः परि॑क्रोशो वः॒  
-परि॑क्रोशतु स॒र्वतः॑ ।+++(र४)+++  
+अ᳓नु पो+++(=वो)+++ ऽह्वद् अ᳓नुह्वयो+++(=अनुह्वाता)+++  
+नि᳓वर्तो वो न्य᳓वीवृतत् ।  
+ऐन्द्रः᳓ [[प᳓रिक्रोशो|परिक्रोशो᳓]] वः  
+प᳓रिक्रोशतु सर्व᳓तः ।+++(र४)+++  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/10_yadi_mAmati.md">
 <details open><summary><h2>१० यदि मामति ...{Loading}...</h2></summary>
 
-यदि॒ माम् अति॒ मन्या॑ध्वा॒+++(ध्वै)+++  
-अदे॒वा दे॒वव॑त्-तरम् ।  
-इन्द्रः॒ पाशे॑न सि॒क्त्वावो॒+++(←षिञ् बन्धने)+++  
-मह्य॒म् इद् वश॒म् आ न॑या॒त्  
-स्वाहा॑ ।  
+य᳓दि मा᳓म् अ᳓ति म᳓न्याध्वा+++(ध्वै)+++  
+[[अ᳓देवा|अदेवा᳓]] +++(~~अ᳓देवा~~)+++ देव᳓वत्-तरम् ।  
+इ᳓न्द्रः पा᳓शेन सिक्त्वा᳓वो+++(←षिञ् बन्धने)+++  
+म᳓ह्यम् इ᳓द् व᳓शम् आ᳓ नयात्  
+स्वा᳓हा ।  
 
 </details>
 </div>

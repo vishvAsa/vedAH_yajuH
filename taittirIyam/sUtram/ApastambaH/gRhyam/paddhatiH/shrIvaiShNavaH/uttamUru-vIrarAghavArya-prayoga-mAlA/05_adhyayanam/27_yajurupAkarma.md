@@ -42,18 +42,34 @@ title = "२७ यजुरुपाकर्म"
 
 ५. मौञ्जीधारणमन्त्रः = 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/09_iyan_duruktAtparibAdhamAnA.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/09_iyan_duruktAtparibAdhamAnA.md" unfilled newLevelForH1="5" includeTitle="false">
+इयं᳓ [[दु᳓रुक्तात्|दुरुक्ता᳓त्]] **परिबा᳓धमाना**  
+श᳓र्म व᳓रूथं+++(=वरणीयं)+++ **पुनती᳓** न **आ᳓गात्** ।  
+प्राणापाना᳓भ्यां ब᳓लम् **आभ᳓रन्ती**  
+प्रिया᳓ देवा᳓नाँ सुभ᳓गा मे᳓खलेय᳓म् ।
+</div>  
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/10_Rtasya_goptrI.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ६. कृष्णाजिनधारणमन्त्रः = 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/11_mitrasya_chaxurdharuNam.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/11_mitrasya_chaxurdharuNam.md" unfilled newLevelForH1="5" includeTitle="false">
+मित्र᳓स्य च᳓क्षुर्, [[ध᳓रुणं|धरु᳓णं]] ब᳓लीयस्  
+ते᳓जो यशस्वि᳓ स्थ᳓विरँ स᳓मिद्धम् ।  
+अनाहनस्यं᳓+++(=अधूर्तयोग्यं)+++ व᳓सनञ् जरिष्णु᳓  
+प᳓रीदं᳓ वाज्य्+++(=अन्नवत्)+++ अ᳓जि᳓नन् **दधे** ऽह᳓म् ॥ (२)
+</div>  
 
 ७. पालाशदण्डधारणमन्त्रः = 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/01_sushravassushravasam_mA.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/01_sushravassushravasam_mA.md" unfilled newLevelForH1="5" includeTitle="false">
+सु᳓श्रवस् +++(पलाश! ~~सुश्र᳓वस्~~)+++ सुश्र᳓वसं मा कुरु।+++(५)+++  
+य᳓था त्वँ᳓ [[सुश्रवस्|सु᳓श्रवस्]] +++(~~सुश्र᳓वस्~~)+++ सुश्र᳓वा अस्य्,  
+एव᳓म् अहँ᳓ [[सुश्रवस्|सु᳓श्रवस्]] +++(~~सुश्र᳓वस्~~)+++ सुश्र᳓वा भूयासम्॥  
+य᳓था त्वँ᳓ [[सुश्रवस्|सु᳓श्रवस्]] +++(~~सुश्र᳓वस्~~)+++! सुश्रवो +++(~~सुश्र᳓वो~~)+++! देवा᳓नां निधिगोपो᳙ ऽस्य्,  
+एव᳓म् अहं᳓ ब्राह्मणा᳓नां ब्र᳓ह्मणो निधि-गोपो᳓ भूयासम् ।+++(५)+++
+</div>  
 
 
 [[253]]

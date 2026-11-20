@@ -228,13 +228,11 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/04_antardadhe_parvatairantarmahyA.md">
-
 अन्त᳓र् दधे प᳓र्वतैर्  
-अन्त᳓र् म᳓ह्या पृथिव्या᳓ ।  
+अन्त᳓र् [[म᳓ह्या|मह्या᳓]] पृथिव्या᳓ ।  
 आभि᳓र् दिग्भि᳓र् अनन्ता᳓भिर्  
 अन्त᳓र् अन्यं᳓ पितामहा᳓द् दधे  
 ऽमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा ।
-
 </div>
 
 ###### प्रपितामहाय
@@ -259,13 +257,11 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 ###### अन्येभ्यः
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/07_ye_cheha.md">
-
-ये᳓ चेह᳓ पित᳓रो ये᳓ च ने᳓ह  
-याँ᳓श् च विद्म᳓ याँ᳓ उ च न᳓ प्र विद्म᳓ ।  
-अ᳓ग्ने ता᳓न् वे᳓त्थ  
-य᳓दि ते᳓ जातवेदस् त᳓या+++(→स्वधया)+++ प्रत्तँ᳓+++(→प्रत्तया = प्रदत्तया)+++ स्वध᳓या मदन्तु  
-स्वा᳓हा ।  
-
+ये᳓ चेह᳓ पित᳓रो ये᳓ च [[ने᳓ह|ने᳓ह᳓]]  
+याँ᳓श् च विद्म᳓ याँ᳓ उ च न᳓ [[प्र|प्र᳓]] विद्म᳓ ।  
+अ᳓ग्ने ता᳓न् वेत्थ  
+य᳓दि ते᳓ जातवेदस् त᳓या+++(→स्वधया)+++ [[प्रत्तँ᳓|प्र᳓त्तँ]]+++(→प्रत्तया = प्रदत्तया)+++ स्वध᳓या मदन्तु  
+स्वा᳓हा ।
 </div>
 
 </div>
@@ -528,11 +524,10 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 सर्वमुत्तरैरभिमृशेत् ६  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/16_eSha_te.md">
-
 एष᳓ ते तत +++(स्वधासमुद्रः)+++  
 म᳓धुमाँ ऊर्मि᳓स् स᳓रस्वान्।  
 या᳓वान् अग्नि᳓श् च पृथिवी᳓ च  
-ता᳓वत्य् अस्य मा᳓त्रा+++(~~मात्रा᳓~~)+++।  
+ता᳓वत्य् अस्य [[मा᳓त्रा|मात्रा᳓]]+++(~~मात्रा᳓~~)+++।  
 ता᳓वतीन् त एतां᳓ मा᳓त्रान् ददामि।  
 य᳓था ऽग्नि᳓र् अ᳓क्षितो᳓ ऽनुपदस्त+++(=उपक्षयरहितः)+++,  
 एवं᳓ म᳓ह्यं+++(→मम)+++ पित्रे᳓ ऽक्षितो᳓ ऽनुपदस्तः स्वधा᳓ भव
@@ -540,7 +535,7 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 एष᳓ ते पितामह +++(स्वधासमुद्रः)+++ म᳓धुमाँ ऊर्मि᳓स् स᳓रस्वान्।  
 या᳓वान् वायु᳓श् चान्त᳓रिक्षञ् च  
-ता᳓वत्य् अस्य मा᳓त्रा+++(~~मात्रा᳓~~)+++।  
+ता᳓वत्य् अस्य [[मा᳓त्रा|मात्रा᳓]]+++(~~मात्रा᳓~~)+++।  
 ता᳓वतीन् त एतां᳓ मा᳓त्रान् ददामि।  
 य᳓था वायु᳓र् अ᳓क्षितो᳓ ऽनुपदस्त+++(=उपक्षयरहितः)+++,  
 एवं᳓ म᳓ह्यं+++(→मम)+++ पितामहा᳓या᳓क्षितो᳓ऽनुपदस्तः स्वधा᳓ भव।  
@@ -548,12 +543,11 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 एष᳓ ते प्रपितामह +++(स्वधासमुद्रः)+++ म᳓धुमाँ ऊर्मि᳓स् स᳓रस्वान्।  
 या᳓वान् आदित्य᳓श् च द्यौ᳓श् च  
-ता᳓वत्यस्य मा᳓त्रा+++(~~मात्रा᳓~~)+++।  
+ता᳓वत्यस्य [[मा᳓त्रा|मात्रा᳓]]+++(~~मात्रा᳓~~)+++।  
 ता᳓वतीन् त एतां᳓ मा᳓त्रान् ददामि।  
 य᳓था ऽऽदित्यो᳓ ऽक्षितो᳓ ऽनुपदस्त+++(=उपक्षयरहितः)+++,  
 एवं᳓ म᳓ह्यं प्रपितामहा᳓या᳓ऽक्षितो᳓ऽनुपदस्तः स्वधा᳓ भव।  
 तां᳓ त्वँ᳓ स्वधां᳓ तै᳓स् सहो᳓पजीव, य᳓जूँषि ते महिमा᳓ ॥ (19)
-
 </div>
 
 </div>
@@ -836,17 +830,13 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 उत्तरैरुपस्थाय  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/20_ye_cha_votra.md">
-
 ये᳓ च वो᳓ +++(पितरः)+++ ऽत्र,  
-ये᳓ चास्मा᳓स्व् आ᳓शँसन्ते+++(→प्रार्थयन्ते स्वधाम्)+++
-
+ये᳓ चास्मा᳓स्व् [[आ᳓शँसन्ते|आशँ᳓सन्ते]]+++(→प्रार्थयन्ते स्वधाम्)+++
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/21_yAsh_cha_votra.md">
-
 या᳓श् च वो᳓ ऽत्र  
-या᳓श् चास्मा᳓स्व् आ᳓शँसन्ते,
-
+या᳓श् चास्मा᳓स्व् [[आ᳓शँसन्ते|आशँ᳓सन्ते]],
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/22_te_cha_vahantAm.md">
@@ -862,21 +852,15 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/24_tRpyantu_bhavantaH.md">
-
-तृ᳓प्यन्तु भवन्तः,
-
+तृ᳓प्यन्तु [[भवन्तः|भ᳓वन्तः]],
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/25_tRpyantu_bhavatyaH.md">
-
-तृ᳓प्यन्तु भवत्यः।
-
+तृ᳓प्यन्तु [[भवत्यः|भवत्यः᳓]]।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/26_tRpyata_tRpyata.md">
-
-तृ᳓प्यत तृ᳓प्यत तृ᳓प्यत ।
-
+तृ᳓प्यत [[तृ᳓प्यत|तृप्यत]] [[तृ᳓प्यत|तृप्यत]] ।
 </div>
 
 ##### उभयान् पिण्डान् परिषिञ्चति  
@@ -892,9 +876,7 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/28_tRpyata_tRpyata.md">
-
-तृ᳓प्यत तृ᳓प्यत तृ᳓प्यत ।
-
+तृ᳓प्यत [[तृ᳓प्यत|तृप्यत]] [[तृ᳓प्यत|तृप्यत]] ।
 </div>
 
 #### शेष-प्राशनम्  

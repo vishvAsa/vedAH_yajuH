@@ -81,10 +81,11 @@ ___________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_10/01_trayyai_vidyAyai.md">
 <details open><summary><h2>०१ त्रय्यै विद्यायै ...{Loading}...</h2></summary>
 
-+++(गोमधुपर्कार्हो वेदाध्यायीति-)+++ त्र॒य्यै वि॒द्यायै॒ यशो॑ऽसि।  
-यश॑सो॒ यशो॑सि।  
-ब्रह्म॑णो॒ दीप्ति॑रसि ।  
-तं मा॑ प्रि॒यं प्र॒जानां॑ कु॒र्व्, अधि॑पतिं पशू॒नाम् ।  
++++(गोमधुपर्कार्हो वेदाध्यायीति-)+++ त्रय्यै᳓ विद्या᳓यै य᳓शोऽसि।  
+[[य᳓शसो|यश᳓सो]] य᳓शोसि।  
+ब्र᳓ह्मणो दी᳓प्तिर् असि ।  
+तं᳓ मा प्रियं᳓ प्रजा᳓नां  
+कुर्व्, अ᳓धिपतिं पशूना᳓म् ।  
 </details>
 </div>
 
@@ -115,7 +116,7 @@ ___________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_10/04_amRtApidhAnamasi.md">
 <details open><summary><h2>०४ अमृतापिधानमसि ...{Loading}...</h2></summary>
 
-अ॒मृ॒ता॒ऽपि॒धा॒नम॑सि ।  
+[[अमृतापिधान᳓म्|अमृतापिधा᳓नम्]] असि ।  
 </details>
 </div>
 
@@ -123,9 +124,11 @@ ___________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_10/05_yanmadhuno_madhavyam.md">
 <details open><summary><h2>०५ यन्मधुनो मधव्यम् ...{Loading}...</h2></summary>
 
-यन् मधु॑नो मध॒व्यं॑ पर॒मम् अ॒न्नाद्यं॑ वी॒र्य॑म्,  
-तेना॒हं मधु॑नो मध॒व्ये॑न पर॒मेणा॒न्नाद्ये॑न वी॒र्ये॑ण  
-पर॒मो॑ऽन्ना॒दो म॑ध॒व्यो॑ ऽसानि ।  
+य᳓न् म᳓धुनो मधव्यं᳙  
+परम᳓म् अन्ना᳓द्यं वीर्य᳙म्,  
+ते᳓नाहं᳓ म᳓धुनो मधव्ये᳙न  
+परमे᳓णान्ना᳓द्येन वीर्ये᳙ण  
+परमो᳙ऽन्नादो᳓ [[मधव्यो᳙|म᳓ध᳓व्यो᳙]] ऽसानि ।  
 </details>
 </div>
 
@@ -154,9 +157,10 @@ ___________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_10/08_yajno_varddhatAm.md">
 <details open><summary><h2>०८ यज्ञो वर्द्धताम् ...{Loading}...</h2></summary>
 
-य॒ज्ञो व॑र्द्धताम्।  
-य॒ज्ञस्य॒ वृद्धि॒म् अनु॑ व॒र्द्ध+++(स्व)+++।  
-अप॑चितिर॒स्य्, अप॑चितं मा कु॒रु। अप॑चितो॒हं म॑नु॒ष्ये॑षु भूयासम् ।  
+यज्ञो᳓ वर्धताम्।  
+यज्ञ᳓स्य वृ᳓द्धिम् अ᳓नु **वर्ध**+++(स्व)+++।  
+अ᳓पचितिर् अस्य्, अ᳓पचितं [[मा|मा᳓]] कुरु।  
+अ᳓पचितो ऽहं᳓ मनुष्ये᳙षु भूयासम् ।  
 </details>
 </div>
 
@@ -168,10 +172,8 @@ ___________________
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_10/10_praNuvocha~nchikituShe_janAya.md">
-
-प्र᳓ णु **वो᳓चञ्** चिकितु᳓षे+++(=जानते)+++ ज᳓नाय -  
-**मा᳓ गा᳓म्** अ᳓नागाम्+++(=अनागसं)+++ अ᳓दितिं **वधिष्ट** ।  
-
+प्र᳓ [[णु|णु᳓]] **[[वो᳓चञ्|वोचञ्]]** चिकितु᳓षे+++(=जानते)+++ ज᳓नाय -  
+**[[मा᳓|मा]] गा᳓म्** अ᳓नागाम्+++(=अनागसं)+++ अ᳓दितिं **वधिष्ट** ।
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_10/11_pibatUdakaM_tRuNAnyattu.md">
@@ -204,8 +206,6 @@ ___________________
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_10/15_tanma_UrjaMdhAH.md">
-
 त᳓न् म ऊ᳓र्जं धाः ।  
-ओं᳓ क᳓ल्पयत +++(परिचारकाः)+++ ॥ (10)
-
+ओं᳓ [[क᳓ल्पयत|कल्प᳓यत]] +++(परिचारकाः)+++ ॥ (10)
 </div>

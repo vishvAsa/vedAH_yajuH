@@ -33,11 +33,9 @@ unicode_script: devanagari
 उत्तरया दक्षिणस्याम् ईशानम् आवाहयति १  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/10_A_tvA.md">
-
-आ त्वा॑ वहन्तु॒ हर॑य॒स्+++(=हरितवर्णाश्वाः)+++ सचे॑तसश्  
-श्वे॒तैर् अश्वै॑स् स॒ह के॑तु॒मद्भिः॑ ।  
-वाता॑जिरै॒र्+++(=वातगतिभिः)+++ मम॑ ह॒व्याय॑ शर्व+++(←शॄ हिंसायाम्)+++ ।  
-
+आ᳓ त्वा वहन्तु ह᳓रयस्+++(=हरितवर्णाश्वाः)+++ स᳓चेतसश्  
+श्वेतै᳓र् अ᳓श्वैस् सह᳓ [[केतुम᳓द्भिः|केतु᳓मद्भिः᳓]] ।  
+वा᳓ताजिरैर्+++(=वातगतिभिः)+++ म᳓म हव्या᳓य शर्व+++(←शॄ हिंसायाम्)+++ ।
 </div>
 </div>
 
@@ -75,9 +73,7 @@ unicode_script: devanagari
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/13_jayanta_upaspRsha.md">
-
-जयन्त᳓ **+उपस्पृश** जयन्ता᳓य+++(=स्कन्दाय)+++ स्वा᳓हा ।  
-
+[[जयन्त᳓|ज᳓यन्त]] **+उपस्पृश** जयन्ता᳓य+++(=स्कन्दाय)+++ स्वा᳓हा ।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/14_bhavAya_devAya.md">
@@ -206,16 +202,12 @@ unicode_script: devanagari
 देवसेनाभ्यो दशोत्तराभ्यः ५
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/33_gRhapopaspRsha_gRhapAya.md">
-
 (उत्तरस्याम्)  
-गृहपो᳓पस्पृश। गृहपा᳓य स्वा᳓हा ।  
-
+[[गृहपो᳓पस्पृश|गृ᳓हपो᳓पस्पृश]]। गृहपा᳓य स्वा᳓हा ।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/34_gRhapyupaspRsha_gRhapyai.md">
-
-गृहप्य् उ᳓पस्पृश। गृहप्यै᳓ स्वा᳓हा ।
-
+[[गृहप्य्|गृ᳓हप्य्]] उ᳓पस्पृश। गृहप्यै᳓ स्वा᳓हा ।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/35_ghoShiNa_upaspRshata.md">
@@ -274,15 +266,11 @@ unicode_script: devanagari
 पूर्ववद् उत्तरैः ६  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/42_dvArApopaspRsha_dvArApAya.md">
-
-द्वारापो᳓पस्पृश। द्वारापा᳓य स्वा᳓हा ।    
-
+[[द्वारापो᳓पस्पृश|द्वा᳓रापो᳓पस्पृश]]। द्वारापा᳓य स्वा᳓हा ।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/43_dvArApyupaspRsha_dvArApyai.md">
-
-द्वाराप्य् उ᳓पस्पृश द्वाराप्यै᳓ स्वा᳓हा ।  
-
+[[द्वाराप्य्|द्वा᳓राप्य्]] उ᳓पस्पृश द्वाराप्यै᳓ स्वा᳓हा ।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/44_anvAsAriNa_upaspRshata.md">
@@ -351,11 +339,9 @@ unicode_script: devanagari
 ईशानवद् आवाहनम् १३  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/10_A_tvA.md">
-
-आ त्वा॑ वहन्तु॒ हर॑य॒स्+++(=हरितवर्णाश्वाः)+++ सचे॑तसश्  
-श्वे॒तैर् अश्वै॑स् स॒ह के॑तु॒मद्भिः॑ ।  
-वाता॑जिरै॒र्+++(=वातगतिभिः)+++ मम॑ ह॒व्याय॑ शर्व+++(←शॄ हिंसायाम्)+++ ।  
-
+आ᳓ त्वा वहन्तु ह᳓रयस्+++(=हरितवर्णाश्वाः)+++ स᳓चेतसश्  
+श्वेतै᳓र् अ᳓श्वैस् सह᳓ [[केतुम᳓द्भिः|केतु᳓मद्भिः᳓]] ।  
+वा᳓ताजिरैर्+++(=वातगतिभिः)+++ म᳓म हव्या᳓य शर्व+++(←शॄ हिंसायाम्)+++ ।
 </div>
 </div>
 

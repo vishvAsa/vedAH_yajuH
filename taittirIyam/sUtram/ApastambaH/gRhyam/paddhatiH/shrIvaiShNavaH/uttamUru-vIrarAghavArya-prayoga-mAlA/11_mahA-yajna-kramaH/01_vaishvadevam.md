@@ -43,7 +43,7 @@ title = "०१ वैश्वदेवम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/03_saras-vate-nu_manyasva.md">
 <details open><summary><h2>०३ सरस्-वतेऽनु मन्यस्व ...{Loading}...</h2></summary>
 
-सर॑स्-वते+++(छान्दसो गुणः)+++ ऽनु॑ मन्यस्व। +++(इति उत्तरतः प्राचीनम्)+++
+स᳓रस्-वते᳓+++(→छान्दसो गुणः)+++ ऽनु मन्यस्व। +++(इति उत्तरतः प्राचीनम्)+++
 
 </details>
 </div>
@@ -90,7 +90,7 @@ title = "०१ वैश्वदेवम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/17_yadejati_jagati.md">
 <details open><summary><h2>१७ यदेजति जगति ...{Loading}...</h2></summary>
 
-य᳓द् ए᳓जति᳓+++(=कम्पते)+++ ज᳓गति यच् च चे᳓ष्टति᳓, ना᳓म्नो भागो᳓ ऽयं᳓, ना᳓म्ने स्वा᳓हा। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++
+य᳓द् [[ए᳓जति᳓|ए᳓जति]]+++(=कम्पते)+++ ज᳓गति [[यच्|य᳓च्]] च [[चे᳓ष्टति᳓|चे᳓ष्टति]], ना᳓म्नो भागो᳓ ऽयं᳓, ना᳓म्ने स्वा᳓हा। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++
 </details>
 </div>
 
@@ -148,7 +148,7 @@ title = "०१ वैश्वदेवम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/17_yadejati_jagati.md">
 <details open><summary><h2>१७ यदेजति जगति ...{Loading}...</h2></summary>
 
-य᳓द् ए᳓जति᳓+++(=कम्पते)+++ ज᳓गति यच् च चे᳓ष्टति᳓, ना᳓म्नो भागो᳓ ऽयं᳓, ना᳓म्ने स्वा᳓हा। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++
+य᳓द् [[ए᳓जति᳓|ए᳓जति]]+++(=कम्पते)+++ ज᳓गति [[यच्|य᳓च्]] च [[चे᳓ष्टति᳓|चे᳓ष्टति]], ना᳓म्नो भागो᳓ ऽयं᳓, ना᳓म्ने स्वा᳓हा। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++
 </details>
 </div>
 
@@ -173,10 +173,10 @@ title = "०१ वैश्वदेवम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/21_ye_bhUtAH.md">
 <details open><summary><h2>२१ ये भूताः ...{Loading}...</h2></summary>
 
-ये᳓ भूताः᳓ प्रच᳓रन्ति दिवा /न᳓क्तं    
-ब᳓लिम् इच्छ᳓न्तो वितु᳓दस्य प्रे᳓ष्याः ।  
-ते᳓भ्यो बलिं᳓ पुष्टिका᳓मो हरामि  
-म᳓यि पु᳓ष्टिं पु᳓ष्टिपतिर् दधातु स्वा᳓हा॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++
+ये᳓ भूताः᳓ प्रच᳓रन्ति [[दिवा|दि᳓वा]] /न᳓क्तं    
+[[ब᳓लिम्|बलि᳓म्]] इच्छ᳓न्तो वितु᳓दस्य प्रे᳓ष्याः ।  
+ते᳓भ्यो बलिं᳓ [[पुष्टिका᳓मो|पु᳓ष्टिकामो]] हरामि  
+म᳓यि पु᳓ष्टिं [[पु᳓ष्टिपतिर्|पुष्टिप᳓तिर्]] दधातु स्वा᳓हा॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++
 </details>
 </div>
 

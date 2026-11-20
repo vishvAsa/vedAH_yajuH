@@ -19,10 +19,10 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_16/02_uttAnaparNe_subhage.md">
 <details open><summary><h2>०२ उत्तानपर्णे सुभगे ...{Loading}...</h2></summary>
 
-उ॒त्ता॒नप॑र्णे॒ सुभ॑गे॒  
-सह॑माने॒ सह॑स्वति ।  
-स॒पत्नीं॑ मे॒ परा॑धम॒  
-पतिं॑ मे॒ केव॑लं कृधि ।
+[[उत्तान᳓पर्णे|उ᳓त्तानपर्णे]] [[सु᳓भगे|सुभगे]]  
+स᳓हमाने स᳓हस्वति ।  
+सप᳓त्नीं मे **प᳓राधम**  
+प᳓तिं मे के᳓वलं **कृधि** ।
 
 </details>
 </div>
@@ -39,10 +39,10 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_16/04_na_hyasyai.md">
 <details open><summary><h2>०४ न ह्यस्यै ...{Loading}...</h2></summary>
 
-न ह्य॑स्यै॒ नाम॑ गृभ्णामि॒  
-+++(यतः)+++ नो अ॒स्मिन् र॑मते॒ जने॑ ।  
-परा॑म् ए॒व प॑रा॒वतँ॑+++(=दूरम्)+++  
-स॒पत्नीं॑ नाशयामसि ।  
+**न᳓** ह्य् अ᳙स्यै ना᳓म **[[गृभ्णामि|गृ᳓भ्णामि]]**  
++++(यतः)+++ **नो᳓** अस्मि᳓न् **रमते** ज᳓ने ।  
+प᳓राम् एव᳓ पराव᳓तँ+++(=दूरम्)+++  
+सप᳓त्नीं **नाशयामसि** ।  
 
 </details>
 </div>
