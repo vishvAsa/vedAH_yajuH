@@ -120,9 +120,9 @@ Salutation to the fire, full of the water
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- न᳓मः (*TS*, *RV*, *TB*, *AV*)
-- अग्न᳓ये (*TS*, *RV*, *TB*, *TK*)
-- अप्सुम᳓ते (आरण्यक-पाठः (अनाम्नातम्))
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *ŚB*-35, *VS*-177/181)
+- अग्न᳓ये (*TS*-128/1195, *RV*-47/856, *TB*-30/310, *TK*-12/30, *AV*-16/419, *ŚB*-19/111, *VS*-12/36)
+- अप्सुम᳓ते (ह्रस्वनुड्भ्यां मतुप् पा॰ ६.१.१७६)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -160,9 +160,9 @@ salutation to Varuna
 नमो॒ वरु॑णाय,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः (स्वराः पूर्याः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः (स्वराः व्यत्यस्ताः 2/2)</summary>
 
-नमो वारुण्यै,
+न᳓मो वारुण्यै᳓,
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -173,6 +173,12 @@ salutation to Varuni (the wife of Varuna)
 <details><summary>मूलम्</summary>
 
 नमो वारुण्यै॑,
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - 2/2 व्यत्यस्त-स्वराः)</summary>
+
+- न᳓मः᳓ → **न᳓मः** (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *ŚB*-35, *VS*-177/181)
+- वा᳓रु᳓ण्यै → **वारुण्यै᳓** (*ŚB*-2, *TS*-5/10, *TB*-2 वारुणी᳓)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
@@ -192,8 +198,8 @@ salutation to the waters.
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- न᳓मः (*TS*, *RV*, *TB*, *AV*)
-- अद्भ्यः᳓ (*TS*, *TB*)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *ŚB*-35, *VS*-177/181)
+- अद्भ्यः᳓ (*TS*-20/319, *RV*-12/532, *TB*-8/86, *AV*-5/324, *ŚB*-0/116, *VS*-2/26)
 </details>
 
 <details><summary>सायण-टीका</summary>
