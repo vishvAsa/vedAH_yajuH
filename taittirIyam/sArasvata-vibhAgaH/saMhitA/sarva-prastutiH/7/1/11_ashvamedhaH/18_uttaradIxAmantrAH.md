@@ -1,7 +1,7 @@
 +++
 title = "१८ (क्रतु)उत्तरदीक्षामन्त्राः"
 +++
-## विनियोगः
+___________________
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -407,7 +407,7 @@ Aditi, who giveth good protection and good guidance.
 
 </div>  
 
-## विनियोगः
+___________________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पत्स्व् आहुतयः।

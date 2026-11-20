@@ -6,7 +6,7 @@ title = "१२ अश्वनामवाचनाद्यङ्गमन्�
 
 विश्वेदेवा ऋषयः
 
-## विनियोगः
+___________________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अश्वस्य दक्षिणे कर्णे यजमानम् अश्वनामानि वाचयति।
@@ -129,7 +129,7 @@ do thou follow the course of the Adityas.
 आदित्यानां यत्पत्व पतनं तदनुगच्छ शीघ्रं गच्छेति यावत् । यद्वा - आदित्यानां यत्पत्व मार्गः व्योम तदनु गच्छ 'उर्वन्तरिक्षमन्विहि' इति यावत् । पतेरौणादिको वनिप् ॥
 </details>
 
-## विनियोगः
+___________________
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -248,7 +248,7 @@ Hail to all the deities!
 स्वाहा॑ । सर्वा॑भ्यः । दे॒वता॑भ्यः ।
 </details>
 
-## विनियोगः
+___________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -357,7 +357,7 @@ Here is delight, hail!'
 
 </div>  
 
-## विनियोगः
+___________________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
