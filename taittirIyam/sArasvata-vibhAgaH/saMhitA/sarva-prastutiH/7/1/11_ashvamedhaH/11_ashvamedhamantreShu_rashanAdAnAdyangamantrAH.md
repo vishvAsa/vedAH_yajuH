@@ -126,140 +126,45 @@ In the Saman of order declaring the stream.
 
 </div>
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/03_abhidhA-asi_bhuvanamasi.md">
-
-## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-अश्वमभिदधाति।
+3तया अश्वमभिदधाति - अभिधा असीति ॥ 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभिधा᳓ असि ।
-</details>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-<details><summary>Keith</summary>
-
-Thou art surrounding;
-</details>
-
-<details><summary>मूलम्</summary>
-
-अ॒भि॒धा अ॑सि ।
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-अ॒भि॒धा इत्य॑भि-धाः । अ॒सि॒ ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-3तया अश्वमभिदधाति - अभिधा असीति ॥ अभिपूर्वो दधातिः बन्धने वर्तते, कर्मणि क्विप् । बन्धनीयस्त्वमसि ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-भु᳓वनम् असि ।
-</details>
-
-<details><summary>Keith</summary>
-
-thou art the world;
-</details>
-
-<details><summary>मूलम्</summary>
-
-भुव॑नमसि ।
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-भुव॑नम् । अ॒सि॒ ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-अत एव सर्वं भुवनं सर्वं भूतजातं च त्वमसि । यज्ञसाधनत्वेन सर्वेषां धारकत्वात् ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-यन्ता᳓सि ।
-</details>
-
-<details><summary>Keith</summary>
-
-thou art the restrainer;
-</details>
-
-<details><summary>मूलम्</summary>
-
-य॒न्तासि॑ ।
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-य॒न्ता । अ॒सि॒ ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-यन्ता यमयिता चासि सर्वस्य ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-धर्ता᳓सि ।
-</details>
-
-<details><summary>Keith</summary>
-
-thou art the supporter;
-</details>
-
-<details><summary>मूलम्</summary>
-
-ध॒र्तासि॑ ।
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-ध॒र्ता । अ॒सि॒ ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-अत एव धर्ता धारयिता चासि लोकस्य ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+अभिधा᳓ असि भु᳓वनम् असि यन्ता᳓सि धर्ता᳓सि ।
 सो᳓ ऽग्निव्ँ᳓ वैश्वानरँ᳓ सप्र᳓थसङ् गच्छ स्वा᳓हाकृतः ।
 </details>
 
 <details><summary>Keith</summary>
 
-do thou go, with the cry of 'Hail!' to Agni Vaiśvanara, the extending.
+Thou art surrounding; thou art the world; thou art the restrainer; thou art the supporter; do thou go, with the cry of 'Hail!' to Agni Vaiśvanara, the extending.
 </details>
 
 <details><summary>मूलम्</summary>
 
+अ॒भि॒धा अ॑सि भुव॑नमसि य॒न्तासि॑ ध॒र्तासि॑ ।  
 सो॑ऽग्निव्ँ वै॑श्वान॒रँ सप्र॑थसङ्गच्छ॒ स्वाहा॑कृतः ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
+अ॒भि॒धा इत्य॑भि-धाः । अ॒सि॒ । भुव॑नम् । अ॒सि॒ । य॒न्ता । अ॒सि॒ । ध॒र्ता । अ॒सि॒ ।  
 सः । अ॒ग्निम् । वै॒श्वा॒न॒रम् । सप्र॑थस॒मिति॒ स-प्र॒थ॒स॒म् । ग॒च्छ॒ । स्वाहा॑कृत॒ इति॒ स्वाहा॑-कृ॒तः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
+अभिपूर्वो दधातिः बन्धने वर्तते, कर्मणि क्विप् । बन्धनीयस्त्वमसि ।  
+अत एव सर्वं भुवनं सर्वं भूतजातं च त्वमसि । यज्ञसाधनत्वेन सर्वेषां धारकत्वात् ।
+यन्ता यमयिता चासि सर्वस्य ।
+अत एव धर्ता धारयिता चासि लोकस्य ।
+
 स त्वं वैश्वानरं विश्वेषां नराणां स्वामित्वेन संबन्धिनं सप्रथसं प्रथसा विस्तरेण सहितं विश्वव्यापिनं अग्निं गच्छ । 'इयं वा अग्निर्वैश्वानरः' । स्वाहाकृतः स्वाहाकारेण संस्कृतः स्वाहाकारोच्चारणेन संस्कृतः । ब्राह्मणं च 'स्वाहाकृत इत्याह । होम एवास्यैषः ।' इति । स्वाहाशब्दस्योर्यादित्वेन गतित्वात् 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । निपाता आद्युदात्ताः ।
 </details>
 
-</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
