@@ -1,6 +1,5 @@
 +++
 title = "१६ हिरण्यवर्णाश्शुचयः पावकाः"
-
 +++
 <details><summary>मूलम्</summary>
 
@@ -32,7 +31,35 @@ title = "१६ हिरण्यवर्णाश्शुचयः पाव
 - भवन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
+<details open><summary><h5>03 हिरण्यवर्णाश् शुचयᳶ ...{Loading}...</h5></summary>
+<details><summary>Keith</summary>
+
+Golden of colour, pure, purifying,  
+In which was born Kaśyapa, in which Indra,  
+They have conceived Agni as a germ, of varied forms; May these waters be gentle and kindly to us.
+</details>
+
+<details><summary>मूलम्</summary>
+
+हिर॑ण्यवर्णा॒श् शुच॑यᳶ पाव॒का, यासु॑ जा॒तᳵ क॒श्यपो॒, यास्विन्द्रः॑ ।
+
+अ॒ग्निय्ँ या गर्भ॑न् दधि॒रे, विरू॑पा॒स् - ता न॒ आप॒श्शँ स्यो॒ना भ॑वन्तु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+हिर॑ण्यवर्णा॒ इति॒ हिर॑ण्य-व॒र्णाः॒ । शुच॑यः । पा॒व॒काः । यासु॑ । जा॒तः । क॒श्यपः॑ । यासु॑ । इन्द्रः॑ ॥ अ॒ग्निम् । याः । गर्भ॑म् । द॒धि॒रे । विरू॑पा॒ इति॒ वि-रू॒पाः॒ । ताः । नः॒ । आपः॑ । शम् । स्यो॒नाः । भ॒व॒न्तु॒ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्रथमा त्रिष्टुप् । हिरण्यवर्णाः हितरमणीयवर्णाः, हिरण्यसदृशवर्णा वा स्वच्छत्वात् । शुचयश्शुद्धाः । पावकाः शोधयित्र्यः । 'पावकादीनां छन्दसि' इतीत्वाभावः । यासु जातः कश्यपः प्रजापतिः 'तद्दशहोताऽन्वसृज्यत । प्रजापतिर्वै दशहोता' इति । यासु चेन्द्रोजातः मध्यमो विद्युदात्मा, याश्चाग्निं गर्भं दधिरे धारयन्ति, यथा 'अग्ने गर्भो अपामसि' इति । ता आपः विरूपाः नः अस्माकं शान्तिहेतवः स्योनास्सुखहेतवश्च भवन्तु ॥
+</details>
+
 <details><summary>हरदत्तः</summary>
 
 हिरण्यवर्णाश्शुच इति ॥ गताः । यदप्यगतं तदपि स्पष्टम् । इन्द्रः । पर्जन्यः तस्य मेधेष्वाविर्भावात् अप्सुजातत्वम् ॥
 </details>
+</details>
+</div>

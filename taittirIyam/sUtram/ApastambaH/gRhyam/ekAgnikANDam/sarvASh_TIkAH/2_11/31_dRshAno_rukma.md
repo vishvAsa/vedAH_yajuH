@@ -1,6 +1,5 @@
 +++
 title = "३१ दृशानो रुक्म"
-
 +++
 <details><summary>मूलम्</summary>
 

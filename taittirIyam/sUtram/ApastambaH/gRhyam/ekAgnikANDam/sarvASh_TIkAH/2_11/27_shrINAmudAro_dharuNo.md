@@ -1,6 +1,5 @@
 +++
 title = "२७ श्रीणामुदारो धरुणो"
-
 +++
 <details><summary>मूलम्</summary>
 

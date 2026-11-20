@@ -1,6 +1,5 @@
 +++
 title = "०२ प्रातर्जितम् भगमुग्रम्"
-
 +++
 <details><summary>मूलम्</summary>
 

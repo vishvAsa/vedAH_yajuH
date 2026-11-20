@@ -1,6 +1,5 @@
 +++
 title = "२५ उशिक्पावको अरतिस्सुमेधा"
-
 +++
 <details><summary>मूलम्</summary>
 

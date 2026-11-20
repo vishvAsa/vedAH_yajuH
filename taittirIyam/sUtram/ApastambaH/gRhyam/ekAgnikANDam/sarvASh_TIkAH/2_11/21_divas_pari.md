@@ -1,6 +1,5 @@
 +++
 title = "२१ दिवस् परि"
-
 +++
 <details><summary>मूलम्</summary>
 

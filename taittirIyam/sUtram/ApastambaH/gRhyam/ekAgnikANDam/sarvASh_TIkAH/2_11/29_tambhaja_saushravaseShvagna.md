@@ -1,6 +1,5 @@
 +++
 title = "२९ तम्भज सौश्रवसेष्वग्न"
-
 +++
 <details><summary>मूलम्</summary>
 

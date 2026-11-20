@@ -1,6 +1,5 @@
 +++
 title = "०५ यस्त्वा हृदा"
-
 +++
 <details><summary>मूलम्</summary>
 

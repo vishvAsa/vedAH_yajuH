@@ -1,6 +1,5 @@
 +++
 title = "०२ अनृक्षरा ऋजवस्सन्तु"
-
 +++
 <details><summary>मूलम्</summary>
 

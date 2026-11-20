@@ -1,6 +1,5 @@
 +++
 title = "२२ विद्मा ते"
-
 +++
 <details><summary>मूलम्</summary>
 

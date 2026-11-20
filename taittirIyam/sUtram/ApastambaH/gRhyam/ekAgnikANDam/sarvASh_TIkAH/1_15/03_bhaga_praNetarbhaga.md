@@ -1,6 +1,5 @@
 +++
 title = "०३ भग प्रणेतर्भग"
-
 +++
 <details><summary>मूलम्</summary>
 

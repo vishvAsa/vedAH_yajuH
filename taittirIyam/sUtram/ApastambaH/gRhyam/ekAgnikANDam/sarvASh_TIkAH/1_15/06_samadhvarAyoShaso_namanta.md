@@ -1,6 +1,5 @@
 +++
 title = "०६ समध्वरायोषसो नमन्त"
-
 +++
 <details><summary>मूलम्</summary>
 

@@ -1,6 +1,5 @@
 +++
 title = "३० त्वामग्ने यजमाना"
-
 +++
 <details><summary>मूलम्</summary>
 

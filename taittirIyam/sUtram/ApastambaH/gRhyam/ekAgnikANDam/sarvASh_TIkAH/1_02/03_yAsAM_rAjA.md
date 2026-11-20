@@ -1,6 +1,5 @@
 +++
 title = "०३ यासां राजा"
-
 +++
 <details><summary>मूलम्</summary>
 
@@ -88,7 +87,3 @@ They in the midst whereof King Varuna moveth, viewing men's righteous and unrigh
 </details>
 </details>
 </div>
-<details><summary>हरदत्तः</summary>
-
-तृतीयः- यासां राजेति ॥ । स्षष्टोऽर्थः ।
-</details>
