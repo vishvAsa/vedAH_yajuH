@@ -35,7 +35,7 @@ title = "16 औपासने पचने वा"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/09_dhruvaxitaye_svAhA.md">
 <details open><summary><h2>०९ ध्रुवक्षितये स्वाहा ...{Loading}...</h2></summary>
 
-[[ध्रुव-क्षि᳓तये|ध्रुव᳓-क्षितये]]+++(←स्वरः??)+++ +++(खे)+++ स्वा᳓हा।  
+ध्रुव᳓-क्षितये +++(खे)+++ स्वा᳓हा।  
 +++(विवाहे ध्रुव-दर्शन-मन्त्रेऽप्य् अयम् प्रयोगः)+++  
 
 </details>
@@ -43,7 +43,7 @@ title = "16 औपासने पचने वा"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/10_achyutaxitaye_svAhA.md">
 <details open><summary><h2>१० अच्युतक्षितये स्वाहा ...{Loading}...</h2></summary>
 
-[[अच्युत-क्षि᳓तये|अ᳓च्युत-क्षितये]]+++(←स्वरः??)+++  स्वा᳓हा।  
+अ᳓च्युत-क्षितये स्वा᳓हा।  
 
 </details>
 </div>
