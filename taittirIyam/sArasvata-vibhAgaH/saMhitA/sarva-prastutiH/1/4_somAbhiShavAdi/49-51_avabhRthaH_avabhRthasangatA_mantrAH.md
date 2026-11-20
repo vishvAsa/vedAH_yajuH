@@ -1249,10 +1249,10 @@ Thou art fuel; may we prosper;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ए᳓धः (*TS*)
-- असि (तिङन्तम् अनुदात्तम्, पा० ८.१.२८)
-- एधिषीम᳓हि (तिङः परं तिङ् पा० ८.१.२८ — हरदत्तः)
-- स्वा᳓हा (*TS*)
+- ए᳓धः (*TS*-2, *RV*-1/2, *TB*-1, *AV*-2/3, *ŚB*-1)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- एधिषीम᳓हि (तिङः परं तिङ् पा॰ ८.१.२८ — हरदत्तः)
+- स्वा᳓हा (*TS*-875)
 </details>
 
 <details><summary>हरदत्तः</summary>
@@ -1283,14 +1283,13 @@ _______
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 समि᳓द् असि,  
-समेधिषीम᳓हि +++(अग्निं)+++ स्वा᳓हा ।  
+[[समेधिषीम᳓हि|स᳓मेधिषीमहि]] +++(अग्निं)+++ स्वा᳓हा ।  
 
 </details>
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/04_samidasi_samedhiShImahi.md">
-
 <details><summary>Keith</summary>
 
 thou art kindling; (may we prosper;)
@@ -1299,6 +1298,15 @@ thou art kindling; (may we prosper;)
 <details><summary>मूलम्</summary>
 
 स॒मिद॑सि समेधिषी॒महि॒ स्वाहा॑ ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - 2/5 व्यत्यस्त-स्वराः)</summary>
+
+- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *ŚB*-1, *VS*-1)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- सम् → **स᳓म्** (*TS*-13, *RV*-608)
+- एधिषीम᳓हि → **एधिषीमहि** (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- स्वा᳓हा (*TS*-875)
 </details>
 
 <details><summary>हरदत्तः</summary>
@@ -1310,7 +1318,6 @@ thou art kindling; (may we prosper;)
 
 समित्समिन्धनी सन्दीपनी त्वमग्नेरसि । 
 </details>
-
 </div>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/05_tejosi_tejo.md">
@@ -1361,14 +1368,13 @@ _______
 **अ᳓पो**+++(=कर्म)+++ अद्य᳓ +**अ᳓न्वचारिषँ**  
 +++(श्रद्धा)+++**र᳓सेन स᳓मसृक्ष्महि**+++(=संसृष्टो भवेयम्। समगन्महीति शाकले)+++ ।  
 प᳓यस्वाँ+++(→हविष्मान्)+++ अग्न आ᳓गमन्  
-तं᳓ मा सँ᳓सृज व᳓र्चसा स्वा᳓हा ।  
+तं᳓ [[मा|मा᳓]] सँ᳓सृज व᳓र्चसा स्वा᳓हा ।  
 
 </details>
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/06_apo_adyAnvachAriSham.md">
-
 <details><summary>Keith</summary>
 
 I have penetrated to the waters;  
@@ -1377,10 +1383,32 @@ I have come rich in milk, O Agni;
 Do thou unite me with radiance.
 </details>
 
+
 <details><summary>मूलम्</summary>
 
 अपो॑ अ॒द्यान्व॑चारिषँ॒ रसे॑न॒ सम॑सृक्ष्महि ।  
 पय॑स्वाँ अग्न॒ आग॑म॒न्तं मा॒ सँसृ॑ज॒ वर्च॑सा॒ स्वाहा॑ ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - 1/17 व्यत्यस्त-स्वराः)</summary>
+
+- अ᳓पः (*TS*-3/228, *RV*-16/313, *TB*-0/40, *AV*-3/213, *ŚB*-5/651, *VS*-0/14)
+- अद्य᳓ (*TS*-44, *RV*-215)
+- अ᳓नु (*TS*-471, *RV*-475)
+- अचारिषम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- र᳓सेन (*TS*-16, *RV*-4, *TB*-2, *AV*-9, *ŚB*-61, *VS*-3)
+- स᳓म् (*TS*-547)
+- असृक्ष्महि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- प᳓यस्वान् (*TS*-4, *RV*-1, *TB*-1, *AV*-11, *ŚB*-2)
+- अग्ने (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- आ᳓ (*TS*-1105)
+- अगमन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-140/1327, *AV*-432/3165, *ŚB*-1296/20457, *VS*-50/268)
+- मा → **मा᳓** (माङ् निषेधे उदात्तः, *TS*-205, *RV*-389)
+- स᳓म् (*TS*-547)
+- सृज (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *ŚB*-13/67, *VS*-8/33)
+- स्वा᳓हा (*TS*-875)
 </details>
 
 <details><summary>हरदत्तः</summary>
@@ -1394,7 +1422,6 @@ Do thou unite me with radiance.
 ___________
 व्याख्याता चेयं 'उरुं हि' इत्यत्र । अपः कर्माण्यनुक्रमेण करोमि । रसेन संसृष्टो भूयासम् । हे अग्ने पयस्वान् हविष्मान् त्वामागमं तम्मा वर्चसा बलेन संसृजेति ॥
 </details>
-
 </div>  
 
 इति चतुर्थे एकोनचत्वारिंशोनुवाकः॥
