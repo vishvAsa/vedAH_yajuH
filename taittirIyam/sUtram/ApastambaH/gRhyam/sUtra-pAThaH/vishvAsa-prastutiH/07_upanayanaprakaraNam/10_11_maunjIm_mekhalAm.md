@@ -9,10 +9,10 @@ title = "१० ११ मौञ्जीम् मेखलाम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/09_iyan_duruktAtparibAdhamAnA.md">
 <details open><summary><h2>०९ इयन् दुरुक्तात्परिबाधमाना ...{Loading}...</h2></summary>
 
-इ॒यं दुरु॑क्तात् **परि॒बाध॑माना॒**  
-शर्म॒ वरू॑थं+++(=वरणीयं)+++ **पुन॒ती** न॒ **आगा॑त्** ।  
-प्रा॒णा॒पा॒नाभ्यां॒ बल॑म् **आ॒भर॑न्ती**  
-प्रि॒या दे॒वानाँ॑ सु॒भगा॒ मेख॑ले॒यम् ।  
+इयं᳓ [[दु᳓रुक्तात्|दुरुक्ता᳓त्]] **परिबा᳓धमाना**  
+श᳓र्म व᳓रूथं+++(=वरणीयं)+++ **पुनती᳓** न **आ᳓गात्** ।  
+प्राणापाना᳓भ्यां ब᳓लम् **आभ᳓रन्ती**  
+प्रिया᳓ देवा᳓नाँ सुभ᳓गा मे᳓खलेय᳓म् ।  
 
 </details>
 </div>
@@ -35,10 +35,10 @@ title = "१० ११ मौञ्जीम् मेखलाम्"
 <div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/11_mitrasya_chaxurdharuNam.md">
 <details open><summary><h2>११ मित्रस्य चक्षुर्धरुणम् ...{Loading}...</h2></summary>
 
-मि॒त्रस्य॒ चक्षु॒र्, धरु॑णं॒ बली॑य॒स्  
-तेजो॑ यश॒स्वि स्थवि॑रँ॒ समि॑द्धम् ।  
-अ॒ना॒ह॒न॒स्यं+++(=अधूर्तयोग्यं)+++ वस॑नञ् जरि॒ष्णु  
-परी॒दं वा॒ज्य्+++(=अन्नवत्)+++ अजिन॑न् **दधे॒** ऽहम् ॥ (२)
+मित्र᳓स्य च᳓क्षुर्, [[ध᳓रुणं|धरु᳓णं]] ब᳓लीयस्  
+ते᳓जो यशस्वि᳓ स्थ᳓विरँ स᳓मिद्धम् ।  
+अनाहनस्यं᳓+++(=अधूर्तयोग्यं)+++ व᳓सनञ् जरिष्णु᳓  
+प᳓रीदं᳓ वाज्य्+++(=अन्नवत्)+++ अ᳓जि᳓नन् **दधे** ऽह᳓म् ॥ (२)
 
 </details>
 </div>

@@ -7,7 +7,7 @@ title = "१७ १३ परिषेचनान्तङ् कृत्व�
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/22_shivaM_shivam.md">
 <details open><summary><h2>२२ शिवं शिवम् ...{Loading}...</h2></summary>
 
-शि॒वँ॒ शि॒वम् ॥
+शिवँ᳓+++(~~शिवम्~~)+++, [[शिव᳓म्|शिवम्]] ॥
 
 </details>
 </div>

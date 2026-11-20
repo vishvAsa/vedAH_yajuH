@@ -18,7 +18,7 @@ title = "२० ०५ उत्तरेण"
 <details open><summary><h2>३३ गृहपोपस्पृश गृहपाय ...{Loading}...</h2></summary>
 
 (उत्तरस्याम्)  
-गृहपो᳓पस्पृश। गृहपा᳓य स्वा᳓हा ।  
+[[गृहपो᳓पस्पृश|गृ᳓हपो᳓पस्पृश]]। गृहपा᳓य स्वा᳓हा ।  
 
 </details>
 </div>
@@ -26,7 +26,7 @@ title = "२० ०५ उत्तरेण"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/34_gRhapyupaspRsha_gRhapyai.md">
 <details open><summary><h2>३४ गृहप्युपस्पृश गृहप्यै ...{Loading}...</h2></summary>
 
-गृहप्य् उ᳓पस्पृश। गृहप्यै᳓ स्वा᳓हा ।
+[[गृहप्य्|गृ᳓हप्य्]] उ᳓पस्पृश। गृहप्यै᳓ स्वा᳓हा ।
 
 </details>
 </div>

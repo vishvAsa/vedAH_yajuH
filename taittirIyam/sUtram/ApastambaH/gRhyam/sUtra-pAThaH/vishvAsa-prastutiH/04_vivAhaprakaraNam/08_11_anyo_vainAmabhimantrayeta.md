@@ -7,10 +7,10 @@ title = "०८ ११ अन्यो वैनामभिमन्त्र�
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/03_aha~N_garbhamadadhAmoShadhIShvaham.md">
 <details open><summary><h2>०३ अहङ् गर्भमदधामोषधीष्वहम् ...{Loading}...</h2></summary>
 
-अ॒हं गर्भ॒म् अद॑धा॒म् ओष॑धीष्व्  
-अ॒हं विश्वे॑षु॒ भुव॑नेष्व् अ॒न्तः ।  
-अ॒हं प्र॒जा अ॑जनयं पितॄृ॒णाम्  
-अ॒हं जनि॑भ्यो +++(=जन्याः = वध्वाः)+++ अप॒रीषु॑ +++(=पश्चात्कालस्नुषासु)+++ पु॒त्रान् ।+++(५)+++
+अहं᳓ ग᳓र्भम् [[अ᳓दधाम्|अदधाम्]] ओ᳓षधीष्व्  
+अहं᳓ वि᳓श्वेषु भु᳓वनेष्व् अन्तः᳓ ।  
+अहं᳓ प्रजा᳓ **अजनयं** पितॄृणा᳓म्  
+अहं᳓ ज᳓निभ्यो +++(=जन्याः = वध्वाः)+++ अपरी᳓षु +++(=पश्चात्कालस्नुषासु)+++ पुत्रा᳓न् ।+++(५)+++
 
 </details>
 </div>
@@ -25,8 +25,8 @@ title = "०८ ११ अन्यो वैनामभिमन्त्र�
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/05_dashasyantvA-mRtAya_kaMshamUdho.md">
 <details open><summary><h2>०५ दशस्यन्त्वाऽमृताय कंशमूधो ...{Loading}...</h2></summary>
 
-द॒श॒स्यन्त्वा॒ +++(=दशस्यन्तौ =दातारौ)+++ ऽमृता॑य॒ कँ (पादपूरणे) श+++(स)+++म् ऊधो॑  
-रोम॒शँ ह॑थो+++(=श्लिष्टं कुरुतम्)+++ दे॒वेषु॑ कृ॒णुतो॒ दुवः॑ (=परिचरणम्)।+++(४)+++  
+दशस्य᳓न्त्वा +++(=दशस्यन्तौ =दातारौ)+++ ऽमृ᳓ताय कँ᳓ +++(पादपूरणे)+++ श᳓+++(स)+++म् ऊ᳓धो  
+रोमशँ᳓ **हथो**+++(=श्लिष्टं कुरुतम्)+++ देवे᳓षु **[[कृणु᳓तो|कृणुतो]] दु᳓वः** +++++++++(=परिचरणम्)+++++++++।+++(४)+++  
 
 </details>
 </div>

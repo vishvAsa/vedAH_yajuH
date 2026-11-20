@@ -37,10 +37,10 @@ __________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/04_A_tvA.md">
 <details open><summary><h2>०४ आ त्वा ...{Loading}...</h2></summary>
 
-आ त्वा॑ कुमा॒रस् तरु॑ण॒  
-आ व॒त्सो जग॑ता स॒ह ।  
-आ त्वा॑ परि॒स्रुतः॑+++(=सुरायाः → घृतस्य)+++ कु॒म्भा  
-आ द॒ध्नः कल॑शीर् +++(मन्थनार्थम्)+++ अयन् ।  
+आ᳓ त्वा कुमार᳓स् त᳓रुण  
+आ᳓ वत्सो᳓ ज᳓गता सह᳓ ।  
+आ᳓ त्वा परिस्रु᳓तः+++(=सुरायाः → घृतस्य)+++ कुम्भा᳓  
+आ᳓ दध्नः᳓ [[क᳓लशीर्|कल᳓शीर्]] +++(मन्थनार्थम्)+++ **अयन्** ।  
 
 </details>
 </div>

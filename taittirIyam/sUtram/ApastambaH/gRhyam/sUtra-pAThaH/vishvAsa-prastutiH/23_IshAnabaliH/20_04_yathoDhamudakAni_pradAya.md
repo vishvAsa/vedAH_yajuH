@@ -26,7 +26,7 @@ title = "२० ०४ यथोढमुदकानि प्रदाय"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/13_jayanta_upaspRsha.md">
 <details open><summary><h2>१३ जयन्त उपस्पृश जयन्ताय ...{Loading}...</h2></summary>
 
-जयन्त᳓ **+उपस्पृश** जयन्ता᳓य+++(=स्कन्दाय)+++ स्वा᳓हा ।  
+[[जयन्त᳓|ज᳓यन्त]] **+उपस्पृश** जयन्ता᳓य+++(=स्कन्दाय)+++ स्वा᳓हा ।  
 
 </details>
 </div>

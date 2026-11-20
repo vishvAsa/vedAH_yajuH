@@ -17,10 +17,10 @@ title = "१८ ०७ उत्तराभिस्तिसृभिरार
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/02_apsujAta_sarevRddha.md">
 <details open><summary><h2>०२ अप्सुजात सरेवृद्ध ...{Loading}...</h2></summary>
 
-अ॒प्सु जा॑त॒ सरे॑ वृद्ध  
-दे॒वाना॒म् अपि॑ हस्त्य ।  
-त्वम् अ॑ग्न इन्द्र॒-प्रेषि॑त॒स्  
-स नो॒ मा हिँ॑सीः॒ स्वाहा॑ ।  
+[[अप्सु᳓|अ᳓प्सु]] जात स᳓रे वृद्ध  
+देवा᳓नाम् [[अ᳓पि|अपि]] हस्त्य ।  
+त्व᳓म् अग्न इन्द्र-प्रे᳓षितस्  
+स᳓ नो मा᳓ हिँसीः स्वा᳓हा ।  
 
 </details>
 </div>

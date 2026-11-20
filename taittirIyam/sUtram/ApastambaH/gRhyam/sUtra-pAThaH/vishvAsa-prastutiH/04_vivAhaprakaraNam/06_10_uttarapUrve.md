@@ -30,10 +30,10 @@ title = "०६ १० उत्तरपूर्वे"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/05_prajAyA_AbhyAm.md">
 <details open><summary><h2>०५ प्रजाया आभ्याम् ...{Loading}...</h2></summary>
 
-प्र॒जाया॑ आभ्यां प्रजापत॒  
-इन्द्रा॑ग्नी॒ शर्म॑ यच्छतम् ।  
-यथैन॑यो॒र् न प्र॑मी॒याता॑+++(य्)+++  
-उ॒भयो॒र् जीव॑तोः प्र॒जा ।  
+प्रजा᳓या [[आभ्यां|आभ्यां᳓]] प्रजापत  
+[[इ᳓न्द्राग्नी|इ᳓न्द्राग्नी᳓]] श᳓र्म **यच्छतम्** ।  
+[[य᳓थै᳓नयोर्|य᳓थैनयोर्]] न᳓ [[प्रमीया᳓ता|प्रमी᳓याता]]+++(य्)+++  
+उभ᳓योर् जी᳓वतोः प्रजा᳓ ।  
 
 </details>
 </div>
@@ -73,21 +73,21 @@ title = "०६ १० उत्तरपूर्वे"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/09_dhruvaidhi_poShyA.md">
 <details open><summary><h2>०९ ध्रुवैधि पोष्या ...{Loading}...</h2></summary>
 
-ध्रु॒वैधि पो॑ष्या॒ मयि॒  
-मह्य॑न् त्वा ऽदा॒द् बृह॒स्पतिः॑ ।  
-मया॒ पत्या॑ प्र॒जाव॑ती॒  
-सं जी॑व श॒रद॑श्श॒तम् ।+++(र४)+++  
+[[ध्रुवै᳓धि᳓|ध्रुवै᳓धि]] [[पोष्या|पो᳓ष्या]] म᳓यि  
+म᳓ह्यन् त्वा **ऽदाद्** बृ᳓हस्प᳓तिः ।  
+म᳓या प᳓त्या प्रजा᳓वती  
+सं᳓ जीव शर᳓दश् शत᳓म् ।+++(र४)+++  
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/10_tvaShTA_jAyAmajanayat.md">
 <details open><summary><h2>१० त्वष्टा जायामजनयत् ...{Loading}...</h2></summary>
 
-त्वष्टा॑ जा॒याम् अ॑जनय॒त्  
+त्व᳓ष्टा जाया᳓म् **अजनयत्**  
 +++("त्वष्टा रुपाणि पिंशतु" इति गर्भाधाने)+++  
-त्वष्टा॑ ऽस्यै॒+++(स्याः)+++ त्वां पति॑म् ।  
-त्वष्टा॑ स॒हस्र॒म् आयूँ॑षि  
-दी॒र्घम् आयुः॑ कृणोतु वाम् ।  
+त्व᳓ष्टा अस्यै+++(स्याः)+++ त्वां᳓ प᳓तिम् ।  
+त्व᳓ष्टा सह᳓स्रम् आ᳓यूँषि  
+दीर्घ᳓म् आ᳓युः **कृणोतु** [[वाम्|वा᳓म्]] ।  
 
 </details>
 </div>

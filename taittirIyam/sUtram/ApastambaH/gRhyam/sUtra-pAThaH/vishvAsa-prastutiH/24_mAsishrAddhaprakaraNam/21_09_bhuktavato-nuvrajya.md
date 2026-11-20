@@ -121,17 +121,13 @@ title = "२१ ०९ भुक्तवतोऽनुव्रज्य"
 उत्तरैरुपस्थाय  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/20_ye_cha_votra.md">
-
 ये᳓ च वो᳓ +++(पितरः)+++ ऽत्र,  
-ये᳓ चास्मा᳓स्व् आ᳓शँसन्ते+++(→प्रार्थयन्ते स्वधाम्)+++
-
+ये᳓ चास्मा᳓स्व् [[आ᳓शँसन्ते|आशँ᳓सन्ते]]+++(→प्रार्थयन्ते स्वधाम्)+++
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/21_yAsh_cha_votra.md">
-
 या᳓श् च वो᳓ ऽत्र  
-या᳓श् चास्मा᳓स्व् आ᳓शँसन्ते,
-
+या᳓श् चास्मा᳓स्व् [[आ᳓शँसन्ते|आशँ᳓सन्ते]],
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/22_te_cha_vahantAm.md">
@@ -147,21 +143,15 @@ title = "२१ ०९ भुक्तवतोऽनुव्रज्य"
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/24_tRpyantu_bhavantaH.md">
-
-तृ᳓प्यन्तु भवन्तः,
-
+तृ᳓प्यन्तु [[भवन्तः|भ᳓वन्तः]],
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/25_tRpyantu_bhavatyaH.md">
-
-तृ᳓प्यन्तु भवत्यः।
-
+तृ᳓प्यन्तु [[भवत्यः|भवत्यः᳓]]।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/26_tRpyata_tRpyata.md">
-
-तृ᳓प्यत तृ᳓प्यत तृ᳓प्यत ।
-
+तृ᳓प्यत [[तृ᳓प्यत|तृप्यत]] [[तृ᳓प्यत|तृप्यत]] ।
 </div>
 
 ### उभयान् पिण्डान् परिषिञ्चति  
@@ -177,9 +167,7 @@ title = "२१ ०९ भुक्तवतोऽनुव्रज्य"
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/28_tRpyata_tRpyata.md">
-
-तृ᳓प्यत तृ᳓प्यत तृ᳓प्यत ।
-
+तृ᳓प्यत [[तृ᳓प्यत|तृप्यत]] [[तृ᳓प्यत|तृप्यत]] ।
 </div>
 
 ## शेष-प्राशनम्  

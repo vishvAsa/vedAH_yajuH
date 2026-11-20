@@ -31,10 +31,10 @@ title = "०४ १४ गृभ्णामि त"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/05_sarasvati_predamava.md">
 <details open><summary><h2>०५ सरस्वति प्रेदमव ...{Loading}...</h2></summary>
 
-सर॑स्वति॒ प्रेदम् अ॑व॒  
-सुभ॑गे॒ वाजि॑नी+++(=अन्नक्रिया/स्तुति)+++वति ।  
-तां त्वा॒ विश्व॑स्य  
-भू॒तस्य॑ प्र॒-गाया॑मस्य् +++(“इदन्तो मसि”)+++ अग्र॒तः ।  
+स᳓रस्वति प्रे᳓द᳓म् **अव**  
+सु᳓भगे वा᳓जिनी+++(=अन्नक्रिया/स्तुति)+++वति ।  
+तां᳓ त्वा वि᳓श्वस्य भूत᳓स्य  
+**[[प्र-गा᳓यामस्य्|प्र᳓-गायामस्य्]]** +++(“इदन्तो मसि”)+++ अग्रतः᳓ ।  
 
 </details>
 </div>

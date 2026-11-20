@@ -21,9 +21,9 @@ title = "१५ ०५ उत्तरया मातुरुपस्थ"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/02_aya~N_kumAro.md">
 <details open><summary><h2>०२ अयङ् कुमारो ...{Loading}...</h2></summary>
 
-अ॒यं कु॑मा॒रो ज॒रां ध॑यतु दी॒र्घमायुः॑ ।  
-यस्मै॒ त्व२ँ स्तन॒! प्रप्या॒य +++(=प्रक्षर)+++  
-+आयु॒र्वर्चो॒ यशो॒ बल॑म् ।  
+अयं᳓ कुमारो᳓ जरां᳓ **धयतु** दीर्घ᳓म् आ᳓युः ।  
+य᳓स्मै त्व᳓२ँ [[स्त᳓न|स्तन]]! **[[प्र᳓प्याय|प्रप्या᳓य]]** +++(=प्रक्षर)+++  
++आ᳓युर् व᳓र्चो य᳓शो ब᳓लम् ।  
 
 </details>
 </div>
@@ -34,14 +34,20 @@ title = "१५ ०५ उत्तरया मातुरुपस्थ"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/03_yadbhUmerhRdayandivi_chandramasi.md">
 <details open><summary><h2>०३ यद्भूमेर्हृदयन्दिवि चन्द्रमसि ...{Loading}...</h2></summary>
 
-- यद्भूमे॒र्हृद॑यन्दि॒वि च॒न्द्रम॑सि श्रि॒तम् । तदु॑र्वि पश्यं॒ +++(=पश्येयम्)+++ माऽहं पौत्र॒मघँ॑ रुदम् ।
+य᳓द् भू᳓मेर् हृ᳓दयन् दिवि᳓  
+चन्द्र᳓मसि **श्रित᳓म्** ।  
+त᳓द् उर्वि **पश्यं** +++(=पश्येयम्)+++  
+मा᳓ऽहं᳓ पौ᳓त्रम् [[अ᳓घँ|अघँ᳓]] **रुदम्** ।
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/04_yatte_susIme.md">
 <details open><summary><h2>०४ यत्ते सुसीमे ...{Loading}...</h2></summary>
 
-- यत्ते॑ सुसी॒मे हृद॑यं॒ वेदा॒हं तत् प्र॒जाप॑तौ +++(=चन्द्रमसि [छायारूपेण])+++ । वेदा॑म॒ तस्य॑ ते व॒यं माऽहं पौत्र॒मघँ॑ रुदम् ।
+य᳓त् ते [[सुसीमे᳓|सुसीमे]]+++(→स्वरः??)+++ हृ᳓दयं  
+**वे᳓दाहं᳓** त᳓त् प्रजा᳓पतौ +++(=चन्द्रमसि [छायारूपेण])+++ ।  
+वे᳓दाम त᳓स्य ते वयं᳓  
+[[मा᳓ऽहं᳓|माऽहं᳓]] पौ᳓त्रम् [[अ᳓घँ|अघँ᳓]] **रुदम्** ।
 
 </details>
 </div>
@@ -52,7 +58,8 @@ title = "१५ ०५ उत्तरया मातुरुपस्थ"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/05_nAmayati_na.md">
 <details open><summary><h2>०५ नामयति न ...{Loading}...</h2></summary>
 
-न +आम॑यति॒, न रु॑दति॒, यत्र॑ व॒यं व॑दामसि॒, यत्र॑ चा॒भिमृ॑शामसि ।
+**न᳓ +[[आ᳓मयति|आमयति]], न᳓ रुदति,**  
+य᳓त्र वयं᳓ **[[वदामसि|व᳓दामसि]]**, य᳓त्र **[[चाभि᳓मृशामसि|चाभिमृ᳓शामसि]]** ।
 
 </details>
 </div>

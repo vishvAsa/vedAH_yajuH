@@ -4,10 +4,8 @@ title = "२२ ०७ आज्याहुतीरुत्तराः"
 आज्याहुतीरुत्तराः ७  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/02_bhUH_pRthivyA.md">
-
-भूः᳓- पृथिव्य्+++(व्या)+++ अ᳙ग्नि᳓ना+ऋचा᳓  
-ऽमुं᳓ म᳓यि का᳓मं नि᳓युनज्मि स्वा᳓हा ।  
-
+भूः᳓- पृथिव्य्+++(व्या)+++ [[अ᳙ग्नि᳓ना|अग्नि᳓ना]]+ऋचा᳓  
+ऽमुं᳓ म᳓यि का᳓मं नि᳓युनज्मि स्वा᳓हा ।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/03_bhuvo_vAyunA.md">

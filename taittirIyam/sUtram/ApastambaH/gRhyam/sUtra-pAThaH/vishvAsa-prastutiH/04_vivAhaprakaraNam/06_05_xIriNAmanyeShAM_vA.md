@@ -7,10 +7,10 @@ title = "०६ ०५ क्षीरिणामन्येषां वा"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/11_ye_gandharvA.md">
 <details open><summary><h2>११ ये गन्धर्वा ...{Loading}...</h2></summary>
 
-ये ग॑न्ध॒र्वा अ॑प्स॒रस॑श् च दे॒वीर्  
-ए॒षु वृ॒क्षेषु॑ वानस्प॒त्येष् आस॑ते ।  
-शि॒वास् ते अ॒स्यै व॒द्ध्वै॑ भवन्तु॒  
-मा हिँ॑सिषुर् वह॒तुम्+++(=स्त्रीधनम्)+++ ऊ॒ह्यमा॑नाम् ।  
+ये᳓ गन्धर्वा᳓ अप्सर᳓सश् च देवी᳓र्  
+एषु᳓ वृक्षे᳓षु वानस्पत्ये᳓ष् **आ᳓सते** ।  
+शिवा᳓स् [[ते᳓|ते]] अस्यै᳓ वद्ध्वै᳙ **भवन्तु**  
+**मा᳓ हिँसिषुर्** वहतु᳓म्+++(=स्त्रीधनम्)+++ ऊह्य᳓मानाम् ।  
 
 </details>
 </div>  

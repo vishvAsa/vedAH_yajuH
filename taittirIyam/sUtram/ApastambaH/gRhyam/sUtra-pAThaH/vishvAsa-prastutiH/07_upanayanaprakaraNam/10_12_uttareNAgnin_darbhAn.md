@@ -73,7 +73,7 @@ title = "१० १२ उत्तरेणाग्निन् दर्भ�
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/09_aMshuste_hastamagrabhIt.md">
 <details open><summary><h2>०९ अँशुस्ते हस्तमग्रभीत् …{Loading}…</h2></summary>
 
-अँ᳓शुस् ते ह᳓स्तम् **अग्रभीत्।**
+[[अँ᳓शुस्|अँशु᳓स्]] ते ह᳓स्तम् **अग्रभीत्।**
 
 </details>
 </div>
@@ -98,7 +98,7 @@ title = "१० १२ उत्तरेणाग्निन् दर्भ�
 <details open><summary><h2>१२ मित्रस्त्वमसि धर्मणा …{Loading}…</h2></summary>
 
 मित्र᳓स् त्व᳓म् **असि** ध᳓र्मणा,  
-ऽग्नि᳓र् आचार्य᳓स् त᳓व ।+++(५)+++
+ऽग्नि᳓र् [[आचार्य᳓स्|आचा᳓र्यस्]] त᳓व ।+++(५)+++
 
 </details>
 </div>
@@ -215,7 +215,7 @@ title = "१० १२ उत्तरेणाग्निन् दर्भ�
 
 <details open><summary><h2>२३ पृथिव्यै त्वा …{Loading}…</h2></summary>
 
-पृथिव्यै᳓ त्वा स᳓वैश्वानरा᳓यै+++(←उदात्तद्वयम्??)+++ प᳓रिददाम्य् असौ ।
+पृथिव्यै᳓ त्वा [[स᳓वैश्वानरा᳓यै|सवैश्वानरा᳓यै]]+++(←उदात्तद्वयम्??)+++ प᳓रिददाम्य् असौ ।
 
 </details>
 

@@ -9,10 +9,10 @@ __________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/02_somenAdityA_balinassomena.md">
 <details open><summary><h2>०२ सोमेनादित्या बलिनस्सोमेन ...{Loading}...</h2></summary>
 
-सोमे॑नादि॒त्या ब॒लिन॒स्  
-सोमे॑न पृथि॒वी दृ॒ढा ।  
-अथो॒ नक्ष॑त्राणाम् ए॒षाम्  
-उ॒पस्थे॒ सोम॒ आधि॑+++(हि)+++तः।  
+[[सो᳓मेनादित्या᳓|सो᳓मेना᳓दित्या]] बलि᳓नस्  
+सो᳓मेन पृथिवी᳓ दृढा᳓ ।  
+अ᳓थो न᳓क्षत्राणाम् एषा᳓म्  
+उप᳓स्थे सो᳓म **आ᳓धि+++(हि)+++तः**।  
 
 </details>
 </div>

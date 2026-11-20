@@ -8,10 +8,8 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 ### उपस्थानमन्त्राः
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/09_taxaka_vaishAleya.md">
-
-त᳓क्षक, वै᳓शालेय - धृत᳓राष्ट्रैरावतस् ते+++(←~~ते᳓~~)+++ जीवा᳓स्,  
-त्व᳓यि नस् सत᳓स्, त्व᳓यि सद्भ्यो᳓ +++(सर्पेभ्यो)+++, वर्षा᳓भ्यो नः प᳓रिदेहि ।  
-
+त᳓क्षक, वै᳓शालेय - [[धृत᳓राष्ट्रैरावतस्|धृतराष्ट्रैरावत᳓स्]] ते+++(←~~ते᳓~~)+++ जीवा᳓स्,  
+त्व᳓यि नस् सत᳓स्, त्व᳓यि सद्भ्यो᳓ +++(सर्पेभ्यो)+++, वर्षा᳓भ्यो नः प᳓रिदेहि ।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/10_dhRtarAShTra_airAvata.md">
@@ -21,28 +19,22 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/11_ahiMsAtibala.md">
-
-अ᳓हिँसातिबल᳓स् ते जीवा᳓स् [त्व᳓यि नस् सत᳓स्, त्व᳓यि सद्भ्यो᳓ +++(सर्पेभ्यो)+++, वर्षा᳓भ्यो नः प᳓रिदेहि । ]  
+[[अ᳓हिँसातिबल᳓स्|अहिँसातिबल᳓स्]] ते जीवा᳓स् [त्व᳓यि नस् सत᳓स्, त्व᳓यि सद्भ्यो᳓ +++(सर्पेभ्यो)+++, वर्षा᳓भ्यो नः प᳓रिदेहि । ]  
 +++(व्यस्तप्रयोगे सम्बोधन इह स्वरव्यत्ययः।)+++
-
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/12_atibalAhiMsa.md">
-
-अ᳓तिबलाहिँस᳓स् ते जीवा᳓स्  [त्व᳓यि नस् सत᳓स्, त्व᳓यि सद्भ्यो᳓ +++(सर्पेभ्यो)+++, वर्षा᳓भ्यो नः प᳓रिदेहि । ]  
+[[अ᳓तिबलाहिँस᳓स्|अ᳓तिबला᳓हिँसस्]] ते जीवा᳓स्  [त्व᳓यि नस् सत᳓स्, त्व᳓यि सद्भ्यो᳓ +++(सर्पेभ्यो)+++, वर्षा᳓भ्यो नः प᳓रिदेहि । ]  
 +++(व्यस्तप्रयोगे सम्बोधन इह स्वरव्यत्ययः।)+++
-
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/13_ye_dandashUkAH.md">
-
 ये᳓ दन्दशू᳓काः पा᳓र्थिवास्-  
 ताँ᳓स् त्व᳓म् इतः᳓ परो᳓ ग᳓व्यूतिं नि᳓वेशय ।  
 स᳓न्ति वै᳓ नश् शफि᳓नस्,  
 स᳓न्ति दण्डि᳓नस्,  
 ते᳓ वो ने᳓द् +धिन᳓सान्,  
-न्ये᳓द् यूय᳓म् अस्मा᳓न् हिन᳓सात ।  
-
+न्ये᳓द् यूय᳓म् अस्मा᳓न् [[हिन᳓सात|हि᳓नसात]] ।
 </div>
 
 +++(प्रतिदिशम् मन्त्राः।)+++
@@ -62,17 +54,16 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/15_ojasvinI_nAmAsi.md">
-
 ओजस्वि᳓नी ना᳓मासि दक्षिणा᳓ दि᳓क्।  
-त᳓स्यास् त इ᳓न्द्रो᳓ऽधिपतिः, पृदाकू᳓ रक्षिता᳓  
+त᳓स्यास् त इ᳓न्द्रो᳓ऽधिपतिः, [[पृदाकू᳓|पृ᳓दाकू]] रक्षिता᳓  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<details open><summary><h5>य᳓श् चा᳓धिपतिर् ...{Loading}...</h5></summary>
 
 य᳓श् चा᳓धिपतिर्, य᳓श् च गोप्ता᳓ - ता᳓भ्यां न᳓मस्, तौ᳓ नो मृडयताम्।  
 ते᳓ यं᳓ द्विष्मो᳓, य᳓श् च नो द्वे᳓ष्टि - तं᳓ वां जं᳓भे दधामि ।
-
+</details>
 </div>
-
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/16_prAchI_nAmAsi.md">
@@ -349,12 +340,10 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/27_na_vai.md">
-
 न᳓ वै᳓ श्वेत᳓स्याऽध्याचारे᳓+++(=आधिपत्ये)+++  
-ऽहिर् जघा᳓न क᳓ञ्चन᳓ ।  
+ऽहिर् [[जघा᳓न|जघान]] क᳓ञ्चन᳓ ।  
 श्वेता᳓य वैदर्वा᳓य+++(=विदर्बपुत्राय)+++ न᳓मो  
-न᳓मः श्वेता᳓य वैदर्वा᳓य ॥ (17)
-
+[[न᳓मः|नमः]] श्वेता᳓य वैदर्वा᳓य ॥ (17)
 </div>
 
 +++(युग्मान्)+++ ब्राह्मणान् भोजयेत् +++(स्थालीपाक-शेषादिभिः सर्पिष्मद्भिः। उपनयनवद् भुक्तवद्भिर् आशीर्-वचनम्।)+++ १२  

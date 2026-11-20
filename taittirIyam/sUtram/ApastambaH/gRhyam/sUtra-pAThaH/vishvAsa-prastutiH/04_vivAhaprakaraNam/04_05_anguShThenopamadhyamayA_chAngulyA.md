@@ -8,7 +8,8 @@ title = "०४ ०५ अङ्गुष्ठेनोपमध्यमया
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/05_idamahay.N_yA.md">
 <details open><summary><h2>०५ इदमहय्ँ या ...{Loading}...</h2></summary>
 
-इ॒दम् अ॒हय्ँ या त्वयि॑ पति॒घ्न्य् अ॑ल॒क्ष्मिस्, तां निर्दि॑शामि ।+++(र५)+++  
+इद᳓म् अहय्ँ᳓  
+या᳓ त्व᳓यि पतिघ्न्य् [[अ᳙लक्ष्मि᳓स्|अ᳓लक्ष्मिस्]], तां᳓ नि᳓र्दिशामि ।+++(र५)+++  
 
 </details>
 </div>

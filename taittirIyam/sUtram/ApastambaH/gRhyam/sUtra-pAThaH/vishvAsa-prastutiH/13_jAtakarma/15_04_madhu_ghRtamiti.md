@@ -16,10 +16,8 @@ title = "१५ ०४ मधु घृतमिति"
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/04_tvayi_medhAm_indraH.md">
-
 त्व᳓यि मेधां᳓ त्व᳓यि प्रजां᳓  
-त्व᳓यी᳓न्द्र इन्द्रियं᳓ **दधातु** ।  
-
+[[त्व᳓यी᳓न्द्र|त्व᳓यीन्द्र]] इन्द्रियं᳓ **दधातु** ।
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/05_tvayi_medhAm_sUryaH.md">
@@ -58,10 +56,10 @@ title = "१५ ०४ मधु घृतमिति"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/08_yA_daivIshchatasraH.md">
 <details open><summary><h4>०८ या दैवीश्चतस्रः ...{Loading}...</h4></summary>
 
-या दैवी॒श् चत॑स्रः प्र॒दिशो॒ वात॑-पत्नीर्,  
-अ॒भि सूर्यो॑ विच॒ष्टे +++(=विपश्यति)+++ ।  
-तासा॑न् त्वा ऽऽज॒रस॒ आ द॑धामि॒।  
-प्र यक्ष्म॑ एतु॒ निर्ऋ॑तिं परा॒चैः +++(=प्राङ्मुखः)+++ ।
+या᳓ दै᳓वीश् च᳓तस्रः प्रदि᳓शो वा᳓त-पत्नीर्,  
+अभि᳓ सू᳓र्यो **[[विचष्टे᳓|विच᳓ष्टे]]** +++(=विपश्यति)+++ ।  
+ता᳓सान् त्वा ऽऽजर᳓स **आ᳓ दधामि**।  
+प्र᳓ य᳓क्ष्म एतु नि᳓रृतिं पराचैः᳓ +++(=प्राङ्मुखः)+++ ।
 </details>
 </div>
 
@@ -70,10 +68,10 @@ title = "१५ ०४ मधु घृतमिति"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/09_amochi_yaxmAdduritAdavartyai.md">
 <details open><summary><h4>०९ अमोचि यक्ष्माद्दुरितादवर्त्यै ...{Loading}...</h4></summary>
 
-अमो॑चि॒ यक्ष्मा॑द् दुरि॒ताद् अव॑र्त्यै +++(=आपत्तः)+++।  
-द्रु॒हः पाशा॒न् निर्ऋ॑त्यै॒ च+उद॑मोचि ।  
-अहा॒ +++(=अहासीत्)+++ अव॑र्ति॒म् +++(=दारिद्र्यम्)+++, अवि॑दत् स्यो॒नम् +++(=सुस्वम्)+++।  
-अप्य॑भूद् भ॒द्रे सु॑कृ॒तस्य॑ लो॒के ।  
+**अ᳓मोचि** य᳓क्ष्माद् दुरिता᳓द् अ᳓वर्त्यै +++(=आपत्तः)+++।  
+द्रुहः᳓ पा᳓शान् नि᳓रृत्यै [[च᳓|च]]+उ᳓द् **अमोचि** ।  
+**अ᳓हा** +++(=अहासीत्)+++ अ᳓वर्तिम् +++(=दारिद्र्यम्)+++, **[[अ᳓विदत्|अविदत्]]** स्योन᳓म् +++(=सुस्वम्)+++।  
+अ᳓प्य् **अभूद्** भद्रे᳓ सुकृत᳓स्य लोके᳓ ।  
 </details>
 </div>
 
@@ -99,6 +97,6 @@ title = "१५ ०४ मधु घृतमिति"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/11_bhUssvAhA_bhuvassvAhA.md">
 <details open><summary><h2>११ भूस्स्वाहा भुवस्स्वाहा ...{Loading}...</h2></summary>
 
-भूस्स्वाहा॒ भुव॒स्स्वाहा॒ सुव॒स्स्वाहा। ॐ स्वाहा॑ ॥  
+भू᳓स् स्वा᳓हा, भु᳓वस् स्वा᳓हा, सु᳓वस् [[स्वा᳓हा᳓|स्वा᳓हा]]। ॐ᳓ स्वा᳓हा ॥  
 </details>
 </div>

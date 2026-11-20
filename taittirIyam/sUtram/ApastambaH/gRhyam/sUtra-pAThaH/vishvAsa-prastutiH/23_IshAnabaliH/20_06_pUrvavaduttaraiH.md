@@ -6,7 +6,7 @@ title = "२० ०६ पूर्ववदुत्तरैः "
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/42_dvArApopaspRsha_dvArApAya.md">
 <details open><summary><h2>४२ द्वारापस्पृश द्वारापाय ...{Loading}...</h2></summary>
 
-द्वारापो᳓पस्पृश। द्वारापा᳓य स्वा᳓हा ।    
+[[द्वारापो᳓पस्पृश|द्वा᳓रापो᳓पस्पृश]]। द्वारापा᳓य स्वा᳓हा ।    
 
 </details>
 </div>
@@ -14,7 +14,7 @@ title = "२० ०६ पूर्ववदुत्तरैः "
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/43_dvArApyupaspRsha_dvArApyai.md">
 <details open><summary><h2>४३ द्वाराप्युपस्पृश द्वाराप्यै ...{Loading}...</h2></summary>
 
-द्वाराप्य् उ᳓पस्पृश द्वाराप्यै᳓ स्वा᳓हा ।  
+[[द्वाराप्य्|द्वा᳓राप्य्]] उ᳓पस्पृश द्वाराप्यै᳓ स्वा᳓हा ।  
 
 </details>
 </div>
@@ -30,7 +30,7 @@ title = "२० ०६ पूर्ववदुत्तरैः "
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/45_niShangin_upaspRsha.md">
 <details open><summary><h2>४५ निषङ्गिन्नुपस्पृश निषङ्गिणे ...{Loading}...</h2></summary>
 
-निषङ्गि᳓न्न् +++(जयन्त!)+++ उ᳓पस्पृश।  
+[[निषङ्गि᳓न्न्|नि᳓षङ्गिन्न्]] +++(जयन्त!)+++ उ᳓पस्पृश।  
 निषङ्गि᳓णे स्वा᳓हा +++(→दक्षिणस्यां द्वे)+++।  
 
 </details>

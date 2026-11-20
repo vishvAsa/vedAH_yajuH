@@ -14,36 +14,31 @@ title = "१४ १४ अनाप्रीतेन"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/16_yathaiva_somaH.md">
 <details open><summary><h2>१६ यथैव सोमः ...{Loading}...</h2></summary>
 
-### मन्त्रः
-
--  यथै॒व सोमः॒ पव॑ते॒ यथा॑ समु॒द्र एज॑ति ।  
-   ए॒वन्ते गर्भ॒ एज॑तु स॒ह ज॒रायु॑णा नि॒ष्क्रम्य॒ प्रति॑तिष्ठतु ।  
-   आयु॑षि ब्रह्मवर्च॒सि य॒शसि॑ वी॒र्ये॑ऽन्नाद्ये॑ ।  
-   
-
-यथै॒व सोमः॒ पव॑ते॒, यथा॑ समु॒द्र एज॑ति+++(=कम्पते)+++,  
-ए॒वन्ते गर्भ॒ एज॑तु।  
-स॒ह ज॒रायु॑णा+++(=गर्भवेष्टनेन)+++ नि॒ष्क्रम्य॒ प्रति॑तिष्ठतु - आयु॑षि ब्रह्मवर्च॒सि य॒शसि॑   ।  
+य᳓थैव᳓ सो᳓मः **प᳓वते**+++(=कम्पते)+++  
+य᳓था समुद्र᳓ **ए᳓जति** ।    
+एव᳓न्ते+++(←~~ते᳓~~)+++ ग᳓र्भ **[[ए᳓जतु|एजतु]]**  
+सह᳓ जरा᳓युणा+++(=गर्भवेष्टनेन)+++ निष्क्र᳓म्य प्र᳓तितिष्ठतु ।  
+आ᳓युषि ब्रह्म-वर्चसि᳓ [[यश᳓सि|य᳓शसि]] वीर्ये᳙ ऽन्ना᳓द्ये ।  
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/17_dasha_mAsAnChashayAno.md">
 <details open><summary><h2>१७ दश मासाञ्छशयानो ...{Loading}...</h2></summary>
 
-दश॒ मासा॒ञ् छश॑यानो  
-धा॒त्रा हि तथा॑ कृ॒तम् ।  
-ऐतु॒ गर्भो॒ अक्षि॑तो  
-जी॒वो जीव॑न्त्याः ।  
+द᳓श [[मा᳓साञ्|मासा᳓ञ्]] **छ᳓यानो**  
+धात्रा᳓ हि᳓ त᳓था **कृत᳓म्** ।  
+**ऐ᳓तु** ग᳓र्भो अ᳓क्षितो  
+जीवो᳓ जी᳓वन्त्याः ।  
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/18_AyamanIryamayata_garbhamApo.md">
 <details open><summary><h2>१८ आयमनीर्यमयत गर्भमापो ...{Loading}...</h2></summary>
 
-आ॒यम॑नीर् यमयत॒ गर्भ॒म्  
-आपो॑ देवी॒स् सर॑स्वतीः ।  
-ऐतु॒ गर्भो॒ अक्षि॑तो  
-जी॒वो जीव॑न्त्याः ।  
+आय᳓मनीर् **यमयत** ग᳓र्भम्  
+आ᳓पो [[देवीस्|देवी᳓स्]] स᳓रस्वतीः ।  
+**ऐ᳓तु** ग᳓र्भो अ᳓क्षितो  
+जीवो᳓ जी᳓वन्त्याः ।  
 
 </details>
 </div>

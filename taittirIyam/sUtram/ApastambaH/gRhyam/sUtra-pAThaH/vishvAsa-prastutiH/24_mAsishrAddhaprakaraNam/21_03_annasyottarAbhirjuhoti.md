@@ -40,11 +40,11 @@ title = "२१ ०३ अन्नस्योत्तराभिर्जु
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/04_antardadhe_parvatairantarmahyA.md">
 <details open><summary><h2>०४ अन्तर्दधे पर्वतैरन्तर्मह्या ...{Loading}...</h2></summary>
 
-अ॒न्तर् द॑धे॒ पर्व॑तैर्  
-अ॒न्तर् मह्या॑ पृथि॒व्या ।  
-आ॒भिर् दि॒ग्भिर् अ॑न॒न्ताभि॑र्  
-अ॒न्तर् अ॒न्यं पि॑ताम॒हाद् द॑धे॒  
-ऽमुष्मै॒ स्वाहा॑ ।
+अन्त᳓र् दधे प᳓र्वतैर्  
+अन्त᳓र् [[म᳓ह्या|मह्या᳓]] पृथिव्या᳓ ।  
+आभि᳓र् दिग्भि᳓र् अनन्ता᳓भिर्  
+अन्त᳓र् अन्यं᳓ पितामहा᳓द् दधे  
+ऽमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा ।
 
 </details>
 </div>
@@ -76,11 +76,11 @@ title = "२१ ०३ अन्नस्योत्तराभिर्जु
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/07_ye_cheha.md">
 <details open><summary><h2>०७ ये चेह ...{Loading}...</h2></summary>
 
-ये चे॒ह पि॒तरो॒ ये च॒ नेह॒  
-याँश् च॑ वि॒द्म याँ उ॑ च॒ न प्र॑ वि॒द्म ।  
-अग्ने॒ तान् वेत्थ॒ यदि॒  
-ते जा॑तवेद॒स् तया॑ प्र॒त्तँ+++(→प्रत्तया = प्रदत्तया)+++ स्व॒धया॑ मदन्तु॒  
-स्वाहा॑ ।  
+ये᳓ चेह᳓ पित᳓रो ये᳓ च [[ने᳓ह|ने᳓ह᳓]]  
+याँ᳓श् च विद्म᳓ याँ᳓ उ च न᳓ [[प्र|प्र᳓]] विद्म᳓ ।  
+अ᳓ग्ने ता᳓न् वेत्थ  
+य᳓दि ते᳓ जातवेदस् त᳓या+++(→स्वधया)+++ [[प्रत्तँ᳓|प्र᳓त्तँ]]+++(→प्रत्तया = प्रदत्तया)+++ स्वध᳓या मदन्तु  
+स्वा᳓हा ।  
 
 </details>
 </div>
