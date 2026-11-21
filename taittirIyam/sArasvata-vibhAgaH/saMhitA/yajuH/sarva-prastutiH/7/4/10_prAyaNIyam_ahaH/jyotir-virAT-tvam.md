@@ -1,0 +1,66 @@
++++
+title = "ज्योतिर्-विराट्-त्वम्"
+unicode_script = "devanagari"
++++
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते᳓ +++(ज्योतिर्गौरायुरिति त्रयः)+++ सँ᳓स्तुता विरा᳓जम् +++(दशाक्षरां)+++ अभि᳓ स᳓म्पद्यन्ते ।[32]  
++++(गोआयुषी)+++ द्वे᳓ च᳓ + ऋ᳓चाव् अ᳓ति रि᳓च्ये᳓ते᳓ ।
+</details>
+
+<details><summary>Keith</summary>
+
+These (Stomas) being sung together make up the Viraj, and two verses are redundant;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ते सँ॑स्तुता वि॒राज॑म॒भि स॑म्पद्यन्ते । द्वे च॒ ऋचा॒वति॑रिच्येते ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । सँस्तु॑ता॒ इति॒ सम्-स्तु॒ताः॒ । वि॒राज॒मिति॑ वि-राज॑म् । अ॒भि । समिति॑ । प॒द्य॒न्ते॒ । द्वे इति॑ । च॒ । ऋचौ॑ । अतीति॑ । रि॒च्ये॒ते॒ इति॑ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ए᳓कया +++(२४१-स्तोत्रिया)+++ गौ᳓र् अ᳓तिरिक्त , ए᳓कया᳓ +++(२५९-स्तोत्रिया??)+++ ऽऽयुर् ऊनः᳓ ।  
++++(ज्योतिरतिरात्रस्य १९०*२ = ३७० स्तोत्रिया / ज्योतिष्टोमस्य १९० स्तोत्रिया इति कृत्वा, तस्यैव तु दशकपूरणम् भवति। ततो हि ज्योतिर् गृह्यते प्रथमं गोआयुषी परित्यज्य।)+++
+</details>
+
+<details><summary>Keith</summary>
+
+the Gostoma has one too many, and the Ayustoma one too few.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एक॑या॒ गौरति॑रिक्ता । एक॒याऽऽयुरू॑नः [32] ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+एक॑या । गौः । अति॑रिक्त॒ इत्यति॑-रि॒क्तः॒ । एक॑या । आयुः॑ । ऊ॒नः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुवर्गो᳓ वै᳓ लोको᳓ ज्यो᳓तिर्, +++(यत)+++ ऊ᳓र्ग्+++(=अन्नं)+++ विरा᳓ट् ।
+</details>
+
+<details><summary>Keith</summary>
+
+The Jyotistoma is the world of heaven, the Viraj is strength;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सु॒व॒र्गो वै लो॒को ज्योति॒रूर्ग्वि॒राट् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒व॒र्ग इति॑ सुवः-गः । वै । लो॒कः । ज्योतिः॑ । ऊर्क् । वि॒राडिति॑ वि-राट् ।
+</details>

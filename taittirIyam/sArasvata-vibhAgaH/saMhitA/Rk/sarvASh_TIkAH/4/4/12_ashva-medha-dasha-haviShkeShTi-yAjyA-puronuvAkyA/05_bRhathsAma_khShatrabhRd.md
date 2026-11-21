@@ -1,0 +1,29 @@
++++
+title = "05 बृहत्साम क्षत्रभृद्"
+
++++
+
+
+<details><summary>Keith</summary>
+
+(May) the Brhat Saman, which supporteth kingly power, with vast strength,  
+The force made beautiful by the Tristubh, that of fierce strength (protect us);  
+O Indra, with the fifteenfold Stoma  
+Do thou guard this in the midst with the wind, with the ocean.
+</details>
+
+<details><summary>मूलम्</summary>
+
+बृ॒हत्साम॑ क्षत्र॒भृद्वृ॒द्धवृ॑ष्णियन्त्रि॒ष्टुभौज॑श्शुभि॒तमु॒ग्रवी॑रम् ।    
+इन्द्र॒ स्तोमे॑न पञ्चद॒शेन॒ मध्य॑मि॒दव्ँवाते॑न॒ सग॑रेण रक्ष ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बृ॒हत् । साम॑ । क्ष॒त्र॒भृदिति॑ क्षत्र-भृत् । वृ॒द्धवृ॑ष्णिय॒मिति॑ वृ॒द्ध-वृ॒ष्णि॒य॒म् । त्रि॒ष्टुभा॑ । ओजः॑ । शु॒भि॒तम् । उ॒ग्रवी॑र॒मित्यु॒ग्र-वी॒र॒म् ॥ इन्द्र॑ । स्तोमे॑न । प॒ञ्च॒द॒शेनेति॑ पञ्च-द॒शेन॑ । मध्य॑म् । इ॒दम् । वाते॑न । सग॑रेण । र॒क्ष॒ ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अस्मान्पालयत्वित्यर्थः।   कीदृशं साम, क्षत्त्रभृब्दलस्य धारयितृ, वृद्धिवृष्णि यमुत्थितपुस्कम्, ओजो बलप्रदं, शुभितं शोभमानम्, उग्रवीरं तीव्रपुत्रप्रदम्।   हे  इन्द्र पञ्चदशाख्येन स्तोमेन सगराख्येन वातेन सहितः सन्निदं मध्यं रक्षातीतानागतयोर्मध्ये स्थितमिदमस्मदीयं शरीरं पालय।
+</details>
