@@ -29,7 +29,7 @@ Her tooth a deer, dressed in an eagle's feathers, bound with cow-hide, launched 
 - त्रिष्टुप्
 - धैवतः
 </details>
-<details><summary>मूलम् - सायण-पाठः</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 सु॒प॒र्णव्ँव॑स्ते मृ॒गो अ॑स्या॒ दन्तो॒ गोभि॒स्सन्न॑द्धा पतति॒ प्रसू॑ता ।  
 यत्रा॒ नर॒स्सञ्च॒ वि च॒ द्रव॑न्ति॒ तत्रा॒स्मभ्य॒मिष॑व॒श्शर्म॑ यँसन्न् ।

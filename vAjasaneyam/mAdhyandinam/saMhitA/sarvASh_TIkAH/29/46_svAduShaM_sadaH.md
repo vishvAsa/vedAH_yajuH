@@ -29,7 +29,7 @@ In sweet association lived the fathers who gave us life, profound and strong in 
 - त्रिष्टुप्
 - धैवतः
 </details>
-<details><summary>मूलम् - सायण-पाठः</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 स्वा॒दु॒षँ॒सद॑ᳶ पि॒तरो॑ वयो॒धाᳵ कृ॑च्छ्रे॒श्रित॒श्शक्ती॑वन्तो गभी॒राः ।  
 चि॒त्रसे॑ना॒ इषु॑बला॒ अमृ॑ध्रास्स॒तोवी॑रा उ॒रवो॑ व्रातसा॒हाः ।

@@ -29,7 +29,7 @@ The Brâhmans, and the Fathers meet for Soma draughts, and, graciously inclined,
 - विराड्जगती
 - निषादः
 </details>
-<details><summary>मूलम् - सायण-पाठः</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 ब्राह्म॑णासः [29]  पित॑र॒स्सोम्या॑सश्शि॒वे नो॒ द्यावा॑पृथि॒वी अ॑ने॒हसा॑ ।  
 पू॒षा न॑ᳶ पातु दुरि॒तादृ॑तावृधो॒ रक्षा॒ माकि॑र्नो अ॒घशँ॑स ईशत ।
