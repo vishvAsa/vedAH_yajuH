@@ -2,8 +2,20 @@
 title = "७० नक्तोषासा समनसा"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/12/02_naktoShAsA_samanasA.md">
-<details open><summary><h5>०२ नक्तोषासा समनसा ...{Loading}...</h5></summary>
+<details><summary>Griffith</summary>
+
+Night and Dawn, different in hue, accordant, etc., as in XII. 2.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नक्तो॒षासा॒ सम॑नसा॒ विरू॑पे धा॒पये॑ते॒ शिशु॒मेकँ॑ समी॒ची।  
+द्यावा॒क्षामा॑ रु॒क्मोऽअ॒न्तर्विभा॑ति दे॒वाऽअ॒ग्निं॑ धा॑रयन् द्रविणो॒दाः ॥७० ॥
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/12/02_naktoShAsA_samanasA.md">
+
+<details open><summary><h8>०२ नक्तोषासा समनसा ...{Loading}...</h8></summary>
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 नक्तो॒षासा॑। नक्तो॒षसेति॒ नक्तो॒षसा॑। सम॑न॒सेति॒ सऽम॑नसा। विरू॑पे॒ इति॒ विऽरू॑पे। धा॒पये॑ते॒ऽइति॑ धा॒पये॑ते। शिशु॑म्। एक॑म्। स॒मी॒ची इति॑ सम्ऽई॒ची। द्यावा॒क्षामा॑। रु॒क्मः। अ॒न्तः। वि। भा॒ति॒। दे॒वाः। अ॒ग्निम्। धा॒र॒य॒न्। द्र॒वि॒णो॒दा इति॑ द्रविणः॒ऽदाः। २।
@@ -86,4 +98,5 @@ _______________
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. या सृष्टीत रात्र व दिवस वेगवेगळ्या रूपांत विद्यमान आहेत व जसे विद्युत सर्व पदार्थांत व्याप्त असते किंवा जशी भूमी व प्रकाश अति सहनशील असतात तसे माणसांनी विचारपूर्वक अत्यंत शुभगुणयुक्त बनून पुत्राप्रमाणे जगाचे पालन करावे.
 </details>
 </details>
+
 </div>

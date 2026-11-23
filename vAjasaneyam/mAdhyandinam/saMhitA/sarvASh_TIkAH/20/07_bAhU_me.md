@@ -2,17 +2,26 @@
 title = "०७ बाहू मे"
 
 +++
+<details><summary>Griffith</summary>
+
+Let my two arms be Indra's power, my hands be deed of manly might, my soul and breast be princely rule! neck
+</details>
+
+<details><summary>मूलम्</summary>
+
+बा॒हू मे॒ बल॑मिन्द्रि॒यँ हस्तौ॑ मे॒ कर्म॑ वी॒र्य᳖म्।  
+आ॒त्मा क्ष॒त्रमुरो॒ मम॑ ॥७ ॥
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 बा॒हूऽइति॑ बा॒हू। मे॒। बल॑म्। इ॒न्द्रि॒यम्। हस्तौ॑। मे॒। कर्म॑। वी॒र्य᳖म्। आ॒त्मा। क्ष॒त्रम्। उरः॑। मम॑। ७।
 </details>
-
 <details><summary>महीधरः</summary>
 
 म० मे बाहू बलमस्तु बलवन्तौ स्तामित्यर्थः । इन्द्रियं च बलं स्वकार्यक्षममस्तु । मे हस्तौ कर्म चास्तु सत्कर्मकुशलौ सामर्थ्यवन्तौ च स्तामित्यर्थः । मम आत्मा अन्तरात्मा उरो हृदयं च क्षत्रं क्षतात्त्राणकरमस्तु ॥ ७ ॥  
 अष्टमी।
 </details>
-
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - राजा देवता
