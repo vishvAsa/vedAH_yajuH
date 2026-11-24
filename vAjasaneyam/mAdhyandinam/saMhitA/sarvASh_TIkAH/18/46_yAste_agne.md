@@ -19,9 +19,9 @@ Thy lights, O Agni, in the Sun, etc., as in XIII. 22.
 </details>
 <details><summary>उवट-टीका</summary>
 
-रुक्मवतीर्जुहोति।
+रुक्मवतीर्जुहोति ।
 
-यास्ते द्वे व्याख्याते॥४६॥
+यास्ते द्वे व्याख्याते ॥४६॥४७॥
 </details>
 <details><summary>महीधर-टीका</summary>
 

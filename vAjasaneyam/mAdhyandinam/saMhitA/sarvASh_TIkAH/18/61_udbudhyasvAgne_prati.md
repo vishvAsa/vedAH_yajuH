@@ -19,7 +19,7 @@ Wake up, O Agni, etc., as in XV. 54.
 </details>
 <details><summary>उवट-टीका</summary>
 
-उद्बुध्यस्वाग्ने येन वहसीति व्याख्याते॥६१॥
+उद्बुध्यस्वाग्ने येन वहसीति व्याख्याते ॥६१॥६२॥
 </details>
 <details><summary>महीधर-टीका</summary>
 
