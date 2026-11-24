@@ -851,7 +851,6 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/164/45_chatvAri_vAkparimitA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाक्
@@ -864,7 +863,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 चत्वा᳓रि वा᳓क् प᳓रिमिता पदा᳓नि  
 ता᳓नि विदुर् ब्राह्मणा᳓ ये᳓ मनीषि᳓णः  
 गु᳓हा त्री᳓णि नि᳓हिता ने᳓ङ्गयन्ति  
-तुरी᳓यं वाचो᳓ मनुष्या᳡ वदन्ति
+तुरी᳓यं वाचो᳓ मनुष्या᳙ वदन्ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -1186,5 +1185,4 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 
 भावार्थभाषाः -  विद्वान व अविद्वानात इतकाच फरक आहे, की जे विद्वान असतात ते नाम, आख्यात, उपसर्ग व निपात या चारहींना जाणतात. त्यापैकी तीन ज्ञानात असतात. चौथ्या सिद्ध शब्दसमूहाला (वाणीला) सर्वजण प्रसिद्ध व्यवहारात जाणतात. जे अविद्वान असतात ते नाम, आख्यात, उपसर्ग व निपात जाणत नाहीत, परंतु निपातरूपी साधन-ज्ञानरहित शब्दांचा प्रयोग करतात. ॥ ४५ ॥
 </details>
-
 </div> 

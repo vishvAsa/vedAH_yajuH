@@ -825,7 +825,6 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/04_shraddhAM_devA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रद्धा
@@ -837,7 +836,7 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 
 श्रद्धां᳓ देवा᳓ य᳓जमाना  
 वायु᳓गोपा उ᳓पासते  
-श्रद्धां᳓ हृदय्य᳡या᳓कूत्या  
+श्रद्धां᳓ हृदय्य᳙या᳓कूत्या  
 श्रद्ध᳓या विन्दते व᳓सु
 </details>
 
@@ -1055,7 +1054,6 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 
 पदार्थान्वयभाषाः -  (देवाः-हृदय्यया-आकूत्या श्रद्धाम्) मुमुक्षवो विद्वांसो हृदयस्था-हङ्कृत्या श्रद्धां सदिच्छां सेवन्ते पूरयन्ति (यजमानाः-वायुगोपाः श्रद्धाम्-उपासते) यजनशीलाः प्राणायामैर्वायू रक्षको येषां ते तथाभूताः श्रद्धां सदिच्छां सेवन्ते ते (श्रद्धया वसु विन्दते) सदिच्छया वासकं धनं लभन्ते ॥४॥
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
