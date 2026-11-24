@@ -27,10 +27,10 @@ title = "१८ ०७ उत्तराभिस्तिसृभिरार
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/03_trANamasi_paritrANamasi.md">
 <details open><summary><h2>०३ त्राणमसि परित्राणमसि ...{Loading}...</h2></summary>
 
-त्राण॑म् असि।  
-प॒रि॒त्राण॑म् असि।  
-प॒रि॒धिर् अ॑सि ।  
-अन्ने॑न मनु॒ष्याँ॑स् त्रायसे॒, तृणैः॑ प॒शून्, ग॒र्तेन॑ स॒र्पान्, य॒ज्ञेन॑ दे॒वान्त् स्व॒धया॑ पि॒तॄन्त् स्वाहा॑ ।  
+त्रा᳓णम् असि।  
+परित्रा᳓णम् असि।  
+परिधि᳓र् असि ।  
+अ᳓न्नेन मनुष्याँ᳙स् त्रायसे, तृ᳓णैः पशू᳓न्, [[गर्ते᳓न|ग᳓र्तेन]] सर्पा᳓न्, यज्ञे᳓न देवा᳓न्त्, स्वध᳓या पितॄ᳓न्त् स्वा᳓हा ।  
 
 </details>
 </div>

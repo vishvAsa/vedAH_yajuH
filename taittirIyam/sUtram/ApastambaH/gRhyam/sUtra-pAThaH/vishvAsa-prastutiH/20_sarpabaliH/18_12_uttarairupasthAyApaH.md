@@ -55,7 +55,7 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/15_ojasvinI_nAmAsi.md">
 ओजस्वि᳓नी ना᳓मासि दक्षिणा᳓ दि᳓क्।  
-त᳓स्यास् त इ᳓न्द्रो᳓ऽधिपतिः, [[पृदाकू᳓|पृ᳓दाकू]] रक्षिता᳓  
+त᳓स्यास् त इ᳓न्द्रो᳓ऽधिपतिः, पृ᳓दाकू रक्षिता᳓  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
 <details open><summary><h5>य᳓श् चा᳓धिपतिर् ...{Loading}...</h5></summary>

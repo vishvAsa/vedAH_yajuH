@@ -7,7 +7,8 @@ title = "१४ १४ अनाप्रीतेन"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/15_AbhiShTvAhan_dashabhirabhimRshAmi.md">
 <details open><summary><h2>१५ आभिष्ट्वाहन् दशभिरभिमृशामि ...{Loading}...</h2></summary>
 
-+++(अङ्गुलीभिर्)+++ आ॒भिष् ट्वा॒ ऽहं द॒शभि॑र् अ॒भिमृ॑शामि॒ - दश॒मास्या॑य॒ सूत॑वे ।+++(र४)+++  
++++(अङ्गुलीभिर्)+++ आभि᳓ष् ट्वा ऽहं᳓ दश᳓भिर् अभि᳓मृशामि -  
+[[द᳓श-मा᳓स्याय|द᳓श-मास्याय]] +++(→स्वरः??)+++ सू᳓तवे ।+++(र४)+++  
 
 </details>
 </div>

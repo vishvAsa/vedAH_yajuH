@@ -26,19 +26,19 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/04_kanyalA_pitRbhyo.md">
 <details open><summary><h2>०४ कन्यला पितृभ्यो ...{Loading}...</h2></summary>
 
-क॒न्य॒ला+++(=कन्यैव, लशब्द उपजनः)+++ पि॒तृभ्यो॑ य॒ती+++(=गच्छन्ती)+++ प॑तिलो॒कम्  
-अव॑+++(उपसर्गः)+++ +++(कन्या)+++दी॒क्षाम् अ॑दास्थ॒+++(=अवक्षपितवती त्यक्तवती)+++ स्वाहा॑ ।  
-+++(दीङ् क्षये। तकारस्य थकारः छान्दसः)+++
+[[कन्यला᳓|कन्य᳓ला]]+++(=कन्यैव, लशब्द उपजनः)+++ पितृ᳓भ्यो यती᳓+++(=गच्छन्ती)+++  
+पतिलोक᳓म्  
+अ᳓व+++(उपसर्गः)+++ +++(कन्या)+++दीक्षा᳓म् **अदास्थ**+++(=अवक्षपितवती त्यक्तवती ←दीङ् क्षये)+++ स्वा᳓हा ।
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/05_preto_munchAti.md">
 <details open><summary><h2>०५ प्रेतो मुञ्चाति ...{Loading}...</h2></summary>
 
-प्रे᳓तो᳓ **[[मुञ्चा᳓ति|मुञ्चाति]]**, +++(←चादिलोपे विभाषा)+++ ना᳓ऽमु᳓तस्+++(=पतिलोकात्)+++  
+प्रे᳓तो᳓ **मुञ्चा᳓ति**, +++(←चादिलोपे विभाषा)+++ ना᳓ऽमु᳓तस्+++(=पतिलोकात्)+++  
 सुबद्धा᳓म् अमु᳓तस् **करत्**+++(=कुरु)+++ ।  
 य᳓थेय᳓म् इन्द्र मीढ्वस्+++(=वर्षक इन्द्र)+++  
-सुपुत्रा᳓ [[सुभ᳓गा᳓|सुभ᳓गा]] ऽसति+++(=स्यात्)+++ ।+++(र५)+++
+सुपुत्रा᳓ सुभ᳓गा ऽसति+++(=स्यात्)+++ ।+++(र५)+++
 
 </details>
 </div>
@@ -97,10 +97,10 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/11_aprajastAm_pautra.md">
 <details open><summary><h2>११ अप्रजस्ताम् पौत्र ...{Loading}...</h2></summary>
 
-अ॒प्र॒ज॒स्तां पौ॑त्र मृ॒त्युं  
-पा॒प्मान॑म् उ॒त वा॒ ऽघम् ।  
-शी॒र्ष्णस् स्रज॑म् इवो॒न्मुच्य॑  
-द्वि॒षद्भ्यः॒ प्रति॑मुञ्चामि॒ पाश॑म् । +++(५)+++  
+[[अप्रजस्तां᳓|अप्रज᳓स्तां]] पौत्र-मृत्युं᳓  
+पाप्मा᳓नम् उत᳓ वा ऽघ᳓म् ।  
+शीर्ष्ण᳓स् स्र᳓जम् **इवोन्मु᳓च्य**  
+द्विष᳓द्भ्यः **प्र᳓तिमुञ्चामि** पा᳓शम् । +++(५)+++  
 
 </details>
 </div>
