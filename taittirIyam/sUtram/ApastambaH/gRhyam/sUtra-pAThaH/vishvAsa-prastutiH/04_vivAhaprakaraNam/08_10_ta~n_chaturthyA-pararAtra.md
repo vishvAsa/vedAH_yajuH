@@ -1,22 +1,15 @@
 +++
 title = "०८ १० तञ् चतुर्थ्याऽपररात्र"
-
 +++
 तं +++(दण्डं)+++ चतुर्थ्या ऽपररात्र +++(=रात्रेस्तृतीयो भागः)+++
 उत्तराभ्याम् +++(="उदीर्ष्वात" इत्येताभ्यां)+++ उत्थाप्य, प्रक्षाल्य, निधाय,  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/01_udIrShvAto_vishvAvaso.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/22_udIrShvAto_vishvAvaso.md">
 <details open><summary><h2>०१ उदीर्ष्वातो विश्वावसो ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/22_udIrShvAto_vishvAvaso.md">
-<details open><summary><h4>२२ उदीर्ष्वातो विश्वावसो ...{Loading}...</h4></summary>
-
 उदीर्ष्वा᳓ऽतो विश्वावसो +++(गन्धर्व)+++  
 न᳓मसेडामहे त्वा ।  
 अन्या᳓म् इच्छ प्रफर्व्यँ᳙+++(=प्रथमवयसं)+++  
-सञ्जायां᳓ प᳓त्या सृज ।  
-
-</details>
-</div>
+सञ्जायां᳓ प᳓त्या सृज ।
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/02_udIrShvAtaH_pativatI.md">
@@ -202,34 +195,22 @@ ______________
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_11/05_A_naH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/43_A_naH.md">
 <details open><summary><h2>०५ आ नः ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/43_A_naH.md">
-<details open><summary><h4>४३ आ नः ...{Loading}...</h4></summary>
-
 +++(गृहप्रवेशे - )+++  
 
-आ᳓ नः प्रजा᳓ञ् जनयतु प्रजा᳓पतिर्  
-आजरसा᳓य +++(स्नेहाय)+++ स᳓मनक्त्व् अर्यमा᳓ ।  
-अ᳓-दुर्-मङ्गलीः पतिलोक᳓म् आ᳓ विश  
-श᳓न् नो भव द्विप᳓दे श᳓ञ् च᳓तुष्पदे ।  
-
+आ᳓ नः प्रजा᳓ञ् **जनयतु** प्रजा᳓पतिर्  
+आजरसा᳓य +++(स्नेहाय)+++ **स᳓मनक्त्व्** अर्यमा᳓ ।  
+अ᳓-दुर्-मङ्गलीः पतिलोक᳓म् **आ᳓ विश**  
+श᳓न् नो **भव** द्विप᳓दे श᳓ञ् च᳓तुष्पदे ।
 </details>
 </div>
-</details>
-</div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_11/06_tAm_pUShanChivatamA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/37_tAM_pUShanChivatamAmerayasva.md">
 <details open><summary><h2>०६ ताम् पूषञ्छिवतमा ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/37_tAM_pUShanChivatamAmerayasva.md">
-<details open><summary><h4>३७ तां पूषञ्छिवतमामेरयस्व ...{Loading}...</h4></summary>
-
-तां᳓ पूषञ् छिव᳓तमाम् ए᳓रयस्व  
-य᳓स्यां बी᳓जं मनुष्या᳙ व᳓पन्ति ।  
-या᳓ न ऊरू᳓ उशती᳓+++(=कामयमाना)+++ विस्र᳓+++(श्र)+++यातै+++(=विश्लिष्टौ कुर्यात्)+++  
-य᳓स्याम् उश᳓न्तः+++(=कामयमानाः)+++ प्र᳓हरेम शे᳓फम् ॥+++(५)+++ (11)
-
-</details>
-</div>
+तां᳓ पूषञ् छिव᳓तमाम् **ए᳓रयस्व**  
+य᳓स्यां बी᳓जं मनुष्या᳙ **व᳓पन्ति** ।  
+या᳓ न ऊरू᳓ **उशती᳓**+++(=कामयमाना)+++ **विस्र᳓+++(श्र)+++यातै+++(=विश्लिष्टौ कुर्यात्)+++**  
+य᳓स्याम् **उश᳓न्तः+++(=कामयमानाः)+++ प्र᳓हरेम** शे᳓फम् ॥+++(५)+++ (11)
 </details>
 </div>
 

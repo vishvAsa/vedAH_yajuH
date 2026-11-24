@@ -1,6 +1,5 @@
 +++
 title = "०६ १० उत्तरपूर्वे"
-
 +++
 उत्तरपूर्वे देशे ऽगारस्याग्नेर् उपसमाधानाद्याज्यभागान्ते ऽन्वारब्धायाम् उत्तरा +++(="आगन्गोष्ठ"मित्याद्याः, लिङ्गविरोधे सत्यपि वर एव जुहोति, विधेर्बलीयस्त्वात् )+++ आहुतीर् हुत्वा जयादि प्रतिपद्यते  
 
@@ -37,18 +36,13 @@ title = "०६ १० उत्तरपूर्वे"
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/06_tena_bhUtena.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/078_dampatyo_rayiprAptaye_prArthanA/01_tena_bhUtena.md">
 <details open><summary><h2>०६ तेन भूतेन ...{Loading}...</h2></summary>
 
-### मन्त्रः
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/078_dampatyo_rayiprAptaye_prArthanA/01_tena_bhUtena.md">
-<details open><summary><h4>०१ तेन भूतेन ...{Loading}...</h4></summary>
-
-तेन॑ भू॒तेन॑ ह॒विषा॒यमा प्या॑यतां॒ पुनः॑।  
-जा॒यां याम॑स्मा॒ आवा॑क्षु॒स्तां रसे॑ना॒भि व॑र्धताम् ॥
-</details>
-</div>
+ते᳓न भूते᳓न हवि᳓षा  
+ऽय᳓म् आ᳓प्यायतां पु᳓नः।  
+जायां᳓ या᳓म् अस्मा आ+अ᳓वाक्षुस्  
+तां᳓ र᳓सेनाभि᳓ वर्धताम् ॥
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/07_abhivarddhatAm_payasA-bhi.md">

@@ -1,6 +1,5 @@
 +++
 title = "०५ ०१ प्राग्घोमात् प्रदक्षिणमग्निम्"
-
 +++
 प्राग्घोमात् प्रदक्षिणमग्निं कृत्वा, यथास्थानम् उपविश्यान्वारब्धायाम् उत्तरा +++(१६)+++ आहुतीर् जुहोति - "सोमाय जनिविदे स्वाहे"त्येतैः प्रतिमन्त्रम् ॥  
 
@@ -123,11 +122,8 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/14_tvanno_agne.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
 <details open><summary><h2>१४ त्वन्नो अग्ने ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
-<details open><summary><h4>०४ त्वं नो ...{Loading}...</h4></summary>
-
 त्व᳓न् नो अग्ने व᳓रुणस्य विद्वा᳓न्  
 देव᳓स्य हे᳓डो᳓+++(=क्रोधो )+++ ऽव यासिसीष्ठाः+++(=यक्षीष्ठाः)+++ ।  
 य᳓जिष्ठो +++(हविर्)+++व᳓ह्नितमश् शो᳓शुचानो+++(=देदीप्यमानः)+++  
@@ -136,13 +132,8 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
 </details>
 </div>
-</details>
-</div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/15_sa_tvanno.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
 <details open><summary><h2>१५ स त्वन्नो ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
-<details open><summary><h4>०५ स त्वं ...{Loading}...</h4></summary>
-
 स᳓ त्व᳓न् नो अग्ने ऽवमो᳓+++(=मूलभूतो)+++ **भव**+ऊती᳓+++(त्या)+++  
 +++(“अग्निरवमो देवतानां विष्णुः परमः” इति ब्राह्मणम्)+++  
 ने᳓दिष्ठो+++(=अन्तिकतमो)+++ अस्या᳓ उष᳓सो व्यु᳙ष्टौ+++(=व्युष्टायाम्)+++ ।  
@@ -150,8 +141,6 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 **वीहि᳓**+++(=खाद)+++ मृडीकँ᳓+++(=सुखयितारं [हविः])+++ सुह᳓वो न **एधि** ।
 
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
-</details>
-</div>
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/16_tvamagne_ayA-syayA.md">

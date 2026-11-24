@@ -1,6 +1,5 @@
 +++
 title = "०४ ०२ तानादितो द्वाभ्यामभिमन्त्रयेत"
-
 +++
 तानादितो द्वाभ्यामभिमन्त्रयेत २ +++("कृतप्राणायामोऽवरान् प्रेषयिष्ये" इति सङ्कल्प्य, "प्रसुग्मन्ते"ति द्वाभ्यां वरानभिमन्त्र्य, "यूयममुष्मात्कुलात्मह्यं कन्यां वृणीध्वम्" इति प्रेषयेत् । ततस्ते दुहितृमतो गृहं गत्वा, कन्यां दत्तसगोत्रत्वादिदोषरहितां बन्ध्वादिगुणसम्पन्नां च यत्नतोऽवधार्य, दुहितृमन्तं पित्रीदिकं "गौतमगोत्राय विष्णुशर्मणे वराय भवदीयां कन्यां प्रजासहत्वकर्मभ्यो वृणीमहे"इति ब्रूयुः । ततस्स पित्रादिर् "दास्यामी"ति प्रतिब्रूयात् । ततस्ते प्रत्येत्य, "सिद्धार्ता वय"मिति वरायावेदयेयुः । एतच्च वरप्रेषणाद्यासुरार्षयोरेव, नान्येषु अर्थलोपात् ।)+++
 
@@ -16,17 +15,11 @@ title = "०४ ०२ तानादितो द्वाभ्यामभ�
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/02_anRxarA_Rjavassantu.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/23_anRxarA_RjavaH.md">
 <details open><summary><h2>०२ अनृक्षरा ऋजवस्सन्तु ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/23_anRxarA_RjavaH.md">
-<details open><summary><h4>२३ अनृक्षरा ऋजवः ...{Loading}...</h4></summary>
-
 अनृक्षरा᳓+++(=कंटकशर्करादिरहिताः)+++ ऋज᳓वस् सन्तु प᳓न्था  
 ये᳓भिस् स᳓खायो य᳓न्ति नो वरेय᳓म्+++(=वरणीयं [कन्यायाः पित्रादिकं प्रति])+++ ।  
 स᳓म् अर्यमा᳓ सं᳓ भ᳓गो नो+++(=आवाम्, अस्मदो द्वयोश्च इति बहुवचनम्)+++ निनीयात्  
-स᳓ञ् जास्पत्यँ᳓+++(=जायापतिभावः)+++ सुय᳓मम् अस्तु देवाः ।+++(र५)+++  
-
-</details>
-</div>
+स᳓ञ् जास्पत्यँ᳓+++(=जायापतिभावः)+++ सुय᳓मम् अस्तु देवाः ।+++(र५)+++
 </details>
 </div>

@@ -1,6 +1,5 @@
 +++
 title = "०४ ०८ उत्तरेण यजुषा"
-
 +++
 उत्तरेण यजुषा +++(=अर्यम्णो अग्निं)+++ तस्याश्शिरसि दर्भेण्वं +++(=दर्भैः परिकल्पितमिण्वं निगलाकृतिं परिमण्डलाकारम् रोमककिरीटम् इव)+++ निधाय,  
 
@@ -41,18 +40,12 @@ title = "०४ ०८ उत्तरेण यजुषा"
 
 ### स्नानम्  
 उत्तराभिः पञ्चभिस् +++(=हिरण्यवर्णा)+++ स्नापयित्वा,  
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/01_hiraNyavarNAshshuchayaH_pAvakAH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/01_hiraNyavarNAH_shuchayaH.md">
 <details open><summary><h2>०१ हिरण्यवर्णाश्शुचयः पावकाः ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/01_hiraNyavarNAH_shuchayaH.md">
-<details open><summary><h4>०१ हिरण्यवर्णाः शुचयः ...{Loading}...</h4></summary>
-
 हिर॑ण्य-वर्णा॒श् शुच॑यः पाव॒काः  
 प्रच॑क्रमुर् ‌हि॒त्वा ऽव॒द्यम् आपः॑ ।  
 श॒तं प॒वित्रा॒ वित॑ता॒ ह्य् आ॑सु॒ +++(अप्सु)+++  
-ताभि॑ष् ट्वा दे॒वस् स॑वि॒ता पु॑नातु ।+++(र५)+++ 
-
-</details>
-</div>
+ताभि॑ष् ट्वा दे॒वस् स॑वि॒ता पु॑नातु ।+++(र५)+++
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/02_hiraNyavarNAshshuchayaH_pAvakA.md">
@@ -65,18 +58,12 @@ title = "०४ ०८ उत्तरेण यजुषा"
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/03_yAsAM_rAjA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/02_yAsAM_rAjA.md">
 <details open><summary><h2>०३ यासां राजा ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/02_yAsAM_rAjA.md">
-<details open><summary><h4>०२ यासां राजा ...{Loading}...</h4></summary>
-
 यासाँ॒ राजा॒ वरु॑णो॒ **याति॒** मद्ध्ये॑  
 सत्यानृ॒ते **अ॑व॒पश्य॒ञ्** जना॑नाम् ।  
 या अ॒ग्निं गर्भं॑ **दधि॒रे** सु॒वर्णा॒स्  
-तास् त॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।+++(५)+++ 
-
-</details>
-</div>
+तास् त॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।+++(५)+++
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/04_yAsAn_devA.md">
@@ -104,18 +91,12 @@ title = "०४ ०८ उत्तरेण यजुषा"
 ### अहतस्य वाससः परिधानम्  
 उत्तरया +++(=परि त्वा गिर्वणो गिरः)+++ ऽहतेन वाससाच्छाद्य,  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/06_pari_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/010/12_pari_tvA.md">
 <details open><summary><h2>०६ परि त्वा ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/010/12_pari_tvA.md">
-<details open><summary><h4>१२ परि त्वा ...{Loading}...</h4></summary>
-
 प᳓रि त्वा गिर्-वणो+++(=सम्भक्तः)+++  
 गि᳓र इमा᳓ भवन्तु विश्व᳓तः ।  
 वृद्धा᳓युम्+++(=वृद्धगम्)+++ अ᳓नु वृ᳓द्धयो,  
 +++(त्वया)+++ जु᳓ष्टा भवन्तु जु᳓ष्टयः ।+++(र४)+++
-
-</details>
-</div>
 </details>
 </div>
 

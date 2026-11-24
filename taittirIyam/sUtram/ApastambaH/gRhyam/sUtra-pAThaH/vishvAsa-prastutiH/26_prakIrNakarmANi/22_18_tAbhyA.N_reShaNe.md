@@ -1,20 +1,13 @@
 +++
 title = "२२ १८ ताभ्याँ रेषणे"
-
 +++
 ताभ्याँ +++(भूमौ पतितस्य)+++ रेषणे +++(=शरीरोपमर्दे)+++ पूर्ववत् +++("स्योना पृथिवी"इत्येताभ्यां)+++ पृथिवीम् अभिमृशेत् १८
 
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/08_syonA_pRthivi.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
 <details open><summary><h2>०८ स्योना पृथिवि ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
-<details open><summary><h4>१५ स्योना पृथिवि ...{Loading}...</h4></summary>
-
 स्योना᳓+++(=सुखरूपा)+++ पृथिवि भव+  
 अनृक्षरा᳓+++(=कण्टकादिरहिता)+++ निवे᳓शनी ।  
 य᳓च्छा नश् श᳓र्म सप्र᳓थाः+++(=सकीर्तिः)+++ ।
-
-</details>
-</div>
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">

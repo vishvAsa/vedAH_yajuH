@@ -1,6 +1,5 @@
 +++
 title = "०६ ११ अथास्याः पुँस्वोर्जीवपुत्रायाः"
-
 +++
 अथास्याः पुंस्वो +++(=या पुमांसमेव सूते न स्त्रियं सा )+++ जीवपुत्रायाः पुत्रमङ्क उत्तरयोपवेश्य +++(="सोमेनादित्या")+++ तस्मै फलान्युत्तरेण +++(=प्रस्वस्थः प्रेयः)+++ यजुषा प्रदायोत्तरे +++(="इह प्रियं प्रजयाः")+++ जपित्वा वाचं यच्छत +++(=मौनमाचरतः)+++ आ नक्षत्रेभ्यः ॥  
 
@@ -52,17 +51,11 @@ __________________
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/05_sumangalIriyaM_vadhUrimAm.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/33_sumangalIriyaM_vadhUrimAM.md">
 <details open><summary><h2>०५ सुमङ्गलीरियं वधूरिमाम् ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/33_sumangalIriyaM_vadhUrimAM.md">
-<details open><summary><h4>३३ सुमङ्गलीरियं वधूरिमां ...{Loading}...</h4></summary>
-
 सुमङ्गली᳓र् इयं᳓ वधू᳓र्  
-इमाँ᳓ समेत प᳓श्यत ।  
-सौ᳓भाग्यम् अस्यै᳓ दत्वा᳓या᳓+++(=दत्वा)+++-  
-ऽथा᳓ऽऽस्तं +++(स्वस्वगृहाणि)+++ वि᳓ प᳓रेतन+++(=गच्छत)+++ ।+++(र४)+++  
-
-</details>
-</div>
+इमाँ᳓ **समेत प᳓श्यत** ।  
+सौ᳓भाग्यम् अस्यै᳓ **दत्वा᳓य**+++(=दत्वा)+++-  
+**अ᳓था᳓ऽऽस्तं** +++(स्वस्वगृहाणि)+++ वि᳓ **प᳓रेतन**+++(=गच्छत)+++ ।+++(र४)+++
 </details>
 </div>

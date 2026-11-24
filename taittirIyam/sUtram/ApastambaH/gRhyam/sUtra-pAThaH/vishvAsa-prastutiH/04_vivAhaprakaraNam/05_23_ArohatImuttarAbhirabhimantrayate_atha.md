@@ -1,6 +1,5 @@
 +++
 title = "०५ २३ आरोहतीमुत्तराभिरभिमन्त्रयते अथ"
-
 +++
 आरोहतीमुत्तराभिरभिमन्त्रयते +++(="सुकिंशुकमि"त्येवमादिभिः)+++ ॥  
 
@@ -19,18 +18,12 @@ title = "०५ २३ आरोहतीमुत्तराभिरभिम
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/06_samrAjnI_shvashure.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/46_samrAjnI_shvashure.md">
 <details open><summary><h2>०६ सम्राज्ञी श्वशुरे ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/46_samrAjnI_shvashure.md">
-<details open><summary><h4>४६ सम्राज्ञी श्वशुरे ...{Loading}...</h4></summary>
-
 सम्रा᳓ज्ञी श्व᳓शुरे भव  
 सम्रा᳓ज्ञी श्वश्रुवां᳓ भव ।  
 न᳓नान्दरि सम्रा᳓ज्ञी भव  
-सम्रा᳓ज्ञी अ᳓धि देवृ᳓षु ।+++(५)+++  
-
-</details>
-</div>
+सम्रा᳓ज्ञी अ᳓धि देवृ᳓षु ।+++(५)+++
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/07_snuShANAM_shvashurANAm.md">

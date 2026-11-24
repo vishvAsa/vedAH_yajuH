@@ -1,22 +1,15 @@
 +++
 title = "१७ ०३ कॢप्तमुत्तरयाभिमृश्य"
-
 +++
 +++(समं यथा तथा)+++ कॢप्तम् उत्तरय+++("स्योना पृथिवी")+++ +अभिमृश्य  
 प्रदक्षिणं स्थूणागर्तान् खानयित्वा+++(नकारस्छान्दसः)+++  
 ऽभ्यन्तरं+++(=बहिरारभ्य मध्ये यथा समाप्यत इति हरदत्तः, विपरीतम् इति सुदर्शनसूरिः)+++ पाँसून् उदुप्य +++(=उद्धत्य)+++  
 
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/02_syonA_pRthivi.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
 <details open><summary><h2>०२ स्योना पृथिवि ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
-<details open><summary><h4>१५ स्योना पृथिवि ...{Loading}...</h4></summary>
-
 स्योना᳓+++(=सुखरूपा)+++ पृथिवि भव+  
 अनृक्षरा᳓+++(=कण्टकादिरहिता)+++ निवे᳓शनी ।  
 य᳓च्छा नश् श᳓र्म सप्र᳓थाः+++(=सकीर्तिः)+++ ।
-
-</details>
-</div>
 </details>
 </div>   
 
