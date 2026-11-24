@@ -2694,7 +2694,7 @@ Aus diesem vollständig dargebrachten Opfer sammelte sich das triefende Opfersch
 
 त᳓स्माद् यज्ञा᳓त् सर्वहु᳓तः  
 स᳓म्भृतम् पृषदाजिय᳓म्  
-पशू᳓न् तां᳓श् चक्रे वायव्या᳡न्  
+पशू᳓न् तां᳓श् चक्रे वायव्या᳙न्  
 आरण्या᳓न् ग्रामिया᳓श् च ये᳓
 </details>
 
@@ -3978,7 +3978,7 @@ Sein Mund ward zum Brahmanen, seine Arme zum Rādschanja, seine Schenkel zum Vai
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
-ब्राह्मणो᳡ ऽस्य मु᳓खम् आसीद्  
+ब्राह्मणो᳙ ऽस्य मु᳓खम् आसीद्  
 बाहू᳓ राजनि᳓यः कृतः᳓  
 ऊरू᳓ त᳓द् अस्य य᳓द् वइ᳓श्यः  
 पद्भ्यां᳓ शूद्रो᳓ अजायत
@@ -4008,7 +4008,7 @@ Sein Mund ward zum Brahmanen, seine Arme zum Rādschanja, seine Schenkel zum Vai
 
 <details><summary>Thomson & Solcum</summary>
 
-ब्राह्मणो᳡ ऽस्य मु᳓खम् आसीद्  
+ब्राह्मणो᳙ ऽस्य मु᳓खम् आसीद्  
 बाहू᳓ राजनि᳓यः कृतः᳓  
 ऊरू᳓ त᳓द् अस्य य᳓द् वइ᳓श्यः  
 पद्भ्यां᳓ शूद्रो᳓ अजायत
