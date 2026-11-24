@@ -11,6 +11,12 @@ thou art kindling; (may we prosper;)
 
 स॒मिद॑सि समेधिषी॒महि॒ स्वाहा॑ ।  
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒मिदिति॑ सम्-इत् । अ॒सि॒ । समिति॑ । ए॒धि॒षी॒महि॑ । स्वाहा॑ ।
+</details>
+
 <details><summary>हरदत्तः</summary>
 
 समिदसीति ॥ निगदव्याख्यातमेतत् ॥

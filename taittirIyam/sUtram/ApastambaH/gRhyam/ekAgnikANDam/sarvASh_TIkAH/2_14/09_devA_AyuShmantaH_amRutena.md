@@ -12,3 +12,9 @@ the gods are full of life; they are (full of life) through the ambrosia;
 
 दे॒वा आयु॑ष्मन्त॒स्ते॑ऽमृते॒नायु॑ष्मन्त॒स्तेन॒ …।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वाः । आयु॑ष्मन्तः । ते । अ॒मृते॑न । आयु॑ष्मन्तः । तेन॑ …।
+</details>
+
