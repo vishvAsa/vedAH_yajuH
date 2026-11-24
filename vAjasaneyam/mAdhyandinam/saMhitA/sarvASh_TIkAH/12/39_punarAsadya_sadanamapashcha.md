@@ -4,7 +4,7 @@ title = "३९ पुनरासद्य सदनमपश्च"
 +++
 <details><summary>Griffith</summary>
 
-Seated again upon thy seat, the waters, Agni! and the earth, In her, thou, most auspicious One, liest as in a mother's lap 40, 41 Return again, etc. Agni, return, etc. (verses 9 and 10 repeated).
+Seated again upon thy seat, the waters, Agni! and the earth, In her, thou, most auspicious One, liest as in a mother's lap.
 </details>
 
 <details><summary>मूलम्</summary>

@@ -4,7 +4,7 @@ title = "१११ ऋतावानं महिषम्"
 +++
 <details><summary>Griffith</summary>
 
-To him, the wise, who orders sacrifice, who hath great riches under his control, Thou givest blest award of good, and plenteous food, givest him wealth that conquers all.
+The men have set before them for their welfare Agni, strong, visible to all, the Holy. Thee, Godlike One, with ears to hear, most famous, men's generations magnify with praise-songs.
 </details>
 
 <details><summary>मूलम्</summary>

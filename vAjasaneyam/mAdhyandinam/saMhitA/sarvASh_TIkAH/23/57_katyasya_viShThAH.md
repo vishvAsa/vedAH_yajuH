@@ -4,7 +4,7 @@ title = "५७ कत्यस्य विष्ठाः"
 +++
 <details><summary>Griffith</summary>
 
-How many different forms hath this, how many syllables, burnt-oblations, brands for kindling? Here, of the rites of sacrifice I ask thee. How many Hotars in due season worship? 68 Sixfold its form, its syllables a hundred, eighty burnt-offerings, just three brands for kindling. To thee I tell the rites of sacrificing. Seven Hotars worship in appointed season.
+How many different forms hath this, how many syllables, burnt-oblations, brands for kindling? Here, of the rites of sacrifice I ask thee. How many Hotars in due season worship?
 </details>
 
 <details><summary>मूलम्</summary>

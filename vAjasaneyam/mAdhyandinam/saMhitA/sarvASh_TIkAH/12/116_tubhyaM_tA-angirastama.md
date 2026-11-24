@@ -4,7 +4,7 @@ title = "११६ तुभ्यं ताऽअङ्गिरस्तम"
 +++
 <details><summary>Griffith</summary>
 
-May Vatsa draw thy mind away, even from thy loftiest dwelling-place, Agni, with song that yearns for thee.
+Agni, best Angiras, to thee all people who have pleasant homes Apart have turned to gain their wish.
 </details>
 
 <details><summary>मूलम्</summary>

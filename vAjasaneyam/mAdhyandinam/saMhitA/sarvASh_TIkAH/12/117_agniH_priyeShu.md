@@ -4,7 +4,7 @@ title = "११७ अग्निः प्रियेषु"
 +++
 <details><summary>Griffith</summary>
 
-Agni, best Angiras, to thee all people who have pleasant homes Apart have turned to gain their wish.
+In dear homes, Agni, the desire of all that is and is to be, Shines forth the One Imperial Lord.
 </details>
 
 <details><summary>मूलम्</summary>

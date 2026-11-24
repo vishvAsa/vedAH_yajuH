@@ -2,6 +2,11 @@
 title = "२८ यजुर्भिराप्यन्ते ग्रहा"
 
 +++
+<details><summary>Griffith</summary>
+
+By sacrificial texts are gained the Grahas, and by the Grahas lauds and laud-arrangements. By metres are obtained Ukthas and praise-songs, and by the Sâma-chant the Avabhritha.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यजु॑र्भिराप्यन्ते॒ ग्रहा॒ ग्रहै॒ स्तोमा॑श्च॒ विष्टु॑तीः।  

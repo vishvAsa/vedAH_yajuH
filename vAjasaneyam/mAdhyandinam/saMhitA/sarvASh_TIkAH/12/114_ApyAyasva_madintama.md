@@ -4,7 +4,7 @@ title = "११४ आप्यायस्व मदिन्तम"
 +++
 <details><summary>Griffith</summary>
 
-In thee be juicy nutriments united, and power and mighty foe-subduing vigour. Waxing to immortality, O Soma, win highest glory for thyself in heaven.
+Wax, O most gladdening Soma, great through all thy filaments, and be A friend of most illustrious fame to prosper us.
 </details>
 
 <details><summary>मूलम्</summary>

@@ -2,6 +2,11 @@
 title = "५० आ जङ्घन्ति"
 
 +++
+<details><summary>Griffith</summary>
+
+He lays his blows upon their backs, He deals his strokes upon their thighs. Thou Whip who urgest horses, drive sagacious chargers in the fray.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ ज॑ङ्घन्ति॒ सान्वे॑षां ज॒घनाँ॒२ऽउप॑ जिघ्नते।  

@@ -4,7 +4,7 @@ title = "५० परि नो"
 +++
 <details><summary>Griffith</summary>
 
-May Rudra's missile turn aside and spare us, the great wrath of the impetuous One avoid us. Turn, Bounteous God, thy strong bow from our princes, and be thou gracious to our seed and offspring. I Most bounteous, most auspicious, be auspicious, well inclined to us. On some remotest tree lay down thy weapon. and clad in robe of skin approach, bearing thy bow come hitherward.
+May Rudra's missile turn aside and spare us, the great wrath of the impetuous One avoid us. Turn, Bounteous God, thy strong bow from our princes, and be thou gracious to our seed and offspring.
 </details>
 
 <details><summary>मूलम्</summary>

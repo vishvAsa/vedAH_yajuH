@@ -4,7 +4,7 @@ title = "९९ सहस्व मेऽअरातीः"
 +++
 <details><summary>Griffith</summary>
 
-Thee did Gandharvas dig from earth, thee Indra and Brihaspati. King Soma, knowing thee, O Plant, from his Consumption was made free.
+Conquer mine enemies, the men who challenge me do thou subdue. Conquer thou all unhappiness: victorious art thou, O Plant.
 </details>
 
 <details><summary>मूलम्</summary>

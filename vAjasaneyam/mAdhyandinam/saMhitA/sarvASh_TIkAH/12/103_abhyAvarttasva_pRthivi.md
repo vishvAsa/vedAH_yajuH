@@ -4,7 +4,7 @@ title = "१०३ अभ्यावर्त्तस्व पृथिवि
 +++
 <details><summary>Griffith</summary>
 
-May he not harm me who is earth's begetter, nor he whose laws are faithful, sky's pervades; Nor he who first begot the lucid waters. To Ka the God let us present oblation.
+Turn thyself hitherward, O Earth, to us with sacrifice and milk. Thy covering skin Agni, urged forth, hath mounted.
 </details>
 
 <details><summary>मूलम्</summary>

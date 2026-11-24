@@ -4,7 +4,7 @@ title = "८४ पावका नः"
 +++
 <details><summary>Griffith</summary>
 
-Wealthy in spoil, enriched with hymns, may pure Sarasvatî desire with eager love our sacrifice. S5 She who awakens sounds of joy, inspires our hymns, Sarasvatî, she hath allowed our sacrifice.
+Wealthy in spoil, enriched with hymns, may pure Sarasvatî desire with eager love our sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>

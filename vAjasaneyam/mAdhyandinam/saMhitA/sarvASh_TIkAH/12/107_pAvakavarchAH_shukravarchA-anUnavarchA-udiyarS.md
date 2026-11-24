@@ -4,7 +4,7 @@ title = "१०७ पावकवर्चाः शुक्रवर्चा
 +++
 <details><summary>Griffith</summary>
 
-Agni, life-power and fame are thine: thy fires blaze mightily, thou rich in wealth of beams! Sage, passing bright, thou givest to the worshipper, with strength, the food that merits laud.
+With brilliant, purifying sheen, with perfect sheen thou liftest up thyself in light. Thou, visiting both thy Mothers, aidest them as Son: thou joinest close the earth and heaven.
 </details>
 
 <details><summary>मूलम्</summary>

@@ -4,7 +4,7 @@ title = "१०१ त्वमुत्तमास्योषधे तव"
 +++
 <details><summary>Griffith</summary>
 
-Long-lived be he who digs thee, Plant, and he for whom I dig thee up. So mayst thou also, grown long-lived, rise upward with a hundred shoots.
+Most excellent of all art thou, O Plant; thy vassals are the trees. Let him be subject to our power, the man who seeks to injure us.
 </details>
 
 <details><summary>मूलम्</summary>

@@ -4,7 +4,7 @@ title = "२२ विश्वकर्मन् हविषा"
 +++
 <details><summary>Griffith</summary>
 
-Bring those, thyself exalted with oblation, O Visvakarman, Earth and Heaven to worship. Let enemies around us live in folly: here let us have a rich and liberal patron. 23, 24. = VIII. 45, 46.
+Bring those, thyself exalted with oblation, O Visvakarman, Earth and Heaven to worship. Let enemies around us live in folly: here let us have a rich and liberal patron.
 </details>
 
 <details><summary>मूलम्</summary>

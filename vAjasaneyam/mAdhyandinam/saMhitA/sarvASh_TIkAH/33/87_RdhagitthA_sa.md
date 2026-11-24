@@ -4,7 +4,7 @@ title = "८७ ऋधगित्था स"
 +++
 <details><summary>Griffith</summary>
 
-Yea, specially that mortal man hath toiled for service of the Gods, Who quickly hath brought near Mitra and Varuna to share his sacrificial gifts. 38 Approach ye, and be near to us. Drink, O ye Asvins, of the mead. Draw forth the milk, ye mighty, rich in genuine wealth! Injure us not, and come to us.
+Yea, specially that mortal man hath toiled for service of the Gods, Who quickly hath brought near Mitra and Varuna to share his sacrificial gifts.
 </details>
 
 <details><summary>मूलम्</summary>

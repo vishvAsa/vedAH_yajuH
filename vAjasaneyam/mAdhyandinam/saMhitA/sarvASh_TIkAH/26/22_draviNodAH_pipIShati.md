@@ -4,7 +4,7 @@ title = "२२ द्रविणोदाः पिपीषति"
 +++
 <details><summary>Griffith</summary>
 
-He with the Ritus fain would drink, Wealth-river, from the Neshtar's bowl. Begin, pay offerings: hasten ye. 28 Thine is this Soma: come thou near, approach it. Drink thou thereof, benevolent, and cease not. Sit on the sacred grass at this our worship, and take these drops into thy belly, Indra.
+He with the Ritus fain would drink, Wealth-river, from the Neshtar's bowl. Begin, pay offerings: hasten ye.
 </details>
 
 <details><summary>मूलम्</summary>

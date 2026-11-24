@@ -4,7 +4,7 @@ title = "२७ वायव्यैर्वायव्यान्याप�
 +++
 <details><summary>Griffith</summary>
 
-By Vâyu cups he gains the cups of Vâyu, and by the basket gains the vat for Soma. By the two jars he gains two cleansing-vessels, and by the cooking-pot the pot for cooking. 23 By sacrificial texts are gained the Grahas, and by the Grahas lauds and laud-arrangements. By metres are obtained Ukthas and praise-songs, and by the Sâma-chant the Avabhritha.
+By Vâyu cups he gains the cups of Vâyu, and by the basket gains the vat for Soma. By the two jars he gains two cleansing-vessels, and by the cooking-pot the pot for cooking.
 </details>
 
 <details><summary>मूलम्</summary>

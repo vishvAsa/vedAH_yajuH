@@ -2,6 +2,11 @@
 title = "५६ अयं ते"
 
 +++
+<details><summary>Griffith</summary>
+
+This is thine ordered place of birth whence, sprung to life, thou shonest forth. Knowing this, Agni, rise thou up and cause our riches to increase.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यं ते॒ योनि॑र्ऋ॒त्वियो॒ यतो॑ जा॒तोऽअरो॑चथाः।  

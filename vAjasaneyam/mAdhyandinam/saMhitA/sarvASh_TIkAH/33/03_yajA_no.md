@@ -2,6 +2,11 @@
 title = "०३ यजा नो"
 
 +++
+<details><summary>Griffith</summary>
+
+Bring to us Mitra-Varuna, bring the Gods to the great sacrifice; Bring them, O Agni, to thine home.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यजा॑ नो मि॒त्रावरु॑णा॒ यजा॑ दे॒वाँ२ऽऋ॒तं बृ॒हत्।  

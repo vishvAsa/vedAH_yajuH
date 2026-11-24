@@ -4,7 +4,7 @@ title = "०२ हरयो धूमकेतवो"
 +++
 <details><summary>Griffith</summary>
 
-Gold-coloured, bannered with the smoke, urged by the wind, aloft to heaven Rise, lightly borne, the flames of fire. Bring to us Mitra-Varuna, bring the Gods to the great sacrifice; Bring them, O Agni, to thine home.
+Gold-coloured, bannered with the smoke, urged by the wind, aloft to heaven Rise, lightly borne, the flames of fire.
 </details>
 
 <details><summary>मूलम्</summary>

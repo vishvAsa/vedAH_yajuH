@@ -2,6 +2,11 @@
 title = "२३ तवायं सोमस्त्वमेह्यर्वाङ्"
 
 +++
+<details><summary>Griffith</summary>
+
+Thine is this Soma: come thou near, approach it. Drink thou thereof, benevolent, and cease not. Sit on the sacred grass at this our worship, and take these drops into thy belly, Indra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तवा॒यँ सोम॒स्त्वमेह्य॒र्वाङ् श॑श्वत्त॒मँ सु॒मना॑ऽअ॒स्य पा॑हि।  

@@ -4,7 +4,7 @@ title = "१०० दीर्घायुस्तऽओषधे खनित
 +++
 <details><summary>Griffith</summary>
 
-Conquer mine enemies, the men who challenge me do thou subdue. Conquer thou all unhappiness: victorious art thou, O Plant.
+Long-lived be he who digs thee, Plant, and he for whom I dig thee up. So mayst thou also, grown long-lived, rise upward with a hundred shoots.
 </details>
 
 <details><summary>मूलम्</summary>

@@ -2,6 +2,11 @@
 title = "२४ अग्नेरनीकमपऽआविवेशापां नपात्"
 
 +++
+<details><summary>Griffith</summary>
+
+The waters, face of Agni, have I entered, O Waters’ Child, repelling evil spirits. Offer the fuel in each home, O Agni. Let thy tongue dart —All-hail!—to meet the butter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेरनी॑कम॒पऽआवि॑वेशा॒पां नपा॑त् प्रति॒रक्ष॑न्नसु॒र्य᳖म्।  

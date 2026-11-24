@@ -4,7 +4,7 @@ title = "१०४ अग्ने यत्ते"
 +++
 <details><summary>Griffith</summary>
 
-Turn thyself hitherward, O Earth, to us with sacrifice and milk. Thy covering skin Agni, urged forth, hath mounted.
+All, Agni, that in thee is bright, pure, cleansed, and meet for sacrifice, That do we bring unto the Gods.
 </details>
 
 <details><summary>मूलम्</summary>

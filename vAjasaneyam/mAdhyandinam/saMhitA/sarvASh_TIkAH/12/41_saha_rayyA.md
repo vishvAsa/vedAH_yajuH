@@ -2,6 +2,11 @@
 title = "४१ सह रय्या"
 
 +++
+<details><summary>Griffith</summary>
+
+Agni, return with store of wealth. Swell with thine overflowing stream that feedeth all on every side.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒ह र॒य्या निव॑र्त्त॒स्वाग्ने॒ पिन्व॑स्व॒ धा॑रया।  

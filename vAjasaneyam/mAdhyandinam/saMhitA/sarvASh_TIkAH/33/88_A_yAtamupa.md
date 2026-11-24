@@ -2,6 +2,11 @@
 title = "८८ आ यातमुप"
 
 +++
+<details><summary>Griffith</summary>
+
+Approach ye, and be near to us. Drink, O ye Asvins, of the mead. Draw forth the milk, ye mighty, rich in genuine wealth! Injure us not, and come to us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ या॑त॒मुप॑ भूषतं॒ मध्वः॑ पिबतमश्विना।  

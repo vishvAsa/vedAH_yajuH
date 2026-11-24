@@ -4,7 +4,7 @@ title = "२३ उप प्रागाच्छसनम्"
 +++
 <details><summary>Griffith</summary>
 
-The strong Steed hath come forward to the slaughter, pondering with a mind directed God-ward. The goat who is his kin is led before him: the sages and the singers follow after. 21 The Steed is come unto the noblest mansion, is come unto his Father and his Mother. This day shall he approach the Gods, most welcome: then he declares good gifts to him who worships.
+The strong Steed hath come forward to the slaughter, pondering with a mind directed God-ward. The goat who is his kin is led before him: the sages and the singers follow after.
 </details>
 
 <details><summary>मूलम्</summary>

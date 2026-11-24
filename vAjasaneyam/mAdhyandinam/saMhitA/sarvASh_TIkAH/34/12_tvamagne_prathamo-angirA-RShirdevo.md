@@ -4,7 +4,7 @@ title = "१२ त्वमग्ने प्रथमोऽअङ्गिर
 +++
 <details><summary>Griffith</summary>
 
-O Agni, thou the earliest Angiras, the Seer, hast, God thyself, become the Gods’ auspicious Friend. After thy holy ordinance the Maruts, sage, active through wisdom, with their glittering spears, were born. 15 Worthy to be revered, O Agni, God, preserve our wealthy patrons with thy succours, and ourselves. Guard art thou of our seed and progeny and cows, incessantly protecting in thy holy law.
+O Agni, thou the earliest Angiras, the Seer, hast, God thyself, become the Gods’ auspicious Friend. After thy holy ordinance the Maruts, sage, active through wisdom, with their glittering spears, were born.
 </details>
 
 <details><summary>मूलम्</summary>

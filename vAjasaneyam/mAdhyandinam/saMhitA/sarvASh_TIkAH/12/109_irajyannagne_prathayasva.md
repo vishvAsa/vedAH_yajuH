@@ -4,7 +4,7 @@ title = "१०९ इरज्यन्नग्ने प्रथयस्व
 +++
 <details><summary>Griffith</summary>
 
-O Jâtavedas, Son of Strength, rejoice thyself, gracious, in our fair hymns and songs. In thee are treasured various forms of strengthening food, born nobly and of wondrous help.
+Agni, spread forth, as Ruler, over living things: give wealth to us, Immortal God. Thou shinest out from beauty fair to look upon: thou leadest us to conquering power.
 </details>
 
 <details><summary>मूलम्</summary>

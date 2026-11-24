@@ -4,7 +4,7 @@ title = "५५ येन वहसि"
 +++
 <details><summary>Griffith</summary>
 
-Convey our sacrifice to heaven that it may reach the God with that Whereby thou, Agni, bearest wealth in thousands and all precious things. 6 56 This is thine ordered place of birth whence sprung to life thou shonest forth. Knowing this, Agni, rise thou up and cause our riches to increase.
+Convey our sacrifice to heaven that it may reach the God with that Whereby thou, Agni, bearest wealth in thousands and all precious things.
 </details>
 
 <details><summary>मूलम्</summary>

@@ -2,6 +2,11 @@
 title = "२४ उप प्रागात्"
 
 +++
+<details><summary>Griffith</summary>
+
+The Steed is come unto the noblest mansion, is come unto his Father and his Mother. This day shall he approach the Gods, most welcome: then he declares good gifts to him who worships.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॒ प्रागा॑त् पर॒मं यत्स॒धस्थ॒मर्वाँ॒२ऽअच्छा॑ पि॒तरं॑ मा॒तरं॑ च।  

@@ -2,6 +2,11 @@
 title = "१२ तनूनपादसुरो विश्ववेदा"
 
 +++
+<details><summary>Griffith</summary>
+
+Tanûnapât the Asura, all-possessing, God among Gods, the God with mead and butter shall bedew the paths.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तनू॒नपा॒दसु॑रो वि॒श्ववे॑दा दे॒वो दे॒वेषु॑ दे॒वः।  

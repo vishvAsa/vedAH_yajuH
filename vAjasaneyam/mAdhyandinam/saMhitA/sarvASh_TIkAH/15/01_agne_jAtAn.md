@@ -4,7 +4,7 @@ title = "०१ अग्ने जातान्"
 +++
 <details><summary>Griffith</summary>
 
-DRIVE our born enemies away, O Agni; drive from us foes unborn, O Jâtavedas. Graciously-minded, free from anger, bless us: may we enjoy my firm thrice-guarding shelter. Drive off with might our foemen born and living: keep off these yet unborn, O Jâtavedas. Benevolent in thought and spirit bless us. May we remain alive: drive off our foemen.
+DRIVE our born enemies away, O Agni; drive from us foes unborn, O Jâtavedas. Graciously-minded, free from anger, bless us: may we enjoy thy firm thrice-guarding shelter.
 </details>
 
 <details><summary>मूलम्</summary>

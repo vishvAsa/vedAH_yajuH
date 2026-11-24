@@ -2,6 +2,11 @@
 title = "२४ तच्चक्षुर्देवहितं पुरस्ताच्छुक्रमुच्चरत्"
 
 +++
+<details><summary>Griffith</summary>
+
+Through hundred autumns may we see that bright Eye, God-appointed, rise, A hundred autumns may we live. Through hundred autumns may we hear; through hundred autumns clearly speak: through hundred autumns live content; a hundred autumns, yea, beyond a hundred autumns may we see.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तच्चक्षु॑र्दे॒वहि॑तं पु॒रस्ता॑च्छु॒क्रमुच्च॑रत्।  

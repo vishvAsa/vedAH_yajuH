@@ -2,6 +2,11 @@
 title = "०२ सहसा जातान्"
 
 +++
+<details><summary>Griffith</summary>
+
+Drive off with might our foemen born and living: keep off those yet unborn, O Jâtavedas. Benevolent in thought and spirit bless us. May we remain alive: drive off our foemen.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सह॑सा जा॒तान् प्रणु॑दा नः स॒पत्ना॒न् प्रत्यजा॑तान् जातवेदो नुदस्व।  

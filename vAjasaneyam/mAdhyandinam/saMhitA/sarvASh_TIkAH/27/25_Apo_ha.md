@@ -2,6 +2,11 @@
 title = "२५ आपो ह"
 
 +++
+<details><summary>Griffith</summary>
+
+What time the mighty waters came containing the universal germ, producing Agni, Thence sprung the Gods’ one spirit into being. What God shall we adore with our oblation?
+</details>
+
 <details><summary>मूलम्</summary>
 
 आपो॑ ह॒ यद् बृ॑ह॒तीर्विश्व॒माय॒न् गर्भं॒ दधा॑ना ज॒नय॑न्तीर॒ग्निम्।  

@@ -4,7 +4,7 @@ title = "९८ त्वां गन्धर्वाऽअखनँस्त
 +++
 <details><summary>Griffith</summary>
 
-Banisher of catarrh art thou, of tumours and of hemorrhoids; Thou banished Pâkâru and Consumption in a hundred forms.
+Thee did Gandharvas dig from earth, thee Indra and Brihaspati. King Soma, knowing thee, O Plant, from his Consumption was made free.
 </details>
 
 <details><summary>मूलम्</summary>

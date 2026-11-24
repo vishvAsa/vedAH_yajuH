@@ -4,7 +4,7 @@ title = "११० इष्कर्त्तारमध्वरस्य प
 +++
 <details><summary>Griffith</summary>
 
-Agni, spread forth, as Ruler, over living things: give wealth to us, Immortal God. Thou shinest out from beauty fair to look upon: thou leadest us to conquering power.
+To him, the wise, who orders sacrifice, who hath great riches under his control, Thou givest blest award of good, and plenteous food, givest him wealth that conquers all.
 </details>
 
 <details><summary>मूलम्</summary>

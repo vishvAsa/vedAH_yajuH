@@ -2,6 +2,11 @@
 title = "८६ महोऽअर्णः सरस्वती"
 
 +++
+<details><summary>Griffith</summary>
+
+Sarasvatî, the mighty flood, she with her light illuminates, she brightens every pious thought.
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒होऽअर्णः॒ सर॑स्वती॒ प्र चे॑तयति के॒तुना॑।  

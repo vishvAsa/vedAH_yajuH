@@ -4,7 +4,7 @@ title = "११२ आप्यायस्व समेतु"
 +++
 <details><summary>Griffith</summary>
 
-The men have set before them for their welfare Agni, strong, visible to all, the Holy. Thee, Godlike One, with ears to hear, most famous, men's generations magnify with praise-songs.
+Soma, wax great. From every side may vigorous powers unite in thee. Be in the gathering-place of strength.
 </details>
 
 <details><summary>मूलम्</summary>

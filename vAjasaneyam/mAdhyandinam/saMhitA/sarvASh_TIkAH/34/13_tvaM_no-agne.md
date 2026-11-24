@@ -2,6 +2,11 @@
 title = "१३ त्वं नोऽअग्ने"
 
 +++
+<details><summary>Griffith</summary>
+
+Worthy to be revered, O Agni, God, preserve our wealthy patrons with thy succours, and ourselves. Guard art thou of our seed and progeny and cows, incessantly protecting in thy holy law.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वं नो॑ऽअग्ने॒ तव॑ देव पा॒युभि॑र्म॒घोनो॑ रक्ष त॒न्व᳖श्च वन्द्य।  

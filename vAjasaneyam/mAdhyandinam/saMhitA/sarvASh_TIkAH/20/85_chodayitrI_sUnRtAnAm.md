@@ -4,7 +4,7 @@ title = "८५ चोदयित्री सूनृतानाम्"
 +++
 <details><summary>Griffith</summary>
 
-Sarasvatî, the mighty flood, she with her light illuminates, she brightens every pious thought.
+She who awakens sounds of joy, inspires our hymns, Sarasvatî, she hath allowed our sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>

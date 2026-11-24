@@ -4,7 +4,7 @@ title = "११३ सं ते"
 +++
 <details><summary>Griffith</summary>
 
-Soma, wax great. From every side may vigorous powers unite in thee. Be in the gathering-place of strength.
+In thee be juicy nutriments united, and power and mighty foe-subduing vigour. Waxing to immortality, O Soma, win highest glory for thyself in heaven.
 </details>
 
 <details><summary>मूलम्</summary>

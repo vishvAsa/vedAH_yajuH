@@ -2,6 +2,11 @@
 title = "२३ वाचस्पतिं विश्वकर्माणमूतये"
 
 +++
+<details><summary>Griffith</summary>
+
+Let us invoke to-day, to aid our labour, the Lord of Speech, the thought-swift Visvakarman. May he hear kindly all our invocations, who gives all bliss for aid, whose works are righteous.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒चस्पतिं॑ वि॒श्वक॑र्माणमू॒तये॑ मनो॒जुवं॒ वाजे॑ऽअ॒द्या हु॑वेम।  

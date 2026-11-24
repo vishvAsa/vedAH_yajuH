@@ -4,7 +4,7 @@ title = "१०६ अग्ने तव"
 +++
 <details><summary>Griffith</summary>
 
-I from this place have fed on strength and vigour, the womb of holy Law, stream of the mighty. In cows let it possess me and in bodies. I quit decline and lack of food, and sickness.
+Agni, life-power and fame are thine: thy fires blaze mightily, thou rich in wealth of beams! Sage, passing bright, thou givest to the worshipper, with strength, the food that merits laud.
 </details>
 
 <details><summary>मूलम्</summary>

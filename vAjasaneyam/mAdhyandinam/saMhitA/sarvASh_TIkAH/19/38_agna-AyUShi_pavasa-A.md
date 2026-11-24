@@ -2,6 +2,11 @@
 title = "३८ अग्नऽआयू\uf15cषि पवसऽआ"
 
 +++
+<details><summary>Griffith</summary>
+
+Agni, thou pourest life: send down upon us food and vigorous strength. Drive thou misfortune far away.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्न॒ऽआयूँ॑षि पवस॒ऽआ सु॒वोर्ज॒मिषं॑ च नः।  

@@ -4,7 +4,7 @@ title = "१०८ ऊर्जो नपाज्जातवेदः"
 +++
 <details><summary>Griffith</summary>
 
-With brilliant, purifying sheen, with perfect sheen thou liftest up thyself in light. Thou, visiting both thy Mothers, aidest them as Son: thou joinest close the earth and heaven.
+O Jâtavedas, Son of Strength, rejoice thyself, gracious, in our fair hymns and songs. In thee are treasured various forms of strengthening food, born nobly and of wondrous help.
 </details>
 
 <details><summary>मूलम्</summary>

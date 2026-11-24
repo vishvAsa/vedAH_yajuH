@@ -4,7 +4,7 @@ title = "४९ ऋजीते परि"
 +++
 <details><summary>Griffith</summary>
 
-Avoid as thou whose flight is straight, and let our bodies be as stone. May Soma kindly speak to us, and Aditi protect us well. 59 He lays his blows upon their backs, He deals his strokes upon their thighs. Thou Whip who urgest horses, drive sagacious chargers in the fray.
+Avoid as thou whose flight is straight, and let our bodies be as stone. May Soma kindly speak to us, and Aditi protect us well.
 </details>
 
 <details><summary>मूलम्</summary>

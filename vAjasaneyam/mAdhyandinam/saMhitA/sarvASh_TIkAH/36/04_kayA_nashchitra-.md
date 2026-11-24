@@ -2,6 +2,11 @@
 title = "०४ कया नश्चित्रऽ"
 
 +++
+<details><summary>Griffith</summary>
+
+What succour will he bring to us, wonderful, ever-prospering Friend? With what most mighty company?
+</details>
+
 <details><summary>मूलम्</summary>
 
 कया॑ नश्चि॒त्रऽ आ भु॑वदू॒ती स॒दावृ॑धः॒ सखा॑।  

@@ -2,6 +2,11 @@
 title = "२४ विश्वकर्मन् हविषा"
 
 +++
+<details><summary>Griffith</summary>
+
+With strengthening libation, Visvakarman, thou madest Indra an undying guardian. The people of old time bowed down before him because the Mighty One was meet for worship.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्व॑कर्मन् ह॒विषा॒ वर्द्ध॑नेन त्रा॒तार॒मिन्द्र॑मकृणोरव॒ध्यम्।  

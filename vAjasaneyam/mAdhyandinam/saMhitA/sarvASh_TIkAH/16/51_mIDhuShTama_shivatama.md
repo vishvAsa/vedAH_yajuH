@@ -2,6 +2,11 @@
 title = "५१ मीढुष्टम शिवतम"
 
 +++
+<details><summary>Griffith</summary>
+
+Most bounteous, most auspicious, be auspicious, well inclined to us. On some remotest tree lay down thy weapon, and clad in robe of skin approach, bearing thy bow come hitherward.
+</details>
+
 <details><summary>Keith</summary>
 
 O most bounteous, most auspicious,  

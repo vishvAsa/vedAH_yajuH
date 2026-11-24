@@ -2,6 +2,11 @@
 title = "५८ षडस्य विष्ठाः"
 
 +++
+<details><summary>Griffith</summary>
+
+Sixfold its form, its syllables a hundred, eighty burnt-offerings, just three brands for kindling. To thee I tell the rites of sacrificing. Seven Hotars worship in appointed season.
+</details>
+
 <details><summary>मूलम्</summary>
 
 षड॑स्य वि॒ष्ठाः श॒तम॒क्षरा॑ण्यशी॒तिर्होमाः॑ स॒मिधो॑ ह ति॒स्रः।  

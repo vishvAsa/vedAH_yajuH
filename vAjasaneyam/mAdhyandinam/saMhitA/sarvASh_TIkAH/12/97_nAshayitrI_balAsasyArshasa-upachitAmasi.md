@@ -4,7 +4,7 @@ title = "९७ नाशयित्री बलासस्यार्शस
 +++
 <details><summary>Griffith</summary>
 
-Most excellent of all art thou, O Plant: thy vassals are the trees. Let him be subject to our power, the man who seeks to injure us.
+Banisher of catarrh art thou, of tumours and of hemorrhoids; Thou banished Pâkâru and Consumption in a hundred forms.
 </details>
 
 <details><summary>मूलम्</summary>

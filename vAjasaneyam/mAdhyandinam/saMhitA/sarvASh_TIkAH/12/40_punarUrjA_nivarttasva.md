@@ -2,6 +2,11 @@
 title = "४० पुनरूर्जा निवर्त्तस्व"
 
 +++
+<details><summary>Griffith</summary>
+
+Return again with nourishment; Agni, again with food and life. Again preserve us from distress.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुन॑रू॒र्जा निव॑र्त्तस्व॒ पुन॑रग्नऽइ॒षायु॑षा।  

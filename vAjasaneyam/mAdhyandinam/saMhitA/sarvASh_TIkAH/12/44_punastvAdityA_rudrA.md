@@ -2,6 +2,11 @@
 title = "४४ पुनस्त्वादित्या रुद्रा"
 
 +++
+<details><summary>Griffith</summary>
+
+Again let the Âdityas, Rudras, Vasus, and Brahmans with their rites light thee, Wealth-bringer! Increase thy body with presented butter: effectual be the Sacrificer's wishes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुन॑स्त्वादि॒त्या रु॒द्रा वस॑वः॒ समि॑न्धतां॒ पुन॑र्ब्र॒ह्माणो॑ वसुनीथ य॒ज्ञैः।  

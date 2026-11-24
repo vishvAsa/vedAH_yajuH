@@ -4,7 +4,7 @@ title = "१०२ मा मा"
 +++
 <details><summary>Griffith</summary>
 
-Most excellent of all art thou, O Plant; thy vassals are the trees. Let him be subject to our power, the man who seeks to injure us.
+May he not harm me who is earth's begetter, nor he whose laws are faithful, sky's pervades; Nor he who first begot the lucid waters. To Ka the God let us present oblation.
 </details>
 
 <details><summary>मूलम्</summary>
