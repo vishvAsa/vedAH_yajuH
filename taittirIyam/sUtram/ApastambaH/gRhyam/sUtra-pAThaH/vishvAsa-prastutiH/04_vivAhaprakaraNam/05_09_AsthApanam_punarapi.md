@@ -7,7 +7,7 @@ title = "०५ ०९ आस्थापनम् पुनरपि"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/38_tubhyamagre_paryavahantsUryAM.md">
 <details open><summary><h2>०८ तुभ्यमग्रे पर्यवहन् ...{Loading}...</h2></summary>
 
-+++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](../../../../../../../../../../vedAH_Rk/static/shAkalam/saMhitA/vishvAsa-prastutiH/10/AdityaH/Rk/raibhy_AsId_anudeyI) दृश्या।)+++  
++++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085_sUryA-sUktam/) दृश्या।)+++  
 
 तु᳓भ्यम् +++(अग्नये)+++ अ᳓ग्रे +++(गन्धर्वाः)+++  प᳓र्यवहन्त्  
 सूर्यां᳓ वहतु᳓ना सह᳓ ।  
