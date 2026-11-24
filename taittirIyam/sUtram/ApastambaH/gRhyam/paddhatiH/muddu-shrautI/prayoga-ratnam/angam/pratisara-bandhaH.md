@@ -5054,7 +5054,6 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 ### ब्रह्मसूक्तम्
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam">
-
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 21यद् उक्तं सूत्रकारेण  
@@ -5063,18 +5062,21 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 वपायाः पुरोनुवाक्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः …{Loading}…</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
 
-ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑द्  
-वि सी॑म॒तस् सु॒रुचो॑ वे॒न **आ॑वः** ।  
-स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य **वि॒ष्ठाः** +++(=विस्थितः)+++,  
-स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ **विवः॑** +++(=विवृतवान्)+++  ।
+<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
+
+ब्र᳓ह्म +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञानं᳓ +++(=उत्पन्नम्)+++ प्रथमं᳓ पुर᳓स्ताद्  
+वि᳓ सीमत᳓स् सुरु᳓चो वेन᳓ **आवः** ।  
+स᳓ बुध्न्या᳙ +++(=मूले भवः ([खस्य सूर्यः]))+++ उपमा᳓ अस्य **विष्ठाः᳓** +++(=विस्थितः)+++,  
+सत᳓श्च यो᳓निम् +++(सूर्यम्)+++ अ᳓सतश्च **वि᳓वः** +++(=विवृतवान्)+++  ।
 
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/13/03_brahma_jajnAnam.md">
-<details><summary><h8>सर्वाष् टीकाः …{Loading}…</h8></summary>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/13/03_brahma_jajnAnam.md">
+
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 ब्रह्म॑। ज॒ज्ञा॒नम्। प्र॒थ॒मम्। पु॒रस्ता॑त्। वि। सी॒म॒तः। सु॒रुच॒ इति॑ सु॒ऽरुचः॑। वे॒नः। आ॒व॒रित्या॑वः। सः। बु॒ध्न्याः᳖। उ॒प॒मा इत्यु॑प॒ऽमाः। अ॒स्य॒। वि॒ष्ठाः। वि॒स्था इति॑ वि॒ऽस्थाः। स॒तः। च॒। योनि॑म्। अस॑तः। च॒। वि। व॒रिति॑ वः। ३।
@@ -5099,7 +5101,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 मनुष्यों को किस स्वरूपवाला ब्रह्म उपासना के योग्य है, यह विषय अगले मन्त्र में कहा है ॥
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 यदेतज्जगत्कारणं ब्रह्म 'सत्यं ज्ञानमनन्तं ब्रह्म' इत्यादिश्रुतिप्रसिद्धं तदेतत् प्रथमं सृष्ट्यादौ जज्ञानं जगदाकारेणोत्पद्यमानं सत् पुरस्तात् पूर्वस्यां दिशि वेनः कमनीय आदित्यो भूत्वा सुरुचः सुष्ठु दीप्यमानः सीमतः पूर्वदक्षिणपश्चिमोदग्दिग्विशेषसीम्नो विभज्य आवः आवृणोत् । स वेनः आदित्यो बुध्नियाः बुध्नं मूलं तत्र भवाः आकाशवाय्वग्निजलपृथिव्यः विष्ठाः विभज्यावस्थिता अकरोदिति शेषः । तथा सतश्च विद्यमानस्य गिरिनदीसमुद्रादेः असतश्च अविद्यमानस्य योनिं कारणं प्रमाणं भ्रान्तिरूपं विवः विवृतवान् सर्वजगद्व्यवस्थां निर्मितवानित्यर्थः ॥
 </details>
@@ -5134,6 +5136,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 भावार्थभाषाः -  ज्या ब्रह्माला जाणण्यासाठी या जगात व्यक्त व अव्यक्त अनेक प्रकारचे दृष्टांत आहेत, असा तो सर्वत्र व्याप्त असून सर्वांचे आच्छादन आहे व सर्वांना प्रकाश देणारा आहे. उत्तम नियमांनी सर्व ग्रह व गोलांना (चंद्र, सूर्य इत्यादींना) आपल्या कक्षेत ठेवणारा आहे. तोच अंतर्यामी परमात्मा (सर्व माणसांनी) सदैव उपासना करण्यायोग्य आहे. याशिवाय इतर कोणताही पदार्थ उपासना करण्यायोग्य नाही.
 </details>
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -5141,8 +5144,9 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 22अथ वपाया याज्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 पिता᳓ विरा᳓जाम्, ऋषभो᳓ रयीणा᳓म् ।  
 अन्त᳓रिक्षव्ँ विश्व᳓-रूप **आ᳓विवेश** ।  
@@ -5150,10 +5154,12 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 ब्र᳓ह्म स᳓न्तम् ब्र᳓ह्मणा **वर्ध᳓यन्तः** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 पि॒ता वि॒राजा॑मृष॒भो र॑यी॒णाम् ।  
@@ -5167,6 +5173,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 योऽयं वेन आदित्यः पूर्वमुक्तः सोऽयं विराजां विशेषेण राजमानानां रयीणां धनानां पिता पालयिता, ऋषभः श्रेष्ठः, विश्वरूपः पुर्वाह्णादिषु वसन्तादिषु कालविशेषेषु च बहुरूपः तादृशोऽयमिदमन्तरिक्षमाविवेश प्रतिदिनं प्रविशति । ब्रह्म सन्तं परब्रह्मस्वरूप एव भूत्वाऽवस्थितं ततं आदित्यं ब्रह्मणा मन्त्रेण वर्धयन्तो ब्राह्मणा अर्कैः अर्चनीयैः अभ्यर्चन्ति अभितः पूजयन्ति । तत्र दृष्टान्तः - वत्सं यथा दोग्धुकामाः पुरुषा वत्समुपलालयन्ति एवं फलकामा आदित्यमभ्यर्चन्ति ॥
 </details>
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -5174,8 +5181,9 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 23अथ पुरोडाशस्य पुरोनुवाक्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ब्र᳓ह्म देवा᳓न् **अजनयत्** ।  
 ब्र᳓ह्म वि᳓श्वम् इद᳓ञ् ज᳓गत् ।  
@@ -5183,10 +5191,12 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 ब्र᳓ह्म ब्राह्मण᳓ आत्म᳓ना ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑ दे॒वान॑जनयत् ।  
@@ -5200,6 +5210,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 यज्जगत्कारणं ब्रह्म तदेव देवान् इन्द्रादीन् जनयत् । तथैव तद्ब्रह्मान्यदपि विश्वं सर्वमिदं जगत् अजनयत् । ब्रह्मणः सकाशात् क्षत्त्रं निर्मितं क्षत्त्रियजातिर्निर्मिता । यत्परं ब्रह्म तत् आत्मना स्वस्वरूपेणैव ब्राह्मणः अभवत् । अस्ति हि ब्राह्मणशरीरे परब्रह्मण आविर्भावविशेपः । अत एवाध्यापनादावधिक्रियते ॥
 </details>
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -5207,8 +5218,9 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 24अथ पुरोडाशस्य याज्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अन्त᳓र् अस्मिन्न् इमे᳓ लोकाः᳓ ॥ 67 ॥  
 अन्त᳓र् वि᳓श्वम् इद᳓ञ् ज᳓गत् ।  
@@ -5216,10 +5228,12 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 ते᳓न को᳙ **ऽर्हति** स्प᳓र्धितुम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अ॒न्तर॑स्मिन्नि॒मे लो॒काः ॥ 67 ॥  
@@ -5233,6 +5247,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 अस्मिन् ब्रह्मणि अन्तः मध्ये इमे भूरादयो लोकाः अवस्थिताः । तथैव अन्तः मध्ये विश्वं सर्वमिदं जगत्स्थावरजङ्गमरूपमवस्थितम् । तस्मात्कारणाद्ब्रह्मैव भूतानामाकाशादिपञ्चमहाभूतानां प्राणिनां च मध्ये ज्येष्ठं अतिशयेन श्रेष्ठं प्रशस्तं च । तेन तादृशेन ब्रह्मणा को नामान्यः पुरुषः स्पर्धितुमर्हति' तत्समानस्य स्पर्धा युक्ता, न चास्ति कश्चित्समानः । अत एव श्वेताश्वतरशाखायामभिधीयते 'न तत्समश्चाभ्यधिकश्च दृश्यते' इति ॥
 </details>
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -5240,8 +5255,9 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 25अथ हविषः पुरोनुवाक्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ब्र᳓ह्मन् देवा᳓स् त्र᳓यस्-त्रिँशत् ।  
 ब्र᳓ह्मन्न् इन्द्र-प्रजापती᳓ ।  
@@ -5249,10 +5265,12 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 नावी᳓वान्त᳓स् **समा᳓हिता** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑न्दे॒वास्त्रय॑स्त्रिँशत् ।  
@@ -5266,6 +5284,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 हे ब्रह्मन्यथोक्ते ब्रह्मणि त्रयस्त्रिंशद्देवाः 'ये देवा दिव्येकादश स्थ' इति मन्त्रोक्ताः समाहिताः । तथा ब्रह्मन् परब्रह्मण्येव देवस्वामिनाविन्द्रप्रजापती समाहितौ । तया ब्रह्मण्येव विश्वा भूतानि सर्वाणि स्थावरजङ्गमान्यन्तः समाहितानि सम्यगवस्थितानि । तत्र दृष्टान्तो नावीवेति । यथा समुद्रनद्यादितरणवेलायां चेतनाचेतनानि वस्तूनि नौमध्येऽवस्थाप्यन्ते तद्वत् ॥
 </details>
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -5273,8 +5292,9 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 26अथ हविषो याज्यामाह - 
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 च᳓तस्र आ᳓शाᳶ प्र᳓चरन्त्वग्न᳓यः ।   
 इम᳓न्नो यज्ञ᳓न्नयतु प्रजान᳓न् ।   
@@ -5282,15 +5302,18 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 ब्र᳓ह्म समि᳓द्भवत्या᳓हुतीनाम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 चत॑स्र॒ आशा॒ᳶ **प्रच॑रन्त्व्** अ॒ग्नयः॑ ।   
 इ॒मन् नो॑ य॒ज्ञन् **न॑यतु प्रजा॒नन्** ।   
-घृ॒तम् **पिन्व॑न्न्** अ॒जरँ॑ सु॒वीर॑म् ॥ 68 ॥ ब्रह्म॑ स॒मिद् **भ॑व॒त्य्** आहु॑तीनाम् ।
+घृ॒तम् **पिन्व॑न्न्** अ॒जरँ॑ सु॒वीर॑म् ॥ 68 ॥  
++++(प्रकाशकत्वेन)+++ ब्रह्म॑ स॒मिद् **भ॑व॒त्य्** आहु॑तीनाम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -5298,8 +5321,8 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 यथोक्ते ब्रह्मणि चतस्र आशाः चतुर्विधाः प्राच्यादिदिशः प्रति अग्नय आहवनीयाद्याः प्रचरन्तु प्रकर्षेण वर्तन्ताम् । पूर्वस्यां दिश्याहववनीयः दक्षिणस्यां दिश्यन्वाहार्यपचनः पश्चिमायां दिशि गार्हपत्यः उदीच्यां दिश्याग्नीध्रीयः । तथाविधः सर्वाधारपरमात्मा नः अस्मदीयं इमं यज्ञं प्रजानन् प्रकर्षेणानुसंदधानो नयतु समाप्तिं प्रापयतु । किं कुर्वन्? अजरमविनश्वरं सुवीरं शोभनापत्यहेतुभूतमिदं घृतमाहुतिरूपं पिन्वन् पिबन् । किं बहुना, आहुतीनामस्माभिरनुष्ठीयमानानां ब्रह्म समिद्भवति परब्रह्मैव सम्यक्प्रकाशकं भवति ॥
 </details>
 </details>
-</div>
 
+</div>
 </div>
 
 ### विष्णुसूक्तम्
@@ -7881,8 +7904,8 @@ I obtain the shelter of the goddess Durga, the fire-coloured one, shining by the
 - अग्नि᳓-वर्णाम् (अग्नि᳓ (*TS*-1/1195, *RV*-682/856, *TB*-1/310, *AV*-1/419, *ŚB*-58/111, *VS*-16/36) + व᳓र्णा (*MW*), बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
 - त᳓पसा (*TS*-15/46, *RV*-11/20, *TB*-6/23, *TK*-3/16, *AV*-43/88, *ŚB*-8/38, *VS*-2/8)
 - ज्वलन्ती᳓म् → **ज्व᳓लन्तीम्** (*TS*-1)
-- वैरोचनी᳓म् (वि-रो᳓चन (*TB*-3, *AV*-1) + अण् पा॰ ४.३.१२० + ङीप् पा॰ ४.१.१५, ६.१.१६१ — भास्कर-सायणौ)
-- कर्म-फले᳓षु (द्वन्द्वः/षष्ठीतत्पुरुषः समासस्य पा॰ ६.१.२२३ — भास्कर-सायणौ)
+- वैरोचनी᳓म् (वि-रो᳓चन (*TB*-3, *AV*-1) + अण् पा॰ ४.३.१२० + ङीप् पा॰ ४.१.१५, ६.१.१६१)
+- कर्म-फले᳓षु (द्वन्द्वः/षष्ठीतत्पुरुषः समासस्य पा॰ ६.१.२२३)
 - जु᳓ष्टाम् (*TS*-1/23, *RV*-2/24, *TB*-0/5, *AV*-0/2, *ŚB*-4/32, *VS*-1/24)
 - दुर्-गा᳓म् (*TS*-0/7, *TB*-0/1, *AV*-1/7, *ŚB*-0/1, *RV*-3/21 दु॒र्गा, *Macdonell* dur-gá; पा॰ ६.२.१३९)
 - देवी᳓म् (*TS*-1/38, *RV*-18/118, *TB*-0/27, *AV*-6/61, *ŚB*-0/7, *VS*-0/15)
@@ -8739,10 +8762,10 @@ We sacrifice from the high place of seat for the fire, the winner of the armies,
 - अ᳓ति (*TS*-75, *RV*-189, *TB*-7, *TK*-1)
 - दुर्गा᳓णि (*TS*-1/8, *RV*-0/18, *TB*-1, *AV*-0/6, *ŚB*-0/3)
 - वि᳓श्वा (*TS*-39/283, *RV*-273/1116, *TB*-22/73, *TK*-2/75, *AV*-80/353, *ŚB*-20/248, *VS*-30/143)
-- क्षा᳓मत् (पादादिः, पा॰ ८.१.१८ अपादादौ; भास्करः)
+- क्षा᳓मत् (पादादिः, पा॰ ८.१.१८ अपादादौ)
 - देवः᳓ (*TS*-66/1025, *RV*-210/1342, *TB*-36/242, *AV*-94/707, *ŚB*-86/2031, *VS*-42/257)
 - अ᳓ति (*TS*-75, *RV*-189, *TB*-7, *TK*-1)
-- दुः-इता᳓ (*TS*-4/7, *RV*-33/41 दुरि॒ता, *AV*-4/36 ७.६३.१, *TB*-2, *VS*-2, *ŚB*-2 दुःऽइतानि; नपुंसक-द्वितीया-बहुवचनम् पा॰ ६.१.७० — भास्कर-सायणौ)
+- दुः-इता᳓ (*TS*-4/7, *RV*-33/41 दुरि॒ता, *AV*-4/36 ७.६३.१, *TB*-2, *VS*-2, *ŚB*-2 दुःऽइतानि; नपुंसक-द्वितीया-बहुवचनम् पा॰ ६.१.७०)
 - अ᳓ति (*TS*-75, *RV*-189, *TB*-7, *TK*-1)
 - अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-85/310, *TK*-2/30, *AV*-219/419, *ŚB*-1226/2495, *VS*-5/36)
 </details>
@@ -8825,7 +8848,7 @@ You are worth worshipping in the sacrifices, you extend the comfort, you sit as 
 - च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405)
 - अग्ने (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
 - तनु᳓वम् (*TS*-17/41, *TB*-5/22)
-- पिप्र᳓यस्व (*RV*-1 ८.११.१० पि॒प्रय॑स्व; चवायोगे प्रथमा पा॰ ८.१.५९ — भास्करः)
+- पिप्र᳓यस्व (*RV*-1 ८.११.१० पि॒प्रय॑स्व; चवायोगे प्रथमा पा॰ ८.१.५९)
 - अस्म᳓भ्यम् (*TS*-21/565, *RV*-119/1306, *TB*-4/114, *AV*-30/1248, *ŚB*-6/174, *VS*-0/127)
 - च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405)
 - सौ᳓भगम् (*TS*-0/5, *RV*-7/28, *TB*-1/5, *AV*-2/14, *VS*-0/5)

@@ -22,24 +22,6 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 </details>
 
 </div>
-
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/mUlam/13/03_brahma_jajnAnam.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-ब्रह्म॑ जज्ञा॒नं प्र॑थ॒मं पु॒रस्ता॒द्वि सी॑म॒तः सु॒रुचो॑ वे॒नऽआ॑वः। स बु॒ध्न्या᳖ऽ उप॒माऽ अ॑स्य वि॒ष्ठाः स॒तश्च॒ योनि॒मस॑तश्च॒ वि वः॑ ॥३ ॥
-
-<details><summary>तैत्तिरीयम् - मूलम्</summary>
-
-ब्रह्म॑ जज्ञा॒नम्प्र॑थ॒मम्पु॒रस्ता॑त् ।   
-वि सी॑म॒तस्सु॒रुचो॑ वे॒न आ॑वः ।   
-स बु॒ध्निया॑ उप॒ मा अ॑स्य वि॒ष्ठाः ॥ 66 ॥  
-स॒तश्च॒ योनि॒मस॑तश्च॒ विवः॑ ।
-</details>
-</details>
-
-</div>
-
 <div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/13/03_brahma_jajnAnam.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>

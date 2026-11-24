@@ -2,6 +2,11 @@
 title = "०२ सोमाय वासः"
 +++
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ वस्त्रादिविषयान्षोडशमन्त्रानाह -
+</details>
+
 <details><summary>त्रिभुवनः</summary>
 
 for Soma as clothes
@@ -101,9 +106,26 @@ O goddess Dakṣiṇā, may Varuṇa, the king carry you for Soma as clothes.
 देवि दक्षिणे॒ सोमा॑य॒ वासः॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- रा᳓जा (*TS*-30/48, *RV*-102/151, *TB*-35/41, *AV*-60/78, *ŚB*-60/99, *VS*-14/18)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *AV*-538)
+- व᳓रुणः (*TS*-55/118, *RV*-169/308, *TB*-23/55, *AV*-52/113, *ŚB*-56/85, *VS*-29/57)
+- नयतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-5)
+- देवि (अपादादौ आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- दक्षिणे (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- सो᳓माय (*TS*-23/294, *RV*-4/728, *TB*-10/135, *AV*-6/213, *ŚB*-20/248, *VS*-15/90)
+- वा᳓सः (*TS*-15/22, *RV*-8/12, *TB*-6/10, *AV*-26/32, *ŚB*-19/33, *VS*-1)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे हिरण्यात्मिके ! देवि! दक्षिणे! राजा वरुणः त्वां ... नयतु । तच्चेयमिष्टकाऽस्ति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+एतेषु सर्वेषु मन्त्रेषु देवि दक्षिण इत्यन्तः पूर्वानुषङ्गः । तेनामृतत्वादिकमित्युत्तरानुषङ्गः ।
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
