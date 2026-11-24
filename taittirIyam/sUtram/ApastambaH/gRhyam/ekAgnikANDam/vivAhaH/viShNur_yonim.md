@@ -3,43 +3,28 @@ title: विष्णुर् योनिम्
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/01_viShNuryoninkalpayatu_tvaShTA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/01_viShNuryoniM_kalpayatu.md">
 <details open><summary><h2>०१ विष्णुर्योनिङ्कल्पयतु त्वष्टा ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/01_viShNuryoniM_kalpayatu.md">
-<details open><summary><h4>०१ विष्णुर्योनिं कल्पयतु ...{Loading}...</h4></summary>
-
-वि᳓ष्णुर् यो᳓निं कल्पयतु  
-त्व᳓ष्टा रूपा᳓णि पिंशतु  
-आ᳓ सिञ्चतु प्रजा᳓पतिर्  
-धाता᳓ ग᳓र्भं दधातु ते
+वि᳓ष्णुर् यो᳓निं **कल्पयतु**  
+त्व᳓ष्टा रूपा᳓णि **पिंशतु**  
+आ᳓ **सिञ्चतु** प्रजा᳓पतिर्  
+धाता᳓ ग᳓र्भं **दधातु** ते
 </details>
 </div>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/02_garbhandhehi_sinIvAli.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/02_garbhaM_dhehi.md">
 <details open><summary><h2>०२ गर्भन्धेहि सिनीवालि ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/02_garbhaM_dhehi.md">
-<details open><summary><h4>०२ गर्भं धेहि ...{Loading}...</h4></summary>
-
-ग᳓र्भं धेहि सिनीवालि  
-ग᳓र्भं धेहि सरस्वति  
+ग᳓र्भं **धेहि** सिनीवालि  
+ग᳓र्भं **धेहि** सरस्वति  
 ग᳓र्भं ते अश्वि᳓नौ देवा᳓व्  
-आ᳓ धत्ताम् पु᳓ष्करस्रजा
+आ᳓ **धत्ताम्** पु᳓ष्करस्रजा
 </details>
 </div>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/03_hiraNyayI_araNI.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/03_hiraNyayI_araNI.md">
 <details open><summary><h2>०३ हिरण्ययी अरणी ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/03_hiraNyayI_araNI.md">
-<details open><summary><h4>०३ हिरण्ययी अरणी ...{Loading}...</h4></summary>
-
 हिरण्य᳓यी अर᳓णी  
-यं᳓ निर्म᳓न्थतो अश्वि᳓ना  
-तं᳓ ते ग᳓र्भं हवामहे  
-दशमे᳓ मासि᳓ सू᳓तवे
-</details>
-</div>
+यं᳓ **निर्म᳓न्थतो** अश्वि᳓ना  
+तं᳓ ते ग᳓र्भं **हवामहे**  
+दशमे᳓ मासि᳓ **सू᳓तवे**
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/04_yatheyam_pRthivI.md">
@@ -65,10 +50,10 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/06_viShNo_shreShThena.md">
 <details open><summary><h2>०६ विष्णो श्रेष्ठेन ...{Loading}...</h2></summary>
 
-विष्णो॒ श्रेष्ठे॑न रू॒पेणा॒+  
-ऽऽस्यान् नार्यां॑ गवी॒न्या॑म् +++(=कमनीयायाम्)+++ ।  
-पुमाँ॑सं॒ गर्भ॒म् आ धे॑हि  
-दश॒मे मा॒सि सूत॑वे ।
+वि᳓ष्णो श्रे᳓ष्ठेन रूपे᳓ण  
+अस्या᳓न् [[ना᳓र्यां|नार्यां᳓]] गवीन्या᳙म् +++(=कमनीयायाम्)+++ ।  
+पु᳓माँसं ग᳓र्भम् आ᳓ धेहि  
+दशमे᳓ मासि᳓ सू᳓तवे ।
 
 </details>
 </div>
@@ -105,10 +90,10 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_14/01_karomi_te.md">
 <details open><summary><h2>०१ करोमि ते ...{Loading}...</h2></summary>
 
-क॒रोमि॑ ते प्राजाप॒त्यम्  
-आ गर्भो॒ योनि॑म् एतु ते ।  
-अनू॑नः पू॒र्णो जा॑यता॒म्  
-अश्लो॒णो ऽपि॑शाचधीतः ।
+[[क᳓रोमि|करो᳓मि]] ते प्राजापत्य᳓म्  
+आ᳓ ग᳓र्भो यो᳓निम् **एतु** ते ।  
+अ᳓नूनः पूर्णो᳓ **जायताम्**  
+अ᳓श्लोणो᳓ ऽपिशाचधीतः ।
 
 </details>
 </div>

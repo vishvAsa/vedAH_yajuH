@@ -74,33 +74,33 @@ ___________________
 </div>
 
 ### सपत्नीबाधनार्थम् अहर् अहर् आदित्यम् उपतिष्ठते
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_17/01_udasau_sUryo.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/159/01_udasau_sUryo.md">
 <details open><summary><h2>०१ उदसौ सूर्यो ...{Loading}...</h2></summary>
 
-उद् अ॒सौ सूर्यो॑ अगा॒द्  
-उद् अ॒यं मा॑म॒को भगः॑ ।  
-अ॒हन् तद् विद्व॒ला+++(=विदुषी)+++ प॑ति॒म्  
-अभ्य॑साक्षि+++(=अभि+असहे)+++ विषास॒हिः+++(=विशषेण सहमाना)+++ ।  
+उ᳓द् असउ᳓ सू᳓रियो **अगाद्**  
+उ᳓द् अय᳓म् मामको᳓ भ᳓गः  
+अहं᳓ त᳓द् विद्वला᳓+++(=विदुषी)+++ प᳓तिम्  
+**अभ्य् अ᳙साक्षि**+++(=अभि+असहे)+++ विषासहिः᳓+++(=विशषेण सहमाना)+++  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_17/02_aha~N_keturaham.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/159/02_ahaM_keturahaM.md">
 <details open><summary><h2>०२ अहङ् केतुरहम् ...{Loading}...</h2></summary>
 
-अ॒हं के॒तुर् अ॒हं मू॒र्धा  
-ऽहम् उ॒ग्रा वि॒वाच॑नी+++(की)+++ ।  
-ममेद् अनु॒ क्रतुं॒ पति॑स्  
-सेहा॒नाया॑+++(=सहमायना)+++ उ॒वा+++(पा)+++च॑रेत् ।
+अहं᳓ केतु᳓र् अह᳓म् मूर्धा᳓  
+अह᳓म् उग्रा᳓ विवा᳓चनी+++(की)+++  
+म᳓मे᳓द् अ᳓नु क्र᳓तुम् प᳓तिः  
+सेहाना᳓या+++(=सहमायना)+++ उपा᳓चरेत्
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_17/03_mama_putrAshshatruhaNo-tho.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/159/03_mama_putrAH.md">
 <details open><summary><h2>०३ मम पुत्राश्शत्रुहणोऽथो ...{Loading}...</h2></summary>
 
-मम॑ पु॒त्राश् श॑त्रु॒हणो  
-ऽथो॑ मे दुहि॒ता वि॒राट् ।  
-उ॒ताहम् अ॑स्मि॒ सञ्ज॑या॒  
-पत्यु॑र् मे॒ +++(श्लाघा)+++श्लोक॑ उत्त॒मः ।+++(५)+++  
+म᳓म पुत्राः᳓ शत्रुह᳓णो  
+अ᳓थो मे दुहिता᳓ विरा᳓ट्  
+उता᳓ह᳓म् अस्मि संजया᳓  
+प᳓त्यौ मे +++(श्लाघा)+++श्लो᳓क उत्तमः᳓  
 
 </details>
 </div>

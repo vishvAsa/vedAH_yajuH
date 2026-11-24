@@ -5,56 +5,32 @@ title = "०२ प्रातःस्मरणम्"
 
 अथ रात्रेरुपान्त्ययामे तल्पादुत्थाय श्रीमहागणपतिं स्मृत्वा हस्तपादं प्रक्षाल्य तूष्णीमाचम्य पठेत्- 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/01_prAtaragnim_prAtarindram.md">
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/01_prAtaragniM_prAtarindraM.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/01_prAtaragniM_prAtarindraM.md">
 प्रात᳓र् अग्नि᳓म् प्रात᳓र् इ᳓न्द्रं **हवामहे**  
 प्रात᳓र् मित्रा᳓व᳓रुणा प्रात᳓र् अश्वि᳓ना  
 प्रात᳓र् भ᳓गम् पूष᳓णम् ब्र᳓ह्मणस् प᳓तिम्  
 प्रातः᳓ सो᳓मम् उत᳓ रुद्रं᳓ **हुवेम**
-
 </div>
 
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/02_prAtarjitam_bhagamugram.md">
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/02_prAtarjitaM_bhagamugraM.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/02_prAtarjitaM_bhagamugraM.md">
 प्रातर्-जि᳓तं +++(=जयशीलं)+++ भ᳓गम् उग्रं᳓ **हुवेम**  
 वयं᳓ पुत्र᳓म् अ᳓दितेर् यो᳓ विधर्ता᳓।  
 आध्र᳓श् +++(=दरिद्रश्)+++ चिद् यं᳓ म᳓न्यमानस् तुर᳓श्+++(=त्वरमाणो)+++-चिद्   
-रा᳓जा चिद् यं᳓ **भ᳓गं भक्षी᳓+++(=भजामी)+++त्या᳓ह** ॥२॥  
-
+रा᳓जा चिद् यं᳓ **भ᳓गं भक्षी᳓+++(=भजामी)+++त्या᳓ह** ॥२॥
 </div>
 
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/03_bhaga_praNetarbhaga.md">
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/03_bhaga_praNetarbhaga.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/03_bhaga_praNetarbhaga.md">
 भ᳓ग प्र᳓णेतर्, भ᳓ग स᳓त्य-राधो!  
 भ᳓गेमां᳓ धि᳓यम् **उ᳓दवा** +++(=रक्ष)+++ द᳓दन् नः ।  
 भ᳓ग प्र᳓ णो **जनय** गो᳓भिर् अ᳓श्वैर्  
-भ᳓ग प्र᳓ नृ᳓भिर् **नृव᳓न्तः स्याम** ॥३॥  
-
+भ᳓ग प्र᳓ नृ᳓भिर् **नृव᳓न्तः स्याम** ॥३॥
 </div>
 
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/04_utedAnIm_bhagavantassyAmota.md">
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/04_utedAnIM_bhagavantaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/04_utedAnIM_bhagavantaH.md">
 उते᳓दा᳓नीं **भ᳓गवन्तः स्याम**+  
 +उत᳓ प्रपित्व᳓ +++(=सायङ्काले)+++ उत᳓ म᳓ध्ये अ᳓ह्नाम् ।  
 उतो᳓दिता मघ-वन्त्! सू᳓र्यस्य  
-वयं᳓ देवा᳓नां **सुमतौ᳓ स्याम** ॥४॥  
-
-</div>
-
+वयं᳓ देवा᳓नां **सुमतौ᳓ स्याम** ॥४॥
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/05_bhaga_eva.md">
@@ -66,32 +42,20 @@ title = "०२ प्रातःस्मरणम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/06_samadhvarAyoShaso_namanta.md">
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/06_samadhvarAyoShaso_namanta.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/06_samadhvarAyoShaso_namanta.md">
 स᳓म् अध्वरा᳓योष᳓सो **नमन्त**,  
 दधिक्रा᳓वेव +++(=pegasus-अश्व इव खे)+++ शु᳓चये पदा᳓य +++(प्रोष्ठ-पदरूपेण खे, आधाने ऽश्वक्रमवद् भुवि)+++।  
 +++(खचक्रे विपरीतदिशि स्वनक्षत्रय् उत्तर-फाल्गुने वर्त्तित्वाद्)+++  
 अर्वाचीनं᳓ वसु-वि᳓दं +++(=धनलब्धारं)+++ भ᳓गं नो  
 र᳓थम् इवा᳓श्वा वाजि᳓न **आ᳓ वहन्तु** ॥६॥  
 +++(३००० BCE इति काले फाल्गुनीषु प्रोष्ठपदासु च सौरायनवर्तनम् अदृश्यतेति प्रासङ्गिकं स्यात्।)+++
-
 </div>
 
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/07_ashvAvatIrgomatIrna_uShAso.md">
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/07_ashvAvatIrgomatIrna_uShAso.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/07_ashvAvatIrgomatIrna_uShAso.md">
 अ᳓श्वावतीर् गो᳓मतीर् न उषा᳓सो  
 वीर᳓वतीस् **स᳓दम् उच्छन्तु** +++(=प्रभातं कुर्वन्तु)+++ भद्राः᳓ ।   
 घृतं᳓ दु᳓हाना विश्व᳓तः प्र᳓पीना +++(=आप्यायन्त्यः)+++  
 **यूयं᳓ पात** स्वस्ति᳓भिस् स᳓दा नः ॥७॥
-
-</div>
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/04_adyA_no.md">

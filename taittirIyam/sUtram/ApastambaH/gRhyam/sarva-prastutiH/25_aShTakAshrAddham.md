@@ -440,74 +440,82 @@ title = "२५ अष्टकाश्राद्धम्"
 ## २२ ०५ माँसौदनमुत्तराभिः 
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_05_mA.NsaudanamuttarAbhiH.md">
-
 माँसोदनमुत्तराभिः ५  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/32_yA~n_janAH.md">
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/30_yA~n_janAH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/32_yA~n_janAH.md">
+<details open><summary><h2>३२ याञ् जनाः ...{Loading}...</h2></summary>
 
-यां᳓ ज᳓नाः **प्रति-न᳓न्दन्ति**  
-रा᳓त्रिं धेनु᳓म् इवायती᳓म् ।  
-संवत्सर᳓स्य या᳓ प᳓त्नी +++(एकाष्टका)+++  
-सा᳓ नो **अस्तु** सुमङ्गली᳓  
-स्वा᳓हा ।  
+यां जनाः॑ प्रति॒-नन्द॑न्ति॒  
+रात्रिं॑ धे॒नुम् इ॑वाय॒तीम् ।  
+सं॒व॒त्स॒रस्य॒ या पत्नी॒ +++(एकाष्टका)+++  
+सा नो॑ अस्तु सुमङ्ग॒ली॥  
 
+</details>
 </div>
-</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/33_iyameva_sA.md">
+<details open><summary><h2>३३ इयमेव सा ...{Loading}...</h2></summary>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/33_iyameva_sA.md">
+इ॒यम् +++(उषाः)+++ ए॒व सा या प्र॑थ॒मा व्यौच्छ॑द्+++(←उछीँ विवासे)+++  
+अ॒न्तर् अ॒स्याञ् +++(पृथिव्यां)+++ च॑रति॒ +++(आदित्यम्)+++ प्रवि॑ष्टा ।  
+व॒धूर् ज॑जान नव॒-गज्+++(गा)+++ जनि॑त्री॒  
+त्रय॑+++(←अग्निरे् एकः अश्विनौ द्वौ वपादेवाः)+++ एनाम् महि॒मान॑स् सचन्ते+++(=भजन्ते)+++ ॥
 
-इय᳓म् +++(उषाः)+++ एव᳓ सा᳓ या᳓ प्रथमा᳓ **व्यौ᳓च्छद्**+++(←उछीँ विवासे)+++  
-अन्त᳓र् अस्या᳓ञ् +++(पृथिव्यां)+++ **चरति +++(आदित्यम्)+++ प्र᳓विष्टा** ।  
-वधू᳓र् जजान नव-ग᳓ज्+++(गा)+++ ज᳓नित्री  
-त्र᳓य+++(←अग्निरे् एकः अश्विनौ द्वौ वपादेवाः)+++ एनाम् महिमा᳓नस् सचन्ते+++(=भजन्ते)+++ ॥
-
+</details>
 </div>
 
 +++(मध्यमस्थाना द्युस्थाना चेति द्वे उषसौ)+++  
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/34_ChandasvatI_uShasA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/34_ChandasvatI_uShasA.md">
+<details open><summary><h2>३४ छन्दस्वती उषसा ...{Loading}...</h2></summary>
 
-छ᳓न्दस्वती उष᳓सा+++(सौ)+++ पे᳓पिशाने+++(=दीप्यमाने)+++  
-समानय्ँ᳓ यो᳓निम् +++(आदित्यं)+++ अ᳓नु सञ्च᳓रन्ती ।  
-सू᳓र्यपत्नी वि᳓ चरतᳶ प्र-जानती᳓  
-केतु᳓ङ् कृण्वाने᳓ अज᳓रे भू᳓रिरेतसा+++(सौ)+++ ॥
+छन्द॑स्वती उ॒षसा॒+++(सौ)+++ पेपि॑शाने+++(=दीप्यमाने)+++  
+समा॒नय्ँ योनि॒म् +++(आदित्यं)+++ अनु॑ स॒ञ्चर॑न्ती ।  
+सूर्य॑पत्नी॒ वि च॑रतᳶ प्र-जान॒ती  
+के॒तुङ् कृ॑ण्वा॒ने अ॒जरे॒ भूरि॑रेतसा+++(सौ)+++ ॥
 
+</details>
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/35_Rtasya_panthAmanu.md">
+<details open><summary><h2>३५ ऋतस्य पन्थामनु ...{Loading}...</h2></summary>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/35_Rtasya_panthAmanu.md">
 ऋत᳓स्य प᳓न्थाम् अ᳓नु +++(कार्यभेदात्)+++ तिस्र᳓ आ᳓गुस्  
 त्र᳓यो घर्मा᳓सो अ᳓नु [[ज्यो᳓तिषा᳓|ज्यो᳓तिषा]] ऽऽगुः ।  
 प्रजा᳓म् ए᳓का र᳓क्षत्य्, ऊ᳓र्जम् ए᳓का  
 व्रत᳓म् ए᳓का रक्षति देवयूना᳓म् ॥
+
+</details>
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/36_ekAShTakAm_pashyata.md">
+<details open><summary><h2>३६ एकाष्टकाम् पश्यत ...{Loading}...</h2></summary>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/36_ekAShTakAm_pashyata.md">
+ए॒का॒ष्ट॒कां प॑श्यत॒ दोह॑माना॒म्  
+अन्नं॑ माँ॒सव॑द् घृ॒तव॑त् स्व॒धाव॑त् ।  
+तद् ब्रा॑ह्म॒णैर् अ॑तिपू॒तम् अ॑न॒न्तम् अ॑क्ष॒य्यम्  
+अ॒मुष्मि॑ल्ँ लो॒के स्फीतिं॑ गच्छतु मे पि॒तृभ्यः॒  
+स्वाहा॑ ।  
 
-एकाष्टकां᳓ पश्यत दो᳓हमानाम्  
-अ᳓न्नं माँस᳓वद् घृत᳓वत् स्वधा᳓वत् ।  
-त᳓द् ब्राह्मणै᳓र् अतिपूत᳓म् अनन्त᳓म् अक्षय्य᳓म्  
-अमु᳓ष्मिल्ँ लोके᳓ स्फी᳓तिं गच्छतु मे पितृ᳓भ्यः  
-स्वा᳓हा ।  
-
+</details>
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/37_aulUkhalA_grAvANo.md">
+<details open><summary><h2>३७ औलूखला ग्रावाणो ...{Loading}...</h2></summary>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/37_aulUkhalA_grAvANo.md">
-औलूखला᳓+++(=उलूखलाः)+++ ग्रा᳓वाणो घो᳓षम् [[अक्रत|अ᳓क्रत]]  
+औलूखला᳓+++(=उलूखलाः)+++ ग्रा᳓वाणो घो᳓षम् अक्रत  
 हविः᳓ कृण्व᳓न्तः परिवत्सरी᳓णम् ।  
 [[एकाष्टके᳓|ए᳓काष्टके]] सुप्रजा᳓ वीर᳓वन्तो  
-वयँ᳓ स्याम प᳓तयो रयीणा᳓म्॥
+वयँ᳓ स्याम प᳓तयो रयीणा᳓म्॥  
+
+</details>
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/38_ekAShTakA_tapasA.md">
+<details open><summary><h2>३८ एकाष्टका तपसा ...{Loading}...</h2></summary>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/38_ekAShTakA_tapasA.md">
+ए॒का॒ष्ट॒का तप॑सा॒ तप्य॑माना  
+संवत्स॒रस्य॒ पत्नी॑ दुदुहे॒ प्रपी॑ना ।+++(४)+++  
+तं दोह॒म् उप॑जीवाथ+++(=उपजीवत)+++ पि॒तर॑स्  
+स॒हस्र॑-धारम् अ॒मुष्मि॑ल्ँ लो॒के  
+स्वाहा॑ ॥ (20)  
 
-एकाष्टका᳓ त᳓पसा त᳓प्यमाना  
-संवत्सर᳓स्य प᳓त्नी दुदुहे प्र᳓पीना ।+++(४)+++  
-तं᳓ दो᳓हम् उ᳓पजीवाथ+++(=उपजीवत)+++ पित᳓रस्  
-सह᳓स्र-धारम् अमु᳓ष्मिल्ँ लोके᳓  
-स्वा᳓हा ॥ (20)  
-
+</details>
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_05_mA.NsaudanamuttarAbhiH.md">

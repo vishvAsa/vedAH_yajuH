@@ -105,44 +105,42 @@ title = "१७ गृहनिर्मणम्"
 ## १७ ०३ कॢप्तमुत्तरयाभिमृश्य
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/17_gRhyanirmaNam/17_03_kLLiptamuttarayAbhimRshya.md">
-
 +++(समं यथा तथा)+++ कॢप्तम् उत्तरय+++("स्योना पृथिवी")+++ +अभिमृश्य  
 प्रदक्षिणं स्थूणागर्तान् खानयित्वा+++(नकारस्छान्दसः)+++  
 ऽभ्यन्तरं+++(=बहिरारभ्य मध्ये यथा समाप्यत इति हरदत्तः, विपरीतम् इति सुदर्शनसूरिः)+++ पाँसून् उदुप्य +++(=उद्धत्य)+++  
 
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/02_syonA_pRthivi.md">
-
-##### ०२ स्योना पृथिवि …{Loading}…
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
-
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
+<details open><summary><h2>०२ स्योना पृथिवि ...{Loading}...</h2></summary>
 स्योना᳓+++(=सुखरूपा)+++ पृथिवि भव+  
 अनृक्षरा᳓+++(=कण्टकादिरहिता)+++ निवे᳓शनी ।  
 य᳓च्छा नश् श᳓र्म सप्र᳓थाः+++(=सकीर्तिः)+++ ।
-
-</div>
+</details>
 </div>   
 
 ###### मन्त्रः - द्वारस्थूणामन्त्रणम्
 उत्तराभ्यां+++(=इहैव तिष्ठे)+++ दक्षिणं द्वारस्थूणाम् अवदधाति ३  
 
 __________________
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/03_ihaiva_tiShTha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/03_ihaiva_tiShTha.md">
+<details open><summary><h2>०३ इहैव तिष्ठ ...{Loading}...</h2></summary>
 
 इ॒हैव ति॑ष्ठ॒ निमि॑ता॒+++(=निखाता)+++  
 +++(तक्षकृत-)+++तिल्व॑ला+++(=तिलकवती)+++ स्या॒द् इरा॑+++(=अन्न)+++वती ।  
 मध्ये॒ ताल्प्य॑स्य+++(=गृह्यस्य [द्वारस्य])+++ तिष्ठा॒न्+++(त्)+++  
 मा त्वा॒ प्राप॑न्न् अघा॒यवः॑ ।  
 
+</details>
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/04_A_tvA.md">
+<details open><summary><h2>०४ आ त्वा ...{Loading}...</h2></summary>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/04_A_tvA.md">
 आ᳓ त्वा कुमार᳓स् त᳓रुण  
 आ᳓ वत्सो᳓ ज᳓गता सह᳓ ।  
 आ᳓ त्वा परिस्रु᳓तः+++(=सुरायाः → घृतस्य)+++ कुम्भा᳓  
-आ᳓ दध्नः᳓ [[क᳓लशीर्|कल᳓शीर्]] +++(मन्थनार्थम्)+++ **अयन्** ।
-</div>
+आ᳓ दध्नः᳓ [[क᳓लशीर्|कल᳓शीर्]] +++(मन्थनार्थम्)+++ **अयन्** ।  
 
+</details>
+</div>
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/17_gRhyanirmaNam/17_03_kLLiptamuttarayAbhimRshya.md">

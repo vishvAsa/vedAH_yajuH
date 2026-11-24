@@ -1282,12 +1282,10 @@ We, O king, bring to safety.'
 'योऽस्य कौष्ठ्य' 'यमङ्गाय' इति द्वाभ्यां दक्षिणस्याम्, 
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
-
-यो᳓ऽस्य +++(गोत्रेण)+++ कौ᳓ष्ठ्य! ज᳓गतः  
+यो᳓ऽस्य +++(गोत्रेण)+++ [[कौ᳓ष्ठ्य|कौष्ठ्य]]! ज᳓गतः  
 पा᳓र्थिवस्यै᳓क +++(~~इ~~→)+++इ᳓द् वशी᳓ ।  
-यमं᳓ +++(नाम्ना)+++ भङ्ग्य-श्रवो᳓! **गाय**  
-यो᳓ रा᳓जा ऽनपरो᳓द्ध्यः ।
-
+यमं᳓ +++(नाम्ना)+++ भङ्ग्य-श्रवो! **गाय**  
+यो᳓ रा᳓जा ऽनपरोद्ध्यः᳓ ।
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">

@@ -173,7 +173,7 @@ ___________________
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_10/10_praNuvocha~nchikituShe_janAya.md">
 प्र᳓ [[णु|णु᳓]] **[[वो᳓चञ्|वोचञ्]]** चिकितु᳓षे+++(=जानते)+++ ज᳓नाय -  
-**[[मा᳓|मा]] गा᳓म्** अ᳓नागाम्+++(=अनागसं)+++ अ᳓दितिं **वधिष्ट** ।
+**मा᳓ गा᳓म्** अ᳓नागाम्+++(=अनागसं)+++ अ᳓दितिं **वधिष्ट** ।
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_10/11_pibatUdakaM_tRuNAnyattu.md">

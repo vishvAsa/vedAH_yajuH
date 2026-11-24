@@ -5,60 +5,36 @@ unicode_script: devanagari
 ---
 +++(यक्ष्मगृहीतां वधूं अन्यां वा स्वस्त्रादिकां पुष्करसंवर्तमूलैः उत्तरैर्मन्त्रैः यथालिङ्गमङ्गानि संमृज्य प्रतीचीनं निरस्येत्)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/01_axIbhyAnte_nAsikAbhyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/01_axIbhyAM_te.md">
 <details open><summary><h2>०१ अक्षीभ्यान्ते नासिकाभ्याम् ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/01_axIbhyAM_te.md">
-<details open><summary><h4>०१ अक्षीभ्यां ते ...{Loading}...</h4></summary>
-
 अक्षी᳓भ्यान् ते ना᳓सिकाभ्यां  
-क᳓र्णाभ्यां चु᳓बुकाद᳓धि ।  
+क᳓र्णाभ्यां चु᳓बुकाद् अ᳓धि ।  
 य᳓क्ष्मँ शीर्षण्यं᳙ मस्ति᳓ष्काज्  
-जिह्वा᳓या वि᳓वृहामि+++(=संमृज्य निरस्यामि)+++ ते ।
-
+जिह्वा᳓या **वि᳓वृहामि**+++(=संमृज्य निरस्यामि)+++ ते ।
 </details>
 </div>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/02_grIvAbhyasta_uShNihAbhyaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/02_grIvAbhyasta_uShNihAbhyaH.md">
 <details open><summary><h2>०२ ग्रीवाभ्यस्त उष्णिहाभ्यः ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/02_grIvAbhyasta_uShNihAbhyaH.md">
-<details open><summary><h4>०२ ग्रीवाभ्यस्त उष्णिहाभ्यः ...{Loading}...</h4></summary>
-
 ग्रीवा᳓भ्यस्+++(→पर्वभेदेन बहुवचनम्)+++ त उष्णि᳓हाभ्यः+++(=ग्रीवापृष्ठमूलभ्यः)+++  
 की᳓कसाभ्यो+++(=अस्थिभ्यो)+++ ऽनूक्या᳙त्+++(=पृष्ठंवशात्)+++ ।  
 य᳓क्ष्मं दोषण्य᳙म् अँ᳓साभ्यां  
-बाहु᳓भ्यां वि᳓वृहामि ते ।
-
+बाहु᳓भ्यां **वि᳓वृहामि** ते ।
 </details>
 </div>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/03_Antrebhyaste_gudAbhyo.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/03_Antrebhyaste_gudAbhyo.md">
 <details open><summary><h2>०३ आन्त्रेभ्यस्ते गुदाभ्यो ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/03_Antrebhyaste_gudAbhyo.md">
-<details open><summary><h4>०३ आन्त्रेभ्यस्ते गुदाभ्यो ...{Loading}...</h4></summary>
-
 आन्त्रे᳓भ्यस् ते गु᳓दाभ्यो  
 वनिष्ठो᳓र्+++(=वपाया)+++ हृ᳓दयाद् अ᳓धि ।  
 य᳓क्ष्मं म᳓तस्नाभ्यां+++(=फुप्फुसाभ्याम्?)+++ यक्नः᳓+++(=यकृतः)+++  
-प्लाशि᳓भ्यो+++(=पर्शुभ्यः)+++ वि᳓वृहामि ते ।
-
+प्लाशि᳓भ्यो+++(=पर्शुभ्यः)+++ **वि᳓वृहामि** ते ।
 </details>
 </div>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/04_UrubhyAnte-ShThIvadbhyA~n_janghAbhyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/04_UrubhyAM_te.md">
 <details open><summary><h2>०४ ऊरुभ्यान्तेऽष्ठीवद्भ्याञ् जङ्घाभ्याम् ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/04_UrubhyAM_te.md">
-<details open><summary><h4>०४ ऊरुभ्यां ते ...{Loading}...</h4></summary>
-
 ऊरु᳓भ्यान् ते ऽष्ठीव᳓द्भ्यां+++(=ऊरुजान्वोः सन्धिभ्याम्)+++  
 ज᳓ङ्घाभ्यां प्र᳓पदाभ्याम् ।  
 य᳓क्ष्मँ श्रो᳓णीभ्यां भास᳓दाद्+++(=गुह्यप्रदेशात्)+++  
-ध्वँस᳓सो+++(=नाभेः/ गुदवलयात्)+++ वि᳓वृहामि ते ।  
-
-</details>
-</div>
+ध्वँस᳓सो+++(=नाभेः/ गुदवलयात्)+++ **वि᳓वृहामि** ते ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/05_mehanAdvalankaraNAllomabhyaste_nakhebhyaH.md">

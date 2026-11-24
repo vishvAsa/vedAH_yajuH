@@ -170,23 +170,17 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 ## १९ ११ सँहायोत्तराभ्याम्
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_11_sa.NhAyottarAbhyAm.md">
-
 +++(किञ्चित्सुप्त्वा)+++ सं-हाय  
 उत्तराभ्यां +++("स्योना पृथिवि" "बडित्थे"त्येताभ्यां)+++ पृथिवीमभिमृशन्ति ११  
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/08_syonA_pRthivi.md">
-
-##### ०८ स्योना पृथिवि …{Loading}…
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
-
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
+<details open><summary><h2>०८ स्योना पृथिवि ...{Loading}...</h2></summary>
 स्योना᳓+++(=सुखरूपा)+++ पृथिवि भव+  
 अनृक्षरा᳓+++(=कण्टकादिरहिता)+++ निवे᳓शनी ।  
 य᳓च्छा नश् श᳓र्म सप्र᳓थाः+++(=सकीर्तिः)+++ ।
-
+</details>
 </div>
-</div>
-
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
+<details open><summary><h2>०९ बडित्था पर्वतानाङ्खिद्रम्बिभर्षि ...{Loading}...</h2></summary>
 
 बड् इ॒त्था+++(त्थं)+++ पर्व॑तानाङ्+++(→मेघानाम्)+++  
 खि॒द्रम्+++(=छिद्रं →छेदनम्)+++ बि॑भर्षि पृथिवि ।  
@@ -194,6 +188,7 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 म॒ह्ना+++(=महिम्ना)+++ +++(देवादीन्)+++ जि॒नोषि॑+++(=तर्पयसि)+++ म॒हि॒नि॒+++(=महति)+++ ।+++(र४)+++  
 +++(अत्र देवप्रीत्या वृष्टिरिति चक्रम् उच्यते।)+++
 
+</details>
 </div>
 </div>
 

@@ -82,7 +82,6 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 ## ११उ ०३
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_03.md">
-
 +++(शिष्टाचारानुसारेण मध्याह्नात् परं)+++  
 अग्नेर् उपसमाधानाद्य्-आज्यभागान्ते  
 ऽन्वारब्धेषु +++(शिष्येषु)+++ काण्ड-ऋषिभ्यो जुहोति,  
@@ -91,18 +90,13 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 उपहोमो +++(= सांहितीभ्यो, याज्ञिकीभ्यो, वारुणीभ्यो, ब्रह्मणे स्वयंभुवे इति सुदर्शनसूरिः। हरदत्तस्तु जयादय इति।)+++,  
 वेदाहुतीनाम् उपरिष्टात् सदसस्पतिम् इत्येके ३
 
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/08_sadasaspatimadbhutam_priyamindrasya.md">
-<details open><summary><h7>०८ सदसस्पतिमद्भुतम् प्रियमिन्द्रस्य …{Loading}…</h7></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
-
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
+<details open><summary><h4>०८ सदसस्पतिमद्भुतम् प्रियमिन्द्रस्य ...{Loading}...</h4></summary>
 स᳓दसस्प᳓तिम् अ᳓द्भुतं  
 प्रिय᳓म् इ᳓न्द्रस्य का᳓म्यम् ।  
 सनिं᳓ +++(=दानरूपम्)+++ मेधा᳓म् अयासिषम् ६
-
-</div>
 </details>
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_03.md">

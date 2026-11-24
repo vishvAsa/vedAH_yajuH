@@ -3,60 +3,24 @@ title = "०६ हिरण्यवर्णाश् शुचयः"
 unicode_script = "devanagari"
 +++
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/01_hiraNyavarNAshshuchayaH_pAvakAH.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/01_hiraNyavarNAH_shuchayaH.md">
 <details open><summary><h2>०१ हिरण्यवर्णाश्शुचयः पावकाः ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/01_hiraNyavarNAH_shuchayaH.md">
-<details open><summary><h4>०१ हिरण्यवर्णाः शुचयः ...{Loading}...</h4></summary>
-
 हिर॑ण्य-वर्णा॒श् शुच॑यः पाव॒काः  
 प्रच॑क्रमुर् ‌हि॒त्वा ऽव॒द्यम् आपः॑ ।  
 श॒तं प॒वित्रा॒ वित॑ता॒ ह्य् आ॑सु॒ +++(अप्सु)+++  
-ताभि॑ष् ट्वा दे॒वस् स॑वि॒ता पु॑नातु ।+++(र५)+++ 
-
+ताभि॑ष् ट्वा दे॒वस् स॑वि॒ता पु॑नातु ।+++(र५)+++
 </details>
 </div>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/01_hiraNyavarNAshshuchayaH_pAvakAH.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/033_ApaH/01_hiraNyavarNAH_shuchayaH.md">
 <details><summary><h3>०१ हिरण्यवर्णाश्शुचयः पावकाः ...{Loading}...</h3></summary>
-<details><summary>मूलम्</summary>
-
-हिर॑ण्यवर्णा॒श्शुच॑यः पाव॒काः प्रच॑क्रमुर्हि॒त्वाऽव॒द्यमापः॑ ।  
-श॒तं प॒वित्रा॒ वित॑ता॒ ह्या॑सु॒ ताभि॑ष्ट्वा दे॒वस्स॑वि॒ता पु॑नातु ।
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः - 1/18 व्यत्यस्त-स्वराः)</summary>
-
-- हि᳓रण्यवर्णाः (*TS*-3/4, *RV*-1/6, *TB*-0/2, *AV*-2/6)
-- शु᳓चयः (*TS*-8/33, *RV*-26/113, *TB*-0/9, *AV*-12/25, *ŚB*-0/12, *VS*-3/9)
-- पावकाः᳓ (*TS*-4/24, *RV*-7/45, *TB*-2/8, *AV*-5/7, *ŚB*-0/11, *VS*-1/5)
-- प्र᳓ (*TS*-780)
-- चक्रमुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- हित्वा᳓ (*RV*-2)
-- अवद्य᳓म् (*TS*-0/2, *RV*-4/15, *TB*-0/1, *AV*-2/7, प्रातिपदिकम् अ-वद्य᳓ (*MW*))
-- आ᳓पः (*TS*-98/319, *RV*-151/532, *TB*-29/86, *AV*-141/324, *ŚB*-80/116, *VS*-9/26)
-- शत᳓म् (*TS*-24/76, *RV*-83/100, *TB*-3/9, *AV*-77/94, *ŚB*-33/96, *VS*-16/25)
-- पवि᳓त्रा (*TS*-1/20, *RV*-2/101, *TB*-0/22, *AV*-1/11, *ŚB*-0/33, *VS*-0/15, प्रातिपदिकम् पवि᳓त्रा (*MW*))
-- वि᳓तताः (*TS*-1/5, *RV*-1/12, *TB*-0/1, *AV*-0/16, *ŚB*-0/2, *VS*-0/3)
-- हि᳓ (*TS*-456)
-- आसु → **आसु᳓** (*TS*-1/968, *RV*-9/1246, *TB*-1/287, *AV*-4/1253, *ŚB*-0/379, *VS*-0/70)
-- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-9/1327, *AV*-16/3163, *ŚB*-8/2303, *VS*-2/268)
-- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590)
-- देवः᳓ (*TS*-66/1025, *RV*-210/1342, *TB*-36/242, *AV*-94/705, *ŚB*-46/567, *VS*-42/257)
-- सविता᳓ (*TS*-50/120, *RV*-103/157, *TB*-25/40, *AV*-80/96, *ŚB*-36/77, *VS*-41/66)
-- पुनातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-</details>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/033_ApaH/01_hiraNyavarNAH_shuchayaH.md">
-<details open><summary><h2>०१ हिरण्यवर्णाः शुचयः ...{Loading}...</h2></summary>
 <details><summary>Whitney</summary>
 
-###### Translation
+##### Translation
 1. Of golden color, clean (*śúci*), purifying, in whom \[was\] born  
 Savitar, in whom Agni; who, of beauteous color, assumed Agni as  
 embryo—let those waters be weal, pleasant to us.
 
-###### Notes
+##### Notes
 ⌊in c, for *dadhiré,* better, 'conceived'?⌋ TS. and MS. read in **b**  
 *jātáḥ kaśyápo yā́sv índraḥ;* and Ppp. agrees with them; MP. has *agníḥ*  
 instead of *índraḥ*. In **c** TS. MS. give *vírūpās* for *suvarṇās;* and  
@@ -98,6 +62,7 @@ May they, the golden-hued, the bright, the splendid, they wherein Savitar was bo
 उत्तरे पञ्च स्नानमन्त्राः - “हिरण्यवर्णा” इति ॥ 
 </details>
 
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [जो] (हिरण्यवर्णाः) व्यापनशील वा कमनीय रूपवाली (शुचयः) निर्मल स्वभाववाली और (पावकाः) शुद्धि की जतानेवाली हैं, (यासु) जिनमें (सविता) चलाने वा उत्पन्न करनेहारा सूर्य और (यासु) जिनमें (अग्निः) [पार्थिव] अग्नि (जातः) उत्पन्न हुई। (याः) जिन (सुवर्णाः) सुन्दर रूपवाली (आपः) तन्मात्राओं ने (अग्निम्) [बिजुलीरूप] अग्नि को (गर्भम्) गर्भ के समान (दधिरे) धारण किया था, (ताः) वे [तन्मात्राएँ] (नः) हमारे लिये (शम्) शुभ करनेहारी और (स्योनाः) सुख देनेवाली (भवन्तु) होवें ॥१॥
@@ -112,8 +77,6 @@ May they, the golden-hued, the bright, the splendid, they wherein Savitar was bo
 
 टिप्पणी:   १−हिरण्य-वर्णाः। हर्यतेः कन्यन् हिर च। उ० ४।४४। इति हर्य गति-कान्त्योः−कन्यन्, हिर आदेशश्च, नित्वाद् आद्युदात्तः। कॄवृजॄसिद्रुगुपन्यनिस्वपिभ्यो नित्। उ० ३।१०। इति वृञ् वरणे−न, स च नित्। बहुव्रीहौ प्रकृत्या पूर्वपदम्। पा० ६।२।१। इति पूर्वपदप्रकृतिस्वरत्वेन आद्युदात्तः। कमनीयरूप-युक्ताः, गतिशीलरूपयुक्ताः। प्रकाशस्वरूपाः। शुचयः। इगुपधात् कित्। उ० ४।१२०। इति शुचिर् शौचे=शुद्धौ−इन्, स च कित्। शुद्धस्वभावाः। पावकाः। पूञ् शोधे−घञ्। आतोऽनुपसर्गे कः। पा० ३।२।३। इति कै शब्दे−कः। उपपदमतिङ्। पा० २।२।१९। इति समासः। टाप्। यद्वा। पूञ् ण्वुल्। टाप्। पावकादीनां छन्दःसीति। वा० पा० ७।३।४५। इत्वं निषिद्धम्। पावस्य शुद्धव्यवहारस्य शब्दयित्र्यः, ज्ञापयित्र्यः। पावयित्र्यः, शोधयित्र्यः। यासु। अप्सु। जातः। जनी प्रादुर्भावे−क्त। प्रादुर्भूतः, उत्पन्नः। सविता। १।१८।२। सूर्यः। अग्निः। १।६।२। पार्थिवाग्निः। अग्निम्। वैद्युताग्निम्। गर्भम्। १।११।२। पदार्थेषु गर्भवत् स्थितम्। दधिरे। डुधाञ् धारणपोषणयोः−लिट्। दधुः, स्थायामासुः। सु-वर्णाः। वृञ्−न। शोभनरूपाः। नः। अस्मभ्यम्। आपः। १।५।१। व्यापिकास्तन्मात्राः−इति श्रीमद्दयानन्दभाष्ये, यजु० २७।२५ ॥ शम्। १।३।१। शुभकारिण्यः। स्योनाः। सिवेष्टेर्यू च। उ० ३।९। इति षिवु तन्तुसन्ताने−न प्रत्ययः, टिभागस्य यू इत्यादेशः। स्योनं सुखनाम, निघ० ३।६। अर्शआदिभ्योऽच्, पा० ५।२।१२७। इति मत्वर्थे अच्। सुखवत्यः ॥
 </details>
-</details>
-</div>
 </details>
 </div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/02_hiraNyavarNAshshuchayaH_pAvakA.md">
@@ -140,60 +103,23 @@ May they, the golden-hued, the bright, the splendid, they wherein Savitar was bo
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/03_yAsAM_rAjA.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/02_yAsAM_rAjA.md">
 <details open><summary><h2>०३ यासां राजा ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/02_yAsAM_rAjA.md">
-<details open><summary><h4>०२ यासां राजा ...{Loading}...</h4></summary>
-
 यासाँ॒ राजा॒ वरु॑णो॒ **याति॒** मद्ध्ये॑  
 सत्यानृ॒ते **अ॑व॒पश्य॒ञ्** जना॑नाम् ।  
 या अ॒ग्निं गर्भं॑ **दधि॒रे** सु॒वर्णा॒स्  
-तास् त॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।+++(५)+++ 
-
+तास् त॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।+++(५)+++
 </details>
 </div>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/03_yAsAM_rAjA.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/033_ApaH/02_yAsAM_rAjA.md">
 <details><summary><h3>०३ यासां राजा ...{Loading}...</h3></summary>
-<details><summary>मूलम्</summary>
-
-यासाँ॒ राजा॒ वरु॑णो॒ याति॒ मद्ध्ये॑ सत्यानृ॒ते अ॑व॒पश्य॒ञ्जना॑नाम् ।  
-या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्तास्त॒ आप॒श्शँ स्यो॒ना भ॑वन्तु ।
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-- या᳓साम् (*TS*-7/3383, *RV*-5/4011, *TB*-0/728, *AV*-8/3116, *ŚB*-3/1139, *VS*-0/244)
-- रा᳓जा (*TS*-30/48, *RV*-102/151, *TB*-35/41, *AV*-60/78, *ŚB*-60/99, *VS*-14/18)
-- व᳓रुणः (*TS*-55/118, *RV*-169/308, *TB*-23/55, *AV*-52/113, *ŚB*-56/85, *VS*-29/57)
-- या᳓ति (*TS*-3, *RV*-9, *AV*-4; यद्वृत्तान्नित्यम् पा॰ ८.१.६६)
-- म᳓द्ध्ये (*TS*-30/45, *RV*-30/38, *TB*-5/8, *TK*-3/5, *AV*-15/31, *ŚB*-39/61, *VS*-7/8, *KS*-8/9, *MS*-16/29)
-- सत्यानृते᳓ (*TB*-7, *AV*-1, *ŚB*-1, *VS*-1, प्रातिपदिकम् सत्यानृत᳓ (*MW*))
-- अव-प᳓श्यन् (*TS*-1, *RV*-1, *AV*-1, शतृ पा॰ ६.२.१३९)
-- ज᳓नानाम् (*TS*-5/34, *RV*-60/300, *TB*-3/15, *AV*-16/94, *ŚB*-4/20, *VS*-2/17)
-- याः᳓ (*TS*-85/3383, *RV*-87/4011, *TB*-4/728, *AV*-133/3116, *ŚB*-29/1139, *VS*-5/244)
-- अग्नि᳓म् (*TS*-293/1195, *RV*-287/856, *TB*-52/310, *AV*-67/419, *ŚB*-22/111, *VS*-11/36)
-- ग᳓र्भम् (*TS*-17/66, *RV*-55/95, *TB*-6/14, *AV*-30/66, *ŚB*-27/84, *VS*-7/15)
-- दधिरे᳓ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६)
-- सुव᳓र्णाः (*RV*-1, *TB*-0/8, *AV*-5/8, *ŚB*-0/15)
-- ताः᳓ (*TS*-136/4763, *RV*-70/3136, *TB*-7/1327, *AV*-100/3163, *ŚB*-36/2303, *VS*-3/268)
-- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280)
-- आ᳓पः (*TS*-98/319, *RV*-151/532, *TB*-29/86, *AV*-141/324, *ŚB*-80/116, *VS*-9/26)
-- श᳓म् (*TS*-33, *RV*-159, *TB*-6)
-- स्योनाः᳓ (*TS*-4/14, *RV*-0/8, *TB*-0/8, *AV*-11/36, *ŚB*-0/5, *VS*-0/8)
-- भवन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-</details>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/033_ApaH/02_yAsAM_rAjA.md">
-<details open><summary><h2>०२ यासां राजा ...{Loading}...</h2></summary>
 <details><summary>Whitney</summary>
 
-###### Translation
+##### Translation
 2. In the midst of whom goes king Varuṇa, looking down at the  
 truth-and-falsehood of men; who, of beauteous color, etc. etc.
 
-###### Notes
+##### Notes
 The first half-verse is found also in RV. (vii. 49. 3 **a, b**), without  
 difference of reading; MP. agrees through the whole verse ⌊except in  
 **d**, *te* for *nas*⌋; TS. MS. have a wholly different *c*. The comment  
@@ -226,6 +152,11 @@ They in the midst whereof King Varuna moveth, viewing men's righteous and unrigh
 सूक्ष्म तन्मात्राओं का विचार।
 </details>
 
+<details><summary>हरदत्तः</summary>
+
+तृतीयः- यासां राजेति ॥ । स्षष्टोऽर्थः ।
+</details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यासाम्) जिन तन्मात्राओं के (मध्ये) बीच में (वरुणः) सर्वश्रेष्ठ (राजा) राजा परमेश्वर (जनानाम्) सब जन्मवाले जीवों के (सत्यानृते) सत्य और असत्य को (अवपश्यन्) देखता हुआ (याति) चलता है। (याः) जिन (सुवर्णाः) सुन्दर रूपवाली (आपः) तन्मात्राओं ने (अग्निम्) बिजुलीरूप अग्नि को (गर्भम्) गर्भ के समान (दधिरे) धारण किया था, (ताः) वे [तन्मात्राएँ] (नः) हमारे लिये (शम्) शुभ करनेहारी और (स्योनाः) सुख देनेवाली (भवन्तु) होवें ॥२॥
@@ -240,8 +171,6 @@ They in the midst whereof King Varuna moveth, viewing men's righteous and unrigh
 
 टिप्पणी:   २−यासाम्। अपाम् तन्मात्राणाम्। राजा। १।१०।१। ईश्वरः। नियन्ता। वरुणः। १।३।३। वृणोति सर्वं, व्रियते अन्यैरिति वरुणः। सर्व−वरणीयः परमेश्वरः। याति। गच्छति। व्याप्नोति। मध्ये। अघ्न्यादयश्च। उ० ४।११२। इति मन ज्ञाने-यक्, नस्य धः। अन्तर्वर्त्तिनि भागे। सत्य-अनृते। सद्भ्यो हितम्। सत्-यत्। सत्यं, यथार्थं, तथ्यम्। न ऋतम्। अनृतम् असत्यम्, मिथ्याकरणम्, सत्यं च असत्यं च उभे कर्मणी। अव-पश्यन्। दृशिर्-शतृ। अवलोकयन् विजानन्। जनानाम्। १।८।१। जन्मवतां लोकानाम्। अन्यद् गतम् म० १ ॥
 </details>
-</details>
-</div>
 </details>
 </div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/04_yAsAn_devA.md">
@@ -327,7 +256,7 @@ Whom the Gods make their beverage in heaven, they who wax manifold in air's mid-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/05_shivena_tvA.md">
 <details open><summary><h2>०५ शिवेन त्वा ...{Loading}...</h2></summary>
 
-शिवे᳓न +++(यजमान!)+++ त्वा च᳓क्षुषा पश्यन्त्व् +++(हे)+++ [[आपश्|आ᳓पश्]]!  
+शिवे᳓न +++(यजमान!)+++ त्वा च᳓क्षुषा पश्यन्त्व् +++(हे)+++ आ᳓पश्!  
 शिव᳓या तन्वा᳓+उ᳓पस्पृशन्तु त्व᳓चन् ते ।  
 घृतश्-चु᳓तश्+++(=दुहन्त्यः)+++ शु᳓चयो याः᳓ पावका᳓स्  
 ता᳓स् त आ᳓पश् शँ᳓ स्योना᳓ भवन्तु ।+++(५)+++
@@ -343,26 +272,26 @@ Whom the Gods make their beverage in heaven, they who wax manifold in air's mid-
 
 <details><summary>पद-पाठः (यान्त्रिकः - 1/21 व्यत्यस्त-स्वराः)</summary>
 
-- शिवे᳓न (*TS*-3/59, *RV*-1/50, *TB*-3/21, *AV*-5/83, *ŚB*-4/52, *VS*-3/41)
+- शिवे᳓न (*TS*-3/59, *RV*-1/50, *TB*-3/21, *AV*-5/83, *ŚB*-4/52, *VS-M*-3/41)
 - त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590)
-- च᳓क्षुषा (*TS*-10/115, *RV*-3/44, *TB*-2/35, *AV*-20/86, *ŚB*-30/210, *VS*-5/15)
+- च᳓क्षुषा (*TS*-10/115, *RV*-3/44, *TB*-2/35, *AV*-20/86, *ŚB*-30/210, *VS-M*-5/15)
 - पश्यन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- आपः → **आ᳓पः** (*TS*-98/319, *RV*-151/532, *TB*-29/86, *AV*-141/324, *ŚB*-332/760, *VS*-9/26)
-- शिव᳓या (*TS*-1/59, *RV*-0/50, *TB*-0/21, *AV*-2/83, *ŚB*-0/52, *VS*-0/41)
-- तन्वा᳓ (*TS*-0/2, *RV*-35/146, *AV*-1/97, *ŚB*-9/42, *VS*-4/16)
+- आपः → **आ᳓पः** (*TS*-98/319, *RV*-151/532, *TB*-29/86, *AV*-141/324, *ŚB*-332/760, *VS-M*-9/26)
+- शिव᳓या (*TS*-1/59, *RV*-0/50, *TB*-0/21, *AV*-2/83, *ŚB*-0/52, *VS-M*-0/41)
+- तन्वा᳓ (*TS*-0/2, *RV*-35/146, *AV*-1/97, *ŚB*-9/42, *VS-M*-4/16)
 - उ᳓प (*TS*-723, *RV*-487)
 - स्पृशन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- त्व᳓चम् (*TS*-9/21, *RV*-12/23, *TB*-1/5, *AV*-11/17, *ŚB*-17/59, *VS*-2/6)
+- त्व᳓चम् (*TS*-9/21, *RV*-12/23, *TB*-1/5, *AV*-11/17, *ŚB*-17/59, *VS-M*-2/6)
 - ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280)
 - घृतश्चु᳓तः (*TS*-2/3, *RV*-7/13, *TB*-1, *AV*-6/12, *ŚB*-2)
-- शु᳓चयः (*TS*-8/33, *RV*-26/113, *TB*-0/9, *AV*-12/25, *ŚB*-3/23, *VS*-3/9)
-- याः᳓ (*TS*-85/3383, *RV*-87/4011, *TB*-4/728, *AV*-133/3120, *ŚB*-237/8327, *VS*-5/244)
-- पावकाः᳓ (*TS*-4/24, *RV*-7/46, *TB*-2/8, *AV*-5/7, *ŚB*-0/19, *VS*-1/5)
-- ताः᳓ (*TS*-136/4763, *RV*-70/3136, *TB*-7/1327, *AV*-100/3165, *ŚB*-692/20457, *VS*-3/268)
+- शु᳓चयः (*TS*-8/33, *RV*-26/113, *TB*-0/9, *AV*-12/25, *ŚB*-3/23, *VS-M*-3/9)
+- याः᳓ (*TS*-85/3383, *RV*-87/4011, *TB*-4/728, *AV*-133/3120, *ŚB*-237/8327, *VS-M*-5/244)
+- पावकाः᳓ (*TS*-4/24, *RV*-7/46, *TB*-2/8, *AV*-5/7, *ŚB*-0/19, *VS-M*-1/5)
+- ताः᳓ (*TS*-136/4763, *RV*-70/3136, *TB*-7/1327, *AV*-100/3165, *ŚB*-692/20457, *VS-M*-3/268)
 - ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280)
-- आ᳓पः (*TS*-98/319, *RV*-151/532, *TB*-29/86, *AV*-141/324, *ŚB*-332/760, *VS*-9/26)
+- आ᳓पः (*TS*-98/319, *RV*-151/532, *TB*-29/86, *AV*-141/324, *ŚB*-332/760, *VS-M*-9/26)
 - श᳓म् (*TS*-33, *RV*-159, *TB*-6)
-- स्योनाः᳓ (*TS*-4/14, *RV*-0/8, *TB*-0/8, *AV*-11/36, *ŚB*-0/10, *VS*-0/8)
+- स्योनाः᳓ (*TS*-4/14, *RV*-0/8, *TB*-0/8, *AV*-11/36, *ŚB*-0/10, *VS-M*-0/8)
 - भवन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 

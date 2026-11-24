@@ -34,18 +34,10 @@ title = "०५ प्रधान-होमः"
 
 [[78]]
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/01_yogeyoge_tavastaram.md">
-
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/030/07_yogeyoge_tavastaraM.md">
-<details open><summary><h4>०७ योगेयोगे तवस्तरं …{Loading}…</h4></summary>
-
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/030/07_yogeyoge_tavastaraM.md">
 +++(रथादि)+++यो᳓गेयोगे तव᳓स्+++(=गति[वत्])+++तरव्ँ  
 वा᳓जेवाजे हवामहे ।  
 +++(वयं स्तोतृत्वेन)+++ स᳓खाय+++(ः)+++ इ᳓न्द्रम् ऊत᳓ये ।+++(५)+++
-
-</details>
-</div>
-
 </div>
 
 (इन्द्राय इदन्न मम ।) 
@@ -65,20 +57,14 @@ title = "०५ प्रधान-होमः"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/03_shataminnu_sharado.md">
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/09_shataminnu_sharado.md">
-
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/09_shataminnu_sharado.md">
 शत᳓म् इ᳓न् नु᳓ शर᳓दो अ᳓न्ति+++(कं)+++ देवा,  
 य᳓त्रा नश् **चक्रा᳓**+++(क्रुः)+++ जर᳓सन् तनू᳓नाम् ।  
 पुत्रा᳓सो य᳓त्र पित᳓रो **भ᳓वन्ति**  
-+++(तादृशे काले)+++ **मा᳓** नो मध्या᳓ **रीरिषता᳓ऽऽयुर्** +++(आ स्वतो)+++ग᳓न्तोः+++(=गमनात्)+++ ।+++(४)+++  
-
++++(तादृशे काले)+++ **मा᳓** नो मध्या᳓ **रीरिषता᳓ऽऽयुर्** +++(आ स्वतो)+++ग᳓न्तोः+++(=गमनात्)+++ ।+++(४)+++
 </div>
 
-(दे॒वेभ्यः॒ इद॒न्न मम॑ । )
-
-</div>
+(देवे᳓भ्यः इ᳓दन्न᳓ म᳓म । )
 
 +++(आचार्यो वदति, शिष्यो जुहोति - )+++
 

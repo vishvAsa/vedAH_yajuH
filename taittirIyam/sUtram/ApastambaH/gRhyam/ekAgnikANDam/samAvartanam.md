@@ -147,80 +147,44 @@ ____________
 </div>
 
 ## स्नानम्
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/13_Apo_hi.md">
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
 आ᳓पो हि᳓ ष्ठा᳓ मयो-भु᳓वस्  
 ता᳓ न ऊर्जे᳓+++(जाः)+++ दधातन ।  
 महे᳓ र᳓णाय+++(=रमणीयाय)+++ च᳓क्षसे+++(=दर्शनाय)+++ ॥
-
 </div>
 
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/14_yo_vaH.md">
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
 यो᳓ वः शिव᳓तमो र᳓सस्  
 त᳓स्य भाजयतेह᳓ नः ।  
 उशती᳓र्+++(=कामयमाना)+++ इव मात᳓रः ॥
-
 </div>
 
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/15_tasmA_aram.md">
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
 +++(रसाय)+++ त᳓स्मा अ᳓रं+++(=शीघ्रम्)+++ **गमाम** वो  
 य᳓स्य +++(प्रभावेण)+++ **क्ष᳓याय**+++(=निवासाय)+++ **जि᳓न्वथ**+++(=प्रीणयथ)+++ ।  
 आ᳓पो +++(प्रजा)+++ **जन᳓यथा** च नः ॥  
 +++(`चादिषु` च इति न स्वर-निघातः। )+++
-
 </div>
 
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/16_hiraNyavarNAshshuchayaH_pAvakAH.md">
-
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
 हि᳓रण्य-वर्णाश् शु᳓चयः पावका᳓  
 या᳓सु जातः᳓ कश्य᳓पो या᳓स्व् इ᳓न्द्रः ।  
 अग्नि᳓य्ँ या᳓ ग᳓र्भन् **दधिरे᳓**, वि᳓रूपास् -  
 ता᳓स् त आ᳓पश् शँ᳓ स्योना᳓ +++(=सुखा)+++ भवन्तु ।+++(५)+++
-
 </div>
 
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/17_yAsAM_rAjA_varuNaH.md">
-
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
 या᳓साँ रा᳓जा व᳓रुणो **या᳓ति** म᳓ध्ये,  
 सत्यानृते᳓ **अवप᳓श्यञ्** ज᳓नानाम् ।  
 मधुश्-**चु᳓तश्** शु᳓चयो याᳶ᳓ पावका᳓स् -  
 ता᳓ न आ᳓पश् शँ᳓ स्योना᳓ **भवन्तु** ।
-
 </div>
 
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/18_yAsAn_devA_divi.md">
-
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
 या᳓सान् देवा᳓ दिवि᳓ **कृण्व᳓न्ति** भक्षय्ँ᳓ -  
 या᳓ अन्त᳓रिक्षे बहुधा᳓ **भ᳓वन्ति** ।  
 याᳶ᳓ पृथिवी᳓म् **प᳓यसोन्द᳓न्ति** शुक्रा᳓स् -  
 ता᳓ न आ᳓पश् शँ᳓ स्योना᳓ **भवन्तु** ।
-
-</div>
-
 </div>
 
 ## दन्तधावनम्  
