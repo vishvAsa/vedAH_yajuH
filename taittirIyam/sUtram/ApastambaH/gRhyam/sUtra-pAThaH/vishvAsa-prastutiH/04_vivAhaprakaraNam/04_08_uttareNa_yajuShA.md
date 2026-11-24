@@ -42,10 +42,10 @@ title = "०४ ०८ उत्तरेण यजुषा"
 उत्तराभिः पञ्चभिस् +++(=हिरण्यवर्णा)+++ स्नापयित्वा,  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/01_hiraNyavarNAH_shuchayaH.md">
 <details open><summary><h2>०१ हिरण्यवर्णाश्शुचयः पावकाः ...{Loading}...</h2></summary>
-हिर॑ण्य-वर्णा॒श् शुच॑यः पाव॒काः  
-प्रच॑क्रमुर् ‌हि॒त्वा ऽव॒द्यम् आपः॑ ।  
-श॒तं प॒वित्रा॒ वित॑ता॒ ह्य् आ॑सु॒ +++(अप्सु)+++  
-ताभि॑ष् ट्वा दे॒वस् स॑वि॒ता पु॑नातु ।+++(र५)+++
+हि᳓रण्य-वर्णाश् शु᳓चयः पावकाः᳓  
+प्र᳓चक्रमुर् ‌हित्वा᳓ ऽवद्य᳓म् आ᳓पः ।  
+शतं᳓ पवि᳓त्रा वि᳓तता ह्य् आ᳙सु +++(अप्सु)+++  
+ता᳓भिष् ट्वा देव᳓स् सविता᳓ पुनातु ।+++(र५)+++
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/02_hiraNyavarNAshshuchayaH_pAvakA.md">
@@ -60,10 +60,10 @@ title = "०४ ०८ उत्तरेण यजुषा"
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/02_yAsAM_rAjA.md">
 <details open><summary><h2>०३ यासां राजा ...{Loading}...</h2></summary>
-यासाँ॒ राजा॒ वरु॑णो॒ **याति॒** मद्ध्ये॑  
-सत्यानृ॒ते **अ॑व॒पश्य॒ञ्** जना॑नाम् ।  
-या अ॒ग्निं गर्भं॑ **दधि॒रे** सु॒वर्णा॒स्  
-तास् त॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।+++(५)+++
+या᳓साँ रा᳓जा व᳓रुणो **या᳓ति** म᳓द्ध्ये  
+सत्यानृते᳓ **अवप᳓श्यञ्** ज᳓नानाम् ।  
+या᳓ अग्निं᳓ ग᳓र्भं **दधिरे᳓** सुव᳓र्णास्  
+ता᳓स् त आ᳓पश् शँ᳓ स्योना᳓ **भवन्तु** ।+++(५)+++
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/04_yAsAn_devA.md">
@@ -71,8 +71,8 @@ title = "०४ ०८ उत्तरेण यजुषा"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/03_yAsAM_devA.md">
 <details open><summary><h4>०३ यासां देवा ...{Loading}...</h4></summary>
 
-यासां॑ दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒क्षं या अ॒न्तरि॑क्षे बहु॒धा भ॑वन्ति।  
-या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्ता न॒ आपः॒ शं स्यो॒ना भ॑वन्तु ॥
+या᳓सां देवा᳓ दिवि᳓ कृण्व᳓न्ति भक्षं᳓ या᳓ अन्त᳓रिक्षे बहुधा᳓ भवन्ति।  
+या᳓ अग्निं᳓ ग᳓र्भं दधिरे᳓ सुव᳓र्णास्ता᳓ न आ᳓पः शं᳓ स्योना᳓ भवन्तु ॥
 </details>
 </div>
 </details>
