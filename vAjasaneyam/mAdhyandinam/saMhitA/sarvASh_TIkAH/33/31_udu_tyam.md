@@ -17,10 +17,15 @@ His bright rays bear him up aloft, the God who knoweth all that lives, Sûrya, t
 
 उँ॒ऽइत्युँ॑त्। उ। त्यम्। जा॒तवे॑दस॒मिति॑ जा॒तऽवे॑दसम्। दे॒वम्। व॒ह॒न्ति॒। के॒तवः॑। दृ॒शे। विश्वा॑य। सूर्य्य॑म्। ३१।
 </details>
-<details><summary>महीधरः</summary>
+<details><summary>उवट-टीका</summary>
 
-म० ऐन्द्रवायवस्य द्वितीया पुरोरुक् । व्याख्याता (७ ।४१) ॥ ३१ ॥  
-द्वात्रिंशी।
+उदुत्यमिति व्याख्यातम्॥ ३१॥
+</details>
+<details><summary>महीधर-टीका</summary>
+
+ऐन्द्रवायवस्य द्वितीया पुरोरुक्।
+
+व्याख्याता (७.४१)॥ ३१॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

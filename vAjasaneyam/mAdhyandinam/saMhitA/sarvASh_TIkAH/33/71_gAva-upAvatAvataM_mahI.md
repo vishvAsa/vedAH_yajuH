@@ -17,10 +17,13 @@ Ye Cows, protect, etc., as in verse 14.
 
 गावः। उप॑। अ॒वत॒। अ॒वतम्। म॒हीऽइति॑ म॒ही। य॒ज्ञस्य॑। र॒प्सुदा॑। उभा। कर्णा॑। हि॒र॒ण्यया॑। ७१।
 </details>
-<details><summary>महीधरः</summary>
+<details><summary>उवट-टीका</summary>
 
-म०. गाव उपेति व्याख्याता ( ३३ । १९) ॥ ७१॥  
-द्विसप्ततितमी।
+गाव उपेति व्याख्यातम्॥ ७१॥
+</details>
+<details><summary>महीधर-टीका</summary>
+
+गाव उपेति व्याख्याता ( ३३ । १९) ॥ ७१॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

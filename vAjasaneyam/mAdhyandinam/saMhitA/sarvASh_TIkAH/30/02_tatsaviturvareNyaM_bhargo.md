@@ -17,10 +17,9 @@ May we attain that excellent glory of Savitar the God: So may he stimulate our p
 
 तत्। स॒वि॒तुः। वरे॑ण्यम्। भर्गः॑। दे॒वस्य॑। धी॒म॒हि॒। धियः॑। यः। नः॒। प्र॒चो॒दया॒दिति॑ प्रऽचो॒दया॑त्। २।
 </details>
-<details><summary>महीधरः</summary>
+<details><summary>महीधर-टीका</summary>
 
-म०. हे देव सवितः, विश्वानि सर्वाणि दुरितानि पापानि परासुव दूरे गमय । यद्भद्रं कल्याणं तन्नोऽस्मान् प्रति आसुव आगमय ॥३॥  
-चतुर्थी।
+(अस्याः कण्डिकाया व्याख्या १-कण्डिकया सहिता द्रष्टव्या।)
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

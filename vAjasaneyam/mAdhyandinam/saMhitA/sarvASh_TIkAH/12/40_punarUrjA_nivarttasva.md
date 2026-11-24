@@ -17,11 +17,15 @@ Return again with nourishment; Agni, again with food and life. Again preserve us
 
 पुनः॑। ऊ॒र्जा। नि। व॒र्त्त॒स्व॒। पुनः॑। अ॒ग्ने॒। इ॒षा। आयु॑षा। पुनः॑। नः॒। पा॒हि॒। अँह॑सः। ४०।
 </details>
-<details><summary>महीधरः</summary>
+<details><summary>उवट-टीका</summary>
 
-म०. द्वे व्याख्याते (क० ९) ॥४०॥ (क० १०) ॥४१॥  
-एकचत्वारिंशी।  
-द्विचत्वारिंशी।
+पुनरूर्जा।
+
+द्वे व्याख्याते॥ ४०॥
+</details>
+<details><summary>महीधर-टीका</summary>
+
+द्वे व्याख्याते (क० ९)॥ ४०॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

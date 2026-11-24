@@ -17,10 +17,15 @@ Heaven was the antecedent thought, etc., as in 12.
 
 द्यौः। आ॒सी॒त्। पू॒र्वचि॑त्ति॒रिति॑ पू॒र्वऽचि॑त्तिः। अश्वः॑। आ॒सी॒त्। बृ॒हत्। वयः॑। अविः॑। आ॒सी॒त्। पि॒लि॒प्पि॒ला। रात्रिः॑। आ॒सी॒त्। पि॒श॒ङ्गि॒ला। ५४।
 </details>
-<details><summary>महीधरः</summary>
+<details><summary>उवट-टीका</summary>
 
-म० व्याख्याता (१२) ॥ ५४ ॥  
-पञ्चपञ्चाशी।
+प्रत्याह।
+
+द्यौरासीत् व्याख्यातौ॥ ५४॥
+</details>
+<details><summary>महीधर-टीका</summary>
+
+व्याख्याता (१२)॥ ५४॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

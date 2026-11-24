@@ -17,10 +17,13 @@ Throughout the dusky firmament, etc., as in XXXIII. 43.
 
 आ। कृ॒ष्णेन॑। रज॑सा। वर्त्त॑मानः। नि॒वे॒शय॒न्निति॑ निऽवे॒शय॑न्। अ॒मृत॑म्। मर्त्य॑म्। च॒। हि॒र॒ण्यये॑न। स॒वि॒ता। रथे॑न। आ। दे॒वः। या॒ति॒। भुव॑नानि। पश्य॑न्। ३१।
 </details>
-<details><summary>महीधरः</summary>
+<details><summary>उवट-टीका</summary>
 
-म०. व्याख्याता ( अ० ३३ क० ४३ ) ॥ ३१ ॥  
-द्वात्रिंशी।
+आकृष्णेनेति व्याख्यातम्॥ ३१॥
+</details>
+<details><summary>महीधर-टीका</summary>
+
+व्याख्याता (अ० ३३ क० ४३)॥ ३१॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -17,10 +17,13 @@ May Heaven and Earth, the Mighty Pair, besprinkle this our sacrifice, And feed u
 
 म॒ही। द्यौः। पृ॒थि॒वी। च॒। नः॒। इ॒मम्। य॒ज्ञम्। मि॒मि॒क्ष॒ता॒म्। पि॒पृ॒ताम्। नः॒। भरी॑मभि॒रिति॒ भरी॑मऽभिः। ३२।
 </details>
-<details><summary>महीधरः</summary>
+<details><summary>उवट-टीका</summary>
 
-म० महीति व्याख्याता ( ८ । ३२) ॥ ३२ ॥  
-त्रयस्त्रिंशी।
+मही द्यौरिति व्याख्यातम्॥ ३२॥
+</details>
+<details><summary>महीधर-टीका</summary>
+
+महीति व्याख्याता (८। ३२)॥ ३२॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -17,10 +17,15 @@ Agni, Atharvan brought thee forth by rubbing from the lotus-leaf, the head of Vi
 
 त्वाम्। अ॒ग्ने॒। पुष्क॑रात्। अधि॑। अथ॑र्वा। निः। अ॒म॒न्थ॒त॒। मू॒र्ध्नः। विश्व॑स्य। वा॒घतः॑। २२।
 </details>
-<details><summary>महीधरः</summary>
+<details><summary>उवट-टीका</summary>
 
-म० व्याख्यातैकादशे द्वात्रिंशत्तमकण्डिकायाम् ॥ २२ ॥  
-त्रयोविंशी।
+त्वामग्ने पुष्करात्।
+
+व्याख्यातम्॥ २२॥
+</details>
+<details><summary>महीधर-टीका</summary>
+
+व्याख्यातैकादशे द्वात्रिंशत्तमकण्डिकायाम्॥ २२॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -17,10 +17,13 @@ These, Indra-Vâyu, have been shed, etc., as in VII. 8.
 
 इन्द्र॑वायूऽइ॒तीन्द्र॑वायू। इ॒मे। सु॒ताः। उप॑। प्रयो॑भि॒रिति॒ प्रयः॑ऽभिः। आ। ग॒त॒म्। इन्द॑वः। वा॒म्। उ॒शन्ति॑। हि। ५६।
 </details>
-<details><summary>महीधरः</summary>
+<details><summary>उवट-टीका</summary>
 
-म० इन्द्रवायू व्याख्याता (७।८)॥५६॥  
-सप्तपञ्चाशी।
+इन्द्रवायू इमे व्याख्यातम्॥ ५६॥
+</details>
+<details><summary>महीधर-टीका</summary>
+
+इन्द्रवायू व्याख्याता (७.८)॥५६॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

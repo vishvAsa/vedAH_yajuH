@@ -17,7 +17,13 @@ Obeisance to thy wrath and glow, etc., as in XXII. 11.
 
 asd
 </details>
-<details><summary>महीधरः</summary>
+<details><summary>उवट-टीका</summary>
+
+नमस्ते हरसे इति व्याख्यातम्॥ २०॥
+</details>
+<details><summary>महीधर-टीका</summary>
+
+नमस्ते व्याख्याता [अ० १७। क० ११]॥ २०॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

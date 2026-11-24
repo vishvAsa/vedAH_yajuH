@@ -17,10 +17,13 @@ This is thine ordered place of birth whence, sprung to life, thou shonest forth.
 
 अ॒यम्। ते॒। योनिः॑। ऋ॒त्वियः॑। यतः॑। जा॒तः। अरो॑चथाः। तम्। जा॒नन्। अ॒ग्ने॒। आ। रो॒ह॒। अथ॑। नः॒। व॒र्ध॒य॒। र॒यिम्। ५६।
 </details>
-<details><summary>महीधरः</summary>
+<details><summary>उवट-टीका</summary>
 
-म० इयं व्याख्याता ( ३ । १४ । १२ । ५२ ) ॥ ५६ ॥  
-सप्तपञ्चाशी।
+अयं त इति व्याख्यातम्॥ ५६॥
+</details>
+<details><summary>महीधर-टीका</summary>
+
+इयं व्याख्याता (३। १४। १२। ५२)॥ ५६॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
