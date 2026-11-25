@@ -3,9 +3,12 @@ title = "२ सोमाहारणादि"
 
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अत्र पुराणोक्त-कद्रू-सौपर्ण-कथा-प्राग्रूपम्। तेन यज्ञदृष्टान्तं किञ्चन। सोमस्य देवेभ्य आहरणस्य, तपसः, दीक्षायाश्च स्तुतिः। खादिरप्रयोगसूचनाः। गुप्तिप्रशंसा। 
+</details>
 </details>
 
 
@@ -15,6 +18,17 @@ title = "२ सोमाहारणादि"
 
 विजा᳓मानो+++(=भ्रातरः)+++ हैवा᳓स्य +++(यज्ञस्य)+++ धि᳓ष्ण्याः +++(धाना-कपालानि)+++॥  
 +++(कुत इति चेत्-)+++ इमे᳓ समङ्का᳓+++(=समानचिह्नाः)+++ ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+1. The Dhishṇya-hearths [^egg_392], forsooth, are no other than its (the sacrifice's) congeners [^egg_393].
+
+[^egg_392]: 148:4 There are altogether eight dhishṇyas, two of which, viz. the Āgnīdhra and the Mārjālīya, are raised north and south of the back part of the cart-shed (havirdhāna) respectively; while the other six are raised inside the Sadas along the east side of it, viz. five of them north of the 'spine,' belonging (from south to north) to the Hotr̥, Brāhmaṇāchaṁsi, Potr̥, Neshṭr̥, and Achāvāka respectively; and one south of the spine, exactly south-east of the Udumbara post, for the Maitrāvaruṇa (or Praśāstr̥) priest. These six priests, together with the Āgnīdhra, are called the 'seven Hotr̥s.' The Āgnīdhra and Mārjālīya have square sheds with four posts erected over them, open on the east side and on the side facing the cart-shed. The Āgnīdhra hearth is thrown up first, and the Mārjālīya last of all; and the Maitrāvaruṇa's immediately after that of the Hotr̥. For the formulas by which they are consecrated, see Vāj. S. V, 32, 32.
+
+[^egg_393]: 149:1 That is, the parts of the body corresponding to one another, as arms, loins, &c.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -51,20 +65,19 @@ title = "२ सोमाहारणादि"
 
 [^१_२०७]: "धिष्ण्योपधानपदार्थ" इति क्व. पा. ।
 </details>
-
-<details><summary>Eggeling</summary>
-
-1. The Dhishṇya-hearths [^egg_392], forsooth, are no other than its (the sacrifice's) congeners [^egg_393].
-
-[^egg_392]: 148:4 There are altogether eight dhishṇyas, two of which, viz. the Āgnīdhra and the Mārjālīya, are raised north and south of the back part of the cart-shed (havirdhāna) respectively; while the other six are raised inside the Sadas along the east side of it, viz. five of them north of the 'spine,' belonging (from south to north) to the Hotr̥, Brāhmaṇāchaṁsi, Potr̥, Neshṭr̥, and Achāvāka respectively; and one south of the spine, exactly south-east of the Udumbara post, for the Maitrāvaruṇa (or Praśāstr̥) priest. These six priests, together with the Āgnīdhra, are called the 'seven Hotr̥s.' The Āgnīdhra and Mārjālīya have square sheds with four posts erected over them, open on the east side and on the side facing the cart-shed. The Āgnīdhra hearth is thrown up first, and the Mārjālīya last of all; and the Maitrāvaruṇa's immediately after that of the Hotr̥. For the formulas by which they are consecrated, see Vāj. S. V, 32, 32.
-
-[^egg_393]: 149:1 That is, the parts of the body corresponding to one another, as arms, loins, &c.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ वै᳓ समङ्का᳓स् ते᳓ विजा᳓मान।  
 एत᳓+++(→धिष्ण्याः)+++ उ हैवा᳓स्यैत᳓+++(→विजामाना अङ्गानि)+++ आत्म᳓नः॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+They have the same marks, and those which have the same marks are congeners; and these, then, are those (corresponding limbs) of its trunk.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -108,10 +121,6 @@ title = "२ सोमाहारणादि"
 
 [^२_२०७]: 'अत्तारः' इति क्व. पा. ।
 </details>
-
-<details><summary>Eggeling</summary>
-
-They have the same marks, and those which have the same marks are congeners; and these, then, are those (corresponding limbs) of its trunk.
 </details>
 
 
@@ -129,6 +138,17 @@ They have the same marks, and those which have the same marks are congeners; and
 इ᳓ति।  
 त᳓ एते᳓ माये᳓ असृजन्त - सुपर्णीं᳓ च कद्रूं᳓ च।  
 वा᳓ग् एव᳓ सुपर्णी᳓यं᳓ कद्रू᳓स्,, ता᳓भ्यां सम᳓दं [[चक्रुः|चक्रुः᳓]]॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+2. Now Soma was in heaven, and the gods were here on earth. The gods desired, 'Would that Soma might come to us; we might sacrifice with him, when come.' They produced those two illusions, Suparṇī and Kadrū [^egg_394]; Suparṇī, forsooth, was Vāc (speech) [^egg_395], and Kadrū was this (earth). They caused discord between them.
+
+[^egg_394]: 149:2 See III, 2, 4, 1 seq.; Oldenberg, Zeitsch. d. Deutsch. Morg. Ges. XXXVII, p. 67 seq.; Weber, Ind. Stud. VIII, p. 31.
+
+[^egg_395]: 149:3 In Taitt. S. VI, 1, 6; Kāṭḥ. XXIII, 10, suparṇī, 'the well-winged,' is identified with the sky.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -190,14 +210,6 @@ They have the same marks, and those which have the same marks are congeners; and
 
 सूत्रत्वेनोक्तं विशदयितुमाह- **दिवि वै सोम आसीदथेह देवा** इत्यादिना । 'इह' भूलोके 'त एते माये' वस्तुतः अतथाभूते । सुपर्णीकद्र्वोस्तयोः किं वास्तवं रूपमिति तद्दर्शयति- **वागेव सुपर्णीयं कद्रूरि**ति । 'ताभ्याम्' 'तयोः समदं चक्रुः' परस्परं कलहमुदपादयन् ॥ २ ॥ 
 </details>
-
-<details><summary>Eggeling</summary>
-
-2. Now Soma was in heaven, and the gods were here on earth. The gods desired, 'Would that Soma might come to us; we might sacrifice with him, when come.' They produced those two illusions, Suparṇī and Kadrū [^egg_394]; Suparṇī, forsooth, was Vāc (speech) [^egg_395], and Kadrū was this (earth). They caused discord between them.
-
-[^egg_394]: 149:2 See III, 2, 4, 1 seq.; Oldenberg, Zeitsch. d. Deutsch. Morg. Ges. XXXVII, p. 67 seq.; Weber, Ind. Stud. VIII, p. 31.
-
-[^egg_395]: 149:3 In Taitt. S. VI, 1, 6; Kāṭḥ. XXIII, 10, suparṇī, 'the well-winged,' is identified with the sky.
 </details>
 
 
@@ -208,6 +220,8 @@ They have the same marks, and those which have the same marks are congeners; and
 
 ते᳓ ह +ऋतीय᳓माने +++(=स्पर्धमाने)+++ ऊचतुः॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
@@ -231,6 +245,7 @@ They have the same marks, and those which have the same marks are congeners; and
 - ऋतीय᳓माने (*SB-K*-1, Weber-पाठः, श्रीधरादि-पाठः)
 - ऊचतुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -239,6 +254,15 @@ They have the same marks, and those which have the same marks are congeners; and
 
 इ᳓ति।  
 त᳓थे᳓ति।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+3. They then disputed and said, 'Which of us shall spy furthest, shall win the other [^egg_396].'--'So be it!'
+
+[^egg_396]: 149:4 Lit. 'she shall win both of us,' i.e. each saying that the other would win herself.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -276,17 +300,18 @@ They have the same marks, and those which have the same marks are congeners; and
 
 **ते हर्त्तीयमाने** इति । 'ऋतीयमाने' परस्परं कलहायमाने । 'ऋतिः' सौत्रो धातुः (पा. सू. ३ । १ । २९) 'ऊचतुः' । कथम् ? 'नौ' आवयोर्मध्ये 'यतरा' 'दवीयः' अत्यन्तं दूरं 'परापश्यात्' पश्येत् । 'सा' दूरदर्शिनी । सुपर्णी दूरम् 'ईक्षस्व' 'इति' 'उवाच' ॥ ३ ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-3. They then disputed and said, 'Which of us shall spy furthest, shall win the other [^egg_396].'--'So be it!'
-
-[^egg_396]: 149:4 Lit. 'she shall win both of us,' i.e. each saying that the other would win herself.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ ह कद्रू᳓र् उवाच प᳓रेक्षस्वेति॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+Kadrū then said, 'Espy thou!'
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -314,10 +339,6 @@ They have the same marks, and those which have the same marks are congeners; and
 - ईक्षस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
 </details>
-
-<details><summary>Eggeling</summary>
-
-Kadrū then said, 'Espy thou!'
 </details>
 
 
@@ -330,6 +351,13 @@ Kadrū then said, 'Espy thou!'
 "[[अ᳓स्य|अस्य᳓]] सलिल᳓स्य पारे᳓ ऽश्वः श्वेत᳓+++(ः)+++ स्थाणौ᳓ सेवते।  
 त᳓म् अह᳓म् पश्यामी᳓"ति।  
 त᳓म् एव᳓ त्व᳓म् पश्यसी᳓ति।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+4. Suparṇī said, 'On yonder shore of this ocean there stands a white horse at a post, that I see; doest thou also see it?'
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -377,10 +405,6 @@ Kadrū then said, 'Espy thou!'
 
 **सा हे**ति । 'सा' दूरं पश्यन्ती 'सुपर्णी' 'उवाच' । किमिति ? उच्यते- 'अस्य सलिलस्य पारे अश्वः श्वेतः स्थाणौ सेवते, तमहं पश्यामि इति' । अस्यार्थं श्रुतिरेवाविष्करिष्यति । 'तमेव' मया दृष्टं श्वेताश्वमेव हे कद्रु ! 'त्वम्' अपि 'पश्यसि'- 'इति' नतु ततो ऽतिरिक्तम् । सा कद्रूः दूरं विलोक्य 'तं हि'- 'इति' 'उवाच' । तमश्वं खलु त्वं पश्यसीत्यर्थः । ततो ऽधिकमपि दृष्ट्वा कद्रूः पुनर्ब्रूते । किमिति उच्यते- 'तस्य वालो न्यषञ्जि, तममुं वातो धूनोति, तमहं पश्यामि इति' । 'वालः' पुच्छं 'न्यषञ्जि' स्थाणौ निषक्तमभूत्, 'तं' वालं 'वातः' वायुः 'धूनोति' कम्पयति ॥ ४ ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-4. Suparṇī said, 'On yonder shore of this ocean there stands a white horse at a post, that I see; doest thou also see it?'
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -389,6 +413,13 @@ Kadrū then said, 'Espy thou!'
 "त᳓स्य वा᳓लो न्यषञ्जि।  
 त᳓म् अमुं᳓ वा᳓तो धूनोति।  
 त᳓म् अह᳓म् पश्यामी᳓"ति॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+--'I verily do!' Then said Kadrū 'Its tail was just now hanging down; there, now the wind tosses it, that I see.'
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -428,10 +459,6 @@ Kadrū then said, 'Espy thou!'
 - पश्यामि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-7, *TB*-1, *TK*-1, *AV*-4, *SB-K*-7, *VS-M*-1)
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
 </details>
-
-<details><summary>Eggeling</summary>
-
---'I verily do!' Then said Kadrū 'Its tail was just now hanging down; there, now the wind tosses it, that I see.'
 </details>
 
 
@@ -449,6 +476,15 @@ Kadrū then said, 'Espy thou!'
 श्वेतो᳓ यू᳓प स्थाणुः᳓।  
 अ᳓थ य᳓त् कद्रू᳓र् उवा᳓च -  
 "त᳓स्य [[वालो᳓|वा᳓लो]] न्य᳓षञ्जि त᳓म् [[अमुं|अमुं᳓]] वा᳓तो धूनोति। त᳓मह᳓म् पश्यामी᳓"ति - +++(यूपवेष्टन)+++रशना᳓ [[हैव|हैव᳓]] सा᳓॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+5. Now when Suparṇī said, 'On yonder shore of this ocean,' the ocean, forsooth, is the altar, she thereby meant the altar; 'there stands a white horse at a post,' the white horse, forsooth, is Agni, and the post means the sacrificial stake. And when Kadrū said, 'Its tail was just now hanging down;
+
+there, now the wind tosses it, that I see;' this is nothing else than the rope.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -523,12 +559,6 @@ Kadrū then said, 'Espy thou!'
 
 सुपर्ण्यभिहितस्य अस्य सलिलस्येत्यादेस्तात्पर्यं श्रुतिरेवाह- **सा यत्सुपर्ण्युवाचे**ति । **अस्य सलिलस्ये**त्यादि । 'सलिलं' सागरादिसम्बद्धं यथा अनतिलङ्घ्यं भवति, एवं वेदिरपीति सलिलत्वेन निरूप्यते । अग्नेः शुक्लभास्वरत्वात् सर्वाशनत्वाच्च श्वेतरूपत्वम् । यूपस्य स्थाणुत्वं तु साक्षादेव । कद्र्वा यदुक्तं तस्य वाल इत्यादिकम्, तदभिप्रायं दर्शयति- **अथ यत् कद्रूरि**त्यादिना । **रशना हैव से**ति । वालवदतिदैर्घ्याद्युपवेष्टिता रशना वालमित्युच्यते ॥ ५ ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-5. Now when Suparṇī said, 'On yonder shore of this ocean,' the ocean, forsooth, is the altar, she thereby meant the altar; 'there stands a white horse at a post,' the white horse, forsooth, is Agni, and the post means the sacrificial stake. And when Kadrū said, 'Its tail was just now hanging down;
-
-there, now the wind tosses it, that I see;' this is nothing else than the rope.
 </details>
 
 
@@ -540,6 +570,13 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 सा᳓ ह सुपर्ण्य् उ᳙वाच॥  
 ए᳓हीद᳓म् प᳓ताव वे᳓दितुं -  
 "यतरा᳓ नौ ज᳓यती᳓"ति।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+6. Suparṇī then said, 'Come, let us now fly thither to know which of us is the winner.'
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -580,16 +617,19 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 
 **सा ह सुपर्ण्युवाचे**ति ।
 </details>
-
-<details><summary>Eggeling</summary>
-
-6. Suparṇī then said, 'Come, let us now fly thither to know which of us is the winner.'
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ ह कद्रू᳓र् उवाच -  
 "त्व᳓म् एव᳓ पत, त्वं᳓ वै᳓ न आख्यास्यसि य᳓तरा नौ ज᳓यती᳓"ति॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+Kadrū said, 'Fly thou thither; thou wilt tell us, which of us is the winner.'
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -631,10 +671,6 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 
 **सा ह कद्रूरि**त्यादि । सुपर्ण्या श्वेताश्वादेर्दर्शनार्थमाहूता कद्रूः । सुपर्णि ! स्वदृष्टस्य वालस्य सुसिद्धत्वात् 'त्वमेव' दृष्ट्वा ऽऽवयोः कस्या जय इति ब्रूहीत्यर्थः ॥ ६ ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-Kadrū said, 'Fly thou thither; thou wilt tell us, which of us is the winner.'
 </details>
 
 
@@ -644,6 +680,13 @@ Kadrū said, 'Fly thou thither; thou wilt tell us, which of us is the winner.'
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ ह सुपर्णी᳓ पपात॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+7. Suparṇī then flew thither; and it was even as Kadrū had said.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -675,10 +718,6 @@ Kadrū said, 'Fly thou thither; thou wilt tell us, which of us is the winner.'
 
 विहितस्याख्यानस्य प्रसिद्धत्वाविष्करणाय नाम करोति- **एतद्ध्याख्यान**मिति ।
 </details>
-
-<details><summary>Eggeling</summary>
-
-7. Suparṇī then flew thither; and it was even as Kadrū had said.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -688,6 +727,15 @@ Kadrū said, 'Fly thou thither; thou wilt tell us, which of us is the winner.'
 "त्व᳓म् अजैषी᳓३र् [[अहा३म्|अहा᳓३म्]]" इ᳓ति।  
 "त्व᳓म् +++(अजैषीः)+++" इ᳓ति।  
 होवाचैत᳓द् व्याख्या᳓नं सौ᳓पर्णीकाद्रवम् इ᳓ति॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+When she had returned, she (Kadrū) said to her, 'Hast thou won, or I?' --'Thou!' she replied. Such is the story called Suparṇī-Kādrava [^egg_397].'
+
+[^egg_397]: 150:1 'And because these two there disputed, therefore the story called "Sauparṇakādrava" is here told,' Kāṇva text. It is difficult to see how this statement came to be inserted here, unless it be because of a division in the text,--this paragraph being the nineteen hundredth in the Mādhyandina recension. This explanation would not, however, apply to the Kāṇva text.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -737,12 +785,6 @@ Kadrū said, 'Fly thou thither; thou wilt tell us, which of us is the winner.'
 
 'एतत्' **दिवि वै सोम आसी**दित्यादि **होवाचे**त्येतदन्तमित्यर्थः (तै. सं. ६ । १ । ६ । १) (ऐ. ब्रा. ३ । ३ । १ । २; ६ । ३ । ६) ॥ ७ ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-When she had returned, she (Kadrū) said to her, 'Hast thou won, or I?' --'Thou!' she replied. Such is the story called Suparṇī-Kādrava [^egg_397].'
-
-[^egg_397]: 150:1 'And because these two there disputed, therefore the story called "Sauparṇakādrava" is here told,' Kāṇva text. It is difficult to see how this statement came to be inserted here, unless it be because of a division in the text,--this paragraph being the nineteen hundredth in the Mādhyandina recension. This explanation would not, however, apply to the Kāṇva text.
 </details>
 
 
@@ -761,6 +803,15 @@ When she had returned, she (Kadrū) said to her, 'Hast thou won, or I?' --'Thou!
 +इ᳓ति।  
 तथे᳓ति [[सा|सा᳓]] छ᳓न्दांसि ससृजे।  
 सा᳓ गायत्री᳓ दिवः᳓ सो᳓ममा᳓हरत्॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+8. Then said Kadrū, 'Verily I have won thine own self; yonder is Soma in the heaven: fetch him hither for the gods, and thereby redeem thyself from the gods [^egg_398]!'--'So be it!' She brought forth the metres; and that Gāyatrī fetched Soma from heaven.
+
+[^egg_398]: 150:2 'Therewith redeem thee from death,' Kāṇva rec.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -822,12 +873,6 @@ When she had returned, she (Kadrū) said to her, 'Hast thou won, or I?' --'Thou!
 
 **सा ह कद्रूरुवाचे**ति । पराजितया सुपर्ण्या गायत्र्यादिच्छन्दांसि सृष्ट्वा गायत्र्या दिवि स्थितं सोममाहृत्य देवेभ्यः सकाशादात्मनिष्क्रयणं कृतमित्यर्थः **"सा ह कद्रूरुवाच आत्मानं वै त्वा ऽजैषम्"** इत्यादिनोक्तः॥ ८ ॥ 
 </details>
-
-<details><summary>Eggeling</summary>
-
-8. Then said Kadrū, 'Verily I have won thine own self; yonder is Soma in the heaven: fetch him hither for the gods, and thereby redeem thyself from the gods [^egg_398]!'--'So be it!' She brought forth the metres; and that Gāyatrī fetched Soma from heaven.
-
-[^egg_398]: 150:2 'Therewith redeem thee from death,' Kāṇva rec.
 </details>
 
 
@@ -837,6 +882,15 @@ When she had returned, she (Kadrū) said to her, 'Hast thou won, or I?' --'Thou!
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हिरण्म᳓य्योर् ह कुश्यो᳓र्+++(=आवरणयोर्)+++ अन्त᳙र् अ᳓वहित आस॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+9. He was enclosed between two golden cups [^egg_399];
+
+[^egg_399]: 150:3 Kuśī? = kośī, 'pod' (or case). Sāyaṇa explains it by 'āyudha' (? weapon, or vessel. sheath).
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -863,18 +917,19 @@ When she had returned, she (Kadrū) said to her, 'Hast thou won, or I?' --'Thou!
 - अ᳓व-हितः (*TS*-0/1, *RV*-1/2, *AV*-0/1, *SB-K*-2)
 - आस (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-15, *TB*-1, *TK*-1, *AV*-3)
 </details>
-
-<details><summary>Eggeling</summary>
-
-9. He was enclosed between two golden cups [^egg_399];
-
-[^egg_399]: 150:3 Kuśī? = kośī, 'pod' (or case). Sāyaṇa explains it by 'āyudha' (? weapon, or vessel. sheath).
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ ह स्म क्षुर᳓-पवी +++(आवरणे)+++  
 निमेषं᳓ निमेषम् अभिसं᳓धत्तः।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+sharp-edged they closed together at every twinkling of the eye; and these two, forsooth, were Consecration and Penance.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -904,10 +959,6 @@ When she had returned, she (Kadrū) said to her, 'Hast thou won, or I?' --'Thou!
 - स᳓म् (*MW*, *RV*-608, *AV*-562, *VS-M*-187, *TB*-367, *TS*-547, *TK*-14)
 - धत्तः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-9, *TB*-1)
 </details>
-
-<details><summary>Eggeling</summary>
-
-sharp-edged they closed together at every twinkling of the eye; and these two, forsooth, were Consecration and Penance.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -915,6 +966,13 @@ sharp-edged they closed together at every twinkling of the eye; and these two, f
 दीक्षा-तप᳓सौ [[हैव|हैव᳓]] ते᳓ आसतुः।+++(5)+++  
 त᳓म् एते᳓ गन्धर्वाः᳓ सोम-रक्षा᳓ जुगुपुः।  
 इमे᳓ धि᳓ष्ण्या, इमा᳓ हो᳓त्राः॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+Those Gandharva Soma-wardens watched over him; they are these hearths, these fire-priests.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -960,10 +1018,6 @@ sharp-edged they closed together at every twinkling of the eye; and these two, f
 
 **तमेते गन्धर्वा** इति । 'सोमरक्षाः' सोमरक्षकाः 'एते गन्धर्वाः' 'तं' सोमं 'जुगुपुः' । ते के ? 'ये इमे' सदसि वर्त्तमानाः 'धिष्ण्याः', 'इमा होत्राः' इमे होत्रकाः, होतृवर्जमैत्रावरुणादयः ॥ ९ ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-Those Gandharva Soma-wardens watched over him; they are these hearths, these fire-priests.
 </details>
 
 
@@ -976,6 +1030,13 @@ Those Gandharva Soma-wardens watched over him; they are these hearths, these fir
 तां᳓ देवे᳓भ्यः प्र᳓ददौ -  
 सा᳓ [[दीक्षा|दीक्षा᳓]]।  
 त᳓या देवा᳓ अदीक्षन्त॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+10. She tore off one of the two cups, and gave it to the gods,--this was Consecration: therewith the gods consecrated themselves,
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1017,10 +1078,6 @@ Those Gandharva Soma-wardens watched over him; they are these hearths, these fir
 
 **तयोरन्यतरां कुशीमाचिच्छेदे**ति । गायत्री 'तां' छित्त्वा च 'देवेभ्यः' 'प्रददौ' । 'तया देवा अदीक्षन्त' ॥ १० ॥ 
 </details>
-
-<details><summary>Eggeling</summary>
-
-10. She tore off one of the two cups, and gave it to the gods,--this was Consecration: therewith the gods consecrated themselves,
 </details>
 
 
@@ -1031,6 +1088,13 @@ Those Gandharva Soma-wardens watched over him; they are these hearths, these fir
 
 अ᳓थ द्विती᳓यां कुशी᳓म् आ᳓चिच्छेद॥  
 तां᳓ देवे᳓भ्यः प्र᳓ददौ ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+11. She then tore off the second cup, and gave it to the gods,--this was Penance: therewith the gods underwent penance, to wit the Upasads, for the Upasads are penance.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1069,10 +1133,6 @@ Those Gandharva Soma-wardens watched over him; they are these hearths, these fir
 
 गायत्र्या छिन्ना द्वितीया कुशी देवेभ्यो दत्ता; सा तपोनामोपसद इत्याह- **तपो ह्युपसद** इति ॥ ११ ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-11. She then tore off the second cup, and gave it to the gods,--this was Penance: therewith the gods underwent penance, to wit the Upasads, for the Upasads are penance.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1080,6 +1140,8 @@ Those Gandharva Soma-wardens watched over him; they are these hearths, these fir
 त᳓त् त᳓पः।  
 त᳓या देवा᳓स् त᳓प उ᳓पायन्न् उपस᳓दस्, त᳓पो ह्य् उपस᳓दः॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
@@ -1109,6 +1171,7 @@ Those Gandharva Soma-wardens watched over him; they are these hearths, these fir
 - हि᳓ (*RV*-662, *TS*-456, *AV*-155, *TB*-212, *TK*-8, *VS-M*-48)
 - उप-स᳓दः (*TS*-9/14, *RV*-0/1, *TB*-4/11, *AV*-4, *SB-K*-24/40, *VS-M*-0/2)
 </details>
+</details>
 
 
 ## १२
@@ -1118,6 +1181,15 @@ Those Gandharva Soma-wardens watched over him; they are these hearths, these fir
 
 खदिरे᳓ण ह सो᳓मम् आ᳓चखाद+++(←खिद्)+++॥  
 त᳓स्मात् खदिरो᳓ य᳓द् एनेना᳓खिदत् ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+12. She took possession (ā-cakhāda) [^egg_400] of Soma by means of (a stick of) khadira wood (Acacia Catechu), whence (the name) Khadira;
+
+[^egg_400]: 151:1 Sāyaṇa takes it in the sense of 'she swallowed (khād),' but I should feel inclined to refer it to the same verb 'khid' (? khad) as 'ākhidat' coming immediately after it. Could Pāṇini's Sūtra VI, 1, 52 refer to this passage? [Kāś. V., Benares edition cikhāda; MS. Indian Office cakhāda.] The Kāṇva text has the same reading: ācakhāda-ākhidat.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1154,18 +1226,19 @@ Those Gandharva Soma-wardens watched over him; they are these hearths, these fir
 
 **खदिरेण हे**ति । सोमाहरणसमये खदिरस्यातिसारत्वात् तं साधनं कृत्वा सोमं भक्षितवती, अतः खादनसाधनत्वात् खदिर इति नाम सम्पन्नम् । अतः खदिरस्य सोमाहरणोपयोगात् सोमयागे यूपः स्फ्यश्च खादिरौ कर्त्तव्यौ । 'अच्छावाकस्य' 'गोपनायाम्' । होत्रकाणामेव सोमरक्षकगन्धर्वरूपत्वादच्छावाकाख्यो होत्रको यदा सोमरक्षकेषु मध्ये रक्षितवान्, तदा गायत्री 'जहार'; अतः 'अच्छावाकः' 'अहीयत' हीनो निकृष्टो ऽभूत् । अत एवेतरहोत्रकवत् प्रथमत एव सदःप्रवेशमपि (न) समालभत ॥ १२ ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-12. She took possession (ā-cakhāda) [^egg_400] of Soma by means of (a stick of) khadira wood (Acacia Catechu), whence (the name) Khadira;
-
-[^egg_400]: 151:1 Sāyaṇa takes it in the sense of 'she swallowed (khād),' but I should feel inclined to refer it to the same verb 'khid' (? khad) as 'ākhidat' coming immediately after it. Could Pāṇini's Sūtra VI, 1, 52 refer to this passage? [Kāś. V., Benares edition cikhāda; MS. Indian Office cakhāda.] The Kāṇva text has the same reading: ācakhāda-ākhidat.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् खादिरो᳓ यू᳓पो भवति,  
 खादिर᳓ [[स्फ्यो᳓|स्फ्यो᳙]]।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+and because she thereby took possession of him, therefore the sacrificial stake and the wooden sword (sphya) are of khadira wood.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1192,15 +1265,18 @@ Those Gandharva Soma-wardens watched over him; they are these hearths, these fir
 - खादिर᳓ (*TS*-1, *TB*-2, *SB-K*-5, *MW* ŚBr., *Macdonell*)
 - स्फ्यः᳙ (*TS*-12, *TB*-4, *SB-K*-6, Weber-पाठः, श्रीधरादि-पाठः)
 </details>
-
-<details><summary>Eggeling</summary>
-
-and because she thereby took possession of him, therefore the sacrificial stake and the wooden sword (sphya) are of khadira wood.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अच्छावाक᳓स्य +++(होतृसाहायकतुल्यस्य)+++ हैनं गोपना᳓यां जहार +++(सा गायत्री)+++ - सो᳓ ऽच्छावाको᳓ ऽहीयत +++(सोमपानात्)+++॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+She then carried him off while he was under the charge of the Achāvāka, wherefore this Achāvāka priest was excluded (from drinking Soma).
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1229,10 +1305,6 @@ and because she thereby took possession of him, therefore the sacrificial stake 
 - अच्छावाकः᳓ (*TS*-1/2, *TB*-0/1, *TK*-1, *SB-K*-6/16)
 - अहीयत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
-
-<details><summary>Eggeling</summary>
-
-She then carried him off while he was under the charge of the Achāvāka, wherefore this Achāvāka priest was excluded (from drinking Soma).
 </details>
 
 
@@ -1243,6 +1315,13 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 
 त᳓म् इन्द्राग्नी᳓ अनुस᳓मतनुताम् प्रजा᳓नाम् प्र᳓जात्यै।  
 त᳓स्माद् ऐन्द्राग्नो᳓ ऽछावाकः᳓॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+13. Indra and Agni preserved him for the production of creatures, whence the Achāvāka priest belongs to Indra and Agni.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1282,10 +1361,6 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 
 [^१_२१०]: 'अच्छावाकहोमकाले' इति क्व. पा. । 
 </details>
-
-<details><summary>Eggeling</summary>
-
-13. Indra and Agni preserved him for the production of creatures, whence the Achāvāka priest belongs to Indra and Agni.
 </details>
 
 
@@ -1296,6 +1371,13 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 
 त᳓स्माद् दीक्षिता᳓ रा᳓जानं +++(सोमं)+++ गोपायन्ति॥  
 ने᳓न् नो ऽपह᳓रान् इ᳓ति।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+14. Therefore the consecrated keep charge of the king (Soma), 'lest (the Gandharvas) should carry him off.'
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1332,16 +1414,19 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 
 **तस्माद्दीक्षिता राजानमि**त्यादि । औपोद्धातिकं वाक्यं स्पष्टम् । 'अपहरान्' अपहरेयुः ॥ १४ ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-14. Therefore the consecrated keep charge of the king (Soma), 'lest (the Gandharvas) should carry him off.'
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् त᳓त्र सु᳓गुप्तं चिकीर्षेद् -  
 य᳓स्य ह गोपना᳓याम् अपह᳓रन्ति ही᳓यते ह॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+Let him therefore guard him diligently, for verily in whosesoever charge they carry him off, he is excluded (from the Soma).
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1373,10 +1458,6 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - ही᳓यते (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *Lanman*, *TS*-4)
 - ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116)
 </details>
-
-<details><summary>Eggeling</summary>
-
-Let him therefore guard him diligently, for verily in whosesoever charge they carry him off, he is excluded (from the Soma).
 </details>
 
 
@@ -1387,6 +1468,13 @@ Let him therefore guard him diligently, for verily in whosesoever charge they ca
 
 त᳓स्माद् ब्रह्मचारि᳓ण [[आचा᳓र्यं|आचार्यं᳙]] गोपायन्ति, गृहा᳓न् पशू᳓न्।  
 ने᳓न् नो ऽपह᳓रान् इ᳓ति।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+15. Wherefore the students guard their teacher, his house, and cattle, lest he should be taken from them.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1425,16 +1513,19 @@ Let him therefore guard him diligently, for verily in whosesoever charge they ca
 
 [व्याख्यानं चतुर्दशे]
 </details>
-
-<details><summary>Eggeling</summary>
-
-15. Wherefore the students guard their teacher, his house, and cattle, lest he should be taken from them.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् त᳓त्र सु᳓गुप्तं चिकीर्षेत्।  
 य᳓स्य ह गोपना᳓याम् अपह᳓रन्ति - ही᳓यते ह ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+Let him therefore guard him (Soma) diligently in that place, for verily in whosesoever charge they carry him off, he is excluded therefrom.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1466,10 +1557,6 @@ Let him therefore guard him diligently, for verily in whosesoever charge they ca
 - ही᳓यते (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *Lanman*, *TS*-4)
 - ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116)
 </details>
-
-<details><summary>Eggeling</summary>
-
-Let him therefore guard him (Soma) diligently in that place, for verily in whosesoever charge they carry him off, he is excluded therefrom.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1478,6 +1565,13 @@ Let him therefore guard him (Soma) diligently in that place, for verily in whose
 
 एते᳓न सुपर्णी᳓ देवे᳓भ्य आत्मा᳓नं नि᳓रक्रीणीत।  
 त᳓स्माद् आहुः पु᳓ण्य-लोक ईजान᳓+++(=यजमानः)+++ इ᳓ति॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+By means of him Suparṇī redeemed herself from the gods; wherefore they say, 'He who has sacrificed shares in the world of bliss.'
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1510,10 +1604,6 @@ Let him therefore guard him (Soma) diligently in that place, for verily in whose
 - ईजानः᳓ (*TS*-5/15, *RV*-3/9, *TB*-3/4, *AV*-1/7, *SB-K*-13/25)
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
 </details>
-
-<details><summary>Eggeling</summary>
-
-By means of him Suparṇī redeemed herself from the gods; wherefore they say, 'He who has sacrificed shares in the world of bliss.'
 </details>
 
 
@@ -1523,6 +1613,13 @@ By means of him Suparṇī redeemed herself from the gods; wherefore they say, '
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋणं᳓ ह [[वै|वै᳓]] पु᳓रुषो जा᳓यमान एव᳓ मृत्यो᳓र् आत्म᳓ना जायते।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+16. Verily, even in being born, man, by his own self, is born as a debt (owing) to death.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1559,15 +1656,18 @@ By means of him Suparṇī redeemed herself from the gods; wherefore they say, '
 
 सोमाहरणप्रसङ्गात् सुपर्णीदृष्टान्तमुखेन मृत्युभयपरिहाराय सोमयागस्यावश्यकर्त्तव्यतामाह- **ऋणं ह वै पुरुषो जायमान एव मृत्योरात्मना जायत** इत्यादिना । 'जायमान एव मृत्योः' ऋणभावे जननमेवोपाधिरित्यर्थः । इदमृणं प्रातिभाव्यवदन्यत आयातं न भवति, किन्तु स्वत एवायातमित्येवमर्थमाह- 'आत्मना'- इति ॥ १६ ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-16. Verily, even in being born, man, by his own self, is born as a debt (owing) to death.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [[स|स᳓]] [[यद्|य᳓द्]] य᳓जते, य᳓थैव᳓ त᳓त् सुपर्णी᳓ देवे᳓भ्य आत्मा᳓नं निर᳓क्रीणीतैव᳓म् एवै᳓ष᳓ एत᳓न् मृत्यो᳓र् आत्मा᳓नं नि᳓ष्क्रीणीते॥+++(5)+++
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+And in that he sacrifices, thereby he redeems himself from death, even as Suparṇī then redeemed herself from the gods.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1607,10 +1707,6 @@ By means of him Suparṇī redeemed herself from the gods; wherefore they say, '
 - निः᳓ (*AV*-144, *RV*-113, *TB*-152, *TK*-12)
 - क्रीणीते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *TB*-3, *AV*-1)
 </details>
-
-<details><summary>Eggeling</summary>
-
-And in that he sacrifices, thereby he redeems himself from death, even as Suparṇī then redeemed herself from the gods.
 </details>
 
 
@@ -1620,6 +1716,13 @@ And in that he sacrifices, thereby he redeems himself from death, even as Supar�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓न देवा᳓ अयजन्त ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+17. The gods worshipped with him.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1648,15 +1751,18 @@ And in that he sacrifices, thereby he redeems himself from death, even as Supar�
 
 **तेन देवा अयजन्ते**त्यादि । 'तेन' गायत्र्याहृतेन ।
 </details>
-
-<details><summary>Eggeling</summary>
-
-17. The gods worshipped with him.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓मेते᳓ गन्धर्वाः᳓ सोमरक्षा᳓ अन्वा᳓जग्मुस् ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+Those Gandharva Soma-wardens came after him;
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1684,15 +1790,18 @@ And in that he sacrifices, thereby he redeems himself from death, even as Supar�
 - आ᳓ (*RV*-2810, *TS*-1105, *AV*-1040, *TB*-641, *TK*-36)
 - जग्मुस् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-1)
 </details>
-
-<details><summary>Eggeling</summary>
-
-Those Gandharva Soma-wardens came after him;
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳙ ऽन्वाग᳓त्याब्रुवन्न᳓नु नो यज्ञ᳓ आ᳓भजत मा᳓ नो यज्ञा᳓दन्त᳓र्गाता᳓स्त्वेव᳓ नो᳓ ऽपि यज्ञे᳓ भाग᳓ इ᳓ति॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+and having come up they said, 'Do ye let us share in the sacrifice, exclude us not from the sacrifice; let there be for us also a share in the sacrifice!'
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1740,10 +1849,6 @@ Those Gandharva Soma-wardens came after him;
 
 उक्तवैपरीत्यप्रतिषेधः- **मा नो यज्ञादि**ति । 'अन्तर्गात' अन्तरितान् मा कार्ष्ट । "इणो गा लुङि"- (पा. सू. २ । ४ । ४५) इति गादेशे, "गातिस्था"- (पा. सू. २ । ४ । ७७) इति सिचो लुक् ॥ १७ ॥ १८ ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-and having come up they said, 'Do ye let us share in the sacrifice, exclude us not from the sacrifice; let there be for us also a share in the sacrifice!'
 </details>
 
 
@@ -1754,6 +1859,13 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 
 ते᳓ होचुः ।  
 किं᳓ नस्त᳓तः स्यादि᳓ति ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+18. They said, 'What will there be for us, then?'
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1789,15 +1901,18 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 
 [व्याख्यानं सप्तदशे]
 </details>
-
-<details><summary>Eggeling</summary>
-
-18. They said, 'What will there be for us, then?'
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓थैवा᳙स्या᳓मु᳓त्र गोप्ता᳓रो᳓ ऽभूमैव᳓मेवा᳙स्या᳓पीह᳓ गोप्ता᳓रो भविष्याम इ᳓ति॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+--'Even as in yonder world we have been his keepers, so also will we be his keepers here on earth!'
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1832,10 +1947,6 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 - भविष्यामः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
 </details>
-
-<details><summary>Eggeling</summary>
-
---'Even as in yonder world we have been his keepers, so also will we be his keepers here on earth!'
 </details>
 
 
@@ -1846,6 +1957,17 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 
 त᳓थे᳓ति देवा᳓ अब्रुवन् ।  
 सोमक्र᳓यणा व इ᳓ति ता᳓नेभ्य एत᳓त्सोमक्र᳓यणान᳓नुदिशत्य᳓थैनानब्रुवंस्तृतीयसवने᳓ वो घृत्या᳓हुतिः प्रा᳓प्स्यति न᳓ सौम्या᳓पहृतो हि᳓ युष्म᳓त्सोमपीथ᳓स्ते᳓न सोमाहुतिं᳓ ना᳙र्हथे᳓ति सै᳙नानेषा᳓ तृतीयसवन᳓ एव᳓ घृत्या᳓हुतिः प्रा᳓प्नोति न᳓ सौम्या᳓ य᳓छालाकै᳓र्धि᳓ष्ण्यान्व्याघार᳓यति॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+19. The gods spake, 'So be it!' By saying, '(Here are) your Soma-wages . . .' he assigns to them the price of the Soma [^egg_401]. They then said unto them, 'At the third pressing an offering of ghee shall fall to your share, but not one of Soma, for the Soma-draught has been taken from you, wherefore ye are not worthy of a Soma-offering!' And accordingly, when he pours ghee on the hearths by means of fagots [^egg_402], at the evening libation, that same offering of ghee falls to their share, but not one of Soma.
+
+[^egg_401]: 152:1 See III, 3, 3, 11.
+
+[^egg_402]: 152:2 For these oblations poured upon burning bundles of chips and grass held over the several hearth-fires, see IV, 4, 2, 7.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1923,14 +2045,6 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 
 **तथेती**ति । **सोमक्रयणा व इती**ति । सोमः क्रीयते यैर्गन्धर्वादिभिः, ते 'सोमक्रयणाः', 'वः' युष्माकं 'तान्' भागान् एतस्मिन् सोमक्रयकाले 'एभ्यः' गन्धर्वेभ्यः, धिष्ण्यरूपेणावस्थितेभ्यः 'अनुदिशत' अनुदिशेत्; एते युष्मभ्यं भागा इति ब्रूयात् । घृतेभवा 'घृत्या' घृतसाध्या, 'सा' 'तृतीयसवने' युष्मान् 'प्राप्स्यति', 'न सोम्या'; 'अपहृतो हि युष्मत्सोमपीथः' इति । पातव्यः सोमः 'सोमपीथः' सोमस्यास्मदर्थमेवापहृतत्वादित्यर्थः । **यच्छालाकैर्धिष्ण्यान् व्याघारयती**ति । 'यद्' यया आहुत्या 'शालाकैः' तृणसमूहैः विहृतान् 'धिष्ण्यान्' घृतेन 'व्याघारयति' सैषा घृतेति ॥ १९ ॥ 
 </details>
-
-<details><summary>Eggeling</summary>
-
-19. The gods spake, 'So be it!' By saying, '(Here are) your Soma-wages . . .' he assigns to them the price of the Soma [^egg_401]. They then said unto them, 'At the third pressing an offering of ghee shall fall to your share, but not one of Soma, for the Soma-draught has been taken from you, wherefore ye are not worthy of a Soma-offering!' And accordingly, when he pours ghee on the hearths by means of fagots [^egg_402], at the evening libation, that same offering of ghee falls to their share, but not one of Soma.
-
-[^egg_401]: 152:1 See III, 3, 3, 11.
-
-[^egg_402]: 152:2 For these oblations poured upon burning bundles of chips and grass held over the several hearth-fires, see IV, 4, 2, 7.
 </details>
 
 
@@ -1941,6 +2055,13 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 
 अ᳓थ य᳓दग्नौ᳓ होष्य᳓न्ति ।  
 त᳓द्वो विष्य᳓ती᳓ति ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+20. 'And what they will offer in the fire that will satiate you;' hence that which they offer in the fire satiates them.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1977,16 +2098,14 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 
 **अथ यदग्नौ होष्यन्ती**ति । 'अथ' प्रदीपनानन्तरम्, 'अग्नौ' प्रदीप्ते, अग्निष्वित्यर्थः । 'होष्यन्ति', 'तद्' आज्यं 'वः' युष्मान् 'अविष्यति' तर्पयिष्यति 'इति' देववाक्यम् ।
 </details>
-
-<details><summary>Eggeling</summary>
-
-20. 'And what they will offer in the fire that will satiate you;' hence that which they offer in the fire satiates them.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ य᳓दग्नौ᳓ जु᳓ह्वति त᳓देनानवत्य᳓थ य᳓द्वः सो᳓मम् बि᳓भ्रत उप᳓र्युपरि चरिष्य᳓न्ति त᳓द्वो विष्य᳓ती᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
@@ -2032,11 +2151,14 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 
 तर्हि सोमाहुतिः कथं लभ्यत इति तत्राह- **अथ यद् वः सोमं बिभ्रत उपर्युपरि चरिष्यन्ति, तद् वो ऽविष्यती**ति । स्पष्टमन्यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ य᳓देनान्त्सो᳓मम् बि᳓भ्रत उप᳓र्युपरि च᳓रन्ति त᳓देनानवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
@@ -2066,11 +2188,14 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 - एनान् (अन्वादेशे अनुदात्तम्, पा॰ २.४.३४, *AV*-38, *TS*-33, *RV*-8, *TB*-33, *TK*-1)
 - अवति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-2, *TB*-1, *AV*-2)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मादध्वर्युः᳓ सम᳓या धि᳓ष्ण्यान्ना᳓तीयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
@@ -2102,10 +2227,24 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 
 सोमधारकस्याध्वर्योर्धिष्ण्यातिक्रमं प्रसक्तं निषेधति- **तस्मादध्वर्युः समया धिष्ण्यान्नातीयादि**ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अध्वर्यु᳓र्हि᳓ सो᳓मम् बिभ᳓र्ति त᳓मेते व्या᳓त्तेन प्र᳓त्यासते ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+'And when they will move about, holding the Soma over each [^egg_403], that will satiate you;' hence when they move about, holding the Soma over each (hearth), that satiates them.
+
+[^egg_403]: 152:3 Yad vā uparyupari somam bibhrataḥ saṁcarishyanti, Kāṇva rec. (? holding the Soma close above the dhishṇyas). This passage  apparently refers to the Camasa-Adhvaryus or cup-bearers, who at the time of the Savanas hold up their cups filled with Soma, which, after libations have been made of it on the fire, is drunk by the priests.
+
+ Wherefore let not the Adhvaryu pass between [^egg_404] the hearths, for the Adhvaryu carries the Soma, and they sit waiting for him (Soma) with open mouths, and he would enter into their open mouths; and either Agni would burn him, or else that god who rules over beasts (Rudra) would seek after him; hence whenever the Adhvaryu should have business in the hall, let him pass north of the Āgnīdhra shed.
+
+[^egg_404]: 153:1 Samayā; the Kāṇva text has 'pratyaṅ (in going to the back)' instead.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -2140,22 +2279,14 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 
 **तमेते व्यात्तेन प्रत्यासत** इत्यादि । 'तम्' अध्वर्युम् 'एते' सोमरक्षकाः धिष्ण्याग्नयः 'व्यात्तेन' विवृतेनास्येनोपलक्षिताः सन्तः, प्रतीक्ष्य निवसन्ति । 'सः' अपि धिष्ण्यानतिक्रामन् 'एतेषां' 'व्यात्तं' विवृतं मुखं प्रविशेत् ।
 </details>
-
-<details><summary>Eggeling</summary>
-
-'And when they will move about, holding the Soma over each [^egg_403], that will satiate you;' hence when they move about, holding the Soma over each (hearth), that satiates them.
-
-[^egg_403]: 152:3 Yad vā uparyupari somam bibhrataḥ saṁcarishyanti, Kāṇva rec. (? holding the Soma close above the dhishṇyas). This passage  apparently refers to the Camasa-Adhvaryus or cup-bearers, who at the time of the Savanas hold up their cups filled with Soma, which, after libations have been made of it on the fire, is drunk by the priests.
-
- Wherefore let not the Adhvaryu pass between [^egg_404] the hearths, for the Adhvaryu carries the Soma, and they sit waiting for him (Soma) with open mouths, and he would enter into their open mouths; and either Agni would burn him, or else that god who rules over beasts (Rudra) would seek after him; hence whenever the Adhvaryu should have business in the hall, let him pass north of the Āgnīdhra shed.
-
-[^egg_404]: 153:1 Samayā; the Kāṇva text has 'pratyaṅ (in going to the back)' instead.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एते᳓षां व्या᳓त्तमा᳓पद्येत त᳓मग्नि᳓र्वाभिद᳓हेद्यो᳓ वायं᳓ देवः᳓ पशूना᳓मी᳓ष्टे स᳓ वा हैनमभि᳓मन्येत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
@@ -2204,11 +2335,14 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 
 **स वा हैनमभि मन्येते**ति । अभिमानो हिंसेच्छा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद्य᳓द्यध्वर्योः᳓ शा᳓लायाम᳓र्थः स्या᳓दु᳓त्तरेणैवा᳙ग्नीध्री᳓यं सं᳓चरेत्॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
@@ -2244,6 +2378,7 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 
 तर्हि सञ्चारे ऽपेक्षिते क उपाय इति तं दर्शयति- **तस्माद् यद्यध्वर्योः शालायामि**ति । 'यदि' 'अर्थः स्यात् शालायां' प्राग्वंशे प्रयोजनं भवेत् ॥ २० ॥
 </details>
+</details>
 
 
 ## २१
@@ -2253,6 +2388,13 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 
 ते᳓ वा᳓ एते᳓ ।  
 सो᳓मस्यैव᳓ गु᳓प्त्यै न्यु᳙प्यन्त आहवनी᳓यः पुर᳓स्तान्मार्जाली᳓यो दक्षिणत᳓ आग्नीध्री᳓य उत्तरतो᳓ ऽथ ये᳓ स᳓दसि ते᳓ पश्चा᳓त्॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+21. Now it is for the protection of Soma that those (hearths) are thrown up, to wit the Āhavanīya in front (on the high altar), the Mārjālīya in the south, and the Āgnīdhrīya in the north; and those that are in the Sadas (protect him) from behind.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -2299,10 +2441,6 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 
 धिष्ण्यानां सोमरक्षकत्वमभिधातुं सर्वेषां तद्रक्षकत्वमाह- **ते वा एते सोमस्यैवे**ति ॥ २१ ॥ 
 </details>
-
-<details><summary>Eggeling</summary>
-
-21. Now it is for the protection of Soma that those (hearths) are thrown up, to wit the Āhavanīya in front (on the high altar), the Mārjālīya in the south, and the Āgnīdhrīya in the north; and those that are in the Sadas (protect him) from behind.
 </details>
 
 
@@ -2313,6 +2451,17 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 
 ते᳓षां वा᳓ अर्धा᳓नुपकिर᳓न्ति ।  
 अर्धा᳓न᳓नुदिशन्ति ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+22. They are in part raised [^egg_405], in part they are assigned [^egg_406].
+
+[^egg_405]: 153:2 That is, bestrewed with gravel.
+
+[^egg_406]: 153:3 When the dhishṇyas have been completed, the Adhvaryu, standing east of the front door of the Sadas, has to point at the Āhavanīya, the Bahishpavamāna-place, the pit whence the earth for the hearths and high altar was taken, the slaughtering place, the Udumbara post, the Brahman's seat, the (old Āhavanīya at the) hall-door, the old Gārhapatya, and the Utkara (heap of rubbish) one by one with the texts, Vāj. S. V, 32, 2, &c. Kāty. VIII, 6, 23, 24.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -2348,19 +2497,18 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 
 सर्वेषां सोमरक्षकत्वे समाने सदोगतानां धिष्ण्यानामिव कथमितरेषामनुदेशनं नास्तीत्यत आह- **तेषां वा अर्द्धानुपकिरन्त्यर्द्धाननुदिशन्ती**त्यादिना । अनुदेशो नाम विद्यमानपदार्थ एवं भवतीति निर्देशः । अत एवाहवनीयादौ तत्तद्गन्धर्वात्मना "सम्राडसि कृशानुः"- (वा. सं. ५ । ३२ । ८) इत्याद्यनुदेशः क्रियते । अर्द्धा धिष्ण्याः कर्त्तव्याः, केचन अनुदेश्या इति विधिरुन्नीयते ।
 </details>
-
-<details><summary>Eggeling</summary>
-
-22. They are in part raised [^egg_405], in part they are assigned [^egg_406].
-
-[^egg_405]: 153:2 That is, bestrewed with gravel.
-
-[^egg_406]: 153:3 When the dhishṇyas have been completed, the Adhvaryu, standing east of the front door of the Sadas, has to point at the Āhavanīya, the Bahishpavamāna-place, the pit whence the earth for the hearths and high altar was taken, the slaughtering place, the Udumbara post, the Brahman's seat, the (old Āhavanīya at the) hall-door, the old Gārhapatya, and the Utkara (heap of rubbish) one by one with the texts, Vāj. S. V, 32, 2, &c. Kāty. VIII, 6, 23, 24.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓ उ हैवै᳙त᳓द्दध्रिरे ऽर्धा᳓न्न उपकिर᳓न्त्वर्धा᳓न᳓नुदिशन्तु ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+And, in truth, they themselves insisted thereon, saying, 'They shall in part raise us, and in part they shall assign us;
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -2394,15 +2542,18 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 - अ᳓नु (*RV*-475, *TS*-471, *AV*-299, *TB*-221, *TK*-67, *VS-M*-115)
 - दिशन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
-
-<details><summary>Eggeling</summary>
-
-And, in truth, they themselves insisted thereon, saying, 'They shall in part raise us, and in part they shall assign us;
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓था य᳓स्माल्लोका᳓दा᳓गताः स्मो᳓ दिव᳓स्त᳓था तं᳓ लोक᳓म् प्रतिप्र᳓ज्ञास्यामस्त᳓था न᳓ जिह्मा᳓ एष्याम इ᳓ति॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+thus we shall know again that heavenly world from which we have come, thus we shall not go astray.'
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -2447,10 +2598,6 @@ And, in truth, they themselves insisted thereon, saying, 'They shall in part rai
 
 द्वैरूप्ये कारणमाह- **तथा यस्मादि**ति । 'तथा' सति, धिष्ण्यनिवापाभावे सति यल्लोकं पूर्वमवस्थितं द्युलोकं 'प्रति प्रज्ञास्यामः' जानीम इति, 'तथा न जिह्माः एष्याम इतीति' । द्युलोकं सर्वथा परित्यज्य भूमौ कृतनिवासानां पुनर्द्युगमने सति जिह्मता स्यात् । सर्वेषां केवलमनुदेशने भूलोके प्रत्यक्षता न स्यात् । अत उभयार्थमुभयथाकरणम् ॥ २२ ॥ २३ ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-thus we shall know again that heavenly world from which we have come, thus we shall not go astray.'
 </details>
 
 
@@ -2461,6 +2608,15 @@ thus we shall know again that heavenly world from which we have come, thus we sh
 
 स᳓ या᳓नुपकिर᳓न्ति ।  
 ते᳓नास्मिं᳓लोके᳓ प्रत्य᳓क्षम् भवन्त्य᳓थ या᳓ननुदिश᳓न्ति ते᳓नामु᳓ष्मिंलोके᳓ प्रत्य᳓क्षम् भवन्ति॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+23. And whichever of them are raised they are
+
+thereby visibly in this world; but whichever of them are assigned they are thereby visibly in yonder world.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -2506,12 +2662,6 @@ thus we shall know again that heavenly world from which we have come, thus we sh
 
 [व्याख्यानं द्वाविंशतितमे]
 </details>
-
-<details><summary>Eggeling</summary>
-
-23. And whichever of them are raised they are
-
-thereby visibly in this world; but whichever of them are assigned they are thereby visibly in yonder world.
 </details>
 
 
@@ -2521,6 +2671,13 @@ thereby visibly in this world; but whichever of them are assigned they are there
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ वै᳓ द्वि᳓नामानो भवन्ति ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+24. They have two names;
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -2545,16 +2702,14 @@ thereby visibly in this world; but whichever of them are assigned they are there
 - द्वि᳓-नामानः (*SB-K*-2/3, पूर्वपदप्रकृतिस्वरः पा॰ ६.२.१/६.२.२)
 - भवन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-111, *AV*-10, *RV*-9, *TB*-75, *TK*-1)
 </details>
-
-<details><summary>Eggeling</summary>
-
-24. They have two names;
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓ उ हैवै᳙त᳓द्दध्रिरे न᳓ वा᳓ एभि᳓र्ना᳓मभिररात्स्म ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
@@ -2592,10 +2747,18 @@ thereby visibly in this world; but whichever of them are assigned they are there
 
 पूर्वेषां नाम्नामपरितोषे कारणमाह- **न वा एभिर्नामभिररात्स्मे**ति । 'न अरात्स्म' समृद्धा न भवामः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓षां नः सो᳓ममपा᳓हार्षुर्ह᳓न्ति द्विती᳓यानि ना᳓मानि कर᳓वामहा इ᳓ति ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+for, in truth, they themselves insisted thereon, saying, 'We have not prospered with these names, since Soma has been taken away from us; well, then, let us take each a second name!' They took each a second name, and therewith prospered, inasmuch as they from whom the Soma-draught had been taken had a share in the sacrifice assigned to them;
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -2631,15 +2794,18 @@ thereby visibly in this world; but whichever of them are assigned they are there
 
 **येषामि**त्यादि, स्पष्टम् । "विभूरसि प्रवाहणः"- (वा. सं. ५ । ३१) इत्याद्यग्न्युपस्थानमन्त्रेषु प्रतिपादितानि द्विनामानि ।
 </details>
-
-<details><summary>Eggeling</summary>
-
-for, in truth, they themselves insisted thereon, saying, 'We have not prospered with these names, since Soma has been taken away from us; well, then, let us take each a second name!' They took each a second name, and therewith prospered, inasmuch as they from whom the Soma-draught had been taken had a share in the sacrifice assigned to them;
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ द्विती᳓यानि ना᳓मान्यकुर्वत तै᳓रराध्नुवन्या᳓न᳓पहृतसोमपीथान्त्स᳓तो᳓ ऽथ यज्ञ᳓ आ᳓भजंस्त᳓स्माद्द्वि᳓नामानस्त᳓स्माद्ब्राह्मणो᳓ ऽनृध्यमाने द्विती᳓यं ना᳓म कुर्वीत राध्नो᳓ति हैव᳓ य᳓ एवं᳓ विद्वा᳓न्द्विती᳓यं ना᳓म कुरुते᳓॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+hence they have two names. Wherefore let a Brahman, if he prosper not, take a second name, for verily he prospers, whosoever, knowing this, takes a second name.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -2695,10 +2861,6 @@ for, in truth, they themselves insisted thereon, saying, 'We have not prospered 
 
 द्वितीयनाम्ना प्राप्तां समृद्धिं दर्शयति- **यानपहृतसोमपीथान्त्सतो ऽथ यज्ञ आभजन्नि**ति । यज्ञभागन्तु "तृतीयसवने वो घृत्या ऽऽहुतिः प्राप्स्यति" इत्युक्तमित्यर्थः ॥ २४ ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-hence they have two names. Wherefore let a Brahman, if he prosper not, take a second name, for verily he prospers, whosoever, knowing this, takes a second name.
 </details>
 
 
@@ -2709,6 +2871,13 @@ hence they have two names. Wherefore let a Brahman, if he prosper not, take a se
 
 स᳓ य᳓दग्नौ᳓ जुहो᳓ति ।  
 त᳓द्देवे᳓षु जुहोति त᳓स्माद्देवाः᳓ सन्त्य᳓थ य᳓त्स᳓दसि भक्ष᳓यन्ति त᳓न्मनुष्ये᳙षु जुहोति ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+25. Now what he offers in the fire, that he offers unto the gods, thereby the gods exist; and what (Soma) is consumed in the Sadas, that he offers unto men, thereby men exist;
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -2753,15 +2922,20 @@ hence they have two names. Wherefore let a Brahman, if he prosper not, take a se
 
 अथ प्रसङ्गात् सोमयागं देवमनुष्यपितृद्वारेण सर्वजगत्स्थितिहेतुरिति प्रशंसति- **स यदग्नौ जुहोती**ति । अग्नौ तत्तद्देवोद्देशेन होम एव सर्वदेवेषु होमो भवति । 'तस्मात्' यज्ञभागलाभात् 'देवाः' 'सन्ति' आत्मानं लभन्ते; इदानीमपि ‘अपराभूताः' अविनष्टा वर्त्तन्त इत्यर्थः । एवं मनुष्यपितृवाक्ये अपि योज्ये ।
 </details>
-
-<details><summary>Eggeling</summary>
-
-25. Now what he offers in the fire, that he offers unto the gods, thereby the gods exist; and what (Soma) is consumed in the Sadas, that he offers unto men, thereby men exist;
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मान्मनुष्याः᳙ सन्त्य᳓थ य᳓द्धविर्धा᳓नयोर्नाराशंसाः᳓ सी᳓दन्ति त᳓त्पितृ᳓षु जुहोति त᳓स्मात्पित᳓रः सन्ति॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+and in that the Nārāśaṁsa [^egg_407] cups of Soma) stand with the Soma-carts, thereby he offers unto the Fathers, thereby the Fathers exist.
+
+[^egg_407]: 154:1 Nārāśaṁsa, 'pertaining to Narāśaṁsa (man's praise, i.e. Agni, or Soma, or the Fathers),' is the name given to certain remains of Soma-libations (or potations) sacred to the Fathers, which, in the nine Soma-cups, are temporarily deposited under the axle of the southern Soma-cart, till they are drunk by the priests at the end of the libation.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -2801,12 +2975,6 @@ hence they have two names. Wherefore let a Brahman, if he prosper not, take a se
 
 अथ **यद्धविर्द्धानयोर्नाराशंसाः सीदन्ति, तत् पितृषु जुहोती**ति । हविर्द्धानशकटस्य दक्षिणभागे चमसेषु (ऋ. सं. १ ० । १६ । ८) ये सोमा हुतावशिष्टा भक्षिता, पुनराप्यायिताश्च वर्तन्ते, ते नाराशंसाः; तेन पितृदेवत्याः । तत्र स्थानेषु पितृषु जुहोति ॥ २५ ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-and in that the Nārāśaṁsa [^egg_407] cups of Soma) stand with the Soma-carts, thereby he offers unto the Fathers, thereby the Fathers exist.
-
-[^egg_407]: 154:1 Nārāśaṁsa, 'pertaining to Narāśaṁsa (man's praise, i.e. Agni, or Soma, or the Fathers),' is the name given to certain remains of Soma-libations (or potations) sacred to the Fathers, which, in the nine Soma-cups, are temporarily deposited under the axle of the southern Soma-cart, till they are drunk by the priests at the end of the libation.
 </details>
 
 
@@ -2817,6 +2985,13 @@ and in that the Nārāśaṁsa [^egg_407] cups of Soma) stand with the Soma-cart
 
 [[या|या᳓]] वै प्रजा᳓ यज्ञे᳓ ऽनन्वाभक्ताः ।  
 प᳓राभूता वै᳓ ताः᳓ ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+26. But those creatures which are not admitted to the sacrifice are forlorn;
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -2852,15 +3027,18 @@ and in that the Nārāśaṁsa [^egg_407] cups of Soma) stand with the Soma-cart
 
 **या वे प्रजा** इति । 'या वै प्रजाः' देवपितृमनुष्यव्यतिरिक्ताः, असुररक्षःप्रभृतिकाः, 'ताः' 'पराभूताः' विनष्टा अभवन् । याप्येवं पूर्वमासीत् परमा च । 'एतद्' इदानीमपि, 'अपराभूताः' 'याः' सन्ति, 'ताः' देवाद्याः 'यज्ञे' 'आभजति' ।
 </details>
-
-<details><summary>Eggeling</summary>
-
-26. But those creatures which are not admitted to the sacrifice are forlorn;
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एव᳓मेवै᳙त᳓द्या᳓ इमाः᳓ प्रजा᳓ अ᳓पराभूतास्ता᳓ यज्ञ᳓ आ᳓भजति ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+wherefore he now admits to the sacrifice those creatures here on earth that are not forlorn;
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -2892,15 +3070,20 @@ and in that the Nārāśaṁsa [^egg_407] cups of Soma) stand with the Soma-cart
 - आ᳓ (*RV*-2810, *TS*-1105, *AV*-1040, *TB*-641, *TK*-36)
 - भजति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-7, *RV*-2, *TB*-1)
 </details>
-
-<details><summary>Eggeling</summary>
-
-wherefore he now admits to the sacrifice those creatures here on earth that are not forlorn;
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनुष्या᳙न᳓नु पश᳓वो देवा᳓न᳓नु व᳓यांस्यो᳓षधयो व᳓नस्प᳓तयो य᳓दिदं᳓ किं᳓ चैव᳓मु त᳓त्स᳓र्वं यज्ञ᳓ आ᳓भक्तम् ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+behind [^egg_408] the men are the beasts;
+
+[^egg_408]: 154:2 Or, alongside of; corresponding to, included in, them (anu).
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -2944,17 +3127,22 @@ wherefore he now admits to the sacrifice those creatures here on earth that are 
 
 अस्तु तेषां यज्ञभागः, तदितरेषां पशुपक्षिप्रभृतीनां कथं यज्ञे ऽनुप्रवेश इति, तत्प्रकारमाह- **मनुष्याननु पशुव** इति । वयसामन्तरिक्षसञ्चारसाम्येन देवानुप्रवेशाभिधानम् । औषध्यादीनां रक्षकाभावेन देवाधीनस्थितिकत्वम् ।
 </details>
-
-<details><summary>Eggeling</summary>
-
-behind [^egg_408] the men are the beasts;
-
-[^egg_408]: 154:2 Or, alongside of; corresponding to, included in, them (anu).
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ ह स्मैत᳓ उभ᳓ये देवमनुष्याः᳓ पित᳓रः स᳓म्पिबन्ते सै᳙षा᳓ सम्पा ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+and behind the gods are the birds, the plants, and
+
+the trees; and thus whatsoever exists here on earth all that is admitted to the sacrifice. And verily both the gods and men, and the Fathers drink together [^egg_409], and this is their symposium; of old they drank together visibly, but now they do so unseen.
+
+[^egg_409]: 155:1 'Sma' does not seem here to nave its usual force, which it has in the next sentence, combined with 'purā.'
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -2992,20 +3180,14 @@ behind [^egg_408] the men are the beasts;
 
 **उभये देवमनुष्याः पितर** इति । देवमनुष्य एको राशिः, पितरश्चैकः, द्वैराश्यमापन्ना उभये ऽपि 'सम्पिबन्ते' साहित्येनैकीभावेन सह पानं कुर्वन्ति । 'सैषा' 'सम्पा' सहपीतिः । “आतश्चोपसर्गे”- (पा. सू. ३ । १ । १३६) इति भावे अङ् । प्रथमं देवैरग्निमुखेन पानम्, पश्चान्मनुष्यैः सदसि शेषपानम्, पश्चान्नाराशंसेन पितॄणाम्; इत्येवंरूपानुसन्धेयेत्यर्थः ।
 </details>
-
-<details><summary>Eggeling</summary>
-
-and behind the gods are the birds, the plants, and
-
-the trees; and thus whatsoever exists here on earth all that is admitted to the sacrifice. And verily both the gods and men, and the Fathers drink together [^egg_409], and this is their symposium; of old they drank together visibly, but now they do so unseen.
-
-[^egg_409]: 155:1 'Sma' does not seem here to nave its usual force, which it has in the next sentence, combined with 'purā.'
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ ह स्म दृश्य᳓माना एव᳓ पुरा᳓ स᳓म्पिबन्त उतै᳙त᳓र्ह्य᳓दृश्यमानाः॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
@@ -3043,5 +3225,6 @@ the trees; and thus whatsoever exists here on earth all that is admitted to the 
 इति श्रीसायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे माध्यन्दिनशतपथब्राह्मणभाष्ये तृतीयकाण्डे षष्ठाध्याये द्वितीयं ब्राह्मणम् ॥ (३-६-२) ॥
 
 [^१_२१५]: धिष्ण्यान्निवपत्युद्धतावोक्षिते पुरीषन्निवपति स्फ्ये नान्वारब्ध उदङ्ङुपविश्य विभूरसीति प्रतिमंत्रं, आग्नीध्रीयं पूर्वं, सिकताश्चोपरि, रौद्रेणेति सर्वत्र, षट्सदसि, प्रत्यङ्मुखो द्वारमपरेण होतुः, दक्षिणपूर्वेणौदुम्बरीं मैत्रावरुणस्य, होतृधिष्ण्यमुत्तरेण चतुरः समान्तरान्ब्राह्मणाच्छँ सिपीतृनेष्ट्रच्छावाकानाम्, आग्नीध्राद्दक्षिणँ सम्प्रति-वेध्यन्ते दक्षिणामुखो मार्जालीयम् ॥ इति ॥
+</details>
 </details>
 

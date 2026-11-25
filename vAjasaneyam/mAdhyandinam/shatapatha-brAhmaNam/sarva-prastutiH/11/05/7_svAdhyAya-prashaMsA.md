@@ -17,6 +17,13 @@ title = "७ स्वाध्याय-प्रशंसा"
 सुखं᳓ **स्वपिति**।+++(5)+++
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+1. Now, then, the praise of the study (of the scriptures).
+</details>
+
 <details><summary>मूलम् - श्रीधरादि</summary>
 
 अथा᳘तः स्वाध्यायप्रशᳫँ᳭सा᳘॥  
@@ -60,16 +67,21 @@ title = "७ स्वाध्याय-प्रशंसा"
 
 तद्धेतुभूतानि फलान्यनुकामति- **प्रिये** इत्यादिना । 'स्वाध्यायः' स्वाध्यायाध्ययनं 'प्रवचनं' अन्यस्याध्यापनम् । ते उभे अपि ब्रह्मयज्ञस्वाध्यायमधीयानम्य 'प्रिये' अनुकूलवेदनीये 'भवतः' । युक्तमविक्षिप्तं एकाग्रं मनो यस्य स 'युक्तमनाः' पराधीनो न भवतीति 'अपराधीनः' अनन्यप्रेर्यः सन् 'अहरहः' प्रत्यहम् योग्यानर्थान् 'साधयते' संपादयति । तथा 'सुखं' यथा भवति तथा अव्याकुलितचित्तः 'स्वपिति' निद्राति । दुःखसंस्पर्शनिमित्ता चिता अस्य न भवतीत्यर्थः । 'आत्मनः' स्वस्य 'परमचिकित्सको भवति' । अन्ये हि भिषज औषधादिना शरीरस्यैव तात्कालिकीमेव उदरशिरोरोगादिपीडां निवर्तयंति । विद्वांस्तु देहव्यतिरिक्तस्यात्मनः उक्तेन स्वाध्यायेन पुनर्मृत्युप्राप्तिरूपां पीडां सर्वदैव निवर्तयतीति परमचिकित्सकत्वं तस्येत्यर्थः । तथा इंद्रियसंयमश्चास्य भवति । इंद्रियाणां चक्षुःश्रोत्रादीनां संयमः अनर्थहेतुभ्यो विषयेभ्यो व्यावृत्तिः । एक एव सन् आसमंतात् भवतीत्येकारामः तस्य भावः । तथा भूतभविष्यद्वर्तमानकालतया ऽवच्छिन्नकृत्स्नपदार्थविषया बुद्धिः 'प्रज्ञा' तस्या अभिवृद्धिरस्य भवति । 'यशः' कीर्तिः तत्प्रयुक्तो 'लोकः' तस्य 'पक्तिः' परिपाको भवति । अस्य प्रज्ञा वर्द्धमाना सती अध्ययनं, अध्यापनं, यज्ञो, याजनमिति 'चतुरो धर्मान्' ब्राह्मणजातिमभिलक्ष्य 'निष्पादयति' जनयति । तथा 'ब्राह्मण्यं' ब्राह्मणभावं 'प्रतिरूपचर्यां' तदनुरूपमाचरणं च संपादयति ।
 </details>
-
-<details><summary>Eggeling</summary>
-
-1. Now, then, the praise of the study (of the scriptures).
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परम-**चिकित्सक᳓** आत्म᳓नो भवति,  
 +इन्द्रिय-**संयम᳓श् चैकाराम᳓ता** च, प्रज्ञा᳓, वृद्धि᳓र्, य᳓शो, लोक-**पक्तिः᳓**।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+The study and teaching (of the Veda) are a source of pleasure to him, he becomes ready-minded [^egg_323], and independent of others, and day by day he acquires wealth.
+
+[^egg_323]: 99:5 Or, as Sāyaṇa takes it to mean, of intent, undistracted mind,--yuktam avikshiptam ekāgraṁ mano yasya sa yuktamanāḥ.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -101,18 +113,23 @@ title = "७ स्वाध्याय-प्रशंसा"
 - य᳓शः (*AV*-33, *RV*-24, *TS*-11, *TB*-33, *TK*-6, *VS-M*-10)
 - लोक-पक्तिः᳓ (*SB-K*-1/2, समासस्य पा॰ ६.१.२२३)
 </details>
-
-<details><summary>Eggeling</summary>
-
-The study and teaching (of the Veda) are a source of pleasure to him, he becomes ready-minded [^egg_323], and independent of others, and day by day he acquires wealth.
-
-[^egg_323]: 99:5 Or, as Sāyaṇa takes it to mean, of intent, undistracted mind,--yuktam avikshiptam ekāgraṁ mano yasya sa yuktamanāḥ.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [[प्र᳓ज्ञा|प्रज्ञा᳓]] व᳓र्धमाना चतु᳓रो ध᳓र्मान् ब्राह्मण᳓म् **अभिनि᳓ष्पादयति** -  
 ब्रा᳓ह्मण्यम् प्रतिरूप-**चर्यां᳓**, य᳓शो, लोक-**पक्ति᳓म्**।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+He sleeps peacefully; he is the best physician for himself; and (peculiar) to him are restraint of the senses, delight in the one thing [^egg_324], growth of intelligence, fame, and the (task of) perfecting the people [^egg_325].
+
+[^egg_324]: 99:6 Sāyaṇa seems to take 'ekārāmatā' in the sense of 'remaining always the same,'--eka eva sann ā samantād bhavatīty ekārāmas tasya bhāvaḥ.
+
+[^egg_325]: 99:7 Or, perfecting the world,--tadyukto yo lokas tasya paktiḥ paripāko bhavati, Sāy.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -147,20 +164,19 @@ The study and teaching (of the Veda) are a source of pleasure to him, he becomes
 - य᳓शः (*AV*-33, *RV*-24, *TS*-11, *TB*-33, *TK*-6, *VS-M*-10)
 - लोक-पक्ति᳓म् (*SB-K*-1/2, समासस्य पा॰ ६.१.२२३)
 </details>
-
-<details><summary>Eggeling</summary>
-
-He sleeps peacefully; he is the best physician for himself; and (peculiar) to him are restraint of the senses, delight in the one thing [^egg_324], growth of intelligence, fame, and the (task of) perfecting the people [^egg_325].
-
-[^egg_324]: 99:6 Sāyaṇa seems to take 'ekārāmatā' in the sense of 'remaining always the same,'--eka eva sann ā samantād bhavatīty ekārāmas tasya bhāvaḥ.
-
-[^egg_325]: 99:7 Or, perfecting the world,--tadyukto yo lokas tasya paktiḥ paripāko bhavati, Sāy.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोकः᳓ **प᳓च्यमानश्** चतु᳓र्भिर् ध᳓र्मैर् ब्राह्मण᳓म् **भुनक्त्य्** -  
 **अर्च᳓या** च **दा᳓नेन** चा-ज्येय᳓तया चा-वध्य᳓तया च॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+The growing intelligence gives rise to four duties attaching to the Brāhmaṇa--Brāhmaṇical descent, a befitting deportment, fame, and the perfecting of the people; and the people that are being perfected guard the Brāhmaṇa by four duties--by (showing him) respect, and liberality, (and by granting him) security against oppression, and security against capital punishment.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -200,10 +216,6 @@ He sleeps peacefully; he is the best physician for himself; and (peculiar) to hi
 
 प्रागुक्तां यशोलोकपक्तिमनूद्य तद्धेतुकमन्यत्फलमाह- **यशोलोकपक्तिमि**ति । स च पच्यमानो यशसा युक्तो लोकः 'चतुर्भिः' वक्ष्यमाणैः 'धर्मैर्ब्राह्मणं भुनक्ति' पालयति । "भुजो ऽनवने"- (पा. सू. १ । ३ । ६६) इति पर्युदस्तत्वात् भुजेरात्मनेपदाभावः । के पुनस्ते चत्वारो धर्माः ? इति तानाह- अर्चया चेति । "अर्च पूजायां"- (धा. पा. भ्वा. प. २०४) इति धातो रूपम् । अर्चा अर्चनं पूजनम् । इष्टस्य धनादे समर्पणं दानम् । ज्यानिर्हानिः तदविषयत्वं अज्येयता । "ज्या वयोहानौ"- (धा. पा. क्र्या. प. २७) इत्यस्मात् "अचो यत्"- (पा. सू. ३ । १ । ९७) इति कर्मणि यत् । वधं हननमर्हतीति वध्यः तादृशो न भवतीत्यवध्यः तस्य भावस्तत्त्वम् । एतैश्चतुर्भिर्धर्मैः सर्वो लोको वेदाध्यायिनमाराधयतीत्यर्थः ॥ १ ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-The growing intelligence gives rise to four duties attaching to the Brāhmaṇa--Brāhmaṇical descent, a befitting deportment, fame, and the perfecting of the people; and the people that are being perfected guard the Brāhmaṇa by four duties--by (showing him) respect, and liberality, (and by granting him) security against oppression, and security against capital punishment.
 </details>
 
 
@@ -214,6 +226,13 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 
 ये᳓ ह वै᳓ के᳓ च **श्र᳓मा**  
 इमे᳓ [[द्या᳓वा-पृथिवी|द्या᳓वा-पृथिवी᳓]] अ᳓न्तरेण ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+2. And, truly, whatever may be the toils here between heaven and earth, the study (of the scriptures) is their last stage, their goal (limit) for him who, knowing this, studies his lesson: therefore one's (daily) lesson should be studied.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -250,10 +269,6 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 
 अथ उत्कृष्टतपोरूपत्वमध्ययनस्याह- **ये ह वै के च श्रमा** इति । 'द्यावापृथिवी अंतरेण' अनयोर्द्यावापृथिव्योर्मध्ये 'ये' केचन 'श्रमाः' श्रमसाध्यास्तपोविशेषाः 'तेषां' तपोविशेषाणां 'स्वाध्यायः' एव 'परमताकाष्ठा' परमता परमत्वमुत्कर्षः तस्यावधिभूमिः ।
 </details>
-
-<details><summary>Eggeling</summary>
-
-2. And, truly, whatever may be the toils here between heaven and earth, the study (of the scriptures) is their last stage, their goal (limit) for him who, knowing this, studies his lesson: therefore one's (daily) lesson should be studied.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -261,6 +276,8 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 स्वाध्यायो᳓ हैव᳓ ते᳓षाम् पर-**म᳓ता** का᳓ष्ठा,  
 य᳓ एवं᳓ **विद्वा᳓न्त्** स्वाध्याय᳓म् **अधीते᳓**।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
@@ -299,11 +316,14 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 
 एतावंति फलानि विदुष एवाध्येतुरित्याह- **य एवं विद्वानि**ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् स्वाध्यायो᳓ **ऽध्येत᳓व्यः**॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
@@ -331,6 +351,7 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 
 **तस्मादि**ति । प्रकृताध्ययनविधेर्निगमनम् ॥ २ ॥
 </details>
+</details>
 
 
 ## ०३
@@ -340,6 +361,15 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 
 य᳓द् यद् ध वा᳓ अयं᳓ छ᳓न्दसः स्वाध्याय᳓म् **अधीते**  
 ते᳓न तेन हैवा᳓स्य यज्ञ-**क्रतु᳓नेष्ट᳓म् भवति** ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+3. And, verily, whatever portion of the sacred poetry (chandas) he studies for his lesson with that sacrificial rite [^egg_326], offering is made by him who, knowing this, studies his lesson: therefore one's (daily) lesson should be studied.
+
+[^egg_326]: 100:1 The study of the Veda being 'the sacrifice of the Brahman,' the reading of a portion is, as it were, a special rite, or form of offering, belonging to that sacrifice. Sāyaṇa, on the other hand, takes it to mean that the student performs, as it were, the particular rite, or offering, to which the portion he reads may refer. It may, indeed, be implied, though it certainly is not expressed in the text.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -384,12 +414,6 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 
 अथ वेदाध्ययनशीलस्य कायिकव्यापारनिर्वर्त्ययागहोमादिफलमपि अयत्नतः सिध्यतीत्याह- **यद्यद्ध वा** इति । 'यद्यत्' यस्य यस्य यज्ञक्रतोः प्रतिपादकच्छंदसो वेदस्य संबंधिनं 'स्वाध्यायं' स्वशाखासम्बन्धि, स्वाध्यायानुवाकादिकं 'अधीते' 'अस्य' अध्येतुः तत्प्रतिपाद्येन तेन तेनैव 'क्रतुना' यज्ञकर्मणा 'इष्टं भवति' यागः कृतो भवति ।
 </details>
-
-<details><summary>Eggeling</summary>
-
-3. And, verily, whatever portion of the sacred poetry (chandas) he studies for his lesson with that sacrificial rite [^egg_326], offering is made by him who, knowing this, studies his lesson: therefore one's (daily) lesson should be studied.
-
-[^egg_326]: 100:1 The study of the Veda being 'the sacrifice of the Brahman,' the reading of a portion is, as it were, a special rite, or form of offering, belonging to that sacrifice. Sāyaṇa, on the other hand, takes it to mean that the student performs, as it were, the particular rite, or offering, to which the portion he reads may refer. It may, indeed, be implied, though it certainly is not expressed in the text.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,6 +421,8 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 य᳓ एवं᳓ **विद्वा᳓न्त्** स्वाध्याय᳓म् **अधीते᳓**।  
 त᳓स्मात् स्वाध्यायो᳓ **ऽध्येत᳓व्यः**॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
@@ -430,6 +456,7 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 
 **य एवं विद्वानि**त्यादि पूर्ववत् ॥ ३ ॥
 </details>
+</details>
 
 
 ## ०४
@@ -441,6 +468,20 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 स्वाध्याय᳓म् अधीत᳓,  
 आ᳓ [[हैव|हैव᳓]] स᳓ नखाग्रे᳓भ्यस् **तप्यते**,
 य᳓ एवं᳓ **विद्वा᳓न्त्** स्वाध्याय᳓म् **अधीते᳓**। त᳓स्मात् स्वाध्यायो᳓ ऽध्येत᳓व्यः॥+++(५)+++
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+4. And, verily, if he studies his lesson, even though lying on a soft couch, anointed, adorned and completely satisfied, he is burned (with holy fire [^egg_327]) up to the tips of his nails, whosoever, knowing this, studies his lesson: therefore one's (daily) lesson should be studied.
+
+[^egg_327]: 100:2 Thus A. Weber, Ind. Stud. X, p. 122;--śarīrapīḍanena tapastapto bhavati, Sāy.
+</details>
+
+<details><summary>En - सिद्धार्थः</summary>
+
+Even if he be (यदि ह वा अपि) oiled up (अभ्यक्तः), adorned (अलंकृतः), satisfied (सुहितः) & lying on a pleasant bed (शुखे शयने शयानः), when he does स्वाध्याय, he blazes with अग्नि to the tips of his nails. Thus, the स्वाध्याय ought to be done.(तस्मात्स्वाध्यायोऽध्येतव्यः)
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -496,17 +537,6 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 
 अथ एतदप्यध्ययनं कृच्छ्रचांद्रायणादितपोरूपत्वेन स्तौति- **यदि ह वा** इति । 'अभ्यक्तः' तैलादिना कृताभ्यंगः । 'अलंकृतः' स्रक्चंदनादिभिर्भूषितः । 'सुहितः' यथेष्टभोजनेन तृप्तः । 'सुखे' सुखकरे 'शयने' शय्यायां 'शयानः' । एवमभ्यंगादीन् तपसः प्रतिकूलान् चरन्नपि यः 'स्वाध्यायमधीते' 'स आ नखाग्रेभ्यः' नखाग्रपर्यंतं यावच्छरीरपीडनेन तपस्तप्तवान् भवति । **य एवं विद्वानि**त्यादि गतम् ॥ ४ ॥ 
 </details>
-
-<details><summary>Eggeling</summary>
-
-4. And, verily, if he studies his lesson, even though lying on a soft couch, anointed, adorned and completely satisfied, he is burned (with holy fire [^egg_327]) up to the tips of his nails, whosoever, knowing this, studies his lesson: therefore one's (daily) lesson should be studied.
-
-[^egg_327]: 100:2 Thus A. Weber, Ind. Stud. X, p. 122;--śarīrapīḍanena tapastapto bhavati, Sāy.
-</details>
-
-<details><summary>En - सिद्धार्थः</summary>
-
-Even if he be (यदि ह वा अपि) oiled up (अभ्यक्तः), adorned (अलंकृतः), satisfied (सुहितः) & lying on a pleasant bed (शुखे शयने शयानः), when he does स्वाध्याय, he blazes with अग्नि to the tips of his nails. Thus, the स्वाध्याय ought to be done.(तस्मात्स्वाध्यायोऽध्येतव्यः)
 </details>
 
 
@@ -518,6 +548,13 @@ Even if he be (यदि ह वा अपि) oiled up (अभ्यक्त�
 **म᳓धु** ह वा᳓ ऋ᳓चः,  
 **घृतं᳓** ह सा᳓मान्य्,  
 **अमृ᳓तं** य᳓जूंषि।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+5. The R̥k-texts, truly, are honey, the Sāman-texts ghee, and the Yajus-texts ambrosia;
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -554,16 +591,19 @@ Even if he be (यदि ह वा अपि) oiled up (अभ्यक्त�
 
 अथ एतेषामृगादीनां मध्वादिरूपतया तृप्तिहेतुतां वक्तुं सारूप्यमाह- **मधु ह वा ऋच** इति । या 'ऋचः' तन्मधु । यानि 'सामानि' तत् घृतमाज्यम् । यानि 'यजूंषि' तदमृतम् । 'यत्' खलु 'अयं' अध्येता प्रागुक्तं वाकोवाक्यादिकमधीते 'क्षीरौदनमांसौदनावेव तौ' ॥ ५ ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-5. The R̥k-texts, truly, are honey, the Sāman-texts ghee, and the Yajus-texts ambrosia;
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् +ध वा᳓ अयं᳓ [[वाको-वाक्य᳓म्|वाको-वाक्य᳙म्]] **अधीते᳓**,  
 **क्षीरौदन-मांसौदनौ᳓** हैव᳓ तौ᳓॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+and, indeed, when he studies the dialogue that (speech and reply) is a mess of milk and a mess of meat.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -595,10 +635,6 @@ Even if he be (यदि ह वा अपि) oiled up (अभ्यक्त�
 - एव᳓ (*TS*-3243, *TB*-1830, *AV*-335, *RV*-173, *TK*-77, *VS-M*-24)
 - तौ᳓ (*TS*-81/4763, *RV*-15/3136, *TB*-30/2709, *TK*-0/363, *AV*-41/3165, *SB-K*-205/20018, *VS-M*-2/768, *VS-K*-1/395)
 </details>
-
-<details><summary>Eggeling</summary>
-
-and, indeed, when he studies the dialogue that (speech and reply) is a mess of milk and a mess of meat.
 </details>
 
 
@@ -611,6 +647,13 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 य᳓ एवं᳓ **विद्वा᳓न्** ऋ᳓चो᳓ ऽहर्-अहः स्वाध्याय᳓म् **अधीते᳓**।  
 त᳓ एनं **तृप्ता᳓स् तर्पयन्ति** -  
 स᳓र्वैः का᳓मैः, स᳓र्वैर् भो᳓गैः॥ 
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+6. And, indeed, he who, knowing this, studies day by day the R̥k-texts for his lesson, satisfies the gods with honey, and, thus satisfied, they satisfy him by every object of desire, by every kind of enjoyment.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -660,10 +703,6 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 
 इत्थं मध्वादिरूपतामुक्त्वा तदुपजीवनेन तेषामध्ययनं क्रमेण स्तौति- **मधुना ह वा** इति । निगदसिद्धो ऽर्थः । ऋचामध्ययनं स्तौति- **य एवं विद्वानि**ति । **सर्वैः कामैरि**ति । काम्यमानैः 'सर्वैः' शब्दादिविषयैः तन्निर्वर्त्यैभोगौश्चेत्यर्थः ॥ ६ ॥ 
 </details>
-
-<details><summary>Eggeling</summary>
-
-6. And, indeed, he who, knowing this, studies day by day the R̥k-texts for his lesson, satisfies the gods with honey, and, thus satisfied, they satisfy him by every object of desire, by every kind of enjoyment.
 </details>
 
 
@@ -676,6 +715,13 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 य᳓ एवं᳓ **विद्वा᳓न्त्** सा᳓मान्य् अ᳓हर्-अहः स्वाध्याय᳓म् **अधीते᳓**।  
 त᳓ एनं **तृप्ता᳓ तर्प्पयन्ति**  
 स᳓र्व्वैः का᳓मैः स᳓र्व्वैर् भो᳓गैः॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+7. And he who, knowing this, studies day by day the Sāman-texts for his lesson, satisfies the gods with ghee; and, being satisfied, they satisfy him by every object of desire, by every kind of enjoyment.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -725,10 +771,6 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 
 साम्नामध्ययनं स्तौति- **घृतेन ह वा** इति ॥ ७ ॥ 
 </details>
-
-<details><summary>Eggeling</summary>
-
-7. And he who, knowing this, studies day by day the Sāman-texts for his lesson, satisfies the gods with ghee; and, being satisfied, they satisfy him by every object of desire, by every kind of enjoyment.
 </details>
 
 
@@ -741,6 +783,13 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 य᳓ एवं᳓ **विद्वा᳓न्** य᳓जूंष्य् अ᳓हर्-अहः स्वाध्याय᳓म् **अधीते᳓**।  
 त᳓ एनं **तृप्ता᳓ तर्प्पयन्ति**  
 स᳓र्व्वैः का᳓मैः, स᳓र्व्वैर् भो᳓गैः॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+8. And he who, knowing this, studies day by day the Yajus-texts for his lesson, satisfies the gods with ambrosia; and, being satisfied, they satisfy him by every object of desire, by every kind of enjoyment.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -790,10 +839,6 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 
 यजुषामध्ययनं स्तौति- **अमृतेन ह वा** इति ॥ ८ ॥ 
 </details>
-
-<details><summary>Eggeling</summary>
-
-8. And he who, knowing this, studies day by day the Yajus-texts for his lesson, satisfies the gods with ambrosia; and, being satisfied, they satisfy him by every object of desire, by every kind of enjoyment.
 </details>
 
 
@@ -806,6 +851,13 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 य᳓ एवं᳓ **विद्वा᳓न्** [[वाकोवाक्य᳓म्|वाकोवाक्य᳙म्]] इतिहास-पुराण᳓म् इ᳓त्य् अ᳓हर्-अहः स्वाध्याय᳓म् **अधीते᳓**  
 त᳓ एनं **तृप्ता᳓ तर्प्पयन्ति**  
 स᳓र्व्वैः का᳓मैः, स᳓र्व्वैर् [[भो᳓गैः|भोगैः᳓]]॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+9. And he who, knowing this, studies day by day the dialogue, the traditional myths and legends, for his lesson, satisfies the gods by messes of milk and meat; and, being satisfied, they satisfy him by every object of desire, by every kind of enjoyment.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -859,10 +911,6 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 
 [^१_१६६]: (याज्ञ. स्मृ. आ. ब्र. प्र. श्लो. ४७-४८) इत्यत्रत्यावपि श्लोकावत्र द्रष्टव्यौम् । 
 </details>
-
-<details><summary>Eggeling</summary>
-
-9. And he who, knowing this, studies day by day the dialogue, the traditional myths and legends, for his lesson, satisfies the gods by messes of milk and meat; and, being satisfied, they satisfy him by every object of desire, by every kind of enjoyment.
 </details>
 
 
@@ -875,6 +923,13 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 **ए᳓त्य्** आदित्य᳓,  
 **ए᳓ति** चन्द्र᳓मा,  
 **य᳓न्ति** न᳓क्षत्राणि।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+10. Moving, indeed, are the waters, moving is the sun, moving the moon, and moving the stars;
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -906,10 +961,6 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 - य᳓न्ति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *AV*-28, *RV*-19, *TS*-13, *TB*-9, *TK*-1)
 - न᳓क्षत्राणि (*TS*-9/52, *RV*-0/9, *TB*-7/31, *TK*-1/3, *AV*-6/20, *SB-K*-28/55, *VS-M*-5/11, *VS-K*-4/10)
 </details>
-
-<details><summary>Eggeling</summary>
-
-10. Moving, indeed, are the waters, moving is the sun, moving the moon, and moving the stars;
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -917,6 +968,13 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 य᳓था ह वा᳓ एता᳓ देव᳓ता **[[ने᳓युर्|ने᳓यु᳓र्]]**, **न᳓ कुर्युर्** -  
 एवं᳓ हैव᳓ त᳓द् अ᳓हर् ब्राह्मणो᳓ **भवति**,  
 य᳓द् अ᳓हः [[स्वाध्यायं|स्वाध्यायं᳓]] **[[ना᳓धीते᳓|नाधीते]]**।+++(5)+++
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+and, verily, as if these deities did not move and act, even so will the Brāhmaṇa be on that day on which he does not study his lesson: therefore one's (daily) lesson should be studied.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -957,10 +1015,6 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 - स्वाध्याय᳓म् (*SB-K*-18/25, *MW* ŚBr., *Lanman*)
 - नाधीते (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
 </details>
-
-<details><summary>Eggeling</summary>
-
-and, verily, as if these deities did not move and act, even so will the Brāhmaṇa be on that day on which he does not study his lesson: therefore one's (daily) lesson should be studied.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -968,6 +1022,17 @@ and, verily, as if these deities did not move and act, even so will the Brāhma�
 त᳓स्मात् स्वाध्यायो᳓ **ऽध्येत᳓व्यस्**,  
 त᳓स्माद् अ᳓प्य् ऋ᳓चं वा य᳓जुर् वा सा᳓म वा गा᳓थां वा कुं᳓ब्यां +++(=ब्राह्मणविशेषं)+++ वा  
 **ऽभिव्या᳓हरेद्** व्रत᳓स्या᳓व्यवछेदाय॥+++(५)+++
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Eggeling</summary>
+
+And hence let him at least pronounce either a R̥k-verse or a Yajus-formula, or a Sāman-verse, or a Gāthā, or a Kumbyā [^egg_328], to ensure continuity of the Vrata [^egg_329].
+
+[^egg_328]: 101:1 A 'Kumbyā,' according to Sāyaṇa, is a Brāhmaṇa-passage explanatory of some sacrificial precept or rite (vidhyarthavādātmakaṁ brāhmaṇa-vākyam); whilst, on Aitareyār. II, 3, 6, 8, the same commentator explains it as a verse (r̥g-viśesha) conveying some precept of conduct (ācāraśikshārūpa), such as 'brahmacāryasyāpośānaṁ karma kuru, divā mā svāpsīḥ,' &c. Cf. Prof. F. Max Müller's transl., Upanishads I, p. 230, note 2.
+
+[^egg_329]: 101:2 This is in keeping with the mystic representation of this and  the preceding chapters which represent the daily study of the scriptural lesson as a sacrifice continued day by day. The student, as the sacrificer, has accordingly, during the sacrifice (that is, during the period of his study of the Vedas, or for life), as it were, to limit his daily food to the drinking of the Vrata-milk, which rule he obeys symbolically by reciting such a verse or formula.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1022,13 +1087,5 @@ and, verily, as if these deities did not move and act, even so will the Brāhma�
 
 इति श्रीसायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे माध्यंदिनीयशतपथब्राह्मणभाष्य एकादशकांडे पंचमे ऽध्याये सप्तमं ब्राह्मणम् ॥ (११ । ५ । ७) ॥
 </details>
-
-<details><summary>Eggeling</summary>
-
-And hence let him at least pronounce either a R̥k-verse or a Yajus-formula, or a Sāman-verse, or a Gāthā, or a Kumbyā [^egg_328], to ensure continuity of the Vrata [^egg_329].
-
-[^egg_328]: 101:1 A 'Kumbyā,' according to Sāyaṇa, is a Brāhmaṇa-passage explanatory of some sacrificial precept or rite (vidhyarthavādātmakaṁ brāhmaṇa-vākyam); whilst, on Aitareyār. II, 3, 6, 8, the same commentator explains it as a verse (r̥g-viśesha) conveying some precept of conduct (ācāraśikshārūpa), such as 'brahmacāryasyāpośānaṁ karma kuru, divā mā svāpsīḥ,' &c. Cf. Prof. F. Max Müller's transl., Upanishads I, p. 230, note 2.
-
-[^egg_329]: 101:2 This is in keeping with the mystic representation of this and  the preceding chapters which represent the daily study of the scriptural lesson as a sacrifice continued day by day. The student, as the sacrificer, has accordingly, during the sacrifice (that is, during the period of his study of the Vedas, or for life), as it were, to limit his daily food to the drinking of the Vrata-milk, which rule he obeys symbolically by reciting such a verse or formula.
 </details>
 
