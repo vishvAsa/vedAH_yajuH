@@ -4,6 +4,8 @@ unicode_script: devanagari
 
 ---
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>त्रिभुवनः</summary>
 
 Hariḥ Om.
@@ -35,12 +37,15 @@ Om Peace! Peace! Peace!
 
 तत्राऽऽद्येनुवाकेऽध्ययनाङ्गत्वेन यज्ञोपवीतं विधातुं तत्प्रशंसार्थमादावुपाख्यानमाह -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ह वै᳓ देवा᳓नाञ् चा᳓सुराणाञ् च यज्ञौ᳓ प्र᳓तताव् आस्ताव्ँ,  
 "वयँ᳓ स्वर्गल्ँ᳓ लोक᳓म् एष्यामो, वय᳓म् एष्याम" इ᳓ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -62,11 +67,14 @@ Om Peace! Peace! Peace!
 
 वयमेवाऽऽधिपत्यनिमित्तं स्वर्गं गमिष्याम इत्येवं देवा यदा यज्ञे प्रवृत्तास्तदानीमेवासुरा अपि तथैवाभिप्रेत्य यज्ञे प्रवृत्ताः, तावुभौ यज्ञौ प्रततौ विस्तीर्णावास्ताम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ ऽसुरास् सन्न᳓ह्य स᳓हसैवा᳓चरन्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -87,11 +95,14 @@ Those Asuras being equipped conducted all of a sudden;
 
 तदानीं तथाविधा असुराः संनह्य कृतसन्नाहाः सहसैव भुजबलान्न शास्त्रेणैवाऽऽचरन्यज्ञमारब्धवन्तः, ते मौर्ख्याद्ब्रह्मचर्यादिनियमं चानादृतवन्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मच᳓र्येण त᳓पसैव देवाः᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -112,11 +123,14 @@ and the Devas (performed their sacrifice) by the austerity.
 
 देवास्तु ब्रह्मचर्यात्समस्ततपसा युक्ताः सन्तो यथाशास्त्रमनुष्ठितवन्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ऽसुरा अमुह्यँस्,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -137,11 +151,14 @@ Those Asuras became stupified;
 
 ते मूर्खा असुरा अमुह्यन्मौर्ख्यपारवश्येन मोहं प्राप्ताः, मूढाः सन्तः कर्तव्याकर्तव्यं किमपि न प्रजानन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ न᳓ प्रा᳓जानँस्,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -162,11 +179,14 @@ they did not know,
 
 ततो यथाशास्त्रानुष्ठानाभावात्स्वर्गं न प्राप्ताः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ प᳓राऽभवन्,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -182,11 +202,14 @@ they were defeated
 
 ततश्चैव ते पराभवन् विनष्टा अभवन्, प्रारब्धकर्मफलालाभो विनाशः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ न᳓ स्वर्गल्ँ᳓ लोक᳓मायन्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -201,4 +224,5 @@ and did not reach the heaven.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ततस् ते स्वर्गं लोकं नायन्न गताः । अय गतौ ॥
+</details>
 </details>

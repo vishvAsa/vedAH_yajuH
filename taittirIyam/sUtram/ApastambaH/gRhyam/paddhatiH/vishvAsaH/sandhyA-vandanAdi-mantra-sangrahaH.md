@@ -400,7 +400,7 @@ you are all, you are all, all life,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः (स्वराः व्यत्यस्ताः 2/5)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः (2/5 व्यत्यस्त-स्वराः)</summary>
 
 अभिभू᳓र् [ओ᳓ङ् गायत्री᳓म् आ᳓वाहयामि । (41)]
 </details>

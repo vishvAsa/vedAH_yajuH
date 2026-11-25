@@ -4,6 +4,8 @@ unicode_script: devanagari
 
 ---
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 नवमे ब्रह्मयज्ञविधिप्रस्तावार्थमुपाखयानमुक्तम् ।
@@ -15,6 +17,7 @@ unicode_script: devanagari
 
 The five great sacrifices.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -22,6 +25,8 @@ The five great sacrifices.
 [[स᳓तति᳓|सतति᳓]]+++(=प्रतिदिनम्)+++ प्र᳓तायन्ते+++(=अनुष्ठीयन्ते)+++,  
 [[स᳓तति᳓|सतति᳓]] स᳓न्तिष्ठन्ते+++(=समाप्यन्ते)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -37,16 +42,22 @@ The five great sacrifices.
 
 एवं यज्ञानां पाठतः पञ्चत्वं न तु स्वरूपविस्तारेण । सतति सततं दिने दिने प्रतायन्तेऽनुष्ठीयन्ते । सतति प्रतिदिनं संतिष्ठन्ते समाप्यन्ते । यस्मिन्दिन उपक्रमस्तस्मिन्नेव दिने तत्समाप्तिः, न तु यज्ञान्तरवद्दिनान्तरापेक्षा । देवयज्ञ इत्यादीनि तेषां नामानि ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्र देवयज्ञस्य लक्षणमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवयज्ञः᳓ पितृयज्ञो᳓ भूतयज्ञो᳓ मनुष्ययज्ञो᳓ ब्रह्मयज्ञ᳓ इ᳓ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -64,6 +75,9 @@ viz. the sacrifice of the gods, the sacrifice of the fathers, the sacrifice of t
 
 एवं ब्रह्मयज्ञं स्तुत्वा इदानीं तं विधित्सन् प्रसङ्गेन पञ्चमहायज्ञान् विदधाति - पञ्च वा इति । नित्या एते यज्ञाः । महत्त्वविशेषणं स्तुतिमात्रम् । यथाऽऽहुः ‘तेषां महायज्ञा महासत्राणीति संस्तुतिः' इति । सतति सततं दिनेदिने प्रतायन्ते क्रियन्ते. दिनेदिने सन्तिष्ठन्ते समाप्यन्ते च, न यज्ञान्तरवदन्यस्मिन्नहन्यारभ्यन्ते अन्यस्मिन्नहनि समाप्यन्ते । अथ तान् दर्शयतिदेवयज्ञ इत्यादि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -74,11 +88,14 @@ viz. the sacrifice of the gods, the sacrifice of the fathers, the sacrifice of t
 
 *(Mantras 2–6)* Description of each sacrifice.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दग्नौ᳓ जुहो᳓त्यपि᳓ समि᳓धन् - त᳓द् देवयज्ञ᳓स् स᳓न्तिष्ठते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -99,16 +116,22 @@ viz. the sacrifice of the gods, the sacrifice of the fathers, the sacrifice of t
 
 पुरोडाशादिहविर्मुख्यं तदलाभे समिधमप्यग्नौ देवानुद्दिशञ्जुहोतीति यत्सोऽयं देवयज्ञः । स च सकृद्दोममात्रेण समाप्यते ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 पितृयज्ञस्य लक्षणमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् पितृ᳓भ्यस् स्वधा᳓ करो᳓त्य् अ᳓प्य् अप᳓स् त᳓त् पितृयज्ञ᳓स् स᳓न्तिष्ठते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -129,16 +152,22 @@ viz. the sacrifice of the gods, the sacrifice of the fathers, the sacrifice of t
 
 तत्र पिण्डदानासम्भवे जलमात्रमपि पितृभ्यः स्वधाऽस्त्विति स्वधाशब्देन यद्ददाति सोऽयं पितृयज्ञः । तावतैव समाप्यते ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 भूतयज्ञस्य लक्षणमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्भूते᳓भ्यो बलिँ᳓ ह᳓रति त᳓द्भूतयज्ञ᳓स् स᳓न्तिष्ठते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -159,16 +188,22 @@ viz. the sacrifice of the gods, the sacrifice of the fathers, the sacrifice of t
 
 वैश्वदेवानुष्ठानादूर्ध्वं बहिर्देशे वायसादिभ्यो भूतेभ्यो यद्बलिप्रदानं सोऽयं भूतयज्ञः, तावतैव समाप्यते ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 मनुष्ययज्ञस्य लक्षणमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्ब्राह्मणे᳓भ्यो᳓ ऽन्नन् द᳓दाति, त᳓न् मनुष्ययज्ञ᳓स् स᳓न्तिष्ठते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -189,16 +224,22 @@ viz. the sacrifice of the gods, the sacrifice of the fathers, the sacrifice of t
 
 वैश्वदेवादूर्ध्वं हन्तकारार्थान्नव्यतिरिक्तमन्नमतिथिभ्यस्त्र्यवरेभ्यो ब्राह्मणेभ्यो यद्दीयते स मनुष्ययज्ञः, तावतैव समाप्यते ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 ब्रह्मयज्ञस्य लक्षणमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् स्वाध्याय᳓म् अ᳓धीयीतै᳓कामप्यृचय्ँ᳓ य᳓जुस् सा᳓म वा, त᳓द्ब्रह्मयज्ञ᳓स् स᳓न्तिष्ठते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -214,16 +255,22 @@ viz. the sacrifice of the gods, the sacrifice of the fathers, the sacrifice of t
 
 स्वस्यासाधारणत्वेन पितृपितामहादिपरम्परया प्राप्ता वेदशाखा स्वाध्यायः । तत्र विद्यमानमृगादीनामन्यतममेकमपि वाक्यमधीयीतेतियत्सोऽयं ब्रह्मयज्ञः, तावतैव समाप्यते ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantras 7–8)* The study pleases the fathers and the gods.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् ऋचो᳓ऽधीते प᳓यसः कू᳓ल्या+++(=महानद्यः)+++ अस्य पितॄ᳓न्त् स्वधा᳓ अभि᳓वहन्ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -234,16 +281,22 @@ viz. the sacrifice of the gods, the sacrifice of the fathers, the sacrifice of t
 
 यदृ॒चोऽधी॑ते॒ पय॑सः॒ कूल्या॑+++(=महानद्यः)+++ अस्य पि॒तॄन्त् स्व॒धा अ॒भिव॑हन्ति।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्र विशेषाकारेणाध्ययनं पृथक्पृथक्प्रशंसति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्य᳓जूँषि घृत᳓स्य कूल्या।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -259,11 +312,14 @@ when he reads the Yajuses, the streams of the ghee (carry svadha for the fathers
 
 कूलमर्हन्तीति कूल्या महानद्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् सा᳓मानि सो᳓म एभ्यः पवते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -274,11 +330,14 @@ when he reads the Samans, the soma-juice flows for them;
 
 यत् सामा॑नि॒ सोम॑ एभ्यः पवते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द᳓थर्वाङ्गिर᳓सो म᳓धोः कूल्या।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -289,11 +348,14 @@ when he reads the Atharvangiras (-Mantras), the streams of the honey flow for th
 
 यदथ॑र्वाङ्गि॒रसो॒ मधोः॑ कूल्या।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्ब्राह्मणा᳓नीतिहासा᳓न् पुराणा᳓नि क᳓ल्पान् गा᳓था नाराशँसी᳓र् मे᳓दसः+++(=मांसस्य)+++ कू᳓ल्या अस्य पितॄ᳓न्त् स्वधा᳓ अभि᳓वहन्ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -314,11 +376,14 @@ when he reads the Brahmanas, Itihasas (histories), Puranas, Kalpas, Gathas, Nara
 
 ऋगध्ययनेन क्षीरपूर्णा महानद्यः स्वधाकारेण दत्तं हविर्भूत्वा पितॄनभिलक्ष्य प्रवहन्ति । तथा यजुरध्ययनेन घृतपूर्णो महानदीप्रवाहः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दृचो᳓ऽधीते प᳓यआहुतिभिरेव᳓ त᳓द् देवाँ᳓स् तर्पयति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -329,11 +394,14 @@ when he reads the Brahmanas, Itihasas (histories), Puranas, Kalpas, Gathas, Nara
 
 यदृ॒चोऽधी॑ते॒ पय॑आहुतिभिरे॒व तद् दे॒वाँस् त॑र्पयति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् य᳓जूँषि घृता᳓हुतिभिर्,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -344,11 +412,14 @@ by the oblations of ghee, when he reads the Yajuses;
 
 यद्यजूँ॑षि घृ॒ताहु॑तिभिर्,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् सा᳓मानि सो᳓माहुतिभिर्,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -364,11 +435,14 @@ by the oblations of Soma, when he reads the Samans;
 
 सामाध्ययनादेभ्यः पितृभ्यः सोमो धारया युक्तः पवते प्रवहति । एवमथर्वाङ्गिरसामध्ययनेन मधुपूर्णा नद्यः प्रवहन्ति । ब्राह्मणाद्यध्ययनेन मांससंबन्धी प्रवाहः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द᳓थर्वाङ्गिर᳓सो म᳓ध्वाहुतिभिर्,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -379,11 +453,14 @@ by the oblation of the honey, when he reads the Atharvangiras (-Mantras);
 
 यदथ॑र्वाङ्गि॒रसो॒ मध्वा॑हुतिभिर्,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्ब्राह्मणा᳓नीतिहासा᳓न्पुराणा᳓नि क᳓ल्पान्गा᳓था नाराशँसी᳓र् मेदाहुति᳓भिरेव᳓ त᳓द्देवाँ᳓स्तर्पयति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -394,16 +471,22 @@ by the oblations of the fat, when he reads the Brahmanas, Itihasas (histories), 
 
 यद्ब्रा॑ह्म॒णानी॑तिहा॒सान्पु॑रा॒णानि॒ कल्पा॒न्गाथा॑ नाराशँ॒सीर् मे॑दाहु॒तिभि॑रे॒व तद्दे॒वाँस्त॑र्पयति।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 पितृतृप्त्या ब्रह्मयज्ञं प्रशस्य देवतृप्त्याऽपि प्रशंसति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓ एनन् तृप्ता᳓ आ᳓युषा ते᳓जसा व᳓र्चसा श्रिया᳓ य᳓शसा ब्रह्मवर्चसे᳓नान्ना᳓द्येन च तर्पयन्ति ॥ 13 ॥ । 10 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -423,5 +506,6 @@ They, being satisfied, make him (the sacrificer) satisfied with the shining, bri
 <details><summary>सायण-टीका</summary>
 
 ऋगध्ययनं यदस्ति तेन क्षीराहुतिसमाना देवानां तृप्तिर्भवति । एवमुत्तरत्रापि योज्यम् । ते देवास्तृप्ताः सन्त एनं यजमानमायुरादिभिस्तर्पयन्ति । तेजः शरीरकान्तिः, वर्चो बलम् ॥
+</details>
 </details>
 

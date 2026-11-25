@@ -3,6 +3,8 @@ title = "०७ ब्राह्मण एकहोता"
 
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 चातुर्मास्येषु केशनिवर्तनेषु 'तदृतं तत्सत्यं' इति जपित्वा  
@@ -26,11 +28,14 @@ Bodily functions identified with the priests, etc. and prayer. Ten Mantras to be
 
 Prayer and bodily functions identified with the priests, etc.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मण᳓ ए᳓क-होता +++(यज्ञः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -52,11 +57,14 @@ Brahman is the sacrificer of one (sacrificing by his maturity only):
 
 ब्राह्मण एकहोतेति चेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ यज्ञः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -67,16 +75,22 @@ he is the sacrifice;
 
 स य॒ज्ञः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 एतदनुवाकगतेषु दशसु पर्यायेषु प्रथमं पर्यायमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -103,11 +117,14 @@ may he grant me offspring, cattle, fame;
 
 योऽयं वेदविद्ब्राह्मणः सोऽयमेकेन स्वकीयेन तपसा जुहोति सर्वस्य जगत उपकरोतीत्येकहोता । स एव ज्योतिष्टोमादिनिष्पादकत्वाद्यज्ञरूपश्च । स ईदृशो ब्राह्मणो मह्यं प्रजादिचतुष्टयं ददातु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञ᳓श् च मे **भूयात्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -146,16 +163,22 @@ and may he become my sacrifice.
 
 +++((ब्रह्मण इदं न मम))+++
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयं पर्यायमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र् द्वि᳓-होता +++(यज्ञः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -171,11 +194,14 @@ The fire is the sacrificer of the two (being useful in cooking and carrying the 
 
 द्वाभ्यां पाकहविर्वहनाभ्यामुपकरोतीति द्विहोता । अत एव पोषकत्वाद्भर्ता । अन्यत्पूर्ववद्व्याख्येयम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ **भर्ता᳓** +++(पाक-हविर्-वहनाभ्यां)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -186,11 +212,14 @@ that is the nourisher;
 
 स भ॒र्ता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -212,11 +241,14 @@ may that grant me offspring, cattle, fame;
 - पु᳓ष्टिम् (*TS*-7/17, *TB*-5/13, *AV*-1/5, *SB-M*-4/6, *SB-K*-9/12, *VS-M*-1/2, *VS-K*-2/5)
 - य᳓शः (*TS*-11, *RV*-24, *TB*-7, *SB-K*-82, *VS-K*-6)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्ता᳓ च मे **भूयात्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -240,16 +272,22 @@ and may that become my nourisher.
 
 अग्निः द्वाभ्यां पाक-हविर्-वहनाभ्यां विश्वं बिभर्तीति द्विहोता यज्ञः । स एव सर्वस्य भर्ता ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिवी᳓ त्रि᳓होता +++(यज्ञः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -271,16 +309,22 @@ The earth is the sacrificer of three (being the place of the fire, food and sacr
 
 त्रिभिरग्न्यन्नयागैरुपकरोतीति त्रिहोतृत्वं सर्वप्राण्याधारत्वेन प्रतिष्ठात्वं च ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ प्रतिष्ठा᳓ ।   (7)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -296,11 +340,14 @@ that is the firm-standing (1);
 
 चतुर्भिर्वाग्वृष्ट्यवकाशस्थानैरुपकाराच्चतुर्होतृत्वं यक्षगन्धर्वादीनामाश्रयत्वाद्विविधस्थितिहेतुत्वं च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -322,11 +369,14 @@ may that grant me offspring, cattle, fame;
 - पु᳓ष्टिम् (*TS*-7/17, *TB*-5/13, *AV*-1/5, *SB-M*-4/6, *SB-K*-9/12, *VS-M*-1/2, *VS-K*-2/5)
 - य᳓शः (*TS*-11, *RV*-24, *TB*-7, *SB-K*-82, *VS-K*-6)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **प्रतिष्ठा᳓** च मे **भूयात्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -355,11 +405,14 @@ and may that become my firm-standing.
 
 +++((पृथिव्या इदं न मम))+++
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षञ् च᳓तुर्-होता +++(यज्ञः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -376,11 +429,14 @@ The mid-region is the sacrificer of the four (being the causer of speech, rain, 
 - अन्त᳓रिक्षम् (*TS*-105/180, *RV*-45/94, *TB*-16/25, *AV*-71/129, *SB-M*-23/26, *SB-K*-173/257, *VS-M*-3/5, *VS-K*-13/32)
 - च᳓तुर्-होता (*TB*-7/37, *AV*-0/1, *SB-K*-0/1)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ विष्ठाः᳓ +++(दिक्-सङ्ख्यया)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -397,11 +453,14 @@ that is the disposer in various ways;
 - सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-28/1327, *AV*-689/3163, *SB-M*-25/2303, *SB-K*-4217/20018, *VS-M*-1/268, *VS-K*-8/395)
 - विष्ठाः᳓ (*TS*-2/4, *SB-K*-4, *VS-M*-4, *VS-K*-3)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -423,11 +482,14 @@ may that grant me offspring, cattle, fame;
 - पु᳓ष्टिम् (*TS*-7/17, *TB*-5/13, *AV*-1/5, *SB-M*-4/6, *SB-K*-9/12, *VS-M*-1/2, *VS-K*-2/5)
 - य᳓शः (*TS*-11, *RV*-24, *TB*-7, *SB-K*-82, *VS-K*-6)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्ठा᳓श् च मे **भूयात्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -456,16 +518,22 @@ and may that become disposer in various ways for me.
 
 (अन्तरिक्षायेदं न मम)
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चममाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायुः᳓ प᳓ञ्च-होता +++(यज्ञः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -487,16 +555,22 @@ The wind is the sacrificer of five (five breaths);
 
 पञ्चभिः प्राणवृत्तिभिरुपकरोतीति पञ्चहोतृत्वम् । वायोः प्राणरूपत्वं प्रसिद्धम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ प्राणः᳓ +++(पञ्चत्वात्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -512,11 +586,14 @@ that is the breath;
 
 षण्णामृतूनां निष्पादकत्वेन षड्ढोतृत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -538,11 +615,14 @@ may that grant me offspring, cattle, fame;
 - पु᳓ष्टिम् (*TS*-7/17, *TB*-5/13, *AV*-1/5, *SB-M*-4/6, *SB-K*-9/12, *VS-M*-1/2, *VS-K*-2/5)
 - य᳓शः (*TS*-11, *RV*-24, *TB*-7, *SB-K*-82, *VS-K*-6)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राण᳓श्च मे **भूयात्** ।   (8)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -571,11 +651,14 @@ and may that become my breath (2).
 
 +++((वायव इदं न मम))+++
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्र᳓माष् ष᳓ड्-ढोता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -597,11 +680,14 @@ The moon is the sacrificer of six (i.e., the seasons);
 
 चन्द्रमा हि वृद्धिक्षयाभ्यां शुक्लकृष्णपक्षद्वारर्तून्कल्पयति । अत एवन्यत्राऽऽम्नातम् - "ऋतूनन्यो विदधज्जायते पुनः" इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ ऋतू᳓न् **कल्पयाति** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -612,11 +698,14 @@ that causes the seasons;
 
 स ऋ॒तून्क॑ल्पयाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -638,11 +727,14 @@ may that grant me offspring, cattle, fame;
 - पु᳓ष्टिम् (*TS*-7/17, *TB*-5/13, *AV*-1/5, *SB-M*-4/6, *SB-K*-9/12, *VS-M*-1/2, *VS-K*-2/5)
 - य᳓शः (*TS*-11, *RV*-24, *TB*-7, *SB-K*-82, *VS-K*-6)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓वश् च मे **कल्पन्ताम्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -671,16 +763,22 @@ and may the seasons be for me.
 
 +++((चन्द्रमस इदं न मम))+++
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तममाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓न्नँ सप्त᳓-होता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -702,16 +800,22 @@ The food is the sacrificer of seven (seven holes of the head);
 
 सप्तानां शीर्षण्यानां प्राणवृत्तीनां पोषकत्वेन सप्तहोतृत्वम् । अत एव प्राणपोषकत्वात्प्राणस्य प्राण इत्युच्यते ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टममाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ प्राण᳓स्य प्राणः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -734,16 +838,22 @@ that is the breath of the breath;
 
 आरोगादिभिः कश्यपान्तैरष्टभिः सूर्यैरुपकरोतीत्यष्टहोतृत्वम् । द्युलोकस्य केनापि निराकर्तुमशक्यत्वादनाधृष्यत्वम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ नवममाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -770,16 +880,22 @@ may that grant me offspring, cattle, fame;
 
 पूर्वोक्तैरष्टभिर्भूतिभिस्तत्रानुगतेन सामान्यरूपेण च नवधोपकारान्नवहोतृत्वम् । तेजस्वित्वं चाऽऽदित्यस्य प्रसिद्धम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ दशममाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राण᳓स्य च मे प्राणो᳓ **भूयात्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -809,11 +925,14 @@ and may that become the breath of my breath.
 
 नव वै पुरुषे प्राणा नाभिर्दशमीति श्रुतानि शरीरगतानि दश च्छिद्राण्युत्पाद्योपकारित्वाद्दशहोतृत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्यौ᳓र् अष्ट᳓-होता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -830,11 +949,14 @@ The heaven is the sacrificer of eight (eight suns);
 - द्यौः᳓ (*TS*-37/270, *RV*-102/854, *TB*-8/68, *AV*-62/339, *SB-M*-5/81, *SB-K*-107/342, *VS-M*-10/102, *VS-K*-16/143)
 - अष्ट᳓-होता (अष्ट᳓ (*TS*-0/16, *RV*-2/6, *TB*-0/2, *AV*-5/7, *SB-M*-0/3, *SB-K*-1/74, *VS-M*-0/1) + हो᳓ता (*TS*-43/63, *RV*-150/244, *TB*-85/112, *AV*-18/28, *SB-M*-75/125, *SB-K*-145/211, *VS-M*-49/57, *VS-K*-54/70), तृतीया कर्मणि पा॰ ६.२.४८, बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓ **ऽनाधृष्यः᳓** ।(9)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -851,11 +973,14 @@ that is one not to be injured (3);
 - सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-28/1327, *AV*-689/3163, *SB-M*-25/2303, *SB-K*-4217/20018, *VS-M*-1/268, *VS-K*-8/395)
 - अनाधृष्यः᳓ (*TS*-1/5, *RV*-0/3, *TB*-1, *AV*-1/2, *SB-M*-0/1, *SB-K*-1/6, *VS-M*-1/2, *VS-K*-1/3)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -877,11 +1002,14 @@ may that grant me offspring, cattle, fame;
 - पु᳓ष्टिम् (*TS*-7/17, *TB*-5/13, *AV*-1/5, *SB-M*-4/6, *SB-K*-9/12, *VS-M*-1/2, *VS-K*-2/5)
 - य᳓शः (*TS*-11, *RV*-24, *TB*-7, *SB-K*-82, *VS-K*-6)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनाधृष्य᳓श् च **भूयासम्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -909,11 +1037,14 @@ and may I become one not to be injured.
 
 +++((दिव इदं न मम))+++
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्यो᳓ न᳓वहोता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -930,11 +1061,14 @@ Aditya is the sacrificer of the nine (eight suns and Aditya);
 - आदित्यः᳓ (*TS*-59/195, *RV*-8/91, *TB*-16/61, *AV*-13/70, *SB-M*-37/72, *SB-K*-218/438, *VS-M*-0/5, *VS-K*-3/31)
 - न᳓व-होता (न᳓व (*MW*) + हो᳓ता (*TS*-43/63, *RV*-150/244, *TB*-85/112, *AV*-18/28, *SB-M*-75/125, *SB-K*-145/211, *VS-M*-49/57, *VS-K*-54/70), तृतीया कर्मणि पा॰ ६.२.४८, बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ तेजस्वी᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -945,11 +1079,14 @@ that is brilliant;
 
 स ते॑ज॒स्वी ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -971,11 +1108,14 @@ may that grant me offspring, cattle, fame;
 - पु᳓ष्टिम् (*TS*-7/17, *TB*-5/13, *AV*-1/5, *SB-M*-4/6, *SB-K*-9/12, *VS-M*-1/2, *VS-K*-2/5)
 - य᳓शः (*TS*-11, *RV*-24, *TB*-7, *SB-K*-82, *VS-K*-6)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेजस्वी᳓ च भूयासम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1003,11 +1143,14 @@ and may I become brilliant.
 
 +++((आदित्यायेदं इदं न मम))+++
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिर् द᳓श-होता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1018,11 +1161,14 @@ Prajāpati is the sacrificer of ten (nine holes of the body and the navel)
 
 प्र॒जाप॑ति॒र्दश॑होता।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ इदँ᳓ स᳓र्वम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1045,11 +1191,14 @@ he is this all
 
 सर्वजगत्कारणत्वेन सर्वात्मकत्वं प्रजापतेः प्रसिद्धम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1071,11 +1220,14 @@ may he grant me offspring, cattle, fame
 - पु᳓ष्टिम् (*TS*-7/17, *TB*-5/13, *AV*-1/5, *SB-M*-4/6, *SB-K*-9/12, *VS-M*-1/2, *VS-K*-2/5)
 - य᳓शः (*TS*-11, *RV*-24, *TB*-7, *SB-K*-82, *VS-K*-6)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वञ् च मे **भूयात्** ।   (10)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1103,4 +1255,5 @@ and may all be mine (4).
 <details><summary>होमे त्यागः</summary>
 
 +++((प्रजापतय इदं न मम))+++
+</details>
 </details>

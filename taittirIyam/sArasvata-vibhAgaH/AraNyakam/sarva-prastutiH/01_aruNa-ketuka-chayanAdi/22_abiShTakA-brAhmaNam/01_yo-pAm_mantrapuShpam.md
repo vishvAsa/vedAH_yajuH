@@ -2,6 +2,8 @@
 title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अतः परमबिष्टकानां ब्राह्मणम् ।  
@@ -17,12 +19,15 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 
 Brāhmaṇas (praises etc.) relating to the placing of bricks. 1–9. Waters as the abodes of the things.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [[यो᳓|यो᳙]]ऽपां᳓ पु᳓ष्पव्ँ वे᳓द  
 पु᳓ष्पवान् प्रजा᳓वान् पशुमा᳓न्+++(→ह्रस्वनुड्भ्यां मतुप्। उदात्तः।)+++ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -39,16 +44,22 @@ Brāhmaṇas (praises etc.) relating to the placing of bricks. 1–9. Waters as 
 
 तत्राऽदौ तावदापो बहुधा प्रशस्यन्ते ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्र प्रथमां प्रशंसामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्र᳓मा वा᳓ अपां᳓ पु᳓ष्पम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -72,12 +83,15 @@ The moon (Candramas) is, verily, the flower of the waters.[P109_1]
 
 अमृतमयं हि चन्द्रमण्डलम् । अतो जलकार्यत्वादपां पुष्पस्थानीयम् । एतस्य वेदिता स्वयं भोगार्थं चम्पकबकुलादिपुष्पैः पुत्रादिप्रजया गवादिपशुभिश्च समृद्धो भवति । वेदने प्ररोचनार्थमादौ फलकथनम्, उपसंहारार्थं पुनः कथनम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓ष्पवान् प्रजा᳓वान् पशुमा᳓न् भवति  
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -98,19 +112,24 @@ He, who knows thus, becomes the possessor of flower, progeny and cattle.
 अपि त्व् अपां पुष्पतया यो वेद  
 इति प्रतिपादनार्थम् । एवं सर्वत्र ॥१॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 एवमिदानीम् अपाम् अग्न्यादीनां च परस्पराधार्याधार-भावेन जगत्-प्रतिष्ठाकारणत्वं प्रतिपादयति -
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳙ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -129,13 +148,15 @@ He, who knows the abode of the waters, becomes the possessor of an abode.
 तच्च यथासम्भवं यथाकथञ्चित् कल्प्यम् ।  
 ज्ञानमात्रं फलाय भवति श्रुतिसामर्थ्यात् ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र् वा᳓ अपा᳓म् आय᳓तनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -151,13 +172,15 @@ The fire is, verily, the abode of the waters.
 
 अपां कारणमग्निः "अग्नेरापः" इति दर्शनात् । यद्वा - आहुत्याद्यात्मिकानामपाम् आदित्यात्मा अग्निः स्थानं "अग्नौ प्रास्ताहुतिस्सम्यगादित्यमुपतिष्ठते" इति ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -173,7 +196,7 @@ The fire is, verily, the abode of the waters.
 
 एवं वेदिता शोभनायतनः शोभनकारणो वा भवति ॥२॥
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -181,6 +204,8 @@ The fire is, verily, the abode of the waters.
 यो᳙ ऽग्ने᳓र् आय᳓तनव्ँ वे᳓द[77]  
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -192,16 +217,22 @@ He, who knows the abode of the fire, becomes the possessor of an abode; (yea) be
 यो॑ऽग्नेरा॒यत॑नव्ँ॒ वेद॑[77]  
 आ॒यत॑नवान्भवति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयां प्रशंसामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो वा᳓ अग्ने᳓र् आय᳓तनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -224,12 +255,15 @@ Waters are, verily, the abode of the fire.[P109_2]
 
 सृष्टिश्रुतौ "अग्नेरापः" इत्यग्नेर्जलकारणत्वाभिधानादग्निरपामाश्रयः । अत्रापि प्ररोचनार्थमादौ फलकथनम्, उपसंहारार्थं पुनरप्यायतनवानित्यभिधानम् । तत्र य एवं वेदेत्यध्याहरणीयम् । महासृष्टावपामग्निकार्यत्वेऽपि ब्रह्माण्डाद्यवान्तरसृष्टौ "आपो वा इदमासन्सलिलमेव" इत्यादिवाक्येनापां सर्वकारणत्वाभिधानाद्ब्रह्माण्डान्तःपातिनोऽस्मद्दृश्यस्याग्नेर्जलकार्यत्वादपामग्न्याधारत्वम् । अत्रापि प्ररोचनार्थमुपसंहारार्थं द्विः फलकथनम् । सेयं जलाग्न्योः परस्पराधारोक्तिर्द्वितीया प्रशंसा । एवमुत्तरत्र द्रष्टव्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आय᳓तनवान् भवति  
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -241,14 +275,16 @@ He, who knows thus, becomes the possessor of an abode (1).
 आ॒यत॑नवान्भवति ।  
 य ए॒वव्ँ वेद॑ ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳙ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -267,13 +303,15 @@ He, who knows the abode of the waters, becomes the possessor of an abode.
 तच्च यथासम्भवं यथाकथञ्चित् कल्प्यम् ।  
 ज्ञानमात्रं फलाय भवति श्रुतिसामर्थ्यात् ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायु᳓र् वा᳓ अपा᳓म् आय᳓तनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -289,13 +327,15 @@ The wind is, verily, the abode of the waters.
 
 वायुरपां कारणं स्रवणहेतुत्वात् ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -311,12 +351,15 @@ The wind is, verily, the abode of the waters.
 
 एवं वेदिता शोभनायतनः शोभनकारणो वा भवति ॥२॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयां प्रशंसामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -325,6 +368,8 @@ The wind is, verily, the abode of the waters.
 आय᳓तनवान् भवति ।  
 [78]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -342,16 +387,22 @@ He, who knows the abode of the wind, becomes the possessor of an abode; (yes) be
 
 महासृष्टौ "वायोरग्निः । अग्नेनापः" इति श्रुतेरग्निद्वारा वायोरप्कारणत्वादायतनत्वम् । अपां त्ववान्तरसृष्टौ पूर्वोक्तन्यायेन वाय्वाधारत्वम् । अन्यत्पूर्ववद्व्याख्येयम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो वै᳓ वायो᳓र् आय᳓तनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -375,14 +426,16 @@ The waters are, verily, the abode of the wind.[P109_3][P109_4]
 
 योऽसावादित्यस्तपन्नुपलभ्यते सोऽयमपामाधारः । "आदित्याज्जायते वृष्टिः" इति जलकारणस्मृतेः । अपां च पूर्ववदादित्याधारत्वं द्रष्टव्यम् ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati_ya_evaM_veda.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आय᳓तनवान् भवति ।  
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -394,16 +447,17 @@ He, who knows thus, becomes the possessor of an abode.
 आ॒यत॑नवान्भवति ।  
 य ए॒वव्ँ वेद॑ ।
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳙ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -422,13 +476,15 @@ He, who knows the abode of the waters, becomes the possessor of an abode.
 तच्च यथासम्भवं यथाकथञ्चित् कल्प्यम् ।  
 ज्ञानमात्रं फलाय भवति श्रुतिसामर्थ्यात् ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असौ᳓ वै᳓ त᳓पन्न् अपा᳓म् आय᳓तनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -444,13 +500,15 @@ That burning (sun) is, verily, the abode of the waters.
 
 असौ तपन्नादित्यो ऽपां कारणं "आदित्याज्जायते वृष्टिः" इति ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -466,7 +524,7 @@ That burning (sun) is, verily, the abode of the waters.
 
 एवं वेदिता शोभनायतनः शोभनकारणो वा भवति ॥२॥
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -474,6 +532,8 @@ That burning (sun) is, verily, the abode of the waters.
 [[यो᳓|यो᳙]]ऽमु᳓ष्य त᳓पत आय᳓तनव्ँ वे᳓द ।  
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -487,12 +547,15 @@ He, who knows the abode of that burning (sun), becomes the possessor of an abode
 यो॑ऽमुष्य॒ तप॑त आ॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो वा᳓ अमु᳓ष्य त᳓पत आय᳓तनम् ।  
 [79]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -504,14 +567,16 @@ He, who knows the abode of that burning (sun), becomes the possessor of an abode
 
 आदित्यस्य चापः कारणं तासां सर्वयोनित्वात् ॥४॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati_ya_evaM_veda.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आय᳓तनवान् भवति ।  
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -523,16 +588,17 @@ He, who knows thus, becomes the possessor of an abode.
 आ॒यत॑नवान्भवति ।  
 य ए॒वव्ँ वेद॑ ।
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳙ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -551,18 +617,23 @@ He, who knows the abode of the waters, becomes the possessor of an abode.
 तच्च यथासम्भवं यथाकथञ्चित् कल्प्यम् ।  
 ज्ञानमात्रं फलाय भवति श्रुतिसामर्थ्यात् ।
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्र᳓मा वा᳓ अपा᳓म् आय᳓तनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -583,13 +654,15 @@ The moon, verily, is the abode of the waters.
 
 तुहिनरूपाणां किरणानां चन्द्रजन्यत्वाच्चन्द्रमसो जलाधारत्वम् ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -605,7 +678,7 @@ The moon, verily, is the abode of the waters.
 
 एवं वेदिता शोभनायतनः शोभनकारणो वा भवति ॥२॥
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -613,6 +686,8 @@ The moon, verily, is the abode of the waters.
 य᳓श् चन्द्र᳓मस आय᳓तनव्ँ वे᳓द ।
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -624,11 +699,14 @@ He, who knows the abode of the moon, becomes the possessor of an abode; (yea) be
 यश्च॒न्द्रम॑स आ॒यत॑नव्ँ॒ वेद॑ ।
 आ॒यत॑नवान्भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो वै᳓ चन्द्र᳓मस आय᳓तनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -646,14 +724,16 @@ The waters are, verily, the abode of the moon.[P110_1]
 
 चन्द्रमसश् च आपो योनयस् तद्विकारत्वात् । ॥५॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati_ya_evaM_veda.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आय᳓तनवान् भवति ।  
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -665,16 +745,17 @@ He, who knows thus, becomes the possessor of an abode.
 आ॒यत॑नवान्भवति ।  
 य ए॒वव्ँ वेद॑ ।
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳙ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -693,13 +774,15 @@ He, who knows the abode of the waters, becomes the possessor of an abode.
 तच्च यथासम्भवं यथाकथञ्चित् कल्प्यम् ।  
 ज्ञानमात्रं फलाय भवति श्रुतिसामर्थ्यात् ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓क्षत्राणि वा᳓ अपा᳓म् आय᳓तनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -715,13 +798,15 @@ The constellations are, verily, the abode of the waters.
 
 नक्षत्राण्यपामायतनं कारणं चन्द्रादियोगवशेन वर्षहेतुत्वात् ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -737,12 +822,15 @@ The constellations are, verily, the abode of the waters.
 
 एवं वेदिता शोभनायतनः शोभनकारणो वा भवति ॥२॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -750,6 +838,8 @@ The constellations are, verily, the abode of the waters.
 यो᳓ न᳓क्षत्राणाम् आय᳓तनव्ँ वे᳓द ।  
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -766,11 +856,14 @@ He, who knows the abode of the constellations, becomes the possessor of an abode
 
 पुष्याश्लेषादिषु महानक्षत्रेषु वर्तमानेषु वृष्ट्याधिक्यदर्शनान्नक्षत्राणामबाधारत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो वै᳓ न᳓क्षत्राणाम् आय᳓तनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -788,14 +881,16 @@ The waters are, verily, the abode of constellations.[P110_2]
 
 नक्षत्राणां च आपः कारणं ताभिर्विना तेषामवस्थानाभावात् ॥६॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati_ya_evaM_veda.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आय᳓तनवान् भवति ।  
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -807,18 +902,19 @@ He, who knows thus, becomes the possessor of an abode.
 आ॒यत॑नवान्भवति ।  
 य ए॒वव्ँ वेद॑ ।
 </details>
-
+</details>
 </div>
 
 [81]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳙ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -837,13 +933,15 @@ He, who knows the abode of the waters, becomes the possessor of an abode.
 तच्च यथासम्भवं यथाकथञ्चित् कल्प्यम् ।  
 ज्ञानमात्रं फलाय भवति श्रुतिसामर्थ्यात् ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर्ज᳓न्यो वा᳓ अपा᳓म् आय᳓तनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -859,13 +957,15 @@ The rain is, verily, the abode of the waters.
 
 पर्जन्योऽपां कारणं वृष्टिहेतुत्वात् ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -881,7 +981,7 @@ The rain is, verily, the abode of the waters.
 
 एवं वेदिता शोभनायतनः शोभनकारणो वा भवति ॥२॥
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -889,6 +989,8 @@ The rain is, verily, the abode of the waters.
 यः᳓ पर्ज᳓न्यस्याय᳓तनव्ँ वे᳓द ।  
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -900,16 +1002,22 @@ He, who knows the abode of the rain, becomes the possessor of an abode, (yea) be
 यः प॒र्जन्य॑स्या॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तमीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो वै᳓ पर्ज᳓न्यस्याय᳓तनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -930,14 +1038,16 @@ The waters are, verily, the abode of the rain.
 
 वृष्टिद्वारा पर्जन्याख्यस्य मेघस्य जलाधारत्वं प्रसिद्धम् ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati_ya_evaM_veda.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आय᳓तनवान् भवति ।  
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -949,16 +1059,17 @@ He, who knows thus, becomes the possessor of an abode.
 आ॒यत॑नवान्भवति ।  
 य ए॒वव्ँ वेद॑ ।
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳙ ऽपा᳓म् आय᳓तनव्ँ वे᳓द  
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -977,18 +1088,23 @@ He, who knows the abode of the waters, becomes the possessor of an abode.
 तच्च यथासम्भवं यथाकथञ्चित् कल्प्यम् ।  
 ज्ञानमात्रं फलाय भवति श्रुतिसामर्थ्यात् ।
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँवत्सरो᳓ वा᳓ अपा᳓म् आय᳓तनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1011,13 +1127,15 @@ The year is, verily, the abode of the waters.[P110_3]
 
 वर्षर्तुद्वारा संवत्सरस्य जलाधारत्वम् ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आय᳓तनवान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1033,7 +1151,7 @@ The year is, verily, the abode of the waters.[P110_3]
 
 एवं वेदिता शोभनायतनः शोभनकारणो वा भवति ॥२॥
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1042,16 +1160,21 @@ The year is, verily, the abode of the waters.[P110_3]
 आय᳓तनवान् भवति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 यस्सव्ँ॑वत्स॒रस्या॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो वै᳓ सव्ँवत्सर᳓स्याय᳓तनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1062,14 +1185,16 @@ The year is, verily, the abode of the waters.[P110_3]
 
 संवत्सरस्यापः कारणम् अपां कालात्मना परिणामात् ॥८॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/AyatanavAn_bhavati_ya_evaM_veda.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आय᳓तनवान् भवति ।  
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1081,12 +1206,15 @@ He, who knows thus, becomes the possessor of an abode.
 आ॒यत॑नवान्भवति ।  
 य ए॒वव्ँ वेद॑ ।
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ नवमीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1095,6 +1223,8 @@ He, who knows thus, becomes the possessor of an abode.
 प्र᳓त्य् एव᳓ तिष्ठति ।  
 [83]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1116,5 +1246,6 @@ He, who knows thus, becomes the possessor of an abode.
 <details><summary>सायण-टीका</summary>
 
 यः पुमानप्सु प्रतिष्ठितां स्थैर्येणावस्थितां नावं वेद स स्वयं लोके प्रतिष्ठायुक्तो भवति ।
+</details>
 </details>
 

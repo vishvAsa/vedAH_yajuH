@@ -2,6 +2,8 @@
 title = "८२ पृ॒थि॒वी स॒मित्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 सूत्रेऽवान्तरदीक्षां व्याख्यास्याम इत्युपक्रम्याभिहितम् - "चतस्र औदुम्बरीः समिधो घृतान्वक्ता अभ्यादधाति पृथिवीसमिदित्येतैर्मन्त्रैः" इति । तत्र प्रथमं मन्त्रमाह -
@@ -13,11 +15,14 @@ Offering of the Udumbara wood to the fire while making consecration.
 
 *(Mantras 1–3)* Mantras for offering the Udumbara wood.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिवी᳓ समि᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -44,11 +49,14 @@ Offering of the Udumbara wood to the fire while making consecration.
 
 पृथिवी देवता सम्यग्दीप्यमानत्वात्समिदित्युच्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓मग्नि᳓स्स᳓मिन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -72,11 +80,14 @@ the fire burned that,
 
 तामग्निस्समिन्धे दीपयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ऽग्निँ᳓ स᳓मिन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -105,11 +116,14 @@ that (earth) burned the fire;
 
 तां पृथिव्याख्यां समिधमग्निर्देवः समिन्धे सम्यग्दीपितवान् । सा च पृथिव्याख्या समिदग्निं देवं समिन्धे सम्यग्दीपयति । तां पृथिवीरूपां समिधमहं समिन्धे सम्यक्प्रकाशयामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -133,6 +147,7 @@ I burned that (earth),
 
 तामहं समिन्धे समेधयामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -142,6 +157,8 @@ I burned that (earth),
 य᳓शसा ब्रह्मवर्चसे᳓न ।  
 अन्ना᳓द्येन स᳓मिन्ताँ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -184,5 +201,6 @@ may that, being burnt, burn me (make me shine) with life, brilliance, splendour,
 <details><summary>सायण-टीका</summary>
 
 सा च देवता मया समिद्धा सती मामायुरादिभिः समिन्तां सम्यक्प्रकाशयतु । तेजः शरीरकान्तिः । वर्चो बाह्यदीप्तिः ।
+</details>
 </details>
 

@@ -2,6 +2,8 @@
 title = "०४ भूर् अग्नये"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 पूजाकामस्य पुनरप्यन्यपाठमाह —
@@ -11,12 +13,15 @@ title = "०४ भूर् अग्नये"
 
 *(Mantra 1)* Mantra for worship.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓रग्न᳓ये च पृथिव्यै᳓ च महते᳓ च स्वा᳓हा॥  
 +++((अग्नये महत इदं न मम))+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -49,12 +54,15 @@ Bhuh, Hail for the fire, for the earth and for the great!
 
 महते प्रौढाय पूज्याय वा हिरण्यगर्भाय। चकारैस्तत्तद्देवतानां सेवका देवाः परिगृह्यन्ते। तेभ्योऽपि स्वाहुतमित्युक्तं भवति। महर्रो पूजां प्राप्नवानि॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भु᳓वो वाय᳓वे चान्त᳓रिक्षाय च महते᳓ च स्वा᳓हा॥  
 +++((वायवे महत इदं न मम))+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -77,12 +85,15 @@ Bhuvah, Hail for the wind, for the mid-region and for the great!
 - च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747)
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓वरादित्या᳓य च दिवे᳓ च महते᳓ च स्वा᳓हा॥  
 +++((आदित्याय महत इदं न मम))+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -105,12 +116,15 @@ Suvah, Hail for the sun, for the heaven and for the great!
 - च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747)
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓र्भु᳓वस्सु᳓वश्चन्द्र᳓मसे च न᳓क्षत्रेभ्यश्च दिग्भ्य᳓श्च महते᳓  च स्वा᳓हा॥  
 +++((चन्द्रमसे महत इदम्))+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -137,11 +151,14 @@ Bhuh, Bhuvah, Suvah, Hail for the moon, for the stars, for the quarters and for 
 - च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747)
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो देवे᳓भ्यस् स्वधा᳓ पितृ᳓भ्यो, भू᳓र्भु᳓वस्सु᳓वर्म᳓हरो᳓म् । (14) - । 4 ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -164,4 +181,5 @@ Salutation to the gods; Svadha (Hail) for the fathers! Bhuh, Bhuvah, Suvah, Maha
 - सु᳓वः (*TS*-67, *TB*-12, *SB-K*-117, *VS-K*-22)
 - म᳓हः (*TS*-6/35, *RV*-8/255, *TB*-14/29, *AV*-11/39, *SB-M*-11/24, *SB-K*-18/34, *VS-M*-2/33, *VS-K*-3/34)
 - ओ᳓म् (*TK*-1, *SB-K*-28, *VS-K*-1)
+</details>
 </details>

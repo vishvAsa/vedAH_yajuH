@@ -2,6 +2,8 @@
 title = "०३ भूर् अन्नम्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अन्नसमृद्धिकामस्य तेष्वेव मन्त्रेषु पाठान्तरमाह —
@@ -11,12 +13,15 @@ title = "०३ भूर् अन्नम्"
 
 *(Mantra 1)* Mantra for obtaining abundant food.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓र᳓न्नमग्न᳓ये पृथिव्यै᳓ स्वा᳓हा॥  
 +++((अग्नये पृथिव्या इदं न मम))+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -46,12 +51,15 @@ Bhuh, the food, Hail for the fire and for the earth!
 
 अन्नद्रव्यं स्वाहुतमस्तु। समृद्धमन्नमों प्राप्नोमीतियेतावानेव विशेषः॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भु᳓वो᳓ऽन्नव्ँ वाय᳓वेऽन्त᳓रिक्षाय स्वा᳓हा॥  
 +++((वायवे अन्तरिक्षायेदं न मम))+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -71,12 +79,15 @@ Bhuvah, the food, Hail for the wind and for the mid-region!
 - अन्त᳓रिक्षाय (*TS*-17/180, *RV*-0/94, *TB*-1/25, *AV*-5/129, *SB-M*-2/26, *SB-K*-5/257, *VS-M*-0/5, *VS-K*-0/32)
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓वर᳓न्नमादित्या᳓य दिवे᳓ स्वा᳓हा॥  
 +++((आदित्याय दिव इदं न मम))+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -96,12 +107,15 @@ Suvah, the food, Hail for the sun and for the heaven!
 - दिवे᳓ (*TS*-19/270, *RV*-15/854, *TB*-5/68, *AV*-8/339, *SB-M*-6/81, *SB-K*-10/342, *VS-M*-7/102, *VS-K*-13/143)
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓र्भु᳓वस्सु᳓वर᳓न्नञ्चन्द्र᳓मसे दिग्भ्य᳓स्स्वा᳓हा॥  
 +++((चन्द्रमसे दिग्भ्य इदं न मम))+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -123,11 +137,14 @@ Bhuh, Bhuvah, Suvah, the food, Hail for the moon and for the quarters!
 - दिग्भ्यः᳓ (*TS*-21/24, *TB*-3, *AV*-3, *SB-M*-4, *SB-K*-33, *VS-M*-5, *VS-K*-6)
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो देवे᳓भ्यस् स्वधा᳓ पितृ᳓भ्यो भू᳓र्भु᳓वस्सु᳓वर᳓न्नमो᳓म् । (13) - । 3 ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -150,4 +167,5 @@ Salutation to the gods; Svadha (Hail) for the fathers, Bhuh, Bhuvah, Suvah, the 
 - सु᳓वः (*TS*-67, *TB*-12, *SB-K*-117, *VS-K*-22)
 - अ᳓न्नम् (*TS*-185/201, *RV*-27/38, *TB*-52/55, *AV*-43/55, *SB-M*-55/68, *SB-K*-611/797, *VS-M*-0/1, *VS-K*-1/4)
 - ओ᳓म् (*TK*-1, *SB-K*-28, *VS-K*-1)
+</details>
 </details>

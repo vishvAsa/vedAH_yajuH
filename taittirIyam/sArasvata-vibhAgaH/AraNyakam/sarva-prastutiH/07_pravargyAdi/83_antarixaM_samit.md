@@ -2,15 +2,20 @@
 title = "८३ अ॒न्तरि॑क्षँ॒ स॒मित्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयतृतीयमन्त्रावाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षँ समि᳓त् । (82)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -37,11 +42,14 @@ title = "८३ अ॒न्तरि॑क्षँ॒ स॒मित्"
 
 पूर्ववद्व्याख्येयौ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताव्ँ᳓ वायु᳓स्स᳓मिन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -60,11 +68,14 @@ the wind burned that;
 - स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ वायुँ᳓ स᳓मिन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -83,11 +94,14 @@ that burned the wind;
 - स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -106,6 +120,7 @@ I burned that;
 - स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,6 +130,8 @@ I burned that;
 य᳓शसा ब्रह्मवर्चसे᳓न ।  
 अन्ना᳓द्येन स᳓मिन्ताँ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -147,4 +164,5 @@ may that, being burnt, make me shine with life, brilliance, splendour, prosperit
 - स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
 - इन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
+</details>
 </details>

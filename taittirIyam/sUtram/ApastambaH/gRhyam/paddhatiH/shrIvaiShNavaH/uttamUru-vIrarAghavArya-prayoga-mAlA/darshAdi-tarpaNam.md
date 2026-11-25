@@ -184,11 +184,9 @@ y los medios de alcanzarlo).
 [[161]]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
-
-ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
-पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
-
+ऊ᳓र्जं व᳓हन्तीर् अमृ᳓तं घृतं᳓  
+प᳓यः कीला᳓लं परिस्रु᳙तम्।  
+स्वधा᳓ स्थ तर्प᳓यत मे पितॄ᳓न् ॥३४॥
 </div>  
 
 इति तिलोदकं दत्त्वा,
@@ -222,11 +220,9 @@ y los medios de alcanzarlo).
 इति भुग्नेन दर्भेणाऽऽसनं दत्त्वा, (इदमर्चनम् इति तिलैरर्चनम्) ...
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
-
-ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
-पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
-
+ऊ᳓र्जं व᳓हन्तीर् अमृ᳓तं घृतं᳓  
+प᳓यः कीला᳓लं परिस्रु᳙तम्।  
+स्वधा᳓ स्थ तर्प᳓यत मे पितॄ᳓न् ॥३४॥
 </div>  
 
 इति तिलोदकं दत्त्वा,
@@ -292,11 +288,9 @@ y los medios de alcanzarlo).
 इति त्रिः तिलोदकं दत्त्वा ।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
-
-ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
-पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
-
+ऊ᳓र्जं व᳓हन्तीर् अमृ᳓तं घृतं᳓  
+प᳓यः कीला᳓लं परिस्रु᳙तम्।  
+स्वधा᳓ स्थ तर्प᳓यत मे पितॄ᳓न् ॥३४॥
 </div>  
 
 > ... गोत्रान् .... शर्मणः रुद्ररूपान् अस्मत्पितामहान् स्वधा नमस्तर्ययामि । 
@@ -484,11 +478,9 @@ y los medios de alcanzarlo).
 इति त्रिः तिलोदकं दत्त्वा ।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
-
-ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
-पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
-
+ऊ᳓र्जं व᳓हन्तीर् अमृ᳓तं घृतं᳓  
+प᳓यः कीला᳓लं परिस्रु᳙तम्।  
+स्वधा᳓ स्थ तर्प᳓यत मे पितॄ᳓न् ॥३४॥
 </div>  
 
 > ...गोत्रान् ... शर्मणः रुद्ररूपान् अस्मन्मातुःपितामहान् स्वधा नमस्तर्ययामि । 
@@ -622,11 +614,9 @@ y los medios de alcanzarlo).
 इति उभयेषु दर्भेषु त्रिरुदकाञ्जलिं दत्त्वा
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
-
-ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
-पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
-
+ऊ᳓र्जं व᳓हन्तीर् अमृ᳓तं घृतं᳓  
+प᳓यः कीला᳓लं परिस्रु᳙तम्।  
+स्वधा᳓ स्थ तर्प᳓यत मे पितॄ᳓न् ॥३४॥
 </div>  
 
 इति उभयान् दर्भान् तिलोदकेन परिषिच्य, तृप्यत तृप्यत तृप्यत .... इति त्रिः उच्चार्य (त्रीन् उदकाञ्जलीन् दत्त्वा) उत्थाय दक्षिणाभिमुखः तिष्ठन्न् अञ्जलिं बद्ध्वा, 

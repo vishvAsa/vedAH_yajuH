@@ -4,6 +4,8 @@ title = "१७ चमसोपादानम् आप्यायस्व"
 
 _______
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 चमसोपदंसने प्रायश्चित्तं - आप्यायस्वेति गायत्री ॥
@@ -19,6 +21,7 @@ _______
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 Funeral Mantra to be uttered when sprinkling water on the excavation made for burning the dead one.
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
@@ -66,8 +69,11 @@ O Soma, the exalted one, be satisfied by all protections; be increased for us.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 हे मदिन्तमातिशयेन हर्षयुक्त सोम विश्वाभिरूतिभिः सर्वप्रकारैरस्मदीयरक्षणैराप्यायस्व सर्वतो वर्धस्व । नोऽस्मान्प्रति सप्रथस्तमोऽतिशयेन प्रथायुक्तो भव ॥
+</details>
 </details>
 

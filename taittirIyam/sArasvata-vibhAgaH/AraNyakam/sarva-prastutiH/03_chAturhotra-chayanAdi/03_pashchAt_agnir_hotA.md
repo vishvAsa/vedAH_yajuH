@@ -5,6 +5,8 @@ title = "०३ पश्चात् अग्निर् होता"
 
 ## होता
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पश्चाद् उदञ्चं पञ्चहोतारम् उपदधाति - अग्निर्होतेति ॥
@@ -18,11 +20,14 @@ title = "०३ पश्चात् अग्निर् होता"
 
 तत्पाठस्तु -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र् हो᳓ता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -43,11 +48,14 @@ The fire is the Hotṛ priest;
 
 अग्न्यादयः प्रसिद्धाः । अध्वर्युः प्रतिप्रस्थाता चेत्येवमध्वर्युद्वित्वेन होतृपञ्चकं पूरणीयम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वि᳓नाऽध्वर्यू᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -63,11 +71,14 @@ Aśvins, the Adhvaryu priest;
 
 कर्मठत्वात् अश्विनौ अध्वर्यू अध्वरस्य नेतारौ अध्वर्युः प्रतिप्रस्थाता च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓ष्टाऽग्नी᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -89,11 +100,14 @@ Tvaṣṭr, verily, the fire;
 
 त्वष्टा अग्नीत् आग्नीध्रः उत्तेजनहेतुत्वात्, अग्नीधश्च विहरणादिकृत्त्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्र᳓ उपवक्ता᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -115,8 +129,11 @@ Mitra, the impeller.
 
 मित्र उपवक्ता ब्रह्मा, कर्मसाक्षित्वात् ॥
 </details>
+</details>
 
 ## ग्रहेष्टका
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -127,11 +144,14 @@ Mitra, the impeller.
 
 अथ ग्रहभागानाह -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मस् +++(वल्ली-रूपेण)+++ सो᳓मस्य **पुरो-गाः᳓** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -154,11 +174,14 @@ Soma is the first going one of the Soma-plant;
 
 योऽयं देवतात्मकः सोमः सोऽयं लतात्मकस्य यागदेशं प्रत्यागमने पुरतो गच्छति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक्र᳓श् शुक्र᳓स्य **पुरो-गाः᳓** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -174,12 +197,15 @@ the white Soma-juice is the first going one of the white (shining Mantras).
 
 शुक्रो भासको देवतादिप्रकाशको मन्त्रः शुक्रस्य गृह्यमाणतया भासमानस्य सोमस्य पुरतो गच्छति । आदौ मन्त्रं पठित्वा पश्चात्सोमो गृह्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **श्राता᳓स्**+++(=पक्वाः)+++ त इन्द्र सो᳓माः ।  
 वा᳓तापेर्+++(←वात+आप्)+++ हवन-**श्रु᳓तस्** +++(←श्रुत् ←श्रु [त इन्द्र])+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -215,6 +241,7 @@ Indra, Soma-juices have been prepared for you, who are of the speed of the wind 
 <details><summary>सायण-टीका</summary>
 
 हे इन्द्र ते त्वदर्थमेते सोमाः श्राताः पक्वाः, आश्रिता वा । कीदृशस्य ते । वातवदाप्नोति सहसा गच्छतीति वातापिस्तस्य । हवनमाह्वानं शृणोतीति हवनश्रुत्तस्य । एतदर्थं जुहुधीति स्वकीया वागाह ॥
+</details>
 </details>
 
 (3)

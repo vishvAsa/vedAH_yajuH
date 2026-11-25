@@ -9,6 +9,8 @@ unicode_script: devanagari
 सह᳓ नाव् अवतु ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>त्रिभुवनः</summary>
 
 Harih Om. May (Brahman) protect us both together.[P282_2]
@@ -32,11 +34,14 @@ Harih Om. May (Brahman) protect us both together.[P282_2]
 
 अथ वारुण्य उपनिषद आरभ्यन्ते - सह नाववत्वित्यादौ ।। नौ त्वां मां च शिष्यं च अधीयमानं ब्रह्म अवतु रक्षतु मिथ्याधीतत्वादिदोषप्रसङ्गो यथा न भवति तथा करोतु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह᳓ नौ भुनक्तु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -59,11 +64,14 @@ May (He) nourish us both together.
 
 किञ्च - नौ आवां सह भुनक्त्व् अध्ययनफलभागेन योजयतु । अन्तर्भावितण्यर्थस्य परस्मैपदम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह᳓ वीर्यं᳙ करवावहै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -86,12 +94,15 @@ May we both show strength together.
 
 सहैव आवां वीर्यं करवावहै उत्पादयावहै । लेट्याडागमः । अन्यतरापचारे निर्वीयत्वादिप्रसङ्गात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेजस्वि᳓ नाव् अ᳓धीतम् अस्तु,  
 मा᳓ वि᳓द्विषावहै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -119,11 +130,14 @@ May the learning of us both be brilliant. May we not hate each other.
 
 किञ्च - नौ आवयोर् अधीतम् अध्ययनं तेजस्वि तेजस्करम् अस्तु । ततः परमावां मा विद्विषावहै परस्परं विद्वेषं माकार्ष्व । लेटयाडागमः । 'वैतोऽन्यत्र' इत्याकारः ।
 </details>
+</details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (2/4 व्यत्यस्त-स्वराः)</summary>
 
 [[ओं|ओं᳓]] शा᳓न्तिः [[शा᳓न्तिः|शान्तिः]] [[शा᳓न्तिः|शान्तिः]] ।। (23)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -146,4 +160,5 @@ Om. Peace, peace, peace.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 शान्तेर् वचनम् उक्तप्रयोजनम् ॥
+</details>
 </details>

@@ -2,6 +2,8 @@
 title = "०८ चरूपध्नम्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तत्र पञ्च चरून् उपदधाति - प्रथमा जगती ।  
@@ -23,6 +25,7 @@ title = "०८ चरूपध्नम्"
 
 Mantras for putting the Caru.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -31,6 +34,8 @@ Mantras for putting the Caru.
 योनि-कृ᳓तः पथिकृ᳓तस् सपर्यत  
 ये᳓ देवा᳓नाङ् घृत᳓भागा इह᳓ स्थ᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -75,11 +80,14 @@ May the Caru (food as oblation) with Apupa (particular bread) and ghee take plac
 
 पक्वा भक्ष्याः पिष्ट-विकारा अपूपाः, ते यस्य चरोः सन्ति सो ऽयम् अपूपवान्। तथा घृतवान् प्रभूत-घृत-युक्तः। तादृशश् चरुर् इहास्मिन् स्थाने पूर्वस्यां दिश्य् आसीदतु, उपविशतु। किं कुर्वन्? पृथिवीम् एताम् उत्तभ्नुवन्न् ऊर्ध्वं स्तब्धां कुर्वन्। उतापि च द्यां द्यु-लोकम् उपर्य् ऊर्ध्व-भाग उत्तभ्नुवन्। देवानां मध्ये ये देव-विशेषा यूयम् इहास्मिन्न् उपधाने घृत-भागाः स्थ घृत-सेविनो भवथ,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा᳓ ते यम-सा᳓दने स्वधा᳓ नि᳓धीयते गृहे᳙ऽसौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -112,12 +120,15 @@ This is put Svadha (food) for you in the home of Yama, O...(dead one!).
 
 ये(ते) यूयं योनि-कृतः स्थान-कारिणः पथि-कृतो मार्ग-कारिणश् च सन्तः सपर्यत परिचरत। असौ देवदत्तादि-नामक हे प्रेत, ते तव यम-सादने यमस्य स्थाने गृह एषा स्वधैतच् चरु-रूपम् अन्नं निधीयते नितरां स्थाप्यते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓शाक्षरा ताँ᳓ रक्षस्व, ता᳓ङ् गोपायस्व  
 ता᳓न् ते प᳓रिददामि, त᳓स्यान् त्वा मा᳓ दभन् पित᳓रो देव᳓ता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -158,11 +169,14 @@ This is put Svadha (food) for you in the home of Yama, O...(dead one!).
 
 दश-संख्याकान्य् अक्षराणि मन्त्र-विशेष-रूपेण प्रतिपादकानि यस्याश् चरु-रूपायाः स्वधायाः सन्ति सेयं दशाक्षरा, तादृशी या स्वधा विद्यते तां स्वधां हे प्रेत, रक्षस्व। तां गोपायस्व। स्वरूपस्योपद्रवाभावो रक्षणम्। भोग-दशायाम् अप्य् उपद्रवाभावो गोपायस्वेत्य् अनेनोच्यते। तां तादृशीं स्वधां ते तुभ्यं परिददामि। अत्र देवता-रूपा ये पितरस् ते सर्वे तस्यां स्वधायां त्वां प्रेतं मा दभन् हिंसितं मा कुर्वन्तु।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिस् त्वा सादयतु त᳓या देव᳓तया ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -183,6 +197,7 @@ may Prajapati put you with that god.
 
 प्रजापतिर् इत्यादि पूर्ववत्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -190,6 +205,8 @@ may Prajapati put you with that god.
 म᳓धुमाँश् चरु᳓रे᳓ह᳓ **सीदतु+  
 उत्तभ्नुव᳓न्** पृथिवी᳓न् द्या᳓म् उतो᳓प᳓रि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -223,11 +240,14 @@ May the Caru, full of Apupa, well-cooked, full of milk, full of curd, full of ho
 
 ते सानुषङ्गाः प्रदृश्यन्ते - अपूपवाञ्च्छृतवांश्चरुर् ये देवानां शृतभागाः शताक्षरा तां रक्षस्वेत्यादि गतम् । अपूपवान् क्षीरवांश्चरुर्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 योनि-कृ᳓तः पथिकृ᳓तस् **सपर्यत**
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -245,11 +265,14 @@ may they serve as makers of seat and way.
 - पथिकृ᳓तः (*TS*-0/2, *RV*-0/5, *TB*-0/2, *AV*-20/21, *SB-M*-0/4, *SB-K*-0/4, प्रत्ययस्वरः पा॰ ३.१.३, फि॰ १.१)
 - सपर्यत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-7, *SB-K*-1, *VS-K*-1)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ देवा᳓नाँ शृत᳓भागाः क्षीर᳓भागा द᳓धिभागा म᳓धुभागा इह᳓ स्थ᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -284,12 +307,15 @@ Whoever are here the share-holders of the well-cooked Caru, the milk, the curd, 
 
 *इति श्रीमत्-सायणाचार्य-विरचिते माधवीये वेदार्थ-प्रकाशे कृष्ण-यजुर्वेदीय-तैत्तिरीयारण्यक-भाष्ये षष्ठ-प्रपाठके ऽष्टमो ऽनुवाकः ॥८॥*
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा᳓ ते यम-सा᳓दने स्वधा᳓ नि᳓धीयते गृहे᳙ऽसौ ।  
 शता᳓क्षरा सह᳓स्राक्षरायु᳓ताक्षरा᳓ऽच्युताक्षरा
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -322,6 +348,7 @@ This is put Svadha (food) for you in the home of Yama, (dead one!). (That is) hu
 
 शताक्षरादयश्छन्दोविशेषाः । अच्युताक्षरा अविपरीताक्षरा अक्षीणाक्षरा अपरिमिताक्षरेत्यर्थः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -329,6 +356,8 @@ This is put Svadha (food) for you in the home of Yama, (dead one!). (That is) hu
 ता᳓न् ते प᳓रिददामि  
 त᳓स्यान् त्वा मा᳓ दभन् पित᳓रो देव᳓ता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -360,11 +389,14 @@ protect that, preserve that; I give that to you; may not the fathers and the god
 - पित᳓रः (*TS*-34/121, *RV*-39/254, *TB*-24/67, *AV*-50/228, *SB-M*-86/321, *SB-K*-85/317, *VS-M*-20/56, *VS-K*-18/52)
 - देव᳓ता (*TS*-80/381, *RV*-12/14, *TB*-38/130, *TK*-3/16, *AV*-6/35, *SB-M*-149/570, *SB-K*-133/590, *VS-M*-13/17, *VS-K*-16/21)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिस् त्वा सादयतु त᳓या देव᳓तया ॥ (20) ॥ 8 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -379,4 +411,5 @@ may Prajapati put you with that god (1).
 <details><summary>भट्टभास्कर-टीका</summary>
 
 … ये देवानां क्षीरभागाः सहस्राक्षरा तां रक्षस्वेत्यादि गतम् ।
+</details>
 </details>

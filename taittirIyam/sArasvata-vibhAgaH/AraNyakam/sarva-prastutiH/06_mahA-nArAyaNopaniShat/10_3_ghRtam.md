@@ -2,6 +2,8 @@
 title = "१० ३ घृतम्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भट्टभास्करः - अवतारिका</summary>
 
 घृतमिति ॥ इतः परास्त्रिष्टुभः । अग्न्यात्मना परमात्मनस्स्तुतिः ।
@@ -10,6 +12,7 @@ title = "१० ३ घृतम्"
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 चतुर्दशीमृचमाह —
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/07_ghRtaM_mimixe.md">
@@ -77,6 +80,8 @@ title = "१० ३ घृतम्"
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 समुद्रादिति ॥
@@ -85,6 +90,7 @@ title = "१० ३ घृतम्"
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 पञ्चदशीचमाह —
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/09_samudrAd_UrmimadhumAm.md">

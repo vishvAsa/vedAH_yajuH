@@ -2,6 +2,8 @@
 title = "१० ३ मधु"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मधु वाता इति ॥
@@ -10,6 +12,7 @@ title = "१० ३ मधु"
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 एकादशीमृचमाह —
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
@@ -66,6 +69,8 @@ May the winds be honeyful for us, who wish the settled order; may the rivers pou
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मधु नक्तमिति ॥
@@ -74,6 +79,7 @@ May the winds be honeyful for us, who wish the settled order; may the rivers pou
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 द्वादशीमृचमाह —
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
@@ -132,6 +138,8 @@ May honey be for us at night and dawn; may the earthly world be honeyful; may th
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मधुमान्न इति ॥
@@ -140,6 +148,7 @@ May honey be for us at night and dawn; may the earthly world be honeyful; may th
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 त्रयोदशीमृचमाह —
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">

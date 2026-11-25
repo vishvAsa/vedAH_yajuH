@@ -4,15 +4,20 @@ unicode_script: devanagari
 
 ---
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantras 1–3)* Importance of the sacrificial thread. The description of the Yajñopavīta (sacrificial thread).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓सृतेन वै᳓ यज्ञे᳓न देवा᳓स् स्वर्गल्ँ᳓ लोक᳓म् आयन्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -33,11 +38,14 @@ The Devas reached to the heavenly world by the well-performed sacrifice
 
 देवास्तु प्रसृतेनैव यज्ञेन स्वर्गं प्राप्ताः, अप्रसृतेन यज्ञेन युक्तानसुरान्पराभावयन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓प्र᳓सृतेना᳓सुरान् प᳓राभावयन्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -53,10 +61,14 @@ and they defeated the Asuras, having no well-performed sacrifice.
 
 नप्रसृतेन प्रसृतविपरीतेन यज्ञेनेष्टवतोऽसुरान् पराभावयन् । नप्रसृतमप्रसृतं नलोपाभावश्छान्दसः । असुराः पराभूता इत्यर्थः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ प्रसृताप्रसृतयोः स्वरूपं विभजते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -64,6 +76,8 @@ and they defeated the Asuras, having no well-performed sacrifice.
 प्र᳓सृतो ह वै᳓ यज्ञोपवीति᳓नो यज्ञो᳓,  
 ऽप्रसृतो᳓ ऽनुपवीति᳓नः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -86,10 +100,14 @@ and they defeated the Asuras, having no well-performed sacrifice.
 
 यज्ञोपवीतयुक्तस्य यो यज्ञः सोऽयं गुणाधिक्यात्प्रसृतः प्रकर्षेण वृत्त इत्युच्यते । अनुपवीतिनो यज्ञोपवीतरहितस्य यज्ञो गुणहीनत्वादप्रसृत इत्युच्यते । किञ्च ब्राह्मणो यज्ञोपवीतयुक्तः सन्यत्किमप्यधीते तत्सर्वं यागानुष्ठानसमं भवति । तदेवं यज्ञोपवीतं प्रशस्याध्ययनोपयोगं वदन्यज्ञानामङ्गत्वेन विधत्ते । प्रसृतिः प्रकृष्टगुणयुक्तत्वम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 यज्ञोपवीतसाधनं द्रव्यं विधत्ते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -97,6 +115,8 @@ and they defeated the Asuras, having no well-performed sacrifice.
 य᳓त्कि᳓ञ् च ब्राह्मणो᳓ यज्ञोपवीत्य् अ᳓धीते  
 य᳓जत एव᳓ त᳓त्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -117,12 +137,15 @@ Whatever a Brāhmaṇa, the Yajñopavītin reads, he sacrifices, verily, (in) th
 
 कृष्णाजिनवस्त्रयोरन्यतरद्द्रव्यं दक्षिणभागे लम्बमानं कृत्वाऽधीयीतेत्यर्थः । एवमध्ययनादावनेनैव वाक्येन विहितस्यपि यज्ञोपवीतस्य दर्शपूर्णमासप्रकरणे निवीतं मनुष्याणामित्यत्र पुनर्विधानं तदतिक्रमे तत्रत्यविशेषप्रायश्चित्तार्थम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् यज्ञोपवीत्य् ए᳙वा᳓धीयीत  
 याज᳓येद् य᳓जेत वा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -138,6 +161,9 @@ Whatever a Brāhmaṇa, the Yajñopavītin reads, he sacrifices, verily, (in) th
 
 तस्माद्यज्ञोपवीत्येव अध्ययनं यजनं याजनं च कुर्याद् यज्ञस्य प्रसृत्यै प्रसृतगुणकत्वाय ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -147,6 +173,7 @@ Whatever a Brāhmaṇa, the Yajñopavītin reads, he sacrifices, verily, (in) th
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantras 4–5)* The articles of the Yajñopavīta and its wearing.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -158,6 +185,8 @@ Whatever a Brāhmaṇa, the Yajñopavītin reads, he sacrifices, verily, (in) th
 ऽव धत्ते सव्य᳓म्  
 इ᳓ति यज्ञोपवीत᳓म् एत᳓द् एव᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -186,11 +215,14 @@ Whatever a Brāhmaṇa, the Yajñopavītin reads, he sacrifices, verily, (in) th
 
 दक्षिणं बाहुमूर्ध्वं धृत्वा सव्ये बाहौ लम्बमाने सति यद्वेष्टनं तद्यज्ञोपवीतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓परीतं प्राचीनावीतँ᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -211,11 +243,14 @@ contradictory to this is (called) the Prācīnāvīta;
 
 एतदेव विपरीतं सव्यबाहोरूर्ध्वं धारणं दक्षिणबाहोर्लम्बमानं चेद्भवति तदा वेष्टनं प्राचीनावीतमित्युच्यते । बाह्वोरुभयोरप्यधो लम्बमानयोरंसद्वये (यद्वेष्टनं तत्) संवीतं तदेतन्मानुषं मनुष्याणामृषीणाम्, यज्ञोपवीतं देवानां यथा वा प्राचीनावीतं पितॄणां तद्वत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँवी᳓तं मानुष᳓म् । 1 ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -231,4 +266,5 @@ and that which is worn upon both shoulders is called the Mānuṣa (manly) (1).
 
 संवीतं समं वीतम् अंसद्वयावलम्बनेन वीतं संवीतम् । उभावपि बाहू यत्राधः क्रियते तत् संवीतं मानुषं मनुष्याणां स्वं भवति ॥  
 इत्यारण्यके द्वितीये प्रथमोनुवाकः ॥
+</details>
 </details>

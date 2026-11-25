@@ -3,6 +3,8 @@ title: २१ अवकीर्णी
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 प्रायश्चित्तार्थस्वाध्यायप्रसङ्गादवकीर्णिप्रायश्चित्तमुच्यते ।
@@ -14,11 +16,14 @@ unicode_script: devanagari
 
 Atonement for the violation of the vow of chastity. (From 1 to 8).
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कतिधा᳓ ऽवकीर्णी+++(=भग्नव्रतो ब्रह्मचारी रेतःस्कन्दादिकम् कृत्वा)+++ प्रविश᳓ति +++(देवान् नाशाय)+++?
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -34,11 +39,14 @@ Atonement for the violation of the vow of chastity. (From 1 to 8).
 
 कतिधेति ॥ अवकीर्णं भग्नं व्रतं यस्य ब्रह्मचारिणः सो ऽवकीर्णी । रेतस्कन्दनादिकमव्रत्यं चरित्वा अवकीर्णी भवति । स कतिधा कतिभिः प्रकारैर् विशीर्णशरीरः प्रविशति, सामर्थ्याच्च कान् प्रविशति विशीर्णस्य बहुविषयत्वात्, इति प्रश्नः॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्धे᳓त्याहुर् ब्रह्मवादि᳓नो -
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -59,11 +67,14 @@ The speakers of the sacred knowledge say: in four ways,
 
 अवकीर्णं भग्नव्रतं ब्रह्मचारिणो रेतःस्कन्दनादिकं तद्यस्यास्ति सोऽवकीर्णी, तादृशः पुमान्स्वकीयैरेवावयवैर्देवान्प्रविशति देवास्तदीयानवयवान्विनाशयन्ति, तत्र कतिभिः प्रकारैर्देवान्प्रविशतीत्येवमनभिज्ञस्य प्रश्नः । तत्राभिज्ञा ब्रह्मवादिनश्चतुर्भिः प्रकारैरित्युत्तरमाहुः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मरु᳓तः प्राणै᳓र्,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -74,11 +85,14 @@ by the breaths to Maruts,
 
 म॒रुतः॑ प्रा॒णैर्,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रं ब᳓लेन,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -89,16 +103,22 @@ by the vigours to Indra,
 
 इन्द्रं॒ बले॑न,
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इदानीं तान् प्रकारान् ब्रह्मवादिन एव दर्शयन्ति - मरुतः प्राणैरित्यादि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ᳓हस्प᳓तिं ब्रह्मवर्चसे᳓नाग्नि᳓मेवे᳓तरेण स᳓र्वेण।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -114,11 +134,14 @@ by the splendor of the sacred knowledge to Brhaspati and by the all others to Fi
 
 अयं प्राणैरात्मीयैर् मरुतः प्रविशति, स्वयं विनष्टप्राणो भवतीति यावत् । एवं सर्वत्र । इतरेण सर्वेणेति शरीरेण ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्यैतां᳓ प्रा᳓यश्चित्तिं विदा᳓ञ् चकार सुदेवः᳓ काश्यपो᳓ -
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -133,6 +156,7 @@ Sudeva, the son of Kasyapa, has found out this atonement of that.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्येत्यादि ॥ तस्य एवं विशीर्णदेहस्य सुदेवो नाम कश्यपपुत्रः प्रायश्चित्तं विदाञ्चकार ज्ञातवान् । 'उषविदजागृभ्यः' इत्यामप्रत्ययः । य इत्यादि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -151,6 +175,8 @@ Sudeva, the son of Kasyapa, has found out this atonement of that.
 इ᳓ति।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>त्रिभुवनः</summary>
 
 2\. Which student of the sacred knowledge violates the vow of chastity, he sacrifices two separate oblations of ghee after bringing and keeping the fire (by the Mantra) "O Kama (god of the desire and love etc.), I have violated the vow of chastity, O Kama, I have violated the vow of chastity; hail for Kama; O Kama, I have committed the offence, O Kama; hail for Kama.
@@ -167,11 +193,14 @@ Sudeva, the son of Kasyapa, has found out this atonement of that.
 
 उपघातम् उपहत्योपहत्य सकृदेव गृहीत्वा आज्यं जुहोत्य् अनेन मन्त्रेण । कामेति । हे काम कामात्मन् अग्ने अवकीर्णोऽस्मि भग्नव्रतोऽस्मि । त्वमेव कामात्मा माम् अवकीर्णमकरोः । अनुतापप्रकटनार्थं द्विर्वचनम् । हे काम ! तस्मै कामात्मने तुभ्यं स्वाहुतमिदमाज्यमस्तु । एवम् अभिद्रोहेऽपि योजनीयं, आत्मनैवाहम् अभिद्रुग्धोऽस्मीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमृ᳓तव्ँ वा᳓ आ᳓ज्यम्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -182,11 +211,14 @@ Nectar is, verily, the ghee;
 
 अ॒मृतव्ँ॒ वा आज्य॑म्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमृ᳓तमेवा᳓त्म᳓न्+++(नि)+++ धत्ते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -202,11 +234,14 @@ he puts in himself the ghee, the nectar.
 
 अमृतं वा इत्यादि । गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हुत्वा᳓ प्र᳓यताञ्जलिः᳓ क᳓वातिर्यङ्ङ्+++(=ईषत्तिर्यङ्)+++ अग्नि᳓मभि᳓मन्त्रयेत -
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -222,10 +257,14 @@ he puts in himself the ghee, the nectar.
 
 हुत्वेत्यादि ॥ प्रयताञ्जलिः कवातिर्यङ् ईषत्तिरश्चीनशरीरः नाभिमुखो न पराङ्मुखः, अपितु पार्श्वेन अग्निमभिमन्त्रयेत । कोः कवादेशश्छान्दसः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथाभिमन्त्रणमन्त्रः - सं मा सिञ्चन्त्विति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -237,6 +276,8 @@ he puts in himself the ghee, the nectar.
 
 इ᳓ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -252,11 +293,14 @@ he puts in himself the ghee, the nectar.
 
 मरूदादयो मां संसिञ्चन्तु बहुधा विशीर्णप्राणादिकम् एकत्र सिञ्चन्तु स्थापयन्तु, आयुषा च बलेन च अपूर्वेण, न केवलं विशीर्णैरेव प्राणादिभिस्सहितं किन्तु दीर्घेणायुषा आयुष्मन्तं मां कुरुतेति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ति हास्मै मरु᳓तः प्राणा᳓न् दधति,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -267,11 +311,14 @@ he puts in himself the ghee, the nectar.
 
 प्रति॑ हास्मै म॒रुतः॑ प्रा॒णान् द॑धति,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ती᳓न्द्रो ब᳓लं,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -282,11 +329,14 @@ Indra puts vigour in him,
 
 प्रतीन्द्रो॒ बलं॑,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ति बृ᳓हस्प᳓तिर् ब्रह्मवर्चसं᳓,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -297,11 +347,14 @@ Brhaspati puts the splendor of the sacred knowledge in him,
 
 प्रति॒ बृह॒स्पति॑र् ब्रह्मवर्च॒सं,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓त्यग्नि᳓रित᳓रत्स᳓र्वँ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -317,11 +370,14 @@ the fire puts all others in him,
 
 प्रतिहेत्यादि ॥ एवं कृते मरुतोऽस्मै प्राणान् पूर्वविशीर्णान् प्रतिदधत्य् अस्मिन् स्थापयन्ति । प्रतीन्द्र इत्यादि । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वतनुर्भूत्वा᳓ स᳓र्वमा᳓युरेति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -337,11 +393,14 @@ becoming full in all the limbs of the body he obtains the whole (span of) life.
 
 ततश्चायं सर्वतनुः प्रतिलब्धसर्वशरीरस्सन् सर्वं सम्पूर्णम् आयुः प्राप्नोति शतायुर्भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रि᳓रभि᳓मन्त्रयेत -
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -352,11 +411,14 @@ becoming full in all the limbs of the body he obtains the whole (span of) life.
 
 त्रिर॒भिम॑न्त्रयेत -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रि᳓षत्या+++(=त्रिवारानुष्ट्ःआने सत्यमिदं न तु कपटरूपमिति विश्वासो येषाम्)+++ हि᳓ देवा᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -372,11 +434,14 @@ for the gods are thrice (fully) true.
 
 त्रिरियादि । गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … यो᳓ ऽपूत इव म᳓न्येत +++(ब्रह्मचारी)+++ स᳓ इत्थ᳓ञ् जुहुयादित्थ᳓मभि᳓मन्त्रयेत।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -387,11 +452,14 @@ for the gods are thrice (fully) true.
 
 … यो ऽपू॑त इव॒ मन्ये॑त॒ +++(ब्रह्मचारी)+++ स इ॒त्थञ् जु॑हुयादि॒त्थम॒भिम॑न्त्रयेत।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓नीत एवा᳓त्मा᳓नम्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -402,11 +470,14 @@ he makes (in this way) purified himself;
 
 पुनी॑त ए॒वात्मान॑म्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓युरेवा᳓त्म᳓न् धत्ते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -422,6 +493,7 @@ he puts the life in himself.
 
 य इत्यादि ॥ योऽन्योऽप्य् अपूत इव सङ्कीर्णमिव पापैरात्मानं मन्येत सो ऽपि इत्थं होमम् अभिमन्त्रणं च कुर्यात्, द्विराज्यस्योपघातं 'कामावकीर्णः' इति मन्त्रेण जुहुयात्, सं मा सिञ्चन्त्विति त्रिभिरभिमन्त्रयेत । आत्मानं पुनीते आयुश्चात्मनि स्थापयति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/vara-prashaMsA.md">
 
@@ -431,6 +503,8 @@ he puts the life in himself.
 व᳓रो+++(=महार्हो गौरिव)+++ द᳓क्षिणा। व᳓रेणैव᳓ व᳓रँ+++(=श्रेष्ठं)+++ **स्पृणोति**+++(=प्रीणाति)+++।  
 आत्मा᳓ हि᳓ व᳓रः +++(अत आत्मैव दत्तः)+++ । 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -442,14 +516,18 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 वरो गौः । वरेणैव वरं स्पृणोति प्रीणयति । आत्मा हि वरः ॥
 </details>
 </details>
+</details>
 
 </div>
 
 ## द्राविडपाठः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 त एव प्रकाराः स्पष्टीक्रियन्ते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -457,15 +535,20 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 कतिधा᳓वकीर्णी प्रविश᳓ति
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 क॒ति॒धाव॑कीर्णी प्रवि॒शति॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्धे᳓त्याहुर्ब्रह्मवादि᳓नो मरु᳓तः प्राणै᳓रि᳓न्द्रं ब᳓लेन बृ᳓हस्प᳓तिं ब्रह्मवर्चसे᳓नाग्नि᳓मेवे᳓तरेण स᳓र्वेण
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -476,11 +559,14 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 स्वकीयैः प्राणैर्मरुतो देवान्प्रविशति । बलेनेन्द्रं प्रविशति । ब्रह्मवर्चसेन बृहस्पतिं प्रविशति । इतरेण सर्वेण वागादिनाऽग्निमेव प्रविशति । मरुदादयोऽस्य प्राणानपहरन्तीत्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्यैतां᳓ प्रा᳓यश्चित्तिं विदा᳓ञ्चकार सुदेवः᳓ काश्यपो᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,15 +577,19 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 कश्यपस्य पुत्रः सुदेवाख्यः कश्चिदृषिस्तस्यैतस्य दोषस्य प्रायश्चित्तं निश्चितवान् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ ब्रह्मचार्य᳙वकि᳓रेदमावास्या᳙याँ रा᳓त्र्यामग्निं᳓ प्रणी᳓योपसमाधा᳓य द्वि᳓रा᳓ज्यस्योपघा᳓तञ्जुहोति
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 यो ब्र॑ह्मचा॒र्य॑व॒किरे॑दमावा॒स्या॑याँ॒ रात्र्या॑म॒ग्निं प्र॒णीयो॑पसमा॒धाय॒ द्विराज्य॑स्योप॒घात॑ञ्जुहोति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -507,20 +597,28 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 का᳓मा᳓वकीर्णोऽस्म्य᳓वकीर्णोऽस्मि का᳓म का᳓माय स्वा᳓हा
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 कामाव॑कीर्णो॒ऽस्म्यव॑कीर्णोऽस्मि॒ काम॒ कामा॑य॒ स्वाहा॑
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तदिदं प्रायश्चित्तं विधत्ते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 का᳓मा᳓भिद्रुग्धोऽस्म्य᳓भिद्रुग्धोऽस्मि का᳓म का᳓माय स्वा᳓हे᳓त्यमृ᳓तव्ँ वा᳓ आ᳓ज्यममृ᳓तमेवा᳓त्म᳓न्धत्ते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -531,16 +629,22 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 आज्यस्योपघातमाज्यमुद्धरन्वोपहत्य सकृत्सकृदादाय द्विर्जुहोति । तत्र प्रथममन्त्रस्यार्थः । हे कामदेवावकीर्णोऽस्मि त्वत्प्रेरणया व्रतभ्रंशलक्षणमवकरं प्राप्तोऽस्मि । पुनरुक्तिरनुतापप्रकटनार्था । अवकरपरिहारार्थं कामाय देवाय स्वाहुतमिदमस्तु । अभिद्रुग्धो व्रतभ्रंशलक्षणाभिद्रोहं कृतवानस्मि । अन्यत्प्रथममन्त्रवत् । आज्यप्रशंसनमत्राऽऽज्यस्य देवप्रियत्वेनामृतत्वात्तद्धोमेनावकरपरिहाररूपममृतं स्वात्मनि सम्पादयति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 उत्तरं कर्तव्यं विधत्ते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हुत्वा᳓ प्र᳓यताञ्जलिः᳓ क᳓वातिर्यङ्ङग्नि᳓मभि᳓मन्त्रयेत
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -551,16 +655,22 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 करयोः सम्पुटीकरणमञ्जलिः । तस्य प्रयतत्वं निश्छिद्रत्वम् । कवातिर्यगी(ङी)षत्तिरश्चीनशरीरो नात्यन्तमभिमुखो नापि पराङ्मुखोऽपि तु पार्श्वे स्थितः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अभिमन्त्रणे मन्त्रं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓म्माऽऽसिञ्चन्तु मरु᳓तस्स᳓मि᳓न्द्रस्सं᳓ बृ᳓हस्प᳓तिः । स᳓म्माय᳓मग्नि᳓स्सिञ्चत्वा᳓युषा च ब᳓लेन चा᳓युष्मन्तङ्करोतमे᳓ति
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -571,16 +681,22 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 मरुतो देवाः प्राणैर्विशीर्णं मामासिञ्चन्तु, पुनःसम्भूय सिक्तमाप्यायितं कुर्वन्तु । एवमिन्द्रादिषु योज्यम् । किंचाऽऽयुषा बलेन च संयोज्य संपूर्णायुर्यक्तं कुर्वन्तु ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अनेनोपस्थानेन पूर्वोक्तदोषसमाधानं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ति हास्मै मरु᳓तः प्राणा᳓न्दधति
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -591,15 +707,19 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 अस्मै यजमानार्थं मरुतो देवाः प्राणान्प्रतिदधति प्रतिष्ठापयन्ति । एवमिन्द्रादयोऽपि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ती᳓न्द्रो ब᳓लं
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रतीन्द्रो॒ बलं॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -607,9 +727,12 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 प्र᳓ति बृ᳓हस्प᳓तिर्ब्रह्मवर्चसं᳓
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रति॒ बृह॒स्पति॑र्ब्रह्मवर्च॒सं
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -617,15 +740,20 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 प्र᳓त्यग्नि᳓रित᳓रत्स᳓र्वँ
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रत्य॒ग्निरि॒तर॒त्सर्वँ॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वतनुर्भूत्वा᳓ स᳓र्वमा᳓युरेति
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -636,16 +764,22 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 ततोऽयं सर्वतनुः सम्पूर्णसर्वावयवो भूत्वा सम्पूर्णमायुः प्राप्नोति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अभिमन्त्रणस्याऽऽवृत्तिं विधत्ते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रि᳓रभि᳓मन्त्रयेत त्रि᳓षत्या हि᳓ देवा᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -656,16 +790,22 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 त्रिवारानुष्ठाने सत्यमिदं न तु कपटरूपमिति विश्वासो येषां देवानां ते त्रिषत्याः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 उक्तं प्रायश्चित्तं पापान्तरेऽप्यतिदिशति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ऽपूत इव म᳓न्येत स᳓ इत्थ᳓ञ्जुहुयादित्थ᳓मभि᳓मन्त्रयेत पु᳓नीत एवा᳓त्मा᳓नमा᳓युरेवा᳓त्म᳓न्धत्ते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -676,16 +816,22 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 
 निश्चितस्यावकरस्याभावे कस्यापि पापस्य सम्भावनयाऽहमपूत इति यः शङ्कते सोऽपि पूर्वोक्तहोमाभिमन्त्रणे कुर्यात् । स पुमान्स्वात्मानं शोधयित्वा स्वात्मनि सर्वमायुः सम्पादयति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रोभयत्र दक्षिणां विधत्ते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रो द᳓क्षिणा व᳓रेणैव᳓ व᳓रँ स्पृणोत्यात्मा᳓ हि᳓ व᳓रः । (21) ॥ 18 ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -695,5 +841,6 @@ The cow (vara) is the Dakṣiṇā (sacrificial fee); he pleases the vara (Ātma
 <details><summary>सायण-टीका</summary>
 
 पूर्ववद्व्याख्येयम् ॥
+</details>
 </details>
 

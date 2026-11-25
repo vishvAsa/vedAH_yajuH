@@ -3,12 +3,10 @@ title = "०५ वपनम्"
 +++
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
-
-ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑द्  
-वि सी॑म॒तस् सु॒रुचो॑ वे॒न **आ॑वः** ।  
-स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य **वि॒ष्ठाः** +++(=विस्थितः)+++,  
-स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ **विवः॑** +++(=विवृतवान्)+++  ।
-
+ब्र᳓ह्म +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञानं᳓ +++(=उत्पन्नम्)+++ प्रथमं᳓ पुर᳓स्ताद्  
+वि᳓ सीमत᳓स् सुरु᳓चो वेन᳓ **आवः** ।  
+स᳓ बुध्न्या᳙ +++(=मूले भवः ([खस्य सूर्यः]))+++ उपमा᳓ अस्य **विष्ठाः᳓** +++(=विस्थितः)+++,  
+सत᳓श्च यो᳓निम् +++(सूर्यम्)+++ अ᳓सतश्च **वि᳓वः** +++(=विवृतवान्)+++  ।
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">

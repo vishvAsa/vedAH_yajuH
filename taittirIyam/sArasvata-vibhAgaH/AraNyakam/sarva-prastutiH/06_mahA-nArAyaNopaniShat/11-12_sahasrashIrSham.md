@@ -2,6 +2,8 @@
 title = "११-१२ सहस्रशीर्षम्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
 अत्र कृत्रिमस्वरा हि राजन्ते मुद्रितग्रन्थेषु। पद्यगानम् इव गृहीतुम् उचितम्।
@@ -11,6 +13,7 @@ title = "११-१२ सहस्रशीर्षम्"
 
 सहस्त्रशीर्षमित्याद्याः पञ्चानुष्टुभः ॥ तत एका द्विपदा । शिष्टं ब्राह्मणमानुष्टुभम् । अन्ते एका द्विपदा ।  
 अत्रापि परमात्मा स्तूयते
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/02_sahasrashIrShan_devav.N.md">
@@ -356,9 +359,12 @@ Whatever world is seen or heard, Narayana stands pervading that all inwardly and
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अनन्तमिति ॥ इयं द्विपदा गायत्री ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/07_anantam_avyaya~N.md">
@@ -768,9 +774,12 @@ That is shining like the line of the lightning among the blue clouds, that is le
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स ब्रह्मेति द्विपदा ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/13_tasyAsh_shikhAyA.md">
@@ -902,10 +911,13 @@ ________________________
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कीदृशं पुनस्तत्प्राप्यं ब्रह्मेत्याह - ऋतमित्य् अनुष्टुप् ॥  
 'तस्मै नमः' इति दर्शनात् प्रजापशुविद्याविभूतिकामानाम् अपवर्गार्थिनां च जपोपासनहोमादिष्व् अयं विनियुज्यते ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/14_RtaM_satyam.md">

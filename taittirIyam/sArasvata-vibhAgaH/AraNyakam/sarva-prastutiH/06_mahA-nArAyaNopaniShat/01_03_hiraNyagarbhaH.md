@@ -2,6 +2,8 @@
 title = "01 03 हि॒र॒ण्य॒ग॒र्भ"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantras)* "Hiranyagarbha, born of the waters" Mantras (of Prepathake III, Anuveke XIII), these eight.
@@ -12,11 +14,14 @@ title = "01 03 हि॒र॒ण्य॒ग॒र्भ"
 एषां च आत्मतत्त्वप्रतिपादनमन्त्राणाम् अन्यत्र  
 पठितानामिहातिदेशसामर्थ्यात् कल्पसूत्रविनियोगमन्तरेणाप्य् अस्य लिङ्गादिना महापुरुषार्चनादौ विनियोगो द्रष्टव्यः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हिरण्यगर्भ᳓ इ᳓त्यष्टौ᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -43,5 +48,6 @@ title = "01 03 हि॒र॒ण्य॒ग॒र्भ"
 <details><summary>सायण-टीका</summary>
 
 "हिरण्यगर्भः समवर्तताग्रे " इत्याद्या अष्टावृचः संहितायाश्चतुर्थकाण्डे प्रथमप्रपाठके समाम्नाताः। ता अपि वेदितव्यस्य परमात्मन उपलक्षकत्वेन हिरण्यगर्भाद्यभिधानादत्रोपयुक्ताः।
+</details>
 </details>
 

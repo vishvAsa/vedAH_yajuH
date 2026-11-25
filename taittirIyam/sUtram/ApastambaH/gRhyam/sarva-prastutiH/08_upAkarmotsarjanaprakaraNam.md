@@ -1012,18 +1012,18 @@ _____________________________
 ## ११उ १९
 
 <div class="js_include collapsed" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_19.md">
-
 "काण्डात् काण्डात् प्ररोहन्ती"ति द्वाभ्यामुपोदके दूर्वा रोपयन्ति ॥१९॥
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/13/20_kANDAtkANDAtprarohantI_paruShaHparuShaspari.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/13/20_kANDAtkANDAtprarohantI_paruShaHparuShaspari.md">
+<details open><summary><h5>२० काण्डात्काण्डात्प्ररोहन्ती परुषःपरुषस्परि ...{Loading}...</h5></summary>
 
-काण्डा॑त्-काण्डात् **प्र॒रोह॑न्ती॒**  
-परु॑षᳶपरुष॒ᳶ+++(=पर्वणः पर्वणः)+++ परि॑ ।  
-ए॒वा नो॑ दूर्वे॒ **प्र त॑नु**  
-स॒हस्रे॑ण श॒तेन॑ च ।  
+का᳓ण्डात्-काण्डात् **प्ररो᳓हन्ती**  
+प᳓रुषᳶपरुषᳶ+++(=पर्वणः पर्वणः)+++ प᳓रि ।  
+एवा᳓ नो दूर्वे **प्र᳓ तनु**  
+सह᳓स्रेण शते᳓न च ।  
 
+</details>
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_19.md">

@@ -71,9 +71,9 @@ title = "२५ दर्शादितर्पणम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
 <details open><summary><h5>३४ ऊर्जं वहन्तीरमृतम् ...{Loading}...</h5></summary>
 
-ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
-पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
+ऊ᳓र्जं व᳓हन्तीर् अमृ᳓तं घृतं᳓  
+प᳓यः कीला᳓लं परिस्रु᳙तम्।  
+स्वधा᳓ स्थ तर्प᳓यत मे पितॄ᳓न् ॥३४॥
 </details>
 </div>  
 
@@ -362,9 +362,9 @@ title = "२५ दर्शादितर्पणम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
 <details open><summary><h5>३४ ऊर्जं वहन्तीरमृतम् ...{Loading}...</h5></summary>
 
-ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
-पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
+ऊ᳓र्जं व᳓हन्तीर् अमृ᳓तं घृतं᳓  
+प᳓यः कीला᳓लं परिस्रु᳙तम्।  
+स्वधा᳓ स्थ तर्प᳓यत मे पितॄ᳓न् ॥३४॥
 </details>
 </div>  
 
@@ -386,9 +386,9 @@ title = "२५ दर्शादितर्पणम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
 <details open><summary><h5>३४ ऊर्जं वहन्तीरमृतम् ...{Loading}...</h5></summary>
 
-ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
-पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
+ऊ᳓र्जं व᳓हन्तीर् अमृ᳓तं घृतं᳓  
+प᳓यः कीला᳓लं परिस्रु᳙तम्।  
+स्वधा᳓ स्थ तर्प᳓यत मे पितॄ᳓न् ॥३४॥
 </details>
 </div>  
 
@@ -447,9 +447,9 @@ title = "२५ दर्शादितर्पणम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
 <details open><summary><h5>३४ ऊर्जं वहन्तीरमृतम् ...{Loading}...</h5></summary>
 
-ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
-पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
+ऊ᳓र्जं व᳓हन्तीर् अमृ᳓तं घृतं᳓  
+प᳓यः कीला᳓लं परिस्रु᳙तम्।  
+स्वधा᳓ स्थ तर्प᳓यत मे पितॄ᳓न् ॥३४॥
 </details>
 </div>  
 
@@ -465,9 +465,9 @@ title = "२५ दर्शादितर्पणम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
 <details open><summary><h5>३४ ऊर्जं वहन्तीरमृतम् ...{Loading}...</h5></summary>
 
-ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
-पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
+ऊ᳓र्जं व᳓हन्तीर् अमृ᳓तं घृतं᳓  
+प᳓यः कीला᳓लं परिस्रु᳙तम्।  
+स्वधा᳓ स्थ तर्प᳓यत मे पितॄ᳓न् ॥३४॥
 </details>
 </div>  
 

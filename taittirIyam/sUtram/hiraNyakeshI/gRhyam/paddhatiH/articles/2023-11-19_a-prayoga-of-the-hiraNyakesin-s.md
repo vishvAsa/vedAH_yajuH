@@ -75,12 +75,10 @@ Notes: This section is the classic invocation of Vināyaka in a clod of turmeric
 कलशोपरि वस्त्रवेष्टनं कृत्वा -  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/03/49_pUrNA_darvi.md">
-
-पू॒र्णा द॑र्वि॒ **परा॑ पत॒**  
-सुपू॑र्णा॒ **पुन॒राप॑त**।  
-व॒स्नेव॒+++(=वैश्यवत्)+++ **वि॒क्री॑णावहा॒**  
-इ॒षम् ऊर्जँ॑ शतक्रतो ॥४९॥
-
+पूर्णा᳓ दर्वि **प᳓रा पत**  
+सु᳓पूर्णा **पु᳓नरा᳓पत**।  
+वस्ने᳓व+++(=वैश्यवत्)+++ **विक्री᳙णावहा**  
+इष᳓म् ऊ᳓र्जँ शतक्रतो ॥४९॥
 </div>  
 
 ### आवाहनम्
@@ -906,12 +904,10 @@ Notes: The Mātṛ-s invoked here belong to two groups. The first are set of god
 सोम आगच्छ ।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/34/20_aShADhaM_yutsu.md">
-
-अषा॑ढं यु॒त्सु, पृत॑नासु॒ पप्रिँ॑,  
-स्व॒र्षाम् अ॒प्सां वृ॒जन॑स्य गो॒पाम्।  
-भ॒रे॒षु॒जाँ सु॑क्षि॒तिँ सु॒श्रव॑सं॒  
-जय॑न्तं॒ त्वाम् अनु॑ **मदेम** सोम ॥२० ॥
-
+अ᳓षाढं युत्सु᳓, पृ᳓तनासु प᳓प्रिँ,  
+स्वर्षा᳓म् अप्सां᳓ वृज᳓नस्य गोपा᳓म्।  
+भरेषुजाँ᳓ सुक्षितिँ᳓ सुश्र᳓वसं  
+ज᳓यन्तं त्वा᳓म् अ᳓नु **मदेम** सोम ॥२० ॥
 </div>  
 
 सोमं तर्पयामि ॥

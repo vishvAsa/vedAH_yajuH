@@ -5,9 +5,12 @@ unicode_script = "devanagari"
 
 Source: [भास्करः](https://archive.org/details/taittiriya/taittiriya_aranyaka_bhaskara_01/page/n329/mode/1up?view=theater)
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 Mantra for offering Homa to the household fire after the death of someone.
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
@@ -63,6 +66,8 @@ I sprinkle well offspring, life and wealth for you by the Yajus-Mantra.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>त्रिभुवनः - शान्तिपाठः (समाप्तिः)</summary>
 
 Harih Om.
@@ -74,4 +79,5 @@ Om Peace !
 Peace !
 
 Peace !
+</details>
 </details>

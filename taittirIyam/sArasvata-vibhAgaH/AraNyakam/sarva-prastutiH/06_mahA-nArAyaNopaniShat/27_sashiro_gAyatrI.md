@@ -3,6 +3,8 @@ title = "२७ सशिरो गायत्री"
 unicode_script = "devanagari"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रणवव्याहृतिशिरोभिः सहिता सावित्री प्राणायामार्था ।
@@ -16,11 +18,14 @@ unicode_script = "devanagari"
 
 गायत्र्या आवाहनादूर्ध्वं प्राणायामार्थं मन्त्रमाह —
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओं᳓ भूः᳓ । ओं᳓ भु᳓वः । ओँ᳓ सु᳓वः । ओं᳓ म᳓हः । ओ᳓ञ् ज᳓नः । ओं᳓ त᳓पः । ओँ᳓ सत्य᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -60,6 +65,7 @@ Om Bhuh, Om Bhuvah, Om Suvah, Om Mahah, Om Janah, Om austerity, Om truth; Om
 <details><summary>सायण-टीका</summary>
 
 भूरादयः सत्यान्ता लोकप्रतिपादिकाः सप्त व्याहृतयः। तेषां च लोकनां प्रणवप्रतिपाद्यब्रह्मस्वरूपत्वविवक्षया प्रत्येकं प्रणवोच्चारण्। सत्सवितुरित्यादिको गायत्री मन्त्रः। तत्प्रतिपाद्यस्य ब्रह्मत्वविवक्षया तदादौ प्रणवोच्चरणम्।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
@@ -845,6 +851,8 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तत्सवितुरिति सावित्री त्रिपदा निचृद्गायत्रीछन्दस्का अक्षरोनत्वादस्याः ! विश्वामित्रस्यार्षेयम् । सविता देवता । अस्यास्तु प्रणवव्याहृतिसहिताया उपनयनादिषु च विनियोग उक्तः ! प्रणवः स्वयम्भुवो ब्रह्मण आर्षेयम् । देवी गायत्री छन्दः 'देवानामेकं' इति वचनान् । परमात्मा वाच्या देवता । तात्पर्यप्रतिपाद्यं परब्रह्माधिदैवतम् । अनेन वाचकनोत्थापितसंस्कारः परमात्मा साधकाभिमुखो भूत्वा प्रणवाग्रस्थं परं ब्रह्म दर्शयति । यथोक्तम् -  
@@ -861,10 +869,14 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 मन्त्रस्य चायमर्थ: — सवितुः प्रेरकस्यान्तर्यामिणो देवस्य वरेण्यं वरणीयं श्रेष्ठं तद्भर्गस्तेजो धीमहि ध्यायेम। यः सविता परमेश्वरो नोऽस्मदीया धियो बुद्धिवृत्तीः प्रचोदयात्प्रकर्षेण तत्त्वबोधे प्रेरयतु।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ ओमाप इत्यादि शिरः ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -873,6 +885,8 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 ऽमृ᳓तं ब्र᳓ह्म +++(=मन्त्राः)+++  
 भू᳓र् भु᳓वस् सु᳓वर् ओ᳓म् । (42)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -915,4 +929,5 @@ Om, the waters, the light, the elixir, the nectar, Brahman, Bhuh, Bhuvah, Suvah,
 - प्राणायामे पूरणे व्याहृतयः।  
 - कुम्भके गायत्रीमन्त्रः।
 - रेचके / ‌निःस्वासे पुच्छम्।
+</details>
 </details>

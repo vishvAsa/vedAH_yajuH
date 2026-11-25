@@ -12,6 +12,8 @@ title = "०३ सह रक्षांसि"
 कतिधा᳓ऽवकीर्णी भू᳓र्न᳓मः प्रा᳓च्यै विँशतिः᳓ ॥ २०॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 सह॒ रक्षाँ॑सि॒ यद्दे॑वास्स॒प्तद॑श॒  
@@ -20,15 +22,19 @@ title = "०३ सह रक्षांसि"
 ग्रामे॑ म॒ध्यन्दि॑ने॒ तस्य॒ वै मेघ॒स्तस्य॒ वै द्वौ रिच्य॑ते दु॒हे ह॑  
 कति॒धाऽव॑कीर्णी॒ भूर्नमः॒ प्राच्यै॑ विँश॒तिः ॥ २०॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ह वा᳓तरशना दुहे᳓ ह च᳓तुर्विँशतिः᳓ ॥ २४॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 सह॒ वात॑रशना दु॒हे ह॒ चतु॑र्विँश॒तिः ॥ २४॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -36,7 +42,10 @@ title = "०३ सह रक्षांसि"
 स᳓ह वै᳓ मु᳓निभ्यश्च न᳓मः ॥ (स᳓ह न᳓मः᳓)
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 सह॒ वै मुनि॑भ्यश्च॒ नमः॑ ॥ (सह॒ नमः)
+</details>
 </details>

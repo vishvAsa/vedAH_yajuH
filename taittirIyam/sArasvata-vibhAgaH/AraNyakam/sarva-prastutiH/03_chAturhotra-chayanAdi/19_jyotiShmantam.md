@@ -4,6 +4,8 @@ title = "१९ ज्योतिष्मन्तम्"
 
 _______
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 द्वादश ज्योतिष्मतीरुपदधाति - ज्योतिष्मतीमिति ॥
@@ -22,8 +24,10 @@ _______
 
 Mantras addressing the fuel for a cremation.
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/jyotiShmantaM.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -34,11 +38,14 @@ Mantras addressing the fuel for a cremation.
 
 आत्मज्योतिषो वृत्तिभेदाः ते इष्टकावेन स्तूयन्ते
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्यो᳓तिष्मतीन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -64,11 +71,14 @@ I place thee that hast light.
 
 ज्योतिष्मती प्रशस्तज्योतिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्योतिष्कृ᳓तन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -94,11 +104,14 @@ I put you as the maker of the light
 
 ज्योतिष्कृत् ज्योतिरन्तरस्य कर्त्रीं ज्योतिषां लम्भयित्री ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्योतिर्वि᳓दन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -124,11 +137,14 @@ I put you as the knower of the light
 
 ज्योतिषां लम्भयित्री ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भा᳓स्वतीन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -154,11 +170,14 @@ I put you as full of light
 
 भास्वती बहुप्रकाशा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्व᳓लन्तीन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -184,11 +203,14 @@ I put you as burning
 
 ज्वलन्ती अविच्छिन्नप्रकाशा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मल्म᳓लाभ᳓वन्तीन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -214,11 +236,14 @@ I put you as being burnt with the 'Malmala' sounds of the flames
 
 मल्मलाभवन्ती महाघोषवती । 'अव्यक्तानुकरणात्' इति डाच् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दी᳓प्यमानान्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -244,11 +269,14 @@ I put you as being shined
 
 दीप्यमाना हृदये आविर्भवन्ती ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रो᳓चमानान्त्वा सादयामि᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -274,11 +302,14 @@ I put you as being lighted
 
 रोचमाना गगने आविर्भवन्ती ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓जस्रान्त्वा  सादयामि  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -304,11 +335,14 @@ I put you as many
 
 अजस्रा अनुपहिंस्या केनचिदपि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृह᳓ज्ज्योतिषन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -334,11 +368,14 @@ I put you as of great light
 
 बृहज्ज्योतिः बृंहितज्योतिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बोध᳓यन्तीन्त्वा सादयामि  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -364,11 +401,14 @@ I put you as awaking one
 
 बोधयन्ती दृश्यं प्रकाशयन्ती ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जा᳓ग्रतीन्त्वा सादयामि ॥ [35]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -394,11 +434,14 @@ I put you as waking one.
 
 जाग्रती स्वयंप्रकाशात्मना ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>सायण-टीका</summary>
 
 हे समित्वामस्य प्रेतस्योपरि सादयामि स्थापयामि । ज्योतिष्मतीमित्यादिभिर्विशेषणैस्तत्समिन्निष्ठाया ज्वालाया उत्तरोत्तराभिवृध्याऽवस्थाविशेषा उच्यन्ते । अत्यल्पप्रकाशोपेता ज्योतिष्मती । ईषदधिकप्रकाशोपेता ज्योतिष्कृत् । ततोऽप्यधिकप्रकाशोपेता ज्योतिर्वित् । एवं भास्वत्यादिषु योजनीयम् । मल्मलेति दह्यमानकाष्ठध्वनेरनुकरणम् । लिङ्गानुसारेणायं मन्त्र इष्टकोपधानेऽपि विनियोक्तव्यः ॥
+</details>
 </details>
 

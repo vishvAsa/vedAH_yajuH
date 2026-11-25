@@ -2,6 +2,8 @@
 title = "८४ अग्ने व्रतपते"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ देवता उपतिष्ठते - अग्ने व्रतपत इति ॥
@@ -16,11 +18,14 @@ title = "८४ अग्ने व्रतपते"
 
 *(Mantra 4)* Invitation of the gods.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने व्रतपते!
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -40,6 +45,7 @@ title = "८४ अग्ने व्रतपते"
 <details><summary>सायण-टीका</summary>
 
 हे व्रतपतेऽवान्तरदीक्षारूपस्य व्रतस्य पालकाग्ने व्रतमिदमहं चरिष्यामि ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
@@ -71,15 +77,20 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>संयुक्त-मूलम्</summary>
 
 वायो॑ व्रतपत॒ आदि॑त्य व्रतपते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓यो व्रतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -94,6 +105,7 @@ O wind, the lord of the rules,
 <details><summary>सायण-टीका</summary>
 
 वायो व्रतपत इत्येतस्मिन्नुत्तरस्मिंश्च व्रतं चरिष्यामीत्यादिकमनुषज्यते । एतदर्थमेव चतुर्थमन्त्रे पुनराम्नातम् । व्रतपत इत्युक्तस्य पुनरपि व्रतानामित्युक्तिः कृत्स्नव्रतस्वीकारार्था ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
@@ -130,6 +142,8 @@ I will follow the rules; may I do so; may that be increased.
 आ᳓दित्य व्रतपते
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>त्रिभुवनः</summary>
 
 O Āditya, the lord of the rules,
@@ -138,6 +152,7 @@ O Āditya, the lord of the rules,
 <details><summary>मूलम्</summary>
 
 आदि॑त्य व्रतपते
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
@@ -174,6 +189,8 @@ I will follow the rules; may I do so; may that be increased.
 व्रता᳓नाव्व्ँरतपते
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>त्रिभुवनः</summary>
 
 O Vratapati (lord of the rules), the ruling lord of the rules,
@@ -182,6 +199,7 @@ O Vratapati (lord of the rules), the ruling lord of the rules,
 <details><summary>मूलम्</summary>
 
 व्र॒ताना॑व्व्ँरतपते
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">

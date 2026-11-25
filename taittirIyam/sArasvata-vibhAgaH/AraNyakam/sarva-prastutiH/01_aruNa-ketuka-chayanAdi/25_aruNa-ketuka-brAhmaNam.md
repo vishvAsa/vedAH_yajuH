@@ -3,6 +3,8 @@ title = "२५ अरुण-केतुक-ब्राह्मणम्"
 
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथारुणकेतुकस्य प्रयोगशरीरमाह - जानुदघ्नीमिति ॥
@@ -12,6 +14,7 @@ title = "२५ अरुण-केतुक-ब्राह्मणम्"
 
 Brāhmaṇas (praises etc.) and Mantras concerning placing of lotus-petal etc. (from 1 to 9).
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -19,6 +22,8 @@ Brāhmaṇas (praises etc.) and Mantras concerning placing of lotus-petal etc. (
 अपां᳓ पूरयति ।  
 अपाँ᳓ सर्वत्वा᳓य ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -36,16 +41,22 @@ Brāhmaṇas (praises etc.) and Mantras concerning placing of lotus-petal etc. (
 
 व्याख्यातम् । विहितानामेव पूरणादीनां पुनर्विधानं स्तुत्यर्थम् । अपाम् अद्भिः पूरयति । "पूरणगुण" इति समासप्रतिषेधात् षष्ठी विज्ञाता । अपां सर्वत्वाय सर्वोऽप्यग्निरम्मय इति ख्यापनार्थमबीष्टकावत्त्वादग्नेः । यद्वा - सर्वमिदं जगद् अद्भिः पूर्णम् अम्मयमिति विश्वमिति ख्यापनार्थम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अबीष्टकाः पूर्वानुवाकेऽभिहिताः ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुष्करपर्णँ᳓ रुक्मं᳓ पु᳓रुषमि᳓त्यु᳓पदधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -66,16 +77,22 @@ Brāhmaṇas (praises etc.) and Mantras concerning placing of lotus-petal etc. (
 
 तत्र पुष्करपर्णाद्युपधानं विधत्ते ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्राऽऽदावुत्तरवेदिखननं पूर्वमेव विहितं प्रशंसति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓पो वै᳓ पुष्करपर्ण᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -91,11 +108,14 @@ for the lotus-petal is, verily, the austerity;
 
 जानुपरिमाणेन खातायामुत्तरवेद्यां गुल्फपरिमाणेन पूरितमुदकं यदस्ति तेनापां सर्वत्वं सम्पादितं भवति । यस्मात्खातस्याप्युदकमयत्वमपेक्षितं तस्मादितरस्य वस्तुनो जलमयत्वं किमु वक्तव्यमित्यभिप्रायः । पुष्करपर्णस्य पवित्रत्वेन तपोरूपत्वाद्रुक्मस्याग्निसंयोगेऽपि विनाशाभावेन सत्यत्वाद्धिरण्मयपुरुषस्याप्यत एवामृतत्वात्त्रयाणामुपधानेन यावत्सारमस्ति तत्सर्वं प्राप्तं भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यँ᳓ रुक्मः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -106,11 +126,14 @@ the gold, the truth;
 
 स॒त्यँ रु॒क्मः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमृ᳓तं पु᳓रुषः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -121,12 +144,15 @@ the man (made of gold), the nectar.
 
 अ॒मृतं॒ पुरु॑षः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता᳓वद्वा᳓वास्ति ।  
 या᳓वदेत᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -138,6 +164,7 @@ This is, verily, all whatever is this (existence).
 ए॒ताव॒द्वावा॑स्ति ।  
 याव॑दे॒तत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,6 +172,8 @@ This is, verily, all whatever is this (existence).
 [103]  
 त᳓द᳓वरुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -164,10 +193,14 @@ Whatever is (existent) encloses (2); that.[P117_1]
 
 एतावदिति । यावद् एतत् तपस्सत्यम् अमृतमित्य् एतावदेव परमार्थतो ऽस्त्य् असत्प्रायमन्यत् । तस्माद् एतदात्मकं पुष्करपर्णं रुक्मं पुरुषत्रयमुपदध्यादिति । तस्मात् तदुपधानाद् यावदेवास्ति तत् सर्वम् अवरुन्धे ॥१॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 उक्तत्रितयादनन्तरं कूर्मोपधानं विधत्ते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -175,6 +208,8 @@ Whatever is (existent) encloses (2); that.[P117_1]
 कूर्म᳓मु᳓पदधाति ।  
 अपा᳓मेव᳓ मे᳓धम᳓वरुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -196,11 +231,14 @@ Whatever is (existent) encloses (2); that.[P117_1]
 
 अपां सम्बन्धी मेघः सारः कूर्मस्तदुपधानेन सारं प्राप्नोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो स्वर्ग᳓स्य लोक᳓स्य स᳓मष्ट्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -216,10 +254,14 @@ and (he puts that) for the sake of obtaining well the heavenly world (3).
 
 किञ्च स्वर्गोऽपि प्राप्यते ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantras 1 and 2)* Initial words of the Mantras, T.A. 1.1 for placing the watery bricks.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -229,6 +271,8 @@ and (he puts that) for the sake of obtaining well the heavenly world (3).
 अग्नि᳓र्वायु᳓श्च सू᳓र्यश्च ।  
 सह᳓सञ्चस्कर᳓र्धिया इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -251,6 +295,9 @@ and (he puts that) for the sake of obtaining well the heavenly world (3).
 
 आपमापामित्यबीष्टकाविधिसूचनार्थस् तन्मन्त्रपाठः ॥३॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -261,11 +308,14 @@ and (he puts that) for the sake of obtaining well the heavenly world (3).
 
 *(Mantras 1 and 2)* Initial words of the Mantras, T.A. 1.20 for placing the bricks.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाय्व᳓श्वा रश्मिप᳓तयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -281,6 +331,9 @@ and (he puts that) for the sake of obtaining well the heavenly world (3).
 
 आपमापामित्यारभ्य वाय्वश्वा इत्यादिभिरबीष्टका उपधेया इति तात्पर्यार्थः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -291,12 +344,15 @@ and (he puts that) for the sake of obtaining well the heavenly world (3).
 
 लोकंपृणेष्टकोपधानमन्त्रं दर्शयति -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोकं᳓ पृण च्छिद्रं᳓ पृण ।  
 [104]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -318,11 +374,14 @@ and (he puts that) for the sake of obtaining well the heavenly world (3).
 
 हे इष्टके लोकं पूर्वमुपधानरहितं स्थानं पृण पूरय, तत्पूरणेन चित्याग्नेश्छिद्रं पृण पूरय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓स्तिस्रः᳓ परमजाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -338,6 +397,9 @@ and (he puts that) for the sake of obtaining well the heavenly world (3).
 
 यास्तिस्रः स्वयमातृण्णाः प्रथममध्यमोत्तरचितिषूपधेयतया परमजाः प्रकृष्टमुत्पन्नाः, ता अपि पूरय ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -348,11 +410,14 @@ and (he puts that) for the sake of obtaining well the heavenly world (3).
 
 Initial words of the Mantras, T.A. 1.20 for placing the bricks.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रघोषा᳓ वो व᳓सुभिरेवा᳓ह्येवे᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -375,16 +440,22 @@ Initial words of the Mantras, T.A. 1.20 for placing the bricks.
 
 इन्द्रघोषा व इत्यादयो मन्त्रा एवा ह्येवेत्यादयश्च ये मन्त्रा इतिशब्दप्रदर्शिता अन्ये च ये मन्त्रास्तैः सर्वैरुपदध्यादित्यर्थः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 चितीनां संख्यां विधत्ते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्च चि᳓तय उ᳓पदधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -405,11 +476,14 @@ Initial words of the Mantras, T.A. 1.20 for placing the bricks.
 
 जानुप्रमाणेन खातस्य मध्ये पञ्चसंख्याकाश्चितीरुपदध्यात् । गुल्फदघ्नमुदकं पूरयित्वा पर्णैर्दण्डैः कृत्स्नपुष्करैश्च सञ्छाद्य मृन्मयपात्रेष्वपो धृत्वा ता अबीष्टका उपदध्यात् । तत उपर्यपि पूर्ववत्पत्रैर्दण्डैः कृत्स्नपुष्करैश्च च्छादयित्वा पुनरप्यबीष्टका उपदध्यात् । एवं पञ्चकक्ष्याभिरुत्तरवेद्यां पूरितायां तत्र पञ्च चितयः सम्पद्यन्ते । तत्रोर्ध्वैः काष्ठैर्मञ्चकं कृत्वा तस्योपरि पुरीषं प्रसार्य पुरीषस्योपर्यग्निं प्रणीयोपसमाधाय तस्याग्नेश्चतुर्दिक्षु तत्तन्मन्त्रैरबीष्टका उपदध्यात् । एवं कृतेऽग्निः पञ्चचितियुक्तो भवति । आहवनीयगार्हपत्यदक्षिणाग्निसभ्यावसथ्यरूपेण पञ्चसंख्यायोगात्पाङ्क्तोऽग्निः सर्वोऽपि चितो भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पा᳓ङ्क्तोऽग्निः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -420,12 +494,15 @@ Agni is five-fold;
 
 पाङ्क्तो॒ऽग्निः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वानेवा᳓ग्निः᳓ ।  
 त᳓ञ्चिनुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -446,16 +523,22 @@ Agni is five-fold;
 - त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-140/1327, *AV*-432/3163, *SB-M*-294/2303, *SB-K*-1304/20018, *VS-M*-50/268, *VS-K*-63/395)
 - चिनुते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 द्विचितौ विशेषं विधत्ते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोक᳓म्पृणया द्विती᳓यामु᳓पदधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -476,16 +559,22 @@ Agni is five-fold;
 
 येयं द्वितीया चितिः सेयं लोकंपृणयैवेष्टकोपधेया, सर्वपूरकत्वादियं लोकंपृणा विराड्देहरूपी(पा) । सा च विराण्मूर्तिः पञ्चपादोपेता । लोकत्रयञ्च दिशश्च पादचतुष्टयम् । रजोगुणात्मकस्य संसारस्य परस्ताद्बाह्ये योऽयं चिदात्मा वर्तते परोरजाः, स च पञ्चमः पादः, एवं प्रशस्ता लोकंपृणा ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तच्चयनवेदने प्रशंसति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्चपदा वै᳓ विरा᳓ट् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -501,11 +590,14 @@ Virāt (verse) is, verily, five-footed.
 
 विराज्येवान्न एव, विराड्देह एव वा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्या वा᳓ इयं᳓ पा᳓दः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -521,11 +613,14 @@ Of that this (earth) is foot;
 
 तस्याः पृथिव्यादयः पञ्च पादा दिशः सर्वा एकपादः । परस्ताद् रजसो यो वर्तते स परोरजा अज आदित्यो वा स पञ्चमः पादः । पारस्करादित्वात् सुट् । ईदृशी विराट् लोकम्पृणा इत्यनुक्तेऽपि स्तुतिर् गम्यते ॥७॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षं पा᳓दः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -536,11 +631,14 @@ mid-region (is) foot;
 
 अ॒न्तरि॑क्षं॒ पादः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्यौः᳓ पा᳓दः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -551,11 +649,14 @@ heaven (is) foot;
 
 द्यौः पादः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि᳓शः पा᳓दः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -566,11 +667,14 @@ quarters (are) foot;
 
 दिशः॒ पादः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परो᳓रजाः पा᳓दः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -581,6 +685,7 @@ one beyond the regions is foot (8).
 
 प॒रोर॑जाः॒ पादः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -588,6 +693,8 @@ one beyond the regions is foot (8).
 य᳓ एत᳓मग्नि᳓ञ्चिनुते᳓ ।  
 य᳓ उचैनमेवव्ँ᳓ वे᳓द ॥ [105]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -604,4 +711,5 @@ one beyond the regions is foot (8).
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एथ एतमग्निं चिन्वान एवं वेदिता च विराजि प्रतिष्ठितो भवति ॥८॥
+</details>
 </details>

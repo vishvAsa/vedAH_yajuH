@@ -4,6 +4,8 @@ title = "१८ ईयुष्टे ये"
 
 _______
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सन्ति वृष्टयो नाम षोडशेष्टकाः 'इयमेव सा या' इत्याद्याः । तासामियं षोडशी ईयुष्ट इति त्रिष्टुप् ॥
@@ -19,6 +21,7 @@ _______
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 Mantra for bathing after funeral.
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
@@ -415,8 +418,11 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 ये मर्त्यासो मनुष्या व्युच्छन्तीं प्रभातं कुर्वतीमुषसमुषःकालदेवतां पूर्वतरामितरेभ्योऽत्यन्तं पूर्वामपश्यन्पश्यन्ति, ते मनुष्या ईयुस्तां देवतां प्राप्नुवन्ति । (सा)अस्माभिरू नु अस्माभिरपि नु क्षिप्रं प्रतिचक्ष्याऽभूत्प्रत्यक्षं दर्शनीयाऽभूत् । येऽन्येऽप्यपरीष्वपररात्रिषु रात्रीणामवसानेषु पश्यान्पश्यन्ति ते ओ यन्ति तेऽपि तां देवतां सर्वथा प्राप्नुवन्ति ॥
+</details>
 </details>
 

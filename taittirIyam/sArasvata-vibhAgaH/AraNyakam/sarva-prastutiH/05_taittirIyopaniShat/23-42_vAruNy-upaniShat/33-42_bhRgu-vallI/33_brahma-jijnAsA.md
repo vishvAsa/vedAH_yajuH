@@ -2,17 +2,22 @@
 title = "३३ ब्रह्म-जिज्ञासा"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>त्रिभुवनः - अवतारिका</summary>
 
 Sāyaṇa considers this Prapathaka as the third Anuvaka of the VIII Prapathaka. Regular number of the kaṇḍikās have not been given except in the X Anuvaka.
 
 Hume does not give the Prayer-Mantra.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भृ᳓गुर्वै᳓ वारुणिः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -28,11 +33,14 @@ Bhṛgu, verily, the son of Varuṇa,
 
 अथ शरीरासन मुपासनान्तरं विधातुमारभते - भृगुर्वा इत्यादि । भृगुर्नाम ऋषिर्वरुणनाम्न ऋषेरपत्यं स निजं पितरं वरुणं ब्रह्मजिज्ञासुर् उपससार उपधावति स्म । हे भगवः! भगवन् ! ब्रह्म अधीह्य् अधिगमय मां ब्रह्म । अन्तर्भावितण्यर्थ एतिः । 'बहुलमन्यत्रापि सञ्ज्ञाछन्दसोः' इति णिलुक् । भगवतस्सम्बुद्धौ 'मतुवसोः' इति रुत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणं पि᳓तरम् उ᳓पससार ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -43,11 +51,14 @@ went to his father Varuṇa (and said):
 
 वरु॑णं॒ पित॑र॒म् उप॑ससार ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓धीहि भगवो ब्र᳓ह्मे᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -63,11 +74,14 @@ went to his father Varuṇa (and said):
 
 अथ लक्षणान्तरमुखेन ब्रह्म प्रतिपादयितुम्, ब्रह्मप्रतिपत्तौ तपोनिधूतकल्मषान्तःकरणस्य हेतुत्वम् इति प्रतिपादनाय च भृगुवल्ली आरभ्यते - भृगुर्वै इति । वरुणसुतः भृगुः पितरं - वरुणम् , अधीहि भगवो ब्रह्मेति मन्त्रपूर्वकम् उपसन्न इत्यर्थः । हे भगवन् ! पूजार्ह ! ब्रह्म प्राणः ब्रह्म अधीहि - उपदेशाय स्मर । अधीष्व इति वा, अध्यापय इति वा अर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मा एत᳓त्प्रोवाच ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -83,11 +97,14 @@ He said to him:
 
 तस्मै भृगवे उपसृताय च ब्रह्म विजिज्ञासमानाय एतद् अन्नादिषट्कं ब्रह्मत्वेन प्रोवाच पिता । विनश्वरत्वान्नेदं ब्रह्म नेदं ब्रह्मेति विप्रतिपन्नाय पुत्रायान्नमयादिषट्कमनुक्रमेण कतिपयब्रह्मगुणवत्तया प्रोवाच । यद्वा - ब्रह्मप्राप्तिहेतुत्वात् तेषां ब्रह्मत्वोपचारः, ब्रह्म जिज्ञासमानाय पुत्राय तत्प्राप्तिहेतूंस्तावद् उपदिदेश ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓न्नं प्राण᳓ञ् च᳓क्षुः श्रो᳓त्रं म᳓नो वा᳓चमि᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -108,6 +125,7 @@ He said to him:
 
 तस्मा एतत् इति । अन्नं ब्रह्म, प्राणो ब्रह्म इत्यादिकं तन्मनश्शोधनाय उपदिश्य किं सर्वाणि अपि ब्रह्माणि ? उत एकम् ? तत्रापि किं वा ब्रह्म इति व्याकुलचेतसं पुत्रम् आलोक्य वक्ष्यमाणम् उवाच इत्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -120,6 +138,8 @@ He said to him:
 
 इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -307,11 +327,14 @@ He said again: "Whence, verily, these beings are born; by whom, when born, they 
 
 अतः जगज्जन्मादिहेतुत्त्वं ब्रह्मलक्षणम् इति स्थितम् । प्रकृतम् अनुसरामः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ त᳓पोऽतप्यत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -339,4 +362,5 @@ He (Bhṛgu) performed penance.
 एतल्-लक्षण-लक्षितं ब्रह्म विजानीहि
 
 इति ।
+</details>
 </details>

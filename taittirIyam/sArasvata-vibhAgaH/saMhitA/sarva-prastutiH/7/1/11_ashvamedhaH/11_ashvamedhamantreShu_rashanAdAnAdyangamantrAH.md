@@ -95,15 +95,18 @@ I take thee with the arms of the Aśvins, with the hands of Pusan.
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/22/02_imAmagRbhNan_rashanAmRtasya.md">
+<details><summary>मूलम्</summary>
+
+इमा᳓मगृभ्णन् रशना᳓मृत᳓स्य पू᳓र्वऽआ᳓युषि विद᳓थेषु कव्या᳓। सा᳓ नोऽअस्मि᳓न्त्सुत᳓ऽआ᳓बभूवऽऋत᳓स्य सा᳓मन्त्सर᳓मार᳓पन्ती ॥२ ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमा᳓म् अगृभ्णन् रशना᳓म् ऋत᳓स्य+++(=यज्ञस्य)+++  
 पू᳓र्व आ᳓युषि+++(षे)+++ विद᳓थेषु+++(=यज्ञेषु)+++ कव्या᳓+++(=कवयः)+++ ।  
-त᳓या देवा᳓स् सुत᳓म् +++(सोमम्)+++ आ᳓ बभूवुर् ,  
+त᳓या देवा᳓स् सुत᳓म् +++(सोमम्)+++ आ᳓ बभूवुर् ,
 ऋत᳓स्य सा᳓मन्थ्+++(म्नि [समाप्तौ])+++ सर᳓म्+++(=सरणं)+++ आर᳓पन्ती+++(=अभिवदन्ती)+++ ।
 </details>
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/22/02_imAmagRbhNan_rashanAmRtasya.md">

@@ -4,6 +4,8 @@ unicode_script: devanagari
 
 ---
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 प्रथमे यज्ञोपवीतविधानमुक्तम् ।
@@ -13,11 +15,14 @@ unicode_script: devanagari
 
 *(Mantras 1–5)* The importance of the Gāyatrī-Mantra (Sandhyā).
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 र᳓क्षाँसि ह᳓ वा पुरोऽनुवाके᳓ त᳓पो᳓ग्रम् अतिष्ठन्त।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -38,11 +43,14 @@ unicode_script: devanagari
 
 द्वितीये संध्योपासनविधानमुच्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न् प्रजा᳓पतिर् वरे᳓णोपा᳓मन्त्रयत।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -58,16 +66,22 @@ Prajāpati asked them to choose some boon.
 
 अथ तान् तानि रक्षांसि । लिङ्गव्यत्ययः । यद्वा - शेर्लोपेऽपि नुम् प्रवर्तते । प्रजापतिर् वरेण देयेन उपामन्त्रयत वरं वृणीध्वमिति रहस्युपच्छन्दितवान् । अथ तानि वरमवृणीत अवृणत । वर्णव्यत्ययेन ईकारः । वचनव्यत्ययो वा ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्प्रशंसार्थमादावाख्यायिकामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓नि व᳓रम् अवृणीत - "आदित्यो᳓ नो यो᳓द्धा" इ᳓ति᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -88,11 +102,14 @@ Prajāpati asked them to choose some boon.
 
 हवाशब्दः प्रसिध्यर्थः । पुरोनुवाकः पूर्वकालः, पुर इत्येव पूर्वैरनूच्यते न त्विदानीमिति वा पश्चादिति वोच्यते । एतादृशे पूर्वकाले रक्षांसि खलूग्रं श्रेष्ठं तीव्रं तपोऽतिष्ठन्त कृतवन्तः । तेन तपसा तुष्टः प्रजापतिस्तान्रक्षोविशेषान्वरेणोपामन्त्रयतोपच्छन्दितवान्, वरं वृणीध्वमित्युक्त्वा तान्परितोष्य तपसो निवारितवान् । तानि रक्षांस्यादित्यो नोऽस्माकं योद्धा भवत्वित्येवंवरमवृणीत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न् प्रजा᳓पतिर् अब्रवीद् - "यो᳓धयध्व᳓मि᳓"ति᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -113,11 +130,14 @@ Prajāpati said to them, "fight".
 
 प्रजापतिस्तानादित्येन सह युद्धं कुरुतेत्यनुज्ञां दत्तवान् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् उ᳓त्तिष्ठन्तँ ह᳓ वा ता᳓नि र᳓क्षाँस्यादित्यय्ँ᳓ यो᳓धयन्ति या᳓वदस्तम᳓न्वगात्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -140,6 +160,7 @@ Therefore, the Rākṣasas fight against the rising sun (Āditya) until that set
 
 तस्मात्कारणात्तानि रक्षांसि, उत्तिष्ठन्तं हवोद्यन्तमेवाऽऽदित्यं योधयन्ति युद्धे प्रवर्तयन्ति । यावदयमादित्योऽस्तमन्वगादस्तं प्राप्नोति उदयमारभ्य तावदादित्येन सह युद्धं कुर्वन्ति ।
 </details>
+</details>
 
 ## अर्घ्यम्
 
@@ -148,6 +169,8 @@ Therefore, the Rākṣasas fight against the rising sun (Āditya) until that set
 ता᳓नि ह वा᳓ एता᳓नि र᳓क्षाँसि  
 गायत्रिया᳓ ऽभिमन्त्रितेना᳓म्भसा शाम्यन्ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -169,10 +192,14 @@ These Rākṣasas become destroyed by the waters consecrated by the Gāyatrī Ma
 
 तदा च युद्धे प्रवृत्तानि तानि रक्षांसि तत्सवितुर्वरेण्यमित्यनया गायत्र्याऽभिमन्त्रितं यज्जलं तेनैव शाम्यन्ति न त्वन्येन केनापि ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 इत्यनेनाऽऽख्यानेन जलं प्रशस्यार्घ्यमभिधत्ते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -180,6 +207,8 @@ These Rākṣasas become destroyed by the waters consecrated by the Gāyatrī Ma
 त᳓दु ह वा᳓ एते᳓ ब्रह्मवादि᳓नः पूर्वा᳓भिमुखाः᳓ सन्ध्या᳓याङ्  
 गायत्रिया᳓ ऽभिमन्त्रिता आ᳓प ऊर्ध्वं᳓ वि᳓क्षिपन्ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -201,11 +230,14 @@ These Rākṣasas become destroyed by the waters consecrated by the Gāyatrī Ma
 
 यस्मादनेन जलेन रक्षसां शान्तिः, तदु ह वै तस्मादेव कारणादेते लोके दृश्यमाना ब्रह्मवादिनो वेदस्य वक्तारः संध्यायां प्रातःसंध्याकाले पूर्वाभिमुखाः सन्तो गायत्र्याऽभिमन्त्रितं जलमूर्ध्वं विक्षिपन्ति प्रक्षिपेयुरित्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ एता᳓ आ᳓पो वज्री᳓भूत्वा᳓ ता᳓नि र᳓क्षाँसि मन्दे᳓हा᳓रुणे द्वीपे᳓ प्र᳓क्षिपन्ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -226,18 +258,24 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 
 ताश्च विक्षिप्ता आपो गायत्रीसामर्थ्याद्वज्ररूपं प्राप्य तान्यादित्ययुद्धार्थमागतानि रक्षांसि मन्देहनामकानां रक्षसां स्वभूते कस्मिंश्चिदरुणनाम्नि द्वीपे प्रक्षिपन्ति ।
 </details>
+</details>
 
 ## प्रदक्षिणीकरणम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ प्रदक्षिणावृत्तिं विधत्ते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् प्रदक्षिणं᳓ प्र᳓क्रमन्ति, ते᳓न पाप्मा᳓नम् अ᳓वधून्वन्ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -260,12 +298,16 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 
 प्रदक्षिणाप्रारम्भमावर्तनं प्रक्रमेयुः कुर्युः । तेन च पापक्षयो भवति ।
 </details>
+</details>
 
 ## ब्रह्म-भावनम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ ध्यानं विधत्ते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -274,6 +316,8 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 कुर्व᳓न् ब्राह्मणो᳓ विद्वा᳓न्त् सक᳓लं भद्र᳓म् अश्नुते -  
 असा᳓व् आदित्यो᳓ ब्रह्मे᳓ति -
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -296,10 +340,14 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 
 अयं परिदृश्यमान आदित्यो ब्रह्मेति शास्त्रतो विद्वान्पुमानुद्यन्तमस्तं यन्तं वाऽऽदित्यं तथा ध्यायन्प्रदक्षिणं च कुर्वन्वर्तते स पुमान्सकलं भद्रमश्नुते श्रेयः प्राप्नोति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 वेदनं प्रशंसति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +355,8 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 ब्र᳓ह्मैव᳓ स᳓न् ब्र᳓ह्माप्ये᳓ति-  
 य᳓ एवव्ँ᳓ वे᳓द ।2।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -328,5 +378,6 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 <details><summary>सायण-टीका</summary>
 
 यः पुमानादित्यो ब्रह्मेति वेद स पुमान्पूर्वमजानानोऽपि स्वयं वस्तुतो ब्रह्मैव सन्प्राप्ताद्वेदनादज्ञानापगमे सति स्वानुभवेनापि ब्रह्माऽऽप्नोति ॥
+</details>
 </details>
 

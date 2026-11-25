@@ -116,13 +116,14 @@ title = "०७ उत्थापनम्"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
 पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -155,7 +156,7 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

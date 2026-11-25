@@ -2,6 +2,8 @@
 title = "०० भद्रं-कर्णेभिः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तत्राध्ययनकाले "भद्रं कर्णेभिः" इति द्वे जपति । ब्राह्मणं च भवति "भद्रं कर्णेभिरिति द्वे जपित्वा" इति ।  
@@ -30,6 +32,7 @@ Mantras for peace and propitiation.
 <details><summary>त्रिभुवनः</summary>
 
 Harih Om.
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH.md">
@@ -374,9 +377,12 @@ Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre G�
 </details>
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ द्वितीया - स्वस्ति न इति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/06_svasti_na.md">
@@ -390,9 +396,12 @@ Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre G�
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>त्रिभुवनः</summary>
 
 Om Peace, Peace, Peace.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/089/06_svasti_na.md">
@@ -403,9 +412,12 @@ Om Peace, Peace, Peace.
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 अथ द्वितीयमाह-  वृद्धैर्महात्मभिः सदा पुराणादिषु श्रूयत इति वृद्धश्रवाः । तादृश इन्द्रो नोऽस्माकं स्वस्ति दधात्वध्ययनश्रवणानुष्ठानार्थं क्षेमं सम्पादयतु । विश्वं वेत्ति जानातीति विश्ववेदाः । तादृशः पूषाऽपि नः स्नस्ति दधातु । अरिष्टमहिंसा तस्य नेमिस्थानीयः । यथा लोहमयी नेमिः काष्ठमयस्य चक्रस्य भङ्गाभावाय पालयत्येवमयंतार्क्ष्यो गरुडोऽपि सर्पादिकृतां हिंसां निवार्य तत्पालकत्वादरिष्टनेमिः । तादृशस्तार्क्ष्यो नः स्वस्ति दधातु ।
+</details>
 </details>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/089/06_svasti_na.md">

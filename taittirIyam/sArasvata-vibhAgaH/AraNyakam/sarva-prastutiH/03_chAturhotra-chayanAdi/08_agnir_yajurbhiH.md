@@ -3,6 +3,8 @@ title = "०८ अग्निर् यजुर्भिः"
 
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ सम्भारयजूंषि अग्निर्यजुर्भिरित्यादीनि ॥ 'हृदयं यजूंषि पत्न्यश्च' इत्यादिषु विनियोगः । हृदयं 'सुवर्णं धर्मं' इत्यनुवाकः । एतानि यजूंषि । पत्न्यो वक्ष्यन्ते ‘सेनेन्द्रस्य' इत्यादयः ।
@@ -16,11 +18,14 @@ title = "०८ अग्निर् यजुर्भिः"
 
 तेषामेकविंशतिसंख्याकानां यजुषां पाठस्तु -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र् य᳓जुर्भिः +++(सम्भरति)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -47,11 +52,14 @@ The Fire (becomes satisfied) by the Yajuses;
 
 अत्राग्निसवित्रादयो देवा यजुःस्तोमादीनि यज्ञे सम्भरणीयान्यङ्गानि । एते देवास्तैः संभरणीयैः सहास्मिन्कर्मण्यागच्छन्त्विति वाक्यार्थः । उक्थामदशब्दः शस्त्रवाची । यज्ञशब्दो हविष्प्रक्षेपवाची ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सविता᳓ स्तो᳓मैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -73,11 +81,14 @@ Savitṛ (sun), by the hymns;
 
 सविता स्तोमैः त्रिवृदादिभिः यज्ञं सम्भृतवान् । एवं सर्वत्र ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्र उक्थामदैः᳓+++(=स्तोत्रशस्त्रैः)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -99,11 +110,14 @@ Indra, by the praises;
 
 उक्थामदैः स्तोत्रशस्त्रैः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रा᳓व᳓रुणाव् आशि᳓षा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -125,11 +139,14 @@ Mitra and Varuṇa, by the prayers;
 
 आशिषा प्रार्थनामन्त्रैः । गतमन्यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ङ्गिरसो धि᳓ष्णियैर् अग्नि᳓भिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -147,11 +164,14 @@ Mitra and Varuṇa, by the prayers;
 - धि᳓ष्णियैः (*TS*-0/15, प्रातिपदिकम् धि᳓ष्णिय (*MW*))
 - अग्नि᳓भिः (*TS*-0/1195, *RV*-10/856, *TB*-0/310, *AV*-2/419, *SB-M*-0/111, *SB-K*-12/2289, *VS-M*-0/36, *VS-K*-0/193)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मरु᳓तस् सदो--हविर्-धाना᳓भ्याम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -168,11 +188,14 @@ Maruts, by the seat of the oblation-receptacles;
 - मरु᳓तः (*TS*-46/82, *RV*-134/227, *TB*-21/32, *AV*-37/58, *SB-M*-35/61, *SB-K*-54/93, *VS-M*-15/33, *VS-K*-20/39)
 - सदः-हविर्-धाना᳓भ्याम् (*AV*-0/2, *SB-K*-0/1, द्वन्द्वः समासस्य पा॰ ६.१.२२३)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पः प्रो᳓क्षणीभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -189,11 +212,14 @@ the waters, by the prokṣaṇīs (vessels for putting the holy water);
 - आ᳓पः (*TS*-98/319, *RV*-151/532, *TB*-29/86, *TK*-3/4, *AV*-141/324, *SB-M*-80/116, *SB-K*-333/744, *VS-M*-9/26, *VS-K*-24/63)
 - प्रो᳓क्षणीभिः (*TS*-0/5, *TB*-0/5, *SB-M*-0/11, *SB-K*-0/26, प्रातिपदिकम् प्रो᳓क्षणी (*MW*))
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓षधयो बर्हि᳓षा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -210,11 +236,14 @@ the plants, by the Barhi-grass;
 - ओ᳓षधयः (*TS*-63/124, *RV*-3/65, *TB*-18/45, *AV*-26/98, *SB-M*-34/53, *SB-K*-91/202, *VS-M*-9/13, *VS-K*-17/32)
 - बर्हि᳓षा (*TS*-3/75, *RV*-0/137, *TB*-4/53, *AV*-1/38, *SB-M*-3/20, *SB-K*-3/65, *VS-M*-3/16, *VS-K*-3/24)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दितिर् वे᳓द्या ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -231,12 +260,15 @@ Aditi, by the altar;
 - अ᳓दितिः (*TS*-38/95, *RV*-89/155, *TB*-11/28, *AV*-28/48, *SB-M*-0/14, *SB-K*-44/87, *VS-M*-0/4, *VS-K*-8/32)
 - वे᳓द्या (*TS*-1/27, *RV*-0/11, *TB*-1/21, *AV*-3/17, *SB-M*-3/45, *SB-K*-4/88, *VS-M*-2/5, *VS-K*-2/8)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मो दीक्ष᳓या ।  
 (11)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -254,11 +286,14 @@ Soma, by the consecration (1);
 - सो᳓मः (*TS*-96/294, *RV*-229/728, *TB*-48/135, *AV*-89/213, *SB-M*-126/248, *SB-K*-223/436, *VS-M*-29/90, *VS-K*-36/107)
 - दीक्ष᳓या (*TS*-4/25, *TB*-17/27, *AV*-9/18, *SB-M*-1/10, *SB-K*-0/49, *VS-M*-0/5, *VS-K*-0/6)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓ष्टेध्मे᳓न ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -275,11 +310,14 @@ Tvaṣṭṛ, by the fuel;
 - त्व᳓ष्टा (*TS*-30, *RV*-42/43, *TB*-12, *AV*-29/30, *SB-M*-23, *SB-K*-30, *VS-M*-13, *VS-K*-13)
 - इध्मे᳓न (*TS*-0/13, *RV*-1/7, *TB*-0/6, *AV*-3/6, *SB-K*-1/31, *VS-K*-0/1)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णुर् यज्ञे᳓न ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -295,11 +333,14 @@ Viṣṇu, by the sacrifice;
 
 विष्णुर्यज्ञेन तद्वान् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓सव आ᳓ज्येन ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -316,11 +357,14 @@ Vasus, by the ghee;
 - व᳓सवः (*TS*-26/140, *RV*-17/311, *TB*-7/39, *AV*-16/90, *SB-M*-12/30, *SB-K*-34/111, *VS-M*-7/40, *VS-K*-10/55)
 - आ᳓ज्येन (*TS*-11/54, *RV*-2/6, *TB*-7/53, *AV*-7/27, *SB-M*-12/63, *SB-K*-50/240, *VS-M*-0/1, *VS-K*-1/4)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्या᳓ द᳓क्षिणाभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -337,11 +381,14 @@ Vasus, by the ghee;
 - आदित्याः᳓ (*TS*-48/195, *RV*-10/91, *TB*-2/61, *AV*-22/70, *SB-M*-3/72, *SB-K*-44/438, *VS-M*-0/5, *VS-K*-4/31)
 - द᳓क्षिणाभिः (*TS*-6/135, *RV*-2/51, *TB*-0/58, *AV*-1/50, *SB-M*-0/191, *SB-K*-12/330, *VS-M*-0/10, *VS-K*-0/16)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वे देवा᳓ ऊर्जा᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -359,11 +406,14 @@ All-gods (Viśvedevān), by the power;
 - देवाः᳓ (*TS*-376/1025, *RV*-238/1342, *TB*-38/242, *TK*-3/8, *AV*-283/705, *SB-M*-106/567, *SB-K*-984/1945, *VS-M*-22/257, *VS-K*-19/350)
 - ऊर्जा᳓ (*TS*-30/42, *RV*-6/22, *TB*-3/7, *AV*-2/19, *SB-M*-0/4, *SB-K*-23/40, *VS-M*-0/2, *VS-K*-0/6)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूषा᳓ स्वगा-कारे᳓ण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -390,11 +440,14 @@ Pūṣan, by giving (their) own (oblations to the gods);
 
 स्वगाकारः शंयुवाकमन्त्रः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ᳓हस्-प᳓तिः पुरोध᳓या ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -421,11 +474,14 @@ Bṛhaspati, by the priest;
 
 पुरोधा ग्रहणकाले पठनीया ऋक्पुरोवाक् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिर् उद्गीथे᳓न ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -442,11 +498,14 @@ Prajāpati, by the Udgītha (singing Samans in particular modes);
 - प्रजा᳓पतिः (*TS*-172/437, *RV*-5, *TB*-93/258, *AV*-50/76, *SB-M*-153/276, *SB-K*-529/769, *VS-M*-13/30, *VS-K*-13/42)
 - उद्गीथे᳓न (*TS*-0/2, *AV*-0/2, *SB-K*-1/8, उद्गीथ᳓ *TS*-1, *TB*-1, *AV*-2, *SB-K*-6, प्रत्ययस्वरः पा॰ ३.१.३, फि॰ १.१)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षं पवि᳓त्रेण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -473,11 +532,14 @@ the mid-region, by the Pavitra (fringed filtering cloth);
 
 पवित्रशब्दो दशापवित्रवाची ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायुः᳓ पा᳓त्रैः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -499,12 +561,15 @@ the wind, by the pots;
 
 पात्रैः उर्ध्वपात्रैः
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहँ᳓ श्रद्ध᳓या ।+++(5)+++  
 (12)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -531,5 +596,6 @@ and I, by the faithfulness (2).
 <details><summary>सायण-टीका</summary>
 
 अयं यजमानः श्रद्धया सहाऽऽगच्छामि । स्पष्टमन्यत् ॥
+</details>
 </details>
 

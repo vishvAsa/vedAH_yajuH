@@ -3,6 +3,8 @@ title = "२३ अबिष्टका-ब्राह्मणम्"
 
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 In this Anuvāka the praise of the waters and the Aruṇaketuka Fire are given by giving the description of the creation and quoting some Ṛks. 1–14. The creation.
@@ -21,11 +23,14 @@ In this Anuvāka the praise of the waters and the Aruṇaketuka Fire are given b
 
 तत्र सृष्ट्यादौ कामोत्पत्तिं दर्शयति -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो वा᳓ इद᳓मासन्त्सलिल᳓मेव᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -46,11 +51,14 @@ In this Anuvāka the praise of the waters and the Aruṇaketuka Fire are given b
 
 यदिदं जगदिदानीमस्माभिर्दृश्यते तदिदमुत्पत्तेः पूर्वमाप एवाऽऽसन्, न तु देवतिर्यङ्मनुष्यादिकं किंचिदपि भौतिकमासीत् । पृथिव्यादिभूतान्तरमपि वारयितुं सलिलमेवेत्युच्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ प्रजा᳓पतिरे᳓कः पुष्करपर्णे᳓ स᳓मभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -66,12 +74,15 @@ That one Prajāpati came forth in a lotus-petal.
 
 तास्वप्सु मध्ये कस्मिंश्चित्पुष्करपर्णे जगदीश्वरः स प्रजापतिः समभवत्सम्यगाविर्भूयावस्थितः । तस्य प्रजापतेर्मनसोऽन्तर्मध्ये सर्वमिदं जगत्सृजेयमित्येवं काम उदपद्यत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्या᳓न्तर्म᳓नसि कामस्स᳓मवर्तत ।  
 इ᳓दँ᳓ सृजेयमि᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -88,6 +99,7 @@ In the midst of his mind the Kāma (Desire) was produced: May I create this (wor
 
 अथ तस्य अभिमन्यमानस्य अन्तः मनसि काम इच्छा समवर्तत उदपद्यत । यदा ह्यभिमन्यते तदैव चान्तर्मन उत्पद्यते तत्रैव चेच्छादय उत्पद्यन्ते । तस्य तु समस्तं जगच्छून्यं पश्यत इदं सृजेयमिति प्रथममिच्छोदपादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -95,6 +107,8 @@ In the midst of his mind the Kāma (Desire) was produced: May I create this (wor
 त᳓द्वाचा᳓ वदति ।  
 त᳓त्क᳓र्मणा करोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -117,11 +131,14 @@ Therefore, what a man thinks in the mind, speaks that by the speech and performs
 
 तस्मात्प्रजापतेर्वाक्शरीरप्रभृतिभ्यां पूर्वं सर्वप्रवृत्तिहेतुः कामो मनस्याविरभूत्तस्मात्प्रजापतिसंततावुत्पन्नः सर्वः पुरुष इदं कार्यं करिष्यामीत्यादौ मनसा चिन्तयति तत्तथैव वाचा वदति कर्मणा शरीरव्यापारेणापि तथैव करोति । तत्तस्मिन्कामस्य प्रथमोत्पत्तिलक्षणेऽर्थे काचिदृक्शाखान्तरेऽभ्यनूक्ता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓देषा᳓ऽभ्य᳓नूक्ता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -137,10 +154,14 @@ As to that this is (said):—
 
 तद् इदमर्थरूपमभिलक्ष्य इयमृगनूक्ता ॥१॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तामेतामृचं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,6 +171,8 @@ As to that this is (said):—
 सतो᳓ ब᳓न्धुम᳓सति नि᳓रविन्दन् ।  
 हृति᳓ प्रदी᳓ष्या कव᳓यो मनीषे᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -173,10 +196,14 @@ As to that this is (said):—
 
 तत्तदानीं सृष्टिकाले प्रजापतेः सकाशादग्रे प्रथमं कामः सर्वं सृजेयमित्यभिलाषः अधि समवर्तताऽऽधिक्येन सम्यगुत्पन्नः । यद्यदा मनसः प्रथमं रेतः कार्यमासीत् । तदेति पूर्वत्रान्वयः । पूर्वसृष्टौ लीनायामव्यक्ते जगत्कारणे स्रक्ष्यमाणप्राणिकर्मोद्भवे सति यदा प्रजापतेर्मानसं प्रथमं कार्यमुत्पन्नं तदा तत्कार्यं सृष्टिविषयेच्छारूपेण निष्पन्नमित्यर्थः । मनीषा मनस ईशितारः कवयो विद्वांसस्तत्तत्सृष्टिगताः प्रजापतयो हृदि स्वचित्ते प्रतीष्य प्रत्येकं निश्चित्य सतो विद्यमानस्य व्यक्तस्य जगतो बन्धुं बन्धकमुत्पत्तिहेतुं काममसत्यव्यक्ते कारणे निरविन्दन्निष्कृष्य लब्धवन्तः । न केवलमेतस्यामेव सृष्टौ किं तु सर्वास्वपि सृष्टिषु प्रवृत्ताः प्रजापतयः काममेव प्रथमं लभन्त इत्यर्थः । इतिशब्दो मन्त्रसमाप्तौ । अनेन मन्त्रेणैकामिष्टकामुपदधायात् । तथा च बौधायन आह - "कामस्तदग्र इति सङ्कल्पवतीम्" इति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 यथोक्तकाममाहात्म्यवेदनं प्रसंसति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -185,6 +212,8 @@ As to that this is (said):—
 य᳓त्कामो भ᳓वति ।  
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -207,10 +236,14 @@ As to that this is (said):—
 
 यः पुमान्काममाहात्म्यं वेद स पुमान्यत्कामो यद्विषयकामनावान्भवति तद्वस्तु, एनं वेदितारमुपनमति प्राप्नोति । देशकालयोः सामीप्यविवक्षया द्वावुपशब्दावुक्तौ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कामानन्तरभाविनीं सृष्टिं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -219,6 +252,8 @@ As to that this is (said):—
 स᳓ त᳓पस्तप्त्वा᳓ ।  
 श᳓रीरमधूनुत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -241,12 +276,15 @@ As to that this is (said):—
 
 स प्रजापतिः सृष्टिं कामयित्वा तपः कृतवान् । नात्र तप उपवासादिरूपं किंतु स्रष्टव्यं वस्तु कीदृशमिति पर्यालोचनरूपम् । अत एवाऽऽथर्वणिका आमनन्ति - "यः सर्वज्ञः सर्वविद्यस्य ज्ञानमयं तपः" इति । स प्रजापतिः, तपः पर्यालोचनरूपं कृत्वा स्रष्टव्यविशेषं निश्चित्य स्वकीयं शरीरमधूनुत कम्पितवान् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य य᳓न्माँस᳓मा᳓सीत् ।  
 त᳓तोऽरुणाः᳓ केत᳓वो वा᳓तरशना᳓ ऋ᳓षय उ᳓दतिष्ठन् । [90]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -268,12 +306,15 @@ Which was his flesh, from that stood the seers Aruṇas, Ketus and Vātaraśanas
 
 तस्य कम्पनस्य शरीरस्य यन्मांसमस्ति, तस्मान्मासादरुणादिनामकास्त्रिविधा ऋषय उदपद्यन्त । प्रजापतेः सत्यसङ्कल्पत्वात्तत्सङ्कल्पानुसारेण तत्तद्वस्तूत्पद्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ न᳓खाः ।  
 ते᳓ वैखानसाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -295,12 +336,15 @@ Which (were) the nails, they (became) Vaikhānasas;
 
 तस्य शरीरस्य ये नखा आसंस्ते वैखानसनामका मुनयोऽभवन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ वा᳓लाः ।  
 ते᳓ वालखिल्याः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -322,6 +366,7 @@ which (were) the hairs, they became Vālakhilyas;
 
 ये च शरीरे वालाः केशास्ते वालखिल्यनामका मुनयोऽभवन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -329,6 +374,8 @@ which (were) the hairs, they became Vālakhilyas;
 सो᳙ऽपा᳓म् ।  
 अन्तरतः᳓ कूर्मं᳓ भूतँ᳓ स᳓र्पन्तम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -351,10 +398,14 @@ which (was) the elixir, that (became a tortoise in the midst) of the waters.
 
 यः शरीरस्य रसः सारांशः सोऽपां मध्ये कश्चित्कूर्मोऽभूदिति शेषः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तेन कर्मेण सह प्रजापतेः संवादं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -363,6 +414,8 @@ which (was) the elixir, that (became a tortoise in the midst) of the waters.
 म᳓म वै᳓ त्व᳓ङ्माँसा᳓ ।  
 स᳓मभूत् । [91]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -385,12 +438,15 @@ which (was) the elixir, that (became a tortoise in the midst) of the waters.
 
 अन्तरतो जलस्य मध्ये कूर्माकारेण निष्पन्नं तत्रैव सञ्चरन्तं तं पुरुषं प्रजापतिरब्रवीत्, हे कूर्म मम वै त्वङ्माँसा त्वचो मांसस्य च सम्बन्धिनो रसात्समभूत्वं समुत्पन्नोऽसीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ने᳓त्यब्रवीत् ।  
 पू᳓र्वमेवा᳓ह᳓मिहा᳓समि᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -412,11 +468,14 @@ which (was) the elixir, that (became a tortoise in the midst) of the waters.
 
 तदा स कूर्मो नेत्यब्रवीत्, यत्त्वयोक्तं तन्न त्वदीयशरीररसान्नाहमुत्पन्नः । किंतु कूर्माकारं शरीरमेव निष्पन्नम्, अहं तु सर्वगतनित्यचैतन्यस्वरूपत्वात्पूर्वमेवेहास्मिन्स्थाने स्थितोऽस्मीत्येतत्कूर्मस्य वचनम् । यस्मात्पूर्वमासमित्युवाच तस्मात्पुरुष इति परमात्मनो नाम सम्पन्नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त्पु᳓रुषस्य पुरुषत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -439,6 +498,7 @@ That is (Pūrvamāsam) the (etymological essence) Pūruṣtva of the Puruṣa (p
 
 यस्मादेवं तत् तस्मात् पुरुषस्य पूरयितुर्व्यापिनः परमपुरुषस्य समस्तचेतनाभिमानिनः पुरुषत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -446,6 +506,8 @@ That is (Pūrvamāsam) the (etymological essence) Pūruṣtva of the Puruṣa (p
 सहस्राक्ष᳓स्सह᳓स्रपात् ।  
 भूत्वो᳓दतिष्ठत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -468,10 +530,14 @@ He stood being thousand-headed (and) thousand-eyed.
 
 एवमुक्त्वा स कूर्मशरीरवर्ती परमात्मा स्वसामर्थ्यप्रकटनाय विराड्रूपं कृत्वा सहस्रसंख्याकैः शिरोभिरक्षिभिः पादैश्च युक्तो भूत्वा प्रादुरभूत् । तदानीं प्रजापतिस्तं विराड्रूपं दृष्ट्वा तत्रत्यं परमात्मानमेवमब्रवीत् । भोः परमात्मन्मच्छरीरात्पूर्वं त्वमेव सर्वदा विद्यमानोऽतो मत्तः पूर्वभावी संस्त्वमेवेदं सर्वं जगत्कुरुष्वेति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तेन प्रजापतिनैवमुक्तस्य परमेश्वरस्य सृष्टिप्रकारं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -480,6 +546,8 @@ He stood being thousand-headed (and) thousand-eyed.
 त्वव्ँ᳓ वै᳓ पू᳓र्वँ स᳓मभूः ।  
 त्व᳓मिदं᳓ पू᳓र्वः कुरुष्वे᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -502,6 +570,7 @@ He stood being thousand-headed (and) thousand-eyed.
 
 स परमेश्वरः स्वयमारुणकेतुकरूपः सन्नितः सृष्टेरपि पूर्वसिद्धात्सलिलमेवाऽऽसीदित्युक्तान्महाजलात्कियतीरपः स्वकीयेनाञ्जलिना समादाय पूर्वस्यां दिशि तामबीष्टकामुपधत्तवान् । केन मन्त्रेण, एवा ह्येवेति, अनेन मन्त्रेण । तस्य मन्त्रस्याऽऽदित्यपरत्वं पूर्वमेव दर्शितम् । ततः समन्त्रकोपधानादादित्य उत्पन्नः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -509,6 +578,8 @@ He stood being thousand-headed (and) thousand-eyed.
 अञ्जलि᳓ना पुर᳓स्तादुपा᳓दधात् ।  
 एवा᳓ह्येवे᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -526,12 +597,15 @@ He stood being thousand-headed (and) thousand-eyed.
 
 अथ स कूर्म आरुणकेतुकाग्न्यात्मा । कुत एतत् ? "अथारुणः केतुः" इति वक्ष्यमाणत्वात् । अरुषो मांसलक्षणाज्जातोऽरुणः प्रकाशकत्वात् । केतुं केतयतीति केतुर् अग्निरुच्यते । स इत आदिसलिलाद् आपो ऽपो ऽञ्जलिना पुरस्तादादाय गृहीत्वा । विभक्तिव्यत्ययेन प्रथमा । शस एव वा "ऊडिदम्" इत्युदात्तत्वाभावः । पुरस्तादात्मनोऽग्रे उपदधाद् इष्टकाबुध्या उपहितवानपः "एवा ह्येव तया देवतयाऽङ्गिरस्वध्रुवा सीद" इति । अथ ततस् ताभ्य उपधीयमानाभ्यो ऽद्भ्य आदित्य उदतिष्ठद् देवानामादिभूतस्सविता समुत्पन्नः । हे एव ! अयनशील ! देव ! त्वं ह्य् एवा अयनसमर्थः । तस्मादागच्छेति प्रागेव व्याख्यातो मन्त्रः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त आदित्य᳓ उ᳓दतिष्ठत् ।  
 सा᳓ प्रा᳓ची दि᳓क् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -553,12 +627,15 @@ Then stood forth the sun (Āditya); that (is) the eastern quarter.
 
 स यस्यां दिश्युत्पन्नः सा प्राची दिगभूत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थारुणः᳓ केतु᳓र्दक्षिणत᳓ उपा᳓दधात् ।  
 एवा᳓ह्य᳓ग्न इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -575,12 +652,15 @@ Then stood forth the sun (Āditya); that (is) the eastern quarter.
 
 अथ सो ऽरुणः केतुर्दक्षिणतः दक्षिणहस्तपार्श्वे उपादधाद् इत्यादि । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वा᳓ अग्नि᳓रु᳓दतिष्ठत् ।  
 सा᳓ दक्षिणा᳓ दि᳓क् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -592,10 +672,14 @@ Then stood forth the fire (Agni); that (in) the southern quarter.
 ततो॒ वा अ॒ग्निरुद॑तिष्ठत् ।  
 सा द॑क्षि॒णा दिक् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अनेन प्रकारेण क्रमात्सर्वदिगुत्पत्तिं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -603,6 +687,8 @@ Then stood forth the fire (Agni); that (in) the southern quarter.
 अ᳓थारुणः᳓ केतुः᳓ पश्चा᳓दुपा᳓दधात् ।  
 एवा᳓ हि᳓ वा᳓यो इ᳓ति । [93]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -624,12 +710,15 @@ Now Aruṇa Ketu put (the water) westward (uttering the Mantra) "O Vāyu, you ar
 
 एतेषु मन्त्रेषु एवा एतव्याः प्राप्तव्याः कामाः । हिशब्दः प्रसिद्धौ । सर्वेषां देवानां कामप्रदत्वेन तत्कामरूपत्वं प्रसिद्धमिति पूर्वं व्याख्यातम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वायु᳓रु᳓दतिष्ठत् ।  
 सा᳓ प्रती᳓ची दि᳓क् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -641,12 +730,15 @@ Then stood forth the wind (Vāyu); that (is) the western quarter.
 ततो॑ वा॒युरुद॑तिष्ठत् ।  
 सा प्र॒तीची॒ दिक् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थारुणः᳓ केतु᳓रुत्तरत᳓ उपा᳓दधात् ।  
 एवा᳓ही᳓न्द्रे᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -668,12 +760,15 @@ Now Aruṇa Ketu put (the water) northward (uttering the Mantra) "O Indra, you a
 
 एवाहीतिशब्द आगच्छेत्येतस्मिन्नर्थे वा व्याख्येयः । सेयमित्यधोदिगुच्यते । अन्यत्पूर्ववद्व्याख्येयम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वा᳓ इ᳓न्द्र उ᳓दतिष्ठत् ।  
 सो᳓दीची दि᳓क् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -685,12 +780,15 @@ Then stood forth Indra; that (is) the northern quarter.
 ततो॒ वा इन्द्र॒ उद॑तिष्ठत् ।  
 सोदी॑ची॒ दिक् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थारुणः᳓ केतु᳓र्म᳓ध्य उपा᳓दधात् ।  
 एवा᳓हि᳓ पू᳓षन्नि᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -707,12 +805,15 @@ Now, Aruṇa Ketu put (the water) in the middle (uttering the Mantra) "O Pūṣa
 
 मध्ये यत्रातिष्ठत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ पूषो᳓दतिष्ठत् ।  
 से᳓य᳓न्दि᳓क् । [94]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -736,12 +837,15 @@ Then stood forth Pūṣan; that is this (belowward) quarter (6).
 - इय᳓म् (*TS*-104/965, *RV*-74/1247, *TB*-43/287, *AV*-68/1259, *SB-M*-381/5240, *SB-K*-326/5549, *VS-M*-4/70, *VS-K*-7/151)
 - दि᳓क् (*TS*-27, *TB*-5, *AV*-6, *SB-M*-91, *SB-K*-94, *VS-M*-3, *VS-K*-2)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थारुणः᳓ केतु᳓रुप᳓रिष्टादुपा᳓दधात् ।  
 एवा᳓ हि᳓ दे᳓वा इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -758,6 +862,7 @@ Now, Aruṇa Ketu put (the water) above (uttering the Mantra) "O gods, you are t
 
 उपरिष्टात् शिरसः परस्तात् ॥६॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -765,6 +870,8 @@ Now, Aruṇa Ketu put (the water) above (uttering the Mantra) "O gods, you are t
 गन्धर्वाप्सर᳓सश्चो᳓दतिष्ठन् ।  
 सो᳓र्ध्वा᳓ दि᳓क् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -777,10 +884,14 @@ Then stood forth the gods, the men, the Gandharvas and the Apsarases; that is th
 ग॒न्ध॒र्वा॒प्स॒रस॒श्चोद॑तिष्ठन् ।  
 सोर्ध्वा दिक् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 देवसृष्टिमभिधायासुरसृष्टिं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -788,6 +899,8 @@ Then stood forth the gods, the men, the Gandharvas and the Apsarases; that is th
 या᳓ विप्रु᳓षो विप᳓रापतन् ।  
 ता᳓भ्यो᳓ऽसुरा र᳓क्षाँसि पिशाचा᳓श्चो᳓दतिष्ठन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -809,12 +922,15 @@ Then stood forth the gods, the men, the Gandharvas and the Apsarases; that is th
 
 अञ्जलिनोपधीयमानानामपां सम्बधिन्यो या विप्रुषो बिन्दवो विविधा भूत्वा तस्मादुपधानप्रदेशाद्बहिः परापतंस्ताभ्यो विप्रुड्भ्योऽसुरादय उत्पन्नाः । ते चावान्तरजातिभेदात्त्रिविधाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात्ते᳓ प᳓राऽभवन् ।  
 विप्रु᳓ड्भ्यो हि᳓ ते᳓ स᳓मभवन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -836,11 +952,14 @@ therefore, they were defeated, for they were born of the drops.
 
 यस्मात्ते पराभवन्तीभ्यो विप्रुड्भ्य उत्पन्नास्तस्मात्पराभूताः, अधमाः सन्तो विनष्टा इत्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓देषा᳓ऽभ्य᳓नूक्ता । [95]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -856,10 +975,14 @@ therefore, they were defeated, for they were born of the drops.
 
 तद् इदमर्थरूपं सृष्टिलक्षणम् अभिलक्ष्य एषा गाथा अनूक्ता ॥७॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अपां सकाशाद्येयं सृष्टिः प्रपञ्चिता, तस्याः सङ्ग्रहरूपामृचमवतारयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -870,6 +993,8 @@ therefore, they were defeated, for they were born of the drops.
 अ᳓द्भ्यो वा᳓ इदँ᳓ स᳓मभूत् ।  
 त᳓स्मादिदँ᳓ स᳓र्वं ब्र᳓ह्म स्वयंभ्वि᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -902,16 +1027,22 @@ therefore, they were defeated, for they were born of the drops.
 
 यस्माच्छिथिलाभ्योऽद्भ्यो जातम्, आपो हि शिथिला न तु पाषाणवद्दृढाः, तस्मात्कारणादिदं सर्वं जगच्छिथिलमिव दृश्यते । तस्यैव व्याख्यानमध्रुवमिवेति । अनित्यत्वमध्रुवत्वम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथास्य जगतो दार्ढ्योपायं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मादिदँ᳓ स᳓र्वँ शि᳓थिलमिवा᳓ऽध्रु᳓वमिवाभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -932,10 +1063,14 @@ therefore, they were defeated, for they were born of the drops.
 
 केवलकार्यत्वे समुत्पन्नं शिथिलं भवेन्न तु तदस्ति । किंतु तज्जगत्प्रजापतिरेव । यथा घटो मृदंशः पृथुबुध्नोदराकारांशश्चेत्यंशद्वयमेवं जगत्यपि सच्चिदानन्दरूपप्रजापत्यंशो नामरूपांशश्चेत्यंशद्वयम्, तत्र नामरूपयोरेव कार्यत्वेन शैथिल्येऽपि सच्चिदानन्दप्रजापत्यंशस्य दार्ढ्यमस्ति । स हि प्रजापतिरात्मना साधनान्तरनिरपेक्षेण स्वसामर्थ्येनाऽऽत्मानं स्वस्वरूपं जगदाकारेण विधाय तदेव जगदनुसृत्य शरीरेषु स्वयं चिद्रूपेण प्राविशत् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अस्मिन्नर्थ ऋचमुदाहरति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -944,6 +1079,8 @@ therefore, they were defeated, for they were born of the drops.
 आत्म᳓नाऽऽत्मा᳓नव्विंधा᳓य ।  
 त᳓देवा᳓नु प्रा᳓विशत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -966,11 +1103,14 @@ therefore, they were defeated, for they were born of the drops.
 
 तत्तस्मिन्स्वयमेव सृष्ट्वा प्रविष्ट इत्यस्मिन्नर्थे काचिदृक्शाखान्तरेऽभ्यनूक्ता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓देषा᳓ऽभ्य᳓नूक्ता । [96]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -986,10 +1126,14 @@ therefore, they were defeated, for they were born of the drops.
 
 तद् इदमर्थरूपं प्रजापतिप्रवृत्तिलक्षणम् अभिलक्ष्य एषा ऋक् अनूक्ता ॥९॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तामेतामृचं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -999,6 +1143,8 @@ therefore, they were defeated, for they were born of the drops.
 प्रजा᳓पतिः प्रथमजा᳓ ऋत᳓स्य ।  
 आत्म᳓नाऽऽत्मा᳓नमभि᳓ सव्ँ᳓ विवेशे᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1022,6 +1168,9 @@ therefore, they were defeated, for they were born of the drops.
 
 ऋतस्य सत्यस्य परब्रह्मणः सकाशात्प्रथममुत्पन्नः प्रजापतिर्लोकान्भूरादीन्विधाय भूतानि प्राणिनश्च विधाय प्राच्याद्या मुख्यदिश आग्नेयाद्या विदिशश्च विधायाऽऽत्मना स्वकीयेन चैतन्येनाऽऽत्मानं स्वशरीररूपं जगदभितः सम्यक्प्रविवेश । इत्यनेन मन्त्रेण काचिदिष्टकोपधेया । तथा च बौधायन आह - "विधाय लोकानिति स्तम्भनवतीम्" इति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -1032,6 +1181,7 @@ therefore, they were defeated, for they were born of the drops.
 
 A Brāhmaṇa-passage (mentioning the fruit of knowing the description of the creation).
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1040,6 +1190,8 @@ A Brāhmaṇa-passage (mentioning the fruit of knowing the description of the cr
 त᳓देवा᳓नु प्र᳓विशति ।  
 य᳓ एवव्ँ᳓ वे᳓द ॥ [97]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1062,5 +1214,6 @@ A Brāhmaṇa-passage (mentioning the fruit of knowing the description of the cr
 <details><summary>सायण-टीका</summary>
 
 यः पुमानेवं प्रजापतिसृष्टिप्रकारं विजानाति स पुमान्सर्वमेव जगति विद्यमानमिदं फलं प्राप्य तच्च सर्वं वशीकृत्य तदेव जगदनुप्रविशति । सर्वात्मको भवतीत्यर्थः ॥
+</details>
 </details>
 

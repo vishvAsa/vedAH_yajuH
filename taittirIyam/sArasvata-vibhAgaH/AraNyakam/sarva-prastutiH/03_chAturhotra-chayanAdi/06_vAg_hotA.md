@@ -5,6 +5,8 @@ title = "०६ वाग् होता"
 
 ## होता
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरतः प्राञ्चं षढ्ढोतारमुपदद्धाति - वाग्घोतेति ॥ ‘वाग्घोता षढ्ढोतॄणां' इत्येतद्-ब्राह्मणोक्तत्वाद् अयमेवोत्तरत इत्येके ।  
@@ -19,11 +21,14 @@ title = "०६ वाग् होता"
 
 तत्पाठस्तु -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓ग् घो᳓ता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -44,11 +49,14 @@ The speech is the Hotṛ priest;
 
 येयं यजमानस्य वाक्सेयं होतृस्थानीया । येयं दीक्षा सा पत्नीस्थानीया । योऽयं वातः प्राणरूपः सोऽध्वर्युस्थानीयः । याः प्रोक्षणाद्यर्था आपस्ता अभिगरो ब्रह्मस्थानीयाः । अभितो गिरति कर्तव्यमनुजानातीत्यभिगरः । यन्मनस्तद्धविःस्थानीयम् । तपस्यग्निस्थानीये तन्मनोहविर्जुहोमि स्थापयामि । अत्र वागादीनां षण्णां होत्रादिरूपेण होमनिष्पादकानामभिधानात्षड्ढोतृत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीक्षा᳓ प᳓त्नी ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -70,11 +78,14 @@ the consecration, the wife;
 
 शस्त्रादिवाक्स्थानीया दीक्षा नियमपरम्परा सैव पत्नी ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓तोऽध्वर्युः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -96,11 +107,14 @@ the wind, the Adhvaryu priest;
 
 वातः प्राणः स एव अध्वर्युः कर्तृत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पोऽभिगरः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -122,11 +136,14 @@ the waters, the Abhigar priest;
 
 आपोऽभिगरः आभिगरिता ब्रह्मा । यद्वा - अभिगरणं उद्देशादिर्यजमानव्यापारः, तद्धेतुत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नो हविः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -148,11 +165,14 @@ the mind, the oblation;
 
 मनो हविः आज्यादि, तृप्तिहेतुत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓पसि जुहोमि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -174,18 +194,24 @@ I sacrifice in the austerity.
 
 तपसि अग्निस्थानीये तत् मनोहविः जुहोमि स्थापयामि अविनाशेन प्रवर्तयामि इति सूचितं हविग्रहणेन ॥
 </details>
+</details>
 
 ## ग्रहः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ ग्रहः ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓र् भु᳓वस् सु᳓वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -196,10 +222,14 @@ Bhūr, Bhuvaḥ, Suvaḥ.
 
 भूर्भुव॒स्सुवः॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ ग्रहभागमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -208,6 +238,8 @@ Bhūr, Bhuvaḥ, Suvaḥ.
 ब्र᳓ह्मणे स्वयं-भु᳓वे स्वा᳓हा ।  
 (6)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -238,5 +270,6 @@ Brahman is self-born, salutation to the Brahman, the self-born (1).
 <details><summary>सायण-टीका</summary>
 
 य एते भूरादयस्त्रयो लोकास्तेषां यत्कारणं स्वयंभु स्वतः सिद्धं परं ब्रह्म तस्मै स्वयंभुवे परब्रह्मणे जुहुधीति स्वकीया वागाह ॥
+</details>
 </details>
 
