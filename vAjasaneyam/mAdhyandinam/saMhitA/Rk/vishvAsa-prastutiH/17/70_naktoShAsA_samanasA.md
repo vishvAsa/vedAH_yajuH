@@ -2,7 +2,7 @@
 title = "७० नक्तोषासा समनसा"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/12/02_naktoShAsA_samanasA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/12/02_naktoShAsA_samanasA.md">
 <details open><summary><h5>०२ नक्तोषासा समनसा ...{Loading}...</h5></summary>
 
 नक्तो॒षासा॒ स-म॑नसा॒ विरू॑पे  

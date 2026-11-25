@@ -13,7 +13,7 @@ Night and Dawn, different in hue, accordant, etc., as in XII. 2.
 द्यावा॒क्षामा॑ रु॒क्मोऽअ॒न्तर्विभा॑ति दे॒वाऽअ॒ग्निं॑ धा॑रयन् द्रविणो॒दाः ॥७० ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/12/02_naktoShAsA_samanasA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/12/02_naktoShAsA_samanasA.md">
 
 <details open><summary><h8>०२ नक्तोषासा समनसा ...{Loading}...</h8></summary>
 <details><summary>पदपाठः - दयानन्दादि</summary>
