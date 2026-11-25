@@ -879,12 +879,18 @@ In this holy power, this worldly power, this prayer, this Purohitaship, this rit
 </details>
 </details>
 
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/182_RtAShA_DRta_dhAmAgni.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋताषा᳓ड् +++(=ऋतेन शाततीति)+++ ऋत᳓धामा ऽग्नि᳓र् गन्धर्वः᳓।
+ऋताषा᳓डृत᳓-धामाग्नि᳓र् गन्धर्वः᳓
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Griffith</summary>
+
+Maintainer of Law, true by nature, Agni is the Gandharva.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -893,12 +899,44 @@ Supporting holy order, abounding in truth, Agni is the Gandharva;
 
 <details><summary>मूलम्</summary>
 
+ऋता॒षाडृ॒तधा॑मा॒ग्निर्ग॑न्ध॒र्वः
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
 ऋ॒ता॒षाडृ॒तधा॑मा॒ अग्निर्ग॑न्ध॒र्वः
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+ऋ॒ता॒षा॒ट्। ऋ॒तधा॒मेत्यृ॒तऽधा॑मा। अ॒ग्निः। ग॒न्ध॒र्वः।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 ऋ॒ता॒षाट् । ऋ॒तधा॒मेत्यृ॒त-धा॒मा॒ । अ॒ग्निः । ग॒न्ध॒र्वः ।
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+द्वादश यजूंषि स नो भुवनस्य पत इत्येतस्याः प्राकृताषाडित्यादीनि।
+
+अग्निरुच्यते ऋताषाट्।
+
+ऋतं सत्यं सहतीति ऋताषाट्।
+
+ऋतं सत्यं धाम स्थानं यस्य स तथोक्तः।
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+प्रतिस्वाहाकारᳪं᳭ राष्ट्रभृतो वाट्कारान्तः पूर्वः पूर्वो मन्त्रः।
+
+आज्याद्द्वादशगृहीतं गृहीत्वा विभज्य द्वादशांशं कृत्वा ऋतेत्यादिद्वादशमन्त्रैः प्रतिस्वाहाकारं राष्ट्रभृत्संज्ञा आहुतीर्जुहोति।
+
+व्यतिषक्तेषु द्वादशमन्त्रेषु पूर्वो मन्त्रः स्वाहावाडित्यन्तः उत्तरस्ताभ्यः स्वाहेत्यन्तः।
+
+ततो मन्त्रे यानि पुंलिङ्गानि स न इदं ब्रह्मेत्यादीनि तानि व्यवहितपठितान्यप्यपकृष्य पठित्वा पूर्वो मन्त्रः संपाद्यः।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -911,6 +949,7 @@ Supporting holy order, abounding in truth, Agni is the Gandharva;
 ऋतधामा ऋतं सत्यं यज्ञो वा धाम स्थानं तेजो वा यस्य स ऋतधामा । ईदृशत्वादग्निर्गन्धर्वः गान्धारबन्धं धारयति उदकं वा यागद्वारेणोत्पादयतीति गन्धर्वः, पृषोदरादिः ।
 </details>
 </details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1254,12 +1293,18 @@ his Apsarases are the Rc and Saman verses, (called) hymns, &c.
 </details>
 </details>
 
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/41_iShiro_vishvavyachA_vAto.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इषिरो᳓  विश्व᳓व्यचा वा᳓तो गन्धर्वः᳓,
+इषिरो᳓ विश्व᳓व्यचा वा᳓तो गन्धर्वः᳓
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Griffith</summary>
+
+The Quick, All-reaching, Wind is the Gandharva.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -1268,12 +1313,60 @@ The swift, all-pervading wind is the Gandharva;
 
 <details><summary>मूलम्</summary>
 
-इ॒षि॒रो  वि॒श्वव्य॑चा॒ वातो॑ गन्ध॒र्वः,
+इ॒षि॒रो वि॒श्वव्य॑चा॒ वातो॑ गन्ध॒र्वः
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+इ॒षि॒रः। वि॒श्वव्य॑चाः। वातः॑। ग॒न्ध॒र्वः।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+इ॒षि॒रः। वि॒श्वव्य॑चाः। वातः॑। ग॒न्ध॒र्वः।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 इ॒षि॒रः । वि॒श्वव्य॑चा॒ इति॑ वि॒श्व-व्य॒चाः॒ । वातः॑ । ग॒न्ध॒र्वः ।
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+इषिरो विश्वव्यचाः।
+
+य इषिरः क्षिप्रः।
+
+‘इषु गतौ’ तस्य इषिरः।
+
+विश्वव्यचाः सर्वतोगमनः।
+
+वातो गन्धर्वः तस्यापो अप्सरस ऊर्जोनाम।
+
+आपो वा ऊर्जः अद्भ्यो ह्यग्निर्जायते।
+
+तुल्यव्याख्यानमन्यत्॥ ४१॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ चतुर्थः - ' इषिरो विश्वव्यचा वातो गन्धर्वः । तस्यापो अप्सरस ऊर्जी नाम ।
+स न इदं ब्रह्म क्षत्रं पातु तस्मै स्वाहा वाट् ताभ्यः स्वाहा' इति ।
+
+यः इषिरः क्षिप्रः ।
+
+ईष गतौ ।
+
+विश्व-व्यचाः सर्वतो गमनशील: "वातः वायुः स एव गन्धर्वः । तस्य वातस्य आप: "अप्सरसः, ऊर्ज: अन्नरसः 'नाम ।
+
+स्पष्टम् अन्यत् ॥४॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+' इषिरो विश्व-व्यचा: ' इति ।
+
+यः " इषिरः । क्षिप्रनाम । इष गतौ । 'विश्व-व्यचाः सर्वतो गमन-शीलः । वातः वायुः, स एव गन्धर्वः । तस्य वातस्य आप: " अप्सरसः स्त्रियः, ऊर्ज: अन्नरसः 'नाम । ' स नः ' इत्य्-आदिः समानार्थः ॥ ११ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1281,6 +1374,7 @@ The swift, all-pervading wind is the Gandharva;
 6इषिरः सरणशीलस्सदागतिः । इष गतौ, औणादिकः किरच्प्रत्ययः । विश्वव्यचा विष्वग्भागं व्यचति पुरोवातादिरूपेण व्याप्नोति, विपूर्वादञ्चतेः 'गतिकारकयोरपि' इत्यसुन्, पूर्वपदप्रकृतिस्वरत्वस्य च बहुव्रीहिस्वरस्योपलक्षणत्वात् 'बहुव्रीहौ विश्वम्' इत्येतद्भवति । वातो गन्धर्वः,
 </details>
 </details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
