@@ -7760,7 +7760,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 [[71]]
 
 ## उत्तरनारायणानुवाकः
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/39-40_adbhyas_sambhUtaH/"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/"></div>  
 
 [[144]]
 
