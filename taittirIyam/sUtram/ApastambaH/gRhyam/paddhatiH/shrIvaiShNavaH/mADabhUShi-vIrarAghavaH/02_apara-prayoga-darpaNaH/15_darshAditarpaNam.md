@@ -48,7 +48,7 @@ title = "१५ दर्शादितर्पणम्"
 तिलैर् अभ्यर्च्य  
 "ऊर्जं वहन्तीर्" इति तिलोदकम् उत्सृज्य  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
 <details open><summary><h5>३४ ऊर्जं वहन्तीरमृतम् ...{Loading}...</h5></summary>
 
 ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
@@ -122,12 +122,12 @@ title = "१५ दर्शादितर्पणम्"
 आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
 अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥
 
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/19/58_A_yantu.md)
+[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/19/58_A_yantu.md)
 </details>
 
 <details><summary>टीका</summary>
 
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/19/58_A_yantu.md)
+[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/58_A_yantu.md)
 </details>
 </details>
 </details>

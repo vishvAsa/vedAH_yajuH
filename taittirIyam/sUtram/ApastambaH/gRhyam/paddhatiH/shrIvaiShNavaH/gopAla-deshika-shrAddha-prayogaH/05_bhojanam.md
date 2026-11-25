@@ -2474,7 +2474,7 @@ ye that are in this world, of these may I be the most fortunate.
 
 [[137]]
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/46_svAduShaM_sadaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/29/46_svAduShaM_sadaH.md">
 
 स्वा॒दु॒-षँ॒सदः॑ पि॒तरो॑ वयो॒-धाः  
 कृ॑च्छ्रे॒-श्रितः॒ शक्ती॑वन्तो गभी॒राः।  
@@ -2483,7 +2483,7 @@ ye that are in this world, of these may I be the most fortunate.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/47_brAhmaNAsaH_pitaraH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/29/47_brAhmaNAsaH_pitaraH.md">
 
 ब्राह्म॑णासः॒ पित॑रः॒ सोम्या॑सः  
 शि॒वे नो॒ द्यावा॑-पृथि॒वी ऽअ॑ने॒हसा॑।  
@@ -2492,7 +2492,7 @@ ye that are in this world, of these may I be the most fortunate.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/48_suparNaM_vaste.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/29/48_suparNaM_vaste.md">
 
 +++(इषोः पुच्छे)+++ सु॒प॒र्णं व॑स्ते+++(=आच्छादयति)+++, मृ॒गो ऽअ॑स्या॒ दन्तो॒  
 +++(शल्ययोजने)+++ गोभिः॒ सन्न॑द्धा, पतति॒ प्रसू॑ता।  

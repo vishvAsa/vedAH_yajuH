@@ -74,7 +74,7 @@ Notes: This section is the classic invocation of Vināyaka in a clod of turmeric
 
 कलशोपरि वस्त्रवेष्टनं कृत्वा -  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/03/49_pUrNA_darvi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/03/49_pUrNA_darvi.md">
 
 पू॒र्णा द॑र्वि॒ **परा॑ पत॒**  
 सुपू॑र्णा॒ **पुन॒राप॑त**।  
@@ -905,7 +905,7 @@ Notes: The Mātṛ-s invoked here belong to two groups. The first are set of god
 
 सोम आगच्छ ।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/34/20_aShADhaM_yutsu.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/34/20_aShADhaM_yutsu.md">
 
 अषा॑ढं यु॒त्सु, पृत॑नासु॒ पप्रिँ॑,  
 स्व॒र्षाम् अ॒प्सां वृ॒जन॑स्य गो॒पाम्।  

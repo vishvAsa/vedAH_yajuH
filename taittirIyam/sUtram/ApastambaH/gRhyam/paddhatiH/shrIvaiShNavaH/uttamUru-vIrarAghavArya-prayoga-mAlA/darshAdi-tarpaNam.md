@@ -183,7 +183,7 @@ y los medios de alcanzarlo).
 
 [[161]]
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
 
 ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
 पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
@@ -221,7 +221,7 @@ y los medios de alcanzarlo).
 
 इति भुग्नेन दर्भेणाऽऽसनं दत्त्वा, (इदमर्चनम् इति तिलैरर्चनम्) ...
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
 
 ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
 पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
@@ -277,12 +277,12 @@ y los medios de alcanzarlo).
 आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
 अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥
 
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/19/58_A_yantu.md)
+[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/19/58_A_yantu.md)
 </details>
 
 <details><summary>टीका</summary>
 
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/19/58_A_yantu.md)
+[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/58_A_yantu.md)
 </details>
 </details>
 </div>
@@ -291,7 +291,7 @@ y los medios de alcanzarlo).
 
 इति त्रिः तिलोदकं दत्त्वा ।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
 
 ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
 पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
@@ -469,12 +469,12 @@ y los medios de alcanzarlo).
 आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
 अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥
 
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/19/58_A_yantu.md)
+[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/19/58_A_yantu.md)
 </details>
 
 <details><summary>टीका</summary>
 
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/19/58_A_yantu.md)
+[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/58_A_yantu.md)
 </details>
 </details>
 </div>
@@ -483,7 +483,7 @@ y los medios de alcanzarlo).
 
 इति त्रिः तिलोदकं दत्त्वा ।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
 
 ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
 पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
@@ -621,7 +621,7 @@ y los medios de alcanzarlo).
 
 इति उभयेषु दर्भेषु त्रिरुदकाञ्जलिं दत्त्वा
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
 
 ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
 पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  

@@ -103,7 +103,7 @@ title = "१० ब्रह्मकूर्चपञ्चगव्यवि�
 
 दध्नि – 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
 
 ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑द्  
 वि सी॑म॒तस् सु॒रुचो॑ वे॒न **आ॑वः** ।  
@@ -166,7 +166,7 @@ title = "१० ब्रह्मकूर्चपञ्चगव्यवि�
 
 ### गोमूत्रम्
 
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/03/35_tat_saviturvareNyam.md">
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/03/35_tat_saviturvareNyam.md">
 
 तत् स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि। धियो॒ यो नः॑ प्रचो॒दया॑त् ॥३५॥
 
@@ -294,7 +294,7 @@ ______________
 
 > ओं सोमा॑य॒ स्वाहा॑ ॥  (सोमायेदं न मम)  
 
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/36/12_shanno_devIrabhiShTaya-Apo.md">
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/36/12_shanno_devIrabhiShTaya-Apo.md">
 
 शन् नो॑ दे॒वीर् अ॒भिष्ट॑य॒  
 आपो॑ भवन्तु पी॒तये॑।  
@@ -372,7 +372,7 @@ ______________
 
 </div>
 
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/03/35_tat_saviturvareNyam.md">
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/03/35_tat_saviturvareNyam.md">
 
 तत् स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि। धियो॒ यो नः॑ प्रचो॒दया॑त् ॥३५॥
 

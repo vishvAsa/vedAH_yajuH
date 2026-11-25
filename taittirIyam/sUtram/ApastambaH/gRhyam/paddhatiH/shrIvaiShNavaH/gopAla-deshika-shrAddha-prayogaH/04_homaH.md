@@ -236,7 +236,7 @@ title = "०४ होमः"
 
 इति दत्वा
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
 
 ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
 पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  

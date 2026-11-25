@@ -1015,7 +1015,7 @@ _____________________________
 
 "काण्डात् काण्डात् प्ररोहन्ती"ति द्वाभ्यामुपोदके दूर्वा रोपयन्ति ॥१९॥
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/20_kANDAtkANDAtprarohantI_paruShaHparuShaspari.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/13/20_kANDAtkANDAtprarohantI_paruShaHparuShaspari.md">
 
 काण्डा॑त्-काण्डात् **प्र॒रोह॑न्ती॒**  
 परु॑षᳶपरुष॒ᳶ+++(=पर्वणः पर्वणः)+++ परि॑ ।  
