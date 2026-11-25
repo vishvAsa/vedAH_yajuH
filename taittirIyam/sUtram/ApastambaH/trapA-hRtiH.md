@@ -10,6 +10,8 @@ title = "त्रपा-हृतिः"
 ग्रन्थोऽयं विष्णु-कारितः॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>English</summary>
 
 May this book, motivated by Vishnu,  
@@ -19,11 +21,11 @@ dishonestly mentioning their followership of the Apastamba school
 (not having yet read his texts).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 आपस्तम्बानुयायित्वम्  
 अभिवादयतां मृषा।  
 त्रपां हर्तुं सताम् भूयाद्  
 ग्रन्थोऽयं विष्णु-कारितः॥
+</details>
 </details>

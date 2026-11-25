@@ -9,8 +9,11 @@ title = "भूर् भुव॒स् सु॒व॒स् स्वाह�
 (प्रजा᳓पतय इदं᳓ न᳓ म᳓म) ॥१॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
 (प्रजापतय इदं न मम) ॥१॥
+</details>
 </details>

@@ -9,6 +9,8 @@ title = "सांहित्यादि"
 सांहि᳓तीर् देव᳓ता उपनिष᳓दस् तर्पयामि    
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 सांहि᳓तीर् देव᳓ता उपनिष᳓दस् तर्पयामि    
@@ -18,12 +20,15 @@ title = "सांहित्यादि"
 
 या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षदस्॒ तर्पयामि 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याज्ञि᳓कीर् देव᳓ता उपनिष᳓दस् तर्पयामि    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -34,12 +39,15 @@ title = "सांहित्यादि"
 
 या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षदस्॒ तर्पयामि 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारु᳓णीर् देव᳓ता उपनिष᳓दस् तर्पयामि     
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -50,6 +58,7 @@ title = "सांहित्यादि"
 
 वा॒रुणी॑भ्यः॒, दे॒वता॑भ्यः, उ॒प॒नि॒षदस्॒ तर्पयामि
 </details>
+</details>
 
 
 ब्रह्मतीर्थेन
@@ -58,6 +67,8 @@ title = "सांहित्यादि"
 
 ब्र᳓ह्मणे स्वयम्भु᳓वं तर्पयामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,6 +79,7 @@ title = "सांहित्यादि"
 
 ब्रह्म॑णे, स्व॒य॒म्भुवं॑ - तर्पयामि 
 </details>
+</details>
 
 
 ऋषितीर्थेन
@@ -77,8 +89,11 @@ title = "सांहित्यादि"
 स᳓दसस्-प᳓तिं तर्पयामि। 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 स᳓दसस्-प᳓तिं तर्पयामि।
+</details>
 </details>
 

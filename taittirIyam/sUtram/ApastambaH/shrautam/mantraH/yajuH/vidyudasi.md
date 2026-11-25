@@ -10,10 +10,13 @@ title = "वृष्टि॑रसि॒"
 म᳓यि श्रद्धा᳓। 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 विद्यु॑द् असि॒,  
 विद्य॑ मे पा॒प्मान॑म्, 
 ऋ॒तात् स॒त्यम् उपै॑मि॥
 मयि॑ श्र॒द्धा।
+</details>
 </details>

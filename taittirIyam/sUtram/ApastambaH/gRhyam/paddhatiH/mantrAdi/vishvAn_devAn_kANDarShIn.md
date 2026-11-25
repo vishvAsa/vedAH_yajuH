@@ -9,7 +9,10 @@ title = "प्रजा᳓पतये काण्डऋष᳓ये स्व
 वि᳓श्वान् देवा᳓न् काण्डऋषी᳓न् तर्पयामि ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 वि᳓श्वान् देवा᳓न् काण्डऋषी᳓न्  तर्पयामि ।
+</details>
 </details>

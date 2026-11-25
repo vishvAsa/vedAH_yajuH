@@ -10,8 +10,11 @@ title = "वृष्टि॑रसि॒"
 अप्सु᳓ श्रद्धा᳓। 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 वृष्टि॑रसि॒,  वृश्च॑ मे पा॒प्मा॑नम्, ऋ॒तात् स॒त्यम् उपा॑गाम्।  
 अ॒प्सु श्र॒द्धा।
+</details>
 </details>

@@ -9,7 +9,10 @@ title = "प्रजा᳓पतये काण्डऋष᳓ये स्व
 प्रजा᳓पतिं काण्डऋषिं᳓ तर्पयामि ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रजा᳓पतिं काण्डऋषिं᳓ तर्पयामि ।
+</details>
 </details>
