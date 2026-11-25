@@ -94,7 +94,7 @@ I take thee with the arms of the Aśvins, with the hands of Pusan.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/02_imAmagRbhNan_rashanAmRtasya.md">
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/22/02_imAmagRbhNan_rashanAmRtasya.md">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -106,7 +106,7 @@ I take thee with the arms of the Aśvins, with the hands of Pusan.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/22/02_imAmagRbhNan_rashanAmRtasya.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/22/02_imAmagRbhNan_rashanAmRtasya.md">
 
 <details><summary>Keith</summary>
 

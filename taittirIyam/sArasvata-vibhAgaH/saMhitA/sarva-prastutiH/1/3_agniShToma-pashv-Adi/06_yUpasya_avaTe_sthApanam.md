@@ -563,7 +563,7 @@ Support the sky, fill the atmosphere, with thy base make firm the earth.
 <details><summary>प्रदीपसिंहः</summary>
 
 एतन्मन्त्रभागः अन्यत्रापि वर्तते । 
-vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/05/27_uddivaM_stabhAnAntarixam.md
+vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/05/27_uddivaM_stabhAnAntarixam.md
 </details>
 </details>
 

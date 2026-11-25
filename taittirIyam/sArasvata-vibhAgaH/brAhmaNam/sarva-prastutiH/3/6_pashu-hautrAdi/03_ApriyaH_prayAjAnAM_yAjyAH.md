@@ -100,7 +100,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/28_AjuhvAna-IDyo_vandyashchAyAhyagne.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/29/28_AjuhvAna-IDyo_vandyashchAyAhyagne.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -112,7 +112,7 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/29/28_AjuhvAna-IDyo_vandyashchAyAhyagne.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/29/28_AjuhvAna-IDyo_vandyashchAyAhyagne.md">
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
