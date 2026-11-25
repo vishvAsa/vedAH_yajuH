@@ -1,9 +1,12 @@
 +++
 title = "या᳓ वाम्"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1'यः पाप्मना गृहीतस्स्यात्तस्मा एतामैन्द्रावरुणीं पयस्यां निर्वपेत्' इत्यादि कारणं वक्ष्यति । तां पुरोडाशाच्चतुर्धा कृत्वा व्यूहति - यावामिन्द्रावरुणेति चतुर्भिर्मन्त्रैः॥ यतव्या सहस्या रक्षस्या तेजस्येति चतुर्णां विशेषः । शेषस्तुल्यः ।
+</details>
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - सङ्क्षेपः</summary>
@@ -24,6 +27,8 @@ title = "या᳓ वाम्"
 त᳓येम᳓म् अँ᳓हसो मुञ्चतम् ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 That body of yours, to be striven for, O Indra and Varuna, with that do ye free this one from tribulation;
@@ -43,12 +48,15 @@ That body of yours, to be striven for, O Indra and Varuna, with that do ye free 
 
 हे इन्द्रावरुणा इन्द्रावरुणौ । 'सुपां सुलुक्' इत्याकारः । 'देवताद्वन्द्वे च' इति पूर्वपदस्यानङ् । वां युवयोः या यतव्या तनूः शरीरं । यातूनि यातुधानाः रक्षांसि तेषां हननी रक्षोयातूनां हन्त्रीति यावत् । तया तन्वा इमं यजमानं अंहसः पापात् अमुञ्चतं शोधयतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ वाम् इन्द्रावरुणा  
 सहस्या᳙ [तनू᳓स् त᳓येम् अ᳓मँ᳓हसो मुञ्चतम्] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -69,11 +77,14 @@ that strong [body of yours, O Indra and Varuna, with that do ye free him from tr
 
 2यावामित्यादि ॥ या सहस्या तनूः सहो बलं अभिभवितृत्वं तद्वती । 'मत्वर्थे मासतन्वोः' इति यत् । समानमन्यत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [या᳓ वामिन्द्रावरुणा] रक्षस्या᳙ [तनू᳓स् त᳓येम᳓म् अँ᳓हसो मुञ्चतम्] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -94,11 +105,14 @@ that strong [body of yours, O Indra and Varuna, with that do ye free him from tr
 
 3यावामित्यादि ॥ या रक्षस्या तनूः रक्षसां हननी । स एव यत् । ततोनुषङ्गः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [या᳓ वामिन्द्रावरुणा] तेजस्या᳙ तनू᳓स् त᳓येम᳓म् अँ᳓हसो मुञ्चतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -119,6 +133,9 @@ that strong [body of yours, O Indra and Varuna, with that do ye free him from tr
 
 4यावामित्यादि ॥ या तेजस्या तनूः तेजस्विनी । पूर्ववन्मत्वर्थीयो यत् । स्पष्टमन्यत् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -129,12 +146,15 @@ that strong [body of yours, O Indra and Varuna, with that do ye free him from tr
 
 यो वा॑मिन्द्रावरुणाव॒ग्नौ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यजे॒ यो वा॑मिन्द्रावरुणा द्वि॒पात्सु॑ प॒शुषु॒ चतु॑ष्पात्सु गो॒ष्ठे गृ॒हेष्व॒प्स्वोष॑धीषु॒ वन॒स्पति॑षु॒ स्राम॒स्तव्ँवा॑मे॒तेनाव॑ यजे
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वाम् इन्द्रा-वरुणाव् अग्नौ᳓ स्रा᳓मस्  
 तव्ँ᳓ वाम् एते᳓ना᳓वयजे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -155,11 +175,14 @@ That disease of yours, O Indra and Varuna, that is in the fire, that of yours I 
 
 अग्न्यादयो वनस्पत्यन्ता विशेषाः । शिष्टमष्टस्वप्यनुषज्यते । स्रावयति नाशयतीति स्रामः पाप्मा येनायं गृहीतः । यो वां युवयोस्सम्बन्धिनो यजमानस्य अग्नौ स्रामः अग्न्याधारः पाप्मा तेन कृतः तं वा युवयोस्सम्बन्धिनानेन कर्मणा अवयजे नाशयामि हे इन्द्रावरुणौ । अवपूर्वो यजिर्विनाशकर्मा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वाम् इन्द्रा-वरुणा द्विपा᳓त्सु पशु᳓षु  [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -180,11 +203,14 @@ that disease of yours, O Indra and Varuna, that is in the two-footed cattle, [th
 
 'यो द्विपास्तु पशुषु स्रामः' इति द्वितीये । द्विपादो मनुष्याः । ' सङ्ख्यासुपूर्वस्य' इति लोपस्समासान्तः, 'पादः पत्' इति पद्भावः, 'द्वित्रिभ्यां पाद्दन्' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [यो᳓ वाम् इन्द्रा-वरुणा] च᳓तुष्पात्सु पशु᳓षु  [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -205,11 +231,14 @@ that disease of yours, O Indra and Varuna, that is in the two-footed cattle, [th
 
 'यश्चतुष्पात्सु पशुषु स्रामः' इति तृतीये । स्वरवर्जं पूर्ववत् । गवादयः चतुष्पादः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [यो᳓ वाम् इन्द्रा-वरुणा] गोष्ठे᳓  [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -230,11 +259,14 @@ that disease of yours, O Indra and Varuna, that is in the two-footed cattle, [th
 
 'यो गोष्ठे' इति चतुर्थे । गावस्तिष्ठन्त्यस्मिन्निति 'सुपि स्थः' इति कः । 'अम्बाम्ब' इत्यादिना षत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [यो᳓ वाम् इन्द्रा-वरुणा] गृहे᳓षु   [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -255,11 +287,14 @@ that disease of yours, O Indra and Varuna, that is in the two-footed cattle, [th
 
 'यो गृहेषु' इति पञ्चमे । 'गेहे कः' इति कः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [यो᳓ वाम् इन्द्रा-वरुणाव्] अप्सु᳓  [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -280,11 +315,14 @@ that disease of yours, O Indra and Varuna, that is in the two-footed cattle, [th
 
 'योप्सु' इति षष्टे । 'ऊडिदम्' इति विभक्तेरुदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [यो᳓ वाम् इन्द्रा-वरुणा] ओ᳓षधीषु [स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।]।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -305,11 +343,14 @@ that disease of yours, O Indra and Varuna, that is in the two-footed cattle, [th
 
 'य ओषधीषु' इति सप्तमे । यवादयः ओषधयः । 'ओषधेश्च विभक्तौ' इति दीर्घत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [यो᳓ वाम् इन्द्रा-वरुणा] व᳓नस्प᳓तिषु स्रा᳓मस् तव्ँ᳓ वाम् एते᳓ना᳓व यजे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -329,4 +370,5 @@ that disease of yours, O Indra and Varuna, that is in the two-footed cattle, [th
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'यो वनस्पतिषु' इत्यष्टमे । पलाशादयो वनस्पतयः । वनस्पत्यादित्वात्पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् । पारस्करप्रभृतित्वात् सुट् ॥
+</details>
 </details>

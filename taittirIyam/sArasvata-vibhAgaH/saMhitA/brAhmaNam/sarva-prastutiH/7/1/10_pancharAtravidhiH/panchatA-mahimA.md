@@ -3,16 +3,21 @@ title = "पञ्चता-महिमा"
 unicode_script = "devanagari"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पञ्चरा॒त्रो भ॑वति॒ पञ्च॒ वा ऋ॒तव॑स्सव्ँवत्स॒रः [38]  
 ऋ॒तुष्वे॒व सव्ँ॑वत्स॒रे प्रति॑ तिष्ठ॒त्यथो॒ पञ्चा॑क्षरा प॒ङ्क्तिᳶ पाङ्क्तो॑ य॒ज्ञो य॒ज्ञमे॒वाव॑ रुन्द्धे   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्च वा᳓ ऋत᳓वस् सव्ँवत्सरः᳓ +++(हेमन्त-शिशिरयोर् एकत्वात्, अथवा ऽन्धसि वर्षर्तोर् अभावात्)+++।[38]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -33,11 +38,14 @@ the year consists of five seasons [3];
 
 पञ्च वा ऋतव इति । हेमन्तशिशिरयोरेकत्वाभिप्रायमिदम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतु᳓ष्वेव᳓ सव्ँवत्सरे᳓ प्र᳓ति तिष्ठति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -58,12 +66,15 @@ verily he stands firm in the year with its five seasons.
 
 ऋत्वात्मनि संवत्सरे प्रतिष्ठितो भवति पञ्चसंख्यान्वयात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो प᳓ञ्चाक्षरा पङ्क्तिः᳓ ।  
 पा᳓ङ्क्तो यज्ञो᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -85,11 +96,14 @@ Again the Pankti has five elements, the sacrifice is fivefold;
 
 अथो अपि च पञ्चाक्षरा पङ्क्तिः पाङ्क्तो यज्ञः पङ्क्तिप्रभवत्वाद्धानादिपञ्चकप्रभवत्वाद्वा । उत्सादित्वादञ् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञ᳓म् एवा᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -104,4 +118,5 @@ verily he wins the sacrifice.
 <details><summary>पद-पाठः</summary>
 
 य॒ज्ञम् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
+</details>
 </details>

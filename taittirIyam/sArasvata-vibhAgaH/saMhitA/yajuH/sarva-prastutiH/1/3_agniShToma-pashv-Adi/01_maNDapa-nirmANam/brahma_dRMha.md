@@ -3,9 +3,12 @@ title = "ब्रह्म द्रुंह"
 unicode_script = "devanagari"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्रह्म॑ दृँह क्ष॒त्रन्दृँ॑ह प्र॒जान्दृँ॑ह रा॒यस्पोष॑न्दृँह
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -15,6 +18,8 @@ unicode_script = "devanagari"
 प्रजा᳓न् दृँह।  
 राय᳓स्-पो᳓षन् दृँह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -56,4 +61,5 @@ strengthen increase of wealth.
 
 [[P337]]
 
+</details>
 </details>

@@ -10,6 +10,8 @@ unicode_script = "devanagari"
 पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 On the instigation of god Savitr,  
@@ -40,4 +42,5 @@ ______________
 सवितुर्देवस्य प्रसवे अनुज्ञायां लब्धायामेव  
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
+</details>
 </details>

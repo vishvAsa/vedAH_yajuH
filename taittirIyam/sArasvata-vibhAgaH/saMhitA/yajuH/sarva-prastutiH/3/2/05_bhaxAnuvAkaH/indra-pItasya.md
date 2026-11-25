@@ -9,6 +9,8 @@ title = "इन्द्र॑-पीतस्य॒"
 **उ᳓पहूतस्यो᳓पहूतो भक्षयामि** ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the fathers, who hast sweetness, and who art invited, I invited eat.
@@ -30,4 +32,5 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 **नराशंसपीतस्य** नरैश् शंसन्ति पानं ये भक्षणे ते नराशंसाः देवताविशेषाः । यद्वा - नरैश्शंसनीया नराशंसाः तैः पीतो नराशंसपीतः तस्य । यत्तेन पदेन नराशंसानामेव भक्षणं भक्षिताप्यायिता नराशंसाश्चमसाः । पूर्ववत्स्वरः, पूर्ववदेव 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् ।   
 पितृपीतस्य पितृभिरस्मत्पूर्वैः पीतस्य । स एव स्वरः ।  
 मधुमतः मधुररसवतः **उपहूतस्य** इन्द्रादिभिरनुज्ञातस्य ईदृशस्य तव अहं **उपहूतः** देवैस्सहभक्षिभिरनुज्ञातः **भक्षयामि** । सर्वत्र कर्मणि षष्ठी ॥
+</details>
 </details>

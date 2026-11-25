@@ -8,6 +8,8 @@ unicode_script = "devanagari"
 सु᳓वर् अभि᳓ वि᳓ ख्येषव्ँ+++(=अपश्यं)+++ वैश्वानर᳓ञ् ज्यो᳓तिः ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 May I behold the light, the radiance for all men.
@@ -32,4 +34,5 @@ May I behold the light, the radiance for all men.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13 आहवनीयमीक्षते - सुवरिति ॥ स्वर्गसाधनत्वेन स्तुतिः । विश्वेषां नराणां ज्योतिष्ट्वं नयतीति वैश्वानरं द्योतमानमाहवनीयमाभिमुख्येन पश्यामीति । व्याख्यातम् । ख्यातेराशिषि लिङि, 'लिङ्यशिष्यङ्' 'अतो येयः' ॥
+</details>
 </details>

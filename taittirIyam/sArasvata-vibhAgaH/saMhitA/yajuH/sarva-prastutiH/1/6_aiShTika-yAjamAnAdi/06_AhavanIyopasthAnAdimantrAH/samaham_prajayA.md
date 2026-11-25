@@ -7,6 +7,8 @@ title = "समहम् प्रजया"
 स᳓म् अह᳓म् प्रज᳓या  +++(भूयासम्)+++  ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 May I be united with offspring,
@@ -36,11 +38,14 @@ ___________
 समहमिति। कल्पः - ‘अथोदङ्पर्यावर्तते समहं प्रजया सं मया प्रजा समहँ रायस्पोषेण सं मया रायस्पोष इति’ इति’ इति।  
 अहं प्रजया संगतो भूयासम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓म् म᳓या प्रजा᳓  +++(भूयात्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -68,11 +73,14 @@ __________
 
 प्रजाऽपि मया संगता भूयात्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓महँ᳓ राय᳓स्पो᳓षेण  +++(भूयासम्)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -100,11 +108,14 @@ _______________
 
 रायस्पोषेऽप्येवं योज्यम्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓म्म᳓या राय᳓स्पो᳓षः   +++(भूयात्)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -126,4 +137,5 @@ increase of wealth with me.
 रायस्पोषश्च मया सह सम्भूयात् सङ्गंसीष्ट वा ॥
 _____________
 रायश्च पोषश्च मया सङ्गच्छताम् । रायो विभक्त्युदात्तत्वं सत्वं चोक्तम् ॥
+</details>
 </details>

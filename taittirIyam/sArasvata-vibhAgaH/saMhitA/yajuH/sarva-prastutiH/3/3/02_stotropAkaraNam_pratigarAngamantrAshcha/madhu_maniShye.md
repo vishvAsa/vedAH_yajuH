@@ -9,6 +9,8 @@ title = "मधु॑ मनिष्ये"
 म᳓धु **वदिष्यामि** ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Of honey shall I think, honey shall I produce, honey shall I proclaim, honey shall I speak,
@@ -36,12 +38,15 @@ I will think the honey (Pravargya), I will produce the honey, I will speak the h
 
 अहं तु मधु मनिष्ये मधुवदेव मनसा चिन्तयिष्यामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓धुमतीन् देवे᳓भ्यो वा᳓चम् **उद्यासँ**
 शुश्रूषे᳓ण्याम् मनुष्ये᳙भ्यः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -70,12 +75,15 @@ may I speak the honeyful (sweet) speech for the gods, well-hearing for the men (
 
 मनुष्येभ्यः शुश्रूषेण्यां श्रवणीयां श्रुतिसुखहेतुं वाचं उद्यासमित्येव । उभयत्रापि षष्ठ्यर्थे चतुर्थी । सनन्तादौणादिक एण्यप्रत्ययः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् मा देवा᳓ **अवन्तु** शोभा᳓यै ।
 पित᳓रो᳓ **ऽनु मदन्तु** ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -103,4 +111,5 @@ may the gods protect me as such, may the fathers also please me for the sake of 
 तं मामेवंगुणं देवा अवन्तु रक्षन्तु शोभायै यथा मया कृतं शोभते तथा अनुमदन्तु अनुमोदन्तां, उत्कृष्टत्वेन समीचीनं करोतीति शोभार्थं पितरश्च अनुमोदन्तु । माद्यतेर्व्यत्ययेन शप् ॥
 
 इति तृतीये तृतीये द्वितीयोनुवाकः ॥
+</details>
 </details>

@@ -8,6 +8,8 @@ unicode_script = "devanagari"
 य᳓द् अन्य᳓तᳶ +++(पार्श्वे)+++ पृष्ठा᳓नि स्यु᳓र् - वि᳓+++(गत)+++-विवधँ +++(=उभयतोवलम्ब-क्षीरादि-वहन-यन्त्र-विशेष)+++ स्यात् ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 If the Prsthas were on one side, there would be a lack of balance;
@@ -22,11 +24,14 @@ If the Prsthas were on one side, there would be a lack of balance;
 
 यत् । अ॒न्यतः॑ । पृ॒ष्ठानि॑ । स्युः । विवि॑वध॒मिति॒ वि-वि॒व॒ध॒म् । स्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓ध्ये पृष्ठा᳓नि भवन्ति सविवधत्वा᳓य।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -42,11 +47,14 @@ the Prsthas are in the middle, for balance [2].
 
 मध्ये॑ । पृ॒ष्ठानि॑ । भ॒व॒न्ति॒ । स॒वि॒व॒ध॒त्वायेति॑ सविवध-त्वाय॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जो वै᳓ वीर्य᳙म् पृष्ठा᳓नि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -62,11 +70,14 @@ The Prsthas are force and strength;
 
 ओजः॑ । वै । वी॒र्य॑म् । पृ॒ष्ठानि॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓ज एव᳓ वीर्य᳙म् मध्यतो᳓ दधते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -81,4 +92,5 @@ verily they place force and strength in the middle.
 <details><summary>पद-पाठः</summary>
 
 ओजः॑ । ए॒व । वी॒र्य॑म् । म॒ध्य॒तः । द॒ध॒ते॒ ।
+</details>
 </details>

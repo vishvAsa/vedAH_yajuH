@@ -12,6 +12,8 @@ title = "चि॒त्तं च॒"
 बृह᳓च् च [स्वा᳓हा]।  रथन्तरं᳓ च [स्वा᳓हा]।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thought and thinking, intent and intention, known and knowledge, mind and power, the new and the full moon, the Brhat and the Rathantara.
@@ -48,4 +50,5 @@ Thought and thinking, intent and intention, known and knowledge, mind and power,
 दर्शपूर्णमासौ कालौ, कर्मणी वा । सर्वेषां कर्मकालानां कर्मणां च प्रधानयोरुपादानमुपलक्षणार्थम् ।
 
 एवं बृहद्रथन्तरयोस्साम्नोर्वेदितव्यम् ॥
+</details>
 </details>

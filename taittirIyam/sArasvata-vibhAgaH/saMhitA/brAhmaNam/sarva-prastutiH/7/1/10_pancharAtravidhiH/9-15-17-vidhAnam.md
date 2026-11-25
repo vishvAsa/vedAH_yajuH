@@ -3,15 +3,20 @@ title = "९-१५-१७-विधानम्"
 unicode_script = "devanagari"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्रि॒वृद॑ग्निष्टो॒मो भ॑वति॒ तेज॑ ए॒वाव॑ रुन्द्धे पञ्चद॒शो भ॑वतीन्द्रि॒यमे॒वाव॑ रुन्द्धे सप्तद॒शो भ॑वत्य॒न्नाद्य॒स्याव॑रुद्ध्या॒ अथो॒ प्रैव तेन॑ जायते 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिवृ᳓द्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अग्निष्टोमो᳓ +++(यागो रथन्तरसामा)+++ भवति +++("अ᳓ग्न आ᳓ याहि" इत्यादेस् त्र्यर्चस्य)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -32,11 +37,14 @@ There is an Agnistoma characterized by the Trivrt (Stoma);
 
 6त्रिवृदित्यादि ॥ त्रिवृदग्निष्टोमः प्रथममहर्भवति तेजोवरुद्ध्यै तद्भवति त्रिवृता सहोत्पन्नत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ज एवा᳓व रुन्धते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -52,11 +60,14 @@ verily he wins brilliance.
 
 तेजः॑ । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्चदशो᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -77,11 +88,14 @@ There is a Pañcadaśa (Stoma);
 
 पञ्चदशो द्वितीयमहः उक्थ्यः इन्द्रियस्यावरुद्ध्यै, इन्द्रियेण सहोत्पन्नत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रिय᳓मेवा᳓व᳓ रु᳓न्द्धे᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -97,12 +111,15 @@ verily he wins power.
 
 इ॒न्द्रि॒यम् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तदशो᳓ भवति,  
 अन्ना᳓द्यस्या᳓वरुध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -125,11 +142,14 @@ There is a Saptadaśa (Stoma), for the obtainment of food;
 
 सप्तदशस्तृतीयमहः अन्नाद्यस्यावरुद्ध्यै, अनयोरन्नस्थाने उत्पन्नत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो प्रै᳓व᳓ ते᳓न जायते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -149,4 +169,5 @@ verily also he gains offspring by reason of it.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथो अपि च तेन सप्तदशेनाह्ना प्रजायते तस्य प्रजाहेतुत्वात् ।
+</details>
 </details>

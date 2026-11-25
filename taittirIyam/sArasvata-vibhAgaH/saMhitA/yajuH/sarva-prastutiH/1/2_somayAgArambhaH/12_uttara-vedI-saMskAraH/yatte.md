@@ -8,6 +8,8 @@ unicode_script = "devanagari"
 य᳓त् ते᳓ ऽनाधृष्टन् ना᳓म यज्ञि᳓यन् +++(नभ इत्यादि)+++ ते᳓न त्वा᳓ ऽऽदधे ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
@@ -33,4 +35,5 @@ Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 <details><summary>सायण-टीका</summary>
 
 यत् तवानाधृष्टं केनाप्य् अतिरस्कृतं नाम यज्ञ-संबद्धं तेन नाम्ना व्यवहृत्य त्वाम् उत्तर-वेद्याम् आदधे।
+</details>
 </details>

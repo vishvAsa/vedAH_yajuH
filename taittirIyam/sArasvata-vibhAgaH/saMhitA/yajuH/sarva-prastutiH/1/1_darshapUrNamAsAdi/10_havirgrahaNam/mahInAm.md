@@ -9,6 +9,8 @@ unicode_script = "devanagari"
 ओ᳓षधीनाँ र᳓सः।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Of the great ones thou art the milk,  
@@ -32,4 +34,5 @@ of plants the sap.
 
 किञ्च - ओषधीनां रसोसि रसभूतमसि, भक्षिततृणादिपरिणामत्वात्तस्य । दासीभारादित्वात् (पा.सू. 6.2.42) ओषधिशब्दस्य पूर्वपदप्रकृतिस्वरत्वम् । 'नामन्यतरस्याम्' (पा.सू. 6.1.177), इति वचनादत्र नाम उदात्तत्वं न भवति ।
 
+</details>
 </details>

@@ -9,6 +9,8 @@ unicode_script = "devanagari"
 म᳓नसस्पत इम᳓न् नो देव देवे᳓षु यज्ञं᳓  +++(धाः)+++ स्वा᳓हा।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 O ye gods that know the way, knowing the way, go ye the way.  
@@ -45,16 +47,22 @@ ___________
 एवं हि सरस्वत्याह । तदनन्तरं वाचि वाग्देवतायां शाब्दे ब्रह्मणि धाः स्थापय । ततः पश्चादिमं यज्ञं वाते सर्वक्रियाधारे धाः स्थापय, यस्मादयं यज्ञः प्रयुक्तः तत्रैव वाते स्थापय । 'वाताद्वा अध्वर्युर्यज्ञं प्रयुङ्क्ते' इत्यादि ब्राह्मणम् , 'वासिष्ठो ह सात्यहव्यः' इत्यादि च ॥
 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वा॒चि स्वाहा॒ वाते॑ धाः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(यज्ञं᳓)+++ वाचि᳓ +++(धाः)+++ स्वा᳓हा  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -77,11 +85,14 @@ In speech, hail!
 
 वाचि धा इति सरस्वत्याह ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓ते धाः ॥ [24]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -101,4 +112,5 @@ in/or the wind, hail!
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ततः पश्चादिमं यज्ञं वाते सर्वक्रियाधारे धाः स्थापय । यस्मादयं यज्ञः प्रयुक्तः तत्रैव वाते स्थापय । 'वाताद्वा अध्वर्युर्यज्ञं प्रयुङ्क्ते' (तै.ब्रा. 3.3.9) इत्यादि ब्राह्मणम् । दधातेः लेटि 'बहुलं छन्दसि' (पा.सू. 2.4.73) इति शपो लुक्, 'इतश्च लोपः परस्मैपदेषु' (पा.सू. 3.4.98) इतीकारलोपः ॥
+</details>
 </details>

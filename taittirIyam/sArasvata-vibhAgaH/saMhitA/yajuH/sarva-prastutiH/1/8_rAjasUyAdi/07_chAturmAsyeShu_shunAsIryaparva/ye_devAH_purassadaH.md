@@ -11,6 +11,8 @@ title = "ये दे॒वाᳶ पु॑र॒स्-सदो॒"
 ते᳓भ्यस् स्वा᳓हा ]
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 The gods that sit in the east, led by Agni;
@@ -37,6 +39,7 @@ The gods that sit in the east, led by Agni;
 अग्निनेत्राः अग्निप्रधानाः । 'छन्दसि नेतुरुपसङ्ख्यानम्' इत्यप्रत्ययः, 'ऋतश्छन्दसि' इति कबभावः ।    
 रक्षोहणः रक्षसां हन्तारः, ते नो ऽस्मान्पान्तु, ते नोस्मानवन्तु प्रीणयन्तु, तेभ्यो नमः नमस्कुर्मः, तेभ्यस्स्वाहा स्वाहुतमस्तु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -46,6 +49,8 @@ The gods that sit in the east, led by Agni;
 ते᳓भ्यो न᳓मस्,  
 ते᳓भ्यस् स्वा᳓हा ]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -66,6 +71,7 @@ that sit in the south, led by Yama;
 
 एवं ये देवाः दक्षिणसदः यमनेत्रा रक्षोहणः ते नः पान्तु ते नोवन्त्वित्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -75,6 +81,8 @@ that sit in the south, led by Yama;
 ते᳓भ्यो न᳓मस्,  
 ते᳓भ्यस् स्वा᳓हा ]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -95,6 +103,7 @@ that sit in the west, led by Savitr;
 
 तथा ये देवाः पश्चात्सदः सवितृनेत्राः रक्षोहण इत्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -104,6 +113,8 @@ that sit in the west, led by Savitr;
 ते᳓भ्यो न᳓मस्,  
 ते᳓भ्यस् स्वा᳓हा ]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -124,6 +135,7 @@ that sit in the north, led by Varuna;
 
 ये देवा उत्तरसदो वरुणनेत्राः रक्षोहण इत्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -133,6 +145,8 @@ that sit in the north, led by Varuna;
 ते᳓भ्यो न᳓मस्,  
 ते᳓भ्यस् स्वा᳓हा ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -154,4 +168,5 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 ये देवा उपरिषदो बृहस्पतिनेत्राः ।
 
 रक्षोहण इत्यादि । वनस्पत्यादित्वात् बृहस्पतिशब्दे पूर्वोत्तरयोः पदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
+</details>
 </details>

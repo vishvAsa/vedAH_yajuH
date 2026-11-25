@@ -7,6 +7,8 @@ title = "इन्द्र॑स्य॒ वज्रो॑ऽसि॒"
 वा᳓र्त्रघ्नः ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thou art the thunderbolt of Indra,  
@@ -32,4 +34,5 @@ Thou art the bolt of Indra [2] slaying foes;
 ______________
 यो वृत्रं हतवान् तस्येन्द्रस्य वज्रो वृत्रवधसाधनभूतो रथमसि ॥
 
+</details>
 </details>

@@ -8,6 +8,8 @@ unicode_script = "devanagari"
 शु᳓न्धताल्ँ लोकᳶ᳓ पितृ-ष᳓दनः ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Pure be the world where the Pitrs sit.
@@ -36,4 +38,5 @@ Pure be the world where the Pitrs sit.
 <details><summary>सायण-टीका</summary>
 
 पितरः सीदन्त्य् अस्मिनन् इति पितृ-षदनो ऽवटाख्यो लोकः शुद्धो भवतु।
+</details>
 </details>

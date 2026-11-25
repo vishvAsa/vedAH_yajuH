@@ -8,6 +8,8 @@ title = "अनधस् सादनम्"
 ग᳓र्भाणान् धृ᳓त्या अ᳓प्रपादाय+++(=अप्रच्युतये)+++ ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 अन॑धस्सादयति ।  
@@ -25,21 +27,27 @@ title = "अनधस् सादनम्"
 
 शाखाबर्हिषोरिव सांनाय्येऽपि विधत्ते — ‘अनधः सादयति। गर्भाणां धृत्या अप्रपादाय। तस्माद्गर्भाः प्रजानामप्रपादुकाः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् ग᳓र्भाᳶ प्रजा᳓नाम् अ᳓प्रपादुकाः ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒द्गर्भा॑ᳶ प्र॒जाना॒मप्र॑पादुकाः ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उप᳓रीव नि᳓दधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -60,12 +68,15 @@ title = "अनधस् सादनम्"
 
 उपरीव निदधाति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उप᳓रीव हि᳓ सुवर्गो᳓ लोकः᳓ ।  
 सुवर्ग᳓स्य लोक᳓स्य स᳓मष्ट्यै ॥6॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -77,4 +88,5 @@ title = "अनधस् सादनम्"
 
 उपरीव हि सुवर्गो लोकः।  
 सुवर्गस्य लोकस्य समष्ट्यै’ (ब्रा. का. ३ प्र. २ अ. ३) इति।
+</details>
 </details>

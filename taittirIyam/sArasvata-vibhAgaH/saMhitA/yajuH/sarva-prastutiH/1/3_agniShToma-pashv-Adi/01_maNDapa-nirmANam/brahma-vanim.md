@@ -3,6 +3,8 @@ title = "ब्रह्म-वनिम्"
 unicode_script = "devanagari"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14प्रदक्षिणं पुरीषेण पर्यूहति - ब्रह्मवनिमिति ॥
@@ -15,11 +17,14 @@ unicode_script = "devanagari"
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्म-व᳓निन् त्वा  क्षत्र-व᳓निँ सुप्रजा-व᳓निँ रायस्-पोष-व᳓निम् प᳓र्यूहामि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -52,4 +57,5 @@ Thee that art winner of Brahmans, winner of nobles, winner of fair offspring, wi
 <details><summary>सायण-टीका</summary>
 
 ब्रह्म ब्राह्मण-जातिं वनति भजतीति ब्रह्म-वनिः। हे औदुम्बरि ब्राह्मण्यादि-प्रदां त्वां परितो मृत्तिकां प्रक्षिपामि।
+</details>
 </details>

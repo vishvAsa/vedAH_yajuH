@@ -3,6 +3,8 @@ title = "ओषधे"
 unicode_script = "devanagari"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ऊर्ध्वाग्रं बार्हिर् अनूच्छ्रयति - ओषधे त्रायस्वैनमिति ॥
@@ -18,11 +20,14 @@ unicode_script = "devanagari"
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓षधे त्रा᳓यस्वैनम्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -55,4 +60,5 @@ O plant, protect him.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10वपाग्रहणदेशे प्राचीनाग्रं बर्हिर्निदधाति - ओषधे त्रायस्वैनमिति ॥ व्याख्यातम् ॥
+</details>
 </details>

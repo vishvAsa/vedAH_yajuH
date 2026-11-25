@@ -10,6 +10,8 @@ unicode_script = "devanagari"
 यो᳙ऽस्मा᳓न् द्वेष्टि य᳓ञ् च वय᳓न् द्विष्म᳓- इद᳓म् अस्य ग्रीवा᳓ अ᳓पि कृन्तामि ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 The Raksas is enclosed,  
@@ -69,4 +71,5 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 इति।
 
 अनन्तरायं द्वयोर् मध्य एकतरस्याप्य् अन्तरायो यथा न भवति तथेत्य् अर्थः।
+</details>
 </details>

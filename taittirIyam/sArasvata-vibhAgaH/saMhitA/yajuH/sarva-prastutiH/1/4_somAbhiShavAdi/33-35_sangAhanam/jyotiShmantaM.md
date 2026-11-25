@@ -3,6 +3,8 @@ title = "ज्योतिष्मन्तम्"
 unicode_script = "devanagari"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ज्योति॑ष्मतीन्त्वा सादयामि ज्योति॒ष्कृत॑न्त्वा सादयामि ज्योति॒र्विद॑न्त्वा सादयामि॒ भास्व॑तीन्त्वा सादयामि॒ ज्वल॑न्तीन्त्वा सादयामि मल्मला॒भव॑न्तीन्त्वा सादयामि॒ दीप्य॑मानान्त्वा सादयामि॒ रोच॑मानान्त्वा सादया॒म्यज॑स्रान्त्वा सादयामि बृ॒हज्ज्यो॑तिषन्त्वा सादयामि बो॒धय॑न्तीन्त्वा सादयामि॒ जाग्र॑तीन्त्वा सादयामि ॥ [35]
@@ -12,11 +14,14 @@ unicode_script = "devanagari"
 
 आत्मज्योतिषो वृत्तिभेदाः ते इष्टकावेन स्तूयन्ते
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्यो᳓तिष्मतीन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -42,11 +47,14 @@ I place thee that hast light.
 
 ज्योतिष्मती प्रशस्तज्योतिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्योतिष्कृ᳓तन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -72,11 +80,14 @@ I put you as the maker of the light
 
 ज्योतिष्कृत् ज्योतिरन्तरस्य कर्त्रीं ज्योतिषां लम्भयित्री ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्योतिर्वि᳓दन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -102,11 +113,14 @@ I put you as the knower of the light
 
 ज्योतिषां लम्भयित्री ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भा᳓स्वतीन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -132,11 +146,14 @@ I put you as full of light
 
 भास्वती बहुप्रकाशा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्व᳓लन्तीन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -162,11 +179,14 @@ I put you as burning
 
 ज्वलन्ती अविच्छिन्नप्रकाशा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मल्म᳓लाभ᳓वन्तीन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -192,11 +212,14 @@ I put you as being burnt with the 'Malmala' sounds of the flames
 
 मल्मलाभवन्ती महाघोषवती । 'अव्यक्तानुकरणात्' इति डाच् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दी᳓प्यमानान्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -222,11 +245,14 @@ I put you as being shined
 
 दीप्यमाना हृदये आविर्भवन्ती ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रो᳓चमानान्त्वा सादयामि᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -252,11 +278,14 @@ I put you as being lighted
 
 रोचमाना गगने आविर्भवन्ती ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓जस्रान्त्वा  सादयामि  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -282,11 +311,14 @@ I put you as many
 
 अजस्रा अनुपहिंस्या केनचिदपि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृह᳓ज्ज्योतिषन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -312,11 +344,14 @@ I put you as of great light
 
 बृहज्ज्योतिः बृंहितज्योतिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बोध᳓यन्तीन्त्वा सादयामि  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -342,11 +377,14 @@ I put you as awaking one
 
 बोधयन्ती दृश्यं प्रकाशयन्ती ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जा᳓ग्रतीन्त्वा सादयामि ॥ [35]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -371,4 +409,5 @@ I put you as waking one.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 जाग्रती स्वयंप्रकाशात्मना ॥
+</details>
 </details>

@@ -9,6 +9,8 @@ unicode_script = "devanagari"
 उरु᳓ ते यज्ञ᳓पतिᳶ प्रथताम् ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Be extended wide, let the lord of the sacrifice be extended wide.
@@ -38,4 +40,5 @@ Be extended wide, let the lord of the sacrifice be extended wide.
 <details><summary>सायण-टीका</summary>
 
 प्रथस्व प्रसर। 
+</details>
 </details>

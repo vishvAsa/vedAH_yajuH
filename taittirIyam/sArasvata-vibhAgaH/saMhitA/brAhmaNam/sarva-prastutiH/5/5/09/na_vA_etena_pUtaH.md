@@ -9,6 +9,8 @@ title = "न वा ए॒तेन॑"
 य᳓द् एनम् अ᳓तᳶ +++(हविर्-निधानात्)+++ प्राची᳓नम् प्रोक्ष᳓ति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 It is not purified, nor made worthy of sacrifice, nor really anointed, if it is anointed before this point;
@@ -32,12 +34,15 @@ It is not purified, nor made worthy of sacrifice, nor really anointed, if it is 
 
 केनेत्याह - अतः अस्माच् चरु-निधानात् प्राचीनं पूर्वं यदेनं प्रोक्षति 'सहस्रस्य प्रमा असि' डति हिरण्यशल्कैः तदकृतसमम् एवैतद्दृष्ट्या भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् स᳓ञ्चितम् आ᳓ज्येन प्रोक्ष᳓ति   
 ते᳓न +++(स)+++ पूत᳓स् , ते᳓न मे᳓ध्यस् , ते᳓न प्रो᳓क्षितः ॥ [41]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -65,4 +70,5 @@ in that he anoints it with ghee after it has been piled, thereby is it purified,
 आज्यप्नोक्षणस्यैव वा ॥
 
 इति पञ्चमे पञ्चमे नवमोनुवाकः ॥
+</details>
 </details>

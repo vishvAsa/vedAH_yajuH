@@ -6,6 +6,8 @@ title = "दे॒वस्य॑ त्वा"
 "देव᳓स्य त्वा सवितुᳶ᳓ प्रसव᳓" इ᳓त्याह प्र᳓सूत्यै ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 'On the impulse of the god Savitr thee', he says, for impelling.
@@ -26,14 +28,16 @@ ________________________________________________________________________________
 
 अत्रानाम्नातमप्यनेनैवाभिप्रायेण व्याचष्टे – “देवस्य त्वा सवितुः प्रसव इत्याह प्रसूत्यै।" 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अश्वि᳓नोर् बाहु᳓भ्याम्" इ᳓त्य् आह ।  
 अश्वि᳓नौ हि᳓ देवा᳓नाम् अध्वर्यू᳓ आ᳓स्ताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -62,11 +66,14 @@ ________________________________________________________________________________
 अश्विनोर्बाहुभ्यामित्याह। अश्विनौ हि देवानामध्वर्यू आस्ताम्। 
 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "पूष्णो᳓ ह᳓स्ताभ्या"म् इ᳓त्य् आह य᳓त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -93,5 +100,5 @@ ________________________________________________________________________________
 पूष्णो हस्ताभ्यामित्याह यत्यै (ब्रा. का.३ प्र.२ अ.९) इति ।
 
 </details>
-
+</details>
 </div>

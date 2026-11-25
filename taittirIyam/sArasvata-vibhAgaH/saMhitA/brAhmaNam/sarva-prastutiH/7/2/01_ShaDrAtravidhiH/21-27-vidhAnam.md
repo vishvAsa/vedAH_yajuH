@@ -8,6 +8,8 @@ unicode_script = "devanagari"
 एकविँशो᳓ +++(वैराजसामा षोडशी यागः)+++ भवति प्र᳓तिष्ठित्यै ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 There is an Ekavinśa (Stoma), for support;
@@ -22,11 +24,14 @@ There is an Ekavinśa (Stoma), for support;
 
 ए॒क॒विँ॒श इत्ये॑क-विँ॒शः । भ॒व॒ति॒ । प्रति॑ष्ठित्या॒ इति॒ प्रति॑-स्थि॒त्यै॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो रु᳓चम् एवा᳓त्म᳓न् दधते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -42,11 +47,14 @@ verily also they place radiance in themselves.
 
 अथो॒ इति॑ । रुच॑म् । ए॒व । आ॒त्मन् । द॒ध॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिणवो᳓ +++(शाक्वरसामा उक्थ्यः)+++ भवति, वि᳓जित्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -61,4 +69,5 @@ There is a Trinava (Stoma), for conquest.
 <details><summary>पद-पाठः</summary>
 
 त्रि॒ण॒व इति॑ त्रि-न॒वः । भ॒व॒ति॒ । विजि॑त्या॒ इति॒ वि-जि॒त्यै॒ ।
+</details>
 </details>

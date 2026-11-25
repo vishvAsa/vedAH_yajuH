@@ -7,6 +7,8 @@ unicode_script = "devanagari"
 अँहस्पत्या᳓य त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
@@ -34,4 +36,5 @@ To Anhaspatya thee!
 
 आदित्यवशेन हि त्रयोदशो मासो जायते । यथोक्तम् - 'अधिमासका युगे ते रविमासेभ्योधिकास्तु ये चान्द्राः ।  इति । तस्मात्तत आगत इति वा तदपत्यमिति वा शक्यते वक्तुम् । 'अस्ति त्रयोदशो मास इत्याहुः'  इति च ब्राह्मणम् ।  
 
+</details>
 </details>

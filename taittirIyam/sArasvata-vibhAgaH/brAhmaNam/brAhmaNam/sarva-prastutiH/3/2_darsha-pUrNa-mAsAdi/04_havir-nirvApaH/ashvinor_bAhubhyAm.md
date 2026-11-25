@@ -8,6 +8,8 @@ title = "अ॒श्विनो॑र् बा॒हुभ्या॒म्"
 अश्वि᳓नौ हि᳓ देवा᳓नाम् अध्वर्यू᳓ आ᳓स्ताम् ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 'With the arms of the Aśvins', he says, for the Aśvins were the Adhvaryus of the gods. 
@@ -35,11 +37,14 @@ title = "अ॒श्विनो॑र् बा॒हुभ्या॒म्"
 अश्विनोर्बाहुभ्यामित्याह। अश्विनौ हि देवानामध्वर्यू आस्ताम्। 
 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "पूष्णो᳓ ह᳓स्ताभ्या"म् इ᳓त्य् आह य᳓त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -65,4 +70,5 @@ title = "अ॒श्विनो॑र् बा॒हुभ्या॒म्"
 
 पूष्णो हस्ताभ्यामित्याह यत्यै (ब्रा. का.३ प्र.२ अ.९) इति ।
 
+</details>
 </details>

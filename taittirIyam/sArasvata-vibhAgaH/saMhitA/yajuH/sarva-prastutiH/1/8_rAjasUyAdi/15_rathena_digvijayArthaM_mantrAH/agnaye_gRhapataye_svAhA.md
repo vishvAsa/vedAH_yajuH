@@ -7,6 +7,8 @@ title = "अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वा�
 अग्न᳓ये गृह᳓-पतये स्वा᳓हा ।   
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To Agni, lord of the house, hail! 
@@ -25,4 +27,5 @@ To Agni, lord of the house, hail!
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अग्नये गृहाणां निवासाधाराणां पात्रे । 
+</details>
 </details>

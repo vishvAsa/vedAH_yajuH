@@ -12,6 +12,8 @@ title = "तेभ्यो॒ नम॒स्ते नो॑ मृडयन�
 ते᳓भ्यो न᳓मस्ते᳓ नो मृडयन्तु
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 to them ten eastwards, ten to the south, ten to the west, ten to the north, ten upwards;   
@@ -36,4 +38,5 @@ to them homage, be they merciful to us,
 <details><summary>सायण-टीका</summary>
 
 (ईदृशैरञ्जलिविशेषैस्) तेभ्यो (रुद्रेभ्यो) नमोऽस्तु। ते च (रुद्रा) नोऽस्मान्मृडयन्तु सुखयन्तु।
+</details>
 </details>

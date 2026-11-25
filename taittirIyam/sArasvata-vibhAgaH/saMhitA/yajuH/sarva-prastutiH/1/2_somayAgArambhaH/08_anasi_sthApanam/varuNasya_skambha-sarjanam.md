@@ -7,6 +7,8 @@ unicode_script = "devanagari"
 व᳓रुणस्य +++(सोमस्य च)+++ स्कम्भ+++(=अविचलमवस्थानं)+++स᳓र्जनम् असि ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thou art the prop of Varuna's pillar.
@@ -27,4 +29,5 @@ Thou art the prop of Varuna's pillar.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वरुणस्य सोमस्य स्कम्भनं स्कम्भः अविचलिमवस्थानं, तस्य सर्जनमुत्पादयिता चासि, त्वदधीनत्वात् स्कम्भनस्य ॥
+</details>
 </details>

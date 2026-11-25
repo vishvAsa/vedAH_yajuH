@@ -8,6 +8,8 @@ unicode_script = "devanagari"
 उपयाम᳓-गृहीतो ऽसि।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
@@ -32,4 +34,5 @@ Thou art taken with a support/ foundation.
 ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
+</details>
 </details>

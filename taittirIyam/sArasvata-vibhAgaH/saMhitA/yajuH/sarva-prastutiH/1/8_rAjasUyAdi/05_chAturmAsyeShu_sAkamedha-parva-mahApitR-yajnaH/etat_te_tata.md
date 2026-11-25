@@ -7,6 +7,8 @@ title = "एतत् ते तत"
 ए॒तत् ते॑ तत॒ ये च॒ त्वाम् अनु॑।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 This for thee, O father, and for thy line;
@@ -27,12 +29,15 @@ This for thee, O father, and for thy line;
 एनदन्नं ते तव भवतु हे तत तात ।  
 ये च त्वामनुगता आश्रिताः अन्ये, तेषाञ्चैतदन्नं भवतु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [ए॒तत् ते॑] पितामह [ये᳓ च॒ त्वाम् अनु॑]।  
 [ए॒तत् ते॑] प्रपितामह॒ [ये᳓ च॒ त्वाम् अनु॑]।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -58,11 +63,14 @@ _____________
 
 हे तत तात एतदशनं तव ये चान्ये त्वामनुगताः । एतत्ते पितामह, ये च त्वामनुगताः । एतत्ते प्रपितामह, ये च त्वामनुगताः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓त्र पितरो यथाभाग᳓म् मन्दध्वम्  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -85,4 +93,5 @@ Rejoice therein, O fathers, according to your shares.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अधुना सर्वेपि सामान्येनोच्यन्ते । अत्र अस्मिन् कर्मणि हे पितरः पातारः पितृप्रभृतयो वा पितृपितामहप्रपितामहाः यथाभागं योयो यस्य भागः तेनतेन । 'यथाऽसादृश्ये' इत्यव्ययीभावः । यूयं मन्दध्वं मोदध्वम् । मदि स्तुतिमोदमदस्वप्नगतिषु ॥
+</details>
 </details>

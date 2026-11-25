@@ -3,6 +3,8 @@ title = "अदित्यास् सदः"
 unicode_script = "devanagari"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 नीडे कृष्णाजिनमास्तृणाति।
@@ -15,11 +17,14 @@ unicode_script = "devanagari"
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दित्यास् स᳓दोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -49,4 +54,5 @@ Thou art the seat of Aditi.
 <details><summary>सायण-टीका</summary>
 
 आपस्तम्बो द्वितीय-तृतीय-मन्त्राव् एकी-चकार। हे कृष्णाजिन, त्वम् अदित्या भूमेः सदः स्थानम् असि। 
+</details>
 </details>

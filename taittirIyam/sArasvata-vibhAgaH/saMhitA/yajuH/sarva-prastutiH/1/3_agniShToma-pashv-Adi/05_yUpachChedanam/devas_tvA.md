@@ -7,6 +7,8 @@ unicode_script = "devanagari"
 देव᳓स् त्वा सविता᳓ म᳓ध्वाऽनक्तु ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Let the god Savitr anoint thee with honey.
@@ -30,4 +32,5 @@ Let the god Savitr anoint thee with honey.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8यूपस्याग्रमनक्ति - देवस्त्वेति ॥ व्याख्यातम् ॥  
+</details>
 </details>

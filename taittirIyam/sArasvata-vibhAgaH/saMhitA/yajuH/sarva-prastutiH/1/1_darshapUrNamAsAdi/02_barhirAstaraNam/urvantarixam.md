@@ -3,9 +3,12 @@ title = "उर्वन्तरिक्षम्"
 unicode_script = "devanagari"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13,6 +16,8 @@ unicode_script = "devanagari"
 उ॒र्व् अ᳙न्तरि॑क्ष॒म् अन्वि॑हि ।  
 +++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -47,4 +52,5 @@ Fare along the wide atmosphere.
 > 'उर्व् अन्तरिक्षम् अन्व् इहीत्य्' आहान्तरिक्ष-देवत्यो ह्य् एतर्हि सोमः (सं. का. ६ प्र. १ अ. ११)  
 
 इति।
+</details>
 </details>

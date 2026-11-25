@@ -9,6 +9,8 @@ title = "ते यं द्विष्मः"
 तव्ँ᳓ वो **ज᳓म्भे दधामि** ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 him whom we hate and him who hateth us, I place him within your jaws.
@@ -27,4 +29,5 @@ him whom we hate and him who hateth us, I place him within your jaws.
 <details><summary>सायण-टीका</summary>
 
 ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
+</details>
 </details>

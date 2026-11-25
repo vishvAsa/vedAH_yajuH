@@ -3,15 +3,20 @@ title = "२५-विधानम्"
 unicode_script = "devanagari"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पञ्चविँ॒शो॑ऽग्निष्टो॒मो भ॑वति प्र॒जाप॑ते॒राप्त्यै॑ महाव्र॒तवा॑न॒न्नाद्य॒स्याव॑रुद्ध्यै  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्चविँशो᳙ ऽग्निष्टोमो᳓ +++(यागः)+++ भवति प्रजा᳓पतेर् आ᳓प्त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -32,11 +37,14 @@ There is an Agnistoma with the Pañcadaśa (Stoma), for the gaining of Prajapati
 
 पञ्चविंशोग्नि- ष्टोमः चतुर्थमहः प्रजापतेराप्त्यै प्रजापतेः पञ्चविंशतित्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाव्रतवा᳙न् +++(=ये महाव्रतधर्माः 'स्तुवन्त्यनुश्नोकेन' इत्याद्याः तद्वान्)+++ अन्ना᳓द्यस्य᳓ अ᳓वरुद्ध्यै । +++(यथोक्तं महाव्रते 'तदन्नं पञ्चविंशमभवत्' इति ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -56,4 +64,5 @@ There is an Agnistoma with the Pañcadaśa (Stoma), for the gaining of Prajapati
 <details><summary>भट्टभास्कर-टीका</summary>
 
 महाव्रतवानयं भवति अह्नोसंभवात् । महाव्रतधर्मवान् तदीयस्तोत्रवानित्यन्ये । अन्नाद्यस्यावरुद्धयै, तस्यान्नहेतुत्वात् । यथोक्तं महाव्रते 'तदन्नं पञ्चविंशमभवत्' इति ।
+</details>
 </details>

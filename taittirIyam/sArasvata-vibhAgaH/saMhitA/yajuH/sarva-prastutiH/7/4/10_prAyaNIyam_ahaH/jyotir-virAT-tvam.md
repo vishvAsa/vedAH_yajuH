@@ -9,6 +9,8 @@ unicode_script = "devanagari"
 +++(गोआयुषी)+++ द्वे᳓ च᳓ + ऋ᳓चाव् अ᳓ति रि᳓च्ये᳓ते᳓ ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 These (Stomas) being sung together make up the Viraj, and two verses are redundant;
@@ -23,12 +25,15 @@ These (Stomas) being sung together make up the Viraj, and two verses are redunda
 
 ते । सँस्तु॑ता॒ इति॒ सम्-स्तु॒ताः॒ । वि॒राज॒मिति॑ वि-राज॑म् । अ॒भि । समिति॑ । प॒द्य॒न्ते॒ । द्वे इति॑ । च॒ । ऋचौ॑ । अतीति॑ । रि॒च्ये॒ते॒ इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कया +++(२४१-स्तोत्रिया)+++ गौ᳓र् अ᳓तिरिक्त , ए᳓कया᳓ +++(२५९-स्तोत्रिया??)+++ ऽऽयुर् ऊनः᳓ ।  
 +++(ज्योतिरतिरात्रस्य १९०*२ = ३७० स्तोत्रिया / ज्योतिष्टोमस्य १९० स्तोत्रिया इति कृत्वा, तस्यैव तु दशकपूरणम् भवति। ततो हि ज्योतिर् गृह्यते प्रथमं गोआयुषी परित्यज्य।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -44,11 +49,14 @@ the Gostoma has one too many, and the Ayustoma one too few.
 
 एक॑या । गौः । अति॑रिक्त॒ इत्यति॑-रि॒क्तः॒ । एक॑या । आयुः॑ । ऊ॒नः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्गो᳓ वै᳓ लोको᳓ ज्यो᳓तिर्, +++(यत)+++ ऊ᳓र्ग्+++(=अन्नं)+++ विरा᳓ट् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -63,4 +71,5 @@ The Jyotistoma is the world of heaven, the Viraj is strength;
 <details><summary>पद-पाठः</summary>
 
 सु॒व॒र्ग इति॑ सुवः-गः । वै । लो॒कः । ज्योतिः॑ । ऊर्क् । वि॒राडिति॑ वि-राट् ।
+</details>
 </details>

@@ -2,9 +2,12 @@
 title = "उ᳓पहूतँ रथन्तरँ᳓"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथेडोपाह्वानम् - उपहूतं रथन्तरमित्यादि ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -12,6 +15,8 @@ title = "उ᳓पहूतँ रथन्तरँ᳓"
 उ᳓पहूतँ रथन्तरँ᳓ सह᳓ पृथिव्या᳓ ।   
 उ᳓प मा रथन्तरँ᳓ सह᳓ पृथिव्या᳓ ह्वयताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -23,6 +28,7 @@ title = "उ᳓पहूतँ रथन्तरँ᳓"
 
 रथन्तरादीनां साम्नां प्राथम्यादिना पृथिव्यादिभिः उपहूतवम् । यद्वा - रममाणानां तरं तारकं रथंतरं अन्नं तत्पृथिव्या सह उपहूतमित्यर्थः । शिष्टं स्पष्टम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,10 +36,13 @@ title = "उ᳓पहूतँ रथन्तरँ᳓"
 उ᳓प मा वामदेव्यँ᳓ सहा᳓न्त᳓रिक्षेण ह्वयताम् ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 उप॑हूतव्ँ वामदे॒व्यँ स॒हान्तरि॑क्षेण ।   
 उप॑ मा वामदे॒व्यँ स॒हान्तरि॑क्षेण ह्वयताम् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -42,10 +51,13 @@ title = "उ᳓पहूतँ रथन्तरँ᳓"
 उ᳓प मा बृह᳓त् सह᳓ दिवा᳓ ह्वयताम् ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 उप॑हूतम्बृ॒हत्स॒ह दि॒वा ।   
 उप॑ मा बृ॒हत्स॒ह दि॒वा ह्व॑यताम् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -54,10 +66,13 @@ title = "उ᳓पहूतँ रथन्तरँ᳓"
 उ᳓प मा सप्त᳓ हो᳓त्रा ह्वयन्ताम् ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 उप॑हूतास्स॒प्त होत्राः॑ ।  
 उप॑ मा स॒प्त होत्रा॑ ह्वयन्ताम् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,10 +81,13 @@ title = "उ᳓पहूतँ रथन्तरँ᳓"
 उ᳓प मा धेनु᳓स् सह᳓र्षभा ह्वयताम् ॥16॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 उप॑हूता धे॒नुस्स॒हर्ष॑भा ।  
 उप॑ मा धे॒नुस्स॒हर्ष॑भा ह्वयताम् ॥16॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -78,10 +96,13 @@ title = "उ᳓पहूतँ रथन्तरँ᳓"
 उ᳓प मा भक्ष᳓स् स᳓खा ह्वयताम् ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 उप॑हूतो भ॒क्षस्सखा॑ ।  
 उप॑ मा भ॒क्षस्सखा॑ ह्वयताम् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -89,9 +110,12 @@ title = "उ᳓पहूतँ रथन्तरँ᳓"
 उ᳓पहूताँ᳓ (4) हो᳓ ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 उप॑हू॒ताँ (4) हो ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -101,11 +125,14 @@ title = "उ᳓पहूतँ रथन्तरँ᳓"
 उ᳓पो अस्माँ᳓ इ᳓डा ह्वयताम् ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 इडोप॑हूता ।  
 उप॑हू॒तेडा॑ ।  
 उपो॑ अ॒स्माँ इडा॑ ह्वयताम् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,11 +142,14 @@ title = "उ᳓पहूतँ रथन्तरँ᳓"
 मानवी᳓ घृत᳓पदी मैत्रावरुणी᳓ ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 इडोप॑हूता ।  
 उप॑हू॒तेडा॑ ।  
 मा॒न॒वी घृ॒तप॑दी मैत्रावरु॒णी ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -127,7 +157,10 @@ title = "उ᳓पहूतँ रथन्तरँ᳓"
 ब्र᳓ह्म देव᳓-कृतम् उ᳓पहूतम् ॥17॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑ दे॒वकृ॑त॒मुप॑हूतम् ॥17॥
+</details>
 </details>

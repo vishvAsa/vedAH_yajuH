@@ -3,6 +3,8 @@ title = "सुपिप्पलाः"
 unicode_script = "devanagari"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9चषालं प्रतिमुञ्चाति - सुपिप्पलाभ्य इति ॥
@@ -18,11 +20,14 @@ unicode_script = "devanagari"
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुपिप्पला᳓भ्यस्+++(=सुफलेभ्यः)+++ त्वौ᳓षधीभ्यः +++(कण्डूये)+++।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -78,4 +83,5 @@ For the plants with good berries thee!
 इति।
 
 दक्षिणाभ्यो नेतोर् दक्षिणानाम् ऋत्विग्भिर् अपनयनात्। अवचृन्देत् परित्यजेत्। 'चात्वालाद् धिष्णियान् उपवपतीति' चात्वाल-नामकाद् गर्ताद् धिष्णियानाम् उत्पत्तेर् विधास्यमानत्वाच् चात्वालस्य यज्ञ-योनित्वम्।
+</details>
 </details>

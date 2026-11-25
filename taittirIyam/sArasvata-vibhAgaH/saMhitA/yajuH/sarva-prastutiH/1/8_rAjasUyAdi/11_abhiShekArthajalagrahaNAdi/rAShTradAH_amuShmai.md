@@ -51,6 +51,8 @@ Whereby they led Indra beyond his foes.
 राष्ट्रदा᳓स्स्थ - राष्ट्र᳓ममु᳓ष्मै+++(←नामोहः)+++ दत्त ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Ye are givers of the kingdom; give N. N. the kingdom.
@@ -69,4 +71,5 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ग्रहणे तु यस्माद्राष्ट्रदास्स्थ, तस्मादमुष्मै राजेन्द्रवर्मणे राष्ट्रं दत्त ; ता वो गृह्णामीति ॥
+</details>
 </details>

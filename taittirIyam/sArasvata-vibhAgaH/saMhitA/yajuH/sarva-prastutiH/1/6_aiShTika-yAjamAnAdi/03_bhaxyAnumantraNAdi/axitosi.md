@@ -2,15 +2,20 @@
 title = "अक्षितोऽसि"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अक्षि॑तो॒ऽस्यक्षि॑त्यै त्वा॒ मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓क्षितोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -31,11 +36,14 @@ Thou art imperishable,
 
 अक्षितः अक्षीणोसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓क्षित्यै त्वा +++(ददामि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -56,11 +64,14 @@ for imperishableness thee;
 
 अक्षित्यै इह चामुत्र चाक्षयाय त्वां ददामीति सामर्थ्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓ मे क्षेष्ठा अमु᳓त्रामु᳓ष्मिल्ँ लोके᳓  ॥  [10]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -89,4 +100,5 @@ mayst thou not perish for me, yonder, in yonder world.
 हेऽन्वाहार्य त्वमक्षितोऽक्षीणोऽसि। अपरिमितो निरुप्य इति ब्राह्मणोक्तेर्दक्षिणाग्नावन्वाहार्यं महान्तमपरिमितमोदनं पचतीति सूत्रकारोक्तेश्च।
 
 तस्मात्परलोकेऽप्यक्षित्यै त्वां ददामीति शेषः। तेनाभिप्रायेण दीयमानत्वादमुत्र परलोके मम भोगाय मा क्षेष्ठाः क्षयं मा प्राप्नुहि। तस्मादहमप्यमुष्मिल्ँ लोके त्वां यथेच्छमनुभवामीति शेषः।  
+</details>
 </details>

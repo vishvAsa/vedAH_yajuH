@@ -7,6 +7,8 @@ unicode_script = "devanagari"
 एष᳓ ते यो᳓निः।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 This is thy birthplace;
@@ -25,4 +27,5 @@ This is thy birthplace;
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **एष ते योनिः** स्थानम् ।
+</details>
 </details>

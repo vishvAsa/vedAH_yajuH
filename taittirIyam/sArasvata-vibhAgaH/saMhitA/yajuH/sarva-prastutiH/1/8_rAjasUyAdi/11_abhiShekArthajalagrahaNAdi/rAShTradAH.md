@@ -51,6 +51,8 @@ Whereby they led Indra beyond his foes.
 राष्ट्रदा᳓स्स्थ राष्ट्र᳓न्दत्त स्वा᳓हा॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Ye are givers of the kingdom; give ye the kingdom, hail!
@@ -69,4 +71,5 @@ Ye are givers of the kingdom; give ye the kingdom, hail!
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ता यूयं राष्ट्रदास्स्थ राष्ट्रस्य दात्र्यस्स्थ, अद्भिर्हि राष्ट्रं भवति । ता यूयमस्मै राष्ट्रं दत्त, स्वाहा स्वाहुतमिदमाज्यमस्तु इति होमे । 
+</details>
 </details>

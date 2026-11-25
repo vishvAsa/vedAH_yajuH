@@ -7,6 +7,8 @@ title = "प्रजापतये त्वा"
 प्रजा᳓पतये त्वा जु᳓ष्टङ्गृह्णामि ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 agreeable to Prajapati I take thee  
@@ -30,16 +32,22 @@ agreeable to Prajapati I take thee
 _________________
 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अनेन गृहीत्वा परिमृज्य सादयति - एष ते योनिः प्रजापतये त्वेत्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -55,11 +63,14 @@ this is thy birthplace;
 
 ए॒षः । ते॒ । योनिः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतये त्वा ॥ [46]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -79,4 +90,5 @@ to Prajapati thee!
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
+</details>
 </details>

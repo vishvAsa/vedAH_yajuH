@@ -7,6 +7,8 @@ title = "ज्योति॒र् गौर् आयु॒र् इति�
 ज्यो᳓तिर् गौ᳓र् आ᳓युर् इ᳓ति त्र्यहा᳓ भवन्ति।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 There are Tryahas consisting of Jyotis, Go, and Ayus.
@@ -21,11 +23,14 @@ There are Tryahas consisting of Jyotis, Go, and Ayus.
 
 ज्योतिः॑ । गौः । आयुः॑ । इति॑ । त्र्य॒हा इति॑ त्रि-अ॒हाः । भ॒व॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वा᳓व᳓ ज्यो᳓तिर्, अन्त᳓रिक्षङ् गौ᳓र्, असा᳓व् आ᳓युः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -47,4 +52,5 @@ The Jyotis is this (earth), the Go the atmosphere, the Ayus yonder (sky);
 ज्योतिस्स्वरूपम् ७.१ इत्यत्र प्रतिपादितम्। १९० स्तोत्रियम्।  
 गौः - खलु पञ्चदशो बहिष्पवमानः, त्रिवृन्त्य् आज्यानि, सप्तदशं माध्यन्दिनं सवनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २४१-स्तोत्रिया। क्थम्??  
 आयुः - त्रिवृत् बहिष्पवमानं, पञ्चदशाज्यानि, सर्वसप्तदशं माध्यन्दिनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २५९-स्तोत्रियम्। कथम्??
+</details>
 </details>

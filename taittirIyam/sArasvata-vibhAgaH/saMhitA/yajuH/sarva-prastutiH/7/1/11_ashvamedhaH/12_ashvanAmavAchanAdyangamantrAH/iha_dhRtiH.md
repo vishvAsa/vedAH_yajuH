@@ -3,6 +3,8 @@ title = "इह धृतिः"
 unicode_script = "devanagari"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4सायमश्वस्य पत्सु चतस्रो धृतीर्जुहोति - इह धृतिरित्यादि ॥
@@ -14,11 +16,14 @@ unicode_script = "devanagari"
 
 (अत्र द्विवारं विनियोगः लभ्यते -कथं प्रदर्शनीयम् इति विचारणीयम् सम्पादकटिप्पनी-  प्रथमकाण्डे, द्वादशेऽनुवाके चतुर्थे मन्त्रे )+++ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ धृ᳓तिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -34,11 +39,14 @@ Here is support, hail!
 
 इ॒ह । धृतिः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ वि᳓धृतिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -54,11 +62,14 @@ Here is keeping apart, hail!
 
 इ॒ह । विधृ॑ति॒रिति॒ वि-धृ॒तिः॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ र᳓न्तिस्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -74,11 +85,14 @@ Here is joy, hail!
 
 इ॒ह । रन्तिः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ र᳓मतिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -105,4 +119,5 @@ Here is delight, hail!'
 8उत्सृष्टे चतुर्षु पत्सु चतस्र आहुतीर्जुहोति - इह धृतिरित्यादि ॥ व्याख्यातम् +++(सम्पादकटिप्पनी-  प्रथमकाण्डे, द्वादशेऽनुवाके चतुर्थे मन्त्रे)+++ ॥
 
 इति सप्तमे प्रथमे अष्टादशोनुवाकः ॥  
+</details>
 </details>

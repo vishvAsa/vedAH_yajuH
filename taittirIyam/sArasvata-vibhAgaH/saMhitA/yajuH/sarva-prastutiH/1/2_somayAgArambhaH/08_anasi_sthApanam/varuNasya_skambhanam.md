@@ -8,6 +8,8 @@ unicode_script = "devanagari"
 व᳓रुणस्य +++(सोमस्य च)+++ स्क᳓म्भनम्+++(=धारयिता)+++ असि ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thou art the pillar of Varuna.
@@ -31,4 +33,5 @@ Thou art the pillar of Varuna.
 <details><summary>सायण-टीका</summary>
 
 शाखान्तरानुसारेण 'वारुणम् असीत्य्' उक्तम्। एतच्-छाखानुसारेण 'वरुणस्य स्कम्भ-सर्जनम् असीति' द्रष्टव्यम्। युग-च्छिद्रे प्रक्षेप्यः शङ्कुः शम्या। हे शम्ये, त्वं वरुणस्योक्ष्णो निवारणीयस्य बलीवर्दस्य स्कम्भनं। निवारणं कुर्वत्य् असि। 
+</details>
 </details>

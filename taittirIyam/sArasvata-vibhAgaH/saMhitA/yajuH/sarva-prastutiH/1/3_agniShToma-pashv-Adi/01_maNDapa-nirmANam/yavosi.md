@@ -10,6 +10,8 @@ unicode_script = "devanagari"
 यव᳓य +अ᳓रातीः ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thou art barley (yava);  
@@ -55,4 +57,5 @@ bar evil spirits.
 <details><summary>सायण-टीका</summary>
 
 हे धान्य त्वं यवो ऽसि अमिश्री-कर्ता ऽसि। अतो द्वेषिणो राक्षसान् इतरान् अपि शत्रून् अस्मत्तो वियोजय।
+</details>
 </details>

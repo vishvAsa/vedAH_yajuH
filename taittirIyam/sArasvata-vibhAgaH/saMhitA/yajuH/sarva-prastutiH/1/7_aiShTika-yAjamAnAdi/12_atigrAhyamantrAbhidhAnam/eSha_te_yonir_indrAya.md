@@ -2,15 +2,20 @@
 title = "एष ते योनीः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2गृहीत्वा यथायतनं सादयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निर्, इ᳓न्द्राय त्वा +++(सादयामि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -30,4 +35,5 @@ this is thy birthplace; to Indra thee!
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एष ते योनिः कारणं इन्द्राय त्वा सादयामि । व्याख्यातमेव ॥
+</details>
 </details>

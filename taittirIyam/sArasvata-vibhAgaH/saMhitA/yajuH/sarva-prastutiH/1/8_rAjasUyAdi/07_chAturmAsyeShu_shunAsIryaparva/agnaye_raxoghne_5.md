@@ -7,6 +7,8 @@ title = "अ॒ग्नये॑ रक्षो॒घ्ने 5"
 यमा᳓य  [रक्षोघ्ने᳓ स्वा᳓हा] ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To Agni, slayer of Raksases, hail!  To Yama,
@@ -22,10 +24,14 @@ To Agni, slayer of Raksases, hail!  To Yama,
 
 अ॒ग्नये॑ । र॒क्षो॒घ्न इति॑ रक्षः-घ्ने । स्वाहा॑ । य॒माय॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्नये॑ रक्षो॒घ्ने स्वाहा॑ य॒माय॑ सवि॒त्रे वरु॑णाय॒ बृह॒स्पत॑ये॒ दुव॑स्वते रक्षो॒घ्ने स्वाहा॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -35,6 +41,8 @@ To Agni, slayer of Raksases, hail!  To Yama,
 बृ᳓हस्प᳓तये  [रक्षोघ्ने᳓ स्वा᳓हा] ।     
 दु᳓वस्वते रक्षोघ्ने᳓ स्वा᳓हा  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -60,4 +68,5 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 **दुवस्वते** परिचर्यावते बृहस्पतय इति । सर्वे निगदसिद्धाः ।   
 रक्षोघ्ने रक्षसां हन्त्रे । उदात्तनिवृत्तिस्वरेण चतुर्थ्या उदात्तत्वम् ।
 सवित्रे इति 'उदात्तयणः' इति विभक्त्य्-उदात्तत्वम् । बृहस्पतिरुक्तस्वरः ॥
+</details>
 </details>

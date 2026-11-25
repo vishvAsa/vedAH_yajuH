@@ -9,6 +9,8 @@ unicode_script = "devanagari"
 +++('नामन्यतरस्याम्' इति षष्ठीबहुवचनस्योदात्तत्वम्। )+++
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thou art the seat of the Pitrs.
@@ -37,4 +39,5 @@ Thou art the seat of the Pitrs.
 <details><summary>सायण-टीका</summary>
 
 बर्हिर्-हस्तो बर्हिर्-मुष्टिः। हे बर्हिः पितृणां स्थानम् असि।
+</details>
 </details>

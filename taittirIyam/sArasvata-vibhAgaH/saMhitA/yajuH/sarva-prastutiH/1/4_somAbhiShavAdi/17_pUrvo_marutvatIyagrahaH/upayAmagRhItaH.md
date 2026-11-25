@@ -2,17 +2,21 @@
 title = "उपयामगृहीतः"
 unicode_script = "devanagari"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य उपयामगृहीतोसीन्द्राय त्वा मरुत्वत इति गृह्णाति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -39,13 +43,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राय त्वा मरु᳓त्वते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -61,17 +67,23 @@ to Indra with the Maruts thee!
 
 इन्द्रा॑य । त्वा॒ । म॒रुत्व॑ते ।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एष ते योनिरिन्द्राय त्वा मरुत्वत इति सादयति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निर्, इ᳓न्द्राय त्वा मरु᳓त्वते ॥ [18]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -86,4 +98,5 @@ This is thy birthplace; to Indra with the Maruts thee!
 <details><summary>पद-पाठः</summary>
 
 ए॒षः । ते॒ । योनिः॑ । इन्द्रा॑य । त्वा॒ । म॒रुत्व॑ते ॥
+</details>
 </details>

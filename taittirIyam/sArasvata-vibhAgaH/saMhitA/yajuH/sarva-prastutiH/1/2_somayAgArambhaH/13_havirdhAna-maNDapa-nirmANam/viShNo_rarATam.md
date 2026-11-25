@@ -1,6 +1,8 @@
 +++
 title = "विष्णो॑ र॒राट॑म्"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 रराटीम् आसञ्जयति।
@@ -14,11 +16,14 @@ title = "विष्णो॑ र॒राट॑म्"
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णो ररा᳓टम्+++(=ललाटम्)+++ असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -44,8 +49,11 @@ Thou art the forehead of Visnu.
 
 हविर्धान-मण्डपस्य विष्णु-देवताकत्वाद् विष्णुत्वम्। पूर्व-द्वार-वर्ति-स्तम्भयोर् मध्ये काचिद् दर्भ-माला ग्रथ्यते, तां दर्भ-मालां तद्-बन्धनाधारं तिर्यग-वंशं वा संबोध्य पुरुष-ललाटत्वेनोपचरितुं विष्णो रराटम् असीत्य् उच्यते।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मध्यमं छदिर् अधिनिदधाति।
@@ -65,11 +73,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोः पृष्ठ᳓म् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -97,12 +108,18 @@ Thou art the back of Visnu.
 
 [[P320]]
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पार्श्वयोच् छदिषी+++(=??)+++ निदधाति।
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>सायण-टीका</summary>
 
@@ -113,11 +130,14 @@ ________
 इति।
 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोश् श्न᳓प्त्रे+++(=मुखकोणौ)+++ स्थः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -138,8 +158,11 @@ Ye two are the corners' of Visnu's mouth.
 
 12पार्श्वयोच्छदिषी निदधाति - विष्णोः श्नप्त्रे स्थ इति ॥ श्नप्त्रे शोधके स्थः । सकारस्य शकारापत्तिः । स्नपतिश्छान्दसश्शुद्धिकर्मा, औणादिकष्ट्रन्प्रत्ययः । स्नातेर्वा णिचि पुगादिः ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षिणबाहौ कुशम् उपसङ्गृह्य स्यन्द्यां प्रवर्तयति - विष्णोस्स्यूरिति ॥
@@ -153,11 +176,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोस् स्यू᳓र्+++(=सूची)+++ असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -183,17 +209,23 @@ Thou art the thread of Visnu.
 
 सीव्यते ऽनया रज्ज्व् इति स्यूः। हे बन्धन-हेतो त्वं विष्णु-देवताकस्य रज्जुर् असि। 
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 द्वारग्रन्थिं करोति - विष्णोर्ध्रुवमसीति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोर् ध्रुव᳓म् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -219,16 +251,22 @@ Thou art the fixed point of Visnu.
 
 हे ग्रन्थि-रूप त्वं विष्णु-संबन्धि दृढम् असि। 
 </details>
+</details>
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 हविर्धान-मण्डपम् अभिमृशति - वैष्णवमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैष्णव᳓म् असि। वि᳓ष्णवे त्वा +++(अभिमृशामि)+++॥ [27]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -255,4 +293,5 @@ Thou art of Vishu; to Visnu thee!
 <details><summary>सायण-टीका</summary>
 
 हे मण्डप त्वं विष्णु-देवताकम् अस्यतो विष्णुप्रीतये त्वां स्पृशामि।
+</details>
 </details>

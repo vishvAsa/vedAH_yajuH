@@ -2,9 +2,12 @@
 title = "मयि मेधाम्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मय्य॒ग्निस्तेजो॑ दधातु॒ मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयीन्द्र॑ इन्द्रि॒यन्द॑धातु॒ मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयि॒ सूर्यो॒ भ्राजो॑ दधातु ॥ [2]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -12,6 +15,8 @@ title = "मयि मेधाम्"
 म᳓यि मेधा᳓म् म᳓यि प्रजा᳓म्,  
 म᳓य्य् अग्नि᳓स् ते᳓जो दधातु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -34,12 +39,15 @@ On me wisdom, on me offspring, on me brilliance may Agni bestow;
 प्रजा पुत्रादिः ।  
 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓यि मेधा᳓म् म᳓यि प्रजा᳓म्,  
 म᳓यी᳓न्द्र इन्द्रिय᳓न् दधातु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -64,12 +72,15 @@ on me wisdom, on me offspring, on me power may Indra bestow;
 
 इति तृतीये तृतीये प्रथमोनुवाकः ॥  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓यि मेधा᳓म् म᳓यि प्रजा᳓म्,  
 म᳓यि सू᳓र्यो भ्रा᳓जो दधातु  ॥ [2]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -84,5 +95,6 @@ on me wisdom, on me offspring, on me blazing may Surya bestow.
 <details><summary>पद-पाठः</summary>
 
 मयि॑ । मे॒धाम् । मयि॑ । प्र॒जामिति॑ प्र-जाम् । मयि॑ । सूर्यः॑ । भ्राजः॑ । द॒धा॒तु॒ ॥
+</details>
 </details>
 

@@ -3,9 +3,12 @@ title = "इदम् अहम्"
 unicode_script = "devanagari"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इदम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒ यन्न॑स्समा॒नो यमस॑मानो निच॒खाने॒दमे॑न॒मध॑रङ्करोमि॒ यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -14,6 +17,8 @@ unicode_script = "devanagari"
 य᳓न् नस् समानो᳓  
 य᳓म् अ᳓समानो निचखा᳓न।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -35,6 +40,7 @@ Here do I cast out the spell which an equal or an unequal hath buried against us
 
 2पांसूनुद्वपति - इदमहमिति ॥ इदमिति क्रियाविशेषणम् । तं वलगमहमिदमुद्वपामि उद्धृत्य बहिः प्रक्षिपामि । कमित्याह – नः अस्माकं समानस्तुल्यः यं वलगं निचखान । 'तिङि चोदात्तवति' इति गतेरनुदात्तत्वम् । उदात्तवता तिङा' इति समासः । यश्चास्माकमसमानः अतुल्यः ऊनः उत्कृष्टो वा वलग निचखान, तमुद्वपामीति । 'द्वौ वाव पुरुषौ यश्चैव समानो यश्चासमानः' इत्यादि ब्राह्मणम् ।
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -44,6 +50,8 @@ ________
 यो᳓ऽसमानो ऽरातीय᳓ति  
 …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -72,4 +80,5 @@ Here do I overthrow him who equal or unequal is ill-disposed to us.
 
 अत्र विश्वासप्रस्तुतौ मूले पि वाक्यविभागे दोषः भाति। निचखानेदम् इदं पूर्ववाक्यम् समाप्तमासीत् । इदम् इति पदम् अग्रिमवाक्यान्वयि । 
 किञ्च – एनमहमधरं अधोगतिं करोमि । इदमिति पूर्ववत्क्रियाविशेषणम् । इति टीका । अतः व्यत्यासः कृतः
+</details>
 </details>
