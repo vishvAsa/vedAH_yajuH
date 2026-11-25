@@ -24,18 +24,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/050/01_udu_tyaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उदु॒ त्यं जा॒तवे॑दसं दे॒वं व॑हन्ति के॒तवः॑ ।  
-दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/01_udu_tyaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -92,7 +81,12 @@ sū́ryam ← sū́rya- (nominal stem)
 
 víśvāya ← víśva- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॒ त्यं जा॒तवे॑दसं दे॒वं व॑हन्ति के॒तवः॑ ।  
+दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +162,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -189,7 +182,6 @@ ____________
 **त्यं** तं इमं **देवं जातवेदसं** जातप्रज्ञं जातानां वेदितारं **केतवो** रश्मय **उद्वहन्ति** ऊर्ध्वं वहन्ति **दृशे** द्रष्टुं **विश्वाय** विश्वार्थं, विश्वो लोको यथैनं पश्येदिति ।
 ___________
 देवं सूर्यं जातवेदसं जातानां वेदितारं देवं केतवो रश्मयः उद्वहन्ति विस्वस्य लोकस्य दृशे दर्शनार्थमिति ॥
-
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -308,7 +300,6 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 
 भावार्थभाषाः -  धार्मिक माता पिता इत्यादी विद्वान लोकांनी जसे घोडे रथाला व किरणे सूर्याला वहन करतात तसेच विद्या व धर्माने प्रकाशित असलेल्या त्यांच्या सारख्याच स्त्रियांशी पुरुषांचा विवाह करवावा. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -341,18 +332,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-चि॒त्रं दे॒वाना॒मुद॑गा॒दनी॑कं॒ चक्षु॑र्मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः ।  
-आप्रा॒ द्यावा॑पृथि॒वी अ॒न्तरि॑क्षं॒ सूर्य॑ आ॒त्मा जग॑तस्त॒स्थुष॑श्च ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -435,7 +415,12 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 tasthúṣaḥ ← √sthā- (root)  
 {case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चि॒त्रं दे॒वाना॒मुद॑गा॒दनी॑कं॒ चक्षु॑र्मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः ।  
+आप्रा॒ द्यावा॑पृथि॒वी अ॒न्तरि॑क्षं॒ सूर्य॑ आ॒त्मा जग॑तस्त॒स्थुष॑श्च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -556,7 +541,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -575,7 +559,6 @@ _________
 
 _____________
 चित्रं चायनीयं सर्वलोकपूजितं देवानां रश्मीनामिन्द्रादीनां वा ऋत्विजां अनीकं मुखस्थानीयं समूहस्थानीयं वा उदगादुद्गच्छति सर्वात्मकसमष्टिरूपत्वात् । किं च – चक्षुस्थानीयं ख्यातिकरं वा मित्रादीनां । अयं देवो द्यावापृथिवी द्यावापृथिव्यौ अन्तरिक्षं च आप्राः आ (प्रागाः) पूरयति तेजसा । प्रा पूरणे, पूरुषव्यत्ययः । जगतः जङ्गमस्य सर्वस्य तस्थुषः स्थावरस्य सर्वस्यात्मा सूर्यः एकः प्रेरको वा सर्वस्य तस्मादात्मा ; सर्वोपकारकत्वात् । यद्वा - 'स यश्चायं पूरुषे । यश्चासावादित्ये । स एकः' इति दर्शनात् आत्मा सर्वस्य । अत्राचार्येण 'समानी याज्यानुवाक्ये भवतः' इत्येतदनुसारेण 'उदग्ने शुचयस्तव' 'विज्योतिषा' 'उदु त्यं जातवेदसम्' 'चित्रं देवानाम्' इति हविषां याज्यानुवाक्याः 'उदुत्यं जातवेदसम्' 'सप्त त्वा हरितो रथे' 'चित्रं देवानाम्' इति पिण्डान् प्रयच्छति इति ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -687,7 +670,6 @@ Es stieg empor der Götter lichtes Antlitz, das Auge Mitra's, Varuna's und Agni'
 
 भावार्थभाषाः -  जो दृश्यमान परिमाणयुक्त पदार्थ असतो तो परमात्मा नसतो. कोणीही त्या अव्यक्त सर्वशक्तिमान जगदीश्वराखेरीज संपूर्ण जगाला उत्पन्न करू शकत नाही. सर्वव्यापक, सच्चिदानंदस्वरूप अनंत, अंतर्यामी, चराचर जगाचा आत्मा अशा परमेश्वराखेरीज संसार धारण करणे, जीवांच्या पापपुण्याच्या साक्षी असणे, त्यानुसार जीवांना सुख दुःखरूपी फळ देणे, हे कोणी करू शकत नाही. परमेश्वराच्या उपासनेशिवाय धर्म, अर्थ, काम, मोक्ष प्राप्त करण्यास जीव समर्थ बनू शकत नाही. त्यासाठी सर्वांनी परमेश्वरच उपासना करण्यायोग्य इष्टदेव आहे, हे मानले पाहिजे. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -720,18 +702,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/189/01_agne_naya.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अग्ने॒ नय॑ सु॒पथा॑ रा॒ये अ॒स्मान्विश्वा॑नि देव व॒युना॑नि वि॒द्वान् ।  
-यु॒यो॒ध्य१॒॑स्मज्जु॑हुरा॒णमेनो॒ भूयि॑ष्ठां ते॒ नम॑उक्तिं विधेम ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/189/01_agne_naya.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -811,7 +782,12 @@ te ← tvám (pronoun)
 
 vidhema ← √vidh- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ नय॑ सु॒पथा॑ रा॒ये अ॒स्मान्विश्वा॑नि देव व॒युना॑नि वि॒द्वान् ।  
+यु॒यो॒ध्य१॒॑स्मज्जु॑हुरा॒णमेनो॒ भूयि॑ष्ठां ते॒ नम॑उक्तिं विधेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -933,7 +909,6 @@ _________
 - “worship; offer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -955,7 +930,6 @@ _________
 __________
 हे अग्ने शोभनेन मार्गेण अस्मान्नय धनार्थम् । हे देव विश्वानि वयुनानि ज्ञानोपायभूतानि विद्वान् ।  
 किञ्च - जुहुराणं कुटिलस्वभावं चैनः पापमस्मत्तो युयोधि पृथक्कुरु । वयं च ते भूयिष्ठां नमउक्तिं विधेमेति ॥
-
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -1078,7 +1052,6 @@ Führ, Agni, uns auf schönem Pfad zum Reichthum der du, o Gott, die Werke alle 
 
 भावार्थभाषाः -  माणसांनी धर्म व विज्ञानाची प्राप्ती व अधर्माच्या निवृत्तीसाठी परमेश्वराची चांगल्या प्रकारे प्रार्थना केली पाहिजे व सदैव सुमार्गाने चालले पाहिजे. दुःखरूपी अधर्म मार्गापासून दूर राहिले पाहिजे. जसे विद्वान लोक परमेश्वरात अनुरक्त असतात, तसे इतर लोकांनीही राहिले पाहिजे. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>

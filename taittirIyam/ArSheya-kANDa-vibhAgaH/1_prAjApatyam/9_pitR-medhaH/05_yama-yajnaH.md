@@ -137,16 +137,6 @@ May well-known Yama come by pleasant-minded protections, may Yami (wife of Yama)
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/013/02_yame_iva.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-य॒मे इ॑व॒ यत॑माने॒ यदैतं॒ प्र वां॑ भर॒न्मानु॑षा देव॒यन्तः॑ ।  
-आ सी॑दतं॒ स्वमु॑ लो॒कं विदा॑ने स्वास॒स्थे भ॑वत॒मिन्द॑वे नः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/013/02_yame_iva.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -516,16 +506,6 @@ Offering of soma.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/014/13_yamAya_somaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-य॒माय॒ सोमं॑ सुनुत य॒माय॑ जुहुता ह॒विः ।  
-य॒मं ह॑ य॒ज्ञो ग॑च्छत्य॒ग्निदू॑तो॒ अरं॑कृतः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/13_yamAya_somaM.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -811,16 +791,6 @@ Offering of ghee.
 स᳓ नो देवे᳓ष्व् **आ᳓यमद्**  
 दीर्घ᳓म् आ᳓युः प्र᳓ जीव᳓से ।
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/014/14_yamAya_ghRtavaddhavirjuhota.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-य॒माय॑ घृ॒तव॑द्ध॒विर्जु॒होत॒ प्र च॑ तिष्ठत ।  
-स नो॑ दे॒वेष्वा य॑मद्दी॒र्घमायुः॒ प्र जी॒वसे॑ ॥
 </details>
 
 </div>
@@ -1140,16 +1110,6 @@ Offering of honey.
 इद᳓न् न᳓म ऋ᳓षिभ्यः पूर्वजे᳓भ्यः  
 पू᳓र्वेभ्यः पथि-कृ᳓द्भ्यः ।
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/014/15_yamAya_madhumattamaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-य॒माय॒ मधु॑मत्तमं॒ राज्ञे॑ ह॒व्यं जु॑होतन ।  
-इ॒दं नम॒ ऋषि॑भ्यः पूर्व॒जेभ्यः॒ पूर्वे॑भ्यः पथि॒कृद्भ्यः॑ ॥
 </details>
 
 </div>

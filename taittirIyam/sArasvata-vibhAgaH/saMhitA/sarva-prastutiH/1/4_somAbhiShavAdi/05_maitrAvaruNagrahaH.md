@@ -24,19 +24,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/041/04_ayaM_vAM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अ॒यं वां॑ मित्रावरुणा सु॒तः सोम॑ ऋतावृधा ।  
-ममेदि॒ह श्रु॑तं॒ हव॑म् ॥
-
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/041/04_ayaM_vAM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -96,7 +84,12 @@ máma ← ahám (pronoun)
 
 śrutam ← √śru- (root)  
 {number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं वां॑ मित्रावरुणा सु॒तः सोम॑ ऋतावृधा ।  
+ममेदि॒ह श्रु॑तं॒ हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +165,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -281,7 +273,6 @@ O heil'ge Mitra-Varuna, gepresst ist dieser Soma euch; O höret recht auf meinen
 
 भावार्थभाषाः -  जसे वायू सर्वांकडून रस ग्रहण करून वृष्टी करतात तसेच सत्य विद्येचे श्रवण करून सर्वांना सुख दिले पाहिजे. ॥ ४ ॥
 </details>
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">

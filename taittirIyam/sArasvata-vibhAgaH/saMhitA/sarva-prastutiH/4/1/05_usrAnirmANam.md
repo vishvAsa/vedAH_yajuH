@@ -92,18 +92,7 @@ To see great joy.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/01_Apo_hi.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
-म॒हे रणा॑य॒ चक्ष॑से ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/01_Apo_hi.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -118,7 +107,7 @@ To see great joy.
 महे᳓ र᳓णाय च᳓क्षसे
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
 म॒हे रणा॑य॒ चक्ष॑से ।
@@ -169,7 +158,12 @@ mahé ← máh- (nominal stem)
 
 ráṇāya ← ráṇa- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
+म॒हे रणा॑य॒ चक्ष॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -257,7 +251,6 @@ _________
 - “watch; look.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -268,6 +261,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 **हि** यस्मात् कारणात् **आपः** या यूयं **मयोभुवः** सुखस्य भावयित्र्यः **स्थ** भवथ **ताः** तादृश्यो यूयं **नः** अस्मान् **ऊर्जे** अन्नाय **दधातन** धत्त । अन्नप्राप्तियोग्यानस्मान् कुरुत । अन्नमस्मभ्यं दत्तेत्यर्थः । **महे** महते **रणाय** रमणीयाय **चक्षसे** दर्शनाय सम्यग्ज्ञानाय च धत्त । अस्मान् सम्यग्ज्ञानं प्रति यौग्यान् कुरुतेत्यर्थः ॥
+
 
 _____________
 
@@ -286,6 +280,11 @@ _____________
 **ताः** यूयं **नः** अस्मान् **ऊर्जे** रसाय **दधातन** स्थापयत  
 ऊर्जं वा अस्मभ्यं दत्त  
 **महे** महते **रणाय** रमणीयाय **चक्षसे** ज्ञानाय चेति प्रथमा ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+स्नानमन्त्राः - आपो हिष्ठेति ॥ हे आपः यूयं मयोभुवः स्थ मय इति सुखनाम, सुखस्य भावयित्र्यः स्थ । हिः प्रसिद्धौ । ताः युयं नः अस्मान् ऊर्जे अन्नाय दधातन धत्त अन्नमस्मभ्यं धत्तेत्यर्थः महे महते रणाय रमणीयाय चक्षसे दर्शनाय दधातन ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -361,7 +360,6 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 पदार्थान्वयभाषाः -  (ताः-आपः) ता यूयमापः ! (मयः-भुवः) सुखस्य भावयित्र्यः-सुखसम्पादिका वा“मयः सुखनाम” [निघ० ३।६](हि स्थ) अवश्यं स्थ (नः) अस्मान् (ऊर्जे) जीवनबलाय (महे रणाय चक्षसे) महते रमणीयाय दर्शनाय (दधातन) धारयत ॥१॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

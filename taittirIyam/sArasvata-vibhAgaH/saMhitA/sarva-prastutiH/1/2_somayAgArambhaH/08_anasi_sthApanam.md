@@ -508,18 +508,7 @@ ________
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/050/01_udu_tyaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उदु॒ त्यं जा॒तवे॑दसं दे॒वं व॑हन्ति के॒तवः॑ ।  
-दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/01_udu_tyaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -576,7 +565,12 @@ sū́ryam ← sū́rya- (nominal stem)
 
 víśvāya ← víśva- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॒ त्यं जा॒तवे॑दसं दे॒वं व॑हन्ति के॒तवः॑ ।  
+दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -652,7 +646,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -673,7 +666,6 @@ ____________
 **त्यं** तं इमं **देवं जातवेदसं** जातप्रज्ञं जातानां वेदितारं **केतवो** रश्मय **उद्वहन्ति** ऊर्ध्वं वहन्ति **दृशे** द्रष्टुं **विश्वाय** विश्वार्थं, विश्वो लोको यथैनं पश्येदिति ।
 ___________
 देवं सूर्यं जातवेदसं जातानां वेदितारं देवं केतवो रश्मयः उद्वहन्ति विस्वस्य लोकस्य दृशे दर्शनार्थमिति ॥
-
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -714,8 +706,8 @@ Aloft his beams now bring the god Who knows all creatures that are born, That al
 
 <details><summary>Keith</summary>
 
-Thee, all-knowing god,  
-Thy rays bear upwards,  
+Thee, all-knowing god,
+Thy rays bear upwards,
 The sun for all to see.
 _________
 His rays bear up the god  
@@ -792,7 +784,6 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 
 भावार्थभाषाः -  धार्मिक माता पिता इत्यादी विद्वान लोकांनी जसे घोडे रथाला व किरणे सूर्याला वहन करतात तसेच विद्या व धर्माने प्रकाशित असलेल्या त्यांच्या सारख्याच स्त्रियांशी पुरुषांचा विवाह करवावा. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>

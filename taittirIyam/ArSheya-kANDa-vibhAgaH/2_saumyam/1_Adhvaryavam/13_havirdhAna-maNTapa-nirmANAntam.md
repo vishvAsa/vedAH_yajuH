@@ -51,16 +51,6 @@ ________
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/081/01_yunjate_mana.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-यु॒ञ्जते॒ मन॑ उ॒त यु॑ञ्जते॒ धियो॒ विप्रा॒ विप्र॑स्य बृह॒तो वि॑प॒श्चितः॑ ।  
-वि होत्रा॑ दधे वयुना॒विदेक॒ इन्म॒ही दे॒वस्य॑ सवि॒तुः परि॑ष्टुतिः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/081/01_yunjate_mana.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -685,16 +675,6 @@ ________
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/022/17_idaM_viShNurvi.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इ॒दं विष्णु॒र्वि च॑क्रमे त्रे॒धा नि द॑धे प॒दम् ।  
-समू॑ळ्हमस्य पांसु॒रे ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/17_idaM_viShNurvi.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -999,16 +979,6 @@ ________
 **व्यस्कभ्नाद्**+++(=व्यस्थापयत्)+++ रो᳓दसी **वि᳓ष्णुर्**+++(→आदित्यात्मना)+++ एते᳓  
 **दाधा᳓र** +++(अन्तरिक्षरूपिणीम्)+++ पृथिवी᳓म् अभि᳓तो मयू᳓खैः+++(→कीलैः/ किरणैः)+++ ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/099/03_irAvatI_dhenumatI.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इरा॑वती धेनु॒मती॒ हि भू॒तं सू॑यव॒सिनी॒ मनु॑षे दश॒स्या ।  
-व्य॑स्तभ्ना॒ रोद॑सी विष्णवे॒ते दा॒धर्थ॑ पृथि॒वीम॒भितो॑ म॒यूखैः॑ ॥
 </details>
 
 </div>
@@ -1516,16 +1486,6 @@ ________
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/154/01_viShNornu_kaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-विष्णो॒र्नु कं॑ वी॒र्या॑णि॒ प्र वो॑चं॒ यः पार्थि॑वानि विम॒मे रजां॑सि ।  
-यो अस्क॑भाय॒दुत्त॑रं स॒धस्थं॑ विचक्रमा॒णस्त्रे॒धोरु॑गा॒यः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/01_viShNornu_kaM.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -1932,6 +1892,7 @@ Des Vischnu grosse Thaten will ich preisen, der weit durchmessen hat der Erde R�
 ________
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/13_havirdhAna-maNDapa-nirmANam/viShNo_rarATam.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1946,11 +1907,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णो ररा᳓टम्+++(=ललाटम्)+++ असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1976,8 +1940,11 @@ Thou art the forehead of Visnu.
 
 हविर्धान-मण्डपस्य विष्णु-देवताकत्वाद् विष्णुत्वम्। पूर्व-द्वार-वर्ति-स्तम्भयोर् मध्ये काचिद् दर्भ-माला ग्रथ्यते, तां दर्भ-मालां तद्-बन्धनाधारं तिर्यग-वंशं वा संबोध्य पुरुष-ललाटत्वेनोपचरितुं विष्णो रराटम् असीत्य् उच्यते।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मध्यमं छदिर् अधिनिदधाति।
@@ -1997,11 +1964,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोः पृष्ठ᳓म् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2029,12 +1999,18 @@ Thou art the back of Visnu.
 
 [[P320]]
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पार्श्वयोच् छदिषी+++(=??)+++ निदधाति।
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>सायण-टीका</summary>
 
@@ -2045,11 +2021,14 @@ ________
 इति।
 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोश् श्न᳓प्त्रे+++(=मुखकोणौ)+++ स्थः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2070,8 +2049,11 @@ Ye two are the corners' of Visnu's mouth.
 
 12पार्श्वयोच्छदिषी निदधाति - विष्णोः श्नप्त्रे स्थ इति ॥ श्नप्त्रे शोधके स्थः । सकारस्य शकारापत्तिः । स्नपतिश्छान्दसश्शुद्धिकर्मा, औणादिकष्ट्रन्प्रत्ययः । स्नातेर्वा णिचि पुगादिः ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षिणबाहौ कुशम् उपसङ्गृह्य स्यन्द्यां प्रवर्तयति - विष्णोस्स्यूरिति ॥
@@ -2085,11 +2067,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोस् स्यू᳓र्+++(=सूची)+++ असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2115,17 +2100,23 @@ Thou art the thread of Visnu.
 
 सीव्यते ऽनया रज्ज्व् इति स्यूः। हे बन्धन-हेतो त्वं विष्णु-देवताकस्य रज्जुर् असि। 
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 द्वारग्रन्थिं करोति - विष्णोर्ध्रुवमसीति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोर् ध्रुव᳓म् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2151,16 +2142,22 @@ Thou art the fixed point of Visnu.
 
 हे ग्रन्थि-रूप त्वं विष्णु-संबन्धि दृढम् असि। 
 </details>
+</details>
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 हविर्धान-मण्डपम् अभिमृशति - वैष्णवमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैष्णव᳓म् असि। वि᳓ष्णवे त्वा +++(अभिमृशामि)+++॥ [27]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2188,7 +2185,7 @@ Thou art of Vishu; to Visnu thee!
 
 हे मण्डप त्वं विष्णु-देवताकम् अस्यतो विष्णुप्रीतये त्वां स्पृशामि।
 </details>
-
+</details>
 </div>  
 
 इति द्वितीये प्रपाठके त्रयोदशोनुवाकः

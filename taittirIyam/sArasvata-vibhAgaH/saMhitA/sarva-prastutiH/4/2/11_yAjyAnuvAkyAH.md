@@ -168,18 +168,7 @@ That man hath the best of guardians.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/086/01_maruto_yasya.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-मरु॑तो॒ यस्य॒ हि क्षये॑ पा॒था दि॒वो वि॑महसः ।  
-स सु॑गो॒पात॑मो॒ जनः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/086/01_maruto_yasya.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -194,7 +183,7 @@ That man hath the best of guardians.
 स᳓ सुगोपा᳓तमो ज᳓नः
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 मरु॑तो॒ यस्य॒ हि [46]  क्षये॑ पा॒था दि॒वो वि॑महसः ।  
 स सु॑गो॒पात॑मो॒ जनः॑ ।
@@ -242,7 +231,12 @@ sá ← sá- ~ tá- (pronoun)
 
 sugopā́tamaḥ ← sugopā́tama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मरु॑तो॒ यस्य॒ हि क्षये॑ पा॒था दि॒वो वि॑महसः ।  
+स सु॑गो॒पात॑मो॒ जनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -313,7 +307,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -324,6 +317,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **विमहसः** विशिष्टप्रकाशाः **मरुतः** **दिवः** अन्तरिक्षलोकादागत्य **यस्य** **हि** यस्य खलु यजमानस्य **क्षये** यज्ञगृहे **पाथ** सोमं पिबथ **सः** **जनः** जातो यजमानः **सुगोपातमः** शोभनैः पालकैरत्यन्तं युक्तो भवति ॥ पाथ।  ‘ पा पाने । लटि ‘बहुलं छन्दसि ' इति शपो लुक् । यद्वृत्तयोगादनिघातः । विमहसः । विशिष्टं महस्तेजो येषां ते तथोक्ताः । सुगोपातमः । शोभनो गोपा रक्षको यस्य स सुगोपाः । अतिशयेन सुगोपाः सुगोपातमः । तमपः पित्त्वादनुदात्तत्वे सति बहुव्रीहौ  ‘ नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वमेव शिष्यते ॥
+
 
 _____________
 
@@ -426,7 +420,6 @@ In wessen Haus o Maruts ihr, des Himmels hohe Helden, trinkt, Der Mann geniesst 
 
 भावार्थभाषाः -  जसे प्राणाशिवाय शरीर इत्यादीचे रक्षण होऊ शकत नाही. तसे सत्य उपदेशकाशिवाय प्रजेचे रक्षण होत नाही. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -541,7 +534,6 @@ Thy wrath.
 
 <details><summary>सायण-टीका</summary>
 
-
 - पूर्णमन्त्रपाठः  
 -  [ अव॑ ते॒ हेडो॑ वरुण॒ नमो॑भि॒रव॑ य॒ज्ञेभि॑रीमहे ह॒विर्भिः॑ ।  
 क्षय॑न्न॒स्मभ्य॑मसुर प्रचेतो॒ राज॒न्नेनाँ॑सि शिश्रथᳵ कृ॒तानि॑  ॥
@@ -626,18 +618,7 @@ With what most potent aid [2]?
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/031/01_kayA_nashchitra.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-कया॑ नश्चि॒त्र आ भु॑वदू॒ती स॒दावृ॑धः॒ सखा॑ ।  
-कया॒ शचि॑ष्ठया वृ॒ता ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/031/01_kayA_nashchitra.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -697,7 +678,12 @@ káyā ← ká- (pronoun)
 
 vr̥tā́ ← vŕ̥t- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कया॑ नश्चि॒त्र आ भु॑वदू॒ती स॒दावृ॑धः॒ सखा॑ ।  
+कया॒ शचि॑ष्ठया वृ॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -775,7 +761,6 @@ _________
 - \[noun\], instrumental, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -878,7 +863,6 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 
 भावार्थभाषाः -  हे राजा! आमच्याबरोबर असे वाग की ज्यामुळे आमचे प्रेम वाढावे. ॥ १ ॥ ००
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1159,18 +1143,7 @@ Strong laws dost thou establish.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/064/01_vRShA_soma.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-वृषा॑ सोम द्यु॒माँ अ॑सि॒ वृषा॑ देव॒ वृष॑व्रतः ।  
-वृषा॒ धर्मा॑णि दधिषे ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/064/01_vRShA_soma.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -1185,7 +1158,7 @@ Strong laws dost thou establish.
 वृ᳓षा ध᳓र्माणि दधिषे
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 वृषा॑ सोम द्यु॒माँ अ॑सि॒ वृषा॑ देव॒ वृष॑व्रतः ।  
 वृषा॒ धर्मा॑णि दधिषे ।
@@ -1233,7 +1206,12 @@ dhármāṇi ← dhárman- (nominal stem)
 
 vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॑ सोम द्यु॒माँ अ॑सि॒ वृषा॑ देव॒ वृष॑व्रतः ।  
+वृषा॒ धर्मा॑णि दधिषे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1314,7 +1292,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1325,6 +1302,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **वृषा** वर्षकस्त्वं **द्युमान्** दीप्तिमान् **असि** । अपि च हे **देव** द्योतमान सोम **वृषा** त्वं **वृषव्रतः** वर्षणशीलकर्मासि । किंच हे सोम **वृषा** त्वं **धर्माणि** देवानां मनुष्याणां च हितानि कर्माणि **दधिषे** धारयसि ॥
+
 
 _____________
 
@@ -1350,21 +1328,13 @@ A bull are you, Soma, a brilliant one—a bull following his bullish  commandmen
 As bull, you have established your own foundations.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Oldenberg’s interpr. of vṛ́ṣā in c as a neut. pl. adj. with dhármāṇi seems both unnecessary and unlikely. I know of no other neut. forms of vṛ́ṣan- (the few cited by Oldenberg are not convincing), which suggests to me that, despite its widely accepted classification as an adj., the stem is synchronically a masc. noun, which, however, can be used as an adjunct strengthener of another noun, hence “bull X” as the equivalent of “bullish X” - a usage similar to English ‘horse’ as an augmentative, meaning ‘strong, large, coarse’ (as in, for ex., horseradish). See https://www.etymonline.com/word/horseradish Moreover, since nom. sg.
-
-vṛ́ṣā opens the two previous pādas of this vs., it seems unlikely that a morphologically different, and at the least very rare, phonologically identical form would open the third - esp. since, when a neut. adj. is required in the next vs. (2a), the deriv. vṛ́ṣṇya- is employed.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/01-03.md">
-<details open><summary><h7>01-03 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, this opening tṛca is marked by the identification of Soma and his attributes with a bull (vṛ́ṣan-). This theme is especially dominant in vss. 1 and 2: all three pādas of vs. 1 open vṛ́ṣā, with the bahuvrīhi vṛ́ṣa-vrataḥ ending the first hemistich; vs. 2 is even more insistent, with two forms of the stem (or deriv. vṛ́ṣṇya-) in each of the three pādas. By contrast, vs. 3 only nods at the theme: vṛ́ṣā appears once in 3a, though the final word of the vs., vṛdhi, may be meant to echo the word phonologically.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -1414,7 +1384,6 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 पदार्थान्वयभाषाः -  (सोम) हे परमात्मन् ! त्वं (द्युमानसि) दीप्तिमानसि। तथा (वृषा) समस्ताभीष्टवर्षकोऽसि। तथोपासकानां हृदयानि (वृषा) स्नेहेन सिञ्चसि। (देव) हे दिव्यगुणसम्पन्न ! भवान् (वृषव्रतः) आनन्दवर्षणशीलं ददाति। (वृषा धर्माणि दधिषे) तथा वर्षणशीलधर्मधारकोऽस्ति ॥१॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

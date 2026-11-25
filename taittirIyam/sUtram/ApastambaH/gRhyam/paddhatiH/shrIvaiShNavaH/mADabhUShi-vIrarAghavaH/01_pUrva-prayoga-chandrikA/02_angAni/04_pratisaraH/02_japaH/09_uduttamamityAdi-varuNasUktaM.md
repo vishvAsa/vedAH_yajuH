@@ -38,16 +38,6 @@ title = "०९ 'उदुत्तम'मित्यादि-वरुणस�
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/024/15_uduttamaM_varuNa.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उदु॑त्त॒मं व॑रुण॒ पाश॑म॒स्मदवा॑ध॒मं वि म॑ध्य॒मं श्र॑थाय ।  
-अथा॑ व॒यमा॑दित्य व्र॒ते तवाना॑गसो॒ अदि॑तये स्याम ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/024/15_uduttamaM_varuNa.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -486,16 +476,6 @@ All these are Varuna's ordinances.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/089/05_yatkiM_chedaM.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-यत्किं चे॒दं व॑रुण॒ दैव्ये॒ जने॑ऽभिद्रो॒हं म॑नु॒ष्या॒३॒॑श्चरा॑मसि ।  
-अचि॑त्ती॒ यत्तव॒ धर्मा॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो देव रीरिषः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/089/05_yatkiM_chedaM.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -824,16 +804,6 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 स᳓र्वा ता᳓ वि᳓ष्य+++(=विनाशय)+++ शिथिरे᳓व+++(=शिथिला +इव)+++  
 देवा᳓था ते स्याम वरुण प्रिया᳓सः ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/085/08_kitavAso_yadriripurna.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-कि॒त॒वासो॒ यद्रि॑रि॒पुर्न दी॒वि यद्वा॑ घा स॒त्यमु॒त यन्न वि॒द्म ।  
-सर्वा॒ ता वि ष्य॑ शिथि॒रेव॑ दे॒वाधा॑ ते स्याम वरुण प्रि॒यासः॑ ॥
 </details>
 
 </div>
@@ -1262,16 +1232,6 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/024/14_ava_te.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-अव॑ ते॒ हेळो॑ वरुण॒ नमो॑भि॒रव॑ य॒ज्ञेभि॑रीमहे ह॒विर्भिः॑ ।  
-क्षय॑न्न॒स्मभ्य॑मसुर प्रचेता॒ राज॒न्नेनां॑सि शिश्रथः कृ॒तानि॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/024/14_ava_te.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -1614,16 +1574,6 @@ O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspen
 अ᳓हेळमानो +++(=अक्रुध्यन्)+++ वरुणेह᳓ **बोध्य्** उ᳓रुशंस  
 मा᳓ न आ᳓युः **प्र᳓ मोषीः** ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/024/11_tattvA_yAmi.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-तत्त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्तदा शा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
-अहे॑ळमानो वरुणे॒ह बो॒ध्युरु॑शंस॒ मा न॒ आयुः॒ प्र मो॑षीः ॥
 </details>
 
 </div>

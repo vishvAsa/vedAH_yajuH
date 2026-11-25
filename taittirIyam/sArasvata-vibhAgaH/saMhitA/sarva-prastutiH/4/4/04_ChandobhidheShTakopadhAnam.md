@@ -38,18 +38,7 @@ title = "०४ छन्दोभिधेेष्टकोपधानम्"
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/044/16_agnirmUrdhA_divaH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अ॒ग्निर्मू॒र्धा दि॒वः क॒कुत्पतिः॑ पृथि॒व्या अ॒यम् ।  
-अ॒पां रेतां॑सि जिन्वति ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/044/16_agnirmUrdhA_divaH.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -64,7 +53,7 @@ title = "०४ छन्दोभिधेेष्टकोपधानम्"
 अपां᳓ रे᳓तांसि जिन्वति
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अ॒ग्निर्मू॒र्धा दि॒वᳵ क॒कुत् ।  
 पति॑ᳶ पृथि॒व्या अ॒यम् ।  
@@ -113,7 +102,12 @@ jinvati ← √ji- 2 ~ jinv- (root)
 
 rétāṁsi ← rétas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्मू॒र्धा दि॒वः क॒कुत्पतिः॑ पृथि॒व्या अ॒यम् ।  
+अ॒पां रेतां॑सि जिन्वति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +179,6 @@ _________
 - “enliven; animate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -283,7 +276,6 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 
 पदार्थान्वयभाषाः -  स्वध्वरे=अन्यैरत्यन्तमहिंस्ये हिंसारहिते वा। अस्मिन् यज्ञे=ध्यानयज्ञे। अग्निं=सर्वाधारमीशमाहुवे=आह्वयामि स्तौमि। कीदृशम्। ऊर्जः=बलस्य। नपातं न पातयतीति नपातः। किन्तु बलस्य वर्धकमेव। पुनः। पावकशोचिषम्=पवित्रतेजस्कम् ॥१३॥
 </details>
-
 </div>  
 
 _______
@@ -1016,18 +1008,7 @@ Do thou bear food to thy praisers.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/006/09_ubhe_sushchandra.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उ॒भे सु॑श्चन्द्र स॒र्पिषो॒ दर्वी॑ श्रीणीष आ॒सनि॑ ।  
-उ॒तो न॒ उत्पु॑पूर्या उ॒क्थेषु॑ शवसस्पत॒ इषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/006/09_ubhe_sushchandra.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -1044,7 +1025,7 @@ Do thou bear food to thy praisers.
 इ᳓षं स्तोतृ᳓भ्य आ᳓ भर
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 उ॒भे सु॑श्चन्द्र स॒र्पिषो॒ दर्वी॑ श्रीणीष आ॒सनि॑ ।  
 उ॒तो न॒ उत्पु॑पूर्या उ॒क्थेषु॑ शवसस्पत॒ इषँ॑ स्तो॒तृभ्य॒ आ भ॑र ।
@@ -1118,7 +1099,12 @@ bhara ← √bhr̥- (root)
 
 stotŕ̥bhyaḥ ← stotár- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भे सु॑श्चन्द्र स॒र्पिषो॒ दर्वी॑ श्रीणीष आ॒सनि॑ ।  
+उ॒तो न॒ उत्पु॑पूर्या उ॒क्थेषु॑ शवसस्पत॒ इषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1245,7 +1231,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1372,7 +1357,6 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 
 भावार्थभाषाः -  जो राजा सेनेची भोजन व्यवस्था व उत्तम आरोग्य यासाठी वैद्य बाळगतो, तोच प्रशंसित होऊन राज्य वाढवितो. ॥ ९ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

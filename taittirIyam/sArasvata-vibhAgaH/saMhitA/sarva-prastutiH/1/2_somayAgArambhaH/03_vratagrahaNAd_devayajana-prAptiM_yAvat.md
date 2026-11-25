@@ -345,18 +345,7 @@ ________
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/011/01_tvamagne_vratapA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-त्वम॑ग्ने व्रत॒पा अ॑सि दे॒व आ मर्त्ये॒ष्वा ।  
-त्वं य॒ज्ञेष्वीड्यः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/011/01_tvamagne_vratapA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -416,7 +405,12 @@ tvám ← tvám (pronoun)
 
 yajñéṣu ← yajñá- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने व्रत॒पा अ॑सि दे॒व आ मर्त्ये॒ष्वा ।  
+त्वं य॒ज्ञेष्वीड्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -425,10 +419,10 @@ yajñéṣu ← yajñá- (nominal stem)
 त्वम् । य॒ज्ञेषु॑ । ईड्यः॑ ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 त्वम् । अ॒ग्ने॒ । व्र॒त॒पा इति॑ व्रत-पाः । अ॒सि॒ । दे॒वः । एति॑ । मर्त्ये॑षु । आ ॥    
-त्वम् । [6]  य॒ज्ञेषु॑ । ईड्यः॑ ॥ 
+त्वम् । [6]  य॒ज्ञेषु॑ । ईड्यः॑ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -509,7 +503,6 @@ _________
 - “praise; invite; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -633,7 +626,6 @@ Du Agni bist des Opfers Hort, ein Gott du unter Sterblichen, Und bei den Opfern 
 
 पदार्थान्वयभाषाः -  (अग्ने) हे परमात्मन् ! (देवः, त्वम्) द्योतमानस्त्वम् (मर्त्येषु, आ) सर्वमर्त्येषु (व्रतपाः, असि) कर्मरक्षकोऽसि अतः (त्वम्, आ) त्वं समन्तात् आदौ (यज्ञेषु, ईड्यः) यज्ञेषु स्तुत्यो भवसि ॥१॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>

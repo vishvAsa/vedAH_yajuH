@@ -200,7 +200,6 @@ Thou art good, the best of rays,
 
 <details><summary>सायण-टीका</summary>
 
-
 हे आदित्य त्वं सुभूरसि सुष्ठु भवत्युदेतीति सुभूः। रश्‍मीनां रश्‍मियुक्तानां चन्द्रादीनां मध्ये श्रेष्ठोऽसि। 
 </details>
 </details>
@@ -332,7 +331,6 @@ Here do I exclude my enemy, N. N., from these quarters, this sky, this atmospher
 
 <details><summary>सायण-टीका</summary>
 
-
 यो भ्रातृव्यो मदीयो वैरी पृथिव्यादिलोकत्रये प्राच्यादिदिक्षु मम विरोधमाचरति मदीयमन्नाद्यं चापजिहीर्षति अमुं भ्रातृव्यं ततः पृथिव्यादेरिदं निर्भजामि शीघ्रमेव निःसारयामि। 
 </details>
 </details>
@@ -346,11 +344,12 @@ Here do I exclude my enemy, N. N., from these quarters, this sky, this atmospher
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓र्भक्तस् स᳓ य᳓न् द्विष्मः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -383,7 +382,7 @@ excluded is he whom we hate.
 
 यमभिमातिं वयं द्विष्मः सोऽभिमातिर्निर्भक्तोऽ-स्मात्प्रदेशान्निःसारितः। एवमुत्तरत्र योज्यम्। अभिशस्तिरन्यैरापादितोऽ-पवादः। रातिर्दानं द्रव्यलाभः। तन्निवारणमरातिस्तदिच्छन्तो विरोधिनोऽ-रातीयतः(न्त)। तृतीयप्रक्रमस्तान्हन्ति।
 </details>
-
+</details>
 </div>
 _______
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -489,11 +488,12 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/samaham_prajayA.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓म् अह᳓म् प्रज᳓या  +++(भूयासम्)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -524,11 +524,14 @@ ___________
 समहमिति। कल्पः - ‘अथोदङ्पर्यावर्तते समहं प्रजया सं मया प्रजा समहँ रायस्पोषेण सं मया रायस्पोष इति’ इति’ इति।  
 अहं प्रजया संगतो भूयासम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓म् म᳓या प्रजा᳓  +++(भूयात्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -556,11 +559,14 @@ __________
 
 प्रजाऽपि मया संगता भूयात्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓महँ᳓ राय᳓स्पो᳓षेण  +++(भूयासम्)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -588,11 +594,14 @@ _______________
 
 रायस्पोषेऽप्येवं योज्यम्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓म्म᳓या राय᳓स्पो᳓षः   +++(भूयात्)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -615,7 +624,7 @@ increase of wealth with me.
 _____________
 रायश्च पोषश्च मया सङ्गच्छताम् । रायो विभक्त्युदात्तत्वं सत्वं चोक्तम् ॥
 </details>
-
+</details>
 </div>  
 
 _______
@@ -655,7 +664,6 @@ Kindled, O Agni, shine for me;
 </details>
 
 <details><summary>सायण-टीका</summary>
-
 
 अत्र समित्प्रक्षेपाय स्वाहेति शब्दोऽध्याहृतः। 
 </details>
@@ -758,16 +766,6 @@ _______
 आ᳓ **सुवो᳓र्जम्** इ᳓षं च नः ।  
 आरे᳓+++(=दूरे)+++ **बाधस्व** दुच्छु᳓नाम्+++(=रक्षसाम्)+++ ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/066/19_agna_AyUMShi.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अग्न॒ आयूं॑षि पवस॒ आ सु॒वोर्ज॒मिषं॑ च नः ।  
-आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥
 </details>
 
 </div>
@@ -1031,13 +1029,6 @@ Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse w
 </details>
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/066/19_agna_AyUMShi.md">
-
-अग्न॒ आयूं॑षि पवस॒ आ सु॒वोर्ज॒मिषं॑ च नः ।  
-आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥
-
-</div>
-
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/21_agne_pavasva.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -1046,16 +1037,6 @@ Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse w
 अस्मे᳓ व᳓र्चः सुवी᳓र्यम् ।  
 **द᳓धद्** रयिं᳓ म᳓यि पो᳓षम् ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/066/21_agne_pavasva.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अग्ने॒ पव॑स्व॒ स्वपा॑ अ॒स्मे वर्चः॑ सु॒वीर्य॑म् ।  
-दध॑द्र॒यिं मयि॒ पोष॑म् ॥
 </details>
 
 </div>

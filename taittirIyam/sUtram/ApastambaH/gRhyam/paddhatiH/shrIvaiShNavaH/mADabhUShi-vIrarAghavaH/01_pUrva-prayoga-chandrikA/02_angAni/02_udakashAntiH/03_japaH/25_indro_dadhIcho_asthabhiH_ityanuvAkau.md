@@ -32,16 +32,6 @@ title = "२५ 'इन्द्रो दधीचो अस्थभिः'"
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/13_indro_dadhIcho.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्रो॑ दधी॒चो अ॒स्थभि॑र्वृ॒त्राण्यप्र॑तिष्कुतः ।  
-ज॒घान॑ नव॒तीर्नव॑ ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/13_indro_dadhIcho.md">
 
 <details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
@@ -278,16 +268,6 @@ Mit Dadhiank's Gebeinen schlug, Indra, dem niemand widersteht, Die neunundneunzi
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/13_indro_dadhIcho.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-इन्द्रो॑ दधी॒चो अ॒स्थभि॑र्वृ॒त्राण्यप्र॑तिष्कुतः ।  
-ज॒घान॑ नव॒तीर्नव॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/14_ichChannashvasya_yachChiraH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -298,16 +278,6 @@ Mit Dadhiank's Gebeinen schlug, Indra, dem niemand widersteht, Die neunundneunzi
 
 ![](/jyotiSham/astrophysics/history/images/zodiac_history/bce-3000-01-13_rohiNI_jyeShThA_equinox_shatabhiShak_pUrva_phAlgunI_solstice.png)
 {caption="" class="thumbnail"}
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/14_ichChannashvasya_yachChiraH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इ॒च्छन्नश्व॑स्य॒ यच्छिरः॒ पर्व॑ते॒ष्वप॑श्रितम् ।  
-तद्वि॑दच्छर्य॒णाव॑ति ॥
 </details>
 
 </div>
@@ -548,16 +518,6 @@ Verlangend nach des Rosses Haupt, das in den Bergen sich versteckt, Fand er's am
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/14_ichChannashvasya_yachChiraH.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-इ॒च्छन्नश्व॑स्य॒ यच्छिरः॒ पर्व॑ते॒ष्वप॑श्रितम् ।  
-तद्वि॑दच्छर्य॒णाव॑ति ॥
-</details>
-
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/15_atrAha_goramanvata.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -566,16 +526,6 @@ Verlangend nach des Rosses Haupt, das in den Bergen sich versteckt, Fand er's am
 ना᳓म त्व᳓ष्टुर्+++(=दीप्तस्यादित्यस्य उत्तरायणारम्भे)+++ **अपीच्य᳙म्**+++(=अपचितम्, अन्तर्हितम् [रात्रौ])+++ ।
 इत्था᳓+++(=इत्थं)+++ चन्द्र᳓मसो गृहे᳓ +++(=अमावास्यायाम्, फाल्गुनीषु पौर्णमास्यां वा)+++॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/15_atrAha_goramanvata.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अत्राह॒ गोर॑मन्वत॒ नाम॒ त्वष्टु॑रपी॒च्य॑म् ।  
-इ॒त्था च॒न्द्रम॑सो गृ॒हे ॥
 </details>
 
 </div>
@@ -884,16 +834,6 @@ Dort fanden sie das Wesen auf des Stiers, den Tvaschtar hielt versteckt. Dort en
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/15_atrAha_goramanvata.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-अत्राह॒ गोर॑मन्वत॒ नाम॒ त्वष्टु॑रपी॒च्य॑म् ।  
-इ॒त्था च॒न्द्रम॑सो गृ॒हे ॥
-</details>
-
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -902,16 +842,6 @@ Dort fanden sie das Wesen auf des Stiers, den Tvaschtar hielt versteckt. Dort en
 इ᳓न्द्रम् अर्के᳓भिर्+++(←अर्च्, ऋक्)+++ अर्कि᳓णः ।  
 इ᳓न्द्रं वा᳓णीर्+++(→यजूंषि)+++ **अनूषत**+++(←णु स्तुतौ)+++ ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्र॒मिद्गा॒थिनो॑ बृ॒हदिन्द्र॑म॒र्केभि॑र॒र्किणः॑ ।  
-इन्द्रं॒ वाणी॑रनूषत ॥
 </details>
 
 </div>
@@ -1221,16 +1151,6 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-इन्द्र॒मिद्गा॒थिनो॑ बृ॒हदिन्द्र॑म॒र्केभि॑र॒र्किणः॑ ।  
-इन्द्रं॒ वाणी॑रनूषत ॥
-</details>
-
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/02_indra_iddharyoH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -1239,16 +1159,6 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 **स᳓म्मिश्ल** आ᳓ वचो **यु᳓जा** ।  
 इ᳓न्द्रो वज्री᳓ हिरण्य᳓यः ॥+++(5)+++
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/02_indra_iddharyoH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्र॒ इद्धर्योः॒ सचा॒ सम्मि॑श्ल॒ आ व॑चो॒युजा॑ ।  
-इन्द्रो॑ व॒ज्री हि॑र॒ण्ययः॑ ॥
 </details>
 
 </div>
@@ -1516,16 +1426,6 @@ Indra mit seiner Füchse Paar, dem Wagen, der aufs Wort sich schirrt, der goldne
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/02_indra_iddharyoH.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-इन्द्र॒ इद्धर्योः॒ सचा॒ सम्मि॑श्ल॒ आ व॑चो॒युजा॑ ।  
-इन्द्रो॑ व॒ज्री हि॑र॒ण्ययः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/03_indro_dIrghAya.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -1534,16 +1434,6 @@ Indra mit seiner Füchse Paar, dem Wagen, der aufs Wort sich schirrt, der goldne
 आ᳓ सू᳓र्यं **रोहयद्** दिवि᳓ ।  
 वि᳓ गो᳓भिर् अ᳓द्रिम् **ऐरयत्** ॥+++(5)+++
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/03_indro_dIrghAya.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्रो॑ दी॒र्घाय॒ चक्ष॑स॒ आ सूर्यं॑ रोहयद्दि॒वि ।  
-वि गोभि॒रद्रि॑मैरयत् ॥
 </details>
 
 </div>
@@ -1811,16 +1701,6 @@ Die Sonne liess er, weit zu schaun, am Himmel steigen, er zerschlug Den Fels und
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/03_indro_dIrghAya.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-इन्द्रो॑ दी॒र्घाय॒ चक्ष॑स॒ आ सूर्यं॑ रोहयद्दि॒वि ।  
-वि गोभि॒रद्रि॑मैरयत् ॥
-</details>
-
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/04_indra_vAjeShu.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -1829,16 +1709,6 @@ Die Sonne liess er, weit zu schaun, am Himmel steigen, er zerschlug Den Fels und
 सह᳓स्र--प्र-धनेषु च ।  
 उग्र᳓ उग्रा᳓भिर् ऊति᳓भिः ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/04_indra_vAjeShu.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्र॒ वाजे॑षु नोऽव स॒हस्र॑प्रधनेषु च ।  
-उ॒ग्र उ॒ग्राभि॑रू॒तिभिः॑ ॥
 </details>
 
 </div>
@@ -2081,16 +1951,6 @@ Hilf in den Schlachten, Indra, uns, im Kampf, der tausend Schätze bringt, Mit m
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/04_indra_vAjeShu.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-इन्द्र॒ वाजे॑षु नोऽव स॒हस्र॑प्रधनेषु च ।  
-उ॒ग्र उ॒ग्राभि॑रू॒तिभिः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/093/07_tamindraM_vAjayAmasi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -2098,16 +1958,6 @@ Hilf in den Schlachten, Indra, uns, im Kampf, der tausend Schätze bringt, Mit m
 त᳓म् इ᳓न्द्रं वाजयामसि  
 महे᳓ वृत्रा᳓य ह᳓न्तवे  
 स᳓ वृ᳓षा वृषभो᳓ भुवत्
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/093/07_tamindraM_vAjayAmasi.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-तमिन्द्रं॑ वाजयामसि म॒हे वृ॒त्राय॒ हन्त॑वे ।  
-स वृषा॑ वृष॒भो भु॑वत् ॥
 </details>
 
 </div>
@@ -2309,16 +2159,6 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 - गायत्री
 - षड्जः
 </details>
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/093/07_tamindraM_vAjayAmasi.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-तमिन्द्रं॑ वाजयामसि म॒हे वृ॒त्राय॒ हन्त॑वे ।  
-स वृषा॑ वृष॒भो भु॑वत् ॥
 </details>
 
 </div>

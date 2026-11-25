@@ -417,18 +417,7 @@ And grant us protection in abundance.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/033/11_stuhi_shrutaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-स्तु॒हि श्रु॒तं ग॑र्त॒सदं॒ युवा॑नं मृ॒गं न भी॒ममु॑पह॒त्नुमु॒ग्रम् ।  
-मृ॒ळा ज॑रि॒त्रे रु॑द्र॒ स्तवा॑नो॒ऽन्यं ते॑ अ॒स्मन्नि व॑पन्तु॒ सेनाः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/033/11_stuhi_shrutaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -514,7 +503,12 @@ te ← tvám (pronoun)
 
 vapantu ← √vap- 2 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तु॒हि श्रु॒तं ग॑र्त॒सदं॒ युवा॑नं मृ॒गं न भी॒ममु॑पह॒त्नुमु॒ग्रम् ।  
+मृ॒ळा ज॑रि॒त्रे रु॑द्र॒ स्तवा॑नो॒ऽन्यं ते॑ अ॒स्मन्नि व॑पन्तु॒ सेनाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -645,7 +639,6 @@ _________
 - “army; senā \[word\]; armament.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -765,7 +758,6 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जे राज्य वाढविण्याची इच्छा करतात त्यांनी शत्रूंबरोबर सिंहासारखे भयंकर रीतीने वागावे व श्रेष्ठांना आनंद देणाऱ्या लोकांचा राजकार्यात व सेनेमध्ये सत्कार करावा व न्यायाने निरंतर राज्याचे पालन करावे. ॥ ११ ॥
 </details>
-
 </div>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/09_pari_No.md">

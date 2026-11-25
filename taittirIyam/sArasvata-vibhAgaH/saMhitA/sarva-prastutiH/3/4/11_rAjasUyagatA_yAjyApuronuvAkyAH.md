@@ -285,18 +285,7 @@ To our offspring, Rudra's grace.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/043/02_yathA_no.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-यथा॑ नो॒ अदि॑तिः॒ कर॒त्पश्वे॒ नृभ्यो॒ यथा॒ गवे॑ ।  
-यथा॑ तो॒काय॑ रु॒द्रिय॑म् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/043/02_yathA_no.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -311,7 +300,7 @@ To our offspring, Rudra's grace.
 य᳓था तोका᳓य रुद्रि᳓यम्
 </details>
 
-<details><summary>तैत्तिरीय-पाठः</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 यथा॑ नो॒ अदि॑ति॒ᳵ कर॒त्पश्वे॒ नृभ्यो॒ यथा॒ गवे॑ ।   
 यथा॑ तो॒काय॑ रु॒द्रिय॑म्
@@ -362,7 +351,12 @@ tokā́ya ← toká- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॑ नो॒ अदि॑तिः॒ कर॒त्पश्वे॒ नृभ्यो॒ यथा॒ गवे॑ ।  
+यथा॑ तो॒काय॑ रु॒द्रिय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -446,7 +440,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -553,7 +546,6 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जसे माता-पिता पुत्रासाठी, गोपाल पशूंसाठी व राजसभा प्रजेसाठी सुखकारक असतात. तसेच परमेश्वर व वायूही सुखकारक असतात, हे जाणावे. ॥ २ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -988,18 +980,7 @@ Affliction cometh to him neither from near nor from afar.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/059/02_pra_sa.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-प्र स मि॑त्र॒ मर्तो॑ अस्तु॒ प्रय॑स्वा॒न्यस्त॑ आदित्य॒ शिक्ष॑ति व्र॒तेन॑ ।  
-न ह॑न्यते॒ न जी॑यते॒ त्वोतो॒ नैन॒मंहो॑ अश्नो॒त्यन्ति॑तो॒ न दू॒रात् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/059/02_pra_sa.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रः
@@ -1007,7 +988,7 @@ Affliction cometh to him neither from near nor from afar.
 - छन्दः - त्रिष्टुप्
 </details>
 
-<details><summary>तैत्तिरीय-पाठः</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 प्र स मि॑त्र॒ मर्तो॑ अस्तु॒ प्रय॑स्वा॒न्यस्त॑ आदित्य॒ शिक्ष॑ति व्र॒तेन॑ ।   
 न ह॑न्यते॒ न जी॑यते॒ त्वोतो॒ नैन॒मँहो॑ अश्ञो॒त्यन्ति॑तो॒ न दू॒रात् ।
@@ -1103,7 +1084,12 @@ ná ← ná (invariable)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र स मि॑त्र॒ मर्तो॑ अस्तु॒ प्रय॑स्वा॒न्यस्त॑ आदित्य॒ शिक्ष॑ति व्र॒तेन॑ ।  
+न ह॑न्यते॒ न जी॑यते॒ त्वोतो॒ नैन॒मंहो॑ अश्नो॒त्यन्ति॑तो॒ न दू॒रात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1257,7 +1243,6 @@ _________
 - “far.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -1361,7 +1346,6 @@ Der Mensch, o Mitra, sei vor allen glücklich, der dir, Aditja, dient nach deine
 
 भावार्थभाषाः -  जी माणसे विद्वान व ईश्वर यांच्या गुण, कर्म, स्वभावाप्रमाणे आपले गुण कर्म स्वभाव बनवून सत्य न्यायपूर्वक सर्वांना शिक्षण देतात ते निष्पाप धर्मात्मा बनून विद्वानांकडून व ईश्वराकडून रक्षित असतात. त्यांचा दुष्टांकडून नाश व पराजय होऊ शकत नाही. पक्षपात करून ते पापाचे सेवन करू शकत नाहीत. ॥ २ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1394,18 +1378,7 @@ Day by day we transgress.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/025/01_yachchiddhi_te.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-यच्चि॒द्धि ते॒ विशो॑ यथा॒ प्र दे॑व वरुण व्र॒तम् ।  
-मि॒नी॒मसि॒ द्यवि॑द्यवि ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/025/01_yachchiddhi_te.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -1468,7 +1441,12 @@ dyávi-dyavi ← dyú- ~ div- (nominal stem)
 
 minīmási ← √mī- 1 (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यच्चि॒द्धि ते॒ विशो॑ यथा॒ प्र दे॑व वरुण व्र॒तम् ।  
+मि॒नी॒मसि॒ द्यवि॑द्यवि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1559,7 +1537,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1665,7 +1642,6 @@ Wie sehr wir auch, o Varuna, verletzen dein Gebot, o Gott, Nach Menschen Weise T
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जसा पिता, विद्वान व राजा क्षुद्र बालबुद्धीच्या उन्मत्त माणसांना व संतानांना न्याययुक्त दंड देतात, जसे तुम्ही सतत आमच्यावर करुणा दर्शवून यथायोग्य न्याय व शिक्षण देता. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1700,18 +1676,7 @@ For that sin, O god, harm us not.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/089/05_yatkiM_chedaM.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-यत्किं चे॒दं व॑रुण॒ दैव्ये॒ जने॑ऽभिद्रो॒हं म॑नु॒ष्या॒३॒॑श्चरा॑मसि ।  
-अचि॑त्ती॒ यत्तव॒ धर्मा॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो देव रीरिषः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/089/05_yatkiM_chedaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -1803,7 +1768,12 @@ rīriṣaḥ ← √riṣ- (root)
 
 tásmāt ← sá- ~ tá- (pronoun)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्किं चे॒दं व॑रुण॒ दैव्ये॒ जने॑ऽभिद्रो॒हं म॑नु॒ष्या॒३॒॑श्चरा॑मसि ।  
+अचि॑त्ती॒ यत्तव॒ धर्मा॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो देव रीरिषः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1945,7 +1915,6 @@ _________
 - “suffer; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2024,7 +1993,6 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 
 पदार्थान्वयभाषाः -  (वरुण) हे परमात्मन् ! (दैव्ये, जने) सतां समुदाये (यत्, किञ्च) यत् किञ्चिदपि (इदम्) एतत् (अभि, द्रोहम्) द्वेषभावं (मनुष्याः) वयं नरः (चरामसि) कुर्मः, तथा (अचित्ती) ज्ञानरहितः सन् (यत्) यत्किञ्चित् (तव) ते (धर्मा) धर्मं (युयोपिम) त्यजामि (तस्मात्, एनसः) ततोऽपराधात् (देव) हे दिव्यात्मन् ! (नः) अस्मान् (मा, रीरिषः) मा हिंसीः ॥५॥ एकोननवतितमं सूक्तं पञ्चमोऽनुवाक एकादशो वर्गश्च समाप्तः।
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2059,18 +2027,7 @@ And may we be dear to thee, O Varuna.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/085/08_kitavAso_yadriripurna.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-कि॒त॒वासो॒ यद्रि॑रि॒पुर्न दी॒वि यद्वा॑ घा स॒त्यमु॒त यन्न वि॒द्म ।  
-सर्वा॒ ता वि ष्य॑ शिथि॒रेव॑ दे॒वाधा॑ ते स्याम वरुण प्रि॒यासः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/085/08_kitavAso_yadriripurna.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -2174,7 +2131,12 @@ te ← tvám (pronoun)
 
 varuṇa ← váruṇa- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कि॒त॒वासो॒ यद्रि॑रि॒पुर्न दी॒वि यद्वा॑ घा स॒त्यमु॒त यन्न वि॒द्म ।  
+सर्वा॒ ता वि ष्य॑ शिथि॒रेव॑ दे॒वाधा॑ ते स्याम वरुण प्रि॒यासः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2341,7 +2303,6 @@ _________
     good; liked; suitable; proper.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2454,5 +2415,4 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 
 भावार्थभाषाः -  हे माणसांनो! छळ कपट करणाऱ्या माणसांनी द्युत वगैरे कर्म केल्यास ती ताडना करण्यायोग्य असतात व जी सत्याचरण करतात ती सत्कार करण्यायोग्य असतात. ॥ ८ ॥
 </details>
-
 </div>

@@ -116,10 +116,12 @@ ________
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -127,6 +129,8 @@ ________
 उ॒र्व् अ᳙न्तरि॑क्ष॒म् अन्वि॑हि ।  
 +++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -162,7 +166,7 @@ Fare along the wide atmosphere.
 
 इति।
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -183,6 +187,7 @@ ________
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -196,11 +201,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दित्यास् स᳓दोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -231,7 +239,7 @@ Thou art the seat of Aditi.
 
 आपस्तम्बो द्वितीय-तृतीय-मन्त्राव् एकी-चकार। हे कृष्णाजिन, त्वम् अदित्या भूमेः सदः स्थानम् असि। 
 </details>
-
+</details>
 </div>  
 
 ________
@@ -244,6 +252,7 @@ ________
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -259,11 +268,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दित्यास् स᳓द आ᳓सी᳓द᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -284,14 +296,17 @@ Sit on the seat of Aditi.
 
 4तस्मिन्सोमं निदधाति - अदित्या इति ॥ अदित्यास्सदः सदन स्थानीयमेतत् कृष्णाजिनमासीद उपविश अस्मिन् ॥
 </details>
+</details>
 
 7कृष्णाजिने राजानमासादयति - अदित्या इति ॥ अदित्यास्सदोभूतमेतत्कृष्णाजिनं हे सोम आसीद अधितिष्ठ । प्रागेव व्याख्यातमिदं मन्त्रद्वयम् ॥
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>सायण-टीका</summary>
 
 हे सोम, तस्याः सदः प्राप्नुहि। 
 </details>
-
+</details>
 </div>  
 
 ________
@@ -492,16 +507,6 @@ ________
 देवं᳓ **वहन्ति केत᳓वः**+++(→रश्मयः)+++ ।  
 दृशे᳓ वि᳓श्वाय सू᳓र्यम् ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/050/01_udu_tyaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उदु॒ त्यं जा॒तवे॑दसं दे॒वं व॑हन्ति के॒तवः॑ ।  
-दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
 </details>
 
 </div>
@@ -898,11 +903,12 @@ ________
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणस्य +++(सोमस्य च)+++ स्क᳓म्भनम्+++(=धारयिता)+++ असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -928,7 +934,7 @@ Thou art the pillar of Varuna.
 
 शाखान्तरानुसारेण 'वारुणम् असीत्य्' उक्तम्। एतच्-छाखानुसारेण 'वरुणस्य स्कम्भ-सर्जनम् असीति' द्रष्टव्यम्। युग-च्छिद्रे प्रक्षेप्यः शङ्कुः शम्या। हे शम्ये, त्वं वरुणस्योक्ष्णो निवारणीयस्य बलीवर्दस्य स्कम्भनं। निवारणं कुर्वत्य् असि। 
 </details>
-
+</details>
 </div>
 
 ________
@@ -941,11 +947,12 @@ ________
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणस्य +++(सोमस्य च)+++ स्क᳓म्भनम्+++(=धारयिता)+++ असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -971,7 +978,7 @@ Thou art the pillar of Varuna.
 
 शाखान्तरानुसारेण 'वारुणम् असीत्य्' उक्तम्। एतच्-छाखानुसारेण 'वरुणस्य स्कम्भ-सर्जनम् असीति' द्रष्टव्यम्। युग-च्छिद्रे प्रक्षेप्यः शङ्कुः शम्या। हे शम्ये, त्वं वरुणस्योक्ष्णो निवारणीयस्य बलीवर्दस्य स्कम्भनं। निवारणं कुर्वत्य् असि। 
 </details>
-
+</details>
 </div>
 
 ________

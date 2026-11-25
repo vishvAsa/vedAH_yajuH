@@ -29,16 +29,6 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/071/03_adabdhebhiH_savitaH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अद॑ब्धेभिः सवितः पा॒युभि॒ष्ट्वं शि॒वेभि॑र॒द्य परि॑ पाहि नो॒ गय॑म् ।  
-हिर॑ण्यजिह्वः सुवि॒ताय॒ नव्य॑से॒ रक्षा॒ माकि॑र्नो अ॒घशं॑स ईशत ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/071/03_adabdhebhiH_savitaH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -402,8 +392,8 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/23_sAvitragrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -434,12 +424,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓य त्वा सवित्रे᳓ ॥ [24]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -455,7 +448,7 @@ to the god Savitr thee!
 
 दे॒वाय॑ । त्वा॒ । स॒वि॒त्रे ॥
 </details>
-
+</details>
 </div>
 </details>
 </div>

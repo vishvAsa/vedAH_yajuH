@@ -861,18 +861,7 @@ O All-gods [3], do ye sit with the sacrificer.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/001/03_preddho_agne.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-प्रेद्धो॑ अग्ने दीदिहि पु॒रो नोऽज॑स्रया सू॒र्म्या॑ यविष्ठ ।  
-त्वां शश्व॑न्त॒ उप॑ यन्ति॒ वाजाः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/001/03_preddho_agne.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -944,7 +933,12 @@ vā́jāḥ ← vā́ja- (nominal stem)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रेद्धो॑ अग्ने दीदिहि पु॒रो नोऽज॑स्रया सू॒र्म्या॑ यविष्ठ ।  
+त्वां शश्व॑न्त॒ उप॑ यन्ति॒ वाजाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1033,7 +1027,6 @@ _________
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1148,7 +1141,6 @@ Entflammt, o Agni, strahle uns vor Augen mit deinem Licht, das nie verlischt, o 
 
 भावार्थभाषाः -  हे विद्वानांनो ! जो अग्नी अनादी स्वरूपाने प्रकृतीच्या अवयवात विद्युतरूपाने व्याप्त आहे, ज्याच्या विद्येमुळे पुष्कळ व्यवहार सिद्ध होतात त्याला निरंतर प्रकाशित करून धनधान्य इत्यादी ऐश्वर्य प्राप्त करा. ॥ ३ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1173,18 +1165,7 @@ Entflammt, o Agni, strahle uns vor Augen mit deinem Licht, das nie verlischt, o 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/009/03_vidhema_te.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-वि॒धेम॑ ते पर॒मे जन्म॑न्नग्ने वि॒धेम॒ स्तोमै॒रव॑रे स॒धस्थे॑ ।  
-यस्मा॒द्योने॑रु॒दारि॑था॒ यजे॒ तं प्र त्वे ह॒वींषि॑ जुहुरे॒ समि॑द्धे ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/009/03_vidhema_te.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -1270,7 +1251,12 @@ sámiddhe ← √idh- 1 (root)
 
 tvé ← tvám (pronoun)  
 {case:LOC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒धेम॑ ते पर॒मे जन्म॑न्नग्ने वि॒धेम॒ स्तोमै॒रव॑रे स॒धस्थे॑ ।  
+यस्मा॒द्योने॑रु॒दारि॑था॒ यजे॒ तं प्र त्वे ह॒वींषि॑ जुहुरे॒ समि॑द्धे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1402,7 +1388,6 @@ _________
 - “kindle; blaze.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1446,7 +1431,6 @@ I Let us pay homage to thee in thy highest birth, O Agni;
 Let us pay homage with praises in thy lower abode;  
 The place of birth whence thou didst come, to that I offer;  
 In thee when kindled they offered the oblations.
-
 </details>
 
 <details><summary>Griffith</summary>
@@ -1525,7 +1509,6 @@ Wir huld'gen, Agni, dir in höchster Heimath, mit Liedern dir im untersten Berei
 
 भावार्थभाषाः -  जे शुभ कर्म करतात त्यांना श्रेष्ठ जन्म मिळतो. जे अधर्माचरण करतात त्यांना नीच जन्म प्राप्त होतो. विद्वान लोक प्रज्वलित अग्नीत सुगंधी पदार्थ टाकून जगावर उपकार करतात तसे ते सर्वांकडून या जन्मी किंवा जन्मजन्मान्तरी उपकृत होतात. ॥ ३ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

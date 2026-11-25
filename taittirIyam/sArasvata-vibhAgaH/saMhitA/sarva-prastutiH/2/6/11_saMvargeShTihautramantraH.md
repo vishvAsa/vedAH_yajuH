@@ -757,18 +757,7 @@ O Agni, hast rent the forts.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/016/39_ya_ugra.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-य उ॒ग्र इ॑व शर्य॒हा ति॒ग्मशृ॑ङ्गो॒ न वंस॑गः ।  
-अग्ने॒ पुरो॑ रु॒रोजि॑थ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/016/39_ya_ugra.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -783,7 +772,7 @@ O Agni, hast rent the forts.
 अ᳓ग्ने पु᳓रो रुरो᳓जिथ
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 य उ॒ग्र इ॑व शर्य॒हा ति॒ग्मशृ॑ङ्गो॒ न वँस॑गः ।          
 अग्ने॒ पुरो॑ रु॒रोजि॑थ ।
@@ -831,7 +820,12 @@ púraḥ ← púr- (nominal stem)
 
 rurójitha ← √ruj- (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य उ॒ग्र इ॑व शर्य॒हा ति॒ग्मशृ॑ङ्गो॒ न वंस॑गः ।  
+अग्ने॒ पुरो॑ रु॒रोजि॑थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -840,7 +834,7 @@ rurójitha ← √ruj- (root)
 अग्ने॑ । पुरः॑ । रु॒रोजि॑थ ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 यः । उ॒ग्रः । इ॒व॒ । श॒र्य॒हेति॑ शर्य-हा । ति॒ग्मशृ॑ङ्ग॒ इति॑ ति॒ग्म-शृ॒ङ्गः॒ । न । वँस॑गः ॥ अग्ने॑ । पुरः॑ । रु॒रोजि॑थ ॥
 </details>
@@ -914,7 +908,6 @@ _________
 - “break; bend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -925,7 +918,6 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** अग्निः **उग्रइव** उद्गूर्णबलो धन्वीव **शर्यहा** शर्यैर्बाणैः शत्रूणां हन्ता **तिग्मशृङ्गो** **न** **वंसगः** तीक्ष्णशृङ्गो वननीयगतिर्वृषभ इव हे **अग्ने** स त्वं **पुरः** आसुरीस्तिस्रः पुरीः **रोजिथ** भग्नवानसि । ‘रुद्रो वा एष यदग्निः' (तै. ब्रा. २. १. ३. १ ) इति श्रुतेः रुद्रकृतमपि त्रिपुरदहनमग्निकृतमेवेत्यग्निः स्तूयते । यद्वा । त्रिपुरदहनसाधनभूते बाणेऽग्नेरनीकत्वेनावस्थानादग्निः पुराणि भग्नवानित्युच्यते । ‘देवासुरा वा एषु लोकेषु समयतन्त' (ऐ. ब्रा. १. २३) इत्यादिकं ब्राह्मणमनुसंधेयम् ॥
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1027,7 +1019,6 @@ Der einem mächt'gen Schützen gleich und einem scharfgehörnten Stier Die Burge
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जे राजे इत्यादी अधिकारीगण सूर्याप्रमाणे तेजस्वी असतात ते शत्रूंना जिंकण्यास समर्थ असतात. ॥ ३९ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

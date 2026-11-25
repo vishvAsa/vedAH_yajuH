@@ -254,18 +254,7 @@ So with holy power all these of thine I put in order.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/162/17_yatte_sAde.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-यत्ते॑ सा॒दे मह॑सा॒ शूकृ॑तस्य॒ पार्ष्ण्या॑ वा॒ कश॑या वा तु॒तोद॑ ।  
-स्रु॒चेव॒ ता ह॒विषो॑ अध्व॒रेषु॒ सर्वा॒ ता ते॒ ब्रह्म॑णा सूदयामि ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/162/17_yatte_sAde.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -281,7 +270,7 @@ So with holy power all these of thine I put in order.
 स᳓र्वा ता᳓ ते ब्र᳓ह्मणा सूदयामि
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 यत्ते॑ सा॒दे मह॑सा॒ शूकृ॑तस्य॒ पार्ष्णि॑या वा॒ कश॑या [44] वा॒ तु॒तोद॑ ।  
 स्रु॒चेव॒ ता ह॒विषो॑ अध्व॒रेषु॒ सर्वा॒ ता ते॒ ब्रह्म॑णा सूदयामि ।
@@ -360,7 +349,12 @@ tā́ ← sá- ~ tá- (pronoun)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्ते॑ सा॒दे मह॑सा॒ शूकृ॑तस्य॒ पार्ष्ण्या॑ वा॒ कश॑या वा तु॒तोद॑ ।  
+स्रु॒चेव॒ ता ह॒विषो॑ अध्व॒रेषु॒ सर्वा॒ ता ते॒ ब्रह्म॑णा सूदयामि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -496,7 +490,6 @@ _________
 - “kill; promote.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -507,6 +500,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 **महसा** बलेन **शूकृतस्य** । शब्दानुकरणमेतत् । शूत्कारं कुर्वतः **ते** तव **सादे** सदने अगमने निमित्तभूते सति ॥ सदेर्भावे घञ्। 'कर्षात्वतः' इत्यन्तोदात्तत्वम् ॥ अर्थतो गमनं कुर्वन् शूत्कारं कुर्वतः ते त्वां पार्ष्ण्या  **वा** **कशया** **वा** **तुतोद** व्यथयति **यत्** यस्मात् तस्मात् **ते** तव **ता** तानि **सर्वा** सर्वाणि **अध्वरेषु** यागेषु **ब्रह्मणा** मन्त्रेण सूदयामि क्षरामि आहुतित्वेन कल्पयामीत्यर्थः । तत्र दृष्टान्तः । अध्वरेषु यागेषु **हविषः** हविः आज्यादिकं **स्रुचेव** स्रुचा यथा सूदयन्ति तद्वत् ॥
+
 
 _____________
 
@@ -610,7 +604,6 @@ Was bei deiner Ermüdung durch das Uebermass des Antreibens, oder durch die Fers
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे जसे विद्वान घोड्याला वेताने, बैलाला चाबकाने व हत्तीला अंकुशाने मारतात व त्यांना त्वरित पळवितात, तसेच कलायंत्राने अग्नीला चांगल्या प्रकारे चालवून विमान इत्यादी याने शीघ्र चालवावीत. ॥ १७ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

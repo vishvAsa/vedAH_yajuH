@@ -26,18 +26,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/050/04_taraNirvishvadarshato_jyotiShkRdasi.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-त॒रणि॑र्वि॒श्वद॑र्शतो ज्योति॒ष्कृद॑सि सूर्य ।  
-विश्व॒मा भा॑सि रोच॒नम् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/04_taraNirvishvadarshato_jyotiShkRdasi.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -91,7 +80,12 @@ rocanám ← rocaná- (nominal stem)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त॒रणि॑र्वि॒श्वद॑र्शतो ज्योति॒ष्कृद॑सि सूर्य ।  
+विश्व॒मा भा॑सि रोच॒नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +158,6 @@ _________
 - “light; celestial sphere.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -303,7 +296,6 @@ Für alle sichtbar, schnellen Laufs erzeugst du Licht, o Sonnengott, Den ganzen 
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा सूर्य व विद्युत आत बाहेर राहणाऱ्या सर्व स्थूल पदार्थांना प्रकाशित करतात तसेच ईश्वरही सर्व वस्तूंना प्रकाशित करतो. ॥ ४ ॥
 </details>
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">

@@ -28,16 +28,6 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/092/01_A_vAyo.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-आ वा॑यो भूष शुचिपा॒ उप॑ नः स॒हस्रं॑ ते नि॒युतो॑ विश्ववार ।  
-उपो॑ ते॒ अन्धो॒ मद्य॑मयामि॒ यस्य॑ देव दधि॒षे पू॑र्व॒पेय॑म् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/092/01_A_vAyo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -426,11 +416,12 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -457,7 +448,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -505,16 +496,6 @@ _______
 उ᳓प प्र᳓योभिर्+++(=अन्नैः)+++ आ᳓ गतम्+++(=गच्छतम्)+++ ।  
 +++(बिन्दुरूपा)+++ इ᳓न्दवो वाम् **उश᳓न्ति** हि᳓ ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/002/04_indravAyU_ime.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्र॑वायू इ॒मे सु॒ता उप॒ प्रयो॑भि॒रा ग॑तम् ।  
-इन्द॑वो वामु॒शन्ति॒ हि ॥
 </details>
 
 </div>
@@ -809,11 +790,12 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -840,7 +822,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -876,11 +858,12 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/eSha_te.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -901,7 +884,7 @@ This is thy birthplace;
 
 **एष ते योनिः** स्थानम् ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

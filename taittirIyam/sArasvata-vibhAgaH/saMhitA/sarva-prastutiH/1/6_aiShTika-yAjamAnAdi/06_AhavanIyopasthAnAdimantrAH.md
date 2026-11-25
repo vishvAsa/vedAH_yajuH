@@ -197,7 +197,6 @@ Thou art good, the best of rays,
 
 <details><summary>सायण-टीका</summary>
 
-
 हे आदित्य त्वं सुभूरसि सुष्ठु भवत्युदेतीति सुभूः। रश्‍मीनां रश्‍मियुक्तानां चन्द्रादीनां मध्ये श्रेष्ठोऽसि। 
 </details>
 </details>
@@ -328,7 +327,6 @@ Here do I exclude my enemy, N. N., from these quarters, this sky, this atmospher
 </details>
 
 <details><summary>सायण-टीका</summary>
-
 
 यो भ्रातृव्यो मदीयो वैरी पृथिव्यादिलोकत्रये प्राच्यादिदिक्षु मम विरोधमाचरति मदीयमन्नाद्यं चापजिहीर्षति अमुं भ्रातृव्यं ततः पृथिव्यादेरिदं निर्भजामि शीघ्रमेव निःसारयामि। 
 </details>
@@ -664,7 +662,6 @@ Kindled, O Agni, shine for me;
 
 <details><summary>सायण-टीका</summary>
 
-
 अत्र समित्प्रक्षेपाय स्वाहेति शब्दोऽध्याहृतः। 
 </details>
 </details>
@@ -770,18 +767,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/066/19_agna_AyUMShi.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अग्न॒ आयूं॑षि पवस॒ आ सु॒वोर्ज॒मिषं॑ च नः ।  
-आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/066/19_agna_AyUMShi.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः पवमानः
@@ -844,7 +830,12 @@ bādhasva ← √bādhⁱ- (root)
 
 duchúnām ← duchúnā- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्न॒ आयूं॑षि पवस॒ आ सु॒वोर्ज॒मिषं॑ च नः ।  
+आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -853,10 +844,9 @@ duchúnām ← duchúnā- (nominal stem)
 आ॒रे । बा॒ध॒स्व॒ । दु॒च्छुना॑म् ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
-अग्ने॑ । आयूँ॑षि । प॒व॒से॒ । एति॑ । सु॒व॒ । ऊर्ज॑म् । इष॑म् । च॒ । नः॒ ॥ आ॒रे । बा॒ध॒स्व॒ । दु॒च्छुना॑म् ॥ 
-
+अग्ने॑ । आयूँ॑षि । प॒व॒से॒ । एति॑ । सु॒व॒ । ऊर्ज॑म् । इष॑म् । च॒ । नः॒ ॥ आ॒रे । बा॒ध॒स्व॒ । दु॒च्छुना॑म् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -934,7 +924,6 @@ _________
 - “calamity; misfortune.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -973,25 +962,17 @@ O Agni, you bring (longer) lifespans through your purification; impel  hither no
 Into the distance thrust misfortune.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Since pavase has an obj. ā́yūṃṣi, it would be desirable to have the preverb ā́, which has transitivizing function with this root. This is easily done: ā́yūṃṣi can be decomposed into ā́ā́yūṃṣi without change to the Saṃhitā text, though it is contra to the Pp.
-
-This preverb in tmesis shows up apparently 2nd in the clause because it follows the zeroposition voc. ágne.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
-<details open><summary><h7>19-21 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 On this tṛca see published introduction. It is so insistently Agni-focused (all three vss.
 
 begin with a form of that stem, two as voc.) that the Anukramaṇī lists Agni as the deity of the three vss. But it is of course far more likely that Soma is being identified with Agni here.
 
 The equation and poetic merging of these two ritual gods is found elsewhere, most notably in “the hardest hymn in the RV” (V.44), which is simultaneously applicable to both gods throughout its length. Their blending is shown here by the use of both Somian and Agnian vocab.: for the latter, see esp. puróhitaḥ (20b); for the former, the three forms of páva-, one each in each vs.: 19a pavase, 20a pávamānaḥ, 21a pavasva. Note that after this Agni tṛca the word sóma- doesn’t appear until vs. 29 and a likely identification with Indra (as well as comparison with the sun) intervenes.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -1043,14 +1024,6 @@ Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse w
 
 पदार्थान्वयभाषाः -  (अग्ने) ज्ञानस्वरूप परमेश्वर ! त्वम् (आयूंषि) अस्माकं वयांसि (पवसे) पवित्रयसि (च) अथ च (नः) अस्मभ्यम् (इषम्) ऐश्वर्यं तथा (ऊर्जम्) बलं (आसुव) देहि। तथा (दुच्छुनाम्) विघ्नकारिराक्षसान् इतः (आरे बाधस्व) दूरीकुरु ॥१९॥
 </details>
-
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/066/19_agna_AyUMShi.md">
-
-अग्न॒ आयूं॑षि पवस॒ आ सु॒वोर्ज॒मिषं॑ च नः ।  
-आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥
-
 </div>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/21_agne_pavasva.md">
@@ -1061,16 +1034,6 @@ Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse w
 अस्मे᳓ व᳓र्चः सुवी᳓र्यम् ।  
 **द᳓धद्** रयिं᳓ म᳓यि पो᳓षम् ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/066/21_agne_pavasva.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अग्ने॒ पव॑स्व॒ स्वपा॑ अ॒स्मे वर्चः॑ सु॒वीर्य॑म् ।  
-दध॑द्र॒यिं मयि॒ पोष॑म् ॥
 </details>
 
 </div>
@@ -1134,7 +1097,12 @@ póṣam ← póṣa- (nominal stem)
 
 rayím ← rayí- ~ rāy- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ पव॑स्व॒ स्वपा॑ अ॒स्मे वर्चः॑ सु॒वीर्य॑म् ।  
+दध॑द्र॒यिं मयि॒ पोष॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1223,7 +1191,6 @@ _________
 - “prosperity; poṣa \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1265,23 +1232,17 @@ Agni, as a good worker, through your purification bring luster and an  abundance
 establishing in me wealth and thriving.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Here, despite the obj. phrase in b, pávasva lacks the expected ā́. It would technically be possible to take b with c: “establishing luster and an abundance of heroes for/in us, wealth and thriving in me,” which would leave pavasva intransitive. However, this seems artificial, and the existence of two 1st ps. pronouns in b and c, in different numbers, would be awkward. Moreover, 27c, with an independent dádhat clause, speaks in favor of separating b and c here.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
-<details open><summary><h7>19-21 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 On this tṛca see published introduction. It is so insistently Agni-focused (all three vss.
 
 begin with a form of that stem, two as voc.) that the Anukramaṇī lists Agni as the deity of the three vss. But it is of course far more likely that Soma is being identified with Agni here.
 
 The equation and poetic merging of these two ritual gods is found elsewhere, most notably in “the hardest hymn in the RV” (V.44), which is simultaneously applicable to both gods throughout its length. Their blending is shown here by the use of both Somian and Agnian vocab.: for the latter, see esp. puróhitaḥ (20b); for the former, the three forms of páva-, one each in each vs.: 19a pavase, 20a pávamānaḥ, 21a pavasva. Note that after this Agni tṛca the word sóma- doesn’t appear until vs. 29 and a likely identification with Indra (as well as comparison with the sun) intervenes.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

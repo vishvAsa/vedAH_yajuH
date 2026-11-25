@@ -296,6 +296,7 @@ title = "+०३ जपः (पूर्णपाठः)"
 ## ०४ ‘इन्द्रं वो विश्वतस्परि' …{Loading}…
 
 
+
 ‘इन्द्रं वो विश्वतस्परि हवामहे' इत्यनुवाकं"
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH">
@@ -347,16 +348,6 @@ title = "+०३ जपः (पूर्णपाठः)"
 इ᳓न्द्रं वो विश्व᳓तस् प᳓रि  
 ह᳓वामहे ज᳓नेभियः  
 अस्मा᳓कम् अस्तु के᳓वलः
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/10_indraM_vo.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्रं॑ वो वि॒श्वत॒स्परि॒ हवा॑महे॒ जने॑भ्यः ।  
-अ॒स्माक॑मस्तु॒ केव॑लः ॥
 </details>
 
 </div>
@@ -637,17 +628,6 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 शू᳓रो नृ᳓-षाता +++(=सम्भक्ता)+++ श᳓वसश् **चकान᳓** +++(कामयमानः)+++  
 +++(सामवेदे भेदः)+++  
 आ᳓ गो᳓मति व्रजे᳓ **भजा** त्वं᳓ नः ।।
-
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/027/01_indraM_naro.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्रं॒ नरो॑ ने॒मधि॑ता हवन्ते॒ यत्पार्या॑ यु॒नज॑ते॒ धिय॒स्ताः ।  
-शूरो॒ नृषा॑ता॒ शव॑सश्चका॒न आ गोम॑ति व्र॒जे भ॑जा॒ त्वं नः॑ ॥
 
 </details>
 
@@ -1068,16 +1048,6 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/037/09_indriyANi_shatakrato.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इ॒न्द्रि॒याणि॑ शतक्रतो॒ या ते॒ जने॑षु प॒ञ्चसु॑ ।  
-इन्द्र॒ तानि॑ त॒ आ वृ॑णे ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/037/09_indriyANi_shatakrato.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -1373,16 +1343,6 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 **अ᳓नु** क्षत्र᳓म्, **अ᳓नु** स᳓हो यजत्र᳓+++(=यष्टव्य)+++ 
 + इ᳓न्द्र देवे᳓भिर्, **अ᳓नु** ते नृ-ष᳓ह्ये ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/025/08_anu_te.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अनु॑ ते दायि म॒ह इ॑न्द्रि॒याय॑ स॒त्रा ते॒ विश्व॒मनु॑ वृत्र॒हत्ये॑ ।  
-अनु॑ क्ष॒त्रमनु॒ सहो॑ यज॒त्रेन्द्र॑ दे॒वेभि॒रनु॑ ते नृ॒षह्ये॑ ॥
 </details>
 
 </div>
@@ -1872,16 +1832,6 @@ The glowing pot is the guest of Indra.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/089/07_AmAsu_pakvamairaya.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-आ॒मासु॑ प॒क्वमैर॑य॒ आ सूर्यं॑ रोहयो दि॒वि ।  
-घ॒र्मं न साम॑न्तपता सुवृ॒क्तिभि॒र्जुष्टं॒ गिर्व॑णसे बृ॒हत् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/089/07_AmAsu_pakvamairaya.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2215,16 +2165,6 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्र॒मिद्गा॒थिनो॑ बृ॒हदिन्द्र॑म॒र्केभि॑र॒र्किणः॑ ।  
-इन्द्रं॒ वाणी॑रनूषत ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2549,16 +2489,6 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 ब्रह्मा᳓णस् त्वा शतक्रत  
 उ᳓द् वंश᳓म् इव **येमिरे** +++(←यम्)+++॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/010/01_gAyanti_tvA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-गाय॑न्ति त्वा गाय॒त्रिणोऽर्च॑न्त्य॒र्कम॒र्किणः॑ ।  
-ब्र॒ह्माण॑स्त्वा शतक्रत॒ उद्वं॒शमि॑व येमिरे ॥
 </details>
 
 </div>
@@ -3024,16 +2954,6 @@ May the desires of the sacrificer be fulfilled.
 अं᳓हसो य᳓त्र **पीप᳓रद्**+++(=पारयति)+++ य᳓था नो  
 नावे᳓व या᳓न्तम् उभ᳓ये +++(तीरस्था)+++ **हवन्ते** ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/032/14_viveSha_yanmA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-वि॒वेष॒ यन्मा॑ धि॒षणा॑ ज॒जान॒ स्तवै॑ पु॒रा पार्या॒दिन्द्र॒मह्नः॑ ।  
-अंह॑सो॒ यत्र॑ पी॒पर॒द्यथा॑ नो ना॒वेव॒ यान्त॑मु॒भये॑ हवन्ते ॥
 </details>
 
 </div>
@@ -3584,16 +3504,6 @@ Who is hostile to us.
 अ᳓जायथा वृषभ चर्षणीना᳓म्  
 अ᳓पानुदो ज᳓नम् अमित्रय᳓न्तम्  
 उरुं᳓ देवे᳓भ्यो अकृणोर् उलोक᳓म्†
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/180/03_indra_xatramabhi.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्र॑ क्ष॒त्रम॒भि वा॒ममोजोऽजा॑यथा वृषभ चर्षणी॒नाम् ।  
-अपा॑नुदो॒ जन॑ममित्र॒यन्त॑मु॒रुं दे॒वेभ्यो॑ अकृणोरु लो॒कम् ॥
 </details>
 
 </div>
@@ -4213,16 +4123,6 @@ May we be dear to you among the princes.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/031/04_anavaste_rathamashvAya.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अन॑वस्ते॒ रथ॒मश्वा॑य तक्ष॒न्त्वष्टा॒ वज्रं॑ पुरुहूत द्यु॒मन्त॑म् ।  
-ब्र॒ह्माण॒ इन्द्रं॑ म॒हय॑न्तो अ॒र्कैरव॑र्धय॒न्नह॑ये॒ हन्त॒वा उ॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/031/04_anavaste_rathamashvAya.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -4598,16 +4498,6 @@ Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vie
 अनश्वा᳓सो ये᳓ पव᳓यो+++(=नेमयः, वज्राणि)+++ ऽरथा᳓  
 इ᳓न्द्रेषिता **अभ्य᳓वर्तन्त** द᳓स्यून् ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/031/05_vRShNe_yatte.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-वृष्णे॒ यत्ते॒ वृष॑णो अ॒र्कमर्चा॒निन्द्र॒ ग्रावा॑णो॒ अदि॑तिः स॒जोषाः॑ ।  
-अ॒न॒श्वासो॒ ये प॒वयो॑ऽर॒था इन्द्रे॑षिता अ॒भ्यव॑र्तन्त॒ दस्यू॑न् ॥
 </details>
 
 </div>
@@ -5035,7 +4925,6 @@ Als dir dem Stier die Stiere Preislied sangen vereint die Stiere, Indra, und der
 
 ## ०९ 'ये देवाः पुरस्सदः' इति पञ्च, …{Loading}…
 
-
 'ये देवाः पुरस्सदः' इति पञ्च,
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/ye_devAH_purassadaH.md">
@@ -5217,7 +5106,6 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 
 ## १० ‘अग्नये रक्षोघ्ने’ इति पञ्च …{Loading}…
 
-
 'अग्नये रक्षोघ्ने’ इति पञ्च
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/agnaye_raxoghne_5.md">
@@ -5299,9 +5187,6 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../11_agnirAyuShmAn_iti_pancha/">
 
 ## ११ ‘अग्निरायुष्मान्' …{Loading}…
-
-
-
 
 ‘अग्निरायुष्मान्' इति पञ्च,
 
@@ -5522,7 +5407,6 @@ the Pitrs are full of life; they are full of life through the Svadha-call with t
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../12_yAvAmindrAvaruNeti_chaturaH_yo_vAmindrAvaruNA_i/">
 
 ## १२ 'यावामिन्द्रावरुणे'ति, 'यो वामिन्द्रावरुणा', …{Loading}…
-
 
 'यावामिन्द्रावरुणे'ति चतुरः, 'यो वामिन्द्रावरुणा' इत्यष्टौ पर्यायान्,
 
@@ -5954,7 +5838,6 @@ that disease of yours, O Indra and Varuna, that is in the two-footed cattle, [th
 
 ## १४ 'ऋताषा'डिति सानुषङ्गम् …{Loading}…
 
-
 'ऋताषा'डिति सानुषङ्गम् अनुवाकं
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -5986,10 +5869,7 @@ that disease of yours, O Indra and Varuna, that is in the two-footed cattle, [th
 </details>
 </details>
 
-
-
 विश्वेदेवा ऋषयः
-
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -6072,7 +5952,6 @@ that disease of yours, O Indra and Varuna, that is in the two-footed cattle, [th
 सँ॒हि॒तो वि॒श्व-सा॑मा॒ सूर्यो॑ गन्ध॒र्वस् [स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॑।]  
 तस्य॒ मरी॑चयोऽप्स॒रस॑ आ॒युवो॒  [+नाम॑। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]
 
-
 </details>
 <details><summary>सर्वाष् टीकाः</summary>
 
@@ -6080,7 +5959,6 @@ that disease of yours, O Indra and Varuna, that is in the two-footed cattle, [th
 
 सँ॒हि॒तो वि॒श्वसा॑मा॒ सूर्यो॑ गन्ध॒र्वस् [स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॑।]  
 तस्य॒ मरी॑चयोऽप्स॒रस॑ आ॒युवः॑  [+नाम॑। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]
-
 
 </details>
 </details>
@@ -6335,7 +6213,6 @@ that disease of yours, O Indra and Varuna, that is in the two-footed cattle, [th
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../16_ayaM_puro_harikesha_iti_pancha_paryAyAn/">
 
 ## १६ अयं पुरो हरिकेश …{Loading}…
-
 
 ‘अयं पुरो हरिकेश' इति पञ्च पर्यायान्,
 
@@ -6853,6 +6730,7 @@ him whom [2] we hate and who hateth us I place in your jaws.
 ## १७ 'आशुश्शिशानः' …{Loading}…
 
 
+
 'आशुश्शिशानः'
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam">
@@ -6887,16 +6765,6 @@ Bellowing, unwinking, sole hero,
 Indra at once conquered a hundred hosts.
 </details>
 </details>
-
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/01_AshuH_shishAno.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-आ॒शुः शिशा॑नो वृष॒भो न भी॒मो घ॑नाघ॒नः क्षोभ॑णश्चर्षणी॒नाम् ।  
-सं॒क्रन्द॑नोऽनिमि॒ष ए॑कवी॒रः श॒तं सेना॑ अजयत्सा॒कमिन्द्रः॑ ॥
-</details>
-
-</div>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/01_AshuH_shishAno.md">
 
@@ -7218,16 +7086,6 @@ The foe, O heroes, with the strong one who holdeth the arrow in his hands.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-सं॒क्रन्द॑नेनानिमि॒षेण॑ जि॒ष्णुना॑ युत्का॒रेण॑ दुश्च्यव॒नेन॑ धृ॒ष्णुना॑ ।  
-तदिन्द्रे॑ण जयत॒ तत्स॑हध्वं॒ युधो॑ नर॒ इषु॑हस्तेन॒ वृष्णा॑ ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
@@ -7519,16 +7377,6 @@ Conquering in combat, drinker of Soma, with many a band,
 With bow uplifted, and shooter with well-drawn arrows.
 </details>
 </details>
-
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/03_sa_iShuhastaiH.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-स इषु॑हस्तैः॒ स नि॑ष॒ङ्गिभि॑र्व॒शी संस्र॑ष्टा॒ स युध॒ इन्द्रो॑ ग॒णेन॑ ।  
-सं॒सृ॒ष्ट॒जित्सो॑म॒पा बा॑हुश॒र्ध्यु१॒॑ग्रध॑न्वा॒ प्रति॑हिताभि॒रस्ता॑ ॥
-</details>
-
-</div>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/03_sa_iShuhastaiH.md">
 
@@ -7859,16 +7707,6 @@ Be thou protector of our chariots.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/04_bRhaspate_pari.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-बृह॑स्पते॒ परि॑ दीया॒ रथे॑न रक्षो॒हामित्राँ॑ अप॒बाध॑मानः ।  
-प्र॒भ॒ञ्जन्त्सेनाः॑ प्रमृ॒णो यु॒धा जय॑न्न॒स्माक॑मेध्यवि॒ता रथा॑नाम् ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/04_bRhaspate_pari.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
@@ -8174,16 +8012,6 @@ Be heroes, O my fellows, like him;
 O comrades, follow in Indra's footsteps.
 </details>
 </details>
-
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/06_gotrabhidaM_govidaM.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-गो॒त्र॒भिदं॑ गो॒विदं॒ वज्र॑बाहुं॒ जय॑न्त॒मज्म॑ प्रमृ॒णन्त॒मोज॑सा ।  
-इ॒मं स॑जाता॒ अनु॑ वीरयध्व॒मिन्द्रं॑ सखायो॒ अनु॒ सं र॑भध्वम् ॥
-</details>
-
-</div>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/06_gotrabhidaM_govidaM.md">
 
@@ -8511,16 +8339,6 @@ Surpassing heroes and warriors born of strength,
 Do thou, winning kine, mount, O Indra, thy victorious car.
 </details>
 </details>
-
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/05_balavijnAyaH_sthaviraH.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-ब॒ल॒वि॒ज्ञा॒यः स्थवि॑रः॒ प्रवी॑रः॒ सह॑स्वान्वा॒जी सह॑मान उ॒ग्रः ।  
-अ॒भिवी॑रो अ॒भिस॑त्वा सहो॒जा जैत्र॑मिन्द्र॒ रथ॒मा ति॑ष्ठ गो॒वित् ॥
-</details>
-
-</div>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/05_balavijnAyaH_sthaviraH.md">
 
@@ -8858,16 +8676,6 @@ May he aid our armies in the battles.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/07_abhi_gotrANi.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-अ॒भि गो॒त्राणि॒ सह॑सा॒ गाह॑मानोऽद॒यो वी॒रः श॒तम॑न्यु॒रिन्द्रः॑ ।  
-दु॒श्च्य॒व॒नः पृ॑तना॒षाळ॑यु॒ध्यो॒३॒॑ऽस्माकं॒ सेना॑ अवतु॒ प्र यु॒त्सु ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/07_abhi_gotrANi.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
@@ -9160,16 +8968,6 @@ Let the Maruts precede the hosts divine,
 That overthrow and conquer.
 </details>
 </details>
-
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/08_indra_AsAM.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-इन्द्र॑ आसां ने॒ता बृह॒स्पति॒र्दक्षि॑णा य॒ज्ञः पु॒र ए॑तु॒ सोमः॑ ।  
-दे॒व॒से॒नाना॑मभिभञ्जती॒नां जय॑न्तीनां म॒रुतो॑ य॒न्त्वग्र॑म् ॥
-</details>
-
-</div>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/08_indra_AsAM.md">
 
@@ -9472,16 +9270,6 @@ Great-hearted that shake the worlds as they conquer.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/09_indrasya_vRShNo.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-इन्द्र॑स्य॒ वृष्णो॒ वरु॑णस्य॒ राज्ञ॑ आदि॒त्यानां॑ म॒रुतां॒ शर्ध॑ उ॒ग्रम् ।  
-म॒हाम॑नसां भुवनच्य॒वानां॒ घोषो॑ दे॒वानां॒ जय॑ता॒मुद॑स्थात् ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/09_indrasya_vRShNo.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
@@ -9767,16 +9555,6 @@ Ours be the heroes who are victors,
 And us do ye aid, O gods, at our invocations.
 </details>
 </details>
-
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/11_asmAkamindraH_samRteShu.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-अ॒स्माक॒मिन्द्रः॒ समृ॑तेषु ध्व॒जेष्व॒स्माकं॒ या इष॑व॒स्ता ज॑यन्तु ।  
-अ॒स्माकं॑ वी॒रा उत्त॑रे भवन्त्व॒स्माँ उ॑ देवा अवता॒ हवे॑षु ॥
-</details>
-
-</div>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/11_asmAkamindraH_samRteShu.md">
 
@@ -10102,16 +9880,6 @@ Exalt the strength of the steed, O slayer of Vrtra,
 Let the sound of the conquering chariots arise.
 </details>
 </details>
-
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-उद्ध॑र्षय मघव॒न्नायु॑धा॒न्युत्सत्व॑नां माम॒कानां॒ मनां॑सि ।  
-उद्वृ॑त्रहन्वा॒जिनां॒ वाजि॑ना॒न्युद्रथा॑नां॒ जय॑तां यन्तु॒ घोषाः॑ ॥
-</details>
-
-</div>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
 
@@ -10646,7 +10414,6 @@ Accord us protection for ever.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../18_shancha_me/">
 
 ## १८ 'शञ्च मे’, …{Loading}…
-
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/7/03_vasordhArA_shaM_cha_me/">
 <details open><summary><h4>०३ वसोर्धारा होममन्त्राः ...{Loading}...</h4></summary>
@@ -11207,6 +10974,7 @@ May for me fair dawning, and fair day prosper through the sacrifice.
 ## १९ ‘ममाग्ने’, …{Loading}…
 
 
+
 ‘ममाग्ने’
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/7/14_vihavyAkhyeShTakopadhAnam">
@@ -11251,16 +11019,6 @@ May radiance be mine, O Agni, in rival invocations, May we, kindling thee, make 
 With thee as overseer may we conquer the fighters.
 </details>
 </details>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/01_mamAgne_varcho.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-ममा॑ग्ने॒ वर्चो॑ विह॒वेष्व॑स्तु व॒यं त्वेन्धा॑नास्त॒न्वं॑ पुषेम ।  
-मह्यं॑ नमन्तां प्र॒दिश॒श्चत॑स्र॒स्त्वयाध्य॑क्षेण॒ पृत॑ना जयेम ॥
-</details>
-
-</div>
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/01_mamAgne_varcho.md">
 
@@ -11567,16 +11325,6 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/01_mamAgne_varcho.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-ममा॑ग्ने॒ वर्चो॑ विह॒वेष्व॑स्तु व॒यं त्वेन्धा॑नास्त॒न्वं॑ पुषेम ।  
-मह्यं॑ नमन्तां प्र॒दिश॒श्चत॑स्र॒स्त्वयाध्य॑क्षेण॒ पृत॑ना जयेम ॥
-</details>
-
-</div>
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/14_vihavyAkhyeShTakopadhAnam/23_mama_devA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -11757,16 +11505,6 @@ May we not lose offspring nor ourselves;
 May we not fall victims to our foe, O king Soma.
 </details>
 </details>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/05_devIH_ShaLurvIruru.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-देवीः॑ षळुर्वीरु॒रु नः॑ कृणोत॒ विश्वे॑ देवास इ॒ह वी॑रयध्वम् ।  
-मा हा॑स्महि प्र॒जया॒ मा त॒नूभि॒र्मा र॑धाम द्विष॒ते सो॑म राजन् ॥
-</details>
-
-</div>
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/05_devIH_ShaLurvIruru.md">
 
@@ -12090,16 +11828,6 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/05_devIH_ShaLurvIruru.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-देवीः॑ षळुर्वीरु॒रु नः॑ कृणोत॒ विश्वे॑ देवास इ॒ह वी॑रयध्वम् ।  
-मा हा॑स्महि प्र॒जया॒ मा त॒नूभि॒र्मा र॑धाम द्विष॒ते सो॑म राजन् ॥
-</details>
-
-</div>
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/14_vihavyAkhyeShTakopadhAnam/51_agnir_manyum.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -12229,16 +11957,6 @@ May the bull, wide extending, afford us protection rich in food, He much invoked
 O thou of the bay steeds, be gracious unto our progeny; Harm us not [3], abandon not us.
 </details>
 </details>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/08_uruvyachA_no.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उ॒रु॒व्यचा॑ नो महि॒षः शर्म॑ यंसद॒स्मिन्हवे॑ पुरुहू॒तः पु॑रु॒क्षुः ।  
-स नः॑ प्र॒जायै॑ हर्यश्व मृळ॒येन्द्र॒ मा नो॑ रीरिषो॒ मा परा॑ दाः ॥
-</details>
-
-</div>
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/08_uruvyachA_no.md">
 
@@ -12579,16 +12297,6 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/08_uruvyachA_no.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-उ॒रु॒व्यचा॑ नो महि॒षः शर्म॑ यंसद॒स्मिन्हवे॑ पुरुहू॒तः पु॑रु॒क्षुः ।  
-स नः॑ प्र॒जायै॑ हर्यश्व मृळ॒येन्द्र॒ मा नो॑ रीरिषो॒ मा परा॑ दाः ॥
-</details>
-
-</div>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -12619,16 +12327,6 @@ With Indra and Agni we overthrow them;
 The Vasus, the Rudras, the Adityas have made me A dread corrector and overlord, sky reaching.
 </details>
 </details>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/09_ye_naH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-ये नः॑ स॒पत्ना॒ अप॒ ते भ॑वन्त्विन्द्रा॒ग्निभ्या॒मव॑ बाधामहे॒ तान् ।  
-वस॑वो रु॒द्रा आ॑दि॒त्या उ॑परि॒स्पृशं॑ मो॒ग्रं चेत्ता॑रमधिरा॒जम॑क्रन् ॥
-</details>
-
-</div>
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/09_ye_naH.md">
 
@@ -12948,16 +12646,6 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/09_ye_naH.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-ये नः॑ स॒पत्ना॒ अप॒ ते भ॑वन्त्विन्द्रा॒ग्निभ्या॒मव॑ बाधामहे॒ तान् ।  
-वस॑वो रु॒द्रा आ॑दि॒त्या उ॑परि॒स्पृशं॑ मो॒ग्रं चेत्ता॑रमधिरा॒जम॑क्रन् ॥
-</details>
-
-</div>
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/14_vihavyAkhyeShTakopadhAnam/95_arvAncham_indram.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -13060,6 +12748,7 @@ Ally of it we make thee, O lord of the bays.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../20_agnermanve_ityanuvAkAn/">
 
 ## २० ‘अग्नेर्मन्वे’ …{Loading}…
+
 
 
 ‘अग्नेर्मन्वे’ इत्यनुवाकान्,
@@ -13993,16 +13682,6 @@ Agni through the hymn which brings (him).
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/098/02_pRShTo_divi.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-पृ॒ष्टो दि॒वि पृ॒ष्टो अ॒ग्निः पृ॑थि॒व्यां पृ॒ष्टो विश्वा॒ ओष॑धी॒रा वि॑वेश ।  
-वै॒श्वा॒न॒रः सह॑सा पृ॒ष्टो अ॒ग्निः स नो॒ दिवा॒ स रि॒षः पा॑तु॒ नक्त॑म् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/098/02_pRShTo_divi.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -14622,8 +14301,6 @@ Be our life prolonged further, O Agni.
 
 ## २१ 'समीची नाम' …{Loading}…
 
-
-
 'समीची नाम' इति षट्पर्यायान्,
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/14_samIchI_nAmAsi.md">
@@ -14714,8 +14391,6 @@ Be our life prolonged further, O Agni.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../22_hetayo_nAmastha_iti_ShaTparyAyAn/">
 
 ## २२ 'हेतयो नामस्थ' …{Loading}…
-
-
 
 'हेतयो नामस्थ' इति षट्पर्यायान्
 
@@ -15046,7 +14721,6 @@ him whom we hate and him who hateth us, I place him within your jaws.
 
 ## २४ 'भूतं भव्यं भविष्यत्' …{Loading}…
 
-
 <div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/7/3/11_ashvamedhaH/12_paryAptihomamantrAH/">
 <details open><summary><h4>१२ पर्याप्तिहोममन्त्राः ...{Loading}...</h4></summary>
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -15289,6 +14963,7 @@ Bhuh, Bhuvah, Suvar, Vasat, hail, reverence!
 ## २५ 'इन्द्रो दधीचो अस्थभिः' …{Loading}…
 
 
+
 'इन्द्रो दधीचो अस्थभिः' इत्यनुवाकौ
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/1/5_nAxatrAdi/08_atharva-shira-iShTakAH_indro_dadhIcho/">
@@ -15315,16 +14990,6 @@ Bhuh, Bhuvah, Suvar, Vasat, hail, reverence!
 वृत्रा᳓ण्य् अ᳓-प्रति-ष्कुतः+++(←आप्रवणे)+++ ।   
 **जघा᳓न** नवती᳓र् न᳓व +++(→हेमन्त-दिनानि)+++ ।
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/13_indro_dadhIcho.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्रो॑ दधी॒चो अ॒स्थभि॑र्वृ॒त्राण्यप्र॑तिष्कुतः ।  
-ज॒घान॑ नव॒तीर्नव॑ ॥
 </details>
 
 </div>
@@ -15565,16 +15230,6 @@ Mit Dadhiank's Gebeinen schlug, Indra, dem niemand widersteht, Die neunundneunzi
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/13_indro_dadhIcho.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-इन्द्रो॑ दधी॒चो अ॒स्थभि॑र्वृ॒त्राण्यप्र॑तिष्कुतः ।  
-ज॒घान॑ नव॒तीर्नव॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/14_ichChannashvasya_yachChiraH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -15585,16 +15240,6 @@ Mit Dadhiank's Gebeinen schlug, Indra, dem niemand widersteht, Die neunundneunzi
 
 ![](/jyotiSham/astrophysics/history/images/zodiac_history/bce-3000-01-13_rohiNI_jyeShThA_equinox_shatabhiShak_pUrva_phAlgunI_solstice.png)
 {caption="" class="thumbnail"}
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/14_ichChannashvasya_yachChiraH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इ॒च्छन्नश्व॑स्य॒ यच्छिरः॒ पर्व॑ते॒ष्वप॑श्रितम् ।  
-तद्वि॑दच्छर्य॒णाव॑ति ॥
 </details>
 
 </div>
@@ -15835,16 +15480,6 @@ Verlangend nach des Rosses Haupt, das in den Bergen sich versteckt, Fand er's am
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/14_ichChannashvasya_yachChiraH.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-इ॒च्छन्नश्व॑स्य॒ यच्छिरः॒ पर्व॑ते॒ष्वप॑श्रितम् ।  
-तद्वि॑दच्छर्य॒णाव॑ति ॥
-</details>
-
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/15_atrAha_goramanvata.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -15853,16 +15488,6 @@ Verlangend nach des Rosses Haupt, das in den Bergen sich versteckt, Fand er's am
 ना᳓म त्व᳓ष्टुर्+++(=दीप्तस्यादित्यस्य उत्तरायणारम्भे)+++ **अपीच्य᳙म्**+++(=अपचितम्, अन्तर्हितम् [रात्रौ])+++ ।
 इत्था᳓+++(=इत्थं)+++ चन्द्र᳓मसो गृहे᳓ +++(=अमावास्यायाम्, फाल्गुनीषु पौर्णमास्यां वा)+++॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/15_atrAha_goramanvata.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अत्राह॒ गोर॑मन्वत॒ नाम॒ त्वष्टु॑रपी॒च्य॑म् ।  
-इ॒त्था च॒न्द्रम॑सो गृ॒हे ॥
 </details>
 
 </div>
@@ -16171,16 +15796,6 @@ Dort fanden sie das Wesen auf des Stiers, den Tvaschtar hielt versteckt. Dort en
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/15_atrAha_goramanvata.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-अत्राह॒ गोर॑मन्वत॒ नाम॒ त्वष्टु॑रपी॒च्य॑म् ।  
-इ॒त्था च॒न्द्रम॑सो गृ॒हे ॥
-</details>
-
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -16189,16 +15804,6 @@ Dort fanden sie das Wesen auf des Stiers, den Tvaschtar hielt versteckt. Dort en
 इ᳓न्द्रम् अर्के᳓भिर्+++(←अर्च्, ऋक्)+++ अर्कि᳓णः ।  
 इ᳓न्द्रं वा᳓णीर्+++(→यजूंषि)+++ **अनूषत**+++(←णु स्तुतौ)+++ ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्र॒मिद्गा॒थिनो॑ बृ॒हदिन्द्र॑म॒र्केभि॑र॒र्किणः॑ ।  
-इन्द्रं॒ वाणी॑रनूषत ॥
 </details>
 
 </div>
@@ -16508,16 +16113,6 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-इन्द्र॒मिद्गा॒थिनो॑ बृ॒हदिन्द्र॑म॒र्केभि॑र॒र्किणः॑ ।  
-इन्द्रं॒ वाणी॑रनूषत ॥
-</details>
-
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/02_indra_iddharyoH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -16526,16 +16121,6 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 **स᳓म्मिश्ल** आ᳓ वचो **यु᳓जा** ।  
 इ᳓न्द्रो वज्री᳓ हिरण्य᳓यः ॥+++(5)+++
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/02_indra_iddharyoH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्र॒ इद्धर्योः॒ सचा॒ सम्मि॑श्ल॒ आ व॑चो॒युजा॑ ।  
-इन्द्रो॑ व॒ज्री हि॑र॒ण्ययः॑ ॥
 </details>
 
 </div>
@@ -16803,16 +16388,6 @@ Indra mit seiner Füchse Paar, dem Wagen, der aufs Wort sich schirrt, der goldne
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/02_indra_iddharyoH.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-इन्द्र॒ इद्धर्योः॒ सचा॒ सम्मि॑श्ल॒ आ व॑चो॒युजा॑ ।  
-इन्द्रो॑ व॒ज्री हि॑र॒ण्ययः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/03_indro_dIrghAya.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -16821,16 +16396,6 @@ Indra mit seiner Füchse Paar, dem Wagen, der aufs Wort sich schirrt, der goldne
 आ᳓ सू᳓र्यं **रोहयद्** दिवि᳓ ।  
 वि᳓ गो᳓भिर् अ᳓द्रिम् **ऐरयत्** ॥+++(5)+++
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/03_indro_dIrghAya.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्रो॑ दी॒र्घाय॒ चक्ष॑स॒ आ सूर्यं॑ रोहयद्दि॒वि ।  
-वि गोभि॒रद्रि॑मैरयत् ॥
 </details>
 
 </div>
@@ -17098,16 +16663,6 @@ Die Sonne liess er, weit zu schaun, am Himmel steigen, er zerschlug Den Fels und
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/03_indro_dIrghAya.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-इन्द्रो॑ दी॒र्घाय॒ चक्ष॑स॒ आ सूर्यं॑ रोहयद्दि॒वि ।  
-वि गोभि॒रद्रि॑मैरयत् ॥
-</details>
-
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/04_indra_vAjeShu.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -17116,16 +16671,6 @@ Die Sonne liess er, weit zu schaun, am Himmel steigen, er zerschlug Den Fels und
 सह᳓स्र--प्र-धनेषु च ।  
 उग्र᳓ उग्रा᳓भिर् ऊति᳓भिः ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/04_indra_vAjeShu.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्र॒ वाजे॑षु नोऽव स॒हस्र॑प्रधनेषु च ।  
-उ॒ग्र उ॒ग्राभि॑रू॒तिभिः॑ ॥
 </details>
 
 </div>
@@ -17368,16 +16913,6 @@ Hilf in den Schlachten, Indra, uns, im Kampf, der tausend Schätze bringt, Mit m
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/04_indra_vAjeShu.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-इन्द्र॒ वाजे॑षु नोऽव स॒हस्र॑प्रधनेषु च ।  
-उ॒ग्र उ॒ग्राभि॑रू॒तिभिः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/093/07_tamindraM_vAjayAmasi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -17385,16 +16920,6 @@ Hilf in den Schlachten, Indra, uns, im Kampf, der tausend Schätze bringt, Mit m
 त᳓म् इ᳓न्द्रं वाजयामसि  
 महे᳓ वृत्रा᳓य ह᳓न्तवे  
 स᳓ वृ᳓षा वृषभो᳓ भुवत्
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/093/07_tamindraM_vAjayAmasi.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-तमिन्द्रं॑ वाजयामसि म॒हे वृ॒त्राय॒ हन्त॑वे ।  
-स वृषा॑ वृष॒भो भु॑वत् ॥
 </details>
 
 </div>
@@ -17600,16 +17125,6 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/093/07_tamindraM_vAjayAmasi.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-तमिन्द्रं॑ वाजयामसि म॒हे वृ॒त्राय॒ हन्त॑वे ।  
-स वृषा॑ वृष॒भो भु॑वत् ॥
-</details>
-
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/5_nAxatrAdi/08_atharva-shira-iShTakAH_indro_dadhIcho/205_indras_sa.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -17680,7 +17195,6 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../26_chaxuSho_heta_ityArabhya_bhrAtRvyaM_pAdayAmasi/">
 
 ## २६ 'चक्षुषो हेते' …{Loading}…
-
 
 'चक्षुषो हेत' इत्यारभ्य ‘भ्रातृव्यं पादयामसि' इत्यन्तं
 
@@ -17997,7 +17511,6 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../27_prANo_raxati/">
 
 ## २७ 'प्राणो रक्षति' …{Loading}…
-
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/5_upahomAdi/1_upahomaH_prANo_raxati">
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -18420,7 +17933,6 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../28_si.Nhe_vyAghre/">
 
 ## २८ 'सिँहे व्याघ्रे' …{Loading}…
-
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_-_siMhe_vyAghre">
 <details open><summary><h4>०७ ओदन-सवः - सिंहे व्याघ्रे ...{Loading}...</h4></summary>
@@ -19371,7 +18883,6 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 
 
 
-
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_vehadAdi-pashu-mantrAH">
 <details open><summary><h4>०८ वेहदादिपशूनां  सूक्तानि ...{Loading}...</h4></summary>
 
@@ -19770,16 +19281,6 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/100/11_devIM_vAchamajanayanta.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-दे॒वीं वाच॑मजनयन्त दे॒वास्तां वि॒श्वरू॑पाः प॒शवो॑ वदन्ति ।  
-सा नो॑ म॒न्द्रेष॒मूर्जं॒ दुहा॑ना धे॒नुर्वाग॒स्मानुप॒ सुष्टु॒तैतु॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/100/11_devIM_vAchamajanayanta.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -20113,16 +19614,6 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 च᳓तस्र +++(दिग्देवताः)+++ ऊ᳓र्जं दुदुहे प᳓याँसी  
 क्व᳙स्विद् अस्याः परमं᳓ जगाम । 
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-यद्वाग्वद॑न्त्यविचेत॒नानि॒ राष्ट्री॑ दे॒वानां॑ निष॒साद॑ म॒न्द्रा ।  
-चत॑स्र॒ ऊर्जं॑ दुदुहे॒ पयां॑सि॒ क्व॑ स्विदस्याः पर॒मं ज॑गाम ॥
 </details>
 
 </div>
@@ -20588,16 +20079,6 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 गु᳓हा त्री᳓णि +++(=परा-पश्यन्ती-मध्यमाः)+++ **नि᳓हिता** ने᳓ङ्गयन्ति  
 तुरी᳓यं वाचो᳓ +++(=वैखरी)+++ मनुष्या᳙ **वदन्ति** ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/164/45_chatvAri_vAkparimitA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-च॒त्वारि॒ वाक्परि॑मिता प॒दानि॒ तानि॑ विदुर्ब्राह्म॒णा ये म॑नी॒षिणः॑ ।  
-गुहा॒ त्रीणि॒ निहि॑ता॒ नेङ्ग॑यन्ति तु॒रीयं॑ वा॒चो म॑नु॒ष्या॑ वदन्ति ॥
 </details>
 
 </div>
@@ -21241,17 +20722,6 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/02_priyaM_shraddhe.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-प्रि॒यँ श्र॑द्धे॒ दद॑तः । प्रि॒यँ श्र॑द्धे॒ दिदा॑सतः ।  
-प्रि॒यं भो॒जेषु॒ यज्व॑सु। इ॒दं म॑ उदि॒तङ् कृ॑धि ।  
-
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/02_priyaM_shraddhe.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -21517,17 +20987,6 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 श्रद्धा᳓म् उग्रे᳓षु चक्रिरे᳓  
 एव᳓म् भोजे᳓षु य᳓ज्वसु  
 अस्मा᳓कम् उदितं᳓ कृधि
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/03_yathA_devA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-यथा॑ दे॒वा असु॑रेषु । श्र॒द्धाम् उ॒ग्रेषु॑ चक्रि॒रे ।  
-ए॒वं भो॒जेषु॒ यज्व॑सु । अ॒स्माक॑म् उदि॒तङ् कृ॑धि ।  
-
 </details>
 
 </div>
@@ -22058,17 +21517,6 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 श्रद्धां᳓ मध्य᳓न्दिनं **प᳓रि** ।  
 श्रद्धां᳓ सू᳓र्यस्य निम्रु᳓चि+++(=निमज्जने)+++  
 श्र᳓द्धे **श्र᳓द्धापयेह᳓** नः ॥
-
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/05_shraddhAM_prAtarhavAmahe.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-श्र॒द्धां प्रा॒तर् ह॑वामहे । श्र॒द्धां म॒ध्यन्दि॑नं॒ परि॑ ।  
-श्र॒द्धाँ सूर्य॑स्य नि॒म्रुचि॑ । श्रद्धे॒ श्रद्धा॑पये॒ह मा॑ ।
 
 </details>
 
@@ -22788,16 +22236,6 @@ Eastward at first was Brahma generated. Vena o’erspread the bright Ones from t
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/028/01_A_gAvo.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-आ गावो॑ अग्मन्नु॒त भ॒द्रम॑क्र॒न्त्सीद॑न्तु गो॒ष्ठे र॒णय॑न्त्व॒स्मे ।  
-प्र॒जाव॑तीः पुरु॒रूपा॑ इ॒ह स्यु॒रिन्द्रा॑य पू॒र्वीरु॒षसो॒ दुहा॑नाः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/01_A_gAvo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -23163,16 +22601,6 @@ Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich 
 भू᳓योभूयो रयि᳓म् इ᳓द् अस्य **वर्ध᳓यन्न्**  
 अ᳓भिन्ने खिल्ये᳓ +++(स्वर्गे)+++ **नि᳓ दधाति** देवयु᳓म्+++(=देवकामम्)+++ ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/028/02_indro_yajvane.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्रो॒ यज्व॑ने पृण॒ते च॑ शिक्ष॒त्युपेद्द॑दाति॒ न स्वं मु॑षायति ।  
-भूयो॑भूयो र॒यिमिद॑स्य व॒र्धय॒न्नभि॑न्ने खि॒ल्ये नि द॑धाति देव॒युम् ॥
 </details>
 
 </div>
@@ -23556,7 +22984,6 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 
 <details><summary>सायण-टीका</summary>
 
-
 'न ता अर्वा रेणुककाटोः' इति चतुर्थी । एतच्चोभयम् 'उत नः प्रिया' इत्यत्र व्याख्यातम् ॥
 </details>
 </details>
@@ -23616,16 +23043,6 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 उरुगाय᳓म् अ᳓भयं +++(स्थानं)+++ त᳓स्य ता᳓ अ᳓नु  
 गा᳓वो म᳓र्तस्य **वि᳓ चरन्ति** य᳓ज्वनः ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/028/04_na_tA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-न ता अर्वा॑ रे॒णुक॑काटो अश्नुते॒ न सं॑स्कृत॒त्रमुप॑ यन्ति॒ ता अ॒भि ।  
-उ॒रु॒गा॒यमभ॑यं॒ तस्य॒ ता अनु॒ गावो॒ मर्त॑स्य॒ वि च॑रन्ति॒ यज्व॑नः ॥
 </details>
 
 </div>
@@ -24061,16 +23478,6 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 भद्रं᳓ गृहं᳓ **कृणुथ** भद्र-वाचो  
 बृह᳓द् वो व᳓य+++(=अन्नं)+++ **उच्यते** सभा᳓सु ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/028/06_yUyaM_gAvo.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-यू॒यं गा॑वो मेदयथा कृ॒शं चि॑दश्री॒रं चि॑त्कृणुथा सु॒प्रती॑कम् ।  
-भ॒द्रं गृ॒हं कृ॑णुथ भद्रवाचो बृ॒हद्वो॒ वय॑ उच्यते स॒भासु॑ ॥
 </details>
 
 </div>
@@ -24531,10 +23938,6 @@ Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön vo
 
 
 
-
-
-
-
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/9_shukla-kRShNa-pashvAdi-mantrAH">
 <details open><summary><h4>०९ शुक्लकृष्णपश्वादीनां सूक्तानि ...{Loading}...</h4></summary>
 
@@ -24719,16 +24122,6 @@ Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön vo
 अस्मे᳓+++(=अस्मभ्यं)+++ सूर्याचन्द्रम᳓सा **ऽभिच᳓क्षे**+++(=कथयसि)+++  
 श्रद्धे᳓+++(=श्रद्धया)+++ क᳓म्+++(=सुखम्)+++ इन्द्र **चरतो** वि-तर्तुर᳓म्+++(=त्वरया)+++ ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/102/02_asya_shravo.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अ॒स्य श्रवो॑ न॒द्यः॑ स॒प्त बि॑भ्रति॒ द्यावा॒क्षामा॑ पृथि॒वी द॑र्श॒तं वपुः॑ ।  
-अ॒स्मे सू॑र्याचन्द्र॒मसा॑भि॒चक्षे॑ श्र॒द्धे कमि॑न्द्र चरतो वितर्तु॒रम् ॥
 </details>
 
 </div>
@@ -25440,16 +24833,6 @@ When I delighted you, O ye of golden hue.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/01_Apo_hi.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
-म॒हे रणा॑य॒ चक्ष॑से ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/01_Apo_hi.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -25723,9 +25106,8 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 ###### नासदीयम्
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam">
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/129_nAsadIyam/">
-
-<div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/_index.md">
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/_index.md">
+<details open><summary><h2>सर्वाष् टीकाः ...{Loading}...</h2></summary>
 <details><summary>सायण-भाष्यम्</summary>
 
 एकादशेऽनुवाके त्रयोविंशतिसंख्याकानि सूक्तानि। तत्र ‘नासदासीत्’ इति सप्तर्चं प्रथम सूक्तं त्रैष्टुभम्। परमेष्ठी नाम प्रजापतिर्ऋषिः। वियदादिभावानां सृष्टिस्थितिप्रलयादीनामत्र प्रतिपाद्यत्वात् तेषां कर्ता परमात्मा देवता। तथा चानुक्रान्तं- ‘नासत्सप्त प्रजापतिः, परमेष्ठी भाववृत्तं तु’ इति। गतो विनियोगः॥
@@ -25756,8 +25138,8 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 </div>
 
 ###### 01 नासदासीन्नो सदासीत्तदानीम् - त्रिष्टुप्
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
-<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 ना᳓सद् आसीन्, नो᳓ स᳓द् आसीत् तदा᳓नीम् ।  
 ना᳓सीद् र᳓जो, नो᳓ वि᳓ओमा परो᳓ य᳓त् ।  
@@ -25767,17 +25149,8 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 
 </details>
 </div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
-<details><summary><h7>मूलम् …{Loading}…</h7></summary>
-
-नास॑दासी॒न्नो सदा॑सीत्त॒दानीं॒ नासी॒द्रजो॒ नो व्यो॑मा प॒रो यत् ।  
-किमाव॑रीवः॒ कुह॒ कस्य॒ शर्म॒न्नम्भः॒ किमा॑सी॒द्गह॑नं गभी॒रम् ॥
-</details>
-</div>
-
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
-<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
+<details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -26165,8 +25538,8 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 </div>
 
 ###### 02 न मृत्युरासीदमृतम् - त्रिष्टुप्
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/02_na_mRtyurAsIdamRtaM.md">
-<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/02_na_mRtyurAsIdamRtaM.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 न᳓ मृत्यु᳓र्, अमृ᳓तं त᳓र्हि न᳓ ।  
 रा᳓त्रिया अ᳓ह्न आसीत् प्रकेतः᳓+++(=सङ्केतः [ज्योतींषि])+++ ।  
@@ -26175,17 +25548,8 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 
 </details>
 </div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/02_na_mRtyurAsIdamRtaM.md">
-<details><summary><h7>मूलम् …{Loading}…</h7></summary>
-
-न मृ॒त्युरा॑सीद॒मृतं॒ न तर्हि॒ न रात्र्या॒ अह्न॑ आसीत्प्रके॒तः ।  
-आनी॑दवा॒तं स्व॒धया॒ तदेकं॒ तस्मा॑द्धा॒न्यन्न प॒रः किं च॒नास॑ ॥
-</details>
-</div>
-
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/02_na_mRtyurAsIdamRtaM.md">
-<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/02_na_mRtyurAsIdamRtaM.md">
+<details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -26554,8 +25918,8 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 </div>
 
 ###### 03 तम आसीत्तमसा - त्रिष्टुप्
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/03_tama_AsIttamasA.md">
-<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/03_tama_AsIttamasA.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 त᳓म +++(→नाम-रूप-विभागानर्ह- सूक्ष्म-चिद्-अचित्-पिण्डम्)+++ आसीत्, त᳓मसा गूढ᳓म् अ᳓ग्रे प्रकेत᳓म् +++(=रहस्यम्)+++।  
 +++(यथा)+++ सलिलँ᳓ स᳓र्वम् आ इद᳓म् ।  
@@ -26564,17 +25928,8 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 
 </details>
 </div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/03_tama_AsIttamasA.md">
-<details><summary><h7>मूलम् …{Loading}…</h7></summary>
-
-तम॑ आसी॒त्तम॑सा गू॒ळ्हमग्रे॑ऽप्रके॒तं स॑लि॒लं सर्व॑मा इ॒दम् ।  
-तु॒च्छ्येना॒भ्वपि॑हितं॒ यदासी॒त्तप॑स॒स्तन्म॑हि॒नाजा॑य॒तैक॑म् ॥
-</details>
-</div>
-
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/03_tama_AsIttamasA.md">
-<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/03_tama_AsIttamasA.md">
+<details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -26915,8 +26270,8 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 </div>
 
 ###### 04 कामस्तदग्रे समवर्तताधि - त्रिष्टुप्
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/04_kAmastadagre_samavartatAdhi.md">
-<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/04_kAmastadagre_samavartatAdhi.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 का᳓मस् त᳓द् अ᳓ग्रे स᳓मवर्तता᳓धि +++(=आधिक्ये)+++।  
 म᳓नसो रे᳓तः प्रथमं᳓ य᳓द् आ᳓सीत् ।  
@@ -26925,17 +26280,8 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 
 </details>
 </div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/04_kAmastadagre_samavartatAdhi.md">
-<details><summary><h7>मूलम् …{Loading}…</h7></summary>
-
-काम॒स्तदग्रे॒ सम॑वर्त॒ताधि॒ मन॑सो॒ रेतः॑ प्रथ॒मं यदासी॑त् ।  
-स॒तो बन्धु॒मस॑ति॒ निर॑विन्दन्हृ॒दि प्र॒तीष्या॑ क॒वयो॑ मनी॒षा ॥
-</details>
-</div>
-
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/04_kAmastadagre_samavartatAdhi.md">
-<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/04_kAmastadagre_samavartatAdhi.md">
+<details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -27265,8 +26611,8 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 </div>
 
 ###### 05 तिरश्चीनो विततो - त्रिष्टुप्
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/05_tirashchIno_vitato.md">
-<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/05_tirashchIno_vitato.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 तिरश्ची᳓नो वि᳓ततो रश्मि᳓र् एषाम् ।  
 अध᳓स्विद् आसी᳓३द्; उप᳓रिस्विद् आसी३त् ।  
@@ -27275,17 +26621,8 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 
 </details>
 </div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/05_tirashchIno_vitato.md">
-<details><summary><h7>मूलम् …{Loading}…</h7></summary>
-
-ति॒र॒श्चीनो॒ वित॑तो र॒श्मिरे॑षाम॒धः स्वि॑दा॒सी३दु॒परि॑ स्विदासी३त् ।  
-रे॒तो॒धा आ॑सन्महि॒मान॑ आसन्त्स्व॒धा अ॒वस्ता॒त्प्रय॑तिः प॒रस्ता॑त् ॥
-</details>
-</div>
-
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/05_tirashchIno_vitato.md">
-<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/05_tirashchIno_vitato.md">
+<details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -27592,8 +26929,8 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 </div>
 
 ###### 06 को अद्धा - त्रिष्टुप्
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/06_ko_addhA.md">
-<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/06_ko_addhA.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 को᳓ अद्धा᳓ वेद क᳓ इह᳓ प्र᳓ वोचत्  
 कु᳓त आ᳓जाता कु᳓त इयं᳓ वि᳓सृष्टिः  
@@ -27601,17 +26938,8 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 अ᳓था को᳓ वेद य᳓त आबभू᳓व
 </details>
 </div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/06_ko_addhA.md">
-<details><summary><h7>मूलम् …{Loading}…</h7></summary>
-
-को अ॒द्धा वे॑द॒ क इ॒ह प्र वो॑च॒त्कुत॒ आजा॑ता॒ कुत॑ इ॒यं विसृ॑ष्टिः ।  
-अ॒र्वाग्दे॒वा अ॒स्य वि॒सर्ज॑ने॒नाथा॒ को वे॑द॒ यत॑ आब॒भूव॑ ॥
-</details>
-</div>
-
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/06_ko_addhA.md">
-<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/06_ko_addhA.md">
+<details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -27947,8 +27275,8 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 </div>
 
 ###### 07 इयं विसृष्थिर्यत - त्रिष्टुप्
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/07_iyaM_visRShTiryata.md">
-<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/07_iyaM_visRShTiryata.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 इयं᳓ वि᳓सृष्टिर् य᳓त आबभू᳓व ।  
 य᳓दि वा +++(स्वरूपं)+++ दधे᳓ य᳓दि वा न᳓ ।  
@@ -27957,17 +27285,8 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 
 </details>
 </div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/07_iyaM_visRShTiryata.md">
-<details><summary><h7>मूलम् …{Loading}…</h7></summary>
-
-इ॒यं विसृ॑ष्टि॒र्यत॑ आब॒भूव॒ यदि॑ वा द॒धे यदि॑ वा॒ न ।  
-यो अ॒स्याध्य॑क्षः पर॒मे व्यो॑म॒न्त्सो अ॒ङ्ग वे॑द॒ यदि॑ वा॒ न वेद॑ ॥
-</details>
-</div>
-
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/07_iyaM_visRShTiryata.md">
-<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/07_iyaM_visRShTiryata.md">
+<details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -28304,7 +27623,6 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 </details>
 </details>
 </div>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/081/04_kiM_svidvanaM.md">
@@ -28316,16 +27634,6 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 म᳓नीषिणो म᳓नसा **पृच्छ᳓ते᳓द्** उ त᳓द् -  
 य᳓द् **अध्य᳓तिष्ठद्** भु᳓वनानि **धार᳓यन्** ।  
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/081/04_kiM_svidvanaM.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-किं स्वि॒द्वनं॒ क उ॒ स वृ॒क्ष आ॑स॒ यतो॒ द्यावा॑पृथि॒वी नि॑ष्टत॒क्षुः ।  
-मनी॑षिणो॒ मन॑सा पृ॒च्छतेदु॒ तद्यद॒ध्यति॑ष्ठ॒द्भुव॑नानि धा॒रय॑न् ॥
 </details>
 
 </div>
@@ -31323,7 +30631,6 @@ Stets mögen uns die Morgenröthen leuchten die schönen, reich an Rossen, Rinde
 
 ## ३१ ‘अग्निर्नःपातु', …{Loading}…
 
-
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/1_nAxatrAdi/1_devanaxatrANAM_yAjyAnuvAkyAH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
@@ -32866,7 +32173,6 @@ _________________
 
 ## ३२ ‘ऋद्ध्यास्म', …{Loading}…
 
-
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/1_nAxatrAdi/2_yamanaxatrANAM_yAjyAnuvAkyAH/">
 <details open><summary><h4>२ यमनक्षत्राणां याज्यानुवाक्याः ...{Loading}...</h4></summary>
 
@@ -34363,6 +33669,7 @@ ________________
 ## ३३ 'नवोनवो भवति' …{Loading}…
 
 
+
 'नवोनवो भवति' इत्यनुवाकान्
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/1_nAxatrAdi/3_chAndramAsAdInAM_saptAnAmiShTInAM_yAjyAnuvAkyAH">
@@ -34386,16 +33693,6 @@ _______
 भागं᳓ +++(सोमपाभ्यो)+++ देवे᳓भ्यो **वि᳓ दधात्य् आय᳓न्**  
 प्र᳓ चन्द्र᳓मास् **तिरते**+++(=वर्धयति)+++ दीर्घ᳓म् आ᳓युः ॥१९
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/085/19_navonavo_bhavati.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-नवो॑नवो भवति॒ जाय॑मा॒नोऽह्नां॑ के॒तुरु॒षसा॑मे॒त्यग्र॑म् ।  
-भा॒गं दे॒वेभ्यो॒ वि द॑धात्या॒यन्प्र च॒न्द्रमा॑स्तिरते दी॒र्घमायुः॑ ॥
 </details>
 
 </div>
@@ -35021,16 +34318,6 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/050/01_udu_tyaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उदु॒ त्यं जा॒तवे॑दसं दे॒वं व॑हन्ति के॒तवः॑ ।  
-दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/01_udu_tyaM.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -35340,16 +34627,6 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 **आ᳓-प्रा**+++(←पूरणे)+++ द्या᳓वा-पृथिवी᳓ अन्त᳓रिक्षं  
 **सू᳓र्य** आत्मा᳓ ज᳓गतस् तस्थु᳓षश् च ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-चि॒त्रं दे॒वाना॒मुद॑गा॒दनी॑कं॒ चक्षु॑र्मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः ।  
-आप्रा॒ द्यावा॑पृथि॒वी अ॒न्तरि॑क्षं॒ सूर्य॑ आ॒त्मा जग॑तस्त॒स्थुष॑श्च ॥
 </details>
 
 </div>
@@ -35814,16 +35091,6 @@ Aditi, who giveth good protection and good guidance.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/022/17_idaM_viShNurvi.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-इ॒दं विष्णु॒र्वि च॑क्रमे त्रे॒धा नि द॑धे प॒दम् ।  
-समू॑ळ्हमस्य पांसु॒रे ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/17_idaM_viShNurvi.md">
 
 <details open><summary><h2>017 …{Loading}…</h2></summary>
@@ -36123,16 +35390,6 @@ Vischnu durchschritt die ganze Welt, trat dreimal nieder mit dem Fuss, An seinem
 य᳓स्योरु᳓षु त्रिषु᳓ विक्र᳓मणेष्व्  
 **अधिक्षिय᳓न्ति** भु᳓वनानि वि᳓श्वा ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/154/02_pra_tadviShNuH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-प्र तद्विष्णुः॑ स्तवते वी॒र्ये॑ण मृ॒गो न भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः ।  
-यस्यो॒रुषु॑ त्रि॒षु वि॒क्रम॑णेष्वधिक्षि॒यन्ति॒ भुव॑नानि॒ विश्वा॑ ॥
 </details>
 
 </div>
@@ -36480,16 +35737,6 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 प᳓तिः पृथिव्या᳓ अय᳓म् ।  
 अपां᳓ **रे᳓तांसि जिन्वति**+++(=प्रीणयति)+++ ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/044/16_agnirmUrdhA_divaH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अ॒ग्निर्मू॒र्धा दि॒वः क॒कुत्पतिः॑ पृथि॒व्या अ॒यम् ।  
-अ॒पां रेतां॑सि जिन्वति ॥
 </details>
 
 </div>
@@ -36953,7 +36200,6 @@ Lengthen our days for us.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../34_agnaye_svAhA_kRttikAbhyaH_svAhAH_ityAdyupahomAn/">
 
 ## ३४ ‘अग्नये स्वाहा कृत्तिकाभ्यः स्वाहाः' …{Loading}…
-
 
 ‘अग्नये स्वाहा कृत्तिकाभ्यः स्वाहाः' इत्याद्युपहोमान्
 
@@ -37866,6 +37112,7 @@ Lengthen our days for us.
 ## ३७ वारुणम् …{Loading}…
 
 
+
 'उदुत्तमं वरुण’, ‘अस्तभ्नाद् द्यां’, ‘यत्किञ्चेदं’, ‘कितवासो', ‘अवते हेडः,' 'तत्त्वायामि' इति वरुण-सूक्तं
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/04_vAruNam">
@@ -37899,16 +37146,6 @@ Lengthen our days for us.
 अ᳓वाधमं᳓ वि᳓ मध्यमं᳓ श्रथाय  
 अ᳓था वय᳓म् आदितिय व्रते᳓ त᳓व  
 अ᳓नागसो अ᳓दितये सियाम
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/024/15_uduttamaM_varuNa.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उदु॑त्त॒मं व॑रुण॒ पाश॑म॒स्मदवा॑ध॒मं वि म॑ध्य॒मं श्र॑थाय ।  
-अथा॑ व॒यमा॑दित्य व्र॒ते तवाना॑गसो॒ अदि॑तये स्याम ॥
 </details>
 
 </div>
@@ -38351,16 +37588,6 @@ All these are Varuna's ordinances.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/089/05_yatkiM_chedaM.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-यत्किं चे॒दं व॑रुण॒ दैव्ये॒ जने॑ऽभिद्रो॒हं म॑नु॒ष्या॒३॒॑श्चरा॑मसि ।  
-अचि॑त्ती॒ यत्तव॒ धर्मा॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो देव रीरिषः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/089/05_yatkiM_chedaM.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -38689,16 +37916,6 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 स᳓र्वा ता᳓ वि᳓ष्य+++(=विनाशय)+++ शिथिरे᳓व+++(=शिथिला +इव)+++  
 देवा᳓था ते स्याम वरुण प्रिया᳓सः ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/085/08_kitavAso_yadriripurna.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-कि॒त॒वासो॒ यद्रि॑रि॒पुर्न दी॒वि यद्वा॑ घा स॒त्यमु॒त यन्न वि॒द्म ।  
-सर्वा॒ ता वि ष्य॑ शिथि॒रेव॑ दे॒वाधा॑ ते स्याम वरुण प्रि॒यासः॑ ॥
 </details>
 
 </div>
@@ -39127,16 +38344,6 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/024/14_ava_te.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-अव॑ ते॒ हेळो॑ वरुण॒ नमो॑भि॒रव॑ य॒ज्ञेभि॑रीमहे ह॒विर्भिः॑ ।  
-क्षय॑न्न॒स्मभ्य॑मसुर प्रचेता॒ राज॒न्नेनां॑सि शिश्रथः कृ॒तानि॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/024/14_ava_te.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -39479,16 +38686,6 @@ O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspen
 अ᳓हेळमानो +++(=अक्रुध्यन्)+++ वरुणेह᳓ **बोध्य्** उ᳓रुशंस  
 मा᳓ न आ᳓युः **प्र᳓ मोषीः** ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/024/11_tattvA_yAmi.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-तत्त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्तदा शा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
-अहे॑ळमानो वरुणे॒ह बो॒ध्युरु॑शंस॒ मा न॒ आयुः॒ प्र मो॑षीः ॥
 </details>
 
 </div>
@@ -40397,16 +39594,6 @@ When I delighted you, O ye of golden hue.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/01_Apo_hi.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
-म॒हे रणा॑य॒ चक्ष॑से ॥
-</details>
-
-</div>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
@@ -40699,16 +39886,6 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/02_yo_vaH.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ ।  
-उ॒श॒तीरि॑व मा॒तरः॑ ॥
-</details>
-
-</div>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
@@ -40961,16 +40138,6 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 आ᳓पो +++(प्रजा)+++ **जन᳓यथा** च नः ॥  
 +++(`चादिषु` च इति न स्वर-निघातः। )+++
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/03_tasmA_araM.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ ।  
-आपो॑ ज॒नय॑था च नः ॥
 </details>
 
 </div>
@@ -41629,16 +40796,6 @@ When I delighted you, O ye of golden hue.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/01_Apo_hi.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
-म॒हे रणा॑य॒ चक्ष॑से ॥
-</details>
-
-</div>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
@@ -41931,16 +41088,6 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/02_yo_vaH.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ ।  
-उ॒श॒तीरि॑व मा॒तरः॑ ॥
-</details>
-
-</div>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
@@ -42193,16 +41340,6 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 आ᳓पो +++(प्रजा)+++ **जन᳓यथा** च नः ॥  
 +++(`चादिषु` च इति न स्वर-निघातः। )+++
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/03_tasmA_araM.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ ।  
-आपो॑ ज॒नय॑था च नः ॥
 </details>
 
 </div>
@@ -42622,7 +41759,6 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 ## ४० ‘तच्छंयोः' इत्यनुवाकान्, …{Loading}…
 
-
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/11_shaMyu-vAkaH_tach_ChaMyoH">
 <details open><summary><h4>११ शंयुवाकः ...{Loading}...</h4></summary>
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -42725,7 +41861,6 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 ## ४१ 'यो ब्रह्मा ब्रह्मणः' …{Loading}…
 
-
 'यो ब्रह्मा ब्रह्मण' इति घृतसूक्तं च जपित्वा, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantrAdi/AyuShya-ghRta-sUktam__yo_brahmA">
@@ -42752,7 +41887,6 @@ video - [TW](/conversations/YT/shAnkaras/2026-04-25_shankara_on_viShNu_Aditya) �
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो +++(बृंहणाद्)+++ ब्रह्मा +++(रुद्रः)+++ **ब्रह्मण +++(→प्राणैः/ शिरः)+++ उज्जहार**  
@@ -42772,7 +41906,6 @@ video - [TW](/conversations/YT/shAnkaras/2026-04-25_shankara_on_viShNu_Aditya) �
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
-
 
 ![](../../../../../../../../../../baudhAyanaH/gRhyam/mantrAdi/images/ArdrA_mRga-shiraH_iNvakAH_kRttikAH.jpg)
 {caption="" class="thumbnail"}
@@ -42824,7 +41957,6 @@ _________________
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आर्द्रा-रूपेण)+++ **विभ्राजमानः** सरिरस्य+++(=सलिलस्य [आकाशगङ्गायाः])+++ मध्याद्  
@@ -42855,7 +41987,6 @@ _________________
 घर्मरुचिः अत्य्-उष्ण-दीधितिः। 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -42888,7 +42019,6 @@ _________________
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(विष्णु-पत्नीं)+++ श्रियं लक्ष्मीम्, +++(रुद्र-पत्नीं)+++ औपलाम्+++(=शैल-सम्बन्धिनीम् ←उपल शिला)+++ अम्बिकां, +++(ब्रह्म-पत्नीं)+++ गां,  
@@ -42917,7 +42047,6 @@ _________________
 ब्रह्मयोनिं विद्यात् - निरुक्त-देवता-प्रतिपादक- वेदाधिदेवतां इहायुषे वर्धयामो घृतेनेत्यन्वयः ।  
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -42982,7 +42111,6 @@ _________________
 अत एवोत्तर-तापनीये एकः पुरस्ताद् इत्यारभ्य साम्पराय इत्यन्त-नृसिंहपरत्वेन पठितमित्याहुः । 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

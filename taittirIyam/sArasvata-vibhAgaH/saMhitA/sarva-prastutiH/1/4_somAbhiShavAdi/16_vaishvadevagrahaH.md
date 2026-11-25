@@ -25,18 +25,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/003/07_omAsashcharShaNIdhRto_vishve.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-ओमा॑सश्चर्षणीधृतो॒ विश्वे॑ देवास॒ आ ग॑त ।  
-दा॒श्वांसो॑ दा॒शुषः॑ सु॒तम् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/003/07_omAsashcharShaNIdhRto_vishve.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वे देवाः
@@ -93,7 +82,12 @@ dāśvā́ṁsaḥ ← dāśváṁs- (nominal stem)
 
 sutám ← √su- (root)  
 {case:ACC, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओमा॑सश्चर्षणीधृतो॒ विश्वे॑ देवास॒ आ ग॑त ।  
+दा॒श्वांसो॑ दा॒शुषः॑ सु॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +160,6 @@ _________
 - “Soma.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -254,7 +247,6 @@ Vereint, o menschenschirmende, ihr Götter alle, kommt herbei, Ihr frommen, in d
 - गायत्री
 - षड्जः
 </details>
-
 </div>
 
 _______

@@ -849,18 +849,7 @@ Agni through the hymn which brings (him).
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/098/02_pRShTo_divi.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-पृ॒ष्टो दि॒वि पृ॒ष्टो अ॒ग्निः पृ॑थि॒व्यां पृ॒ष्टो विश्वा॒ ओष॑धी॒रा वि॑वेश ।  
-वै॒श्वा॒न॒रः सह॑सा पृ॒ष्टो अ॒ग्निः स नो॒ दिवा॒ स रि॒षः पा॑तु॒ नक्त॑म् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/098/02_pRShTo_divi.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निर्वैश्वानरो वा
@@ -952,7 +941,12 @@ sá ← sá- ~ tá- (pronoun)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पृ॒ष्टो दि॒वि पृ॒ष्टो अ॒ग्निः पृ॑थि॒व्यां पृ॒ष्टो विश्वा॒ ओष॑धी॒रा वि॑वेश ।  
+वै॒श्वा॒न॒रः सह॑सा पृ॒ष्टो अ॒ग्निः स नो॒ दिवा॒ स रि॒षः पा॑तु॒ नक्त॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1097,7 +1091,6 @@ _________
 - “night; night.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1226,7 +1219,6 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 
 भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. माणसांनी विद्वानांजवळ जाऊन ईश्वर व विद्युत इत्यादी अग्नीच्या गुणांना जाणून ईश्वराची उपासना व अग्नीपासून उपयोग करून घ्यावा तसेच हिंसा करू नये. ॥ २ ॥
 </details>
-
 </div>  
 
 ## अनुमतिः, अनिः
@@ -1418,18 +1410,7 @@ With what to us radiant shall he be?
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/031/01_kayA_nashchitra.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-कया॑ नश्चि॒त्र आ भु॑वदू॒ती स॒दावृ॑धः॒ सखा॑ ।  
-कया॒ शचि॑ष्ठया वृ॒ता ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/031/01_kayA_nashchitra.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1489,7 +1470,12 @@ káyā ← ká- (pronoun)
 
 vr̥tā́ ← vŕ̥t- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कया॑ नश्चि॒त्र आ भु॑वदू॒ती स॒दावृ॑धः॒ सखा॑ ।  
+कया॒ शचि॑ष्ठया वृ॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1567,7 +1553,6 @@ _________
 - \[noun\], instrumental, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1670,7 +1655,6 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 
 भावार्थभाषाः -  हे राजा! आमच्याबरोबर असे वाग की ज्यामुळे आमचे प्रेम वाढावे. ॥ १ ॥ ००
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1714,16 +1698,6 @@ Who to-day yoketh?
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/084/16_ko_adya.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-को अ॒द्य यु॑ङ्क्ते धु॒रि गा ऋ॒तस्य॒ शिमी॑वतो भा॒मिनो॑ दुर्हृणा॒यून् ।  
-आ॒सन्नि॑षून्हृ॒त्स्वसो॑ मयो॒भून्य ए॑षां भृ॒त्यामृ॒णध॒त्स जी॑वात् ॥
-</details>
-
-</div>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
@@ -1736,7 +1710,6 @@ He who attaineth their service shall live.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/16_ko_adya.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1819,7 +1792,12 @@ sá ← sá- ~ tá- (pronoun)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को अ॒द्य यु॑ङ्क्ते धु॒रि गा ऋ॒तस्य॒ शिमी॑वतो भा॒मिनो॑ दुर्हृणा॒यून् ।  
+आ॒सन्नि॑षून्हृ॒त्स्वसो॑ मयो॒भून्य ए॑षां भृ॒त्यामृ॒णध॒त्स जी॑वात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1940,7 +1918,6 @@ _________
 - “survive; be; exist; live on; dwell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2048,7 +2025,6 @@ Wer schirrt ans Joch des Opfers heut die Stiere, die kräftig sind, voll regen E
 
 भावार्थभाषाः -  सर्वांचा अध्यक्ष असलेल्या राजाने सर्वांना प्रत्यक्ष आज्ञा द्यावी. सर्व सेना व प्रजेतील पुरुषांना सत्याचरणात नियुक्त करावे. त्यांची जीविका वाढवून स्वतः दीर्घकाळ जिवंत राहावे. ॥ १६ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

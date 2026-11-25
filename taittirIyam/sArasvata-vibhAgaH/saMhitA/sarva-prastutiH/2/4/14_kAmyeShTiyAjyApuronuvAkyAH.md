@@ -37,18 +37,7 @@ The moon extendeth length of days.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/085/19_navonavo_bhavati.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-नवो॑नवो भवति॒ जाय॑मा॒नोऽह्नां॑ के॒तुरु॒षसा॑मे॒त्यग्र॑म् ।  
-भा॒गं दे॒वेभ्यो॒ वि द॑धात्या॒यन्प्र च॒न्द्रमा॑स्तिरते दी॒र्घमायुः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/085/19_navonavo_bhavati.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - चन्द्रमाः
@@ -131,7 +120,12 @@ prá ← prá (invariable)
 
 tirate ← √tr̥̄- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नवो॑नवो भवति॒ जाय॑मा॒नोऽह्नां॑ के॒तुरु॒षसा॑मे॒त्यग्र॑म् ।  
+भा॒गं दे॒वेभ्यो॒ वि द॑धात्या॒यन्प्र च॒न्द्रमा॑स्तिरते दी॒र्घमायुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -269,7 +263,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -305,7 +298,6 @@ _________
 
 यद्वा - आदित्य एव चन्द्रमा उच्यते, चन्द्रस्य माता निर्माता उत्पादक इति । 'गतिकारकयोरपि' इत्यसिः, डित्वाट्टिलोपः । स जायमानो दिनेदिने प्राच्यामुद्यन् नवोनवो भवति सदोद्यन्नप्यपूर्व इव भवति । अह्नां केतुः दिवसकरत्वात् । उषसां रात्रीणां अग्रे अग्रतो गच्छति रात्रय एनमनुधावन्ति । एवमायन् उद्यन् देवेभ्यो भागं विदधाति, आदित्यगत्यधीनत्वात्सर्वकर्मणाम् । एवं महानुभावश्चन्द्रमसोप्युक्तवन्निर्माता आदित्यः दीर्घमायुर्वर्धयत्विति ॥
 _______________________
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -378,7 +370,6 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 पदार्थान्वयभाषाः -  (चन्द्रमाः-नवः-नवः-जायमानः-भवति) चन्द्रमाः खलु प्रतिरात्रि नवो नवः कलाश उद्यन् भवति (अह्नां केतुः-उषसाम्-अग्रम्-एति) दिवसानामुषसां च प्रज्ञानभूतोऽग्रमेति कृष्णपक्षे (देवेभ्यः-भागं विदधाति) उद्यन् देवेभ्यो यागकालसूचनया हविर्भागं समर्पयति (दीर्घम्-आयुः प्रतिरते) एवमुपयोगेन दीर्घमायुर्वर्धयति इति चन्द्रपक्षे निरुक्तमनुसृत्याधिदैविकोऽर्थः॥ प्रस्तुतगृहस्थपक्षे तु−(जायमानः) पुत्ररूपेणोत्पद्यमानः (नवः-नवः-भवति) नवो नवः पुत्ररूपो भवति (अह्नाम्-उषसां-केतुः-अग्रम्-एति) प्रतिदिनं प्रत्युषोवेलं च साक्षाद्भूतोऽग्रमेव गच्छति (आयन्) गृहाश्रममागच्छन्नेव (देवेभ्यः-भागं विदधाति) विद्वद्भ्योऽग्निप्रभृतिभ्यश्च भोजनभागं हविर्भागं च नियतं करोति (चन्द्रमाः-दीर्घम्-आयुः प्रतिरते) स्वजीवने खल्वाह्लादकारी सन् दीर्घमायुर्वर्धयति ॥१९॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -584,18 +575,7 @@ Boisterous and brave, waxeth great for the conflict.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/061/09_asyedeva_pra.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अ॒स्येदे॒व प्र रि॑रिचे महि॒त्वं दि॒वस्पृ॑थि॒व्याः पर्य॒न्तरि॑क्षात् ।  
-स्व॒राळिन्द्रो॒ दम॒ आ वि॒श्वगू॑र्तः स्व॒रिरम॑त्रो ववक्षे॒ रणा॑य ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/061/09_asyedeva_pra.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -681,7 +661,12 @@ svaríḥ ← svarí- (nominal stem)
 
 vavakṣe ← √vakṣ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्येदे॒व प्र रि॑रिचे महि॒त्वं दि॒वस्पृ॑थि॒व्याः पर्य॒न्तरि॑क्षात् ।  
+स्व॒राळिन्द्रो॒ दम॒ आ वि॒श्वगू॑र्तः स्व॒रिरम॑त्रो ववक्षे॒ रणा॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -817,7 +802,6 @@ _________
 - “battle; fight; pleasure; joy; war; combat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -943,7 +927,6 @@ Es überragte wahrlich seine Grösse die weite Luft, den Himmel und die Erde; Se
 
 भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. जसा सूर्य पृथ्वी इत्यादीपेक्षा गुण व परिमाण यांनी अधिक असतो तसेच उत्तम गुणयुक्त सभा इत्यादीच्या अधिपती राजाला अधिकार देऊन माणसांनी सर्व कार्याची सिद्धी केली पाहिजे. ॥ ९ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -975,16 +958,6 @@ Lord [2] of this moving world, seeing the heavenly light,
 Lord, O Indra, of what standeth.
 </details>
 </details>
-
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/032/22_abhi_tvA.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-अ॒भि त्वा॑ शूर नोनु॒मोऽदु॑ग्धा इव धे॒नवः॑ ।  
-ईशा॑नम॒स्य जग॑तः स्व॒र्दृश॒मीशा॑नमिन्द्र त॒स्थुषः॑ ॥
-</details>
-
-</div>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/032/22_abhi_tvA.md">
 
@@ -1059,7 +1032,12 @@ indra ← índra- (nominal stem)
 
 tasthúṣaḥ ← √sthā- (root)  
 {case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि त्वा॑ शूर नोनु॒मोऽदु॑ग्धा इव धे॒नवः॑ ।  
+ईशा॑नम॒स्य जग॑तः स्व॒र्दृश॒मीशा॑नमिन्द्र त॒स्थुषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1162,7 +1140,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1310,18 +1287,7 @@ On thee in the racing of the horse.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/046/01_tvAmiddhi_havAmahe.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-त्वामिद्धि हवा॑महे सा॒ता वाज॑स्य का॒रवः॑ ।  
-त्वां वृ॒त्रेष्वि॑न्द्र॒ सत्प॑तिं॒ नर॒स्त्वां काष्ठा॒स्वर्व॑तः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/046/01_tvAmiddhi_havAmahe.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1395,7 +1361,12 @@ kā́ṣṭhāsu ← kā́ṣṭhā- (nominal stem)
 
 tvā́m ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वामिद्धि हवा॑महे सा॒ता वाज॑स्य का॒रवः॑ ।  
+त्वां वृ॒त्रेष्वि॑न्द्र॒ सत्प॑तिं॒ नर॒स्त्वां काष्ठा॒स्वर्व॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1496,7 +1467,6 @@ _________
 - “horse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1535,10 +1505,8 @@ obstacles, you at the finish lines of our steed,
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/01-02.md">
-<details open><summary><h7>01-02 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 Although the presence of hí, with its generally causal value, is often a puzzle when it appears in the first pāda of a hymn, this one helps signal the conceptual unity of this opening tṛca, with vs. 1 providing the various circumstances under which we call upon Indra and vs. 2 containing the contents of our latest address to the god -- a call for additional generosity from him.
 
@@ -1547,10 +1515,9 @@ The poet plays with the 2nd sg. pronoun. Historically -- and usually synchronica
 tvā́m is monosyllabic, with occasional distraction to two syllables in analogy to the nom. But here the 1st vs. has three distracted acc. sg. t u vā́m, prominently pāda-initial (a, c, d), while the nom. sg. at the beginning of the 2nd vs. is monosyllabic. To match disyllabic t u vā́m, in 2a the two syllables are filled out by the addition of the pleonastic+++(=redundant)+++ sá (#sá tvám), which is syntactically at home as subject marker of the 2nd sg. impv.
 
 kira (see my 1992 “Vedic ‘sá figé’: An inherited sentence connective?”). Since sá in such contexts is unnecessary, its presence draws attention to the metrical interchange between the nom. and acc. of the pronoun here.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -1633,7 +1600,6 @@ Dich rufen ja wir Sänger an, um zu gewinnen Siegespreis, Die Männer dich, den 
 
 बृहत्सामेत्यस्या गानं प्रसिद्धम्! "बृहत्साम तथा साम्नां गायत्री छन्दसामहम् ।"
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1668,18 +1634,7 @@ Nor the two worlds.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/070/05_yaddyAva_indra.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-यद्द्याव॑ इन्द्र ते श॒तं श॒तं भूमी॑रु॒त स्युः ।  
-न त्वा॑ वज्रिन्त्स॒हस्रं॒ सूर्या॒ अनु॒ न जा॒तम॑ष्ट॒ रोद॑सी ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/070/05_yaddyAva_indra.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1765,7 +1720,12 @@ ná ← ná (invariable)
 
 ródasī ← ródasī- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्द्याव॑ इन्द्र ते श॒तं श॒तं भूमी॑रु॒त स्युः ।  
+न त्वा॑ वज्रिन्त्स॒हस्रं॒ सूर्या॒ अनु॒ न जा॒तम॑ष्ट॒ रोद॑सी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1896,7 +1856,6 @@ _________
 - “heaven and earth; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1994,7 +1953,6 @@ Wenn, Indra, hundert Himmel dir und hundert Erden wären auch, So fassten tausen
 
 पदार्थान्वयभाषाः -  हे पुरुहन्मन् ! हे ईश्वरोपासक ! पुरून्=बहून् हन्ति दुष्टान् दण्डयति इति पुरुहा। तं यो मन्यते स्तौति स पुरुहन्मा। तमिन्द्रम्। शुम्भ=स्तुत्यादिभिर्भूषय। कस्मै प्रयोजनाय। अवसे=रक्षणाय। यस्य=यस्मिन् इन्द्रे। विधर्तरि=विशेषेण धातरि। द्विता=द्वित्वं निग्रहानुग्रहत्वरूपम्। अतएव। हस्ताय=हस्ते। यस्य। वज्रः। प्रति+धायि=प्रतिहितः। यो दर्शतः=दर्शनीयः। महः=तेजोरूपः। पुनः। दिवे=दिवि प्रकाशमानः। सूर्य्यो न=सूर्य्य इव ॥२॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2026,16 +1984,6 @@ Drink the Soma, O Indra; let it gladden thee,
 Through the arms of the presser [3], like a horse well guided hath expressed.
 </details>
 </details>
-
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/022/01_pibA_somamindra.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-पिबा॒ सोम॑मिन्द्र॒ मन्द॑तु त्वा॒ यं ते॑ सु॒षाव॑ हर्य॒श्वाद्रिः॑ ।  
-सो॒तुर्बा॒हुभ्यां॒ सुय॑तो॒ नार्वा॑ ॥
-</details>
-
-</div>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/022/01_pibA_somamindra.md">
 
@@ -2111,7 +2059,12 @@ sotúḥ ← sotár- (nominal stem)
 
 súyataḥ ← súyata- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पिबा॒ सोम॑मिन्द्र॒ मन्द॑तु त्वा॒ यं ते॑ सु॒षाव॑ हर्य॒श्वाद्रिः॑ ।  
+सो॒तुर्बा॒हुभ्यां॒ सुय॑तो॒ नार्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2217,7 +2170,6 @@ _________
 - “horse; arvan \[word\]; racehorse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2358,18 +2310,7 @@ Wherewith we may rejoice in food.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/030/13_revatIrnaH_sadhamAda.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-रे॒वती॑र्नः सध॒माद॒ इन्द्रे॑ सन्तु तु॒विवा॑जाः ।  
-क्षु॒मन्तो॒ याभि॒र्मदे॑म ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/030/13_revatIrnaH_sadhamAda.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2423,7 +2364,12 @@ mádema ← √mad- (root)
 
 yā́bhiḥ ← yá- (pronoun)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रे॒वती॑र्नः सध॒माद॒ इन्द्रे॑ सन्तु तु॒विवा॑जाः ।  
+क्षु॒मन्तो॒ याभि॒र्मदे॑म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2494,7 +2440,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2609,7 +2554,6 @@ Reich sei uns an Gut und Nahrung jedes Mahl, dem Indra beiwohnt, Das wir labungs
 
 भावार्थभाषाः -  येथे वाचकलुप्तोपमालंकार आहे. माणसांनी सभाध्यक्ष सेनाध्यक्षासहित सभेमध्ये सर्व राज्य विद्या व धर्माचा प्रचार करणारे कार्य करून सर्व सुख भोगावे व भोगवावे. वेदाच्या आज्ञेप्रमाणे एकसारखे रूप, स्वभाव, विद्या असणाऱ्या तरुण स्त्री-पुरुषांनी परस्पर इच्छेने स्वयंवर विधान करून विवाह करणे योग्य आहे. त्यांनी आपल्या घराच्या कामात साह्य करून एकमेकांचा सत्कार करण्याचा प्रयत्न करावा. ईश्वराची उपासना व आज्ञा पाळण्यात तसेच सत्पुरुषांच्या आज्ञा पाळण्यात तत्पर असावे. वरील व्यवहाराविरुद्ध कोणत्याही स्त्री-पुरुषाने कधी वागू नये. ॥ १३ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2639,18 +2583,7 @@ O Agni, thy pure.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/044/17_udagne_shuchayastava.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उद॑ग्ने॒ शुच॑य॒स्तव॑ शु॒क्रा भ्राज॑न्त ईरते ।  
-तव॒ ज्योतीं॑ष्य॒र्चयः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/044/17_udagne_shuchayastava.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -2707,7 +2640,12 @@ jyótīṁṣi ← jyótis- (nominal stem)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद॑ग्ने॒ शुच॑य॒स्तव॑ शु॒क्रा भ्राज॑न्त ईरते ।  
+तव॒ ज्योतीं॑ष्य॒र्चयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2781,7 +2719,6 @@ _________
 - “flare.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2878,7 +2815,6 @@ Es steigen deine Flammen auf, die lichten, hellen, strahlenden, O Agni, deiner L
 
 पदार्थान्वयभाषाः -  हे मित्रमहः=मित्रैर्जीवैः पूजनीय अग्ने ईश ! शुक्रेण=शुद्धेन। शोचिषा=तेजसा युक्तः। स त्वम्। देवैरस्माकमिन्द्रियैः सह। नोऽस्माकम्। बर्हिषि=हृदयासने। आ सत्सि=आसीद=उपविश ॥१४॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2923,18 +2859,7 @@ With the light.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/002/09_vi_jyotiShA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-वि ज्योति॑षा बृह॒ता भा॑त्य॒ग्निरा॒विर्विश्वा॑नि कृणुते महि॒त्वा ।  
-प्रादे॑वीर्मा॒याः स॑हते दु॒रेवाः॒ शिशी॑ते॒ शृङ्गे॒ रक्ष॑से वि॒निक्षे॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/09_vi_jyotiShA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -3017,7 +2942,12 @@ rákṣase ← rákṣas- (nominal stem)
 
 viníkṣe ← √nikṣ- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि ज्योति॑षा बृह॒ता भा॑त्य॒ग्निरा॒विर्विश्वा॑नि कृणुते महि॒त्वा ।  
+प्रादे॑वीर्मा॒याः स॑हते दु॒रेवाः॒ शिशी॑ते॒ शृङ्गे॒ रक्ष॑से वि॒निक्षे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3146,7 +3076,6 @@ _________
 - \[verb noun\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3171,7 +3100,6 @@ ________________
 किञ्च - शृङ्गे शृङ्गस्थानीये आत्मीये प्रधाने ज्वाले शत्रूणां वा हिंसके शिशीते तीक्ष्णीकुर्यात् । किमर्थम्? रक्षसे विनिक्षे रक्षसो विनाशार्थं ज्वालाभ्यां निक्षणं चुम्बनं शोधनं वा विनाशोवेति स एव महानुभावोग्निरनुगमनदोषमुपशमय्यात्मनः परापतितं ज्योतिरवरुन्ध इति ॥
 _______________
 अयमग्निः बृहता ज्योतिषा विभाति विविधं भाति, विश्वानि च महित्वा माहात्म्यानि आविष्कृणुते आविष्करोति । अदेवीः अदेवन शीलाश्च दुरेवाः दुःखेन गन्तव्या मायाः प्रसहते प्रकर्षेणाभिभवतु । किं च – शृङ्गे गोशृङ्गस्थानीये ज्वाले शिशीते निशितीकरोति । किमर्थं? रक्षसो विनाशार्थमिति ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -3272,7 +3200,6 @@ Mit hellem Glanze strahlet weithin Agni, in Herrlichkeit macht alles offenbar er
 
 भावार्थभाषाः -  भावार्थ -या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा सूर्य अंधकाराचे निवारण करून प्रकाश उत्पन्न करतो व भयाचे निवारण करतो तसेच विद्वान लोक गाढ अज्ञानाचे निवारण करून विद्यारूपी सूर्य उत्पन्न करून सर्व आत्म्यांमध्ये प्रकाश करवितात. ॥ ९ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -3316,18 +3243,7 @@ Thee, Jatavedas.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/050/01_udu_tyaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उदु॒ त्यं जा॒तवे॑दसं दे॒वं व॑हन्ति के॒तवः॑ ।  
-दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/01_udu_tyaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -3384,7 +3300,12 @@ sū́ryam ← sū́rya- (nominal stem)
 
 víśvāya ← víśva- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॒ त्यं जा॒तवे॑दसं दे॒वं व॑हन्ति के॒तवः॑ ।  
+दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3460,7 +3381,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3481,7 +3401,6 @@ ____________
 **त्यं** तं इमं **देवं जातवेदसं** जातप्रज्ञं जातानां वेदितारं **केतवो** रश्मय **उद्वहन्ति** ऊर्ध्वं वहन्ति **दृशे** द्रष्टुं **विश्वाय** विश्वार्थं, विश्वो लोको यथैनं पश्येदिति ।
 ___________
 देवं सूर्यं जातवेदसं जातानां वेदितारं देवं केतवो रश्मयः उद्वहन्ति विस्वस्य लोकस्य दृशे दर्शनार्थमिति ॥
-
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -3600,7 +3519,6 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 
 भावार्थभाषाः -  धार्मिक माता पिता इत्यादी विद्वान लोकांनी जसे घोडे रथाला व किरणे सूर्याला वहन करतात तसेच विद्या व धर्माने प्रकाशित असलेल्या त्यांच्या सारख्याच स्त्रियांशी पुरुषांचा विवाह करवावा. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -3646,18 +3564,7 @@ With hair of light, O wise one.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/050/08_sapta_tvA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-स॒प्त त्वा॑ ह॒रितो॒ रथे॒ वह॑न्ति देव सूर्य ।  
-शो॒चिष्के॑शं विचक्षण ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/08_sapta_tvA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -3711,7 +3618,12 @@ váhanti ← √vah- (root)
 
 vicakṣaṇa ← vicakṣaṇá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒प्त त्वा॑ ह॒रितो॒ रथे॒ वह॑न्ति देव सूर्य ।  
+शो॒चिष्के॑शं विचक्षण ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3778,7 +3690,6 @@ _________
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3814,19 +3725,13 @@ Sapta **haritaḥ** = seven rays; seven horses = seven days of the week; or, is 
 Seven fallow bay mares convey you, the flame-haired, in your chariot— o wide-gazing god Sun.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The reassignment of Agni epithets continues in this verse: śocíṣkeśa- ‘flamehaired’ is otherwise only of Agni.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/050/08-09.md">
-<details open><summary><h7>08-09 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 I assume that the seven mares of vs. 8 are the same as the sleek daughters (śundhyúvaḥ … naptyàḥ) (or granddaughters) of the chariot, but I do not know why the rare word naptī́- is used of them. Thieme (KlSch: 220), on the basis of śundhyúvaḥ, thinks they are wild geese (“…hat sich sieben Wildgänse als Tochter des Wagens angeschirrt”), but this seems to introduce an unnecessary complication since śundhyú- can be taken in its literal meaning.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -3903,7 +3808,6 @@ Es fahren sieben Stuten dich, o Sonnengott, weitschauender, Im Wagen dich lichth
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे माणसांनो ! जसे किरणांशिवाय सूर्याचे दर्शन होऊ शकत नाही. तसेच वेदांना ठीक ठीक जाणल्याशिवाय परमेश्वराचे दर्शन होऊ शकत नाही, हे निश्चयपूर्वक जाणावे. ॥ ८ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -3944,18 +3848,7 @@ Surya is the soul of that which moveth and standeth [4].
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-चि॒त्रं दे॒वाना॒मुद॑गा॒दनी॑कं॒ चक्षु॑र्मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः ।  
-आप्रा॒ द्यावा॑पृथि॒वी अ॒न्तरि॑क्षं॒ सूर्य॑ आ॒त्मा जग॑तस्त॒स्थुष॑श्च ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -4038,7 +3931,12 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 tasthúṣaḥ ← √sthā- (root)  
 {case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चि॒त्रं दे॒वाना॒मुद॑गा॒दनी॑कं॒ चक्षु॑र्मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः ।  
+आप्रा॒ द्यावा॑पृथि॒वी अ॒न्तरि॑क्षं॒ सूर्य॑ आ॒त्मा जग॑तस्त॒स्थुष॑श्च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4159,7 +4057,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -4178,7 +4075,6 @@ _________
 
 _____________
 चित्रं चायनीयं सर्वलोकपूजितं देवानां रश्मीनामिन्द्रादीनां वा ऋत्विजां अनीकं मुखस्थानीयं समूहस्थानीयं वा उदगादुद्गच्छति सर्वात्मकसमष्टिरूपत्वात् । किं च – चक्षुस्थानीयं ख्यातिकरं वा मित्रादीनां । अयं देवो द्यावापृथिवी द्यावापृथिव्यौ अन्तरिक्षं च आप्राः आ (प्रागाः) पूरयति तेजसा । प्रा पूरणे, पूरुषव्यत्ययः । जगतः जङ्गमस्य सर्वस्य तस्थुषः स्थावरस्य सर्वस्यात्मा सूर्यः एकः प्रेरको वा सर्वस्य तस्मादात्मा ; सर्वोपकारकत्वात् । यद्वा - 'स यश्चायं पूरुषे । यश्चासावादित्ये । स एकः' इति दर्शनात् आत्मा सर्वस्य । अत्राचार्येण 'समानी याज्यानुवाक्ये भवतः' इत्येतदनुसारेण 'उदग्ने शुचयस्तव' 'विज्योतिषा' 'उदु त्यं जातवेदसम्' 'चित्रं देवानाम्' इति हविषां याज्यानुवाक्याः 'उदुत्यं जातवेदसम्' 'सप्त त्वा हरितो रथे' 'चित्रं देवानाम्' इति पिण्डान् प्रयच्छति इति ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -4290,7 +4186,6 @@ Es stieg empor der Götter lichtes Antlitz, das Auge Mitra's, Varuna's und Agni'
 
 भावार्थभाषाः -  जो दृश्यमान परिमाणयुक्त पदार्थ असतो तो परमात्मा नसतो. कोणीही त्या अव्यक्त सर्वशक्तिमान जगदीश्वराखेरीज संपूर्ण जगाला उत्पन्न करू शकत नाही. सर्वव्यापक, सच्चिदानंदस्वरूप अनंत, अंतर्यामी, चराचर जगाचा आत्मा अशा परमेश्वराखेरीज संसार धारण करणे, जीवांच्या पापपुण्याच्या साक्षी असणे, त्यानुसार जीवांना सुख दुःखरूपी फळ देणे, हे कोणी करू शकत नाही. परमेश्वराच्या उपासनेशिवाय धर्म, अर्थ, काम, मोक्ष प्राप्त करण्यास जीव समर्थ बनू शकत नाही. त्यासाठी सर्वांनी परमेश्वरच उपासना करण्यायोग्य इष्टदेव आहे, हे मानले पाहिजे. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -4323,18 +4218,7 @@ Find pleasure in this proper drink.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/052/10_vishve_devA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-विश्वे॑ दे॒वा ऋ॑ता॒वृध॑ ऋ॒तुभि॑र्हवन॒श्रुतः॑ ।  
-जु॒षन्तां॒ युज्यं॒ पयः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/052/10_vishve_devA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -4385,7 +4269,12 @@ páyaḥ ← páyas- (nominal stem)
 
 yújyam ← yújya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑ दे॒वा ऋ॑ता॒वृध॑ ऋ॒तुभि॑र्हवन॒श्रुतः॑ ।  
+जु॒षन्तां॒ युज्यं॒ पयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4452,7 +4341,6 @@ _________
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -4491,21 +4379,13 @@ Yuyam **payas**, a mixture of milk and curds, termed **āmikṣā**: cf. tapte p
 Let all the gods, strong through truth, hearing the calls in their turns, enjoy the associated milk.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first hemistich here does assay a little figure: ṛtā- ṛtú- across the pāda boundary.
-
-The use of yújya- in c is not entirely clear to me. I take it to mean that the offering, the milk (páyaḥ), is ritually associated with the calls (hávana-) the gods are hearing. Cf. VI.3.8. Geldner and Renou think that the association is between the substance and the gods.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
-<details open><summary><h7>07-12 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>07-12 ...{Loading}...</h2></summary>
 
 These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an elementary production, with almost no tricks (though see vs. 9). One wonders whether great swaths of RV-period poetry were similarly lackluster and therefore not generally preserved.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -4577,7 +4457,6 @@ Die heil'gen Götter mögen all' zur Festzeit hörend unsern Ruf, Geniessen den 
 
 भावार्थभाषाः -  जे अध्ययनाची व परीक्षा देण्याची इच्छा बाळगतात त्यांनी मादक द्रव्याचे, कुत्सित बुद्धी उत्पन्न करणाऱ्या पदार्थाचे ग्रहण करू नये. दूध वगैरे बुद्धी वाढविणारे पदार्थ घ्यावेत. ॥ १० ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -4612,18 +4491,7 @@ Sit on this strew and rejoice.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/052/13_vishve_devAH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-विश्वे॑ देवाः शृणु॒तेमं हवं॑ मे॒ ये अ॒न्तरि॑क्षे॒ य उप॒ द्यवि॒ ष्ठ ।  
-ये अ॑ग्निजि॒ह्वा उ॒त वा॒ यज॑त्रा आ॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयध्वम् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/052/13_vishve_devAH.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -4715,7 +4583,12 @@ barhíṣi ← barhís- (nominal stem)
 
 mādayadhvam ← √mad- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑ देवाः शृणु॒तेमं हवं॑ मे॒ ये अ॒न्तरि॑क्षे॒ य उप॒ द्यवि॒ ष्ठ ।  
+ये अ॑ग्निजि॒ह्वा उ॒त वा॒ यज॑त्रा आ॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4862,7 +4735,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -4881,7 +4753,6 @@ _________
 
 इति श्रीभट्टभास्करमिश्रविरचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये द्वितीये काण्डे चतुर्थे प्रश्ने चतुर्दशोनुवाकस्समाप्तः ॥
 समाप्तश्च प्रपाठकः ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -4900,19 +4771,12 @@ sacrifice. Having sat on this ritual grass here, bring yourselves to
 exhilaration.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The disjunctive pairing yé agnijihvā́utá vā yájatrāḥ is puzzling if we take the utá vā seriously. Klein’s tr. (DGRV II.168-69) can stand for the standard tr.: “which ones have Agni as their tongue or are worthy of worship.” Klein considers this an example of “opposed but nonantonymous terms” giving a “subcategorization of heavenly ones.” But when so rendered there seems to be no distinction between the two groups: the general run of gods who are worthy of the sacrifice also receive those oblations through Agni -- there’s no reason for a vā. I am therefore inclined to pay attention to the -tra instrument suffix on yájatrāḥ: ‘the instruments or means of sacrifice’. Such an interpr. divides the set into those who require Agni as intermediary and those who directly effect the sacrifice. Exactly who the latter might be, I’m not certain -- perhaps only Soma. If I am correct, yájatra- is used differently from yajñíya- in the next vs. But see vs. 17 where yájatra- does not seem to have the instrument sense.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md">
-<details open><summary><h7>13-15 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
-I consider these three vss. as a tṛca. They are thematically unified, by their focus on the gods in general and (esp. vss. 13 and 15) by their classification of the gods into groups based on their location and type. On the supposed Jagatī meter of vs. 14, which would not match its tṛca partners, see ad loc.
-</details>
+I consider these three vss. as a tṛca. They are thematically unified, by their focus on the gods in general and (esp. vss. 13 and 15) by their classification of the gods into groups based on their location and type. On the supposed Jagatī meter of vs. 14, which would not match its tṛca partners, see ad loc. 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -4985,5 +4849,4 @@ Ihr Götter alle, höret hier mein Rufen, die ihr im Himmel und in weiter Luft s
 
 भावार्थभाषाः -  जे विमान, अंतरिक्ष व विद्युत विद्येत कुशल असतील व जे शिकविण्यात किंवा परीक्षा घेण्यात निपुण धार्मिक विद्वान असतील त्यांच्याजवळ जाऊन व त्यांना आमंत्रित करून माणसांनी सत्कार करावा. त्यांच्याकडे ऐकावे व ऐकलेले ऐकविले पाहिजे. ज्यामुळे ऐकण्यात किंवा विज्ञानात श्रम होता कामा नयेत. ॥ १३ ॥
 </details>
-
 </div>

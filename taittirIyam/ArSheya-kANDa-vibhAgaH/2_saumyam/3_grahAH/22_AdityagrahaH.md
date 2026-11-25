@@ -31,16 +31,6 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/051/07_kadA_chana.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-क॒दा च॒न स्त॒रीर॑सि॒ नेन्द्र॑ सश्चसि दा॒शुषे॑ ।  
-उपो॒पेन्नु म॑घव॒न्भूय॒ इन्नु ते॒ दानं॑ दे॒वस्य॑ पृच्यते ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/051/07_kadA_chana.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -369,8 +359,8 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -401,12 +391,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्ये᳓भ्यस्त्वा ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -422,7 +415,7 @@ to the Adityas thee!
 
 आ॒दि॒त्येभ्यः॑ । त्वा॒ ॥
 </details>
-
+</details>
 </div>
   
 
@@ -444,16 +437,6 @@ _______
 उ᳓पोप᳓+ इ᳓न् नु᳓ मघवन्, भू᳓य इ᳓न् नु᳓ ते  
 **दा᳓नं** देव᳓स्य +++(उप+उप-)+++**पृच्यते**+++(←पृची सम्पर्के)+++ ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/051/07_kadA_chana.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-क॒दा च॒न स्त॒रीर॑सि॒ नेन्द्र॑ सश्चसि दा॒शुषे॑ ।  
-उपो॒पेन्नु म॑घव॒न्भूय॒ इन्नु ते॒ दानं॑ दे॒वस्य॑ पृच्यते ॥
 </details>
 
 </div>
@@ -787,8 +770,8 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -819,12 +802,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्ये᳓भ्यस्त्वा ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -840,7 +826,7 @@ to the Adityas thee!
 
 आ॒दि॒त्येभ्यः॑ । त्वा॒ ॥
 </details>
-
+</details>
 </div>
   
 
@@ -862,16 +848,6 @@ _______
 आ᳓ वो ऽर्वा᳓ची+++(=अभिमुखी)+++ **सुमति᳓र् ववृत्याद्**  
 अंहो᳓श्+++(=पापि)+++-चिद् या᳓ **वरिवो++(=ध᳓न᳓)+++-वि᳓त्-तरा᳓ +आ᳓सत्** ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/107/01_yajno_devAnAM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-य॒ज्ञो दे॒वानां॒ प्रत्ये॑ति सु॒म्नमादि॑त्यासो॒ भव॑ता मृळ॒यन्तः॑ ।  
-आ वो॒ऽर्वाची॑ सुम॒तिर्व॑वृत्यादं॒होश्चि॒द्या व॑रिवो॒वित्त॒रास॑त् ॥
 </details>
 
 </div>
@@ -1267,8 +1243,8 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -1299,12 +1275,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्ये᳓भ्यस्त्वा ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1320,7 +1299,7 @@ to the Adityas thee!
 
 आ॒दि॒त्येभ्यः॑ । त्वा॒ ॥
 </details>
-
+</details>
 </div>
   
 

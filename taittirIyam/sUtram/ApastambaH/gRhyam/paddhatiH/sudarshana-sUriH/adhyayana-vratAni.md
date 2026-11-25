@@ -10,7 +10,6 @@ title = "अध्ययन-व्रतानि"
 
 श्रावण्यां पौर्णमास्यां आचार्यश् शिष्यैस् सह कृत-प्राणायामो "ऽध्यायमुपाकरिष्य" इति सङ्कल्प्य महा-नद्यां विधिवत् स्नात्वा पवित्रपाणिः नव ऋषीन् तर्पयेत्– 
 
-
 > प्रजापतिं काण्डऋषिं तर्पयामि।  
 सोमं काण्डऋषिं तर्पयामि।  
 अग्निं काण्डऋषिं तर्पयामि।  
@@ -91,16 +90,6 @@ title = "अध्ययन-व्रतानि"
 वि᳓श्वा जाता᳓नि **प᳓रि** ता᳓ **बभूव** ।  
 य᳓त्-कामास् ते जुहुम᳓स् त᳓न् नो **अस्तु**  
 वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म्॥
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/121/10_prajApate_na.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव ।  
-यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 
 </div>
@@ -691,7 +680,6 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </div>
 </div>  
 
-
 चतस्र उपहोमाहुतीः -  
 साँहितीभ्य इत्यादिभिर् एव,  
 "सदसस्पतिम्" इत्य् एतयैव सदसस्पतिं च ।
@@ -717,7 +705,6 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याज्ञि᳓कीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
@@ -737,7 +724,6 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षद्भ्यः॒ स्वाहा॑ । 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -759,7 +745,6 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणे स्वयम्भु᳓वे स्वा᳓हा ।  
@@ -780,10 +765,8 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 
-
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
 <details open><summary><h3>०६ सदसस्पतिमद्भुतं प्रियमिन्द्रस्य ...{Loading}...</h3></summary>
-
 
 स᳓दसस्प᳓तिम् अ᳓द्भुतं  
 प्रिय᳓म् इ᳓न्द्रस्य का᳓म्यम् ।  
@@ -804,7 +787,6 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 </div>  
-
 
 अथ व्रती उपस्थेय-  
 देवता अभिसन्धायाग्निपुरोगाश् चतस्रो देवता उपतिष्ठते ।  
@@ -1044,7 +1026,6 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </div>
 </div>  
-
 
 इत्येतैश् चतुर्भिर् यथा-दैवतम् ।  
 
@@ -1292,7 +1273,6 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </details>
 </div>
-
 
 ## सौम्यम् - शुक्रियम्
 ### उपाकर्म

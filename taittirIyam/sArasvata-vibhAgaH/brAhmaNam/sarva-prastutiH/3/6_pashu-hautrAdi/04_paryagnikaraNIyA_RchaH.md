@@ -25,18 +25,7 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/015/01_agnirhotA_no.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अ॒ग्निर्होता॑ नो अध्व॒रे वा॒जी सन्परि॑ णीयते ।  
-दे॒वो दे॒वेषु॑ य॒ज्ञियः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/015/01_agnirhotA_no.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -51,7 +40,7 @@ unicode_script: devanagari
 देवो᳓ देवे᳓षु यज्ञि᳓यः
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अ॒ग्निर्होता॑ नो अध्व॒रे ।   
 वा॒जी सन्परि॑णीयते ।  
@@ -103,7 +92,12 @@ devéṣu ← devá- (nominal stem)
 
 yajñíyaḥ ← yajñíya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्होता॑ नो अध्व॒रे वा॒जी सन्परि॑ णीयते ।  
+दे॒वो दे॒वेषु॑ य॒ज्ञियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +179,6 @@ _________
 - “sacrificial; divine; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -312,7 +305,6 @@ Herumgeführt wird bei dem Fest als Priester Agni wie ein Ross, Der Gott bei Gö
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा अग्नी सूर्यरूपाने सर्व व्यवहारांना प्राप्त करवितो तसेच विद्वान संपूर्ण मनोरथांना प्राप्त करवितो. ॥ १ ॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

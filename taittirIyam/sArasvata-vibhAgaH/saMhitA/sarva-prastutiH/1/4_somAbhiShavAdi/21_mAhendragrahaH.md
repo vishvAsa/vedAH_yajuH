@@ -27,18 +27,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/019/01_mahA_N_indro.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-म॒हाँ इन्द्रो॑ नृ॒वदा च॑र्षणि॒प्रा उ॒त द्वि॒बर्हा॑ अमि॒नः सहो॑भिः ।  
-अ॒स्म॒द्र्य॑ग्वावृधे वी॒र्या॑यो॒रुः पृ॒थुः सुकृ॑तः क॒र्तृभि॑र्भूत् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/019/01_mahA_N_indro.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -118,7 +107,12 @@ súkr̥taḥ ← súkr̥ta- (nominal stem)
 
 urúḥ ← urú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हाँ इन्द्रो॑ नृ॒वदा च॑र्षणि॒प्रा उ॒त द्वि॒बर्हा॑ अमि॒नः सहो॑भिः ।  
+अ॒स्म॒द्र्य॑ग्वावृधे वी॒र्या॑यो॒रुः पृ॒थुः सुकृ॑तः क॒र्तृभि॑र्भूत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -264,7 +258,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -320,27 +313,13 @@ Inclined toward us, he has been strengthened for his heroic deed.
 Wide  and broad, he was well made by his makers.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The published translation should read “manfully” with adverbial nṛvát.
-
-On possible configurations of the terms connected by utá, see Klein DGRV I.341.
-
-Grassmann derives aminá- from √am (‘mächtig andringend, gewaltig’), but it must belong to √mī as thematic parallel to áminant-. See Oldenberg (ZDMG 55.323).
-
-The phrase in d, súkṛtaḥ kartṛ́bhir bhūt “he was well made by his makers,” is somewhat startling as a description of the great god Indra. Who are his makers? Is this a depiction of his original creation, or does it have a more narrow and current application? Because of the previous pāda, … vāvṛdhe vīryā̀ya “he has been strengthened for his heroic deed,” I am inclined towards the latter: the soma drinks and ritual activities and praise have made him the consummate heroic actor. The pl.
-
-agent noun kartár- may refer to the soma drinks or to the priests who prepared and offered them to Indra. Because I think the reference is to the immediate past, I would slightly alter the tr. from “was well made” to “has been well made.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/01-02.md">
-<details open><summary><h7>01-02 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 These two vss. show a penchant for synonymous pairs: 1d urúḥ pṛthúḥ “wide (and) broad,” 2b bṛhántam ṛṣvám “lofty (and) towering,” ajáraṃ yúvānam “unaging (and) youthful.”
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -426,7 +405,6 @@ Gross ist und mannhaft, Völker segnend, Indra und doppelt stark, gewaltig er an
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जसा मित्र मित्रासह कार्य पूर्ण करण्यासाठी प्रयत्न करतो तसे ईश्वराने निर्माण केलेले विद्युत किंवा सूर्य कर्म करणाऱ्याचे सहकारी असतात. ॥ १ ॥
 </details>
-
 </div>  
 
 _______

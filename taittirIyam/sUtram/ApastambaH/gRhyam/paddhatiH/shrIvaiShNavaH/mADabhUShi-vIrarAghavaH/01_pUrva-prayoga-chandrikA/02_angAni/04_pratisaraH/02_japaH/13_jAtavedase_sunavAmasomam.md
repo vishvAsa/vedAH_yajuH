@@ -40,16 +40,6 @@ title = "१३ जातवेदसे सुनवामसोमम्"
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/099/01_jAtavedase_sunavAma.md">
-
-<details><summary><h4>मूलम् …{Loading}…</h4></summary>
-
-जा॒तवे॑दसे सुनवाम॒ सोम॑मरातीय॒तो नि द॑हाति॒ वेदः॑ ।  
-स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॑ ना॒वेव॒ सिन्धुं॑ दुरि॒तात्य॒ग्निः ॥
-</details>
-
-</div>
-
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/099/01_jAtavedase_sunavAma.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
@@ -498,16 +488,6 @@ I obtain the shelter of the goddess Durga, the fire-coloured one, shining by the
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/189/02_agne_tvaM.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-अग्ने॒ त्वं पा॑रया॒ नव्यो॑ अ॒स्मान्त्स्व॒स्तिभि॒रति॑ दु॒र्गाणि॒ विश्वा॑ ।  
-पूश्च॑ पृ॒थ्वी ब॑हु॒ला न॑ उ॒र्वी भवा॑ तो॒काय॒ तन॑याय॒ शं योः ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/189/02_agne_tvaM.md">
 
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
@@ -910,16 +890,6 @@ O führ aufs neue Agni uns hinüber durch deinen Segen über alle Leiden; Sei ei
 सि᳓न्धुं न᳓ नावा᳓ दुरिता᳓ति पर्षि  
 अ᳓ग्ने अत्रिव᳓न् न᳓मसा+++(→म᳓नसा तैत्तिरीये)+++ गृणानो᳓  
 अस्मा᳓कम् बोधि अविता᳓ तनू᳓नाम्
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/004/09_vishvAni_no.md">
-
-<details><summary><h4>मूलम् …{Loading}…</h4></summary>
-
-विश्वा॑नि नो दु॒र्गहा॑ जातवेदः॒ सिन्धुं॒ न ना॒वा दु॑रि॒ताति॑ पर्षि ।  
-अग्ने॑ अत्रि॒वन्नम॑सा गृणा॒नो॒३॒॑ऽस्माकं॑ बोध्यवि॒ता त॒नूना॑म् ॥
 </details>
 
 </div>

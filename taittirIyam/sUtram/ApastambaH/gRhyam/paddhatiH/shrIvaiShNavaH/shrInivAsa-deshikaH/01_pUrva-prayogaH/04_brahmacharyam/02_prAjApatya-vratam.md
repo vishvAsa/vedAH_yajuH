@@ -95,7 +95,6 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 
 </details>
 
-
 [[91]]
 
 माणवकः - "प्राजापत्यं व्रतं चरिष्यामि ।"
@@ -153,7 +152,6 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 </details>
 </div>  
 
-
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH" unfilled newLevelForH1="5" includeTitle="false">
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -171,16 +169,6 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 वि᳓श्वा जाता᳓नि **प᳓रि** ता᳓ **बभूव** ।  
 य᳓त्-कामास् ते जुहुम᳓स् त᳓न् नो **अस्तु**  
 वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म्॥
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/121/10_prajApate_na.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव ।  
-यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 
 </div>
@@ -781,9 +769,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </details>
 
-
 [[92]]
-
 
 अनन्वारब्धः, 
 
@@ -808,7 +794,6 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याज्ञि᳓कीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
@@ -828,7 +813,6 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षद्भ्यः॒ स्वाहा॑ । 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -850,7 +834,6 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणे स्वयम्भु᳓वे स्वा᳓हा ।  
@@ -871,10 +854,8 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 
-
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
 <details open><summary><h3>०६ सदसस्पतिमद्भुतं प्रियमिन्द्रस्य ...{Loading}...</h3></summary>
-
 
 स᳓दसस्प᳓तिम् अ᳓द्भुतं  
 प्रिय᳓म् इ᳓न्द्रस्य का᳓म्यम् ।  
@@ -1131,7 +1112,6 @@ I will follow the rules; may I do so; may that be increased.
 </div>
 </div>  
 
-
 <details open><summary>मूलम्</summary>
 
 > अग्ने॑ व्रतपते काण्ड॒र्षिभ्यः॑ प्राजाप॒त्यं व्र॒तं च॑रिष्यामि । तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।  
@@ -1139,7 +1119,6 @@ I will follow the rules; may I do so; may that be increased.
 आदि॑त्य व्रतपते काण्ड॒र्षिभ्यः॑ प्राजाप॒त्यं व्र॒तं च॑रिष्यामि । तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 व्र॒तानां व्रतपते काण्ड॒र्षिभ्यः॑ प्राजाप॒त्यं व्र॒तं च॑रिष्यामि । तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-
 
 <details><summary>द्राविडम्</summary>
 
@@ -1150,7 +1129,6 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 
 [[93]]
-
 
 माणवकः यथास्थानम् उपविशेत्।
 
@@ -1262,7 +1240,6 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 மாணவகன் மதந்தீருபஸ்ப்ரூச்ய ("Logb8" என்றால் காய்ச்சப்பட்ட ஜலத்திற்குப் பெயர்) கிழக்கு முகமாக உட்கார்ந்து கொண்டு ஜல கும்பத்தைத் தொட்டுக் கொண்டு “நமோ வாசே + [[TODO::परिष्कार्यम्??]]
 </details>
 
-
 [[94]]
 
 उपक्रमवत् तर्पणम् ।  
@@ -1275,7 +1252,6 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 
 > प्रजा᳓पतये काण्डर्ष᳓ये स्वा᳓हा  
 प्रजा᳓पतये काण्डर्ष᳓य इद᳓न्, न᳓ म᳓म ।  
-
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH" unfilled newLevelForH1="5" includeTitle="false">
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1294,16 +1270,6 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 वि᳓श्वा जाता᳓नि **प᳓रि** ता᳓ **बभूव** ।  
 य᳓त्-कामास् ते जुहुम᳓स् त᳓न् नो **अस्तु**  
 वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म्॥
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/121/10_prajApate_na.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव ।  
-यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 
 </div>
@@ -1900,7 +1866,6 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </details>
 
-
 अनन्वारब्धः  
 सांहितीभ्यः, याज्ञिकीभ्यः, वारुणीभ्यः, ब्रह्मणे, सदसस्पतिमिति पञ्चाहुतीर्जुहुयात् ।  
 
@@ -2129,8 +2094,6 @@ I could follow that, that was increased for me (7).
 </details>
 </div>  
 
-
-
 <details><summary>मूलम्</summary>
 
 > अग्ने॑ व्रतपते काण्ड॒र्षिभ्यःँ प्राजाप॒त्यं व्र॒तमॅचारिष॒म् । तदँशकं॒ तन्मेँ राधि ।  
@@ -2139,7 +2102,6 @@ I could follow that, that was increased for me (7).
 व्रतानां व्रतपते काण्ड॒र्षिभ्यःँ प्राजाप॒त्यं व्र॒तमॅचारिष॒म् । तदँशकं॒ तन्मेँ राधि । [[TODO::परिष्कार्यम्??]] 
 
 </details>
-
 
 यथास्थानम् उपविशेत्,
 
@@ -2158,5 +2120,4 @@ I could follow that, that was increased for me (7).
 
 [[95]]
 </details>
-
 

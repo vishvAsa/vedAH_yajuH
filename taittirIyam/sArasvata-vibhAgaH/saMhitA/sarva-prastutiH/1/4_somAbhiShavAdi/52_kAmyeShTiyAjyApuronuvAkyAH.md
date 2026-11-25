@@ -46,18 +46,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/004/10_yastvA_hRdA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-यस्त्वा॑ हृ॒दा की॒रिणा॒ मन्य॑मा॒नोऽम॑र्त्यं॒ मर्त्यो॒ जोह॑वीमि ।  
-जात॑वेदो॒ यशो॑ अ॒स्मासु॑ धेहि प्र॒जाभि॑रग्ने अमृत॒त्वम॑श्याम् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/004/10_yastvA_hRdA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -134,7 +123,12 @@ aśyām ← √naś- 1 (root)
 
 prajā́bhiḥ ← prajā́- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्त्वा॑ हृ॒दा की॒रिणा॒ मन्य॑मा॒नोऽम॑र्त्यं॒ मर्त्यो॒ जोह॑वीमि ।  
+जात॑वेदो॒ यशो॑ अ॒स्मासु॑ धेहि प्र॒जाभि॑रग्ने अमृत॒त्वम॑श्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +246,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -381,7 +374,6 @@ Der dankerfüllten Herzens dein gedenkend, ich Sterblicher dich rufe, der unster
 
 भावार्थभाषाः -  जशी प्रजा राजाचे हित करते तसे राजाने प्रजेचे सुख इच्छावे. या प्रकारे परस्पर प्रीतीने अमाप सुख प्राप्त करावे. ॥ १० ॥
 </details>
-
 </div>  
 
 _______
@@ -406,18 +398,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/004/11_yasmai_tvaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-यस्मै॒ त्वं सु॒कृते॑ जातवेद उ लो॒कम॑ग्ने कृ॒णवः॑ स्यो॒नम् ।  
-अ॒श्विनं॒ स पु॒त्रिणं॑ वी॒रव॑न्तं॒ गोम॑न्तं र॒यिं न॑शते स्व॒स्ति ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/004/11_yasmai_tvaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -494,7 +475,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 svastí ← svastí- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्मै॒ त्वं सु॒कृते॑ जातवेद उ लो॒कम॑ग्ने कृ॒णवः॑ स्यो॒नम् ।  
+अ॒श्विनं॒ स पु॒त्रिणं॑ वी॒रव॑न्तं॒ गोम॑न्तं र॒यिं न॑शते स्व॒स्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -625,7 +611,6 @@ _________
     well; luck.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -747,7 +732,6 @@ O Wesenkenner, welchem frommen Manne du Raum verschaffst und Lust gewährst, o A
 
 भावार्थभाषाः -  हे राजा ! जर तू विद्या व विनयाने प्रजेला ऐश्वर्याने युक्त केलेस तर प्रजा तुझा सत्कार करील. ॥ ११ ॥
 </details>
-
 </div>  
 
 ## ऐन्द्रयागे
@@ -772,18 +756,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/092/14_tve_su.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-त्वे सु पु॑त्र शव॒सोऽवृ॑त्र॒न्काम॑कातयः ।  
-न त्वामि॒न्द्राति॑ रिच्यते ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/092/14_tve_su.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -843,7 +816,12 @@ ricyate ← √ric- (root)
 
 tvā́m ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे सु पु॑त्र शव॒सोऽवृ॑त्र॒न्काम॑कातयः ।  
+न त्वामि॒न्द्राति॑ रिच्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -929,7 +907,6 @@ _________
 - “empty; liberate; concede; surrender; purge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -996,7 +973,6 @@ Es wandten sich, o Herr der Kraft, zu dir sogleich die wünschenden; Nichts übe
 - विराड्गायत्री
 - षड्जः
 </details>
-
 </div>  
 
 _______
@@ -1021,18 +997,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/026/02_ukthaukthe_soma.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उ॒क्थौ॑क्थे॒ सोम॒ इन्द्रं॑ ममाद नी॒थेनी॑थे म॒घवा॑नं सु॒तासः॑ ।  
-यदीं॑ स॒बाधः॑ पि॒तरं॒ न पु॒त्राः स॑मा॒नद॑क्षा॒ अव॑से॒ हव॑न्ते ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/026/02_ukthaukthe_soma.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1109,7 +1074,12 @@ hávante ← √hū- (root)
 
 samānádakṣāḥ ← samānádakṣa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒क्थौ॑क्थे॒ सोम॒ इन्द्रं॑ ममाद नी॒थेनी॑थे म॒घवा॑नं सु॒तासः॑ ।  
+यदीं॑ स॒बाधः॑ पि॒तरं॒ न पु॒त्राः स॑मा॒नद॑क्षा॒ अव॑से॒ हव॑न्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1235,7 +1205,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1355,7 +1324,6 @@ Bei Spruch um Spruch erfreut den Indra Soma, bei Lied um Lied den mächt'gen die
 
 भावार्थभाषाः -  या मंत्रात उपमा, वाचकलुप्तोपमालंकार आहे. जसे चांगले पुत्र त्रस्त असणाऱ्या माता-पित्याशी प्रेमाने वागतात तसे विद्यार्थी गुरूची सेवा करतात. जसे निर्माणकर्त्याला विद्या विनय व पुरुषार्थाने उत्पन्न झालेले ऐश्वर्य आनंद देते तसे तुम्हीही वागा. ॥ २ ॥ े
 </details>
-
 </div>
 
 ## रसवद्यागे
@@ -1441,7 +1409,6 @@ We are united with the sap;
 I have come rich in milk, O Agni;  
 Do thou unite me with radiance.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1540,18 +1507,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/004/01_tvAmagne_vasupatiM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-त्वाम॑ग्ने॒ वसु॑पतिं॒ वसू॑नाम॒भि प्र म॑न्दे अध्व॒रेषु॑ राजन् ।  
-त्वया॒ वाजं॑ वाज॒यन्तो॑ जयेमा॒भि ष्या॑म पृत्सु॒तीर्मर्त्या॑नाम् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/004/01_tvAmagne_vasupatiM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -1631,7 +1587,12 @@ pr̥tsutī́ḥ ← pr̥tsutí- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्ने॒ वसु॑पतिं॒ वसू॑नाम॒भि प्र म॑न्दे अध्व॒रेषु॑ राजन् ।  
+त्वया॒ वाजं॑ वाज॒यन्तो॑ जयेमा॒भि ष्या॑म पृत्सु॒तीर्मर्त्या॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1754,7 +1715,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1880,7 +1840,6 @@ O Agni dich, den Güterherrn der Güter, erfreue ich, o König, bei den Festen, 
 
 भावार्थभाषाः -  ज्यांचे अधिष्ठाते धार्मिक व विद्वान असतील तर त्यांचा नेहमी विजय होतो व राज्याची वृद्धी होऊन अमाप संपत्ती मिळते. ॥ १ ॥
 </details>
-
 </div>  
 
 ## वसुमद्यागे
@@ -1905,18 +1864,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/013/05_tvAmagne_vAjasAtamaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-त्वाम॑ग्ने वाज॒सात॑मं॒ विप्रा॑ वर्धन्ति॒ सुष्टु॑तम् ।  
-स नो॑ रास्व सु॒वीर्य॑म् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/013/05_tvAmagne_vAjasAtamaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -1973,7 +1921,12 @@ sá ← sá- ~ tá- (pronoun)
 
 suvī́ryam ← suvī́rya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्ने वाज॒सात॑मं॒ विप्रा॑ वर्धन्ति॒ सुष्टु॑तम् ।  
+स नो॑ रास्व सु॒वीर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2060,7 +2013,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2178,7 +2130,6 @@ Dich hochgelobten stärkt die Schar der Sänger, dich, der Kraft verleiht, So sc
 
 भावार्थभाषाः -  हे माणसांनो ! आप्त विद्वान लोकांनी तुमची सर्व प्रकारे वृद्धी केल्यास तुमचा पराक्रम खूप वाढेल. ॥ ५ ॥
 </details>
-
 </div>  
 
 _______
@@ -2304,18 +2255,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/043/14_tvaM_hyagne.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-त्वं ह्य॑ग्ने अ॒ग्निना॒ विप्रो॒ विप्रे॑ण॒ सन्त्स॒ता ।  
-सखा॒ सख्या॑ समि॒ध्यसे॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/043/14_tvaM_hyagne.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -2375,7 +2315,12 @@ sákhyā ← sákhi- (nominal stem)
 
 samidhyáse ← √idh- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं ह्य॑ग्ने अ॒ग्निना॒ विप्रो॒ विप्रे॑ण॒ सन्त्स॒ता ।  
+सखा॒ सख्या॑ समि॒ध्यसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2457,7 +2402,6 @@ _________
 - “kindle; blaze.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2562,7 +2506,6 @@ Vom Weisen wirst du Weiser ja, o Glut, von Glut, vom Helden Held, Ein Freund vom
 
 पदार्थान्वयभाषाः -  वयमुपासकाः। अग्नये=सर्वव्यापकाय महेश्वराय। स्तोमैः=स्तोत्रैः। विधेम=परिचरेम। कीदृशाय। उक्षान्नाय=उक्षणां=धनवर्षकाणां सूर्य्यादीनामपि। अन्नाय=अन्नवत् पोषकाय। पुनः। वशान्नाय=वशानां वशीभूतानां समस्तानां जगताम्। अन्नाय अन्नवत्पोषकाय। पुनः। वेधसे=विधात्रे=रचयित्रे इत्यर्थः ॥११॥
 </details>
-
 </div>  
 
 ## ज्योतिष्मद्यागे
@@ -2592,18 +2535,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/044/17_udagne_shuchayastava.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उद॑ग्ने॒ शुच॑य॒स्तव॑ शु॒क्रा भ्राज॑न्त ईरते ।  
-तव॒ ज्योतीं॑ष्य॒र्चयः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/044/17_udagne_shuchayastava.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -2660,7 +2592,12 @@ jyótīṁṣi ← jyótis- (nominal stem)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद॑ग्ने॒ शुच॑य॒स्तव॑ शु॒क्रा भ्राज॑न्त ईरते ।  
+तव॒ ज्योतीं॑ष्य॒र्चयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2734,7 +2671,6 @@ _________
 - “flare.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2831,7 +2767,6 @@ Es steigen deine Flammen auf, die lichten, hellen, strahlenden, O Agni, deiner L
 
 पदार्थान्वयभाषाः -  हे मित्रमहः=मित्रैर्जीवैः पूजनीय अग्ने ईश ! शुक्रेण=शुद्धेन। शोचिषा=तेजसा युक्तः। स त्वम्। देवैरस्माकमिन्द्रियैः सह। नोऽस्माकम्। बर्हिषि=हृदयासने। आ सत्सि=आसीद=उपविश ॥१४॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2869,18 +2804,7 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/002/09_vi_jyotiShA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-वि ज्योति॑षा बृह॒ता भा॑त्य॒ग्निरा॒विर्विश्वा॑नि कृणुते महि॒त्वा ।  
-प्रादे॑वीर्मा॒याः स॑हते दु॒रेवाः॒ शिशी॑ते॒ शृङ्गे॒ रक्ष॑से वि॒निक्षे॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/09_vi_jyotiShA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -2963,7 +2887,12 @@ rákṣase ← rákṣas- (nominal stem)
 
 viníkṣe ← √nikṣ- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि ज्योति॑षा बृह॒ता भा॑त्य॒ग्निरा॒विर्विश्वा॑नि कृणुते महि॒त्वा ।  
+प्रादे॑वीर्मा॒याः स॑हते दु॒रेवाः॒ शिशी॑ते॒ शृङ्गे॒ रक्ष॑से वि॒निक्षे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3092,7 +3021,6 @@ _________
 - \[verb noun\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3117,7 +3045,6 @@ ________________
 किञ्च - शृङ्गे शृङ्गस्थानीये आत्मीये प्रधाने ज्वाले शत्रूणां वा हिंसके शिशीते तीक्ष्णीकुर्यात् । किमर्थम्? रक्षसे विनिक्षे रक्षसो विनाशार्थं ज्वालाभ्यां निक्षणं चुम्बनं शोधनं वा विनाशोवेति स एव महानुभावोग्निरनुगमनदोषमुपशमय्यात्मनः परापतितं ज्योतिरवरुन्ध इति ॥
 _______________
 अयमग्निः बृहता ज्योतिषा विभाति विविधं भाति, विश्वानि च महित्वा माहात्म्यानि आविष्कृणुते आविष्करोति । अदेवीः अदेवन शीलाश्च दुरेवाः दुःखेन गन्तव्या मायाः प्रसहते प्रकर्षेणाभिभवतु । किं च – शृङ्गे गोशृङ्गस्थानीये ज्वाले शिशीते निशितीकरोति । किमर्थं? रक्षसो विनाशार्थमिति ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -3218,7 +3145,6 @@ Mit hellem Glanze strahlet weithin Agni, in Herrlichkeit macht alles offenbar er
 
 भावार्थभाषाः -  भावार्थ -या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा सूर्य अंधकाराचे निवारण करून प्रकाश उत्पन्न करतो व भयाचे निवारण करतो तसेच विद्वान लोक गाढ अज्ञानाचे निवारण करून विद्यारूपी सूर्य उत्पन्न करून सर्व आत्म्यांमध्ये प्रकाश करवितात. ॥ ९ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>

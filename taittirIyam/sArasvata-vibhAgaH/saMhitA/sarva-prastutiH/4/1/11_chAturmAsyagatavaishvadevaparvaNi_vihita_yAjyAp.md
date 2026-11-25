@@ -215,18 +215,7 @@ These abodes of thine.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/062/10_tatsaviturvareNyaM_bhargo.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-तत्स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि ।  
-धियो॒ यो नः॑ प्रचो॒दया॑त् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/10_tatsaviturvareNyaM_bhargo.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -241,7 +230,7 @@ These abodes of thine.
 धि᳓यो यो᳓ नः प्रचोद᳓यात्
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 तत्स॑वि॒तुर्वरे॑ण्य॒म्भर्गो॑ दे॒वस्य॑ धीमहि ।  
 धियो॒ यो नᳶ॑ प्रचो॒दया॑त् ।
@@ -289,7 +278,12 @@ pracodáyāt ← √cud- (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि ।  
+धियो॒ यो नः॑ प्रचो॒दया॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -363,7 +357,6 @@ _________
 - “push; drive; command; excite; proclaim; demand; request; request.”
 
 _________
-
 </details>
 
 <details><summary>ब्राह्मणोद्धरणानि</summary>
@@ -399,6 +392,7 @@ _________
 यद्वा - ‘धीङ् आधारे' । लिङि  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् ।  
 
 **प्रचोदयात्** । चोदयतेर् लेट्याडागमः । यद्-वृत्त-योगाद् अनिघातः । आगमस्यानुदात्तत्वे णिचः स्वरः ॥ ॥ १० ॥
+
 
 _____________
 
@@ -510,10 +504,9 @@ _____________
 > स यश्चायं पुरुषे यश् चासाव् आदित्ये स एकः 
 
 इति ध्यानार्थः॥
-
 </details>
 
-<details><summary>विद्यारण्यः - हिन्दी </summary>
+<details><summary>विद्यारण्यः - हिन्दी</summary>
 
 शुद्ध गायत्री जीवात्मा और ब्रह्म की एकता का सूचक है। ‘धियोयोनः प्रचोदयात्’ अर्थात् हमारी बुद्धि को प्रेरणा देता है तथा जो अन्तःकरण की प्रकाशिका तथा सर्व साक्षी है उसे प्रत्यगात्मा कहा जाता है।
 उस प्रचोदयात् शब्द से आत्मा स्वरूप भूत परब्रह्म का तत् सवितुः आदि पदों से कथन किया है।
@@ -668,7 +661,7 @@ _भर्गयत्य्_ अपि तत्-कष्टं
 वसीयो भोग-मोक्षाख्यं  
 सूते या सततं सताम् ।  
 सा **सुवः** कथिता ब्रह्मन्  
-व्याहृती वाङ्मयी ततः ॥ 
+व्याहृती वाङ्मयी ततः ॥
 </details>
 
 <details><summary>नित्यानन्दमिश्रः - प्रचोदयात्</summary>
@@ -683,7 +676,7 @@ _________
 _________
 **अर्थः**  
 
-यदि प्रार्थने लिङ् स्वीक्रियते तर्हि ‘लिङर्थे लेट्’ (३.४.७) इत्यनेन लेटि सिद्धस्य ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं कुर्यात्” इत्यर्थः। यदि लडर्थे बहुलव्यत्ययाल्लेट् स्वीक्रियते तर्हि ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं करोति” इत्यर्थः। 
+यदि प्रार्थने लिङ् स्वीक्रियते तर्हि ‘लिङर्थे लेट्’ (३.४.७) इत्यनेन लेटि सिद्धस्य ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं कुर्यात्” इत्यर्थः। यदि लडर्थे बहुलव्यत्ययाल्लेट् स्वीक्रियते तर्हि ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं करोति” इत्यर्थः।
 </details>
 
 <details><summary>सम्पुटीकरणादि</summary>
@@ -732,12 +725,11 @@ _________
 दशकृत्वो वरः स्मृतः ॥
 
 इति योगयाज्ञवल्क्य-वचन-ग्रहणम्॥
-
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
-May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.  
+May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.
 </details>
 
 <details><summary>विश्वास-टिप्पनी - प्रचोदयात्-स्वरः</summary>
@@ -751,7 +743,7 @@ May we focus on the excellent radiance of the deva Savitṛ who will inspire our
 
 > परोरजसे ऽसाव् अदो मा प्रापद्   
 
-इति बृहदारण्यकोपनिषदा सूचितं तुरीयम् पादम् प्रयुञ्जते केचित्, "परो᳓-रजसे ऽसा᳓वदो᳓३म् ॥" इति विकारेण।  
+इति बृहदारण्यकोपनिषदा सूचितं तुरीयम् पादम् प्रयुञ्जते केचित्, "परो᳓-रजसे ऽसा᳓वदो᳓३म् ॥" इति विकारेण।
 </details>
 
 <details><summary>Wilson</summary>
@@ -776,21 +768,13 @@ Savitā = the **soul**, as one with the soul of the world, **Brahma**; when we m
 Might we make our own that desirable effulgence of god Savitar, who will rouse forth our insights.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-And here, buried in this not particularly noteworthy hymn, is the Gāyatrī mantra, which is itself not particularly noteworthy on its own terms.
-
-Note the play on dhīmahi / dhíyaḥ juxtaposed across the hemistich boundary, belonging to different roots.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/10-12.md">
-<details open><summary><h7>10-12 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 All three vss. in this tṛca contain déva- (…) savitár- (or vice versa).
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -983,7 +967,6 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 भावार्थभाषाः -  जी माणसे सर्वांचा साक्षी, पित्याप्रमाणे असणारा, न्यायी, दयाळू, शुद्ध सनातन, सर्वांच्या आत्म्याचा साक्षी अशा परमेश्वराची स्तुती, प्रार्थना व उपासना करतात त्यांना कृपासागर, सर्वात श्रेष्ठ परमेश्वर, दुष्ट आचरणापासून पृथक करून श्रेष्ठ आचरणामध्ये प्रवृत्त करतो. पवित्र व पुरुषार्थयुक्त करून धर्म, अर्थ, काम, मोक्ष प्राप्त करवितो. ॥ १० ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1493,18 +1476,7 @@ May he place our oblations among the gods.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/014/01_agniM_stomena.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अ॒ग्निं स्तोमे॑न बोधय समिधा॒नो अम॑र्त्यम् ।  
-ह॒व्या दे॒वेषु॑ नो दधत् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/014/01_agniM_stomena.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -1519,7 +1491,7 @@ May he place our oblations among the gods.
 हव्या᳓ देवे᳓षु नो दधत्
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अ॒ग्निँ स्तोमे॑न बोधय समिधा॒नो अम॑र्त्यम् ।  
 ह॒व्या दे॒वेषु॑ नो दधत् ।
@@ -1564,7 +1536,12 @@ havyā́ ← havyá- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं स्तोमे॑न बोधय समिधा॒नो अम॑र्त्यम् ।  
+ह॒व्या दे॒वेषु॑ नो दधत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1632,7 +1609,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1643,6 +1619,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 हे स्तोतः **अमर्त्यम्** अमरणधर्माणम्  **अग्निं** **स्तोमेन** स्तोत्रेण **बोधय**। स्वाभिलषितार्थसिद्धये प्रबोधय । योऽग्निः **समिधानः** स्तोत्रैः सम्यक् प्रकाशमानः सः **नः** **हव्या** अस्मदीयानि हव्यानि हवींषि **देवेषु** **दधत्** निदधातु ॥ ॥
+
 
 _____________
 
@@ -1741,7 +1718,6 @@ Den Agni weck durch Loblied auf, entzündend den unsterblichen, Zu Göttern brin
 
 भावार्थभाषाः -  हे माणसांनो ! प्रयत्नपूर्वक अग्नी इत्यादी पदार्थांची विद्या प्राप्त करा. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

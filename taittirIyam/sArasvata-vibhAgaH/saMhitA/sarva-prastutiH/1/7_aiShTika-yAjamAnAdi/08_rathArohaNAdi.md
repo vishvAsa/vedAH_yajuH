@@ -389,18 +389,7 @@ attain the goal.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/038/08_vAjevAje_avata_vAjino.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-वाजे॑वाजेऽवत वाजिनो नो॒ धने॑षु विप्रा अमृता ऋतज्ञाः ।  
-अ॒स्य मध्वः॑ पिबत मा॒दय॑ध्वं तृ॒प्ता या॑त प॒थिभि॑र्देव॒यानैः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/038/08_vAjevAje_avata_vAjino.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाजिनः
@@ -477,7 +466,12 @@ tr̥ptā́ḥ ← √tr̥p- (root)
 
 yāta ← √yā- 1 (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वाजे॑वाजेऽवत वाजिनो नो॒ धने॑षु विप्रा अमृता ऋतज्ञाः ।  
+अ॒स्य मध्वः॑ पिबत मा॒दय॑ध्वं तृ॒प्ता या॑त प॒थिभि॑र्देव॒यानैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -604,7 +598,6 @@ _________
 - “vehicle; journey; campaign; carriage; vessel; cart.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -638,21 +631,15 @@ Help us to every prize, o prizewinners, when the stakes (are set), you  truth-kn
 Drink of this honey here; make yourselves exhilarated. Satisfied, drive  along the paths that lead to the gods.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-It is appropriate that the vājíns should be the topic in a clause with the āmreḍita loc. absol. vā́je-vāje. The etym. figure would be clearer if the loc. had been tr. “whenever prizes (are at stake)” vel sim.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/038/07-08.md">
-<details open><summary><h7>07-08 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These last two vss. concern the vājínaḥ ‘prize-winners’. As indicated in the published introduction, although most (in addition to the usual tr., see Oberlies RdV II.240) take these to be horses, as so often, I instead take the referent of vājín- to be the Maruts. In an All God hymn the default expectation is that gods are the dedicands.
 
 And there are numerous phraseological parallels that support the identification. See esp. nearby VII.36.7, where the Maruts are called vājínaḥ, as well as in the immediately preceding hymn, where VII.35.9 śáṃ no bhavantu marútaḥ svarkā́ḥ is almost identical, save for the expressed subj., to our 7ab śáṃ no bhavantu vājínaḥ … svarkā́ḥ. The stem svarká- occurs only 3 times; besides these two occurrences, the third, in I.88.1, refers to the Maruts’ chariots. The voc. phrase amṛtā ṛtājāḥ in our 8b is found also, addressed to the Maruts, in V.57.8 ámṛtā ṛ́tājāḥ (accented).
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Keith</summary>
 
@@ -733,7 +720,6 @@ In jeder Schlacht helft uns, o Rosse, in Wettkämpfen, o unsterbliche Priester, 
 
 भावार्थभाषाः -  विद्वानांना ईश्वराची ही आज्ञा आहे की, तुम्ही धार्मिक विद्वान बनून सर्वांचे निरंतर रक्षण करा व महौषधींच्या रसाने निरोगी बनून सर्वांना आनंदित व तृप्त करून धर्मात्म्याच्या मार्गाने स्वतः चालून इतरांनाही निरंतर त्याच मार्गाने चालवा. ॥ ८ ॥
 </details>
-
 </div>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/05_te_no.md">
@@ -961,18 +947,7 @@ Springeth along the bends of the ways.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/040/03_uta_smAsya.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उ॒त स्मा॑स्य॒ द्रव॑तस्तुरण्य॒तः प॒र्णं न वेरनु॑ वाति प्रग॒र्धिनः॑ ।  
-श्ये॒नस्ये॑व॒ ध्रज॑तो अङ्क॒सं परि॑ दधि॒क्राव्णः॑ स॒होर्जा तरि॑त्रतः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/040/03_uta_smAsya.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -1061,7 +1036,12 @@ táritrataḥ ← √tr̥̄- 1 (root)
 
 ūrjā́ ← ū́rj- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्मा॑स्य॒ द्रव॑तस्तुरण्य॒तः प॒र्णं न वेरनु॑ वाति प्रग॒र्धिनः॑ ।  
+श्ये॒नस्ये॑व॒ ध्रज॑तो अङ्क॒सं परि॑ दधि॒क्राव्णः॑ स॒होर्जा तरि॑त्रतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1188,7 +1168,6 @@ _________
 - \[verb noun\], genitive, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1231,31 +1210,15 @@ And (the wind) fans up his “feathers” [=mane], like the feathers of a bird  
 while he swoops like a falcon around the curving (racecourse), while he  keeps advancing with his vigor—Dadhikrāvan.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The imagery of this vs. picks up the ‘flying’ (pataṃgaráḥ) of 2c.
-
-In pāda a drávataḥ both looks back to dravó dravaráḥ in 2c (all derived from the same root and with dravaráḥ metrically identical to and in the same metrical position as drávataḥ) and forward to dhrájataḥ in 3c (same metrical shape and position, rhyming forms).
-
-Most tr. give ánu vāti additive semantics, ‘blows after, blows following’, but elsewhere this lexeme means ‘fan (flames)’ (I.148.4, IV.7.10, VII.3.2, X.142.4). Here I think it’s used figuratively, of the wind ruffling up mane/feathers. The standard tr.
-
-(including mine) supply ‘wind’ as the subj.
-
-As both Geldner and Oldenberg point out, the parṇám ‘wing, feather(s)’ in the simile lacks an overt correspondent in the frame, where we’d expect a body part of the horse. Oldenberg suggests quick feet or (from Ludwig) the mane. I assume the latter, and in fact I think that parṇám can be read with both simile and frame. In the simile parṇám is used as a collective for the bird’s feathers, in the frame metaphorically for a horse’s mane. (A Google search of “feathery mane” produces respectable results, including a snatch of John Keats, “the eagle’s feathery mane” [“Hymn to Apollo”], which shows the metaphor going the opposite direction.) pragardhín- ‘greedy’ is appropriate for both the bird and Dadhikrā, as Geldner also points out: cf. IV.38.3 paḍbhír gṛ́dhyantam.
-
-I follow Schaeffer (Intens. 131) in taking aṅkasám as referring to the curving racetrack rather than, with some, as a curvy part of a horse. Since áṅkāṃsi in the next vs. clearly refers to the racetrack, it’s unlikely that a related word would have an entirely different referent in such close proximity.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/040/03-04.md">
-<details open><summary><h7>03-04 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 These two vss. revisit the utá sma opening that characterized the middle vss. of IV.38.
 
 There is also a concentration of intensives: 3d táritrataḥ, 4c saṃtā́vīt u vat, 4d āpaniphaṇat -- appropriate to the ever-increasing speed and the intense repetitive movements of the horse racing to the finish line.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -1336,7 +1299,6 @@ Und dieses schnellen Läufers Fittich fliegt dahin, wie eines Vogels, der begehr
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. हे माणसांनो ! ज्या राजाची सेना श्येन पक्षिणीप्रमाणे पराक्रमी असते त्याने त्याद्वारे प्रजेचे पालन करून दुष्ट चोरांचे निवारण करावे. ॥ ३ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

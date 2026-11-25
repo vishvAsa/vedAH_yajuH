@@ -99,7 +99,12 @@ sómam ← sóma- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रा॒तर॒ग्निं प्रा॒तरिन्द्रं॑ हवामहे प्रा॒तर्मि॒त्रावरु॑णा प्रा॒तर॒श्विना॑ ।  
+प्रा॒तर्भगं॑ पू॒षणं॒ ब्रह्म॑ण॒स्पतिं॑ प्रा॒तः सोम॑मु॒त रु॒द्रं हु॑वेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +234,6 @@ _________
 - “sacrifice; offer; pour; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -242,7 +246,6 @@ _________
 **प्रातः** उषःकाले **अग्निं** देवं **हवामहे** वयं स्तोतार आह्वयामः । तथा प्रातःकाले **इन्द्रं** हवामहे। तथा **मित्रावरुणा** मित्रावरुणावहोरात्राभिमानिनौ देवौ **प्रातः** वयं हवामहे । तथाश्विनौ देवानां भिषजौ **प्रातः** वयं हवामहे । तथा **प्रातः** **भगं** देवं **पूषणं** देवं **ब्रह्मणस्पतिं** मन्त्राभिमानिनमेतत्संज्ञकं चाह्वयामः। तथा **प्रातः** **सोमम्** एतत्संज्ञकं देवम् **उत** अपि च **रुद्रं** देवं च **हुवेम** आह्वयामः ॥
 _____________
 प्रातःकालेऽग्न्यादीन्देवानाह्वयामः । प्रतिदेवं वाक्यभेदेन प्राधान्यद्योतनाय प्रातश्शब्दावृत्तिः । यत्रावृत्तिर्नास्ति तत्राप्यावृत्तिरुन्नेया ॥
-
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -465,7 +468,12 @@ rā́jā ← rā́jan- (nominal stem)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रा॒त॒र्जितं॒ भग॑मु॒ग्रं हु॑वेम व॒यं पु॒त्रमदि॑ते॒र्यो वि॑ध॒र्ता ।  
+आ॒ध्रश्चि॒द्यं मन्य॑मानस्तु॒रश्चि॒द्राजा॑ चि॒द्यं भगं॑ भ॒क्षीत्याह॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -620,7 +628,6 @@ _________
     explain; say; define.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -634,7 +641,6 @@ _________
 
 _______________
 प्रातःकाले जितं जययुक्तमुग्रं वैरिषु तीव्रं भगं देवं हुवेम आह्वयामः । कीदृशम्? अदितेः पुत्रमादित्यं, य आदित्यो विशेषेण जगतो धारयिता तमिति पूर्वत्रान्वयः । आध्रश्चित् दरिद्रोऽपि यं देवमभिमतप्रदं मन्यमानः भगं देवं भक्षीत्याह भजनं करोमीति ब्रूते, तथा तुरश्चित् कार्येषु त्वरमाणोऽपि यं भगं कार्यसाधकं मन्यमानो भजेयेति ब्रूते, तथा राजाचित् रजाऽपि यं भगं राज्यसाधकं मन्यमानो भजेयेति ब्रूते तं भगमाह्वयाम इति पूवत्रान्वयः ॥
-
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -862,7 +868,12 @@ prá ← prá (invariable)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भग॒ प्रणे॑त॒र्भग॒ सत्य॑राधो॒ भगे॒मां धिय॒मुद॑वा॒ दद॑न्नः ।  
+भग॒ प्र णो॑ जनय॒ गोभि॒रश्वै॒र्भग॒ प्र नृभि॑र्नृ॒वन्तः॑ स्याम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1022,7 +1033,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1035,7 +1045,6 @@ _________
 हे **भग** देव त्वं प्रणेता प्रकर्षेण नेतासि । तादृश **प्रणेतः** हे **भग** त्वं **सत्यराधः** सत्यधनोऽसि । तादृश सत्यराधो हे **भग** त्वं **नः** अस्मभ्यं **ददत्** कामान् प्रयच्छन् **इमाम्** अस्मदीयां **धियं** स्तुतिम् **उदव** उद्रक्ष फलयुक्तां कुरु । हे **भग** त्वं **गोभिरश्वैः** च **नः** अस्मान् **प्र** **जनय** प्रोद्भूतान् कुरु । हे **भग** त्वत्प्रसादाद्वयं **नृभिः** नेतृभिः पुत्रादिभिः **नृवन्तः** मनुष्यवन्तः **प्र** **स्याम** प्रभवेम ॥
 _____________
 हे प्रणेतः प्रकर्षेण नेतुं कुशल हे भगदेव अस्मान् कर्मणि प्रणयेति शेषः । हे सत्यराधः सत्यधन भगदेव अस्मभ्यं धनं देहीति शेषः । हे भग नोऽस्मभ्यमिमां धियं ददत् कर्मानुष्ठानबुद्धिं प्रयच्छन् उदव उत्कर्षेण रक्ष । हे भगदेव नः अस्मान् गोभिरश्वैः प्रजनय तद्युक्तान् कुर्वित्यर्थः । हे भग त्वत्प्रसादाद्वयं नृभिः पुत्रपौत्रादिभिः पुरुषैः नृवन्तः पुरुषवन्तः स्याम ॥
-
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1062,10 +1071,6 @@ O Bhaga the leader, o Bhaga whose generosity is real, o Bhaga—promote  this po
 Bhaga, propagate us with cows and horses; Bhaga, might we, possessed  of superior men, be preeminent through our men.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Although the prātár of vs. 1 and 2a has disappeared, this vs. seems to contain a reminiscence of it: 1c #prātár bhágam is echoed by 3a #bhága prá(ṇe)tar (in opposite order), and pādas c and d then pick up prá ṇ(etar) of 3a in #bhága prá ṇo and #bhága prá nṛ́bhiḥ (latter without retroflexion). This is hardly the most sophisticated effect in Rigvedic poetry, but it is an illustration of the subtle concatenative effects that can provide unity and a throughline in even the most banal (as this hymn mostly is) composition.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
 <details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
@@ -1073,7 +1078,6 @@ The concatenation continues in the next vss. The ending of vs. 3, … nṛvánta
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -1239,7 +1243,12 @@ syāma ← √as- 1 (root)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒तेदानीं॒ भग॑वन्तः स्यामो॒त प्र॑पि॒त्व उ॒त मध्ये॒ अह्ना॑म् ।  
+उ॒तोदि॑ता मघव॒न्त्सूर्य॑स्य व॒यं दे॒वानां॑ सुम॒तौ स्या॑म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1358,7 +1367,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1406,10 +1414,6 @@ And just now might we be possessed of portion [/accompanied by  Bhaga], and at e
 and at the rising of the sun, o bounteous one, might we be in the good  grace of the gods.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the structural relationship of the various utá-s here, see Klein DGRV I.355-56.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
 <details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
@@ -1417,7 +1421,6 @@ The concatenation continues in the next vss. The ending of vs. 3, … nṛvánta
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -1630,7 +1633,12 @@ puraetā́ ← puraetár- (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भग॑ ए॒व भग॑वाँ अस्तु देवा॒स्तेन॑ व॒यं भग॑वन्तः स्याम ।  
+तं त्वा॑ भग॒ सर्व॒ इज्जो॑हवीति॒ स नो॑ भग पुरए॒ता भ॑वे॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1786,7 +1794,11 @@ _________
 - “here; now; in this world; now; below; there; here; just.”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+भगः- सौभाग्याधिदेवता। एव। भगवान्- सौभाग्यसम्पन्ना। अस्तु- भवतु। देवाः। तेन- तया  सौभाग्याधिदेवतया। वयम्। भगवन्तः- सौभाग्यवन्तः। स्याम- भवेम। भग। तम्- अमुम्।  त्वाम्- भवन्तम्। सर्वो जनः। जोहवीति- आह्वयति। सः- असौ त्वम्। नः- अस्माकम्। पुरएता-  पुरोगामी। इह- अत्र। भव॥५॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -1794,7 +1806,6 @@ _________
 हे देवाः **भगः** देवः **एव** **भगवान्** धनवान् **अस्तु** । **तेन** भगेन देवेन धनेन वा **वयं** **भगवन्तः** **स्याम** धनवन्तो भवेम । हे **भग** **तं** प्रसिद्धं **त्वा** त्वां **सर्व** **इत्** सर्व एव जनः **जोहवीति** भृशं पुनःपुनर्वाह्वयति । हे **भग** देव **सः** त्वम् **इह** अस्मिन् यज्ञे **नः** अस्माकं **पुरएता** पुरोगन्ता **भव** ॥
 _________________
 हे देवाः भगाख्यो देव एव मगवानस्तु तेन देवेन भगवन्तः सौभाग्यवन्तः स्याम । हे भगाख्य देव तं तादृशं त्वां सर्वइत् सर्व एव लोकः जोहवीमि आह्वयतीत्यर्थः । हे भगदेव स त्वमिह अस्मिन् कर्मणि नोऽस्माकं पुर एता पुरतो गन्ता भव ॥
-
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1826,21 +1837,13 @@ Let Bhaga himself be possessed of portion, o gods. In this way might we  be poss
 Each and every one constantly calls on you, Bhaga. Become our guide  here, Bhaga.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The punning continues here with a clever twist: even Bhaga himself should become possessed of a portion (bhágavant-) (a); (only) in this way (téna) will we become bhágavant- (b). In other words, Bhaga needs to get his own portion before he can pass it on to us.
-
-This vs. forms a slight ring with vs. 1: the intensive verb johavīti provides one additional stem to the two forms of √hū in vs. 1, havāmahe and huvema.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
-<details open><summary><h7>03-05 ...{Loading}...</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
 The concatenation continues in the next vss. The ending of vs. 3, … nṛvántaḥ syāma, echoes in the following two vss. The 1st pl. opt. syāma is repeated at the end of 4a and d and 5b, while the -vant-stem adj. shifts from nṛvántaḥ (3d) to another punning bhágavantaḥ (both ‘possessing a portion’ and ‘accompanied by Bhaga’) in bhágavantaḥ syāma (4a, 5b; cf. bhágavān 5a). And bhágavān in 5a matches maghavan in the same metrical position in 4c.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -2013,7 +2016,12 @@ vahantu ← √vah- (root)
 
 vājínaḥ ← vājín- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सम॑ध्व॒रायो॒षसो॑ नमन्त दधि॒क्रावे॑व॒ शुच॑ये प॒दाय॑ ।  
+अ॒र्वा॒ची॒नं व॑सु॒विदं॒ भगं॑ नो॒ रथ॑मि॒वाश्वा॑ वा॒जिन॒ आ व॑हन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2143,7 +2151,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2156,7 +2163,6 @@ _________
 **शुचये** शुद्धाय गमनयोग्याय **पदाय** स्थानाय **दधिक्रावेव** अश्वो यथा तथा **उषसः** उषोदेवताः **अध्वराय** अस्मदीयाय यागाय **सं** **नमन्त** संगच्छन्तु । **वाजिनः** वेगवन्तः **अश्वाः** **रथमिव** रथं यथा तथोषसः **अर्वाचीनम्** अस्मदभिमुखं **वसुविदं** धनस्य प्रापकं **भगं** देवं **नः** अस्मान् प्रति **आ** **वहन्तु** आनयन्तु ॥
 ____________
 अस्य भगदेवस्य प्रसादादुषसः उषःकालदेवताः अध्वराय यज्ञनिष्पत्त्यर्थं संनमन्त समनमन्त । तत्र दृष्टान्तः - दधिक्रावेत्यश्वस्य नाम । अश्वो यथाऽऽधानकाले शुचयेऽग्निनिष्पत्तये पदाय आहवनीयायतने संभाराणामुत्तरतः पादेनाक्रमणाय संप्राप्नोति तथैवोषःकालदेवता अपि प्राप्नुवन्तु । अन्योऽपि दृष्टान्त उच्यते - वाजिनो वेगवन्तोऽश्वा यथा रथमावहन्ति, तथा नोऽर्वाचीनमस्माकमभिमुखं वसुविदं धनस्य लब्धारं भगदेवमावहन्तु इह र्कमण्यानयन्तु ॥
-
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -2364,7 +2370,12 @@ svastíbhiḥ ← svastí- (nominal stem)
 
 yūyám ← tvám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वा॑वती॒र्गोम॑तीर्न उ॒षासो॑ वी॒रव॑तीः॒ सद॑मुच्छन्तु भ॒द्राः ।  
+घृ॒तं दुहा॑ना वि॒श्वतः॒ प्रपी॑ता यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2478,7 +2489,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

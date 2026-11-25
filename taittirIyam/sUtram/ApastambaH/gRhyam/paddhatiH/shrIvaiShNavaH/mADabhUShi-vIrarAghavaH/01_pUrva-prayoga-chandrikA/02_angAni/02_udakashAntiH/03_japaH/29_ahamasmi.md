@@ -401,16 +401,6 @@ title = "२९ 'अहमस्मि',"
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/100/11_devIM_vAchamajanayanta.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-दे॒वीं वाच॑मजनयन्त दे॒वास्तां वि॒श्वरू॑पाः प॒शवो॑ वदन्ति ।  
-सा नो॑ म॒न्द्रेष॒मूर्जं॒ दुहा॑ना धे॒नुर्वाग॒स्मानुप॒ सुष्टु॒तैतु॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/100/11_devIM_vAchamajanayanta.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -744,16 +734,6 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 च᳓तस्र +++(दिग्देवताः)+++ ऊ᳓र्जं दुदुहे प᳓याँसी  
 क्व᳙स्विद् अस्याः परमं᳓ जगाम । 
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-यद्वाग्वद॑न्त्यविचेत॒नानि॒ राष्ट्री॑ दे॒वानां॑ निष॒साद॑ म॒न्द्रा ।  
-चत॑स्र॒ ऊर्जं॑ दुदुहे॒ पयां॑सि॒ क्व॑ स्विदस्याः पर॒मं ज॑गाम ॥
 </details>
 
 </div>
@@ -1219,16 +1199,6 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 गु᳓हा त्री᳓णि +++(=परा-पश्यन्ती-मध्यमाः)+++ **नि᳓हिता** ने᳓ङ्गयन्ति  
 तुरी᳓यं वाचो᳓ +++(=वैखरी)+++ मनुष्या᳙ **वदन्ति** ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/164/45_chatvAri_vAkparimitA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-च॒त्वारि॒ वाक्परि॑मिता प॒दानि॒ तानि॑ विदुर्ब्राह्म॒णा ये म॑नी॒षिणः॑ ।  
-गुहा॒ त्रीणि॒ निहि॑ता॒ नेङ्ग॑यन्ति तु॒रीयं॑ वा॒चो म॑नु॒ष्या॑ वदन्ति ॥
 </details>
 
 </div>
@@ -1872,17 +1842,6 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/02_priyaM_shraddhe.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-प्रि॒यँ श्र॑द्धे॒ दद॑तः । प्रि॒यँ श्र॑द्धे॒ दिदा॑सतः ।  
-प्रि॒यं भो॒जेषु॒ यज्व॑सु। इ॒दं म॑ उदि॒तङ् कृ॑धि ।  
-
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/02_priyaM_shraddhe.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2148,17 +2107,6 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 श्रद्धा᳓म् उग्रे᳓षु चक्रिरे᳓  
 एव᳓म् भोजे᳓षु य᳓ज्वसु  
 अस्मा᳓कम् उदितं᳓ कृधि
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/03_yathA_devA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-यथा॑ दे॒वा असु॑रेषु । श्र॒द्धाम् उ॒ग्रेषु॑ चक्रि॒रे ।  
-ए॒वं भो॒जेषु॒ यज्व॑सु । अ॒स्माक॑म् उदि॒तङ् कृ॑धि ।  
-
 </details>
 
 </div>
@@ -2689,17 +2637,6 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 श्रद्धां᳓ मध्य᳓न्दिनं **प᳓रि** ।  
 श्रद्धां᳓ सू᳓र्यस्य निम्रु᳓चि+++(=निमज्जने)+++  
 श्र᳓द्धे **श्र᳓द्धापयेह᳓** नः ॥
-
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/05_shraddhAM_prAtarhavAmahe.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-श्र॒द्धां प्रा॒तर् ह॑वामहे । श्र॒द्धां म॒ध्यन्दि॑नं॒ परि॑ ।  
-श्र॒द्धाँ सूर्य॑स्य नि॒म्रुचि॑ । श्रद्धे॒ श्रद्धा॑पये॒ह मा॑ ।
 
 </details>
 
@@ -3419,16 +3356,6 @@ Eastward at first was Brahma generated. Vena o’erspread the bright Ones from t
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/028/01_A_gAvo.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-आ गावो॑ अग्मन्नु॒त भ॒द्रम॑क्र॒न्त्सीद॑न्तु गो॒ष्ठे र॒णय॑न्त्व॒स्मे ।  
-प्र॒जाव॑तीः पुरु॒रूपा॑ इ॒ह स्यु॒रिन्द्रा॑य पू॒र्वीरु॒षसो॒ दुहा॑नाः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/01_A_gAvo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -3794,16 +3721,6 @@ Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich 
 भू᳓योभूयो रयि᳓म् इ᳓द् अस्य **वर्ध᳓यन्न्**  
 अ᳓भिन्ने खिल्ये᳓ +++(स्वर्गे)+++ **नि᳓ दधाति** देवयु᳓म्+++(=देवकामम्)+++ ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/028/02_indro_yajvane.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्रो॒ यज्व॑ने पृण॒ते च॑ शिक्ष॒त्युपेद्द॑दाति॒ न स्वं मु॑षायति ।  
-भूयो॑भूयो र॒यिमिद॑स्य व॒र्धय॒न्नभि॑न्ने खि॒ल्ये नि द॑धाति देव॒युम् ॥
 </details>
 
 </div>
@@ -4187,7 +4104,6 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 
 <details><summary>सायण-टीका</summary>
 
-
 'न ता अर्वा रेणुककाटोः' इति चतुर्थी । एतच्चोभयम् 'उत नः प्रिया' इत्यत्र व्याख्यातम् ॥
 </details>
 </details>
@@ -4247,16 +4163,6 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 उरुगाय᳓म् अ᳓भयं +++(स्थानं)+++ त᳓स्य ता᳓ अ᳓नु  
 गा᳓वो म᳓र्तस्य **वि᳓ चरन्ति** य᳓ज्वनः ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/028/04_na_tA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-न ता अर्वा॑ रे॒णुक॑काटो अश्नुते॒ न सं॑स्कृत॒त्रमुप॑ यन्ति॒ ता अ॒भि ।  
-उ॒रु॒गा॒यमभ॑यं॒ तस्य॒ ता अनु॒ गावो॒ मर्त॑स्य॒ वि च॑रन्ति॒ यज्व॑नः ॥
 </details>
 
 </div>
@@ -4692,16 +4598,6 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 भद्रं᳓ गृहं᳓ **कृणुथ** भद्र-वाचो  
 बृह᳓द् वो व᳓य+++(=अन्नं)+++ **उच्यते** सभा᳓सु ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/028/06_yUyaM_gAvo.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-यू॒यं गा॑वो मेदयथा कृ॒शं चि॑दश्री॒रं चि॑त्कृणुथा सु॒प्रती॑कम् ।  
-भ॒द्रं गृ॒हं कृ॑णुथ भद्रवाचो बृ॒हद्वो॒ वय॑ उच्यते स॒भासु॑ ॥
 </details>
 
 </div>

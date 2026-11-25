@@ -57,16 +57,6 @@ title = "०४ ‘इन्द्रं वो विश्वतस्पर�
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/10_indraM_vo.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्रं॑ वो वि॒श्वत॒स्परि॒ हवा॑महे॒ जने॑भ्यः ।  
-अ॒स्माक॑मस्तु॒ केव॑लः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/10_indraM_vo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -343,17 +333,6 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 शू᳓रो नृ᳓-षाता +++(=सम्भक्ता)+++ श᳓वसश् **चकान᳓** +++(कामयमानः)+++  
 +++(सामवेदे भेदः)+++  
 आ᳓ गो᳓मति व्रजे᳓ **भजा** त्वं᳓ नः ।।
-
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/027/01_indraM_naro.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्रं॒ नरो॑ ने॒मधि॑ता हवन्ते॒ यत्पार्या॑ यु॒नज॑ते॒ धिय॒स्ताः ।  
-शूरो॒ नृषा॑ता॒ शव॑सश्चका॒न आ गोम॑ति व्र॒जे भ॑जा॒ त्वं नः॑ ॥
 
 </details>
 
@@ -774,16 +753,6 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/037/09_indriyANi_shatakrato.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इ॒न्द्रि॒याणि॑ शतक्रतो॒ या ते॒ जने॑षु प॒ञ्चसु॑ ।  
-इन्द्र॒ तानि॑ त॒ आ वृ॑णे ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/037/09_indriyANi_shatakrato.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -1079,16 +1048,6 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 **अ᳓नु** क्षत्र᳓म्, **अ᳓नु** स᳓हो यजत्र᳓+++(=यष्टव्य)+++ 
 + इ᳓न्द्र देवे᳓भिर्, **अ᳓नु** ते नृ-ष᳓ह्ये ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/025/08_anu_te.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अनु॑ ते दायि म॒ह इ॑न्द्रि॒याय॑ स॒त्रा ते॒ विश्व॒मनु॑ वृत्र॒हत्ये॑ ।  
-अनु॑ क्ष॒त्रमनु॒ सहो॑ यज॒त्रेन्द्र॑ दे॒वेभि॒रनु॑ ते नृ॒षह्ये॑ ॥
 </details>
 
 </div>
@@ -1578,16 +1537,6 @@ The glowing pot is the guest of Indra.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/089/07_AmAsu_pakvamairaya.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-आ॒मासु॑ प॒क्वमैर॑य॒ आ सूर्यं॑ रोहयो दि॒वि ।  
-घ॒र्मं न साम॑न्तपता सुवृ॒क्तिभि॒र्जुष्टं॒ गिर्व॑णसे बृ॒हत् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/089/07_AmAsu_pakvamairaya.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -1921,16 +1870,6 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्र॒मिद्गा॒थिनो॑ बृ॒हदिन्द्र॑म॒र्केभि॑र॒र्किणः॑ ।  
-इन्द्रं॒ वाणी॑रनूषत ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2255,16 +2194,6 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 ब्रह्मा᳓णस् त्वा शतक्रत  
 उ᳓द् वंश᳓म् इव **येमिरे** +++(←यम्)+++॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/010/01_gAyanti_tvA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-गाय॑न्ति त्वा गाय॒त्रिणोऽर्च॑न्त्य॒र्कम॒र्किणः॑ ।  
-ब्र॒ह्माण॑स्त्वा शतक्रत॒ उद्वं॒शमि॑व येमिरे ॥
 </details>
 
 </div>
@@ -2730,16 +2659,6 @@ May the desires of the sacrificer be fulfilled.
 अं᳓हसो य᳓त्र **पीप᳓रद्**+++(=पारयति)+++ य᳓था नो  
 नावे᳓व या᳓न्तम् उभ᳓ये +++(तीरस्था)+++ **हवन्ते** ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/032/14_viveSha_yanmA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-वि॒वेष॒ यन्मा॑ धि॒षणा॑ ज॒जान॒ स्तवै॑ पु॒रा पार्या॒दिन्द्र॒मह्नः॑ ।  
-अंह॑सो॒ यत्र॑ पी॒पर॒द्यथा॑ नो ना॒वेव॒ यान्त॑मु॒भये॑ हवन्ते ॥
 </details>
 
 </div>
@@ -3290,16 +3209,6 @@ Who is hostile to us.
 अ᳓जायथा वृषभ चर्षणीना᳓म्  
 अ᳓पानुदो ज᳓नम् अमित्रय᳓न्तम्  
 उरुं᳓ देवे᳓भ्यो अकृणोर् उलोक᳓म्†
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/180/03_indra_xatramabhi.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इन्द्र॑ क्ष॒त्रम॒भि वा॒ममोजोऽजा॑यथा वृषभ चर्षणी॒नाम् ।  
-अपा॑नुदो॒ जन॑ममित्र॒यन्त॑मु॒रुं दे॒वेभ्यो॑ अकृणोरु लो॒कम् ॥
 </details>
 
 </div>
@@ -3919,16 +3828,6 @@ May we be dear to you among the princes.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/031/04_anavaste_rathamashvAya.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अन॑वस्ते॒ रथ॒मश्वा॑य तक्ष॒न्त्वष्टा॒ वज्रं॑ पुरुहूत द्यु॒मन्त॑म् ।  
-ब्र॒ह्माण॒ इन्द्रं॑ म॒हय॑न्तो अ॒र्कैरव॑र्धय॒न्नह॑ये॒ हन्त॒वा उ॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/031/04_anavaste_rathamashvAya.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -4304,16 +4203,6 @@ Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vie
 अनश्वा᳓सो ये᳓ पव᳓यो+++(=नेमयः, वज्राणि)+++ ऽरथा᳓  
 इ᳓न्द्रेषिता **अभ्य᳓वर्तन्त** द᳓स्यून् ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/031/05_vRShNe_yatte.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-वृष्णे॒ यत्ते॒ वृष॑णो अ॒र्कमर्चा॒निन्द्र॒ ग्रावा॑णो॒ अदि॑तिः स॒जोषाः॑ ।  
-अ॒न॒श्वासो॒ ये प॒वयो॑ऽर॒था इन्द्रे॑षिता अ॒भ्यव॑र्तन्त॒ दस्यू॑न् ॥
 </details>
 
 </div>

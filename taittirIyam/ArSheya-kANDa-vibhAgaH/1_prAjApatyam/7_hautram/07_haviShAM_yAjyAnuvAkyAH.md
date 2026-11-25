@@ -25,16 +25,6 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/044/16_agnirmUrdhA_divaH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अ॒ग्निर्मू॒र्धा दि॒वः क॒कुत्पतिः॑ पृथि॒व्या अ॒यम् ।  
-अ॒पां रेतां॑सि जिन्वति ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/044/16_agnirmUrdhA_divaH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -582,16 +572,6 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 पर्ज᳓न्यो वृष्टिमाँ᳓ इव ।  
 स्तो᳓मैर् वत्स᳓स्य **वावृधे** ॥+++(4)+++
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/006/01_mahA_N_indro.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-म॒हाँ इन्द्रो॒ य ओज॑सा प॒र्जन्यो॑ वृष्टि॒माँ इ॑व ।  
-स्तोमै॑र्व॒त्सस्य॑ वावृधे ॥
 </details>
 
 </div>

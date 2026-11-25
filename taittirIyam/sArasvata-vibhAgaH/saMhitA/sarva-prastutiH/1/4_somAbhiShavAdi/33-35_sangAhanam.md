@@ -75,18 +75,7 @@ O Soma, the exalted one, be satisfied by all protections; be increased for us.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/113/11_IyuShTe_ye.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-ई॒युष्टे ये पूर्व॑तरा॒मप॑श्यन्व्यु॒च्छन्ती॑मु॒षसं॒ मर्त्या॑सः ।  
-अ॒स्माभि॑रू॒ नु प्र॑ति॒चक्ष्या॑भू॒दो ते य॑न्ति॒ ये अ॑प॒रीषु॒ पश्या॑न् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/113/11_IyuShTe_ye.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -175,6 +164,12 @@ yanti ← √i- 1 (root)
 
 yé ← yá- (pronoun)  
 {}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒युष्टे ये पूर्व॑तरा॒मप॑श्यन्व्यु॒च्छन्ती॑मु॒षसं॒ मर्त्या॑सः ।  
+अ॒स्माभि॑रू॒ नु प्र॑ति॒चक्ष्या॑भू॒दो ते य॑न्ति॒ ये अ॑प॒रीषु॒ पश्या॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -350,19 +345,16 @@ _________
 They have gone, the mortals who saw the earlier dawn dawning forth. (This dawn) has now come to be gazed upon by us. And there are those  coming hither who will see (the dawn) in the future.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 
-With Grassmann (et al.) I take praticákṣyā as the gerundive; cf. I.124.8.
-
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
-<details open><summary><h7>07-13 …{Loading}…</h7></summary>
+<details open><summary><h2>07-13 …{Loading}…</h2></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
 These verses have a surprising density of forms of ví √vas ‘dawn forth’ (7b, d, 8c, 9b, 10b [2x], 11b, 12d, 13a, b, c), whereas vss. 1-6 lack any such forms -- though there’s a teasing echo in 4b ví … āvaḥ ‘She opened, uncovered’, belonging, however, to √vṛ. See also comments on vs. 14.
 </details>
 </details>
+
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -453,7 +445,6 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 
 भावार्थभाषाः -  जी माणसे उषेचे आगमन होण्यापूर्वी जागे होऊन आवश्यक कार्य करतात व नंतर परमेश्वराचे ध्यान करतात ती बुद्धिमान व धार्मिक असतात. जे स्त्री-पुरुष परमेश्वराचे ध्यान करून प्रेमाने आपापसात बोलतात. त्यांना अनेक प्रकारचे सुख प्राप्त होते. ॥ ११ ॥
 </details>
-
 </div>  
 
 ## ओषणम्

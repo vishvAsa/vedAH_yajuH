@@ -26,16 +26,6 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/027/01_pra_vo.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-प्र वो॒ वाजा॑ अ॒भिद्य॑वो ह॒विष्म॑न्तो घृ॒ताच्या॑ ।  
-दे॒वाञ्जि॑गाति सुम्न॒युः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/027/01_pra_vo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -311,16 +301,6 @@ Vor dringt eur Opfer himmelwärts, im Butterlöffel trankversehn, Zu Göttern ei
 **गृणानो᳓** +++(=स्तूयमानः)+++ हव्य᳓दातये +++(देवेभ्यः)+++ ।  
 नि᳓ हो᳓ता **सत्सि** बर्हि᳓षि ।।
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/016/10_agna_A.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अग्न॒ आ या॑हि वी॒तये॑ गृणा॒नो ह॒व्यदा॑तये ।  
-नि होता॑ सत्सि ब॒र्हिषि॑ ॥
 </details>
 
 </div>

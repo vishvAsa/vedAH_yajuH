@@ -493,16 +493,6 @@ Om Bhuh, Om Bhuvah, Om Suvah, Om Mahah, Om Janah, Om austerity, Om truth; Om
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/062/10_tatsaviturvareNyaM_bhargo.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-तत्स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि ।  
-धियो॒ यो नः॑ प्रचो॒दया॑त् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 

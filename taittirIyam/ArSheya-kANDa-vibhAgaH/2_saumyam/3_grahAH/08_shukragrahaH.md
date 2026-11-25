@@ -30,16 +30,6 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/123/01_ayaM_venashchodayatpRshnigarbhA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अ॒यं वे॒नश्चो॑दय॒त्पृश्नि॑गर्भा॒ ज्योति॑र्जरायू॒ रज॑सो वि॒माने॑ ।  
-इ॒मम॒पां सं॑ग॒मे सूर्य॑स्य॒ शिशुं॒ न विप्रा॑ म॒तिभी॑ रिहन्ति ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/123/01_ayaM_venashchodayatpRshnigarbhA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -366,11 +356,12 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -397,7 +388,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

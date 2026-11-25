@@ -148,16 +148,6 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/046/08_uta_gnA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उ॒त ग्ना व्य॑न्तु दे॒वप॑त्नीरिन्द्रा॒ण्य१॒॑ग्नाय्य॒श्विनी॒ राट् ।  
-आ रोद॑सी वरुणा॒नी शृ॑णोतु॒ व्यन्तु॑ दे॒वीर्य ऋ॒तुर्जनी॑नाम् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/046/08_uta_gnA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 

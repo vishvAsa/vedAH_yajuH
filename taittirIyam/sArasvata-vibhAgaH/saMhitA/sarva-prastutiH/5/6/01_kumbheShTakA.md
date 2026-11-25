@@ -180,6 +180,7 @@ Those that inundate the earth with their sap [1], the pure ones May these waters
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/5/6/01_kumbheShTakA__05-13_yad_adas">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -190,9 +191,11 @@ Those that inundate the earth with their sap [1], the pure ones May these waters
 
 5पञ्चमी - यदद इत्यनुष्टुप् ॥
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/21_yad_adas.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/21_yad_adas.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 य᳓द् अद᳓स् सम्प्रयती᳓र्  
 अ᳓हाव्+++(→मेघे, serpens)+++ **अ᳓नदता** हते᳓  +++(ज्येष्ठ-स्थ+इन्द्रेण)+++।  
@@ -200,10 +203,12 @@ Those that inundate the earth with their sap [1], the pure ones May these waters
 ता᳓ वो ना᳓मानि सिन्धवः+++(=स्यन्दनशीलाः)+++ ।+++(4)+++
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/21_yad_adas.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/21_yad_adas.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 When as ye went below  
@@ -234,7 +239,10 @@ These are your names, O streams.
 हे **सिन्धवः** स्यन्दनशीलाः । 'स्यन्देः प्रसारणं धश्च' इत्युप्रत्ययः । ता तादृशानि **वः** युष्माकं **नामानि** अन्वर्थानीत्यर्थः ॥
 </details>
 </details>
+
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -246,9 +254,11 @@ These are your names, O streams.
 
 6नामान्तराणामपि व्युत्पत्तिं प्रदर्शयिष्याम इति बहुवचन-निर्देशेनोपक्षिप्तं तत्राप इति नाम व्युत्पादयितुमाह - यदिति ॥
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/25_yat_preShitA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/25_yat_preShitA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 य᳓त् **प्रे᳓षिता** व᳓रुणेन,  
 ता᳓श् शी᳓भँ+++(=शिवं)+++ **सम᳓वल्गत**+++(=अनृत्यत)+++ । [2]  
@@ -256,10 +266,12 @@ These are your names, O streams.
 त᳓स्माद् आ᳓पो अ᳓नु **स्थन** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/25_yat_preShitA.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/25_yat_preShitA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 When instigated by Varuna  
@@ -285,15 +297,20 @@ Therefore ye are waters (ápah).
 **ता** यूयं **शीभं** शिवं शोभनं **समवल्गत** सम्भूय नृत्यन्त इव शोभनं चेष्टितवत्यः । तदानीं वः युष्मान् यतीः गच्छतीः विलक्षणगतीः मध्यमस्थाने आप्नोदिन्द्रः । तस्मात्कारणात् अनु अनन्तरं ततः प्रभृति आपः स्थन अप्शब्दवाच्याः स्थ । आप्नोतेः कर्मणि क्विप्, 'तप्तनप्तनधानाश्च' इति तनपादेशः ॥
 </details>
 </details>
+
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒प॒का॒मँ स्यन्द॑माना॒ अवी॑वरत वो॒ हिक॑म् । इन्द्रो॑ व॒श्शक्ति॑भिर्देवी॒स्तस्मा॒द्वार्णाम॑ वो हि॒तम् ।
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/29_apakAmaM_syandamAnA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/29_apakAmaM_syandamAnA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 अपकामँ᳓ **स्य᳓न्दमाना**  
 **अ᳓वीवरत**+++(←वृ)+++ वो हि᳓कम्+++(=हि)+++ ।   
@@ -301,10 +318,12 @@ Therefore ye are waters (ápah).
 त᳓स्माद् वा᳓र्+++(=वारि)+++ णा᳓म वो **हित᳓म्** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/29_apakAmaM_syandamAnA.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/29_apakAmaM_syandamAnA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 As ye glided against his will,  
@@ -334,7 +353,10 @@ Therefore your name is water (váh).
 वर्णव्यत्ययेन णत्वम् ॥
 </details>
 </details>
+
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -345,9 +367,11 @@ Therefore your name is water (váh).
 
 8अष्टमी - एक इत्यनुष्टुप् ॥
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/33_eko_devo.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/33_eko_devo.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ए᳓को देवो᳓ अ᳓प्य् **अतिष्ठथ्** -  
 **स्य᳓न्दमाना** यथा-वश᳓म् ।  
@@ -355,10 +379,12 @@ Therefore your name is water (váh).
 त᳓स्माद् उदक᳓म् **उच्यते** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/33_eko_devo.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/33_eko_devo.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 One god stepped upon them,  
@@ -384,16 +410,21 @@ Therefore they are called water.
 अत्रोदकं व्युत्पादयति - **एको देव** इन्द्रः **अप्य् अतिष्ठत्** स्वामित्वेनाध्यतिष्ठत् । अध्यर्थे अपिशब्दः । **यथावशं** यथेष्टं इतश्चेतश्च स्यन्दमाना आपः । यद्वा - **स्यन्दमानास्** सर्वास्स्रवन्तरिपः यथावशमप्यतिष्ठत् मध्यमे स्थाने आत्मनि आत्मनो वशं नीतवान् । तेन देवबहुमानेन आप **उदानिषुः** उछ्ह्वसितवत्यः **महीरिति** महत्यो जाता वयमेतेनेति । 'वा छन्दसि' डति पूर्वसवर्णदीर्घत्वम् । तस्मात्कारणादुदकमित्यपां नाम निरुच्यते उदानादुदकमिति । उत्पूर्वादनितेरौणादिकः कप्रत्ययः, नकारलोपश्च ॥
 </details>
 </details>
+
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आपो॑ भ॒द्रा घृ॒तमिदाप॑ आसुर॒ग्नीषोमौ॑ बिभ्र॒त्याप॒ इत्ताः । ती॒व्रो रसो॑ मधु॒पृचा॑म् [3]  
 अ॒र॒ङ्ग॒म आ मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा गन् ।
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 आ᳓पो भद्रा᳓, घृत᳓म् इ᳓द् आ᳓प आसुर् -  
 अग्नी᳓षो᳓मौ **बिभ्रत्य्**, आ᳓प इ᳓त् ताः᳓ ।  
@@ -401,10 +432,12 @@ Therefore they are called water.
 **आ᳓** मा प्राणे᳓न सह᳓ व᳓र्चसा **गन्** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 The waters are kindly, the waters were ghee;  
@@ -430,7 +463,10 @@ The bitter sap of those dispensing sweetness [3], the satisfying, Hath come to m
 तादृशीनाम् अपां **मधुपृचां** मधुस्वादुना रसेन संपृक्तानां **तीव्रः** उद्भूतो **रसः अरङ्गमः** पर्याप्तगमनः कदाचिदप्यक्षीणेन प्राणेन चक्षुरादिना वर्चसा बलेन च सह मा आगन् आगच्छन्तु, तद्धेतुत्वात्प्राणादिस्थितेः । गमेः छान्दसे लुङि च्लेर्लुक् । 'मो नो धातोः' इति नत्वम् ॥
 </details>
 </details>
+
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -441,9 +477,11 @@ The bitter sap of those dispensing sweetness [3], the satisfying, Hath come to m
 
 10दशमी - आदिति त्रिष्टुप् ॥
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/41_Ad_it.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/41_Ad_it.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 आ᳓द्+++(=अतः)+++ इ᳓त् **पश्याम्य्** उत᳓ वा **शृणोम्य्**  
 आ᳓ मा घो᳓षो **गच्छति** वा᳓ङ् न आसाम् ।  
@@ -451,10 +489,12 @@ The bitter sap of those dispensing sweetness [3], the satisfying, Hath come to m
 हि᳓रण्य-वर्णा **अ᳓तृपय्ँ** यदा᳓ वः ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/41_Ad_it.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/41_Ad_it.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 I behold, or I hear;  
@@ -480,25 +520,22 @@ When I delighted you, O ye of golden hue.
 अस्माकं **वाग्** रूपः **आसां** युष्माकम् आगमनेन रसेन वा । किं बहुना - तर्हि तदानीं अमृतस्य **भेजान** अमृतमेव भजन् अहं मन्ये तर्कयामि । पूर्ववत्कर्मणस्संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी । कदा - यदाहि हे हिरण्यवर्णाः! **वः** युष्माकम् **अतृपं** युष्मत्पानेन सुहितोभवम् । तृप तृंप तृप्तौ, तौदादिकः । मुहितार्थयोगे षष्ठी ॥
 </details>
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
-<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 आ᳓पो हि᳓ ष्ठा᳓ मयो-भु᳓वस्  
 ता᳓ न ऊर्जे᳓+++(जाः)+++ दधातन ।  
 महे᳓ र᳓णाय+++(=रमणीयाय)+++ च᳓क्षसे+++(=दर्शनाय)+++ ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/01_Apo_hi.md">
-<details><summary><h7>मूलम् …{Loading}…</h7></summary>
-
-आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
-म॒हे रणा॑य॒ चक्ष॑से ॥
-</details>
-</div>
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -506,8 +543,9 @@ Ye, waters, are healing;
 Further us to strength,  
 To see great joy.
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/01_Apo_hi.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/01_Apo_hi.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -522,7 +560,7 @@ To see great joy.
 महे᳓ र᳓णाय च᳓क्षसे
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
 म॒हे रणा॑य॒ चक्ष॑से ।
@@ -573,7 +611,12 @@ mahé ← máh- (nominal stem)
 
 ráṇāya ← ráṇa- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
+म॒हे रणा॑य॒ चक्ष॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -661,7 +704,6 @@ _________
 - “watch; look.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -672,6 +714,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 **हि** यस्मात् कारणात् **आपः** या यूयं **मयोभुवः** सुखस्य भावयित्र्यः **स्थ** भवथ **ताः** तादृश्यो यूयं **नः** अस्मान् **ऊर्जे** अन्नाय **दधातन** धत्त । अन्नप्राप्तियोग्यानस्मान् कुरुत । अन्नमस्मभ्यं दत्तेत्यर्थः । **महे** महते **रणाय** रमणीयाय **चक्षसे** दर्शनाय सम्यग्ज्ञानाय च धत्त । अस्मान् सम्यग्ज्ञानं प्रति यौग्यान् कुरुतेत्यर्थः ॥
+
 
 _____________
 
@@ -690,6 +733,11 @@ _____________
 **ताः** यूयं **नः** अस्मान् **ऊर्जे** रसाय **दधातन** स्थापयत  
 ऊर्जं वा अस्मभ्यं दत्त  
 **महे** महते **रणाय** रमणीयाय **चक्षसे** ज्ञानाय चेति प्रथमा ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+स्नानमन्त्राः - आपो हिष्ठेति ॥ हे आपः यूयं मयोभुवः स्थ मय इति सुखनाम, सुखस्य भावयित्र्यः स्थ । हिः प्रसिद्धौ । ताः युयं नः अस्मान् ऊर्जे अन्नाय दधातन धत्त अन्नमस्मभ्यं धत्तेत्यर्थः महे महते रणाय रमणीयाय चक्षसे दर्शनाय दधातन ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -767,23 +815,19 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 </details>
 </div>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
-<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 यो᳓ वः शिव᳓तमो र᳓सस्  
 त᳓स्य भाजयतेह᳓ नः ।  
 उशती᳓र्+++(=कामयमाना)+++ इव मात᳓रः ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/02_yo_vaH.md">
-<details><summary><h7>मूलम् …{Loading}…</h7></summary>
-
-यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ ।  
-उ॒श॒तीरि॑व मा॒तरः॑ ॥
-</details>
-</div>
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -791,8 +835,9 @@ The most auspicious flavour that is yours,
 Accord to us here,  
 Like eager mothers.
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/02_yo_vaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/02_yo_vaH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -852,7 +897,12 @@ mātáraḥ ← mātár- (nominal stem)
 
 uśatī́ḥ ← √vaś- (root)  
 {case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ ।  
+उ॒श॒तीरि॑व मा॒तरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -934,7 +984,6 @@ _________
     Citrullus colocynthis Schrad.; cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -953,6 +1002,11 @@ ________________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 12यो वः युष्माकं शिवतमो रसः तं अस्मात् भाजयत इह कर्मणि । तस्य वा एकदेशमस्मान् प्रापयत उशतीव कामयमाना मातर इवेति द्वितीया ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+य इति ॥ वः युष्माकं सम्बन्धी यश्शिवतमो रसः तस्य तृतीयार्थे षष्ठी, तेन रसेन नः अस्मान् भाजयत सः यथा अस्मान्भजते तथा कुरुत इह लोके उशतीः कामयमाना इव मातरो यथा मातरोवत्सला भूत्वा स्तन्यं प्रापयन्ति तद्वत् ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -1016,8 +1070,9 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 </details>
 </div>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
-<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 +++(रसाय)+++ त᳓स्मा अ᳓रं+++(=शीघ्रम्)+++ **गमाम** वो  
 य᳓स्य +++(प्रभावेण)+++ **क्ष᳓याय**+++(=निवासाय)+++ **जि᳓न्वथ**+++(=प्रीणयथ)+++ ।  
@@ -1025,15 +1080,10 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 +++(`चादिषु` च इति न स्वर-निघातः। )+++
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/03_tasmA_araM.md">
-<details><summary><h7>मूलम् …{Loading}…</h7></summary>
-
-तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ ।  
-आपो॑ ज॒नय॑था च नः ॥
-</details>
-</div>
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1041,8 +1091,9 @@ To him may we come with satisfaction,
 To whose dwelling ye quicken us,  
 O waters, and propagate us.
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/03_tasmA_araM.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/03_tasmA_araM.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -1102,7 +1153,12 @@ janáyatha ← √janⁱ- (root)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ ।  
+आपो॑ ज॒नय॑था च नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1183,7 +1239,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1204,6 +1259,11 @@ _____________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13तस्मै युष्माकं रसाय पर्याप्तं गमाम तं गम्यास्स्म । यस्य रसस्य क्षयाय निवासभूतं पुरुषं जिन्वथ प्रीणयथ । किञ्च - अस्मान् हे आपः! जनयथ जातान्कुरुत युष्मद्रसवन्तो हि जाता भवन्तीति तृतीया ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+तस्मा इति ॥ तस्मै रसाय अरं शीघ्रं पर्याप्तं वा गमाम गच्छेम वः युष्मान् तद्रसस्य पानार्थं युष्मान् गच्छेम । यस्येति तृतीयार्थे षष्ठी, येन रसेन क्षयाय । निवासवचनोयं आद्युदात्तत्वात् द्वितीयार्थे चतुर्थी । क्षयं निवासं अस्मदीयं जिन्वथ प्रीणयथ । येन च हे आपः जनयथ पुत्रपौत्रादिभिः प्रजातान् कुरुथ नः अस्मान् ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -1273,7 +1333,6 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 पदार्थान्वयभाषाः -  (यस्य क्षयाय) यस्य रसस्य निवासाय शरीरे सात्म्यकरणाय संस्थापनाय“क्षि निवासगत्योः” [तुदादिः](../../../../../../../../../vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/009/03_tasmA_araM.md/आपः-जिन्वथ) हे आपः ! तर्पयथ (तस्मै वः-अरं गमाम) तत्प्राप्तये युष्मान् पूर्णरूपेण सेवेमहि (च) यतश्च (नः-जनयथ) अस्मान् प्रादुर्भावयथ पोषयथ, उक्तं यथा-“वेत्थ यदा पञ्चम्यामाहुतावापः पुरुषवचसो भवन्ति” [छान्दो० ५।३।३] ॥३॥
 </details>
 </div>
-
 </div>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
@@ -1677,16 +1736,6 @@ When I delighted you, O ye of golden hue.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/01_Apo_hi.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
-म॒हे रणा॑य॒ चक्ष॑से ॥
-</details>
-
-</div>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
@@ -1698,7 +1747,6 @@ To see great joy.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/01_Apo_hi.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -1713,7 +1761,7 @@ To see great joy.
 महे᳓ र᳓णाय च᳓क्षसे
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
 म॒हे रणा॑य॒ चक्ष॑से ।
@@ -1764,7 +1812,12 @@ mahé ← máh- (nominal stem)
 
 ráṇāya ← ráṇa- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
+म॒हे रणा॑य॒ चक्ष॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1852,7 +1905,6 @@ _________
 - “watch; look.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1863,6 +1915,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 **हि** यस्मात् कारणात् **आपः** या यूयं **मयोभुवः** सुखस्य भावयित्र्यः **स्थ** भवथ **ताः** तादृश्यो यूयं **नः** अस्मान् **ऊर्जे** अन्नाय **दधातन** धत्त । अन्नप्राप्तियोग्यानस्मान् कुरुत । अन्नमस्मभ्यं दत्तेत्यर्थः । **महे** महते **रणाय** रमणीयाय **चक्षसे** दर्शनाय सम्यग्ज्ञानाय च धत्त । अस्मान् सम्यग्ज्ञानं प्रति यौग्यान् कुरुतेत्यर्थः ॥
+
 
 _____________
 
@@ -1881,6 +1934,11 @@ _____________
 **ताः** यूयं **नः** अस्मान् **ऊर्जे** रसाय **दधातन** स्थापयत  
 ऊर्जं वा अस्मभ्यं दत्त  
 **महे** महते **रणाय** रमणीयाय **चक्षसे** ज्ञानाय चेति प्रथमा ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+स्नानमन्त्राः - आपो हिष्ठेति ॥ हे आपः यूयं मयोभुवः स्थ मय इति सुखनाम, सुखस्य भावयित्र्यः स्थ । हिः प्रसिद्धौ । ताः युयं नः अस्मान् ऊर्जे अन्नाय दधातन धत्त अन्नमस्मभ्यं धत्तेत्यर्थः महे महते रणाय रमणीयाय चक्षसे दर्शनाय दधातन ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -1956,7 +2014,6 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 पदार्थान्वयभाषाः -  (ताः-आपः) ता यूयमापः ! (मयः-भुवः) सुखस्य भावयित्र्यः-सुखसम्पादिका वा“मयः सुखनाम” [निघ० ३।६](हि स्थ) अवश्यं स्थ (नः) अस्मान् (ऊर्जे) जीवनबलाय (महे रणाय चक्षसे) महते रमणीयाय दर्शनाय (दधातन) धारयत ॥१॥
 </details>
-
 </div>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
@@ -1967,16 +2024,6 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 त᳓स्य भाजयतेह᳓ नः ।  
 उशती᳓र्+++(=कामयमाना)+++ इव मात᳓रः ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/02_yo_vaH.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ ।  
-उ॒श॒तीरि॑व मा॒तरः॑ ॥
 </details>
 
 </div>
@@ -1992,7 +2039,6 @@ Like eager mothers.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/02_yo_vaH.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -2052,7 +2098,12 @@ mātáraḥ ← mātár- (nominal stem)
 
 uśatī́ḥ ← √vaś- (root)  
 {case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ ।  
+उ॒श॒तीरि॑व मा॒तरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2134,7 +2185,6 @@ _________
     Citrullus colocynthis Schrad.; cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2153,6 +2203,11 @@ ________________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 12यो वः युष्माकं शिवतमो रसः तं अस्मात् भाजयत इह कर्मणि । तस्य वा एकदेशमस्मान् प्रापयत उशतीव कामयमाना मातर इवेति द्वितीया ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+य इति ॥ वः युष्माकं सम्बन्धी यश्शिवतमो रसः तस्य तृतीयार्थे षष्ठी, तेन रसेन नः अस्मान् भाजयत सः यथा अस्मान्भजते तथा कुरुत इह लोके उशतीः कामयमाना इव मातरो यथा मातरोवत्सला भूत्वा स्तन्यं प्रापयन्ति तद्वत् ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -2214,7 +2269,6 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 
 पदार्थान्वयभाषाः -  (वः) हे आपः ! युष्माकं (यः) यः खलु (शिवतमः-रसः) कल्याणतमोऽतिकल्याणसाधको रसोऽस्ति (तस्य नः) तम् “व्यत्ययेन षष्ठी” नोऽस्मान् (इह) अस्मिन् शरीरे (भाजयत) सेवयत (उशतीः-मातरः-इव) पुत्रसमृद्धिं कामयमाना मातर इव, यथा ताः स्वस्तन्यं रसं दुग्धं पुत्रं भाजयन्ति पाययन्ति तद्वत् ॥२॥
 </details>
-
 </div>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
@@ -2230,16 +2284,6 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/03_tasmA_araM.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ ।  
-आपो॑ ज॒नय॑था च नः ॥
-</details>
-
-</div>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
@@ -2251,7 +2295,6 @@ O waters, and propagate us.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/03_tasmA_araM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -2311,7 +2354,12 @@ janáyatha ← √janⁱ- (root)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ ।  
+आपो॑ ज॒नय॑था च नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2392,7 +2440,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2413,6 +2460,11 @@ _____________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13तस्मै युष्माकं रसाय पर्याप्तं गमाम तं गम्यास्स्म । यस्य रसस्य क्षयाय निवासभूतं पुरुषं जिन्वथ प्रीणयथ । किञ्च - अस्मान् हे आपः! जनयथ जातान्कुरुत युष्मद्रसवन्तो हि जाता भवन्तीति तृतीया ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+तस्मा इति ॥ तस्मै रसाय अरं शीघ्रं पर्याप्तं वा गमाम गच्छेम वः युष्मान् तद्रसस्य पानार्थं युष्मान् गच्छेम । यस्येति तृतीयार्थे षष्ठी, येन रसेन क्षयाय । निवासवचनोयं आद्युदात्तत्वात् द्वितीयार्थे चतुर्थी । क्षयं निवासं अस्मदीयं जिन्वथ प्रीणयथ । येन च हे आपः जनयथ पुत्रपौत्रादिभिः प्रजातान् कुरुथ नः अस्मान् ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -2481,7 +2533,6 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 पदार्थान्वयभाषाः -  (यस्य क्षयाय) यस्य रसस्य निवासाय शरीरे सात्म्यकरणाय संस्थापनाय“क्षि निवासगत्योः” [तुदादिः](../../../../../../../../../vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/009/03_tasmA_araM.md/आपः-जिन्वथ) हे आपः ! तर्पयथ (तस्मै वः-अरं गमाम) तत्प्राप्तये युष्मान् पूर्णरूपेण सेवेमहि (च) यतश्च (नः-जनयथ) अस्मान् प्रादुर्भावयथ पोषयथ, उक्तं यथा-“वेत्थ यदा पञ्चम्यामाहुतावापः पुरुषवचसो भवन्ति” [छान्दो० ५।३।३] ॥३॥
 </details>
-
 </div>
 </div>
 

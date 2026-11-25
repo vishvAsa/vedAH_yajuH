@@ -21,18 +21,7 @@ title = "०१ ऐन्द्राग्नम्"
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/045/01_A_devo.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-आ दे॒वो या॑तु सवि॒ता सु॒रत्नो॑ऽन्तरिक्ष॒प्रा वह॑मानो॒ अश्वैः॑ ।  
-हस्ते॒ दधा॑नो॒ नर्या॑ पु॒रूणि॑ निवे॒शय॑ञ्च प्रसु॒वञ्च॒ भूम॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/045/01_A_devo.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -48,7 +37,7 @@ title = "०१ ऐन्द्राग्नम्"
 निवेश᳓यञ् च प्रसुव᳓ञ् च भू᳓म
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 आ दे॒वो या॑तु सवि॒ता सु॒रत्नः॑ ।   
 अ॒न्त॒रि॒क्ष॒प्रा वह॑मानो॒ अश्वैः॑ ।   
@@ -120,7 +109,12 @@ niveśáyan ← √viś- (root)
 
 prasuván ← √sū- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ दे॒वो या॑तु सवि॒ता सु॒रत्नो॑ऽन्तरिक्ष॒प्रा वह॑मानो॒ अश्वैः॑ ।  
+हस्ते॒ दधा॑नो॒ नर्या॑ पु॒रूणि॑ निवे॒शय॑ञ्च प्रसु॒वञ्च॒ भूम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +244,6 @@ _________
 - “Earth; floor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -261,6 +254,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 **सुरत्नः** शोभनरत्नोपेतः **अन्तरिक्षप्राः** स्वकीयेन तेजसान्तरिक्षस्य पूरयिता **अश्वैः** स्वकीयैर्वाहैः  **वहमानः** उह्यमानः **सविता** सर्वस्य प्रेरकः **देवः** **आ** **यातु** आगच्छतु । कीदृशः। **नर्या** नर्याणि मनुष्यहितानि **पुरूणि** बहूनि धनानि **हस्ते** पाणौ **दधानः** दातुं धारयन् **भूम** भूतानि **निवेशयंश्च**   रात्रिषु स्वे स्थाने स्थापयंश्च **प्रसुवंश्च** अहःसु प्रेरयंश्च । एवंभूतः सविता देव आ यातु ॥
+
 
 _____________
 सविता देवः आयातु आगच्छतु । कीदृशः? सुरत्नः शोभनै रत्नैर्युक्तः । अन्तरिक्षप्ताः स्वकीयै रश्मिभिरन्तरिक्षं पूरयिता । अश्वैर्वहमानः स्वकीयैरश्वै रथं वाहयन् । नर्या नरेभ्यो हितानि पुरूणि बहूनि रत्नानि यजमानाय दातुं हस्ते दधानः । भूम बहुलं जगत्प्राणिजातं निवेशयंश्च रात्रौ स्वस्वगृहेऽवस्थापयन्नपि प्रसुवंश्च दिवसे स्वस्वव्यापारेषु प्रेरयन्नपि वर्तत इति शेषः॥
@@ -287,16 +281,13 @@ holding many things meant for men in his hand, bringing the world to  rest and i
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/045/01-02.md">
-<details open><summary><h7>01-02 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 Although Savitar’s role as god of evening, causing the world and its activities to settle down, is alluded to in 1d, his role as rouser of the world at dawn is given equal billing in that pāda (… ca … ca). The more oblique expression in 2d must also refer to this latter role. The sun “cedes his task” of waking and rousing the world to Savitar.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -374,7 +365,6 @@ Gott Savitar, der güterreiche, komme, die Luft durchdringend, mit den Rossen fa
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जी माणसे सूर्याप्रमाणे शुभ गुण, कर्म प्रकट करतात व माणसांचे हित करतात ती अत्यंत ऐश्वर्य प्राप्त करतात. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

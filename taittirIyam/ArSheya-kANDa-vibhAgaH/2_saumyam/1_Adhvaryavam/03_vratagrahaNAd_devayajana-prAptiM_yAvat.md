@@ -349,16 +349,6 @@ ________
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/011/01_tvamagne_vratapA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-त्वम॑ग्ने व्रत॒पा अ॑सि दे॒व आ मर्त्ये॒ष्वा ।  
-त्वं य॒ज्ञेष्वीड्यः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/011/01_tvamagne_vratapA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 

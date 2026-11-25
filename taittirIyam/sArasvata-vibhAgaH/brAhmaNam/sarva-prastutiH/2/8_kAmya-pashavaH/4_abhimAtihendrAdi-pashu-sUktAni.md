@@ -252,7 +252,6 @@ unicode_script: devanagari
 
 <details><summary>सायण-टीका</summary>
 
-
 - अन॑वस्ते॒ रथ॒मश्वा॑य तक्ष॒न्त्वष्टा॒ वज्र॑म्पुरुहूत द्यु॒मन्त॑म् ।   
 ब्र॒ह्माण॒ इन्द्र॑म्म॒हय॑न्तो अ॒र्कैरव॑र्धय॒न्नह॑ये॒ हन्त॒वा उ॑  ॥  
 
@@ -807,18 +806,7 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/185/07_urvI_pRthvI.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उ॒र्वी पृ॒थ्वी ब॑हु॒ले दू॒रेअ॑न्ते॒ उप॑ ब्रुवे॒ नम॑सा य॒ज्ञे अ॒स्मिन् ।  
-द॒धाते॒ ये सु॒भगे॑ सु॒प्रतू॑र्ती॒ द्यावा॒ रक्ष॑तं पृथिवी नो॒ अभ्वा॑त् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/185/07_urvI_pRthvI.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -834,7 +822,7 @@ unicode_script: devanagari
 द्या᳓वा र᳓क्षतम् पृथिवी नो अ᳓भ्वात्
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 उ॒र्वी पृ॒थ्वी ब॑हु॒ले दू॒रे अ॑न्ते ।  
 उप॑ ब्रुवे॒ नम॑सा य॒ज्ञे अ॒स्मिन् ।  
@@ -909,7 +897,12 @@ pr̥thivī ← pr̥thivī́- (nominal stem)
 
 rákṣatam ← √rakṣⁱ- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒र्वी पृ॒थ्वी ब॑हु॒ले दू॒रेअ॑न्ते॒ उप॑ ब्रुवे॒ नम॑सा य॒ज्ञे अ॒स्मिन् ।  
+द॒धाते॒ ये सु॒भगे॑ सु॒प्रतू॑र्ती॒ द्यावा॒ रक्ष॑तं पृथिवी नो॒ अभ्वा॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1035,7 +1028,6 @@ _________
 - “monstrosity; nothingness; void; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1142,7 +1134,6 @@ Die weiten, breiten, grossen, fernbegrenzten ruf' ich mit Ehrfurcht an bei diese
 
 भावार्थभाषाः -  जसा चंद्रलोक पृथ्वीजवळ आहे तसा सूर्यलोक दूर आहे. सर्व स्थानी (गोलांमध्ये) प्रकाश व अंधकाररूपी गोल द्वय वर्तमान असतात. त्या गोलामुळे जशी उन्नती होईल तसा प्रयत्न सर्वांनी करावा. ॥ ७ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1171,7 +1162,6 @@ Die weiten, breiten, grossen, fernbegrenzten ruf' ich mit Ehrfurcht an bei diese
 </details>
 
 <details><summary>सायण-टीका</summary>
-
 
 - या जा॒ता ओष॑धयो दे॒वेभ्य॑स्त्रियु॒गम्पु॒रा ।  
 मन्दा॑मि ब॒भ्रूणा॑महँ श॒तन्धामा॑नि स॒प्त च॑ ।  

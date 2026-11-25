@@ -849,18 +849,7 @@ Sweet be the cows to us.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-मधु॑मान्नो॒ वन॒स्पति॒र्मधु॑माँ अस्तु॒ सूर्यः॑ ।  
-माध्वी॒र्गावो॑ भवन्तु नः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -875,7 +864,7 @@ Sweet be the cows to us.
 मा᳓ध्वीर् गा᳓वो भवन्तु नः
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 मधु॑मान्नो॒ वन॒स्पति॒र्मधु॑माँ अस्तु॒ सूर्यः॑ ।  
 माध्वी॒र्गावो॑ भवन्तु नः ।
@@ -923,7 +912,12 @@ mā́dhvīḥ ← mā́dhvī- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मधु॑मान्नो॒ वन॒स्पति॒र्मधु॑माँ अस्तु॒ सूर्यः॑ ।  
+माध्वी॒र्गावो॑ भवन्तु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -999,7 +993,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1010,6 +1003,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 **नः** अस्माकं **वनस्पतिः** वनानां पालयिता यूपाभिमानी देवः **मधुमान्** माधुर्योपेतफलवान् **अस्तु** । तादृशं फलमस्मभ्यं प्रयच्छत्वित्यर्थः। **सूर्यः** सर्वस्य प्रेरकः सविता च **मधुमान्** अस्तु । **गावः** अग्निहोत्राद्यर्था धेनवश्च **नः** अस्माकं **माध्वीः** माधुर्योपेतेन पयसा युक्ताः **भवन्तु** ॥ वनस्पतिः । वनानां पतिर्वनस्पतिः । पारस्करादित्वात् सुट् । वनपतिशब्दावाद्युदात्तौ ।' उभे वनस्पत्यादिषु युगपत् ' इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
+
 
 _____________
 
@@ -1099,7 +1093,6 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 भावार्थभाषाः -  हे विद्वान लोकांनो! तुम्ही व आम्ही मिळून असा पुरुषार्थ करावा की ज्यामुळे आमचे सर्व कार्य सिद्ध व्हावे. ॥ ८ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

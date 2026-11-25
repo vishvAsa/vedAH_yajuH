@@ -47,16 +47,6 @@ The hymn and acclamation is recited.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/049/01_idaM_vAmAsye.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इ॒दं वा॑मा॒स्ये॑ ह॒विः प्रि॒यमि॑न्द्राबृहस्पती ।  
-उ॒क्थं मद॑श्च शस्यते ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/049/01_idaM_vAmAsye.md">
 
 <details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
@@ -116,7 +106,12 @@ mádaḥ ← máda- (nominal stem)
 
 ukthám ← ukthá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं वा॑मा॒स्ये॑ ह॒विः प्रि॒यमि॑न्द्राबृहस्पती ।  
+उ॒क्थं मद॑श्च शस्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +185,6 @@ _________
     bode; name; agree.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -331,16 +325,6 @@ Dear for delight, for drinking.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/049/02_ayaM_vAM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अ॒यं वां॒ परि॑ षिच्यते॒ सोम॑ इन्द्राबृहस्पती ।  
-चारु॒र्मदा॑य पी॒तये॑ ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/049/02_ayaM_vAM.md">
 
 <details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
@@ -397,7 +381,12 @@ mádāya ← máda- (nominal stem)
 
 pītáye ← pītí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं वां॒ परि॑ षिच्यते॒ सोम॑ इन्द्राबृहस्पती ।  
+चारु॒र्मदा॑य पी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -463,7 +452,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -598,16 +586,6 @@ Of horses a thousandfold.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/049/04_asme_indrAbRhaspatI.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अ॒स्मे इ॑न्द्राबृहस्पती र॒यिं ध॑त्तं शत॒ग्विन॑म् ।  
-अश्वा॑वन्तं सह॒स्रिण॑म् ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/049/04_asme_indrAbRhaspatI.md">
 
 <details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
@@ -658,7 +636,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 sahasríṇam ← sahasrín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे इ॑न्द्राबृहस्पती र॒यिं ध॑त्तं शत॒ग्विन॑म् ।  
+अश्वा॑वन्तं सह॒स्रिण॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -710,7 +693,6 @@ _________
 - “thousandfold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -847,16 +829,6 @@ Friend to friend, grant us wide room.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/042/11_bRhaspatirnaH_pari.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-बृह॒स्पति॑र्नः॒ परि॑ पातु प॒श्चादु॒तोत्त॑रस्मा॒दध॑रादघा॒योः ।  
-इन्द्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरि॑वः कृणोतु ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/042/11_bRhaspatirnaH_pari.md">
 
 <details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
@@ -942,7 +914,12 @@ sákhibhyaḥ ← sákhi- (nominal stem)
 
 várivaḥ ← várivas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृह॒स्पति॑र्नः॒ परि॑ पातु प॒श्चादु॒तोत्त॑रस्मा॒दध॑रादघा॒योः ।  
+इन्द्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरि॑वः कृणोतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1071,7 +1048,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1189,16 +1165,6 @@ Assail the forests, rudely crushing (them).
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/006/03_vi_te.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-वि ते॒ विष्व॒ग्वात॑जूतासो अग्ने॒ भामा॑सः शुचे॒ शुच॑यश्चरन्ति ।  
-तु॒वि॒म्र॒क्षासो॑ दि॒व्या नव॑ग्वा॒ वना॑ वनन्ति धृष॒ता रु॒जन्तः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/006/03_vi_te.md">
 
 <details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
@@ -1278,7 +1244,12 @@ vánā ← vána- (nominal stem)
 
 vananti ← √vanⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि ते॒ विष्व॒ग्वात॑जूतासो अग्ने॒ भामा॑सः शुचे॒ शुच॑यश्चरन्ति ।  
+तु॒वि॒म्र॒क्षासो॑ दि॒व्या नव॑ग्वा॒ वना॑ वनन्ति धृष॒ता रु॒जन्तः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1403,7 +1374,6 @@ _________
 - “break; bend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2069,16 +2039,6 @@ May she give a hero, whose wergild is a hundred, worthy of song.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/032/04_rAkAmahaM_suhavAM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-रा॒काम॒हं सु॒हवां॑ सुष्टु॒ती हु॑वे शृ॒णोतु॑ नः सु॒भगा॒ बोध॑तु॒ त्मना॑ ।  
-सीव्य॒त्वपः॑ सू॒च्याच्छि॑द्यमानया॒ ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्य॑म् ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/032/04_rAkAmahaM_suhavAM.md">
 
 <details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
@@ -2164,7 +2124,12 @@ ukthyàm ← ukthyà- (nominal stem)
 
 vīrám ← vīrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रा॒काम॒हं सु॒हवां॑ सुष्टु॒ती हु॑वे शृ॒णोतु॑ नः सु॒भगा॒ बोध॑तु॒ त्मना॑ ।  
+सीव्य॒त्वपः॑ सू॒च्याच्छि॑द्यमानया॒ ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2305,7 +2270,6 @@ _________
 - “applaudable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2321,6 +2285,11 @@ _________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 संपूर्णचन्द्रा पौर्णमासी राका, राकां देवीं सुहवां स्वाह्वानां आह्वानप्रयोजनकारिणीं सुष्टुती शोभनया स्तुत्या अहं हुवे आह्वयामि । पूर्ववच्छपो लुक्, संप्रसारणं च । सुष्टुतिशब्दात्तृतीयैकवचनस्य 'सुपां सुलुक्' इति पूर्वसवर्ण ईकारः, 'मन्क्तिन् व्याख्यान' इत्युत्तरपदान्तोदात्तत्वम् । सा च सुभगा सुज्ञानादिका नोस्माकं शृणोतु, आह्वानं श्रुत्वा च बोधतु बुध्यतामस्मदभिप्रायं त्मना आत्मना स्वयमेव । 'मन्त्रेष्वाङ्यदेः' इति लोपः । बुद्ध्वा च अपः कर्म प्रजननाख्यं अस्मदभिप्रेतं सूच्या सूचीस्थानीयया अनुग्रहबुद्ध्या अच्छिद्यमानया अविल्छिन्नया सीव्यतु सन्तनोतु यथा वस्त्रादिकं सूच्या स्यूतं चिरं तिष्ठति, एवमिदं करोतु । तथा च कृत्वा वीरं विक्रान्तं पुत्रं शतदायं बहुधनं उक्थ्यं कर्मभिः प्रशस्यं स्तोत्रार्हं ददातु ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+राकामहमिति ॥ पूर्णचन्द्रा पौर्णमासी राका तां अहं सुहवां स्वाह्वानाम् । सुष्टुती । तृतीयैकवचनस्य पूर्वसवर्णः । सुष्टुत्या शोभनया स्तुत्या हुवे आह्वयामि । सा च शृणोतु नः अस्माकम् । षष्ठीनिर्देशात् आह्वानमिति शेषः । सुभगा सौभाग्ययुक्ता श्रुत्वा च बोधतु त्मना आत्मना बुध्यतां हृदये करोत्वित्यर्थः । तदनन्तरं च सीव्यत्वपः अप इति कर्मनाम, एतत्सीमन्तोन्नयनलक्षणं कर्म सीव्यतु छिद्रापिधानेन सुष्टु करोतु सूच्या सूचीस्थानीयया स्वया बुद्ध्या अच्छिद्यमानया क्वचिदप्यप्रतिहन्यमानया ददातु वीरं पुत्र नामैतत्, पुत्रं शतदायं बहूनां दातारम् । अण् कर्मणि च इति भविष्यति आकारान्तादण् प्रत्ययः उक्थ्यं प्रशंसनीयम् ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -2454,16 +2423,6 @@ Granting, O fortunate one, a thousandfold prosperity.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/032/05_yAste_rAke.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-यास्ते॑ राके सुम॒तयः॑ सु॒पेश॑सो॒ याभि॒र्ददा॑सि दा॒शुषे॒ वसू॑नि ।  
-ताभि॑र्नो अ॒द्य सु॒मना॑ उ॒पाग॑हि सहस्रपो॒षं सु॑भगे॒ ररा॑णा ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/032/05_yAste_rAke.md">
 
 <details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
@@ -2546,7 +2505,12 @@ sahasrapoṣám ← sahasrapoṣá- (nominal stem)
 
 subhage ← subhága- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यास्ते॑ राके सुम॒तयः॑ सु॒पेश॑सो॒ याभि॒र्ददा॑सि दा॒शुषे॒ वसू॑नि ।  
+ताभि॑र्नो अ॒द्य सु॒मना॑ उ॒पाग॑हि सहस्रपो॒षं सु॑भगे॒ ररा॑णा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2670,7 +2634,6 @@ _________
 - “give; impart.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2686,6 +2649,11 @@ _________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे राके देवि यास्ते तव सुमतयः शोभनबुद्धयः अनुग्रहात्मिकाः सुपेशसः सुरूपाः शोभनविषया वा । 'मन्क्तिन्व्याख्यान' इत्यादिना पुर्वत्रोत्तरपदान्तोदात्तत्वम् । उत्तरत्र 'सोर्मनसी' इत्युत्तरपदाद्युदात्तत्वम् । याभिर्मतिभिः दाशुषे हविर्दत्तवते यजमानाय वसूनि धनानि ददासि ताभिर्मतिभिः उपलक्षिता तथाभूतसंकल्पा नो ऽस्मान् अद्येदानीं सुमना भूत्वा उपागहि उपागच्छ । व्यत्ययेन शपो लुक् । सहस्रपोषं बहुनो धनस्य पुष्टिं रराणा ददती उपागच्छतीति । रातेर्व्यत्ययेन आत्मनेपदम् । शपः श्लुः । हे सुभगे कल्याणधनप्रापिणि ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+यास्त इति ॥ हे राके । सुपेशसः सुरूपायाः ते याः सुमतयः अनुग्रहात्मिका बुद्धयः याभिर्दाशुषे यजमानाय वसूनि ददासि, ताभिः सुमतिभिः नः अस्मान् सुमना भूत्वा उपागहि अद्यै वोपागच्छ । हे सुभगे । सहस्रपोषं बहुविधं पोषं रराण ददती ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -2812,16 +2780,6 @@ O Sinivali,
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/032/06_sinIvAli_pRthuShTuke.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-सिनी॑वालि॒ पृथु॑ष्टुके॒ या दे॒वाना॒मसि॒ स्वसा॑ ।  
-जु॒षस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि दिदिड्ढि नः ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/032/06_sinIvAli_pRthuShTuke.md">
 
 <details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
@@ -2892,7 +2850,12 @@ naḥ ← ahám (pronoun)
 
 prajā́m ← prajā́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सिनी॑वालि॒ पृथु॑ष्टुके॒ या दे॒वाना॒मसि॒ स्वसा॑ ।  
+जु॒षस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि दिदिड्ढि नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2983,7 +2946,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

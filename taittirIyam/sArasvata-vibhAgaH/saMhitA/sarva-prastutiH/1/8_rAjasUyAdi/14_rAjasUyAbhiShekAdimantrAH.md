@@ -459,18 +459,7 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/121/10_prajApate_na.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव ।  
-यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कः
@@ -564,7 +553,12 @@ syāma ← √as- 1 (root)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव ।  
+यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -716,7 +710,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -777,7 +770,6 @@ O Prajapati, none other than thou
 Comprehendeth all these creatures [6].  
 What we seek when we sacrifice to thee, let that be ours;  
 May we be lords of riches.
-
 </details>
 
 <details><summary>Griffith</summary>
@@ -826,5 +818,4 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 पदार्थान्वयभाषाः -  (प्रजापते) हे प्रजायमानानां पालयितः स्वामिन् ! (त्वत्-अन्यः) त्वत्तो भिन्नः (ता-एतानि विश्वा जातानि न परि बभूव) सर्वाणि खलूत्पन्नानि तानि पूर्वाणि तथेमानि सम्प्रत्युत्पन्नानि वस्तूनि न परि भवति-नाधिकरोति (यत्कामाः-ते जुहुमः) यः कामो येषां ते तुभ्यं स्वात्मभावं समर्पयेम (तत्-नः-अस्तु) तदभीष्टमस्मभ्यं भवतु (वयं रयीणां पतयः स्याम) वयं सर्वविधधनानां स्वामिनो भवेम ॥१०॥
 </details>
-
 </div>

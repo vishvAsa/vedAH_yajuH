@@ -41,16 +41,6 @@ With thee as overseer may we conquer the fighters.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/01_mamAgne_varcho.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-ममा॑ग्ने॒ वर्चो॑ विह॒वेष्व॑स्तु व॒यं त्वेन्धा॑नास्त॒न्वं॑ पुषेम ।  
-मह्यं॑ नमन्तां प्र॒दिश॒श्चत॑स्र॒स्त्वयाध्य॑क्षेण॒ पृत॑ना जयेम ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/01_mamAgne_varcho.md">
 
 <details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
@@ -136,7 +126,12 @@ pŕ̥tanāḥ ← pŕ̥tanā- (nominal stem)
 
 tváyā ← tvám (pronoun)  
 {case:INS, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ममा॑ग्ने॒ वर्चो॑ विह॒वेष्व॑स्तु व॒यं त्वेन्धा॑नास्त॒न्वं॑ पुषेम ।  
+मह्यं॑ नमन्तां प्र॒दिश॒श्चत॑स्र॒स्त्वयाध्य॑क्षेण॒ पृत॑ना जयेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -260,7 +255,6 @@ _________
     govern; surpass; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -348,16 +342,6 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 
 पदार्थान्वयभाषाः -  (अग्ने) हे अग्रणी ! सेनानायक ! ब्रह्मन् ! वा (विहवेषु) विविधह्वानस्थानेषु सङ्ग्रामेषु यज्ञेषु वा (मम वर्चः-अस्तु) मयि ‘सप्तम्यर्थे षष्ठी’ वर्चस्तेजो भवतु (वयं त्वा-इन्धानाः-तन्वं पुषेम) वयं त्वां दीपयन्तो बलवच्छब्दैः प्रोत्साहयन्तः स्वात्मानं पुष्येम “आत्मा वै तनूः” [श० ६।७।२।६] (प्रदिशः-चतस्रः) प्रमुखदिशश्चतस्रस्तत्रस्थाः-मनुष्याः प्रजाजना यद्वा सामान्यजनाः (मह्यं नमन्ताम्) मह्यं स्वात्मानं समर्पयन्तु (त्वया-अध्यक्षेण) त्वया सेनाध्यक्षेण यद्वा विद्याध्यक्षेण (पृतनाः-जयेम) सङ्ग्रामान् “पृतनाः सङ्ग्रामनाम” [निघ० २।१७] जयेम यद्वा मनुष्यान् “पृतनाः मनुष्यनाम” [निघ० २।३] अभिभवेम ॥१॥
 </details>
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/01_mamAgne_varcho.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-ममा॑ग्ने॒ वर्चो॑ विह॒वेष्व॑स्तु व॒यं त्वेन्धा॑नास्त॒न्वं॑ पुषेम ।  
-मह्यं॑ नमन्तां प्र॒दिश॒श्चत॑स्र॒स्त्वयाध्य॑क्षेण॒ पृत॑ना जयेम ॥
 </details>
 
 </div>
@@ -543,16 +527,6 @@ May we not fall victims to our foe, O king Soma.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/05_devIH_ShaLurvIruru.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-देवीः॑ षळुर्वीरु॒रु नः॑ कृणोत॒ विश्वे॑ देवास इ॒ह वी॑रयध्वम् ।  
-मा हा॑स्महि प्र॒जया॒ मा त॒नूभि॒र्मा र॑धाम द्विष॒ते सो॑म राजन् ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/05_devIH_ShaLurvIruru.md">
 
 <details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
@@ -644,7 +618,12 @@ rājan ← rā́jan- (nominal stem)
 
 soma ← sóma- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+देवीः॑ षळुर्वीरु॒रु नः॑ कृणोत॒ विश्वे॑ देवास इ॒ह वी॑रयध्वम् ।  
+मा हा॑स्महि प्र॒जया॒ मा त॒नूभि॒र्मा र॑धाम द्विष॒ते सो॑म राजन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -786,7 +765,6 @@ _________
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -800,7 +778,6 @@ _________
 
 ________________
    देवीः षडुर्वीरुर्वीनामिकाः षट्संख्याका हे देव्यः।     २२६४ अत एव शाखान्तरेऽग्न्युपस्थाने समाम्नातम् “षण्मोर्वीरंहसस्पान्तु द्यौश्च पृथिवी चाऽऽपश्चौपधमश्चोर्क्च सूनृता च” इति।   तादृश्यो हे देव्यो नोऽरमदीयमिदं कर्मोरु कृणोत विस्तीर्णं कुरुत।   विश्वे देवासो हे विश्वे देवा इह कर्मणि वीरयध्वं वीरा भवत।   विघ्नं परिहरतेत्यर्थः।   वयं प्रजया पुत्रादिरूपया मा हास्महि परित्यक्ता मा भूम।   तथा तनूभिः पुष्टशरीरैर्मा हारमहि।   हे सोम राजन्द्विषते वैरिणे मा रधाम कार्यसिद्धिं मा करवाम।
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -868,16 +845,6 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 
 पदार्थान्वयभाषाः -  (षट्-उर्वी-देवीः) हे षट्सङ्ख्याकाः महत्यो देव्यर्ऋतुरूपाः यद्वा अग्निः पृथिवी आपो वातोहश्च रात्रिः “षण्मोर्वीरंहसस्पान्तु-अग्निश्च पृथिवी चापश्च वाजश्चाहोरात्रिश्च” [श० १।५।१।२२] (नः-उरु कृणोत अस्मभ्यं बहु खल्वन्नादिकं कुरुत (विश्वे देवासः) सर्वे देवा विद्वांसस्तथा मध्यस्थाना विद्युन्मेघादयश्च (इह वीरयध्वम्) अस्मिन् राष्ट्रे बलकार्यं कुरुत (प्रजया मा हास्महि) सन्तत्या पुत्रादिकया न त्यक्ता भवेम “ओहाक् त्यागे” [जुहो०] (तनूभिः-मा) स्वाङ्गैर्न रहिता भवेम (सोम राजन्) के उत्पादक सर्वत्र राजमान परमात्मन् ! (द्विषते मा रधाम) द्वेष्टुः शत्रोः, “षष्ठ्यर्थे चतुर्थी छान्दसी” न वशं गच्छेम “रध्यतिर्वशगमने” [निरु० ६।३२] ॥५॥
 </details>
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/05_devIH_ShaLurvIruru.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-देवीः॑ षळुर्वीरु॒रु नः॑ कृणोत॒ विश्वे॑ देवास इ॒ह वी॑रयध्वम् ।  
-मा हा॑स्महि प्र॒जया॒ मा त॒नूभि॒र्मा र॑धाम द्विष॒ते सो॑म राजन् ॥
 </details>
 
 </div>
@@ -1012,16 +979,6 @@ O thou of the bay steeds, be gracious unto our progeny; Harm us not [3], abandon
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/08_uruvyachA_no.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उ॒रु॒व्यचा॑ नो महि॒षः शर्म॑ यंसद॒स्मिन्हवे॑ पुरुहू॒तः पु॑रु॒क्षुः ।  
-स नः॑ प्र॒जायै॑ हर्यश्व मृळ॒येन्द्र॒ मा नो॑ रीरिषो॒ मा परा॑ दाः ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/08_uruvyachA_no.md">
 
 <details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
@@ -1116,7 +1073,12 @@ párā ← párā (invariable)
 
 rīriṣaḥ ← √riṣ- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒रु॒व्यचा॑ नो महि॒षः शर्म॑ यंसद॒स्मिन्हवे॑ पुरुहू॒तः पु॑रु॒क्षुः ।  
+स नः॑ प्र॒जायै॑ हर्यश्व मृळ॒येन्द्र॒ मा नो॑ रीरिषो॒ मा परा॑ दाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1277,7 +1239,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1291,7 +1252,6 @@ _________
 
 ________________
    पुरुभिर्बहुभिर्यजमानेर्हूत आहूतः पुरुहूत इन्द्रः।   हुयतेऽ–स्मिन्निति ह वो यज्ञस्तस्मिन्यज्ञे स इन्द्रो नोऽस्मार्क शमं सुखं यं सद्यच्छतु।   कीदृश इन्द्रः, उरव्यचा अत्यन्तं व्याप्तो बहुदेशाधिपतिरित्यर्थः।   महिषो महाञ्शोर्यादिगुणसंपन्नः।   पुरुक्षु पुरुषु बहुमन्त्रेषु क्षूयते शब्द्यते प्रतिपाद्यत् इति पुरुक्षुः पुरुक्षुरेव पुरुक्षु।   हरिनामानावश्वौ यस्यासौ हर्यश्वः।   तादृश हे इन्द्र प्रजायै पुत्रा दिप्रजासिद्ध्यर्थं स त्वं नोऽस्मान्मृडय सुखय, नोऽस्मान्मा रीरिपो मा हिंसीर्मा परादा मा च तिरस्कुरु।
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -1358,16 +1318,6 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/08_uruvyachA_no.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-उ॒रु॒व्यचा॑ नो महि॒षः शर्म॑ यंसद॒स्मिन्हवे॑ पुरुहू॒तः पु॑रु॒क्षुः ।  
-स नः॑ प्र॒जायै॑ हर्यश्व मृळ॒येन्द्र॒ मा नो॑ रीरिषो॒ मा परा॑ दाः ॥
-</details>
-
-</div>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1398,16 +1348,6 @@ With Indra and Agni we overthrow them;
 The Vasus, the Rudras, the Adityas have made me A dread corrector and overlord, sky reaching.
 </details>
 </details>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/09_ye_naH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-ये नः॑ स॒पत्ना॒ अप॒ ते भ॑वन्त्विन्द्रा॒ग्निभ्या॒मव॑ बाधामहे॒ तान् ।  
-वस॑वो रु॒द्रा आ॑दि॒त्या उ॑परि॒स्पृशं॑ मो॒ग्रं चेत्ता॑रमधिरा॒जम॑क्रन् ॥
-</details>
-
-</div>
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/09_ye_naH.md">
 
@@ -1497,7 +1437,12 @@ céttāram ← céttar- (nominal stem)
 
 ugrám ← ugrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये नः॑ स॒पत्ना॒ अप॒ ते भ॑वन्त्विन्द्रा॒ग्निभ्या॒मव॑ बाधामहे॒ तान् ।  
+वस॑वो रु॒द्रा आ॑दि॒त्या उ॑परि॒स्पृशं॑ मो॒ग्रं चेत्ता॑रमधिरा॒जम॑क्रन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1642,7 +1587,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1657,7 +1601,6 @@ _________
 _____________________
 
    ये केचिन्नोऽस्माकं सपत्नाः शत्रवः सन्ति तेऽपभ वन्त्वपनययुक्ता भवन्तु।   वयं तान्सपत्नानिन्द्राग्निभ्यामनुग्रहयृक्ताभ्यां सहिता अवबाधामहे सर्वथा बाधितान्कुर्मः।   वसुरुद्रादित्या देवता मामेतादृशमक्रन्कुर्वन्तु।   कीदृशमिति तदुच्यतेउपरितनं स्वर्गं स्पृशतीत्युपरिस्पृक्तम्, उग्रं शत्रुतिरस्कारक्षमं, चेत्तारमभिज्ञातारम्, अधिराजमन्येषां सर्वेषामधिपतिम्।
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -1720,16 +1663,6 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 
 पदार्थान्वयभाषाः -  (नः) अस्माकं (ये सपत्नाः) ये शत्रवः सन्ति (ते-अप भवन्तु) ते पृथग्भवन्तु (तान्-इन्द्राग्निभ्याम्-अप बाधामहे) तान् सङ्ग्रामे विद्युदग्नि-शक्तिसम्पन्नास्त्राभ्यां होमे वाय्वग्निभ्यां पीडयामहे (वसवः-रुद्राः-आदित्याः) वासयितारः-उपदेष्टारः स्वीकारकर्त्तारो जनाः-यज्ञे वायवः, ऋतवः, रश्मयः (मा-उपरिस्पृशम्-उग्रं चेत्तारम्-अधिराजम्-अक्रन्) मामुपरिपदप्रापकं तेजस्विनं चेतयितारमधिराजमानं कुर्वन्तु ॥९॥
 </details>
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/09_ye_naH.md">
-
-<details><summary><h6>मूलम् …{Loading}…</h6></summary>
-
-ये नः॑ स॒पत्ना॒ अप॒ ते भ॑वन्त्विन्द्रा॒ग्निभ्या॒मव॑ बाधामहे॒ तान् ।  
-वस॑वो रु॒द्रा आ॑दि॒त्या उ॑परि॒स्पृशं॑ मो॒ग्रं चेत्ता॑रमधिरा॒जम॑क्रन् ॥
 </details>
 
 </div>

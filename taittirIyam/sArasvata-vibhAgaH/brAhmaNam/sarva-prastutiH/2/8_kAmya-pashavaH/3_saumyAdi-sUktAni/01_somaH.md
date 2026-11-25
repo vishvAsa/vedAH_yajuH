@@ -78,15 +78,7 @@ title = "०१ सोमः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/091/22_tvamimA_oShadhIH.md">
-
-त्वमि॒मा ओष॑धीः सोम॒ विश्वा॒स्त्वम॒पो अ॑जनय॒स्त्वं गाः ।  
-त्वमा त॑तन्थो॒र्व१॒॑न्तरि॑क्षं॒ त्वं ज्योति॑षा॒ वि तमो॑ ववर्थ ॥
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/091/22_tvamimA_oShadhIH.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -175,7 +167,12 @@ vavartha ← √vr̥- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमि॒मा ओष॑धीः सोम॒ विश्वा॒स्त्वम॒पो अ॑जनय॒स्त्वं गाः ।  
+त्वमा त॑तन्थो॒र्व१॒॑न्तरि॑क्षं॒ त्वं ज्योति॑षा॒ वि तमो॑ ववर्थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -311,7 +308,6 @@ _________
 - “choose; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -411,7 +407,6 @@ Du hast, o Soma, alle diese Pflanzen, die Rinder du erzeugt und die Gewässer, H
 
 भावार्थभाषाः -  ज्या ईश्वराने नाना प्रकारची सृष्टी निर्माण केलेली आहे तोच सर्व माणसांनी उपासना करण्यायोग्य इष्ट देव आहे. ॥ २२ ।
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

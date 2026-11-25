@@ -1400,18 +1400,7 @@ Agni who is clothed with the sea.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/102/06_A_savaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-आ स॒वं स॑वि॒तुर्य॑था॒ भग॑स्येव भु॒जिं हु॑वे ।  
-अ॒ग्निं स॑मु॒द्रवा॑ससम् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/102/06_A_savaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -1426,7 +1415,7 @@ Agni who is clothed with the sea.
 अग्निं᳓ समुद्र᳓वाससम्
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 आ स॒वँ स॑वि॒तुर्य॑था॒ भग॑स्येव भु॒जिँ हु॑वे ।   
 अ॒ग्निँ स॑मु॒द्रवा॑ससम् ।
@@ -1474,7 +1463,12 @@ agním ← agní- (nominal stem)
 
 samudrávāsasam ← samudrávāsas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ स॒वं स॑वि॒तुर्य॑था॒ भग॑स्येव भु॒जिं हु॑वे ।  
+अ॒ग्निं स॑मु॒द्रवा॑ससम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1552,7 +1546,6 @@ _________
 - “clothing; fabric; garment; feather; dress; envelope.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1619,7 +1612,6 @@ Ihn, der dem Trieb des Savitar und dem Genuss des Bhaga gleicht Agni, den meerum
 - गायत्री
 - षड्जः
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>

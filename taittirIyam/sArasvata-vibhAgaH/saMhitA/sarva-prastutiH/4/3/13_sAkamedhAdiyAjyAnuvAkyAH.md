@@ -79,18 +79,7 @@ Thou art favouring strength.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/091/05_tvaM_somAsi.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-त्वं सो॑मासि॒ सत्प॑ति॒स्त्वं राजो॒त वृ॑त्र॒हा ।  
-त्वं भ॒द्रो अ॑सि॒ क्रतुः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/091/05_tvaM_somAsi.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -105,7 +94,7 @@ Thou art favouring strength.
 तुव᳓म् भद्रो᳓ असि क्र᳓तुः
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 त्वँ सो॑मासि॒ सत्प॑ति॒स्त्वँ राजो॒त वृ॑त्र॒हा ।  
 त्वम्भ॒द्रो अ॑सि॒ क्रतुः॑ ॥
@@ -159,7 +148,12 @@ krátuḥ ← krátu- (nominal stem)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं सो॑मासि॒ सत्प॑ति॒स्त्वं राजो॒त वृ॑त्र॒हा ।  
+त्वं भ॒द्रो अ॑सि॒ क्रतुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -258,7 +252,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -269,6 +262,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **त्वं** **सत्पतिः** **असि** सतां कर्मसु वर्तमानानां ब्राह्मणानामधिपतिर्भवसि ।  ‘ तस्मात्सोमराजानो ब्राह्मणाः' ( तै. ब्रा. १. ७. ४. २) इति श्रुतेः । यद्वा । सन्तः स्वानादयः पतयः पालका यस्य सोमस्य तादृशो भवसि । तथा चाम्नायते- ‘ स्वान भ्राजेत्याहैते वा अमुष्मिन् लोके सोममरक्षन ' ( तै. सं. ६. १. १०. ५) इति । **उत** अपि च **राजा** राजमानः **त्वं** **वृत्रहा** वृत्रस्यासुरस्य शत्रोर्वा हन्तासि । **भद्रः** शोभनः **क्रतुः** योऽयमग्निष्टोमादियागः **त्वम्** एव तद्रूपो भवसि । त्वत्साध्यत्वाद्यागानाम् ॥ सत्पतिः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । तत्पुरुषपक्षे तु  ‘ पत्यावैश्वर्ये । इति पूर्वपदप्रकृतिस्वरत्वम् ॥ ॥ १९ ॥
+
 
 _____________
 
@@ -371,7 +365,6 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 
 भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. परमेश्वर, विद्वान, सोमलता इत्यादी औषधींचा समूह हे संपूर्ण ऐश्वर्य देणारे, श्रेष्ठांचे रक्षण करणारे, अधिपती, दुःखांचा नाश करणारे व विज्ञान देणारे, कल्याणकारी आहेत हे चांगल्या प्रकारे जाणून सर्वांनी त्यांचा अंगीकार करणे योग्य आहे. ॥ ५ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -410,7 +403,6 @@ The defiling leave no stain in thy body.
 </details>
 
 <details><summary>सायण-टीका</summary>
-
 
 शोभनम् अनीकं सैन्यं यस्यासौ स्वनीकः, तादृश हे ऽग्ने ते त्वदीयानि चरित्राणि भद्रा भद्राणि मङ्गलानि।
 
@@ -461,7 +453,6 @@ Pleasant to the sight is food in thy form.
 
 <details><summary>सायण-टीका</summary>
 
-
 सहो बलम् अस्यास्तीति सहसी, तादृश हे ऽग्ने सूर्यस्य ते सूर्य-सदृशस्य तव भद्रं कल्याणम् अनीकं ज्वाला-रूपं सैन्यम् उपाक उपान्तिके समीपे आरोचते सर्वतो दीप्यते।
 
 तादृशं ज्वाला-रूपं त्वदीयम् अनीकं नक्तयाचिन् नक्तम् अपि गाढान्धकारावृतायां रात्राव् अपि ददृशे विस्पष्टं दृश्यते प्राणिभिः।
@@ -505,7 +496,6 @@ O Agni, shine forth with radiance and with wealth.
 </details>
 
 <details><summary>सायण-टीका</summary>
-
 
 हे ऽग्ने स त्वं द्युमद् दीप्यमानम् उतापि च रेवब्दहुधनयुक्तं गृह-क्षेत्रादिकं दीदिहि प्रकाशय।
 
@@ -599,7 +589,6 @@ To the glad gods together assembled.
 
 <details><summary>सायण-टीका</summary>
 
-
 सहसो मन्थन-रूपस्य बलस्य सूनुः पुत्रो ऽग्निः।
 स च देवानाम् आह्वाता।
 हे सहसः सूनो होतरग्ने यथा मनुषो मनुष्यान् अनुग्रहेण पालयसि, देवताता देवान् अपि यज्ञैर् यजासि पूजयसि।
@@ -685,18 +674,7 @@ Strong laws dost thou establish.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/064/01_vRShA_soma.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-वृषा॑ सोम द्यु॒माँ अ॑सि॒ वृषा॑ देव॒ वृष॑व्रतः ।  
-वृषा॒ धर्मा॑णि दधिषे ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/064/01_vRShA_soma.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -711,7 +689,7 @@ Strong laws dost thou establish.
 वृ᳓षा ध᳓र्माणि दधिषे
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 वृषा॑ सोम द्यु॒माँ अ॑सि॒ वृषा॑ देव॒ वृष॑व्रतः ।  
 वृषा॒ धर्मा॑णि दधिषे ।
@@ -759,7 +737,12 @@ dhármāṇi ← dhárman- (nominal stem)
 
 vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॑ सोम द्यु॒माँ अ॑सि॒ वृषा॑ देव॒ वृष॑व्रतः ।  
+वृषा॒ धर्मा॑णि दधिषे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -840,7 +823,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -851,6 +833,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सोम** **वृषा** वर्षकस्त्वं **द्युमान्** दीप्तिमान् **असि** । अपि च हे **देव** द्योतमान सोम **वृषा** त्वं **वृषव्रतः** वर्षणशीलकर्मासि । किंच हे सोम **वृषा** त्वं **धर्माणि** देवानां मनुष्याणां च हितानि कर्माणि **दधिषे** धारयसि ॥
+
 
 _____________
 
@@ -876,21 +859,13 @@ A bull are you, Soma, a brilliant one—a bull following his bullish  commandmen
 As bull, you have established your own foundations.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Oldenberg’s interpr. of vṛ́ṣā in c as a neut. pl. adj. with dhármāṇi seems both unnecessary and unlikely. I know of no other neut. forms of vṛ́ṣan- (the few cited by Oldenberg are not convincing), which suggests to me that, despite its widely accepted classification as an adj., the stem is synchronically a masc. noun, which, however, can be used as an adjunct strengthener of another noun, hence “bull X” as the equivalent of “bullish X” - a usage similar to English ‘horse’ as an augmentative, meaning ‘strong, large, coarse’ (as in, for ex., horseradish). See https://www.etymonline.com/word/horseradish Moreover, since nom. sg.
-
-vṛ́ṣā opens the two previous pādas of this vs., it seems unlikely that a morphologically different, and at the least very rare, phonologically identical form would open the third - esp. since, when a neut. adj. is required in the next vs. (2a), the deriv. vṛ́ṣṇya- is employed.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/01-03.md">
-<details open><summary><h7>01-03 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, this opening tṛca is marked by the identification of Soma and his attributes with a bull (vṛ́ṣan-). This theme is especially dominant in vss. 1 and 2: all three pādas of vs. 1 open vṛ́ṣā, with the bahuvrīhi vṛ́ṣa-vrataḥ ending the first hemistich; vs. 2 is even more insistent, with two forms of the stem (or deriv. vṛ́ṣṇya-) in each of the three pādas. By contrast, vs. 3 only nods at the theme: vṛ́ṣā appears once in 3a, though the final word of the vs., vṛdhi, may be meant to echo the word phonologically.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -940,7 +915,6 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 पदार्थान्वयभाषाः -  (सोम) हे परमात्मन् ! त्वं (द्युमानसि) दीप्तिमानसि। तथा (वृषा) समस्ताभीष्टवर्षकोऽसि। तथोपासकानां हृदयानि (वृषा) स्नेहेन सिञ्चसि। (देव) हे दिव्यगुणसम्पन्न ! भवान् (वृषव्रतः) आनन्दवर्षणशीलं ददाति। (वृषा धर्माणि दधिषे) तथा वर्षणशीलधर्मधारकोऽस्ति ॥१॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1028,7 +1002,6 @@ Slay him with your most burning heat.
 
 <details><summary>सायण-टीका</summary>
 
-
 वसवो वास-हेतवो हे मरुतो यो मर्तो मनुष्यो दुर्हृणायुर् दुष्ट-क्रोधो ऽत्यन्तं पाप-बुद्धिः सन् सत्यानि तिरो ऽस्मान् प्रति कृतान्, सर्वथा नानिष्टं करिष्यामीत्य् एवंरूपाञ् शपथान् तिरस्कृत्य नो ऽस्मान् जिघांसाद् धन्तुम् इच्छेत्, स द्रुहो द्रोही पाशं भवदीयं बन्धन-रज्जुं प्रतिमुचीष्ट प्रतिमुञ्चतु। स्व-गले बध्नात्व् इत्य् अर्थः। ते द्रोहिणं तपिष्ठेन तपसात्यधिकेन संतापेन हन्तन मारयत।
 </details>
 </details>
@@ -1070,7 +1043,6 @@ Those that burn, delighting, granting delight,
 </details>
 
 <details><summary>सायण-टीका</summary>
-
 
 हे मरुतः, सन्ति ते पाशान् स्वकीय-बन्धन-रज्जूर् अस्मद् अस्मत्तो ऽपनीय मानुषेषु विरोधि-जनेषु प्रमुञ्चन्तु गले बध्नन्तु।
 कीदृशान् पाशान्? अंहसः पापिष्ठान् अत्यन्त-निर्बन्ध-हेतून् इत्य् अर्थः।
@@ -1162,7 +1134,6 @@ O Agni, whatever to-day, O offering Hotr of the people, O pure [4] and radiant o
 
 <details><summary>सायण-टीका</summary>
 
-
 हे स्विष्टकृद् अग्ने, विशः प्रविष्टस्यानुष्ठितस्याध्वरस्य संबन्धि यद् धविर् अस्ति तद् अद्य वेरशान भक्षय।
 होतर्होम-कर्तः पावक शोधक शोचे दीप्यमान, तान्य् एतान्य् अग्नि-विशेषणानि।
 हि यस्मात् त्वं यज्वा यागस्य कर्ता, तस्माद् ऋता ऋते ऽस्मदीय-यज्ञे महिम्ना यजासि। देवान् प्रीणयसि।
@@ -1208,7 +1179,6 @@ Glory full of heroes.
 
 <details><summary>सायण-टीका</summary>
 
-
 अनेनाग्निना रयिं धनम् अश्नवत् सर्वो जनः प्राप्नोति।
 
 न केवलं धनस्य स्वरूप-मात्रं, किंतु दिने दिने तस्य धनस्य पुष्टिम् एव प्राप्नोति न तु ह्रासम्।
@@ -1253,7 +1223,6 @@ O Soma, be a good friend to us.
 
 <details><summary>सायण-टीका</summary>
 
-
 हे सोम नो ऽस्मान् प्रत्युच्यमान-विशेषण-विशिष्टो भव।
 
 कानि तानि विशेषणानीति तान्य् उच्यन्ते— गयस्फानो गृहाणां वर्धयिता। अमीवहा रोगाणां हन्ता। वसुविद् धनस्य लम्भयिता। पुष्टि-वर्धनो गवादिषु पुष्टेर् वर्धयिता। सुमित्रः शोभनं यजमान-रूपं मित्रं यस्यासौ सुमित्रः।
@@ -1295,7 +1264,6 @@ Freeing us from tribulation.
 </details>
 
 <details><summary>सायण-टीका</summary>
-
 
 गृहे क्रियमाणो मेधो यज्ञो येषां ते गृहमेधासः।
 
@@ -1383,7 +1351,6 @@ Of the householder's offering.
 
 <details><summary>सायण-टीका</summary>
 
-
 हे मरुतो बुध्नियाः, बुध्ने मूले भवानि बुध्नियानि। अनादि-काल-प्रवृत्तानीत्य् अर्थः।
 वो महांसि युष्माकं तेजांसि प्रेरते, प्रकर्षेण गच्छन्ति, प्रवृत्तानीत्य् अर्थः।
 प्रयज्यवः प्रकृष्ट-याग-युक्ता यूयं नामानि ‘गृहमेधिनो मरुतः’ इत्यादीनि भवदीय-नामधेयानि प्रतिरध्वं, प्रकर्षेण लोके ख्यापयत।
@@ -1425,7 +1392,6 @@ Rich in oblation, bearing ghee, approacheth night and morning, To him his own de
 </details>
 
 <details><summary>सायण-टीका</summary>
-
 
 युवतिर् मन्त्रेण मिश्री-भूता हविष्मती संपूर्ण-हविर्-युक्ता घृताची घृतपुष्टेयम् आहुतिर् दोषा रात्रौ वस्तोर् दिवसे च सुदक्षं कुशलं यं स्विष्टकृतम् अग्निम् उपैति प्राप्नोति।
 
@@ -1469,7 +1435,6 @@ Let them accept our fragrant (offerings).
 
 <details><summary>सायण-टीका</summary>
 
-
 हे ऽग्ने, इमो इमानि वीततमान्यतिशयेन कान्तानि हव्या हवींषि देवतातिम् अच्छ देवान् अभिप्राप्तुम् अजस्रो ऽनुपरतो वक्षि वह।
 नो ऽस्मत्-संबन्धीनि सुरभीणि सुगन्धीनि हवींषि प्रतीं प्रत्येकम् एव वियन्तु देवा भक्षयतु।
 </details>
@@ -1510,7 +1475,6 @@ O Kanvas, do ye celebrate.
 </details>
 
 <details><summary>सायण-टीका</summary>
-
 
 हे कण्वाः, कण्व-प्रभृतयो वेदाचार्याः, शर्धो बलम् अभिप्रगायताभितो वैदिकैः स्तोत्रैः प्रकर्षेण गानं कुरुत।
 
@@ -1665,7 +1629,6 @@ hh O Viśvakarman, with the oblation as strengthening.
 
 <details><summary>सायण-टीका</summary>
 
-
 हे मरुतो यद् यदा वय इव पक्षिण इव यूयं केनचिच् चित् पथा केनापि मार्गेणोपह्वरेषूपेत्य हर्तव्येषु ताडनीयेषु मेघेषु यमिमचिध्वं गतिं संपादितवन्तः।
 यदा जल-पूर्ण-मेघम् आस्फालयन्ति भवन्त इत्य् अर्थः।
 तदानीं कोशा घन-पूर्ण-गृह-सदृशा जल-पूर्णा मेघा वो युष्माकं रथेषूप समीपम् आगतेषु सत्सु श्रोतन्ति जलं स्रावयन्ति।
@@ -1746,7 +1709,6 @@ Agni to bear the oblation.
 
 <details><summary>सायण-टीका</summary>
 
-
 शश्वन्तो निरन्तरम् अनुतिष्ठन्त ऋत्विजो घृत-श्चुता घृतं क्षरता(न्त्या) स्रुचा युक्तास् तम् अग्निं देवम् ईडते स्तुवते।
 
 किम् अर्थं? हव्याय वोढवे हविर् वोढुम्।
@@ -1784,7 +1746,6 @@ O Indra and Agni, the spaces of sky.
 </details>
 
 <details><summary>सायण-टीका</summary>
-
 
 “इन्द्राग्नी रोचना दिव” इति पुरोनुवाक्या।
 
@@ -1953,7 +1914,6 @@ O Viśvakarman, waxing great with the oblation.
 </details>
 
 <details><summary>सायण-टीका</summary>
-
 
   - पूर्णमन्त्रपाठः  
   - [ विश्व॑कर्मन्ह॒विषा॑ वावृधा॒नः स्व॒यं य॑जस्व त॒नुवं॑ जुषा॒णः।  

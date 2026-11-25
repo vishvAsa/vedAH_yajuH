@@ -146,18 +146,7 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/046/08_uta_gnA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उ॒त ग्ना व्य॑न्तु दे॒वप॑त्नीरिन्द्रा॒ण्य१॒॑ग्नाय्य॒श्विनी॒ राट् ।  
-आ रोद॑सी वरुणा॒नी शृ॑णोतु॒ व्यन्तु॑ दे॒वीर्य ऋ॒तुर्जनी॑नाम् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/046/08_uta_gnA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवपत्न्यः
@@ -245,7 +234,12 @@ vyántu ← √vī- 1 (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त ग्ना व्य॑न्तु दे॒वप॑त्नीरिन्द्रा॒ण्य१॒॑ग्नाय्य॒श्विनी॒ राट् ।  
+आ रोद॑सी वरुणा॒नी शृ॑णोतु॒ व्यन्तु॑ दे॒वीर्य ऋ॒तुर्जनी॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -362,7 +356,6 @@ _________
 - “wife; jan; woman; jani \[word\]; birth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -482,7 +475,6 @@ Die gottvermählten Frauen mögen kommen, Indrani, Agnani, die Ritterfürstin, d
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसे राजे लोकांजवळ पुरुष मंत्री असतात तशा राण्यांजवळ स्त्रिया मंत्री असाव्यात. ॥ ८ ॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>

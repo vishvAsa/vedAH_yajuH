@@ -122,11 +122,12 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/shundhantAm.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शु᳓न्धताल्ँ लोकᳶ᳓ पितृ-ष᳓दनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -157,7 +158,7 @@ Pure be the world where the Pitrs sit.
 
 पितरः सीदन्त्य् अस्मिनन् इति पितृ-षदनो ऽवटाख्यो लोकः शुद्धो भवतु।
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -178,13 +179,14 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓वोऽसि।  
 यव᳓य+++(=अपनय)+++ +अस्म᳓द्-द्वे᳓षः ।    
 यव᳓य +अ᳓रातीः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -232,7 +234,7 @@ bar evil spirits.
 
 हे धान्य त्वं यवो ऽसि अमिश्री-कर्ता ऽसि। अतो द्वेषिणो राक्षसान् इतरान् अपि शत्रून् अस्मत्तो वियोजय।
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -253,12 +255,13 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/pitRNAm.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितृणाँ᳓+++(=पितॄणाम्)+++ स᳓दनमसि।  
 +++('नामन्यतरस्याम्' इति षष्ठीबहुवचनस्योदात्तत्वम्। )+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -289,7 +292,7 @@ Thou art the seat of the Pitrs.
 
 बर्हिर्-हस्तो बर्हिर्-मुष्टिः। हे बर्हिः पितृणां स्थानम् असि।
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -365,11 +368,12 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/devas_tvA.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स् त्वा सविता᳓ म᳓ध्वाऽनक्तु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -395,7 +399,7 @@ Let the god Savitr anoint thee with honey.
 
 8यूपस्याग्रमनक्ति - देवस्त्वेति ॥ व्याख्यातम् ॥  
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -416,6 +420,7 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/02_dIxA/supippalAH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -432,11 +437,14 @@ _______
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुपिप्पला᳓भ्यस्+++(=सुफलेभ्यः)+++ त्वौ᳓षधीभ्यः +++(कण्डूये)+++।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -493,7 +501,7 @@ For the plants with good berries thee!
 
 दक्षिणाभ्यो नेतोर् दक्षिणानाम् ऋत्विग्भिर् अपनयनात्। अवचृन्देत् परित्यजेत्। 'चात्वालाद् धिष्णियान् उपवपतीति' चात्वाल-नामकाद् गर्ताद् धिष्णियानाम् उत्पत्तेर् विधास्यमानत्वाच् चात्वालस्य यज्ञ-योनित्वम्।
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -632,16 +640,6 @@ Of the wide-stepping Visnu, the mighty!
 य᳓तो व्रता᳓नि पस्पशे᳓+++(←स्पश बाधनस्पर्शनयोः)+++ ।  
 इ᳓न्द्रस्य यु᳓ज्यः स᳓खा ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/022/19_viShNoH_karmANi.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-विष्णोः॒ कर्मा॑णि पश्यत॒ यतो॑ व्र॒तानि॑ पस्प॒शे ।  
-इन्द्र॑स्य॒ युज्यः॒ सखा॑ ॥
 </details>
 
 </div>
@@ -909,16 +907,6 @@ _______
 स᳓दा **पश्यन्ति** सूर᳓यः ।  
 दिवी᳙व च᳓क्षुर्+++(→सूर्यः|श्रोणाः)+++ आ᳓ततम् ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/022/20_tadviShNoH_paramaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-तद्विष्णोः॑ पर॒मं प॒दं सदा॑ पश्यन्ति सू॒रयः॑ ।  
-दि॒वी॑व॒ चक्षु॒रात॑तम् ॥
 </details>
 
 </div>
@@ -1244,6 +1232,7 @@ Thee that art winner of Brahmans, winner of nobles, winner of fair offspring, wi
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma-vanim.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1257,11 +1246,14 @@ Thee that art winner of Brahmans, winner of nobles, winner of fair offspring, wi
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्म-व᳓निन् त्वा  क्षत्र-व᳓निँ सुप्रजा-व᳓निँ रायस्-पोष-व᳓निम् प᳓र्यूहामि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1295,7 +1287,7 @@ Thee that art winner of Brahmans, winner of nobles, winner of fair offspring, wi
 
 ब्रह्म ब्राह्मण-जातिं वनति भजतीति ब्रह्म-वनिः। हे औदुम्बरि ब्राह्मण्यादि-प्रदां त्वां परितो मृत्तिकां प्रक्षिपामि।
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1316,10 +1308,12 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma_dRMha.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्रह्म॑ दृँह क्ष॒त्रन्दृँ॑ह प्र॒जान्दृँ॑ह रा॒यस्पोष॑न्दृँह
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1329,6 +1323,8 @@ _______
 प्रजा᳓न् दृँह।  
 राय᳓स्-पो᳓षन् दृँह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1371,7 +1367,7 @@ strengthen increase of wealth.
 [[P337]]
 
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>

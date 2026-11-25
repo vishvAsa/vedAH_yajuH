@@ -50,16 +50,6 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/079/03_tvaM_soma.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-त्वं सो॑म तनू॒कृद्भ्यो॒ द्वेषो॑भ्यो॒ऽन्यकृ॑तेभ्यः ।  
-उ॒रु य॒न्तासि॒ वरू॑थम् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/079/03_tvaM_soma.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -560,16 +550,6 @@ _______
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/062/13_somo_jigAti.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-सोमो॑ जिगाति गातु॒विद्दे॒वाना॑मेति निष्कृ॒तम् ।  
-ऋ॒तस्य॒ योनि॑मा॒सद॑म् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/13_somo_jigAti.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -827,6 +807,7 @@ Der Soma geht, des Wegs bewusst, zum Ort der Götter dringt er hin, Zu sitzen au
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -840,11 +821,14 @@ Der Soma geht, des Wegs bewusst, zum Ort der Götter dringt er hin, Zu sitzen au
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दित्यास् स᳓दोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -875,7 +859,7 @@ Thou art the seat of Aditi.
 
 आपस्तम्बो द्वितीय-तृतीय-मन्त्राव् एकी-चकार। हे कृष्णाजिन, त्वम् अदित्या भूमेः सदः स्थानम् असि। 
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -896,6 +880,7 @@ ________
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -911,11 +896,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दित्यास् स᳓द आ᳓सी᳓द᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -936,14 +924,17 @@ Sit on the seat of Aditi.
 
 4तस्मिन्सोमं निदधाति - अदित्या इति ॥ अदित्यास्सदः सदन स्थानीयमेतत् कृष्णाजिनमासीद उपविश अस्मिन् ॥
 </details>
+</details>
 
 7कृष्णाजिने राजानमासादयति - अदित्या इति ॥ अदित्यास्सदोभूतमेतत्कृष्णाजिनं हे सोम आसीद अधितिष्ठ । प्रागेव व्याख्यातमिदं मन्त्रद्वयम् ॥
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>सायण-टीका</summary>
 
 हे सोम, तस्याः सदः प्राप्नुहि। 
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1231,11 +1222,12 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/suvar_abhi.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓वर् अभि᳓ वि᳓ ख्येषव्ँ+++(=अपश्यं)+++ वैश्वानर᳓ञ् ज्यो᳓तिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1262,7 +1254,7 @@ May I behold the light, the radiance for all men.
 
 13 आहवनीयमीक्षते - सुवरिति ॥ स्वर्गसाधनत्वेन स्तुतिः । विश्वेषां नराणां ज्योतिष्ट्वं नयतीति वैश्वानरं द्योतमानमाहवनीयमाभिमुख्येन पश्यामीति । व्याख्यातम् । ख्यातेराशिषि लिङि, 'लिङ्यशिष्यङ्' 'अतो येयः' ॥
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>

@@ -38,16 +38,6 @@ He waxeth with the praises of Vatsa.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/006/01_mahA_N_indro.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-म॒हाँ इन्द्रो॒ य ओज॑सा प॒र्जन्यो॑ वृष्टि॒माँ इ॑व ।  
-स्तोमै॑र्व॒त्सस्य॑ वावृधे ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/006/01_mahA_N_indro.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -270,14 +260,17 @@ Der grosse Indra, der an Kraft der regenschwangern Wolke gleicht, Erlabt an Vats
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/20_mahendragrahaH/upayAmagRhItaH.md">
-
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्योपयामगृहीतोसि महेन्द्राय त्वेति गृह्णाति ॥
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -308,12 +301,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓हेन्द्रा᳓य त्वा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -329,18 +325,24 @@ to Mahendra thee!
 
 म॒हे॒न्द्रायेति॑ महा-इ॒न्द्राय॑ । त्वा॒ ।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एष ते योनिर्महेन्द्राय त्वेति सादयति ॥ 'इन्द्रो वृत्रमहन् तं देवा अब्रुवन्महान्वा अयमभूत्' इत्यादि ब्राह्मणम्  ॥
 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निर्, महेन्द्रा᳓य त्वा ॥ [21]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -356,7 +358,7 @@ This is thy birthplace; to Mahendra thee!
 
 ए॒षः । ते॒ । योनिः॑ । म॒हे॒न्द्रायेति॑ महा-इ॒न्द्राय॑ । त्वा॒ ॥
 </details>
-
+</details>
 </div>
 </details>
 

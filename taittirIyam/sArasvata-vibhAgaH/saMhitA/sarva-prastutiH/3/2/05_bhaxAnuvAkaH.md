@@ -562,18 +562,7 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/031/04_A_pyAyasva.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-आ प्या॑यस्व॒ समे॑तु ते वि॒श्वतः॑ सोम॒ वृष्ण्य॑म् ।  
-भवा॒ वाज॑स्य सङ्ग॒थे ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/031/04_A_pyAyasva.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -633,7 +622,12 @@ saṁgathé ← saṁgathá- (nominal stem)
 
 vā́jasya ← vā́ja- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ प्या॑यस्व॒ समे॑तु ते वि॒श्वतः॑ सोम॒ वृष्ण्य॑म् ।  
+भवा॒ वाज॑स्य सङ्ग॒थे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -711,7 +705,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -737,7 +730,6 @@ _______________________
 
 _______________________
 आप्यायस्व समेतु त इति गायत्री ॥ इयञ्चाग्निकाण्डे 'मा नो हिंसीत्' इत्यत्र व्याख्यास्यते यत्राम्नायते । हे सोम आप्यायस्व वर्धस्व त्वत्प्रसादात् विश्वतः वृष्ण्यं शुक्लं समेतु समागच्छतु । भव च वाजस्यान्नस्य सङ्गथे सङ्गमनायैवेति ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -807,7 +799,6 @@ Schwill, Soma, an, es komme dir von allen Seiten Heldenkraft, Sei, wo die Kraft 
 
 पदार्थान्वयभाषाः -  (सोम) हे समस्तस्य जगतः कर्तः परमात्मन् ! (ते वृष्ण्यम्) सर्वाभिलाषदं भवत ऐश्वर्य्यं (विश्वतः) सर्वतः (समेतु) अस्मान् प्राप्नोतु अथ च भवान् (आ प्यायस्व) अस्मान् सर्वप्रकारेण वर्धय तथा (वाजस्य सङ्गथे) ऐश्वर्यनिमित्तके सङ्ग्रामे (भव) नः सहायको भव ॥४॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1602,18 +1593,7 @@ ye that are in this world, of these may I be the most fortunate.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/121/10_prajApate_na.md">
-
-<details><summary><h2>मूलम् …{Loading}…</h2></summary>
-
-प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव ।  
-यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कः
@@ -1707,7 +1687,12 @@ syāma ← √as- 1 (root)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव ।  
+यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1859,7 +1844,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1920,7 +1904,6 @@ O Prajapati, none other than thou
 Comprehendeth all these creatures [6].  
 What we seek when we sacrifice to thee, let that be ours;  
 May we be lords of riches.
-
 </details>
 
 <details><summary>Griffith</summary>
@@ -1969,7 +1952,6 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 पदार्थान्वयभाषाः -  (प्रजापते) हे प्रजायमानानां पालयितः स्वामिन् ! (त्वत्-अन्यः) त्वत्तो भिन्नः (ता-एतानि विश्वा जातानि न परि बभूव) सर्वाणि खलूत्पन्नानि तानि पूर्वाणि तथेमानि सम्प्रत्युत्पन्नानि वस्तूनि न परि भवति-नाधिकरोति (यत्कामाः-ते जुहुमः) यः कामो येषां ते तुभ्यं स्वात्मभावं समर्पयेम (तत्-नः-अस्तु) तदभीष्टमस्मभ्यं भवतु (वयं रयीणां पतयः स्याम) वयं सर्वविधधनानां स्वामिनो भवेम ॥१०॥
 </details>
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/devakRtasyainasaH.md">

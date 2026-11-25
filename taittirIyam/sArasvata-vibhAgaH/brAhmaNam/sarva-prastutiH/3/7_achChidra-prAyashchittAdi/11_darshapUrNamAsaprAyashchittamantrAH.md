@@ -364,18 +364,7 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/152/02_svastidA_vishaspatirvRtrahA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-स्व॒स्ति॒दा वि॒शस्पति॑र्वृत्र॒हा वि॑मृ॒धो व॒शी ।  
-वृषेन्द्रः॑ पु॒र ए॑तु नः सोम॒पा अ॑भयङ्क॒रः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/152/02_svastidA_vishaspatirvRtrahA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -443,7 +432,12 @@ abhayaṁkaráḥ ← abhayaṁkará- (nominal stem)
 
 somapā́ḥ ← somapā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒स्ति॒दा वि॒शस्पति॑र्वृत्र॒हा वि॑मृ॒धो व॒शी ।  
+वृषेन्द्रः॑ पु॒र ए॑तु नः सोम॒पा अ॑भयङ्क॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -550,7 +544,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -630,7 +623,6 @@ Der Segen schenkt als Stammes Herr den Vritra schlägt, den Feind bezwingt, Als 
 
 पदार्थान्वयभाषाः -  (स्वस्तिदाः) कल्याणदाता (विशस्-पतिः) प्रजायाः पालकः (वृत्रहा) आवरणकर्त्तुः पापिनो विरोधिनो हन्ता (विमृधः-वशी) विशिष्टः संग्रामो यासां ताः विरोधिनीः सेनाः-तस्याः-वशकर्त्ता “मृधः संग्रामनाम” [निघ० २।१७] (वृषा) सुखवर्षकः (इन्द्रः) परमात्मा राजा वा (सोमपाः) उत्पन्न-पदार्थानां रक्षकः “सोमपाः सर्वपदार्थरक्षकः” [ऋ० १।४।२ दयानन्दः] सोमरसस्य पानकर्त्ता वा (अभयङ्करः) अभयदाता (नः पुरः-एतु) अस्माकं सम्मुखं प्राप्नोतु-अग्रे गच्छतु वा ॥२॥
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/32_Abhir_gIrbhir.md">

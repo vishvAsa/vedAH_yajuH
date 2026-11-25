@@ -656,18 +656,7 @@ Wise with goodwill among the gods.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/101/04_sIrA_yunjanti.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-सीरा॑ युञ्जन्ति क॒वयो॑ यु॒गा वि त॑न्वते॒ पृथ॑क् ।  
-धीरा॑ दे॒वेषु॑ सुम्न॒या ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/101/04_sIrA_yunjanti.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवा ऋत्विजो वा
@@ -682,7 +671,7 @@ Wise with goodwill among the gods.
 धी᳓रा देवे᳓षु सुम्नया᳓
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 सीरा॑ युञ्जन्ति क॒वयो॑ यु॒गा वि त॑न्वते॒ पृथ॑क् ।  
 धीरा॑ दे॒वेषु॑ सुम्न॒या ।
@@ -730,7 +719,12 @@ dhī́rāḥ ← dhī́ra- (nominal stem)
 
 sumnayā́ ← sumnayā́- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सीरा॑ युञ्जन्ति क॒वयो॑ यु॒गा वि त॑न्वते॒ पृथ॑क् ।  
+धीरा॑ दे॒वेषु॑ सुम्न॒या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -808,7 +802,6 @@ _________
 - \[adverb\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -819,6 +812,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 **कवयः** मेधाविन ऋत्विजः **सीरा** सीराणि कर्षणसाधनानि **युञ्जन्ति** योजयन्ति । **युगा** युगान्यपि **पृथक्** परस्परं **वि** **तन्वते** भिन्नप्रदेशानि कुर्वन्ति । कीदृशाः कवयः । **देवेषु** विषये **धीराः** धीमन्तः । किमर्थम् । सुम्नया । सुम्नमिति सुखनाम । सुखेच्छया । सुम्नशब्दात् क्यजन्ताद्भावे ‘ अ प्रत्ययात्' इत्यकारप्रत्ययः । ‘सुपां सुलुक्' इति तृतीयाया आकारः । अथवा धीरा धीमन्तो देवेषु सुम्नया सुम्नेन । देवेषु सुखं भूयादिति । ‘सुपां सुलुक्' इति विभक्तेर्याजादेशः ॥
+
 
 _____________
 
@@ -887,7 +881,6 @@ Die es verstehen, spannen die Stränge an und legen die Joche gesondert auf, die
 
 पदार्थान्वयभाषाः -  (कवयः) कृषिवलाः-कृषकाः-(सीरा युञ्जन्ति) सीराणि हलादीनि योजयन्ति बलिवर्देषु (युगा पृथक् वि तन्वते) योक्त्राणि चर्मसाधनानि पृथक् पृथग्बलीवर्दिषु वितन्वन्ति-बध्नन्ति (धीराः सुम्नया-देवेषु) धीमन्तो वैज्ञानिका लोकेषु स्वेच्छया विद्युन्मेघमरुत्सु मनो युञ्जते यत् कृषिः सम्पन्ना स्यादिति चिन्तयन्ति तदुपायान् ॥४॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

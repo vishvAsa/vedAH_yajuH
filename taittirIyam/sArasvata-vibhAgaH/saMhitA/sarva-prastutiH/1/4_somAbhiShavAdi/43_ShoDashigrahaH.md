@@ -16,18 +16,7 @@ title = "४३ षोडशिग्रहः"
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/047/02_sajoShA_indra.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-स॒जोषा॑ इन्द्र॒ सग॑णो म॒रुद्भिः॒ सोमं॑ पिब वृत्र॒हा शू॑र वि॒द्वान् ।  
-ज॒हि शत्रूँ॒रप॒ मृधो॑ नुद॒स्वाथाभ॑यं कृणुहि वि॒श्वतो॑ नः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/047/02_sajoShA_indra.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -113,7 +102,12 @@ naḥ ← ahám (pronoun)
 
 viśvátas ← viśvátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒जोषा॑ इन्द्र॒ सग॑णो म॒रुद्भिः॒ सोमं॑ पिब वृत्र॒हा शू॑र वि॒द्वान् ।  
+ज॒हि शत्रूँ॒रप॒ मृधो॑ नुद॒स्वाथाभ॑यं कृणुहि वि॒श्वतो॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -257,7 +251,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -375,7 +368,6 @@ Vereint, o Indra, mit den Marutscharen trink Soma, Held, du kund'ger Vritratödt
 
 भावार्थभाषाः -  जे राजे परस्पर मैत्री करून नियमित आहार-विहार, ब्रह्मचर्य, जितेन्द्रियता इत्यादीने शरीर व आत्म्याच्या पूर्ण बलाने शत्रूंचा संहार करतात व युद्ध जिंकून प्रजेला सर्व प्रकारे भयरहित करतात तेच सर्वत्र निर्भयतेने वावरून सुख प्राप्त करतात. ॥ २ ॥
 </details>
-
 </div>  
 
 _______

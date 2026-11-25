@@ -47,18 +47,7 @@ ________
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/081/01_yunjate_mana.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-यु॒ञ्जते॒ मन॑ उ॒त यु॑ञ्जते॒ धियो॒ विप्रा॒ विप्र॑स्य बृह॒तो वि॑प॒श्चितः॑ ।  
-वि होत्रा॑ दधे वयुना॒विदेक॒ इन्म॒ही दे॒वस्य॑ सवि॒तुः परि॑ष्टुतिः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/081/01_yunjate_mana.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -144,7 +133,12 @@ páriṣṭutiḥ ← páriṣṭuti- (nominal stem)
 
 savitúḥ ← savitár- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒ञ्जते॒ मन॑ उ॒त यु॑ञ्जते॒ धियो॒ विप्रा॒ विप्र॑स्य बृह॒तो वि॑प॒श्चितः॑ ।  
+वि होत्रा॑ दधे वयुना॒विदेक॒ इन्म॒ही दे॒वस्य॑ सवि॒तुः परि॑ष्टुतिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +149,7 @@ savitúḥ ← savitár- (nominal stem)
 
 <details><summary>पद-पाठः</summary>
 
-यु॒ञ्जते॑ । मनः॑ । उ॒त । यु॒ञ्ज॒ते॒ । धियः॑ । विप्राः॑ । विप्र॑स्य । बृ॒ह॒तः । वि॒प॒श्चितः॑ ॥ वीति॑ । होत्राः॑ । द॒धे॒ । व॒यु॒ना॒विदिति॑ वयुन-वित् । एकः॑ । इत् । म॒ही । दे॒वस्य॑ । स॒वि॒तुः । परि॑ष्टुति॒रिति॒ परि॑-स्तु॒तिः॒ ॥  
+यु॒ञ्जते॑ । मनः॑ । उ॒त । यु॒ञ्ज॒ते॒ । धियः॑ । विप्राः॑ । विप्र॑स्य । बृ॒ह॒तः । वि॒प॒श्चितः॑ ॥ वीति॑ । होत्राः॑ । द॒धे॒ । व॒यु॒ना॒विदिति॑ वयुन-वित् । एकः॑ । इत् । म॒ही । दे॒वस्य॑ । स॒वि॒तुः । परि॑ष्टुति॒रिति॒ परि॑-स्तु॒तिः॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -292,7 +286,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -476,7 +469,6 @@ Des grossen, weisen Priesters Priester rüsten zu den eignen Sinn und rüsten di
 
 भावार्थभाषाः -  अनेक महान विद्या व बुद्धीचे अधिष्ठान असलेल्या जगदीश्वरामध्ये जे मन व बुद्धीला निरंतर जोडतात ते संपूर्ण ऐहिक व पारलौकिक सुख प्राप्त करतात. ॥ १ ॥
 </details>
-
 </div>  
 
 ________
@@ -679,18 +671,7 @@ ________
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/022/17_idaM_viShNurvi.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इ॒दं विष्णु॒र्वि च॑क्रमे त्रे॒धा नि द॑धे प॒दम् ।  
-समू॑ळ्हमस्य पांसु॒रे ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/17_idaM_viShNurvi.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -750,7 +731,12 @@ pāṁsuré ← pāṁsurá- (nominal stem)
 
 sámūḷham ← √vah- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं विष्णु॒र्वि च॑क्रमे त्रे॒धा नि द॑धे प॒दम् ।  
+समू॑ळ्हमस्य पांसु॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -759,7 +745,7 @@ sámūḷham ← √vah- (root)
 सम्ऽऊ॑ळ्हम् । अ॒स्य॒ । पां॒सु॒रे ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 इ॒दम् । विष्णुः॑ । वीति॑ । च॒क्र॒मे॒ । त्रे॒धा । नीति॑ । द॒धे॒ । प॒दम् ॥ समू॑ढ॒मिति॒ सम्-ऊ॒ढ॒म् । अ॒स्य॒ । [25]  पाँ॒सु॒रे ।
 </details>
@@ -834,7 +820,6 @@ _________
 - \[noun\], locative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -866,7 +851,7 @@ _________
 
 <details><summary>सायण-टीका</summary>
 
-विष्णुस् त्रिविक्रमावतारं धृत्वेदं विश्वं विभज्य क्रमते स्म भूमाव् एकं पदमन्तरिक्षे द्वितीयं दिवि तृतीयमित्येवं त्रेधा पदं निदधे। पांसवो भूम्यादि-लोकरूपा यस्य पदस्य सन्ति तत्पांसुरम्। अस्य विष्णोस् तस्मिन् पदे विश्वं समूढं सम्यगन्तर्भूतम्। 
+विष्णुस् त्रिविक्रमावतारं धृत्वेदं विश्वं विभज्य क्रमते स्म भूमाव् एकं पदमन्तरिक्षे द्वितीयं दिवि तृतीयमित्येवं त्रेधा पदं निदधे। पांसवो भूम्यादि-लोकरूपा यस्य पदस्य सन्ति तत्पांसुरम्। अस्य विष्णोस् तस्मिन् पदे विश्वं समूढं सम्यगन्तर्भूतम्।
 </details>
 
 <details><summary>Wilson</summary>
@@ -970,7 +955,6 @@ Vischnu durchschritt die ganze Welt, trat dreimal nieder mit dem Fuss, An seinem
 
 टिप्पणी:   यापैकी आकाशात राहणारे वायूच्या आधारे कारणरूप आहेत. तेच पृथ्वी व सूर्य इत्यादींना वाढविणारे आहे. ईश्वराखेरीज कोणीही हे जग उत्पन्न करण्यास समथ नाही, कारण असे कुणाचेच सामर्थ्य नाही. ॥ १७ ॥
 </details>
-
 </div>
 
 ________
@@ -995,18 +979,7 @@ ________
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/099/03_irAvatI_dhenumatI.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इरा॑वती धेनु॒मती॒ हि भू॒तं सू॑यव॒सिनी॒ मनु॑षे दश॒स्या ।  
-व्य॑स्तभ्ना॒ रोद॑सी विष्णवे॒ते दा॒धर्थ॑ पृथि॒वीम॒भितो॑ म॒यूखैः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/099/03_irAvatI_dhenumatI.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -1083,7 +1056,12 @@ mayū́khaiḥ ← mayū́kha- (nominal stem)
 
 pr̥thivī́m ← pr̥thivī́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इरा॑वती धेनु॒मती॒ हि भू॒तं सू॑यव॒सिनी॒ मनु॑षे दश॒स्या ।  
+व्य॑स्तभ्ना॒ रोद॑सी विष्णवे॒ते दा॒धर्थ॑ पृथि॒वीम॒भितो॑ म॒यूखैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1191,7 +1169,6 @@ _________
 - “beam; peg; post.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1218,7 +1195,6 @@ _________
 <details><summary>सायण-टीका</summary>
 
 किंच इरावती अन्नवती धेनुमती धेनुर् बहु-क्षीरा गौस् तद्वत्यौ सूयवसिनी शोभनैर् यवसैर् अभ्यवहार्यौर् युक्ते मनवे मानव-प्रजार्थं यशस्ये यशो-निमित्ते भवतम्। एते रोदसी द्यावा-पृथिव्यौ विष्णुर् व्यस्कभ्नाद् विभज्य स्थापितवान्। तां च पृथिवीं मयूखैः स्व-तेजो-रूपैर् नाना-जीवैर् अभितो दाधार पुपोष। स विष्णुर् अनयोत्तर-हविर्धान-मार्गाहुत्या प्रीयताम्।
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -1305,7 +1281,6 @@ Sie beide sind nun labungsreich und milchreich, voll schöner Wiesen zum Genuss 
 
 पदार्थान्वयभाषाः -  (विष्णो) हे विभो ! (पृथिवीम्, अभितः) पृथिव्याः सर्वतः (मयूखैः) स्वतेजोमयकिरणैः (रोदसी) द्यावापृथिव्यौ (दाधर्थ) धृतवानसि, यौ चोभौ लोकौ (इरावती) ऐश्वर्यसम्पन्नौ (धेनुमती) सर्वमनोरथसाधकौ (सूयवसिनी) सर्वस्मात्सुन्दरौ (मनुषे) मनुष्याय ऐश्वर्यं दातुम् (दशस्या) उत्पादितौ भवता (वि, अस्तभ्नाः) तौ च स्वशक्त्या धारयसि ॥३॥
 </details>
-
 </div>  
 
 ________
@@ -1507,18 +1482,7 @@ ________
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/154/01_viShNornu_kaM.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-विष्णो॒र्नु कं॑ वी॒र्या॑णि॒ प्र वो॑चं॒ यः पार्थि॑वानि विम॒मे रजां॑सि ।  
-यो अस्क॑भाय॒दुत्त॑रं स॒धस्थं॑ विचक्रमा॒णस्त्रे॒धोरु॑गा॒यः ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/01_viShNornu_kaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -1598,7 +1562,12 @@ urugāyáḥ ← urugāyá- (nominal stem)
 
 vicakramāṇáḥ ← √kramⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विष्णो॒र्नु कं॑ वी॒र्या॑णि॒ प्र वो॑चं॒ यः पार्थि॑वानि विम॒मे रजां॑सि ।  
+यो अस्क॑भाय॒दुत्त॑रं स॒धस्थं॑ विचक्रमा॒णस्त्रे॒धोरु॑गा॒यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1607,9 +1576,9 @@ vicakramāṇáḥ ← √kramⁱ- (root)
 यः । अस्क॑भायत् । उत्ऽत॑रम् । स॒धऽस्थ॑म् । वि॒ऽच॒क्र॒मा॒णः । त्रे॒धा । उ॒रु॒ऽगा॒यः ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
-विष्णोः॑ । नुक॑म् । वी॒र्या॑णि । प्रेति॑ । वो॒च॒म् । यः । पार्थि॑वानि । वि॒म॒म इति॑ वि-म॒मे । रजाँ॑सि । यः । अस्क॑भायत् । उत्त॑र॒मित्युत्-त॒र॒म् । स॒धस्थ॒मिति॑ स॒ध-स्थ॒म् । वि॒च॒क्र॒मा॒ण इति॑ वि-च॒क्र॒मा॒णः । त्रे॒धा । उ॒रु॒गा॒य इत्यु॑रु-गा॒यः । 
+विष्णोः॑ । नुक॑म् । वी॒र्या॑णि । प्रेति॑ । वो॒च॒म् । यः । पार्थि॑वानि । वि॒म॒म इति॑ वि-म॒मे । रजाँ॑सि । यः । अस्क॑भायत् । उत्त॑र॒मित्युत्-त॒र॒म् । स॒धस्थ॒मिति॑ स॒ध-स्थ॒म् । वि॒च॒क्र॒मा॒ण इति॑ वि-च॒क्र॒मा॒णः । त्रे॒धा । उ॒रु॒गा॒य इत्यु॑रु-गा॒यः ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1728,7 +1697,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1787,7 +1755,7 @@ _________
 इत्य्-एवं-रीत्या स्यात् ।  
 यस्मात् पार्थिव-रेणु-गणनम् एव कर्तुम् अशक्तो ऽस्मि,  
 अत एव विष्णु-वीर्य-गणने ऽप्य् अशक्तः इत्यत्र तात्पर्यम् ।  
-आस्ताम् एतत् । 
+आस्ताम् एतत् ।
 </details>
 
 <details><summary>Wilson</summary>
@@ -1907,7 +1875,6 @@ Des Vischnu grosse Thaten will ich preisen, der weit durchmessen hat der Erde R�
 
 भावार्थभाषाः -  जसा सूर्य आपल्या आकर्षणशक्तीने संपूर्ण भूगोलाला धारण करतो तसे सूर्य इत्यादी लोक, कारण व जीव यांना जगदीश्वर धारण करीत आहे. जो या असंख्य लोकांना निर्माण करतो, ज्याच्यात प्रलय होतो त्याचीच सर्वांनी उपासना केली पाहिजे. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>

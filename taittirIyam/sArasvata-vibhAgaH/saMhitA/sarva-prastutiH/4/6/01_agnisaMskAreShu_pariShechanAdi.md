@@ -373,18 +373,7 @@ In the heat unathirst, immortal.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/026/01_agne_pAvaka.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अग्ने॑ पावक रो॒चिषा॑ म॒न्द्रया॑ देव जि॒ह्वया॑ ।  
-आ दे॒वान्व॑क्षि॒ यक्षि॑ च ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/026/01_agne_pAvaka.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -399,7 +388,7 @@ In the heat unathirst, immortal.
 आ᳓ देवा᳓न् वक्षि य᳓क्षि च
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अग्ने॑ पावक रो॒चिषा॑ म॒न्द्रया॑ देव जि॒ह्वया॑ ।  
 आ दे॒वान् [2]  व॒क्षि॒ यक्षि॑ च ।
@@ -450,7 +439,12 @@ vakṣi ← √vah- (root)
 
 yákṣi ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ पावक रो॒चिषा॑ म॒न्द्रया॑ देव जि॒ह्वया॑ ।  
+आ दे॒वान्व॑क्षि॒ यक्षि॑ च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -531,7 +525,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -542,6 +535,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **पावक** शोधक **रोचिषा** स्वदीप्त्या **मन्द्रया** देवानां मादयित्र्या **जिह्वया** च हे **देव** द्योतमान **अग्ने** **देवान्** **आ** **वक्षि** यज्ञार्थम् आवह । **यक्षि** **च** । तान् यज ॥
+
 
 _____________
 
@@ -586,7 +580,7 @@ Agni, purifier! With thy splendour, with thy delightful tongue, O god, bring hit
 
 O Agni, the purifying, with thy light,  
 0 god, with thy pleasant tongue,  
-Bring hither the gods and sacrifice.  
+Bring hither the gods and sacrifice.
 </details>
 
 <details><summary>Geldner</summary>
@@ -658,7 +652,6 @@ x
 
 भावार्थभाषाः -  जे प्रेमाने सत्याचा उपदेश करून विद्वान बनतात व श्रेष्ठ गुण प्राप्त करून इतरांना प्राप्त करवितात तेच आदरास पात्र असतात. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

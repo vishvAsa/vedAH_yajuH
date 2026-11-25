@@ -31,16 +31,6 @@ Indra at once conquered a hundred hosts.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/01_AshuH_shishAno.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-आ॒शुः शिशा॑नो वृष॒भो न भी॒मो घ॑नाघ॒नः क्षोभ॑णश्चर्षणी॒नाम् ।  
-सं॒क्रन्द॑नोऽनिमि॒ष ए॑कवी॒रः श॒तं सेना॑ अजयत्सा॒कमिन्द्रः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/01_AshuH_shishAno.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
@@ -120,7 +110,12 @@ sākám ← sākám (invariable)
 
 sénāḥ ← sénā- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒शुः शिशा॑नो वृष॒भो न भी॒मो घ॑नाघ॒नः क्षोभ॑णश्चर्षणी॒नाम् ।  
+सं॒क्रन्द॑नोऽनिमि॒ष ए॑कवी॒रः श॒तं सेना॑ अजयत्सा॒कमिन्द्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +229,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -255,7 +249,6 @@ _______________
 चर्षणीनां परसेनागतमनुष्याणां क्षोमणः क्षोभहेतुः।  
 संक्रन्दनः समीचीनं क्रन्दनं परभयहेतुर्ध्वनिविशेषो यस्यासौ संक्रन्दनः।  
 अनिमिषः कदाचिदपि निमेषं न करोत्यत्यन्तसावधान इत्यर्थः एकवीरः परानपेक्षेण ( क्षः ) स्वयमेक एव जेतुं समर्थः शूरः।
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -358,16 +351,6 @@ The foe, O heroes, with the strong one who holdeth the arrow in his hands.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-सं॒क्रन्द॑नेनानिमि॒षेण॑ जि॒ष्णुना॑ युत्का॒रेण॑ दुश्च्यव॒नेन॑ धृ॒ष्णुना॑ ।  
-तदिन्द्रे॑ण जयत॒ तत्स॑हध्वं॒ युधो॑ नर॒ इषु॑हस्तेन॒ वृष्णा॑ ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
@@ -444,7 +427,12 @@ vŕ̥ṣṇā ← vŕ̥ṣan- (nominal stem)
 
 yúdhaḥ ← yúdh- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं॒क्रन्द॑नेनानिमि॒षेण॑ जि॒ष्णुना॑ युत्का॒रेण॑ दुश्च्यव॒नेन॑ धृ॒ष्णुना॑ ।  
+तदिन्द्रे॑ण जयत॒ तत्स॑हध्वं॒ युधो॑ नर॒ इषु॑हस्तेन॒ वृष्णा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -554,7 +542,6 @@ _________
 - “bull; Indra; stallion; Vṛṣan; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -573,7 +560,6 @@ _______________
 कीदृशेनेन्द्रेण, संक्रन्दनेनानिमिषेण।  
 पूर्ववद्व्याख्येयम्।  
 जिष्णुना जयशीलेन, युस्कारेण युद्धकारिणा, दुश्च्यवनेन च्यावयितुं दुःशक्येन, धुष्णुना भीतिरहितेन, इषुहस्तेन बाणाद्यायुधोपेतेन, वृष्णा कामानां वर्षकेण।
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -657,16 +643,6 @@ With bow uplifted, and shooter with well-drawn arrows.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/03_sa_iShuhastaiH.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-स इषु॑हस्तैः॒ स नि॑ष॒ङ्गिभि॑र्व॒शी संस्र॑ष्टा॒ स युध॒ इन्द्रो॑ ग॒णेन॑ ।  
-सं॒सृ॒ष्ट॒जित्सो॑म॒पा बा॑हुश॒र्ध्यु१॒॑ग्रध॑न्वा॒ प्रति॑हिताभि॒रस्ता॑ ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/03_sa_iShuhastaiH.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
@@ -746,7 +722,12 @@ prátihitābhiḥ ← √dhā- 1 (root)
 
 ugrádhanvā ← ugrádhanvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स इषु॑हस्तैः॒ स नि॑ष॒ङ्गिभि॑र्व॒शी संस्र॑ष्टा॒ स युध॒ इन्द्रो॑ ग॒णेन॑ ।  
+सं॒सृ॒ष्ट॒जित्सो॑म॒पा बा॑हुश॒र्ध्यु१॒॑ग्रध॑न्वा॒ प्रति॑हिताभि॒रस्ता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -879,7 +860,6 @@ _________
 - “shoot; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -899,8 +879,7 @@ ________________
 स इन्द्रो युधो योद्धा  
 २१८० सन्गणेन परकीयभटसमूहेन संस्रष्ठा सहसा गत्वा सम्यङ्मिश्रितो भवति।  
 मिश्रीभूय च ये स्वेन संसृष्टास्तान्सर्वाञ्जयतीति संसृष्ठजित्।  
-यजमानानां यागेषु सोमं पिवतीति सोमपा अत एव बाहुशर्धी बाहुवलोपेत ऊर्थ्वधन्वा निरन्तरमुद्यतधनुष्कः प्रतिहिताभिस्तेन धनुषा प्रेरिताभिरिषुभिरस्ता क्षेप्ता विनाशयतीत्यर्थः।  
-
+यजमानानां यागेषु सोमं पिवतीति सोमपा अत एव बाहुशर्धी बाहुवलोपेत ऊर्थ्वधन्वा निरन्तरमुद्यतधनुष्कः प्रतिहिताभिस्तेन धनुषा प्रेरिताभिरिषुभिरस्ता क्षेप्ता विनाशयतीत्यर्थः।
 </details>
 
 <details><summary>Wilson</summary>
@@ -993,16 +972,6 @@ Be thou protector of our chariots.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/04_bRhaspate_pari.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-बृह॑स्पते॒ परि॑ दीया॒ रथे॑न रक्षो॒हामित्राँ॑ अप॒बाध॑मानः ।  
-प्र॒भ॒ञ्जन्त्सेनाः॑ प्रमृ॒णो यु॒धा जय॑न्न॒स्माक॑मेध्यवि॒ता रथा॑नाम् ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/04_bRhaspate_pari.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
@@ -1082,7 +1051,12 @@ edhi ← √as- 1 (root)
 
 ráthānām ← rátha- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृह॑स्पते॒ परि॑ दीया॒ रथे॑न रक्षो॒हामित्राँ॑ अप॒बाध॑मानः ।  
+प्र॒भ॒ञ्जन्त्सेनाः॑ प्रमृ॒णो यु॒धा जय॑न्न॒स्माक॑मेध्यवि॒ता रथा॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1193,7 +1167,6 @@ _________
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1214,7 +1187,6 @@ ________________
 तथाविध हे इन्द्र त्वं रथेन परिदीय सर्वतो गच्छ।  
 कीदृश इन्द्रः, रक्षोहा राक्षसानां हन्ता, अमित्राञ्शत्रूनवबाधमानो यथाऽपयन्ति तथा बाधमानः, सोनाः परकीयाः प्रभञ्जन्प्रकर्षेण भाग्नाः कुर्वन्, प्रमृणः प्रकर्षेण हिंसको युधा युद्धेन जयन्सर्वत विजयमानः।  
 अस्माकमस्मदीयानां रथानामवितैधि रक्षको भव।
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -1306,16 +1278,6 @@ O comrades, follow in Indra's footsteps.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/06_gotrabhidaM_govidaM.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-गो॒त्र॒भिदं॑ गो॒विदं॒ वज्र॑बाहुं॒ जय॑न्त॒मज्म॑ प्रमृ॒णन्त॒मोज॑सा ।  
-इ॒मं स॑जाता॒ अनु॑ वीरयध्व॒मिन्द्रं॑ सखायो॒ अनु॒ सं र॑भध्वम् ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/06_gotrabhidaM_govidaM.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
@@ -1395,7 +1357,12 @@ sakhāyaḥ ← sákhi- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गो॒त्र॒भिदं॑ गो॒विदं॒ वज्र॑बाहुं॒ जय॑न्त॒मज्म॑ प्रमृ॒णन्त॒मोज॑सा ।  
+इ॒मं स॑जाता॒ अनु॑ वीरयध्व॒मिन्द्रं॑ सखायो॒ अनु॒ सं र॑भध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1522,7 +1489,6 @@ _________
 - “clasp.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1639,16 +1605,6 @@ Do thou, winning kine, mount, O Indra, thy victorious car.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/05_balavijnAyaH_sthaviraH.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-ब॒ल॒वि॒ज्ञा॒यः स्थवि॑रः॒ प्रवी॑रः॒ सह॑स्वान्वा॒जी सह॑मान उ॒ग्रः ।  
-अ॒भिवी॑रो अ॒भिस॑त्वा सहो॒जा जैत्र॑मिन्द्र॒ रथ॒मा ति॑ष्ठ गो॒वित् ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/05_balavijnAyaH_sthaviraH.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
@@ -1728,7 +1684,12 @@ rátham ← rátha- (nominal stem)
 
 tiṣṭha ← √sthā- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब॒ल॒वि॒ज्ञा॒यः स्थवि॑रः॒ प्रवी॑रः॒ सह॑स्वान्वा॒जी सह॑मान उ॒ग्रः ।  
+अ॒भिवी॑रो अ॒भिस॑त्वा सहो॒जा जैत्र॑मिन्द्र॒ रथ॒मा ति॑ष्ठ गो॒वित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1857,7 +1818,6 @@ _________
 - “finding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1882,7 +1842,6 @@ _______________
 २१८१ अभितः सत्त्वानः परिचारकाः प्राणिनो यस्यासाव् **अभिसत्त्वा**।  
 सहसो बलाज्जातः सहोजा बलाधिक इत्यर्थः।  
 गां भूमिं विन्दते लभत इति गोवित्।
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -1982,16 +1941,6 @@ May he aid our armies in the battles.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/07_abhi_gotrANi.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-अ॒भि गो॒त्राणि॒ सह॑सा॒ गाह॑मानोऽद॒यो वी॒रः श॒तम॑न्यु॒रिन्द्रः॑ ।  
-दु॒श्च्य॒व॒नः पृ॑तना॒षाळ॑यु॒ध्यो॒३॒॑ऽस्माकं॒ सेना॑ अवतु॒ प्र यु॒त्सु ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/07_abhi_gotrANi.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
@@ -2071,7 +2020,12 @@ sénāḥ ← sénā- (nominal stem)
 
 yutsú ← yúdh- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि गो॒त्राणि॒ सह॑सा॒ गाह॑मानोऽद॒यो वी॒रः श॒तम॑न्यु॒रिन्द्रः॑ ।  
+दु॒श्च्य॒व॒नः पृ॑तना॒षाळ॑यु॒ध्यो॒३॒॑ऽस्माकं॒ सेना॑ अवतु॒ प्र यु॒त्सु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2176,7 +2130,6 @@ _________
 - “battle; fight; war; combat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2197,7 +2150,6 @@ ____________________
 दुश्च्यवनश्च्यावयितुं दुःशक्यः।  
 पृतनाषाट् परकीयसेनानामभिभविता।  
 अयुध्यः केनापि योद्धुमशक्यः।
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -2282,16 +2234,6 @@ That overthrow and conquer.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/08_indra_AsAM.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-इन्द्र॑ आसां ने॒ता बृह॒स्पति॒र्दक्षि॑णा य॒ज्ञः पु॒र ए॑तु॒ सोमः॑ ।  
-दे॒व॒से॒नाना॑मभिभञ्जती॒नां जय॑न्तीनां म॒रुतो॑ य॒न्त्वग्र॑म् ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/08_indra_AsAM.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
@@ -2368,7 +2310,12 @@ marútaḥ ← marút- (nominal stem)
 
 yantu ← √i- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ आसां ने॒ता बृह॒स्पति॒र्दक्षि॑णा य॒ज्ञः पु॒र ए॑तु॒ सोमः॑ ।  
+दे॒व॒से॒नाना॑मभिभञ्जती॒नां जय॑न्तीनां म॒रुतो॑ य॒न्त्वग्र॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2478,7 +2425,6 @@ _________
     glans.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2589,16 +2535,6 @@ Great-hearted that shake the worlds as they conquer.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/09_indrasya_vRShNo.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-इन्द्र॑स्य॒ वृष्णो॒ वरु॑णस्य॒ राज्ञ॑ आदि॒त्यानां॑ म॒रुतां॒ शर्ध॑ उ॒ग्रम् ।  
-म॒हाम॑नसां भुवनच्य॒वानां॒ घोषो॑ दे॒वानां॒ जय॑ता॒मुद॑स्थात् ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/09_indrasya_vRShNo.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
@@ -2675,7 +2611,12 @@ jáyatām ← √ji- 1 (root)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑स्य॒ वृष्णो॒ वरु॑णस्य॒ राज्ञ॑ आदि॒त्यानां॑ म॒रुतां॒ शर्ध॑ उ॒ग्रम् ।  
+म॒हाम॑नसां भुवनच्य॒वानां॒ घोषो॑ दे॒वानां॒ जय॑ता॒मुद॑स्थात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2782,7 +2723,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2797,7 +2737,6 @@ ________________
   
 वृष्णः कामामिवर्षिण इन्द्रस्य राज्ञं राज्यं कुर्वतो वरुणस्य शघों बलमुग्रं युद्धेष्वतितीव्रमस्तु।  
 महामनसां युद्धे स्थिरचितानां भुवनच्यवानां शत्रून्भूवनेभ्यरच्यावयितुं समर्थानां जयतां विजयमानानां देवानां घोषो निरुदस्थात्सर्वत उत्थितोऽभूत्।
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -2881,16 +2820,6 @@ Ours be the heroes who are victors,
 And us do ye aid, O gods, at our invocations.
 </details>
 </details>
-
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/11_asmAkamindraH_samRteShu.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-अ॒स्माक॒मिन्द्रः॒ समृ॑तेषु ध्व॒जेष्व॒स्माकं॒ या इष॑व॒स्ता ज॑यन्तु ।  
-अ॒स्माकं॑ वी॒रा उत्त॑रे भवन्त्व॒स्माँ उ॑ देवा अवता॒ हवे॑षु ॥
-</details>
-
-</div>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/11_asmAkamindraH_samRteShu.md">
 
@@ -2977,7 +2906,12 @@ háveṣu ← háva- (nominal stem)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्माक॒मिन्द्रः॒ समृ॑तेषु ध्व॒जेष्व॒स्माकं॒ या इष॑व॒स्ता ज॑यन्तु ।  
+अ॒स्माकं॑ वी॒रा उत्त॑रे भवन्त्व॒स्माँ उ॑ देवा अवता॒ हवे॑षु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3103,7 +3037,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3121,7 +3054,6 @@ _____________
 अस्माकं ये वीरा शूरा भटास्त उत्तरे भवन्तु परकीयभटेभ्य उत्कृष्टा भवन्तु।  
 देवा हवेषु युद्धेषु अस्मानु अस्मानेवावतावन्तु रक्षन्तु।  
 इत्थ दशर्चमप्रतिरथसूक्तं समाप्तम्।
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -3214,16 +3146,6 @@ Let the sound of the conquering chariots arise.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
-
-<details><summary><h3>मूलम् …{Loading}…</h3></summary>
-
-उद्ध॑र्षय मघव॒न्नायु॑धा॒न्युत्सत्व॑नां माम॒कानां॒ मनां॑सि ।  
-उद्वृ॑त्रहन्वा॒जिनां॒ वाजि॑ना॒न्युद्रथा॑नां॒ जय॑तां यन्तु॒ घोषाः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
@@ -3306,7 +3228,12 @@ ráthānām ← rátha- (nominal stem)
 
 yantu ← √i- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्ध॑र्षय मघव॒न्नायु॑धा॒न्युत्सत्व॑नां माम॒कानां॒ मनां॑सि ।  
+उद्वृ॑त्रहन्वा॒जिनां॒ वाजि॑ना॒न्युद्रथा॑नां॒ जय॑तां यन्तु॒ घोषाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3421,7 +3348,6 @@ _________
     twang.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3438,7 +3364,6 @@ ___________________
 मामकानां मदीयानां सत्व [ त्त्वा  ] नां प्राणिनां वहांसि तेजांस्युत्कृष्टानि कृत्वा तान्हर्षय।  
 हे वृत्रहन्वाजिनामस्मदीयानामश्वानां वाजिनानि शीघ्रगमनान्युक्तृष्टानि कृत्वा हर्षय।  
 जयतां विजयं प्राप्नुवतां रथानामस्मदीयानां घोष उदेतु महाध्वनिरुद्गच्छतु।
-
 </details>
 
 <details><summary>Wilson</summary>

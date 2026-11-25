@@ -351,7 +351,7 @@ That he may embolden us.
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 त्रि᳓यम्बकं यजामहे  
-सुग᳓न्धिम् पुष्टि-व᳓र्धनम् +++(&lt;"गतिकारकोपपदात् कृत्")+++।  
+सुग᳓न्धिम् पुष्टि-व᳓र्धनम् +++(<"गतिकारकोपपदात् कृत्")+++।  
 उर्वारुक᳓म् +++(स्थूलफलम्)+++ [इ]व ब᳓न्धनान्  
 मृत्यो᳓र् मुक्षीय, मा᳓ ऽमृ᳓तात्॥
 
@@ -359,18 +359,7 @@ That he may embolden us.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/059/12_tryambakaM_yajAmahe.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-त्र्य॑म्बकं यजामहे सु॒गन्धिं॑ पुष्टि॒वर्ध॑नम् ।  
-उ॒र्वा॒रु॒कमि॑व॒ बन्ध॑नान्मृ॒त्योर्मु॑क्षीय॒ मामृता॑त् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/059/12_tryambakaM_yajAmahe.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः (मृत्युविमोचिनी ऋक्)
@@ -432,7 +421,12 @@ mr̥tyóḥ ← mr̥tyú- (nominal stem)
 
 mukṣīya ← √muc- (root)  
 {number:SG, person:1, mood:OPT, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्र्य॑म्बकं यजामहे सु॒गन्धिं॑ पुष्टि॒वर्ध॑नम् ।  
+उ॒र्वा॒रु॒कमि॑व॒ बन्ध॑नान्मृ॒त्योर्मु॑क्षीय॒ मामृता॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -522,7 +516,6 @@ _________
 - “immortal; amṛta; imperishable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -582,16 +575,13 @@ Like a cucumber from its stem, might I be freed from death, not from  deathlessn
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
-<details open><summary><h7>09-12 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>09-12 ...{Loading}...</h2></summary>
 
 For the Sākamedha rites reflected in these vss., see published introduction. and, e.g., ŚB II.5.3, esp. 3ff.; ĀpŚS VIII.9; sec. lit. including Hillebrandt, Ritual-Litteratur, 117-19; Keith, Religion and Philosophy, 322-23, etc.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -672,7 +662,6 @@ Den Triambaka verehren wir, den schönduftenden, Nahrung mehrenden. Wie eine Kü
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. हे माणसांनो ! आम्हा सर्व लोकांचे उपास्य जगदीश्वरच आहे. ज्याच्या उपासनेने पुष्टी, वृद्धी, उत्तम यश व मोक्ष प्राप्त होतो. मृत्यूसंबंधी भय नष्ट होते. त्याचा त्याग करून इतराची उपासना करू नये. ॥ १२ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

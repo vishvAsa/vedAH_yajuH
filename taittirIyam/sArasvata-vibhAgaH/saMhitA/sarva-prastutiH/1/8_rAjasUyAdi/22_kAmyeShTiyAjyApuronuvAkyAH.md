@@ -147,18 +147,7 @@ May your tongue move forth to the ghee.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/061/04_pra_No.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-प्र णो॑ दे॒वी सर॑स्वती॒ वाजे॑भिर्वा॒जिनी॑वती ।  
-धी॒नाम॑वि॒त्र्य॑वतु ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/061/04_pra_No.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -212,7 +201,12 @@ avitrī́ ← avitrī́- (nominal stem)
 
 dhīnā́m ← dhī́- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र णो॑ दे॒वी सर॑स्वती॒ वाजे॑भिर्वा॒जिनी॑वती ।  
+धी॒नाम॑वि॒त्र्य॑वतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -278,7 +272,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -319,16 +312,12 @@ help us—the helper of visionary thoughts.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/04-06.md">
-<details open><summary><h7>04-06 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 This tṛca is almost empty of content, in part because so much of each Gāyatrī — not a capacious meter in the first place — is occupied by repeated material: the last 6 of the 8 syllables of the 1st pāda of each vs. contain the nom. (4) or voc. (5, 6) of the NP devī́sárasvatī, and the b pādas of 4 and 6 contain responsive material: vā́jebhiḥ vājínīvatī (4) and x x vā́jeṣu vājini. Otherwise, as a helper (avitrī́) she is twice asked to help (4c avatu, 6b ávā). In the published translation these two impvs. are rendered in two different ways: “Let … help” and “aid” respectively. I would now change the 2nd to “help” as well to mark their essential identity (save for ps.). [Note that the Holland & van Nooten Rig Veda edition restoration of avitry àvatu in 4c is wrong: correct their avitrí to avitrī́.]
 </details>
-</details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -400,7 +389,6 @@ Es schirm der Andacht Schirmerin Sarasvati, die Göttin uns, Mit Kräften sie, d
 
 भावार्थभाषाः -  मातांनी आपल्या संतानांना बालपणापासूनच चांगले शिक्षण देऊन विद्येद्वारे विद्वान करावे व त्यांच्याबरोबर अतुल सुख भोगावे. ॥ ४ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -424,18 +412,7 @@ Es schirm der Andacht Schirmerin Sarasvati, die Göttin uns, Mit Kräften sie, d
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/043/11_A_no.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-आ नो॑ दि॒वो बृ॑ह॒तः पर्व॑ता॒दा सर॑स्वती यज॒ता ग॑न्तु य॒ज्ञम् ।  
-हवं॑ दे॒वी जु॑जुषा॒णा घृ॒ताची॑ श॒ग्मां नो॒ वाच॑मुश॒ती शृ॑णोतु ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/043/11_A_no.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -521,7 +498,12 @@ uśatī́ ← √vaś- (root)
 
 vā́cam ← vā́c- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ दि॒वो बृ॑ह॒तः पर्व॑ता॒दा सर॑स्वती यज॒ता ग॑न्तु य॒ज्ञम् ।  
+हवं॑ दे॒वी जु॑जुषा॒णा घृ॒ताची॑ श॒ग्मां नो॒ वाच॑मुश॒ती शृ॑णोतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -653,7 +635,6 @@ _________
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -773,7 +754,6 @@ Zu unserm Opfer komme her vom Himmel, vom hohen Berg Sarasvati, die hehre; Die b
 
 भावार्थभाषाः -  जे सत्याची कामना करणारे, परोपकार प्रिय, धार्मिक व विद्यार्थ्यांची परीक्षा घेणारे असतात त्यांनाच श्रेष्ठ वाणी प्राप्त होते. ॥ ११ ॥
 </details>
-
 </div>  
 
 ## बार्हस्पत्य-यागः
@@ -798,18 +778,7 @@ Zu unserm Opfer komme her vom Himmel, vom hohen Berg Sarasvati, die hehre; Die b
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/062/04_bRhaspate_juShasva.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-बृह॑स्पते जु॒षस्व॑ नो ह॒व्यानि॑ विश्वदेव्य ।  
-रास्व॒ रत्ना॑नि दा॒शुषे॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/04_bRhaspate_juShasva.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -860,7 +829,12 @@ rā́sva ← √rā- 1 (root)
 
 rátnāni ← rátna- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृह॑स्पते जु॒षस्व॑ नो ह॒व्यानि॑ विश्वदेव्य ।  
+रास्व॒ रत्ना॑नि दा॒शुषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -920,7 +894,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1029,7 +1002,6 @@ Nimm, unsre Opfer gnädig an mit allen Göttern, Andachtsherr, Gib Schätze dem 
 
 भावार्थभाषाः -  हे अध्यापका! तू आमच्यासाठी विद्या ग्रहण कर व हे राजा! तू विद्या देणाऱ्यासाठी उत्तम धन दे. ॥ ४ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1053,18 +1025,7 @@ Nimm, unsre Opfer gnädig an mit allen Göttern, Andachtsherr, Gib Schätze dem 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/050/06_evA_pitre.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-ए॒वा पि॒त्रे वि॒श्वदे॑वाय॒ वृष्णे॑ य॒ज्ञैर्वि॑धेम॒ नम॑सा ह॒विर्भिः॑ ।  
-बृह॑स्पते सुप्र॒जा वी॒रव॑न्तो व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/050/06_evA_pitre.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -1138,7 +1099,12 @@ syāma ← √as- 1 (root)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा पि॒त्रे वि॒श्वदे॑वाय॒ वृष्णे॑ य॒ज्ञैर्वि॑धेम॒ नम॑सा ह॒विर्भिः॑ ।  
+बृह॑स्पते सुप्र॒जा वी॒रव॑न्तो व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1257,7 +1223,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1294,25 +1259,18 @@ Thus to the father to all the gods, to the bull, we would do honor with  sacrifi
 O Br̥haspati, may we, possessed of good offspring and of heroes, be  lords of riches.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As indicated in the published introduction, this is the final vs. of the 1st section of the hymn and has the standard marks of a hymn-final summary vs. It is the best evidence that vss. 1-6 were a separate composition, only secondarily amalgamated with the following two sections. Nonetheless, I think it simply marks a pause and a transition to the thematically contrastive next section.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
-<details open><summary><h7>01-06 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>01-06 ...{Loading}...</h2></summary>
 
 As indicated in the published introduction, this section concerns the unitary figure (Indra-)Bṛhaspati, here insistently identified as Bṛhaspati: there are 7 occurrences of the name in 6 vss., one in each save for two in vs. 2.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Keith</summary>
 
 Then to the father, with the All-gods, to the strong one, Let us pay honour with sacrifices, with reverence, with oblations; O Brhaspati, with good offspring, with heroes,  
 May we be lords of wealth.
-
 </details>
 
 <details><summary>Griffith</summary>
@@ -1391,7 +1349,6 @@ So lasst dem Stier, dem Vater aller Götter, voll Demuth uns durch Tränk' und O
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे माणसांनो, जसा सूर्य मेघांद्वारे सर्वांचे पालन करणारा आहे, तसेच वर्तन आम्ही करावे व अति उत्तम पुरुषाला राज्याचा स्वामी बनवावे. ॥ ६ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1415,18 +1372,7 @@ So lasst dem Stier, dem Vater aller Götter, voll Demuth uns durch Tränk' und O
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/023/15_bRhaspate_ati.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-बृह॑स्पते॒ अति॒ यद॒र्यो अर्हा॑द्द्यु॒मद्वि॒भाति॒ क्रतु॑म॒ज्जने॑षु ।  
-यद्दी॒दय॒च्छव॑स ऋतप्रजात॒ तद॒स्मासु॒ द्रवि॑णं धेहि चि॒त्रम् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/023/15_bRhaspate_ati.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -1509,7 +1455,12 @@ dráviṇam ← dráviṇa- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृह॑स्पते॒ अति॒ यद॒र्यो अर्हा॑द्द्यु॒मद्वि॒भाति॒ क्रतु॑म॒ज्जने॑षु ।  
+यद्दी॒दय॒च्छव॑स ऋतप्रजात॒ तद॒स्मासु॒ द्रवि॑णं धेहि चि॒त्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1639,7 +1590,6 @@ _________
     painted; obvious; patched; bizarre.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1772,7 +1722,6 @@ Brihaspati, was recht dem Frommen werth gilt, was glänzend strahlt und wirksam 
 
 भावार्थभाषाः -  ईश्वराने वेदाद्वारे जे सत्य ज्ञान प्रकट केले आहे ते ज्ञान आपण इतरांना द्यावे. जे स्वतःसाठी इछिले असेल तशीच इच्छा इतरांसाठी बाळगावी. ॥ १५ ॥
 </details>
-
 </div>  
 
 ## मैत्रावरुण-यागः
@@ -1796,18 +1745,7 @@ Brihaspati, was recht dem Frommen werth gilt, was glänzend strahlt und wirksam 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/062/16_A_no.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-आ नो॑ मित्रावरुणा घृ॒तैर्गव्यू॑तिमुक्षतम् ।  
-मध्वा॒ रजां॑सि सुक्रतू ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/16_A_no.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -1861,7 +1799,12 @@ rájāṁsi ← rájas- (nominal stem)
 
 sukratū ← sukrátu- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ मित्रावरुणा घृ॒तैर्गव्यू॑तिमुक्षतम् ।  
+मध्वा॒ रजां॑सि सुक्रतू ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1933,7 +1876,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2057,7 +1999,6 @@ Benetzt, o Mitra-Varuna, mit Butter unsern Weideplatz, Mit Meth die Räume, Tref
 
 भावार्थभाषाः -  जे अध्यापक व उपदेशक यांनी उपदेश केलेली प्राणविद्या अर्थात् वायूविद्या जाणून लोकलोकान्तरी अर्थात् एका देशातून दुसऱ्या देशात जाणे-येणे करतात ते जलाप्रमाणे शुद्ध अंतःकरणयुक्त असतात. ॥ १६ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2081,18 +2022,7 @@ Benetzt, o Mitra-Varuna, mit Butter unsern Weideplatz, Mit Meth die Räume, Tref
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/062/05_pra_bAhavA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-प्र बा॒हवा॑ सिसृतं जी॒वसे॑ न॒ आ नो॒ गव्यू॑तिमुक्षतं घृ॒तेन॑ ।  
-आ नो॒ जने॑ श्रवयतं युवाना श्रु॒तं मे॑ मित्रावरुणा॒ हवे॒मा ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/062/05_pra_bAhavA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -2181,7 +2111,12 @@ mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)
 
 śrutám ← √śru- (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र बा॒हवा॑ सिसृतं जी॒वसे॑ न॒ आ नो॒ गव्यू॑तिमुक्षतं घृ॒तेन॑ ।  
+आ नो॒ जने॑ श्रवयतं युवाना श्रु॒तं मे॑ मित्रावरुणा॒ हवे॒मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2312,7 +2247,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2412,7 +2346,6 @@ O streckt die Arme vor, damit wir leben, besprengt mit fetter Nahrung unsre Wies
 
 पदार्थान्वयभाषाः -  (मित्रावरुणा) हे प्राणापानरूपवायू ! (नः) अस्माकं (जीवसे) जीवनार्थं (प्र) विशेषतया (बाहवा) युवाभ्यां शक्तिरूपौ भुजौ (सिसृतम्) प्रसारयतम्, अपरञ्च (नः) अस्माकं (गव्यूतिम्) इन्द्रियगणं (घृतेन) सुस्निग्धतया सुमार्गे (उक्षतम्) सिञ्चतम्,हे प्राणापानौ ! भवन्तौ (युवाना) सदैव युवावस्थां प्राप्तौ,अत एव (नः) अस्माकं (जने) मादृशे मनुष्ये (आ) किञ्च (श्रुतम्) ज्ञानगतिं (श्रवयतम्) वर्द्धयतां (मे) मम (इमा,हवाः) प्राणापानरूपा आहुतीः (श्रुतम्) प्रवाहिताः कुरुताम्॥५॥
 </details>
-
 </div>  
 
 ## सौमा-रौद्र-यागः
@@ -2455,18 +2388,7 @@ Like a much loved friend.
 </details>
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/031/14_agniM_vaH.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अ॒ग्निं वः॑ पू॒र्व्यं गि॒रा दे॒वमी॑ळे॒ वसू॑नाम् ।  
-स॒प॒र्यन्तः॑ पुरुप्रि॒यं मि॒त्रं न क्षे॑त्र॒साध॑सम् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/031/14_agniM_vaH.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दंपत्योराशिषः
@@ -2531,7 +2453,12 @@ mitrám ← mitrá- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं वः॑ पू॒र्व्यं गि॒रा दे॒वमी॑ळे॒ वसू॑नाम् ।  
+स॒प॒र्यन्तः॑ पुरुप्रि॒यं मि॒त्रं न क्षे॑त्र॒साध॑सम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2623,7 +2550,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2697,7 +2623,6 @@ Den Agni preise ich zuerst mit Lied, den Gott der Schätze gibt, den Hort des Fe
 
 पदार्थान्वयभाषाः -  हे विद्वांसः ! वो युष्माकं मध्ये यथाऽहम्। पूर्व्यं पुरातनम्। वसूनाम् धनानां देवमीशं धनेशमित्यर्थः (अग्निम्) महेशम्। गिरा=वाण्या। ईळे स्तौमि। तथा यूयमपि। मित्रं न मित्रमिव सर्वेषां मित्रभूतम्। अतः पुरुप्रियम् बहुप्रियं सर्वप्रियम्। तथा क्षेत्रसाधसम्। क्षियन्ति निवसन्ति जीवा यत्र तत्र क्षेत्रं जगद्रूपं भूमिः। तत्साधयितारम् सर्वोत्पादकमित्यर्थः। ईदृशं महेशम् सपर्यन्तः पूजयन्तः सन्तः। स्तुतः ॥१४॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2722,18 +2647,7 @@ Den Agni preise ich zuerst mit Lied, den Gott der Schätze gibt, den Hort des Fe
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/031/15_maxU_devavato.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-म॒क्षू दे॒वव॑तो॒ रथः॒ शूरो॑ वा पृ॒त्सु कासु॑ चित् ।  
-दे॒वानां॒ य इन्मनो॒ यज॑मान॒ इय॑क्षत्य॒भीदय॑ज्वनो भुवत् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/031/15_maxU_devavato.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दंपत्योराशिषः
@@ -2818,7 +2732,12 @@ bhuvat ← √bhū- (root)
 
 ít ← ít (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒क्षू दे॒वव॑तो॒ रथः॒ शूरो॑ वा पृ॒त्सु कासु॑ चित् ।  
+दे॒वानां॒ य इन्मनो॒ यज॑मान॒ इय॑क्षत्य॒भीदय॑ज्वनो भुवत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2934,7 +2853,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3027,7 +2945,6 @@ Des Frommen Wagen wie ein Held eilt schnell voran in jedem Kampf; Wer recht der 
 
 पदार्थान्वयभाषाः -  देववतः देवः परमात्मा आराध्यतया विद्यते यस्य स देवान् तस्य देवोपासकस्य पुरुषस्य। रथो रमणीयो वाहनो मक्षु शीघ्रं प्रसिद्धतरो जायते। वा अथवा। स स्वयम् कासुचित् पृत्सु पृतनासु सेनासु मध्ये। शूरो नायको भवति। ये यजमान उपासकः यश्च। देवानां दिव्यगुणसम्पन्नानाम्। मन इत् मन एव। इयक्षति यष्टुमिच्छति। सः। अयज्वनो नास्तिकान् जनान्। अभि+भुवत्+इत्=अभिभवत्येव ॥१५॥
 </details>
-
 </div>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/031/16_na_yajamAna.md">
@@ -3043,18 +2960,7 @@ Des Frommen Wagen wie ein Held eilt schnell voran in jedem Kampf; Wer recht der 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/031/16_na_yajamAna.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-न य॑जमान रिष्यसि॒ न सु॑न्वान॒ न दे॑वयो ।  
-दे॒वानां॒ य इन्मनो॒ यज॑मान॒ इय॑क्षत्य॒भीदय॑ज्वनो भुवत् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/031/16_na_yajamAna.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दंपत्योराशिषः
@@ -3136,7 +3042,12 @@ bhuvat ← √bhū- (root)
 
 ít ← ít (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न य॑जमान रिष्यसि॒ न सु॑न्वान॒ न दे॑वयो ।  
+दे॒वानां॒ य इन्मनो॒ यज॑मान॒ इय॑क्षत्य॒भीदय॑ज्वनो भुवत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3252,7 +3163,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3337,7 +3247,6 @@ Nicht trifft dich Schaden, Opferer, nicht Somapresser, Frommer dich; Wer recht d
 
 पदार्थान्वयभाषाः -  हे यजमान ! ईश्वरपूजकजन ! यदि त्वम्। परमात्मानमेव यजसि। तर्हि त्वं। न रिष्यसि विनष्टो न भवति। न तव नाशो भविष्यतीत्यर्थः। हे सुन्वान ! हे शुभकर्मसम्पादक ! यदि त्वम्। सदा शुभान्येव कर्म्माणि करोषि तदा त्वं न रिष्यसि न विनश्यसि। हे देवयो ! परमात्मानम् कामयते यः स देवयुः। तस्य सम्बोधने हे देवयो सदा देवकामिन्। यदि त्वम्। सर्वं विहाय केवलमेकमेव ईशम् कामयसे। तदा त्वं न रिष्यसि। यश्च यजमान उपासकः। यश्च देवानाम्। इत्यादि पूर्ववत् ॥१६॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -3362,18 +3271,7 @@ Nicht trifft dich Schaden, Opferer, nicht Somapresser, Frommer dich; Wer recht d
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/031/18_asadatra_suvIryamuta.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-अस॒दत्र॑ सु॒वीर्य॑मु॒त त्यदा॒श्वश्व्य॑म् ।  
-दे॒वानां॒ य इन्मनो॒ यज॑मान॒ इय॑क्षत्य॒भीदय॑ज्वनो भुवत् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/031/18_asadatra_suvIryamuta.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दंपत्योराशिषः
@@ -3452,7 +3350,12 @@ bhuvat ← √bhū- (root)
 
 ít ← ít (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस॒दत्र॑ सु॒वीर्य॑मु॒त त्यदा॒श्वश्व्य॑म् ।  
+दे॒वानां॒ य इन्मनो॒ यज॑मान॒ इय॑क्षत्य॒भीदय॑ज्वनो भुवत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3577,7 +3480,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3668,7 +3570,6 @@ Bei ihm muss Heldenfülle sein und schneller Rosse Vollbesitz; Wer recht der Gö
 
 पदार्थान्वयभाषाः -  अत्र अस्मिन् परमात्मोपासके जने। सुवीर्यम्। असत् भवति। शारीरं मानसिकञ्च बलं तस्मिन् सदा वर्धते। उत अपि च। आश्वश्व्यम् आशुगामि अश्वादिप्राणिजातम्। त्यत् तत्प्रसिद्धं धनम्। तस्मिन् जायते। यश्च यजमानः देवानां विदुषाञ्च। मन इत् मन एव स्वाचरणैः। इयक्षति पूजयति वशीकरोति। सः अयज्वनो नास्तिकान्। अभि। भुवत्+इत्=अभिभवत्येव ॥१८॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -3693,18 +3594,7 @@ Bei ihm muss Heldenfülle sein und schneller Rosse Vollbesitz; Wer recht der Gö
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/031/17_nakiShTaM_karmaNA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-नकि॒ष्टं कर्म॑णा नश॒न्न प्र यो॑ष॒न्न यो॑षति ।  
-दे॒वानां॒ य इन्मनो॒ यज॑मान॒ इय॑क्षत्य॒भीदय॑ज्वनो भुवत् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/031/17_nakiShTaM_karmaNA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दंपत्योराशिषः
@@ -3792,7 +3682,12 @@ bhuvat ← √bhū- (root)
 
 ít ← ít (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नकि॒ष्टं कर्म॑णा नश॒न्न प्र यो॑ष॒न्न यो॑षति ।  
+दे॒वानां॒ य इन्मनो॒ यज॑मान॒ इय॑क्षत्य॒भीदय॑ज्वनो भुवत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3926,7 +3821,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -4010,7 +3904,6 @@ Niemand verletzet durch sein Thun, noch scheucht er den, noch wehrt ihn ab; Wer 
 
 पदार्थान्वयभाषाः -  केवलं महेशमुपाश्रित्य तिष्ठति। तं सुप्रसिद्धं जनम्। नकिः नहि कश्चित् पुरुषः। कर्मणा। नशत् व्याप्नोति। नशतिर्व्याप्तिकर्मा। न तेन तुल्यः कश्चिद् भवतीत्यर्थः। पुनः। स जनः। न प्रयोषत् स्वस्थानात् प्रचलितो न भवति। किञ्च। न योषति। पुत्रादिभिर्धनादिभिश्च पृथक्कृतो न भवति। सदा ऐहिकसुखैः संयुक्तो भवतीत्यर्थः। यः देवानां पूर्ववत् ॥१७॥
 </details>
-
 </div>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/125/04_upa_xaranti.md">
@@ -4026,18 +3919,7 @@ Niemand verletzet durch sein Thun, noch scheucht er den, noch wehrt ihn ab; Wer 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/125/04_upa_xaranti.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-उप॑ क्षरन्ति॒ सिन्ध॑वो मयो॒भुव॑ ईजा॒नं च॑ य॒क्ष्यमा॑णं च धे॒नवः॑ ।  
-पृ॒णन्तं॑ च॒ पपु॑रिं च श्रव॒स्यवो॑ घृ॒तस्य॒ धारा॒ उप॑ यन्ति वि॒श्वतः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/125/04_upa_xaranti.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - स्वनयस्य दानस्तुतिः
@@ -4123,7 +4005,12 @@ viśvátas ← viśvátas (invariable)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ क्षरन्ति॒ सिन्ध॑वो मयो॒भुव॑ ईजा॒नं च॑ य॒क्ष्यमा॑णं च धे॒नवः॑ ।  
+पृ॒णन्तं॑ च॒ पपु॑रिं च श्रव॒स्यवो॑ घृ॒तस्य॒ धारा॒ उप॑ यन्ति वि॒श्वतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4243,7 +4130,6 @@ _________
 - “everywhere; around; about.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -4293,7 +4179,6 @@ I would also slightly alter the tr. of the phrase in b to “the one who has sac
 Streams, health-bringing, like milch cows,  
 Pour up to the man who hath sacrificed and shall sacrifice; Him who filleth and satiateth [4], bringing fame,  
 Streams of ghee approach on all sides.
-
 </details>
 
 <details><summary>Griffith</summary>
@@ -4367,7 +4252,6 @@ Es rinnen lustbringende Ströme, die Milchtränke, hin zu dem, der geopfert hat,
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जे स्त्री व पुरुष गृहस्थाश्रमात एकमेकांना प्रिय आचरण करतात व विद्येचा अभ्यास करून संतानांकडून अभ्यास करवून घेतात ते निरंतर सुख प्राप्त करतात. ॥ ४ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -4444,18 +4328,7 @@ Whatever sin we have done remove from us.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/074/03_somArudrA_yuvametAnyasme.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-सोमा॑रुद्रा यु॒वमे॒तान्य॒स्मे विश्वा॑ त॒नूषु॑ भेष॒जानि॑ धत्तम् ।  
-अव॑ स्यतं मु॒ञ्चतं॒ यन्नो॒ अस्ति॑ त॒नूषु॑ ब॒द्धं कृ॒तमेनो॑ अ॒स्मत् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/074/03_somArudrA_yuvametAnyasme.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमारुद्रौ
@@ -4541,7 +4414,12 @@ kr̥tám ← √kr̥- (root)
 
 tanū́ṣu ← tanū́- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमा॑रुद्रा यु॒वमे॒तान्य॒स्मे विश्वा॑ त॒नूषु॑ भेष॒जानि॑ धत्तम् ।  
+अव॑ स्यतं मु॒ञ्चतं॒ यन्नो॒ अस्ति॑ त॒नूषु॑ ब॒द्धं कृ॒तमेनो॑ अ॒स्मत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4682,7 +4560,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -4805,7 +4682,6 @@ O Soma-Rudra, alle Arzeneien, die wohlbekannten, legt in unsre Leiber; Macht fre
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे राजा ! तू वैद्यक विद्येचा प्रचार करून आमचे शरीर निरोगी कर. पुरुषार्थाने दुःख दूर कर व चांगल्या वैद्यांचा सत्कार कर. ॥ ३ ॥
 </details>
-
 </div>  
 
 ## सोमापौष्ण-यागः
@@ -4831,18 +4707,7 @@ O Soma-Rudra, alle Arzeneien, die wohlbekannten, legt in unsre Leiber; Macht fre
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/040/01_somApUShaNA_jananA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-सोमा॑पूषणा॒ जन॑ना रयी॒णां जन॑ना दि॒वो जन॑ना पृथि॒व्याः ।  
-जा॒तौ विश्व॑स्य॒ भुव॑नस्य गो॒पौ दे॒वा अ॑कृण्वन्न॒मृत॑स्य॒ नाभि॑म् ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/040/01_somApUShaNA_jananA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमापूषणौ
@@ -4916,7 +4781,12 @@ devā́ḥ ← devá- (nominal stem)
 
 nā́bhim ← nā́bhi- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमा॑पूषणा॒ जन॑ना रयी॒णां जन॑ना दि॒वो जन॑ना पृथि॒व्याः ।  
+जा॒तौ विश्व॑स्य॒ भुव॑नस्य गो॒पौ दे॒वा अ॑कृण्वन्न॒मृत॑स्य॒ नाभि॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -5028,7 +4898,6 @@ _________
     \[word\]; friendship; center.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -5087,7 +4956,6 @@ O Soma and Pusan, begetters of wealth,
 Begetters, of sky, begetters of earth,  
 Born as protectors of the whole world,  
 The gods have made (you) the navel of immortality.
-
 </details>
 
 <details><summary>Griffith</summary>
@@ -5166,7 +5034,6 @@ x
 
 भावार्थभाषाः -  प्राण व अपान प्रकाश, पृथ्वी व धनाचे निमित्त असून सर्वांचा रक्षक असलेल्या परमेश्वराचे ज्ञापक असतात हे माणसांनी जाणले पाहिजे. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -5190,18 +5057,7 @@ x
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/040/02_imau_devau.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-इ॒मौ दे॒वौ जाय॑मानौ जुषन्ते॒मौ तमां॑सि गूहता॒मजु॑ष्टा ।  
-आ॒भ्यामिन्द्रः॑ प॒क्वमा॒मास्व॒न्तः सो॑मापू॒षभ्यां॑ जनदु॒स्रिया॑सु ॥
-</details>
-
-</div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/040/02_imau_devau.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमापूषणौ
@@ -5278,7 +5134,12 @@ somāpūṣábhyām ← somāpūṣán- (nominal stem)
 
 usríyāsu ← usríya- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मौ दे॒वौ जाय॑मानौ जुषन्ते॒मौ तमां॑सि गूहता॒मजु॑ष्टा ।  
+आ॒भ्यामिन्द्रः॑ प॒क्वमा॒मास्व॒न्तः सो॑मापू॒षभ्यां॑ जनदु॒स्रिया॑सु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -5392,7 +5253,6 @@ _________
 - “cow; dairy product.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -5416,7 +5276,6 @@ _________
 प्रपाठकस्समाप्तः काण्डश्च ॥
 
 हरिः ओम् ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -5526,5 +5385,4 @@ Sie seien hold uns, die gebornen Götter, sie mögen bergen das verhasste Dunkel
 
 भावार्थभाषाः -  अग्नी सर्व पदार्थात स्थित असून प्रकाश देणारा आहे. तो या जगात चंद्र व औषधीशिवाय सुखकारक होत नाही. त्यांना जाणून कार्यसिद्धी करावी. ॥ २ ॥
 </details>
-
 </div>
